@@ -1,0 +1,69 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-30T17:00:00+02:00
+- Ende: 2021-06-30T19:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20515
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20515
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2021-06-03 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00417716.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2021-06-03 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00417716.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2021-06-03 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00417716.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Bestellung eines Schriftführers - einstimmig beschlossen
+- TOP 2.1: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Klimaanalyse im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: Auflösung der öffentlichen Einrichtung Großmarkt - Empfehlung einstimmig beschlossen
+- TOP 5: Änderungssatzung: Aufhebung des § 1 der Großmarktsatzung - Empfehlung einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (alt)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Interfraktionelle Anfrage: Tempo 40 auf der Straße "Am Röttchen"
+- TOP 11: Anfrage der Fraktion BÜ90/Die Grünen: Fahrzeugbestand im Stadtbezirk 6 - beantwortet
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP -: Anfragen
+- TOP 13: Anfrage der Fraktion BÜ90/Die Grünen: Sachstand zum Bauvorhaben Mintarder Weg
+- TOP 14: Anfrage der Fraktion BÜ90/Die Grünen: Offene Fragen zum flankierenden Verkehrskonzept des Neubauprojekts Deiker Höfe (ehemals Fashion House)
+- TOP 15: Anfrage der SPD-Fraktion: derzeitige und zukünftige Nutzung der Flüchtlingsunterkünfte in Lichtenbroich - beantwortet
+- TOP -: Anträge
+- TOP 16: Antrag der CDU-Fraktion: Kurzparken auf der Westfalenstraße vor der neuen Postfiliale auf der Westfalenstraße 57 - abweichend beschlossen
+- TOP 17: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines verkehrsberuhigten Bereichs auf dem Cloppenburger Weg - Platz zum Spielen! - abweichend beschlossen
+- TOP 18: Antrag der Fraktion BÜ90/Die Grünen: Prüfantrag zur Überarbeitung der Fußquerung Beedstraße / Im Huferfeld - Umwege beseitigen - abweichend beschlossen
+- TOP 19: Antrag der Fraktion BÜ90/Die Grünen: Prüfung sichere Schulwege zur Kartause-Hain-Grundschule - abweichend beschlossen
+- TOP 20: Antrag der CDU-Fraktion: Brunnen Heideweg/Gerhart-Hauptmann-Straße - einstimmig beschlossen
+- TOP 21: Antrag der CDU-Fraktion: Schaffung einer Einbahnstraße: Mintarder Weg - vertagt
+- TOP 22: Antrag der CDU-Fraktion: Realisierung von Mehrgenerationenwohnen und einer Tagespflege für Senioren am Zaunkönigweg - mehrheitlich beschlossen
+- TOP 23: Antrag der CDU-Fraktion: Verkehrssicherheitsspiegel Vogelsanger Weg - einstimmig beschlossen
+- TOP 24: Antrag der CDU-Fraktion: Umsetzung der Maßnahmen des Fußverkehrschecks - einstimmig beschlossen
+- TOP 25: Antrag der CDU-Fraktion: Verkehrsfluss auf der Theodorstraße - abweichend beschlossen
+- TOP 26: Antrag der Fraktion BÜ90/Die Grünen: Verlängerung der Grün-Phase für Fußgänger*innen an der Ampel Unterrather Straße/Am Röttchen/Kartäuserstraße - einstimmig beschlossen
+- TOP 27: Antrag der Fraktion BÜ90/Die Grünen: Überprüfung der Fahrradabstellmöglichkeiten am S-Bahnhof Rath Mitte - mehrheitlich abgelehnt
+- TOP 28: Antrag der Fraktion BÜ90/Die Grünen: Überprüfung der Fahrradabstellmöglichkeiten entlang der Westfalenstraße - abweichend beschlossen
+- TOP 29: Antrag der Fraktion BÜ90/Die Grünen: Schaffung von Fahrradabstellmöglichkeiten an der Kreuzung Lenaustraße/Mörsenbroicher Weg/Fahneburgstraße - mehrheitlich abgelehnt
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines verkehrsberuhigten Bereichs in einem Teilbereich der Straße "An der Golzheimer Heide" - vertagt
+- TOP 31: Antrag der Fraktion BÜ90/Die Grünen: Ergebnisse des Fußverkehrschecks umsetzen - Fußverkehr stärken - vertagt
+- TOP 32: Antrag der SPD-Fraktion: Einrichtung von Tempo 30 auf dem gesamten Volkardeyer Weg - vertagt
+- TOP 33: Antrag der SPD-Fraktion: Verlängerung der Grünphase an der Ampel Hamborner Straße Höhe Hs-Nr. 80 und Hamborner Straße / Kürtenstraße - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 34: Zuschuss 2021 - Antrag des Friedrich-Rückert-Gymnasium zur Teilnahme an der Gemüse Ackerdemie - einstimmig beschlossen
+- TOP 35: Trödelmärkte auf dem Schützenplatz Rather Broich im 2. Halbjahr 2021 - einstimmig beschlossen
+- TOP 36: Kunst am Bau - Wettbewerb am Friedrich-Rückert-Gymnasium - zur Kenntnis genommen
+- TOP 37: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung abweichend beschlossen
+- TOP 38: Endbericht zu den Fußverkehrschecks - zur Kenntnis genommen
+- TOP -: Informationsvorlagen
+- TOP 39: Gehwegsanierung Münsterstraße 402 - Vorlage BV6/027/2021 - zur Kenntnis genommen
+- TOP 40: Maßnahmen zur Sicherstellung des Einhaltens der Geschwindigkeitsbegrenzung auf der Krahnenburgstraße - Vorlage BV6/035/2021 - zur Kenntnis genommen
+- TOP 41: Radweg Am Gatherhof - Vorlage 176/ 100/2015 - zur Kenntnis genommen
+- TOP 42: Bauunterhaltungsmittel 2021 - einstimmig beschlossen
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Fahrbahnmarkierung Münsterstraße zwischen Grashofstraße und Hülsmeyerplatz - Empfehlung einstimmig beschlossen
+- TOP 45: Geschwindigkeitsanzeigetafel Lichtenbroicher Weg - zur Kenntnis genommen
