@@ -11,6 +11,7 @@
 - [§ 8 Schiffsbesatzungszeugnis](0008.md)
 - [§ 9 Überwachung](0009.md)
 - [§ 9a Gewährleistung eines sicheren Wachdienstes](0009a.md)
+- [§ 9b Offene oder teilgedeckte Fischereifahrzeuge in der eingeschränkten passiven Küstenfischerei](0009b.md)
 - [§ 10 Ausnahmen](0010.md)
 - [§ 11 Ordnungswidrigkeiten](0011.md)
 - [§ 12 Übergangsvorschriften, Anwendungsbestimmungen, Evaluierung](0012.md)
