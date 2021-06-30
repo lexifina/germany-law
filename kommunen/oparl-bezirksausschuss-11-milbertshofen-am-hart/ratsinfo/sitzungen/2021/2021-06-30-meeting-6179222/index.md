@@ -1,0 +1,93 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2021-06-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6179222
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6179222
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10: Sonstiges
+- TOP 4.1: Plenum
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.2.1.: Sachstand Wohncontainer Rathenau-/Thalhoferstraße
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.3.1.: Benennung von Straßen im 11. Stadtbezirk nach Frauen
+- TOP 4.3.2.: Mobiler Bildungsbus im Stadtbezirk 11 Milbertshofen-Am Hart
+- TOP 4.3.3.: Aufstellen von Sitzgelegenheiten im Olympiapark
+- TOP 4.3.4.: Aufstellen von Informationstafeln am Mahnmal von Robert Lippel in der Troppauer Straße / Ecke Knorrstraße
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: U-Bahn-Station "Am Hart": Erstellen eines Fahrradparkkonzeptes zur Vermeidung des Wildwuchses von Fahrradständern sowie Abstellengpässen
+- TOP 4.4.2.: Evaluation der Münchner Stellplatzsatzung vom 19.12.2007, Anhörungs- und Beteiligungsverfahren - Rückfragen des BA 11 - Antwortschreiben
+- TOP 4.4.3.: Schleißheimer Straße (Höhe Rathenaustraße) - gefährliche Radwegkreuzung
+- TOP 4.4.4.: Haltestellen Olympiazentrum: Busbahnhof und U-Bahn-Station - Erneuerungsplanung und Reinigungsqualität - Antwortschreiben
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 4.5.1.: Besserer Schutz von Bäumen und Grünvolumen im 11. Stadtbezirk Milbertshofen - Am Hart
+- TOP 4.5.2.: Besserer Schutz von Straßenbegleitgrün und Grünanlagen
+- TOP 4.5.3.: Verbesserung der Baumschutzverordnung gegen illegale Fällungen BA-Antrag Nr. 20-26 / B 01843 des BA 21 Pasing-Obermenzing - Antwortschreiben
+- TOP 4.5.4.: Projekt „Neue Baumstandorte im öffentlichen Grün“ - aktueller Sachstand Informationsschreiben
+- TOP 6.1.1.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Theaterfest für Frauen und Töchter am 09.07.2021 1.070,00 € 7 Az. 0262.0-11-0419
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratiemobil am 21.+22.09.2021 1.520,00 € / Az. 0262.0-11-0420
+- TOP 6.1.3.: (E) Stadtbezirksbudget MobilSpiel e.V. MobilSpiel – Spielend durch das Jahr vom 19.-22.07.2021 4.130,00 € / Az. 0262.0-11-0422
+- TOP 6.2.1.: Entscheidung über eine Sondernutzungserlaubnis (Freischankfläche): a) Georgenschwaigstraße 26: "NB Life Food GmbH" - Genehmigung b) Knorrstraße 45: "Bogart`s" - Erweiterung c) Georgenschwaigstraße 25: "Rabiang" - Genehmigung
+- TOP 7.1: Plenum
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.3.1.: Regelmäßige Veröffentlichung der Zahlen zur Corona -Inzidenz und -Impfstatistik für den Stadtbezirk Milbertshofen-Am Hart
+- TOP 7.3.2.: Nietzschestraße – Vorschläge für eine Umgestaltung bzw. Aufwertung der Plätze
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.4.1.: Sudetendeutsche Straße - notwendige Radverkehrsinfrastruktur dringend ausbauen
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 7.5.1.: Olympiapark - Rosenhügel zum 50-jährigen Jubiläum 2022 wiederherstellen
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Änderung der Satzung der Bezirksausschüsse - Beauftragter gegen Extremismus, Stadratsantrag Nr. 20-26 / A 01213 der AfD vom 18.03.2021
+- TOP 8.1.2.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018-2020
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Moosacher Straße 46-50 a) Neubau eines Gewerbe- und Servicezentrums mit Tiefgarage
+- TOP 8.2.2.: Rothpletzstraße 40 Änderung der Denkmalliste: Nachtrag einer ehem. Volksschule in die Denkmalliste
+- TOP 8.2.3.: Riesenfeldstraße 74 Dachgeschossausbau (RGB) - Vorbescheid
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Veranstaltung "24 h MTB-Race" im Olympiapark vom 27.08. - 29.08.2021
+- TOP 8.3.2.: Veranstaltung "Straßentheater PLAN B" auf der städtischen Grünanlage Harthofanger am 09.07.2021
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Radwegrückbau in Tempo-30-Zonen - Beschlussentwurf
+- TOP 8.4.2.: Nachbarschaftsstraßen nur unter Einbindung der Bezirksausschüsse, BA-Antrag Nr. 20-26 / B 00475 des Bezirksausschusses des Stadtbezirks 21 - Pasing-Obermenzing vom 28.07.2020
+- TOP 8.4.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Sudetendeutschestraße - Geschwindigkeitsreduzierung auf Tempo 30
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 8.5.1.: Moosacher Straße 46-50 b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.5.2.: Christbaumentsorgung im 11. Stadtbezirk - Einrichten von Sammelstellen
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Öffentlicher Raum für alle: Einrichtung von "Stadtterrassen" ermöglichen
+- TOP 9.1.2.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2019 bis 2040 für die Landeshauptstadt
+- TOP 9.1.3.: (U) Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2019 bis 2040 für die Stadtbezirke
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: (U) Bebauungsplan mit Grünordnung Nr. 2142 Oberwiesenfeld-Süd Am Oberwiesenfeld (östlich), Moosacher Straße (nördlich), Lerchenauer Straße (westlich), DB-Nordring (südlich) - Knorr-Bremse AG - A) Bekanntgabe des Ergebnisses des Ideen- und Realisierungswettbewerbs Straße „Am Oberwiesenfeld“ B) Weiteres Vorgehen Stadtbezirk 11 – Milbertshofen - Am Hart
+- TOP 9.2.2.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.3.1.: Absage kostenfreies Spielprogramm „Umsonst und Draußen“ im Jahr 2021
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Schopenhauer Straße - absolutes Haltverbot + Zusatz „Feuerwehranfahrtszone“ b) Lena-Christ-Straße - Aufhebung eines absoluten Haltverbots c) Weyprechtstraße - Einrichtung einer Kurzparkzone
+- TOP 9.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
+- TOP 9.5.1.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP 9.5.2.: (U) Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Verordnung zur Änderung der Verordnung der Landeshauptstadt München zum Schutz der Naturdenkmäler (Naturdenkmalverordnung) vom 08.09.2011
+- TOP 9.5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
