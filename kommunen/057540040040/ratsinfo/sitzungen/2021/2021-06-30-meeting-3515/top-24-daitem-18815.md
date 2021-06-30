@@ -1,0 +1,7 @@
+# TOP 24.: Vergabe von Planungsleistungen für die 4. Reinigungsstufe auf der Kläranlage Steinhagen
+
+- Sitzung: Rat (6. Sitzung) (2021-06-30)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/18815
+- Ergebnis: Abstimmungsergebnis:Einstimmig
