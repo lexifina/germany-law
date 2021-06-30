@@ -338,7 +338,7 @@ Druckanlagen
 |  | Für Schalldämpfer, die in Rohrleitungen im Sinne von Nr. 2.1 Satz 1 Buchstabe d eingebaut sind, findet Nr. 5.6 Satz 2 entsprechende Anwendung. |
 | 7.10 | Druckbehälter von Feuerlöschern und Löschmittelbehältern |
 |  |  | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 | Die Prüfzuständigkeit ergibt sich aus Nr. 6 Tabelle 3, 4 |
-| entfällt | entfällt | ZÜS | 5 Jahre | ZÜS | 5 Jahre |
+| entfällt | entfällt | ZÜS | 5 Jahre | ZÜS | 10 Jahre |
 | bP | 10 Jahre | bP | 10 Jahre |
 |  |  |
 | 7.11 | Druckbehälter und Rohrleitungen mit Auskleidung oder Ausmauerung |
