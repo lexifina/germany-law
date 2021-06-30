@@ -1,0 +1,69 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-06-30T15:00:00+02:00
+- Ende: 2021-06-30T17:01:00+02:00
+- Ort: Achtung geänderter Sitzungsort! Cecilien-Gymnasium, Schorlemerstraße 99, Aula
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20364
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20364
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416208.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416208.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00416208.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/004/2021 vom 05.05.2021 - einstimmig beschlossen
+- TOP 3: Plan Nr. 04/029 - Südlich Oberlöricker Straße - Empfehlung einstimmig beschlossen
+- TOP 4: Der Klimawandel hat Auswirkungen auf die Bäume – - zur Kenntnis genommen
+- TOP 5: Änderungsbeschluss zum Bau eines Kunstrasenspielfeldes auf dem Parkdeck des Hallenbads Heerdt/Oberkassel - Empfehlung einstimmig beschlossen
+- TOP 6: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Bäume an den Deichen, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Zustand Greifweg, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 12: Deichradweg in desolatem Zustand und renovierungsbedürftig, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 13: Öffentliche Brachgelände an der Büttgenbachstraße, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 14: Radwegeanschluss Rheinkniebrücke, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 15: Covid-19 Impfungen durch niedergelassene Ärzte im Stadtbezirk 4, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE - zur Kenntnis genommen
+- TOP 16: Anzahl neuer Wohnungen im Stadtbezirk 4, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE - zur Kenntnis genommen
+- TOP 17: Abschluss des "Verkehrskonzept" Heerdt und nun?, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 18: eScooter – klare Regelungen im linksrheinischen Düsseldorf schaffen, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 19: Rück- oder Ausbau der Radhauptwege im Stadtbezirk 4, Anfrage der SPD-Fraktion
+- TOP 20: Ganze Stadtviertel entstehen neu – interkommunale Zusammenarbeit stärken, Anfrage des Bezirksvertreters Marco Staack
+- TOP 21: Stand Sanierungsarbeiten Wiesenstraße, Beschlussvorlage 66/16/2016, Anfrage der SPD-Fraktion
+- TOP 22: Baumpflanzungen an der Hildegard-Knef-Straße, Anfrage des Bezirksvertreters Marco Staack
+- TOP 23: Zuschuss an den Kanu- und Yachtclub Düsseldorf e.V. - einstimmig beschlossen
+- TOP 24: Ersatzpflanzungen im Zuge der Baumaßnahme Regenrückhaltebecken Simon-Gatzweiler-Platz - zur Kenntnis genommen
+- TOP 25: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, SAP-Konten 2121101/1000/52415400 / 72415400 Bauunterhaltungsmittel 2021 – Schulen - einstimmig beschlossen
+- TOP 26: Beschlusskontrolle der Bezirksvertretung 4 - zur Kenntnis genommen
+- TOP 27: Graffiti - Projekt im Rahmen des Urban Art Festivals im August 2021, überfraktioneller Antrag - einstimmig beschlossen
+- TOP 28: Vergrößerung der Baumscheiben von Straßenbäume, Antrag des Bezirksvertreters Geord Blanchard, DIE LINKE - mehrheitlich abgelehnt
+- TOP 29: Haus Am Deich 2, Antrag des Bezirksvertreters Georg Blanchard, DIE LINKE - zurückgezogen
+- TOP 30: Fahrrad-Reparaturstationen, Antrag des Bezirksvertreters Georg Blanchard, DIE LINKE - mehrheitlich abgelehnt
+- TOP 31: Schleichverkehr durch die Straße "Am Heerdter Hof" unterbinden, Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 32: Fahrradabstellplätze, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 33: Beginn der Sitzung der Bezirksvertretersitzung auf 17:00 verlegen, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 34: Straße Alt-Niederkassel bei Sanierung Verkehrsberuhigung mitplanen, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 35: Testphase Tempo 30 für den Abschnitt des Kaiser-Friedrich-Rings zwischen der Apfelweide und Lotharstraße, überfraktioneller Antrag - zurückgezogen
+- TOP 36: Infektionsrisiken langfristig senken – Luftreiniger auch in den weiterführenden Schulen, überfraktioneller Antrag - einstimmig beschlossen
+- TOP 37: Verkehrssicherheit erhöhen – Verkehrsituation Belsenplatz/Greifweg optimieren, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 38: Nikolaus-Knopp-Platz - Verkehrslenkung und Verkehrsberuhigung, Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 39: Minigolfanlage in der Heerdter Freizeitanlage für den Publikumsverkehr in Betrieb zu nehmen, Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 40: Parkflächen für Wohnmobile schaffen, Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 41: Stadtbäume/Straßenbäume pflanzen, Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 42: Einführung einer Einwohnerinnen - und Einwohnerfragestunde, Antrag des Bezirksvertreters Georg Blanchard, DIE LINKE - mehrheitlich abgelehnt
+- TOP 43: Ersatzpflanzungen vornehmen - zur Kenntnis genommen
+- TOP 44: Mobilität neu denken - linksrheinische Mobility Hubs - zur Kenntnis genommen
+- TOP 45: Müllbehälter und Hundetoiletten im Belsenpark und auf der Theo-Champion-Straße in Oberkassel - zur Kenntnis genommen
+- TOP 46: Düsseldorf investiert Millionen in Bäume – warum nicht auch in Heerdt? - zur Kenntnis genommen
+- TOP 47: Erstellen eines Planungskonzeptes für den Belsenplatz - zur Kenntnis genommen
+- TOP 48: Wegeverbindung Ökotop - Büttgenbachstraße - Heerdter Freizeitanlage - zur Kenntnis genommen
+- TOP 49: Parkflächen fortentwickeln, Aufenthaltsqualität sichern - Unser Belsenpark - zur Kenntnis genommen
+- TOP 50: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 51: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs.15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 52: Die Einstellung der Metrobuslinien - das Ende der Verkehrswende?, Anfrage der SPD-Fraktion - zur Kenntnis genommen
