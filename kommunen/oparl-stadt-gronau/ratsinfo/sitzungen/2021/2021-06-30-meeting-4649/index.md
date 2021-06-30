@@ -1,0 +1,66 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-06-30T18:00:00+02:00
+- Ende: 2021-06-30T22:30:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWzfrAN-X9cQEYyFAUzMr60
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4649
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd54xP7Qp_kY3HXLusEGG6ND_VmqCs6sLKW8vIzmLL3s/Bekanntmachung_Rat_30.06.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRBWdUeNCoEMyz2K7KnflO3tqBqABjsi5RTKdDs0MCQz/Oeffentliche_Niederschrift_Rat_30.06.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 26.05.2021
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der Fraktion Bündnis 90/Die Grünen vom 18.06.2021; Innenstadtentwicklung
+- TOP 4.1.1: Antrag der Fraktion Bündnis 90/Die Grünen vom 18.06.2021; Innenstadtentwicklung - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Antrag der CDU-Fraktion vom 20.06.2021; Pandemiebedingte Förderung der musikalischen Vereine im Stadtgebiet Gronau-Epe - Einstimmig, 0 Enthaltungen
+- TOP 5.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 10/2021; Bürgerantrag vom 20.06.2021 Kostenlose Nutzung städtischer Einrichtungen in den Sommerferien 2021 für Kinder und Jugendliche (bis einschließlich 18 Jahre)
+- TOP 5.1: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 10/2021; Bürgerantrag vom 20.06.2021 Kostenlose Nutzung städtischer Einrichtungen in den Sommerferien 2021 für Kinder und Jugendliche (bis einschließlich 18 Jahre) - Einstimmig, 0 Enthaltungen
+- TOP 6.: Vorstellung des externen Dienstleisters und seiner Unterstützung für das Klimaschutzkonzept
+- TOP 7.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 7/2021: Bürgerantrag vom 19.04.2021 Zukünftige Beflaggung am 17. Mai anlässlich des internationalen Tages gegen Homophobie und Transphobie - 28 Jastimmen, 16 Neinstimmen, 1 Enthaltungen
+- TOP 8.: Antrag des StadtSportVerbands auf Finanzierung einer Teilzeitkraft sowie Nutzung eines flexiblen Arbeitsplatzes in der Verwaltung der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 9.: Zukunftsvereinbarung für den Sport - Einstimmig, 0 Enthaltungen
+- TOP 10.: Vermüllung der Containerstandorte - Einstimmig, 0 Enthaltungen
+- TOP 11.: Wohnbauentwicklung für Gronau und Epe (Westf.) - eine strategische Aufgabe
+- TOP 11.1: Wohnbauentwicklung für Gronau und Epe (Westf.) - eine strategische Aufgabe Fragenkatalog der CDU-Fraktion - 41 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 12.: Richtlinie der Stadt Gronau über die Gewährung von Zuwendungen zur Gestaltung von Fassaden in den innerstädtischen Bereichen der Stadtteile Gronau und Epe (Fassadenprogramm) - Einstimmig, 1 Enthaltungen
+- TOP 13.: Förmliche Festlegung des Bereichs Innenstadt Gronau als Stadtumbaugebiet gem. § 171 b BauGB - 38 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 14.: Neugestaltung der Innenstadt Gronau — Erweitertes Planungsareal - 2. Bauabschnitt - Freianlagen - 40 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 15.: Neufassung/Fortschreibung des Einzelhandelskonzepts für die Stadt Gronau - 36 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 16.: Beschlussvorschläge zur Quartiersentwicklung am Kurt-Schumacher-Platz - 41 Jastimmen, 1 Neinstimmen, 3 Enthaltungen
+- TOP 16.1: Beschlussvorschläge zur Quartiersentwicklung am Kurt-Schumacher-Platz Alternativer Umgang mit dem Bodendenkmal Bergfried Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 15/2019 Bürgerantrag „Zeitfenster auf den Ursprung Gronaus“ des Arbeitskreises „Ortsbild und Denkmalpflege“
+- TOP 17.: Vorhabenbezogener Bebauungsplan "Wohnquartier an der Zollstraße", Stadtteil Gronau Aufstellungsbeschluss - Einstimmig, 1 Enthaltungen
+- TOP 18.: Bebauungsplan Nr. 172 "Kurzer Weg", 1. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bebauungsplan Nr. 194 "Bahnhofstraße - Teilbereich I", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Satzungsbeschluss - 41 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 20.: Bebauungsplan Nr. 199 "Östlich der Lennestraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - 37 Jastimmen, 6 Neinstimmen, 2 Enthaltungen
+- TOP 21.: Aufstellung des Bebauungsplans Nr. 252 „Nördlich der Friedrichstraße“, Stadtteil Epe. (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 22.: 109. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Nördlich der Oststraße", Stadtteil Epe Bebauungsplan Nr. 253 "Nördlich der Oststraße", Stadtteil Epe - 20 Jastimmen, 21 Neinstimmen, 4 Enthaltungen
+- TOP 23.: Entwurf des Jahresabschlusses 2020 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 24.: Projektverlängerung/ -verstetigung: Inklusive Übergangsgestaltung Kindertagesstätten – Grundschulen - Einstimmig, 0 Enthaltungen
+- TOP 25.: Weiterentwicklung der Richtlinien zur Förderung von Kindern in Kindertagespflege zum 01.08.2021 - Einstimmig, 0 Enthaltungen
+- TOP 26.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27.: Feststellungen und Empfehlungen der Gemeindeprüfungsanstalt NRW (gpaNRW) Stellungnahmen zum Prüfbericht vom 04.03.2021
+- TOP 27.1: Feststellungen und Empfehlungen der Gemeindeprüfungsanstalt NRW (gpa NRW) Stellungnahmen zum Prüfbericht vom 04.03.2021 – Beratung in den Fachausschüssen - - Einstimmig, 0 Enthaltungen
+- TOP 28.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 29.: Sachstand zur Corona-Pandemie (Stand: 23.06.2021)
+- TOP 30.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 30.1: Praktikumsplätze (RM Buß)
+- TOP 31.: Mitteilungen der Verwaltung
+- TOP 31.1: Plan Drilandsee, 1. Bauabschnitt
+- TOP 31.2: Kampfmittelräumdienst im Innenstadtbereich
+- TOP 31.3: Entenkot am Drilandsee
+- TOP 31.4: Fördermittel aus dem Sofortprogramm "Innenstadt"
+- TOP 31.5: Fördermittel für Stellplatzanlagen am Bahnhof
+- TOP 32.: Anfragen
+- TOP 32.1: Mietspiegel (Anfrage vom 2. Stellv. d. BM Bajorath)
+- TOP 32.2: Entenkot am Drilandsee (Anfrage von RM Hüsing-Hackfort)
+- TOP 32.3: Computergestützte Radwegekontrolle (Anfrage von RM Buchholz)
+- TOP 32.4: Präsentationstechnik in der Bürgerhalle (Anfrage von RM Schwartze)
