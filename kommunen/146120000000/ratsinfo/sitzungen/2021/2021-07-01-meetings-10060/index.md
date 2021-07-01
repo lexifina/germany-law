@@ -1,0 +1,56 @@
+# 27. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-07-01T16:00:00+02:00
+- Ende: 2021-07-01T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/10060
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/10060
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00553180.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: 4. Einwohnerfragestunde
+- TOP 3.1: Straßenmusik - erledigt
+- TOP 3.2: Areal Otto-Dix-Center - erledigt
+- TOP 3.3: Straßenverkehr in Naußlitz, Löbtau und Cotta - erledigt
+- TOP 3.4: Umleitung zur Langzeitbaumaßnahme Staffelsteinstraße - erledigt
+- TOP 3.5: Sachsenbad - erledigt
+- TOP 3.6: Fahrgastunterstände Dresden - erledigt
+- TOP 3.7: Baugenehmigung für private Pools - erledigt
+- TOP 4: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Blasewitz der Landeshauptstadt Dresden - Mandat der Partei DIE LINKE - Zustimmung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Vertagungen letzte Stadtratssitzung am 10./11. Juni 2021
+- TOP 6.1: Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Gebühren für Märkte (Marktgebührensatzung) - Vertagung durch Einreicher
+- TOP 6.2: Wiederbelebung der Wirtschaft, des Gastgewerbes und des Mittelstandes in Dresden – Stärkung von Mittelstand und Tourismus - Vertagung durch Einreicher
+- TOP 6.3: Evaluation Schulbauleitlinien - punktweise Abstimmung mit Änderung
+- TOP 6.4: Schutz der Gedenkstätte am Altmarkt vor Verunreinigungen durch Graffitischmierereien - Ablehnung
+- TOP 6.5: An die Opfer gruppenbezogener Menschenfeindlichkeit erinnern. Gewaltprophylaxe systematisch betreiben. - Vertagung durch Einreicher
+- TOP 6.6: Wohnungslosigkeit auch zukünftig bekämpfen - Ersetzung
+- TOP 6.7: Menstruation ist kein Luxus – Für die kostenlose Bereitstellung von Monatshygiene auf städtischen Toiletten - Vertagung durch Einreicher
+- TOP 6.8: Neue Wohnbauflächen in der Neustadt entwickeln! - Ersetzung
+- TOP 6.9: Kompensationspflicht bei Stellplatzwegfall - Vertagung
+- TOP 6.10: Bestätigung der Gebietsumgriffe und Entwicklungsstrategien für neue Fördergebiete der Stadterneu-erung und Auftrag zur Akquirierung von Fördermitteln - Zustimmung mit Änderung
+- TOP 6.11: Umstellung auf Ökostrom bei DREWAG und Stadt voranbringen - Ersetzung - punktweise Abstimmung
+- TOP 6.12: Novellierung der Dresdner Gehölzschutzsatzung - Zustimmung mit Änderung
+- TOP 6.13: Fachkräftesicherungsstrategie für Dresden – transparent, lokal und regional koordiniert - Vertagung nach 22 Uhr
+- TOP 7: Änderungsverordnung zur Verordnung der Landeshauptstadt Dresden vom 15. Oktober 2020 über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2021 - Zustimmung
+- TOP 8: Änderung der Ziffer 1 des Beschlusses des Stadtrates vom 2. Juni 2016 zu V0309/15 "Verkauf eines Grundstückes an der Ringstraße" - Vertagung
+- TOP 9: Umsetzung des Maßnahmenkonzeptes für die Herstellung und den Bau eines Touristischen Fußgängerleitsystems - Vertagung nach 22 Uhr
+- TOP 10: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen für das Wirtschaftsjahr 2019 - Zustimmung
+- TOP 11: Pflege und dauerhafter Erhalt von Historischen Grabstätten auf Dresdner Friedhöfen - Vertagung nach 22 Uhr
+- TOP 12: Wesentliche Änderung der DGH – Dresdner Gewerbehofgesellschaft mbH - Zustimmung
+- TOP 13: Bebauungsplan Nr. 3048 - Dresden-Altstadt II Nr. 32, Budapester Straße/Zwickauer Straße - Zustimmung
+- TOP 14: Ergänzungssatzung Nr. 446, Dresden-Pieschen Nr. 1, Hubertusstraße - Zustimmung
+- TOP 15: Neufassung der Satzung der Landeshauptstadt Dresden über die Erstattung der notwendigen Schülerbeförderungskosten - Zustimmung mit Änderung
+- TOP 16: Teilweise Aufhebung der Zweckbindung für das verfügbare Ankaufsbudget der WiD Wohnen in Dresden GmbH & Co. KG - Vertagung nach 22 Uhr
+- TOP 17: Beflaggung des Dresdner Rathauses mit der Mottoflagge „1700 Jahre jüdisches Leben in Deutschland“ am 5. September (Tag der jüdischen Kultur), 9. November (Reichspogromnacht und 20 Jahre Dresdner Synagoge) und 11. Dezember (Jahrestag Edikt von 321) - Zustimmung
+- TOP 18: Anmietung von Wohnungen für besondere Bedarfsgruppen mit Aufenthaltsstatus Gestattung bzw. Duldung - Vertagung nach 22 Uhr
+- TOP 19: Aufarbeitung der Gewaltereignisse im Zusammenhang mit dem Aufstieg der SG Dynamo Dresden und Aufforderung zur Erarbeitung eines schlüssigen Gesamtkonzepts zur Unterbindung von Gewalt und Extremismus im Umfeld des Vereins - Verweisung
+- TOP 20: Umplanung Magdeburger Straße: Zwei MIV-Spuren reichen - Straßen für Alle durch rationale Verkehrsplanung - Vertagung durch Einreicher
+- TOP 21: Information über die eingegangenen Spenden, Schenkungen und Zuwendungen für die Organisationseinheiten in der Landeshauptstadt Dresden im Jahr 2020 - zur Kenntnis genommen
