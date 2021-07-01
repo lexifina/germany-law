@@ -7,12 +7,13 @@ Abschnitt 2 Ausführungsbestimmungen
 § 3 | Allgemeine Erlaubnisvoraussetzungen
 § 4 | Besondere Erlaubnisvoraussetzungen für das Veranstalten
 § 5 | Besondere Erlaubnisvoraussetzungen für das Vermitteln
-§ 5a | Wettvermittlungsstellen für Sportwetten
+§ 5a | Wettvermittlungsstellen
+§ 5b | Anforderungen an das Personal von Wettvermittlungsstellen, Schulung
 § 6 | Lotterien mit geringerem Gefährdungspotential
 § 7 | Glücksspielähnliche Spiele
-§ 8 | Spielersperre
+§ 8 | Übermittlung von Spielerdaten zu Forschungszwecken
 § 9 | Befugnisse
-§ 10 | Glücksspielaufsicht
+§ 10 | Glücksspielaufsicht, zuständige Behörden
 Abschnitt 3 Abgaben
 § 11 | Höhe der Zweckabgabe
 § 12 | Verteilung der Mittel
@@ -21,5 +22,5 @@ Abschnitt 3 Abgaben
 § 15 | Prüfung
 Abschnitt 4 Ordnungswidrigkeiten und Schlussbestimmungen
 § 16 | Ordnungswidrigkeiten
-§ 17 | Sperrdatei während der Übergangszeit
+§ 17 | (weggefallen)
 § 18 | Übergangsregelung
