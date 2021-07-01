@@ -1,0 +1,21 @@
+# Innenbereichssatzung Marienstraße gem. § 34 Abs. 4 Satz 1 Nr. 1 BauGB (Feststellungssatzung) - Abwägung und Beschlussfassung zu den während der Beteiligung der Öffentlichkeit und der Behörden eingegangenen Rückmeldungen - Satzungsbeschluss gem. § 10 BauGB
+
+- Körperschaft: Gemeinde Kirchlengern
+- Drucksache/Vorlage: 2020/85 1. Ergänzung
+- Art: BESCHLUSSVORLAGE
+- Datum: 2021-07-01
+- Ratsinformationssystem: https://kirchlengern.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZZMhwxntmwXyJzlCOp_kpmw
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10980
+- Quelle: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: BESCHLUSSVORLAGE (Innenbereichssatzung Marienstraße gem. § 34 Abs. 4 Satz 1 Nr. 1 BauGB (Feststellungssatzung)
+- Abwägung und Beschlussfassung zu den während der Beteiligung der Öffentlichkeit und der Behörden eingegangenen Rückmeldungen
+- Satzungsbeschluss gem. § 10 BauGB) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZGkWufFBjEn269ZcbQ1fEqd7LJ-FSmmlAmi5OHKnM-3/BESCHLUSSVORLAGE_2020-85_1._Ergaenzung.pdf
+- Anlage: BESCHLUSSVORLAGE (34er-Satzung-Kirchlengern-Marienstraße-Satzung-20210222) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZecr_nHqeYBe6dsFo20JOJxOCCTCxNuECaliUN6uD6W4/34er-Satzung-Kirchlengern-Marienstrasse-Satzung-20210222.pdf
+- Anlage: BESCHLUSSVORLAGE (34(4)-Marienstraße-Textteil-Satzung_20210222) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUnAnE6WeObzGWjlWE447xgQddEFYH-Gfj9wHOsS0Sy_/34-4--Marienstrasse-Textteil-Satzung_20210222.pdf
+- Anlage: BESCHLUSSVORLAGE (34(4)-Marienstraße-Begr-Satzung_20210223) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaWeu39UOIowfaRlKn9RiWnknQgRJ2uPwl3IMuzEZ4x9/34-4--Marienstrasse-Begr-Satzung_20210223.pdf
+- Anlage: BESCHLUSSVORLAGE (Rückmeldung Bürger für Vorlage) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTvQLOgSeyRi9UbRESlbBN4ljw2G7qHqhBgeA4-RSdwe/Rueckmeldung_Buerger_fuer_Vorlage.pdf
+- Anlage: BESCHLUSSVORLAGE ((Microsoft Word - Kirchlengnern \(Marienstraße\) 24.11.2020)) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY2jTIpIgPabcSRhFO7brWtCQYZ-8RPb2PpJaRfRnro8/-Microsoft_Word_-_Kirchlengnern_--Marienstrasse--_24.11.2020-.pdf
+- Anlage: BESCHLUSSVORLAGE (Rückmeldung Kreis) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY0r-X1jFF-EZi58lltirynhgfpkVzaut78CMnIBVKA7/Rueckmeldung_Kreis.pdf
+- Beratung:  https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/19262 https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Beratung:  https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/19216 https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-16
+- underDirectionOf: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-190
