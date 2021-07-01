@@ -1,0 +1,55 @@
+# Gemeinderat (7. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2021-07-01T18:02:00+02:00
+- Ende: 2021-07-01T21:49:00+02:00
+- Ort: ehem. Haupt-/Realschule, Schwanenstraße 6, 52457 Aldenhoven, Aula der ehem. Haupt- und Realschule, Schwanenstraße 6, Aldenhoven,
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZS9w-CZNtgvzsAEsu8-ECmA
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1813
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZekYbVmW2HEyaiEFCG7tS8qYHV3gQ2SxfIvfd4vxh9CY/Bekanntmachung_Gemeinderat_01.07.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSGaWNLyEs4ElsxEb0R4eusmJJJJW5wlAum6_cCI7_Ln/Oeffentliche_Niederschrift_Gemeinderat_01.07.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Preisverleihung Heimatpreis 2020 der Gemeinde Aldenhoven - Zur Kenntnis genommen
+- TOP 3.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 4.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 5.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 5.1: Aufstellung einer Ergänzungssatzung - Von-Paland-Straße - - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Bebauungsplan 81 S - Im Sonnental - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 81 S - Im Sonnental - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Bebauungsplan 29 A - Im Graben - a) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB b.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 29 A - Im Graben - - 22 Ja-Stimme(n), 3 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP 5.4: Bebauungsplan 80 SCH - Am Nonnenhof - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Beschluss über die Empfehlungen des Schulausschusses
+- TOP 6.1: Nutzung von Räumen im ehem. Hauptschulgebäude durch die GGS Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Feststellung der Verfahrenshinweise und des Antragsformulars für den Heimatpreis 2021 und 2022 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Ausbau Gehweg im Schugweg, Freialdenhoven - Einstimmig, 0 Enthaltung(en)Sitzungsunterbrechung gemäß CoronaSchutzVO von 19:04 Uhr bis 19:14 Uhr.
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Ausführung des Haushalts
+- TOP 10.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Mietverhältnisse der im Haus Vaahsen ansässigen Vereine; hier: Übernahme der Mietzahlungen an die WOGA durch die Gemeinde Aldenhoven - 10 Ja-Stimme(n), 15 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 2.2: Berichte aus den Gremien
+- TOP 3.: Grundstücksangelegenheiten
+- TOP 3.1: Grunderwerb im Zusammenhang mit der Pumpstation an der Industriestraße - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Auftragsvergaben
+- TOP 4.1: Ausbau Zuwegung zum Erdbecken Industriestraße. Auftragsvergabe Bauausführung - Vertagt
+- TOP 4.2: Anschaffung eines neuen Spielgerätes für den Römerpark - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Sanierung Außentoiletten in der Johannesschule Siersdorf. Hier Kostensteigerung. - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Übersicht gemeindeeigener landwirtschaftlicher Parzellen - Zur Kenntnis genommen
+- TOP 5.2: Tausch von landwirtschaftlichen Parzellen - Einstimmig, 1 Enthaltung(en)
+- TOP 5.3: Grundsatzbeschluss: Grundstücksverhandlungen "Zwickelflächen" - 2 Ja-Stimme(n), 23 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.4: Verkauf einer gemeindeeigenen Parzelle - Einstimmig, 0 Enthaltung(en)
+- TOP 5.5: Verkauf einer gemeindlichen Parzelle - 11 Ja-Stimme(n), 11 Nein-Stimme(n), 3 Stimmenthaltung(en)
+- TOP 6.: Vertragsangelegenheiten
+- TOP 6.1: Abschluss eines Erschließungsvertrages - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
