@@ -26,7 +26,7 @@
 |  | Abziehbare Aufwendungen | § 9 |
 |  | Nichtabziehbare Aufwendungen | § 10 |
 |  | Auflösung und Abwicklung (Liquidation) | § 11 |
-|  | Verlust oder Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland | § 12 |
+|  | Entstrickungs- und Wegzugsbesteuerung | § 12 |
 |  | Beginn und Erlöschen einer Steuerbefreiung | § 13 |
 |  |  |  |
 | Zweites Kapitel |

@@ -11,7 +11,7 @@
 - [§ 2 Verbindungsstrecken im Inland](0002.md)
 - [§ 3 Verbindungsstrecken im Ausland](0003.md)
 - [§ 4 Anschlussstrecken im Schienenbahnverkehr](0004.md)
-- [§ 5 Kurze Straßenstrecken im Inland](0005.md)
+- [§ 5 (weggefallen)](0005.md)
 - [§ 6 Straßenstrecken in den in § 1 Abs. 3 des Gesetzes
 bezeichneten Gebieten](0006.md)
 - [§ 7 Kurze Strecken im grenzüberschreitenden Verkehr mit

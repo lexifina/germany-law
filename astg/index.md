@@ -1,5 +1,6 @@
 # Gesetz über die Besteuerung bei Auslandsbeziehungen
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Erster Teil Internationale Verflechtungen
 
@@ -19,17 +20,16 @@ Gebiete
 
 - [§ 6 Besteuerung des Vermögenszuwachses](0006.md)
 
-## Vierter Teil Beteiligung an ausländischen
-Zwischengesellschaften
+## Vierter Teil Hinzurechnungsbesteuerung
 
-- [§ 7 Steuerpflicht inländischer Gesellschafter](0007.md)
+- [§ 7 Beteiligung an ausländischer Zwischengesellschaft](0007.md)
 - [§ 8 Einkünfte von Zwischengesellschaften](0008.md)
 - [§ 9 Freigrenze bei gemischten Einkünften](0009.md)
 - [§ 10 Hinzurechnungsbetrag](0010.md)
-- [§ 11 Veräußerungsgewinne](0011.md)
+- [§ 11 Kürzungsbetrag bei Beteiligung an ausländischer Gesellschaft](0011.md)
 - [§ 12 Steueranrechnung](0012.md)
-- [§ 13](0013.md)
-- [§ 14 Nachgeschaltete Zwischengesellschaften](0014.md)
+- [§ 13 Beteiligung an Kapitalanlagegesellschaften](0013.md)
+- [§ 14 (weggefallen)](0014.md)
 
 ## Fünfter Teil Familienstiftungen
 

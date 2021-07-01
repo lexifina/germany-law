@@ -11,6 +11,8 @@
 - [§ 6 Höhe des Kindergeldes](0006.md)
 - [§ 6a Kinderzuschlag](0006a.md)
 - [§ 6b Leistungen für Bildung und Teilhabe](0006b.md)
+- [§ 6c Unterhaltspflichten](0006c.md)
+- [§ 6d Kinderfreizeitbonus aus Anlass der COVID-19-Pandemie für Familien mit Kinderzuschlag, Wohngeld oder Sozialhilfe](0006d.md)
 
 ## Zweiter Abschnitt Organisation und Verfahren
 

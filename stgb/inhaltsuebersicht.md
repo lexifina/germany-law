@@ -464,9 +464,11 @@
 |  | § 174b | Sexueller Mißbrauch unter Ausnutzung einer Amtsstellung |
 |  | § 174c | Sexueller Mißbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses |
 |  | § 175 | (weggefallen) |
-|  | § 176 | Sexueller Mißbrauch von Kindern |
-|  | § 176a | Schwerer sexueller Mißbrauch von Kindern |
-|  | § 176b | Sexueller Mißbrauch von Kindern mit Todesfolge |
+|  | § 176 | Sexueller Missbrauch von Kindern |
+|  | § 176a | Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind |
+|  | § 176b | Vorbereitung des sexuellen Missbrauchs von Kindern |
+|  | § 176c | Schwerer sexueller Missbrauch von Kindern |
+|  | § 176d | Sexueller Missbrauch von Kindern mit Todesfolge |
 |  | § 177 | Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung |
 |  | § 178 | Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge |
 |  | § 179 | (weggefallen) |
@@ -491,6 +493,7 @@
 |  | § 184i | Sexuelle Belästigung |
 |  | § 184j | Straftaten aus Gruppen |
 |  | § 184k | Verletzung des Intimbereichs durch Bildaufnahmen |
+|  | § 184l | Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild |
 |  |  |
 | Vierzehnter Abschnitt |
 |  | Beleidigung |

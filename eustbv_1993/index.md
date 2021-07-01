@@ -2,7 +2,7 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Allgemeines](0001.md)
-- [§ 1a Sendungen von geringem Wert](0001a.md)
+- [§ 1a (weggefallen)](0001a.md)
 - [§ 2 Investitionsgüter und andere Ausrüstungsgegenstände](0002.md)
 - [§ 3 Landwirtschaftliche Erzeugnisse](0003.md)
 - [§ 4 Gegenstände erzieherischen, wissenschaftlichen

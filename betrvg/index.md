@@ -255,7 +255,7 @@ Religionsgemeinschaften
 - [§ 126 Ermächtigung zum Erlass von Wahlordnungen](0126.md)
 - [§ 127 Verweisungen](0127.md)
 - [§ 128 Bestehende abweichende Tarifverträge](0128.md)
-- [§ 129 Sonderregelungen aus Anlass der COVID-19-Pandemie](0129.md)
+- [§ 129 (weggefallen)](0129.md)
 - [§ 130 Öffentlicher Dienst](0130.md)
 - [§ 131 (Berlin-Klausel)](0131.md)
 - [§ 132](0132.md)

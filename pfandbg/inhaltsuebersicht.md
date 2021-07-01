@@ -9,6 +9,7 @@
 |  | Allgemeine Vorschriften über die Pfandbriefemission |
 | § 4 | Deckungskongruenz; Anordnung erhöhter Mindestdeckungsanforderungen |
 | § 4a | Umschuldungsklauseln in Staatsanleihen |
+| § 4b | Deckungsgeeignete Derivategeschäfte |
 | § 5 | Deckungsregister |
 | § 6 | Inhalt der Pfandbriefe |
 | § 7 | Treuhänder und Stellvertreter |
@@ -55,9 +56,9 @@
 | Abschnitt 5 |
 |  | Schutz vor Zwangsvollstreckung; Trennungsprinzip bei Insolvenz der Pfandbriefbank |
 | § 29 | Schutz vor Zwangsvollstreckung, Arresten und Aufrechnung |
-| § 30 | Trennungsprinzip bei Insolvenz der Pfandbriefbank; Sachwalterernennung |
+| § 30 | Trennungsprinzip bei Insolvenz der Pfandbriefbank; Fälligkeitsverschiebung |
 | § 31 | Ernennung des Sachwalters; Rechte und Pflichten |
-| § 31a | Vergütung des Sachwalters; Verordnungsermächtigung |
+| § 31a | Vergütung des Sachwalters |
 | § 32 | Übertragung der Deckungsmassen und -verbindlichkeiten |
 | § 33 | Handelsregistereintragung |
 | § 34 | Übergang von Deckungswerten und -verbindlichkeiten |
@@ -75,11 +76,11 @@
 | § 41 | Bezeichnungsschutz |
 | § 42 | Erlaubnis für bestehende Pfandbriefbanken |
 | § 43 | Erlaubnis für Hypothekenbanken |
-| § 44 | Erlaubnis für Schiffspfandbriefbanken |
+| § 44 | (weggefallen) |
 | § 45 | Versicherungspflicht |
 | § 46 | Beleihungsgrenze |
-| § 47 | Vorrecht der Schiffspfandbriefgläubiger |
-| § 48 | Schiffspfandbriefe in ausländischer Währung |
+| § 47 | (weggefallen) |
+| § 48 | (weggefallen) |
 | § 49 | Fortgeltende Deckungsfähigkeit |
 | § 50 | Fortgeltung bisherigen Rechts |
 | § 51 | Getrennter Pfandbriefumlauf |

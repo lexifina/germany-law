@@ -27,7 +27,7 @@ Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden](0003.md)
 - [§ 9 Abziehbare Aufwendungen](0009.md)
 - [§ 10 Nichtabziehbare Aufwendungen](0010.md)
 - [§ 11 Auflösung und Abwicklung (Liquidation)](0011.md)
-- [§ 12 Verlust oder Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland](0012.md)
+- [§ 12 Entstrickungs- und Wegzugsbesteuerung](0012.md)
 - [§ 13 Beginn und Erlöschen einer Steuerbefreiung](0013.md)
 
 ### Zweites Kapitel Sondervorschriften für die

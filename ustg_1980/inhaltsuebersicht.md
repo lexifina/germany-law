@@ -11,7 +11,7 @@
 |  | § 3 | Lieferung, sonstige Leistung |
 |  | § 3a | Ort der sonstigen Leistung |
 |  | § 3b | Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen |
-|  | § 3c | Ort der Lieferung in besonderen Fällen |
+|  | § 3c | Ort der Lieferung beim Fernverkauf |
 |  | § 3d | Ort des innergemeinschaftlichen Erwerbs |
 |  | § 3e | Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn |
 |  | § 3f | (weggefallen) |
@@ -61,13 +61,14 @@
 |  | § 19 | Besteuerung der Kleinunternehmer |
 |  | § 20 | Berechnung der Steuer nach vereinnahmten Entgelten |
 |  | § 21 | Besondere Vorschriften für die Einfuhrumsatzsteuer |
+|  | § 21a | Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro |
 |  | § 22 | Aufzeichnungspflichten |
 |  | § 22a | Fiskalvertretung |
 |  | § 22b | Rechte und Pflichten des Fiskalvertreters |
 |  | § 22c | Ausstellung von Rechnungen im Falle der Fiskalvertretung |
 |  | § 22d | Steuernummer und zuständiges Finanzamt |
 |  | § 22e | Untersagung der Fiskalvertretung |
-|  | § 22f | Besondere Pflichten für Betreiber eines elektronischen Marktplatzes |
+|  | § 22f | Besondere Pflichten für Betreiber einer elektronischen Schnittstelle |
 | VI. | Sonderregelungen |
 |  | § 23 | Allgemeine Durchschnittssätze |
 |  | § 23a | Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes |
@@ -77,13 +78,13 @@
 |  | § 25b | Innergemeinschaftliche Dreiecksgeschäfte |
 |  | § 25c | Besteuerung von Umsätzen mit Anlagegold |
 |  | § 25d | (weggefallen) |
-|  | § 25e | Haftung beim Handel auf einem elektronischen Marktplatz |
+|  | § 25e | Haftung beim Handel über eine elektronische Schnittstelle |
 |  | § 25f | Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung |
 | VII. | Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften |
 |  | § 26 | Durchführung, Erstattung in Sonderfällen |
 |  | § 26a | Bußgeldvorschriften |
-|  | § 26b | Schädigung des Umsatzsteueraufkommens |
-|  | § 26c | Gewerbsmäßige oder bandenmäßige Schädigung des Umsatzsteueraufkommens |
+|  | § 26b | (weggefallen) |
+|  | § 26c | Strafvorschriften |
 |  | § 27 | Allgemeine Übergangsvorschriften |
 |  | § 27a | Umsatzsteuer-Identifikationsnummer |
 |  | § 27b | Umsatzsteuer-Nachschau |

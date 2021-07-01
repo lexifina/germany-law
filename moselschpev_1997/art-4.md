@@ -133,7 +133,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
   c) das Stilliegen oder das Betreten der Fahrzeuge nach § 7.01, das Liegeverbot nach § 7.02 Nr. 1 Buchstabe a bis l Satz 1 oder Buchstabe m Satz 1, das Ankern nach § 7.03 Nr. 1, die Benutzung einer Stelze oder eines Ankerpfahls nach § 7.03 Nummer 3 Satz 1, das Festmachen nach § 7.04 Nummer 1, auch in Verbindung mit Nummer 2, oder Nummer 3, die Benutzung der Liegestellen nach § 7.05 oder § 7.06 Nummer 1, 2 oder Nummer 3 Satz 1 oder die Mindestabstände nach § 7.07 Nr. 1,
   d) die Wache oder Aufsicht nach § 7.08 Nummer 1, Nummer 1 Buchstabe a in Verbindung mit Nummer 2 Buchstabe a und Nummer 1 Buchstabe b in Verbindung mit Nummer 2 Buchstabe b, oder Nummer 5,
   e) die Höchstabmessungen der Fahrzeuge, Schubverbände oder Schleppverbände nach § 8.01 Nummer 1,
-  f) die Meldepflicht nach § 9.05 Nr. 1, 2, 3 Satz 2 oder 3 Nummer 4 bis 6 oder Nummer 8 oder
+  f) die Meldepflicht nach § 9.05 Nummer 1 in Verbindung mit Nummer 2, Nummer 3 Satz 2, Nummer 4 bis 9, Nummer 11 oder Nummer 12 oder
   g) die Aufbewahrung des Ölkontrollbuches nach § 11.05 Nummer 1 Satz 2 oder 3 oder der Entladebescheinigung nach § 11.08 Nummer 2 Satz 2
   zuwiderhandelt,
 30a. ein Fahrzeug mit einer Länge von mehr als 110,00 m, ausgenommen ein Fahrgastschiff, führt, obwohl das Fahrzeug nicht den Anforderungen des § 8.01 Nummer 2 entspricht,

@@ -470,10 +470,11 @@ internationalen Rechnungslegungsstandards
 #### Dritter Unterabschnitt Prüfung
 
 - [§ 316 Pflicht zur Prüfung](0316.md)
+- [§ 316a Abschlussprüfung bei Unternehmen von öffentlichem Interesse](0316a.md)
 - [§ 317 Gegenstand und Umfang der Prüfung](0317.md)
 - [§ 318 Bestellung und Abberufung des Abschlußprüfers](0318.md)
 - [§ 319 Auswahl der Abschlussprüfer und Ausschlussgründe](0319.md)
-- [§ 319a Besondere Ausschlussgründe bei Unternehmen von öffentlichem Interesse](0319a.md)
+- [§ 319a (weggefallen)](0319a.md)
 - [§ 319b Netzwerk](0319b.md)
 - [§ 320 Vorlagepflicht. Auskunftsrecht](0320.md)
 - [§ 321 Prüfungsbericht](0321.md)
@@ -503,6 +504,7 @@ internationalen Rechnungslegungsstandards
 ##### Erster Titel Straf- und Bußgeldvorschriften
 
 - [§ 331 Unrichtige Darstellung](0331.md)
+- [§ 331a Unrichtige Versicherung](0331a.md)
 - [§ 332 Verletzung der Berichtspflicht](0332.md)
 - [§ 333 Verletzung der Geheimhaltungspflicht](0333.md)
 - [§ 333a Verletzung der Pflichten bei Abschlussprüfungen](0333a.md)

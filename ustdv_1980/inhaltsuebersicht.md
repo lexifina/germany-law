@@ -9,7 +9,7 @@
 | § 2 | Verbindungsstrecken im Inland |
 | § 3 | Verbindungsstrecken im Ausland |
 | § 4 | Anschlussstrecken im Schienenbahnverkehr |
-| § 5 | Kurze Straßenstrecken im Inland |
+| § 5 | (weggefallen) |
 | § 6 | Straßenstrecken in den in § 1 Abs. 3 des Gesetzes bezeichneten Gebieten |
 | § 7 | Kurze Strecken im grenzüberschreitenden Verkehr mit Wasserfahrzeugen |
 |  |

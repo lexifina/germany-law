@@ -8,3 +8,4 @@
 - [§ 6 Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz](0006.md)
 - [§ 7 Übergangsvorschrift zum Abschlussprüfungsreformgesetz](0007.md)
 - [§ 8 Übergangsvorschrift zum Gesetz zur Umsetzung der Vierten EU-Geldwäscherichtlinie, zur Ausführung der EU-Geldtransferverordnung und zur Neuorganisation der Zentralstelle für Finanztransaktionsuntersuchungen](0008.md)
+- [§ 9 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0009.md)

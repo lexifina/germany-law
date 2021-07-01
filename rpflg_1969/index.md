@@ -50,7 +50,7 @@
 
 - [§ 29 Geschäfte im internationalen Rechtsverkehr](0029.md)
 - [§ 30 (weggefallen)](0030.md)
-- [§ 31 Geschäfte der Staatsanwaltschaft im Strafverfahren und Vollstreckung in Straf- und Bußgeldsachen sowie von Ordnungs- und Zwangsmitteln](0031.md)
+- [§ 31 Geschäfte der Staatsanwaltschaft im Straf- und Bußgeldverfahren und Vollstreckung in Straf- und Bußgeldsachen sowie von Ordnungs- und Zwangsmitteln](0031.md)
 - [§ 32 Nicht anzuwendende Vorschriften](0032.md)
 
 ## Sechster Abschnitt Schlussvorschriften

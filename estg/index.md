@@ -113,6 +113,7 @@
 #### d) Nichtselbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4)
 
 - [§ 19](0019.md)
+- [§ 19a Sondervorschrift für Einkünfte aus nichtselbständiger Arbeit bei Vermögensbeteiligungen](0019a.md)
 
 #### e) Kapitalvermögen (§ 2 Absatz 1 Satz 1 Nummer 5)
 

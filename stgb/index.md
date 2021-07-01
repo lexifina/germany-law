@@ -452,9 +452,11 @@ sexuelle Selbstbestimmung
 - [§ 174b Sexueller Mißbrauch unter Ausnutzung einer Amtsstellung](0174b.md)
 - [§ 174c Sexueller Mißbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses](0174c.md)
 - [§ 175 (weggefallen)](0175.md)
-- [§ 176 Sexueller Mißbrauch von Kindern](0176.md)
-- [§ 176a Schwerer sexueller Mißbrauch von Kindern](0176a.md)
-- [§ 176b Sexueller Mißbrauch von Kindern mit Todesfolge](0176b.md)
+- [§ 176 Sexueller Missbrauch von Kindern](0176.md)
+- [§ 176a Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind](0176a.md)
+- [§ 176b Vorbereitung des sexuellen Missbrauchs von Kindern](0176b.md)
+- [§ 176c Schwerer sexueller Missbrauch von Kindern](0176c.md)
+- [§ 176d Sexueller Missbrauch von Kindern mit Todesfolge](0176d.md)
 - [§ 177 Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung](0177.md)
 - [§ 178 Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge](0178.md)
 - [§ 179 (weggefallen)](0179.md)
@@ -478,6 +480,7 @@ sexuelle Selbstbestimmung
 - [§ 184i Sexuelle Belästigung](0184i.md)
 - [§ 184j Straftaten aus Gruppen](0184j.md)
 - [§ 184k Verletzung des Intimbereichs durch Bildaufnahmen](0184k.md)
+- [§ 184l Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild](0184l.md)
 
 ### Vierzehnter Abschnitt Beleidigung
 

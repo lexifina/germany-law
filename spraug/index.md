@@ -87,4 +87,3 @@ Angestellten und ihre Mitglieder](0034.md)
 
 - [§ 37 Erstmalige Wahlen nach diesem Gesetz](0037.md)
 - [§ 38 Ermächtigung zum Erlaß von Wahlordnungen](0038.md)
-- [§ 39 Sonderregelungen aus Anlass der COVID-19-Pandemie](0039.md)

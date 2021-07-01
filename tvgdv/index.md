@@ -13,6 +13,7 @@ und Aufhebung der Allgemeinverbindlichkeit
 - [§ 4](0004.md)
 - [§ 5](0005.md)
 - [§ 6](0006.md)
+- [§ 6a](0006a.md)
 - [§ 7](0007.md)
 - [§ 8](0008.md)
 - [§ 9](0009.md)

@@ -28,6 +28,17 @@ und Barrierefreiheit
 - [§ 12c Berichterstattung über den Stand der Barrierefreiheit](0012c.md)
 - [§ 12d Verordnungsermächtigung](0012d.md)
 
+## Abschnitt 2b Assistenzhunde
+
+- [§ 12e Menschen mit Behinderungen in Begleitung durch Assistenzhunde](0012e.md)
+- [§ 12f Ausbildung von Assistenzhunden](0012f.md)
+- [§ 12g Prüfung von Assistenzhunden und der Mensch-Assistenzhund-Gemeinschaft](0012g.md)
+- [§ 12h Haltung von Assistenzhunden](0012h.md)
+- [§ 12i Zulassung einer Ausbildungsstätte für Assistenzhunde](0012i.md)
+- [§ 12j Fachliche Stelle und Prüfer](0012j.md)
+- [§ 12k Studie zur Untersuchung](0012k.md)
+- [§ 12l Verordnungsermächtigung](0012l.md)
+
 ## Abschnitt 3 Bundesfachstelle für Barrierefreiheit
 
 - [§ 13 Bundesfachstelle für Barrierefreiheit](0013.md)

@@ -3,9 +3,9 @@
 | Nummer | Gegenstand | Gebührenbetrag oder Satz |
 | 1. | Durchführung von Inspektionen nach § 62b Absatz 1 und § 66a Absatz 6 Satz 1 Nummer 1 der Wirtschaftsprüferordnung in Verbindung mit Artikel 26 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77) |  |
 |  | – je Inspektion, | 16 000 Euro |
-|  | – je 1 000 Euro Gesamthonorar, das die Praxis mit der gesetzlichen Abschlussprüfung von Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs im Vorjahr bis 250 000 Euro erzielt hat, | 38 Euro |
-|  | – für jede weiteren 1 000 Euro Gesamthonorar, das die Praxis mit der gesetzlichen Abschlussprüfung von Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs im Vorjahr bis 500 000 Euro erzielt hat, und | 20 Euro |
-|  | – für jede weiteren 1 000 Euro Gesamthonorar, das die Praxis mit der gesetzlichen Abschlussprüfung von Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs im Vorjahr über 500 000 Euro erzielt hat. | 11 Euro |
+|  | – je 1 000 Euro Gesamthonorar, das die Praxis mit der gesetzlichen Abschlussprüfung von Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs im Vorjahr bis 250 000 Euro erzielt hat, | 38 Euro |
+|  | – für jede weiteren 1 000 Euro Gesamthonorar, das die Praxis mit der gesetzlichen Abschlussprüfung von Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs im Vorjahr bis 500 000 Euro erzielt hat, und | 20 Euro |
+|  | – für jede weiteren 1 000 Euro Gesamthonorar, das die Praxis mit der gesetzlichen Abschlussprüfung von Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs im Vorjahr über 500 000 Euro erzielt hat. | 11 Euro |
 | 2. | Überprüfung der Einhaltung einer nach § 66a Absatz 6 Satz 2 der Wirtschaftsprüferordnung erteilten Auflage |  |
 | 2.1. | In einfach gelagerten Fällen | 760 Euro |
 | 2.2. | In mittelschweren Fällen | 1 416 Euro |
@@ -28,7 +28,7 @@
 | 4.3.1. | In einfach gelagerten Fällen | 8 000 Euro |
 | 4.3.2. | In mittelschweren Fällen | 15 000 Euro |
 | 4.3.3. | In komplexen Fällen | 25 000 Euro |
-| 4.4. | Verbot, bei Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs tätig zu werden, nach Nummer 4 |  |
+| 4.4. | Verbot, bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs tätig zu werden, nach Nummer 4 |  |
 | 4.4.1. | In einfach gelagerten Fällen | 8 000 Euro |
 | 4.4.2. | In mittelschweren Fällen | 15 000 Euro |
 | 4.4.3. | In komplexen Fällen | 25 000 Euro |

@@ -1,6 +1,5 @@
 # Anlage (zu § 2 Absatz 1)
 
-(Fundstelle: BGBl. I 2010, 857 - 871)
 Inhaltsverzeichnis
 | Kapitel 1 | Begriffe |
 | 1.1 | Bauliche Anlagen |
@@ -28,8 +27,9 @@ Inhaltsverzeichnis
 | 2.3 | Berechnungsformeln |
 | 2.4 | Anzuwendender Zinssatz |
 | 2.5 | Theoretische Nutzungsdauer |
-| 2.6 | Restnutzungsdauer |
-| 2.7 | Tabellen |
+| 2.6 | Verlängerte theoretische Nutzungsdauer |
+| 2.7 | Restnutzungsdauer |
+| 2.8 | Tabellen |
 | Kapitel 3 | Kostenermittlung |
 | 3.1 | Ermittlung der Erneuerungskosten |
 | 3.2 | Zusammensetzung der Erneuerungskosten |
@@ -68,7 +68,7 @@ Begriffe
 1.4 Brücken
   Brücken gliedern sich in der Regel in Unter- und Überbauten. Zu den Brücken, die nicht in Unter- und Überbauten gegliedert sind, gehören rahmenartige Tragwerke, Gewölbe sowie Wellstahlrohre einschließlich der jeweiligen Flügelwände und Gründungen.
 1.5 Unterbauten von Brücken
-  Zu den Unterbauten von Brücken gehören Widerlager einschließlich Hohlwiderlager (aufgelöste Widerlager, die zur Durchführung von Verkehrswegen genutzt werden), Flügelwände, Pfeiler, Stützen einschließlich Schutzeinrichtungen (Anprallsockel, Anprallbalken), Pylone einschließlich der jeweiligen Gründungen, Abdichtungen und Bauwerksentwässerung. Pylone schließen unter anderem auch Ankerkörper, Seil- und Kabelaufhängungen ein.
+  Zu den Unterbauten von Brücken gehören Widerlager, aufgelöste Widerlager, die zur Durchführung von Verkehrswegen genutzt werden (Hohlwiderlager), Flügelwände, Pfeiler, Stützen, Pylone einschließlich der jeweiligen Flach- oder Tiefgründungen, Abdichtungen und Bauwerksentwässerung. Stützen schließen unter anderem auch Schutzeinrichtungen wie Anprallsockel und Anprallbalken ein. Pylone schließen unter anderem auch Ankerkörper, Seil- und Kabelaufhängungen ein.
 1.6 Überbauten von Brücken
   Zu den Überbauten von Brücken gehören die Tragkonstruktion einschließlich Lager, Fahrbahnübergänge, Abdichtungen mit Schutzschichten, Kappen, Schutzeinrichtungen wie z. B. Schrammborde, Aufkantungen, Schutzplanken, Schutzwände, Schutzschwellen, Anprallsockel, Geländer, Brüstungen, Einrichtungen für Spritzschutz, Blendschutz, Berührungsschutz über Bahnstrecken mit elektrischer Oberleitung, Lärmschutz, Schneefanggitter und Schutzdächer, Ausstattungen wie z. B. betriebstechnische Beleuchtungen, maschinelle Einrichtungen und Besichtigungseinrichtungen sowie die Bauwerksentwässerung. Zur Bauwerksentwässerung gehören bei Straßenüberführungen nicht die oberirdischen Entwässerungsrinnen neben der Fahrbahn und die Einlaufschächte.
   Bei Eisenbahnüberführungen gehören zu den Überbauten Entgleisungsschutz, Schienenauszüge und Vorrichtungen zur Verbindung der Gleise mit den Überbauten.
@@ -88,7 +88,7 @@ Begriffe
   Zu den sonstigen Ingenieurbauwerken gehören Verkehrszeichenbrücken einschließlich Beschilderungen, Signalausleger, Signalauslegerbrücken sowie Durchlässe.
 1.14 Fahrwege von Eisenbahnen
   Zu den Fahrwegen von Eisenbahnen gehören im Wesentlichen Schotterbett, Gleisschwellen, Schienen, Weichen, feste Fahrbahnen, Entwässerung, Geländer, Zäune, Mauern und Böschungsbefestigungen, Dienstgehwege einschließlich der erforderlichen Gründungen sowie Bahnübergangssicherungsanlagen.
-  Für Oberleitungsanlagen und signaltechnische Anlagen sind die Werte der theoretischen Nutzungsdauern m und der Prozentsätze p der jährlichen Unterhaltungskosten im Einzelfall zu vereinbaren. Für Entwässerungsanlagen, Geländer, Zäune, Mauern und Böschungsbefestigungen sind die Werte m und p der Straßen und Wege maßgebend.
+  Für signaltechnische Anlagen sind die Werte der theoretischen Nutzungsdauern m und der Prozentsätze p der jährlichen Unterhaltungskosten im Einzelfall zu vereinbaren. Für Entwässerungsanlagen, Geländer, Zäune, Mauern und Böschungsbefestigungen sind die Werte m und p der Straßen und Wege maßgebend.
 1.15 Straßen und Wege
   Zu den Straßen und Wegen gehören Oberbau, Entwässerung, Ausstattungen sowie Geländer, Zäune, Mauern und Böschungsbefestigungen einschließlich der erforderlichen Gründungen.
 1.16 Oberbau von Straßen und Wegen
@@ -148,6 +148,8 @@ Berechnung, Kapitalisierung
   |  |
   Durch den Übergang t → ∞ ergibt sich wiederum die Formel für die zeitlich unbegrenzte Unterhaltungsverpflichtung.
   (6)
+  Wenn nur der nicht erhaltungspflichtige Beteiligte eine Änderung verlangt, werden die Restnutzungsdauer der alten baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten baulichen Anlage Ealt abweichend von Absatz 1 nicht mit der theoretischen Nutzungsdauer m, sondern mit der verlängerten theoretischen Nutzungsdauer mv ermittelt.
+  (7)
   In den Formeln haben die Berechnungsglieder folgende Bedeutung:
   | Variable | Bedeutung | Dimension |
   | A | Ablösungsbetrag der Erhaltungskosten | Euro |
@@ -159,6 +161,7 @@ Berechnung, Kapitalisierung
   | z | Zinssatz der Kapitalisierung | vom Hundert |
   | q | Zinsfaktor der Kapitalisierung |  | [–] |
   | m | Theoretische Nutzungsdauer der fiktiven baulichen Anlage | Jahre |
+  | mv | Verlängerte theoretische Nutzungsdauer der fiktiven baulichen Anlage | Jahre |
   | n | Restnutzungsdauer: Anzahl der Jahre vom Zeitpunkt der Fälligkeit der Ablösung bis zur nächsten fälligen theoretischen Erneuerung der alten vorhandenen baulichen Anlage | Jahre |
   | p | Jährliche Unterhaltungskosten der fiktiven baulichen Anlage in Hundertteilen der Kosten Ku | vom Hundert |
   | E tu | zeitlich begrenzte Unterhaltungskosten über t Jahre | Euro |
@@ -168,10 +171,15 @@ Berechnung, Kapitalisierung
 2.5 Theoretische Nutzungsdauer
   Die theoretische Nutzungsdauer m der Bauwerksteile und der Bauteile beginnt mit dem Jahr der verkehrsbereiten Fertigstellung der baulichen Anlage. Falls bereits Bauwerksteile oder Bauteile erneuert wurden, gilt für diese das Jahr der letzten Erneuerung.
   Die theoretische Nutzungsdauer ist ein Erfahrungswert für die mögliche Nutzungsdauer einer baulichen Anlage, eines Bauwerksteils oder eines Bauteils und ist unabhängig von der tatsächlichen Nutzungsdauer bei der Ablösungsberechnung anzuwenden.
-2.6 Restnutzungsdauer
+2.6 Verlängerte theoretische Nutzungsdauer
+  Die verlängerte theoretische Nutzungsdauer berücksichtigt die vorzeitige Erneuerung der baulichen Anlage durch die Änderung des nicht erhaltungspflichtigen Beteiligten. Die verlängerte theoretische Nutzungsdauer ist zu ermitteln nach der Formel:
+  mv = m ∙ 1,1
+  Die verlängerte theoretische Nutzungsdauer ist auf volle Jahre kaufmännisch zu runden.
+  Wird durch die Änderung des nicht erhaltungspflichtigen Beteiligten eine vorgesehene Erneuerungsmaßnahme des Erhaltungspflichtigen zu einer Änderungsmaßnahme, so sind die Restnutzungsdauer der alten baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten baulichen Anlagealt mit der theoretischen Nutzungsdauer m nach Nummer 2.5 zu ermitteln.
+2.7 Restnutzungsdauer
   Die Restnutzungsdauer n ist unabhängig vom tatsächlichen Zustand der baulichen Anlage stets die Anzahl der Jahre vom Zeitpunkt der Ablösung bis zur nächsten fälligen theoretischen Erneuerung. Nach Ablauf der theoretischen Nutzungsdauer ist die Restnutzungsdauer mit Null anzusetzen.
   Wird bei der Ermittlung der Erneuerungskosten nach Nummer 3.1 eine nach Unterbau und Überbau gegliederte Brücke im Fiktiventwurf beispielsweise durch ein Rahmenbauwerk ersetzt, so ist eine gemeinsame Restnutzungsdauer aus den Restnutzungsdauern von Unterbau und Überbau abzuleiten.
-2.7 Tabellen
+2.8 Tabellen
   Die theoretischen Nutzungsdauern m und die Prozentsätze p der jährlichen Unterhaltungskosten der Ingenieurbauwerke sind in Kapitel 4 in den Tabellen 1 bis 6 festgelegt.
   Auf beweglichen Brücken sind die Werte nach Tabelle 1 nicht ohne Weiteres anwendbar. Die hierfür anzusetzenden theoretischen Nutzungsdauern m und die Prozentsätze p der jährlichen Unterhaltungskosten bedürfen gegebenenfalls besonderer Vereinbarung.
   Die theoretischen Nutzungsdauern m und die Prozentsätze p der jährlichen Unterhaltungskosten der Fahrwege von Eisenbahnen, der Straßen und Wege sowie der Ausstattungen von Bundeswasserstraßen und sonstigen schiffbaren Gewässern sind in Kapitel 4 in den Tabellen 7 bis 11 festgelegt.
@@ -183,7 +191,7 @@ Kostenermittlung
   Eigenleistungen sind auf der Grundlage von Unternehmerleistungen zu veranschlagen. Soweit Kostenanteile der Erneuerung nicht anhand von Unternehmerleistungen ermittelt werden können, sind diese Kostenanteile in geeigneter Weise nachzuweisen.
   Sind bei Lichtsignalanlagen die Erstellungskosten an Instandhaltungsverträge gebunden, so sind die Erneuerungskosten auf der Grundlage von Marktpreisen zu ermitteln.
   Erlöse aus der Verwertung oder der Wert nicht mehr benötigter Bauwerksteile und Altstoffe sind von den Kosten abzusetzen.
-  Alle einmaligen Kosten, die nur bei der Erstellung oder Änderung anfallen, jedoch bei einer späteren Erneuerung nicht wiederkehren (z. B. Hebung von Gleisen, Absenkung von Straßen, Bodenaushub des Verkehrsraums, Pfahlgründungen, Rampen) sind bei der Ermittlung der Erneuerungskosten (Ke) und damit bei der Ablösung nicht zu berücksichtigen.
+  Alle einmaligen Kosten, die nur bei der Erstellung oder Änderung anfallen, jedoch bei einer späteren Erneuerung nicht wiederkehren (z. B. Hebung von Gleisen, Absenkung von Straßen, Bodenaushub des Verkehrsraums, Rampen) sind bei der Ermittlung der Erneuerungskosten (Ke) und damit bei der Ablösung nicht zu berücksichtigen.
 3.2 Zusammensetzung der Erneuerungskosten
   Die Erneuerungskosten (Ke) für bauliche Anlagen setzen sich aus den reinen Baukosten nach Nummer 3.3 bis Nummer 3.5, den Kosten für Abbruch, Behelfszustände, Betriebserschwernisse, Umleitungsmaßnahmen und Sicherungsposten zusammen. Zu den Erneuerungskosten gehören auch die Verwaltungskosten gemäß Nummer 3.10.
   Bei der Ermittlung der Erneuerungskosten beziehen sich die Kosten für den Abbruch jeweils auf das abzulösende fiktive Bauwerk und nicht auf das alte vorhandene Bauwerk. Das alte vorhandene Bauwerk dient nur der Bestimmung der Restnutzungsdauer.
@@ -195,7 +203,7 @@ Kostenermittlung
   Die reinen Baukosten der Straßen und Wege sowie der Ausstattungen für Bundeswasserstraßen und sonstigen schiffbaren Gewässern umfassen neben den Aufwendungen für die Straßen- und Wegebestandteile im Sinne von Nummer 1.16 bis 1.19, die auf den Bau der Straßen und Wege entfallenden Kosten für Baustelleneinrichtung und -räumung.
   Die Kosten für Baustelleneinrichtung und -räumung werden bei Oberbauarbeiten gemäß Nummer 1.16 durch einen Zuschlag von 4 vom Hundert, bei Erd-, Entwässerungs- und Oberbauarbeiten gemäß Nummer 1.16 bis 1.18 durch einen Zuschlag von 8 vom Hundert zu den reinen Baukosten berücksichtigt, sofern sie nicht in die Kosten der abzulösenden Leistungen eingerechnet sind.
 3.6 Aufteilung der Kosten für Abbruch, Behelfszustände, Betriebserschwernisse, Umleitungsmaßnahmen bei Brückenbauwerken
-  Bei Ingenieurbauwerken sind die Kosten für Abbruch und für die während der nächsten Erneuerung zur Aufrechterhaltung des Verkehrs notwendigen Behelfszustände einschließlich der Verschubbahnen, Betriebserschwernisse von Eisenbahnen, Umleitungsmaßnahmen auf Unterbau und Überbau und Sicherungsposten entsprechend den Anteilen dieser Bauwerksteile an den reinen Baukosten zu verteilen.
+  Bei Ingenieurbauwerken sind die Kosten für Abbruch und für die während der nächsten Erneuerung zur Aufrechterhaltung des Verkehrs notwendigen Behelfszustände einschließlich der Verschubbahnen, Betriebserschwernisse von Eisenbahnen, Umleitungsmaßnahmen und Sicherungsposten auf Unterbau und Überbau entsprechend den Anteilen dieser Bauwerksteile an den reinen Baukosten zu verteilen.
 3.7 Aufteilung der Kosten für Abbruch, Behelfszustände, Umleitungsmaßnahmen bei Straßen und Wegen
   Bei Straßen und Wegen sind die Kosten für die Aufnahme oder die Teilaufnahme des alten Oberbaus sowie die Kosten für die während der nächsten Erneuerung zur Aufrechterhaltung des Verkehrs notwendigen Behelfszustände und Umleitungsmaßnahmen im Verhältnis der Dicke der zu erneuernden Schichten auf diese aufzuteilen.
 3.8 Zusammensetzung und Ermittlung der Unterhaltungskosten
@@ -215,7 +223,7 @@ Kostenermittlung
   Kosten für den durch die bauliche Anlage bedingten Energieverbrauch, wie etwa bei Bahnübergängen und Lichtsignalanlagen, sind in den jährlichen Unterhaltungskosten nicht enthalten. Der Aufwand eines Jahres ist nach der Berechnungsvorschrift für Unterhaltungskosten in Nummer 2.3 zu kapitalisieren und den Unterhaltungskosten zuzuschlagen. § 15 Absatz 3 des Eisenbahnkreuzungsgesetzes bleibt unberührt.
   Bei der Berechnung der kapitalisierten Energiekosten gemäß dem zweiten Summanden der Formel in Nummer 2.3 entspricht die Bezugsgröße Ku dem Aufwand eines Jahres zuzüglich Verwaltungskosten in Höhe von 10 vom Hundert dieses Aufwandes nach Nummer 3.10. Anstelle von p ist der Wert 100 anzusetzen.
 3.10 Verwaltungskosten
-  Mit den Verwaltungskosten in Höhe von 10 vom Hundert der Kosten nach Nummer 3.3 bis 3.7 sind insbesondere die Aufwendungen für Vorarbeiten, Vorentwürfe, die Bearbeitung des vergabereifen Bauentwurfs, die Vergabe der Bauarbeiten, die Prüfung der statischen Berechnungen und der Ausführungspläne, die Einholung behördlicher Genehmigungen, die örtliche Bauaufsicht (Bauüberwachung) und Bauleitung (Baulenkung), ferner die Stellung von Prüf- und Messgeräten, Messfahrzeugen, Hilfsfahrzeugen für die Bauaufsicht und Bauleitung und von Fahrzeugen für die Probebelastung sowie sonstige Verwaltungstätigkeiten einschließlich des Rechnungs- und Kassendienstes abgegolten.
+  Mit den Verwaltungskosten in Höhe von 20 Prozent der Kosten nach Nummer 3.3 bis 3.7 sind insbesondere die Aufwendungen für Vorarbeiten, Vorentwürfe, die Bearbeitung des vergabereifen Bauentwurfs, die Vergabe der Bauarbeiten, die Prüfung der statischen Berechnungen und der Ausführungspläne, die Einholung behördlicher Genehmigungen, die örtliche Bauaufsicht (Bauüberwachung) und Bauleitung (Baulenkung), ferner die Stellung von Prüf- und Messgeräten, Messfahrzeugen, Hilfsfahrzeugen für die Bauaufsicht und Bauleitung und von Fahrzeugen für die Probebelastung sowie sonstige Verwaltungstätigkeiten einschließlich des Rechnungs- und Kassendienstes abgegolten.
   Ferner sind damit die Aufwendungen für Umweltverträglichkeitsprüfungen, landschaftspflegerische Begleitpläne, schalltechnische Berechnungen sowie die Erstellung und Prüfung von Berechnungen der Ablösungsbeträge der Erhaltungskosten abgegolten.
 Kapitel 4
 Tabellen
@@ -249,9 +257,9 @@ Brücken
 | 1.2.5.2 | für Geh- und Radwege (geschütztes Haupttragwerk) | 60 | 2,0 |
 | 1.2.5.3 | für Straßen (geschütztes Haupttragwerk) | 60 | 2,0 |
 | 1.3 | Rahmenartige Tragwerke(einschließlich Gründungen und Flügelwände) |  |  |
-| 1.3.1 | aus Stahlbeton | 70 | 0,8 |
-| 1.3.2 | aus Spannbeton | 70 | 1,2 |
-| 1.3.3 | aus Stahl | 100 | 1,5 |
+| 1.3.1 | aus Stahlbeton | 70 | 0,6 |
+| 1.3.2 | aus Spannbeton | 70 | 1,0 |
+| 1.3.3 | aus Stahl | 100 | 1,3 |
 | 1.4 | Gewölbe (einschließlich Gründungen) |  |  |
 | 1.4.1 | aus Mauerwerk, Beton | 130 | 0,6 |
 | 1.4.2 | aus Stahlbeton | 110 | 0,5 |
@@ -265,7 +273,9 @@ Brücken
 | 1.6.3.1 | Schutzplatten aus Stahlbeton | 30 | 0,8 |
 | 1.6.3.2 | Schutzplatten aus Stahl | 30 | 1,2 |
 | 1.6.3.3 | Aufhöhung von Geländern und lückenlose Verkleidung der Geländerteile | 30 | 1,5 |
+| 1.6.3.4 | Stahlkonsolen mit Verbundsicherheitsglas | 30 | 1,0 |
 | 1.6.4 | Entgleisungsschutz | 20 | 1,0 |
+| 1.6.5 | Aufzüge | 15 | 3,0 |
 Tabelle 2
 Tunnel
 | lfd. Nr. | Bauwerksteil | Theoretische Nutzungs- dauer m [Jahre] | Jährliche Unterhaltungs- kosten p [v. H.] |
@@ -334,6 +344,9 @@ Fahrwege von Eisenbahnen
 | 7.5.2 | Lichtzeichen | 30 | 3,0 |
 | 7.5.3 | elektrische Schranken | 35 | 4,0 |
 | 7.5.4 | sonstige Absperrvorrichtungen | 25 | 2,0 |
+| 7.6 | Oberleitung |  |  |
+| 7.6.1 | Oberleitungsmasten | 60 | 1,5 |
+| 7.6.2 | Oberleitungen einschließlich Befestigungskonstruktionen | 30 | 4,0 |
 Tabelle 8
 Oberbau von Straßen und Wegen
 | lfd. Nr. | Bauteil | Theoretische Nutzungs- dauer m [Jahre] | Jährliche Unterhaltungs- kosten p [v. H.] |
@@ -389,11 +402,14 @@ Entwässerung von Straßen und Wegen
 | 9.4.2 | Pumpenanlagen (maschinen- und elektrotechnischer Teil) | 15 | 2,0 |
 | 9.5 | Sickerrohrleitungen | 60 | 2,0 |
 | 9.6 | Gräben, Mulden | 50 | 5,0 |
-| 9.7 | Straßenabläufe, Prüfschächte, Ablaufschächte, Schacht-abdeckungen | 50 | 1,0 |
-| 9.8 | Mechanische Absetzbecken, Rückhaltebecken, Überlaufbecken, Versickerbecken, Leichtflüssigkeitsabscheider |  |  |
-| 9.8.1 | aus Beton | 60 | 1,0 |
-| 9.8.2 | als Erdbauwerk | 90 | 2,0 |
-| 9.9 | Mechanische Einbauten in Leichtflüssigkeitsabscheidern | 25 | 2,5 |
+| 9.7 | Pflasterrinnen zur Wasserführung (z. B. vor Borden) |  |  |
+| 9.7.1 | aus Naturstein (z. B. Granit) | 60 | 1,0 |
+| 9.7.2 | aus Beton (z. B. Betonleistenstein) | 30 | 1,0 |
+| 9.8 | Straßenabläufe, Prüfschächte, Ablaufschächte, Schacht-abdeckungen | 50 | 1,0 |
+| 9.9 | Mechanische Absetzbecken, Rückhaltebecken, Überlaufbecken, Versickerbecken, Leichtflüssigkeitsabscheider |  |  |
+| 9.9.1 | aus Beton | 60 | 1,0 |
+| 9.9.2 | als Erdbauwerk | 90 | 2,0 |
+| 9.10 | Mechanische Einbauten in Leichtflüssigkeitsabscheidern | 25 | 2,5 |
 Tabelle 10
 Ausstattungen von Straßen und Wegen sowie
 Bundeswasserstraßen und sonstigen schiffbaren Gewässern
@@ -401,15 +417,15 @@ Bundeswasserstraßen und sonstigen schiffbaren Gewässern
 | 1 | 2 | 3 | 4 |
 | 10. | Ausstattungen von Straßen und Wegen sowie Bundeswasser- straßen und sonstigen schiffbaren Gewässern |  |  |
 | 10.1 | Nicht vorgefertigte Markierungssysteme |  |  |
-| 10.1.1 | Farben |  |  |
-| 10.1.1.1 | für stark belastete Straßen | 1 | 0 |
-| 10.1.1.2 | für schwach belastete Straßen | 3 | 0 |
-| 10.1.2 | High-Solid-Dispersionen, reaktive Stoffe, thermoplastische Stoffe |  |  |
-| 10.1.2.1 | für stark belastete Straßen | 2 | 0 |
-| 10.1.2.2 | für schwach belastete Straßen | 4 | 0 |
+| 10.1.1 | Farben (High-Solid-Dispersionen) |  |  |
+| 10.1.1.1 | für stark beanspruchte Systeme | 1 | 0 |
+| 10.1.1.2 | für schwach beanspruchte Systeme | 3 | 0 |
+| 10.1.2 | Reaktive Stoffe (Kaltplastik wie z. B. Agglomerate), thermoplastische Stoffe |  |  |
+| 10.1.2.1 | für stark beanspruchte Systeme | 3 | 0 |
+| 10.1.2.2 | für schwach beanspruchte Systeme | 5 | 0 |
 | 10.2 | Vorgefertigte Markierungssysteme (Folien) |  |  |
-| 10.2.1 | für stark belastete Straßen | 4 | 0 |
-| 10.2.2 | für schwach belastete Straßen | 7 | 0 |
+| 10.2.1 | für stark beanspruchte Systeme | 4 | 0 |
+| 10.2.2 | für schwach beanspruchte Systeme | 7 | 0 |
 | 10.3 | Fahrzeugrückhaltesysteme |  |  |
 | 10.3.1 | Stahlschutzplanken | 30 | 0,5 |
 | 10.3.2 | Schutzwände aus Beton, Stahl | 40 | 2,0 |
@@ -423,14 +439,19 @@ Bundeswasserstraßen und sonstigen schiffbaren Gewässern
 | 10.5.2 | Leitpfähle, Dalben und Absetzpfähle im Bereich von Bundeswasserstraßen und sonstigen schiffbaren Gewässern | 15 | 5,0 |
 | 10.6 | Straßenbeleuchtung | 30 | 1,0 |
 | 10.7 | Lichtsignalanlagen |  |  |
-| 10.7.1 | Signalmaste | 30 | 4,0 |
-| 10.7.2 | Signalgeber | 20 | 4,0 |
-| 10.7.3 | Signalsteuergerät | 15 | 4,0 |
+| 10.7.1 | Signalmaste | 30 | 2 |
+| 10.7.2 | Signalgeber | 20 | 4 |
+| 10.7.3 | Signalsteuergerät | 15 | 4 |
 | 10.7.4 | Kabel | 30 | 0 |
-| 10.7.5 | Kabelschächte | 50 | 0 |
+| 10.7.5 | Kabelschächte |  |  |
+| 10.7.5.1 | aus Kunststoff | 30 | 0 |
+| 10.7.5.2 | aus Beton | 50 | 0 |
 | 10.7.6 | Induktionsschleifen | 7 | 0 |
 | 10.7.7 | Infrarotdetektoren | 15 | 0 |
-| 10.8 | Verkehrsbeeinflussungsanlagen | 15 | 6,0 |
+| 10.7.8 | Radardetektoren | 10 | 1 |
+| 10.7.9 | Videokameras | 10 | 2 |
+| 10.8 | Verkehrsbeeinflussungsanlagen | 15 | 6 |
+| 10.9 | Amphibienleiteinrichtungen aus Stahl | 30 | 0,5 |
 Tabelle 11
 Geländer, Zäune, Mauern, Böschungsbefestigungen an Straßen und Wegen
 | lfd. Nr. | Bauteil | Theoretische Nutzungs- dauer m [Jahre] | Jährliche Unterhaltungs- kosten p [v. H.] |

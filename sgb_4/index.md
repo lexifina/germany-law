@@ -250,7 +250,7 @@
 
 - [§ 106 Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Beschäftigung nach Artikel 11 Absatz 3 Buchstabe b, Absatz 4, 5, Artikel 12 Absatz 1, Artikel 13 Absatz 1 Buchstabe a oder Buchstabe b Ziffer i und Artikel 16 der Verordnung (EG) Nr. 883/2004](0106.md)
 - [§ 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen](0107.md)
-- [§ 108 Elektronische Übermittlung von sonstigen Bescheinigungen an die Sozialversicherungsträger](0108.md)
+- [§ 108 Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger](0108.md)
 - [§ 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0108a.md)
 - [(XXXX) §§ 109 und 110 (weggefallen)](xxxx-109-und-110.md)
 

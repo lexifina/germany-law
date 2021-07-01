@@ -67,6 +67,7 @@
 - [§ 40 Mitteilungs- und Mitwirkungspflichten der Kontoinhaber](0040.md)
 - [§ 41 Übermittlungs- und Mitteilungspflichten der Betreiber von Elektrizitätsversorgungsnetzen und der Anlagenbetreiber](0041.md)
 - [§ 42 Begutachtungspflichten bei im Herkunftsnachweisregister registrierten Biomasseanlagen](0042.md)
+- [§ 42a Begutachtungspflichten bei im Herkunftsnachweisregister registrierten hocheffizienten KWK-Anlagen](0042a.md)
 - [§ 43 Tätigkeit von Umweltgutachtern und Umweltgutachterorganisationen](0043.md)
 - [§ 44 Vorlage weiterer Unterlagen durch Anlagenbetreiber und Kontoinhaber](0044.md)
 

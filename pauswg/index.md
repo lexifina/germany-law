@@ -33,8 +33,9 @@
 - [§ 19 Speicherung im Rahmen des elektronischen Identitätsnachweises](0019.md)
 - [§ 19a Speicherung durch Identifizierungsdiensteanbieter](0019a.md)
 - [§ 20 Verwendung durch öffentliche und nichtöffentliche Stellen](0020.md)
+- [§ 20a Hoheitliche Berechtigungszertifikate](0020a.md)
 
-## Abschnitt 4 Berechtigungen; elektronische Signatur
+## Abschnitt 4 Hoheitliche Berechtigungszertifikate; Berechtigungen; elektronische Signaturen
 
 - [§ 21 Berechtigungen für Diensteanbieter](0021.md)
 - [§ 21a Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter](0021a.md)

@@ -196,7 +196,7 @@
 - [§ 68 Regelungen zu Bedarfen für Bildung aus Anlass der COVID-19-Pandemie](0068.md)
 - [§ 69 Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten](0069.md)
 - [§ 70 Einmalzahlung aus Anlass der COVID-19-Pandemie](0070.md)
-- [§ 71 (weggefallen)](0071.md)
+- [§ 71 Kinderfreizeitbonus und weitere Regelung aus Anlass der COVID-19-Pandemie](0071.md)
 - [(XXXX) §§ 72 und 73 (weggefallen)](xxxx-72-und-73.md)
 - [§ 74 (weggefallen)](0074.md)
 - [§ 75 (weggefallen)](0075.md)

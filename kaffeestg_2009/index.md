@@ -20,13 +20,13 @@
 - [§ 11 Steuerentstehung, Steuerschuldner](0011.md)
 - [§ 12 Steueranmeldung, Fälligkeit](0012.md)
 
-## Abschnitt 3 Einfuhr von Kaffee aus Drittländern oder Drittgebieten
+## Abschnitt 3 Einfuhr oder unrechtmäßiger Eingang von Kaffee aus Drittländern oder Drittgebieten
 
-- [§ 13 Einfuhr](0013.md)
-- [§ 14 Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren](0014.md)
+- [§ 13 (weggefallen)](0013.md)
+- [§ 14 (weggefallen)](0014.md)
 - [§ 15 Steuerentstehung, Steuerschuldner](0015.md)
 
-## Abschnitt 4 Beförderung und Besteuerung von Kaffee des zollrechtlich freien Verkehrs anderer Mitgliedstaaten
+## Abschnitt 4 Beförderung von Kaffee des zollrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
 
 - [§ 16 Erwerb durch Privatpersonen](0016.md)
 - [§ 17 Bezug und Besitz zu gewerblichen Zwecken](0017.md)
@@ -46,4 +46,4 @@
 ## Abschnitt 7 Schlussbestimmungen
 
 - [§ 24 Ordnungswidrigkeiten](0024.md)
-- [§ 25 Übergangsvorschriften](0025.md)
+- [§ 25 (weggefallen)](0025.md)

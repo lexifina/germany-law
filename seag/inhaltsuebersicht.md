@@ -91,3 +91,4 @@
 | § 54 | Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz |
 | § 55 | Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie |
 | § 56 | Übergangsvorschrift zum Abschlussprüfungsreformgesetz |
+| § 57 | Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz |

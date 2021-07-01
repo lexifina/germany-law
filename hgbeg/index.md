@@ -238,3 +238,7 @@ Transparenzrichtlinie-Umsetzungsgesetz
 ## Fünfundvierzigster Abschnitt Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte
 
 - [Art 84](art-84.md)
+
+## Siebenundvierzigster Abschnitt Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+- [Art 86](art-86.md)

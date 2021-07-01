@@ -11,8 +11,8 @@
 | Wasserflächen für Binnenfischerei, Teichwirtschaft und Fischzucht für Binnenfischerei und Teichwirtschaft | ab 1,00 kg bis 4,00 kg Fischertrag/Ar pro Ar | 36,00 |
 | Wasserflächen für Binnenfischerei, Teichwirtschaft und Fischzucht für Binnenfischerei und Teichwirtschaft | über 4,00 kg Fischertrag/Ar pro Ar | 45,00 |
 | Zuschläge für fließende Gewässer |
-| Binnenfischerei, Teichwirtschaft und Fischzucht für Binnenfischerei und Teichwirtschaft | bis 500 Liter/Sekunde Durchfluss pro Liter/Sekunde | 12,50 |
-| Binnenfischerei, Teichwirtschaft und Fischzucht für Binnenfischerei und Teichwirtschaft | über 500 Liter/Sekunde Durchfluss pro Liter/Sekunde | 15,00 |
+| Teichwirtschaft und Fischzucht für Binnenfischerei und Teichwirtschaft | bis 500 Liter/Sekunde Durchfluss pro Liter/Sekunde | 12,50 |
+| Teichwirtschaft und Fischzucht für Binnenfischerei und Teichwirtschaft | über 500 Liter/Sekunde Durchfluss pro Liter/Sekunde | 15,00 |
 |  |
 | Saatzucht | pro Ar | Anlage 27 |
 | Weihnachtsbaumkulturen | pro Ar | 19,40 |

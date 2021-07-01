@@ -187,6 +187,11 @@
 | 1.1.20.8 | (weggefallen) |  |
 | 1.1.20.9 | Verbot von Geschäften (nach vorheriger Fristeinräumung) nach § 3 Absatz 3 KWG | 4 450 bis 25 000 |
 | 1.1.20.10 | Anordnungen zur Sicherstellung der ordnungsgemäßen Geschäftsorganisation nach § 25f Absatz 7 KWG | 1 100 bis 4 500 |
+| 1.1.21 | Anordnungen auf der Grundlage des Refinanzierungsregisterrechts (§§ 22a bis 22o KWG) |  |
+| 1.1.21.1 | Bestellung eines Verwalters des Refinanzierungsregisters (§ 22e Absatz 1 Satz 1, auch in Verbindung mit Absatz 5 Satz 1 KWG) | 270 |
+| 1.1.21.2 | Bestellung eines Stellvertreters des Verwalters des Refinanzierungsregisters (§ 22e Absatz 4 Satz 1 KWG) | 225 |
+| 1.1.21.3 | Verlängerung der Bestellung eines Verwalters des Refinanzierungsregisters (§ 22e Absatz 1 Satz 1 in Verbindung mit Absatz 3 Satz 1 erster Halbsatz KWG) | 200 |
+| 1.1.21.4 | Verlängerung der Bestellung eines Stellvertreters des Verwalters des Refinanzierungsregisters (§ 22e Absatz 4 Satz 1 in Verbindung mit Absatz 3 Satz 1 erster Halbsatz KWG) | 165 |
 | 1.2 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Zahlungskontengesetzes (ZKG) |  |
 | 1.2.1 | Anordnung des Abschlusses eines Basiskontovertrages oder der Eröffnung eines Basiskontos gegenüber dem Verpflichteten zugunsten des Berechtigten(§ 49 Absatz 1 Satz 1 ZKG) | 1 000 |
 | 1.2.2 | Teilweise oder vollständige Zurückweisung eines Widerspruchs gegen die Ablehnung eines Antrages nach § 49 Absatz 1 Satz 3 ZKG | gebührenfrei |
@@ -229,7 +234,7 @@
 | 1.5.3 | Vorlage eines Beschlussentwurfs in Bezug auf die Untersagung des beabsichtigten Erwerbs einer bedeutenden Beteiligung oder ihrer Erhöhung an einem CRR-Kreditinstitut(Artikel 15 Absatz 2 Verordnung (EU) Nr. 1024/2013;§ 2c Absatz 1b in Verbindung mit Absatz 1a Satz 11 KWG) | 500 bis 10 000 |
 | 2. | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Pfandbriefgesetzes (PfandBG) |  |
 | 2.1 | (weggefallen) |  |
-| 2.2 | Treuhänder und Stellvertreter (§ 7 Abs. 3 Satz 1 PfandBG) |  |
+| 2.2 | Treuhänder und Stellvertreter (§ 7 Absatz 3 Satz 1 PfandBG, auch in Verbindung mit § 9 Absatz 5 Satz 3 DGBankUmwG) |  |
 | 2.2.1 | Bestellung | 360 |
 | 2.2.2 | Verlängerung der Bestellung | 235 |
 | 2.3 | (weggefallen) |  |

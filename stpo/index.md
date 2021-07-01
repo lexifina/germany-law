@@ -89,6 +89,7 @@
 ### Sechster Abschnitt Zeugen
 
 - [§ 48 Zeugenpflichten; Ladung](0048.md)
+- [§ 48a Besonders schutzbedürftige Zeugen; Beschleunigungsgebot](0048a.md)
 - [§ 49 Vernehmung des Bundespräsidenten](0049.md)
 - [§ 50 Vernehmung von Abgeordneten und Mitgliedern einer Regierung](0050.md)
 - [§ 51 Folgen des Ausbleibens eines Zeugen](0051.md)
@@ -156,14 +157,15 @@
 
 - [§ 94 Sicherstellung und Beschlagnahme von Gegenständen zu Beweiszwecken](0094.md)
 - [§ 95 Herausgabepflicht](0095.md)
+- [§ 95a Zurückstellung der Benachrichtigung des Beschuldigten; Offenbarungsverbot](0095a.md)
 - [§ 96 Amtlich verwahrte Schriftstücke](0096.md)
 - [§ 97 Beschlagnahmeverbot](0097.md)
 - [§ 98 Verfahren bei der Beschlagnahme](0098.md)
 - [§ 98a Rasterfahndung](0098a.md)
 - [§ 98b Verfahren bei der Rasterfahndung](0098b.md)
 - [§ 98c Maschineller Abgleich mit vorhandenen Daten](0098c.md)
-- [§ 99 Postbeschlagnahme](0099.md)
-- [§ 100 Verfahren bei der Postbeschlagnahme](0100.md)
+- [§ 99 Postbeschlagnahme und Auskunftsverlangen](0099.md)
+- [§ 100 Verfahren bei der Postbeschlagnahme und Auskunftsverlangen](0100.md)
 - [§ 100a Telekommunikationsüberwachung](0100a.md)
 - [§ 100b Online-Durchsuchung](0100b.md)
 - [§ 100c Akustische Wohnraumüberwachung](0100c.md)
@@ -265,7 +267,7 @@
 - [§ 133 Ladung](0133.md)
 - [§ 134 Vorführung](0134.md)
 - [§ 135 Sofortige Vernehmung](0135.md)
-- [§ 136 Erste Vernehmung](0136.md)
+- [§ 136 Vernehmung](0136.md)
 - [§ 136a Verbotene Vernehmungsmethoden; Beweisverwertungsverbote](0136a.md)
 
 ### Elfter Abschnitt Verteidigung
@@ -339,12 +341,13 @@
 - [§ 163d Speicherung und Abgleich von Daten aus Kontrollen](0163d.md)
 - [§ 163e Ausschreibung zur Beobachtung bei polizeilichen Kontrollen](0163e.md)
 - [§ 163f Längerfristige Observation](0163f.md)
+- [§ 163g Automatische Kennzeichenerfassung](0163g.md)
 - [§ 164 Festnahme von Störern](0164.md)
 - [§ 165 Richterliche Untersuchungshandlungen bei Gefahr im Verzug](0165.md)
 - [§ 166 Beweisanträge des Beschuldigten bei richterlichen Vernehmungen](0166.md)
 - [§ 167 Weitere Verfügung der Staatsanwaltschaft](0167.md)
 - [§ 168 Protokoll über richterliche Untersuchungshandlungen](0168.md)
-- [§ 168a Art der Protokollierung richterlicher Untersuchungshandlungen](0168a.md)
+- [§ 168a Art der Protokollierung; Aufzeichnungen](0168a.md)
 - [§ 168b Protokoll über ermittlungsbehördliche Untersuchungshandlungen](0168b.md)
 - [§ 168c Anwesenheitsrecht bei richterlichen Vernehmungen](0168c.md)
 - [§ 168d Anwesenheitsrecht bei Einnahme eines richterlichen Augenscheins](0168d.md)
@@ -600,7 +603,11 @@
 ## Fünftes Buch Beteiligung des Verletzten am Verfahren
 
 
-### Erster Abschnitt Privatklage
+### Erster Abschnitt Definition
+
+- [§ 373b Begriff des Verletzten](0373b.md)
+
+### Zweiter Abschnitt Privatklage
 
 - [§ 374 Zulässigkeit; Privatklageberechtigte](0374.md)
 - [§ 375 Mehrere Privatklageberechtigte](0375.md)
@@ -625,7 +632,7 @@
 - [§ 393 Tod des Privatklägers](0393.md)
 - [§ 394 Bekanntmachung an den Beschuldigten](0394.md)
 
-### Zweiter Abschnitt Nebenklage
+### Dritter Abschnitt Nebenklage
 
 - [§ 395 Befugnis zum Anschluss als Nebenkläger](0395.md)
 - [§ 396 Anschlusserklärung; Entscheidung über die Befugnis zum Anschluss](0396.md)
@@ -638,17 +645,17 @@
 - [§ 401 Einlegung eines Rechtsmittels durch den Nebenkläger](0401.md)
 - [§ 402 Widerruf der Anschlusserklärung; Tod des Nebenklägers](0402.md)
 
-### Dritter Abschnitt Entschädigung des Verletzten
+### Vierter Abschnitt Adhäsionsverfahren
 
 - [§ 403 Geltendmachung eines Anspruchs im Adhäsionsverfahren](0403.md)
-- [§ 404 Antrag des Verletzten; Prozesskostenhilfe](0404.md)
+- [§ 404 Antrag; Prozesskostenhilfe](0404.md)
 - [§ 405 Vergleich](0405.md)
 - [§ 406 Entscheidung über den Antrag im Strafurteil; Absehen von einer Entscheidung](0406.md)
 - [§ 406a Rechtsmittel](0406a.md)
 - [§ 406b Vollstreckung](0406b.md)
 - [§ 406c Wiederaufnahme des Verfahrens](0406c.md)
 
-### Vierter Abschnitt Sonstige Befugnisse des Verletzten
+### Fünfter Abschnitt Sonstige Befugnisse des Verletzten
 
 - [§ 406d Auskunft über den Stand des Verfahrens](0406d.md)
 - [§ 406e Akteneinsicht](0406e.md)
@@ -750,7 +757,7 @@
 - [§ 459e Vollstreckung der Ersatzfreiheitsstrafe](0459e.md)
 - [§ 459f Unterbleiben der Vollstreckung einer Ersatzfreiheitsstrafe](0459f.md)
 - [§ 459g Vollstreckung von Nebenfolgen](0459g.md)
-- [§ 459h Entschädigung des Verletzten](0459h.md)
+- [§ 459h Entschädigung](0459h.md)
 - [§ 459i Mitteilungen](0459i.md)
 - [§ 459j Verfahren bei Rückübertragung und Herausgabe](0459j.md)
 - [§ 459k Verfahren bei Auskehrung des Verwertungserlöses](0459k.md)
@@ -767,6 +774,7 @@
 - [§ 463b Beschlagnahme von Führerscheinen](0463b.md)
 - [§ 463c Öffentliche Bekanntmachung der Verurteilung](0463c.md)
 - [§ 463d Gerichtshilfe](0463d.md)
+- [§ 463e Mündliche Anhörung im Wege der Bild- und Tonübertragung](0463e.md)
 
 ### Zweiter Abschnitt Kosten des Verfahrens
 

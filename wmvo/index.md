@@ -74,7 +74,7 @@ Zeitpunkt der Wahlen
 ## Abschnitt 5 Schlussvorschriften
 
 - [§ 40 Amtszeit der bestehenden Werkstatträte](0040.md)
-- [§ 40a Sonderregelungen aus Anlass der COVID-19-Pandemie](0040a.md)
+- [§ 40a (weggefallen)](0040a.md)
 - [§ 40b Sonderregelung aus Anlass der COVID-19-Pandemie für das Wahlverfahren](0040b.md)
 - [§ 41 Inkrafttreten](0041.md)
 - [Schlussformel](schlussformel.md)

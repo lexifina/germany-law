@@ -46,6 +46,7 @@ Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts](0026
 - [§ 26h Übergangsvorschrift zur Aktienrechtsnovelle 2016](0026h.md)
 - [§ 26i Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz](0026i.md)
 - [§ 26j Übergangsvorschrift zum Gesetz zur Umsetzung der zweiten Aktionärsrechterichtlinie](0026j.md)
+- [§ 26k Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0026k.md)
 
 ## Zweiter Abschnitt Anwendung aktienrechtlicher
 Vorschriften auf Unternehmen mit anderer Rechtsform

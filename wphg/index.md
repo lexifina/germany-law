@@ -37,7 +37,7 @@
 - [§ 25 Anwendung der Verordnung (EU) Nr. 596/2014 auf Waren und ausländische Zahlungsmittel](0025.md)
 - [§ 26 Übermittlung von Insiderinformationen und von Eigengeschäften; Verordnungsermächtigung](0026.md)
 - [§ 27 Aufzeichnungspflichten](0027.md)
-- [§ 28 Überwachung der Geschäfte der bei der Bundesanstalt Beschäftigten](0028.md)
+- [§ 28 (weggefallen)](0028.md)
 
 ## Abschnitt 4 Ratingagenturen
 
@@ -203,3 +203,4 @@
 - [§ 138 Übergangsvorschrift zur Richtlinie 2014/65/EU über Märkte für Finanzinstrumente](0138.md)
 - [§ 139 Übergangsvorschriften zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen](0139.md)
 - [§ 140 Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte](0140.md)
+- [§ 141 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0141.md)

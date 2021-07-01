@@ -268,7 +268,7 @@
 | Übergangs- und Schlussvorschriften |
 | Anwendung von Vorschriften dieses Gesetzes auf Abschlussprüfer, Abschlussprüferinnen und Abschlussprüfungsgesellschaften aus Drittstaaten | § 134 |
 | Übergangsregelung | § 134a |
-| (weggefallen) | § 135 |
+| Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz | § 135 |
 | Übergangsregelung für § 57a | § 136 |
 | Übergangsregelung für § 57a Abs 6 Satz 8 | § 136a |
 | Übergangsregelung für § 57 Abs 4 Nr 1 Buchstabe e und i | § 137 |

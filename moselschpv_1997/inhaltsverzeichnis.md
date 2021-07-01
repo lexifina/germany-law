@@ -204,3 +204,4 @@
 | Anlage 9: | (ohne Inhalt) |
 | Anlage 10: | Muster für das Ölkontrollbuch |
 | Anlage 11 | Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug |
+| Anlage 12 | Verzeichnis der Fahrzeug- und Verbandsarten |

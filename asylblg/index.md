@@ -26,3 +26,4 @@
 - [§ 13 Bußgeldvorschrift](0013.md)
 - [§ 14 Dauer der Anspruchseinschränkung](0014.md)
 - [§ 15 Übergangsregelung zum Zweiten Gesetz zur besseren Durchsetzung der Ausreisepflicht](0015.md)
+- [§ 16 Kinderfreizeitbonus aus Anlass der COVID-19-Pandemie](0016.md)

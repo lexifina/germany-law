@@ -293,7 +293,7 @@ Buchprüfungsgesellschaften
 
 - [§ 134 Anwendung von Vorschriften dieses Gesetzes auf Abschlussprüfer, Abschlussprüferinnen und Abschlussprüfungsgesellschaften aus Drittstaaten](0134.md)
 - [§ 134a Übergangsregelung](0134a.md)
-- [§ 135 (weggefallen)](0135.md)
+- [§ 135 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0135.md)
 - [§ 136 Übergangsregelung für § 57a](0136.md)
 - [§ 136a (weggefallen)](0136a.md)
 - [§ 137 Übergangsregelung für § 57 Abs. 4 Nr. 1 Buchstabe e und i](0137.md)

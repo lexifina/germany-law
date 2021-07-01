@@ -230,3 +230,4 @@ Nachschusspflicht der Mitglieder
 - [§ 170 Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz](0170.md)
 - [§ 171 Übergangsvorschrift zur Einführung der vereinfachten Prüfung](0171.md)
 - [§ 172 Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte](0172.md)
+- [§ 173 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0173.md)

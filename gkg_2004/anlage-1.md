@@ -637,7 +637,7 @@ dem Gesetz über die internationale Rechtshilfe in Strafsachen
 |  | Von dem Beschuldigten wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig auf eine Strafe, auf Verwarnung mit Strafvorbehalt erkannt, eine Maßregel der Besserung und Sicherung angeordnet oder eine Geldbuße festgesetzt worden ist. Von einer juristischen Person oder einer Personenvereinigung wird eine Gebühr nur erhoben, wenn gegen sie eine Geldbuße festgesetzt worden ist. |  |
 | Nr. | Gebührentatbestand | Gebühr oder Satz der Gebühr nach § 34 GKG |
 | Hauptabschnitt 7 Entschädigungsverfahren |
-| 3700 | Urteil, durch das dem Antrag des Verletzten oder seines Erben wegen eines aus der Straftat erwachsenen vermögensrechtlichen Anspruchs stattgegeben wird (§ 406 StPO) .......... | 1,0 |
+| 3700 | Urteil, durch das dem Antrag wegen eines aus der Straftat erwachsenen vermögensrechtlichen Anspruchs stattgegeben wird (§ 406 StPO) .......... | 1,0 |
 |  | Die Gebühr wird für jeden Rechtszug nach dem Wert des zuerkannten Anspruchs erhoben. |  |
 | Hauptabschnitt 8 Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes |
 | Abschnitt 1 Antrag auf gerichtliche Entscheidung |

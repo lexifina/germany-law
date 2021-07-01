@@ -22,6 +22,16 @@ Barrierefreie Informationstechnik öffentlicher Stellen des Bundes
 | § 12b | Erklärung zur Barrierefreiheit |
 | § 12c | Berichterstattung über den Stand der Barrierefreiheit |
 | § 12d | Verordnungsermächtigung |
+Abschnitt 2b
+Assistenzhunde
+| § 12e | Menschen mit Behinderungen in Begleitung durch Assistenzhunde |
+| § 12f | Ausbildung von Assistenzhunden |
+| § 12g | Prüfung von Assistenzhunden und der Mensch-Assistenzhund-Gemeinschaft |
+| § 12h | Haltung von Assistenzhunden |
+| § 12i | Zulassung einer Ausbildungsstätte für Assistenzhunde |
+| § 12j | Fachliche Stelle und Prüfer |
+| § 12k | Studie zur Untersuchung |
+| § 12l | Verordnungsermächtigung |
 Abschnitt 3
 Bundesfachstelle für Barrierefreiheit
 | § 13 | Bundesfachstelle für Barrierefreiheit |
