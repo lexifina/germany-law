@@ -1,0 +1,1 @@
+Auf Grund des Art. 9 des Bayerischen Eliteförderungsgesetzes (BayEFG) vom 26. April 2005 (GVBl S. 104, BayRS 2230-2-3-WFK) erlässt das Bayerische Staatsministerium für Wissenschaft, Forschung und Kunst im Einvernehmen mit den Bayerischen Staatsministerien für Unterricht und Kultus und Finanzen folgende Verordnung:
