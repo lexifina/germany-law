@@ -1,0 +1,7 @@
+# TOP 5: Erschließung 2. und 3. Bauabschnitt Neubaugebiet Schloßbergblick Neuhemsbach; Abwasserbeseitigung und Wasserversorgung; Auftragsvergabe
+
+- Sitzung: Sitzung des Werksausschusses für Eigenbetrieb 'Verbandsgemeindewerke Enkenbach-Alsenborn' (2021-07-01)
+- Körperschaft: Verbandsgemeinde Enkenbach-Alsenborn
+- Öffentlich: ja
+- OParl: https://enkenbach-alsenborn.gremien.info/oparl/agendaItem/ni_2021-VGWA-8%7Czt_4%7C1
+- Beschluss (Datei): Beschluss - Top 5 https://enkenbach-alsenborn.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-VGWA-8%7Czt_4%7C1
