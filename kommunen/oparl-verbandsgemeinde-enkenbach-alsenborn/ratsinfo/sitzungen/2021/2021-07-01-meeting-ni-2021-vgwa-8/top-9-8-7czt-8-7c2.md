@@ -1,0 +1,6 @@
+# TOP 9: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Werksausschusses für Eigenbetrieb 'Verbandsgemeindewerke Enkenbach-Alsenborn' (2021-07-01)
+- Körperschaft: Verbandsgemeinde Enkenbach-Alsenborn
+- Öffentlich: nein
+- OParl: https://enkenbach-alsenborn.gremien.info/oparl/agendaItem/ni_2021-VGWA-8%7Czt_8%7C2
