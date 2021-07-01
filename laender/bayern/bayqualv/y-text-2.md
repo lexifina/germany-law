@@ -1,0 +1,4 @@
+1. Art. 43 Abs. 7, Art. 44 Abs. 2 Sätze 1, 2 und 4, Abs. 3, Abs. 4 Satz 5 und Abs. 5, Art. 45 Abs. 2, Art. 50 Nr. 1, Art. 80 Abs. 1, Art. 106 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) vom 23. Mai 2006 (GVBl S. 245, BayRS 2210-1-1-WFK), zuletzt geändert durch Gesetz vom 24. Juli 2007 (GVBl S. 532, ber. S. 585),
+das Bayerische Staatsministerium für Wissenschaft, Forschung und Kunst, soweit erforderlich im Einvernehmen mit dem Bayerischen Staatsministerium für Unterricht und Kultus,
+2. Art. 43 Abs. 7 und 8, Art. 106 Abs. 1 Satz 2 des Bayerischen Hochschulgesetzes (BayHSchG) vom 23. Mai 2006 (GVBl S. 245, BayRS 2210-1-1-WFK), zuletzt geändert durch Gesetz vom 24. Juli 2007 (GVBl S. 532, ber. S. 585),
+das Bayerische Staatsministerium für Unterricht und Kultus im Einvernehmen mit dem Bayerischen Staatsministerium für Wissenschaft, Forschung und Kunst,
