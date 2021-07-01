@@ -1,0 +1,121 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-07-01T14:00:00+02:00
+- Ende: 2021-07-01T20:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20212
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20212
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00417165.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00417165.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00417165.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 29.04.2021 (SI-RAT/003/2021) - einstimmig beschlossen
+- TOP 3: Aktuelle Informationen zur Corona-Pandemie - zur Kenntnis genommen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Ratsfrau Opelt: Kosten für die Regenbogenfarbene Beleuchtung der Merkur-Spiel-Arena - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Ausübung von Wassersport im Hofgarten - beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Einzäunung auf dem Worringer Platz - beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass der Ratsfraktion DIE LINKE: Folgen der Auslagerung von Rheinbahn-Arbeitsplätzen für die Beschäftigten - beantwortet
+- TOP 4.5: Anfrage aus aktuellem Anlass der Ratsfraktion DIE LINKE: Polizeigewalt bei Demonstration gegen geplantes Versammlungsgesetz - schriftlich beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Deutsche Oper am Rhein - beantwortet
+- TOP 5.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: COVID 19 Impfungen und SERODUS Studien I und II - beantwortet
+- TOP 5.3: Anfrage der Ratsfraktion DIE LINKE: DITIB und Graue Wölfe in Düsseldorf - beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion DIE LINKE: Aktueller Stand Besetzung der neuen Personalstellen zur Durchsetzung der Wohnraumschutzsatzung - beantwortet
+- TOP 5.5: Anfrage der AfD-Ratsfraktion: Ordnungswidrigkeitenverfahren im Zusammenhang mit der Corona-Schutzverordnung - beantwortet
+- TOP 5.6: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Planungsstand zum Gutshof/Kinderbauernhof Niederheid - beantwortet
+- TOP 5.7: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Untergegangene E-Scooter - beantwortet
+- TOP 5.8: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Erfolg der Förderprogramme der Stadt - beantwortet
+- TOP 5.9: Anfrage der FDP-Ratsfraktion: perspektivische Ausrichtung des Gesundheitswesens in Düsseldorf - schriftlich beantwortet
+- TOP 5.10: Anfrage der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU: E-Scooter in Düsseldorfer Gewässern: Elektroschrott mit Umweltgefahr? - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfrau Kraljic: Zukünftige Veranstaltungsplanungen für Düsseldorf - schriftlich beantwortet
+- TOP 5.12: Anfrage der Ratsfrau Kraljic: Altkleidercontainer in Düsseldorf: Segen oder Ärgernis - schriftlich beantwortet
+- TOP 5.13: Anfrage des Ratsherrn Jörres: Organisation und Überwachung der Auszählung der Briefwahlunterlagen zur Bundestagswahl 2021 in Düsseldorf - schriftlich beantwortet
+- TOP 5.14: Anfrage der Ratsfrau Opelt: Drohende Innenstadtverödung aufgrund beginnender Pleitewelle bei Gastronomie und Hotellerie: was plant Düsseldorf? - schriftlich beantwortet
+- TOP 5.15: Anfrage der Ratsfrau Opelt: Zwischen Skylla und Charybdis: Was unternimmt die Stadt, um die drohende Pleitewelle im Düsseldorfer Einzelhandel zu verhindern? - schriftlich beantwortet
+- TOP 5.16: Anfrage des Ratsherrn Lemmer: "itslearning", Deckenlüfter und Schutz für Kinder und Jugendliche - schriftlich beantwortet
+- TOP 5.17: Anfrage der Ratsfrau Krüger: Frischwasser, Sauerstoff und Futter in Bächen, Gewässern und Seen sowie städtischen Parks, Grünanlagen, Naherholungsgebieten - schriftlich beantwortet
+- TOP 5.18: Anfrage der Ratsfrau Krüger: Unfälle, durch die Tiere verletzt oder getötet wurden - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht nach § 2 des Gesetzes zur Isolierung der aus der COVID-19 Pandemie folgenden Belastungen - zur Kenntnis genommen
+- TOP 9: Gültigkeit der Kommunalwahlen und der Integrationsratswahl am 13. September 2020 sowie der Oberbürgermeisterstichwahl am 27. September 2020 - einstimmig beschlossen
+- TOP 10: Bestimmung der Reihenfolge, in der die Beigeordneten bei Verhinderung des allgemeinen Vertreters des Oberbürgermeisters zur allgemeinen Vertretung berufen sind - einstimmig beschlossen
+- TOP 11: Sofortaufnahme und Clearingstelle für gewaltbetroffene Frauen und ihre Kinder, Hier: Entscheidung über die Beantragung von Fördermitteln sowie die Bereitstellung erforderlicher Eigenmittel - einstimmig beschlossen
+- TOP 12: Plan Nr. 04/029 - Südlich Oberlöricker Straße - einstimmig beschlossen
+- TOP 13: Bebauungsplan-Entwurf Nr. 06/007 - Theodorstraße/Am Hülserhof - mehrheitlich beschlossen
+- TOP 14: Flächennutzungsplanänderung Nr.188 (Entwurf) - Theodorstraße - Verlagerung Bau- und Gartenfachmarkt - mehrheitlich beschlossen
+- TOP 15: Bebauungsplan-Entwurf Nr. 01/014 - Schwannstraße Hochpunkt - mehrheitlich beschlossen
+- TOP 16: Bebauungsplan-Entwurf Nr. 02/010 - Östlich Hanielpark/Sohnstraße - mehrheitlich beschlossen
+- TOP 17: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf - mehrheitlich beschlossen
+- TOP 18: Auflösung der öffentlichen Einrichtung Großmarkt - mehrheitlich beschlossen
+- TOP 18.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage AUS/051/2021
+- TOP 19: Änderungssatzung: Aufhebung des § 1 der Großmarktsatzung - mehrheitlich beschlossen
+- TOP 20: Erweiterung der Kindertageseinrichtung Otto-Hahn-Straße 40, Stadtbezirk 9 (Ausführungs- und Finanzierungsbeschluss) - einstimmig beschlossen
+- TOP 21: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Matthias-Erzberger-Straße 22 und Bekenntnis der Kommune zum Mehrgenerationenhaus (Stadtteil- und Familienzentrum) - einstimmig beschlossen
+- TOP 22: Ausweitung der Öffnungszeiten der Zentralbibliothek im Gebäude KAP 1 - einstimmig beschlossen
+- TOP 23: Änderung der Richtlinien Kunst am Bau und Kunst im öffentlichen Raum - einstimmig beschlossen
+- TOP 24: Bestellung der Mitglieder und Stellvertretungen der Kunstkommission 2021 - einstimmig beschlossen
+- TOP 25: Bürger*innenbeteiligung zum 39er Denkmal auf dem Reeser Platz - zur Kenntnis genommen
+- TOP 26: Verleihung des Förderpreises für Wissenschaften der Landeshauptstadt Düsseldorf 2021 - einstimmig beschlossen
+- TOP 27: Deutsche Oper am Rhein, Verlängerung der Theatergemeinschaft - einstimmig beschlossen
+- TOP 28: Ludwig-Hammers-Platz - Umbau Knotenpunkt -Ausführungs- und Finanzierungsbeschluss- - mehrheitlich beschlossen
+- TOP 29: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur der Landeshauptstadt Düsseldorf 2021 - einstimmig beschlossen
+- TOP 30: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 31: Vorstand des Bergisch-Rheinischen Wasserverbandes - Benennung eines stellvertretenden Mitglieds der Landeshauptstadt Düsseldorf - - einstimmig beschlossen
+- TOP 32: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland -Ersatzbestellung- - einstimmig beschlossen
+- TOP 33: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr -Ersatzbestellung- - einstimmig beschlossen
+- TOP 34: Aufsichtsrat der Regionale Bahngesellschaft Kaarst - Neuss - Düsseldorf - Erkrath - Mettmann - Wuppertal mbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 35: Aufsichtsrat der Regiobahn Fahrbetriebsgesellschaft mit beschränkter Haftung - Ersatzwahl - - einstimmig beschlossen
+- TOP 36: Aufsichtsrat der SWD Städt. Wohnungsbau-GmbH & Co. KG - Ersatzwahl - - einstimmig beschlossen
+- TOP 37: Aufsichtsrat der SWD Städt. Wohnungsgesellschaft mbH & Co. KG - Ersatzwahl - - einstimmig beschlossen
+- TOP 38: Jahresabschluss 2019 und 2020 der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 39: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „GGS Kronprinzenstraße – Erweiterung um Sporthalle und Mensa" - einstimmig beschlossen
+- TOP 40: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Marie-Curie-Gymnasium, Gräulinger Straße 15 – Umbau und Erweiterung" - einstimmig beschlossen
+- TOP 41: Änderungen zum Maßnahmenpaket G9 (SOM VII) - einstimmig beschlossen
+- TOP 42: Errichtung einer Grundschule am Schulstandort Heerstraße 18/18a - einstimmig beschlossen
+- TOP 43: Klärwerk-Süd, Optimierung Energieerzeugung und -verteilung (OEV) (I-8030618011) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 44: Anträge
+- TOP 44.1: Antrag der Ratsfraktion DIE LINKE: Einführung eines Abwassermonitorings als Corona-Frühwarnsystem - zurückgezogen
+- TOP 44.2: Antrag der Ratsfraktion DIE LINKE: Umbenennung der „Kleinen Kommission Elektromobilität“ - mehrheitlich abgelehnt
+- TOP 44.3: Antrag der Ratsfraktion DIE LINKE: Keine Kapazitätserweiterung des Düsseldorfer Flughafens - mehrheitlich abgelehnt
+- TOP 44.4: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Konzept für einen Gesundheits-Campus an der Kölner Straße 180 - einstimmig beschlossen
+- TOP 44.4.1: Ergänzungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/445/2021 - zurückgezogen
+- TOP 44.4.2: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage RAT/445/2021 - einstimmig beschlossen
+- TOP 44.5: Antrag der Ratsfraktion DIE LINKE: Provenienzforschung im "kolonialen Kontext" - mehrheitlich abgelehnt
+- TOP 44.6: Antrag der Ratsfraktion DIE LINKE: Vorgehen bei der Erstellung eines Handlungskonzepts gegen Rechtsextremismus, Antisemitismus und Rassismus - mehrheitlich abgelehnt
+- TOP 44.7: Antrag der Ratsfraktion SPD/Volt: „Heartbeat- Düsseldorf rettet“: Stadtweite Kampagne zum Erlernen der Herzdruckmassage - verwiesen
+- TOP 44.8: Antrag der Ratsfraktion SPD/Volt: Covid-19-Impfangebote für Menschen in der Prostitution in Düsseldorf - abweichend beschlossen
+- TOP 44.8.1: mündlicher Änderungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/456/2021
+- TOP 44.9: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Der Stadtrat will Vorbild sein – Keine Erstattung von Parktickets für Mandatsträger:innen - mehrheitlich abgelehnt
+- TOP 44.10: Antrag der Ratsfraktion SPD/Volt: Für die schnelle Umsetzung des Baulandmobilisierungsgesetzes eintreten! - abweichend beschlossen
+- TOP 44.10.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/457/2021 - mehrheitlich abgelehnt
+- TOP 44.11: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Autofreie Königsallee - verwiesen
+- TOP 44.11.1: mündlicher Ergänzungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/439/2021 - verwiesen
+- TOP 44.12: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Berichterstattung Kleine Kommission Klimahilfe im Rat - mehrheitlich abgelehnt
+- TOP 44.13: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Vorrang für Gastronomie oder Fahrräder - Parkbuchten dauerhaft umwidmen - verwiesen
+- TOP 44.13.1: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/442/2021 - verwiesen
+- TOP 44.14: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: ÖPNV Kostenlos & Fahrscheinfrei - mehrheitlich abgelehnt
+- TOP 44.15: Antrag der Ratsfraktion SPD/Volt: Tarifbindung bei städtischen Beteiligungen sicherstellen
+- TOP 44.16: Antrag der Ratsfraktion SPD/Volt: Öffentliche Vergaben an Kriterien binden
+- TOP 44.17: Antrag der Ratsfraktion SPD/Volt: Shared Mobility-Strategie für Düsseldorf –Mietfahrzeuge planvoll für die Verkehrswende nutzen
+- TOP 44.18: Antrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD/Volt und FDP: Konzept und Projektgruppe für die Umbenennung von Düsseldorfer Straßen
+- TOP 44.18.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/461/2021
+- TOP 44.19: Antrag der FDP-Ratsfraktion: Fußgängerbeauftragte*r für die Landeshauptstadt Düsseldorf und Einrichtung einer „Kleinen Kommission Fußverkehr“
+- TOP 44.19.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/454/2021
+- TOP 44.20: Antrag der FDP-Ratsfraktion: Strategie gegen Gewalt in der Stadt
+- TOP 44.20.1: Ergänzungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/462/2021
+- TOP 44.21: Antrag der FDP-Ratsfraktion: Verbesserung der Terminvergabe in den Bürgerbüros
+- TOP 44.22: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Vertretung des Rats der Künste als beratendes Mitglied in den Kulturausschuss der Landeshauptstadt Düsseldorf
+- TOP 44.23: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Hochwasserschutz und Schaffung ökologisch wertvoller Auenlandschaft miteinander verbinden – Himmelgeister Rheinbogen für kommende Generationen und einzigartige Artenvielfalt sichern
+- TOP 45: Aussetzung bzw. Reduzierung der Elternbeiträge für die Betreuung von Kindern in der Kindertagesbetreuung einschließlich der Kindertagespflege im Zuge von COVID-19 für die Monate Februar bis Mai 2021 - einstimmig beschlossen
+- TOP 46: Luftreinhaltung: Abschluss der DUH-Klage mit Vergleich - zur Kenntnis genommen
+- TOP 47: Nutzung von Teilflächen des Nordparks im Rahmen eines Familienfestes des Aquazoo Löbbecke Museums - mehrheitlich beschlossen
+- TOP 48: Konzept zur Überlassung städtischer Räume - zur Kenntnis genommen
