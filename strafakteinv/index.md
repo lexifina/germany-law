@@ -9,5 +9,5 @@
 - [§ 6 Datenträger](0006.md)
 - [§ 7 Belehrung](0007.md)
 - [§ 8 Bekanntmachung](0008.md)
-- [Schlussformel](schlussformel.md)
 - [§ 9 Inkrafttreten](0009.md)
+- [Schlussformel](schlussformel.md)
