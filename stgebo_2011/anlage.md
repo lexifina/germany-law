@@ -247,6 +247,7 @@ Gebühren der Behörden im Landesbereich
 | 241.3 |  | eines Fahrtschreiber- oder EG-Kontrollgeräteherstellers oder eines Fahrzeugherstellers nach § 57b Absatz 3 und 4 StVZO oder eines Geschwindigkeitsbegrenzerherstellers nach § 57d Absatz 4 StVZO | 56,20 bis 225,00 |
 | 241.4 |  | einer ÜberwachungsorganisationBei einer Überprüfung jeweils zuzüglich der Kosten für eine etwaige Überprüfung an Ort und Stelle. | 128,00 bis 1 023,00 |
 | 241.5 |  | einer Kraftfahrzeugwerkstatt zur Durchführung der Abgasuntersuchung | 38,30 bis 153,00 |
+| 241a |  | Erhebung und Speicherung der Daten nach Nummer 6.2.1 der Anlage VIIIc der StVZO und Auskunft zu diesen Daten oder Übermittlung dieser Daten nach den Nummern 6.2.2.1 und 6.2.2.3 der Anlage VIIIc der StVZO je Kraftfahrzeugwerkstatt für einen Zweijahreszeitraum | 25,00 |
 | 242 |  | Entscheidung über die Erteilung, Änderung, Versagung, Rücknahme oder den Widerruf der Bestätigung der Bestellung des technischen Leiters einer Überwachungsorganisation oder dessen Vertreters | 25,60 bis 102,00 |
 | 243 |  | Entscheidung über die Erteilung, Änderung, Versagung, Rücknahme oder den Widerruf der Zustimmung zur Betrauung von Kraftfahrzeugsachverständigen mit der Durchführung von Untersuchungen nach Nummer 3.7 und Nummer 4.1.3 der Anlage VIIIb zur StVZO | 33,20 bis 256,00 |
 | 244 |  | Prüfung von Bewerbern für die Durchführung von Hauptuntersuchungen einschließlich Abnahmen nach § 19 Absatz 3 StVZO für Überwachungsorganisationen | 481,00 |
@@ -467,7 +468,7 @@ und Prüfer für den Kraftfahrzeugverkehr, der Prüfstellen nach der Fahrzeugtei
 | Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23 StVZO, 6 | Gutachten nach § 21 StVZO auf Grund § 14 Absatz 2 Satz 46 |
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | Euro | Euro | Euro | Euro | Euro | Euro |
-| 413.1 | Kleinkrafträder, Fahrräder mit Hilfsmotor, vierrädrige Leichtkraftfahrzeuge, Krankenfahrstühle | 49,70 | 31,10 | 17,00 bis 28,40 | 12,80 bis 23,00 | – | – |
+| 413.1 | Kleinkrafträder, Fahrräder mit Hilfsmotor, leichte vierrädrige Kraftfahrzeuge, Krankenfahrstühle | 49,70 | 31,10 | 17,00 bis 28,40 | 12,80 bis 23,00 | – | – |
 | 413.2 | Anhänger ohne Bremsanlage | 49,70 | 31,10 | 17,00 bis 28,40 | 12,80 bis 23,00 | 12,60 bis 23,30 | – |
 | 413.3 | Krafträder | 58,00 | 37,00 | 19,20 bis 35,30 | 15,70 bis 29,30 | 22,70 bis 34,20 | – |
 | 413.4 | Kraftfahrzeuge oder Anhänger mit einer zulässigen Gesamtmasse ... |  |  |  |  |  |  |

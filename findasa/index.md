@@ -6,6 +6,7 @@
 - [§ 1 Bezeichnung, Aufbau und Organisation der Bundesanstalt](0001.md)
 - [§ 1a Geschäftsbereich Abwicklung](0001a.md)
 - [§ 2 Rechte und Pflichten der Organe der Bundesanstalt](0002.md)
+- [§ 2a Beauftragter oder Beauftragte für den Anleger- und Verbraucherschutz](0002a.md)
 
 ## Zweiter Abschnitt Verwaltungsrat
 

@@ -5,6 +5,7 @@
 ## Erster Teil Steuerpflicht
 
 - [§ 1 Unbeschränkte Steuerpflicht](0001.md)
+- [§ 1a Option zur Körperschaftsbesteuerung](0001a.md)
 - [§ 2 Beschränkte Steuerpflicht](0002.md)
 - [§ 3 Abgrenzung der Steuerpflicht bei nichtrechtsfähigen
 Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden](0003.md)

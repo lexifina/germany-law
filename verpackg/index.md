@@ -1,5 +1,6 @@
 # Gesetz über das Inverkehrbringen, die Rücknahme und die hochwertige Verwertung von Verpackungen
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
@@ -29,7 +30,7 @@
 
 ## Abschnitt 4 Systeme
 
-- [§ 18 Genehmigung](0018.md)
+- [§ 18 Genehmigung und Organisation](0018.md)
 - [§ 19 Gemeinsame Stelle](0019.md)
 - [§ 20 Meldepflichten](0020.md)
 - [§ 21 Ökologische Gestaltung der Beteiligungsentgelte](0021.md)
@@ -48,14 +49,21 @@
 
 ## Abschnitt 6 Getränkeverpackungen
 
+- [§ 30a Mindestrezyklatanteil bei bestimmten Einwegkunststoffgetränkeflaschen](0030a.md)
 - [§ 31 Pfand- und Rücknahmepflichten für Einweggetränkeverpackungen](0031.md)
 - [§ 32 Hinweispflichten](0032.md)
 
-## Abschnitt 7 Schlussbestimmungen
+## Abschnitt 7 Minderung des Verbrauchs bestimmter Einwegverpackungen
 
-- [§ 33 Beauftragung Dritter](0033.md)
-- [§ 34 Bußgeldvorschriften](0034.md)
-- [§ 35 Übergangsvorschriften](0035.md)
+- [§ 33 Mehrwegalternative für Einwegkunststofflebensmittelverpackungen und Einweggetränkebecher](0033.md)
+- [§ 34 Erleichterungen für kleine Unternehmen und Verkaufsautomaten](0034.md)
+
+## Abschnitt 8 Schlussbestimmungen
+
+- [§ 35 Beauftragung Dritter und Bevollmächtigung](0035.md)
+- [§ 36 Bußgeldvorschriften](0036.md)
+- [§ 37 Einziehung](0037.md)
+- [§ 38 Übergangsvorschriften](0038.md)
 - [Anlage 1 (zu § 3 Absatz 1)Verpackungskriterien und -beispiele](anlage-1.md)
 - [Anlage 2 (zu § 3 Absatz 7)Schadstoffhaltige Füllgüter im Sinne von § 3 Absatz 7](anlage-2.md)
 - [Anlage 3 (zu § 5 Absatz 1 Satz 2 Nummer 2)Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt](anlage-3.md)

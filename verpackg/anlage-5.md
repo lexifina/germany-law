@@ -2,7 +2,7 @@
 
 1. Nummern und Abkürzungenfür Kunststoffe
 | Stoff | Abkürzung | Nummer |
-| Polyethylenterephtalat | PET | 1 |
+| Polyethylenterephthalat | PET | 1 |
 | Polyethylen hoher Dichte | HDPE | 2 |
 | Polyvinylchlorid | PVC | 3 |
 | Polyethylen niedriger Dichte | LDPE | 4 |

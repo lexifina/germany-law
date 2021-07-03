@@ -552,7 +552,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 189.3 |  | die Verkehrssicherheit des Fahrzeugs oder des Zuges durch die Ladung oder die Besetzung wesentlich litt | § 31 Absatz 2 § 69a Absatz 5 Nummer 3 |  |
 | 189.3.1 |  | bei Lastkraftwagen oder Kraftomnibussen bzw. ihren Anhängern |  | 270 € |
 | 189.3.2 |  | bei anderen als in Nummer 189.3.1 genannten Fahrzeugen |  | 135 € |
-| 189a | Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Verkehrssicherheit wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1a |  |
+| 189a | Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Verkehrssicherheit wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1b |  |
 | 189a.1 |  | bei Lastkraftwagen oder Kraftomnibussen |  | 270 € |
 | 189a.2 |  | bei anderen als in Nummer 189a.1 genannten Fahrzeugen |  | 135 € |
 | 189b | Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Umwelt wesentlich beeinträchtigt |  |  |
@@ -621,7 +621,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 214.1 |  | bei Lastkraftwagen oder Kraftomnibussen bzw. ihren Anhängern |  | 180 € |
 | 214.2 |  | bei anderen als in Nummer 214.1 genannten Fahrzeugen |  | 90 € |
 |  | Erlöschen der Betriebserlaubnis |  |  |
-| 214a | Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Verkehrssicherheit wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1a |  |
+| 214a | Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Verkehrssicherheit wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1b |  |
 | 214a.1 | bei Lastkraftwagen oder Kraftomnibussen |  | 180 € |
 | 214a.2 | bei anderen als in Nummer 214a.1 genannten Fahrzeugen |  | 90 € |
 | 214b | Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Umwelt wesentlich beeinträchtigt |  |  |
@@ -737,6 +737,10 @@ Vorsätzlich begangene Ordnungswidrigkeiten
 |  | Betriebsverbot und Beschränkungen |  |  |
 | 253 | Einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwidergehandelt oder Beschränkung nicht beachtet | § 5 Absatz 1 § 48 Nummer 7 | 70 € |
 |  | d) Straßenverkehrs-Zulassungs-Ordnung |  |  |
+|  | Erlöschen der Betriebserlaubnis |  |  |
+| 253a | Änderungen am Fahrzeug vorgenommen oder vornehmen lassen, die zum Erlöschen der Betriebserlaubnis führen | § 19 Absatz 2 Satz 3 § 69a Absatz 2 Nummer 1a |  |
+| 253a.1 | – als Hersteller oder Importeur |  | 800 € |
+| 253a.2 | – als Gewerbetreibender |  | 400 € |
 |  | Achslast, Gesamtgewicht, Anhängelast hinter Kraftfahrzeugen |  |  |
 | 254 | Gegen die Pflicht zur Feststellung der zugelassenen Achslasten oder Gesamtgewichte oder gegen Vorschriften über das Um- oder Entladen bei Überlastung verstoßen | § 31c Satz 1, 4 Halbsatz 2 § 69a Absatz 5 Nummer 4c | 50 € |
 |  | Ausnahmen |  |  |

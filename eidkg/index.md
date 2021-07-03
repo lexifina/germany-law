@@ -24,10 +24,10 @@
 - [§ 12 Elektronischer Identitätsnachweis](0012.md)
 - [§ 13 Vor-Ort-Auslesen](0013.md)
 - [§ 14 Speicherung im Rahmen des elektronischen Identitätsnachweises](0014.md)
-- [§ 14a Hoheitliche Berechtigungszertifikate](0014a.md)
 
 ## Abschnitt 4 Hoheitliche Berechtigungszertifikate; Berechtigungen; elektronische Signaturen
 
+- [§ 14a Hoheitliche Berechtigungszertifikate](0014a.md)
 - [§ 15 Berechtigungen für Diensteanbieter](0015.md)
 - [§ 16 Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter](0016.md)
 - [§ 17 Berechtigung für Identifizierungsdiensteanbieter](0017.md)
