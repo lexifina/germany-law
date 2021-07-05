@@ -1,0 +1,114 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-07-05T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354612
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354612
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.3.1.: Baulisten
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 2.1.: Mähaktion in der Axel-von-Ambesser-Straße Schreiben zur Kenntnisnahme
+- TOP 2.2.: Schreiben zu Müllablegerungen auf städtischem Grund Plinganserstraße 5a -7a
+- TOP 2.3.: Tempo 30 in der Plinganserstraße
+- TOP 2.4.: Staudenbeete am Neuhofener Berg
+- TOP 2.5.: Dauerbeschallung über Sendling
+- TOP 2.6.: Sitzbank Ecke Implerstraße-/ Kyreinstraße
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Hans-Preißinger-Straße 8 - 16 Modul 1
+- TOP 4.2.2.: Bauvorhaben Hans-Preisinger-Straße 8 - 16 Modul 2
+- TOP 4.2.3.: Bauvorhaben Hans-Preißinger-Straße 8 - 16 Neubau Philharmonie / Umbau Halle E
+- TOP 4.2.4.: Baumfällungsantrag Lindenschmitstraße 19
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.2.: Aufstellung der Wertstoffcontainer Wackersbergerstraße 60 wieder an den ursprünglichen Ort (Kidlerplatz, Eingang Parkanlage), wenn möglich als Unterflurcontainer, nach der Sanierung der Kita am Kidlerplatz.
+- TOP 4.3.3.: Dixie-Toilette auf dem Valleyplatz Antwort
+- TOP 4.3.4.: Vermüllung des Gotzinger Platzes Antwort
+- TOP 4.3.5.: Wertstoffinsel in der Thalkirchner Straße 260 Antwort
+- TOP 4.3.6.: Verbesserung der Baumschutzverordnung gegen illegale Fällungen BA-Antrags-Nr. 20-26 / B 01843 des Bezirksauschusses 21 - Pasing-Obermenzing vom 02.03.2021 Abdruck an die BAs 1 - 25
+- TOP 4.3.7.: Digitale Fragestunde zum Interims-Gasteig
+- TOP 4.3.8.: Hochbeete auf öffentlichem Grund
+- TOP 4.3.9.: Bauvorhaben an der Kochelseestraße Vorbescheid
+- TOP 4.3.10.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 4.3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.12.: (U) Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Verordnung zur Änderung der Verordnung der Landeshauptstadt München zum Schutz der Naturdenkmäler (Naturdenkmalverordnung) vom 08.09.2011
+- TOP 4.3.13.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2019 bis 2040 für die Landeshauptstadt
+- TOP 4.3.14.: (U) Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2019 bis 2040 für die Stadtbezirke
+- TOP 4.3.15.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Steinerstr. 18 im 6. Stadtbezirk Sendling Leistung eines Baukostenzuschusses
+- TOP 4.3.16.: Pfarrgarten an der Meindlstraße 5 Antwort
+- TOP 4.3.17.: Baulisten
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Restaurierung des Schmied von Kochel – Brunnens! [Fraktionen SPD / Die Grünen]
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Änderung der Parkregelung in der Plinganserstraße
+- TOP 5.2.2.: Eisenbahnüberführung Tumblingerstraße
+- TOP 5.2.3.: Beschlussentwurf Radwegrückbau in Tempo-30-Zonen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Falschparker auf dem Resi-Huber-Platz Antwort
+- TOP 5.3.2.: Anschaffung von Verkehrs- und Geschwindigkeitsmessgeräten "TOPO-Boxen" Weiteres Vorgehen
+- TOP 5.3.3.: Neue Baumstandorten im öffentlichen Grün
+- TOP 5.3.4.: Herstellung der restlichen Seitenräume Hans-Klein-Straße / Johannes-Timm-Straße
+- TOP 5.3.5.: Radfahrer*innen auf dem Fußweg der Oberländerstraße Antwort
+- TOP 5.3.6.: Verzicht auf Stellplatzablöse Abdruck der Antwort an die BAs 5 und 17
+- TOP 5.3.7.: Verkehrsrechtliche Anordnung Maßnahmen im Bereich der Radverkehrsanlagen zwischen Brudermühlstraße und Höllriegelskreuther Straße
+- TOP 5.3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.9.: (U) Durchführung einer vergleichenden Haushaltsbefragung zum Mobilitätsverhalten in den Modellquartieren City2Share, CIVITAS ECCENTRIC und Smarter Together – Verlängerung und Erweiterung der Satzung Erlass einer Haushaltsbefragungssatzung
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Umgestaltung der Leipartstraße - Zwischennachricht -
+- TOP 5.5.2.: Tempo 30 in Sendling - Zwischennachricht -
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget FFC Wacker München 99 e.V. Renovierung vom Kabinentrakt und Malerarbeiten in den Duschen vom 20.06.-18.07.2021 2.773,33€; Az. 0262.0-6-0329
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Move & Relax" Move & Relax am 17.07.2021 822,00 € / Az. 0262.0-6-0334
+- TOP 6.1.3.: (E) Bestellung städtischer Leistung Bürger*innenvorschlag Errichtung von Tischtennisplatten außerhalb der Stemmerwiese/ Jägerwirtstraße
+- TOP 6.1.4.: (E) Stadtbezirksbudget Elterninitiative Igelchen e.V. Einrichtung eines Parklets an der Schöttlstraße vom 01.07.-17.10.2021 1.155,00€; Az. 0262.0-6-0339
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiative „Vorhang auf“ Vorhang auf – Sommer in Sendling vom 24.07.-30.09.2021 5.650,00€; Az. 0262.0-6-0338
+- TOP 6.1.6.: (E) Stadtbezirksbudget Initiative "Kunst in Sendling" Kunst in Sendling im Oktober 2021 750€; Az. 0262.0-6-0336
+- TOP 6.1.7.: (E) Stadtbezirksbudget Erfindergarden 3D-Druck Aktionstag im Rahmer den Jubiläumswoche „40 Jahre Stadtbibliothek Sendling“ am 15.09.2021 300,00 € / Az. 0262.0-6-0337
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: München Zeitreisen Eine kleine Zwischenbilanz der 50 Anträge an die 25 Bezirksausschüsse unserer Stadt
+- TOP 6.3.2.: Budget-Bescheide
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Behindertenbeirat der Landeshauptstadt München Protokoll der Videokonferenz Facharbeitskreises Mobilität (FAK) – Behindertenbeauftragte der Bezirksausschüsse (BA)
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Freischankfläche Brudermühlstraße 19
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Shagun Restaurant
+- TOP 8.3.2.: Unveränderte Fortführung SuperBowl
+- TOP 8.3.3.: Stadtterrassen Antragsformulare an die Bezirksinspektionen
+- TOP 8.3.4.: Sommer in der Stadt Eilige Stellungnahme des BA-Vorsitzenden
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Protokoll zum Treffen der BA-Vorsitzenden vom 15.04.2021
+- TOP 9.3.2.: Hinweise zum Umgang mit demokratiefeindlichen Aktivitäten von Besucher*innen in den Bezirksausschüssen
+- TOP 9.3.3.: Girokonten der Bezirksausschüsse und Online-Banking
+- TOP 9.3.4.: Veröffentlichung von BA-Anträgen im RIS
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
