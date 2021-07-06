@@ -297,5 +297,5 @@
 - [§ 64w (weggefallen)](0064w.md)
 - [§ 64x Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz](0064x.md)
 - [§ 64y Übergangsvorschriften zum Gesetz zur Umsetzung der Änderungsrichtlinie zur Vierten EU-Geldwäscherichtlinie](0064y.md)
-- [§ 65](0065.md)
+- [§ 65 Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren](0065.md)
 - [Anhang I Informationsbogen für den Einleger](anhang-i.md)

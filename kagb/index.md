@@ -143,7 +143,7 @@
 - [§ 92 Sondervermögen](0092.md)
 - [§ 93 Verfügungsbefugnis, Treuhänderschaft, Sicherheitsvorschriften](0093.md)
 - [§ 94 Stimmrechtsausübung](0094.md)
-- [§ 95 Anteilscheine](0095.md)
+- [§ 95 Anteilscheine; Verordnungsermächtigung](0095.md)
 - [§ 96 Anteilklassen und Teilsondervermögen; Verordnungsermächtigung](0096.md)
 - [§ 97 Sammelverwahrung, Verlust von Anteilscheinen](0097.md)
 - [§ 98 Rücknahme von Anteilen, Aussetzung](0098.md)
@@ -575,7 +575,7 @@
 
 - [§ 356 Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz](0356.md)
 - [§ 357 Übergangsvorschrift zu § 100a](0357.md)
-- [§ 358 Übergangsvorschriften zu § 95 Absatz 1 und § 97 Absatz 1](0358.md)
+- [§ 358 Übergangsvorschriften zu § 95 Absatz 2 und § 97 Absatz 1](0358.md)
 - [§ 359 Übergangsvorschrift zu § 26 Absatz 7 Satz 3, § 82 Absatz 6 Satz 2 und § 85 Absatz 5 Satz 4](0359.md)
 - [§ 360 Übergangsvorschrift zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen](0360.md)
 - [§ 361 Übergangsvorschriften zu § 5 Absatz 2 Satz 2 und 3](0361.md)

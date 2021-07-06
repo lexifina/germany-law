@@ -141,6 +141,11 @@
 - [§ 68 Besondere Anforderungen an den Depotprüfungsbericht](0068.md)
 - [§ 69 Prüfung von Verwahrstellen im Sinne des Kapitalanlagegesetzbuchs](0069.md)
 
+### Unterabschnitt 7 Führung eines zentralen Registers oder eines Kryptowertpapierregisters gemäß den §§ 12 und 16 des Gesetzes über elektronische Wertpapiere
+
+- [§ 69a Prüfung der registerführenden Stelle gemäß § 12 Absatz 2 des Gesetzes über elektronische Wertpapiere](0069a.md)
+- [§ 69b Prüfung der registerführenden Stelle gemäß § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere](0069b.md)
+
 ## Abschnitt 8 Datenübersicht
 
 - [§ 70 Datenübersicht](0070.md)

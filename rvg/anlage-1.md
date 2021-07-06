@@ -282,7 +282,7 @@ Zivilsachen, Verfahren der öffentlich-rechtlichen Gerichtsbarkeiten, Verfahren 
 |  | Die Anmerkung zu Nummer 3403 gilt entsprechend. |  |
 |  |
 | Abschnitt 5Beschwerde, Nichtzulassungsbeschwerde und Erinnerung |
-| Vorbemerkung 3.5:Die Gebühren nach diesem Abschnitt entstehen nicht in den in Vorbemerkung 3.1 Abs. 2 und in den Vorbemerkungen 3.2.1 und 3.2.2 genannten Beschwerdeverfahren. |
+| Vorbemerkung 3.5:Die Gebühren nach diesem Abschnitt entstehen nicht in den in den Vorbemerkungen 3.2.1 und 3.2.2 genannten Beschwerdeverfahren. |
 |  |
 | 3500 | Verfahrensgebühr für Verfahren über die Beschwerde und die Erinnerung, soweit in diesem Abschnitt keine besonderen Gebühren bestimmt sind .................. | 0,5 |
 | 3501 | Verfahrensgebühr für Verfahren vor den Gerichten der Sozialgerichtsbarkeit über die Beschwerde und die Erinnerung, wenn in den Verfahren Betragsrahmengebühren entstehen (§ 3 RVG), soweit in diesem Abschnitt keine besonderen Gebühren bestimmt sind .................. | 24,00 bis 250,00 € |
