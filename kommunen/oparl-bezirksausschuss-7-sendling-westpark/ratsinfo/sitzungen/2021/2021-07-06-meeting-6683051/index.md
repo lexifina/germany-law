@@ -1,0 +1,169 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2021-07-06T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6683051
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6683051
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 32.: Weitere Anhörungen
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 63.: Weitere Unterrichtungen
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.1.: Fahrradständer Partnachplatz
+- TOP 6.2.: Wertstoffcontainer Mittersending
+- TOP 6.3.: Pfrontener Platz Verkehrsberuhigung
+- TOP 6.4.: Gottfried-Böhm-Ring - Parken in 2. Reihe
+- TOP 6.5.: Spielplatz Pfrontener Platz
+- TOP 6.6.: Änderungen beim Umbau der nördlichen Kreuzung am Luise-Kiesselbach-Platz
+- TOP 6.7.: Öffnung Pavillons für Jugendliche im Westpark
+- TOP 6.8.: Krähen im Westpark - Hansastraße
+- TOP 6.9.: Halteverbot im Hasenthalweg
+- TOP 6.10.: Halteverbot im Hasenthalweg
+- TOP 6.11.: Abschleppabzocke Eichstätterstraße
+- TOP 6.12.: Parksituation Juifenstraße
+- TOP 6.13.: Teerung Adi Maislingerstr.
+- TOP 6.14.: Verletzungsgefahr Fuß- und Radweg in der Garmischer Str.
+- TOP 6.15.: Rodung einer Hecke
+- TOP 10.1.: (E) Stadtbezirksbudget Die Pfrontis – Bürgerinitiative Pfrontener Platz Nachbarschaftsfest am Pfrontener Platz / Feier der Spielplatz-Fertigstellung am 24./31.07.2021 1.000,00€; Az. 0262.0-7-0337
+- TOP 18.: Baureferat
+- TOP 18.1.: Sanierung Gehbahn Inninger Str.
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: BA-Satzung - Beauftragter gegen Extremismus
+- TOP 20.2.: BA-Satzung - Sommerstraßen
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 24.1.: Denkmalschutz Kuhfluchtstr
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Fürstenrieder Straße: verkehrsrechtlichen Anordnung
+- TOP 25.2.: Aufhebung der Radwegbenutzungspflicht in der Nestroystraße
+- TOP 25.3.: Vorfahrtregelung am Knotenpunkt ZillertalstraßeOrtlerstraße
+- TOP 25.4.: Radwegrückbau
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.1.: Eine neue Christbaumsammelstelle für kommenden Winter
+- TOP 33.: Baureferat
+- TOP 33.1.: Biotop - Froschteich
+- TOP 33.2.: Antwort Abfalleimer Preßburger Str
+- TOP 33.3.: Antwortschreiben Krokushang Westpark
+- TOP 33.4.: Meldung von Baumstandorten
+- TOP 33.5.: Antwortschreiben Krähensichere Mülleimer
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 35.1.: Bürgerbeteiligung - BA-Gespräch zum Gesamtkonzept
+- TOP 35.2.: Hybridsitzung Schreiben Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Fristverlängerung Interim Kulturbürgerhaus
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Stadtterrassen
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Antwortschreiben Tübinger Str.
+- TOP 40.2.: Parkraum-Management Sendling-Westpark
+- TOP 40.3.: Fristverlängerung Kombi-Abfalleimer
+- TOP 40.4.: Lärmschutz durch Radarmessungen an der A95 stadtauswärts
+- TOP 40.5.: Gehweg entlang der Bahngleise von Garmischer Str bis Busparkplatz
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Litfaßsäule Heckenstallerpark
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Jährliches Übersichtsblatt der Einrichtungen für Kinder im Stadtbezirk
+- TOP 42.2.: Passauerstr Grundschule_Präsentation zur BA-Vorstellung
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Antwortschreiben Wohnungen Pfleger St.Joseph
+- TOP 46.2.: Fristverlängerung Schulsozialarbeit an bayerischen Gymnasien
+- TOP 46.3.: Fristverlängerung Interim-Jugendtreff
+- TOP 46.4.: Antwortschreiben Interim-Jugendtreff
+- TOP 47.1.: Bußgeldkatalog Umweltschutz
+- TOP 49.: Baureferat
+- TOP 49.1.: Umgestaltung Luise-Kieselbach-Platz
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Änderungsbesch Initiativ Gruppe Sojus
+- TOP 51.2.: Umgang mit demokratiefeindlichen Besucherinnen
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Vorkaufsrecht Garmischer Str.
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Nepalpagode, Meditationen und Gebete
+- TOP 53.2.: Westpark,Ramadan
+- TOP 53.3.: Öffentlicher Raum für alle_Einrichtung von Stadtterrassen ermöglichen
+- TOP 53.4.: Bescheid Westpark, Theatron, Theateraufführungen
+- TOP 53.5.: Westpark, Bescheid, Zirkuslust
+- TOP 53.6.: Bescheid, Westpark, Seebühne, Kino, Mond und Sterne
+- TOP 53.7.: Versammlungsanzeige Kulturlieferdienst
+- TOP 53.8.: Bescheid, Westpark, Theatron, Konzertreihe MonaCorona
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 55.1.: Regionalgespräche Präsentation
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Drehgenehmigung im Westpark Paulaner
+- TOP 56.2.: Änderung der Kurzparkzeiten Höhe Werdenfelsstraße.
+- TOP 56.3.: Drehgenehmigung Westpark - HAMA coocazoo
+- TOP 56.4.: Drehgenehmigung Westpark-Homestory Sendling
+- TOP 56.5.: Vollsperre Schochenbergstr.
+- TOP 56.6.: Drehgenehmigung Westpark - Snapchatserie iam justmyself
+- TOP 56.7.: Drehgenemigung Rosengarten - Gartenparzelle Essbare Stadt
+- TOP 56.8.: Drehgehnemigung Westpark - ECT TEstimonials
+- TOP 56.9.: Drachenseestraße Ausweich Haltverbot
+- TOP 56.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 56.11.: Ausbau Fußgängerunterquerung Mittersendling
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Bescheid Garmischer Str
+- TOP 61.2.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 61.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.4.: (U) Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Verordnung zur Änderung der Verordnung der Landeshauptstadt München zum Schutz der Naturdenkmäler (Naturdenkmalverordnung) vom 08.09.2011
+- TOP 61.5.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2019 bis 2040 für die Landeshauptstadt
+- TOP 61.6.: (U) Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2019 bis 2040 für die Stadtbezirke
+- TOP 62.: Sozialreferat
+- TOP 62.1.: AKIM-Bericht -erstes Halbjahr 2021
+- TOP 62.2.: Erhaltungssatzung Euckenstr.
+- TOP 62.3.: Zweckentfremdung Trautweinstr.
+- TOP 62.4.: Zweckentfremdung Markomannenstr.
+- TOP 62.5.: Erhaltungssatzung Hansastr.
+- TOP 62.6.: Runder Tisch Migrationsbeauftragter
+- TOP 62.7.: Zweckentfremdung Halmstraße
+- TOP 63.1.: SüdpART Prospekt
+- TOP 63.2.: Spielen in der Stadt
+- TOP 65.1.: Mobilfunk, Heiterwanger Str.
+- TOP 65.2.: Abgeschlossenheitsbescheinigungen
+- TOP 65.3.: Baubeginn Empfangsanlage Edelsbergstraße
