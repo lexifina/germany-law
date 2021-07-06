@@ -1,0 +1,380 @@
+---
+ecli: "ECLI:DE:BGH:2021:060721ENVR45.20.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Kartellsenat"
+aktenzeichen: "EnVR 45/20"
+decided: "2021-07-06"
+typ: "B"
+bemerkung: "EEG-Ausgleichsmechanismus\r\nLeitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2021&Sort=1&Seite=66&nr=122536&anz=3571&pos=1995&Blank=1.pdf"
+corpus_doc_id: "BGH_Kartellsenat_LE_2021-07-06_NA_EnVR_45_20_NA_EEG-Ausgleichsmechanismus_0.txt"
+cites_law: ["germany/bund/acts/ausglmechv_2015/0003.md", "germany/bund/acts/enwg_2005/0021.md", "germany/bund/acts/enwg_2005/0021a.md", "germany/bund/acts/enwg_2005/0090.md", "germany/bund/acts/gasnev/0007.md", "germany/bund/acts/gkg_2004/0050.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/stromnev/0004.md", "germany/bund/acts/stromnev/0006.md", "germany/bund/acts/stromnev/0007.md", "germany/bund/acts/zpo/0003.md"]
+---
+
+# Bundesgerichtshof, EnVR 45/20 vom 2021-07-06: EEG-Ausgleichsmechanismus
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                               BESCHLUSS
+EnVR 45/20
+
+                                                              Verkündet am:
+                                                              6. Juli 2021
+                                                              Barth
+                                                              Justizangestellte
+                                                              als Urkundsbeamtin
+                                                              der Geschäftsstelle
+
+              in der energiewirtschaftsrechtlichen Verwaltungssache
+
+Nachschlagewerk:      ja
+BGHZ:               nein
+BGHR:                 ja
+
+
+                                               EEG-Ausgleichsmechanismus
+
+
+StromNEV § 7 Abs. 1 Satz 2 Nr. 4; EEG 2017 §§ 56 ff.; KWKG §§ 26 ff.
+
+
+Forderungen und Verbindlichkeiten des Übertragungsnetzbetreibers aus der Umsetzung des der Förderung von Strom aus erneuerbaren Energien und aus Kraft-Wärme-Kopplung dienenden Ausgleichsmechanismus nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz stellen kein für den
+Betrieb des Übertragungsnetzes notwendiges Umlaufvermögen dar, welches im
+Rahmen der kalkulatorischen Eigenkapitalverzinsung bei der Festlegung der Erlösobergrenze nach § 7 StromNEV zu berücksichtigen ist.
+
+BGH, Beschluss vom 6. Juli 2021 - EnVR 45/20 - OLG Düsseldorf
+
+
+ECLI:DE:BGH:2021:060721BENVR45.20.0
+
+                                            -2-
+
+
+
+    Der Kartellsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung vom
+    6. Juli 2021 durch den Vorsitzenden Richter Prof. Dr. Meier-Beck, den Richter
+    Prof. Dr. Kirchhoff, die Richterin Dr. Roloff, den Richter Dr. Tolkmitt und die Richterin Dr. Picker
+
+    beschlossen:
+
+
+           Die Rechtsbeschwerde gegen den Beschluss des 3. Kartellsenats
+           des Oberlandesgerichts Düsseldorf vom 13. Mai 2020 wird auf Kosten der Betroffenen zurückgewiesen, die auch die notwendigen
+           Auslagen der Bundesnetzagentur zu tragen hat.
+
+           Der Gegenstandswert für das Rechtsbeschwerdeverfahren wird auf
+           30.000.000 € festgesetzt.
+
+
+
+
+                                          Gründe:
+
+1          A.      Die Betroffene ist einer der vier im Bundesgebiet tätigen Übertragungsnetzbetreiber und in ihrem Netzbereich für die Übertragung von Elektrizität
+    über ein Höchst- und Hochspannungsverbundnetz zuständig. Zudem obliegt ihr
+    die Umsetzung des der Förderung von Strom aus erneuerbaren Energien und
+    aus Kraft-Wärme-Kopplung dienenden Ausgleichsmechanismus nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz (fortan gemeinsam: EEG-Ausgleichsmechanismus). Mit Beschluss vom 20. Dezember
+    2018 hat die Bundesnetzagentur die kalenderjährlichen Erlösobergrenzen für die
+    dritte Regulierungsperiode Strom (2019 bis 2023) niedriger als von der Betroffenen beantragt festgesetzt. Abweichend von den Festlegungen für die erste und
+    zweite Regulierungsperiode hat sie bei der Berechnung der kalkulatorischen
+
+                                          -3-
+
+
+
+    Eigenkapitalverzinsung die in der Bilanz der Betroffenen für das Basisjahr aufgeführten Vermögenspositionen aus dem EEG-Ausgleichsmechanismus nicht vollständig, sondern nur zur Hälfte anerkannt. Daraus resultiert eine Reduzierung
+    der von der Betroffenen angegebenen kalkulatorischen Kapitalkosten um jährlich
+    etwa 15,8 Mio. €. Die gegen diese Kürzung gerichtete Beschwerde der Betroffenen hat das Beschwerdegericht zurückgewiesen. Mit der vom Beschwerdegericht zugelassenen Rechtsbeschwerde, der die Bundesnetzagentur entgegentritt,
+    verfolgt die Betroffene ihr Begehren weiter.
+
+2         B.     Die zulässige Rechtsbeschwerde hat keinen Erfolg.
+
+3         I.     Das Beschwerdegericht hat angenommen, die Betroffene habe keinen Anspruch auf Anerkennung eines um jährlich 15,8 Mio. € höheren Betrags
+    im Rahmen der kalkulatorischen Eigenkapitalverzinsung. Die Bilanzwerte aus
+    dem EEG-Ausgleichsmechanismus seien in diesem Zusammenhang nicht zu berücksichtigen, da sie nicht zum betriebsnotwendigen Eigenkapital der Betroffenen zählten, insbesondere nicht als betriebsnotwendiges Umlaufvermögen im
+    Sinne des § 7 Abs. 1 Satz 2 Nr. 4 StromNEV einzuordnen seien. Unter Berücksichtigung des energiewirtschaftsrechtlichen Effizienzgebots und allgemeiner betriebswirtschaftlicher Definitionen sei nur dasjenige Kapital betriebsnotwendig,
+    welches zur Leistungserstellung benötigt werde und somit betrieblichen Zwecken
+    diene. Betriebszweck der Übertragungsnetzbetreiber sei aber im Kern der Betrieb eines Übertragungsnetzes, wozu alle für die Wartung, Erhaltung und den
+    Ausbau des Netzes technisch und rechtlich erforderlichen Maßnahmen zählten.
+    Hiervon zu unterscheiden sei die Aufgabe der Durchführung des EEG-Ausgleichsmechanismus, die für das Funktionieren des Netzbetriebs nicht erforderlich und diesem daher nicht zuzurechnen sei, sondern eine rechtlich wie technisch losgelöste Aufgabe der Übertragungsnetzbetreiber darstelle. Daran ändere
+    auch der Umstand nichts, dass diese Aufgabe den vier Übertragungsnetzbetrei-
+
+                                         -4-
+
+
+
+    bern gesetzlich übertragen worden sei und die Einspeisung von Strom aus Erneuerbare-Energien-Anlagen Einfluss auf die von den Netzbetreibern durchzuführenden Netzmanagementmaßnahmen habe.
+
+4          Eine Berücksichtigung der aus dem EEG-Ausgleichsmechanismus resultierenden Bilanzwerte im Rahmen der kalkulatorischen Eigenkapitalverzinsung
+    widerspreche der in § 3 Abs. 6 EEV, § 5 Abs. 2 EEAV geregelten buchhalterischen Trennung wie auch der vom Energiewirtschaftsgesetz vorgeschriebenen
+    Entflechtung und hätte eine Vermischung der Forderungen und Verbindlichkeiten
+    des Netzbetriebs mit den finanziellen Mitteln aus dem EEG-Ausgleichsmechanismus zur Folge, obwohl die Aktiv- und Passivpositionen des EEG-Ausgleichsmechanismus dem Netzbetrieb der Betroffenen nicht zur Verfügung stünden. Da die
+    Durchführung des EEG-Ausgleichsmechanismus für die Betroffene insgesamt
+    kostenneutral sei, könne eine Anerkennung der betreffenden Positionen als betriebsnotwendiges Umlaufvermögen auch nicht mit der Begründung gerechtfertigt werden, die Betroffene habe für diese Aufgabe Kreditlinien sowie eine IT-Ausstattung und Personal vorzuhalten. Die ihr im Rahmen des EEG-Ausgleichsmechanismus obliegende Vergütungspflicht und die ihr dadurch entstehenden
+    Kosten sowie der aus dem Mechanismus resultierende Ausgleichsanspruch entsprächen sich, wenn auch gegebenenfalls mit einer gewissen zeitlichen Verschiebung. Die wirtschaftlichen Risiken durch die Inanspruchnahme von Krediten
+    zur Zwischenfinanzierung, durch Insolvenzen von Schuldnern der EEG-Umlage
+    oder durch Rechtsstreitigkeiten in Zusammenhang mit Forderungen und Verbindlichkeiten aus dem EEG-Ausgleichsmechanismus seien ebenfalls grundsätzlich
+    im Rahmen des EEG-Ausgleichsmechanismus zu berücksichtigen und zu erstatten. Eine Kompensation solcher Risiken über eine Erhöhung des zu verzinsenden betriebsnotwendigen Umlaufvermögens sei systematisch wie rechnerisch
+    verfehlt.
+
+                                              -5-
+
+
+
+    5            Die von der Bundesnetzagentur vorgenommenen Kürzungen des Umlaufvermögens stellten auch keinen Verstoß gegen den Grundsatz der Selbstbindung der Verwaltung dar. Der bisherigen Verwaltungspraxis könne keine Bindungswirkung zukommen, da sie den Anforderungen des § 7 Abs. 1 Satz 2 Nr. 4
+        StromNEV widersprochen habe. Gleichwohl habe die Bundesnetzagentur die Änderung ihrer Verwaltungspraxis auf sachgerechte und willkürfreie Erwägungen
+        gestützt. Zudem habe sie die Grundsätze der Verhältnismäßigkeit und des Vertrauensschutzes hinreichend beachtet, indem sie für die dritte Regulierungsperiode die mit dem Ausgleichsmechanismus zusammenhängenden Bilanzwerte zunächst nur um 50 % gekürzt habe.
+
+6                Es sei auch verfassungsrechtlich nicht zu beanstanden, dass die in der
+        Übertragung des EEG-Ausgleichsmechanismus auf die Übertragungsnetzbetreiber liegende Indienstnahme Privater jenseits der vollständigen Kostenerstattung
+        nicht zusätzlich vergütet werde. Der damit verbundene Eingriff in die Berufsausübungsfreiheit der Betroffenen erfolge zur Förderung der Stromerzeugung aus
+        Erneuerbare-Energien-Anlagen und stütze sich damit auf hinreichende Gründe
+        des Allgemeinwohls. Da alle vier Übertragungsnetzbetreiber in die Pflicht genommen würden und über den horizontalen Belastungsausgleich sichergestellt
+        werde, dass diese gleich belastet seien, sei die Aufgabenübertragung auch mit
+        den Anforderungen des Art. 3 Abs. 1 GG vereinbar. Eine fehlerhafte Ermessensausübung der Bundesnetzagentur sei nicht festzustellen.
+
+7                II.   Diese Ausführungen halten den Angriffen der Rechtsbeschwerde
+        stand.
+
+8                1.    Das Beschwerdegericht hat zu Recht angenommen, dass bei der
+        Festlegung des Ausgangsniveaus für die Bestimmung der Erlösobergrenzen der
+        Betroffenen für die dritte Regulierungsperiode die aus der Durchführung des
+
+                                           -6-
+
+
+
+     EEG-Ausgleichsmechanismus resultierenden Bilanzwerte des Umlaufvermögens nicht im Rahmen der kalkulatorischen Eigenkapitalverzinsung nach § 7
+     Abs. 1 Satz 2 Nr. 4 StromNEV zu berücksichtigen sind.
+
+9          a)     In Einklang mit der Rechtsprechung des Bundesgerichtshofs ist das
+     Beschwerdegericht davon ausgegangen, dass die Entscheidung, welche Bilanzwerte der kalkulatorischen Eigenkapitalverzinsung nach § 7 StromNEV zugrunde
+     zu legen sind, sich nicht nach handels- oder steuerrechtlichen Vorschriften richtet, sondern einem eigenständigen System folgt, das in seinen Grundsätzen
+     durch § 21 EnWG vorgegeben und in der Stromnetzentgeltverordnung, insbesondere den §§ 6 und 7 StromNEV eigenständig näher bestimmt wird. Danach
+     ist die Grundlage für eine Verzinsung das betriebsnotwendige Eigenkapital,
+     welches durch § 7 Abs. 1 Satz 2 StromNEV definiert wird (vgl. nur BGH, Beschluss vom 10. November 2015 - EnVR 26/14, RdE 2016, 70 Rn. 26 - Stadtwerke Freudenstadt II [zu § 7 GasNEV]). Zum betriebsnotwendigen Eigenkapital
+     gehört, wie das Beschwerdegericht ebenfalls richtig ausgeführt hat, gemäß § 7
+     Abs. 1 Satz 2 Nr. 4 StromNEV unter anderem die Summe des betriebsnotwendigen, also für die Leistungserstellung benötigten Umlaufvermögens (vgl. BGH,
+     Beschluss vom 21. Juli 2009 - EnVR 33/08, RdE 2010, 30 Rn. 14).
+
+10         b)     Die aus dem EEG-Ausgleichsmechanismus resultierenden Forderungen und Verbindlichkeiten der Betroffenen stellen kein betriebsnotwendiges
+     Umlaufvermögen im Sinne des § 7 Abs. 1 Satz 2 Nr. 4 StromNEV dar.
+
+11         aa)    Die Festlegung der Netzentgelte durch Bestimmung der kalenderjährlichen Erlösobergrenze für Strom- und Gasnetzbetreiber erfolgt in einem System der Ex-ante-Regulierung in Verbindung mit einer Anreizregulierung (§ 21
+     Abs. 2 EnWG, § 21a EnWG). Bei der Bestimmung der Erlöse bilden die tatsächlichen aufwandsgleichen Kosten des Unternehmens einschließlich des darin gebundenen Eigenkapitals zwar den Ausgangspunkt. Um sicherzustellen, dass die
+
+                                            -7-
+
+
+
+     Netzbetreiber als natürliche Monopolisten für ihre Leistungen nur die unter hypothetischen Wettbewerbsbedingungen zu erzielenden Preise erhalten, werden
+     diese Kosten im Rahmen der Entgeltfestlegung jedoch einer strikten Wirtschaftlichkeitsprüfung durch die Regulierungsbehörde unterzogen und bei der Entgeltfestlegung lediglich in der Höhe berücksichtigt, wie sie auch bei einem effizienten
+     und strukturell vergleichbaren Netzbetreiber anfielen (§ 21 Abs. 2 EnWG, § 4
+     Abs. 1 StromNEV); ein Vollkostenansatz ist damit ausgeschlossen (vgl. Mohr in
+     Säcker, Berliner Kommentar zum Energierecht, 4. Aufl., § 4 StromNEV Rn. 1 f;
+     Schumacher in Holznagel/Schütz, Anreizregulierungsrecht, 2. Aufl., Einführung
+     Rn. 2). Auch die kalkulatorischen Kosten, insbesondere die kalkulatorische Verzinsung des eingesetzten Eigenkapitals, werden im Rahmen der Regulierung
+     normativ begrenzt. So wird nur das betriebsnotwendige Eigenkapital berücksichtigt und zudem nur bis zu einer bestimmten Grenze (40 %, vgl. § 7 Abs. 1 Satz 5
+     StromNEV) mit dem den Unternehmergewinn simulierenden hohen Zinssatz verzinst (vgl. Mohr, aaO Rn. 2).
+
+12         Der EEG-Ausgleichsmechanismus, der die Abwicklung der staatlichen
+     Förderung der Stromerzeugung aus erneuerbaren Energien zum Gegenstand
+     hat, folgt demgegenüber einem System der Vollkostenerstattung. Hier sieht das
+     Gesetz in §§ 56 ff. EEG ein komplexes mehrstufiges Verfahren unter Einbindung
+     der Netzbetreiber auf allen Ebenen wie auch der Elektrizitätsversorgungsunternehmen vor, durch welches die Preisdifferenz zwischen den gesetzlich für Strom
+     aus erneuerbaren Energien festgelegten Preisen und den auf dem Strommarkt
+     durch den Verkauf dieses Stroms erzielten (niedrigeren) Preisen im Ergebnis
+     gleichmäßig auf die von den Stromkunden zu zahlenden Endpreise aufgeschlagen wird. Für die Übertragungsnetzbetreiber, denen bei dieser Umverteilungsaufgabe eine zentrale organisatorische Rolle zukommt, in der sie sich jedoch
+     - anders als beim Netzbetrieb - nicht in einer (zu simulierenden) Wettbewerbs-
+
+                                          -8-
+
+
+
+     situation befinden, ist in den die Details des EEG-Ausgleichsmechanismus regelnden Rechtsverordnungen eine vollständige Kostenerstattung unter Einschluss von Personal- und Materialaufwand sowie Finanzierungskosten festgelegt (vgl. § 6 EEAV). Diese Kosten werden - neben den vorgenannten, im Konzept des EEG-Ausgleichsmechanismus zunächst von den Übertragungsnetzbetreibern zu tragenden Strompreisdifferenzen - in die an die Übertragungsnetzbetreiber fließende EEG-Umlage eingerechnet.
+
+13         Beide Entgeltsysteme stehen unabhängig nebeneinander. So sind die im
+     Rahmen des EEG-Ausgleichsmechanismus angesetzten Kosten der Übertragungsnetzbetreiber nicht (auch) als aufwandsgleiche Netzkosten bei der Festlegung der Netzentgelte nach der Anreizregulierungsverordnung und der Stromnetzentgeltverordnung anzusetzen; umgekehrt können Einnahmen und Ausgaben, die bereits im Rahmen der Bestimmung oder einer späteren Änderung der
+     Erlösobergrenzen für die Netzentgelte Berücksichtigung gefunden haben, bei der
+     Ermittlung der erstattungsfähigen Kosten des EEG-Ausgleichsmechanismus
+     nicht mehr angesetzt werden und fließen daher nicht in die EEG-Umlage ein (§ 3
+     Abs. 6 EEV). Zudem schreibt § 5 EEAV für die von den Übertragungsnetzbetreibern im Rahmen des EEG-Ausgleichsmechanismus zu erfüllenden Aufgaben
+     eine gegenüber ihrem sonstigen Geschäftsbetrieb getrennte Kontenführung sowie Buchführung und Rechnungslegung vor. Dadurch ist zugleich ausgeschlossen, dass die aus dem EEG-Ausgleichsmechanismus resultierenden Forderungen und sonstigen Vermögenswerte der Übertragungsnetzbetreiber auch nur
+     kurzfristig für den Netzbetrieb eingesetzt werden. Die beiden von den Übertragungsnetzbetreibern zu erfüllenden Aufgabenbereiche - Betrieb des Übertragungsnetzes einerseits, Durchführung des EEG-Ausgleichsmechanismus andererseits - folgen somit unterschiedlichen Finanzierungsregeln und werden organisatorisch und buchhalterisch gesondert abgewickelt.
+
+                                          -9-
+
+
+
+14
+           bb)    Die Eigenständigkeit der Durchführung des EEG-Ausgleichsmechanismus neben dem Betrieb des Übertragungsnetzes hat zur Folge, dass die
+     Bilanzpositionen der Übertragungsnetzbetreiber aus dem Ausgleichsmechanismus bei der Festlegung der Netzentgelte keine Berücksichtigung finden können.
+     Bundesnetzagentur und Beschwerdegericht haben zutreffend erkannt, dass die
+     Forderungen und Verbindlichkeiten aus dem EEG-Ausgleichsmechanismus nicht
+     zu dem für den Betrieb des Übertragungsnetzes betriebsnotwendigen Eigenkapital gehören und daher nicht als Umlaufvermögen nach § 7 Abs. 1 Satz 2 Nr. 4
+     StromNEV einzuordnen sind.
+
+15         Diese Wertung beruht entgegen der Auffassung der Rechtsbeschwerde
+     nicht auf einer Verkennung der den Übertragungsnetzbetreibern gesetzlich übertragenen Aufgaben oder eines zwischen dem Netzbetrieb und der Abwicklung
+     des EEG-Ausgleichsmechanismus bestehenden sachlichen Zusammenhangs.
+     Sie ist vielmehr Folge des Umstands, dass die Übertragungsnetzbetreiber gewissermaßen zwei Betriebszwecke haben, nämlich zum einen und in erster Linie
+     den - technischen wie organisatorischen - Betrieb des Übertragungsnetzes, zum
+     anderen aufgrund der entsprechenden Regelungen im Erneuerbare-Energien-Gesetz die Abwicklung des EEG-Ausgleichsmechanismus, und dass die Netzentgelte ausschließlich der Finanzierung jenes Hauptbetriebszwecks dienen. Daher sind bei den Netzentgelten auch nicht nur die Kosten für die technisch notwendigen Leistungen wie Wartung, Erhaltung und Ausbau des Netzes zu berücksichtigen, sondern - im Rahmen der Wirtschaftlichkeit - darüber hinaus alle mit
+     dem Netzbetrieb zusammenhängenden organisatorischen Maßnahmen einschließlich etwa der Abführung von Versicherungs- und Sozialbeiträgen.
+
+16         cc)    Dass bestimmte Vorschriften des Erneuerbare-Energien-Gesetzes,
+     insbesondere der Anschluss- und Einspeisevorrang für Erneuerbare-Energien-Anlagen, erhebliche Auswirkungen auf den operativen Netzbetrieb der Übertragungsnetzbetreiber haben, steht dem nicht entgegen. Diese Vorgaben definieren
+
+                                          - 10 -
+
+
+
+     die technischen Aufgaben der Netzbetreiber, und ein hierdurch bedingter Mehraufwand wird bei der Festlegung der Netzentgelte sowohl über die aufwandsgleichen als auch über die kalkulatorischen Kosten berücksichtigt. Die erhöhten technischen Anforderungen an die Netzausstattung und die Netzregulierung, die aus
+     der höheren Volatilität und der weitgehend dezentralen Einspeisung des Stroms
+     aus erneuerbaren Energien folgen, fließen in die Festlegung der Erlösobergrenze
+     sowohl über die aufwandsgleichen Kosten als auch über das - sich durch fortschreitenden Netzausbau und sonstige Erweiterungen des Geschäftsbetriebs erhöhende - kalkulatorisch zu verzinsende Sachanlagevermögen und Umlaufvermögen ein. Bei der Beurteilung der Erforderlichkeit der Kosten des Netzbetriebs
+     sind die aus dem Erneuerbare-Energien-Gesetz folgenden - technischen - Anforderungen an die Netzausstattung und den Netzbetrieb zu berücksichtigen. Dies
+     gilt gleichermaßen für den aus der Förderung der erneuerbaren Energien resultierenden verstärkten Netzausbau, der eine Erhöhung der Quantität wie der Qualität der Übertragungsnetze und aller dazugehörigen Betriebsmittel wie auch
+     einen organisatorischen Mehraufwand durch eine steigende Anzahl und Komplexität von Redispatch-Maßnahmen nach sich zieht. Die damit verbundenen Investitionen betreffen unmittelbar den Betrieb des Übertragungsnetzes und gehen
+     nicht nur über den Kostenansatz in die Netzentgelte ein, sondern beispielweise
+     auch über die Erweiterung insbesondere des - in der Zukunft kalkulatorisch zu
+     verzinsenden - Anlagevermögens.
+
+17         Die von der Bundesnetzagentur bei der in Streit stehenden Festlegung der
+     Erlösobergrenze für die Netzentgelte ausgenommenen Bilanzpositionen aus der
+     Durchführung des EEG-Ausgleichsmechanismus hängen mit diesem erhöhten
+     technischen und organisatorischen Aufwand im Rahmen des Netzbetriebs nicht
+     zusammen. Bei ihnen handelt es sich um die Verbindlichkeiten, die aus der Erstattungspflicht der Übertragungsnetzbetreiber gegenüber den Verteilernetzbe-
+
+                                           - 11 -
+
+
+
+     treibern nach § 57 EEG oder - bei unmittelbarer Einspeisung in das Übertragungsnetz - aus ihren Zahlungspflichten gegenüber den Erzeugern nach §§ 19,
+     36k und 50 EEG und ihrer untereinander bestehenden Ausgleichspflicht nach
+     § 58 EEG resultieren, sowie um die Forderungen, die durch die Vermarktung des
+     Stroms aus erneuerbaren Energien nach § 59 EEG, den Ausgleich nach § 58
+     EEG sowie insbesondere durch die EEG-Umlage nach § 60 EEG begründet werden. Ihr Entstehen in der Bilanz der Übertragungsnetzbetreiber beruht allein auf
+     der Entscheidung des Gesetzgebers, die organisatorische Umsetzung der Förderung des Stroms aus erneuerbaren Energien über eine verbrauchsabhängige
+     Umlage den Übertragungsnetzbetreibern zu übertragen, nicht aus den Anforderungen des technischen wie kaufmännischen Betriebs des Übertragungsnetzes.
+
+18         c)     Der Nichtberücksichtigung der Forderungen und Verbindlichkeiten
+     aus dem EEG-Ausgleichsmechanismus als Umlaufvermögen bei der kalkulatorischen Eigenkapitalverzinsung im Rahmen des § 7 Abs. 1 Satz 2 Nr. 4 StromNEV
+     steht nicht entgegen, dass die Übertragungsnetzbetreiber in dem ihnen übertragenen Geschäftsbereich der Durchführung des EEG-Ausgleichsmechanismus
+     weder Gewinn erzielen noch für die Übernahme - jedenfalls theoretisch - bestehender Haftungsrisiken eine Vergütung erhalten.
+
+19         aa)    Das System der Durchführung des EEG-Ausgleichsmechanismus
+     ist auf eine - allerdings vollständige - Kostenerstattung ausgelegt. Die den Übertragungsnetzbetreibern gemäß § 3 Abs. 4 EEV, § 6 Abs. 1 EEAV zu erstattenden
+     Kosten umfassen dabei insbesondere die notwendigen Kosten für die IT-Infrastruktur, das Personal und Dienstleistungen, Zinsen für Überbrückungskredite
+     und Kosten für die Bereitstellung von Kreditlinien zur Finanzierung von Differenzbeträgen. Diese Kosten werden durch ihre Berücksichtigung bei der Bemessung
+     der künftigen EEG-Umlage mit einer zeitlichen Verzögerung erstattet. Eine
+     darüberhinausgehende Vergütung oder Risikoprämie sehen das Erneuerbare-
+
+                                          - 12 -
+
+
+
+     Energien-Gesetz und die auf seiner Grundlage erlassenen Rechtsverordnungen
+     hingegen nicht vor.
+
+20         bb)    Die fehlende Gewinnerzielungsmöglichkeit der Übertragungsnetzbetreiber im Rahmen der Durchführung des EEG-Ausgleichsmechanismus kann
+     durch eine - der getrennten Abwicklung von Netzbetrieb und Organisation des
+     EEG-Ausgleichsmechanismus widersprechende - Berücksichtigung von Bilanzwerten aus diesem Bereich bei der Festlegung der Entgelte für den Betrieb des
+     Übertragungsnetzes nicht kompensiert werden. Zwischen der Anhebung der
+     Netzentgelte, die durch eine Erweiterung des Umlaufvermögens um die Forderungen und Verbindlichkeiten aus dem EEG-Ausgleichsmechanismus im Rahmen der kalkulatorischen Eigenkapitalverzinsung nach § 7 StromNEV einträte,
+     und dem mit dieser Tätigkeit verbundenen Aufwand und den daraus resultierenden wirtschaftlichen Risiken des Übertragungsnetzbetreibers besteht kein Zusammenhang. Die Entwicklung der Netzentgelte hinge in dieser Konstellation
+     vielmehr, worauf die Bundesnetzagentur zu Recht hingewiesen hat, maßgeblich
+     von der Kapitalstruktur des jeweiligen Unternehmens ab. Damit ist die Berücksichtigung der Bilanzwerte des EEG-Ausgleichsmechanismus bei der Bemessung der Netzentgelte aber schon strukturell als "Entgelt" für die von den Übertragungsnetzbetreibern bei der Durchführung des EEG-Ausgleichsmechanismus
+     zu erbringenden Leistungen nicht geeignet.
+
+21         cc)    Aus demselben Grund kann auch der Umstand, dass die Übertragungsnetzbetreiber für Kreditverbindlichkeiten, die sie gegebenenfalls überbrückungsweise für eine termingerechte Erfüllung ihrer Zahlungspflichten nach dem
+     EEG-Ausgleichsmechanismus eingehen müssen, formal mit ihrem - dem Netzbetrieb zuzurechnenden - Vermögen haften, nicht zu einer Berücksichtigung der
+     Bilanzbestände aus dem EEG-Ausgleichsmechanismus im Rahmen des § 7
+     Abs. 1 Satz 2 Nr. 4 StromNEV führen. Dass in den Vorschriften zur Durchführung
+     des EEG-Ausgleichsmechanismus für die faktische Zurverfügungstellung des
+
+                                          - 13 -
+
+
+
+     Eigenkapitals als Kreditsicherheit durch die Übertragungsnetzbetreiber keine
+     weitere Vergütung vorgesehen ist, kann ebenfalls nicht durch eine systemwidrige
+     potenzielle Erhöhung der Netzentgelte ausgeglichen werden.
+
+22          d)    Entsprechendes gilt für den ähnlich ausgestalteten Umlagemechanismus nach §§ 26 ff. KWKG.
+
+23          2.    Zu Recht hat das Beschwerdegericht auch angenommen, dass die
+     Bundesnetzagentur nicht nach dem Grundsatz der Selbstbindung der Verwaltung
+     gehalten war, die aus dem EEG-Ausgleichsmechanismus resultierenden Bilanzwerte im Rahmen der kalkulatorischen Eigenkapitalverzinsung zu berücksichtigen.
+
+24          a)    Der aus dem allgemeinen Gleichheitssatz des Art. 3 Abs. 1 GG abgeleitete Grundsatz der Selbstbindung der Verwaltung verpflichtet eine Behörde,
+     eine durch Verwaltungsvorschriften vorgegebene oder durch tatsächliche Übung
+     entstandene Verwaltungspraxis bei der Ausübung eines Ermessensspielraums
+     einzuhalten (vgl. BGH, Beschlüsse vom 23. Juni 2009 - EnVR 19/08, ZNER
+     2009, 261 Rn. 9; vom 17. Juli 2018 - EnVR 12/17, RdE 2018, 531 Rn. 26; vom
+     11. Dezember 2018 - EnVR 48/17, RdE 2019, 172 Rn. 21 - Eigenkapitalzinssatz I). Für die Beurteilung der Rechtmäßigkeit unter dem Blickwinkel des Gleichbehandlungsgebots ist die in ständiger Praxis geübte tatsächliche Handhabung
+     maßgeblich (BGH, RdE 2019, 172 Rn. 21 - Eigenkapitalzinssatz I; BVerwG, ZBR
+     1999, 308, juris Rn. 10; Beschluss vom 29. Juni 2017 - 1 WB 11/16, juris Rn. 40).
+     Eine Selbstbindung der Verwaltung im Sinne einer gleichförmigen Verwaltungspraxis kann danach zwar Auswirkungen auf das Verwaltungshandeln entfalten;
+     es wirkt jedoch nicht auf die diesem Handeln zugrundeliegenden Rechtsnormen
+     zurück (vgl. BGH, RdE 2018, 531 Rn. 26; BVerwG, NVwZ-RR 2017, 385 Rn. 25).
+
+                                          - 14 -
+
+
+
+25           b)   Nach diesen Maßstäben kommt der in der ersten und zweiten Regulierungsperiode erfolgten Anerkennung der aus dem EEG-Ausgleichsmechanismus resultierenden Bilanzwerte der Betroffenen im Rahmen der Eigenkapitalverzinsung durch die Bundesnetzagentur keine Bindungswirkung zu. Da die Abwicklung des EEG-Ausgleichsmechanismus durch die Übertragungsnetzbetreiber bereits in den vorangegangenen Regulierungsperioden über ein System der
+     Kostenerstattung erfolgte, das unabhängig neben der regulatorischen Festlegung der Netzentgelte bestand, hat diese Praxis von Beginn an den Vorgaben
+     des § 7 Abs. 1 StromNEV widersprochen. Ob und inwieweit die von der Bundesnetzagentur neben dem Verweis auf die Fehlerhaftigkeit ihrer bisherigen rechtlichen Beurteilung angeführten Gründe eine Änderung ihrer Verwaltungspraxis
+     rechtfertigten, bedarf daher ebenso wenig einer Entscheidung wie die Frage, ob
+     die von der Bundesnetzagentur für die dritte Regulierungsperiode teilweise noch
+     zugelassene Anerkennung der aus dem EEG-Ausgleichsmechanismus resultierenden Bilanzwerte ausreichend war. Da die Betroffene nach den unbeanstandeten Feststellungen des Beschwerdegerichts nicht dargelegt hat, aufgrund der
+     Neubewertung des kalkulatorisch zu verzinsenden Eigenkapitals nicht mehr in
+     der Lage zu sein, ihren Netzbetrieb wirtschaftlich ausüben zu können, ist auch
+     ein schutzwürdiges Vertrauen ihrerseits auf einen unveränderten Fortbestand
+     dieser Praxis nicht erkennbar. Auch zeigt die Rechtsbeschwerde keine Umstände dafür auf, dass die Betroffene im Vertrauen auf den unveränderten Fortbestand der Verwaltungspraxis bereits Vermögensdispositionen getroffen hat,
+     die sie nicht mehr oder nur unter unzumutbaren Nachteilen rückgängig machen
+     kann.
+
+26           3.   Frei von Rechtsfehlern hat das Beschwerdegericht schließlich erkannt, dass eine Berücksichtigung der aus dem EEG-Ausgleichsmechanismus
+     resultierenden Forderungen und Verbindlichkeiten der Betroffenen im Rahmen
+     der kalkulatorischen Eigenkapitalverzinsung nach § 7 Abs. 1 StromNEV auch
+
+                                      - 15 -
+
+
+
+aus verfassungsrechtlichen Gründen nicht geboten ist. Es bedarf im Streitfall keiner Entscheidung, ob die in einer zwar kostendeckenden, aber entschädigungslosen Übertragung der Durchführung des EEG-Ausgleichsmechanismus liegende Indienstnahme die Übertragungsnetzbetreiber in ihren Grundrechten verletzt.
+Sollte die Gewährung einer Entschädigung für die Durchführung dieser Aufgabe
+und den damit verbundenen Aufwand einschließlich der wirtschaftlichen Risiken
+verfassungsrechtlich geboten sein, so wäre gegebenenfalls eine entsprechende
+(Vergütungs-)Regelung in den gesetzlichen Vorschriften zum EEG-Ausgleichsmechanismus vorzusehen, welche die Verpflichtung und Belastung der Übertragungsnetzbetreiber begründen. Ein entsprechendes gesetzgeberisches Defizit
+wäre jedoch nicht dadurch zu beheben, dass das für eine von der Durchführung
+des EEG-Ausgleichsmechanismus getrennte, eigenständige Aufgabe wie den
+Betrieb des Übertragungsnetzes festzulegende Entgelt oder die hierfür geltende
+Erlösobergrenze erhöht wird (vgl. BVerwG, Urteil vom 25. März 2010 - 2 C 52/08,
+NVwZ 2010, 1507 Rn. 15; BGH, Beschluss vom 23. August 1989 - StB 29/89,
+BGHSt 36, 236 ff.). Dies gilt umso mehr, als das Ausmaß der Erhöhung des
+Netzentgelts durch die in Frage stehende Berücksichtigung der Bilanzpositionen
+aus dem EEG-Ausgleichsmechanismus bei der kalkulatorischen Eigenkapitalverzinsung nach § 7 Abs. 1 StromNEV - wie oben ausgeführt (vgl. Rn. 20) - maßgeblich von der Eigenkapitalausstattung des jeweiligen Netzbetreibers abhängt
+und in keiner Relation zu dem gegebenenfalls zu vergütenden Aufwand steht,
+der den Übertragungsnetzbetreibern durch die Abwicklung des EEG-Ausgleichsmechanismus entsteht.
+
+                                        - 16 -
+
+
+
+27         C.      Die Kostenentscheidung beruht auf § 90 EnWG, die Festsetzung
+     des Gegenstandswerts auf § 50 Abs. 1 Satz 1 Nr. 2 GKG und § 3 ZPO.
+
+
+     Meier-Beck                           Kirchhoff                         Roloff
+
+                          Tolkmitt                            Picker
+
+
+
+
+     Vorinstanz:
+     OLG Düsseldorf, Entscheidung vom 13.05.2020 - VI-3 Kart 694/19 [V] -
