@@ -1,0 +1,71 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-07-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6172917
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6172917
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.2: Wolfratshauser Straße 90 (T)
+- TOP 6.2.3: Hofbrunnstraße FlNr. 465/4 (VB)
+- TOP 6.2.4: Whistlerweg 6
+- TOP 6.2.6: Königswieser Straße 5
+- TOP 7.: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 08.06.2021
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.1.1: Bestellung einer städtischen Leistung: Ballfangzaun am Basketballplatz Obersendling
+- TOP 3.2.: (Antrag) Bestellung einer städtischen Leistung: Spielplatz Greinerberg
+- TOP 3.3.: (Antrag) Bestellung einer städtischen Leistung: DHL-Packstation Thalkirchen
+- TOP 3.4.: (E) Stadtbezirksbudget Archiv Geiger GbR Rupprecht Geiger in deutscher Gebärdensprache vom 01.08.-31.10.2021 3.600,00€; Az. 0262.0-19-0372
+- TOP 3.5.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B* aus München für München von Juni bis November 2021 9.499,00€; Az. 0262.0-19-0370
+- TOP 3.6.: (E) Stadtbezirksbudget HIDALGO gGmbH 6 Veranstaltungen des HIDALGO Festivals R*Evolution im "Sugar Mountain" 20.059€; Az. 0262.0-19-0
+- TOP 3.7.: - NACHTRAG - (Antrag) Budgetmittel aus dem Stadtbezirksbudget für eigene Veranstaltungen: Sommerstraße Franziska-Reindl-Platz
+- TOP 3.8.: - NACHTRAG - (A) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 bis 2020; Qualitative und Quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP 3.9.: - NACHTRAG - (E) Stadtbezirksbudget Initiative "Zirkuswoche" Projektwoche Zirkus vom 27.06.2022-08.07.2022 9.000€; Az. 0262.0-19-0373
+- TOP 3.10.: - NACHTRAG - (E) Stadtbezirksbudget Kartoffelkombinat - der Verein e. V. Großstadtwildnis entdecken -bei dir ums Eck in Obersendling vom 09. -11.08.2021 6.423,40 €; Az. 0262.0-19-0375
+- TOP 3.11.: - NACHTRAG - (E) Stadtbezirksbudget Initiative "Flößerei" Geschichte der Flößerei und kulturelles Brauchtum vom 01.08 -31.12.2021 4.358€; Az. 0262.0-19-0374
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Ersatzneubau Wehranlage Großhesselohe
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Thalkirchen fußgängerfreundlicher und lebenswerter machen
+- TOP 5.2.: (E) Sondernutzungserlaubnis: Freischankfläche Schäftlarnstraße
+- TOP 5.3.: (E) Sondernutzungserlaubnis: Verkaufseinrichtung Zeitungsentnahmegerät Weltistraße
+- TOP 5.4.: (A) Beschlussentwurf: Radwegerückbau in Tempo-30-Zonen
+- TOP 5.5.: (Antrag) Verkehrssituation Tierparkbrücke
+- TOP 5.6.: (Antrag) Parklizenzgebiet: Geltinger Straße, Gmunder Straße und Baierbrunner Straße
+- TOP 5.7.: (Antrag) Tempo 30: Gmunder Straße und Baierbrunner Straße
+- TOP 5.8.: (A) Verkehrsrechtliche Anordnung: Behindertenparkplatz Makartstraße
+- TOP 5.9.: - NACHTRAG - (A) Sichere Kreuzungen durch bessere Sichtbeziehungen; Stadtratsantrag Nr. 20-26 / A 01409
+- TOP 5.10.: - NACHTRAG - (Antrag) Halteverbot Berner Straße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Campingplatz Thalkirchen
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Jugendverbände und -vereine während Corona stärken und klare Verhältnisse schaffen
+- TOP 7.2.: (Antrag) Personalsituation Trafixx
+- TOP 7.3.: - NACHTRAG - (Antrag) Inklusionsprofil Grundschule Baierbrunner Straße
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: - NACHTRAG - (U) Vermietung stadteigenes Grundstück: Waterloostraße
+- TOP 6.2.1: Bannwaldseestraße 65 (T)
+- TOP 6.2.5: Graubündener Straße 1 (T)
