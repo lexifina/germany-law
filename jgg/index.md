@@ -169,7 +169,7 @@
 
 - [§ 79 Strafbefehl und beschleunigtes Verfahren](0079.md)
 - [§ 80 Privatklage und Nebenklage](0080.md)
-- [§ 81 Entschädigung des Verletzten](0081.md)
+- [§ 81 Adhäsionsverfahren](0081.md)
 
 ##### Zehnter Unterabschnitt Anordnung der Sicherungsverwahrung
 

@@ -75,48 +75,158 @@ In den nachstehenden Begriffsbestimmungen ist unter „zulässiger Gesamtmasse�
 5.7 Sonstige Fahrzeuge mit besonderer Zweckbestimmung: Fahrzeuge im Sinne der Nummer 5 mit Ausnahme von Fahrzeugen nach den Nummern 5.1 bis 5.6.
 Abschnitt 2
 Zwei-, drei- und vierrädrige Kraftfahrzeuge
-| Klasse L1e: | zweirädrige Kleinkrafträder mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 45 km/h und einem Hubraum von bis zu 50 cm3 im Falle von Verbrennungsmotoren oder einer maximalen Nenndauerleistung von bis zu 4 kW im Falle von Elektromotoren; |
-| Klasse L2e: | dreirädrige Kleinkrafträder mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 45 km/h und einem Hubraum von bis zu 50 cm3 im Falle von Fremdzündungsmotoren oder einer maximalen Nutzleistung von bis zu 4 kW im Falle anderer Verbrennungsmotoren oder einer maximalen Nenndauerleistung von bis zu 4 kW im Falle von Elektromotoren; |
-| Klasse L3e: | Krafträder, das heißt zweirädrige Kraftfahrzeuge ohne Beiwagen mit einem Hubraum von mehr als 50 cm3 im Falle von Verbrennungsmotoren und/oder einer bauartbedingten Höchstgeschwindigkeit von mehr als 45 km/h; |
-| Klasse L4e: | Krafträder mit Beiwagen; |
-| Klasse L5e: | dreirädrige Kraftfahrzeuge, das heißt mit drei symmetrisch angeordneten Rädern ausgestattete Kraftfahrzeuge mit einem Hubraum von mehr als 50 cm3 im Falle von Verbrennungsmotoren und/oder einer bauartbedingten Höchstgeschwindigkeit von mehr als 45 km/h; |
-| Klasse L6e: | vierrädrige Leichtkraftfahrzeuge mit einer Leermasse von bis zu 350 kg, ohne Masse der Batterien im Falle von Elektrofahrzeugen, mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 45 km/h und einem Hubraum von bis zu 50 cm3 im Falle von Fremdzündungsmotoren oder einer maximalen Nutzleistung von bis zu 4 kW im Falle anderer Verbrennungsmotoren oder einer maximalen Nenndauerleistung von bis zu 4 kW im Falle von Elektromotoren. Diese Fahrzeuge müssen den technischen Anforderungen für dreirädrige Kleinkrafträder der Klasse L2e genügen, sofern in den Einzelrichtlinien nichts anderes vorgesehen ist; |
-| Klasse L7e: | vierrädrige Kraftfahrzeuge, die nicht unter Klasse L6e fallen, mit einer Leermasse von bis zu 400 kg (550 kg im Falle von Fahrzeugen zur Güterbeförderung), ohne Masse der Batterien im Falle von Elektrofahrzeugen, und mit einer maximalen Nutzleistung von bis zu 15 kW. Diese Fahrzeuge gelten als dreirädrige Kraftfahrzeuge und müssen den technischen Anforderungen für dreirädrige Kraftfahrzeuge der Klasse L5e genügen, sofern in den Einzelrichtlinien nichts anderes vorgesehen ist. |
-Diese Einteilung gilt nicht für die nachstehend genannten Fahrzeuge:
-1. Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 6 km/h;
-2. durch Fußgänger geführte Fahrzeuge;
-3. Fahrzeuge, die zur Benutzung durch körperlich behinderte Personen bestimmt sind;
-4. Fahrzeuge, die für den sportlichen Wettbewerb auf der Straße oder im Gelände bestimmt sind;
-5. land- oder forstwirtschaftliche Zugmaschinen;
-6. selbstfahrende Arbeitsmaschinen;
-7. für Freizeitzwecke konzipierte Geländefahrzeuge mit drei symmetrisch angeordneten Rädern (ein Vorderrad und zwei Hinterräder);
-8. Fahrräder mit Trethilfe, die mit einem elektromotorischen Hilfsantrieb mit einer maximalen Nenndauerleistung von 0,25 kW ausgestattet sind, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und beim Erreichen einer Geschwindigkeit von 25 km/h oder früher, wenn der Fahrer im Treten einhält, unterbrochen wird.
+| Klassen | Bezeichnung der Klasse | Gemeinsame Einstufungskriterien |
+| L1e - L7e | Alle Fahrzeuge der Klasse L | (1) | Länge ≤ 4 000 mm oder ≤ 3 000 mm für ein L6e-B-Fahrzeug oder ≤ 3 700 mm für ein L7e-C-Fahrzeug und |
+|  |  | (2) | Breite ≤ 2 000 mm oder ≤ 1 000 mm für ein L1e-Fahrzeug oder ≤ 1 500 mm für ein L6e-B- oder ein L7e-C-Fahrzeug und |
+|  |  | (3) | Höhe ≤ 2 500 mm und |
+| Klasse | Bezeichnung der Klasse | Gemeinsame Einstufungskriterien |
+| L1e | Leichtes zweirädriges Kraftfahrzeug | (4) | zwei Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und |
+|  |  | (5) | ein Hubvolumen von ≤ 50 cm3, falls ein PI-Verbrennungsmotor Teil der Antriebskonfiguration des Fahrzeugs ist, und |
+|  |  | (6) | bauartbedingte Höchstgeschwindigkeit des Fahrzeugs ≤ 45 km/h und |
+|  |  | (7) | maximale Nenndauerleistung oder Nutzleistung ≤ 4 000 W und |
+|  |  | (8) | Gesamtmasse = technisch zulässige Masse nach Angabe des Herstellers und |
+| Unterklassen | Bezeichnung der Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L1e-A | Fahrrad mit Antriebssystem | (9) | Räder, die für den Pedalantrieb ausgelegt und mit einem Hilfsantrieb ausgerüstet sind, dessen Hauptzweck die Unterstützung der Pedalfunktion ist, und |
+|  |  | (10) | die Leistung des Hilfsantriebs wird beim Erreichen einer Fahrzeuggeschwindigkeit von 25 km/h unterbrochen und |
+|  |  | (11) | maximale Nenndauerleistung oder Nutzleistung ≤ 1 000 W und |
+|  |  | (12) | ein drei- oder vierrädriges Fahrrad, das mit den zusätzlichen spezifischen Kriterien 9 bis 11 für die Einstufung als Unterklasse übereinstimmt, gilt als technisch gleichwertig in Bezug auf ein zweirädriges L1e-A-Fahrzeug |
+| L1e-B | Zweirädriges Kleinkraftrad | (9) | ein sonstiges Fahrzeug der Klasse L1e, das anhand der Kriterien 9 bis 12 nicht als L1e-A-Fahrzeug eingestuft werden kann |
+| Klasse | Bezeichnung der Klasse | Gemeinsame Einstufungskriterien |
+| L2e | Dreirädriges Kleinkraftrad | (4) | drei Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und |
+|  |  | (5) | ein Hubvolumen von ≤ 50 cm3, falls ein PI-Motor mit Innenverbrennung oder ein Hubvolumen von ≤ 500 cm3, falls ein CI-Motor Teil der Antriebskonfiguration des Fahrzeugs ist, und |
+|  |  | (6) | bauartbedingte Höchstgeschwindigkeit ≤ 45 km/h und |
+|  |  | (7) | maximale Nenndauerleistung oder Nutzleistung ≤ 4 000 W und |
+|  |  | (8) | Masse in fahrbereitem Zustand ≤ 270 kg und |
+|  |  | (9) | ausgerüstet mit höchstens zwei Sitzplätzen, einschließlich des Fahrersitzes, und |
+| Unterklassen | Bezeichnung der Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L2e-P | Dreirädriges Kleinkraftrad für Personenbeförderung | (10) | ein L2e-Fahrzeug außer jenen, die mit den spezifischen Einstufungskriterien für ein L2e-U-Fahrzeug übereinstimmen |
+| L2e-U | Dreirädriges Kleinkraftrad für Güterbeförderung | (10) | ausschließlich für die Beförderung von Gütern ausgelegtes Fahrzeug mit offener oder geschlossener, nahezu ebener und horizontaler Ladefläche, das die folgenden Kriterien erfüllt: |
+|  |  |  | a)Länge Ladefläche x Breite Ladefläche ≥ 0,3 x Länge Fahrzeug x größte Breite Fahrzeug oderb)eine gleichwertige Ladefläche gemäß voranstehender Definition, die zur Montage von Maschinen und/oder Geräten bestimmt ist, undc)ausgelegt mit einer Ladefläche, die durch eine feste Trennwand eindeutig von dem den Fahrzeuginsassen vorbehaltenen Raum abgetrennt ist, undd)die Ladefläche ist in der Lage, ein Mindestvolumen aufzunehmen, das einem Würfel mit einer Kantenlänge von 600 mm entspricht |
+| Klasse | Bezeichnung der Klasse | Gemeinsame Einstufungskriterien |
+| L3e | Zweirädriges Kraftrad | (4) | zwei Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und |
+|  |  | (5) | Gesamtmasse = technisch zulässige Masse nach Angabe des Herstellers und |
+|  |  | (6) | zweirädriges Fahrzeug, das nicht in die Klasse L1e eingestuft werden kann |
+| Unterklassen | Bezeichnung der Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L3e-A1 | Kraftrad mit niedriger Leistung | (7) | Hubvolumen ≤ 125 cm3 und |
+|  | (8) | maximale Nenndauerleistung oder Nutzleistung ≤ 11 kW und |
+|  | (9) | Verhältnis von Leistung/Gewicht ≤ 0,1 kW/kg |
+| L3e-A2 | Kraftrad mit mittlerer Leistung | (7) | maximale Nenndauerleistung oder Nutzleistung ≤ 35 kW und |
+|  |  | (8) | Verhältnis Leistung/Gewicht ≤ 0,2 kW/kg und |
+|  |  | (9) | nicht abgewandelt von einem Fahrzeug, dessen Motorleistung mehr als doppelt so hoch ist, und |
+|  |  | (10) | ein L3e-Fahrzeug, das nicht nach den zusätzlichen Kriterien 7, 8 und 9 für die Unterklassen eines L3e-A1-Fahrzeugs eingestuft werden kann |
+| L3e-A3 | Kraftrad mit hoher Leistung | (7) | jedes sonstige L3e-Fahrzeug, das nicht mittels der Klassifizierungskriterien eines L3e-A1- oder L3e-A2-Fahrzeugs eingestuft werden kann |
+| Unter- Unterklassen | Bezeichnung der Unter-Unterklasse | Kriterien für die Einstufung in Unter-Unterklassen zusätzlich zu den Kriterien für die Einstufung von L3e-A1-, L3e-A2- oder L3e-A3-Fahrzeugen |
+| L3e-AxE (x = 1, 2 oder 3) | Enduro-Kraftrad |  | a)Sitzhöhe ≥ 900 mm undb)Bodenfreiheit ≥ 310 mm undc)Gesamtübersetzung im höchsten Gang (Primärübersetzung x Getriebeübersetzung im höchsten Gang x Endantriebsübersetzung) ≥ 6,0 undd)Masse in fahrbereitem Zustand zuzüglich der Masse der Antriebsbatterie im Falle eines Elektroantriebs oder eines Hybrid-Elektroantriebs ≤ 140 kg unde)kein Beifahrersitz |
+| L3e-AxT (x = 1, 2 oder 3) | Trial-Kraftrad |  | a)Sitzhöhe ≤ 700 mm undb)Bodenfreiheit ≥ 280 mm undc)Fassungsvermögen des Kraftstofftanks ≤ 4 l undd)Gesamtübersetzung im höchsten Gang (Primärübersetzung x Getriebeübersetzung im höchsten Gang x Endantriebsübersetzung) ≥ 7,5 unde)Masse in fahrbereitem Zustand ≤ 100 kg undf)kein Beifahrersitz |
+| Klasse | Bezeichnung der Klasse | Gemeinsame Einstufungskriterien |
+| L4e | Zweirädriges Kraftrad mit Beiwagen | (4) | Basisfahrzeug mit Antriebssystem, das mit den Einstufungskriterien hinsichtlich der Klasse und Unterklasse für ein L3e-Fahrzeug übereinstimmt und |
+|  |  | (5) | Basisfahrzeug mit Antriebssystem und einem Beiwagen und |
+|  |  | (6) | mit höchstens vier Sitzplätzen einschließlich des Fahrersitzes auf dem Kraftrad mit Beiwagen und |
+|  |  | (7) | mit höchstens zwei Beifahrersitzen im Beiwagen und |
+|  |  | (8) | Gesamtmasse = technisch zulässige Masse nach Angabe des Herstellers |
+| Klasse | Bezeichnung der Klasse | Gemeinsame Einstufungskriterien |
+| L5e | Dreirädriges Kraftfahrzeug | (4) | drei Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und |
+|  |  | (5) | Masse in fahrbereitem Zustand ≤ 1 000 kg und |
+|  |  | (6) | dreirädriges Fahrzeug, das nicht als L2e-Fahrzeug eingestuft werden kann und |
+| Unterklassen | Bezeichnung der Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L5e-A | Dreirädriges Kraftfahrzeug | (7) | ein L5e-Fahrzeug außer jenen, die mit den spezifischen Einstufungskriterien für ein L5e-B-Fahrzeug übereinstimmen, und |
+|  |  | (8) | mit höchstens fünf Sitzplätzen, einschließlich des Fahrersitzes |
+| L5e-B | Dreirädriges Fahrzeug zur gewerblichen Nutzung | (7) | als Nutzfahrzeug ausgelegtes Fahrzeug mit geschlossenem, von höchstens drei Seiten zugänglichem Fahrer- und Fahrgastraum, und |
+|  |  | (8) | ausgerüstet mit höchstens zwei Sitzplätzen, einschließlich des Fahrersitzes, und |
+|  |  | (9) | ausschließlich für die Beförderung von Gütern ausgelegtes Fahrzeug mit offener oder geschlossener, nahezu ebener und horizontaler Ladefläche, das die folgenden Kriterien erfüllt: |
+|  |  |  | a)Länge Ladefläche x Breite Ladefläche ≥ 0,3 x Länge Fahrzeug x Breite Fahrzeug oderb)eine gleichwertige Ladefläche gemäß voranstehender Definition, die zur Montage von Maschinen und/oder Geräten bestimmt ist, undc)ausgelegt mit einer Ladefläche, die durch eine feste Trennwand eindeutig von dem den Fahrzeuginsassen vorbehaltenen Raum abgetrennt ist, undd)die Ladefläche ist in der Lage, ein Mindestvolumen aufzunehmen, das einem Würfel mit einer Kantenlänge von 600 mm entspricht |
+| Klasse | Bezeichnung der Klasse | Gemeinsame Einstufungskriterien |
+| L6e | Leichtes vierrädriges Kraftfahrzeug | (4) | vier Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und |
+|  |  | (5) | bauartbedingte Höchstgeschwindigkeit des Fahrzeugs ≤ 45 km/h und |
+|  |  | (6) | Masse in fahrbereitem Zustand ≤ 425 kg und |
+|  |  | (7) | ein Hubvolumen von ≤ 50 cm3, falls ein PI-Motor Teil der Antriebskonfiguration des Fahrzeugs ist, oder ein Hubvolumen von ≤ 500 cm3, falls ein CI-Motor Teil der Antriebskonfiguration des Fahrzeugs ist, und |
+|  |  | (8) | ausgerüstet mit höchstens zwei Sitzplätzen, einschließlich des Fahrersitzes, und |
+| Unterklassen | Bezeichnung der Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L6e-A | Leichtes Straßen-Quad | (9) | Fahrzeug der Klasse L6e, das nicht mit den spezifischen Einstufungskriterien für ein Fahrzeug der Unterklasse L6e-B übereinstimmt, und |
+|  |  | (10) | maximale Nenndauerleistung oder Nutzleistung ≤ 4 000 W |
+| L6e-B | Leichtes Vierradmobil | (9) | geschlossener, höchstens von drei Seiten zugänglicher Fahrer- und Fahrgastraum und |
+|  |  | (10) | maximale Nenndauerleistung oder Nutzleistung ≤ 6 000 W und |
+| Unter- Unterklassen | Bezeichnung der Unter-Unterklasse | Kriterien für die Einstufung in Unter-Unterklassen zusätzlich zu den Kriterien für die Einstufung eines L6e-B-Fahrzeugs |
+| L6e-BP | Leichtes Vierradmobil für Personenbeförderung | (11) | hauptsächlich für die Beförderung von Personen ausgelegtes L6e-B-Fahrzeug und |
+|  | (12) | L6e-B-Fahrzeug, das nicht dem spezifischen Einstufungskriterium für ein L6e-BU-Fahrzeug entspricht |
+| L6e-BU | Leichtes Vierradmobil für Güterbeförderung | (11) | ausschließlich für die Beförderung von Gütern ausgelegtes Fahrzeug mit offener oder geschlossener, nahezu ebener und horizontaler Ladefläche, das die folgenden Kriterien erfüllt: |
+|  |  |  | a)Länge Ladefläche x Breite Ladefläche > 0,3 x Länge Fahrzeug x Breite Fahrzeug oderb)eine gleichwertige Ladefläche gemäß voranstehender Definition, die zur Montage von Maschinen und/oder Geräten bestimmt ist, undc)ausgelegt mit einer Ladefläche, die durch eine feste Trennwand eindeutig von dem den Fahrzeuginsassen vorbehaltenen Raum abgetrennt ist, undd)die Ladefläche ist in der Lage, ein Mindestvolumen aufzunehmen, das einem Würfel mit einer Kantenlänge von 600 mm entspricht |
+| Klasse | Bezeichnung der Klasse | Gemeinsame Einstufungskriterien |
+| L7e | Schweres vierrädriges Kraftfahrzeug | (4) | vier Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und |
+|  |  | (5) | Masse in fahrbereitem Zustand: |
+|  |  |  | a)≤ 450 kg für die Beförderung von Personenb)≤ 600 kg für die Beförderung von Gütern und |
+|  |  | (6) | L7e-Fahrzeug, das nicht als L6e-Fahrzeug eingestuft werden kann und |
+| Unterklasse | Bezeichnung der Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L7e-A | Schweres Straßen-Quad | (7) | L7e-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-B- oder ein L7e-C-Fahrzeug übereinstimmt und |
+|  |  | (8) | ausschließlich für die Beförderung von Personen ausgelegtes Fahrzeug und |
+|  |  | (9) | maximale Nenndauerleistung oder Nutzleistung ≤ 15 kW und |
+| Unter- Unterklassen | Bezeichnung der Unter-Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L7e-A1 | A1 schweres Straßen-Quad | (10) | höchstens zwei Sattelsitzplätze, einschließlich des Fahrersitzes, und |
+|  |  | (11) | Lenkung mittels Lenkstange |
+| L7e-A2 | A2 schweres Straßen-Quad | (10) | L7e-A-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-A1-Fahrzeug übereinstimmt, und |
+|  |  | (11) | höchstens zwei nicht sattelförmige Sitzplätze, einschließlich des Fahrersitzes |
+| Unterklassen | Bezeichnung der Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L7e-B | Schweres Gelände-Quad | (7) | L7e-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-C-Fahrzeug übereinstimmt, und |
+|  |  | (8) | Bodenfreiheit ≥ 180 mm und |
+| Unter- Unterklassen | Bezeichnung der Unter-Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L7e-B1 | Gelände-Quad | (9) | höchstens zwei Sattelsitzplätze, einschließlich des Fahrersitzes, und |
+|  |  | (10) | für die Lenkung mit einer Lenkstange ausgerüstet und |
+|  |  | (11) | bauartbedingte Höchstgeschwindigkeit des Fahrzeugs ≤ 90 km/h und |
+|  |  | (12) | Verhältnis Radstand zu Bodenfreiheit ≤ 6 |
+| L7e-B2 | Side-by-Side-Buggy | (9) | anderes L7e-B-Fahrzeug als ein L7e-B1-Fahrzeug und |
+|  |  | (10) | höchstens drei nicht sattelförmige Sitzplätze, von denen zwei nebeneinander angeordnet sind, einschließlich des Fahrersitzes, und |
+|  |  | (11) | maximale Nenndauerleistung oder Nutzleistung ≤ 15 kW und |
+|  |  | (12) | Verhältnis Radstand zu Bodenfreiheit ≤ 8 |
+| Unterklasse | Bezeichnung der Unterklasse | Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse |
+| L7e-C | Schweres Vierradmobil | (7) | L7e-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-B-Fahrzeug übereinstimmt, und |
+|  |  | (8) | maximale Nenndauerleistung oder Nutzleistung ≤ 15 kW und |
+|  |  | (9) | bauartbedingte Höchstgeschwindigkeit des Fahrzeugs ≤ 90 km/h und |
+|  |  | (10) | geschlossener, höchstens von drei Seiten zugänglicher Fahrer- und Fahrgastraum und |
+| Unter- Unterklassen | Bezeichnung der Unter-Unterklasse | Kriterien für die Einstufung in Unter-Unterklassen zusätzlich zu den Kriterien für die Unterklasse L7e-C schwere Vierradmobile |
+| L7e-CP | Schweres Vierradmobil für Personenbeförderung | (11) | L7e-C-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-CU-Fahrzeug übereinstimmt, und |
+|  | (12) | höchstens vier nicht sattelförmige Sitze, einschließlich des Fahrersitzes |
+| L7e-CU | Schweres Vierradmobil für Güterbeförderung | (11) | ausschließlich für die Beförderung von Gütern ausgelegtes Fahrzeug mit offener oder geschlossener, nahezu ebener und horizontaler Ladefläche, das die folgenden Kriterien erfüllt: |
+|  |  |  | a)Länge Ladefläche x Breite Ladefläche > 0,3 x Länge Fahrzeug x Breite Fahrzeug oderb)eine gleichwertige Ladefläche gemäß voranstehender Definition, die zur Montage von Maschinen und/oder Geräten bestimmt ist, undc)ausgelegt mit einer Ladefläche, die durch eine feste Trennwand eindeutig von dem den Fahrzeuginsassen vorbehaltenen Raum abgetrennt ist, undd)die Ladefläche ist in der Lage, ein Mindestvolumen aufzunehmen, das einem Würfel mit einer Kantenlänge von 600 mm entspricht, und |
+|  |  | (12) | höchstens zwei nicht sattelförmige Sitze, einschließlich des Fahrersitzes |
+Diese Einteilung gilt nicht für die nachstehenden Fahrzeuge:
+a) Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 6 km/h;
+b) Fahrzeuge, die ausschließlich zur Benutzung durch körperbehinderte Personen bestimmt sind;
+c) ausschließlich fußgängergeführte Fahrzeuge;
+d) Fahrzeuge, die ausschließlich für die Benutzung im sportlichen Wettbewerb bestimmt sind;
+e) Fahrzeuge, die zur Benutzung durch die Streitkräfte, den Katastrophenschutz, die Feuerwehr, die für die Aufrechterhaltung der öffentlichen Ordnung zuständigen Kräfte und die medizinischen Notdienste ausgelegt und gebaut sind;
+f) land- und forstwirtschaftliche Fahrzeuge gemäß der Verordnung (EU) Nr. 167/2013, Maschinen gemäß der Richtlinie 97/68/EG und der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Maschinen und zur Änderung der Richtlinie 95/16/EG (ABl. L 157 vom 9.6.2006, S. 24; L 76 vom 16.3.2007, S. 35), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, sowie Kraftfahrzeuge gemäß der Richtlinie 2007/46/EG;
+g) Fahrzeuge, die in erster Linie für die Benutzung im Gelände bestimmt und für das Befahren unbefestigter Flächen ausgelegt sind;
+h) Fahrräder mit Pedalantrieb mit Trethilfe, die mit einem elektromotorischen Hilfsantrieb mit einer maximalen Nenndauerleistung von bis zu 250 W ausgestattet sind, dessen Unterstützung unterbrochen wird, wenn der Fahrer im Treten einhält, und dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und unterbrochen wird, bevor die Geschwindigkeit des Fahrzeugs 25 km/h erreicht;
+i) selbstbalancierende Fahrzeuge;
+j) Fahrzeuge, die nicht mindestens einen Sitzplatz haben;
+k) Fahrzeuge, bei denen sich der R-Punkt in einer Sitzposition des Fahrers bei den Klassen L1e, L3e und L4e in einer Höhe von ≤ 540 mm oder bei den Klassen L2e, L5e, L6e und L7e in einer Höhe von ≤ 400 mm befindet.
+Grundlage der in Abschnitt 2 genannten Leistungsgrenzen ist die maximale Nenndauerleistung bei Fahrzeugen mit Elektroantrieb und die maximale Nutzleistung bei Fahrzeugen, die von einem Verbrennungsmotor angetrieben werden. Das Gewicht eines Fahrzeugs wird als identisch mit seiner Masse in fahrbereitem Zustand betrachtet.
+Die Einstufung eines L3e-Fahrzeugs als Unterklasse je nachdem, ob seine bauartbedingte Höchstgeschwindigkeit weniger, gleich oder mehr als 130 km/h beträgt, ist unabhängig von seiner Einstufung in die Antriebsleistungsklassen L3e-A1, L3e-A2 oder L3e-A3.
 Abschnitt 3
-Land- oder forstwirtschaftliche Zugmaschinen
-mit einer bauartbedingten Höchstgeschwindigkeit
-von mindestens 6 km/h, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen
-1 Klasse T: | Zugmaschinen auf Rädern |
-  Klasse T1: | Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit bis 40 km/h, einer Spurweite der dem Fahrer am nächsten liegenden Achse – bei Zugmaschinen mit umkehrbarem Fahrerplatz (Sitz und Lenkrad sind umkehrbar) gilt die Achse, die mit den Reifen mit dem größten Durchmesser ausgerüstet ist, als dem Fahrer am nächsten liegende Achse – von mindestens 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg und einer Bodenfreiheit bis 1 000 mm. |
-  Klasse T2: | Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit bis 40 km/h, einer Mindestspurweite von weniger als 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg und einer Bodenfreiheit bis 600 mm. Beträgt der Quotient aus der Höhe des Schwerpunkts der Zugmaschine (nach ISO-Norm 789-6:1982) über dem Boden und der mittleren Mindestspurweite der Achsen jedoch mehr als 0,90, so ist die bauartbedingte Höchstgeschwindigkeit auf 30 km/h begrenzt. |
-  Klasse T3: | Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit bis 40 km/h und einer Leermasse in fahrbereitem Zustand bis 600 kg. |
-  Klasse T4: | Zugmaschinen auf Rädern mit besonderer Zweckbestimmung mit einer bauartbedingten Höchstgeschwindigkeit bis 40 km/h (T4.1: Stelzradzugmaschinen, T4.2: überbreite Zugmaschinen, T4.3: Zugmaschinen mit geringer Bodenfreiheit). |
-  Klasse T5: | Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
-2 Klasse C: | Zugmaschinen auf Gleisketten |
-    | Zugmaschinen auf Gleisketten, die über die Gleisketten angetrieben und gelenkt werden und deren Klassen C1 bis C5 analog zu den Klassen T1 bis T5 definiert sind. |
-3 Klasse R: Anhänger
-  Klasse R1: Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 1 500 kg beträgt.
-  Klasse R2: Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 1 500 kg und bis zu 3 500 kg beträgt.
-  Klasse R3: Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg und bis zu 21 000 kg beträgt.
-  Klasse R4: Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 21 000 kg beträgt.
-Ferner wird jede Klasse von Anhängern je nach der Höchstgeschwindigkeit, für die sie ausgelegt ist, mit dem Buchstaben „a“ oder „b“ gekennzeichnet:
-– Buchstabe „a“ für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit kleiner oder gleich 40 km/h;
-– Buchstabe „b“ für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
-Beispiel: Bei einem Anhänger der Klasse Rb3 beträgt die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg und bis zu 21 000 kg, und er ist für die Beförderung durch eine Zugmaschine der Klasse T5 ausgelegt.
-4 Klasse S: Gezogene auswechselbare Maschinen
-  Klasse S1: Gezogene auswechselbare Maschinen für den Einsatz in der Land- oder Forstwirtschaft, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 3 500 kg beträgt.
-  Klasse S2: Gezogene auswechselbare Maschinen für den Einsatz in der Land- und Forstwirtschaft, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg beträgt.
-Ferner wird jede Klasse von gezogenen auswechselbaren Maschinen je nach der Höchstgeschwindigkeit, für die sie ausgelegt ist, mit dem Buchstaben „a“ oder „b“ gekennzeichnet:
-– Buchstabe „a“ für gezogene auswechselbare Maschinen mit einer bauartbedingten Höchstgeschwindigkeit kleiner oder gleich 40 km/h,
-– Buchstabe „b“ für gezogene auswechselbare Maschinen mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
-Beispiel: Bei einer gezogenen auswechselbaren Maschine der Klasse Sb2 beträgt die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg, und sie ist für die Beförderung durch eine Zugmaschine der Klasse T5 ausgelegt.
-Die Einteilung gilt nicht für speziell zum Einsatz in der Forstwirtschaft bestimmte Maschinen wie Seilschlepper (Skidder) und Rückezüge (Forwarder) nach ISO-Norm 6814:2000, für Forstmaschinen auf Fahrgestell für Erdbaumaschinen nach ISO-Norm 6165:2001und für auswechselbare Maschinen, die im öffentlichen Straßenverkehr von einem anderen Fahrzeug in vollständig angehobener Stellung mitgeführt werden.
+Land- oder forstwirtschaftliche Zugmaschinen,
+Anhänger und gezogene auswechselbare Geräte
+| 1 | Klasse T: | alle Zugmaschinen auf Rädern; jeder Klasse von Zugmaschinen auf Rädern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt: |
+|  |  | a) | a für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h, |
+|  |  | b) | b für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
+|  | Klasse T1: | Zugmaschinen auf Rädern mit einer Spurweite der dem Fahrer am nächsten liegenden Achse von mindestens 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg und einer Bodenfreiheit bis 1 000 mm. |
+|  | Klasse T2: | Zugmaschinen auf Rädern mit einer Mindestspurweite von weniger als 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg, einer Bodenfreiheit bis 600 mm; wenn der Quotient aus der Höhe des Schwerpunkts der Zugmaschine über dem Boden und der mittleren Mindestspurweite der Achsen mehr als 0,90 beträgt, ist die bauartbedingte Höchstgeschwindigkeit auf 30 km/h begrenzt. |
+|  | Klasse T3: | Zugmaschinen auf Rädern mit einer Leermasse in fahrbereitem Zustand bis 600 kg. |
+|  | Klasse T4: | Zugmaschinen auf Rädern mit besonderer Zweckbestimmung. |
+|  | Klasse T4.1: | (Stelzradzugmaschinen):Zugmaschinen, die für den Einsatz in hohen Reihenkulturen, zum Beispiel Rebkulturen, ausgelegt sind. Sie sind durch ein überhöhtes Fahrgestell oder einen überhöhten Fahrgestellteil gekennzeichnet, so dass sie parallel zu den Pflanzenreihen über diese hinweg fahren und dabei eine oder mehrere Reihen zwischen ihre Räder nehmen können. Sie sind zur Beförderung oder zum Antrieb von Geräten konzipiert, die vorn, zwischen Achsen, hinten oder auf einer Plattform angebracht sind. Befindet sich die Zugmaschine in Arbeitsposition, ist die Bodenfreiheit, gemessen in der Vertikalen der Pflanzenreihen, größer als 1 000 mm. Beträgt der Quotient aus der Höhe des Schwerpunkts der Zugmaschine über dem Boden (bei normaler Bereifung) und der mittleren Mindestspurweite der Achsen mehr als 0,90, so ist die bauartbedingte Höchstgeschwindigkeit auf 30 km/h begrenzt. |
+|  | Klasse T4.2: | (überbreite Zugmaschinen):Zugmaschinen, die durch ihre großen Abmessungen gekennzeichnet und speziell zur Bearbeitung großer landwirtschaftlicher Flächen bestimmt sind. |
+|  | Klasse T4.3: | (Zugmaschinen mit geringer Bodenfreiheit):Zugmaschinen mit Vierradantrieb, deren auswechselbare Geräte für den Einsatz in der Land- und Forstwirtschaft bestimmt sind, mit einem Tragrahmen, einer oder mehreren Zapfwellen, einer technisch zulässigen Masse von höchstens 10 t und einem Verhältnis technisch zulässige Masse/maximale Leermasse in fahrbereitem Zustand unter 2,5 sowie mit einem Schwerpunkt (bei normaler Bereifung) von weniger als 850 mm über dem Boden. |
+| 2 | Klasse C: | Zugmaschinen auf Gleisketten, die über die Gleisketten oder über eine Kombination von Rädern und Gleisketten angetrieben werden (Definition der Unterklassen analog zu der Klasse T). |
+| 3 | Klasse R: | Anhänger; jeder Klasse von Anhängern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt: |
+|  |  | a) | a für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h, |
+|  |  | b) | b für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
+|  | Klasse R1: | Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 1 500 kg beträgt. |
+|  | Klasse R2: | Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 1 500 kg und bis zu 3 500 kg beträgt. |
+|  | Klasse R3: | Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg und bis zu 21 000 kg beträgt. |
+|  | Klasse R4: | Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 21 000 kg beträgt. |
+| 4 | Klasse S: | gezogene auswechselbare Geräte. |
+|  |  | Jeder Klasse von gezogenen auswechselbaren Geräten wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt: |
+|  |  | a) | a für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h, |
+|  |  | b) | b für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
+|  | Klasse S1: | gezogene auswechselbare Geräte, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 3 500 kg beträgt. |
+|  | Klasse S2: | gezogene auswechselbare Geräte, bei denen die Summe der technisch zulässigen Massen je Achse über 3 500 kg beträgt. |
+|  |  | Die Einteilung gilt nicht für speziell zum Einsatz in der Forstwirtschaft bestimmte Maschinen wie Seilschlepper (Skidder) und Rückezüge (Forwarder) nach ISO-Norm 6814:2000, für Forstmaschinen auf Fahrgestell für Erdbaumaschinen nach ISO-Norm 6165:2001 und für auswechselbare Maschinen, die im öffentlichen Straßenverkehr von einem anderen Fahrzeug in vollständig angehobener Stellung mitgeführt werden. |

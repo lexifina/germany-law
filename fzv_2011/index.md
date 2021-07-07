@@ -121,5 +121,5 @@
 - [Anlage 10 (zu § 16a Absatz 5 Satz 1)Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen](anlage-10.md)
 - [Anlage 10a (zu § 17 Absatz 2 Satz 1)Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen](anlage-10a.md)
 - [Anlage 11 (zu § 23 Absatz 3)](anlage-11.md)
-- [Anlage 12 (zu § 27 Absatz 1 Satz 4)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge](anlage-12.md)
+- [Anlage 12 (zu § 27 Absatz 1 Satz 4)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge](anlage-12.md)
 - [Anlage 13 (zu § 29a Absatz 2 Nummer 3)Versicherungsplakette für Elektrokleinstfahrzeuge](anlage-13.md)

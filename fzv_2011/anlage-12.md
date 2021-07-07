@@ -1,4 +1,4 @@
-# Anlage 12 (zu § 27 Absatz 1 Satz 4)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge
+# Anlage 12 (zu § 27 Absatz 1 Satz 4)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge
 
 1. Versicherungskennzeichen
   [Bild: bgbl1_2011_j0139-1_0450.jpg]

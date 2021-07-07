@@ -145,7 +145,7 @@
 |  | Ausschluß von Vorschriften des allgemeinen Verfahrensrechts |  |
 |  |  | Strafbefehl und beschleunigtes Verfahren | § 79 |
 |  |  | Privatklage und Nebenklage | § 80 |
-|  |  | Entschädigung des Verletzten | § 81 |
+|  |  | Adhäsionsverfahren | § 81 |
 | Zehnter Unterabschnitt |  |
 |  | Anordnung der Sicherungsverwahrung |  |
 |  |  | Verfahren und Entscheidung | § 81a |

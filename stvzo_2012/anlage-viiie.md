@@ -38,32 +38,7 @@
   Die Zentrale Stelle bereitet die Vorgaben, Prüfhinweise und Angaben über Hoch- und Rückrüstungen der Fahrzeuge mit dem Bezug zur vollständigen Fahrzeug-Identifizierungsnummer aktuell für die Anwendung bei der regelmäßigen technischen Überwachung der Fahrzeuge auf und übermittelt diese auf Anfrage an die in Nummer 3 genannten Stellen.
 8.3 Übermittlung der Feststellungen bei der technischen Überwachung der Fahrzeuge an die Zentrale Stelle
   Die Technischen Prüfstellen und amtlich anerkannten Überwachungsorganisationen übermitteln die nach Nummer 3.2 der Anlage VIIIa getroffenen Feststellungen mit dem Bezug zur vollständigen Fahrzeug-Identifizierungsnummer, jedoch ohne Angaben zum Fahrzeughalter, zum Kennzeichen der Fahrzeuge und zur untersuchenden Person halbjährlich an die Zentrale Stelle, die diese auswertet und erforderlichenfalls die nach Nummer 8.2 bereitzustellenden Angaben aktualisiert.
-8.4 Übermittlung bestimmter Angaben an das Kraftfahrt-Bundesamt und Bereitstellung der Angaben für andere Stellen
-8.4.1 Angaben zur Erstellung einer Fahrleistungsstatistik
-  8.4.1.1 Zur Erstellung einer Fahrleistungsstatistik für Deutschland übermittelt die Zentrale Stelle die bei den HU festgestellten und nachfolgend aufgeführten Daten der einzelnen Fahrzeuge halbjährlich dem Kraftfahrt-Bundesamt:
-  8.4.1.1.1 vierstellige KBA-Herstellerschlüsselnummer,
-  8.4.1.1.2 dreistellige KBA-Typschlüsselnummer,
-  8.4.1.1.3 drei- oder fünfstellige Versionsvariantenschlüsselnummer,
-  8.4.1.1.4 vierstellige Fahrzeugklasse und -aufbauart,
-  8.4.1.1.5 Monat und Jahr der Erstzulassung,
-  8.4.1.1.6 Monat und Jahr der HU,
-  8.4.1.1.7 Stand des Wegstreckenzählers bei Kraftfahrzeugen und, soweit vorhanden, bei Anhängern.
-  8.4.1.2 Soweit technische Daten zum vorgeführten Fahrzeug aus den Schlüsselnummern nicht abgeleitet werden können, dürfen durch die Zentrale Stelle folgende zusätzliche Angaben übermittelt werden:
-  8.4.1.2.1 zulässige Gesamtmasse (kg),
-  8.4.1.2.2 Nennleistung (kW),
-  8.4.1.2.3 Hubvolumen (cm³),
-  8.4.1.2.4 Höchstgeschwindigkeit (km/h),
-  8.4.1.2.5 Energie- und Antriebsart,
-  8.4.1.2.6 Emissionsklasse.
-  Darüber hinaus übermittelt die Zentrale Stelle an das Kraftfahrt-Bundesamt zu jedem einzelnen Fahrzeug die seit der vorangegangenen HU verstrichene Zeit in Tagen sowie die in dieser Zeit gefahrenen Kilometer.
-8.4.2 Angaben zur Erstellung einer Mängelstatistik und Veröffentlichung der Statistik
-  Zur Erstellung einer Statistik über die bei den HU festgestellten Mängel nach Nummer 3.1.4 der Anlage VIII übermittelt die Zentrale Stelle dem Kraftfahrt-Bundesamt halbjährlich zusätzlich zu den Angaben nach Nummer 8.4.1 die Mängelfeststellungen bezogen auf die in den Nummern 6.1 bis 6.10 der Anlage VIIIa aufgeführten Hauptgruppen der in den Fahrzeugen verbauten Bauteile und Systeme in nicht personenbezogener Form.
-  Zusätzlich übermittelt die Zentrale Stelle die Bezeichnungen der Untersuchungsstellen nach Nummer 2 der Anlage VIIId, in denen die HU durchgeführt wurden, sowie die Namen der Bundesländer, in denen die Untersuchungsstellen ihren Sitz haben.
-  Das Kraftfahrt-Bundesamt erstellt aus den vorstehenden Angaben eine Statistik mit der Zuordnung zu den in den Nummern 2.1.1 bis 2.1.6 der Anlage VIII genannten Fahrzeugarten und veröffentlicht diese in nicht personenbezogener Form jährlich.
-8.4.3 Übermittlung an andere Stellen
-  Das Kraftfahrt-Bundesamt übermittelt die nach Nummer 8.4.2 zu erstellende Statistik in nicht personenbezogener Form
-  8.4.3.1 halbjährlich dem „Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO“ (AKE), der diese auswertet und erforderlichenfalls Vorschläge zur Änderung der maßgeblichen Vorschriften erarbeitet,
-  8.4.3.2 auf Anfrage dem Bundesministerium für Verkehr und digitale Infrastruktur zur Fortschreibung der maßgeblichen Vorschriften und halbjährlich den zuständigen obersten Landesbehörden zur Wahrnehmung ihrer Aufsichtspflichten über Technische Prüfstellen und amtlich anerkannte Überwachungsorganisationen.
+8.4 (weggefallen)
 8.5 Übermittlung von Angaben zur Entwicklung von Fahrzeugen
   Die bei der regelmäßigen technischen Überwachung festgestellten Mängel sowie Hoch- und Rückrüstungen an den Fahrzeugen sind für die Neuentwicklung und für Verbesserungen im Verkehr befindlicher Fahrzeuge zu nutzen. Dazu übermittelt die Zentrale Stelle den Herstellern und Importeuren von Fahrzeugen, Fahrzeugsystemen oder -bauteilen diese Erkenntnisse jeweils für ihre Produkte auf Anfrage. Sofern diese Angaben mit dem Bezug auf die Fahrzeug-Identifizierungsnummer übermittelt werden, muss die Zentrale Stelle durch geeignete Maßnahmen sicherstellen, dass die Fahrzeug-Identifizierungsnummer um mindestens 3 Ziffern am Ende gekürzt ist.
 8.6 Übermittlung von Angaben zum Zweck der Unfallforschung

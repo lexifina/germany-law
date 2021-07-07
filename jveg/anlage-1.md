@@ -71,7 +71,7 @@ Teil 1
 Teil 2
 | Honorar- gruppe | Gegenstand medizinischer oder psychologischer Gutachten | Stundensatz (Euro) |
 | M 1 | Einfache gutachtliche Beurteilungen ohne Kausalitätsfeststellungen, insbesondere | 80 |
-|  | 1. | in Gebührenrechtsfragen (z. B. Streitigkeiten bei Krankenhausabrechnungen), |  |
+|  | 1. | in Gebührenrechtsfragen, |  |
 |  | 2. | zur Verlängerung einer Betreuung oder zur Überprüfung eines angeordneten Einwilligungsvorbehalts nach § 1903 des Bürgerlichen Gesetzbuchs, |  |
 |  | 3. | zur Minderung der Erwerbsfähigkeit nach einer Monoverletzung. |  |
 | M 2 | Beschreibende (Ist-Zustands-)Begutachtung nach standardisiertem Schema ohne Erörterung spezieller Kausalzusammenhänge mit einfacher medizinischer Verlaufsprognose und mit durchschnittlichem Schwierigkeitsgrad, insbesondere Gutachten | 90 |

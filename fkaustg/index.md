@@ -7,6 +7,7 @@
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Gemeinsamer Meldestandard](0002.md)
 - [§ 3 Pflichten der Finanzinstitute](0003.md)
+- [§ 3a Pflichten der Kontoinhaber und der Antragsteller](0003a.md)
 - [§ 4 Zuständige Behörde](0004.md)
 - [§ 5 Aufgaben des Bundeszentralamts für Steuern](0005.md)
 - [§ 6 Ansässigkeit; Zeitpunkt der Erstanwendung](0006.md)
