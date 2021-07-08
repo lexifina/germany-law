@@ -53,7 +53,7 @@
 ## Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis
 
 - [§ 33 Grundpflichten](0033.md)
-- [§ 34 Wahrnehmung der Aufgaben, Verhalten](0034.md)
+- [§ 34 Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild](0034.md)
 - [§ 35 Folgepflicht](0035.md)
 - [§ 36 Verantwortung für die Rechtmäßigkeit](0036.md)
 - [§ 37 Verschwiegenheitspflicht](0037.md)

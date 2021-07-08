@@ -89,7 +89,7 @@
 
 ## Abschnitt 5 Dienstliche Beurteilung
 
-- [§ 48 Regelbeurteilung, Anlassbeurteilung](0048.md)
+- [§ 48 Ausnahmen von der regelmäßigen Beurteilung](0048.md)
 - [§ 49 Inhalt der dienstlichen Beurteilung](0049.md)
 - [§ 50 Beurteilungsverfahren und Beurteilungsmaßstab](0050.md)
 

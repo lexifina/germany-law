@@ -17,7 +17,7 @@
 - [§ 8 Stellenausschreibung](0008.md)
 - [§ 9 Auswahlkriterien](0009.md)
 - [§ 10 Ernennung](0010.md)
-- [§ 11 Voraussetzungen der Ernennung auf Lebenszeit](0011.md)
+- [§ 11 Voraussetzungen der Ernennung auf Lebenszeit; Verordnungsermächtigung](0011.md)
 - [§ 11a Ableisten eines Vorbereitungsdienstes durch Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit](0011a.md)
 - [§ 12 Zuständigkeit und Wirksamwerden der Ernennung](0012.md)
 - [§ 13 Nichtigkeit der Ernennung](0013.md)
@@ -31,12 +31,13 @@
 - [§ 18 Anerkennung der Laufbahnbefähigung aufgrund der Richtlinie 2005/36/EG und aufgrund in Drittstaaten erworbener Berufsqualifikationen](0018.md)
 - [§ 19 Andere Bewerberinnen und andere Bewerber](0019.md)
 - [§ 20 Einstellung](0020.md)
-- [§ 21 Dienstliche Beurteilung](0021.md)
+- [§ 21 Dienstliche Beurteilung; Verordnungsermächtigung](0021.md)
 - [§ 22 Beförderungen](0022.md)
+- [§ 22a Aufstieg; Verordnungsermächtigung](0022a.md)
 - [§ 23 Beförderungssperre zwischen zwei Mandaten](0023.md)
 - [§ 24 Führungsämter auf Probe](0024.md)
 - [§ 25 Benachteiligungsverbote](0025.md)
-- [§ 26 Rechtsverordnung über Laufbahnen](0026.md)
+- [§ 26 Ermächtigung zum Erlass von Laufbahn- und Vorbereitungsdienstverordnungen](0026.md)
 
 ## Abschnitt 4 Abordnung, Versetzung und Zuweisung
 
@@ -92,7 +93,7 @@
 ### Unterabschnitt 1 Allgemeine Pflichten und Rechte
 
 - [§ 60 Grundpflichten](0060.md)
-- [§ 61 Wahrnehmung der Aufgaben, Verhalten](0061.md)
+- [§ 61 Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild](0061.md)
 - [§ 62 Folgepflicht](0062.md)
 - [§ 63 Verantwortung für die Rechtmäßigkeit](0063.md)
 - [§ 64 Eidespflicht, Eidesformel](0064.md)
@@ -171,7 +172,7 @@
 
 ## Abschnitt 8 Bundespersonalausschuss
 
-- [§ 119 Aufgaben](0119.md)
+- [§ 119 Aufgaben; Verordnungsermächtigung](0119.md)
 - [§ 120 Mitglieder](0120.md)
 - [§ 121 Rechtsstellung der Mitglieder](0121.md)
 - [§ 122 Geschäftsordnung](0122.md)

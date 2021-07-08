@@ -5,9 +5,9 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Anwendung beamtenrechtlicher Vorschriften](0002.md)
-- [§ 3 Laufbahnen](0003.md)
+- [§ 3 Laufbahnen; Verordnungsermächtigung](0003.md)
 - [§ 4 Polizeidienstunfähigkeit](0004.md)
-- [§ 5](0005.md)
+- [§ 5 Ruhestand wegen Erreichens der Altersgrenze](0005.md)
 - [§ 6](0006.md)
 
 ## Abschnitt II Polizeivollzugsbeamte in der Bundespolizei
