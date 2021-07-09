@@ -75,7 +75,7 @@
 - [§ 47 Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle](0047.md)
 - [§ 48 Rasterfahndung](0048.md)
 - [§ 49 Verdeckter Eingriff in informationstechnische Systeme](0049.md)
-- [§ 50 Postbeschlagnahme](0050.md)
+- [§ 50 Postbeschlagnahme und Auskunftsverlangen](0050.md)
 - [§ 51 Überwachung der Telekommunikation](0051.md)
 - [§ 52 Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten](0052.md)
 - [§ 53 Identifizierung und Lokalisierung von Mobilfunkkarten und -endgeräten](0053.md)

@@ -129,7 +129,7 @@
 ## Abschnitt 9 Übergangs- und Schlussvorschriften
 
 - [§ 71 Rechtsverordnungen, allgemeine Verwaltungsvorschriften](0071.md)
-- [§ 72 Übergangsregelung zu den §§ 43, 43b und 44](0072.md)
+- [§ 72 Übergangsregelungen zu den §§ 6, 43, 43b und 44](0072.md)
 - [§ 73 Übergangsregelung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung](0073.md)
 - [§ 74 Übergangsregelung zu den Änderungen der Anlage I durch das Besoldungsstrukturenmodernisierungsgesetz](0074.md)
 - [§ 74a Übergangsregelung aus Anlass der Übertragung ehebezogener Regelungen im öffentlichen Dienstrecht auf Lebenspartnerschaften](0074a.md)

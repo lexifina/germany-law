@@ -1,4 +1,4 @@
-# Gesetz zur Weiterentwicklung der Marktstruktur im Agrarbereich
+# Gesetz zur Stärkung der Organisationen und Lieferketten im Agrarbereich
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 

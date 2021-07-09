@@ -3,6 +3,7 @@
 - [§ 1 Geltungsbereich](0001.md)
 - [§ 2 Dienstreisen](0002.md)
 - [§ 3 Anspruch auf Reisekostenvergütung](0003.md)
+- [§ 3a Vollständig automatisierter Erlass des Bescheides über die Reisekostenvergütung](0003a.md)
 - [§ 4 Fahrt- und Flugkostenerstattung](0004.md)
 - [§ 5 Wegstreckenentschädigung](0005.md)
 - [§ 6 Tagegeld](0006.md)

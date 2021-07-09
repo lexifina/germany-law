@@ -12,7 +12,7 @@ Die in den Bundesbesoldungsordnungen A und B gesperrt gedruckten Amtsbezeichnung
 3. die Fachrichtung.
 Die Grundamtsbezeichnungen „Rat“, „Oberrat“, „Direktor“, „Leitender Direktor“, „Direktor und Professor“, „Erster Direktor“, „Oberdirektor“, „Präsident“ und „Präsident und Professor“ dürfen nur in Verbindung mit einem Zusatz nach Satz 2 verliehen werden.
 (3)
-Über die Beifügung der Zusätze zu den Grundamtsbezeichnungen entscheidet das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen. Das Bundesministerium des Innern, für Bau und Heimat macht die Zusätze zu den Grundamtsbezeichnungen jährlich zum 1. März im Gemeinsamen Ministerialblatt bekannt.
+Über die Beifügung der Zusätze zu den Grundamtsbezeichnungen der Bundesbesoldungsordnung B entscheidet das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen. Das Bundesministerium des Innern, für Bau und Heimat macht die Zusätze zu den Grundamtsbezeichnungen der Bundesbesoldungsordnung B jährlich zum 1. März im Gemeinsamen Ministerialblatt bekannt.
 (4)
 Die Regelungen in der Bundesbesoldungsordnung A für Ämter des mittleren, gehobenen und höheren Polizeivollzugsdienstes – mit Ausnahme des kriminalpolizeilichen Vollzugsdienstes – gelten auch für die Polizeivollzugsbeamten beim Deutschen Bundestag. Diese führen die Amtsbezeichnungen des Polizeivollzugsdienstes mit dem Zusatz „beim Deutschen Bundestag“.
 2. „Direktor und Professor“ in den Besoldungsgruppen B 1, B 2 und B 3
@@ -50,7 +50,7 @@ Den Grundamtsbezeichnungen beigefügte Zusätze bezeichnen die Funktionen, die d
 II. Stellenzulagen
 4. Zulage für militärische Führungsfunktionen
 (1)
-Eine Stellenzulage nach Anlage IX erhalten Soldaten in Besoldungsgruppen bis A 14 in einer Verwendung
+Eine Stellenzulage nach Anlage IX erhalten Soldaten in Besoldungsgruppen bis A 14
 1. als Kompaniechef oder in vergleichbarer Führungs- oder Ausbildungsfunktion,
 2. als Zugführer oder in vergleichbarer Führungs- oder Ausbildungsfunktion,
 3. als Gruppenführer oder in vergleichbarer Führungs- oder Ausbildungsfunktion,
@@ -59,7 +59,7 @@ Eine Stellenzulage nach Anlage IX erhalten Soldaten in Besoldungsgruppen bis A 1
 (2)
 Sofern mehrere Voraussetzungen des Absatzes 1 gleichzeitig erfüllt sind, wird nur die höhere Zulage gewährt.
 (3)
-Die Zulage nach Absatz 1 wird neben einer anderen Stellenzulage nur gewährt, soweit sie diese übersteigt.
+Die Zulage nach Absatz 1 wird neben einer anderen Stellenzulage nur gewährt, soweit sie diese übersteigt. Neben einer Amtszulage in der Besoldungsgruppe A 13 wird die Zulage nach Absatz 1 nicht gewährt.
 (4)
 Das Nähere regelt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch allgemeine Verwaltungsvorschrift.
 4a. Zulage für Soldaten als Kompaniefeldwebel
@@ -195,7 +195,7 @@ Eine Stellenzulage nach Anlage IX erhalten auch Beamte und Soldaten in einer Ver
 2. Angehörige einer Besatzung anderer, als der unter Nummer 1 genannter seegehender Schiffe,
 3. Taucher für den maritimen Einsatz.
 (4)
-Die Stellenzulage wird neben einer anderen Stellenzulage, mit Ausnahme der Stellenzulage nach Nummer 4a oder Nummer 9, nur gewährt, soweit sie diese übersteigt.
+Die Stellenzulage wird neben einer anderen Stellenzulage, mit Ausnahme der Stellenzulage nach Nummer 4a, Nummer 8a oder Nummer 9, nur gewährt, soweit sie diese übersteigt.
 (5)
 Das Nähere kann die oberste Bundesbehörde durch allgemeine Verwaltungsvorschriften im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen regeln.
 10. Zulage für Beamte und Soldaten im Einsatzdienst der Feuerwehr
@@ -217,6 +217,8 @@ Eine Stellenzulage nach Anlage IX erhalten bis zum 31. Dezember 2023
 (2)
 Bei gleichzeitigem Vorliegen der Voraussetzungen nach Absatz 1 Nummer 2 Buchstabe a und b wird die Stellenzulage nur einmal gewährt.
 (3)
+Die Zulage nach Absatz 1 Nummer 2 wird um den Betrag nach Anlage IX erhöht, wenn der Soldat als Angehöriger einer Besatzung in Dienst gestellter seegehender Schiffe der Marine oder anderer Seestreitkräfte verwendet wird. Erfüllt der Soldat entsprechende Aufgaben auf einem solchen Schiff auf Grund einer Kommandierung, ohne zur Besatzung zu gehören, erhält er diesen Betrag anteilig für die Dauer der Kommandierung.
+(4)
 Den Erwerb und die Erhaltung der Zusatzqualifikation Rettungsmedizin regelt das Bundesministerium der Verteidigung durch allgemeine Verwaltungsvorschrift.
 12. Zulage für Beamte mit Meisterprüfung oder Abschlussprüfung als staatlich geprüfter Techniker
 Beamte in Laufbahnen des mittleren Dienstes, in denen die Meisterprüfung oder die Abschlussprüfung als staatlich geprüfter Techniker vorgeschrieben ist, erhalten, wenn sie die Prüfung bestanden haben, eine Stellenzulage nach Anlage IX.
@@ -389,6 +391,7 @@ Kanzler Erster Klasse,
 Konsul
 Kustos
 Legationsrat
+Militärrabbiner
 Oberamtsrat
 Oberrechnungsrat
 – als Prüfungsbeamter beim Bundesrechnungshof –
@@ -410,6 +413,7 @@ Akademischer Oberrat
 – als wissenschaftlicher Mitarbeiter an einer Hochschule –
 Konsul Erster Klasse
 Legationsrat Erster Klasse
+Militärrabbiner
 Oberkustos
 Oberrat
 Pfarrer
@@ -438,6 +442,7 @@ Direktor
 Generalkonsul
 Gesandter
 Hauptkustos
+Koordinierender Militärrabbiner
 Museumsdirektor und Professor
 Vortragender Legationsrat
 Direktor einer Fachschule
@@ -468,6 +473,7 @@ Leitender Akademischer Direktor
 – als wissenschaftlicher Mitarbeiter an einer Hochschule –
 Leitender Dekan
 Leitender Direktor
+Leitender Militärrabbiner
 Ministerialrat
 – bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –
 Museumsdirektor und Professor
@@ -514,7 +520,7 @@ Abteilungsdirektor bei der Deutschen Rentenversicherung Bund
 – als Leiter einer besonders großen und besonders bedeutenden Abteilung –
 Abteilungsdirektor bei der Deutschen Rentenversicherung Knappschaft-Bahn-See
 – als Leiter einer besonders großen und besonders bedeutenden Abteilung –
-Abteilungspräsident beim Bundesversicherungsamt
+Abteilungspräsident beim Bundesamt für Soziale Sicherung
 – als Leiter einer besonders großen und besonders bedeutenden Abteilung –
 Botschafter
 Bundesbankdirektor
@@ -526,7 +532,7 @@ Kurator der Museumsstiftung Post und Telekommunikation
 Leitender Postdirektor
 – bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost –
 – bei der Deutschen Post AG –
-– bei der DB Privat- und Firmenkundenbank AG –
+– bei der Deutschen Bank AG –
 – bei der Deutschen Telekom AG –
 Ministerialrat
 – bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –,
@@ -572,6 +578,7 @@ Erster Direktor
 Generaldirektor der Deutschen Nationalbibliothek
 Generalkonsul
 Gesandter
+Leiter des Militärrabbinats
 Militärgeneraldekan
 Militärgeneralvikar
 Ministerialdirigent

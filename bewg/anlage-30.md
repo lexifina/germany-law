@@ -2,29 +2,21 @@
 
 | Nutzungsteil Gemüsebau |
 | Bewertungsfaktor für | Flächeneinheit | in EUR |
-| Flächen | pro Ar | 13,21 |
-| im Freiland und für Kleingarten- und Dauerkleingartenland |  |  |
+| Flächen im Freiland und für Kleingarten- und Dauerkleingartenland | pro Ar | 12,35 |
 | Zuschläge für | Flächeneinheit | in EUR |
-| Flächen | pro Ar | 44,14 |
-| unter Glas und Kunststoffen |  |  |
+| Flächen unter Glas und Kunststoffen | pro Ar | 45,00 |
 | Nutzungsteil Blumen-/Zierpflanzenbau |
 | Bewertungsfaktor für | Flächeneinheit | in EUR |
-| Flächen | pro Ar | 28,13 |
-| im Freiland |  |  |
+| Flächen im Freiland | pro Ar | 27,60 |
 | Zuschläge für | Flächeneinheit | in EUR |
-| Flächen | pro Ar | 64,77 |
-| unter Glas und Kunststoffen |  |  |
+| Flächen unter Glas und Kunststoffen | pro Ar | 65,15 |
 | Nutzungsteil Obstbau |
 | Bewertungsfaktor für | Flächeneinheit | in EUR |
-| Flächen | pro Ar | 10,18 |
-| im Freiland |  |  |
+| Flächen im Freiland | pro Ar | 9,53 |
 | Zuschläge für | Flächeneinheit | in EUR |
-| Flächen | pro Ar | 44,14 |
-| unter Glas und Kunststoffen |  |  |
+| Flächen unter Glas und Kunststoffen | pro Ar | 45,00 |
 | Nutzungsteil Baumschulen |
 | Bewertungsfaktor für | Flächeneinheit | in EUR |
-| Flächen | pro Ar | 21,52 |
-| im Freiland |  |  |
+| Flächen im Freiland | pro Ar | 22,29 |
 | Zuschläge für | Flächeneinheit | in EUR |
-| Flächen | pro Ar | 64,77 |
-| unter Glas und Kunststoffen |  |  |
+| Flächen unter Glas und Kunststoffen | pro Ar | 65,15 |
