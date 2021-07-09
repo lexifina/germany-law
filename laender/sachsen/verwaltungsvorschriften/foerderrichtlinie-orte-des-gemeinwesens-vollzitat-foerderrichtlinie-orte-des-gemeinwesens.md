@@ -1,0 +1,402 @@
+# Förderrichtlinie Orte des Gemeinwesens Vollzitat: Förderrichtlinie Orte des Gemeinwesens
+
+- Herausgeber: Freistaat Sachsen
+- Datum: 2021-07-09 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19219.1
+- Text: REVOSax-Seite der Fassung, als Text
+- Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
+
+---
+
+Zur Portalnavigation
+
+Zum Hauptinhalt
+
+Zum Footer-Bereich
+
+REVOSax – Landesrecht Sachsen
+
+Portalnavigation
+
+REVOSax
+
+Hauptinhalt
+
+Historische Fassung
+
+war gültig vom
+09.07.2021
+bis
+15.12.2022
+
+Förderrichtlinie Orte des Gemeinwesens
+
+Vollzitat: Förderrichtlinie Orte des Gemeinwesens vom 22. Juni 2021 (SächsABl. S. 874), die zuletzt durch die Richtlinie vom  6. Juli 2023 (SächsABl. S. 1060) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  4. Dezember 2025 (SächsABl. SDr. S. S 272)
+
+Teil 1
+Allgemeine Bestimmungen
+
+I.
+Zuwendungszweck, Rechtsgrundlagen
+
+1.
+
+Der Freistaat Sachsen gewährt nach den §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in den jeweils geltenden Fassungen und nach Maßgabe dieser Richtlinie Zuwendungen zur Förderung des sozialen Miteinanders im Freistaat Sachsen und der demokratischen Kultur im lokalen Gemeinwesen.
+
+2.
+
+Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+
+3.
+
+Nach Maßgabe dieser Förderrichtlinie können nur Maßnahmen gefördert werden, für die keine Förderung nach anderen Programmen des Freistaates Sachsen beantragt werden kann.
+
+
+II.
+Gegenstand der Förderung
+
+Gefördert werden folgende Maßnahmen:
+
+A.
+
+Landesprogramm „Soziale Orte“,
+
+B.
+
+Landesprogramm „Orte der Demokratie“
+
+
+III.
+Verfahren
+
+1.
+
+Die jeweilige Bewilligungsbehörde ist in Teil 2 „Besondere Bestimmungen“ benannt.
+
+2.
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
+
+3.
+
+Der Verwendungsnachweis ist innerhalb von vier Monaten nach Ablauf des Bewilligungszeitraums bei der jeweiligen Bewilligungsbehörde vorzulegen. Bei überjährigen Bewilligungen hat der Zuwendungsempfänger innerhalb von vier Monaten nach Ablauf eines Haushaltsjahres über die in diesem Jahr erhaltenen Beträge einen Zwischennachweis bei der jeweiligen Bewilligungsbehörde vorzulegen. Die Vordrucke der jeweiligen Bewilligungsbehörde sind dabei zu verwenden.
+
+
+IV.
+Besondere Zuwendungsbestimmung
+
+Die Träger aller geförderten Maßnahmen müssen auf dem Boden der freiheitlichen demokratischen Grundordnung stehen und haben eine den Zielen des Grundgesetzes förderliche Arbeit zu gewährleisten. Der Zuwendungsempfänger darf nach seiner Satzung oder seinem tatsächlichen Verhalten keine Bestrebungen im Sinne des § 3 Absatz 1 des Sächsischen Verfassungsschutzgesetzes vom 16. Oktober 1992 (SächsGVBl. S. 459), das zuletzt durch Artikel 1 des Gesetzes vom 3. Mai 2019 (SächsGVBl. S. 312) geändert worden ist, in der jeweils geltenden Fassung, unterhalten oder fördern. Diese Formulierung ist auch in den Zuwendungsbescheid aufzunehmen. Der Zuwendungsempfänger hat diese Bestimmung während des gesamten Bewilligungszeitraums zu erfüllen. Ein Verstoß hat den Widerruf und die Rückforderung der Zuwendung zur Folge.
+
+Teil 2
+Besondere Bestimmungen
+
+A.
+Landesprogramm „Soziale Orte“
+
+I.
+Zuwendungszweck
+
+Zweck der Zuwendung ist die Stärkung des lokalen Gemeinwesens, insbesondere im ländlichen Raum. Durch die Zuwendung sollen vornehmlich lokale Gruppen darin unterstützt werden, Orte der Begegnung und des Austausches zu schaffen, fortzuführen oder auszubauen. Hierdurch sollen Strukturen vor Ort gefestigt, erneuert oder neu geschaffen werden, in denen soziale Angebote von lokalem Nutzen erbracht werden können. Insbesondere soll der gesellschaftliche Zusammenhalt in benachteiligten Quartieren oder in von Abwanderung geprägten Gemeinden gefördert werden.
+
+II.
+Gegenstand der Förderung
+
+Gefördert werden Maßnahmen, die die Gestaltung und den Ausbau von Sozialen Orten zum Ziel haben. Soziale Orte werden insbesondere durch die folgenden Merkmale charakterisiert:
+
+a)
+
+Sie dienen der Begegnung und dem Austausch unterschiedlicher Zielgruppen untereinander und miteinander.
+
+b)
+
+Sie sind zielgruppen- und themenübergreifend ausgerichtet und gemeinwesenorientiert. Sie dienen der Verfolgung gemeinnütziger Ziele.
+
+c)
+
+Es werden durch sie Menschen vor Ort zur gemeinschaftlichen Beteiligung am lokalen Gemeinwesen aktiviert.
+
+d)
+
+Sie stehen als Orte für gemeinnützige soziale Dienstleistungen zur Verfügung. Die geschaffenen Räume stehen nach Möglichkeit auch anderen Nutzerinnen, Nutzern und Nutzergruppen zur selbstorganisierten Nutzung offen.
+
+e)
+
+Sie sind an den lokalen und gemeinwesenorientierten Erfordernissen ausgerichtet und in lokale oder regionale Netzwerke eingebunden.
+
+
+III.
+Zuwendungsempfänger
+
+Zuwendungsempfänger können sein
+
+1.
+
+gemeinnützige Vereine, Verbände und gemeinnützige Gesellschaften, die juristische Personen des Privatrechts sind,
+
+2.
+
+juristische Personen des öffentlichen Rechts außerhalb der Staatsverwaltung des Freistaates.
+
+
+IV.
+Zuwendungsvoraussetzungen
+
+1.
+
+Förderfähig sind Maßnahmen, die im Freistaat Sachsen durchgeführt werden. Der Träger muss im Freistaat ansässig sein und seine lokale Verankerung darstellen.
+
+2.
+
+Die Maßnahmen werden grundsätzlich in Gemeinden mit weniger als 40 000 Einwohnerinnen und Einwohnern durchgeführt oder weisen einen konkreten bedarfs­orientierten Stadtteilbezug auf.
+
+3.
+
+Besteht für die zu fördernden Maßnahmen auch eine Förderung durch Programme des Bundes oder der Europäischen Union (EU), erfolgt die Förderung nach dieser Richtlinie grundsätzlich nachrangig.
+
+
+V.
+Art und Umfang, Höhe der Förderung
+
+1.
+
+Die Zuwendung wird im Rahmen einer Projektförderung als Anteilsfinanzierung in Form eines Zuschusses gewährt. Maßnahmen können mit einer maximalen Dauer von bis zu drei Jahren bewilligt werden. Eine einmalige Verlängerung um bis zu maximal zwei Jahre bis längstens 31. Dezember 2024 ist auf Antrag möglich.
+
+2.
+
+Der Fördersatz beträgt bis zu 90 Prozent der zuwendungsfähigen Ausgaben, in begründeten Ausnahmefällen bis zu 100 Prozent. Bezüglich der Vollfinanzierung hat der Zuwendungsempfänger nachzuweisen, dass die Erbringung des Eigenanteils wegen fehlender Eigenmittel unmöglich und die Erbringung von unbaren Leistungen unzumutbar ist.
+
+3.
+
+Zuwendungsfähig sind projektbezogene Personal- und Sachausgaben.
+
+4.
+
+Investitionen können gefördert werden, wenn sie zur Gestaltung des Sozialen Ortes zwingend notwendig sind. Darüber entscheidet die Bewilligungsbehörde im Einvernehmen mit dem zuständigen Ministerium. Zuwendungsfähig sind grundsätzlich Instandsetzung, Modernisierung und Erneuerung (Umbau beziehungsweise Ausbau) von Gebäuden sowie notwendige Ausstattung für den Sozialen Ort bis zu einer Höhe von 50 000 Euro je Maßnahme.
+
+5.
+
+Der Eigenanteil im Projekt kann durch projektbezogene unbare Leistungen des Zuwendungsempfängers erbracht werden. Diese können als Arbeitsleistungen in Form von unbezahlten freiwilligen Arbeitsstunden erfolgen; die Stundenbewertung entspricht der Höhe des jeweils gültigen Mindestlohns gemäß § 1 Absatz 2 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt durch Artikel 2 Absatz 1 des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1657) geändert worden ist. Der Wert der unbaren Leistungen darf 5 000 Euro pro Maßnahme nicht übersteigen. Der Wert der unbaren Leistungen muss im Einzelnen in der Antragstellung und im Verwendungsnachweisverfahren dargestellt werden.
+
+
+VI.
+Verfahren
+
+1.
+
+Bewilligungsbehörde ist die Sächsische Aufbaubank – Förderbank (SAB).
+
+2.
+
+Im Vorfeld der Antragstellung ist ein Interessenbekundungsverfahren durchzuführen. Für die Interessenbekundung haben interessierte Träger bei der Bewilligungsbehörde ein Konzept zur Ausgestaltung eines Sozialen Ortes unter Berücksichtigung der jeweiligen lokalen Situation vorzulegen. Das Konzept muss die Gesamtzielsetzung und die vorgesehenen einzelnen Bestandteile der Maßnahme beschreiben sowie einen vorläufigen Zeitplan und eine vorläufige Ausgabenplanung enthalten.
+
+3.
+
+Die Interessenbekundung muss zu einem bestimmten Stichtag erfolgen, auf den mindestens einen Monat zuvor im Sächsischen Amtsblatt hingewiesen wurde. Die Auswahlkritierien werden mit dem Aufruf zur Interessenbekundung bekannt gemacht.
+
+4.
+
+Die Bewilligungsbehörde überprüft sowohl die Eignung der interessierten Träger als auch die Eignung der von ihnen vorgelegten Konzepte im Hinblick auf den Zuwendungszweck. Hält sie die Eignung eines Trägers und seines Konzeptes für gegeben, fordert sie ihn auf, einen Förderantrag zu stellen.
+
+5.
+
+Die Bewilligungsbehörde kann nur im Einvernehmen mit dem Sächsischen Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt (SMS) zur Antragstellung auffordern. Das SMS hat vor Erteilung seines Einvernehmens die Stellungnahme eines von der Staatsministerin berufenen unabhängigen Beirates einzuholen.
+
+6.
+
+Der Beirat hat ausschließlich beratende Funktion. Seine Mitglieder sind persönlich und fachlich unabhängig. Sie werden nicht als Repräsentantinnen oder Repräsentanten von bestimmten Institutionen berufen, sondern allein wegen ihrer Sachkunde. Gleichwohl soll der Beirat in seiner Zusammensetzung eine große Bandbreite von Bereichen widerspiegeln, die für den Fördergegenstand relevant sind. Es sollen insbesondere Fachleute aus der Kommunalverwaltung, der Wirtschaft, der Wissenschaft und der Zivilgesellschaft berufen werden.
+
+7.
+
+Die Bewilligungsbehörde erteilt denjenigen Trägern, die sie nicht zur Antragstellung aufgefordert hat, einen ablehnenden Bescheid.
+
+
+B.
+Landesprogramm „Orte der Demokratie“
+
+I.
+Zuwendungszweck
+
+Zweck der Zuwendung ist die Stärkung des lokalen Gemeinwesens insbesondere im ländlichen Raum. Durch die Zuwendung sollen vornehmlich lokale Gruppen darin unterstützt werden, Orte der Demokratie und des demokratischen Austausches zu schaffen, fortzuführen oder auszubauen. Hierdurch sollen Strukturen in Quartieren und Gemeinden vor Ort gefördert, gefestigt, erneuert oder neu geschaffen werden, in denen demokratiestärkende Angebote von lokalem Nutzen erbracht werden können. Insbesondere sollen an diesen Orten Methoden und Praktiken politischer Debatte und Meinungsbildung Anwendung finden, die die Demokratie stärken.
+
+II.
+Gegenstand der Förderung
+
+Gefördert werden Maßnahmen, die der Gestaltung und dem Ausbau von Orten der Demokratie dienen. Orte der Demokratie werden insbesondere durch die folgenden Merkmale charakterisiert:
+
+a)
+
+Sie dienen der Begegnung, dem Austausch und der Vernetzung gemischter Zielgruppen untereinander und miteinander. Gemischte Zielgruppen zeichnen sich durch hohe Heterogenität aus und bilden die Gesellschaft vor Ort in möglichst großer Breite ab.
+
+b)
+
+Sie ermöglichen Diskussionen, Debatten und Meinungsbildung zu den vor Ort relevanten Themen.
+
+c)
+
+Es werden gemischte Zielgruppen begleitet und unterstützt, um Methoden und Praktiken der politischen Debatte und Meinungsbildung zu erproben, anzuwenden und zu vertiefen, um so demokratische Kompetenzen zu erweitern.
+
+d)
+
+Sie stehen als Orte für demokratiebezogene Maßnahmen zur Verfügung. Die geschaffenen Räume stehen nach Möglichkeit auch anderen auch anderen Nutzerinnen, Nutzern und Nutzergruppen für deren selbstorganisierte Prozesse demokratischer Praxis zur Verfügung.
+
+e)
+
+Sie sind an den lokalen und gemeinwesenorientierten Erfordernissen ausgerichtet und in lokale oder regionale Netzwerke eingebunden.
+
+
+III.
+Zuwendungsempfänger
+
+Zuwendungsempfänger können sein
+
+1.
+
+gemeinnützige Vereine, Verbände und gemeinnützige Gesellschaften, die juristische Personen des Privatrechts sind,
+
+2.
+
+juristische Personen des öffentlichen Rechts außerhalb der Staatsverwaltung des Freistaates.
+
+
+IV.
+Zuwendungsvoraussetzungen
+
+1.
+
+Förderfähig sind Maßnahmen, die im Freistaat Sachsen durchgeführt werden. Der Träger muss im Freistaat ansässig sein und seine lokale Verankerung darstellen.
+
+2.
+
+Ein Träger erhält Zuwendungen, wenn folgende Voraussetzungen erfüllt sind:
+
+
+a)
+
+Die Maßnahme findet grundsätzlich in Gemeinden mit weniger als 40 000 Einwohnerinnen und Einwohnern statt oder weist einen konkreten bedarfs­orientierten Stadtteilbezug auf.
+
+
+b)
+
+Für die Durchführung des Projektes steht ein konkreter Ort (Raum, Immobilie, Grundstück) zur Verfügung oder in Aussicht.
+
+
+c)
+
+Der Träger ist bereit, mit einer durch die Bewilligungsbehörde beauftragten externen wissenschaftlichen Begleitung zusammenzuarbeiten und am Wissenstransfer mitzuwirken. Im Bewilligungsbescheid wird der vom Zuwendungsempfänger erwartete Umfang der Zusammenarbeit mit der externen wissenschaftlichen Begleitung und der Mitwirkung am Wissenstransfer konkretisiert.
+
+3.
+
+Besteht für die zu fördernden Maßnahmen auch eine Förderung durch Programme des Bundes oder der Europäischen Union (EU), erfolgt die Förderung nach dieser Richtlinie grundsätzlich nachrangig.
+
+
+V.
+Art, Umfang und Höhe der Zuwendung
+
+1.
+
+Die Zuwendung wird im Rahmen einer Projektförderung als Anteilsfinanzierung in Form eines Zuschusses gewährt. Maßnahmen können mit einer maximalen Dauer von bis zu drei Jahren bewilligt werden. Eine einmalige Verlängerung um bis zu maximal zwei Jahre bis längstens 31. Dezember 2024 ist auf Antrag möglich.
+
+2.
+
+Die maximale Zuwendungshöhe beträgt grundsätzlich 100 000 Euro pro Jahr. Der Fördersatz beträgt bis zu 90 Prozent der zuwendungsfähigen Ausgaben, in begründeten Ausnahmefällen bis zu 100 Prozent. Bezüglich der Vollfinanzierung hat der Zuwendungsempfänger nachzuweisen, dass die Erbringung des Eigenanteils wegen fehlender Eigenmittel unmöglich und die Erbringung von unbaren Leistungen unzumutbar ist.
+
+3.
+
+Zuwendungsfähig sind projektbezogene Personal- und Sachausgaben.
+
+4.
+
+Investitionen können gefördert werden, wenn sie zur Gestaltung eines Ortes der Demokratie zwingend notwendig sind. Darüber entscheidet die Bewilligungsbehörde. Zuwendungsfähig sind grundsätzlich Instandsetzung, Modernisierung und Erneuerung (Umbau beziehungsweise Ausbau) von Gebäuden sowie notwendige Ausstattung für den Ort der Demokratie, insbesondere die für Digitalisierungsprozesse notwendige technische Ausstattung bis zu einer Höhe von 100 000 Euro je Maßnahme, jedoch nicht mehr als 35 Prozent der Gesamtzuwendung.
+
+5.
+
+Der Eigenanteil im Projekt kann durch projektbezogene unbare Leistungen des Zuwendungsempfängers erbracht werden. Diese können als Arbeitsleistungen in Form von unbezahlten freiwilligen Arbeitsstunden erfolgen; die Stundenbewertung entspricht der Höhe des jeweils gültigen Mindestlohns gemäß § 1 Absatz 2 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt durch Artikel 2 Absatz 1 des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1657) geändert worden ist. Der Wert der unbaren Leistungen darf 5 000 Euro pro Maßnahme und Zuwendungsempfänger nicht übersteigen. Der Wert der unbaren Leistungen muss im Einzelnen in der Antragsstellung und im Verwendungsnachweisverfahren dargestellt werden.
+
+
+VI.
+Verfahren
+
+1.
+
+Bewilligungsbehörde ist das Sächsische Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung.
+
+2.
+
+Im Vorfeld der Antragstellung ist ein Interessenbekundungsverfahren durchzuführen. Für die Interessenbekundung haben interessierte Träger bei der Bewilligungsbehörde ein Konzept zur Ausgestaltung eines Ortes der Demokratie unter Berücksichtigung der jeweiligen lokalen Situation vorzulegen. Das Konzept muss die Gesamtzielsetzung und die vorgesehenen einzelnen Bestandteile der Maßnahme beschreiben sowie einen vorläufigen Zeitplan und eine vorläufige Ausgabenplanung enthalten.
+
+3.
+
+Die Interessenbekundung muss zu einem bestimmten Stichtag erfolgen, auf den mindestens einen Monat zuvor im Sächsischen Amtsblatt hingewiesen wurde. Die Auswahlkritierien werden mit dem Aufruf zur Interessenbekundung bekannt gemacht.
+
+4.
+
+Die Bewilligungsbehörde überprüft sowohl die Eignung der interessierten Träger als auch die Eignung der von ihnen vorgelegten Konzepte im Hinblick auf den Zuwendungszweck. Hält sie die Eignung eines Trägers und seines Konzeptes für gegeben, fordert sie ihn auf, einen Förderantrag zu stellen.
+
+5.
+
+Die Bewilligungsbehörde hat vor Aufforderung zur Antragstellung die Stellungnahme eines Beirates einzuholen.
+
+6.
+
+Der Beirat wird von der Bewilligungsbehörde berufen und hat ausschließlich beratende Funktion. Seine Mitglieder sind persönlich und fachlich unabhängig tätig. Sie werden nicht als Repräsentantinnen oder Repräsentanten von bestimmten Institutionen berufen, sondern allein wegen ihrer Sachkunde. Gleichwohl soll der Beirat in seiner Zusammensetzung eine große Bandbreite von Bereichen widerspiegeln, die für den Fördergegenstand relevant sind. Es sollen insbesondere Fachleute aus Landesbehörden oder Kommunalverwaltungen, der politischen Bildung, der Wissenschaft und der Zivilgesellschaft berufen werden.
+
+7.
+
+Die Bewilligungsbehörde erteilt denjenigen Trägern, die sie nicht zur Antragstellung aufgefordert hat, einen ablehnenden Bescheid.
+
+
+Teil 3
+Inkrafttreten
+
+Diese Richtlinie tritt am Tag nach der Veröffentlichung in Kraft.
+
+Dresden, den 22. Juni 2021
+
+Die Staatsministerin für Soziales und Gesellschaftlichen Zusammenhalt
+Petra Köpping
+
+Die Staatsministerin der Justiz und für Demokratie, Europa und Gleichstellung
+Katja Meier
+
+Verweis auf Bundesgesetze
+
+Fundstelle und systematische Gliederungsnummer
+
+SächsABl. 2021 Nr. 27, S. 874
+
+Fsn-Nr.: 5500-V21.1
+
+Gültigkeitszeitraum
+
+Fassung gültig ab:  9. Juli 2021
+
+Fassung gültig bis: 15. Dezember 2022
+
+Drucken/Speichern
+
+HTML-Gesamtansicht
+
+Vorschrift als PDF
+
+Einzeldruck
+
+Hilfe
+
+Hilfe
+
+Hilfe zu Historische Fassungen
+
+Fragen und Antworten
+
+Barrierefreiheit
+
+|  |
+
+|  |
+
+Quelle: REVOSax
+https://www.revosax.sachsen.de/vorschrift/19219.1
+Stand vom
+18.11.2026
+
+Herausgeber: Sächsische Staatskanzlei https://www.sk.sachsen.de/
