@@ -27,7 +27,7 @@ Teil 4 Verfahrensregeln für die Programm- und Systemakkreditierung
 § 22 Entscheidung des Akkreditierungsrats, Verleihung des Siegels
 § 23 Vorzulegende Unterlagen
 § 24 Beauftragung einer Agentur, Akkreditierungsgutachten, Begehung
-§ 25 Zusammensetzung des Gutachtergremiums, Anforderungen an die Gutachter
+§ 25 Zusammensetzung des Gutachtergremiums, Anforderungen an die Gutachterinnen und Gutachter
 § 26 Geltungszeitraum der Akkreditierung, Verlängerung
 § 27 Auflagen
 § 28 Anzeigepflicht bei wesentlichen Änderungen
@@ -42,5 +42,4 @@ Teil 6 Alternative Akkreditierungsverfahren nach Artikel 3 Absatz 1 Nummer 3 des
 Teil 7 Sonstiges
 § 35 Verbindung mit Verfahren, die die berufszulassungsrechtliche Eignung eines Studiengangs zum Gegenstand haben
 § 36 Evaluation
-§ 37 Übergangsregelung
-§ 38 Inkrafttreten
+§ 37 Inkrafttreten
