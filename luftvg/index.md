@@ -72,7 +72,7 @@ und Flugwetterdienst
 - [§ 27a](0027a.md)
 - [§ 27b](0027b.md)
 - [§ 27c](0027c.md)
-- [§ 27d](0027d.md)
+- [§ 27d Flugsicherungsdienste, Verordnungsermächtigung](0027d.md)
 - [§ 27e](0027e.md)
 - [§ 27f](0027f.md)
 
@@ -99,7 +99,7 @@ Enteignung
 - [§ 31c](0031c.md)
 - [§ 31d](0031d.md)
 - [§ 31e](0031e.md)
-- [§ 31f](0031f.md)
+- [§ 31f Beauftragung einer Flugsicherungsorganisation, Verordnungsermächtigung](0031f.md)
 - [§ 32](0032.md)
 - [§ 32a](0032a.md)
 - [§ 32b](0032b.md)

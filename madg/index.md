@@ -14,6 +14,7 @@
 - [§ 10 Übermittlung von Informationen an den Militärischen Abschirmdienst](0010.md)
 - [§ 11 Übermittlung personenbezogener Daten durch den Militärischen Abschirmdienst](0011.md)
 - [§ 12 Verfahrensregeln für die Übermittlung von Informationen](0012.md)
-- [§ 12a Unabhängige Datenschutzkontrolle](0012a.md)
 - [§ 13 Anwendung des Bundesdatenschutzgesetzes](0013.md)
+- [§ 13a Unabhängige Datenschutzkontrolle](0013a.md)
 - [§ 14 Besondere Auslandsverwendungen](0014.md)
+- [§ 15 Einschränkung von Grundrechten](0015.md)

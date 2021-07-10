@@ -32,8 +32,7 @@
 - [§ 10 Unterrichtung der zentralen Adoptionsstelle des Landesjugendamtes](0010.md)
 - [§ 11 Aufgaben der zentralen Adoptionsstelle des Landesjugendamtes](0011.md)
 - [§ 12 (weggefallen)](0012.md)
-- [§ 13 Ausstattung der zentralen Adoptionsstelle des
-Landesjugendamtes](0013.md)
+- [§ 13 Ausstattung der zentralen Adoptionsstelle des Landesjugendamtes](0013.md)
 
 ## Zweiter Abschnitt Ersatzmutterschaft
 
@@ -52,4 +51,3 @@ Landesjugendamtes](0013.md)
 
 - [§ 15 Anzuwendendes Recht](0015.md)
 - [§ 16 Bericht](0016.md)
-- [(XXXX) §§ 17 bis 22 (weggefallen)](xxxx-17-bis-22.md)

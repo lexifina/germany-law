@@ -140,13 +140,13 @@ Entscheidung](0024.md)
 - [§ 82 Revisionsverfahren im Disziplinarverfahren](0082.md)
 - [§ 83 Verfahrensvorschriften](0083.md)
 - [§ 84 Verfassungsrichter](0084.md)
-- [(XXXX) §§ 85 bis 103 (Änderungs- und Aufhebungsvorschriften)](xxxx-85-bis-103.md)
 
 ## Vierter Teil Übergangs- und Schlußvorschriften
 
 
 ### Erster Abschnitt Änderung von Bundesrecht
 
+- [(XXXX) §§ 85 bis 103 (Änderungs- und Aufhebungsvorschriften)](xxxx-85-bis-103.md)
 - [§ 104 Verweisung auf aufgehobene Vorschriften](0104.md)
 
 ### Zweiter Abschnitt Überleitung von Rechtsverhältnissen

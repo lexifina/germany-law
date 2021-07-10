@@ -16,7 +16,7 @@
 - [§ 8 Befugnisse des Bundesamtes für Verfassungsschutz](0008.md)
 - [§ 8a Besondere Auskunftsverlangen](0008a.md)
 - [§ 8b Verfahrensregelungen zu besonderen Auskunftsverlangen](0008b.md)
-- [§ 8c Einschränkungen eines Grundrechts](0008c.md)
+- [§ 8c (weggefallen)](0008c.md)
 - [§ 8d Besondere Auskunftsverlangen zu Bestandsdaten](0008d.md)
 - [§ 9 Besondere Formen der Datenerhebung](0009.md)
 - [§ 9a Verdeckte Mitarbeiter](0009a.md)
@@ -44,8 +44,9 @@
 - [§ 24 Minderjährigenschutz](0024.md)
 - [§ 25 Pflichten des Empfängers](0025.md)
 - [§ 26 Nachberichtspflicht](0026.md)
-- [§ 26a Unabhängige Datenschutzkontrolle](0026a.md)
 
 ## Vierter Abschnitt Schlußvorschriften
 
 - [§ 27 Anwendung des Bundesdatenschutzgesetzes](0027.md)
+- [§ 28 Unabhängige Datenschutzkontrolle](0028.md)
+- [§ 29 Einschränkung von Grundrechten](0029.md)

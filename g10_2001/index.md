@@ -4,7 +4,7 @@
 ## Abschnitt 1 Allgemeine Bestimmungen
 
 - [§ 1 Gegenstand des Gesetzes](0001.md)
-- [§ 2 Pflichten der Anbieter von Post- und Telekommunikationsdiensten](0002.md)
+- [§ 2 Pflichten der Anbieter von Post- und Telekommunikationsdiensten; Verordnungsermächtigung](0002.md)
 
 ## Abschnitt 2 Beschränkungen in Einzelfällen
 
@@ -34,6 +34,7 @@
 
 - [§ 14 Parlamentarisches Kontrollgremium](0014.md)
 - [§ 15 G 10-Kommission](0015.md)
+- [§ 15a Eilanordnung](0015a.md)
 - [§ 16 Parlamentarische Kontrolle in den Ländern](0016.md)
 
 ## Abschnitt 6 Straf- und Bußgeldvorschriften
@@ -46,3 +47,4 @@
 
 - [§ 20 Entschädigung](0020.md)
 - [§ 21 Einschränkung von Grundrechten](0021.md)
+- [§ 22 Übergangsregelung](0022.md)
