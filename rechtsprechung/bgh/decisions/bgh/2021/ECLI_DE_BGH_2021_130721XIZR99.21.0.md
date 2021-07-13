@@ -1,0 +1,83 @@
+---
+ecli: "ECLI:DE:BGH:2021:130721XIZR99.21.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-11"
+aktenzeichen: "XI ZR 99/21"
+decided: "2021-07-13"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2021&Sort=1&Seite=68&nr=120577&anz=3571&pos=2067&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-11_NA_2021-07-13_XI_ZR_99_21_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/zpo/0097.md", "germany/bund/acts/zpo/0543.md", "germany/bund/acts/zpo/0544.md"]
+---
+
+# Bundesgerichtshof, XI ZR 99/21 vom 2021-07-13
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                        BESCHLUSS
+XI ZR 99/21
+
+                                vom
+
+                            13. Juli 2021
+
+                         in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2021:130721BXIZR99.21.0
+
+                                      -2-
+
+
+
+Der XI. Zivilsenat des Bundesgerichtshofs hat am 13. Juli 2021 durch den
+Vizepräsidenten Prof. Dr. Ellenberger, den Richter Dr. Matthias, die Richterin
+Dr. Menges, den Richter Dr. Schild von Spannenberg sowie die Richterin Dr. Allgayer
+
+
+beschlossen:
+
+
+      Der Antrag des Klägers auf Aussetzung des Verfahrens wird zurückgewiesen.
+
+      Die Nichtzulassungsbeschwerde des Klägers gegen den Beschluss des
+      16. Zivilsenats des Oberlandesgerichts Düsseldorf vom 12. Februar
+      2021 wird zurückgewiesen, weil die Rechtssache keine grundsätzliche
+      Bedeutung hat und die Fortbildung des Rechts sowie die Sicherung einer
+      einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts
+      nicht erfordern (§ 543 Abs. 2 Satz 1 ZPO). Das Berufungsgericht hat die
+      Grundsätze der Senatsurteile vom 7. November 2017 (XI ZR 369/16,
+      WM 2018, 45 Rn. 17) und vom 27. Oktober 2020 (XI ZR 498/19,
+      BGHZ 227, 253 Rn. 27 f.) auf den konkreten Einzelfall angewendet.
+      Grundsatzfragen im Sinne des § 543 Abs. 2 Satz 1 Nr. 1 ZPO wirft diese
+      Verfahrensweise nicht auf (vgl. im Übrigen Senatsbeschlüsse vom
+      31. März 2020 - XI ZR 198/19, WM 2020, 838, das BVerfG hat die hiergegen eingelegte Verfassungsbeschwerde mit Beschluss vom 4. August
+      2020 - 1 BvR 1138/20 - nicht zur Entscheidung angenommen, vom 4. Mai
+      2021 - XI ZR 562/20, juris und vom 8. Juni 2021 - XI ZR 18/21, juris). Von
+      einer weiteren Begründung wird gemäß § 544 Abs. 6 Satz 2 Halbsatz 2
+      ZPO abgesehen.
+
+      Der Kläger trägt die Kosten des Beschwerdeverfahrens (§ 97 Abs. 1
+      ZPO).
+
+                                   -3-
+
+
+
+      Der Gegenstandswert des Beschwerdeverfahrens beträgt bis 95.000 €.
+
+
+
+
+Ellenberger                         Matthias                         Menges
+
+        Schild von Spannenberg                          Allgayer
+
+
+
+Vorinstanzen:
+LG Wuppertal, Entscheidung vom 06.03.2020 - 4 O 414/19 -
+OLG Düsseldorf, Entscheidung vom 12.02.2021 - I-16 U 222/20 -
