@@ -1,0 +1,192 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-07-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6434222
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6434222
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 5.2.1.: European Championships Munich 2022
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.2: Planfeststellung
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 1.1.7.: entfällt
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5.1.: Bericht Ortstermin Rudi-Hierl-Platz am 5. Juli um 16 Uhr
+- TOP 2.5.2.: Bericht Ortstermin Kreuzung Ludwigstraße/Adalbertstraße am 12. Juli um 16 Uhr
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: BA-Angelegenheiten
+- TOP 1.5.: Beschluss Ferienausschuss
+- TOP 2.: Sonstiges
+- TOP A: Allgemeines
+- TOP 6.1.: Ottostraße – Öffnung der Einbahnregelung für den Radverkehr endlich umsetzen
+- TOP 6.2.: Antrag: Nachfragen zum Maßmannpark
+- TOP 6.3.: Antwort Wirtschaftsreferent zum Königsplatz
+- TOP 6.4.: Neue Baumstandorte im öffentlichen Grund
+- TOP 6.5.: Sportstätten der European Championships auf dem Königsplatz nach den Wettbewerben erhalten und öffentlich zugänglich machen
+- TOP 6.6.: Schachfelder an der Glyptothek
+- TOP 6.7.: Antwort Arnulfsteg reparieren
+- TOP 6.8.: Anträge Urbanes Wohnen Info
+- TOP 6.9.: Nachfrage zum Nachbarschaftstreff Arnulfpark
+- TOP 6.10.: Planung eines Bildungsbusses
+- TOP 6.11.: Antwort auf Bürgeranliegen Altstadttunnel
+- TOP 6.12.: Antwort auf Bürgeranliegen zum Georg-Elser-Platz Schreiben der Bezirksinspektion
+- TOP 6.13.: Kultur auf der IAA MOBILITY
+- TOP 6.14.: Nachgehakt: Tempo 30 in der Rottmannstraße / Schleißheimer Straße
+- TOP 6.15.: Umsetzung einer auf Kinder hinweisenden Bodenmarkierung vor der Türkenschule
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Mietenexplosion in der Schönfeldstraße, Skandalöses Verhalten der Eigentümerin Dawonia (ehemals GBW) Bürgeranliegen vom 23.06.21
+- TOP 1.1.2.: Im Dunstkreis der Stadtsparkasse: vermeintlich vorgeschobene Eigenbedarfskündigung nach 18 Jahren; Gentrifizierung im Stadtteil Maxvorstadt Bürgeranliegen vom 16.06.21
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Ausverkauf der Maxvorstadt verhindern – Denkmalgeschützte Fassade in der Theresienstraße 158 vor Abriss schützen
+- TOP 1.2.2.: Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden
+- TOP 1.2.3.: Bepflanzung der Straßenbäume mit Efeu
+- TOP 1.2.4.: Fallstudie zu Verdrängungsprozessen auf dem Wohnungsmarkt
+- TOP 1.2.5.: Alter Botanischer Garten
+- TOP 2.1.1.: Baulisten der LBK: 22., 23., 24.und 25.KW
+- TOP 2.1.2.: WEB-Listen der LBK: 22.-23. KW
+- TOP 2.1.3.: Arnulfstr. 29-31, Einbau einer Verbindungstreppe zwischen einer Betriebskantine und einer Büronutzungseinheit sowie Büroumbau
+- TOP 2.1.4.: Königinstr. 9-11, TEKTUR Sanierung Haus Nr.9-11, mit anteiliger Nutzungsänderung von Verwaltung zu Wohnen, Hofbebauung, Abbruch und Neubau eines Zwischengebäudes
+- TOP 2.2.1.: Planfeststellung nach §§ 18 Abs. 1, 18 d Allgemeines Eisenbahngesetz (AEG), § 28 Abs. 1 Personenbeförderungsgesetz (PBefG), §§ 76 Abs. 1 und 78 Verwaltungsverfahrensgesetz (VwVfG) – Anhörungsverfahren- Hauptbahnhof
+- TOP 3.2.1.: Baumpflanzungen Georgenstraße- Anhörung
+- TOP 5.1.: Entfernung eines Gefahrenbaums am Georg-Elser Platz / Robinie
+- TOP 5.2.: Verbesserung der Baumschutzverordnung gegen illegale Fällungen
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: (U) Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Verordnung zur Änderung der Verordnung der Landeshauptstadt München zum Schutz der Naturdenkmäler (Naturdenkmalverordnung) vom 08.09.2011
+- TOP 5.5.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 5.6.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2019 bis 2040 für die Landeshauptstadt
+- TOP 5.7.: (U) Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2019 bis 2040 für die Stadtbezirke
+- TOP 5.8.: Unterrichtung Bescheid Fällung Linprunstraße
+- TOP 5.9.: (U) Bebauungspläne sofort stoppen - Klimatische Gutachten für die Gesamtstadt einführen Antrag Nr. 20-26 / A 00177 von der Fraktion ÖDP / FW vom 29.06.2020, eingegangen am 29.06.2020
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Alter Botanischer Garten
+- TOP 1.1.2.: Georg-Elser-Platz Toilettenhäuschen
+- TOP 1.1.3.: Antrag Umwandlung 2 KFZ-Stellplätze in Fahrradabstellplätze an Ecke Georgen-/ Schraudolphstraße Bürgeranliegen vom 11.06.21
+- TOP 1.1.4.: Lärmbelästigung durch Partyvolk aus dem Englischen Garten Bürgeranliegen vom 11.06.21
+- TOP 1.1.5.: Stadtterrasse Blutenburgstraße Bürgeranliegen vom 14.06.21
+- TOP 1.1.6.: Radweg Görresstraße unbefahrbar Bürgeranliegen vom 15.06.21
+- TOP 1.1.8.: entfällt
+- TOP 1.1.9.: Baustelle Amalienstr. 53 und Straßenwirtschaften Bürgeranliegen vom 17.06.21
+- TOP 1.1.10.: Partynächte Türkenstraße Bürgeranliegen vom 17.06.21
+- TOP 1.1.11.: Maßnahmen zur Verbesserung der Parkplatzsituation Bürgeranliegen vom 18.06.21
+- TOP 1.1.12.: Anfrage Stadtterrassen Maxvorstadt Bürgeranliegen vom 22.06.21
+- TOP 1.1.13.: Georg-Elser-Platz: Parkbank nun weggerissen / Baum gefällt / Café Zeitgeist nimmt diesen Raum vollständig in Eigennutzung
+- TOP 1.1.14.: Ausnahmezustand Türkenstraße Bürgeranliegen vom 21.06.21
+- TOP 1.1.15.: Antrag Parkplatzmarkierungen für Roller und Motorräder // Max-Joseph-Str. 6 München Bürgeranliegen vom 22.06.21
+- TOP 1.1.16.: Lager Gorillas Lothstr. 3 (Maxvorstadt) Bürgeranliegen vom 22.06.21
+- TOP 1.1.17.: Parksituation Georgenstrasse Bürgeranliegen vom 24.06.21
+- TOP 1.1.18.: Anfrage wegen Situation in der Maxvorstadt Bürgeranliegen vom 20.06.21
+- TOP 1.1.19.: Geplante Sperrung Ludwigstraße bis Siegestor Bürgeranliegen vom 24.06.21
+- TOP 1.1.20.: Arnulfstrasse 60 - Fußgängerüberweg bei Regen Bürgeranliegen vom 22.06.21
+- TOP 1.1.21.: Lärmbelästigung Biergarten Atzinger Bürgeranliegen vom 24.06.21
+- TOP 1.1.22.: Beschwerde wegen der Partymeile auf der Ludwig-und Leopoldstraße Bürgeranliegen vom 25.06.21
+- TOP 1.1.23.: Maxvorstadt - man kann nicht mehr Bürgeranliegen vom 25.06.21
+- TOP 1.1.24.: Ruhestörung Univiertel Bürgeranliegen vom 27.06.21
+- TOP 1.1.25.: Fahrradverkehr: Gefährliche Baustelle Bürgeranliegen vom 28.06.21
+- TOP 1.1.26.: Kontrollierbares Feiern auf dem Königsplatz Bürgeranliegen vom 28.06.21
+- TOP 1.1.27.: Feiermeile Ludwigstraße Bürgeranliegen vom 29.06.21
+- TOP 1.1.28.: Stadtterrasse Blutenburgstraße Bürgeranliegen vom 29.06.21
+- TOP 1.1.29.: Verbot Mitführen von Glasbehältnissen Bürgeranliegen vom 29.06.21
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Gesamtkonzept für den Odeonsplatz
+- TOP 1.2.2.: Unklare Beschilderung der Radverkehrsanlagen an der Kreuzung Türken- / Gabelsbergerstraße beseitigen
+- TOP 1.2.3.: entfällt
+- TOP 1.2.4.: Fahrbahnverengung und -verschmutzung durch die Baustelle in der Türkenstraße
+- TOP 1.2.5.: Gehwegparker Kreittmayrstraße
+- TOP 1.2.6.: Reparatur von Maillinger- und Karlstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Beschlussentwurf Radwegrückbau
+- TOP 2.2.1.: Königsplatz | EC 2022 Anhörungsverfahren für "Klettern am KöPl vom 11.-21.08.2022 "
+- TOP 2.2.2.: Königsplatz | EC 2022 Anhörungsverfahren für "BEACHVOLLEYBALL am KöPl vom 11.- 21.08.2022 "
+- TOP 2.2.3.: Odeonsplatz | EC 2022 Anhörungsverfahren für "Marathon am 15.08.2022 "
+- TOP 2.2.4.: (E) Stadtbezirksbudget Münchner Haus der Schüler*innen Stadtterasse von Mitte Juni - Oktober 2021 300,00 Euro, Az.: 0262.0-3-0358
+- TOP 2.2.5.: Internationale Automobilausstellung 2021 – Open Space – vom 07.09.-12.09.2021
+- TOP 2.2.6.: (E) Stadtbezirksbudget Initiative "Stadtterrasse Blutenburgstraße" Stadtterrasse in der Blutenburgstraße 2 vom 11.08. - 31.10.2021 170,00 Euro, Az.: 0262.0-3-0359
+- TOP 2.3.1.: Dachauer Str. 149/rechts; Neuantrag Freischankfläche
+- TOP 2.3.2.: Brienner Str. 55, erlaubnisfreie Gaststätte; Neuantrag Freischankfläche
+- TOP 2.3.3.: Türkenstr. 33, Antrag auf Erweiterung der ParkplatzFSF
+- TOP 2.3.4.: Türkenstr. 80 - Versetzung eines Fahrradständers und Antrag auf eine ParkplatzFSF
+- TOP 2.3.5.: Erzgießereistr. 48/rechts, Gaststätte,Neuantrag Gehweg-Freischankfläche
+- TOP 2.3.6.: Schleißheimer Str. 13, Neuantrag Parkplatz-Freischankfläche
+- TOP 2.3.7.: Schleißheimer Str. 5, Neuantrag Parkplatz-Freischankfläche
+- TOP 2.3.8.: Dachauer Str. 149 / links, Backshop Neuantrag fassadenseitige FSF
+- TOP 2.3.9.: Kreittmayrstr. 2, Gaststätte Neuantrag Parkplatz-Freischankfläche
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Türkenstr. 74/Georg-Elser-Platz -Café Zeitgeist-Reduzierung der Außenfläche
+- TOP 3.2.: Antrag Stadtterrasse BI Mitte
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: (U) Neufassung vom 16.06.2021 Satzung der Landeshauptstadt München zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des Mobilitätsverhaltens für die Bewertung der Modellprojekte City2Share, Smarter Together und CIVITAS ECCENTRIC
+- TOP 3.5.: entfällt
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Beteiligung der Bezirksausschüsse 1 und 3 auf der IAA Mobility
+- TOP 3.8.: Eilentscheid BA Anhörung: Ladesäulen in der Finkenstraße und Gabelsbergerstraße/Arcisstraße (Standortbegehung vim 15.06.2021)
+- TOP 3.9.: Eilentscheid Bez. 03, Kunstareal mit Straßensperrung Gabelsbergerstr. | Anhörung § 29 StVO für "Kunstarealfest" vom 15.07. - 21.07.2021 | Anhörungsfrist: 07.07.2021
+- TOP 3.10.: Plakate am Josephsplatz (AKIM)
+- TOP 3.11.: Elisenstraße - Radfahrstreifen – verkehrsrechtliche AO
+- TOP 3.12.: Gabelsbergerstraße - Radfahrstreifen – verkehrsrechtliche AO
+- TOP 3.13.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.14.: Vollzug der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Mülleinsammlung durch die Einsammelpartie 01-059 bis 30.11.2021 ab 5:30 Uhr
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Instandsetzung Maßmannpark
+- TOP 1.2.2.: AKIM personell aufstocken
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Reiterer Weber-Ebnet GbR Woche der baukulturellen Bildung: Denkwerkstatt für junge Stadtmacher:innen am 12.07.2021 1.750,00 Euro, Az.: 0262.0-3-0345
+- TOP 2.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Dachauer Straße 98 Digital-Tag 2021: Sicher im Internet am 01.07.2021 1.025,00 Euro, Az.: 0262.0-3-0350
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Carillion
+- TOP 1.2.2.: Sommer in der Stadt und weitere Veranstaltungen auf dem Königsplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget foolpool GbR Straßentheater PLAN B aus München für München ab 27.06.2021 - November 2021 9.499,00 Euro, Az.: 0262.0-3-0349
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Zwischennutzungs-Projekt" Künstlerisches Zwischennutzungs-Projekt in der Kaulbachstraße 1 vom 01.09. - 30.09.2021 13.433,00 Euro, Az.: 0262.0-3-0355
+- TOP 2.3.: (E) Stadtbezirksbudget Schnitzer& GmbH EUROPA Lichtinstallation vom 15.07. - Herbst 2021 2.500,00 Euro, Az.: 0262.0-3-0352
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "Lost Weekend" Kunstprojekt "Lost Weekend meets Young ART" vom 28.06.2021 - 01.06.2022 3.576,00 Euro, Az.: 0262.0-3-0357
+- TOP 2.5.: (E) Stadtbezirksbudget eigenleben gemeinnützige GmbH Windsbräute über der Sommerstraße ab 20.07.2021 während Sommerstraße 4 Wochen 4.800,00€; Az. 0262.0-3-0
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Temporäres Kunstprojekt "Space in Action" auf dem Museumsvorplatz des Lenbachhauses
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1.1.: Runden Tisch der Migrationsbeauftragten etablieren - Benennung einer Person aus dem BA als Migrations- bzw. Integrationsbeauftragte*r bis zum 30.06.2021
+- TOP 1.2.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018-2020; hier: Anhörung der Bezirksausschüsse
+- TOP 1.3.: Zusätzliche Restmittel Stadtbezirksbudget
+- TOP 1.4.: Stadtratsbeschluss BA-Hybridsitzungen
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
