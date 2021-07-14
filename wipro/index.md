@@ -23,7 +23,6 @@
 - [§ 8a Anerkannte Hochschulausbildungsgänge, Rechtsverordnung](0008a.md)
 - [§ 9 Voraussetzungen für die Zulassung (Prüfungstätigkeit)](0009.md)
 - [(XXXX) §§ 10, 10a und 11 (weggefallen)](xxxx-10-10a-und-11.md)
-- [§ 11a](0011a.md)
 
 ### Zweiter Abschnitt Prüfung
 
@@ -33,7 +32,6 @@
 - [§ 13b Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen, Rechtsverordnung](0013b.md)
 - [§ 14 Einzelheiten des Prüfungsverfahrens](0014.md)
 - [§ 14a Zulassungsgebühr, Prüfungsgebühr](0014a.md)
-- [(XXXX) §§ 14b und 14c (weggefallen)](xxxx-14b-und-14c.md)
 
 ### Dritter Abschnitt Bestellung
 
@@ -46,14 +44,14 @@
 - [§ 20 Rücknahme und Widerruf der Bestellung](0020.md)
 - [§ 20a Ärztliches Gutachten im Widerrufsverfahren](0020a.md)
 - [§ 21 Zuständigkeit](0021.md)
-- [§ 22](0022.md)
+- [§ 22 (weggefallen)](0022.md)
 - [§ 23 Wiederbestellung](0023.md)
-- [§ 24](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 
 ### Vierter Abschnitt
 
-- [§ 25](0025.md)
-- [§ 26](0026.md)
+- [§ 25 (weggefallen)](0025.md)
+- [§ 26 (weggefallen)](0026.md)
 
 ### Fünfter Abschnitt Wirtschaftsprüfungsgesellschaften
 
@@ -65,8 +63,8 @@
 - [§ 32 Bestätigungsvermerke](0032.md)
 - [§ 33 Erlöschen der Anerkennung](0033.md)
 - [§ 34 Rücknahme und Widerruf der Anerkennung](0034.md)
-- [§ 35](0035.md)
-- [§ 36](0036.md)
+- [§ 35 (weggefallen)](0035.md)
+- [§ 36 (weggefallen)](0036.md)
 
 ### Sechster Abschnitt Allgemeine Vorschriften
 für das Verwaltungsverfahren
@@ -84,7 +82,7 @@ für das Verwaltungsverfahren
 ### Achter Abschnitt Verwaltungsgerichtliches Verfahren
 
 - [§ 41 Unmittelbare Klage gegen Bescheide der Wirtschaftsprüferkammer](0041.md)
-- [§ 42](0042.md)
+- [§ 42 (weggefallen)](0042.md)
 
 ## Dritter Teil Rechte und Pflichten der
 Wirtschaftsprüfer
@@ -202,7 +200,7 @@ zur Verschwiegenheit](0078.md)
 - [(XXXX) §§ 95 bis 97 (weggefallen)](xxxx-95-bis-97.md)
 - [§ 98 Hauptverhandlung trotz Ausbleibens der Berufsangehörigen](0098.md)
 - [§ 99 Nichtöffentliche Hauptverhandlung](0099.md)
-- [§ 100](0100.md)
+- [§ 100 (weggefallen)](0100.md)
 - [§ 101 Beweisaufnahme durch einen ersuchten Richter](0101.md)
 - [§ 102 Verlesen von Protokollen](0102.md)
 - [§ 103 Entscheidung](0103.md)
@@ -277,7 +275,6 @@ Buchprüfungsgesellschaften
 - [§ 131k Bestellung](0131k.md)
 - [§ 131l Rechtsverordnung](0131l.md)
 - [§ 131m Bescheinigungen des Herkunftsmitgliedstaats](0131m.md)
-- [§ 131n](0131n.md)
 
 ## Zehnter Teil Straf- und Bußgeldvorschriften
 
