@@ -1,0 +1,7 @@
+# TOP 3.1: Dokumentation zum Expertenworkshop
+
+- Sitzung: Rat (29. Sitzung) (2021-07-15)
+- Körperschaft: Gemeinde Wallenhorst
+- Öffentlich: ja
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/53691
+- Beratung: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/15728
