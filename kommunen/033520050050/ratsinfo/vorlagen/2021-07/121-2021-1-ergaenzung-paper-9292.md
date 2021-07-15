@@ -1,0 +1,23 @@
+# Neuaufstellung des Flächennutzungsplanes (Ergebnis der erneuten Beteiligung der Öffentlichkeit und der Behörden; Feststellungsbeschluss)
+
+- Körperschaft: Gemeinde Schiffdorf
+- Drucksache/Vorlage: 121/2021 - 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2021-07-15
+- Ratsinformationssystem: https://schiffdorf.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbF47QpsSA1nJBFbRq47OuQ
+- OParl: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/9292
+- Quelle: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Neuaufstellung des Flächennutzungsplanes (Ergebnis der erneuten Beteiligung der Öffentlichkeit und der Behörden; Feststellungsbeschluss)) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWMYmOtEyxLagfeHymtZeNf-OIGnZz1GTtIQdisVIS3Z/Beschlussvorlage_121-2021_-_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (FNP-neu: Beschlussvorschläge erneute Beteiligung - Öffentlichkeit) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVl0-di4bCiT8WiIvQGE-6HZrS8JOoGu0WIUTmUti2Wm/FNP-neu-_Beschlussvorschlaege_erneute_Beteiligung_-_Oeffentlichkeit.lnk
+- Anlage: Beschlussvorlage (FNP-neu: Beschlussvorschläge erneute Beteiligung - Behörden) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeSC1XDmfKtyR-JFJa9EfvxJP-8WQydpP5aMdOHX5vsm/FNP-neu-_Beschlussvorschlaege_erneute_Beteiligung_-_Behoerden.lnk
+- Anlage: Beschlussvorlage (FNP-neu: Planzeichnung - Feststellungsexemplar) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXykVHWTNG1gXB1EiUCFh-qFS4LwR412ULdlMB5AFjkj/FNP-neu-_Planzeichnung_-_Feststellungsexemplar.lnk
+- Anlage: Beschlussvorlage (FNP-neu: Begründung - Feststellungsexemplar) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRD75WKeBRCIWzTw1qEiu-LPl8LMhfXyhI12KezecW3t/FNP-neu-_Begruendung_-_Feststellungsexemplar.lnk
+- Anlage: Beschlussvorlage (FNP-neu: Anhang (Artenschutz)) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWabYusBAFnNljDIX8a4TPe2BAEF-kpADLoBmnoSWW_l/FNP-neu-_Anhang_-Artenschutz-.lnk
+- Anlage: Beschlussvorlage (FNP-neu: Anhang (Neudarstellungen)) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZakcuhSxX5EOdJgIXSbb4cSeElRTasiQvIFFaxellb__/FNP-neu-_Anhang_-Neudarstellungen-.lnk
+- Anlage: Beschlussvorlage (FNP-neu: Anhang (Potenzialflächen)) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd56nZel1LGS_1_BgpvGKRgkLStIkKzL_6ErFt9piWXl/FNP-neu-_Anhang_-Potenzialflaechen-.lnk
+- Anlage: Beschlussvorlage (FNP-neu: Anhang (Baulücken)) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfrtiQBUwFSxhz-MQGYVSlVvll3gAqy38TqzUbuFqkYO/FNP-neu-_Anhang_-Bauluecken-.lnk
+- Anlage: Beschlussvorlage (Eignungsflächenanalyse "Windenergienutzung") https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZchDzd53dhw2SKSh0mxTMOcA8mJPq9ttcvhbwVIr30HG/Eignungsflaechenanalyse_-Windenergienutzung-.lnk
+- Anlage: Beschlussvorlage (Eignungsflächenanalyse "Gewerbliche Tierhaltung") https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUywFXvmTApS5AECk2ROuDD4kvxV77_1H7jb03gR62xe/Eignungsflaechenanalyse_-Gewerbliche_Tierhaltung-.lnk
+- Anlage: Beschlussvorlage (Eignungsflächenanalyse "Freiflächen-Photovoltaikanlagen") https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXqJ836j9W7mxRXVG9oMV-ykjFQ_sRoRe4Ai1zqJPu2z/Eignungsflaechenanalyse_-Freiflaechen-Photovoltaikanlagen-.lnk
+- Beratung:  https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5286 https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-33
