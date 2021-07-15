@@ -1,0 +1,38 @@
+# Anlage 3 (zu § 20 Absatz 5 undAnlage 2 Nummer 4 und 5)Äquivalenzfaktoren
+
+Für den nach Anlage 2 zu bildenden Summenwert für polychlorierte Dibenzodioxine, Dibenzofurane und dl-PCB sind die im Abgas ermittelten Konzentrationen der nachstehend genannten Dioxine, Furane und dl-PCB mit den angegebenen Äquivalenzfaktoren zu multiplizieren und zu summieren:
+| Stoff | Äquivalenzfaktor |
+| Polychlorierte Dibenzodioxine (PCDD) | WHO-TEF 2005 |
+| 2,3,7,8 | – Tetrachlordibenzodioxin (TCDD) | 1 |
+| 1,2,3,7,8 | – Pentachlordibenzodioxin (PeCDD) | 1 |
+| 1,2,3,4,7,8 | – Hexachlordibenzodioxin (HxCDD) | 0,1 |
+| 1,2,3,7,8,9 | – Hexachlordibenzodioxin (HxCDD) | 0,1 |
+| 1,2,3,6,7,8 | – Hexachlordibenzodioxin (HxCDD) | 0,1 |
+| 1,2,3,4,6,7,8 | – Heptachlordibenzodioxin (HpCDD) | 0,01 |
+| Octachlordibenzodioxin (OCDD) | 0,0003 |
+| Polychlorierte Dibenzofurane (PCDF) | WHO-TEF 2005 |
+| 2,3,7,8 | – Tetrachlordibenzofuran (TCDF) | 0,1 |
+| 2,3,4,7,8 | – Pentachlordibenzofuran (PeCDF) | 0,3 |
+| 1,2,3,7,8 | – Pentachlordibenzofuran (PeCDF) | 0,03 |
+| 1,2,3,4,7,8 | – Hexachlordibenzofuran (HxCDF) | 0,1 |
+| 1,2,3,7,8,9 | – Hexachlordibenzofuran (HxCDF) | 0,1 |
+| 1,2,3,6,7,8 | – Hexachlordibenzofuran (HxCDF) | 0,1 |
+| 2,3,4,6,7,8 | – Hexachlordibenzofuran (HxCDF) | 0,1 |
+| 1,2,3,4,6,7,8 | – Heptachlordibenzofuran (HpCDF) | 0,01 |
+| 1,2,3,4,7,8,9 | – Heptachlordibenzofuran (HpCDF) | 0,01 |
+| Octachlordibenzofuran (OCDF) | 0,0003 |
+| Polychlorierte Biphenyle | WHO-TEF 2005 |
+| Non ortho PCB |  |
+| PCB 77 |  | 0,0001 |
+| PCB 81 |  | 0,0003 |
+| PCB 126 |  | 0,1 |
+| PCB 169 |  | 0,03 |
+| Mono ortho PCB |  |
+| PCB 105 |  | 0,00003 |
+| PCB 114 |  | 0,00003 |
+| PCB 118 |  | 0,00003 |
+| PCB 123 |  | 0,00003 |
+| PCB 156 |  | 0,00003 |
+| PCB 157 |  | 0,00003 |
+| PCB 167 |  | 0,00003 |
+| PCB 189 |  | 0,00003 |

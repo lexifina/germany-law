@@ -1,0 +1,130 @@
+# Anlage 1 (zu § 13 Absatz 1)Brennstoffkontrolle
+
+Bei den Brennstoffkontrollen gemäß § 13 sind die nachfolgenden brennstoffbezogenen Größen zu ermitteln:
+1. bei Einsatz von Biobrennstoffen:
+  a) unterer Heizwert
+  b) Feuchtegehalt
+  c) Aschegehalt
+  d) Gehalt der nachfolgend genannten Stoffe (Bezug wasserfrei):
+    aa) Kohlenstoff
+    bb) Chlor
+    cc) Fluor
+    dd) Stickstoff
+    ee) Schwefel
+    ff) Kalium
+    gg) Natrium
+  e) Gehalt der nachfolgend genannten Schwermetalle (Bezug wasserfrei):
+    aa) Arsen
+    bb) Cadmium
+    cc) Chrom
+    dd) Kupfer
+    ee) Quecksilber
+    ff) Blei
+    gg) Zink
+2. bei Einsatz von festen Brennstoffen, ausgenommen Biobrennstoffe:
+  a) unterer Heizwert
+  b) Feuchtegehalt
+  c) Asche
+  d) flüchtige Bestandteile
+  e) gebundener Kohlenstoff
+  f) Gehalt der nachfolgend genannten Stoffe (Bezug wasserfrei):
+    aa) Kohlenstoff
+    bb) Wasserstoff
+    cc) Stickstoff
+    dd) Sauerstoff
+    ee) Schwefel
+    ff) Brom
+    gg) Chlor
+    hh) Fluor
+  g) Gehalt der nachfolgend genannten Schwermetalle (Bezug wasserfrei):
+    aa) Arsen
+    bb) Cadmium
+    cc) Cobalt
+    dd) Chrom
+    ee) Kupfer
+    ff) Quecksilber
+    gg) Mangan
+    hh) Nickel
+    ii) Blei
+    jj) Antimon
+    kk) Thallium
+    ll) Vanadium
+    mm) Zink
+3. bei Einsatz von flüssigen Brennstoffen, ausgenommen leichtes Heizöl:
+  a) unterer Heizwert
+  b) Aschegehalt
+  c) Gehalt der nachfolgend genannten Stoffe:
+    aa) Kohlenstoff
+    bb) Schwefel
+    cc) Stickstoff
+  d) Gehalt der nachfolgend genannten Schwermetalle:
+    aa) Nickel
+    bb) Vanadium
+4. bei Einsatz von leichtem Heizöl:
+  a) unterer Heizwert
+  b) Aschegehalt
+  c) Gehalt der nachfolgend genannten Stoffe:
+    aa) Kohlenstoff
+    bb) Schwefel
+    cc) Stickstoff
+5. bei Einsatz von Erdgas:
+  a) unterer Heizwert
+  b) Wobbe-Index
+  c) Gehalt der nachfolgend genannten Stoffe:
+    aa) Methan
+    bb) Ethan
+    cc) Propan
+    dd) Butan
+    ee) Kohlendioxid
+    ff) Stickstoff
+6. bei Einsatz von flüssigen und gasförmigen Rückständen aus der chemischen Industrie:
+  a) Gehalt der nachfolgend genannten Stoffe:
+    aa) Brom
+    bb) Chlor
+    cc) Fluor
+    dd) Kohlenstoff
+    ee) Wasserstoff
+    ff) Stickstoff
+    gg) Sauerstoff
+    hh) Schwefel
+  b) Gehalt der nachfolgend genannten Schwermetalle:
+    aa) Arsen
+    bb) Cadmium
+    cc) Cobalt
+    dd) Chrom
+    ee) Kupfer
+    ff) Quecksilber
+    gg) Mangan
+    hh) Nickel
+    ii) Blei
+    jj) Antimon
+    kk) Thallium
+    ll) Vanadium
+    mm) Zink
+  die Liste der nach Nummer 6 zu bestimmenden Stoffe kann auf jene Stoffe begrenzt werden, von denen auf der Grundlage von Informationen über die vorgelagerten Prozesse und die dort eingesetzten Einsatzstoffe erwartet werden kann, dass sie im Brennstoff vorhanden sind;
+7. bei Einsatz von Koksofen- und Hochofengas:
+  a) unterer Heizwert
+  b) Wobbe-Index
+  c) Gehalt der nachfolgenden Stoffe:
+    aa) Methan (bei Einsatz von Koksofengas)
+    bb) höhere Kohlenwasserstoffe (bei Einsatz von Koksofengas)
+    cc) Kohlenmonoxid
+    dd) Kohlendioxid
+    ee) Wasserstoff
+    ff) Stickstoff
+    gg) Schwefel
+    hh) Staub
+8. bei Einsatz von anderen als den in den Nummern 5 und 7 genannten gasförmigen Brennstoffen:
+  a) unterer Heizwert
+  b) Wobbe-Index
+  c) Gehalt der nachfolgend genannten Stoffe:
+    aa) Methan
+    bb) Ethan
+    cc) Propan
+    dd) Butan
+    ee) Kohlenmonoxid
+    ff) Kohlendioxid
+    gg) Wasserstoff
+    hh) Stickstoff
+    ii) Schwefel
+    jj) Staub
