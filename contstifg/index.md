@@ -1,4 +1,4 @@
-# Gesetz über die Conterganstiftung für behinderte Menschen
+# Gesetz über die Conterganstiftung
 
 
 ## Abschnitt 1 Allgemeine Vorschriften
@@ -18,7 +18,7 @@
 
 - [§ 11 Verwendung des Stiftungsvermögens](0011.md)
 - [§ 12 Leistungsberechtigte Personen](0012.md)
-- [§ 13 Art und Umfang der Leistungen an behinderte Menschen](0013.md)
+- [§ 13 Art und Umfang der Leistungen](0013.md)
 - [§ 14 Verzinsung](0014.md)
 - [§ 15 Verzicht, Anrechnung von Zahlungen Dritter](0015.md)
 - [§ 16 Gang des Verfahrens](0016.md)
