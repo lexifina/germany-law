@@ -1,0 +1,59 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2021-07-15T17:30:00+02:00
+- Ende: 2021-07-15T19:45:00+02:00
+- Ort: Gymnastikhalle Wallenhorst, Fröbelstraße 2, 49134 Wallenhorst, Gymnastikhalle
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWRoQU622X32s0w9Erl1c6I
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1452
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbbi3GA7qbekpGViaqjf3gT9OnAuZmLclxxIrD8gjHYk/Bekanntmachung_Rat_15.07.2021.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaFuwRU1tt5lf5IHuKAwJoB4vrs65Wh7ML50RnTN6N-g/Oeffentliches_Beschlussprotokoll_Rat_15.07.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 25.03.2021
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Dokumentation zum Expertenworkshop
+- TOP 3.2: Anfrage aus der Sitzung Umwelt, Energie, Klimaschutz und digitale Entwicklung am 8.6.2021
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Antrag der CDW/W-Fraktion auf Anschaffung von Unterflurcontainern zur Altglasentsorgung in den vier zentralen Ortsteillagen der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Antrag der CDW/W-Fraktion auf Einrichtung eines Feierabendmarktes an der Lechtinger Mühle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Satzungsrecht
+- TOP 5.1: Neufassung der Friedhofsgebührensatzung einschließlich Änderung des Gebührentarifs - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Wirtschaftsangelegenheiten
+- TOP 6.1: Verzicht auf eine Jahresabschlussprüfung für das Rumpfgeschäftsjahr 27.03 – 30.04.2020 der Tourismusgesellschaft Osnabrücker Land mbH (TOL) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Aufrechnung der Rückzahlungsforderung der Gesellschafter der TOL aus überkompensierten Beihilfen des Geschäftsjahres 2020 mit der Einlageforderung der TOL auf Erhöhung der Kapitaleinlagen für das Geschäftsjahr 2021 durch Verrechnung mit Wirkung ab 01.08.2021 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.3: Erste Änderung der Konsortialvereinbarung der Gesellschafter der TOL vom 20.03.2020 mit Wirkung ab 01.08.2021 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Umwelt- und Energieangelegenheiten
+- TOP 7.1: Förderung von Regenwasserzisternen und verschiedener Formen von Dachbegrünung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Baugebiet "Westlich Stadtweg" hier: Carsharing-Angebot - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.3: Förderprogramm „Klimaschutzmaßnahmen“ der Gemeinde Wallenhorst - mehrheitlich mit 27 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 8.1: Umsetzung des Radverkehrskonzeptes der Gemeinde Wallenhorst hier: Ausbau des Radweges an der ´Klosterstraße´ zwischen der ´L 109´ und dem Ortseingang Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: Sanierungsverfahren Wallenhorst-Zentrum hier: Satzung zur Aufhebung des Sanierungsverfahrens - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.3: Umgestaltung der Seitenräume entlang der Hollager Straße hier: Beschluss über die Erstellung eine Integrierten Städtebaulichen Entwicklungskonzeptes sowie Beauftragung der Vorbereitenden Untersuchungen gemäß BauGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.4: 4. Änderung des Bebauungsplanes Rulle Nr. 7 "Zwischen Stadtweg und Riedensweg" hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - mehrheitlich mit 21 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.5: Bebauungsplan Nr. 252 „Zwischen Plaggenweg und Tannenkamp" hier: Satzungsbeschluss gem. § 10 (1) Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge im Rahmen der Beteiligung und der erneuten Beteiligung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Kindertagesstätten
+- TOP 9.1: Anpassung der Standards für hauswirtschaftliche Kräfte im Kindertagesstättenbereich - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: Finanzierung der Kinderbetreuung im Landkreis Osnabrück hier: Neufassung der öffentlich-rechtlichen Vereinbarung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Schulangelegenheiten
+- TOP 10.1: Änderung der Richtlinien für die Gewährung von Zuschüssen zum Schüleraustausch - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Einbau eines Aufzugs im Südgebäude der Erich-Kästner-Schule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.3: Kapazitätsausweitung für die Mensa der Erich-Kästner-Schule durch Neubau oder Erweiterung - einstimmig, mit 6 Enthaltung(en) gefasst:
+- TOP 10.4: Neubau einer Schulmensa für die Johannisschule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Sonstige Bildungsangelegenheiten
+- TOP 11.1: Antrag der CDW-Fraktion zum Ausbau der Ferienbetreuung zur Summer School - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Jugendangelegenheiten
+- TOP 12.1: Antrag der Kolpingsfamilie Rulle auf Förderung einer jugendpflegerischen Maßnahme - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Vereine und Bürgerengagement
+- TOP 13.1: Änderung der Richtlinien für die Förderung der städtepartnerschaftlichen Begegnungen von Vereinen, Verbänden und anderen Gruppen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Kämmereiangelegenheiten
+- TOP 14.1: Ergänzung: Genehmigung von Zuwendungen (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.2: Genehmigung der Annahme von Zuwendungen (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.: Anfragen und Anregungen
