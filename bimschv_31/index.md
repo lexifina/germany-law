@@ -1,6 +1,4 @@
-# 31. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
-(Verordnung zur Begrenzung der Emissionen flüchtiger organischer
-Verbindungen bei der Verwendung organischer Lösemittel in bestimmten Anlagen)
+# 31. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen bei der Verwendung organischer Lösemittel in bestimmten Anlagen)
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
