@@ -13,7 +13,7 @@
 - [§ 4 Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln](0004.md)
 - [§ 5 Mitwirkung von Bundesbehörden am Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln](0005.md)
 - [§ 6 Pflanzenschutzmaßnahmen](0006.md)
-- [§ 7 Maßnahmen gegen die Ein- und Verschleppung und Ansiedlung von Schadorganismen](0007.md)
+- [§ 7 (weggefallen)](0007.md)
 - [§ 8 Anordnungen der zuständigen Behörden](0008.md)
 
 ## Abschnitt 3 Allgemeine Anforderungen für Anwender, Händler und Hersteller von Pflanzenschutzmitteln sowie Pflanzenschutzberater
@@ -95,7 +95,7 @@
 - [§ 59 Durchführung in den Ländern](0059.md)
 - [§ 60 Behördliche Anordnungen](0060.md)
 - [§ 61 Mitwirkung von Zolldienststellen](0061.md)
-- [§ 62 Befugte Zollstellen](0062.md)
+- [§ 62 Befugte Zolldienststellen](0062.md)
 
 ## Abschnitt 12 Auskunfts- und Meldepflichten, Übermittlung von Daten, Geheimhaltung
 
