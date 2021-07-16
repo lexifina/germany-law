@@ -1,12 +1,12 @@
 # Inhaltsübersicht
 
-| Geltungsbereich | § 1 |
-| Einfacher Dienst | § 2 |
-| Mittlerer Dienst | § 3 |
-| Gehobener Dienst | § 4 |
-| Höherer Dienst | § 5 |
-| Aufstieg in höhere Laufbahnen | § 6 |
-| Bundesfinanzakademie | § 7 |
-| Ausbildungs- und Prüfungsordnung | § 8 |
-| Übergangsvorschriften | § 9 |
-| (weggefallen) | § 10 |
+| § 1 | Geltungsbereich |
+| § 2 | Einfacher Dienst |
+| § 3 | Mittlerer Dienst |
+| § 4 | Gehobener Dienst |
+| § 5 | Höherer Dienst |
+| § 6 | Aufstieg in höhere Laufbahnen |
+| § 7 | Bundesfinanzakademie |
+| § 8 | Ausbildungs- und Prüfungsordnung |
+| § 9 | Ausnahmen wegen der COVID-19-Pandemie |
+| § 10 | Übergangsvorschrift zu § 9 |

@@ -1,4 +1,4 @@
-# Steuerbeamten-Ausbildungsgesetz
+# Steuerbeamtenausbildungsgesetz
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 - [§ 1 Geltungsbereich](0001.md)
@@ -9,5 +9,5 @@
 - [§ 6 Aufstieg in höhere Laufbahnen](0006.md)
 - [§ 7 Bundesfinanzakademie](0007.md)
 - [§ 8 Ausbildungs- und Prüfungsordnung](0008.md)
-- [§ 9 Übergangsvorschriften](0009.md)
-- [§ 10](0010.md)
+- [§ 9 Ausnahmen wegen der COVID-19-Pandemie](0009.md)
+- [§ 10 Übergangsvorschrift zu § 9](0010.md)
