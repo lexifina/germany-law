@@ -1,0 +1,26 @@
+# Protected Bike Lane in der Siegfriedstraße partizipativ und zeitnah umsetzen
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Drucksache/Vorlage: DS/0641/VIII
+- Art: Vorlage zur Kenntnisnahme (Abb.)
+- Datum: 2021-07-21
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7435
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/papers.asp?id=7435
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=130&id=235525
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4000 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4010 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4030 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4057 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4079 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4103 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4126 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4152 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4170 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4197 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4226 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4247 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4368 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4392 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4365 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=58
+- underDirectionOf: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=150
