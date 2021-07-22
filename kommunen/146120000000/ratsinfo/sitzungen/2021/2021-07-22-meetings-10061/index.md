@@ -1,0 +1,61 @@
+# 28. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-07-22T16:00:00+02:00
+- Ende: 2021-07-22T22:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/10061
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/10061
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00556078.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Aktuelle Stunde zum Thema: „Denkmalschutz für den Neustädter Markt und das Königsufer – das Zustandekommen und die Konsequenzen für die städtebauliche Entwicklung der Inneren Neustadt“ - erledigt
+- TOP 3: Aktuelle Stunde zum Thema "Keine Kürzungen bei Bus und Bahn. Gutachterirrsinn stoppen. Dresdner Verkehrsbetriebe stärken!" - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Anpassung des Elternbeitrags im Fall einer vom Träger der Kindertageseinrichtung pandemiebedingt reduziert angebotenen Öffnungszeit im eingeschränkten Regelbetrieb - Zustimmung
+- TOP 6: Umsetzung der Beschlusspunkte 6 und 7 des Beschlusses V0561/20 zur Haushaltssatzung 2021/2022 - konsumtive und investive Kürzungen - Zustimmung mit Änderung
+- TOP 7: Umverteilung von Haushaltsmitteln - Innovationsbudget - Vertagung
+- TOP 8: Teilweise Aufhebung der Zweckbindung für das verfügbare Ankaufsbudget der WiD Wohnen in Dresden GmbH & Co. KG - Zustimmung
+- TOP 9: Ausbau der Wasser- und Abwassersysteme für den Dresdner Nordraum - Zustimmung mit Änderung
+- TOP 10: Vorhaben- und Erschließungsplan Nr. 641, Dresden-Weißig Nr. 1, Wohn- und Sportpark - Zustimmung
+- TOP 11: Aufarbeitung der Gewaltereignisse im Zusammenhang mit dem Aufstieg der SG Dynamo Dresden und Aufforderung zur Erarbeitung eines schlüssigen Gesamtkonzepts zur Unterbindung von Gewalt und Extremismus im Umfeld des Vereins - punktweise Zustimmung mit Änderung
+- TOP 12: Vertagungen Stadtratssitzung vom 1. Juli 2021
+- TOP 12.1: An die Opfer gruppenbezogener Menschenfeindlichkeit erinnern. Gewaltprophylaxe systematisch betreiben. - punktweise Zustimmung mit Änderung
+- TOP 12.2: Menstruation ist kein Luxus – Für die kostenlose Bereitstellung von Monatshygiene auf städtischen Toiletten - Zustimmung mit Änderung
+- TOP 12.3: Änderung der Ziffer 1 des Beschlusses des Stadtrates vom 2. Juni 2016 zu V0309/15 "Verkauf eines Grundstückes an der Ringstraße" - Zustimmung mit Änderung
+- TOP 12.4: Fachkräftesicherungsstrategie für Dresden – transparent, lokal und regional koordiniert - Ablehnung
+- TOP 12.5: Umsetzung des Maßnahmenkonzeptes für die Herstellung und den Bau eines Touristischen Fußgängerleitsystems - Zustimmung
+- TOP 12.6: Pflege und dauerhafter Erhalt von Historischen Grabstätten auf Dresdner Friedhöfen - punktweise Zustimmung
+- TOP 12.7: Anmietung von Wohnungen für besondere Bedarfsgruppen mit Aufenthaltsstatus Gestattung bzw. Duldung - Ablehnung
+- TOP 12.8: Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Gebühren für Märkte (Marktgebührensatzung) - Vertagung durch Einreicher
+- TOP 12.9: Wiederbelebung der Wirtschaft, des Gastgewerbes und des Mittelstandes in Dresden – Stärkung von Mittelstand und Tourismus - Vertagung durch Einreicher
+- TOP 13: Vergütung der Tätigkeit in den Aufsichtsräten der SachsenEnergie AG und der Technische Werke Dresden GmbH - Vertagung
+- TOP 14: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2021/2022 - Zustimmung mit Ergänzung
+- TOP 15: Kultur- und Nachbarschaftszentren für Dresden - Zustimmung mit Änderung
+- TOP 16: Fachförderrichtlinie "Mobilität für Menschen mit Behinderung" (FFRL Mobilität MmBehind) - Zustimmung mit Ergänzung
+- TOP 17: 1. Aktualisierung des Wohnkonzeptes und der Richtlinie "Kooperatives Baulandmodell Dresden" - Vertagung
+- TOP 18: Umbenennung von zwei Straßen und zwei Straßenabschnitten - Zustimmung
+- TOP 19: E-Petition „Dauerhafter Zuschuss der Landeshauptstadt Dresden für eine faire Miete des Rudolf-Harbig-Stadions" - Zustimmung - Petition teilweise abgeholfen
+- TOP 20: Verkehrssichere Radwege im Bereich der Reicker Straße schaffen - Ablehnung
+- TOP 21: Verkehrsentlastung während der Baumaßnahmen auf der Bautzner Straße und an der Loschwitzer Brücke - punktweise Zustimmung
+- TOP 22: Multimodale Anknüpfungspunkte am Stadtrand entwickeln - Vertagung durch Einreicher
+- TOP 23: Freihaltung von Rettungswegen am Freibad Wostra - Ablehnung
+- TOP 24: Verbesserung der ÖPNV-Qualität in den westlichen Dresdner Ortschaften - Vertagung
+- TOP 25: Sicherheit im Radverkehr - Vertagung durch Einreicher
+- TOP 26: Für mehr Gleichberechtigung im Straßenverkehr und Sicherheit von Fußgänger*innen: Fehlende Fußgängerampeln an Kreuzungen nachrüsten - Zustimmung
+- TOP 27: Baumaßnahmen auf dem Terrassenufer - Vertagung
+- TOP 28: Schülerbeförderung durch Busse für alle Kinder sicherstellen, Sicherheit auf dem Schulweg für Schülerinnen und Schüler in den westlichen Dresdner Ortschaften umgehend gewährleisten! Kapa-zitäten im ÖPNV bedarfsgerecht bereitstellen! - Zustimmung
+- TOP 29: Ausbau und Verbesserung der ÖPNV-Verbindungen im Dresdner Westen - Zustimmung mit Ergänzung
+- TOP 30: Liegenschaft Schloss Roßthal - Vertagung durch Einreicher
+- TOP 31: Schönheit achten: Historischen Elbzugang am Schloss Übigau wiederherstellen - Vertagung
+- TOP 32: Fortschreibung des Radverkehrskonzeptes der Landeshauptstadt Dresden - Vertagung
+- TOP 33: Sozial aus der Krise – Auswirkungen der Corona-Pandemie und des Lockdowns begegnen - Vertagung
+- TOP 34: Herstellung von Impfgerechtigkeit und zügige Erreichung einer hohen Impfquote bei der Bekämpfung der Corona-Pandemie - Ablehnung
+- TOP 35: Offensive für bezahlbaren Wohnraum - Ablehnung
+- TOP 36: Wahrung der Öffentlichkeit von Straßen, Wegen und Plätzen - Zustimmung
+- TOP 37: Fortschreibung Sonderprogramm Kreisfreie Städte "Bildungsinfrastruktur 2019 - 2025" - Zustimmung mit Ergänzung
