@@ -42,6 +42,5 @@
 - [§ 21 Ordnungswidrigkeiten](0021.md)
 - [§ 22 Festlegungen](0022.md)
 - [§ 23 Fälligkeit von Ansprüchen auf Zahlungen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz](0023.md)
-- [§ 24 Berichterstattung](0024.md)
-- [§ 25 Übergangsbestimmungen](0025.md)
+- [§ 24 Übergangsbestimmungen](0024.md)
 - [Anlage Im Marktstammregister zu erfassende Daten](anlage.md)

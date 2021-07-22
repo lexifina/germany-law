@@ -2,5 +2,5 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung](0001.md)
-- [Schlussformel](schlussformel.md)
 - [§ 2 Inkrafttreten](0002.md)
+- [Schlussformel](schlussformel.md)

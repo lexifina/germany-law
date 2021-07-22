@@ -71,7 +71,7 @@ Zu erfassende Daten zu Marktakteuren und Behörden
 | I.5.2.2.1 | Bezeichnung | P |  |  |
 | I.5.2.2.2 | Energy Identification Code für Gebiete (Y-EIC) | R |  |  |
 | I.5.2.2.3 | Regelzone | R |  |  |
-| I.5.3 Daten zu Gasnetzbetreibern |
+| I.5.3 Zusätzliche Daten zu Gasnetzbetreibern |
 | I.5.3.1 | Marktgebiet | R |  |  |
 Tabelle II
 Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
@@ -193,7 +193,7 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.2.2.1 | Zuschlagsnummer |  | P |  |  |  |  |
 | II.2.2.2 | zugeordnete Gebotsmengen |  |  |  |  |  | SO: [II],: P. |
 | II.2.3 Zusätzliche Daten zu Solaranlagen |
-| II.2.3.1 | Datum nach § 23b Absatz 2 Nummer 1 EEG 2017 oder EEG 2021 |  |  |  |  | NP | nur bei Solaranlagen auf baulichen Anlagen (Gebäude, Fassade) |
+| II.2.3.1 | Datum nach § 23b Absatz 2 Nummer 1 EEG 2017 oder § 23c Absatz 1 EEG 2021 |  |  |  |  | NP | nur bei Solaranlagen auf baulichen Anlagen (Gebäude, Fassade) |
 | II.2.3.2 | Registrierungsdatum Mieterstromzuschlag |  | A |  |  |  | nur bei Solaranlagen auf baulichen Anlagen (Gebäude, Fassade) |
 | II.2.4 Zusätzliche Daten zu Biomasse-Anlagen |
 | II.2.4.1 | ausschließliche Verwendung von Biomasse nach Biomasseverordnung |  | P |  |  |  |  |
@@ -242,6 +242,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten, Gaserzeugungs- und Gasverbrauch
 | III.1.7 | Netzbetreiber |  | R |  |  | NP |  |
 | III.1.8 | vom Anschlussnetzbetreiber vergebene Identifikationsnummer |  | R |  |  |  |  |
 | III.1.9 | Registrierungsdatum | A | A | A |  |  |  |
+| III.1.10 | Datum des Betreiberwechsels |  |  |  |  |  | R bei Betreiberwechsel |
 | III.2 Daten zu Stromverbrauchseinheiten |  |
 | III.2.1 | Anzahl angeschlossener Stromverbrauchseinheiten > 50 MW |  | P |  |  |  |  |
 | III.2.2 | Einsatzverantwortlicher |  | P |  |  |  | wenn angeschlossene Stromverbrauchseinheiten > 50 MW vorhanden sind |

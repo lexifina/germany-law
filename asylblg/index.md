@@ -7,7 +7,7 @@
 - [§ 3a Bedarfssätze der Grundleistungen](0003a.md)
 - [§ 4 Leistungen bei Krankheit, Schwangerschaft und Geburt](0004.md)
 - [§ 5 Arbeitsgelegenheiten](0005.md)
-- [§ 5a Arbeitsgelegenheiten auf der Grundlage des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen](0005a.md)
+- [§ 5a (weggefallen)](0005a.md)
 - [§ 5b Sonstige Maßnahmen zur Integration](0005b.md)
 - [§ 6 Sonstige Leistungen](0006.md)
 - [§ 6a Erstattung von Aufwendungen anderer](0006a.md)
