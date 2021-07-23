@@ -1,8 +1,8 @@
 # Vollzitat: RL Corona-Härtefälle Kultur
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-11-14 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18746.2
+- Datum: 2021-07-23 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18746.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-14.11.2020
+23.07.2021
 bis
-22.07.2021
+27.01.2022
 
 RL Corona-Härtefälle Kultur
 
@@ -195,33 +195,29 @@ Der Antrag ist unter Verwendung des durch die Bewilligungsstelle zur Verfügung 
 
 3.
 
-Die Bewilligungsstelle hält 87 Prozent der verfügbaren Mittel für Anträge von Antragstellern gemäß Ziffer III Nummer 1 und 13 Prozent für Anträge von Antragstellern gemäß Ziffer III Nummer 2 und 4 vor.
+Auszahlungen sollen unverzüglich, jedoch spätestens einen Monat nach Antragstellung erfolgen.
 
 4.
 
-Auszahlungen sollen unverzüglich, jedoch spätestens einen Monat nach Antragstellung erfolgen.
+Die Bewilligungsstelle prüft die zweckentsprechende Verwendung der Zuwendung stichprobenartig und bei Vermutung zweckfremder Nutzung. Prüfungsrechte haben der Sächsische Rechnungshof sowie das Staatsministerium für Wissenschaft, Kultur und Tourismus.
 
 5.
 
-Die Bewilligungsstelle prüft die zweckentsprechende Verwendung der Zuwendung stichprobenartig und bei Vermutung zweckfremder Nutzung. Prüfungsrechte haben der Sächsische Rechnungshof sowie das Staatsministerium für Wissenschaft, Kultur und Tourismus.
+Der Zuwendungsempfänger ist verpflichtet, auch nach Bewilligung und Auszahlung an der Erfolgskontrolle mitzuwirken. Er hat alle mit der Förderung zusammenhängenden Unterlagen im Rahmen der gesetzlichen Bestimmungen aufzubewahren.
 
 6.
 
-Der Zuwendungsempfänger ist verpflichtet, auch nach Bewilligung und Auszahlung an der Erfolgskontrolle mitzuwirken. Er hat alle mit der Förderung zusammenhängenden Unterlagen im Rahmen der gesetzlichen Bestimmungen aufzubewahren.
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit in dieser Richtlinie nichts Abweichendes geregelt ist.
 
 7.
 
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit in dieser Richtlinie nichts Abweichendes geregelt ist.
+Der einfache Verwendungsnachweis ist zugelassen.
 
 8.
 
-Der einfache Verwendungsnachweis ist zugelassen.
-
-9.
-
 Abweichend von Nummer 1.4 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung sind pandemiebedingte notwendige zusätzliche Ausgaben gemäß Ziffer IV Nummer 1 Satz 1 zuwendungsfähig, wenn sie ab dem 15. März 2020 entstanden sind.
 
-10.
+9.
 
 Die erforderlichen Informationen gemäß Anhang III der Verordnung der Kommission (EU) Nr. 651/2014 vom 17. Juni 2014, Anhang III der Verordnung der Kommission (EU) Nr. 702/2014 vom 25. Juni 2014 und Anhang III der Verordnung der Kommission (EU) Nr. 1388/2014 vom 16. Dezember 2014 über die gewährte Zuwendung sind gemäß § 4 Absatz 4 der „Geänderten Bundesregelung Kleinbeihilfen 2020“ zu veröffentlichen.
 
@@ -247,9 +243,9 @@ Fsn-Nr.: 5571-V20.3
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 14. November 2020
+Fassung gültig ab: 23. Juli 2021
 
-Fassung gültig bis: 22. Juli 2021
+Fassung gültig bis: 27. Januar 2022
 
 Drucken/Speichern
 
@@ -274,7 +270,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18746.2
+https://www.revosax.sachsen.de/vorschrift/18746.3
 Stand vom
 18.11.2026
 
