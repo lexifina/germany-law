@@ -16,6 +16,7 @@ Kapitel 2 Berufsfeuerwehren
 § 10 | Angehörige der Berufsfeuerwehren
 § 11 | Leitung
 § 12 | Aufgaben im vorbeugenden Gefahrenschutz
+§ 12a | Unabhängige Beauftragte oder unabhängiger Beauftragter für die Feuerwehr Bremen
 Kapitel 3 Freiwillige Feuerwehren
 § 13 | Verwaltung, Leitung und Mitgliedschaft
 § 14 | Bereitschaftsführung und Bereichsführung
