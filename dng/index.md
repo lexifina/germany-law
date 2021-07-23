@@ -1,0 +1,15 @@
+# Gesetz für die Nutzung von Daten des öffentlichen Sektors
+
+- [§ 1 Grundsatz der offenen Daten](0001.md)
+- [§ 2 Anwendungsbereich](0002.md)
+- [§ 3 Begriffsbestimmungen](0003.md)
+- [§ 4 Grundsatz der uneingeschränkten Datennutzung; Zulässigkeit von Lizenzen](0004.md)
+- [§ 5 Nichtdiskriminierung](0005.md)
+- [§ 6 Ausschließlichkeitsvereinbarungen](0006.md)
+- [§ 7 Verfügbare Formate, Metadaten](0007.md)
+- [§ 8 Dynamische Daten](0008.md)
+- [§ 9 Hochwertige Datensätze](0009.md)
+- [§ 10 Grundsatz der Unentgeltlichkeit](0010.md)
+- [§ 11 Bemessung der Entgelthöhe](0011.md)
+- [§ 12 Transparenz von Entgelten](0012.md)
+- [§ 13 Rechtsweg](0013.md)

@@ -1,0 +1,17 @@
+# Gesetz zur Errichtung einer „Stiftung Orte der deutschen Demokratiegeschichte“
+
+- [§ 1 Name, Rechtsform und Sitz der Stiftung](0001.md)
+- [§ 2 Stiftungszweck](0002.md)
+- [§ 3 Stiftungsvermögen](0003.md)
+- [§ 4 Satzung](0004.md)
+- [§ 5 Organe der Stiftung](0005.md)
+- [§ 6 Stiftungsrat](0006.md)
+- [§ 7 Direktorin oder Direktor](0007.md)
+- [§ 8 Stiftungsbeirat](0008.md)
+- [§ 9 Ehrenamtliche Tätigkeit](0009.md)
+- [§ 10 Unterstützung durch und Kooperation mit Einrichtungen des Bundes, Aufsicht, Haushalt und Rechtsprüfung](0010.md)
+- [§ 11 Berichterstattung](0011.md)
+- [§ 12 Beschäftigte](0012.md)
+- [§ 13 Freier Eintritt, Gebühren](0013.md)
+- [§ 14 Dienstsiegel](0014.md)
+- [§ 15 Auflösung](0015.md)
