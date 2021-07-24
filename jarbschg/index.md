@@ -95,8 +95,7 @@ Arbeitgebers
 ### Dritter Titel Ausschüsse für Jugendarbeitsschutz
 
 - [§ 55 Bildung des Landesausschusses für Jugendarbeitsschutz](0055.md)
-- [§ 56 Bildung des Ausschusses für Jugendarbeitsschutz bei der
-Aufsichtsbehörde](0056.md)
+- [§ 56 Bildung des Ausschusses für Jugendarbeitsschutz bei der Aufsichtsbehörde](0056.md)
 - [§ 57 Aufgaben der Ausschüsse](0057.md)
 
 ## Fünfter Abschnitt Straf- und Bußgeldvorschriften

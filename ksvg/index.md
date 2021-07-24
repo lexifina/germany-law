@@ -152,7 +152,9 @@ Abgabeverfahren
 ## Vierter Teil Übergangs- und Schlußvorschriften
 
 - [§ 52](0052.md)
-- [(XXXX) §§ 52a bis 54 (weggefallen)](xxxx-52a-bis-54.md)
+- [§ 54 (weggefallen)](0054.md)
+- [§ 52a (weggefallen)](0052a.md)
+- [§ 53](0053.md)
 - [§ 55](0055.md)
 - [§ 56](0056.md)
 - [§ 56a](0056a.md)
