@@ -1,0 +1,102 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-07-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6262133
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6262133
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Lärmbelästigung Wohngebiet Dieselstraße durch Auto-Poser und auffällige Motorradfahrer
+- TOP 2.2.: Verbesserung der Verkehrssituation Kreuzung Bauberger- /Kapellenäckerstraße (a) Verparkung, b) Rot-Markierung Fuß- und Radweg; c) Anbringen eines Schildes "bei roter Ampel hier anhalten")
+- TOP 2.3.: Einrichtung Haltverbote Borstei Voitstr. 2 bis 4 (Problematik Müllabfuhr)
+- TOP 2.4.: Verkehrssicherheit am Sportpark des Postsportvereins (PSV) Franz-Mader-Str. 11
+- TOP 2.5.: Einrichtung einer Hol- und Bringzone (Haltverbote) für den Kindergarten an der Dieselstr. 12
+- TOP 2.6.: Kita Haylerstraße: Errichtung einer Lärmschutzwand zu Nachbargrundstück
+- TOP 2.7.: Verlegung der Wertstoffinsel Naumburger Straße / Ecke Hirschstraße
+- TOP 2.8.: Verlegung der Wertstoffinsel am Glogauer Platz
+- TOP 3.3.1.: Bauvorhaben: 1. Dessauerstr. 17 (Lidl-Markt) 2. Dessauerstr. 17 (Orterer-Markt) 3. Dachauer Str. 310 4. Bingener Str. 36-38 5. Lechelstr. 35 6. Feldmochinger Str. 12 7. Baldurstr. 28
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Dessauerstr. 17 (Lidl-Markt) ( -> BV siehe TOP 3.3.1.1) 2. Dessauerstr. 17 (Orterer-Markt) ( -> BV siehe TOP 3.3.1.2) 3. Baldurstr. 28 (-> BV siehe TOP 3.3.1.7)
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Maisacher Str. 4 2. Dachauer Str. 312
+- TOP 3.4.1.: Pflege der BA-Homepage ab Juli 2021
+- TOP 3.4.2.: Angebot "Mehr Rad im Viertel" (Pilotversuch u.a. im 10. Stadtbezirk)
+- TOP 4.1.1.: Kurzzeitparkplätze vor der Kita Riesstr. 49 einrichten
+- TOP 4.1.2.: Mehr Sicherheit für spielende Kinder am Spielplatz Leidinger Straße
+- TOP 4.1.3.: Anfrage: Sanierung A 99 Allacher Tunnel - Verkehrliche Auswirkungen auf Moosach - Verkehrskonzept
+- TOP 4.1.4.: Gestaltung Pelkovenstraße - endlich sicher für Radfahrende
+- TOP 4.1.5.: Grünphase der Ampelschaltung für Fuß- und Radverkehr am Wintrichring verlängern
+- TOP 4.1.6.: Hybridsitzungen für Unterausschüsse des BA 10 ermöglichen
+- TOP 4.1.7.: Teilnahme an den Sitzungen des BA 10 (Vollgremium) durch Ton-Bild-Übertragung ermöglichen
+- TOP 4.1.8.: Anfrage: Durchführbarkeit von Hybridsitzungen des BA 10 im Sitzungsraum (Mensa) des Schulzentrums an der Gerastr. 6
+- TOP 4.1.9.: Blühende Wiesen in Moosach
+- TOP 4.1.10.: Schutz der Grünfläche an der Einmündung Jakob-Hagenbucher-Straße/ Ecke Naumburger Straße vor Überfahren
+- TOP 4.1.11.: Schutz der kleinen Grüninsel an der Parkbucht Treitschkestraße vor Überfahren
+- TOP 4.2.1.: Einberufung eines Ferienausschusses im August 2021?
+- TOP 4.2.2.: Stadtbezirksbudget: Mittelbereitstellung – eigene Veranstaltungen; hier: „Wir alle sind Moosach – Moosach tafelt“ am 17.09.2021
+- TOP 5.1.: (E) Stadtbezirksbudget AG Buhlstraße e.V. Sommerferienprogramm für Moosacher Kinder und Jugendliche vom 02.08. - 13.09.2021 3.900,00 € / Az. 0262.0-10-0264
+- TOP 5.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratiemobil am 17.+ 18.09.2021 1.520,00 € / Az. 0262.0-10-0263
+- TOP 5.3.: (E) Stadtbezirksbudget SV Allach 1949 e.V. Anschaffung von Jugendtoren 1.231,60 € / Az. 0262.0-10-0265
+- TOP 5.4.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 11.06. - 31.12.2021 2.500,00 € / Az. 0262.0-10-0266
+- TOP 5.5.: Stadtbezirksbudget: Gesamtverein Moosach e.V. "Moosacher Musiknacht(t)mittag am 11.09.2021" (Platzhalter)
+- TOP 5.6.: (E) Stadtbezirksbudget Kindergruppe Moosach e.V. Hochbeet für Garten der Kindergruppe vom 15.07 -15.09.2021 239,00€; Az. 0262.0-10-0267
+- TOP 6.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018-2020
+- TOP 6.2.: Beschlussentwurf: Umsetzung des Gesetzes zur Stärkung der Gesundheitsförderung und der Prävention in München (Sitzungsvorlage Nr. 20-26/V 03234)
+- TOP 6.3.: Immissionsschutzrechtliches Änderungsgenehmigungsverfahren der Firma Breitsamer, Dachauer Straße; hier: Einrichtung einer neuen Halle J einschließlich 3 überdachter Lagerboxen
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund: Bunzlauer Platz; "Radl-Sicherheitscheck" am 10./11.08.2021
+- TOP 6.5.: Bettfedernreinigung Ecke Allacher Str./ Waldhornstraße vom 29.07. - 04.08 und 14.10. - 20.10.2021
+- TOP 6.6.: Sportentwicklungsplanung im Münchner Norden
+- TOP 6.7.: Verkehrsrechtliche Anordnung nach § 45 StVO: 1. Ernst-Platz-Straße: Einrichtung eines personenbezogenen Behindertenparkplatzes - nicht-öffentlich -
+- TOP 6.8.: Änderung BA-Satzung: Anpassungen Anlage 1; Neubildung des Mobilitätsreferates (MOR), Aufspaltung des Referates für Gesundheit und Umwelt in Gesundheitsreferat (GSR) und Referat für Klima- und Umweltschutz (RKU)
+- TOP 6.9.: Einleitung Plangenehmigung 2. Stammstrecke PFA 3 Ost, Vorabmassnahme Rangierbahnhof Nord (Eisenbahn-Bundesamt)
+- TOP 6.10.: Veranstaltung auf öffentlichem Verkehrsgrund und Privatgrund: Informationsveranstaltung des KJR zur Bundestagswahl: „Demokratie-Mobil“, hier: 10. Stb. Am 17.09. und 18.09.21 vor Meile Moosach
+- TOP 6.11.: Verkehrsrechtliche Anordnung nach § 45 StVO: Dachauer Straße/ Wintrichring/ Georg-Brauchle-Ring; Beschilderung aller vier Rechtsabbiegefahrbahnen...und Absicherung einer Sperrfläche..
+- TOP 7.1.: Bestellung einer städtischen Leistung (BSL): Aufstellung von 2 Tischtennisplatten für die Nachbarschaft in der Lauinger Straße, [BA-Antrag Nr. 20-26/B 01899; Aufstellung ca. September 2021]
+- TOP 7.2.: Meldung von Baumstandorten im Projekt "Neue Baumstandorte im öffentlichen Grün" [Schreiben BA10 vom 20.04.2021; Zeitschiene: Machbarkeitsuntersuchung, Klärung Finanzierung, Ausschreibung an Fachunternehmen]
+- TOP 7.3.: Einrichtung eines Bildungslokals in Moosach [BA-Antrag Nr. 20-26/B 01503; Umsetzung wird im Zuge der geplanten Stadtsanierungsmaßnahmen realisiert]
+- TOP 7.4.: Markierung des Zebrastreifens in der Riesstraße in Regenbogenfarben in der Münchner Pride-Week (04. bis 11.07.21) [BA-Antrag Nr. 20-26/B 02539; Ablehnung aus Gründen der Verkehrssicherheit]
+- TOP 7.5.: Aufhebung des absoluten Haltverbots in der Ernst-Platz-Straße, Gaggenay-, Gleissmüller- und Thümerstraße [Schreiben BA10 vom20.05..2021; nochmalige Überprüfung lässt keine andere Entscheidung zu. Beschwerdeführende Bürger wurden informiert.]
+- TOP 7.6.: Verhinderung des Gehwegparkens an der Bunzlauer Str. 6-18 [Schreiben BA10 vom 21.04.2921; Änderung der bestehenden Parkregelung (Kurzparkzone in Ladezone) nicht zielführend. Ahndung Gehwegparker durch PI zur Unterbindung.]
+- TOP 7.7.: Planfeststellung zur Erneuerung der Eisenbahnüberführung über die Dachauer Straße; hier: Zeitplan zur Umsetzung und notwendige Verkehrsumleitungen [Schreiben BA10 vom 23.03.2021; Baubeginn in ca. 3-4 Jahren und kurzfristig noch keine Aussagen zu notwendigen Verkehrsumleitungen möglich.]
+- TOP 7.8.: Wohnungsleerstand in Hartmannshofen [Schreiben BA10 vom 20.05.2021; Leerstände sind im Besitz des Freistaates Bayern. Von dort Signal Fokus auf Bauplanungsrecht zu legen um Gesamtlösung anzustreben.]
+- TOP 7.9.: Ausbau von W-Lan-Zonen an Moosacher Plätzen und Schulen [BA-Antrag Nr. 20-26/B 02416; LHM realisiert zusammen mit SWM im Rahmen der Digitalisierungsstrategie Zug um Zug. Noch in 2021 kann nicht konkret in Aussicht gestellt werden.]
+- TOP 8.1.: Beschluss der Vollversammlung vom 05.05.21 (Vorlage Nr. 20-26/ V 02999): "Nicht verbrauchte Mittel Bezirksausschussbudgets einmalig erneut zur Verfügung stellen" (Info zum weiteren Vorgehen)
+- TOP 8.2.: Verbesserung der Baumschutzauflagen gegen illegale Fällungen (Abdruck Antwortschreiben zu Antrag BA21, -> siehe TOP 2.5/ Sitzung am 22.03.2021)
+- TOP 8.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Hildebrandstraße: Errichtung absolutes Haltverbot 2. Emmy-Noether-Straße: Einrichtung einer Kita-Hol- und Bringzone
+- TOP 8.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: (U) Standortsicherung für ein überregionales jugendkulturelles Zentrum auf dem Neubaugebiet Botanikum, Stadtbezirk 10, Moosach Bebauungsplan mit Grünordnung Nr. 1740 Bingener Straße (westlich), Thorner Straße (östlich), zwischen Rangierbahnhof München-Nord und Torgauer Straße sowie Triebstraße 1. Zustimmung zur Planung und Genehmigung des Flächenbedarfs 2. Standort- und Flächensicherung 3. Ermächtigung zum Betrieb der Einrichtung Vorschläge zur Förderung von Freier Szene, Pop- und Jugendkultur V München braucht ein zweites überregionales jugendkulturelles Zentrum Antrag Nr. 14-20 / A 04040 ........................... Neue Jugendkulturelle Zentren für München Antrag Nr. 14-20 / A 05052 ......................... 10. Stadtbezirk - Moosach
+- TOP 8.8.: (U) Schaffung von Unterkünften für Geflüchtete und Wohnungslose: Wiederbelebung des sog. Verkürzten Verfahrens Ausschuss für Flüchtlinge wieder einsetzen Antrag Nr. 14-20 / A 06932 ...
+- TOP 8.9.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 8.10.: (U) Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Verordnung zur Änderung der Verordnung der Landeshauptstadt München zum Schutz der Naturdenkmäler (Naturdenkmalverordnung) vom 08.09.2011
+- TOP 8.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 "München - Stadt im Gleichgewicht" A) Vorstellung des Entwurfs B) Weiteres Vorgehen und Beteiligungsprozess
+- TOP 8.13.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2019 bis 2040 für die Landeshauptstadt
+- TOP 8.14.: (U) Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2019 bis 2040 für die Stadtbezirke
+- TOP 8.15.: (U) Projektantrag für die Umsetzungsphase „Grüne Stadt der Zukunft II – Klimaresiliente Quartiere in einer wachsenden Stadt“ im Rahmen der Leitinitiative Zukunftsstadt Stellenbedarf Referat für Stadtplanung und Bauordnung
+- TOP 8.16.: (U) Energienutzungsplan für München – Maßnahmen und Bericht 2021 Sachmittel für das EU-Projekt DecarbCity Pipes 2050
+- TOP 8.17.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 8.18.: Mitteilung über ein Grundstücksgeschäft: Ausführungs- und Erwerbsvertrag im ehem. Meiller-Gelände - nicht-öffentlich -
+- TOP 8.19.: Vorverkaufsrechte nach dem BauGB: - nicht-öffentlich - 1. Claudiusplatz (Verzicht) 2. Bingener Straße (Verzicht)
+- TOP 8.20.: Verbot der Zweckentfremdung von Wohnraum: - nicht-öffentlich - 1. Wichertstraße 2. Wilhelmshavener Straße 3. Leipziger Straße
+- TOP 8.21.: Mobilfunk: - nicht-öffentlich - 1. Erweiterung einer Mobilfunksende- und empfangsanlage: Georg-Brauchle-Ring 2. Suchkreismeldung div. im 10. Stadtbezirk
+- TOP 8.22.: Veranstaltungen in städt. Grünanlagen und auf öffentlichem Verkehrsgrund: - nicht-öffentlich - 1. "Aktion Spielwiese" in Nanga-Parbat- und Welzenbachstraße vom 30.06. bis 28.07.2021 2. "Straßentheater PLAN B" im Amphionpark am 11.07.2021 3. "Gedenkfeier zum 5. Jahrestag des OEZ-Attentates", Hanauer Str. 7 am 22.07.2021 (→ jeweils Vorabzustimmung Vorsitzender gem. § 20 Abs. 1 BA-Satzung)
+- TOP 4.: Anträge
