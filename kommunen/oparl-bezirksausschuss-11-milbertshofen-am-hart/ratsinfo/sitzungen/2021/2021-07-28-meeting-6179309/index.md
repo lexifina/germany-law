@@ -1,0 +1,88 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2021-07-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6179309
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6179309
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über die frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht des BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.6: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Beschluss Durchführung Sommerstraße Nietzschestraße
+- TOP 7.: Anträge
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 4.1: Plenum
+- TOP 4.1.1.: Durchführen einer digitalen Online-Bürgerinformationsveranstaltung, solange keine Bürgerversammlungen stattfinden
+- TOP 4.1.2.: (U) Hybridsitzungen für die Bezirksausschüsse Aufhebung der Rechtsgrundlage für die Sonderausschüsse Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München Änderung der Geschäftsordnung für die Bezirksausschüsse
+- TOP 4.2: Bau und Stadtgestaltung
+- TOP 4.2.1.: Frankfurter Ring 83 - 85 Bauvorhaben: Neubau eines Gewerbe- und Bürogebäudes mit Tiefgarage - Vorbescheid - Beantwortung der Beschlussfassung des BA 11
+- TOP 4.3: Soziales, Bildung und Kultur
+- TOP 4.4: Verkehr und Mobilität
+- TOP 4.4.1.: Neubausiedlung "Hofmark" optimal mittels Bushaltestelle an den ÖPNV anbinden
+- TOP 4.4.2.: Ausbau Knoten Ingolstädter Straße / Hufelandstraße
+- TOP 4.5: Natur-, Umwelt- und Klimaschutz
+- TOP 4.5.1.: Christoph-von-Gluck-Platz / Milbertshofener Straße - Wertstoffinsel sanieren
+- TOP 6.1.1.: (E) Stadtbezirksbudget Wild Wuchs e.V. Meet and Greet in der Euler 29 am 01.08.2021 620,00 € / Az. 0262.0-11-0424
+- TOP 6.1.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 11.06. - 31.12.2021 2.500,00 € / Az. 0262.0-11-0425
+- TOP 6.1.3.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Zirkusprojekt Verein Stadtteilarbeit vom 02.-06.08.2021 5.750,00 € / Az. 0262.0-11-0423
+- TOP 6.1.4.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Offene Werkstätten vom 14.09. - 21.12.2021 2.900,00 €/ Az. 0262.0-11-0428
+- TOP 6.1.5.: (E) Stadtbezirksbudget AG Buhlstraße e.V. Umgestaltung des Außengeländes des Seniorenbereichs im September 2021 3.228,74 € / Az. 0262.0-11-0427
+- TOP 6.1.6.: Beschluss Stadtbezirksbudget Sommerstraße Nietzschestraße
+- TOP 6.1.7.: (E) Stadtbezirksbudget Euro-Trainings-Centre, ETC e.V., Mehrgenerationenhaus "Unter den Arkaden" Einrichtung eines Internet-Hotspots im MGH und auf dem Platz davor 6642,06€; Az. 0262.0-11-0429
+- TOP 6.2.2.: Beschluss über die Abhaltung von Hybridsitzungen
+- TOP 7.1: Plenum
+- TOP 7.2: Bau und Stadtgestaltung
+- TOP 7.3: Soziales, Bildung und Kultur
+- TOP 7.3.1.: Schwimmunterricht für die Schülerinnen und Schüler der Grundschule an der Bernaysstraße wieder ermöglichen
+- TOP 7.3.2.: Kunstinstallation "A Little More Love" sanieren
+- TOP 7.3.3.: Antrag der Seniorenvertretung im Stadtbezirk 11 zur München-Klinik Schwabing
+- TOP 7.4: Verkehr und Mobilität
+- TOP 7.4.1.: Erhöhung der Fahrradabstellmöglichkeiten an der Kreuzung Frankfurter Ring / Knorrstraße
+- TOP 7.4.2.: Umwandlung der Lichtsignalanlage der Ausfahrt aus der BMW Welt in eine Bedarfsschaltung / Erleichtertes Linksabbiegen des Radverkehrs in die Dostlerstraße
+- TOP 7.5: Natur-, Umwelt- und Klimaschutz
+- TOP 7.5.1.: Wertstoffinsel Wallensteinplatz: Austausch eines Containers für Kunststoffe / Metalle gegen einen Kleidercontainer
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018-2020
+- TOP 8.1.2.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz - Anhörung der Bezirksausschüsse zu notwendigen Anpassungen in der Anlage 1 der BA-Satzung „Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse“
+- TOP 8.2: Bau und Stadtgestaltung
+- TOP 8.2.1.: Weyprechthof - Neubau eines Wohnhauses mit Gastronomie und Errichtung einer Tiefgarage
+- TOP 8.3: Soziales, Bildung und Kultur
+- TOP 8.3.1.: Sportentwicklungsplanung im Münchner Norden
+- TOP 8.3.2.: Tischtennisplatten in der Grünanlage Harthofanger
+- TOP 8.3.3.: Spielpädagogisches Projekt "Olympiakinder" vom 13.08.-20.08.2021 in der Grünanlage Straßbergerstraße
+- TOP 8.3.4.: Gedenkveranstaltung 2021 "Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn"
+- TOP 8.4: Verkehr und Mobilität
+- TOP 8.4.1.: Unerlaubtes Befahren der Grünanlage am Schollerweg
+- TOP 8.4.2.: Graslilienanger - Errichtung und Schaffung von Fahrradstellplätzen
+- TOP 8.5: Natur-, Umwelt- und Klimaschutz
+- TOP 9.1: Plenum
+- TOP 9.2: Bau und Stadtgestaltung
+- TOP 9.2.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum - Abbruchanzeige: Arnauer Straße 2
+- TOP 9.2.2.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 "München - Stadt im Gleichgewicht" A) Vorstellung des Entwurfs B) Weiteres Vorgehen und Beteiligungsprozess
+- TOP 9.2.3.: (U) Projektantrag für die Umsetzungsphase „Grüne Stadt der Zukunft II – Klimaresiliente Quartiere in einer wachsenden Stadt“ im Rahmen der Leitinitiative Zukunftsstadt Stellenbedarf Referat für Stadtplanung und Bauordnung
+- TOP 9.3: Soziales, Bildung und Kultur
+- TOP 9.3.1.: (U) Weiteres Vorgehen Leichtbauhallenstandorte Maria-Goeppert-Mayer-Str. 21 und Neuherbergstr. 24 Vorhaltung der Neuherbergstr. 24 als Notreserve und Vermietung der Maria-Goeppert-Mayer-Str. 21 an die Regierung von Oberbayern 11. Stadtbezirk - Milbertshofen - Am Hart 12. Stadtbezirk - Schwabing - Freimann
+- TOP 9.3.2.: (U) Schaffung von Unterkünften für Geflüchtete und Wohnungslose: Wiederbelebung des sog. Verkürzten Verfahrens Ausschuss für Flüchtlinge wieder einsetzen Antrag Nr. 14-20 / A 06932 ...
+- TOP 9.4: Verkehr und Mobilität
+- TOP 9.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Natur-, Umwelt- und Klimaschutz
+- TOP 9.5.1.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 9.5.2.: (U) Energienutzungsplan für München – Maßnahmen und Bericht 2021 Sachmittel für das EU-Projekt DecarbCity Pipes 2050
+- TOP 9.5.3.: Bußgeldkatalog "Umweltschutz"
