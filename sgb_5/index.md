@@ -979,19 +979,19 @@ von Leistungsdaten, Datentransparenz
 - [§ 391 Beteiligung der Fachöffentlichkeit](0391.md)
 - [§ 392 Informationsportal](0392.md)
 - [§ 393 Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis](0393.md)
-
-## Dreizehntes Kapitel Straf- und Bußgeldvorschriften
-
 - [§ 394 Bericht über das Interoperabilitätsverzeichnis](0394.md)
 - [§ 394a Verordnungsermächtigung](0394a.md)
 - [§ 395 Nationales Gesundheitsportal](0395.md)
+
+## Dreizehntes Kapitel Straf- und Bußgeldvorschriften
+
 - [§ 396 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten](0396.md)
 - [§ 397 Bußgeldvorschriften](0397.md)
+- [§ 398 Strafvorschriften](0398.md)
+- [§ 399 Strafvorschriften](0399.md)
 
 ## Vierzehntes Kapitel Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
 
-- [§ 398 Strafvorschriften](0398.md)
-- [§ 399 Strafvorschriften](0399.md)
 - [§ 400 Versicherter Personenkreis](0400.md)
 - [§ 401 Beitragszuschüsse für Beschäftigte](0401.md)
 - [§ 401 Leistungen](0401-2.md)

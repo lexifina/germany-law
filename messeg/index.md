@@ -34,6 +34,7 @@
 - [§ 19 Verpflichtungen der anerkannten Konformitätsbewertungsstelle](0019.md)
 - [§ 20 Meldepflichten der anerkannten Konformitätsbewertungsstelle](0020.md)
 - [§ 21 Zweigunternehmen einer anerkannten Konformitätsbewertungsstelle und Vergabe von Unteraufträgen](0021.md)
+- [§ 21a Akkreditierte interne Stelle](0021a.md)
 - [§ 22 Widerruf der Anerkennung](0022.md)
 
 ### Unterabschnitt 3 Pflichten der Wirtschaftsakteure
@@ -96,6 +97,8 @@
 - [§ 48 Zuständigkeit für die Marktüberwachung und Zusammenarbeit](0048.md)
 - [§ 49 Marktüberwachungskonzept](0049.md)
 - [§ 50 Marktüberwachungsmaßnahmen](0050.md)
+- [§ 50a Formale Nichtkonformität](0050a.md)
+- [§ 50b Risiko durch konforme Messgeräte](0050b.md)
 - [§ 51 Adressaten der Marktüberwachungsmaßnahmen](0051.md)
 - [§ 52 Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Marktüberwachung](0052.md)
 - [§ 53 Meldeverfahren, Verordnungsermächtigung](0053.md)
