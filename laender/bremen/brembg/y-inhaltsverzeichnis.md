@@ -154,8 +154,8 @@ Unterabschnitt 5 Hochschulen
 § 121 | Kanzlerinnen und Kanzler
 Unterabschnitt 6 Schulen
 § 122 | Beamtinnen und Beamte im Schuldienst
-Unterabschnitt 7 Rechnungshof der Freien Hansestadt Bremen
-§ 123 | Mitglieder des Rechnungshofs der Freien Hansestadt Bremen
+Unterabschnitt 7 Rechnungshof der Freien Hansestadt Bremen, Rechnungsprüfungsamt Bremerhaven
+§ 123 | Mitglieder des Rechnungshofs der Freien Hansestadt Bremen, Beamtinnen und Beamte des Rechnungsprüfungsamtes Bremerhaven
 Abschnitt 11 Übergangs- und Schlussvorschriften
 § 124 | Verwaltungsvorschriften
 § 125 | Übergangsregelungen für Beamtinnen und Beamte auf Probe
