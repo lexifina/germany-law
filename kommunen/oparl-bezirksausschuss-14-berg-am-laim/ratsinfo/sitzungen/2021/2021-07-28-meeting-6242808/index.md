@@ -1,0 +1,112 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2021-07-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6242808
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6242808
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1.1.: Am Dienstag, den 20.07.2021, um 19.00 Uhr, im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.1.2.1.: Am Montag, den 19.07.03.2021, um 19.15 Uhr, in der Mensa der Ludwig-Thoma-Realschule, Fehwiesenstr. 118.
+- TOP 5.1.3.1.: Am Dienstag, den 20.07.2021, um 18.00 Uhr, im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.1.4.1.: Voraussichtlich am Donnerstag, den 22.07.2021, um 18.30 Uhr, im Technischen Rathaus (Baureferat), Raum 17.509.
+- TOP 5.1.5.1.: Am Montag, den 19.07.2021, um 18.15 Uhr, in der Mensa der Ludwig-Thoma-Realschule, Fehwiesenstr. 118.
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Zwischeninformation für die BA 14 und 16 zum Projekt Geothermie Michaelibad durch die Stadtwerke München
+- TOP 3.1.2.: Baumförderprogramm für Berg am Laim; Antrag SPD-Fraktion
+- TOP 3.1.3.: Landschaftspark Hermann-Weinhauser-Straße; Bürgeranliegen
+- TOP 3.1.4.: Saubere und nutzbare Spielplätze und Grünanlagen in der "Maikäfersiedlung"; Antrag SPD-Fraktion
+- TOP 3.1.5.: Mountainbike-Parcours in die Planungen für den Hachinger Bach integrieren; Antrag FDP
+- TOP 3.1.6.: Aufwertung der Grünfläche am zukünftigen Verlauf des Hachinger Bachs; Antrag FDP
+- TOP 3.1.7.: Barrierefreie Spielgeräte für Berg am Laimer Spielplätze; Antrag BA 14
+- TOP 3.1.8.: Installation von Mülleimern entlang der Berg-am-Laim-Straße; Bürgeranliegen
+- TOP 3.1.9.: Baumbilanz für das Werksviertel; Antrag des Unterausschusses Planung, Bauvorhaben, Umwelt und Baumschutz
+- TOP 3.1.10.: Toiletten im öffentlichen Raum - Toilettenstandort Quartierszentrum
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Sichere Kreuzungen durch bessere Sichtbeziehungen; Antrag Nr. 20-26/A 01409 des Stadtrates - Bitte um Stellungnahme durch den Behindertenbeirat der Landeshauptstadt München -
+- TOP 3.2.2.: Antrag: Nutzung Parkhaus Einkaufszentrum Hermann-Weinhauser-Str. 90; Antrag Die Linke
+- TOP 3.2.3.: Tiefgarageneinfahrt Neumarkter Straße 90 - Unfallgefahr mit Radfahrern entschärfen; Bürgeranliegen
+- TOP 3.2.4.: Radweg Grafinger Straße/Innsbrucker Ring: hohe Sturzgefahr wegen erheblich abgesenktem Gulli; Antrag SPD-Fraktion
+- TOP 3.2.5.: Überdachung U-Bahnstation Michaelibad, Ausgang Ecke St.-Michael-Straße/Bad-Schachener-Straße, Antrag SPD-Fraktion
+- TOP 3.2.6.: Verkehrssicherheit am Maria-Eck-Platz erhöhen, Antrag CSU-Fraktion
+- TOP 3.2.7.: Mehr Rad im Viertel - Anfrage des Mobilitätsreferates -
+- TOP 3.2.8.: Einrichtung eines absoluten Halteverbots hier: St.-Veit-Straße südl. Kreillerstraße - Nachtrag, Anhörung durch das Mobilitätsreferat -
+- TOP 3.2.9.: Mögliche Anschlussverwendung Grundstück Truderinger Str. 191; Antrag der CSU-Fraktion und SPD-Fraktion - Dringlichkeitsantrag -
+- TOP 3.2.10.: Antrag: Realisierung der Zwischennutzung des ehemaligen Geländes der Bundesmonopolverwaltung für Branntwein in der Neumarkter Straße; Antrag Die Linke
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: "Offenes Haus" für Kinder von ca. 10 - 14 Jahren im "Mahlerhaus, Antrag SPD-Fraktion
+- TOP 3.4.2.: Aufenthaltsorte für Jugendliche/junge Erwachsene außerhalb von Wohnanlagen finden, Bürgeranliegen
+- TOP 3.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.1.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 11.06. - 31.12.2021 2.500,00 € / Az. 0262.0-14-0298
+- TOP 3.5.2.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. Instandhaltung / Wartung / Belebung des offenen Bücherschrankes am Grünen Markt vom 24.07. - 14.08.2021 525,00 € / Az. 0262.0-14-0299
+- TOP 3.5.3.: Bürgerversammlungen sollen innerhalb des Stadtbezirks stattfinden, Antrag Fraktion FW/ÖDP
+- TOP 3.5.4.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018 -2020; Qualitative und Quantitative Veränderungen in der Bezirksausschussarbeit BA-Antrag Nr. 20-26 / B01460 des Bezirksausschusses 1 Altstadt-Lehel vom 20.10.2020, Erhöhung des Stadtbezirksbudgets des Bezirksausschusses 1 Altstadt-Lehel BA-Antrag Nr. 20-26/ B02280 des Bezirksausschusses 3 – Maxvorstadt vom 20.04.2021, Zugänge für diverse Bevölkerungsgruppen schaffen: Direktoriumsanträge in leichter Sprache bereitstellen - Anhörung durch das Direktorium zum Beschlussentwurf -
+- TOP 3.5.5.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz Anhörung der Bezirksausschüsse zu notwendigen Anpassungen in der Anlage 1 der BASatzung „Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse“ - Nachtrag Anhörung durch das Direktorium -
+- TOP 3.5.6.: (E) Stadtbezirksbudget Blickwinkelschmiede gGmbH democraticArts&#039;Speakers&#039;Corner mit Workshops vom 01.07 -31.12.2021 7.000,00€; Az. 0262.0-14-0300
+- TOP 3.6.1.: Winkelmooser Str. 2
+- TOP 3.6.2.: Schüleinplatz 4 - Nachtrag -
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk in der Zeit vom 21.06.2021 bis 04.07.2021
+- TOP 4.1.2.: Plangenehmigungsbeschluss Innenreinigungsanlage München Steinhausen
+- TOP 4.1.3.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 4.1.4.: (U) Energienutzungsplan für München – Maßnahmen und Bericht 2021 Sachmittel für das EU-Projekt DecarbCity Pipes 2050
+- TOP 4.1.5.: Prima Markt Schlüsselbergstraße, Verlegung der Mülltonnen - Mitteilung des Baureferates -
+- TOP 4.1.6.: Installation von mehr Mülleimern in Berg am Laim
+- TOP 4.1.7.: Installation eines Mülleimers neben der Sitzbank an der Hansjakobstraße/Ecke St.-Veit-Straße; Bürgeranliegen
+- TOP 4.1.8.: Müllansammlung und fehlende Farbe an Bänken am Grünen Markt und im Behrpark - Antwort des Baureferates - Gartenbau auf Bürgeranliegen -
+- TOP 4.1.9.: Werksviertel II: Öffentliche Grünflächen
+- TOP 4.1.10.: Wanderbaumallee - Sondernutzungserlaubnis
+- TOP 4.1.11.: (U) Projektantrag für die Umsetzungsphase „Grüne Stadt der Zukunft II – Klimaresiliente Quartiere in einer wachsenden Stadt“ im Rahmen der Leitinitiative Zukunftsstadt Stellenbedarf Referat für Stadtplanung und Bauordnung
+- TOP 4.1.12.: Toiletten im öffentlichen Raum - Beginn Baumaßnahmen im Bereich Gögginger Straße/Michaeli Anger ab August 2021 - Mitteilung durch das Baureferat - Gartenbau -
+- TOP 4.1.13.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Rotmarkierung der Kreuzung des Radwegs über die Haflinger Straße und Versetzung der Litfaßsäule (vertagt aus 06-2021)
+- TOP 4.2.2.: Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine "Bürgerbeteiligungssatzung Bauleitplanung"; Empfehlung Nr. 14-20/E 02728 der Bürgerversammlung des 14. Stadtbezirkes Berg am Laim am 11.07.2019 - Zwischennachricht -
+- TOP 4.2.3.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 "München - Stadt im Gleichgewicht" A) Vorstellung des Entwurfs B) Weiteres Vorgehen und Beteiligungsprozess
+- TOP 4.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.7.: Beschwerde wegen regelmäßiger Verkehrsverstöße, Falschparker und Ruhestörung vor der Kneipe in der Grafinger Straße - Antwortschreiben des Kreisverwaltungsreferates auf Bürgeranliegen -
+- TOP 4.2.8.: Digitale Zusammenarbeit auf Stadtbezirksebene stärken!; Antrag FDP
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Entscheidung für den 24. Stadtbezirk Feldmoching-Hasenbergl als Einsatz-Stadtbezirk für das Stadtteilprojekt "Ran an die Koffer!" 2022 - Information durch das Stadtjugendamt -
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: (U) Schaffung von Unterkünften für Geflüchtete und Wohnungslose: Wiederbelebung des sog. Verkürzten Verfahrens Ausschuss für Flüchtlinge wieder einsetzen Antrag Nr. 14-20 / A 06932 ...
+- TOP 4.4.2.: Anfrage: Daten zur Entwicklung der Corona-Inzidenzwerte in Münchner Stadtbezirken
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Infoschreiben 03/2021; Hybridsitzungen und Sondeausschüsse - Information durch das Direktorium -
+- TOP 4.5.2.: Abrechnung der Technikpauschale im Jahr 2021
+- TOP 4.5.3.: Informationsschreiben BA 03/2021: Hybridsitzungen und Sonderausschüsse
+- TOP 4.5.4.: Beschluss der Vollversammlung vom 05.05.2021 (Vorlage Nr. 20-26/V 02999) "Nicht verbrauchte Mittel Bezirksausschussbudgets einmalig erneut zur Verfügung stellen", hier: Information für die Bezirksausschüsse zum weiteren Vorgehen
+- TOP 4.5.5.: verschiedene Verwendungsnachweise von Mitteln aus dem Stadtbezirksbudget des BA 14
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.2.: Baumersatzkonzept in Berg am Laim zur Korrektur des Baumverlusts
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
