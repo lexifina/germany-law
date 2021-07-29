@@ -764,11 +764,7 @@ Abschnitt III](anlage-ii-kap-x-h-iii.md)
 Sachgebiet A - Eisenbahnverkehr
 
 Abschnitt III](anlage-ii-kap-xi-a-iii.md)
-- [Anlage II Kap XI B III Anlage II Kapitel XI
-
-Sachgebiet B - Straßenverkehr
-
-Abschnitt III](anlage-ii-kap-xi-b-iii.md)
+- [Anlage II Kap XI B III Anlage II Kapitel XISachgebiet B - StraßenverkehrAbschnitt III](anlage-ii-kap-xi-b-iii.md)
 - [Anlage II Kap XI C III Anlage II Kapitel XI
 
 Sachgebiet C - Binnenschiffahrt und Wasserstraßen
