@@ -1,0 +1,71 @@
+# Anlage (zu den §§ 5, 7, 8 und 9)Beihilfeberechtigte Sektoren und sektorbezogene Kompensationsgrade
+
+Tabelle 1
+(Beihilfeberechtigte Sektoren)
+| Sektor | Sektorbezeichnung | Emissions- intensität | Kompensa- tionsgrad |
+| 1 | 2 | 3 | 4 |
+| 23.51 | Herstellung von Zement | 22,89 | 95 % |
+| 23.52 | Herstellung von Kalk und gebranntem Gips | 20,25 | 95 % |
+| 19.10 | Kokerei | 18,40 | 95 % |
+| 19.20 | Mineralölverarbeitung | 11,44 | 95 % |
+| 20.15 | Herstellung von Düngemitteln und Stickstoffverbindungen | 7,08 | 95 % |
+| 24.10 | Erzeugung von Roheisen, Stahl und Ferrolegierungen | 6,86 | 95 % |
+| 23.11 | Herstellung von Flachglas | 5,46 | 95 % |
+| 10.81 | Herstellung von Zucker | 2,79 | 95 % |
+| 07.10 | Eisenerzbergbau | 2,73 | 95 % |
+| 23.32 | Herstellung von Ziegeln und sonstiger Baukeramik | 2,58 | 95 % |
+| 23.31 | Herstellung von keramischen Wand- und Bodenfliesen und -platten | 2,00 | 95 % |
+| 23.13 | Herstellung von Hohlglas | 1,96 | 95 % |
+| 08.99 | Gewinnung von Steinen und Erden a. n. g.* | 1,95 | 95 % |
+| 10.62 | Herstellung von Stärke und Stärkeerzeugnissen | 1,85 | 95 % |
+| 20.14 | Herstellung von sonstigen organischen Grundstoffen und Chemikalien | 1,76 | 90 % |
+| 20.11 | Herstellung von Industriegasen | 1,73 | 90 % |
+| 20.13 | Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien | 1,68 | 90 % |
+| 24.42 | Erzeugung und erste Bearbeitung von Aluminium | 1,62 | 90 % |
+| 17.12 | Herstellung von Papier, Karton und Pappe | 1,53 | 90 % |
+| 24.43 | Erzeugung und erste Bearbeitung von Blei, Zink und Zinn | 1,34 | 85 % |
+| 17.11 | Herstellung von Holz- und Zellstoff | 0,97 | 80 % |
+| 23.14 | Herstellung von Glasfasern und Waren daraus | 0,74 | 75 % |
+| 23.20 | Herstellung von feuerfesten keramischen Werkstoffen und Waren | 0,70 | 75 % |
+| 20.12 | Herstellung von Farbstoffen und Pigmenten | 0,62 | 75 % |
+| 10.41 | Herstellung von Ölen und Fetten (ohne Margarine u. ä. Nahrungsfette) | 0,59 | 70 % |
+| 08.93 | Gewinnung von Salz | 0,58 | 70 % |
+| 11.06 | Herstellung von Malz | 0,53 | 70 % |
+| 20.17 | Herstellung von synthetischem Kautschuk in Primärformen | 0,49 | 70 % |
+| 24.44 | Erzeugung und erste Bearbeitung von Kupfer | 0,49 | 70 % |
+| 24.51 | Eisengießereien | 0,47 | 70 % |
+| 23.99 | Herstellung von sonstigen Erzeugnissen aus nichtmetallischen Mineralien a. n. g. | 0,46 | 70 % |
+| 16.21 | Herstellung von Furnier-, Sperrholz-, Holzfaser-und Holzspanplatten | 0,41 | 70 % |
+| 06.10 | Gewinnung von Erdöl | 0,39 | 70 % |
+| 24.31 | Herstellung von Blankstahl | 0,34 | 70 % |
+| 20.60 | Herstellung von Chemiefasern | 0,30 | 65 % |
+| 24.46 | Aufbereitung von Kernbrennstoffen | 0,29 | 65 % |
+| 23.19 | Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschließlich technischen Glaswaren | 0,27 | 65 % |
+| 23.42 | Herstellung von Sanitärkeramik | 0,27 | 65 % |
+| 24.20 | Herstellung von Stahlrohren, Rohrform-, Rohrverschluss-und Rohrverbindungsstücken aus Stahl | 0,19 | 65 % |
+| 20.16 | Herstellung von Kunststoffen in Primärformen | 0,18 | 65 % |
+| 08.91 | Bergbau auf chemische und Düngemittelminerale | 0,16 | 65 % |
+| 23.41 | Herstellung von keramischen Haushaltswaren und Ziergegenständen | 0,13 | 65 % |
+| 13.30 | Veredlung von Textilien und Bekleidung | 0,13 | 65 % |
+| 13.95 | Herstellung von Vliesstoff und Erzeugnissen daraus (ohne Bekleidung) | 0,06 | 65 % |
+| 21.10 | Herstellung von pharmazeutischen Grundstoffen | 0,05 | 65 % |
+| 24.45 | Erzeugung und erste Bearbeitung von sonstigen NE-Metallen | 0,05 | 65 % |
+| 13.10 | Spinnstoffaufbereitung und Spinnerei | 0,01 | 65 % |
+| 05.10 | Steinkohlenbergbau | 0,01 | 65 % |
+Tabelle 2
+(Beihilfeberechtigte Teilsektoren)
+| Sektor | Sektorbezeichnung | Emissions- intensität | Kompensa- tionsgrad |
+| 1 | 2 | 3 | 4 |
+| 10.31.11.30 | Verarbeitete Kartoffeln, ohne Essig oder Essigsäure zubereitet oder haltbar gemacht, gefroren (auch ganz oder teilweise in Öl gegart und dann gefroren) | 0,30 | 65 % |
+| 10.31.13.00 | Mehl, Grieß, Flocken, Granulat und Pellets aus getrockneten Kartoffeln | 0,30 | 65 % |
+| 10.51.21 | Magermilchpulver | 0,14 | 65 % |
+| 10.51.22 | Vollmilchpulver | 0,14 | 65 % |
+| 10.51.53 | Casein | 0,14 | 65 % |
+| 10.51.54 | Lactose und Lactosesirup | 0,14 | 65 % |
+| 10.51.55.30 | Molke, auch modifiziert, in Form von Pulver und Granulat oder in anderer fester Form; auch konzentriert oder gesüßt | 0,14 | 65 % |
+| 10.39.17.25 | Tomatenmark, konzentriert | 0,10 | 65 % |
+| 10.89.13.34 | Backhefen | 0,04 | 65 % |
+| 20.30.21.50 | Schmelzglasuren und andere verglasbare Massen, Engoben und ähnliche Zubereitungen für die Keramik-, Emaillier- oder Glasindustrie | 0,04 | 65 % |
+| 20.30.21.70 | Flüssige Glanzmittel und ähnliche Zubereitungen; Glasfritte und anderes Glas in Form von Pulver, Granalien, Schuppen oder Flocken | 0,04 | 65 % |
+| 25.50.11.34 | Eisenhaltige Freiformschmiedestücke für Maschinenwellen, Kurbelwellen, Nockenwellen und Kurbeln | 0,04 | 65 % |
+| 08.12.21 | Kaolin und anderer kaolinhaltiger Ton und Lehm, roh oder gebrannt | 0,03 | 65 % |

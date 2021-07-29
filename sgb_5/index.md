@@ -1015,5 +1015,5 @@ von Leistungsdaten, Datentransparenz
 - [§ 414 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen](0414.md)
 - [§ 415 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung](0415.md)
 - [§ 416 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0416.md)
-- [§ 417 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung](0417.md)
+- [§ 417 (weggefallen)](0417.md)
 - [Anlage (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung](anlage.md)

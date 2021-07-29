@@ -29,7 +29,7 @@ Planzeichen für Bauleitpläne
 | 1.2.1. | Dorfgebiete(§ 5 BauNVO) |  |  |  | Braun mittel |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| 1.2.2. | DörflicheWohngebiete(§ 5a BauNVO) |  |  |
+| 1.2.2. | DörflicheWohngebiete(§ 5a BauNVO) |  |  |  | Braun mittel |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | 1.2.3. | Mischgebiete(§ 6 BauNVO) |  |  |  | Braun mittel |

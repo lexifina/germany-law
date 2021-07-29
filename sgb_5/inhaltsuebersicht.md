@@ -93,7 +93,7 @@
 | Dritter Abschnitt | Datenlöschung, Auskunftspflicht ....... | §§ 304 und 305b |
 |  |  |
 | Elftes Kapitel | Telematikinfrastruktur ....... | §§ 306 bis 383 |
-| Zwölftes Kapitel | Interoperabilitätsverzeichnis ....... | §§ 384 bis 393 |
-| Dreizehntes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 394 bis 397 |
-| Vierzehntes Kapitel | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands ....... | §§ 398 bis 400 |
-| Fünfzehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 401 bis 417 |
+| Zwölftes Kapitel | Interoperabilitätsverzeichnis ....... | §§ 384 bis 395 |
+| Dreizehntes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 396 bis 399 |
+| Vierzehntes Kapitel | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands ....... | §§ 400 bis 402 |
+| Fünfzehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 403 bis 417 |
