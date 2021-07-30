@@ -19,6 +19,7 @@
 - [§ 6 Einteilung der Fahrerlaubnisklassen](0006.md)
 - [§ 6a Fahrerlaubnis der Klasse B mit der Schlüsselzahl 96](0006a.md)
 - [§ 6b Fahrerlaubnis der Klasse B mit der Schlüsselzahl 196](0006b.md)
+- [§ 6c Sonderbestimmungen für das Führen von Einsatzfahrzeugen der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und des Katastrophenschutzes](0006c.md)
 
 ### 2. Voraussetzungen für die Erteilung einer Fahrerlaubnis
 

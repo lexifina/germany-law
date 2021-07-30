@@ -3,7 +3,7 @@
 Abschnitt I
 Fahrlässig begangene Ordnungswidrigkeiten
 | Lfd. Nr. | Tatbestand | Straßenverkehrs-Ordnung(StVO) | Regelsatz in Euro (€), Fahrverbot in Monaten |
-|  | A. Zuwiderhandlungen gegen § 24 StVG |  |  |
+|  | A. Zuwiderhandlungen gegen § 24 Absatz 1 StVG |  |  |
 |  | a) Straßenverkehrs-Ordnung |  |  |
 |  | Grundregeln |  |  |
 | 1 | Durch Außer-Acht-Lassen der im Verkehr erforderlichen Sorgfalt | § 1 Absatz 2 § 49 Absatz 1 Nummer 1 |  |
@@ -708,7 +708,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 Abschnitt II
 Vorsätzlich begangene Ordnungswidrigkeiten
 | Lfd. Nr. | Tatbestand | StVO | Regelsatz in Euro (€), Fahrverbot in Monaten |
-|  | Zuwiderhandlungen gegen § 24 StVG |  |  |
+|  | Zuwiderhandlungen gegen § 24 Absatz 1 StVG |  |  |
 |  | a) Straßenverkehrs-Ordnung |  |  |
 |  | Bahnübergänge |  |  |
 | 244 | Beim Führen eines Kraftfahrzeugs Bahnübergang trotz geschlossener Schranke oder Halbschranke überquert | § 19 Absatz 2 Satz 1 Nummer 3 § 49 Absatz 1 Nummer 19 Buchstabe a | 700 €Fahrverbot 3 Monate |

@@ -18,7 +18,7 @@
 - [§ 5 Verlust von Dokumenten und Kennzeichen](0005.md)
 - [§ 5a](0005a.md)
 - [§ 5b Unterhaltung der Verkehrszeichen](0005b.md)
-- [§ 6 Ausführungsvorschriften](0006.md)
+- [§ 6 Verordnungsermächtigungen](0006.md)
 - [§ 6a Gebühren](0006a.md)
 - [§ 6b Herstellung, Vertrieb und Ausgabe von Kennzeichen](0006b.md)
 - [§ 6c Herstellung, Vertrieb und Ausgabe von Kennzeichenvorprodukten](0006c.md)
@@ -56,14 +56,13 @@ Haftungsausschlusses](0008a.md)
 - [§ 22a Missbräuchliches Herstellen, Vertreiben oder Ausgeben von
 Kennzeichen](0022a.md)
 - [§ 22b Missbrauch von Wegstreckenzählern und Geschwindigkeitsbegrenzern](0022b.md)
-- [§ 23 Feilbieten nicht genehmigter Fahrzeuge, Fahrzeugteile und Ausrüstungen](0023.md)
-- [§ 24 Verkehrsordnungswidrigkeit](0024.md)
+- [§ 23 (weggefallen)](0023.md)
+- [§ 24 Bußgeldvorschriften](0024.md)
 - [§ 24a 0,5 Promille-Grenze](0024a.md)
-- [§ 24b Mangelnde Nachweise für Herstellung, Vertrieb und
-Ausgabe von Kennzeichen](0024b.md)
+- [§ 24b (weggefallen)](0024b.md)
 - [§ 24c Alkoholverbot für Fahranfänger und Fahranfängerinnen](0024c.md)
 - [§ 25 Fahrverbot](0025.md)
-- [§ 25a Kostentragungspflicht des Halters eines Kraftfahrzeugs](0025a.md)
+- [§ 25a Kostentragungspflicht des Halters](0025a.md)
 - [§ 26 Zuständige Verwaltungsbehörde; Verjährung](0026.md)
 - [§ 26a Bußgeldkatalog](0026a.md)
 - [§ 27 Informationsschreiben](0027.md)
@@ -77,7 +76,7 @@ Ausgabe von Kennzeichen](0024b.md)
 - [§ 30 Übermittlung](0030.md)
 - [§ 30a Direkteinstellung und Abruf im automatisierten Verfahren](0030a.md)
 - [§ 30b Automatisiertes Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt](0030b.md)
-- [§ 30c Ermächtigungsgrundlagen, Ausführungsvorschriften](0030c.md)
+- [§ 30c Verordnungsermächtigungen, Ausführungsvorschriften](0030c.md)
 
 ## V. Fahrzeugregister
 
@@ -97,6 +96,7 @@ Ausgabe von Kennzeichen](0024b.md)
 - [§ 38a Übermittlung an und Verwendung durch den Empfänger für statistische Zwecke](0038a.md)
 - [§ 38b Übermittlung an und Verwendung durch den Empfänger für planerische Zwecke](0038b.md)
 - [§ 39 Übermittlung von Fahrzeugdaten und Halterdaten zur Verfolgung von Rechtsansprüchen](0039.md)
+- [§ 39a Auskunft über Daten](0039a.md)
 - [§ 40 Übermittlung sonstiger Daten](0040.md)
 - [§ 41 Übermittlungssperren](0041.md)
 - [§ 42 Datenabgleich zur Beseitigung von Fehlern](0042.md)
@@ -104,7 +104,7 @@ Ausgabe von Kennzeichen](0024b.md)
 - [§ 44 Löschung der Daten in den Fahrzeugregistern](0044.md)
 - [§ 45 Anonymisierte Daten](0045.md)
 - [§ 46](0046.md)
-- [§ 47 Ermächtigungsgrundlagen, Ausführungsvorschriften](0047.md)
+- [§ 47 Verordnungsermächtigungen, Ausführungsvorschriften](0047.md)
 
 ## VI. Fahrerlaubnisregister
 
@@ -123,13 +123,16 @@ Ausgabe von Kennzeichen](0024b.md)
 - [§ 60 Allgemeine Vorschriften für die Datenübermittlung an und die Verarbeitung der Daten durch den Empfänger](0060.md)
 - [§ 61 Löschung der Daten](0061.md)
 - [§ 62 Register über die Dienstfahrerlaubnisse der Bundeswehr](0062.md)
-- [§ 63 Ermächtigungsgrundlagen, Ausführungsvorschriften](0063.md)
+- [§ 63 Verordnungsermächtigungen, Ausführungsvorschriften](0063.md)
 
 ## VIa. Datenverarbeitung
 
 - [§ 63a Datenverarbeitung bei Kraftfahrzeugen mit hoch- oder vollautomatisierter Fahrfunktion](0063a.md)
-- [§ 63b Ermächtigungsgrundlagen](0063b.md)
+- [§ 63b Verordnungsermächtigungen](0063b.md)
 - [§ 63c Datenverarbeitung im Rahmen der Überprüfung der Einhaltung von Verkehrsbeschränkungen und Verkehrsverboten aufgrund immissionsschutzrechtlicher Vorschriften oder aufgrund straßenverkehrsrechtlicher Vorschriften zum Schutz vor Abgasen](0063c.md)
+- [§ 63d Informationen an die Halter](0063d.md)
+- [§ 63e Datenerhebung, Datenspeicherung und Datenverwendung für das Verkehrsmanagement](0063e.md)
+- [§ 63f Verkehrsunfallforschung, Verordnungsermächtigung](0063f.md)
 
 ## VII. Gemeinsame Vorschriften, Übergangsbestimmungen
 

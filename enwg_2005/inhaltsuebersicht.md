@@ -28,10 +28,11 @@
 | § 6d | Betrieb eines Kombinationsnetzbetreibers |
 |  |
 | Abschnitt 2 |
-| Entflechtung von Verteilernetzbetreibern und Betreibern von Speicheranlagen |
+| Entflechtung von Verteilernetzbetreibern und Betreibern von Gasspeicheranlagen |
 | § 7 | Rechtliche Entflechtung von Verteilernetzbetreibern |
 | § 7a | Operationelle Entflechtung von Verteilernetzbetreibern |
-| § 7b | Entflechtung von Speicheranlagenbetreibern und Transportnetzeigentümern |
+| § 7b | Entflechtung von Gasspeicheranlagenbetreibern und Transportnetzeigentümern |
+| § 7c | Ausnahme für Ladepunkte für Elektromobile; Verordnungsermächtigung |
 |  |
 | Abschnitt 3 |
 | Besondere Entflechtungsvorgaben für Transportnetzbetreiber |
@@ -50,6 +51,8 @@
 | Abschnitt 1 |
 | Aufgaben der Netzbetreiber |
 | § 11 | Betrieb von Energieversorgungsnetzen |
+| § 11a | Ausschreibung von Energiespeicheranlagen, Festlegungskompetenz |
+| § 11b | Ausnahme für Energiespeicheranlagen, Festlegungskompetenz |
 | § 12 | Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung |
 | § 12a | Szenariorahmen für die Netzentwicklungsplanung |
 | § 12b | Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen |
@@ -74,6 +77,9 @@
 | § 14 | Aufgaben der Betreiber von Elektrizitätsverteilernetzen |
 | § 14a | Steuerbare Verbrauchseinrichtungen in Niederspannung; Verordnungsermächtigung |
 | § 14b | Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung |
+| § 14c | Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz |
+| § 14d | Netzausbaupläne, Verordnungsermächtigung; Festlegungskompetenz |
+| § 14e | Gemeinsame Internetplattform; Festlegungskompetenz |
 | § 15 | Aufgaben der Betreiber von Fernleitungsnetzen |
 | § 15a | Netzentwicklungsplan der Fernleitungsnetzbetreiber |
 | § 15b | Umsetzungsbericht der Fernleitungsnetzbetreiber |
@@ -102,7 +108,7 @@
 | § 20 | Zugang zu den Energieversorgungsnetzen |
 | § 20a | Lieferantenwechsel |
 | § 21 | Bedingungen und Entgelte für den Netzzugang |
-| § 21a | Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung |
+| § 21a | Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Verordnungsermächtigung |
 | § 21b | (weggefallen) |
 | § 21c | (weggefallen) |
 | § 21d | (weggefallen) |
@@ -114,16 +120,39 @@
 | § 22 | Beschaffung der Energie zur Erbringung von Ausgleichsleistungen |
 | § 23 | Erbringung von Ausgleichsleistungen |
 | § 23a | Genehmigung der Entgelte für den Netzzugang |
+| § 23b | Veröffentlichungen der Regulierungsbehörde; Festlegungskompetenz |
+| § 23c | Veröffentlichungspflichten der Netzbetreiber |
+| § 23d | Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu den Energieversorgungsnetzen |
 | § 24 | Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zur Erbringung und Beschaffung von Ausgleichsleistungen; Verordnungsermächtigung |
 | § 24a | Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse |
 | § 25 | Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen |
-| § 26 | Zugang zu den vorgelagerten Rohrleitungsnetzen und zu Speicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas |
+| § 26 | Zugang zu den vorgelagerten Rohrleitungsnetzen und zu Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas |
 | § 27 | Zugang zu den vorgelagerten Rohrleitungsnetzen |
-| § 28 | Zugang zu Speicheranlagen |
+| § 28 | Zugang zu Gasspeicheranlagen; Verordnungsermächtigung |
 | § 28a | Neue Infrastrukturen |
 | § 28b | Bestandsleitungen zwischen Deutschland und einem Drittstaat |
 | § 28c | Technische Vereinbarungen über den Betrieb von Gasverbindungsleitungen mit Drittstaaten |
 |  |
+| Abschnitt 3a |
+| Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen |
+| § 28d | Anwendungsbereich |
+| § 28e | Grundsätze der Netzkostenermittlung |
+| § 28f | Feststellung der Netzkosten durch die Bundesnetzagentur |
+| § 28g | Zahlungsanspruch zur Deckung der Netzkosten |
+| § 28h | Anspruch auf Herausgabe von Engpasserlösen |
+| § 28i | Verordnungsermächtigung |
+|  |  |
+| Abschnitt 3b |
+| Regulierung von Wasserstoffnetzen |
+| § 28j | Anwendungsbereich der Regulierung von Wasserstoffnetzen |
+| § 28k | Rechnungslegung und Buchführung |
+| § 28l | Ordnungsgeldvorschriften |
+| § 28m | Entflechtung |
+| § 28n | Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung |
+| § 28o | Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung |
+| § 28p | Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen |
+| § 28q | Bericht zur erstmaligen Erstellung des Netzentwicklungsplans Wasserstoff |
+|  |  |
 | Abschnitt 4 |
 | Befugnisse der Regulierungsbehörde, Sanktionen |
 | § 29 | Verfahren zur Festlegung und Genehmigung |
@@ -140,8 +169,16 @@
 | § 37 | Ausnahmen von der Grundversorgungspflicht |
 | § 38 | Ersatzversorgung mit Energie |
 | § 39 | Allgemeine Preise und Versorgungsbedingungen |
-| § 40 | Strom- und Gasrechnungen, Tarife |
-| § 41 | Energielieferverträge mit Haushaltskunden, Verordnungsermächtigung |
+| § 40 | Inhalt von Strom- und Gasrechnungen; Festlegungskompetenz |
+| § 40a | Verbrauchsermittlung für Strom- und Gasrechnungen |
+| § 40b | Rechnungs- und Informationszeiträume |
+| § 40c | Zeitpunkt und Fälligkeit von Strom- und Gasrechnungen |
+| § 41 | Energielieferverträge mit Letztverbrauchern |
+| § 41a | Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife |
+| § 41b | Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung; Verordnungsermächtigung |
+| § 41c | Vergleichsinstrumente bei Energielieferungen |
+| § 41d | Erbringung von Dienstleistungen außerhalb bestehender Liefer- oder Bezugsverträge; Festlegungskompetenz |
+| § 41e | Verträge zwischen Aggregatoren und Betreibern einer Erzeugungsanlage oder Letztverbrauchern |
 | § 42 | Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung |
 | § 42a | Mieterstromverträge |
 |  |
@@ -159,6 +196,7 @@
 | § 43i | Überwachung |
 | § 43j | Leerrohre für Hochspannungsleitungen |
 | § 43k | Zurverfügungstellung von Geodaten |
+| § 43l | Regelungen zum Auf- und Ausbau von Wasserstoffnetzen |
 | § 44 | Vorarbeiten |
 | § 44a | Veränderungssperre, Vorkaufsrecht |
 | § 44b | Vorzeitige Besitzeinweisung |
@@ -194,6 +232,7 @@
 | § 56 | Tätigwerden der Bundesnetzagentur beim Vollzug des europäischen Rechts |
 | § 57 | Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission |
 | § 57a | Überprüfungsverfahren |
+| § 57b | Zuständigkeit für regionale Koordinierungszentren; Festlegungskompetenz |
 | § 58 | Zusammenarbeit mit den Kartellbehörden |
 | § 58a | Zusammenarbeit zur Durchführung der Verordnung (EU) Nr. 1227/2011 |
 | § 58b | Beteiligung der Bundesnetzagentur und Mitteilungen in Strafsachen |
@@ -303,7 +342,11 @@
 | Evaluierung, Schlussvorschriften |
 | § 112 | Evaluierungsbericht |
 | § 112a | Bericht der Bundesnetzagentur zur Einführung einer Anreizregulierung |
+| § 112b | Berichte des Bundesministeriums für Wirtschaft und Energie sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung |
 | § 113 | Laufende Wegenutzungsverträge |
+| § 113a | Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen |
+| § 113b | Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas der Fernleitungsnetzbetreiber |
+| § 113c | Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben |
 | § 114 | Wirksamwerden der Entflechtungsbestimmungen |
 | § 115 | Bestehende Verträge |
 | § 116 | Bisherige Tarifkundenverträge |
@@ -311,8 +354,8 @@
 | § 117a | Regelung bei Stromeinspeisung in geringem Umfang |
 | § 117b | Verwaltungsvorschriften |
 | § 118 | Übergangsregelungen |
-| § 118a | Übergangsregelung zur Ausschreibung von Batteriespeicheranlagen, Festlegungskompetenz |
-| § 118b | Übergangsregelung zur Genehmigung von Batteriespeicheranlagen im Eigentum eines Betreibers von Übertragungsnetzen, Festlegungskompetenz |
+| § 118a | (weggefallen) |
+| § 118b | (weggefallen) |
 | § 119 | Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“ |
 | § 120 | Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung |
 | Anlage (zu § 13g) | Berechnung der Vergütung |

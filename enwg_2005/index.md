@@ -29,11 +29,12 @@
 - [§ 6c Ordnungsgeldvorschriften](0006c.md)
 - [§ 6d Betrieb eines Kombinationsnetzbetreibers](0006d.md)
 
-### Abschnitt 2 Entflechtung von Verteilernetzbetreibern und Betreibern von Speicheranlagen
+### Abschnitt 2 Entflechtung von Verteilernetzbetreibern und Betreibern von Gasspeicheranlagen
 
 - [§ 7 Rechtliche Entflechtung von Verteilernetzbetreibern](0007.md)
 - [§ 7a Operationelle Entflechtung von Verteilernetzbetreibern](0007a.md)
-- [§ 7b Entflechtung von Speicheranlagenbetreibern und Transportnetzeigentümern](0007b.md)
+- [§ 7b Entflechtung von Gasspeicheranlagenbetreibern und Transportnetzeigentümern](0007b.md)
+- [§ 7c Ausnahme für Ladepunkte für Elektromobile; Verordnungsermächtigung](0007c.md)
 
 ### Abschnitt 3 Besondere Entflechtungsvorgaben für Transportnetzbetreiber
 
@@ -52,6 +53,8 @@
 ### Abschnitt 1 Aufgaben der Netzbetreiber
 
 - [§ 11 Betrieb von Energieversorgungsnetzen](0011.md)
+- [§ 11a Ausschreibung von Energiespeicheranlagen, Festlegungskompetenz](0011a.md)
+- [§ 11b Ausnahme für Energiespeicheranlagen, Festlegungskompetenz](0011b.md)
 - [§ 12 Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung](0012.md)
 - [§ 12a Szenariorahmen für die Netzentwicklungsplanung](0012a.md)
 - [§ 12b Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen](0012b.md)
@@ -76,6 +79,9 @@
 - [§ 14 Aufgaben der Betreiber von Elektrizitätsverteilernetzen](0014.md)
 - [§ 14a Steuerbare Verbrauchseinrichtungen in Niederspannung; Verordnungsermächtigung](0014a.md)
 - [§ 14b Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung](0014b.md)
+- [§ 14c Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz](0014c.md)
+- [§ 14d Netzausbaupläne, Verordnungsermächtigung; Festlegungskompetenz](0014d.md)
+- [§ 14e Gemeinsame Internetplattform; Festlegungskompetenz](0014e.md)
 - [§ 15 Aufgaben der Betreiber von Fernleitungsnetzen](0015.md)
 - [§ 15a Netzentwicklungsplan der Fernleitungsnetzbetreiber](0015a.md)
 - [§ 15b Umsetzungsbericht der Fernleitungsnetzbetreiber](0015b.md)
@@ -104,7 +110,7 @@
 - [§ 20 Zugang zu den Energieversorgungsnetzen](0020.md)
 - [§ 20a Lieferantenwechsel](0020a.md)
 - [§ 21 Bedingungen und Entgelte für den Netzzugang](0021.md)
-- [§ 21a Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung](0021a.md)
+- [§ 21a Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Verordnungsermächtigung](0021a.md)
 - [§ 21b (weggefallen)](0021b.md)
 - [§ 21c (weggefallen)](0021c.md)
 - [§ 21d (weggefallen)](0021d.md)
@@ -116,15 +122,38 @@
 - [§ 22 Beschaffung der Energie zur Erbringung von Ausgleichsleistungen](0022.md)
 - [§ 23 Erbringung von Ausgleichsleistungen](0023.md)
 - [§ 23a Genehmigung der Entgelte für den Netzzugang](0023a.md)
+- [§ 23b Veröffentlichungen der Regulierungsbehörde; Festlegungskompetenz](0023b.md)
+- [§ 23c Veröffentlichungspflichten der Netzbetreiber](0023c.md)
+- [§ 23d Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu Energieversorgungsnetzen](0023d.md)
 - [§ 24 Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zur Erbringung und Beschaffung von Ausgleichsleistungen; Verordnungsermächtigung](0024.md)
 - [§ 24a Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse](0024a.md)
 - [§ 25 Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen](0025.md)
-- [§ 26 Zugang zu den vorgelagerten Rohrleitungsnetzen und zu Speicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas](0026.md)
+- [§ 26 Zugang zu den vorgelagerten Rohrleitungsnetzen und zu Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas](0026.md)
 - [§ 27 Zugang zu den vorgelagerten Rohrleitungsnetzen](0027.md)
-- [§ 28 Zugang zu Speicheranlagen](0028.md)
+- [§ 28 Zugang zu Gasspeicheranlagen; Verordnungsermächtigung](0028.md)
 - [§ 28a Neue Infrastrukturen](0028a.md)
 - [§ 28b Bestandsleitungen zwischen Deutschland und einem Drittstaat](0028b.md)
 - [§ 28c Technische Vereinbarungen über den Betrieb von Gasverbindungsleitungen mit Drittstaaten](0028c.md)
+
+### Abschnitt 3a Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen
+
+- [§ 28d Anwendungsbereich](0028d.md)
+- [§ 28e Grundsätze der Netzkostenermittlung](0028e.md)
+- [§ 28f Feststellung der Netzkosten durch die Bundesnetzagentur](0028f.md)
+- [§ 28g Zahlungsanspruch zur Deckung der Netzkosten](0028g.md)
+- [§ 28h Anspruch auf Herausgabe von Engpasserlösen](0028h.md)
+- [§ 28i Verordnungsermächtigung](0028i.md)
+
+### Abschnitt 3b Regulierung von Wasserstoffnetzen
+
+- [§ 28j Anwendungsbereich der Regulierung von Wasserstoffnetzen](0028j.md)
+- [§ 28k Rechnungslegung und Buchführung](0028k.md)
+- [§ 28l Ordnungsgeldvorschriften](0028l.md)
+- [§ 28m Entflechtung](0028m.md)
+- [§ 28n Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung](0028n.md)
+- [§ 28o Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung](0028o.md)
+- [§ 28p Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen](0028p.md)
+- [§ 28q Bericht zur erstmaligen Erstellung des Netzentwicklungsplans Wasserstoff](0028q.md)
 
 ### Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen
 
@@ -142,8 +171,16 @@
 - [§ 37 Ausnahmen von der Grundversorgungspflicht](0037.md)
 - [§ 38 Ersatzversorgung mit Energie](0038.md)
 - [§ 39 Allgemeine Preise und Versorgungsbedingungen](0039.md)
-- [§ 40 Strom- und Gasrechnungen, Tarife](0040.md)
-- [§ 41 Energielieferverträge mit Haushaltskunden, Verordnungsermächtigung](0041.md)
+- [§ 40 Inhalt von Strom- und Gasrechnungen; Festlegungskompetenz](0040.md)
+- [§ 40a Verbrauchsermittlung für Strom- und Gasrechnungen](0040a.md)
+- [§ 40b Rechnungs- und Informationszeiträume](0040b.md)
+- [§ 40c Zeitpunkt und Fälligkeit von Strom- und Gasrechnungen](0040c.md)
+- [§ 41 Energielieferverträge mit Letztverbrauchern](0041.md)
+- [§ 41a Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife](0041a.md)
+- [§ 41b Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung; Verordnungsermächtigung](0041b.md)
+- [§ 41c Vergleichsinstrumente bei Energielieferungen](0041c.md)
+- [§ 41d Erbringung von Dienstleistungen außerhalb bestehender Liefer- oder Bezugsverträge; Festlegungskompetenz](0041d.md)
+- [§ 41e Verträge zwischen Aggregatoren und Betreibern einer Erzeugungsanlage oder Letztverbrauchern](0041e.md)
 - [§ 42 Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung](0042.md)
 - [§ 42a Mieterstromverträge](0042a.md)
 
@@ -161,6 +198,7 @@
 - [§ 43i Überwachung](0043i.md)
 - [§ 43j Leerrohre für Hochspannungsleitungen](0043j.md)
 - [§ 43k Zurverfügungstellung von Geodaten](0043k.md)
+- [§ 43l Regelungen zum Auf- und Ausbau von Wasserstoffnetzen](0043l.md)
 - [§ 44 Vorarbeiten](0044.md)
 - [§ 44a Veränderungssperre, Vorkaufsrecht](0044a.md)
 - [§ 44b Vorzeitige Besitzeinweisung](0044b.md)
@@ -196,6 +234,7 @@
 - [§ 56 Tätigwerden der Bundesnetzagentur beim Vollzug des europäischen Rechts](0056.md)
 - [§ 57 Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission](0057.md)
 - [§ 57a Überprüfungsverfahren](0057a.md)
+- [§ 57b Zuständigkeit für regionale Koordinierungszentren; Festlegungskompetenz](0057b.md)
 - [§ 58 Zusammenarbeit mit den Kartellbehörden](0058.md)
 - [§ 58a Zusammenarbeit zur Durchführung der Verordnung (EU) Nr. 1227/2011](0058a.md)
 - [§ 58b Beteiligung der Bundesnetzagentur und Mitteilungen in Strafsachen](0058b.md)
@@ -305,7 +344,11 @@
 
 - [§ 112 Evaluierungsbericht](0112.md)
 - [§ 112a Bericht der Bundesnetzagentur zur Einführung einer Anreizregulierung](0112a.md)
+- [§ 112b Berichte des Bundesministeriums für Wirtschaft und Energie sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung](0112b.md)
 - [§ 113 Laufende Wegenutzungsverträge](0113.md)
+- [§ 113a Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen](0113a.md)
+- [§ 113b Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas der Fernleitungsnetzbetreiber](0113b.md)
+- [§ 113c Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben](0113c.md)
 - [§ 114 Wirksamwerden der Entflechtungsbestimmungen](0114.md)
 - [§ 115 Bestehende Verträge](0115.md)
 - [§ 116 Bisherige Tarifkundenverträge](0116.md)
@@ -313,8 +356,6 @@
 - [§ 117a Regelung bei Stromeinspeisung in geringem Umfang](0117a.md)
 - [§ 117b Verwaltungsvorschriften](0117b.md)
 - [§ 118 Übergangsregelungen](0118.md)
-- [§ 118a Übergangsregelung zur Ausschreibung von Batteriespeicheranlagen, Festlegungskompetenz](0118a.md)
-- [§ 118b Übergangsregelung zur Genehmigung von Batteriespeicheranlagen im Eigentum eines Betreibers von Übertragungsnetzen, Festlegungskompetenz](0118b.md)
 - [§ 119 Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“](0119.md)
 - [§ 120 Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung](0120.md)
 - [Anlage (zu § 13g) Berechnung der Vergütung](anlage-zu-13g.md)

@@ -3,7 +3,7 @@
 1. Abschnitt
 Gebühren des Bundes
 | Gebühren- Nummer | Gegenstand | Gebühr Euro |
-|  | A. | Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassungsverordnung, Fahrerlaubnis-Verordnung, Berufskraftfahrerqualifikationsverordnung, Straßenverkehrs-Ordnung, EG-Fahrzeuggenehmigungsverordnung, Fahrzeugteileverordnung, Fahrpersonalverordnung und Internationale Vereinbarungen |  |
+|  | A. | Straßenverkehrsgesetz, Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassungsverordnung, Fahrerlaubnis-Verordnung, Berufskraftfahrerqualifikationsverordnung, Straßenverkehrs-Ordnung, EG-Fahrzeuggenehmigungsverordnung, Fahrzeugteileverordnung, Fahrpersonalverordnung und Internationale Vereinbarungen |  |
 |  | 1. | Erlaubnisse und Genehmigungen für Fahrzeuge und Fahrzeugteile sowie Autorisierungen |  |
 | 111 |  | Erteilung |  |
 | 111.1 |  | einer Allgemeinen Betriebserlaubnis (ABE) oder EG-Typgenehmigung (Mehrphasen-Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für Fahrzeugtypen bei Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien | 534,00 bis 734,00 |
@@ -72,7 +72,7 @@ Gebühren des Bundes
 | 127 |  | Registrierung einer elektronischen Mitteilung über die Zuteilung eines Versicherungskennzeichens im ZFZR | 0,20 |
 |  | 3. | Mitwirkung bei der Aufbietung von Urkunden |  |
 | 131 |  | Aufbietung einer verlorenen Zulassungsbescheinigung Teil II, einschließlich der Kosten der öffentlichen Bekanntmachung | 5,10 |
-|  | 4. | Auskünfte und Mitteilungen |  |
+|  | 4. | Auskünfte und Informationen und Mitteilungen |  |
 | 141 |  | Auskunft über ein Kraftfahrzeug oder einen Anhänger |  |
 | 141.1 |  | – im automatisierten Verfahren | 0,10 |
 | 141.2 |  | – im teilautomatisierten Verfahren (digitalisierte, formatgerechte Anfragen) | 4,00 |
@@ -80,6 +80,9 @@ Gebühren des Bundes
 | 142 |  | Sammelauskünfte im Rahmen von Rückrufaktionen |  |
 | 142.1 |  | – bei erstmaliger Durchführung | 1 500,00 bis 5 000,00 |
 | 142.2 |  | – im Wiederholungsfall | 1 000,00 bis 4 000,00 |
+| 143 |  | Übersendung eines Informationsschreibens an einen Halter nach § 63d StVG, sofern dies durch einen Antragsteller veranlasst wirdZusätzlich zu den Gebühren nach den Nummern 143.1 und 143.2 werden Portokosten als Auslagen gesondert in der tatsächlich entstandenen Höhe erhoben. |  |
+| 143.1 |  | – bei 1 bis 25 000 Schreiben | 2 500,00 bis 10 000,00 |
+| 143.2 |  | – bei mehr als 25 000 Schreiben | 5 000,00 bis 300 000,00 |
 | 144 |  | Schriftliche Auskunft über den Verbleib eines Fahrzeugs | 6,10 |
 | 145 |  | Auskunft aus dem Fahreignungsregister an eine Behörde in Fahrerlaubnisangelegenheiten und sonstigen in § 30 Absatz 1 Nummer 3, Absatz 2, 4, 4a und 4b StVG aufgeführten Verwaltungsmaßnahmen, soweit sie durch einen Antragsteller veranlasst werden | 3,30 |
 | 146 |  | Auskünfte aus dem und Mitteilungen an das Berufskraftfahrerqualifikationsregister (BQR), die im Zusammenhang mit der Ausstellung von Fahrerqualifizierungsnachweisen stehen | 5,00 |

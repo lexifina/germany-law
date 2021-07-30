@@ -16,7 +16,7 @@ A. Schwerwiegende Zuwiderhandlungen
 1.2 Straftaten nach dem Straßenverkehrsgesetz
   Führen oder Anordnung oder Zulassen des Führens eines Kraftfahrzeugs ohne Fahrerlaubnis, trotz Fahrverbots oder trotz Verwahrung, Sicherstellung oder Beschlagnahme des Führerscheins (§ 21)
 1.3 (weggefallen)
-2. Ordnungswidrigkeiten nach den §§ 24, 24a und § 24c des Straßenverkehrsgesetzes und weiterer straßenverkehrsrechtlicher Vorschriften:
+2. Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a und § 24c des Straßenverkehrsgesetzes und weiterer straßenverkehrsrechtlicher Vorschriften:
 2.1 Verstöße gegen die Vorschriften der Straßenverkehrs-Ordnung über
   | das Rechtsfahrgebot | (§ 2 Absatz 2) |
   | die Geschwindigkeit | (§ 3 Absatz 1, 2a, 3 und 4, § 41 Absatz 2, Anlage 3 zu § 42 Absatz 2) |
@@ -45,5 +45,5 @@ B. Weniger schwerwiegende Zuwiderhandlungen
   Sonstige Straftaten, soweit im Zusammenhang mit dem Straßenverkehr begangen und nicht in Abschnitt A aufgeführt
 1.2 Straftaten nach dem Straßenverkehrsgesetz
   Kennzeichenmissbrauch (§ 22)
-2. Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes,
+2. Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes,
   soweit nicht in Abschnitt A aufgeführt.
