@@ -1,8 +1,8 @@
 # Vollzitat: VwV Produktives Lernen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17795.1
+- Datum: 2021-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17795.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2018
+01.08.2021
 bis
-31.07.2021
+02.05.2025
 
 VwV Produktives Lernen
 
@@ -38,7 +38,7 @@ I.
 Gegenstand
 
 
-Diese Verwaltungsvorschrift legt die Rahmenbedingungen für die Durchführung des besonderen Bildungsweges Produktives Lernen im Freistaat Sachsen an ausgewählten Oberschulen fest. Es handelt sich um ein Bildungsangebot zum Erwerb eines dem Hauptschulabschluss gleichgestellten Abschlusses gemäß Teil 2 Abschnitt 10 der Schulordnung Ober- und Abendoberschulen vom 11. Juli 2011 (SächsGVBl. S. 277, 365), die zuletzt durch Artikel 1 der Verordnung vom 7. Mai 2018 (SächsGVBl. S. 223) geändert worden ist, in der jeweils geltenden Fassung.
+Diese Verwaltungsvorschrift legt die Rahmenbedingungen für die Durchführung des besonderen Bildungsweges Produktives Lernen im Freistaat Sachsen an ausgewählten Oberschulen fest. Es handelt sich um ein Bildungsangebot zum Erwerb eines dem Hauptschulabschluss gleichgestellten Abschlusses gemäß Teil 2 Abschnitt 10 der Schulordnung Ober- und Abendoberschulen vom 11. Juli 2011 (SächsGVBl. S. 277, 365), die zuletzt durch Artikel 4 der Verordnung vom 22. Juni 2021 (SächsGVBI. S. 713) geändert worden ist, in der jeweils geltenden Fassung.
 
 Der besondere Bildungsweg Produktives Lernen wird an folgenden Oberschulen eingerichtet:
 
@@ -72,7 +72,11 @@ Oberschule „Am Stadtrand“ Hoyerswerda,
 
 –
 
-Helmholtzschule Leipzig – Oberschule der Stadt Leipzig. 
+Helmholtzschule Leipzig – Oberschule der Stadt Leipzig, 
+
+–
+
+Pestalozzi-Oberschule Meißen.
 
 
 II.
@@ -150,7 +154,7 @@ VI.
 Individuelle Curricula, Bildungsstandards, Leistungsbewertung und Zeugnisse
 
 
-Zentrale Bezugspunkte des Produktiven Lernens sind die Bildungsinteressen sowie die individuellen Lern- und Entwicklungsvoraussetzungen der Schüler (vergleiche § 35a Absatz 1 des Sächsischen Schulgesetzes in der Fassung der Bekanntmachung vom 16. Juli 2004 [SächsGVBl. S. 298], das zuletzt durch Artikel 32 des Gesetzes vom 26. April 2018 [SächsGVBl. S. 198] geändert worden ist).
+Zentrale Bezugspunkte des Produktiven Lernens sind die Bildungsinteressen sowie die individuellen Lern- und Entwicklungsvoraussetzungen der Schüler (vergleiche § 35a Absatz 1 des Sächsischen Schulgesetzes in der Fassung der Bekanntmachung vom 27. September 2018 [SächsGVBI. S. 648], das zuletzt durch Artikel 17 des Gesetzes vom 21. Mai 2021 [SächsGVBI. S. 578] geändert worden ist).
 
 Der Nachweis von Leistungen erfolgt insbesondere durch die Vorlage und Präsentation von Lernergebnissen (Portfolio).
 
@@ -275,15 +279,18 @@ Erreichbare Punktzahl pro Bewertungsbereich
 
 | Mensch und Kultur²
 
+
 | 2 Punkte
 
 
 | Gesellschaft und Wirtschaft²
 
+
 | 2 Punkte
 
 
 | Natur und Technik²
+
 
 | 2 Punkte
 
@@ -458,9 +465,9 @@ Fsn-Nr.: 710-V18.7
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2018
+Fassung gültig ab:  1. August 2021
 
-Fassung gültig bis: 31. Juli 2021
+Fassung gültig bis:  2. Mai 2025
 
 Drucken/Speichern
 
@@ -487,7 +494,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17795.1
+https://www.revosax.sachsen.de/vorschrift/17795.2
 Stand vom
 18.11.2026
 
