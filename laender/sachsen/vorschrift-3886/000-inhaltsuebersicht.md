@@ -22,7 +22,8 @@ Abschnitt 4 Unterricht
 Abschnitt 5 Ermittlung und Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
 § 17 Grundlagen der Leistungsbewertung
 § 18 Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
-§ 19 Klassenarbeiten, Kurzkontrollen und Komplexe Leistungen
+§ 19 Leistungsnachweise
+§ 19a Organisation und Durchführung der Leistungsnachweise
 § 20 Hausaufgaben
 § 21 Täuschungen
 § 22 Halbjahresinformationen
