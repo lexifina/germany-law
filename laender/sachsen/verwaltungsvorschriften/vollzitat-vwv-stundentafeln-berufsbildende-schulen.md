@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.5
+- Datum: 2021-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2020
+01.08.2021
 bis
-31.07.2021
+07.10.2021
 
 VwV Stundentafeln berufsbildende Schulen
 
@@ -315,6 +315,16 @@ B.14
 Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Pflegefachfrau/Pflegefachmann
 
 
+B.14a
+
+Berufsfachschule für Pflegeberufe Berufsabschluss Gesundheits- und Kinderkrankenpfleger/-in
+
+
+B.14b
+
+Berufsfachschule für Pflegeberufe Berufsabschluss Altenpfleger/in
+
+
 B.15
 
 Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Physiotherapie, Beruf Physiotherapeut
@@ -375,7 +385,7 @@ Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege
 
 C.2a
 
-Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege (gültig für Schuljahr 2021/2022, Klassenstufe 3)
 
 
 C.3
@@ -388,7 +398,7 @@ Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik, verkürzte Ausbildung
 
 C.3b
 
-Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik (gültig für Schuljahr 2021/2022, Klassenstufe 3)
 
 C.4
 
@@ -660,122 +670,112 @@ Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege
 
 F.4
 
-Fachbereich Sozialwesen, Fachrichtung Heilpädagogik
+Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
 
 
 F.5
 
-Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
+Fachbereich Technik (Rahmenstundentafel) für die Fachrichtungen Bautechnik, Chemietechnik, Feinwerktechnik, Gebäudesystemtechnik, Glastechnik, Gießereitechnik, Kältetechnik, Lebensmitteltechnik, Medizintechnik, Metallbautechnik und Umweltschutztechnik
 
 
 F.6
 
-Fachbereich Technik (Rahmenstundentafel) für die Fachrichtungen Bautechnik, Chemietechnik, Feinwerktechnik, Gebäudesystemtechnik, Glastechnik, Gießereitechnik, Kältetechnik, Lebensmitteltechnik, Medizintechnik, Metallbautechnik und Umweltschutztechnik
+Fachbereich Technik, Fachrichtung Bekleidungstechnik
 
 
 F.7
 
-Fachbereich Technik, Fachrichtung Bekleidungstechnik
+Fachbereich Technik, Fachrichtung Bohrtechnik
 
 
 F.8
 
-Fachbereich Technik, Fachrichtung Bohrtechnik
+Fachbereich Technik, Fachrichtung Elektrotechnik, Schwerpunkt Energie- und Automatisierungstechnik
 
 
 F.9
 
-Fachbereich Technik, Fachrichtung Elektrotechnik, Schwerpunkt Energie- und Automatisierungstechnik
+Fachbereich Technik, Fachrichtung Elektrotechnik, Schwerpunkt Kommunikationselektronik und Datenverarbeitungstechnik
 
 
 F.10
 
-Fachbereich Technik, Fachrichtung Elektrotechnik, Schwerpunkt Kommunikationselektronik und Datenverarbeitungstechnik
+Fachbereich Technik, Fachrichtung Elektrotechnik, Schwerpunkt Projektierung und Systemmanagement
 
 
 F.11
 
-Fachbereich Technik, Fachrichtung Elektrotechnik, Schwerpunkt Projektierung und Systemmanagement
+Fachbereich Technik, Fachrichtung Farb- und Lacktechnik, Schwerpunkt Bausanierung
 
 
 F.12
 
-Fachbereich Technik, Fachrichtung Farb- und Lacktechnik, Schwerpunkt Bausanierung
+Fachbereich Technik, Fachrichtung Farb- und Lacktechnik, Schwerpunkt Industrielle Verfahrenstechnik
 
 
 F.13
 
-Fachbereich Technik, Fachrichtung Farb- und Lacktechnik, Schwerpunkt Industrielle Verfahrenstechnik
+Fachbereich Technik, Fachrichtung Geologietechnik
 
 
 F.14
 
-Fachbereich Technik, Fachrichtung Geologietechnik
+Fachbereich Technik, Fachrichtung Sanitär-, Heizungs- und Klimatechnik
 
 
 F.15
 
-Fachbereich Technik, Fachrichtung Sanitär-, Heizungs- und Klimatechnik
+Fachbereich Technik, Fachrichtung Holztechnik
 
 
 F.16
 
-Fachbereich Technik, Fachrichtung Holztechnik
+Fachbereich Technik, Fachrichtung Informatik, Schwerpunkt Datenbanktechnologie
 
 
 F.17
 
-Fachbereich Technik, Fachrichtung Informatik, Schwerpunkt Datenbanktechnologie
+Fachbereich Technik, Fachrichtung Informatik, Schwerpunkt Netzwerktechnologie
 
 
 F.18
 
-Fachbereich Technik, Fachrichtung Informatik, Schwerpunkt Netzwerktechnologie
+Fachbereich Technik, Fachrichtung Informatik, Schwerpunkt Softwaretechnologie
 
 
 F.19
 
-Fachbereich Technik, Fachrichtung Informatik, Schwerpunkt Softwaretechnologie
+Fachbereich Technik, Fachrichtung Fahrzeugtechnik
 
 
 F.20
 
-Fachbereich Technik, Fachrichtung Fahrzeugtechnik
+Fachbereich Technik, Fachrichtung Kunststofftechnik
 
 
 F.21
 
-Fachbereich Technik, Fachrichtung Kunststofftechnik
+Fachbereich Technik, Fachrichtung Maschinentechnik
 
 
 F.22
 
-Fachbereich Technik, Fachrichtung Maschinentechnik
+Fachbereich Technik, Fachrichtung Mechatronik
 
 
 F.23
 
-Fachbereich Technik, Fachrichtung Mechatronik
+Fachbereich Technik, Fachrichtung Textiltechnik
 
 
 F.24
 
-Fachbereich Technik, Fachrichtung Textiltechnik
+Fachbereich Wirtschaft, Fachrichtung Betriebswirtschaft
 
 
 F.25
 
-Fachbereich Wirtschaft, Fachrichtung Betriebswirtschaft
-
-
-F.26
-
 Fachbereich Wirtschaft, Fachrichtung Hotel- und Gaststättengewerbe
-
-
-F.27
-
-Fachbereich Wirtschaft, Fachrichtung Wohnungswirtschaft
 
 
 G)
@@ -873,9 +873,9 @@ Fsn-Nr.: 710-V17.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2020
+Fassung gültig ab:  1. August 2021
 
-Fassung gültig bis: 31. Juli 2021
+Fassung gültig bis:  7. Oktober 2021
 
 Drucken/Speichern
 
@@ -902,7 +902,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17348.5
+https://www.revosax.sachsen.de/vorschrift/17348.6
 Stand vom
 18.11.2026
 
