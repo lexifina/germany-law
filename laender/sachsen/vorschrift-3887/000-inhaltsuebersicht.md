@@ -32,7 +32,8 @@ Abschnitt 4 Unterricht
 Abschnitt 5 Ermittlung und Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
 § 24 Grundlagen der Leistungsbewertung
 § 25 Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
-§ 26 Klassenarbeiten, Kurzkontrollen und Komplexe Leistungen
+§ 26 Leistungsnachweise
+§ 26a Organisation und Durchführung der Leistungsnachweise
 § 27 Hausaufgaben
 § 27a Täuschungen
 § 28 Halbjahresinformationen und Halbjahreszeugnisse
