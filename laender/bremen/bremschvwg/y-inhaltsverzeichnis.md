@@ -19,7 +19,7 @@ Teil 1 Schulverwaltung und Qualitätssicherung
 § 14 | Schulpsychologische Beratung
 § 15 | (weggefallen)
 § 16 | Landesinstitut für Schule
-§ 16 a | (weggefallen)
+§ 16a | (weggefallen)
 § 17 | Schulgesundheitspflege
 Teil 2 Die Schulen
 Abschnitt 1 Allgemeine Rechtsverhältnisse
@@ -36,7 +36,7 @@ Titel 1 Allgemeines
 § 26 | Entscheidungsgremien der Schule
 § 27 | Beiräte
 § 28 | (weggefallen)
-§ 29 | (weggefallen)
+§ 29 | Vollversammlungen
 § 30 | Grenzen der Mitwirkung
 Titel 2 Vetorechte
 § 31 | Vetorechte bei Entscheidungen der Schulkonferenz
@@ -48,7 +48,7 @@ Titel 3 Konferenzen
 § 36 | Aufgaben der Gesamtkonferenz des Kollegiums (Gesamtkonferenz)
 § 37 | Zusammensetzung der Gesamtkonferenz des Kollegiums
 § 38 | Teilkonferenzen
-§ 39 | (weggefallen)
+§ 39 | Eilfälle
 § 40 | Beanstandungen
 § 41 | Klassenkonferenzen
 § 42 | Zusammensetzung der Klassenkonferenz
@@ -56,7 +56,7 @@ Titel 3 Konferenzen
 § 44 | Jahrgangskonferenzen
 Titel 4 Fachkonferenzen und Klassenversammlungen
 § 45 | Fachkonferenzen
-§ 46 | Klassenversammlung
+§ 46 | (weggefallen)
 Titel 5 Schülervertretungen
 § 47 | Schülerbeirat
 § 48 | Aufgaben
@@ -70,6 +70,8 @@ Titel 6 Elternvertretungen
 § 55 | Aufgaben
 § 56 | Elternversammlung
 § 57 | Klassenelternversammlung, Klassenelternsprecher/Klassenelternsprecherin
+Titel 6a Ersatzschulen
+§ 57a | Ersatzschulen
 Titel 7 Beirat des nicht-unterrichtenden Personals
 § 58 | Zusammensetzung des Beirats des nicht-unterrichtenden Personals
 § 59 | Aufgaben
@@ -90,7 +92,7 @@ Abschnitt 3 Die Schulleitung
 § 72 | Verfahren nach Ablauf der Probezeit
 § 73 | Ausnahmen
 § 74 | Verfahren bei der Besetzung sonstiger Schulleiterfunktionen
-§ 74 a | Verfahren bei der Besetzung der übrigen besoldungsmäßig herausgehobenen Stellen in der Schule
+§ 74a | Verfahren bei der Besetzung der übrigen besoldungsmäßig herausgehobenen Stellen in der Schule
 § 75 | Kommissarischer Leiter/Kommisarische Leiterin
 § 76 | Personalausschuss
 Abschnitt 4 Überschulische Gremien
