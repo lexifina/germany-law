@@ -12,7 +12,7 @@ Konrektorin, Konrektor
 - als Leitung eines an einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik 12) -
 - als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern 12) -
 Kustodin2), Kustos2)
-Lehrerin5) 6), Lehrer5) 6)
+Lehrerin2), Lehrer2)
 - an allgemeinbildenden Schulen -
 Lehrerin bei den Justizvollzugsanstalten2) 11), Lehrer bei den Justizvollzugsanstalten2) 11)
 Oberamtsanwältin9), Oberamtsanwalt9)
@@ -37,14 +37,12 @@ Fußnoten
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
+2) Als Einstiegsamt.
+2) Als Einstiegsamt.
 2) Als Einstiegsamt
 2) Als Einstiegsamt
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
-5) Soweit nicht in den Besoldungsgruppen A 12, A 12a.
-5) Soweit nicht in den Besoldungsgruppen A 12, A 12a.
-6) Für dieses Amt dürfen höchstens 40 vom Hundert der Planstellen für die genannten Lehrerinnen und Lehrer ausgewiesen werden, soweit eine entsprechende Funktion wahrgenommen wird.
-6) Für dieses Amt dürfen höchstens 40 vom Hundert der Planstellen für die genannten Lehrerinnen und Lehrer ausgewiesen werden, soweit eine entsprechende Funktion wahrgenommen wird.
 9) Für Funktionen einer Amtsanwältin oder eines Amtsanwalts bei einer Staatsanwaltschaft, die sich von denen der Besoldungsgruppe A 13 abheben, können nach Maßgabe sachgerechter Bewertung bis zu 20 vom Hundert der Stellen für Oberamtsanwältinnen und Oberamtsanwälte mit einer Amtszulage nach Anlage 6 ausgestattet werden.
 9) Für Funktionen einer Amtsanwältin oder eines Amtsanwalts bei einer Staatsanwaltschaft, die sich von denen der Besoldungsgruppe A 13 abheben, können nach Maßgabe sachgerechter Bewertung bis zu 20 vom Hundert der Stellen für Oberamtsanwältinnen und Oberamtsanwälte mit einer Amtszulage nach Anlage 6 ausgestattet werden.
 10) Für Funktionen der Rechtspflegerinnen und Rechtspfleger bei Gerichten und Staatsanwaltschaften, die sich von denen der Besoldungsgruppe A 13 abheben, können nach Maßgabe sachgerechter Bewertung bis zu 20 vom Hundert der Stellen für Rechtspflegerinnen und Rechtspfleger der Besoldungsgruppe A 13 mit einer Amtszulage nach Anlage 6 ausgestattet werden.

@@ -1,8 +1,6 @@
 # Anlage IV - Künftig wegfallende Ämter (zu § 68)
 Anlage IV
 Künftig wegfallende Ämter (zu § 68)
-Besoldungsgruppe A 12
-Lehrerin für die Primarstufe und Sekundarstufe I1) 8), Lehrer für die Primarstufe und Sekundarstufe I1) 8)
 Besoldungsgruppe A 13
 Ä r z t i n2) 3), A r z t2) 3)
 Didaktische Leiterin4), Didaktischer Leiter4)
@@ -172,8 +170,6 @@ Besoldungsgruppe C 4
 Professorin an einer Kunsthochschule, Professor an einer Kunsthochschule
 Universitätsprofessorin, Universitätsprofessor
 Fußnoten
-1) Als Einstiegsamt.
-1) Als Einstiegsamt.
 1) Die am 1. Januar 2000 im Amt befindlichen Stelleninhaberinnen und Stelleninhaber erhalten weiterhin Dienstbezüge aus Besoldungsgruppe A 15.
 1) Erhält eine Amtszulage nach Anlage 6.
 2) Als Einstiegsamt
@@ -288,8 +284,6 @@ Fußnoten
 7) Soweit nicht in der Besoldungsgruppe A 16.
 7) Soweit nicht in den Besoldungsgruppen A 14, A 15.
 7) Soweit nicht in den Besoldungsgruppen A 14, A 15.
-8) Soweit nicht in der Besoldungsgruppe A 13.
-8) Soweit nicht in der Besoldungsgruppe A 13.
 8) Soweit nicht in der Besoldungsgruppe A 12.
 8) Soweit nicht in der Besoldungsgruppe A 12.
 8) Für die Berechnung der Schülerzahlen werden die Schülerinnen und Schüler mit festgestelltem sonderpädagogischen Förderbedarf, soweit sie im Förderzentrum unterrichtet werden, voll gezählt und, soweit sie in allgemeinbildenden Schulen unterrichtet und dabei von Lehrkräften des Förderzentrums ergänzend gefördert werden, zur Hälfte zu Grunde gelegt.
