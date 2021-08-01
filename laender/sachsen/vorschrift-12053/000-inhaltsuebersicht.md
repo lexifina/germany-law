@@ -1,7 +1,7 @@
 # Inhaltsübersicht
 Teil 1 Geltungsbereich
 § 1 Geltungsbereich
-Teil 2 Oberschule
+Teil 2 Oberschule einschließlich Oberschule+
 Abschnitt 1 Allgemeines
 § 2 Aufbau der Oberschule, Klassen mit vertiefter sportlicher Ausbildung, besondere Bildungswege
 § 3 Abschlussbezogener Unterricht, Wahl der Bildungsgänge
@@ -10,11 +10,11 @@ Abschnitt 2 Aufnahme und Schulwechsel
 § 5 Anmeldung
 § 6 Aufnahme von Schülern
 § 7 Bildungsberatung
-§ 8 Schulwechsel an eine andere Oberschule
-§ 9 Feststellung des sonderpädagogischen Förderbedarfs
-§ 10 (weggefallen)
-§ 11 Schulwechsel vom Gymnasium an die Oberschule
-§ 12 Schülerunterlagen bei Schulwechsel
+§ 8 Schulwechsel an eine andere Oberschule oder an eine Gemeinschaftsschule
+§ 9 Schulwechsel vom Gymnasium an die Oberschule
+§ 10 Schulwechsel von der Gemeinschaftsschule an die Oberschule
+§ 11 Schülerunterlagen bei Schulwechsel
+§ 12 Feststellung des sonderpädagogischen Förderbedarfs
 Abschnitt 3 Unterrichtsorganisation
 § 13 Klassen- und Gruppenbildung
 § 14 Unterrichtszeit
@@ -29,7 +29,8 @@ Abschnitt 4 Unterricht
 Abschnitt 5 Ermittlung und Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
 § 22 Grundsätze der Leistungsermittlung und -bewertung
 § 23 Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
-§ 24 Klassenarbeiten, Kurzkontrollen, Komplexe Leistungen
+§ 24 Leistungsnachweise
+§ 24a Organisation und Durchführung der Leistungsnachweise
 § 25 Hausaufgaben
 § 26 Täuschungen
 § 27 Halbjahresinformationen, Zeugnisse
@@ -37,7 +38,7 @@ Abschnitt 6 Versetzung, Wiederholung
 § 28 Versetzungsbestimmungen
 § 29 Mehrmalige Nichtversetzung
 § 30 Verlassen der Schule
-§ 31 Freiwillige Wiederholung
+§ 31 Freiwillige Wiederholung und Schulzeitdehnung
 § 32 Überspringen einer Klassenstufe
 § 33 Schulbesuch im Ausland
 Abschnitt 7 Prüfung zum Erwerb des Realschulabschlusses
@@ -76,6 +77,11 @@ Abschnitt 10 Besonderer Bildungsweg Produktives Lernen
 Abschnitt 11 Erwerb von Abschlüssen für inklusiv unterrichtete Schüler mit den Förderschwerpunkten Lernen und geistige Entwicklung
 § 63 Abschlüsse für inklusiv unterrichtete Schüler mit dem Förderschwerpunkt Lernen
 § 64 Abschlüsse für inklusiv unterrichtete Schüler mit dem Förderschwerpunkt geistige Entwicklung
+Abschnitt 12 Oberschule+
+§ 64a Allgemeines
+§ 64b Abschlussbezogener Unterricht
+§ 64c Anmeldung, Aufnahme und Bildungsberatung
+§ 64d Bildungsempfehlung
 Teil 3 Abendoberschule
 Abschnitt 1 Allgemeines
 § 65 Aufbau, Verweildauer
