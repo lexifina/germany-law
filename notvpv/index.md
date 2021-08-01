@@ -9,7 +9,7 @@
 - [§ 2 Angaben zu den Amtspersonen](0002.md)
 - [§ 3 Angaben zu den amtlichen Tätigkeiten](0003.md)
 - [§ 4 Frühere Amtspersonen](0004.md)
-- [§ 5 Notarvertreter](0005.md)
+- [§ 5 Notarvertretung](0005.md)
 - [§ 6 Eintragungen](0006.md)
 - [§ 7 Berichtigungen](0007.md)
 - [§ 8 Löschungen](0008.md)

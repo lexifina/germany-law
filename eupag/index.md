@@ -42,4 +42,3 @@
 - [§ 27 Statistik](0027.md)
 - [§ 28 Gebühren und Auslagen](0028.md)
 - [§ 29 Anwendung von Vorschriften des Strafgesetzbuches](0029.md)
-- [§ 30 Übergangsregelung](0030.md)

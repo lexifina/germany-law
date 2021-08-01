@@ -130,7 +130,7 @@ Abschnitt 9
 | § 80a | Übergangsregelung für Verpflichtungsprämien für Soldaten auf Zeit aus Anlass des Bundeswehrreform-Begleitgesetzes |
 | § 80b | Übergangsregelung zum Auslandsverwendungszuschlag |
 | § 81 | Übergangsregelungen bei Zulagenänderungen aus Anlass des Versorgungsreformgesetzes 1998 |
-| § 82 | Übergangsregelung für ehemalige Soldaten |
+| § 82 | (weggefallen) |
 | § 83 | Übergangsregelung für Ausgleichszulagen |
 | § 83a | Übergangsregelung für die Besoldung bei Verleihung eines anderen Amtes oder bei Wechsel in den Dienst des Bundes |
 | § 84 | Anpassung von Bezügen nach fortgeltendem Recht |

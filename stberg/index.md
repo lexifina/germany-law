@@ -108,7 +108,8 @@ Voraussetzungen
 #### Zweiter Unterabschnitt Bestellung
 
 - [§ 40 Bestellende Steuerberaterkammer, Bestellungsverfahren](0040.md)
-- [§ 41 Berufsurkunde](0041.md)
+- [§ 40a Aussetzung des Bestellungsverfahrens](0040a.md)
+- [§ 41 Bestellung](0041.md)
 - [§ 42 Steuerbevollmächtigter](0042.md)
 - [§ 43 Berufsbezeichnung](0043.md)
 - [§ 44 Bezeichnung "Landwirtschaftliche Buchstelle"](0044.md)
@@ -157,6 +158,7 @@ Dienst- oder Amtsverhältnis](0059.md)
 
 - [§ 73 Steuerberaterkammer](0073.md)
 - [§ 74 Mitgliedschaft](0074.md)
+- [§ 74a Mitgliederakten](0074a.md)
 - [§ 75 Gemeinsame Steuerberaterkammer](0075.md)
 - [§ 76 Aufgaben der Steuerberaterkammer](0076.md)
 - [§ 77 Vorstand](0077.md)
@@ -168,7 +170,7 @@ Dienst- oder Amtsverhältnis](0059.md)
 - [§ 80a Zwangsgeld bei Verletzung von Mitwirkungspflichten](0080a.md)
 - [§ 81 Rügerecht des Vorstands](0081.md)
 - [§ 82 Antrag auf berufsgerichtliche Entscheidung](0082.md)
-- [§ 83 Pflicht der Vorstandsmitglieder zur Verschwiegenheit](0083.md)
+- [§ 83 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen](0083.md)
 - [§ 84 Arbeitsgemeinschaft](0084.md)
 - [§ 85 Bundessteuerberaterkammer](0085.md)
 - [§ 86 Aufgaben der Bundessteuerberaterkammer](0086.md)
@@ -205,8 +207,7 @@ beim Bundesgerichtshof](0097.md)
 - [§ 100 Voraussetzungen für die Berufung zum Beisitzer und Recht
 zur Ablehnung](0100.md)
 - [§ 101 Enthebung vom Amt des Beisitzers](0101.md)
-- [§ 102 Stellung der ehrenamtlichen Richter und Pflicht zur
-Verschwiegenheit](0102.md)
+- [§ 102 Stellung der ehrenamtlichen Richter und Pflicht zur Verschwiegenheit](0102.md)
 - [§ 103 Reihenfolge der Teilnahme an den Sitzungen](0103.md)
 - [§ 104 Entschädigung der ehrenamtlichen Richter](0104.md)
 
@@ -297,10 +298,8 @@ Berufsgerichtsbarkeit anzuwendende Vorschriften
 ### Sechster Abschnitt Übergangsvorschriften
 
 - [§ 154 Bestehende Gesellschaften](0154.md)
-- [§ 155 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur
-Änderung des Steuerberatungsgesetzes](0155.md)
-- [§ 156 Übergangsvorschriften aus Anlass des Sechsten Gesetzes zur
-Änderung des Steuerberatungsgesetzes](0156.md)
+- [§ 155 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung des Steuerberatungsgesetzes](0155.md)
+- [§ 156 Übergangsvorschriften aus Anlass des Sechsten Gesetzes zur Änderung des Steuerberatungsgesetzes](0156.md)
 - [§ 157 Übergangsvorschriften aus Anlass des Gesetzes zur Änderung von Vorschriften über die Tätigkeit der Steuerberater](0157.md)
 - [§ 157a Übergangsvorschriften anlässlich des Achten Gesetzes zur Änderung des Steuerberatungsgesetzes](0157a.md)
 - [§ 157b Anwendungsvorschrift](0157b.md)

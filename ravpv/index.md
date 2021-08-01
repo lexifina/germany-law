@@ -38,7 +38,7 @@
 - [§ 22 Erstanmeldung am Postfach](0022.md)
 - [§ 23 Weitere Zugangsberechtigungen zum Postfach](0023.md)
 - [§ 24 Zugang zum Postfach](0024.md)
-- [§ 25 Vertreter, Abwickler und Zustellungsbevollmächtigte](0025.md)
+- [§ 25 Vertretungen, Abwickler und Zustellungsbevollmächtigte](0025.md)
 - [§ 26 Datensicherheit](0026.md)
 - [§ 27 Automatisches Löschen von Nachrichten](0027.md)
 - [§ 28 Aufhebung der Zugangsberechtigung und Sperrung](0028.md)

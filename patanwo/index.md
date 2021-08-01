@@ -80,12 +80,12 @@
 - [§ 45 Berufshaftpflichtversicherung](0045.md)
 - [§ 45a Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung](0045a.md)
 - [§ 45b Vertragliche Begrenzung von Ersatzansprüchen](0045b.md)
-- [§ 46 Bestellung eines Vertreters](0046.md)
-- [§ 47 (weggefallen)](0047.md)
+- [§ 46 Bestellung einer Vertretung](0046.md)
+- [§ 47 Befugnisse der Vertretung](0047.md)
 - [§ 48 Bestellung eines Abwicklers der Kanzlei](0048.md)
 - [§ 49 Besondere Pflichten gegenüber dem Vorstand der Patentanwaltskammer](0049.md)
 - [§ 50 Zwangsgeld bei Verletzung der besonderen Pflichten](0050.md)
-- [§ 51 Einsicht in die Personalakten](0051.md)
+- [§ 51 Mitgliederakten](0051.md)
 - [§ 52 Ausbildung von Bewerberinnen und Bewerbern für die Patentanwaltschaft](0052.md)
 - [§ 52a Berufliche Zusammenarbeit](0052a.md)
 - [§ 52b Satzungskompetenz](0052b.md)
@@ -135,7 +135,7 @@
 - [§ 69a Verwaltungsbehörde für Ordnungswidrigkeiten](0069a.md)
 - [§ 70 Rügerecht des Vorstands](0070.md)
 - [§ 70a Antrag auf Entscheidung des Landgerichts](0070a.md)
-- [§ 71 Pflicht der Vorstandsmitglieder zur Verschwiegenheit](0071.md)
+- [§ 71 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen](0071.md)
 - [§ 72 Ehrenamtliche Tätigkeit des Vorstands](0072.md)
 - [§ 73 Aufgaben des Präsidenten](0073.md)
 - [§ 74 Berichte über die Tätigkeit der Kammer und über Wahlergebnisse](0074.md)
@@ -150,7 +150,7 @@
 - [§ 80 Ankündigung der Tagesordnung](0080.md)
 - [§ 81 Wahlen und Beschlüsse der Kammerversammlung](0081.md)
 - [§ 82 Aufgaben der Kammerversammlung](0082.md)
-- [§ 82a Prüfung der Satzung der Kammerversammlung durch die Aufsichtsbehörde](0082a.md)
+- [§ 82a Prüfung der Berufsordnung und der Satzung der Kammer](0082a.md)
 - [(XXXX) §§ 83 und 84 (weggefallen)](xxxx-83-und-84.md)
 
 ## Fünfter Teil Gerichte in Patentanwaltssachen und gerichtliches Verfahren in verwaltungsrechtlichen Patentanwaltssachen
@@ -258,7 +258,7 @@
 - [§ 140 Außerkrafttreten des Verbots](0140.md)
 - [§ 141 Aufhebung des Verbots](0141.md)
 - [§ 142 Mitteilung des Verbots](0142.md)
-- [§ 143 Bestellung eines Vertreters](0143.md)
+- [§ 143 Bestellung einer Vertretung](0143.md)
 
 ### Sechster Abschnitt Vollstreckung berufsgerichtlicher Maßnahmen und Kosten sowie Tilgung
 

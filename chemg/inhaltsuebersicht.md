@@ -31,6 +31,11 @@ Verordnung (EU) Nr. 528/2012
 | § 12f | Informationsaustausch zwischen Bundes- und Landesbehörden |
 | § 12g | Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen |
 | § 12h | Verordnungsermächtigungen |
+Abschnitt IIb
+Durchführung der Verordnung (EU) Nr. 517/2014
+| § 12i | Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014 |
+| § 12j | Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014 |
+| § 12k | Verordnungsermächtigungen |
 Dritter Abschnitt
 Einstufung,
 Kennzeichnung und Verpackung

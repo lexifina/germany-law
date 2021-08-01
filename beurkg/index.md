@@ -149,7 +149,7 @@ schriftliche Verständigung nicht möglich ist](0024.md)
 
 ### 2. Geltung in Berlin
 
-- [§ 75](0075.md)
+- [§ 75 (weggefallen)](0075.md)
 
 ### 3. Inkrafttreten
 

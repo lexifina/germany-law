@@ -54,9 +54,9 @@ Berufsgerichtliches Verfahren
 | Unterabschnitt 2 |
 | Antrag auf gerichtliche Entscheidungüber die Androhung oder die Festsetzung einesZwangsgelds oder über die Rüge |
 |  |  |  |
-| 1120 | Verfahren über den Antrag auf gerichtliche Entscheidung über die Androhung oder die Festsetzung eines Zwangsgelds nach § 50 Abs. 3 der Patentanwaltsordnung: Der Antrag wird verworfen oder zurückgewiesen | 160,00 EUR |
+| 1120 | Verfahren über den Antrag auf gerichtliche Entscheidung über die Androhung oder die Festsetzung eines Zwangsgelds nach § 50 Abs. 3 PAO: Der Antrag wird verworfen oder zurückgewiesen | 160,00 EUR |
 |  |  |  |
-| 1121 | Verfahren über den Antrag auf gerichtliche Entscheidung über die Rüge nach § 70a Abs. 1 der Patentanwaltsordnung: Der Antrag wird verworfen oder zurückgewiesen | 160,00 EUR |
+| 1121 | Verfahren über den Antrag auf gerichtliche Entscheidung über die Rüge nach § 70a Abs. 1 PAO: Der Antrag wird verworfen oder zurückgewiesen | 160,00 EUR |
 |  |
 | Abschnitt 2 |
 | Verfahren vor dem Oberlandesgericht |
@@ -81,9 +81,9 @@ Berufsgerichtliches Verfahren
 | Unterabschnitt 1 |
 | Revision |
 |  |  |  |
-| 1310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 128 Abs. 3 Satz 1 der Patentanwaltsordnung i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 2,0 |
+| 1310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 128 Abs. 3 Satz 1 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 2,0 |
 |  |  |  |
-| 1311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 128 Abs. 3 Satz 1 der Patentanwaltsordnung i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
+| 1311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 128 Abs. 3 Satz 1 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
 | Die Gebühr entfällt bei Zurücknahme der Revision vor Ablauf der Begründungsfrist. |  |
 |  |
 | Unterabschnitt 2 |

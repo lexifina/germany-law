@@ -54,7 +54,8 @@
 - [§ 34 Zustellung](0034.md)
 - [§ 35 Bestellung eines Vertreters im Verwaltungsverfahren](0035.md)
 - [§ 36 Ermittlung des Sachverhalts und Übermittlung personenbezogener Daten](0036.md)
-- [(XXXX) §§ 37 bis 42 (weggefallen)](xxxx-37-bis-42.md)
+- [§ 37 Ersetzung der Schriftform](0037.md)
+- [(XXXX) §§ 38 bis 42 (weggefallen)](xxxx-38-bis-42.md)
 
 ## Dritter Teil Rechte und Pflichten des Rechtsanwalts und berufliche Zusammenarbeit der Rechtsanwälte
 
@@ -83,12 +84,12 @@
 - [§ 51 Berufshaftpflichtversicherung](0051.md)
 - [§ 51a Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung](0051a.md)
 - [§ 52 Vertragliche Begrenzung von Ersatzansprüchen](0052.md)
-- [§ 53 Bestellung eines Vertreters](0053.md)
-- [§ 54 (weggefallen)](0054.md)
+- [§ 53 Bestellung einer Vertretung](0053.md)
+- [§ 54 Befugnisse der Vertretung](0054.md)
 - [§ 55 Bestellung eines Abwicklers der Kanzlei](0055.md)
 - [§ 56 Besondere Pflichten gegenüber dem Vorstand der Rechtsanwaltskammer](0056.md)
 - [§ 57 Zwangsgeld bei Verletzung der besonderen Pflichten](0057.md)
-- [§ 58 Einsicht in die Personalakten](0058.md)
+- [§ 58 Mitgliederakten](0058.md)
 - [§ 59 Ausbildung von Referendaren](0059.md)
 - [§ 59a Berufliche Zusammenarbeit](0059a.md)
 - [§ 59b Satzungskompetenz](0059b.md)
@@ -113,7 +114,7 @@
 ### Erster Abschnitt Allgemeines
 
 - [§ 60 Bildung und Zusammensetzung der Rechtsanwaltskammer](0060.md)
-- [§ 61 Bildung einer weiteren Rechtsanwaltskammer](0061.md)
+- [§ 61 (weggefallen)](0061.md)
 - [§ 62 Stellung der Rechtsanwaltskammer](0062.md)
 
 ### Zweiter Abschnitt Organe der Rechtsanwaltskammer
@@ -137,7 +138,7 @@
 - [§ 74 Rügerecht des Vorstandes](0074.md)
 - [§ 74a Antrag auf anwaltsgerichtliche Entscheidung](0074a.md)
 - [§ 75 Ehrenamtliche Tätigkeit des Vorstandes](0075.md)
-- [§ 76 Pflicht der Vorstandsmitglieder zur Verschwiegenheit](0076.md)
+- [§ 76 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen](0076.md)
 - [§ 77 Abteilungen des Vorstandes](0077.md)
 
 #### Zweiter Unterabschnitt Präsidium
@@ -293,7 +294,7 @@
 - [§ 159a Dreimonatsfrist](0159a.md)
 - [§ 159b Prüfung der Fortdauer des Verbots](0159b.md)
 - [§ 160 Mitteilung des Verbots](0160.md)
-- [§ 161 Bestellung eines Vertreters](0161.md)
+- [§ 161 Bestellung einer Vertretung](0161.md)
 - [§ 161a Gegenständlich beschränktes Vertretungsverbot](0161a.md)
 
 ## Achter Teil Die Rechtsanwaltschaft bei dem Bundesgerichtshof
@@ -321,7 +322,7 @@
 - [§ 172 Beschränkung des Auftretens vor anderen Gerichten](0172.md)
 - [§ 172a Sozietät](0172a.md)
 - [§ 172b Kanzlei](0172b.md)
-- [§ 173 Bestellung eines Vertreters und eines Abwicklers der Kanzlei](0173.md)
+- [§ 173 Bestellung einer Vertretung und eines Abwicklers der Kanzlei](0173.md)
 
 ### Vierter Abschnitt Die Rechtsanwaltskammer bei dem Bundesgerichtshof
 
@@ -347,14 +348,14 @@
 - [§ 181 Recht zur Ablehnung der Wahl](0181.md)
 - [§ 182 Wahlperiode und vorzeitiges Ausscheiden](0182.md)
 - [§ 183 Ehrenamtliche Tätigkeit des Präsidiums](0183.md)
-- [§ 184 Pflicht zur Verschwiegenheit](0184.md)
+- [§ 184 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen](0184.md)
 - [§ 185 Aufgaben des Präsidenten](0185.md)
 - [§ 186 Aufgaben des Schatzmeisters](0186.md)
 
 #### Zweiter Unterabschnitt Hauptversammlung
 
 - [§ 187 Versammlung der Mitglieder](0187.md)
-- [§ 188 Vertreter der Rechtsanwaltskammern in der Hauptversammlung](0188.md)
+- [§ 188 Vertretung der Rechtsanwaltskammern in der Hauptversammlung](0188.md)
 - [§ 189 Einberufung der Hauptversammlung](0189.md)
 - [§ 190 Beschlüsse der Hauptversammlung](0190.md)
 - [§ 191 (weggefallen)](0191.md)

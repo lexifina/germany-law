@@ -143,7 +143,7 @@
 - [§ 80a Übergangsregelung für Verpflichtungsprämien für Soldaten auf Zeit aus Anlass des Bundeswehrreform-Begleitgesetzes](0080a.md)
 - [§ 80b Übergangsregelung zum Auslandsverwendungszuschlag](0080b.md)
 - [§ 81 Übergangsregelungen bei Zulagenänderungen aus Anlass des Versorgungsreformgesetzes 1998](0081.md)
-- [§ 82 Übergangsregelungen aus Anlass des Siebten Besoldungsänderungsgesetzes](0082.md)
+- [§ 82 (weggefallen)](0082.md)
 - [§ 83 Übergangsregelung für Ausgleichszulagen](0083.md)
 - [§ 83a Übergangsregelung für die Besoldung bei Verleihung eines anderen Amtes oder bei Wechsel in den Dienst des Bundes](0083a.md)
 - [§ 84 Anpassung von Bezügen nach fortgeltendem Recht](0084.md)

@@ -11,17 +11,17 @@
 - [§ 4a Verfahren über eine einheitliche Stelle](0004a.md)
 - [§ 4b Frist für den Erlass von Verwaltungsakten](0004b.md)
 
-## Zweiter Teil Voraussetzung für die Berufsausübung
+## Zweiter Teil Voraussetzungen für die Berufsausübung
 
 
 ### Erster Abschnitt Zulassung zur Prüfung
 
-- [§ 5 Prüfungsstelle, Rechtsschutz](0005.md)
+- [§ 5 Prüfungsstelle; Rechtsschutz](0005.md)
 - [§ 6 Verbindliche Auskunft](0006.md)
 - [§ 7 Antrag auf Zulassung zur Prüfung](0007.md)
 - [§ 8 Voraussetzungen für die Zulassung (Vorbildung)](0008.md)
-- [§ 8a Anerkannte Hochschulausbildungsgänge, Rechtsverordnung](0008a.md)
-- [§ 9 Voraussetzungen für die Zulassung (Prüfungstätigkeit)](0009.md)
+- [§ 8a Anerkannte Hochschulausbildungsgänge; Rechtsverordnung](0008a.md)
+- [§ 9 Voraussetzungen für die Zulassung (Prüfungstätigkeit); Verordnungsermächtigung](0009.md)
 - [(XXXX) §§ 10, 10a und 11 (weggefallen)](xxxx-10-10a-und-11.md)
 
 ### Zweiter Abschnitt Prüfung
@@ -29,15 +29,16 @@
 - [§ 12 Prüfungskommission und Gliederung der Prüfung](0012.md)
 - [§ 13 Verkürzte Prüfung für Steuerberater](0013.md)
 - [§ 13a Verkürzte Prüfung für vereidigte Buchprüfer](0013a.md)
-- [§ 13b Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen, Rechtsverordnung](0013b.md)
-- [§ 14 Einzelheiten des Prüfungsverfahrens](0014.md)
-- [§ 14a Zulassungsgebühr, Prüfungsgebühr](0014a.md)
+- [§ 13b Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen; Verordnungsermächtigung](0013b.md)
+- [§ 14 Verordnungsermächtigung zu Einzelheiten des Prüfungsverfahrens](0014.md)
+- [§ 14a Zulassungs- und Prüfungsgebühren](0014a.md)
 
 ### Dritter Abschnitt Bestellung
 
 - [§ 15 Bestellungsbehörde](0015.md)
 - [§ 16 Versagung der Bestellung](0016.md)
 - [§ 16a Ärztliches Gutachten im Bestellungsverfahren](0016a.md)
+- [§ 16b Aussetzung des Bestellungsverfahrens](0016b.md)
 - [§ 17 Berufsurkunde und Berufseid](0017.md)
 - [§ 18 Berufsbezeichnung](0018.md)
 - [§ 19 Erlöschen der Bestellung](0019.md)
@@ -48,7 +49,7 @@
 - [§ 23 Wiederbestellung](0023.md)
 - [§ 24 (weggefallen)](0024.md)
 
-### Vierter Abschnitt
+### Vierter Abschnitt (weggefallen)
 
 - [§ 25 (weggefallen)](0025.md)
 - [§ 26 (weggefallen)](0026.md)
@@ -66,10 +67,9 @@
 - [§ 35 (weggefallen)](0035.md)
 - [§ 36 (weggefallen)](0036.md)
 
-### Sechster Abschnitt Allgemeine Vorschriften
-für das Verwaltungsverfahren
+### Sechster Abschnitt Allgemeine Vorschriften für das Verwaltungsverfahren
 
-- [§ 36a Untersuchungsgrundsatz, Mitwirkungspflicht, Datenübermittlung](0036a.md)
+- [§ 36a Untersuchungsgrundsatz; Mitwirkungspflicht; Datenübermittlung](0036a.md)
 
 ### Siebenter Abschnitt Berufsregister
 
@@ -84,14 +84,12 @@ für das Verwaltungsverfahren
 - [§ 41 Unmittelbare Klage gegen Bescheide der Wirtschaftsprüferkammer](0041.md)
 - [§ 42 (weggefallen)](0042.md)
 
-## Dritter Teil Rechte und Pflichten der
-Wirtschaftsprüfer
+## Dritter Teil Rechte und Pflichten der Wirtschaftsprüfer
 
 - [§ 43 Allgemeine Berufspflichten](0043.md)
 - [§ 43a Regeln der Berufsausübung](0043a.md)
 - [§ 44 Eigenverantwortliche Tätigkeit](0044.md)
-- [§ 44a Wirtschaftsprüfer im öffentlich-rechtlichen Dienst- oder
-Amtsverhältnis](0044a.md)
+- [§ 44a Wirtschaftsprüfer im öffentlich-rechtlichen Dienst- oder Amtsverhältnis](0044a.md)
 - [§ 44b Gemeinsame Berufsausübung](0044b.md)
 - [§ 45 Prokuristen](0045.md)
 - [§ 46 Beurlaubung](0046.md)
@@ -126,10 +124,12 @@ Amtsverhältnis](0044a.md)
 - [§ 57g Freiwillige Qualitätskontrolle](0057g.md)
 - [§ 57h Qualitätskontrolle bei Prüfungsstellen der Sparkassen- und Giroverbände](0057h.md)
 - [§ 58 Mitgliedschaft](0058.md)
-- [§ 59 Organe, Kammerversammlungen](0059.md)
+- [§ 58a Mitgliederakten](0058a.md)
+- [§ 59 Organe; Kammerversammlungen](0059.md)
 - [§ 59a Abteilungen des Vorstandes und der Kommission für Qualitätskontrolle](0059a.md)
 - [§ 59b Ehrenamtliche Tätigkeit](0059b.md)
-- [§ 60 Satzung, Wirtschaftsplan](0060.md)
+- [§ 59c Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen](0059c.md)
+- [§ 60 Satzung; Wirtschaftsplan](0060.md)
 - [§ 61 Beiträge und Gebühren](0061.md)
 
 ## Fünfter Teil Berufsaufsicht
@@ -139,7 +139,7 @@ Amtsverhältnis](0044a.md)
 - [§ 62a Zwangsgeld bei Verletzung von Mitwirkungspflichten](0062a.md)
 - [§ 62b Inspektionen](0062b.md)
 - [§ 63 (weggefallen)](0063.md)
-- [§ 64 Pflicht der Mitglieder des Vorstandes, des Beirates und der Ausschüsse zur Verschwiegenheit](0064.md)
+- [§ 64 Auskünfte von Nichtkammerangehörigen](0064.md)
 - [§ 65 Unterrichtung der Staatsanwaltschaft](0065.md)
 - [§ 66 Rechtsaufsicht](0066.md)
 - [§ 66a Abschlussprüferaufsicht](0066a.md)
@@ -162,7 +162,7 @@ Amtsverhältnis](0044a.md)
 
 - [§ 71a Antrag auf berufsgerichtliche Entscheidung](0071a.md)
 
-### Zweiter Abschnitt Die Gerichte
+### Zweiter Abschnitt Gerichte
 
 - [§ 72 Kammer für Wirtschaftsprüfersachen](0072.md)
 - [§ 73 Senat für Wirtschaftsprüfersachen beim Oberlandesgericht](0073.md)
@@ -170,15 +170,14 @@ Amtsverhältnis](0044a.md)
 - [§ 75 Berufsangehörige als Beisitzer](0075.md)
 - [§ 76 Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung](0076.md)
 - [§ 77 Enthebung vom Amt des Beisitzers](0077.md)
-- [§ 78 Stellung der ehrenamtlichen Richter und Pflicht
-zur Verschwiegenheit](0078.md)
+- [§ 78 Stellung der ehrenamtlichen Richter und Pflicht zur Verschwiegenheit](0078.md)
 - [§ 79 Reihenfolge der Teilnahme an den Sitzungen](0079.md)
 - [§ 80 Entschädigung der ehrenamtlichen Richter](0080.md)
 
 ### Dritter Abschnitt Verfahrensvorschriften
 
 
-#### 1. Allgemeines
+#### Erster Unterabschnitt Allgemeines
 
 - [§ 81 Vorschriften für das Verfahren](0081.md)
 - [§ 82 Keine Verhaftung von Berufsangehörigen](0082.md)
@@ -189,7 +188,7 @@ zur Verschwiegenheit](0078.md)
 - [§ 83b Aussetzung des berufsgerichtlichen Verfahrens](0083b.md)
 - [§ 83c Wiederaufnahme des berufsgerichtlichen Verfahrens](0083c.md)
 
-#### 2. Das Verfahren im ersten Rechtszug
+#### Zweiter Unterabschnitt Verfahren im ersten Rechtszug
 
 - [§ 84 Mitwirkung der Staatsanwaltschaft](0084.md)
 - [§ 85 Einleitung des berufsgerichtlichen Verfahrens](0085.md)
@@ -205,41 +204,40 @@ zur Verschwiegenheit](0078.md)
 - [§ 102 Verlesen von Protokollen](0102.md)
 - [§ 103 Entscheidung](0103.md)
 
-#### 3. Die Rechtsmittel
+#### Dritter Unterabschnitt Rechtsmittel
 
 - [§ 104 Beschwerde](0104.md)
 - [§ 105 Berufung](0105.md)
-- [§ 106 Mitwirkung der Staatsanwaltschaft vor dem Senat für
-Wirtschaftsprüfersachen](0106.md)
+- [§ 106 Mitwirkung der Staatsanwaltschaft vor dem Senat für Wirtschaftsprüfersachen](0106.md)
 - [§ 107 Revision](0107.md)
 - [§ 107a Einlegung der Revision und Verfahren](0107a.md)
 - [§ 108 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof](0108.md)
 
-#### 4. Die Sicherung von Beweisen
+#### Vierter Unterabschnitt Sicherung von Beweisen
 
 - [§ 109 Anordnung der Beweissicherung](0109.md)
 - [§ 110 Verfahren](0110.md)
 
-#### 5. Das vorläufige Tätigkeits- und Berufsverbot
+#### Fünfter Unterabschnitt Vorläufige Tätigkeits- und Berufsverbot
 
-- [§ 111 Voraussetzung des Verbotes](0111.md)
+- [§ 111 Voraussetzung des Verbots](0111.md)
 - [§ 112 Mündliche Verhandlung](0112.md)
 - [§ 113 Abstimmung über das Verbot](0113.md)
-- [§ 114 Verbot im Anschluß an die Hauptverhandlung](0114.md)
+- [§ 114 Verbot im Anschluss an die Hauptverhandlung](0114.md)
 - [§ 115 Zustellung des Beschlusses](0115.md)
-- [§ 116 Wirkungen des Verbotes](0116.md)
+- [§ 116 Wirkungen des Verbots](0116.md)
 - [§ 117 Zuwiderhandlungen gegen das Verbot](0117.md)
 - [§ 118 Beschwerde](0118.md)
-- [§ 119 Außerkrafttreten des Verbotes](0119.md)
-- [§ 120 Aufhebung des Verbotes](0120.md)
-- [§ 120a Mitteilung des Verbotes](0120a.md)
+- [§ 119 Außerkrafttreten des Verbots](0119.md)
+- [§ 120 Aufhebung des Verbots](0120.md)
+- [§ 120a Mitteilung des Verbots](0120a.md)
 - [§ 121 Bestellung eines Vertreters](0121.md)
 
-#### 6. Das vorläufige Untersagungsverfahren
+#### Sechster Unterabschnitt Vorläufige Untersagung
 
 - [§ 121a Voraussetzung des Verfahrens](0121a.md)
 
-### Vierter Abschnitt Die Kosten in dem berufsgerichtlichen Verfahren.
+### Vierter Abschnitt Kosten des berufsgerichtlichen Verfahrens; Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten; Tilgung
 
 - [§ 122 Gerichtskosten](0122.md)
 - [§ 123 (weggefallen)](0123.md)
@@ -250,10 +248,9 @@ Wirtschaftsprüfersachen](0106.md)
 
 ### Fünfter Abschnitt Anzuwendende Vorschriften
 
-- [§ 127](0127.md)
+- [§ 127 Anzuwendende Vorschriften](0127.md)
 
-## Siebenter Teil Vereidigte Buchprüfer und
-Buchprüfungsgesellschaften
+## Siebenter Teil Vereidigte Buchprüfer und Buchprüfungsgesellschaften
 
 - [§ 128 Berufszugehörigkeit und Berufsbezeichnung](0128.md)
 - [§ 129 Inhalt der Tätigkeit](0129.md)
@@ -273,7 +270,7 @@ Buchprüfungsgesellschaften
 - [§ 131i Anwendung des Berufsqualifikationsfeststellungsgesetzes](0131i.md)
 - [(XXXX) § 131j (weggefallen)](xxxx-131j.md)
 - [§ 131k Bestellung](0131k.md)
-- [§ 131l Rechtsverordnung](0131l.md)
+- [§ 131l Verordnungsermächtigung](0131l.md)
 - [§ 131m Bescheinigungen des Herkunftsmitgliedstaats](0131m.md)
 
 ## Zehnter Teil Straf- und Bußgeldvorschriften
@@ -286,21 +283,13 @@ Buchprüfungsgesellschaften
 - [§ 133d Verwaltungsbehörde](0133d.md)
 - [§ 133e Verwendung der Geldbußen](0133e.md)
 
-## Elfter Teil Übergangs- und Schlußvorschriften
+## Elfter Teil Übergangs- und Schlussvorschriften
 
 - [§ 134 Anwendung von Vorschriften dieses Gesetzes auf Abschlussprüfer, Abschlussprüferinnen und Abschlussprüfungsgesellschaften aus Drittstaaten](0134.md)
 - [§ 134a Übergangsregelung](0134a.md)
 - [§ 135 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0135.md)
-- [§ 136 Übergangsregelung für § 57a](0136.md)
-- [§ 136a (weggefallen)](0136a.md)
-- [§ 137 Übergangsregelung für § 57 Abs. 4 Nr. 1 Buchstabe e und i](0137.md)
-- [§ 137a](0137a.md)
-- [§ 138 Behandlung schwebender Verfahren](0138.md)
-- [§ 139 (weggefallen)](0139.md)
-- [§ 139a Übergangsregelung zur Behandlung schwebender Anträge und Verfahren im
-Rahmen des Zulassungs- und Prüfungsverfahrens nach den bis zum
-31. Dezember 2003 geltenden §§ 131 bis 131d, 131i und 131j](0139a.md)
+- [(XXXX) §§ 136 bis 139a (weggefallen)](xxxx-136-bis-139a.md)
 - [§ 139b Übergangsregelung für den bis zum 31. Dezember 2003 geltenden § 51a](0139b.md)
 - [§ 140 (weggefallen)](0140.md)
 - [§ 141 Inkrafttreten](0141.md)
-- [Anlage (zu § 122 Satz 1)Gebührenverzeichnis](anlage.md)
+- [Anlage (zu § 122 Satz 1)](anlage.md)

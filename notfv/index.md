@@ -8,7 +8,7 @@
 - [§ 1 Leitung des Prüfungsamtes](0001.md)
 - [§ 2 Verwaltungsrat](0002.md)
 - [§ 3 Aufgabenkommission](0003.md)
-- [§ 4 Prüferinnen und Prüfer](0004.md)
+- [§ 4 Prüfende](0004.md)
 
 ## Teil 2 Notarielle Fachprüfung
 

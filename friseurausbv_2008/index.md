@@ -1,6 +1,7 @@
 # Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
 
 - [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
 - [§ 2 Dauer der Berufsausbildung](0002.md)
 - [§ 3 Struktur der Berufsausbildung](0003.md)

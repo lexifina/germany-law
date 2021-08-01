@@ -54,7 +54,7 @@
 | § 31a | Einsatzversorgung |
 | § 32 | Erstattung von Sachschäden und besonderen Aufwendungen |
 | § 33 | Heilverfahren |
-| § 34 | Pflegekosten und Hilflosigkeitszuschlag |
+| § 34 | Pflegekosten |
 | § 35 | Unfallausgleich |
 | § 36 | Unfallruhegehalt |
 | § 37 | Erhöhtes Unfallruhegehalt |
@@ -93,6 +93,7 @@
 | § 53a | Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld |
 | § 54 | Zusammentreffen mehrerer Versorgungsbezüge |
 | § 55 | Zusammentreffen von Versorgungsbezügen mit Renten |
+| § 55a | Zusammentreffen von Versorgungsbezügen mit Versorgungsabfindungen |
 | § 56 | Zusammentreffen von Versorgungsbezügen mit einer laufenden Alterssicherungsleistung aus zwischenstaatlicher oder überstaatlicher Verwendung |
 | § 57 | Kürzung der Versorgungsbezüge nach der Ehescheidung |
 | § 58 | Abwendung der Kürzung der Versorgungsbezüge |

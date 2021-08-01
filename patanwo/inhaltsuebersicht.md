@@ -73,12 +73,12 @@ Allgemeines
 | § 45 | Berufshaftpflichtversicherung |
 | § 45a | Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung |
 | § 45b | Vertragliche Begrenzung von Ersatzansprüchen |
-| § 46 | Bestellung eines Vertreters |
-| § 47 | (weggefallen) |
+| § 46 | Bestellung einer Vertretung |
+| § 47 | Befugnisse der Vertretung |
 | § 48 | Bestellung eines Abwicklers der Kanzlei |
 | § 49 | Besondere Pflichten gegenüber dem Vorstand der Patentanwaltskammer |
 | § 50 | Zwangsgeld bei Verletzung der besonderen Pflichten |
-| § 51 | Einsicht in die Personalakten |
+| § 51 | Mitgliederakten |
 | § 52 | Ausbildung von Bewerberinnen und Bewerbern für die Patentanwaltschaft |
 | § 52a | Berufliche Zusammenarbeit |
 | § 52b | Satzungskompetenz |
@@ -123,7 +123,7 @@ Vorstand
 | § 69a | Verwaltungsbehörde für Ordnungswidrigkeiten |
 | § 70 | Rügerecht des Vorstands |
 | § 70a | Antrag auf Entscheidung des Landgerichts |
-| § 71 | Pflicht der Vorstandsmitglieder zur Verschwiegenheit |
+| § 71 | Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen |
 | § 72 | Ehrenamtliche Tätigkeit des Vorstands |
 | § 73 | Aufgaben des Präsidenten |
 | § 74 | Berichte über die Tätigkeit der Kammer und über Wahlergebnisse |
@@ -137,7 +137,7 @@ Kammerversammlung
 | § 80 | Ankündigung der Tagesordnung |
 | § 81 | Wahlen und Beschlüsse der Kammerversammlung |
 | § 82 | Aufgaben der Kammerversammlung |
-| § 82a | Prüfung der Satzung der Kammerversammlung durch die Aufsichtsbehörde |
+| § 82a | Prüfung der Berufsordnung und der Satzung der Kammer |
 | §§ 83 und 84 (weggefallen) |
 Fünfter Teil
 Gerichte in
@@ -237,7 +237,7 @@ Vertretungsverbot als vorläufige Maßnahme
 | § 140 | Außerkrafttreten des Verbots |
 | § 141 | Aufhebung des Verbots |
 | § 142 | Mitteilung des Verbots |
-| § 143 | Bestellung eines Vertreters |
+| § 143 | Bestellung einer Vertretung |
 Sechster Abschnitt
 Vollstreckung berufsgerichtlicher
 Maßnahmen und Kosten sowie Tilgung

@@ -6,7 +6,7 @@ Notarverzeichnis
 | § 2 | Angaben zu den Amtspersonen |
 | § 3 | Angaben zu den amtlichen Tätigkeiten |
 | § 4 | Frühere Amtspersonen |
-| § 5 | Notarvertreter |
+| § 5 | Notarvertretung |
 | § 6 | Eintragungen |
 | § 7 | Berichtigungen |
 | § 8 | Löschungen |

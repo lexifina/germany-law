@@ -10,7 +10,7 @@
 | - in Irland: | Barrister/Solicitor |
 | - in Island: | Lögmaur |
 | - in Italien: | Avvocato |
-| - in Kroatien: | Odvjetnik |
+| - in Kroatien: | Odvjetnik/Odvjetnica |
 | - in Lettland: | Zverinats advokats |
 | - in Liechtenstein: | Rechtsanwalt |
 | - in Litauen: | Advokatas |

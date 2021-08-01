@@ -85,7 +85,8 @@ Persönliche Voraussetzungen
 Zweiter Unterabschnitt
 Bestellung
 | § 40 | Bestellende Steuerberaterkammer, Bestellungsverfahren |
-| § 41 | Berufsurkunde |
+| § 40a | Aussetzung des Bestellungsverfahrens |
+| § 41 | Bestellung |
 | § 42 | Steuerbevollmächtigter |
 | § 43 | Berufsbezeichnung |
 | § 44 | Bezeichnung „Landwirtschaftliche Buchstelle“ |
@@ -130,6 +131,7 @@ Vierter Abschnitt
 Organisation des Berufs
 | § 73 | Steuerberaterkammer |
 | § 74 | Mitgliedschaft |
+| § 74a | Mitgliederakten |
 | § 75 | Gemeinsame Steuerberaterkammer |
 | § 76 | Aufgaben der Steuerberaterkammer |
 | § 77 | Vorstand |
@@ -141,7 +143,7 @@ Organisation des Berufs
 | § 80a | Zwangsgeld bei Verletzung von Mitwirkungspflichten |
 | § 81 | Rügerecht des Vorstands |
 | § 82 | Antrag auf berufsgerichtliche Entscheidung |
-| § 83 | Pflicht der Vorstandsmitglieder zur Verschwiegenheit |
+| § 83 | Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen |
 | § 84 | Arbeitsgemeinschaft |
 | § 85 | Bundessteuerberaterkammer |
 | § 86 | Aufgaben der Bundessteuerberaterkammer |

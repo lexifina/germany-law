@@ -33,6 +33,12 @@
 - [§ 12g Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen](0012g.md)
 - [§ 12h Verordnungsermächtigungen](0012h.md)
 
+## Abschnitt IIb Durchführung der Verordnung (EU) Nr. 517/2014
+
+- [§ 12i Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014](0012i.md)
+- [§ 12j Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014](0012j.md)
+- [§ 12k Verordnungsermächtigungen](0012k.md)
+
 ## Dritter Abschnitt Einstufung, Kennzeichnung und Verpackung
 
 - [§ 13 Einstufungs-, Kennzeichnungs- und Verpackungspflichten](0013.md)

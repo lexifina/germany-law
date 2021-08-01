@@ -2,27 +2,27 @@
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Erster Teil Richteramt in Bund und Ländern
+## Teil 1 Richteramt in Bund und Ländern
 
 
-### Erster Abschnitt Einleitende Vorschriften
+### Abschnitt 1 Einleitende Vorschriften
 
 - [§ 1 Berufsrichter und ehrenamtliche Richter](0001.md)
 - [§ 2 Geltung für Berufsrichter](0002.md)
 - [§ 3 Dienstherr](0003.md)
 - [§ 4 Unvereinbare Aufgaben](0004.md)
 
-### Zweiter Abschnitt Befähigung zum Richteramt
+### Abschnitt 2 Befähigung zum Richteramt
 
 - [§ 5 Befähigung zum Richteramt](0005.md)
 - [§ 5a Studium](0005a.md)
 - [§ 5b Vorbereitungsdienst](0005b.md)
 - [§ 5c Anrechnung einer Ausbildung für den gehobenen Dienst](0005c.md)
-- [§ 5d Prüfungen](0005d.md)
+- [§ 5d Prüfungen; Verordnungsermächtigung](0005d.md)
 - [§ 6 Anerkennung von Prüfungen](0006.md)
 - [§ 7 Universitätsprofessoren](0007.md)
 
-### Dritter Abschnitt Richterverhältnis
+### Abschnitt 3 Richterverhältnis
 
 - [§ 8 Rechtsformen des Richterdienstes](0008.md)
 - [§ 9 Voraussetzungen für die Berufungen](0009.md)
@@ -34,7 +34,7 @@
 - [§ 15 Wirkungen auf das Beamtenverhältnis](0015.md)
 - [§ 16 Dauer der Verwendung als Richter kraft Auftrags](0016.md)
 - [§ 17 Ernennung durch Urkunde](0017.md)
-- [§ 17a](0017a.md)
+- [§ 17a Niederlegung eines Mandats im Deutschen Bundestag](0017a.md)
 - [§ 18 Nichtigkeit der Ernennung](0018.md)
 - [§ 19 Rücknahme der Ernennung](0019.md)
 - [§ 19a Amtsbezeichnungen](0019a.md)
@@ -42,10 +42,9 @@
 - [§ 21 Entlassung aus dem Dienstverhältnis](0021.md)
 - [§ 22 Entlassung eines Richters auf Probe](0022.md)
 - [§ 23 Entlassung eines Richters kraft Auftrags](0023.md)
-- [§ 24 Beendigung des Dienstverhältnisses durch richterliche
-Entscheidung](0024.md)
+- [§ 24 Beendigung des Dienstverhältnisses durch richterliche Entscheidung](0024.md)
 
-### Vierter Abschnitt Unabhängigkeit des Richters
+### Abschnitt 4 Unabhängigkeit des Richters
 
 - [§ 25 Grundsatz](0025.md)
 - [§ 26 Dienstaufsicht](0026.md)
@@ -61,7 +60,7 @@ Entscheidung](0024.md)
 - [§ 36 Mitgliedschaft in einer Volksvertretung oder Regierung](0036.md)
 - [§ 37 Abordnung](0037.md)
 
-### Fünfter Abschnitt Besondere Pflichten des Richters
+### Abschnitt 5 Besondere Pflichten des Richters
 
 - [§ 38 Richtereid](0038.md)
 - [§ 39 Wahrung der Unabhängigkeit](0039.md)
@@ -70,7 +69,7 @@ Entscheidung](0024.md)
 - [§ 42 Nebentätigkeiten in der Rechtspflege](0042.md)
 - [§ 43 Beratungsgeheimnis](0043.md)
 
-### Sechster Abschnitt Ehrenamtliche Richter
+### Abschnitt 6 Ehrenamtliche Richter
 
 - [§ 44 Bestellung und Abberufung des ehrenamtlichen Richters](0044.md)
 - [§ 44a Hindernisse für Berufungen als ehrenamtliche Richter](0044a.md)
@@ -78,20 +77,20 @@ Entscheidung](0024.md)
 - [§ 45 Unabhängigkeit und besondere Pflichten des ehrenamtlichen Richters](0045.md)
 - [§ 45a Bezeichnungen der ehrenamtlichen Richter](0045a.md)
 
-## Zweiter Teil Richter im Bundesdienst
+## Teil 2 Richter im Bundesdienst
 
 
-### Erster Abschnitt Allgemeine Vorschriften
+### Abschnitt 1 Allgemeine Vorschriften
 
 - [§ 46 Geltung des Bundesbeamtenrechts](0046.md)
-- [§ 47 Bundespersonalausschuß in Angelegenheiten der Richter](0047.md)
+- [§ 47 Bundespersonalausschuss in Angelegenheiten der Richter](0047.md)
 - [§ 48 Eintritt in den Ruhestand](0048.md)
 - [§ 48a Teilzeitbeschäftigung und Beurlaubung aus familiären Gründen](0048a.md)
 - [§ 48b Beurlaubung aus Arbeitsmarktgründen](0048b.md)
 - [§ 48c Teilzeitbeschäftigung](0048c.md)
 - [§ 48d Teilzeitbeschäftigung, Beurlaubung und berufliches Fortkommen](0048d.md)
 
-### Zweiter Abschnitt Richtervertretungen
+### Abschnitt 2 Richtervertretungen
 
 - [§ 49 Richterrat und Präsidialrat](0049.md)
 - [§ 50 Zusammensetzung des Richterrats](0050.md)
@@ -106,7 +105,7 @@ Entscheidung](0024.md)
 - [§ 59 Abgeordnete Richter](0059.md)
 - [§ 60 Rechtsweg in Angelegenheiten der Richtervertretungen](0060.md)
 
-### Dritter Abschnitt Dienstgericht des Bundes
+### Abschnitt 3 Dienstgericht des Bundes
 
 - [§ 61 Verfassung des Dienstgerichts](0061.md)
 - [§ 62 Zuständigkeit des Dienstgerichts](0062.md)
@@ -117,12 +116,12 @@ Entscheidung](0024.md)
 - [§ 67 Urteilsformel im Prüfungsverfahren](0067.md)
 - [§ 68 Aussetzung von Verfahren](0068.md)
 
-### Vierter Abschnitt Richter des Bundesverfassungsgerichts
+### Abschnitt 4 Richter des Bundesverfassungsgerichts
 
 - [§ 69 Beschränkte Geltung dieses Gesetzes](0069.md)
 - [§ 70 Bundesrichter als Richter des Bundesverfassungsgerichts](0070.md)
 
-## Dritter Teil Richter im Landesdienst
+## Teil 3 Richter im Landesdienst
 
 - [§ 71 Geltung des Beamtenstatusgesetzes](0071.md)
 - [§ 71a Anwendung des Beamtenversorgungsgesetzes](0071a.md)
@@ -141,31 +140,28 @@ Entscheidung](0024.md)
 - [§ 83 Verfahrensvorschriften](0083.md)
 - [§ 84 Verfassungsrichter](0084.md)
 
-## Vierter Teil Übergangs- und Schlußvorschriften
+## Teil 4 Übergangs- und Schlussvorschriften
 
 
-### Erster Abschnitt Änderung von Bundesrecht
+### Abschnitt 1 Änderung von Bundesrecht
 
 - [(XXXX) §§ 85 bis 103 (Änderungs- und Aufhebungsvorschriften)](xxxx-85-bis-103.md)
 - [§ 104 Verweisung auf aufgehobene Vorschriften](0104.md)
 
-### Zweiter Abschnitt Überleitung von Rechtsverhältnissen
+### Abschnitt 2 Überleitung von Rechtsverhältnissen
 
-- [§ 105 Überleitungsvorschriften für Richter auf Lebenszeit und auf Zeit](0105.md)
-- [§ 106 Überleitungsvorschriften für Richter auf Probe, Richter kraft
-Auftrags und abgeordnete Richter](0106.md)
+- [(XXXX) §§ 105 und 106 (weggefallen)](xxxx-105-und-106.md)
 - [§ 107 (weggefallen)](0107.md)
 - [§ 108 (weggefallen)](0108.md)
 - [§ 109 Befähigung zum Richteramt](0109.md)
-- [§ 110 Befähigung zum höheren Verwaltungsdienst](0110.md)
-- [§ 111 Vorsitzende der Arbeitsgerichte und Sozialgerichte](0111.md)
+- [(XXXX) §§ 110 und 111 (weggefallen)](xxxx-110-und-111.md)
 - [§ 112 Anerkennung ausländischer Prüfungen und im Ausland erworbener Ausbildungsnachweise](0112.md)
 - [§ 112a Gleichwertigkeitsprüfung für die Zulassung zum juristischen Vorbereitungsdienst](0112a.md)
 - [(XXXX) §§ 113 bis 118 (weggefallen)](xxxx-113-bis-118.md)
 
-### Dritter Abschnitt Schlußvorschriften
+### Abschnitt 3 Schlußvorschriften
 
-- [§ 119](0119.md)
+- [§ 119 (weggefallen)](0119.md)
 - [§ 120 Technische Mitglieder des Bundespatentgerichts](0120.md)
 - [§ 120a Besondere Vorschriften über die Amtsbezeichnungen](0120a.md)
 - [§ 121 Richter im Bundesdienst als Mitglieder der gesetzgebenden Körperschaft eines Landes](0121.md)

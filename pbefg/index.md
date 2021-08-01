@@ -4,8 +4,12 @@
 ## I. Allgemeine Vorschriften
 
 - [§ 1 Sachlicher Geltungsbereich](0001.md)
+- [§ 1a Klimaschutz und Nachhaltigkeit](0001a.md)
 - [§ 2 Genehmigungspflicht](0002.md)
 - [§ 3 Unternehmer](0003.md)
+- [§ 3a Bereitstellung von Mobilitätsdaten](0003a.md)
+- [§ 3b Datenverarbeitung](0003b.md)
+- [§ 3c Datenlöschung](0003c.md)
 - [§ 4 Straßenbahnen, Obusse, Kraftfahrzeuge](0004.md)
 - [§ 5 Dokumente](0005.md)
 - [§ 6 Umgehungsverbot](0006.md)
@@ -74,7 +78,7 @@ Verkehrsarten
 - [§ 42a Personenfernverkehr](0042a.md)
 - [§ 42b Technische Anforderungen](0042b.md)
 - [§ 43 Sonderformen des Linienverkehrs](0043.md)
-- [§ 44](0044.md)
+- [§ 44 Linienbedarfsverkehr](0044.md)
 - [§ 45 Sonstige Vorschriften](0045.md)
 
 ### D. Ausgleichszahlungen
@@ -87,9 +91,9 @@ Verkehrsarten
 - [§ 47 Verkehr mit Taxen](0047.md)
 - [§ 48 Ausflugsfahrten und Ferienziel-Reisen](0048.md)
 - [§ 49 Verkehr mit Mietomnibussen und mit Mietwagen](0049.md)
-- [§ 50](0050.md)
+- [§ 50 Gebündelter Bedarfsverkehr](0050.md)
 - [§ 51 Beförderungsentgelte und -bedingungen im Taxenverkehr](0051.md)
-- [§ 51a](0051a.md)
+- [§ 51a Beförderungsentgelte im Verkehr mit Mietwagen und im gebündelten Bedarfsverkehr](0051a.md)
 
 ## IV. Auslandsverkehr
 
@@ -127,5 +131,6 @@ Allgemeinen Verwaltungsvorschriften
 - [§ 64 Andere Gesetze](0064.md)
 - [§ 64a Ersetzung bundesrechtlicher Vorschriften durch Landesrecht](0064a.md)
 - [§ 64b Landesrecht im Bereich des Gelegenheitsverkehrs](0064b.md)
+- [§ 64c Barrierefreiheit](0064c.md)
 - [§ 65 Ausnahmen für Straßenbahnen](0065.md)
-- [§ 66 Berichtspflicht](0066.md)
+- [§ 66 Berichtspflichten](0066.md)

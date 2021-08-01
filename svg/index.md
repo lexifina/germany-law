@@ -134,6 +134,7 @@
 - [§ 55d Abwendung der Kürzung der Versorgungsbezüge](0055d.md)
 - [§ 55e Anwendung des Bundesversorgungsteilungsgesetzes](0055e.md)
 - [§ 55f Abzug für Pflegeleistungen](0055f.md)
+- [§ 55g Zusammentreffen von Versorgungsbezügen mit Versorgungsabfindungen](0055g.md)
 - [§ 56 Erlöschen der Versorgungsbezüge wegen Verurteilung](0056.md)
 - [§ 57 Erlöschen der Versorgungsbezüge bei Ablehnung einer erneuten Berufung](0057.md)
 - [§ 58 Entziehung der Versorgung](0058.md)

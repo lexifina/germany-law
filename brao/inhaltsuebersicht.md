@@ -42,7 +42,8 @@ Verwaltungsverfahren
 | § 34 | Zustellung |
 | § 35 | Bestellung eines Vertreters im Verwaltungsverfahren |
 | § 36 | Ermittlung des Sachverhalts und Übermittlung personenbezogener Daten |
-| §§ 37 bis 42 (weggefallen) |
+| § 37 | Ersetzung der Schriftform |
+| §§ 38 bis 42 (weggefallen) |
 Dritter Teil
 Rechte und Pflichten des Rechtsanwalts
 und berufliche Zusammenarbeit der Rechtsanwälte
@@ -70,12 +71,12 @@ Allgemeines
 | § 51 | Berufshaftpflichtversicherung |
 | § 51a | Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung |
 | § 52 | Vertragliche Begrenzung von Ersatzansprüchen |
-| § 53 | Bestellung eines Vertreters |
-| § 54 | (weggefallen) |
+| § 53 | Bestellung einer Vertretung |
+| § 54 | Befugnisse der Vertretung |
 | § 55 | Bestellung eines Abwicklers der Kanzlei |
 | § 56 | Besondere Pflichten gegenüber dem Vorstand der Rechtsanwaltskammer |
 | § 57 | Zwangsgeld bei Verletzung der besonderen Pflichten |
-| § 58 | Einsicht in die Personalakten |
+| § 58 | Mitgliederakten |
 | § 59 | Ausbildung von Referendaren |
 | § 59a | Berufliche Zusammenarbeit |
 | § 59b | Satzungskompetenz |
@@ -97,7 +98,7 @@ Die Rechtsanwaltskammern
 Erster Abschnitt
 Allgemeines
 | § 60 | Bildung und Zusammensetzung der Rechtsanwaltskammer |
-| § 61 | Bildung einer weiteren Rechtsanwaltskammer |
+| § 61 | (weggefallen) |
 | § 62 | Stellung der Rechtsanwaltskammer |
 Zweiter Abschnitt
 Organe der Rechtsanwaltskammer
@@ -119,7 +120,7 @@ Vorstand
 | § 74 | Rügerecht des Vorstandes |
 | § 74a | Antrag auf anwaltsgerichtliche Entscheidung |
 | § 75 | Ehrenamtliche Tätigkeit des Vorstandes |
-| § 76 | Pflicht der Vorstandsmitglieder zur Verschwiegenheit |
+| § 76 | Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen |
 | § 77 | Abteilungen des Vorstandes |
 Zweiter Unterabschnitt
 Präsidium
@@ -259,7 +260,7 @@ Vertretungsverbot als vorläufige Maßnahme
 | § 159a | Dreimonatsfrist |
 | § 159b | Prüfung der Fortdauer des Verbots |
 | § 160 | Mitteilung des Verbots |
-| § 161 | Bestellung eines Vertreters |
+| § 161 | Bestellung einer Vertretung |
 | § 161a | Gegenständlich beschränktes Vertretungsverbot |
 Achter Teil
 Die Rechtsanwaltschaft bei dem Bundesgerichtshof
@@ -285,7 +286,7 @@ der Rechtsanwälte bei dem Bundesgerichtshof
 | § 172 | Beschränkung des Auftretens vor anderen Gerichten |
 | § 172a | Sozietät |
 | § 172b | Kanzlei |
-| § 173 | Bestellung eines Vertreters und eines Abwicklers der Kanzlei |
+| § 173 | Bestellung einer Vertretung und eines Abwicklers der Kanzlei |
 Vierter Abschnitt
 Die Rechtsanwaltskammer
 bei dem Bundesgerichtshof
@@ -307,13 +308,13 @@ Präsidium
 | § 181 | Recht zur Ablehnung der Wahl |
 | § 182 | Wahlperiode und vorzeitiges Ausscheiden |
 | § 183 | Ehrenamtliche Tätigkeit des Präsidiums |
-| § 184 | Pflicht zur Verschwiegenheit |
+| § 184 | Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen |
 | § 185 | Aufgaben des Präsidenten |
 | § 186 | Aufgaben des Schatzmeisters |
 Zweiter Unterabschnitt
 Hauptversammlung
 | § 187 | Versammlung der Mitglieder |
-| § 188 | Vertreter der Rechtsanwaltskammern in der Hauptversammlung |
+| § 188 | Vertretung der Rechtsanwaltskammern in der Hauptversammlung |
 | § 189 | Einberufung der Hauptversammlung |
 | § 190 | Beschlüsse der Hauptversammlung |
 | § 191 | (weggefallen) |
