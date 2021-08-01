@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.3
+- Datum: 2021-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2020
+01.08.2021
 bis
-31.07.2021
+31.07.2024
 
 VwV Stundentafeln
 
@@ -37,14 +37,18 @@ I.
 Geltungsbereich
 
 
-Diese Verwaltungsvorschrift gilt für die Erteilung des Unterrichts an allen Grundschulen, Förderschulen, Oberschulen, Gymnasien (Sekundarstufe I), Abendoberschulen, Abendgymnasien und Kollegs (jeweils Vorkurs und Einführungsphase) in öffentlicher Trägerschaft im Freistaat Sachsen sowie an allgemeinbildenden Schulen in öffentlicher Trägerschaft im sorbischen Siedlungsgebiet im Freistaat Sachsen.
+Diese Verwaltungsvorschrift gilt für die Erteilung des Unterrichts an allen Grundschulen, Förderschulen, Oberschulen einschließlich Oberschulen+, Gymnasien (Sekundarstufe I), Gemeinschaftsschulen (Primarstufe und Sekundarstufe I), Abendoberschulen, Abendgymnasien und Kollegs (jeweils Vorkurs und Einführungsphase) in öffentlicher Trägerschaft im Freistaat Sachsen sowie an allgemeinbildenden Schulen in öffentlicher Trägerschaft im sorbischen Siedlungsgebiet im Freistaat Sachsen.
 
 
 II.
 Lehrpläne
 
 
-Im Unterricht sind die Lehrpläne anzuwenden, die in der Landesliste der Lehrpläne für Grundschulen, Förderschulen, Oberschulen, Gymnasien (Sekundarstufe I), Abendoberschulen, Abendgymnasien und Kollegs (jeweils Vorkurs und Einführungsphase) und Schulen im deutsch-sorbischen Gebiet im Freistaat Sachsen in der jeweils geltenden Fassung ausgewiesen sind. Die Landesliste wird jährlich von der obersten Schulaufsichtsbehörde herausgegeben.
+Im Unterricht sind die Lehrpläne anzuwenden, die in der Landesliste der Lehrpläne für Grundschulen, Förderschulen, Oberschulen, Gymnasien (Sekundarstufe I), Abendoberschulen, Abendgymnasien und Kollegs (jeweils Vorkurs und Einführungsphase) und Schulen im deutsch-sorbischen Gebiet im Freistaat Sachsen in der jeweils geltenden Fassung ausgewiesen sind.
+
+Für Oberschulen+ gilt Satz 1 entsprechend mit der Maßgabe, dass in der Primarstufe die Lehrpläne für Grundschulen und in der Sekundarstufe I die Lehrpläne für Oberschulen anzuwenden sind. Für Gemeinschaftsschulen gilt Satz 1 entsprechend mit der Maßgabe, dass in der Primarstufe die Lehrpläne für Grundschulen und in der Sekundarstufe I entsprechend dem jeweiligen Anforderungsniveau die Lehrpläne für Oberschulen und Gymnasien anzuwenden sind.
+
+Die Landesliste wird jährlich von der obersten Schulaufsichtsbehörde herausgegeben.
 
 
 III.
@@ -152,7 +156,7 @@ An Schulen mit dem Förderschwerpunkt emotionale und soziale Entwicklung gelten 
 
 
 V.
-Stundentafeln Oberschulen
+Stundentafeln Oberschulen einschließlich Oberschulen+
 
 
 1.
@@ -160,7 +164,7 @@ Stundentafeln Oberschulen
 Oberschule
 
 
-An allen Oberschulen mit Ausnahme der in den Nummern 2 bis 4 genannten Schulen und dem besonderen Bildungsweg Produktives Lernen an ausgewählten Oberschulen gilt die als Anlage 3a beigefügte Stundentafel.
+An allen Oberschulen mit Ausnahme des besonderen Bildungsweges Produktives Lernen an ausgewählten Oberschulen gilt die als Anlage 3a beigefügte Stundentafel, soweit in den Nummern 2 bis 6 nichts anderes geregelt ist.
 
 
 2.
@@ -190,6 +194,13 @@ An der Palucca Hochschule für Tanz Dresden, Oberschule, gilt die als Anlage 3d 
 5.
 
 An den von der Schulaufsichtsbehörde festgelegten Oberschulen, die das Fach Jüdische Religion anbieten, gilt die als Anlage 3e beigefügte Stundentafel. Ziffer III Nummer 4 Satz 2 gilt entsprechend.
+
+
+6.
+
+Oberschule+
+
+An allen Oberschulen+ gelten in der Primarstufe Ziffer III entsprechend und in der Sekundarstufe I die Nummern 1 bis 3 und 5 entsprechend.
 
 
 VI.
@@ -228,13 +239,30 @@ beigefügte Stundentafel. Ziffer III Nummer 4 Satz 2 gilt entsprechend.
 
 
 VII.
+Stundentafeln Gemeinschaftsschulen
+
+
+1.
+
+Primarstufe
+
+An Gemeinschaftsschulen gilt in der Primarstufe Ziffer III Nummer 1 bis 3 entsprechend, soweit das genehmigte Schulprogramm keine Abweichungen enthält.
+
+2.
+
+Sekundarstufe I
+
+An Gemeinschaftsschulen gelten entsprechend dem jeweiligen Anforderungsniveau, in dem die Schüler unterrichtet werden, Ziffer V Nummer 1 und 2 sowie Ziffer VI Nummer 1 und 3 entsprechend, soweit das genehmigte Schulprogramm keine Abweichungen enthält. Abweichend von Satz 1 gilt für die zweite Fremdsprache Ziffer VI Nummer 1 und 3 entsprechend. Für Schüler, die die allgemeine Hochschulreife anstreben, ist ein Gesamtstundenvolumen von mindestens 265 Jahreswochenstunden ab der Klassenstufe 5 bis zur Jahrgangsstufe 12 zu gewährleisten.
+
+
+VIII.
 Stundentafel Abendoberschule
 
 
 Im Vorkurs und in den Klassenstufen 9 und 10 an der Abendoberschule gilt die als Anlage 5 beigefügte Stundentafel.
 
 
-VIII.
+IX.
 Stundentafeln Abendgymnasium und Kolleg
 (Vorkurs und Einführungsphase)
 
@@ -249,26 +277,23 @@ Im Vorkurs und in der Einführungsphase an Abendgymnasien gilt die als Anlage 6a
 Im Vorkurs und in der Einführungsphase an Kollegs gilt die als Anlage 6b beigefügte Stundentafel.
 
 
-IX.
+X.
 Deutsch als Zweitsprache
 
 
-Die Stundentafel für das Fach Deutsch als Zweitsprache umfasst für die Grundschulen 15  Wochenstunden, für die Oberschulen 25  Wochenstunden und für Kollegs 32  Wochenstunden je gebildeter Vorbereitungsklasse oder -gruppe. Der begleitende Unterricht im Fach Deutsch als Zweitsprache (3. Etappe) umfasst in den in Ziffer I genannten Schulen mindestens 2  Wochenstunden und höchstens 4  Wochenstunden je gebildeter Gruppe.
+Die Stundentafel für das Fach Deutsch als Zweitsprache umfasst für die Grundschulen 15 Wochenstunden, für die Oberschulen 25 Wochenstunden und für Kollegs 32 Wochenstunden je gebildeter Vorbereitungsklasse oder -gruppe. Der Unterricht in der Vorbereitungsklasse mit vertiefter zweiter Etappe an Oberschulen umfasst zusätzlich 10 Wochenstunden. Der Umfang des in der dritten Etappe begleitenden Unterrichts im Fach Deutsch als Zweitsprache in den in Ziffer I genannten Schulen richtet sich nach den Festlegungen in der für das jeweilige Schuljahr geltenden VwV Bedarf und Schuljahresablauf. Für Oberschulen+ und Gemeinschaftsschulen gelten die Sätze 1 bis 3 entsprechend mit der Maßgabe, dass in der Primarstufe die Regelung für Grundschulen und in der Sekundarstufe I die Regelung für Oberschulen gilt.
 
 
-X.
-Abweichungen von den Stundentafeln in Eigenverantwortung  der allgemeinbildenden Schulen
+XI.
+Abweichungen von den Stundentafeln in Eigenverantwortung
+der allgemeinbildenden Schulen
 
 
 1.
 
-An Grundschulen, Oberschulen und Förderschulen sowie in begründeten Einzelfällen an Gymnasien in der Sekundarstufe I kann in jeder Klassenstufe
+An Grundschulen, Oberschulen einschließlich Oberschulen+ und Förderschulen sowie in begründeten Einzelfällen an Gymnasien in der Sekundarstufe I kann in jeder Klassenstufe die   Wochenstundenzahl in bis zu zwei Fächern des Pflichtbereichs im Umfang von jeweils einer Wochenstunde zu Gunsten eines anderen Faches des Pflichtbereichs verlagert werden.
 
-die   Wochenstundenzahl in bis zu zwei Fächern des Pflichtbereichs im Umfang von jeweils einer Wochenstunde zu Gunsten eines anderen Faches des Pflichtbereichs verlagert werden.
-
-Durch die Verlagerung darf ein Fach des Pflichtbereichs nicht entfallen; die Gesamtzahl der in den Stundentafeln festgelegten   Wochenstunden bleibt gleich. Die Umsetzung der Lehrpläne ist zu gewährleisten. Die Stundenzahl der Fächer Evangelische Religion, Katholische Religion, Jüdische Religion und Ethik bleibt unverändert. Die Stundenzahl in
-
-den Fremdsprachen am Gymnasium darf nicht verringert werden.
+Durch die Verlagerung darf ein Fach des Pflichtbereichs nicht entfallen; die Gesamtzahl der in den Stundentafeln festgelegten   Wochenstunden bleibt gleich. Die Umsetzung der Lehrpläne ist zu gewährleisten. Die Stundenzahl der Fächer Evangelische Religion, Katholische Religion, Jüdische Religion und Ethik bleibt unverändert. Die Stundenzahl in den Fremdsprachen am Gymnasium darf nicht verringert werden.
 
 Im Rahmen der Eigenverantwortung entscheidet der Schulleiter über die Abweichung von der jeweiligen Stundentafel.
 
@@ -280,7 +305,7 @@ Nummer 1 findet keine Anwendung
 
 a)
 
-in den Abschlussklassen des Haupt- und Realschulbildungsgangs der Oberschulen und der Förderschulen,
+in den Abschlussklassen des Haupt- und Realschulbildungsgangs der Oberschulen einschließlich Oberschulen+ und der Förderschulen,
 
 
 b)
@@ -300,14 +325,14 @@ d)
 an der Palucca Hochschule für Tanz Dresden, Oberschule.
 
 
-XI.
+XII.
 Abkürzungen der Fächernamen
 
 
-Zur Abkürzung der Namen der in den Grundschulen, Förderschulen, Oberschulen, Gymnasien und Schulen des zweiten Bildungsweges unterrichteten Fächer, Lernbereiche an der Schule mit dem Förderschwerpunkt Lernen, Arbeitsgemeinschaften und der sonstigen in der Stundentafel verwendeten Begriffe sind die als Anlage 7 beigefügten Bezeichnungen zu verwenden.
+Zur Abkürzung der Namen der in den Grundschulen, Förderschulen, Oberschulen einschließlich Oberschulen+, Gymnasien, Gemeinschaftsschulen und Schulen des zweiten Bildungsweges unterrichteten Fächer, Lernbereiche an der Schule mit dem Förderschwerpunkt Lernen, Arbeitsgemeinschaften und der sonstigen in der Stundentafel verwendeten Begriffe sind die als Anlage 7 beigefügten Bezeichnungen zu verwenden.
 
 
-XII.
+XIII.
 Inkrafttreten, Außerkrafttreten
 
 
@@ -436,7 +461,7 @@ Stundentafel für das Kolleg
 Vorkurs und Einführungsphase
 
 Anlage 7
-Abkürzungen der Fächer, Lernbereiche an der Schule mit dem Förderschwerpunkt geistige Entwicklung und der sonstigen in den Stundentafeln verwendeten Begriffe (Grundschule, Oberschule, Förderschule, Gymnasium und Schulen des zweiten Bildungsweges)
+Abkürzungen der Fächer, Lernbereiche an der Schule mit dem Förderschwerpunkt geistige Entwicklung und der sonstigen in den Stundentafeln verwendeten Begriffe (Grundschule, Oberschule einschließlich Oberschulen+, Förderschule, Gymnasium, Gemeinschaftsschule und Schulen des zweiten Bildungsweges)
 
 Verweis auf Bundesgesetze
 
@@ -448,9 +473,9 @@ Fsn-Nr.: 710-V18.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2020
+Fassung gültig ab:  1. August 2021
 
-Fassung gültig bis: 31. Juli 2021
+Fassung gültig bis: 31. Juli 2024
 
 Drucken/Speichern
 
@@ -477,7 +502,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17744.3
+https://www.revosax.sachsen.de/vorschrift/17744.4
 Stand vom
 18.11.2026
 
