@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und 2 Satz 1 Nummer 2, 3 und 4 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), § 25 Absatz 1 Satz 1 zuletzt geändert durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) und § 26 Absatz 1 Satz 1 zuletzt geändert durch Artikel 2 Nummer 2 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2522), verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
