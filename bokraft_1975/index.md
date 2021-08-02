@@ -59,10 +59,10 @@ Ausrüstungsgegenständen](0019.md)
 - [§ 26 Kenntlichmachung](0026.md)
 - [§ 27 Ordnungsnummer, Unternehmeranschrift](0027.md)
 - [§ 28 Fahrpreisanzeiger](0028.md)
+- [§ 28a Navigationsgerät](0028a.md)
 - [§ 29 Gepäck](0029.md)
 - [§ 30 Wegstreckenzähler](0030.md)
-- [§ 31 Fahrzeuge mit einer Genehmigung für den
-Taxen- und Mietwagenverkehr](0031.md)
+- [§ 31 Fahrzeuge mit einer Genehmigung für den Taxen-, Mietwagenverkehr und gebündelten Bedarfsverkehr](0031.md)
 
 ## 4. Abschnitt Sondervorschriften
 
@@ -104,5 +104,7 @@ Untersuchungen der Fahrzeuge
 - [Anlage 1 (§ 26 Abs. 1)](anlage-1.md)
 - [Anlage 2 (weggefallen)](anlage-2.md)
 - [Anlage 3 (§ 27 Abs. 1)](anlage-3.md)
+- [Anlage 3a (zu § 27 Absatz 3) Abmessungen und Beschriftung des Ordnungsnummern-Schildes für Mietwagen](anlage-3a.md)
+- [Anlage 3b (zu § 27 Absatz 4) Abmessungen und Beschriftung des Ordnungsnummern-Schildes für gebündelte Bedarfsverkehre](anlage-3b.md)
 - [Anlage 4 (§ 33 Abs. 4)](anlage-4.md)
 - [Anlage 5 (§ 34 Satz 2)](anlage-5.md)

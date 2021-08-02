@@ -239,6 +239,10 @@ Transparenzrichtlinie-Umsetzungsgesetz
 
 - [Art 84](art-84.md)
 
+## Sechsundvierzigster Abschnitt Übergangsvorschrift zum Fondsstandortgesetz
+
+- [Art 85](art-85.md)
+
 ## Siebenundvierzigster Abschnitt Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
 
 - [Art 86](art-86.md)

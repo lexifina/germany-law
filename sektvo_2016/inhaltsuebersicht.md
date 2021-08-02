@@ -80,9 +80,9 @@ Prüfung und Wertung der Angebote
 | § 57 | Aufhebung und Einstellung des Verfahrens |
 Abschnitt 3
 Besondere Vorschriften
-für die Beschaffung energieverbrauchsrelevanter Leistungen und von Straßenfahrzeugen
+für die Beschaffung energieverbrauchsrelevanter Leistungen
 | § 58 | Beschaffung energieverbrauchsrelevanter Leistungen |
-| § 59 | Beschaffung von Straßenfahrzeugen |
+| § 59 | (weggefallen) |
 Abschnitt 4
 Planungswettbewerbe
 | § 60 | Anwendungsbereich |
@@ -94,5 +94,5 @@ Abschnitt 5
 | § 64 | Übergangsbestimmungen |
 | § 65 | Fristenberechnung |
 | Anlage 1 (zu § 28 Absatz 2) | Technische Anforderungen, Begriffsbestimmungen |
-| Anlage 2 (zu § 59) | Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten |
-| Anlage 3 (zu § 59 Absatz 2) | Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten |
+|  |  |
+|  |  |

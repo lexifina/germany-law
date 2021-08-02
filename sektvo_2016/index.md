@@ -89,10 +89,10 @@
 - [§ 56 Unterrichtung der Bewerber oder Bieter](0056.md)
 - [§ 57 Aufhebung und Einstellung des Verfahrens](0057.md)
 
-## Abschnitt 3 Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen und von Straßenfahrzeugen
+## Abschnitt 3 Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen
 
 - [§ 58 Beschaffung energieverbrauchsrelevanter Leistungen](0058.md)
-- [§ 59 Beschaffung von Straßenfahrzeugen](0059.md)
+- [§ 59 (weggefallen)](0059.md)
 
 ## Abschnitt 4 Planungswettbewerbe
 
@@ -106,5 +106,3 @@
 - [§ 64 Übergangsbestimmungen](0064.md)
 - [§ 65 Fristenberechnung](0065.md)
 - [Anlage 1 (zu § 28 Absatz 2)Technische Anforderungen, Begriffsbestimmungen](anlage-1.md)
-- [Anlage 2 (zu § 59)Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten](anlage-2.md)
-- [Anlage 3 (zu § 59 Absatz 2)Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten](anlage-3.md)

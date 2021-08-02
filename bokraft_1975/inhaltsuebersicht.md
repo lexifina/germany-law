@@ -41,14 +41,15 @@
 | § 23 | Sitze im Gang |
 | § 24 | (weggefallen) |
 |  | 3. | Titel |
-|  | Taxen und Mietwagen |
+|  | Taxen, Mietwagen und gebündelter Bedarfsverkehr |
 | § 25 | Türen, Alarmanlage und Trennwand |
 | § 26 | Kenntlichmachung |
 | § 27 | Ordnungsnummer, Unternehmeranschrift |
 | § 28 | Fahrpreisanzeiger |
+| § 28a | Navigationsgerät |
 | § 29 | Gepäck |
 | § 30 | Wegstreckenzähler |
-| § 31 | Fahrzeuge mit einer Genehmigung für den Taxen- und Mietwagenverkehr |
+| § 31 | Fahrzeuge mit einer Genehmigung für den Taxen-, Mietwagenverkehr und den gebündelten Bedarfsverkehr |
 | 4. | Abschnitt |
 |  | Sondervorschriften |
 |  | 1. | Titel |
@@ -81,5 +82,7 @@
 | Anlage 1 | Abmessungen, Aufschrift und Beleuchtung des Taxischildes |
 | Anlage 2 | (weggefallen) |
 | Anlage 3 | Abmessungen und Beschriftung des Ordnungsnummern-Schildes |
+| Anlage 3a | Abmessungen und Beschriftung des Ordnungsnummern-Schildes für Mietwagen |
+| Anlage 3b | Abmessungen und Beschriftung des Ordnungsnummern-Schildes für gebündelten Bedarfsverkehr |
 | Anlage 4 | Abmessungen und Beschriftung des Schulbus-Schildes |
 | Anlage 5 | Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und andere sitzplatzbedürftige Personen |

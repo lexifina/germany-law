@@ -16,7 +16,7 @@
 - [§ 7 Herausgabe von Kommunikationsdaten](0007.md)
 - [§ 8 Übermittlung und Herausgabe marktbezogener Daten; Verordnungsermächtigung](0008.md)
 - [§ 9 Verringerung und Einschränkung von Positionen oder offenen Forderungen](0009.md)
-- [§ 10 Besondere Befugnisse nach der Verordnung (EU) Nr. 1286/2014 und der Verordnung (EU) 2016/1011](0010.md)
+- [§ 10 Besondere Befugnisse nach der Verordnung(EU) 1286/2014, der Verordnung(EU) 2016/1011, der Verordnung (EU) 2019/2088 und der Verordnung (EU) 2020/852](0010.md)
 - [§ 11 Anzeige straftatbegründender Tatsachen](0011.md)
 - [§ 12 Adressaten einer Maßnahme wegen möglichen Verstoßes gegen Artikel 14 oder 15 der Verordnung (EU) Nr. 596/2014](0012.md)
 - [§ 13 Sofortiger Vollzug](0013.md)

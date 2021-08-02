@@ -104,10 +104,10 @@
 - [§ 65 Ergänzende Verfahrensregeln](0065.md)
 - [§ 66 Veröffentlichungen, Transparenz](0066.md)
 
-## Abschnitt 4 Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen und von Straßenfahrzeugen
+## Abschnitt 4 Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen
 
 - [§ 67 Beschaffung energieverbrauchsrelevanter Liefer- oder Dienstleistungen](0067.md)
-- [§ 68 Beschaffung von Straßenfahrzeugen](0068.md)
+- [§ 68 (weggefallen)](0068.md)
 
 ## Abschnitt 5 Planungswettbewerbe
 
@@ -138,5 +138,3 @@
 - [§ 81 Übergangsbestimmungen](0081.md)
 - [§ 82 Fristenberechnung](0082.md)
 - [Anlage 1 (zu § 31 Absatz 2)Technische Anforderungen, Begriffsbestimmungen](anlage-1.md)
-- [Anlage 2 (zu § 68 Absatz 1 und 3)Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten](anlage-2.md)
-- [Anlage 3 (zu § 68 Absatz 3)Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten](anlage-3.md)
