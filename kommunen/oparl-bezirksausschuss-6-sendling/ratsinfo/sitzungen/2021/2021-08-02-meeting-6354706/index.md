@@ -1,0 +1,124 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-08-02T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354706
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354706
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.3.1.: Baulisten
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.3.1.: Bescheide
+- TOP 6.3.2.: Verwendungsnachweise
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 2.1.: Sicherheitslage am Kidlerplatz
+- TOP 2.2.: Folgen der Maßnahmen im Bereich Fallstraße / Leipartstraße / Schöttlstraße
+- TOP 2.3.: Kleidercontainer ohne Kennzeichnung am Kidlerplatz
+- TOP 2.4.: Beibehaltung der Einbahnstraßenregelung in der Oberländerstraße
+- TOP 2.5.: Fahrradschiene für die Treppe zwischen Untersendling und Harras
+- TOP 2.6.: Umwandlung von Parkplätze in Fahrradabstellplätze
+- TOP 2.7.: Perspektive und Ideen zum Parkplatz Kochelseestraße
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällungsantrag Bavariastraße 12-16
+- TOP 4.2.2.: Baumfällungsantrag Demleitnerstraße 1-5
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.2.: Protokoll der öffentlichen Sitzung des Mieterbeirats vom 12.07.2021
+- TOP 4.3.3.: Baumfällung an der Ecke Schäftslarn- / Brudermühlstraße Antwort
+- TOP 4.3.4.: Baumfällung an der Implerstraße 48 Antwort
+- TOP 4.3.5.: Kunstwerk am Gasteig Antwort
+- TOP 4.3.6.: Situation in der Heißstraße / Flößergasse Antwort
+- TOP 4.3.7.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 "München - Stadt im Gleichgewicht" A) Vorstellung des Entwurfs B) Weiteres Vorgehen und Beteiligungsprozess
+- TOP 4.3.8.: (U) Energienutzungsplan für München – Maßnahmen und Bericht 2021 Sachmittel für das EU-Projekt DecarbCity Pipes 2050
+- TOP 4.3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.10.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 4.3.11.: (U) Projektantrag für die Umsetzungsphase „Grüne Stadt der Zukunft II – Klimaresiliente Quartiere in einer wachsenden Stadt“ im Rahmen der Leitinitiative Zukunftsstadt Stellenbedarf Referat für Stadtplanung und Bauordnung
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Obstbäume auf der Stemmerwiese
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Verkaufseinrichtung auf öffentlichem Grund Gaißacher Straße 18
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Sichere Kreuzungen durch bessere Sichtbeziehungen
+- TOP 5.2.2.: Gasteig-Interims-Quartier Anpassung der Parkregeln im Parklizenzgebiet Brudermühlviertel (Neue Frist: 06.08.2021)
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Zukünftiges Verkehrskonzept Schäftlarnstraße 64-172 Antwort
+- TOP 5.3.2.: Verkehrslage in der Nähe des Wertstoffhofs / Thalkirchen Antwort
+- TOP 5.3.3.: Verkehrsrechtliche Anordnung Ausweisung der Dietramszeller Straße zwischen Bruderhofstraße und Thalkirchner Straße zur Fahrradstraße
+- TOP 5.3.4.: Verkehrsrechtliche Anordnung Aufhebung der Radwegbenutzungspflicht Ostseite zwischen den beiden Einmündungen zu den Wendehammern Schäftlarnstr. 81-85, 87-97 (ggü. Sigi-Sommer-Platz) sowie Schäftlarnstr. 101-111 (ggü. Schäftlarnstr. 100)
+- TOP 5.3.5.: Verkehrsrechtliche Anordnung Margaretenstraße; Absolutes Haltverbot südwestlich Einmündung Meindlstraße - Verbesserung der Fußgängerquerung -
+- TOP 5.3.6.: Verkehrsrechtliche Anordnung Kidlerplatz; Einrichtung einer Mobilitätsstation (Projekt City2Share)
+- TOP 5.3.7.: Lichtsignalanlage in der Kreuzung Impler- / Wackersberger Straße Antwort
+- TOP 5.3.8.: Sommerfest Naturkindergarten Flaucherfüchse Am Isarkanal/Ecke Hans-Preißinger-Straße am 10.07.2021 (Ersatztermin: 16.07.2021) Bescheid
+- TOP 5.3.9.: Sommertreff Mütterzentrum Sendling auf dem Dietramszeller Platz vom 12.07. bis 30.09.2020 Bescheid
+- TOP 5.3.10.: Verkehrsrechtliche Anordnung Saisonale Stadträume Sommerstraßen 2021 – Schöttlstraße zwischen Leipartstraße und Fallstraße
+- TOP 5.3.11.: Leistungsprogramm der MVG für die Fahrplanperiode 2022
+- TOP 5.3.12.: Sommerfest Naturkindergarten Isarindianer Am Isarkanal / Ecke Schäftlarnstraße am 23.07.2021
+- TOP 5.3.13.: Ladestation für E-Autos auf der Engelhardtstraße
+- TOP 5.3.14.: Lindwurmstraße, Radfahrstreifen zwischen Sendlinger Kirche und Aberlestraße
+- TOP 5.3.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.17.: (U) Neufassung vom 16.06.2021 Satzung der Landeshauptstadt München zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des Mobilitätsverhaltens für die Bewertung der Modellprojekte City2Share, Smarter Together und CIVITAS ECCENTRIC
+- TOP 5.3.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Anordnung der Lenggrieser Straße als Einbahnstraße
+- TOP 5.5.2.: Straßenbennennungsverfahren der LHM und Mitwirkungsmöglichkeiten der BAs Bericht der Gleichstellungsbeauftragte
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget FFC Wacker München 99 e.V. Renovierung vom Kabinentrakt und Malerarbeiten in den Duschen vom 20.06.-18.07.2021 2.773,33€; Az. 0262.0-6-0329
+- TOP 6.1.2.: (E) Bestellung städtischer Leistung Bürger*innenvorschlag Errichtung von Tischtennisplatten außerhalb der Stemmerwiese/ Jägerwirtstraße
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative "Kunst in Sendling" Kunst in Sendling im Oktober 2021 750€; Az. 0262.0-6-0336
+- TOP 6.1.4.: (E) Stadtbezirksbudget Alten- und Service-Zentrum Sendling Anschaffung eines Raumluft-Entkeimungsgerätes vom 11.-13.11.2020 2.593,00€; Az. 0262.0-6-0298
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiative "Kontakt Impro" Kontakt Impro vom 22.08 -26.08.2021 875,00€; Az. 0262.0-6-0342
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kulturblüten Konzertreihe: "Livemusik in der Backstube" -"Warme Nacht in München" am 14.08. und 09.10.2021 1694,00€; Az. 0262.0-6-0344
+- TOP 6.1.7.: (E) Stadtbezirksbudget Ensemble La Vie e.V. Sendlinger Sommer -Theaterbeitrag "Kunstflohmarkt im Bahnwärter Thiel" vom 13.08 -15.09.2021 2.084,00€; Az. 0262.0-6-0346
+- TOP 6.1.8.: (E) Stadtbezirksbudget Mütterzentrum Sendling e.V. "Sendling in action" -Aktionen für Kinder in der Sommerstraße vom 26.07 -17.09.2021 307,50€; Az. 0262.0-6-0343
+- TOP 6.1.9.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball in Sendling, Bezirk 6 vom 01.09.2021 - 31.08.2022 6.200€; Az. 0262.0-6-0341
+- TOP 6.1.10.: Bestellung städtischer Leistung Spielplatz Greinerberg
+- TOP 6.1.11.: (E) Stadtbezirksbudget e.V. Kunst in Sendling e.V. Temporäre Galerie „Hier sind wir wieder!“ vom 10.-30.09.2021 9.080,00€; Az. 0262.0-6-0345
+- TOP 6.1.12.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München- Sendling 14. Sendlinger - Orgelnacht am 22.10.2021 2.350,00€; Az. 0262.0-6-0348
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018-2020
+- TOP 6.2.2.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz Anhörung der Bezirksausschüsse zu notwendigen Anpassungen in der Anlage 1 der BASatzung „Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse“
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.3.: Informationsschreiben BA 03/2021: Hybridsitzungen und Sonderausschüsse
+- TOP 6.3.4.: Beschluss der Vollversammlung vom 05.05.21 (Vorlage Nr. 20-26 / V 02999) „Nicht verbrauchte Mittel Bezirksausschussbudgets einmalig erneut zur Verfügung stellen“, hier: Information für die Bezirksausschüsse zum weiteren Vorgehen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Entscheidung für den 24. Stadtbezirk Feldmoching-Hasenbergl als Einsatz-Stadtbezirk für das Stadtteilprojekt „Ran an die Koffer!“ 2022
+- TOP 7.3.2.: Anfrage zur Notrufsäule in den Neuhofener Anlagen
+- TOP 7.3.3.: Genderbeachtung bei allen Bezirksausschuss relevanten Texten
+- TOP 7.3.4.: Wohnwagen - Kinderbetreuung in der Grünanlage Nähe Schäftlarnstraße Antwort
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Anmeldung für den Kinderstadtplan Sendling Bericht
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Freischankfläche Alramstraße 7
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Parklet vor KiTa in der Fallstraße
+- TOP 8.3.2.: Unveränderte Fortführung Lazzat-E-Hind
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Protokoll zum Treffen der BA-Vorsitzenden am 07.07.2021
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
