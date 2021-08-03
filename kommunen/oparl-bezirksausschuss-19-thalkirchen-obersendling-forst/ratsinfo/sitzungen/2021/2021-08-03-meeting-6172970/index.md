@@ -1,0 +1,66 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-08-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6172970
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6172970
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.1: Liesl-Karlstadt-Straße Fl.Nr. 576/5
+- TOP 6.2.2: Reismühlenstraße 4
+- TOP 6.2.5: Forstenrieder Allee 192
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 06.07.2021
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Anpassungen Anlage 1 BA-Satzung: Neubildung Mobilitätsreferat und Aufspaltung Referat für Gesundheit und Umwelt in Gesundheitsreferat und Referat für Klima- und Umweltschutz
+- TOP 2.4.: - NACHTRAG - Terminplanung BA-Sitzungen 2022
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Initiative "Flößerei" Geschichte der Flößerei und kulturelles Brauchtum vom 01.08 -31.12.2021 4.358€; Az. 0262.0-19-0374
+- TOP 3.3.: (E) Stadtbezirksbudget Lotse - Kinder +Jugendhilfe e.V. Mobiler Lotsenpunkt vom 01.09.2021 -31.08.2022 15.123,00€; Az. 0262.0-19-0377
+- TOP 3.4.: (Antrag) Bestellung städtischer Leistung: Spielhäuschen für Kleinkinder am Spielplatz Gierlinger Park
+- TOP 3.5.: (E) Stadtbezirksbudget Init. „Power for all“ Power for all – Energie für alle vom 01.06.-01.09.2021 6.959,65€; Az.0232.0-19-0
+- TOP 3.6.: (A) Verschiebung Budgetmittel: Evangelischer Verein München-Solln e.V.: Weiterführung der Hausaufgabenhilfe vom 17.09.2020 bis 29.07.2021; Sitzungsvorlage Nr. 20-26 / V 01162
+- TOP 3.7.: (A) Verschiebung Budgetmittel: Elternbeirat der Grundschule an der Forstenrieder Allee: Projekt „Schule fördert Biodiversität“ von September bis Dezember 2019; Sitzungsvorlage Nr. 14-20 / V 16633
+- TOP 3.8.: - NACHTRAG - (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Schatten im Bereich Sitzplatz am Rondell vom 06.09.2021 -05.09.2022 3.582,67€; Az. 0262.0-19-0379
+- TOP 3.9.: - NACHTRAG - (E) Stadtbezirksbudget Initiative "Wunderbuch" "Wunderbuch" + ein Wunderbuch für jedes Kind Hybrid vom 15.10.2021 -14.10.2022 3.200,00€; Az. 0262.0-19-0380
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Genehmigung einer Stadtterrasse: Matthias-Mayer-Straße
+- TOP 4.4.: - NACHTRAG - (A) Vollzug der Wassergesetze: Erneuerung des Schussbodens am Marienklausensteg
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Tiefgaragenausfahrt am Sparkassenhochhaus zur Winterthurer Straße
+- TOP 5.1.2: Fußwegsicherung im Bereich Wolfratshauser Straße
+- TOP 5.1.3: Grenzmarkierung Berner Straße
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Erweiterung Kurzzeitparkplätze Boschetsrieder Straße
+- TOP 5.3.: (E) Sondernutzungserlaubnis: Freischankfläche Schäftlarnstraße
+- TOP 5.4.: (E) Sondernutzungserlaubnis: Freischankfläche Fraunbergstraße
+- TOP 5.5.: (Antrag) DHL-Packstation Thalkirchen
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Schrägparken Winterthurer Straße
+- TOP 5.7.: (Antrag) Tempo 30 Herterichstraße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Forstenrieder Allee
+- TOP 8.3.: (Antrag) Ehrenzeichen für Maria Sandmayr in Forstenried
+- TOP 6.2.3: Heilmaierstraße 14
+- TOP 6.2.4: Pöckinger Straße 16
