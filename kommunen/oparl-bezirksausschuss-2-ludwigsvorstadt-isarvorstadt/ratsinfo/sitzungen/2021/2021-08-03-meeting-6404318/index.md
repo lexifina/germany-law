@@ -1,0 +1,135 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2021-08-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6404318
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6404318
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.1: Bauvorhaben
+- TOP 1.2.: Ist das Zelt für Corona-Antigen-Schnelltests an der Theresienwiese noch notwendig?; interfraktionelle Anfrage vom 19.07.2021
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 1.4.: Nachverfolgung von BA-Anträgen, die nach Ablauf der Bearbeitungsfrist noch in Bearbeitung sind.
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Ausnahmegenehmigungen für Freischankflächen im Zuge der Corona-Pandemie
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Atelier 104 Fotoausstellung mit Dokumentation im Oktober 2021 1.230,00 Euro, Az.: 0262.0-2-0403
+- TOP 2.2.: Stadtbezirksbudget Antrag auf Zuwendung des Vereins Glockenbachwerkstatt e.V. für die Maßnahme: Kulturprogramm für Kunst im Quadrat vom 31.07. bis 15.08.2021. Erhöhung des benötigten Zuschusses von 13.032,00 € auf 15.032,00 €
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative "Boomletters Hall of Fame" Boomletters Hall of Fame Bemalung und Workshops vom 24. - 26.09.2021 6.300,00 Euro, Az.: 0262.0-2-0406
+- TOP 2.4.: (E) Stadtbezirksbudget Perspektive VBI e.V. Mietkosten für Betreuungsraum und Vereinsraum vom 01.01. - 31.12.2022 2.700,00 Euro, Az.: 0262.0-2-0407
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 1.1.: An den folgenden drei Kreuzungen werden die Haltelinien auf dem Radweg an der westlichen Seite der Isar nach hinten versetzt, um Platz für sowohl wartende als auch vorbeifahrende RadfahrerInnen zu schaffen: - Erhardtstraße/Corneliusbrücke/Corneliusstraße - Auenstraße/Reichenbachbrücke/Fraunhoferstraße - Wittelsbacherstraße/Wittelsbacherbrücke/Baldeplatz Antrag der SPD-Fraktion vom 18.07.2021
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Genehmigung einer Freischankfläche, Maistraße 57 rechts
+- TOP 2.1.2.: Genehmigung einer Parkplatz-Freischankfläche a) Schillerstraße 24 b) Klenzestraße 99
+- TOP 2.2.1.: Aufstellen eines (Post-)Kartenständers vor dem Geschäft Lindwurmstraße 147
+- TOP 3: Anhörungen
+- TOP 3.3.1.: Baaderstraße 88; Anfahrtszone für die Kinderkrippe Baaderstraße 86 - Einrichtung eines eingeschränkten Haltverbotes mit Zeitzusatz
+- TOP 3.3.2.: Projektplanung Dreimühlenstraße / Isartalstraße, Projekt-Nr. 100994; Rückmeldung des Baureferats zu den Auflagen bzgl. Versetzung der Bäume, Bänke und Fahrradabstellplätze im Rahmen der Projektplangenehmigung
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Parksituation in der Hans-Sachs-Straße; Bürger*innenanliegen
+- TOP 5.2.: Anregungen für sichere Fußwege im Glockenbachviertel; Bürger*innenanliegen
+- TOP 5.3.: Toiletten entlang des Westermühlbachs; Bürger*innenanliegen
+- TOP 5.4.: Gefährliche Verkehrssituation an Baustelle zwischen Rumford- und Morassistraße; Bürger*innenanliegen
+- TOP 5.5.: Erweiterung Außengastronomie Fraunhoferstraße 42 - Ecke Baaderstraße, Bürger*innenanliegen; vertagt aus der Sitzung am 06.07.2021
+- TOP 5.6.: Behinderte Einsicht beim Abbiegen von der Lindwurm- in die Fliegenstraße; Bürger*innenanliegen
+- TOP 5.7.: Einbahnstraßenregelung Holzplatz/Pestalozzistraße/Stephansstraße und Durchgangsverkehr; Bürger*innenanliegen
+- TOP 5.8.: Holzplatz als Sommerstraße – Bürger*innenanfrage zur Aufstellung von Tischen und Stühlen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Thalkirchner Straße 88 Errichten eines Digital Board als Wandanlage (15qm)
+- TOP 3.1.2.: Schwanthalerstraße 91 Errichten eines Digital Board als Wandanlage (15qm)
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Planfeststellung für das Vorhaben „Integrierte Gesamtlösung Hauptbahnhof München (IGL)“; vertagt aus der Sitzung am 06.07.2021
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Extrem laute Klimaanlagen Holzstraße 28-30; Bürger*innenanliegen
+- TOP 5.2.: Beschwerde Neubau Wohngebäude mit Tiefgarage im Innenhof der Anwesen Pestalozzistraße 15 und 17; Bürger*innenanliegen
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 1.1.: Begrünung des Platzes auf der Nordseite der Adolf-Kolping-Straße; Antrag des UA PB vom 30.06.2021
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Architektur- und Urbanistik-Kollektiv P.O.N.R. Urban Chair Machine - Sitzmöglichkeiten für die Theresienwiese vom 20.07. - 30.10.2021 4.350,00 Euro, Az.: 0262.0-2-0404
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Fällungsantrag Kapuzinerstraße 36a
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Versetzung Mülleimer Westermühlbach; aufgenommen aus der Sitzung am 09.06.2021; vertagt aus der Sitzung am 06.07.2021
+- TOP E: Angelegenheiten des BA
+- TOP 1.1.: Ferienausschusssitzung am 07.09.2021 - Beschlussfassung über die Anzahl an Sitzen - Benennung der Mitglieder und Regelung der Stellvertretung - Wahl des/r Ferienausschussvorsitzenden
+- TOP 1.2.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz: Anhörung der Bezirksausschüsse zu notwendigen Anpassungen in der Anlage 1 der BA-Satzung „Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse“
+- TOP 1.3.: (U) Hybridsitzungen für die Bezirksausschüsse Aufhebung der Rechtsgrundlage für die Sonderausschüsse Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München Änderung der Geschäftsordnung für die Bezirksausschüsse
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Spielplatz Ecke Schmeller- / Fleischerstraße, Antwort auf Bürgeranliegen
+- TOP A 4.4.: Antwortschreiben des Referats für Bildung und Sport auf BA-Schreiben vom 26.05.2021, Sparkling Diamonds – Antrag auf Bezuschussung der Erneuerung des Fußbodenbelags
+- TOP A 4.5.: Dienststellenverständigung des Referats für Bildung und Sport bezüglich Kinderkrippe an der Baaderstraße 86
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.7.: Öffnungszeiten Schanigärten, Antwort auf Bürgeranliegen
+- TOP B 4.8.: Verkehrsberuhigung Dreimühlenviertel, Antwort auf Bürgeranliegen
+- TOP B 4.9.: Antrag auf Genehmigung einer Freischankfläche auf dem Gehweg und auf Parkplätzen vor der Gaststätte in der Thalkirchner Straße 29, Ankündigung Entscheidung des Oberbürgermeisters
+- TOP B 4.10.: Flaschenscherbenparkour auf den Radwegen der Brücken Wittelsbacher- und Reichenbachbrücke, Antwort auf Bürgeranliegen
+- TOP B 4.11.: (U) Neufassung vom 16.06.2021 Satzung der Landeshauptstadt München zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des Mobilitätsverhaltens für die Bewertung der Modellprojekte City2Share, Smarter Together und CIVITAS ECCENTRIC
+- TOP B 4.12.: Erstellung eines Logistikkonzepts im Rahmen des BMVI-Programms zur Förderung der städtischen Logistik; Sitzungsvorlage Nr. 20-26 / V 03540
+- TOP B 4.13.: Errichtung eines Radfahrstreifen auf der Fahrbahn auf der Westseite der Tumblingerstraße zwischen Ruppertstraße und Beginn der Eisenbahnunterführung
+- TOP B 4.14.: Ausnahmezulassung Mülleinsammlung ab 05:30 Uhr in den Bereichen Bayer-, Schwanthaler-, Landwehrstraße von Juli bis Dezember 2021
+- TOP B 4.15.: Freigabe nach Abnahme, Isarstrand - Erweiterungsflächen - Westufer zwischen Reichenbach- und Boschbrücke
+- TOP B 4.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.17.: Plan mit Informationen zu Schaustellern auf der Theresienwiese („Sommer in der Stadt“)
+- TOP B 4.18.: Pilotprojekt Ampelschaltung Kreuzung Goethestraße / Landwehrstraße
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.2.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 "München - Stadt im Gleichgewicht" A) Vorstellung des Entwurfs B) Weiteres Vorgehen und Beteiligungsprozess
+- TOP C 4.3.: (U) Energienutzungsplan für München – Maßnahmen und Bericht 2021 Sachmittel für das EU-Projekt DecarbCity Pipes 2050
+- TOP C 4.4.: Vorbescheid für das Bauvorhaben Maistraße 6, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP C 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.6.: (U) Bebauungsplan mit Grünordnung Nr. 2168 Schützenstraße (südlich und östlich), Luitpoldstraße (westlich), Prielmayerstraße (nördlich) (Teiländerung der Bebauungspläne Nrn. 41b, 41c und 688) - Karstadt am Bahnhofplatz - A) Aufstellungsbeschluss B) Durchführung eines Wettbewerbsverfahrens
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Taubenschutz Paul-Heyse-Unterführung, Antwort auf Bürgeranliegen
+- TOP D 4.2.: Unterrichtung über Ersatzpflanzungen
+- TOP D 4.3.: (U) Projektantrag für die Umsetzungsphase „Grüne Stadt der Zukunft II – Klimaresiliente Quartiere in einer wachsenden Stadt“ im Rahmen der Leitinitiative Zukunftsstadt Stellenbedarf Referat für Stadtplanung und Bauordnung
+- TOP D 4.4.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP D 4.5.: Baumpflanzungen in der Thalkirchner Straße - Mitteilung der Baumarten
+- TOP D 4.6.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP D 4.7.: Erweiterung der Tischtennis-Anlagen auf der Ostseite der Theresienwiese um zusätzliche Platten; Antwort des Baureferats vom 13.07.2021 auf Bürgeranfrage
+- TOP E 4: Bereich BA-Angelegenheiten
+- TOP E 4.1.: Nicht verbrauchte Mittel des Bezirksausschussbudgets einmalig erneut zur Verfügung stellen, Information für die Bezirksausschüsse zum weiteren Vorgehen
