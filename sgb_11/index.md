@@ -12,7 +12,7 @@
 - [§ 6 Eigenverantwortung](0006.md)
 - [§ 7 Aufklärung, Auskunft](0007.md)
 - [§ 7a Pflegeberatung](0007a.md)
-- [§ 7b Beratungsgutscheine](0007b.md)
+- [§ 7b Pflicht zum Beratungsangebot und Beratungsgutscheine](0007b.md)
 - [§ 7c Pflegestützpunkte, Verordnungsermächtigung](0007c.md)
 - [§ 8 Gemeinsame Verantwortung](0008.md)
 - [§ 8a Gemeinsame Empfehlungen zur pflegerischen Versorgung](0008a.md)
@@ -226,6 +226,7 @@ Leistungserbringern
 - [§ 82 Finanzierung der Pflegeeinrichtungen](0082.md)
 - [§ 82a Ausbildungsvergütung](0082a.md)
 - [§ 82b Ehrenamtliche Unterstützung](0082b.md)
+- [§ 82c Wirtschaftlichkeit von Personalaufwendungen](0082c.md)
 - [§ 83 Verordnung zur Regelung der Pflegevergütung](0083.md)
 
 ### Zweiter Abschnitt Vergütung der stationären
@@ -238,6 +239,7 @@ Pflegeleistungen
 - [§ 87a Berechnung und Zahlung des Heimentgelts](0087a.md)
 - [§ 87b (weggefallen)](0087b.md)
 - [§ 88 Zusatzleistungen](0088.md)
+- [§ 88a Wirtschaftlich tragfähige Vergütung für Kurzzeitpflege](0088a.md)
 
 ### Dritter Abschnitt Vergütung der ambulanten
 Pflegeleistungen
@@ -307,6 +309,7 @@ Pflegekassen
 ## Zehntes Kapitel Private Pflegeversicherung
 
 - [§ 110 Regelungen für die private Pflegeversicherung](0110.md)
+- [§ 110a Befristeter Zuschlag zu privaten Pflege-Pflichtversicherungsverträgen zur Finanzierung pandemiebedingter Mehrausgaben](0110a.md)
 - [§ 111 Risikoausgleich](0111.md)
 
 ## Elftes Kapitel Qualitätssicherung, Sonstige Regelungen
@@ -317,7 +320,7 @@ zum Schutz der Pflegebedürftigen
 - [§ 113 Maßstäbe und Grundsätze zur Sicherung und Weiterentwicklung der Pflegequalität](0113.md)
 - [§ 113a Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in der Pflege](0113a.md)
 - [§ 113b Qualitätsausschuss](0113b.md)
-- [§ 113c Personalbemessung in Pflegeeinrichtungen](0113c.md)
+- [§ 113c Personalbemessung in vollstationären Pflegeeinrichtungen](0113c.md)
 - [§ 114 Qualitätsprüfungen](0114.md)
 - [§ 114a Durchführung der Qualitätsprüfungen](0114a.md)
 - [§ 114b Erhebung und Übermittlung von indikatorenbezogenen Daten zur vergleichenden Messung und Darstellung von Ergebnisqualität in vollstationären Pflegeeinrichtungen](0114b.md)

@@ -10,7 +10,7 @@
 | § 6 | Eigenverantwortung |
 | § 7 | Aufklärung, Auskunft |
 | § 7a | Pflegeberatung |
-| § 7b | Beratungsgutscheine |
+| § 7b | Pflicht zum Beratungsangebot und Beratungsgutscheine |
 | § 7c | Pflegestützpunkte, Verordnungsermächtigung |
 | § 8 | Gemeinsame Verantwortung |
 | § 8a | Gemeinsame Empfehlungen zur pflegerischen Versorgung |
@@ -218,6 +218,7 @@
 | § 82 | Finanzierung der Pflegeeinrichtungen |
 | § 82a | Ausbildungsvergütung |
 | § 82b | Ehrenamtliche Unterstützung |
+| § 82c | Wirtschaftlichkeit von Personalaufwendungen |
 | § 83 | Verordnung zur Regelung der Pflegevergütung |
 |  |  |
 | Zweiter Abschnitt |
@@ -229,6 +230,7 @@
 | § 87a | Berechnung und Zahlung des Heimentgelts |
 | § 87b | (weggefallen) |
 | § 88 | Zusatzleistungen |
+| § 88a | Wirtschaftlich tragfähige Vergütung für Kurzzeitpflege |
 |  |  |
 | Dritter Abschnitt |
 | Vergütung der ambulanten Pflegeleistungen |
@@ -299,6 +301,7 @@
 | Zehntes Kapitel |
 | Private Pflegeversicherung |
 | § 110 | Regelungen für die private Pflegeversicherung |
+| § 110a | Befristeter Zuschlag zu privaten Pflege-Pflichtversicherungsverträgen zur Finanzierung pandemiebedingter Mehrausgaben |
 | § 111 | Risikoausgleich |
 |  |  |
 | Elftes Kapitel |
@@ -308,7 +311,7 @@
 | § 113 | Maßstäbe und Grundsätze zur Sicherung und Weiterentwicklung der Pflegequalität |
 | § 113a | Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in der Pflege |
 | § 113b | Qualitätsausschuss |
-| § 113c | Personalbemessung in Pflegeeinrichtungen |
+| § 113c | Personalbemessung in vollstationären Pflegeeinrichtungen |
 | § 114 | Qualitätsprüfungen |
 | § 114a | Durchführung der Qualitätsprüfungen |
 | § 114b | Erhebung und Übermittlung von indikatorenbezogenen Daten zur vergleichenden Messung und Darstellung von Ergebnisqualität in vollstationären Pflegeeinrichtungen |
