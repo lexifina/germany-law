@@ -1,4 +1,4 @@
-# Verordnung zur Meldung von Verstößen bei der Bundesanstalt für Finanzdienstleistungsaufsicht
+# Verordnung zum Umgang mit Hinweisgebern und zur Bearbeitung ihrer Hinweise durch die Bundesanstalt für Finanzdienstleistungsaufsicht
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Spezielle Beschäftigte für die Bearbeitung von Verstoßmeldungen](0001.md)
