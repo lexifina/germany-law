@@ -1,0 +1,130 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2021-08-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6107095
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6107095
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 13.07.2021
+- TOP 1.3.2.: Wahl der / des 1. Beisitzerin / Beisitzer
+- TOP 1.3.3.: Umbesetzung in den UAs Verkehr und Bildung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.4.: Denninger Str. 167-169 - Revitalisierung mit Innenausbau eines Bürogebäudes; Anhörung des Referates für Stadtplanung und Bauordnung (Unterlagen sind in Alfresco unter 03-BA-Organisation -> UA Stadtplanung und Bauordnung zu finden)
+- TOP 2.2.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.7.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.2.: Bericht des Ortstermins in der kommunalen Unterkunft für Geflüchtete in der Klausenburger Str. 2-6
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Mobilitätsreferat
+- TOP 7.16: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.1.: Plangenehmigung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben “Rückbau von Gleisanlagen im Bf Johanneskirchen“, Anhörung des Referates für Stadtplanung und Bauordnung - Vorstellung durch die DB -
+- TOP 2.2.2.: Evaluation der Münchner Stellplatzsatzung („Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge“) vom 19. Dezember 2007; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.3.: Planänderung zweibahniger Ausbau Föhringer Ring; Anhörung des Planungsreferates
+- TOP 2.2.5.: Baumfällungen zu Bauvorhaben: Cosimastr. 291-293 Stargarder Str. 13 - Haus 1 Stargarder Str. 13 - Haus 2 Burgauerstr. 55 Fürkhofstr. 28-30 Knappertsbuschstr. 26 Osserstr. 11 Effnerstr. 99
+- TOP 2.3.1.: (E) Einführung einer 30er Zone in der Ismaninger Straße Empfehlung Nr. 14-20 / E 02967 der Bürgerversammlung des 13. Stadtbezirkes Bogenhausen am 24.10.2019
+- TOP 2.3.2.: Austausch einer Lichtsignalanlage (LSA)- Standort Eggenfeldener-/ Weltenburger Str.; Anhörung des Mobilitätsreferats
+- TOP 2.3.3.: Flemingstraße und Opitzstraße: Sanierung von Teilflächen in Pflasterbauweise; Anhörung des Baureferats
+- TOP 2.3.4.: Gustav-Freytag-Str. 1-5: Fahrbahnsanierung; Anhörung des Baureferats
+- TOP 2.3.5.: Gotthelfstr. 2-8: Fahrbahnsanierung; Anhörung des Baureferats
+- TOP 2.3.6.: Hinweis auf die Gefährlichkeit des Fuß- und Fahrradüberwegs über die Vogelweidestraße stadtauswärts / Radweg stadteinwärts Ecke Prinzregentenstraße Steinhauser Straße, Bürgeranliegen
+- TOP 2.3.7.: Erschwerte Parksituation in Bogenhausen; Bürgeranliegen
+- TOP 2.3.8.: Änderung der Ampelschaltung auf der Einsteinstraße; Bürgeranliegen
+- TOP 2.3.9.: Parkverbot in der Wahnfriedallee zwischen Effnerstr. und Cosimastr.; Bürgeranliegen
+- TOP 2.3.10.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.11.: Verschiedenes, Termine
+- TOP 2.4.1.: (E) Stadtbezirksbudget Öffentliche Bücherei Vaterunserkirche/St. Thomas Erwerb von neuen Medien am 01.09.2021 750,00€; Az. 0262.0-13-0291
+- TOP 2.4.2.: (E) Stadtbezirksbudget Initiative "Die Bäume zum Himmel" Projekt „Die Bäume zum Himmel (Wünsch dir glücklich zu sien)“ vom 18.08. - 18.10.2021 6.100,00 € / Az. 0262.0-13-0293
+- TOP 2.4.3.: (E) Stadtbezirksbudget Eltern-Kind-Initiative „Die Kirchenmäuse“ e.V. Instandhaltung von Garten und Spielplatz im September / Oktober 2021 11.584,00 € / Az. 0262.0-13-0294
+- TOP 2.4.4.: (E) Stadtbezirksbudget Volksbund Deutsche Kriegsgräberfürsorge e.V., Landesverband Bayern Gedenkkonzert des Volksbundes als Benefizkonzert der Big Band der Bundeswehr am 17.09.2021 10.722,76€; Az. 0262.0-13-0296
+- TOP 2.4.5.: (E) Stadtbezirksbudget Initiative "TAM TAM" TAM TAM Stadtspaziergang im Juni 2021 4.945,00 € / Az. 0262.0-13-0269
+- TOP 2.4.6.: Ergänzungen zum Budgetantrag von "TAM TAM"
+- TOP 2.4.7.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz; Anhörung des Direktoriums
+- TOP 2.4.8.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018-2020; Anhörung des Direktoriums
+- TOP 2.4.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.10.: Verschiedenes, Termine
+- TOP 2.5.1.: Lärm durch Tischtennisspielen im Pühnpark; Bürgeranliegen
+- TOP 2.5.2.: Lärmbelästigung durch die Nutzung des Sportplatzes der Ruth-Drexel-Schule; Bürgeranliegen
+- TOP 2.5.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.4.: Verschiedenes, Termine
+- TOP 2.6.1.: Baumschnitt an der Lüderitzstraße sowie Ina-Seidel-Bogen 2-8, Bürgeranliegen
+- TOP 2.6.2.: Störende Sträucher bei der Zufahrt des Parkplatzes der Wohnanlage Daglfinger Str. 2-6 /Hermann-Gmeiner-Weg; Bürgeranliegen
+- TOP 2.6.3.: Baumfällungen: Effnerstr. 80 Apenrader Str. 8 Gumppenbergstr. 5 Pienzenauerstr. 110 Weltenburger Str. 37 Rennbahnstr. 5
+- TOP 2.6.4.: Erschließung der Grünfläche an der Burgauerstr. (Wege, Sitzbänke, Bäume und Sträucher) / Errichtung eines Fußballplatzes in Daglfing (neben EDEKA-Parkplatz) BA-Antrags-Nr. 14-20 / B 05949
+- TOP 2.6.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.6.: Verschiedenes, Termine
+- TOP 2.7.1.: Gedenkveranstaltungen 2021 in den Stadtbezirken zur Erinnerung an den 9. November 1938; Anhörung
+- TOP 2.7.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.4.: Verschiedenes, Termine
+- TOP 6.1.: Radweg entlang der Johanneskirchner Straße
+- TOP 6.2.: Durchführung "Fit im Park" im Prinz-Eugen-Park
+- TOP 6.3.: Mehr Wertstoffinseln in Denning
+- TOP 6.4.: Bunter Zebrastreifen am Rosenkavalierplatz
+- TOP 6.5.: Fahrradabstellplätze an der Trambahnhaltestelle Prinz-Eugen-Park sofort errichten
+- TOP 6.6.: Verbesserung der Verkehrsinfrastruktur bzgl. Radwege
+- TOP 6.7.: Abgesenkte Bordsteine komplett zugeparkt an der Ecke Ismaninger Str/Trogerstr.
+- TOP 7.1.1.: (U) Hybridsitzungen für die Bezirksausschüsse Aufhebung der Rechtsgrundlage für die Sonderausschüsse Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München Änderung der Geschäftsordnung für die Bezirksausschüsse
+- TOP 7.1.2.: Informationsschreiben BA 03/2021: Hybridsitzungen und Sonderausschüsse
+- TOP 7.1.3.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse Antrag der Künstlergruppe BoART vom 23.04.2021; Unterrichtung des Direktoriums
+- TOP 7.2.1.: Erinnerungsverfahren zur Baustelle in der Gotthelfstr. 2 - 8, Grimmelshauserstr. (Sanierung); Unterrichtung des Baureferats
+- TOP 7.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3.: Erinnerungsverfahren zur Baustelle in der Flemingstr. 10 - 78 und Opitzstr. 12 - 14 (Straßenbauarbeiten); Unterrichtung des Baureferats
+- TOP 7.3.1.: Kirchenfriedhof Oberföhring - Aufbahrungsraum Muspillistr. 8; Schreiben des Pfarrverband St. Thomas / St. Lorenz an die Städt. Friedhöfe München
+- TOP 7.3.2.: (U) Grundsatzbeschluss I Umsetzung Klimaziele München Erlass einer Klimasatzung Erlass einer Klimaratssatzung
+- TOP 7.5.1.: Temporäre Kunstaktion "Die Bäume zum Himmel" in St. Emmeram/Mittlere-Isar-Straße (Flst.Nr. 758/73) vom 18.08.-18.10.2021 (für BA zur Kenntnis); Unterrichtung des Kreisverwaltungsreferats
+- TOP 7.5.2.: Bundestagswahl am 26. September 2021: Einteilung der Wahlbezirke und Wahlräume
+- TOP 7.7.1.: (U) Projektantrag für die Umsetzungsphase „Grüne Stadt der Zukunft II – Klimaresiliente Quartiere in einer wachsenden Stadt“ im Rahmen der Leitinitiative Zukunftsstadt Stellenbedarf Referat für Stadtplanung und Bauordnung
+- TOP 7.7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.3.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 7.7.4.: Plangenehmigungsbeschluss Innenreinigungsanlage München Steinhausen
+- TOP 7.7.5.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 7.7.6.: Baumfällungen (Unterrichtungen): Apenrader Str. 8 Rennbahnstr. 5 Gumppenbergstr. 5
+- TOP 7.7.7.: (U) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) 2021 B. Anträge 1. Den Horizont erweitern – Sozialgerechte Bodennutzung und Bodenvorratspolitik anderer Städte vorstellen Antrag Nr. 14-20 / A 04310 von der Fraktion DIE GRÜNEN/RL vom 20.07.2018 2. Mehr dauerhaft bezahlbarer Wohnraum III: Mit der neuen SoBoN mehr bezahlbaren Wohnraum schaffen und dauerhaft sichern Antrag Nr. 14-20 / A 06746 von der Fraktion DIE GRÜNEN/ROSA LISTE vom 11.02.2020 3. Mehr dauerhaft bezahlbares Wohnen Antrag Nr. 14–20 / A 06968 von der SPD-Stadtratsfraktion vom 10.03.2020 4. SoBoN-Novelle 2020/2021: München braucht mehr geförderten Wohnraum Antrag Nr. 20-26 / A 00707 von der Fraktion DIE LINKE./Die PARTEI vom 18.11.2020
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum: - Effnerstr. 60
+- TOP 7.15.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.15.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2022 Sitzungsvorlagen Nr. 20-26 / 03918
+- TOP 7.15.3.: Eugen-Jochum-Str. 20-24 und Ruth-Drexel-Str. 36-40: Anordnung Haltverbotszonen mit Zusatz Feuerwehranfahrtszone - befristet; Unterrichtung des Mobilitätsreferats
+- TOP 7.15.4.: Eggenfeldener Straße: Hinweisschild „Radfahren auf der Fahrbahn erlaubt; Unterrichtung des Mobilitätsreferats
