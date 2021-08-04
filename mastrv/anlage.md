@@ -190,8 +190,8 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.2.1.4 | Nummer aus Anlagenregister oder PV-Melderegister |  | P*9 |  |  |  |  |
 | II.2.1.5 | Registrierungsdatum | A | A | A |  |  |  |
 | II.2.2 Zusätzliche Daten bei Teilnahme an Ausschreibung nach dem EEG |
-| II.2.2.1 | Zuschlagsnummer |  | P |  |  |  |  |
-| II.2.2.2 | zugeordnete Gebotsmengen |  |  |  |  |  | SO: [II],: P. |
+| II.2.2.1 | Zuschlagsnummer |  | P |  |  | NP |  |
+| II.2.2.2 | zugeordnete Gebotsmengen |  |  |  |  | NP | SO: [II],: P. |
 | II.2.3 Zusätzliche Daten zu Solaranlagen |
 | II.2.3.1 | Datum nach § 23b Absatz 2 Nummer 1 EEG 2017 oder § 23c Absatz 1 EEG 2021 |  |  |  |  | NP | nur bei Solaranlagen auf baulichen Anlagen (Gebäude, Fassade) |
 | II.2.3.2 | Registrierungsdatum Mieterstromzuschlag |  | A |  |  |  | nur bei Solaranlagen auf baulichen Anlagen (Gebäude, Fassade) |

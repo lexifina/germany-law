@@ -39,7 +39,7 @@
 | §§ 22 bis 26 | (weggefallen) |
 | Teil 4 |
 |  | Pflichten der Netzbetreiber |
-| § 27 | Veröffentlichungspflichten |
+| § 27 | (weggefallen) |
 | § 28 | Dokumentation |
 | § 29 | Mitteilungen gegenüber der Regulierungsbehörde |
 | Teil 5 |

@@ -9,6 +9,7 @@
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Grundsätze der Entgeltbestimmung](0003.md)
 - [§ 3a Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen](0003a.md)
+- [§ 3b Ermittlung der Netzkosten von grenzüberschreitenden Elektrizitätsverbindungsleitungen](0003b.md)
 
 ## Teil 2 Methode zur Ermittlung der Netzentgelte
 

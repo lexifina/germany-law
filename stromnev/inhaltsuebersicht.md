@@ -6,6 +6,7 @@
 | § 2 | Begriffsbestimmungen |
 | § 3 | Grundsätze der Entgeltbestimmung |
 | § 3a | Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen |
+| § 3b | Ermittlung der Netzkosten von grenzüberschreitenden Elektrizitätsverbindungsleitungen |
 | Teil 2 |
 |  | Methode zur Ermittlung der Netzentgelte |
 |  |  | Abschnitt 1 |

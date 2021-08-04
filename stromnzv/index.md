@@ -39,8 +39,7 @@ Elektrizitätsversorgungsnetzen
 - [§ 14 Lieferantenwechsel](0014.md)
 - [§ 15 Engpassmanagement](0015.md)
 - [§ 16 Allgemeine Zusammenarbeitspflichten](0016.md)
-- [§ 17 Veröffentlichungspflichten der Betreiber von
-Elektrizitätsversorgungsnetzen](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 - [§ 18 Messung](0018.md)
 - [§ 18a (weggefallen)](0018a.md)
 - [§ 18b (weggefallen)](0018b.md)
@@ -66,6 +65,6 @@ Elektrizitätsversorgungsnetzen](0017.md)
 ## Teil 7 Sonstige Bestimmungen
 
 - [§ 29 Ordnungswidrigkeiten](0029.md)
-- [§ 30 Übergangsregelungen](0030.md)
+- [§ 30 (weggefallen)](0030.md)
 - [§ 31 Inkrafttreten](0031.md)
 - [Schlussformel](schlussformel.md)

@@ -48,7 +48,7 @@
 
 ## Teil 4 Pflichten der Netzbetreiber
 
-- [§ 27 Veröffentlichungspflichten](0027.md)
+- [§ 27 (weggefallen)](0027.md)
 - [§ 28 Dokumentation](0028.md)
 - [§ 29 Mitteilungen gegenüber der Regulierungsbehörde](0029.md)
 

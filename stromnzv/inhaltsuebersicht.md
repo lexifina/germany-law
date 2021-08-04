@@ -29,7 +29,7 @@ Sonstige Pflichten der Betreiber von Elektrizitätsversorgungsnetzen
 | § 14 | Lieferantenwechsel |
 | § 15 | Engpassmanagement |
 | § 16 | Allgemeine Zusammenarbeitspflichten |
-| § 17 | Veröffentlichungspflichten der Betreiber von Elektrizitätsversorgungsnetzen |
+| § 17 | (weggefallen) |
 | § 18 | Messung |
 | § 18a | (weggefallen) |
 | § 18b | (weggefallen) |
@@ -52,5 +52,5 @@ Befugnisse der Regulierungsbehörde
 Teil 7
 Sonstige Bestimmungen
 | § 29 | Ordnungswidrigkeiten |
-| § 30 | Übergangsregelungen |
+| § 30 | (weggefallen) |
 | § 31 | Inkrafttreten |
