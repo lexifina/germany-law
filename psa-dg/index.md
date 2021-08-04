@@ -5,7 +5,7 @@
 - [§ 3 Unterrichtung bei Nichtkonformität einer PSA](0003.md)
 - [§ 4 Nichtkonformität einer PSA in einem anderen Mitgliedstaat der Europäischen Union](0004.md)
 - [§ 5 Unterrichtung bei Risiken trotz Konformität einer PSA](0005.md)
-- [§ 6 Kostenerhebung](0006.md)
+- [§ 6 (weggefallen)](0006.md)
 - [§ 7 Sprache der Anleitungen, der Informationen und der EU-Konformitätserklärungen](0007.md)
 - [§ 8 Bußgeldvorschriften](0008.md)
 - [§ 9 Strafvorschriften](0009.md)

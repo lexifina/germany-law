@@ -3,7 +3,7 @@
 Abschnitt 1
 Zugelassene Überwachungsstellen
 1. Zulassung von Überwachungsstellen
-  Zugelassene Überwachungsstellen für die Prüfungen, die nach diesem Anhang vorgeschrieben oder angeordnet sind, sind Stellen nach § 37 Absatz 1 und 2 des Produktsicherheitsgesetzes. Über die Anforderungen des § 37 Absatz 5 des Produktsicherheitsgesetzes hinaus sind folgende Voraussetzungen für die Erteilung der Befugnis zu erfüllen:
+  Zugelassene Überwachungsstellen für die Prüfungen, die nach diesem Anhang vorgeschrieben oder angeordnet sind, sind Stellen nach § 2 Nummer 4 des Gesetzes über überwachungsbedürftige Anlagen. Als Voraussetzung für die Zulassung als zugelassene Überwachungsstelle muss eine Prüfstelle über die Anforderungen der §§ 15 bis 17 und § 20 des Gesetzes über überwachungsbedürftige Anlagen hinaus folgende Voraussetzungen für die Zulassung erfüllen:
   Die zugelassene Überwachungsstelle muss
   a) eine Haftpflichtversicherung mit einer Deckungssumme von mindestens 2,5 Millionen Euro besitzen,
   b) mindestens die Prüfung aller überwachungsbedürftigen Anlagen jeweils nach Abschnitt 2, 3 oder 4 vornehmen können,
@@ -12,13 +12,7 @@ Zugelassene Überwachungsstellen
   e) gewährleisten, dass die mit Prüfungen beschäftigten Personen nur mit solchen Aufgaben betraut werden, bei deren Erledigung die Unparteilichkeit der Personen gewahrt bleibt, und
   f) über ein Vergütungssystem verfügen, bei dem die Vergütung der mit den Prüfungen beschäftigten Personen weder unmittelbar von der Anzahl der durchgeführten Prüfungen noch von deren Ergebnissen abhängt.
 2. Zulassung von Prüfstellen von Unternehmen und Unternehmensgruppen
-  Als zugelassene Überwachungsstellen dürfen Prüfstellen von Unternehmen und Unternehmensgruppen im Sinne von § 37 Absatz 5 Satz 3 des Produktsicherheitsgesetzes benannt werden, wenn dies sicherheitstechnisch angezeigt ist, die Voraussetzungen der Nummer 1 Satz 3 Buchstabe c bis f erfüllt sind und die Prüfstellen
-  a) organisatorisch abgrenzbar sind,
-  b) innerhalb des Unternehmens oder der Unternehmensgruppe über Berichtsverfahren verfügen, die ihre Unparteilichkeit sicherstellen und belegen,
-  c) nicht für die Planung, die Herstellung, den Vertrieb, den Betrieb oder die Instandhaltung der überwachungsbedürftigen Anlage verantwortlich sind,
-  d) keinen Tätigkeiten nachgehen, die mit der Unabhängigkeit ihrer Beurteilung und ihrer Zuverlässigkeit im Rahmen ihrer Prüftätigkeiten in Konflikt kommen können, und
-  e) ausschließlich für das Unternehmen oder die Unternehmensgruppe arbeiten.
-  Die Prüfstellen dürfen nur für Prüfungen an überwachungsbedürftigen Anlagen im Sinne der Abschnitte 3 und 4 benannt werden. Zu einer Unternehmensgruppe im Sinne von Satz 1 gehören Unternehmen nach den §§ 16 und 17 des Aktiengesetzes sowie Gemeinschaftsunternehmen, an denen das Unternehmen, welchem die Prüfstelle angehört, eine Beteiligung von über 50 Prozent hält.
+  Prüfstellen von Unternehmen oder Unternehmensgruppen gemäß § 20 Absatz 1 des Gesetzes über überwachungsbedürftige Anlagen dürfen nur für Prüfungen an überwachungsbedürftigen Anlagen im Sinne der Abschnitte 3 und 4 zugelassen werden.
 Abschnitt 2
 Aufzugsanlagen
 1. Anwendungsbereich und Ziel

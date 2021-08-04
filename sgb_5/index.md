@@ -993,10 +993,8 @@ von Leistungsdaten, Datentransparenz
 ## Vierzehntes Kapitel Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
 
 - [§ 400 Versicherter Personenkreis](0400.md)
-- [§ 401 Beitragszuschüsse für Beschäftigte](0401.md)
-- [§ 401 Leistungen](0401-2.md)
-- [§ 402 Standardtarif für Personen ohne Versicherungsschutz](0402.md)
-- [§ 402 Beziehungen der Krankenkassen zu den Leistungserbringern](0402-2.md)
+- [§ 401 Leistungen](0401.md)
+- [§ 402 Beziehungen der Krankenkassen zu den Leistungserbringern](0402.md)
 
 ## Fünfzehntes Kapitel Weitere Übergangsvorschriften
 
