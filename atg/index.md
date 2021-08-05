@@ -27,7 +27,7 @@ staatliche Verwahrung](0005.md)
 - [§ 7e Ausgleich für Investitionen](0007e.md)
 - [§ 7f Ausgleich für Elektrizitätsmengen](0007f.md)
 - [§ 7g Verwaltungsverfahren](0007g.md)
-- [§ 8 Verhältnis zum Bundes-Immissionsschutzgesetz und zum Produktsicherheitsgesetz](0008.md)
+- [§ 8 Verhältnis zum Bundes-Immissionsschutzgesetz und zum Gesetz über überwachungsbedürftige Anlagen](0008.md)
 - [§ 9 Bearbeitung, Verarbeitung und sonstige Verwendung
 von Kernbrennstoffen außerhalb genehmigungspflichtiger
 Anlagen](0009.md)

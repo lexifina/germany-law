@@ -39,4 +39,5 @@
 
 ## Abschnitt 6 Schlussvorschriften
 
+- [§ 22 Staatliche Absicherung](0022.md)
 - [§ 23 Verordnungsermächtigung](0023.md)
