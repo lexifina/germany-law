@@ -87,7 +87,7 @@ gewerblichen Bereich
 
 ### Unterabschnitt 2 Marktüberwachung
 
-- [§ 33a Bestimmungen des Europäischen Rechts über die Marktüberwachung; Unterrichtungen](0033a.md)
+- [§ 33a (weggefallen)](0033a.md)
 - [§ 33b Maßnahmen bei mangelhaften explosionsgefährlichen Stoffen und mangelhaftem Sprengzubehör](0033b.md)
 - [§ 33c Maßnahmen bei Information durch andere Mitgliedstaaten der Europäischen Union über Explosivstoffe oder pyrotechnische Gegenstände; Aufhebung oder Änderung getroffener Maßnahmen](0033c.md)
 - [§ 33d Weitere Maßnahmen im Rahmen der Marktüberwachung](0033d.md)
