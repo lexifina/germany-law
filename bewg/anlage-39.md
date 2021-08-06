@@ -1,6 +1,6 @@
 # Anlage 39 (zu § 254) Ermittlung des Rohertrags
 
-I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche
+I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche**
   (Wertverhältnisse/Stand: 1. Januar 2022)
   | Land | Gebäudeart | Wohnfläche | Baujahr des Gebäudes |
   | bis 1948 | 1949 bis 1978 | 1979 bis 1990 | 1991 bis 2000 | ab 2001 |
