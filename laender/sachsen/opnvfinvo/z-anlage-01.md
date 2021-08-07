@@ -1,5 +1,5 @@
 # Anlage 1 (zu § 1 Absatz 1 Satz 1)
-Den Zusammenschlüssen in den Jahren 2017 bis 2027 nach § 1 Absatz 1 Satz 1 für den öffentlichen Personennahverkehr zuzuweisende Festbeträge in Euro
+Den Zusammenschlüssen in den Jahren 2017 bis 2031 nach § 1 Absatz 1 Satz 1 für den öffentlichen Personennahverkehr zuzuweisende Festbeträge in Euro
 1. Zweckverband für den Nahverkehrsraum Leipzig
 Zweckverband für den Nahverkehrsraum Leipzig
 Jahr | Festbetrag in Euro
@@ -35,13 +35,17 @@ Jahr | Festbetrag in Euro
 2018 | 119 543 963
 2019 | 121 156 835
 2020 | 122 834 746
-2021 | 125 045 772
-2022 | 127 296 596
-2023 | 129 587 934
-2024 | 131 920 517
-2025 | 134 295 086
-2026 | 136 712 398
-2027 | 139 173 221
+2021 | 125 137 772
+2022 | 128 891 596
+2023 | 131 210 934
+2024 | 133 572 517
+2025 | 135 977 086
+2026 | 138 424 398
+2027 | 140 948 221
+2028 | 1 775 000
+2029 | 1 807 000
+2030 | 1 839 000
+2031 | 1 872 000
 4. Zweckverband Verkehrsverbund Oberlausitz-Niederschlesien
 Zweckverband Verkehrsverbund Oberlausitz-Niederschlesien
 Jahr | Festbetrag in Euro

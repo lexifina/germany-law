@@ -11,25 +11,26 @@ d)
 Leipzig – Werdau – Zwickau
 e)
 Leipzig – Flughafen Leipzig/Halle – Halle
+f)
+Dresden – Görlitz, zumindest bei drei Zugpaaren im Bahnhof Görlitz oder im Bahnhof Zgorzelec kundenfreundlicher Zuganschluss nach Breslau
 2. Jeweils acht Zugpaare montags bis freitags und sechs Zugpaare samstags, sonn- und feiertags auf den Verbindungen:
 a)
-Dresden – Görlitz, davon drei Zugpaare täglich durchgebunden bis Breslau oder zumindest bei drei Zugpaaren im Bahnhof Görlitz kundenfreundlicher Zuganschluss nach Breslau
-b)
 Dresden – Zittau, davon drei Zugpaare täglich durchgebunden bis Reichenberg/Liberec
-c)
+b)
 Leipzig – Torgau – Cottbus
-d)
+c)
 Dresden – Großenhain – Ruhland – Cottbus
-e)
+d)
 Ruhland – Hoyerswerda
-f)
+e)
 Görlitz – Cottbus
-g)
+f)
 Chemnitz – Gera
-h)
+g)
 Leipzig – Zeitz – Gera
-i)
+h)
 Leipzig – Naumburg – Erfurt
-j)
+i)
 Leipzig – Bitterfeld
 3. Drei Zugpaare täglich auf der Verbindung Bad Schandau – Tetschen/Dĕčin
+4. Jeweils 21 Zugpaare und neun Verdichterzugpaare montags bis freitags, zwei Fahrten pro Stunde und Richtung, mit erster Abfahrt von 04 Uhr bis 09 Uhr sowie letzter Ankunft von 14 Uhr bis 19 Uhr, auf der Verbindung Dresden – Kamenz
