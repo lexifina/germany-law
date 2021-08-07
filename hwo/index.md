@@ -143,10 +143,12 @@ zulassungspflichtigen Handwerk
 - [§ 46](0046.md)
 - [§ 47](0047.md)
 - [§ 48](0048.md)
+- [§ 48a](0048a.md)
 - [§ 49](0049.md)
 - [§ 50](0050.md)
 - [§ 50a](0050a.md)
 - [§ 50b](0050b.md)
+- [§ 50c](0050c.md)
 - [§ 51](0051.md)
 
 ### Zweiter Abschnitt Meisterprüfung in einem zulassungsfreien Handwerk oder in einem handwerksähnlichen Gewerbe
@@ -156,6 +158,8 @@ zulassungspflichtigen Handwerk
 - [§ 51c](0051c.md)
 - [§ 51d](0051d.md)
 - [§ 51e](0051e.md)
+- [§ 51f](0051f.md)
+- [§ 51g](0051g.md)
 
 ## Vierter Teil Organisation des Handwerks
 
@@ -253,6 +257,7 @@ zulassungspflichtigen Handwerk
 - [§ 120](0120.md)
 - [§ 121](0121.md)
 - [§ 122](0122.md)
+- [§ 122a](0122a.md)
 - [§ 123](0123.md)
 - [§ 124](0124.md)
 - [§ 124a](0124a.md)
@@ -267,7 +272,7 @@ zulassungspflichtigen Handwerk
 - [Anlage B Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können (§ 18 Absatz 2)](anlage-b.md)
 - [Anlage C zu dem Gesetz zur Ordnung des Handwerks
 (Handwerksordnung)](anlage-c.md)
-- [Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle](anlage-d.md)
+- [Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes, in der Lehrlingsrolle sowie im Sachverständigenwesen](anlage-d.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 
 (BGBl. II 1990, 889, 998)](anhang-ev.md)

@@ -21,7 +21,7 @@
 | 18 | Kälteanlagenbauer |
 | 19 | Informationstechniker |
 | 20 | Kraftfahrzeugtechniker |
-| 21 | Landmaschinenmechaniker |
+| 21 | Land- und Baumaschinenmechatroniker |
 | 22 | Büchsenmacher |
 | 23 | Klempner |
 | 24 | Installateur und Heizungsbauer |
@@ -43,7 +43,7 @@
 | 40 | Glasbläser und Glasapparatebauer |
 | 41 | Mechaniker für Reifen- und Vulkanisationstechnik |
 | 42 | Fliesen-, Platten- und Mosaikleger |
-| 43 | Betonstein- und Terrazzohersteller |
+| 43 | Werkstein- und Terrazzohersteller |
 | 44 | Estrichleger |
 | 45 | Behälter- und Apparatebauer |
 | 46 | Parkettleger |

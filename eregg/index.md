@@ -85,7 +85,7 @@
 - [§ 62 Sondermaßnahmen bei Störungen](0062.md)
 - [(XXXX) §§ 63 bis 65 (weggefallen)](xxxx-63-bis-65.md)
 
-## Kapitel 4 (weggefallen)
+## Kapitel 4 Regulierungsbehörde
 
 - [§ 66 Die Regulierungsbehörde und ihre Aufgaben](0066.md)
 - [§ 67 Befugnisse der Regulierungsbehörde, Überwachung des Verkehrsmarktes, Vollstreckungsregelungen](0067.md)
@@ -103,7 +103,7 @@
 - [§ 78 Gutachten der Monopolkommission](0078.md)
 - [§ 79 Eisenbahninfrastrukturbeirat](0079.md)
 
-## Kapitel 4 Regulierungsbehörde
+## Kapitel 5 Übergangsvorschriften
 
 - [§ 80 Übergangsvorschriften](0080.md)
 - [Anlage 1 Verzeichnis der Eisenbahnanlagen](anlage-1.md)

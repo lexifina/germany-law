@@ -11,7 +11,7 @@
 | 7 | Metallbildner |
 | 8 | Galvaniseure |
 | 9 | Metall- und Glockengießer |
-| 10 | Schneidwerkzeugmechaniker |
+| 10 | Präzisionswerkzeugmechaniker |
 | 11 | Gold- und Silberschmiede |
 | 12 | entfällt |
 | 13 | entfällt |
@@ -41,9 +41,9 @@
 | 37 | Edelsteinschleifer und -graveure |
 | 38 | Fotografen |
 | 39 | Buchbinder |
-| 40 | Drucker |
-| 41 | Siebdrucker |
-| 42 | Flexografen |
+| 40 | Print- und Medientechnologen (Drucker, Siebdrucker, Flexografen) |
+| 41 | entfällt |
+| 42 | entfällt |
 | 43 | Keramiker |
 | 44 | entfällt |
 | 45 | Klavier- und Cembalobauer |
@@ -57,6 +57,7 @@
 | 53 | entfällt |
 | 54 | Holz- und Bautenschützer (Mauerschutz und Holzimprägnierung in Gebäuden) |
 | 55 | Bestatter |
+| 56 | Kosmetiker |
 | Abschnitt 2Handwerksähnliche Gewerbe |
 | Nummer |  |
 | 1 | Eisenflechter |
@@ -106,7 +107,7 @@
 | 45 | Schnellreiniger |
 | 46 | Teppichreiniger |
 | 47 | Getränkeleitungsreiniger |
-| 48 | Kosmetiker |
+| 48 | entfällt |
 | 49 | Maskenbildner |
 | 50 | entfällt |
 | 51 | Lampenschirmhersteller (Sonderanfertigung) |
