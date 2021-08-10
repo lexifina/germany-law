@@ -33,7 +33,7 @@
 - [§ 25 Buchführungspflicht](0025.md)
 - [§ 26](0026.md)
 - [§ 27 Auskunftspflicht](0027.md)
-- [§ 28](0028.md)
+- [§ 28 Beauftragung des Max Rubner-Instituts](0028.md)
 - [§ 29 Befugnisse der Länder](0029.md)
 
 ## Vierter Teil Bußgeld- und Schlußbestimmungen
