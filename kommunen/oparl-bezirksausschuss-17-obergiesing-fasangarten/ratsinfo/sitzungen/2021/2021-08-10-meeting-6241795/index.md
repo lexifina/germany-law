@@ -1,0 +1,127 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2021-08-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6241795
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6241795
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Kinderbeauftragte/r
+- TOP 3.2: Jugendbeauftragte/r
+- TOP 3.3: Inklusion (Beauftragte/r für Menschen mit Behinderung)
+- TOP 3.4: Gleichstellungsbeauftragte/r
+- TOP 3.5: Beauftragte/r gegen Rechtsextremismus
+- TOP 3.6: Beauftragte/r für Integration
+- TOP 3.7: Internetbeauftragte/r
+- TOP 3.8: Seniorenbeauftragte/r
+- TOP 3.9: Mieterbeirätin / Mieterbeirat
+- TOP 3.10: Baumschutz (Einzelfälle und Bauvorhaben)
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 3.10.1.: Tegernseer Landstr. 185 - Fällantrag auf Grundstück; Frist 13.08.2021
+- TOP 3.10.2.: Cincinnatistr. 1 - Fällantrag auf Grundstück; Frist 11.08.2021
+- TOP 3.10.3.: Minnewitstr. 1 - Fällantrag auf Grundstück; Frist 11.08.2021
+- TOP 4.1.: Impfbus-Angebot auch im Fasangarten - Antrag der Fraktion CSU vom 28.07.2021 -
+- TOP 5.1.1.: (E) Stadtbezirksbudget Initiative "Kreative Workshops" Beuys-Happyning 0.21 -wir feiern 100 Jahre Beuys – für ein schönes MITEINANDER am 22.08.2021 2447,25€; Az. 0262.0-17-0312
+- TOP 5.1.2.: (E) Stadtbezirksbudget 103er – Freizeittreff Obergiesing Anschaffung einer Küche 9.750,00 € / Az. 0262.0-17-0314
+- TOP 5.1.3.: (E) Stadtbezirksbudget Verein zur Förderung urbaner Kunst e.V. Eröffnungsevent für S-Bahn Skulptur BILDWERK am 17.+18.09.2021 1.860,00 € / Az. 0262.0-17-0315
+- TOP 5.2.1.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse Antrag von Kooperative Großstadt eG vom 10.12.2019 OpenQ - Schreiben des Direktoriums vom 28.06.2021 -
+- TOP 5.4: Sonstiges
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.3.1.: Deisenhofener Str. 6 - Abtrennung der Wohneinheit Nr. 19 von der Wohneinheit Nr. 17 im Rückgebäude EG und OG; 1.2-2021-4620-33; Frist 19.08.2021
+- TOP 6.1.3.2.: Tegernseer Landstr. 141 - Aufstockung eines Wohn- und Geschäftsgebäudes sowie Errichten hofseitiger Balkone; 1.23-2021-10202-33; Frist 19.08.2021
+- TOP 6.1.3.3.: Auguste-Kent-Pl. 2 - Verkaufsflächenerweiterung mit Umbau eines Verbrauchermarktes (Auguste-Kent-Pl. 2-4 / Marklandstr. 3); 1.1-2021-9685-33; Frist 19.08.2021
+- TOP 6.1.3.4.: Tegernseer Landstr. 155 - Digitalboard Fremdwerbeanlage an Wohnhauswand (15m²); Frist: 22.08.2021
+- TOP 6.1.4.1.: Listen der Bauvorhaben im 17. Stadtbezirk - 05.07. - 11.07.2021 - 12.07. - 18.07.2021
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Beschlussentwurf Querung Stadelheimer Straße - Anhörung durch das Mobilitätsreferat - Bitte um Behandlung im Ferienausschuss. Eine Behandlung im September ist nicht ausreichend, da der Mobilitätsausschuss am 22.09.2021 tagt.
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung: "OPEN - Q" vom .07.09.-17.09.2021 am St- Quirin Platz Schreiben des Kreisverwaltungsreferates vom 27.07.2021 Frist: 13.08.2021
+- TOP 6.5.3.2.: Veranstaltung: " SANART - die entspannte Art im Leben (kreatives zum Entspannen in München)" am 22.08.2021 am Giesinger Bahnhof Schreiben des Kreisverwaltungsreferat vom 29.07.2021 Frist: 13.08.2021
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche): Schwanseestr. 81
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz - Schreiben des Direktoriums vom 15.07.2021 -
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Mobilität und Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
