@@ -1,7 +1,7 @@
 # Anlage 2a (zu § 6)
 
 (1)
-Die Ermittlung des Kapitalkostenabzugs nach § 6 Absatz 3 eines Jahres der jeweiligen Regulierungsperiode erfolgt anhand der folgenden Formel:
+Die Ermittlung des Kapitalkostenabzugs nach § 6 Absatz 3 eines Jahres der jeweiligen Regulierungsperiode erfolgt anhand der folgenden Formel; wobei der Kapitalkostenabzug keine Werte kleiner als null annehmen darf:
 | KKAbt = KK0 — KKt |
 (2)
 Die Ermittlung der Kapitalkosten im Basisjahr erfolgt auf der Grundlage des Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 anhand folgender Formel:
@@ -20,7 +20,7 @@ EKZt Kalkulatorische Eigenkapitalverzinsung nach § 6 Absatz 3 auf der Grundlage
 GewSt0 Kalkulatorische Gewerbesteuer nach § 6 Absatz 3 auf der Grundlage des Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Basisjahr,
 GewStt Kalkulatorische Gewerbesteuer nach § 6 Absatz 3 auf der Grundlage des fortgeführten Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Jahr t der jeweiligen Regulierungsperiode,
 FKZ0 Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Basisjahr,
-FKZt Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des fortgeführten Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Jahr t der jeweiligen Regulierungsperiode.
+FKZt Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des fortgeführten Inhalts des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Jahr t der jeweiligen Regulierungsperiode.
 (4)
 Ferner sind von der Regulierungsbehörde bei der Ermittlung der fortgeführten Kapitalkosten die folgenden Grundsätze anzuwenden:
 1. Die kalkulatorischen Abschreibungen eines Jahres der jeweiligen Regulierungsperiode sind gemäß § 6 der Stromnetzentgeltverordnung oder § 6 der Gasnetzentgeltverordnung zu ermitteln, wobei die Fremd- oder Eigenkapitalquote nach § 6 Absatz 2 der Stromnetzentgeltverordnung oder § 6 Absatz 2 der Gasnetzentgeltverordnung des Ausgangsniveaus im Basisjahr anzuwenden sind; der Bewertungszeitpunkt für die Ermittlung der kalkulatorischen Abschreibungen zu Tagesneuwerten ist das Basisjahr.

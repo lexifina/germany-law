@@ -6,7 +6,7 @@ Ab der zweiten Regulierungsperiode erfolgt die Festsetzung der Erlösobergrenze 
 EOt = KAdnb,t + (KAvnb,0 + (1 – Vt) · KAb,0) · (VPIt /VPI0 – PFt) · EFt + Qt + (VKt – VK0) + St.
 Dabei ist:
 | EOt | Erlösobergrenze aus Netzentgelten, die im Jahr t der jeweiligen Regulierungsperiode nach Maßgabe des § 4 Anwendung findet. |
-|  | Ab der dritten Regulierungsperiode erfolgt die Festsetzung der Erlösobergrenze nach den §§ 4 bis 16 für Betreiber von Elektrizitäts- und Gasverteilernetzen nach der folgenden Formel: |
+|  | Ab der dritten Regulierungsperiode erfolgt die Festsetzung der Erlösobergrenze nach den §§ 4 bis 17 für die Betreiber von Elektrizitäts- und Gasversorgungsnetzen nach der folgenden Formel: |
 | KAdnb,t | Dauerhaft nicht beeinflussbarer Kostenanteil nach § 11 Absatz 2, der für das Jahr t der jeweiligen Regulierungsperiode unter Berücksichtigung der Änderungen nach § 4 Absatz 3 Satz 1 Nummer 2 Anwendung findet. |
 | KAvnb,0 | Vorübergehend nicht beeinflussbarer Kostenanteil nach § 11 Absatz 3 im Basisjahr. KAvnb,t Vorübergehend nicht beeinflussbarer Kostenanteil nach § 11 Absatz 3, der für das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist. |
 | Vt | Verteilungsfaktor für den Abbau der Ineffizienzen, der im Jahr t der jeweiligen Regulierungsperiode nach Maßgabe des § 16 Anwendung findet. |
@@ -15,7 +15,7 @@ Dabei ist:
 | VPI0 | Durch das Statistische Bundesamt veröffentlichter Verbraucherpreisgesamtindex für das Basisjahr. |
 | PFt | Genereller sektoraler Produktivitätsfaktor nach Maßgabe des § 9, der die Veränderungen des generellen sektoralen Produktivitätsfaktors für das Jahr t der jeweiligen Regulierungsperiode im Verhältnis zum ersten Jahr der Regulierungsperiode wiedergibt. In Analogie zu dem Term VPIt/VPI0 ist PFt dabei durch Multiplikation der einzelnen Jahreswerte einer Regulierungsperiode zu bilden. KKAt Kapitalkostenaufschlag nach § 10a, der für das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist. |
 | EFt | Erweiterungsfaktor nach Maßgabe des § 10 für das Jahr t der jeweiligen Regulierungsperiode. |
-| Qt | Zu- und Abschläge auf die Erlösobergrenze nach Maßgabe des § 19 im Jahr t der jeweiligen Regulierungsperiode. |
+| Qt | Bei Betreibern von Elektrizitäts- und Gasverteilernetzen die Zu- und Abschläge auf die Erlösobergrenze nach Maßgabe des § 19 im Jahr t der jeweiligen Regulierungsperiode; bei Betreibern von Übertragungsnetzen die Zu- und Abschläge auf die Erlösobergrenze nach Maßgabe des § 17 im Jahr t der jeweiligen Regulierungsperiode. |
 | St | Summe der Zu- und Abschläge auf die Erlösobergrenze nach § 5 Absatz 3. |
 | VKt | volatiler Kostenanteil, der nach § 11 Absatz 5 im Jahr t der jeweiligen Regulierungsperiode Anwendung findet. |
 | VK0 | volatiler Kostenanteil nach § 11 Absatz 5 im Basisjahr. |

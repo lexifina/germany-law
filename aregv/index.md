@@ -32,9 +32,9 @@
 - [§ 15 Ermittlung der Ineffizienzen](0015.md)
 - [§ 16 Effizienzvorgaben](0016.md)
 
-### Abschnitt 3 (weggefallen)
+### Abschnitt 3 Anreizelement zur Verringerung von Engpassmanagementkosten
 
-- [§ 17 (weggefallen)](0017.md)
+- [§ 17 Anreizinstrument zur Verringerung von Engpassmanagementkosten der Übertragungsnetzbetreiber](0017.md)
 
 ### Abschnitt 4 Qualitätsvorgaben
 
@@ -70,15 +70,18 @@
 - [§ 28 Mitteilungspflichten](0028.md)
 - [§ 29 Übermittlung von Daten](0029.md)
 - [§ 30 Fehlende oder unzureichende Daten](0030.md)
-- [§ 31 Veröffentlichung von Daten](0031.md)
+- [§ 31 (weggefallen)](0031.md)
 - [§ 32 Festlegungen oder Genehmigungen der Regulierungsbehörde](0032.md)
 - [§ 33 Evaluierung und Berichte der Bundesnetzagentur](0033.md)
 
 ## Teil 5 Schlussvorschriften
 
 - [§ 34 Übergangsregelungen](0034.md)
+- [§ 34a Ergänzende Übergangsregelungen für Kapitalkosten der Betreiber von Energieverteilernetzen](0034a.md)
+- [§ 35 Ergänzende Übergangsregelungen für Kapitalkosten der Betreibervon Übertragungs- und Fernleitungsnetzen](0035.md)
 - [Anlage 1 (zu § 7)](anlage-1.md)
 - [Anlage 2 (zu § 10)](anlage-2.md)
 - [Anlage 2a (zu § 6)](anlage-2a.md)
 - [Anlage 3 (zu § 12)](anlage-3.md)
 - [Anlage 4 (zu § 26)](anlage-4.md)
+- [Anlage 5 (zu § 17 Absatz 1 und 2)](anlage-5.md)
