@@ -1,0 +1,51 @@
+# 49. öffentliche Sitzung des Ausschusses für Sport - Die Sitzung findet im VIDEOCALL statt. Die Zugangsdaten entnehmen Sie bitte dem Infoblatt VIDEOCALL.
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-08-10T17:00:00+02:00
+- Ende: 2021-08-10T18:27:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=24
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6407
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6407
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=387314
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - erledigt
+- TOP 2: Genehmigung vorliegender Protokolle - erledigt
+- TOP 2.1: 2020/21: 34.,35.,36.,38.,43., 45. und 48. Sitzung - erledigt
+- TOP 3: Kinder- und Jugendparlament - erledigt
+- TOP 3.1: Trampoline in der Umgebung der Käthe-Kollwitz-Grundschule - mit Änderungen im Ausschuss beschlossen
+- TOP 4: Bericht aus der Verwaltung - erledigt
+- TOP 4.1: Auswirkungen der Corona -Pandemie auf den Sport - erledigt
+- TOP 4.2: Bericht über die Sportstättenvergabe Sommerhalbjahr 2021 (01.04 bis 30.09) - erledigt
+- TOP 4.3: Sachstand Sportstättenneubau und-sanierungen z.B. Sportplatz Wiesbadener Straße, Sportplatz Tempelhofer Weg 62, Sportplatz Halker Zeile, Neubau Sporthalle Friedrich-Bergius Schule - erledigt
+- TOP 5: Unerledigte Beschlüsse der BVV in der XX. Wahlperiode - erledigt
+- TOP 5.1: Gesundheit von Familien fördern - bewegte Winterspielplätze auch in Tempelhof-Schöneberg! - erledigt
+- TOP 5.2: Drittligataugliche Fußballstadien - erledigt
+- TOP 5.3: Öffentliches Schwimmen auch im neuen Götzbad ermöglichen - erledigt
+- TOP 5.4: Sanitär- und Umkleidecontainer für die Halker Zeile - erledigt
+- TOP 5.5: Sitzmöglichkeiten im Bose-Stadion reparieren - erledigt
+- TOP 5.6: Zeitplan für Sanitär- und Umkleidecontainer für die Halker Zeile - erledigt
+- TOP 5.7: Frauenschwimmen in Tempelhof-Schöneberg - erledigt
+- TOP 5.8: Verlängerung der Öffnungszeiten im Sommerbad Mariendorf - erledigt
+- TOP 5.9: Förderpreis für Frauen- und Mädchensport wieder vergeben - erledigt
+- TOP 5.10: Schwimmkurse für Erwachsene Nichtschwimmer_innen unterstützen - erledigt
+- TOP 5.11: Angebote für einen Erwachsenen mit Kind bei den Berliner Bäderbetrieben - erledigt
+- TOP 5.12: Berliner Schwimmbäder für Kinder bis einschließlich 14 Jahre kostenfrei - erledigt
+- TOP 5.13: Mehr Frauen für den Sport begeistern: Mädchensportfest in Tempelhof-Schöneberg veranstalten - erledigt
+- TOP 5.14: „Modellprojekt“ Sportplatz Tempelhofer Weg 62 - erledigt
+- TOP 5.15: Kinderlärm ist Zukunftsmusik – von Schallschutzmaßnahmen in Bädern absehen - erledigt
+- TOP 5.16: Bevölkerungsversorgung, Schulschwimmen und Sportbetrieb während der Baumaßnahmen an Bädern im Bezirk sicherstellen - erledigt
+- TOP 5.17: Zusätzliches Kleinspielfeld in der Bosestraße ermöglichen - erledigt
+- TOP 5.18: Sporthallen für den Schul- und Vereinssport sofort wieder nutzbar machen - erledigt
+- TOP 5.19: Schwimmenlernen in den Sommerferien und danach – dem Ertrinken vorbeugen - erledigt
+- TOP 5.20: Teile des ehemaligen Flughafens Tempelhof für Sport nutzbar machen - erledigt
+- TOP 5.21: Wettkampf- und Trainingsbetrieb für Kinder und Jugendliche muss weiterlaufen – endlich ausreichend Umkleidekabinen schaffen - erledigt
+- TOP 5.22: Kinder und Jugendliche brauchen Sport - Sportvereine und Trainer*innen Klarheit - erledigt
+- TOP 5.23: Sportstättenvergabe transparent machen - Beschluss DS 0426/XIX umsetzen - erledigt
+- TOP 5.24: Sportler*innen schützen - defekte Bewässerungsanlagen auf Sportplätzen reparieren - erledigt
+- TOP 6: Verschiedenes - erledigt
+- TOP 6.1: Nächster regulärer Sitzungstermin: Dienstag, 14.09.2021 - erledigt
