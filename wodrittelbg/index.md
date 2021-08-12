@@ -42,6 +42,8 @@ dem Drittelbeteiligungsgesetz
 
 - [§ 18 Öffentliche Stimmauszählung](0018.md)
 - [§ 19 Ermittlung der Gewählten](0019.md)
+- [§ 19a Ermittlung der Gewählten in Unternehmen mit Mehrheitsbeteiligung des Bundes im Fall der Gesamterfüllung](0019a.md)
+- [§ 19b Ermittlung der Gewählten in Unternehmen mit Mehrheitsbeteiligung des Bundes im Fall der Getrennterfüllung](0019b.md)
 - [§ 20 Niederschrift des Wahlergebnisses](0020.md)
 - [§ 21 Bekanntmachung des Wahlergebnisses und Benachrichtigung der Gewählten](0021.md)
 - [§ 22 Aufbewahrung der Wahlakten, Bekanntmachung des Unternehmens](0022.md)
@@ -98,6 +100,7 @@ Arbeitnehmern eines Seebetriebs
 - [§ 48 Abberufungsausschreiben für Seebetriebe, Wählerliste](0048.md)
 - [§ 49 Stimmabgabe](0049.md)
 
-## Teil 4 Schlussbestimmungen
+## Teil 4 Schlussbestimmung und Übergangsregelung
 
 - [§ 50 Berechnung der Fristen](0050.md)
+- [§ 51 Übergangsregelung](0051.md)

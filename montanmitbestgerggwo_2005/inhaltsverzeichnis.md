@@ -203,7 +203,10 @@
 | § 103 |  |  |  | Abberufungsausschreiben für Seebetriebe |
 | § 104 |  |  |  | Abstimmung, Mitteilung des Abstimmungsergebnisses |
 | Teil 4 |
-|  | Erstmalige Anwendung, Berechnung von Fristen, Übergangsregelung |
+|  | Unternehmen mit Mehrheitsbeteiligung des Bundes |
+| § 104a |  |  |  | Geschlechteranteil in nicht börsennotierten Unternehmen |
+| Teil 5 |
+|  | Übergangs- und Schlussvorschriften |
 | § 105 |  |  |  | Erstmalige Anwendung des Gesetzes auf ein Unternehmen |
 | § 106 |  |  |  | Berechnung von Fristen |
 | § 107 |  |  |  | Übergangsregelung |

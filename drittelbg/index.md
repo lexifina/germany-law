@@ -13,6 +13,7 @@
 - [§ 5 Wahl der Aufsichtsratsmitglieder der Arbeitnehmer](0005.md)
 - [§ 6 Wahlvorschläge](0006.md)
 - [§ 7 Ersatzmitglieder](0007.md)
+- [§ 7a Nichterreichen des Geschlechteranteils](0007a.md)
 - [§ 8 Bekanntmachung der Mitglieder des Aufsichtsrats](0008.md)
 - [§ 9 Schutz von Aufsichtsratsmitgliedern vor Benachteiligung](0009.md)
 - [§ 10 Wahlschutz und Wahlkosten](0010.md)
@@ -23,3 +24,4 @@
 
 - [§ 13 Ermächtigung zum Erlass von Rechtsverordnungen](0013.md)
 - [§ 14 Verweisungen](0014.md)
+- [§ 15 Übergangsregelung](0015.md)

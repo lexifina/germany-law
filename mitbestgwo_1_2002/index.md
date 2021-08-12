@@ -257,7 +257,11 @@ Delegierten](0089.md)
 
 - [§ 91 Ersatzmitglieder](0091.md)
 
-## Teil 3 Übergangs- und Schlussvorschriften
+## Teil 3 Unternehmen mit Mehrheitsbeteiligung des Bundes
+
+- [§ 91a Geschlechteranteil in nicht börsennotierten Unternehmen](0091a.md)
+
+## Teil 4 Übergangs- und Schlussvorschriften
 
 - [§ 92 Erstmalige Anwendung des Gesetzes auf ein Unternehmen](0092.md)
 - [§ 93 Berechnung von Fristen](0093.md)

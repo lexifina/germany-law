@@ -288,7 +288,11 @@ Wählerliste, Mitteilung an die Delegierten](0102.md)
 - [§ 104 Abstimmung,
 Mitteilung des Abstimmungsergebnisses](0104.md)
 
-## Teil 4 Erstmalige Anwendung, Berechnung von Fristen, Übergangsregelung
+## Teil 4 Unternehmen mit Mehrheitsbeteiligung des Bundes
+
+- [§ 104a Geschlechteranteil in nicht börsennotierten Unternehmen](0104a.md)
+
+## Teil 5 Übergangs- und Schlussvorschriften
 
 - [§ 105 Erstmalige Anwendung des Gesetzes auf ein Unternehmen](0105.md)
 - [§ 106 Berechnung von Fristen](0106.md)

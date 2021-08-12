@@ -15,4 +15,4 @@
 | Teil 3 Besondere Vorschriften bei Teilnahme von Arbeitnehmern eines Seebetriebs |  |
 |  | Kapitel 1 | Wahl | 42 - 45 |
 |  | Kapitel 2 | Abberufung | 46 - 49 |
-| Teil 4 Schlussbestimmung | 50 |
+| Teil 4 Schlussbestimmung und Übergangsregelung | 50 - 51 |

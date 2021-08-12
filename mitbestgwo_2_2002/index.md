@@ -313,7 +313,11 @@ Delegierte gewählten Aufsichtsratsmitglieds der Arbeitnehmer
 - [§ 112 Abberufungsausschreiben im Seebetrieb](0112.md)
 - [§ 113 Abstimmung, Mitteilung des Abstimmungsergebnisses](0113.md)
 
-## Teil 4 Übergangs- und Schlussvorschriften
+## Teil 4 Unternehmen mit Mehrheitsbeteiligung des Bundes
+
+- [§ 113a Geschlechteranteil in nicht börsennotierten Unternehmen](0113a.md)
+
+## Teil 5 Übergangs- und Schlussvorschriften
 
 - [§ 114 Erstmalige Anwendung des Gesetzes auf ein Unternehmen](0114.md)
 - [§ 115 Berechnung von Fristen](0115.md)

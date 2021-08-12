@@ -178,6 +178,9 @@
 |  |  |  | Ersatzmitglieder |
 | § 91 | Ersatzmitglieder |
 | Teil 3 |
+|  | Unternehmen mit Mehrheitsbeteiligung des Bundes |
+| § 91a |  | Geschlechteranteil in nicht börsennotierten Unternehmen |
+| Teil 4 |
 |  | Übergangs- und Schlussvorschriften |
 | § 92 | Erstmalige Anwendung des Gesetzes auf ein Unternehmen |
 | § 93 | Berechnung von Fristen |

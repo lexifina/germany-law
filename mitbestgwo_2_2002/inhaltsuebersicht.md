@@ -218,6 +218,9 @@
 | § 112 |  |  | Abberufungsausschreiben im Seebetrieb |
 | § 113 |  |  | Abstimmung, Mitteilung des Abstimmungsergebnisses |
 | Teil 4 |
+|  | Unternehmen mit Mehrheitsbeteiligung des Bundes |
+| § 113a |  |  | Geschlechteranteil in nicht börsennotierten Unternehmen |
+| Teil 5 |
 |  | Übergangs- und Schlussvorschriften |
 | § 114 |  |  | Erstmalige Anwendung des Gesetzes auf ein Unternehmen |
 | § 115 |  |  | Berechnung von Fristen |
