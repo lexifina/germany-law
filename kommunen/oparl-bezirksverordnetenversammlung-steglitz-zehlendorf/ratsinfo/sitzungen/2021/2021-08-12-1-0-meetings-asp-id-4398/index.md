@@ -1,0 +1,51 @@
+# 56. öffentliche Sitzung des Ausschusses für Haushalt, Personal und Verwaltungsmodernisierung - Videokonferenz
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2021-08-12T17:30:00+02:00
+- Ende: 2021-08-12T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=59
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4398
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4398
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Genehmigung des Protokolls vom 03.06.2021 - im Ausschuss abgelehnt
+- TOP 2: Sondermittelanträge - im Ausschuss abgelehnt
+- TOP 2.1: Sondermittelantrag 5/2021 Literaturiniative - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Bericht aus dem Bezirksamt - im Ausschuss abgelehnt
+- TOP 4: Verwendung der Gembus-Mittel - im Ausschuss abgelehnt
+- TOP 5: Anträge - im Ausschuss abgelehnt
+- TOP 5.1: Bezirkliches Radnebenroutennetz in der Goerzallee absichern - vertagt
+- TOP 5.2: U-Bahnhof Onkel-Toms-Hütte - vertagt
+- TOP 5.3: Verkehrssicherheit und Aufenthaltsqualität statt Parkplätze in der Schloßstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 5.4: Ein Livestream der BVV-Sitzungen ist nötig und möglich. Die Verordneten der BVV Steglitz-Zehlendorf setzen auf Transparenz und Bürger*innenfreundlichkeit! - vertagt
+- TOP 5.5: Statt einer Umbenennung der Pacelliallee soll eine „Allee des Gedenkens" entstehen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.6: Schutzräume für obdachlose Menschen jetzt sofort! - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.7: Platz des 4. Juli – Was jetzt zu tun ist - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.8: BVV und Ausschüsse digital für Öffentlichkeit zugänglich machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.9: 161 neue Fahrradparkplätze am S-Bahnhof Lichterfelde-West sind nötig und möglich - im Ausschuss abgelehnt
+- TOP 5.10: Smiley-Dialogdisplays für den Bezirk - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.11: Radroute RR1/TR4 am Breitenbachplatz zügig verbessern - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.12: Erstellung eines Sportentwicklungsplanes für Steglitz-Zehlendorf - vertagt
+- TOP 5.13: Schutz der Insekten durch ein bezirkliches Bestäuberkonzept – bevor es keine mehr gibt - im Ausschuss abgelehnt
+- TOP 5.14: Vermeidung von Papiermüll im Sinne der Klima-Maßnahmen des Bezirks - im Ausschuss abgelehnt
+- TOP 5.15: Eine runde Parkbank und mehr Grün für die Schützenstraße in Steglitz - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.16: Fehlende Sitzbänke auf dem Asternplatz wieder aufstellen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.17: Öffentliche Toilette an die Breisgauer Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.18: Schüler- und Schülerinnenhaushalt - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.19: Parkbänke Rondell Stadtpark Steglitz und Denkmäler - im Ausschuss abgelehnt
+- TOP 5.20: Neue Sitzbänke vor der Konzertmuschel im Stadtpark Steglitz - im Ausschuss abgelehnt
+- TOP 5.21: Erhaltung des Gebäudes (Conrad-Villa) Straße zum Löwen 1 in Wannsee - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.22: Sondershauser Straße – Verkehr entschleunigen - vertagt
+- TOP 5.23: Amtssprache Deutsch – Genus versus Sexus - im Ausschuss abgelehnt
+- TOP 5.24: Wiederherrichtung von Sitzbänken und Reinigung einer geschützten Grünanlage in der Kaiser-Wilhelm-Straße/Ecke Dillgesstraße in Lankwitz - im Ausschuss abgelehnt
+- TOP 5.25: Schattenspender auf Spielplätzen - im Ausschuss abgelehnt
+- TOP 5.26: Seepferdchen-Garantie in Steglitz-Zehlendorf – Weil es Leben retten kann! - vertagt
+- TOP 5.27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.28: Theodor Moldaenke, Erna Scheffler und Kurt Huldschinsky ehren - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 6.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2020 - ohne Änderungen im Ausschuss beschlossen
+- TOP 7: Verschiedenes - im Ausschuss abgelehnt
