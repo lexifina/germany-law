@@ -1,0 +1,1 @@
+Auf Grund des Art. 7 Abs. 4 Satz 4 des Bayerischen Lehrerbildungsgesetzes erläßt das Bayerische Staatsministerium für Unterricht und Kultus im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen und dem Landespersonalausschuß folgende Verordnung:Zeichensetzung amtlich.
