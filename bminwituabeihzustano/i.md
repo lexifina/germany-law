@@ -1,3 +1,0 @@
-# I.
-
-Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes wird der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen die Befugnis übertragen, über Widersprüche von Beschäftigten des Bundesministeriums für Wirtschaft und Technologie, der Bundesanstalt für Materialforschung und -prüfung, der Physikalisch-Technischen Bundesanstalt, der Bundesanstalt für Geowissenschaften und Rohstoffe, des Bundeskartellamtes und des Bundesamtes für Wirtschaft und Ausfuhrkontrolle gegen Verwaltungsakte sowie die Ablehnung eines Anspruchs in Angelegenheiten nach den Beihilfevorschriften des Bundes zu entscheiden, soweit sie zum Erlass des Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
