@@ -1,0 +1,144 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-08-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6434297
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6434297
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 5.2: Vorstellungen
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP -: 2.2
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: BA-Angelegenheiten
+- TOP 1.2.: Einberufung Anliegerversammlung zur Oberflächengestaltung Altstadtringtunnel
+- TOP 1.3.: Zeitplan Bürger*innenbeteiligung Platzgestaltung St. Benno
+- TOP 2.: Sonstiges
+- TOP A: Allgemeines
+- TOP 6.1.: Verkehrliche Neugestaltung der gesamten Augustenstraße zeitnah planen und umsetzen
+- TOP 6.2.: Winzerer-/Görresstraße – die nordöstliche und südöstliche Ecke mit Pollern schützen
+- TOP 6.3.: Nachpflanzung fehlender Bäume in vorhandenen Baumgräben
+- TOP 6.4.: Wie verändern sich die Grundwasserverhältnisse in der Maxvorstadt durch die zunehmende Bebauung des Untergrundes?
+- TOP 6.5.: Zügige Flächenwiederherstellung im Nachgang zur IAA
+- TOP 6.6.: Erhaltungssatzung St. Vinzenz-Viertel ausweiten
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Schönfeldstr. 14, Auskunft bzgl. geplantem Abriss und Neubau
+- TOP 1.1.2.: Antrag auf Erlass einer Erhaltungssatzung für die Schönfeldstraße bzw. Antrag auf Einbezug der Schönfeldstraße in eine bestehende Erhaltungssatzung
+- TOP 1.2: Anträge
+- TOP 2.1.1.: Baulisten der LBK:26.KW, 27.KW, 28.KW, 29.KW, 30.KW
+- TOP 2.1.2.: WEB-Listen der LBK: 26.-27.KW,28.-29.KW und 29.-30.KW
+- TOP 2.1.3.: Türkenstraße 50, Neubau eines Wohn- und Geschäftsgebäudes mit Tiefgarage
+- TOP 2.1.4.: Schraudolphstr. 17, Ausbau eines Dachstuhls mit zwei Wohneinheiten
+- TOP 2.1.5.: Amalienstraße 65, Dachsanierung mit Umnutzung und Umbau eines Modeateliers im DG zu einer Wohneinheit, Rückbau der straßenseitigen Gaube und Neubau von 2 straßenseitigen Gauben
+- TOP 1.: Planfeststellung nach §§ 18 Abs. 1, 18 d Allgemeines Eisenbahngesetz (AEG), § 28 Abs. 1 Personenbeförderungsgesetz (PBefG), §§ 76 Abs. 1 und 78 Verwaltungsverfahrensgesetz (VwVfG) – Anhörungsverfahren Hauptbahnhof (Vertagung aus 07.21) bis 23.08.21
+- TOP 3.1.1.: Gen.verfahren BaumSchVO - Fällungsantrag- Schellingstr. 145
+- TOP 5.1.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 "München - Stadt im Gleichgewicht" A) Vorstellung des Entwurfs B) Weiteres Vorgehen und Beteiligungsprozess
+- TOP 5.2.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: (U) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) 2021 B. Anträge 1. Den Horizont erweitern – Sozialgerechte Bodennutzung und Bodenvorratspolitik anderer Städte vorstellen Antrag Nr. 14-20 / A 04310 von der Fraktion DIE GRÜNEN/RL vom 20.07.2018 2. Mehr dauerhaft bezahlbarer Wohnraum III: Mit der neuen SoBoN mehr bezahlbaren Wohnraum schaffen und dauerhaft sichern Antrag Nr. 14-20 / A 06746 von der Fraktion DIE GRÜNEN/ROSA LISTE vom 11.02.2020 3. Mehr dauerhaft bezahlbares Wohnen Antrag Nr. 14–20 / A 06968 von der SPD-Stadtratsfraktion vom 10.03.2020 4. SoBoN-Novelle 2020/2021: München braucht mehr geförderten Wohnraum Antrag Nr. 20-26 / A 00707 von der Fraktion DIE LINKE./Die PARTEI vom 18.11.2020
+- TOP 5.5.: (U) Energienutzungsplan für München – Maßnahmen und Bericht 2021 Sachmittel für das EU-Projekt DecarbCity Pipes 2050
+- TOP 5.6.: SWM Baumaßnahme Stromprojekt Karlstraße
+- TOP 5.7.: Bescheid zur Schönfeldstr. 14, Abbruch und Neubau einer Wohnanlage mit 60 Wohnungen und zwei Gewerbeeinheiten mit TG – gegen das Votum des BA
+- TOP 5.8.: Bescheid zum Fällungsantrag Linprunstr. 36
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Jahrelange Absperrung von Gehweg und Parkplätzen von vermeintlicher Baustelle Bürgeranliegen vom 12.07.2021
+- TOP 1.1.2.: Mobile Boulderwand Bürgeranliegen vom 12.07.2021
+- TOP 1.1.3.: Erhaltungssatzung Bürgeranliegen vom 15.07.2021
+- TOP 1.1.4.: Kreuzung Winzererstraße - Schellingstraße Umbau; Nachbesserung Bürgeranliegen vom 17.07.2021
+- TOP 1.1.5.: Anfahrtszone für Baustellenfahrzeuge Nymphenburger Str. 58-60 Bürgeranliegen vom 30.07.2021
+- TOP 1.1.6.: Umwandlung Deroystraße in 30er Zone Bürgeranliegen vom 20.07.2021
+- TOP 1.1.7.: Anwohnerparken für Wohnmobile im Innenstadtbereich Bürgeranliegen vom 21.07.2021
+- TOP 1.1.8.: Sommerstraße Kurfürstenstraße - Parkverbot wird ignoriert Bürgeranliegen vom 22.07.2021
+- TOP 1.1.9.: Sanierung Neue Pinakothek - Einschränkungen außen Bürgeranliegen vom 23.07.2021
+- TOP 1.1.10.: Situation mit E-Rollern - Nymphenburger Str. Bürgeranliegen vom 25.07.2021
+- TOP 1.1.11.: Bauvorhaben ADAC Königinstraße 9, Bebauungsplan Nr. 280: Öffentliches Grün contra Feuerwehraufstellflächen und vice-versa Bürgeranliegen vom 30.07.2021
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Programm barrierefreie Bushaltestellen, Lothstraße – Anhörung
+- TOP 2.2.1.: Antrag Sondernutzung EC 2022, Dezentrale Bandmusik im Stadtgebiet
+- TOP 2.2.2.: Odeonsplatz | EC 2022 Anhörungsverfahren für "Jedermannslauf am 15.08.2022" | 24.08.2021
+- TOP 2.2.3.: Odeonsplatz - Siegestor | EC 2022 Anhörungsverfahren für "Gehen am 16.08.sowie 20.08.2022" | 24.08.2021
+- TOP 2.2.4.: Antrag auf Aufstellung von Sitzgelegenheiten | 24.08.2021
+- TOP 2.2.5.: Anhörungsverfahren Stadtterrasse vor dem Anwesen Blutenburgstr. 3, 80636 München
+- TOP 2.2.6.: Anhörung - Internationale Automobilausstellung 2021 - Open Space Teilbereich 1 Königs- platz - vom 07.09.-12.09.2021 | 19.08.2021
+- TOP 2.3.1.: Augustenstr. 43, erlaubnisfreie Gaststätte; Ausdehnungsantrag FSF
+- TOP 2.3.2.: Glückstr. 1, Antrag auf Erweiterung einer Freischankfläche
+- TOP 2.3.3.: Erzgießereistr. 48/rechts, Gaststätte Neuantrag Parkplatz-Freischankfläche
+- TOP 2.3.4.: Dachauer Str. 149 / links, gastronomischer Betrieb, Backshop; Neuantrag fassadenseitige Freischankfläche
+- TOP 2.3.5.: Max-Joseph-Str. 5 ,Genehmigung einer Parkplatz-Freischankfläche (Corona) - SSW
+- TOP 2.3.6.: Türkenstr. 47 rechts, Gaststätte; Neuantrag Parkplatz-Freischankfläche
+- TOP 2.3.7.: Barer Str. 61, Café ; Neuantrag Parkplatz-Freischankfläche
+- TOP 2.3.8.: Türkenstr. 47 links, erl.fr. Gaststätte; Neuantrag Parkplatz-Freischankfläche
+- TOP 2.3.9.: Schellingstr. 13, Freischankflächenantrag für einen Parkplatz
+- TOP 2.3.10.: Arnulfstr. 10 ,Genehmigung einer dauerhaften Freischankfläche - SSW
+- TOP 2.3.11.: Kurfürstenstr. 2, Genehmigung einer dauerhaften Freischankfläche - Gaststätte
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Unterrichtung auf unveränderte Fortführung Speisewirtschaft, Rundfunkplatz 4
+- TOP 3.2.: (U) Erstellung eines Logistikkonzepts im Rahmen des BMVI-Programms zur Förderung der städtischen Logistik Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für das Jahr 2022
+- TOP 3.3.: (U) Neufassung vom 16.06.2021 Satzung der Landeshauptstadt München zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des Mobilitätsverhaltens für die Bewertung der Modellprojekte City2Share, Smarter Together und CIVITAS ECCENTRIC
+- TOP 3.4.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2022 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Die Provinzen erschließen – Den Münchner Osten kolonialisieren Antrag Nr. 20-26 / A 00363 von der Fraktion ÖDP / FW vom 14.08.2020 Anbindung des Interims-Gasteig sicherstellen und Anwohnerparkplätze sichern Antrag Nr. 20-26 / A 00914 von der CSU-Fraktion vom 23.12.2020 Bessere ÖPNV-Anbindung von Schwabing an Neuhausen und den Hauptbahnhof – Tram 23 mit den Linien 12 und 28 verknüpfen Antrag Nr. 20-26 / A 01088 von der FDP BAYERNPARTEI Stadtratsfraktion vom 22.02.2021 Gasteig HP8 - verkehrliche Anbindung sicherstellen! Antrag Nr. 20-26 / A 01450 von der CSU-Frakion vom 17.05.2021 Bus-Osttangente planen und einrichten ! Antrag der Fraktion Bündnis`90 / Die Grünen Antrag Nr. 14-20 / B 07086 des Bezirksausschusses des BA 17 – Obergiesing vom 19.11.2019 Bus-Osttangente planen und einrichten! Unterstützung des BA-Antrags Nr. 14-20 / B 07086 des BA 17 durch den BA 16 Antrag Nr. 14-20 / B 07247 des Bezirksausschusses des Stadtbezirkes 16 – Ramersdorf-Perlach vom 05.12.2019 etc. siehe Sitzungsvorlage
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Verantwortungsvoller Umgang mit E-Scootern - mit der Bitte um Weitergabe an die BAs 2-25
+- TOP 3.7.: Verkehrsrechtliche Anordnung Sommerstraßen 2021 - Kurfürstenstraße zwischen Ramberg- straße und Adalbertstraße vom 20.07.2021 bis 20.09.2021
+- TOP 3.8.: Beginn der Bauarbeiten zur Sanierung der Neuen Pinakothek
+- TOP 3.9.: Errichtung einer DC-Ladesäule in der Deroystraße
+- TOP 3.10.: Öffnung der einbahngeregelten Schwarzmannstraße für den gegenläufigen Radverkehr vAO
+- TOP 3.11.: Verkehrsrechtliche Anordnung für die Ludwigstraße Höhe Professor-Huber-Platz
+- TOP 3.12.: BV "Außenstelle für das NS-Dokumenationszentrum München“
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget MIR e.V. MIR, wie Frieden, in einer Stadt mit Herz zum 30.Geburtstag von MIR e.V. am 24.09.2021 1.200,00 Euro, Az.: 0262.0-3-0363
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Schaffung von Unterkünften für Geflüchtete und Wohnungslose: Wiederbelebung des sog. Verkürzten Verfahrens Ausschuss für Flüchtlinge wieder einsetzen Antrag Nr. 14-20 / A 06932 ...
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Schwabinggrad Realisierung einer ortsspezifischen Installation 1.193,00 Euro, Az.: 0262.0-3-0360
+- TOP 2.2.: (E) Stadtbezirksbudget kon-paper e.V. Literarische Schnitzeljagd durch München vom 17.07. - 14.08.2021 690,06 Euro, Az.: 0262.0-3-0362
+- TOP 2.3.: (E) Stadtbezirksbudget Münchner Forum e.V. Ausstellung Türkenstraße "Hypergentrifizierung/Social Cleansing statt Milieuschutz" von August 2021 - Oktober 2021 971,00 Euro, Az.: 0262.0-3-0364
+- TOP 2.4.: Budgetantrag aus dem Juli „Tujia Komi Quartett“ Verlängerung des Bewilligungszeitraums bis zum 31.10.2021
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Kunstaktion denkFEmale an 9 Standorten vom 01.08 bis 17.10.21
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1.1.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz; hier: Anhörung der Bezirksausschüsse
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
