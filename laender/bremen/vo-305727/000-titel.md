@@ -1,1 +1,1 @@
-# Verordnung über die Sonntagsöffnung von Verkaufsstellen in der Stadt Bremerhaven im Jahre 2020 vom 11. Dezember 2019
+# Verordnung über die Sonntagsöffnung von Verkaufsstellen in der Stadt Bremerhaven vom 4. August 2021
