@@ -59,6 +59,7 @@
 - [§ 19 Weitergewährung bei Unterbrechung der zulageberechtigenden Tätigkeit](0019.md)
 - [§ 20 (weggefallen)](0020.md)
 - [§ 21 Zulage für besondere Dienste in der Gesundheits- und Krankenpflege](0021.md)
+- [§ 21a Zulage für die Behandlung und Pflege bei schweren Infektionskrankheiten](0021a.md)
 - [§ 22 Zulage für besondere Einsätze](0022.md)
 - [§ 22a Zulage für Polizeivollzugsbeamte als fliegendes Personal](0022a.md)
 - [§ 23 Zulage für die Beseitigung von Munition aus den Weltkriegen](0023.md)

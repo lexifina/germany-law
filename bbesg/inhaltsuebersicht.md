@@ -117,7 +117,7 @@ Dienstkleidung, Heilfürsorge, Unterkunft
 Abschnitt 9
 Übergangs- und Schlussvorschriften
 | § 71 | Rechtsverordnungen, allgemeine Verwaltungsvorschriften |
-| § 72 | Übergangsregelungen zu den §§ 6, 43, 43b und 44 |
+| § 72 | Übergangsregelung zu den §§ 6, 43, 43b, 44 und 63 |
 | § 73 | Übergangsregelung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung |
 | § 74 | Übergangsregelung zu den Änderungen der Anlage I durch das Besoldungsstrukturenmodernisierungsgesetz |
 | § 74a | Übergangsregelung aus Anlass der Übertragung ehebezogener Regelungen im öffentlichen Dienstrecht auf Lebenspartnerschaften |

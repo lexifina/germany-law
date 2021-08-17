@@ -15,6 +15,7 @@
 - [§ 5 Bekanntgabe und Zustellung](0005.md)
 - [§ 5a Laufzeit von Vermögensanlagen](0005a.md)
 - [§ 5b Nicht zugelassene Vermögensanlagen](0005b.md)
+- [§ 5c Mittelverwendungskontrolle](0005c.md)
 
 ## Abschnitt 2 Verkaufsprospekt, Vermögensanlagen-Informationsblatt und Information der Anleger
 
@@ -32,7 +33,7 @@
 - [§ 12 Werbung für Vermögensanlagen](0012.md)
 - [§ 13 Vermögensanlagen-Informationsblatt](0013.md)
 - [§ 13a Frist und Form der Veröffentlichung eines Vermögensanlagen-Informationsblatts](0013a.md)
-- [§ 14 Hinterlegung des Verkaufsprospekts und des Vermögensanlagen-Informationsblatts](0014.md)
+- [§ 14 Hinterlegung des Verkaufsprospekts und des Vermögensanlagen-Informationsblatts und Form der Einreichung bei der Bundesanstalt](0014.md)
 - [§ 15 Anlegerinformation](0015.md)
 
 ### Unterabschnitt 2 Befugnisse der Bundesanstalt
@@ -41,7 +42,7 @@
 - [§ 16 Untersagung von Werbung](0016.md)
 - [§ 17 Untersagung der Veröffentlichung](0017.md)
 - [§ 18 Untersagung des öffentlichen Angebots](0018.md)
-- [§ 19 Auskünfte des Anbieters](0019.md)
+- [§ 19 Auskunftspflichten gegenüber der Bundesanstalt](0019.md)
 
 ### Unterabschnitt 3 Haftung
 

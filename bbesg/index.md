@@ -129,7 +129,7 @@
 ## Abschnitt 9 Übergangs- und Schlussvorschriften
 
 - [§ 71 Rechtsverordnungen, allgemeine Verwaltungsvorschriften](0071.md)
-- [§ 72 Übergangsregelungen zu den §§ 6, 43, 43b und 44](0072.md)
+- [§ 72 Übergangsregelung zu den §§ 6, 43, 43b, 44 und 63](0072.md)
 - [§ 73 Übergangsregelung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung](0073.md)
 - [§ 74 Übergangsregelung zu den Änderungen der Anlage I durch das Besoldungsstrukturenmodernisierungsgesetz](0074.md)
 - [§ 74a Übergangsregelung aus Anlass der Übertragung ehebezogener Regelungen im öffentlichen Dienstrecht auf Lebenspartnerschaften](0074a.md)
@@ -151,8 +151,8 @@
 - [Anlage I (zu § 20 Absatz 2 Satz 1)Bundesbesoldungsordnungen A und B](anlage-i.md)
 - [Anlage II (zu § 32 Satz 1)Bundesbesoldungsordnung W](anlage-ii.md)
 - [Anlage III (zu § 37 Satz 1)Bundesbesoldungsordnung R](anlage-iii.md)
-- [Anlage IV (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2) Gültig ab 1. März 2020](anlage-iv.md)
-- [Anlage V (zu § 39 Absatz 1 Satz 1) Gültig ab 1. März 2020](anlage-v.md)
-- [Anlage VI (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4) Gültig ab 1. März 2020](anlage-vi.md)
-- [Anlage VIII (zu § 61)Gültig ab 1. August 2020](anlage-viii.md)
-- [Anlage IX (zu den Anlagen I und III) Gültig ab 1. März 2020](anlage-ix.md)
+- [Anlage IV (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2) Gültig ab 1. April 2021](anlage-iv.md)
+- [Anlage V (zu § 39 Absatz 1 Satz 1) Gültig ab 1. April 2021](anlage-v.md)
+- [Anlage VI (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4) Gültig ab 1. April 2021](anlage-vi.md)
+- [Anlage VIII (zu § 61) Gültig ab 1. April 2021](anlage-viii.md)
+- [Anlage IX (zu den Anlagen I und III) Gültig ab 1. April 2021](anlage-ix.md)

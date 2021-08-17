@@ -46,4 +46,4 @@
 - [§ 28 Übergangsbestimmungen zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen](0028.md)
 - [(XXXX) §§ 28a bis 30 (weggefallen)](xxxx-28a-bis-30.md)
 - [§ 31 (jetzt § 20)](0031.md)
-- [§ 32 Auskunftspflicht von Wertpapierdienstleistungsunternehmen](0032.md)
+- [§ 32 (weggefallen)](0032.md)
