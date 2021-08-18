@@ -1,0 +1,77 @@
+# 63. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-08-18T17:00:00+02:00
+- Ende: 2021-08-18T22:27:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4158
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4158
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Faktische Abschaffung des verbrieften Rechts auf Bürgerbeteiligung im Sanierungsteilgebiet Sonnenallee durch das Bezirksamt Neukölln - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: 2401/XX - Gute Arbeit und gerechte Bezahlung für die Krankenhaus-Beschäftigten in Neukölln! - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: BVV verurteilt Zerstörung von Wahlplakaten - in der BVV abgelehnt
+- TOP 2.3: Herrentoiletten ohne Sichtschutz - in der BVV abgelehnt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Gute Arbeit und gerechte Bezahlung für die Krankenhaus-Beschäftigten in Neukölln! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2020 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Fahrradspur auf der Hermannstraße - beantwortet
+- TOP 8.2: Kosten für verbotene Corona-Partys - beantwortet
+- TOP 8.3: Antrag auf „Stelle gegen Konfrontative Religionsbekundungen“ ohne Erfolg - beantwortet
+- TOP 8.4: Wohnkostenlücke auch in Neukölln? - beantwortet
+- TOP 8.5: Geimpft – lässt die Schutzwirkung der Covid-19 Impfung nach? - beantwortet
+- TOP 8.6: Impfstrategie des Bezirks - schriftlich beantwortet
+- TOP 8.7: Kastanienfällung am Buschrosenplatz - beantwortet
+- TOP 8.8: Ehemaliger Party-Event-Raum Bürgerstraße 60 - beantwortet
+- TOP 8.9: Umsetzungsschritte zum Kiezblock „Rixdorfer Kiez“ - beantwortet
+- TOP 8.10: Verbesserung der Arbeitsbedingungen im Krankenhaus Neukölln - schriftlich beantwortet
+- TOP 8.11: „R. raus“ – realistisch oder Wahlkampfgeplänkel? - schriftlich beantwortet
+- TOP 8.12: Einsatzzeiten der Rettungsdienste und Feuerwehr - schriftlich beantwortet
+- TOP 8.13: Modellprojekt zu Luftfiltern in Kitas - schriftlich beantwortet
+- TOP 8.14: Platz am „Goldenen Esel“ instandsetzen - schriftlich beantwortet
+- TOP 8.15: Gedenktafel Martin Weise - schriftlich beantwortet
+- TOP 8.16: Mündliche Anfrage - schriftlich beantwortet
+- TOP 9: Mitteilungen - erledigt
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Handeln statt populistischem Spiel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Planung für die Umgestaltung des Karl-Marx-Platzes anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Schulwegsicherung Peter-Petersen-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Keine Bevorzugung von Supermarktketten gegenüber Markthändler*innen im „Lockdown“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Parkplätze für Gehbehinderte am Gesundheitszentrum Gropiusstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: „Dreckecke“ südliches Kiehlufer - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Durchgangsverkehr auf der Achse Maybachufer–Harzer/Treptower Straße–Kiehlufer reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Modaler Filter für Fahrradstraße Pflügerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Aktionsplan gegen Vermüllung - in der BVV abgelehnt
+- TOP 11.5: Ein Parkraumkonzept für Neukölln - in der BVV abgelehnt
+- TOP 11.6: Warum bekommt Neukölln das Müllproblem nicht in den Griff - beantwortet
+- TOP 11.7: Sind nun Schüler Opfer des unverhältnismäßigen Gesundheitsschutzes - beantwortet
+- TOP 11.8: Gibt es nun doch Corona-Schwerpunkte in Neukölln? - beantwortet
+- TOP 11.9: Bewegung „Schön wie Wir“ - vertagt
+- TOP 11.10: Eckwertebeschluss Haushalt 2022/23 – Sparzwänge für Neukölln? - vertagt
+- TOP 11.11: Pandemie; ein paar wenige machen Kasse? - vertagt
+- TOP 11.12: Radialroute RR 10 sicherer machen - schriftlich beantwortet
+- TOP 11.13: Ankauf von Wohnungsbeständen geplant? - schriftlich beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Vorbereitung der Wahl des Bezirksbeirats für Partizipation in der Migrationsgesellschaft - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Sprechstunde für Betroffene rassistischer Vorfälle - in der BVV abgelehnt
+- TOP 12.3: Geschäftsstelle der Bezirksbeauftragten für Partizipation in der Migrationsgesellschaft - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Saubere Entsorgung sicherstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Alle im Rathaus Neukölln Tätigen auch im Rathaus Neukölln auf Corona testen! - in der BVV abgelehnt
+- TOP 12.6: „ALBA macht Schule“ sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Notfallschalter für Ausweisdokumente im Bürgerbüro - in der BVV abgelehnt
+- TOP 12.8: Kopftuchverbot für Schülerinnen bis einschließlich Klasse 6 - in der BVV abgelehnt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Neupflanzungen - schriftlich beantwortet
