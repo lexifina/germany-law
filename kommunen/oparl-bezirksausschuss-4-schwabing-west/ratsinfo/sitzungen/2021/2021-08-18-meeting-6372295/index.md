@@ -1,0 +1,109 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2021-08-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6372295
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6372295
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.2: Baumfällungen
+- TOP 2.1: Kultur
+- TOP 2.1.3.: Zwischennutzung des Maschinenhauses
+- TOP 2.2: Wirtschaft
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP 6.1.: Bundestagswahl am 26. September 2021: Einteilung der Wahlbezirke und Wahlräume
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein der Städtischen Hermann-Frieb-Realschule e.V. Mediatoren-Seminar vom 22. - 24.09.2021 665,10 Euro, Az.: 0262.0-4-0350
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Erlass von Erhaltungssatzungen: Satzungsbeschlüsse u.a. Erhaltungssatzung „Rümannstraße“ (Anhörung zum Beschlussentwurf für den Stadtrat)
+- TOP 2.2.: Abschlusstektur Hohenzollernstraße 59, geänderte Wohnaufteilung / Gewerbeeinheit / Tiefgarage
+- TOP 2.3.: Kreuslinstr. 7-7a: Aufstockung 5.OG + DG, Anbau eines Außenaufzugs, Errichtung von Balkonen, Neubau einer Duplexgarage mit 6 Stellplätzen a) Bauvorhaben b) Vollzug der Baumschutzverordnung
+- TOP 2.4.: Kaiserstr. 71: Abbruch und Neuerrichtung von Balkonen, Neubau einer Gaube und eines Balkons, Genehmigung einer alten bestehenden Gaube und des Balkons
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Nachfragen zur Umwandlung von Mietwohnungen in der Wohnanlage Schleißheimer Str. 238-244/Gernotstr. 1-9 (Antworten der LBK und des Amtes für Wohnen und Migration sowie des Grundbuchamts auf BA-Schreiben vom 24.06.2021)
+- TOP 3.1.2.: Tektur Friedrichstr. 29 (Antwort der LBK auf BA-Nachfrage vom 22.07.2021 zur Verkleinerung der Balkone)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: (U) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) 2021 B. Anträge 1. Den Horizont erweitern – Sozialgerechte Bodennutzung und Bodenvorratspolitik anderer Städte vorstellen Antrag Nr. 14-20 / A 04310 von der Fraktion DIE GRÜNEN/RL vom 20.07.2018 2. Mehr dauerhaft bezahlbarer Wohnraum III: Mit der neuen SoBoN mehr bezahlbaren Wohnraum schaffen und dauerhaft sichern Antrag Nr. 14-20 / A 06746 von der Fraktion DIE GRÜNEN/ROSA LISTE vom 11.02.2020 3. Mehr dauerhaft bezahlbares Wohnen Antrag Nr. 14–20 / A 06968 von der SPD-Stadtratsfraktion vom 10.03.2020 4. SoBoN-Novelle 2020/2021: München braucht mehr geförderten Wohnraum Antrag Nr. 20-26 / A 00707 von der Fraktion DIE LINKE./Die PARTEI vom 18.11.2020
+- TOP 3.2.2.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2019 bis 2040 für die Landeshauptstadt
+- TOP 3.2.3.: (U) Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2019 bis 2040 für die Stadtbezirke
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Protokoll der Sitzung des städtischen Mieterbeirats vom 12.07.2021
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Umsetzung kurzfristiger Infrastrukturmaßnahmen zugunsten von Radfahrenden und zu Fuß Gehenden
+- TOP 3.1.2.: Verantwortungsvoller Umgang mit E-Scootern
+- TOP 3.1.3.: Bitte um verstärkte Kontrollen am Ackermannbogen: Georg-Birk-Straße und Petra-Kelly-Straße (Zwischennachricht des Mobilitätsreferats zu weitergeleitetem Bürgeranliegen aus der Juli-Sitzung)
+- TOP 3.1.4.: Zusätzliche Fahrradabstellmöglichkeiten in der Schleißheimer Straße (Antwort des Baureferats auf BA-Antrag Nr. 20-26 / B 02276 vom 28.04.2021)
+- TOP 3.2.1.: Pilotversuch Arcisstr. 65 (Seite Agnesstraße): Umwandlung von Kfz-Stellplätzen in eine ParkenDual Zone
+- TOP 3.3.1.: Trinkwasserprojekt Schleißheimer Straße (Infoflyer der Stadtwerke München)
+- TOP 3.3.2.: Stromprojekt Netztrafostation Ansprengerstraße (Infoflyer der Stadtwerke München)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2022 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Die Provinzen erschließen – Den Münchner Osten kolonialisieren Antrag Nr. 20-26 / A 00363 von der Fraktion ÖDP / FW vom 14.08.2020 Anbindung des Interims-Gasteig sicherstellen und Anwohnerparkplätze sichern Antrag Nr. 20-26 / A 00914 von der CSU-Fraktion vom 23.12.2020 Bessere ÖPNV-Anbindung von Schwabing an Neuhausen und den Hauptbahnhof – Tram 23 mit den Linien 12 und 28 verknüpfen Antrag Nr. 20-26 / A 01088 von der FDP BAYERNPARTEI Stadtratsfraktion vom 22.02.2021 Gasteig HP8 - verkehrliche Anbindung sicherstellen! Antrag Nr. 20-26 / A 01450 von der CSU-Frakion vom 17.05.2021 Bus-Osttangente planen und einrichten ! Antrag der Fraktion Bündnis`90 / Die Grünen Antrag Nr. 14-20 / B 07086 des Bezirksausschusses des BA 17 – Obergiesing vom 19.11.2019 Bus-Osttangente planen und einrichten! Unterstützung des BA-Antrags Nr. 14-20 / B 07086 des BA 17 durch den BA 16 Antrag Nr. 14-20 / B 07247 des Bezirksausschusses des Stadtbezirkes 16 – Ramersdorf-Perlach vom 05.12.2019 etc. siehe Sitzungsvorlage
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Adams-Lehmann-Str. 14-16: Fällung mehrerer Eschen
+- TOP 2.1.2.: Rümannstr. 21-31 (Vorgarten am Garagenbau): Fällung einer Bergkirsche
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Trainingsplatz für Senior*innen im Bayernpark verbessern
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Grundsatzbeschluss I Umsetzung Klimaziele München Erlass einer Klimasatzung Erlass einer Klimaratssatzung
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Genehmigungsbescheid für Stadtterrasse Viktor-Scheffel-Str. 1
+- TOP 3.4.2.: Genehmigungsbescheid für Stadtterrasse Adams-Lehmann-Straße
+- TOP 3.4.3.: Neues Mähkonzept für das Straßenbegleitgrün – Pilotprojekt im Stadtbezirk 4: Mitteilung des Baureferats Gartenbau zur ersten Mahd 2021
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative "Stadtterrasse Bauerstraße 36" Stadtterrasse Bauerstraße 36 vom 22.07. - 30.10.2021 255,00 Euro, Az.: 0262.0-4-0351
+- TOP 2.1.2.: Bereits bewilligter Zuschuss an die Chorbande Schwabing für „Die Zauberflöte“: Anhörung zu Verschiebungen in der Kostenaufstellung (Endsumme bleibt unverändert)
+- TOP 2.1.4.: (E) Stadtbezirksbudget schwere reiter GbR Ausstellung "riding heavily ever after" vom 16.09. - 22.09.2021 3.000,00 Euro, Az.: 0262.0-4-0352
+- TOP 2.2.1.: Gaststätte „Levante“, Franz-Joseph-Str. 45: Erweiterung der bestehenden Freischankfläche
+- TOP 2.2.2.: „Belgrad Kiosk“, Belgradstr.8, Genehmigung einer Freischankfläche
+- TOP 2.2.3.: Hohenzollersstr. 50, Genehmigung einer Freischankfläche (Kleinstfläche)
+- TOP 2.2.4.: Gaststätte Rheinpfalz, Kurfürstenstr. 35: Einrichtung eines Schanigartens
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.3.1.: „Sex, Zimmer. Küche, Bad“ am 20.07.2021 am Pündterplatz
+- TOP 3.3.2.: „Aktenzeichen XY“ in der Nacht vom 04. bis 05.08.2021 am Hohenzollernplatz
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Garbo by the sea“, Kaiserstr. 67
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz (Anhörung der Bezirksausschüsse zu notwendigen Anpassungen in der Anlage 1 der BA-Satzung „Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse)
+- TOP H: Termine
