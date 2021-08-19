@@ -1,0 +1,124 @@
+# 55. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2021-08-19T17:00:00+02:00
+- Ende: 2021-08-19T22:10:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4892
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4892
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=320768
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 4.1: Offene Drucksachen der Bezirksverordnetenversammlung Lichtenberg VI. und VII. Wahlperiode - vertagt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Zuschuss für die Verwendung von Mehrwegwindeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Hundetoilette in der Rosenfelder Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Spreeufer in Lichtenberg und Treptow-Köpenick gezielt entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Flächennutzungsplan für die Anlage Falkenhöhe 1932 ändern - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Finanzielle Sicherung von Alpha-Bündnis - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Haushaltstitel: "Präventionsbudget" schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Frühzeitige Information über geplante Baumfällungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Zielvereinbarung zwischen Bürgern und Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Straßenbahngleise bis zur Landsberger Allee (M6) erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Öffentlichen Sport an der Trabrennbahn ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Taubenpopulation kontrollieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Hartung`sche Säulen erhalten und ausstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Verkehrsberuhigung im Fennpfuhlweg - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Verkehrsberuhigung in Anwohnerstraßen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Tauben auf der Fußgängerbrücke am S-Bahnhof Storkower Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Task Force Ordnung und Sauberkeit einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Das Tierwohl sichern - Die Personalsituation der Veterinär- und Lebensmittelaufsicht verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Fahrradstraße in Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Sportfläche Hauptstraße 8 - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: Tempo 30 auf der Hauptstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Das Ehrenamt im Sport politisch und finanziell stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.22: Schulbau und Sportflächen an der Hauptstraße 8 und 9 ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.23: Freier Zugang zu Menstruationsartikeln in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Bebauungsplan 11-47ba - Ergebnis der erneuten Rechtsprüfung; Arbeitstitel: Parkstadt Karlshorst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.25: Vorhabenbezogener Bebauungsplan 11-118 VE - Planreife Bauteil 1 - 4; Arbeitstitel: Landsberger Allee 341/343 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.26: Gedenkveranstaltung „Schreiben gegen das Vergessen“ in Lichtenberg etablieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.27: Sportgeräte in der Wartenberger Feldmark erweitern - überwiesen
+- TOP 5.28: Straßenentwässerung in der Marie-Elisabeth-von-Humboldt-Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: Hundesport in Lichtenberg halten! - überwiesen
+- TOP 5.30: Verkehrsspiegel für mehr Sicherheit - überwiesen
+- TOP 5.31: Bereitstellung von Unterlagen zu Bebauungsplänen - ohne Änderungen in der BVV beschlossen
+- TOP 5.32: Ein Discgolf-Parcours für das Gensinger Viertel - überwiesen
+- TOP 5.33: Sichere Straßenüberquerung ermöglichen - überwiesen
+- TOP 5.34: 1 Verkehrsorganisatorische Maßnahmen im Stadtteil Fennpfuhl - ohne Änderungen in der BVV beschlossen
+- TOP 5.35: 2 Verkehrsorganisatorische Maßnahmen im Stadtteil Fennpfuhl - ohne Änderungen in der BVV beschlossen
+- TOP 5.36: 3 Verkehrsorganisatorische Maßnahmen im Stadtteil Fennpfuhl - ohne Änderungen in der BVV beschlossen
+- TOP 5.37: Bewältigung des Reisebusverkehrs von Touristengruppen zur Gedenkstätte Hohenschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.38: Mehr Auszubildende im Kita Eigenbetrieb NordOst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.39: Geschwindigkeitsüberwachung und Geschwindigkeitsreduzierung in der Zechliner Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.40: Zwieseler Straße instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.41: Betriebsräte stärken - Mehr Demokratie in Lichtenberger Unternehmen wagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.42: Maßnahmen für den Katastrophenschutz - Gebäudequalität - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.43: Maßnahmen für den Katastrophenschutz - Fahrzeugausstattung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.44: Drucksache 0931/VII - "Nachpflanzung von Koniferen an den Stelen am Tierpark" endlich umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.45: Jugend-Engagementpreis einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.46: Vandalismusschäden im Grünzug Kraatz/Tränkegraben im Bereich Betriebsbahnhof Rummelsburg beseitigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.47: Vorfahrt ändern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.48: Safe Place für obdachlose Menschen in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.49: Sicherheit und Sauberkeit am Elefantenspielplatz erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.50: Durchführung von Erholungsreisen in den Sommerferien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.51: Öffnung der Seniorenbegegnungsstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.52: Besseren Bürgerservice ermöglichen - Terminchaos auflösen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.53: 4. Handlungskonzept 2021 bis 2025 für die Arbeit mit Seniorinnen und Senioren im Bezirk Lichtenberg - überwiesen
+- TOP 5.54: Zielvereinbarung zur gesamtstädtischen Steuerung der Bürgerämter zur Verbesserung der Servicequalität - überwiesen
+- TOP 5.55: Ausübung des Vorkaufsrechts gemäß § 24 Abs. 1 Nr. 4 BauGB in den sozialen Erhaltungsgebieten im Bezirk Lichtenberg für das Grundstück Pfarrstraße 114 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.56: Bezirkseigene Vorlage für strategische Fachpläne der Fachämter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.57: Antrag auf die Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens für das Gelände zwischen Egon-Erwin-Kisch-Straße, östlicher Bahnhofsvorplatz S-Bahnhof Wartenberg, Bahngelände und Egon-Erwin-Kisch-Straße 14 im Bezirk Lichtenberg, Ortsteil Neu-Hohenschönhausen - überwiesen
+- TOP 5.58: Bebauungsplan 11-14ba; Arbeitstitel: „An der Treskowallee" - überwiesen
+- TOP 5.59: Bebauungsplan 11-14bb; Arbeitstitel: „Trabrennbahn Karlshorst I“ - überwiesen
+- TOP 5.60: Bebauungsplan 11-107 - Festsetzung; Arbeitstitel: Nördlich Schleizer Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.61: Bebauungsplan 11-9c - zweite erneute öffentliche Auslegung und sechste erneute Beteiligung der Behörden; Arbeitstitel: östlich Konrad-Wolf-Straße 45-46 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.62: Bebauungsplan 11-180B - Aufstellungsbeschluss; Arbeitstitel: Vulkanstraße/Herzbergstraße nördlich Bebauungsplan 11-181B - Aufstellungsbeschluss; Arbeitstitel: Herzbergstraße nördlich/Siegfriedstraße Bebauungsplan 11-182B - Aufstellungsbeschluss; Arbeitstitel: Vulkanstraße/Herzbergstraße südlich Bebauungsplan 11-183B - Aufstellungsbeschluss; Arbeitstitel: Herzbergstraße südlich/Straße 15/Siegfriedstraße Bebauungsplan 11-184B - Aufstellungsbeschluss; Arbeitstitel: Herzbergstraße 64 - 76 - überwiesen
+- TOP 5.63: Vorschläge zum Bürgerhaushalt; Beschlussempfehlungen des Begleitgremiums II. Quartal 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Beteiligung der Öffentlichkeit am Wettbewerbsverfahren für das Urbane Zentrum Neu-Hohenschönhausen - beantwortet
+- TOP 7.2: Bündnis für Einkaufscenter - beantwortet
+- TOP 7.3: Wirtschaftsflächenkonzept - beantwortet
+- TOP 7.4: Seniorenhandlungskonzept - schriftlich beantwortet
+- TOP 7.5: Sperrmüllaktionstage in Lichtenberg - DS/1781/VIII - schriftlich beantwortet
+- TOP 7.6: Investitionen in die Verkehrsinfrastruktur - schriftlich beantwortet
+- TOP 7.7: Mauritiuskirch-Center - schriftlich beantwortet
+- TOP 7.8: Runder Tisch Dong Xuan Center - schriftlich beantwortet
+- TOP 7.9: Drive-in-Impfzentrum - schriftlich beantwortet
+- TOP 7.10: Weiterbetrieb des Clubs OXI - schriftlich beantwortet
+- TOP 8: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 9: Prioritäten der Fraktionen - (offen)
+- TOP 9.1: Grüne Höfe im Nibelungenviertel planungsrechtlich sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Den Grünen Hof in der Joachimsthaler Str. 1-7/Plauener Str. 8-26 erhalten - überwiesen
+- TOP 9.3: Einwohnerantrag „Hände weg von den grünen Lichtenberger Innenhöfen“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Spuren von Autobrandstiftungen zügig beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Fragen zur Situation des Tuberkulosezentrums in Lichtenberg (TBZ) - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - erledigt
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Verkehrskonzepte als Planungsgrundlage für das Bezirksamt - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Entwicklungsplan für Seniorenbetreuung - vertagt
+- TOP 12.3: Präzisierung der Investitionsplanung für die Jahre 2021 - 2025 - vertagt
+- TOP 12.4: Den Park am Gehrensee aufwerten - vertagt
+- TOP 12.5: Verkehrsberuhigung in der Rummelsburger Bucht - vertagt
+- TOP 13: Anträge zur Beschlussfassung - (offen)
+- TOP 13.1: Dem Klimawandel begegnen – Vorsorge für eine lang andauernde extreme Wärmebelastung treffen - vertagt
+- TOP 13.2: E-Mobilität fördern - vertagt
+- TOP 13.3: Teilweise Änderung der Zielsetzung des B-Planverfahrens XVII-20 - vertagt
+- TOP 13.4: Ersatz für abgebaute Spielgeräte - vertagt
+- TOP 13.5: Garagenstandort Zwieseler Straße erhalten - vertagt
+- TOP 13.6: Aktualisierte Schulentwicklungsplanung zeitnah vorlegen - vertagt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Der Radverkehrswende Schwung geben - Weitere Stellen für Radverkehrsplaner*innen im Bezirksamt schaffen - vertagt
+- TOP 14.2: Wut der Bürger stoppen - politische Lösung finden, Baustopp erwirken und Schulbau absichern - vertagt
+- TOP 14.3: Antrag über die Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens an der Lindenberger Straße 33 - 47 - vertagt
+- TOP 15: Geschäftliche Mitteilungen und Vorlagen des Vorstandes - gegenstandslos
