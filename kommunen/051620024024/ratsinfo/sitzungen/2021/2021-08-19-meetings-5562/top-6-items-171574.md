@@ -1,0 +1,8 @@
+# TOP 6: Antrag des ZIN e.V. auf Erlass einer ordnungsbehördlichen Verordnung zur Öffnung der Geschäfte in der Innenstadt für das Jahr 2021 gemäß Ladenöffnungsgesetz NRW
+
+- Sitzung: Haupt- und Sicherheitsausschuss (2021-08-19)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/171574
+- Ergebnis: abgesetzt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/29863
