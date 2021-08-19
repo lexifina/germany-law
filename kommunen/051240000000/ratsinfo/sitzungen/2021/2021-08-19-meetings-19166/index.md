@@ -1,0 +1,61 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Uellendahl-Katernberg
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-08-19T19:00:00+02:00
+- Ende: 2021-08-19T21:55:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19166
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19166
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00276167.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00277419.pdf
+
+## Tagesordnung
+
+- TOP 1: Controllingliste
+- TOP 2: Anfragen und Anregungen an die Verwaltung
+- TOP 3: Berichte und Mitteilungen
+- TOP 4: Jugendrat
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1: Einrichtung einer Tempo 30-Strecke in der Kohlstraße - vertagen
+- TOP 7: Anfragen und Anträge von Fraktionen
+- TOP 7.1: Parksituation Kruppstraße - Anfrage der FDP - Entgegennahme ohne Beschluss
+- TOP 7.2: Prüfung, ob die Schulbushaltestelle In der Beek/Richard-Seel-Weg den Anforderungen an die Sicherheit des Schulweges entspricht - Anfrage B90/Grüne - Entgegennahme ohne Beschluss
+- TOP 7.3: Verwendung der Geschwindigkeitsdisplays in unserem Bezirk - Anfrage B90/Grüne - Entgegennahme ohne Beschluss
+- TOP 7.4: Errichtung eines Wochenmarktes am Dönberg - Antrag DIE LINKE - geändert beschlossen
+- TOP 7.5: Ampelschaltung Kuckelsberg/ Nevigeser Straße Antrag der SPD - ungeändert beschlossen
+- TOP 7.6: Infotafel Ehrenmal - Antrag der SPD - geändert beschlossen
+- TOP 7.7: Geschwindigkeitsdisplay - Antrag der SPD - geändert beschlossen
+- TOP 7.8: Antrag Sachstandsbericht Schulwegsicherung Grundschule Kruppstraße - Antrag B90/Grüne - ungeändert beschlossen
+- TOP 7.9: Fußweg In der Beek durchgängig begehbar machen - Antrag B90/Grüne - ungeändert beschlossen
+- TOP 7.10: Antrag Gewässerschau - Antrag B90/Grüne - geändert beschlossen
+- TOP 7.11: Koordinierung der Ampelschaltung an der Asbrucher Straße - Antrag B90/Grüne - ungeändert beschlossen
+- TOP 7.12: Errichtung einer Tempo 30 Strecke Straße "Am Elisabethheim" - vertagen
+- TOP 7.13: Aufstellung einer Sitzbank - Antrag der CDU - ungeändert beschlossen
+- TOP 7.14: Spielplatz Jahnplatz - Antrag der CDU - ungeändert beschlossen
+- TOP 8: Umbau und Revitalisierung des Freibades Mirke zu einem Naturerlebnisbad mit biologischer Wasseraufbereitung und Bürgerpark durch den Betreiberverein Pro Mirke e.V. - ungeändert beschlossen
+- TOP 9: Projektideen im Rahmen des Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 10: Einführung der Vorhabenkarte - ungeändert beschlossen
+- TOP 11: Bebauungsplan 810 A - Uellendahler Straße/ Zamenhofstraße - 3. Änderung des Bebauungsplanes (mit Flächennutzungsplanberichtigung 118B) - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 12: Bebauungsplan 1263 - Röttgen / Am Deckershäuschen - - ungeändert beschlossen
+- TOP 13: Ausgleichsflächen im Bezirk - Beantwortung von Fragen der BV - Entgegennahme ohne Beschluss
+- TOP 14: Antwort der Verwaltung zu der Anfrage der CDU-Fraktion vom 26.05.2021 - Nevigeser Straße - Entgegennahme ohne Beschluss
+- TOP 15: Ausbau Nevigeser Straße - Entgegennahme ohne Beschluss
+- TOP 16: Sicherung der Gefahrensituation auf der Nevigeser Straße in Höhe Hausnummer 392 - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 17: Voraussetzungen zur Einrichtung einer Temporeduzierung auf 30 km/h - vertagen
+- TOP 18: Einrichtung einer Tempo 30-Strecke in der Höhenstraße - vertagen
+- TOP 19: Einrichtung einer Tempo-30- Strecke im Westfalenweg zwischen Nevigeserstraße und Hainstraße - vertagen
+- TOP 20: Einrichtung einer Tempo 30 Zone Birkenhöhe - vertagen
+- TOP 21: Einrichtung einer Tempo-30-Zone in der Vogelsangstraße - vertagen
+- TOP 22: Parksituation Am Raukamp - Entgegennahme ohne Beschluss
+- TOP 23: Ein Wuppertal für Alle - Fortschreibung des Handlungsprogramms zur Wuppertaler Inklusionspolitik 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 24: Mittelvergabe
+- TOP 24.1: Antrag evangelische Kirchengemeinde Dönberg Schrankwand für den Kindergarten 3.500,-€
+- TOP 24.2: Antrag Förderverein Denkmalschutz und Denkmalpflege im Uellendahl Stromversorgung des Belvedere-Turms Kohlstraße 5.000,-€
+- TOP 24.3: Antrag auf GfG-Mittel Parkhilfe Mirker Hain 2.800,-€
+- TOP 24.4: Antrag Mittel für die Schwimmbäder Mirke und Eckbusch 10.000,-€
+- TOP 24.5: Antrag freie Mittel Poller-Entfernung zum Julius-Lucas-Weg 1.000,-€
+- TOP 24.6: Antrag freie Mittel Oase 4.500,-€
