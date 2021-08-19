@@ -159,6 +159,8 @@
 - [§ 78m Verordnungsermächtigung zum Notarverzeichnis](0078m.md)
 - [§ 78n Besonderes elektronisches Notarpostfach; Verordnungsermächtigung](0078n.md)
 - [§ 78o Beschwerde](0078o.md)
+- [§ 78p Videokommunikationssystem für Urkundstätigkeiten; Verordnungsermächtigung](0078p.md)
+- [§ 78q Gebührenerhebung für das Videokommunikationssystem](0078q.md)
 - [§ 79 Organe](0079.md)
 - [§ 80 Präsidium](0080.md)
 - [§ 81 Wahl des Präsidiums](0081.md)

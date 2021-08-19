@@ -149,6 +149,8 @@ Bundesnotarkammer
 | § 78m | Verordnungsermächtigung zum Notarverzeichnis |
 | § 78n | Besonderes elektronisches Notarpostfach; Verordnungsermächtigung |
 | § 78o | Beschwerde |
+| § 78p | Videokommunikationssystem für Urkundstätigkeiten; Verordnungsermächtigung |
+| § 78q | Gebührenerhebung für das Videokommunikationssystem |
 | § 79 | Organe |
 | § 80 | Präsidium |
 | § 81 | Wahl des Präsidiums |
