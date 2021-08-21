@@ -12,6 +12,7 @@
 - [§ 6 Leistungserbringung](0006.md)
 - [§ 7 Abrechnung der Leistungen](0007.md)
 - [§ 7a Abrechnungsprüfung](0007a.md)
+- [§ 7b Abrechnung der Leistungen der Apotheken bei der Erstellungdes COVID-19-Genesenenzertifikates im Sinne des § 22 Absatz 6 des Infektionsschutzgesetzes](0007b.md)
 - [§ 8 Verwaltungskostenersatz der Kassenärztlichen Vereinigungen](0008.md)
 - [§ 9 Vergütung von Leistungen der Labordiagnostik mittels Nukleinsäurenachweis (PCR und weitere Methoden der Nukleinsäureamplifikationstechnik) oder für eine variantenspezifische PCR-Testung](0009.md)
 - [§ 10 Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test](0010.md)
