@@ -1,0 +1,8 @@
+# TOP 6: Änderung und Ergänzung zum OGS-Sammelbeschluss vom 19.09.2019 (SCHUA/015/2019) und Änderung zum SOM-VI-Beschluss vom 13.12.2018 (Vorlage 40/73/2018-1)
+
+- Sitzung: Schulausschuss (2021-08-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/303046
+- Ergebnis: Empfehlung einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/112112
