@@ -1,0 +1,61 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-08-24T15:00:00+02:00
+- Ende: 2021-08-24T17:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23719
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23719
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag auf Durchführung einer Aktuellen Stunde gem. § 5 Geschäftsordnung des Rates zur Situation im Ausländeramt - ungeändert beschlossen
+- TOP -: Aktuelle Stunde zur Situation im Ausländeramt
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung der Anfrage der Grün Offenen Liste (GOL) zum Sachstand herkunftssprachliche bilinguale Kitagruppen - Kenntnis genommen
+- TOP 3.2: Beantwortung der Anfrage vom Bündnis14 Afrika zur Anfrage zur psychiatrischen und psychotherapeutischen Versorgung von Migrant*innen in Kölner Kliniken, LVR Klinken - Kenntnis genommen
+- TOP 3.3: Beantwortung der Anfrage der Ratsfraktion Volt, vom 21.04.2021, AN/0888/2021; betr. Sachstand Hallen Kalk und DoMiD e.V. - Kenntnis genommen
+- TOP 3.4: Beantwortung der Anfrage von Toni Abbruscato, SPD-Liste, zur kriegsverherrlichenden Veranstaltung auf dem Heumarkt - Kenntnis genommen
+- TOP 3.5: Beantwortung der Anfrage der Grün Offenen Liste (GOL) zu Weiterbildungsangebote für städtische Mitarbeitende zu Rassismuskritik und Diversitätssensibilität - Kenntnis genommen
+- TOP 3.6: Beantwortung der Anfrage der SPD Liste/ SPD Fraktion im Integrationsrat zu "Lange Wartezeiten bei der Ausländerbehörde" - Kenntnis genommen
+- TOP 3.7: Beantwortung der Anfrage von Grün offene Liste (GOL) zur Rückgabe der sogenannten Benin-Bronzen, Gesprächsrunde am 29. April 2021 (TOP 4.3 in der Sitzung des Integrationsrates am 01.06.2021) - Kenntnis genommen
+- TOP 3.8: Beantwortung der Anfrage "Partizipation migrantischer Einrichtungen an den Mitteln, die im Jugendhilfeausschuss vergeben werden" - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Aufholen nach Corona – Nachholprogramme für pandemiebedingte Lernrückstände - zurückgestellt
+- TOP 4.2: Verwendung der Integrationspauschale des Landes NRW - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Nationalitäten in Köln – Entwicklung und Status Quo der Immigration - Kenntnis genommen
+- TOP 5.2: SeniorenNetzwerke Köln: Auszeichnung im Projekt „Nordrhein-Westfalen – hier hat alt werden Zukunft“ - Kenntnis genommen
+- TOP 5.3: Monitoringbericht 2020: allgemeinbildende Schulen und Berufskollegs, bildungsstatistische Analysen und kommunale Steuerungsansätze - Kenntnis genommen
+- TOP 5.4: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 5.5: Impfung von durch die Stadt Köln untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 5.6: Mitteilung zum Kölner Gesundheitswegweiser - Kenntnis genommen
+- TOP 5.7: Abschlussbericht Projekt Bildungskoordination für Neuzugewanderte (Projektende 30.06.2021) - Kenntnis genommen
+- TOP 5.8: talentCAMPus 2021 - "Ich bin Du" - Kenntnis genommen
+- TOP 5.9: „Weiteres Vorgehen zur Verstetigung und zum Ausbau einer integrierten, strategischen Sozialplanung auf Basis der Erkenntnisse des Lebenslagenberichts“ – Umsetzung des Ratsbeschlusses 0615/2020 vom 24.06.2021 - Kenntnis genommen
+- TOP 5.10: Wahl der Seniorenvertretung Köln 2021: Informationsquellen und Termine - Kenntnis genommen
+- TOP 5.11: Umsetzung des Ratsbeschlusses vom 23.03.2021 „Geflüchtete aus Seenotrettung, griechischen Lagern und aus der bosnisch-kroatischen Grenzregion aufnehmen“ - Kenntnis genommen
+- TOP 5.12: House of Resources in Köln - Kenntnis genommen
+- TOP 5.13: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen im 1. Halbjahr 2021 - Kenntnis genommen
+- TOP 5.14: Mitteilung zur Nachfrage zum 31. Bericht zur Situation Geflüchteter bzgl. nicht sichtbarer Behinderungen - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Ombudsstelle für Geflüchtete in Köln - Verlängerung der Befristung bis Ende 2023 - ungeändert beschlossen
+- TOP 8.2: Wahl der stellvertretenden Vorsitzenden der Arbeitskreise des Integrationsrates - ungeändert beschlossen
+- TOP 8.3: Bennennung eines Mitglieds des Integrationsrates als außerordentliches Mitglied im "Kölner Forum gegen Rassismus und Diskriminierung" - ungeändert beschlossen
+- TOP 8.4: Bennennung eines Mitglieds des Integrationsrates für den Beirat der Verbraucherzentrale NRW / Beratungsstelle Köln - ungeändert beschlossen
+- TOP 8.5: Mindeststandards zur Unterbringung und Betreuung Geflüchteter - Verlängerung Maßnahmen vom 01.01.2022 bis 31.12.2023 - ungeändert beschlossen
+- TOP 8.6: Fortsetzung der Maßnahme „Willkommen und Ankommen in Köln“ für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 8.7: Beratung des Haushaltsplan-Entwurfs 2022 - ungeändert beschlossen
+- TOP -: Zusatzantrag zum Haushaltsplanentwurf 2022 - ungeändert beschlossen
+- TOP 8.8: Förderung rassismuskritischer Projekte / 2.Schritt - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
