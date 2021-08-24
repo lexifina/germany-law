@@ -3,6 +3,7 @@
 Abschnitt 1
 Allgemeine Vorschriften
 | § 1 | Studium |
+| § 1a | Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie |
 | § 2 | Ziele des Studiums |
 | § 3 | Dienstbehörde |
 | § 4 | Ausbildungsbehörden |

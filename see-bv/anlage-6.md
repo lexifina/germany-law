@@ -1,18 +1,138 @@
 # Anlage 6 (zu den §§ 39, 40)Anforderungen an die Ausbildung in der Metallbearbeitung
 
 Eine Ausbildung in der Metallbearbeitung muss mindestens folgende Kenntnisse, Verständnisse und Fachkunde vermitteln:
-1. Planen und Vorbereiten von Arbeitsabläufen sowie Kontrollieren und Bewerten der Arbeitsergebnisse,
-2. Lesen, Anwenden und Erstellen von technischen Unterlagen,
-3. Unterscheiden, Zuordnen und Verwenden von Werk-, Hilfs- und Betriebsstoffen,
-4. Prüfen, Messen, Lehren,
-5. Anreißen, Körnen, Kennzeichnen,
-6. Ausrichten und Spannen von Werkzeugen und Werkstücken,
-7. manuelles und maschinelles Spanen,
-8. Bohren, Senken, Reiben,
-9. Drehen,
-10. Sägen,
-11. Anschleifen,
-12. Trennen,
-13. Umformen,
-14. Fügen,
-15. Lichtbogenschweißen, Gasschmelzschweißen, Löten.
+Metallbearbeitung in einer Lehrwerkstatt bzw. überbetrieblichen Ausbildungsstätte
+1. Planen und Vorbereiten von Arbeitsabläufen, Kontrollieren und Bewerten der Arbeitsergebnisse
+1.1 Festlegen der Arbeitsschritte (Arbeitsdurchführung bis Qualitätskontrolle)
+1.2 Einschätzen des Teilebedarfs und der Arbeitsmittel
+1.3 Auswählen der Prüf- und Messmittel zur Kontrolle der Arbeitsergebnisse
+1.4 Vorbereiten von Halbzeugen, Werkstücken, Spannzeugen, Werkzeugen, Prüf- und Messzeugen und weiteren Hilfsmitteln
+1.5 Einrichten des Arbeitsplatzes
+1.6 Kontrollieren des Arbeitsergebnisses und Bewerten bei Abweichungen vom Sollmaß
+2. Lesen, Anwenden und Erstellen von technischen Unterlagen
+2.1 Lesen, Verstehen und Anwenden von Teil-, Gruppen- und Explosionszeichnungen, technischen Unterlagen und Betriebsanleitungen
+2.2 Anfertigen von Skizzen
+2.3 Anwenden von Normen und Toleranzen
+3. Unterscheiden, Zuordnen und Verwenden von Werk-, Hilfs- und Betriebsstoffen
+3.1 Unterscheiden der Werkstoffeigenschaften von Eisenmetallen, Nichteisenmetallen, Kunst- und Naturstoffen
+3.2 Auswählen der Werkstoffe unter Berücksichtigung ihrer Eigenschaften
+3.3 Auswählen der Bearbeitungsmethode nach dem Verwendungszweck
+3.4 Verwenden von technischen Bezeichnungen von Werkzeugen (Hämmer, Anreißwerkzeuge, Meißel, Sägen, Feilen, Zangen, Schneider, Schraubendreher, Schraubenschlüssel sowie Prüfgeräte)
+3.5 Unterscheiden, Zuordnen und Auswählen von verschiedenen Betriebs- und Hilfsstoffen nach ihrem Verwendungszweck
+4. Prüfen und Messen
+4.1 Auswählen von Prüf- und Messgeräten nach dem Verwendungszweck
+4.2 Messen von Längen mit Strichmaßstäben, Messschiebern und Messschrauben unter Beachtung von systematischen und zufälligen Messfehlern
+4.3 Messen von Winkeln mit Winkelmessern sowie Prüfen mit feststehenden Winkeln
+4.5 Prüfen der Ebenheit von Flächen mit Lineal und Winkel nach dem Lichtspaltverfahren
+4.6 Prüfen der Formgenauigkeit mit Rundungslehren
+4.7 Prüfen der Maßgenauigkeit mit festen und verstellbaren Lehren
+4.8 Prüfen der Oberfläche auf Verschleiß und Beschädigung
+4.9 Erklären von Grenzmaßen, Toleranzen, Funktionen und Materialbeschaffenheit von gefügten Bauteilen
+4.10 Erstellen von Mess- und Prüfprotokollen
+5. Anreißen, Körnen und Kennzeichnen
+5.1 Zitieren der Arbeitsregeln beim Anreißen und Körnen
+5.2 Anreißen von Werkstücken unter Beachtung der Werkstoffeigenschaften und -oberflächen
+5.3 Körnen von Bohrungsmittelpunkten sowie Kontroll- und Messpunkten
+5.4 Kennzeichnen von Werkstücken und Bauteilen
+6. Ausrichten und Spannen von Werkzeugen und Werkstücken
+6.1 Auswählen der Spannzeuge nach Größe, Form, Werkstoff sowie Bearbeitung von Werkstücken oder Bauteilen und deren Befestigungen
+6.2 Ausrichten und Spannen von Werkstücken oder Bauteilen unter Beachtung der Werkstückstabilität und des Oberflächenschutzes
+6.3 Ausrichten und Spannen von Werkzeugen
+7. Manuelles Spanen
+7.1 Auswählen von Werkzeugen nach Werkstoff, Form und Oberflächengüte des Werkstücks
+7.2 Feilen
+7.2.1 Aufführen von verschiedenen Flächen (ebene, winklige und parallele, gekrümmte und komplizierte Formen)
+7.2.2 Beschreiben von Feilenarten und Aufbau von Feilen
+7.2.3 Beschreiben der Anordnung der Schneiden und Hiebarten (Einhiebige, Raspeln und Kreuzhiebige)
+7.2.4 Beschreiben von Hiebeinteilungen (Schrupp- und Schlichtstufen von Feilen)
+7.2.5 Zitieren der Arbeitsregeln beim Feilen und Feilenwahl bis hin zur Arbeitstechnik und Pflege von Feilen
+7.2.6 Feilen von Flächen und Formen an Werkstücken aus Stahl und Nichteisenmetallen (eben, winklig und parallel auf Maß) sowie Passungen
+7.3 Sägen
+7.3.1 Zitieren der Arbeitsregeln beim Handsägen
+7.3.2 Darlegen der Kriterien für die Auswahl von Handsägen (Bügelsägen, Einstreichsägen, elektrische Handsägemaschinen, Fuchsschwanz)
+7.3.3 Beschreiben des Aufbaus von Sägewerkzeugen (Schneidenform, Zahnteilung)
+7.3.4 Identifizieren der Größe der zu berücksichtigenden Schneidwinkel und Zähnezahlen (je nach Werkstoff)
+7.3.5 Sägen von Blechen, Rohren und Profilen aus Eisen- und Nichteisenmetallen, Kunststoff und Holz nach Anriss
+7.4 Schneiden (Gewinde)
+7.4.1 Gegenüberstellen von Gewindearten (Unterscheidung nach Gewindeformen)
+7.4.2 Benennen von Werkzeugen für das Schneiden
+7.4.3 Beschreiben der Nutzung von Satzgewindebohrern (3-Satz-Schneider und Kennung)
+7.4.4 Bohren von Innengewinden und Schneiden von Außengewinden unter Beachtung von Werkstoffeigenschaften und Kühlschmierstoffen
+7.4.5 Herstellen von Rohrgewinden
+7.4.6 Aufzählen der Arbeitsschritte beim Entfernen abgebrochener Gewindebohrer
+7.5 Schleifen von Hand
+7.5.1 Beschreiben des Schleifens mit Schleifpapier, -leinen, insbesondere die Auswahl der Korngrößen
+7.5.2 Beschreiben des Läppens von Bauteilen mit Läppmittel
+8. Maschinelles Spanen
+8.1 Auswählen der Werkzeuge unter Berücksichtigung der Verfahren, der Werkstoffe und der Schneidengeometrie
+8.2 Bestimmen und Einstellen von Umdrehungsfrequenz, Vorschub und Schnitttiefe an Werkzeugmaschinen für Bohrungen mit Hilfe von Tabellen und Diagrammen
+8.3 Herstellen der Betriebsbereitschaft der Werkzeugmaschinen
+8.4 Bohren
+8.4.1 Unterscheiden von Werkzeugen zum Bohren (Wendel-/Spiralbohrer und deren Aufbau, Schneidengeometrie des Bohrers)
+8.4.2 Unterscheiden von Reiben (Bauformen von Hand- und Maschinenreibahlen)
+8.4.3 Beschreiben von Senken, Plansenken und Profilsenken (Werkzeuge zum Senken)
+8.4.4 Zitieren der Arbeitsregeln beim Bohren
+8.4.5 Erklären der Auswahl und Scharfschleifen von Wendel-/Spiralbohrern
+8.4.6 Erklären des Spannens von Bohrern (Betriebsbereitschaft)
+8.4.7 Erklären des Lösens und Einsetzens von Bohrfuttern und Bohrern mit Kegelschaft
+8.4.8 Herstellen von Bohrungen in Werkstücken aus Eisen- und Nichteisenmetallen bis zu einer Lagetoleranz von ± 0,2 mm unter Beachtung der Kühlschmierstoffe an Bohr- und Drehmaschinen mit verschiedenen Werkzeugen durch Bohren ins Volle, Aufbohren, Zentrieren und Profilsenken
+8.4.9 Herstellen von Bohrungen in Werkstücken aus Eisenmetallen bis zu einer Maßgenauigkeit IT 7 und einer Oberflächenbeschaffenheit Rz zwischen 4 und 10 μm unter Beachtung der Kühlschmierstoffe an Bohrmaschinen durch Rundreiben
+8.5 Drehen
+8.5.1 Beschreiben des Funktionsprinzips von Drehmaschinen und ihrer Baugruppen
+8.5.2 Erklären der Schnittbewegungen, Schnitttiefen und Vorschub
+8.5.3 Beschreiben der verschiedenen Drehverfahren (außen/innen)
+8.5.4 Unterscheiden der Drehwerkzeuge (Bauarten von Drehmeißeln) und Werkzeugspanner
+8.5.5 Festlegen der Arbeitsschritte zur Werkzeugherstellung (Arbeitsplanung)
+8.5.6 Herstellen von Werkstücken aus Eisen- und Nichteisenmetallen bis zur Maßgenauigkeit von ± 0,1 mm und einer Oberflächenbeschaffenheit Rz zwischen 4 und 63 μm unter Beachtung der Kühlschmierstoffe mit unterschiedlichen Drehmeißeln, durch Quer-Plan- und Längs-Runddrehen
+8.6 Schleifen
+8.6.1 Beschreiben des Funktionsprinzips elektrischer Werkstattschleifmaschinen und der Baugruppen an der Schleifmaschine
+8.6.2 Beschreiben von Handschleifmaschinen
+8.6.3 Beschreiben von Freihandwinkelschleifern
+8.6.4 Unterscheiden von Schleifmitteln (Scheiben und Anwendung)
+8.6.5 Beschreiben von Spannvorrichtungen für Schleifscheiben
+8.6.6 Erklären des Anschleifens/Scharfschleifens von Werkzeugen wie Reißnadel, Körner, Bohrer und Meißel am Schleifbock
+8.7 Sägen
+8.7.1 Beschreiben des Funktionsprinzips und der Baugruppen an der Maschinensäge
+8.7.2 Unterscheiden von Maschinensägen (horizontale und vertikale Bandsägen, Bügel- und Kreissägen)
+8.7.3 Beschreiben von Sägeverfahren (absägen, aussägen, schlitzen)
+8.7.4 Beschreiben des Aufbaus von Sägeblättern (Schneidenform, Zahnteilung, Sägeblattschliff)
+8.7.5 Auswählen der Größe der zu berücksichtigenden Schneidwinkel und Zähnezahlen (je nach Werkstoff)
+8.7.6 Beschreiben von Freihandschnitten
+8.7.7 Sägen von Werkstücken mit stationären Sägemaschinen
+9. Scheren und Trennen
+9.1 Aufführen von Bezeichnungen von Handscheren und deren Verwendung
+9.2 Zitieren von Arbeitsregeln im Umgang mit Handhebelscheren
+9.3 Schneiden von Feinblechen mit Hand- und Handhebelscheren nach Anriss
+9.4 Trennen von Rohren mit Rohrabschneidern
+9.5 Trennen, Zerspanen und Abscheren mit Meißeln
+9.6 Erklären des manuellen thermischen Trennens von Blechen, Rohren und Profilen
+10. Umformen
+10.1 Kaltes Umformen von Blechen aus Stahl und Nichteisenmetallen durch freies Runden und Schwenkbiegen mit und ohne Vorrichtungen im Schraubstock
+10.2 Kaltes Umformen von Rohren aus Stahl unter Beachtung des Wanddicken-Durchmesser-Verhältnisses
+10.3 Warmes Umformen von Blechen, Rohren und Profilen
+10.4 Biegerichten von Blechen, Rohren und Profilen
+10.5 Umformen von Werkstücken durch Treiben, Schweifen und Stauchen
+10.6 Richten (Geradebiegen)
+10.7 Benutzen von Biegevorrichtungen mit auswechselbaren Rollen
+10.8 Beschreiben der Blechumformung mit Biege/Walzenbiegemaschinen
+10.9 Zitieren der Arbeitsregeln beim Richten, Biegen und Umformen
+10.10 Beschreiben der Änderung der Stoffeigenschaften beim Härten, Anlassen, Glühen (Wärmebehandlung von Stahl)
+11. Fügen (Schraub-, Bolzen-, Stift- und Pressverbindungen)
+11.1 Prüfen der Bauteile auf Oberflächenbeschaffenheit der Fügeflächen und Formtoleranz sowie Fixieren in montagegerechter Lage
+11.2 Verbinden und Sichern von Bauteilen mit Schrauben, Muttern und Sicherungselementen unter Beachtung der Reihenfolge und des Anzugsdrehmomentes sowie der Werkstoffpaarung
+11.3 Fügen mit Schrauben, Bolzen, Stiften, Keilen
+11.4 Konstruieren von Bolzen- und Stiftverbindungen
+11.5 Konstruieren von Pressverbindungen durch Einpressungen, Keilen, Schrumpfen und Dehnen
+11.6 Konstruieren von Rohrschraubverbindungen
+11.7 Beschreiben der Arten von Passungen
+12. Fügen (Schweißen, Löten)
+12.1 Durchführen von vorbereitenden Arbeiten zum Schweißen und Löten (unter Beachtung der Maßnahmen des Brandschutzes)
+12.2 Herstellen der Betriebsbereitschaft der Schweiß- und Löteinrichtung
+12.3 Auswählen der Werkzeuge, Lote und Flussmittel nach Verwendungszweck
+12.4 Vorbereitung der Werkstücke und Bauteile zum Schweißen und Löten
+12.5 Schweißen von Feinblechen und Stahl auf Stoß
+12.6 Schweißen von Kehlnähten an Blechen und Rohren aus Stahl
+12.7 Löten von Werkstücken und Bauteilen aus Eisen- und Nichteisenmetallen unter Beachtung der Oberﬂächenbeschaffenheit der Werkstoffe und der Eigenschaften der Löthilfsstoffe
+12.8 Fügen durch Kleben
+12.9 Beschreiben der Arten und Einsatzmöglichkeiten von Klebstoffen
+12.10 Aufzählen der Arten von Schraubensicherungsmitteln (Kleber, Lack)

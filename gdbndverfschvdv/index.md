@@ -6,6 +6,7 @@
 ## Teil 1 Allgemeine Vorschriften
 
 - [§ 1 Studium](0001.md)
+- [§ 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie](0001a.md)
 - [§ 2 Ziele des Studiums](0002.md)
 - [§ 3 Dienstbehörden](0003.md)
 - [§ 4 Ausbildungsbehörden](0004.md)
@@ -65,7 +66,7 @@
 
 ### Abschnitt 1 Zwischenprüfung
 
-- [§ 40 Zweck](0040.md)
+- [§ 40 Zeitpunkt und Zweck](0040.md)
 - [§ 41 Prüfungsamt für die Zwischenprüfung](0041.md)
 - [§ 42 Gegenstand und Durchführung der Zwischenprüfung](0042.md)
 - [§ 43 Prüfende für die Zwischenprüfung](0043.md)
@@ -136,5 +137,5 @@
 ## Teil 6 Schlussvorschriften
 
 - [§ 82 Qualitätsmanagement, Evaluation und Evaluationsordnung](0082.md)
-- [§ 83 Übergangsvorschriften](0083.md)
-- [§ 84 Inkrafttreten, Außerkrafttreten](0084.md)
+- [§ 83 Übergangsvorschriften für Studierende,die vor dem 1. Oktober 2018 mit dem Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst begonnen haben](0083.md)
+- [§ 84 Übergangsvorschriften für Studierende, die vor dem 1. Oktober 2018 mit dem Vorbereitungsdienst für den gehobenen Dienst im Verfassungsschutz des Bundes begonnen haben](0084.md)

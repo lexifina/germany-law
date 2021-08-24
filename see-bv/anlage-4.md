@@ -1,32 +1,50 @@
-# Anlage 4 (zu den §§ 31, 40, 53)Prüfungsordnung des Bundesamtes
+# Anlage 4 (zu den §§ 31, 40 und 53)Prüfungsordnung des Bundesamtes
 
-1. Anwendungsbereich
-  Diese Prüfungsordnung gilt für Prüfungen zur Feststellung der Befähigung
-1.1 nach Abschnitt A-II/4 des STCW-Codes (Wachbefähigung Brücke),
-1.2 nach Abschnitt A-III/4 des STCW-Codes (Wachbefähigung Maschine) und
-1.3 für den Seefunkdienst hinsichtlich des Fortbestandes der Befähigung.
-2. Prüfungsablauf, Inhalt der Prüfung
-2.1 Zeitpunkt und Ort der Prüfung werden durch das Bundesamt (Prüfungsbehörde) festgesetzt und dem Bewerber oder im Falle der Nummer 3.2 dieser Anlage dem Ansprechpartner mitgeteilt. Über den Prüfungsverlauf ist eine Niederschrift aufzunehmen. Der Bewerber muss sich vor Beginn der Prüfung durch Vorlage eines gültigen Personalausweises oder Reisepasses ausweisen.
-2.2 Die Prüfung nach Nummer 2.1 muss die Gewähr dafür bieten, dass die nachzuweisende Befähigung besteht.
-2.3 Tritt der Bewerber während der Prüfung aus anderen als zwingenden Gründen zurück, so gilt die Prüfung als nicht bestanden.
-2.4 Unerlaubte Hilfsmittel, wie Mobiltelefone, Bücher, Taschenrechner und ähnliches, oder fremde Hilfe dürfen bei der Prüfung nicht benutzt werden. Bei einem Täuschungsversuch gilt die Prüfung als nicht bestanden; das gilt auch für bereits erfolgreich durchgeführte Prüfungsteile. Vor Beginn der Prüfung sind die Bewerber über die Folgen eines Täuschungsversuchs zu informieren.
-2.5 Die Prüfungsbehörde entscheidet über das Ergebnis der Prüfung. Die Prüfung ist bestanden, wenn der Bewerber in allen Prüfungsteilen Fertigkeiten und Kenntnisse nachgewiesen hat, die nach Nummer 6 ausreichend sind.
-2.6 Die Prüfungsbehörde kann Personen, die ein berechtigtes Interesse nachweisen, die Anwesenheit bei der Prüfung gestatten.
+1. Allgemeines
+  Aus Gründen der besseren Lesbarkeit wird in dieser Prüfungsordnung auf die gleichzeitige Verwendung männlicher und weiblicher Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+2. Anwendungsbereich
+2.1 Diese Prüfungsordnung regelt die Prüfungen zur Feststellung der Befähigung
+  .1 nach Abschnitt A-II/4 des STCW-Codes (Wachbefähigung Brücke),
+  .2 nach Abschnitt A-III/4 des STCW-Codes (Wachbefähigung Maschine) und
+  .3 für den Seefunkdienst hinsichtlich des Fortbestandes der Befähigung nach Abschnitt A-IV/2 in Verbindung mit Abschnitt A-I/11 1.1.3 des STCW-Codes und § 53 Absatz 2 Nummer 3 dieser Verordnung
+  im Zuständigkeitsbereich des Bundesamtes.
 3. Anmeldung zur Prüfung
-3.1 Die Anmeldung zu einer Prüfung muss unter Angabe der angestrebten Prüfung bei der Prüfungsbehörde erfolgen. Der Anmeldung ist ein vollständiger Antrag auf Ausstellung oder Gültigkeitsverlängerung der begehrten Bescheinigung beizufügen. Die Anmeldung sollte zehn Werktage vor dem Prüfungstermin erfolgen. In Einzelfällen kann die Anmeldefrist entfallen, sofern die personellen und sächlichen Voraussetzungen am Prüfungsort dies ermöglichen.
+3.1 Die Anmeldung zu einer Prüfung muss unter Angabe der angestrebten Prüfung beim Bundesamt (Prüfungsbehörde) erfolgen. Der Anmeldung ist ein vollständiger Antrag auf Ausstellung oder Gültigkeitsverlängerung der begehrten Bescheinigung beizufügen. Die Anmeldung muss spätestens zehn Werktage vor dem gewünschten Prüfungstermin bei der Prüfungsbehörde eingegangen sein. In Einzelfällen kann die Anmeldefrist entfallen, sofern die personellen und sächlichen Voraussetzungen am Prüfungsort dies ermöglichen.
 3.2 Die Anmeldung zu einer Prüfung kann auch als Gruppenanmeldung erfolgen, sofern eine Person als Ansprechpartner benannt ist.
-3.3 Der Prüfungstermin kann aus wichtigen Gründen seitens der Prüfungsbehörde verlegt werden. Seitens des Bewerbers kann eine Verlegung aus wichtigen Gründen beantragt werden. Der Antrag ist unverzüglich zu stellen.
+3.3 Die Prüfungsbehörde entscheidet, ob der gewünschte Prüfungstermin stattfinden kann.
+3.4 Der Prüfungstermin kann aus wichtigen Gründen seitens der Prüfungsbehörde verlegt werden. Seitens des Bewerbers kann eine Verlegung aus wichtigen Gründen beantragt werden. Der Antrag ist unverzüglich zu stellen.
 4. Zulassung zur Prüfung
-  Über die Zulassung zur Prüfung entscheidet die Prüfungsbehörde. Zur Prüfung zuzulassen ist, wer bis auf die angestrebte Prüfung alle anderen Nachweise für die Erteilung oder Gültigkeitsverlängerung glaubhaft machen kann.
-5. Durchführung der Prüfung
-5.1 Der Prüfer erläutert vor Beginn der Prüfung den Prüfungsablauf. Die Prüfung dauert längstens 30 Minuten.
-5.2 Prüfungsgegenstand sind die Befähigungen nach den Tabellen A-II/4 (Wachbefähigung Brücke), A-III/4 (Wachbefähigung Maschine) oder A-IV/2 (Seefunk) des STCW-Codes. Die Anforderungen für die Befähigung nach Tabelle A-IV/2 des STCW-Codes finden auf das UKW-Betriebszeugnis für Funker, das Beschränkt Gültige Betriebszeugnis für Funker I und II und das Allgemeine Betriebszeugnis für Funker entsprechende Anwendung.
+4.1 Über die Zulassung zur Prüfung entscheidet die Prüfungsbehörde.
+4.2 Zur Prüfung zuzulassen ist, wer bis auf die angestrebte Prüfung die Erfüllung aller anderen Anspruchsvoraussetzungen, die zur Erteilung oder Gültigkeitsverlängerung der begehrten Bescheinigung notwendig sind, glaubhaft machen kann.
+5. Inhalt der Prüfung, Prüfungsablauf
+5.1 Prüfungsgegenstand sind die Befähigungen nach Abschnitt
+  .1 A-II/4 des STCW-Codes (Wachbefähigung Brücke),
+  .2 A-III/4 des STCW-Codes (Wachbefähigung Maschine) oder
+  .3 A-IV/2 des STCW-Codes (Seefunk). Die Anforderungen für die Befähigung nach Tabelle A-IV/2 des STCW-Codes finden auf das UKW-Betriebszeugnis für Funker, das Beschränkt Gültige Betriebszeugnis für Funker I und II und das Allgemeine Betriebszeugnis für Funker entsprechende Anwendung.
+5.2 Zeitpunkt und Ort der Prüfung werden durch die Prüfungsbehörde festgesetzt und dem Bewerber oder im Fall der Nummer 3.2 dieser Anlage dem Ansprechpartner mitgeteilt.
+5.3 Der Bewerber muss sich vor Beginn der Prüfung durch Vorlage eines gültigen Personalausweises oder Reisepasses ausweisen.
+5.4 Tritt der Bewerber während der Prüfung aus anderen als zwingenden Gründen zurück, so gilt die Prüfung als nicht bestanden.
+5.5 Ein verspätetes Erscheinen eines Bewerbers zum festgelegten Prüfungstermin verringert die zur Verfügung stehende Prüfungszeit und führt unter Umständen, insbesondere dann, wenn es sich um eine Gruppenanmeldung handelt oder andere Bewerber einen Anschlusstermin wahrnehmen möchten, dazu, dass die beantragte Prüfung nicht durchgeführt werden kann.
+5.6 Unerlaubte Hilfsmittel wie Mobiltelefone, Bücher, Taschenrechner, Tablets, Smartwatches, jegliche Art von Notizzetteln und Ähnliches, oder fremde Hilfe dürfen bei der Prüfung nicht benutzt werden. Vor Beginn der Prüfung sind die Bewerber über die Folgen eines Täuschungsversuchs zu informieren.
+5.7 Den Anweisungen des Prüfers ist Folge zu leisten. Er ist berechtigt, Bewerber im Falle von Täuschungsversuchen und Nichtbefolgen von Anweisungen von der laufenden Prüfung auszuschließen. Der Prüfer gibt ausschließlich Hilfestellung zur Handhabung der Arbeitsstation und Prüfbögen. Fragen zum Prüfungsinhalt werden nicht beantwortet.
+5.8 Der Prüfer erläutert vor Beginn der Prüfung dem Bewerber den Prüfungsablauf und gibt eine Einweisung in die Simulationsanlage, soweit eine solche bei der Prüfung verwendet wird. Die Einweisung gehört nicht zur Prüfung und dauert regelmäßig nicht länger als 15 Minuten. Die Prüfung dauert für jeden Bewerber längstens 30 Minuten. Die Prüfungsarbeit ist eine für den Bewerber für den jeweiligen Prüfungstermin individuell schriftlich zusammengestellte Auswahl an Fragen oder Simulationsübungen, die in dem jeweiligen Prüfungsbereich nach 5.1 zu bearbeiten sind.
+5.9 Einige Prüfungsarbeiten sind schriftlich zu erbringen. Nach Beendigung der jeweiligen Prüfungsarbeit sind diese Dokumente beim Prüfer abzugeben.
+5.10 Über den Prüfungsverlauf ist eine Niederschrift aufzunehmen.
+5.11 Die Prüfungsbehörde kann Personen, die ein berechtigtes Interesse nachweisen, die Anwesenheit bei der Prüfung gestatten.
 6. Ergebnis der Prüfung
-  Die Prüfung ist bestanden, wenn der Bewerber in der vorgeschriebenen Zeit zu allen Prüfungsgegenständen ausreichende Fertigkeiten bzw. Kenntnisse nachgewiesen hat, d. h. nach den Maßstäben einer guten Seemannschaft die in den in Nummer 5 genannten anwendbaren Tabellen aufgeführten Kriterien für die Beurteilung der jeweils zu prüfenden Befähigungen erfüllt hat.
+6.1 Die Prüfungsbehörde entscheidet über das Ergebnis der Prüfung.
+6.2 Die Prüfung ist bestanden, wenn der Bewerber in der vorgeschriebenen Zeit zu allen Prüfungsgegenständen Fertigkeiten und Kenntnisse nachgewiesen hat, d. h. die in den nach Nummer 5.1 anzuwendenden Tabellen aufgeführten Kriterien für die Beurteilung der jeweils zu prüfenden Befähigungen erfüllt hat.
+6.3 Das Ergebnis der Prüfung wird dem Bewerber nach vollständiger Beendigung der Prüfung mündlich bekannt gegeben und in die Niederschrift über die Prüfung, in der darüber hinaus durch den Prüfer Gegenstand, Ablauf, Kurzzeichen des Prüfers und etwa vorkommende Unregelmäßigkeiten, dokumentiert werden, aufgenommen. Das Ergebnis wird mit „bestanden“ oder „nicht bestanden“ mitgeteilt.
+6.4 Das Ergebnis „nicht bestanden“ wird dem Bewerber mitgeteilt, wenn alle zulässigen Prüfungen oder Versuche ausgeschöpft sind, ohne dass mindestens ein Ergebnis von 80 % erzielt wurde.
 7. Wiederholungsprüfung
 7.1 Hat der Bewerber die Prüfung nicht bestanden, so kann er die Prüfung wiederholen. Die Wiederholungsprüfung umfasst die gesamte Prüfung und kann frühestens fünf Werktage und spätestens sechs Monate nach dem Zeitpunkt der nicht bestandenen Prüfung stattfinden.
-7.2 Wurde die Wiederholungsprüfung zwei Mal nicht bestanden, so ist vor der erneuten Anmeldung zur Prüfung
-7.2.1 für die Wachbefähigung Brücke eine zugelassene Seefahrtzeit nach § 31 Satz 1 Nummer 1 Buchstabe a von mindestens zwei Monaten,
-7.2.2 für die Wachbefähigung Maschine eine zugelassene Seefahrtzeit nach § 40 Satz 1 Nummer 1 Buchstabe a von mindestens zwei Monaten,
-7.2.3 für den Seefunk die Teilnahme an einem zugelassenen Lehrgang nach § 53 Absatz 1 Satz 1 Nummer 2 Buchstabe a
-  nachzuweisen.
+7.2 Wurde die Wiederholungsprüfung zwei Mal nicht bestanden, so ist vor der erneuten Anmeldung des Bewerbers zur Prüfung von diesem
+  .1 für die Wachbefähigung Brücke eine Seefahrtzeit nach § 31 Nummer 1 Buchstabe a von mindestens zwei Monaten,
+  .2 für die Wachbefähigung Maschine eine Seefahrtzeit nach § 40 Nummer 1 Buchstabe a von mindestens zwei Monaten
+    nachzuweisen.
+8. Gebühren
+8.1 Nach der Teilnahme an einer Prüfung- oder Wiederholungsprüfung ergeht, unbeschadet des Prüfungsergebnisses, ein Gebührenbescheid über die entsprechende Prüfungsgebühr nach laufender Nummer 2002 der Anlage zu § 1 Absatz 2 der Gebührenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und Hydrographie.
+9. Verstöße gegen die Prüfungsordnung, Täuschungsversuche
+9.1 Wird festgestellt, dass der Bewerber während der Prüfung die in dieser Prüfungsordnung festgelegten Prüfungsverfahren nicht einhält, kann die Prüfung insgesamt als nicht bestanden gewertet werden.
+9.2 Bewerber, die eine Täuschungshandlung oder einen entsprechenden Versuch hierzu unternehmen, können ab diesem Zeitpunkt für einen Zeitraum von mindestens sechs Monaten von allen weiteren Prüfungsterminen ausgeschlossen werden.
+9.3 Als Täuschungsversuche oder Täuschungshandlungen gelten insbesondere die Kommunikation mit anderen Bewerbern im Prüfungsraum, die Mitnahme von Prüfungsanlagen und Aufzeichnungsbögen aus dem Prüfungsraum, sowie das Mitbringen nicht erlaubter Arbeitsmittel und Geräte in den Prüfungsraum. Hierzu zählen insbesondere alle Arten von elektronischen Geräten (wie Mobiltelefone, Tablets und Smartwatches) sowie Bücher und jegliche Art von Notizzetteln oder Ähnliches.

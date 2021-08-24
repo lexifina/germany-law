@@ -6,6 +6,7 @@
 ## Teil 1 Allgemeines
 
 - [§ 1 Vorbereitungsdienst](0001.md)
+- [§ 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie](0001a.md)
 - [§ 2 Ziele des Vorbereitungsdienstes](0002.md)
 
 ## Teil 2 Auswahlverfahren und Einstellung

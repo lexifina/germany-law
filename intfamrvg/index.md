@@ -72,11 +72,11 @@ ersten Rechtszug
 ### Unterabschnitt 6 Aufhebung oder Änderung von Beschlüssen
 
 - [§ 34 Verfahren auf Aufhebung oder Änderung](0034.md)
-- [§ 35 Schadensersatz wegen ungerechtfertigter Vollstreckung](0035.md)
+- [§ 35 Schadensersatz wegen ungerechtfertigter Vollstreckung aus Titeln über die Erstattung von Verfahrenskosten](0035.md)
 
 ### Unterabschnitt 7 Vollstreckungsabwehrklage
 
-- [§ 36 Vollstreckungsabwehrklage bei Titeln über Verfahrenskosten](0036.md)
+- [§ 36 Vollstreckungsabwehrklage bei Titeln über die Erstattung von Verfahrenskosten](0036.md)
 
 ## Abschnitt 6 Verfahren nach dem Haager
 Kindesentführungsübereinkommen

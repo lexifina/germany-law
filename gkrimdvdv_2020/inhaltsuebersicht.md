@@ -3,6 +3,7 @@
 Teil 1
 Allgemeines
 | § 1 | Vorbereitungsdienste |
+| § 1a | Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie |
 | § 2 | Dienstbehörde |
 | § 3 | Dienstaufsicht |
 | § 4 | Erholungsurlaub |

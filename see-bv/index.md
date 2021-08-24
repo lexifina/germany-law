@@ -21,15 +21,15 @@
 - [§ 8 Befristungen](0008.md)
 - [§ 9 Einschränkungen](0009.md)
 
-### Abschnitt 3 Berufseingangsprüfungen und Zulassungen
+### Abschnitt 3 Berufseingangsprüfungen, berufsrechtliche Akkreditierung und Qualitätssicherung
 
 
 #### Unterabschnitt 1 Berufseingangsprüfungen für Kapitäne und Schiffsoffiziere
 
-- [§ 10 Berufseingangsprüfungen](0010.md)
-- [§ 11 Qualitätsnormen](0011.md)
-- [§ 12 Qualitätssicherungssystem und externe Beurteilung](0012.md)
-- [§ 13 Weitere Anforderungen an Berufseingangsprüfungen](0013.md)
+- [§ 10 Berufseingangsprüfungen und berufsrechtliche Akkreditierung](0010.md)
+- [§ 11 Qualitätsnormen für Ausbildung und Prüfungsleistungen](0011.md)
+- [§ 12 Qualitätssicherung](0012.md)
+- [§ 13 (weggefallen)](0013.md)
 - [§ 14 Aussetzen der Anerkennung als Berufseingangsprüfungen](0014.md)
 
 #### Unterabschnitt 2 Zulassung von Lehrgängen
@@ -45,8 +45,8 @@
 
 ### Abschnitt 4 Ausländische Zeugnisse und Nachweise
 
-- [§ 20 Befähigungszeugnisse anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0020.md)
-- [§ 21 Befähigungszeugnisse aus Drittstaaten](0021.md)
+- [§ 20 Befähigungszeugnisse und Befähigungsnachweise anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0020.md)
+- [§ 21 Befähigungszeugnisse und Befähigungsnachweise aus Drittstaaten](0021.md)
 - [§ 22 Ausländische Befähigungsnachweise, Qualifikationsnachweise](0022.md)
 
 ### Abschnitt 5 Sonstige allgemeine Bestimmungen
@@ -55,7 +55,7 @@
 - [§ 24 Genehmigungen bei Abweichungen vom Ausbildungsgang und dem Erwerb von Bescheinigungen](0024.md)
 - [§ 25 Ausnahmegenehmigungen](0025.md)
 - [§ 26 Mitführungspflicht](0026.md)
-- [§ 27 Ersatzausstellungen](0027.md)
+- [§ 27 Ersatzausstellungen, inhaltsgleiche Bescheinigungen und Umtausch](0027.md)
 
 ## Teil 2 Befähigungen für den Decksbereich
 
@@ -75,8 +75,8 @@
 
 ### Abschnitt 3 Seefunkdienst
 
-- [§ 35 Befähigungszeugnisse](0035.md)
-- [§ 36 Voraussetzungen für den Erwerb der Befähigungszeugnisse](0036.md)
+- [§ 35 Befähigungszeugnisse zum GMDSS-Funker](0035.md)
+- [§ 36 Voraussetzungen für den Erwerb der Befähigungszeugnisse zum GMDSS-Funker](0036.md)
 
 ## Teil 3 Befähigungen für den technischen Bereich
 
@@ -95,7 +95,7 @@
 
 ## Teil 4 Befähigungen im Gesamtschiffsbetrieb
 
-- [§ 43 Befähigungsnachweis im Gesamtschiffsbetrieb](0043.md)
+- [§ 43 Befähigungsnachweis zum Schiffsmechaniker](0043.md)
 
 ## Teil 5 Befähigungen im Schiffssicherheitsdienst und in der Gefahrenabwehr
 
@@ -113,16 +113,24 @@
 - [§ 49 Befähigungsnachweise für den Schiffsdienst auf Öltankschiffen und Chemikalientankschiffen](0049.md)
 - [§ 50 Befähigungsnachweise für den Schiffsdienst auf Flüssiggastankschiffen](0050.md)
 
-### Abschnitt 2 Befähigungen für den Schiffsdienst auf Fahrgastschiffen
+### Abschnitt 2 Befähigungen für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen
+
+- [§ 50a Befähigungsnachweise für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen](0050a.md)
+
+### Abschnitt 3 Befähigungen für den Schiffsdienst auf Schiffen, die in Polargewässern verkehren
+
+- [§ 50b Befähigungsnachweise für den Schiffsdienst auf Schiffen, die in Polargewässern verkehren](0050b.md)
+
+### Abschnitt 4 Befähigungen für den Schiffsdienst auf Fahrgastschiffen
 
 - [§ 51 Qualifikationsnachweise für den Schiffsdienst auf Fahrgastschiffen](0051.md)
 
-## Teil 7 Gültigkeitsverlängerung von Bescheinigungen
+## Teil 7 Aufrechterhaltung der Befähigung
 
 - [§ 52 Allgemeine Voraussetzungen für die Gültigkeitsverlängerung von Bescheinigungen](0052.md)
 - [§ 53 Gültigkeitsverlängerung von Befähigungszeugnissen](0053.md)
 - [§ 54 Gültigkeitsverlängerung von Befähigungsnachweisen](0054.md)
-- [§ 55 Erneuerung von Qualifikationsnachweisen](0055.md)
+- [§ 55 (weggefallen)](0055.md)
 
 ## Teil 8 Entzug, Ruhen und Sicherstellung von Befähigungszeugnissen
 
@@ -148,8 +156,9 @@
 - [§ 66 Inkrafttreten, Außerkrafttreten](0066.md)
 - [Anlage 1 (zu § 2)Abkürzungen](anlage-1.md)
 - [Anlage 2 (zu § 5)Zulassung von Lehrgängen im deutschen Seeschifffahrtsrecht](anlage-2.md)
-- [Anlage 3 (zu § 30)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb des Befähigungszeugnisses zum Schiffsführer auf Kleinfahrzeugen](anlage-3.md)
-- [Anlage 4 (zu den §§ 31, 40, 53)Prüfungsordnung des Bundesamtes](anlage-4.md)
+- [Anlage 3 (zu § 30)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb des Befähigungszeugnisses zum Kapitän NK 100](anlage-3.md)
+- [Anlage 4 (zu den §§ 31, 40 und 53)Prüfungsordnung des Bundesamtes](anlage-4.md)
 - [Anlage 5 (zu § 34)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb der Befähigungszeugnisse für den nautischen Schiffsdienst auf Fischereifahrzeugen](anlage-5.md)
 - [Anlage 6 (zu den §§ 39, 40)Anforderungen an die Ausbildung in der Metallbearbeitung](anlage-6.md)
+- [Anlage 6a (zu § 42) Anforderungen an die Ausbildung in der Elektrofertigung und Metallbearbeitung](anlage-6a.md)
 - [Anlage 7 (zu § 39)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb des Befähigungszeugnisses zum Schiffsmaschinisten](anlage-7.md)

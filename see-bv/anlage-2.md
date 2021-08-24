@@ -3,7 +3,7 @@
 1. Lehrgänge
   Die Lehrgänge im deutschen Seeschifffahrtsrecht richten sich an Schiffsoffiziere auf der Führungsebene und an Kapitäne.
 2. Anforderungen
-  Lehrgänge nach Nummer 1 müssen mindestens die Inhalte nach dieser Anlage vermitteln. Lehrgänge für Kapitäne sind Präsenzlehrgänge und grundsätzlich in deutscher Sprache durchzuführen.
+  Lehrgänge nach Nummer 1 müssen mindestens die Inhalte nach dieser Anlage vermitteln.
 3. Teilnehmer
   An den Lehrgängen nach Nummer 1 sollen Personen teilnehmen, die über ein gültiges Befähigungszeugnis als Schiffsoffizier oder Kapitän für den nautischen oder technischen Schiffsdienst verfügen, das nach Maßgabe dieser Verordnung vom Bundesamt anerkannt werden soll.
 4. Lehrgangsziele

@@ -57,10 +57,10 @@
 |  |  | Unterabschnitt 6 |
 |  |  |  | Aufhebung oder Änderung von Beschlüssen |
 | § 34 | Verfahren auf Aufhebung oder Änderung |
-| § 35 | Schadensersatz wegen ungerechtfertigter Vollstreckung |
+| § 35 | Schadensersatz wegen ungerechtfertigter Vollstreckung aus Titeln über die Erstattung von Verfahrenskosten |
 |  |  | Unterabschnitt 7 |
 |  |  |  | Vollstreckungsabwehrklage |
-| § 36 | Vollstreckungsabwehrklage bei Titeln über Verfahrenskosten |
+| § 36 | Vollstreckungsabwehrklage bei Titeln über die Erstattung von Verfahrenskosten |
 | Abschnitt 6 |  |
 |  | Verfahren nach dem Haager Kindesentführungsübereinkommen |
 | § 37 | Anwendbarkeit |

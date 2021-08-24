@@ -5,6 +5,7 @@
 ## Teil 1 Allgemeines
 
 - [§ 1 Vorbereitungsdienste](0001.md)
+- [§ 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie](0001a.md)
 - [§ 2 Dienstbehörde](0002.md)
 - [§ 3 Dienstaufsicht](0003.md)
 - [§ 4 Erholungsurlaub](0004.md)

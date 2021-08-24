@@ -23,176 +23,148 @@ Die nach § 34 Absatz 1 Satz 1 Nummer 2 und Absatz 2 notwendigen Kenntnisse und 
 3. Kenntnis- und Fertigkeitsgebiete
   Für den Erwerb des Befähigungszeugnisses zum Nautischen Wachoffizier BGW, BKW oder zum Kapitän BKü sind die notwendigen Kenntnisse und Fertigkeiten auf den folgenden Gebieten nachzuweisen:
 |  |  |
-|  | Gebiete | Entfällt bei BKW | Entfällt bei BKü |
-| 3.1 | Navigation |  |  |
-| 3.1.1 | Terrestrische Navigation |  |  |
-|  | Kursbestimmung |  |  |
-|  | Standlinien und Schiffsorte |  |  |
-|  | loxodromische Navigation |  | X |
-|  | orthodromische Navigation | X | X |
-|  | Stromnavigation |  |  |
-|  | Nautische Druckschriften und Veröffentlichungen |  |  |
-|  | Arbeiten in der Seekarte |  |  |
-|  | Seezeichen und Betonnungssysteme |  |  |
-|  | Kompasskontrollverfahren |  | X |
-|  | Grundlagen der Gezeitenlehre |  |  |
-| 3.1.2 | Astronomische Navigation |  | X |
-|  | Standlinien und Schiffsorte |  |  |
-|  | Orientierung am Sternenhimmel |  |  |
-|  | Kompasskontrollverfahren |  |  |
-| 3.1.3 | Technische Navigation |  |  |
-|  | Lot- und Fahrtmessanlagen: |  |  |
-|  | Bedienung |  |  |
-|  | Aufbau |  | X |
-|  | Wirkungsweise |  | X |
-|  | Funkortungsanlagen: |  |  |
-|  | Bedienung |  |  |
-|  | Aufbau | X | X |
-|  | Wirkungsweise |  | X |
-|  | Auswertung der Messergebnisse von Lot-, Fahrtmess- und Funkortungsanlagen |  |  |
-|  | Kompassanlagen: |  |  |
-|  | Bedienung |  |  |
-|  | Aufbau | X | X |
-|  | Wirkungsweise |  | X |
-|  | Erd- und Schiffsmagnetismus |  | X |
-|  | Kompensation | X | X |
-|  | Funkbeschickungskontrolle |  | X |
-|  | Funkbeschickungsaufnahme | X | X |
-|  | Satelliten-Navigationsverfahren |  |  |
-|  | Radaranlagen: |  |  |
-|  | Aufbau und Wirkungsweise |  | X |
-|  | Radarnavigations- und Plottverfahren |  |  |
-|  | ARPA-Anlagen |  |  |
-|  | Selbststeueranlagen: |  |  |
-|  | Bedienung |  |  |
-|  | Aufbau | X | X |
-|  | Wirkungsweise |  | X |
-| 3.2 | Seeschifffahrtsrecht |  |  |
-| 3.2.1 | Öffentliches Schifffahrtsrecht und Seearbeitsrecht, insbesondere: |  |  |
-|  | Vorschriften über die Aufgaben des Bundes auf dem Gebiet der Seeschifffahrt |  |  |
-|  | Flaggenrecht |  |  |
-|  | Seesicherheits-Untersuchungs-Gesetz |  |  |
-|  | Seearbeitsgesetz und die auf Grund dieses Gesetzes erlassenen Verordnungen |  |  |
-|  | Schiffssicherheitsgesetz, Schiffssicherheitsverordnung |  |  |
-|  | Internationales Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See (SOLAS) |  | X |
-|  | Internationale und nationale Vorschriften zum Schutze der Meeresumwelt |  |  |
-|  | Internationale und nationale Verkehrsvorschriften |  |  |
-|  | Vorschriften über das Fernmeldewesen |  |  |
-|  | Fischereirecht |  |  |
-|  | Seevölkerrecht | X | X |
-|  | Vorschriften über das Führen von Schiffs- und Öltagebüchern |  | X |
-|  | Schiffsregisterordnung |  | X |
-|  | Konsular-, Pass- und Ausländerrecht |  | X |
-|  | Strandrecht, Fundrecht |  |  |
-|  | amtliche Schiffspapiere |  |  |
-|  | Schiffsabfertigung |  |  |
-|  | Arbeitsschutz- und Unfallverhütungsvorschriften |  |  |
-|  | Richtlinien und Merkblätter der Berufsgenossenschaft für Transport und Verkehrswirtschaft |  |  |
-|  | Die für Schiffssicherheit und Arbeitsschutz zuständigen Stellen und ihre wesentlichen Aufgaben |  | X |
-|  | Sozialversicherungsrecht |  | X |
-|  | Kündigungsschutzgesetz |  | X |
-|  | Betriebsverfassungsgesetz |  | X |
-|  | Tarifvertragsrecht |  | X |
-| 3.2.2 | Privates Schifffahrtsrecht, insbesondere |  |  |
-|  | Seeversicherungsrecht |  | X |
-| 3.3 | Seemannschaft |  |  |
-| 3.3.1 | Sicherheitstechnik |  |  |
-|  | Brandschutz |  |  |
-|  | Brandbekämpfung |  |  |
-|  | Rettung von Personen, Schiff und Ladung |  |  |
-|  | Verhalten bei Schiffsunfällen |  |  |
-|  | Überleben in Seenot |  |  |
-|  | Sicherheitsdienst |  |  |
-|  | Instandhaltung der Sicherheitseinrichtungen |  |  |
-| 3.3.2 | Ladungs- und Fangtechnik |  |  |
-|  | Fanggeräte |  |  |
-|  | Ladungs- und Seetüchtigkeit |  |  |
-|  | Umschlagseinrichtungen |  |  |
-|  | Einrichtungen der Fangtechnik |  |  |
-|  | Laderaumeinrichtungen |  | X |
-|  | Ballastverteilung |  | X |
-|  | Übernahme, Stauung und Auslieferung des Fanges und dessen Produkte |  |  |
-|  | Tragfähigkeit und Arbeitsfähigkeit des Schiffes |  | X |
-|  | Ladungsfürsorge |  | X |
-|  | Umweltschutz |  |  |
-| 3.3.3 | Konstruktion und Bau des Schiffes |  |  |
-|  | Schiffbauteile und -verbände |  |  |
-|  | Fischverarbeitungsanlagen |  | X |
-|  | Werftunterlagen, Freibord, Vermessung und Klassifikation |  |  |
-|  | Bau- und Reparaturaufsicht |  | X |
-| 3.3.4 | Stabilität und Trimm des Schiffes |  |  |
-|  | Methoden zur Feststellung, Beurteilung und Beeinflussung |  |  |
-|  | Einflüsse auf die Stabilität |  |  |
-|  | Stabilität und Schwimmfähigkeit des beschädigten Schiffes |  |  |
-| 3.3.5 | Manövrieren |  |  |
-|  | Manövrierverhalten und Handhabung von Schiffen im Hafen, auf dem Revier, auf See, in schwerem Wetter, im Eis und während des Fanges |  |  |
-|  | Aufbau und Wirkungsweise von Steuereinrichtungen |  | X |
-|  | Manövriereigenschaften, Manövrierversuche und Manövrierunterlagen |  | X |
-|  | Anker- und Schleppmanöver |  | X |
-|  | Maßnahmen bei der Suche, Rettung und Hilfeleistung |  | X |
-| 3.4 | Schiffsbetriebstechnik |  |  |
-|  | Kraft- und Arbeitsmaschinen |  | X |
-|  | Apparate und Behälter: Aufbau, Wirkungsweise und Einsatz |  |  |
-|  | Lesen von technischen Zeichnungen |  | X |
-|  | Wellenleitungen, Propeller und Ruderanlagen: |  | X |
-|  | Aufbau und Wirkungsweise |  | X |
-|  | Stromverteilung |  | X |
-|  | Grundlagen der Schiffsautomation |  | X |
-|  | Bedienung und Überwachung von Schiffsmotorenanlagen bis zu 300 kW (nur für BKü) |  |  |
-| 3.5 | Meteorologie und Ozeanographie |  |  |
-|  | Grundlagen der Meteorologie und Ozeanographie |  | X |
-|  | Aufbereitung meteorologischer und ozeanographischer Informationen |  | X |
-|  | Meteorologische Instrumente: Ablesen, Aufbau und Wirkungsweise |  |  |
-|  | Wetterlagen und Wetterentwicklungen |  |  |
-|  | Typische Wetterlagen und Klimate |  | X |
-|  | Meteorologische Navigation |  | X |
-|  | Orkannavigation | X | X |
-| 3.6 | Biologie der Seefische und Pflege des Fanges |  |  |
-|  | Mariner Lebensraum |  |  |
-|  | Nutzfischarten |  |  |
-|  | Hygienische Behandlung des Seefisches vom Fang bis zur Vermarktung |  |  |
-|  |  |  |  |
-| 3.7 | Nachrichtenwesen/Funkverkehr |  |  |
-|  | Nachrichtenverkehr nach dem internationalen Signalbuch |  |  |
-|  | Allgemeines Betriebszeugnis |  | X |
-|  | Beschränkt gültiges Betriebszeugnis (nur für BKü) |  |  |
-| 3.8 | Medizinische Behandlung von Verletzungen und Erkrankungen |  |  |
-|  | Diagnose und Behandlung |  | X |
-|  | Grundlagen der Schifffahrtsmedizin |  | X |
-|  | Anatomie |  | X |
-|  | Physiologie, einschließlich Ernährungs-, Arbeits- und Klimaphysiologie |  | X |
-|  | Anwendung der Arzneimittel |  | X |
-|  | Medizinische Schiffsausrüstung |  | X |
-|  | Schifffahrtsmedizinische Bestimmungen |  | X |
-|  | Funkärztliche Beratung |  | X |
-|  | Injektionstechnik, Verbandlehre, Krankenpflege und Wundbehandlung |  | X |
-|  | Erkrankungen und Verletzungen von Hals, Nase, Ohren, Augen und Haut |  | X |
-|  | Innere Erkrankungen und Infektionskrankheiten |  | X |
-|  | Nerven- und psychische Erkrankungen |  | X |
-|  | Suchtprobleme |  | X |
-|  | Not- und Unfallbehandlung |  | X |
-|  | Vergiftungen |  | X |
-|  | Medizinische Probleme bei Seenot |  | X |
-|  | Tropenkrankheiten | X | X |
-|  | Unfallmeldungen |  | X |
-|  | Erste-Hilfe-Kursus (nur für BKü) |  |  |
-| 3.9 | Personalführung |  | X |
-|  | Soziales Verhalten |  |  |
-|  | Personalführung |  |  |
-|  | Aufgaben des Vorgesetzten |  |  |
-|  | Führungsmittel und Führungsstil |  |  |
-|  | Gruppenprobleme |  |  |
-|  | Beurteilung von Mitarbeitern |  |  |
-|  | Ausbildung und Unterweisung am Arbeitsplatz |  |  |
-| 3.10 | Betriebswirtschaft |  | X |
-|  | Funktion und Struktur von Seeschifffahrtsunternehmen |  |  |
-|  | Wettbewerbsfähigkeit in der Seeschifffahrt |  |  |
-|  | Preisbildung auf Seefischmärkten |  |  |
-|  | Internationale und nationale Fischereipolitik |  |  |
-|  | Risiken und Versicherungen in der Seeschifffahrt |  |  |
-|  | Vermarktungsbetriebe |  |  |
-|  | Reedereikosten und -leistungen |  |  |
-| 3.11 | Englisch |  |  |
-|  | Englische Fachsprache |  |  |
-|  | Seefahrtstandardvokabular |  |  |
-|  | Seeprotest und Berichte |  |  |
+|  | Gebiete | Entfällt bei BGW | Entfällt bei BKW | Entfällt bei BKü |
+| 3.1 | Navigation |  |  |  |
+| 3.1.1 | Terrestrische Navigation |  |  |  |
+|  | Kursbestimmung |  |  |  |
+|  | Standlinien, Schiffsorte und Koppeln |  |  |  |
+|  | Loxodromische und orthodromische Navigation |  | X | X |
+|  | Stromnavigation |  |  |  |
+|  | Nautische Druckschriften und Veröffentlichungen |  |  |  |
+|  | Arbeiten in der Seekarte, Seezeichen und Betonnungssysteme |  |  |  |
+|  | Kompasskontrollverfahren |  |  |  |
+|  | Grundlagen der Gezeiten |  |  |  |
+| 3.1.2 | Astronomische Navigation |  |  | X |
+|  | Standlinien und Schiffsorte |  |  |  |
+|  | Orientierung am Sternenhimmel |  |  |  |
+|  | Kompasskontrollverfahren |  |  |  |
+| 3.1.3 | Technische Navigation |  |  |  |
+|  | Lot- und Fahrtmessanlagen, Bedienung, Aufbau und Wirkungsweise |  |  |  |
+|  | Hydroakustische Grundlagen, Schall und Schallausbreitung im Wasser |  |  |  |
+|  | Grundverfahren der Ortung unter Wasser |  |  | X |
+|  | Echolote, Sonare, Netzsonde und Catchsensoren, Aufbau, Wirkungsweise, Bedienung und Auswertung von Lotbilder |  |  | X |
+|  | Auswertung der Messergebnisse von Lot- und Fahrtmessanlagen |  |  |  |
+|  | Kompassanlagen, Bedienung, Aufbau und Wirkungsweise |  |  |  |
+|  | Erd- und Schiffsmagnetismus, Kompensation |  |  |  |
+|  | Satellitennavigationsverfahren |  |  |  |
+|  | Radaranlagen, Aufbau, Wirkungsweise und Bedienung |  |  |  |
+|  | Radarnavigations- und Plottverfahren, ARPA-Anlagen |  |  |  |
+|  | ECDIS, Aufbau, Wirkungsweise und Bedienung |  |  | X |
+|  | Bridgeteam Management |  |  | X |
+|  | Selbststeueranlagen, Bedienung, Aufbau und Wirkungsweise |  |  |  |
+| 3.2 | Seeschifffahrtsrecht |  |  |  |
+| 3.2.1 | Öffentliches Schifffahrtsrecht und Seearbeitsrecht |  |  |  |
+|  | Vorschriften über die Aufgaben des Bundes auf dem Gebiet der Seeschifffahrt |  |  |  |
+|  | Flaggenrecht |  |  | X |
+|  | Seesicherheits-Untersuchungsgesetz |  |  |  |
+|  | Seearbeitsgesetz und die auf Grund dieses Gesetzes erlassenen Verordnungen |  |  |  |
+|  | Schiffssicherheitsgesetz, Schiffssicherheitsverordnung und Umweltschutz |  |  |  |
+|  | SOLAS |  |  | X |
+|  | Internationale und nationale Vorschriften zum Schutze der Meere (MARPOL) |  |  |  |
+|  | Internationale und nationale Verkehrsvorschriften (KVR) |  |  |  |
+|  | Fischereirecht |  |  |  |
+|  | Seevölkerrecht |  |  | X |
+|  | Vorschriften über das Führen von Schiffs-, Fang- und Öltagebüchern; elektronisches Fangtagebuch |  |  |  |
+|  | Schiffsregisterordnung |  |  | X |
+|  | Konsular-, Pass- und Ausländerrecht |  |  | X |
+|  | Strandordnung |  |  |  |
+|  | Amtliche Schiffspapiere |  |  |  |
+|  | Arbeitsschutz- und Unfallverhütungsvorschriften |  |  |  |
+|  | Die für die Schiffssicherheit und Arbeitsschutz zuständigen Stellen und ihre wesentlichen Aufgaben |  |  | X |
+|  | Sozialversicherungsrecht, Kündigungsschutzgesetz, Betriebsverfassungsgesetz und Tarifvertragsrecht |  |  | X |
+| 3.3 | Seemannschaft |  |  |  |
+| 3.3.1 | Sicherheitstechnik |  |  |  |
+|  | Brandschutz, Brandbekämpfung |  |  |  |
+|  | Rettung von Personen, Schiff und Ladung, Verhalten bei Schiffsunfällen |  |  |  |
+|  | Überleben in Seenot, Sicherheitsdienst |  |  |  |
+|  | Instandhaltung der Sicherheitseinrichtungen |  |  |  |
+| 3.3.2 | Ladungs- und Fangtechnik |  |  |  |
+|  | Aufbau, Wirkungsweise und Handhabung von pelagischen Schleppnetzen, Grundschleppnetzen und Langleinenfischerei |  |  |  |
+|  | Berechnungen am Fanggerät, Netzen und Netzteilen, Schnittrhythmus, Anstellung von Netzteilen, schräge Kante und Laschenverstärkung |  |  |  |
+|  | Scherbretter, Aufbau, Wirkungsweise, Handhabung, Anstellung und Berechnung |  |  |  |
+|  | Pflege und Behandlung von Kurrleinen an Bord |  |  |  |
+|  | Ladungs- und Seetüchtigkeit |  |  |  |
+|  | Umschlageinrichtungen, Laderaumeinrichtungen und Ballastverteilung |  |  |  |
+|  | Tragfähigkeit und Arbeitsfähigkeit des Schiffes |  |  |  |
+| 3.3.3 | Konstruktion und Bau des Schiffes |  |  |  |
+|  | Schiffsbauteile, Schiffbau und Schiffsverbände |  |  | X |
+|  | Fischbearbeitungsanlagen |  |  | X |
+|  | Werftunterlagen, Freibord, Vermessung und Klassifikation |  |  |  |
+|  | Bau- und Reparaturaufsicht |  |  | X |
+| 3.3.4 | Stabilität und Trimm des Schiffes |  |  |  |
+|  | Methoden zur Feststellung, Beurteilung und Beeinflussung von Stabilität und Trimm |  |  |  |
+|  | Einflüsse auf die Stabilität |  |  | X |
+|  | Stabilität und Schwimmfähigkeit des beschädigten Schiffes |  |  | X |
+| 3.3.5 | Manövrieren |  |  |  |
+|  | Manövrierverhalten und Handhabung von Schiffen im Hafen, auf dem Revier, auf See, in schwerem Wetter, im Eis und während des Aussetzens, Schleppens und Hieven des Fanggerätes |  |  |  |
+|  | Aufbau und Wirkungsweise von Steuereinrichtungen |  |  | X |
+|  | Manövriereigenschaften, Manöverversuche und Manöverunterlagen |  |  |  |
+|  | Anker- und Schleppmanöver |  |  |  |
+|  | Maßnahmen bei Suche und Rettung und Hilfeleistung |  |  |  |
+|  | Sicheres Führen des Fanggerätes über den Meeresgrund |  |  | X |
+| 3.4 | Schiffsbetriebstechnik |  |  |  |
+|  | Kraft- und Arbeitsmaschinen |  |  | X |
+|  | Apparate und Behälter, Aufbau, Wirkungsweise und Einsatz |  |  |  |
+|  | Lesen von technischen Zeichnungen |  |  |  |
+|  | Wellenleitung, Propeller und Ruderanlagen; Aufbau und Wirkungsweise |  |  | X |
+|  | Stromverteilung, Grundlagen der Schiffsautomation |  |  | X |
+|  | Hydraulik |  |  | X |
+|  | Antriebsanlagen bis 300 Kilowatt; Bedienung und Systemüberwachung | X | X |  |
+| 3.5 | Meteorologie und Ozeanographie |  |  |  |
+|  | Grundlagen der Meteorologie und Ozeanographie |  |  |  |
+|  | Aufbereitung meteorologischer und ozeanographischer Informationen |  |  |  |
+|  | Meteorologische Instrumente, Ablesen, Aufbau und Wirkungsweise |  |  | X |
+|  | Wetterlagen und Wetterentwicklungen |  |  |  |
+|  | Typische Wetterlagen und Klimate |  |  |  |
+| 3.6 | Fischereibiologie und Lebensmittelhygiene |  |  |  |
+|  | Mariner Lebensraum |  |  |  |
+|  | Nutzfischarten |  |  |  |
+|  | Nachhaltige Fischerei |  |  |  |
+|  | Lebensmittelhygiene Verordnung, Hygienekonzept HACCP |  |  |  |
+|  | Postmortale Veränderungen, Totenstarre(Rigor mortes) |  |  |  |
+|  | Fischverderb, Verderbgeschwindigkeit und Einfluss der Temperatur |  |  |  |
+|  | Qualitätseinschätzung der gefangenen Rohware; Karlsruher Schema, Qualitätsindexmethode |  |  |  |
+|  | Konservierungsmethoden auf See; Kühlen und Frosten |  |  |  |
+| 3.7 | Nachrichtenwesen und Funkverkehr |  |  |  |
+|  | Nachrichteverkehr nach dem Internationalen Signalbuch |  |  |  |
+|  | Allgemeines Betriebszeugnis für Funker (GOC) |  |  | X |
+|  | Beschränkt gültiges Betriebszeugnis für Funker (ROC) |  |  |  |
+| 3.8 | Medizinische Behandlung von Verletzten und Erkrankungen |  |  |  |
+|  | Diagnose und Behandlung |  |  | X |
+|  | Grundlagen der Schifffahrtsmedizin |  |  |  |
+|  | Anatomie |  |  | X |
+|  | Physiologie, einschließlich Ernährungs-, Arbeits- und Klimaphysiologie |  |  | X |
+|  | Medizinische Schiffsausrüstung, Anwendung der Arzneimittel |  |  | X |
+|  | Maritime Medizin-Verordnung |  |  | X |
+|  | Funkärztliche Beratung |  |  |  |
+|  | Injektionstechnik, Verbandlehre, Krankenpflege und Wundbehandlung |  |  | X |
+|  | Erkrankungen und Verletzungen von Hals, Nase, Ohren, Augen und Haut |  |  | X |
+|  | Innere Erkrankungen und Infektionskrankheiten, Impfungen |  |  | X |
+|  | Nerven- und psychische Erkrankungen, Suchtprobleme |  |  | X |
+|  | Not- und Unfallbehandlung (Schnittwunden, Knochenbrüche etc.) |  |  | X |
+|  | Vergiftungen |  |  | X |
+|  | Medizinische Probleme bei Seenot |  |  |  |
+|  | Tropenkrankheiten |  | X | X |
+|  | Unfallmeldungen |  |  | X |
+|  | Erweiterte Erste Hilfe Kursus | X | X |  |
+| 3.9 | Personalführung |  |  | X |
+|  | Soziales Verhalten |  |  |  |
+|  | Personalführung |  |  |  |
+|  | Aufgaben des Vorgesetzten |  |  |  |
+|  | Führungsmittel und Führungsstil |  |  |  |
+|  | Gruppenprobleme |  |  |  |
+|  | Beurteilung von Mitarbeitern |  |  |  |
+|  | Ausbildung und Unterweisung am Arbeitsplatz |  |  |  |
+|  | Konfliktmanagement |  |  |  |
+| 3.10 | Betriebswirtschaft |  |  | X |
+|  | Funktion und Struktur von Seeschifffahrtsunternehmen |  |  |  |
+|  | Wettbewerbsfähigkeit in der Seeschifffahrt |  |  |  |
+|  | Preisbildung auf den Seefischmärkten(nur allgemeine Informationen) |  |  |  |
+|  | Internationale und nationale Fischereipolitik |  |  |  |
+|  | Risiken und Versicherungen in der Seeschifffahrt, Fischerei |  |  |  |
+|  | Reedereikosten und -leistungen |  |  |  |
+| 3.11 | Englisch |  |  |  |
+|  | Englische Fachsprache |  |  |  |
+|  | Seefahrtstandardvokabular |  |  | X |
+|  | Seeprotest und Berichte |  |  | X |
+|  | Fischereistandardvokabular (Fischarten, Fanggeräte, Teile vom Fanggerät, Fanggebiete und fischereirechtliche Bestimmungen) |  |  | X |

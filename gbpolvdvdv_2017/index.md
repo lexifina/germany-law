@@ -5,6 +5,7 @@
 ## Abschnitt 1 Allgemeines
 
 - [§ 1 Gegenstand](0001.md)
+- [§ 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie](0001a.md)
 - [§ 2 Diplomstudium](0002.md)
 - [§ 3 Ziele des Studiums](0003.md)
 - [§ 4 Laufbahnbefähigung](0004.md)

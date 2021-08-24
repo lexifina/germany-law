@@ -10,17 +10,18 @@
 | H | Erneut verwendet |  |  |  |  |  |  |  |  |
 | I | Geburtsort |  |  |  |  |  |  |  |  |
 | J | Primaten Geburtsort |  |  |  |  |  |  |  |  |
-| K | Primaten Generation |  |  |  |  |  |  |  |  |
-| L | Genetischer Status |  |  |  |  |  |  |  |  |
-| M | Schaffung neuer genetischer Linie |  |  |  |  |  |  |  |  |
-| N | Verwendungszweck |  |  |  |  |  |  |  |  |
-| O | Anderer Verwendungszweck |  |  |  |  |  |  |  |  |
-| P | Gesetzlich vorgeschriebene Überprüfung nach … |  |  |  |  |  |  |  |  |
-| Q | Andere rechtliche Grundlage |  |  |  |  |  |  |  |  |
-| R | Rechtsquelle |  |  |  |  |  |  |  |  |
-| S | Schweregrad |  |  |  |  |  |  |  |  |
-| T | Versuchsvorhaben |  |  |  |  |  |  |  |  |
-| U | Anmerkung |  |  |  |  |  |  |  |  |
+| K | Primaten – Typ Kolonie |  |  |  |  |  |  |  |  |
+| L | Primaten Generation |  |  |  |  |  |  |  |  |
+| M | Genetischer Status |  |  |  |  |  |  |  |  |
+| N | Schaffung neuer genetischer Linie |  |  |  |  |  |  |  |  |
+| O | Verwendungszweck |  |  |  |  |  |  |  |  |
+| P | Anderer Verwendungszweck |  |  |  |  |  |  |  |  |
+| Q | Gesetzlich vorgeschriebene Überprüfung nach … |  |  |  |  |  |  |  |  |
+| R | Andere rechtliche Grundlage |  |  |  |  |  |  |  |  |
+| S | Rechtsquelle |  |  |  |  |  |  |  |  |
+| T | Schweregrad |  |  |  |  |  |  |  |  |
+| U | Versuchsvorhaben |  |  |  |  |  |  |  |  |
+| V | Anmerkung |  |  |  |  |  |  |  |  |
 |  | Hinweise zum Ausfüllen des Erhebungsbogens |  |
 1. A l l g e m e i n e E r l ä u t e r u n g e n
   Die Angaben beziehen sich grundsätzlich auf alle Wirbeltiere und Kopffüßer, die im Berichtszeitraum in Tierversuchen nach § 7 Absatz 2 des Tierschutzgesetzes sowie auf alle Wirbeltiere, die nach § 4 Absatz 3 Satz 1 des Tierschutzgesetzes verwendet worden sind.
@@ -56,15 +57,16 @@
   | (A14) Schweine (Sus scrofa domesticus) |
   | (A15) Ziegen (Capra aegagrus hircus) |
   | (A16) Schafe (Ovis aries) |
-  | (A17) Rinder (Bos primigenius) |
+  | (A17) Rinder (Bos taurus) |
   | (A18) Halbaffen (Prosimia) |
-  | (A19) Marmosetten und Tamarine (z. B. Callithrix jacchus) |
+  | (A19) Marmosetten und Tamarine (zum Beispiel Callithrix jacchus) |
   | (A20) Javaneraffen (Macaca fascicularis) |
   | (A21) Rhesusaffen (Macaca mulatta) |
   | (A22) Grüne Meerkatzen (Chlorocebus spp. (in der Regel pygerythrus oder sabaeus)) |
   | (A23) Paviane (Papio spp.) |
-  | (A24) Totenkopfaffen (z. B. Saimiri sciureus) |
-  | (A25) Andere Arten von nicht menschlichen Primaten (andere Arten von Ceboidea und Cercopithecoidea) |
+  | (A24) Totenkopfaffen (zum Beispiel Saimiri sciureus) |
+  | (A25-1) Andere Arten von Altweltaffen (andere Arten von Cercopithecoidea) |
+  | (A25-2) Andere Arten von Neuweltaffen (andere Arten von Ceboidea) |
   | (A26) Menschenaffen (Hominoidea) |
   | (A27) Andere Säugetiere (andere Mammalia) |
   | (A28) Haushühner (Gallus gallus domesticus) |
@@ -73,9 +75,13 @@
   | (A31) Frösche (Rana temporaria und Rana pipiens) |
   | (A32) Krallenfrösche (Xenopus laevis und Xenopus tropicalis) |
   | (A33) Andere Amphibien (andere Amphibia) |
-  | (A34) Zebrabärblinge (Danio rerio) |
+  | (A34) Zebrafische (Danio rerio) |
   | (A35) Andere Fische (andere Pisces) |
   | (A36) Kopffüßer (Cephalopoda) |
+  | (A37) Truthühner (Meleagris gallopavo) |
+  | (A38) Wolfsbarsch (Arten von Familien wie Serranidae, Moronidae) |
+  | (A39) Lachse, Forellen, Saiblinge und Äschen (Salmonidae) |
+  | (A40) Guppys, Schwertträger, Spitzmaulkärpflinge, Spiegelkärpflinge (Poeciliidae) |
   Kopffüßer und Fische sind ab dem Zeitpunkt, ab dem das jeweilige Tier selbständig Nahrung aufnehmen kann, anzugeben.
   Spalte F:
   Falls die Option „Andere …“ in Spalte E angegeben wird (A7, A12, A25, A27, A29, A33, A35), ist hier die verwendete Tierart in derselben Zeile einzutragen.
@@ -85,32 +91,33 @@
   Es ist anzugeben, ob die Tiere erneut in einem Versuchsvorhaben verwendet wurden (Ja/Nein). Falls in dem Versuchsvorhaben sowohl Tiere erstmalig als auch erneut verwendet wurden, sind die Angaben in mehreren Zeilen aufzuschlüsseln.
   Spalte I:
   Der Geburtsort der verwendeten Tiere, außer von Primaten, ist anzugeben. Der Geburtsort von erneut verwendeten Tieren ist nicht anzugeben.
-  | (O1) In der EU in einem registrierten Zuchtbetrieb geborene Tiere |
-  | (O2) In der EU, jedoch nicht in einem registrierten Zuchtbetrieb geborene Tiere |
+  | (O1) In der Europäische Union in einem zugelassenen Zuchtbetrieb geborene Tiere |
+  | (O2) In der Europäische Union, jedoch nicht in einem zugelassenen Zuchtbetrieb geborene Tiere |
   | (O3) Im restlichen Europa geborene Tiere |
-  | (O4) In der restlichen Welt geborene Tiere |
+  | (O4) In anderen Teilen der Welt geborene Tiere |
   Spalte J:
   Die Spalte ist nur bei der Verwendung von Primaten auszufüllen.
-  | (NHPO1) In der EU in einem registrierten Zuchtbetrieb geborene Tiere |
-  | (NHPO2) Im restlichen Europa geborene Tiere |
-  | (NHPO3) In Asien geborene Tiere |
-  | (NHPO4) In Amerika geborene Tiere |
-  | (NHPO5) In Afrika geborene Tiere |
-  | (NHPO6) In anderen Teilen der Welt geborene Tiere |
+  | (NHPO1) In einem zugelassenen Zuchtbetrieb in der Union geborene NMP |
+  | (NHPO2) In der Union, jedoch nicht in einem zugelassenen Zuchtbetrieb geborene sowie im restlichen Europa geborene NMP |
+  | (NHPO3) In Asien geborene NMP |
+  | (NHPO4) In Amerika geborene NMP |
+  | (NHPO5) In Afrika geborene NMP |
+  | (NHPO6) In anderen Teilen der Welt geborene NMP |
   Spalte K:
+  Die Spalte ist nur bei der Verwendung von Primaten auszufüllen. Es ist anzugeben, ob es sich bei der Zucht um eine „Selbsterhaltende Kolonie“ handelt (Ja/Nein).
+  Spalte L:
   Die Generation der verwendeten Primaten ist anzugeben. Solange sich die Kolonie nicht selbst erhält, sind in diese Kolonie hineingeborene Tiere nach ihrer von mütterlicher Seite hergeleiteten Generation unter F0, F1, F2 oder höher zu erfassen.
   | (NHPG1) F0 |
   | (NHPG2) F1 |
   | (NHPG3) F2 oder höher |
-  | (NHPG4) Selbsterhaltende Kolonie |
-  Spalte L:
+  Spalte M:
   Der genetische Status der verwendeten Tiere (GS1, GS2, GS3) ist nach Maßgabe der Erläuterungen in Anhang II Buchstabe B Nummer 6 des Durchführungsbeschlusses 2012/707/EU anzugeben.
   | (GS1) Genetisch nicht verändert |
   | (GS2) Genetisch verändert ohne pathologischen Phänotyp |
   | (GS3) Genetisch verändert mit pathologischem Phänotyp |
-  Spalte M:
-  Es ist anzugeben, ob die Verwendung der Schaffung neuer genetisch veränderter Linien/Stämme diente (Ja/Nein). Zur Schaffung neuer genetisch veränderter Linien/Stämme verwendete Tiere sind solche, die zur Schaffung einer neuen genetisch veränderten Linie beziehungsweise eines Stamms verwendet und von anderen Tieren, die der „Grundlagenforschung“ oder sonstiger Forschung vorbehalten sind, zu unterscheiden sind.
   Spalte N:
+  Es ist anzugeben, ob die Verwendung der Schaffung neuer genetisch veränderter Linien/Stämme diente (Ja/Nein). Zur Schaffung neuer genetisch veränderter Linien/Stämme verwendete Tiere sind solche, die zur Schaffung einer neuen genetisch veränderten Linie beziehungsweise eines Stamms verwendet und von anderen Tieren, die der „Grundlagenforschung“ oder sonstiger Forschung vorbehalten sind, zu unterscheiden sind.
+  Spalte O:
   Der Zweck der Verwendung ist anzugeben:
   | (PB1) Grundlagenforschung/Onkologie |
   | (PB2) Grundlagenforschung/Kardiovaskuläres System (Blut- und Lymphgefäße) |
@@ -122,6 +129,7 @@
   | (PB8) Grundlagenforschung/Urogenitales System/Fortpflanzungssystem |
   | (PB9) Grundlagenforschung/Sinnesorgane (Haut, Augen, Ohren) |
   | (PB10) Grundlagenforschung/Endokrines System/Stoffwechsel |
+  | (PB14) Grundlagenforschung/Entwicklungsbiologie |
   | (PB11) Grundlagenforschung/Multisystemisch |
   | (PB12) Grundlagenforschung/Ethologie, Tierverhalten, Tierbiologie |
   | (PB13) Grundlagenforschung/Andere |
@@ -135,56 +143,60 @@
   | (PT28) Translationale und angewandte Forschung/Immunerkrankungen des Menschen |
   | (PT29) Translationale und angewandte Forschung/Erkrankungen des urogenitalen/des Fortpflanzungssystems des Menschen |
   | (PT30) Translationale und angewandte Forschung/Erkrankungen der Sinnesorgane (Haut, Augen und Ohren) des Menschen |
-  | (PT31) Translationale und angewandte Forschung/Erkrankungen des endokrinen Systems/des Stoffwechselsystems des Menschen |
+  | (PT31) Translationale und angewandte Forschung/Erkrankungen des endokrinen Systems/ des Stoffwechselsystems des Menschen |
   | (PT32) Translationale und angewandte Forschung/Andere Humanerkrankungen |
-  | (PT33) Translationale und angewandte Forschung/Tierkrankheiten |
+  | (PT33) Translationale und angewandte Forschung/Tiererkrankungen und -krankheiten |
+  | (PT38) Translationale und angewandte Forschung/Tierernährung |
   | (PT34) Translationale und angewandte Forschung/Tierschutz |
   | (PT35) Translationale und angewandte Forschung/Krankheitsdiagnose |
   | (PT36) Translationale und angewandte Forschung/Pflanzenkrankheiten |
   | (PT37) Translationale und angewandte Forschung/Nicht regulatorische Toxikologie und Ökotoxikologie |
   | (PE40) Schutz der natürlichen Umwelt im Interesse der Gesundheit oder des Wohlbefindens von Menschen und Tieren |
   | (PS41) Erhaltung der Art |
-  | (PE42) Hochschulausbildung bzw. Schulung zum Erwerb, zur Erhaltung oder zur Verbesserung beruflicher Fähigkeiten |
+  | (PE42-1) Hochschulausbildung |
+  | (PE42-2) Schulung zum Erwerb, zur Erhaltung oder zur Verbesserung beruflicher Fähigkeiten |
   | (PF43) Forensische Untersuchungen |
   | (PG43) Erhaltung von Kolonien etablierter genetisch veränderter Tiere, die nicht in anderen Verfahren verwendet werden |
-  | (PR51) Regulatorischer Zweck, Routineproduktion/Produkt auf Blutbasis |
-  | (PR52) Regulatorischer Zweck, Routineproduktion/Monoklonale Antikörper |
-  | (PR53) Regulatorischer Zweck, Routineproduktion/Andere |
+  | (PR51) Routineproduktion/Produkt auf Blutbasis |
+  | (PR52) Routineproduktion/Monoklonale Antikörper nur im Aszites-Verfahren |
+  | (PR54) Routineproduktion/Monoklonale und polyklonale Antikörper (ausgenommen im Aszites-Verfahren) |
+  | (PR53) Routineproduktion/Andere Produkte |
   | (PR61) Regulatorischer Zweck, Qualitätskontrolle/Chargenunbedenklichkeitsprüfung |
   | (PR62) Regulatorischer Zweck, Qualitätskontrolle/Pyrogenitätsprüfung |
   | (PR63) Regulatorischer Zweck, Qualitätskontrolle/Chargenpotenzprüfung |
   | (PR64) Regulatorischer Zweck, Qualitätskontrolle/Andere Qualitätskontrolle |
   | (PR71) Regulatorischer Zweck/Andere Wirksamkeits- und Toleranzprüfung |
-  | (PR81) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten, Akute und subakute Toxizität/LD50, LC50 |
-  | (PR82) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Akute und subakute Toxizität/Andere letale Methoden |
-  | (PR83) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Akute und subakute Toxizität/Nichtletale Methoden |
-  | (PR84) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Hautreizung/-korrosion |
-  | (PR85) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Hautsensibilisierung |
-  | (PR86) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Augenreizung/-korrosion |
-  | (PR87) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Toxizität – bei wiederholter Verabreichung/bis zu 28 Tagen |
-  | (PR88) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Toxizität – bei wiederholter Verabreichung/29 – 90 Tage |
-  | (PR89) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Toxizität – bei wiederholter Verabreichung/> 90 Tage |
-  | (PR90) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Karzinogenität |
-  | (PR91) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Gentoxizität |
-  | (PR92) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Reproduktionstoxizität |
-  | (PR93) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Entwicklungstoxizität |
-  | (PR94) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Neurotoxizität |
-  | (PR95) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Kinetik (Pharmakokinetik, Toxikokinetik, Rückstandsabbau) |
-  | (PR96) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Pharmakodynamik (einschließlich Sicherheitspharmakologie) |
-  | (PR97) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Fototoxizität |
-  | (PR98) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Akute Toxizität |
-  | (PR99) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Chronische Toxizität |
-  | (PR100) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Reproduktionstoxizität |
-  | (PR101) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Endokrine Wirkung |
-  | (PR102) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Bioakkumulation |
-  | (PR103) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Andere |
-  | (PR104) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Unbedenklichkeitsprüfung von Nahrungs- und Futtermitteln |
-  | (PR105) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Unbedenklichkeit für Zieltiere |
-  | (PR106) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Andere |
-  Spalte O:
-  Falls die Option „Andere …“ angegeben wurde (PB13, PT32, PR53, PR64, PR82, PR103, PR106), ist der spezifische Verwendungszweck zu benennen.
+  | (PR81) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Akute Toxizität/LD50, LC50 |
+  | (PR82) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Akute Toxizität/Andere letale Methoden |
+  | (PR83) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Akute Toxizität/Nichtletale Methoden |
+  | (PR84) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Hautreizung/-verätzung |
+  | (PR85) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Hautsensibilisierung |
+  | (PR86) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Augenreizung/-verätzung |
+  | (PR87) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Toxizität – bei wiederholter Verabreichung/bis zu 28 Tagen |
+  | (PR88) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Toxizität – bei wiederholter Verabreichung/29–90 Tage |
+  | (PR89) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Toxizität – bei wiederholter Verabreichung/mehr als 90 Tage |
+  | (PR90) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Karzinogenität |
+  | (PR91) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Gentoxizität |
+  | (PR92) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Reproduktionstoxizität |
+  | (PR93) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Entwicklungstoxizität |
+  | (PR94) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Neurotoxizität |
+  | (PR95) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Kinetik (Pharmakokinetik, Toxikokinetik, Rückstandsabbau) |
+  | (PR96) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Pharmakodynamik (einschließlich Sicherheitspharmakologie) |
+  | (PR97) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfung, nach Prüfungsarten/ Fototoxizität |
+  | (PR98) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Ökotoxizität/Akute Toxizität (Ökotoxizität) |
+  | (PR99) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Ökotoxizität/Chronische Toxizität (Ökotoxizität) |
+  | (PR100) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Ökotoxizität/Reproduktionstoxizität (Ökotoxizität) |
+  | (PR101) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Ökotoxizität/Endokrine Wirkung (Ökotoxizität) |
+  | (PR102) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Ökotoxizität/Bioakkumulation (Ökotoxizität) |
+  | (PR103) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Ökotoxizität/Andere Ökotoxizität |
+  | (PR104) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Unbedenklichkeitsprüfung von Nahrungs- und Futtermitteln |
+  | (PR105) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Unbedenklichkeit für Zieltiere |
+  | (PR107) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Kombinierte Endpunkte |
+  | (PR106) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/ Andere Toxizität oder Unbedenklichkeitsprüfung |
   Spalte P:
-  Diese Spalte ist nur auszufüllen, wenn in Spalte N bei „Verwendungszweck“ eine der Optionen PR51 bis PR106 (Regulatorischer Zweck, …) angegeben wurde. Die Rechtsvorschrift muss entsprechend dem vorgesehenen Hauptverwendungszweck angegeben werden.
+  Falls die Option „Andere …“ angegeben wurde (PB13, PT32, PR53, PR64, PR82, PR103, PR106), ist der spezifische Verwendungszweck zu benennen.
+  Spalte Q:
+  Diese Spalte ist nur auszufüllen, wenn in Spalte N bei „Verwendungszweck“ eine der Optionen PR61 bis PR106 (Regulatorischer Zweck, …) angegeben wurde. Die Rechtsvorschrift muss entsprechend dem vorgesehenen Hauptverwendungszweck angegeben werden.
   | (LT1) Vorschriften für Humanarzneimittel |
   | (LT2) Vorschriften für Tierarzneimittel und ihre Rückstände |
   | (LT3) Vorschriften für Medizinprodukte |
@@ -194,21 +206,21 @@
   | (LT7) Vorschriften für Lebensmittel, einschließlich Materialien, die mit Lebensmitteln in Berührung kommen |
   | (LT8) Vorschriften für Futtermittel, einschließlich Vorschriften für die Sicherheit von Zieltieren, Arbeitnehmern und Umwelt |
   | (LT9) Vorschriften für Kosmetikprodukte |
-  | (LT10) Andere |
-  Spalte Q:
-  Falls unter Spalte P „Andere“ angegeben wurde, ist die spezifische Rechtsvorschrift, die der Verwendung zugrunde liegt, zu benennen.
+  | (LT10) Andere Vorschriften |
   Spalte R:
+  Falls unter Spalte P „Andere“ angegeben wurde, ist die spezifische Rechtsvorschrift, die der Verwendung zugrunde liegt, zu benennen.
+  Spalte S:
   Diese Spalte ist nur auszufüllen, wenn eine Vorschrift nach Spalte P angegeben wurde oder eine andere in der Spalte Q. Ausschlaggebend ist dabei nicht, wer die Prüfung in Auftrag gibt, sondern welchen Vorschriften nachgekommen wird, wobei der weitreichenderen Vorschrift Vorrang eingeräumt wird. Dienen die nationalen Vorschriften der Umsetzung von EU-Recht (z. B. Umsetzung von Richtlinien der EU, Durchführung von Verordnungen der EU u. Ä.), muss „Vorschriften, die EU-Anforderungen erfüllen“ gewählt werden.
   | (LO1) Vorschriften, die EU-Anforderungen erfüllen |
   | (LO2) Vorschriften, die nur nationale Anforderungen erfüllen |
   | (LO3) Vorschriften, die EU-externe Anforderungen erfüllen |
-  Spalte S:
+  Spalte T:
   Der tatsächliche Schweregrad der Schmerzen, Leiden und Schäden, dem die Tiere durch die Verwendung ausgesetzt waren, ist anzugeben, nicht der im Genehmigungsantrag oder in der Anzeige angegebene Schweregrad. Bei einer Verwendung nach § 4 Absatz 3 des Tierschutzgesetzes ist diese Spalte nicht auszufüllen. Im Falle des § 25 Absatz 2 der Tierschutz-Versuchstierverordnung, der besonders belastende Tierversuche mit erheblichen Schmerzen oder Leiden, die länger anhalten und nicht gelindert werden können, zum Gegenstand hat, sollen in Spalte U Angaben zu einer Ausnahmegenehmigung, zu den Einzelheiten der Verwendung und den Gründen für das Erreichen dieser besonderen Belastungen gemacht werden.
   | (SV1) Keine Wiederherstellung der Lebensfunktion |
   | (SV2) Gering (höchstens) |
   | (SV3) Mittel |
   | (SV4) Schwer |
-  Spalte T:
-  In diese Spalte ist die von der zuständigen Behörde im Rahmen des Genehmigungs- oder Anzeigeverfahrens vergebene Angabe zur eindeutigen Identifizierung des Versuchsvorhabens, z. B. Kennziffer oder Geschäftszeichen, einzutragen.
   Spalte U:
+  In diese Spalte ist die von der zuständigen Behörde im Rahmen des Genehmigungs- oder Anzeigeverfahrens vergebene Angabe zur eindeutigen Identifizierung des Versuchsvorhabens, z. B. Kennziffer oder Geschäftszeichen, einzutragen.
+  Spalte V:
   In diese Spalte können Anmerkungen eingetragen werden.
