@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-08-24T16:02:00+02:00
+- Ende: 2021-08-24T17:58:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19409
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19409
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00276339.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00277704.pdf
+
+## Tagesordnung
+
+- TOP 1: Baustellensituation
+- TOP 2: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand
+- TOP 3: Bürgerantrag § 24 GO - Kurzfristige Umwidmung von Straßen zu Fahrradspuren und Fußwegen (Pop Up Radwege) sowie Tempo 30 für mehr Sicherheit und Klimaschutz im Straßenverkehr - ungeändert beschlossen
+- TOP 4: Bürgerantrag § 24 GO Straßenverlauf Mörikestraße/Hubert-Pfeifer-Platz/Schubertstraße - vertagen
+- TOP 5: Bürgerantrag nach § 24 GO NRW - Verschiedene verkehrliche Maßnahmen - ungeändert beschlossen
+- TOP 6: Bürgerantrag § 24 GO Radverkehrfreigabe Fußgängerzonen - ungeändert beschlossen
+- TOP 7: Bürgerantrag gemäß § 24 GO NRW vom 05.04.2021 zur Motivation von Unternehmen zu einem Mobilitätskonzept - ungeändert beschlossen
+- TOP 8: Antrag n. §24 GO: Bauliche Trennung Radfahrstreifen Wall - ungeändert beschlossen
+- TOP 9: Bürgerantrag gem. § 24 GO - Buslinie 614 - ungeändert beschlossen
+- TOP 10: Bürgerantrag § 24 GO Zusammenlegung der Fahrspuren Sonnborner Ufer/Siegfriedstraße - ungeändert beschlossen
+- TOP 11: Bürgerantrag gem. § 24 GO - Anregungen zur Einrichtung einer Radspur und Anordnung von Tempo 30 - ungeändert beschlossen
+- TOP 12: Bürgerantrag gem. § 24 GO - Freigabe der Fußgängerzone(n) für den Radverkehr oder Kontrollen; „Duldung“ von Kfz - ungeändert beschlossen
+- TOP 13: Überprüfung der Ampelschaltungen aller Ampelanlagen im Wuppertaler Stadtgebiet - in der Sache erledigt
+- TOP 14: Westring Änderungen bei der Führung der Radverkehrsanlage (VO/0117/21) - geändert beschlossen
+- TOP 15: Anpassung der Radverkehrsführung in der Düsseldorfer Straße sowie der Wiedener Straße im Bereich des Wiedener Kreuzes - zurückgezogen
+- TOP 16: Umsetzung Talachsenradweg: Grundsatzbeschluss zur Fortführung der Maßnahmen zur Verbesserung der Nahmobilität in der Wartburgstraße - vertagen
+- TOP 17: Änderung der Verkehrsführung der Nathrather Straße im Einmündungsbereich der Bahnstraße - ungeändert beschlossen
+- TOP 18: Einrichtung einer Tempo 30-Strecke vor schützenswerten Einrichtungen: Schwarzbach 135 - ungeändert beschlossen
+- TOP 19: Verlängerung der Tempo-30 Strecken auf der Straße Klingelholl - Entgegennahme ohne Beschluss
+- TOP 20: Straßen- und Wegekonzept für den Stadtbezirk Heckinghausen - vertagen
+- TOP 21: Verbesserung der ÖPNV-Anbindung der Bergischen Universität - Aktualisierter Sachstand - Entgegennahme ohne Beschluss
+- TOP 22: Planfeststellungsverfahren für die Erneuerung des Rauenthaler Tunnels in Wuppertal-Langerfeld - ungeändert beschlossen
+- TOP 23: Parksituation Am Raukamp - Entgegennahme ohne Beschluss
+- TOP 24: Einrichtung einer Tempo-30- Strecke im Westfalenweg zwischen Nevigeserstraße und Hainstraße - Entgegennahme ohne Beschluss
+- TOP 25: Blinklichter am Fußgängerüberweg Erbschlöer Straße - Entgegennahme ohne Beschluss
+- TOP 26: Stellwerksbedingte Ausfälle des Schienennahverkehrs im Bereich Wuppertal-Vohwinkel - Entgegennahme ohne Beschluss
+- TOP 26.1: Stellwerksbedingte Ausfälle des Schienennahverkehrs im Bereich Wuppertal-Vohwinkel - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 27: Antwort der Verwaltung auf den gemeinsamen Antrag vom 06.05.2021 - Radverkehrsförderung - Entgegennahme ohne Beschluss
+- TOP 28: Leistungssteigerung des ÖPNV ohne Streckenkürzung - Entgegennahme ohne Beschluss
+- TOP 28.1: Leistungssteigerung des ÖPNV ohne Streckenkürzung - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 29: Finanzierung und Weiterentwicklung ÖPNV - ungeändert beschlossen
+- TOP 30: Ein Wuppertal für Alle - Fortschreibung des Handlungsprogramms zur Wuppertaler Inklusionspolitik 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 31: Jahresbericht des Inklusionsbüros 2020 - Entgegennahme ohne Beschluss
+- TOP 32: Freiligrathstraße - 1. Anordnung einer Tempo 30 Strecke / 2. Ausbau eines Parkstreifens im Kurveninnenbereich - vertagen
+- TOP 33: Behinderungen, Störungen und Ausfälle im Personennahverkehr - Entgegennahme ohne Beschluss
