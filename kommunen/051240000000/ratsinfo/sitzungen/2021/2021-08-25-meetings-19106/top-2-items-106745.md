@@ -1,0 +1,6 @@
+# TOP 2: Entwicklungsplan Grüner Zoo 2021 - 2031
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld-West (2021-08-25)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/106745
