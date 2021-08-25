@@ -358,7 +358,7 @@ Allgemeiner Datenbestand
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 3, 7 und Absatz 3d in Verbindung mit § 2 Absatz 2c |  |  |  | § 21 des AZR-Gesetzes |
 | Zustimmung nach § 36 Absatz 3 der Beschäftigungsverordnung |  |  |  |  |
-| a)Zustimmung nach § 36 Absatz 3 der Beschäftigungsverordnungausgestellt amgültig bisb)erforderliches Dokument: Zustimmung nach § 36 Absatz 3 der Beschäftigungsverordnung | (1) | (7) | Bundesagentur für Arbeit | –das Auswärtige Amt–deutsche Auslands-vertretungen–das Bundesamt für Aus-wärtige Angelegenheiten |
+| a)Zustimmung nach § 36 Absatz 3 der Beschäftigungsverordnungausgestellt amgültig bisb)erforderliches Dokument: Zustimmung nach § 36 Absatz 3 der Beschäftigungsverordnung | (1) | (7) | Bundesagentur für Arbeit | –das Auswärtige Amt–deutsche Auslands-vertretungen–das Bundesamt für Auswärtige Angelegenheiten |
 | A | A1*) | B**) | C | D |
 | 10 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |

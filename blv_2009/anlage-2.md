@@ -28,18 +28,20 @@
 | 25 |  | Gehobener bautechnischer Verwaltungsdienst des Bundes | Bundesministerium des Innern, für Bau und Heimat |
 | 26 |  | Gehobener technischer Dienst– Fachrichtung Bahnwesen – | Bundesministerium für Verkehr und digitale Infrastruktur |
 | 27 |  | Gehobener technischer Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | Bundesministerium für Verkehr und digitale Infrastruktur |
-| 28 |  | Gehobener technischer Verwaltungsdienst im Informationstechnikzentrum Bund | Bundesministerium der Finanzen |
-| 29 |  | Gehobener technischer Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – | Bundesministerium der Verteidigung |
-| 30 |  | Gehobener feuerwehrtechnischer Dienst in der Bundeswehr | Bundesministerium der Verteidigung |
-| 31 |  | Gehobener technischer Dienst bei der Unfallversicherung Bund und Bahn | Vorstand der Unfallversicherung Bund und Bahn |
-| 32 |  | Gehobener technischer Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes | Bundesministerium der Verteidigung |
-| 33 | Gehobener naturwissenschaftlicher Dienst |  |  |
-| 34 |  | Gehobener Wetterdienst des Bundes | Bundesministerium für Verkehr und digitale Infrastruktur |
-| 35 | Höherer nichttechnischer Verwaltungsdienst |  |  |
-| 36 |  | Höherer Archivdienst des Bundes | Der Beauftragte der Bundesregierungfür Kultur und Medien |
-| 37 |  | Höherer Dienst an wissenschaftlichen Bibliotheken des Bundes | Bundesministerium des Innern, für Bau und Heimat |
-| 38 | Höherer technischer Verwaltungsdienst |  |  |
-| 39 |  | Höherer technischer Verwaltungsdienst des Bundes, Fachrichtungen Bauingenieurwesen, Bahnwesen, Maschinen- und Elektrotechnik Fachgebiet Maschinen- und Elektrotechnik der Wasserstraßen, Luftfahrttechnik | Bundesministerium für Verkehr und digitale Infrastruktur |
-| 40 |  | Höherer technischerVerwaltungsdienst des Bundes, Fachrichtungen Hochbau, Maschinen- und Elektrotechnik Fachgebiet Maschinen- und Elektrotechnik in der Verwaltung | Bundesministerium des Innern, für Bau und Heimat |
-| 41 |  | Höherer technischer Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – | Bundesministerium der Verteidigung |
-| 42 |  | Höherer technischer Dienst bei der Unfallversicherung Bund und Bahn | Vorstand der Unfallversicherung Bund und Bahn |
+| 28 |  | Gehobener technischer Verwaltungsdienst in der Straßenbauverwaltung des Bundes | Bundesministerium für Verkehr und digitale Infrastruktur |
+| 29 |  | Gehobener technischer Verwaltungsdienst im Informationstechnikzentrum Bund | Bundesministerium der Finanzen |
+| 30 |  | Gehobener technischer Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – | Bundesministerium der Verteidigung |
+| 31 |  | Gehobener feuerwehrtechnischer Dienst in der Bundeswehr | Bundesministerium der Verteidigung |
+| 32 |  | Gehobener technischer Dienst bei der Unfallversicherung Bund und Bahn | Vorstand der Unfallversicherung Bund und Bahn |
+| 33 |  | Gehobener technischer Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes | Bundesministerium der Verteidigung |
+| 34 | Gehobener naturwissenschaftlicher Dienst |  |  |
+| 35 |  | Gehobener Wetterdienst des Bundes | Bundesministerium für Verkehr und digitale Infrastruktur |
+| 36 | Höherer nichttechnischer Verwaltungsdienst |  |  |
+| 37 |  | Höherer Archivdienst des Bundes | Der Beauftragte der Bundesregierungfür Kultur und Medien |
+| 38 |  | Höherer Dienst an wissenschaftlichen Bibliotheken des Bundes | Bundesministerium des Innern, für Bau und Heimat |
+| 39 | Höherer technischer Verwaltungsdienst |  |  |
+| 40 |  | Höherer technischer Verwaltungsdienst des Bundes, Fachrichtungen Bauingenieurwesen, Bahnwesen, Maschinen- und Elektrotechnik Fachgebiet Maschinen- und Elektrotechnik der Wasserstraßen, Luftfahrttechnik, Straßenwesen | Bundesministerium für Verkehr und digitale Infrastruktur |
+| 41 |  | Höherer technischerVerwaltungsdienst des Bundes, Fachrichtungen Hochbau, Maschinen- und Elektrotechnik Fachgebiet Maschinen- und Elektrotechnik in der Verwaltung | Bundesministerium des Innern, für Bau und Heimat |
+| 42 |  | Höherer technischer Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – | Bundesministerium der Verteidigung |
+| 43 |  | Höherer feuerwehrtechnischer Dienst in der Bundeswehr | Bundesministerium der Verteidigung |
+| 44 |  | Höherer technischer Dienst bei der Unfallversicherung Bund und Bahn | Vorstand der Unfallversicherung Bund und Bahn |

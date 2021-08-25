@@ -2,7 +2,8 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
-- [§ 1 Geltungsbereich](0001.md)
+- [§ 1 Persönlicher Geltungsbereich](0001.md)
+- [§ 1a Regelungsgegenstand](0001a.md)
 - [§ 2 Anerkennungsvoraussetzungen](0002.md)
 - [§ 3 Antrag](0003.md)
 - [§ 4 Zuständige Stelle](0004.md)
