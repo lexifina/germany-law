@@ -1,0 +1,122 @@
+# 54. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - Gäste bitten wir um vorherige Anmeldung mit ausgefüllter Teilnahme-Registrierung bis zum 24.08.2021, 12 Uhr an das BVV Büro. Es gilt die 3-G-Regel!
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-08-25T17:00:00+02:00
+- Ende: 2021-08-25T22:12:00+02:00
+- Ort: Sachsendamm 12, 10829 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6404
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6404
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=388043
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Trampoline in der Umgebung der Käthe-Kollwitz-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Skandal um die Rückgabe der Potse-Räumlichkeiten und kein Ende – wann herrschen wieder Recht und Ordnung in unserem Bezirk? - beantwortet
+- TOP 6.2: Baustelle Straßenamt: Ist Arbeitsfähigkeit des Bezirksamtes gefährdet? - beantwortet
+- TOP 6.3: Kinder- und Jugendparlament in Tempelhof-Schöneberg stärken – Anträge für den Schulausschuss und den Jugendhilfeausschuss gemeinsam beraten - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Gendern? Nein, danke! - in der BVV abgelehnt
+- TOP 6.5: Fahrradstraße In der Belziger Straße – ja, aber Parkplatzverluste minimieren - ohne Änderungen in der BVV beschlossen
+- TOP 6.6: Neu-Tempelhof-Schöneberger Bürgerinnen und Bürgern Anmeldung bis zum 26.6.2021 ermöglichen, um an Berliner Wahlen im September 2021 teilnehmen zu können - im Ältestenrat zurückgezogen
+- TOP 6.7: Sportplatz auf dem Schulhof der Friedrich-Bergius-Oberschule für Kinder und Jugendliche zur sportlichen Nutzung schnell öffnen! - ohne Änderungen in der BVV beschlossen
+- TOP 6.8: Gastronomie unterstützen – Straßenlandsondernutzung pauschal genehmigen, auf Gebühren verzichten und Verbot von Heizpilzen im Frühjahr 2021 aussetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Parkplatzvernichtung in Tempelhof-Schöneberg - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl der Sozialkommissions-/Sondersozialkommissionsmitglieder - gewählt
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Kältehilfe für den Winter 2021/2022 rechtzeitig planen und umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Kopfsteinpflasterstraßen in Lichtenrade fahrradfreundlicher gestalten - vertagt
+- TOP 10.3: „Anlieger frei“ im Marienhöher Weg - mit Änderungen in der BVV beschlossen
+- TOP 10.4: Unterstützung der „Potse“ sofort einstellen - überwiesen
+- TOP 10.5: Einzelhandel stärken – BerlLadÖffG neu gestalten - vertagt
+- TOP 10.6: Informationstafel zu Gerda und Wolfgang Szepansky - mit Änderungen in der BVV beschlossen
+- TOP 10.7: Bücherschändungen entschieden entgegentreten - vertagt
+- TOP 10.8: Pilatusweg baulich verändern - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Laien-Defibrillatoren in Seniorenfreizeitstätten - vertagt
+- TOP 10.10: Erpressung beenden - Räumungstitel Potsdamer Str. 180 unverzüglich vollstrecken - vertagt
+- TOP 10.11: Verkehrssicherheit am nördlichen Grazer Damm erhöhen - vertagt
+- TOP 10.12: Baustelleneinrichtung auch für Radfahrende sicher einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Ausgewählte Kopfsteinpflasterstraßen in Lichtenrade fahrradfreundlicher gestalten - vertagt
+- TOP 10.14: Barrierefreiheit trotz Millieuschutz sicherstellen, Diskriminierung der älteren Innenstadtbevölkerung beenden - überwiesen
+- TOP 10.15: Öffentliche Toiletten angemessen ausschildern und Sichtschutz ergänzen - mit Änderungen in der BVV beschlossen
+- TOP 10.16: Hotelstandort erhalten - in der BVV abgelehnt
+- TOP 10.17: Bauvorhaben Mariendorfer Damm / Hundsteinweg – Verkehrsbehinderung auf ein Minimum beschränken - mit Änderungen in der BVV beschlossen
+- TOP 10.18: Parknutzung und Hundeauslauf im Kleistpark: Lösungen statt Löcher stopfen - überwiesen
+- TOP 10.19: Informations- und Dialogveranstaltung zum Sporthallenneubau auf dem Schulhof der Friedrich-Bergius-Schule durchführen - mit Änderungen in der BVV beschlossen
+- TOP 10.20: EINE Bushaltestelle Grimmstraße – Der Schulweg wird sicherer - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Trinkbrunnen Schöneberg – Lücken schließen - mit Änderungen in der BVV beschlossen
+- TOP 10.22: Ein Ehrengrab für May Ayim - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Alfred-Lion-Steg: Auf- und Abfahrt an der General-Pape-Straße für den Fahrradverkehr verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Lücke im Radwegverlauf der Groß-Ziethener Straße schließen! - mit Änderungen in der BVV beschlossen
+- TOP 10.25: Kein weiterer Abbau von Parkbänken - vertagt
+- TOP 11: übrige Große Anfragen - im Ausschuss abgelehnt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Sportplatz am Tempelhofer Weg in Nelly-Neppach-Sportplatz umbenennen - vertagt
+- TOP 12.2: Frauen haben Vorrang: Straße nach Audre(y) (Geraldine) Lorde benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Frauen haben Vorrang – Straße 229 nach Ingrid Rabe benennen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Frauen haben Vorrang: abgetrenntes Teilstück der Marienfelder Allee nach Elvira Castner umbenennen - mit Änderungen in der BVV beschlossen
+- TOP 12.5: Frauen haben Vorrang: Park am Innsbrucker Platz nach Erna Proskauer benennen - mit Änderungen in der BVV beschlossen
+- TOP 12.6: Frauen haben Vorrang: Platz vor der Gleditschstraße 5 nach Reingard Jäkl benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Beschluss über die Erweiterung der sozialen Erhaltungsverordnung „Schöneberger Insel“ im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg um die Grundstücke Monumentenstraße 33-39, Kolonnenstraße 18-29 sowie Naumannstraße 9 und 13-19 (ungerade) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Beschluss über den sich aus der Abwägung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange und der Beteiligung der Öffentlichkeit ergebenden vorhabenbezogenen Bebauungsplanentwurf 7-97 VE für eine Teilfläche des Grundstücks Rathausstraße 1/Ullsteinstraße 184/194 im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf, und Planreifeerklärung gemäß § 33 Absatz 1 BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Gedenken an den Widerstand bei den Askania-Werken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Umsetzung des Antikriegsmahnmals auf dem IKEA-Gelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Gedenken an Georg Hermann sichtbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.4: Fortschreibung der bezirklichen Schulentwicklungsplanung - überwiesen
+- TOP 13.5: Leben retten in Tempelhof-Schöneberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: „Halt inne!“ Gedenk-und Mahnort Nollendorfplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Fahrradspur an der Kreuzung Kolonnenstraße/Hauptstraße sicher machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Kommunale Impfstelle für Tempelhof-Schöneberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Gedenkplatte für Klaus-Jürgen Rattay wieder herstellen - überwiesen
+- TOP 13.10: Wohnungsbaugrundstücke in Mariendorf aktivieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Berliner Gedenktafel für Heinz Jakob "Coco" Schumann - überwiesen
+- TOP 13.12: Städtepartnerschaften zum Einsatz für Menschenrechte nutzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.13: Kunst und Kultur für Sehbehinderte und Blinde in Tempelhof-Schöneberg - überwiesen
+- TOP 13.14: Das Eckener Gymnasium in Mariendorf platzt aus allen Nähten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.15: Einrichtung des queeren Jugendzentrums mit berlinweitem Auftrag in Schöneberg - überwiesen
+- TOP 13.16: Signalkraft von Terre des Femmes nutzen! - überwiesen
+- TOP 13.17: Deckel drauf: Kleeblatt Schöneberg als urbanes Quartier entwickeln - überwiesen
+- TOP 13.18: Europa im Bezirk sichtbarer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.19: Queere Lebens- & Leidensgeschichten erinnern - Wanderausstellung zu § 175 unterstützen - überwiesen
+- TOP 13.20: Lichtenrader Wochenmarkt erhalten - neuen Standort finden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.21: Mehr Sicherheit bei Neubauvorhaben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.22: Freischaffende Künstler*innen in Tempelhof-Schöneberg stärken - überwiesen
+- TOP 13.23: Benennung des Marlene-Dietrich-Kinos angemessen feiern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.24: Tempo-30-Zone auf die Rathausstraße in Mariendorf ausweiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.25: Bauvorhaben Mühlenberg – Mehrwert für den Kiez sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.26: Mehr Regenbogen wagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.27: Notfalldosen fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.28: Bürgerservice wieder auf 100% bringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.29: Bedarfs-Lichtsignalanlagen mit berührungsfreier Technik ausstatten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.30: Runden Tisch „stationäre Pflege in der Pandemiezeit“ einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.31: Öffentliche Toiletten müssen auch während der Coronakrise offen bleiben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.32: Gasometer-Bebauung: Denkmalschutz ernst nehmen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.33: Denk mal! Kolonialgeschichte in Friedenau sichtbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.34: Ausgestaltung der Gedenktafel für Klaus-Jürgen Rattay gem. Drucksache 0488/XX - überwiesen
+- TOP 13.35: Straßen(um)benennungen: Ein geregeltes Verfahren sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.36: Geordnetes Verfahren für Benennungsverfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.37: Kommunen für ein starkes Lieferkettengesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.38: Mehr Testzentren für den Bezirkssüden – so schnell wie möglich! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.39: Die parkenden Autos vor der Marienfelder-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.40: Spiegel für die Ausfahrt am Kirchhainer Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.41: Spielplätze für Kinder im Alter von 9 bis 15 Jahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.42: Parkverbot Wilhelm-von-Siemens-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.43: Sperrmüllaktionstage auch in Lichtenrade und Marienfelde einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.44: Bündnis gegen Antisemitismus in Tempelhof-Schöneberg endlich gründen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.45: Aktionsplan - QM Nahariyastraße 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.46: Aktionsplan - QM Germaniagarten 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.47: Schließung des Wochenmarktes Waldsassener Str./Tirschenreuther Ring - überwiesen
+- TOP 13.48: Das Gesetz zur Neuregelung der Partizipation im Land Berlin schreibt bezirkliche Beiräte für Partizipation und Integration vor (Drucksache des Abgeordnetenhauses Nr. 18/3631) - überwiesen
+- TOP 13.49: Erhöhung der Kostensicherheit von investiven Baumaßnahmen des Bezirks Tempelhof-Schöneberg für das Vorhaben "Freimachung (einschließlich Abräumung der Sporthalle) und Neubau der Schulsportaußenanlagen der Friedrich-Bergius-Schule 07K10, Perelsplatz 6-8, 12159 Berlin. - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
