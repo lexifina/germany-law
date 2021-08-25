@@ -1,0 +1,68 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-08-25T16:00:00+02:00
+- Ende: 2021-08-25T18:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21523
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21523
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: OVA 25.08.21 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00420252.pdf
+- Ergebnisprotokoll: OVA 25.08.21 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00420252.pdf
+- Wortprotokoll: OVA 25.08.21 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00420252.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 4: Anfragen
+- TOP 4.1: Güterverkehrskonzept -Anfrage der Ratsfraktionen von CDU und Bündnis 90/Die Grünen- - beantwortet
+- TOP 5: Anträge
+- TOP 5.1: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Autofreie Königsallee - mehrheitlich abgelehnt
+- TOP 5.2: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Vorrang für Gastronomie oder Fahrräder - Parkbuchten dauerhaft umwidmen - zurückgezogen
+- TOP 5.2.1: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/442/2021 - zurückgezogen
+- TOP 5.3: #BusUndBahnWasLäuftNicht - NRW-weit gültiges Jugendticket - vertagt
+- TOP 5.4: #BusUndBahnWasLäuftNicht - Engere Taktungen im ÖPNV zu Stoßzeiten - vertagt
+- TOP 5.5: #BusUndBahnWasLäuftNicht - Einrichtung von Nachtexpressen - vertagt
+- TOP 5.6: #BusUndBahnWasLäuftNicht - Sicherheitskonzepte an Haltestellen - vertagt
+- TOP 5.7: #BusUndBahnWasLäuftNicht - Weitere Einbindung des OSD in die Umsetzung der Sicherheitskonzepte des Verkehrsbetriebs - vertagt
+- TOP 5.8: #BusUndBahnWasLäuftNicht - Einrichtung einer Arbeitsgruppe Radverkehrswende - vertagt
+- TOP 5.9: #BusUndBahnWasLäuftNicht - Förderung der Infrastruktur des umweltschonenden Modal Splits - vertagt
+- TOP 5.10: #BusUndBahnWasLäuftNicht - Erarbeitung eines Strategiekonzepts zur Verkehrswende - vertagt
+- TOP 5.11: #BusUndBahnWasLäuftNicht - Buslinien elektrifizieren in Düsseldorf - vertagt
+- TOP 5.12: #BusUndBahnWasLäuftNicht - Barrierefreier ÖPNV - vertagt
+- TOP 5.13: #BusUndBahnWasLäuftNicht - Barrierefreie Fahrgastinformationen - vertagt
+- TOP 5.14: #BusUndBahnWasLäuftNicht - Flächendeckende rollstuhlgerechte Infrastruktur im ÖPNV - vertagt
+- TOP 5.15: #BusUndBahnWasLäuftNicht - Zentral erreichbare Digitale Fahrgastinformationen - vertagt
+- TOP 5.16: #BusUndBahnWasLäuftNicht - Freies WLAN im ÖPNV - vertagt
+- TOP 5.17: #BusUndBahnWasLäuftNicht - Zukunftssichere Haltestellen - vertagt
+- TOP 5.18: Kostenlose Menstruationsartikel in Toilettenanlagen der U-Bahnhöfe in Düsseldorf - Antrag Ratsfraktionen SPD/Volt u.Partei/Klima - zurückgezogen
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 8: Zielkonzept Stadtbahn/Straßenbahn - mehrheitlich beschlossen
+- TOP 8.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu TOP 8, Vorlage OVA/053/2021/1 „Zielkonzept Stadtbahn/Straßenbahn“ - mehrheitlich beschlossen
+- TOP 9: Vorgezogene Maßnahmen aus dem Mobilitätsplan D - einstimmig beschlossen
+- TOP 10: Sachstand zur Aufhebung der Radwegebenutzungspflicht in Düsseldorf - zur Kenntnis genommen
+- TOP 11: Fahrbahnmarkierung Münsterstraße zwischen Grashofstraße und Hülsmeyerplatz - einstimmig beschlossen
+- TOP 12: Masterplan Ingenieurbauwerke im Bestand - Empfehlung einstimmig beschlossen
+- TOP 13: Festlegung des Trassenverlaufs des Radschnellwegs Neuss, Düsseldorf und Langenfeld im Rahmen des Linienbestimmungsverfahrens - Empfehlung einstimmig beschlossen
+- TOP 13.1: Ergänzung zur Festlegung der Radschnellwegtrasse im Rahmen des Linienbestimmungsverfahrens für die Radschnellverbindung zwischen Neuss, Düsseldorf und Langenfeld (OVA/082/2021) - Empfehlung einstimmig beschlossen
+- TOP 14: Radverkehrsplanung Karlsruher Straße zwischen Heidelberger Straße und Vennhauser Allee - einstimmig beschlossen
+- TOP 15: Änderung der Satzung über die Erhebung eines Erschließungsbeitrages (EBS) - passieren lassen
+- TOP 16: Änderung der Satzung über Beiträge für straßenbauliche Maßnahmen der Landeshauptstadt Düsseldorf (BS) - passieren lassen
+- TOP 17: Staffelung von Stundungen nach § 8a Abs. 6 KAG - passieren lassen
+- TOP 18: Anderes Beteiligungsverfahren nach § 8a Abs. 4 Kommunalabgabengesetz (KAG) - passieren lassen
+- TOP 19: Einstellung des P+R-Angebots Messeparkplatz P2 und Angebotsanpassung U78 - einstimmig beschlossen
+- TOP 20: Weiteres Vorgehen Tempo 30 vor sensiblen Einrichtungen - zur Kenntnis genommen
+- TOP 21: Information über die geplanten Maßnahmen zur Regulierung des E-Scooter-Betriebs in der Landeshauptstadt Düsseldorf - zurückgezogen
+- TOP 22: Information über die geplante Anpassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Landeshauptstadt Düsseldorf (Sondernutzungssatzung) - zurückgezogen
+- TOP 23: Nachrüstung Blindenleiteinrichtungen U-Bf. Heinrich-Heine-Allee -Bedarfsbeschluss- - einstimmig beschlossen
+- TOP 24: Controlling-Bericht über die Baumaßnahmen des Amtes für Verkehrsmanagement -1. Halbjahr 2021- - zur Kenntnis genommen
+- TOP 25: Genehmigung einer Dringlichen Entscheidung gem. § 60 Abs. 3 Satz 1 GO NRW - Veranstaltungen auf dem Burgplatz - einstimmig beschlossen
+- TOP 26: Terminverschiebung für den Spezialmarkt "Landpartie Grafenberg" auf der Galopprennbahn Grafenberg im Jahre 2021 - einstimmig beschlossen
+- TOP 27: Wiederwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 28: Sitzungstermine des Ordnungs- und Verkehrsausschusses im Jahre 2022 - zur Kenntnis genommen
