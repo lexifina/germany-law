@@ -1,0 +1,59 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-08-25T19:00:00+02:00
+- Ende: 2021-08-25T21:51:00+02:00
+- Ort: Haus der Jugend Barmen, Sitzungssaal, Geschwister-Scholl-Platz 4, 42275  Wuppertal Nachweis 3-G (geimpft, genesen, getestet) zur Sitzungsteilnahme zwingend erforderlich Anmeldungen bitte an stefanie.schroeer@stadt.wuppertal.de
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19285
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19285
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00276131.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00277581.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines Bezirksvertreters - vertagen
+- TOP 2: Controllingliste der Beschlüsse und Aufträge der Verwaltung
+- TOP 3: Bericht des Jugendrates
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1: Spielflächenbedarfsplan Wuppertal 2021- Fortschreibung - ungeändert beschlossen
+- TOP 5: Bürgeranträge nach § 24 GO NRW
+- TOP 5.1: Bürgerantrag §24 GO NRW Autofreier Gehweg in der Oberstraße - vertagen
+- TOP 5.2: Bürgerantrag §24 GO Obergrünewalder Straße, absolutes Haltverbot westliche Fahrbahnseite - vertagen
+- TOP 5.3: Bürgerantrag §24 GO NRW Fußgängerüberweg Schloßbleiche Ecke Wall - vertagen
+- TOP 5.4: Bürgerantrag §24 GO: Radweg Mäuerchen - Freie Sicht auf Verkehrsströme - vertagen
+- TOP 5.5: Bürgerantrag § 24 GO: Gehwegparken Aue - vertagen
+- TOP 5.6: Bürgerantrag §24 GO NRW - Kradparkplätze generell abpollern - vertagen
+- TOP 5.7: Kipdorf Einbahnstraße - Bürgerantrag gem. § 24 GO - vertagen
+- TOP 5.8: Bürgerantrag §24 GO Rücknahme der Radverkehrsfreigabe Rommelspütt / Friedrichstraße - ungeändert beschlossen
+- TOP 6: Anträge
+- TOP 6.1: Hochwasserschäden in Elberfeld als Folgen des Klimawandels - Antrag Bündnis 90/DIE GRÜNEN - vertagen
+- TOP 6.2: Die Verkehrswende in den Quartieren mit den Menschen organisieren - Antrag der SPD - ungeändert beschlossen
+- TOP 6.3: Beschilderung Parkplätzen Sattlerstraße, Wülfrather Str und Gertrudenstraße - Antrag der SPD - ungeändert beschlossen
+- TOP 6.4: Sicherheit und Ordnung im Luisenviertel - Antrag der SPD - vertagen
+- TOP 7: Anfragen
+- TOP 7.1: Sanierung des Vorplatzes und der Treppe am Bahnhof Mirke - Anfrage der SPD
+- TOP 7.2: Antwort auf Anfrage der BV Elberfeld
+- TOP 8: Verbesserung der Aufenthaltsqualität im Bereich des Laurentiusplatzes - ungeändert beschlossen
+- TOP 8.1: Verbesserung der Aufenthaltsqualität im Bereich Laurentiusplatz - Ergänzungsantrag der SPD - geändert beschlossen
+- TOP 9: Ein Wuppertal für Alle - Fortschreibung des Handlungsprogramms zur Wuppertaler Inklusionspolitik 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 10: Verbesserung der ÖPNV-Anbindung der Bergischen Universität - Aktualisierter Sachstand - Entgegennahme ohne Beschluss
+- TOP 11: Projektideen im Rahmen des Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 12: Einführung der Vorhabenkarte - ungeändert beschlossen
+- TOP 13: Kinderspielplatz Kluser Platz - ISEK Innenstadt Elberfeld - ungeändert beschlossen
+- TOP 14: Kreuzungsumbau Bundesallee B 7 / Sophienstraße / Alsenstraße - vertagen
+- TOP 15: Barrierefreie Umgestaltung Bundesallee/Sophienstraße/Aue - Übergangslösung - ungeändert beschlossen
+- TOP 16: Anträge auf freie Mittel aus dem Budget 2021
+- TOP 16.1: Gegenseitige Hilfe Verein e.V. - Sanierung Vereinsheim - ungeändert beschlossen
+- TOP 16.2: Kindergroßtagespflege Mörchen - Kinderbus - abgelehnt
+- TOP 16.3: Wasserfreunde Wuppertal - Chlorgasanlage - geändert beschlossen
+- TOP 16.4: Permakulturhof vorm Eichholz e.V. - Tür - ungeändert beschlossen
+- TOP 16.5: Projekt MultiplikARTiv- Kunst trifft Einzelhandel - ungeändert beschlossen
+- TOP 16.6: Inside:Out im Frauenzentrum Urania e.V. - Fenstergestaltung Außenwerbung - ungeändert beschlossen
+- TOP 16.7: Open air-Kulturveranstaltung „Literatur in der Stadt“ auf dem Laurentiusplatz am 26.09.2021 - ungeändert beschlossen
+- TOP 16.8: Hermann-von-Helmholtz-Realschule - Einrichtung einer Bibliothek mit „Lesesaal“ - ungeändert beschlossen
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Berichte und Mitteilungen
+- TOP 18.1: Aufstellen von Fahrradbügeln in der Brunnenstraße - Bürger*innenantrag - ungeändert beschlossen
