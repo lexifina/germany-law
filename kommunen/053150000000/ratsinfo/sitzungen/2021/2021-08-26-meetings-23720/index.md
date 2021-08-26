@@ -1,0 +1,85 @@
+# 5. Sitzung des Ausschusses Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-08-26T15:30:00+02:00
+- Ende: 2021-08-26T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23720
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23720
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Bürger*innen und Einwohner*innen
+- TOP -: Mündlicher Bericht über aktuellen Sachstand zur SARS-CoV-2-Pandemie und die Auswirkungen auf vulnerable Personengruppen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: 2. Coronabericht - Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - Kenntnis genommen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.1.1: SeniorenNetzwerke Köln: Auszeichnung im Projekt „Nordrhein-Westfalen – hier hat alt werden Zukunft“ - Kenntnis genommen
+- TOP 2.2: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 2.3: Beantwortung der Anfrage AN/0518/2020 Sucht und Migration - Anfrage zur psychiatrischen und psychotherapeutischen Versorgung von Migrantinnen und Migranten in Kölner Kliniken, LVR Klinken - Kenntnis genommen
+- TOP 2.4: House of Resources in Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten (Ersetzungsantrag zu AN/1090/2019) - zurückgestellt
+- TOP 3.2: Köln-Pass digitalisieren - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Änderung der Geschäftsordnung der Stadtarbeitsgemeinschaft Behindertenpolitik - ungeändert beschlossen
+- TOP 4.2: Förderung von Selbsthilfegruppen im Sozialbereich 2021 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - zurückgestellt
+- TOP 5.2: Ombudsstelle für Geflüchtete in Köln - Verlängerung der Befristung bis Ende 2023 - ungeändert beschlossen
+- TOP 5.3: Haushaltsrechtliche Unterrichtung des Rates gemäß §25 KomHVO über eine Kostensteigerung bei der Sanierung des Rheinparkcafés sowie Antrag auf Bereitstellung einer überplanmäßigen Auszahlung - ungeändert beschlossen
+- TOP 5.4: Mindeststandards zur Unterbringung und Betreuung Geflüchteter - Verlängerung Maßnahmen vom 01.01.2022 bis 31.12.2023 - ungeändert beschlossen
+- TOP 5.5: Fortsetzung der Maßnahme „Willkommen und Ankommen in Köln“ für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 5.6: Durchführung der aktivierenden Stadtteilarbeit "Zuhause im Veedel – Aktivierung und Beteiligung im Quartier“ im Rahmen der Integrierten Stadtentwicklungskonzepte in den Sozialräumen „Porz-Ost, Finkenberg, Gremberghoven, Eil“ und „Ostheim, Neubrück" - ungeändert beschlossen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Evaluation - Kenntnis genommen
+- TOP 7.2: Beantwortung der Anfrage AN/1475/2021 aus der Ratssitzung: Konditionen für den preisgedämpften Wohnungsbau - Kenntnis genommen
+- TOP 7.3: Aktueller Sachstand GAG-Siedlung Fortuinweg - Kenntnis genommen
+- TOP 7.4: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - zurückgestellt
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Impfung von durch die Stadt Köln untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Sachstand zur Umsetzung des Beschlusses zur Einrichtung eines Runden Tisches Pflege - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Fraktionen Bündnis90/Die Grünen, CDU, Volt: Sachstand zur Umsetzung des Beschlusses zur Einrichtung eines Runden Tisches Pflege - Kenntnis genommen
+- TOP 10.1.2: Beantwortung einer Anfrage der SPD-Fraktion zur Lebenssituation von Menschen ohne Papiere in Köln – Modellprojekt „Anonymer Krankenschein in Köln„ starten? - Kenntnis genommen
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage der AFD-Fraktion: 86 unbegleitete minderjährige Ausländer (UMA) in Köln spurlos verschwunden - zurückgestellt
+- TOP 10.2.2: Anfrage der SPD-Fraktion: Armut in Köln: Wohnungs- und Obdachlosigkeit 2021 - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/1601/2021 der SPD vom 16.08.2021 zur Wohnungs- und Obdachlosigkeit 2021 für die Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren am 26.08.2021 - Kenntnis genommen
+- TOP 10.2.3: Anfrage der SPD-Fraktion: Stadtteilmütter weiter stützen! - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen zu TOP 8.1 - Mitteilung 1721/2021 zur Neugestaltung der Arbeitsmarktdienstleistungen - Jobcenter - Sitzung am 27.05.2021 - Kenntnis genommen
+- TOP 11.2: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen zu TOP 12.3 - Mitteilung 1205/2021 Sachstand „Starke Veedel – Starkes Köln“ - Sitzung am 27.05.2021 - Kenntnis genommen
+- TOP 11.3: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen zu TOP 7.2 - Mitteilung 1808/2021 Kölner Wohnungsbau 2020: Starker Anstieg der Baugenehmigungen – weniger Fertigstellungen, aber 5400 Wohnungen im Bau“ - Sitzung am 27.05.2021 - Kenntnis genommen
+- TOP 11.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Mitteilungen
+- TOP 12.1: Bericht zu Sexarbeit und spezifischen Hilfsangeboten für Sexarbeitende in Köln 2021 - zurückgestellt
+- TOP 12.2: Masterplan Dezernat V - Kenntnis genommen
+- TOP 12.3: Kölner Statistische Nachrichten 4/2021 - Kenntnis genommen
+- TOP 12.4: Arbeitsmarkt Köln - Corona-Krise: Rückblick 2020, bisherige Entwicklung und Ausblick 2021 - Kenntnis genommen
+- TOP 12.5: Medizinische Versorgung wohnungsloser Menschen in Köln - Jahresbericht 2020 - Kenntnis genommen
+- TOP 12.6: Einschulungshilfe für Schulanfänger*innen zum Schuljahr 2021/ 2022 - Kenntnis genommen
+- TOP 12.7: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 12.8: Jahresbericht 2020 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 12.9: Toilettensituation in Mülheim, Wiener Platz - Kenntnis genommen
+- TOP 12.10: Monitoring Stadtentwicklung Köln: Freischaltung der Anwendung, Veröffentlichung von Inhalten und Methoden-Bericht sowie Ergebnisband - Kenntnis genommen
+- TOP 12.11: Nationalitäten in Köln – Entwicklung und Status Quo der Immigration - Kenntnis genommen
+- TOP 12.12: Mitteilung zum Kölner Gesundheitswegweiser - Kenntnis genommen
+- TOP 12.13: Verbraucherberatungsstelle Köln: Jahresbericht 2020 - Kenntnis genommen
+- TOP 12.14: Förderung der Arbeitslosenberatung in Köln - Jahresbericht 2020 - Kenntnis genommen
+- TOP 12.15: Verbraucherberatung im Quartier: Jahresbericht 2020 - Kenntnis genommen
+- TOP 12.16: Mitteilung zum Stand der Weiterentwicklung der niedrigschwelligen, ambulanten und offenen Kontakt- und Beratungsangebote in den Sozialpsychiatrischen Zentren (SPZ) - Kenntnis genommen
+- TOP 12.17: Projekt "Zukunft der Pflege" - Handlungsempfehlungen aus dem 2. Bericht der Kommunalen Pflegeplanung - Kenntnis genommen
+- TOP 12.18: „Weiteres Vorgehen zur Verstetigung und zum Ausbau einer integrierten, strategischen Sozialplanung auf Basis der Erkenntnisse des Lebenslagenberichts“ – Umsetzung des Ratsbeschlusses 0615/2020 vom 24.06.2021 - Kenntnis genommen
+- TOP 12.19: Wahl der Seniorenvertretung Köln 2021: Informationsquellen und Termine - Kenntnis genommen
+- TOP 12.20: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen im 1. Halbjahr 2021 - zurückgestellt
+- TOP 12.21: Umsetzung des Bundesprogramms "Aufholen nach Corona für Kinder und Jugendliche" durch die Stadt Köln - zurückgestellt
