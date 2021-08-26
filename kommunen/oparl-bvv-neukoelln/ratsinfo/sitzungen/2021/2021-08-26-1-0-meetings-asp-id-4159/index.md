@@ -1,0 +1,54 @@
+# 64. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-08-26T17:10:00+02:00
+- Ende: 2021-08-26T19:35:00+02:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4159
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4159
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - in der BVV abgelehnt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Strategische Untersuchung zur Entwicklung der sozialen Infrastruktur in der Weißen Siedlung - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Ombudsperson für die ehrenamtliche Schlichtungsstelle Jobcenter Berlin Neukölln - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Bezirkliche Kultureinrichtungen in der Pandemie - beantwortet
+- TOP 8.2: Grünes Licht für Radspur Hermannstraße? - beantwortet
+- TOP 8.3: Pandemiebedingt eingeschränkte Arbeitsfähigkeit des Gesundheitsamtes - beantwortet
+- TOP 8.4: Drogenkonsummobil in Neukölln - beantwortet
+- TOP 8.5: Postfilialschließungen 2021/2022 in Neukölln beabsichtigt? - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Kein Fahrradschnellweg durch die Hasenheide - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Öffentlichen Gesundheitsdienst besser auf epidemische Lagen vorbereiten und auch langfristig nach der Pandemie strukturell stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Bebauungsplan 8-86a „Glasower Straße - Ost“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Neukölln macht´s vor! Inklusionskonzept für die Kinder- und Jugendarbeit in Neukölln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.4: Sicherer Schulweg für die Karlsgartenschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Sitzbank am Britzer Damm/Ecke Blaschkoallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Ladeinfrastruktur für E-Fahrzeuge zügig ausbauen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Bewegung „Schön wie Wir“ - schriftlich beantwortet
+- TOP 11.2: Eckwertebeschluss Haushalt 2022/23 – Sparzwänge für Neukölln? - beantwortet
+- TOP 11.3: Pandemie; ein paar wenige machen Kasse? - beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Gefährliche Schienenteile beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Barrierefreiheit für Menschen mit einer Sehbehinderung oder Sehverlust - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Handbuch „Gute Pflege“ als Standard - in der BVV abgelehnt
+- TOP 12.4: Mülleimer mit Kippenbehältern am „großen Spielplatz“ im Ortolanweg/Möwenweg aufstellen - in der BVV abgelehnt
+- TOP 12.5: Lärmbelästigung im Anita-Berber-Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Pflegekonzept zur Pflege und Erhalt von Stadtgrün - in der BVV abgelehnt
+- TOP 13: gegenstandlos mit Ablauf der Wahlperiode - (offen)
+- TOP 13.1: Friede, Freiheit und keine Diktatur - Ablauf der Wahlperiode
+- TOP 13.2: Personalunterkunft Volkspark Hasenheide - Ablauf der Wahlperiode
+- TOP 14: Große Anfragen - schriftlich - (offen)
