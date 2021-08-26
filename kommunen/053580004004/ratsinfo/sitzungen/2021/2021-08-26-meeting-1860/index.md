@@ -1,0 +1,60 @@
+# Gemeinderat (8. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2021-08-26T18:00:00+02:00
+- Ende: 2021-08-26T21:50:00+02:00
+- Ort: ehem. Haupt-/Realschule, Schwanenstraße 6, 52457 Aldenhoven, Aula der ehem. Haupt- und Realschule, Schwanenstraße 6, Aldenhoven,
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRM3EmLAoUoXBtutgGwfEpA
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1860
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcbaPFIeYaP1m8342kpUjNZxeSKBwP3qLjj0AiXXdtR3/Bekanntmachung_Gemeinderat_26.08.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb6ii_UpBgCHjdsmvkVvRencfoWUVQM_aLlST4RZUWoy/Oeffentliche_Niederschrift_Gemeinderat_26.08.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Bebauungsplan 29 A - Im Graben - a) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB b) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB c) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 29 A - Im Graben - - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Bebauungsplan 86 A - Lafos - a) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB b.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 86 A - Lafos - - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: 12. Änderung des Bebauungsplans 8 A - Uhlhof - a) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB b.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 12. Änderung des Bebauungsplans 8 A - Uhlhof - - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Änderung des Flächennutzungsplanes der Gemeinde Aldenhoven und zur Aufstellung des Bebauungsplans 83 F - Am Strief - - Einstimmig, 0 Enthaltung(en)
+- TOP 3.5: 2. Änderung der 23. Änderung des Bebauungsplans 15 A - Autohaus Chorus - a) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB b.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 2. Änderung der 23. Änderung des Bebauungsplans 15 A - Autohaus Chorus - - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Finanzen, Haushalt
+- TOP 4.1: Einrichtung eines energetisch sanierten und barrierefrei gestalteten Zugangsportals zum Rathaus Aldenhoven - 13 Ja-Stimme(n), 10 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Anträge von Fraktionen
+- TOP 5.1: Antrag der GL-Fraktion hier: Tempolimit 30 km/h und Begrenzung der Parkdauer in der Kapuzinerstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Antrag der GL-Fraktion hier: Treppenlift im Rathaus
+- TOP 5.3: Antrag der GL-Fraktion hier: Umbau der alten Leichenhalle und Nutzung der erweiterten Rasenfläche auf dem Friedhof in Aldenhoven - Ohne Abstimmung
+- TOP 5.4: Antrag der GL-Fraktion hier: Verbot von Schotter- und Steinvorgärten - 3 Ja-Stimme(n), 20 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.5: Antrag der GL-Fraktion hier: Sanierung der „Schulgasse“ in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: inReNa 2030 – indelands Regionale Nachhaltigkeitsstrategie 2030 - ökologisches Projekt "Tiny Forests" - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Beschluss über die Vergabe eines Straßennamens für die Straße des Bebauungsplans 80 SCH - Am Nonnenhof - - 17 Ja-Stimme(n), 4 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Ausführung des Haushalts
+- TOP 8.2: Luftreinigungsanlagen in Schulgebäuden - Zur Kenntnis genommen
+- TOP 9.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1: Transport der "Lolli-Tests" bis zu den Herbstferien 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Erwerb von EWV-Gesellschaftsanteilen der Stadt Heinsberg durch die Westenergie AG - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Umlaufbeschlüsse der GREEN Gesellschaft für regionale und erneuerbare Energie mbH - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: EWV Baesweiler – Neuabschluss der Biomethananlieferung durch die bmp greengas GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Berichte aus den Gremien
+- TOP 4.: Auftragsvergaben
+- TOP 4.1: Dauerauftrag zur Standsicherheitsprüfung an Straßenbeleuchtungs- und Flutlichtmasten - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Auftragsvergabe: Zeitvertrag zur Kanalsanierung in geschlossener Bauweise - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Auftragsvergabe: Zeitvertrag zur Kanalreinigung und Inspektion - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Grunderwerb im Zusammenhang mit der Pumpstation an der Industriestraße - 18 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.2: Verkauf einer gemeindeeigenen Parzelle - 0 Ja-Stimme(n), 21 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 6.: Vertragsangelegenheiten
+- TOP 6.1: Entsorgungsdienstleistungen in der Gemeinde Aldenhoven; Vertragsverlängerung und Ausschreibung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
