@@ -6,3 +6,4 @@
 - [§ 4 Vergütung der registrierten Personen](0004.md)
 - [§ 5 Diplom-Juristen aus dem Beitrittsgebiet](0005.md)
 - [§ 6 Schutz der Berufsbezeichnung](0006.md)
+- [§ 7 (weggefallen)](0007.md)
