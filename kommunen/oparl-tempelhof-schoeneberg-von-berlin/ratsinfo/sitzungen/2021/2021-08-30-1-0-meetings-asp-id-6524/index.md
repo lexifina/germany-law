@@ -1,0 +1,78 @@
+# 53. öffentliche Sitzung des Ausschusses für Straßen, Verkehr, Grün und Umwelt - Die Sitzung findet im VIDEOCALL statt. Die Zugangsdaten entnehmen Sie bitte dem Infoblatt VIDEOCALL.
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-08-30T17:00:00+02:00
+- Ende: 2021-08-30T19:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6524
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6524
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=388540
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung
+- TOP 2: Genehmigung vorliegender Protokolle
+- TOP 3: Bericht aus der Verwaltung
+- TOP 4: Kinder- und Jugendparlament
+- TOP 4.1: Die Blitzerampel
+- TOP 5: Anträge
+- TOP 5.1: Seniorenspielgeräte in der Grünanlage Fuggerstraße / Eisenacher Straße
+- TOP 5.2: Stärkung des Fußverkehrs in Tempelhof-Schöneberg
+- TOP 5.3: Sicherung der Notfallwasserversorgung in Tempelhof-Schöneberg
+- TOP 5.4: Bürgergärten Frobenstraße dauerhaft sichern
+- TOP 5.5: Umbau der Grunewaldstraße zwischen Kleistpark und Bamberger Straße
+- TOP 5.6: Aufwertung Grünflächen Hohenstaufenstraße 1-2
+- TOP 5.7: Lets Dance - Andenken an David Bowie in Schöneberg
+- TOP 5.8: Mülleimer im Grünstreifen Bundesring wieder aufstellen
+- TOP 5.9: Die Kunstwerke im öffentlichen Raum im Bezirk Tempelhof-Schöneberg erhalten und pflegen
+- TOP 5.10: Neue Bäume für die Fritz-Reuter-Straße
+- TOP 5.11: Sichere Radwegführung vor dem Rathaus Schöneberg
+- TOP 5.12: Aufwertung der Grünanlage am Grazer Platz
+- TOP 5.13: Amphibien schützen - Grüntenteich und kleinen Karpfenpfuhl zügig wiederherstellen
+- TOP 5.14: Bürgerschaftliches Engagement fördern – „Pflegepatenschaften“ für Grünflächen und Straßenbäume aktiv bewerben und unbürokratisch ermöglichen
+- TOP 5.15: Straßenfeste auf Tempelhof-Schöneberger Straßen und Plätzen nach Corona ermöglichen
+- TOP 5.16: Mehr Elektromobilität: Ladestationen für E-Bikes
+- TOP 5.17: Mehr Bäume für die Heilandsweide und die Grünanlage rund um die Sportanlage Marienfelde
+- TOP 5.18: Entfernung von Graffiti und Instandsetzung der Sitzgelegenheiten am Wasserspiel auf dem Bayerischen Platz
+- TOP 5.19: Sichere Querung auf dem Weg zur Friedenauer Gemeinschaftsschule
+- TOP 5.20: Fütterverbot Blümelteich
+- TOP 5.21: Charta für die Verkehrssicherheit: Baustellen schulwegsicher einrichten
+- TOP 5.22: Ampelschaltung am Prellerweg Ecke Sembritzkistraße endlich verkehrsgerecht anpassen!
+- TOP 5.23: Platzspitze am Roseneck entsiegeln
+- TOP 5.24: Information am Breslauer Platz
+- TOP 5.25: Fahrradstraße in der (Kleinen) Bülowstraße
+- TOP 5.26: Durst ade: Trinkbrunnen am Kaiser-Wilhelm-Platz (zukünftig Richard-von-Weizsäcker-Platz)
+- TOP 5.27: Baumschonend sanieren – Bäume auf dem Mittelstreifen am Tempelhofer Damm zwischen Platz der Luftbrücke und Borussiastraße erhalten
+- TOP 5.28: Querungshilfe an der Kreuzung Schöneberger Straße / Eresburgstraße / Borussiastraße
+- TOP 5.29: Fußgängerüberweg Kettinger Straße / Buckower Chaussee sicher gestalten
+- TOP 5.30: Wildwuchs von Fahrradbügeln auf Gehwegen auf Kosten von Fußgängerinnen und Fußgängern und vor allem von Menschen mit Behinderungen umgehend beenden
+- TOP 5.31: Evaluation des Verkehrsversuchs Tempelhofer Damm auf eine breite Basis stellen
+- TOP 5.32: Bewegliche Poller am Eingang und Ausgang der Rosenheimer Straße zwischen Münchener und Heilbronner Straße modernisieren
+- TOP 5.33: Die essbare Stadt weiterentwickeln
+- TOP 5.34: Verkehrskonzept für den Bereich der Schöneberger Linse
+- TOP 6: Mitteilungen zur Kenntnisnahme
+- TOP 6.1: Radverkehrsanlage Tempelhofer Damm
+- TOP 6.2: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz - Verkehrsversuch mit Radverkehrsanlagen auf dem Tempelhofer Damm
+- TOP 6.3: Zustand des U-Bahnhofs Yorckstraße verbessern
+- TOP 6.4: Bericht über den Abschluss der Machbarkeitsstudie zur Parkraumbewirtschaftung innerhalb des S-Bahn-Rings
+- TOP 6.5: Rad- und fußverkehrsfreundlicher Knoten Südwestkorso, Bundesallee, Varziner Straße
+- TOP 6.6: Standardisierung für Verkehrsberuhigungen
+- TOP 6.7: Tägliche Staubildung vermeiden – Ampelschaltung optimieren
+- TOP 6.8: Spielplatzanlage Belziger Straße nahe der Vorbergstraße besser vor Verschmutzung schützen
+- TOP 6.9: Lichtsignalanlage Tempelhofer Damm / Peter-Strasser-Weg
+- TOP 6.10: Größere Baumscheiben für Straßenbäume
+- TOP 6.11: Zweigleisiger S-Bahnausbau nach Blankenfelde endlich bestellen und bauen
+- TOP 6.12: Umrüstung der Gasleuchten in der Manfred-von Richthofen-Straße auf LED
+- TOP 6.13: Grünfläche in der Apostel-Paulus-Straße Ecke Salzburger Straße neu bepflanzen
+- TOP 6.14: Kinder, Radfahrer und Fußgänger bei Einrichtung der Umleitungsstrecke für den ersten Bauabschnitt der Bahnhofstraße schützen
+- TOP 6.15: Sicherer über die Wünsdorfer Straße
+- TOP 6.16: Änderung der Ampelschaltung am Prellerweg Ecke Sembritzkistraße
+- TOP 6.17: Tempo 30 auf dem Vorarlberger Damm
+- TOP 6.18: Aufbau eines bezirklichen Kompensationsflächenkatasters
+- TOP 6.19: Verkehrskonzept für Sanierungsphasen am Tempelhofer und Mariendorfer Damm
+- TOP 6.20: Wiedereinführung des Straßenbahnbetriebs auf dem Lichtenrader- und Mariendorfer Damm
+- TOP 6.21: Grünanlagen im Zeichen der Klimaerwärmung
+- TOP 7: Verschiedenes
