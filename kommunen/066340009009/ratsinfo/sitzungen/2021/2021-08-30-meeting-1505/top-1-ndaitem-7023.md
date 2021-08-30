@@ -1,0 +1,10 @@
+# TOP 1.: Städtebauförderprogramm „Wachstum und nachhaltige Erneuerung“ (vorher „Zukunft Stadtgrün“) für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenverein und Stadtpark hier: Entwurf Waldspielplatz / Osterwiese
+
+- Sitzung: Ausschuss für Bau, Planung, Umwelt und Stadtentwicklung (6. Sitzung) (2021-08-30)
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/agendaitem/7023
+- Ergebnis: (kein Text vorhanden)
+- Beratung: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/consultation/4444
+- Beschluss (Datei): Beschlußtext (Städtebauförderprogramm „Wachstum und nachhaltige Erneuerung“ (vorher „Zukunft Stadtgrün“) für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenverein und Stadtpark
+hier: Entwurf Waldspielplatz / Osterwiese) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY3xletbat75PGuQ9Htka3C7VOy8yy3zgkYM3JbHNGE9/Beschlusstext_SB-49-2020_2._Ergaenzung_-oeffentlich-_Ausschuss_fuer_Bau-_Planung-_Umwelt_und_Stadtentwicklung_30.08.2021.pdf
