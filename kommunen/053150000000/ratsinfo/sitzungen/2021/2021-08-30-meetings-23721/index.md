@@ -1,0 +1,86 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-08-30T15:10:00+02:00
+- Ende: 2021-08-30T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23721
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23721
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Dringlichkeitsantrag der SPD-Fraktion betreffend "Hölderlingymnasium erweitern: Bildungscampus für Mülheim entwickeln!" - endgültig zurückgezogen
+- TOP 2.2: Antrag der SPD-Fraktion betreffend "Schulversorgung in den Stadtteilen Worringen und Roggendorf/Thenhoven verbessern, temporäre Lösungen zur Entlastung der Grundschulen ermöglichen!" - zurückgestellt
+- TOP 2.3: Antrag der SPD-Fraktion betreffend "Sicheren Schulstart ermöglichen - Impfkampagne voranbringen mit dem Schü-ler*innen-Impfbus!" - endgültig abgelehnt
+- TOP 2.4: Antrag der SPD-Fraktion betreffend "Scheitern der Gesamtschule am Walter-Pauli-Ring" - Sache ist erledigt
+- TOP 2.5: Antrag der FDP-Fraktion betreffend "Verlässlichkeit im Präsenzunterricht" - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Anfrage der Fraktion Die Linke betreffend "Datenschutzsensible Software für digitales Lernen in Kölner Schulen" AN/0898/2021 - Sache ist erledigt
+- TOP 3.1.2: Anfrage der SPD-Fraktion betreffend "Digitale Information an die Eltern über negative Testergebnisse bei Lolli-Tests an Schulen und Kitas" AN/1215/2021 - Sache ist erledigt
+- TOP 3.1.3: Mündliche Anfrage der AFD-Fraktion betreffend "Covid 19-Testungen von Schülerinnen und Schülern an Kölner Schulen" - Sache ist erledigt
+- TOP 3.1.4: Mündliche Anfrage der SPD-Fraktion betreffend "Statusbericht Schulbaumaßnahmenliste, Stand Ende 2020" - Sache ist erledigt
+- TOP 3.1.5: Anfrage der Fraktionen Bündnis 90/Die Grünen, SPD, CDU, FDP, Die Linke und Volt betreffend "Sachstand Sanierungsstau an der Tages- und Abendschule (TAS) Köln, Genovevastr. 64-66 und 72 (städtische Gebäude)" AN/1293/2021 - Sache ist erledigt
+- TOP 3.1.6: Anfrage der FDP-Fraktion betreffend "Drastischer Ausbildungsabbau aufgrund von Corona" AN/1283/2021 - Sache ist erledigt
+- TOP 3.1.7: Anfrage der SPD Fraktion gem. § 4 der Geschäftsordnung des Rates (AN/1148/2021) zur Fertigstellung und Nutzung des Herrenhauses im Thurner Hof in Köln-Dellbrück - Sache ist erledigt
+- TOP 3.1.8: Anfrage der Ratsgruppe GUT Köln betreffend "Schwimmbäder Prioritär für Nichtschwimmer*innen-Kinderkurse öffnen" (AN/1042/2021) - Sache ist erledigt
+- TOP 3.1.9: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Tablets für alle Schüler*innen sicherstellen" - Sache ist erledigt
+- TOP 3.1.10: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Politische Bildung und Partizipation von Jugendlichen in den Bezirken" bei 512 - Sache ist erledigt
+- TOP 3.1.11: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "iPads für Lehrkräfte" - Sache ist erledigt
+- TOP 3.1.12: Mündlichen Anfrage der FDP-Fraktion betreffend "Ablehnende Bescheide für das Anmeldeverfahren inkl. Liste freier Plätze" - Sache ist erledigt
+- TOP 3.1.13: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Ausstattung von Räumen in Kindertagesstätten und Schulen mit Luftfiltergeräten" - Sache ist erledigt
+- TOP 3.1.14: Anfrage der Ratsgruppe GUT Köln betreffend "Luftreiniger in Klassenräumen" - Sache ist erledigt
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Programm „Gute Schule 2020“ neu auflegen und fortsetzen? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.2.2: Sachstand Sanierungsstau an der Tages- und Abendschule (TAS) Köln, Genovevastr. 64-66 und 72 (städtische Gebäude) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Einrichtung des Erweiterungsbaus für das Gymnasium Neue Sandkaul 29, 50859 Köln-Widdersdorf - ungeändert beschlossen
+- TOP 4.2: Verbesserung der Schulinfrastruktur; hier Container für die Elternarbeit, Beschluss der Bezirksvertretung Rodenkirchen - zurückgestellt
+- TOP 4.3: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - endgültig zurückgezogen
+- TOP 4.4: Modellhafte Öffnung ausgewählter Schulhöfe als Spiel-, Sport- und Bewegungsräume für Kinder, Jugendliche und Erwachsene - ungeändert beschlossen
+- TOP 4.5: Schulrechtliche Änderung der Grundschulen Ernst-Moritz-Arndt-Schule, EGS Mainstraße 75, 50996 Köln, Albert-Schweitzer-Grundschule, GGS Zum Hedelsberg 13, 50999 Köln und Brüder-Grimm-Schule, GGS Sürther Hauptstraße 149, 50999 Köln zum Schuljahr 22/23 - ungeändert beschlossen
+- TOP 4.6: Einrichtung des Erweiterungsbaus und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Hildegard-von-Bingen Gymnasiums, Leybergstr. 1, 50939 Köln - Sülz im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2022. - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Monitoringbericht 2020: allgemeinbildende Schulen und Berufskollegs, bildungsstatistische Analysen und kommunale Steuerungsansätze - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.1.1: Monitoring Stadtentwicklung Köln: Freischaltung der Anwendung, Veröffentlichung von Inhalte und Methoden-Bericht sowie Ergebnisband - Kenntnis genommen
+- TOP 5.1.2: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2020/21 - Sache ist erledigt
+- TOP 5.2: Einschulungshilfe für Schulanfänger*innen zum Schuljahr 2021/ 2022 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.3: Sonder-Schwimmlern-Programm - Kenntnis genommen
+- TOP 5.3.1: Sachstand Sonder-Schwimmlern-Programm nach den Sommerferien - Kenntnis genommen
+- TOP 5.4: Sportentwicklungsplanung: Sportstättenmanagementsystem - Kenntnis genommen
+- TOP 5.5: Volkshochschule Köln startet mit neuem Programm - Sache ist erledigt
+- TOP 5.6: Statusbericht Schulbaumaßnahmenliste, Stand: 31.12.2020 - Sache ist erledigt
+- TOP 5.7: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 5.8: Zusätzliche Schüler*innenplätze in den Eingangsklassen der Kölner Schulen zum Schuljahr 2022/23 - Kenntnis genommen
+- TOP 5.9: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors mit Grundstück zur Planung und Errichtung einer Grundschule im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 5.10: Stadtradeln 2021 - Kenntnis genommen
+- TOP 5.11: Ausbau und Instandhaltung des Schwimmangebotes an Kölner Schulen - Kenntnis genommen
+- TOP 5.12: Umgang mit Corona in Schule - Kenntnis genommen
+- TOP 5.13: Welche Grundschulempfehlungen hatten die an den Gesamtschulen zum Schuljahr 2021/22 abgelehnten Schüler*innen? - Ergebnis einer Abfrage bei den Gesamtschulleitungen - Kenntnis genommen
+- TOP 5.14: Abschlussbericht Projekt Bildungskoordination für Neuzugewanderte (Projektende 30.06.2021) - Kenntnis genommen
+- TOP 5.15: talentCAMPus 2021 - "Ich bin Du" - Kenntnis genommen
+- TOP 5.16: Schulentwicklungsplanerische Einschätzungen zu möglichen Entwicklungsperspektiven des Schulstandortes Helene-Weber-Platz in Brück und dem Fortbestand der Kurt-Tucholsky-Hauptschule - Kenntnis genommen
+- TOP 5.17: House of Resources in Köln - Kenntnis genommen
+- TOP 5.18: Umsetzung des Bundesprogramms "Aufholen nach Corona für Kinder und Jugendliche" durch die Stadt Köln - Kenntnis genommen
+- TOP 5.19: Verbesserung der Verpflegungsqualität des Mittagessens an Kölner Schulen - Kenntnis genommen
+- TOP 5.20: Neubau Hölderlin - Kenntnis genommen
+- TOP 5.21: Sachstand zu Anträgen und Anfragen des Ausschusses Schule und Weiterbildung - Stand 25.08.2021 - Kenntnis genommen
+- TOP 5.22: "Fördermittelabruf und -einsatz" - Kenntnis genommen
+- TOP 5.23: Parkplatz Salzburger Weg in Köln-Junkersdorf - zu AN/1093/2021 (TOP 2.5 des Ausschusses Schule und Weiterbildung vom 07.06.2021) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.24: Multilingualität von Anfang an - Übersicht Mehrsprachige Angebote in Köln - Kenntnis genommen
+- TOP 5.25: Resolution der Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Mündliche Anfrage der Fraktion Die Linke betreffend "Verbesserung der Schulinfrastruktur"
+- TOP 6.2: Mündliche Anfrage der Fraktion Die Linke betreffend "Ausstattung der Schulen mit digitalen Dienstgeräten für Lehrer*innen 2020/2021"
+- TOP 6.3: Mündliche Anfrage der SPD-Fraktion betreffend "Bau einer bundesligatauglichen Sporthalle in der Gesamtschuoe Höhenhaus"
+- TOP 6.4: Mündliche Anfrage der SPD-Fraktion betreffend Förderschule Pestalozzi-Schule Außenstelle" - Kenntnis genommen
+- TOP 7: Verschiedenes
+- TOP 8: Gleichstellungsrelevante Themen
