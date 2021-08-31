@@ -1,0 +1,6 @@
+# TOP I.: öffentliche Sitzung
+
+- Sitzung: Ortsbeirat Friedrichsbrück (3. Sitzung) (2021-08-31)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/5641
