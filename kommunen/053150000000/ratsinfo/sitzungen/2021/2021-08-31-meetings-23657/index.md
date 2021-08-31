@@ -1,0 +1,56 @@
+# 05 Sitzung des Gesundheitsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-08-31T17:00:00+02:00
+- Ende: 2021-08-31T18:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/72
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23657
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23657
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Einwohner - Sache ist erledigt
+- TOP 1: Mündlicher Bericht über den aktuellen Sachstand zur SARS-CoV-2-Pandemie - Kenntnis genommen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 2.1: 2. Coronabericht - Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Wie können wir den Bedarf an Sexualpädagogik für Jungen und junge Männer decken? - zurückgestellt
+- TOP 3.2: Überprüfung von Auftragsvergaben im Zusammenhang mit der Pandemie - Sache ist erledigt
+- TOP -: Überprüfung von Auftragsvergaben im Zusammenhang mit der Pandemie - Kenntnis genommen
+- TOP 3.3: Beantwortung mündlicher Nachfragen der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Gesundheitsausschusses vom 08.06.2021 zum Bericht zu Sexarbeit und spezifischen Hilfsangeboten für Sexarbeitende in Köln (Vorlage 1347/2021) - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Zukunft der Kinderkrankenpflege - zurückgestellt
+- TOP 4.2: Anfrage der SVK: Welche Auswirkungen hat das Urteil des Bundesarbeitsgerichtes, dass für 24-Stunden-Kräfte der Mindestlohn sowohl während der Arbeitszeit als auch der Bereitschaftszeit gezahlt werden muss. - zurückgestellt
+- TOP 4.3: Ct – Werte bei PCR Testungen - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1746/2021 "Ct-Werte bei PCR Testungen" der AfD-Fraktion - Kenntnis genommen
+- TOP 4.4: Kölnberg: Bekämpfung der Rattenplage und sozialorientierte Wohnungspolitik Anfrage der SPD-Fraktion vom 26.08.2021 - zurückgestellt
+- TOP 4.5: Umsetzung des sog. „Leuchtturm-Konzeptes“ in Köln Anfrage der CDU-Fraktion vom 26.08.2021 - zurückgestellt
+- TOP 4.6: Impfungen von Obdachlosen, Wohnungslosen und Geflüchteten mit Johnson & Johnson und aufsuchende medizinische Versorgung Anfrage der CDU-Fraktion vom 26.08.2021 - zurückgestellt
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5.1: Impfstrategie für Kinder und Jugendliche zum Schuljahresbeginn 2021/22 entwickeln! - endgültig zurückgezogen
+- TOP 5.2: Änderungsantrag zum Antrag „Impfstrategie für Kinder und Jugendliche zum Schuljahresbeginn 2021/22 entwickeln!“ von der SPD -Fraktion, DS AN/1116/2021 - Sache ist erledigt
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Stellungnahme der Verwaltung zum Dringlichkeitsantrag der FDP "Haus der psychischen Hilfen für Kinder, Jugendliche und junge Erwachsene bis 27 Jahre" (AN/1297/2021) - Kenntnis genommen
+- TOP 5.5: Verlässlichkeit im Präsenzunterricht Antrag der FDP Fraktion - zurückgestellt
+- TOP 6: Beschlussvorlagen
+- TOP 6.1: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - Sache ist erledigt
+- TOP 6.2: Förderung von Selbsthilfegruppen im Gesundheitsbereich, Haushaltsjahr 2021 - ungeändert beschlossen
+- TOP 6.3: Mindeststandards zur Unterbringung und Betreuung Geflüchteter - Verlängerung Maßnahmen vom 01.01.2022 bis 31.12.2023 - ungeändert empfohlen
+- TOP 6.4: Feuerwehrsatzungen - ungeändert empfohlen
+- TOP 6.5: Bedarfsfeststellung zur Ersatz- und Neubeschaffung von insgesamt 85 Standardrettungswagen und Abschluss eines Vier-Jahres-Rahmenliefervertrages - ungeändert empfohlen
+- TOP 7: Mitteilungen
+- TOP 7.1: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 7.2: Bürgereingabe gem. § 24 GO - "Fragen und Anregungen zum Ausbau von G 5" - AZ 84/21 S - Kenntnis genommen
+- TOP 7.3: Mitteilung zum Stand der Weiterentwicklung der niedrigschwelligen, ambulanten und offenen Kontakt- und Beratungsangebote in den Sozialpsychiatrischen Zentren (SPZ) - Kenntnis genommen
+- TOP 7.4: Jahresbericht 2020 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 7.5: Zusammenarbeit mit der Arbeitsgemeinschaft Neumarkt und den Unterarbeitsgruppen - Kenntnis genommen
+- TOP 7.6: Mitteilung zum Kölner Gesundheitswegweiser - Kenntnis genommen
+- TOP 7.7: „Weiteres Vorgehen zur Verstetigung und zum Ausbau einer integrierten, strategischen Sozialplanung auf Basis der Erkenntnisse des Lebenslagenberichts“ – Umsetzung des Ratsbeschlusses 0615/2020 vom 24.06.2021 - Kenntnis genommen
+- TOP 7.8: Refinanzierung der Ausbildung von Notfallsanitäter*innen durch die Leistungserbringenden im Rettungsdienst Köln - Kenntnis genommen
+- TOP 7.9: Beantwortung einer Anfrage Auswirkungen des Unwetters auf Köln, hier: Anfrage der Fraktion Bündnis 90 / Die Grünen, der CDU-Fraktion und der Volt-Fraktion zur Sitzung des Hauptausschusses am 23.8.2021, AN/1561/2021 - Kenntnis genommen
+- TOP 7.10: 33. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 7.11: Impfung von durch die Stadt Köln untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
