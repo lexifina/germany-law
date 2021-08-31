@@ -1,0 +1,61 @@
+# Bezirksvertretung Gräfrath (7. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-08-31T17:00:00+02:00
+- Ende: 2021-08-31T20:05:00+02:00
+- Ort: Zentrum für verfolgte Künste, Wuppertaler Straße 160, 42653 Solingen, Ratssaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-84
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQMS8XCGiDyjsiJoMA5qIqs
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6438
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcQjnT7-p6QDJj-MDGhtFDALK-NwX1Itaca97ZbRycpX/Bekanntmachung_Bezirksvertretung_Graefrath_31.08.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcYFrShHRuFQoSPd68SGBfe25vGjYfFTYx0NwuBP6wsf/Oeffentliche_Niederschrift_Bezirksvertretung_Graefrath_31.08.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Einwohnerfragestunde
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Rodungen im Bereich Flockertsholz
+- TOP 1.2: Sachstand zum ehemaligen Silag-Gebäude
+- TOP 1.3: Unfälle auf der Frankenstraße und den Anliegerstraßen
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 6. Sitzung der Bezirksvertretung Gräfrath am 01.06.2021
+- TOP 4.: Straßenbaumaßnahme Gartenstraße in dem Abschnitt von Untenflachsberg bis Nümmener Straße
+- TOP 5.: Kreuzung Dycker Feld/Wuppertaler Straße - mündlicher Bericht -
+- TOP 6.: Tempo-30-Regelung im Ortskern Antrag der CDU-Bezirksfraktion vom 05.01.2021
+- TOP 7.: Radabstellmöglichkeiten für Gräfrath Antrag der Bezirksfraktion Bündnis 90/Die Grünen vom 08.07.2021
+- TOP 8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.: Austrocknung des Nümmener Bachs und der DyckerTeiche Antrag der Fraktion Bündnis90/DieGrünen vom 12.08.2021
+- TOP 10.: Bauleitplanung Nümmener Feld Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zu den Vorentwürfen des Bebauungsplanes G 632 sowie der Flächennutzungsplanberichtigung Nr. B31/04 für das Gebiet nordöstlich der Straße Nümmener Feld und nordwestlich der Focher Straße (Anwesen Focher Straße 36 bis 44) sowie südöstlich der Focher Straße (Anwesen Focher Straße 15 bis 27) - Stadtbezirke Gräfrath und Wald –
+- TOP 11.: Freie Budgetmittel 2021
+- TOP 11.1: Freie Budgetmittel 2021
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen der Verwaltung
+- TOP 12.1.1: Neues Sharing-System von E-Tretrollern im free-floating in der Klingenstadt
+- TOP 12.1.2: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen Gräfrath
+- TOP 12.1.3: Beschlusskontrolle der Bezirksvertretung Gräfrath
+- TOP 12.2: Anfragen an die Verwaltung
+- TOP 12.2.1: Einrichtung eines Parkverbotes
+- TOP 12.2.2: Rückschnitt von Sträuchern
+- TOP 12.2.3: Einrichtung eines Behindertenparkplatzes
+- TOP 12.2.4: Autoposer-Szene im Dycker Feld
+- TOP 12.3: Bericht der Grün- und Wegekommission
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 6. Sitzung der Bezirksvertretung Gräfrath am 01.06.2021
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
+- TOP 4.2.1: Bebauung Silag-Gelände an der Wuppertaler Straße
+- TOP 4.2.2: Bau von Altenwohnungen an der Korkenziehertrasse
+- TOP 4.3: Bericht der Grün- und Wegekommission
