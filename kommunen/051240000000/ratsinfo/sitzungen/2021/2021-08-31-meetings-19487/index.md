@@ -1,0 +1,54 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-08-31T17:04:00+02:00
+- Ende: 2021-08-31T18:06:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19487
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19487
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 23.08.2021 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00276646.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00278529.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Aufsichtsrates der Wuppertal Marketing GmbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2020 der Stadtparkasse Wuppertal - Ergebnisverwendung - ungeändert beschlossen
+- TOP 1.2.1: Jahresabschluss 2020: Entlastung der Mitglieder des Verwaltungsrates der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2021/2022 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 3.2: Zuführung zur Kapitalrücklage bei der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.3: Finanzierungsbedarf notwendiger Infrastrukturmaßnahmen bei WSW - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Gesundheitsbericht 2020 - Entgegennahme ohne Beschluss
+- TOP 5.2: Strategisches Ausbildungskonzept der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Modellprojekt des Landes Nordrhein-Westfalen für digitale und hybride Sitzungen - Interessensbekundung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: Umbau des Ratssaales - ungeändert beschlossen
+- TOP 6.3: Umbau und Revitalisierung des Freibades Mirke zu einem Naturerlebnisbad mit biologischer Wasseraufbereitung und Bürgerpark durch den Betreiberverein Pro Mirke e.V. - ungeändert beschlossen
+- TOP 6.4: Überörtliche Prüfung der Gemeindeprüfungsanstalt NRW - ungeändert beschlossen
+- TOP 6.5: Sanierung von Stützmauern - ungeändert beschlossen
+- TOP 6.6: Übertragung von Grundstücken - ungeändert beschlossen
+- TOP 6.7: Verkauf des Grundstücks an der Oberen Lichtenplatzer Straße - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Finco-Berichte zum 30.06. und zum 31.07.2021 - Entgegennahme ohne Beschluss
+- TOP 8.2: Stand der Investitions- und Kassenkredite zum 30.06.2021 - Entgegennahme ohne Beschluss
+- TOP 8.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Sonderfonds Unwetterkatastrophe vom 14./15.07.2021 - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
