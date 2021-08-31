@@ -1,0 +1,6 @@
+# TOP 12.3: Bericht der Grün- und Wegekommission
+
+- Sitzung: Bezirksvertretung Gräfrath (7. Sitzung) (2021-08-31)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/68452
