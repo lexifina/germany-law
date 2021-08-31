@@ -1,0 +1,59 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2021-08-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6242864
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6242864
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Baumkirchner Str. 5; Nutzungsänderung einer Hausbrauerei im Hofbau / Rückgebäude zu einer gastronomischen Eventlocation im KG und EG sowie Büroflächen im 1.OG
+- TOP 3.1.2.: Echardinger Str.; Errichtung einer öffentlichen, freistehenden WC-Anlage - Michaeli-Anger (Echardinger Str. / Gögginger Str. / St.-Michaael-Str. / Vinzenz-von-Paul-Str.)
+- TOP 3.1.3.: Friedenstr. 22; Umbau denkmalgeschütztes Bestandsgebäude mit Dachausbau zur Büronutzung und Aussenliegenden Fluchttreppen
+- TOP 3.1.4.: Annabrunner Str. 7; Neubau eines Reihenhauses
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Einrichtung von Kurzzeitparkplätzen vor der Kindertagesstätte in der Hermann-Weinhauser-Straße - Anhörung durch das Mobilitätsreferat -
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung in einer städtischen Grünanlage Hier: Behrpark – „Theater Artanos“ am 25. + 26.09.2021 (Ersatztermin: 9. + 10.10.2021)
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.1.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 02.-06.08. oder 06.-10.09.2021 5.000,00 € / Az. 0262.0-14-0302
+- TOP 3.5.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 11.06. - 31.12.2021 2.500,00 € / Az. 0262.0-14-0298 (vertagt aus 07/2021)
+- TOP 3.5.3.: (E) Stadtbezirksbudget Blickwinkelschmiede gGmbH democraticArts&#039;Speakers&#039;Corner mit Workshops vom 01.07 -31.12.2021 6.478,00 € / Az. 0262.0-14-0300
+- TOP 3.5.4.: (E) Stadtbezirksbudget Eltern-Kind-Initiative Ali Baba e.V. Anschaffungen für Kindergartenkinder 4.050,00 € / Az. 0262.0-14-0301
+- TOP 3.5.5.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Zwei Autorenlesungen und -vorträge zum 100.Geburtstag von Sophie Scholl am 04.10 und 25.10.2021 550,00€; Az. 0262.0-14-0304
+- TOP 3.6.1.: Baumkirchner Str. 5; Nutzungsänderung einer Hausbrauerei im Hofbau / Rückgebäude zu einer gastronomischen Eventlocation im KG und EG sowie Büroflächen im 1.OG
+- TOP 3.6.2.: Levelingstr. 10, Neubau eines gewerblich genutzten Gebäudes mit Tiefgarage - VORBESCHEID - vorerst nur Anhörung zum Baumschutz durch das Referat für Stadtplanung und Bauordnung -
+- TOP 3.6.3.: Annabrunner Str. 7; Neubau eines Reihenhauses
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
