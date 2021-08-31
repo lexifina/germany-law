@@ -1,0 +1,81 @@
+# 7. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-08-31T16:05:00+02:00
+- Ende: 2021-08-31T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23754
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23754
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohner*innen
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Einrichtung Zählstellen Transitverkehr - Sache ist erledigt
+- TOP 1.1.1: Einrichtung Zählstellen Transitverkehr - Kenntnis genommen
+- TOP 1.2: Zusätzlicher Sachkundiger Einwohner*in im Verkehrsausschuss - endgültig abgelehnt
+- TOP 1.3: SB Fahrrad -Reparatur -Stationen - endgültig zurückgezogen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Neue Stadtbahnhaltestelle Sürth Süd auf der Linie 16 - ungeändert beschlossen
+- TOP 3.2: Bedarfsfeststellungsbeschluss - Erstellung eines Raumbuchs Mobilstationen - geändert beschlossen
+- TOP 3.2.1: Top 3.2. Bedarfsfeststellungsbeschluss - Erstellung eines Raumbuchs Mobilstationen - ungeändert beschlossen
+- TOP 3.3: Radschnellweg Köln-Frechen - ungeändert beschlossen
+- TOP 3.4: Radverkehrskonzept Innenstadt - Kölner Ringe - Abschnitt Hohenzollernring, Kaiser-Wilhelm-Ring, Hansaring - Beschlussempfehlung zu dem Prüfauftrag gemäß Beschluss 1571/2021 vom 24.06.2021 bzw. Bezirksvertretung Innenstadt vom 10.06.2021 - ungeändert beschlossen
+- TOP 3.5: Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601- - im ersten Durchgang verwiesen
+- TOP 3.6: Bedarfsfeststellung über die Ersatzbeschaffung von Fahrzeugen und Geräte für das Amt für Straßen und Verkehrsentwicklung - zurückgestellt
+- TOP 3.7: Bedarfsfeststellungsbeschluss für die externe Vergabe von Planungsleistungen zur Einrichtung von Mobilstationen an Haltestellen der DB AG - geändert beschlossen
+- TOP 3.7.1: Top 3.7 „Bedarfsfeststellungsbeschluss für die externe Vergabe von Planungsleistungen zur Einrichtung von Mobilstationen an Haltestellen - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - zurückgestellt
+- TOP 4.2: 277. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.3: Neubau eines Brunnens am Neumarkt - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Planungs- und Bedarfsfeststellungsbeschluss für die Vergabe der weiteren externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme „Vierspuriger Ausbau der Frankfurter Straße zwischen der Theodor-Heuss-Str - zurückgestellt
+- TOP 4.5: Beschluss des Zielbilds für die Kölner Weststadt - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Rondorf Nord-West, Entflechtungsstraße - im ersten Durchgang verwiesen
+- TOP 4.7: Erneuerung der Eisenbahnüberführung der Deutz-Mülheimer Straße, Bauwerk B in Köln-Deutz durch die DB Netz AG - ungeändert empfohlen
+- TOP 4.8: 3. Fortschreibung des Luftreinhalteplanes Köln - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Parkhäuser in der Innenstadt - zurückgestellt
+- TOP 5.2.2: Umsetzung von Rasengleisen bei Sanierungen und Neubau von Gleisstrecken - Sache ist erledigt
+- TOP 5.2.3: Künftige Förderung von Quartiersgaragen - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Richard-Wagner-Straße/Moltkestraße - Sache ist erledigt
+- TOP 6.2: Temporäre Spielstraßen - Sache ist erledigt
+- TOP 6.3: Beantwortung der Anfrage der SPD-Fraktion“ Parkplätze an Kölner Schulen“ (AN/0736/2021), TOP 5.2.4 aus der Sitzung vom 20.04.2021 des Verkehrsausschusses - Sache ist erledigt
+- TOP 6.4: Abgestellte Wohnmobile, Wohnwagen und Freizeitmobile - Sache ist erledigt
+- TOP 6.5: Auswertung von Daten aus der E-Scooter-Nutzung - Sache ist erledigt
+- TOP 6.6: Lösungsmöglichkeiten für sog. Protected Bike Lanes (PBL) - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Positionspapier der Metropolregion Rheinland (MRR) zur Neuaufstellung des ÖPNV-Bedarfsplans NRW - Kenntnis genommen
+- TOP 7.2.2: Realisierbarkeit von Quartiersgaragen und eines zugehörigen Masterplans - Kenntnis genommen
+- TOP 7.2.3: Kölner Statistische Nachrichten 9/2021 – Kraftfahrzeuge - Kenntnis genommen
+- TOP 7.2.4: 3. Baustufe Nord-Süd Stadtbahn - Sachstand - Kenntnis genommen
+- TOP 7.2.5: Verkehrsunfallentwicklung, Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2020 in Köln - Kenntnis genommen
+- TOP 7.2.6: Umsetzung Beschlüsse „Europäische Mobilitätswoche“ (AN/1740/2019) und „Mobilitätsmesse“ (AN/0441/2021) - Kenntnis genommen
+- TOP 7.2.7: Auswirkungen des Unwetters auf Köln, hier: Anfrage der Fraktion Bündnis 90 / Die Grünen, der CDU-Fraktion und der Volt-Fraktion zur Sitzung des Hauptausschusses am 23.8.2021, AN/1561/2021 - Kenntnis genommen
+- TOP 7.2.8: Neues Modell: kombinierte Fahrradabstell- und Werbeanlagen für Köln - Kenntnis genommen
+- TOP 7.2.9: Regelmäßigen Informationsfluss und -austausch zu bedeutsamen Verkehrsinfrastrukturprojekten sicherstellen - Kenntnis genommen
+- TOP 7.2.10: Auswirkungen des Starkregenereignisses vom 14. Juli 2021 auf die Kölner Verkehrs-Betriebe AG - Kenntnis genommen
+- TOP 7.2.11: Fahrplanwechsel 2021 - Anbindung der Ausweichquartiere des Bezirksrathauses Rodenkirchen - Kenntnis genommen
+- TOP 7.2.12: Stadtbahnanbindung Rondorf-Meschenich - Stand der Planung - Kenntnis genommen
+- TOP 7.2.13: Realisierungswettbewerb für die beiden neuen Fuß- und Radwegbrücken über den Rhein auf Höhe des Ubierrings und der Bastei - Kenntnis genommen
+- TOP 7.2.14: Ausweitung der Abstellverbotszonen und festen Rückgabeorte für E-Scooter - Kenntnis genommen
+- TOP 7.2.15: Qualitätsbericht 2020 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 7.2.16: Parkplatz Salzburger Weg in Köln-Junkersdorf - zu AN/1093/2021 (TOP 2.5 des Ausschusses Schule und Weiterbildung vom 07.06.2021) - Kenntnis genommen
+- TOP 7.2.17: Rheinpendel - Eingrenzung des Untersuchungsraumes für Machbarkeitsstudie - zurückgestellt
+- TOP 7.2.18: Stadtbahnvorhaben Köln - Niederaußem - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Infoveranstaltung zum Deutzer Hafen - Sache ist erledigt
+- TOP 8.2: Förderprogramm "Stadt und Land" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Neue Anzeigetafeln der KVB AG - Sache ist erledigt
+- TOP 8.4: Linie 12 - Sache ist erledigt
+- TOP 8.5: Beschlusscontrolling - Sache ist erledigt
