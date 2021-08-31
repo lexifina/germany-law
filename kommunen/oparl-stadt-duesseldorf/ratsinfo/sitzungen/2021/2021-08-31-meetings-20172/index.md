@@ -1,0 +1,57 @@
+# Ausschuss für Gesundheit und Soziales
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-08-31T16:41:00+02:00
+- Ende: 2021-08-31T19:02:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/9
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20172
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20172
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421916.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421916.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421916.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP -: SI-AGS/08/2020: Ausschuss für Gesundheit und Soziales am 13.01.2021 - einstimmig beschlossen
+- TOP 3: Schriftliche Sachstandsberichte zum Thema Corona
+- TOP 3.1: Gesundheitsamt - zur Kenntnis genommen
+- TOP 3.2: Amt für Migration und Integration - zur Kenntnis genommen
+- TOP 3.3: Amt für Soziales - zur Kenntnis genommen
+- TOP 3.4: liga wohlfahrt düsseldorf - zur Kenntnis genommen
+- TOP 3.5: Jobcenter Düsseldorf - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der SPD/Volt Ratsfraktion, Eingang am 11.08.2021, hier: Anfrage der SPD/Volt Ratsfraktion zu den Hygienebedingungen für wohnungslose Menschen - schriftlich beantwortet
+- TOP 4.2: Anfrage der FDP-Ratsfraktion, Eingang am 19.08.2021, hier: Impfdurchbrüche in Düsseldorf - schriftlich beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion DIE LINKE, Eingang am 20.08.2021, hier: Anrechnung von Versicherungsleistungen im SGB XII-Bezug - schriftlich beantwortet
+- TOP 5: Anträge
+- TOP 5.1: Antrag der Ratsfraktion SPD/Volt: „Heartbeat- Düsseldorf rettet“: Stadtweite Kampagne zum Erlernen der Herzdruckmassage - einstimmig beschlossen
+- TOP 5.2: Antrag des Seniorenrates: Gebühren für Personalausweise - Empfehlung einstimmig beschlossen
+- TOP 5.3: Antrag der Ratsfraktion DIE LINKE, Eingang am 20.08.2021, hier: Leistungen der einmaligen Bedarfe für Betroffene transparent gestalten - zurückgezogen
+- TOP -: Amt für Soziales
+- TOP 6: Vorträge zum Thema pflegende Angehörige
+- TOP 6.1: Vortrag von Silke Lua, Regionalbüro Alter, Pflege und Demenz - zur Kenntnis genommen
+- TOP -: Pflegende Angehörige im Fokus der Regionalbüros Alter, Pflege und Demenz und den Organisationen der Selbsthilfe
+- TOP 6.2: Vortrag von Jörg Marx, Verein Wir pflegen! Interessenvertretung und Selbsthilfe pflegender Angehöriger in NRW e.V. - zur Kenntnis genommen
+- TOP -: Selbsthilfe und Interessensvertretung für pflegende Angehörige - Der Verein "Wir pflegen NRW e.V."
+- TOP 7: Controllingbericht über die Arbeit der "zentren plus" 2020 - zur Kenntnis genommen
+- TOP 8: Düsseldorfer Verbund Schuldnerberatung Sachstandsbericht 2020 und Controllingbericht 2020 - zur Kenntnis genommen
+- TOP 9: Vortrag von Regina Nitsche, Schuldner- und Insolvenzberatung Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP -: Bericht über die Präventionsarbeit im Verbund der Schuldnerberatungsstellen
+- TOP 10: Bericht über die 3. Sitzung des Pflegegipfels am 02.07.2021 - zur Kenntnis genommen
+- TOP 11: Recherche zum Prüfauftrag "Kommunale Altenpflege" aus der Sitzung des AGS vom 27.11.2019 - zur Kenntnis genommen
+- TOP -: Gesundheitsamt
+- TOP 12: Umwidmung der Zuschussmittel für den Düsseldorf Drogenhilfe e.V. hinsichtlich Umbau / Erweiterung des Drogenkonsumraums - einstimmig beschlossen
+- TOP 13: Mittelverwendung aus dem Produkt 41 414 01 Konto 52180000, Aufhebung des Sperrvermerks für den Förderantrag der Diakonie Düsseldorf in Zusammenarbeit mit dem Verein stop mutilation e.V. - einstimmig beschlossen
+- TOP -: Amt für Migration und Integration
+- TOP 14: Wohnungslosenhilfe - Jahresbericht 2020 der Arbeitsgemeinschaft nach § 4 in Verbindung mit §§ 67 ff. Sozialgesetzbuch Zwölftes Buch der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 15: Verlässliches Engagement für Integrationsprojekte: Evaluation der Sprachangebote 2021 - zur Kenntnis genommen
+- TOP -: Fachübergreifende Themen
+- TOP 16: Vortrag von Laura Schmitz und Ursula Kraus, Jugendhilfeplanung 51/01 - zur Kenntnis genommen
+- TOP -: Düsseldorfer Präventionsketten Die Düsseldorfer Präventionsdatenbank: AchtungKind.de
+- TOP 17: Düsseldorf Fit-Mobil - zur Kenntnis genommen
+- TOP 18: Verschiedenes - zur Kenntnis genommen
