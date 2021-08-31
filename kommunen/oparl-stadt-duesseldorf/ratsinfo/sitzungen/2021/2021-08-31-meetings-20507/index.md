@@ -1,0 +1,89 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-08-31T17:00:00+02:00
+- Ende: 2021-08-31T21:47:00+02:00
+- Ort: Tulip Inn Hotel Düsseldorf Arena - Meetingraum (Fortuna 1 - 3), Arenastraße 3, 40474 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20507
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20507
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00420619.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00420619.pdf
+- Wortprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00420619.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 29. Juni 2021 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Rückbau B8 zwischen Froschenteich und Stadtgrenze Düsseldorf/Duisburg - mündlicher Bericht - zur Kenntnis genommen
+- TOP 5: Sicherheit, Ordnung und Vorbeugung auch im Düsseldorfer Norden - mündlicher Bericht - zur Kenntnis genommen
+- TOP 6: Naturnaher Ausbau des Kittelbachs als U81 Kompensationsmaßnahme - mündlicher Bericht - zur Kenntnis genommen
+- TOP 7: Städtebaulicher Wildwuchs in Lohausen - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Engländersiedlung Lohausen - Empfehlung einstimmig beschlossen
+- TOP 16: Qualitätssicherung - Östlich zur Lindung - Weitere Vorgehensweise - Empfehlung mehrheitlich beschlossen
+- TOP 17: Bebauungsplan - Entwurf Nr. 05/014 - Ehemals Fashion House - Empfehlung abweichend beschlossen
+- TOP 18: Trödelmärkte auf dem Messeparkplatz P1 im September und Oktober 2021 - einstimmig beschlossen
+- TOP 19: Weihnachtsmarkt auf dem Klemensplatz im Jahre 2021 - einstimmig beschlossen
+- TOP 20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2021 - Liste A) Schulen 2121101 / 52415500 - einstimmig beschlossen
+- TOP 21: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - abweichend beschlossen
+- TOP 22: Der Klimawandel hat Auswirkungen auf die Bäume – - zur Kenntnis genommen
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Sitzungstermine der Bezirksvertretung 5 im Jahr 2022 - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 27: Knotenpunktumbau B 8 - "Am Spielberg"
+- TOP 28: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 29: Stellungnahme der Stadt Düsseldorf zum Ausbau des Kreuzungsbereiches Am Spielberg der B8n
+- TOP 30: Mehrgenerationencampus Kaiserwerth - Bedarf an altengerechten Wohnungen im Bezirk 5
+- TOP 31: Schwarzbachauen - beantwortet
+- TOP 32: Beteiligung der Stadt Düsseldorf sowie Städtischer Töchter an der Bodenpreis- und Mietpreisentwicklung in Lohausen - beantwortet
+- TOP 33: Photovoltaikanlagen auf den neuen Anbauten der Montessori Grundschule Farnweg 10, sowie der Toni-Turek-Realschule Klapheckstraße 31 - beantwortet
+- TOP 34: Leerstehender Wohnraum in Kaiserswerth - beantwortet
+- TOP 35: Angermunder Straße/Gerichtsschreiberweg - angepasste Geschwindigkeitsbegrenzung
+- TOP 36: Radwege auf der Einbrunger Straße - beantwortet
+- TOP 37: Umsetzung des Landschaftsschutzes am Himgesberg - beantwortet
+- TOP 38: Hochwasserschutzmauer Rheinuferpromenade - beantwortet
+- TOP -: Neue Anfragen
+- TOP 39: Durchgangsverkehr auf der Oberdorfstraße/Am Kleianspatt und Am Frohnhof überprüfen und Maßnahmen ergreifen - beantwortet
+- TOP 40: Bürgersteig auf der Einbrunger Straße
+- TOP 41: Blutbuche auf dem Grundstück "Am Mühlenturm 12"
+- TOP 42: Hochwasserschaden Alte Landstraße
+- TOP 43: Wer ist zuständig für den Hannes-Esser-Platz?
+- TOP 44: Umbau Zeppenheimer Straße
+- TOP 45: Terrassenfläche Feuerwache FF Angermund - beantwortet
+- TOP 46: Hochwasserschutz in Angermund
+- TOP 47: Festplatz am Rhein
+- TOP 48: Hol- und Bringverkehr Kaiserswerth: Umsetzung der Beschlüsse zu Kiss and Ride - vollständig und nachvollziehbar?!
+- TOP 49: Starkregenvorsorge im Stadtbezirk 5
+- TOP -: Anträge
+- TOP 50: Definitive Sicherung der Hochwasserschutzmauer vor den Häusern Am Mühlenturm 12 - 14 - abweichend beschlossen
+- TOP 51: Hannes-Esser-Platz endlich pflegen - einstimmig beschlossen
+- TOP 52: Neubau eines Gerätehauses für die Freiwillige Feuerwehr Kaiserswerth - schnellstmöglich und gestalterisch ansprechend verwirklichen - einstimmig beschlossen
+- TOP 53: Schaffung von ausgewiesenen Sammelparkflächen für E-Roller in Lohausen - mehrheitlich beschlossen
+- TOP 54: Geschwindigkeits- und "Ordnungskontrolle" auf der Lohauser Dorfstraße, zwischen Hausnummer 41 und der Niederrheinstraße, Schwerpunkt 21:30 - 0:00 Uhr an den Wochenenden, d.h. von Freitag - Sonntag in beiden Richtungen - einstimmig beschlossen
+- TOP 55: Nichts ist dauerhafter als ein Provisorium!? (II) Provisorische Sicherung der Hochwasserschutzmauer angemessen gestalten! - abweichend beschlossen
+- TOP 56: Hochwasser-/Starkregenschutz im Stadtbezirk 5 - abweichend beschlossen
+- TOP 57: Steuerung der baulichen Entwicklung in Kalkum-Unterdorf - einstimmig beschlossen
+- TOP 58: Renaturierung des Kittelbachs - Wann endet die jahrzehntelange Zeit der Planungen? - zurückgezogen
+- TOP 59: Wohnungsbau an der Verweyenstraße zügig umsetzen - mehrheitlich abgelehnt
+- TOP 60: Radfahren auf der Sankt-Göres-Straße - einstimmig beschlossen
+- TOP 61: Mehr Blühstreifen im Stadtbezirk 5 - abweichend beschlossen
+- TOP 62: Überflutungsschutz im Stadtbezirk 5 – Austausch mit dem Rheinisch Bergischen Wasserverband - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 63: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 64: Beschlusskontrolle der Bezirksvertretung 5 im Jahr 2021 - zur Kenntnis genommen
+- TOP 65: Verschiedenes
+- TOP 66: Bebauungsplan Nr. 5588/01 - Am Platten Stein - Anordnung einer Umlegung - Empfehlung einstimmig beschlossen
+- TOP 67: Bebauungsplan-Entwurf Nr. 06/011 - Airport City West - Empfehlung mehrheitlich beschlossen
