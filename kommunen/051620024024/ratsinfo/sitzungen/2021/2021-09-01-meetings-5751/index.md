@@ -1,0 +1,54 @@
+# BZA II - Nordstadt
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-09-01T17:00:00+02:00
+- Ende: 2021-09-01T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/231
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5751
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5751
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00149668.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00149668.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00149668.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Verpflichtung sachkundige Bürger
+- TOP 3: Genehmigung der Tagesordnung
+- TOP 4: Bestellung einer Schriftführung und einer stellvertretenden Schriftführung - einstimmig zugestimmt
+- TOP 5: Einwohner*innenfragestunde
+- TOP -: Anträge
+- TOP 6: Antrag der CDU-Mitglieder betr.: Fußweg Am Katzenberg / Rückseite Am Hohen Weg 1-17d sicherer machen - beraten ohne Abstimmung
+- TOP 7: Antrag der CDU-Mitglieder betr.: Trinkwasserspender im Nordpark und Öffnung der Toilettenanlage für Besucher des Parks - einstimmig zugestimmt
+- TOP 8: Antrag der CDU-Mitglieder betr.: Grünpflege in der Nordstadt - beraten ohne Abstimmung
+- TOP 9: Antrag der CDU-Mitglieder betr.: Umzäunte Hundeauslaufflächen in der Nordstadt - einstimmig zugestimmt
+- TOP 10: Antrag der CDU-Mitglieder betr.: Naherholungsgebiete im Neusser Norden - einstimmig zugestimmt
+- TOP 11: Antrag der CDU-Mitglieder betr.: Sachstandsbericht Haltepunkt Morgensternsheide - einstimmig zugestimmt
+- TOP 12: Antrag der CDU-Mitglieder betr.: Ladestationen für Elektro-PKW - beraten ohne Abstimmung
+- TOP 13: Antrag der CDU-Mitglieder betr.: Barrierefreier Bürgersteig in der Nibelungenstraße - einstimmig zugestimmt
+- TOP 14: Antrag der CDU-Mitglieder betr.: Sachstand Eisenbahnunterführung Barbaraviertel - beraten ohne Abstimmung
+- TOP 15: Antrag der CDU-Mitglieder betr.: Fahrradständer für die Bockholtstraße - verwiesen
+- TOP 16: Antrag der CDU-Mitglieder betr.: Tempo 30 Zone auf der Normannenstraße - verwiesen
+- TOP 17: Antrag der CDU-Mitglieder betr.: Geschwindigkeitsreduzierung auf der Düsseldorfer Straße - verwiesen
+- TOP 18: Antrag der CDU-Mitglieder betr.: Änderung der Verkehrsführung der Marienstraße - verwiesen
+- TOP 19: Antrag der CDU-Mitglieder betr.: Änderung der Verkehrsführung der Josefstraße - verwiesen
+- TOP 20: Antrag der CDU-Mitglieder betr.: Änderung der Nutzung an der Katharina-Braeckeler-Straße - mehrheitlich abgelehnt
+- TOP 21: Antrag der CDU-Mitglieder betr.: Einbahnstraßenlösung für das Teilstück Frankenstraße zwischen Kolpingstraße und Fesserstraße - verwiesen
+- TOP 21.1: Antrag der Mitglieder der Kooperation betr.: Umsetzung Ortsmittelpunkteprogramm - einstimmig zugestimmt
+- TOP 21.2: Antrag der Mitglieder der Kooperation betr.: Maßnahmen zur Einhaltung der Geschwindigkeitsbegrenzung Burgunderstraße - verwiesen
+- TOP 21.3: Antrag der Mitglieder der Kooperation betr.: Linksabbiegestreifen Am Strauchbusch - einstimmig zugestimmt
+- TOP 21.4: Antrag der Mitglieder der Kooperation betr.: Kreuzung zwischen Broichstraße und Steinhausstraße besser einsehbar machen - einstimmig zugestimmt
+- TOP 21.5: Antrag der Mitglieder der Kooperation betr.: Verkehrliche Verbesserungen für die Düsseldorfer Straße - verwiesen
+- TOP -: Anfragen
+- TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+- TOP -: Mitteilungen der Verwaltung
+- TOP 22: Brücke über den Verschiebebahnhof, Sicherungsmaßnahmen - zur Kenntnis genommen
+- TOP 22.1: Sachstand zum Neubau des Haltepunktes "Neuss Johanna-Etienne-Krankenhaus" - zur Kenntnis genommen
+- TOP 23: Aufgaben des Beauftragten für Baukommunikation und -koordination - zur Kenntnis genommen
+- TOP 24: Bericht der Bezirksbeamten der Kreispolizeibehörde - zur Kenntnis genommen
+- TOP 25: Bericht aus Rat und Fachausschüssen zu Angelegenheiten des Bezirks - zur Kenntnis genommen
+- TOP 26: Einwohner*innenfragestunde
