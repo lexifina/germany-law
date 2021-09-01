@@ -1,0 +1,70 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2021-09-01T17:00:00+02:00
+- Ende: 2021-09-01T20:02:00+02:00
+- Ort: Geschwister-Scholl-Gymnasium
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4443
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4443
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 4: Wahl einer/eines Beigeordneten für Klima, Stadtbetrieb und Gebäude - ungeändert beschlossen
+- TOP 5: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 19.05.2021 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 6: Hochwasser - Bericht der Verwaltung
+- TOP 7: Pandemische Lage - Bericht der Verwaltung
+- TOP 8: Luftfilter an Schulen und Kindertageseinrichtungenhier: Tagesordnungsanträge der SPD-Fraktion vom 13.07.2021 sowie der CDU-Fraktion vom 28.07.2021
+- TOP 8.1: Sachstand zu Maßnahmen der Belüftung und Luftfilterung in Turnhallen, Kitas und Schulen - zur Kenntnis genommen
+- TOP 9: Bericht des Weltklimarates (IPCC)hier: Tagesordnungsantrag der Fraktion DIE Zukunft vom 17.08.2021
+- TOP 10: Genehmigung von Dringlichkeitsentscheidungen:
+- TOP 10.1: Genehmigung der Dringlichkeitsentscheidung vom 21.07.2021 für ein Hilfspaket für die vom Hochwasser besonders betroffenen Menschen - ungeändert beschlossen
+- TOP 10.2: Genehmigung der Dringlichkeitsentscheidung vom 02.08.2021 für die Erhöhung des Hilfsfonds für die vom Hochwasser besonders betroffenen Menschen - ungeändert beschlossen
+- TOP 10.3: Genehmigung der Dringlichkeitsentscheidung für den Rat der Stadt Aachen gem. § 60 GO NRW - Beschaffen von mobilen Luftfiltergeräten sowie stationären raumlufttechnischen Anlagen für sämtliche städt. Grundschulen - ungeändert beschlossen
+- TOP 10.4: Dringlichkeitsentscheidung Kultursommer 2021 (Stadtglühen) - geändert beschlossen
+- TOP 10.5: Ordnungsbehördliche Verordnung zur Darbietung von Straßenmusik im Bereich der Aachener Innenstadt - ungeändert beschlossen
+- TOP 10.6: Genehmigung einer weiteren Dringlichkeitsentscheidung für den Rat der Stadt Aachen gem. § 60 GO NRW - Beschaffen von mobilen Luftfiltergeräten für sämtliche städt. Grundschulen - ungeändert beschlossen
+- TOP 11: Rettungsschirm für Kulturschaffende erwirken;Gemeinsamer Ratsantrag Nr. 636/17 der sechs Ratsfraktionen vom 03.08.2020 - ungeändert beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen für das Jahr 2021 - ungeändert beschlossen
+- TOP 13: Unterzeichnung der Circular Cities Declaration - geändert beschlossen
+- TOP 14: Teilhabe an digitalen Angeboten ermöglichen – Tagesordnungsantrag der CDU-Fraktion vom 21.04.2021 und Ratsantrag der CDU-Fraktion vom 03.02.2021 - ungeändert beschlossen
+- TOP 15: Satzung zur Aufhebung der Satzung über die förmliche Festlegung des Sanierungsgebietes "Eilendorf" - ungeändert beschlossen
+- TOP 16: Bebauungsplan Nr. 1000 S - Erweiterung Uniklinik -;hier: Satzungsbeschluss, ergänzendes Verfahren nach § 214 Abs. 4 BauGB - ungeändert beschlossen
+- TOP 17: Änderung Nr. 21 des Landschaftsplans 1988 der Stadt AachenHier: Überleitung wegen der geänderten Rechtsgrundlage des LNatSchG –und damit verbundene Anpassung zu Ziff. 3.7 Ordnungswidrigkeiten im Rahmen einer vereinfachten Änderung gemäß § 20 Abs. 2LNatSchG- - ungeändert beschlossen
+- TOP 18: Beschluss über eine Veränderungssperre für das Grundstück Nizzaallee 15, 21 (Flurstücke 1941 und 1942, Flur 70, Gemarkung Aachen) im Stadtbezirk Aachen-Mitte - ungeändert beschlossen
+- TOP 18.1: Beschluss über eine Veränderungssperre im Planbereich an der Nizzaallee (Flurstücke 1941 und 1942, Flur 70, Gemarkung Aachen) im Stadtbezirk Aachen-Mitte - ungeändert beschlossen
+- TOP 19: Jahresabschluss für den Kulturbetrieb für das Jahr 2020 - ungeändert beschlossen
+- TOP 20: Zensus 2022 - ungeändert beschlossen
+- TOP 21: Feststellung der Gültigkeit der Wahl des Oberbürgermeisters/der Oberbürgermeisterin, der Wahl des Rates, der Bezirksvertretungen und des Integrationsrates der Stadt Aachen am 13. September 2020 sowie der Stichwahl des Oberbürgermeisters/der Oberbürgermeisterin am 27.09.2020 - ungeändert beschlossen
+- TOP 22: Spielhallen - Erlaubnisgenehmigung nach dem Glücksspielstaatsvertrag 2021 - vertagt
+- TOP 23: Bestellung des*der Beigeordneten für Personal- und Organisation zum Dienststellenleiter*in der Teildienststelle Feuerwehr und Rettungsdienst (FB 37) im Sinne des LPVG NRW mit sofortiger Wirkung - vertagt
+- TOP 24: Einrichtung einer Stelle im Fachbereich Feuerwehr und Rettungsdienst (FB 37) für die Werkfeuerwehr des Universitätsklinikums Aachen - ungeändert beschlossen
+- TOP 25: Anfragen:
+- TOP 25.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 25.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 26: Ratsanträge - zur Kenntnis genommen
+- TOP 27: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 27.1: Bestellung eines stellv. beratenden Mitglieds des Aufsichtsrates der Wassergewinnungs- und Aufbereitungsgesellschaft Nordeifel mbH (WAG) - ungeändert beschlossen
+- TOP 27.2: Umbesetzungsantrag der Fraktion DIE LINKE vom 25.08.2021 - ungeändert beschlossen
+- TOP 27.3: Gemeinsamer Umbesetzungsantrag der Fraktionen DIE Zukunft und DIE LINKE vom 25.08.2021 - ungeändert beschlossen
+- TOP 27.4: Umbesetzungsantrag der SPD-Fraktion vom 31.08.2021 - ungeändert beschlossen
+- TOP 28: Mitteilungen der Verwaltung
+- TOP 29: Sonderförderung für Flutopfer im Rahmen der städtischen Förderprogramme für Solaranlagen und energetische Gebäudesanierung - vertagt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
