@@ -1,0 +1,62 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-01T17:08:00+02:00
+- Ende: 2021-09-01T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20222
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20222
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421286.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421286.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421286.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung von Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 12.05.2021 - beschlossen
+- TOP 3.2: Genehmigung der Niederschrift vom 16.06.2021 - beschlossen
+- TOP 4: Anfragen / Anträge
+- TOP 4.1: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Verbot von Schotter- und Kiesgärten bei Neu-und Umbauten - abweichend beschlossen
+- TOP 4.2: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/370/2021 - zurückgezogen
+- TOP 4.3: Glasmacherviertel - Anfrage der Ratsfraktion DIE LINKE - beantwortet
+- TOP 5: Aktuelle Rechtsentwicklungen
+- TOP 5.1: Neues Baulandmobilisierungsgesetz
+- TOP 5.2: Weiterentwicklung der Bauordnung NRW
+- TOP 5.3: zurückgezogen
+- TOP -: Stadtentwicklung
+- TOP 6: 3. Änderung des Rahmenplans Einzelhandel - Zentrum Henkelstraße - vertagt
+- TOP -: Qualitätssichernde Verfahren
+- TOP 7: Workshop „Perspektiven Gewerbestandort Kappeler Straße“, Industriekernzone 9.3.A „Nördlich Münchener Straße“ - zur Kenntnis genommen
+- TOP 8: Städtebaulicher Wettbewerb Nr. 04/028 - Hansaallee/Schwalmstraße - einstimmig beschlossen
+- TOP 9: Wettbewerb "Mixed-Use Hochhaus" am Belsenpark II - vertagt
+- TOP 10: Qualitätssicherung - Östlich zur Lindung - Weitere Vorgehensweise - einstimmig beschlossen
+- TOP 11: Dialogverfahren - Zukunft der Kö - vertagt
+- TOP -: Bauleitplanung
+- TOP 12: Bebauungsplan Nr. 02/013 - Metro Campus - vertagt
+- TOP 13: Engländersiedlung Lohausen - Weitere Vorgehensweise - vertagt
+- TOP 14: Bebauungsplan-Vorentwurf Nr. 07/007 - Glasmacherviertel - Weiteres Vorgehen - vertagt
+- TOP 15: Flächennutzungsplanänderung Nr. 166 - "Grafental Ost" - vertagt
+- TOP 16: Flächennutzungsplanänderung Nr. 202 - Nördlich Henkelstraße - vertagt
+- TOP 17: Bebauungsplan-Entwurf Nr. 09/020 - Östlich Walzwerkstraße - vertagt
+- TOP 18: Bebauungsplan-Entwurf Nr. 06/003 - Ludwig-Beck-Straße - vertagt
+- TOP 19: Bebauungsplanverfahren Nr. 03/036 - Östlich Christophstraße - einstimmig beschlossen
+- TOP 20: Bebauungsplan-Entwurf Nr. 03/011 - Kaistraße 1 - mehrheitlich beschlossen
+- TOP 21: Bebauungsplan Nr. 06/014 - Vogelsanger Weg / Münsterstraße - vertagt
+- TOP 22: Bebauungsplan-Entwurf Nr. 06/011 - Airport City West - mehrheitlich beschlossen
+- TOP 23: Bebauungsplan - Entwurf Nr. 05/014 - Ehemals Fashion House - Empfehlung mehrheitlich beschlossen
+- TOP 24: Bebauungsplan Nr. 5588/01 - Am Platten Stein - Anordnung einer Umlegung - einstimmig beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Ulmenstraße 295 - Errichtung eines Großmarktes sowie von Büroflächen - vertagt
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Grundstücksangelegenheiten
+- TOP 28: Ausschreibungsverfahren Torfbruchstraße 171/173 - Wohnen und Ateliers für Künstler*innen - einstimmig beschlossen
+- TOP -: Sonstiges
+- TOP 29: Sitzungstermine des Ausschusses für Planung und Stadtentwicklung im Jahre 2022 - zur Kenntnis genommen
+- TOP 30: Anmeldung von Fördermaßnahmen - einstimmig beschlossen
+- TOP 31: Vertical Farming in Düsseldorf - zur Kenntnis genommen
