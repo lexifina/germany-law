@@ -1,0 +1,1 @@
+2. § 1 der Verordnung über die Bestimmung der zuständigen Stelle für die Durchführung der Prüfung zum anerkannten Abschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung in Werkstätten für behinderte Menschen vom 24. Juni 2002 (BGBl I S. 2281)

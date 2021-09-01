@@ -1,0 +1,1 @@
+die Bayerischen Staatsministerien für Arbeit und Sozialordnung, Familie und Frauen, des Innern, der Justiz, für Wissenschaft, Forschung und Kunst, für Unterricht und Kultus, der Finanzen, für Wirtschaft, Infrastruktur, Verkehr und Technologie sowie für Umwelt, Gesundheit und Verbraucherschutz
