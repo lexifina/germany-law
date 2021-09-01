@@ -1,2 +1,2 @@
 # § 9a Übergangsregelung
-Für Umzüge, die vor dem 1. Juli 2011 beendet worden sind, ist die Umzugskostenvergütung abweichend von § 2 Absatz 7 Satz 1 innerhalb einer Ausschlussfrist von einem Jahr zu beantragen.
+In Fällen, in denen die Zusage der Umzugskostenvergütung vor dem 1. September 2021 erteilt worden ist, gilt das Bremische Umzugskostengesetz in der am 31. August 2021 geltenden Fassung.
