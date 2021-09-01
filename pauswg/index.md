@@ -9,15 +9,16 @@
 - [§ 3 Vorläufiger Personalausweis](0003.md)
 - [§ 4 Eigentum am Ausweis; Ausweishersteller; Vergabestelle für Berechtigungszertifikate](0004.md)
 - [§ 5 Ausweismuster; gespeicherte Daten](0005.md)
-- [§ 6 Gültigkeitsdauer; vorzeitige Beantragung; räumliche Beschränkungen](0006.md)
+- [§ 6 Gültigkeitsdauer des Ausweises; vorzeitige Beantragung; räumliche Beschränkungen](0006.md)
 - [§ 6a Versagung und Entziehung; Ersatz-Personalausweis](0006a.md)
 - [§ 7 Sachliche Zuständigkeit](0007.md)
 - [§ 8 Örtliche Zuständigkeit; Tätigwerden bei örtlicher Unzuständigkeit](0008.md)
 
-## Abschnitt 2 Ausstellung und Sperrung des Ausweises
+## Abschnitt 2 Ausstellung und Sperrung des Ausweises; elektronischer Identitätsnachweis
 
 - [§ 9 Ausstellung des Ausweises](0009.md)
-- [§ 10 Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identitätsnachweises](0010.md)
+- [§ 10 Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identitätsnachweises mit dem Personalausweis](0010.md)
+- [§ 10a Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät](0010a.md)
 - [§ 11 Informationspflichten](0011.md)
 - [§ 12 Form und Verfahren der Datenerfassung, -prüfung und -übermittlung](0012.md)
 - [§ 13 Übermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort](0013.md)
@@ -65,4 +66,5 @@
 ## Abschnitt 8 Verordnungsermächtigung; Übergangsvorschrift
 
 - [§ 34 Verordnungsermächtigung](0034.md)
+- [§ 34a Regelungsbefugnisse der Länder](0034a.md)
 - [§ 35 Übergangsvorschrift](0035.md)

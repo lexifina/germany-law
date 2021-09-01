@@ -1,6 +1,4 @@
-# Anlage 3 (zu § 3 Abs. 3 Nr. 5)
-
-Internationale Übereinkünfte
+# Anlage 3 (zu § 3 Absatz 3 Nummer 5)Internationale Übereinkünfte
 
 a) Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie und Brüsseler Zusatzübereinkommen vom 31. Januar 1963 zum Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie (BGBl. 1975 II S. 957);
 b) Wiener Übereinkommen vom 21. Mai 1963 über die zivilrechtliche Haftung für nukleare Schäden (BGBl. 2001 II S. 202);

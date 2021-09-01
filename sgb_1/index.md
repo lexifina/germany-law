@@ -44,7 +44,7 @@ und zuständige Leistungsträger
 - [§ 22 Leistungen der gesetzlichen Unfallversicherung](0022.md)
 - [§ 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte](0023.md)
 - [§ 24 Versorgungsleistungen bei Gesundheitsschäden](0024.md)
-- [§ 25 Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Elterngeld und Betreuungsgeld](0025.md)
+- [§ 25 Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe](0025.md)
 - [§ 26 Wohngeld](0026.md)
 - [§ 27 Leistungen der Kinder- und Jugendhilfe](0027.md)
 - [§ 28 Leistungen der Sozialhilfe](0028.md)

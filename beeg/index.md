@@ -12,16 +12,13 @@
 - [§ 2e Abzüge für Steuern](0002e.md)
 - [§ 2f Abzüge für Sozialabgaben](0002f.md)
 - [§ 3 Anrechnung von anderen Einnahmen](0003.md)
-- [§ 4 Art und Dauer des Bezugs](0004.md)
+- [§ 4 Bezugsdauer, Anspruchsumfang](0004.md)
+- [§ 4a Berechnung von Basiselterngeld und Elterngeld Plus](0004a.md)
+- [§ 4b Partnerschaftsbonus](0004b.md)
+- [§ 4c Alleiniger Bezug durch einen Elternteil](0004c.md)
+- [§ 4d Weitere Berechtigte](0004d.md)
 
-## Abschnitt 2 Betreuungsgeld
-
-- [§ 4a Berechtigte](0004a.md)
-- [§ 4b Höhe des Betreuungsgeldes](0004b.md)
-- [§ 4c Anrechnung von anderen Leistungen](0004c.md)
-- [§ 4d Bezugszeitraum](0004d.md)
-
-## Abschnitt 3 Verfahren und Organisation
+## Abschnitt 2 Verfahren und Organisation
 
 - [§ 5 Zusammentreffen von Ansprüchen](0005.md)
 - [§ 6 Auszahlung](0006.md)
@@ -30,11 +27,11 @@
 - [§ 9 Einkommens- und Arbeitszeitnachweis, Auskunftspflicht des Arbeitgebers](0009.md)
 - [§ 10 Verhältnis zu anderen Sozialleistungen](0010.md)
 - [§ 11 Unterhaltspflichten](0011.md)
-- [§ 12 Zuständigkeit; Aufbringung der Mittel](0012.md)
+- [§ 12 Zuständigkeit; Bewirtschaftung der Mittel](0012.md)
 - [§ 13 Rechtsweg](0013.md)
 - [§ 14 Bußgeldvorschriften](0014.md)
 
-## Abschnitt 4 Elternzeit für Arbeitnehmerinnen und Arbeitnehmer
+## Abschnitt 3 Elternzeit für Arbeitnehmerinnen und Arbeitnehmer
 
 - [§ 15 Anspruch auf Elternzeit](0015.md)
 - [§ 16 Inanspruchnahme der Elternzeit](0016.md)
@@ -44,7 +41,7 @@
 - [§ 20 Zur Berufsbildung Beschäftigte, in Heimarbeit Beschäftigte](0020.md)
 - [§ 21 Befristete Arbeitsverträge](0021.md)
 
-## Abschnitt 5 Statistik und Schlussvorschriften
+## Abschnitt 4 Statistik und Schlussvorschriften
 
 - [§ 22 Bundesstatistik](0022.md)
 - [§ 23 Auskunftspflicht; Datenübermittlung an das Statistische Bundesamt](0023.md)

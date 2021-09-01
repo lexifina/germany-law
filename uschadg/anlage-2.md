@@ -1,6 +1,4 @@
-# Anlage 2 (zu § 3 Abs. 3 Nr. 3)
-
-Internationale Abkommen
+# Anlage 2 (zu § 3 Absatz 3 Nummer 3)Internationale Abkommen
 
 a) Internationales Übereinkommen vom 27. November 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden (Haftungsübereinkommen von 1992, BGBl. 1996 II S. 670);
 b) Internationales Übereinkommen vom 27. November 1992 über die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden (Fondsübereinkommen von 1992, BGBl. 1996 II S. 685);

@@ -15,6 +15,7 @@
 ## Abschnitt 2 Ausstellung und Sperrung der eID-Karte
 
 - [§ 8 Ausstellung der eID-Karte](0008.md)
+- [§ 8a Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät](0008a.md)
 - [§ 9 Sperrung und Entsperrung](0009.md)
 - [§ 10 Informationspflichten](0010.md)
 - [§ 11 Datenerfassung, -prüfung und -übermittlung](0011.md)

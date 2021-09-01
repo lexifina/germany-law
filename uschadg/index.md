@@ -12,12 +12,9 @@
 - [§ 10 Aufforderung zum Tätigwerden](0010.md)
 - [§ 11 Rechtsschutz](0011.md)
 - [§ 12 Zusammenarbeit mit den Mitgliedstaaten der Europäischen Union](0012.md)
+- [§ 12a Vorbereitung der Berichterstattung an die Europäische Kommission](0012a.md)
 - [§ 13 Zeitliche Begrenzung der Anwendung](0013.md)
 - [§ 14 Übergangsvorschrift zu Anlage 1](0014.md)
-- [Anlage 1 (zu § 3 Abs. 1)Berufliche Tätigkeiten](anlage-1.md)
-- [Anlage 2 (zu § 3 Abs. 3 Nr. 3)
-
-Internationale Abkommen](anlage-2.md)
-- [Anlage 3 (zu § 3 Abs. 3 Nr. 5)
-
-Internationale Übereinkünfte](anlage-3.md)
+- [Anlage 1 (zu § 3 Absatz 1)Berufliche Tätigkeiten](anlage-1.md)
+- [Anlage 2 (zu § 3 Absatz 3 Nummer 3)Internationale Abkommen](anlage-2.md)
+- [Anlage 3 (zu § 3 Absatz 3 Nummer 5)Internationale Übereinkünfte](anlage-3.md)
