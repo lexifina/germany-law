@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 17 Absatz 1 Satz 1 des Raumordnungsgesetzes vom 22. Dezember 2008 (BGBl. I S. 2986), der zuletzt durch Artikel 159 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, verordnet das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Ernährung und Landwirtschaft, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Auswärtigen Amt, dem Bundesministerium für Bildung und Forschung und dem Bundesministerium der Verteidigung:
