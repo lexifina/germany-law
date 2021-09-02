@@ -1,0 +1,53 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2021-09-02T17:00:00+02:00
+- Ende: 2021-09-02T21:49:00+02:00
+- Ort: Europahalle, Europaplatz 6, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-127
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-127
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2021-RAT-127
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-127
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-127
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Vergabe der Mittel aus dem Bürger*innenbudget 2021 - einstimmig angenommen
+- TOP 3: Satzung über die Erhebung von Gebühren für die Durchführung der Brandverhütungsschau und sonstige brandschutztechnische Leistungen - einstimmig angenommen
+- TOP 4: Sachstandsbericht Haushaltssanierungsplan 2021 - Stand 30.06.2021 Berichterstattung gegenüber der Bezirksregierung Münster
+- TOP 5: Antrag der FWI-Fraktion vom 10.08.2021_Errichtung einer Sirenenanlage in und für Ickern-Nord - ohne Ergebnis
+- TOP 6: Antrag DIE LINKE vom 15.07.2021 zur aufsuchenden Beratung und Begleitung von BürgerInnen in sozialen Angelegenheiten - einstimmig angenommen
+- TOP 7: Antrag DIE LINKE vom 23.07.2021_Antrag zur frühzeitigen Information der politischen Ebene über private und öffentliche Wohnbau- und Bauvorhaben in CAS - mehrheitlich abgelehnt
+- TOP 8: Elektroladesäulenausbau im Stadtgebiet Castrop-Rauxel im Rahmen des Bundesförderprogramms „Ladeinfrastruktur vor Ort“ - einstimmig angenommen
+- TOP 9: Sanierung Altstadtring - mehrheitlich angenommen
+- TOP 10: Bikesharing-Angebot in Castrop-Rauxel (z.B. metropolradruhr/ nextbike)
+- TOP 11: Umsetzung ISEK Merklinde – Sachstand (August 2021)
+- TOP 12: Fortschreibung ISEK Stadtmittelpunkt - mehrheitlich angenommen
+- TOP 13: Satzung zur Bezeichnung von Flächen, in denen die Stadt nach § 25 Abs. 1 Nr. 2 Baugesetzbuch ein besonderes Vorkaufsrecht beansprucht (Vorkaufsrechtssatzung 3) hier: Satzungsbeschluss - einstimmig angenommen
+- TOP 14: Antrag DIE LINKE vom 09.08.2021 zur Einbeziehung eines beratenden Mitgliedes in den Ausschuss für Generationen und Inklusion - einstimmig angenommen
+- TOP 15: Antrag CDU Fraktion vom 20.06.2021; Blindengerechte Straßenschilder
+- TOP 16: Kinder- und Jugendförderplan der Stadt Castrop-Rauxel 2022 - 2026 - einstimmig angenommen
+- TOP 16.1: Antrag FDP Fraktion vom 25.06.2021; Kinder- und Jugendförderplan der Stadt Castrop-Rauxel 2022-2026 - ohne Ergebnis
+- TOP 17: Planfeststellung für den Neubau der B 474n Ortsumgehung Waltrop - Information und Kenntnisnahme der Stellungnahme der Verwaltung - - ohne Ergebnis
+- TOP 17.1: Gemeinsame Resolution von SPD und BÜNDNIS 90 DIE GRÜNEN vom 01.09.2021_ Resolution zum vorgelegten Entwurf zur B474n an die Bundesregierung - mehrheitlich angenommen
+- TOP 18: Antrag CDU Fraktion vom 24.06.2021_Optimierung Mülleimerstandorte - einstimmig angenommen
+- TOP 19: Antrag Die Linke Fraktion vom 07.07.2021_Wiederaufnahme des städtischen sozialen Wohnungsbaus - Gründung einer städtischen Wohnungsbaugesellschaft - mehrheitlich abgelehnt
+- TOP 20: Antrag Die Linke vom 09.08.2021; Initiierung eines Güteraufbewahrungs- und Bringedienstes in Castrop-Rauxel - einstimmig abgelehnt
+- TOP 21: Antrag Die Linke vom 09.08.2021; Reduzierung der Treibhausgase - ohne Ergebnis
+- TOP 22: Antrag SPD Fraktion vom 17.08.2021; Ausschussumbesetzung im Ausschuss für Wirtschaftsentwicklung und Digitalisierung - einstimmig angenommen
+- TOP 23: Antrag SPD und Bündnis 90/Die Grünen vom 17.08.2021; Beratungsangebot zum Schutz vor Starkregenereignissen ausbauen! - einstimmig angenommen
+- TOP 24: Antrag FWI Fraktion vom 17.08.2021; Angabe von letzten Einreichungsterminen im Ratsinformationssystem - ohne Ergebnis
+- TOP 25: Bereitstellung von überplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Buchungsstelle 0711302 50370 121501 ALT62 Zugänge Fahrzeuge - einstimmig angenommen
+- TOP 26: Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum Stichtag 30.07.2021 - ohne Ergebnis
+- TOP 27: Antrag der FDP-Fraktion vom 26.08.2021_Corona-Pandemie: Luftfilter für Klassenräume" - mehrheitlich abgelehnt
+- TOP 28: Antrag der Fraktion Die FRAKTION vom 30.08.2021_Umbesetzung Ausschuss für Wirtschaftsentwicklung und Digitalisierung - einstimmig angenommen
+- TOP 29: Gemeinsamer Dringlichkeitsantrag von SPD BÜNDNIS 90 DIE GRÜNEN DIE LINKE und FWI vom 01.09.2021_Flüchtlinge aus Afghanistan aufnehmen - mehrheitlich angenommen
+- TOP 30: Anfragen der Ratsmitglieder
+- TOP 31: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
