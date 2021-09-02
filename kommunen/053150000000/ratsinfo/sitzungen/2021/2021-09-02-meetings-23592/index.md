@@ -1,0 +1,120 @@
+# 6. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-02T17:00:00+02:00
+- Ende: 2021-09-02T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23592
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23592
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines neues Mitglieds der Bezirksvertretung Kalk
+- TOP -: Zuweisung eines neuen Fahrzeuges für die Löschgruppe Kalk
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage vom 15.04.2021 betreffend Nachpflanzung von Bäumen in Kalk Nord
+- TOP 1.2: Einwohnerfrage vom 31.05.2021 betreffend Zukunft des Kalkbergs
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Die Durchwegung von der Kalker Hauptstrasse bis zur Vorsterstraße n Köln-Kalk attraktiver gestalten - geändert beschlossen
+- TOP -: Die Durchwegung von der Kalker Hauptstraße bis zur Vorsterstraße in Köln-Kalk attraktiver gestalten - ungeändert beschlossen
+- TOP 7.2: Schaffung von Fahrradabstellplätzen auf der Olpener Straße zwischen Frankfurter Straße und Germaniastraße in Köln-Höhenberg - geändert beschlossen
+- TOP 7.3: Abfallbehälter Kalk-Mülheimer Straße und Rolshover Straße, sowie weitere Bedarfsermittlung - endgültig zurückgezogen
+- TOP 7.4: Organisation des Schienenersatzverkehres für die Linie 9 im Abschnitt Ostheim - Königsforst - ungeändert beschlossen
+- TOP 7.5: Zebrastreifen auf der Rösrather Straße in Köln-Rath/Heumar in Höhe Ford Geberzahn - geändert beschlossen
+- TOP 7.6: Neuer Name für den 2. Teil des Breuerparks - endgültig zurückgezogen
+- TOP 7.7: Straßenzustand in Köln-Brück: Am Schildchen-gefährdende Löcher im Asphalt - geändert beschlossen
+- TOP 7.8: Fußgängerampel Frankfurter Straße, Höhe des Merheimer Heideweges/Höhenberger Kirchweg in Köln-Höhenberg - zurückgestellt
+- TOP 7.9: Errichtung von Fitness Anlagen auf Hundefreilaufflächen im Stadtbezirk Kalk - geändert beschlossen
+- TOP 7.10: Korrekturen an der neuen Ampelanlage Höhe St. Vinzenzhaus in Köln-Brück - zurückgestellt
+- TOP 7.11: Städtische Grundstücksverkäufe im Bezirk Kalk nicht ohne eine Mitteilung an die Bezirksvertretung! - zurückgestellt
+- TOP -: städtische Grundstücke nicht verkaufen - Änderungsantrag zu "Städtische Grundstücksverkäufe im Bezirk Kalk nicht ohne eine Mitteilung an die Bezirksvertretung!" - zurückgestellt
+- TOP -: Städtische Grundstücke nicht verkaufen - zurückgestellt
+- TOP 7.12: Eine Gesamtschule für Köln-Neubrück! - zurückgestellt
+- TOP 7.13: Feste Abstellzonen für E-Scooter in Kalk - geändert beschlossen
+- TOP 7.14: Grünzug jetzt realisieren - geändert beschlossen
+- TOP -: Grünzug jetzt realisieren - endgültig abgelehnt
+- TOP 7.15: Zufahrt zur Tiefgarage zum Kalk-Karree wieder freigeben - ungeändert beschlossen
+- TOP 7.16: Polizeibüros statt dringend benötigter Gesamtschulplätze - geändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Umgestaltung des Spielplatzes Walhallplatz in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 8.1.2: Vergabe eines weiteren Teils der bezirksorientierten Mittel für das Jahr 2021 - ungeändert beschlossen
+- TOP 8.1.3: Planungsbeschluss für die Umgestaltung der Ostheimer Straße zwischen Unterführung und Burgstraße in Köln Vingst - ungeändert beschlossen
+- TOP 8.1.4: Umgestaltung des Spielplatzes Kalker Stadtgarten in Köln-Kalk - ungeändert beschlossen
+- TOP 8.1.5: Beratung des Haushaltsplan-Entwurfs 2022 einschließlich der Finanzplanung bis 2025 und der sonstigen Anlagen - geändert beschlossen
+- TOP -: Beratung des Haushaltsplan-Entwurfs 2022 einschließlich der Finanzplanung bis 2025 und der sonstigen Anlagen - geändert beschlossen
+- TOP 8.1.6: Haushaltsplan-Entwurf 2022 - hier: Veranschlagung der bezirksorientierten Mittel für das Jahr 2022 gemäß § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - endgültig abgelehnt
+- TOP -: Bescheidener Änderungsantrag zur Veranschlagung der bezirksorientierten Mittel für das Jahr 2022 gemäß § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen unter TOP 8.1.6 - geändert beschlossen
+- TOP 8.1.7: Baubeschluss für den barrierefreien Umbau von 5 Haltestellen (7 Haltekanten) auf der KVB-Linie 157 im Stadtbezirk Kalk - endgültig zurückgezogen
+- TOP 8.1.8: Ordnungsbehördliche Verordnung für das Jahr 2021 über das Offenhalten von Verkaufsstellen am Sonntag, dem 19.09.2021 - ungeändert beschlossen
+- TOP 8.1.9: Umgestaltung des Spielplatzes Kuthstraße in Köln-Vingst - ungeändert beschlossen
+- TOP 8.1.10: Vergabe eines weiteren Teils der bezirksorientierten Mittel für das Jahr 2021 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Neugestaltung des Bolzplatzes Georgestraße in Köln-Neubrück - ungeändert beschlossen
+- TOP 8.2.2: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) -Vorlage 1538/2021- - endgültig zurückgezogen
+- TOP 8.2.3: Modellhafte Öffnung ausgewählter Schulhöfe als Spiel-, Sport- und Bewegungsräume für Kinder, Jugendliche und Erwachsene - ungeändert beschlossen
+- TOP 8.2.4: 277. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - endgültig abgelehnt
+- TOP 8.2.5: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - zurückgestellt
+- TOP 8.2.6: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan), Arbeitstitel: "Ostmerheimer Straße 214 in Köln-Merheim - geändert beschlossen
+- TOP -: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 8.2.7: Durchführung der aktivierenden Stadtteilarbeit "Zuhause im Veedel – Aktivierung und Beteiligung im Quartier“ im Rahmen der Integrierten Stadtentwicklungskonzepte in den Sozialräumen „Porz-Ost, Finkenberg, Gremberghoven, Eil“ und „Ostheim, Neubrück" - geändert beschlossen
+- TOP -: Durchführung der aktivierenden Stadtteilarbeit „Zuhaus im Veedel – Aktivierung und Beteiligung im Quartier“ im Rahmen der Integrierten Stadtentwicklungskonzepte (ISEK) - ungeändert beschlossen
+- TOP 8.2.8: Förderprogramm "Dritte Orte" - Förderungen von eingetragenen Vereinen aus dem Stadtgebiet - ungeändert beschlossen
+- TOP 8.2.9: Fortsetzung der Maßnahme „Willkommen und Ankommen in Köln“ für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Kreisverkehr an der Olpener Straße/Burgstraße/Höhenberger Straße/Münchener Straße in Köln-Höhenberg
+- TOP 9.1.2: Durchführung von Ortsterminen mit der Bezirksvertretung und der Verwaltung
+- TOP 9.1.3: Beantwortung der Anfrage AN/1292/2021
+- TOP 9.1.4: Stellungnahme zu einer mündlichen Anfrage zur Inbetriebnahme der Aufzüge an der Haltestelle Vingst aus der BV Kalk vom 10.06.2021
+- TOP 9.1.5: Hallen Kalk 75, 76, 77 - wie geht es weiter? - zur Anfrage der Fraktion Bündnis90/Die Grünen AN/0696/2021 zur Sitzung am 22. April 2021
+- TOP 9.1.6: Beantwortung einer mündlichen Anfrage zu TOP 9.1.8 vom 10.06.2021
+- TOP 9.1.7: Lastenräder im Stadtbezirk Kalk
+- TOP 9.1.8: Gestaltung des Spielplatzes Gießener Straße in Köln Humboldt/Gremberg
+- TOP 9.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.10: Papageien nisten sich in Häusern ein
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Öffentlichkeitsbeteiligung ein Lernprozess
+- TOP -: Öffentlichkeitsbeteiligung - ein Lernprozess
+- TOP 9.2.2: Klimatische Bedingungen im Stadtteil Kalk
+- TOP 9.2.3: „Baumersatzpflanzungen“ im Stadtbezirk Kalk
+- TOP 9.2.4: „Elektronische Busstandanzeiger“ im Stadtbezirk Kalk
+- TOP -: Elektronische Busstandanzeiger im Stadtbezirk Kalk
+- TOP 9.2.5: Einführung des Parkleitsystems Cleverciti in weiteren Stadteilen nach Abschluss des Piloten in Nippes
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 9.4: Offene Anfragen aus früheren Sitzungen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Unfallhäufungsstellen und tödliche Unfälle des Jahres 2020 im Stadtbezirk Kalk
+- TOP 10.2.2: Sachstand Hallen Kalk – Gemeinwohlorientierte Entwicklung des Osthofs
+- TOP 10.2.3: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe"
+- TOP 10.2.4: Beantwortung der Anfrage der Ratsfraktion Volt, vom 21.04.2021, AN/0888/2021; betr. Sachstand Hallen Kalk und DoMiD e.V.
+- TOP 10.2.5: verschoben nach TOP 9.1.8
+- TOP 10.2.6: AN/1156/2021 Müllbehälter Volumen auf dem Platz Martha-Meuser-Str. / Kappelenstra. in Köln Kalk
+- TOP 10.2.7: 19. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln
+- TOP 10.2.8: Realisierbarkeit von Quartiersgaragen und eines zugehörigen Masterplans
+- TOP 10.2.9: Niederschrift 4. Runder Tisch Radverkehr Kalk
+- TOP 10.2.10: Niederschrift 5. Runder Tisch Radverkehr Kalk
+- TOP 10.2.11: Abschlussbericht Projekt Bildungskoordination für Neuzugewanderte (Projektende 30.06.2021)
+- TOP 10.2.12: Verbraucherberatung im Quartier: Jahresbericht 2020
+- TOP 10.2.13: Schulentwicklungsplanerische Einschätzungen zu möglichen Entwicklungsperspektiven des Schulstandortes Helene-Weber-Platz in Brück und dem Fortbestand der Kurt-Tucholsky-Hauptschule
+- TOP 10.2.14: SeniorenNetzwerke Köln: Auszeichnung im Projekt „Nordrhein-Westfalen – hier hat alt werden Zukunft“
+- TOP 10.2.15: Wahl der Seniorenvertretung Köln 2021: Informationsquellen und Termine
+- TOP 10.2.16: Auswirkungen des Unwetters auf Köln, hier: Anfrage der Fraktion Bündnis 90 / Die Grünen, der CDU-Fraktion und der Volt-Fraktion zur Sitzung des Hauptausschusses am 23.8.2021, AN/1561/2021
+- TOP 10.2.17: House of Resources in Köln
+- TOP 10.2.18: Gewässerunterhaltungsplan 2021/2022
+- TOP 10.2.19: Ausweitung der Abstellverbotszonen und festen Rückgabeorte für E-Scooter
+- TOP 10.2.20: Frauen im Alltag sichtbar machen
+- TOP 10.2.21: Qualitätsbericht 2020 der KVB gemäß öffentlichem Dienstleistungsauftrag
+- TOP 10.2.22: Multilingualität von Anfang an - Übersicht Mehrsprachige Angebote in Köln
+- TOP 10.2.23: Umsetzung des Bundesprogramms "Aufholen nach Corona für Kinder und Jugendliche" durch die Stadt Köln
+- TOP 10.2.24: Obstbäume für den Stadtteil Rath/Heumar
