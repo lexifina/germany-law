@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-02T16:05:00+02:00
+- Ende: 2021-09-02T17:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23755
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23755
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke und der Ratsgruppe Klimafreunde betreffend: Klimaneutraler Strom von städtischen Brücken - Sache ist erledigt
+- TOP 1.1.1: Beantwortung der Anfrage betreffend Klimaneutraler Strom von städtischen Brücken - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktion Die Linke betreffend Wie versiegelt ist die Stadt? - zurückgestellt
+- TOP 1.3: Anfrage der Fraktion Die Linke betreffend Beschränkungen der Infrastruktur im Zusammenhang mit der Störfallverordnung ( Seveso – III – Richtlinie )/ Umgang mit der Asche aus der Klärschlammverbrennung - zurückgestellt
+- TOP 1.4: Gemeinsame Anfrage von Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion und Volt-Fraktion betreffend Neuanlage von Seen oder Teichen - zurückgestellt
+- TOP 1.5: Anfrage der SPD-Fraktion betreffend Konsequenzen aus den Überflutungen beim Starkregenereignis am 14. und 15. Juli 2021 - zurückgestellt
+- TOP 1.5.1: Beantwortung der Anfrage AN/1809/2021: Konsequenzen aus den Überflutungen beim Starkregenereignis am 14. und 15. Juli 2021 - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke betreffend Erfassung der Luftqualität im Kölner Norden - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Projekte im Rahmen der Klimapartnerschaft mit Yarinacocha - ungeändert beschlossen
+- TOP 3.1.1: Beantwortung der Anfrage der Volt-Fraktion zur Klimapartnerschaft mit Yarinacocha - Kenntnis genommen
+- TOP 3.2: Strategie Klimaneutrales Köln - Sachstand Juli 2021 - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Grundsatzbeschluss zur Umsetzung des im Rahmen des kooperativen Baulandmodells zu erbringenden Grünflächennachweises - ohne Votum in nachfolgende Gremien
+- TOP 4.1.2: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - zurückgestellt
+- TOP 4.1.3: Neubau eines Brunnens am Neumarkt - Baubeschluss - ungeändert empfohlen
+- TOP 4.1.4: Kostenfortschreibung zum Schaugewächshaus und der Orangerie im Botanischen Garten Köln, Amsterdamer Str.34, 50735 Köln - ungeändert empfohlen
+- TOP 4.1.5: 3. Fortschreibung des Luftreinhalteplanes Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Eingabe nach §24 GO - "Vertical Farming in Köln" Aktenzeichen 216/20 B - ungeändert beschlossen
+- TOP 4.2.2: Sanierungskonzept, Nutzungskonzept und Betreiberkonzept für das Umweltbildungszentrum Gut Leidenhausen - Planungsbeschluss - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Beschluss des Zielbilds für die Kölner Weststadt - zurückgestellt
+- TOP 5.2: Rondorf Nord-West, Entflechtungsstraße - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Masterplan Dezernat V - Kenntnis genommen
+- TOP 7.2: Bewegungsparcours auf der Sport- und Erholungsanlage Fühlinger See - Kenntnis genommen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2020/2021 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 7.4: Verbraucherberatungsstelle Köln: Jahresbericht 2020 - Kenntnis genommen
+- TOP 7.5: Verbraucherberatung im Quartier: Jahresbericht 2020 - Kenntnis genommen
+- TOP 7.6: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 7.7: Kölner Statistische Nachrichten 9/2021 – Kraftfahrzeuge - Kenntnis genommen
+- TOP 7.8: Mitteilung zu TOP 4.1.2 der Sitzung des Ausschusses Klima, Umwelt und Grün vom 04.06.2020 - Kenntnis genommen
+- TOP 7.9: MobilitätsCockpitKöln - innovativ, integrativ, intelligent (MoCKiii) - Kenntnis genommen
+- TOP 7.10: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.11: Auswirkungen des Unwetters auf Köln, hier: Anfrage der Fraktion Bündnis 90 / die Grünen, der CDU-Fraktion und der Volt-Fraktion zur Sitzung des Hauptausschusses am 23.8.2021, AN/1561/2021 - Kenntnis genommen
+- TOP 7.12: Gewässerunterhaltungsplan 2021/2022 - Kenntnis genommen
+- TOP 7.13: Mediation Klimawende/RheinEnergie - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Beantwortung einer mündlichen Anfrage in der Sitzung am 04.06.2021 zur Mitteilung 1205/2021 Sachstand „Starke Veedel – Starkes Köln“ der SPD Fraktion - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
