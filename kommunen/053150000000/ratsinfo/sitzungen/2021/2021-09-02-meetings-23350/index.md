@@ -1,0 +1,107 @@
+# 7. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-02T16:00:00+02:00
+- Ende: 2021-09-02T20:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23350
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23350
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktuelle Stunde - Sicherheit in der Innenstadt - auf Antrag CDU
+- TOP 1.2: Aktuelle Stunde - Interimsschulbauten im Inneren Grüngürtel - auf Antrag Klimafreunde und Grüne
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - zurückgestellt
+- TOP 3.2: Mitteilung wird unter TOP 9.21 beraten - Offenlage des vorhabenbezogenen Bebauungsplan-Entwurfes Nr. 68454/04 nach § 3 Absatz 2 BauGB
+- TOP 3.3: Modellhafte Öffnung ausgewählter Schulhöfe als Spiel-, Sport- und Bewegungsräume für Kinder, Jugendliche und Erwachsene - ungeändert beschlossen
+- TOP 3.4: Neubau eines Brunnens am Neumarkt - Baubeschluss - ungeändert beschlossen
+- TOP 3.4.1: Neubau eines Brunnens am Neumarkt - Baubeschluss, Änderungsantrag Grüne - endgültig zurückgezogen
+- TOP 3.5: Einrichtungsbeschluss für den Erweiterungsbau Palmstraße für das Königin-Luise-Gymnasium, Alte Wallgasse 10 in 50672 Köln - ungeändert beschlossen
+- TOP 3.6: Einrichtungsbeschluss für den Neubau der integrierten Gesamtschule Innenstadt, Frankstraße 26 in 50676 Köln am Teilstandort Severinswall 40/40a in 50678 Köln - ungeändert beschlossen
+- TOP 3.7: 277. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.8: Förderprogramm "Dritte Orte" - Förderungen von eingetragenen Vereinen aus dem Stadtgebiet - ungeändert beschlossen
+- TOP 3.9: Haushaltsplan 2022 hier: Veranschlagung der bezirksorientierten Mittel 2022 gem. § 37 Abs. 3 der Gemeindeordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 3.10: Beratung des Haushaltsplan-Entwurfs 2022 einschließlich der Finanzplanung bis 2025 und der sonstigen Anlagen - geändert beschlossen
+- TOP 3.10.1: Klimaschutzorientierte Mittel, gem. Ergänzungsantrag Grüne, Die Linke, Klimafreunde, Die Partei - ungeändert beschlossen
+- TOP 3.11: Genehmigung Dringlichkeitsentscheidung - Genehmigung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2021 - ungeändert beschlossen
+- TOP 3.12: Genehmigung Dringlichkeitsentscheidung - Gem. Dringlichkeitsantrag - Untersagung des Betriebes von E-Scootern im Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 3.12.1: Untersagung des Betriebes von E-Scootern im Stadtbezirk Innenstadt, gem. Dringlichkeitsantrag Grüne, CDU, SPD, Die Linke, Die Partei, Klimafreunde - Sache ist erledigt
+- TOP 3.13: Genehmigung Dringlichkeitsantrag - Gem. Dringlichkeitsantrag - Sperrung der Schaafenstraße an Freitag- und Samstagabend von jeweils 19:00 Uhr bis 6:00 Uhr des darauf folgenden Tages - ungeändert beschlossen
+- TOP 3.13.1: Gem Dringlichkeitsantrag - Sperrung der Schaafenstraße an Freitag- und Samstagabend von jeweils 19:00 Uhr bis 6:00 Uhr des darauf folgenden Tages - gem. Antrag Grüne, CDU, SPD, Die Linke, FDP, Klimafreunde und Die Partei - Sache ist erledigt
+- TOP 3.14: Genehmigung Dringlichkeitsentscheidung - Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2021 - ungeändert beschlossen
+- TOP 3.15: Genehmigung Dringlichkeitsentscheidung - Ordnungsbehördliche Verordnung für das Jahr 2021 über das Offenhalten von Verkaufsstellen am Sonntag, dem 19.09.2021 - endgültig zurückgezogen
+- TOP 3.16: Erneuerung der Eisenbahnüberführung der Deutz-Mülheimer Straße, Bauwerk B in Köln-Deutz durch die DB Netz AG - ungeändert beschlossen
+- TOP 3.17: Städtebauliches Planungskonzept Deutzer Hafen in Köln-Deutz; Hier: Anpassung des Beschlusses über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes, Fortschreibung des Integrierten Plans Deutzer Hafen im Bereich des Ostdreiecks - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe nach § 24 GO – „Einrichtung eines Europaplatzes" Aktenzeichen 34/21B - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: „Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet (Az.: 02-1600-122-21) - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Rad- und Fußgängerüberwege Innerer Grüngürtel (Az.: 02-1600-21/21) - zurückgestellt
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: AZ 160-21 Freigabe Linksabbiegen aus der Kyllstraße (Az.: 02-1600-160/21) - geändert beschlossen
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Verbesserung der Verkehrsführung Ecke Herwarthstraße/Werderstraße/Dorothee -Sölle - Platz - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Superblöcke für Köln - für Aufenthaltsqualität und die Verkehrswende im Veedel - geändert beschlossen
+- TOP 5.1.2: Verkehrsführung im Bereich Friesenstraße / Friesenwall, Antrag Grüne - geändert beschlossen
+- TOP 5.1.2.1: Änderungsantrag - Verkehrsführung im Bereich Friesenstraße / Friesenwall - Änderungsantrag FDP - ungeändert beschlossen
+- TOP 5.1.3: Fahrradschutzstreifen Hohenzollernring Einbiegung in die Maastrichter Straße, Antrag SPD - endgültig zurückgezogen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Unübersichtliche Kreuzung Waisenhausgasse/Vor den Siebenburgen/Trierer Str/Am Pantaleonsberg, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Planungen zur Verbesserung des Mikroklimas in der Kölner Innenstadt, gem. Antrag Grüne, SPD, Die Linke, Die Partei, Klimafreunde, FDP - ungeändert beschlossen
+- TOP 5.2.3: Antrag "Sperrung der Weidengasse für den MIV an den Wochenenden", Antrag FDP - ungeändert beschlossen
+- TOP 5.2.4: Aufstellung von neuen Bänken in der Innenstadt, Antrag Grüne - geändert beschlossen
+- TOP 5.2.4.1: Ergänzungsantrag zu Antrag AN/1647/2021 - Bankstandorte; Ergänzungsantrag Grüne - ungeändert beschlossen
+- TOP 5.2.5: Fußgängerpassage zwischen Schildergasse und Brüderstraße, gem. Antrag Grüne, FDP, Die Partei - geändert beschlossen
+- TOP 5.2.5.1: Fußgängerpassage zwischen Schildergasse und Brüderstraße, gem. Antrag Grüne, FDP und Die Partei - Kenntnis genommen
+- TOP 5.2.6: Grundsatzbeschluss: Keine Interimsbauten in Grün- und Parkanlagen, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.7: Reinigung Neusser Platz und Roeckerathplatz, gem. Dringlicheitsantrag CDU und SPD - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.2: Kellertheater und Kartäuserwall
+- TOP 6.1.2.1: Beantwortung AN/1173/2019 Die Linke Kellertheater und Kartäuserwall
+- TOP 6.1.3: Zustand der KVB Haltestelle Deutzer Freiheit, Anfrage CDU
+- TOP 6.1.3.1: Zustand der KVB Haltestelle Deutzer Freiheit
+- TOP 6.1.4: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016) - zurückgestellt
+- TOP 6.1.5: Straßenlärm macht krank – Lärmeinwirkungen im Bezirk Innenstadt
+- TOP 6.1.5.1: Straßenlärm macht krank – Lärmeinwirkungen im Bezirk Innenstadt - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - AN/1107/2021
+- TOP 6.1.6: Ampelschaltung neuer Überweg Innere Kanalstraße
+- TOP 6.1.6.1: Antwort: Ampelschaltung neuer Überweg Innere Kanalstraße
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Aktueller Sachstand Umgestaltung Maternuskirchplatz, Anfrage Grüne - zurückgestellt
+- TOP 6.2.2: Fragen zur ISG Severinstraße, Anfrage Die Linke
+- TOP 6.2.2.1: Immobilien- und Standortgemeinschaft Severinstraße
+- TOP 6.2.3: Soziale Erhaltungssatzung Griechenmarktviertel, Anfrage Grüne - zurückgestellt
+- TOP 6.2.4: Rodungen auf Kitagelände, Anfrage Die Linke
+- TOP 6.2.4.1: Rodungen auf dem Kitagelände Venloer Wall 13b - zur Anfrage der Fraktion Die Linke AN/1528/2021
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Verkehrliche Erschließung und Anbindung des städtebaulichen Entwicklungsbereichs „Deutzer Hafen"
+- TOP 9.2: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe"
+- TOP 9.3: Mitteilung BV Planungszuschus DSOM
+- TOP 9.4: Sofortmaßnahmen im Bereich Poller Kirchweg - Am Schnellert - Alfred-Schütte-Allee
+- TOP 9.5: 19. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln
+- TOP 9.6: Realisierbarkeit von Quartiersgaragen und eines zugehörigen Masterplans
+- TOP 9.7: Abschlussbericht Projekt Bildungskoordination für Neuzugewanderte (Projektende 30.06.2021)
+- TOP 9.8: Sanierung der Drehbrücke im Deutzer Hafen - Sachstand Pendelbusbetrieb
+- TOP 9.9: SeniorenNetzwerke Köln: Auszeichnung im Projekt „Nordrhein-Westfalen – hier hat alt werden Zukunft“
+- TOP 9.10: Wahl der Seniorenvertretung Köln 2021: Informationsquellen und Termine
+- TOP 9.11: Umsetzung des Bundesprogramms "Aufholen nach Corona für Kinder und Jugendliche" durch die Stadt Köln
+- TOP 9.12: Auswirkungen des Unwetters auf Köln, hier: Anfrage der Fraktion Bündnis 90 / Die Grünen, der CDU-Fraktion und der Volt-Fraktion zur Sitzung des Hauptausschusses am 23.8.2021, AN/1561/2021
+- TOP 9.13: House of Resources in Köln
+- TOP 9.14: Neuer Übergang Innere Kanalstraße auf Höhe des Telekom-Verwaltungsgebäudes
+- TOP 9.15: Neues Modell: kombinierte Fahrradabstell- und Werbeanlagen für Köln
+- TOP 9.16: Instandsetzung der Straße „Große Neugasse
+- TOP 9.17: Ausweitung der Abstellverbotszonen und festen Rückgabeorte für E-Scooter
+- TOP 9.18: Baumneupflanzung in der Eburonenstraße
+- TOP 9.19: Qualitätsbericht 2020 der KVB gemäß öffentlichem Dienstleistungsauftrag
+- TOP 9.20: Wettbewerbsverfahrensergebnis Arbeitstitel: Mehrfachbeauftragung "Fassade Hauptbahnhof Breslauer Platz Köln" Köln-Altstadt/Nord
+- TOP 9.21: Offenlage des vorhabenbezogenen Bebauungsplan-Entwurfes Nr. 68454/04 nach § 3 Absatz 2 BauGB
+- TOP 9.22: Multilingualität von Anfang an - Übersicht Mehrsprachige Angebote in Köln
