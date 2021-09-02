@@ -1,0 +1,61 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-02T15:00:00+02:00
+- Ende: 2021-09-02T17:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20431
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20431
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen öffentlich KUA 02.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421111.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen öffentlich KUA 02.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421111.pdf
+- Wortprotokoll: Sitzungsunterlagen öffentlich KUA 02.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421111.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Bestellung der Schriftführung für den Kulturausschuss - einstimmig beschlossen
+- TOP 3: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 4: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses vom 17.06.2021 - mehrheitlich beschlossen
+- TOP 5: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 6: Bericht zur Corona-Situation (wird in der Sitzung verteilt) - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Anfrage Ratsfraktion SPD/Volt: Angebot der kulturpädagogischen Bildung an Düsseldorfer Kultureinrichtungen - zur Kenntnis genommen
+- TOP 7.2: Anfrage der Ratsfraktion SPD/Volt Düsseldorf: Aktueller Sachstand Ballhaus im Nordpark - zur Kenntnis genommen
+- TOP 7.3: Anfrage der Ratsfraktion DIE LINKE: Subventionierung der Deutschen Oper am Rhein - zur Kenntnis genommen
+- TOP 7.4: Anfrage der Ratsfraktion DIE LINKE: Auswirkungen der Novelle des Denkmalschutzgesetzes auf die Untere Denkmalbehörde - zur Kenntnis genommen
+- TOP 7.5: Anfrage der CDU Ratsfraktion und Bündnis 90/Die Grünen: Pflege der Kunst im öffentlichen Raum - zur Kenntnis genommen
+- TOP 7.6: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Konzept zur Zukunft des Theatermuseums im Hofgärtnerhaus - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Ratsfraktionen CDU und Bündnis/DIE GRÜNEN: Neubau von Atelierräumen im Cube Central 378, Erkrather Straße/Kiefernstraße - einstimmig beschlossen
+- TOP 9: Mündliche Berichte
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Verwaltungsvorlagen
+- TOP 10.1: Bilker Str. 15, Schumann-Haus, Instandsetzung und Umbau zum Museum, 2. Änderungsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Jägerhofstraße 1, Hofgärtnerhaus, Verbleib der Nutzung Theatermuseum und Konrad-Adenauer-Platz 1 (KAP 1), neuer Nutzungszweck der vormals für das Theatermuseum vorgesehenen Flächen - Änderungsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 10.4: Heinrich-Heine-Allee 16a / Deutsche Oper am Rhein - Unvermeidbare Teilmaßnahme - Abdichtung des Foyerdaches - mehrheitlich beschlossen
+- TOP 10.5: Ehrenhof 5, Museum Kunstpalast – Übertragung des Gebäudeunterhalts und der Instandhaltung für den Altbau: Bericht zur bestimmungsgemäßen Verwendung des Zuschusses - zur Kenntnis genommen
+- TOP 10.6: Benrather Schloßallee 100-108, Schloss und Park Benrath, Übertragung des Gebäudeunterhalts und der Instandhaltung für die Gebäude: Bericht zur bestimmungsgemäßen Verwendung des Zuschusses - zur Kenntnis genommen
+- TOP 10.7: Sachstand Deutsches Fotoinstitut - zur Kenntnis genommen
+- TOP 10.8: Neufestsetzung der Benutzungs- und der Entgeltordnung für das Aquazoo Löbbecke Museum zum 01.10.2021 - Empfehlung einstimmig beschlossen
+- TOP 10.9: Maßnahme zur Sicherung der kulturellen Infrastruktur. Vergabe der Mittel "Feuerwehrtopf" - zur Kenntnis genommen
+- TOP 10.10: Kulturausschuss: Sitzungstermine 2022 - einstimmig beschlossen
+- TOP 10.11: NRW-Landesprogramm "Kultur und Schule" Schuljahr 2021/22 - zur Kenntnis genommen
+- TOP 10.12: Beirat Bildende Kunst (Sitzung am 17.08.2021) - einstimmig beschlossen
+- TOP 10.13: Stadtmuseum - Ausstellungsprogramm 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 10.14: Mahn- und Gedenkstätte - Ausstellungsprogramm 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 10.15: Heinrich-Heine-Institut - Ausstellungsprogramm 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 10.16: Goethe-Museum/Anton-und-Katharina-Kippenberg-Stiftung - Ausstellungsprogramm 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 10.17: Hetjensmuseum - Ausstellungsprogramm 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 10.18: Filmmuseum - Ausstellungsprogramm 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 10.19: SchifffahrtMuseum- Ausstellungsprogramm 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 10.20: Gewährung eines Zuschusses an das Marionettentheater für die Erneuerung der Lüftungsanlage - passieren lassen
+- TOP 10.21: Bestimmungen für die Beiräte des Kulturausschusses der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 10.22: Berufung der Mitglieder des Atelierbeirats - einstimmig beschlossen
+- TOP 10.23: Berufung der Mitglieder des Beirates für kulturelle Bildung - einstimmig beschlossen
