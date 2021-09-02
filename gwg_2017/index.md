@@ -49,7 +49,7 @@
 - [§ 28 Aufgaben, Aufsicht und Zusammenarbeit](0028.md)
 - [§ 29 Verarbeitung personenbezogener Daten durch die Zentralstelle für Finanztransaktionsuntersuchungen](0029.md)
 - [§ 30 Entgegennahme und Analyse von Meldungen](0030.md)
-- [§ 31 Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht](0031.md)
+- [§ 31 Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht, Verordnungsermächtigung](0031.md)
 - [§ 32 Datenübermittlungsverpflichtung an inländische öffentliche Stellen](0032.md)
 - [§ 33 Datenaustausch mit Mitgliedstaaten der Europäischen Union](0033.md)
 - [§ 34 Informationsersuchen im Rahmen der internationalen Zusammenarbeit](0034.md)
