@@ -1,0 +1,77 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-02T18:00:00+02:00
+- Ende: 2021-09-02T20:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20446
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20446
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaketz Ö Stand 20.08. http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00420855.pdf
+- Ergebnisprotokoll: Sitzungspaketz Ö Stand 20.08. http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00420855.pdf
+- Wortprotokoll: Sitzungspaketz Ö Stand 20.08. http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00420855.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2021 - einstimmig beschlossen
+- TOP 8: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - einstimmig beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 im Jahre 2021 - beschlossen
+- TOP 11: Warnung und Unterstützung bei Extrem-Wetterereignissen (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 12: Renaturierung Südliche Düssel und Eselsbach-Hochwasserschutz (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 13: Hochwasserschutz in Vennhausen & Brückenbauwerke (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: RRX: Gestaltung der Lärmschutzwände im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Kosten der Fassadenbegrünung GGS Bingener Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Strukturverbesserungsarbeiten Kanäle und Rückhaltebecken sowie Spaltwerk im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Durchlässe im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 20: Strukturverbesserungsarbeiten Kanäle und Durchlässe Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 21: Steuerung Spaltwerk Höherhof (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 22: Elbsee - Sicherheitslage (Anfrage CDU-Fraktion) - beantwortet
+- TOP 23: Geschwindigkeitsregelung Vennstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - mehrheitlich beschlossen
+- TOP 24: Monckartzhofweg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Briefkasten und Stromkasten Vennstraße/Ecke Dellestraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 26: Sperrmüll in Unterbach (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 27: Gehwegparken Heidelberger Straße/Deutzer Straße (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 28: Hinweis auf das zulässige Gesamtgewicht Heidelberger Straße/Deutzer Straße (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 29: Video-Streaming von Sitzungen (Antrag CDU-Fraktion und Fraktion Bündnis 90 /Die Grünen) - einstimmig beschlossen
+- TOP 30: Verbesserung der Bürgerbeteiligung und Information zu Spielplätzen (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 31: Baumscheiben im Straßenraum im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 32: Vorhaben der Deutschen Bahn AG im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 33: Regenrückhaltebecken Heidelberger Straße / Karlsruher Straße / Am Straußenkreuz - zur Kenntnis genommen
+- TOP 34: Friedrich-Engels-Straße - zur Kenntnis genommen
+- TOP 35: Heimgarten - Verkehrsführung - zur Kenntnis genommen
+- TOP 36: Westlich Eller Schlosspark - Anpflanzung einer naturnahen Hecke - zur Kenntnis genommen
+- TOP 37: Schlosspark Eller - zur Kenntnis genommen
+- TOP 38: Pirmasenser Weg - zur Kenntnis genommen
+- TOP 39: Müllentsorgung in Grünanlagen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Kreuzung Heidelberger Straße / Schloßallee - zur Kenntnis genommen
+- TOP 41: Friedrich-Engels-Straße - zur Kenntnis genommen
+- TOP 42: LKW und Werbeanhänger im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Am Karlshof - zur Kenntnis genommen
+- TOP 44: Heidelberger Straße - Teilstück in Richtung Unterführung zur Kissinger Straße - zur Kenntnis genommen
+- TOP 45: S-Bahn-Halt Tannenhof / Wiederaufnahme der Planungen - zur Kenntnis genommen
+- TOP 46: Kinderspielplatz Vennstraße - Abtrennung Brachgelände - zur Kenntnis genommen
+- TOP 47: Verbindungsweg Dellestraße / Wittenbruchplatz - zur Kenntnis genommen
+- TOP 48: S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 49: Radbezirksnetz / Fortschreibung und Verbesserung Radverkehrsführung in Eller-West - zur Kenntnis genommen
+- TOP 50: Rathaus Eller - zur Kenntnis genommen
+- TOP 51: Friedhofskapelle Eller - zur Kenntnis genommen
+- TOP 52: Rathaus Eller - Rosengarten - zur Kenntnis genommen
+- TOP 53: Am Karlshof - zur Kenntnis genommen
+- TOP 54: Fußgänger-/ Radfahrerquerungen mittels Verkehrsinseln im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 55: Rad- und Gehwegbrücke Reichenbacher Weg - zur Kenntnis genommen
+- TOP 56: Anlage einer geschlossenen naturnahen Hecke auf der West- und Südseite des neuen Schützenplatzes Eller - zur Kenntnis genommen
+- TOP 57: Baumbeleuchtung auf dem Freiheitplatz, Stadtteilzentrum Lierenfeld und Unterbach - zur Kenntnis genommen
+- TOP 58: Unterführung S-Bahnhof Eller-Mitte (Gestaltung) - zur Kenntnis genommen
+- TOP 59: Freiheitplatz - zur Kenntnis genommen
+- TOP 60: Bebauung im Bereich Festenbergstraße - zur Kenntnis genommen
