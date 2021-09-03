@@ -1,4 +1,4 @@
-# Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr und ihre Hinterbliebenen
+# Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr und ihre Hinterbliebenen*
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 

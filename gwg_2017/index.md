@@ -2,11 +2,12 @@
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Abschnitt 1 Begriffsbestimmungen und Verpflichtete
+## Abschnitt 1 Begriffsbestimmungen, Verpflichtete und risikobasierter Ansatz
 
 - [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 2 Verpflichtete, Verordnungsermächtigung](0002.md)
 - [§ 3 Wirtschaftlich Berechtigter](0003.md)
+- [§ 3a Risikobasierter Ansatz, nationale Risikoanalyse](0003a.md)
 
 ## Abschnitt 2 Risikomanagement
 
@@ -20,10 +21,10 @@
 ## Abschnitt 3 Sorgfaltspflichten in Bezug auf Kunden
 
 - [§ 10 Allgemeine Sorgfaltspflichten](0010.md)
-- [§ 11 Identifizierung](0011.md)
+- [§ 11 Identifizierung; Erhebung von Angaben zum Zweck der Identifizierung](0011.md)
 - [§ 11a Verarbeitung personenbezogener Daten durch Verpflichtete](0011a.md)
 - [§ 12 Identitätsüberprüfung, Verordnungsermächtigung](0012.md)
-- [§ 13 Verfahren zur Identitätsüberprüfung, Verordnungsermächtigung](0013.md)
+- [§ 13 Verfahren zur Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung](0013.md)
 - [§ 14 Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung](0014.md)
 - [§ 15 Verstärkte Sorgfaltspflichten, Verordnungsermächtigung](0015.md)
 - [§ 16 Besondere Vorschriften für das Glücksspiel im Internet](0016.md)
@@ -34,6 +35,7 @@
 - [§ 18 Einrichtung des Transparenzregisters und registerführende Stelle](0018.md)
 - [§ 19 Angaben zum wirtschaftlich Berechtigten](0019.md)
 - [§ 20 Transparenzpflichten im Hinblick auf bestimmte Vereinigungen](0020.md)
+- [§ 20a Automatische Eintragung für Vereine](0020a.md)
 - [§ 21 Transparenzpflichten im Hinblick auf bestimmte Rechtsgestaltungen](0021.md)
 - [§ 22 Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung](0022.md)
 - [§ 23 Einsichtnahme in das Transparenzregister, Verordnungsermächtigung](0023.md)
@@ -41,7 +43,7 @@
 - [§ 24 Gebühren und Auslagen, Verordnungsermächtigung](0024.md)
 - [§ 25 Übertragung der Führung des Transparenzregisters, Verordnungsermächtigung](0025.md)
 - [§ 26 Europäisches System der Registervernetzung, Verordnungsermächtigung](0026.md)
-- [§ 26a Abruf durch die Zentralstelle für Finanztransaktionsuntersuchungen und die Strafverfolgungsbehörden](0026a.md)
+- [§ 26a Abruf durch bestimmte Behörden](0026a.md)
 
 ## Abschnitt 5 Zentralstelle für Finanztransaktionsuntersuchungen
 
@@ -51,12 +53,14 @@
 - [§ 30 Entgegennahme und Analyse von Meldungen](0030.md)
 - [§ 31 Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht, Verordnungsermächtigung](0031.md)
 - [§ 32 Datenübermittlungsverpflichtung an inländische öffentliche Stellen](0032.md)
+- [§ 32a Datenübermittlung an Europol](0032a.md)
 - [§ 33 Datenaustausch mit Mitgliedstaaten der Europäischen Union](0033.md)
 - [§ 34 Informationsersuchen im Rahmen der internationalen Zusammenarbeit](0034.md)
 - [§ 35 Datenübermittlung im Rahmen der internationalen Zusammenarbeit](0035.md)
 - [§ 36 Automatisierter Datenabgleich im europäischen Verbund](0036.md)
 - [§ 37 Berichtigung, Einschränkung der Verarbeitung und Löschung personenbezogener Daten aus automatisierter Verarbeitung und bei Speicherung in automatisierten Dateien](0037.md)
 - [§ 38 Berichtigung, Einschränkung der Verarbeitung und Vernichtung personenbezogener Daten, die weder automatisiert verarbeitet werden noch in einer automatisierten Datei gespeichert sind](0038.md)
+- [§ 38a Protokollierung von Informationsersuchen, Statistik, Verordnungsermächtigung](0038a.md)
 - [§ 39 Errichtungsanordnung](0039.md)
 - [§ 40 Sofortmaßnahmen](0040.md)
 - [§ 41 Rückmeldung an den meldenden Verpflichteten](0041.md)
