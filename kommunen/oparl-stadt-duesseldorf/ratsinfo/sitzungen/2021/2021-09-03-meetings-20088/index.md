@@ -1,0 +1,93 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-03T15:00:00+02:00
+- Ende: 2021-09-03T17:35:00+02:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20088
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20088
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung Ö 03.09.2021; Stand 02.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422459.pdf
+- Ergebnisprotokoll: BV9 Sitzung Ö 03.09.2021; Stand 02.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422459.pdf
+- Wortprotokoll: BV9 Sitzung Ö 03.09.2021; Stand 02.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422459.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Das Klimamobil stellt sich vor
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Der Klimawandel hat Auswirkungen auf die Bäume – - zur Kenntnis genommen
+- TOP 4.2: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - einstimmig beschlossen
+- TOP 4.3: Rahmenplan Einzelhandel 2016 3.Änderung (Entwurf) - Zentrum Henkelstraße - Empfehlung einstimmig beschlossen
+- TOP 4.4: Flächennutzungsplanänderung Nr. 202 - Nördlich Henkelstraße - Empfehlung einstimmig beschlossen
+- TOP 4.5: Bebauungsplan - Vorentwurf Nr. 09/020 - Östlich Walzwerkstraße - Empfehlung einstimmig beschlossen
+- TOP 4.6: Nikolausstraße 41 - Beseitigung eines Wohnhauses mit Anbauten - einstimmig beschlossen
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Straßenbenennung Lilli-Marx-Straße - einstimmig beschlossen
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 (Liste A Schulen) - beschlossen
+- TOP 4.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 4.12: Änderung und Ergänzung zum OGS-Sammelbeschluss vom 19.09.2019 (SCHUA/015/2019) und Änderung zum SOM-VI-Beschluss vom 13.12.2018 (Vorlage 40/73/2018-1) - Empfehlung einstimmig beschlossen
+- TOP 4.13: Sitzungstermine im Jahre 2022 der Bezirksvertretung 9 - zur Kenntnis genommen
+- TOP 4.14: Bonner Straße 61 - Fällung und Ersatzpflanzung eines Baumes - zur Kenntnis genommen
+- TOP 4.15: „Jugend checkt Düsseldorf“ - Ein kleines Resümee für den Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 5: Anfragen aus früheren Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Ausbau der Fernwärmeversorgung in Benrath - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tempo 30 vor sozialen Einrichtungen, Vorlage OVA/056/2021 - Antrag der Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 7.4: Tempo 30 Südallee/Kammerrathsfeldstraße/Tübinger Straße - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Umlaufschranke Dechenweg, Durchfahrt zum Curieweg - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Verlegung der Altglascontainer Südallee gegenüber der Hausnummer 64 - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Verfügungsmittel
+- TOP 8.1: Chorverband Düsseldorf - Kultur-Zuschuss für die Chöre im Stadtbezirk 9 für das Jahr 2021 - einstimmig beschlossen
+- TOP 8.2: Düsseldorfer Künstler e. V. - Bemalung der Säulen an der Unterführung Münchner Straße/Bonner Straße - einstimmig beschlossen
+- TOP 8.3: Heimatverein Holthausen-Itter-Himmelgeist e. V. - Aufstellen eines Weihnachtsbaumes auf dem Kamper Acker 2021 - einstimmig beschlossen
+- TOP 8.4: Martinsfreunde Wersten e. V. - Laternen Schau in Wersten zu St. Martin - einstimmig beschlossen
+- TOP 8.5: Benrather Schlossnarren e. V. - Sommerfest 2021 - einstimmig beschlossen
+- TOP 8.6: Schützenbruderschaft v. 1641 Düsseldorf- Himmelgeist e.V. - Weihnachtsbaum am Dorfplatz in Himmelgeist - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Beschlusskontrolle Bezirksvertretung 9 - Beschluss der BV 9 vom 07.05.2021; BV9/104/2021 - zur Kenntnis genommen
+- TOP 9.2: Kölner Landstraße 311 Papiersammelcontainer Stellplatz - Beschluss der BV9 vom 25.06.2021; BV9/161/2021 - zur Kenntnis genommen
+- TOP 9.3: Bepollerung Zugang Grünanlage Tiroler Weg - Beschluss der BV9 vom 25.06.2021; BV9/162/2021 - zur Kenntnis genommen
+- TOP 9.4: Bänke Benrather Schloss - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/149/2021 - zur Kenntnis genommen
+- TOP 9.5: Zugang bzw. Zufahrt zum Spiegelweiher und zum Schlossweiher - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/ 151/2021 - zur Kenntnis genommen
+- TOP 9.6: Reisig- , Laubhaufen für Igel und Kleintiere in öffentl. Anlagen - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/144/2021 - zur Kenntnis genommen
+- TOP 9.7: Erweiterung der Außenanlage der Kindertageseinrichtung - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV/129/2021 - zur Kenntnis genommen
+- TOP 9.8: Bürgersteigsanierung Urdenbacher Dorfstraße-Westseite -Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/152/2021 - zur Kenntnis genommen
+- TOP 9.9: Zeitnahe Beseitigung von tiefen Schlaglöchern im Stadtbezirk 9 - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/157/2021 - zur Kenntnis genommen
+- TOP 9.10: Auf- und Abfahrt Frankfurter Straße/Südallee - Beschluss der Bezirksvertretung 9 vom 07.05.2021; BV9/097/2021 - zur Kenntnis genommen
+- TOP 9.11: Bonner Straße, Kurve gegenüber „Schöne Aussicht“ - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/169/2021 - zur Kenntnis genommen
+- TOP 9.12: Gehweg/Bürgersteig Hügelstraße - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/154/2021 - zur Kenntnis genommen
+- TOP 9.13: Abstellmöglichkeiten für Lastenräder an der Ohligser Straße - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/160/2021 - zur Kenntnis genommen
+- TOP 9.14: Umbau Kreuzung Am Trippelsberg / Karweg - Beschluss der Bezirksvertretung 9 vom 07.05.2021; BV9/113/2021 - zur Kenntnis genommen
+- TOP 9.15: Vergrößerung der Baumscheiben - Beschluss der Bezirksvertretung 9 vom 19.02.2021 ; BV9/035/2021 - zur Kenntnis genommen
+- TOP 9.16: Radfahrstreifen in Hassels und Reisholz - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/159/2021 - zur Kenntnis genommen
