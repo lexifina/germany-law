@@ -1,0 +1,104 @@
+# 7.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-06T17:00:00+02:00
+- Ende: 2021-09-06T19:48:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23313
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23313
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Einführung und Verpflichtung eines neuen Mitgliedes der Bezirksvertretung Mülheim gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 Hauptsatzung der Stadt Köln
+- TOP -: B Bericht der Sozialraumkoordinatorin aus dem Sozialraumgebiet Buchheim / Holweide
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Einrichtung eines Bewohnerparkgebietes im Bereich Johann-Bendel-Straße in Köln-Mülheim (Az.: 02-1600-209/20) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Fahrradstraße in Flittard (Az.: 02-1600-73/21) - zurückgestellt
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Deutz-Mülheimer-Straße (Az.: 02-1600-221/20) - ungeändert beschlossen
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Änderung der Verkehrsführung "An der Walkmühle" (Az.: 02-1600-69-21) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für die Rosenmaarschule in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Was bedeutet der Gefahrguthafen für Köln-Mülheim? - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer Anfrage der Fraktion Die Linke. gem. § 38 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 7.1.3: Anfrage zum ramponierten Straßenzustand in der Ackerstraße - Kenntnis genommen
+- TOP 7.1.4: AN/1294/2021 Schulplatzentwicklung im Stadtteil Köln-Buchheim - Anfrage SPD - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Ausstattung Schulen mit Luftreinigungsanlagen - Kenntnis genommen
+- TOP 7.2.2: Hochwasser im Stadtteil Köln-Dünnwald - Kenntnis genommen
+- TOP 7.2.2.1: Hochwasser im Stadtteil Dünnwald; hier: Beantwortung zur Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Barrierefreie Sporthallen - Kenntnis genommen
+- TOP 7.2.4: Fahrradrinnen an der Mülheimer Brücke - Kenntnis genommen
+- TOP 7.2.5: E- Scooter und deren Abstellung auf öffentlichen Flächen - Kenntnis genommen
+- TOP 7.2.5.1: E-Scooter und deren Abstellung auf öffentlichen Flächen - Kenntnis genommen
+- TOP 7.2.6: Stammheimer Fort / Spielplatz- Angebot - Kenntnis genommen
+- TOP 7.2.7: Müll-Verbreitung an Freiflächen und neben Parkbänken ( konkret auch die Flächen entlang der Hafenstr. / zum Rheinufer ) - Kenntnis genommen
+- TOP 7.2.8: Mülleimer im Mülheimer Stadtgarten und im Zentrum Mülheim - Kenntnis genommen
+- TOP 7.2.9: Umsetzung des Beschlusses des Betriebsausschuss Gebäudewirtschaft vom 02.12.2019 zu Photovoltaikanlagen auf städtischen Gebäuden - Kenntnis genommen
+- TOP 7.2.9.1: Umsetzung des Beschlusses zu Photovoltaikanlagen auf städtischen Gebäuden - zur Anfrage der Fraktion Die Linke AN/1741/2021 - Kenntnis genommen
+- TOP 7.2.10: Pflege, Instandhaltung, Neukonzeption von städtischen Spielplätzen - Kenntnis genommen
+- TOP 7.2.11: Anzahl und Aufgaben der Ordnungsmitarbeiterinnen - Kenntnis genommen
+- TOP 7.2.12: Wie kann man eine derartige Überflutung durch den Mutzbach in Zukunft verhindern? - zurückgestellt
+- TOP 7.2.13: Neue Gefährdungen im Kreuzungsbereich Buschfeldstraße / Bergisch Gladbacher Straße in Holweide - Kenntnis genommen
+- TOP 7.2.14: Bienenvölker auf dem Kalkberg - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Reinigung und Mülleimer Karl-Droll-Weg - geändert beschlossen
+- TOP 8.1.2: Zukunft denken: Bildungscampus am Stadtgarten Mülheim ermöglichen! - ungeändert beschlossen
+- TOP 8.1.3: Grundstück Clevischer Ring, Hacketäuer Straße, Von-Sparr-Straße - ungeändert beschlossen
+- TOP 8.1.4: Obdachlosensituation in Mülheim Wiener Platz und Umgebung; Betreuungs- und Beratungsbedarf - ungeändert beschlossen
+- TOP 8.1.5: Adolf- Kober Str. zur Fahrrad- Straße umwidmen - endgültig abgelehnt
+- TOP 8.1.6: Sofortprogramm „Klimanotstand ernstnehmen – Verkehrswende in Köln-Mülheim anpacken“ - geändert beschlossen
+- TOP 8.1.7: Abstellzonen für E-Scooter im Bezirk Mülheim - ungeändert beschlossen
+- TOP 8.1.8: Markierungen Treppen der U-Bahn-Haltestelle Wiener Platz - ungeändert beschlossen
+- TOP 8.1.9: Prüfung Fußgängerampel Frankfurter Straße Höhe Arnsbergerstraße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beratung des Haushaltsplanentwurfs für den Haushalt 2022 - geändert beschlossen
+- TOP 9.1.2: Haushaltsplan-Entwurf Haushalt 2022 Hier: Aufteilung der bezirksbezogenen Mittel gemäß § 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.1.3: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.1.4: Ordnungsbehördliche Verordnung für das Jahr 2021 über das Offenhalten von Verkaufsstellen am Sonntag, dem 19.09.2021 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Stadtbahnanbindung Mülheimer Süden - Bedarfsfeststellungsbeschluss mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen bei der Finanzstelle 6601-1201-901109, Straßen- u. Stadtbahnbau Mülheimer Süden - ungeändert beschlossen
+- TOP 9.2.1.1: Stadtbahnanbindung Mülheimer Süden - Bedarfsfeststellungsbeschluss mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen bei der Finanzstelle 6601-1201-901109, Straßen- u. Stadtbahnbau Mülheimer Süden - ungeändert beschlossen
+- TOP 9.2.2: Modellhafte Öffnung ausgewählter Schulhöfe als Spiel-, Sport- und Bewegungsräume für Kinder, Jugendliche und Erwachsene - ungeändert beschlossen
+- TOP 9.2.3: 277. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "FEE-Fördern und Erfolg ernten e.V. - ungeändert beschlossen
+- TOP 9.2.5: Fortsetzung der Maßnahme „Willkommen und Ankommen in Köln“ für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 9.2.6: Förderprogramm "Dritte Orte" - Förderungen von eingetragenen Vereinen aus dem Stadtgebiet - ungeändert beschlossen
+- TOP 9.2.7: -Einleitungsbeschluss- Aufhebung des Bebauungsplanes Nr. 70489/02 (7048 Sa/02) , Arbeitstitel: Münsterer Straße in Köln – Mülheim, Aufhebung - ungeändert beschlossen
+- TOP 9.2.8: Baubeschluss für die Generalinstandsetzung der Ackerstraße sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Mülheim in der Zuständigkeit des Amtes für Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 10.2.5: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 10.2.6: 19. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.7: Tempo 30 auf der Straße Im Weidenbruch - Kenntnis genommen
+- TOP 10.2.8: Realisierbarkeit von Quartiersgaragen und eines zugehörigen Masterplans - Kenntnis genommen
+- TOP 10.2.9: Stellungnahme zum Beschluss AN 1186/2021: Zukunft und Sicherungsmaßnahmen an Strunde-Bauwerken in Köln-Buchheim und Dellbrück - Kenntnis genommen
+- TOP 10.2.10: Jahresbericht der Naturschutzwartin Bezirk 9 Ost, Köln-Mülheim - Kenntnis genommen
+- TOP 10.2.11: SeniorenNetzwerke Köln: Auszeichnung im Projekt „Nordrhein-Westfalen – hier hat alt werden Zukunft“ - Kenntnis genommen
+- TOP 10.2.12: Abschlussbericht Projekt Bildungskoordination für Neuzugewanderte (Projektende 30.06.2021) - Kenntnis genommen
+- TOP 10.2.13: Stellungnahme zum Antrag Verkehrssicherheit im Bereich der Bahnunterführung Sonderburger Straße in Köln Mülheim gewährleisten - Kenntnis genommen
+- TOP 10.2.14: Wahl der Seniorenvertretung Köln 2021: Informationsquellen und Termine - Kenntnis genommen
+- TOP 10.2.15: House of Resources in Köln - Kenntnis genommen
+- TOP 10.2.16: Auswirkungen des Unwetters auf Köln, hier: Anfrage der Fraktion Bündnis 90 / Die Grünen, der CDU-Fraktion und der Volt-Fraktion zur Sitzung des Hauptausschusses am 23.8.2021, AN/1561/2021 - Kenntnis genommen
+- TOP 10.2.17: Umsetzung des Bundesprogramms "Aufholen nach Corona für Kinder und Jugendliche" durch die Stadt Köln - Kenntnis genommen
+- TOP 10.2.18: Gewässerunterhaltungsplan 2021/2022 - Kenntnis genommen
+- TOP 10.2.19: Ausweitung der Abstellverbotszonen und festen Rückgabeorte für E-Scooter - Kenntnis genommen
+- TOP 10.2.20: Qualitätsbericht 2020 der KVB gemäß öffentlichem Dienstleistungsauftrag - zurückgestellt
+- TOP 10.2.21: Multilingualität von Anfang an - Übersicht Mehrsprachige Angebote in Köln - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
