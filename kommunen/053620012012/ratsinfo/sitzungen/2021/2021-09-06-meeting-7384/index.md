@@ -1,0 +1,62 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-09-06T18:00:00+02:00
+- Ende: 2021-09-06T19:38:00+02:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZee1n7Z08tNwOImmHjNGEBw
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7384
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZti234mGgrHxeWV9kSdQnMcG40VW0Ye8LW089hDEZ4m/Bekanntmachung_Rat_06.09.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUzU2K-gtl11cBC70VGnENEX4-5Nj9zvBJtH_wnru2Ip/Oeffentliche_Niederschrift_Rat_06.09.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Ferienwohnungen
+- TOP 1.2: Baustelle Böningergasse
+- TOP 2.: Niederschrift vom 28.06.2021
+- TOP 3.: Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Brühl vom 6. September 2021 - (kein Text vorhanden)
+- TOP 4.: Abschluss einer Kooperationsvereinbarung zur Fortsetzung der kommunalen Projektpartnerschaft mit Battir (palästinensische Gebiete) - (kein Text vorhanden)
+- TOP 5.: Bündnis "Städte Sicherer Häfen" hier: Initiative Aufnahme afghanischer Ortskräfte - (kein Text vorhanden)
+- TOP 6.: Annahme und Verwendung eines Vermächtnisses - (kein Text vorhanden)
+- TOP 6.1: Annahme und Verwendung eines Vermächtnisses Bezug: Fortschreibung Vorlage 405/2021
+- TOP 7.: 15. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Krankentransport und die Notfallrettung in der Stadt Brühl - Satzung Rettungsdienst - hier: Notarztgebühr - (kein Text vorhanden)
+- TOP 8.: Controlling zum Gleichstellungsplan 2019 - 2023 der Stadt Brühl
+- TOP 9.: Größenabhängige Befreiung von der Aufstellung des Gesamtabschlusses für das Jahr 2020 gem. § 116a GO NRW - (kein Text vorhanden)
+- TOP 10.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 10.1: Dringlichkeitsentscheidung über eine außerplanmäßige MIttelbereitstellung zur Reparatur des RHB Brühl-Ost nach einer Naturkatastrophe - (kein Text vorhanden)
+- TOP 10.2: Dringlichkeitsentscheidung über eine außerplanmäßige Mittelbereitstellung für Planungsleistungen zum Abriss eines Brückenbauwerkes sowie der Planungsleistung zur Teilsanierung von zwei weiteren Brücken - (kein Text vorhanden)
+- TOP 10.3: Dringlichkeitsentscheidung APL für die Kosten der Wiederaufnahme des Mensabetriebes an der OGS Astrid-Lindgren und der OGS Martin-Luther aufgrund der Flutkatastrophe - (kein Text vorhanden)
+- TOP 11.: Über- und außerplanmäßige Mittebereitstellung
+- TOP 11.1: Außerplanmäßige Mittelbereitstellung in Form einer Verpflichtungsermächtigung (VE) für den Abriss eines Brückenbauwerkes sowie die Teilsanierung von zwei Brücken - (kein Text vorhanden)
+- TOP 11.2: Überplanmäßige Ausgabe hier: Beschaffung eines Reisekostenabrechnungsprogramms sowie das Einspielen eines Updates des jetzigen Zeiterfassungsprogramms - (kein Text vorhanden)
+- TOP 11.3: Überplanmäßige Ausgaben für die Anmietung einer Mikrofonanlage für die Sitzungen des Rates der Stadt Brühl - (kein Text vorhanden)
+- TOP 12.: Anträge
+- TOP 12.1: Resolution zur Kiesgrube in Brühl-Schwadorf ("Schwadorfer Hof") Bezug: Gemeinsamer Antrag der Fraktionen CDU, SPD, Grüne, FDP und Linke&Piraten vom 03.09.2021 - (kein Text vorhanden)
+- TOP 13.: Umbesetzung in Ausschüssen
+- TOP 14.: Mitteilungen
+- TOP 14.1: Schreiben des Erzbischöflichen St. Ursula Gymnasiums
+- TOP 15.: Anfragen
+- TOP 15.1: Hochwasserschutz für Brühl Bezug: Anfrage der AfD-Fraktion vom 23.08.2021
+- TOP 15.2: Neues Spielgerät vor dem Rathaus
+- TOP 15.3: Postfiliale
+- TOP 15.4: Verkehrsaufkommen in Brühl-Badorf
+- TOP 15.5: Fahrbahnmarkierungen Auguste-Viktoria-Straße
+- TOP 15.6: Tischtennisplatte Erich Kästner Realschule
+- TOP 15.7: Spielplatz Roddergrube
+- TOP 15.8: Kick-Off-Veranstaltung
+- TOP 15.9: Spielgeräte auf dem ehemaligen KOMM-MIT-Gelände
+- TOP B): Nichtöffentliche Sitzung
+- TOP 16.: Abordnung des Beigeordneten Gerd Schiffer zur Stadt Erftstadt
+- TOP 17.: Klärschlammverwertung: mittelbare Beteiligung an der KLAR GmbH - (kein Text vorhanden)
+- TOP 18.: Inhouse-Subunternehmervereinbarung zur Erbringung der Stadtverkehrsleistung der Stadtwerke Brühl Verkehrs-GmbH (SWBV) in Brühl gemäß dem Verkehrskonzept 2018 / ÖDA-Direktvergabe Stadtbus - (kein Text vorhanden)
+- TOP 19.: Darlehensgewährung an die Gesellschaft für Bauen und Wohnen GmbH - (kein Text vorhanden)
+- TOP 20.: Mitteilungen
+- TOP 20.1: Aufsichtsrat Stadtwerke
+- TOP 20.2: Sitzungen 2022
+- TOP 21.: Anfragen
+- TOP 21.1: WLAN-Netzwerk
