@@ -1,0 +1,82 @@
+# 5. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-07T15:43:00+02:00
+- Ende: 2021-09-07T18:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23759
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23759
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag GUT Köln Kunst im öffentlichen Raum - endgültig zurückgezogen
+- TOP -: Stellungnahme zum Antrag
+- TOP 3.2: Antrag der SPD Fraktion Erfahrungsbericht Corona-Förderung zur Überführung in künftige Fördermaßnahmen - geändert beschlossen
+- TOP -: Erfahrungsberecht Coronaförderung zur Überführung in künftige Fördermaßnahmen - geändert beschlossen
+- TOP 3.3: Antrag der SPD Fraktion Kölner Kulturticket für Studierende und Azubis - zurückgestellt
+- TOP 3.4: Dringlichkeitsantrag der Faktion Bündnis 90/Die Grünen, CDU, Volt und SPD- Verlängerung der Sonderausstellung RESIST! - ungeändert beschlossen
+- TOP 3.5: Dringlichkeitsantrag von der CDU und Volt - Haus Fühlingen – Fachgespräch - ungeändert beschlossen
+- TOP 3.6: Dringlichkeitsantrag von der Fraktion Bündnis 90/Die Grünen, CDU und Volt - Zustand und Sanierung des Römerturms und der weiteren Reste der römischen Mauer - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Zentralarchiv für deutsche und internationale Kunstmarktforschung ZADIK - Fördervertrag Mietkostenzuschuss - ungeändert beschlossen
+- TOP 4.2: Leitbild für Kulturelle Teilhabe und Vielfalt - zurückgestellt
+- TOP 4.3: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Bildende Kunst: Schaffung zusätzlicher Atelierräume - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Modellhafte Öffnung ausgewählter Schulhöfe als Spiel-, Sport- und Bewegungsräume für Kinder, Jugendliche und Erwachsene - ungeändert beschlossen
+- TOP 4.5: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: Dokumentation, Digitalisierung und Veröffentlichung des Bestandes für unterschiedliche Zielgruppen - ungeändert beschlossen
+- TOP 4.6: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung für das Museum Ludwig - ungeändert beschlossen
+- TOP 4.7: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: Kunst im öffentlichen Raum II: Digitaler Skulpturenrundgang - ungeändert beschlossen
+- TOP 4.8: Neubau eines Brunnens am Neumarkt - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.9: Vergabe der vierjährigen Projektförderung im Filmbereich, Haushaltsjahre 2022 bis 2025 - ungeändert beschlossen
+- TOP 4.10: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene, hier: 2. Vorhaben 2021 - ungeändert beschlossen
+- TOP 4.11: Vergabe der Strukturförderung im Filmbereich, Haushaltsjahre 2022 bis 2025 - ungeändert beschlossen
+- TOP 4.12: Corona-Sonderförderung zur Struktursicherung freier Kulturvereine und Kulturbetriebe - endgültig abgelehnt
+- TOP 4.13: Verlängerung der Institutionellen Förderung WEEK-END Fest 2022 - ungeändert beschlossen
+- TOP 4.14: Winterprogramm Ebertplatz - ungeändert beschlossen
+- TOP 4.15: Bedarfsfeststellungs- und Planungsbeschluss von nutzungsunabhängigen Sicherungsmaßnahmen der Hallen Kalk, Hallen 76 und 77 – Planungsbeschluss - ungeändert beschlossen
+- TOP 4.16: Verausgabung Restmittel der Corona-Sonderförderung - geändert beschlossen
+- TOP 4.17: Sanierung und Optimierung des Fotoarchivs und der Depotflächen auf der Ebene 5.0 im Rautenstrauch-Joest-Museum hier: Bedarfsfeststellungs- und Planungsbeschluss - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Verwendung der Mittel aus dem Sonderausstellungsetat, 2. Fortschreibung 2021 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme von 17 Kunstwerken als Schenkung von Dr. Annelie Pohlen - ungeändert beschlossen
+- TOP 6.2: Annahme einer Schenkung von Wagenentwürfen des Künstlers Otto Schindler durch Michael Schindler an das Kölnische Stadtmuseum - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Corona-Sonderförderung zur Struktursicherung freier Kulturvereine und Kulturbetriebe - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Museen, Menschen, Medien. Digitale Standortstrategie Museen 2022+ - zurückgestellt
+- TOP 8.2: Standort für Denkmal in der Keupstraße geklärt - Kenntnis genommen
+- TOP 8.3: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 8.4: Sachstand Hallen Kalk – Gemeinwohlorientierte Entwicklung des Osthofs - Kenntnis genommen
+- TOP 8.5: Freigabe von Mitteln der Kulturförderabgabe zur Förderung des "Film Festival Cologne 2021" (1028/2021) - Kenntnis genommen
+- TOP 8.6: Aktueller Sachstand GAG-Siedlung Fortuinweg - Kenntnis genommen
+- TOP 8.7: House of Resources in Köln - Kenntnis genommen
+- TOP 8.8: Bauliche Herrichtung der ehemaligen Sendezentrale des WDR auf dem Grundstück Hitzelerstr. 125 zu Wohnraumzwecken - Kenntnis genommen
+- TOP 8.9: Musenkuss 2.0 - die Plattform für Kulturelle Bildung wird in interkommunaler Zusammenarbeit technisch grundlegend überarbeitet - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 9. August 2021 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 26. August 2021 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 30. August 2021 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung mündliche Anfrage der Fraktionen Bündnis90/Die Grüne, CDU und Volt: Kalk ist ein Stadtbezirk im Umbruch. Projekte und Planungen, die den kulturellen Sektor und kulturell genutzte, bzw. nutzbare Räume betreffen. - Kenntnis genommen
+- TOP 10.2: Beantwortung der Anfrage der Ratsfraktion Volt, AN/0888/2021; betr. Sachstand Hallen Kalk und DoMiD e.V. - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Beantwortung der mündlichen Anfrage von Frau van Duiven: Waidmarkt - Halle mit dem Knick (K3) - Kenntnis genommen
+- TOP 10.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.6: Beantwortung der mündlichen Anfrage der Fraktion Bündnis90/Die Grünen zu den Ateliers auf dem Clouth Gelände - Kenntnis genommen
+- TOP 10.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.8: Beantwortung der schriftlichen Anfrage der Ratsfraktionen Bündnis90/Die Grüne, CDU und Volt: Raum 13 - Kenntnis genommen
+- TOP 10.9: Beantwortung der schriftlichen Anfrage der FDP-Fraktion (AN/1363/2021) aus der Sitzung 15.06.2021 - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt: Ausgrabungen auf der Baustelle Herzog-Straße/Ecke Schildergasse - Kenntnis genommen
+- TOP -: Beantwortung der schriftlichen Anfrage: Ausgrabungen auf der Baustelle Herzogstraße/Ecke Schildergasse - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Fraktion SPD Studiobühne Köln und Interim - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der Fraktion FDP: Verstetigung der Sonntagsöffnung in der Stadtbibliothek - Kenntnis genommen
+- TOP -: Beantwortung der schriftlichen Anfrage - Kenntnis genommen
+- TOP 11.4: Schriftliche Anfrage der Fraktion SPD: Haushalt 2022 – Ansätze im Etat, Kulturelle Bildung - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
