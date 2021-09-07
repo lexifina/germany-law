@@ -1,0 +1,58 @@
+# Ausschuss für Verkehr und Mobilität (4. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-09-07T18:00:00+02:00
+- Ende: 2021-09-07T20:36:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-261
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUPjgSRE1-H2-wMnDm_i64A
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7393
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc4YyH1ERlnbT6p11-L182suBotcaox39kl4cUHWXhnO/Bekanntmachung_Ausschuss_fuer_Verkehr_und_Mobilitaet_07.09.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUa87vS0TMv4H5yr_qxmkcHVaKudqGpHNOBRc-brh1cT/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr_und_Mobilitaet_07.09.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 15.06.2021
+- TOP 2.: Barrierefreier Haltestellenumbau - (kein Text vorhanden)
+- TOP 3.: Anträge
+- TOP 3.1: Ausweitung des Carsharing-Angebotes in Brühl bis zum Jahresende Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 20.08.2021 - (kein Text vorhanden)
+- TOP 3.2: Durchfahrverbot für LKW in der Theodor-Heuss-Straße, Konrad-Adenauer-Straße, Heinrich-Esser-Straße und Kaiserstraße Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 20.08.2021 - (kein Text vorhanden)
+- TOP 4.: Sachstandbericht unerledigte Beschlüsse
+- TOP 4.1: Ergebnis zur Resolution für mobile Geschwindigkeitskontrollen in der Stadt Brühl - (kein Text vorhanden)
+- TOP 4.2: Geschwindigkeitsanzeigesystem
+- TOP 5.: Mitteilungen
+- TOP 5.1: Mitteilungen über laufende Beschlüsse
+- TOP 5.2: Neue Stelle Verkehrsplanung
+- TOP 5.3: Bürgerschreiben zur Verkehrssituation in Brühl Ost
+- TOP 5.4: Neue E-Scooter Anbieter in Brühl
+- TOP 5.5: Bewerbung Stadtradeln, Fußverkehrscheck und Bürgerveranstaltungen
+- TOP 6.: Anfragen
+- TOP 6.1: Radwegmarkierung Willy-Brandt-Straße / Theodor-Heuss-Straße und Tempo-30-Piktogramm auf der Gruhlstraße
+- TOP 6.2: Verschlammung nach Hochwasserereignis auf Radweg Theodor-Heuss-Straße und Talstraße / Knappschaftsstraße
+- TOP 6.3: Parksituation Grüner Weg Badorf / Eckdorf
+- TOP 6.4: Schaden an Gitter in Eisenbahnunterführung Rheinstraße / Comesstraße
+- TOP 6.5: Anschlussmöglichkeit Radweg Hürth / Fischenich
+- TOP 6.6: Zeiten für Lieferverkehr unter der Woche und an Samstagen
+- TOP 6.7: Nachfrage Sachstand Taktverdichtung Linie 18 an Samstagen
+- TOP 6.8: Routenführung SB 92/93
+- TOP 6.9: Fahrradabstellanlagen an den Wanderparkplätzen
+- TOP 6.10: Kreisverkehre „fahrradfreundlicher“ gestalten
+- TOP 6.11: Verbreiterung und Markierung Fahrradweg vor dem Eisenwerk
+- TOP 6.12: Verkehrssituation in Pingsdorf
+- TOP 6.13: Verkehrssituation Kaiserstraße / Richard-Bertram-Straße / Wilhelm-Kamm-Straße
+- TOP 6.14: Behinderung für Radfahrende durch Baustelle Römerstraße / Schlaunstraße
+- TOP 6.15: Gefahr durch Aufstufung im Bereich des neuen Spielgerätes vor dem Rathaus
+- TOP 6.16: Spielstraßenschild in der Mühlenstraße / Carl-Schurz-Straße fehlt
+- TOP 6.17: Beschilderung Clemens-August-Straße / Carl-Schurz-Straße
+- TOP 6.18: Zeitschiene Baustelle „An Hornsgarten“
+- TOP 6.19: Aufgänge an der Brücke Konrad-Adenauer-Straße
+- TOP 6.20: Rückmeldung zu CDU-Antrag „Lärmschutzmaßnahmen an der A553“
+- TOP 6.21: Dauer Baustellenmaßnahme Kaiserstraße / Kierberger Straße
+- TOP 6.22: Haltestelle Brühl Mitte barrierefreier Ausbau auf der Seite „Alter Friedhof“
+- TOP 6.23: Aufstellung Geschwindigkeitsmesstafel im Bereich Winterburg / Lohmühle / Mühlenberg
+- TOP B): Nichtöffentliche Sitzung
+- TOP 7.: Mitteilungen
+- TOP 8.: Anfragen
