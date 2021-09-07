@@ -1,0 +1,71 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-09-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6173023
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6173023
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Umwelt
+- TOP 5: Unterausschuss Mobilität
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.1: Hagenauerstr. 23
+- TOP 6.2.2: Whistlerweg 36
+- TOP 6.2.3: - abgesetzt -
+- TOP 6.2.4: Stockdorfer Str. 51a
+- TOP 6.2.5: Münsinger Str. 23
+- TOP 6.2.6: Peretshofener Str. 7
+- TOP 6.2.7: Herterichstr. 174 (T)
+- TOP 6.2.8: Bleicherhornstr. 12 (VB)
+- TOP 6.2.9: Isarwinkel 4
+- TOP 6.2.10: Frans-Hals-Str. 19
+- TOP 6.2.11: Aidenbachstr. Flnr. 467/102
+- TOP 6.2.12: Hofmannstr. 51 (VB)
+- TOP 6.2.13: Leutstettener Str. 84
+- TOP 6.2.14: Irmgardstr. 50 (VB)
+- TOP 6.2.15: Uhdestr. 39 (VB)
+- TOP 6.2.16: Fürstenackerstr. 42 (T)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.4.: Genehmigung der Protokolle vom 03.08.2021
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Schatten im Bereich Sitzplatz am Rondell vom 06.09.2021 -05.09.2022 3.582,67€; Az. 0262.0-19-0379
+- TOP 3.3.: (E) Stadtbezirksbudget Initiative "Wunderbuch" "Wunderbuch" + ein Wunderbuch für jedes Kind Hybrid vom 15.10.2021 -14.10.2022 3.200,00€; Az. 0262.0-19-0380
+- TOP 3.4.: (E) Stadtbezirksbudget Initiative „JSO“ Jugendsynphonieorchester München Süd ad lib. JSO Forstenried vom 14.09.2021 – 31.07.2022 1.685,00€; Az. 0262.0-19-0381
+- TOP 3.5.: (E) Stadtbezirksbudget Diakonie Jugendhilfe Oberbayern Sanierung/Instandsetzung des Daches bzw. Behebung des Wasserschadens 9.500,00 Euro, Az.: 0262.0-19-0384
+- TOP 3.6.: (E) Stadtbezirksbudget Maibaumverein Thalkirchen e.V. Christbaum für Thalkirchen vom 28.11.2021 – 06.01.2022 2.227,50€; Az. 0262.0-19-0386
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Errichtung Verkehrspfosten Hofmannstraße
+- TOP 5.1.2: Tempo 30 auf der Tierparkstraße zwischen Schäftlarnstraße und Tierparkbrücke
+- TOP 5.1.3: Aufhebung der Radwegbenutzungspflicht in der Pognerstraße
+- TOP 5.1.4: Tempo 30 im Bereich Gmunder Straße und Baierbrunner Straße
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Ausweichhaltverbote Rupert-Mayer-Straße
+- TOP 5.3.: (Antrag) Schließung Gehweglücke Bleibtreustraße
+- TOP 5.4.: (Antrag) Fahrradabstellmöglichkeiten Kistlerhofstraße 111
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Neue Fahrradständer auf dem Gelände der Grundschule Berner Straße
+- TOP 7.1.2: Personalsituation in den Flexi-Heimen am Südpark verbessern
+- TOP 7.2.: (Antrag) Zuteilung eines Sozialhelfers / einer Sozialhelferin für die Grundschule an der Zielstattstraße
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Flohmarkt Kistlerhofstraße/Höhenrainer Straße am 18.09.2021
+- TOP 8.3.: (A) Veranstaltung Zentralländstr., Floßlände; Münchner Kanuslalom, Wildwassersprint und Classicrennen vom 25.09. - 26.09.2021
+- TOP 8.4.: (A) Veranstaltung Zentralländstr., Floßlände; Deutsche Meisterschaft im Kanuslalom 2021 vom 17.-19.09.2021
