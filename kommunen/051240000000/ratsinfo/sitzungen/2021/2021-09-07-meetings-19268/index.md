@@ -1,0 +1,117 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-09-07T16:00:00+02:00
+- Ende: 2021-09-07T19:05:00+02:00
+- Ort: Historische Stadthalle, Johannisberg 40, 42103 Wuppertal Großer Saal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19268
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19268
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Rat http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00277344.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00278202.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Corona-Situation – Maßnahmen nach § 5 Coronaschutzverordnung (CoronaSchVO) - zur Beratung und Entscheidung verwiesen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Spielhallen und Wettbüros in der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Große Anfrage der CDU-Fraktion vom 16.07.2021 - Spielhallen und Wettbüros in der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.2: Anfrage zur Klimafolgenanpassung und Klimarobustheit - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage der CDU-Fraktion vom 11.08.2021 zu Klimafolgenanpassung und Klimarobustheit - Entgegennahme ohne Beschluss
+- TOP 2.3: Sachstand Künstlerische Kommentierung der Pallas Athene von A. Breker - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Große Anfrage der Fraktion Die Linke zum Sachstand Künstlerische Kommentierung der Pallas Athene von A. Breker vom 23.08.2021 - Entgegennahme ohne Beschluss
+- TOP 2.4: Einführung eines mobilen Bezahlsystems in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Einführung eines mobilen Bezahlsystems in Wuppertal - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 2.5: Konsequenzen der Novellierung des -Denkmalschutzgesetzes NRW für Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Konsequenzen der Novellierung des Denkmalschutzgesetzes NRW für Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.6: Gewerbeflächen und VO/0971/21, Stellungnahme der Verwaltung - vertagen
+- TOP 2.6.1: Gewerbeflächen und VO/0971/21 - Antwort auf die Große Anfrage der Fraktionen von SPD und FDP vom 30.08.2021 - vertagen
+- TOP 2.7: Erarbeitung Nahverkehrsplan gesichert - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Erarbeitung Nahverkehrsplan gesichert - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 2.8: Microdepot - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Microdepot - Antwort auf die Große Anfrage der SPD-Fraktion vom 30.08.2021 - Entgegennahme ohne Beschluss
+- TOP 2.9: Impf- und Testsituation - Entgegennahme ohne Beschluss
+- TOP 2.9.1: Antwort auf die Große Anfrage der AfD-Fraktion vom 31.08.2021 - Impf- und Testsituation - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag gemäß §24 GO NRW - Nutzbarkeit Radfahrstreifen Wall
+- TOP 3.2: Antrag gemäß § 24 GO NRW - Verkehrsberuhigung der Straße Kosiceufer
+- TOP 3.3: Antrag gemäß § 24 GO NRW - Vorgezogene barrierefreie Aufpflasterung am an den Fußgänger-Querungen am Wall
+- TOP 3.4: Antrag gemäß §24 GO NRW - Richtlinie über die Erteilung von Ausnahmegenehmigungen
+- TOP 3.5: Antrag gemäß § 24 GO NRW - Berücksichtigung der üblichen Geschosszahl anstelle der Gebäudehöhe bei der Genehmigung von neuen Gebäuden
+- TOP 3.6: Antrag gemäß § 24 GO NRW - Verzicht auf innerstädtische Zweirichtungsradwege
+- TOP 3.7: Antrag gemäß § 24 GO NRW - Musterlösungen für eine zukunftsfähige Radverkehrsplanung in Wuppertal
+- TOP 3.8: Antrag gemäß § 24 GO NRW - Schritttempo beim Rechtsabbiegen der WSW-Busse
+- TOP 3.9: Antrag gemaß § 24 GO NRW - Herstellung der Barrierefreiheit an der Fußgängerampel Bundesallee Höhe Bembergstraße
+- TOP 3.10: Antrag gemäß §24 GO NRW - Parkregelung Sophienstraße
+- TOP 3.11: Antrag gemäß § 24 GO NRW - Ressortübergreifende Behandlung des Mobilitätskonzepts für den Wohnpark Barmenia-Allee
+- TOP 3.12: Antrag gemäß § 24 GO NRW - Neubehandlung der Anregungen "Parküberwachung auf Geh- und Radwegen" (VO 0511/20)
+- TOP 4: Anträge
+- TOP 4.1: Taubenhaus am Döppersberg - geändert beschlossen
+- TOP 4.2: Finanzierung und Weiterentwicklung ÖPNV - zur Vorberatung verwiesen
+- TOP 4.3: Einrichtung einer Nachtbürgermeister(innen)stelle - zur Vorberatung verwiesen
+- TOP 4.4: Freie Fahrt für die ambulante Pflege - zur Vorberatung verwiesen
+- TOP 4.5: NRW-Projekt „Schwammstadt“ – Bewerbung der Stadt Wuppertal als Modellkommune - ungeändert beschlossen
+- TOP 4.6: Radverkehrsförderung – Überprüfung der Aufbau- und Ablauforganisation im Ressort 104 des Geschäftsbereichs Stadtgrün, Mobilität, Umwelt und Geodaten - geändert beschlossen
+- TOP 4.7: Klimaschutz und Klimafolgenanpassung – jetzt! Klimaneutral bis 2035! - zur Vorberatung verwiesen
+- TOP 4.8: Resolution Finanzielle Handlungsfähigkeit der Kommunen auch in extremen Lagen schützen und garantieren. - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Kultursilvester 2021: Spektakulär, sicher, umweltfreundlich - abgesetzt
+- TOP 5.2: Gewerbeflächen - geändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Denkmalbereichssatzung für den historischen Ortskern von Wuppertal-Cronenberg, Gestaltungssatzung für den historischen Ortskern von Wuppertal-Cronenberg - ungeändert beschlossen
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen am 10.10.2021 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.3: Siebte Änderung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 7.2: Sonderfonds Unwetterkatastrophe vom 14./15.07.2021 - ungeändert beschlossen
+- TOP 7.2.1: Hochwasserereignis in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 7.3: Sanierung von Stützmauern - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Gewährung von Zuschüssen an den privaten Förderschulträger Troxler-Schule Wuppertal e. V., Nommensenweg 12, 42285 Wuppertal - ungeändert beschlossen
+- TOP 8.2: Gewährung von Zuschüssen an den privaten Förderschulträger, Christian-Morgenstern-Schule Wuppertal, Wittensteinstr. 76, 42285 Wuppertal - ungeändert beschlossen
+- TOP 8.3: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2020 der Stadtparkasse Wuppertal - Ergebnisverwendung - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2020: Entlastung der Mitglieder des Verwaltungsrates der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.6: Zuführung zur Kapitalrücklage bei der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 8.7: Änderung des Gesellschaftsvertrages der Wuppertal Marketing GmbH - abgesetzt
+- TOP 8.8: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2020 - abgesetzt
+- TOP 8.9: Jahresabschluss 2020 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1264 - Boltenberg - Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 810 A - Uellendahler Straße/ Zamenhofstraße - 3. Änderung des Bebauungsplanes (mit Flächennutzungsplanberichtigung 118B) - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1263 - Röttgen / Am Deckershäuschen - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1271 - Linderhauser Str./Wasserspeicher - Anordnung einer Veränderungssperre - - ungeändert beschlossen
+- TOP 9.5: Planfeststellungsverfahren für die Erneuerung des Rauenthaler Tunnels in Wuppertal-Langerfeld - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung und Erweiterung des Gebäudes Bartholomäusstr. 70 für die Helene-Stöcker-Schule - ungeändert beschlossen
+- TOP 10.2: Umbau des Ratssaales - geändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Überörtliche Prüfung der Gemeindeprüfungsanstalt NRW - ungeändert beschlossen
+- TOP 11.2: Straßen- und Wegekonzept für den Stadtbezirk Heckinghausen - abgesetzt
+- TOP 11.3: Jahresbericht des Inklusionsbüros 2020 - Entgegennahme ohne Beschluss
+- TOP 11.4: Ein Wuppertal für Alle - Fortschreibung des Handlungsprogramms zur Wuppertaler Inklusionspolitik 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 11.5: Jährliche Auslobung eines Inklusionspreises - Konzept - geändert beschlossen
+- TOP 11.6: Kinderspielplatz Kluser Platz - ISEK Innenstadt Elberfeld - ungeändert beschlossen
+- TOP 11.7: Einführung der Vorhabenkarte - ungeändert beschlossen
+- TOP 11.8: Einführung des Klimachecks in Verwaltungsvorlagen - Entgegennahme ohne Beschluss
+- TOP 11.9: Verfahren zur Besetzung der Stelle der Leitung des Rechnungsprüfungsamtes (RPA) nach Ausscheiden der bisherigen Leiterin - geändert beschlossen
+- TOP 11.10: Quartalsbericht II/2021 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.11: Neugestaltung des Spielplatzes und der Grünfläche Rosenau - ungeändert beschlossen
+- TOP 11.12: Zwischenbericht: Analyse von Gewerbe- und Industrieflächenpotenzialen im Außen- und Innenbereich - Entgegennahme ohne Beschluss
+- TOP 11.13: Abgesetzt. Vorberatung nicht abgeschlossen. Mallack - Verbesserung der Verkehrssicherheit sowie Instandsetzung der Fahrbahn - abgesetzt
+- TOP 11.14: Ökosystemleistungen der Wälder der Stadt Wuppertal und der Forstbetriebsgemeinschaft - Entgegennahme ohne Beschluss
+- TOP 11.15: Umbau und Revitalisierung des Freibades Mirke zu einem Naturerlebnisbad mit biologischer Wasseraufbereitung und Bürgerpark durch den Betreiberverein Pro Mirke e.V. - ungeändert beschlossen
+- TOP 11.16: Modellprojekt des Landes Nordrhein-Westfalen für digitale und hybride Sitzungen - Interessensbekundung der Stadt Wuppertal - abgesetzt
+- TOP 11.17: Grüner Zoo Wuppertal - Reduzierung der Eintrittspreise für Inhaberinnen und Inhaber des Wuppertal-Passes - ungeändert beschlossen
+- TOP 11.18: Verkauf des Grundstücks an der Oberen Lichtenplatzer Straße - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neubesetzung im Ausschuss für Gleichstellung und Antidiskriminierung - ungeändert beschlossen
+- TOP 12.2: Nachbesetzung Beirat Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.3: Bildung einer Einigungsstelle der Stadtverwaltung Wuppertal gemäß § 67 Landespersonalvertretungsgesetz NRW (LPVG NRW) - Bestimmung der von der Dienststelle zu benennenden Beisitzer*innen - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung Beirat Justizvollzugsanstalt Vohwinkel - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung Ausschuss für Stadtentwicklung und Bauen - ungeändert beschlossen
