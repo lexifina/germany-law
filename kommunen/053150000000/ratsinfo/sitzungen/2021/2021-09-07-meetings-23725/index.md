@@ -1,0 +1,85 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-07T14:07:00+02:00
+- Ende: 2021-09-07T16:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23725
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23725
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelles zur Pandemiesituation
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation 1 zur SGB VIII-Reform: Das neue Kinder- und Jugendstärkungsgesetz
+- TOP 1.3.2: Präsentation 2 zum Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "EigenArt e.V." - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "FEE-Fördern und Erfolg ernten e.V. - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Förderprogramme Jugendförderung ab 2022 - zurückgestellt
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Modellhafte Öffnung ausgewählter Schulhöfe als Spiel-, Sport- und Bewegungsräume für Kinder, Jugendliche und Erwachsene - ungeändert beschlossen
+- TOP 4.2: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - endgültig zurückgezogen
+- TOP 4.3: Mitgliederwechsel im Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.4: Ausschreibung Mittagessen in städtischen Kindertageseinrichtungen - ungeändert beschlossen
+- TOP 4.5: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - zurückgestellt
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Jugendkriminalität 2020 - Auswertebericht für das Polizeipräsidium Köln - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates der Stadt Köln - Kenntnis genommen
+- TOP 6.1.2: Drastischer Ausbildungsabbau aufgrund von Corona - Kenntnis genommen
+- TOP -: Drastischer Ausbildungsabbau aufgrund von Corona - Beantwortung der Anfrage AN/1283/2021 - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Forcierung des Ausbaus der Kindertagesbetreuung in Köln hier: zum 19. Statusbericht zum Ausbau der Kinderbetreuung in Köln (2484/2021) – Kinderbereuungsangebote in Chorweiler und Porz - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Alltagshelfer*innen in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.3: Sachstand Sonder-Schwimmlern-Programm nach den Sommerferien - Kenntnis genommen
+- TOP 7.1.4: Auswirkungen der Corona-Pandemie auf LSTBQI-Jugendliche - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer mündlichen Anfrage zur Freiluga - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Änderung der Vorlage Neue Familienzentren im Kindergartenjahr 2021/22 (Vorlagennummer 2003/2021) - Kenntnis genommen
+- TOP 8.2.2: 19. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.2.3: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2020/21 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Mitteilung zur SGB VIII-Reform: Das neue Kinder- und Jugendstärkungsgesetz (KJSG) - Kenntnis genommen
+- TOP 8.3.2: Mitteilung an den Jugendhilfeausschuss zum Jugendkriminalitätsbericht 2020 des Polizeipräsidiums Köln - Kenntnis genommen
+- TOP 8.3.3: Modellprojekt zur Weiterentwicklung der Verwandten- und Netzwerkpflege - Kenntnis genommen
+- TOP 8.3.4: Mitteilung zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 1. Halbjahr 2021 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Gemeinsame Website der kulturpädagogischen Facheinrichtungen - Kenntnis genommen
+- TOP 8.4.2: Wortmeldung zu TOP 14.3. Standards für barrierefreie Spielplätze - Kenntnis genommen
+- TOP 8.4.3: Weltkindertag 2021 "Kinderrechte-jetzt!" - Kenntnis genommen
+- TOP 8.4.4: Spielplatz Buschgasse, Altstadt Süd, Mitteilung zum rollstuhlgerechten Spielangebot - Kenntnis genommen
+- TOP 8.4.5: Erfolgreiches Jugendforum NRW auf der gamescom 2021 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Trägerwechsel von vier Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.5.2: Einschulungshilfe für Schulanfänger*innen zum Schuljahr 2021/ 2022 - Kenntnis genommen
+- TOP 8.5.3: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 8.5.4: Bürgereingabe nach § 24 GO NRW - Antrag auf Änderung der Satzung für Kinderspielplätze- AZ.229-19 - Kenntnis genommen
+- TOP 8.5.5: Monitoring Stadtentwicklung Köln: Freischaltung der Anwendung, Veröffentlichung von Inhalte und Methoden-Bericht sowie Ergebnisband - Kenntnis genommen
+- TOP 8.5.6: Abschlussbericht Projekt Bildungskoordination für Neuzugewanderte (Projektende 30.06.2021) - Kenntnis genommen
+- TOP 8.5.7: 2. Coronabericht - Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - Kenntnis genommen
+- TOP 8.5.8: „Weiteres Vorgehen zur Verstetigung und zum Ausbau einer integrierten, strategischen Sozialplanung auf Basis der Erkenntnisse des Lebenslagenberichts“ – Umsetzung des Ratsbeschlusses 0615/2020 vom 24.06.2021 - Kenntnis genommen
+- TOP 8.5.9: House of Resources in Köln - Kenntnis genommen
+- TOP 8.5.10: Umsetzung des Bundesprogramms "Aufholen nach Corona für Kinder und Jugendliche" durch die Stadt Köln - Kenntnis genommen
+- TOP 8.5.11: Trägerwechsel von vier Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.5.12: Multilingualität von Anfang an - Übersicht Mehrsprachige Angebote in Köln - Kenntnis genommen
+- TOP 8.5.13: Trägeranerkennungen nach § 75 Sozialgesetzbuch, Achtes Buch - Kenntnis genommen
