@@ -5,6 +5,7 @@
 ## Abschnitt 1 Allgemeines
 
 - [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 1a Hauptzollamt; örtliche Zuständigkeit](0001a.md)
 
 ## Abschnitt 2 Zu den §§ 1 und 4 Nummer 12 des Gesetzes
 
@@ -17,6 +18,7 @@
 - [§ 5 Antrag auf Erlaubnis als Steuerlagerinhaber](0005.md)
 - [§ 6 Erteilung der Erlaubnis](0006.md)
 - [§ 7 Sicherheitsleistung](0007.md)
+- [§ 7a Überprüfung der Erlaubnis](0007a.md)
 - [§ 8 Änderung von Verhältnissen](0008.md)
 - [§ 9 Erlöschen und Fortbestand der Erlaubnis](0009.md)
 - [§ 10 Belegheft, Buchführung](0010.md)

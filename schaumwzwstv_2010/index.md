@@ -5,6 +5,7 @@
 ## Abschnitt 1 Allgemeines
 
 - [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 1a Hauptzollamt; örtliche Zuständigkeit](0001a.md)
 
 ## Abschnitt 2 Zu § 1 Absatz 4 Nummer 2 des Gesetzes
 
@@ -16,6 +17,7 @@
 - [§ 4 Antrag auf Erlaubnis als Steuerlagerinhaber](0004.md)
 - [§ 5 Erteilung der Erlaubnis](0005.md)
 - [§ 6 Sicherheitsleistung](0006.md)
+- [§ 6a Überprüfung der Erlaubnis](0006a.md)
 - [§ 7 Änderung von Verhältnissen](0007.md)
 - [§ 8 Erlöschen und Fortbestand der Erlaubnis](0008.md)
 - [§ 9 Belegheft, Buchführung](0009.md)
@@ -58,6 +60,7 @@
 ## Abschnitt 9 Zu den §§ 14 und 15 des Gesetzes
 
 - [§ 30 Steueranmeldung](0030.md)
+- [§ 30a Herstellung von Schaumwein außerhalb eines Steuerlagers](0030a.md)
 
 ## Abschnitt 10 Zu § 156 Absatz 1 der Abgabenordnung
 
