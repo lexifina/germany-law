@@ -95,10 +95,16 @@ Bezeichnung als Inhaber einer Kernanlage](0017.md)
 - [§ 39 Ausnahmen von den Leistungen des Bundes](0039.md)
 - [§ 40 Klagen gegen den Inhaber einer Kernanlage, die in
 einem anderen Vertragsstaat gelegen ist](0040.md)
-- [(XXXX) §§ 41 bis 44 (weggefallen)](xxxx-41-bis-44.md)
+
+## Fünfter Abschnitt Sicherung
+
+- [§ 41 Integriertes Sicherungs- und Schutzkonzept](0041.md)
+- [§ 42 Schutzziele](0042.md)
+- [§ 43 Umfang des erforderlichen Schutzes gegen Störmaßnahmen oder sonstige Einwirkungen Dritter](0043.md)
+- [§ 44 Funktionsvorbehalt](0044.md)
 - [§ 44b Meldewesen für die Sicherheit in der Informationstechnik](0044b.md)
 
-## Fünfter Abschnitt Bußgeldvorschriften
+## Sechster Abschnitt Bußgeldvorschriften
 
 - [§ 45 (weggefallen)](0045.md)
 - [§ 46 Ordnungswidrigkeiten](0046.md)
@@ -106,7 +112,7 @@ einem anderen Vertragsstaat gelegen ist](0040.md)
 - [§ 49 Einziehung](0049.md)
 - [(XXXX) §§ 50 bis 52 (weggefallen)](xxxx-50-bis-52.md)
 
-## Sechster Abschnitt Schlußvorschriften
+## Siebter Abschnitt Schlußvorschriften
 
 - [§ 53 Erfassung von Schäden aus ungeklärter Ursache](0053.md)
 - [§ 54 Erlaß von Rechtsverordnungen](0054.md)
