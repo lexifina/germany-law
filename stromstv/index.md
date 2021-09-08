@@ -21,19 +21,19 @@
 ## - zu § 4 des Gesetzes
 
 - [§ 2 Antrag auf Erlaubnis](0002.md)
-- [§ 3 Erteilung und Erlöschen der Erlaubnis](0003.md)
+- [§ 3 Erteilung, Überprüfung und Erlöschen der Erlaubnis](0003.md)
 - [§ 4 Pflichten des Versorgers, Eigenerzeugers oder erlaubnispflichtigen Letztverbrauchers](0004.md)
 
 ## - zu § 8 des Gesetzes
 
-- [§ 5 Anmeldung der Steuer](0005.md)
+- [§ 5 Anmeldung der Steuer und Überprüfung](0005.md)
 - [§ 6 Vorauszahlungen](0006.md)
 - [§ 7 Mengenermittlung](0007.md)
 
 ## - Zu § 9 des Gesetzes
 
 - [§ 8 Antrag auf Erteilung einer Erlaubnis zur steuerbegünstigten Entnahme](0008.md)
-- [§ 9 Erteilung und Erlöschen der Erlaubnis](0009.md)
+- [§ 9 Erteilung, Überprüfung und Erlöschen der Erlaubnis](0009.md)
 - [§ 10 Allgemeine Erlaubnis](0010.md)
 - [§ 11 Pflichten des Erlaubnisinhabers](0011.md)
 - [§ 11a Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit](0011a.md)

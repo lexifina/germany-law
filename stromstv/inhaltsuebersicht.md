@@ -14,20 +14,20 @@
 |  |
 | Zu § 4 des Gesetzes |
 | § 2 | Antrag auf Erlaubnis |
-| § 3 | Erteilung und Erlöschen der Erlaubnis |
+| § 3 | Erteilung, Überprüfung und Erlöschen der Erlaubnis |
 | § 4 | Pflichten des Versorgers, Eigenerzeugers oder erlaubnispflichtigen Letztverbrauchers |
 |  |  |
 | (weggefallen) |
 | § 4a | (weggefallen) |
 |  |
 | Zu § 8 des Gesetzes |
-| § 5 | Anmeldung der Steuer |
+| § 5 | Anmeldung der Steuer und Überprüfung |
 | § 6 | Vorauszahlungen |
 | § 7 | Mengenermittlung |
 |  |
 | Zu § 9 des Gesetzes |
 | § 8 | Antrag auf Erteilung einer Erlaubnis zur steuerbegünstigten Entnahme |
-| § 9 | Erteilung und Erlöschen der Erlaubnis |
+| § 9 | Erteilung, Überprüfung und Erlöschen der Erlaubnis |
 | § 10 | Allgemeine Erlaubnis |
 | § 11 | Pflichten des Erlaubnisinhabers |
 | § 11a | Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit |

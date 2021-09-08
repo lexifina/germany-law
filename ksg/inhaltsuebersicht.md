@@ -7,7 +7,8 @@ Allgemeine Vorschriften
 Abschnitt 2
 Klimaschutzziele und Jahresemissionsmengen
 | § 3 | Nationale Klimaschutzziele |
-| § 4 | Zulässige Jahresemissionsmengen, Verordnungsermächtigung |
+| § 3a | Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft |
+| § 4 | Zulässige Jahresemissionsmengen und jährliche Minderungsziele, Verordnungsermächtigung |
 | § 5 | Emissionsdaten, Verordnungsermächtigung |
 | § 6 | Bußgeldvorschriften |
 | § 7 | Durchführungsvorschriften zur Europäischen Klimaschutzverordnung |
@@ -26,4 +27,5 @@ Vorbildfunktion der öffentlichen Hand
 | § 14 | Bund-Länder-Zusammenarbeit |
 | § 15 | Klimaneutrale Bundesverwaltung |
 | Anlage 1 (zu den §§ 4 und 5) | Sektoren |
-| Anlage 2 (zu § 4) | Zulässige Jahresemissionsmengen |
+| Anlage 2 (zu § 4) | Zulässige Jahresemissionsmengen für die Jahre 2020 bis 2030 |
+| Anlage 3 (zu § 4) | Jährliche Minderungsziele für die Jahre 2031 bis 2040 |

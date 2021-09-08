@@ -6,6 +6,7 @@
 ## Kapitel 1 Laufbahn und Ausbildung
 
 - [§ 1 Laufbahnämter](0001.md)
+- [§ 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie](0001a.md)
 - [§ 2 Ziel und Inhalt der Ausbildung](0002.md)
 - [§ 3 Einstellungsbehörde](0003.md)
 - [§ 4 Einstellungsvoraussetzungen](0004.md)
@@ -15,6 +16,7 @@
 - [§ 8 Rechtsstellung während des Vorbereitungsdienstes](0008.md)
 - [§ 9 Dauer des Vorbereitungsdienstes](0009.md)
 - [§ 10 Gliederung des Vorbereitungsdienstes](0010.md)
+- [§ 10a Digitale Lehrformate](0010a.md)
 
 ## Kapitel 2 Laufbahnprüfung
 

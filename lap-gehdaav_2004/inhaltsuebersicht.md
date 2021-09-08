@@ -3,6 +3,7 @@
 | Kapitel 1 |
 |  | Laufbahn und Ausbildung |
 | § 1 | Laufbahnämter |
+| § 1a | Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie |
 | § 2 | Ziel und Inhalt der Ausbildung |
 | § 3 | Einstellungsbehörde |
 | § 4 | Einstellungsvoraussetzungen |
@@ -12,7 +13,7 @@
 | § 8 | Rechtsstellung während des Vorbereitungsdienstes |
 | § 9 | Dauer des Vorbereitungsdienstes |
 | § 10 | Gliederung des Vorbereitungsdienstes |
-| § 11 | Fachhochschule des Bundes für öffentliche Verwaltung |
+| § 11 | Durchführung der Fachstudien |
 | § 12 | Grundsätze der Fachstudien |
 | § 13 | Grundstudium |
 | § 14 | Hauptstudium |

@@ -3,6 +3,7 @@
 | Kapitel 1 |
 |  | Laufbahn und Ausbildung |
 | § 1 | Laufbahnämter |
+| § 1a | Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie |
 | § 2 | Ziel und Inhalt der Ausbildung |
 | § 3 | Einstellungsbehörde |
 | § 4 | Einstellungsvoraussetzungen |
@@ -12,6 +13,7 @@
 | § 8 | Rechtsstellung während des Vorbereitungsdienstes |
 | § 9 | Dauer des Vorbereitungsdienstes |
 | § 10 | Gliederung des Vorbereitungsdienstes |
+| § 10a | Nutzung digitaler Formate |
 | § 11 | Fachtheoretische Ausbildung |
 | § 12 | Fremdsprachliche Ausbildung |
 | § 13 | Praktische Ausbildung |

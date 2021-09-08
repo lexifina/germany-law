@@ -5,7 +5,7 @@
 | § 1 | Begriffsbestimmungen |
 | § 1a | Zuständiges Hauptzollamt |
 |  |
-| Zu den §§ 1 bis 3, 53 bis 53b und 55 des Gesetzes |
+| Zu den §§ 1 bis 3, 53 bis 53a und 55 des Gesetzes |
 |  |  |
 | § 1b | Ergänzende Begriffsbestimmungen zum Gesetz |
 | § 1c | Steuertarif für schwefelhaltige Energieerzeugnisse |
@@ -19,6 +19,7 @@
 | § 6 | Bewilligung des Kennzeichnungsbetriebs |
 | § 7 | Pflichten des Inhabers des Kennzeichnungsbetriebs |
 | § 8 | Andere Energieerzeugnisse als Gasöle |
+| § 8a | Überprüfung und Erlöschen der Zulassung und der Bewilligung |
 |  |
 | Zu § 3 Absatz 1 Satz 1 Nummer 1 und 2, § 37 Absatz 2 Satz 3 sowie zu den §§ 53 und 53a des Gesetzes |
 |  |  |
@@ -45,14 +46,14 @@
 |  |  |
 | § 12 | Antrag auf Herstellererlaubnis |
 | § 13 | Einrichtung des Herstellungsbetriebs |
-| § 14 | Erteilung und Erlöschen der Herstellererlaubnis |
+| § 14 | Erteilung, Überprüfung und Erlöschen der Herstellererlaubnis |
 | § 15 | Pflichten des Herstellers, Steueraufsicht |
 |  |
 | Zu § 7 des Gesetzes |
 |  |  |
 | § 16 | Antrag auf Lagererlaubnis |
 | § 17 | Einrichtung des Lagers |
-| § 18 | Erteilung und Erlöschen der Lagererlaubnis |
+| § 18 | Erteilung, Überprüfung und Erlöschen der Lagererlaubnis |
 | § 19 | Pflichten des Lagerinhabers, Steueraufsicht |
 | § 20 | Lagerbehandlung |
 | § 21 | Zugelassener Einlagerer, Erlaubnis und Pflichten |
@@ -66,6 +67,10 @@
 |  |  |
 | § 23a | Steueranmeldung |
 |  |
+| Zu den §§ 8, 9, 9a, 14, 15, 16, 17, 18, 18a, 20, 21, 22, 23, 30, 33, 34, 36, 37, 39, 40, 42, 43 und 44 des Gesetzes und § 61 Absatz 4 |
+|  |  |
+| § 23b | Überprüfung der Steueranmeldung |
+|  |  |
 | Zu § 9 des Gesetzes |
 |  |  |
 | § 24 | Herstellung außerhalb eines Herstellungsbetriebs |
@@ -141,7 +146,9 @@
 | § 46 | Verkehrs-, Verbringungs- und Verwendungsbeschränkungen |
 | § 47 | Vermischungen in Kennzeichnungs- und anderen Betrieben |
 | § 48 | Vermischungen bei der Abgabe aus Transportmitteln |
-| § 49 | Spülvorgänge und sonstige Vermischungen |
+| § 49 | Spülvorgänge und sonstige Vermischungen, Steueranmeldung |
+| § 49a | Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung |
+| § 49b | Nachweise für die Vorversteuerung |
 |  |
 | Zu § 23 des Gesetzes |
 |  |  |
@@ -153,7 +160,7 @@
 |  |  |
 | § 52 | Antrag auf Erlaubnis als Verwender oder Verteiler |
 | § 53 | Erteilung der Erlaubnis |
-| § 54 | Erlöschen der Erlaubnis |
+| § 54 | Überprüfung und Erlöschen der Erlaubnis |
 | § 55 | Allgemeine Erlaubnis |
 | § 56 | Pflichten des Erlaubnisinhabers, Steueraufsicht |
 | § 57 | Bezug und Abgabe von steuerfreien Energieerzeugnissen |
@@ -177,7 +184,7 @@
 | § 63 | Einrichtung des Kohlebetriebs |
 | § 64 | Pflichten des Betriebsinhabers |
 | § 65 | Antrag auf Erlaubnis für Kohlebetriebe und Kohlelieferer |
-| § 66 | Erteilung und Erlöschen der Erlaubnis |
+| § 66 | Erteilung, Überprüfung und Erlöschen der Erlaubnis |
 | § 67 | Pflichten des Erlaubnisinhabers |
 | § 68 | Bezug und Lagerung von unversteuerter Kohle |
 | § 69 | Lieferung von unversteuerter Kohle |
@@ -192,7 +199,7 @@
 |  |
 | Zu § 37 des Gesetzes |
 | § 72 | Antrag auf Erlaubnis als Kohleverwender |
-| § 73 | Erteilung und Erlöschen der Erlaubnis |
+| § 73 | Erteilung, Überprüfung und Erlöschen der Erlaubnis |
 | § 74 | Allgemeine Erlaubnis |
 | § 75 | Pflichten des Erlaubnisinhabers |
 | § 76 | Bezug und Lagerung von steuerfreier Kohle |
@@ -218,7 +225,7 @@
 | Zu § 44 des Gesetzes |
 |  |  |
 | § 83 | Antrag auf Erlaubnis als Erdgasverwender oder als Erdgasverteiler |
-| § 84 | Erteilung und Erlöschen der Erlaubnis |
+| § 84 | Erteilung, Überprüfung und Erlöschen der Erlaubnis |
 | § 84a | Allgemeine Erlaubnis |
 | § 85 | Pflichten des Erlaubnisinhabers |
 | § 86 | Eigenverbrauch |
