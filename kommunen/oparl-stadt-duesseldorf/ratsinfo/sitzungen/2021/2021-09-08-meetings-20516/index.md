@@ -1,0 +1,76 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-08T17:00:00+02:00
+- Ende: 2021-09-08T19:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20516
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20516
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2021-09-08 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421951.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2021-09-08 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421951.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2021-09-08 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00421951.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Bestellung einer Schriftführerin / eines Schriftführers - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - vom 26.05.2021 - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift - öffentlicher Teil - vom 30.06.2021 (wird nachgereicht) - abweichend beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 5: Bebauungsplan Nr. 06/014 - Vogelsanger Weg / Münsterstraße - Empfehlung einstimmig beschlossen
+- TOP 6: Bebauungsplan-Vorentwurf Nr. 06/003 - Ludwig-Beck-Straße - abweichend beschlossen
+- TOP 7: Bebauungsplan-Entwurf Nr. 06/011 - Airport City West - Empfehlung einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Der Klimawandel hat Auswirkungen auf die Bäume – - zur Kenntnis genommen
+- TOP -: Anfragen (alt - wurden bereits übersandt)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Interfraktionelle Anfrage: Tempo 40 auf der Straße "Am Röttchen"
+- TOP 18: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 19: Anfrage der Fraktion BÜ90/Die Grünen: Sachstand zum Bauvorhaben Mintarder Weg - beantwortet
+- TOP 20: Anfrage der Fraktion BÜ90/Die Grünen: Offene Fragen zum flankierenden Verkehrskonzept des Neubauprojekts Deiker Höfe (ehemals Fashion House)
+- TOP -: Anfragen
+- TOP 21: Anfrage der SPD-Fraktion: Wie soll zukünftig die Parkregelung auf dem Marktplatz in Lichtenbroich am Dickhausweg aussehen?
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Anfrage der Fraktion BÜ90/Die Grünen: Bauplanungen und Einhaltung der Grundflächenzahl
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Anfrage der Fraktion BÜ90/Die Grünen: Versiegelung im Stadtbezirk 6
+- TOP -: Anträge (wurden bereits versandt - beratungsbedarf)
+- TOP 29: Antrag der CDU-Fraktion: Schaffung einer Einbahnstraße: Mintarder Weg - vertagt
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines verkehrsberuhigten Bereichs in einem Teilbereich der Straße "An der Golzheimer Heide" - vertagt
+- TOP 31: Antrag der Fraktion BÜ90/Die Grünen: Ergebnisse des Fußverkehrschecks umsetzen - Fußverkehr stärken - vertagt
+- TOP 32: Antrag der SPD-Fraktion: Einrichtung von Tempo 30 auf dem gesamten Volkardeyer Weg - vertagt
+- TOP -: Anträge
+- TOP 33: Antrag der FDP-Fraktion: Flächenentsiegelung von den Spitzen der Fußgängerinseln im Stadtbezirk 6 - mehrheitlich beschlossen
+- TOP 34: Antrag der CDU-Fraktion: Gelände an der Oberhausener Straße - Wie geht es weiter? - einstimmig beschlossen
+- TOP 35: Antrag der SPD-Fraktion: Aufstellung von Fahrradständern im Bereich Dickhausweg am Einkaufszentrum in Lichtenbroich - einstimmig beschlossen
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Antrag der Fraktion BÜ90/Die Grünen: Umwandlung der Oldenburger Straße in eine Einbahnstraße - vertagt
+- TOP -: Verwaltungsvorlagen
+- TOP 38: Förderung Dritter 2021 - Antrag des Pinocchio e.V. zur Einrichtung eines Töpferkurses und eines Begegnungscafés - einstimmig beschlossen
+- TOP 39: Förderung Dritter 2021 - Antrag der Zukunftswerkstatt Düsseldorf GmbH (ZWD) Projekt "REACT" - einstimmig beschlossen
+- TOP 40: Zuschussvergabe 2021 - Antrag des Bürgervereins Mörsenbroich 1928 e.V. ("Inoffizielles" Stadtteilwappen) - einstimmig beschlossen
+- TOP 41: Zuschussvergabe 2021 - Antrag Kartause-Hain-Schule - Theaterpädagogische Präventionsprogramme - einstimmig beschlossen
+- TOP 42: Zuschussvergabe 2021 - Antrag der GGS Unterrath - Theaterpädagogische Präventionsprogramme ("Die große Nein-Tonne" und "Mein Körper gehört mir") - einstimmig beschlossen
+- TOP 43: Bauunterhaltungsmittel Teil A Schulen - Umgestaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 44: Sitzungstermine der Bezirksvertretung 6 im Jahr 2022 - abweichend beschlossen
+- TOP 45: Maßnahmenliste zur Fortschreibung des Stadterneuerungsgebietes Rath/Mörsenbroich (wird nachgereicht) - einstimmig beschlossen
+- TOP 46: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 47: Bebauungsplan - Entwurf Nr. 05/014 - Ehemals Fashion House - Empfehlung abweichend beschlossen
+- TOP 48: Schaukel für Kleinkinder (Babyschaukel) Spielplatz Heideweg/Sankt-Franziskus-Straße - Vorlage BV6/025/2021 - zur Kenntnis genommen
+- TOP 49: Vereinheitlichung und Teilinstandsetzung des Radweges entlang der Kalkumer Straße - Vorlage BV6/036/2021 - zur Kenntnis genommen
+- TOP 50: Bauunterhaltungsmittel 2021 -Aufstellung eines Weihnachtsbaumes inkl. Beleuchtung auf dem Hülsmeyerplatz - einstimmig beschlossen
+- TOP 51: Anwendung der Wohnraumschutzsatzung im Bereich Zeisigweg/Am Roten Haus - Wohnungen bzw. Häuser der SWD - Vorlage BV6/048/2021 - zur Kenntnis genommen
+- TOP 52: Bauunterhaltungsmittel 2021/2022 - Projekt "Pumptrack am KSP An der Golzheimer Heide" - einstimmig beschlossen
