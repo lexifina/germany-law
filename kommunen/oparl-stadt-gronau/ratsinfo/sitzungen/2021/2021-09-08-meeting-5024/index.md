@@ -1,0 +1,63 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-09-08T18:00:00+02:00
+- Ende: 2021-09-08T22:17:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVd9bOW8O_q-682QvnvFbyY
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5024
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRkxf2VmfDsc8R_jnI_xbfkdBXEy1wRC5Yp4kbgEaCHu/Bekanntmachung_Rat_08.09.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfWX3UdXgwdWmxj2NJglPjtjwYhzcejFE9b11DtHpXCB/Oeffentliche_Niederschrift_Rat_08.09.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 30.06.2021
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Antrag der CDU-Fraktion vom 28.07.2021; Erneute Beratung der Vorlage 388/2021 – 109. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich „Nördlich der Oststraße“ Stadtteil Epe. Bebauungsplan Nr. 253 „Nördlich der Oststraße“, Stadtteil Epe - 17 Jastimmen, 25 Neinstimmen, 2 Enthaltungen
+- TOP 3.2: Antrag der Fraktion Pro: Bürgerschaft Ergänzungsvorlage zum Leerzug des Rathauses, Rat am 8. Sept. 2021
+- TOP 3.3: Antrag der Fraktion pro:Bürgerschaft vom 28.08.2021; Förderprogramm „Jung kauft Alt – Junge Leute kaufen alte Häuser“ - 38 Jastimmen, 4 Neinstimmen, 1 Enthaltungen
+- TOP 4.: Beschluss des Raumkonzeptes zum Leerzug des Rathauses
+- TOP 5.: Beschluss zur geplanten Wegeführung entlang des Badesees - 20 Jastimmen, 22 Neinstimmen, 2 Enthaltungen
+- TOP 6.: Auflösung der Taucherstaffel der Feuerwehr Gronau - Einstimmig, 0 Enthaltungen
+- TOP 7.: Jahresabschluss 2020 Abwasserwerk - Einstimmig, 0 Enthaltungen
+- TOP 8.: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses und Gesamtlageberichts für das Haushaltsjahr 2020 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Budgetbericht für das II. Quartal 2021
+- TOP 10.: Spenden resultierend aus anteiligen Gewinnabführungen der Sparkasse Westmünsterland - Einstimmig, 0 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 196 "Nördlich der Iltisstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 3 Abs. 2 BauGB 3. Satzungsbeschluss 4. Anpassung des Flächennutzungsplans - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 199 "Östlich der Lennestraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - 29 Jastimmen, 2 Neinstimmen, 12 Enthaltungen
+- TOP 12.1: Bebauungsplan Nr. 199 "Östlich der Lennestraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss Antrag der Fraktion pro: Bürgerschaft vom 20.08.2021
+- TOP 12.2: Bebauungsplan Nr. 199 "Östlich der Lennestraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss Antrag der Fraktion pro: Bürgerschaft vom 20.08.2021
+- TOP 13.: Aufstellung der 3. Änderung des Bebauungsplans Nr. 211 „Industriegebiet Epe“, Stadtteil Epe. (Bebauungsplan der Innenentwicklung gem. § 13a BauGB)
+- TOP 14.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 15.: Sachstand zur Corona-Pandemie (Stand: 01.09.2021)
+- TOP 16.: Abberufung einer/eines Prüfers/einer Prüferin im Rechnungsprüfungsamt - Einstimmig, 0 Enthaltungen
+- TOP 17.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 17.1: Glasfaserverträge (AR-Vors. SWG)
+- TOP 17.2: Unterlagen AR RPM/KB; Wechselausstellungen RPM; kostenlose Nutzung RPM (AR-Vors. RPM/KB)
+- TOP 17.3: Berichte von der Sparkasse Westmünsterland
+- TOP 17.4: Geschäftsführung WGG; Geschäftsordnungen für Gesellschaften (AR-Vors. WGG)
+- TOP 18.: Mitteilungen der Verwaltung
+- TOP 18.1: Besuch von Regierungspräsidentin Feller
+- TOP 18.2: Verleihung der Stadtplakette
+- TOP 18.3: PCR-Testlabor
+- TOP 18.4: Wahllokal "St. Ludgerus-Kindergarten"
+- TOP 18.5: Wahlstudio zur Bundestagswahl 2021
+- TOP 18.6: Sofortprogramm Innenstadt
+- TOP 19.: Anfragen
+- TOP 19.1: Tierfutter im Tierpark (Anfrage von RM Hüsing-Hackfort)
+- TOP 19.2: Aufwertungskonzept Tierpark (Anfrage von RM Kernebeck)
+- TOP 19.3: Telefonliste Ratsmitglieder (Anfrage von RM Wagner)
+- TOP 19.4: Ehemaliger Brunnen auf dem Kurt-Schumacher-Platz (Anfrage von RM Schwartze)
+- TOP 19.5: Fachkräftemangel im medizinischen Bereich (Anfrage von RM Buchholz)
+- TOP 19.6: Protokoll PBD 19.04.21 (Anfrage von RM Drees)
+- TOP 19.7: St. Ludgerus-Kindergarten (Anfrage von RM Buchholz)
+- TOP 19.8: Rathaus-Standorte (Anfrage von RM Krause)
+- TOP 19.9: Bodenindikatoren (Anfrage von RM Krause)
+- TOP 19.10: Ladestationen für E-Bikes in der Innenstadt (Anfrage von RM Reinhoffer)
+- TOP III.: Öffentlicher Teil
+- TOP 21.: Bestellung eines Prüfers / einer Prüferin im Rechnungsprüfungsamt - Einstimmig, 0 Enthaltungen
