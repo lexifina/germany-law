@@ -76,8 +76,7 @@ Lebensmittel
 
 - [§ 27](0027.md)
 - [§ 27a](0027a.md)
-- [§ 28 (weggefallen)](0028.md)
-- [§ 28](0028-2.md)
+- [§ 28](0028.md)
 - [§ 29](0029.md)
 - [Anlage 1 (weggefallen)](anlage-1.md)
 - [Anlage 1a (weggefallen)](anlage-1a.md)

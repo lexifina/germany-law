@@ -44,7 +44,6 @@ Befugnisse
 
 - [§ 25 Besondere gesetzliche Regelung](0025.md)
 - [§ 26 Gebühren und Auslagen der Honorarkonsularbeamten](0026.md)
-- [§ 26 Gebühren und Auslagen der Honorarkonsularbeamten](0026-2.md)
 
 ## 6. Abschnitt Übergangs- und Schlußvorschriften
 

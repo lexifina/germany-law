@@ -4,7 +4,7 @@
 | 1 | 2 |  | 3 |
 |  | Abschnitt A |  |  |
 | 1 | Amitrol |  | Die Anwendung ist verboten1.von Luftfahrzeugen aus,2.in der Zeit vom 1. September bis 30. April,3.mit einem Aufwand von mehr als 4 kg Wirkstoff je Hektar. |
-| 1a | Clothianidin | Die Anwendung ist verboten |
+| 1a | (weggefallen) |  |
 |  |  | 1. | im Haus- und Kleingartenbereich, |
 |  |  | 2. | zur Saatgutbehandlung oder Bodenbehandlung für folgende Getreidearten, wenn die Aussaat zwischen Januar und Juni erfolgt: |
 |  |  |  | Gerste, Hirse, Hafer, Reis, Roggen, Sorghum, Triticale, Weizen, |
@@ -104,8 +104,8 @@
 | 2 | Daminozid |  | Die Anwendung an Pflanzen, die zur Erzeugung oder Herstellung von Lebensmitteln bestimmt sind, ist verboten. |
 | 3 | Diuron |  | Die Anwendung ist verboten1.auf Gleisanlagen,2.auf nicht versiegelten Flächen, die mit Schlacke, Split, Kies und ähnlichen Materialien befestigt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht,3.auf oder unmittelbar an Flächen, die mit Beton, Bitumen, Pflaster, Platten und ähnlichen Materialen versiegelt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder in Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht,4.im Haus- und Kleingarten. |
 | 4 | Glyphosat | ) | Die Anwendung ist verboten |
-| 5 | Glyphosat-Trimesium | ) | 1.auf nicht versiegelten Flächen, die mit Schlacke, Split, Kies und ähnlichen Materialien befestigt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht, es sei denn, die zuständige Behörde schreibt mit der Genehmigung ein Anwendungsverfahren vor, mit dem sichergestellt ist, dass die Gefahr der Abschwemmung nicht besteht,2.auf oder unmittelbar an Flächen, die mit Beton, Bitumen, Pflaster, Platten und ähnlichen Materialien versiegelt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder in Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht, es sei denn, die zuständige Behörde schreibt mit der Genehmigung ein Anwendungsverfahren vor, mit dem sichergestellt ist, dass die Gefahr der Abschwemmung nicht besteht. |
-| 5a | Imidacloprid | Die Anwendung ist verboten |
+| 5 | Glyphosat-Trimesium | ) | 1.auf nicht versiegelten Flächen, die mit Schlacke, Split, Kies und ähnlichen Materialien befestigt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht, es sei denn, die zuständige Behörde schreibt mit der Genehmigung ein Anwendungsverfahren vor, mit dem sichergestellt ist, dass die Gefahr der Abschwemmung nicht besteht,2.auf oder unmittelbar an Flächen, die mit Beton, Bitumen, Pflaster, Platten und ähnlichen Materialien versiegelt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder in Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht, es sei denn, die zuständige Behörde schreibt mit der Genehmigung ein Anwendungsverfahren vor, mit dem sichergestellt ist, dass die Gefahr der Abschwemmung nicht besteht,3.im Haus- und Kleingartenbereich; dies gilt nicht, solange für das jeweilige Pflanzenschutzmittel auf Grund einer vor dem 8. September 2021 getroffenen unanfechtbaren Entscheidung a)die Anwendung durch nichtberufliche Anwender zugelassen ist oderb)die Anwendung durch berufliche Anwender zugelassen und die Eignung zur Anwendung im Haus- und Kleingartenbereich nach § 36 Absatz 1 Satz 2 Nummer 3 oder Absatz 2 des Pflanzenschutzgesetzes festgelegt ist,4.auf Flächen, die für die Allgemeinheit bestimmt sind; dies gilt nicht, solange für das jeweilige Pflanzenschutzmittel auf Grund einer vor dem 8. September 2021 getroffenen unanfechtbaren Entscheidung die Eignung für die Anwendung auf Flächen, die für die Allgemeinheit bestimmt sind, im Rahmen eines Zulassungsverfahrens festgelegt oder die Anwendung auf Flächen genehmigt ist, die für die Allgemeinheit bestimmt sind. |
+| 5a | (weggefallen) |  |
 |  |  | 1. | im Haus- und Kleingartenbereich, |
 |  |  | 2. | zur Saatgutbehandlung oder Bodenbehandlung für folgende Getreidearten, wenn die Aussaat zwischen Januar und Juni erfolgt: |
 |  |  |  | Gerste, Hirse, Hafer, Reis, Roggen, Sorghum, Triticale, Weizen, |
@@ -203,7 +203,7 @@
 |  |  |  | Zierpflanzen, die im Jahr der Behandlung blühen |
 |  |  |  | Zitronen und Limetten: (Zitrone (Citrus limon) Saure Limette/Limonelle (C. aurantiifolia) Limette/Süßzitrone (C. limetta)). |
 | 6 | Quarzmehl |  | Die Anwendung in Vorräten von Getreide und Räumen, die der Lagerung von Getreide dienen, ist verboten. |
-| 7 | Thiamethoxam | Die Anwendung ist verboten |
+| 7 | (weggefallen) |  |
 |  |  | 1. | im Haus- und Kleingartenbereich, |
 |  |  | 2. | zur Saatgutbehandlung oder Bodenbehandlung für folgende Getreidearten, wenn die Aussaat zwischen Januar und Juni erfolgt: |
 |  |  |  | Gerste, Hirse, Hafer, Reis, Roggen, Sorghum, Triticale, Weizen, |

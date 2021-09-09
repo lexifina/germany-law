@@ -21,9 +21,6 @@ Bundesministers der Verteidigung
 ## Art 1
 
 
-## Art 1
-
-
 ## Art 2
 
 
