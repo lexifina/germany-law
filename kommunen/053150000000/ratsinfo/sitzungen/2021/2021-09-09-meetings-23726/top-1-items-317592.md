@@ -1,0 +1,6 @@
+# TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+
+- Sitzung: 5. Sitzung des Stadtentwicklungsausschusses (2021-09-09)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/317592
