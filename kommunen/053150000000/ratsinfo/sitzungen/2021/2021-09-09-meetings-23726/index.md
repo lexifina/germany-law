@@ -1,0 +1,87 @@
+# 5. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-09T15:05:00+02:00
+- Ende: 2021-09-09T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23726
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23726
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer Anfrage der SPD vom 11.06.2021 - AN/1380/2021 - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Anfrage von RM Recktenwald betreffend "Umwandlung von Miet- in Eigentumswohnungen" - Kenntnis genommen
+- TOP 1.3: Köln baut mit Holz: Holzbau in der Stadt vorantreiben - Nachfrage der Ausschussvorsitzenden Pakulat zu 1581/2021 aus der Sitzung des Stadtentwicklungsausschusses am 17.06.2021, TOP 1.7 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage der Fraktion Die Linke betr. "Otto-Langen-Quartier" - zurückgestellt
+- TOP 2.2: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt-Fraktion betr.: "Soziale Erhaltungssatzung – Nächste Schritte?" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion betr.: „Soziale Erhaltungssatzung – Nächste Schritte?“ (AN(1988/2021) - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: Otto-Langen-Quartier in Mülheim Süd: Das NRW.Urban-Gelände - zurückgestellt
+- TOP 3.2: Antrag der Fraktion Die Linke betr. "Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums" - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Grundsatzbeschluss zur Umsetzung des im Rahmen des kooperativen Baulandmodells zu erbringenden Grünflächennachweises - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.1 - Grundsatzbeschluss zur Umsetzung des im Rahmen des kooperativen Baulandmodells zu erbringenden Grünflächennachweises - geändert beschlossen
+- TOP -: Änderungsantrag zu Top 5.1 "Im Rahmen des kooperativen Baulandmodells zu erbringender Grünflächennachweis" - endgültig abgelehnt
+- TOP 5.2: Beschluss des Zielbilds für die Kölner Weststadt - zurückgestellt
+- TOP 5.3: Städtebauliches Planungskonzept Deutzer Hafen in Köln-Deutz; Hier: Anpassung des Beschlusses über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes, Fortschreibung des Integrierten Plans Deutzer Hafen im Bereich des Ostdreiecks - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die Linke. zu Top 5.3 "Städtebauliches Planungskonzept Deutzer Hafen in Köln-Deutz" - zurückgestellt
+- TOP 5.4: Winterprogramm Ebertplatz - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der FDP-Fraktion zu TOP 5.4 - Winterprogramm Ebertplatz - mit Änderungen empfohlen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - zurückgestellt
+- TOP 6.2: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.3: Stadtstrategie „Kölner Perspektiven 2030+“ - im ersten Durchgang verwiesen
+- TOP 6.4: Neubau eines Brunnens am Neumarkt - Baubeschluss - ungeändert empfohlen
+- TOP -: Änderungsantrag der SPD-Fraktion zur Vorlage 2497/2021 „Neubau eines Brunnens am Neumarkt“ - endgültig abgelehnt
+- TOP 6.5: Erneuerung der Eisenbahnüberführung der Deutz-Mülheimer Straße, Bauwerk B in Köln-Deutz durch die DB Netz AG - ungeändert empfohlen
+- TOP 6.6: Rondorf Nord-West, Entflechtungsstraße - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 220. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 7, Köln-Porz-Elsdorf Arbeitstitel: Fuchskaule in Köln-Porz-Elsdorf - ungeändert empfohlen
+- TOP 7.2: 221. Änderung des Flächennutzungsplanes (FNP) in den Stadtbezirken 1 (Innenstadt) und 3 (Lindenthal)-Einleitungsbeschluss - ungeändert beschlossen
+- TOP 7.3: 184. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3 (Köln-Lindenthal) beziehungsweise 4 (Köln-Ehrenfeld) Arbeitstitel: "Braunsfeld/Ehrenfeld" in Köln-Braunsfeld/Ehrenfeld - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept Hochpunkt Siegburger Straße in Köln-Deutz, Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan), Arbeitstitel: "Ostmerheimer Straße 214 in Köln-Merheim - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 76381/02 - mit Änderungen empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Beschluss über die Umstellung des Verfahrens zur 3. Änderung des Bebauungsplanes Nummer 67549/04 mit dem Arbeitstitel: "Causemannstraße" in Köln-Merkenich, 3. Änderung - zurückgestellt
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: -Einleitungsbeschluss- Aufhebung des Bebauungsplanes Nr. 70489/02 (7048 Sa/02) , Arbeitstitel: Münsterer Straße in Köln – Mülheim, Aufhebung - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Anregung der Bezirksvertretung Chorweiler zur Grenzänderung bei den Stadtteilen Merkenich und Fühlingen - ohne Votum in nachfolgende Gremien
+- TOP 16.2: Beschluss der Bezirksvertretung Ehrenfeld vom 31.05.2021 betr. Aufstellung eines Bebauungsplanes mit Veränderungssperre für den Bereich Wilhelm-Mauser-Straße, Venloer Straße / Bahntrasse HGK - zurückgestellt
+- TOP 16.3: Ankauf Häuser Friedrich-Engels-Str (AN/0713/2021) - Kenntnis genommen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); Bebauungsplan-Entwurf Nummer 67424/03 - Kenntnis genommen
+- TOP 17.2: Offenlage des vorhabenbezogenen Bebauungsplan-Entwurfes Nr. 68454/04 nach § 3 Absatz 2 BauGB - Kenntnis genommen
+- TOP 17.3: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 63482/02Arbeitstitel: Seeadlerweg in Köln-Vogelsang - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Sachstand Hallen Kalk – Gemeinwohlorientierte Entwicklung des Osthofs - Kenntnis genommen
+- TOP 18.2: Kölner Statistische Nachrichten 9/2021 – Kraftfahrzeuge - Kenntnis genommen
+- TOP 18.3: Monitoring Stadtentwicklung Köln: Freischaltung der Anwendung, Veröffentlichung von Inhalte und Methoden-Bericht sowie Ergebnisband - Kenntnis genommen
+- TOP 18.4: Nationalitäten in Köln – Entwicklung und Status Quo der Immigration - Kenntnis genommen
+- TOP 18.5: Modellkommune im Projekt „Global Nachhaltige Kommune NRW“ - Kenntnis genommen
+- TOP 18.6: „Weiteres Vorgehen zur Verstetigung und zum Ausbau einer integrierten, strategischen Sozialplanung auf Basis der Erkenntnisse des Lebenslagenberichts“ – Umsetzung des Ratsbeschlusses 0615/2020 vom 24.06.2021 - Kenntnis genommen
+- TOP 18.7: Zertifikatsverleihung „Generationengerechtes Wohnen im Quartier“ - zurückgestellt
+- TOP 18.8: Auswirkungen des Unwetters auf Köln, hier: Anfrage der Fraktion Bündnis 90 / Die Grünen, der CDU-Fraktion und der Volt-Fraktion zur Sitzung des Hauptausschusses am 23.8.2021, AN/1561/2021 - Kenntnis genommen
+- TOP 18.9: Realisierungswettbewerb für die beiden neuen Fuß- und Radwegbrücken über den Rhein auf Höhe des Ubierrings und der Bastei - Kenntnis genommen
+- TOP 18.10: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 18.11: Köln bleibt begehrter Bürostandort - Kenntnis genommen
+- TOP 18.12: Wettbewerbsverfahrensergebnis Arbeitstitel: Mehrfachbeauftragung "Fassade Hauptbahnhof Breslauer Platz Köln" Köln-Altstadt/Nord - Kenntnis genommen
+- TOP 18.13: Information zum Städtebauförderprogramm NRW für das Jahr 2022 - Kenntnis genommen
+- TOP 18.14: Betreff: Dringlichkeitsantrag betreffend "Weitere Entwicklung des Otto-Langen-Quartiers"; AN/1441/2021 der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, CDU-Fraktion, Fraktion Die Linke, FDP-Fraktion und Volt-Fraktion - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 19.1: Aktueller Sachstand "Kreuzfeld"
+- TOP 20: Gleichstellungsrelevante Themen
