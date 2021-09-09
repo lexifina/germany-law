@@ -1,0 +1,77 @@
+# Gemeinsame Sondersitzung - Ausschuss für öffentliche Einrichtungen, Stadtökologie, Abfallmanagement und Bevölkerungsschutz, - Ausschuss für Umwelt-, Klima- und Verbraucherschutz, - Bauausschuss, - Bezirksvertretung 7 und - Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-09T15:00:00+02:00
+- Ende: 2021-09-09T17:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/400213, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/400214, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/17
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21689
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21689
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422438.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422438.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422438.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Informationsvorlage der Verwaltung zum Hochwasser Bernd
+- TOP 2: Informationsvorlage der Verwaltung zum Hochwasser Bernd - zur Kenntnis genommen
+- TOP 2: Informationsvorlage der Verwaltung zum Hochwasser Bernd - zur Kenntnis genommen
+- TOP 2: Informationsvorlage der Verwaltung zum Hochwasser Bernd - zur Kenntnis genommen
+- TOP 2: Informationsvorlage der Verwaltung zum Hochwasser Bernd - zur Kenntnis genommen
+- TOP 2: Informationsvorlage der Verwaltung zum Hochwasser Bernd - zur Kenntnis genommen
+- TOP 3: Anfragen
+- TOP 3: Anfragen
+- TOP 3: Anfragen
+- TOP 3: Anfragen
+- TOP 3: Anfragen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zum Thema "Sachstand der Renaturierung von Bachläufen"
+- TOP 3.1: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zum Thema "Sachstand der Renaturierung von Bachläufen" - schriftlich beantwortet
+- TOP 3.2: Hochwasserschutz in Gerresheim und Vennhausen - Anfrage der SPD/Volt-Ratsfraktion -
+- TOP 3.2: Hochwasserschutz in Gerresheim und Vennhausen - Anfrage der SPD/Volt-Ratsfraktion - - schriftlich beantwortet
+- TOP 3.3: Steuerung der Tore am Spaltwerk während der Hochwasserkatastrophe - Anfrage der SPD/Volt-Ratsfraktion -
+- TOP 3.3: Steuerung der Tore am Spaltwerk während der Hochwasserkatastrophe - Anfrage der SPD/Volt-Ratsfraktion - - schriftlich beantwortet
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8: Sirenenwarnsystem im Stadtbezirk 7 - Anfrage der CDU-Fraktion -
+- TOP 3.8: Sirenenwarnsystem im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 3.9: Warnung und Unterstützung bei Extrem-Wetterereignissen (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 3.9: Warnung und Unterstützung bei Extrem-Wetterereignissen (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 3.10: Renaturierung Südliche Düssel und Eselsbach-Hochwasserschutz (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 3.10: Renaturierung Südliche Düssel und Eselsbach-Hochwasserschutz (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 3.11: Hochwasserschutz in Vennhausen & Brückenbauwerke (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 3.11: Hochwasserschutz in Vennhausen & Brückenbauwerke (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 3.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.14: Strukturverbesserungsarbeiten Kanäle und Rückhaltebecken sowie Spaltwerk im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 3.14: Strukturverbesserungsarbeiten Kanäle und Rückhaltebecken sowie Spaltwerk im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 3.15: Durchlässe im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 3.15: Durchlässe im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 3.16: Strukturverbesserungsarbeiten Kanäle und Durchlässe Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 3.16: Strukturverbesserungsarbeiten Kanäle und Durchlässe Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 3.17: Steuerung Spaltwerk Höherhof (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+- TOP 3.17: Steuerung Spaltwerk Höherhof (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 4: Antrag der Ratsfraktion DIE LINKE: Förderung von Zisternen zur Regenwasserspeicherung von öffentlichen Gebäuden und Privateigentümern
+- TOP 4: Antrag der Ratsfraktion DIE LINKE: Förderung von Zisternen zur Regenwasserspeicherung von öffentlichen Gebäuden und Privateigentümern - mehrheitlich abgelehnt
+- TOP 5: weitere Rückfragen
+- TOP 5: weitere Rückfragen - beantwortet
+- TOP 5: weitere Rückfragen - beantwortet
+- TOP 5: weitere Rückfragen - beantwortet
+- TOP 5: weitere Rückfragen - beantwortet
+- TOP 5: weitere Rückfragen - beantwortet
