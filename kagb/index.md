@@ -45,6 +45,7 @@
 - [§ 26 Allgemeine Verhaltensregeln; Verordnungsermächtigung](0026.md)
 - [§ 27 Interessenkonflikte; Verordnungsermächtigung](0027.md)
 - [§ 28 Allgemeine Organisationspflichten; Verordnungsermächtigung](0028.md)
+- [§ 28a Zusätzliche Organisationsanforderungen bei der Verwaltung von Entwicklungsförderungsfonds](0028a.md)
 - [§ 29 Risikomanagement; Verordnungsermächtigung](0029.md)
 - [§ 30 Liquiditätsmanagement; Verordnungsermächtigung](0030.md)
 - [§ 31 Primebroker](0031.md)
@@ -59,7 +60,7 @@
 #### Unterabschnitt 3 Weitere Maßnahmen der Aufsichtsbehörde
 
 - [§ 39 Erlöschen und Aufhebung der Erlaubnis](0039.md)
-- [§ 40 Abberufung von Geschäftsleitern; Tätigkeitsverbot](0040.md)
+- [§ 40 Maßnahmen gegen Geschäftsleiter und Aufsichtsorganmitglieder](0040.md)
 - [§ 41 Maßnahmen bei unzureichenden Eigenmitteln](0041.md)
 - [§ 42 Maßnahmen bei Gefahr](0042.md)
 - [§ 43 Insolvenzantrag, Unterrichtung der Gläubiger im Insolvenzverfahren](0043.md)
@@ -228,6 +229,7 @@
 - [§ 157 Firma](0157.md)
 - [§ 158 Jahresbericht](0158.md)
 - [§ 159 Abschlussprüfung](0159.md)
+- [§ 159a Feststellung des Jahresabschlusses](0159a.md)
 - [§ 160 Offenlegung und Vorlage von Berichten](0160.md)
 - [§ 161 Auflösung und Liquidation](0161.md)
 
@@ -366,7 +368,17 @@
 - [§ 259 Beschlüsse der Anleger](0259.md)
 - [§ 260 Veräußerung und Belastung von Vermögensgegenständen](0260.md)
 
+#### Unterabschnitt 6 Infrastruktur-Sondervermögen
+
+- [§ 260a Infrastruktur-Sondervermögen](0260a.md)
+- [§ 260b Zulässige Vermögensgegenstände, Anlagegrenzen](0260b.md)
+- [§ 260c Rücknahme von Anteilen](0260c.md)
+- [§ 260d Angaben im Verkaufsprospekt und den Anlagebedingungen](0260d.md)
+
 ### Abschnitt 4 Geschlossene inländische Publikums-AIF
+
+
+#### Unterabschnitt 1 Allgemeine Vorschriften
 
 - [§ 261 Zulässige Vermögensgegenstände, Anlagegrenzen](0261.md)
 - [§ 262 Risikomischung](0262.md)
@@ -381,6 +393,17 @@
 - [§ 271 Bewertung, Bewertungsverfahren, Bewerter](0271.md)
 - [§ 272 Häufigkeit der Bewertung und Berechnung; Offenlegung](0272.md)
 
+#### Unterabschnitt 2 Geschlossene Master-Feeder-Strukturen
+
+- [§ 272a Genehmigung des geschlossenen Feederfonds; besondere Anforderungen an Kapitalverwaltungsgesellschaften](0272a.md)
+- [§ 272b Verkaufsprospekt, Anlagebedingungen, Jahresbericht](0272b.md)
+- [§ 272c Anlagegrenzen, Anlagebeschränkungen](0272c.md)
+- [§ 272d Vereinbarungen bei geschlossenen Master-Feeder-Strukturen](0272d.md)
+- [§ 272e Pflichten der Kapitalverwaltungsgesellschaft und der Verwahrstelle](0272e.md)
+- [§ 272f Mitteilungspflichten der Bundesanstalt](0272f.md)
+- [§ 272g Abwicklung des geschlossenen Masterfonds](0272g.md)
+- [§ 272h Änderung des geschlossenen Masterfonds](0272h.md)
+
 ## Kapitel 3 Inländische Spezial-AIF
 
 
@@ -391,6 +414,7 @@
 - [§ 275 Belastung](0275.md)
 - [§ 276 Leerverkäufe](0276.md)
 - [§ 277 Übertragung von Anteilen oder Aktien](0277.md)
+- [§ 277a Master-Feeder-Strukturen](0277a.md)
 
 ### Abschnitt 2 Vorschriften für offene inländische Spezial-AIF
 
@@ -399,7 +423,7 @@
 
 - [§ 278 Bewertung, Bewertungsverfahren und Bewerter](0278.md)
 - [§ 279 Häufigkeit der Bewertung, Offenlegung](0279.md)
-- [§ 280 Master-Feeder-Strukturen](0280.md)
+- [§ 280 (weggefallen)](0280.md)
 - [§ 281 Verschmelzung](0281.md)
 
 #### Unterabschnitt 2 Besondere Vorschriften für allgemeine offene inländische Spezial-AIF
@@ -431,6 +455,12 @@
 - [§ 291 Besondere Vorschriften hinsichtlich des Jahresabschlusses und des Lageberichts](0291.md)
 - [§ 292 Zerschlagen von Unternehmen](0292.md)
 
+### Abschnitt 4 Besondere Vorschriften für Entwicklungsförderungsfonds
+
+- [§ 292a Entwicklungsförderungsfonds](0292a.md)
+- [§ 292b Liquiditäts- und Absicherungsanlagen](0292b.md)
+- [§ 292c Außerordentliche Kündigung](0292c.md)
+
 ## Kapitel 4 Vorschriften für den Vertrieb und den Erwerb von Investmentvermögen
 
 
@@ -442,6 +472,8 @@
 - [§ 293 Allgemeine Vorschriften](0293.md)
 - [§ 294 Auf den Vertrieb und den Erwerb von OGAW anwendbare Vorschriften](0294.md)
 - [§ 295 Auf den Vertrieb und den Erwerb von AIF anwendbare Vorschriften](0295.md)
+- [§ 295a Widerruf des grenzüberschreitenden Vertriebs im Inland](0295a.md)
+- [§ 295b Informationspflichten nach Widerruf des grenzüberschreitenden Vertriebs im Inland](0295b.md)
 - [§ 296 Vereinbarungen mit Drittstaaten zur OGAW-Konformität](0296.md)
 
 #### Unterabschnitt 2 Vorschriften für den Vertrieb und den Erwerb von AIF in Bezug auf Privatanleger und für den Vertrieb und den Erwerb von OGAW
@@ -456,9 +488,11 @@
 - [§ 304 Kostenvorausbelastung](0304.md)
 - [§ 305 Widerrufsrecht](0305.md)
 - [§ 306 Prospekthaftung und Haftung für die wesentlichen Anlegerinformationen](0306.md)
+- [§ 306a Einrichtung beim Vertrieb an Privatanleger](0306a.md)
 
 #### Unterabschnitt 3 Vorschriften für den Vertrieb und den Erwerb von AIF in Bezug auf semiprofessionelle und professionelle Anleger
 
+- [§ 306b Pre-Marketing durch eine AIF-Verwaltungsgesellschaft](0306b.md)
 - [§ 307 Informationspflichten gegenüber semiprofessionellen und professionellen Anlegern und Haftung](0307.md)
 - [§ 308 Sonstige Informationspflichten](0308.md)
 
@@ -469,12 +503,13 @@
 
 - [§ 309 Pflichten beim Vertrieb von EU-OGAW im Inland](0309.md)
 - [§ 310 Anzeige zum Vertrieb von EU-OGAW im Inland](0310.md)
-- [§ 311 Untersagung und Einstellung des Vertriebs von EU-OGAW](0311.md)
+- [§ 311 Untersagung des Vertriebs von EU-OGAW](0311.md)
 
 #### Unterabschnitt 2 Anzeigeverfahren für den Vertrieb von inländischen OGAW in anderen Mitgliedstaaten der Europäischen Union oder in Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 - [§ 312 Anzeigepflicht; Verordnungsermächtigung](0312.md)
 - [§ 313 Veröffentlichungspflichten](0313.md)
+- [§ 313a Widerruf des Vertriebs von OGAW in anderen Staaten des Abkommens über den Europäischen Wirtschaftsraum](0313a.md)
 
 ### Abschnitt 3 Anzeige, Einstellung und Untersagung des Vertriebs von AIF
 
@@ -506,6 +541,7 @@
 #### Unterabschnitt 3 Anzeigeverfahren für den Vertrieb von AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union und in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 - [§ 331 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von EU-AIF oder inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum; Verordnungsermächtigung](0331.md)
+- [§ 331a Widerruf des Vertriebs von EU-AIF oder inländischen AIF in anderen Staaten des Abkommens über den Europäischen Wirtschaftsraum](0331a.md)
 - [§ 332 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von ausländischen AIF oder von inländischen Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0332.md)
 - [§ 333 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von EU-AIF oder von inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0333.md)
 - [§ 334 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von ausländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0334.md)
@@ -579,3 +615,4 @@
 - [§ 359 Übergangsvorschrift zu § 26 Absatz 7 Satz 3, § 82 Absatz 6 Satz 2 und § 85 Absatz 5 Satz 4](0359.md)
 - [§ 360 Übergangsvorschrift zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen](0360.md)
 - [§ 361 Übergangsvorschriften zu § 5 Absatz 2 Satz 2 und 3](0361.md)
+- [§ 362 Übergangsvorschrift zum Fondsstandortgesetz](0362.md)

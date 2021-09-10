@@ -1,5 +1,4 @@
-# Verordnung über die einmalige Unfallentschädigung gemäß § 63 des
-Soldatenversorgungsgesetzes
+# Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes
 
 - [§ 1 Flugdienst](0001.md)
 - [§ 2 Fliegendes Personal](0002.md)
