@@ -1,8 +1,8 @@
-# Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur Förderung von Freiwilligendiensten im Freistaat Sachsen Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zu
+# Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur Förderung des Gesellschaftlichen Zusammenhalts Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhal
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-02-26 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19019.1
+- Datum: 2021-09-10 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19310.1
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,772 +25,896 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-26.02.2021
+10.09.2021
 bis
-30.06.2023
+31.12.2022
 
-Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur Förderung von Freiwilligendiensten im Freistaat Sachsen
+Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur
 
-Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur Förderung von Freiwilligendiensten im Freistaat Sachsen  vom 10. Februar 2021 (SächsABl. S. 157), die durch die Richtlinie vom 26. Juli 2023 (SächsABl. S. 1135) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  4. Dezember 2025 (SächsABl. SDr. S. S 272)
+Förderung des Gesellschaftlichen Zusammenhalts
+
+
+Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur
+
+Förderung des Gesellschaftlichen Zusammenhalts vom 26. August 2021 (SächsABl. S. 1142), die zuletzt durch die Richtlinie vom 26. Juli 2023 (SächsABl. S. 1136) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  4. Dezember 2025 (SächsABl. SDr. S. S 272)
+
+Teil 1
+Allgemeine Regelungen
 
 I.
-Allgemeine Regelungen
+Zuwendungszweck, Rechtsgrundlage
 
 1.
 
-Der Freistaat Sachsen gewährt nach Maßgabe dieser Richtlinie und nach den haushaltsrechtlichen Bestimmungen, insbesondere der §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, und der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 22. Dezember 2020 (SächsABl. 2021 S. 20) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in den jeweils geltenden Fassungen, Zuwendungen für Freiwilligendienste. Die Förderung erfolgt unter Beachtung des Jugendfreiwilligendienstegesetzes vom 16. Mai 2008 (BGBl. I S. 842), das zuletzt durch Artikel 47 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2652) geändert worden ist, in der jeweils geltenden Fassung, sowie der Verwaltungsvorschrift des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz zur Durchführung von Freiwilligendiensten im Freistaat Sachsen vom 31. März 2014 (SächsABl. S. 618), zuletzt enthalten in der Verwaltungsvorschrift vom 26. November 2019 (SächsABl. SDr. S. S 404).
+Der Freistaat Sachsen gewährt Zuwendungen zur Förderung des gesellschaftlichen Zusammenhalts.
 
 2.
 
-Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+Die Förderung erfolgt nach Maßgabe dieser Richtlinie und der allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere der §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, sowie der dazu erlassenen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in den jeweils geltenden Fassungen.
 
 3.
 
-Gefördert werden:
+Ein Anspruch des Antragstellers auf Gewährung der Zuwendungen besteht nicht. Die Bewilligungsstelle entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+
+4.
+
+Soweit es sich um Maßnahmen handelt, die Unternehmen oder Wirtschaftszweige im Sinne der Artikel 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union begünstigen, erfolgt die Zuwendung nach Maßgabe und unter Einhaltung der Voraussetzungen folgender Verordnungen und deren Nachfolgeregelungen in den jeweils geltenden Fassungen:
 
 
 a)
 
-Freiwilliges Soziales Jahr (FSJ),
+Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1) oder
 
 
 b)
 
-Freiwilliges Ökologisches Jahr (FÖJ),
-
-
-c)
-
-Freiwilligendienst aller Generationen (FdaG) Sachsen,
-
-
-d)
-
-Fachstelle Freiwilligendienste in Sachsen (Fachstelle),
-
-
-e)
-
-Einzelprojekte,
-
-
-f)
-
-Sachsen-Sommer.
-
-
-Für Projekte des FÖJ sind zusätzlich Förderungen aus Bundesmitteln nach den Richtlinien zur Förderung der Jugendfreiwilligendienste nach dem Jugendfreiwilligendienstegesetz sowie des Internationalen Jugendfreiwilligendienstes nach der Richtlinie des Bundesministeriums für Familie, Senioren, Frauen und Jugend vom 20. Dezember 2010 (GMBl 2010, S. 1778 ff) durch den Bund (Förderrichtlinien Jugendfreiwilligendienste – RL-JFD) vom 11. April 2012 (GMBl 2012, S. 174) zu beantragen.
-
-4.
-
-Bewilligungsbehörde ist der Kommunale Sozialverband Sachsen (KSV). Die Formulare zur Antragstellung, zur Statistik sowie zum Verwendungsnachweis werden im Internet bereitgestellt. Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen anzufordern.
-
-5.
-
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendungen sowie den Nachweis der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
-
-6.
-
-Abweichend von Nummer 1.4 Satz 2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung und Nummer 1.3 Satz 2 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK) ist der Vorhabenbeginn bei Maßnahmen zur Projektförderung nach dieser Richtlinie ab Antragstellung (Datum Posteingang bei der Bewilligungsbehörde) generell zugelassen.
-
-7.
-
-Zuwendungen sollen nur bewilligt werden, wenn die Zuwendung im Einzelfall mehr als 2 500 Euro, bei kommunalen Körperschaften mehr als 10 000 Euro beträgt.
-
-8.
-
-Besonderheiten für die einzelnen Förderbereiche sind in Ziffer II geregelt.
+Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichen Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8).
 
 
 II.
-Besondere Regelungen
+Zuwendungsvoraussetzungen, Verfahren
 
 1.
 
-FSJ
+Bewilligungsstelle ist die Sächsische Aufbaubank – Förderbank – (SAB). Die Zuwendung und die Auszahlung sind bei der Bewilligungsstelle auf den von dieser zur Verfügung gestellten Formularen zu beantragen. Entsprechendes gilt für den Nachweis der ordnungsgemäßen Verwendung der Zuwendung.
+
+2.
+
+Auf die Verarbeitung personenbezogener Daten gemäß § 4 des Gesetzes über Fördermitteldatenbanken im Freistaat Sachsen vom 10. Juni 1999 (SächsGVBl. S. 273), das zuletzt durch Artikel 19 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, wird verwiesen.
+
+3.
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten die Verwaltungsvorschriften zur Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichendes festgelegt ist. 
+
+4.
+
+Zuwendungen bis zu einer Höhe von 10 000 Euro können abweichend von Nummer 1.4 der allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P) in zwei Raten ausgezahlt werden. In diesen Fällen werden die Termine für die Auszahlung im Zuwendungsbescheid festgelegt.
+
+5.
+
+Nach dieser Richtlinie können nur Maßnahmen gefördert werden, für die keine Förderung nach anderen Programmen im Freistaat Sachsen beantragt werden kann.
+
+6.
+
+Besonderheiten für die einzelnen Förderbereiche sind in Teil 2 geregelt.
 
 
-1.1
+Teil 2
+Besondere Regelungen
 
-Zuwendungszweck
+A.
+Bürgerschaftliches Engagement
+
+I.
+Ehrenamtsförderprogramm „Wir für Sachsen“
+
+1.
+
+Zuwendungszweck 
 
 
-Zuwendungszweck ist die Förderung des bürgerschaftlichen Engagements junger Menschen, die Unterstützung ihrer beruflichen Orientierung sowie die Bereitschaft zu sozialem Handeln und der Verantwortungsübernahme für das Gemeinwesen.
+Ziel der Förderung ist die Anerkennung, Stärkung und Weiterentwicklung des Ehrenamts.
 
-1.2
+2.
 
 Gegenstand der Förderung
 
 
-Gefördert werden die pädagogische Begleitung der Freiwilligen sowie die Organisation und Durchführung eines FSJ-Projekts.
+a)
 
-1.3
+Gefördert wird das ehrenamtliche Engagement insbesondere in den Bereichen Soziales, Umwelt, Musik, Kultur und Sport von Personen, die sich in einem Projekt ehrenamtlich (unentgeltlich) engagieren. 
+
+
+b)
+
+Gefördert werden Maßnahmen des Programmträgers zur Umsetzung des Programms.
+
+3.
 
 Zuwendungsempfänger
 
 
-Zuwendungsempfänger sind die nach Ziffer I Nummer 3 der Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen für Sachsen zugelassenen Träger des FSJ.
+Zuwendungsempfänger ist der Programmträger. Programmträger ist die Bürgerstiftung Dresden. Der Programmträger leitet die Zuwendung nach Ziffer I Nummer 2 Buchstabe a an die Projektträger weiter. Diese Zuwendung wird in privatrechtlicher Form nach Nummer 12.5 und 12.6 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung und unter Berücksichtigung der Bestimmungen in Nummer 6 an die Projektträger ausgereicht.
 
-1.4
+4.
 
-Zuwendungsvoraussetzungen
-
-
-Zuwendungsvoraussetzungen sind:
+Art und Umfang, Höhe der Zuwendungen
 
 
 a)
 
-die Einhaltung der Bestimmungen des Jugendfreiwilligendienstegesetzes in der jeweils geltenden Fassung und
-
-
-b)
-
-die Einhaltung der einschlägigen Standards der Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen.
-
-1.5
-
-Art, Umfang und Höhe der Zuwendung
-
-
-a)
-
-Die Zuwendung wird als Festbetragsfinanzierung im Rahmen einer Projektförderung als nicht rückzahlbarer Zuschuss gewährt. Der Bewilligungszeitraum beginnt im September und endet im August des Folgejahres. In Ausnahmefällen kann ein abweichender Bewilligungszeitraum sowie eine Förderung bis zu 24 Monaten zugelassen werden.
-
-
-b)
-
-Bei einem FSJ in Sachsen beträgt die Förderung bis zu 200 Euro pro geleistetem Teilnehmermonat.
-
-
-c)
-
-Bei einem FSJ im Ausland kann die Förderung bis zu 250 Euro pro geleistetem Teilnehmermonat betragen.
-
-
-d)
-
-Bei einem FSJ für junge Menschen mit besonderem Bildungs- oder Betreuungsbedarf beträgt die Förderung bis zu 400 Euro pro geleistetem Teilnehmermonat.
-
-
-e)
-
-In die Kalkulation des Festbetrages sind folgende zuwendungsfähige Ausgaben eingeflossen:
+Die Zuwendung wird im Rahmen einer Projektförderung als Zuschuss für Maßnahmen nach Nummer 2
 
 
 aa)
 
-Ausgaben für Taschengeld, Pauschalen für Unterkunft und Verpflegung, Versicherungsbeiträge sowie Arbeitskleidung der Freiwilligen,
+Buchstabe a als Festbetragsfinanzierung und 
 
 
 bb)
 
-Personalausgaben für die pädagogischen Fachkräfte des FSJ-Trägers,
+Buchstabe b als Anteilfinanzierung gewährt.
+
+
+b)
+
+Zuwendungsfähig sind die Ausgaben des Programmträgers für die Umsetzung des Programms, insbesondere für die Prüfung der Anträge, die Ausreichung der Zuwendungen an die Letztempfänger sowie die Prüfung der Verwendungsnachweise notwendigen Personal- und Sachausgaben.
+
+
+c)
+
+Die Zuwendung 
+
+
+aa)
+
+für Maßnahmen nach Nummer 2 Buchstabe a wird für jedes Haushaltsjahr durch das Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt als Festbetrag im Rahmen der verfügbaren Haushaltsmittel festgesetzt, 
+
+
+bb)
+
+beträgt für Maßnahmen nach Nummer 2 Buchstabe b bis zu 100 Prozent der zuwendungsfähigen Ausgaben.
+
+5.
+
+Verfahren
+
+
+a)
+
+Der Programmträger reicht den Förderantrag unter Verwendung des entsprechenden Antragsformulars bis zum 1. Dezember des Vorjahres bei der Bewilligungsstelle ein.
+
+
+b)
+
+Bewilligungszeitraum ist das Haushaltsjahr. 
+
+
+c)
+
+Die Zuwendung wird auf Anforderung des Programmträgers abweichend von Nummer 1.4 der ANBest-P in zwei Raten ausgezahlt. Die Auszahlung der ersten Rate erfolgt in der Regel bis zum 30. April des Jahres, die zweite Rate wird bis zum 30. September des Jahres ausgezahlt. Vor der Anforderung der zweiten Rate stellt der Programmträger sicher, dass die Mittel der ersten Rate an die Projektträger weitergeleitet wurden.
+
+
+d)
+
+Für den Nachweis der Verwendung gilt Nummer 6 ANBest-P. Der Verwendungsnachweis des Programmträgers besteht 
+
+
+aa)
+
+für Maßnahmen nach Nummer 2 Buchstabe a aus einem Sachbericht und einem zahlenmäßigen Nachweis der Einnahmen und Ausgaben entsprechend der Gliederung des Finanzierungsplans summarisch zusammenfasst.
+
+
+bb)
+
+für Maßnahmen nach Nummer 2 Buchstabe b aus einem Sachbericht und einem zahlenmäßigen Nachweis sowie einer Belegliste gemäß Nummer 6.4 ANBest-P.
+
+
+e)
+
+Die Bewilligungsstelle prüft zusätzlich zum Verwendungsnachweis nach Buchstabe d stichprobenartig die Verwendungsnachweise der Letztempfänger.
+
+6.
+
+Zuwendungsbestimmungen für die Weitergabe
+
+
+Bei der Weitergabe der Zuwendung an die Projektträger sind folgende Regelungen umzusetzen:
+
+
+a)
+
+Zuwendungsempfänger
+
+
+Letztempfänger der Zuwendung nach Ziffer I Nummer 2 Buchstabe a sind:
+
+
+aa)
+
+die Spitzenverbände der Freien Wohlfahrtspflege, die örtlichen Träger der Freien Wohlfahrtspflege sowie Kirchgemeinden,
+
+
+bb)
+
+eingetragene Vereine, Verbände sowie Stiftungen und andere juristische Personen, soweit sie als gemeinnützig anerkannt sind,
 
 
 cc)
 
-Sachausgaben für die Durchführung der Seminare und
+Gemeinden und Gemeindeverbände
+
+
+als Projektträger. 
+
+
+b)
+
+Zuwendungsvoraussetzungen
+
+
+Eine Zuwendung wird nur gewährt, wenn
+
+
+aa)
+
+das bürgerschaftliche Engagement des einzelnen Ehrenamtlichen durchschnittlich mindestens 20 Stunden monatlich beträgt,
+
+
+bb)
+
+die betreffenden Ehrenamtlichen ihren Wohnsitz oder gewöhnlichen Aufenthalt im Freistaat Sachsen haben und
+
+
+cc)
+
+diese Ehrenamtlichen nicht für denselben Zweck oder für dieselbe ehrenamtliche Tätigkeit und denselben Zeitraum bereits aus einem anderen Förderprogramm des Freistaates Sachsen oder von Dritten bezuschusst werden oder dafür einen Anspruch auf Erstattungen haben. Zulässig ist eine Erhöhung der Pauschale nach Nummer 6 Buchstabe d Doppelbuchstabe bb aus Eigen- oder Drittmitteln bis zur Höhe von insgesamt 70 Euro. 
+
+
+c)
+
+Art und Umfang, Höhe der Zuwendungen
+
+
+aa)
+
+Die Zuwendung wird als Zuschuss im Rahmen einer Projektförderung als Festbetragsfinanzierung gewährt.
+
+
+bb)
+
+Den Trägern der Ehrenamtsprojekte wird pro ehrenamtlich tätiger Person nach Buchstabe c eine pauschale monatliche Aufwandsentschädigung von 35 bis 45 Euro gewährt. Über die konkrete Höhe der Pauschale für das jeweilige Förderjahr befindet das Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt unter Berücksichtigung der zur Verfügung stehenden Mittel sowie des Antragsvolumens. Die Träger der Ehrenamtsprojekte verwenden die Zuwendung zur Erstattung von Aufwendungen der in ihren Projekten ehrenamtlich tätigen Personen. Mit der Zuwendung sind die Sachausgaben der ehrenamtlich tätigen Personen, die für das jeweilige Ehrenamt notwendig sind (wie zum Beispiel Fahrtkosten, Ausgaben für Büromaterial) pauschal abgedeckt. 
+
+
+cc)
+
+Die Aufwandsentschädigung stellt ein nicht zu berücksichtigendes Einkommen im Sinne der §§ 11 ff. des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende – in der Fassung der Bekanntmachung vom 13. Mai 2011 (BGBl. I S. 850, 2094), das zuletzt durch Artikel 3 des Gesetzes vom 10. August 2021 (BGBl. I S. 3515) geändert worden ist, in der jeweils geltenden Fassung, und der §§ 82 ff. des Zwölften Buches Sozialgesetzbuch – Sozialhilfe – (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022, 3023), das zuletzt durch Artikel 4 des Gesetzes vom 10. August 2021 (BGBl. I S. 3515) geändert worden ist, in der jeweils geltenden Fassung, dar.
+
+
+d)
+
+Verfahren
+
+
+aa)
+
+Anträge auf Gewährung einer Zuwendung sind von den Projektträgern bis zum 31. Oktober des Vorjahres beim Programmträger einzureichen. 
+
+
+bb)
+
+Der Programmträger leitet den Projektträgern Zuwendungen für Maßnahmen innerhalb des Haushaltsjahres weiter. Er entscheidet über die bei ihm eingegangenen Anträge im Rahmen der ihm zur Verfügung stehenden Zuwendung. Auf eine vergleichbare Förderung vergleichbarer Projektträger ist zu achten. Die Letztempfänger teilen die erhaltene Zuwendung im Rahmen von Buchstabe d in eigener Verantwortung auf die Ehrenamtlichen auf.
+
+
+cc)
+
+Für die Auszahlung der Zuwendung vom Programmträger an die Projektträger ist Nummer 7.1 der der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung zu beachten. 
 
 
 dd)
 
-sonstige Sachausgaben, wie Fahrtkosten und Öffentlichkeitsarbeit.
+Die Staatsministerin für Soziales und Gesellschaftlichen Zusammenhalt kann einen Landesbeirat zum Förderprogramm einrichten. Der Landesbeirat gibt sich eine Geschäftsordnung. Der Landesbeirat hat ausschließlich beratende Funktion. Der Programmträger kann temporäre Regionalbeiräte einrichten. Diese sollen ihm die Einordnung der vorliegenden Anträge in die regionale Trägerlandschaft ermöglichen. Die Mitglieder der Beiräte üben ihre Tätigkeit ehrenamtlich aus. 
+
+
+ee)
+
+Dem Programmträger ist innerhalb von zwei Monaten nach Ablauf des Bewilligungszeitraumes von den Projektträgern ein einfacher Verwendungsnachweis nach Nummer 6.7 ANBest-P vorzulegen. Dieser besteht aus einem Sachbericht und dem zahlenmäßigen Nachweis. Der zahlenmäßige Nachweis enthält unterzeichnete Empfangsbestätigungen der Ehrenamtlichen, an die eine Pauschale ausgezahlt wurde. 
+
+
+ff)
+
+Die Projektträger müssen die die Auszahlung an die Ehrenamtlichen begründenden Unterlagen und einen Zahlungsnachweis für den Nachweis der zweckentsprechenden Verwendung aufbewahren.
+
+
+gg)
+
+Abweichend von Nummer 11.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung prüft der Programmträger alle Verwendungsnachweise der Letztempfänger.
+
+
+II.
+Fortbildungs-Förderprogramm
+
+1.
+
+Zuwendungszweck
+
+
+Ziel der Förderung ist die Unterstützung von Projektträgern bei der Qualifizierung ehrenamtlich tätiger Personen. Diese sollen bei der Wahrnehmung ihrer Aufgaben sowie der ordnungsgemäßen Führung von Vereinen gestärkt werden.
+
+2.
+
+Gegenstand der Förderung
+
+
+Gefördert werden vier Gesamtprojekte aus Maßnahmen zur regionalen Bedarfsermittlung, Organisation und Durchführung von fach- und sachbezogener Fortbildung für ehrenamtlich tätige Personen sowie Beratungsangeboten für Vereine und Initiativen. Die Gesamtprojekte beziehen sich auf je eine der folgenden vier Regionen des Freistaats Sachsen: Südwestsachsen, Nordsachsen, Mittelsachsen, Ostsachsen.
+
+3.
+
+Zuwendungsempfänger
+
+
+Zuwendungsempfänger sind juristische Personen, wie gemeinnützige Vereine, Verbände, Stiftungen oder gemeinnützige Gesellschaften mit beschränkter Haftung als Projektträger.
+
+4.
+
+Zuwendungsvoraussetzungen
+
+
+Eine Zuwendung wird gewährt, wenn 
+
+
+a)
+
+der Zuwendungsempfänger Erfahrungen in der Arbeit mit ehrenamtlich tätigen Personen und in der Durchführung von Fortbildungsveranstaltungen hat,
+
+
+b)
+
+die Fortbildungsangebote sowohl dem Inhalt als auch der Zeit nach an den konkreten Bedarfen ausgerichtet sind und sich pro Veranstaltung mindestens fünf Personen angemeldet haben,
+
+
+c)
+
+die Fortbildungsangebote insgesamt allen ehrenamtlich tätigen Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Freistaat Sachsen haben, zugänglich sind, 
+
+
+d)
+
+die thematische und methodische Ausrichtung sowie der zeitliche Rahmen zielgruppengerecht gestaltet ist,
+
+
+e)
+
+die Angebote regional verteilt unterbreitet werden, um eine entsprechende Wohnortnähe der Fortbildungsangebote zu gewährleisten,
 
 
 f)
 
-Ausgaben für die pädagogische Begleitung nach Buchstabe e Doppelbuchstabe bb und cc werden nur gefördert, soweit sie nicht aus Mitteln des Bundes gefördert werden.
+die Fortbildungsangebote für Ehrenamtliche in der Regel kostenlos sind beziehungsweise eine Teilnahmegebühr von zehn Euro pro Person und Tag nicht überschreiten,
 
 
 g)
 
-Sofern Auszahlungen im Rahmen des Projekts durch Einsatzstellen vorgenommen werden, kann die Zuwendung vom Zuwendungsempfänger an diese Einsatzstellen als Letztempfänger weitergeleitet werden.
+Informationen zu den Fortbildungsangeboten zentral und immer aktualisiert öffentlich einsehbar sind (zum Beispiel auf der Homepage des Zuwendungsempfängers),
 
-1.6
 
-Verfahren
+h)
 
-
-a)
-
-Der Antrag auf Gewährung einer Zuwendung ist bis zum 31. März für den folgenden Bewilligungszeitraum einzureichen. Er enthält operationalisierte Ziele mit messbaren Indikatoren für den beantragten Jahrgang, Aussagen zu Inhalt und Durchführung der Seminare sowie einen Finanzierungsplan.
-
-
-b)
-
-Der Bewilligungsbehörde und der Fachstelle sind entsprechend der bereitgestellten Formulare folgende statistische, nicht-personenbezogene Angaben zur Umsetzung des FSJ-Projekts zu übermitteln:
-
-
-aa)
-
-bis zum 20. Oktober Angaben zum Stichtag 30. September,
-
-
-bb)
-
-bis zum 20. Januar Angaben zum Stichtag 31. Dezember
-
-
-sowie im Rahmen des Verwendungsnachweises die Angabe der geleisteten Teilnehmermonate insgesamt.
-
-
-c)
-
-Abweichend von Nummer 6.1 der ANBest-P und ANBest-K ist der Verwendungsnachweis spätestens drei Monate nach Abschluss des Projekts vorzulegen.
-
-
-2.
-
-FÖJ
-
-
-2.1
-
-Zuwendungszweck
-
-
-Zuwendungszweck ist die Förderung des bürgerschaftlichen Engagements junger Menschen, die Unterstützung ihrer beruflichen Orientierung sowie die Stärkung ökologischen Bewusstseins und der Verantwortungsübernahme für das Gemeinwesen.
-
-2.2
-
-Gegenstand der Förderung
-
-
-Gefördert werden die pädagogische Begleitung der Freiwilligen sowie die Organisation und Durchführung eines FÖJ-Projekts.
-
-2.3
-
-Zuwendungsempfänger
-
-
-Zuwendungsempfänger sind die nach Ziffer I Nummer 3 der Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen für Sachsen zugelassenen Träger des FÖJ.
-
-2.4
-
-Zuwendungsvoraussetzungen
-
-
-Zuwendungsvoraussetzungen sind:
-
-
-a)
-
-die Einhaltung der Bestimmungen des Jugendfreiwilligendienstegesetzes und
-
-
-b)
-
-die Einhaltung der einschlägigen Standards der Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen.
-
-2.5
-
-Art, Umfang und Höhe der Zuwendung
-
-
-a)
-
-Die Zuwendung wird als Festbetragsfinanzierung im Rahmen einer Projektförderung als nicht rückzahlbarer Zuschuss gewährt. Der Bewilligungszeitraum beginnt im September und endet im August des Folgejahres. In Ausnahmefällen kann ein abweichender Bewilligungszeitraum sowie eine Förderung bis zu 24 Monaten zugelassen werden. Gefördert werden die zuwendungsfähigen Ausgaben mit folgenden Festbeträgen pro geleistetem Teilnehmermonat und Kostenposition:
-
-
-aa)
-
-425 Euro für teilnehmerbezogene Ausgaben,
-
-
-bb)
-
-240 Euro für die pädagogische Begleitung (inklusive der Seminare) und
-
-
-cc)
-
-50 Euro für sonstige Sachausgaben des Trägers.
-
-
-Die nach den Förderrichtlinien Jugendfreiwilligendienste des Bundes in der jeweils geltenden Fassung zuwendungsfähigen Ausgaben sind innerhalb des Finanzierungsplanes gesondert darzustellen. Die Bundesförderung reduziert die Landesförderung entsprechend.
-
-
-b)
-
-Sofern Auszahlungen im Rahmen des Projekts durch Einsatzstellen vorgenommen werden, kann die Zuwendung vom Zuwendungsempfänger an diese Einsatzstellen als Letztempfänger weitergeleitet werden.
-
-
-c)
-
-Bei einem FÖJ-Projekt für junge Menschen mit besonderem Bildungs- oder Betreuungsbedarf kann die Förderung der pädagogischen Begleitung (inklusive der Seminare) maximal 300 Euro pro geleistetem Teilnehmermonat betragen.
-
-2.6
-
-Verfahren
-
-
-a)
-
-Der Antrag auf Gewährung einer Zuwendung ist bis zum 15. Februar für den folgenden Bewilligungszeitraum einzureichen. Er enthält operationalisierte Ziele mit messbaren Indikatoren für den beantragten Jahrgang, Aussagen zu Inhalt und Durchführung der Seminare, einen Finanzierungsplan sowie eine Berechnung der Personalausgaben.
-
-
-b)
-
-Anträge auf Bundesförderung sind gemeinsam und abgestimmt mit Anträgen auf Landesförderung bei der Bewilligungsbehörde einzureichen. Die Bewilligungsbehörde koordiniert das Zusammenwirken von Bundes- und Landesförderung. Sie leitet die Anträge auf Bundesförderung über das Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt an die zuständige Bundesbehörde weiter.
-
-
-c)
-
-Der Bewilligungsbehörde und der Fachstelle sind entsprechend der bereitgestellten Formulare folgende statistische, nicht-personenbezogene Angaben zur Umsetzung des FÖJ-Projekts zu übermitteln:
-
-
-aa)
-
-bis zum 10. Oktober Angaben zum Stichtag 30. September, einschließlich der Angaben zu Abbrechern des letzten Jahrgangs,
-
-
-bb)
-
-bis zum 20. Dezember Angaben zum Stichtag 1. Dezember
-
-
-sowie im Rahmen des Verwendungsnachweises die Angabe der Teilnehmermonate insgesamt.
-
-
-d)
-
-Abweichend von Nummer 6.1 der ANBest-P ist der Verwendungsnachweis spätestens zwei Monate nach Abschluss des Projekts vorzulegen. Die Bewilligungsbehörde koordiniert die Verwendungsnachweise für die Landes- und die Bundesmittel. Das Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt gewährleistet die Verwendungsnachweisführung gegenüber dem Bund (Sammelverwendungsnachweis).
-
-
-3.
-
-FdaG
-
-
-3.1
-
-Zuwendungszweck
-
-
-Zuwendungszweck ist die Förderung des bürgerschaftlichen Engagements, insbesondere von Menschen in Übergangssituationen, die Unterstützung ihrer beruflichen Orientierung sowie ihre Integration in die Gemeinschaft.
-
-3.2
-
-Gegenstand der Förderung
-
-
-Gefördert werden die pädagogische Begleitung der Freiwilligen sowie die Organisation und Durchführung eines FdaG-Projekts.
-
-3.3
-
-Zuwendungsempfänger
-
-
-Zuwendungsempfänger sind die nach Ziffer I Nummer 3 Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen für Sachsen zugelassenen Träger des FdaG Sachsen.
-
-3.4
-
-Zuwendungsvoraussetzungen
-
-
-Zuwendungsvoraussetzung ist die Einhaltung der einschlägigen Standards der Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen.
-
-3.5
-
-Art, Umfang und Höhe der Zuwendung
-
-
-a)
-
-Die Zuwendung wird als Festbetragsfinanzierung im Rahmen einer Projektförderung als nicht rückzahlbarer Zuschuss gewährt. Bewilligungszeitraum für den FdaG Sachsen ist das Kalenderjahr. Gefördert werden geleistete Teilnehmermonate. Beginn und Ende des jeweiligen Dienstes regeln die Zuwendungsempfänger.
-
-
-b)
-
-Die Zuwendung beträgt bis zu 200 Euro pro geleistetem Teilnehmermonat.
-
-
-c)
-
-In die Kalkulation des Festbetrages sind folgende zuwendungsfähige Ausgaben eingeflossen:
-
-
-aa)
-
-teilnehmerbezogene Ausgaben, erforderliche Versicherungsbeiträge sowie Arbeitskleidung der Freiwilligen,
-
-
-bb)
-
-Personalausgaben für die pädagogischen Fachkräfte des FdaG-Trägers,
-
-
-cc)
-
-Sachausgaben für die Durchführung von Fortbildungen für die Freiwilligen, soweit sie nicht aus anderen Programmen oder aus Mitteln des Bundes gefördert werden, und
-
-
-dd)
-
-sonstige Sachausgaben, wie Fahrtkosten und Öffentlichkeitsarbeit.
-
-3.6
-
-Verfahren
-
-
-a)
-
-Der Antrag auf Gewährung einer Zuwendung ist bis zum 30. September für das folgende Kalenderjahr einzureichen. Er enthält operationalisierte Ziele mit messbaren Indikatoren für den beantragten Jahrgang, eine Darstellung der Maßnahmen zur Fortbildung der Freiwilligen sowie einen Finanzierungsplan.
-
-
-b)
-
-Der Bewilligungsbehörde und der Fachstelle sind entsprechend der bereitgestellten Formulare jeweils zum 20. Juli und zum 20. Januar statistische, nicht-personenbezogene Angaben zur Umsetzung des FdaG-Projekts zu den Stichtagen 30. Juni und 31. Dezember sowie im Rahmen des Verwendungsnachweises die Angabe der Teilnehmermonate insgesamt zu übermitteln.
-
-
-c)
-
-Abweichend von Nummer 6.1 der ANBest-P ist der Verwendungsnachweis spätestens bis zum 31. März des Folgejahres vorzulegen.
-
-
-4.
-
-Fachstelle
-
-
-4.1
-
-Zuwendungszweck
-
-
-Zuwendungszweck ist die Sicherung und Erhöhung der Qualität von Freiwilligendiensten, die Erhöhung der Mitwirkungsmöglichkeiten der Freiwilligen bei der Ausgestaltung der Freiwilligendienste, die Steigerung des Bekanntheitsgrades der Freiwilligendienste innerhalb der Gesellschaft sowie die Darstellung der Bedeutung des Engagements für das Gemeinwesen.
-
-4.2
-
-Gegenstand der Förderung
-
-
-Gefördert werden
-
-
-a)
-
-die Tätigkeit der Fachstelle zur Erfüllung ihrer Aufgaben nach der Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen sowie
-
-
-b)
-
-die Organisation und Finanzierung von Assistenzleistungen für Freiwilligendienstleistende mit Behinderungen.
-
-4.3
-
-Zuwendungsempfänger
-
-
-Zuwendungsempfänger ist der durch das Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt auf der Grundlage der Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen bestimmte Träger der „Fachstelle Freiwilligendienste in Sachsen“.
-
-4.4
-
-Zuwendungsvoraussetzungen
-
-
-Zuwendungsvoraussetzung ist die Einhaltung der einschlägigen Standards der Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen.
-
-4.5
-
-Art, Umfang und Höhe der Zuwendung
-
-
-a)
-
-Die Zuwendung wird als Anteilfinanzierung im Rahmen einer Projektförderung als nicht rückzahlbarer Zuschuss gewährt. Bewilligungszeitraum ist das Kalenderjahr. Eine Förderung ist bis zu 100 Prozent der zuwendungsfähigen Ausgaben möglich.
-
-
-b)
-
-Zuwendungsfähig sind Personal- und Sachausgaben. Als zuwendungsfähige Personalausgaben werden pro Jahr für ganzjährig beim Zuwendungsempfänger angestellte Vollzeitkräfte Pauschalsätze gemäß der Anlage B (Arbeitnehmerbrutto) zum Tarifvertrag für den öffentlichen Dienst der Länder (TV-L) vom 12. Oktober 2006 in der Fassung des Änderungstarifvertrages Nummer 11 vom 2. März 2019, in der jeweils geltenden Fassung, angesetzt; für Projektmitarbeiter, unter Berücksichtigung ihrer Qualifikation und ausgeübten Tätigkeit:
-
-
-–
-
-mit abgeschlossener Berufsausbildung: Entgeltgruppe 5, Stufe 3,
-
-
-–
-
-mit Hochschulstudium (Bachelor- oder vergleichbarem Grad): Entgeltgruppe 9 b, Stufe 3,
-
-
-–
-
-mit Hochschulstudium (Master- oder vergleichbarem Grad): Entgeltgruppe 13, Stufe 3,
-
-
-–
-
-mit Hochschulstudium und Führungsverantwortung: Entgeltgruppe 14, Stufe 3.
-
-
-Bei einer Teilzeitkraft sowie keiner ganzjährigen Beschäftigung vermindern sich die Pauschalsätze entsprechend.
-
-
-Für Personalnebenausgaben ist ein Aufschlag in Höhe von zehn Prozent der Pauschalsätze zuwendungsfähig.
-
-
-Die Bewilligungsbehörde kann Ausnahmen zulassen.
-
-4.6
-
-Verfahren
-
-
-a)
-
-Der Antrag auf Gewährung einer Zuwendung ist bis zum 31. Oktober für das folgende Kalenderjahr einzureichen. Er hat ein Konzept sowie einen Finanzierungsplan zu enthalten. Ein Antrag auf Gewährung einer Zuwendung nach Nummer 4.2 Buchstabe b kann jederzeit ohne Frist gestellt werden.
-
-
-b)
-
-Für den Nachweis der zweckentsprechenden Verwendung der Zuwendung ist gemäß Nummer 10 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung ein Verwendungsnachweis nach Nummer 6 der ANBest-P vorzulegen. Abweichend von Nummer 6.1 der ANBest-P ist der Verwendungsnachweis spätestens bis zum 31. März des Folgejahres zu erbringen.
-
+die Fortbildungsveranstaltungen durch den Zuwendungsempfänger in geeigneter Weise evaluiert werden (Erfasst werden soll unter anderem die Verteilung der Teilnehmer nach Region, Engagementbereich, Dauer und zeitlichem Aufwand des Engagements sowie nach inhaltlichen und methodischen Kategorien).
 
 5.
 
-Einzelprojekte
+Art und Umfang, Höhe der Zuwendung
 
 
-5.1
+a)
+
+Die Zuwendung wird im Rahmen einer Projektförderung in Form eines Zuschusses als Anteilfinanzierung gewährt. Sie beträgt bis zu 95 Prozent der zuwendungsfähigen Ausgaben. Teilnehmergebühren sind als Einnahmen anzugeben und werden als Eigenanteil berücksichtigt. Übersteigen die Teilnehmergebühren den Mindesteigenanteil des Zuwendungsempfängers, vermindert sich die Zuwendung um den übersteigenden Betrag.
+
+
+b)
+
+Zuwendungsfähig sind Personal- und Sachausgaben.
+
+
+c)
+
+Nicht zuwendungsfähig sind Ausgaben zur Erstattung von Fahrtkosten sowie zur Verpflegung der Teilnehmer. 
+
+6.
+
+Verfahren 
+
+
+a)
+
+Anträge auf Gewährung einer Zuwendung sind bis zum 30. September bei der Bewilligungsstelle auf den entsprechenden Antragsformularen einzureichen. 
+
+
+b)
+
+Bei mehreren Anträgen pro Region erfolgt die Auswahl nach dem Grad der Erfüllung der in Nummer 4 aufgeführten Kriterien.
+
+
+c)
+
+Eine mehrjährige Förderung bis zu drei Jahre ist im Rahmen zur Verfügung stehender Haushaltmittel möglich.
+
+
+d)
+
+Dem Antrag ist eine Beschreibung der Maßnahme sowie eine Aufstellung der für die Projektdurchführung notwendigen Personal- und Sachausgaben beizufügen. Das Arbeitszeitvolumen der zu fördernden Fachkräfte ist dabei auf konkrete, voneinander abgrenzbare Aufgabenbereiche (Projektstellen) aufzuschlüsseln. Die geplanten Einnahmen über Teilnehmergebühren sind anzugeben.
+
+
+e)
+
+Für den Nachweis der zweckentsprechenden Verwendung der Zuwendung ist gemäß Nummer 10 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung ein Verwendungsnachweis nach Nummer 6 der ANBest-P zu erbringen. Die Teilnehmergebühren sind im Verwendungsnachweis als Einnahmen anzugeben. 
+
+
+III.
+Kontakt- und Informationsstelle für Selbsthilfe
+
+1.
 
 Zuwendungszweck
 
 
-Zuwendungszweck ist die Erforschung, die Weiterentwicklung oder die Präsentation der Freiwilligendienste.
+Ziel der Förderung ist die Stärkung der gesundheitsbezogenen und der allgemein sozialen Selbsthilfe im Freistaat Sachsen.
 
-5.2
+2.
 
 Gegenstand der Förderung
 
 
-Gefördert werden Einzelprojekte im Bereich der Freiwilligendienste:
+Gefördert wird eine landesweit wirkende Kontakt- und Informationsstelle.
 
-
-a)
-
-zur Erforschung oder Weiterentwicklung der Freiwilligendienste,
-
-
-b)
-
-zur Erprobung von Methoden und Konzeptionen, Fortbildungsangebote,
-
-
-c)
-
-zur Unterstützung des Sprecherwesens im Freistaat Sachsen sowie
-
-
-d)
-
-Fachveranstaltungen und Projekte übergreifender Öffentlichkeitsarbeit zum Thema bürgerschaftliches Engagement.
-
-5.3
+3.
 
 Zuwendungsempfänger
 
 
-Zuwendungsempfänger sind die nach Ziffer I Nummer 3 Verwaltungsvorschrift zur Durchführung von Freiwilligendiensten im Freistaat Sachsen für Sachsen zugelassenen Träger von Freiwilligendiensten, die Fachstelle oder andere juristische Personen.
+Zuwendungsempfänger ist die im Benehmen mit der Landesarbeitsgemeinschaft der regionalen Selbsthilfekontaktstellen vom Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt bestimmte Stelle.
 
-5.4
+4.
 
 Zuwendungsvoraussetzungen
 
 
-Zuwendungsvoraussetzungen sind Projektinhalte, die über den Regelbetrieb hinausgehen und geeignet sind,
+a)
+
+Der Zuwendungsempfänger soll eine Unterstützung durch die gesetzlichen Krankenkassen beantragen. Finanzierungen durch die Krankenkassen sind als Drittmittel zu berücksichtigen.
 
 
-–
+b)
 
-zusätzliche, relevante Aussagen über Freiwilligendienste zu generieren,
+Die Zuwendung erfolgt auf der Grundlage eines mit dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt abgestimmten Konzepts zur Stärkung und Weiterentwicklung der Selbsthilfe im Freistaat Sachsen. Der Antragsteller erklärt die erfolgte Abstimmung gegenüber der Bewilligungsstelle.
 
-
-–
-
-die Engagementbereitschaft oder das Engagement in Freiwilligendiensten zu erhöhen
-
-
-oder
-
-
-–
-
-die Rahmenbedingungen für Freiwilligendienste zu verbessern.
-
-5.5
+5.
 
 Art, Umfang und Höhe der Zuwendung
 
 
 a)
 
-Die Zuwendung wird als Anteilfinanzierung im Rahmen einer Projektförderung als nicht rückzahlbarer Zuschuss gewährt. Eine Förderung ist in der Regel bis zu 90 Prozent, in Ausnahmefällen, wie Forschungsvorhaben, bis zu 100 Prozent der zuwendungsfähigen Ausgaben möglich.
+Zuwendungsfähig sind Personal- und Sachausgaben. 
 
 
 b)
 
-Zuwendungsfähig sind Personal- und Sachausgaben. Als zuwendungsfähige Personalausgaben werden pro Jahr für ganzjährig beim Zuwendungsempfänger angestellte Vollzeitkräfte Pauschalsätze gemäß der Anlage B zum Tarifvertrag für den öffentlichen Dienst der Länder (TV-L) vom 12. Oktober 2006 in der Fassung des Änderungstarifvertrages Nr. 11 vom 2. März 2019, in der jeweils geltenden Fassung, angesetzt; für Projektmitarbeiter, unter Berücksichtigung ihrer Qualifikation und ausgeübten Tätigkeit:
-
-
-–
-
-mit abgeschlossener Berufsausbildung: Entgeltgruppe 5, Stufe 3,
-
-
-–
-
-mit Hochschulstudium (Bachelor- oder vergleichbarem Grad): Entgeltgruppe 9 b, Stufe 3,
-
-
-–
-
-mit Hochschulstudium (Master- oder vergleichbarem Grad): Entgeltgruppe 13, Stufe 3,
-
-
-–
-
-mit Hochschulstudium und Führungsverantwortung: Entgeltgruppe 14, Stufe 3.
-
-
-Bei einer Teilzeitkraft sowie keiner ganzjährigen Beschäftigung vermindern sich die Pauschalsätze entsprechend.
-
-
-Für Personalnebenausgaben ist ein Aufschlag in Höhe von zehn Prozent der Pauschalsätze zuwendungsfähig.
-
-
-Die Bewilligungsbehörde kann Ausnahmen zulassen.
-
-5.6
-
-Verfahren
-
-
-a)
-
-Der Antrag auf Gewährung einer Zuwendung muss ein Konzept zur Umsetzung des Projektes mit Handlungsbedarf, Zielen und Durchführung sowie einen Finanzierungsplan enthalten.
-
-
-b)
-
-Das Konzept bedarf des Einvernehmens mit dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt.
-
-
-c)
-
-Für den Nachweis der zweckentsprechenden Verwendung der Zuwendung ist gemäß Nummer 10 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung ein Verwendungsnachweis nach Nummer 6 der ANBest-P vorzulegen. Abweichend von Nummer 6.1 der ANBest-P ist der Verwendungsnachweis spätestens drei Monate nach Projektende zu erbringen.
-
+Die Zuwendung wird als Zuschuss im Rahmen einer Projektförderung als Anteilfinanzierung gewährt. Die Förderung beträgt bis zu 90 Prozent der zuwendungsfähigen Ausgaben. 
 
 6.
 
-Sachsen-Sommer
-
-
-6.1
-
-Zuwendungszweck
-
-
-Zuwendungszweck ist Umsetzung des Programms „Sachsen-Sommer“ zur Förderung des Engagements und der Engagement-Bereitschaft junger Menschen.
-
-6.2
-
-Gegenstand
-
-
-Gefördert werden:
-
-
-a)
-
-die Unterhaltung einer zentralen Stelle zur Umsetzung des Programms „Sachsen-Sommer“,
-
-
-b)
-
-die Betreuung der Programm-Teilnehmer,
-
-
-c)
-
-die Kooperation mit den beteiligten Programmpartnern sowie
-
-
-d)
-
-die Öffentlichkeitsarbeit und die Anerkennungskultur.
-
-6.3
-
-Zuwendungsempfänger
-
-
-Zuwendungsempfänger ist die vom Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt bestimmte Stelle zur Umsetzung des Programms „Sachsen-Sommer“.
-
-6.4
-
-Zuwendungsvoraussetzungen
-
-
-Zuwendungsvoraussetzung ist die Fähigkeit zur eigenverantwortlichen Umsetzung des vom Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt erstellten Konzepts „Sachsen-Sommer“.
-
-6.5
-
-Art, Umfang und Höhe der Zuwendung
-
-
-Die Zuwendung wird als Anteilfinanzierung mit einem Fördersatz von 100 % im Rahmen einer Projektförderung als nicht rückzahlbarer Zuschuss gewährt. Bewilligungszeitraum ist das Kalenderjahr. Mehrjährige Förderungen sind im Rahmen der zur Verfügung stehenden Haushaltsmittel möglich.
-
-
-Gefördert werden Personal- und Sachausgaben der zentralen Stelle.
-
-6.6
-
 Verfahren
 
 
 a)
 
-Der Antrag auf Zuwendung ist spätestens zwei Monate vor Beginn des Bewilligungszeitraums einzureichen.
+Der Antrag auf Gewährung einer Zuwendung ist bis zum 30. September des Vorjahres mit einem Jahreskonzept sowie einem Ausgaben- und Finanzierungsplan einzureichen.
 
 
 b)
 
-Dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt ist auf Anfrage Auskunft über den Stand der Umsetzung des Programms zu geben.
+Der Zuwendungsempfänger legt bis zum 30. Juni des Folgejahres der Bewilligungsstelle gemäß Nummer 10 der Verwaltungsvorschrift zur § 44 der Sächsischen Haushaltsordnung einen Verwendungsnachweis gemäß Nummer 6 der ANBest-P vor.
+
+
+B.
+Projekte von besonderem sozialpolitischen Interesse
+
+I.
+Zuwendungszweck
+
+Ziel der Förderung ist die Unterstützung und Ermöglichung von Projekten, die den gesellschaftlichen Zusammenhalt stärken und die Beteiligung an gemeinwohlorientierten Anliegen fördern.
+
+II.
+Gegenstand der Förderung
+
+Gefördert werden
+
+1.
+
+Maßnahmen, die von überregionaler Bedeutung und besonderem sozialpolitischen Interesse sind,
+
+2.
+
+Maßnahmen, die sich im Rahmen eines innovativen Vorhabens nach Abschnitt C Ziffer II bewährt haben,
+
+3.
+
+investive Maßnahmen mit Bezug zur Stärkung des gesellschaftlichen Zusammenhalts.
+
+
+III.
+Zuwendungsempfänger
+
+Zuwendungsempfänger sind juristische Personen, wie gemeinnützige Vereine, Verbände, Stiftungen oder gemeinnützige Gesellschaften mit beschränkter Haftung, die überregional tätig sind. Bei Maßnahmen nach Ziffer II Nummer 2 können auch juristische Personen, die lokal tätig sind, gefördert werden.
+
+IV.
+Zuwendungsvoraussetzung
+
+Maßnahmen nach Ziffer II Nummern 1 und 2 können nur nach Zustimmung des Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt gefördert werden.
+
+Die übrigen Zuwendungsvoraussetzungen ergeben sich aus den Förderbekanntmachungen.
+
+V.
+Art, Umfang und Höhe der Zuwendung
+
+1.
+
+Die Zuwendung wird als Zuschuss im Rahmen einer Projektförderung als Anteilfinanzierung gewährt.
+
+2.
+
+Zuwendungsfähig sind
+
+
+a)
+
+für Maßnahmen nach Ziffer II Nummer 1:
+
+
+Personal- und Sachausgaben sowie zusätzlich investive Ausgaben in Höhe von bis zu 5 000 Euro pro Maßnahme. In begründeten Einzelfällen kann die Bewilligungsstelle bei übergeordnetem staatlichen Interesse im Einvernehmen mit dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt einen höheren Betrag an investiven Ausgaben bewilligen.
+
+
+b)
+
+für Maßnahmen nach Ziffer II Nummer 2:
+
+
+Personal- und Sachausgaben.
 
 
 c)
 
-Für den Nachweis der zweckentsprechenden Verwendung der Zuwendung ist gemäß Nummer 10 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung ein Verwendungsnachweis nach Nummer 6 der ANBest-P vorzulegen. Abweichend von Nummer 6.1 der ANBest-P ist der Verwendungsnachweis spätestens bis zum 31. März des Folgejahres zu erbringen.
+für Maßnahmen nach Ziffer II Nummer 3:
+
+
+investive Ausgaben.
+
+3.
+
+Die Höhe der Zuwendung beträgt bis zu 80 Prozent der zuwendungsfähigen Ausgaben. In begründeten Einzelfällen (wie zum Beispiel fehlenden Eigenmitteln bei übergeordnetem staatlichen Interesse) kann die Bewilligungsstelle im Einvernehmen mit dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt einen höheren Fördersatz gewähren.
+
+4.
+
+Die Zuwendung kann vorbehaltlich verfügbarer Verpflichtungsermächtigungen für einen Zeitraum von bis zu drei Jahren gewährt werden. In begründeten Einzelfällen kann die Bewilligungsstelle im Einvernehmen mit dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt einen längeren Bewilligungszeitraum festlegen.
+
+
+VI.
+Verfahren
+
+1.
+
+Anträge auf Gewährung einer Zuwendung sind bis zum 30. September (Beginn der Vorhaben in der ersten Jahreshälfte des Folgejahres) und bis zum 31. März (Beginn der Vorhaben in der zweiten Jahreshälfte des laufenden Jahres) bei der Bewilligungsstelle auf den entsprechenden Antragsformularen einzureichen.
+
+2.
+
+Dem Antrag ist eine Beschreibung der Maßnahme sowie eine Aufstellung der für die Projektdurchführung notwendigen Personal- und Sachausgaben beizufügen. Das Arbeitszeitvolumen der zu fördernden Fachkräfte ist dabei auf konkrete, voneinander abgrenzbare Aufgabenbereiche (Projektstellen) aufzuschlüsseln.
+
+3.
+
+Eine Antragstellung für Maßnahmen nach Ziffer II Nummer 3 bei der Bewilligungsstelle ist nur nach einer Förderbekanntmachung möglich. Diese konkretisiert die in dieser Richtlinie enthaltenen Bestimmungen wie zum Beispiel den Förderzweck, Antragsfristen, maximale Förderbeträge oder ähnlich.
+
+4.
+
+Für den Nachweis der zweckentsprechenden Verwendung der Zuwendung ist gemäß Nummer 10 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung ein Verwendungsnachweis nach Nummer 6 der ANBest-P zu erbringen.
+
+
+C.
+Modellprojekte
+
+I.
+Zuwendungszweck
+
+Der Freistaat Sachsen fördert Modellprojekte in den Bereichen bürgerschaftliches Engagement und soziales Engagement. Modellprojekte sind Maßnahmen, die einem zeitlich befristeten Ausprobieren neuer Lösungswege mit dem Zweck dienen, diese auf weitere Anwendungsfälle zu übertragen. Modellprojekte sind gekennzeichnet durch die Merkmale Erprobung und Weiterentwicklung.
+
+Ziel der Förderung von Modellprojekten des bürgerschaftlichen Engagements ist die Weiterentwicklung des bürgerschaftlichen Engagements. Dazu sollen inhaltliche Konzeptionen entwickelt und erprobt werden, die das Interesse an einem aktiven Engagement steigern und die Engagementquote im Freistaat Sachsen erhöhen.
+
+Ziel der Förderung von Modellprojekte im sozialen Bereich ist es, innovative Maßnahmen der gemeinwohlorientierten Arbeit mit herausgehobener und zukunftsorientierter Bedeutung zu unterstützen. Es soll aktuellen Herausforderungen und Handlungsbedarfen begegnet werden.
+
+II.
+Gegenstand der Förderung
+
+1.
+
+Gefördert werden Modellprojekte des bürgerschaftlichen Engagements
+
+
+a)
+
+zur Erforschung, Weiterentwicklung und Neustrukturierung des bürgerschaftlichen Engagements sowie zur Erprobung von Methoden und Konzeptionen,
+
+
+b)
+
+zur gezielten Verbesserung des Fortbildungsangebots,
+
+
+c)
+
+zur Beratung und Begleitung von kleinen beziehungsweise im Aufbau befindlichen Vereinen und Initiativen,
+
+
+d)
+
+zur Beratung und Vermittlung von an bürgerschaftlichem Engagement beziehungsweise am Ehrenamt interessierten Personen,
+
+
+e)
+
+zur übergreifenden Öffentlichkeitsarbeit, Messen und Fachveranstaltungen sowie
+
+
+f)
+
+Maßnahmen zur Gewinnung von mehr bürgerschaftlich engagierten Personen im Freistaat Sachsen.
+
+2.
+
+Gefördert werden Modellprojekte im sozialen Bereich
+
+
+a)
+
+zur Analyse von länger bestehenden Problemlagen,
+
+
+b)
+
+zur Erforschung, Weiterentwicklung oder gegebenenfalls Neustrukturierung gemeinwohlorientierter Arbeit und
+
+
+c)
+
+zur Entwicklung und Umsetzung neuer Ansätze zur Lösung aktueller Problemlagen.
 
 
 III.
-Inkrafttreten, Außerkrafttreten
+Zuwendungsempfänger
 
-Diese Richtlinie tritt am Tag nach der Veröffentlichung in Kraft. Gleichzeitig tritt die Richtlinie des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz zur Förderung von Freiwilligendiensten im Freistaat Sachsen vom 1. Juli 2014 (SächsABl. S. 872), zuletzt enthalten in der Verwaltungsvorschrift vom 26. November 2019 (SächsABl. SDr. S. S 404), außer Kraft.
+Zuwendungsempfänger sind juristische Personen des öffentlichen und privaten Rechts, wie insbesondere eingetragene Vereine, Verbände, Kommunen, Stiftungen oder wissenschaftliche Einrichtungen.
 
-Dresden, den 10. Februar 2021
+IV.
+Art und Umfang, Höhe der Zuwendung
 
-Die Staatsministerin für Soziales und Gesellschaftlichen Zusammenhalt
+1.
+
+Die Zuwendung wird als Zuschuss im Rahmen einer Projektförderung als Anteilfinanzierung gewährt.
+
+2.
+
+Die Höhe der Zuwendung beträgt bis zu 90 Prozent der zuwendungsfähigen Ausgaben. In begründeten Einzelfällen (wie zum Beispiel fehlenden Eigenmitteln bei übergeordnetem staatlichen Interesse) kann die Bewilligungsstelle im Einvernehmen mit dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt einen höheren Fördersatz gewähren.
+
+3.
+
+Zuwendungsfähig sind Personal- und Sachausgaben. 
+
+
+V.
+Verfahren
+
+1.
+
+Eine Antragstellung ist nur nach einer Förderbekanntmachung des Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt möglich. Diese konkretisiert die in dieser Richtlinie enthaltenen Bestimmungen wie zum Beispiel den Förderzweck, Antragsfristen, maximale Förderbeträge oder ähnlich.
+
+2.
+
+Modellprojekte werden für einen begrenzten Zeitraum gefördert. 
+
+
+D.
+Erinnerungskultur
+
+I.
+Zuwendungszweck
+
+Ziel der Förderung ist die Erforschung, Aufarbeitung und Bekanntmachung von staatlichem Unrecht, das in der Vergangenheit auf dem Gebiet des heutigen Freistaats Sachsen geschehen ist. Es sollen historische Vorgänge erforscht, gegebenenfalls Einzelschicksale aufgearbeitet und dargestellt, die Ergebnisse der Öffentlichkeit, zum Beispiel durch Ausstellungen, zugänglich gemacht sowie in Bildungsveranstaltungen thematisiert werden. Bedeutsame Orte sollen erhalten, renoviert und der Öffentlichkeit zugänglich gemacht werden.
+
+II.
+Gegenstand der Förderung
+
+Gefördert werden
+
+1.
+
+gesellschaftlich bedeutsame und wissenschaftliche Aufarbeitungen,
+
+2.
+
+Maßnahmen der Öffentlichkeitsarbeit sowie Bildungsmaßnahmen,
+
+3.
+
+investive Maßnahmen zur Erhaltung ehr- und gedenkwürdiger Orte und
+
+4.
+
+Maßnahmen zur Pflege und baulichen Instandhaltung von historisch bedeutsamen Friedhöfen.
+
+
+III.
+Zuwendungsempfänger
+
+Zuwendungsempfänger sind juristische Personen des öffentlichen und privaten Rechts, wie insbesondere eingetragene Vereine, Verbände, Kommunen, Stiftungen oder wissenschaftliche Einrichtungen.
+
+IV.
+Art, Umfang und Höhe der Förderung
+
+1.
+
+Die Zuwendung wird als Zuschuss im Rahmen einer Projektförderung als Anteilfinanzierung gewährt.
+
+2.
+
+Zuwendungsfähig sind Personal- und Sachausgaben sowie investive Ausgaben für bauliche Sicherungen und Instandhaltungen.
+
+3.
+
+Die Höhe der Zuwendung beträgt bis zu 90 Prozent der zuwendungsfähigen Ausgaben. In begründeten Einzelfällen (wie zum Beispiel fehlenden Eigenmitteln bei übergeordnetem staatlichen Interesse) kann die Bewilligungsstelle im Einvernehmen mit dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt einen höheren Fördersatz gewähren. 
+
+
+V.
+Verfahren
+
+1.
+
+Anträge auf Gewährung einer Zuwendung sind bei der Bewilligungsstelle auf den entsprechenden Antragsformularen einzureichen.
+
+2.
+
+Dem Antrag ist eine Beschreibung der Maßnahmen sowie eine Aufstellung der für die Projektdurchführung notwendigen Personal- und Sachausgaben beizufügen. Das Arbeitszeitvolumen der zu fördernden Fachkräfte ist dabei auf konkrete, voneinander abgrenzbare Aufgabenbereiche (Projektstellen) aufzuschlüsseln.
+
+3.
+
+Für den Nachweis der zweckentsprechenden Verwendung der Zuwendung ist gemäß Nummer 10 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung ein Verwendungsnachweis nach Nummer 6 der ANBest-P zu erbringen.
+
+
+E.
+Spitzenverbände der Freien Wohlfahrtspflege im Freistaat Sachsen
+
+I.
+Zuwendungszweck
+
+Die Spitzenverbände der Freien Wohlfahrtspflege leisten für das Gemeinwesen und den gesellschaftlichen Zusammenhalt einen wichtigen Beitrag. Ziel der Förderung ist die Unterstützung der Spitzenverbände der Freien Wohlfahrtspflege bei deren satzungsmäßigen und zivilgesellschaftlichen Aufgaben im Freistaat Sachsen.
+
+II.
+Gegenstand der Förderung
+
+Gefördert werden im Rahmen von Projekten übergreifende, nicht auf einem Markt erbrachte Tätigkeiten der anerkannten Spitzenverbände der Freien Wohlfahrtspflege bei der aktiven Mitgestaltung von aktuellen und grundsätzlichen sozialpolitischen Entwicklungen und Rahmenbedingungen sowie die Entwicklung von Initiativen, die soziale Probleme aufgreifen und Lösungsansätze im Bereich der sozialen Arbeit aufzeigen, insbesondere
+
+1.
+
+die Aufgabenkoordination und -abstimmung in internen Gremien sowie die Entwicklung von Standards im Bereich Qualitätsmanagement-Systeme und deren Implementierung,
+
+2.
+
+die fachliche Mitwirkung an sozialplanerischen Prozessen und in öffentlichen Gremien,
+
+3.
+
+die Vernetzung sowie Weiterentwicklung vorhandener Strukturen. 
+
+
+Soweit diese EU-beihilfefrei sind, erfolgt die Umsetzung der Maßnahmen insbesondere in den Bereichen:
+
+–
+
+Hilfen für Menschen in besonderen Lebenslagen, 
+
+–
+
+Eingliederungshilfe, 
+
+–
+
+Ehrenamtsarbeit und Freiwilligendienste, 
+
+–
+
+Rahmenbedingungen für Kindertagesstätten, 
+
+–
+
+Beratungsstellen, 
+
+–
+
+Präventionsarbeit in allen sozialen Bereichen, 
+
+–
+
+niederschwellige, inklusive, kompetenz- und sozialraumorientierte Angebote, 
+
+–
+
+Hilfen für Familien und Kinder,
+
+–
+
+Migration – Soziale Integration und Teilhabe von Migrantinnen und Migranten.
+
+
+III.
+Zuwendungsempfänger
+
+Zuwendungsempfänger sind die in der Liga der Freien Wohlfahrtspflege im Freistaat Sachsen zusammengeschlossenen Spitzenverbände.
+
+IV.
+Art, Umfang und Höhe der Förderung
+
+1.
+
+Die Zuwendung wird als Zuschuss im Rahmen einer Projektförderung als Anteilsfinanzierung gewährt. Sie beträgt bis zu 90 Prozent der zuwendungsfähigen Ausgaben.
+
+2.
+
+Zuwendungsfähig sind die Personalausgaben der eingesetzten Fachkräfte der sozialen Arbeit und Sachausgaben.
+
+3.
+
+Die Zuwendung kann für einen Zeitraum von bis zu fünf Jahren, beginnend ab 1. Januar eines Jahres gewährt werden und steht unter Vorbehalt der im Landeshaushalt eingestellten Mittel und Verpflichtungsermächtigungen.
+
+
+V.
+Verfahren
+
+1.
+
+Anträge sind schriftlich bis zum 30. September des Vorjahres beziehungsweise bis zum 30. September vor Beginn des nächsten Bewilligungszeitraumes bei der Bewilligungsstelle auf den entsprechenden Antragsformularen einzureichen. 
+
+2.
+
+Dem Antrag sind ein Ausgaben- und Finanzierungsplan, eine Beschreibung der Projekte sowie eine Aufstellung der für die Projektdurchführung notwendigen Personalausgaben beizufügen.
+
+3.
+
+Der Zuwendungsempfänger stellt sicher, dass von dem jeweiligen Antrag nicht umfasste wirtschaftliche Tätigkeiten, die in einem Marktumfeld erbracht werden, durch die jeweilige Zuwendung weder unmittelbar noch mittelbar begünstigt werden. Dies setzt eine getrennte Erfassung der Ausgaben und etwaigen Einnahmen voraus. Wenn ein einzelner Zuwendungsempfänger die Förderung von Sachausgaben beantragt, setzt dies auch eine ordnungsgemäße Aufschlüsselung der Gemeinkosten voraus. Diese Darstellung ist durch einen Wirtschaftsprüfer, zum Beispiel im Zusammenhang mit der Testierung des Jahresabschlusses, zu bestätigen.
+
+
+Teil 3
+Schlussbestimmungen
+
+Diese Richtlinie tritt am Tag nach der Veröffentlichung in Kraft. Gleichzeitig tritt die Richtlinie des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz zur Förderung des gesellschaftlichen Zusammenhalts vom 17. Dezember 2019 (SächsABl. SDr. 2020 S. S 29) außer Kraft.
+
+Dresden, den 26. August 2021
+
+Die Staatsministerin für Soziales
+und Gesellschaftlichen Zusammenhalt
 Petra Köpping
 
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
 
-SächsABl. 2021 Nr. 8, S. 157
+SächsABl. 2021 Nr. 36, S. 1142
 
-Fsn-Nr.: 5584-V21.1
+Fsn-Nr.: 5580-V21.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 26. Februar 2021
+Fassung gültig ab: 10. September 2021
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis: 31. Dezember 2022
 
 Drucken/Speichern
 
@@ -815,7 +939,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19019.1
+https://www.revosax.sachsen.de/vorschrift/19310.1
 Stand vom
 18.11.2026
 
