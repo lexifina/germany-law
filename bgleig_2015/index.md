@@ -1,4 +1,4 @@
-# Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung und in den Unternehmen und Gerichten des Bundes
+# Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung und in den Gerichten des Bundes
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
@@ -11,7 +11,7 @@
 
 ## Abschnitt 2 Maßnahmen zur Gleichstellung von Frauen und Männern
 
-- [§ 5 Grundsatz; Anwendungshinweis](0005.md)
+- [§ 5 Ausnahmen von der Anwendung](0005.md)
 - [§ 6 Arbeitsplatzausschreibung](0006.md)
 - [§ 7 Bewerbungsgespräche](0007.md)
 - [§ 8 Auswahlentscheidungen bei Einstellung, beruflichem Aufstieg und der Vergabe von Ausbildungsplätzen](0008.md)
@@ -23,9 +23,9 @@
 - [§ 11 Zweck](0011.md)
 - [§ 12 Erstellung](0012.md)
 - [§ 13 Inhalt](0013.md)
-- [§ 14 Bekanntmachung, Veröffentlichung](0014.md)
+- [§ 14 Veröffentlichung und Kenntnisgabe](0014.md)
 
-## Abschnitt 4 Vereinbarkeit von Familie, Pflege und Berufstätigkeit für Frauen und Männer
+## Abschnitt 4 Vereinbarkeit von Familie oder Pflege mit der Berufstätigkeit
 
 - [§ 15 Arbeitszeiten und sonstige Rahmenbedingungen](0015.md)
 - [§ 16 Teilzeitbeschäftigung, Telearbeit, mobiles Arbeiten und Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben](0016.md)
@@ -58,4 +58,4 @@
 - [§ 37 Sonderregelungen für den Bundesnachrichtendienst](0037.md)
 - [§ 38 Statistik, Verordnungsermächtigung](0038.md)
 - [§ 39 Bericht](0039.md)
-- [§ 40 Übergangsbestimmungen](0040.md)
+- [§ 40 Übergangsbestimmung](0040.md)
