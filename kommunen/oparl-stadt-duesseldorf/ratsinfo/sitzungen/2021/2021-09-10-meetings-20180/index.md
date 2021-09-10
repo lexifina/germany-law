@@ -1,0 +1,65 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-10T14:00:00+02:00
+- Ende: 2021-09-10T17:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20180
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20180
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö_Stand 10.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00423176.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö_Stand 10.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00423176.pdf
+- Wortprotokoll: Sitzungspaket Ö_Stand 10.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00423176.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 28.05.2021 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 25.06.2021 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Mündliche Berichte und Verwaltungsvorlagen
+- TOP 5.1: Bericht von Düsseldorf Tourismus über aktuelle und kommende Projekte des Stadtmarketings im Bezirk 1 - zur Kenntnis genommen
+- TOP 5.2: Bericht zur Verkehrssituation am Worringer Platz - zur Kenntnis genommen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Ulmenstraße 295- Errichtung eines Großmarktes sowie von Büroflächen - Empfehlung mehrheitlich abgelehnt
+- TOP 5.6: Dialogverfahren - Zukunft der Kö - zur Kenntnis genommen
+- TOP 5.7: Nachrüstung Blindenleiteinrichtungen U-Bf. Heinrich-Heine-Allee -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 5.8: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - einstimmig beschlossen
+- TOP 5.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Liste A 21 211 01 - 52415100 - einstimmig beschlossen
+- TOP 5.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2021 - einstimmig beschlossen
+- TOP 5.11: Kenntnisnahme der Eilentscheidung gemäß § 60 Abs. 1 S. 1 Gemeindeordnung NRW - zur Kenntnis genommen
+- TOP 5.12: Genehmigung eines Dringlichkeitsbeschlusses - Jubiläumsfeier zu 25 Jahren Straßenmagazin "fiftyfifty" im Ehrenhof - einstimmig beschlossen
+- TOP 5.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.14: Bücherbummel auf der Königsallee im Jahre 2021 - einstimmig beschlossen
+- TOP 5.15: Büchermeile auf der Rheinuferpromenade im Jahre 2021 - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Schulwegsicherheit Essener Straße - Anfrage der Fraktion Bündnis90/Die Grünen
+- TOP 7.2: Verkehrssicherheit Tannenstraße zur DRK-Kita - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 7.3: Bauarbeiten auf der Nordstraße - Anfrage der SPD-Fraktion
+- TOP 7.4: Bauarbeiten im Bereich Worringer Platz - Anfrage der SPD-Fraktion - zurückgezogen
+- TOP 8: Anträge
+- TOP 8.1: Kennzeichnung Radweg Fischerstraße - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 8.2: Erweiterung des Halteverbots auf der Schwerinstraße - Antrag der Fraktion Bündnis90/Die Grünen - abweichend beschlossen
+- TOP 8.3: Öffentliche Toiletten am Wochenende in der Altstadt - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 8.4: Was wird aus der öffentlichen Nutzung der Kapelle Ulmer Höh in Derendorf: Vorstellung der neuen Pläne in der Bezirksvertretung - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 8.5: Anpassung des Schaltzeitpunkts der Lichtzeichenanlage an der Haltestelle Tannenstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 9.1: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 9.2: Berichtswesen Bezirksvertretung 1 - 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 9.3: Vergrößerung von Baumscheiben im Stadtbezirk 1; Beschluss der Bezirksvertretung 1 vom 30.04.21; BV1/086/2021 - zur Kenntnis genommen
+- TOP 9.4: Konzeptentwicklung zur Verbesserung der Sauberkeit auf der Immermannstraße; Beschluss der Bezirksvertretung 1; BV1/149/2021 - zur Kenntnis genommen
+- TOP 9.5: Rechtsabbiegepfeil für Radfahrer auf der Kaiserstraße/Kapellstraße; Beschluss der Bezirksvertretung 1 vom 28.05.2021; BV1/104/2021 - zur Kenntnis genommen
+- TOP 9.6: Einrichtung einer Schrankenanlage; Beschluss der Bezirksvertretung 1 vom 25.06.2021; BV1/138/2021 - zur Kenntnis genommen
+- TOP 9.7: Enten füttern verboten; Beschluss der Bezirksvertretung 1 vom 25.06.21; BV1/139/2021 - zur Kenntnis genommen
+- TOP 9.8: Bauleitplanverfahren für den Bereich Jägerhofstraße/Gartenstraße; Beschluss der Bezirksvertretung 1 vom 28.02.2020; BV1/066/2020 - zur Kenntnis genommen
+- TOP 9.9: Baumpflanzung in der Füsilierstraße; Beschluss der Bezirksvertretung 1 vom 25.06.2021; BV1/143/2021 - zur Kenntnis genommen
+- TOP 9.10: Sitzungstermine der Bezirksvertretung 1 für das Jahr 2022 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an GGS Lennéstraße - einstimmig beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an GGS Lennéstraße - Heilpädagogisches Reiten - einstimmig beschlossen
