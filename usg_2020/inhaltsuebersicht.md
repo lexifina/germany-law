@@ -16,9 +16,10 @@ Leistungen zur Sicherung des Einkommens
 | § 8 | Mindestleistung |
 | § 9 | Leistungen für Versorgungsempfänger |
 Abschnitt 2
-Prämie, Dienstgeld, Zuschläge
+Prämien, Dienstgeld, Zuschläge
 | § 10 | Kaufkraftausgleich |
 | § 11 | Prämie |
+| § 11a | Prämie für besondere Einsatzbereitschaft |
 | § 12 | Zuschlag für längeren Dienst |
 | § 13 | Zuschlag für die Verpflichtung zu längerem Dienst |
 | § 14 | Dienstgeld |
@@ -35,7 +36,7 @@ Sachleistungen
 | § 23 | Verpflegung, Verpflegungsgeld |
 Kapitel 3
 Verfahren
-| § 24 | Zuständigkeit |
+| § 24 | (weggefallen) |
 | § 25 | Antrag |
 | § 26 | Leistungsberechnung |
 | § 27 | Auskunfts- und Mitteilungspflichten |

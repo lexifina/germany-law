@@ -24,6 +24,7 @@
 
 - [§ 10 Kaufkraftausgleich](0010.md)
 - [§ 11 Prämie](0011.md)
+- [§ 11a Prämie für besondere Einsatzbereitschaft](0011a.md)
 - [§ 12 Zuschlag für längeren Dienst](0012.md)
 - [§ 13 Zuschlag für die Verpflichtung zu längerem Dienst](0013.md)
 - [§ 14 Dienstgeld](0014.md)
@@ -42,7 +43,7 @@
 
 ## Kapitel 3 Verfahren
 
-- [§ 24 Zuständigkeit](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 - [§ 25 Antrag](0025.md)
 - [§ 26 Leistungsberechnung](0026.md)
 - [§ 27 Auskunfts- und Mitteilungspflichten](0027.md)

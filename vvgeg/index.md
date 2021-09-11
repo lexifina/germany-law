@@ -7,4 +7,5 @@
 - [Art 5 Rechte der Gläubiger von Grundpfandrechten](art-5.md)
 - [Art 6 Versicherungsverhältnisse nach § 190 des Gesetzes über den Versicherungsvertrag](art-6.md)
 - [Art 7 Krankenversicherung, Versicherungsverhältnisse nach § 193 Absatz 6 des Versicherungsvertragsgesetzes](art-7.md)
-- [(XXXX) Art 8 bis 15 (weggefallen)](xxxx-art-8-bis-15.md)
+- [(XXXX) Art 9 bis 15 (weggefallen)](xxxx-art-9-bis-15.md)
+- [Artikel 8 Musterwiderrufsbelehrung](artikel-8.md)
