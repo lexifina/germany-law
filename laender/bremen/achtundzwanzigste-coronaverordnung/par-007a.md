@@ -1,0 +1,10 @@
+# § 7a Bundestagswahl
+(1) Für die Wahlhandlung und die Ermittlung und Feststellung des Wahlergebnisses bei der Wahl zum 20. Deutschen Bundestag gelten die Absätze 2 bis 4. Das Wahlgebäude im Sinne dieser Regelung umfasst außer den Wahlräumen und Sitzungsräumen der Wahlausschüsse und Wahlvorstände auch alle sonstigen Räume im Gebäude, die während der Wahlzeit und der Ermittlung und Feststellung des Wahlergebnisses sowie sonstiger Sitzungen der Wahlausschüsse öffentlich zugänglich sind.
+(2) Die jeweils zuständige Gemeinde hat für Wahlgebäude nach Absatz 1 Satz 2 ein Schutz und Hygienekonzept nach § 5 Absatz 1 zu erstellen.
+(3) Im Wahlgebäude muss von allen Personen eine medizinische Maske im Sinne des § 2 Absatz 2 Satz 1 getragen werden. Diese Verpflichtung besteht nicht
+1. in den Fällen des § 2 Absatz 3 Satz 1,
+2. für die Dauer einer vom Wahlvorstand angeordneten Abnahme der Maske zur Identitätsfeststellung und
+3. für die Wahlvorstände während des Auszählens und der Ergebnisermittlung.
+(4) Für Personen, die sich auf Grundlage des Öffentlichkeitsgrundsatzes im Wahlgebäude aufhalten (insbesondere Wahlbeobachterinnen und Wahlbeobachter), gilt:
+1. Sie sind zur Bereitstellung ihrer Kontaktdaten gemäß § 6 Absatz 1 verpflichtet, der Wahlvorstand ist zur Erhebung und zur Überprüfung der Vollständigkeit dieser Daten berechtigt; die Wahlvorsteherin oder der Wahlvorsteher hat die gesammelten Daten der Gemeinde in einem verschlossenen Umschlag zu übergeben;
+2. Personen, die von der Pflicht zum Tragen einer Mund-Nasen-Bedeckung nach § 2 Absatz 3 Satz 1 Nummer 2 und 3 ausgenommen sind, dürfen sich in Wahlräumen zwischen 8 Uhr und 13 Uhr und zwischen 13 Uhr und 18 Uhr und ab 18 Uhr für jeweils längstens 15 Minuten aufhalten, in Briefwahlräumen für längstens 15 Minuten; zu den Mitgliedern des Wahlvorstands und den Hilfskräften muss jeweils ein Mindestabstand von 2 Metern eingehalten werden; die zeitliche Beschränkung gilt nicht, wenn die Person dem Wahlvorstand das negative Ergebnis einer Testung auf eine Infektion mit dem Coronavirus SARS-CoV-2 nachweist.
