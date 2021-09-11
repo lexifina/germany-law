@@ -1,6 +1,5 @@
 # Anlage 1 (zu den §§ 1 und 5 Abs. 1)Vollständiges Anwendungsverbot
 
-Fundstelle des Originaltextes: BGBl. I 2003, 1534
 | Nummer | Stoff |
 | 1 | 2 |
 | 1 | Acrylnitril |

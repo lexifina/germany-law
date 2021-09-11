@@ -1,6 +1,4 @@
-# Anlage 4 (zu § 3a)
-
-Besondere Abgabebedingungen
+# Anlage 4 (zu § 3a)Besondere Abgabebedingungen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1538
 | Nummer | Stoff |

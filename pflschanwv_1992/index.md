@@ -17,6 +17,4 @@
 
 Eingeschränktes Anwendungsverbot](anlage-2.md)
 - [Anlage 3 (zu den §§ 3 und 4)Anwendungsbeschränkungen](anlage-3.md)
-- [Anlage 4 (zu § 3a)
-
-Besondere Abgabebedingungen](anlage-4.md)
+- [Anlage 4 (zu § 3a)Besondere Abgabebedingungen](anlage-4.md)
