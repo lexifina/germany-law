@@ -1,0 +1,84 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-09-13T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354777
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354777
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.3.1.: Baulisten
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 2.1.: Fragen zum Maßnahmenkatalog des BA 6 zum HP8 Gasteig
+- TOP 2.2.: Neubewertung und Regelung des Rad-/KFZ-Verkehrs an der Sortieranlage – insbesondere Thalkirchner Ecke Gotzinger Straße
+- TOP 2.3.: Reutbergerstrasse 10/12 Baumfällungen Verkehrskonzepte
+- TOP 2.4.: 2. Rettungsweg an der Maronstraße / Tannengarten
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Lindwurmstraße 122
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.2.: Blumenwiese und Insektenschutzgebiete in den Neuhoferanlagen einrichten!
+- TOP 4.3.3.: Verbot von Glas-Bierflaschen/ Kronkorken an der Isar und in öffentlichen Parks Antwort
+- TOP 4.3.4.: Sachstand zur Situation an der Sitzbank Implerstraße Ecke Kyreinstraße Einschätzung und Empfehlung durch das AKIM- Konfliktmanagement
+- TOP 4.3.5.: (U) Grundsatzbeschluss I Umsetzung Klimaziele München Erlass einer Klimasatzung Erlass einer Klimaratssatzung
+- TOP 4.3.6.: Ergänzung des Antwortschreibens vom 03.09.2020 bzgl. BA-Antrag 20-26 / B 00308 Alte Utting – Lagerhausstraße
+- TOP 4.3.7.: Kanalsanierungsmaßnahme Sendling, Sendling-Westpark und Schwanthalerhöhe Unterrichtung der Bezirksausschüsse Sendling, Sendling-Westpark und Schwanthalerhöhe
+- TOP 4.3.8.: (U) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) 2021 B. Anträge 1. Den Horizont erweitern – Sozialgerechte Bodennutzung und Bodenvorratspolitik anderer Städte vorstellen Antrag Nr. 14-20 / A 04310 von der Fraktion DIE GRÜNEN/RL vom 20.07.2018 2. Mehr dauerhaft bezahlbarer Wohnraum III: Mit der neuen SoBoN mehr bezahlbaren Wohnraum schaffen und dauerhaft sichern Antrag Nr. 14-20 / A 06746 von der Fraktion DIE GRÜNEN/ROSA LISTE vom 11.02.2020 3. Mehr dauerhaft bezahlbares Wohnen Antrag Nr. 14–20 / A 06968 von der SPD-Stadtratsfraktion vom 10.03.2020 4. SoBoN-Novelle 2020/2021: München braucht mehr geförderten Wohnraum Antrag Nr. 20-26 / A 00707 von der Fraktion DIE LINKE./Die PARTEI vom 18.11.2020
+- TOP 4.3.9.: Reutbergerstraße 10 Baugenehmigung
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Anhörungsverfahren im Zusammenhang mit der Eröffnung des "Interims Gasteig" am 08.10.2021 a) Taxistand b) Shuttlebus
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Fahrradabstellanlagen Roter-Turm-Platz - Implerstraße
+- TOP 5.3.2.: Sommerpicknick KiTa Ganghoferstraße 110 in der Stemmerwiese vom 27.07. bis 29.07.2021 Bescheid
+- TOP 5.3.3.: Verantwortungsvoller Umgang mit E-Scootern BA-Antrag Nr. 20-26 / B 02646 des Bezirksausschusses des 1. Stadtbezirkes Altstadt-Lehel vom 29.06.2021 Abdruck an Alle BAs
+- TOP 5.3.4.: Aufstellen eines Parklets auf der Schöttlstraße Genehmigung
+- TOP 5.3.5.: Antrag für ein Parklet Thalkrichner- Ecke Kochelseestraße zur Kenntnisnahme
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Optimale Abstellflächen für Fahrräder in der Valleystraße schaffen! [SPD]
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Ertüchtigung der Südseite des Mittleren Rings für gegenläufigen Radverkehr zwischen Tunnelausfahrt Brudermühlstraße und Passauerstraße -Zwischennachricht-
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kulturblüten Konzertreihe „Livemusik in der Backstube“ vom 12.09.-03.10.2021 3.928,00€; Az. 0262.0-6-0349
+- TOP 6.1.2.: (E) Bestellung städtischer Leistung Bürger*innenvorschlag Errichtung von Tischtennisplatten außerhalb der Stemmerwiese/ Jägerwirtstraße
+- TOP 6.1.3.: (E) Stadtbezirksbudget Kunst in Sendling e.V. Offene Ateliers – Kunst in Sendling vom 08.-10.10.2021 3.863,75 € / Az. 0262.0-6-0350
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Neues Spielgerät für den Spielplatz Neuhofen Süd Bestellung Städtischer Leistung
+- TOP 7.3.2.: Einweihungsfeier Seidenspinner Spielplatz
+- TOP 7.3.3.: Anfrage zu einem Nachbarschaftstreff in Neuhofen
+- TOP 7.3.4.: Genderbeachtung bei allen Bezirksausschuss relevanten Texten BA-Antrags-Nr. 20-26 / B 02134 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 12.04.2021 Ergänzung des Antwortschreibens durch das IT-Referat
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Bundestagswahl am 26. September 2021; Einteilung der Wahlbezirke und Wahlräume
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
