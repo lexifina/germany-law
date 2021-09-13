@@ -1,0 +1,6 @@
+# TOP -: C "Informationen und Anmerkungen zum Thema Mädchenarbeit" - ein Vortrag von Sabine Osbelt, LOBBY FÜR MÄDCHEN e.V., Pädagogische Leitung)
+
+- Sitzung: 4. Sitzung des Ausschusses für Gleichstellung von Frauen und Männern (2021-09-13)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/331520
