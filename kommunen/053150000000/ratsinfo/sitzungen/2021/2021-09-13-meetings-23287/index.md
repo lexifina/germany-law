@@ -1,0 +1,106 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-13T16:00:00+02:00
+- Ende: 2021-09-13T17:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23287
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23287
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Rad- und Fußgängerüberwege Innerer Grüngürtel (Az.: 02-1600-21/21) - ungeändert beschlossen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Dauerhafte Anordnung der Einbahnstraßenregelung auf der Joseph-Stelzmann-Straße (Az.: 02-1600-87/20) - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Auswirkungen des Unwetters auf Köln, hier: Anfrage der Fraktion Bündnis 90 / Die Grünen, der CDU-Fraktion und der Volt-Fraktion zur Sitzung des Hauptausschusses am 23.8.2021, AN/1561/2021 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sachstand illegale Mountainbike-Strecken im Äußeren Grüngürtel - zurückgestellt
+- TOP 7.2.2: Bewegungsparcour Jahn - zurückgestellt
+- TOP 7.2.3: Gutachten Großmarkt - zurückgestellt
+- TOP 7.2.4: Durchfahrt Linné Park - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Aufhebung freier Rechtsabbieger Aachener Straße - ungeändert beschlossen
+- TOP 8.1.3: Informationsschild Turnvater Friedrich Jahn - ungeändert beschlossen
+- TOP 8.1.4: Albert-Richter-Velodrom - ungeändert beschlossen
+- TOP 8.1.5: Außengastronomie - ungeändert beschlossen
+- TOP 8.1.6: Nord-Süd-Buslinie - ungeändert beschlossen
+- TOP 8.1.7: Abstufung der Dürener Straße - geändert beschlossen
+- TOP 8.1.8: Zusätzliche Lasten- und Fahrradstellplätze Nikolausstraße 103, Sülz - ungeändert beschlossen
+- TOP 8.1.9: Sicherung und Ausbesserung des Fußgängerweges Jungbluthgasse - ungeändert beschlossen
+- TOP 8.1.10: Verbesserungsmaßnahmen Bahnunterführung Lövenich - ungeändert beschlossen
+- TOP 8.1.11: Teil-Nutzung der Schulgarage als Quartiersgarage in Müngersdorf - ungeändert beschlossen
+- TOP 8.1.12: Geschwindigkeitsbegrenzung Spitzangerweg und Saarstraße - ungeändert beschlossen
+- TOP 8.1.13: Buskonzept Kölner Westen - endgültig zurückgezogen
+- TOP 8.1.13.1: Ersetzungsantrag zu 8.1.13 - ungeändert beschlossen
+- TOP 8.1.14: Zukunft Verwaltungsgebäude RWE Power - endgültig zurückgezogen
+- TOP 8.1.14.1: Ersetzungsantrag zu 8.1.14 - ungeändert beschlossen
+- TOP 8.1.15: Baumschutz bei Baumaßnahmen - endgültig zurückgezogen
+- TOP 8.1.15.1: Ersetzungsantrag nach 8.1.15 - ungeändert beschlossen
+- TOP 8.1.16: Bundesluftwaffe-Fluglärm - endgültig zurückgezogen
+- TOP 8.1.16.1: Ersetzungsantrag 8.1.16 - ungeändert beschlossen
+- TOP 8.1.17: Zuweisung bezirksorientierter Mittel gem. § 37 GO NRW im Haushaltsjahr 2021 - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Mommsenstraße - ungeändert beschlossen
+- TOP 9.1.2: Errichtung eines "Offenen Bücherschrankes" - ungeändert beschlossen
+- TOP 9.1.3: Ordnungsbehördliche Verordnung für das Jahr 2021 über das Offenhalten von Verkaufsstellen am Sonntag, dem 19.09.2021 - ungeändert beschlossen
+- TOP 9.1.4: Sanierung des Umkleidehauses Sportanlage Salzburger Weg, Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: 184. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3 (Köln-Lindenthal) beziehungsweise 4 (Köln-Ehrenfeld) Arbeitstitel: "Braunsfeld/Ehrenfeld" in Köln-Braunsfeld/Ehrenfeld - ungeändert beschlossen
+- TOP 9.2.2: Modellhafte Öffnung ausgewählter Schulhöfe als Spiel-, Sport- und Bewegungsräume für Kinder, Jugendliche und Erwachsene - geändert beschlossen
+- TOP 9.2.2.1: Änderungsantrag zu 9.2.2 - ungeändert beschlossen
+- TOP 9.2.3: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: KinderReich Rheinland gGmbH - zurückgestellt
+- TOP 9.2.4: Einrichtung des Erweiterungsbaus und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Hildegard-von-Bingen Gymnasiums, Leybergstr. 1, 50939 Köln - Sülz im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2022. - ungeändert beschlossen
+- TOP 9.2.5: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - endgültig zurückgezogen
+- TOP 9.2.6: Radschnellweg Köln-Frechen - ungeändert beschlossen
+- TOP 9.2.7: 277. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.8: 221. Änderung des Flächennutzungsplanes (FNP) in den Stadtbezirken 1 (Innenstadt) und 3 (Lindenthal)-Einleitungsbeschluss - geändert beschlossen
+- TOP 9.2.8.1: Änderungsantrag zu 9.2.8 - ungeändert beschlossen
+- TOP 9.2.9: Beschluss des Zielbilds für die Kölner Weststadt - geändert beschlossen
+- TOP 9.2.9.1: Änderungsantrag zu 9.2.9 - ungeändert beschlossen
+- TOP 9.2.10: Förderprogramm "Dritte Orte" - Förderungen von eingetragenen Vereinen aus dem Stadtgebiet - ungeändert beschlossen
+- TOP 9.2.11: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - ungeändert beschlossen
+- TOP 9.2.12: Stadtstrategie „Kölner Perspektiven 2030+“ - ungeändert beschlossen
+- TOP 9.2.13: Zweite Ordnungsbehördliche Verordnung für das Jahr 2021 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: 19. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.1.2: Qualitätsbericht 2020 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 11.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Ankauf Häuser Friedrich-Engels-Str (AN/0713/2021) - Kenntnis genommen
+- TOP 11.2.2: Leerstand Wohnungen - Kenntnis genommen
+- TOP 11.2.3: Durchfahrt Im Kamp - Kenntnis genommen
+- TOP 11.2.4: Benennung des Vorplatzes am Radstadion in Köln-Müngersdorf in Ernst-Berliner-Platz - Kenntnis genommen
+- TOP 11.2.5: Kreisverkehr Berrenrather Straße/Weyertal/Arnulfstraße - Kenntnis genommen
+- TOP 11.2.6: Parkplatz Salzburger Weg in Köln-Junkersdorf - zu AN/1093/2021 (TOP 2.5 des Ausschusses Schule und Weiterbildung vom 07.06.2021) - Kenntnis genommen
+- TOP 11.2.7: Radverkehrsführung auf dem Alten Militärring in Müngersdorf - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Umsetzung des Projekts "Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 11.3.2: SeniorenNetzwerke Köln: Auszeichnung im Projekt „Nordrhein-Westfalen – hier hat alt werden Zukunft“ - Kenntnis genommen
+- TOP 11.3.3: Abschlussbericht Projekt Bildungskoordination für Neuzugewanderte (Projektende 30.06.2021) - Kenntnis genommen
+- TOP 11.3.4: Realisierbarkeit von Quartiersgaragen und eines zugehörigen Masterplans - Kenntnis genommen
+- TOP 11.3.5: Umsetzung des Bundesprogramms "Aufholen nach Corona für Kinder und Jugendliche" durch die Stadt Köln - Kenntnis genommen
+- TOP 11.3.6: Petershof in Köln-Müngersorf - Kenntnis genommen
+- TOP 11.3.7: Wahl der Seniorenvertretung Köln 2021: Informationsquellen und Termine - Kenntnis genommen
+- TOP 11.3.8: House of Resources in Köln - Kenntnis genommen
+- TOP 11.3.9: Gewässerunterhaltungsplan 2021/2022 - Kenntnis genommen
+- TOP 11.3.10: Ausweitung der Abstellverbotszonen und festen Rückgabeorte für E-Scooter - Kenntnis genommen
+- TOP 11.3.11: Multilingualität von Anfang an - Übersicht Mehrsprachige Angebote in Köln - Kenntnis genommen
+- TOP 11.3.12: Stadtbahnvorhaben Köln - Niederaußem - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
