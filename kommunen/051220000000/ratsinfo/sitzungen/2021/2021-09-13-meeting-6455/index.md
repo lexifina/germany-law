@@ -1,0 +1,71 @@
+# Bezirksvertretung Ohligs/Aufderhöhe/Merscheid (6. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-09-13T17:00:00+02:00
+- Ende: 2021-09-13T19:55:00+02:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-92
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZa2DqT_g42X-y1l0jZW1bao
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6455
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVcerlDWrjtwB1CXhtvUKR2K0OBelfrO7CvKjQBj6rap/Bekanntmachung_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_13.09.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV20MH9lX20omt08Jy53Rmnm4lLjbl1Ijo6ZoAqxuMxi/Oeffentliche_Niederschrift_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_13.09.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Einwohnerfragestunde
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Outdoor Fitnesspark Engelberger Hof
+- TOP 1.2: Fahrradabstellplätze an der neuen Sparkassenfiliale
+- TOP 1.3: Sachstand Fahrrdboxen und Ladestationen im Stadtbezirk
+- TOP 1.4: Gehweg im Bereich Heiligenstock Anfrage der CDU-Bezirksfraktion
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Protokoll über die 5. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 14.06.2021
+- TOP 3.: Neuwahl des/der 2. stellvertretenden Bezirksbürgermeister/Bezirksbürgermeisterin Gem. Antrag der Bezirksfraktionen der SPD, Bündnis 90/Die Grünen und DIE LINKE
+- TOP 4.: Besetzung der Grün- und Wegekommission
+- TOP 5.: Festhalle Ohligs Antrag der CDU-Bezirksfraktion vom 29.07.2021
+- TOP 6.: Anregung nach § 24 Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) Festhalle Ohligs
+- TOP 7.: Umgestaltung Ohligser Marktplatz
+- TOP 8.: Bodenhülse für Weihnachts- oder Maibaum auf Ohligser Marktplatz Antrag der CDU-Bezirksfraktion vom 30.08.2021
+- TOP 9.: Bauleitplanung Nördliche Hackhauser Straße
+- TOP 10.: Bushaltestelle Scheffelstraße – 691 – St. Lukas Klinik Antrag der CDU-Bezirksfraktion vom 16.06.2021
+- TOP 10.1: Bushaltestelle Scheffelstraße - 691 St. Lukas Klinik
+- TOP 11.: Antrag zur Fällung von fünf Bäumen an der Feuer- und Rettungswache Brunnenstraße
+- TOP 12.: Autoposer im Stadtbezirk Antrag der CDU-Bezirksfraktion vom 30.08.2021
+- TOP 13.: Geschwindigkeitsproblematik Herman-Löns-Weg/Teichstraße Antrag der CDU-Bezirksfraktion vom 21.06.2021
+- TOP 14.: Bürgerbüro Ohligs Antrag der CDU-Bezirksfraktion vom 29.07.2021
+- TOP 15.: Öffentliche Toiletten im Innenstadtbereich Solingen-Ohligs Gem. Antrag der Bezirksfraktionen der SPD und Bündnis 90/Die Grünen vom 18.08.2021
+- TOP 16.: Naturdenkmäler
+- TOP 17.: Freie Budgetmittel
+- TOP 17.1: Freie Budgetmittel
+- TOP 18.: Verschiedenes
+- TOP 18.1: Mitteilungen der Verwaltung
+- TOP 18.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen Ohligs/Aufderhöhe/Merscheid
+- TOP 18.1.2: Integrierte Stadtteilentwicklungskonzepte Ohligs, City, Burg und Wald – Erhalt Zuwendungsbescheide und Sachstand
+- TOP 18.1.3: Integriertes Stadtteilentwicklungskonzept Ohligs - Vorentwurfsplanung für die Um-gestaltung des Vorplatzes am östlichen Bahnhofausgang und Aufwertung Zugangs-bauwerk– Sachstand und nächste Schritte
+- TOP 18.1.4: Beschlusskontrolle der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid
+- TOP 18.1.5: Verkehrssituation auf der Laibacher Straße
+- TOP 18.1.6: Baumpflanzungen auf der Mankhauser Straße
+- TOP 18.1.7: Begrünung Talstraße
+- TOP 18.2: Anfragen an die Verwaltung
+- TOP 18.2.1: Geschwindigkeitsmessungen auf der Kottendorfer Straße
+- TOP 18.2.2: Eröffnung der Mediathek der Geschwister-Scholl-Gesamtschule
+- TOP 18.2.3: Gestaltung des Tunnels am Hauptbahnhof
+- TOP 18.2.4: Umweltverbesserungen im Gewerbegebiet Monhofer Feld
+- TOP 18.2.5: Auslastung privater Parkhäuser
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4.: Protokoll über die 5. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 14.06.2021
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.1.1: Festhalle Ohligs
+- TOP 5.2: Anfragen an die Verwaltung
