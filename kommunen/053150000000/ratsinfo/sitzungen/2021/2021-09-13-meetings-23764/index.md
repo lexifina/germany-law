@@ -1,0 +1,58 @@
+# 4. Sitzung des Ausschusses für Gleichstellung von Frauen und Männern
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-13T17:04:00+02:00
+- Ende: 2021-09-13T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/176
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23764
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23764
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Einwohner*innen und Bürger*innen
+- TOP -: B Vortrag zur Situation von Frauen in Afghanistan, Helena Haack, medica mondiale e.V.
+- TOP -: C "Informationen und Anmerkungen zum Thema Mädchenarbeit" - ein Vortrag von Sabine Osbelt, LOBBY FÜR MÄDCHEN e.V., Pädagogische Leitung)
+- TOP 1: Schriftliche Anfragen und deren Beantwortung
+- TOP 1.1: Antwort der Verwaltung zur Anfrage AN/1437/2021 der SPD-Fraktion betreffend „Homeoffice in der Coronapandemie: Auswirkungen auf die Gleichstellung?“ aus der Sitzung vom 21. Juni 2021 - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Therapiekonzepte für Frauen mit sexualisierter Gewalterfahrung" - zurückgestellt
+- TOP 1.3: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Gleichheitsgrundsatz bei städtischen Toilettenanlagen" - zurückgestellt
+- TOP 1.4: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Aufstellung Toilettenhäuschen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 1.5: Anfrage der AfD-Fraktion betreffend "Gleichstellung bei Toilettengebühren" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 1.6: Anfrage der SPD-Fraktion betreffend "Könnten kostenlose Unisex-Toiletten die Kölner "Toilettenungleichheit“ entschärfen?" - zurückgestellt
+- TOP 1.7: Anfrage der AfD-Fraktion betreffend "Umsetzung des Konzeptes: Kostenlose Menstruationsartikel an Kölner Schulen und städtischen Gebäuden" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 1.8: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Beurlaubte und Wiedereinstieg" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 1.9: Anfrage der FDP-Fraktion betreffend "Sexistische Bedrohung und Gewalt im Netz" - zurückgestellt
+- TOP 1.10: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betreffend "Geschlechtsspezifische Verteilung von Wickel-Möglichkeiten in öffentlichen Gebäuden" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 1.11: Anfrage der Fraktionen Bündnis 90/Die Grünen und CDU betreffend "Planbarkeit eines KiTa-Platzes" - zurückgestellt
+- TOP 2: Allgemeine Vorlagen
+- TOP 2.1: Abschlussbericht zum 1. Kölner Gleichstellungsaktionsplan im Rahmen der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene - ungeändert beschlossen
+- TOP 2.2: Stellenplan für das Jahr 2022 - ohne Votum in nachfolgende Gremien
+- TOP 2.3: Stellenplan 2022 der Gebäudewirtschaft der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 2.4: Stellenplan des Gürzenich-Orchesters der Stadt Köln für das Kalenderjahr 2022 - ohne Votum in nachfolgende Gremien
+- TOP 2.5: Stellenplan des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln für das Jahr 2022 - ohne Votum in nachfolgende Gremien
+- TOP 2.6: Stellenplan der Bühnen der Stadt Köln für das Kalenderjahr 2022 - ohne Votum in nachfolgende Gremien
+- TOP 3: Anträge
+- TOP 3.1: Antrag der SPD-Fraktion betreffend "Else-Falk-Preis jährlich verleihen!" - zurückgestellt
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: 2. Coronabericht - Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - Kenntnis genommen
+- TOP 4.2: Geschlechterdifferenzierter Bericht über Stellenhebungen und -abwertungen zum Stellenplan 2022 - Kenntnis genommen
+- TOP 4.3: Sechstes Cross-Mentoring-Projekt - Kenntnis genommen
+- TOP 4.4: Erster Jahresbericht zur Zertifizierung der Stadt Köln als familienfreundliches Unternehmen - Kenntnis genommen
+- TOP 4.5: Strategiepapier zu Führen in Teilzeit - Kenntnis genommen
+- TOP 4.6: Weltmädchen-Tag 2021 - Kenntnis genommen
+- TOP 4.7: Else-Falk-Preis 2022 - Kenntnis genommen
+- TOP 4.8: Orange Days 2021 - Kenntnis genommen
+- TOP 4.9: 2. Auflage: Broschüre des Diversity-Netzwerks der Kommunal- und Landesverwaltungen - Kenntnis genommen
+- TOP 4.10: Bericht über die inhaltliche Arbeit und Information zum Ende der Förderung des Kompetenzzentrums Frau und Beruf Region Köln (Competentia NRW) - Kenntnis genommen
+- TOP 5: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 6: Mündliche Anfragen
+- TOP 6.1: Beantwortung einer mündlichen Anfrage von Dr. Marita Alami aus der Sitzung des Gleichstellungsausschusses am 21. Juni 2021 zu "Sachstand der Aktualisierung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen" - Kenntnis genommen
+- TOP 6.2: Beantwortung einer mündlichen Anfrage zum Projekt: (Post)koloniales Erbe der Stadt Köln - Kenntnis genommen
