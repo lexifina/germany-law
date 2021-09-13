@@ -1,0 +1,88 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-13T14:38:00+02:00
+- Ende: 2021-09-13T15:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23728
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23728
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: 32. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.05.2021 - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.06.2021 - Kenntnis genommen
+- TOP 2.5: Refinanzierung der Ausbildung von Notfallsanitäter*innen durch die Leistungserbringenden im Rettungsdienst Köln - Kenntnis genommen
+- TOP 2.6: Auswirkungen des Unwetters auf Köln, hier: Anfrage der Fraktion Bündnis 90 / Die Grünen, der CDU-Fraktion und der Volt-Fraktion zur Sitzung des Hauptausschusses am 23.8.2021, AN/1561/2021 - Kenntnis genommen
+- TOP 2.7: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.07.2021 - Kenntnis genommen
+- TOP 2.8: 33. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.9: Bauliche Herrichtung der ehemaligen Sendezentrale des WDR auf dem Grundstück Hitzelerstr. 125 zu Wohnraumzwecken - Kenntnis genommen
+- TOP 2.10: Abschluss des Nachprüfungsverfahrens zur Direktvergabe an die KVB AG - Kenntnis genommen
+- TOP 2.11: Haushaltswirtschaftliche Auswirkung des Beschlusses des Bundesverfassungsgerichts zur Verfassungswidrigkeit der Höhe der Nachzahlungs- und Erstattungszinsen zur Gewerbe-, Umsatz-, Einkommen- und Körperschaftsteuer nach §§ 233a und 238 der Abgabenordn - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2020/21 gemäß § 83 Abs. 1 u. § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020/21 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Haushaltsrechtliche Unterrichtung des Rates gemäß §25 KomHVO über eine Kostensteigerung bei der Sanierung des Rheinparkcafés sowie Antrag auf Bereitstellung einer überplanmäßigen Auszahlung - Kenntnis genommen
+- TOP 6.3: Entwurf des Gesamtabschlusses 2018 - Kenntnis genommen
+- TOP 6.4: Bericht über die finanzielle Lage nach § 2 Abs. 2 NKF-CIG - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Umgestaltung der Kreuzung Kalker Hauptstraße/Rolshover Straße/Kalk-Mülheimer Straße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-109 - zurückgestellt
+- TOP 7.2: Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601- - zurückgestellt
+- TOP 7.3: Baubeschluss für die Generalinstandsetzung der Ackerstraße sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Sanierungskonzept, Nutzungskonzept und Betreiberkonzept für das Umweltbildungszentrum Gut Leidenhausen - Planungsbeschluss - ungeändert beschlossen
+- TOP 10.2: Modellhafte Öffnung ausgewählter Schulhöfe als Spiel-, Sport- und Bewegungsräume für Kinder, Jugendliche und Erwachsene - ungeändert beschlossen
+- TOP 10.3: Zentralarchiv für deutsche und internationale Kunstmarktforschung ZADIK - Fördervertrag Mietkostenzuschuss - ungeändert beschlossen
+- TOP 10.4: Leitbild für Kulturelle Teilhabe und Vielfalt - ungeändert beschlossen
+- TOP 10.5: Wirtschaftsplan der Bühnen der Stadt Köln für die Spielzeit 2021/22 - ungeändert beschlossen
+- TOP 10.6: Ombudsstelle für Geflüchtete in Köln - Verlängerung der Befristung bis Ende 2023 - ungeändert beschlossen
+- TOP 10.7: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: Dokumentation, Digitalisierung und Veröffentlichung des Bestandes für unterschiedliche Zielgruppen - ungeändert beschlossen
+- TOP 10.8: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung für das Museum Ludwig - ungeändert beschlossen
+- TOP 10.9: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung, hier: Kunst im öffentlichen Raum II: Digitaler Skulpturenrundgang - ungeändert beschlossen
+- TOP 10.10: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Bildende Kunst: Schaffung zusätzlicher Atelierräume - ungeändert beschlossen
+- TOP 10.11: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 10.12: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - zurückgestellt
+- TOP 10.13: Verwendung von Mitteln aus der Kulturförderabgabe zwecks Förderung von Projekten der Kreativwirtschaft - ungeändert beschlossen
+- TOP 10.13.1: TOP 10.13 Verwendung von Mitteln aus der Kulturförderabgabe zwecks Förderung von Projekten der Kreativwirtschaft - endgültig abgelehnt
+- TOP 10.14: Mindeststandards zur Unterbringung und Betreuung Geflüchteter - Verlängerung Maßnahmen vom 01.01.2022 bis 31.12.2023 - ungeändert beschlossen
+- TOP 10.15: Fortsetzung der Maßnahme „Willkommen und Ankommen in Köln“ für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 10.16: Neubau eines Brunnens am Neumarkt - Baubeschluss - ungeändert beschlossen
+- TOP 10.17: Planungs- und Bedarfsfeststellungsbeschluss für die Vergabe der weiteren externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme „Vierspuriger Ausbau der Frankfurter Straße zwischen der Theodor-Heuss-Str - zurückgestellt
+- TOP 10.18: Schulrechtliche Änderung der Grundschulen Ernst-Moritz-Arndt-Schule, EGS Mainstraße 75, 50996 Köln, Albert-Schweitzer-Grundschule, GGS Zum Hedelsberg 13, 50999 Köln und Brüder-Grimm-Schule, GGS Sürther Hauptstraße 149, 50999 Köln zum Schuljahr 22/23 - ungeändert beschlossen
+- TOP 10.19: GAG Immobilien AG: Satzungsänderung GAG Servicegesellschaft mbH: Änderung Gesellschaftsvertrag - ungeändert beschlossen
+- TOP 10.20: Einrichtungsbeschluss für den Neubau der EGS (Evangelische Grundschule) - Ernst-Moritz-Arndt-Schule - Sürther Str. 201 in 50999 Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 10.21: Einrichtungsbeschluss für den Erweiterungsbau Palmstraße für das Königin-Luise-Gymnasium, Alte Wallgasse 10 in 50672 Köln - ungeändert beschlossen
+- TOP 10.22: Einrichtungsbeschluss für den Neubau der integrierten Gesamtschule Innenstadt, Frankstraße 26 in 50676 Köln am Teilstandort Severinswall 40/40a in 50678 Köln - ungeändert beschlossen
+- TOP 10.23: Einrichtung des Erweiterungsbaus und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Hildegard-von-Bingen Gymnasiums, Leybergstr. 1, 50939 Köln - Sülz im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2022. - ungeändert beschlossen
+- TOP 10.24: Feuerwehrsatzungen - ungeändert beschlossen
+- TOP 10.25: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - ungeändert beschlossen
+- TOP 10.26: Jahresabschluss 2020 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.27: Kostenfortschreibung zum Schaugewächshaus und der Orangerie im Botanischen Garten Köln, Amsterdamer Str.34, 50735 Köln - ungeändert beschlossen
+- TOP 10.28: Sanierung der Bühnen am Offenbachplatz, Erweiterung der Verpflichtungs- und Kreditermächtigungen - ungeändert beschlossen
+- TOP 10.29: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene, hier: 2. Vorhaben 2021 - ungeändert beschlossen
+- TOP 10.30: Bedarfsfeststellung zur Ersatz- und Neubeschaffung von insgesamt 85 Standardrettungswagen und Abschluss eines Vier-Jahres-Rahmenliefervertrages - ungeändert beschlossen
+- TOP 10.31: Vergabe der Strukturförderung im Filmbereich, Haushaltsjahre 2022 bis 2025 - ungeändert beschlossen
+- TOP 10.32: Verlängerung der Institutionellen Förderung WEEK-END Fest 2022 - ungeändert beschlossen
+- TOP 10.33: Wirtschaftsplan des Gürzenich-Orchester Köln | Wirtschaftsjahr 2021/22 - ungeändert beschlossen
+- TOP 10.34: Wirtschaftsplan des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln für das Wirtschaftsjahr 2021 - ungeändert beschlossen
+- TOP 10.35: Sportanlage Kapellenstraße in Köln-Rondorf - ungeändert beschlossen
+- TOP 10.36: KölnBäder GmbH: Verlängerung des Prüfungsmandates zur Jahresabschlussprüfung - ungeändert beschlossen
+- TOP 10.37: Dachsanierung des Wallraf-Richartz-Museums & Fondation Corboud, hier: Bedarfsfeststellungs-, Planungs- und Baubeschluss - ungeändert beschlossen
+- TOP 10.38: Bedarfsfeststellungs- und Planungsbeschluss von nutzungsunabhängigen Sicherungsmaßnahmen der Hallen Kalk, Hallen 76 und 77 – Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.39: Sanierung und Optimierung des Fotoarchivs und der Depotflächen auf der Ebene 5.0 im Rautenstrauch-Joest-Museum hier: Bedarfsfeststellungs- und Planungsbeschluss - ungeändert beschlossen
+- TOP 10.40: Verausgabung Restmittel der Corona-Sonderförderung - ungeändert beschlossen
+- TOP 10.41: Antrag AN/1160/2021 der Bezirksvertretung Kalk zur Verstetigung von Förderungen - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
