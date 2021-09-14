@@ -1,0 +1,53 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-09-14T17:04:00+02:00
+- Ende: 2021-09-14T20:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12127
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12127
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00490001.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Vergabe von Zuschüssen zu privaten denkmalpflegerischen Maßnahmen - einstimmig beschlossen
+- TOP 5: Berichte
+- TOP 5.1: Grünanlagen Aasee, Sanierung von Wegen und sonstigen Einrichtungen - zur Kenntnis genommen
+- TOP 5.2: Bauleitplanung - Grundlagen, Verfahrensabläufe - zur Kenntnis genommen
+- TOP 5.3: Rechts- und Linksabbiegerseparierung LSA Aegidiitor Umsetzung der Baubeschlüsse der Unfallkommssion - zur Kenntnis genommen
+- TOP 5.4: Antoniuskirchplatz - PKW-Wende - zur Kenntnis genommen
+- TOP 5.5: Kindertagesbetreuungsbericht 2021 - zur Kenntnis genommen
+- TOP 6: Anhörungen
+- TOP 6.1: Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
+- TOP 6.2: Fahrradtauglicher Ausbau der Betriebswege am Dortmund-Ems-Kanal (DEK): Kanalpromenade - - einstimmig beschlossen
+- TOP 6.3: 4. Münsteraner Kinder- und Jugendförderplan 2021-2025 - einstimmig beschlossen
+- TOP 6.4: Nachfolgenutzung der Räume der ehemaligen Kita der Elterninitiative „Die Kanalhaie e.V.“ am Düesbergweg im Wohnbereich Düesberg im Bezirk Mitte-Süd - einstimmig beschlossen
+- TOP 6.5: Trägerschaft der betrieblichen Kindertageseinrichtung der Westfälischen Wilhelms-Universität - einstimmig beschlossen
+- TOP 6.6: Kommunale Sportförderung: Zuschüsse für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 6.7: Erweiterung der Thomas-Morus-Schule zur vollen Vierzügigkeit und Ergänzung um eine weitere Einfachsporthalle -Baubeschluss- - einstimmig beschlossen
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 7.1: Autoarmes Südviertel - eingebracht
+- TOP 7.2: Versetzung des Mülleimers an der Süd-West-Ecke des Hansaplatzes - Stellungnahme zur Kenntnis genommen
+- TOP 7.3: Neugestaltung des Hansaplatzes - Zwischenmitteilung zur Kenntnis genommen
+- TOP 7.4: Aufstellung von Hundebeutelstationen grundsätzlich mit Mülleimer - eingebracht
+- TOP 7.5: Verkehrssituation Am Breul - eingebracht
+- TOP 7.6: Dachbegrünung Buswartehäuschen - eingebracht
+- TOP 7.7: Aufenthaltsqualität im Südviertel steigern - eingebracht
+- TOP 7.8: Überarbeitung Aasee Wegekonzept - eingebracht
+- TOP 7.9: Erhöhung der Verkehrssicherheit an der Mauritzstraße / Ecke Sonnenstraße - eingebracht
+- TOP 7.10: Parkplatz- und Verkehrssituation am Alten Fischmarkt - eingebracht
+- TOP 7.11: Luftfilter in Grundschulen des Stadtbezirks - beantwortet
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Fußweg zwischen Sportanlage Aaseestadt und Polizei-Fortbildungsinstitut durch Aufbringung eines neuen Belages erneuern bzw. ausbessern und Beleuchtungssituation überprüfen - zur Kenntnis genommen
+- TOP 8.2: Zusätzliche Fahrradständer und eine bessere Beleuchtung - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
