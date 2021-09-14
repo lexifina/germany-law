@@ -53,7 +53,7 @@
 - [§ 33 Werbung](0033.md)
 - [§ 34 Anzeigepflichten von Verwaltungsgesellschaften gegenüber der Bundesanstalt und der Bundesbank](0034.md)
 - [§ 35 Meldepflichten von AIF-Verwaltungsgesellschaften](0035.md)
-- [§ 36 Auslagerung](0036.md)
+- [§ 36 Auslagerung; Verordnungsermächtigung](0036.md)
 - [§ 37 Vergütungssysteme; Verordnungsermächtigung](0037.md)
 - [§ 38 Jahresabschluss, Lagebericht, Prüfungsbericht und Abschlussprüfer der externen Kapitalverwaltungsgesellschaft; Verordnungsermächtigung](0038.md)
 

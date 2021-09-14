@@ -10,7 +10,7 @@
 ## Abschnitt 2 Klimaschutzziele und Jahresemissionsmengen
 
 - [§ 3 Nationale Klimaschutzziele](0003.md)
-- [§ 3a Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaf](0003a.md)
+- [§ 3a Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft](0003a.md)
 - [§ 4 Zulässige Jahresemissionsmengen und jährliche Minderungsziele, Verordnungsermächtigung](0004.md)
 - [§ 5 Emissionsdaten, Verordnungsermächtigung](0005.md)
 - [§ 6 Bußgeldvorschriften](0006.md)
