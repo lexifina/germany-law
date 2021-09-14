@@ -1,0 +1,51 @@
+# 6. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-09-14T17:06:00+02:00
+- Ende: 2021-09-14T20:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/91
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12390
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12390
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00491676.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gem. § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anfragen
+- TOP 3.1: Wirtschaftswege in Sprakel - eingebracht
+- TOP 3.2: Meerwiese - Zwischenmitteilung zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Runder Tisch Wilkinghege - Zwischenmitteilung zur Kenntnis genommen
+- TOP 4.2: Baumfällungen im Bereich Edelbach - Zwischenmitteilung zur Kenntnis genommen
+- TOP 4.3: Sportangebot im Stadtbezirk Münster-Nord - zur Kenntnis genommen
+- TOP 4.4: Fortschreibung der kleinräumigen Bevölkerungsprognose (KBP) 2019-2030 - zur Kenntnis genommen
+- TOP 4.5: Kindertagesbetreuungsbericht 2021 - zur Kenntnis genommen
+- TOP 4.6: Maßnahmenprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2019 - zur Kenntnis genommen
+- TOP 4.7: Anhörungsbeschlüsse der letzten Sitzung/en - zur Kenntnis genommen
+- TOP 5: Anhörungen
+- TOP 5.1: Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
+- TOP 5.2: MünsterZukünfte 20|30|50: Zentrale Ergebnisse und weiteres Vorgehen - einstimmig beschlossen
+- TOP 5.3: Vorhabenbezogene 2. Änderung des Bebauungsplans Nr. 134 Teilabschnitt II: Coerde - Kiesekampweg - Neufassung [Wohnquartier] - vertagt
+- TOP 5.4: Fahrradtauglicher Ausbau der Betriebswege am Dortmund-Ems-Kanal (DEK): Kanalpromenade - - einstimmig beschlossen
+- TOP 5.5: 4. Münsteraner Kinder- und Jugendförderplan 2021-2025 - einstimmig beschlossen
+- TOP 5.6: Überleitung der außerunterrichtlichen Angebote (OGS) an der Grundschule am Kinderbach - einstimmig beschlossen
+- TOP 5.7: Kommunale Sportförderung: Zuschüsse für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 6: Entscheidungen
+- TOP 6.1: Bestellung einer Schriftführung und Stellvertretung für die Sitzungen der Bezirksvertretung Münster-Nord - einstimmig beschlossen
+- TOP 7: Anregungen/Anträge
+- TOP 7.1: Polizeistation Münster Nord - mehrheitlich abgelehnt
+- TOP 7.2: Querungshilfe Hoher Heckenweg - einstimmig beschlossen
+- TOP 7.3: Verkehrsberuhigung Rektoratsweg - eingebracht
+- TOP 7.4: Abriss der Fußgängerbrücke über die Brüningheide - vertagt
+- TOP 7.5: Verbesserung des Radverkehrs an der Grevener Straße - einstimmig beschlossen
+- TOP 7.6: Holzskulptur aus dem Kletterbaum in Coerde zum Kunstwerk gestalten - zur Kenntnis genommen
+- TOP 7.7: Verkehrssicherheit vom Bernd-Feldhaus-Platz zum Kunstrasenplatz sicherer gestalten - eingebracht
+- TOP 8: Stellungnahmen der Verwaltung zu Anträgen und Anregungen der Bezirksvertretung
+- TOP 9: Stellungnahmen der Verwaltung zu Anfragen von Mitgliedern der Bezirksvertretung
+- TOP 10: Verschiedenes
