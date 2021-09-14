@@ -1,0 +1,95 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-14T17:00:00+02:00
+- Ende: 2021-09-14T20:30:00+02:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula)
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20422
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20422
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentlichen digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422540.pdf
+- Ergebnisprotokoll: öffentlichen digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422540.pdf
+- Wortprotokoll: öffentlichen digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422540.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 31.08.2021 eingegangene Fragen - vertagt
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 22.06.2021 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Bebauungsplan-Vorentwurf Nr. 07/007 - Glasmacherviertel - Weiteres Vorgehen - Empfehlung einstimmig beschlossen
+- TOP 4.3: Städtebaulicher Wettbewerb Nr. 02/013 - Metro Campus - Empfehlung einstimmig beschlossen
+- TOP 4.4: Neubau eines Hauses für Kinder, Jugendliche und Familien, Radeberger Straße, Stadtbezirk 7 (Ausführungs- und Finanzierungsbeschluss) - zur Kenntnis genommen
+- TOP 4.5: Kölner Tor 30 - Beseitigung eines Gebäudes mit Ladenlokal, der rückwärtigen Lagerflächen und Atelier im Bereich einer Erhaltungssatzung - - einstimmig beschlossen
+- TOP 4.6: Nachtigallstraße 5a - Beseitigung einer Lagerhalle im Bereich einer Erhaltungssatzung - - einstimmig beschlossen
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - abweichend beschlossen
+- TOP 4.11: Der Klimawandel hat Auswirkungen auf die Bäume – Bedeutung und Konsequenz für den Baumbestand in der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 4.12: Verwendung von Haushaltsmitteln - Genehmigung von Dringlichkeitsentscheidungen - - einstimmig beschlossen
+- TOP 4.13: Straßenbenennung "Karl-Ludwig-Resch-Weg" - einstimmig beschlossen
+- TOP 4.14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2021) - abweichend beschlossen
+- TOP 4.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2021 - einstimmig beschlossen
+- TOP 4.16: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tempo 30 Zone Wittelsbachstraße / Hardtstraße - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Radfahren entgegen Einbahnstraße in der Geibelstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.5: Einrichtung eines Parkplatzes Ludenberger Straße 64 - 88 - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.6: Maßnahmen zum Verkehrsmanagement in der Hardtstraße nach Wohnraumverdichtung in der Ludenberger Str. 15 und 17 - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Aufstellungsfläche zu E-Scooter - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 5.10: Versammlung zwischen Betroffene der Hochwasserkatastrophe und Verwaltung - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13: Verbesserungen an der geplanten Fahrradstraße Gutenbergstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich abgelehnt
+- TOP 5.14: Verbesserungen an vorhandenem Bolzplatz Ludenberger Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.15: Durchfahrt Anliegerstraße Hallesche Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 5.16: GAT Bergische Landstraße - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.17: Zebrastreifen Schulweg „KGS Unter den Eichen“ - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.18: E-Scooter - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Parkplätze Quellenbusch - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 6.5: Warnampel Gleisüberquerung Am Wallgraben/Haltestelle „Gerresheim Rathaus“ - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Sirenenwarnsystem im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Sitzungstermine der Bezirksvertretung 7 im Jahr 2022 - zur Kenntnis genommen
+- TOP 7.2: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 7.3: Geschwindigkeitsanzeigentafel Hardtstraße - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 7.4: Vergrößerung der Baumscheiben von Straßenbäumen - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 7.5: Aufwertung der Bolzplätze Eisenacher Weg/Weimarer Weg - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 7.6: Zustand des Stadtwalds im Stadtbezirk 7 und alternative Moutain-Bike Strecke - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 7.7: Baumpflanzungen im Rahmen des "Stadtbaumkonzeptes" - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 7.8: Vortrag zur Veloroute "Nord-Süd, Route Ost" - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 7.9: Bücherschrank Apostelplatz - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 7.10: Abfallbehälter am Neusser Tor - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 7.11: Recyclinghof - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 7.12: Neues Spielhaus auf Spielplatz an der Düssel - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 7.13: Weg entlang Pillebach (von Kleineforstweg bis Am Backesberg) - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 7.14: Metzkauser Straße - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 7.15: Fahrradfreundliche Gleise für die Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 7.16: Öffnung von Einbahnstraßen für den Radverkehr, hier: Speestraße - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - zur Kenntnis genommen
+- TOP 7.17: Instandsetzung Bürgersteig Katharinenstraße - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 7.18: Situation für Radfahrer Diepenstraße/Dreherstraße verbessern - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 7.19: Umstellung von Parkbänken am Wallgraben und Austausch der Abfallbehälter - Informationsvorlage zum Beschluss der BV 7 vom 10.11.2020 - - zur Kenntnis genommen
+- TOP 7.20: "Essbare Stadt" bei Spielplatzgestaltungen mitberücksichtigen - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 7.21: "Runder Tisch Elterntaxis" - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 7.22: Baumpflanzungen am Gerresheimer Friedhof - Informationsvorlagen zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 7.23: Blühwiesen - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
