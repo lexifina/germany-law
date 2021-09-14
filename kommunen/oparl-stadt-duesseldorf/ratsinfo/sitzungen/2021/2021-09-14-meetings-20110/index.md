@@ -1,0 +1,59 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-14T17:00:00+02:00
+- Ende: 2021-09-14T20:45:00+02:00
+- Ort: Achtung: Geänderter Sitzungsort !! Aula der Montessori Grundschule, Emil-Barth-Straße 45, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20110
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20110
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422508.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422508.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00422508.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Unterstützung regenerativer Energien, Einsatzmöglichkeiten von Photovoltaik-Anlagen, Energieverbrauch im Stadtbezirk 10 sowie Vorstellung des Konzeptes "Klimafreundliches Wohnen und Arbeiten in Düsseldorf" Berichterstattung - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Garath 2.0 - Maßnahmenliste zur Fortschreibung im Rahmen des Städtebauförderprogramms Sozialer Zusammenhalt - - einstimmig beschlossen
+- TOP 4.4: Garath 2.0 - Ratgeber für Gestaltungen in Garath - mehrheitlich beschlossen
+- TOP 4.5: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - abweichend beschlossen
+- TOP 4.6: Bezirklicher Bauunterhalt 2021 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste A, Haushalt 20212021 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der BV 10, Zuschuss an die GGS Adam-Stegerwald-Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der BV 10, Zuschuss für die Ausrichtung eines Festes für die Mitarbeiter*innen des Bezirkssozialdienstes Garath, Hellerhof - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Erteilung von Abgeschlossenheitsbescheinigungen nach dem Wohnungseigentums-gesetzes (WEG) für Garath - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Hochwasserlage im Stadtbezirk 10 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Aktuelle Daten zur sozialen Lage in Garath - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Sachstand Parkplätze Apollonia an der Rostocker Straße - Anfrage der Fraktion BÜ90/DIE GRÜNEN -- - vertagt
+- TOP 6.5: Leerstand Hotel Achteck/Octagon - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Alternativstandort für den Recyclinghof Garath - Antrag der CDU-Fraktion und der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Taktverdichtung der Buslinie 789 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Überarbeitung der Planung für den Radschnellweg / Interimslösung für Schulwegsicherung - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.6: Klimaangepasste, attraktive Neugestaltung Nebenzentrum Waldviertel - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich beschlossen
+- TOP 7.7: Grundstück Buchholzer Busch, Baulandmobilisierungsgesetz zum Erhalt der Biodiversität in Garath klimagerecht nutzen - zurückgezogen
+- TOP 7.8: Entfernung von Überresten von Kaugummiautomaten und Zigarettenautomaten im Stadtbezirk 10 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Negativen Energiebilanz bei Gebäuden im Stadtbezirk 10 - Gebäude des Garather SV - Informationsvorlage zum Beschluss BV10/095/2021 vom 23.02.2021 - - zur Kenntnis genommen
+- TOP 8.2: Reisig-/Laubhaufen für Igel und Kleintiere in öffentlichen Anlagen, z.B. Grünanlagen, Sportplätzen, Schulen - Informationsvorlage zum Beschluss BV10/130/2021 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 8.3: Schulwegsicherung Rostocker Straße / Neustrelitzer Straße - Informationsvorlage zum Beschluss BV10/126/2021 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 8.4: Verkehrsregulierung auf dem Dammweg zwischen Hellerhof und Urdenbach - Informationsvorlage zum Beschluss BV10/120/2021 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 8.5: Errichtung einer Hundeauslauffläche in Hellerhof - Informationsvorlage zum Beschluss BV10/100/2021 vom 18.05.2021 - - zur Kenntnis genommen
+- TOP 8.6: Sanierung und Neubau von Wohnungen in Garath - Informationsvorlage zum Beschluss BV10/107/2021 vom 18.05.2021 - - zur Kenntnis genommen
+- TOP 9: Verschiedenes
