@@ -1,0 +1,83 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-09-14T16:00:00+02:00
+- Ende: 2021-09-14T20:15:00+02:00
+- Ort: Thomas-Edison-Realschule, Schlüterstraße 18-20, Pädagogisches Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20500
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20500
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Mitglieds der Bezirksvertretung
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift SI-BV2/005/2021 vom 22.06.2021 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 5: Vorstellung der amtlichen Kriminalstatistiken 2019 und 2020 für den Stadtbezirk 2 - mündlicher Bericht zum Beschluss der Bezirksvertretung 2, Vorlage - zur Kenntnis genommen
+- TOP 6: Bundesprogramm zur Anpassung urbaner Räume an den Klimawandel hier: Projekt "Stadt-Wald : Wald-Stadt" - Albertstraße - einstimmig beschlossen
+- TOP 7: Städtebaulicher Wettbewerb Nr. 02/013 - Metro Campus - mehrheitlich beschlossen
+- TOP 8: Flächennutzungsplanänderung Nr. 166 (Entwurf) - Grafental Ost - Empfehlung mehrheitlich beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - einstimmig beschlossen
+- TOP 14: Straßenbenennung Hedwig-Jung-Danielewicz-Straße - einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste A) - einstimmig beschlossen
+- TOP 16: Genehmigung einer Dringlichkeitsentscheidung - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste A) - einstimmig beschlossen
+- TOP 17: Genehmigung einer Dringlichkeitsentscheidung - Soforthilfe zur Beseitigung von Hochwasserschäden beim Deutscher Sportclub Düsseldorf e.V. - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 18: Beleuchtung Weg an der Düssel - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 19: Kreisverkehr Bruchstraße - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 20: Querparken Kleinstfahrzeuge - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 21: Verhinderung von parkenden Autos auf der Daelenstraße zur Beseitigung der Gefahrenstellen für Fußgänger*innen und spielende Kinder - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 22: Zuwendungsantrag BBK Kunstforum Düsseldorf - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 23: Bezirksbezogene Haushaltsmittel für das 50jährige Jubiläum des BBK - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 24: Zuwendung an den BBK zur Realisierung einer filmischen Dokumentation zu dessen 50. Jubiläum - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 25: Zuwendung an die Veranstaltung „Etienne Eben & Guests“ am 11.09.2021 im Café Kausal aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 26: Veranstaltung Etienne Eben & Guests - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 27: Themenbezogene Elternabende in der Brehmschule - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 28: Förderung von thematischen Elternabenden im Rahmen von Schulsozialarbeit an der Brehmschule aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 29: Aufstellung eines Offenen Bücherschranks am Hermannplatz - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 30: Toilettenanlage für den Zoopark - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 31: Vorstellung des Handlungskonzeptes E-Mobilität - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 32: Fußgängerschutz Lindemannstraße - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 33: Parkplätze Mülheimer Straße - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 34: Hochwasserschäden im Stadtbezirk 2 - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 35: Prüfung sicherer Schulwege zur Brehmschule - Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 36: Schaukelaustausch auf dem Spielplatz Hansaplatz - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 39: Bauvorhaben Otto-Petersen-Straße 40,42 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42: Ortsumgehung Flingern - Anfrage der FDP-Fraktion - beantwortet
+- TOP 43: Sicherung der Qualität von Sanierungsmaßnahmen für Radwege im Stadtbezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Untervermietungen auf der Kiefernstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 47: Kosten und Einnahmen Anwohnerparkausweiszonen - Anfrage der FDP-Fraktion
+- TOP 48: Nachpflanzung von geeigneten, schattenspendenden Bäumen auf der Kühlwetterstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 49: Zufahrt zum Recyclinghof Flingern nach dem Neubau der Müllverbrennungsanlage - Anfrage der CDU-Fraktion
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 52: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 53: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 54: Anlage von Blühstreifen im Stadtbezirk 2 - zur Kenntnis genommen
+- TOP 55: Sitzbänke am neu gestalteten Plätzchen mit Baumscheibe im Kreuzungsbereich Beethoven-, Acker- und Lindenstraße zwischen Beethoven- und Lindenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/119/2021 - zur Kenntnis genommen
+- TOP 56: Ausstattung des Spielplatzes am Edisonplatz für Kleinkinder - Beschluss der Bezirksvertretung 2, Vorlage BV 2/118/2021 - zur Kenntnis genommen
+- TOP 57: Fußgängerüberwege in Grafental - Beschluss der Bezirksvertretung 2, Vorlage BV2/149/2021 - zur Kenntnis genommen
+- TOP 58: Bewohnerparkausweiszonen - Beschluss der Bezirksvertretung 2, Vorlage BV2/093/2021 - zur Kenntnis genommen
+- TOP 59: Schallschutzwände Stadtwerkepark - Beschluss der Bezirksvertretung 2, Vorlage BV2/049/2021 - zur Kenntnis genommen
+- TOP 60: Erweiterung der Baumscheiben - Beschluss der Bezirksvertretung 2, Vorlage BV2/085/2021 - zur Kenntnis genommen
+- TOP 61: Umgesetzte und geplante Maßnahmen zum Ausbau des Radhauptwegenetz im Stadtbezirk - Beschluss der Bezirksvertretung 2, Vorlage BV2/188/2020 - zur Kenntnis genommen
+- TOP 62: Sonnenschutz für den Wasserspielplatz in Grafental - Beschluss der Bezirksvertretung 2, Vorlage BV2/148/2021 - zur Kenntnis genommen
+- TOP 63: Beschlusskontrolle der Bezirksvertretung - zur Kenntnis genommen
+- TOP 64: Sitzungstermine 2022 - zur Kenntnis genommen
