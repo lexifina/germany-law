@@ -1,0 +1,53 @@
+# BZA VI - Gnadental, Grimlinghausen, Erfttal
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-09-14T17:00:00+02:00
+- Ende: 2021-09-14T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/233
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5760
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5760
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00150641.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00150641.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00150641.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Verpflichtung sachkundige Bürger
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Bestellung einer Schriftführung und einer stellvertretenden Schriftführung - einstimmig zugestimmt
+- TOP 5: Einwohner*innenfragestunde
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 6: Gnadentaler Allee: Umgestaltung im Bereich der Sekundarschule Neuss - einstimmig zugestimmt
+- TOP 7: Goldregenweg und Haselweg: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP -: Anträge
+- TOP 8: Antrag der CDU-Mitglieder betr.: Aufwertung der Grünfläche des alten Schulhofes in Grimlinghausen - einstimmig zugestimmt
+- TOP 9: Antrag der CDU-Mitglieder betr.: Lückenschluss im Radwegenetz Bonner Straße in Grimlinghausen
+- TOP 10: Antrag der CDU-Mitglieder betr.: Grünpflege - einstimmig zugestimmt
+- TOP 11: Antrag der CDU-Mitglieder betr.: Maßnahmen zur Einhaltung der Tempo-30-Regel auf der Hüsenstraße - einstimmig zugestimmt
+- TOP 12: Antrag der CDU-Mitglieder betr.: Sachstandsbericht Basketballkörbe auf dem Bolzplatz Johanna-Etienne-Straße in Grimlinghausen
+- TOP 13: Antrag der CDU-Mitglieder betr.: Sachstandsbericht Ortsmittelpunkt Hüsenplatz
+- TOP 14: Antrag der CDU-Mitglieder betr.: Sachstandsbericht Umleitungsbeschilderung Bonner Straße - einstimmig zugestimmt
+- TOP 15: Antrag der CDU-Mitglieder betr.: Beschilderung Tempo 30 auf der Dunantstr. - beraten ohne Abstimmung
+- TOP 16: Antrag der CDU-Mitglieder betr.: Beschilderung Tempo 30 auf der Gnadentaler Allee
+- TOP 17: Antrag der CDU-Mitglieder betr.: Durchfahrtsverbot Grimlinghausen für LKW-Schwerlastverkehr
+- TOP 18: Antrag der Mitglieder der Kooperation betr.: Zebrastreifen Ecke Berghäuschensweg / Euskirchener Straße Erfttal - einstimmig zugestimmt
+- TOP 19: Antrag der Mitglieder der Kooperation betr.: Müllsituation Strandabschnitt Grimlinghausen - einstimmig zugestimmt
+- TOP 20: Antrag der Mitglieder der Kooperation betr.: Lärmbelästigung durch Schwerlastverkehr an Bonner Straße und Kölner Straße - einstimmig zugestimmt
+- TOP 21: Antrag der Mitglieder der Kooperation betr.: Straße mit Vorrang für Fahrräder an den Ortsfahrbahnen des Berghäuschenswegs - einstimmig zugestimmt
+- TOP 22: Antrag der Mitglieder der Kooperation betr.: Parksituation Quinheimer Straße - beraten ohne Abstimmung
+- TOP 23: Antrag der Mitglieder der Kooperation betr.: Situation mit Anlieferfahrzeugen Derikumer Weg / Micro-Hub - einstimmig zugestimmt
+- TOP 24: Anregung zur Tagesordnung betr.: Abbau des Pflanzkastens im Einkaufszentrum in Gnadental - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+- TOP -: Mitteilungen der Verwaltung
+- TOP 25: Informationen der Verwaltung zu Angelegenheiten des Bezirks - zur Kenntnis genommen
+- TOP 26: Aufgaben des Beauftragten für Baukommunikation und -koordination - zur Kenntnis genommen
+- TOP 27: Friedhofsparkplatz an der Kita Entdeckerland, Volmerswerther Straße - zur Kenntnis genommen
+- TOP 28: Einwohner*innenfragestunde
