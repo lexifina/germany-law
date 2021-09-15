@@ -1,0 +1,108 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2021-09-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6285699
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6285699
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative „Klimastation“ Mobile Klimastation von August bis Oktober 1.960,90 € / Az. 0262.0-24-0370
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Zauberkunst" Online Zaubershow - "Die kleine Prinzessin" 4.450,00 € / Az. 0262.0-24-0366
+- TOP 2.3.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Feldmochinger Straße Einrichtung einer Schulbibliothek vom 14.09.2021 -31.07.2022 3.080,00€; Az. 0262.0-24-0365
+- TOP 2.4.: (E) Stadtbezirksbudget Kirchenverwaltung St. Christoph Kirchenführer alte und neue Kirche St. Christoph vom 16.08 -15.10.2021 2.000€; Az. 0262.0-24-0374
+- TOP 2.5.: (E) Stadtbezirksbudget Caritas Kulturtreff für Kinder- und Jugendliche Jump In Einkauf und Aufbau eines Klettergerüstes im Garten Mitte September/Oktober 2021 8.755,53€; Az. 0262.0-24-0375
+- TOP 2.6.: (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. Überbrückungsfinanzierung für die Quartiersentwicklung am Lerchenauer See zur Weiterführung von Arbeitsgruppen und Kleinprojekten vom 01.08.-31.12.2021 25.691,67 € / Az. 0262.0-24-0372
+- TOP 2.7.: (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. "Anschaffung eines Wärmebehälters für den Mittagstisch für Senior*innen am Lerchenauer See" 678,30 € / Az. 0262.0-24-0376
+- TOP 2.8.: (E) Stadtbezirksbudget mq18 Kunstplatz / Kulturraum e.V. "Kunstausstellung &#039;Geromita#1&#039; mit Rahmenprogramm vom 15.10.-12.12.2021" 3.000,00 € / Az. 0262.0-24-0377
+- TOP 2.9.: (E) Stadtbezirksbudget TSV 54 - DJK München e.V. "Anschaffung von Spiel- und Trainingsausstattung mit Flock für die Fußball-Herren" 730,00 € / Az. 0262.0-24-0378
+- TOP 3.1.: Sanierung der Außensportanlagen im 24. Stadtbezirk
+- TOP 3.2.: Erweiterung des Berufsschulstandorts im BP 1939 e Virginia Depot um eine Realschule
+- TOP 3.3.: Verkehrssicherheit in Baustellenbereichen im 24. Stadtbezirk gewährleisten
+- TOP 3.4.: Erweiterung des Bebauungsplans 1939e - Virginia-Depot: Statt Gewerbefläche Bau einer Förderschule
+- TOP 3.5.: Gymnasialübertritt der Kinder aus dem 24. Stadtbezirk; Einrichtung eines „Runden Tisches“
+- TOP 3.6.: Keinen weitere Förderschule im 24. Stadtbezirk
+- TOP 3.7.: Gelände der Eduard-Spranger-Schulen; a) Errichtung einer inklusiven Realschule b) Gestaltung der Neubauen der bestehenden Eduard-Spranger-Schulen in einer Art, die für eine Inklusion förderlich ist
+- TOP 3.8.: Grünanlage in der Toni-Pfülf-Straße; Beleuchtung des Bolzplatzes
+- TOP 3.9.: Anpassung des Flächennutzungsplans im Bereich des Virginia-Depots
+- TOP 3.10.: Städtebauliche Entwicklungsmaßnahme (SEM) für den 24. Stadtbezirk sofort beenden
+- TOP 3.11.: Verkehrszeichen an der Einmündung der Gundermannstraße in die Lerchenstraße
+- TOP 3.12.: Lüftungsanlagen in den öffentlichen Schulen im Stbez. 24 Feldmoching-Hasenbergl
+- TOP 3.13.: Wertstoffinseln im Stbez. 24 Feldmoching-Hasenbergl
+- TOP 3.14.: Grillverbot auf dem Goldschmiedplatz und Beschilderung zu Nacht-, Sonn- und Feiertagsruhe
+- TOP 3.15.: Reinigung des Füsslgrabens, der parallel zur Trollblumenstraße verläuft
+- TOP 3.16.: Grundsatzbeschluss des BA 24 zu Bauvorhaben: Ablehnung von Schottergärten aufgrund der weltweiten Klimaerwärmung
+- TOP 3.17.: Zeitnahe erstmalige Herstellung der Reigersbachstraße südlich Blütenanger; Aufnahme in das Mehrjahresinvestitionsprogramm
+- TOP 3.18.: Nutzung des Brunnenplatzes in der Siedlung am Lerchenauer See
+- TOP 3.19.: Konflikte mit Rasern auf dem Fahrrad im Bereich des Rangierbahnhofes München Nord
+- TOP 3.20.: Auswirkungen der Parksituation in der Himmelschlüsselstraße auf den Bruno-Frank-Weg
+- TOP 3.21.: Verlängerung der Nutzung des Pavillons an der Georg-Zech- Allee als Interimsgymnasium
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.1.1.: Schleißheimer Str. 520
+- TOP 5.1.2.: Waldmeisterstr. 80 - TEKTUR
+- TOP 5.1.3.: Caracciolastr. 54
+- TOP 5.1.4.: Schlottwiesenweg
+- TOP 5.1.5.: Feldmochinger Str. 389
+- TOP 5.1.6.: Kaiserhölzlstr. 31
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.2.1.: Feldmochinger Str. 389
+- TOP 5.2.2.: Kaiserhölzlstr. 31
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.3.1.: Circus Baldoni, Dülferanger, 08.10. - 17.10.2021
+- TOP 5.3.2.: Zirkus Sorento Tour 21, Grünanlage Ecke Lassallestr./Wilhelmine-Reichard-Str., 01.10. - 10.10.2021
+- TOP 5.3.3.: Traditionelles Abfischen, Regattasee, 16.10.2021
+- TOP 5.3.4.: Floßbau und Floßfahrt im Rahmen es Münchener Familienpasses 2021, Fasaneriesee Süd-Westufer, 09.10.2021
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 5.4.1.: Fortschreibung des Konzepts zur Friedhofsplanung; Gräberbedarfsprognose bis zum Jahr 2035 (SV-Nr. 20-26 / V 03557) - BESCHLUSSENTWURF -
+- TOP 5.4.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Ebereschenstraße/Einmündung Adlerfarnstraße; Verlängerung absolutes Haltverbot am Fußgängerüberweg b) Beschilderung Parkplatz Lassallestraße, zeitliche Verlängerung des Wochenmarktes bis 19.00 Uhr
+- TOP 5.4.3.: Baumfällungen (BaumSchVO): Sachsenspiegelstr. 30
+- TOP 5.4.4.: Baumfällungen (BaumSchVO): Gundermannstr. 41
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP -: Antwortschreiben
+- TOP 1.: Impfen im 24. Stadtbezirk
+- TOP 2.: Schwimmhalle des Augustinums; Schwimmunterricht weiterhin ermöglichen
+- TOP 3.: Verbesserung der Barrierefreiheit in den S-Bahnstationen Feldmoching und Fasanerie
+- TOP 4.: Sicherung eines Fußgängerüberwegs auf der Schleißheimer Straße (in Höhe Harpprechtstraße)
+- TOP 5.: Sichere Querung - Lassallestraße / Grieserstraße - Lassallestraße / Wilhelmine-Reichard-Straße
+- TOP 6.: Bau von zwei Parkbuchten auf dem Gehweg des Kindergartens Riemerschmidstraße als "Bring-In" und Abholspur für die Eltern, die ihre Kinder mit dem Kfz anfahren....
+- TOP 7.: Aufstellung von 1100 l Restmülltonnen an Hotspot-Treffpunkten im 24. Stadtbezirk
+- TOP 8.: Reinigung des mit Graffiti besprühten Toilettenhäuschens am Feldmochinger See
+- TOP 9.: Reinigung des Gebietes rund um die Grundschule Feldmochinger Str. und dem Spiel- und Fußballplatz Am Schnepfenweg neben der Grundschule durch das zuständige Referat
+- TOP 10.: Aufkleber für die Mülleimer im Park, am Spielplatz sowie am Sportplatz Wilhelmine-Reichard-Straße/Schittgablerstraße, kürzerer Turnus für die Leerungen
+- TOP 11.: Verfestigung des nichtasphaltierten Weges nördlich der Gleise des Rangierbahnhofes - aktueller Sachstand
+- TOP 12.: Sich aktiv für den Tier- und Pflanzenschutz im Gesamtbereich der Biotopkartierung (Stadt) und der Ökoflächen (Kataster) des Bedarfssektors aussprechen,...
+- TOP 13.: Bebauungsplan mit Grünordnung Nr. 2108a; Antrag auf Verlängerung des Lärmschutzes zur Raheinstr. 44-46
+- TOP 14.: Münchner Nordosten und Feldmoching-Ludwigsfeld - Vergabebeschluss für Rechtsgutachten und Rechtsberatung (SV-Nr. 20-26/ V 02019) - Agrarstrukturelles Gutachten
+- TOP 15.: Notwendige Sanierungen im Bestand der GWG am Hasenbergl
+- TOP 16.: Online-Veranstaltung vom 20.04.2021 zum Thema Lerchenauer Feld; Nutzung der Sportflächen im Hallen- und Außenbereich der Schulsportanlage für den FC Fasanerie Nord auch außerhalb der Schulzeiten
+- TOP 17.: Spielplätze Hasenbergl-Nord; Weiterleitung der Ergebnisse der Spielplatzbegehungen bzw. Beseitigung der Mängel - ZWISCHENNACHRICHT
+- TOP -: Sonstige Unterrichtungen
+- TOP 18.: Anhörung zur Sportentwicklungsplanung im Münchner Norden - Vorabstellungnahme durch BA-Vorsitzenden gem. Empfehlung des UA Schule, Sport, Soziales
+- TOP 19.: Anhörungen zu Bauvorhaben: a) Blausternweg 4 b) Adlerfarnstr. 14 c) Pflaumstr. 6 - Vorabstellungnahmen durch (stv.) BA-Vorsitzenden gem. Empfehlungen des UA BKUBD
+- TOP 20.: Anhörung zu einer Veranstaltung im Freien einer Grünanlage; Lerchenauer See (Ostufer), Kulturelle VA "Erlebensverlust" am 28.08.2021 (Ersatztermin: 29.08.2021) - Vorabstellungnahme durch BA-Vorsitzenden
+- TOP 21.: Verkehrsrechtliche Anordnung nach § 45 StVO: Detmoldstraße; Errichtung einer Schnell-Ladesäule (DC-Ladesäule)
+- TOP 22.: Verkehrsrechtliche Anordnung nach § 45 StVO: Aufhebung der abknickenden Vorfahrt an der Lassallestraße / Franz-Fackler-Straße
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 23.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/59 Raheinstraße (südlich und westlich), Ratoldstraße (westlich), Lerchenstraße (nördlich), Bahnlinie München-Regensburg (östlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 24 Feldmoching - Hasenbergl
+- TOP 24.: (U) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) 2021 B. Anträge 1. Den Horizont erweitern – Sozialgerechte Bodennutzung und Bodenvorratspolitik anderer Städte vorstellen Antrag Nr. 14-20 / A 04310 von der Fraktion DIE GRÜNEN/RL vom 20.07.2018 2. Mehr dauerhaft bezahlbarer Wohnraum III: Mit der neuen SoBoN mehr bezahlbaren Wohnraum schaffen und dauerhaft sichern Antrag Nr. 14-20 / A 06746 von der Fraktion DIE GRÜNEN/ROSA LISTE vom 11.02.2020 3. Mehr dauerhaft bezahlbares Wohnen Antrag Nr. 14–20 / A 06968 von der SPD-Stadtratsfraktion vom 10.03.2020 4. SoBoN-Novelle 2020/2021: München braucht mehr geförderten Wohnraum Antrag Nr. 20-26 / A 00707 von der Fraktion DIE LINKE./Die PARTEI vom 18.11.2020
+- TOP 25.: (U) Geschäftsordnung Arbeitsgruppe Wohnungslosigkeit
+- TOP 26.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2022 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Die Provinzen erschließen – Den Münchner Osten kolonialisieren Antrag Nr. 20-26 / A 00363 von der Fraktion ÖDP / FW vom 14.08.2020 Anbindung des Interims-Gasteig sicherstellen und Anwohnerparkplätze sichern Antrag Nr. 20-26 / A 00914 von der CSU-Fraktion vom 23.12.2020 Bessere ÖPNV-Anbindung von Schwabing an Neuhausen und den Hauptbahnhof – Tram 23 mit den Linien 12 und 28 verknüpfen Antrag Nr. 20-26 / A 01088 von der FDP BAYERNPARTEI Stadtratsfraktion vom 22.02.2021 Gasteig HP8 - verkehrliche Anbindung sicherstellen! Antrag Nr. 20-26 / A 01450 von der CSU-Frakion vom 17.05.2021 Bus-Osttangente planen und einrichten ! Antrag der Fraktion Bündnis`90 / Die Grünen Antrag Nr. 14-20 / B 07086 des Bezirksausschusses des BA 17 – Obergiesing vom 19.11.2019 Bus-Osttangente planen und einrichten! Unterstützung des BA-Antrags Nr. 14-20 / B 07086 des BA 17 durch den BA 16 Antrag Nr. 14-20 / B 07247 des Bezirksausschusses des Stadtbezirkes 16 – Ramersdorf-Perlach vom 05.12.2019 etc. siehe Sitzungsvorlage
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 3.: Anträge
