@@ -1,0 +1,137 @@
+# 55. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - Es gilt die 3-G-Regel! Gäste haben sich am Eingang zur Sporthalle zu registrieren.
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-09-15T17:00:00+02:00
+- Ende: 2021-09-15T23:40:00+02:00
+- Ort: Sachsendamm 12, 10829 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6405
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6405
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=390742
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Smartboard-Workshop für die Lehrer des Ulrich-von-Hutten-Gymnasiums (UvH) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.2: Einführung von Ampelspiegeln an vielbefahrenen Kreuzungen in Tempelhof-Schöneberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3: Die Blitzerampel - ohne Änderungen in der BVV beschlossen
+- TOP 4.4: Entfernung des Graffiti auf dem Spielplatz am Perelsplatz - ohne Änderungen in der BVV beschlossen
+- TOP 4.5: Änderung der Ampelschaltung (Goltzstraße, Lichtenrader Damm und Kirchhainer Damm) zwischen Edeka Kruse und Café Obergfell - ohne Änderungen in der BVV beschlossen
+- TOP 4.6: Neue Spielstraße in Friedenau - ohne Änderungen in der BVV beschlossen
+- TOP 4.7: Keine barrierefreie Querungsmöglichkeit am Bahnübergang Säntisstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Besseres und abwechslungsreiches Schulessen an der Käthe-Kollwitz-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Parkplatzvernichtung in Tempelhof-Schöneberg - beantwortet
+- TOP 6.2: Kopfsteinpflasterstraßen in Lichtenrade fahrradfreundlicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Einzelhandel stärken – BerlLadÖffG neu gestalten - in der BVV abgelehnt
+- TOP 6.4: Bücherschändungen entschieden entgegentreten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.5: Laien-Defibrillatoren in Seniorenfreizeitstätten - in der BVV abgelehnt
+- TOP 6.6: Erpressung beenden - Räumungstitel Potsdamer Str. 180 unverzüglich vollstrecken - in der BVV abgelehnt
+- TOP 6.7: Verkehrssicherheit am nördlichen Grazer Damm erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 6.8: Ausgewählte Kopfsteinpflasterstraßen in Lichtenrade fahrradfreundlicher gestalten - erledigt
+- TOP 6.9: Kein weiterer Abbau von Parkbänken - ohne Änderungen in der BVV beschlossen
+- TOP 6.10: Sportplatz am Tempelhofer Weg in Nelly-Neppach-Sportplatz umbenennen - in der BVV abgelehnt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Wie erfolgreich ist das Stellenbesetzungsmanagement des Bezirksamts? - beantwortet
+- TOP 8.2: (Zwischen-)Bilanz zu Corona - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Verkehrssicherheit für die Bautzener Straße schnellstmöglich umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Endlich eine echte Fußgängerzone am Breslauer Platz schaffen - mit Änderungen in der BVV beschlossen
+- TOP 10.3: Endlich Voraussetzungen für die Pflege und Aufwertung des Maikäferplatzes schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Unnötige Versiegelung in der Nuthestrasse stoppen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Keine Schließung des Wochenmarktes Waldsassener Str./Tirschenreuther Ring - in der BVV abgelehnt
+- TOP 10.6: Friedrich-Wilhelm-Platz - Parken vor stillgelegtem Hotel ‚Klee‘ gestatten - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Den senegalesischen Stand auf dem Winterfeldtmarkt retten - in der BVV abgelehnt
+- TOP 10.8: Ampelschaltung Grazer Damm/Vorarlberger Damm überprüfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Bank auf dem Vorarlberger Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Gewährung einer Zuwendung aus Sondermitteln der BVV an die DLRG Tempelhof - ohne Änderungen in der BVV beschlossen
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Seniorenspielgeräte in der Grünanlage Fuggerstraße / Eisenacher Straße - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Stärkung des Fußverkehrs in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sicherung der Notfallwasserversorgung in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bürgergärten Frobenstraße dauerhaft sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Umbau der Grunewaldstraße zwischen Kleistpark und Bamberger Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Aufwertung Grünflächen Hohenstaufenstraße 1-2 - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Lets Dance - Andenken an David Bowie in Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Mülleimer im Grünstreifen Bundesring wieder aufstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Ein grüner Fritz-Reuter-Kiez mit Bäumen und Bänken - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Sichere Radwegführung vor dem Rathaus Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Amphibien schützen - Grüntenteich und kleinen Karpfenpfuhl zügig wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Bürgerschaftliches Engagement fördern – „Pflegepatenschaften“ für Grünflächen und Straßenbäume aktiv bewerben und unbürokratisch ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 12.13: Straßenfeste auf Tempelhof-Schöneberger Straßen und Plätzen nach Corona ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Mehr Elektromobilität: Ladestationen für E-Bikes - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Mehr Bäume für die Heilandsweide und die Grünanlage rund um die Sportanlage Marienfelde - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Baustellenmarketing am Tempelhofer Damm einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Entfernung von Graffiti und Instandsetzung der Sitzgelegenheiten am Wasserspiel auf dem Bayerischen Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Sichere Querung auf dem Weg zur Friedenauer Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Fütterverbot Blümelteich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Charta für die Verkehrssicherheit: Baustellen schulwegsicher einrichten - mit Änderungen in der BVV beschlossen
+- TOP 12.21: Ampelschaltung am Prellerweg Ecke Sembritzkistraße endlich verkehrsgerecht anpassen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Platzspitze am Roseneck entsiegeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Information am Breslauer Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Fahrradstraße in der (Kleinen) Bülowstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.25: Durst ade: Trinkbrunnen am Kaiser-Wilhelm-Platz (zukünftig Richard-von-Weizsäcker-Platz) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.26: Wasser für obdachlose Menschen zugänglich machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Baumschonend sanieren – Bäume auf dem Mittelstreifen am Tempelhofer Damm zwischen Platz der Luftbrücke und Borussiastraße erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.28: Querungshilfe an der Kreuzung Schöneberger Straße / Eresburgstraße / Borussiastraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.29: Fußgängerüberweg Kettinger Straße / Buckower Chaussee sicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.30: Auskömmliche Finanzierung der Senior:innen-Vertretung sicher stellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Sofortmaßnahmen in den Bürgerämtern – umgehend mehr Termine zur Verfügung stellen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.32: Ehrengrab für Heinz Kapelle auf dem Parkfriedhof in Tempelhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.33: Wildwuchs von Fahrradbügeln auf Gehwegen auf Kosten von Fußgängerinnen und Fußgängern und vor allem von Menschen mit Behinderungen umgehend beenden - ohne Änderungen in der BVV beschlossen
+- TOP 12.34: Evaluation des Verkehrsversuchs Tempelhofer Damm auf eine breite Basis stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.35: Bewegliche Poller am Eingang und Ausgang der Rosenheimer Straße zwischen Münchener und Heilbronner Straße modernisieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.36: Platzbenennung nach Lucie Leydicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.37: Die essbare Stadt weiterentwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.38: Verkehrskonzept für den Bereich der Schöneberger Linse - ohne Änderungen in der BVV beschlossen
+- TOP 12.39: Naturschutzrechtliche Unterschutzstellung der östlichen Flächen des ehemaligen Rangierbahnhofs Tempelhof – Erweiterung und Weiterentwicklung des Naturparks Schöneberger Südgelände - ohne Änderungen in der BVV beschlossen
+- TOP 12.40: Antrag auf Einleitung eines Bebauungsplanverfahrens an der Martin-Luther- Ecke Fuggerstr. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.41: Städtebauliches Entwicklungskonzept City West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.42: Barrierefreiheit trotz Millieuschutz sicherstellen, Diskriminierung der älteren Innenstadtbevölkerung beenden - ohne Änderungen in der BVV beschlossen
+- TOP 12.43: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Genehmigung der Bezirkshaushaltsrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2017 - ohne Änderungen in der BVV beschlossen
+- TOP 12.44: Die Kunstwerke im öffentlichen Raum im Bezirk Tempelhof-Schöneberg erhalten und pflegen - ohne Änderungen in der BVV beschlossen
+- TOP 12.45: Aufwertung der Grünanlage am Grazer Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.46: Ein Bürger:innenrat für die bezirkliche Klimagerechtigkeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.47: Schulmittagessen für diejenigen ermöglichen, die zur Mittagszeit nicht in der Schule sind - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.48: Schulbau in unserem Bezirk priorisieren - Planung und Bau koordiniert voranbringen - ohne Änderungen in der BVV beschlossen
+- TOP 12.49: Parknutzung und Hundeauslauf im Kleistpark: Lösungen statt Löcher stopfen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Behindertenberatungsstelle mit ausreichender Zahl an Fachkräften ausstatten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Durch Umorganisation den Ausschluss von Kindern vom Schulmittagessen verhindern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Verkehrsübungsplätze und Jugendverkehrsschulen erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.4: Jährlicher Wohnungsneubaubericht für den Bezirk Tempelhof - Schöneberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Standort Tempelhofer Weg wird Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Drittligataugliche Fußballstadien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: VHS niederschwellig halten: keine Übertragung der Honorarerhöhungen auf die Kursteilnehmer*innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Öffentliches Schwimmen auch im neuen Götzbad ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Junge Familien unterstützen - überwiesen
+- TOP 13.10: Erhöhung des Entgeltsatzes für Familienpfleger*innen - überwiesen
+- TOP 13.11: Kolonnenstraße komplett umgestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: Prekärer Personalsituation in unseren Jugendverkehrsschulen entgegenwirken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.13: Weiterhin Unterstützung für die Mittwochs-Initiative einfordern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.14: Verlängerung der Öffnungszeiten im Sommerbad Mariendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.15: Pfadfinder bleiben im Gutshof – für ehrenamtliche Jugendarbeit in Tempelhof - überwiesen
+- TOP 13.16: Schulen unterstützen: Bedarfe abfragen – Unterstützung gewähren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.17: Spielfläche der Teltow Schule wieder für die Kinder nutzbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.18: Zuckerhaltige Lebensmittel in Jugendeinrichtungen und Schulen vermeiden - überwiesen
+- TOP 13.19: Aufstellen Hitzeaktionsplan für Berlin und Tempelhof-Schöneberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.20: Verkehrsspiegel für die Bahnstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.21: Benennung des Platzes vor dem „Lebensort Vielfalt II“ nach Charlotte Wolff - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.22: Kooperation mit der Urania ausloten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.23: Beschluss über die Erweiterung der sozialen Erhaltungsverordnung „Schöneberger Insel“ im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg um die Grundstücke Monumentenstraße 33-39, Kolonnenstraße 18-29 sowie Naumannstraße 9 und 13-19 (ungerade) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.24: Eine öffentliche und gebührenfreie Toilette am Bahnhof Südkreuz (Westzugang) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.25: Direkte Zugänge zum Ersatzbahnsteig am Bahnhof-Lichtenrade schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.26: Baustellenampel für den Fahrradverkehr in der Yorckstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.27: QM-Gebiet Nahariyastraße - Einreichung eines Antrages auf Fördermittel aus dem Baufonds Programm Sozialer Zusammenhalt, PJ 2022/2023: "Energetische Sanierung des Kinder- und Jugendhauses Nahariyastraße" (QM Nahariyastraße, Nahariyastraße 19, 12309 Berlin, Träger: Evangelische Kirchengemeinde Lichtenrade) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.28: Neue Zusammensetzung der Kunstkommission - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.29: Ein Ehrengrab für May Ayim - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14: Termin der nächsten Sitzung - (offen)
