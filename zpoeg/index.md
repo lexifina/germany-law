@@ -23,7 +23,7 @@
 - [§ 20 Übergangsvorschriften zum Sechsten Gesetz zur Änderung der Pfändungsfreigrenzen](0020.md)
 - [§ 21 Übergangsvorschriften zum Siebten Gesetz zur Änderung der Pfändungsfreigrenzen](0021.md)
 - [§ 22 Überleitungsvorschriften zum Zweiten Gesetz zur Änderung zwangsvollstreckungsrechtlicher Vorschriften (2. Zwangsvollstreckungsnovelle)](0022.md)
-- [§ 23 (weggefallen)](0023.md)
+- [§ 23 Schutz von Hochwasser-Soforthilfen vor Pfändungen auf Pfändungsschutzkonten](0023.md)
 - [§ 24](0024.md)
 - [§ 25 (weggefallen)](0025.md)
 - [§ 26](0026.md)
