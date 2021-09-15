@@ -1,8 +1,8 @@
 # Förderrichtlinie Marktstrukturverbesserung 2015 Vollzitat: Förderrichtlinie Marktstrukturverbesserung 2015
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.5
+- Datum: 2021-09-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2020
+15.09.2021
 bis
-14.09.2021
+15.02.2022
 
 Förderrichtlinie Marktstrukturverbesserung 2015
 
@@ -56,7 +56,7 @@ a)
 
 Sächsische Haushaltsordnung
 
-in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, insbesondere §§ 23 und 44,
+in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23 und 44,
 
 
 b)
@@ -64,23 +64,23 @@ b)
 
 Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung
 
-vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378),
+vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352),
 
 
 c)
 
 
-Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 5 Absatz 25 des Gesetzes vom 21. Juni 2019 (BGBl. I S. 846) geändert worden ist,  
+Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S.2154) geändert worden ist,  
 
 
 d)
 
-Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 193 vom 1.7.2014, S. 1), die durch die Verordnung (EU) 2019/289 (ABl. L 48 vom 20.2.2019, S. 1) geändert worden ist,
+Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 193 vom 1.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2020/2008 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist,
 
 
 e)
 
-Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2017/1084 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist,
+Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2021/452 (ABl. L 89 vom 16.3.2021, S. 1) geändert worden ist,
 
 
 f)
@@ -89,7 +89,7 @@ Rahmenplan nach dem GAK-Gesetz in der Fassung der Bekanntmachung vom 21. Juli 19
 
 3.
 
-Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+Ein Anspruch der Antragstellenden auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
 
 II.
@@ -102,12 +102,12 @@ Erzeugerzusammenschlüsse sind:
 
 –
 
-Erzeugerorganisationen und deren Vereinigungen gemäß § 1 Absatz 1 Nummer 1 Buchstabe a des Agrarmarktstrukturgesetzes vom 20. April 2013 (BGBl. I S. 917), das zuletzt durch Artikel 2 des Gesetzes vom 26. Juni 2017 (BGBl. I S. 1942) geändert worden ist, in der jeweils geltenden Fassung, die nach § 4 Absatz 1 des Agrarmarktstrukturgesetzes in Verbindung mit § 2 Absatz 1 der Agrarmarktstrukturverordnung vom 15. November 2013 (BGBl. I S. 3998), die zuletzt  durch Artikel 1 der Verordnung vom 4. Juli 2017 (BGBl. I S. 2199) geändert worden ist, in der jeweils geltenden Fassung, anerkannt sind und
+Erzeugerorganisationen und deren Vereinigungen gemäß § 1 Absatz 1 Nummer 1 Buchstabe a des Agrarorganisationen-und-Lieferketten-Gesetzes vom 20. April 2013 (BGBl. I S. 917), das zuletzt durch Artikel 1 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1278) geändert worden ist, in der jeweils geltenden Fassung, die nach § 4 Absatz 1 des Agrarorganisationen-und-Lieferketten-Gesetzes in Verbindung mit § 2 Absatz 1 der Agrarmarktstrukturverordnung vom 15. November 2013 (BGBl. I S. 3998), die zuletzt durch Artikel 1 der Verordnung vom 6. August 2020 (BGBl. I S. 1888) geändert worden ist, in der jeweils geltenden Fassung, anerkannt sind und
 
 
 –
 
-Erzeugergemeinschaften, deren Anerkennung gemäß § 11 des Agrarmarktstrukturgesetzes fortbesteht.
+Erzeugergemeinschaften, deren Anerkennung gemäß § 11 des Agrarorganisationen-und-Lieferketten-Gesetzes fortbesteht.
 
 2.
 
@@ -119,7 +119,7 @@ Unter der Verarbeitung eines landwirtschaftlichen Erzeugnisses zu einem Nicht-An
 
 4.
 
-Qualitätsprodukte sind gemäß Artikel 16 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487, L 130 vom 19.5.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2019/288 (ABl. L 53 vom 22.2.2019, S. 14) geändert worden ist, nach Qualitätsregelungen erzeugte landwirtschaftliche Erzeugnisse und Produkte, die bei der Verarbeitung entsprechender Erzeugnisse hergestellt werden.
+Qualitätsprodukte sind gemäß Artikel 16 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487, L 130 vom 19.5.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2021/399 (ABl. L 79 vom 8.3.2021, S. 14) geändert worden ist, nach Qualitätsregelungen erzeugte landwirtschaftliche Erzeugnisse und Produkte, die bei der Verarbeitung entsprechender Erzeugnisse hergestellt werden.
 
 
 III.
@@ -209,16 +209,16 @@ Erzeugerorganisationen für Obst und Gemüse,
 
 i)
 
-Erzeugerzusammenschlüsse, deren Ziele mit den Artikeln 152 Absatz 1 Buchstabe c und 156 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671, L 347 vom 20.12.2013), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15) geändert worden ist, in der jeweils geltenden Fassung, unvereinbar sind,
+Erzeugerzusammenschlüsse, deren Ziele mit den Artikeln 152 Absatz 1 Buchstabe c und 156 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671, L 347 vom 20.12.2013), die zuletzt durch die Verordnung (EU) 2020/ 2220 (ABl. L 437 vom 28.12.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, unvereinbar sind,
 
 
 j)
 
-Zuwendungsempfänger, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind.
+Begünstigte, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind.
 
 4.
 
-Zuwendungsempfänger
+Begünstigte
 
 
 Erzeugerzusammenschlüsse, sofern im jeweiligen Erzeugnisbereich kein entsprechender Erzeugerzusammenschluss im Freistaat Sachsen bereits besteht.
@@ -230,7 +230,7 @@ Zuwendungsvoraussetzungen
 
 a)
 
-Zuwendungsempfänger müssen kleine oder mittlere Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sein.
+Begünstigte müssen kleine oder mittlere Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sein.
 
 
 b)
@@ -276,7 +276,7 @@ Spätestens nach Ablauf des Förderzeitraums wird überprüft, ob die Ziele des 
 
 f)
 
-Zuwendungsempfänger können Zuwendungen zu den Organisationskosten für solche Aufwendungen erhalten, die ab dem Tag der förmlichen Anerkennung durch das Landesamt für Umwelt, Landwirtschaft und Geologie entstanden sind. Gründungskosten sind unabhängig davon zuwendungsfähig.
+Begünstigte können Zuwendungen zu den Organisationskosten für solche Aufwendungen erhalten, die ab dem Tag der förmlichen Anerkennung durch das Landesamt für Umwelt, Landwirtschaft und Geologie entstanden sind. Gründungskosten sind unabhängig davon zuwendungsfähig.
 
 
 g)
@@ -394,7 +394,7 @@ Die jährliche Zuwendung darf den Betrag von 100 000 Euro nicht übersteigen. De
 
 d)
 
-Das Staatsministerium für Umwelt und Landwirtschaft ist berechtigt im Wege des Erlasses gemäß Nummer 2.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Festbeträge auf Basis von Standardkosten und gemäß Nummer 2.3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Kostenpauschalen, insbesondere Pauschalen für Personalausgaben, festzulegen.
+Das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft ist berechtigt, im Wege des Erlasses gemäß Nummer 2.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung im Einvernehmen mit dem Staatsministerium der Finanzen Festbeträge auf Basis von Standardkosten und gemäß Nummer 2.3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Kostenpauschalen, insbesondere Pauschalen für Personalausgaben, festzulegen.
 
 
 IV.
@@ -516,7 +516,7 @@ Investitionen im Zusammenhang mit der Erzeugung von Biokraftstoffen aus Nahrungs
 
 m)
 
-anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 1 des Gesetzes vom 17. Dezember 2018 (BGBl. I S. 2549) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
+anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 11 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
 
 
 n)
@@ -541,9 +541,7 @@ Aufwendungen für Trockenmilcherzeugnisse, Butter und H-Milch,
 
 r)
 
-Aufwendungen für die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Ziffer 1 oder Anhang III Abschnitt II Kapitel IV Ziffer 8 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 2019/1243 (ABl. L 198 vom 25.7.2019,
-
-S. 241) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
+Aufwendungen für Investitionen in die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Ziffer 1 oder Anhang III Abschnitt II Kapitel IV Ziffer 8 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Delegierte Verordnung (EU) 2020/2192 (ABl. L 434 vom 23.12.2020, S. 10) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine oder mittlere Unternehmen (KMU) im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
 
 
 s)
@@ -562,7 +560,7 @@ Verwaltungskosten von Behörden des Freistaates Sachsen, mit Ausnahme der zuwend
 
 4.
 
-Zuwendungsempfänger
+Begünstigte
 
 
 a)
@@ -581,13 +579,12 @@ Zuwendungsvoraussetzungen
 
 a)
 
-Zuwendungsempfänger gemäß Ziffer IV Nummer 4 Buchstabe a müssen die in Ziffer III Nummer 5 Buchstabe a bis e Satz 2 genannten Voraussetzungen erfüllen.
+Begünstigte gemäß Ziffer IV Nummer 4 Buchstabe a müssen die in Ziffer III Nummer 5 Buchstabe a bis e Satz 2 genannten Voraussetzungen erfüllen.
 
 
 b)
 
-
-Zuwendungsempfänger gemäß Ziffer IV Nummer 4 Buchstabe b werden nur gefördert, wenn sie mindestens fünf Jahre lang mindestens 40 Prozent ihrer Aufnahmekapazität an den Erzeugnissen, für die sie gefördert werden, durch Lieferverträge oder Dienstleistungsverträge mit Erzeugerzusammenschlüssen oder Erzeugern auslasten. Die beteiligten Erzeuger können sich bei den Lieferverträgen gemeinschaftlich vertreten lassen. Den Lieferverträgen stehen entsprechende satzungs-, statutenmäßige oder gesellschaftsvertragliche Verpflichtungen zwischen Erzeugern und gemeinschaftlichen Absatzeinrichtungen gleich.
+Begünstigte gemäß Ziffer IV Nummer 4 Buchstabe b werden nur gefördert, wenn sie mindestens fünf Jahre lang mindestens 40 Prozent ihrer Aufnahmekapazität an den Erzeugnissen, für die sie gefördert werden, durch Lieferverträge oder Dienstleistungsverträge mit Erzeugerzusammenschlüssen oder Erzeugern auslasten. Die beteiligten Erzeuger können sich bei den Lieferverträgen gemeinschaftlich vertreten lassen. Den Lieferverträgen stehen entsprechende satzungs-, statutenmäßige oder gesellschaftsvertragliche Verpflichtungen zwischen Erzeugern und gemeinschaftlichen Absatzeinrichtungen gleich.
 
 
 Von dem Erfordernis des Abschlusses von Lieferverträgen kann bei Investitionen in Vermarktungseinrichtungen für Blumen und Zierpflanzen, in Verarbeitungseinrichtungen von Obst, sofern es sich um zu verarbeitendes Erntegut von Streuobstwiesen handelt und bei Tierkörperbeseitigungsanlagen abgesehen werden.
@@ -604,7 +601,7 @@ Es sind Wirtschaftlichkeitsberechnungen vorzulegen, in denen plausibel nachzuwei
 
 d)
 
-Zuwendungsempfänger gemäß Ziffer IV Nummer 4 Buchstabe b werden für Investitionen nach Ziffer IV Nummer 2 nur gefördert, sofern das zuwendungsfähige Investitionsvolumen mindestens 30 000 Euro je Antrag beträgt. Für Investitionen in den Sektor ökologische Produkte beträgt das Mindestinvestitionsvolumen 10 000 Euro je Antrag. Zuwendungen bis 2.500 Euro werden nicht gewährt.
+Begünstigte gemäß Ziffer IV Nummer 4 Buchstabe b werden für Investitionen nach Ziffer IV Nummer 2 nur gefördert, sofern das zuwendungsfähige Investitionsvolumen mindestens 30 000 Euro je Antrag beträgt. Für Investitionen in den Sektor ökologische Produkte beträgt das Mindestinvestitionsvolumen 10 000 Euro je Antrag. Zuwendungen bis 2.500 Euro werden nicht gewährt.
 
 
 e)
@@ -614,12 +611,12 @@ Die zu fördernde Investition muss im Freistaat Sachsen durchgeführt werden.
 
 f)
 
-Zuwendungen dürfen nur gewährt werden, wenn der Antragsteller vor Beginn des Vorhabens oder der Tätigkeit einen Antrag auf Gewährung der Zuwendung gestellt hat. Der Antrag muss mindestens folgende Angaben enthalten:
+Zuwendungen dürfen nur gewährt werden, wenn die Antragstellenden vor Beginn des Vorhabens oder der Tätigkeit einen Antrag auf Gewährung der Zuwendung gestellt haben. Der Antrag muss mindestens folgende Angaben enthalten:
 
 
 aa)
 
-Name und Größe des Antragstellers,
+Name und Größe der Antragstellenden,
 
 
 bb)
@@ -666,6 +663,55 @@ i)
 
 Das Vorhaben muss mit Europäischen und nationalen Umweltvorschriften im Einklang stehen. Zuwendungen für Investitionen, für die eine Umweltverträglichkeitsprüfung vorgeschrieben ist, sind an die Bedingung geknüpft, dass vor Gewährung der Zuwendung diese Prüfung durchgeführt wird und die Genehmigung für das betreffende Investitionsvorhaben erteilt wurde.
 
+
+j)
+
+Aufwendungen für Investitionen in die Schlachtung von Tieren in mittleren Unternehmen sind nur förderfähig, wenn
+
+
+aa)
+
+mit einer regionalen Bedarfs- und Umfeldanalyse dargelegt wird, dass nach Umsetzung des Vorhabens keine Verdrängung oder signifikante Schwächung von bestehenden Unternehmen der Schlachtung und Fleischverarbeitung (insbesondere von Kleinst-, kleinen und mittleren Unternehmen) zu erwarten ist und das Vorhaben vorrangig einer regional ausgerichteten Wertschöpfungskette und der Verkürzung von Tiertransportzeiten dient. Die regionale Bedarfs- und Umfeldanalyse ist im Auftrag des Antragstellers extern durch einen unabhängigen Sachverständigen mit ausgewiesenen Fachkenntnissen des Schlachtmarktes zu erstellen und muss in einer räumlich ausgerichteten (d. h. über Ländergrenzen hinausgehenden) Betrachtung mindestens die folgenden Teilanalysen umfassen:
+
+
+–
+
+Beschreibung des Bezug- und Absatzmarktes unter Darstellung der regionalen Wertschöpfungskette,
+
+
+–
+
+Abschätzung des Regionalvermarktungspotentials innerhalb des vorgesehenen Vertriebsgebietes,
+
+
+–
+
+Kalkulation des Schlachttieraufkommens innerhalb des vorgesehenen Einzugsgebietes,
+
+
+–
+
+Analyse der Wettbewerbersituation bezogen auf die Einzugsgebiete bestehender Schlachtstätten unter besonderer Berücksichtigung von Kleinst-, kleinen und mittleren Unternehmen,
+
+
+–
+
+Bedarfsermittlung für zusätzliche Schlachtkapazitäten innerhalb des vorgesehenen Einzugsgebietes.
+
+
+Auf die regionale Bedarfs- und Umfeldanalyse kann verzichtet werden, wenn die Aufwendungen der Modernisierung bestehender Schlachtstätten dienen und das Vorhaben mit einer Kapazitätserweiterung von nicht mehr als 10 Prozent verbunden ist.
+
+
+bb)
+
+in der Schlachtstätte auch die Lohnschlachtung angeboten wird, einschließlich der Annahme von Schlachtvieh in kleinen Stückzahlen (das heißt ohne Mindestanlieferungsmengen).
+
+
+k)
+
+Die Förderung von Aufwendungen für Investitionen in die Schlachtung von Tieren in mittleren Unternehmen ist bis zum 31. Dezember 2024 befristet.
+
+
 6.
 
 Art und Höhe der Zuwendungen
@@ -678,12 +724,12 @@ Die Zuwendung erfolgt als Projektförderung mit Anteilfinanzierung und wird in F
 
 b)
 
-Zuwendungsempfängern nach Ziffer IV Nummer 4 Buchstabe a, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 702/2014 sind, werden Zuwendungen in Höhe von 35 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte erfassen und vermarkten, werden Zuwendungen in Höhe von 40 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
+Begünstigten nach Ziffer IV Nummer 4 Buchstabe a, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 702/2014 sind, werden Zuwendungen in Höhe von 35 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte erfassen und vermarkten, werden Zuwendungen in Höhe von 40 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
 
 
 c)
 
-Zuwendungsempfängern nach Ziffer IV Nummer 4 Buchstabe b, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 702/2014 sind, werden Zuwendungen in Höhe von 25 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte im Sinne von Ziffer II Nummer 4 erfassen und vermarkten, werden Zuwendungen in Höhe von 30 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe von 40 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
+Begünstigten nach Ziffer IV Nummer 4 Buchstabe b, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 702/2014 sind, werden Zuwendungen in Höhe von 25 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte im Sinne von Ziffer II Nummer 4 erfassen und vermarkten, werden Zuwendungen in Höhe von 30 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe von 40 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
 
 
 d)
@@ -703,7 +749,7 @@ Der Gesamtwert aller Beihilfen aus zulässigen Förderprogrammen (unter anderem 
 
 g)
 
-Das Staatsministerium für Umwelt und Landwirtschaft ist berechtigt im Wege des Erlasses gemäß Nummer 2.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Festbeträge auf Basis von Standardkosten und gemäß Nummer 2.3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Kostenpauschalen, insbesondere Pauschalen für Personalausgaben, festzulegen.
+Das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft ist berechtigt, im Wege des Erlasses gemäß Nummer 2.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung im Einvernehmen mit dem Staatsministerium der Finanzen Festbeträge auf Basis von Standardkosten und gemäß Nummer 2.3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Kostenpauschalen, insbesondere Pauschalen für Personalausgaben, festzulegen.
 
 
 V.
@@ -719,7 +765,7 @@ Zuständig für die Durchführung der Förderung ist die Sächsische Aufbaubank 
 Antragsverfahren
 
 
-Die Zuwendung darf nur auf schriftlichen Antrag nach dem vom Staatsministerium für Umwelt und Landwirtschaft gebilligten Formularmuster gewährt werden. Dem Antrag müssen die im Antragsformular bezeichneten Unterlagen beigefügt sein.
+Die Zuwendung darf nur auf schriftlichen Antrag nach dem vom Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft gebilligten Formularmuster gewährt werden. Dem Antrag müssen die im Antragsformular bezeichneten Unterlagen beigefügt sein.
 
 
 Bei Investitionsvorhaben nach Ziffer IV, die auch im Rahmen der Förderprogrammatik des Staatsministeriums für Wirtschaft, Arbeit und Verkehr bezuschusst werden können, ist vom Antragsteller bei Antragstellung auf Förderung nach dieser Förderrichtlinie schriftlich zu versichern, dass der Antragsteller die alternative Möglichkeit geprüft, jedoch nicht beantragt hat.
@@ -735,7 +781,7 @@ Bewilligungsverfahren
 Es erfolgt eine Bewilligung auf Ausgabenbasis. Die Sächsische Aufbaubank entscheidet durch schriftlichen Bescheid.
 
 
-Bei der Förderung nach Ziffer IV erfolgt eine Bewilligung nach Abstimmung und im Benehmen mit dem Staatsministerium für Umwelt und Landwirtschaft.
+Bei der Förderung nach Ziffer IV erfolgt eine Bewilligung nach Abstimmung und im Benehmen mit dem Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft.
 
 
 Soweit aufgrund dieser Richtlinie Einzelbeihilfen auf Grundlage der Verordnung (EU) Nr. 702/2014 oder der Verordnung (EU) Nr. 651/2014 gewährt werden, müssen diese deren Voraussetzungen genügen sowie einen ausdrücklichen Verweis auf die einschlägigen Bestimmungen dieser Verordnungen unter Angabe des Titels dieser Verordnungen sowie deren Fundstelle im Amtsblatt der Europäischen Union enthalten.
@@ -775,9 +821,9 @@ Zu beachtende Vorschriften
 
 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten das
 
-Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen              in Verbindung mit den §§ 48 bis 49a des Verwaltungsverfahrensgesetzes und den              Verwaltungsvorschriften des Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung
+Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat
 
-, soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
+Sachsen in Verbindung mit den §§ 48 bis 49a des Verwaltungsverfahrensgesetzes und den Verwaltungsvorschriften des Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
 
 
 Der Zuwendungsbescheid ist zu widerrufen und die Zuwendung ganz oder teilweise zurückzufordern, wenn:
@@ -785,17 +831,17 @@ Der Zuwendungsbescheid ist zu widerrufen und die Zuwendung ganz oder teilweise z
 
 a)
 
-im Falle der Förderung nach Ziffer III der Zuwendungsempfänger sich vor Ablauf der in Ziffer III Nummer 5 Buchstabe c bestimmten Frist auflöst oder sonst seine den Zielsetzungen dieser Förderrichtlinie entsprechende Tätigkeit einstellt,
+im Falle der Förderung nach Ziffer III der Begünstigte sich vor Ablauf der in Ziffer III Nummer 5 Buchstabe c bestimmten Frist auflöst oder sonst seine den Zielsetzungen dieser Förderrichtlinie entsprechende Tätigkeit einstellt,
 
 
 b)
 
-im Falle der Förderung nach Ziffer III der Zuwendungsempfänger mit anderen Vereinigungen fusioniert oder sich sonst zusammenschließt und die vertraglichen und gesetzlichen Grundlagen der neuen Vereinigung nicht den Zielsetzungen dieser Richtlinie entsprechen,
+im Falle der Förderung nach Ziffer III der Begünstigte mit anderen Vereinigungen fusioniert oder sich sonst zusammenschließt und die vertraglichen und gesetzlichen Grundlagen der neuen Vereinigung nicht den Zielsetzungen dieser Richtlinie entsprechen,
 
 
 c)
 
-im Falle der Förderung nach Ziffer IV der Zuwendungsempfänger Bauten und bauliche Anlagen innerhalb eines Zeitraumes von zwölf Jahren ab Fertigstellung (als Zeitpunkt der Fertigstellung gilt, wenn eine solche erfolgt ist, das Datum der Bauabnahme), Maschinen, Einrichtungen und technische Anlagen innerhalb eines Zeitraumes von fünf Jahren nach Abschluss des Vorhabens nicht mehr dem Zuwendungszweck entsprechend verwendet.
+im Falle der Förderung nach Ziffer IV der Begünstigte Bauten und bauliche Anlagen innerhalb eines Zeitraumes von zwölf Jahren ab Fertigstellung (als Zeitpunkt der Fertigstellung gilt, wenn eine solche erfolgt ist, das Datum der Bauabnahme), Maschinen, Einrichtungen und technische Anlagen innerhalb eines Zeitraumes von fünf Jahren nach Abschluss des Vorhabens nicht mehr dem Zuwendungszweck entsprechend verwendet.
 
 
 Ein entsprechender Widerrufsvorbehalt ist in den Zuwendungsbescheid aufzunehmen.
@@ -832,9 +878,9 @@ Fsn-Nr.: 5563-V15.14
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2020
+Fassung gültig ab: 15. September 2021
 
-Fassung gültig bis: 14. September 2021
+Fassung gültig bis: 15. Februar 2022
 
 Drucken/Speichern
 
@@ -859,7 +905,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16242.5
+https://www.revosax.sachsen.de/vorschrift/16242.6
 Stand vom
 18.11.2026
 
