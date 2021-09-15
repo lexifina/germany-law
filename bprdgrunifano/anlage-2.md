@@ -1,0 +1,74 @@
+# Anlage 2 (zu § 5 Absatz 1)Dienstgradabzeichen
+
+Tabelle 1
+Heer und Luftwaffe
+| Nr. | Laufbahngruppe | Dienstgradbezeichnung | Dienstgradabzeichen |
+|  | 1 | 2 | 3 |
+| 1 | Mannschaften |  |  |
+| 1.1 |  | niedrigster Dienstgrad der Mannschaften | kein Dienstgradabzeichen |
+| 1.2 |  | Gefreiter | ein Schrägstreifen auf beiden Schulterklappen |
+| 1.3 |  | Obergefreiter | zwei Schrägstreifen auf beiden Schulterklappen |
+| 1.4 |  | Hauptgefreiter | drei Schrägstreifen auf beiden Schulterklappen |
+| 1.5 |  | Stabsgefreiter | vier Schrägstreifen auf beiden Schulterklappen |
+| 1.6 |  | Oberstabsgefreiter | fünf Schrägstreifen auf beiden Schulterklappen |
+| 1.7 |  | Korporal | ein breiter Schrägstreifen auf beiden Schulterklappen |
+| 1.8 |  | Stabskorporal | ein breiter und ein schmaler Schrägstreifen auf beiden Schulterklappen |
+| 2 | Unteroffizierinnen und Unteroffiziere |  |  |
+| 2.1 |  | Unteroffizier | eine unten offene Tresse als Schulterabzeichen |
+| 2.2 |  | Fahnenjunker | wie Unteroffizier |
+| 2.3 |  | Stabsunteroffizier | eine geschlossene Tresse als Schulterabzeichen |
+| 2.4 |  | Feldwebel | ein Winkel mit der Spitze nach oben und eine geschlossene Tresse als Schulterabzeichen |
+| 2.5 |  | Fähnrich | wie Feldwebel |
+| 2.6 |  | Oberfeldwebel | wie Feldwebel, jedoch zwei Winkel |
+| 2.7 |  | Hauptfeldwebel | ein Kopfwinkel mit der Spitze nach oben und eine geschlossene Tresse als Schulterabzeichen |
+| 2.8 |  | Oberfähnrich | ein Kopfwinkel mit der Spitze nach oben als Schulterabzeichen mit silberner Schulterklappeneinfassung |
+| 2.9 |  | Stabsfeldwebel | ein Kopfwinkel, darunter ein Winkel mit der Spitze nach oben und eine geschlossene Tresse als Schulterabzeichen |
+| 2.10 |  | Oberstabsfeldwebel | wie Stabsfeldwebel, jedoch zwei Winkel |
+| 3 | Offizierinnen und Offiziere |  |  |
+| 3.1 |  | Leutnant | ein silberner Stern als Schulterabzeichen |
+| 3.2 |  | Oberleutnant | zwei silberne Sterne als Schulterabzeichen |
+| 3.3 |  | Hauptmann | drei silberne Sterne als Schulterabzeichen |
+| 3.4 |  | Stabshauptmann | vier silberne Sterne als Schulterabzeichen |
+| 3.5 |  | Major | silbernes Eichenlaub und ein silberner Sternals Schulterabzeichen |
+| 3.6 |  | Oberstleutnant | wie Major, jedoch zwei silberne Sterne |
+| 3.7 |  | Oberst | wie Major, jedoch drei silberne Sterne |
+| 3.8 |  | Brigadegeneral | goldenes Eichenlaub und ein goldener Sternals Schulterabzeichen |
+| 3.9 |  | Generalmajor | wie Brigadegeneral, jedoch zwei goldene Sterne |
+| 3.10 |  | Generalleutnant | wie Brigadegeneral, jedoch drei goldene Sterne |
+| 3.11 |  | General | wie Brigadegeneral, jedoch vier goldene Sterne |
+Tabelle 2
+Marine
+| Nr. | Laufbahngruppe | Dienstgradbezeichnung | Dienstgradabzeichen |
+|  | 1 | 2 | 3 |
+| 1 | Mannschaften |  |  |
+| 1.1 |  | Matrose | kein Dienstgradabzeichen |
+| 1.2 |  | Gefreiter | ein Schrägstreifen auf beiden Oberärmeln |
+| 1.3 |  | Obergefreiter | zwei Schrägstreifen auf beiden Oberärmeln |
+| 1.4 |  | Hauptgefreiter | drei Schrägstreifen auf beiden Oberärmeln |
+| 1.5 |  | Stabsgefreiter | vier Schrägstreifen auf beiden Oberärmeln |
+| 1.6 |  | Oberstabsgefreiter | fünf Schrägstreifen auf beiden Oberärmeln |
+| 1.7 |  | Korporal | ein breiter Schrägstreifen auf beiden Oberärmeln |
+| 1.8 |  | Stabskorporal | ein breiter und ein schmaler Schrägstreifen auf beiden Oberärmeln |
+| 2 | Unteroffizierinnenund Unteroffiziere |  |  |
+| 2.1 |  | Maat | zwei mit der Öffnung gegenübergestellte Winkel mit den Spitzen nach oben und unten auf beiden Oberärmeln |
+| 2.2 |  | Seekadett | wie Maat |
+| 2.3 |  | Obermaat | wie Maat, jedoch zwei Oberwinkel |
+| 2.4 |  | Bootsmann | ein Winkel mit der Spitze nach oben auf beiden Unterärmeln |
+| 2.5 |  | Fähnrich zur See | wie Bootsmann |
+| 2.6 |  | Oberbootsmann | wie Bootsmann, jedoch zwei Winkel |
+| 2.7 |  | Hauptbootsmann | ein Kopfwinkel mit der Spitze nach oben auf beiden Unterärmeln |
+| 2.8 |  | Oberfähnrich zur See | ein schmaler umlaufender Streifen auf beiden Unterärmeln |
+| 2.9 |  | Stabsbootsmann | ein Kopfwinkel und darunter ein Winkel mit der Spitze nach oben auf beiden Unterärmeln |
+| 2.10 |  | Oberstabsbootsmann | wie Stabsbootsmann, jedoch zwei Winkel |
+| 3 | Offizierinnen und Offiziere |  |  |
+| 3.1 |  | Leutnant zur See | ein mittelbreiter umlaufender Streifen auf beiden Unterärmeln |
+| 3.2 |  | Oberleutnant zur See | zwei mittelbreite umlaufende Streifen auf beiden Unterärmeln |
+| 3.3 |  | Kapitänleutnant | zwei mittelbreite, dazwischen ein schmaler umlaufender Streifen auf beiden Unterärmeln |
+| 3.4 |  | Stabskapitänleutnant | zwei mittelbreite, dazwischen zwei schmale umlaufende Streifen auf beiden Unterärmeln |
+| 3.5 |  | Korvettenkapitän | drei mittelbreite umlaufende Streifen auf beiden Unterärmeln |
+| 3.6 |  | Fregattenkapitän | drei mittelbreite, zwischen dem oberen und mittleren ein schmaler umlaufender Streifen auf beiden Unterärmeln |
+| 3.7 |  | Kapitän zur See | vier mittelbreite umlaufende Streifen auf beiden Unterärmeln |
+| 3.8 |  | Flottillenadmiral | ein handbreiter und darüber ein schmaler umlaufender Streifen auf beiden Unterärmeln |
+| 3.9 |  | Konteradmiral | ein handbreiter und darüber ein mittelbreiter umlaufender Streifen auf beiden Unterärmeln |
+| 3.10 |  | Vizeadmiral | ein handbreiter und darüber zwei mittelbreite umlaufende Streifen auf beiden Unterärmeln |
+| 3.11 |  | Admiral | ein handbreiter und darüber drei mittelbreite umlaufende Streifen auf beiden Unterärmeln |

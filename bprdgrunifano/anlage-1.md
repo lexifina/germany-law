@@ -1,0 +1,39 @@
+# Anlage 1 (zu § 1)Dienstgradbezeichnungen
+
+| Nr. | Laufbahngruppe | Dienstgradgruppe | Dienstgradbezeichnung |
+|  | 1 | 2 | 3 |
+| 1 | Mannschaften |  |  |
+| 1.1 |  | Mannschaften | Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose |
+| 1.2 |  |  | Gefreiter |
+| 1.3 |  |  | Obergefreiter |
+| 1.4 |  |  | Hauptgefreiter |
+| 1.5 |  |  | Stabsgefreiter |
+| 1.6 |  |  | Oberstabsgefreiter |
+| 1.7 |  |  | Korporal |
+| 1.8 |  |  | Stabskorporal |
+| 2 | Unteroffizierinnenund Unteroffiziere |  |  |
+| 2.1 |  | Unteroffizierinnen und Unteroffiziere ohne Portepee |  |
+| 2.1.1 |  |  | Unteroffizier, Maat, Fahnenjunker, Seekadett |
+| 2.1.2 |  |  | Stabsunteroffizier, Obermaat |
+| 2.2 |  | Unteroffizierinnen und Unteroffiziere mit Portepee |  |
+| 2.2.1 |  |  | Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See |
+| 2.2.2 |  |  | Oberfeldwebel, Oberbootsmann |
+| 2.2.3 |  |  | Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See |
+| 2.2.4 |  |  | Stabsfeldwebel, Stabsbootsmann |
+| 2.2.5 |  |  | Oberstabsfeldwebel, Oberstabsbootsmann |
+| 3 | Offizierinnen und Offiziere |  |  |
+| 3.1 |  | Leutnante |  |
+| 3.1.1 |  |  | Leutnant, Leutnant zur See |
+| 3.1.2 |  |  | Oberleutnant, Oberleutnant zur See |
+| 3.2 |  | Hauptleute |  |
+| 3.2.1 |  |  | Hauptmann, Kapitänleutnant, Stabsarzt, Stabsapotheker, Stabsveterinär |
+| 3.2.2 |  |  | Stabshauptmann, Stabskapitänleutnant |
+| 3.3 |  | Stabsoffizierinnen und Stabsoffiziere |  |
+| 3.3.1 |  |  | Major, Korvettenkapitän, Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär |
+| 3.3.2 |  |  | Oberstleutnant, Fregattenkapitän, Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker, Oberfeldveterinär |
+| 3.3.3 |  |  | Oberst, Kapitän zur See, Oberstarzt, Flottenarzt, Oberstapotheker, Flottenapotheker, Oberstveterinär |
+| 3.4 |  | Generale |  |
+| 3.4.1 |  |  | Brigadegeneral, Flottillenadmiral, Generalarzt, Admiralarzt, Generalapotheker |
+| 3.4.2 |  |  | Generalmajor, Konteradmiral, Generalstabsarzt, Admiralstabsarzt |
+| 3.4.3 |  |  | Generalleutnant, Vizeadmiral, Generaloberstabsarzt, Admiraloberstabsarzt |
+| 3.4.4 |  |  | General, Admiral |
