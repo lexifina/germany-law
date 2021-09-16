@@ -1,0 +1,126 @@
+# 52. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVESTREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2021-09-16T17:30:00+02:00
+- Ende: 2021-09-16T23:15:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5427
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5427
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=516665
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Rückschnitte und Entfernen vieler Büsche und einzelner Bäume in der Cruisingarea im Tiergarten - beantwortet
+- TOP 2.2: Prüfung Vorkaufsrecht in Millieschutzgebieten durch das BA Mitte - beantwortet
+- TOP 2.3: Wohnhäuser erhalten - beantwortet
+- TOP 2.4: Umsetzung Bezirksantsbeschluss 1654/2021 - schriftlich beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Thematische Stunde: "Haus der Weisheit" - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Offene Plätze zur Sprachförderung - beantwortet
+- TOP 7.2: Belastung durch den Flohmarkt in der Markstraße - beantwortet
+- TOP 7.3: Habersaathstr.40-48: Abriss von bezahlbaren Wohnungen verhindern! Leerstand zu Wohnraum! - beantwortet
+- TOP 7.4: Wie gehen wir mit unseren Lehrkräften um? - beantwortet
+- TOP 7.5: Auszahlung der von der BVV beschlossenen Aufwandsentschädigungen für die Mitglieder der Stadtteilvertretungen (StV) als „Running-Gag-Posse“ der Bezirksverwaltung? - schriftlich beantwortet
+- TOP 7.6: Radverkehrsnetz - schriftlich beantwortet
+- TOP 7.7: Finanzplanung des Landes Berlin 2021-2025: Wo ist die Anna-Lindh-Grundschule zu finden? - schriftlich beantwortet
+- TOP 7.8: Teepeeland bei Sanierung der Uferpromenade des Spreeuferweges sichern (II) - schriftlich beantwortet
+- TOP 7.9: Emdener Straße 2 –Baumaßnahmen im Milieuschutzgebiet nach dem Grundsatz „legal, illegal, scheißegal“ als Ergebnis eines nicht getätig-ten Vorkaufes - schriftlich beantwortet
+- TOP 7.10: Was tut sich am Poststadion? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Hat der Bürgermeister die Finanzen nicht im Griff? Erneute Strafzahlung des Bezirks wegen Nichteinhaltung von Finanzregelungen – wie ist das möglich? - beantwortet
+- TOP 8.2: Barrierefreie Wahllokale im Bezirk Mitte - schriftlich beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Brandschau in Schulen - beantwortet
+- TOP 9.2: Wie setzt der Bezirk den Beschluss der BVV-Mitte zum Klimanotstand um? - beantwortet
+- TOP 9.3: Ein Haus der Weisheit in der Lehrter Straße - beantwortet
+- TOP 9.4: „Mühlenstube“ – Drogenmeile Müllerstraße - schriftlich beantwortet
+- TOP 9.5: Sicherheitsdienste in bezirkseigen Immobilien martialisch oder „Freund und Helfer“ - schriftlich beantwortet
+- TOP 9.6: Sichere Kreuzung Euler-/Bellermann-/Heidebrinker Straße - schriftlich beantwortet
+- TOP 9.7: Keine Wohnhausabrisse und Mieter*innenvertreibung in der Tegeler Straße 2-5 sowie Tegeler Straße 6-7 und Tegeler Straße 1/Fennstraße 33/34 durch Bayer-Schering II - schriftlich beantwortet
+- TOP 9.8: Gendarmenmarkt - schriftlich beantwortet
+- TOP 9.9: Ist eine Kita nicht von öffentlichem Belang oder warum macht es das Bezirksamt Mitte einer Naturkita so schwer? - schriftlich beantwortet
+- TOP 9.10: Sozialleistungen bei Vielehen - schriftlich beantwortet
+- TOP 9.11: Parkraumbewirtschaftung Parkzone 72 und Aufhebung jahrelangen Parkpraxis in der Tile-Wardenberg-Straße? (II) - schriftlich beantwortet
+- TOP 9.12: Pandemieplan für Mitte – personelle Sicherstellung - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 12.1: über den Beschluss des Entwurfs der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplans II-83-1VE „Schill-/Kurfürstenstraße“ sowie die Einbringung einer Vorlage in die Bezirksverordnetenversammlung - zur Beschlussfassung - - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: über die Verordnung zur Änderung der Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt für das Gebiet „Leipziger Straße“ im Bezirk Mitte von Berlin gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB vom 30. Juni 2020, veröffentlicht im GVBl. von Berlin vom 24.Juli 2020, S. 619. - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Überarbeitung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Planungssicherheit schaffen – Schüler*innenhaushalt 2022 fortsetzen und finanziell absichern - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Sportcasino im Poststadion endlich nutzbar machen - überwiesen
+- TOP 13.3: Umzugshilfe für das Haus der Weisheit - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Infektionsschutz und Kontaktnachverfolgung als Gesamtverantwortung des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Auskömmliche Finanzierung aller Frauenprojekte im Bezirk im nächsten Doppelhaushalt - vertagt
+- TOP 14.2: Rathenower Straße 23- Baustopp jetzt! - vertagt
+- TOP 14.3: Information der BVV zu planungsrechtlich gefährdeten Wohngebäuden in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: 200jährige Eiche in der Dresdener Straße und andere Bäume erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Ein fester, dauerhafter Standort für Fixpunkt am Leopoldplatz! - vertagt
+- TOP 14.6: Krausenstraße - vertagt
+- TOP 14.7: Arbeitsgruppe zur Bekämpfung von Sozialbetrug durch Vielehe - überwiesen
+- TOP 14.8: Den Park an der Südpanke sauber halten – geeignete Mülleimer aufstellen - vertagt
+- TOP 14.9: Städtebauliche Erhaltungssatzung für den Wohn- und Gewerbehof in der Koloniestr. 10 - vertagt
+- TOP 14.10: Präventionsarbeit im Kiez – Veranstaltungsformat retten durch qualifiziertes Beteiligen - vertagt
+- TOP 14.11: Eine Kita ist von öffentlichem Belang! - vertagt
+- TOP 14.12: Entscheidung überdenken – keine Drogenmeile an der Müllerstraße! - vertagt
+- TOP 14.13: Information der BVV zu geplanten Abrissen von Wohngebäuden in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Wedding: Rathausvorplatz für alle II - vertagt
+- TOP 14.15: Grauflächenamt im Brüsseler Kiez - vertagt
+- TOP 14.16: Keine Wohnhausabrisse und Mieter*innenvertreibung in der Tegeler Straße 2-5 sowie Tegeler Straße 6-7 und Tegeler Straße 1/Fennstraße 33/34 durch Bayer-Schering II - vertagt
+- TOP 14.17: Straßenschilder im Afrikanischen Viertel erneuern! - vertagt
+- TOP 14.18: Die Gastronomie in der Pandemie unterstützen – Schankgärten offen halten - vertagt
+- TOP 14.19: Barrierefreiheit beschleunigen! - mit Änderungen in der BVV beschlossen
+- TOP 14.20: Gesundheit schützen, Hitzeaktionsplanung vorantreiben - vertagt
+- TOP 14.21: 13. August im Bezirk gemeinsam mit den Bürger:innen gedenken - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Transportquerungen erleichtern das Zusammenleben - vertagt
+- TOP 14.23: Ackerstraße wirklich entschleunigen - vertagt
+- TOP 15: Entschließungen - (offen)
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Bismarck-Denkmal reinigen! - erledigt
+- TOP 16.2: Inklusivität auf unseren Spielplätzen steigern - mit Änderungen in der BVV beschlossen
+- TOP 16.3: Weniger Müll in Mitte II - mit Änderungen in der BVV beschlossen
+- TOP 16.4: Grünanlage an der Panke schützen - ohne Änderungen in der BVV beschlossen
+- TOP 16.5: Ein neues Zentrum für Kinder und Jugendliche am Sprengelkiez! - ohne Änderungen in der BVV beschlossen
+- TOP 16.6: Inklusion fördern – Projekt „The Soul Office“ finanziell unterstützen - mit Änderungen in der BVV beschlossen
+- TOP 16.7: Sanierungsziele in den Sanierungsgebieten in Mitte anpassen! - mit Änderungen in der BVV beschlossen
+- TOP 16.8: Zuwendungen nur bei Einhaltung politischer Neutralität - in der BVV abgelehnt
+- TOP 16.9: Ein Kieztreff für das Hansaviertel und das südliche Moabit - ohne Änderungen in der BVV beschlossen
+- TOP 16.10: Fußverkehr statt Durchgangsverkehr im Brüsseler Kiez - vertagt
+- TOP 16.11: Rehberge – wohin mit dem Müll - vertagt
+- TOP 16.12: Öffentliche Räume attraktiver machen - mehr Sitzbänke für Mitte - vertagt
+- TOP 16.13: Baudenkmäler schützen - mit Änderungen in der BVV beschlossen
+- TOP 16.14: Parkcafé Rehberge checken! - ohne Änderungen in der BVV beschlossen
+- TOP 16.15: Zusammen für mehr Kitaplätze in Mitte - vertagt
+- TOP 16.16: Parkcafé Rehberge fördern! - mit Änderungen in der BVV beschlossen
+- TOP 16.17: Zeitgemäße Stellenbewertung in Mitte – Wirkt sich die 2019 weiterentwickelte Eingruppierungsordnung im TV-L für Beschäftigte im BA -Mitte aus? - mit Änderungen in der BVV beschlossen
+- TOP 16.18: Immobilienmanagement stärken – konsequent gegen Schimmel in Schulen und anderen öffentlichen Gebäuden vorgehen - mit Änderungen in der BVV beschlossen
+- TOP 16.19: BVG Haltestellen - mit Änderungen in der BVV beschlossen
+- TOP 16.20: Eine:n Graffiti-Beauftragte:n für Berlin-Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 16.21: Bei der Entwicklung neuer Gewerbeflächen an Handwerksbetriebe, kulturaffines Gewerbe und Spin-Offs aus wissenschaftlichem Kontext denken - ohne Änderungen in der BVV beschlossen
+- TOP 16.22: Personal für das Bezirksamt gewinnen - ohne Änderungen in der BVV beschlossen
+- TOP 16.23: WC-Führer für Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 16.24: Fortsetzung der Fahrradstraße Stargarder Straße über Gleimtunnel/Gleimstraße auf das Gebiet des Bezirks Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 16.25: Kunst und Kultur im Monbijoupark – Wintersaison 2021/22 jetzt vorbereiten - vertagt
+- TOP 16.26: Abfall vermeiden durch Zuschuss für Mehrwegwindeln - in der BVV abgelehnt
+- TOP 16.27: Jugendverkehrsschule gemeinsam voranbringen - mit Änderungen in der BVV beschlossen
+- TOP 16.28: Erinnerung und Begegnung Polnisch-Deutsche Geschichte - ohne Änderungen in der BVV beschlossen
+- TOP 16.29: Umweltbildung von Anfang an und lebenslang im Bezirk fördern und entwickeln – Für mehr Grüne Lernorte in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 16.30: Eine Leichtbauhalle für die Dauer von drei Jahren oder ein Dauerpacht-Angebot für das Haus der Weisheit - erledigt
+- TOP 16.31: E-Mobilität fördern – Lademöglichkeiten für Elektrofahrzeuge in Garagen und auf Mieterparkpätzen der Wohnungsgesellschaften errichten. - mit Änderungen in der BVV beschlossen
+- TOP 16.32: Parkcafé Rehberge endlich einer Nutzung zuführen! - vertagt
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
