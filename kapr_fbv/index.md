@@ -37,6 +37,7 @@
 #### Unterabschnitt 3 Vorkehrungen zur Einhaltung der Verordnung (EU) Nr. 648/2012
 
 - [§ 14 Pflichten nach der Verordnung (EU) Nr. 648/2012](0014.md)
+- [§ 14a Einhaltung der Pflichten nach der Verordnung (EU) 2019/2088 und nach der Verordnung (EU) 2020/852](0014a.md)
 
 ### Abschnitt 3 Abschlussorientierte Berichterstattung
 

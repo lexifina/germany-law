@@ -16,6 +16,7 @@
 |  | 4.2 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Derivateverordnung (DerivateV) |
 |  | 4.3 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 345/2013 |
 |  | 4.4 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 346/2013 |
+|  | 4.5 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2015/760 |
 | 5. | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierhandelsgesetzes (WpHG) |
 | 6. | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Versicherungsaufsichtsgesetzes (VAG) |
 | 7. | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Geldwäschegesetzes (GwG) |
@@ -295,7 +296,7 @@
 | 4.1.2.6.1 | Anordnung der Abwicklung der Gesellschaft, jeweils mit oder ohne den Erlass von Weisungen für die Abwicklung und jeweils mit oder ohne Bestellung eines Abwicklers(§ 39 Absatz 4 KAGB in Verbindung mit § 38 Absatz 1 Satz 1 und 2 KWG;§ 39 Absatz 4 KAGB in Verbindung mit § 38 Absatz 2 Satz 1 und 3 KWG;§ 113 Absatz 2 Satz 2 in Verbindung mit § 39 Absatz 4 KAGB und § 38 Absatz 1 Satz 1 und 2 KWG;§ 113 Absatz 2 Satz 2 in Verbindung mit § 39 Absatz 4 KAGB und § 38 Absatz 2 Satz 1 und 3 KWG) | 4 000 |
 | 4.1.2.6.2 | Jeder Folgebescheid zu einem Verwaltungsakt im Sinne der Nummer 4.1.2.6.1(§ 39 Absatz 4 KAGB in Verbindung mit § 38 Absatz 1 Satz 1 und 2KWG;§ 113 Absatz 2 Satz 2 in Verbindung mit § 39 Absatz 4 KAGB und § 38 Absatz 1 Satz 1 und 2 KWG;§ 113 Absatz 2 Satz 2 in Verbindung mit § 39 Absatz 4 KAGB und § 38 Absatz 2 Satz 1 und 3 KWG) | 1 000 |
 | 4.1.2.7 | Maßnahmen bei Gefahr, je Maßnahme(§ 42 KAGB) | 1 500 |
-| 4.1.2.8 | Befreiung von der jährlichen Prüfung der Einhaltung der Vorschriften des Wertpapierhandelsgesetzes(§ 38 Absatz 4 Satz 6 KAGB;§ 51 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB) | 290 |
+| 4.1.2.8 | Befreiung von der jährlichen Prüfung der Einhaltung der Vorschriften des Wertpapierhandelsgesetzes (§ 38 Absatz 4 Satz 5 KAGB; § 51 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB; § 54 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB) | 280 |
 | 4.1.3 | Individuell zurechenbare öffentliche Leistungen in Bezug auf die Verwahrstelle und den Treuhänder |  |
 | 4.1.3.1 | Genehmigung der Auswahl der Verwahrstelle, Genehmigung oder Anordnung des Wechsels einer Verwahrstelle oder Prüfung der Benennung eines Treuhänders(§ 69 Absatz 1 und 2 KAGB;§ 87 in Verbindung mit § 69 Absatz 1 und 2 KAGB;§ 80 Absatz 4 KAGB;§ 100b Absatz 4 KAGB) |  |
 | 4.1.3.1.1 | wenn die Verwahrstelle oder der Treuhänder bereits Gegenstand einer Genehmigung oder Prüfung war | 100 |
@@ -316,8 +317,8 @@
 | 4.1.5.1.2 | Genehmigung der Anlagebedingungen von geschlossenen Publikumsinvestmentvermögen(§ 267 Absatz 1 und 2 KAGB) | 4 940 |
 | 4.1.5.1.3 | Genehmigung der Änderung von Anlagebedingungen(§ 163 Absatz 1 und 2 KAGB;§ 267 Absatz 1 und 2 KAGB) | 485 |
 | 4.1.5.2 | Genehmigung von Master-Feeder-Strukturen |  |
-| 4.1.5.2.1 | Genehmigung der Anlage eines Feederfonds in einen Masterfonds(§ 171 Absatz 1 und 5 KAGB) | 3 235 |
-| 4.1.5.2.2 | Genehmigungen nach§ 171 Absatz 4 und 5 KAGB,§ 178 Absatz 2 und 3 KAGB,§ 179 Absatz 2 KAGB,§ 179 Absatz 2 Satz 1 und 2 Nummer 1 KAGB,§ 179 Absatz 2 Satz 1 und 2 Nummer 2 KAGB,§ 179 Absatz 2 Satz 1 und 2 Nummer 3 KAGB oder§ 179 Absatz 2 Satz 1 und 2 Nummer 4, Absatz 4 KAGB | 1 010 je Tatbestand |
+| 4.1.5.2.1 | Genehmigung der Anlage eines Feederfonds in einen Masterfonds (§ 171 Absatz 1 und 5 KAGB oder § 272a Absatz 2 und 4 KAGB) | 3 235 je Tatbestand |
+| 4.1.5.2.2 | Genehmigungen nach § 171 Absatz 4 und 5 KAGB, § 178 Absatz 2 und 3 KAGB, § 179 Absatz 2 KAGB, § 179 Absatz 2 Satz 1 und 2 Nummer 1 KAGB, § 179 Absatz 2 Satz 1 und 2 Nummer 2 KAGB, § 179 Absatz 2 Satz 1 und 2 Nummer 3 KAGB oder § 179 Absatz 2 Satz 1 und 2 Nummer 4, Absatz 4 KAGB § 272a Absatz 5, § 272g Absatz 2 KAGB | 1 010 je Tatbestand |
 | 4.1.5.2.3 | Ausstellen einer Bescheinigung zur Vorlage bei den zuständigen Stellen des Herkunftsstaates eines EU-Feeder-OGAW(§ 171 Absatz 6 KAGB) | 370 |
 | 4.1.5.3 | Genehmigung von VerschmelzungenGenehmigung der Verschmelzung –von Sondervermögen auf ein anderes offenes inländisches Publikumsinvestmentvermögen (§ 182 Absatz 1 erste Alternative KAGB, auch in Verbindung mit § 191 Absatz 1 Nummer 1 KAGB);–von OGAW-Sondervermögen auf einen EU-OGAW (§ 182 Absatz 1 zweite Alternative KAGB);–von Sondervermögen einer Umbrella-Konstruktion im Sinne des § 96 Absatz 2 in Verbindung mit § 182 Absatz 1 KAGB;–von Teilgesellschaftsvermögen einer Investmentaktiengesellschaft mit veränderlichem Kapital auf ein anderes offenes inländisches Publikumsinvestmentvermögen (§ 191 Absatz 1 Nummer 2 bis 3 und 4 erste Alternative in Verbindung mit § 182 Absatz 1 KAGB);–von Teilgesellschaftsvermögen einer OGAW-Investmentaktiengesellschaft mit veränderlichem Kapital auf einen EU-OGAW (§ 191 Absatz 1 Nummer 4 zweite Alternative in Verbindung mit § 182 Absatz 1 KAGB);–einer Investmentaktiengesellschaft mit veränderlichem Kapital auf ein anderes offenes inländisches Publikumsinvestmentvermögen (§ 191 Absatz 3 erste bis dritte Alternative in Verbindung mit § 182 Absatz 1 KAGB);–einer Investmentaktiengesellschaft mit veränderlichem Kapital auf einen EU-OGAW (§ 191 Absatz 3 vierte Alternative in Verbindung mit § 182 Absatz 1 KAGB) | 1 530 je Tatbestand |
 | 4.1.6 | Individuell zurechenbare öffentliche Leistungen in Bezug auf offene oder geschlossene inländische Publikums-AIF sowie auf offene inländische Spezial-AIF |  |
@@ -328,11 +329,13 @@
 | 4.1.7.1.1 | Jährliche Überwachung der Einhaltung der Vorschriften des § 165 Absatz 2 Nummer 4, des § 297 Absatz 1, 3 und 5 bis 10, des § 298 Absatz 1, der §§ 301, 302, 303, 304, 305 KAGB;bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert | 125 |
 | 4.1.7.1.2 | Prüfung der Anzeige nach § 310 Absatz 1 KAGB;bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert | 380 |
 | 4.1.7.1.3 | Untersagung des Vertriebs von EU-OGAW nach § 311 Absatz 1 und 3 Satz 1 Nummer 1 KAGB;bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert | 1 000 bis 15 000 |
-| 4.1.7.1.4 | Prüfung der Anzeige der Einstellung des Vertriebs nach § 311 Absatz 6 KAGB;bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert | 280 |
+| 4.1.7.1.4 | Prüfung der geänderten Angaben und Unterlagen bei Widerruf des Vertriebs hinsichtlich einzelner Teilinvestmentvermögen oder Anteilklassen nach § 295a Absatz 5 Satz 3 in Verbindung mit § 310 Absatz 4 Satz 1 | 280 |
 | 4.1.7.1.5 | Prüfung der Anzeige nach § 312 Absatz 1 KAGB und Ausstellen einer Bescheinigung, dass es sich um einen inländischen OGAW handelt;bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert(§ 312 Absatz 4 und 5 Satz 1 und 2 KAGB) | 425 |
 | 4.1.7.1.6 | Ausstellen einer separaten Bescheinigung nach § 312 Absatz 6 KAGB in Verbindung mit Anhang II der Verordnung (EU) Nr. 584/2010; bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert | 190 |
 | 4.1.7.2 | Individuell zurechenbare öffentliche Leistungen in Bezug auf die Anzeige und die Untersagung des Vertriebs von AIF |  |
-| 4.1.7.2.1 | Untersagungdes Vertriebs –nach § 314 Absatz 1 KAGB, sofern § 11 KAGB nicht anzuwenden ist;–von Anteilen oder Aktien an Teilinvestmentvermögen bei AIF mit Teilinvestmentvermögen nach § 314 Absatz 2 KAGB;–von Anteilen oder Aktien an inländischen Publikums-AIF im Inland nach § 316 Absatz 4 Satz 4 KAGB;–von Anteilen oder Aktien an EU-AIF oder ausländischen AIF nach § 320 Absatz 4 KAGB oder–nach § 331 Absatz 7 in Verbindung mit § 321 Absatz 4 KAGB;der Aufnahme des Vertriebs nach –§ 316 Absatz 3 KAGB;–nach § 320 Absatz 2 in Verbindung mit § 316 Absatz 3 KAGB;–nach § 321 Absatz 3 KAGB;–nach § 329 Absatz 4 in Verbindung mit § 321 Absatz 3 KAGB;–nach § 330 Absatz 4 in Verbindung mit § 316 Absatz 3 KAGB;bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert | 1 000 bis 15 000 je Tatbestand |
+| 4.1.7.2.1 | Untersagung des Vertriebs –nach § 314 Absatz 1 KAGB, sofern § 11 KAGB nicht anzuwenden ist;–von Anteilen oder Aktien an Teilinvestmentvermögen bei AIF mit Teilinvestmentvermögen nach § 314 Absatz 2 KAGB;–von Anteilen oder Aktien an inländischen Publikums-AIF im Inland nach § 316 Absatz 4 Satz 4 KAGB;–von Anteilen oder Aktien an EU-AIF oder ausländischen AIF nach § 320 Absatz 4 KAGB oder–nach § 331 Absatz 8 KAGB; | 1 000 bis 15 000 je Tatbestand |
+| der Aufnahme des Vertriebs nach –§ 316 Absatz 3 KAGB;–nach § 320 Absatz 2 in Verbindung mit § 316 Absatz 3 KAGB;–nach § 321 Absatz 3 KAGB;–nach § 329 Absatz 4 in Verbindung mit § 321 Absatz 3 KAGB;–nach § 330 Absatz 4 in Verbindung mit § 316 Absatz 3 KAGB; |
+| bei Umbrella-Konstruktionen je Teilinvestmentvermögen |  |
 | 4.1.7.2.2 | Prüfung der geänderten Angaben und Unterlagen bei Einstellung des Vertriebs eines Teilinvestmentvermögens eines nach § 316 oder nach § 320 vertriebenen AIF(§ 315 Absatz 2 KAGB) | 280 |
 | 4.1.7.2.3 | Prüfung der Anzeige nach –§ 316 Absatz 1 KAGB und Mitteilung nach § 316 Absatz 3 Satz 1 KAGB;–§ 321 Absatz 1 KAGB einschließlich der Prüfung der in § 321 Absatz 1 Satz 2 Nummer 7 KAGB genannten Vorkehrungen und Mitteilung nach § 321 Absatz 3 Satz 1 KAGB;bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert | 730 je Tatbestand |
 | 4.1.7.2.4 | Prüfung der Änderungsanzeige nach§ 316 Absatz 4 KAGB oder § 321 Absatz 4 KAGB;bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert | 375 je Tatbestand |
@@ -352,6 +355,10 @@
 | 4.4.1 | Registrierung des Verwalters eines Fonds für soziales Unternehmertum (EuSEF) nach Artikel 15 der Verordnung (EU) Nr. 346/2013 | 7 235 |
 | 4.4.2 | Prüfung der Anzeige eines neuen Fonds für soziales Unternehmertum (EuSEF) nach Artikel 16 Buchstabe a der Verordnung (EU) Nr. 346/2013 | 1 610 |
 | 4.4.3 | Untersagung des Vertriebs nach Artikel 19 Absatz 3 der Verordnung (EU) Nr. 346/2013 | 1 000 bis 15 000 |
+| 4.5 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2015/760 |  |
+| 4.5.1 | Genehmigung zur Verwaltung eines europäischen langfristigen Investmentfonds (ELTIF) nach Artikel 5 der Verordnung (EU) 2015/760 | 7 235 |
+| 4.5.2 | Prüfung der Anzeige nach Art. 31 der Verordnung (EU) 2015/760 | 1 610 |
+| 4.5.3 | Untersagung des Vertriebs nach Artikel 31 Absatz 6 der Verordnung (EU) 2015/760 | 1 000 bis 15 000 |
 | 5. | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierhandelsgesetzes (WpHG) |  |
 | 5.1 | Maßnahmen nach § 15 Absatz 1 WpHG | 12 100 |
 | 5.2 | Befreiung von der jährlichen Prüfung |  |

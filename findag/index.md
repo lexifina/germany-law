@@ -13,6 +13,8 @@
 - [§ 4c Aktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren](0004c.md)
 - [§ 4d Meldung von Verstößen; Verordnungsermächtigung](0004d.md)
 - [§ 4e Vorschriften über die Verarbeitung personenbezogener Daten](0004e.md)
+- [§ 4f Elektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf](0004f.md)
+- [§ 4g Elektronische Zustellung durch Bereitstellung zum Abruf](0004g.md)
 
 ## Zweiter Abschnitt Organisation
 
