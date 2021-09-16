@@ -1,0 +1,61 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-09-16T18:41:00+02:00
+- Ende: 2021-09-16T20:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2634
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2634
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00118716.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00118716.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00118716.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Vergleichsbericht - Ertrags- und Aufwandslage im interkommunalen Vergleich - Kenntnisnahme
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Mittelbereitstellungen
+- TOP 4.1: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung im ersten Halbjahr 2021 - Kenntnisnahme
+- TOP 5: Quartalsbericht zum 30. Juni 2021 nach § 2 Abs. 2 NKF-CIG und Finanzzwischenbericht - Kenntnisnahme
+- TOP 6: Sachstandsbericht Sanierungsplan zum 30.06.2021 - Kenntnisnahme
+- TOP 7: Beteiligungsbericht 2019 - einstimmig beschlossen
+- TOP 8: Befreiung von der Aufstellung des Gesamtabschlusses 2020 - einstimmig beschlossen
+- TOP 9: Sachstand Kita in der Coens-Galerie, hier: Ausbau von Plätzen für die Betreuung von Kindern (Anfrage Nr. 27/2021) - einstimmig beschlossen
+- TOP 10: Bestellung von Beauftragten nach § 27a GO NRW für die Interessen von Senioren - einstimmig beschlossen
+- TOP 11: Entscheidung über einen Beratungspunkt aus der Sitzung des Feuerschutzausschusses
+- TOP 11.1: Brandschutzbedarfsplan - einstimmig beschlossen
+- TOP 12: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 12.1: Aufhebung 3. vereinf. Änd. K 8 Aufstellung - einstimmig beschlossen
+- TOP 12.2: Stellungnahme zur 10. Regionalplanänderung - mehrheitlich beschlossen
+- TOP 12.3: G 230 Aufstellung 13a - mehrheitlich beschlossen
+- TOP 12.4: G 229 Aufstellung - einstimmig beschlossen
+- TOP 12.5: Straßenbenennung Sportplatz Neukirchen - einstimmig beschlossen
+- TOP 12.6: 36. FNP Änd. Aufstellung - mehrheitlich beschlossen
+- TOP 12.7: W 59 Aufstellung - mehrheitlich beschlossen
+- TOP 12.8: G 209 ern. Aufstellung - von der Tagesordnung abgesetzt
+- TOP 12.9: G 227 Aufstellung - mehrheitlich beschlossen
+- TOP 13: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 13.1: Prüfung von Mitgliedschaften (Antrag Nr. 85/2021) - Kenntnisnahme
+- TOP 13.2: Klimamanager - mehrheitlich beschlossen
+- TOP 13.3: Sammelbeantwortung: Beantwortung von Anfragen aus dem Jahr 2020 - Kenntnisnahme
+- TOP 14: Schriftliche Anträge
+- TOP 14.1: Anträge der SPD-Fraktion
+- TOP 14.2: Anträge der CDU-Fraktion
+- TOP 14.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 14.4: Anträge der FDP-Fraktion
+- TOP 14.4.1: Befragung zur Fortführung der Diedrich-Uhlhorn-Realschule auf breitem Fundament durchführen
+- TOP 14.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 14.6: Anträge der UWG-Fraktion
+- TOP 15: Gemeinschaftsanträge liegen nicht vor.
+- TOP 16: Schriftliche Anfragen liegen nicht vor.
+- TOP 16.1: Anfragen der SPD-Fraktion
+- TOP 16.2: Anfragen der CDU-Fraktion
+- TOP 16.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 16.4: Anfragen der FDP-Fraktion
+- TOP 16.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 16.6: Anfragen der UWG-Fraktion
+- TOP 17: Mitteilungen des Bürgermeisters liegen nicht vor.
