@@ -1,0 +1,69 @@
+# 7. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-09-16T17:10:00+02:00
+- Ende: 2021-09-16T21:37:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12389
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12389
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00490501.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Sachstand Konversionsflächen in Gievenbeck und Sentrup - eingebracht
+- TOP 4.2: Sachstand Aufstellung des ortsfesten Dialog-Displays in Nienberge - eingebracht
+- TOP 4.3: Sachstand Dirtpark in Nienberge - zur Kenntnis genommen
+- TOP 4.4: Sachstand zum Antrag A-W/0009/2021 vom 26.01.2021: Verkehrliches Maßnahmenprogramm "Verlegung Heroldstraße / Bahnhaltepunkt Mecklenbeck" - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: Fortschreibung der kleinräumigen Bevölkerungsprognose (KBP) 2019-2030 - zur Kenntnis genommen
+- TOP 5.2: Kindertagesbetreuungsbericht 2021 - zur Kenntnis genommen
+- TOP 5.3: Gestaltung des Kreisverkehrs in Mecklenbeck - zur Kenntnis genommen
+- TOP 5.4: Grünanlage Aasee, Sanierung von Wegen und sonstigen Einrichtungen - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Vergabe von Zuschüssen zu privaten denkmalpflegerischen Maßnahmen - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
+- TOP 7.2: MünsterZukünfte 20|30|50: Zentrale Ergebnisse und weiteres Vorgehen - einstimmig beschlossen
+- TOP 7.3: Vorhabenbezogene 2. Änderung des Bebauungsplans Nr. 375: Gievenbeck - Toppheide (Hensenstraße / Gescherweg / Rüschhausweg) [Neues Wohnquartier] - einstimmig beschlossen
+- TOP 7.4: Grundsatzbeschluss für ein Bildungshaus Albachten - Anregung nach § 24 GO NRW Nr. 2019-00277 - einstimmig geändert beschlossen
+- TOP 7.5: 4. Münsteraner Kinder- und Jugendförderplan 2021-2025 - einstimmig geändert beschlossen
+- TOP 7.6: Überleitung der außerunterrichtlichen Angebote (OGS) der Marienschule Roxel - einstimmig beschlossen
+- TOP 7.7: Kommunale Sportförderung: Zuschüsse für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 7.8: Neubau Gärtnerstützpunkt Gievenbeck - einstimmig beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Versorgungsinfrastruktur Meckenlenbecks stärken und ausbauen - vertagt, mit Prüfauftrag
+- TOP 8.2: Spielplätze inklusiv und barrierefrei gestalten - gemeinsames Spielen für Kinder mit und ohne Behinderungen ermöglichen - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.3: Planung einer Kita als Familienzentrum mit Kita im Neubaugebiet an der Feldstiege - zur Kenntnis genommen
+- TOP 8.4: Bürgersteig Boverste Meer / Hollandtstraße barrierefrei herrichten - zur Kenntnis genommen
+- TOP 8.5: Bau Fuß- und Radweg Wasserweg - Legdenweg - eingebracht
+- TOP 8.6: Schöner Wohnen in Roxel und im Westen - eingebracht
+- TOP 8.7: Straßennamen für Albachten - eingebracht
+- TOP 8.8: Gegen das Vergessen - Erinnerungskultur stärken - vertagt, mit Prüfauftrag
+- TOP 8.9: Hülshoffstraße L 529 in Nienberge - Installation einer fest installierten Blitzanlage - eingebracht
+- TOP 8.10: Parkbänke in Sentrup - eingebracht
+- TOP 8.11: Anregung an den Rat - Minimale Dienstleistungen bei Sparkassenfilialen vor Ort erhalten - einstimmig beschlossen
+- TOP 8.12: Münsteraner Flüchtlingseinrichtungen für geflohene Afghan*innen verfügbar machen - eingebracht
+- TOP 8.13: Verbesserung der Tagesbetreuungssituation U3 in Albachten - vertagt
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Lichtsignalanlagen in Albachten
+- TOP 9.1.1: Ergänzung an der Lichtsignalanlage Kreuzung Osthofstraße - Am Kämpken - Steinkuhle - zur Kenntnis genommen
+- TOP 9.1.2: Änderung der Ampelphasen der Fußgängerampel Osthofstraße - Schulwegsicherung - zur Kenntnis genommen
+- TOP 9.2: Erweiterung des BWZ ökologisch gestalten - zur Kenntnis genommen
+- TOP 9.3: Einrichtung von Behindertenparkplätzen in Albachten - zur Kenntnis genommen
+- TOP 9.4: Standort für einen Recyclinghof in Albachten - zur Kenntnis genommen
+- TOP 9.5: Vielfalt statt Steine - zur Kenntnis genommen
+- TOP 9.6: Nordumgehung bauen - Ortskern entlasten - zur Kenntnis genommen
+- TOP 9.7: Geschwindigkeitsmessungen und regelmäßige Geschwindigkeitskontrollen auf der Hülshoffstraße in Nienberge - zur Kenntnis genommen
+- TOP 9.8: Begegnungs- und Bewegungsräume für Kinder und Jugendliche schaffen - Eine Pumptrack-Anlage für Roxel - zur Kenntnis genommen
+- TOP 9.9: Geschwindigkeitsmessung auf der Redigerstraße (Stadtteil: Sentruper Höhe) - zur Kenntnis genommen
+- TOP 9.10: Zusätzlicher Bankstandort am Christoph-Bernhard-Graben - zur Kenntnis genommen
+- TOP 9.11: Einrichtung von Saatgutecken in Bücherbussen - zur Kenntnis genommen
+- TOP 10: Verschiedenes - zur Kenntnis genommen
