@@ -1,0 +1,11 @@
+# Anlage 1 (zu den §§ 5, 19 Absatz 1, §§ 21, 22 Absatz 2, § 23 Absatz 1 und § 24 Absatz 2)Bewertungsmaßstab für die Leistungen
+
+Für die Bewertung der Leistungen in der Prüfung, den Prüfungsteilen und den Prüfungsbestandteilen ist der folgende Bewertungsmaßstab anzuwenden:
+| Benotung | Definition des Leistungsniveaus der beruflichen Handlungsfähigkeit |
+| Note als Dezimalzahl | Note in Worten |
+| 1,0 bis 1,4 | sehr gut | eine Leistung, die den Anforderungen in besonderem Maße entspricht |
+| 1,5 bis 2,4 | gut | eine Leistung, die den Anforderungen voll entspricht |
+| 2,5 bis 3,4 | befriedigend | eine Leistung, die den Anforderungen im Allgemeinen entspricht |
+| 3,5 bis 4,4 | ausreichend | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht |
+| 4,5 bis 5,4 | mangelhaft | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass notwendige Grundlagen für die berufliche Handlungsfähigkeit vorhanden sind |
+| 5,5 bis 6,0 | ungenügend | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst Grundlagen für die berufliche Handlungsfähigkeit fehlen |
