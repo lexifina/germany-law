@@ -1,0 +1,84 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-09-17T16:00:00+02:00
+- Ende: 2021-09-17T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5570
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5570
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 17.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00150806.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 17.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00150806.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 17.09.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00150806.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP 5: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Wahlprüfungsausschuss
+- TOP 6: Gültigkeit der Wiederholungswahl zum Integrationsausschuss am 30. Mai 2021 - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 7: Standentgeltentwicklung im Bereich Kirmesse und Märkte – Kostendeckungsgrad - einstimmig zugestimmt
+- TOP 8: Standentgelt Krammärkte – Kostendeckungsgrad - einstimmig zugestimmt
+- TOP 9: Einrichtung eines Klimabeirates - mehrheitlich zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 10: Feststellung des Jahresabschlusses 2020 der Städtischen Friedhöfe Neuss (SFN) zum 31.12.2020 - einstimmig zugestimmt
+- TOP -: Integrationsausschuss
+- TOP 11: Mitwirkung in anderen Gremien der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 12: Im Taubental, Bushaltestellenpaare "Sperberweg" und "Forumstraße": Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 13: Max-Ernst-Straße, Bushaltestellenpaar "August-Macke-Straße": Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 14: Leostraße zwischen Frankenstraße und Weißenberger Weg: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - einstimmig zugestimmt
+- TOP 15: Feststellung des Jahresabschlusses des Tiefbaumanagements der Stadt Neuss zum 31.12.2020 - einstimmig zugestimmt
+- TOP -: Ausschuss für Soziales, Inklusion und demografische Entwicklung
+- TOP 16: "Hilfekonzept für ältere Menschen in der Stadt Neuss" - Strukturen für die Zukunft - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 17: Bestätigung des Verkehrsversuchs "Engstelle" Kapellener Straße - verwiesen
+- TOP 18: Umgestaltung der Rheinfährstraße nach Erneuerung der Ver- und Entsorgungsleitungen - einstimmig zugestimmt
+- TOP 19: Umgestaltung der Erftstraße nach Kanalbaumaßnahmen - einstimmig zugestimmt
+- TOP 20: Bebauungsplan Nr. 501 - Norf, Nievenheimer Straße (Kita) - Auslegungsbeschluss - einstimmig zugestimmt
+- TOP 21: Bebauungsplan Nr. 500 - Hammfeld II, Hammer Landstraße, Derendorfweg - - einstimmig zugestimmt
+- TOP 22: Bebauungsplan V 143/6 St. Konradquartier Einleitungsbeschluss - einstimmig zugestimmt
+- TOP 23: Umgestaltung Steigervorplatz zum int. Hansetag 2022 - einstimmig zugestimmt
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 24: Beitritt der Stadt Neuss zum ZIM-Innovationsnetzwerk - einstimmig zugestimmt
+- TOP 24.1: Handlungskonzept Verkauf / Vergabe städtischer Gewerbeflächen - vertagt
+- TOP 24.2: Planung und Vorbereitung Zukunftskongress - einstimmig zugestimmt
+- TOP -: Betriebsausschuss GMN
+- TOP 25: Neubau Feuerwache Hoisten - Vorentwurfsplanung (LPH2) - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 26: Konferenz der Ratsmitglieder im Städtetag Nordrhein-Westfalen am 08.12.2021 - einstimmig zugestimmt
+- TOP 26.1: Vorschläge zur Berufung weiterer beratender Mitglieder des Bezirksausschusses Norf - einstimmig zugestimmt
+- TOP 27: Einbeziehung von Audio-/Videostreaming und -konferenzen in die Geschäftsordnung der Stadt Neuss - einstimmig zugestimmt
+- TOP 28: Gewährung von Zuschüssen an die politischen Jugendorganisationen - mehrheitlich zugestimmt
+- TOP 29: Beteiligung am Förderprogramm "Dorferneuerung 2022", hier Sonderaufruf "Feuerwehrhäuser in Dörfern 2022" - einstimmig zugestimmt
+- TOP 30: Turngemeinde Neuss: Sportzentrum Schorlemerstraße, hier: Beschluss zur Umsetzung der Maßnahme "Erweiterung/Neubau Sportstätte und Umbau/Modernisierung der TG-Verwaltung" - einstimmig zugestimmt
+- TOP 31: Einbringung des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Jahr 2022 - einstimmig zugestimmt
+- TOP 32: Genehmigung der Dringlichkeitsentscheidungen Nr. 51 und 52: Antrag des ZIN e. V. auf Erlass einer odnungsbehördlichen Verordnung zur Öffnung der Geschäfte in der Innenstadt für das Jahr 2021 gemäß Ladenöffnungsgesetz NRW - mehrheitlich zugestimmt
+- TOP -: Anträge
+- TOP 33: Antrag der CDU-Fraktion betr.: Neuss verfehlt Förderung des geplanten MikroHubs - verwiesen
+- TOP 34: Antrag der CDU-Fraktion betr.: Bürgerbeteiligung zum Mobilitätskonzept wiederholen - einstimmig zugestimmt
+- TOP 35: Antrag der CDU-Fraktion betr.: Klimaschutz: Erfahrungen aus der Modellstadt Bottrop für Neuss übernehmen
+- TOP 36: Antrag der CDU-Fraktion betr.: Rasern die Tour vermasseln: Feste Blitzer an Schwerpunkten installieren
+- TOP 37: Antrag der CDU-Fraktion betr.: Verkehrsversuch Sebastianusstraße
+- TOP 38: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Gründung einer Stadtentwicklungsgesellschaft - mehrheitlich zugestimmt
+- TOP 39: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Raumlufttechnische Optimierung der Klassen-, Fach-, und OGS-Räume in Neusser Schulen - einstimmig zugestimmt
+- TOP 40: Antrag der FDP-Fraktion betr.: Bedarf an mobilen Virenfiltern in Neusser Schulen - mehrheitlich abgelehnt
+- TOP 41: Antrag der Fraktionen von CDU und FDP betr.: Erarbeitung einer „Umsetzungsstrategie Digitalisierung" für die Stadt Neuss
+- TOP 42: Antrag der CDU-Fraktion betr.: Schulen für die 4. Welle fit machen - verwiesen
+- TOP 43: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Verkehrsversuch in der Innenstadt stärken - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 46: Neuaufstellung des Rettungsdienstbedarfsplanes des Rhein-Kreises Neuss 2021 - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
