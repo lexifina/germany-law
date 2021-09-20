@@ -1,0 +1,6 @@
+# TOP 17: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Langenhahn (2021-09-20)
+- Körperschaft: Ortsgemeinde Langenhahn
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2021-16-66%7CVerschNoe%7C2
