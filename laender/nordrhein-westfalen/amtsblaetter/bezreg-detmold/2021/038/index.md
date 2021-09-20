@@ -1,0 +1,10 @@
+# Amtsblatt für den Regierungsbezirk Detmold 2021 Nr. 38 vom 20.09.2021
+
+- Herausgeber: Bezirksregierung Detmold
+- Ausgabe: 2021-09-20 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 38
+- Quelle: https://www.bezreg-detmold.nrw.de/system/files/media/document/file/1.12_Amtsblatt_2021_nr%2038.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+- Bekanntmachungen: 3 (je eine Datei)
+
+- Text: nicht übernommen - das Inhaltsverzeichnis nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
