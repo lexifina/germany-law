@@ -1,0 +1,71 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-09-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6703454
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6703454
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Aufstellung eines Bücherschrankes in der Borstei auf städtischem Grund, hier: Vorstellung Betreuungskonzept (-> siehe TOP´s 2.3 und 4.1.8/ Sitzung 17.05.2021)
+- TOP 2.2.: Ideen zur Neugestaltung Sapporobogen - Unterführung zum Olympiapark
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Gerastr. 4-6 2. Pelkovenstr. 60 3. Pelkovenstr. 77 4. Waldhornstraße 5. a) Perlgrasweg - Haus 1 b) Perlgrasweg - Haus 2
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: ./.
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Hardenbergstr. 27
+- TOP 3.3.4.: Künstlerische Neugestaltung der Unterführung für Fußgänger*innen am Moosacher Bahnhof; hier: Gestaltungsentwurf der "Blauen Vögel" (-> siehe TOP 4.1.2 / Sitzung 22.03.2021)
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Stärkerer Ausbau von Photovoltaik auf öffentlichen Gebäuden
+- TOP 4.1.2.: Erneuerung des Bodenbelages an der Bushaltestelle Sankt-Martins-Platz
+- TOP 4.1.3.: Einladung der Schäfflertänzer
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Gesamtverein Moosach e.V. KulturSommerMoosach vom 10.06. - 10.10.2021 7.900,00 € / Az. 0262.0-10-0262
+- TOP 5.2.: (E) Stadtbezirksbudget Gesamtverein Moosach e.V. Moosacher Musiknacht am 11.09.2021 11.000,00 € / Az. 0262.0-10-0269
+- TOP 5.3.: Entscheidungen gemäß OB-Vollmacht: Projektplanung; Baumaßnahme barrierefreie Bushaltestellen: 1. PBB Am Kapuzinerhölzl, Haltestelle Schragenhofstraße 2. PBB Baubergerstraße, Haltestelle Baubergerstraße 3. PBB Allacher Straße, Haltestelle Skagerrakstraße
+- TOP 5.4.: Entscheidung gemäß OB-Vollmacht: Sondernutzungserlaubnis; Antrag mobiler Fahrradständer, Dachauer Str. 413a
+- TOP 5.5.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V. Ökologische Aufwertung in der Ausgleichsfläche „In den Kirschen“ vom 01.10.2021 – 30.04.2022 4.426,50 € / Az. 0262.0-10-0270
+- TOP 6.: Anhörungen
+- TOP 6.1.: Entwurf Sitzungsvorlage: Genehmigungsantragsauflagen für die Panzerteststrecke
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Den Spielraum der Baumschutzverordnung ausschöpfen und angemessene Ersatzpflanzungen einfordern! [BA-Antrag Nr. 14-20/B 07729; Mitbehandlung in gesamtstädt. Sitzungsvorlage Nr. 20-26/V 03093;PLANR muss jährlich Gesamtbilanz veröffentlichen.]
+- TOP 7.2.: Anfrage: Können die ursprünglich am Westfriedhof beheimateten und derzeit sich in Oberhaching befindlichen beiden Sphingen wieder in den Westfriedhof zurückgeholt werden? [BA-Antrag Nr. 20-26/B 02147; erforderliche Schritte zum Rückerwerb werden veranlasst]
+- TOP 7.3.: Probeweise Einrichtung eines Sperrmüllcontainers an einer Wertstoffinsel (Vorschlag: Hugo-Troendle-Straße/ Wintrichring) [BA-Antrag Nr. 20-26/B 02410; AWM wird nach neuen Möglichkeiten einer kundenfreundlichen Sperrmüllentsorgung suchen]
+- TOP 7.4.: Ausbesserung von Unebenheiten auf dem Fuß- und Radweg der Grünanlage zwischen Borstei und SWM-Gelände [BA-Antrag Nr. 20-26/B 02413; im August 2021 wurden die wassergebundenen Wege endgültig wiederhergestellt.]
+- TOP 7.5.: Häufigere Leerung von Abfallkörben in Moosach [BA-Antrag Nr. 20-26/B 02414; Häufigkeit turnusmässiger Leerungen ausgeschöpft; weitere Maßnahmen sind organisatorisch und finanziell nicht mehr möglich]
+- TOP 7.6.: Dringlichkeitsantrag: Zusätzliche Impfmöglichkeiten in Moosach [BA-Antrag Nr. 20-26/B 02417; niederschwellige Impfaktionen in den Stadtvierteln werden laufend angeboten.]
+- TOP 7.7.: Grünphase der Ampelschaltung für Fuß- und Radverkehr am Wintrichring verlängern [BA-Antrag Nr. 20-26/B 02802; keine Umsetzung möglich; Signalsteuerung ist bereits bestmöglich geschalten.]
+- TOP 7.8.: Anfrage: Umsetzung der Nord-Süd-Grünverbindung; Information über den gegenwärtigen Planungsstand sowie den Zeitplan zur Umsetzung des Nutzungskonzeptes [BA-Antrag Nr. 20-26/B 02538; aktuell werden Bestandsbauwerke saniert; mit Planungsergebnissen wird sich Stadtrat voraussichtlich Herbst 2022 befassen können.]
+- TOP 7.9.: Anfrage: Auswirkung der Kürzung von Investitionsmitteln für die Feuerwehr Moosach [Schreiben BA10 vom 25.09.2021; Zuordnungssystematik der Haushaltsmittel nicht möglich; Sparmassnahmen stadtweit, Sanierungsvorhaben sind bis auf einen Zeitpunkt nach 2027 verschoben.]
+- TOP 7.10.: Plangenehmigung nach § 18 Abs. 1 AEG... für das Bauvorhaben 2. Stammstrecke; hier: Vorabmassnahme Rangierbahnhof (Rbf) Nord 1. Gesamtstädtische Stellungnahme zum Anhörungsverfahren des Eisenbahn-Bundesamtes 2. Antwort auf zusätzliche Fragen des BA10 im Rahmen der Stellungnahme (-> TOP 6.9 /Sitzung 26.07.2021); [Schreiben BA10 vom 28.07.2021; Dauer der Baumaßnahme 1 Jahr, die Öffentlichkeit wird über Medieninformation unterrichtet werden.]
+- TOP 7.11.: Versetzung eines Zaunes zur Abgrenzung des Spielplatzes Borstei (zwischen dem SWM-Gelände und der Hengelerstraße) [Schreiben BA10 vom 20.05.2021; bis Ende 2021 wird seitens SWM Zaunführung wie beantragt angepasst.]
+- TOP 7.12.: Unterstützung von Schüler*innen, die in der Entwicklung und in ihrem Lernfortschritt durch den Distanz- und Wechselunterricht beeinträchtigt sind [Schreiben BA10 vom 20.05.2021; es gibt bereits diverse Unterstützungsangebote und Sondermittelbereitstellungen.]
+- TOP 7.13.: Verkehrssicherheit am Sportpark des Postsportvereins (PSV) Franz-Mader-Str. 1: 1. Antwort MOR vom 30.08.2021 2. Antwort BAUR vom 18.08.2021 [Schreiben BA10 vom 30.07.2021; beantragtes Verkehrsschild "Schrittgeschwindigkeit" ist nicht zulässig; fehlende Rechtsgrundlage für Tempo30-Zone. Sperrpfosten werden wie beantragt gesetzt]
+- TOP 7.14.: Einrichtung eines Zebrastreifens über die Eininger Straße (zwischen Günzburger Platz und Josef-Knogler-Straße) [Schreiben BA10 vom 24.03.2021; Vorgabe der Richtlinien für die Anlage und Ausstattung von Fußgängerüberwegen mit mindestnes 200 Fahrzeuge pro Stunde sind nicht erfüllt; absol. HaltV wird an der Einmündung angeordnet; Zuständigkeit Gehwegnase liegt beim Baureferat.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Entwurf Sitzungsvorlage: Strategie Flüchtlingsunterbringung 2022 - 2026; Betriebsführung von dezentralen Unterkünften, hier im 10. Stadtbezirk Moosach (→ Vorabzustimmung Vorsitzender gem. § 20 Abs. 1 BA-Satzung)
+- TOP 8.2.: (U) Gesamtkonzept Landshuter Allee - Mehr Ruhe, mehr Grün, mehr Lebensqualität Antrag Nr. 20-26 / A 00264 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 17.07.2020 Petition: Einsatz moderner und effizienter Filtersysteme bei der geplanten Untertunnelung des Mittleren Rings, Landshuter Allee
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2022 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Die Provinzen erschließen – Den Münchner Osten kolonialisieren Antrag Nr. 20-26 / A 00363 von der Fraktion ÖDP / FW vom 14.08.2020 Anbindung des Interims-Gasteig sicherstellen und Anwohnerparkplätze sichern Antrag Nr. 20-26 / A 00914 von der CSU-Fraktion vom 23.12.2020 Bessere ÖPNV-Anbindung von Schwabing an Neuhausen und den Hauptbahnhof – Tram 23 mit den Linien 12 und 28 verknüpfen Antrag Nr. 20-26 / A 01088 von der FDP BAYERNPARTEI Stadtratsfraktion vom 22.02.2021 Gasteig HP8 - verkehrliche Anbindung sicherstellen! Antrag Nr. 20-26 / A 01450 von der CSU-Frakion vom 17.05.2021 Bus-Osttangente planen und einrichten ! Antrag der Fraktion Bündnis`90 / Die Grünen Antrag Nr. 14-20 / B 07086 des Bezirksausschusses des BA 17 – Obergiesing vom 19.11.2019 Bus-Osttangente planen und einrichten! Unterstützung des BA-Antrags Nr. 14-20 / B 07086 des BA 17 durch den BA 16 Antrag Nr. 14-20 / B 07247 des Bezirksausschusses des Stadtbezirkes 16 – Ramersdorf-Perlach vom 05.12.2019 etc. siehe Sitzungsvorlage
+- TOP 8.5.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 8.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: (U) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) 2021 B. Anträge 1. Den Horizont erweitern – Sozialgerechte Bodennutzung und Bodenvorratspolitik anderer Städte vorstellen Antrag Nr. 14-20 / A 04310 von der Fraktion DIE GRÜNEN/RL vom 20.07.2018 2. Mehr dauerhaft bezahlbarer Wohnraum III: Mit der neuen SoBoN mehr bezahlbaren Wohnraum schaffen und dauerhaft sichern Antrag Nr. 14-20 / A 06746 von der Fraktion DIE GRÜNEN/ROSA LISTE vom 11.02.2020 3. Mehr dauerhaft bezahlbares Wohnen Antrag Nr. 14–20 / A 06968 von der SPD-Stadtratsfraktion vom 10.03.2020 4. SoBoN-Novelle 2020/2021: München braucht mehr geförderten Wohnraum Antrag Nr. 20-26 / A 00707 von der Fraktion DIE LINKE./Die PARTEI vom 18.11.2020
+- TOP 8.8.: Verkehrsrechtliche Anordnung nach § 45 StVO: - nicht-öffentlich - Ernst-Platz-Straße: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 8.9.: Vorkaufsrechte nach dem BauGB: - nicht-öffentlich - 1. Meggendorferstraße (Einleitung) 2. Triebstraße (Verzicht) 3. Hardenbergstraße (Abschluss)
+- TOP 8.10.: Mitteilung über ein Grundstücksgeschäft: - nicht-öffentlich - Ausführungs- und Erwerbsvertrag im ehem. Meiller-Gelände
+- TOP 8.11.: Mobilfunk: - nicht-öffentlich - 1. Suchkreisanzeige: "Dantestadion" 2. Erweiterung Sende- und Empfangsanlage für mobiles Breitband: Schragenhofstraße
+- TOP 8.12.: Teil B - nicht-öffentlicher Teil der TO: 1. Straßenbenennung in Neubaugebiet nach Moosacher Persönlichkeit
+- TOP 4.: Anträge
