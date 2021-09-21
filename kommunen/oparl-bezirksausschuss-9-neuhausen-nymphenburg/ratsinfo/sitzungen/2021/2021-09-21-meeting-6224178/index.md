@@ -1,0 +1,183 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2021-09-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6224178
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6224178
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.1.: Nachbesetzung im Unterausschuss für Umwelt und Klimaschutz
+- TOP 2.4.2.: Nachbesetzung im Unterausschuss für Kultur
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Entscheidung über Freischankflächen und Verkaufseinrichtungen: - Nördliche Auffahrtsallee 69 - Nymphenburger Str. 168
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Konflikte Radverkehr / Fußgänger im Hirschgarten
+- TOP 3.2.2.: Sachstand Braganzastraße / Hanebergstraße
+- TOP 3.2.3.: Kreuzung Merianstraße / Hübnerstraße / Dom-Pedro-Straße
+- TOP 3.2.4.: Temporäres Experiment Ladeinfrastruktur Leonrodplatz
+- TOP 3.2.5.: Bauarbeiten 2. Stammstrecke
+- TOP 3.2.6.: Verkehrsregelungen Waisenhausstr.
+- TOP 3.2.7.: Verkehrsregelungen Waisenhausstr., Dom-Pedro-Platz, Braganzastr.
+- TOP 3.2.8.: Geschwindigkeitsregelung Landshuter Allee
+- TOP 3.2.9.: Verkehrssituation Dall´Armistraße 71
+- TOP 3.2.10.: Verkehr und Parken Hilblestr.
+- TOP 3.2.11.: Parklizenzbereich südlich der Arnulfstr. zwischen Schäringerstr. und Briefzentrum
+- TOP 3.2.12.: Parkdruck durch Schanigärten im Bereich Schulstr.
+- TOP 3.2.13.: Kreuzung Dachauer Str. / Heideckstr.
+- TOP 3.2.14.: Optimierungsvorschlag Radweg Canalettostr.
+- TOP 3.2.15.: Einbahnregelung Blutenburgstr.
+- TOP 3.2.16.: Markierung Radstreifen Leonrodstr.
+- TOP 3.2.17.: Radweg zwischen Hilble- und Leonrodstr.
+- TOP 3.2.18.: Radweg Leonrodstr. / Platz der Freiheit
+- TOP 3.2.19.: Fahrradwege an den Bushaltestellen auf der Friedenheimer Brücke rot markieren
+- TOP 3.2.20.: Verkehrssicherheit Böcklinstr.
+- TOP 3.2.21.: Neue Fahrradspur Landshuter Allee
+- TOP 3.2.22.: Kreuzung Taschnerstr. / Ludwig-Ferdinand-Platz
+- TOP 3.2.23.: Durchgangsverkehr im Bereich Frundsbergstraße / Volkartstraße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Programm barrierefreie Bushaltestellen: - Lothstraße, Haltestelle Gaiglstraße
+- TOP 3.3.2.: Anhörung zu verkehrsrechtlichen Anordnungen: - Frundsbergstr. (Platz der Freiheit) - Lothstr. - Ponzonestr. - Karl-Schurz-Str.
+- TOP 3.3.3.: Planfeststellung nach §§ 18 Abs. 1, 18d Allgemeines Eisenbahngesetz (AEG) und § 76 Abs. 1 Verwaltungsverfahrensgesetz (VwVfG) für das Vorhaben: "3. Planänderung im PFA 1 der 2. S-Bahn-Stammstrecke München (Änderung Bauwasserableitung)", Bahn-km 103,464 bis 105,553 der Strecke 5547 Bf München Laim - München Leuchtenbergring Bft Anhörungsverfahren
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: S-Bahnhof Donnersbergerbrücke - Veranlassung einer umfassenden Sanierung
+- TOP 3.4.2.: Bushaltestellen an der Donnersbergerbrücke - Verbesserung des Wetterschutzes und ökologische Aufwertung veranlassen
+- TOP 3.4.3.: Barrierefreiheit an den Unterführungen Landshuter Allee verbessern
+- TOP 3.4.4.: Hirschgartenparkplatz Winfried-/De-la-Paz-Straße
+- TOP 3.4.5.: Lagerstandort Lothstraße 3
+- TOP 3.4.6.: Fahrradparkplätze Donnersbergerstraße
+- TOP 3.4.7.: Parkplatzsituation Lizenzgebiet Rotkreuzplatz Süd
+- TOP 3.4.8.: Lichtzeichenanlage Ludwig-Ferdinand-Brücke
+- TOP 3.4.9.: Verkehrs-/ Lärmsituation Wintrichring / Volpinistraße
+- TOP 3.4.10.: Kreuzung Nymphenburger-/ Romanstraße - Querung Radverkehr
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Fahrradstraße Blutenburgstraße
+- TOP 3.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.3.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2022 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Die Provinzen erschließen – Den Münchner Osten kolonialisieren Antrag Nr. 20-26 / A 00363 von der Fraktion ÖDP / FW vom 14.08.2020 Anbindung des Interims-Gasteig sicherstellen und Anwohnerparkplätze sichern Antrag Nr. 20-26 / A 00914 von der CSU-Fraktion vom 23.12.2020 Bessere ÖPNV-Anbindung von Schwabing an Neuhausen und den Hauptbahnhof – Tram 23 mit den Linien 12 und 28 verknüpfen Antrag Nr. 20-26 / A 01088 von der FDP BAYERNPARTEI Stadtratsfraktion vom 22.02.2021 Gasteig HP8 - verkehrliche Anbindung sicherstellen! Antrag Nr. 20-26 / A 01450 von der CSU-Frakion vom 17.05.2021 Bus-Osttangente planen und einrichten ! Antrag der Fraktion Bündnis`90 / Die Grünen Antrag Nr. 14-20 / B 07086 des Bezirksausschusses des BA 17 – Obergiesing vom 19.11.2019 Bus-Osttangente planen und einrichten! Unterstützung des BA-Antrags Nr. 14-20 / B 07086 des BA 17 durch den BA 16 Antrag Nr. 14-20 / B 07247 des Bezirksausschusses des Stadtbezirkes 16 – Ramersdorf-Perlach vom 05.12.2019 etc. siehe Sitzungsvorlage
+- TOP 3.6: Verschiedenes
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Aufzug Birketweg / Friedenheimer Brücke
+- TOP 4.2.2.: Entwicklung PaketPost-Areal
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung zu Baugenehmigungsanträgen: - Hanfstängelstr. 26 - Ignaz-Perner-Str. 15 - Romanstr. 34 - Nibelungenstr. 64 - Birketweg - Maria-Ward-Str. 1a
+- TOP 4.3.2.: Bebauungsplan Nr. 2141 Zuccalistr.
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Bauvorhaben im St.-Vinzenz-Viertel
+- TOP 4.4.2.: Paketpost-Areal - Bürger*innen-gutachten flankieren und -beteiligung möglich machen
+- TOP 4.4.3.: Im Bürgergutachten klimaschonenden Bau und Unterhalt bei Neugestaltung des Areals der Paketposthalle berücksichtigen
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: (U) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) 2021 B. Anträge 1. Den Horizont erweitern – Sozialgerechte Bodennutzung und Bodenvorratspolitik anderer Städte vorstellen Antrag Nr. 14-20 / A 04310 von der Fraktion DIE GRÜNEN/RL vom 20.07.2018 2. Mehr dauerhaft bezahlbarer Wohnraum III: Mit der neuen SoBoN mehr bezahlbaren Wohnraum schaffen und dauerhaft sichern Antrag Nr. 14-20 / A 06746 von der Fraktion DIE GRÜNEN/ROSA LISTE vom 11.02.2020 3. Mehr dauerhaft bezahlbares Wohnen Antrag Nr. 14–20 / A 06968 von der SPD-Stadtratsfraktion vom 10.03.2020 4. SoBoN-Novelle 2020/2021: München braucht mehr geförderten Wohnraum Antrag Nr. 20-26 / A 00707 von der Fraktion DIE LINKE./Die PARTEI vom 18.11.2020
+- TOP 4.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Verschiedenes
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V. Kreisgruppe München Ökologische Aufwertung in der Ausgleichsfläche "In den Kirschen" (Plan 03/782a/4) von Oktober 2021 - April 2022 4.426,50 €; Az. 0262.0-9-0525
+- TOP 5.1.2.: (E) + (U) Wiederaufstellung der Container in der Schäringerstraße Empfehlung Nr. 20-26 / E 00054 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen- Nymphenburg am 17.06.2021
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Feinstaubbelastung reduzieren - an der Landshuter Allee werden Wände mit Moosverkleidung erprobt
+- TOP 5.2.2.: Baumpflanzung Nibelungen-/Winthirstraße
+- TOP 5.2.3.: Baumschutz Ferdinand-Maria-Str.
+- TOP 5.2.4.: Recycling-Konzepte
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Bernabeistr. 4 - Nymphenburger Str. 103 - Volpinistr. 2 - Hofenfelsstr. 41 - Orffstr. 10 - Romanstr. 93
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Wertstoffhof in der Arnulfstraße - Abgabe von Problemstoffen gestatten
+- TOP 5.4.2.: Abfallbehälter rund um das Nymphenburger Schloss
+- TOP 5.4.3.: Mahdhäufigkeit im Stadtbezirk
+- TOP 5.4.4.: Energieeffiziente Beleuchtungstechnik
+- TOP 5.4.5.: Nistplätze in Neuhausen-Nymphenburg
+- TOP 5.4.6.: Baumersatzkonzept zur Korrektur des Baumverlusts in München
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (U) Grundsatzbeschluss I Umsetzung Klimaziele München Erlass einer Klimasatzung Erlass einer Klimaratssatzung
+- TOP 5.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Verschiedenes
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Evangelisch-Luth. Christuskirche München Neuer Spielturm für den Kindergarten 10.529,15 €; Az. 0262.0-9-0527
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Aggressive Jugendliche Friedenheimer Brücke
+- TOP 6.2.2.: Lärmbelästigung Grünfläche Seidlhofstraße
+- TOP 6.2.3.: Lärmbelästigung Skateanlage Hirschgartenerweiterung
+- TOP 6.2.4.: Lärmbelästigung Skateanlage Hirschgarten (Park)
+- TOP 6.2.5.: Spielplatz Margit-Schramm-Straße
+- TOP 6.2.6.: Wohnanlage Schulstraße 52-56
+- TOP 6.2.7.: Post ist Daseinsvorsorge - Öffnung der Filiale in der Winthirstraße
+- TOP 6.2.8.: Sitzbänke Hedwig-Dransfeld-Allee
+- TOP 6.2.9.: U-Bahnhöfe im 9. Stadtbezirk für mobilitätseingeschränkte Menschen optimieren bzw. ausbauen
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Neufassung der Satzung über die Bestattungseinrichtungen der Landeshauptstadt München (Friedhofssatzung) vom 08.11.2000, zuletzt geändert am 21.04.2017, und Änderung der Verordnung über das Leichenwesen im Bereich der Landeshauptstadt München (Leichenordnung) vom 18.12.2006 Sitzungsvorlage Nr. 20-26 / V 03884
+- TOP 6.3.2.: Halle 23 - shared space Unterstützung für soziale und Bildungsprojekte sowie Schaffung von kommerzfreiem Raum für Jugendliche und junge Erwachsene
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Post ist Daseinsvorsorge - Fragen an die Deutsche Post AG
+- TOP 6.4.2.: Verschönerung des Platzes an der Ruffinistraße / Waisenhausstraße / Nymphenburger Straße
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Fläche für Jugendarbeit im Bereich des Hirschgartens
+- TOP 6.5.2.: Jugendräume im neuen Wohnquartier Südliches Oberwiesenfeld schaffen
+- TOP 6.5.3.: Jugendzentren und Aufenthaltsräume für Jugendliche schaffen
+- TOP 6.5.4.: Neuhausen braucht einen Mädchentreff
+- TOP 6.5.5.: Antrag auf Auskunft bezüglich der Errichtung des Alten- und Servicezentrums (ASZ) Nymphenburg in der Arnulfstraße 294
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Projekt für Jugendliche in Neuhausen
+- TOP 6.6.2.: Aus- und Umbau von geeigneten Plätzen für Jugendliche
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget BrückenBauen gUG Interkultureller Theaterworkshop in den Sommerferien vom 03.08 -05.08.2021 870,00€; Az. 0262.0-9-0520
+- TOP 7.1.2.: (E) Stadtbezirksbudget Initiative "Vorarlberger Theatergruppe" Theaterstück "Ankündigung einer Vorarlberger Theatergruppe in Zeiten der Pandemie" vom 27.09.-27.10.2021 4.325,00 €; Az. 0262.0-9-0523
+- TOP 7.1.3.: (E) Stadtbezirksbudget schwere reiter GbR Ausstellung: Retrospektive "riding heavily ever after" vom 16.09.-22.09.2021 3.000,00 €; Az. 0262.0-9-0524
+- TOP 7.1.4.: (E) Stadtbezirksbudget KünstlerInneninitiative „Schmarotzerbrücke“ Kunstprojekt „Schmarotzerbrücke“ vom 01.12.2020 – 31.10.2021 Erhöhung der Finanzierung um 1.950 € und Verlängerung Bewilligungszeitraum.
+- TOP 7.1.5.: (E) Stadtbezirksbudget Initiative "Street Art - Leonrodhaus" "Der Reiter - Street Art am Kopfbau des Leonrodhauses" 15.000,00€; Az. 0262.0-9-0529
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Kreativquartier: Einrichten eines Büros für das Kreativlabor-Areal
+- TOP 7.2.2.: Umbenennung Hilblestraße
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Umbenennung der Hilblestraße in Maria-Luiko-Straße
+- TOP 7.3.2.: Änderung des Kostenplans Budgetantrag Kultüren
+- TOP 7.3.3.: "Kino am Kanal" am 07.10.2021 im Grünwaldpark
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Benennung des Weges zwischen Maria-Ward-Straße und Menzinger Straße
+- TOP 7.4.2.: Benennung einer Straße oder eines Platzes in Neuhausen oder der Maxvorstadt nach St. Benno, Schutzpatron Münchens
+- TOP 7.4.3.: Offenlegung der Mietpreise und Mietflächen nach qm im Kreativquartier
+- TOP 7.4.4.: Kreativquartier: Aussagefähige Infotafel installieren
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: Bericht Ortstermin Widerstandsdenkmal Platz der Freiheit
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Street Art am Leonrodhaus
+- TOP 7.6.2.: Antrag auf Budgetmittel des BA 9 (eigene Veranstaltung): Übergabe Wandgestaltung Donnersbergerbrücke
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Evang. Luth. Christuskirche München Gymnastik 60+ u.a. mit Thera-Band ab 21.09.2021 wöchentlich 97,95€; Az. 0262.0-9-0522
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Wiedereinrichtung des Kinder- und Jugendbudgets
+- TOP 8.2.2.: Calisthenics-Anlage im Hirschgarten
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: SARS-CoV-2-Infektions-Testungen an Schulen verbessern
+- TOP 8.4.2.: Pilotprojekt im 9. Stadtbezirk: Aufstellen von Hydranten als Wasserspender im Sommer
+- TOP 8.4.3.: Raumsuche Kindertageseinrichtung DOMUS e.V.
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Sportvereinskonferenz des BA 9
+- TOP 8.6.2.: Ortstermin Kunstrasenplatz FT Gern
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: (BSL) Bestellung städtischer Leistungen: Weihnachtsbaum am Rondell Romanplatz
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018-2020
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.6: Verschiedenes
+- TOP 5.2.5.: Baumpflanzungen in der Klarastraße und an der Ecke Karlstraße Dachauer Straße
