@@ -1,0 +1,148 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-09-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6434372
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6434372
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Bitte um Auskunft: Sommer in der Stadt und weitere Veranstaltungen auf dem Königsplatz BA-Antrag Nr. 20-26 / B02761 vom 13.07.2021
+- TOP 6.2.: Arnulfstraße bei Regen - Fußgängerüberweg bei Regen Antwort auf weitergeleitetes Bürgeranliegen (TOP C 1.1.20 07/21)
+- TOP 6.3.: Anfrage zu den Planungen der LH München in Zusammenhang mit der SARS-CoV-2-Pandemie BA-Antrag Nr. 20-26 / B 02137 vom 18.03.2021
+- TOP 6.4.: Antwortschreiben zur Planfeststellung Gesamtlösung HBF München
+- TOP 6.5.: Parkplatznot durch Schanigärten BV-Anfrage 20-26 / Q 00023 (Antwortschreiben)
+- TOP 6.6.: Fehlende Poller und Wildparker am Rudi-Hirl-Platz – Maxvorstadt, Antwort Baureferat auf Brgeranliegen aus 05.2021
+- TOP 6.7.: Antwort Lokalbaukommission zur Theresienstr. 158 BA-Antrag Nr. 20-26 / B 02751
+- TOP 6.8.: Sanierung Neue Pinakothek - Rückmeldung zu SZ Artikel vom 06.09.2021
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Tiermedizin Bürgeranliegen vom 27.08.2021
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 06.09.2021 Mietwohnungen erhalten, Umwandlung in Eigentumswohnungen erschweren: Baulandmobilierungsgesetz muss auch für die Maxvorstadt gelten
+- TOP 1.2.2.: Antrag SPD vom 06.09.2021 Umsetzung des Baulandmobilisierungsgesetzes auf Landesebene
+- TOP 1.2.3.: Antrag SPD vom 07.09.2021 Leerstand Karlstraße 20/22
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: 32., 33., 34., 35. und 36.KW
+- TOP 2.1.2.: WEB-Listen der LBK:31.-32. KW und 33.-34.KW
+- TOP 2.1.3.: Denisstraße 3 a, TEKTUR, Neubau eines Bürogebäudes mit 3-geschossiger TG
+- TOP 2.1.4.: Barer Straße 82-84, Renovierung und Modernisierung (DG 1) mit Einbau von Gauben und Dacheinschnitten, Anbau einer Fluchtleiteranlage mit Podesten und eines Fluchttunnels
+- TOP 2.1.5.: Schellingstraße 18,Nutzungsänderung eines Ladengeschäfts zu einer Kleingastronomie (ohne Baumaßnahmen)
+- TOP 2.1.6.: Gabelsbergerstr. 28, VORBESCHEID, Neubau eines Wohn-, Büro- und Geschäftsgebäudes mit TG
+- TOP 2.1.7.: Türkenstr. 50, TEKTUR zu Neubau eines Wohn- und Geschäftsgebäudes mit TG
+- TOP 2.1.8.: Enhuberstr. 9, Sanierung eines denkmalgeschützten Mehrfamilienhauses, Errichten von Balkonen und eines Personenaufzugs sowie Dachgeschossausbau
+- TOP 2.1.9.: Augustenstraße 107, Nutzungsänderung Laden zu Gaststätte
+- TOP 2.1.10.: Deroystr. 4, VORBESCHEID Neubau eines Verwaltungsgebäudes mit TG
+- TOP 2.2: Planfeststellungsverfahren 2. Stammstrecke PFA1 Planänderung 3 - Bitte um Stellungnahme | Frist bis 13.10.2021
+- TOP 2.2.1.: Planfeststellungsverfahren 2. Stammstrecke PFA1 Planänderung 3 - Bitte um Stellungnahme Frist bis 13.10.2021
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Denisstraße 3 a, beantragte Baumfällungen
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Baumfällung Maillingerstr. 5
+- TOP 3.2.2.: Baumfällung Zieblandstr. 30
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Planfeststellung nach §§ 18 Abs. 1, 18 d Allgemeines Eisenbahngesetz (AEG), § 28 Abs. 1 Personenbeförderungsgesetz (PBefG), §§ 76 Abs. 1 und 78 Verwaltungsverfahrensgesetz (VwVfG) – Anhörungsverfahren Hauptbahnhof: Antwort auf BA-Stellungnahme vom 17.08.2021
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Techno-Parties auf der südlichen Wiese hinter der Alten Pinakothek Bürgeranliegen vom 11.08.2021 und 15.08.2021
+- TOP 1.1.2.: Fahrradabstellplätze im Öffentlichen Raum Georgenstraße 123/Ecke Winzererstraße Bürgeranliegen vom 11.08.2021
+- TOP 1.1.3.: Feiern in der Pandemie. Dieser Vorstoß muss nun klappen. Geplante Feierzone: Club-Betreiber zögern, SZ Nr. 182, 10.08.2021 Feiern wie noch nie
+- TOP 1.1.4.: Verkehrsberuhigung in der Gabelsbergerstraße Bürgeranliegen vom 16.08.2021
+- TOP 1.1.5.: Raser und Poser auf der Leopoldstraße zwischen Odeonsplatz und Siegestor Bürgeranliegen vom 29.08.2021
+- TOP 1.1.6.: Lärmbelästigung und Verunreinigung Bürgeranliegen vom 31.08.2021
+- TOP 1.1.7.: Provisorische Laternenpfähle im Bereich Blutenburgstraße 2 bis 22 Bürgeranliegen vom 07.09.2021
+- TOP 1.1.8.: Engstelle am Eingang Augustiner Keller Bürgeranliegen vom 07.09.2021
+- TOP 1.1.9.: Verkehrsberuhigung in der Gabelsbergerstr. Bürgeranliegen vom 31.08.2021
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 06.09.2021 Baustelleneinrichtungen besser kennzeichnen und besser koordinieren
+- TOP 1.2.2.: Antrag Grüne vom 06.09.2021 Tempo 30 in der Maxvorstadt
+- TOP 1.2.3.: Antrag SPD vom 07.09.2021 Ertüchtigung der Maillingerstraße
+- TOP 1.2.4.: Antrag SPD vom 07.09.2021 Mülleimer für Bank Lothstraße
+- TOP 1.2.5.: BA-Antrag zum Ortstermin Karl-Stützel-Platz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Überarbeitung Parklizenzgebiete BA 03 | Frist verlängert bis 27.09.21
+- TOP 2.1.2.: (E) Radweg bzw. Schutzstreifen entlang der Theresienstraße einrichten Empfehlung Nr. 14-20 / E 03118 der Bürgerversammlung des 03. Stadtbezirkes Maxvorstadt am 28.11.2019
+- TOP 2.1.3.: Nymphenburger Straße/ Lothstraße Aufstellfläche für den Radverkehr; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 2.1.4.: Anhörung zur Genehmigung KFZ Stellplatzumwandlung Gaiglstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Optimierung Beleuchtung öffentlicher Raum (vertagt)
+- TOP 2.2.2.: Schönfeldstr. 17-21, Antrag auf Aufstellung eines mobilen Fahrradständers
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Adalbertstr. 8, Neuantrag Parkplatz-Freischankfläche
+- TOP 2.3.2.: Maximiliansplatz 5, Neuantrag Parkplatz-Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Nymphenburger Str. 2 (Seite Dachauer Straße): Verkehrsaufsichtliche Erlaubnis zum Aufstellen eines Baugerüsts
+- TOP 3.2.: Verkehrsrechtliche Anordnung: Dauerhafte Öffnung der einbahngeregelten Nebenfahrbahn Marsplatz zwischen Deroystraße und Wredestraße für den gegenläufigen Radverkehr
+- TOP 3.3.: Bescheid Stadtterrasse Brienner Str. 59, Seite Stiglmaierplatz, Münchner Haus der Schüler*innen
+- TOP 3.4.: Unterrichtung über Eilentscheid: Königsplatz 3 | Anhörungsverfahren für "Theater: Ku:BIK" am 23. - 25.09.2021 | Anhörungsfrist: 16.09.2021
+- TOP 3.5.: Unterrichtung über Eilentscheid: Ausstellung "Mobilität in München" auf dem Geschwister-Scholl-Platz vom 05.10. - 08.10.2021 | Anhörung, Frist: 06.09.2021
+- TOP 3.6.: Antrag auf unveränderte Fortführung Gaststättenbetrieb, a) Schleißheimer Str. 69, b) Luisenstr. 67 b, c) Königsplatz 3, d) Sandstraße 45, e) Erzgießereistr. 48
+- TOP 3.7.: (U) Erstellung eines Logistikkonzepts im Rahmen des BMVI-Programms zur Förderung der städtischen Logistik Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für das Jahr 2022
+- TOP 3.8.: (U) Neufassung vom 16.06.2021 Satzung der Landeshauptstadt München zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des Mobilitätsverhaltens für die Bewertung der Modellprojekte City2Share, Smarter Together und CIVITAS ECCENTRIC
+- TOP 3.9.: Verkehrsrechtliche Anordnung zur Errichtung der E-Ladesäule in der Gabelsbergerstraße 35
+- TOP 3.10.: VAO "Autonomer Bus IAA
+- TOP 3.11.: Erlaubnisbescheid (Bezirk 3) – Internationale Automobilausstellung 2021 – Open Space Teilbereich 1 Königsplatz vom 07.09.-12.09.2021
+- TOP 3.12.: Erlaubnisbescheid (Bezirk 1 und 3) – Internationale Automobilausstellung 2021 – Open Space Teilbereich 2 Wittelsbacherplatz / Odeonsplatz vom 07.09.-12.09.2021
+- TOP 3.13.: SWM Baumaßnahme Stromprojekt Barer Straße - BA 3 (Maxvorstadt)
+- TOP 3.14.: VAO Arbeiten im Straßenraum BV Altstadtringtunnel Verlängerung Arbeiten im Straßenraum BV Altstadtringtunnel Oskar-von-Miller-Ring
+- TOP 3.15.: StR-Antrag Nr. 20-26 / A 01409 "Sichere Kreuzungen durch bessere Sichtbeziehungen"
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Die Maxvorstädter e.V. Hochebene für den Kindergarten 7.017,00 Euro, Az.: 0262.0-3-0324
+- TOP 2.2.: (E) Stadtbezirksbudget Hilfe von Mensch zu Mensch e.V. Modernisierung der Kinderkrippe in der Seidlstraße 20 vom 10.-15.12.2021 4.719,72€; Az. 0262.0-3-0367
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Aktualisierte Übersicht Unterkünfte Geflüchtete und Wohnungslose Juni 2021
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Junge Chöre München gGmbH, Die Münchner Chorbuben - Die Münchner Chormädchen Jubiläumskonzert "25 Jahre Münchner Chormädchen" am 24.10.2021 1.547,00 Euro, Az.: 0262.0-3-0366
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative U-Bahn-Galerie Instandhaltung und Kommunikation U-Bahn-Galerie vom 01.09.2021 - 01.09.2022 600,00 Euro, Az.: 0262.0-3-0365
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Sitzungstermine 2022
+- TOP 1.2.: Grundsatzbeschluss Hybridsitzungen
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Ergänzung der Vorgaben für Antragsteller für Mittel aus dem Stadtbezirksbudget Beschlussvorschlag des Behindertenbeirates und exemplarisch der Beschluss des BA12
+- TOP 1.5.: Eilentscheid des Vorstands, Ideen- und Realisierungswettbewerb "Entwicklung in der Schützenstraße in München" – Anfrage zur Mitwirkung im Preisgericht
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
