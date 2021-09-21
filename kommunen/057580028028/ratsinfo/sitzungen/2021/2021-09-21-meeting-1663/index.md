@@ -1,0 +1,52 @@
+# Gemeinderat (6. Sitzung)
+
+- Körperschaft: Gemeinde Rödinghausen
+- Beginn: 2021-09-21T19:00:00+02:00
+- Ende: 2021-09-21T21:45:00+02:00
+- Ort: Gesamtschule, An der Stertwelle 34-38, 32289 Rödinghausen, Aula
+- Status: 
+- Gremium: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://roedinghausen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYvQszegI8dKDE3cQfzNoz0
+- OParl: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1663
+- Quelle: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYeaihve66YqaoL4ziZBIK_c09WS5d7KnQ9qui5jMJs5/Oeffentliche_Niederschrift_Gemeinderat_21.09.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Bericht des Bürgermeisters
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Finanzbericht des Kämmerers nach § 2 Abs. 2 des Gesetzes zur Isolierung der aus der COVID-19-Pandemie folgenden Belastungen der kommunalen Haushalte im Land Nordrhein-Westfalen (NKF-COVID-19-Isolierungsgesetz – NKF-CIG)
+- TOP 4.: Jahresabschluss 2020 – Übersicht der Ermächtigungsübertragungen nach § 22 Kommunalhaushaltsverordnung Nordrhein-Westfalen (KomHVO NRW)
+- TOP 5.: 54. Änderung des Flächennutzungsplanes und Aufstellung des Bebauungsplanes Nr. 29 "Falkenweg" -Abwägungs-, Feststellungs- und Satzungsbeschluss- - Beratungsergebnis:Einstimmig
+- TOP 6.: Erlass einer Außenbereichssatzung „Lohmühlenweg“ gem. § 35 Abs. 6 BauGB im vereinfachten Verfahren gem. § 13 BauGB -Offenlegungsbeschluss- - Beratungsergebnis:Einstimmig
+- TOP 7.: Teileinziehung einer Fläche des Wirtschaftsweges Gemarkung Schwenningdorf, Flur 10, Flurstück 46; Erlass einer Satzung zur Änderung des Umlegungsplanes von Schwenningdorf im Umlegungsverfahren Schwenningdorf -S. 620 - - Beratungsergebnis:Einstimmig
+- TOP 8.: Neufassung der Gebührensatzung zur Entwässerungssatzung - Beratungsergebnis:Abgesetzt
+- TOP 9.: Neufassung der Gebührensatzung für die Abfallentsorgung - Beratungsergebnis:Abgesetzt
+- TOP 10.: Übernahme von Bürgschaften für zwei Darlehen der Kommunalen Entwicklungsgesellschaft Rödinghausen mbH - Beratungsergebnis:Einstimmig
+- TOP 11.: Antrag der Fraktion Bündnis 90/Die Grünen -Errichtung einer Gleichstellungsstelle in der Gemeinde Rödinghausen- - Beratungsergebnis:3 Ja-Stimme(n), 20 Gegenstimme(n), 0 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD1111CDU66B90/Grüne33FDP22Bürgermeister11Summe320023
+- TOP 12.: Anpassung des Klimaschutzkonzeptes - Beratungsergebnis:Einstimmig
+- TOP 13.: Mitteilungen der Verwaltung
+- TOP 13.1: Ausbau Breitbandinfrastruktur
+- TOP 13.2: Stellenausschreibung Natur und Umwelt
+- TOP 13.3: Digitalisierung Gremienarbeit
+- TOP 13.4: Verkehrskonzept Bruchmühlen
+- TOP 13.5: Starkregenvorsorge
+- TOP 13.6: Errichtung eines Tiny-Hauses an der Amtshausstraße
+- TOP 14.: Anfragen von Ratsmitgliedern
+- TOP 14.1: Ratsmitglied Dirk Blank
+- TOP 14.2: Ratsmitglied Dirk Kleineweber
+- TOP 14.3: Ratsmitglied Reinhard Uthoff
+- TOP 14.4: Ratsmitglied Bernd Sacher
+- TOP 14.5: Ratsmitglied Karin Menke
+- TOP 14.6: Ratsmitglied Andrea Haack
+- TOP 14.7: Ratsmitglied Werner Stenke
+- TOP 14.8: Ratsmitglied Thomas Heisel
+- TOP 14.9: Ratsmitglied Reinhard Uthoff
+- TOP 14.10: Ratsmitglied Patrick Hoffmann
+- TOP 14.11: Ratsmitglied Reinhard Uthoff
+- TOP 14.12: Ratsmitglied Reinhard Uthoff
+- TOP 14.13: Ratsmitglied Dirk Kleineweber
+- TOP 14.14: Ratsmitglied Reinhard Uthoff
+- TOP 14.15: Ratsmitglied Thomas Heisel
+- TOP 14.16: Ratsmitglied Janina Vogelsang-Sprinke
