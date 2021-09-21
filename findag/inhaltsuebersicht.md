@@ -28,6 +28,7 @@
 | § 10a | Stellenzulage |
 | § 10b | Personalgewinnungszuschlag |
 | § 11 | Verschwiegenheitspflicht |
+| § 11a | Private Finanzgeschäfte der Beschäftigten der Bundesanstalt |
 | Vierter Abschnitt |
 |  | Haushaltsplan, Rechnungslegung, Deckung des Verwaltungsaufwands |
 | § 12 | Haushaltsplan, Rechnungslegung |
@@ -48,13 +49,14 @@
 | § 16i | Kostenermittlung und Umlagepflicht im Aufgabenbereich Wertpapierhandel |
 | § 16j | Bemessungsgrundlagen der Umlage im Aufgabenbereich Wertpapierhandel |
 | § 16k | Aufgabenbereich Abwicklung |
-| § 16l | Entstehung der Umlageforderung, Festsetzung des Umlagebetrages und Fälligkeit |
-| § 16m | Festsetzung und Fälligkeit von Umlagevorauszahlungen |
-| § 16n | Differenz zwischen Umlagebetrag und Vorauszahlung |
-| § 16o | Säumniszuschläge; Beitreibung |
-| § 16p | Festsetzungsverjährung |
-| § 16q | Zahlungsverjährung |
-| § 16r | Erstattung überzahlter Umlagebeträge |
+| § 16l | Aufgabenbereich Bilanzkontrolle |
+| § 16m | Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit |
+| § 16n | Festsetzung und Fälligkeit von Umlagevorauszahlungen |
+| § 16o | Differenz zwischen Umlagebetrag und Vorauszahlung |
+| § 16p | Säumniszuschläge; Beitreibung |
+| § 16q | Festsetzungsverjährung |
+| § 16r | Zahlungsverjährung |
+| § 16s | Erstattung überzahlter Umlagebeträge |
 | § 17 | Zwangsmittel; Bekanntgabe von Allgemeinverfügungen |
 | Sechster Abschnitt |
 |  | Finanzierung gesonderter Aufgaben |
@@ -66,8 +68,10 @@
 |  | Übergangs- und Schlussbestimmungen |
 | § 18 | Übergangsbestimmungen |
 | § 18a | Teilintegration der Bundesanstalt für Finanzmarktstabilisierung; Rechtsnachfolge; Verordnungsermächtigung |
+| § 18b | Übernahme der Beschäftigten des Deutsche Prüfstelle für Rechnungslegung DPR e. V. |
 | § 19 | Überleitung/Übernahme von Beschäftigten |
 | § 20 | Verteilung der Versorgungskosten |
 | § 21 | Übergang von Rechten und Pflichten |
 | § 22 | Übergangsvorschriften zum Gesetz zur Stärkung der deutschen Finanzaufsicht |
 | § 23 | Übergangsbestimmungen zur Umlageerhebung |
+| § 24 | Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle |

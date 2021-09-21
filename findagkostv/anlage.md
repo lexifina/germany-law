@@ -367,9 +367,9 @@
 | 5.3 | Befreiung nach § 91 WpHG | 5 885 |
 | 5.4 | Register Unabhängiger Honorar-AnlageberaterEintragung in das Register Unabhängiger Honorar-Anlageberater(§ 93 Absatz 2 WpHG) | 360 |
 | 5.5 | Erlaubnis für ausländische Märkte oder ihre Betreiber, die Handelsteilnehmern mit Sitz im Inland über ein elektronisches Handelssystem einen unmittelbaren Marktzugang gewähren(§ 102 Absatz 1 in Verbindung mit Absatz 2 und 3 WpHG) | 15 000 |
-| 5.6 | Bekanntmachung von Fehlern bei der Rechnungslegung nach § 109 Absatz 2 WpHG |  |
-| 5.6.1 | Anordnung der Bekanntmachung(§ 109 Absatz 2 Satz 1 WpHG) | 500 bis 5 000 |
-| 5.6.2 | Entscheidung über den Antrag, von der Anordnung der Bekanntmachung abzusehen(§ 109 Absatz 2 Satz 3 WpHG) | 500 bis 2 500 |
+| 5.6 | Bekanntmachung des festgestellten Fehlers im Internet. Zusätzliche Bekanntmachung im Bundesanzeiger und entweder einem überregionalen Börsenpflichtblatt oder über ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, nach § 53 Absatz 1 Satz 1 KWG tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und die an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit verbreitet ist, (§ 109 Absatz 2 WpHG) | 420 |
+| 5.6.1 | (weggefallen) |  |
+| 5.6.2 | (weggefallen) |  |
 | 5.7 | Befreiung von den Anforderungen der §§ 114 bis 117 WpHG(§ 118 Absatz 4 Satz 1 WpHG) | 500 bis 10 000 |
 | 6. | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Versicherungsaufsichtsgesetzes (VAG) |  |
 | 6.1 | Feststellung der Aufsichtspflicht und Freistellung von der Aufsicht |  |

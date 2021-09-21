@@ -30,8 +30,9 @@
 - [§ 9a Beamte](0009a.md)
 - [§ 10 Angestellte, Arbeiter und Auszubildende](0010.md)
 - [§ 10a Stellenzulage](0010a.md)
-- [§ 10b Personalgewinnungszuschlag](0010b.md)
+- [§ 10b Personalgewinnungs- und Personalbindungsprämie](0010b.md)
 - [§ 11 Verschwiegenheitspflicht](0011.md)
+- [§ 11a Private Finanzgeschäfte der Beschäftigten der Bundesanstalt](0011a.md)
 
 ## Vierter Abschnitt Haushaltsplan, Rechnungslegung,
 Deckung des Verwaltungsaufwands
@@ -55,13 +56,14 @@ Deckung des Verwaltungsaufwands
 - [§ 16i Kostenermittlung und Umlagepflicht im Aufgabenbereich Wertpapierhandel](0016i.md)
 - [§ 16j Bemessungsgrundlagen der Umlage im Aufgabenbereich Wertpapierhandel](0016j.md)
 - [§ 16k Aufgabenbereich Abwicklung](0016k.md)
-- [§ 16l Entstehung der Umlageforderung, Festsetzung des Umlagebetrages und Fälligkeit](0016l.md)
-- [§ 16m Festsetzung und Fälligkeit von Umlagevorauszahlungen](0016m.md)
-- [§ 16n Differenz zwischen Umlagebetrag und Vorauszahlung](0016n.md)
-- [§ 16o Säumniszuschläge; Beitreibung](0016o.md)
-- [§ 16p Festsetzungsverjährung](0016p.md)
-- [§ 16q Zahlungsverjährung](0016q.md)
-- [§ 16r Erstattung überzahlter Umlagebeträge](0016r.md)
+- [§ 16l Aufgabenbereich Bilanzkontrolle](0016l.md)
+- [§ 16m Entstehung der Umlageforderung, Festsetzung des Umlagebetrages und Fälligkeit](0016m.md)
+- [§ 16n Festsetzung und Fälligkeit von Umlagevorauszahlungen](0016n.md)
+- [§ 16o Differenz zwischen Umlagebetrag und Vorauszahlung](0016o.md)
+- [§ 16p Säumniszuschläge; Beitreibung](0016p.md)
+- [§ 16q Festsetzungsverjährung](0016q.md)
+- [§ 16r Zahlungsverjährung](0016r.md)
+- [§ 16s Erstattung überzahlter Umlagebeträge](0016s.md)
 - [§ 17 Zwangsmittel; Bekanntgabe von Allgemeinverfügungen](0017.md)
 
 ## Sechster Abschnitt Finanzierung gesonderter Aufgaben
@@ -75,8 +77,10 @@ Deckung des Verwaltungsaufwands
 
 - [§ 18 Übergangsbestimmungen](0018.md)
 - [§ 18a Teilintegration der Bundesanstalt für Finanzmarktstabilisierung; Rechtsnachfolge; Verordnungsermächtigung](0018a.md)
+- [§ 18b Übernahme der Beschäftigten des Deutsche Prüfstelle für Rechnungslegung DPR e. V.](0018b.md)
 - [§ 19 Überleitung/Übernahme von Beschäftigten](0019.md)
 - [§ 20 Verteilung der Versorgungskosten](0020.md)
 - [§ 21 Übergang von Rechten und Pflichten](0021.md)
 - [§ 22 Übergangsvorschriften zum Gesetz zur Stärkung der deutschen Finanzaufsicht](0022.md)
 - [§ 23 Übergangsbestimmungen zur Umlageerhebung](0023.md)
+- [§ 24 Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle](0024.md)
