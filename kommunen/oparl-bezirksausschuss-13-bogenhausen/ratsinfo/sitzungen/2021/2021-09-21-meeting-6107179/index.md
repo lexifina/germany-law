@@ -1,0 +1,174 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2021-09-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6107179
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6107179
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.2.: Protokoll der Sitzung vom 03.08.2021
+- TOP 1.3.3.: Vorstellung des Projekts "Gesundheit mit PEP – Gesundheitsförderung im Prinz-Eugen- Park" durch GeQo
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Plangenehmigung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben “Rückbau von Gleisanlagen im Bf Johanneskirchen“, Anhörung des Referates für Stadtplanung und Bauordnung - Vorstellung durch Vertreter der DB -
+- TOP 2.2.2.: Evaluation der Münchner Stellplatzsatzung („Satzung der Landeshauptstadt München über die Ermittlung und den Nachweis von notwendigen Stellplätzen für Kraftfahrzeuge“) vom 19. Dezember 2007; Anhörung des Referats für Stadtplanung und Bauordnung (Fristverlängerung bis zum 23.09.2021)
+- TOP 2.2.3.: Flughafenanbindung - viergleisiger Ausbau der Strecke Daglfing-Johanneskirchen - Sachstandsbericht Anträge und Empfehlungen - Beschlussentwurf Sitzungsvorlagen Nr. 20-26 / V 04149; Anhörung des Referats für Stadtplanung und Bauordnung (Unterlagen werden nachgereicht)
+- TOP 2.2.4.: Oberföhringer Str. 12 - Nutzungsänderung (EG) mit Baumaßnahme, Sanaierung und erweiterung (Anbau Nordost) eines Einfamiienhauses mit Garage und Parklift; Anhörung des Referates für Stadtplanung und Bauordnung vom 27.07.2021
+- TOP 2.2.5.: Ruth-Drexel-Str. - 13er Bürger- und Kulturtreff (ehemalige Prinz-Eugen-Kaserne); Anhörung des Referats für Stadtplanung und Bauordnung vom 27.07.2021
+- TOP 2.2.6.: Denninger Str. 167-169 - Revitalisierung mit Innenausbau eines Bürogebäudes; Anhörung des Referates für Stadtplanung und Bauordnung (Unterlagen sind in Alfresco unter 03-BA-Organisation -> UA Stadtplanung und Bauordnung zu finden)
+- TOP 2.2.7.: Am Hierlbach 2 - Neubau eines Einfamilienhauses mit Doppelgarage; Anhörung des Referats für Stadtplanung und Bauordnung vom 03.08.2021
+- TOP 2.2.8.: Gumppenbergstr. 1 - Wohnanlage - Gumppenbergstr. 5 - VORBESCHEID; Anhörung des Referates für Stadtplanung und Bauordnung vom 26.07.2021
+- TOP 2.2.9.: Osserstr. 38 - Neubau eines Mehrfamilienhauses (11 WE) mit Tiefgarage; Anhörung des Referates für Stadtplanung und Bauordnung vom 29.07.2021
+- TOP 2.2.10.: Elsastr. 12 - Neubau eines Mehrfamilienhauses mit Doppelgarage und Carport; Anhörung des Referats für Stadtplanung und Bauordnung vom 05.08.2021
+- TOP 2.2.12.: Knappertsbuschstraße 26: Nachfragen bzgl. Ortstermin "Holzkapelle auf dem Grundstück der russisch orthodoxen Gemeinde"; Bürgeranliegen
+- TOP 2.2.13.: Obststand bewahren!; Antrag der CSU-Fraktion
+- TOP 2.2.14.: Nachgefragt: Errichtung eines Mehrgenerationenpark; Antrag der SPD-Fraktion
+- TOP 2.2.15.: Erhalt des Obststandes gegenüber Cosimabad; Bürgeranliegen
+- TOP 2.2.16.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.17.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Straßenbauprojekt am Rosenkavalierplatz - Projektplangenehmigung; Beschluss für den BA 13
+- TOP 2.3.2.: StR- Antrag Nr. 20-26 / A 01409 "Sichere Kreuzungen durch bessere Sichtbeziehungen"; Anhörung des Behindertenbeirates (Sozialreferat)
+- TOP 2.3.3.: Mauerkircherstr., Ecke Grüntal/Max-Halbe-Weg: Einrichtung absolutes Haltverbot; Anhörung des Mobilitätsreferats dazu: Sicheres Überqueren der Mauerkircherstraße; Antrag der CSU-Fraktion
+- TOP 2.3.4.: Neugestaltung des Huezziplatzes - Bericht des Ortstermins -
+- TOP 2.3.5.: Blumentröge für die Grasbrunner Straße; Antrag der SPD-Fraktion
+- TOP 2.3.6.: Fahrradwegmarkierung am Rosenkavalierplatz; Antrag der SPD-Fraktion
+- TOP 2.3.7.: Parken mit zwei Reifen auf Gehweg Pixisstraße; Antrag der SPD-Fraktion
+- TOP 2.3.8.: Nachgefragt: E-Shuttle-Bus Prinz-Eugen-Park; Antrag der SPD-Fraktion
+- TOP 2.3.9.: Sicherung Wopfnerwegs in Richtung Effnerstraße; Antrag der SPD-Fraktion
+- TOP 2.3.10.: Radweg Englschalkinger Straße: Einrichtung einer gegenläufigen Radspur; Antrag Fraktion Bündnis 90 / Die Grünen
+- TOP 2.3.11.: Sanierung Radweg Englschalkinger Straße; Antrag Fraktion Bündnis 90 / Die Grünen
+- TOP 2.3.12.: Oberföhringer Straße: Hinweisschild, dass Nutzung der Straße durch Radfahrer erlaubt ist; Bürgeranliegen
+- TOP 2.3.13.: Restaurant Ushi am Herkomerplatz: problemloser Durchgang für Fußgänger; Bürgeranliegen
+- TOP 2.3.14.: Abmontieren des Hinweisschildes „Radfahren auf der Fahrbahn erlaubt" auf der Eggenfeldener Str.; Bürgeranliegen
+- TOP 2.3.15.: Suche nach Fahrrad-Abstellflächen an der Ismaninger Str. 136 sowie gegenüber der Wehrlestraße 8; Bürgeranliegen
+- TOP 2.3.16.: Installation der Behelfsampel an der Autobahnausfahrt Zamdorf, Eggenfeldener Straße / Eggenfeldener Straße (zwischen Süskindstraße Lüderitzstraße): Installation von sechs Zusatzschilder mit dem Hinweis "Radfahren auf der Fahrbahn erlaubt"; Bürgeranliegen
+- TOP 2.3.17.: Neue Arztpraxis Prinz-Eugen-Park / Parkraumsituation; Bürgeranliegen
+- TOP 2.3.18.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.19.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Initiative „Wunderbuch“ Wunderbuch vom 15.10.2021 – 15.10.2022 3.200,00 € / Az. 0262.0-13-0298
+- TOP 2.4.2.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. 1x1 der Wohnungssuche vom 01.11.2021 - 31.10.2022 2.515,00 € / Az. 0262.0-13-0297
+- TOP 2.4.3.: (E) Stadtbezirksbudget Verein für Stadtteilkultur im Münchner Nordosten e.V. NordOstMagazin 2022 4.195,10 € / Az. 0262.0-13-0299
+- TOP 2.4.4.: Stadtbezirksbudget: Antrag der BoART Künstlergruppe vom 23.04.2021 - Erhöhung des Zuschussbetrages; Anhörung des Direktoriums dazu: Unterrichtung des Direktoriums hinsichtlich der Erhöhung des Preisgeldes
+- TOP 2.4.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.6.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Errichtung eines Hauses für Kinder mit 4 Krippen- und 4 Kindergartengruppen im Prinz-Eugen-Park WA 9 (Ruth-Drexel-Str. 96); Genehmigung des Nutzerbedarfsprogramms - Beschlussentwurf; Anhörung des Referats für Bildung und Sport
+- TOP 2.5.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.3.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Baumfällungen: - Freischützstr. 114 - Englschalkinger Str. 217 - Widderstr. 13 - Oberföhringer Str. 256 - Baltenstr. 14 - Grellstr. 46 - Wolfskehlstr. 2 - Muspillistr. 14 - Hohensalzaer Str. 16 - Oberschlesische Str. 25 - Soldauer Str. 27a - Mauerkircherstr. 47 - Chamissostr. 13 - Cosimastr. 204 - Oberföhringer Str. 225 - Westpreußenstr. 67 - Hofererstr. 1 a-f - Vilshofener Str. 8 - LSG Isarauen - Flemingstr. 87 - Daglfinger Str. 101
+- TOP 2.6.2.: Kriterien zur Eingrenzung der in Zukunft behandelten Fällanträge
+- TOP 2.6.3.: Bereich der Prinzregentenstr. 111: Aufstellung von ein bis zwei Bänke; Nachfrage der PI
+- TOP 2.6.4.: Unterflurcontainer im Prinz-Eugen-Park: Einbauzusage durch städtische Fianzierung einhalten - Standort als oberirdische Variante mit Depotcontainern? -; Nachfrage des AWM
+- TOP 2.6.5.: Aufstellen von Hundekotbeutelspendern im Bürgerpark; Antrag der SPD-Fraktion
+- TOP 2.6.6.: Errichtung einer Hundespielwiese, alternativ Freilauffläche; Antrag der SPD-Fraktion
+- TOP 2.6.7.: Instandsetzung Auf der Lehmzunge; Antrag der SPD-Fraktion
+- TOP 2.6.8.: Störende Sträucher bei der Zufahrt des Parkplatzes der Wohnanlage Daglfinger Str. 2-6 /Hermann-Gmeiner-Weg; Bürgeranliegen
+- TOP 2.6.9.: Maßnahmen gegen Pfützenbildung im Odinpark; Antrag Fraktion Bündnis 90 / Die Grünen
+- TOP 2.6.10.: Vorstellung der Planung der Straßenbeleuchtung des Prinz Eugen Parks in einer öffentlichen Sitzung durch das zuständige Referat; Bürgeranliegen
+- TOP 2.6.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.12.: Verschiedenes, Termine
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Neufassung der Satzung über die Bestattungseinrichtungen der Landeshauptstadt München Friedhofssatzung) vom 08.11.2000 und Änderung der Verordnung über das Leichenwesen im Bereich der Landeshauptstadt München (Leichenordnung) vom 18.12.2006 Sitzungsvorlage Nr. 20-26 / V 03884 - Beschlussentwurf; Anhörung des Gesundheitsreferats
+- TOP 2.7.2.: Fortschreibung des Konzepts zur Friedhofsplanung: Gräberbedarfsprognose bis zum Jahr 2035 - Beschlussentwurf; Anhörung des Gesundheitsreferats
+- TOP 2.7.3.: Strategie Flüchtlingsunterbringung 2022 – 2026: Betriebsführung von dezentralen Unterkünften; Anhörung des Sozialreferats
+- TOP 2.7.4.: Ersatzstandort für die "Grillstation" in der Freischützstraße; Bürgeranliegen
+- TOP 2.7.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.6.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 5.1.: Gedenkfeier am 15.10.2021 am Richard-Wagner-Denkmal auf dem Prinzregentenplatz
+- TOP 5.2.: Gedenkfeier Adalbert Stifter am 23.10.2021 auf dem Böhmerwaldplatz
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Demokratiemobil zur Bundestagswahl
+- TOP 6.2.: Ruth-Drexel-Straße 27: Gefährliche Verkehrssituation vor Grundschule
+- TOP 6.3.: Unübersichtliche Kreuzungen in der Richard-Strauß-Straße
+- TOP 6.4.: Truderinger und Daglfinger Kurve - offene Fragen
+- TOP 6.5.: Öffentliche Grünflächen mit Liegebänken attraktiver machen
+- TOP 6.6.: Sofortige Einrichtung einer Erziehungsberatungsstelle für den 13. Stadtbezirk Bogenhausen vor Ort im Stadtbezirk
+- TOP 6.7.: Erhebung von Erschließungsbeiträgen für bereits vor vielen Jahr(zehnt)en hergestellte Straßen
+- TOP 6.8.: Erneuerung des Hinweisschildes auf Blumenwiese in der Parkanlage zwischen Wahnfriedallee und der Kleingartenanlage "Schlösslgarten"
+- TOP 6.9.: Frühere Information der Anwohner bei Bauarbeiten der SWM
+- TOP 6.10.: Kennzeichnung Fahrradweg am Isabella-Braun-Weg
+- TOP 6.11.: Weitere Fitness-Parcours in Bogenhausen
+- TOP 6.12.: Ausbesserung der Asphaltdecke des Radwegs an der Denninger Straße
+- TOP 6.13.: Urban Gardening in Bogenhausen
+- TOP 6.14.: Verpflanzungen ausgewachsener Bäume – Bitte um Prüfung und Auskunft
+- TOP 6.15.: Straßenmarkierungen in der Riemer Straße erneuern
+- TOP 6.16.: Mehr Verkehrssicherheit auf der Savitsstraße
+- TOP 6.17.: Parkplätze und Sicherheit im Gebiet Gebele-, Niedermayer- und Ambergerstraße
+- TOP 6.18.: Gefährliche Parksituation am Prinzregentenplatz
+- TOP 6.19.: Errichtung einer Skateanlage im Denninger Anger bzw. im 13. Stadtbezirk
+- TOP 6.20.: Vorstellung Bericht: Flora und Fauna Hüllgraben/Truderinger-Daglfinger Spanne
+- TOP 6.21.: Baumschnitt an der Lüderitzstraße sowie Ina-Seidel-Bogen 2-8; Rückmeldung des Baureferats zum Bürgeranliegen
+- TOP 6.22.: Parkverbot in der Wahnfriedallee zwischen Effnerstr. und Cosimastr.; Antwort des Mobilitätsreferats zu dem Bürgeranliegen aus der Augsust-Sitzung
+- TOP 6.23.: Entsiegelung der Bushaltestelle Wehrlestraße bei geplanter Umbaumaßnahme; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 6.24.: Konkrete Informationen zur Impfinfrastruktur für Bogenhauser Bürger*innen
+- TOP 6.25.: Montieren von Schiebelisten für Fahrräder auf allen vier Treppen des Bahnübergang an der Brodersenstraße; Bürgeranliegen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Gehörlosenzentrum: Antrag bzgl. Zuschuss aus dem Budget des BA-13, Terminänderung GMU-Sommerfest am 16.07.2021
+- TOP 7.1.2.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018-2020; Anhörung des Direktoriums (Fristverlängerung bis zur September-Sitzung nicht möglich, daher Eilentscheidung des BA-Vorsitzenden)
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Erinnerungsverfahren zur Baustelle in der Denninger Str. 84 - 120, zw Richard-Strauß-Str. und Weltenburger Str. (Radwegsanierung)
+- TOP 7.2.2.: Aufstellen eines Hinweisschildes mit Nutzungsregeln am Spielplatz an der Fideliostrasse (BA-Antrag 20-26 / B 02475); Rückmeldung des Baureferats
+- TOP 7.3: RGU
+- TOP 7.3.1.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Entsorgungsanlage; Antrag auf Durchführung eines immissionsschutzrechtlichen Genehmigungsverfahrens; Unterrichtung des Referats für Klima- und Umweltschutz
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.5.1.: Gaststättenfortführung: - Richard-Strauss-Str. 80-82, "L&#039;Osteria" - Ismaninger Str. 136, "GO by Steffen Henssler"
+- TOP 7.5.2.: Verschiebung der Temporären Kunstaktion "Die Bäume zum Himmel" in St. Emmeram/Mittlere-Isar-Straße auf den 18.08.-18.10.2021
+- TOP 7.5.3.: Infoveranstaltung „Erdlink“ im Rahmen des Mobilitätskongresses von 05.09.-12.09.2021 (Aufbau ab 04.09.2021) auf dem Europaplatz (Fristverlängerung bis zur September-Sitzung nicht möglich, daher Eilentscheidung der stellv. BA-Vorsitzenden)
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Baumfällungen (Unterrichtungen): Fontanestr. 8 Freischützstr. 114 – 118 Leutweinstr. 1
+- TOP 7.7.2.: Installation v. Auffahrts- bzw. Fahrradrampen an den Treppen des S-Bahnhofs München-Daglfing; Rückmeldung der DB
+- TOP 7.7.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.4.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 7.7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.6.: Planänderung zweibahniger Ausbau Föhringer Ring; Anhörung des Planungsreferates (Fristverlängerung bis zur September-Sitzung nicht möglich, daher Eilentscheidung des BA-Vorsitzenden)
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: Haus für Kinder an der Eugen-Jochum-Str. 20 (ehem. Prinz-Eugen-Park WA 7) - Dienststellenverständigung; Unterrichtung des Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.9.1.: Zweckentfremdung: - Baltenstr. 12 und 12a - Chamissostr. 11 - Chamissostr. 8 - Nettelbeckstr. 42 - Osserstr. 38 und 40 - Oberföhringer Str. 41 und 43
+- TOP 7.9.2.: Aktualisierung der Liste und Karte mit Standorten für Geflüchtete und Wohnungslose, Stichtag 30.06.2021
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Mobilitätsreferat
+- TOP 7.15.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.15.2.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2022 Mobiles München – auch nachts! Antrag Nr. 14-20 / A 05510 von Herrn Stadtrat Pretzl, Frau Stadträtin Habenschaden vom 17.06.2019 Die Provinzen erschließen – Den Münchner Osten kolonialisieren Antrag Nr. 20-26 / A 00363 von der Fraktion ÖDP / FW vom 14.08.2020 Anbindung des Interims-Gasteig sicherstellen und Anwohnerparkplätze sichern Antrag Nr. 20-26 / A 00914 von der CSU-Fraktion vom 23.12.2020 Bessere ÖPNV-Anbindung von Schwabing an Neuhausen und den Hauptbahnhof – Tram 23 mit den Linien 12 und 28 verknüpfen Antrag Nr. 20-26 / A 01088 von der FDP BAYERNPARTEI Stadtratsfraktion vom 22.02.2021 Gasteig HP8 - verkehrliche Anbindung sicherstellen! Antrag Nr. 20-26 / A 01450 von der CSU-Frakion vom 17.05.2021 Bus-Osttangente planen und einrichten ! Antrag der Fraktion Bündnis`90 / Die Grünen Antrag Nr. 14-20 / B 07086 des Bezirksausschusses des BA 17 – Obergiesing vom 19.11.2019 Bus-Osttangente planen und einrichten! Unterstützung des BA-Antrags Nr. 14-20 / B 07086 des BA 17 durch den BA 16 Antrag Nr. 14-20 / B 07247 des Bezirksausschusses des Stadtbezirkes 16 – Ramersdorf-Perlach vom 05.12.2019 etc. siehe Sitzungsvorlage
+- TOP 7.15.3.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Brahmsstraße 14
+- TOP 7.15.4.: Sternwartstraße: Erweiterung der Tempo 30-Zone; Unterrichtung des Mobilitätsreferats
+- TOP 7.15.5.: Montgelasstraße – Nordseite (Höhe Einmündung Kufsteiner Straße, (nördliche LSA-Querung von der Möhlstraße): Gefahrzeichen „Achtung Fußgänger“, Gefahrzeichen mit Zusatz „Radfahrer kreuzen
+- TOP 7.15.6.: Maßnahme der Unfallkommission: Richard-Strauss-Tunnel / Abfahrt A94; Unterrichtung des Mobilitätsreferats
+- TOP 7.16: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.17.1.: Kanalsanierungsmaßnahme Bogenhausen, Berg-am-Laim und Ramersdorf-Perlach; Unterrichtung der MSE
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.11.: Baumfällungen zu Bauvorhaben: - Gumppenbergstr. 1 - An der Schanze 1 - Flemingstr. 4 - Ruth-Drexel-Str. (13er Bürger- und Kulturtreff) - Denninger Str. 165 - Osserstr. 38 - Chamissostr. 11 - Am Hierlbach 2 - Elsastr. 12 - Chamissostr. 8-10 - Musenbergstr. 14-16_Haus 1 - Musenbergstr. 14-16_Haus 2 - Musenbergstr. 14-16_Haus 3 - Musenbergstr. 14-16_Haus 4 - Musenbergstr. 14-16_Haus 5 - Musenbergstr. 14-16_Haus 6 - Musenbergstr. 14-16_Haus 7 - Musenbergstr. 14-16_Haus 8 - Hoyerweg 14 - Rachelstr. 4 - Delphstr. 31 - Wagenbauerstr. 2-6 - Maria-Theresia-Str. 27 - Oberföhringer Str. 222
