@@ -1,0 +1,220 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2021-09-22T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6162339
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6162339
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 3.1.: Protokoll der Sitzung vom 21.07.2021
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Ergänzung für das Genehmigungsverfahren für Freischankflächen auf Parkständen
+- TOP 5.2.: Infoblatt zu Veranstaltungsräumlichkeiten im Stadtteil
+- TOP 5.3.: Baulandmobilisierungsgesetz für Au-Haidhausen nutzen
+- TOP 5.4.: Gehwege durch Radlständer schützen
+- TOP 5.5.: Hainbuchenhecke schützen
+- TOP 5.6.: Tempo 30 in der Regerstraße
+- TOP 5.7.: Radstellplätze an Kreuzungen – Franzosenviertel
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Mehrjahresinvestionsprogramm besser im Alfresco bzw. RIS darstellen
+- TOP 6.2.2.: Bundestagswahl am 26. September 2021; Einteilung der Wahlbezirke und Wahlräume
+- TOP 6.2.3.: Mehrjahresinvestitionsprogramm für die Jahre 2020-2024 mit verbindlicher Planung für das Baureferat; Fragen zur Finanzierung von Baumaßnahmen Antwort zum BA-Schreiben vom 06.04.2021
+- TOP 6.2.4.: Infoblatt September
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative "Skin Hunger" Bühnenprojekt „Skin Hunger“ vom 16.08. - 25.09.2021 1.000,00 € / Az. 0262.0-5-0349
+- TOP II.2.: (E) Stadtbezirksbudget Verein zur Förderung urbaner Kunst e.V. Dokumentation BILDWERK am 17.+18.09.2021 2.000,00 € / Az. 0262.0-5-0353
+- TOP II.3.: (E) Stadtbezirksbudget Münchner Heldentheater Theaterproduktion "Online-Skating, Inline-Dating" vom 19.11. - 12.12.2021 5.200,00 Euro, Az.: 0262.0-5-0354
+- TOP II.4.: Forderung der Wiedereinrichtung einer stationären Stadtteilbibliothek in der Unteren Au; Anhörung Kulturreferat => dazu: Flugblatt / Aushang
+- TOP II.5.: Stadteilbücherei NICHT in die Au zurück; Bürgeranliegen
+- TOP II.6.: Graffiti-Gestaltung der Wand am Tassiloplatz, Bürgeranliegen
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Projekt-Laden International Haidhausen Aktionen Kreatives und Kultur vom 01.10. - 17.12.2021 1.207,50 Euro, Az.: 0262.0-5-0357
+- TOP 1.2.: Aufstellen von Sportgeräten am Tassiloplatz; Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget
+- TOP 1.3.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben Sozialraumkarte Au-Haidhausen von Oktober 2021 bis September 2022 3.575,00 € / Az. 0262.0-5-0358
+- TOP 2.: Anhörungen
+- TOP 2.1.: Förderung der nachbarschaftlichen Begegnungsstätte JoMa e. V. auf dem ehemaligen Paulaner Gelände - Beschlussentwurf
+- TOP 2.2.: Weltspieltag am 20.09.2021 auf dem Mariahilfplatz Anhörungsfrist: 14.09.2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Besuche in Pflegeeinrichtungen ermöglichen
+- TOP 3.2.: Staffelung Badezeiten im Prinzregentenbad
+- TOP 3.3.: Auslagerung der städtischen Kindertagesstätte Kellerstr. 8
+- TOP 3.4.: Öffnung von Schulhöfen, Schreiben Referat für Bildung und Sport
+- TOP 3.5.: IT Geräteunterstützung durch das Sozialreferat Anfrage Nr. 20-26 / Q 00025 der Bürgerversammlung vom 08.07.2021
+- TOP 3.6.: Bewegungsparcours in städtischen Grünlagen installieren
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Aktualisierung der Liste und Karte mit Standorten für Geflüchtete und Wohnungslose, Stichtag 30.06.2021
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Aufstellen eines Schildes "Bolzen verboten" auf dem Spielplatz am Kegelhof
+- TOP 4.2.: Problematik Kolumbusplatz
+- TOP 4.3.: Spielplatz Reichenbachbrücke
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: "Lebenslust", Ohlmüllerstr. 14
+- TOP 1.2.: Erweiterung einer bestehenden Freischankfläche: Breisacherstr. 30
+- TOP 1.3.: Genehmigung einer Freischankfläche Sckellstr. 1a
+- TOP 1.4.: Erweiterung einer bestehenden Freischankfläche: Metzstr. 37 (2 Vorgänge)
+- TOP 1.5.: Erweiterung der Freischankfläche Preysingstr. 42
+- TOP 1.6.: (E) + (U) Uneingeschränkte Nutzung eines möglichen Cafes im Maxwerk für die Öffentlichkeit Empfehlung Nr. 20-26 / E 00108 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 08.07.2021 Keine Einrichtung eines Cafes im Maxwerk Empfehlung Nr. 20-26 / E 00109 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 08.07.2021
+- TOP 1.7.: Erweiterung einer bestehenden Freischankfläche: Kellerstr. 21
+- TOP 1.8.: Erweiterung einer bestehenden Freischankfläche: Preysingstr. 69
+- TOP 1.9.: Erweiterung einer bestehenden Freischankfläche: Prinzregentenstr. 78 dazu: weiterer Antrag
+- TOP 1.10.: Erweiterung einer bestehenden Freischankfläche: Wörthstr. 17
+- TOP 2.: Anhörungen
+- TOP 2.1.: "Sorry Johnny", Preysingstr. 42: Betriebszeitänderung auf 24 Uhr Fristverlängerung bis 24.09.2021
+- TOP 2.2.: "Cafe Fortuna", Sedanstr. 18: Betriebszeitänderung auf 24 Uhr Fristverlängerung bis 24.09.2021
+- TOP 2.3.: Bayerischer Landtag Großbildprojektion „75 Jahre gemeinsam für Demokratie“ vom 26.11.2021 bis 28.11.2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Standort Bayernmarkt wegen Orleansplatz Sanierung von März 2022 bis September 2022
+- TOP 3.2.: Ablehnung des Foodtruck-Festivals Mariahilfplatz Sommer in der Stadt 2021
+- TOP 3.3.: Mit Außenflächen Perspektiven für lokales Gewerbe schaffen
+- TOP 3.4.: Isarinselfest 2021 am 3.-5.9.2021 Frist bis 27.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 3.5.: Alltagsradeln auf dem Bordeauxplatz am 03.10.2021 Frist bis 03.09.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Hochstr, 4 ungenehmigte Werbeanlagen unter Gebsattelbrücke
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Märchenbazar: Nutzung des Mariahilfplatzes durch den Wannda e.V.
+- TOP 4.2.: Winterfest in der Au: Antrag auf Nutzungserlaubnis für den Mariahilfplatz
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Wörthstr. 3: Rückbau des Notdachs aus dem Jahr 1945 und Wiederherstellung des ursprünglichen Mansarddachs von 1895 mit DG-Ausbau sowie Anbau eines Personenlifts; hier: Baumveränderung Frist bis 06.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.2.: Regerstr. 25: Verlegung einer Ausfahrt sowie Vergrößerung einer Terrasse, Tektur Frist bis 18.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.3.: Franziskanerstr. 15: Neubau eines Mehrfamilienhauses mit Tiefgarage und Sanierung eines Mehrfamilienhauses (Franziskanerstr. 15/Rablstr. 43) => dazu: Baumfällungen Frist bis 18.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.4.: Edlingerstr. 7: Um- und Ausbau zweier Dachgeschosswohnungen zu Maisonette-Wohnungen im Hauptgebäude sowie Aufzugseinbau und Erweiterung der Balkone, Neubau der Überbauung Hofeinfahrt, Umbau des geneigten Daches zu einem Flachdach mit Dachterrasse des Hofanbaus und Neubau eines Zweifamilienhauses als Rückgebäude Frist bis 24.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.5.: Eduard-Schmid-Str. 27: Dachgeschossausbau im Vorder- und Rückgebäude (je 2 WE), Einbau von Dachterrassen, Gauben und Dachfenster sowie Anbau zweier Notleiteranlagen, Einbau eines Personenaufzugs im Vordergebäude, Errichten von Balkonen und Terrassen, Fassadenänderung, Nutzungsänderung einer Arztpraxis zu einer Wohnung, Tektur Frist bis 24.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.6.: Kellerstr. 26: Anbau von Balkonen an der Süd-Westseite Frist bis 24.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.7.: Preysingstr. 103a-105: Erstellung der Außenanlagen des Edith-Stein-Gymnasiums mit Sportbereichen mit Laufbahn und Rasenspielfeld, Pausenhof- und Vorplatzbereich => dazu: Baumfällungen Frist bis 24.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.8.: Kellerstr. 3: Änderung der Denkmalliste Nachtrag eines Gebäudes
+- TOP 2.9.: Weißenburger Str. 2: Umbau einer Restaurantfläche
+- TOP 2.10.: Obere Johannisstr. 1: Errichtung eines Dacheinschnittes in der Einbauebene zur WE 4 eines Mehrfamilienhauses
+- TOP 2.11.: Entenbachstr. 37: Kolpinghaus Jugendwohnheim, Anpassung der Freiflächen und Errichtung eines Nebengebäudes, Tektur
+- TOP 2.12.: Wolfgangstr. 21: Balkonvergrößerung im 1. Obergeschoss, Tektur
+- TOP 2.13.: Einsteinstr. 46: Dachgeschossausbau mit Errichtung von Gauben, Nutzungsänderungen im Erdgeschoss und Untergeschoss, Terrassen, Austausch tragender Wände gegen Unterzüge im Erdgeschoss, Tektur
+- TOP 2.14.: Rosenheimer Str. 111: Dachgeschoss- und Speicherausbau, Anbau eines Außenaufzugs an ein Mehrfamiienhaus, Tektur
+- TOP 2.15.: Johannisplatz 16: Neubau eines Wohn- und Geschäftsgebäudes mit Tiefgarage, Tektur => dazu: Abbruch: Vollständiger Rückbau des bestehenden Wohn- und Geschäftshauses mit Keller-, Erd- und 1.-4. bzw. Dachgeschoss
+- TOP 2.16.: Prinzregentenstr. 120: Nutzungsänderung Büro zu Einheit für Elternverein
+- TOP 2.17.: Schneckenburgerstr. 39-41: Betoninstandsetzung der Kellerdecken
+- TOP 2.18.: Aurbacherstr. 2: Nutzungsänderung Einheit 1, Erdgeschoss: Kantine zu Büro
+- TOP 2.19.: Jugendstr. 6: Errichtung eines Ersatzbaus für ein bestehendes Nebengebäude an einem denkmalgeschützten Anwesen, Vorbescheid
+- TOP 2.20.: Ohlmüllerstr. 16 a: Aufstockung Mehrfamilienhaus, Vorbescheid
+- TOP 2.21.: Orleansstr. 89: Abbruch und Neubau eines Wohn- und Geschäftshauses (23 WE, Laden, Cafe) mit Tiefgarage, Vorbescheid
+- TOP 2.22.: Kirchenstr. 88: Abbruch von Bestandsgebäuden mit Lagerflächen, Wohn- und Büronutzung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Immobilienspekulation in der Gallmayerstraße 9 verhindern, Wohnraum instandsetzen
+- TOP 3.2.: Leerstände in der Lucile-Grahn-Straße 39
+- TOP 3.3.: Salamitaktik in der Jugendstraße
+- TOP 3.4.: Anforderung von Bauvorhaben bei der LBK
+- TOP 3.5.: Rückmeldung der LBK zu Stellungnahmen des BA 5: a) Ohlmüllerstr. 40, Errichtung eines Wohngebäudes (9 WE) mit 8 Duplexparker (16 Stpl) b) Gravelottestr. 12, Teilumwandlung des Wohnheims für ehemalige Wohnungslose und Aufstockung des Rückgebäudes
+- TOP 3.6.: Leerstände in der Breisacher Straße 27 auflösen – Luxussanierung verhindern
+- TOP 3.7.: Abriss des denkmalgeschützten Rückgebäudes Trogerstraße 12 verhindern!
+- TOP 3.8.: (U) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) 2021 B. Anträge 1. Den Horizont erweitern – Sozialgerechte Bodennutzung und Bodenvorratspolitik anderer Städte vorstellen Antrag Nr. 14-20 / A 04310 von der Fraktion DIE GRÜNEN/RL vom 20.07.2018 2. Mehr dauerhaft bezahlbarer Wohnraum III: Mit der neuen SoBoN mehr bezahlbaren Wohnraum schaffen und dauerhaft sichern Antrag Nr. 14-20 / A 06746 von der Fraktion DIE GRÜNEN/ROSA LISTE vom 11.02.2020 3. Mehr dauerhaft bezahlbares Wohnen Antrag Nr. 14–20 / A 06968 von der SPD-Stadtratsfraktion vom 10.03.2020 4. SoBoN-Novelle 2020/2021: München braucht mehr geförderten Wohnraum Antrag Nr. 20-26 / A 00707 von der Fraktion DIE LINKE./Die PARTEI vom 18.11.2020
+- TOP 3.9.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Frage zum Thema Erhaltungssatzung (Hausverkauf Weißenburger Straße)
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 5 Au-Haidhausen Widmung einer Teilstrecke der Senftlstraße
+- TOP 1.2.: (E) Verbot bzw. Ahndung von Parken in zweiter Reihe
+- TOP 1.3.: (E) + (U) Ismaninger Straße zwischen Prinzregentenstraße und Max-Weber-Platz als Tempo 30-Zone ausweisen Empfehlung Nr. 14-20 / E 03167 der Bürgerversammlung des Stadtbezirkes 05 – Au-Haidhausen am 23.01.2020
+- TOP 1.4.: Antrag Bündnis 90/Die Grünen: Maßnahmen gegen das Verkehrschaos im Franzosenviertel; hier: Einrichtung einer Fahrradzone Verweisung aus der Sitzung vom 21.07.2021
+- TOP 2.: Anhörungen
+- TOP 2.1.: Pilgersheimer Straße - dauerhaftes Untersagen des Linksabbiegens, Ablauf des Verkehrsversuches
+- TOP 2.2.: Zufahrt Lothringer Strasse 1: Kfz-Stellplatzumwandlung / Errichtung Fahrradabstellplätze
+- TOP 2.3.: Parklizenzgebiet „Klinikviertel“: Parkplätze an der Maria-Theresia-Straße zwischen Europaplatz und Langerstraße
+- TOP 2.4.: Überarbeitung der Parkregeln innerhalb der Parklizenzgebiete aufgrund der zahlenmäßigen Verringerung des Parkplatzangebotes
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Messergebnisse auf der Rosenheimer Straße
+- TOP 3.2.: Erhöhung der Schulwegsicherheit am Zita-Zehner-Platz
+- TOP 3.3.: Generalsanierung des Busbahnhofes am Orleansplatz (Anfrage)
+- TOP 3.4.: Fahrradabstellanlagen für die Eki Kellerkinder e.V. in der Seeriederstraße
+- TOP 3.5.: Mobilitätskonzept in den Stadtteilen Au und Haidhausen
+- TOP 3.6.: Zebrastreifen für den Pariser Platz
+- TOP 3.7.: Haidenauplatz rot markieren
+- TOP 3.8.: Umwandlung der Bedarfsampel über die Auerfeldstraße
+- TOP 3.9.: Ahndung von Parkvergehen
+- TOP 3.10.: Überprüfung der Ampelschaltung in der Auerfeldstraße Höhe Zita-Zehner-Platz
+- TOP 3.11.: Stau in der Entenbachstraße verhindern
+- TOP 3.12.: Kreuzung Humboldtstraße / Pilgersheimerstraße: Markierung Radweg
+- TOP 3.13.: Taxi-Chaos in der Ismaninger Straße
+- TOP 3.14.: Tempo 30-Zone in Haidhausen vervollständigen
+- TOP 3.15.: Einrichtung von Ladezonen in der Rosenheimer Straße
+- TOP 3.16.: Radstellplätze in der Au und in Haidhausen einrichten
+- TOP 3.17.: Verkehrsrechtliche Anordnungen a) Einbahnregelung in der Balanstraße zwischen St.-Martin-Straße und Orleansstraße wegen Brückenerneuerung b) Walserstr. 1, Nutzung öffentlichen Verkehrsgrundes bis 31.07.2022 c) Zeppelinstraße, Änderung der Parkregelung in „Misch-/Bewohnerparken“ d) Balanstr. Auerfeldstr., Orleansstr., Fernwärmearbeiten bis 10.12.2021 e) Zellstr., Parkplatz des Müllerischen Volksbades, Baustelleneinrichtungsfläche im Zusammenhang mit der Baumaßnahme Ludwigsbrücken f) Innere Wiener Str. zwischen Max-Weber-Pl. und Wiener Pl., Verlegen einer Wasserleitung g) Schulbushaltestellen Kirchenstraße 13-19, 4-6: Änderung Beschilderung h) Parklizenzbereich Klinikviertel, Längsparken Troger-/Perfallstraße
+- TOP 3.18.: Erinnerungsverfahren: Spartenanfrage Kolumbusstr. 40-42 (inkl. Baumfällung)
+- TOP 3.19.: Umbau Regerstraße
+- TOP 3.20.: Mittelfristige Maßnahmen an der Regerbrücke - Rückmeldung des Mobilitätsreferat
+- TOP 3.21.: Leistungsprogramm der MVG für die Fahrplanperiode 2022 Unterstützungsbusse der Linie 54 verlängern, Antrag Nr. 20-26 / B 01654 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 29.01.2021 Sitzungsvorlagen Nr. 20-26 / V 03918
+- TOP 3.22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.23.: (U) Freies WLAN in U-Bahn, Tram und Bus Antrag Nr. 14-20 / A 05156 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.02.2014 Das M-WLAN auch auf Sperrengeschosse ausweiten Antrag Nr. 14-20 / A 00425 von der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 12.11.2014 Was in Nürnberg möglich ist, muss auch in München gehen: Einführung von öffentlichen WLAN-Netzen in Zwischen-geschossen und an Bahnsteigen der MVG Antrag Nr. 14-20 / A 04436 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.09.2018 WLAN /WiFi in allen MVG- und MVV-Bereichen Antrag Nr. 14-20 / B 06062 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 10.04.2019 In MVG-Bussen Handy laden und öffentlichen WLAN-Anschluss Antrag Nr. 14-20 / B 07276 des Bezirksausschusses des Stadtbezirkes 18 – Untergiesing-Harlaching vom 17.12.2019
+- TOP 3.24.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs, drittes Maßnahmenbündel Gesamtkonzept für Busspuren in der Au, Empfehlung Nr. 14-20 / E 03138 aus der Bürgerversammlung vom 30.01.2020 Sitzungsvorlage Nr. 20-26 / V 02846
+- TOP 3.25.: Weiterer Zugang zum Schulgelände der Franziskus-Grundschule
+- TOP 3.26.: Fahrradstraße für den Bereich Zeppelinstraße/Mariahilfstraße/Bereiteranger
+- TOP 3.27.: Parken auf dem Johannisplatz unterbinden
+- TOP 3.28.: Stellungnahme bzgl. Beeinträchtigungen durch den Laden "Gorillas" in der Welfenstraße
+- TOP 3.29.: Sicherung der Gleisanlagen am Giesinger Feld durch die DB
+- TOP 3.30.: Verantwortungsvoller Umgang mit E-Scootern BA-Antrag Nr. 20-26 / B 02646 des Bezirksausschusses des 1. Stadtbezirkes Altstadt-Lehel vom 29.06.2021; Abdruck an alle BAs
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Errichtung von Fahrradständern an der Mariahilfstr. 3 und 5
+- TOP 4.2.: Anbringen eines Spiegels an der Engstelle des Fuß-/Radwegs am Müllerschen Volksbad
+- TOP 4.3.: Gebsattelberg - Verkehrsführung
+- TOP 4.4.: Verlegung der neu aufgestellten Radständer Kolumbusstraße auf die vielen Grünflächen
+- TOP 4.5.: Erschwerte Einfahrtssituation in der Rosenheimer Str. 86
+- TOP 4.6.: Zuparken der Gehwege durch Fahrräder, Motorräder etc. in der Sedan-/Metzstraße
+- TOP 4.7.: Zuparken der Gehwege durch Fahrräder, Motorräder etc. in der Ackerstraße
+- TOP 4.8.: Umwandlung PKW-Parkplatz zur Fahrradabstellfläche vor Kinderarztpraxis in der Kolumbusstr. 11
+- TOP 4.9.: Sinn der Parklizenzgebühren für Anwohner bei stetiger Minimierung des Parkangebots
+- TOP 4.10.: Fußgängerüberweg von der Albanistraße in die Frühlingsanlagen
+- TOP 4.11.: Vorschläge des Bauvereins Haidhausen zu verschiedenen Verkehrsthemen
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Netzwerk Klimaherbst e.V. Fair.Wandeln.München - Digitaler Guide zu Orten des Wandels in Au-Haidhausen vom 01.10.2021 -30.09.2022 3.000,00€; Az. 0262.,0-5-0352
+- TOP 2.: Anhörungen
+- TOP 2.1.: Am Neudeck 6: Fällung von 1 Eberesche Frist bis 30.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.2.: Preysingstr. 83: Fällung von 1 Winterlinde Frist bis 30.08.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.3.: Zeppelinstr. 9: Fällung von 1 Robinie Frist bis 06.09.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.4.: Einsteinstr. 67; Fällungsantrag von 1 Hollunder Frist bis 23.09.2021
+- TOP 2.5.: Balanstr. 51; Fällung von 1 Linde Frist bis 23.09.2021
+- TOP 2.6.: Erweiterung der WSI (Wertstoffcontainer) an der Taubenstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fällungsgenehmigungen: a) Rablstr. 12 b) Am Neudeck 6 c) Orleansstr. 34 d) Zeppelinstr. 9-9b
+- TOP 3.2.: Baumentfernungen und Gehölzpflegemaßnahmen
+- TOP 3.3.: Umgestaltung der Kirchenstraße zwischen Kirchenschule und Johannisplatz
+- TOP 3.4.: Häufigere Müllbeseitigung am Orleansplatz
+- TOP 3.5.: Isarproblematik: Lärm/Vermüllung
+- TOP 3.6.: Alternative Begrünungskonzepte
+- TOP 3.7.: Baumersatzkonzept in Au-Haidhausen zur Korrektur des Baumverlusts
+- TOP 3.8.: (U) Ergebnisse der Runden Tische "Landwirtschaft in München" und Aufgreifen der Empfehlungen
+- TOP 3.9.: (U) Grundsatzbeschluss I Umsetzung Klimaziele München Erlass einer Klimasatzung Erlass einer Klimaratssatzung
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Ruhestörung wegen Container am St. Wolfgangs-Platz
+- TOP 4.2.: Sehr störende Lichtbelästigung Rosenheimer Str. 113
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 11.10.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 11.10.2021, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 12.10.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 13.10.2021, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 13.10.2021, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 14.10.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Videokonferenz statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 20.10.2021, 19.00 Uhr, Black Box im Gasteig, Rosenheimer Str. 5 BA-Vorstand, Dienstag, 05.10.2021, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Sitzungstermine BA 5 in 2022
+- TOP 5.: Verschiedenes
