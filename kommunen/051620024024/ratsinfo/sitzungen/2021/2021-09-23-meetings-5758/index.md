@@ -1,0 +1,53 @@
+# Bezirksausschuss VIII - Rosellen
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-09-23T17:00:00+02:00
+- Ende: 2021-09-23T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/19
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5758
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5758
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00151429.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00151429.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00151429.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Verpflichtung sachkundige Bürger
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Bestellung einer Schriftführung und einer stellvertretenden Schriftführung - einstimmig zugestimmt
+- TOP 5: Einwohner*innenfragestunde
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 6: Vorschläge zur Berufung weiterer beratender Mitglieder des Bezirksausschusses - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 7: Antrag der CDU-Mitglieder betr.: Herrichtung des Rad- und Fußweges am Ortseingang Neuenbaum - beraten ohne Abstimmung
+- TOP 8: Antrag der CDU-Mitglieder betr.: Aufstellen eines Papierkorbs Margeritenstraße Ecke Am Rindergraben - beraten ohne Abstimmung
+- TOP 9: Antrag der CDU-Mitglieder betr.: Absicherung Klettergerüst Rankestraße - einstimmig zugestimmt
+- TOP 10: Antrag der CDU-Mitglieder betr.: Einrichtung einer Querungshilfe auf der Neukirchener Straße in Neuenbaum - einstimmig zugestimmt
+- TOP 11: Antrag der CDU-Mitglieder betr.: Dachbegrünung/PV-Anlage Grundschule Allerheiligen/Kita Zauberhügel - einstimmig zugestimmt
+- TOP 12: Antrag der CDU-Mitglieder betr.: Radquerung Busspur Allerheiligen Bongarder Hof/Marga-Groove-Str. - beraten ohne Abstimmung
+- TOP 13: Antrag der CDU-Mitgieder betr.: Stichweg Waldstraße-Buchenstraße - beraten ohne Abstimmung
+- TOP 14: Antrag der CDU-Mitglieder betr.: Beleuchtung Gehweg aus Allerheiligen B2 - einstimmig zugestimmt
+- TOP 15: Antrag der CDU-Mitglieder betr.: Absicherung des Fußgängerüberweges "Am Linkhof" - beraten ohne Abstimmung
+- TOP 16: Antrag der CDU-Mitglieder betr.: Ausweisung einer Parkfläche Max-Ernst-Str. (gegenüber Haus Nr. 69) - beraten ohne Abstimmung
+- TOP 17: Antrag der CDU-Mitglieder betr.: Verbesserung der Ausfahrt des Heidezentrums bzw. Seniorenzentrums an der Föhrenstraße - einstimmig zugestimmt
+- TOP 18: Antrag der CDU-Mitglieder betr.: Verbesserung der Ausfahrt der Kindertagesstätten "Am Mühlenbusch" (Stichweg zur Ueckerrather Straße in Rosellerheide) - einstimmig zugestimmt
+- TOP 19: Antrag der CDU-Mitglieder betr.: Pflege des Bürgersteiges an der Bushaltestelle „Seniorenzentrum“ in Rosellerheide sowie der Grünfläche an der Schwarzdornstraße und dem Edelweißweg in Neuenbaum - beraten ohne Abstimmung
+- TOP 20: Antrag der Mitglieder der Kooperation betr.: Umbau der Haltestelle Ueckerather Straße in Richtung Neuenbaumer Straße - einstimmig zugestimmt
+- TOP 21: Antrag der Mitglieder der Kooperation betr.: Verlegung der Haltestelle Waldstraße Rosellerheide - einstimmig zugestimmt
+- TOP 22: Antrag der Mitglieder der Kooperation betr.: Zufahrtsänderung der Firma Silesia über die Horremer Straße in Allerheiligen - beraten ohne Abstimmung
+- TOP 23: Antrag der Mitglieder der Kooperation betr.: Beleuchtung des Schulweges von Allerheiligen B2 zur Grundschule Allerheiligen - einstimmig zugestimmt
+- TOP 24: Anrtrag der Mitglieder der Kooperation betr.: Maßnahmen zur Verkehrssicherheit an der Bustrasse Allerheiligen - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+- TOP -: Mitteilungen der Verwaltung
+- TOP 25: Erweiterung Firma Silesias und Verlegung der Zufahrt an die Horremer Straße - zur Kenntnis genommen
+- TOP 26: Aufgaben des Beauftragten für Baukommunikation und -koordination - zur Kenntnis genommen
+- TOP 27: Bericht aus Rat und Fachausschüssen zu Angelegenheiten des Bezirks - zur Kenntnis genommen
+- TOP 28: Einwohner*innenfragestunde
