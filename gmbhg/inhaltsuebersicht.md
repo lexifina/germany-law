@@ -132,7 +132,13 @@
 | § 75 | Nichtigkeitsklage |
 | § 76 | Heilung von Mängeln durch Gesellschafterbeschluss |
 | § 77 | Wirkung der Nichtigkeit |
+|  |  |
 | Abschnitt 6 |
+|  |  |
+| Sondervorschriftenbei Beteiligung des Bundes |
+|  |  |
+| § 77a | Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes |
+| Abschnitt 7 |
 |  |
 | Ordnungs-, Straf- und Bußgeldvorschriften |
 |  |

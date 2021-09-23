@@ -129,7 +129,14 @@
 - [§ 76 Heilung von Mängeln durch Gesellschafterbeschluss](0076.md)
 - [§ 77 Wirkung der Nichtigkeit](0077.md)
 
+## Abschnitt 6 Sondervorschriften bei Beteiligung des Bundes
+
+- [§ 77a Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes](0077a.md)
+
 ## Abschnitt 6 Ordnungs-, Straf- und Bußgeldvorschriften
+
+
+## Abschnitt 7 Ordnungs-, Straf- und Bußgeldvorschriften
 
 - [§ 78 Anmeldepflichtige](0078.md)
 - [§ 79 Zwangsgelder](0079.md)

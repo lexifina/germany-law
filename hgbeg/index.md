@@ -246,3 +246,7 @@ Transparenzrichtlinie-Umsetzungsgesetz
 ## Siebenundvierzigster Abschnitt Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
 
 - [Art 86](art-86.md)
+
+## Achtundvierzigster Abschnitt Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+- [Art 87](art-87.md)

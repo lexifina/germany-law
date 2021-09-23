@@ -83,10 +83,14 @@
 | § 52 | Auflösung der SE bei Auseinanderfallen von Sitz und Hauptverwaltung |
 |  |
 | Abschnitt 6 |
+| Sondervorschriftenbei Beteiligung des Bundes |
+| § 52a | Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes |
+|  |  |
+| Abschnitt 7 |
 | Straf- und Bußgeldvorschriften |
 | § 53 | Straf- und Bußgeldvorschriften |
 |  |
-| Abschnitt 7 |
+| Abschnitt 8 |
 | Schlussbestimmungen |
 | § 54 | Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz |
 | § 55 | Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie |

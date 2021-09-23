@@ -84,11 +84,21 @@
 
 - [§ 52 Auflösung der SE bei Auseinanderfallen von Sitz und Hauptverwaltung](0052.md)
 
+## Abschnitt 6 Sondervorschriften bei Beteiligung des Bundes
+
+- [§ 52a Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes](0052a.md)
+
 ## Abschnitt 6 Straf- und Bußgeldvorschriften
+
+
+## Abschnitt 7 Straf- und Bußgeldvorschriften
 
 - [§ 53 Straf- und Bußgeldvorschriften](0053.md)
 
 ## Abschnitt 7 Schlussbestimmungen
+
+
+## Abschnitt 8 Schlussbestimmungen
 
 - [§ 54 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz](0054.md)
 - [§ 55 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie](0055.md)

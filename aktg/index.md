@@ -622,6 +622,7 @@ beteiligte Unternehmen
 - [(XXXX) §§ 329 bis 336](xxxx-329-bis-336.md)
 - [§ 337](0337.md)
 - [§ 338](0338.md)
+- [§ 393a Besetzung von Organen bei Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes](0393a.md)
 
 ## Viertes Buch Sonder-, Straf- und Schlußvorschriften
 
