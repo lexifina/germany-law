@@ -1,0 +1,99 @@
+# 12. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-23T17:00:00+02:00
+- Ende: 2021-09-23T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23326
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23326
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1.1: Bürgereingabe gem. § 24 GO, betr.: Derichsweg Rücknahme Verkehrsberuhigung (Az.: 02-1600-110/21) - geändert beschlossen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Kreuzung Donatusstraße/Im Gewerbegebiet Pesch - Kenntnis genommen
+- TOP 7.1.2: Sportplatz St.-Tönnis-Str. Beantwortung einer Anfrage - zurückgestellt
+- TOP 7.1.3: Beantwortung der Anfrage AN/1351/2021- Sachstand Krebelshof - Kenntnis genommen
+- TOP 7.1.4: Nutzung des ehemaligen Wahlamtes Athener Ring 5 - zur Anfrage der Fraktion Die Linke AN/1648/2021 - Kenntnis genommen
+- TOP 7.1.5: Erweiterung des Parkplatzes Johannesstraße - Kenntnis genommen
+- TOP 7.1.6: Anfrage gemäß §4 der Geschäftsordnung des Rates AN/1618/2021; hier: Inbetriebnahme des Fontänenbrunnen auf dem Pariser Platz - Kenntnis genommen
+- TOP 7.1.7: Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 7.1.8: Mittelalterliches Phantasie Spectaculum (MPS) am 06.08.-09.08.2021 am Fühlinger See - Kenntnis genommen
+- TOP 7.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.10: Sicherer Fußgängerüberweg über die Chorbuschstraße Kreuzung Martinusstraße/Griesbergerstraße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bauliche Änderungen im Rahmen der Sanierung der B9, Ortslage Worringen - Kenntnis genommen
+- TOP 7.2.2: Installierung eines zentralen Strom- und Wasseranschlusses auf dem Platz in Auweiler - Kenntnis genommen
+- TOP 7.2.3: Monitoring des Beweidungskonzepts in der Rheinaus Worringen - Kenntnis genommen
+- TOP 7.2.4: Energiesicherheit für Fernwärme im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.2.5: Eröffnung Grundschule Volkhoven/Weiler - Kenntnis genommen
+- TOP 7.2.6: Regenerative Energie-Erzeugung im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.2.7: Parksituation am Asternweg in Seeberg - Kenntnis genommen
+- TOP 7.2.8: Kletterwand auf die Lyoner Passage an der Außenfassade am City Center. - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: TOP 7.2.3. a.d.S. vom 15.04.2021, Historischer Friedhof Esch, 0173/2021
+- TOP 7.3.2: TOP 7.2.4. i.d.S. vom 15.04.2021, Installierung zentr. Wasser- und Stromanschluss Auweiler 0174/2021
+- TOP 7.3.3: TOP 7.2.7 i.d.S. vom 15.04.2021, Verkehrsprüfung Liverpooler Platz, 0176/2021
+- TOP 7.3.4: TOP 7.2.10 i.d.S. vom 15.04.2021, KVB Fahrgast EKZ Heimersdorf, 0218/2021
+- TOP 7.3.5: TOP 7.2.15 i.d.S. vom 15.04.2021, Sachstand Blumenbergsweg, 0350/2021
+- TOP 7.3.6: TOP 7.2.20 i.d.S. vom 15.04.2021, Grünstreifen Liller Str./Oxforder Passage, 0654/2021
+- TOP 7.3.7: TOP 7.2.1 i.d.S. vom 27.05.2021, Straßenbäume in Chorweiler und Seeberg, 1080/2021
+- TOP 7.3.8: TOP 7.2.2 i.d.S. vom 27.05.2021, Sachstand Sanierung Neusser Landstr. 1077/2021
+- TOP 7.3.9: TOP 7.2.6 i.d.. vom 27.05.2021, Geschwindigkeit Volkhovener Weg 1052/2021
+- TOP 7.3.10: TOP 7.2.2. i.d.S. vom 17.06.2021, Insel Pescher See 1352/2021
+- TOP 7.3.11: TOP 7.2.3. i.d.S. vom 17.06.2021 Wochenmarkt 1334/2021
+- TOP 7.3.12: TOP 7.2.7 i.d.S. vom 17.06.2021 Raser Mercatorstr. 1344/2021
+- TOP 7.3.13: TOP 7.3.6 i.d.S. vom 17.06.2021, Parken Langel 1355/2021
+- TOP 7.3.14: TOP 7.2.2. i.d.S. vom 26.08.2021, Anhäufung von Sperrmüll auf öffentlichen Straßen im Kölner Norden, 1590/2021
+- TOP 7.3.15: TOP 7.2.3 i.d.S. vom 26.08.2021, Alte NeusserLandstr. 273, Haus Worringen 1591/2021
+- TOP 7.3.16: TOP 7.2.8 i.d.S. vom 26.08.2021, Starkregenereignisse und Überschwemmungen im Kölner Norden, 1653/2021
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung durch die Bezirksvertretung Chorweiler - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Aufstellung einer Wanderbaumallee im öffentlichen Raum des Stadtbezirks Chorweiler - geändert beschlossen
+- TOP 8.3.2: Antrag für Elektronische versenkbare Pfosten in der Geiersbergstraße und Ernstbergstraße in Köln-Blumenberg an der Zufahrt zur S-Bahn Haltestelle Köln-Blumenberg. - zurückgestellt
+- TOP 8.3.3: FC Pesch-Parkplatz - geändert beschlossen
+- TOP 8.3.4: Verbesserung der Helligkeit in der Unterführung im Stadtbezirk Köln Chorweiler - endgültig abgelehnt
+- TOP 8.3.5: Pflegekonzept für den Escher See - ungeändert beschlossen
+- TOP -: Änderungsantrag - Pflegekonzept für den Escher See – Weitere Standorte - endgültig abgelehnt
+- TOP 8.3.6: Beauftragung – Wettbewerb Wappen Chorweiler - endgültig zurückgezogen
+- TOP 8.3.7: Erhöhung der Schülerzahl an der GGS Amandusstraße - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag zu TOP 8.3.7 - ungeändert beschlossen
+- TOP 8.3.8: Überprüfung der Jugendeinrichtungen nach dem Unwetter – Soforthilfe für die Jugendzentren in Köln Chorweiler - endgültig abgelehnt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 277. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.2: Beschluss über die Umstellung des Verfahrens zur 3. Änderung des Bebauungsplanes Nummer 67549/04 mit dem Arbeitstitel: "Causemannstraße" in Köln-Merkenich, 3. Änderung - ungeändert beschlossen
+- TOP 9.2.3: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - endgültig zurückgezogen
+- TOP 9.2.4: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - zurückgestellt
+- TOP 9.2.5: Stadtstrategie „Kölner Perspektiven 2030+“ - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: 19. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Verbraucherberatung im Quartier: Jahresbericht 2020 - Kenntnis genommen
+- TOP 10.2.3: Regelmäßigen Informationsfluss und -austausch zu bedeutsamen Verkehrsinfrastrukturprojekten sicherstellen - Kenntnis genommen
+- TOP 10.2.4: Qualitätsbericht 2020 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.5: Aktueller Sachstand GAG-Siedlung Fortuinweg - Kenntnis genommen
+- TOP 10.2.6: Gewässerunterhaltungsplan 2021/2022 - Kenntnis genommen
+- TOP 10.2.7: Ausweitung der Abstellverbotszonen und festen Rückgabeorte für E-Scooter - Kenntnis genommen
+- TOP 10.2.8: Multilingualität von Anfang an - Übersicht Mehrsprachige Angebote in Köln - Kenntnis genommen
+- TOP 10.2.9: Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 10.2.10: Ergebnisse der 1. Phase des Wettbewerblichen Dialogverfahrens "Kreuzfeld" - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
