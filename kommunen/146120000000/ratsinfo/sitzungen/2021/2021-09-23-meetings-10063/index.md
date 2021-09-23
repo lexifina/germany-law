@@ -1,0 +1,63 @@
+# 29. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-09-23T16:00:00+02:00
+- Ende: 2021-09-23T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/10063
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/10063
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00565108.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Aktuelle Stunde zum Thema: Eine autofreie Augustusbrücke als „Karlsbrücke für Dresden“ – Anspruch, Wahrheit und Perspektiven - erledigt
+- TOP 3: Aktuelle Stunde zum Thema "Welche Rolle spielen Pegida und andere rechte Umtriebe für die Attraktivität Dresdens als Wirtschafts- und Wissenschaftsstandort - erledigt
+- TOP 4: Wahl eines Mitgliedes des Stiftungsrates der "Stadtstiftung Dresdner Kreuzchor" - gewählt
+- TOP 5: Umbesetzung im Aufsichtsrat der Dresden-IT GmbH - Vertagung
+- TOP 6: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirks-beirat Cotta der Landeshauptstadt Dresden Mandat der Partei Christlich Demokratische Union Deutschlands - Zustimmung
+- TOP 7: Umbesetzung im Wohnbeirat - Zustimmung
+- TOP 8: Tagesordnungspunkte ohne Debatte
+- TOP 9: Vertagungen letzte Stadtratssitzung vom 22.07./23.07.2021
+- TOP 9.1: Umverteilung von Haushaltsmitteln - Innovationsbudget - punktweise Zustimmung
+- TOP 9.2: Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Gebühren für Märkte (Marktgebührensatzung) - Vertagung durch Einreicher
+- TOP 9.3: Wiederbelebung der Wirtschaft, des Gastgewerbes und des Mittelstandes in Dresden – Stärkung von Mittelstand und Tourismus - punktweise Abstimmung
+- TOP 9.4: 1. Aktualisierung des Wohnkonzeptes und der Richtlinie "Kooperatives Baulandmodell Dresden" - Vertagung
+- TOP 9.5: Multimodale Anknüpfungspunkte am Stadtrand entwickeln - Ablehnung
+- TOP 9.6: Sicherheit im Radverkehr - Zustimmung mit Änderung
+- TOP 9.7: Baumaßnahmen auf dem Terrassenufer - Zustimmung
+- TOP 9.8: Liegenschaft Schloss Roßthal - Ablehnung
+- TOP 9.9: Schönheit achten: Historischen Elbzugang am Schloss Übigau wiederherstellen - Vertagung
+- TOP 9.10: Fortschreibung des Radverkehrskonzeptes der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 9.11: Sozial aus der Krise – Auswirkungen der Corona-Pandemie und des Lockdowns begegnen - Vertagung
+- TOP 10: Temporärer Erweiterungsbau an der 10. Grundschule, Struvestraße 11 in 01069 Dresden - Zustimmung
+- TOP 11: Befristete, coronabedingte Mietpreisreduzierung im Konzertsaal im Kulturpalast Dresden für den Zeitraum Januar bis Juli 2022 - Zustimmung
+- TOP 12: Veränderungssperre für Bebauungsplan Nr. 3046 - Zustimmung
+- TOP 13: Änderung der Satzung der Landeshauptstadt Dresden für die Friedhöfe des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Friedhofssatzung) vom 26. März 2020. - Zustimmung
+- TOP 14: Jahresabschluss 2020 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 15: Jahresabschluss 2020 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 16: Jahresabschluss 2020 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 17: Jahresabschluss 2020 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 18: Jahresabschluss 2020 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 19: Jahresabschluss 2020 des Eigenbetriebes Heinrich-Schütz-Konservatorium der Landeshauptstadt Dresden - Zustimmung
+- TOP 20: Jahresabschluss 2020 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 21: Kompensationspflicht bei Stellplatzwegfall - Vertagung durch Einreicher
+- TOP 22: Aufhebung des Stadtratsbeschlusses V3019/19 - Ablehnung
+- TOP 23: Aufwertung des beidseitigen Elberad- und Wanderweges - Vertagung
+- TOP 24: An die Opfer religiös motivierter Gewalt erinnern - Zustimmung
+- TOP 25: Sichere und schnelle Radwegverbindung vom Heidefriedhof zum Elbradweg durch Nutzung der zurückgebauten Bahntrasse - Vertagung
+- TOP 26: Albertpark als Ort des Waldnaturschutzes, der Naturbildung und naturnahen Erholung weiterentwickeln - Vertagung
+- TOP 27: Biologische Vielfalt und ökologische Qualität der Dresdner Teiche und Fließgewässer sichern und verbessern - Vertagung
+- TOP 28: Die Friedliche Revolution als (immaterielles) UNESCO-Weltkulturerbe - - Vertagung
+- TOP 29: Neubenennung von Straßen, hier Benennung einer Planstraße im Baugebiet Alberstadt-Ost – Stauffenbergallee/Marienallee in „Wolfgang-Mischnick-Straße“ - Vertagung
+- TOP 30: Schulkonzepte für die Zukunft – Planungsvorgaben und Raumstandards mit Blick auf die Kostenentwicklungen bei Neubau und Sanierung - Vertagung
+- TOP 31: Aktualisierung und regelmäßige Berichterstattung zum Sanierungs- und Entwicklungskonzept Dresdner Sportstätten (SANEKO, Anlage 2 zu Beschluss SR V2699/18) - Vertagung
+- TOP 32: Keine Kürzungen bei Bus und Bahn. Gutachterirrsinn beenden. Dresdner Verkehrsbetriebe stärken! - Vertagung durch Einreicher
+- TOP 33: Coronavirus weiter eindämmen – Niedriginzidenz-Strategie für Dresden - Verweisung
+- TOP 34: Sofortmaßnahmen gegen die Verletzung von Vertraulichkeit und Diskretion im Rathaus - Vertagung nach 22 Uhr
+- TOP 36: Analyse der kommunalen Handlungsfelder in Vorbereitung des "Aktionsplans Integration 2021 bis 2026" - zur Kenntnis genommen
+- TOP 37: Haushaltsvollzug 2021 - Finanzzwischenbericht/Zwischenberichte der Eigenbetriebe 2021 - zur Kenntnis genommen
+- TOP 38: Externe Dienstleistungen und Möglichkeiten der Rekommunalisierung in der Landeshauptstadt Dresden - zur Kenntnis genommen
