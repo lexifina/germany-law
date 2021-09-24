@@ -81,7 +81,7 @@
 | § 44 | Gebühren für die Niederlassungserlaubnis |
 | § 44a | Gebühren für die Erlaubnis zum Daueraufenthalt – EU |
 | § 45 | Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte |
-| § 45a | Gebühren für den elektronischen Identitätsnachweis |
+| § 45a | (weggefallen) |
 | § 45b | Gebühren für Aufenthaltstitel in Ausnahmefällen |
 | § 45c | Gebühr bei Neuausstellung |
 | § 46 | Gebühren für das Visum |
