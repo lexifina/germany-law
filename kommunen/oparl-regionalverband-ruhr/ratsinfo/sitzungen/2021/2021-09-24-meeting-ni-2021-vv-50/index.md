@@ -1,0 +1,92 @@
+# 3. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2021-09-24T10:00:00+02:00
+- Ende: 2021-09-24T12:30:00+02:00
+- Ort: Grugahalle, Messeplatz 2, 45131 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2021-VV-50
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2021-VV-50
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2021-VV-50
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2021-VV-50
+
+## Tagesordnung
+
+- TOP -: Genehmigung der Niederschrift vom 25.06.2021
+- TOP -: Einführung und Verpflichtung eines neuen Mitgliedes der Verbandsversammlung
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen
+- TOP 1.1: Projekt 'Citybahn Essen' ? Aufnahme in den ÖPNV-Bedarfsplan und den Infrastruk-turfinanzierungsplan des Landes NRW
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 1.2: Aufstellungsbeschluss zur 90. Änderung des Regionalplanes GEP 99: Änderung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) mit Güterumschlaghafen in einen Allgemeinen Siedlungsbereich (ASB) sowie Änderung eines Schienenweges auf dem Gebiet der Stadt Duisburg (Alt-Homberg)
+- TOP 1.3: Regionalplan Ruhr für das Verbandsgebiet des Regionalverbands Ruhr Beschluss zur zweiten Beteiligung
+- TOP 1.3.1: 'Regionalplan Ruhr für das Verbandsgebiet des Regionalverbands Ruhr Beschluss zur zweiten Beteiligung'
+- TOP -: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 2.1: Überplanmäßige Mittelbereitstellung im Rahmen der Haldentransaktion (Bereitstellung der Aufwendungen für Pflege und Unterhaltung an RVR Ruhr Grün)
+- TOP 2.2: Public Corporate Governance Kodex des Regionalverbandes Ruhr
+- TOP 2.2.1: Public Corporate Governance Kodex des Regionalverbandes Ruhr Hier: Änderung der Fassung vom 12.07.2021
+- TOP 2.2.2: Public Corporate Governance Kodex des Regionalverbandes Ruhr
+- TOP 2.2.3: Public Corporate Governance Kodex Hier: Änderung der Fassung vom 12.07.2021
+- TOP 2.3: Standortmarketingkampagne 'Metropole Ruhr - Stadt der Städte' - Zwischenergebnis der 2. Phase (2020-2022) und Entscheidung über die Zusammenarbeit mit der Agentur Scholz & Friends für ein weiteres Jahr
+- TOP 2.3.1: Standortmarketingkampagne 'Metropole Ruhr - Stadt der Städte' - Zwischenergebnis der 2. Phase (2020-2022) und Entscheidung über die Zusammenarbeit mit der Agentur Scholz & Friends für ein weiteres Jahr Hier: Änderung des Beschlussvorschlages
+- TOP 2.4: Angelegenheiten der Beteiligungsgesellschaften Auswirkungen der Corona-Krise auf die Beteiligungsgesellschaften ? Sach-standsbericht mit finanziellen Auswirkungen und zu erwartenden Sonderzuschüssen zum 31.12.2021
+- TOP 2.5: Angelegenheiten der Freizeitgesellschaften Freizeitzentrum Xanten GmbH - Änderung des Gesellschaftsvertrages und Abschluss einer Gesellschaftervereinbarung
+- TOP 2.6: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Rücknahme der Kürzung des Betriebskostenzuschusses an RVR Ruhr Grün im Haushaltsjahr 2020
+- TOP 2.7: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH ? AGR GmbH
+- TOP 2.8: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Kultur Ruhr GmbH
+- TOP 2.9: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Ruhrwind Herten GmbH
+- TOP 2.10: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Umweltzentrum Westfalen GmbH
+- TOP 2.11: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Business Metropole Ruhr GmbH
+- TOP 2.12: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Ruhr Tourismus GmbH
+- TOP 2.13: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Revierpark Gysenberg Herne GmbH
+- TOP 2.14: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - TouristikEisenbahnRuhrgebiet GmbH
+- TOP 2.15: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Maximilianpark Hamm GmbH
+- TOP 2.16: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - IGA Metropole Ruhr 2027 gGmbH
+- TOP 2.17: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Freizeitzentrum Xanten GmbH
+- TOP 2.18: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Betreibergesellschaft Silbersee II Haltern am See mbH
+- TOP 2.19: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Freizeitgesellschaft Metropole Ruhr mbH und ihre Betriebsstätten
+- TOP 2.20: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 2.21: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2020 - Revierpark Wischlingen GmbH
+- TOP -: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 2.22: Informationen zur Besetzung des Arbeitskreises VRR-NWL-RVR
+- TOP 2.22.1: Information zur Besetzung des Arbeitskreises VRR-NWL-RVR
+- TOP 2.23: Übernahme der Instandhaltungskosten für die Homberger Hubbrücke am Rheinpreußenhafen in Duisburg
+- TOP 2.24: Radroutenspeicher Metropole Ruhr
+- TOP -: Vorlagen aus dem Auschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 2.25: Klimaresilienz-Check - Grüne Infrastruktur für naturbasierten Hochwasserschutz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.26: Außerplanmäßige Mittelbereitstellung für die Baumaßnahme am Wohnhaus Emscherbruch in Gelsenkirchen
+- TOP 2.27: Manifest 2026 ? Beschluss zur Gründung der Durchführungsgesellschaft 'Manifesta 16 Ruhr gGmbH'
+- TOP 2.28: Einbringung des Haushaltsplans 2022
+- TOP 2.29: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2022
+- TOP 2.30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.31: Live-Streaming
+- TOP 2.31.1: 
+- TOP 2.31.2: Anfrage zur Drucksache Nr. 14/0114
+- TOP 2.31.3: Antwort der Verwaltung auf die Anfrage der Koalitionsfraktionen SPD und CDU Anfrage zur Drucksache Nr. 14/0114 (Video-Streaming)
+- TOP 2.31.4: Ruhrparlaments-TV
+- TOP 2.31.5: Veröffentlichung von Tondokumenten der Verbandsversammlung
+- TOP -: Fraktionsanträge/Resolutionen
+- TOP 2.32: Fotoinstitut
+- TOP 2.32.1: Resolution der Verbandsversammlung des Regionalverbandes Ruhr: Das Bundesinstitut für Fotografie gehört nach Essen!
+- TOP -: Um- und Nachbesetzungen
+- TOP 2.33: Ersatzwahl eines beratenden Mitglieds der Verbandsversammlung
+- TOP 2.34: Umbesetzung in Verbandsgremien
+- TOP -: Anfragen und Mitteilungen
+- TOP 2.35: Interregionale Kooperation der Górnoslasko-Zaglebiowska Metropolia (Metropolis GZM) in Polen mit dem Regionalverband Ruhr (RVR)
+- TOP 2.36: Entwicklung eines gemeinsamen Kommunikationskonzepts und Corporate Design für alle fünf Revierparks
+- TOP 2.37: Entscheidung der Landesregierung zum Antrag 'Industrielle Kulturlandschaft Ruhrgebiet'
+- TOP 2.38: Manifesta 16
+- TOP 2.39: Nutzung von Pestiziden in den Wäldern von RVR Ruhr Grün
+- TOP 2.40: Wasserstoff Koordinierungsstelle
+- TOP 2.41: Antwort der Verwaltung auf die Anfrage der Fraktion Bündnis 90/Die Grünen Housing First
+- TOP 2.42: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Hochwasserfolgen durch Kiesabbau
+- TOP 2.43: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Flächenentwicklungen durch den Regionalplan Ruhr
+- TOP 2.44: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion Berücksichtigung von Recycling-Baustoffen bei der Bedarfsberechnung zu BSAB-Flächen im Entwurf des Regionalplans Ruhr
+- TOP -: Tischvorlagen
+- TOP -: Ergänzungsantrag zu Drucksache Nr. 14/0321-1 Manifesta 2026 – Beschluss zur Gründung der Durchführungsgesellschaft 'Manifesta 16 Ruhr gGmbH' Ergänzungen zur Vertragsgestaltung
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
