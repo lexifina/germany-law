@@ -1,4 +1,4 @@
-# Inhaltsverzeichnis
+# Inhaltsübersicht
 
 Abschnitt 1
 Allgemeine Vorschriften

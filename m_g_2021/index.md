@@ -1,6 +1,6 @@
 # Gesetz zur Marktüberwachung und zur Sicherstellung der Konformität von Produkten
 
-- [Inhaltsverzeichnis](inhaltsverzeichnis.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeine Vorschriften
 

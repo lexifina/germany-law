@@ -69,7 +69,7 @@
 |  | Sechster Teil | Rechnungslegung im Konzern | § 337 |
 |  | Früheres Viertes Buch | (weggefallen) | §§ 339 - 393 |
 | Viertes Buch |  |
-| Sonder-, Straf- und Schlußvorschriften (§§ 394 - 410) |  |
-|  | Erster Teil | Sondervorschriften bei Beteiligung von Gebietskörperschaften | §§ 394 - 395 |
+| Sonder-, Straf- und Schlußvorschriften (§§ 393a - 410) |  |
+|  | Erster Teil | Sondervorschriften bei Beteiligung von Gebietskörperschaften | §§ 393a - 395 |
 |  | Zweiter Teil | Gerichtliche Auflösung | §§ 396 - 398 |
 |  | Dritter Teil | Straf- und Bußgeldvorschriften. Schlußvorschriften | §§ 399 - 410 |
