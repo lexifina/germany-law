@@ -1,0 +1,6 @@
+# TOP 2.1: Praxisbericht Anbindung Gemeinde Johannesberg an das KomBN (Pilot)
+
+- Sitzung: Sitzung des Beirats für Digitalisierung (2021-09-27)
+- Körperschaft: Landkreis Aschaffenburg
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/agendaitems/12735
