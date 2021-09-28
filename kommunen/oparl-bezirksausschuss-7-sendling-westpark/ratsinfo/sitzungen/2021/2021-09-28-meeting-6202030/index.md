@@ -1,0 +1,141 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2021-09-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6202030
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6202030
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Schaffung einer Abendpflege
+- TOP 6.2.: Luise-Kiesselbach-Platz Müllsituation
+- TOP 6.3.: E-Mobilität
+- TOP 6.4.: Reines PKW-Parken in der Tübinger Straße entlang der Kleingartenanlage SW82
+- TOP 6.5.: Busdichte dauerhaft verdünnt Bus 62 und 63
+- TOP 6.6.: Antrag auf Geschwindigkeitsbeschränkung im Bereich der Anliegerstrasse
+- TOP 6.7.: Verschmutzung Partnachplatz
+- TOP 6.8.: Anbringung von Klimmzugstangen in den Parks
+- TOP 6.9.: Fussgänger_Fahrrad Situation am Westpark
+- TOP 6.10.: Parksituation Oetztaler Str.
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Die Murmeltiere e.V. Renovierung und Verschönerung der Kita-Räume für ein kindergerechtes Umfeld vom 24.09. - 10.10.2021 1.000,00 € / Az. 0262.0-7-0348
+- TOP 10.2.: (E) Stadtbezirksbudget FC Ludwigsvorstadt München e.V. Ausgabe von Handtüchern mit Vereinsemblem an die Jugendabteilung 750,00 € / Az. 0262.0-7-0346
+- TOP 10.3.: (E) Stadtbezirksbudget Feierwerk e.V. Kinderkulturfestival „Dschungel 2021“ vom 30.10.-07.11.2021 3.000,00€; Az. 0262.0-7-0349
+- TOP 11.: Anträge
+- TOP 11.1.: Bank-Skateranlage-Südpark
+- TOP 11.2.: Ausweichrouten Pendlerverkehr
+- TOP 11.3.: Radverkehr im Westpark
+- TOP 11.4.: Abbiegen vom Mitllerer Ring zur Autobahn
+- TOP 11.5.: Tempo 30 in der Murnauer Straße
+- TOP 11.6.: Verstärkung-Suche-Schulweghelfer_innen
+- TOP 11.7.: Klimaschutz-Bewerbung für Quartiersansatz
+- TOP 11.8.: Vorfahrtzeichen-Radweg-Margaretenstr
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Baumfällung Ebermayerstr.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Luise-Kiesselbach-Platz, Herbstfest
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, Seebühne, Tanzprojekt Arcadia
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Ortstermin-Westpark-Container
+- TOP 33.2.: Mehr Sicherheit für Füßgänger_Radfahrer im Westpark
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 39.2.: Baumfällungen Heiterwanger Str.
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Dialogdisplays
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: NO2-Messergebnisse Heckenstaller Trog
+- TOP 44.2.: Belästigung durch Krähen im Westpark
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Antwortschreiben Mädchentreff
+- TOP 46.2.: Leerstehendes Haus Hirsch.Gereuth-Str.
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Antwortschreiben Hansastraße GEWOFAG
+- TOP 47.2.: Tempo 60 an den Münchner Autobahnen aus Lärmschutzgründen
+- TOP 47.3.: Bahngelände Zielstattstraße
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Leistungsbilanz
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Infoschreiben_Umsetzung_IMS_BA-Sitzungen
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Versammlungsanzeigen Erdball-Woche
+- TOP 53.2.: Forschungsprojekt Siba -Sicherheit im Bahnhofsviertel
+- TOP 53.3.: Bescheid, Westpark, Seebühne, Chorprobe des Go Sing Choir
+- TOP 53.4.: Bescheid, Westpark, Theatron, Einschulungsgottesdienst
+- TOP 53.5.: Bescheid, Südpark, 16. Bücherlauf.
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: verkehrsrechtliche Anordnung Ortlerstraße
+- TOP 56.2.: verkehrsrechtliche Anordnung Fürstenrieder Straße
+- TOP 56.3.: verkehrsrechtliche Anordnung Zillertalstraße
+- TOP 56.4.: verkehrsrechtliche Anordnung Fürstenrieder_Straße
+- TOP 56.5.: verkehrsrechtliche Anordnung JeanPaulRichterStr
+- TOP 56.6.: verkehrsrechtliche Anordnung Juifenstr
+- TOP 56.7.: verkehrsrechtliche Anordnung Trautmannstr
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.2.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 61.3.: (U) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) 2021 B. Anträge 1. Den Horizont erweitern – Sozialgerechte Bodennutzung und Bodenvorratspolitik anderer Städte vorstellen Antrag Nr. 14-20 / A 04310 von der Fraktion DIE GRÜNEN/RL vom 20.07.2018 2. Mehr dauerhaft bezahlbarer Wohnraum III: Mit der neuen SoBoN mehr bezahlbaren Wohnraum schaffen und dauerhaft sichern Antrag Nr. 14-20 / A 06746 von der Fraktion DIE GRÜNEN/ROSA LISTE vom 11.02.2020 3. Mehr dauerhaft bezahlbares Wohnen Antrag Nr. 14–20 / A 06968 von der SPD-Stadtratsfraktion vom 10.03.2020 4. SoBoN-Novelle 2020/2021: München braucht mehr geförderten Wohnraum Antrag Nr. 20-26 / A 00707 von der Fraktion DIE LINKE./Die PARTEI vom 18.11.2020
+- TOP 61.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.5.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Unterrichtungen Erhaltungssatzung
+- TOP 62.2.: Aktualisierte Übersicht Unterkünfte Geflüchtete und Wohnungslose
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: SWM Baumaßnahmen
+- TOP 63.2.: Geschäftsbericht GEWOFAG
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Anhörung_Hansastr
