@@ -9,7 +9,7 @@
 - [§ 7 Kuratorium](0007.md)
 - [§ 8 Wissenschaftlicher Beirat](0008.md)
 - [§ 9 Arbeitskreis gesellschaftlicher Gruppen](0009.md)
-- [§ 10 Direktor](0010.md)
+- [§ 10 Präsident/Präsidentin](0010.md)
 - [§ 11 Ehrenamtliche Tätigkeit](0011.md)
 - [§ 12 Aufsicht, Haushalt, Rechnungsprüfung](0012.md)
 - [§ 13 Berichterstattung](0013.md)

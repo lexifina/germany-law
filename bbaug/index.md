@@ -1,6 +1,5 @@
 # Baugesetzbuch
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Erstes Kapitel Allgemeines Städtebaurecht
 
@@ -429,7 +428,7 @@
 - [§ 243 Überleitungsvorschriften für das Maßnahmengesetz zum Baugesetzbuch und das Bundesnaturschutzgesetz](0243.md)
 - [§ 244 Überleitungsvorschriften für das Europarechtsanpassungsgesetz Bau](0244.md)
 - [§ 245 Überleitungsvorschriften für den Stadtumbau, die Soziale Stadt und die Förderung städtebaulicher Maßnahmen](0245.md)
-- [§ 245a Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts](0245a.md)
+- [§ 245a Überleitungsvorschriften und Vorschriften im Zusammenhang mit dem Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts](0245a.md)
 - [§ 245b Überleitungsvorschriften für Vorhaben im Außenbereich](0245b.md)
 - [§ 245c Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt](0245c.md)
 - [§ 245d Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland](0245d.md)

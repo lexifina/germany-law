@@ -28,7 +28,7 @@
 | § 9 | Zulässigkeit der Organentnahme und -übertragung, Vorrang der Organspende |
 | § 9a | Entnahmekrankenhäuser |
 | § 9b | Transplantationsbeauftragte |
-| § 9c | Neurochirurgischer und neurologischer konsiliarärztlicher Rufbereitschaftsdienst, Verordnungsermächtigung |
+| § 9c | (weggefallen) |
 | § 10 | Transplantationszentren |
 | § 10a | Organ- und Spendercharakterisierung, Transport von Organen, Verordnungsermächtigung zur Organ- und Spendercharakterisierung und zum Transport |
 | § 11 | Zusammenarbeit bei der Entnahme von Organen und Geweben, Koordinierungsstelle |

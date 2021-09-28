@@ -17,7 +17,7 @@
 - [§ 10 Umsetzung von Standardisierungsbeschlüssen des IT-Planungsrates](0010.md)
 - [§ 11 Gemeinsame Verfahren](0011.md)
 - [§ 12 Anforderungen an das Bereitstellen von Daten, Verordnungsermächtigung](0012.md)
-- [§ 12a Offene Daten der Behörden der unmittelbaren Bundesverwaltung](0012a.md)
+- [§ 12a Offene Daten des Bundes, Verordnungsermächtigung](0012a.md)
 - [§ 13 Elektronische Formulare](0013.md)
 - [§ 14 Georeferenzierung](0014.md)
 - [§ 15 Amtliche Mitteilungs- und Verkündungsblätter](0015.md)

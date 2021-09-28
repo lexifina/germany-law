@@ -37,7 +37,7 @@ Spendern
 - [§ 9 Zulässigkeit der Organentnahme und -übertragung, Vorrang der Organspende](0009.md)
 - [§ 9a Entnahmekrankenhäuser](0009a.md)
 - [§ 9b Transplantationsbeauftragte](0009b.md)
-- [§ 9c Neurochirurgischer und neurologischer konsiliarärztlicher Rufbereitschaftsdienst, Verordnungsermächtigung](0009c.md)
+- [§ 9c (weggefallen)](0009c.md)
 - [§ 10 Transplantationszentren](0010.md)
 - [§ 10a Organ- und Spendercharakterisierung, Transport von Organen, Verordnungsermächtigung zur Organ- und Spendercharakterisierung und zum Transport](0010a.md)
 - [§ 11 Zusammenarbeit bei der Entnahme von Organen und Geweben, Koordinierungsstelle](0011.md)

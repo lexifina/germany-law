@@ -29,7 +29,7 @@
 - [§ 11 Voraussetzungen für den Zugang zur Ausbildung](0011.md)
 - [§ 12 Anrechnung gleichwertiger Ausbildungen](0012.md)
 - [§ 13 Anrechnung von Fehlzeiten](0013.md)
-- [§ 14 Ausbildung im Rahmen von Modellvorhaben nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch](0014.md)
+- [§ 14 Ausbildung im Rahmen von Modellvorhaben nach § 63 Absatz 3c oder § 64d des Fünften Buches Sozialgesetzbuch](0014.md)
 - [§ 15 Modellvorhaben zur Weiterentwicklung des Pflegeberufs](0015.md)
 
 ### Abschnitt 2 Ausbildungsverhältnis
