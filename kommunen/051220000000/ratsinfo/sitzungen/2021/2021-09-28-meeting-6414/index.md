@@ -1,0 +1,67 @@
+# Haupt-, Personal- und Gleichstellungsausschuss (9. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-09-28T17:00:00+02:00
+- Ende: 2021-09-28T19:22:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-330
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQojvta3COWt_ftAQW8lpoA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6414
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Personal- und Gleichstellungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXi1yYGmmvgxuwnVz41MHYSa0TTu78187R08VHxMIk3w/Bekanntmachung_Haupt--_Personal-_und_Gleichstellungsausschuss_28.09.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Personal- und Gleichstellungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcezTveCi8lCsstO3mILds62bmu13IXtZWPnas3tDp2x/Oeffentliche_Niederschrift_Haupt--_Personal-_und_Gleichstellungsausschuss_28.09.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Informationen zur Luca-App
+- TOP 1.2: Digitale Informationsstelen im Stadtgebiet
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 8. Sitzung des Haupt-, Personal- und Gleichstellungsausschusses am 22.06.2021
+- TOP 4.: Anregung nach § 24 Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) – hier: Überprüfung des Bebauungsplanes H 667 – Börsenstraße – Überweisung an die zuständigen Gremien
+- TOP 5.: Ausschreibung der Stelle einer/eines Beigeordneten für das Ressort 2 (Finanzen, Beteiligungen, Gebäudemanagement))
+- TOP 6.: Vorsitz und stellvertretender Vorsitz der Einigungsstelle
+- TOP 7.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 8.: Teilnahme am KGST-Forum und an der KGST-Mitgliederversammlung
+- TOP 9.: Meldung der seriellen, transnationalen Welterbebewerbung „Großbogenbrücken des 19. Jahrhunderts“ durch das Land NRW zur Fortschreibung der Tentativliste künftiger Welterbestätten der Bundesrepublik Deutschland
+- TOP 10.: Controllingbericht zum Gleichstellungsplan 2019
+- TOP 11.: Gleichstellung als fester Tagesordnungspunkt im Haupt-, Personal- und Gleichstellungsausschuss Antrag der Ratsfraktion DIE LINKE. Die PARTEI vom 21.07.2021
+- TOP 12.: Geschlechterangabe und Anrede in städtischen Formularen Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 14.09.2021
+- TOP 13.: Verkaufsoffene Sonntage 2021 – Solingen-Mitte
+- TOP 14.: Messanlage am Werwolf
+- TOP 15.: Umsetzung Kinder- und Jugendstärkungsgesetz (KJSG) Personalbedarf
+- TOP 16.: Ergebnis der IT-Prüfung der Gemeindeprüfungsanstalt Nordrhein-Westfalen
+- TOP 17.: Einführung von E-Scootern in Solingen Antrag der Fraktion DIE LINKE.Die PARTEI vom 27.05.2021
+- TOP 18.: Strategiewechsel im Umgang mit dem Stadtwald Solingen im Sinne einer nachhaltigeren Verwendung des Nutzholzes
+- TOP 19.: Hochwasser vom 14./15. Juli 2021 Bericht zum Verlauf und den Auswirkungen der Hochwasserkatastrophe als Folge der Unwetterlage des Tiefs „Bernd“
+- TOP 20.: Folgen des Hochwassers Gem. Antrag der Ratsfraktionen SPD und Bündnis 90/Die Grünen vom 27.08.2021
+- TOP 21.: Katastrophenschutz in Solingen Antrag der SPD-Fraktion vom 10.08.2021
+- TOP 22.: Überarbeitung des Wasserwirtschaftlichen Gesamtplanungskonzeptes Antrag der Ratsfraktionen SPD und FDP vom 24.08.2021
+- TOP 23.: Dritte Änderungssatzung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Klingenstadt Solingen (Sondernutzungssatzung)
+- TOP 24.: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstige Amtshandlungen auf dem Gebiet der Fleischhygiene in den Städten Remscheid, Solingen und Wuppertal (Fleischhygienegebührensatzung)
+- TOP 25.: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2021
+- TOP 26.: Verschiedenes
+- TOP 26.1: Mitteilungen der Verwaltung
+- TOP 26.1.1: Jahresbericht 2020 der Feuerwehr Solingen
+- TOP 26.1.2: Gemeindefinanzierungsgesetz (GFG)
+- TOP 26.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 8. Sitzung des Haupt-, Personal- und Gleichstellungsausschusses am 22.06.2021
+- TOP 4.: Bestellung der Leitung des Stadtdienstes Büro Oberbürgermeister
+- TOP 5.: Bestellung der Leitung des Stadtdienstes Bauaufsicht
+- TOP 6.: Vergabe der Notarztdienstleistung für die Jahre 2022-2027 zur Personalgestellung eines 1. und 2. Notarztdienstes
+- TOP 7.: Vergabe eines Auftrages zur Lieferung von zwei Einsatzleitwagen (Typ ELW 1), Fahrgestell inkl. Auf- und Ausbau für die Feuerwehr Solingen.
+- TOP 8.: Vergabe eines Auftrags aus einem Rahmenauftrag zur Lieferung von weiteren fünf Rettungswagen (RTW), für den Rettungsdienst Stadt Solingen mit Auslieferung im Jahr 2022
+- TOP 9.: Vergabe eines Auftrags aus einem Rahmenauftrag zur Lieferung von weiteren fünf Rettungswagen (RTW), für den Rettungsdienst Stadt Solingen mit Auslieferung viertes Quartal 2022
+- TOP 10.: Klageerhebung zur Geltendmachung von Schadensersatzansprüchen nach außerordentlicher Kündigung
+- TOP 11.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS KG) – Bestellung des Jahresabschlussprüfers für das Geschäftsjahr 2021
+- TOP 12.: Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH) – Bestellung Jahresabschlussprüfer für das Geschäftsjahr 2021
+- TOP 13.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) – Bestellung des Abschlussprüfers 2021
+- TOP 14.: Gerd-Kaimer-Bürgerstiftung Solingen - Fördermaßnahmen - Auflösung des Vereins „Tischlein Deck Dich“ - Hochwasserhilfe Solingen
+- TOP 15.: Verschiedenes
+- TOP 15.1: Mitteilungen der Verwaltung
+- TOP 15.2: Anfragen an die Verwaltung
