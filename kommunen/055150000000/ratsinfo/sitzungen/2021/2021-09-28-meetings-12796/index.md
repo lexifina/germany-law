@@ -1,0 +1,61 @@
+# 3. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-09-28T17:00:00+02:00
+- Ende: 2021-09-28T19:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12796
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12796
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00492192.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Erfordernis von Verwaltungspräsenz
+- TOP 4: Hinweise und Anmerkungen zu der öffentlichen Niederschrift am 22.06.2021
+- TOP 5: Eingänge/Mitteilungen
+- TOP 5.1: Mitteilungen zu Arbeitsaufträgen aus vorherigen Sitzungen
+- TOP 5.2: Sonstige Mitteilungen
+- TOP 6: MünsterZukünfte 20|30|50: Zentrale Ergebnisse und weiteres Vorgehen - einstimmig geändert beschlossen
+- TOP 7: Fortschreibung der kleinräumigen Bevölkerungsprognose (KBP) 2019-2030 - zur Kenntnis genommen
+- TOP 8: Konzeptstudie „Münster Klimaneutralität 2030“ - ohne Beschlussfassung geschoben
+- TOP 9: Wohnen
+- TOP 9.1: Maßnahmenprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2019 - zur Kenntnis genommen
+- TOP 10: Liegenschaften
+- TOP 10.1: Münsters Standard für klimagerechtes Bauen - Klimagerechte Weiterentwicklung der Gebäudeenergiestandards (Wärmedämmstandards) in Münster - mehrheitlich geändert beschlossen
+- TOP 10.1.1: Münsters Standard für klimagerechtes Bauen - Klimagerechte Weiterentwicklung der Gebäudeenergiestandards (Wärmedämmstandards) in Münster
+- TOP 11: Finanzen
+- TOP 11.1: Fortschreibung des Rettungsdienstbedarfsplanes und des Brandschutzbedarfsplanes sowie Erstellung von Katastrophenschutzplänen für die Stadt Münster - einstimmig beschlossen
+- TOP 11.2: Satzung zur Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 11.3: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung östlich der Hobbeltsraße im Wohnbereich Handorf im Bezirk Ost - von der Tagesordnung abgesetzt
+- TOP 11.4: Überleitung der außerunterrichtlichen Angebote (OGS) an der Grundschule am Kinderbach - einstimmig beschlossen
+- TOP 11.5: Überleitung der außerunterrichtlichen Angebote (OGS) der Marienschule Roxel - einstimmig beschlossen
+- TOP 11.6: Trägerschaft der betrieblichen Kindertageseinrichtung der Westfälischen Wilhelms-Universität - einstimmig beschlossen
+- TOP 11.7: Nachfolgenutzung der Räume der ehemaligen Kita der Elterninitiative „Die Kanalhaie e.V.“ am Düesbergweg im Wohnbereich Düesberg im Bezirk Mitte-Süd - einstimmig beschlossen
+- TOP 11.8: 3. Satzung zur Änderung der Benutzungs- und Gebührensatzung für die Städtische Berufsfachschule für pharmazeutisch-technische Assistenten/innen der Stadt Münster vom 22.05.2015 - zurückgezogen
+- TOP 11.9: Genehmigung einer Dringlichkeitsentscheidung zur Beschaffung von mobilen Luftfiltern für städtische Schulen und Beschaffung weiterer mobiler Luftfilter - einstimmig beschlossen
+- TOP 11.9.1: Beschaffung von mobilen Luftfiltern für städtische Schulen
+- TOP 11.10: Finanzformel der e.V. Musikschulen in Münster und Honorare der Westf. Schule für Musik (WSfM) - zur Kenntnis genommen
+- TOP 11.11: Bezuschussung der Anschaffung von Stoffwindeln - von der Tagesordnung abgesetzt
+- TOP 11.12: Erweiterung der Thomas-Morus-Schule zur vollen Vierzügigkeit und Ergänzung um eine weitere Einfachsporthalle -Baubeschluss- - ohne Beschlussfassung geschoben
+- TOP 11.13: Jahresabschluss 2020 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 11.14: Bestellung des Abschlussprüfers für das Geschäftsjahr 2021 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 11.15: Jahresabschluss 2020 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 11.16: Jahresabschluss 2020 der GML Gewerbepark Münster-Loddenheide (GML GmbH) - einstimmig beschlossen
+- TOP 11.17: Jahresabschluss 2020 der Wohn + Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 11.18: Post EEG-Anlagen und Fracking-Gas: Bericht der Stadtwerke Münster GmbH zum Status Quo im 3. Quartal 2021 - zur Kenntnis genommen
+- TOP 11.19: NRW.URBAN Kommunale Entwicklung GmbH: Jahresabschluss 2020; Bestellung des Abschlussprüfers für den Jahresabschluss 2021 - einstimmig beschlossen
+- TOP 11.20: Jahresabschluss 2020 der AirportPark FMO GmbH - mehrheitlich beschlossen
+- TOP 11.21: Nachhaltige Kapitalbeschaffung über einen Green Bond - einstimmig beschlossen
+- TOP 11.22: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 11.23: Bestellung des Abschlussprüfers für den Jahresabschluss 2021 der KonvOY GmbH - einstimmig beschlossen
+- TOP 11.24: Jahresabschluss 2020 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - mehrheitlich beschlossen
+- TOP 11.25: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2022 - von der Tagesordnung abgesetzt
+- TOP 11.26: Entwurf des Jahresabschlusses zum 31.12.2020 der Stadt Münster - einstimmig beschlossen
+- TOP 11.27: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2022 bis 2026 - von der Tagesordnung abgesetzt
+- TOP 12: Wirtschaft
+- TOP 13: Verschiedenes
