@@ -1,0 +1,7 @@
+# TOP 2.: Entscheidungsfälle
+
+- Sitzung: BA 14 - Vollgremium (2021-09-28)
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/832764
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/832764
