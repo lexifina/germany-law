@@ -1,0 +1,52 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2021-09-28T19:00:00+02:00
+- Ende: 2021-09-28T21:00:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYdVc3yI_p01F3ZeOEy17IM
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20468
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeUoIwSIMLPpj-lAgeHkmWTSC7sg8eP2q-laSdF9jecE/Bekanntmachung_Rat_28.09.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSMGhdRGrX7g76BW84ubUqKvvo9nZJmtHbJju-kZZal_/Oeffentliche_Niederschrift_Rat_28.09.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 19.08.2021 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Verschiedene Anregungen zum Gewässer- und Hochwasserschutz hier: Antrag nach § 24 GO NRW vom 06.09.2021 - Einstimmiger Beschluss:
+- TOP 5.: Umbesetzungen in den Ausschüssen hier: Antrag der CDU-Fraktion vom 13.09.2021 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 6.: Umbesetzung von Ausschüssen hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 14.09.2021 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 7.: Beitritt zur Dienstleistungsgenossenschaft Eifel - Einstimmiger Beschluss:
+- TOP 8.: Verwendung der zugeteilten Spendengelder des Kreis Euskirchen hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss:
+- TOP 9.: Eilbeschluss gem. § 60 Absatz1 Satz 1 und 2 der Gemeindeordnung NRW i. V. m. der Verordnung über besondere haushaltsrechtliche Verfahrensweisen aufgrund der Unwetterkatastrophe vom 14./15. Juli 2021 ; Hier: Erlass der 1. Nachtragssatzung der Haushaltssatzung für 2021 der Stadt Bad Münstereifel- Genehmigung des Eilbeschlusses - Einstimmiger Beschluss:
+- TOP 10.: Ortsverbundenheit sichtbar machen - identitätsstiftende Ortsschilder in Mundart hier: Antrag der SPD-Fraktion vom 29.06.2021 - Einstimmiger Beschluss:
+- TOP 11.: LEADER-Region Eifel: Finanzierung laufender Kosten der Arbeit der LAG und des Regionalmanagements in der Förderphase 2023 – 2029 - Einstimmiger Beschluss:
+- TOP 12.: Wiederherstellung und Instandsetzung beschädigter Ufermauern an der Erft außerhalb des historischen Mauerrings und in den Orten - Einstimmiger Beschluss:
+- TOP 13.: Wiederaufbau hier: Projektsteuerung - Kein Beschluss erforderlich.
+- TOP 14.: Sachstandsbericht zum Zustand unserer Schulen im Stadtgebiet hier: CDU-Anfrage vom 06.09.2021 - Kein Beschluss erforderlich.
+- TOP 15.: Sachstandsbericht zum Zustand der Kindergärten im Gebiet der Stadt Bad Münstereifel hier: Anfrage im Bau- und Feuerwehrausschuss - Kein Beschluss erforderlich.
+- TOP 16.: Sachstandsbericht zum Zustand der Forstwirtschaftswege hier: Anfrage aus dem Bau- und Feuerwehrausschuss - Kein Beschluss erforderlich.
+- TOP 17.: Förderung von IT-Administration Hier: Plankosten 2022 - Einstimmiger Beschluss:
+- TOP 18.: Bebauungsplan Nr. 93 „Sondergebiet (SO) Einzelhandel / Nahversorgung Arloff“ im Ortsteil Arloff hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) zu den in den Verfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB eingegangenen Stellungnahmen erfolgen alle einstimmig (erst 25 Ja-Stimmen, dann 26 Ja-Stimmen ab lfd. Nr. 12).Der Stadtverord
+- TOP 19.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Programmantrag 2022 - Einstimmiger Beschluss:
+- TOP 20.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Fortschreibung und Organisation nach dem Hochwasserereignis vom 14./15.Juli 2021 im Rahmen des Wiederaufbaus - Kein Beschluss erforderlich.
+- TOP 21.: Denkmalförderprogramm 2021 hier: mögliche Projektförderung im Rahmen der Hochwasserkatastrophe – Beauftragung qualifizierter Fachbüros - Einstimmiger Beschluss:
+- TOP 22.: Transportfahrten für die PCR-Polltest an den Grundschulen hier: Genehmigung einer außerplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 23.: Anfragen und Mitteilungen
+- TOP 23.1: Bericht zum 30.06.2021 im Rahmen des Finanzcontrollings
+- TOP 23.2: Regelung der Nachfolge für einen ausgeschiedenen Stadtverordneten
+- TOP 23.3: Klarstellung des Anwendungsbereichs von § 8 Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) im Zuge der Bewältigung des Wiederaufbaus nach der Hochwasserkatastrophe aus Juli 2021 hier: Schriftverkehr und Erlass des Ministeriums für Heimat, Kommunales, Bau und Gleichstellung des Landes NRW
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Wiederaufbau hier: Projektsteuerung - Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 2.: Besetzung der Einigungsstelle gemäß § 67 LPVG - Einstimmiger Beschluss:
+- TOP 3.: Kauf eines Grundstücks in Bad Münstereifel-Eicherscheid - Einstimmiger Beschluss bei 6 Enthaltungen:
+- TOP 4.: Anfragen und Mitteilungen
+- TOP 4.1: Nutzung Lagermöglichkeit Ordnungs- und Sozialamt hier: weitere Informationen der Verwaltung zu RD-Nr. 455-XI
+- TOP 4.2: Abfallentsorgung hier: weitere Erläuterungen der Verwaltung zu RD-Nr. 371-XI
+- TOP 4.3: Zusätzliche Ratssitzung am 04.10.2021
+- TOP 4.4: Begehung der Sportplätze nach der Hochwasserkatastrophe hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
