@@ -1,0 +1,56 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-28T15:00:00+02:00
+- Ende: 2021-09-28T17:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23730
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23730
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bericht des Personalamtes zur Situation im Ausländeramt
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Verwendung der Integrationspauschale des Landes NRW - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zum Empfang mit Dr. Türeci und Dr. Sahin - zurückgestellt
+- TOP 4.2: Familiennachzug zu afghanischen Geflüchteten in Köln - Kenntnis genommen
+- TOP 4.3: Anfrage zum Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - endgültig zurückgezogen
+- TOP 4.4: Rückfrage zur Beantwortung der Anfrage zur Auflösung von Sammelunterkünften - zurückgestellt
+- TOP 4.5: Rückfrage zur Beantwortung der Anfrage "Sachstand herkunftssprachliche bilinguale Kitagruppen" - zurückgestellt
+- TOP 4.6: Rückfragen zur Beantwortung der Anfrage "Weiterbildungsangebote für städtische Mitarbeitende zu Rassismuskritik und Diversitätssensibilität - zurückgestellt
+- TOP 4.7: Rückfragen zur Beantwortung der Anfrage "Partizipation migrantischer Einrichtungen an den Mitteln, die im Jugendhilfeausschuss vergeben werden" - zurückgestellt
+- TOP 4.8: Rückfrage zur Beantwortung der Anfrage zur Rückgabe der sogenannten Benin-Bronzen - zurückgestellt
+- TOP 4.9: Anfrage zum Bericht Nationalitäten und Sprachen in Köln - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Multilingualität von Anfang an - Übersicht Mehrsprachige Angebote in Köln - Kenntnis genommen
+- TOP 5.2: Bauliche Herrichtung der ehemaligen Sendezentrale des WDR auf dem Grundstück Hitzelerstr. 125 zu Wohnraumzwecken - Kenntnis genommen
+- TOP 5.3: 2. Auflage: Broschüre des Diversity-Netzwerks der Kommunal- und Landesverwaltungen - Kenntnis genommen
+- TOP 5.4: Sachstand zur Umsetzung des Beschlusses zur Einrichtung eines Runden Tisches Pflege - Kenntnis genommen
+- TOP 5.5: Projekt "Zukunft der Pflege" - Handlungsempfehlungen aus dem 2. Bericht der Kommunalen Pflegeplanung - Kenntnis genommen
+- TOP 5.6: 2. Coronabericht - Auswirkungen auf die Gleichstellung in verschiedenen gesellschaftlichen Bereichen - Kenntnis genommen
+- TOP 5.7: 33. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.8: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 5.9: Personalbericht 2020 - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Mitteilung Lebenslagenbericht (Mitteilung 2729/2021) - ungeändert beschlossen
+- TOP 6.2: Ergänzungsantrag: " Kinder- und Jugendförderplan der Stadt Köln 2021-2025 (1805/2021)"
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - zurückgestellt
+- TOP 8.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "FEE-Fördern und Erfolg ernten e.V. - ungeändert beschlossen
+- TOP 8.3: Stadtstrategie „Kölner Perspektiven 2030+“ - ungeändert beschlossen
+- TOP 8.4: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - geändert beschlossen
+- TOP -: Ergänzungsantrag: " Kinder- und Jugendförderplan der Stadt Köln 2021-2025 (1805/2021)" - ungeändert beschlossen
+- TOP 8.5: Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - ungeändert beschlossen
+- TOP 8.6: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - geändert beschlossen
+- TOP 8.7: Flüchtlingsunterkünfte Potsdamer Str. 1 b, 50859 Köln-Weiden sowie Weißdornweg 21, 21 a-c, 50996 Köln-Rondorf, hier: Einstellungsbeschluss, Rückbau- und Baubeschluss - geändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
