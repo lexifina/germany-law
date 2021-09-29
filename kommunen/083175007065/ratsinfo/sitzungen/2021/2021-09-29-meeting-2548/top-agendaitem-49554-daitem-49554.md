@@ -1,0 +1,6 @@
+# TOP -: 18:00 Uhr Fortführung der Sitzung in der Kita Arche Noah
+
+- Sitzung: Ausschuss für Soziales, Bildung und Sport (4. Sitzung) (2021-09-29)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/49554
