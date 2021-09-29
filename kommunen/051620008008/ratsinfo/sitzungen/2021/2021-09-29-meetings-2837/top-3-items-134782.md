@@ -1,0 +1,8 @@
+# TOP 3: Festlegung einer Quote für den Anteil von öffentlich gefördertem Wohnungsbau in Wohnbaugebieten
+
+- Sitzung: Ausschuss für Planung und Mobilität (2021-09-29)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/134782
+- Ergebnis: von der Tagesordnung abgesetzt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/20871
