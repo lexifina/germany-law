@@ -4,7 +4,7 @@
 - [§ 2 Widerruf der Benennung als Technische Bewertungsstelle](0002.md)
 - [§ 3 Notifizierende Behörde und notifizierte Stellen](0003.md)
 - [§ 4 Antrag auf Notifizierung](0004.md)
-- [§ 5 Marktüberwachung](0005.md)
+- [§ 5 (weggefallen)](0005.md)
 - [§ 6 Sprache](0006.md)
 - [§ 7 Rechtsverordnungen zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union](0007.md)
 - [§ 8 Bußgeldvorschriften](0008.md)

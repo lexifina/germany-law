@@ -7,18 +7,18 @@
 - [§ 1 Zweck des Gesetzes](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Weitere Begriffsbestimmungen](0003.md)
-- [§ 4 Vorschriften zum Geltungsbereich](0004.md)
+- [§ 4 Vorschriften und Ermächtigungen zum Geltungsbereich](0004.md)
 
 ## Abschnitt 2 Verkehr mit Lebensmitteln
 
 - [§ 5 Verbote zum Schutz der Gesundheit](0005.md)
-- [§ 6 Verbote für Lebensmittelzusatzstoffe](0006.md)
-- [§ 7 Ermächtigungen für Lebensmittelzusatzstoffe](0007.md)
+- [§ 6 (weggefallen)](0006.md)
+- [§ 7 Ermächtigungen zum Schutz der Gesundheit und vor Täuschung](0007.md)
 - [§ 8 Bestrahlungsverbot und Zulassungsermächtigung](0008.md)
 - [§ 9 Pflanzenschutz- oder sonstige Mittel](0009.md)
 - [§ 10 Stoffe mit pharmakologischer Wirkung](0010.md)
 - [§ 11 Vorschriften zum Schutz vor Täuschung](0011.md)
-- [§ 12 (weggefallen)](0012.md)
+- [§ 12 Weitere Verbote](0012.md)
 - [§ 13 Ermächtigungen zum Schutz der Gesundheit und vor Täuschung](0013.md)
 - [§ 14 Weitere Ermächtigungen](0014.md)
 - [§ 15 Deutsches Lebensmittelbuch](0015.md)
@@ -38,7 +38,7 @@
 - [§ 24 Gewähr für bestimmte Anforderungen](0024.md)
 - [§ 25 Mitwirkung bestimmter Behörden](0025.md)
 
-## Abschnitt 4 Verkehr mit kosmetischen Mitteln
+## Abschnitt 4 Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln
 
 - [§ 26 Verbote zum Schutz der Gesundheit](0026.md)
 - [§ 27 Vorschriften zum Schutz vor Täuschung](0027.md)
@@ -61,13 +61,16 @@
 
 ## Abschnitt 7 Überwachung
 
-- [§ 38 Zuständigkeit, gegenseitige Information](0038.md)
+- [§ 38 Zuständigkeit, Aufgabe und gegenseitige Information](0038.md)
 - [§ 38a Übermittlung von Daten über den Internethandel](0038a.md)
-- [§ 39 Aufgabe und Maßnahmen der zuständigen Behörden](0039.md)
+- [§ 38b Unterrichtung von Telemediendiensteanbietern](0038b.md)
+- [§ 39 Maßnahmen der für die Überwachung von Lebensmitteln, Futtermitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 1 zuständigen Behörden](0039.md)
+- [§ 39a Maßnahmen der für die Überwachung von Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 zuständigen Behörden](0039a.md)
 - [§ 40 Information der Öffentlichkeit](0040.md)
-- [§ 41 Maßnahmen im Erzeugerbetrieb, Viehhandelsunternehmen und Transportunternehmen](0041.md)
+- [§ 41 (weggefallen)](0041.md)
 - [§ 42 Durchführung der Überwachung](0042.md)
 - [§ 43 Probenahme](0043.md)
+- [§ 43a Probenahme bei Erzeugnissen, die unter Verwendung von Fernkommunikationsmitteln angeboten werden](0043a.md)
 - [§ 44 Duldungs-, Mitwirkungs- und Übermittlungspflichten](0044.md)
 - [§ 44a Mitteilungs- und Übermittlungspflichten über Untersuchungsergebnisse zu gesundheitlich nicht erwünschten Stoffen](0044a.md)
 - [§ 45 Schiedsverfahren](0045.md)
@@ -87,7 +90,7 @@
 
 - [§ 53 Verbringungsverbote](0053.md)
 - [§ 54 Bestimmte Erzeugnisse aus anderen Mitgliedstaaten oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0054.md)
-- [§ 55 Mitwirkung von Zollstellen](0055.md)
+- [§ 55 Mitwirkung der Zollbehörden](0055.md)
 - [§ 56 Ermächtigungen](0056.md)
 - [§ 57 Ausfuhr; sonstiges Verbringen aus dem Inland](0057.md)
 
