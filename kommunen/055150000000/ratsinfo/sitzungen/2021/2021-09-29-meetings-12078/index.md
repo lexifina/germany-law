@@ -1,0 +1,101 @@
+# 5. Sitzung (Etat-Einbringung)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-09-29T17:34:00+02:00
+- Ende: 2021-09-29T22:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12078
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12078
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00491562.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Begegnungsstätte Rumphorst im neuen Wohngebiet Rumphorst - Südlich Markweg
+- TOP 1.2: Edeka Supermarkt im Hansaviertel
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Klimaschonende Mobilität für einen wachsenden Stadtteil - Wiedereröffnung des Bahnhaltepunktes Münster-Handorf - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Entwurf der Haushaltssatzung der Stadt Münster für das Jahr 2022 - einstimmig beschlossen
+- TOP 10: Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
+- TOP 10.1: Satzung zur Änderung der Hauptsatzung
+- TOP 11: Verschiebung der Wahl zur Kommunalen Seniorenvertretung Münster in das Jahr 2022 - einstimmig beschlossen
+- TOP 12: Gleichstellung in politischen Gremien - zur Kenntnis genommen
+- TOP 13: Fortschreibung des Rettungsdienstbedarfsplanes und des Brandschutzbedarfsplanes sowie Erstellung von Katastrophenschutzplänen für die Stadt Münster - vertagt
+- TOP 14: Satzung zur Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 15: Entwurf des Jahresabschlusses zum 31.12.2020 der Stadt Münster - einstimmig beschlossen
+- TOP 16: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2022 - von der Tagesordnung abgesetzt
+- TOP 17: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 18: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2022 bis 2026 - von der Tagesordnung abgesetzt
+- TOP 19: Nachhaltige Kapitalbeschaffung über einen Green Bond - einstimmig beschlossen
+- TOP 20: Sachstand und weiteres Verfahren zur Tarifmaßnahme des WestfalenTarifes zum 01.08.2022 - zur Kenntnis genommen
+- TOP 21: MünsterZukünfte 20|30|50: Zentrale Ergebnisse und weiteres Vorgehen - einstimmig geändert beschlossen
+- TOP 22: Fortschreibung der kleinräumigen Bevölkerungsprognose (KBP) 2019-2030 - zur Kenntnis genommen
+- TOP 23: Nutzung des Kellergeschosses unter dem Stadthaussaal durch das Stadtmodell und Suche nach einem weitergehend geeigneten Präsentationsort - einstimmig beschlossen
+- TOP 24: 1. Betreuung der städtischen Parkscheinautomaten und Parkuhren - mehrheitlich beschlossen
+- TOP 25: Entwässerungstechnische Erschließung "Justizvollzugsanstalt (JVA) Telgter Straße“ - einstimmig beschlossen
+- TOP 26: Handlungsfelder und Prozess in der Schulentwicklungsplanung der weiterführenden Schulen - einstimmig beschlossen
+- TOP 26.1: Handlungsfelder und Prozess in der Schulentwicklungsplanung der weiterführenden Schulen
+- TOP 27: Bedarfsfeststellung der Vergabe zu Beförderungsleistungen für Schülerinnen und Schüler an den städtischen Schulen in Münster - einstimmig beschlossen
+- TOP 28: Unterstützung von Schulen bei der Entwicklung schulischer Schutzkonzepte gegen sexualisierte Gewalt an Kindern und Jugendlichen - einstimmig beschlossen
+- TOP 29: Statusbericht zur Schulentwicklungsplanung (SEP) für die Berufskollegs - einstimmig beschlossen
+- TOP 30: Genehmigung einer Dringlichkeitsentscheidung zur Beschaffung von mobilen Luftfiltern für städtische Schulen und Beschaffung weiterer mobiler Luftfilter - einstimmig beschlossen
+- TOP 30.1: Genehmigung einer Dringlichkeitsentscheidung zur Beschaffung von mobilen Luftfiltern für städtische Schulen und Beschaffung weiterer mobiler Luftfilter
+- TOP 31: Erweiterung des beschlossenen Schulausbaus der Ludgerusschule Hiltrup: Grundsatzbeschluss zur zusätzlichen Aufstockung des Erweiterungsbaus aus dem Jahr 2014 - einstimmig beschlossen
+- TOP 32: Überleitung der außerunterrichtlichen Angebote (OGS) an der Grundschule am Kinderbach - mehrheitlich beschlossen
+- TOP 33: Überleitung der außerunterrichtlichen Angebote (OGS) der Marienschule Roxel - mehrheitlich beschlossen
+- TOP 34: 3. Satzung zur Änderung der Benutzungs- und Gebührensatzung für die Städtische Berufsfachschule für pharmazeutisch-technische Assistenten/innen der Stadt Münster vom 22.05.2015 - von der Tagesordnung abgesetzt
+- TOP 35: Errichtung eines Teilstandortes des Wilhelm-Emmanuel-von-Ketteler-Berufskollegs im Gebäude der ehem. Schule an der Beckstraße - einstimmig beschlossen
+- TOP 36: Kindertagesbetreuungsbericht 2021 - zur Kenntnis genommen
+- TOP 37: Finanzielle und konzeptionelle Weiterentwicklung der Kindertagespflege in der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 38: Nachfolgenutzung der Räume der ehemaligen Kita der Elterninitiative „Die Kanalhaie e.V.“ am Düesbergweg im Wohnbereich Düesberg im Bezirk Mitte-Süd - einstimmig beschlossen
+- TOP 39: Trägerschaft der betrieblichen Kindertageseinrichtung der Westfälischen Wilhelms-Universität - einstimmig beschlossen
+- TOP 40: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen/GAL, der SPD-Fraktion und der Ratsgruppe Volt an den Rat Nr.: A-R/0052/2021: "Pflegeberufebericht Münster auf den Weg bringen - Pflegeausbildung in Münster stärken" - einstimmig beschlossen
+- TOP 41: Finanzformel der e.V. Musikschulen in Münster und Honorare der Westf. Schule für Musik (WSfM) - zur Kenntnis genommen
+- TOP 42: Feststellung der Jahresabschlüsse 2020 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 43: Maßnahmenprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2019 - zur Kenntnis genommen
+- TOP 44: Erlass Naturdenkmalverordnung für den bebauten Bereich - einstimmig beschlossen
+- TOP 44.1: Erlass Naturdenkmalverordnung für den bebauten Bereich
+- TOP 45: Neubau Gärtnerstützpunkt Gievenbeck - einstimmig beschlossen
+- TOP 46: Bezuschussung der Anschaffung von Stoffwindeln - von der Tagesordnung abgesetzt
+- TOP 47: Münsters Standard für klimagerechtes Bauen - Klimagerechte Weiterentwicklung der Gebäudeenergiestandards (Wärmedämmstandards) in Münster - mehrheitlich beschlossen
+- TOP 47.1: Münsters Standard für klimagerechtes Bauen - Klimagerechte Weiterentwicklung der Gebäudeenergiestandards (Wärmedämmstandards) in Münster
+- TOP 47.1.1: Münsters Standard für klimagerechtes Bauen - Klimagerechte Weiterentwicklung der Gebäudeenergiestandards (Wärmedämmstandards) in Münster
+- TOP 48: Beirat „Global Nachhaltige Kommune Münster“ und Beitritt in der LAG 21 NRW e.V. - einstimmig geändert beschlossen
+- TOP 49: Erweiterung der Thomas-Morus-Schule zur vollen Vierzügigkeit und Ergänzung um eine weitere Einfachsporthalle -Baubeschluss- - mehrheitlich beschlossen
+- TOP 50: Teilnahme am Green City Accord der Europäischen Union - mehrheitlich beschlossen
+- TOP 51: Bauleitplanung
+- TOP 51.1: Stadtbezirk Münster-West
+- TOP 51.1.1: Vorhabenbezogene 2. Änderung des Bebauungsplans Nr. 375: Gievenbeck - Toppheide (Hensenstraße / Gescherweg / Rüschhausweg) [Neues Wohnquartier] - einstimmig beschlossen
+- TOP 51.2: Stadtbezirk Münster-Hiltrup
+- TOP 51.2.1: FNP 67 - Hiltrup-Südlich Zur Vogelstange - Beschluss über die Stellungnahmen - Abschließender Beschluss - von der Tagesordnung abgesetzt
+- TOP 51.2.2: Bebauungsplan Nr. 577 - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 51.3: Stadtbezirk Münster-Nord
+- TOP 51.3.1: Vorhabenbezogene 2. Änderung des Bebauungsplans Nr. 134 Teilabschnitt II (Neufassung): Coerde - Kiesekampweg [Wohnquartier] - einstimmig beschlossen
+- TOP 51.4: Stadtbezirk Münster-Südost
+- TOP 51.4.1: Bebauungsplan Nr. 611 - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 51.5: Stadtbezirk Münster-Ost
+- TOP 51.5.1: 115. Änderung des Flächennutzungsplanes, Bebauungsplan Nr. 623 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 52: Konzeptstudie „Münster Klimaneutralität 2030“ - mehrheitlich geändert beschlossen
+- TOP 53: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 53.1: Ergänzungsantrag zur Vorlage 0628/2021 Konzeptstudie Münster Klimaneutralität 2030 - Klimaneutrales Münster möglich machen: mit Bürger*innenbeteiligung und wirksamen Maßnahmen - mehrheitlich beschlossen
+- TOP 54: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 54.1: Mehr Videoüberwachung an Städtischen Gebäuden - verwiesen
+- TOP 54.2: Walter-Lübcke-Straße in Münster als Symbol für Standhaftigkeit und Demokratie - verwiesen
+- TOP 54.3: Photovoltaikausbau kreativ vorantreiben - verwiesen
+- TOP 54.4: Regenbogenfarbene Sitzbänke als Zeichen für Vielfalt und Toleranz - verwiesen
+- TOP 54.5: KonvOY GmbH als Stadt- und Quartiersentwicklungsgesellschaft etablieren - verwiesen
+- TOP 54.6: Unterstützung und Hilfen für wohnungslose Menschen ausbauen – In den Stadtteilen Tagestreffs für Menschen in prekären Lebenssituationen und Vereinsamung anbieten - verwiesen
+- TOP 55: Bestellung von Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 56: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 56.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 57: Verschiedenes
