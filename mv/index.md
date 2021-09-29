@@ -29,3 +29,4 @@ Flurbereinigungsgesetz](0005.md)
 
 - [§ 13 Mitteilungen über Billigkeitsleistungen des Bundes und der Länder anlässlich der Corona-Krise](0013.md)
 - [Schlußformel](schlussformel.md)
+- [§ 14 Mitteilung von Zahlungen der Kassenärztlichen Vereinigungen an die Anbieter von Leistungen nach der Coronavirus-Testverordnung](0014.md)
