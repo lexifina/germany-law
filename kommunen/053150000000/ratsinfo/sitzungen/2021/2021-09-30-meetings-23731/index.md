@@ -1,0 +1,72 @@
+# 6. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-09-30T15:30:00+02:00
+- Ende: 2021-09-30T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23731
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23731
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Mündlicher Bericht über aktuellen Sachstand zur SARS-CoV-2-Pandemie und die Auswirkungen auf vulnerable Personengruppen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Bericht über die inhaltliche Arbeit und Information zum Ende der Förderung des Kompetenzzentrums Frau und Beruf Region Köln (Competentia NRW) - Kenntnis genommen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.2.1: Verabschiedung des Behindertenbeauftragten Dr. Günther Bell
+- TOP 2.2.2: Vorstellung der neuen Behindertenbeauftragten Mirjam Tomše
+- TOP 2.2.3: Auswirkungen der Corona-Pandemie auf Menschen mit Behinderung in Köln - Kenntnis genommen
+- TOP 2.3: 2. Auflage: Broschüre des Diversity-Netzwerks der Kommunal- und Landesverwaltungen - Kenntnis genommen
+- TOP 2.4: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 2.5: Multilingualität von Anfang an - Übersicht Mehrsprachige Angebote in Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten (Ersetzungsantrag zu AN/1090/2019) - endgültig abgelehnt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Förderprogramm "Dritte Orte" - Förderungen von eingetragenen Vereinen aus dem Stadtgebiet - ungeändert beschlossen
+- TOP 4.2: Förderprogramm "ArBOr - Arbeitsbezogene Beratung und Orientierung" - ohne Votum in nachfolgende Gremien
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - ungeändert beschlossen
+- TOP 5.2: Stadtstrategie „Kölner Perspektiven 2030+“ - zurückgestellt
+- TOP 5.3: Flüchtlingsunterkünfte Potsdamer Str. 1 b, 50859 Köln-Weiden sowie Weißdornweg 21, 21 a-c, 50996 Köln-Rondorf, hier: Einstellungsbeschluss, Rückbau- und Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 5.4: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.01. - 30.06.2022 - ohne Votum in nachfolgende Gremien
+- TOP 5.5: Personelle Ausweitung Streetwork und Winterhilfe im Bereich der Wohnungslosenhilfe - ungeändert beschlossen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Bauliche Herrichtung der ehemaligen Sendezentrale des WDR auf dem Grundstück Hitzelerstr. 125 zu Wohnraumzwecken - Kenntnis genommen
+- TOP 7.2: Beantwortung einer Anfrage der SPD-Fraktion: Aktuelle Entwicklung im Objekt Gummersbacher Str. 25 - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Beantwortung mündlicher Anfragen zum Themenbereich "Menschen mit Schwerbehinderung" - Kenntnis genommen
+- TOP 8.3: Beantwortung der schriftlichen Fragen der CDU-Fraktion zum Teilhabechancengesetz - Kenntnis genommen
+- TOP 8.4: Beantwortung der Anfragen der SPD-Fraktion zum Teilhabechancengesetz - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: 33. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: 86 unbegleitete minderjährige Ausländer (UMA) in Köln spurlos verschwunden - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1548/2021 - Kenntnis genommen
+- TOP 10.1.2: Stadtteilmütter weiter stützen! - zurückgestellt
+- TOP -: Beantwortung: Stadtteilmütter weiter stützen! - zurückgestellt
+- TOP 10.1.3: Armut in Köln: Wohnungs- und Obdachlosigkeit 2021 - zurückgestellt
+- TOP -: Beantwortung zu Armut in Köln: Wohnungs- und Obdachlosigkeit 2021 (zu AN/1601/2021) - zurückgestellt
+- TOP 10.1.4: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion vom 06.09.2021, AN/1899/2021, „Soziale Erhaltungssatzung – Nächste Schritte?“ - Kenntnis genommen
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage der Seniorenvertretung: Auswirkungen des Urteils BAG - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der SVK zu den Auswirkungen des Urteils vom Bundesarbeitsgericht (BAG) zu 24-Stunden-Kräften - Kenntnis genommen
+- TOP 10.2.2: Wohnungs- und Obdachlosenhilfe in Köln - zurückgestellt
+- TOP 10.2.3: Platzmangel der Frauenhäuser in Köln - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Mitteilungen
+- TOP 12.1: Bericht zu Sexarbeit und spezifischen Hilfsangeboten für Sexarbeitende in Köln 2021 - Kenntnis genommen
+- TOP 12.2: Umsetzung des Ratsbeschlusses vom 23.03.2021 „Geflüchtete aus Seenotrettung, griechischen Lagern und aus der bosnisch-kroatischen Grenzregion aufnehmen“ - Kenntnis genommen
+- TOP 12.3: Modellkommune im Projekt „Global Nachhaltige Kommune NRW“ - Kenntnis genommen
+- TOP 12.4: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen im 1. Halbjahr 2021 - Kenntnis genommen
+- TOP 12.5: Umsetzung des Bundesprogramms "Aufholen nach Corona für Kinder und Jugendliche" durch die Stadt Köln - Kenntnis genommen
+- TOP 12.6: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 12.7: Bevölkerungsentwicklung 2020 - Weniger Zu- und Fortzüge während der Pandemie - Kenntnis genommen
