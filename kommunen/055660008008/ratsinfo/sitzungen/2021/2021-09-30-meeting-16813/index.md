@@ -1,0 +1,53 @@
+# Haupt-, Finanz- und Steuerungsausschuss (116. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2021-09-30T18:01:00+02:00
+- Ende: 2021-09-30T19:40:00+02:00
+- Ort: Stroetmanns Fabrik, Friedrichstr. 2, 48282 Emsdetten, Bürgersaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZX8w1qA4kCWi124o8ak7VaI
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16813
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSE9afKEBAEqLBzPWZLVN2jh4gAFLFfJRAEgsDT8T0ce/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_30.09.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWPL7sHfqGVffeKrhiFwftAg_CG9j2COWv1A_HKwGKfG/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_30.09.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 22.06.2021
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Stellenplan
+- TOP 3.1: Antrag der CDU auf zusätzliche Informationen zu Veränderungen im Stellenplan - Zur Kenntnis genommen
+- TOP 4.: Finanzangelegenheiten
+- TOP 4.1: Jahresabschluss 2020 - bestätigter Entwurf - Einstimmig
+- TOP 4.2: Befreiung von der Pflicht der Aufstellung eines Gesamtabschlusses 2020 - Einstimmig
+- TOP 4.3: Gesamtabschlüsse 2013 bis 2018 - (kein Text vorhanden)
+- TOP 4.3.1: Gesamtabschlüsse 2013 bis 2018 - Einstimmig
+- TOP 4.4: Managementbericht zum 31.07.2021 - Einstimmig
+- TOP 5.: Genehmigung einer weiteren überplanmäßigen Ausgabe gem. § 83 GO für den Betrieb des Corona-Testzentrums an der Schulstraße - Einstimmig
+- TOP 6.: Außerplanmäßige Verpflichtungsermächtigung für die Beschaffung von stationären Warnsystemen - Einstimmig
+- TOP 7.: Grundsatzstrategie für eine städtische Förderrahmenrichtlinie - proKLIMA - Einstimmig
+- TOP 8.: Bezuschussung von Balkonsolaranlagen für „Bildungseinrichtungen“ – Bürgerantrag 12.02.2021 - Einstimmig
+- TOP 9.: Bericht zum Fördermanagement - Zur Kenntnis genommen
+- TOP 10.: Informationen zu Projektabschlüssen in Förderprojekten - Zur Kenntnis genommen
+- TOP 11.: Stadtwerke Emsdetten GmbH
+- TOP 11.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2020 und Gewinnverwendung - Einstimmig
+- TOP 11.2: Bestellung einer Arbeitnehmervertretung für den Aufsichtsrat der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 12.: Mitgliedschaften der Stadt Emsdetten - Abgesetzt
+- TOP 13.: Abwasserwerk der Stadt Emsdetten: Geschäftsbericht 2020 mit Jahresabschluss zum 31.12.2020 - Einstimmig
+- TOP 14.: I. Nachtrag zur Satzung der Stadt Emsdetten über die Erhebung von Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Gewässergebührensatzung (GGS) - Einstimmig
+- TOP 15.: Heimatpreis des Landesförderprogramms "Heimat.Zukunft.Nordrhein-Westfalen. Wir fördern was Menschen verbindet." - Einstimmig
+- TOP 16.: Zukunftsprozess - Emsdetten im Jahr 2038 - Einstimmig
+- TOP 17.: Gestaltung Kreisverkehre: LED-Lichterbäume - (kein Text vorhanden)
+- TOP 18.: Gestaltung Kreisverkehr Elbersstraße / In der Lauge (Postkreisel) - Einstimmig
+- TOP 19.: Erweiterung der Radabstellanlage am Hengeloplatz Vorstellung der Entwurfsplanung - Einstimmig
+- TOP 20.: Entwicklung Sportstandorte - Einstimmig
+- TOP 21.: Sanierung und Erweiterung der EMS-HALLE – 2. Bauabschnitt Durchführung des Projektes zur technischen Sanierung der EMS-HALLE - Einstimmig
+- TOP 22.: Korrektur der Betriebskostenabrechnung Abfallwirtschaft 2020 - Zur Kenntnis genommen
+- TOP 23.: Korrektur der Betriebsabrechnung Straßenreinigung und Winterdienst 2020 - Zur Kenntnis genommen
+- TOP 24.: Regionalplanung
+- TOP 24.1: Anpassung des Regionalplans Münsterland an den Landesentwicklungsplan Nordrhein-Westfalen - Festlegung möglicher Siedlungspotenzialbereiche - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 25.: Allgemeine Stadtentwicklungsplanung
+- TOP 25.1: Vertragliche Vereinbarung zur Durchführung einer Altlastenuntersuchung im Bereich Schilgen C - Einstimmig
+- TOP 26.: Verschiedenes
