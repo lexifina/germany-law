@@ -1,0 +1,6 @@
+# TOP 5.: Ermächtigung zur Übernahme des SBG-Verlustes 2020
+
+- Sitzung: Rat (7. Sitzung) (2021-09-30)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/68675
