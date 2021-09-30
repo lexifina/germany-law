@@ -1,0 +1,75 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-09-30T17:02:00+02:00
+- Ende: 2021-09-30T19:07:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZe5rb7zTqHBEaaEVmbqrlWI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6288
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZMwGXBoZcLSlWJ2TQrf6LVvQqOBYXzTL7HdLEReXbX1/Bekanntmachung_Rat_30.09.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXdiid84Oz2vSVlpsBQb1Q2EUtU5G2ZuK7DKXqE9hW0h/Oeffentliche_Niederschrift_Rat_30.09.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Straßenbaumaßnahme Kanalstraße
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 5. Sitzung des Rates am 24.06.2021
+- TOP 4.: Protokoll über die 6. Sitzung des Rates am 06.09.2021
+- TOP 5.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 6.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.1: Umbesetzung von Ausschüssen und Gremien
+- TOP 7.: Ausschreibung der Stelle einer/eines Beigeordneten für das Ressort 2 (Finanzen, Beteiligungen, Gebäudemanagement))
+- TOP 8.: Vorsitz und stellvertretender Vorsitz der Einigungsstelle
+- TOP 9.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 10.: Teilnahme am KGST-Forum und an der KGST-Mitgliederversammlung
+- TOP 11.: Meldung der seriellen, transnationalen Welterbebewerbung „Großbogenbrücken des 19. Jahrhunderts“ durch das Land NRW zur Fortschreibung der Tentativliste künftiger Welterbestätten der Bundesrepublik Deutschland
+- TOP 12.: Verkaufsoffene Sonntage 2021 – Solingen-Mitte
+- TOP 13.: Controllingbericht zum Gleichstellungsplan 2019
+- TOP 14.: Kita-Bedarfsplanung 2025
+- TOP 15.: Luftfilter in Kitas und Schulen gem. Antrag der Ratsfraktionen DIE LINKE.Die PARTEI und FDP vom 02.09.2021
+- TOP 15.1: Luftfilter in Kitas und Schulen gem. Antrag der Ratsfraktionen SPD, Bündnis 90/Die Grünen und CDU vom 21.09.2021
+- TOP 16.: Situation und Perspektive der Wohngeldstelle Solingen Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 15.09.2021
+- TOP 16.1: Situation und Perspektive der Wohngeldstelle Solingen gem. Antrag der Ratsfraktionen Bündnis 90/Die Grünen, SPD und FDP vom 29.09.2021
+- TOP 17.: Strategiewechsel im Umgang mit dem Stadtwald Solingen im Sinne einer nachhaltigeren Verwendung des Nutzholzes
+- TOP 17.1: Strategiewechsel im Umgang mit dem Stadtwald Solingen im Sinne einer nachhaltigeren Verwendung des Nutzholzes
+- TOP 18.: Hochwasser vom 14./15. Juli 2021 Bericht zum Verlauf und den Auswirkungen der Hochwasserkatastrophe als Folge der Unwetterlage des Tiefs „Bernd“
+- TOP 19.: Folgen des Hochwassers Gem. Antrag der Ratsfraktionen SPD und Bündnis 90/Die Grünen vom 27.08.2021
+- TOP 20.: Überarbeitung des Wasserwirtschaftlichen Gesamtplanungskonzeptes Antrag der Ratsfraktionen SPD und FDP vom 24.08.2021
+- TOP 21.: Messanlage am Werwolf
+- TOP 22.: Behindertengerechter Ausbau der Haltestellen
+- TOP 23.: Fortschreibung Nahverkehrsplan; Bearbeitungsschritt I - Teilfortschreibung 2021
+- TOP 24.: Direktvergabe Stadtbusverkehr - Vorabbekanntmachung
+- TOP 25.: Überplanmäßige Auszahlung in 2021 gemäß § 83 GO NRW im Teilplan 1106 – IT Management: Zustimmung zur Bereitstellung von überplanmäßigem Budget zur Auszahlung der bereits in Vorjahren abgerufenen, aber noch nicht ausgezahlten Fördermittel bei 100%-iger Deckung des Aufwandes aus Fördermitteln (Verbindlichkeiten) zur Durchführung und Fertigstellung des Förderprojektes „Digitalisierung im Ausländerwesen“
+- TOP 26.: Dritte Änderungssatzung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Klingenstadt Solingen (Sondernutzungssatzung)
+- TOP 27.: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstige Amtshandlungen auf dem Gebiet der Fleischhygiene in den Städten Remscheid, Solingen und Wuppertal (Fleischhygienegebührensatzung)
+- TOP 28.: Änderung der Benutzungs- und Entgeltordnung der Stadtbibliothek Solingen
+- TOP 29.: Jahresabschluss 2020 der Technischen Betriebe Solingen hier: Feststellung des Jahresabschlusses
+- TOP 30.: Jahresabschluss 2020 der Technischen Betriebe Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 31.: Bauleitplanung Rembrandtstraße/ Locher Straße
+- TOP 32.: Bauleitplanung Nördliche Hackhauser Straße
+- TOP 33.: Verschiedenes
+- TOP 33.1: Mitteilungen der Verwaltung
+- TOP 33.1.1: Über- und außerplanmäßige Aufwendungen und Auszahlungen vom 01.01.2021 - 15.08.2021
+- TOP 33.2: Anfragen an die Verwaltung
+- TOP 33.2.1: Digitale Endgeräte für Schülerinnen und Schüler
+- TOP 33.2.2: Hassmails
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Ankauf der Festhalle Ohligs
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 5. Sitzung des Rates am 24.06.2021
+- TOP 4.: Protokoll über die 6. Sitzung des Rates am 06.09.2021
+- TOP 5.: Ermächtigung zur Übernahme des SBG-Verlustes 2020
+- TOP 6.: Stadtwerke Solingen GmbH - Verschmelzung der EfS Verwaltungs-GmbH auf die Stadtwerke Solingen GmbH
+- TOP 7.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Konzeption 2025
+- TOP 7.1: Kunstmuseum Solingen Betriebsgesellschaft mbH – Konzeption 2025 gem. Ergänzungsantrag der Ratsfraktionen SPD, Bündnis 90/Die Grünen und der FDP vom 29.09.2021
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.1.1: Auskunft über Einkünfte aus Nebentätigkeiten
+- TOP 8.2: Anfragen an die Verwaltung
