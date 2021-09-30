@@ -1,0 +1,54 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2021-09-30T17:00:00+02:00
+- Ende: 2021-09-30T21:05:00+02:00
+- Ort: Gymnasium Rahden, Freiherr-vom-Stein-Straße 5, 32369 Rahden, Aula
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZTMThxCVF4BnvV0BFbRKHGM
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2080
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQNTarvnWg5tAlbwQ7TiWH5JHjULI3P3oVyEi3ajLHSp/Bekanntmachung_Rat_30.09.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe60SrrVdIq4o1jtroKJ-MrtFlFFZYesUJMXAaWtaLHB/Oeffentliche_Niederschrift_Rat_30.09.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5.: Verabschiedung von RM Hans-Eckhard Meyer und Vereidigung seines Nachfolgers Florian Haase - Ohne Abstimmung
+- TOP 6.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2020 - Einstimmig, 0 Enthaltungen
+- TOP 7.: Wahlrecht zur Aufstellung eines Gesamtabschlusses der Stadt Rahden zum 31.12.2020 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Beteiligungsbericht der Stadt Rahden zum 31.12.2020 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Sparkassenangelegenheiten; a) Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2020 b) Verteilung des Jahresüberschusses - 28 Stimmen dafür, 0 dagegen, 4 Enthaltungen
+- TOP 10.: Bericht über die Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen zum Stichtag 15.09.2021 - Ohne Abstimmung
+- TOP 11.: Änderung der Satzung über die Errichtung, Unterhaltung und Benutzung des Übergangsheims Weher Straße 163, 32369 Rahden - Einstimmig, 0 Enthaltungen
+- TOP 12.: Änderung der Satzung für die Benutzung der städtischen Übergangswohnungen für Flüchtlinge und Obdachlose der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 13.: Beratung über eine Corona-Sondersitzung des Schulausschusses mit TOPs zu Luftfiltern in Grundschulen und Beratung über eine frühzeitige Lösung der aktuellen Mensa-Situation hier: Antrag der FDP-Fraktion - 30 Stimmen dafür, 0 dagegen, 2 Enthaltungen
+- TOP 14.: Entwurfsplanung der Sekundarschulerweiterung mit Kostenberechnung - Einstimmig, 0 Enthaltungen
+- TOP 15.: Anfrage der FDP - Fraktion vom 01.08.2021 auf Beratung und Auskunft zur Gefährdung durch Starkregen und Warnung der Bevölkerung in der Stadt Rahden - Ohne Abstimmung
+- TOP 16.: Weitere Maßnahmen zur Sicherung der ärztlichen Versorgung; hier: Richtlinie der Stadt Rahden zur Förderung der Ausbildung von Fachärztinnen und Fachärzten in der Stadt Rahden - 25 Stimmen dafür, 1 dagegen, 6 Enthaltungen
+- TOP 17.: Verlängerung und Erweiterung der Sanierungssatzung „Rahden-Innenstadt“ hier: Beratung und Beschlussfassung über den Satzungsbeschluss gem. § 142 Abs. 3 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 18.: Integriertes städtebauliches Entwicklungskonzept „Rahden-Innenstadt 2030“ (ISEK) hier: Beschlussfassung - Einstimmig, 0 Enthaltungen
+- TOP 19.: Neubau eines zentralen Omnibusbahnhofes (ZOB) am Schulzentrum im Bereich des Nordweges - Einstimmig, 0 Enthaltungen
+- TOP 20.: Dorferneuerung 2022 hier: Antragstellung für die Erneuerung und Aufwertung des Platzes um das Dorfgemeinschaftshaus Wehe sowie Sanierung der bestehenden WC-Anlage incl. Schaffung einer barrierefreien WC-Anlage - Einstimmig, 0 Enthaltungen
+- TOP 21.: Entwurf eines Straßen- und Wegekonzeptes gem. §8a KAG NW für die Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 22.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2020; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 23.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2020; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 24.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2020; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 25.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 26.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 27.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27.1: Zulassung eines Beamten zur Teilnahme an der Modularen Qualifizierung - Einstimmig, 0 Enthaltungen
+- TOP 28.: Grundstücksangelegenheiten
+- TOP 28.1: Erwerb einer Teilfläche aus dem Grundstück „Weher Straße 15“ - Einstimmig, 0 Enthaltungen
+- TOP 28.2: Erwerb eines Grundstückes - 28 Stimmen dafür, 4 dagegen, 0 Enthaltungen
+- TOP 29.: Bekanntgabe der im II.Quartal 2021 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 30.: Antrag zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 31.: Antrag zur Förderung der Ausbildung von Fachärztinnen und Fachärzten in der Stadt Rahden - 25 Stimmen dafür, 1 dagegen, 6 Enthaltungen
+- TOP 32.: Dorfgemeinschaftshaus Varl - Bewilligung von Mehrausgaben im Bereich der Zimmer- und Holzbauarbeiten - - Einstimmig, 0 Enthaltungen
+- TOP 33.: Bekanntgaben und Anfragen
