@@ -265,7 +265,7 @@
 - [§ 85a Festlegung zu den Höchstwerten bei Ausschreibungen](0085a.md)
 - [§ 85b Auskunftsrecht und Datenübermittlung](0085b.md)
 - [§ 86 Bußgeldvorschriften](0086.md)
-- [§ 87 Gebühren und Auslagen](0087.md)
+- [§ 87 (weggefallen)](0087.md)
 
 ## Teil 7 Verordnungsermächtigungen, Berichte, Übergangsbestimmungen
 

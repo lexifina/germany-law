@@ -570,7 +570,7 @@
 - [§ 343 Einstellung des Geschäftsbetriebs](0343.md)
 - [§ 344 Fristen für Berichts- und Offenlegungspflichten](0344.md)
 - [§ 345 Eigenmittel](0345.md)
-- [§ 346 Anlagen in Kreditverbriefungen](0346.md)
+- [§ 346 (weggefallen)](0346.md)
 - [§ 347 Standardparameter](0347.md)
 - [§ 348 Solvabilitätskapitalanforderung](0348.md)
 - [§ 349 Internes Teilgruppenmodell](0349.md)

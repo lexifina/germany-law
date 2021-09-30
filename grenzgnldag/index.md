@@ -13,5 +13,4 @@ Regelung anderer Fragen auf steuerlichem Gebiete
 - [§ 7](0007.md)
 - [§ 8](0008.md)
 - [§ 9](0009.md)
-- [§ 9](0009-2.md)
 - [§ 10](0010.md)

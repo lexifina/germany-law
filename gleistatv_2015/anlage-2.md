@@ -1,3 +1,3 @@
-# Anlage 2 (zu § 6 Absatz 1)
+# Anlage 2 (weggefallen)
 
 
