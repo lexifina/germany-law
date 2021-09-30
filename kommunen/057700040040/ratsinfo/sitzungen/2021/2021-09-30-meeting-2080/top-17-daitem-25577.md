@@ -1,0 +1,10 @@
+# TOP 17.: Verlängerung und Erweiterung der Sanierungssatzung „Rahden-Innenstadt“ hier: Beratung und Beschlussfassung über den Satzungsbeschluss gem. § 142 Abs. 3 BauGB
+
+- Sitzung: Rat (7. Sitzung) (2021-09-30)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/25577
+- Ergebnis: Einstimmig, 0 Enthaltungen
+- Beratung: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/8449
+- Beschluss (Datei): Beschlusstext (Verlängerung und Erweiterung der Sanierungssatzung „Rahden-Innenstadt“
+hier: Beratung und Beschlussfassung über den Satzungsbeschluss gem. § 142 Abs. 3 BauGB) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSGJiYeJTb8RIMGXFJ7TxF7WiMdqgWwJMkz-6z5-YmVP/Beschlusstext_141-2021_-oeffentlich-_Rat_30.09.2021.pdf
