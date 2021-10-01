@@ -1,0 +1,54 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-10-01T14:00:00+02:00
+- Ende: 2021-10-01T16:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20181
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20181
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00425162.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00425162.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00425162.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Mündliche Berichte und Verwaltungsvorlagen
+- TOP 3.1: Kanalbauarbeiten Goltsteinstraße - mündlicher Bericht - zur Kenntnis genommen
+- TOP 3.2: Vorstellung des Klimamobils - mündlicher Bericht - zur Kenntnis genommen
+- TOP 3.3: Neuwahl einer Schiedsperson - mehrheitlich beschlossen
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6: Bebauungsplan-Vorentwurf Nr. 01/009 - Südlich An der Piwipp - einstimmig beschlossen
+- TOP 3.7: Frühzeitige Öffentlichkeitsbeteiligung gem. §3(1) BauGB - FNP178 "Südlich An der Piwipp" - einstimmig beschlossen
+- TOP 3.8: Nord-Süd-RadRoute (West) - Fahrrad-Rampe unter Oberkasseler Brücke - einstimmig beschlossen
+- TOP 3.9: Immermannstraße, japanische Straßenschilder - einstimmig beschlossen
+- TOP 3.10: Weihnachtsmarkt auf der Nordstraße vom 18.11.2021 bis 23.12.2021 - einstimmig beschlossen
+- TOP 3.11: Weihnachtsmarkt auf dem Münsterplatz vom 22.11.2021 bis 23.12.2021 - einstimmig beschlossen
+- TOP 3.12: Bereitstellung von Mitteln für den Jahresempfang 2022 - einstimmig beschlossen
+- TOP 4: Einbringung des Haushaltsplan 2022 (Entwurf) - Doppischer Produkthaushalt, Vorbericht und Anlagen sowie bezirksbezogene Haushaltsansätze
+- TOP 4.1: Haushaltsantrag: Förderung von Gemeinschaftsräumen für die Nachbarschaftsarbeit durch Mietwohnprojekte – überfraktioneller Antrag - abweichend beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Schulwegsicherheit Essener Straße - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Verkehrssituation auf der Goltsteinstraße - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tempo 30 auf der Duisburger Straße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.2: Tempo 30 auf der Sternstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.3: Baumstandortsanierungen Nordstraße und Ersatzpflanzungen - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.4: Absicherung des Gehwegs vor der Thomasschule - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 8.1: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 8.2: Prüfung sichere Schulwege zur Grundschule: Gemeinschaftsgrundschule Rolandstraße; Beschluss der Bezirksvertretung 1 vom 28.05.2021; BV1/118/2021 - zur Kenntnis genommen
+- TOP 8.3: Öffentliche Toiletten am Wochenende in der Altstadt; Beschluss der Bezirksvertretung 1 vom 10.09.2021; BV1/186/2021 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an TheaterLabor TraumGesicht e.V. - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an GarageLab. Düsseldorf e.V. - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Heimatverein Derendorfer Jonges 1956 e.V. - einstimmig beschlossen
+- TOP 10: Verschiedenes
