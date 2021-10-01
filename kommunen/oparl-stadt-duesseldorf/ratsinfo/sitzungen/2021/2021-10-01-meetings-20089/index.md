@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-10-01T16:30:00+02:00
+- Ende: 2021-10-01T18:15:00+02:00
+- Ort: Gymnasium Koblenzer Straße, Theodor-Litt-Straße 2, -Aula-
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20089
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20089
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung ö 01.10.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00424539.pdf
+- Ergebnisprotokoll: BV9 Sitzung ö 01.10.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00424539.pdf
+- Wortprotokoll: BV9 Sitzung ö 01.10.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00424539.pdf
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 17.09.2021 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 25.06.2021 - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift vom 03.09.2021 - einstimmig beschlossen
+- TOP 5: Vorstellung der Klimaanalyse 2020
+- TOP 6: Kreisverkehr Hildener Straße/Urdenbacher Allee - mündlicher Vortrag
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Bauvorbescheid, Behringweg 18, - Errichtung eines Wohngebäudes - einstimmig beschlossen
+- TOP 7.2: Benrather Weihnachtsdörfchen im Jahre 2021 - einstimmig beschlossen
+- TOP 7.3: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 (Liste A Schulen) - vertagt
+- TOP 7.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 8: Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 9: Aktuelle Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anträge
+- TOP 10.1: Änderung des Fahrradweges Grünzug Hoxbach zur Further Straße - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 10.2: Umwandlung eines Ascheplatzes in einen Kunstrasenplatz - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Verfügungsmittel
+- TOP 11.1: KGS Einsiedelstraße - Martinsfest 2021 - einstimmig beschlossen
+- TOP 11.2: Martinsfreunde Hassels - Martinszug Hassels 2021 - einstimmig beschlossen
+- TOP 11.3: Bewegungsraum für „Jumpers - Jugend mit Perspektive" in Hassels - einstimmig beschlossen
+- TOP 12: Informationsvorlagen
+- TOP 12.1: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 12.2: Unterstützung des SV Wersten 04: Umwandlung des Ascheplatzes in einen Kunstrasenplatz - Beschluss der Bezirksvertretung 9 vom 07.05.2021; BV9/096/2021 - zur Kenntnis genommen
+- TOP 12.3: Werbung Wochenmarkt Kamper Acker - Beschluss der Bezirksvertretung 9 vom 02.10.2020; BV9/193/2020 - zur Kenntnis genommen
+- TOP 13: Haushaltsberatung - zur Kenntnis genommen
