@@ -111,7 +111,7 @@
 
 ## Abschnitt 11 Schlussbestimmungen
 
-- [§ 63 Gebühren und Auslagen](0063.md)
+- [§ 63 (weggefallen)](0063.md)
 - [§ 64 Amtliche Sammlung von Untersuchungsverfahren; Bekanntmachungen](0064.md)
 - [§ 65 Aufgabendurchführung](0065.md)
 - [§ 66 Statistik](0066.md)

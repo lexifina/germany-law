@@ -163,7 +163,7 @@
 - [§ 65 Krankheits- und Gewahrsamszeiten](0065.md)
 - [§ 66 Zeiten eines sonstigen hauptberuflichen Dienstes](0066.md)
 - [§ 67 (weggefallen)](0067.md)
-- [§ 68 Zeiten bei Stationierungsstreitkräften](0068.md)
+- [§ 68 (weggefallen)](0068.md)
 - [§ 69 Sonderregelungen für volksdeutsche Vertriebene und Umsiedler](0069.md)
 
 ### Abschnitt 8 Besondere Leistungen entsprechend den Regelungen des Sechsten Buches Sozialgesetzbuch
@@ -203,7 +203,7 @@
 - [§ 85a Geldleistungen der Wohnungshilfe](0085a.md)
 - [§ 86 Erstattung von Sachschäden und besonderen Aufwendungen](0086.md)
 
-## Teil 4 Fürsorgeleistungen an ehemalige Soldaten auf Zeit bei Arbeitslosigkeit
+## Teil 4 Fürsorgeleistungen an frühere Soldaten auf Zeit bei Arbeitslosigkeit
 
 - [§ 86a Arbeitslosenbeihilfe](0086a.md)
 
@@ -219,7 +219,7 @@
 - [§ 89a Dienstbezüge](0089a.md)
 - [§ 89b Anpassung der Versorgungsbezüge](0089b.md)
 - [§ 90 Anrechnung von Geldleistungen](0090.md)
-- [§ 91 Übergangsvorschrift aus Anlass des Vierzehnten Gesetzes zur Änderung des Soldatengesetzes](0091.md)
+- [§ 91 (weggefallen)](0091.md)
 - [§ 91a Begrenzung der Ansprüche aus einer Wehrdienstbeschädigung](0091a.md)
 - [§ 91b Bußgeldvorschrift](0091b.md)
 - [§ 92 Erlass von Verwaltungsvorschriften](0092.md)
@@ -247,6 +247,7 @@
 - [§ 106 Übergangsregelungen aus Anlass des GKV-Versichertenentlastungsgesetzes sowie des Bundeswehr-Einsatzbereitschaftsstärkungsgesetzes](0106.md)
 - [§ 106a Sonderregelungen zur Bewältigung der COVID-19-Pandemie](0106a.md)
 - [§ 107 Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes](0107.md)
+- [§ 107a Übergangsregelung zur Minderung der Förderungsdauer](0107a.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III
 
 (BGBl. II 1990, 889, 1146)

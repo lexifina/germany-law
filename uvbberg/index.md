@@ -9,6 +9,7 @@
 - [§ 4 Prävention für Beamte, Verordnungsermächtigung](0004.md)
 - [§ 4a Unfallfürsorge für Beamte](0004a.md)
 - [§ 4b Aufgabenübertragung an die Unfallversicherung Bund und Bahn](0004b.md)
+- [§ 4c Leistungen der Soldatenentschädigung](0004c.md)
 - [§ 5 Kosten bei Errichtung](0005.md)
 
 ## Abschnitt 2 Personalrechtliche Übergangsregelungen

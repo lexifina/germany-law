@@ -11,7 +11,7 @@
 | § 5 | Lizenzierter Bereich |
 | § 6 | Erteilung der Lizenz |
 | § 7 | Übertragung der Lizenz |
-| § 8 | Gebühren und Auslagen für die Lizenzierung |
+| § 8 | (weggefallen) |
 | § 9 | Widerruf der Lizenz |
 | § 10 | Strukturelle Separierung und getrennte Rechnungsführung |
 | Abschnitt 3 |

@@ -41,7 +41,7 @@ Verteidigungsfall](0020.md)
 - [§ 23 Probenahme](0023.md)
 - [§ 24 Duldungs- und Mitwirkungspflicht](0024.md)
 - [§ 24a Anzeige des Anbaus von Nutzhanf](0024a.md)
-- [§ 25 Gebühren und Auslagen](0025.md)
+- [§ 25 (weggefallen)](0025.md)
 
 ## Fünfter Abschnitt Vorschriften für Behörden
 

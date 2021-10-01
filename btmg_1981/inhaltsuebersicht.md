@@ -35,7 +35,7 @@
 | § 23 | Probenahme |
 | § 24 | Duldungs- und Mitwirkungspflicht |
 | § 24a | Anzeige des Anbaus von Nutzhanf |
-| § 25 | Gebühren und Auslagen |
+| § 25 | (weggefallen) |
 | Fünfter Abschnitt |
 |  | Vorschriften für Behörden |
 | § 26 | Bundeswehr, Bundespolizei, Bereitschaftspolizei und Zivilschutz |

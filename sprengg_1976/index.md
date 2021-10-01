@@ -120,7 +120,7 @@ und -prüfung
 - [§ 46 Fortgeltung erteilter Erlaubnisse](0046.md)
 - [§ 47 Übergangsvorschriften](0047.md)
 - [§ 47a Übergangsvorschrift zu den §§ 8 bis 8b und 34](0047a.md)
-- [§ 47b Übergangsvorschrift zur Kostenordnung zum Sprengstoffrecht](0047b.md)
+- [§ 47b (weggefallen)](0047b.md)
 - [§ 48 Bereits errichtete Sprengstofflager](0048.md)
 - [§ 49 Anwendbarkeit anderer Vorschriften](0049.md)
 - [§ 50 (Änderung anderer Vorschriften)](0050.md)

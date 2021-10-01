@@ -35,7 +35,7 @@
 
 - [§ 16 Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten](0016.md)
 - [§ 17 Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung](0017.md)
-- [§ 18 Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigungen](0018.md)
+- [§ 18 Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung](0018.md)
 - [§ 19 Aufgaben des Gesundheitsamtes in besonderen Fällen](0019.md)
 - [§ 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe](0020.md)
 - [§ 21 Impfstoffe](0021.md)

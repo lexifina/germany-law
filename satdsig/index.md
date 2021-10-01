@@ -47,7 +47,7 @@
 
 - [§ 24 Zuständigkeit](0024.md)
 - [§ 25 Verfahren](0025.md)
-- [§ 26 Gebühren und Auslagen](0026.md)
+- [§ 26 (weggefallen)](0026.md)
 - [§ 27 Übermittlung von personenbezogenen Daten, Betriebs- und Geschäftsgeheimnissen](0027.md)
 
 ## Teil 6 Bußgeldvorschriften, Strafvorschriften

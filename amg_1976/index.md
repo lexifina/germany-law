@@ -61,7 +61,7 @@
 - [§ 30 Rücknahme, Widerruf, Ruhen](0030.md)
 - [§ 31 Erlöschen, Verlängerung](0031.md)
 - [§ 32 Staatliche Chargenprüfung](0032.md)
-- [§ 33 Gebühren und Auslagen](0033.md)
+- [§ 33 Aufwendungsersatz und Entgelte](0033.md)
 - [§ 34 Information der Öffentlichkeit](0034.md)
 - [§ 35 Ermächtigungen zur Zulassung und Freistellung](0035.md)
 - [§ 36 Ermächtigung für Standardzulassungen](0036.md)

@@ -106,7 +106,7 @@ Bundessortenamt
 - [§ 51 Änderung der Sortenbezeichnung](0051.md)
 - [§ 52 Beendigung der Sortenzulassung](0052.md)
 - [§ 53 Ermächtigung zum Erlass von Verfahrensvorschriften](0053.md)
-- [§ 54 Gebühren und Auslagen](0054.md)
+- [§ 54 Gebühren](0054.md)
 
 ### Unterabschnitt 4 In anderen Vertragsstaaten eingetragene Sorten
 

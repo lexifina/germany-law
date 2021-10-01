@@ -6,7 +6,7 @@
 - [§ 4 Pflichten der übrigen Beteiligten im Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung](0004.md)
 - [§ 5 Pflichten im Rahmen der allgemeinen Informationspflichten](0005.md)
 - [§ 6 Verordnungsermächtigungen](0006.md)
-- [§ 7 Gebühren und Auslagen](0007.md)
+- [§ 7 Gebührenschuldnerschaft](0007.md)
 - [§ 8 Ergänzende Bestimmungen zu den Rücknahmeverpflichtungen](0008.md)
 - [§ 9 Datenerhebung und -verwendung](0009.md)
 - [§ 10 Kennzeichnung der Fahrzeuge](0010.md)

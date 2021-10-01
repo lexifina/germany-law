@@ -20,7 +20,7 @@
 - [§ 8 Grundpflichten](0008.md)
 - [§ 9 Allgemeine Schutzmaßnahmen](0009.md)
 - [§ 10 Zusätzliche Schutzmaßnahmen und Anforderungen bei Tätigkeiten der Schutzstufe 2, 3 oder 4 in Laboratorien, in der Versuchstierhaltung sowie in der Biotechnologie](0010.md)
-- [§ 11 Zusätzliche Schutzmaßnahmen und Anforderungen bei Tätigkeiten der Schutzstufe 2, 3 oder 4 in Einrichtungen des Gesundheitsdienstes](0011.md)
+- [§ 11 Zusätzliche Schutzmaßnahmen und Anforderungen in Einrichtungen des Gesundheitsdienstes](0011.md)
 - [§ 12 Arbeitsmedizinische Vorsorge](0012.md)
 - [§ 13 Betriebsstörungen, Unfälle](0013.md)
 - [§ 14 Betriebsanweisung und Unterweisung der Beschäftigten](0014.md)

@@ -29,10 +29,10 @@
 
 ## Abschnitt 5 Gebühren und Auslagen für Amtshandlungen der Zulassungsstelle
 
-- [§ 13 Gebühren und Auslagen](0013.md)
+- [§ 13 (weggefallen)](0013.md)
 
 ## Abschnitt 6 Übergangs- und Schlussbestimmungen
 
 - [§ 14 Übergangsbestimmung](0014.md)
 - [§ 15 Inkrafttreten; Außerkrafttreten](0015.md)
-- [Anlage (zu § 13)Gebührenverzeichnis](anlage.md)
+- [Anlage (zu § 13)(weggefallen)](anlage.md)

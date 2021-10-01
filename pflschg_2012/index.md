@@ -1,6 +1,5 @@
 # Gesetz zum Schutz der Kulturpflanzen
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeine Bestimmungen
 
@@ -86,7 +85,7 @@
 
 - [§ 54 Entschädigung](0054.md)
 - [§ 55 Forderungsübergang](0055.md)
-- [§ 56 Gebühren und Auslagen](0056.md)
+- [§ 56 (weggefallen)](0056.md)
 
 ## Abschnitt 11 Behörden, Überwachung
 

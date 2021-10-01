@@ -156,7 +156,7 @@
 - [§ 84 Beratungspflichten der zuständigen Bundesoberbehörde](0084.md)
 - [§ 85 Zuständigkeiten und Aufgaben der Behörden](0085.md)
 - [§ 86 Deutsches Medizinprodukteinformations- und Datenbanksystem](0086.md)
-- [§ 87 Gebühren und Auslagen; Verordnungsermächtigung](0087.md)
+- [§ 87 (weggefallen)](0087.md)
 - [§ 88 Verordnungsermächtigungen](0088.md)
 - [§ 89 Allgemeine Verwaltungsvorschriften](0089.md)
 

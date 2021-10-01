@@ -47,7 +47,7 @@
 
 - [§ 21 Ordnungswidrigkeiten](0021.md)
 - [§ 22 Zuständigkeiten](0022.md)
-- [§ 23 Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz](0023.md)
+- [§ 23 (weggefallen)](0023.md)
 - [§ 24 Inkrafttreten](0024.md)
 - [Anhang 1 Berechnungsformeln](anhang-1.md)
 - [Anhang 2 Vergleichbarkeit von Anlagen](anhang-2.md)

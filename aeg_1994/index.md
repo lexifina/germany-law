@@ -34,7 +34,7 @@
 - [§ 7e Zugang zu Schulungsmöglichkeiten](0007e.md)
 - [§ 7f Aufnahme des Betriebes](0007f.md)
 - [§ 7g Bescheinigungen betreffend die Instandhaltung](0007g.md)
-- [§ 7h Gebühren und Auslagen](0007h.md)
+- [§ 7h Zurücknahme oder Einschränkung des Antrags bei Einsatz von Verwaltungshelfern](0007h.md)
 - [§ 8 (weggefallen)](0008.md)
 - [§ 9 (weggefallen)](0009.md)
 - [§ 9a (weggefallen)](0009a.md)

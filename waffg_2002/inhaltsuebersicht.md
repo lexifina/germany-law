@@ -109,7 +109,7 @@
 | Übergangsvorschriften, Verwaltungsvorschriften |
 | § 58 | Altbesitz; Übergangsvorschriften |
 | § 59 | Verwaltungsvorschriften |
-| § 60 | Übergangsvorschrift zur Kostenverordnung |
+| § 60 | (weggefallen) |
 | § 60a | Übergangsvorschrift zu den Waffenbüchern |
 | Anlage 1 (zu § 1 Abs. 4) Begriffsbestimmungen |
 | Anlage 2 (zu § 2 Abs. 2 bis 4) Waffenliste |

@@ -85,9 +85,9 @@
 |  | Abschnitt 2 | Beschwerden |
 |  | Unterabschnitt 1 | Sofortige Beschwerde |
 |  | Unterabschnitt 2 | Rechtsbeschwerde |
-|  |  |
+|  |  |  |
 | Hauptabschnitt 6 |  | Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
-|  |  |
+|  |  |  |
 | Teil 3 | Strafsachen und gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen |
 |  |  |  |
 | Hauptabschnitt 1 |  | Offizialverfahren |
@@ -692,8 +692,8 @@ Verfahren nach dem Gesetz über Ordnungswidrigkeiten
 | Hauptabschnitt 3 Besondere Gebühren |
 | 4300 | Dem Anzeigenden sind im Fall einer unwahren Anzeige die Kosten auferlegt worden (§ 469 StPO i. V. m. § 46 Abs. 1 OWiG) .......... | 39,00 € |
 |  | Das Gericht kann die Gebühr bis auf 15,00 € herabsetzen oder beschließen, dass von der Erhebung einer Gebühr abgesehen wird. |  |
-| 4301 | Abschließende Entscheidung des Gerichts im Fall des § 25a Abs. 1 StVG .......... | 39,00 € |
-| 4302 | Entscheidung der Staatsanwaltschaft im Fall des § 25a Abs. 1 StVG .......... | 22,00 € |
+| 4301 | Abschließende Entscheidung des Gerichts im Fall des § 25a Abs. 1 StVG oder des § 10a Absatz 1 Satz 1 BFStrMG .......... | 39,00 € |
+| 4302 | Entscheidung der Staatsanwaltschaft im Fall des § 25a Abs. 1 StVG oder des § 10a Absatz 1 Satz 1 BFStrMG .......... | 22,00 € |
 | 4303 | Verfahren über den Antrag auf gerichtliche Entscheidung gegen eine Anordnung, Verfügung oder sonstige Maßnahme der Verwaltungsbehörde oder der Staatsanwaltschaft oder Verfahren über Einwendungen nach § 103 OWiG: Der Antrag wird verworfen .......... | 33,00 € |
 |  | Wird der Antrag nur teilweise verworfen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. |  |
 | 4304 | Verfahren über die Erinnerung gegen den Kostenfestsetzungsbeschluss des Urkundsbeamten der Staatsanwaltschaft (§ 108a Abs. 3 Satz 2 OWiG): Die Erinnerung wird zurückgewiesen .......... | 33,00 € |
@@ -986,7 +986,7 @@ Auslagen
 |  | Maßgebend ist die Höhe des Haftkostenbeitrags, der nach Landesrecht von einem Gefangenen zu erheben ist. |
 | 9011 | Kosten einer Haft außer Zwangshaft, Kosten einer einstweiligen Unterbringung (§ 126a StPO), einer Unterbringung zur Beobachtung (§ 81 StPO) und einer einstweiligen Unterbringung in einem Heim der Jugendhilfe (§ 71 Abs. 2, § 72 Abs. 4 JGG) .......... | in Höhe des Haftkostenbeitrags |
 |  | Maßgebend ist die Höhe des Haftkostenbeitrags, der nach Landesrecht von einem Gefangenen zu erheben ist. Diese Kosten werden nur angesetzt, wenn der Haftkostenbeitrag auch von einem Gefangenen im Strafvollzug zu erheben wäre. |  |
-| 9012 | Nach dem Auslandskostengesetz zu zahlende Beträge .......... | in voller Höhe |
+| 9012 | Nach § 12 BGebG, dem 5. Abschnitt des Konsulargesetzes und der Besonderen Gebührenverordnung des Auswärtigen Amts nach § 22 Abs. 4 BGebG zu zahlende Beträge .......... | in voller Höhe |
 | 9013 | An deutsche Behörden für die Erfüllung von deren eigenen Aufgaben zu zahlende Gebühren sowie diejenigen Beträge, die diesen Behörden, öffentlichen Einrichtungen oder deren Bediensteten als Ersatz für Auslagen der in den Nummern 9000 bis 9011 bezeichneten Art zustehen .......... | in voller Höhe, die Auslagen begrenzt durch die Höchstsätze für die Auslagen 9000 bis 9011 |
 |  | Die als Ersatz für Auslagen angefallenen Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind. |
 | 9014 | Beträge, die ausländischen Behörden, Einrichtungen oder Personen im Ausland zustehen, sowie Kosten des Rechtshilfeverkehrs mit dem Ausland .......... | in voller Höhe |

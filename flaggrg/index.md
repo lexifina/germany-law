@@ -59,7 +59,7 @@ Bundesflagge
 - [§ 20](0020.md)
 - [§ 21](0021.md)
 - [§ 22](0022.md)
-- [§ 22a](0022a.md)
+- [§ 22a (weggefallen)](0022a.md)
 - [§ 22b](0022b.md)
 - [§ 22c (weggefallen)](0022c.md)
 - [§ 23](0023.md)

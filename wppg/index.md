@@ -38,7 +38,7 @@
 
 - [§ 21 Anerkannte Sprache](0021.md)
 - [§ 22 Elektronische Einreichung, Aufbewahrung](0022.md)
-- [§ 23 Gebühren und Auslagen](0023.md)
+- [§ 23 (weggefallen)](0023.md)
 - [§ 24 Bußgeldvorschriften](0024.md)
 - [§ 25 Maßnahmen bei Verstößen](0025.md)
 - [§ 26 Datenschutz](0026.md)

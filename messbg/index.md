@@ -111,7 +111,7 @@
 
 #### Abschnitt 2 Zulässiger Datenaustausch: Pflichten der übrigen an der Datenkommunikation Beteiligten
 
-- [§ 66 Messwertverarbeitung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung](0066.md)
+- [§ 66 Messwertnutzung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung](0066.md)
 - [§ 67 Messwertverarbeitung zu Zwecken des Übertragungsnetzbetriebs und der Bilanzkoordination; Übermittlungspflicht; Löschung](0067.md)
 - [§ 68 Messwertverarbeitung zu Zwecken des Bilanzkreisverantwortlichen; Übermittlungspflicht; Löschung](0068.md)
 - [§ 69 Messwertverarbeitung zu Zwecken des Energielieferanten; Übermittlungspflicht; Löschung](0069.md)

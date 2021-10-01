@@ -36,7 +36,7 @@
 
 ## Abschnitt 7 Gebühren und Auslagen für Amtshandlungen der Zulassungsstelle <BR />(Zu § 22 des Gesetzes)
 
-- [§ 14 Gebühren und Auslagen](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 
 ## Abschnitt 8 Verfahren zur Feststellung einheitlicher Anlagen <BR />(Zu § 24 des Gesetzes)
 
@@ -56,4 +56,3 @@
 ## Abschnitt 10 Schlussvorschriften
 
 - [§ 24 Inkrafttreten, Außerkrafttreten](0024.md)
-- [Anlage (zu § 14)Gebührenverzeichnis](anlage.md)

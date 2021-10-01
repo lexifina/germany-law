@@ -278,7 +278,7 @@ Festlandsockel
 - [§ 132 Forschungshandlungen](0132.md)
 - [§ 133 Unterwasserkabel und Transit-Rohrleitungen](0133.md)
 - [§ 134 Überwachung und Vollziehung von Verwaltungsakten, Zusammenwirken](0134.md)
-- [§ 135 Gebühren- und Auslagenermächtigung](0135.md)
+- [§ 135 (weggefallen)](0135.md)
 - [§ 136 Zuständigkeiten für sonstige Verwaltungsaufgaben](0136.md)
 - [§ 137 Übergangsregelung](0137.md)
 

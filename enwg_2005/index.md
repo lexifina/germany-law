@@ -65,7 +65,7 @@
 - [§ 12g Schutz europäisch kritischer Anlagen, Verordnungsermächtigung](0012g.md)
 - [§ 12h Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen](0012h.md)
 - [§ 13 Systemverantwortung der Betreiber von Übertragungsnetzen](0013.md)
-- [§ 13a Anpassungen von Einspeisungen und ihre Vergütung](0013a.md)
+- [§ 13a Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich](0013a.md)
 - [§ 13b Stilllegungen von Anlagen](0013b.md)
 - [§ 13c Vergütung bei geplanten Stilllegungen von Anlagen](0013c.md)
 - [§ 13d Netzreserve](0013d.md)

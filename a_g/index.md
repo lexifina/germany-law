@@ -4,7 +4,6 @@
 - [§ 1a Anzeige der Überlassung](0001a.md)
 - [§ 1b Einschränkungen im Baugewerbe](0001b.md)
 - [§ 2 Erteilung und Erlöschen der Erlaubnis](0002.md)
-- [§ 2a Gebühren und Auslagen](0002a.md)
 - [§ 3 Versagung](0003.md)
 - [§ 3a Lohnuntergrenze](0003a.md)
 - [§ 4 Rücknahme](0004.md)

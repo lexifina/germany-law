@@ -38,7 +38,7 @@
 
 - [§ 24 Zusammenarbeit von Bund und Ländern](0024.md)
 - [§ 25 Beteiligung bei der Aufstellung von Raumordnungsplänen der Nachbarstaaten](0025.md)
-- [§ 26 Gebühren und Auslagen](0026.md)
+- [§ 26 (weggefallen)](0026.md)
 - [§ 27 Anwendungsvorschrift für die Raumordnung in den Ländern](0027.md)
 - [Anlage 1 (zu § 8 Abs. 1)](anlage-1.md)
 - [Anlage 2 (zu § 8 Abs. 2)](anlage-2.md)

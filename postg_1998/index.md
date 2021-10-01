@@ -15,7 +15,7 @@
 - [§ 5 Lizenzierter Bereich](0005.md)
 - [§ 6 Erteilung der Lizenz](0006.md)
 - [§ 7 Übertragung der Lizenz](0007.md)
-- [§ 8 Gebühren und Auslagen für die Lizenzierung](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 9 Widerruf der Lizenz](0009.md)
 - [§ 10 Strukturelle Separierung und getrennte Rechnungsführung](0010.md)
 

@@ -20,6 +20,7 @@ Ausgleichsleistungen
 | § 9 | Transparenz der Ausschreibung, Beschaffung und Inanspruchnahme von Regelenergie |
 | § 10 | Verlustenergie |
 | § 11 | Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz |
+| § 11a | Bilanzkreis für den energetischen und bilanziellen Ausgleich von Systemsicherheitsmaßnahmen |
 Teil 3
 Zugang zu Elektrizitätsverteilernetzen
 | § 12 | Standardisierte Lastprofile; Zählerstandsgangmessung |

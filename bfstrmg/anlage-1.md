@@ -2,18 +2,18 @@
 
 1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1:
   mautpflichtige Fahrzeuge oder Fahrzeugkombinationen:
-  a) mit einem zulässigen Gesamtgewicht von 7,5 bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,08 Euro,
-  b) mit einem zulässigen Gesamtgewicht von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,115 Euro,
-  c) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie bis zu drei Achsen 0,16 Euro,
-  d) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,174 Euro.
+  a) mit einem zulässigen Gesamtgewicht von 7,5 bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,065 Euro,
+  b) mit einem zulässigen Gesamtgewicht von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,112 Euro,
+  c) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie bis zu drei Achsen 0,155 Euro,
+  d) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,169 Euro.
 2. Mautteilsatz für die verursachten Luftverschmutzungskosten je Kilometer nach § 3 Absatz 1 Nummer 2:
   a) mautpflichtige Fahrzeuge oder Fahrzeugkombinationen unbeschadet der Zahl der Achsen, des zulässigen Gesamtgewichts und der benutzten Straßen:
-    aa) 0,011 Euro in der Kategorie A,
-    bb) 0,022 Euro in der Kategorie B,
-    cc) 0,032 Euro in der Kategorie C,
-    dd) 0,064 Euro in der Kategorie D,
-    ee) 0,074 Euro in der Kategorie E,
-    ff) 0,085 Euro in der Kategorie F.
+    aa) 0,012 Euro in der Kategorie A,
+    bb) 0,023 Euro in der Kategorie B,
+    cc) 0,034 Euro in der Kategorie C,
+    dd) 0,067 Euro in der Kategorie D,
+    ee) 0,078 Euro in der Kategorie E,
+    ff) 0,089 Euro in der Kategorie F.
   b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung:
     | aa) | Kategorie A | Fahrzeuge der Schadstoffklasse S 6, |
     | bb) | Kategorie B | Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse S 5, |

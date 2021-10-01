@@ -27,6 +27,6 @@
 | § 11 | Benennung eines Bevollmächtigten |
 | § 12 | Mengenbeobachtung |
 | § 13 | Rechtsverordnung zu Zustimmungsvoraussetzungen |
-| § 14 | Gebühren und Auslagen |
+| § 14 | (weggefallen) |
 | § 15 | Bußgeldvorschriften |
 | Anhang |

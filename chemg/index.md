@@ -80,7 +80,7 @@
 - [§ 23 Behördliche Anordnungen](0023.md)
 - [§ 24 Vollzug im Bereich der Bundeswehr](0024.md)
 - [§ 25 Angleichung an Gemeinschaftsrecht oder Unionsrecht](0025.md)
-- [§ 25a Gebühren und Auslagen](0025a.md)
+- [§ 25a Aufwendungen des Auskunftspflichtigen](0025a.md)
 - [§ 26 Bußgeldvorschriften](0026.md)
 - [§ 27 Strafvorschriften](0027.md)
 - [§ 27a Unwahre GLP-Erklärungen, Erschleichen der GLP-Bescheinigung](0027a.md)

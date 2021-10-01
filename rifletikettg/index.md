@@ -7,7 +7,7 @@
 - [§ 3a Verarbeitung von Daten](0003a.md)
 - [§ 4 Zuständigkeit für die Überwachung](0004.md)
 - [§ 4a Befugnisse](0004a.md)
-- [§ 5 Gebühren](0005.md)
+- [§ 5 (weggefallen)](0005.md)
 - [§ 6 Auskunftserteilung](0006.md)
 - [§ 7 Außenverkehr](0007.md)
 - [§ 8 Rechtsverordnungen](0008.md)

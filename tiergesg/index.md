@@ -73,7 +73,7 @@
 - [§ 39a Beschränkungen des Eigentums, Entschädigung und Ausgleich](0039a.md)
 - [§ 40 Verkündung von Rechtsverordnungen](0040.md)
 - [§ 41 Verhältnis zu anderen Vorschriften](0041.md)
-- [§ 42 Gebühren](0042.md)
+- [§ 42 (weggefallen)](0042.md)
 - [§ 43 Übergangsvorschriften](0043.md)
 - [§ 44 (Änderung weiterer Vorschriften)](0044.md)
 - [§ 45 (Inkrafttreten, Außerkrafttreten)](0045.md)

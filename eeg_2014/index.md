@@ -29,14 +29,14 @@
 
 - [§ 12 Erweiterung der Netzkapazität](0012.md)
 - [§ 13 Schadensersatz](0013.md)
-- [§ 14 Einspeisemanagement](0014.md)
-- [§ 15 Härtefallregelung](0015.md)
+- [§ 14 (weggefallen)](0014.md)
+- [§ 15 (weggefallen)](0015.md)
 
 ### Abschnitt 3 Kosten
 
 - [§ 16 Netzanschluss](0016.md)
 - [§ 17 Kapazitätserweiterung](0017.md)
-- [§ 18 Vertragliche Vereinbarung](0018.md)
+- [§ 18 (weggefallen)](0018.md)
 
 ## Teil 3 Zahlung von Marktprämie und Einspeisevergütung
 

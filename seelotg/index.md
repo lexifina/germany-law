@@ -78,9 +78,9 @@ Seelotsreviere
 
 - [§ 45](0045.md)
 
-## Fünfter Abschnitt Gebühren und Auslagen
+## Fünfter Abschnitt (weggefallen)
 
-- [§ 46](0046.md)
+- [§ 46 (weggefallen)](0046.md)
 
 ## Sechster Abschnitt Ordnungswidrigkeiten
 

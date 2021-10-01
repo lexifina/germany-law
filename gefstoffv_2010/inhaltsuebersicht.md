@@ -25,6 +25,18 @@ Schutzmaßnahmen
 | § 13 | Betriebsstörungen, Unfälle und Notfälle |
 | § 14 | Unterrichtung und Unterweisung der Beschäftigten |
 | § 15 | Zusammenarbeit verschiedener Firmen |
+Abschnitt 4a
+Anforderungen an die Verwendung von
+Biozid-Produkten einschließlich der Begasung
+sowie an Begasungen mit Pflanzenschutzmitteln
+| § 15a | Verwendungsbeschränkungen |
+| § 15b | Allgemeine Anforderungen an die Verwendung von Biozid-Produkten |
+| § 15c | Besondere Anforderungen an die Verwendung bestimmter Biozid-Produkte |
+| § 15d | Besondere Anforderungen bei Begasungen |
+| § 15e | Ergänzende Dokumentationspflichten |
+| § 15f | Anforderungen an den Umgang mit Transporteinheiten |
+| § 15g | Besondere Anforderungen an Begasungen auf Schiffen |
+| § 15h | Ausnahmen von Abschnitt 4a |
 Abschnitt 5
 Verbote und Beschränkungen
 | § 16 | Herstellungs- und Verwendungsbeschränkungen |
@@ -34,22 +46,23 @@ Vollzugsregelungen und
 Ausschuss für Gefahrstoffe
 | § 18 | Unterrichtung der Behörde |
 | § 19 | Behördliche Ausnahmen, Anordnungen und Befugnisse |
+| § 19a | Anerkennung ausländischer Qualifikationen |
 | § 20 | Ausschuss für Gefahrstoffe |
 Abschnitt 7
-Ordnungswidrigkeiten und Straftaten
+Ordnungswidrigkeiten, Straftaten und Übergangsvorschriften
 | § 21 | Chemikaliengesetz – Anzeigen |
 | § 22 | Chemikaliengesetz – Tätigkeiten |
 | § 23 | (weggefallen) |
 | § 24 | Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen |
 | § 25 | Übergangsvorschrift |
 Anhang I
-(zu § 8 Absatz 8, § 11 Absatz 3)
-Besondere Vorschriften für
-bestimmte Gefahrstoffe und Tätigkeiten
+(zu § 8 Absatz 8, § 11 Absatz 3, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)
+Besondere Vorschriften
+für bestimmte Gefahrstoffe und Tätigkeiten
 | Nummer 1 | Brand- und Explosionsgefährdungen |
 | Nummer 2 | Partikelförmige Gefahrstoffe |
-| Nummer 3 | Schädlingsbekämpfung |
-| Nummer 4 | Begasungen |
+| Nummer 3 | (weggefallen) |
+| Nummer 4 | Biozid-Produkte und Begasung mit Biozid-Produkten oder Pflanzenschutzmitteln |
 | Nummer 5 | Ammoniumnitrat |
 Anhang II
 (zu § 16 Absatz 2)

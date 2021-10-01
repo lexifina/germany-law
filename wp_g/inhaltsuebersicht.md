@@ -81,7 +81,7 @@
 | § 44 | Veröffentlichungsrecht der Bundesanstalt |
 | § 45 | Mitteilungen an die Bundesanstalt |
 | § 46 | Zwangsmittel |
-| § 47 | Gebühren und Auslagen |
+| § 47 | (weggefallen) |
 |  |
 | Abschnitt 7 |
 | Rechtsmittel |

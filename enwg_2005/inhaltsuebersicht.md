@@ -63,7 +63,7 @@
 | § 12g | Schutz europäisch kritischer Anlagen, Verordnungsermächtigung |
 | § 12h | Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen |
 | § 13 | Systemverantwortung der Betreiber von Übertragungsnetzen |
-| § 13a | Anpassungen von Einspeisungen und ihre Vergütung |
+| § 13a | Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich |
 | § 13b | Stilllegungen von Anlagen |
 | § 13c | Vergütung bei geplanten Stilllegungen von Anlagen |
 | § 13d | Netzreserve |

@@ -9,7 +9,7 @@
 - [§ 7 Mitwirkung der Zollbehörden](0007.md)
 - [§ 8 Überwachung](0008.md)
 - [§ 9 Datenübermittlung, Außenverkehr](0009.md)
-- [§ 10 Gebühren und Auslagen](0010.md)
+- [§ 10 (weggefallen)](0010.md)
 - [§ 11 Ermächtigungen](0011.md)
 - [§ 12 Strafvorschriften](0012.md)
 - [§ 13 Bußgeldvorschriften](0013.md)

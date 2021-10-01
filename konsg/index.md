@@ -40,10 +40,15 @@ Befugnisse
 - [§ 23 Verabschiedung](0023.md)
 - [§ 24 Erfordernis einer besonderen Ermächtigung](0024.md)
 
-## 5. Abschnitt Gebühren und Auslagen
+## 5. Abschnitt Gebühren, Auslagen und Kostenerstattung
 
-- [§ 25 Besondere gesetzliche Regelung](0025.md)
-- [§ 26 Gebühren und Auslagen der Honorarkonsularbeamten](0026.md)
+- [§ 25 Gebühren und Auslagen](0025.md)
+- [§ 25a Gebühren- und Auslagenerhebung der Honorarkonsularbeamten](0025a.md)
+- [§ 25b Gebührenbemessung](0025b.md)
+- [§ 25c Wertgebühren](0025c.md)
+- [§ 25d Zuschläge](0025d.md)
+- [§ 25e Auslagen](0025e.md)
+- [§ 26 Erstattungsansprüche bei Amtshilfe](0026.md)
 
 ## 6. Abschnitt Übergangs- und Schlußvorschriften
 

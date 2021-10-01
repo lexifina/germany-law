@@ -8,7 +8,7 @@
 - [§ 3c Angleichung der Wettbewerbsbedingungen](0003c.md)
 - [§ 3d Berufszulassung von Unternehmern](0003d.md)
 - [§ 3e Übertragungsermächtigung](0003e.md)
-- [§ 4 Gebühren und Auslagen](0004.md)
+- [§ 4 (weggefallen)](0004.md)
 - [§ 5 Hamburger Hafen](0005.md)
 - [§ 6 Überwachungsbefugnis](0006.md)
 - [§ 6a Überwachungsbefugnis im Rahmen von Binnenschifffahrtsabkommen](0006a.md)

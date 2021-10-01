@@ -9,7 +9,7 @@
 - [§ 7 Ermächtigung zum Erlaß von Rechtsverordnungen](0007.md)
 - [§ 8 Bergaufsicht](0008.md)
 - [§ 9 Archäologische und historische Gegenstände](0009.md)
-- [§ 10 Gebühren und Auslagen](0010.md)
+- [§ 10 (weggefallen)](0010.md)
 - [§ 11 Bußgeldvorschriften](0011.md)
 - [§ 12 Strafvorschriften](0012.md)
 - [§ 13 Übergangsvorschriften](0013.md)

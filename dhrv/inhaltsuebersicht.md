@@ -37,9 +37,9 @@ und Datenübermittlung
 | § 26 | Nutzungsvereinbarung |
 | § 27 | Publikationsgrundsätze |
 Abschnitt 5
-Gebührenregelung
-| § 28 | Gebührenerhebung |
-| § 29 | Gebührenbemessung, Gebühren in besonderen Fällen |
+(weggefallen)
+| § 28 | (weggefallen) |
+| § 29 | (weggefallen) |
 Abschnitt 6
 Qualitätskontrolle und
 Qualitätssicherung der Daten des Registers

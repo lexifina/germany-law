@@ -65,7 +65,7 @@
 
 ## Abschnitt 5 Gebühren, Straf-, Bußgeld- und Ordnungsgeldbestimmungen sowie Übergangsvorschriften
 
-- [§ 27 Gebühren und Auslagen](0027.md)
+- [§ 27 (weggefallen)](0027.md)
 - [§ 28 Strafvorschriften](0028.md)
 - [§ 29 Allgemeine Bußgeldvorschriften](0029.md)
 - [§ 30 Bußgeldvorschriften zur Rechnungslegung](0030.md)

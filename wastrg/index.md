@@ -84,7 +84,7 @@ und Betrieb der bundeseigenen Schifffahrtsanlagen
 - [§ 44 Enteignung für Zwecke der Bundeswasserstraßen](0044.md)
 - [§ 45 Zuständigkeiten](0045.md)
 - [§ 46 Rechtsverordnungen](0046.md)
-- [§ 47 Gebühren- und Auslagenregelung](0047.md)
+- [§ 47 (weggefallen)](0047.md)
 - [§ 48 Anforderungen der Sicherheit und Ordnung](0048.md)
 
 ## Abschnitt 11 Bußgeldvorschriften, Schlussvorschriften

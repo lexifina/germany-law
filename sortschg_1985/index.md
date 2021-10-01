@@ -47,7 +47,7 @@ Bundessortenamt
 - [§ 30 Änderung der Sortenbezeichnung](0030.md)
 - [§ 31 Beendigung des Sortenschutzes](0031.md)
 - [§ 32 Ermächtigung zum Erlaß von Verfahrensvorschriften](0032.md)
-- [§ 33 Gebühren und Auslagen](0033.md)
+- [§ 33 Gebühren](0033.md)
 
 ## Abschnitt 4 Verfahren vor Gericht
 

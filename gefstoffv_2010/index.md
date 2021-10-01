@@ -29,6 +29,17 @@
 - [§ 14 Unterrichtung und Unterweisung der Beschäftigten](0014.md)
 - [§ 15 Zusammenarbeit verschiedener Firmen](0015.md)
 
+## Abschnitt 4a Anforderungen an die Verwendung von Biozid-Produkten einschließlich der Begasung sowie an Begasungen mit Pflanzenschutzmitteln
+
+- [§ 15a Verwendungsbeschränkungen](0015a.md)
+- [§ 15b Allgemeine Anforderungen an die Verwendung von Biozid-Produkten](0015b.md)
+- [§ 15c Besondere Anforderungen an die Verwendung bestimmter Biozid-Produkte](0015c.md)
+- [§ 15d Besondere Anforderungen bei Begasungen](0015d.md)
+- [§ 15e Ergänzende Dokumentationspflichten](0015e.md)
+- [§ 15f Anforderungen an den Umgang mit Transporteinheiten](0015f.md)
+- [§ 15g Besondere Anforderungen an Begasungen auf Schiffen](0015g.md)
+- [§ 15h Ausnahmen von Abschnitt 4a](0015h.md)
+
 ## Abschnitt 5 Verbote und Beschränkungen
 
 - [§ 16 Herstellungs- und Verwendungsbeschränkungen](0016.md)
@@ -38,15 +49,16 @@
 
 - [§ 18 Unterrichtung der Behörde](0018.md)
 - [§ 19 Behördliche Ausnahmen, Anordnungen und Befugnisse](0019.md)
+- [§ 19a Anerkennung ausländischer Qualifikationen](0019a.md)
 - [§ 20 Ausschuss für Gefahrstoffe](0020.md)
 
-## Abschnitt 7 Ordnungswidrigkeiten und Straftaten
+## Abschnitt 7 Ordnungswidrigkeiten, Straftaten und Übergangsvorschriften
 
 - [§ 21 Chemikaliengesetz – Anzeigen](0021.md)
 - [§ 22 Chemikaliengesetz – Tätigkeiten](0022.md)
 - [§ 23 (weggefallen)](0023.md)
 - [§ 24 Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen](0024.md)
-- [§ 25 Übergangsvorschrift](0025.md)
-- [Anhang I (zu § 8 Absatz 8, § 11 Absatz 3)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten](anhang-i.md)
+- [§ 25 Übergangsvorschriften](0025.md)
+- [Anhang I (zu § 8 Absatz 8, § 11 Absatz 3, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten](anhang-i.md)
 - [Anhang II (zu § 16 Absatz 2)Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Gemische und Erzeugnisse](anhang-ii.md)
 - [Anhang III (zu § 11 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden](anhang-iii.md)

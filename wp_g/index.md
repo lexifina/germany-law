@@ -79,7 +79,7 @@ eines Angebots](0037.md)
 - [§ 44 Veröffentlichungsrecht der Bundesanstalt](0044.md)
 - [§ 45 Mitteilungen an die Bundesanstalt](0045.md)
 - [§ 46 Zwangsmittel](0046.md)
-- [§ 47 Gebühren und Auslagen](0047.md)
+- [§ 47 (weggefallen)](0047.md)
 
 ## Abschnitt 7 Rechtsmittel
 

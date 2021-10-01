@@ -7,7 +7,7 @@
 - [§ 5 Rechte und Pflichten des Funkamateurs](0005.md)
 - [§ 6 Technische und betriebliche Rahmenbedingungen](0006.md)
 - [§ 7 Schutzanforderungen](0007.md)
-- [§ 8 Gebühren und Auslagen](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 9 Bußgeldvorschriften](0009.md)
 - [§ 10 Zuständigkeiten](0010.md)
 - [§ 11 Betriebseinschränkungen und -verbote](0011.md)

@@ -38,7 +38,7 @@
 |  | Gemeinsame Vorschriften |
 | § 21 | Ordnungswidrigkeiten |
 | § 22 | Zuständige Behörde |
-| § 23 | Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz |
+| § 23 | (weggefallen) |
 | § 24 | Inkrafttreten |
 | Anhang 1 | Berechnungsformeln |
 | Anhang 2 | Vergleichbarkeit von Anlagen |

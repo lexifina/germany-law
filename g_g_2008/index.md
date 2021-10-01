@@ -23,7 +23,7 @@
 
 - [§ 13 Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung (EG) Nr. 111/2005](0013.md)
 - [§ 14 Registrierung](0014.md)
-- [§ 15 Gebühren und Auslagen](0015.md)
+- [§ 15 (weggefallen)](0015.md)
 
 ## Abschnitt 4 Überwachung
 

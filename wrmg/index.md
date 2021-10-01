@@ -15,5 +15,5 @@
 - [§ 13 Überwachung](0013.md)
 - [§ 14 Behördliche Anordnungen](0014.md)
 - [§ 15 Bußgeldvorschriften](0015.md)
-- [§ 16 Gebühren und Auslagen](0016.md)
+- [§ 16 (weggefallen)](0016.md)
 - [§ 17 (Inkrafttreten, Außerkrafttreten)](0017.md)

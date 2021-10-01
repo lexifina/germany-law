@@ -53,7 +53,7 @@ Zulagen in festen Monatsbeträgen
 | § 18 | Entstehen des Anspruchs |
 | § 19 | Weitergewährung bei Unterbrechung der zulageberechtigenden Tätigkeit |
 | § 20 | (weggefallen) |
-| § 21 | Zulage für besondere Dienste in der Gesundheits- und Krankenpflege |
+| § 21 | Zulage für allgemeine und besondere Dienste in der Gesundheits- und Krankenpflege |
 | § 21a | Zulage für die Behandlung und Pflege bei schweren Infektionskrankheiten |
 | § 22 | Zulage für besondere Einsätze |
 | § 22a | Zulage für Polizeivollzugsbeamte als fliegendes Personal |

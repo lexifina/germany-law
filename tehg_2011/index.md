@@ -36,7 +36,7 @@
 - [§ 19 Zuständigkeiten](0019.md)
 - [§ 20 Überwachung, Datenübermittlung](0020.md)
 - [§ 21 Prüfstellen](0021.md)
-- [§ 22 Gebühren für individuell zurechenbare öffentliche Leistungen von Bundesbehörden](0022.md)
+- [§ 22 (weggefallen)](0022.md)
 - [§ 23 Elektronische Kommunikation](0023.md)
 - [§ 24 Einheitliche Anlage](0024.md)
 - [§ 25 Änderung der Identität oder Rechtsform des Betreibers](0025.md)

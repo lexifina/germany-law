@@ -36,7 +36,7 @@ Bundesgebiets
 - [§ 11 Benennung eines Bevollmächtigten](0011.md)
 - [§ 12 Mengenbeobachtung](0012.md)
 - [§ 13 Rechtsverordnung zu Zustimmungsvoraussetzungen](0013.md)
-- [§ 14 Gebühren und Auslagen](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 - [§ 15 Bußgeldvorschriften](0015.md)
 - [Anhang Bericht der Konferenz der Vertragsparteien über ihre siebte Tagung in
 Marrakesch vom 29. Oktober bis 10. November 2001

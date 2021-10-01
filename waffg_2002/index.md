@@ -134,7 +134,7 @@ Verwaltungsvorschriften
 
 - [§ 58 Altbesitz; Übergangsvorschriften](0058.md)
 - [§ 59 Verwaltungsvorschriften](0059.md)
-- [§ 60 Übergangsvorschrift zur Kostenverordnung](0060.md)
+- [§ 60 (weggefallen)](0060.md)
 - [§ 60a Übergangsvorschrift zu den Waffenbüchern](0060a.md)
 - [Anlage 1 (zu § 1 Abs. 4)Begriffsbestimmungen](anlage-1.md)
 - [Anlage 2 (zu § 2 Abs. 2 bis 4)Waffenliste](anlage-2.md)

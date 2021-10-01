@@ -7,7 +7,7 @@
 - [§ 4 Zusammenarbeit mit anderen Behörden](0004.md)
 - [§ 5 Akkreditierungsbeirat](0005.md)
 - [§ 6 Akkreditierungssymbol](0006.md)
-- [§ 7 Vorschuss auf Gebühren](0007.md)
+- [§ 7 (weggefallen)](0007.md)
 - [§ 8 Beleihung oder Errichtung](0008.md)
 - [§ 9 Aufsicht](0009.md)
 - [§ 10 Voraussetzungen und Durchführung der Beleihung](0010.md)

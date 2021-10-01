@@ -81,7 +81,7 @@ Presse und Rundfunk
 
 ## Fünfter Abschnitt Schlussvorschriften
 
-- [§ 42 Gebühren und Auslagen](0042.md)
+- [§ 42 (weggefallen)](0042.md)
 - [§ 42a Gerichtsstand](0042a.md)
 - [§ 43 Vorrang dieses Gesetzes](0043.md)
 - [§ 44 Strafvorschriften](0044.md)

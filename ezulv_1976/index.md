@@ -1,6 +1,7 @@
 # Verordnung über die Gewährung von Erschwerniszulagen
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
+- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
@@ -58,7 +59,7 @@
 - [§ 18 Entstehen des Anspruchs](0018.md)
 - [§ 19 Weitergewährung bei Unterbrechung der zulageberechtigenden Tätigkeit](0019.md)
 - [§ 20 (weggefallen)](0020.md)
-- [§ 21 Zulage für besondere Dienste in der Gesundheits- und Krankenpflege](0021.md)
+- [§ 21 Zulage für allgemeine und besondere Dienste in der Gesundheits- und Krankenpflege](0021.md)
 - [§ 21a Zulage für die Behandlung und Pflege bei schweren Infektionskrankheiten](0021a.md)
 - [§ 22 Zulage für besondere Einsätze](0022.md)
 - [§ 22a Zulage für Polizeivollzugsbeamte als fliegendes Personal](0022a.md)

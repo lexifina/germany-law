@@ -9,7 +9,7 @@
 
 ## Art 2 und 3
 
-- [§ 4 Gebühren und Auslagen](0004.md)
+- [§ 4 (weggefallen)](0004.md)
 
 ## Art 4 Berlin-Klausel
 

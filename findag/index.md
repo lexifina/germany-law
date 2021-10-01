@@ -42,7 +42,7 @@ Deckung des Verwaltungsaufwands
 
 ## Fünfter Abschnitt Gebühren und Umlage, Zwangsmittel
 
-- [§ 14 Gebühren für individuell zurechenbare öffentliche Leistungen](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 - [§ 15 Gesonderte Erstattung; Verordnungsermächtigung](0015.md)
 - [§ 16 Umlage](0016.md)
 - [§ 16a Umlagefähige Kosten; Umlagejahr](0016a.md)
@@ -69,7 +69,7 @@ Deckung des Verwaltungsaufwands
 ## Sechster Abschnitt Finanzierung gesonderter Aufgaben
 
 - [§ 17a Finanzierung gesonderter Aufgaben](0017a.md)
-- [§ 17b Gebühren für gesonderte individuell zurechenbare öffentliche Leistungen](0017b.md)
+- [§ 17b (weggefallen)](0017b.md)
 - [§ 17c Gesonderte Erstattung bei gesonderten Prüfungen](0017c.md)
 - [§ 17d Gesonderte Umlage](0017d.md)
 

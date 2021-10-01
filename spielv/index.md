@@ -41,7 +41,7 @@
 - [§ 14](0014.md)
 - [§ 15](0015.md)
 - [§ 16](0016.md)
-- [§ 17](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 
 ## V. Erteilung von Unbedenklichkeitsbescheinigungen für
 gewerbsmäßig betriebene Ausspielungen

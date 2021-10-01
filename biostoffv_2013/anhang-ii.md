@@ -13,7 +13,7 @@
 | 9.Jeder Schutzstufenbereich muss über einen Autoklaven oder eine gleichwertige Sterilisationseinheit verfügen. | empfohlen | verbindlich, wenn die Übertragung über die Luft erfolgen kann | verbindlich |
 | 10.Kontaminierte Prozessabluft darf nicht in den Arbeitsbereich abgegeben werden. | verbindlich | verbindlich | verbindlich |
 | 11.Wirksame Desinfektions- und Inaktivierungsverfahren sind festzulegen. | verbindlich | verbindlich | verbindlich |
-| 12.Die jeweils genannten Flächen müssen wasserundurchlässig und leicht zu reinigen sein. | Werkbänke | Werkbänke und Fußböden | Werkbänke, Wände, Fußböden und Decken |
+| 12.Die jeweils genannten Flächen müssen wasserundurchlässig und leicht zu reinigen sein. | Werkbänke,Fußböden | Werkbänke, Fußböden sowie andere Flächen, die aufgrund der Gefährdungsbeurteilung festzulegen sind | Werkbänke, Wände, Fußböden und Decken |
 | 13.Oberflächen müssen beständig gegen die verwendeten Chemikalien und Desinfektionsmittel sein. | verbindlich | verbindlich | verbindlich |
 | 14.Dekontaminations- und Wascheinrichtungen für die Beschäftigten müssen vorhanden sein. | verbindlich | verbindlich | verbindlich |
 | 15.Beschäftigte müssen vor dem Verlassen des Schutzstufenbereichs duschen. | nein | empfohlen | verbindlich |

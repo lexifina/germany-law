@@ -96,7 +96,7 @@
 
 ### Unterabschnitt 4 Gebühren und Auslagen
 
-- [§ 51 Gebühren und Auslagen](0051.md)
+- [§ 51 (weggefallen)](0051.md)
 
 ### Unterabschnitt 5 Rechtsbehelfe
 

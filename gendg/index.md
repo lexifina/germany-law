@@ -42,7 +42,7 @@
 ## Abschnitt 6 Allgemein anerkannter Stand der Wissenschaft und Technik
 
 - [§ 23 Richtlinien](0023.md)
-- [§ 24 Gebühren und Auslagen](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 
 ## Abschnitt 7 Straf- und Bußgeldvorschriften
 

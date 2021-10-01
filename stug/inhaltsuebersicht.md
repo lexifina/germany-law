@@ -72,7 +72,7 @@
 | Fünfter Abschnitt |
 | Schlussvorschriften |
 |  |  |
-| § 42 | Gebühren und Auslagen |  |
+| § 42 | (weggefallen) |  |
 | § 42a | Gerichtsstand |  |
 | § 43 | Vorrang dieses Gesetzes |  |
 | § 44 | Strafvorschriften |  |

@@ -14,7 +14,7 @@
 - [§ 11 Befugnisse der zuständigen Behörde](0011.md)
 - [§ 12 Registerführung, Datenübermittlung](0012.md)
 - [§ 13 Rechtsverordnungen in bestimmten Fällen](0013.md)
-- [§ 14 Gebühren und Auslagen](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 - [§ 15 Außenverkehr](0015.md)
 - [§ 16 Bußgeldvorschriften](0016.md)
 - [§ 17 Einziehung](0017.md)

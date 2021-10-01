@@ -2,12 +2,9 @@
 
 - [Eingangsformel](eingangsformel.md)
 
-## Abschnitt 1 Gebührenerhebung
+## Abschnitt 1 (weggefallen)
 
-- [§ 1 Gebühren](0001.md)
-- [§ 2 Gebührentatbestände; Höhe der Gebühren](0002.md)
-- [§ 3 Gebührenerhebung in besonderen Fällen](0003.md)
-- [§ 4 (weggefallen)](0004.md)
+- [(XXXX) §§ 1 bis 4 (weggefallen)](xxxx-1-bis-4.md)
 
 ## Abschnitt 2 Umlage
 
@@ -19,4 +16,5 @@
 - [§ 13a (weggefallen)](0013a.md)
 - [§ 14 Aufhebung von Rechtsvorschriften](0014.md)
 - [§ 15 Inkrafttreten](0015.md)
-- [Anlage (zu § 2 Abs. 1)Gebührenverzeichnis](anlage.md)
+- [Anlage (weggefallen)](anlage.md)
+- [Anlage (zu § 2 Abs. 1)Gebührenverzeichnis](anlage-2.md)

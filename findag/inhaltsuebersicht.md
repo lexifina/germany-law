@@ -35,7 +35,7 @@
 | § 13 | Deckung der Kosten der Aufsicht |
 | Fünfter Abschnitt |
 |  | Gebühren und Umlage, Zwangsmittel, Bekanntgabe von Allgemeinverfügungen |
-| § 14 | Gebühren für individuell zurechenbare öffentliche Leistungen |
+| § 14 | (weggefallen) |
 | § 15 | Gesonderte Erstattung; Verordnungsermächtigung |
 | § 16 | Umlage |
 | § 16a | Umlagefähige Kosten; Umlagejahr |
@@ -61,7 +61,7 @@
 | Sechster Abschnitt |
 |  | Finanzierung gesonderter Aufgaben |
 | § 17a | Finanzierung gesonderter Aufgaben |
-| § 17b | Gebühren für gesonderte individuell zurechenbare öffentliche Leistungen |
+| § 17b | (weggefallen) |
 | § 17c | Gesonderte Erstattung bei gesonderten Prüfungen |
 | § 17d | Gesonderte Umlage |
 | Siebenter Abschnitt |

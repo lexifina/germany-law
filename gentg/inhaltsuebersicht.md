@@ -42,7 +42,7 @@
 | § 21 | Mitteilungspflichten |
 | § 22 | Andere behördliche Entscheidungen |
 | § 23 | Ausschluss von privatrechtlichen Abwehransprüchen |
-| § 24 | Gebühren, Auslagen und Aufwendungen |
+| § 24 | (weggefallen) |
 | § 25 | Überwachung, Auskunfts-, Duldungspflichten |
 | § 26 | Behördliche Anordnungen |
 | § 27 | Erlöschen der Genehmigung, Unwirksamwerden der Anmeldung |

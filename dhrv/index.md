@@ -42,10 +42,10 @@
 - [§ 26 Nutzungsvereinbarung](0026.md)
 - [§ 27 Publikationsgrundsätze](0027.md)
 
-## Abschnitt 5 Gebührenregelung
+## Abschnitt 5 (weggefallen)
 
-- [§ 28 Gebührenerhebung](0028.md)
-- [§ 29 Gebührenbemessung, Gebühren in besonderen Fällen](0029.md)
+- [§ 28 (weggefallen)](0028.md)
+- [§ 29 (weggefallen)](0029.md)
 
 ## Abschnitt 6 Qualitätskontrolle und Qualitätssicherung der Daten des Registers
 

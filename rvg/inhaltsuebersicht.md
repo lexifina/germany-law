@@ -6,7 +6,7 @@
 | § 2 | Höhe der Vergütung |
 | § 3 | Gebühren in sozialrechtlichen Angelegenheiten |
 | § 3a | Vergütungsvereinbarung |
-| § 4 | Erfolgsunabhängige Vergütung |
+| § 4 | Unterschreitung der gesetzlichen Vergütung |
 | § 4a | Erfolgshonorar |
 | § 4b | Fehlerhafte Vergütungsvereinbarung |
 | § 5 | Vergütung für Tätigkeiten von Vertretern des Rechtsanwalts |

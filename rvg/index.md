@@ -8,7 +8,7 @@
 - [§ 2 Höhe der Vergütung](0002.md)
 - [§ 3 Gebühren in sozialrechtlichen Angelegenheiten](0003.md)
 - [§ 3a Vergütungsvereinbarung](0003a.md)
-- [§ 4 Erfolgsunabhängige Vergütung](0004.md)
+- [§ 4 Unterschreitung der gesetzlichen Vergütung](0004.md)
 - [§ 4a Erfolgshonorar](0004a.md)
 - [§ 4b Fehlerhafte Vergütungsvereinbarung](0004b.md)
 - [§ 5 Vergütung für Tätigkeiten von Vertretern des Rechtsanwalts](0005.md)

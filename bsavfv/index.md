@@ -22,17 +22,13 @@ nicht zugelassener Sorten
 
 - [§ 11](0011.md)
 
-## Abschnitt 3 Gebühren und Auslagen
+## Abschnitt 3 (weggefallen)
 
-- [§ 12 Grundvorschrift](0012.md)
-- [§ 13 Prüfungsgebühren](0013.md)
-- [§ 14 Jahresgebühren, Überwachungsgebühren](0014.md)
+- [(XXXX) §§ 12 bis 14 (weggefallen)](xxxx-12-bis-14.md)
 
 ## Abschnitt 4 Schlussvorschriften
 
 - [§ 15 Verkehr mit anderen Stellen](0015.md)
 - [§ 16 Übergangsregelung](0016.md)
 - [§ 17](0017.md)
-- [Anlage 1 (zu § 1b Abs. 1)](anlage-1.md)
-- [Anlage 2 (zu §§ 12 bis 14)Gebührenverzeichnis](anlage-2.md)
-- [Anlage 3 (zu § 12 Absatz 1 und § 13 Absatz 6)Gebührenverzeichnis für Erhaltungssorten](anlage-3.md)
+- [Anlage (zu § 1b Absatz 1)](anlage.md)

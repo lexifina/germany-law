@@ -59,7 +59,7 @@
 | § 30 | Rücknahme, Widerruf, Ruhen |
 | § 31 | Erlöschen, Verlängerung |
 | § 32 | Staatliche Chargenprüfung |
-| § 33 | Gebühren und Auslagen |
+| § 33 | Aufwendungsersatz und Entgelte |
 | § 34 | Information der Öffentlichkeit |
 | § 35 | Ermächtigungen zur Zulassung und Freistellung |
 | § 36 | Ermächtigung für Standardzulassungen |
@@ -282,7 +282,7 @@
 |  | Neunzehnter Unterabschnitt |
 |  | Übergangsvorschrift |
 | § 147 | Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften |
-|  |  |
+|  |
 |  | Anlage (zu § 6) |
 |  |  |
 |  | Anhang (weggefallen) |

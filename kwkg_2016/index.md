@@ -72,7 +72,7 @@
 - [§ 31 Herkunftsnachweis für Strom aus hocheffizienter Kraft-Wärme-Kopplung](0031.md)
 - [§ 31a Weitere Aufgaben des Bundesamtes für Wirtschaft und Ausfuhrkontrolle](0031a.md)
 - [§ 31b Weitere Aufgaben der Bundesnetzagentur](0031b.md)
-- [§ 32 Gebühren und Auslagen](0032.md)
+- [§ 32 (weggefallen)](0032.md)
 - [§ 32a Clearingstelle](0032a.md)
 - [§ 33 Verordnungsermächtigungen](0033.md)
 - [§ 33a Verordnungsermächtigungen zur Ausschreibung der Zuschlagzahlungen für KWK-Anlagen](0033a.md)

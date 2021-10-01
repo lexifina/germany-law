@@ -27,6 +27,7 @@
 Regelenergie](0009.md)
 - [§ 10 Verlustenergie](0010.md)
 - [§ 11 Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz](0011.md)
+- [§ 11a Bilanzkreis für den energetischen und bilanziellen Ausgleich von Systemsicherheitsmaßnahmen](0011a.md)
 
 ## Teil 3 Zugang zu Elektrizitätsverteilernetzen
 

@@ -88,7 +88,7 @@
 
 - [§ 46 Zugänglichkeit der DIN-Normen](0046.md)
 - [§ 47 Behördliches Verfahren](0047.md)
-- [§ 48 Erhebung von Gebühren und Auslagen](0048.md)
+- [§ 48 (weggefallen)](0048.md)
 - [§ 49 Aufbewahrung von Unterlagen, Umgang mit Informationen](0049.md)
 - [§ 50 Datenübermittlung](0050.md)
 - [§ 51 Bericht](0051.md)
@@ -96,4 +96,4 @@
 ## Teil 5 Schlussbestimmungen
 
 - [§ 52 Inkrafttreten](0052.md)
-- [Anlage 1 (zu § 48)Gebührenverzeichnis](anlage-1.md)
+- [Anlage 1 (weggefallen)](anlage-1.md)

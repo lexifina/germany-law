@@ -98,7 +98,7 @@
 ### Abschnitt 5 Auskunfts- und Zutrittsrecht; Gebühren und Auslagen
 
 - [§ 52 Auskunfts- und Zutrittsrecht](0052.md)
-- [§ 53 Gebühren und Auslagen; Ermächtigung zum Erlass von Rechtsverordnungen](0053.md)
+- [§ 53 (weggefallen)](0053.md)
 
 ### Abschnitt 6 Ermächtigungen
 

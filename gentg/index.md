@@ -48,7 +48,7 @@ Inverkehrbringen](0015.md)
 - [§ 22 Andere behördliche Entscheidungen](0022.md)
 - [§ 23 Ausschluß von privatrechtlichen
 Abwehransprüchen](0023.md)
-- [§ 24 Gebühren, Auslagen und Aufwendungen](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 - [§ 25 Überwachung, Auskunfts-, Duldungspflichten](0025.md)
 - [§ 26 Behördliche Anordnungen](0026.md)
 - [§ 27 Erlöschen der Genehmigung, Unwirksamwerden der Anmeldung](0027.md)

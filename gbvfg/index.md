@@ -186,8 +186,7 @@ Rentenschuldbriefe
 
 ## Abschnitt XV Vorschriften über den elektronischen Rechtsverkehr und die elektronische Grundakte
 
-- [§ 94](0094.md)
-- [§ 94 Grundsatz](0094-2.md)
+- [§ 94 Grundsatz](0094.md)
 - [§ 95 Allgemeine technische und organisatorische Maßgaben](0095.md)
 - [§ 96 Anlegung und Führung der elektronischen Grundakte](0096.md)
 - [§ 97 Übertragung von Papierdokumenten in die elektronische Form](0097.md)
