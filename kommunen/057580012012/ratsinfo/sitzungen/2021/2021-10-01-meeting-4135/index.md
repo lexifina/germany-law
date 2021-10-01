@@ -1,0 +1,60 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2021-10-01T17:00:00+02:00
+- Ende: 2021-10-01T19:08:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeWxz82VSiCzjtVrEj8o0Mg
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4135
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRlHcmyLpu9_Gs8gFQhEQBw7iEn9mtv2UShpztiX3xmc/Einladung_Rat_01.10.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSqBYplyG2FGOdUzxvUvKzJybaP2fhdjpyCfio23WRzw/Oeffentliche_Niederschrift_Rat_01.10.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 25.06.2021
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Anregungen gemäß § 24 GO NRW
+- TOP A.4a: Anregung nach § 24 GO NRW: Förderung des Radverkehrs in Herford – Auch im Außenbereich! „Umwandlung der Alte Heerstraße in eine Fahrradstraße“ - Mit einer Enthaltung wird einstimmig der Beschluss gefasst, die Bürgeranregung an den Verkehrsausschuss zur weiteren Behandlung zu überweisen.
+- TOP A.5: Bestellung der 2. stellvertretenden Schriftführung für die Sitzungen des Rates - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6: Steuerung von Drittorganisationen:
+- TOP A.6a: Westfalen Weser Energie Gruppe: Gründung der Gesellschaft „Mindener Energiewende“ als Tochtergesellschaft der Energieservice Westfalen Weser GmbH und Ausgliederung des Wärmebereiches Minden auf die neue Gesellschaft - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6b: Westfalen Weser Energie Gruppe: Veräußerung der von der Energieservice Westfalen Weser GmbH gehaltenen Anteile an der Nahwärme Bad Oeynhausen Löhne GmbH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6c: Westfalen Weser Energie Gruppe: Beteiligung der Westfalen Netz GmbH an der Energieagentur Schaumburg gGmbH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6d: Bericht aus dem Beteiligungscontrolling: Jahresprognose 2021 der Beteiligungsunternehmen zum 30.06.2021
+- TOP A.7: Gremienzuständigkeit für Kulturangelegenheiten in der Hansestadt Herford
+- TOP A.7a: Änderung Zuständigkeitskatalog städtische Fachausschüsse bzgl. Kultur - Bei mehreren Enthaltungen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.7b: Antrag der Fraktion Bündnis'90 / DIE GRÜNEN: Einrichtung eines Kulturausschusses
+- TOP A.7c: Antrag der FDP-Fraktion: Bildung eines Kulturausschusses
+- TOP A.8: Gremienbesetzungen
+- TOP A.8a: Nachbesetzungen im Seniorenbeirat - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8b: Wahl der entsendungsberechtigten Mitglieder in die nach § 7 der Satzung festgelegten Ausschüsse/ Gremien - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8c: Antrag der BfH-Fraktion: Gremienum-/-nachbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: Genehmigung von überplanmäßigen Auszahlungen für verschiedene Gebäude auf dem Bildungscampus - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10: Umsetzungsstand zum Haushaltsbegleitbeschluss vom 07.02.2020
+- TOP A.11: 2. Situationsbericht zur Haushaltswirtschaft 2021
+- TOP A.12: § 2b Umsatzsteuergesetz
+- TOP A.13: Auswirkungen der Covid-19-Pandemie auf den städtischen Haushalt - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Erlass von Gebühren aus Sondernutzung aufgrund der weltweiten Verbreitung des Corona-Virus SARS-CoV-2 über den 31.10.2021 hinaus bis zum 31.12.2021 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Fortsetzung der unterstützenden Maßnahmen gegen die CORONA-bedingten negativen Auswirkungen im 2. Quartal 2021 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Wohnungsmarktbericht 2019/2020 der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Brandschutzbedarfsplan; hier: Ausschreibung und Besetzung von Stellen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Neufassung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Hansestadt Herford mit Wirkung vom 01.01.2022
+- TOP A.19: Bebauungsplan Nr. 10.21 "Auf der Bülte", Änderung Nr. 1.21 hier: Satzungsbeschluss - Einstimmig, bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Bebauungsplan Nr. 9.20c "Lübberbruch/Werregärten" Änderung 4.21 Hier: Anordnung der Veränderungssperre Nr. 51 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Teilaufhebung des Durchführungsplans Nr. 6.24 "Ahmser Straße/ Lockhauser Straße, Teil 1" hier: Satzungsbeschluss - Einstimmig, bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.22: Bebauungsplan Nr. 11.38 "Nahversorgungszentrum Salzufler Straße" hier: Satzungsbeschluss - Bei mehreren Enthaltungen wird folgender Beschluss einstimmig gefasst:
+- TOP A.23: Flächennutzungsplanänderung Nr. 2.20 „Nahversorgungszentrum Salzufler Straße“ Hier: Feststellungsbeschluss - Bei mehreren Enthaltungen wird folgender Beschluss einstimmig gefasst:
+- TOP A.24: Abrechnung von Straßenbaumaßnahmen nach dem Kommunalabgabengesetz (KAG) hier: 9. Satzung zur Änderung der Straßenbaubeitragssatzung der Hansestadt Herford - Mit zwei Gegenstimmen und drei Enthaltungen wird mehrheitlich folgender Beschluss gefasst:
+- TOP A.25: Abrechnung von Straßenbaumaßnahmen nach dem Baugesetzbuch (BauGB) hier: 8. Satzung zur Änderung der Erschließungsbeitragssatzung - Mit zwei Gegenstimmen und zwei Enthaltungen wird mehrheitlich folgender Beschluss gefasst:
+- TOP A.26: IAB Immobilien- und Abwasser-Betrieb Herford: a) Neufassung der Betriebssatzung b) Änderungen des Zuständigkeitskatalogs städtischer Fachausschüsse - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.27: Änderung der Geschäftsordnung des Rates der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.28: Antrag der Fraktion DIE LINKE: Pfandringe - Mit zwei JA-Stimmen wird der Antrag mehrheitlich abgelehnt.
+- TOP A.29: Antrag der BfH-Fraktion: Errichtung eines Friedewalds in Elverdissen
+- TOP A.30: Archäologisches Fenster am Münster (AFaM); Sachstandsbericht
+- TOP A.31: Regiopolregion Bielefeld: Sachstandsbericht
+- TOP A.32: Mitteilungen
