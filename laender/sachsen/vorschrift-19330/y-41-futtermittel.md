@@ -1,0 +1,22 @@
+41 Futtermittel
+Laufende Nummer | Tarifstelle | Gegenstand | Gebühren | Schlichthoheitliche Leistung
+Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche Leis- tung
+41 |  | Futtermittel |  | 
+ |  | Verordnung (EU) 2017/625 (Verordnung über amtliche Kontrollen) |  | 
+ | 1. | Allgemeine Überwachungs- und Monitoringmaßnahmen aufgrund von futtermittelrechtlichen Vorschriften | kostenfrei | 
+ | 2. | Zulassung von Betrieben nach Artikel 10 in Verbindung mit Artikel 13 Abs. 1 der Verordnung (EG) Nr. 183/2005, nach der Verordnung (EG) Nr. 141/2007, nach Artikel 8 Abs. 2 Satz 3 der Verordnung (EG) Nr. 767/2009, nach der Verordnung (EU) Nr. 225/2012, nach Artikel 6 der Verordnung (EU) 2015/786 oder nach § 18 Abs. 2, 3 Satz 1 und Abs. 4 Satz 1 der Futtermittelverordnung | 850 bis 1 750 je Betriebsstätte | 
+ | 3. | Registrierung von Betrieben nach § 21 Abs. 1 der Futtermittelverordnung oder Erteilung einer beantragten Kennnummer nach Artikel 17 Abs. 1 Buchst. c der Verordnung (EG) Nr. 767/2009 | 145 bis 650 je Betriebsstätte | 
+ | 4. | Durchführung zusätzlicher amtlicher Kontrollen im Rahmen der Futtermittelüberwachung nach Artikel 79 Abs. 2 Buchst. c der Verordnung über amtliche Kontrollen bei Verstößen gegen das Futtermittelrecht | 67,36 bis 336,80 | 
+ | 5. | Zulassung nach Anhang IV Kapitel III Abschnitt B Nr. 1 der Verordnung (EG) Nr. 999/2001 (Herstellung von Mischfuttermitteln für Nichtwiederkäuer) | 165 bis 300 | 
+ | 6. | Zulassung nach Anhang IV Kapitel III Abschnitt B Nr. 2 der Verordnung (EG) Nr. 999/2001 (Herstellung von Mischfuttermitteln in Betrieben, die auch Nichtwiederkäuerfutter herstellen) | 165 bis 300 | 
+ | 7. | Zulassung nach Anhang IV Kapitel III Abschnitt D Nr. 2 der Verordnung (EG) Nr. 999/2001 (Verwendung und Lagerung von Mischfuttermitteln) | 165 bis 300 | 
+ | 8. | Zulassung nach Anhang IV Kapitel IV Abschnitt D Buchst. d der Verordnung (EG) Nr. 999/2001 (Herstellung von Mischfuttermitteln für Tiere in Aquakultur) | 165 bis 300 | 
+ | 9. | Zulassung nach Anhang IV Kapitel IV Abschnitt D Buchst. d Ziffer i der Verordnung (EG) Nr. 999/2001 (Herstellung von Mischfuttermitteln für Tiere in Aquakultur in Betrieben, die auch Mischfuttermittel für andere Nutztiere, ausgenommen Pelztiere, herstellen) | 165 bis 300 | 
+ | 10. | Zulassung nach Anhang IV Kapitel IV Abschnitt E Buchst. d der Verordnung (EG) Nr. 999/2001 (Herstellung von Milchaustauschfuttermitteln für nicht abgesetzte Nutzwiederkäuer in Betrieben, die keine anderen Mischfuttermittel für Wiederkäuer herstellen) | 165 bis 300 | 
+ | 11. | Zulassung nach Anhang IV Kapitel IV Abschnitt E Buchst. d Unterabsatz 2 der Verordnung (EG) Nr. 999/2001 (Herstellung anderer Mischfuttermittel für Wiederkäuer in Betrieben, die auch Fischmehl enthaltende Milchaustauschfuttermittel für nicht abgesetzte Nutzwiederkäuer herstellen) | 165 bis 300 | 
+ | 12. | Zulassung nach Anhang IV Kapitel IV Abschnitt F Buchst. b der Verordnung (EG) Nr. 999/2001 (Herstellung von Mischfuttermitteln, die verarbeitetes tierisches Protein aus Nutzinsekten enthalten für Tiere in Aquakultur) | 165 bis 300 | 
+ | 13. | Zulassung nach Anhang IV Kapitel IV Abschnitt F Buchst. b Ziffer i der Verordnung (EG) Nr. 999/2001 (Herstellung von Mischfuttermitteln, die verarbeitetes tierisches Protein aus Nutzinsekten enthalten, für Tiere in Aquakultur in Betrieben, die auch Mischfuttermittel für andere Nutztiere, ausgenommen Pelztiere, herstellen) | 165 bis 300 | 
+ | 14. | Zulassung nach Anhang IV Kapitel V Abschnitt E Nr. 3 Buchst. b Ziffer ii der Verordnung (EG) Nr. 999/2001 (Herstellung von Mischfuttermitteln, die verarbeitetes tierisches Nichtwiederkäuer-Protein enthalten zur Ausfuhr aus der Union oder Herstellung von Mischfuttermitteln für die Ausfuhr aus der Union und Mischfuttermitteln für Tiere in Aquakultur, die in der Union in den Verkehr gebracht werden sollen) | 165 bis 300 | 
+ | 15. | Amtliche Probenahmen auf Anforderung von Futtermittelunternehmern gemäß Artikel 80 der Verordnung über amtliche Kontrollen | 33,68 bis 134,72 je Probe | 
+ | 16. | Ausstellung eines Sperrbescheides für das Inverkehrbringen und/oder Verfüttern eines unsicheren Futtermittels nach Artikel 17 Abs. 2 der Verordnung (EG) Nr. 178/2002 | 79,88 bis 147,24 | 
+ | 17. | Ausstellung einer Bescheinigung für den Export von Futtermitteln, Vormischungen oder Futtermittelzusatzstoffen nach Artikel 25 der Verordnung (EG) Nr. 183/2005 | 190 bis 1 100 | 
