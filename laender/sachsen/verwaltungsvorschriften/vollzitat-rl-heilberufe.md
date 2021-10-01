@@ -1,8 +1,8 @@
 # Vollzitat: RL Heilberufe
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18624.1
+- Datum: 2021-10-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18624.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2020
+01.10.2021
 bis
-30.09.2021
+30.06.2023
 
 RL Heilberufe
 
@@ -56,7 +56,7 @@ Verbünde zur Koordinierung der fachärztlichen Weiterbildung (Weiterbildungsver
 
 C
 
-Hebammen und Entbindungspfleger,
+Hebammen,
 
 
 D
@@ -75,7 +75,7 @@ Die Förderung erfolgt auf der Grundlage
 
 a)
 
-er allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere der §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, und
+der allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere der §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, und
 
 
 b)
@@ -510,12 +510,12 @@ Für den Nachweis der zweckentsprechenden sowie wirtschaftlichen und sparsamen V
 
 
 C
-Hebammen und Entbindungspfleger
+Hebammen
 
 I.
 Zuwendungszweck
 
-Zweck der Zuwendung ist es, die Versorgung der Versicherten mit Leistungen der Hebammenhilfe ergänzend zu befördern, drohende Lücken von Angeboten der Geburtshilfe im Freistaat Sachsen zu vermeiden und Hebammen sowie Entbindungspfleger1 zu unterstützen, um damit die Wahlfreiheit hinsichtlich des Geburtsortes gemäß § 24f des Fünften Buches Sozialgesetzbuch zu gewährleisten.
+Zweck der Zuwendung ist es, die Versorgung der Versicherten mit Leistungen der Hebammenhilfe ergänzend zu befördern, drohende Lücken von Angeboten der Geburtshilfe im Freistaat Sachsen zu vermeiden und Hebammen zu unterstützen, um damit die Wahlfreiheit hinsichtlich des Geburtsortes gemäß § 24f des Fünften Buches Sozialgesetzbuch zu gewährleisten.
 
 II.
 Gegenstand der Förderung
@@ -542,7 +542,17 @@ Zuwendungsempfänger sind:
 
 1.
 
-für den Fördergegenstand unter Ziffer II Nummer 1 Vereine oder Verbände der Hebammen, die landesweit tätig sind,
+für den Fördergegenstand unter Ziffer II Nummer 1 Vereine oder Verbände, die landesweit tätig sind und
+
+
+a)
+
+bei Antragsstellung einen Nachweis über die fachlichen Kompetenzen zum Betrieb der Koordinierungsstelle oder                         
+
+
+b)
+
+den Nachweis erbringen, dass der Betrieb der Koordinierungsstelle in Absprache mit dem Sächsischen Hebammenverband erfolgt,
 
 2.
 
@@ -700,7 +710,7 @@ Art und Umfang, Höhe der Zuwendung
 
 Die Zuwendung wird im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines nicht rückzahlbaren Zuschusses gewährt. Die Höhe der Zuwendung beträgt bis zu 85 Euro pro Monat. Zuwendungsfähig sind Ausgaben, die auf dem Schulvertrag zwischen der Altenpflegeschule und der angehenden Pflegekraft beziehungsweise deren gesetzlichem Vertreter beruhen.
 
-Abweichend von Nummer 1.2 Satz 1 der Verwaltungsvorschriften zu § 44 der Sächsischen Haushaltsordnung werden Zuwendungen auch bewilligt, wenn die Zuwendung im Einzelfall bis zu 2 500 Euro beträgt
+Abweichend von Nummer 1.2 Satz 1 der Verwaltungsvorschriften zu § 44 der Sächsischen Haushaltsordnung werden Zuwendungen auch bewilligt, wenn die Zuwendung im Einzelfall bis zu 2 500 Euro beträgt.
 
 VI.
 Verfahren
@@ -834,9 +844,9 @@ Fsn-Nr.: 5573-V20.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2020
+Fassung gültig ab:  1. Oktober 2021
 
-Fassung gültig bis: 30. September 2021
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -861,7 +871,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18624.1
+https://www.revosax.sachsen.de/vorschrift/18624.2
 Stand vom
 18.11.2026
 
