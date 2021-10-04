@@ -1,0 +1,77 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-10-04T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354851
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354851
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Neue Besetzung der Unterausschüsse durch die Fraktion Bündnis 90/ Die Grünen
+- TOP 1.2.: Bestimmung einer Wahlprüfungs- und Zählkommission (Optional)
+- TOP 1.3.: Wahl der/ des Unterausschussvorsitzenden durch den Bezirksausschuss Unterausschuss Kultur und Freizeit
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Vorschläge zum Lärmschutz
+- TOP 2.2.: Ampel in der Thalkirchner Straße/ Ecke Oberländerstraße
+- TOP 2.3.: Fragen zum Thema Straßenverkehr
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällungsantrag Oberländerstraße 36
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Tischtennisplatten am Dietramszeller Platz Antwort
+- TOP 4.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Änderung Parkregelung in der Plinganserstraße (PLG Margaretenplatz/ Untersendling)
+- TOP 5.2.2.: Parkraummanagement Erweiterung des Parklizenzgebiets Herzog-Ernst-Platz
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verkehrsrechtliche Anordnung Verlängerung und Änderung der Verkehrsrechtlichen Anordnung Isartal-/ Lagerhaus-/ Schäftlarnstr., HKW Süd
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Obstbäume auf der Stemmerwiese
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Neubewertung und Regelung des Rad-/ KFZ-Verkehrs an der Sortieranlage – insbesondere Thalkirchner Ecke Gotzinger Straße [Bürger*innenanliegen]
+- TOP 5.5.2.: Fahrradständer vor der Pizzeria Europa [Bürger*innenanliegen]
+- TOP 5.5.3.: Reutbergerstraße 10/ 12 Baumfällungen Verkehrskonzepte [Bürger*innenanliegen/ Ortstermin]
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Bestellung städtischer Leistung Bürger*innenvorschlag Errichtung von Tischtennisplatten außerhalb der Stemmerwiese/ Jägerwirtstraße
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kartoffelkombinat – der Verein e.V. Großstadtwildnis entdecken – bei dir ums Eck in Sendling! Am 07.11.2021 1.967,60€; Az. 0262.0-6-0353
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: BA-Info des Sozialreferates zur Wiedereinsetzung des "Verkürzten Verfahrens"
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Informationsschreiben über Stadtteilkulturfestivals
+- TOP 8.3.2.: Unveränderte Fortführung Only One
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 9.5.1.: Lastenrad – Information zu Umsetzungsmöglichkeiten
