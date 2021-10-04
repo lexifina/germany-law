@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-04T15:00:00+02:00
+- Ende: 2021-10-04T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23733
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23733
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Präsentatino Familiengrundschulzentren
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Schulversorgung in den Stadtteilen Worringen und Roggendorf/Thenhoven verbessern, temporäre Lösungen zur Entlastung der Grundschulen ermöglichen! - geändert beschlossen
+- TOP 2.2: VHS-Schwerpunkt „Klimawandel und Nachhaltigkeit“ im neuen Programm - geändert beschlossen
+- TOP -: Stellungnahme zum Antrag AN/2003/2021 der Fraktionen von Bündnis90/die GRÜNEN, CDU und Volt zum Thema VHS-Schwerpunkt „Klimawandel und Nachhaltigkeit" im neuen Programm - Kenntnis genommen
+- TOP 2.3: Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln - zurückgestellt
+- TOP 2.4: Mündlicher Dringlichkeitsantrag zu der Situation GGS - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Anfrage der CDU Fraktion, Bündnis 90/Die Grünen und Volt zu Veränderungen Schulanmeldezahlen 5. Klasse (2019/20) ./. 7. Klasse (2021/22) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.2.2: Anfrage der SPD Fraktion zur Weiterentwicklung der schulischen Inklusion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.2.3: Anfrage der FDP Fraktion zu Schuleingangsuntersuchungen - Sache ist erledigt
+- TOP 3.2.3.1: Beantwortung der Anfrage AN/1940/2021 der FDP-Fraktion zu Schuleingangsuntersuchungen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.2.4: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt zu TOP 2.3 Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.2.5: Beantwortung der Anfrage AN/1756/ zum Programm „Gute Schule 2020“ neu auflegen und fortsetzen? - Sache ist erledigt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Verbesserung der Schulinfrastruktur; hier Container für die Elternarbeit, Beschluss der Bezirksvertretung Rodenkirchen - geändert beschlossen
+- TOP 4.2: Einrichtungsbeschluss für den Erweiterungsbau Palmstraße für das Königin-Luise-Gymnasium, Alte Wallgasse 10 in 50672 Köln - ungeändert beschlossen
+- TOP 4.3: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Stadtstrategie „Kölner Perspektiven 2030+“ - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Einrichtungsbeschluss für den Neubau der integrierten Gesamtschule Innenstadt, Frankstraße 26 in 50676 Köln am Teilstandort Severinswall 40/40a in 50678 Köln - ungeändert beschlossen
+- TOP 4.6: Einrichtungsbeschluss für den Neubau der EGS (Evangelische Grundschule) - Ernst-Moritz-Arndt-Schule - Sürther Str. 201 in 50999 Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 4.7: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - ohne Votum in nachfolgende Gremien
+- TOP 4.8: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitteilungen
+- TOP 5.1: Sachstand zu den eingebauten Luftfilteranlagen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.2: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 5.3: Fortsetzung der Förderung der Kommunalen Koordinierungsstelle Übergang Schule Beruf Köln / KAoA aus dem ESF NRW bis 2027 - Kenntnis genommen
+- TOP 5.4: Bewerbung um Fördermittel des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen - Kenntnis genommen
+- TOP 5.5: Nutzung des städtischen Grundstückes Herkulesstraße 38-42 als Schulstandort - zu AN/0721/2021 (TOP 8.1.7 der Bezirksvertretung Ehrenfeld vom 31.05.2021) - Kenntnis genommen
+- TOP 5.6: Parkplatz Salzburger Weg in Köln-Junkersdorf - zu AN/1093/2021 (TOP 2.5 des Ausschusses Schule und Weiterbildung vom 07.06.2021) - Kenntnis genommen
+- TOP 5.7: Monitoringbericht 2020: allgemeinbildende Schulen und Berufskollegs, bildungsstatistische Analysen und kommunale Steuerungsansätze - Kenntnis genommen
+- TOP 5.7.1: Beantwortung von Fragen zu den Monitoringberichten "allgemeinbildende Schulen und Berufskollegs" (Session 1058/2021) und "Inklusionsentwicklung an Kölner Schulen" (Session 2451/2021) - Kenntnis genommen
+- TOP 5.8: Beantwortung der Anfrage AN/1758/2021 der Fraktion Volt - Kenntnis genommen
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Ursprungsmitteilung: Einschulungshilfe für Schulanfänger*innen zum Schuljahr 2021/ 2022 - Kenntnis genommen
+- TOP 5.10: Sachstandsbericht zu den Baumaßnahmen am Abendgymnasium Gereonsmühlengasse und am Hansa-Gymnasium - Kenntnis genommen
+- TOP 5.11: Sachstand zu Anträgen und Anfragen des Ausschusses Schule und Weiterbildung - Stand 30.09.2021 - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Mündliche Anfrage der SPD-Fraktion bezüglich der Beschaffungssachstände der CO2-Geräte und Luftfilteranlagen
+- TOP 6.2: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen bezüglich des Gymnasiums Müngersdorf
+- TOP 6.3: Mündliche Anfrage der CDU-Fraktion bezüglich der Containeraufstellungen der Grundschulen Annastraße und Cäsarstraße
+- TOP 6.4: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen bezüglich der Nutzfläche Bauhof an der Frankfurter Straße
+- TOP 7: Verschiedenes
