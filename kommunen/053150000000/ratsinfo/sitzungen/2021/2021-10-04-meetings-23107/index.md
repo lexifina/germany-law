@@ -1,0 +1,64 @@
+# 9. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-04T17:00:00+02:00
+- Ende: 2021-10-04T18:20:00+02:00
+- Ort: Bürgerzentrum Ehrenfeld, Venloer Straße 429, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23107
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23107
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Einwohner*innen-Anfrage Starkregenfälle - Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Sperrung der Vogelsanger Straßel (Az.: 02-1600-134/21) - geändert beschlossen
+- TOP 3.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2: Gemeinsamer Änderungantrag der Fraktion Bündnis 90/Die Grünen und der Einzelmandatsträgerin Elke Schroeder (Klimafreunde), betr.: TOP 3.1 Bürger*inneneingabe Sperrung der Vogelsangerstraße - geändert beschlossen
+- TOP 3.1.2.1: Ergänzungsgsantrag der Fraktion Die Linke/Die Partei zu TOP 3.1.2. - ungeändert beschlossen
+- TOP 3.1.3: Änderungsantrag der SPD-Fraktion zu TOP 3.1 - endgültig zurückgezogen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN: Raserei an der Glasstraße - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN: Führung des Rad- und Fußverkehrs in der Butzweilerstraße - Kenntnis genommen
+- TOP 6.2.1: Führung des Rad- und Fußverkehrs in der Butzweilerstraße - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Führung des Radverkehrs Eichendorffstraße - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Baumpflanzungen im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.4.1: Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Anwendung des Baulandmobilisierungsgesetzes im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion: Öffentliche Toilettenanlage KVB-Haltestelle Bocklemünd/P&R Anlage - ungeändert beschlossen
+- TOP 8.2: Antrag der Fraktion Die Linke/Die Partei: Hall of Fame für Ehrenfeld? Wo und wie? - ungeändert beschlossen
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Grundstück der Fa. Max Becker GmbH und Co KG / Widdersdorferstraße und Maarweg - endgültig abgelehnt
+- TOP 8.4: Antrag der CDU-Fraktion: Prüfantrag Auffanggräben für Starkregen – Prävention im STB Ehrenfeld - geändert beschlossen
+- TOP 8.5: Antrag der CDU-Fraktion: Sanierung Bezirkssportanlage BOCKLEMÜND - ungeändert beschlossen
+- TOP 8.6: Dringlichkeitsantrag der SPD-Fraktion, betr.: Zeitnahe Sanierung der Schulsporthalle Everhardstraße 60 - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Öffnung der Lichtstraße für den Zweirichtungsverkehr bis zu einer geplanten Tiefgaragenausfahrt - geändert beschlossen
+- TOP 9.1.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen, betr.: TOP 9.1 Öffnung der Lichtstraße für den Zweirichtungsverkehr bis zu einer geplanten Tiefgaragenausfahrt - ungeändert beschlossen
+- TOP 9.2: Widmung der Platzfläche Bachstelzenweg / Goldammerweg in Köln-Vogelsang - zurückgestellt
+- TOP 9.3: Freigabe von Bewohnerparken in der Weinsbergstraße - zurückgestellt
+- TOP 9.4: Errichtung eines "Offenen Bücherschrankes" - ungeändert beschlossen
+- TOP 9.5: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - zurückgestellt
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - ungeändert beschlossen
+- TOP 10.2: Stadtstrategie „Kölner Perspektiven 2030+“ - geändert beschlossen
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Bedarfsfeststellungs-, Planungs- und Baubeschluss für den Ersatzneubau der Brücke Liebigstraße im Stadtteil Neu-Ehrenfeld durch einen Totalunternehmer - geändert beschlossen
+- TOP 10.3.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 10.3, betr.: Bedarfsfeststellungs-, Planungs- und Baubeschluss für den Ersatzneubau der Brücke Liebigstraße im Stadtteil Neu-Ehrenfeld durch einen Totalunternehmer - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Sachstandsbericht zu Schulbaumaßnahmen im Bezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.2: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion vom 06.09.2021, AN/1899/2021, „Soziale Erhaltungssatzung – Nächste Schritte?“ - Kenntnis genommen
+- TOP 12.3: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 12.4: Verkehrssituation Butzweiler Hof - Kenntnis genommen
+- TOP 12.5: Verkehrliche Umgestaltung eines Teilbereiches am Ehrenfeldgürtel - Kenntnis genommen
+- TOP 12.6: Nutzung des städtischen Grundstückes Herkulesstraße 38-42 als Schulstandort - zu AN/0721/2021 (TOP 8.1.7 der Bezirksvertretung Ehrenfeld vom 31.05.2021) - Kenntnis genommen
+- TOP 13: mündliche Anfragen
