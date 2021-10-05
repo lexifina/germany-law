@@ -1,0 +1,72 @@
+# 8. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-05T16:05:00+02:00
+- Ende: 2021-10-05T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23766
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23766
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Vorlage eines jährlichen Berichts zum Zustand der Radinfrastruktur - geändert beschlossen
+- TOP 1.2: Tempo 30 in der Kyotostraße - geändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Neue Stadtbahnhaltestelle Sürth Süd auf der Linie 16 - geändert beschlossen
+- TOP 3.2: Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601- - zurückgestellt
+- TOP 3.3: Bedarfsfeststellungsbeschluss und Vorbereitung des Vergabeverfahrens - geändert beschlossen
+- TOP 3.3.1: Hier zu TOP 3.3 „Erstellung einer Machbarkeitsstudie für ein Expressbus-Netz“ - ungeändert beschlossen
+- TOP 3.4: Planungsbeschluss für eine ebenerdige barrierefreie Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barrierefreie Brücke - im ersten Durchgang verwiesen
+- TOP 3.5: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 - 2026 - ungeändert beschlossen
+- TOP 3.6: Verkehrsversuch Venloer Straße in Köln-Ehrenfeld - im ersten Durchgang verwiesen
+- TOP 3.6.1: Änderungsantrag zu TOP 3.6 - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 277. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.2: Planungs- und Bedarfsfeststellungsbeschluss für die Vergabe der weiteren externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme „Vierspuriger Ausbau der Frankfurter Straße zwischen der Theodor-Heuss-Str - zurückgestellt
+- TOP 4.3: Rondorf Nord-West, Entflechtungsstraße - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Stadtstrategie „Kölner Perspektiven 2030+“ - zurückgestellt
+- TOP 4.5: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Bedarfsfeststellungs-, Planungs- und Baubeschluss für den Ersatzneubau Brücke Liebigstraße im Stadtteil Neu-Ehrenfeld - mit Änderungen empfohlen
+- TOP 4.6.1: Hier zu TOP 4.6 „Ersatzneubau Brücke Liebigstraße“ - ungeändert empfohlen
+- TOP 4.7: Zwanzigste Satzung zur Änderung der Satzung der Stadt Köln vom 29. Juni 2001 über die Erhebung eines Erschließungsbeitrages - ungeändert empfohlen
+- TOP 4.8: Kölner Verkehrs-Betriebe AG (KVB): Beschaffung und Finanzierung von hochflurigen Stadtbahnwagen - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Parkhäuser in der Innenstadt - zurückgestellt
+- TOP 5.1.2: Künftige Förderung von Quartiersgaragen - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Winterdienst des Radwegenetzes - Sache ist erledigt
+- TOP 5.2.2: Potenzialanalyse Rheinpendel - Sache ist erledigt
+- TOP 5.2.2.1: Potenzialanalyse Rheinpendel - Kenntnis genommen
+- TOP 5.2.3: KVB-Fahrgastunterstände - Sache ist erledigt
+- TOP 5.2.4: Verkehrliche Umgestaltung eines Teilbereiches am Ehrenfeldgürtel - Sache ist erledigt
+- TOP 5.2.5: Entsorgung von Schrottfahrrädern auf Fahrradabstellflächen - Sache ist erledigt
+- TOP 5.2.6: Tunnelbau Ost-West-Achse - endgültig zurückgezogen
+- TOP 5.2.7: Maßnahmen gegen Tempoverstöße - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Umsetzung von Rasengleisen bei Sanierungen und Neubau von Gleisstrecken - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Aufbau der gemeinsamen Verkehrs- und Tunnelleitzentrale, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2020/2021 - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Rheinpendel - Eingrenzung des Untersuchungsraumes für Machbarkeitsstudie - Kenntnis genommen
+- TOP 7.2.2: Neuer Übergang Innere Kanalstraße auf Höhe des Telekom-Verwaltungsgebäudes - Kenntnis genommen
+- TOP 7.2.3: Ampelschaltung neuer Überweg Innere Kanalstraße - Kenntnis genommen
+- TOP 7.2.4: Tätigkeitsbericht 2020 des Amtes für Straßen und Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 7.2.5: Stadtbahn Bonn - Niederkassel - Köln (Linie 17) und Verknüpfung Linie 7 - Kenntnis genommen
+- TOP 7.2.6: Barrierefreiheit Siegburger Straße und Zülpicher Platz - Kenntnis genommen
+- TOP 7.2.7: Abbruch und Ersatzneubau Kragplatte am Altstadtufer; bauzeitliche Verkehrsführung - Kenntnis genommen
+- TOP 7.2.8: Radverkehrsführung Kölner Ringe - Kenntnis genommen
+- TOP 7.2.9: Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe einer investiven Verpflichtungsermächtigung - zurückgestellt
+- TOP 7.2.10: Ausschreibung einer/eines Fußverkehrsbeauftragten - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Beleuchtung der Wegeverbindung entlang der Straße "Am Baggerfeld" zwischen Esch und Pesch - Sache ist erledigt
+- TOP 8.2: Expressbus auf der Aachener Straße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Austausch der Anzeigetafeln der KVB AG - Sache ist erledigt
+- TOP 8.4: Tempo 30 und Radverkehrsanlage in der Kyotostraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
