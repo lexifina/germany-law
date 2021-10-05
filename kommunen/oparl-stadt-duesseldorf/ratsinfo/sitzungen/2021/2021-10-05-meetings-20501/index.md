@@ -1,0 +1,54 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-10-05T16:00:00+02:00
+- Ende: 2021-10-05T18:45:00+02:00
+- Ort: Thomas-Edison-Realschule, Schlüterstraße 18 - 20, Pädagogisches Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20501
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20501
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00424971.pdf
+- Ergebnisprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00424971.pdf
+- Wortprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00424971.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/006/2021 vom 14.09.2021 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Bebauungsplan-Entwurf Nr. 02/005 Grafental Ost - Beschluss Offenlage und Aufstellung - mehrheitlich beschlossen
+- TOP 5: Haushaltsplanentwurf 2022 - Bezirksbezogene Haushaltsansätze 2022 - zur Kenntnis genommen
+- TOP 5.1: Planungsmittel für die Errichtung eines Fahrrad-Parkhauses im Stadtbezirk 2 - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.2: Planungsmittel für die Landschaftsbrücke Moskauer Straße / Albertstraße - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.3: Schillerplatz, 2. Bauabschnitt - Haushaltsbegleitantrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 5.4: Endausbau Flinger Broich - Haushaltsbegleitantrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 5.5: Schillerplatz 2. Bauabschnitt - Haushaltsbegleitantrag der CDU-Fraktion zum Haushalt 2022 - mehrheitlich beschlossen
+- TOP -: Anträge
+- TOP 6: Neue Spielangebote - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 7: Parkplatz Brehmstadion - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Bezirksbezogene Bauunterhaltungsmittel - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 10: Bänke für den Hermannplatz - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 11: Machbarkeitsstudie für eine attraktivere Gestaltung des Eingangsbereichs des Stadtwerkeparks - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 12: Parkbank Altenbergstraße - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 13: Zuschuss Martinszug Paulusschule - Antrag der FDP-Fraktion - zurückgezogen
+- TOP 14: Zuschuss für Martinszüge an Schulen im Stadtbezirk 2 - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 15: Pauschale Zuwendung für die Durchführung von Martinszügen aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 16: Wegeverbindung von der Eduard-Schloemann-Straße zur Sohnstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 17: Landschaftsbrücke zwischen Moskauer Straße und Alberstraße - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 18: Identifizierung weiterer Standorte für Neu- und Ersatzpflanzungen von Stadtbäumen im Bezirk 2 - Antrag der Fraktion BÜNDNIS90 / DIE GRÜNEN - mehrheitlich beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Kosten und Einnahmen Anwohnerparkausweiszonen - Anfrage der FDP-Fraktion
+- TOP 21: Nachpflanzung von geeigneten, schattenspendenden Bäumen auf der Kühlwetterstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 22: Zufahrt zum Recyclinghof Flingern nach dem Neubau der Müllverbrennungsanlage - Anfrage der CDU-Fraktion
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlage
+- TOP 27: Freilauffläche in Flingern Süd - Beschluss der Bezirksvertretung 2, Vorlage BV2/120/2021 - zur Kenntnis genommen
