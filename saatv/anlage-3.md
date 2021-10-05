@@ -27,11 +27,11 @@ Anforderungen an die Beschaffenheit des Saatgutes
 |  |  |  |  | Z-2 | 85 | 16 | 98 | 10 | 7 | 7 | 3 | 0 | 0 | 500 | - |
 |  | 1.1.6 | Mais |  | B | 90 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 1 000 | - |
 |  |  |  |  | Z | 90 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 1 000 | - |
-|  | 1.1.7 | Sorghum bicolor |  | B | 80 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 900 | - |
+|  | 1.1.7 | Sorghum |  | B | 80 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 900 | - |
 |  |  |  |  | Z | 80 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 900 | - |
-|  |  | Sorghum sudanense |  | B | 80 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 250 | - |
+|  |  | Sudangras |  | B | 80 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 250 | - |
 |  |  |  |  | Z | 80 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 250 | - |
-|  |  | Sorghum bicolor xSorghum sudanense |  | B | 80 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 300 | - |
+|  |  | Hybriden aus der Kreuzung von Sorghum x Sudangras |  | B | 80 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 300 | - |
 |  |  |  |  | Z | 80 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 300 | - |
 |  |  |
 | 1.2 | Saatgut von Getreide darf bei der Prüfung nach § 12 Abs. 1 Satz 2 keinen Besatz mit Flughafer in 3 kg aufweisen; die Größe der Probe ermäßigt sich auf 1 kg, wenn bei der Prüfung des Feldbestandes festgestellt worden ist, dass dieser frei von Flughafer ist. |

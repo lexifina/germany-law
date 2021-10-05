@@ -2,8 +2,9 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gegenstand der Verordnung](0001.md)
+- [§ 1a Veröffentlichungspflichten](0001a.md)
 - [§ 2 Vertragsabschluß](0002.md)
-- [§ 3 Bedarfsdeckung](0003.md)
+- [§ 3 Anpassung der Leistung](0003.md)
 - [§ 4 Art der Versorgung](0004.md)
 - [§ 5 Umfang der Versorgung, Benachrichtigung bei
 Versorgungsunterbrechungen](0005.md)

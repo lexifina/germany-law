@@ -87,6 +87,7 @@
 - [Art 316j Übergangsvorschrift zum Jahressteuergesetz 2020](art-316j.md)
 - [Art 316k Übergangsvorschrift zum Gesetz zur Verbesserung der strafrechtlichen Bekämpfung der Geldwäsche](art-316k.md)
 - [Art 316l Übergangsvorschrift zum Gesetz zur Bekämpfung sexualisierter Gewalt gegen Kinder](art-316l.md)
+- [Art 316m Übergangsvorschrift zum Gesetz zur Änderung des Anti-Doping-Gesetzes](art-316m.md)
 - [Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht](art-317.md)
 - [Art 318 Zuwiderhandlungen nach den Gesetzen auf dem Gebiet der Sozialversicherung](art-318.md)
 - [Art 319 Anwendung des bisherigen Kostenrechts](art-319.md)

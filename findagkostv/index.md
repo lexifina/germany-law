@@ -1,4 +1,4 @@
-# Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz
+# Verordnung über die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz
 
 - [Eingangsformel](eingangsformel.md)
 

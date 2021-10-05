@@ -95,7 +95,7 @@
 2.4.5 Bei Sorghum sind zu Feldbeständen von Sorghum, insbesondere zu Pollenquellen von Sorghum halepense, Mindestentfernungen wie folgt einzuhalten:
   a) zur Erzeugung von Basissaatgut 400 m,
   b) zur Erzeugung von Zertifiziertem Saatgut 200 m.
-  In Gebieten, in denen durch das Vorhandensein von Sorghum halepense oder Sorghum sudanense ein besonderes Risiko der unerwünschten Fremdbefruchtung besteht, müssen Feldbestände zur Erzeugung von Basissaatgut von Sorghum bicolor oder dessen Hybriden mindestens 800 m, Feldbestände zur Erzeugung Zertifizierten Saatgutes von Sorghum bicolor oder dessen Hybriden mindestens 400 m von einer möglichen Pollenquelle entfernt sein.
+  In Gebieten, in denen durch das Vorhandensein von Sorghum halepense oder Sudangras ein besonderes Risiko der unerwünschten Fremdbefruchtung besteht, müssen Feldbestände zur Erzeugung von Basissaatgut von Sorghum oder dessen Hybriden mindestens 800 m, Feldbestände zur Erzeugung Zertifizierten Saatgutes von Sorghum oder dessen Hybriden mindestens 400 m von einer möglichen Pollenquelle entfernt sein.
 3 Gräser, Leguminosen und sonstige Futterpflanzen
 3.1 Fremdbesatz
 3.1.1 Der Feldbestand darf im Durchschnitt der Auszählungen je 150 qm Fläche höchstens folgenden Fremdbesatz aufweisen:

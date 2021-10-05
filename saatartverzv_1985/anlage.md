@@ -7,13 +7,13 @@
 | 1.1.1b | Avena strigosa Schreb. | Rauhafer |
 | 1.1.2 | Hordeum vulgare L. sensu lato | Gerste |
 | 1.1.3 | Secale cereale L. | Roggen |
-| 1.1.4 | Sorghum bicolor (L.) Moench | Mohrenhirse |
-| 1.1.5 | Sorghum sudanense (Piper) Stapf | Sudangras |
-| 1.1.6 | Sorghum bicolor x Sorghum sudanense | Hybriden aus der Kreuzung von Sorghum bicolor x Sorghum sudanense |
+| 1.1.4 | Sorghum bicolor (L.) Moench subsp. bicolor | Sorghum |
+| 1.1.5 | Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse | Sudangras |
+| 1.1.6 | Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse | Hybriden aus der Kreuzung von Sorghum x Sudangras |
 | 1.1.7 | xTriticosecale Wittm. ex A. Camus | Triticale (Hybriden aus der Kreuzung einer Art der Gattung Triticum mit einer Art der Gattung Secale) |
-| 1.1.8 | Triticum aestivum L. | Weichweizen |
-| 1.1.9 | Triticum durum Desf. | Hartweizen |
-| 1.1.10 | Triticum spelta L. | Spelz, Dinkel |
+| 1.1.8 | Triticum aestivum L. subsp. aestivum | Weichweizen |
+| 1.1.9 | Triticum turgidum L. subsp. durum (Desf.) van Slageren | Hartweizen |
+| 1.1.10 | Triticum aestivum L. subsp. spelta (L.) Thell. | Spelz, Dinkel |
 | 1.1.11 | Zea mays L.außer Zea mays L. convar. microsperma Koern. Zea mays L. convar. everta Sturt. und Zea mays L. convar. saccharata Koern. | Maisaußer Perlmais, Puffmais (Popcorn), Zuckermais und Mais für Zierzwecke |
 | 1.2 | Futterpflanzen |  |
 | 1.2.1 | Gräser |  |
@@ -27,7 +27,7 @@
 | 1.2.1.8 | Festuca arundinacea Schreber | Rohrschwingel |
 | 1.2.1.9 | Festuca filiformis Pourr. | Haar-Schaf-schwingel |
 | 1.2.1.9.a | Festuca ovina L. | Schafschwingel |
-| 1.2.1.9.b | Festuca trachyphylla (Hack.) Krajina | Raublättriger Schafschwingel |
+| 1.2.1.9.b | Festuca trachyphylla (Hack.) Hack. | Raublättriger Schafschwingel |
 | 1.2.1.10 | Festuca pratensis Huds. | Wiesenschwingel |
 | 1.2.1.11 | Festuca rubra L. sensu lato | Ausläuferrotschwingel, Horstrotschwingel |
 | 1.2.1.11a | xFestulolium Asch. & Graebn. | Festulolium (Hybriden aus der Kreuzungeiner Art der Gattung Festucamit einer Art der GattungLolium) |

@@ -9,9 +9,9 @@
 | 1.2.1 | Vorstufensaatgut und Basissaatgut von Inzuchtlinien | 40 | 250 |
 | 1.2.2 | sonstiges Saatgut | 40 | 1 000 |
 | 1.3 | Sorghum |  |  |
-| 1.3.1 | Sorghum bicolor | 30 | 900 |
-| 1.3.2 | Sorghum sudanense | 10 | 250 |
-| 1.3.3 | Sorghum bicolor x Sorghum sudanense | 30 | 300 |
+| 1.3.1 | Sorghum | 30 | 900 |
+| 1.3.2 | Sudangras | 10 | 250 |
+| 1.3.3 | Hybriden aus der Kreuzung von Sorghum x Sudangras | 30 | 300 |
 | 2 | Gräser |
 | 2.1 | Straußgräser, Lieschgräser, Rispenarten, Goldhafer | 10 / 25*** | 50 |
 | 2.2 | Wiesenfuchsschwanz, Knaulgras, Schwingelarten | 10 / 25*** | 100 |
