@@ -1,0 +1,6 @@
+# TOP 2.: Einwohnerfragestunde
+
+- Sitzung: Bau- und Umweltausschuss (72. Sitzung) (2021-10-05)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/33059
