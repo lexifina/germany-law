@@ -1,0 +1,78 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-10-05T17:00:00+02:00
+- Ende: 2021-10-05T21:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20654
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20654
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö 05.10.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00425235.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö 05.10.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00425235.pdf
+- Wortprotokoll: Sitzungspaket Ö 05.10.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00425235.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von Mitgliedern der Bezirksvertretung 3
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung vom 07.09.2021 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Bebauungsplan - Entwurf Nr. 03/028 - Westlich Volmerswerther Straße - Verfahren 13a BauGB, Stellungnahmen, Satzung - Empfehlung einstimmig beschlossen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Straßenbenennung nach Selma Meyer - einstimmig beschlossen
+- TOP 7.2: Helmholtzstraße - Neubau einer barrierefreien Schulbushaltestelle - einstimmig beschlossen
+- TOP 7.3: Veranstaltung auf dem Städtischen Grundstück Elisabethstraße / Ecke Bachstraße - einstimmig beschlossen
+- TOP 7.4: Weihnachtsmarkt auf dem Vorplatz der Düsseldorf Arcaden in Unterbilk im Jahre 2021 - einstimmig beschlossen
+- TOP 7.5: Klimamobil (Mdl. Bericht) - zur Kenntnis genommen
+- TOP 7.6: Klima-Analyse 2020 (Mdl. Bericht) - zur Kenntnis genommen
+- TOP 8: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 8.1: Unterhaltung von Grundstücken und bauliche Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2021 - einstimmig beschlossen
+- TOP 8.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 9: Anfragen
+- TOP 9.1: Anfragen aus vorherigen Sitzungen
+- TOP 9.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg - vertagt
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Projekt Stadtgrün-naturnah (Anfrage der Fraktionen BÜNDNIS 90/DIE GRÜNEN und SPD) - zur Kenntnis genommen
+- TOP 9.1.4: Auswirkungen über die Einigung der Stadt Düsseldorf mit der Umwelthilfe (Anfrage der SPD-Fraktion) - vertagt
+- TOP 9.1.5: Umbau der Haltestelle Karolingerplatz aus 2020 (Anfrage der SPD-Fraktion) - zur Kenntnis genommen
+- TOP 9.1.6: Gestaltung Bahnunterführung Ellerstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 9.1.7: Fußweg zwischen Moorenplatz und Christophstraße (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 9.2: Aktuelle Anfragen
+- TOP 9.2.1: Ausschluss vom Schulschwimmen (Anfrage FDP) - zur Kenntnis genommen
+- TOP 9.2.2: Gastronomie Florapark, Sternwartpark und Volksgarten (Anfrage FDP) - zur Kenntnis genommen
+- TOP 9.2.3: Zustand des Parkplatzes Südfriedhof (Anfrage FDP) - vertagt
+- TOP 9.2.4: Stellplätze für Fahrräder auf der Fleher Str. / In der Hött (Anfrage Fraktionen BÜNDNIS 90 / DIE GRÜNEN, SPD) - vertagt
+- TOP 9.2.5: Umbau und Aufzug Regionalhalt Bilk-S (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 9.2.6: Haus Kolvenbach - Zustand und geplante Nutzung (Anfrage FDP) - vertagt
+- TOP 9.2.7: Sachstand Fördermittelbeantragung (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 10: Anträge
+- TOP 10.1: Angsträume beseitigen - Beleuchtung schaffen (Antrag FDP) - abweichend beschlossen
+- TOP 10.2: Prüfung der möglichen Integration der Fährstraße und Volmerswerther Straße in 30er Zone (Antrag FDP) - abweichend beschlossen
+- TOP 10.3: Konzept für Florabars in Floragarten, Volksgarten und Sternwartpark (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Sitzungstermine 2022 - zur Kenntnis genommen
+- TOP 11.2: Trinkbrunnen im Stadtbezirk 3 - vertagt
+- TOP 11.3: Sanierung der Fahrbahn Am Sandacker - zur Kenntnis genommen
+- TOP 11.4: Sportgeräte für Calisthenic in Parks - zur Kenntnis genommen
+- TOP 11.5: Widmung von Straßen - Mindener Straße (I.BA) - Gemarkung Oberbilk, Flur 15, Flurstück 63 - zur Kenntnis genommen
+- TOP 11.6: Projekt Brückengalerie - vertagt
+- TOP 12: Beratung Haushaltsentwurfs 2022 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2022 für den Stadtbezirk 3
+- TOP 12.1: Haushalt 2022: Verwendung der bezirksbezogenen Haushaltsmittel - Antrag der Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 12.2: Haushalt 2022: Haushaltsmittel der BV 3, Mittelübertragung - Antrag Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 12.3: Haushalt 2022: Abenteuerspielplatz im Stadtbezirk 03 - Antrag Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 12.4: Haushalt 2022: Für die Neugestaltung des Gebietes am Mintropplatz einzuplanen - Antrag Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 12.5: Haushalt 2022: Neugestaltung Kirchplatz - Antrag Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 12.6: Haushalt 2022: Verkehrskonzept Bachplätzchen - Antrag Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 12.7: Haushalt 2022: Überplanung Ortsumgehung Oberbilk - Antrag Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 12.8: Haushalt 2022: Sichere Schulwege - Antrag Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 12.9: Haushalt 2022: Modernisierung von Fahrradabstellanlagen an Schulen - Antrag Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 12.10: Haushalt 2022: Bilker Kirche - Antrag Fraktionen BÜNDNIS 90/DIE GRÜNEN, CDU, SPD - - einstimmig beschlossen
+- TOP 13: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
