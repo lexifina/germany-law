@@ -1,0 +1,54 @@
+# Rat der Stadt Rheda-Wiedenbrück (7. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2021-10-05T17:00:00+02:00
+- Ende: 2021-10-05T20:52:00+02:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTPff4ZEsFZ23-gfRoYRW_M
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2256
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa3PcG74bYM_bW9hweWq0Gugu2Ao_JmjGseMUg5xuKa9/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_05.10.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQpIsjz6yvh3O_LJtjo8GpLtAJI20Qqs_EXxgOEw0UPs/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_05.10.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Einführung und Verpflichtung der nachrückenden Ratsmitglieder Sergei Gorenbacher und Michael Lakenbrink
+- TOP 2: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 3: Erklärung von Ausschließungsgründen
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Anpassung der Fachausschussbesetzungen
+- TOP 5.1: Anpassung der Fachausschussbesetzungen - Einstimmig
+- TOP 6: Antrag der Fraktion Bündnis 90/Die Grünen: Einrichtung eines Beirates für Menschen mit Behinderung - 41 Ja-Stimme(n), 3 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 7: Antrag der FWG-Fraktion: Städtepartnerschaften in Polen und Rumänien - 44 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Bestätigung der abschließenden Beschlussfassungen in den Fachausschüssen in der Zeit zwischen dem 01.09. und 05.10.2021 durch den Rat - Einstimmig
+- TOP 11: Anpassung der Marktordnung - Einstimmig
+- TOP 12: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen für Mai 2021 bis August 2021 für das Haushaltsjahr 2020 und Mai 2021 bis August 2021 für das Haushaltsjahr 2021 - Kenntnisnahme
+- TOP 13: Finanzcontrolling - Quartalsbericht I/2021 zur Unterrichtung der politischen Mandatsträger der Stadt Rheda-Wiedenbrück nach § 2 Abs. 2 NKF-CIG NRW - Kenntnisnahme
+- TOP 14: Prüfung des Gesamtabschlusses zum 31.12.2018 - Einstimmig
+- TOP 15: Befreiung vom Gesamtabschluss nach § 116a Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) - Einstimmig
+- TOP 16: Jahresabschluss 2020: Einbringung des Entwurfes gem. § 95 GO NRW - Einstimmig
+- TOP 17: EAW: Prüfung des Jahresabschlusses 2020 - Einstimmig
+- TOP 18: Betrieb Bauhof: Wirtschaftsplan 2021 - Erhöhung des Ansatzes für investive Mittel / Genehmigung des Dringlichkeitsentscheids vom 02.08.2021 - Einstimmig
+- TOP 19: Haushalt 2022 - Aktuelle Informationen und Zeitplanung - Kenntnisnahme
+- TOP 20: Beitritt zur KoPart NRW - 41 Ja-Stimme(n), 4 Enthaltung(en)
+- TOP 22: ISEK Rheda | Gestaltleitlinien und Beschluss über die Gestaltungssatzungen im Bereich des historischen Stadtkerns Rheda - Kenntnisnahme
+- TOP 23: B-Plan Nr. 391 „Varenseller Straße / Kernekampstraße“; Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Öffentlichkeit und der Behörden und sonstige Träger öffentlicher Belange gem. §§ 3 (2) und 4 (2) BauGB (Offenlage) Satzungsbeschluss - 39 Ja-Stimme(n), 6 Nein-Stimme(n)
+- TOP 24: 4. Änderung des Bebauungsplans Nr. 227 „Frankenbrink“ Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Öffentlich - Einstimmig
+- TOP 25: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge
+- TOP 26: Bericht zur Beschlusskontrolle
+- TOP 27: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 28: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 29: Erklärung von Ausschließungsgründen
+- TOP 30: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 31: Bestätigung der abschließenden Beschlussfassungen in den Fachausschüssen in der Zeit zwischen dem 01.09. und 05.10.2021 durch den Rat - Einstimmig
+- TOP 32: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 33: Vertragsangelegenheit - Einstimmig
+- TOP 34: Vertragsangelegenheiten - 34 Ja-Stimme(n), 10 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 35: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 36: Dringende Anfragen und Anregungen
