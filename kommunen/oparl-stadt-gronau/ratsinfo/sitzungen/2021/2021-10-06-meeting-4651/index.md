@@ -1,0 +1,51 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-10-06T18:07:00+02:00
+- Ende: 2021-10-06T21:43:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRqtRl1mru3flHJz2CydxI8
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4651
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXWDb2H_u4kIhpHzvIXdU3F5T6dAuVdYxGDptrZKzLy2/Bekanntmachung_Rat_06.10.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWjiFFCNkhYwRAhmvFBvPzCSiz_ba9yxh7l4DQtqn5SP/Oeffentliche_Niederschrift_Rat_06.10.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 08.09.2021
+- TOP 4.: LEADER - Bewerbung - Einstimmig, 5 Enthaltungen
+- TOP 5.: "Anstoß Zentrenmanagement Gronau" - Präsentation durch das Büro Stadt+Handel
+- TOP 6.: Standortfrage der Bernhard-Overbergschule
+- TOP 6.1: Standortfrage der Bernhard-Overbergschule
+- TOP 6.2: Standortfrage der Bernhard-Overbergschule
+- TOP 7.: Anpassung der Sätze für Lernmittel der Gronau Schulen aufgrund der Änderung der Verordnung über die Durchschnittsbeträge und den Eigenanteil nach § 96 Abs. Schulgesetz - Einstimmig, 0 Enthaltungen
+- TOP 8.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 12/2021; Bürgerantrag vom 25.06.2021 Einbau von RLT-Anlagen in Schulen, Kitas und sonstigen Einrichtungen für Kinder unter 12 Jahren in den Sommerferien 2021 in Gronau - Einstimmig, 0 Enthaltungen
+- TOP 8.1: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 12/2021; Bürgerantrag vom 25.06.2021 Einbau von RLT-Anlagen in Schulen, Kitas und sonstigen Einrichtungen für Kinder unter 12 Jahren in den Sommerferien 2021 in Gronau
+- TOP 9.: Aufhebung eines Sperrvermerkes hier: Kita-Fachberatung - Einstimmig, 0 Enthaltungen
+- TOP 10.: Bedarfsplanung Schulsozialarbeit an allen Schulstandorten der Stadt Gronau 2018 - 2021 - Einstimmig, 0 Enthaltungen
+- TOP 11.: Antrag der Fraktion pro:Bürgerschaft auf Einführung eines Gutscheines für Bürgerinnen und Bürger anlässlich einer Geburt - 34 Jastimmen, 8 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Psychologische Familienberatungsstelle (PFB) Diakonischen Werk des Kirchenkreises Steinfurt - Coesfeld - Borken e.V.
+- TOP 13.: Gründung des Weiterbildungsverbundes Gronau und Epe e.V. - hier Anschubfinanzierung - Einstimmig, 0 Enthaltungen
+- TOP 14.: Neugestaltung der Innenstadt Gronau - Baubeschluss -2. Bauabschnitt – Freianlagen Ausblick 3. Bauabschnitt evangelische Stadtkirche - 37 Jastimmen, 2 Neinstimmen, 3 Enthaltungen
+- TOP 15.: Fortschreibung des Abfallwirtschaftskonzeptes des Kreises Borken - Stellungnahme der Stadt Gronau zum Entwurf - Einstimmig, 2 Enthaltungen
+- TOP 16.: Gewährung von Altersteilzeit für Beamtinnen und Beamte gemäß § 66 Landesbeamtengesetz (LBG NRW) bei der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 17.: Sachstand zur Corona-Pandemie (Stand: 29.09.2021)
+- TOP 18.: Berichte aus den Gremien stadteigener Gesellschaften (ehem. aus den Aufsichtsräten)
+- TOP 19.: Mitteilungen der Verwaltung
+- TOP 19.1: Baumfällungen
+- TOP 20.: Anfragen
+- TOP 20.1: Verkehrssicherheit der Brückenanlage Kottiger Hook 40 (Anfrage von RM Doetkotte)
+- TOP 20.2: Tierfutter im Tierpark (Anfrage von RM Hüsing-Hackfort)
+- TOP 20.3: Störchennester (Anfrage von RM Hüsing-Hackfort)
+- TOP 20.4: Denkmalschutz der ehem. Ober-Realschule (Anfrage von RM Bohn)
+- TOP 20.5: Fläche für das Basketballfeld (Anfrage von RM Krause)
+- TOP 20.6: Straßenausbau des Radfahrweges "Am Buddenbrook" (Anfrage von RM Krause)
+- TOP 20.7: Ratten am Kurt-Schumacher-Platz (Anfrage von RM Schwartze)
+- TOP 20.8: Einbindung des Seniorenbeirates in den digitalen Sitzungsdienst (Anfrage von RM Buchholz)
+- TOP 20.9: Mountainbike Strecke (Anfrage von RM Dzietko)
+- TOP 20.10: Computergestützten Radwegkontrollen (Anfrage von RM Buchholz)
