@@ -1,0 +1,52 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-10-06T17:00:00+02:00
+- Ende: 2021-10-06T19:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20517
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20517
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2021-10-06 Ö inkl. Nachtrag 1 und 2 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00426045.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2021-10-06 Ö inkl. Nachtrag 1 und 2 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00426045.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2021-10-06 Ö inkl. Nachtrag 1 und 2 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00426045.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Bebauungsplan-Vorentwurf Nr. 06/021 - Münsterstraße 304-306 - Durchführung eines Wettbewerbs - Empfehlung abweichend beschlossen
+- TOP 3: Bebauungsplan-Vorentwurf Nr. 01/009 - Südlich An der Piwipp - Empfehlung abweichend beschlossen
+- TOP 4: Flächennutzungsplanänderung Nr. 178 (Vorentwurf) - Südlich An der Piwipp - Frühzeitige Öffentlichkeitsbeteiligung - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Interfraktionelle Anfrage: Tempo 40 auf der Straße "Am Röttchen"
+- TOP 8: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 9: Anfrage der Fraktion BÜ90/Die Grünen: Offene Fragen zum flankierenden Verkehrskonzept des Neubauprojekts Deiker Höfe (ehemals Fashion House)
+- TOP 10: Anfrage der SPD-Fraktion: Wie soll zukünftig die Parkregelung auf dem Marktplatz in Lichtenbroich am Dickhausweg aussehen? - beantwortet
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Anfrage der Fraktion BÜ90/Die Grünen: Bauplanungen und Einhaltung der Grundflächenzahl
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Anfrage der Fraktion BÜ90/Die Grünen: Versiegelung im Stadtbezirk 6
+- TOP 17: Anfrage der Fraktion BÜ90/Die Grünen: Vernachlässigung von Bausubstanz und Missachtung des Hochwasserschutzes in der Vonovia-Siedlung Mintarder Weg?
+- TOP 18: Zuschussvergabe 2021 Antrag des Fest- und Förderverein "Leetebrok" e.V. - St. Martin 2021 Weckmänner für Schule und Kindergärten - einstimmig beschlossen
+- TOP 19: Zuschussvergabe 2021 Antrag des Einkaufs Trümpfe Unterrath e.V. - Aufstellung Weihnachtsbäume - einstimmig beschlossen
+- TOP 20: Zuschussvergabe 2021 Antrag des Bürgervereins Mörsenbroich 1928 e.V. - Aufstellung Weihnachtsbaum Kreitenplatz/Schliefenstraße/Münsterstraße - einstimmig beschlossen
+- TOP 21: Beratung der Entwürfe - des doppischen Produkthaushalts für das Jahr 2022 - des Vorberichts und der Anlagen für das Haushaltsjahr 2022 - der Bezirksbezogenen Haushaltsansätze 2022 - zur Kenntnis genommen
+- TOP 22: Antrag der SPD-Fraktion: Haushalt 2022 - Erweiterung der städtischen Gemeinschaftsgrundschule an der Krahnenburgstraße - einstimmig beschlossen
+- TOP 23: Antrag der SPD-Fraktion: Haushalt 2022 - Machbarkeitsstudie Kreisverkehr Hülsmeyerplatz - mehrheitlich abgelehnt
+- TOP 24: Antrag der SPD-Fraktion: Haushalt 2022 - Außenkolumbarium Unterrather Friedhof - einstimmig beschlossen
+- TOP 25: Antrag der CDU-Fraktion: Haushalt 2022 - Verkehrskonzept für den Stadtbezirk 6 - abweichend beschlossen
+- TOP 26: Antrag der CDU-Fraktion: Haushalt 2022 - Konzept zur Schaffung von Pflegeplätzen in verschiedenen Pflegeformen im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 27: Antrag der CDU-Fraktion: Haushalt 2022 - Ordnung und Sicherheit durch verstärkten Einsatz des OSD und der Verkehrsüberwachung im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 28: Antrag der Fraktion BÜ90/Die Grünen: Haushalt 2022 - Attraktive Mobilitätsangebote auch für den Stadtbezirk 6 - Einrichtung von zwei Mobilitätsstationen vorziehen - einstimmig beschlossen
+- TOP 29: Antrag der Fraktion BÜ90/Die Grünen: Haushalt 2022 - Perspektiven Unterrath Schleife - Altes Zentrum, neues Leben? - abweichend beschlossen
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Haushalt 2022 - Zugang in den Aaper Wald - Grünweg durch Rath und Mörsenbroich umsetzen - zurückgezogen
+- TOP 31: Antrag der Fraktion BÜ90/Die Grünen: Haushalt 2022 - Bereitstellung von Mitteln für die Erstellung eines Verkehrskonzepts für Hamborner Straße und Unterrather Straße - abweichend beschlossen
+- TOP 32: Antrag der Fraktion BÜ90/Die Grünen: Haushalt 2022 - Bereitstellung von Mitteln für die Umsetzung der Ergebnisse des Fußverkehrschecks - einstimmig beschlossen
+- TOP 33: Zuschussvergabe 2021 Antrag der GGS Max-Halbe-Straße - Sankt Martin und Weihnachten - einstimmig beschlossen
+- TOP 34: Einrichtung einer Querungsshilfe auf dem Volkardeyer Weg in Höhe Sermer Weg / Krahnenburgstraße - Vorlage BV6/141/2020 - zur Kenntnis genommen
+- TOP 35: Schwerlastverkehr in Unterrath - Vorlage BV6/083/2021 - zur Kenntnis genommen
