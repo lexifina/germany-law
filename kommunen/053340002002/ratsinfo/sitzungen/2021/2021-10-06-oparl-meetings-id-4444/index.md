@@ -1,0 +1,63 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2021-10-06T17:00:00+02:00
+- Ende: 2021-10-06T20:38:00+02:00
+- Ort: Geschwister-Scholl-Gymnasium
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4444
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4444
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - abgelehnt
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 23.06.2021 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1: Einspruch der CDU-Fraktion gegen den in der Sitzung des Mobilitätsausschusses am 30.09.2021 gefassten Beschluss zu TOP 30 - geändert beschlossen
+- TOP 5: Entwurf Jahresabschluss 2020 der Stadt Aachen - zurückgezogen
+- TOP 6: Übersicht über die Übertragung von Ermächtigungen oberhalb der Wertgrenze vom Haushaltsjahr 2020 in das Haushaltsjahr 2021 - zur Kenntnis genommen
+- TOP 7: Benehmensherstellung für die differenzierte Regionsumlage 2022 - 2. Lesung - - zur Kenntnis genommen
+- TOP 8: Evaluation des Gleichstellungsplans - zur Kenntnis genommen
+- TOP 9: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen für das Jahr 2021 - Erweiterung - ungeändert beschlossen
+- TOP 10: Resolution gegen den Ausbau des Flughafens Lüttichhier: Tagesordnungsantrag der Fraktionen von GRÜNE, CDU, SPD, DIE Zukunft und DIE LINKE vom 25.08.2021 - ungeändert beschlossen
+- TOP 11: Prüfbericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen (gpaNRW)Überörtliche Prüfung der Informationstechnik der Stadt Aachen im Jahr 2021 - zur Kenntnis genommen
+- TOP 12: Öffentlich-rechtliche Vereinbarung über die Wahrnehmung der Aufgabe der IT-Prüfung nach § 104 Abs. 1 Nr. 3 GO NRW durch die Stadt Aachen - ungeändert beschlossen
+- TOP 13: Luftreinhalteplan Aachen: Dritte Fortschreibung 2021 - ungeändert beschlossen
+- TOP 14: Erneuerung der Vereinbarung zum Bürgermeisterkonvent - ungeändert beschlossen
+- TOP 15: Kommunales ArbeitsmarkförderungsprogrammFörderhöhe für das Haushaltsjahr 2022Ratsantrag der Fraktion der Grünen der Stadt Aachen vom 08.04.2019 ´Arbeitsmarktintegrationsmaßnahmen in gemeinnützigen Einrichtungen` - zurückgezogen
+- TOP 16: Seniorenratswahlen 2022 – Durchführung der Wahlen und Änderung der Wahlordnung - ungeändert beschlossen
+- TOP 17: Satzung über die Erhebung von Beiträgen nach § 8 KAG für den Ausbau der Straße "Hof" als Fußgängergeschäftsstraße - ungeändert beschlossen
+- TOP 18: Satzung über die Erhebung von Beiträgen nach § 8 KAG für den Neuausbau der Teileinrichtung "Oberflächenentwässerung" der Erschließungsanlage "Krämerstraße von Hsnr. 2 bzw. 7 bis Münsterplatz" (Fußgängergeschäftsstraße) - ungeändert beschlossen
+- TOP 19: Satzung über die Erhebung von Beiträgen nach § 8 KAG für den Ausbau der "Körbergasse" als Fußgängergeschäftsstraße - ungeändert beschlossen
+- TOP 20: Satzung über die Erhebung von Beiträgen nach § 8 KAG für den Neuausbau der Teileinrichtung "Oberflächenentwässerung" der Erschließungsanlage "Romaneygasse" (Fußgängergeschäftsstraße) - ungeändert beschlossen
+- TOP 21: Satzung über die Erhebung von Beiträgen nach § 8 KAG für den Neuausbau der Teileinrichtung "Oberflächenentwässerung" der Erschließungsanlage "Rommelsgasse" (Fußgängergeschäftsstraße) - ungeändert beschlossen
+- TOP 22: Satzung über die Erhebung von Beiträgen nach § 8 KAG für den Neuausbau der Teileinrichtung "Oberflächenentwässerung" der Erschließungsanlage "Hühnermarkt von Rommelsgasse bis Romaneygasse" (Fußgängergeschäftsstraße) - ungeändert beschlossen
+- TOP 23: Bebauungsplan Nr. 1000 N - Erweiterung Uniklinik - für den Planbereich im Stadtbezirk Aachen-Laurensberg zwischen Uniklinik, Versorgungszentrum, Steinbergweg, Kullenhofstraße und Dorbachtalhier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 24: Bebauungsplan Nr. 995 - Blondelstraße/ Promenadenstraße - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Peterstraße, Blondelstraße, Promenadenstraße und Schumacherstraßehier: Satzungsbeschluss gem. §10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 25: Aufhebung des Bebauungsplanes Nr. 659 - Grünzug Haaren - für den Planbereich im Stadtbezirk Aachen-Haaren zwischen dem Haarberg, dem östlichen Haarener Bebauungsrand, der ehemaligen Bahnstrecke Haaren / Rothe Erde und der A 544hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 26: Sonnenweg, Verbesserung des Ausbaus und der Entwässerung;hier: Ausführungsbeschluss und über- und außerplanmäßige Verpflichtungsermächtigung - vertagt
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Anfragen:
+- TOP 28.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 28.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 29: Ratsanträge - zur Kenntnis genommen
+- TOP 30: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 30.1: Besetzung des Ausschusses für Schule und Weiterbildung - Wahl sachkundiger Einwohner*innen - ungeändert beschlossen
+- TOP 30.2: Umbesetzungsantrag der GRÜNE-Fraktion vom 14.09.2021 - ungeändert beschlossen
+- TOP 30.3: Umbesetzungsantrag der Fraktion DIE Zukunft vom 05.10.2021 - ungeändert beschlossen
+- TOP 30.4: Umbesetzungsantrag der CDU-Fraktion vom 30.09.2021 - ungeändert beschlossen
+- TOP 31: Mitteilungen der Verwaltung
+- TOP 32: Integriertes Klimaschutzkonzept (IKSK), Maßnahme 6.3, KlimaRegion – regionale Energieeffizienzgenossenschaft - zurückgezogen
+- TOP 33: Benennung eines Mitgliedes des Direktoriums der Gesellschaft für die Verleihung des Internationalen Karlspreises zu Aachen e.V. - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
