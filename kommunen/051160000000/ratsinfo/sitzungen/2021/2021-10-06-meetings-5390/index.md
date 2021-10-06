@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2021-10-06T15:00:00+02:00
+- Ende: 2021-10-06T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5390
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5390
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00197218.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00197218.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00197218.pdf
+
+## Tagesordnung
+
+- TOP 1: Wahl einer*eines Beigeordneten - Mit Stimmenmehrheit beschlossen
+- TOP 1.1: 16. Konferenz der Ratsmitglieder beim Städtetag NRW am 08.12.2021 (Videokonferenz) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2: Schulentwicklungsplanung - Ausbau der Platzkapazitäten in der SEK I - Mit Stimmenmehrheit beschlossen
+- TOP 2.1: Schulentwicklungsplanung - Ausbau der Platzkapazitäten in der SEK I; hier Antrag der Ratsfraktion DIE LINKE vom 06.10.2021 - Mit Stimmenmehrheit abgelehnt
+- TOP 3: Schulentwicklungsplanung - Ausbau der Platzkapazitäten in der SEK I - Mit Stimmenmehrheit beschlossen
+- TOP 3.1: Schulentwicklungsplanung - Ausbau der Platzkapazitäten in der SEK I; hier Antrag der Ratsfraktion DIE LINKE vom 06.10.2021 - Vom Antragsteller zurückgezogen
+- TOP 4: Errichtung eines Zentrums für Kinder, Jugendliche und Familien in der Jugendhilfe - Einstimmiger Beschluss
+- TOP 5: 232. Änderung des Flächennutzungsplanes ("Seestadt mg+") - Beitrittsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 6: Einrichtung eines Seniorenrats in Mönchengladbach und Aufnahme in die Hauptsatzung nach § 27a GO NRW - Einstimmiger Beschluss
+- TOP 7: Ausrichtung aller Parkplatz-Gebühren auf Ökologische und Soziale Belange - Mit Stimmenmehrheit abgelehnt
+- TOP 8: Lüftung an Schulen - Siehe Niederschrift
+- TOP 9: Steigerung der politischen Beteiligung Jugendlicher in Mönchengladbach / Prüfung zur Einrichtung des Partizipationsformats „Jugendparlament“ - Einstimmiger Beschluss
+- TOP 9.1: Stärkung der Jugendpartizipation in Mönchengladbach; Antrag DIE LINKE vom 26.09.2021 - Vom Antragsteller zurückgezogen
+- TOP 10: Neues Konzept für das Haus Erholung; hier: Antrag der CDU-Ratsfraktion vom 24.09.2021 - Vom Antragsteller zurückgezogen
+- TOP 11: Erneute Anregung zum Beitritt der Stadt Mönchengladbach zum ICAN-Städteappell - Mit Stimmenmehrheit beschlossen
+- TOP 12: Städtische Gesamtstrategie – Einbringung des Entwurfs - Kenntnisnahme
+- TOP 13: Fraktionsgeschäftsführungskosten gem. § 56 Abs. 3 GO NW; Vereinfachung der Berechnungssystematik - Mit Stimmenmehrheit beschlossen
+- TOP 14: Finanzbericht - Ausblick auf die finanziellen Auswirkungen der Corona-Pandemie - Kenntnisnahme
+- TOP 15: HSP-Umsetzungsbericht 30.06.2021 - Kenntnisnahme
+- TOP 16: Wirtschaftsplan 2022 der mags AöR - Kenntnisnahme
+- TOP 17: Satzungsänderung Sozial-Holding der Stadt Mönchengladbach GmbH (Sozial-Holding) - Einstimmiger Beschluss
+- TOP 18: Beteiligung der Sozial-Holding der Stadt Mönchengladbach GmbH; hier: Satzungsänderung Altenheime der Stadt Mönchengladbach GmbH - Einstimmiger Beschluss
+- TOP 19: Beteiligung der Sozial-Holding der Stadt Mönchengladbach GmbH; hier: Satzungsänderung Service GmbH der Stadt Mönchengladbach (Service GmbH) - Einstimmiger Beschluss
+- TOP 20: Beteiligung der Sozial-Holding der Stadt Mönchengladbach GmbH; hier: Satzungsänderung Ambulante Dienste GmbH der Stadt Mönchengladbach (Ambulante Dienste GmbH) - Einstimmiger Beschluss
+- TOP 21: Beteiligung der Sozial-Holding der Stadt Mönchengladbach GmbH; hier: Satzungsänderung Bildungs-GmbH der Stadt Mönchengladbach (Bildungs-GmbH) - Einstimmiger Beschluss
+- TOP 22: Satzungsänderung Städtische Kliniken Mönchengladbach GmbH (SKMG) - Einstimmiger Beschluss
+- TOP 23: Beteiligung der Städtische Kliniken Mönchengladbach GmbH (SKMG); hier: Satzungsänderung KSG Kliniken-Service-Gesellschaft Mönchengladbach mbH (KSG) - Einstimmiger Beschluss
+- TOP 24: Satzungsänderung Marketing Gesellschaft Mönchengladbach mbH (MGMG) - Einstimmiger Beschluss
+- TOP 25: Anpassung des Gesellschaftsvertrages der NEW Kommunalholding an das Mitbestimmungsgesetz - Einstimmiger Beschluss
+- TOP 26: Teilnahme der Stadt Mönchengladbach an der bundesweiten Kundenbefragung „Vitale Innenstädte 2022" mit dem Institut für Handelsforschung (IfH) - Einstimmiger Beschluss
+- TOP 27: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2021 (3.Nachweisung) - Kenntnisnahme
+- TOP 28: Bereitstellung überplanmäßiger Haushaltsmittel 2021 im Bereich "Grundsicherung im Alter und bei Erwerbsminderung" (4. Kapitel SGB XII) - Einstimmiger Beschluss
+- TOP 29: Hosting-Standort Personalaktendaten - Einstimmiger Beschluss
+- TOP 30: Rahmenplan „Offener Ganztag und schulische Betreuung" im Primarbereich - Getrennte Abstimmung (s. Niederschrift)
+- TOP 31: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Ausschuss für Schule und Bildung - Einstimmiger Beschluss
+- TOP 32: Leistungsvertrag Aids-Hilfe - Einstimmiger Beschluss
+- TOP 33: Aufteilung des Schiedsamtsbezirk Süd in Süd/1 und Süd/2 - Einstimmiger Beschluss
+- TOP 34: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mönchengladbach-West/1 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 35: Verlängerung der Leistungsvereinbarungen zum Betrieb von Begegnungsstätten - Einstimmiger Beschluss
+- TOP 36: Leistungsvereinbarung über die Erbringung von Leistungen im Aufgabenbereich des Einsatzes von Familienhebammen mit pro familia – Deutsche Gesellschaft für Familienplanung, Sexualpädagogik und Sexualberatung e.V. - Einstimmiger Beschluss
+- TOP 37: Leistungsvereinbarung mit dem Caritasverband für die Region Mönchengladbach-Rheydt e.V. über die Erbringung von Leistungen im Aufgabenbereich Familienpflege im Rahmen der allgemeinen Förderung der Erziehung in der Familie als Angebot der Frühen Hilfe - Einstimmiger Beschluss
+- TOP 38: Leistungsvereinbarung mit dem Sozialdienst katholischer Frauen e.V. – Ortsverein Mönchengladbach über die Erbringung von Leistungen im Aufgabenbereich der Werbung und Begleitung von Familienpaten im Rahmen des Angebotes der Frühen Hilfen - Einstimmiger Beschluss
+- TOP 39: Kommunale Bedarfsplanung für die Stadt Mönchengladbach gem. § 7 Abs. 6 Alten- und Pflegegesetz Nrw (APG NRW) - Einstimmiger Beschluss
+- TOP 40: Neuberufung der Mitglieder des Verwaltungsausschusses der Agentur für Arbeit Mönchengladbach für die am 01.07.2022 beginnende 14. Amtsperiode - Einstimmiger Beschluss
+- TOP 41: Regionalplan Düsseldorf (RPD) – 10. Änderung - Mit Stimmenmehrheit beschlossen
+- TOP 42: Wahlvorschlag Vorstand Schwalmverband - Einstimmiger Beschluss
+- TOP 43: Verbandsrat des Niersverbandes - Einstimmiger Beschluss
+- TOP 44: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion DIE LINKE vom 21.09.2021 - Einstimmiger Beschluss
+- TOP 45: Umbesetzung von Gremien; hier: Antrag der FDP-Ratsfraktion vom 24.09.2021 - Einstimmiger Beschluss
+- TOP 46: Umbesetzung von Gremien; hier: Antrag der SPD-Ratsfraktion vom 24.09.2021 - Einstimmiger Beschluss
+- TOP 47: Anfragen und Mitteilungen
