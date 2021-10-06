@@ -1,0 +1,7 @@
+# TOP 9: Sachstand Planung und Bau Clarissenstraße 44, Anfrage der Fraktion Bündnis 90/Die Grünen
+
+- Sitzung: Bezirksvertretung 4 (2021-10-06)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/306485
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/113643
