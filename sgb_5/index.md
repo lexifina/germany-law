@@ -135,6 +135,7 @@ Europäischen Wirtschaftsraum](0018.md)
 
 - [§ 44 Krankengeld](0044.md)
 - [§ 44a Krankengeld bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen](0044a.md)
+- [§ 44b Krankengeld für eine bei stationärer Behandlung mitaufgenommene Begleitperson aus dem engsten persönlichen Umfeld](0044b.md)
 - [§ 45 Krankengeld bei Erkrankung des Kindes](0045.md)
 - [§ 46 Entstehen des Anspruchs auf Krankengeld](0046.md)
 - [§ 47 Höhe und Berechnung des Krankengeldes](0047.md)

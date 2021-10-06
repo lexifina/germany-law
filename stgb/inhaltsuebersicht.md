@@ -376,8 +376,8 @@
 |  | § 125 | Landfriedensbruch |
 |  | § 125a | Besonders schwerer Fall des Landfriedensbruchs |
 |  | § 126 | Störung des öffentlichen Friedens durch Androhung von Straftaten |
-|  | § 127 | Bildung bewaffneter Gruppen |
-|  | § 128 | (weggefallen) |
+|  | § 127 | Betreiben krimineller Handelsplattformen im Internet |
+|  | § 128 | Bildung bewaffneter Gruppen |
 |  | § 129 | Bildung krimineller Vereinigungen |
 |  | § 129a | Bildung terroristischer Vereinigungen |
 |  | § 129b | Kriminelle und terroristische Vereinigungen im Ausland; Einziehung |
