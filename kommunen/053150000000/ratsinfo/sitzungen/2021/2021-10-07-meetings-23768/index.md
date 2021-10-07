@@ -1,0 +1,67 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-07T16:08:00+02:00
+- Ende: 2021-10-07T18:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23768
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23768
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke betreffend Wie versiegelt ist die Stadt? - zurückgestellt
+- TOP 1.2: Anfrage der Fraktion Die Linke betreffend Beschränkungen der Infrastruktur im Zusammenhang mit der Störfallverordnung ( Seveso – III – Richtlinie )/ Umgang mit der Asche aus der Klärschlammverbrennung - Sache ist erledigt
+- TOP 1.2.1: Beantwortung der Anfrage betreffend Beschränkungen der Infrastruktur im Zusammenhang mit der Störfallverordnung ( Seveso – III – Richtlinie )/ Umgang mit der Asche aus der Klärschlammverbrennung - Kenntnis genommen
+- TOP 1.3: Gemeinsame Anfrage von Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion und Volt-Fraktion betreffend Neuanlage von Seen oder Teichen - Sache ist erledigt
+- TOP 1.3.1: Beantwortung der Anfrage betreffend Neuanlage von Seen oder Teichen - Kenntnis genommen
+- TOP 1.4: Anfrage der SPD-Fraktion betreffend Konsequenzen aus den Überflutungen beim Starkregenereignis am 14. und 15. Juli 2021 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.4.1: Beantwortung der Anfrage betreffend Konsequenzen aus den Überflutungen beim Starkregenereignis am 14. und 15. Juli 2021 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.5: Anfrage der Fraktion Die FRAKTION betreffend Schutz von Igeln, Insekten und Amphibien im öffentlichen Grün - Sache ist erledigt
+- TOP 1.5.1: Beantwortung der Anfrage betreffend Schutz von Igeln, Insekten und Amphibien im öffentlichen Grün - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der SPD-Fraktion betreffend Sofortmaßnahmen für die Solar-Offensive in Köln - zurückgestellt
+- TOP 2.1.1: Änderungsantrag zu TOP 2.1: Antrag der SPD-Fraktion „Sofortmaßnahmen für die Solar-Offensive in Köln“ (DS 1409/2021) - zurückgestellt
+- TOP 2.2: Antrag der Fraktion Die Linke betreffend Erfassung der Luftqualität im Kölner Norden - zurückgestellt
+- TOP 2.2.1: Stellungnahme zum Antrag (AN/1729/2021) der Fraktion Die Linke zur Erfassung der Luftqualität im Kölner Norden - zurückgestellt
+- TOP 2.2.2: Änderungsantrag zum Antrag AN/1729/2021 „Erfassung der Luftqualität in Kölner Norden“ - endgültig zurückgezogen
+- TOP 2.3: Gemeinsamer Antrag der Fraktionen Die Linke, FDP und Die FRAKTION betreffend Sonnendeck - PV-Anlagen über Autobahnen - zurückgestellt
+- TOP 2.3.1: Änderungsantrag zum Antrag AN/1897/2021 „Sonnendeck – PV-Anlagen über Autobahnen“ - zurückgestellt
+- TOP 2.4: Gemeinsamer Antrag von Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion und Volt-Fraktion betreffend Neues NSG - geändert beschlossen
+- TOP 2.4.1: Änderungsantrag der Fraktion Die FRAKTION zu AN/2064/2021 - endgültig abgelehnt
+- TOP 2.4.2: Änderungsantrag der FDP-Fraktion zu TOP 2.4 - endgültig zurückgezogen
+- TOP 2.4.3: Ergänzungsantrag der SPD-Fraktion zum Antrag AN/2064/2021 „Neues NSG“ - ungeändert beschlossen
+- TOP 2.5: Gemeinsamer Antrag von Fraktion Bündnis 90 / Die Grünen, CDU-Fraktion, Volt-Fraktion und FDP-Fraktion betreffend Beleuchtung Rautenstrauchkanal - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Stadtstrategie „Kölner Perspektiven 2030+“ - zurückgestellt
+- TOP 4.1.2: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - ungeändert empfohlen
+- TOP 4.1.3: Kulturraum Kölner Friedhöfe 2025 - ungeändert empfohlen
+- TOP 4.1.4: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - endgültig abgelehnt
+- TOP 4.1.4.1: Snipes-Court - Kenntnis genommen
+- TOP 4.1.4.2: Änderungsantrag zu 1619/2020 - endgültig abgelehnt
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: PFC-Allgemeinverfügungen zum Verbot der Gartenbrunnennutzung zu Bewässerungszwecken - ungeändert beschlossen
+- TOP 4.2.1.1: PFC-Allgemeinverfügungen zum Verbot der Gartenbrunnennutzung zu Bewässerungszwecken - Kenntnis genommen
+- TOP 4.2.1.2: Änderungsantrag der FDP-Fraktion zu TOP 4.2.1, PFC - endgültig abgelehnt
+- TOP 4.2.1.3: Stellungnahme der Verwaltung zum Änderungsantrag AN/0907/2021 - Kenntnis genommen
+- TOP 4.2.2: Ersatzbeschaffung von 6 Gräberbaggern und 8 Greifschalen für den Friedhofsbereich - ungeändert beschlossen
+- TOP 4.2.3: Ersatzbeschaffung eines Radladers für den Friedhofsbereich - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Beschluss des Zielbilds für die Kölner Weststadt - mit Änderungen empfohlen
+- TOP 5.2: Rondorf Nord-West, Entflechtungsstraße - ohne Votum in nachfolgende Gremien
+- TOP 5.3: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - zurückgestellt
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Stadtklima- und Verschönerungsprogramm 2020 im Stadtbezirk Porz - Bewegungsparcour in Zündorf - Kenntnis genommen
+- TOP 7.2: Modellkommune im Projekt „Global Nachhaltige Kommune NRW“ - Kenntnis genommen
+- TOP 7.3: Energiebericht 2020: Energieverbrauchs- und Kostenstatistik 2019/Sachstand Energiemanagementkonzept 2020 - Kenntnis genommen
+- TOP 7.4: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
