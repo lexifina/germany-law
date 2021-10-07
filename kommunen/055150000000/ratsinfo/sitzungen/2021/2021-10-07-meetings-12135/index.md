@@ -1,0 +1,55 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-10-07T17:03:00+02:00
+- Ende: 2021-10-07T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12135
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12135
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00492338.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Sachstand Aufstellung des ortsfesten Dialog-Displays in Nienberge - zur Kenntnis genommen
+- TOP 4.2: Sachstand zum Antrag A-W/0009/2021 vom 26.01.2021: Verkehrliches Maßnahmenprogramm "Verlegung Heroldstraße / Bahnhaltepunkt Mecklenbeck" - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: 1. 95. Änderung des Flächennutzungsplans im Stadtteil Sentrup im Bereich Von-Esmarch-Straße / Fliednerstraße - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Straßenbenennungen nach Marga Spiegel, Nelly Sachs, Barbara Renz und Lily Braun im Bebauungsplan Nr. 572 Albachten – südlich Weseler Straße / östlich Hohe Geist - einstimmig geändert beschlossen
+- TOP 6.1.1: Straßennamen für Albachten - Zwischenmitteilung zur Kenntnis genommen
+- TOP 6.2: Unterhaltung der Grundstücke und baulichen Anlagen 2022 im Stadtbezirk West, geplante Instandsetzungsmaßnahmen - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Neufassung Errichtungsbeschluss für den Neubau eines Feuerwehrhauses der Freiwilligen Feuerwehr im Ortsteil Albachten - von der Tagesordnung abgesetzt
+- TOP 7.2: Bebauungsplan Nr. 227 - vorhabenbezogene 4. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 7.3: Elektro-Ladesäulenkonzept Münster 2021 zur Förderung der Elektromobilität - von der Tagesordnung abgesetzt
+- TOP 7.3.1: Förderung der Elektromobilität - Aufbau von öffentlichen Ladepunkten - von der Tagesordnung abgesetzt
+- TOP 7.3.2: Förderung der Elektromobilität - Aufbau von öffentlichen Ladestationen in Nienberge - von der Tagesordnung abgesetzt
+- TOP 7.3.3: Elektromobilität fördern - Konzept für die Versorgung Gievenbecks mit Ladesäulen - von der Tagesordnung abgesetzt
+- TOP 7.3.4: Elektromobilität fördern - Konzept für die Versorgung Sentrup mit Ladesäulen - von der Tagesordnung abgesetzt
+- TOP 7.3.5: E-Mobilität fördern - Öffentliche Ladestationen für Elektrofahrzeuge in Roxel - von der Tagesordnung abgesetzt
+- TOP 7.4: Durchführung eines Interessenbekundungsverfahrens zur Vergabe von stationsbasierten Carsharing-Stellplätzen - von der Tagesordnung abgesetzt
+- TOP 7.5: Erweiterung der Marienschule Roxel - Umgestaltung der Straße Auf dem Dorn als Schulhoffläche - einstimmig beschlossen
+- TOP 7.6: Freiraumentwicklungskonzept für das Kinderbachtal - mehrheitlich beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Fuß- und Radweg entlang der Heroldstraße / Wiedaustraße bedarfsgerecht ausbauen - eingebracht
+- TOP 8.2: Errichtung von Sitzbänken im Grünen Finger in Gievenbeck - eingebracht
+- TOP 8.3: Absenkung des Bordsteins auf dem Rüschhausweg Ecke Ahausweg - eingebracht
+- TOP 8.4: Verkehrslenkende Maßnahmen auf dem Rüschhausweg - eingebracht
+- TOP 8.5: Stadtteilentwicklungskonzept und Zukunftswerkstatt für Roxel - eingebracht
+- TOP 8.6: Verdeutlichung des Parkverbots im Kreuzungsbereich Horstmarer Landweg / Corrensstraße und Aufstellung eines (auf den Radverkehr ausgerichteten) Verkehrsspiegels - eingebracht
+- TOP 8.7: Verdeutlichung eines Parkverbots im Kreuzungsbereich Schmeddingstraße / Schulteweg - eingebracht
+- TOP 8.8: Roxel beruhigen - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Entwicklung alter Standort Feuerwehrgerätehaus - Thieplatz - vertagt
+- TOP 9.2: Nutzung der alten Feuerwache an der Gievenbecker Reihe für die Zwecke der Internationalen Fahrradwerkstatt des Integrationsforums Münster e. V. - zur Kenntnis genommen
+- TOP 9.3: Fußweg links hinter dem Rölverdurchlass Richtung Waldstück zum Haus Rüschhaus - zur Kenntnis genommen
+- TOP 9.4: Münsteraner Flüchtlingseinrichtungen für geflohene Afghan*innen verfügbar machen - zur Kenntnis genommen
+- TOP 10: Verschiedenes - zur Kenntnis genommen
