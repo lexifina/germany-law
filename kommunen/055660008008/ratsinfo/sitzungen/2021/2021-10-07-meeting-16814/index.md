@@ -1,0 +1,58 @@
+# Rat (135. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2021-10-07T18:00:00+02:00
+- Ende: 2021-10-07T20:21:00+02:00
+- Ort: Stroetmanns Fabrik, Friedrichstr. 2, 48282 Emsdetten, Bürgersaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYgtLiXxQ7NFcXhpUJD6-vE
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16814
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZZ7IzmWS_jkGZnsdngjOfmzAuuRyS501HK6EKjJAft8/Bekanntmachung_Rat_07.10.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWIrvMc2iU5B81qz6GFpotCTvxptDOwe_8jH4seiEY3x/Oeffentliche_Niederschrift_Rat_07.10.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Verpflichtung und Einführung eines Ratsmitgliedes
+- TOP 3.: Niederschrift über die letzte Sitzung vom 01.07.2021
+- TOP 4.: Anträge und Anfragen; Eingänge
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Erklären der Ratsmitglieder - Einstimmig
+- TOP 7.: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NRW des Bürgermeisters Oliver Kellner und des Ratsmitgliedes Daniel Hellwig vom 16.08.2021 zur Genehmigung der Auszahlung von investiven Planungsleistungen (Leistungsphase 1 – 5) zur Beschaffung von raumlufttechnischen Anlagen für Grundschulen und Einrichtungen der Kindertagesbetreuung - Einstimmig
+- TOP 8.: Umbesetzung von Gremien - Einstimmig
+- TOP 9.: Unterhaltungsverbände Emsdettener Mühlenbach und Nordwalder Aa, Hummertsbach, Greven und Saerbeck: Neuwahl eines stellvertretenden Ausschussmitglieds der Gruppe C für die Wahlperiode 2021-2025 - Einstimmig
+- TOP 10.: Stellenplan
+- TOP 10.1: Antrag der CDU auf zusätzliche Informationen zu Veränderungen im Stellenplan - Zur Kenntnis genommen
+- TOP 11.: Finanzangelegenheiten
+- TOP 11.1: Jahresabschluss 2020 - bestätigter Entwurf - Einstimmig
+- TOP 11.2: Befreiung von der Pflicht der Aufstellung eines Gesamtabschlusses 2020 - Einstimmig
+- TOP 11.3: Gesamtabschlüsse 2013 bis 2018 - (kein Text vorhanden)
+- TOP 11.3.1: Gesamtabschlüsse 2013 bis 2018 - Einstimmig
+- TOP 12.: Genehmigung einer weiteren überplanmäßigen Ausgabe gem. § 83 GO für den Betrieb des Corona-Testzentrums an der Schulstraße - Einstimmig
+- TOP 13.: Außerplanmäßige Verpflichtungsermächtigung für die Beschaffung von stationären Warnsystemen - Einstimmig
+- TOP 14.: Grundsatzstrategie für eine städtische Förderrahmenrichtlinie - proKLIMA - Einstimmig
+- TOP 15.: Bezuschussung von Balkonsolaranlagen für „Bildungseinrichtungen“ – Bürgerantrag 12.02.2021 - Einstimmig
+- TOP 16.: Stadtwerke Emsdetten GmbH
+- TOP 16.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2020 und Gewinnverwendung - Einstimmig
+- TOP 17.: Bestellung einer Arbeitnehmervertretung für den Aufsichtsrat der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 18.: Abwasserwerk der Stadt Emsdetten: Geschäftsbericht 2020 mit Jahresabschluss zum 31.12.2020 - Einstimmig
+- TOP 19.: I. Nachtrag zur Satzung der Stadt Emsdetten über die Erhebung von Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Gewässergebührensatzung (GGS) - Einstimmig
+- TOP 20.: Heimatpreis des Landesförderprogramms "Heimat.Zukunft.Nordrhein-Westfalen. Wir fördern was Menschen verbindet." - Einstimmig
+- TOP 21.: Zukunftsprozess - Emsdetten im Jahr 2038 - Einstimmig
+- TOP 22.: Gestaltung Kreisverkehre: LED-Lichterbäume - 37 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 23.: Gestaltung Kreisverkehr Elbersstraße / In der Lauge (Postkreisel) - 37 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 24.: Erweiterung der Radabstellanlage am Hengeloplatz Vorstellung der Entwurfsplanung - Einstimmig
+- TOP 25.: Entwicklung Sportstandorte - Einstimmig
+- TOP 26.: Sanierung und Erweiterung der EMS-HALLE – 2. Bauabschnitt Durchführung des Projektes zur technischen Sanierung der EMS-HALLE - Einstimmig
+- TOP 27.: Korrektur der Betriebskostenabrechnung Abfallwirtschaft 2020 - Zur Kenntnis genommen
+- TOP 28.: Korrektur der Betriebsabrechnung Straßenreinigung und Winterdienst 2020 - Zur Kenntnis genommen
+- TOP 29.: Regionalplanung
+- TOP 29.1: Anpassung des Regionalplans Münsterland an den Landesentwicklungsplan Nordrhein-Westfalen - Festlegung möglicher Siedlungspotenzialbereiche - Einstimmig
+- TOP 30.: Allgemeine Stadtentwicklungsplanung
+- TOP 30.1: Vertragliche Vereinbarung zur Durchführung einer Altlastenuntersuchung im Bereich Schilgen C - Einstimmig
+- TOP 31.: Etat / Budget
+- TOP 31.1: Entwurf Haushaltssatzung und Haushaltsplan 2022 - Zur Kenntnis genommen
+- TOP 32.: Verschiedenes
