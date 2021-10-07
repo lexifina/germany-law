@@ -1,0 +1,102 @@
+# 7. Sitzung der Bezirksvertretung Kalk INFEKTIONSSCHUTZ: Aufgrund der Mindestabstände stehen weniger Plätze für die Öffentlichkeit zur Verfügung. Bitte melden Sie sich unbedingt vorab bei der Schriftführung an.
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-07T17:00:00+02:00
+- Ende: 2021-10-07T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23597
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23597
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Fußgängerampel Frankfurter Straße, Höhe des Merheimer Heideweges/Höhenberger Kirchweg in Köln-Höhenberg - zurückgestellt
+- TOP 7.2: Korrekturen an der neuen Ampelanlage Höhe St. Vinzenzhaus in Köln-Brück - zurückgestellt
+- TOP 7.3: Städtische Grundstücksverkäufe im Bezirk Kalk nicht ohne eine Mitteilung an die Bezirksvertretung! - geändert beschlossen
+- TOP -: Städtische Grundstücke nicht verkaufen - ungeändert beschlossen
+- TOP -: städtische Grundstücke nicht verkaufen - Änderungsantrag zu "Städtische Grundstücksverkäufe im Bezirk Kalk nicht ohne eine Mitteilung an die Bezirksvertretung!" - endgültig abgelehnt
+- TOP 7.4: Lustheider Straße attraktiver und sicherer für die Anwohner*innen und Schüler*innen gestalten - ungeändert beschlossen
+- TOP 7.5: Sicherung von baulichen Zeitzeugen durch privates Engagement - geändert beschlossen
+- TOP 7.6: Errichtung einer Laterne an der Boulebahn in Köln-Brück - geändert beschlossen
+- TOP 7.7: Prüfauftrag zur Einrichtung von Kiss & Ride Zonen für Schulen - geändert beschlossen
+- TOP 7.8: Eine Gesamtschule für Köln-Neubrück! - zurückgestellt
+- TOP 7.8.1: Stellungnahme zu AN/1677/2021 Antrag der SPD-Fraktion vom 19.08.2021 - Eine Gesamtschule für Köln-Neubrück! - zurückgestellt
+- TOP 7.8.2: Gesamtschule ja - Aber nur mit Kollegium, Eltern und Schüler*innenschaft gemeinsam - zurückgestellt
+- TOP 7.9: Geschwindigkeitsüberwachung in den Nebenstraßen in Brück - ungeändert beschlossen
+- TOP 7.10: Weitere Trinkwasserspender für den Bezirk Kalk - ungeändert beschlossen
+- TOP 7.11: Kalkberg für Alle! - geändert beschlossen
+- TOP 7.12: Schutz der Grünfläche Remscheider Str. und Eythstraße - geändert beschlossen
+- TOP -: Schutz der Grünfläche Remscheider Str. und Eythstraße - ungeändert beschlossen
+- TOP 7.13: Ampelschaltung an der Kreuzung Frankfurter Straße/Olpener Straße Fußgänger freundlich und inklusiv gestalten - zurückgestellt
+- TOP 7.14: Dringlichkeitsantrag zur Pflasterung der Wege im Kalker Stadtgarten der Fraktion Bündnis 90/Die Grünen - geändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: nicht besetzt ( ursprüngliche Vorlage wurde nach TOP 9.1.4 verschoben)
+- TOP 8.1.2: Entscheidung durch die Bezirksbürgermeisterin und ein Mitglied der Bezirksvertretung gemäß § 36 Ab-satz 5, Satz 2 GO NRW und Genehmigung durch die Bezirksvertretung. - ungeändert beschlossen
+- TOP 8.1.3: Projektanträge im Rahmen des fünften Antragsdurchlaufs des Verfügungsfonds für das Gebiet „Soziale Stadt“ „Humboldt/Gremberg und Kalk“ - ungeändert beschlossen
+- TOP 8.1.4: Bestellung einer Schriftführerin für die Wahlperiode 2020 - 2025 - ungeändert beschlossen
+- TOP 8.1.5: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - zurückgestellt
+- TOP 8.1.6: Umgestaltung des Spielplatzes Würzburger Straße in Köln-Vingst - zurückgestellt
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - geändert beschlossen
+- TOP 8.2.2: Stadtstrategie „Kölner Perspektiven 2030+“ - geändert beschlossen
+- TOP 8.2.3: Zuschuss SC Köln Brück 07 e.V. - ungeändert beschlossen
+- TOP 8.2.4: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - endgültig zurückgezogen
+- TOP 8.2.5: Bedarfsfeststellungs- und Planungsbeschluss von nutzungsunabhängigen Sicherungsmaßnahmen der Hallen Kalk, Hallen 76 und 77 – Planungsbeschluss - ungeändert beschlossen
+- TOP 8.2.6: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: nicht besetzt (ursprüngliche Vorlage wurde nach TOP 10.2.4 verschoben)
+- TOP 9.1.2: Beantwortung einer mündlichen Anfrage der Fraktion Die LINKE. aus der Sitzung am 02.09.2021 "Öffentlichkeitsbeteilung - ein Lernprozess" - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen vom 26.08.2021 (AN/1771/2021) Klimatische Bedingungen im Stadteil Kalk - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer Anfrage der CDU-Fraktion vom 02.09.2021 TOP 9.3.1 "Schulweg für I-Dötchen" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Schuleingangsuntersuchungen bei Schulanfänger*innen des Schuljahres 2021/2022 im Stadtbezirk Kalk
+- TOP 9.2.2: Biologisch abbaubare Hundekottüten
+- TOP 9.2.3: Grüne Oasen für Kalk: Umwandelung der Parkplätze am Breuerpark zwischen Breuerstrasse und Steprathstrasse
+- TOP 9.2.4: Betrieb eines Schrotthandels im Bereich Wikinger Str. / Porzer Str. in Rath Heumar
+- TOP 9.2.5: Verkehrskonzept für Kalk und Humboldt/Gremberg endlich liefern
+- TOP 9.2.6: Instandsetzung der Radwege Köln-Brück und Merheim, Olpener Str.
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 9.4: Offene Anfragen aus früheren Sitzung
+- TOP 9.4.1: Porzer Straße in Köln-Rath/Heumar
+- TOP 9.4.2: Betriebswirtschaftliche Entwicklung des Industriegebiets Kalk-Süd (Hallen Kalk)
+- TOP 9.4.3: Autos, Fußgänger, Alkohol und Turnhallen im Stadtbezirk Kalk
+- TOP 9.4.4: Entsiegelung von Plätzen und Flächen im Stadtbezirk Kalk
+- TOP 9.4.5: Sicherung des Marienstandbilds am der Wikinger Straße, Höhe Einfahrt Bahnhof Heumar, in Köln-Rath/Heumar
+- TOP 9.4.6: Instandsetzung und Beleuchtung des Fußwegs zwischen Hans-Schulten-Straße und Astrid-Lindgren-Allee in Köln-Brück
+- TOP 9.4.7: Grünstreifen zwischen Vietorstraße, Kalk-Mülheimer Straße, Vorsterstraße und Kalker Hauptstraße in Köln-Kalk
+- TOP 9.4.8: Mähen des Straßenbegleitgrüns im Stadtbezirk Kalk
+- TOP 9.4.9: Günter-Kuxdorf-Weg/Merheimer Heideweg in Köln-Merheim
+- TOP 9.4.10: Sind "Freizeit – Umwelt – Sport" Gegensätze oder vereinbar?
+- TOP 9.4.11: Bauvorhaben in der Straße Hainbuchenweg in Köln-Rath/Heumar
+- TOP 9.4.12: Fehlende Neupflanzung von Bäumen an der Lüttringhauser Straße, Remscheider Straße und Wipperfürther Straße in Köln-Kalk
+- TOP 9.4.13: Offene bzw. nicht umgesetzte Beschlüsse aus der Bezirksvertretung Kalk
+- TOP 9.4.14: Grünstreifen in Köln-Kalk
+- TOP 9.4.15: Grünflächenwachstum im Vergleich zum Einwohnerwachstum im Stadtteil Kalk
+- TOP 9.4.16: Baumbestand im Stadtbezirk Kalk
+- TOP 9.4.17: Bedarf an Quartiersgaragen im Stadtbezirk Kalk
+- TOP 9.4.18: Verbindung zwischen den Veedeln Humboldt/Gremberg und Kalk im Stadtbezirk Kalk
+- TOP 9.4.19: Hundefreilauffläche im Fort X in Köln-Ostheim
+- TOP 9.4.20: Fußgängersicherung auf dem Bürgersteig in der Burgstraße zwischen den Hausnummern 14 bis 26 in Köln-Kalk
+- TOP 9.4.21: Klimatische Bedingungen im Stadtteil Kalk
+- TOP 9.4.22: „Baumersatzpflanzungen“ im Stadtbezirk Kalk
+- TOP 9.4.23: Einführung des Parkleitsystems Cleverciti in weiteren Stadteilen nach Abschluss des Piloten in Nippes
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 10.2.2: Tätigkeitsbericht 2020 des Amtes für Straßen und Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 10.2.3: nicht besetzt (ursprüngliche Vorlage wurde nach TOP 9.1.3 verschoben)
+- TOP 10.2.4: Beantwortung Mündliche Anfrage der Fraktionen Bündnis90/Die Grüne, CDU und Volt: Kalk ist ein Stadtbezirk im Umbruch. Projekte und Planungen, die den kulturellen Sektor und kulturell genutzte, bzw. nutzbare Räume betref-fen. - Kenntnis genommen
+- TOP 10.2.5: Sachstandsbericht Schulbauten im Stadtbezirk Kalk - Kenntnis genommen mit erneuter Wiedervorlage
