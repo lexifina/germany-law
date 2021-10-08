@@ -48,7 +48,7 @@
 - [Art 293 Abwendung der Vollstreckung der Ersatzfreiheitsstrafe und Erbringung von Arbeitsleistungen](art-293.md)
 - [Art 294 Gerichtshilfe](art-294.md)
 - [Art 295 Aufsichtsstellen bei Führungsaufsicht](art-295.md)
-- [Art 296 Einfuhr von Zeitungen und Zeitschriften](art-296.md)
+- [Art 296 (weggefallen)](art-296.md)
 - [Art 297 Verbot der Prostitution](art-297.md)
 
 ## Achter Abschnitt Schlußvorschriften

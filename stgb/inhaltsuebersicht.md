@@ -275,8 +275,8 @@
 |  |  |
 |  | § 84 | Fortführung einer für verfassungswidrig erklärten Partei |
 |  | § 85 | Verstoß gegen ein Vereinigungsverbot |
-|  | § 86 | Verbreiten von Propagandamitteln verfassungswidriger Organisationen |
-|  | § 86a | Verwenden von Kennzeichen verfassungswidriger Organisationen |
+|  | § 86 | Verbreiten von Propagandamitteln verfassungswidriger und terroristischer Organisationen |
+|  | § 86a | Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen |
 |  | § 87 | Agententätigkeit zu Sabotagezwecken |
 |  | § 88 | Verfassungsfeindliche Sabotage |
 |  | § 89 | Verfassungsfeindliche Einwirkung auf Bundeswehr und öffentliche Sicherheitsorgane |
@@ -376,6 +376,7 @@
 |  | § 125 | Landfriedensbruch |
 |  | § 125a | Besonders schwerer Fall des Landfriedensbruchs |
 |  | § 126 | Störung des öffentlichen Friedens durch Androhung von Straftaten |
+|  | § 126a | Gefährdendes Verbreiten personenbezogener Daten |
 |  | § 127 | Betreiben krimineller Handelsplattformen im Internet |
 |  | § 128 | Bildung bewaffneter Gruppen |
 |  | § 129 | Bildung krimineller Vereinigungen |
@@ -469,6 +470,7 @@
 |  | § 176b | Vorbereitung des sexuellen Missbrauchs von Kindern |
 |  | § 176c | Schwerer sexueller Missbrauch von Kindern |
 |  | § 176d | Sexueller Missbrauch von Kindern mit Todesfolge |
+|  | § 176e | Verbreitung und Besitz von Anleitungen zu sexuellem Missbrauch von Kindern |
 |  | § 177 | Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung |
 |  | § 178 | Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge |
 |  | § 179 | (weggefallen) |
@@ -506,6 +508,7 @@
 |  | § 190 | Wahrheitsbeweis durch Strafurteil |
 |  | § 191 | (weggefallen) |
 |  | § 192 | Beleidigung trotz Wahrheitsbeweises |
+|  | § 192a | Verhetzende Beleidigung |
 |  | § 193 | Wahrnehmung berechtigter Interessen |
 |  | § 194 | Strafantrag |
 |  | §§ 195 | bis 198 (weggefallen) |
