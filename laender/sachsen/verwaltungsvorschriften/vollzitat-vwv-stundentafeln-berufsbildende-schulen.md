@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.6
+- Datum: 2021-10-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2021
+08.10.2021
 bis
-07.10.2021
+04.05.2023
 
 VwV Stundentafeln berufsbildende Schulen
 
@@ -205,7 +205,8 @@ Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung
 
 A.17a
 
-Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42m HwO
+Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42r HwO
+
 
 A.18
 
@@ -214,15 +215,18 @@ Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtscha
 
 A.18a
 
-Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42m HwO
+Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42r HwO
+
 
 A.19
 
-Organisationsform Blockunterricht Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung, Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42m HwO
+Organisationsform Blockunterricht Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung, Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42r HwO
+
 
 A.20
 
-Organisationsform Blockunterricht Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung, Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42m HwO
+Organisationsform Blockunterricht Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung, Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42r HwO
+
 
 A.21
 
@@ -250,11 +254,6 @@ B.2
 Berufsfachschule für Sozialwesen
 
 
-B.2a
-
-Berufsfachschule für Sozialwesen (gültig für Schuljahr 2020/2021, Klassenstufe 2)
-
-
 B.3
 
 Berufsfachschule für Pflegehilfe
@@ -262,105 +261,115 @@ Berufsfachschule für Pflegehilfe
 
 B.4
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Diätassistenten
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Anästhesietechnische Assistenten
 
 
 B.5
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Ergotherapie
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Diätassistenten
 
 
 B.6
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Hebammen und Entbindungspfleger
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Ergotherapie
 
 
 B.7
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Logopädie
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Hebammen und Entbindungspfleger
 
 
 B.8
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Laboratoriumsassistent
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Logopädie
 
 
 B.9
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Radiologieassistent
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Laboratoriumsassistent
 
 
 B.10
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Assistent für Funktionsdiagnostik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Radiologieassistent
 
 
 B.11
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Veterinärmedizinisch-technischer Assistent
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Assistent für Funktionsdiagnostik
 
 
 B.12
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Notfallsanitäter
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Veterinärmedizinisch-technischer Assistent
 
 
 B.13
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Orthoptik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Notfallsanitäter
 
 
 B.14
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Pflegefachfrau/Pflegefachmann
-
-
-B.14a
-
-Berufsfachschule für Pflegeberufe Berufsabschluss Gesundheits- und Kinderkrankenpfleger/-in
-
-
-B.14b
-
-Berufsfachschule für Pflegeberufe Berufsabschluss Altenpfleger/in
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Operationstechnische Assistenten
 
 
 B.15
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Physiotherapie, Beruf Physiotherapeut
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Orthoptik
 
 
 B.16
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule Physiotherapie, Beruf Masseur und medizinischer Bademeister
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Pflegefachfrau/Pflegefachmann
+
+
+B.16a
+
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Altenpflegerin/Altenpfleger
+
+
+B.16b
+
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Gesundheits- und Kinderkrankenpflegerin/Gesundheits- und Kinderkrankenpfleger
 
 
 B.17
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pharmazeutisch-technische Assistenten
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Physiotherapie, Beruf Physiotherapeut
 
 
 B.18
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Podologen
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule Physiotherapie, Beruf Masseur und medizinischer Bademeister
 
 
 B.19
 
-Berufsfachschule für Musikinstrumentenbauer, Beruf Geigenbauer
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pharmazeutisch-technische Assistenten
 
 
 B.20
 
-Berufsfachschule für Musikinstrumentenbauer, Beruf Handzuginstrumentenmacher
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Podologen
 
 
 B.21
 
-Berufsfachschule für Musikinstrumentenbauer, Beruf Zupfinstrumentenmacher
+Berufsfachschule für Musikinstrumentenbauer, Beruf Geigenbauer
 
 
 B.22
+
+Berufsfachschule für Musikinstrumentenbauer, Beruf Handzuginstrumentenmacher
+
+
+B.23
+
+Berufsfachschule für Musikinstrumentenbauer, Beruf Zupfinstrumentenmacher
+
+
+B.24
 
 Berufsfachschule für Uhrmacher
 
@@ -873,9 +882,9 @@ Fsn-Nr.: 710-V17.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2021
+Fassung gültig ab:  8. Oktober 2021
 
-Fassung gültig bis:  7. Oktober 2021
+Fassung gültig bis:  4. Mai 2023
 
 Drucken/Speichern
 
@@ -902,7 +911,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17348.6
+https://www.revosax.sachsen.de/vorschrift/17348.7
 Stand vom
 18.11.2026
 
