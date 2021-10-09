@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums der Justiz und für Demokratie, Europa und Gleichstellung über die Ausbildung und Prüfung der Juristinnen und Juristen des Freistaates Sachsen (Sächsische Juristenausbildungs- und -prüfungsordnung – SächsJAPO)
+Vom 13. September 2021
+Auf Grund des § 9 des Sächsischen Juristenausbildungsgesetzes vom 26. Februar 2021 (SächsGVBl. S. 318) verordnet das Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung im Einvernehmen mit dem Staatsministerium des Innern, dem Staatsministerium der Finanzen und dem Staatsministerium für Wissenschaft, Kultur und Tourismus:
