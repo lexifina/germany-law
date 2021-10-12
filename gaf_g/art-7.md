@@ -1,0 +1,14 @@
+# Art 7 Inkrafttreten
+
+(1)
+Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 6 am Tag nach der Verkündung in Kraft.
+(2)
+Artikel 1 Nummer 1 und 4 tritt am 1. Januar 2023 in Kraft.
+(3)
+Artikel 1 Nummer 5 bis 8 tritt am 1. Juli 2022 in Kraft.
+(4)
+Artikel 1 Nummer 2 und 3 tritt am 1. August 2026 in Kraft.
+(5)
+Artikel 2 tritt am 1. August 2029 in Kraft.
+(6)
+Artikel 4 tritt am 1. Januar 2026 in Kraft.
