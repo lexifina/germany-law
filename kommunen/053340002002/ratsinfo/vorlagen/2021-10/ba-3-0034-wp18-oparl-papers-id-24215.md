@@ -1,0 +1,11 @@
+# Antrag der SPD Fraktion in der BV Haaren vom 27.10.2021 -Einführung einer Geschwindigkeitsbegrenzung auf 10 km/h an der Kreuzung Friedenstraße und Bahntrassenradweg Aachen-Jülich-
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: BA 3/0034/WP18
+- Art: Kenntnisnahme
+- Datum: 2021-10-12
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=24215
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=24215
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=448298&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4591 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
