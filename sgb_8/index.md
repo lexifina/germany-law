@@ -47,6 +47,7 @@
 - [§ 22a Förderung in Tageseinrichtungen](0022a.md)
 - [§ 23 Förderung in Kindertagespflege](0023.md)
 - [§ 24 Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege](0024.md)
+- [§ 24a (weggefallen)](0024a.md)
 - [§ 25 Unterstützung selbst organisierter Förderung von Kindern](0025.md)
 - [§ 26 Landesrechtsvorbehalt](0026.md)
 
