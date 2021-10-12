@@ -1,0 +1,8 @@
+# TOP 7: Fachplan Seniorenarbeit und Altenhilfe
+
+- Sitzung: 22. Sitzung des Ortschaftsrates Cossebaude (2021-10-12)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/155867
+- Ergebnis: Zustimmung mit Ergänzung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/47427
