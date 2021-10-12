@@ -1,0 +1,145 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2021-10-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6404496
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6404496
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I: Allgemeines
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget GeschichtsWerkstatt Ludwigsvorstadt-Isarvorstadt "Schau mal - Frau!" vom 07.10. - 31.12.2021 1.400,00 Euro, Az.: 0262.0-2-0415
+- TOP 2.2.: Voranfrage auf Zuwendung für die Aufstellung der Großskulptur „Autoeater“ auf dem Karlsplatz von November 2021 bis Juli 2022
+- TOP 2.3.: (E) Erneuerung des Spielplatzes auf der Theresienwiese sowie der Sport- und Spielstationen am Bavariaring im Stadtbezirk 2 Ludwigsvorstadt - Isarvorstadt Projektkosten (Kostenobergrenze): 2.310.000 Euro 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP 2.4.: (E) Stadtbezirksbudget GeschichtsWerkstatt Ludwigsvorstadt-Isarvorstadt Projekt „UMBRUCH: Viehhof-Volkstheater“ vom 17.10.-07.11.2021 2.980,00€; 0262.0-2-0416
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 1.1.: Rauchverbot in Sisha-Bars, Anfrage der CSU-Fraktion vom 27.09.2021
+- TOP 2: Entscheidungen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Genehmigung einer Freischankfläche a) Landwehrstraße 25 b) Lindwurmstraße 99
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 2.3.1.: (E) Änderung der Anordnung der Betonblöcke am Zebrastreifen in der Thalkirchner Straße
+- TOP 2.3.2.: (E) Lärmbelästigung durch intermittierende Pfeifgeräusche im Hinterhof Fraunhofer- / Reichenbachstraße Empfehlung Nr. 20-26 / E 00268 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 3: Anhörungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.2.1.: Planfeststellung nach §§ 18 Abs. 1, 18d Allgemeines Eisenbahngesetz (AEG) und § 76 Abs. 1 Verwaltungsverfahrensgesetz (VwVfG) für das Vorhaben „3. Planänderung im PFA 1 der 2. S-Bahn-Stammstrecke München (Änderung Bauwasserableitung)“, Bahn-km 103,464 bis 105,553 der Strecke 5547 Bf München Laim – München Leuchtenbergring Bft in der Landeshauptstadt München
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.1.: Thalkirchner Straße / Fliegenstraße Aufhebung der Vorfahrtsregelung (Z. 301 StVO)
+- TOP 3.3.2.: Reichenbachstraße 37 Antrag für die Aufstellung von Sitzgelegenheiten (in Form von einer Sitzbank aus Holz)
+- TOP 3.3.3.: Projekt Dreimühlenstraße / Isartalstraße
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Lärmbelästigung Müllerstraße durch Straßenbahn; Bürger*innenanliegen, vertagt aus der Sitzung des Ferienausschusses vom 07.09.2021 a) Bürger*innenanliegen b) Antwortschreiben der SWM zur Anfrage des BA 1 vom 25.08.2021
+- TOP 5.2.: Dauerhafte Anwesenheit von Obdachlosen am Gärtnerplatz; Bürger*innenanliegen
+- TOP 5.3.: Lärmbelästigung durch Betrunkene auf Parkplatzflächen am Holzplatz vor der Schillerstraße; Bürger*innenanliegen
+- TOP 5.4.: Petition „Verkehrssicherheit Grundschule Schwanthalerstraße“; Bürger*innenanliegen
+- TOP 5.5.: Verbesserung der Fußgängerüberquerung Baumstraße Ecke Palmstraße; Bürger*innenanliegen
+- TOP 5.6.: Fahrradfreundliche Lösung für die Tumblingerstraße; Bürger*innenanliegen
+- TOP 5.7.: Verlängerung der Sommerstraße Holzplatz; Bürger*innenanliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Mozartstraße 4 a) Neubau eines Bürogebäudes mit Tiefgarage (32 Stellplätze) b) Vollzug der Baumschutzverordnung
+- TOP 3.1.2.: Paul-Heyse-Straße 29a-29c Nutzungsänderung und Umbau der Mieteinheiten
+- TOP 3.1.3.: Landwehrstraße 81, Vorbescheid Neubau eines Wohn- und Geschäftsgebäudes mit Tiefgarage
+- TOP 3.1.4.: Schwanthalerstraße 16, Vorbescheid Generalsanierung eines Bürogebäudes mit Überbauung im Innenhof sowie Ausbau im Dachbereich
+- TOP 3.1.5.: Lindwurmstraße 125, Tektur Errichten eines Mansardflachdachs sowie eines Anbaus mit Flachdach in Verlängerung der Flachdachgaube als Erweiterung der Büroflächen im 5. OG (RGB), Errichten eines Vollgeschosses als neue Bürofläche im 2. OG (Nebengebäude)
+- TOP 3.1.6.: Klenzestraße 15, Vorbescheid Vorderhaus: Nutzungs- und Grundrissänderung (EG), DG-Ausbau, Umbau Dachstuhl, Errichtung von Balkonen und Aufzug; Rückgebäude: Neubau Gewerbeloft mit PKW Combilift-Garage
+- TOP 3.1.7.: Adlzreiterstraße 18a, Vorbescheid Errichtung eines Baukörpers mit Terrasse auf dem Flachdach eines bestehenden Gebäudes
+- TOP 3.1.8.: Landwehrstraße 24 Freischankfläche im Hof anstelle von 3 PKW-Stellplätzen
+- TOP 3.1.9.: Holzstraße 19 Vordach an bestehende Fassade im Erdgeschoss Süd
+- TOP 3.1.10.: Zenettistraße 2, Vorbescheid Neubau einer Vieh- und Fleischwagenwäsche
+- TOP 3.1.11.: Zenettistraße 48 Aufstockung und Erweiterung eines Boardinghauses zur Erstellung von 29 neuen Appartements und einer Wohneinheit, teilweise Änderung der Grundrisse: Einbau eines Sicherheitstreppenraumes und Anbau von Balkonen
+- TOP 3.1.12.: Goethestraße 18, Tektur a) Errichtung Fitnessraum, Frühstücksraum und Abrechnungsbüro im 1. OG b) Nutzungsänderung Laden zu Gaststätte
+- TOP 3.1.13.: Tumblingerstraße 17, Tektur Umbau, Renovierung, DG-Ausbau, Anbau von Balkonen (VGB + RGB); Nutzungsänderung von Gewerbe zu Büro (EG / RGB); Ausbau von Kellerräumen zu Gewerbe, Anbau eines Außenaufzugs (VGB), Einbau eines Aufzugs (RGB), Einbau / Austausch von Fenstern, Eingangstür und Tür-Fenster (VGB + RGB) sowie Einbau von Erneuerung von Balkonen (VGB + RGB)
+- TOP 3.1.14.: Pestalozzistraße 8 Nutzungsänderung: Büro zu Gaststätten-Nebenraum / Bibliothek (EG), Lager zu Theater- und Veranstaltungsraum (KG), Hobbyraum zu Seminar- und Workshopraum (DG), Anbringen von Lüftungsrohren an der Fassade, Errichten einer Notleiteranlage sowie Erneuerung der Dach- und Gaubeneindeckung
+- TOP 3.1.15.: Baaderstraße 35 Aufstockung und DG-Neubau eines Mehrfamilienhauses, Anbau von Balkonen und eines Aufzugs, Anbau und Sanierung Rückgebäude
+- TOP 3.1.16.: Ickstattstraße 7 Energetische Fassadensanierung (VGB) mit Erweiterung der straßenseitigen Loggien, Vergrößerung der hofseitigen Balkonanlagen und Errichtung einer außenliegenden Liftanalge
+- TOP 3.1.17.: Pettenkoferstraße 31 VGB: Einbau eines Personenaufzugs, Erweiterung der Loggia im EG, 1. OG und 2. OG, Abbruch und Neuerrichten der hofseitigen Balkone, KG: Erweiterung einer Wohneinheit, EG: Nutzungsänderung einer Praxis mit Wohnanteil zu einer Praxis mit zusätzlichen Praxisräumen, 1. OG: Nutzungsänderung eines Büros mit Verkaufsraum zu einem Büro mit zusätzlichen Büroraum, 2. OG: Nutzungsänderung eines Büros mit Wohnanteil zu einem Büro mit zusätzlichen Büroräumen, RGB: Nutzungsänderung zweier Garagen und einer Waschküche zu einem Büro sowie Errichten einer Parkliftanlage (4 Stpl.) im Hof
+- TOP 3.1.18.: Kapuzinerstraße 35 Einbau einer Aufzugsanlage, Zusammenlegung 2er EG-Wohnungen, Verbindung EG mit 1. + 2. UG durch Umbau von Kellerdecken und Einbau von Treppen, Nutzungsänderung: Eltern-KindInitiative (1. UG) und aufgelassenes Bachbett (2. UG) zu Kampfsportschule sowie Errichtung eines hofseitigen Treppenraums
+- TOP 3.1.19.: Nußbaumstraße 20, Vorbescheid Erweiterung und Umnutzung der chirurgischen Klinik zur dermatologischen Klinik (6 VAR) a) Vollzug der Baumschutzverordnung b) Anhörung im Einzelfall auf Anforderung
+- TOP 3.1.20.: Buttermelcherstraße 4, Tektur Erweiterung durch Hofunterkellerung (Klenzestraße 16) und Umbau einer Sauna (Buttermelcherstraße 4 / Klenzestraße 16a)
+- TOP 3.1.21.: Schillerstraße 29 Nutzungsänderung von 2 Wohnungen zu 4 Ferienapartments
+- TOP 3.1.22.: Adolf-Kolping-Straße 10, Tektur Neubau eines Parkhauses mit unterirdischer Garage, Büro- und Gewerbenutzung, Gastronomie und Mobility-Hub
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 1.1.: Sportanlage am Glockenbach wettertauglich machen; Antrag der Fraktion Die Grünen / Rosa Liste vom 27.09.2021
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Unterflurlösung für die Mülleimer am Gärtnerplatz Empfehlung Nr. 20-26 / E 00275 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "FreiRAUM-Viertel" Einlagerung Parklets und gebautes Mobiliar vom 01.10.2021 - 30.04.2022 1.800,00 Euro, Az.: 0262.0-2-0417
+- TOP 3: Anhörungen
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 3.1.1.: Baumfällungsantrag Arnulfstraße 15
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP E: Angelegenheiten des BA
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP -: Unterrichtungen
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP A 4.3.: Fehlendes Fußballtor und Zaunerhöhung auf der Schmellerwiese, Antwort des Referats für Stadtplanung und Bauordnung vom 31.08.2021
+- TOP A 4.4.: Aktualisierte Übersicht der Unterkünfte für Geflüchtete und Wohnungslose Juni 2021
+- TOP A 4.5.: Information zur Wiedereinsetzung des sogenannten verkürzten Verfahrens zur Schaffung von Unterkünften für Geflüchtete und Wohnungslose, Informationsschreiben des Sozialreferats vom 16.09.2021
+- TOP A 4.6.: Zeitliche Verschiebung des Stadtteilkulturfestivals, Informationsschreiben des Kulturreferats vom 08.09.2021
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Kultursommer an der Isar 2021, Änderungsbescheid
+- TOP B 4.7.: Parkraum / Parksuchverkehr im Dreimühlenviertel, Antwort der Verwaltung auf Bürger*innenanliegen
+- TOP B 4.8.: Queer Outdoor Cafe am 12.09.2021 auf dem Karl-Heinrich-Ulrichs-Platz, Bescheid vom 09.09.2021
+- TOP B 4.9.: Kulturbiergarten im Nußbaumpark, Ziemssenstraße vom 18.06. bis 18.09.2021 – Verlängerung vom 19.09. bis 09.10.2021, Änderungsbescheid vom 13.09.2021
+- TOP B 4.10.: Neuer Parkraum für Fahrräder im Dreimühlenviertel
+- TOP B 4.11.: Inhabergeführte Betriebe und Geschäfte im Stadtviertel stärken, Antrag der Fraktion DIE GRÜNE des BA 17 vom 14.09.2021
+- TOP B 4.12.: Zustimmung durch Eilentscheidung zur der Veranstaltung Straßentheater Plan B am 09.10.2021 (Ersatztermin 11.10.2021) auf dem St.-Pauls-Platz
+- TOP B 4.13.: Lärmbelästigung Rothmundstraße durch Bar; Antwort auf Bürger*innenanliegen
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.2.: Schillerstraße 27, Nutzungsänderung einer Gaststätte zu einem Wettbüro, Antwort der Lokalbaukommission auf BA-Stellungnahme
+- TOP C 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.4.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP C 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.6.: Begrünung des Platzes auf der Nordseite der Adolf-Kolping-Straße
+- TOP C 4.7.: Lindwurmstraße 88 Verkehrsaufsichtliche Erlaubnis für Instantsetzungsarbeiten in der Zeit von 22:00 Uhr bis 06:00 Uhr
+- TOP C 4.8.: Renovierung begehbarer Kanäle ≤ 1500; 1059-16 Altstadt/ Lehel, Projektgenehmigung mit Bedarfserweiterung der Münchner Stadtentwässerung
+- TOP C 4.9.: Protokoll der Kommission für Stadtgestaltung vom 27. Juli 2021
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D 4.2.: Ist das Zelt für Corona Antigen-Schnelltests an der Theresienwiese noch notwendig?
+- TOP D 4.3.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP D 4.4.: Zuwendung der Landeshauptstadt München im Haushaltsjahr 2021 als Projektförderung im Rahmen der Stadtbezirksbudget-Richtlinien für die Maßnahme „Parking Day am 17.09.2021“ des Bund Naturschutz in Bayern e.V., Zuwendungsbescheid vom 20.09.2021
+- TOP D 4.5.: Orte zum Bolzen
+- TOP E 4: Bereich BA-Angelegenheiten
