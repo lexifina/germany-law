@@ -1,0 +1,160 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2021-10-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6242050
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6242050
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Radentscheid-Maßnahme Querung Stadelheimer Straße; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.2.: Rotweiße Pfosten statt normalen Pfosten in Obergiesing; Bürgeranliegen (FF UA BPW)
+- TOP 2.1.2.3.: Antrag auf Einrichtung eines Absoluten Halteverbots vor der Grundschule St.-Martin-Straße; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.4.: Fahrradstellplatz nordöstlichen Ecke Wirtstr / Raintalerstr.; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.5.: Gefährdung Bürger*Innen Übergang Aktivitätsband Agfapark zum Weißenseepark; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.6.: Maßnahmen gegen Geschwindigkeitsübertretungen an der Ichogrundschule; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.7.: Gefährdung durch KFZ in der Marklandstraße; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.8.: Beschwerde über Zustände am Grünspitz; Bürgeranliegen (FF UA FSA + UA Umwelt & Gesundheit)
+- TOP 2.1.2.9.: Anbringung einer Warnleuchte oder eines Fahrradstreifen am Kreuzungsbereich Tegernseer Landstraße; Bürgeranliegen (FF MuV)
+- TOP 2.1.2.10.: Parksituation auf Höhe Werner-Schlierf-Str. 23 bezüglich Feuerwehrzufahrten und Wohngebiet; Bürgeranliegen (FF MuV)
+- TOP 2.1.2.11.: Störende Fussschilder für Blinde mit Blindenstock, Schwanseestr. 8 bis zur Haltestelle U-Bahn Giesing Bahnhof; Bürgeranliegen (FF UA Arbeit und Wirtschaft + Beauftragte für Inklusion)
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Kinderbeauftragte/r
+- TOP 3.2: Jugendbeauftragte/r
+- TOP 3.3: Inklusion (Beauftragte/r für Menschen mit Behinderung)
+- TOP 3.4: Gleichstellungsbeauftragte/r
+- TOP 3.5: Beauftragte/r gegen Rechtsextremismus
+- TOP 3.6: Beauftragte/r für Integration
+- TOP 3.7: Internetbeauftragte/r
+- TOP 3.8: Seniorenbeauftragte/r
+- TOP 3.9: Mieterbeirätin / Mieterbeirat
+- TOP 3.10: Baumschutz (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Scharfreiterpl. 14-16
+- TOP 3.10.2.: Traunsteiner Str. 16 (Unterrichtung der UNB)
+- TOP 3.10.3.: Eslarner Str. 1
+- TOP 3.10.4.: Severinstr. 2; Generalsanierung Wohn- und Verwaltungsgebäude (zusätzlich UA BPW)
+- TOP 3.10.5.: Severinstr. 2; Abbruch Abbruch des erdgeschossigen Eingangsgebäudes (zusätzlich UA BPW)
+- TOP 3.10.6.: Bad-Berneck-Str. 1
+- TOP 4.: Anträge/Anfragen
+- TOP 4.1.: Umwandlung des Stadtteilbezirks zwischen Tegernseer Landstr. / Ichostr. / Am Bergsteig / St.-Bonifatius-Str. inkl. Feldmüllersiedlung in eine Fahrradzone; Antrag Fraktion Die Grünen (FF MuV)
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget Initiative Giesing Denk(t)mal Erstellung einer projektbegleitenden Denkschrift mit wissenschaftlichem Anspruch 1.500,00 € / Az. 0262.0-17-0318 (FF UA Kultur)
+- TOP 5.1.2.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 01.-05.11.2021 4.000,00 € / Az. 0262.0-17-0319
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.2.1.: Mitteilung über Höhe der Unterstützung 3.600€ Vgl. TOP 5.2.1. aus Sitzung 09_21 (FF UA Kultur)
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.3.1.: Alpenstr. 7 - Umbau eines Flachdaches zu einer Dachterrasse; Frist: 16.10.2021
+- TOP 6.1.3.2.: Tegernseer Landstr. 337 - Neubau einer Brauerei mit Gastronomie, Verwaltung, Pferdeställen und Betriebsleiterwohnung - TEKTUR zu 1.1-2020-13616-33
+- TOP 6.1.3.3.: Tegernseer Landstr. 101 - Errichtung einer Mietwohnanlage mit drei Baukörpern und einer Tiefgarage - VORBESCHEID (Perlacher Str. / Raintaler Str. / Tegernseer Landstr. 101)
+- TOP 6.1.3.4.: St.-Bonifatius-Str. 1 - Modernisierung und Umbau eines denkmalgeschützten Wohn- und Geschäftshauses (31 WE / 2 Geschäftsräume) - TEKTUR zu 1.201-2017-7632-33 / hier: Nutzungsänderung: Verkaufsfläche Laden 1 zu Café
+- TOP 6.1.3.5.: Sanierungsgebiet "Tegernseer Landstr. / Chiemgaustr." - Teilaufhebung der Sanierungssatzung
+- TOP 6.1.4.1.: Listen der Bauvorhaben im 17. Stadtbezirk vom 23.08.2021 - 26.09.2021
+- TOP 6.1.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.3.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 6.1.4.4.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 6.1.4.5.: (U) Bebauungsplan mit Grünordnung Nr. 2037 Lincolnstraße (südlich), Bahnlinie München Ost - Deisenhofen (westlich), Cincinnatistraße (nördlich), General-Kalb-Weg (östlich) - Erweiterung der Europäischen Schule - Neubau des Auguste-Kent-Platzes und Umbau des Knotenpunktes Cincinnati- / Marklandstraße im 17. Stadtbezirk Obergiesing - Fasangarten 1. Genehmigung der Entwurfsplanung 2. Genehmigung des Projektkostenanteiles des Baureferates 3. Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 - 2026
+- TOP 6.1.4.6.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 6.1.4.7.: (U) Bebauungsplan mit Grünordnung Nr. 2118 Münchberger Straße (östlich), Kronacher Straße (südlich), BAB A 8 München - Salzburg (westlich), Fasangartenstraße (nördlich) - Satzungsbeschluss - Stadtbezirk 17 – Obergiesing-Fasangarten
+- TOP 6.1.5: Anträge
+- TOP 6.1.6: Sonstiges
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Schaffung eines vollwertigen, eingezäunten Spielplatz Bergstraße/Wirtstraße
+- TOP 6.2.4.2.: Ergebnisse der Online-Jugendbefragung 2020
+- TOP 6.2.4.3.: Antrag für eine gefüllte Spielekiste auf dem Spielplatz St.Martin Platz,Obergiesing
+- TOP 6.2.4.4.: Wiedereinsetzung des "Verkürzten Verfahrens" - Mitteilung des Sozialreferates -
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Alpenstraße, Zugspitzstraße; Absolutes Haltverbot für die Müllabfuhr mit Zeitzusatz - Schreiben des Mobilitätsreferates vom 10.08.2021 -
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Querungsmöglichkeit der St.-Bonifatius-Straße
+- TOP 6.3.4.2.: Anbindung des AWO-Föhrenparks an den Öffentlichen Personennahverkehr – Unterstützung der MVG durch die Landeshauptstadt München
+- TOP 6.3.4.3.: Fahrbahnsanierung und Rückbau des Kopfsteinplasters in der Untersbergstraße
+- TOP 6.3.4.4.: Fuß- und Radwegbrücke am Giesinger Berg im 17. Stadtbezirk Obergiesing - Fasangarten und im 18. Stadtbezirk Untergiesing - Harlaching
+- TOP 6.3.4.5.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Amerstorfferstr. 18
+- TOP 6.3.4.6.: Asphaltierung des General-Kalb-Weg stoppen - Antwort des Baureferates auf Antrag von Stadträten -
+- TOP 6.3.4.7.: Information der SWM über Baustellen in Ihrer Nähe: SWM Trinkwasserprojekt Herzogstandstraße - Schreiben der SWM vom 06.10.2021 -
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Ausgleichszahlungen für Baumfällungen sollen dem Stadtbezirk zukommen
+- TOP 6.4.4.2.: Impfmöglichkeiten gegen COVID 19 in Obergiesing und Fasangarten bereitstellen - Dringlichkeitsantrag -
+- TOP 6.4.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: "Konzerte - musicBYwomen", am 11.09.2021 (Ausweichtermin 07.09.2021), von 17.00 Uhr bis 22.00 Uhr, am Giesinger Bahnhof - Anhörung durch das Kreisverwaltungsreferat - (Stellungnahme vorab durch die BA-Vorsitzende)
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Antrag für eine Freischankfläche Tagescafe Poppi Farmer; St.-Bonifatius-Str. 1
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Mobilität und Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
