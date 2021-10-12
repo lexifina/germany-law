@@ -1,0 +1,109 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2021-10-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6107265
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6107265
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 21.09.2021
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Osserstr. 38 - Neubau eines Mehrfamilienhauses (11 WE) mit Tiefgarage; Anhörung des Referates für Stadtplanung und Bauordnung vom 29.07.2021 (vertagt aus letzter Sitzung) - Vorstellung durch Bauherrn -
+- TOP 2.2.2.: Gumppenbergstr. 1 - Wohnanlage - Gumppenbergstr. 5 - VORBESCHEID; Anhörung des Referates für Stadtplanung und Bauordnung vom 26.07.2021 (vertagt aus letzter Sitzung) - Vorstellung durch Bauherrn -
+- TOP 2.2.3.: Ideen für die alte Buswendeschleife an der Stuntz-/Ecke Walpurgisstraße - Vorstellung durch die "Initiative Walpurgisplatz"
+- TOP 2.2.4.: Baumfällung zu Bauvorhaben: Hohenlindener Str. 5 Gumppenbergstr. 1 (vertagt von letzter Sitzung) Nettelbeckstr. 42 Donaustr. 2
+- TOP 2.2.5.: Ersatzstandort für die "Grillstation" in der Freischützstraße; Bürgeranliegen (vertagt aus letzter Sitzung)
+- TOP 2.2.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.7.: Verschiedenes, Termine
+- TOP 2.2.8.: Planfeststellung nach § Allgemeines Eisenbahngesetz (AEG) i.V.m. § 73 Verwaltungsverfahrensgesetz für das Vorhaben: PFA 3 Ost der 2. Stammstrecke München Bf München Laim - München Leuchtenbergring Bft in der Landeshauptstadt München; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Denninger Str. & Weltenburger Str.: Schaffung einer Querungsmöglichkeit zum Pühnpark; Beschluss des BA 13 (Entscheidung)
+- TOP 2.3.2.: Einrichtung einer Halteverbotszone im Kurvenbereich der Wesendonkstraße; Antrag der SPD-Fraktion
+- TOP 2.3.3.: Ortsteilschilder an Hauptverkehrsstraßen ergänzen; Antrag der SPD-Fraktion
+- TOP 2.3.4.: Versetzung eines Ampelmasten vom Fahrradweg über die Max-Joseph-Brücke; Antrag der SPD-Fraktion
+- TOP 2.3.5.: Trennung des gemeinsam genutzten Fußgänger-und Fahrradweges an der östlichen Seite der Bülowstraße; Antrag der SPD-Fraktion
+- TOP 2.3.6.: Ampelschaltung für den Fahrradweg der Tivolistraße auf die Max-Joseph-Brücke ändern; Antrag der SPD-Fraktion
+- TOP 2.3.7.: Suche nach Fahrrad-Abstellflächen an der Ismaninger Str. 136 sowie gegenüber der Wehrlestraße 8; Bürgeranliegen (vertagt aus letzter Sitzung)
+- TOP 2.3.8.: Neue Arztpraxis Prinz-Eugen-Park / Parkraumsituation; Bürgeranliegen (vertagt aus letzter Sitzung)
+- TOP 2.3.9.: Auf Fahrbahnen parkende MVG-Busse; Bürgeranliegen
+- TOP 2.3.10.: Fußgängerüberquerung Denninger Str., Höhe Pühnpark; 2. Westpreußenstraße als Fahrradstraße ausweisen; 3. Sicherer Fahrradweg Friedrich-Eckart-Straße; 4. Fußgänger-Verbindung zwischen Pühnpark und Denninger Anger; Bürgeranliegen
+- TOP 2.3.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.12.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.2.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.2.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Baumfällungen: Bayreuther Str. 39 Ebersberger Str. 32 Englschalkinger Str. 266 LSG Isarauen (vertagt aus 09_21) Richard-Strauss-Str._82 Oberföhringer Str. 86 Mauerkircherstr. 175
+- TOP 2.6.2.: Kriterien zur Eingrenzung der in Zukunft behandelten Fällanträge
+- TOP 2.6.3.: Vegetationsarbeiten zwischen Johanneskirchen und Daglfing entlang der Gleise; Deutsche Bahn und UNB
+- TOP 2.6.4.: Instandsetzung Bolzplatz Savitsstraße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.5.: Hundekottütenspender am Huezziplatz Johanneskirchen; Antrag der CSU-Fraktion
+- TOP 2.6.6.: Aufstellung von Abfallbehälter gesondert für Hundekot; Antrag der CSU-Fraktion
+- TOP 2.6.7.: Einrichtung einer umzäunten Hundespielwiese (alternativ Freilaufwiese) auf der Grünfläche Nähe Isabella-Braun-Wege; Antrag der SPD-Fraktion (vertagt aus letzter Sitzung)
+- TOP 2.6.8.: Sanierung der Freizeitanlage im Zamilapark; Bürgeranliegen
+- TOP 2.6.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.10.: Verschiedenes, Termine
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Überprüfung historisch belasteter Straßennamen (vertagt in der Sitzung am 15.06.2021)
+- TOP 2.7.2.: Vorstellung des Münchener Flüchtlingsrats
+- TOP 2.7.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.4.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 5.1.: An der Cosimastr./Englschalkinger Str.: Nutzung als Veranstaltung eines Festivals sowie als Standplatz für Zelte und einer Kulturbühne (Weihnachtszauberwald) vom 15.11.21 bis 12.01.22; Anhörung des Kommunalreferats
+- TOP 5.2.: An der Cosimastr./Englschalkinger Str.: Nutzung als Christbaumverkaufsplatz vom 20.11.21 bis 27.12.21; Anhörung des Kommunalreferats
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Hinweis auf die Gefährlichkeit des Fuß- und Fahrradüberwegs über die Vogelweidestraße stadtauswärts / Radweg stadteinwärts Ecke Prinzregentenstraße Steinhauser Straße
+- TOP 6.2.: Kontrolle von Nachpflanzungen gefällter Bäume
+- TOP 6.3.: Mehr Unterstützung für die Gastronomie auf muenchen.de
+- TOP 6.4.: Regelmäßige Dialogforen zum Bahnausbau im Münchner Osten/Nordosten
+- TOP 6.5.: Raum- und Betreuungsbedarf Grundschulen in/um Prinz Eugen Park umgehend sicherstellen
+- TOP 6.6.: Verschmutzung Arabellapark - Rosenkavalierplatz; Antwortschreiben der Bayerischen Hausbau
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 7.7.2.: Planfeststellung "Zweibahniger Ausbau des Föhringer Rings"; Planfeststellung vom 15.10.2002; 2. Tektur vom 08.03.2021; Unterrichtung des Referats für Stadtplanung und Bauordnung
+- TOP 7.7.3.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2150 Richard-Strauss-Straße (östlich) Gemarkung Bogenhausen Flurstück Nrn. 214/17, 214/26, Teilfläche 225 (Teiländerung des rechtsverbindlichen Bebauungsplans Nr. 1325) - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss -
+- TOP 7.7.4.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 7.7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.9.1.: Vollzug der Zweckentfremdungssatzung: - Stargarder Str. 13
+- TOP 7.9.2.: (U) Strategie Flüchtlingsunterbringung 2022 - 2026, Betriebsführung von dezentralen Unterkünften 1. Stadtbezirk - Altstadt-Lehel 6. Stadtbezirk - Sendling 10. Stadtbezirk - Moosach 12. Stadtbezirk - Schwabing-Freimann 13. Stadtbezirk - Bogenhausen 16. Stadtbezirk - Ramersdorf-Perlach 19. Stadtbezirk - Thalkirchen-Obersendling- Forstenried-Fürstenried-Solln 22. Stadtbezirk - Aubing-Lochhausen-Langwied 24. Stadtbezirk - Feldmoching-Hasenbergl 25. Stadtbezirk - Laim
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.16: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
