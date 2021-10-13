@@ -1,7 +1,6 @@
 # Verordnung über die Gewährung von Erschwerniszulagen
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
-- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
