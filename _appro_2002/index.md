@@ -19,6 +19,7 @@ Ausbildung
 - [§ 9 Zuständige Stelle](0009.md)
 - [§ 10 Meldung und Zulassung zur Prüfung](0010.md)
 - [§ 11 Versagung der Zulassung](0011.md)
+- [§ 11a Nachteilsausgleich](0011a.md)
 - [§ 12 Anrechnung von Studienzeiten und Studienleistungen](0012.md)
 - [§ 13 Art und Bewertung der Prüfung](0013.md)
 - [§ 14 Schriftliche Prüfung](0014.md)

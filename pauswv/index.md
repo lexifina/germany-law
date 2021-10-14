@@ -18,7 +18,7 @@
 - [§ 8 Übermittlung](0008.md)
 - [§ 9 Qualitätsstatistik](0009.md)
 
-## Kapitel 3 Produktion
+## Kapitel 3 Produktion des Personalausweises
 
 - [§ 10 Eingang der Antragsdaten](0010.md)
 - [§ 11 Muster für den Personalausweis](0011.md)
@@ -27,29 +27,35 @@
 - [§ 13 Schnittstelle des elektronischen Speicher- und Verarbeitungsmediums](0013.md)
 - [§ 14 Speicherung von personenbezogenen Daten; Zugriffsschutz](0014.md)
 - [§ 15 Übermittlung und Übersendung des Sperrkennworts an die Personalausweisbehörde](0015.md)
-- [§ 16 Übermittlung der Sperrsumme und des Sperrschlüssels an den Sperrlistenbetreiber](0016.md)
+- [§ 16 Übermittlung der Sperrsumme, des Sperrschlüssels und des letzten Tages der Gültigkeitsdauer an den Sperrlistenbetreiber](0016.md)
 - [§ 17 Übersendung der Geheimnummer, der Entsperrnummer und des Sperrkennworts](0017.md)
 
-## Kapitel 4 Aushändigung
+## Kapitel 4 Aushändigung des Personalausweises; Braille-Aufkleber
 
 - [§ 18 Aushändigung des Personalausweises](0018.md)
+- [§ 18a Aufkleber mit Brailleschrift](0018a.md)
 
-## Kapitel 5 Änderung von Daten
+## Kapitel 5 Änderung von Daten des Personalausweises; nachträgliches Einschalten
 
 - [§ 19 Änderung der Anschrift](0019.md)
-- [§ 20 Neusetzung und Änderung der Geheimnummer](0020.md)
-- [§ 21 (weggefallen)](0021.md)
+- [§ 20 Neusetzung und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit dem Personalausweis](0020.md)
+- [§ 21 Nachträgliches Einschalten](0021.md)
 
-## Kapitel 6 Nutzung des elektronischen Identitätsnachweises
+## Kapitel 6 Elektronischer Identitätsnachweis mit einem mobilen Endgerät
 
-- [§ 22 Nachträgliches Einschalten](0022.md)
+- [§ 22 Einrichtung](0022.md)
 - [§ 23 (weggefallen)](0023.md)
+- [§ 23 Speicherung von personenbezogenen Daten; Zugriffsschutz](0023-2.md)
+- [§ 23a Neusetzen und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit einem mobilen Endgerät](0023a.md)
+- [§ 23b Gültigkeitsdauer](0023b.md)
 
 ## Kapitel 7 Sperrung und Entsperrung des elektronischen Identitätsnachweises
 
 - [§ 24 Referenzliste; allgemeine Sperrliste](0024.md)
-- [§ 25 Sperrung des elektronischen Identitätsnachweises](0025.md)
-- [§ 26 Entsperrung des elektronischen Identitätsnachweises](0026.md)
+- [§ 25 Sperrung des elektronischen Identitätsnachweises mit dem Personalausweis](0025.md)
+- [§ 25a Sperrung des elektronischen Identitätsnachweises mit einem mobilen Endgerät](0025a.md)
+- [§ 26 Entsperrung des elektronischen Identitätsnachweises mit dem Personalausweis](0026.md)
+- [§ 26a Entsperrung des elektronischen Identitätsnachweises mit mobilem Endgerät](0026a.md)
 - [§ 27 Auskunft über Sperrung](0027.md)
 
 ## Kapitel 8 Beantragung von Berechtigungen
@@ -81,6 +87,9 @@
 - [§ 38 Inkrafttreten](0038.md)
 - [Schlussformel](schlussformel.md)
 - [Anhang 1 Muster des Personalausweises](anhang-1.md)
+- [Anhang 1a Muster des Aufklebers zur Anschriftenänderung des Personalausweises](anhang-1a.md)
+- [Anhang 1b Muster des Aufklebers zur Anschriftenänderung des Personalausweises nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes](anhang-1b.md)
+- [Anhang 1c Muster des Aufklebers mit Brailleschrift für den Personalausweis und die eID-Karte](anhang-1c.md)
 - [Anhang 2 Muster des vorläufigen Personalausweises](anhang-2.md)
 - [Anhang 2a Muster des Ersatz-Personalausweises](anhang-2a.md)
 - [Anhang 3](anhang-3.md)

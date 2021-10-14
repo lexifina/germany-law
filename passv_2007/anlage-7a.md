@@ -1,4 +1,4 @@
-# Anlage 7a Aufkleber Dienstort- und Dienstbezeichnungsänderung
+# Anlage 7a Muster des Aufklebers zur Änderung des Dienstortes oder der Dienstbezeichnung
 
-(Fundstelle: BGBl. I 2010, 1452)
-[Bild: bgbl1_2010_j1440-1_0180.jpg]
+(Fundstelle: BGBl. I 2021, 3685)
+|  |

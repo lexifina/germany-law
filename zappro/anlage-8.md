@@ -3,7 +3,7 @@
 | Name, Vorname |  |
 | Geburtsdatum |  |
 | Geburtsort |  |
-| hat an nachstehenden Unterrichtsveranstaltungen regelmäßig und erfolgreich teilgenommen und die in Verbindung mit diesen Unterrichtsveranstaltungen in der Studienordnung gegebenenfalls dazu vorgeschriebenen vorbereitenden oder begleitenden Unterrichtsveranstaltungen regelmäßig besucht: |
+| hat an nachstehenden Unterrichtsveranstaltungen erfolgreich und, soweit praktische Fähigkeiten und Fertigkeiten vermittelt wurden, regelmäßig teilgenommen und die in Verbindung mit diesen Unterrichtsveranstaltungen in der Studienordnung gegebenenfalls dazu vorgeschriebenen vorbereitenden oder begleitenden Unterrichtsveranstaltungen regelmäßig besucht: |
 | Unterrichtsveranstaltung | Semester | von | bis |
 | 1. | Praktikum in der Klinik oder Poliklinik für Zahn-, Mund- und Kieferkrankheiten I |  |  |  |
 | 2. | Praktikum in der Klinik oder Poliklinik für Zahn-, Mund- und Kieferkrankheiten II |  |  |  |
@@ -20,13 +20,13 @@
 | 13. | Radiologisches Praktikum |  |  |  |
 | 14. | Pathologie |  |  |  |
 | 15. | Pharmakologie und Toxikologie |  |  |  |
-| 16. | Virologie, Mikrobiologie und Hygiene |  |  |  |
+| 16. | Hygiene, Mikrobiologie und Virologie |  |  |  |
 | 17. | Notfallmedizin |  |  |  |
 | 18. | Innere Medizin einschließlich Immunologie |  |  |  |
 | 19. | Dermatologie und Allergologie |  |  |  |
 | 20. | Berufskunde und Praxisführung |  |  |  |
 | 21. | Ethik und Geschichte der Medizin und der Zahnmedizin |  |  |  |
-| 22. | Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, öffentliche Gesundheitspflege, Gesundheitsökonomie und Ethik |  |  |  |
+| 22. | Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, öffentliche Gesundheitspflege, Gesundheitsökonomie |  |  |  |
 | 23. | Wissenschaftliches Arbeiten mit den Schwerpunkten medizinische Biometrie, medizinische Informatik, Literaturrecherche und -bewertung und evidenzbasierte Medizin |  |  |  |
 | 24. | Schmerzmedizin |  |  |  |
 | 25. | Medizin und Zahnmedizin des Alterns und des alten Menschen |  |  |  |

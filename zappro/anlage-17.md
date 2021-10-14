@@ -1,4 +1,4 @@
-# Anlage 17 (zu § 56, § 134 Absatz 1 Satz 7)Zeugnis über den Zweiten Abschnitt der Zahnärztlichen Prüfung
+# Anlage 17 (zu § 56)Zeugnis über den Zweiten Abschnitt der Zahnärztlichen Prüfung
 
 |  |  |
 | .............................(Ausstellende Stelle) |  |

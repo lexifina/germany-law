@@ -1,4 +1,4 @@
-# Anlage 4 (zu § 5 Absatz 2, § 20 Absatz 3 Satz 1 Nummer 3 und Absatz 4)Weitere Unterrichtsveranstaltungen, deren regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+# Anlage 4 (zu § 5 Absatz 2, § 20 Absatz 3 Satz 1 Nummer 3 und Absatz 4)Weitere Unterrichtsveranstaltungen, für die eine erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
 
 Unterrichtsveranstaltungen in folgenden Fächern und Querschnittsbereichen:
 1. Fach Pharmakologie und Toxikologie
@@ -13,5 +13,6 @@ Unterrichtsveranstaltungen in folgenden Fächern und Querschnittsbereichen:
 10. Querschnittsbereich Klinische Werkstoffkunde
 11. Querschnittsbereich Orale Medizin und systemische Aspekte
 12. Querschnittsbereich Erkrankungen im Kopf-Hals-Bereich
-13. Querschnittsbereich Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, Öffentliche Gesundheitspflege, Gesundheitsökonomie, Ethik und Geschichte der Medizin und der Zahnmedizin
-14. Querschnittsbereich Wissenschaftliches Arbeiten mit den Schwerpunkten medizinische Biometrie, medizinische Informatik, Literaturrecherche und -bewertung und evidenzbasierte Medizin
+13. Querschnittsbereich Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, Öffentliche Gesundheitspflege, Gesundheitsökonomie
+14. Ethik und Geschichte der Medizin und der Zahnmedizin
+15. Querschnittsbereich Wissenschaftliches Arbeiten mit den Schwerpunkten medizinische Biometrie, medizinische Informatik, Literaturrecherche und -bewertung und evidenzbasierte Medizin

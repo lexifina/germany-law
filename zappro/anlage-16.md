@@ -1,4 +1,4 @@
-# Anlage 16 (zu § 10 Absatz 2 Satz 2, § 40, § 82 Absatz 2 Nummer 9)Zeugnis über den Ersten Abschnitt der Zahnärztlichen Prüfung
+# Anlage 16 (zu § 10 Absatz 2 Satz 2, § 40, § 82 Absatz 2 Nummer 9, § 134 Absatz 2 Satz 4 und 5)Zeugnis über den Ersten Abschnitt der Zahnärztlichen Prüfung
 
 |  |  |
 | ................................(Ausstellende Stelle) |  |

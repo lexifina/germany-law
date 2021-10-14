@@ -2,8 +2,8 @@
 
 Inhaltsübersicht
 Erster Abschnitt: Das Patent
-Zweiter Abschnitt: Patentamt
-Dritter Abschnitt: Verfahren vor dem Patentamt
+Zweiter Abschnitt: Deutsches Patent- und Markenamt
+Dritter Abschnitt: Verfahren vor dem Deutschen Patent- und Markenamt
 Vierter Abschnitt: Patentgericht
 Fünfter Abschnitt: Verfahren vor dem Patentgericht
 1. Beschwerdeverfahren

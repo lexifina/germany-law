@@ -1,4 +1,4 @@
-# Anlage 3 (zu § 5 Absatz 2 und 3 Satz 2, § 16 Absatz 1 Satz 1und Absatz 2 Satz 1, § 20 Absatz 3 Satz 1 Nummer 3)Unterrichtsveranstaltungen, deren regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+# Anlage 3 (zu § 5 Absatz 2 und 3 Satz 2, § 16 Absatz 1 Satz 1und Absatz 2 Satz 1, § 20 Absatz 3 Satz 1 Nummer 3)Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
 
 1. Praktikum in der Klinik oder Poliklinik für Zahn-, Mund- und Kieferkrankheiten I und II
 2. Praktikum der zahnmedizinischen Diagnostik und Behandlungsplanung I und II

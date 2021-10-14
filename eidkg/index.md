@@ -12,7 +12,7 @@
 - [§ 6 Sachliche Zuständigkeit](0006.md)
 - [§ 7 Örtliche Zuständigkeit](0007.md)
 
-## Abschnitt 2 Ausstellung und Sperrung der eID-Karte
+## Abschnitt 2 Ausstellung und Sperrung der eID-Karte; elektronischer Identitätsnachweis mit einem mobilen Endgerät
 
 - [§ 8 Ausstellung der eID-Karte](0008.md)
 - [§ 8a Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät](0008a.md)

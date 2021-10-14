@@ -37,6 +37,10 @@ Vorbemerkung:
 | Schriftgröße 3 UnicodeDoc: 1,5 mm |
 | Anschrift | 25 Zeichen pro Zeile; 4 Zeilen (insgesamt 100 Zeichen) |
 | Seriennummer | 9 Zeichen pro Zeile; 1 Zeile (insgesamt 9 Zeichen) |
+| Datenfelder des Aufklebers für Anschriftenänderungen nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes | Anzahl der zur Verfügung stehenden Zeichen |
+| Schriftgröße 3 UnicodeDoc: 1,5 mm |
+| Anschrift | 22 Zeichen pro Zeile, 4 Zeilen (insgesamt 88 Zeichen) |
+| Seriennummer | 9 Zeichen pro Zeile; 1 Zeile (insgesamt 9 Zeichen) |
 Abschnitt 2
 | Musterfoto |  |
 | Qualitativ hochwertige Fotos sind die Grundlage einer einwandfreien Wiedergabe des Bildes und Voraussetzung für die Anwendung der Gesichtsbiometrie in Personalausweisen. Dieser Foto-Mustertafel sind die Qualitätsmerkmale zu entnehmen, die die Eignung der Fotos für den vorgesehenen Einsatz in Personalausweisen gewährleisten. Es ist dringend erforderlich, die hier beschriebenen Anforderungen zu beachten, da sonst eine biometrische Erkennung der antragstellenden Person sowie die einwandfreie Wiedergabe des Bildes im Dokument nicht gewährleistet sind. Die antragstellende Person ist grundsätzlich ohne Kopfbedeckung abzubilden. Die Ausweisbehörde kann vom Gebot der fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Auf den Fotos sind keine Uniformteile abzubilden. |

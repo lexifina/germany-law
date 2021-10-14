@@ -35,7 +35,7 @@
 - [§ 24](0024.md)
 - [§ 25](0025.md)
 
-## Zweiter Abschnitt Patentamt
+## Zweiter Abschnitt Deutsches Patent- und Markenamt
 
 - [§ 26](0026.md)
 - [§ 27](0027.md)
@@ -48,7 +48,7 @@
 - [§ 32](0032.md)
 - [§ 33](0033.md)
 
-## Dritter Abschnitt Verfahren vor dem Patentamt
+## Dritter Abschnitt Verfahren vor dem Deutschen Patent- und Markenamt
 
 - [§ 34](0034.md)
 - [§ 34a](0034a.md)
@@ -221,6 +221,7 @@
 - [§ 143](0143.md)
 - [§ 144](0144.md)
 - [§ 145](0145.md)
+- [§ 145a](0145a.md)
 
 ## Elfter Abschnitt Patentberühmung
 
