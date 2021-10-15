@@ -16,8 +16,7 @@ Betriebsrats (§ 14 des Gesetzes)
 - [§ 4 Einspruch gegen die Wählerliste](0004.md)
 - [§ 5 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit](0005.md)
 
-### Zweiter Abschnitt Wahl von mehr als drei
-Betriebsratsmitgliedern (aufgrund von Vorschlagslisten)
+### Zweiter Abschnitt Wahl von mehr als fünf Betriebsratsmitgliedern (aufgrund von Vorschlagslisten)
 
 
 #### Erster Unterabschnitt Einreichung und Bekanntmachung
@@ -87,8 +86,7 @@ Verfahren (§ 14a Abs. 3 des Gesetzes)
 
 - [§ 36 Wahlvorstand, Wahlverfahren](0036.md)
 
-### Dritter Abschnitt Wahl des Betriebsrats in Betrieben
-mit in der Regel 51 bis 100 Wahlberechtigten (§ 14a Abs. 5 des Gesetzes)
+### Dritter Abschnitt Wahl des Betriebsrats in Betrieben mit in der Regel 101 bis 200 Wahlberechtigten (§ 14a Abs. 5 des Gesetzes)
 
 - [§ 37 Wahlverfahren](0037.md)
 
@@ -97,8 +95,7 @@ Auszubildendenvertretung
 
 - [§ 38 Wahlvorstand, Wahlvorbereitung](0038.md)
 - [§ 39 Durchführung der Wahl](0039.md)
-- [§ 40 Wahl der Jugend- und Auszubildendenvertretung im vereinfachten
-Wahlverfahren](0040.md)
+- [§ 40 Wahl der Jugend- und Auszubildendenvertretung im vereinfachten Wahlverfahren](0040.md)
 
 ## Vierter Teil Übergangs- und Schlussvorschriften
 
