@@ -263,7 +263,7 @@
 - [§ 10.26 Schutz der Kanäle und Anlagen](0010-26.md)
 - [§ 10.27 Verkehrsbeschränkungen der Schifffahrt](0010-27.md)
 - [§ 10.28 Benutzung der Wasserstraßen](0010-28.md)
-- [§ 10.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters](0010-29.md)
+- [§ 10.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters](0010-29.md)
 
 ### Kapitel 11 Main
 
@@ -829,3 +829,4 @@
 - [Anlage 7 Schifffahrtszeichen](anlage-7.md)
 - [Anlage 8 Bezeichnung der Wasserstraße](anlage-8.md)
 - [Anlage 9 Daten, die in das Inland AIS Gerät einzugeben sind:Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der Positionsinformation auf dem Fahrzeug“](anlage-9.md)
+- [Anlage 10 Liste der berauschenden Mittel und Substanzen](anlage-10.md)

@@ -12,7 +12,7 @@
 ## Abschnitt 2 Ordnungswidrigkeiten
 
 - [§ 5 Bewehrung der allgemeinen Vorschriften](0005.md)
-- [§ 6 Bewehrung der Vorschriften über Alkohol](0006.md)
+- [§ 6 Bewehrung der Vorschriften über Alkohol und Drogenkonsum](0006.md)
 - [§ 7 Bewehrung der Vorschriften über die Abmessungen der Fahrzeuge oder Verbände, die Fahrrinnentiefe, Abladetiefe, zusätzliche Ausrüstung oder erforderliche Sprechverbindung](0007.md)
 - [§ 8 Bewehrung der Vorschriften über die zugelassenen Höchstgeschwindigkeiten oder die geforderten Mindestgeschwindigkeiten](0008.md)
 - [§ 9 Bewehrung der Vorschriften über das Mitführen oder Aushändigen von Urkunden oder Unterlagen](0009.md)

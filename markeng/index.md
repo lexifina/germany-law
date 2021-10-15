@@ -219,7 +219,7 @@ Wirkung der nach dem Madrider Markenabkommen international
 registrierten Marken](0124.md)
 - [§ 125 Umwandlung einer internationalen Registrierung](0125.md)
 
-### Abschnitt 3 Gemeinschaftsmarken
+### Abschnitt 3 Unionsmarken
 
 - [§ 125a (weggefallen)](0125a.md)
 - [§ 125b Anwendung der Vorschriften dieses Gesetzes](0125b.md)
@@ -252,7 +252,7 @@ Angaben oder Zeichen](0126.md)
 - [§ 135 Ansprüche wegen Verletzung](0135.md)
 - [§ 136 Verjährung](0136.md)
 
-### Abschnitt 3 Unionsmarken
+### Abschnitt 3 Ermächtigungen zum Erlaß von Rechtsverordnungen
 
 - [§ 137 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben](0137.md)
 - [§ 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) Nr. 1151/2012](0138.md)
