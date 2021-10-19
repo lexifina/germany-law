@@ -25,6 +25,7 @@ Genehmigungsbedürftige Anlagen
 | § 15 | Änderung genehmigungsbedürftiger Anlagen |
 | § 16 | Wesentliche Änderung genehmigungsbedürftiger Anlagen |
 | § 16a | Störfallrelevante Änderung genehmigungsbedürftiger Anlagen |
+| § 16b | Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien |
 | § 17 | Nachträgliche Anordnungen |
 | § 18 | Erlöschen der Genehmigung |
 | § 19 | Vereinfachtes Verfahren |

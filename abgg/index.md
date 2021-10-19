@@ -92,27 +92,39 @@ Bundestag](0038b.md)
 
 ## Zehnter Abschnitt Unabhängigkeit des Abgeordneten
 
-- [§ 44a Ausübung des Mandats](0044a.md)
-- [§ 44b Verhaltensregeln](0044b.md)
+- [§ 44a Unabhängigkeit des Mandats](0044a.md)
+- [§ 44b (weggefallen)](0044b.md)
 - [§ 44c Überprüfung auf Tätigkeit oder politische Verantwortung
 für das Ministerium für Staatssicherheit/Amt für Nationale
 Sicherheit der ehemaligen Deutschen Demokratischen Republik](0044c.md)
 - [§ 44d Verschwiegenheitspflicht und Aussagegenehmigung](0044d.md)
 - [§ 44e Ordnungsmaßnahmen gegen Mitglieder](0044e.md)
 
-## Elfter Abschnitt Fraktionen
+## Elfter Abschnitt Verhaltensregeln für die Mitglieder des Bundestages
 
-- [§ 45 Fraktionsbildung](0045.md)
-- [§ 46 Rechtsstellung](0046.md)
-- [§ 47 Aufgaben](0047.md)
-- [§ 48 Organisation](0048.md)
-- [§ 49 Geheimhaltungspflicht der Fraktionsangestellten](0049.md)
-- [§ 50 Geld- und Sachleistungen](0050.md)
-- [§ 51 Haushalts- und Wirtschaftsführung, Buchführung](0051.md)
-- [§ 52 Rechnungslegung](0052.md)
-- [§ 53 Rechnungsprüfung](0053.md)
-- [§ 54 Beendigung der Rechtsstellung und Liquidation](0054.md)
+- [§ 45 Anzeigepflicht](0045.md)
+- [§ 46 Rechtsanwälte](0046.md)
+- [§ 47 Veröffentlichung](0047.md)
+- [§ 48 Geldwerte Zuwendungen (Spenden)](0048.md)
+- [§ 49 Interessenverknüpfung im Ausschuss](0049.md)
+- [§ 50 Rückfrage](0050.md)
+- [§ 51 Verfahren bei Verstößen](0051.md)
+- [§ 52 Ausführungsbestimmungen](0052.md)
+- [§ 52a Übergangsregelung](0052a.md)
+
+## Zwölfter Abschnitt Fraktionen
+
+- [§ 53 Fraktionsbildung](0053.md)
+- [§ 54 Rechtsstellung](0054.md)
 
 ## Zwölfter Abschnitt (weggefallen)
 
 - [§ 55 (weggefallen)](0055.md)
+- [§ 55 Aufgaben](0055-2.md)
+- [§ 56 Organisation](0056.md)
+- [§ 57 Geheimhaltungspflicht der Fraktionsangestellten](0057.md)
+- [§ 58 Geld- und Sachleistungen](0058.md)
+- [§ 59 Haushalts- und Wirtschaftsführung, Buchhaltung](0059.md)
+- [§ 60 Rechnungslegung](0060.md)
+- [§ 61 Rechnungsprüfung](0061.md)
+- [§ 62 Beendigung der Rechtsstellung und Liquidation](0062.md)

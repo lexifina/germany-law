@@ -29,6 +29,7 @@
 - [§ 15 Änderung genehmigungsbedürftiger Anlagen](0015.md)
 - [§ 16 Wesentliche Änderung genehmigungsbedürftiger Anlagen](0016.md)
 - [§ 16a Störfallrelevante Änderung genehmigungsbedürftiger Anlagen](0016a.md)
+- [§ 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien](0016b.md)
 - [§ 17 Nachträgliche Anordnungen](0017.md)
 - [§ 18 Erlöschen der Genehmigung](0018.md)
 - [§ 19 Vereinfachtes Verfahren](0019.md)

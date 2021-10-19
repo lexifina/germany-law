@@ -10,7 +10,7 @@
 - [§ 4 Ausbaupfad](0004.md)
 - [§ 4a Strommengenpfad](0004a.md)
 - [§ 5 Ausbau im In- und Ausland](0005.md)
-- [§ 6 (weggefallen)](0006.md)
+- [§ 6 Finanzielle Beteiligung der Kommunen am Ausbau](0006.md)
 - [§ 7 Gesetzliches Schuldverhältnis](0007.md)
 
 ## Teil 2 Anschluss, Abnahme, Übertragung und Verteilung
@@ -97,7 +97,7 @@
 - [§ 36h Anzulegender Wert für Windenergieanlagen an Land](0036h.md)
 - [§ 36i Dauer des Zahlungsanspruchs für Windenergieanlagen an Land](0036i.md)
 - [§ 36j Zusatzgebote](0036j.md)
-- [§ 36k Finanzielle Beteiligung von Kommunen](0036k.md)
+- [§ 36k (weggefallen)](0036k.md)
 
 #### Unterabschnitt 3 Ausschreibungen für Solaranlagen des ersten Segments
 
@@ -113,12 +113,12 @@
 #### Unterabschnitt 4 Ausschreibungen für Solaranlagen des zweiten Segments
 
 - [§ 38c Gebote für Solaranlagen des zweiten Segments](0038c.md)
-- [§ 38d Sicherheiten für Solaranlagen des zweiten Segments](0038d.md)
+- [§ 38d Projektsicherungsbeitrag](0038d.md)
 - [§ 38e Höchstwert für Solaranlagen des zweiten Segments](0038e.md)
-- [§ 38f Erlöschen von Zuschlägen für Solaranlagen des zweiten Segments](0038f.md)
-- [§ 38g Zahlungsberechtigung für Solaranlagen des zweiten Segments](0038g.md)
-- [§ 38h Ausstellung von Zahlungsberechtigungen für Solaranlagen des zweiten Segments](0038h.md)
-- [§ 38i Anzulegender Wert für Solaranlagen des zweiten Segments](0038i.md)
+- [§ 38f Zuschläge für Solaranlagen des zweiten Segments](0038f.md)
+- [§ 38g Dauer des Zahlungsanspruchs für Solaranlagen des zweiten Segments](0038g.md)
+- [§ 38h (weggefallen)](0038h.md)
+- [§ 38i (weggefallen)](0038i.md)
 
 #### Unterabschnitt 5 Ausschreibungen für Biomasseanlagen
 
@@ -180,7 +180,7 @@
 - [§ 53b Verringerung des Zahlungsanspruchs bei Regionalnachweisen](0053b.md)
 - [§ 53c Verringerung des Zahlungsanspruchs bei einer Stromsteuerbefreiung](0053c.md)
 - [§ 54 Verringerung des Zahlungsanspruchs bei Ausschreibungen für Solaranlagen des ersten Segments](0054.md)
-- [§ 54a Verringerung des Zahlungsanspruchs bei Ausschreibungen für Solaranlagen des zweiten Segments](0054a.md)
+- [§ 54a (weggefallen)](0054a.md)
 - [§ 55 Pönalen](0055.md)
 - [§ 55a Erstattung von Sicherheiten](0055a.md)
 
@@ -291,12 +291,14 @@
 - [§ 97 Kooperationsausschuss](0097.md)
 - [§ 98 Jährliches Monitoring zur Zielerreichung](0098.md)
 - [§ 99 Erfahrungsbericht](0099.md)
+- [§ 99a Funknavigationsbericht](0099a.md)
 
 ### Abschnitt 3 Übergangsbestimmungen
 
 - [§ 100 Allgemeine Übergangsbestimmungen](0100.md)
 - [§ 101 Anschlussförderung für Altholz-Anlagen](0101.md)
-- [§ 102 (weggefallen)](0102.md)
+- [§ 101 Anschlussförderung für Altholz-Anlagen](0101-2.md)
+- [§ 102 Anschlussförderung für Grubengas](0102.md)
 - [§ 103 Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung](0103.md)
 - [§ 104 Weitere Übergangsbestimmungen](0104.md)
 - [§ 105 Beihilferechtlicher Genehmigungsvorbehalt](0105.md)
