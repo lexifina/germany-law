@@ -1,0 +1,136 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-10-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6434447
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6434447
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Kreuzung Georgen-/Zentnerstraße Antwort auf Bürgeranliegen
+- TOP 6.2.: Antwort Bürgeranliegen OP C 1.1.25 / 07 2021 Gabelsbergerstr. 64 - 66
+- TOP 6.3.: LBK Antwortschreiben RKU an BA 9 Lärmmessungen Lothstraße Gorillas
+- TOP 6.4.: Antwort Bürgeranliegen Schleißheimer Str. 22 / Rottmannstr. 16 Frage zu Bauzaun
+- TOP 6.5.: Instandsetzung Maßmannpark
+- TOP 6.6.: Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden
+- TOP 6.7.: AKIM personell aufstocken
+- TOP 6.8.: Antwort Sperrstunde und Clubs
+- TOP 6.9.: Antwort Bürgeranliegen Parkplatzmarkierungen Roller
+- TOP 6.10.: Bepflanzung der Straßenbäume mit Efeu
+- TOP 6.11.: Antwort Bürgeranliegen Verbot des Mitführens und des Benutzens von Glasbehältnissen
+- TOP 5.2: Vorstellungen
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Baumschutz Heßstr. 14 Bürgeranliegen vom 23.09.21
+- TOP 1.1.2.: Hochbeet in der Maxvorstadt Bürgeranliegen vom 17.09.2021
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: 37 KW (nichts),38. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 37-39. KW
+- TOP 2.2: Sitzungsvorlage aus BV
+- TOP 2.2.1.: (E) Mehr Bäume im St.-Benno-Viertel Empfehlung Nr. 20-26 / E 00134 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 09.07.2021
+- TOP 2.3: Sitzungsvorlage aus BV
+- TOP 2.3.1.: (E) Mehr Wasser im St.-Benno-Viertel Empfehlung Nr. 20-26 / E 00133 der Bürgerversammlung des Stadtbezirkes 03 Maxvorstadt am 09.07.2021
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Baumfällantrag Adamstraße 5
+- TOP 3.2.2.: Baumfällantrag Neureutherstr. 25
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: SWM Baumaßnahme Strom-Projekt Seidlstraße 4 NTS 1. BA
+- TOP 5.2.: Beschluss Beschlussvollzugskontrolle 0720-0721
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Anregungen Theresienstraße Bürgeranliegen vom 16.09.2021
+- TOP 1.1.2.: Sperrungen v.a. Königsplatz Bürgeranliegen vom 16.09.2021
+- TOP 1.1.3.: entfällt
+- TOP 1.1.4.: Rudi-Hierl-Platz//Sauberkeit U-Bahn-Ausgang Königsplatz/Dachauer Str. Bürgeranliegen vom 20.09.2021
+- TOP 1.1.5.: Maxvorstadt - Massive Beschädigungen in der Grünanlage am Königsplatz durch die IAA Bürgeranliegen vom 20.09.2021
+- TOP 1.1.6.: Open Air Disco seit dem 10. und 11.2021 und dem 17. und 18.2021 von 18.00h bis 2.00h!!! Bürgeranliegen vom 21.09.2021
+- TOP 1.1.7.: Antrag zur Verbesserung des Verkehrsflusses für Radfahrende Bürgeranliegen vom 21.09.2021
+- TOP 1.1.8.: Parksituation Georgenstraße /Winzererstraße Bürgeranliegen vom 23.09.2021
+- TOP 1.1.9.: Bürgeranliegen Baustellenlärm Türkenstraße Bürgeranliegen vom 29.09.2021
+- TOP 1.1.10.: Bürgeranliegen Straßenbaustelle Schleißheimer Straße Bürgeranliegen vom 30.09.2021
+- TOP 1.1.11.: Starke Zunahme an Hundekothaufen in der Maxvorstadt Bürgeranliegen vom 04.10.2021
+- TOP 1.1.12.: Begrünung der Amalienstraße Bürgeranliegen vom 04.10.2021
+- TOP 1.1.13.: Maxvorstadt - Massive Beschädigungen in der Grünanlage am Königsplatz durch die IAA Bürgeranliegen vom 20.09.2021
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 06.09.2021 Tempo 30 in der Maxvorstadt
+- TOP 1.2.2.: Antrag Grüne vom 04.10.2021 Keine IAA mehr auf öffentlichen Plätzen und Grünflächen in der Maxvorstadt
+- TOP 1.2.3.: Antrag SPD vom 04.10.2021 Flutlicht im Maßmannpark
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Überarbeitung Parklizenzgebiete BA 03
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Stellplatzumwandlung Gaiglstr 8
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Gabelsbergerstr. 60 / links, Einzelhandel mit erl.fr. Gaststätte Neuantrag fassadenseitige Freischankfläche (Gehweg)
+- TOP 2.3.2.: (E) Erarbeitung eines Konzepts zur Vermeidung nächtlichen Lärms der Außengastronomie in der Türkenstraße
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: VAO Tempo 30 in der Schellingstraße
+- TOP 3.2.: Inhabergeführte Betriebe und Geschäfte im Stadtviertel stärken, BA-Antrag 20-26 / B 02955 Antrag des BA 17 Obergiesing-Fasangarten mit der Bitte um Unterstützung durch die BAs
+- TOP 3.3.: 3.3 a Eilentscheidung Radlsicherheitscheck Professor-Huber-Platz 3.3 b entfällt
+- TOP 3.4.: Anliegerinfo Querungshilfe Tengstraße
+- TOP 3.5.: Verkehrs-AO Gegenläufiger Radverkehr Erzgießereistraße
+- TOP 3.6.: Gesamtstädtische Stellungnahme zur Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Bauvorhaben "Integrierte Gesamtlösung Hauptbahnhof München (IGL), 5. Planänderung zum Planfeststellungsbeschluss PFA 1 der 2. S-Bahn-Stammstrecke
+- TOP 3.7.: Finkenstraße (Stadtbezirk 3): errichtete E-Ladesäulen
+- TOP 3.8.: Ortstermin Poller am Rudi-Hierl-Platz
+- TOP 3.9.: Bericht vom Runden Tisch Hauptbahnhof
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: entfällt
+- TOP 2.2.: Café Hereinspaziert, Änderung des Projekts
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: BA-Info des Sozialreferates zur Wiedereinsetzung des "Verkürzten Verfahrens
+- TOP 4.2.: Sprengelbildung für die neue Grundschule an der Infanteriestr. 25, Entsendung aus dem BA
+- TOP 4.3.: Bericht vom Treffen REGSAM
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Media Future Team GbR Dokumentarfilm "Schwabinger Geschichte(n), Teil I vom 02.10.2021 - 01.10.2022 6.300,00 Euro, Az.: 0262.0-3-0368
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Regenbogen" Performance-Serie "ein bewegender Regenbogen" von Ende Oktober - Dezember 2021 1.800,00 Euro, Az.: 0262.0-3-0369
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative "Versandelt im dritten Bezirk" Ausstellung "Versandelt im dritten Bezirk" vom 01.12. - 30.12.2021 500,00 Euro, Az.: 0262.0-3-0370
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Infoveranstaltung historisch belastete Straßennamen
+- TOP 4.2.: Eilentscheidung Kunstperformance Diorama
+- TOP 4.3.: Bericht vom Plenum Kunstareal
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Beauftragter gegen Rechtsextremismus
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
