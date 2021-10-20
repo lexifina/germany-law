@@ -1,0 +1,137 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2021-10-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6162419
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6162419
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Kontakt zum Klinikum rechts der Isar: Vorstellung des neuen Ärztlichen Direktors und Vorstandsvorsitzenden
+- TOP 1.2.: Vorstellung der Überlegungen zum neuen Preismodell der Bäder durch die Leiterinnen der Badebetriebe der Stadtwerke
+- TOP 1.3.: Vorstellung der aktuellen Planungen zur 2. S-Bahn Stammstrecke durch die Deutsche Bahn
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Auftritte mit diskriminierenden und menschenverachtenden Inhalten verhindern
+- TOP 5.2.: Entzug einer Konzession wegen Übergriffs auf Transgender (Anfrage)
+- TOP 5.3.: Hausmeisterwohnung Sportanlage Grütznerstraße
+- TOP 5.4.: Straßenfläche vor Kirchenstr. 3-7: entsiegeln und nutzen
+- TOP 5.5.: Generalsanierung und Erweiterung des Jugendtreff Am Kegelhof: Wo stehen wir mit den Planungen für die Realisierung?
+- TOP 5.6.: Versetzung des Weihnachtsbaums auf dem Wiener Platz prüfen!
+- TOP 5.7.: Bedarfsampel an der Ohlmüllerstraße
+- TOP 5.8.: 2. SBSS: Planfeststellungsabschnitt 3 Ost
+- TOP 5.9.: Alternative Antriebe für Baustellenfahrzeuge
+- TOP 5.10.: Maximiliansanlagen schützen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 6.2.2.: Infoblatt Oktober 2021
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben Sozialraumkarte Au-Haidhausen von Oktober 2021 bis September 2022 3.575,00 € / Az. 0262.0-5-0358 Vertagt in der Sitzung am 22.09.2021
+- TOP 1.2.: (E) Stadtbezirksbudget Initiative „Weihnachtsaktion“ Einkaufswertgutscheine für bedürftige Familien 5.000,00 € / Az. 0262.0-5-0359
+- TOP 1.3.: (E) + (U) Kampagne gegen Antisemitismus und Homophobie
+- TOP 1.4.: (E) Sanierung und Aufwertung der Spielplätze und der Grünanlage am Johannisplatz im 5. Stadtbezirk Au-Haidhausen Projektkosten (Kostenobergrenze): 2.250.000 Euro 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Empfehlung Nr. 14-20 / E 02477 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 26.02.2019 Grünflächen am Johannisplatz und in der Wörthstraße wieder herrichten und zwischen den Bänken am Johannisplatz Neubepflanzungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Bazeillesschule: Klassenzusammenlegung verhindern
+- TOP 3.2.: Zukunft der Mittelschule an der Wörthstraße
+- TOP 3.3.: Vormerkung zur Ortsbegehung am Kolumbusplatz vom 16.09.2021
+- TOP 3.4.: Information zur Wiedereinsetzung des sogenannten verkürzten Verfahrens zur Schaffung von Unterkünften für Geflüchtete und Wohnungslose
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Konflikte am Skaterpark Tassiloplatz
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Spielplatz Schneckenburger Straße, weiteres Vorgehen
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Genehmigung einer Freischankfläche: "Chandani Chowk", Rosenheimer Str. 10 => dazu: weitere Vorlage
+- TOP 1.2.: Genehmigung einer Freischankfläche: "Kara Kazan Feinkost", Rosenheimer Str. 119
+- TOP 1.3.: (E) + (U) Forderung einer eigenen Einwohnerversammlung in der Unteren Au
+- TOP 2.: Anhörungen
+- TOP 2.1.: Straßentheater PLAN B auf dem Bordeauxplatz am 16.10.2021 Anhörungsfrist: 04.10.2021, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.2.: St. Martins Laternenfest am 12.11.2021 in den Frühlingsanlagen
+- TOP 2.3.: Winterstrandveranstaltung vom 26.11.2021 – 08.01.2022 an der Corneliusbrücke und Isarwestufer Anhörungsfrist 11.10.2021 Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.4.: Weißenburger Platz, 45. Haidhauser Weihnachtsmarkt vom 23.11. bis 24.12.2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Inhabergeführte Betriebe und Geschäfte im Stadtviertel stärken Antrag BA 17 mit der Bitte um Unterstützung durch die Bezirksausschüsse
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Sanierung des Orleansplatzes; Vorstellung durch das Baureferat
+- TOP 1.2.: Baulandmobilisierungsgesetz für Au-Haidhausen nutzen vertagt in der Sitzung am 22.09.2021
+- TOP 2.: Anhörungen
+- TOP 2.1.: Bebauungsplan Nr. 2171 Kirchen-, Spicheren-, Balan-, Rabl-, Franziskaner-, Stein-, Kellerstraße, Innere Wiener Straße, Schkellstraße, Max-Planck-Straße und Schloßstraße (Teiländerung des Bebauungsplans Nr. 1707) a) Urteil des VG München vom 14.06.2021, Sachstand und weiteres Vorgehen b) Aufstellungsbeschluss zur Änderung des Bebauungsplans Nr. 1707 Sitzungsvorlagen Nr. 20-26 / V 04566 Anhörungsfrist: 06.10.2021 Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.2.: Kellerstr. 33: Ertüchtigung des Daches eines vorhandenen erdgeschossigen Werkstattgebäudes im Innenhof, Rückbau der Überdachung des Kellerausgangs zu einem Vordach, sowie Wiederaufnahme der Nutzung des hinteren Raumes als Werkstatt
+- TOP 2.3.: Mariahilfstr. 6: Wohnungszusammenlegung im 3. Obergeschoss von 3 in 2 Wohneinheiten mit Wohnungserweiterung durch Dachgeschossneubau inkl. Dachanhebung, Tektur (Dachgeschossnneubau mit Dachanhebung)
+- TOP 2.4.: Metzstr. 37: Teilausbau im Dachgeschoss, Errichtung von Dachgauben und einer Dachterrasse, Tektur (geänderte Hofgestaltung)
+- TOP 2.5.: Trogerstr. 4 a: Abbruch von Bestandsgebäuden zur Baufeldfreimachung sowie zweier unterirdischer Öltanks (Schneckenburgerstr./Trogerstr.)
+- TOP 2.6.: Edlingerstr. 7: Abbruch des Rückgebäudes mit zwei Gewerbeeinheiten
+- TOP 2.7.: Welfenstr. 18: Nutzungsänderung von zwei Verkaufsräumen zu einem Auslieferungslager für Lebensmittel (Gorillas-Warehouse)
+- TOP 2.8.: Innere Wiener Str. 57: Sanierung der bestehenden Balkone mit Austausch der Tragkonstruktion
+- TOP 2.9.: Wörthstr. 9: Umbau und Nutzungsänderung der Gewerbeflächen im Rückgebäude (EG / 1. und 2. OG): Näherei, primär mit Produktionsflächen sowie Lagerräumen im UG zu fünf eigenständigen Büro- bzw. Praxiseinheiten mit Mieterabstellräumen im UG; Überdachung der TG-Rampe und Einbau einer Schiebetoranlage zur Garage; Errichtung einer Notleiteranlage vom 4. OG bis auf das Gelände des 2. nordöstlichen Innenhofs, Tektur
+- TOP 2.10.: Prinzregentenstr. 122: Nutzungsänderung einer Gaststätte zu Büro mit Lagerräumen im EG und KG eines Wohn- und Geschäftshauses
+- TOP 2.11.: Pöppelstr. 6: Nutzungsänderung und Umbau von Praxis zu Wohnung
+- TOP 2.12.: Welfenstr. 39-41: Neubau eines Rückgebäudes mit Tiefgarage (3 Varianten), Vorbescheid
+- TOP 2.13.: Bazeillesstr. 5: Abbruch Bestand Gewerbe, Neuerrichtung von 6 Wohneinheiten (2 Varianten), Vorbescheid
+- TOP 2.14.: Entenbachstr. 37: Kolpinghaus Jugendwohnheim, Anpassung der Freiflächen und Errichtung eines Nebengebäudes, Tektur
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Rückmeldung der LBK zu Stellungnahmen des BA 5: a) Johannisplatz 16 b) Elsässer Str. 32 c) Eduard-Schmid-Str. 27
+- TOP 3.2.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.3.: Wegeverbindung Maximiliansbrücke - Praterinsel
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Bebauung Franziskanerstr. 15, Auswirkungen beim Anwesen Rablstr. 41
+- TOP 4.2.: Antrag Vorkaufsrecht: Mieter*innengemeinschaft Milchstraße 1
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Radstellplätze an Kreuzungen – Franzosenviertel vertagt in der Sitzung am 22.09.2021
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Dollmannstraße 17
+- TOP 2.2.: Planfeststellung nach § Allgemeines Eisenbahngesetz (AEG) i.V.m. § 73 Verwaltungsverfahrensgesetz (VwVfG) für das Vorhaben: PFA 3 Ost der 2. Stammstrecke München Bahn-km 107,853 bis 110,711 der Strecke 5547 Bf München Laim - München Leuchtenbergring Bft in der Landeshauptstadt München“ => dazu Bürgeranliegen: Komplette Überarbeitung des Verbindungstunnels Ost-West und Architektur- und Landschaftswettbewerb des Ostbahnhofs
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fahrradweg Sieboldstraße in Nord-Süd Richtung
+- TOP 3.2.: Verkehrssicherheit Ernst-Reuter-Grundschule Antwort Polizeipräsidium zum Schreiben BA 5 vom 29.07.2021
+- TOP 3.3.: Verkehrsrechtliche Anordnungen a) Balanstr. 28, Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze und Lastenradstellplätze (Pilotversuch) b) Brückenerneuerung in der Balanstraße, Aufhebung der Einbahnregelung am 09.12.2021 c) Rosenheimer Straße zwischen Ludwigsbrücke und Gasteig, Neuverlegung einer Fernkälteleitung vom 05.10.-31.10.2021 d) Einrichtung eines Wertstoffcontainerstandortes Lucile-Grahn-Straße Westseite e) Schlossstr. 4, Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnliche Einrichtungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Zustand Falkenstraße nach Fertigstellung Paulaner Areal
+- TOP 4.2.: Errichtung von Fahrradabstellmöglichkeiten an der Senftlstr. 1a
+- TOP 4.3.: Aufstellung von Parkverbotsschildern in der Senftlstraße (Anbindung an Welfenstraße)
+- TOP 4.4.: Verkehrsberuhigung Falkenstraße Antwort Mobilitätsreferat liegt vor
+- TOP 4.5.: Grundsätzliches Parkverbot vor Schanigärten
+- TOP 4.6.: Beantragung eines „Anlieger frei Schilds“ für die Einfahrt Mariahilfplatz/am Herrgottseck Verweisung aus dem letzten UA Mobilität (TOP 4.3)
+- TOP 4.7.: Fußgängerüberweg von der Albanistraße in die Frühlingsanlagen Verweisung aus dem letzten UA Mobilität (TOP 4.10)
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Netzwerk Klimaherbst e.V. Fair.Wandeln.München - Digitaler Guide zu Orten des Wandels in Au-Haidhausen vom 01.10.2021 -30.09.2022 3.000,00€; Az. 0262.,0-5-0352 vertagt in der Sitzung am 22.09.2021
+- TOP 1.2.: (E) Verlängerung des Grünstreifens und der Baumreihe in der Kuglerstraße Empfehlung Nr. 20-26 / E 00114 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 08.07.2021
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einsteinstr. 89: Fällung von 1 Weide
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen
+- TOP 3.2.: Klimafunktionskarte für Au-Haidhausen bereitstellen
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Sonstiges
+- TOP 5.1.: Umweltgutachten Stammstrecke Bahn
+- TOP 5.2.: Müllcontainer Nockherstraße/Falkenstraße
+- TOP 5.3.: Pappeln in der Falkenstraße
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 08.11.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 08.11.2021, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 09.11.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 10.11.2021, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 10.11.2021, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 12.11.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Videokonferenz statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 17.11.2021, 19.00 Uhr, Neues Rathaus, Marienplatz 8 BA-Vorstand, Dienstag, 02.11.2021, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - A 5.8: 2. SBSS: Planfeststellungsabschnitt 3 Ost - A 5.9: 2. SBSS: Alternative Antriebe für Baustellenfahrzeuge - A 5.10: 2. SBSS: Maximiliansanlagen schützen - UA Soziales, TOP 5.1: Spielplatz Schneckenburger Straße, weiteres Vorgehen - UA Wirtschaft, zu TOP 1.1: Weitere Vorlage zur Genehmigung einer Freischank- fläche: "Chandani Chowk", Rosenheimer Str. 10 - UA Wirtschaft, TOP 2.3: Winterstrandveranstaltung vom 26.11.2021– 08.01.2022 - UA Wirtschaft, TOP 2.4: Haidhauser Weihnachtsmarkt - UA Planung, TOP 2.14: Entenbachstraße 37, Bauvorhaben - UA Planung, TOP 4.2: Antrag Vorkaufsrecht: Mieter*innengemeinschaft Milch- straße 1 - UA Mobilität, zu TOP 2.2: Bürgeranliegen: Komplette Überarbeitung des Verbin- dungstunnels Ost-West und Architektur- und Landschaftswettbewerb des Ost- bahnhofs - UA Klima, TOP 5.1: Umweltgutachten Stammstrecke Bahn - UA Klima, TOP 5.2: Müllcontainer Nockherstraße/Falkenstraße - UA Klima, TOP 5.3: Pappeln in der Falkenstraße
