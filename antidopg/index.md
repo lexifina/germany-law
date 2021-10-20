@@ -4,6 +4,7 @@
 - [§ 2 Unerlaubter Umgang mit Dopingmitteln, unerlaubte Anwendung von Dopingmethoden](0002.md)
 - [§ 3 Selbstdoping](0003.md)
 - [§ 4 Strafvorschriften](0004.md)
+- [§ 4a Strafmilderung oder Absehen von Strafe](0004a.md)
 - [§ 5 Einziehung](0005.md)
 - [§ 6 Verordnungsermächtigungen](0006.md)
 - [§ 7 Hinweispflichten](0007.md)

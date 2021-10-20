@@ -68,13 +68,14 @@ Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen
 | § 37 | Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union |
 Zweiter Abschnitt
 Treibhausgasminderung bei Kraftstoffen
-| § 37a | Mindestanteil von Biokraftstoffen an der Gesamtmenge des in Verkehr gebrachten Kraftstoffs; Treibhausgasminderung |
+| § 37a | Pflichten für Inverkehrbringer von Kraftstoffen |
 | § 37b | Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen |
 | § 37c | Mitteilungs- und Abgabepflichten |
 | § 37d | Zuständige Stelle, Rechtsverordnungen |
 | § 37e | Gebühren und Auslagen; Verordnungsermächtigung |
 | § 37f | Berichte über Kraftstoffe und Energieerzeugnisse |
 | § 37g | Bericht der Bundesregierung |
+| § 37h | Mechanismus zur Anpassung der Treibhausgasminderungs-Quote; Verordnungsermächtigung |
 Vierter Teil
 Beschaffenheit
 und Betrieb von Fahrzeugen, Bau und
