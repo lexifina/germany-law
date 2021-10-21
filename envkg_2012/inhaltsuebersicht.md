@@ -28,3 +28,4 @@ Gebrauchte Produkte
 | Anlage 1 | Musteretikett für Heizgeräte zur Verwendung bis einschließlich 25. September 2019 |
 | Anlage 2 | Musteretikett für Heizgeräte zur Verwendung ab 26. September 2019 |
 | Anlage 3 | Zeitliche Vorgabe zur Etikettierung |
+| Anlage 4 | Poster zum Energiekostenvergleich |

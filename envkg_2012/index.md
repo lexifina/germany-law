@@ -32,3 +32,4 @@
 - [Anlage 1 (zu § 16 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1)Musteretikett für Heizgeräte zur Verwendung bis einschließlich 25. September 2019](anlage-1.md)
 - [Anlage 2 (zu § 16 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1)Musteretikett für Heizgeräte zur Verwendung ab 26. September 2019](anlage-2.md)
 - [Anlage 3 (zu § 16 Absatz 2)Zeitliche Vorgabe zur Etikettierung](anlage-3.md)
+- [Anlage 4 (zu § 3 Absatz 4)Poster zum Energiekostenvergleich](anlage-4.md)
