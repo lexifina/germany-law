@@ -1,0 +1,54 @@
+# 57. Sitzung der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2021-10-21T17:00:00+02:00
+- Ende: 2021-10-21T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4933
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4933
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=325702
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Brachfläche für Obersee-Schule nutzbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Bezirkshaushaltsrechnung 2020 - überwiesen
+- TOP 5.3: ÖPNV in Alt-Hohenschönhausen stärken - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Bebauungsplan 11-180B - Aufstellungsbeschluss; Arbeitstitel: Vulkanstraße/Herzbergstraße nördlich Bebauungsplan 11-181B - Aufstellungsbeschluss; Arbeitstitel: Herzbergstraße nördlich/Siegfriedstraße Bebauungsplan 11-182B - Aufstellungsbeschluss; Arbeitstitel: Vulkanstraße/Herzbergstraße südlich Bebauungsplan 11-183B - Aufstellungsbeschluss; Arbeitstitel: Herzbergstraße südlich/Straße 15/Siegfriedstraße Bebauungsplan 11-184B - Aufstellungsbeschluss; Arbeitstitel: Herzbergstraße 64 - 76 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Weiterbehandlung der Drucksachen: DS 1996/VIII - Jetzt die Fortführung des Bebauungsplanverfahrens 11-80 vorbereiten -Untersuchungen zu Altlasten, der stadttechnischen Erschließung und zum Baugrund beauftragen; DS/1997/VIII - Abwägungsklausel für genehmigungspflichtige Vorhaben und sonstige Maßnahmen im Bebauungsgebiet 11 - 80 - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Eine Sport- und Spielfläche für die Rummelsburger Bucht - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.7: Lagebewertung zur Situation im Fennpfuhlpark und anderen öffentlichen Grünanlagen des Bezirkes - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Resolution - Nein zur Gewalt in der politischen Auseinandersetzung! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Standort "Zum Hechtgraben 1" zur Sozialraumentwicklung nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Bundeswehrhilfe annehmen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Geordnete Finanzen - Schulinvestitionen zuerst! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Grafenauer Weg für Kinder sicher machen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.13: Vorrang für werdende Mütter im familienfreundlichen Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Ballot-Bins für mehr Sauberkeit im öffentlichen Raum - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.15: Umsetzung des § 46 Abs. 2 MobG BE - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.16: Radwege und Fahrbahn der Sewanstraße sanieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.17: Frühzeitige Information über geplante Baumfällungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.18: Quartierspark Neubrandenburger Straße mit barrierefreien Toilette ausstatten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.19: Zusätzlicher Halt der S 75 an der Landsberger Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.20: Verleihung der Ehrenurkunde des Bezirkes Berlin-Lichtenberg 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.21: Verleihung der Ehrenurkunde des Bezirkes Berlin-Lichtenberg 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.22: Vorhabenbezogener Bebauungsplan 11-126 VE – Behördenbeteiligung; Arbeitstitel: Sewanstraße 259 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.23: Vorhabenbezogener Bebauungsplan 11-177 VE - Aufstellungsbeschluss; Arbeitstitel: Egon-Erwin-Kisch-Straße 28 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.24: Verleihung der Bürgermedaille 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Stattgefundene Informationsveranstaltung im Dorf Wartenberg am 22.07.2021 - beantwortet
+- TOP 7.2: Kältehilfe 2021/2022 - beantwortet
+- TOP 7.3: Zusammenarbeit des Bezirksamts mit dem Verein Garten- und Siedlungsanlage Falkenhöhe 1932 e. V. - beantwortet
+- TOP 8: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 8.1: Bachlauf renaturieren - Lebensqualität schaffen - "HIGH DENSITY HOUSING" an den "Gehrenseehöfen" (Vietnam-Siedlung) verhindern - in der BVV abgelehnt
+- TOP 8.2: Schutz und Pflege von Kunstwerken im öffentlichen Raum im Haushaltsplan des Bezirkes sicherstellen - überwiesen
+- TOP 8.3: Den Nutzern und Nutzerinnen in Falkenhöhe 1932 eine verlässliche Perspektive geben - überwiesen
+- TOP 9: Geschäftliche Mitteilungen und Vorlagen des Vorstandes - erledigt
