@@ -114,3 +114,4 @@
 - [Anlage 6 (zu § 34 Absatz 4)Abweichungen und Ergänzungen von Durchführungsrechtsakten der Kommission](anlage-6.md)
 - [Anlage 7 (zu § 36 Absatz 2 und § 39)Anforderungen in Bezug auf die Kosten der Eisenbahnanlagen und Zugangsentgelte](anlage-7.md)
 - [Anlage 8 (weggefallen)](anlage-8.md)
+- [Anlage 9 (zu § 70 Absatz 1)Der Regulierungsbehörde auf Verlangen vorzulegende Buchführungsdaten](anlage-9.md)
