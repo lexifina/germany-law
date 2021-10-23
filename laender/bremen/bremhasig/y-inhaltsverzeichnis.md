@@ -26,7 +26,7 @@ Teil 4 - Zuverlässigkeitsüberprüfungen
 § 18 | Zweckbindung und Verarbeitung personenbezogener Daten
 § 19 | Benachrichtigungspflichten und Datenübermittlung
 § 20 | Nachberichtspflicht und Wiederholungsüberprüfung
-§ 21 | Berichtigen, Löschen und Sperren personenbezogener Daten
+§ 21 | Berichtigen, Löschen und Einschränken der Verarbeitung personenbezogener Daten
 § 22 | Verordnungsermächtigung für Zuverlässigkeitsüberprüfungen
 Teil 5 - Gebührenrechtliche Bestimmungen
 § 23 | Gebühren
