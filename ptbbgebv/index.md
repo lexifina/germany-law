@@ -6,4 +6,4 @@
 - [§ 3 Übergangsregelungen](0003.md)
 - [§ 4 Inkrafttreten](0004.md)
 - [Anlage 1 (zu § 2 Absatz 1 Satz 2)Gebührenverzeichnis](anlage-1.md)
-- [Anlage 2 (zu § 2 Absatz 1 Satz 2)Stundensätze der Zeitgebühren](anlage-2.md)
+- [Anlage 2 (zu § 2 Absatz 1 Satz 2)Stundensätze](anlage-2.md)
