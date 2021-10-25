@@ -1,0 +1,69 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-10-25T17:00:00+02:00
+- Ende: 2021-10-25T20:02:00+02:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfkZsIZayyO7OVWd_wkuOAE
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7385
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQClCNK4dL6kE9dmVWhMdDRDXrRnfB-ggCxVMIC9pCT6/Bekanntmachung_Rat_25.10.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSX3PHwhVXJrh0Wct18UamImeFKZmLhMorKYZ4IwO5AN/Oeffentliche_Niederschrift_Rat_25.10.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 06.09.2021
+- TOP 3.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2022 - (kein Text vorhanden)
+- TOP 4.: Streetwork - (kein Text vorhanden)
+- TOP 5.: Job-Ticket-Ausgabe in 2022 - (kein Text vorhanden)
+- TOP 6.: Änderung der Satzung über die Wahrung der Belange von Menschen mit Behinderung der Stadt Brühl (Inklusionsbeiratssatzung) vom 14.12.2020 - (kein Text vorhanden)
+- TOP 7.: Eintrag in das Goldene Buch der Stadt Brühl durch Wilbert Hans - (kein Text vorhanden)
+- TOP 8.: Annahme und Verwendung eines Vermächtnisses
+- TOP 8.1: Annahme und Verwendung eines Vermächtnisses
+- TOP 8.2: Annahme und Verwendung eines Vermächtnisses Bezug: Fortschreibung Vorlage 405/2021
+- TOP 8.3: Verwendung eines Vermächtnisses Bezug: Fortschreibung Vorlage 405/2021 und 434/2021 - (kein Text vorhanden)
+- TOP 9.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 9.1: Überplanmäßige Mittelbereitstellung hier: Leistungen nach dem Unterhaltsvorschussgesetz (UVG) - (kein Text vorhanden)
+- TOP 9.2: Überplanmäßige Mittelbereitstellung für Kanaluntersuchungen und -reparaturen - (kein Text vorhanden)
+- TOP 9.3: Mobile Luftfilteranlagen in städtischen Schulen Bezug: Beschluss HA zur Beschaffung von mobilen Luftfilteranlagen für städtische Schulen und Kindertagesstätten (Vorlage 380/2021) - (kein Text vorhanden)
+- TOP 9.4: Überplanmäßige Mittelbereitstellung für die Beseitigung von Hochwasserschäden - (kein Text vorhanden)
+- TOP 9.5: Außerplanmäßige Mittelbereitstellung hier: Rückzahlung der FlüAG-Pauschale aus dem Jahr 2018 - (kein Text vorhanden)
+- TOP 9.6: Förderprogramm zum beschleunigten OGS Ausbau - (kein Text vorhanden)
+- TOP 9.7: Fachbezogene Pauschale für die Haushaltsjahre 2021 und 2022 Abbau von Lernrückständen, Umsetzung der Bund-Länder-Vereinbarung „Aktionsprogramm Aufholen nach Corona für Kinder u. Jugendliche“ in NRW hier: Überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 10.: Umbesetzung in Ausschüssen
+- TOP 10.1: Entsendung sachkundiger Einwohnerinnen und Einwohner sowie deren Begleitung aus dem Inklusionsbeirat in den Sportausschuss - (kein Text vorhanden)
+- TOP 10.2: Umbesetzung in Ausschüssen Bezug: Antrag der Grünen-Fraktion vom 13.10.2021 - (kein Text vorhanden)
+- TOP 10.3: Umbesetzung in Ausschüssen Bezug: Antrag der Fraktion Linke&Piraten vom 24.10.2021 - (kein Text vorhanden)
+- TOP 11.: Anträge
+- TOP 12.: Mitteilungen
+- TOP 12.1: Schreiben der Elisabeth-von-Thüringen-Schule
+- TOP 13.: Anfragen
+- TOP 13.1: Entwicklung Franziskanerhof Bezug: Anfrage der AfD-Fraktion vom 05.10.2021
+- TOP 13.1.1: Entwicklung Franziskanerhof Anfrage der Afd Fraktion
+- TOP 13.2: E-Scooter
+- TOP 13.3: Wettbewerb HS-Bund
+- TOP 13.4: Haushaltsberatung
+- TOP 13.5: Ampelschaltung Römerstraße
+- TOP 13.6: Geruchsbelästigung
+- TOP 13.7: Resolution Kiesgrube Brühl-Schwadorf
+- TOP 13.8: Lärmschutzwand Lise-Meitner-Straße
+- TOP 13.9: Workshop Mobilitätswende
+- TOP 13.10: Beschilderung Anfahrt Sportplatz Schwadorf
+- TOP 13.11: Abfallbehälter
+- TOP 13.12: Änderung einer Vorlage
+- TOP 13.13: Parkleitsystem
+- TOP B): Nichtöffentliche Sitzung
+- TOP 14.: Abordnung des Beigeordneten Gerd Schiffer zur Stadt Erftstadt
+- TOP 15.: Beurlaubung des Beigeordneten Gerd Schiffer - (kein Text vorhanden)
+- TOP 16.: Mitteilungen
+- TOP 16.1: Neubau Feuerwache
+- TOP 16.2: Belastung des Abwassers
+- TOP 16.3: Klage gegen die Stadt Brühl
+- TOP 17.: Anfragen
+- TOP 17.1: Situation Immendorfer Straße
+- TOP 17.2: IT-Sicherheit
+- TOP 17.3: Erweiterung THW
