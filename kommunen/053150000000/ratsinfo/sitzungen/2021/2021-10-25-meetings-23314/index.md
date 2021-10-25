@@ -1,0 +1,92 @@
+# 8.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-25T17:00:00+02:00
+- Ende: 2021-10-25T20:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23314
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23314
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Unpünktlichkeit der Stadtbahnlinie 4
+- TOP 1.2: Radschnellweg Köln-Bergisch Gladbach
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Widerrechtliches Parken an Fußgängerüberwegen (Az.: 02-1600-92/21) und Freihalten von Zuwegen (Az.: 02-1600-151/21) - geändert beschlossen
+- TOP 2.2: Bürgereingabe nach §24 GO - Platzbenennung Lohmühlenstraße/Ecke Bachstraße in Köln-Mülheim Az. 75/21 B - geändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Hardthofwiesen westlich Penningsfelder Weg in Köln-Dellbrück der "Interessensgemeinschaft Hardthofwiesen“ und BUND Kreisgruppe Köln sowie Bürgerverein Dellbrück vom 08.01.2021 - geändert beschlossen
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Baumscheibe, Bank und Fahrradstellplätze in der Kopernikusstraße, Köln-Buchforst (Az.: 02-1600-153-21) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Neue Gefährdung im Kreuzungsbereich Buschfeldstraße/Bergisch Gladbacher Straße in Köln-Holweide - Kenntnis genommen
+- TOP 7.1.2: Umsetzung Beschluss der BV 9 zu Tempo 30 im Weidenbruch - Kenntnis genommen
+- TOP 7.1.3: Mitarbeitende des Ordnungsamtes in Köln-Mülheim - Kenntnis genommen
+- TOP 7.1.4: Pflege, Instandhaltung und Neukonzeption von städtischen Spielplätzen - Kenntnis genommen
+- TOP 7.1.5: Stammheimer Fort / Spielplatz - Angebot - Kenntnis genommen
+- TOP 7.1.6: Zukünftige Nutzung Brachfläche Radiumstr. östlich des Aldi-Parkplatzes in Köln-Dellbrück - Kenntnis genommen
+- TOP 7.1.7: Ausbau der Radverkehrswege auf der Leuchterstraße - Kenntnis genommen
+- TOP 7.1.8: Wie kann man eine derartige Überflutung durch den Mutzbach in Zukunft verhindern? - Kenntnis genommen
+- TOP 7.1.9: Umgestürzte Bäume in Köln Dünnwald AN/1224/2021 - Kenntnis genommen
+- TOP 7.1.10: Überflutung des Innenbereichs der Sitzgruppen am Wiener Platz - Kenntnis genommen
+- TOP 7.1.11: Barrierefreie Sporthallen - gemeinsame Anfrage von der SPD-Fraktion, der CDU-Fraktion und des Einzelmandatsträgers Tücks (FDP) AN/1635/2021 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Öffentliche Werbung für Handwerksberufe - Kenntnis genommen
+- TOP 7.2.1.1: Beantwortung der AFD-Anfrage AN 2115/2021 "Öffentliche Werbung für Handwerksberufe" - Kenntnis genommen
+- TOP 7.2.2: Kosten für das Entfernen und Überstreichen von Graffiti - Kenntnis genommen
+- TOP 7.2.2.1: Beantwortung der Anfrage AN2116/2021 des Einzelmandatsträgers Hengstenberg (AfD): Kosten für die Entfernung und das Überstreichen von Graffiti - Kenntnis genommen
+- TOP 7.2.3: Weiterführende Schulen / Gymnasien in Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.4: Weitere Nutzung der zur Flüchtlingsunterbringung genutzten Hotels in Köln-Dellbrück - Kenntnis genommen
+- TOP 7.2.5: Zukünftige Luftfilter in Schulen des Stadtbezirks - Kenntnis genommen
+- TOP 7.2.6: Taktverbesserung der Buslinie 250 - Sache ist erledigt
+- TOP 7.2.7: KVB-Anzeigetafeln im Stadtbezirk - Kenntnis genommen
+- TOP 7.2.8: Fahrrad-Abstellzonen für KVB-Leihräder im Stadtbezirk - Kenntnis genommen
+- TOP 7.2.9: Nicht bearbeitete Anträge im Ausländeramt Köln- Mülheim und deren Konsequenzen für die Antragstellenden - Kenntnis genommen
+- TOP 7.2.10: Barrierefreier Bahnhof Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.11: Aktuelle Angebote für die Einwohner*innen im Stadtteil durch den Verein InterKultur e.V. im Bürgerhaus Köln- Mülheim ehemals „MüTZe e.V.“ - Kenntnis genommen
+- TOP 7.2.11.1: Beantwortung der Anfrage der Fraktion DIE LINKE - AN/2182/2021 - Kenntnis genommen
+- TOP 7.2.12: Geplanter Abriss des Hochbunkers in Flittard - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Ampelschaltung Dünnwalder Straße / Clevischer Ring - ungeändert beschlossen
+- TOP 8.1.2: Quartiersgarage im Parkhaus Galerie Wiener Platz - ungeändert beschlossen
+- TOP 8.1.3: Anbringen bzw. Erneuerung von reflektierenden Markierungen an allen Pollern auf dem Flittarder Deich - ungeändert beschlossen
+- TOP 8.1.4: Überprüfung einer ausreichenden Beleuchtung des Fahrradweges entlang der B8 (Düsseldorfer Straße) zwischen Einmündung Wiesdorfer Straße und dem Beginn des Bayer Werksgeländes - geändert beschlossen
+- TOP 8.1.5: Sicherstellung der Anwesenheit von qualifizierten Ansprechpartner*innen aus den Dezernaten mit den Amtsbereichen „Verkehr“ und „Stadtentwicklung“ zu jeder Sitzung der Bezirksvertretung Köln- Mülheim - ungeändert beschlossen
+- TOP 8.1.6: Sperrung der Parkplätze auf der Bergisch Gladbacher Str. in Höhe der Hausnummern 800 bis 810 durch die Stadtverwaltung Köln - geändert beschlossen
+- TOP 8.1.7: Urbane Mobilität neu denken - Zukunftsweisende Verkehrskonzepte in Köln-Mülheim ermöglichen - geändert beschlossen
+- TOP 8.1.8: Radschnellverbindung / Radpendlerroute Bergisch-Gladbach-Köln - zurückgestellt
+- TOP 8.1.9: Aktionsplan für das Ulrich-Haberland-Haus ist dringend geboten - ungeändert beschlossen
+- TOP 8.1.10: Antrag auf Akteneinsicht - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - geändert beschlossen
+- TOP 9.1.2: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2021; Vergabe von Restmitteln - ungeändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2021; abschließende Vergabe der Restmittel - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - ungeändert beschlossen
+- TOP 9.2.2: Stadtstrategie „Kölner Perspektiven 2030+“ - ungeändert beschlossen
+- TOP 9.2.3: Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - ungeändert beschlossen
+- TOP 9.2.4: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln- Dellbrück Arbeitstitel: Hatzfeldstraße/Radiumstraße in Köln-Dellbrück - endgültig abgelehnt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Qualitätsbericht 2020 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.5: Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 10.2.6: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 10.2.7: Tätigkeitsbericht 2020 des Amtes für Straßen und Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 10.2.8: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 10.2.9: Beantwortung einer Anfrage zum 19. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.10: Bodenuntersuchungen in Dünnwald - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
