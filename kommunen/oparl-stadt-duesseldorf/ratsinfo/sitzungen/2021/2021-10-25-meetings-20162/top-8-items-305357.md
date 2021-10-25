@@ -1,0 +1,8 @@
+# TOP 8: Haushaltsplan-Entwurf 2022
+
+- Sitzung: Ausschuss für Wohnungswesen und Modernisierung (2021-10-25)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/305357
+- Ergebnis: passieren lassen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/113375
