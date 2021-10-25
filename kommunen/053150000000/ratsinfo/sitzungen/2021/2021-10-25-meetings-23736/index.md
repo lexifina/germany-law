@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-25T17:00:00+02:00
+- Ende: 2021-10-25T19:04:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23736
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23736
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Beschlussvorlage betreffend: „Öffentlichkeitskampagne gegen Gewalt im Fußball“. - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Abschlussbericht zum 1. Kölner Gleichstellungsaktionsplan im Rahmen der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene - Kenntnis genommen
+- TOP 1.2: Strategiepapier zu Führen in Teilzeit - Kenntnis genommen
+- TOP 1.3: Sechstes Cross-Mentoring-Projekt - Kenntnis genommen
+- TOP 1.4: Erster Jahresbericht zur Zertifizierung der Stadt Köln als familienfreundliches Unternehmen - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage betreffend "(Post)koloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 3.2: Beantwortung der Anfrage AN/1477/2021 betreffend "mobiles Arbeiten" - Kenntnis genommen
+- TOP 3.3: Beantwortung der Anfrage AN/1846/2021 betreffend "Wie kann die Stadtverwaltung Arbeit im Homeoffice auch zukünftig ermöglichen und Flächenpotentiale nutzen" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage betreffend "Umsetzung des Ratsbeschlusses vom 23.03.2021 „Geflüchtete aus Seenotrettung, griechischen Lagern und aus der bosnisch-kroatischen Grenzregion aufnehmen" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer mündlichen Anfrage betreffend "Gästeanzahl bei Trauungen" - Kenntnis genommen
+- TOP 3.6: Beantwortung der Anfrage AN/1782/2021 betreffend "Kölnberg: Bekämpfung der Rattenplage und sozialorientierte Wohnungspolitik" - Kenntnis genommen
+- TOP 3.7: Beantwortung einer mündlichen Anfrage betreffend "Frühere Öffnung der Weihnachtsmärkte 2021 in Köln" - Kenntnis genommen
+- TOP 3.8: Beantwortung einer mündlichen Anfrage betreffend "Sachstand Projekt Personalrisikomanagement" - Kenntnis genommen
+- TOP 3.9: Beantwortung der Anfrage AN/2022/2021 betreffend "Drogenproblematik am Neumarkt: Echtes Kümmern oder nur Schaufensterpolitik; Beantwortung Anfrage SPD (AN/2202/2021)" - zurückgestellt
+- TOP 3.10: Beantwortung einer mündlichen Anfrage im HA am 27.09.2021, zu TOP 7.2 (Neumarkt) - zurückgestellt
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 4.2: Dritter Sachstandsbericht zur Umsetzung des Konzeptes zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Köln aus Oktober 2018 - Kenntnis genommen
+- TOP 4.3: Personalbericht 2020 - Kenntnis genommen
+- TOP 4.4: Wettbüros und Spielhallen (AN/1327/2021; 2264/2021) - Kenntnis genommen
+- TOP 4.5: Sicherstellung des Bodenrettungsdienstes in Köln bis 2026
+- TOP 4.6: Kompensationszahlungen für Flugreisen 2020 - Kenntnis genommen
+- TOP 4.7: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 6. Oktober 2021 - Kenntnis genommen
+- TOP 4.8: Netzwerk gegen häusliche Gewalt – Statistik 2020 - zurückgestellt
+- TOP 4.9: Fachkreis für Plätze mit besonderem Handlungsbedarf - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt betreffend "Bearbeitungsstand und Personalsituation im Ausländeramt" - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Drogenproblematik am Neumarkt: Echtes Kümmern oder nur Schaufensterpolitik?" - zurückgestellt
+- TOP 6.3: Anfrage der SPD-Fraktion betreffend "Antragsstau bei den Ausländerämtern in Köln: Werden nun endlich Stellen zugesetzt?" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage betreffend "Sondernutzung im Eifelwall"
+- TOP 7.2: Mündliche Anfrage betreffend "Prozess des Auszählens am Wahltag"
+- TOP 8: Anträge
+- TOP 8.1: Antrag DIE FRAKTION betreffend "Kostenfreie Beglaubigung der Berufsurkunden beruflich Pflegender" - endgültig abgelehnt
+- TOP 8.2: Antrag der Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt betreffend "Einführung von Bodycams im städtischen Ordnungsdienst" - ungeändert beschlossen
+- TOP 8.3: Antrag der Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt betreffend "Konflikte bei Feierschwerpunkten im öffentlichen Raum" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 10.2: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - ungeändert beschlossen
+- TOP 10.3: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.01. - 30.06.2022 - ungeändert beschlossen
+- TOP 10.4: Satzung über die Abfallentsorgung in der Stadt Köln - zurückgestellt
+- TOP 10.5: 9. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - zurückgestellt
+- TOP 10.6: Satzung über die Abfallgebühren in der Stadt Köln - zurückgestellt
+- TOP 10.7: 2. Controlling-Bericht: Diversity-Konzept "2020: Köln l(i)ebt Vielfalt" - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
