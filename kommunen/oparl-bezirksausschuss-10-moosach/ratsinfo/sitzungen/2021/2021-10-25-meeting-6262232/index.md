@@ -1,0 +1,59 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-10-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6262232
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6262232
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Moosacher Bauvorhaben, Verkehrschaos und mangelnde Transparenz/Kommunikation für die nördliche Waldhornstraße
+- TOP 2.2.: Austausch der Wasserhähne im Westfriedhof
+- TOP 2.3.: Anfrage: Sport für Jugendliche (-> Online-Antrag, aber Abwesenheit der Antragsteller*innen in der Bürgerversammlung des 10. Stadtbezirks am 07.10.2021, deshalb nicht behandelt.)
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.1.: Vorschlag für einen Beitrag des BA10 zum Jubiläum "Olympia 2022"
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Bingener Str. 58 - 60 2. Bunzlauer Str. 9 3. Pirschstr. 13 4. Ehrenbreitsteiner Str 28-28a/ Hanauer Str. 91 + 91a 5. Würmstr. 9
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Moosanger 58 2. Netzerstraße 3. Pirschstr. 13 -> siehe BV Top 3.3.1.3 4. Braunschweiger Str. 11
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Pelkovenstr. 49 2. Bingener Str. 27 3. Meggendorferstr. 52
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Städtebaulicher und landschaftsplanerischer Wettbewerb "Südlich des Botanikums in München-Moosach"; hier: Benennung von (stellvertretenden) Sachpreisrichter*innen
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Absenkung der Gehsteige an den Kreuzungen Dietrichstraße/ Walter-Flex-Straße und Dietrichstraße/ Dachauer Straße
+- TOP 4.1.2.: Einrichtung von Tempo 30 und Anbringung von Hinweisschildern in der Emmy-Noether-Straße im Grundschulbereich
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Anfrage: Aktueller Stand der Planung zum Ausbau der Gärtnerstraße, Erhalt der ortsbildprägenden Linde im Baufeld
+- TOP 4.2.2.: Stadtbezirksbudget: Mittelbereitstellung – eigene Veranstaltungen; hier: „Wir alle sind Moosach – Herbstreihe“ vom 08.-15.11.2021
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Moosacher Faschingsclub – München e.V. Faschingssaison 2021/2022 vom 01.10.2021 – 03.03.2022 15.900,00 € / Az. 0262.0-10-0271
+- TOP 5.2.: (E) Stadtbezirksbudget Initiative "Body Percussion" Body Percussion in den 3. Klassen der Grundschule an der Dieselstraße vom 14.10.2021 bis 23.12.2021 1.305,00 €, Az. 0262.0-10-0272
+- TOP 6.: Anhörungen
+- TOP 6.1.: Einrichtung einer Hol- und Bringzone (Haltverbote) für den Kindergarten an der Dieselstr. 12, hier: Schaffung von Radstellplätzen
+- TOP 6.2.: Vorschlag Baureferat: Schutz der kleinen Grüninsel an der Parkbucht Treitschkestraße vor Überfahren (-> Antwort auf BA-Antrag Nr. 20-26/B 02793, siehe auch TOP 7.3) durch Befestigung der Pflanzfläche mit Pflaster
+- TOP 6.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Emmy-Noether-Straße: Erleichterte streckenbezogene Anordnung von 30 km/h vor Schulen und Kitas 2. Emmy-Noether-Straße: Einrichtung eines Verkehrshelferübergangs
+- TOP 6.4.: Christbaumverkauf 27.11. bis 24.12.2021 Ecke Allacher Straße/ Irma-Wenke-Straße
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Minimierung von baubedingten Haltverboten aufgrund Glasfasererschließungsarbeiten [BA-Antrag Nr. 20-26/B 02412; Bauunternehmen werden nochmals sensibilisiert, der grösste Teil der Tiefbauarbeiten ist abgeschlossen.]
+- TOP 7.2.: Schutz der Grünfläche an der Einmündung Jakob-Hagenbucher-Straße/ Ecke Naumburger Straße vor Überfahren [BA-Antrag Nr. 20-26/B 02792; Strassenbegleitgrün wird durch Einsetzen von Findlingen geschützt werden.]
+- TOP 7.3.: Schutz der kleinen Grüninsel an der Parkbucht Treitschkestraße vor Überfahren [BA-Antrag Nr. 20-26/B 02793; Vorschlag: Befestigung Pflanzfläche mit Pflaster -> TOP 6.2, Anhörung BA.]
+- TOP 7.4.: Gestaltung Pelkovenstraße - endlich sicher für Radfahrende [BA-Antrag Nr. 20-26/B 02788; farbliche Markierungen und Fahrradpiktogramme werden an Übergängen zwischen Radverkehrsanlagen und Straße angebracht.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Veranstaltung in städtischen Grünanlagen Wintrichring/ Ecke Nederlinger Straße: Straßentheater PLAN B am 17.10.2021 (→ Vorabzustimmung Vorsitzender gem. § 20 Abs. 1 BA-Satzung)
+- TOP 8.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: 1. Baubergerstr. 34: Verkürzung absolutes Haltverbot
+- TOP 8.3.: (U) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP 8.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.: (U) Strategie Flüchtlingsunterbringung 2022 - 2026, Betriebsführung von dezentralen Unterkünften 1. Stadtbezirk - Altstadt-Lehel 6. Stadtbezirk - Sendling 10. Stadtbezirk - Moosach 12. Stadtbezirk - Schwabing-Freimann 13. Stadtbezirk - Bogenhausen 16. Stadtbezirk - Ramersdorf-Perlach 19. Stadtbezirk - Thalkirchen-Obersendling- Forstenried-Fürstenried-Solln 22. Stadtbezirk - Aubing-Lochhausen-Langwied 24. Stadtbezirk - Feldmoching-Hasenbergl 25. Stadtbezirk - Laim
+- TOP 8.6.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 8.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 8.9.: Vorkaufsrechte nach dem BauGB: - nicht-öffentlich - 1. Meggendorferstraße (Verzicht)
+- TOP 4.: Anträge
