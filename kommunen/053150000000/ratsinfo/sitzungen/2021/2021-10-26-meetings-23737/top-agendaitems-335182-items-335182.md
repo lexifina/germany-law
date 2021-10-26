@@ -1,0 +1,8 @@
+# TOP -: Neues Förderprogramm zur Hausaufgabenhilfe schließt Grundschüler aus
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2021-10-26)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/335182
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/157503
