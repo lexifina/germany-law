@@ -1,0 +1,160 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2021-10-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6202122
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6202122
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Wertstoffinsel Max-Seidl-Weg
+- TOP 6.2.: Gehwegsituation Konrad-Celtis-Schule
+- TOP 6.3.: Verkehrssituation im Westpark
+- TOP 6.4.: Anliegen Drachenseestraße und Kreuzung Oetztaler/Drachenseestraße
+- TOP 6.5.: Verkehr Westpark
+- TOP 6.6.: Drachenseestraße Situation mit parkenden Autos untragbar
+- TOP 6.7.: Drachenseestraße Parksituation und Müll Abholung
+- TOP 6.8.: Anbringung von Klimmzugstangen in den Parks
+- TOP 6.9.: Parklizenzgebiete
+- TOP 6.10.: Lärm Wertstoffinsel Martin-Behaim-Straße
+- TOP 6.11.: Winter Turtle Kinderbus
+- TOP 6.12.: Parkbank REWE Hansastraße
+- TOP 6.13.: Anliegen Wertstoffinsel Ettalstraße
+- TOP 6.14.: Stiftung ICP München
+- TOP 6.15.: Parksituation in der Drachenseestraße
+- TOP 6.16.: Mittagsbetreuung Mittagsinsel e.V.
+- TOP 6.17.: Errichtung einer stationären Radaranlage als Lärmschutz für die Anwohner der B2
+- TOP 6.18.: Ladenwunsch in unserem Viertel
+- TOP 6.19.: Installation von Fitness- und Sportgeräten
+- TOP 6.20.: Umgestalltung LKP
+- TOP 6.21.: Parksitoation Drachenseestraße
+- TOP 6.22.: Mangelnder Lärmschutz Heckenstallerstraße
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget SchiffsModellbauGemeinschaft Wolpertinger e.V. München Schaukasten für SMG Wolpertinger e.V. München und SMG Klabautermann e. V. München am 10.11.2021 151,65 €; Az. 0262.0-7-0351
+- TOP 10.2.: (E) Stadtbezirksbudget Terra Media Akademie e.V. Kreativ-Workshop für Jugendliche „Mit Mut aus dem Corona-Tunnel“ vom 23.10.2021 – 31.03.2022 3.564,00€; Az. 0262.0-7-0350
+- TOP 11.: Anträge
+- TOP 11.1.: Errichtung von Fahrrad-Abstellanlagen an verschiedenen Stellen im Stadtbezirk.
+- TOP 11.2.: Errichtung von Fahrrad-Servicestationen an verschiedenen Stellen im Stadtbezirk.
+- TOP 11.3.: Verkehr in Tempo 30-Zonen-Oetztaler-Straße
+- TOP 11.4.: Neuprofilierung Murnauer-Straße
+- TOP 11.5.: Buswendeschleife für gegenläufiger Radverkehr freigeben
+- TOP 11.6.: Antrag Kreislaufschrank
+- TOP 11.7.: Fehlende Bäume am Partnachplatz
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Marbachstraße
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, kleine Zirkuswiese, Marionettentheater
+- TOP 17.2.: Anhörung, Westpark, Winterzauber - Weihnachtsmarkt
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Ortstermin-Westpark-Container Luftbild
+- TOP 33.2.: Spielgerät Spielplatz Fernpaßstraße
+- TOP 33.3.: Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Leerstand Hirsch-Gereuth-Straße
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Geschwindigkeitsüberwachung Passauerstr.
+- TOP 37.2.: Verlängerung VAO Säulingstr.
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Antwortschreiben A96 Zusatz Reißverschluss
+- TOP 40.2.: Antwortschreiben Albert-Roßhaupter-Straße
+- TOP 40.3.: Antwortschreiben Unterschriftensammlung Heckenstallerstr
+- TOP 40.4.: Aufhebung Radwegbenutzungspflicht Nestroystr.
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Antwortschreiben W-Lan Bezirkssportanlagen
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Antwortschreiben Baubeginn Grundschule Passauerstraße
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Anwesen Hirsch-Gereuth-Straße
+- TOP 46.2.: Zusätzliche Stellen im Sozialbereich in Sendling-Westparks Schulen schaffen
+- TOP 46.3.: Fristverlaengerung Stellen im Sozialbereich
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Baumkrone beschädigt durch Entsorgungsfahrzeug
+- TOP 47.2.: Bauvorhaben Edelsbergstraße
+- TOP 47.3.: Beschilderung am Beginn der Lindauer Autobahn vom Mittleren Ring
+- TOP 47.4.: flyer mosaik_jugendpreis_2022
+- TOP 47.5.: Autobahn GmbH zur Beschilderung A96
+- TOP 47.6.: Vorstellung Fa Bauwerk
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Infoschreiben Stadtbezirksbudget nach Evaluierung BA
+- TOP 51.2.: (U) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Vorkaufsrecht Ohlstadterstr
+- TOP 52.2.: Vorkaufsrecht Luise-Kiesselbach-Platz
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Herbstfest auf dem Luise-Kiesselbach-Platz
+- TOP 53.2.: Bescheid, Westpark, kl. Zirkuswiese, Festival der Marionetten
+- TOP 53.3.: Bescheid, Westpark, kleine Zirkuswiese, Move and Relax
+- TOP 53.4.: Bescheid, Schulanfangsgottesdienst des Ludwigsgymnasium
+- TOP 53.5.: Bescheid, Gastspiel Circus Roberto, Luise-Kiesselbach-Platz
+- TOP 53.6.: Bescheid, Westpark, Theatron, Gottesdienst
+- TOP 53.7.: Bescheid, Tanzperformance Arcadia
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Vorfahrtregelung Waldfriedhofstr./Ettalstr.
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Bauvorhaben Aichacher Straße
+- TOP 61.2.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Erhaltungssatzung Kürnbergstr.
+- TOP 62.2.: Abbruch Cimbernstr.
+- TOP 62.3.: Wiedereinsetzung des Verkürzten Verfahrens
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Inhaber geführte Betriebe und Geschäfte im Stadtviertel stärken
+- TOP 63.2.: Baumaßnahmen SWM
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Telefonnotiz Rock Capital
+- TOP 65.2.: Abgeschlossenheitsbescheinigungen
