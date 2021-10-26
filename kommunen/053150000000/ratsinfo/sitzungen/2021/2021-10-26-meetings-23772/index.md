@@ -1,0 +1,57 @@
+# 6. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-26T15:45:00+02:00
+- Ende: 2021-10-26T18:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23772
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23772
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der SPD Fraktion: Kölner Kulturticket für Studierende und Azubis - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die Linke - zurückgestellt
+- TOP 3.2: Antrag der Fraktion Bündnis 90/Die Grünen, CDU und Volt: Kündigungen zur Ateliernutzung weiterhin aussetzen - ungeändert beschlossen
+- TOP 3.3: Antrag der Fraktion Bündnis 90/Die Grünen, CDU und Volt: Runder Tisch zur Ateliersituation in Köln - ungeändert beschlossen
+- TOP 3.4: Antrag der Fraktion Bündnis 90/Die Grünen, CDU und Volt: Umsetzung Konzept „Cumulus“ - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Stadtstrategie „Kölner Perspektiven 2030+“ - zurückgestellt
+- TOP 4.2: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - geändert beschlossen
+- TOP 4.3: Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - ungeändert beschlossen
+- TOP 4.4: Verlängerung des Erprobungszeitraums der Sonntagsöffnung Stadtbibliothek - ungeändert beschlossen
+- TOP 4.5: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Filmkultur: Filmhaus Köln - Eröffnung - ungeändert beschlossen
+- TOP 4.6: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Theater: Erweiterung der Kulturplattform "QULTOR" (AT) - zurückgestellt
+- TOP 4.7: Verlängerung der institutionellen Förderung raum13 gGmbH und Sommerblut e.V. - ungeändert beschlossen
+- TOP 4.8: 2. Controlling-Bericht: Diversity-Konzept "2020: Köln l(i)ebt Vielfalt" - ungeändert beschlossen
+- TOP 4.9: Archäologische Landesausstellung "Roms fließende Grenzen" - ungeändert beschlossen
+- TOP 4.10: Erhöhung der institutionellen Förderung für MusikFabrik Landesensemble NRW e.V. - ungeändert beschlossen
+- TOP 4.11: Institutionelle Förderung der Kölner Gesellschaft für Alte Musik e.V. (KGAM zamus) - zurückgestellt
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme eines Kunstwerks von Danh Vo als Schenkung - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bewerbung um Fördermittel des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.2: Zweiter Evaluationsbericht der Kulturentwicklungsplanung 2020/2021 - Kenntnis genommen
+- TOP 8.3: Erhöhung der Mittel für Interessenvertretungen und Anpassung der Ausschreibungskriterien - Kenntnis genommen
+- TOP 8.4: Entgeltbefreiungen/Ermäßigungen für Studierende und Azubis in städtischen Kultureinrichtungen - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 23.September 2021 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln Stand 4.Oktober 2021 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 30.September 2021 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der schriftlichen Anfrage der Fraktion GUT Köln: Mülheimer Süden - Eckiger Rundbau - Kenntnis genommen
+- TOP 10.2: Beantwortung der mündlichen Anfrage: Waidmarkt – Halle mit dem Knick (K3) - Kenntnis genommen
+- TOP 10.3: Beantwortung der mündlichen Anfrage: Waidmarkt – Planungsstand Halle mit dem Knick (K3) - Kenntnis genommen
+- TOP 10.4: Beantwortung der mündlichen Anfrage AN/1848/2021 Studiobühne Köln und Interim - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktion Die Linke: Professionelle Aufarbeitung der Kölner Kolonialgeschichte tut not! - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Fraktion Die Linke: Geht es mit den Hallen Kalk weiter oder beginnen wir von vorn? - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Beantwortung der mündlichen Anfrage: Belvedere - Baum und Gebäude - Kenntnis genommen
