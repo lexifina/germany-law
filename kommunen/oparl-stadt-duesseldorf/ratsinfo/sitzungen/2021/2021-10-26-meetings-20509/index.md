@@ -1,0 +1,61 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-10-26T17:00:00+02:00
+- Ende: 2021-10-26T21:05:00+02:00
+- Ort: International School of Düsseldorf (ISD), Dahms-Theater, Niederrheinstraße 336, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20509
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20509
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00427472.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00427472.pdf
+- Wortprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00427472.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 31. August 2021 - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 28. September 2021 - abweichend beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Hochwasserschutz und Starkregenvorsorge im Stadtbezirk 5 - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: RRX-Planung Angermund - Prüfergebnisse zum Ratsauftrag vom 04.02.2021 - Empfehlung einstimmig beschlossen
+- TOP 8: Qualitätssicherung - Nördlich Kalkumer Schloßallee - Weitere Vorgehensweise - vertagt
+- TOP 9: Plan Nr. 05/018 - Engländersiedlung Lohausen - Aufstellung einer Erhaltungssatzung - Empfehlung einstimmig beschlossen
+- TOP 10: Entwurf eines Maßnahmenkonzeptes für den Angermunder Baggersee – Vorläufiger Stand der Ergebnisse - zur Kenntnis genommen
+- TOP 11: Stadtbahn U81 – 2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord bis Handweiser Fortführung der Planung nach den Ergebnissen des Bürgerdialoges - Empfehlung einstimmig beschlossen
+- TOP 12: Lohauser Deich, Sanierung - Information - - zur Kenntnis genommen
+- TOP 13: An Sankt Swidbert/Niederrheinstraße, Feuerwache der freiwilligen Feuerwehr Kaiserswerth - Neubau, Fassadengestaltung - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen**
+- TOP 14: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 15: Angermunder Straße/Gerichtsschreiberweg - angepasste Geschwindigkeitsbegrenzung - beantwortet
+- TOP 16: Bürgersteig auf der Einbrunger Straße - beantwortet
+- TOP 17: Hochwasserschaden Alte Landstraße
+- TOP 18: Umbau Zeppenheimer Straße
+- TOP 19: Hochwasserschutz in Angermund
+- TOP 20: Baugebiete im Stadtbezirk - Sachstand zum Umsetzungsstand des Papiers "Perspektiven für den Düsseldorfer Norden" Vorlage 61/8/2018 - beantwortet
+- TOP 21: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP -: Neue Anfragen
+- TOP 22: Ampelschaltung auf der Niederrheinstraße (Höhe Klemensplatz) – Sicheren Übergang für alle ermöglichen!
+- TOP 23: Kreuzung Alte Landstraße/Kreuzbergstraße verkehrssicherer gestalten!
+- TOP 24: Wann kommt endlich die öffentliche Beleuchtung auf dem Gerichtsschreiberweg?!
+- TOP 25: Rad- und Fußweg von der Straße Am Krienengarten (Am Damm) zum Rheinuferweg
+- TOP 26: Wer ist verantwortlich und warum lässt der ökologische Ausgleich für die Messeerweiterung und die Arena so lange auf sich warten?
+- TOP 27: Aussagen der Planungshinweiskarte für den Stadtbezirk 5 - Nachjustierungen erforderlich? - beantwortet
+- TOP -: Anträge
+- TOP 28: Dringend benötigte Parkflächen im Stadtbezirk 5 schaffen - 100 Parkplätzeprogramm - mehrheitlich beschlossen
+- TOP 29: RRX-Planung für Angermund: Chance ergreifen - "Fraktion Düsseldorf" muss handeln! - mehrheitlich beschlossen
+- TOP 30: Ein Kaiserswerther Markt für alle - Vergrößerte Terrassenflächen werden nicht mehr benötigt! - mehrheitlich beschlossen
+- TOP 31: Stellplatzsatzung der Stadt Düsseldorf überarbeiten - mehrheitlich beschlossen
+- TOP 32: Ökologische Ausgleichsflächen für den Bau der Arena und die Messeerweiterung im Stadtbezirk 5 nah am Verbraucher realisieren! - einstimmig beschlossen
+- TOP 33: Radweg Kalkumer Schlossallee, von Unterdorfstraße bis Mühlenweg - einstimmig beschlossen
+- TOP 34: Definitive Lösung der Reparatur der Hochwasserschutz Mauer in Kaiserswerth - einstimmig beschlossen
+- TOP 35: Instandsetzung Jüdischer Friedhof, pädagogische Arbeit zum Jüdischen Leben in Kaiserswerth - abweichend beschlossen
+- TOP 36: Instandsetzung des Weges Kleianspatt (Ecke Kleiansring bis zur Straße am Frohnhof) - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 37: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 38: Verschiedenes
+- TOP 39: Austausch mit Oberbürgermeister Dr. Stephan Keller
