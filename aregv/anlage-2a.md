@@ -19,7 +19,7 @@ EKZ0 Kalkulatorische Eigenkapitalverzinsung nach § 6 Absatz 3 auf der Grundlage
 EKZt Kalkulatorische Eigenkapitalverzinsung nach § 6 Absatz 3 auf der Grundlage des fortgeführten Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Jahr t der jeweiligen Regulierungsperiode,
 GewSt0 Kalkulatorische Gewerbesteuer nach § 6 Absatz 3 auf der Grundlage des Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Basisjahr,
 GewStt Kalkulatorische Gewerbesteuer nach § 6 Absatz 3 auf der Grundlage des fortgeführten Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Jahr t der jeweiligen Regulierungsperiode,
-FKZ0 Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Basisjahr,
+FKZ0 Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des Inhalts des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Basisjahr,
 FKZt Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des fortgeführten Inhalts des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Jahr t der jeweiligen Regulierungsperiode.
 (4)
 Ferner sind von der Regulierungsbehörde bei der Ermittlung der fortgeführten Kapitalkosten die folgenden Grundsätze anzuwenden:
