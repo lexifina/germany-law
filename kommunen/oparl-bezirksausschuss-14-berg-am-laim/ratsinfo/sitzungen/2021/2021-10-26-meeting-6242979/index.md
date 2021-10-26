@@ -1,0 +1,95 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2021-10-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6242979
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6242979
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll/e der Sitzung am 28.09.2021
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Glasscherben auf Gehwegen regelmäßig entfernen Empfehlung Nr. 20-26 / E 00153 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 14.07.2021
+- TOP 2.2.: (E) + (U) Umsetzung der geplanten Maßnahmen zur Verbesserung der ÖPNV-Angebote Empfehlung Nr. 20-26 / E 00165 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 14.07.2021
+- TOP 2.3.: (E) Müll in Berg am Laim - Aufstellung von Mülleimern im Stadtbezirk - Aufstellung einer Toilette am Grünen Markt Empfehlung Nr. 20-26 / E 00154 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 14.07.2021
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: St. Veit Straße 87, Neubau von zwei Mehrfamilienhäusern (10 WE) mit Tiefgarage (10 Stpl.)
+- TOP 3.1.2.: Ursberger Str. 4, Erweiterung eines Wohnhauses um zwei Terrassen und einen Balkon
+- TOP 3.1.3.: Wertstoffinseln häufiger säubern, Container öfters entleeren; Antrag FW/ÖDP
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Planfeststellung nach § Allgemeines Eisenbahngesetz (AEG) i.V.m. § 73 Verwaltungsverfahrensgesetz (VwVfG) für das Vorhaben: PFA 3 Ost der 2. Stammstrecke München Bahn-km 107,853 bis 110,711 der Strecke 5547 Bf München Laim - München Leuchtenbergring Bft in der Landeshauptstadt München“ - Anhörungsverfahren durch das Referat für Stadtplanung und Bauordnung -
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Schulsprengeländerung für die Grundschule Berg am Laimstraße, BV-Empfehlung Nr. 14-20 / E 02120 der Bürgerversammlung des 14. Stadtbezirkes Berg am Laim vom 12.07.2018 Sitzungsvorlage Nr. 20-26 / V 00349 (Behandlung durch BA in Sitzung am 30.06.2020) Erneutes Anliegen eines Bürgers in Bezug auf die Sitzungsvorlage und den Beschluss des BA 14 Berg am Laim vom 30.06.2020
+- TOP 3.3.2.: Ertüchtigung des Fußballplatzes im Michaelianger; Antrag des Sportbeauftragten des BA 14
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Mosaik Jugendpreis – Mit Vielfalt gegen Rassismus - Anfrage durch die Stelle für interkulturelle Arbeit der Landeshauptstadt München -
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Antrag auf Bestellung städtischer Leistungen: hier: Erläuterungsschilder für Straßen im Werksviertel Antrag CSU-Fraktion
+- TOP 3.5.2.: (E) Stadtbezirksbudget Evangelisch Luth. Kirchengemeinde Sophie Scholl Ök. St. Martinsumzug mit Anspiel in Berg am Laim, am 14. November 2021 750,00 €; Az. 0262.0-14-0307
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: St. Veit Straße 87, Neubau von zwei Mehrfamilienhäusern (10 WE) mit Tiefgarage (10 Stpl.)
+- TOP 3.6.2.: Ursberger Str. 4, Erweiterung eines Wohnhauses um zwei Terrassen und einen Balkon
+- TOP 3.6.3.: Truderinger Straße 142
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk Berg am Laim in der Zeit vom 06.09.2021 bis 26.09.2021
+- TOP 4.1.2.: Zweckentfremdung von Wohnraum in der Annabrunnerstr. 7
+- TOP 4.1.3.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 4.1.4.: Sachstand Mahlerhaus
+- TOP 4.1.5.: Mountainbike-Parcours in die Planungen für den Hachinger Bach integrieren
+- TOP 4.1.6.: Aufwertung der Grünfläche am zukünftigen Verlauf des Hachinger Bachs
+- TOP 4.1.7.: Bäume in Baumkirchen Mitte: Vorgesehene Bäume am Quartiersplatz und an der Hermann-Weinhauser-Straße pflanzen
+- TOP 4.1.8.: Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen
+- TOP 4.1.9.: Baumersatzkonzept in Berg am Laim zur Korrektur des Baumverlusts
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Mögliche Anschlussverwendung Grundstück Truderinger Str. 191 - Dringlichkeitsantrag -
+- TOP 4.2.2.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 4.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.4.: Widerruf eines Wendeverbots in der Kreillerstraße
+- TOP 4.2.5.: Anpassung Ampelschaltung Truderingerstr. / Ursbergerstr.
+- TOP 4.2.6.: Vollsperre an der Gisela-Stein-Str. 4-6, vom 04.10.21 bis 31.12.21
+- TOP 4.2.7.: Einrichtung einer Busspur in der Ampfingstraße
+- TOP 4.2.8.: (U) Umgestaltung Berg-am-Laim-Straße, Kreillerstraße, Wasserburger Landstraße Maßnahmen zum Schutz der Gesundheit, Verbesserung der Lebensqualität der Anwohner*innen und zur Erhöhung der Verkehrssicherheit im Bereich der Berg-am-Laim-Straße BA-Antrags-Nr. 14-20 / B 06421 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 25.06.2019 Umbau der Kreuzung Berg-am-Laim-Straße/Ampfingstraße/Leuchtenbergring - Mehr Verkehrssicherheit und Verbesserungen beim Verkehrsfluss BA-Antrags-Nr. 14-20 / B 06553 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 23.07.2019 Erstellung eines umfangreichen Verkehrsgutachtens für Berg am Laim vor einer Prüfung des beantragten Rückbaus der Berg-am-Laim-Straße Empfehlung Nr. 14-20 / E 02704 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 11.07.2019
+- TOP 4.2.9.: Antrag: Nutzung Parkhaus Einkaufszentrum Hermann-Weinhauser-Str. 90
+- TOP 4.2.10.: Widmung von Straße (Ziffer 1 der Anfrage)
+- TOP 4.2.11.: Linksabbiegen für alle Fahrzeuge an den Kreuzungen der Berg-am-Laim-Straße schaffen
+- TOP 4.2.12.: Hermann-Weinhauser-Straße (Höhe Hausnummer 28); Errichtung von vier Kurzparkplätzen vor der Kita (zeitlich beschränkt)
+- TOP 4.2.13.: Bericht über die IAA-Mobility 2021 Sitzungsvorlage Nr. 20-26 / V 04525
+- TOP 4.2.14.: Neumarkter Straße Höhe der Hausnummer 59-63 westlich der abknickenden Vorfahrtstraße (Neumarkter Straße - Weihenstephaner Straße) im Bereich der vorhandenen vorgezogenen Seitenflächen ein Fußgängerüberweg - Errichtung eines Fußgängerüberweges (FGÜ)
+- TOP 4.2.15.: Zwischenbericht der Stadtwerke München GmbH zum Projekt Geothermie Michaelibad
+- TOP 4.2.16.: Radwegrückbau in Tempo-30-Zonen Sitzungsvorlagen Nr. 20-26/V xxxx Beschluss des Mobilitätsausschusses vom 13.10.2021 (VB) - Unterrichtung durch das Mobilitätsreferat -
+- TOP 4.2.17.: Zustellung von Werbematerial
+- TOP 4.2.18.: Nächtliche Lärmbelästigung aus dem Werksviertel
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Werksviertel I: Schulsprengel und sichere Schulwege
+- TOP 4.3.2.: Stadtteilkulturfestival in Berg am Laim
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Schaffung von Unterkünften für Geflüchtete und Wohnungslose: Wiederbelebung des sog. verkürzten Verfahrens
+- TOP 4.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Antrag aus dem Stadtbezirksbudget des Bezirksausschusses 14 hier: Verwendung für eigene Veranstaltungen Finanzierung des Ensemble für die Gedenkveranstaltung für die Deportierten und Ermordeten aus der ehemaligen "Heimanlage für Juden Berg am Laim" - Bestätigung des Direktoriums über die Bezuschussung -
+- TOP 4.5.2.: Sitzungsvorlage Nr. 20-26 / V 04226 Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit - Information durch das Direktorium über die Beschlussfassung im Stadtrat -
+- TOP 4.5.3.: (U) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
