@@ -1,0 +1,58 @@
+# Sportausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-10-27T17:00:00+02:00
+- Ende: 2021-10-27T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/30
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5579
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5579
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00153631.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00153631.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00153631.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Verpflichtung sachkundiger Bürger*innen - abgesetzt
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Bestellung des Schriftführers und eines Vertreters des Sportausschusses - einstimmig zugestimmt
+- TOP 5: Benennung eines Ausschussmitglieds, das neben dem Vorsitzenden und dem Schriftführer die Niederschriften über die Sitzungen des Sportausschusses unterzeichnet - einstimmig zugestimmt
+- TOP 6: Einwohner*innenfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 7: Aufstellung eines Bürocontainers für Zeitnahme und Wettkampfleitung bei Veranstaltungen im Leichtathletikzentrum Ludwig-Wolker-Sportanlage - einstimmig zugestimmt
+- TOP 8: Antrag des Neusser Rudervereins auf einen Zuschuss zur Errichtung einer Einhausung für Bootsanhänger - einstimmig zugestimmt
+- TOP 9: Antrag des SV Uedesheim auf Bezuschussung des Neubaus eines Kunststoffrasen-Kleinspielfelds - einstimmig zugestimmt
+- TOP 10: Antrag der TSG Quirinus Neuss auf einen Zuschuss zum Umbau der Umkleiden im vereinseigenen Tanzsportzentrum - einstimmig zugestimmt
+- TOP 11: Antrag des HTC Schwarz-Weiss Neuss und des TC Blau-Weiss Neuss auf einen Zuschuss zur Errichtung von zwei Tennis-Kleinspielfeldern vor den geplanten überdachten Hartplätzen im Stadion Jahnstraße - einstimmig zugestimmt
+- TOP 12: Antrag der TG Neuss auf einen Zuschuss für durch die Corona-Pandemie entstandenen außergewöhnlichen Aufwendungen - einstimmig zugestimmt
+- TOP 13: Neusser Schlittschuh-Klub - Zuwendung für Deutsche Meisterschaft 2022 - einstimmig zugestimmt
+- TOP 14: Beratung Haushaltsplanentwurf 2022 für das Sportamt - einstimmig zugestimmt
+- TOP 15: Maßnahmenliste zum Wirtschaftsplan 2022 des GMN für den Bereich Sport - einstimmig zugestimmt
+- TOP 16: Ergänzung der Durchführungsbestimmungen zu den Sportförderrichtlinien der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 17: Antrag der CDU: Zweiter Rettungsweg für das Sportheim der DJK Germania Hoisten - einstimmig zugestimmt
+- TOP 17.1: Antrag von SPD, Bündnis90/Die Grünen, UWG und Aktiv für Neuss: Bewegungsgeräte für die Stadtteile - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 18: Sachstand Umbaumaßnahmen im Sporthafen - zur Kenntnis genommen
+- TOP 19: Sachstand Stadionhalle, Elmar-Frings-Halle, Hammfeldhalle - zur Kenntnis genommen
+- TOP 20: Sachstand Ringerhalle - zur Kenntnis genommen
+- TOP 21: Sportgeräte am Jröne Meerke - zur Kenntnis genommen
+- TOP 22: Bericht des GMN zum aktuellen Stand der Umsetzung der für den Sportbereich im HH angesetzten Maßnahmen des GMN - zur Kenntnis genommen
+- TOP 23: Haushaltskonsolidierung - zur Kenntnis genommen
+- TOP 24: Programmaufruf II zum Sportstättenförderprogramm "Moderne Sportstätte 2022" des Landes Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 25: Förderprogramme des Landes Nordrhein-Westfalen zum Ausgleich von Corona-Folgen - zur Kenntnis genommen
+- TOP 26: Jury Sportehrengabe und Mannschaft des Jahres - zur Kenntnis genommen
+- TOP 27: Motorik-Check, hier: Sachstand und Anpassung der Gelder für das Projekt "Re-Check" in 5. Klassen - zur Kenntnis genommen
+- TOP 28: Special Olympics World Games 2023, hier: Bewerbung der Stadt Neuss für das Projekt "Host-Town - 170 Nationen / 170 inklusive Kommunen - zur Kenntnis genommen
+- TOP 29: Sport im Park 2021 - zur Kenntnis genommen
+- TOP 30: Turngemeinde Neuss, Sportzentrum Schorlemerstraße: Sachstand des Projektes einschließlich Darstellung und Eräuterung der Planungen - zur Kenntnis genommen
+- TOP -: Beschlusscontrolling
+- TOP 31: Einwohner*innenfragestunde
