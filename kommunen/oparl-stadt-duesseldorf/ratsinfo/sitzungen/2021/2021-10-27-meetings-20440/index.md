@@ -1,0 +1,51 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-10-27T15:00:00+02:00
+- Ende: 2021-10-27T16:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20440
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20440
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00427787.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00427787.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00427787.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung vom 25.08.2021 - einstimmig beschlossen
+- TOP 3: Aktueller Lagebericht "Jugendhilfe in Zeiten von Corona" - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 5: Anträge
+- TOP 6: Haushaltsberatungen 2022
+- TOP 6.1: Etatrede des Herrn Stadtdirektor Hintzsche - zur Kenntnis genommen
+- TOP 6.2: Entwurf des Haushaltsplans 2022 - hier: Jugendamt - einstimmig beschlossen
+- TOP 6.2.1: Haushaltsantrag der Ratsfraktion DIE LINKE. - hier: Kostenfreie U3-Betreuung in den Kindertagesstätten anbieten - mehrheitlich abgelehnt
+- TOP 6.2.2: Haushaltsantrag der Ratsfraktion DIE LINKE. - hier: Keine Kürzungen in der Schulsozialarbeit - zurückgezogen
+- TOP 6.2.3: Haushaltsantrag der Ratsfraktion DIE LINKE. - hier: Keine Kürzungen bei ambulanten Erziehungshilfen - zurückgezogen
+- TOP 6.2.4: Haushaltsantrag der FDP-Ratsfraktion - hier: Digitalisierung von und für Jugendliche in Düsseldorf - mehrheitlich beschlossen
+- TOP 6.2.5: Haushaltsantrag der SPD-Ratsfraktion - hier: Erhöhung der Mittel für „Jugendrat - Projekte im Bereich Partizipation“ von 10.000 Euro auf 20.000 Euro für 2022 ff. - einstimmig beschlossen
+- TOP 6.2.6: Haushaltsantrag der SPD-Ratsfraktion - hier: Erarbeitung eines Konzepts für Safe spaces für jugendliche BIPoC mit Mitteln i.H.v. 20.000 EUR für 2022 ff. - mehrheitlich beschlossen
+- TOP 7: Präventionsketten Düsseldorf
+- TOP 7.1: Düsseldorfer Präventionsketten: Ausweitung der Kita-Eingangsuntersuchung - einstimmig beschlossen
+- TOP 8: Jugendförderung
+- TOP 8.1: Sachstand zur Aufstockung der Schulsozialarbeit - hier: 19 Vollzeitstellen zum Schuljahr 2021/22 - zur Kenntnis genommen
+- TOP 8.2: „Kinderrechte jetzt!" – Rückblick auf den Weltkindertag im Zeitraum vom 18. - 20. September 2021 in Düsseldorf - zur Kenntnis genommen
+- TOP 8.3: Bereitstellung von kostenlosen Menstruationsartikeln in Jugendfreizeiteinrichtungen und Familienzentren - zur Kenntnis genommen
+- TOP 9: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder
+- TOP 9.1: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Düsselthaler Straße 48 - einstimmig beschlossen
+- TOP 9.2: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Heyestraße 152 - einstimmig beschlossen
+- TOP 9.3: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Selbecker Straße 35 - einstimmig beschlossen
+- TOP 9.4: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Hartwichstraße 6 (Containerübergangslösung) - einstimmig beschlossen
+- TOP 9.5: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Irmgardstraße 12 - einstimmig beschlossen
+- TOP 9.6: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita An Sankt Swidbert 70 - einstimmig beschlossen
+- TOP 9.7: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Ellerstraße 191 - einstimmig beschlossen
+- TOP 9.8: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Edmund-Bertrams-Straße 7 - einstimmig beschlossen
+- TOP 9.9: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Kreuzbergstraße 61 - einstimmig beschlossen
+- TOP 9.10: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Ulrike-Scheffler-Rother-Straße 18 - einstimmig beschlossen
+- TOP 9.11: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Itterstraße 20 - einstimmig beschlossen
+- TOP 9.12: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Ludwig-Beck-Straße 11 - einstimmig beschlossen
+- TOP 9.13: Investitionszuschüsse an freie Träger von Kindertagespflegestellen für Kinder - hier: GTP Ulenbergstraße 1 - einstimmig beschlossen
