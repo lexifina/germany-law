@@ -1,0 +1,17 @@
+# Verordnung zur Regelung des Verfahrens der Beauftragung von Flugsicherungsorganisationen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Auswahlwahlverfahren](0002.md)
+- [§ 3 Wirtschaftlichkeit eines Angebotes zur Erbringung von Flugsicherungsdiensten](0003.md)
+- [§ 4 Berücksichtigungsfähige Kosten](0004.md)
+- [§ 5 Anreizregelungen](0005.md)
+- [§ 6 Feststellung der Differenz zwischen geplanten Einnahmen aus Gebühren und geplanten Kosten](0006.md)
+- [§ 7 Feststellung der Differenz zwischen tatsächlichen Einnahmen aus Gebühren und tatsächlichen Kosten](0007.md)
+- [§ 8 Erstattung der Differenz zwischen tatsächlichen Einnahmen aus Gebühren; Erstattungen für Gebührenbefreiungen und tatsächlichen Kosten](0008.md)
+- [§ 9 Entrichtung der Gebühr; Mitwirkung der Flugplatzunternehmer](0009.md)
+- [§ 10 Auskunfts- und Herausgabepflichten](0010.md)
+- [§ 11 Jahresbericht](0011.md)
+- [§ 12 Übergangsregelungen](0012.md)
+- [§ 13 Evaluierung](0013.md)
+- [§ 14 Inkrafttreten](0014.md)

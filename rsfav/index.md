@@ -1,0 +1,17 @@
+# Verordnung über die Aufgaben und Befugnisse der Behörde zur Aufsicht über den Reisesicherungsfonds sowie über die Verwaltung und Aufbewahrung des Fondsvermögens
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Aufgaben der Aufsichtsbehörde](0001.md)
+- [§ 2 Adressaten von Maßnahmen der Aufsichtsbehörde](0002.md)
+- [§ 3 Informationsverlangen der Aufsichtsbehörde](0003.md)
+- [§ 4 Anordnungsbefugnis für Unterrichtungen bei drohendem oder eingetretenem Schadensfall](0004.md)
+- [§ 5 Auskunftsverlangen der Aufsichtsbehörde](0005.md)
+- [§ 6 Genehmigungspflichten](0006.md)
+- [§ 7 Verwarnung und Abberufung von Personen](0007.md)
+- [§ 8 Prüfungen in den Geschäftsräumen; Einberufung von Gesellschafterversammlungen](0008.md)
+- [§ 9 Grundsätze zur Anlage des Fondsvermögens](0009.md)
+- [§ 10 Zulässige Anlagegegenstände und Ausgliederung der Fondsverwaltung](0010.md)
+- [§ 11 Treuhänder für das Fondsvermögen](0011.md)
+- [§ 12 Aufgaben und Befugnisse des Treuhänders](0012.md)
+- [§ 13 Nebenbestimmungen; Ausschluss der aufschiebenden Wirkung](0013.md)
+- [§ 14 Inkrafttreten](0014.md)
