@@ -1,0 +1,56 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-10-27T16:00:00+02:00
+- Ende: 2021-10-27T20:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21690
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21690
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: OVA 27.10.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00426886.pdf
+- Ergebnisprotokoll: OVA 27.10.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00426886.pdf
+- Wortprotokoll: OVA 27.10.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00426886.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 24.03.2021 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 05.05.2021 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Verkehrszählung Protected-Bike-Lane Am Trippelsberg - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Aufstellung von Fahrrad-Reparatur-Stationen im Stadtgebiet -Antrag der Ratsfraktion Die Linke- - mehrheitlich abgelehnt
+- TOP 5.2: Antrag der FDP-Ratsfraktion: Strategie gegen Gewalt in der Stadt - zurückgezogen
+- TOP 5.2.1: Ergänzungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/462/2021 - zurückgezogen
+- TOP 5.3: Perspektiven für den Worringer Platz und das Bahnhofsumfeld -Antrag der SPD-Ratsfraktion- - mehrheitlich abgelehnt
+- TOP 5.4: Neugestaltung von Behindertenparkplätzen - einstimmig beschlossen
+- TOP 5.5: Beseitigung von Schrotträdern verbessern -Antrag der Ratsfraktion Die Linke- - zurückgezogen
+- TOP 5.6: Zwischenlösung Am Trippelsberg bis zur Realisierung der Protected Bike Lane - zurückgestellt
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Prävention, Ordnung und Sicherheit in Düsseldorf 2021+ -Mündlicher Bericht- - zur Kenntnis genommen
+- TOP 7.2: Bewohnerparken, aktueller Sachstand 10/2021 -mündlicher Bericht- - zur Kenntnis genommen
+- TOP 7.3: Worringer Platz, Sachstand und weiteres Vorgehen -mündlicher Bericht- - zur Kenntnis genommen
+- TOP 8: Jahresbericht der Geschäftsstelle der Kunstkommission 2020/2021 - zur Kenntnis genommen
+- TOP 9: Bebauungsplan-Entwurf Nr. 02/005 Grafental Ost - Empfehlung mehrheitlich beschlossen
+- TOP 10: Klimaneutrales Düsseldorf: Merit Order für den Sektor Verkehr - zur Kenntnis genommen
+- TOP 11: Nord-Süd-RadRoute (West) - Fahrrad-Rampe unter Oberkasseler Brücke - einstimmig beschlossen
+- TOP 12: K-Bahn: Planung der Umsetzungsstufen 1 und 2 - einstimmig beschlossen
+- TOP 13: RRX-Planung Angermund - Prüfergebnisse zum Ratsauftrag vom 04.02.2021 - Empfehlung mehrheitlich beschlossen
+- TOP 14: Aktueller Stand Parkraummanagementkonzept und Auswahl der Pilotgebiete Bilk und Flingern-Nord - mehrheitlich beschlossen
+- TOP 15: Strategie zum Umgang mit den E-Scootern - mehrheitlich beschlossen
+- TOP 16: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 17: Haushaltsanträge
+- TOP 17.1: Haushaltsantrag der SPD-Ratsfraktion: Finanzielle Mittel für die Verbesserung des Fußgänger:innenverkehrs - mehrheitlich abgelehnt
+- TOP 17.2: Haushaltsantrag der SPD-Ratsfraktion: Düsseldorf nicht die Grundlage für die Verkehrswende entziehen I: Rücknahme der Kürzung von 190.000 EUR für Verkehrszählungen - mehrheitlich abgelehnt
+- TOP 17.3: Haushaltsantrag der SPD-Ratsfraktion: Düsseldorf nicht die Grundlage für die Verkehrswende entziehen II: Rücknahme der Kürzung von 3.485.263 EUR für die Unterhaltung von Brücken und Tunneln - mehrheitlich abgelehnt
+- TOP 17.4: Haushaltsantrag der SPD-Ratsfraktion: Düsseldorf nicht die Grundlage für die Verkehrswende entziehen III: Rücknahme der Kürzung von 2.927.373 EUR für die Unterhaltung von verkehrstechnischen Systemen - mehrheitlich abgelehnt
+- TOP 17.5: Haushaltsantrag der SPD-Ratsfraktion: Düsseldorf nicht die Grundlage für die Verkehrswende entziehen IV: Rücknahme der Kürzung von 1.091.124 EUR für die Unterhaltung von Straßen, Wege, Plätze - mehrheitlich abgelehnt
+- TOP 18: Haushaltsplanentwurf des Amtes für Verkehrmanagement für das Jahr 2022 - Empfehlung mehrheitlich beschlossen
+- TOP 19: Haushaltsplanentwurf des Ordnungsamtes für das Jahr 2022 - Empfehlung mehrheitlich beschlossen
+- TOP 20: Genehmigung einer Dringlichen Entscheidung gem. § 60 Abs. 3 Satz 1 GO NRW - "Düsseldorfer Heimatdörfchen" auf dem Burgplatz im Jahre 2021 - zur Kenntnis genommen
