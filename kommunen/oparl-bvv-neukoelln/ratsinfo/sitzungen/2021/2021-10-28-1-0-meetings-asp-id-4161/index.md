@@ -1,0 +1,92 @@
+# 65. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-10-28T18:00:00+02:00
+- Ende: 2021-10-28T19:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4161
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4161
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: 2415/XX - Zielvereinbarung zur gesamtstädtischen Steuerung und Weiterentwicklung der Sozialen Wohnhilfe - erledigt
+- TOP 4: 2416/XX - Ergebnisse der Wahlen in Neukölln - erledigt
+- TOP 5: Geschäftliches - im Ausschuss abgelehnt
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Wahlchaos am 26.09.2021 - in der BVV abgelehnt
+- TOP 6.2: Ergebnisse der Wahlen in Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 7.1: JobOption für Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Straßenumbenennung und Einrichtung eines zentralen Gedenkortes für im Dienst für Neukölln ermordete Polizisten - Anerkennung der wichtigen Arbeit der Polizei für unsere Gesellschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Defibrillatoren in weiteren Bürostandorten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Abgabe Tätigkeitsbericht Seniorenbeauftragte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Fachkonferenz im Kinder- und Jugendbereich „Pandemie gemeinsam meistern“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Kostenfreie FFP2-Masken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Verlängerung der Veränderungssperre XIV-185db/32 für das Grundstück Rungiusstraße 9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-185db - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Neukölln fußgänger*innenfreundlich gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Erhalt von StadtGrün für Natur- und Umweltbildung im Carl-Legien-Schulgarten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Veränderungssperre XIV-3-1/35 für das Grundstück Neuköllnische Allee 112, Schmalenbachstraße 7/9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-3-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Verlängerung der Veränderungssperre XIV-207b/33 für das Grundstück Rhodeländerweg 109 im Bezirk Neukölln, Ortsteil Rudow im Geltungsbereich des Bebauungsplanentwurfes XIV-207b - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Ein Hauptstadtflughafen braucht auch eine Hauptstadtanbindung! Für eine Verlängerung der U7 bis zum BER - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: 30 km/h in der Kanalstraße ab Arabisweg bis Neudecker Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Fußgänger- und Fahrradbrücke über den Britzer Verbindungskanal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Hermannplatz fahrrad- und fußgängerfreundlich umgestalten – Beauftragung einer bezirksübergreifenden Planung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Brunnen auf dem Reuterplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Einwohner*innenantrag: Fahrradfreundlicher Bezirk Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Gut und sicher ankommen im Estrel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Tempo 30 in der Fulhamer Allee ausweiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Wirksame Tempobegrenzung in der Hufeisensiedlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Radweg Gielower Straße - Grüner Weg/ Buschkrugallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Das Berliner Mobilitätsgesetz in Neukölln zügig umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Auflagen für Schankvorgärten bei Außengastronomie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: Verbot der Einfahrt in der Richardstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Radverkehr in Hermannstraße und Sonnenallee sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Bauen unter fairen Bedingungen – Sozial-nachhaltige Beschaffung von Natursteinen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Fußgänger*innenfreundliche Querung Werbellinstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Kiehlufer - Verkehrssicherungsmaßnahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: Einrichtung eines Tourismus-Beirates - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.31: Radverkehrskonzept für Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.32: Städtepartnerschaft Neukölln – Bat Yam wiederbeleben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.33: Kippenboxen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.34: Städtepartnerschaften! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.35: Städtepartnerschaften leben – Zivilgesellschaftliches Engagement stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.36: Elektrische Fahrzeuge und Ladesäulen für Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.37: Öffentliche Stätte der Erinnerung für im Dienst getötete Berliner Polizeimitarbeiter*innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.38: Einberufung des Tourismus-Beirates - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.39: Verbesserung der Situation Harzer Straße / Treptower Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.40: Parkraumkonzept für Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.41: Instandsetzung Notwasserbrunnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.42: Berlins Versorgung mit Arzneimitteln sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.43: Temporäre Radwege auf der Hermannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.44: Pop-up-Radwege für Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.45: Buschkrugallee am Teltowkanal sicher überqueren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.46: Potenzialanalyse für mehr Grün in Nordneukölln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.47: Fußgänger-Querungshilfen an Sonnenallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.48: Amphibienschutz in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.49: Kreuzung Hermann-/Flughafenstraße für Radverkehr sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.50: BFF-Landschafts-Plan XIV-L-6 endlich festsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.51: Übertragung von Mitteln für Pilotprojekte zum lokalen Grundwassermanagement ins Haushaltsjahr 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.52: Umweltprüfung durchführen – Ausgleich sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.53: Bürgersteig auf der nördlichen Seite der Blaschkoallee sanieren! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.54: Ausreichende Leerung von Papierkörben in Grünanlagen sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.55: Verlegung Taxistand von der Waltersdorfer Chaussee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.56: Gute Arbeit in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.57: Einwohner*innenantrag: Pop-up-Radweg auf der Hermannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.58: Busspur Waltersdorfer Chaussee I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.59: Sicherheit vor Kita Grashüpferchen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.60: Digitales Routing von Kraftfahrzeugen durch Fahrradstraßen unterbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.61: Möglichkeit der Zwischennutzung für leerstehende Immobilien und Flächen prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.62: SGB II-EmpfängerInnen vor Mietendeckel-Urteil schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.63: Weitere Maßnahmen angesichts des tödlichen Radverkehrsunfalls an der Oderstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.64: Ersatz für ausgefallene Einbürgerungsfeiern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.65: Zielvereinbarung zur gesamtstädtischen Steuerung und Weiterentwicklung der Sozialen Wohnhilfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Wie stark ist Neukölln vom Berliner Wahlchaos betroffen? - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Aufklärung über Wahlchaos in Neukölln - in der BVV abgelehnt
