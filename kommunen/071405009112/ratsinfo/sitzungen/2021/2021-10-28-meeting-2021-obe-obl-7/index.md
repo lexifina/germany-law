@@ -1,0 +1,15 @@
+# Sitzung des Ortsbeirates Langscheid der Stadt Oberwesel
+
+- Körperschaft: Stadt Oberwesel
+- Beginn: 2021-10-28T19:00:00+02:00
+- Ende: 2021-10-28T00:00:00+02:00
+- Ort: Oberwesel-Langscheid Gemeindehaus, Bacharacher Straße 8, 55430 Oberwesel-Langscheid
+- Status: eingeladen
+- Gremium: https://emmelshausen.gremien.info/oparl/organization/Obe_OBL
+- Ratsinformationssystem: https://emmelshausen.gremien.info/oparl/meeting/2021-Obe_OBL-7
+- OParl: https://emmelshausen.gremien.info/oparl/meeting/2021-Obe_OBL-7
+- Quelle: https://emmelshausen.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://emmelshausen.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=2021-Obe_OBL-7
+
+## Tagesordnung
+
