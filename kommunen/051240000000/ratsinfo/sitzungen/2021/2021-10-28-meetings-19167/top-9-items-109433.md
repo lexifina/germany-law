@@ -1,0 +1,8 @@
+# TOP 9: Antwort Sachstandsbericht Schulwegsicherung Grundschule Kruppstraße
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Uellendahl-Katernberg (2021-10-28)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/109433
+- Ergebnis: Entgegennahme ohne Beschluss
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/50986
