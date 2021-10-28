@@ -1,0 +1,56 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Uellendahl-Katernberg
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-10-28T18:30:00+02:00
+- Ende: 2021-10-28T21:20:00+02:00
+- Ort: Rathaus Wuppertal, Johannes-Rau-Platz 1, 42275 Wuppertal Raum A-350
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/41
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19167
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19167
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00280358.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00281336.pdf
+
+## Tagesordnung
+
+- TOP 1: Controllingliste
+- TOP 2: Anfragen und Anregungen an die Verwaltung
+- TOP 3: Berichte und Mitteilungen
+- TOP 4: Jugendrat
+- TOP 5: Spielflächenbedarfsplan Wuppertal 2021- Fortschreibung - ungeändert beschlossen
+- TOP 6: Wirtschaftliche Entwicklung in Uellendahl-Katernberg
+- TOP 6.1: Nahversorgung Uellendahler Straße - mdl. Bericht Wirtschaftsförderung
+- TOP 6.2: Sachstand Nahversorgungszentrum Uellendahler Straße (Ressort Stadtentwicklung und Städtebau)
+- TOP 6.3: Uellendahler Str. 400 - Antrag SPD - geändert beschlossen
+- TOP 7: Anträge und Anfragen von Fraktionen
+- TOP 7.1: Lärm und Autoposer auf der Uellendahler Straße stoppen - Antrag BÜNDNIS 90/ Die Grünen - ungeändert beschlossen
+- TOP 7.2: Gesamtverkehrskonzept für die Nevigeser Straße - Antrag BÜNDNIS 90/ Die Grünen - ungeändert beschlossen
+- TOP 7.3: Statusbericht zur Planung und Entwicklung auf dem Nissengelände - Antrag BÜNDNIS 90/ Die Grünen - ungeändert beschlossen
+- TOP 7.4: Prüfauftrag an die Verwaltung der Stadt Wuppertal: „ehemaliges Nissengelände“ - ungeändert beschlossen
+- TOP 7.5: Beschlüsse zu Tempo 30 Strecken/Neubewertung durch die Verwaltung - vertagen
+- TOP 7.6: Einrichtung einer Tempo 30 Strecke am Waldstück zwischen August-Jung-Weg und Böcklinstraße - Antrag der CDU - Entgegennahme ohne Beschluss
+- TOP 7.7: Erhalt Gemeindezentrum am Eckbusch - Antrag SPD - vertagen
+- TOP 7.8: Sachstand Programm des Oberbürgermeisters „Fokus Wuppertal“ - Anfrage SPD - Entgegennahme ohne Beschluss
+- TOP 7.8.1: Schlüsselprojekte in den Stadtbezirken
+- TOP 8: Antwort - Parksituation Kruppstraße - Entgegennahme ohne Beschluss
+- TOP 9: Antwort Sachstandsbericht Schulwegsicherung Grundschule Kruppstraße - Entgegennahme ohne Beschluss
+- TOP 10: Kruppstraße Anregungen zur Schulwegsicherheit - Entgegennahme ohne Beschluss
+- TOP 11: Voraussetzungen zur Einrichtung einer Temporeduzierung auf 30 km/h - vertagen
+- TOP 12: Einrichtung einer Tempo 30-Strecke in der Kohlstraße - Entgegennahme ohne Beschluss
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Einrichtung einer Tempo 30-Strecke in der Höhenstraße - Entgegennahme ohne Beschluss
+- TOP 14: Einrichtung einer Tempo-30- Strecke im Westfalenweg zwischen Nevigeserstraße und Hainstraße - Entgegennahme ohne Beschluss
+- TOP 15: Einrichtung einer Tempo 30 Strecke in der Birkenhöhe - Entgegennahme ohne Beschluss
+- TOP 16: Einrichtung einer Tempo-30-Strecke in der Vogelsangstraße - Entgegennahme ohne Beschluss
+- TOP 17: Errichtung einer Tempo 30 Strecke Straße "Am Elisabethheim" - vertagen
+- TOP 18: Bürgerantrag § 24 GO - Verkehrskonzept Kruppstraße - geändert beschlossen
+- TOP 19: Bürgerantrag GO §24 NRW Farnweg – Maßnahmen zur Geschwindigkeitsdämpfung - geändert beschlossen
+- TOP 20: Konzept für einen barrierefreien ÖPNV Wuppertal (Nahverkehrsplan Teil I) - geändert beschlossen
+- TOP 21: Mittelvergabe
+- TOP 21.1: Antrag freie Mittel Kleingartenverein Vogelsang für die Entsorgung eines Schadens 3.000,-€ - zurückgestellt
+- TOP 21.2: Antrag freie Mittel Schwimmverband Schulschwimmen - zurückgestellt
+- TOP 21.3: Antrag freie Mittel Diakonie Palettenmöbel 420,-€ - zurückgestellt
+- TOP 21.4: Antrag freie Mittel KiJu Unterstützung der Wohngruppen und Mutter-Kind-Gruppen 2.108,-€ - zurückgestellt
+- TOP 21.5: Antrag GfG-Mittel Straßenbeleuchtung DamaschkewegSiedlungsgenossenschaft GUTE HOFFNUNG - zurückgestellt
+- TOP 21.6: Verwendung der Investitionsmittel (GfG-Mittel) - Gemeinsamer Antrag - zurückgestellt
