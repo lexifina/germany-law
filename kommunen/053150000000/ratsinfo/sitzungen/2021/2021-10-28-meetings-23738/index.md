@@ -1,0 +1,71 @@
+# 6. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-28T15:05:00+02:00
+- Ende: 2021-10-28T18:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23738
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23738
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer stellvertretenden Schriftführung
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage der Fraktion Die Linke. betr.: "Otto-Langen-Quartier" - zurückgestellt
+- TOP 2.2: Bebauung des Schützenplatzes Takustraße 37 – Zwangsräumung von Familienwohnwagen - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: Otto-Langen-Quartier in Mülheim Süd: Das NRW.Urban-Gelände - zurückgestellt
+- TOP 3.2: Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums - zurückgestellt
+- TOP -: Zu Top 3.2 Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums - zurückgestellt
+- TOP -: Gemeinsamer Änderungsantrag zu Top 3.2 "Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums" - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Städtebauliches Planungskonzept Deutzer Hafen in Köln-Deutz; Hier: Anpassung des Beschlusses über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes, Fortschreibung des Integrierten Plans Deutzer Hafen im Bereich des Ostdreiecks - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke. zu Top 5.3 betr.: "Städtebauliches Planungskonzept Deutzer Hafen in Köln-Deutz" - Sache ist erledigt
+- TOP 5.2: Beschluss des Zielbilds für die Kölner Weststadt - geändert beschlossen
+- TOP -: Zu Top 5.2 Beschluss des Zielbilds für die Kölner Weststadt - Sache ist erledigt
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - zurückgestellt
+- TOP 6.2: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - mit Änderungen empfohlen
+- TOP 6.3: Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - ungeändert empfohlen
+- TOP 6.4: Förderung des KölnAgenda e.V. durch die Stadt Köln - ungeändert empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 218. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2, Köln-Rodenkirchen; Arbeitstitel: Mertener Straße in Köln-Marienburg - ungeändert empfohlen
+- TOP 7.2: 191. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Lindenthal Arbeitstitel: Frischezentrum Marsdorf in Köln-Junkersdorf Hier: Ergebnisse der frühzeitigen Öffentlichkeitsbeteiligung und Entscheidung über die Vorgaben zur 191. Flächen - zurückgestellt
+- TOP 7.3: 219. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2, Köln-Rodenkirchen;Arbeitstitel: "Parkstadt Süd" in Köln-Zollstock, -Raderberg und -Bayenthal - ohne Votum in nachfolgende Gremien
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept Hochpunkt Siegburger Straße in Köln-Deutz, Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - endgültig zurückgezogen
+- TOP 9.2: Frischezentrum in Köln-Junkersdorf/Marsdorf; hier: Stellungnahme der Bezirksvertretung Lindenthal zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Entscheidung über die Vorgaben zum Bebauungplan-Entwurf - zurückgestellt
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Beschluss über die Umstellung des Verfahrens zur 3. Änderung des Bebauungsplanes Nummer 67549/04 mit dem Arbeitstitel: "Causemannstraße" in Köln-Merkenich, 3. Änderung - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln- Dellbrück Arbeitstitel: Hatzfeldstraße/Radiumstraße in Köln-Dellbrück - ungeändert empfohlen
+- TOP 15.2: Umsetzung Stadtentwicklungskonzept Wohnen - ungeändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Beschluss der Bezirksvertretung Ehrenfeld vom 31.05.2021 betr. Aufstellung eines Bebauungsplanes mit Veränderungssperre für den Bereich Wilhelm-Mauser-Straße, Venloer Straße / Bahntrasse HGK - zurückgestellt
+- TOP 16.2: Beschluss der Bezirksvertretung Nippes per Dringlichkeit Erhalt der Fläche des derzeitigen Golfplatzes an der Neusser Landstraße als Grünfläche - zurückgestellt
+- TOP 16.3: Erweiterter Planungsbeschluss zum Quartiersplatz Am Salzmagazin über die Ergebnisse die Öffentlichkeitsbeteiligungen und den Vorentwurf - ungeändert empfohlen
+- TOP 16.4: Nutzung des städtischen Grundstückes Herkulesstraße 38-42 als Schulstandort - zu AN/0721/2021 (TOP 8.1.7 der Bezirksvertretung Ehrenfeld vom 31.05.2021) - Kenntnis genommen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 67410/11 Arbeitstitel: Mertener Straße in Köln-Marienburg - Kenntnis genommen
+- TOP 17.2: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 63474/02 Arbeitstitel: Subbelrather Straße 486 - 494 in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Zertifikatsverleihung „Generationengerechtes Wohnen im Quartier“ - Kenntnis genommen
+- TOP 18.2: Erfahrungen mit der Vergabe städtischer Grundstücke nach Konzeptqualität und Ausblick auf das weitere Verfahren für Ein- und Zweifamilienhausgrundstücke (EFH) - Kenntnis genommen
+- TOP 18.3: Ergebnisse der 1. Phase des Wettbewerblichen Dialogverfahrens "Kreuzfeld" - Kenntnis genommen
+- TOP 18.4: Starke Veedel – Starkes Köln - Kenntnis genommen
+- TOP 18.5: Bevölkerungsentwicklung 2020 - Weniger Zu- und Fortzüge während der Pandemie - Kenntnis genommen
+- TOP 18.6: Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Beratungsstelle für gemeinschaftliche Wohnungsbauprojekte" (AN/2015/2021) - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
