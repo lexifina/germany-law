@@ -1,0 +1,85 @@
+# 8. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-10-28T16:00:00+02:00
+- Ende: 2021-10-28T20:35:00+02:00
+- Ort: Deutsches Sport & Olympiamuseum, Champions Hall, Zollhafen 1 Bitte melden Sie sich unbedingt vorab bei der Schriftführung an und beachten Sie die Hinweise zum Infektionsschutz (3G).
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23351
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23351
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktuelle Stunde, Vorgehen des Ordnungsamtes mit den Punkten - Entfernen der Stadtmöbel im Eifelwall und - Außengastronomie in der Innenstadt, auf Antrag der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 1.2: Vortrag Neubau der FH Deutz und damit verbundene Baumfällungen
+- TOP 1.3: Information über den Weihnachtsmarkt auf dem Friesenplatz
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - geändert beschlossen
+- TOP 3.1.1: Gem. Änderungsantrag zu Beschlussvorlage 1619/2020, Gem. Änderungsantrag Die Linke und Grüne - ungeändert beschlossen
+- TOP 3.2: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - ungeändert beschlossen
+- TOP 3.3: Stadtstrategie „Kölner Perspektiven 2030+“ - geändert beschlossen
+- TOP 3.4: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - ungeändert beschlossen
+- TOP 3.5: 221. Änderung des Flächennutzungsplanes (FNP) in den Stadtbezirken 1 (Innenstadt) und 3 (Lindenthal)-Einleitungsbeschluss - ungeändert beschlossen
+- TOP 3.6: Erweiterter Planungsbeschluss zum Quartiersplatz Am Salzmagazin über die Ergebnisse die Öffentlichkeitsbeteiligungen und den Vorentwurf - geändert beschlossen
+- TOP 3.7: Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - geändert beschlossen
+- TOP 3.8: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - ungeändert beschlossen
+- TOP 3.9: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - geändert beschlossen
+- TOP 3.10: Vergabe von bezirksorientierten Mitteln und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, Teil II - ungeändert beschlossen
+- TOP 3.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.12: Genehmigung Dringlichkeitsentscheidung - Zweite Ordnungsbehördliche Verordnung für das Jahr 2021 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 3.13: Genehmigung Dringlichkeitsentscheidung - Winterprogramm Ebertplatz - ungeändert beschlossen
+- TOP 3.14: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2022 - ungeändert beschlossen
+- TOP 3.15: Abbruch und Ersatzneubau Kragplatte am Altstadtufer; bauzeitliche Verkehrsführung - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: „Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet (Az.: 02-1600-122-21) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Rad- und Fußgängerüberwege Innerer Grüngürtel (Az.: 02-1600-21/21) - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Verbesserung der Verkehrsführung Ecke Herwarthstraße/Werderstraße/Dorothee -Sölle - Platz - zurückgestellt
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Schaffung von Erholungsorten am Rheinufer (Az.: 02-1600-104/21) - zurückgestellt
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: „Neugestaltung der Zülpicher Straße zwischen Hohenstaufenring und Dasselstraße (Az.: 02-1600-166-21) - geändert beschlossen
+- TOP 4.6: Bürgereingabe nach § 24 GO - Bestandsschutz für Außenhecken in der Kleingartenanlage des KGV Colonius – Block B - - endgültig abgelehnt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Barrierefreiheit Merowinger Straße/Rund um den Chlodwigplatz, gem. Antrag Grüne, SPD, Die Linke, Klimafreunde, Die Partei - ungeändert beschlossen
+- TOP 5.2.2: Radparkhaus am Dom, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.3: Verkehrsberuhigung / Diagonalsperre Südliche Brüsseler Straße, gem. Antrag Grüne, Klimafreunde, Die Partei - zurückgestellt
+- TOP 5.2.4: Antrag "Fahrradparken vor städtischer Kindertagesstätte Burgunderstraße", Antrag Klima Freunde - zurückgestellt
+- TOP 5.2.5: Moltkestraße/ Brüsseler Straße/Maastrichter Straße/Brüsseler Platz- Neuordnung der Verkehre, Verkehrsberuhigung und Barrierefreiheit, gem. Antrag Grüne und Die Partei - zurückgestellt
+- TOP 5.2.5.1: Änderungsantrag "Moltkestraße/Brüsseler Straße/Maastrichter Straße/Brüsseler Platz - Neuordnung der Verkehre, Verkehrsberuhigung und Barrierefreiheit" Änderungsantrag Klima Freunde - zurückgestellt
+- TOP 5.2.6: Bank-Tisch-Kombinationen auf dem Plateau Pantaleonsviertel, gem. Antrag Grüne, Die Linke, Klimafreunde und Die Partei - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.2: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016) - zurückgestellt
+- TOP 6.1.3: Aktueller Sachstand Umgestaltung Maternuskirchplatz, Anfrage Grüne
+- TOP 6.1.3.1: Aktueller Sachstand Umgestaltung Maternuskirchplatz
+- TOP 6.1.4: Soziale Erhaltungssatzung Griechenmarktviertel, Anfrage Grüne
+- TOP 6.1.4.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion vom 06.09.2021, AN/1899/2021, „Soziale Erhaltungssatzung – Nächste Schritte?“
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Tätigkeitsbericht 2020 des Amtes für Straßen und Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 9.2: Barrierefreier Rathauszugang spanischer Bau - Sachstand zum Antrag AN/1306/2020 - Kenntnis genommen
+- TOP 9.3: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 9.4: Barrierefreiheit Siegburger Straße und Zülpicher Platz - Kenntnis genommen
+- TOP 9.5: Snipes-Court - Kenntnis genommen
+- TOP 9.6: Radverkehrsführung Kölner Ringe - Kenntnis genommen
+- TOP 9.7: Sachstandsbericht zu den Baumaßnahmen am Abendgymnasium Gereonsmühlengasse und am Hansa-Gymnasium - Kenntnis genommen
+- TOP 9.8: Abbruch und Ersatzneubau Kragplatte am Altstadtufer; bauzeitliche Verkehrsführung - Kenntnis genommen
+- TOP 9.9: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 9.10: Umsetzungsstand Radverkehrskonzept Innenstadt - Kenntnis genommen
+- TOP 9.11: Jahresbericht der Bezirksvertretung Innenstadt 2021 - Kenntnis genommen
+- TOP 9.12: Sachstand Umsetzung Verkehrsberuhigung Eigelstein - Kenntnis genommen
+- TOP 9.13: Straßenlärm macht krank - Lärmeinwirkungen im Bezirk Innenstadt (AN/1107/2021) - Kenntnis genommen
+- TOP 9.14: Stellungnahme zum Beschluss der Bezirksvertretung Innenstadt vom 10.06.2021, Top 5.2.5, Maßnahmen zur Verstetigung der Sozialen Erhaltungssatzung Severinsviertel, AN/1106/2021 - Kenntnis genommen
+- TOP 9.15: Baumfällungen Schulbauprojekt Venloer Wall 13b – Informationen zu den Interimsstandorten Venloer Wall und Kreutzerstraße - Kenntnis genommen
+- TOP 9.16: Einstellung des Pendelbusverkehrs Drehbrücke Deutz - Poller Wiesen - Kenntnis genommen
+- TOP 9.17: Sperrung der Weidengasse für den MIV an den Wochenenden - zurückgestellt
