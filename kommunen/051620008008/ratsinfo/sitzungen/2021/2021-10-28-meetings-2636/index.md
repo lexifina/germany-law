@@ -1,0 +1,79 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-10-28T18:33:00+02:00
+- Ende: 2021-10-28T22:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2636
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2636
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Erste Ergebnisse im Hinblick auf die Gründung einer Kommunalen Wohnungsbaugesellschaft - mehrheitlich beschlossen
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Mittelbereitstellungen
+- TOP 5: Einbringung des Haushaltes 2022
+- TOP 6: Integriertes Handlungskonzept „Innenstadt Grevenbroich" (ISEK) - vertagt
+- TOP 7: Streetworker für das Bahnhofsviertel - einstimmig beschlossen
+- TOP 8: Erftfischereigenossenschaft - einstimmig beschlossen
+- TOP 9: Satzung der Stadt Grevenbroich über die Förderung von Kindern in der Kindertagespflege - einstimmig beschlossen
+- TOP 10: 3. Änderung der Satzung über die Abfallentsorgung vom 07.12.2012 - einstimmig beschlossen
+- TOP 11: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 11.1: Entwicklung des Rahmenplangebietes "Gierather Weg" durch die SEG GmbH - einstimmig beschlossen
+- TOP 11.2: Kooperative Baulandentwicklung – Beitritt der Stadt Grevenbroich in die NRW.URBAN Kommunale Entwicklung GmbH durch Erwerb eines Geschäftsanteils - einstimmig beschlossen
+- TOP 11.3: F 22 ern. Aufstellung §13b - einstimmig beschlossen
+- TOP 12: Auswahlkommission Heimatpreis - einstimmig beschlossen
+- TOP 13: Beantwortung Anträge und Anfragen aus den Jahren 2020 und 2021
+- TOP 13.1: Errichtung einer elektrisch betriebenen Fahrradpumpe (Antrag Nr. 02/2020) - Kenntnisnahme
+- TOP 13.2: 25 Jahre Landesgartenschau (Antrag Nr. 21/2020) - Kenntnisnahme
+- TOP 13.3: Perspektivische Erweiterung des Bauhofs (Antrag Nr. 24/2020) - Kenntnisnahme
+- TOP 13.4: Bahnhaltepunkt Noithausen (Antrag Nr. 45/2020) - Kenntnisnahme
+- TOP 13.5: Kreisverkehr Frimmersdorf (Antrag Nr. 49/2020 und Anfrage Nr. 143/2020) - Kenntnisnahme
+- TOP 13.6: Vereine und Verbände bei Mietzahlungen unterstützen (Antrag Nr. 63/2020) - Kenntnisnahme
+- TOP 13.7: Beantwortung Anfrage Kosten der Dienstleistungen im Bereich Revision (Anfrage Nr. 81/2021) - Kenntnisnahme
+- TOP 13.8: Evaluation der Versteigerungen von nicht abgeholten Fundsachen (Anfrage Nr. 88/2020) - Kenntnisnahme
+- TOP 13.9: Radwegenetz erweitern, 100%ige-Förderung nutzen (Antrag Nr. 95/2020) - Kenntnisnahme
+- TOP 13.10: Ladestation Neukirchen (Antrag Nr. 120/2020) - Kenntnisnahme
+- TOP 13.11: Sachstandsmitteilung Schwimmbad Neukirchen (Anfrage Nr. 119/2020) - Kenntnisnahme
+- TOP 13.12: Querungshilfe (Fußgängerüberweg) auf der Oststraße in Wevelinghoven (Antrag Nr. 175/2020) - Kenntnisnahme
+- TOP 13.13: Einrichtung einer Querungshilfe als Fußgängerübergang in der Oststraße (Antrag Nr. 150/2020) - Kenntnisnahme
+- TOP 13.14: Klimawandel - 10 Punkte Plan (Anfrage Nr. 121/2020) - Kenntnisnahme
+- TOP 13.15: Straßenverlauf "An der Eiche", "Am Wehr", "An der Untermühle" Wevelinghoven (Anfrage Nr. 127/2020) - Kenntnisnahme
+- TOP 13.16: Erreichbarkeiten der einzelnen Häuser im Baugebiet "Alte Schule" in Gindorf (Antrag Nr. 131/2020) - Kenntnisnahme
+- TOP 13.17: Klimarelisienz in Grevenbroich durch Dach- und Fassadenbegrünung stärken (Antrag-Nr. 166/2020) - Kenntnisnahme
+- TOP 13.18: Photovoltaikanlage auf städtischen Immobilien ermöglichen (Antrag Nr. 167/2020) - Kenntnisnahme
+- TOP 13.19: Erftbrücke Hemmerdener Weg in Wevelinghoven (Anfrage Nr. 176/2020) - Kenntnisnahme
+- TOP 13.20: Straßenschild "Durchfahrt verboten für LKW" (Antrag Nr. 99/2020) - Kenntnisnahme
+- TOP 13.21: Nachpflanzung Finlay-Park (Antrag Nr. 89/2020) - Kenntnisnahme
+- TOP 13.22: Fahrkartenautomat am Bahnhaltepunkt Frimmersdorf (Antrag Nr. 85/2020) - Kenntnisnahme
+- TOP 13.23: Schubertstraße sanieren (Antrag Nr. 82/2020) - Kenntnisnahme
+- TOP 13.24: Geldmittelfreigabe für Überplanung Platz Schubertstraße aufheben (Antrag Nr. 68/2020) - Kenntnisnahme
+- TOP 13.25: Straßenverkehrssituation Kapellen (Antrag Nr. 17/2020) - Kenntnisnahme
+- TOP 13.26: EU Richtlinie zur Beschaffung emissionsarmer Busse im ÖPNV (Anfrage Nr. 10/2020) - Kenntnisnahme
+- TOP 13.27: Geschwindigkeitsreduzierende Maßnahmen am Erftgraben (Antrag Nr. 153/2020) - Kenntnisnahme
+- TOP 13.28: Sammelbeantwortungen - Kenntnisnahme
+- TOP 13.29: Umgestaltung des Denkmalplatzes in Frimmersdorf (Antrag Nr. 137/2020) - Kenntnisnahme
+- TOP 13.30: Verkehrsentlastung für Kapellen (Antrag Nr. 172/2020) - Kenntnisnahme
+- TOP 14: Schriftliche Anträge
+- TOP 14.1: Anträge der SPD-Fraktion
+- TOP 14.1.1: Ausschussumbesetzung (Antrag Nr. 174/2021) - einstimmig beschlossen
+- TOP 14.2: Anträge der CDU-Fraktion
+- TOP 14.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 14.3.1: Umbesetzungen (Antrag Nr. 173/2021) - einstimmig beschlossen
+- TOP 14.4: Anträge der FDP-Fraktion
+- TOP 14.4.1: Dringlichkeitsantrag zur bevorstehenden Elternbefragung (Antrag Nr. 175/2021) - mehrheitlich abgelehnt
+- TOP 14.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 14.6: Anträge der UWG-Fraktion
+- TOP 15: Gemeinschaftsanträge
+- TOP 16: Schriftliche Anfragen
+- TOP 16.1: Anfragen der SPD-Fraktion
+- TOP 16.2: Anfragen der CDU-Fraktion
+- TOP 16.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 16.4: Anfragen der FDP-Fraktion
+- TOP 16.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 16.6: Anfragen der UWG-Fraktion
+- TOP 17: Mitteilungen des Bürgermeisters
