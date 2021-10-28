@@ -1,0 +1,51 @@
+# Gemeinderat (10. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2021-10-28T18:00:00+02:00
+- Ende: 2021-10-28T22:00:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZR_Kw9xDBNwd5jxF8n4G6Ko
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1862
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYPSWhhFD1pj820HYXUMehpRTPU1luN6W85z4qiYWiKs/Bekanntmachung_Gemeinderat_28.10.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSoC2Q5-DdBjxwKgQ4wsX7G_0gx8ni48nVdHFZ-RsDpJ/Oeffentliche_Niederschrift_Gemeinderat_28.10.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Gebühren, Beiträge
+- TOP 4.1: Gebührenkalkulation Abfallbeseitigung 2022 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Gebührenkalkulation Abwasserbeseitigung 2022 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Gebührenkalkulation Winterdienst 2022 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Wärmeversorgung Gebäudekomplex Turnhalle Aldenhoven - Einstimmig, 0 Enthaltung(en)Sitzungsunterbrechung gemäß CoronaSchutzVO von 19:25 Uhr bis 19:35 Uhr.
+- TOP 6.: Anträge von Fraktionen
+- TOP 6.1: Antrag der SPD-Fraktion: hier: Aussprache und Erörterung des Vorwortes der Aldenhoven Info 10/2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Antrag der SPD-Fraktion: hier: Sukzessive Realisierung von Bodenindikatoren / Bodenleitsysteme in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3: Antrag der FWG-Fraktion hier: Soforthilfeprogramm des Landes NRW für Betroffene des Unwetters im Juli - Einstimmig, 2 Enthaltung(en)Ratsherr Wassenhoven beantragt, den Punkt B.3. „Verkauf der gewerblichen Baufläche an der Heidgasse in Siersdorf“ jetzt vorzuziehen und dafür vorübergehend die Öffentlichkeit auszuschließen. Diesem Vorschlag stimmt der Rat eins
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Ausführung des Haushalts
+- TOP 8.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Berichte aus den Gremien
+- TOP 3.: Ansiedlungsanfrage - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 4.1: Transport der "Lolli-Tests" nach den Herbstferien 2021 - vertagt
+- TOP 5.: Vertragsangelegenheiten
+- TOP 5.1: Erwerb einer Photovoltaikanlage auf dem Gebiet der ehem. Sendeanlage "Merscher Höhe" durch die RURENERGIE GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Auftragsvergaben
+- TOP 6.1: Vergabe von Tiefbauarbeiten an den Feuerwehrgerätehaus Aldenhoven sowie am Feuerwehrgerätehaus Schleiden - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Grundstücksangelegenheiten
+- TOP 7.1: Erwerb einer landwirtschaftlichen Parzelle - Einstimmig, 1 Enthaltung(en)
+- TOP 7.2: Erwerb von zwei landwirtschaftlichen Parzelle - ohne Abstimmung
+- TOP 8.: Wiederbewerbung der LAG „Rheinisches Revier an Inde und Rur“ e.V. als LEADER-Region der Förderphase 2023 -27 (+2) - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Rückforderungsbescheid der Bezirksregierung Köln für die Zahlungsmitteilungen der Meldemonate Januar bis Dezember 2018; Bildung einer außerplanmäßigen Rückstellung in Höhe von 115.178,00 € - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Sachstandsberichte der Verwaltung
+- TOP 10.1: Interkommunale Zusammenarbeit
+- TOP 11.: Verschiedenes
