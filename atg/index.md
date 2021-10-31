@@ -24,6 +24,9 @@ staatliche Verwahrung](0005.md)
 - [§ 7b Einwendungen Dritter bei Teilgenehmigung und Vorbescheid](0007b.md)
 - [§ 7c Pflichten des Genehmigungsinhabers](0007c.md)
 - [§ 7d Weitere Vorsorge gegen Risiken](0007d.md)
+- [§ 7e Finanzieller Ausgleich](0007e.md)
+- [§ 7f Zahlung an den Bund](0007f.md)
+- [§ 7g Ermächtigung zum Abschluss eines öffentlich-rechtlichen Vertrages](0007g.md)
 - [§ 8 Verhältnis zum Bundes-Immissionsschutzgesetz und zum Gesetz über überwachungsbedürftige Anlagen](0008.md)
 - [§ 9 Bearbeitung, Verarbeitung und sonstige Verwendung
 von Kernbrennstoffen außerhalb genehmigungspflichtiger
