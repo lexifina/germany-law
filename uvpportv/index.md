@@ -2,7 +2,7 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
-- [(XXXX) § 3 (zukünftig in Kraft)](xxxx-3.md)
+- [§ 3 Funktionen der zentralen Internetportale](0003.md)
 - [§ 4 Art und Weise der Zugänglichmachung der Daten](0004.md)
 - [§ 5 Dauer der Zugänglichkeit der Daten](0005.md)
 - [§ 6 Speicherung der Daten](0006.md)

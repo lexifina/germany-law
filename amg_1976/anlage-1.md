@@ -1,4 +1,4 @@
-# Anlage (zu § 6)
+# Anlage 1 (zu § 6)
 
 Aflatoxine
 Ethylenoxid

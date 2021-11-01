@@ -123,8 +123,8 @@
 | § 58c | Ermittlung der Therapiehäufigkeit |
 | § 58d | Verringerung der Behandlung mit antibakteriell wirksamen Stoffen |
 | § 58e | Verordnungsermächtigungen |
-| § 58f | Verwendung von Daten |
-| § 58g | Evaluierung |
+| § 58f | Verarbeitung und Übermittlung von Daten |
+| § 58g | (weggefallen) |
 | § 59 | Klinische Prüfung und Rückstandsprüfung bei Tieren, die der Lebensmittelgewinnung dienen |
 | § 59a | Verkehr mit Stoffen und Zubereitungen aus Stoffen |
 | § 59b | Stoffe zur Durchführung von Rückstandskontrollen |
@@ -283,6 +283,11 @@
 |  | Übergangsvorschrift |
 | § 147 | Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften |
 |  |
-|  | Anlage (zu § 6) |
+|  | Einundzwanzigster Unterabschnitt |
+|  | Übergangsvorschrift |
+| § 149 | Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes |
+|  |
+|  | Anlage 1 (zu § 6) |
+|  | Anlage 2 (zu § 58c Absatz 2 Satz 2) |
 |  |  |
 |  | Anhang (weggefallen) |

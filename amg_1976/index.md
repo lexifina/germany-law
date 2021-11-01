@@ -128,8 +128,8 @@ Arzneimittel, die bei Tieren angewendet werden
 - [§ 58c Ermittlung der Therapiehäufigkeit](0058c.md)
 - [§ 58d Verringerung der Behandlung mit antibakteriell wirksamen Stoffen](0058d.md)
 - [§ 58e Verordnungsermächtigungen](0058e.md)
-- [§ 58f Verwendung von Daten](0058f.md)
-- [§ 58g Evaluierung](0058g.md)
+- [§ 58f Verarbeitung und Übermittlung von Daten](0058f.md)
+- [§ 58g (weggefallen)](0058g.md)
 - [§ 59 Klinische Prüfung und Rückstandsprüfung bei Tieren, die der Lebensmittelgewinnung dienen](0059.md)
 - [§ 59a Verkehr mit Stoffen und Zubereitungen aus Stoffen](0059a.md)
 - [§ 59b Stoffe zur Durchführung von Rückstandskontrollen](0059b.md)
@@ -227,6 +227,7 @@ Arzneimittelschäden
 - [§ 95 Strafvorschriften](0095.md)
 - [§ 96 Strafvorschriften](0096.md)
 - [§ 97 Bußgeldvorschriften](0097.md)
+- [§ 97 Bußgeldvorschriften](0097-2.md)
 - [§ 98 Einziehung](0098.md)
 
 ## Achtzehnter Abschnitt Überleitungs- und
@@ -359,5 +360,10 @@ des Arzneimittelgesetzes
 ### Neunzehnter Unterabschnitt Übergangsvorschrift
 
 - [§ 147 Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften](0147.md)
-- [Anlage (zu § 6)](anlage.md)
+
+### Einundzwanzigster Unterabschnitt Übergangsvorschrift
+
+- [§ 149 Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes](0149.md)
+- [Anlage 1 (zu § 6)](anlage-1.md)
+- [Anlage 2 (zu § 58c Absatz 2 Satz 2) Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten](anlage-2.md)
 - [Anhang (weggefallen)](anhang.md)
