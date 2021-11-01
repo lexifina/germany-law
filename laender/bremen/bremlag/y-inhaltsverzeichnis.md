@@ -5,6 +5,7 @@ Inhaltsübersicht
 § 3 | Ausbildung
 § 4 | Studium
 § 5 | Praxisbezug des Studiums
+§ 5a | Praxisbezug des Studiums
 § 6 | Vorbereitungsdienst
 § 6a | Sondermaßnahmen zur Gewinnung von Lehrkräften
 § 7 | Prüfungsgrundsätze
@@ -14,3 +15,4 @@ Inhaltsübersicht
 § 11 | Überprüfung der institutionellen Leistungen
 § 12 | Ermächtigung zum Erlass von Rechtsverordnungen
 § 13 | Übergangsregelungen
+§ 13a | Prüfungsersatzleistungen
