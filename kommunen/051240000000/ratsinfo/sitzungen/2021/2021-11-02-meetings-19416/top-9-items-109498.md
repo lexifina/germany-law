@@ -1,0 +1,8 @@
+# TOP 9: Öffentliche Anerkennung des Vereins "Kindertagesstätte Sara e.V." als Träger der freien Jugendhilfe
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Jugendhilfeausschusses (2021-11-02)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/109498
+- Ergebnis: abgesetzt
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/51065
