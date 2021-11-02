@@ -1,0 +1,8 @@
+# TOP 9: Heinrich-Heine-Allee 16a / Deutsche Oper am Rhein Unvermeidbare Teilmaßnahme - Abdichtung des Foyerdaches
+
+- Sitzung: Bauausschuss (2021-11-02)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/308127
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/113369
