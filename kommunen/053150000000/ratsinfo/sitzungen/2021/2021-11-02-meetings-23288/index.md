@@ -1,0 +1,78 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-02T16:00:00+01:00
+- Ende: 2021-11-02T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23288
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23288
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Kitschburger Straße im Kölner Stadtwald für die Menschen weiter öffnen – Autofreie Kitschburger Straße im Stadtwald (Az.: 02-1600-155/21) - zurückgestellt
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Autofreie Kitschburger Straße und Wochenmarkt an allen Werktagen, Hinweise an Bahn- und Busstationen, Aufwertung Stadtwaldspielplatz (Az.: 02-1600-168/20) - zurückgestellt
+- TOP 5.3: Bürgereingabe gem. § 24 GO, betr.:Umgestaltung „Platz der Kinderechte“ (ehemals Heinz-Mohnen-Platz) - geändert beschlossen
+- TOP 5.3.1: Änderungsantrag 5.3 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage Schwimmunterricht in Grundschulen - zurückgestellt
+- TOP 7.2.2: Verkehrsaufkommen auf der Kitschburger Straße - zurückgestellt
+- TOP 7.2.3: Anfrage Hunde im Stadtbezirk - zurückgestellt
+- TOP 7.2.4: Barrierefreie WBS-Wohnungen - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Erhalt des Hauses Lövenicher Weg 2 - ungeändert beschlossen
+- TOP 8.1.2: Clarenbachplatz Fahrradständer - ungeändert beschlossen
+- TOP 8.1.3: Jugendwerkstatt Rhöndorfer Straße - ungeändert beschlossen
+- TOP 8.1.4: KVB Masten und Denkmalschutz - ungeändert beschlossen
+- TOP 8.1.5: Schule und Parkpalette Salzburger Weg - ungeändert beschlossen
+- TOP 8.1.6: Probeweise Einrichtung einer Schulstraße für die Albert-Schweitzer-Schule - ungeändert beschlossen
+- TOP 8.1.7: Prüfantrag Hundefreilauffläche in Lövenich und/oder Widdersdorf - ungeändert beschlossen
+- TOP 8.1.8: Prüfantrag Wohncontainer Kronstädter Straße, Weiden - endgültig zurückgezogen
+- TOP 8.1.8.1: Änderungsantrag zu 8.1.8. - ungeändert beschlossen
+- TOP 8.1.9: Optimierung der Verkehrssituation für den ÖPNV für die Widdersdorfer Landstraße - ungeändert beschlossen
+- TOP 8.1.10: Aufstellen von Papierkörben an der Marsdorfer Straße in Junkersdorf - ungeändert beschlossen
+- TOP 8.1.11: Aufstellen von Papierkörben entlang des Randkanals in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.12: Bänke Aachener Straße - ungeändert beschlossen
+- TOP 8.1.13: Entsiegelung Parkplatz Neue Sankaul - endgültig zurückgezogen
+- TOP 8.1.14: Bethlehem Platz - endgültig zurückgezogen
+- TOP 8.1.15: Masterplan Quartiersgaragen - ungeändert beschlossen
+- TOP 8.1.16: Fahrradstraße Frangenheimstraße - ungeändert beschlossen
+- TOP 8.1.17: Teilung Stadtverschönerungs- und Klima-Mittel - ungeändert beschlossen
+- TOP 8.1.18: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Planung verkehrlicher Maßnahmen zur Schulwegsicherung am Schulstandort Unter Linden/Neue Sandkaul in Widdersdorf - zurückgestellt
+- TOP 9.1.2: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - ungeändert beschlossen
+- TOP 9.1.3: Städtebauliches Planungskonzept „Piusstraße / Ecke Geleniusstraße in Köln-Lindenthal“ (Vorhaben-bezogener Bebauungsplan) - Alternative beschlossen
+- TOP 9.1.4: Widmung eines Flurstückes der Straße Tillmannspfädchen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: KinderReich Rheinland gGmbH - endgültig abgelehnt
+- TOP 9.2.2: Planungsbeschluss für eine ebenerdige barrierefreie Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barrierefreie Brücke - geändert beschlossen
+- TOP 9.2.2.1: Ergänzungsantrag zu 9.2.2 - ungeändert beschlossen
+- TOP 9.2.3: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - zurückgestellt
+- TOP 9.2.4: Flüchtlingsunterkünfte Potsdamer Str. 1 b, 50859 Köln-Weiden sowie Weißdornweg 21, 21 a-c, 50996 Köln-Rondorf, hier: Einstellungsbeschluss, Rückbau- und Baubeschluss - ungeändert beschlossen
+- TOP 9.2.5: Umbenennung des Radstadions in "Albert-Richter-Velodrom" und des Vorplatzes in "Ernst-Berliner-Platz" - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Tätigkeitsbericht 2020 des Amtes für Straßen und Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 11.1.2: Niederschrift und Präsentationsfolien zum Runden Tisch Radverkehr Lindenthal - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 11.3.2: Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe einer investiven Verpflichtungsermächtigung - Kenntnis genommen
+- TOP 11.3.3: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
