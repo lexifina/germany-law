@@ -1,0 +1,51 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-03T17:08:00+01:00
+- Ende: 2021-11-03T18:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20223
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20223
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00428485.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00428485.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00428485.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung von Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 01.09.2021 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift vom 16.09.2021 - einstimmig beschlossen
+- TOP 4: Anfragen / Anträge
+- TOP 4.1: Anfrage der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU zum Thema: Kinder- und jugendgerechte Stadtplanung - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU: Weiteres Vorgehen zur Erweiterung der Kunstakademie - beantwortet
+- TOP -: Qualitätssichernde Verfahren
+- TOP 5: Mixed-Use Hochhaus am Belsenpark II - abweichend beschlossen
+- TOP 5.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage APS/096/2021 Hochbaulicher Wettbewerb Nr. 04/001 - Mixed-Use Hochhaus am Belsenpark II - mehrheitlich abgelehnt
+- TOP 6: Qualitätssicherung - Nördlich Kalkumer Schloßallee - Weitere Vorgehensweise - vertagt
+- TOP 7: Verfahren Nr. 06/021 - Münsterstraße 304-306 - Durchführung eines Wettbewerbs - abweichend beschlossen
+- TOP -: Bauleitplanung
+- TOP 8: Flächennutzungsplanänderung Nr. 178 (Vorentwurf) - Südlich An der Piwipp - Frühzeitige Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 9: Bebauungsplan - Vorentwurf Nr. 01/009 - Südlich An der Piwipp - Öffentlichkeitsbeteiligung - abweichend beschlossen
+- TOP 10: Bebauungsplan - Vorentwurf Nr. 08/008 - Am Kleinforst - Fortführung der Planung - vertagt
+- TOP 11: Bebauungsplan - Entwurf Nr. 5776/014 - Nördlich Königsberger Str. (West) - Änderung des Aufstellungsbeschlusses - abweichend beschlossen
+- TOP 12: Bebauungsplan - Entwurf Nr. 02/005 - Grafental Ost - Beschluss Offenlage und Aufstellung - abweichend beschlossen
+- TOP 12.1: Bebauungsplan-Entwurf Nr. 02/005 Grafental Ost - Sicherung des geförderten Wohnungsbaus - mehrheitlich beschlossen
+- TOP 13: Bebauungsplan - Entwurf Nr. 04/020 - Heerdterhof-Garten- Stellungnahmen, Änderungen, Satzung - Empfehlung mehrheitlich beschlossen
+- TOP 14: Bebauungsplan - Entwurf Nr. 07/004 - Ernst-Poensgen-Allee 3 - Verfahren gemäß §13a BauGB, Stellungnahmen, Satzung - Empfehlung mehrheitlich beschlossen
+- TOP 15: Bebauungsplan - Entwurf Nr. 03/028 - Westlich Volmerswerther Straße - Verfahren 13a BauGB, Stellungnahmen, Satzung - Empfehlung einstimmig beschlossen
+- TOP 16: Plan Nr. 05/018 - Engländersiedlung Lohausen - Aufstellung einer Erhaltungssatzung - einstimmig beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Ulmenstraße 295- Errichtung eines Großmarktes sowie von Büroflächen - zurückgezogen - zurückgezogen
+- TOP -: Sonstiges
+- TOP 18: Haushaltsplan - Entwurf 2022 - mehrheitlich beschlossen
+- TOP 18.1: Anregung der Bezirksvertretung 1 zum Haushaltsplan-Entwurf 2022
+- TOP 18.2: Haushaltsantrag der SPD-Ratsfraktion - mehrheitlich abgelehnt
+- TOP 19: Wesentliche Inhalte von Städtebaulichen Verträgen - zur Kenntnis genommen
+- TOP 20: Neubau des Technischen Verwaltungsgebäudes (TVG) - Auslobungsbeschluss - abweichend beschlossen
+- TOP 21: Jahresbericht der Geschäftsstelle der Kunstkommission 2020/2021 - zur Kenntnis genommen
+- TOP 22: RRX-Planung Angermund - Prüfergebnisse zum Ratsauftrag vom 04.02.2021 - Empfehlung mehrheitlich beschlossen
