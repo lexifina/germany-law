@@ -1,0 +1,59 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-11-03T18:00:00+01:00
+- Ende: 2021-11-03T21:49:00+01:00
+- Ort: neu: Sitzungsbeginn 18 Uhr Juliusstr. 12, 42105 Wuppertal (Alte Glaserei, Forum an der Nordbahntrasse) Nachweis 3-G (geimpft, genesen, getestet) zur Sitzungsteilnahme zwingend erforderlich
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19286
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19286
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00280964.pdf
+
+## Tagesordnung
+
+- TOP 1: Berichterstattung Projekt "Gebäude Gold-Zack Fabrik/ Wiesenstr. 118+120" - Dr. Slawig, Fr. Hardt (Montag Stiftung Urbane Räume gAG)
+- TOP 2: Vorstellung Alte Glaserei - Dr. Daniel Lorberg
+- TOP 3: Einführung und Verpflichtung eines Bezirksvertreters
+- TOP 4: Controllingliste der Beschlüsse und Aufträge der Verwaltung
+- TOP 5: Bericht des Jugendrates
+- TOP 6: Berichterstattung durch die Verwaltung zur Durchführung der Bundesgartenschau 2031 (BUGA 2031)
+- TOP 6.1: Bewerbung um die Durchführung der Bundesgartenschau 2031 (BUGA 2031) - ungeändert beschlossen
+- TOP 6.1.1: Bewerbung um die Durchführung der Bundesgartenschau 2031 (BUGA 2031) - Beantwortung von Fragen der CDU-Fraktion - Entgegennahme ohne Beschluss
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1: Hochwasserschäden in Elberfeld als Folgen des Klimawandels - Antrag Bündnis 90/DIE GRÜNEN - ungeändert beschlossen
+- TOP 8: Bürgeranträge nach § 24 GO NRW
+- TOP 8.1: Bürgerantrag gem. § 24 GO: Anpassung des als Fußgängerzone ausgewiesenen Bereichs der Friedrich-Ebert-Straße - ungeändert beschlossen
+- TOP 8.2: Bürgerantrag § 24 GO NRW : Entfernen von Markierungen im Bereich Hofaue 35-41 zugunsten von Anwohnerparken - vertagen
+- TOP 8.3: Bürgerantrag §24 GO NRW - Einrichtung Haltverbot in der Zollstraße - ungeändert beschlossen
+- TOP 8.4: Bürgerantrag §24 GO Obergrünewalder Straße, absolutes Haltverbot westliche Fahrbahnseite - ungeändert beschlossen
+- TOP 8.5: Bürgerantrag §24 GO NRW Fußgängerüberweg Schloßbleiche Ecke Wall - ungeändert beschlossen
+- TOP 8.6: Bürgerantrag §24 GO: Radweg Mäuerchen - Freie Sicht auf Verkehrsströme - ungeändert beschlossen
+- TOP 8.6.1: Bürgerantrag §24 GO: Radweg Mäuerchen - Freie Sicht auf Verkehrsströme - Ergänzung - Entgegennahme ohne Beschluss
+- TOP 8.7: Bürgerantrag § 24 GO: Gehwegparken Aue - ungeändert beschlossen
+- TOP 8.8: Bürgerantrag §24 GO NRW - Kradparkplätze generell abpollern - ungeändert beschlossen
+- TOP 8.9: Kipdorf Einbahnstraße - Bürgerantrag gem. § 24 GO - ungeändert beschlossen
+- TOP 8.10: Bürgerantrag §24 GO NRW Radfahrstreifen neben Verwaltungsgebäude - ungeändert beschlossen
+- TOP 8.11: Bürgerantrag nach § 24 GO NRW - Umwandlung Anwohnerparken und Radbügel Plateniusstraße - ungeändert beschlossen
+- TOP 9: Anträge der Fraktionen
+- TOP 9.1: Sicherheit und Ordnung im Luisenviertel - Antrag der SPD - vertagen
+- TOP 9.2: Antrag: Den Platz am Kolk autofrei gestalten! - Antrag der SPD - ungeändert beschlossen
+- TOP 9.3: Die Qualitätsoffensive Innenstadt Elberfeld muss wieder Fahrt aufnehmen! - Antrag der SPD - ungeändert beschlossen
+- TOP 9.4: Verkehrssituation Klever Platz/Ravensberger Straße - Antrag Bündnis90/DIE GRÜNEN - ungeändert beschlossen
+- TOP 10: Veranstaltung: Platzen auf dem Laurentiusplatz vom 11.10.21-17.10.21 - ungeändert beschlossen
+- TOP 11: Freigabe von Einbahnstraßen für den gegenläufigen Radverkehr (Friesenstraße, Teutonenstraße) - ungeändert beschlossen
+- TOP 12: Kreuzungsumbau Bundesallee B 7 / Sophienstraße / Alsenstraße - ungeändert beschlossen
+- TOP 13: Verordnung über das Offenhalten von Verkaufsstellen am 05.12.2021 in Wuppertal-Elberfeld - abgelehnt
+- TOP 14: Konzept für einen barrierefreien ÖPNV Wuppertal (Nahverkehrsplan Teil I) - ungeändert beschlossen
+- TOP 15: Bebauungsplan 1068 - Bayreuther Straße / Briller Straße - 1. Änderung des Bebauungsplanes (mit Flächennutzungsplanberichtigung 126B) - Offenlegungsbeschluss - - ungeändert beschlossen
+- TOP 16: Instandsetzung der Brücke Reichsgrafenstraße - ungeändert beschlossen
+- TOP 17: Überplanmäßige Mittel für die Fördermaßnahme Grundhafte Erneuerung der Kluser Brücke (B7) - ungeändert beschlossen
+- TOP 18: Einbahnstraßenfreigabe für den gegenläufigen Radverkehr - Mirker Straße und Hedwigstraße - geändert beschlossen
+- TOP 19: Antrag auf Nutzung von öffentlichen Parkplätzen für Außengastronomie Friedrich-Ebert-Str. 21 - ungeändert beschlossen
+- TOP 20: Anträge auf freie Mittel aus dem Budget 2021
+- TOP 20.1: Wasserfreunde Wuppertal - Chlorgasanlage - geändert beschlossen
+- TOP 20.2: Projekt "Kunst und Ortsgeschichte" - abgelehnt
+- TOP 20.3: Schwimmverband Wuppertal e.V. - Förderung des Schwimmunterrichts - ungeändert beschlossen
+- TOP 20.4: Utopiastadt gGmbH - Förderung einer Dokumentation der Quartiersentwicklung Mirke - abgelehnt
+- TOP 21: Berichte und Mitteilungen
