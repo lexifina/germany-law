@@ -104,7 +104,7 @@ Allgemeiner Datenbestand
 | 6 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 6 | (1) |  |  |  | §§ 5, 14 bis 19, 21, 23, 23a, 24a, 25 bis 27 des AZR-Gesetzes |
-| Zuzug/Fortzug |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis g – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a, c, d, e und g – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe h | – alle Stellen |
+| Zuzug/Fortzug |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis g – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a, c, d, e und g– Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstabe a, d und e – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe e und h | – alle Stellen |
 | a) | Ersteinreise in das Bundesgebiet am | (5) |
 | b) | Zuzug von einer anderen Ausländerbehörde am | (5) |
 | c) | Zuzug von unbekannt am | (5) |
@@ -114,7 +114,7 @@ Allgemeiner Datenbestand
 | g) | Wiederzuzug aus dem Ausland am | (5) |
 | h) | nicht mehr aufhältig seit | (5) |
 | § 3 Absatz 4 Nummer 6 | (2) | – wie vorstehend – |  |  |  |  |
-| Zuzug/Fortzug | – wie vorstehend – | – wie vorstehend – |
+| Zuzug/Fortzug | – wie vorstehend – | – wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes – |
 | – wie vorstehend – |
 | § 3 Absatz 4 Nummer 6 | (3) | – wie vorstehend – |  |  | §§ 5, 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23, 26 des AZR-Gesetzes |
 | Zuzug/Fortzug | – wie vorstehend – | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivollzugsbehörden der Länder – Bundesagentur für Arbeit – Behörden anderer Staaten, über- oder zwischenstaatliche Stellen – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – Statistisches Bundesamt |
@@ -153,8 +153,11 @@ Allgemeiner Datenbestand
 | l) | Flüchtlingseigenschaft erloschen am | (5) |
 | m) | subsidiärer Schutz nach § 4 Absatz 1 AsylG gewährt am | (3) |
 | n) | subsidiärer Schutz nach § 4 Absatz 1 AsylG widerrufen/zurückgenommen am | (3) |
-| o) | Abschiebungsverbote nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthGfestgestellt amfür den Zielstaat/die Zielstaaten | (3) |
-| p) | Abschiebungsverbote nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthGwiderrufen/zurückgenommen am | (3) |
+| o) | Abschiebungsverbote nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthG | (3) |
+|  | festgestellt am |
+|  | für den Zielstaat/die Zielstaaten |
+| p) | Abschiebungsverbote nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthG | (3) |
+|  | widerrufen/zurückgenommen am |
 | q) | Asylantrag vor Einreise gestellt am | (1) |
 | r) | Asylantrag vor Einreise erneut gestellt am | (1) |
 | s) | Asylantrag vor Einreise abgelehnt am | (1) |
