@@ -1,0 +1,32 @@
+# Rat der Gemeinde Hiddenhausen (3. /2021)
+
+- Körperschaft: Gemeinde Hiddenhausen
+- Beginn: 2021-11-04T18:00:00+01:00
+- Ende: 2021-11-04T18:33:00+01:00
+- Ort: Haus des Bürgers, Rathausplatz 15, 32120 Hiddenhausen, HdB, Großer Saal
+- Status: 
+- Gremium: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://hiddenhausen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaWd4vnDlig428ixsZLZTFg
+- OParl: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3186
+- Quelle: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Gemeinde Hiddenhausen) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUjgL8_sF8vqvVaxbK7fsq3VfhA7Dmx6VoM0NtPOqptf/Bekanntmachung_Rat_der_Gemeinde_Hiddenhausen_04.11.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Gemeinde Hiddenhausen) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcTrFdbnpttQiPpMjFKAhVwubHPAphR1BnSGh1vK_h13/Oeffentliche_Niederschrift_Rat_der_Gemeinde_Hiddenhausen_04.11.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentliche Sitzung
+- TOP 1.: Aufstellung einer Ergänzungssatzung („Hof Dunkelau“) über die Einbeziehung einer Außenbereichsfläche östlich des Sportplatzweges in den im Zusammenhang bebauten Ortsteil Hiddenhausen; Stellungnahmen der Öffentlichkeit und der Behörden und sonstigen Träger öffentlicher Belange aus der öffentlichen Auslegung des Planentwurfs nach § 3 Abs. 2 BauGB sowie Satzungsbeschluss - Beschlussfassung: Einstimmig
+- TOP 2.: Integriertes städtebauliches Entwicklungskonzept (ISEK) für den Ortsteil Lippinghausen - Beschlussfassung: Einstimmig
+- TOP 3.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung der Straßenbeleuchtungseinrichtung an der Anlage Am Rhin im Gemeindeteil Oeting- hausen - Beschlussfassung:Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 4.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung und Verbesserung der Straßenbeleuchtungseinrichtung an der Anlage Eschenweg im Gemeindeteil Oetinghausen - Beschlussfassung:Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 5.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung der Straßenbeleuchtungseinrichtung an der Anlage Am Voßbrink im Gemeindeteil Schweicheln-Bermbeck - Beschlussfassung:Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 6.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung und Verbesserung der Straßenbeleuchtungseinrichtung an der Anlage Lange Brede auf dem Abschnitt Herrendienstweg bis Lippinghauser Straße im Gemeindeteil Schweicheln-Bermbeck - Beschlussfassung: Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 7.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung der Straßenbeleuchtungseinrichtung an der Anlage Dahlienweg im Gemeindeteil Oetinghausen - Beschlussfassung:Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 8.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung der Straßenbeleuchtungseinrichtung an der Anlage Hinterm Busche auf dem Abschnitt Herrendienstweg bis Hinterm Busche 9 im Gemeindeteil Schweicheln-Bermbeck - Beschlussfassung: Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 9.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung der Straßenbeleuchtungseinrichtung an der Anlage Baumschulenweg auf dem Abschnitt Baumschulenweg 5 bis Baumschulenweg 10 im Gemeindeteil Eilshausen - Beschlussfassung: Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 10.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung der Straßenbeleuchtungseinrichtung an der Anlage Schindelweg auf dem Abschnitt Schindelweg 5 bis Schindelweg 9 im Gemeindeteil Eilshausen - Beschlussfassung:Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 11.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung und Verbesserung der Straßenbeleuchtungseinrichtung an der Anlage Brauereiweg auf dem Abschnitt Friedrich-Ebert-Straße bis Feldstraße im Gemeindeteil Schweicheln-Bermbeck - Beschlussfassung:Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 12.: Erhebung von Kostenbeiträgen nach § 8 KAG NW für die Erneuerung der Straßenbeleuchtungseinrichtung an der Anlage Bubenstraße im Gemeindeteil Eilshausen - Beschlussfassung:Ja-Stimmen:23Nein-Stimmen:  2Enthaltungen: keineDie Abstimmung erfolgt en bloc für die Tagesordnungspunkte 3. – 12. Herr Söhnchen, Herr Pöppel, Frau Pöppel-Stadelmann und Herr Meier nehmen an Beratung und Beschlussfassung nicht teil. 
+- TOP 13.: Fragestunde für Einwohner und Einwohnerinnen
+- TOP 14.: Anfragen der Ratsmitglieder an die Verwaltung
+- TOP 15.: Mitteilungen
