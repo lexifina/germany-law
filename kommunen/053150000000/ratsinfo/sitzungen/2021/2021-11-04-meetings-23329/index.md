@@ -1,0 +1,85 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-04T17:00:00+01:00
+- Ende: 2021-11-04T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23329
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23329
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag auf eine aktuelle Stunde nach §5 - endgültig zurückgezogen
+- TOP -: Bestellung einer Schriftführung für die Bezirksvertretung Chorweiler
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Absperrpfosten im Bereich Am Schmidtgrund 90-92 (Az.: 02-1600-175-21) - Kenntnis genommen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sportplatz St.-Tönnis-Str. Beantwortung einer Anfrage - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.1.2: Monitoring des Beweidungskonzepts in der Rheinaue Worringen - Kenntnis genommen
+- TOP 7.1.3: Verkehrsführung auf dem Liverpooler Platz - Kenntnis genommen
+- TOP 7.1.4: Parksituation in Langel - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bundestagswahlen 2021 im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.2.2: Straßen- und Wegekonzept 2022 bis 2026 - Kenntnis genommen
+- TOP 7.2.3: Pflege und Reinigung Bürgerpark Weiler - Kenntnis genommen
+- TOP 7.2.4: Parkgelände Volkhoven/Weiler - Kenntnis genommen
+- TOP 7.2.5: Entsiegelung aufgegebener Bushaltestellen - Kenntnis genommen
+- TOP 7.2.6: Retentionsraum Worringen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Etablierung einer Suchtberatungsstelle im Bezirk Chorweiler - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Briefwähler im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP -: Briefwähler im Stadtbezirk Chorweiler
+- TOP 7.2.9: Starkregenereignisse und Überschwemmungen im Kölner Norden - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage durch die SteB
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: TOP 7.2.3. a.d.S. vom 15.04.2021, Historischer Friedhof Esch, 0173/2021
+- TOP 7.3.2: TOP 7.2.4. i.d.S. vom 15.04.2021, Installierung zentr. Wasser- und Stromanschluss Auweiler AN/0174/2021
+- TOP 7.3.3: TOP 7.2.10 i.d.S. vom 15.04.2021, KVB Fahrgast EKZ Heimersdorf, AN/0218/2021
+- TOP 7.3.4: TOP 7.2.15 i.d.S. vom 15.04.2021, Sachstand Blumenbergsweg, 0350/2021
+- TOP 7.3.5: TOP 7.2.20 i.d.S. vom 15.04.2021, Grünstreifen Liller Str./Oxforder Passage, 0654/2021
+- TOP 7.3.6: TOP 7.2.7 i.d.S. vom 15.04.2021, Verkehrsprüfung Liverpooler Platz, 0176/2021
+- TOP 7.3.7: TOP 7.2.1 i.d.S. vom 27.05.2021, Straßenbäume in Chorweiler und Seeberg, 1080/2021
+- TOP 7.3.8: TOP 7.2.2 i.d.S. vom 27.05.2021, Sachstand Sanierung Neusser Landstr. 1077/2021
+- TOP 7.3.9: TOP 7.2.6 i.d.. vom 27.05.2021, Geschwindigkeit Volkhovener Weg 1052/2021
+- TOP 7.3.10: TOP 7.2.2. i.d.S. vom 17.06.2021, Insel Pescher See 1352/2021
+- TOP 7.3.11: TOP 7.2.3. i.d.S. vom 17.06.2021 Wochenmarkt 1334/2021
+- TOP 7.3.12: TOP 7.2.7 i.d.S. vom 17.06.2021 Raser Mercatorstr. 1344/2021
+- TOP 7.3.13: TOP 7.2.2. i.d.S. vom 26.08.2021, Anhäufung von Sperrmüll auf öffentlichen Straßen im Kölner Norden, 1590/2021
+- TOP 7.3.14: TOP 7.2.3 i.d.S. vom 26.08.2021, Alte NeusserLandstr. 273, Haus Worringen 1591/2021
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung durch die Bezirksvertretung Chorweiler - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Antrag Einrichtung eines Zebrastreifens an der Grundschule An den Kaulen in Köln Worringen zur Entschärfung der Gefahrensituation beim überqueren der Strasse - geändert beschlossen
+- TOP 8.3.2: Barrierefreier Zugang zum Escher Friedhof - ungeändert beschlossen
+- TOP 8.3.3: Erneuerung der Gehwege Seeberg, Balsaminenweg 7 - 29 und Grundschule - ungeändert beschlossen
+- TOP 8.3.4: Prüfantrag für eine Ausweitung der Tempo 30 Bereich auf der Merianstrasse beginnend der Kreuzung Fühlinger Weg bis zur 30 Tempo Ecke Kelzenberger Weg. - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP -: Dringlichkeitsantrag auf Aufnahme des Themas "Stadtteilplanung Köln-Kreuzfeld" als TOP
+- TOP 9.2.1: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - geändert beschlossen
+- TOP 9.2.2: Neugestaltung des Spielplatzes Martinusstr./Meisenweg in Köln-Esch - ungeändert beschlossen
+- TOP 9.2.3: Halle Erdweg- Baubeschluss - ungeändert beschlossen
+- TOP 9.2.4: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Planung des neuen Stadtteils Chorweiler - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 10.2.2: Tätigkeitsbericht 2020 des Amtes für Straßen und Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 10.2.3: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
