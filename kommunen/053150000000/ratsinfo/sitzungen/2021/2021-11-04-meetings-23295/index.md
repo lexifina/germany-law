@@ -1,0 +1,95 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-04T17:00:00+01:00
+- Ende: 2021-11-04T19:36:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23295
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23295
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Vorstellung KölnBusiness
+- TOP -: B - Sachvortrag "Schutz vor Starkregenereignisse durch ausgeführte und geplante Renaturierungen von Moorflächen sowie Bachläufen im Bezirk Porz"
+- TOP -: C - Sachstand Porz Mitte
+- TOP -: D - Fortschritt Schulbau in Porz
+- TOP -: E - Eindämmung von Wettbüros/Spielhallen
+- TOP -: Wettbüros und Spielhallen - Kenntnis genommen
+- TOP 1: Einwohneranfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Schaffung von Erholungsorten am Rheinufer (Az.: 02-1600-104/21) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Vergabe von bezirksorientierten Finanzmittel gemäß § 37 GO NRW im Jahr 2021 - ungeändert beschlossen
+- TOP 6.2: Projektanträge im Rahmen des vierten Antragsdurchlaufs des Verfügungsfonds für das Gebiet der Sozialen Stadt „Porz-Ost, Finkenberg, Gremberghoven und Eil“ - ungeändert beschlossen
+- TOP 6.3: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte - ungeändert beschlossen
+- TOP 6.4: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - geändert beschlossen
+- TOP 6.5: Beschluss der BV Porz über Maßnahmen zur Verbesserung der Situation auf dem Schulhof der GGS Schulstraße 23 im Rahmen des Förderprogramms "Gute Schule 2020" - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - mit Änderungen empfohlen
+- TOP 7.2: Stadtstrategie „Kölner Perspektiven 2030+“ - zurückgestellt
+- TOP 7.3: Zukunftsweisende Vision für die Ausrichtung der Stadt Köln - zurückgestellt
+- TOP 7.4: Stadtklima- und Verschönerungsprogramm 2020 im Stadtbezirk Porz - Bewegungsparcour in Zündorf - ungeändert beschlossen
+- TOP 7.5: Sanierungskonzept, Nutzungskonzept und Betreiberkonzept für das Umweltbildungszentrum Gut Leidenhausen - Planungsbeschluss - mit Änderungen empfohlen
+- TOP 7.6: Zügigkeitserweiterung der Lise-Meitner-Gesamtschule, Stresemannstraße 36 in Köln-Finkenberg zum Schuljahr 2022/23 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert empfohlen
+- TOP 7.7: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "TOP 7.7 Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026" - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion "Sicherung der Übergänge der KVB-Haltestelle Ensen-Kloster z.B. durch zusätzliche Lichtsignale" - ungeändert beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Stellungnahme AN/2188/2021 "Trauungen in Porz" - Kenntnis genommen
+- TOP 8.3: Antrag der SPD-Fraktion "Neubauprojekt Gilgaustraße 36-40, Ensen" - zurückgestellt
+- TOP -: Neubauprojekt Gilgaustraße 36-40, Ensen - zurückgestellt
+- TOP 8.4: Antrag der SPD-Fraktion "Schnellere Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz (ISEK Porz)" - Sache ist erledigt
+- TOP -: Ersetzungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Schnellere Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz (ISEK Porz)" - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion "Wiederaufnahme des Schulareals und des Lichtkonzeptes ins Integrierte Stadtentwicklungskonzept Porz (ISEK Porz)" - Sache ist erledigt
+- TOP -: Ersetzungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Aufnahme des Schulareals in ein Planungskonzept zeitgleich zum - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion "Instandsetzung der Pflanzinseln im Porzer Zentrum" - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion "Umzug des Berufskolleg Porz (BK 10)" - Sache ist erledigt
+- TOP -: Ersetzungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Umzug des Berufskolleg Porz (BK 10)" - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion "Tempo 30 im Bereich Glashüttenstraße" - ungeändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Verbesserung der Beleuchtung in Porzer Unterführungen“ - Sache ist erledigt
+- TOP -: Ersetzungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Aufnahme des Lichtkonzeptes in ein Planungskonzept zeitgleich zum Integrierten Stadtentwicklungskonzept Porz (ISEK Porz)" - geändert beschlossen
+- TOP 8.10: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Definierte Standorte und Nutzungsbereiche für E-Scooter und E-Roller" - geändert beschlossen
+- TOP 8.11: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Vorstellung des Magnetschwebebahnsystems TBS in der Bezirksvertretung Porz" - ungeändert beschlossen
+- TOP 8.12: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Reinigung und Instandhaltung Schilder an der Groov" - ungeändert beschlossen
+- TOP 8.13: Dringlichkeitsantrag der Fraktion DIE LINKE/Die Partei "Durchsetzung des Halteverbotes in der Busbucht an der Haltestelle Guntherstraße“ - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Durchsetzung Halteverbot an der Bushaltestelle "Guntherstraße" in Wahnheide - Kenntnis genommen
+- TOP 8.14: Dringlichkeitsantrag der Fraktion DIE LINKE/Die Partei "Umwidmung und barrierefreie Gestaltung des Fußweges „Bieselweg“ in Köln Porz Wahnheide zu einem Fuß- und Radweg durch das Verkehrszeichen 240" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.15: Dringlichkeitsantrag der Fraktion DIE LINKE/Die PARTEI "Barrierefreie Gestaltung des Fuß- und Radweges im Bereich „Senkelsgraben“ in Porz Lind und Wahnheide" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.16: Dringlichkeitsantrag der Fraktion DIE LINKE/Die Partei "Freigabe des Gehweges „Senkelsgraben“ in Köln Porz Wahnheide" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.17: Dringlichkeitsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Nutzungsverhältnis Grundstück Gemarkung Poll“ - ungeändert beschlossen
+- TOP 8.18: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Erhaltung einer Trauerweide in der Mühlenstraße 6-8“ - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage der SPD-Fraktion in der BV 7 "Nutzungsverhältnis Grundstück Gemarkung Poll" - Kenntnis genommen
+- TOP 9.1.2: Beantwortung der Anfrage AN/1364/2021 "Umweltbildungszentrum (UBZ) Gut Leidenhausen e.V." - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Sachstand zu Bauanträge Stadtbezirk Porz" - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Sachstand zur Prüfung eines Fußgängerschutzes an der Bonner Str./Bergerstr. in Porz-Eil (Prüfantrag vom 16.06.2020 – AN/0742/2020)" - zurückgestellt
+- TOP 9.2.3: Anfrage der Fraktion DIE LINKE/Die PARTEI "Schließung der Flughafenstraße für Besucher des Scheuermühlenteichs?" - Sache ist erledigt
+- TOP 9.2.4: Anfrage der CDU-Fraktion "Situation im Bezirksausländeramt Porz" - zurückgestellt
+- TOP 9.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.7: Anfrage der CDU-Fraktion "Die Konsequenzen aus der Flutkatastrophe in NRW und Rheinland Pfalz für den Katastrophenschutz in Porz - zurückgestellt
+- TOP 9.2.8: Anfrage der SPD-Fraktion "Einrichtung von Kreisverkehren im Stadtgebiet Porz" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Niederschrift zum 13. Runden Tisch Radverkehr vom 25.02.2021 und zum 14. Runden Tisch Radverkehr vom 27.05.2021 - Kenntnis genommen
+- TOP 10.2.2: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 10.2.3: Aufhebung von Gehwegparken bzw. Einstellung der Parkraumbewirtschaftung - Kenntnis genommen
+- TOP 10.2.4: Tätigkeitsbericht 2020 des Amtes für Straßen und Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 10.2.5: Stadtbahn Bonn - Niederkassel - Köln (Linie 17) und Verknüpfung Linie 7 - Kenntnis genommen
+- TOP 10.2.6: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 10.2.7: Einrichtung einer Rampe am Treppenabgang Ohmstraße zur Kaiserstraße - Kenntnis genommen
+- TOP 10.2.8: Deckensanierung Berufskolleg Hauptstraße 426 - Kenntnis genommen
+- TOP 10.2.9: Ergebnis Fachgespräch am 30.09.2021 zum Thema Baumaßnahme Umgestaltung Eiler Schützenplatz – Durchführung des Eiler Schützenfestes in 2022 - Kenntnis genommen
+- TOP 10.2.10: Anfrage der SPD-Fraktion zum Nutzungskonzept Zündorfer Groov - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
