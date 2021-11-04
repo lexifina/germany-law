@@ -1,4 +1,4 @@
-# Rechtsnormendes Tarifvertrags zur Regelung eines Mindestlohnsim Steinmetz- und Steinbildhauerhandwerkvom 14. Juni 2021 (TV Mindestlohn)
+# Rechtsnormendes Tarifvertrags zur Regelung eines Mindestlohns im Steinmetz- und Steinbildhauerhandwerk vom 14. Juni 2021 (TV Mindestlohn)
 
 - [§ 1 Geltungsbereich](0001.md)
 - [§ 2 Mindestlohn](0002.md)

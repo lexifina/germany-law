@@ -167,7 +167,4 @@
 
 ## Kapitel 10 Übergangsvorschriften
 
-
-## Kapitel 10 Übergangsvorschriften
-
 - [§ 86 Übergangsvorschriften für bestehende Wertpapierinstitute](0086.md)
