@@ -1,0 +1,93 @@
+# 9. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-04T17:30:00+01:00
+- Ende: 2021-11-04T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23367
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23367
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Überwachung des ruhendes Verkehrs, insbesondere im Bezirk Nippes
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Radweg am Merheimer Platz - Innere Kanalstraße - geändert beschlossen
+- TOP 2.2: Bürgereingabe nach § 24 GO - 102 gesunde Bäume in Köln-Nippes erhalten! Schulen nachhaltig umbauen! - Aktenzeichen 176/21B - zurückgestellt
+- TOP 2.3: Bürgereingabe nach § 24 GO – „Bildung eines Stadtteils Osterrath„ AZ 142-21S - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Umwandlung eines Teilbereichs der Stammheimer Straße in eine Einbahnstraße - Kenntnis genommen
+- TOP -: Umwandlung eines Teilbereichs der Stammheimer Straße in eine Einbahnstraße - Kenntnis genommen
+- TOP 7.1.2: Zufahrt zu den Tiefgaragen Ehrenberg- und Goldfußstraße in Riehl - Kenntnis genommen
+- TOP -: Zufahrt zu den Tiefgaragen Ehrenberg- und Goldfußstraße in Riehl - Kenntnis genommen
+- TOP 7.1.3: Baugenehmigungen der Häuser Nordstr. 17 und Nordstr. 17a - Kenntnis genommen
+- TOP -: Baugenehmigungen der Häuser Nordstr. 17 und Nordstr. 17a - Kenntnis genommen
+- TOP 7.1.4: Errichtung einer Quartiersgarage auf dem Parkplatz an der Kleingartenanlage Boltensternstraße - zurückgestellt
+- TOP 7.1.5: Bedarf an Quartiersgaragen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.6: Verkehrsberuhigter Bereich (Spielstraße) Rudolf-Sohm-Straße - zurückgestellt
+- TOP 7.1.7: Anfrage zum Umbau und zur Ausstattung des Leonardo-da-Vinci Gymnasiums - Kenntnis genommen
+- TOP -: Umbau und zur Ausstattung des Leonardo-da-Vinci Gymnasiums - zu AN/1370/2021 - Kenntnis genommen
+- TOP 7.1.8: Verkehrsberuhigte Zone Mauenheimer Straße - Kenntnis genommen
+- TOP -: Verkehrsberuhigte Zone Mauenheimer Straße - Kenntnis genommen
+- TOP 7.1.9: Baustelle der StEB auf der Pallenbergstraße - Kenntnis genommen
+- TOP -: Baustelle der StEB auf der Pallenbergstraße - Kenntnis genommen
+- TOP 7.1.10: Wasserschaden Turnhalle Dreikönigsgymnasium (DKG) - Kenntnis genommen
+- TOP -: Wasserschaden Turnhalle Drei-Königs-Gymnasium (DKG) in der Escher Straße - zur Anfrage der SPD-Fraktion AN/1873/2021 - Kenntnis genommen
+- TOP 7.1.11: Außengastronomie auf Parkplätzen im Stadtbezirk Nippes - Umsetzung und Verstetigung - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Zustand der Wasch- und Duschräume der Turnhalle der GGS Halfengasse - zurückgestellt
+- TOP 7.2.2: Verfall und Verwahrlosung des denkmalgeschützten ehemaligen Mühlenhofs, Wirtgasse 2, Longerich - zurückgestellt
+- TOP 7.2.3: Fahrradzugänge zur Mülheimer Brücke - zurückgestellt
+- TOP 7.2.4: Vogelschutzstreifen in Longerich - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verbesserung der Kreuzungssituation und Erhöhung der Verkehrssicherheit Neusser Straße, Mollwitzstraße und Roßbachstraße - ungeändert beschlossen
+- TOP 8.1.2: Abenteuerspielplätze für den Stadtbezirk Nippes - geändert beschlossen
+- TOP 8.1.3: Anschaffung eines Spülwagens für den Stadtbezirk Nippes - endgültig abgelehnt
+- TOP 8.1.4: Änderung der Verkehrsführung Escher Straße - geändert beschlossen
+- TOP 8.1.5: Fahrradabstellplätze für Nippes - ungeändert beschlossen
+- TOP 8.1.6: Errichtung von weiteren Bewegungsparcoursanlagen für Senior*innen - geändert beschlossen
+- TOP 8.1.7: Prüfung Hochbahntrasse: Begrünung und Ausstattung mit Solarpanels - geändert beschlossen
+- TOP 8.1.8: Fähre zwischen Niehl und Stammheim/Flittard - ungeändert beschlossen
+- TOP 8.1.9: Ökologische Aufwertung der Bezirkssportanlage - ungeändert beschlossen
+- TOP 8.1.10: Prüfauftrag zur Errichtung eines urbanen Waldes - ungeändert beschlossen
+- TOP 8.1.11: Alternatives Spiel- und Sportangebot An den Kreutzmorgen - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Solardächer für Nippes - ungeändert beschlossen
+- TOP -: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 8.2.2: Errichtung eines Atelierhauses an der Neusser Landstraße 2 - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe bezirksorientierter Mittel an den Bürgerverein Longerich - ungeändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an Bike Bridge e.V. - zurückgestellt
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an den Arbeitskreis Mauenheim - ungeändert beschlossen
+- TOP 9.1.4: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - geändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an den Cologne Cycling Club e.V. - zurückgestellt
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an KLuG e.V. - ungeändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an 23 Nisan e.V. - computergestützte Deutschförderung - ungeändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an 23 Nisan e.V. - Musik für Mädchen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - ungeändert empfohlen
+- TOP 9.2.2: Städtische Katastrophenschutzeinrichtung Boltensternstr. 2-4, 50735 Köln-Niehl - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.1.1: Runder Tisch Neusser Str. 772 zum Lkw-Problem an der Neusser Straße in Weidenpesch und Longerich - Kenntnis genommen
+- TOP 10.1.2: Umgestaltung der Longericher Hauptstraße im Bereich der geplanten Kindertagesstätte - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tätigkeitsbericht 2020 des Amtes für Straßen und Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 10.2.2: Start 10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit - Kenntnis genommen
+- TOP 10.2.3: Geschwindigkeitskontrollen Ecke Jesuitengasse und Pallenbergstraße - Kenntnis genommen
+- TOP 10.2.4: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 10.2.5: Prüfauftrag zur Benennung eins Weges in Köln-Nippes nach den Eheleuten Safarowsky - Kenntnis genommen
+- TOP 10.2.6: Sitzungstermine der BV Nippes - Kenntnis genommen
+- TOP 10.2.7: Erhöhung der Verkehrssicherheit durch kombinierte Rotlicht- und Geschwindigkeitsüberwachungsanlagen für den Knotenpunkt Boltensternstr. / Barbarastr., Riehl - Kenntnis genommen
+- TOP 10.2.8: Mitteilung zur Sitzung der Bezirksvertretung Nippes am 04.11.2021 zum Thema Bildungsgerechtigkeit und soziale Teilhabe bezugsnehmend auf den Antrag der LINKEN (AN/1761/2021) und den dazugehörigen Änderungsantrag (AN/1946/2021) - Kenntnis genommen
+- TOP 10.2.9: Benennung eines Weges in Köln-Nippes nach Uschi Werner-Fluss - Kenntnis genommen
