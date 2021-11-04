@@ -1,0 +1,77 @@
+# Konstituierende Sitzung der Bezirksverordnetenversammlung Treptow-Köpenick von Berlin
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2021-11-04T17:00:00+01:00
+- Ende: 2021-11-04T22:05:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6254
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6254
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=366923
+
+## Tagesordnung
+
+- TOP 1: Konstituierung der BVV - erledigt
+- TOP 2: Bestätigung der Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Beschlussfassung zur Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Wahl des Vorstands - im Ausschuss abgelehnt
+- TOP 4.1: Wahl der Vorsteherin / des Vorstehers - gewählt
+- TOP 4.2: Wahl der stellv. Vorsteherin / des stellv. Vorstehers - gewählt
+- TOP 4.3: Wahl der Schriftführerin / des Schriftführers - gewählt
+- TOP 4.4: Wahl einer stellv. Schriftführerin / eines stellv. Schriftführers - gewählt
+- TOP 4.5: Wahl einer weiteren stellv. Schriftführerin / eines weiteren stellv. Schriftführers - gewählt
+- TOP 4.6: Wahl einer weiteren stellv. Schriftführerin / eines weiteren stellv. Schriftführers - gewählt
+- TOP 5: Bildung des Ältestenrates - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Feststellung der Stärkeverhältnisse der Fraktionen - erledigt
+- TOP 7: Treptow-Köpenick planvoll gestalten statt kopflos verdichten - Erhalt der grünen Innenhöfe - mit Änderungen in der BVV beschlossen
+- TOP 8: Benennung von einer privaten Planstraße im Ortsteil Rahnsdorf in Clara-Müller-Jahnke-Straße (Planstraße 5811) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Sitzungstermine der BVV im Jahr 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Wahl des Bezirksamtes - (offen)
+- TOP 10.1: Wahl der Bezirksbürgermeisterin / des Bezirksbürgermeisters - gewählt
+- TOP 10.2: Wahl eines Bezirksamtsmitgliedes, zugleich stellv. Bezirksbürgermeisterin / stellv. Bezirksbürgermeister - gewählt
+- TOP 10.3: Wahl eines weiteren Mitgliedes des Bezirksamtes - gewählt
+- TOP 10.4: Wahl eines weiteren Mitgliedes des Bezirksamtes - gewählt
+- TOP 10.5: Wahl eines weiteren Mitgliedes des Bezirksamtes - gewählt
+- TOP 10.6: Wahl eines weiteren Mitgliedes des Bezirksamtes - vertagt
+- TOP 11: Entlassung der ausscheidenden Bezirksamtsmitglieder Ernennung und Vereidigung der gewählten Mitglieder des Bezirksamtes - erledigt
+- TOP 12: Mitteilungen des Vorstehers Nr. VIII-49 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 12.1: Zwischenberichte - (offen)
+- TOP 12.1.1: Neue Fahlenbergbrücke – umwelt- und naturschutzrechtliche Aspekte beachten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.2: Bauvorhaben für die Freiwilligen Feuerwehren forcieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.3: Schutz der Knoblauchkröte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.4: Generationenübergreifender Sport- und Fitnessplatz in Müggelheim - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.5: Einrichtung einer Bushaltestelle in Bohnsdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.6: Informationstafeln rund um den Müggelsee aufstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.7: Jelbi für Treptow-Köpenick: Mehr Lebensqualität in den Kiezen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.8: Nachtbuslücke in Niederschöneweide und Oberspree schließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.9: Umweltzone ausweiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.10: Entscheidungen bzw. Vollzug von Verfügungen in Sachen Genehmigung von Sportbootsteganlagen aussetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.11: Veranstaltung zur Information und Partizipation zu den Auswirkungen der Eröffnung der A100 für den Ortsteil Alt-Treptow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.12: Vorrang für den ÖPNV in Bohnsdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.1.13: Erklärende Informationstafeln für Naturdenkmäler - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.2: Schlussberichte - (offen)
+- TOP 12.2.1: Bedingungen für den Amphibienschutz am Rückhaltebecken in Rahnsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.2: Schlesischer Busch – Zusammenarbeit der Grünflächen- und Ordnungsämter aus Treptow-Köpenick und Friedrichshain-Kreuzberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.3: Artenschutz bei der Bergung des "Lenin-Kopfes" beachten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.4: Geschwindigkeitskontrollen durch das Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.5: Sondermittel für die Elterninitiative Kita "Adlershofer Marktspatzen" & HVD (SM 16-14) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.6: Sondermittel für den Hauptmann von Köpenick (SM 16-38) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.7: Stärkung touristischer Potentiale für die Altstadt Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.8: Schutzzone im Müggelsee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.9: Sportbootstege und Wasserwanderrastplatz am Spreepark / Eierhäuschen ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.10: Taubenpopulation am S-Bahnhof Baumschulenweg regulieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.11: "Seniorpartner in School" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.12: Ost-West-Bahn für Treptower Norden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.13: Flächen für den Schulneubau im Treptower Norden sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.14: Unterstützung für Träger der Jugendarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.15: Mobile Jugendkunstschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.16: Miet- und Sozialberatung im Altglienicker Kosmosviertel ausbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.17: Temporäre Parkplätze während Baumaßnahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.18: Mehr Haltestellen für den Impfshuttle in Alt-Treptow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2.19: Halde aus Industrieabfällen neben der Minna-Todenhagen-Brücke abtragen - im Ausschuss abgelehnt
+- TOP 12.2.20: Grundschule in der Köllnischen Vorstadt mit Bedacht erweitern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Weitere Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Standortentwicklungskonzept für das Gebiet der Wuhlheide in Treptow-Köpenick, Ortsteil Oberschöneweide - überwiesen
+- TOP 13.2: Neueinrichtung der Abteilung II/2 (Urnenstelen und Urnenwahlgrabstätten) auf dem städtischen Friedhof Oberschöneweide - zur Kenntnis genommen (Beratungsfolge beendet)
