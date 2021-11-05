@@ -1,0 +1,86 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-11-05T16:00:00+01:00
+- Ende: 2021-11-05T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5580
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5580
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich_RAT 05.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00155037.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich_RAT 05.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00155037.pdf
+- Wortprotokoll: Sitzungspaket öffentlich_RAT 05.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00155037.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP 5: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bauausschuss
+- TOP 6: Mecklenburgstraße: Herstellung einer barrierefreien Querungsstelle im Bereich einer Kindertagesstätte - einstimmig zugestimmt
+- TOP 7: Glehner Weg, Bushaltestellen "Glehner Weg" und "Görresstraße": Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 8: Konrad-Adenauer-Ring, Bushaltestelle "Polizeibehörde" (Fahrtrichtung Norden, stadtauswärts): Barrierefreier Umbau; Verbesserungen im Radwegenetz - einstimmig zugestimmt
+- TOP -: Ausschuss für Anregungen, Beschwerden und Bürgerbeteiligung
+- TOP 9: Eingezäunte Freilauffläche am Kruchensbusch - einstimmig zugestimmt
+- TOP 10: Müll am Straßenrand an der Klosterstraße in Holzheim - einstimmig zugestimmt
+- TOP 11: Falsch- und Dauerparker Am Goldberg in Derikum - einstimmig zugestimmt
+- TOP 12: Anbringen eines Verkehrsspiegels - abgesetzt
+- TOP 13: Ernährungswende durch mehr Einsatz von regionalen Bio-Lebensmitteln in Öffentlichen Kantinen in Neuss - einstimmig zugestimmt
+- TOP 14: Belebung der Innenstadt - einstimmig zugestimmt
+- TOP 15: Teilnahme der Stadt Neuss am Programm Consul - für digitale Bürgerbeteiligung - einstimmig zugestimmt
+- TOP 16: Anregung zur Änderung der Geschäftsordnung des Rates der Stadt Neuss/Änderung von Aussagen von Petenten im Protokoll - einstimmig zugestimmt
+- TOP 17: Anregung zum Ausbau des oberirdischen Straßenbahnnetzes - einstimmig zugestimmt
+- TOP 18: Anregung zur Baustelle Bataverstraße - einstimmig zugestimmt
+- TOP 19: Beschwerde über fehlende Parkmöglichkeiten/Geldabzocke Furtherhofstraße - einstimmig zugestimmt
+- TOP 20: Beschwerde über Zustand des Stadtgartens - einstimmig zugestimmt
+- TOP 21: Anregung zur Überprüfung des Verkehrsraumes und ggf. einer neuen Beschilderung zum zeitlich limitierten Parkrecht - einstimmig zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 22: Steubenstraße, Bushaltestelle Pomona (Fahrtrichtung Stadionviertel): Barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Bezirksausschuss III - Selikum, Reuschenberg, Weckhoven, Hoisten
+- TOP 23: Knotenpunkt Hochstadenstraße - Schluchenhausstraße: Umbau zu einem Kreisverkehrsplatz - einstimmig zugestimmt
+- TOP 24: Am Nierholz, Ecke Kreuzstraße: Sanierung vorhandene Parkplatzfläche - einstimmig zugestimmt
+- TOP -: Bezirksausschuss V - Norf
+- TOP 25: Verlagerung des Bushaltestellenpaars "Wisselter Weg" und barrierefreier Ausbau - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+- TOP 26: Gnadentaler Allee: Umgestaltung im Bereich der Sekundarschule Neuss - einstimmig zugestimmt
+- TOP 27: Goldregenweg und Haselweg: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VII - Uedesheim
+- TOP 28: Bebauungsplan Nr. 465 - Am Kreuzfeld: Lärmschutzanlagen - einstimmig zugestimmt
+- TOP -: Bezirksausschuss IV - Holzheim
+- TOP 29: Bestätigung des Verkehrsversuchs "Engstelle" Kapellener Straße - einstimmig zugestimmt
+- TOP -: Integrationsausschuss
+- TOP 30: Mitwirkung in anderen Gremien der Stadt Neuss - mehrheitlich zugestimmt
+- TOP -: Betriebsausschuss GMN
+- TOP 31: Aufbau eines städtischen Energiemanagements, einer intelligenten Energieverbrauchserfassung und einer zentralen Gebäudeleittechnik - mehrheitlich zugestimmt
+- TOP 32: Jahresabschluss zum 31.12.2020 sowie Lagebericht für das Wirtschaftsjahr 2020 des Gebäudemanagements der Stadt Neuss (GMN) - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 33: Einführung einer "Schul-Cloud" für die städtischen Neusser Schulen - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 34: Handlungskonzept Verkauf / Vergabe städtischer Gewerbeflächen - mehrheitlich zugestimmt
+- TOP 35: Vorschläge für den Arbeitskreis "Junge lokale und regionale Mandatsträger/innen im Rat der Gemeinden Europas/ Deutsche Sektion" - einstimmig zugestimmt
+- TOP 36: Vorschläge zur Berufung weiterer beratender Mitglieder der Bezirksausschüsse IV - Holzheim und VIII - Rosellen - mehrheitlich zugestimmt
+- TOP 37: Gesamtabschluss-Entwurf 2019 - einstimmig zugestimmt
+- TOP 38: Jahresabschluss 2020 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 39: Dringlichkeitsantrag der Fraktionen CDU, SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr. Damwildgehege tiergerecht erhalten - einstimmig zugestimmt
+- TOP 40: Antrag der AfD-Fraktion betr.: Öffentlichen Personennahverkehr attraktiver machen - verwiesen
+- TOP 41: Antrag der AfD-Fraktion betr.: Keine weiteren Subventionen für Lastenräder - mehrheitlich abgelehnt
+- TOP 42: Antrag der CDU-Fraktion betr.: Gänsemanagement im Stadtgarten - mehrheitlich zugestimmt
+- TOP 43: Antrag der CDU-Fraktion betr.: Tempo gehört zu Neuss - einstimmig zugestimmt
+- TOP 44: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Nachhaltiges Bauen soll Standard in der Stadt Neuss werden - mehrheitlich zugestimmt
+- TOP 45: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Aufwertung des Neusser Hauptbahnhofes über Förderprogramme prüfen - einstimmig zugestimmt
+- TOP 46: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen, UWG/Freie Wähler, DIE LINKE und Die PARTEI betr.: Neuss hat einen angespannten Wohnungsmarkt - Möglichkeiten der Bundesgesetze nutzen - verwiesen
+- TOP -: Anfragen
+- TOP 46.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 47: Sachstand Heimatspielplatz der Stadt Neuss - zur Kenntnis genommen
+- TOP 48: Kooperationsvereinbarung Niedergermanischer Limes - UNESCO Weltkulturerbe - zur Kenntnis genommen
+- TOP 49: Maßnahmen zur Attraktivierung der Innenstadt im Hinblick auf das NRW-Förderprogramm - zur Kenntnis genommen
+- TOP 50: Sitzungskalender des Rates und der Ausschüsse 2022 - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
