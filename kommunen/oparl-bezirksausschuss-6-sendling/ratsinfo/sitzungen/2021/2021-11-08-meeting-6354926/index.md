@@ -1,0 +1,122 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-11-08T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6354926
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6354926
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Karwendelstraße Diverse Anliegen
+- TOP 2.2.: Anschaffung neuer Geräten für den Spielplatz am Alois-Johannes-Lippl-Weg
+- TOP 2.3.: Störung des Fußverkehrs durch Freischankfläche am Harras
+- TOP 2.4.: Rampe an der Unterführung zwischen Zielstattstraße und Steinerstraße/ Waakirchner Straße
+- TOP 2.5.: Drei Vorschläge neuer Anwohner*innen
+- TOP 2.6.: Parksituation in der Schäftlarnstraße
+- TOP 2.7.: Vorschläge zum Thema Verkehr im ehemaligen Philip-Morris-Gelände
+- TOP 2.8.: Parkausweise im Parklizenzgebiet Thalkirchen
+- TOP 2.9.: Pflege der Platanen in der Ludwig-Krafft-Straße
+- TOP 2.10.: Verkehrssituation rund um den Gasteig HP8
+- TOP 2.11.: Erhaltung des Biergartens Tannengarten
+- TOP 2.12.: Wertstoffcontainer in der Wackersberger Straße
+- TOP 2.13.: Baumaßnahme in der Wackersberger-, Daiser- und Gaißacher Straße
+- TOP 2.14.: Bebauungsplan Sendling/ Harras
+- TOP 2.15.: Laufende Ruhestörung an Wochenenden durch Sportveranstaltungen
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Vorstellung der neuen Zweiten Werkleiterin der Markthallen München
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Engelhardstraße 28
+- TOP 4.2.2.: Baumfällung Alramstraße 11
+- TOP 4.2.3.: Vollzug der Baumschutzverordnung Bauvorhaben Thalkirchner Straße 208 (Fristverlängerung durch die LBK abgelehnt)
+- TOP 4.2.4.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz Änderung (Erneuerung) der Eisenbahnüberführung über die Lindwurmstraße, Bahn-km 5,012 der Strecke 5510 München - Rosenheim in der Landeshauptstadt München
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Bauvorhaben Thalkirchner Straße 207 Bescheid
+- TOP 4.3.3.: Restaurierung des Schmied von Kochel – Brunnens!
+- TOP 4.3.4.: Vollzug der Erhaltungssatzung Antwort
+- TOP 4.3.5.: Bauvorhaben Kidlerstraße 3 Vorbescheid
+- TOP 4.3.6.: Flößergasse 6e Baugenehmigung im vereinfachten Genehmigungsverfahren
+- TOP 4.3.7.: Sitzung der Kommission für Kunst am Bau und im öffentlichen Raum am 15.07.2021 Protokoll
+- TOP 4.3.8.: Bauvorhaben Kochelseestraße Beantwortung des Fragenkatalogs des Bezirksausschusses
+- TOP 4.3.9.: Bebauungsplan mit Grünordnung 2091 (Karwendelstraße) Antwort
+- TOP 4.3.10.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 4.3.11.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 4.3.12.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 4.3.13.: (U) Perspektive München als Steuerungsinstrument....
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Obststand am Harras
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Neue Fahrradstellplätze in der Engelhardstraße
+- TOP 5.3.2.: Neue Baumpflanzungen in Karwendelstraße-Sylvensteinstraße-Engelhardstraße
+- TOP 5.3.3.: Fahrradservicestationen an Fahrradhauptrouten aufstellen
+- TOP 5.3.4.: Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen
+- TOP 5.3.5.: Verkehrsrechtliche Anordnung Aufhebung eines Sonderparkplatzes in der Johannes-Timm-Straße
+- TOP 5.3.6.: Übergang / Querungshilfe in der Engelhardstraße
+- TOP 5.3.7.: Errichtung von Fußgänger- und Radfahrerübergängen und weiterer dringlicher Verbesserungen der Barrierefreiheit und Verkehrssicherheit an der Kreuzung Engelhardstraße / Sylvensteinstraße
+- TOP 5.3.8.: Verkehrsrechtliche Anordnung Lagerhausstraße Südwestseite Einrichtung einer neuen Haltestelle für den Linienbusshuttleverkehr im Zusammenhang mit dem neuen „Interims Gasteig“ und Absolutes Haltverbot mit den Zeitzusätzen „werktags 17-2h“ und “So u. Feiertage 10-24h“.
+- TOP 5.3.9.: Verkehrsrechtliche Anordnungen Hans-Preißinger-Straße
+- TOP 5.3.10.: Verkehrsrechtliche Anordnung Taxistandplatz in der Brudermühlstraße
+- TOP 5.3.11.: Angebotsänderung bei der MVG
+- TOP 5.3.12.: Verkehrsrechtliche Anordnung Lagerhausstraße Wegweisung zum Sammelparkplatz des Interims-Gasteig
+- TOP 5.3.13.: Verlängerung der Tunnelein- und ausfahrten am Brudermühltunnel (Mittlerer Ring)
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Neue Fahrradständer in der Meindlstraße vor Schulgebäude
+- TOP 5.4.2.: Mehr Sicherheit an Bushaltestellen
+- TOP 5.4.3.: Feuerwerksverbot am Flaucher
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Vorschläge zum Lärmschutz [Bürgeranliegen]
+- TOP 5.5.2.: Verkehrssicherheit in der Flößergasse und öffentlicher Radabstellplatz in der Fallstraße, Punkt 1 [Bürgeranliegen]
+- TOP 5.5.3.: Baumanßnahme Rad-Fußweg in der Lindwurmstraße [Bürgeranliegen]
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Bestellung städtischer Leistung Bürger*innenvorschlag Errichtung von Tischtennisplatten außerhalb der Stemmerwiese / Jägerwirtstraße
+- TOP 6.1.2.: Wildblumen im Sendlinger Park
+- TOP 6.1.3.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling Orgelmusik bei Kerzenschein vom 27.11.2021 - 06.01.2022 1.270,00 €; Az. 0262.0-6-0354
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020 Information über die Beschlussfassung im Stadtrat
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 7.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Platznot BSA Demleitnerstraße - Änderungsantrag Trainingszeiten
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Christkindlmarkt am Harras
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung BlueSky Coffee
+- TOP 8.3.2.: Unveränderte Fortführung Mira Imbiss
+- TOP 8.3.3.: Unveränderte Fortführung Adler
+- TOP 8.3.4.: Unveränderte Fortführung OM NOM NOM Café&Feinkost
+- TOP 8.3.5.: Unveränderte Fortführung Sendlinger Augustiner
+- TOP 8.3.6.: Nutzerbeirat LUISE Protokoll
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: LUISE Benennung von zwei Nutzerbeiräten und zwei Ersatznutzerbeiräten des Bezirksausschusses
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
