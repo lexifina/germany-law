@@ -1,0 +1,6 @@
+# TOP 2: Verwahrlostes Grundstück Am Kirschplan
+
+- Sitzung: 25. Sitzung des Ortschaftsrates Altfranken (2021-11-08)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/157810
