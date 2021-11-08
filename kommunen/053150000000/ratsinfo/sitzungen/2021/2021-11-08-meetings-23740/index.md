@@ -1,0 +1,62 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-08T14:35:00+01:00
+- Ende: 2021-11-08T15:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23740
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23740
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2021
+- TOP 2.3: Snipes-Court - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.08.2021 - Kenntnis genommen
+- TOP 2.5: Vergütungsbericht 2019/2020 - Kenntnis genommen
+- TOP 2.6: Kommunaler Finanzausgleich, hier: Beteiligung an einer Verfassungsbeschwerde gegen das Gesetz zur Regelung der Zuweisungen des Landes Nordrhein-Westfalen an die Gemeinden und Gemeinde-verbände im Haushaltsjahr 2022 (GFG 2022) - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2020/21 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020/21 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Aufbau der gemeinsamen Verkehrs- und Tunnelleitzentrale, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2020/2021 - Kenntnis genommen
+- TOP 6.3: Haushaltsrechtliche Unterrichtung des Rates - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Zuschuss SC Köln Brück 07 e.V. - ungeändert beschlossen
+- TOP 7.2: Ersatzbeschaffung von 6 Gräberbaggern und 8 Greifschalen für den Friedhofsbereich - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - abgelehnt (in der Vorberatung)
+- TOP 10.2: Kulturraum Kölner Friedhöfe 2025 - ungeändert beschlossen
+- TOP 10.3: Kölner Verkehrs-Betriebe AG (KVB): Beschaffung und Finanzierung von hochflurigen Stadtbahnwagen - ungeändert beschlossen
+- TOP 10.4: Annahme zweckgebundener Spenden von "Wir helfen - Der Unterstützungsverein von M. DuMont Schauberg e.V." an die Kinder- und Jugendpädagogische Einrichtung der Stadt Köln - ungeändert beschlossen
+- TOP 10.5: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - geändert beschlossen
+- TOP 10.6: Stadtstrategie „Kölner Perspektiven 2030+“ - ohne Votum in nachfolgende Gremien
+- TOP 10.7: Stadtklima- und Verschönerungsprogramm 2020 im Stadtbezirk Porz - Bewegungsparcour in Zündorf - ungeändert beschlossen
+- TOP 10.8: Halle Erdweg- Baubeschluss - ungeändert beschlossen
+- TOP 10.9: Bedarfsfeststellungs-, Planungs- und Baubeschluss für den Ersatzneubau der Brücke Liebigstraße im Stadtteil Neu-Ehrenfeld durch einen Totalunternehmer - geändert beschlossen
+- TOP 10.10: Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - ungeändert beschlossen
+- TOP 10.11: Flüchtlingsunterkünfte Potsdamer Str. 1 b, 50859 Köln-Weiden sowie Weißdornweg 21, 21 a-c, 50996 Köln-Rondorf, hier: Einstellungsbeschluss, Rückbau- und Baubeschluss - geändert beschlossen
+- TOP 10.12: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.01. - 30.06.2022 - ungeändert beschlossen
+- TOP 10.13: Verlängerung des Erprobungszeitraums der Sonntagsöffnung Stadtbibliothek - ungeändert beschlossen
+- TOP 10.14: 9. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - zurückgestellt
+- TOP 10.15: Satzung über die Abfallgebühren in der Stadt Köln - zurückgestellt
+- TOP 10.16: Personelle Ausweitung Streetwork und Winterhilfe im Bereich der Wohnungslosenhilfe - ungeändert beschlossen
+- TOP 10.17: Förderung des KölnAgenda e.V. durch die Stadt Köln - ungeändert beschlossen
+- TOP 10.18: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Theater: Erweiterung der Kulturplattform "QULTOR" (AT) - zurückgestellt
+- TOP 10.19: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Filmkultur: Filmhaus Köln - Eröffnung - ungeändert beschlossen
+- TOP 10.20: Verlängerung der institutionellen Förderung raum13 gGmbH und Sommerblut e.V. - ungeändert beschlossen
+- TOP 10.21: Erhöhung der institutionellen Förderung für MusikFabrik Landesensemble NRW e.V. - ungeändert beschlossen
+- TOP 10.22: Institutionelle Förderung der Kölner Gesellschaft für Alte Musik e.V. (KGAM zamus) - zurückgestellt
+- TOP 10.23: Zuschussgewährung Stromsparcheck der Caritas - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
