@@ -1,0 +1,77 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-11-09T16:05:00+01:00
+- Ende: 2021-11-09T18:09:00+01:00
+- Ort: Gesellschaft Concordia, Werth 48, 42275 Wuppertal, Raum 2 (Saal Rittershausen)
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19488
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19488
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 29.10.2021 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00281043.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00283738.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2019 des Eigenbetriebs GMW Gebäudemanagement Wuppertal - ungeändert beschlossen
+- TOP 1.1.1: Jahresabschluss 2019 - Entlastung des Betriebsausschusses GMW - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2020 APH Service GmbH - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2020 KiJu - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2020 der NRW.URBAN Kommunale Entwicklung GmbH - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2020/2021 - ungeändert beschlossen
+- TOP 1.5.1: Entlastung des Aufsichtsrates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2020/2021 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss der Lokalfunk Beteiligungsgesellschaft mbH für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2020 Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 1.9: Jahresabschluss 2020 d-NRW AöR - Entgegennahme ohne Beschluss
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2022 der Neue Effizienz gemeinnützige GmbH - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan 2022 der GWH Gemeinschaftswerk Hattingen GmbH - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Neufassung des Gesellschaftsvertrages und der Geschäftsordnung für den Aufsichtsrat der Wuppertal Marketing GmbH (WMG) - ungeändert beschlossen
+- TOP 3.2: Erhöhung des Stammkapitals der NRW.URBAN Kommunale Entwicklung GmbH - ungeändert beschlossen
+- TOP 3.3: Änderung der Satzung der Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens - ungeändert beschlossen
+- TOP 3.4: Multifunktionshalle - Entgegennahme ohne Beschluss
+- TOP 3.5: Investitionscontrolling GMW zum 30.09.2021 - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Kurzarbeit - Entgegennahme ohne Beschluss
+- TOP 5.2: Situation im Einwohnermeldeamt - Entgegennahme ohne Beschluss
+- TOP 5.3: Zukünftige Entwicklung des Bergischen Studieninstitutes für kommunale Verwaltung (BSI) - Entgegennahme ohne Beschluss
+- TOP 5.4: Bericht zur Durchführung des Bürgerbudgets 2021 - Entgegennahme ohne Beschluss
+- TOP 5.5: Abschluss einer Inklusionsvereinbarung - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Bewerbung um die Durchführung der Bundesgartenschau 2031 (BUGA 2031) - zur Beratung und Entscheidung verwiesen
+- TOP 6.2: Bewerbung um die Durchführung der Bundesgartenschau 2031 (BUGA 2031) - Beantwortung von Fragen der CDU-Fraktion - zur Beratung und Entscheidung verwiesen
+- TOP 6.3: Verlängerung des Verzichts auf die Gebührenerhebung für gaststättenrechtliche Änderungsanträge anlässlich der Hinzunahme oder Veränderung einer Außengastronomie - ungeändert beschlossen
+- TOP 6.4: Verlängerung der Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Erhebung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 6.5: Prüfauftrag Gebühren für Außengastronomie auf städtischen Flächen - ungeändert beschlossen
+- TOP 6.6: Vertrag mit dem Trägerverein der Begegnungsstätte Alte Synagoge e.V. - ungeändert beschlossen
+- TOP 6.7: Überörtliche Prüfung (Informationstechnik) der Gemeindeprüfungsanstalt NRW - ungeändert beschlossen
+- TOP 6.8: Wiederherstellung und Sanierung der Bühnentechnik im Opernhaus nach dem Hochwasserschaden - ungeändert beschlossen
+- TOP 6.9: Instandsetzung der Brücke Reichsgrafenstraße - ungeändert beschlossen
+- TOP 6.10: Prüfauftrag: Ausweitung der Einstellung von Werkstudentinnen /-studenten zur Personalgewinnung bei der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.11: Sachstand Vergabepraxis bei der Stadt Wuppertal und ihren Gesellschaften - geändert beschlossen
+- TOP 6.12: Finanzierung und Weiterentwicklung ÖPNV - vertagen
+- TOP 6.13: Resolution Finanzielle Handlungsfähigkeit der Kommunen auch in extremen Lagen schützen und garantieren. - vertagen
+- TOP 6.14: Außenanlage Stadtteilzentrum – Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Stand der Investitions- und Kassenkredite zum 30.09.2021 - Entgegennahme ohne Beschluss
+- TOP 8.2: Gemeindefinanzierungsgesetz 2022 - Entgegennahme ohne Beschluss
+- TOP 8.3: Finco-Berichte zum 31.08. und zum 30.09.2021 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2020 - ungeändert beschlossen
+- TOP 9.2: Überplanmäßige Mittel für die Fördermaßnahme Grundhafte Erneuerung der Kluser Brücke (B7) - ungeändert beschlossen
+- TOP 9.3: Überplanmäßige Ausgabe - Unterstützende Mitarbeit im Ressort Zuwanderung und Integration - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
