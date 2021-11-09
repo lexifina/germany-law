@@ -1,0 +1,122 @@
+# 12. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-09T14:43:00+01:00
+- Ende: 2021-11-09T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23245
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23245
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der AfD-Fraktion betreffend "Muezzin Ruf in Köln" - Sache ist erledigt
+- TOP 1.2: Antrag der Fraktion Die FRAKTION betreffend "„Mäuerchen-Blues – Unzureichende Berücksichtigung des Bedarfs an nichtkommerziellen Freizeittreffpunkten im öffentlichen Raum“"
+- TOP 1.3: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Volt und RM Zimmermann (GUT Köln) betreffend "Situation auf Kölner Plätzen und Feiermeilen"
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 2.1: Annahme zweckgebundener Spenden von "Wir helfen - Der Unterstützungsverein von M. DuMont Schauberg e.V." an die Kinder- und Jugendpädagogische Einrichtung der Stadt Köln - ungeändert beschlossen
+- TOP 2.2: Annahme eines Kunstwerks von Danh Vo als Schenkung - ungeändert beschlossen
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der Fraktionen SPD, Die Linke. und die FRAKTION betreffend "Energiearmut verhindern! Schutzbedürftige Verbrauchende unterstützen!" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.2: Antrag der FDP-Fraktion betreffend "Schuleingangsuntersuchungen - endgültig abgelehnt
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 3.1.3: Antrag der SPD-Fraktion betreffend "Sondernutzungserlaubnis für E-Scooter einführen" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt - geändert beschlossen
+- TOP 3.1.4: Antrag der Fraktion Die Linke. betreffend "Standort Holweide der Städtischen Kliniken als Regelversorger erhalten" - endgültig abgelehnt
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 3.1.5: Antrag der FDP-Fraktion betreffend "Prüfung einer qualitativen Bauberatung" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - Sache ist erledigt
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 3.1.6: Antrag der Fraktion Die FRAKTION betreffend "Prüfung einer dritten Variante zur Ost-West-Achse" - endgültig zurückgezogen
+- TOP 3.1.7: Dringlichkeitsantrag der SPD-Fraktion betreffend "Vierte Corona-Welle brechen: Klare Handlungsanweisungen für den Gesundheitsschutz im Freizeitbereich und zur Vermeidung eines Lockdowns ausgeben" - Sache ist erledigt
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 3.1.8: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke., FDP, Volt, Die FRAKTION, RM Gabrysch (KLIMA FREUNDE) und RM Zimmermann (GUT Köln) betreffend "Aufhebung der Ausreisesperre für Hamide Akbayir" - ungeändert beschlossen
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.2.1: Verbesserung der Schulinfrastruktur; hier Container für die Elternarbeit, Beschluss der Bezirksvertretung Rodenkirchen - zurückgestellt
+- TOP 3.2.2: Beschluss der Bezirksvertretung Kalk: "Angebote der außerschulischen Bildung auch für Kinder von Geflüchteten ermöglichen" - ungeändert beschlossen
+- TOP 3.2.3: Anregung der Bezirksvertretung Kalk zur Einrichtung eines dezentralen Stützpunktes des Ordnungsamtes in Kalk (Ordnungsdienste vor Ort) - ungeändert beschlossen
+- TOP 3.2.4: Anregung der Bezirksvertretungn Innenstadt vom 10.06.2021: Außengastronomie 2021/2022 - Gebührenerhebung - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig abgelehnt
+- TOP -: Änderungsantrag von RM Zimmermann (GUT Köln) - endgültig abgelehnt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der SPD-Fraktion betreffend "Köln: Ausweisung der Inzidenzen für Geimpfte und Ungeimpfte" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 27.08.2021 - Kenntnis genommen
+- TOP 4.2: Anfrage der Fraktion Die FRAKTION betreffend "Klärung Zusammenarbeit mit Michael Winterhoff" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 29.10.2021 - Kenntnis genommen
+- TOP 4.3: Anfrage der Fraktion Die FRAKTION betreffend "Anfrage zur Fluchtlichtanlage am Aachener Weiher" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 09.11.2021 - Kenntnis genommen
+- TOP 4.4: Anfrage der Fraktion Die FRAKTION betreffend "Anfrage Fördermittelmanagement" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 09.11.2021 - Kenntnis genommen
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Satzung über die Abfallentsorgung in der Stadt Köln - zurückgestellt
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Satzung über die Abfallgebühren in der Stadt Köln - zurückgestellt
+- TOP 6.2.2: 9. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - zurückgestellt
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2020/21 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020/21 - Kenntnis genommen
+- TOP 7.2: Unterrichtung des Rates über Kostenerhöhung nach § 25 Abs. 2 KommHVO
+- TOP 7.2.1: Aufbau der gemeinsamen Verkehrs- und Tunnelleitzentrale, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2020/2021 - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt - zurückgestellt
+- TOP 10.2: Kölner Verkehrs-Betriebe AG (KVB): Beschaffung und Finanzierung von hochflurigen Stadtbahnwagen - ungeändert beschlossen
+- TOP 10.3: Abschlussbericht zum 1. Kölner Gleichstellungsaktionsplan im Rahmen der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene - ungeändert beschlossen
+- TOP 10.4: Bedarfsfeststellungs-, Planungs- und Baubeschluss für den Ersatzneubau der Brücke Liebigstraße im Stadtteil Neu-Ehrenfeld durch einen Totalunternehmer - ungeändert beschlossen
+- TOP 10.5: Rondorf Nord-West, Entflechtungsstraße - zurückgestellt
+- TOP 10.6: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.01. - 30.06.2022 - ungeändert beschlossen
+- TOP 10.7: Umbenennung des Radstadions in "Albert-Richter-Velodrom" und des Vorplatzes in "Ernst-Berliner-Platz" - ungeändert beschlossen
+- TOP 10.8: Halle Erdweg- Baubeschluss - ungeändert beschlossen
+- TOP 10.9: Personelle Ausweitung Streetwork und Winterhilfe im Bereich der Wohnungslosenhilfe - ungeändert beschlossen
+- TOP 10.10: Förderung des KölnAgenda e.V. durch die Stadt Köln - ungeändert beschlossen
+- TOP 10.11: Bestellung der Ersten Betriebsleitung für die Eigenbetriebsähnliche Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.12: Verlängerung der institutionellen Förderung raum13 gGmbH und Sommerblut e.V. - ungeändert beschlossen
+- TOP 10.13: Sportentwicklungsplanung - Sponsoringvertrag mit der Firma SNIPES SE - Neubau eines Basketball- bzw. Streetballplatzes im Inneren Grüngürtel zwishen Venloer Straße und Vogelsanger Straße - endgültig abgelehnt
+- TOP 10.14: Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - ungeändert beschlossen
+- TOP 10.15: Flüchtlingsunterkünfte Potsdamer Str. 1 b, 50859 Köln-Weiden sowie Weißdornweg 21, 21 a-c, 50996 Köln-Rondorf, hier: Einstellungsbeschluss, Rückbau- und Baubeschluss - geändert beschlossen
+- TOP 10.16: Beteiligung an einer Technologie-Initiative im Bereich Bau- und Immobilienwirtschaft - ungeändert beschlossen
+- TOP 10.17: Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke., Volt und von RM Zimmermann (GUT Köln) - ungeändert beschlossen
+- TOP 10.18: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Theater: Erweiterung der Kulturplattform "QULTOR" (AT) - zurückgestellt
+- TOP 10.19: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung im Bereich Filmkultur: Filmhaus Köln - Eröffnung - ungeändert beschlossen
+- TOP 10.20: Erhöhung der institutionellen Förderung für MusikFabrik Landesensemble NRW e.V. - ungeändert beschlossen
+- TOP 10.21: Institutionelle Förderung der Kölner Gesellschaft für Alte Musik e.V. (KGAM zamus) - zurückgestellt
+- TOP 10.22: Außengastronomie 2021/2022 - Gebührenerhebung - Sache ist erledigt
+- TOP 10.23: Zuschussgewährung Stromsparcheck der Caritas - ungeändert beschlossen
+- TOP 10.24: Förderprogramm zur Aktivierung privater Initiative für Gastronomie und Einzelhandel zur Abmilderung Corona bedingter Belastungen; Winterbeleuchtung: Überplanmäßiger Aufwand im Teilergebnisplan 1501 - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 11.1: 218. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2, Köln-Rodenkirchen; Arbeitstitel: Mertener Straße in Köln-Marienburg - Alternative beschlossen
+- TOP 11.2: 219. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2, Köln-Rodenkirchen;Arbeitstitel: "Parkstadt Süd" in Köln-Zollstock, -Raderberg und -Bayenthal - ungeändert beschlossen
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 14.1: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln- Dellbrück Arbeitstitel: Hatzfeldstraße/Radiumstraße in Köln-Dellbrück - ungeändert beschlossen
+- TOP 15: Weitere bauleitplanungsrechtliche Angelegenheiten
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 16.1: 277. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 16.2: Zwanzigste Satzung zur Änderung der Satzung der Stadt Köln vom 29. Juni 2001 über die Erhebung eines Erschließungsbeitrages - ungeändert beschlossen
+- TOP 17: Gremienbesetzungen
+- TOP 17.1: Berufung von Mitgliedern mit beratender Stimme in den Ausschuss für Schule und Weiterbildung - ungeändert beschlossen
+- TOP 17.2: Delegiertenversammlung der Deutschen Sektion des RGRE am 24./25.03.2022 - zurückgestellt
+- TOP 17.3: Mitgliederwechsel im Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 17.4: Neubenennung der Mitglieder für die Fachausschüsse der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE) - zurückgestellt
+- TOP 17.5: Delegiertenversammlung der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE) am 24./25.03.2022 in Hannover - zurückgestellt
+- TOP 17.6: Antrag der Fraktion Volt betreffend "Neubesetzung Sachkundiger Bürger Gesundheitsausschuss" - ungeändert beschlossen
+- TOP 17.7: Berufung von Mitgliedern für die Kommunale Gesundheitskonferenz durch den Rat der Stadt Köln - ungeändert beschlossen
+- TOP 17.8: Antrag der CDU-Fraktion betreffend "TOP 17 Neuwahl eines Mitgliedes mit beratender Stimme im Digitalausschuss" - ungeändert beschlossen
+- TOP 17.9: Akademie der Künste der Welt/Köln gGmbH; hier: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 17.10: Antrag der CDU-Fraktion betreffend "TOP 17 - Neuwahl eines Mitgliedes der Kommunalen Gesundheitskonferenz" - geändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 19: -
