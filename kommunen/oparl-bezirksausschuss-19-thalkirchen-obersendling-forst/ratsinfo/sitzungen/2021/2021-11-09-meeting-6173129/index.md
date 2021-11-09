@@ -1,0 +1,75 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-11-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6173129
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6173129
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 05.10.2021
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Verfahren für Stellungnahmen mit Fristsetzung vor der nächsten BA-Sitzung
+- TOP 2.4.: (A) Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München
+- TOP 2.5.: - NACHTRAG - Verfahren für eine Stellungnahme zum Beschlussentwurf Tram Westtangente von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget what you see is what you get / Beermann, Kruis, Müller GbR "Mit der Resi im Museum" vom 18.10.2021 - 21.11.2021 3.116,00 €; Az. 0262.0-19-0387
+- TOP 3.3.: (E) Stadtbezirksbudget Ev.-Luth. Passionskirche München Obersendling Thalkirchen Umweltprojekt "Phänologischer Garten", vom 18.10.2021 - 30.11.2021 13.000,00 €; Az. 0262.0-19-0382
+- TOP 3.4.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Suchtprävention und Inklusion vom 13.11.2021 - 12.11.2022 6.802,50 €, Az. 0262.0-19-0388
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Bestellung städtischer Leistung: Wildblumen im Gierlinger Park
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Fahrradabstellplätze U-Bahnhof Aidenbachstraße
+- TOP 5.1.2: DHL-Packstation in Thalkirchen
+- TOP 5.2.: (E) Sondernutzungserlaubnis: Zeitungsentnahmegerät Bushaltestelle Aidenbachstraße / Zielstattstraße
+- TOP 5.3.: (Antrag) Rasenfläche beim Einkaufszentrum am Sparkassenhochhaus schützen
+- TOP 5.4.: (Antrag) Durchgängiger Fuß- und Radweg von Fürstenried nach Obersendling
+- TOP 5.5.: (Antrag) Behindertenparkplätze am Alten- und Servicezentrum (ASZ) Thalkirchen
+- TOP 5.6.: (Antrag) Halteverbote Sollner Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Bannwaldseestraße 69
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.2: Rehbergstraße 7a (VB)
+- TOP 6.2.3: Pössenbacherstraße 9 (VB)
+- TOP 6.2.4: Meglingerstraße 7 (VB)
+- TOP 6.2.5: - abgesetzt -
+- TOP 6.2.8: - abgesetzt -
+- TOP 6.2.17: - NACHTRAG - Geisenbrunner Straße 83
+- TOP 6.2.18: - NACHTRAG - Gautinger Straße 3
+- TOP 6.3.: (A) Aufnahme in die Denkmalliste der Landeshauptstadt München: Schulzentrum Fürstenried-West Engadiner Straße 1
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Bestellung städtischer Leistung: Spielhäuschen für Kleinkinder am Spielplatz Gierlinger Park
+- TOP 7.2.: - NACHTRAG - (A) Spielen in der Stadt e.V.: Mobile Kunst-Spiel-Aktionen 2022 und 2023
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Schertlinstraße
+- TOP 9: Verschiedenes
+- TOP 6.2.1: Riedener Straße 11
+- TOP 6.2.6: Waterloostraße 50
+- TOP 6.2.7: Melchiorstraße 11
+- TOP 6.2.9: Friedastraße 7a
+- TOP 6.2.10: Scherzerstraße 1
+- TOP 6.2.11: Bauweberstraße 1c
+- TOP 6.2.12: Fürstenackerstraße 17
+- TOP 6.2.13: Steinkirchner Straße 1
+- TOP 6.2.14: Leutstettener Straße 46
+- TOP 6.2.15: Hofmannstraße 37
+- TOP 6.2.16: Hoeckhstraße 40 (VB)
