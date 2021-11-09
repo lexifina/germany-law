@@ -1,0 +1,125 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2021-11-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6404583
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6404583
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I: Allgemeines
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Kraxlkollektiv" Graffiti Workshop für Kinder vom 17.11.2021 - 31.03.2022 1.100,00 Euro, Az.: 0262.0-2-0418
+- TOP 2.2.: (E) Stadtbezirksbudget Kindertheater im Fraunhofer Stadtgeschichten vom 01.12.2021 - Februar/März 2022 3.000,00 Euro, Az.: 0262.0-2-0419
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1: Anträge
+- TOP 1.1.: Hecke an der Isartalstraße ergänzen als Schutz für Kinder am Roecklplatz, Interfraktioneller Antrag des Unterausschusses Kinder, Jugend, Soziales vom 07.10.2021
+- TOP 2: Entscheidungen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Antrag auf Erweiterung einer Parkplatzfreischankfläche, Landwehrstraße 44
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 2.3.1.: (E) Nächtliche Ruhestörung durch Lokale in der Rothmundstraße und Wildparken durch deren Gäste
+- TOP 2.3.2.: (E) Sondergenehmigung für Schanigarten in der Baaderstraße 11
+- TOP 2.3.3.: (E) Lärmbelästigung durch das Lokal an der Ecke Tumblinger-/Maistraße
+- TOP 2.3.4.: (E) Bußgeld für Hupen aus nichtigem Grund
+- TOP 3: Anhörungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.2.1.: Neue Standortsuche für Ladesäule aus der Zweigstraße
+- TOP 3.2.2.: Einfahrt in die Corneliusstraße - Abschnitt zwischen Gärtnerplatz und Baaderstraße
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Exklusive Mobilitätsstation "Am Glockenbach" - Bitte um Entfernen des Schildes „Carsharing“; Bürger*innenanliegen
+- TOP 5.2.: Wohnmobile am Glockenbach - Gefahr beim Queren der Straße durch massiv eingeschränkte Sichtbeziehungen; Bürger*innenanliegen
+- TOP 5.3.: Anwohnerparken Adlzreiterstraße - Mangel an Parkangeboten für Menschen mit Handicap
+- TOP 5.4.: Baustellen - Parkplätze - Parkverbote; Bürger*innenanliegen
+- TOP 5.5.: Verkehrschaos in der Kohlstraße; Bürger*innenanliegen
+- TOP 5.6.: Bürger*innenanliegen a) Umgestaltung Fraunhoferstraße - Abstimmung über Gestaltungsvorschlag b) Anbringung von grünen Rechtsabbiegerpfeilen für Radfahrer an allen geeigneten Kreuzungen im Gärtnerplatz- und Glockenbachviertel c) Straßen im Gärtnerplatz - und Glockenbachviertel als Fahrradstraßen und Tempo 30
+- TOP 5.7.: Schanigärten - Situation der Anwohner*innen, Bürger*innenanliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1: Anträge
+- TOP 1.1.: Bezahlbares und flexibles Wohnen in der Thalkirchner Straße 80, Interfraktioneller Antrag vom 25.10.2021
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Müllerstraße 45 Nutzungsänderung einer Massagepraxis mit Ferienwohnung im UG in eine Ferienwohnung in Wechselnutzung mit einer Praxis für kunstanaloges Coaching mit Galerie und im Zwischengebäude OG - eines Lagers in eine Ferienwohnung in Wechselnutzung mit Barbetrieb
+- TOP 3.1.2.: Maistraße 51, Vorbescheid Errichtung eines Wohngebäudes mit Tiefgarage
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.2.1.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben; Änderung (Erneuerung) der Eisenbahnüberführung über die Lindwurmstraße, Bahn-km 5,012 der Strecke 5510 München - Rosenheim in der Landeshauptstadt München
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 3.1.1.: Baumfällungsantrag Bob-van-Benthem-Platz 1
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bericht der Stadtverwaltung zur aktuellen Lage des Schlachthofs
+- TOP E: Angelegenheiten des BA
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 1.1.: Wahl UA-Vorsitz Umwelt, Klima, Naherholung
+- TOP 1.2.: Benennung einer/s zweiten Baumschutzbeauftragten
+- TOP 1.3.: Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP -: Unterrichtungen
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP A 4.3.: Ergebnis zur Ausschreibung von Beherbergungsplätzen für das städtische Sofortunterbringungssystem; Sitzungsvorlage Nr. 20-26 / V 04112
+- TOP A 4.4.: (U) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP A 4.5.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP A 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Stellungnahme des KVR bezüglich Lärmbelästigung Kultur an der Isar
+- TOP B 4.7.: Gaststätte Reichenbachstraße 21 - Beschwerde über Lärm, Schreiben der Bezirksinspektion an den Betreiber
+- TOP B 4.8.: Gaststätte Westermühlstraße 31 - Beschwerde über Lärm und Verunreinigung, Antwort der Bezirksinspektion an Bürger*in
+- TOP B 4.9.: An den folgenden zwei Kreuzungen werden zusätzliche Haltelinien auf dem Radweg an der westlichen Seite der Isar aufgebracht, um Platz für sowohl wartende als auch vorbeifahrende RadfahrerInnen zu schaffen: (1) Auenstraße/ Reichenbachbrücke/ Fraunhoferstraße (2) Wittelsbacherstraße/ Wittelsbacherbrücke/ Baldeplatz
+- TOP B 4.10.: Information zu Bau des Radwegs Lindwurmstraße
+- TOP B 4.11.: Angebotsänderung bei der MVG - Wiederinbetriebnahme des regulären Nachtliniennetzes sowie des regulären Fahrplans zur Hauptverkehrszeit bei der Linie U4
+- TOP B 4.12.: Ausnahmezulassung für nächtliche Dreharbeiten vom 08.11. bis 10.11.2021 an den Standorten Bavariaring 41 und Lindwurmstraße 123 bis 127
+- TOP B 4.13.: Lärmbelästigung durch Partys an der Isar, Antwort des KVR auf Bürger*innenanliegen
+- TOP B 4.14.: Flaschenparcours auf den Radwegen der Wittelsbacher- und Reichenbachbrücke, Antwort des KVR auf Bürger*innenanliegen
+- TOP B 4.15.: Verlängerung der Kunstaktion Bavaria vom 01.01.2022 bis 31.12.2022
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.2.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP C 4.3.: Protokoll der Kommission für Stadtgestaltung vom 27. Juli 2021
+- TOP C 4.4.: Ergänzung zur gesamtstädtischen Stellungnahme Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Bauvorhaben "Integrierte Gesamtlösung Hauptbahnhof München (IGL), 5. Planänderung zum Planfeststellungsbeschluss PFA 1 der 2. S-Bahn-Stammstrecke
+- TOP C 4.5.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP C 4.6.: (U) Neubau Hauptbahnhof München Machbarkeitsuntersuchung zu Fahrradparken im U-Bahn-Bauwerk U1/U2 und Finanzierung Überdachung des Vorplatzes am Hauptbahnhof Antrag Nr. 20-26/A 01647 der AfD im Münchner Stadtrat vom 08.07.2021
+- TOP C 4.7.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP C 4.8.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP C 4.9.: (U) Perspektive München als Steuerungsinstrument....
+- TOP C 4.10.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP C 4.11.: Gesamtstädtische Stellungnahme zum Planfeststellungsverfahren 2. Stammstrecke 3. Planänderung PFA 1
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Beantwortung von Bürger*innenanliegen bezüglich der Lärm- und Geruchsbelästigungen auf dem Schlachthofgelände, Schreiben des RKU
+- TOP E 4: Bereich BA-Angelegenheiten
