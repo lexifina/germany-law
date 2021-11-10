@@ -1,0 +1,52 @@
+# Ausschuss für Umwelt, Grünflächen und Klimaschutz
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-11-10T17:00:00+01:00
+- Ende: 2021-11-10T18:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/225
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5582
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5582
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00155172.pdf
+- Ergebnisprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00155172.pdf
+- Wortprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00155172.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Wirtschaftsplan 2022 für die Städtischen Friedhöfe Neuss (SFN) - einstimmig zugestimmt
+- TOP 5: Neufestsetzung der Gebühren für die Städtischen Friedhöfe Neuss ab 2022 - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 6: Beauftragung einer Wirtschaftsprüfungsgesellschaft mit der Prüfung des Jahresabschlusses 2021 der Städtischen Friedhöfe Neuss (SFN) - einstimmig zugestimmt
+- TOP -: aus der Baumkommission v. 20.10.2021
+- TOP 7: Baumfällungen in Grünanlagen und Parks - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP 8: Beratung des Haushaltsplanentwurfs 2022 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 8.1: Antrag d. SPD, Grünen und UWG/FW-Aktiv v. 24.10.21 betr.: Anleinpflicht in Parks - beraten ohne Abstimmung
+- TOP -: aus dem Ausschuss für Umwelt, Grünflächen und Klimaschutz v. 25.08.21
+- TOP 9: Antrag der FDP-Fraktion v. 21.07.21 betr.: Gesundheitsgefährdung und Verschmutzung von Spielplätzen und Naherholungs-Anlagen in Neuss (hier: Stadtgarten und Jröne Meerke) bekämpfen - beraten ohne Abstimmung
+- TOP -: aus BZA VIII Rosellen v. 23.09.21
+- TOP 10: Antrag der CDU-Mitglieder betr.: Beleuchtung Gehweg aus Allerheiligen B2 - einstimmig zugestimmt
+- TOP 11: Antrag der Mitglieder der Kooperation betr.: Beleuchtung des Schulweges von Allerheiligen B2 zur Grundschule Allerheiligen - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP 11.1: Anfrage der CDU-Fraktion v. 02.11.21 betr.: Rodungen in der Erftaue während der Schonzeit - zur Kenntnis genommen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 12: Quartalsbericht der Städtischen Friedhöfe Neuss (SFN) zum 30.09.2021 - zur Kenntnis genommen
+- TOP 13: Sachstand zur Errichtung von Urnenstelen und Kolumbarien auf dem Hauptfriedhof - zur Kenntnis genommen
+- TOP 14: Sachstand zur Schaffung von Memoriam-Gärten - zur Kenntnis genommen
+- TOP 15: Haushaltskonsolidierung - zur Kenntnis genommen
+- TOP 16: Aktuelle Planung zu der für 2022 geplanten Fortschreibung des Klimaanpassungskonzeptes - zur Kenntnis genommen
+- TOP 17: Sachstand Integriertes Klimaschutzkonzept (IKK) - zur Kenntnis genommen
+- TOP 18: Sauberkeitsoffensive - zur Kenntnis genommen
+- TOP 19: Sportgeräte am Jröne Meerke - einstimmig zugestimmt
+- TOP 20: Prüfung einer Klage der Stadt Neuss gegen die DB AG bezüglich der Verschmutzungen durch Taubenkot im öffentlichen Raum - zur Kenntnis genommen
+- TOP 20.1: Gänsemanagement Stadtgarten - abgesetzt
+- TOP 21: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 22: Einwohner*innenfragestunde
