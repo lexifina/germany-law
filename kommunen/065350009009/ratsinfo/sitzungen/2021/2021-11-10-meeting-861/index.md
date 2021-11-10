@@ -1,0 +1,56 @@
+# Stadtverordnetenversammlung der Stadt Homberg (Ohm) (11. Sitzung)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Beginn: 2021-11-10T20:00:00+01:00
+- Ende: 2021-11-10T23:00:00+01:00
+- Ort: Walter-Seitz-Halle Homberg (Ohm), Stadthallenweg 12, 35315 Homberg (Ohm), Stadthallenweg 12
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/tops/?__=UGhVM0hpd2NXNFdFcExjZXVY6UI8ESKHS31B81cVh_k
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/861
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXqCEsuADlpwfb9IHkLDgrfZcP0k4yrDCedpTD-mxY6Y/Bekanntmachung_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_10.11.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZagxL3ReFzz9tt2dU4A2uThiQY5WRvpIzwL9dXpMzU5w/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_10.11.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Eröffnung und Begrüßung
+- TOP 2.: Feststellung der Ordnungsmäßigkeit der Ladung und der Beschlussfähigkeit, Einwendungen gegen die Tagesordnung
+- TOP 3.: Genehmigung eines Grundstückskaufvertrages gemäß § 2 der Hauptsatzung der Stadt Homberg (Ohm) – Bauplatz Haarhausen - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 4.: Wahl der Stellvertreterinnen bzw. Stellvertreter des/der Stadtverordnetenvorstehers/in
+- TOP 5.: Antrag der Fraktion Bürgerforum betreffend Aufnahme in das Förderprogramm „Zukunft Innenstadt“ zur Belebung von Stadtzentren und Ortskernen, Korrektur des Beschlusses der Stadtverordnetenversammlung vom 08.09.2021 für die abschließende Anerkennung der Förderung - (Stimmberechtigt @SBR@) 14 Ja-Stimme(n), 0 Gegenstimme(n), 7 Stimmenthaltung(en)
+- TOP 6.: Bericht der Bürgermeisterin aus der Arbeit des Magistrats
+- TOP 7.: Klimakommune - (Stimmberechtigt @SBR@) 19 Ja-Stimme(n), 0 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 8.: Widerspruch der Stadtverordneten Jutta Stumpf gegen die Wahl des Stadtverordnetenvorstehers in der Sitzung der Stadtverordnetenversammlung am 29.04.2021 - (Stimmberechtigt @SBR@) 11 Ja-Stimme(n), 6 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 9.: Widerspruch des Stadtverordneten Eckhard Hisserich gegen die Wahl des Stadtverordnetenvorstehers in der Sitzung der Stadtverordnetenversammlung am 29.04.2021 - (Stimmberechtigt @SBR@) 11 Ja-Stimme(n), 5 Gegenstimme(n), 4 Stimmenthaltung(en)
+- TOP 10.: Oldtimer Freunde Ohmtal e. V.
+- TOP 11.: Bauleitplanung der Stadt Homberg (Ohm), Kernstadt Vorhabenbezogener Bebauungsplan „Friedrichstraße“ Bebauungsplan der Innenentwicklung – Verfahren gemäß § 13a BauGB Entwurfs- und Offenlegungsbeschluss gemäß § 3 Abs. 2 BauGB - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 12.: Verkauf Grundstücke Friedrichstraße an PaWo GmbH und Abschluss eines Durchführungs- und Erschließungsvertrags zum Vorhabenbezogenen Bebauungsplan „Friedrichstraße“
+- TOP 13.: Richtlinien für die Vergabe von städtischen Baugrundstücken
+- TOP 14.: Bericht über den Stand des Haushaltsvollzugs nach § 28 GemHVO für den Berichts-zeitraum 01.01.2021 bis 30.06.2021
+- TOP 15.: Übersendung von Ergebnisniederschriften der Sitzungen des Magistrats an den Stadtverordnetenvorsteher und die Vorsitzenden der Fraktionen
+- TOP 16.: Wahl der Vertreter in den Vorstand des Aktiven- und Fördervereins Schlosspatrioten Homberg an der Ohm e.V.
+- TOP 17.: Widerspruch der Bürgermeisterin gegen den Beschluss „Ausscheiden aus dem Amt als Schriftführer“ vom 02.09.2021
+- TOP 18.: Antrag Fraktion Bürgerforum betreffend Vorstellung der Ausführungsplanung für das Brückenbauwerk „Pletschmühle/Herrenmühle“ an der Ohm
+- TOP 19.: Antrag Fraktion Bürgerforum betreffend Vorstellung der Ausführungsplanung für die Erneuerung der Gemeindestraße Burghain
+- TOP 20.: Antrag Fraktion Bürgerforum betreffend bevorzugte Berücksichtigung der Tagesordnungspunkte „Bericht aus der Arbeit des Magistrats“ und „Anfragen“
+- TOP 21.: Antrag Fraktion Bürgerforum betreffend Kürzung der Betreuungszeiten in der Kita Büßfeld
+- TOP 22.: Bildung der Kommission zur Förderung der Städtepartnerschaft Homberg - Thouaré
+- TOP 23.: Bildung der Kommission zur Förderung der Städtepartnerschaft Homberg - Stadtroda
+- TOP 24.: Bildung der Kommission für Kunst und Kultur
+- TOP 25.: Bildung der Kommission zur Förderung des Tourismus der Stadt Homberg (Ohm)
+- TOP 26.: Besetzung des Ortsgericht Homberg (Ohm) III – Stadtteile Bleidenrod, Büßfeld, Deckenbach, Höingen und Schadenbach
+- TOP 27.: Satzungsrecht der Stadt Homberg (Ohm) Entwässerungssatzung der Stadt Homberg (Ohm)
+- TOP 28.: Satzungsrecht der Stadt Homberg (Ohm) Wasserversorgungssatzung der Stadt Homberg (Ohm)
+- TOP 29.: Antrag: A 49 – Bewältigung der zusätzlichen Aufgaben durch jeweils eine zusätzliche Stelle im Bauamt und im Hauptamt
+- TOP 30.: Erlass der Nachtragssatzung 2021 der Stadt Homberg (Ohm)
+- TOP 31.: Antrag der Fraktion Bürgerforum auf öffentliche Darstellung der Informationen des Rechtsanwalts Matthias Möller-Meinecke im Zuge des Baus der A 49
+- TOP 32.: Antrag der GRÜNEN-Fraktion auf Beschattung öffentlicher Plätze, insbesondere Spielplätze
+- TOP 33.: Antrag der GRÜNEN-Fraktion auf Verkehrszählung in der Häuserstraße Nieder-Ofleiden
+- TOP 34.: Antrag der Fraktion BÜRGERFORUM betreffend Einrichtung eines Raumes für die Jugendfeuerwehr im Stadtteil Dannenrod
+- TOP 35.: Antrag der Fraktion BÜRGERFORUM betreffend Rechtsstreit juwi AG ./. Stadt Homberg (Ohm)
+- TOP 36.: Antrag der Fraktion BÜRGERFORUM betreffend Einrichtung eines Unternehmerforums
+- TOP 37.: Antrag der Fraktion BÜRGERFORUM betreffend Ausrichtung des Umwelt- und Landschaftspflegeverbandes Alsfeld
+- TOP 38.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschriften der Sitzungen vom 02.09.2021 und 08.09.2021
+- TOP 39.: Anfragen
