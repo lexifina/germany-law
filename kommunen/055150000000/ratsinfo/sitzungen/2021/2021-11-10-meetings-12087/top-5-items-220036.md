@@ -1,0 +1,8 @@
+# TOP 5: Antrag auf Beantragung von Fördermitteln des MHKBG für Feuerwehrhäuser
+
+- Sitzung: 7. Sitzung (2021-11-10)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/220036
+- Ergebnis: von der Tagesordnung abgesetzt
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/76300
