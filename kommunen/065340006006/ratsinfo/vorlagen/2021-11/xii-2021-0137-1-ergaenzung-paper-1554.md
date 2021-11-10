@@ -1,0 +1,43 @@
+# Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2022, Investitionsprogramm 2021-2025
+
+- Körperschaft: Gemeinde Cölbe
+- Drucksache/Vorlage: XII-2021-0137 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2021-11-10
+- Ratsinformationssystem: https://rim.ekom21.de/coelbe/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdq_BmR5VLEGJzQCGYlIbEs
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/paper/1554
+- Quelle: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2022, Investitionsprogramm 2021-2025) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZauqxo5iwSKgzFGSnBPc0zBeC-yEE8ffiPZLmOB55XZz/Beschlussvorlage_XII-2021-0137_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (01 Titelseite HP 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXXj9m9foHUarpweYQpIIBcNT2YtiRjDNB42JihrOXPn/01_Titelseite_HP_2022.pdf.pdf
+- Anlage: Beschlussvorlage (02 Inhaltsverzeichnis_Kurzfassung.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVRZwn4noDDC3YkV9T66K4gHiBbikZvfINJoVsctL0bh/02_Inhaltsverzeichnis_Kurzfassung.pdf.pdf
+- Anlage: Beschlussvorlage (03  HH-Satzung 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVuC-pMeA1UE8djpNMJOkdOjN7F-EJGMQE5-zJnSyuBK/03__HH-Satzung_2022.pdf.pdf
+- Anlage: Beschlussvorlage (05 Haushaltsvorbericht 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQqVeA3P2sFvCiHiMyd-n0vq7z4uqUd-jOulrncWWvS_/05_Haushaltsvorbericht_2022.pdf.pdf
+- Anlage: Beschlussvorlage (06 Produkt- und Kostenstellenplan.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVYy-RGvEOLPeL4m36-gqPinQDjs6pBudU4nJ0UOvlMY/06_Produkt-_und_Kostenstellenplan.pdf.pdf
+- Anlage: Beschlussvorlage (07 - 25 Entwurf HHP 2022_Stand 13.09.2021.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf_Vl8bZLUcqkeVwtQTGPyqCT1cRMnLSfWfFUbOEUdt6/07_-_25_Entwurf_HHP_2022_Stand_13.09.2021.pdf.pdf
+- Anlage: Beschlussvorlage (26 - 45 Produktblätter zum HP 2022 auf Kostenstellenebene.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQforRypOz2KUmsDBV_DUVuYIT9voo_cElA2gs5hOaxd/26_-_45_Produktblaetter_zum_HP_2022_auf_Kostenstellenebene.pdf.pdf
+- Anlage: Beschlussvorlage (46 Inv.-Programm 2021-2025.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUFWSQBEOxE-ED-b8_pCv6CsF3czFCfIhJ97xcBwNlmE/46_Inv.-Programm_2021-2025.pdf.pdf
+- Anlage: Beschlussvorlage (47 Übersicht Sperrvermerke 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY5seEB5QPnin_Qo43oxAJN6eVspSl9QPfkrcInTQwEt/47_Uebersicht_Sperrvermerke_2022.pdf.pdf
+- Anlage: Beschlussvorlage (48 a Mittelfristige Ergebnisplanung.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUYT_1MoEQO0bhXysvRZjQr3w6rK5i_GJ43aBGt-PTKL/48_a_Mittelfristige_Ergebnisplanung.pdf.pdf
+- Anlage: Beschlussvorlage (48 b Ergänzung zur mittelfr. Erg.-Planung.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd-_dZgtvSm3VjxjNNwgCB1xiscvTmDukorOlWt3pk4j/48_b_Ergaenzung_zur_mittelfr._Erg.-Planung.pdf.pdf
+- Anlage: Beschlussvorlage (48 c Mittelfristige Finanzplanung.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR3xKRMcLwHuyJbnfZt2CRTo2X-n1UmltFmloF_DGYM5/48_c_Mittelfristige_Finanzplanung.pdf.pdf
+- Anlage: Beschlussvorlage (48 d Ergänzung zur mittelfristigen Finanzplanung.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSuk5PLLoNOnWTB5jHZBIULo7_DqnIwr2i3hiPbBk5dg/48_d_Ergaenzung_zur_mittelfristigen_Finanzplanung.pdf.pdf
+- Anlage: Beschlussvorlage (49 Übersicht Verpflichtungsermächtigungen.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWNdIZxKGHglR1PpZXTNckd0vnqq7Kb6_8xdm8ivPsT6/49_Uebersicht_Verpflichtungsermaechtigungen.pdf.pdf
+- Anlage: Beschlussvorlage (50 Übersicht Rückl. Rückst. Liquidit.-Sicherg. 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSLNdpkqyLNO4-GkfWPY1qoCUkfNk8o7ooHzOahzKXP_/50_Uebersicht_Rueckl._Rueckst._Liquidit.-Sicherg._2022.pdf.pdf
+- Anlage: Beschlussvorlage (51 Übersicht Fraktionsmittel 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZenHvCEyk4ynVqMNCOcLyu2qsE_yuTCMlVoRtiOGHkuQ/51_Uebersicht_Fraktionsmittel_2022.pdf.pdf
+- Anlage: Beschlussvorlage (52 Übersicht Verbindlichkeiten 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZecQiW6QVtzkcelGI-xxdC6cpJKCtEQeE3goDzxBZA97/52_Uebersicht_Verbindlichkeiten_2022.pdf.pdf
+- Anlage: Beschlussvorlage (53 Übersicht Budgets 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZyIt9GUSBRsPFELdJJM3aynFehhijGkv_IfjCDNrWoy/53_Uebersicht_Budgets_2022.pdf.pdf
+- Anlage: Beschlussvorlage (54 Finanzstatusbericht 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUjtWqWTdQYxlDZL9DojU6PpWWp1IkzMCbiSLSluDTHa/54_Finanzstatusbericht_2022.pdf.pdf
+- Anlage: Beschlussvorlage (55 a Teil A, Beamte.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf4cqi7IOtQjPcgq69zkX1VXV30fdWt7W5ny9VOyOkHu/55_a_Teil_A-_Beamte.pdf.pdf
+- Anlage: Beschlussvorlage (55 b Teil B, Arbeitnehmer.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ6H9zRuiGt1L9ZxzTQ3daDUDhEU0zGinmlaR8Safw_2/55_b_Teil_B-_Arbeitnehmer.pdf.pdf
+- Anlage: Beschlussvorlage (55 c Teil C, Arbeitnehmer S.u.E..pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb6d990Z4__t3be_NlGPNIUJb27pcSvVnMwu9kBCFBCo/55_c_Teil_C-_Arbeitnehmer_S.u.E..pdf.pdf
+- Anlage: Beschlussvorlage (55 d Teil D, Zusammenstellung Stellenplan.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUDw_ioJfOAtEAKk1Ro4AqG2QOBq0ShFuYfKLo9XQ62j/55_d_Teil_D-_Zusammenstellung_Stellenplan.pdf.pdf
+- Anlage: Beschlussvorlage (56 Erläuterungen Stellenplan.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdMGuCuIuDSH_ZCZpwidmx8-TkQUM3uCA-oBMuVu371j/56_Erlaeuterungen_Stellenplan.pdf.pdf
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1343 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1363 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1364 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1365 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1370 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1372 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1374 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1368 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/3-10
