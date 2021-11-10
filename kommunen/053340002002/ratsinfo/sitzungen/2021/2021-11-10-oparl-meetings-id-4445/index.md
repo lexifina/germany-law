@@ -1,0 +1,62 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2021-11-10T17:00:00+01:00
+- Ende: 2021-11-10T20:27:00+01:00
+- Ort: Eurogress Aachen
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4445
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4445
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 01.09.2021 (öffentlicher Teil) - verwiesen
+- TOP 4: Einbringung des Haushaltsplanentwurfs 2022 - ungeändert beschlossen
+- TOP 5: Entwurf Jahresabschluss der Stadt Aachen 2020 - ungeändert beschlossen
+- TOP 6: Zweckverband Region Aachen – Entwurf der Haushaltssatzung für den Doppelhaushalt 2022/2023 - ungeändert beschlossen
+- TOP 7: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen für das Jahr 2021 - 2. Erweiterung - ungeändert beschlossen
+- TOP 8: Umzug der KGS Michaelsbergstraße in das Schulgebäude Malmedyer Str. 12, 52066 Aachen - ungeändert beschlossen
+- TOP 9: Neue öffentlich-rechtliche Vereinbarung zum Betrieb des Euregionalen Medienzentrums der Stadt und der StädteRegion Aachen unter Beteiligung der Deutschsprachigen Gemeinschaft Belgiens - ungeändert beschlossen
+- TOP 10: Sondernutzung für die Außengastronomie 5. Nachtrag zur Satzung der Stadt Aachen über die Erlaubnisse und Gebühren für Sondernutzung an öffentlichen Straßen (Sondernutzungssatzung) Ratsantrag der Fraktion der Grünen vom 23.06.2021 - Nr. 083/18 - ungeändert beschlossen
+- TOP 10.1: Sondernutzung für die Außengastronomie 5. Nachtrag zur Satzung der Stadt Aachen über die Erlaubnisse und Gebühren für Sondernutzung an öffentlichen Straßen (Sondernutzungssatzung) Ratsantrag der Fraktion der Grünen vom 23.06.2021 - Nr. 083/18
+- TOP 11: Ergänzungsvereinbarung zu dem Vertrag mit der Verbraucherzentrale NRW über den Betrieb einer Beratungsstelle in der Stadt Aachen vom 07.06.2018 bzw. 26.06.2018. (Projekt Energiearmut) - ungeändert beschlossen
+- TOP 12: Erneuerung der Vereinbarung zum Bürgermeisterkonvent - zurückgezogen
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Antrag auf Änderung der Entgelte für schriftliche Auskünfte aus Personenstandsregistern - ungeändert beschlossen
+- TOP 15: Benennung von Ratsmitgliedern zur Teilnahme an der 16. Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen am 08.12.2021 - ungeändert beschlossen
+- TOP 16: Sonnenweg, Verbesserung des Ausbaus und der Entwässerung;hier: Ausführungsbeschluss und über- und außerplanmäßige Verpflichtungsermächtigung - ungeändert beschlossen
+- TOP 17: Annahme der Schenkung Denkmal Öcher Schängche - ungeändert beschlossen
+- TOP 18: Anfragen:
+- TOP 18.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 18.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 19: Ratsanträge - zur Kenntnis genommen
+- TOP 20: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 20.1: Wahl von städtischen Vertretern in Gesellschaften, Verbänden und sonstigen Organisationen - ungeändert beschlossen
+- TOP 20.2: Umbesetzungsantrag der GRÜNE-Fraktion vom 27.10.2021 - ungeändert beschlossen
+- TOP 20.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 09.11.2021 - ungeändert beschlossen
+- TOP 20.4: Umbesetzungsantrag der CDU-Fraktion vom 10.11.2021 - ungeändert beschlossen
+- TOP 21: Mitteilungen der Verwaltung
+- TOP 22: Ratsantrag der CDU-Fraktion im Rat der Stadt Aachen "Schnelle Eingreiftruppe gegen Störung von Gewerbetreibenden" vom 25.08.2021 - geändert beschlossen
+- TOP 23: Rettungsschirm für Kulturschaffende erwirken;Gemeinsamer Ratsantrag Nr. 636/17 der sechs Ratsfraktionen vom 03.08.2020 und vom 27.10.2021 - ungeändert beschlossen
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
+- TOP 15: nicht öffentlicher Tagesordnungspunkt
