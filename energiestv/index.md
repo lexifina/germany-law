@@ -142,7 +142,7 @@
 ## - Zu § 66 Abs. 1 Nr. 16 des Gesetzes
 
 - [§ 44 Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken in andere Mitgliedstaaten](0044.md)
-- [§ 45 (weggefallen)](0045.md)
+- [§ 45 Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat](0045.md)
 
 ## - Zu den §§ 21, 65 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes
 

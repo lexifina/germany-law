@@ -17,4 +17,3 @@
 - [§ 14 Aufhebung von Rechtsvorschriften](0014.md)
 - [§ 15 Inkrafttreten](0015.md)
 - [Anlage (weggefallen)](anlage.md)
-- [Anlage (zu § 2 Abs. 1)Gebührenverzeichnis](anlage-2.md)

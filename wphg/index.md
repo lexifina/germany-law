@@ -16,7 +16,7 @@
 - [§ 7 Herausgabe von Kommunikationsdaten](0007.md)
 - [§ 8 Übermittlung und Herausgabe marktbezogener Daten; Verordnungsermächtigung](0008.md)
 - [§ 9 Verringerung und Einschränkung von Positionen oder offenen Forderungen](0009.md)
-- [§ 10 Besondere Befugnisse nach der Verordnung(EU) 1286/2014, der Verordnung(EU) 2016/1011, der Verordnung (EU) 2019/2088 und der Verordnung (EU) 2020/852](0010.md)
+- [§ 10 Besondere Befugnisse nach der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/2088, der Verordnung (EU) 2020/852 und der Verordnung (EU) 2020/1503](0010.md)
 - [§ 11 Anzeige straftatbegründender Tatsachen](0011.md)
 - [§ 12 Adressaten einer Maßnahme wegen möglichen Verstoßes gegen Artikel 14 oder 15 der Verordnung (EU) Nr. 596/2014](0012.md)
 - [§ 13 Sofortiger Vollzug](0013.md)
@@ -48,6 +48,18 @@
 - [§ 30 Überwachung des Clearings von OTC-Derivaten und Aufsicht über Transaktionsregister](0030.md)
 - [§ 31 Verordnungsermächtigung zu den Mitteilungspflichten nach der Verordnung (EU) Nr. 648/2012](0031.md)
 - [§ 32 Prüfung der Einhaltung bestimmter Pflichten der Verordnung (EU) Nr. 648/2012 und der Verordnung (EU) Nr. 600/2014](0032.md)
+
+## Abschnitt 5a
+
+- [§ 32a (zukünftig in Kraft)](0032a.md)
+
+## Abschnitt 5b Schwarmfinanzierungsdienstleister
+
+- [§ 32b Zuständigkeit der Bundesanstalt nach der Verordnung (EU) 2020/1503](0032b.md)
+- [§ 32c Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503](0032c.md)
+- [§ 32d Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503](0032d.md)
+- [§ 32e Sonstige Regelungen hinsichtlich der Ansprüche nach den §§ 32c und 32d](0032e.md)
+- [§ 32f Überwachung und Prüfung der Pflichten nach der Verordnung (EU) 2020/1503; Verordnungsermächtigung](0032f.md)
 
 ## Abschnitt 6 Mitteilung, Veröffentlichung und Übermittlung von Veränderungen des Stimmrechtsanteils an das Unternehmensregister
 
@@ -180,6 +192,8 @@
 
 - [§ 119 Strafvorschriften](0119.md)
 - [§ 120 Bußgeldvorschriften; Verordnungsermächtigung](0120.md)
+- [§ 120a (zukünftig in Kraft)](0120a.md)
+- [§ 120b Bußgeldvorschriften zur Verordnung (EU) 2020/1503](0120b.md)
 - [§ 121 Zuständige Verwaltungsbehörde](0121.md)
 - [§ 122 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen](0122.md)
 - [§ 123 Bekanntmachung von Maßnahmen](0123.md)
