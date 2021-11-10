@@ -1,0 +1,65 @@
+# 6. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-11-10T17:33:00+01:00
+- Ende: 2021-11-10T21:08:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12079
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12079
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00494593.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Hitzeschutzmaßnahmen
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Minimale Dienstleistungen bei Sparkassenfilialen vor Ort erhalten - verwiesen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 11: Verlängerung der Mitgliedschaften von Mitgliedern des Beirates für Stadtgestaltung - einstimmig beschlossen
+- TOP 12: Antrag auf Beantragung von Fördermitteln des MHKBG für Feuerwehrhäuser - von der Tagesordnung abgesetzt
+- TOP 13: Satzung zur Änderung der "Entschädigungssatzung Ehrenamtliche Einsatzkräfte" - einstimmig beschlossen
+- TOP 14: Fortschreibung des Rettungsdienstbedarfsplanes und des Brandschutzbedarfsplanes sowie Erstellung von Katastrophenschutzplänen für die Stadt Münster - einstimmig beschlossen
+- TOP 14.1: Fortschreibung des Rettungsdienstbedarfsplanes und des Brandschutzbedarfsplanes sowie Erstellung von Katastrophenschutzplänen für die Stadt Münster
+- TOP 15: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2022 - einstimmig geändert beschlossen
+- TOP 16: Managementkontrakte
+- TOP 16.1: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2022 bis 2026 - von der Tagesordnung abgesetzt
+- TOP 16.2: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2022 bis 2026 - von der Tagesordnung abgesetzt
+- TOP 16.3: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 8. Finanzformel für die Spielzeiten 2022/2023 bis 2026/2027 - von der Tagesordnung abgesetzt
+- TOP 16.4: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing - von der Tagesordnung abgesetzt
+- TOP 17: Wirtschaftsplan 2022 von Münster Marketing - von der Tagesordnung abgesetzt
+- TOP 18: Stärkung der Innenstadt: Beteiligung am BMI-Fördermittelaufruf "Zukunftsfähige Innenstädte und Zentren" - mehrheitlich geändert beschlossen
+- TOP 19: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung östlich der Hobbeltsraße im Wohnbereich Handorf im Bezirk Ost - mehrheitlich beschlossen
+- TOP 20: Konzeptionelle Neuausrichtung der Lernwerkstatt der Schulpsychologischen Beratungsstelle der Stadt Münster - mehrheitlich beschlossen
+- TOP 20.1: Konzeptionelle Neuausrichtung der Lernwerkstatt der Schulpsychologischen Beratungsstelle der Stadt Münster
+- TOP 21: Landesinitiative "Gemeinsam klappt´s" / "Durchstarten in Ausbildung und Arbeit" - Zwischenbericht zur Umsetzung des Gesamtkonzepts - zur Kenntnis genommen
+- TOP 22: Vorabgewinnausschüttung auf das Jahresergebnis der Spielzeit 2020/2021 - einstimmig beschlossen
+- TOP 23: Bezuschussung der Anschaffung von Stoffwindeln - von der Tagesordnung abgesetzt
+- TOP 24: Interimslösung für die Mathilde-Anneke-Gesamtschule, Andreas-Hofer-Straße 30, 48145 Münster ab dem Schuljahr 2022/23 - einstimmig beschlossen
+- TOP 25: Freiraumentwicklungskonzept für das Kinderbachtal - mehrheitlich geändert beschlossen
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk Münster-West
+- TOP 26.1.1: Bebauungsplan Nr. 227 - vorhabenbezogene 4. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 26.2: Stadtbezirk Münster-Hiltrup
+- TOP 26.2.1: FNP 67 - Hiltrup-Südlich Zur Vogelstange - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich geändert beschlossen
+- TOP 26.2.2: Bebauungsplan Nr. 577 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich abgelehnt
+- TOP 27: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 28.1: Für eine Strategie Münstermobilität 2025 - verwiesen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 29.1: Kommunalen Ordnungsdienst durch Bodycams schützen - verwiesen
+- TOP 29.2: Die Stadt des Westfälischen Friedens tritt gegen die gewaltsame Verfolgung von LGBTIQ-Menschen ein - verwiesen
+- TOP 29.3: Beteiligungen stärken und Effizienz in der kommunalen Immobilienwirtschaft steigern - verwiesen
+- TOP 29.4: Verwaltung zukunftsgerecht weiter entwickeln und gestalten, Einsparpotentiale erkennen und nutzen! - verwiesen
+- TOP 29.5: Digitale Ausstattung der Standorte von Feuerwehr, Rettungsdienst und Katastrophenschutz - verwiesen
+- TOP 29.6: Ein Stadtteilentwicklungskonzept für Gievenbeck - verwiesen
+- TOP 30: Verschiedenes
