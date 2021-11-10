@@ -1,0 +1,21 @@
+# Standortfrage der Bernhard-Overbergschule
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 563/2021 3. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2021-11-10
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdfNrZdyUF3dM9V9qBs8S3I
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/14787
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Standortfrage der Bernhard-Overbergschule) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbVY9vl206nMcuQQxK46JqDdcD9XDX6EHvRC9sMjTDkO/Beschlussvorlage_563-2021_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Vermerk Gespräch Luthe 06.09.2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa2x5W5hYKNMce2NYHBv-JrtSUXgbu-UZsVACfnAIn_t/Vermerk_Gespraech_Luthe_06.09.2021.pdf
+- Anlage: Beschlussvorlage (Beschluss HFA vom 22.09.2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfe-FA0qrOvbIS0C1PSnimHFOeMInvInGm5KXxZ2NAUK/Beschluss_HFA_vom_22.09.2021.pdf
+- Anlage: Beschlussvorlage (Stellungnahme Dr. Wessling vom 01.10.2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZdq1BaSGFZFsR6SZFdkkgP-xzZ6ZE_fp1wQWYbtAjOX/Stellungnahme_Dr._Wessling_vom_01.10.2021.pdf
+- Anlage: Beschlussvorlage (Stellungnahme HPC AG vom 01.10.2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTbRM6YF_CXqmxfTEOrpNxcIDJJeFbDNp-AfcoRypEHe/Stellungnahme_HPC_AG_vom_01.10.2021.pdf
+- Anlage: Beschlussvorlage (Stellungnahme Dr Luthe vom 03.10.2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfsawk7iBEsk7ov1A7FDD8Ew6SiMDfJk0sPAKi-cDGY2/Stellungnahme_Dr_Luthe_vom_03.10.2021.pdf
+- Anlage: Beschlussvorlage (Stellungnahme der BOS _Ratssitzung_06.10.2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeaQqdlX9rtur-wki85c4d9lUkwNzIjv30FqYOt0Fd4z/Stellungnahme_der_BOS__Ratssitzung_06.10.2021.pdf
+- Anlage: Beschlussvorlage (Stellungnahme DER NEUE WEG_B. Overbergschule 26.10.2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYsvA3IXfFWJ0uhAFMsvzKyMy58D75pbYiZ70CUdksuo/Stellungnahme_DER_NEUE_WEG_B._Overbergschule_26.10.2021.pdf
+- Anlage: Beschlussvorlage (Stellungnahme Dr. Wessling zur Stellungnahme Luthe 29.10.2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVY7m3LnIQGhN2h0MjQIKoTbWAWOdgvvHX5a7KF90GDs/Stellungnahme_Dr._Wessling_zur_Stellungnahme_Luthe_29.10.2021.pdf
+- Anlage: Beschlussvorlage (Stellungnahme Dr. Wessling zum Schreiben der WEG-Fraktion) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ09LfIxavnkSTH8ne4TDSbQJy7FpcXSz2v0V4XB-aUW/Stellungnahme_Dr._Wessling_zum_Schreiben_der_WEG-Fraktion.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5100 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-65
