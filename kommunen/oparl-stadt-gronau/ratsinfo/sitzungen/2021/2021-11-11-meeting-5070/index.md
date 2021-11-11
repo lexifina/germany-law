@@ -1,0 +1,54 @@
+# Ausschuss für Mobilität, Umwelt und Klimaschutz (6. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-11-11T18:03:00+01:00
+- Ende: 2021-11-11T20:58:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Forum 1, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWFdk8WLWxK2BJ24qGKZMz8
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5070
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Mobilität, Umwelt und Klimaschutz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZLC8McZpHbYWHYu54-bLzbWf8EMGdOhkCavPLb9NLiR/Oeffentliche_Niederschrift_Ausschuss_fuer_Mobilitaet-_Umwelt_und_Klimaschutz_11.11.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Antrag zur TO
+- TOP 3.: Niederschrift vom 28.09.2021
+- TOP 4.: Anregungen und Beschwerden gem. §24 GO NW
+- TOP 4.1: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 16/2021; Bürgerantrag vom 11.10.2021 Anpassung der Höchstgeschwindigkeit auf Tempo 30 sowie Einrichtung einer sicheren Querungshilfe an der Spinnereistraße - Einstimmig, 0 Enthaltungen
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion GAL/Die Linke Querung Vennstraße - Einstimmig, 0 Enthaltungen
+- TOP 5.2: Antrag der Fraktion Bündnis 90/Die Grünen vom 27.10.2021; Neuorganisation der Verkehrsführung im Bereich Kreisverkehr Herzogstraße, Steinstraße, Königstraße - Einstimmig, 0 Enthaltungen
+- TOP 5.2.1: Antrag der Fraktion Bündnis 90/Die Grünen vom 27.10.2021; Neuorganisation der Verkehrsführung im Bereich Kreisverkehr Herzogstraße, Steinstraße, Königstraße
+- TOP 6.: Maßnahmen zum Baumschutz - 8 Jastimmen, 5 Neinstimmen, 2 Enthaltungen
+- TOP 7.: Klimaschutzmaßnahmen Sachstand
+- TOP 8.: Maßnahmen Radverkehrskonzept
+- TOP 9.: Verkehrsberuhigung Gronauer Straße
+- TOP 10.: Bahnübergänge Gildehauser Straße
+- TOP 11.: Baumwollexpress - Aktueller Stand
+- TOP 12.: Abbruch Dinkelbrücke BW-Nr. 10-2800 Parkplatz WZG - Einstimmig, 1 Enthaltungen
+- TOP 13.: Baumfällungen im Winter 2021/2022
+- TOP 14.: 1. Änderungssatzung zur Satzung der Stadt Gronau (Westf.) zur Umlage der Kosten der Gewässerunterhaltung gemäß § 64 LWG - Einstimmig, 1 Enthaltungen
+- TOP 15.: Ausbauprogramm für die Blücherstraße (von Eper Straße bis Roonstraße) auf der Grundlage des Bestandsplans (Anlage) - Einstimmig, 1 Enthaltungen
+- TOP 16.: Straßenendausbau Kampstraße
+- TOP 17.: Standortauswahlverfahren für ein Atommüll-Endlager – aktueller Sachstand
+- TOP 18.: Mitteilungen der Verwaltung
+- TOP 18.1: Erhebung von Straßenbaubeiträgen für die Erneuerung der Agathastraße und der vonKeppelStraße – Stand der Verfahren
+- TOP 18.1.1: Erhebung von Straßenbaubeiträgen für die Erneuerung der Agathastraße und der vonKeppelStraße – Stand der Verfahren
+- TOP 18.2: Entfernung des Grünstreifens im Bereich des neuen Sanitärgebäudes am Drilandsee
+- TOP 18.3: Baumfällungen zur weiteren Verfolgung der Attraktivierung des Dreiländersees
+- TOP 18.4: G-Mobil - Auswertung Juni-Oktober
+- TOP 18.5: Ortsumgehung Epe
+- TOP 18.6: Hundewald
+- TOP 18.7: Photovoltaik-Anlagen
+- TOP 18.8: Amprion
+- TOP 19.: Anfragen
+- TOP 19.1: Caravanstellplätze
+- TOP 19.2: Platanen Piepenpohlstraße
+- TOP 19.3: Bahnhofsumfeld Epe
+- TOP 19.4: Pflege Grünstreifen
+- TOP 19.5: Renaturierung Dinkel / Strothbach
+- TOP 19.6: Machbarkeitsstudie L510
