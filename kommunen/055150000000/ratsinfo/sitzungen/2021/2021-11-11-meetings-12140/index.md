@@ -1,0 +1,67 @@
+# 9. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-11-11T17:03:00+01:00
+- Ende: 2021-11-11T20:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12140
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12140
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00494592.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 4.1: Sachstand Konversionsflächen in Gievenbeck und Sentrup - zur Kenntnis genommen
+- TOP 4.2: Verbreiterung der Autobahnbrücke und Ausbau der Rad- und Fußwege Rüschhausweg - Aktueller Sachstand zum Antrag A-W/0034/2021 - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: ÖPNV-Erschließung für den Stadtteil Mecklenbeck nach Fertigstellung der neuen Heroldstraße - zur Kenntnis genommen
+- TOP 5.2: Vorstellung Gedenkkonzept Lager Mecklenbeck - zur Kenntnis genommen
+- TOP 5.2.1: Gegen das Vergessen - Erinnerungskultur stärken - Zwischenmitteilung zur Kenntnis genommen
+- TOP 5.3: Maßnahmenprogramm 2022 - 2023 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtgebiet Münster - zur Kenntnis genommen
+- TOP 5.4: Geplante Veranlagungen in 2022 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.5: Tätigkeitsbericht des ab 01. März 2021 beim Kulturamt eingerichteten Stadtteilkulturmanagements, erstes Fazit und nächste Schritte - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 6.2: Maßnahmenprogramm 2022 - 2023 des Amtes für Mobilität und Tiefbau für die bezirklichen - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Neufassung Errichtungsbeschluss für den Neubau eines Feuerwehrhauses der Freiwilligen Feuerwehr im Ortsteil Albachten - mehrheitlich geändert beschlossen
+- TOP 7.2: Maßnahmenprogramm 2022 - 2023 des Amtes für Mobilität und Tiefbau für die überbezirklichen - einstimmig beschlossen
+- TOP 7.3: Elektro-Ladesäulenkonzept Münster 2021 zur Förderung der Elektromobilität - einstimmig geändert beschlossen
+- TOP 7.3.1: Förderung der Elektromobilität - Aufbau von öffentlichen Ladepunkten - zur Kenntnis genommen
+- TOP 7.3.2: Förderung der Elektromobilität - Aufbau von öffentlichen Ladestationen in Nienberge - zur Kenntnis genommen
+- TOP 7.4: Durchführung eines Interessenbekundungsverfahrens zur Vergabe von stationsbasierten Carsharing-Stellplätzen - einstimmig beschlossen
+- TOP 7.5: Errichtungsbeschluss für den Neubau eines Schulgebäudes und einer Einfachsporthalle in Albachten - Südlich Weseler Straße / Östlich Hohe Geist (Bebauungsplan Nr. 572) - einstimmig beschlossen
+- TOP 8: Entwurf des Haushaltsplanes 2022
+- TOP 8.1: Beratung und Beschlussfassung zum Entwurf des Haushaltsplanes 2022 unter Berücksichtigung der Veränderungsblätter
+- TOP 8.2: Aufteilung der frei verfügbaren Mittel der Bezirksvertretung Münster-West für das Haushaltsjahr 2022
+- TOP 9: Neue Anregungen/Anträge
+- TOP 9.1: Hülshoffstraße L 529 in Nienberge - Installation einer fest installierten Blitzanlage - vertagt
+- TOP 9.2: E-Mobilität fördern - Öffentliche Ladestationen für Elektrofahrzeuge in Roxel - eingebracht
+- TOP 9.3: Überprüfung der Straßennamen im Stadtbezirk West auf Bezüge zum Nationalsozialismus und Kolonialismus - eingebracht
+- TOP 9.4: Ausdehnung von Tempo 30 und Verkehrsberuhigung auf Mecklenbecker Straße westlich des Dingbängerwegs - eingebracht
+- TOP 9.5: Aufstellung eines neuen Bebauungsplanes für die Bereiche östlich der Osthofstraße/westlich Am Blütenhain sowie nördlich Sendener Stiege/südlich Am Tinnenbusch - eingebracht
+- TOP 9.6: Urbaner Gartenbau (urban gardening) in Münster-West ermöglichen - eingebracht
+- TOP 9.7: Vertiefung und Erweiterung der Verkehrssicherheitsmaßnahmen im Bereich der Brücke des Rüschhauswegs über die Bundesautobahn A1 - eingebracht
+- TOP 9.8: Mittel- und langfristige Maßnahmen zur Verkehrssicherheit auf der Brücke des Rüschhauswegs über die Bundesautobahn A1 - eingebracht
+- TOP 9.9: Geschwindigkeitsbegrenzung auf 50 km/h Am Gievenbach - eingebracht
+- TOP 9.10: Anregung an den Rat - Berechnungspunkt für Luftschadstoffe einrichten - einstimmig beschlossen
+- TOP 9.11: Bahnhof Albachten: Mehr Sicherheit für Kinder und Jugendliche - eingebracht
+- TOP 9.12: Digitalisierung der Gremienarbeit der Bezirksvertretung - eingebracht
+- TOP 9.13: Aufstellung eines ortsfesten Dialog-Displays in Sentrup auf der Sentruper Straße in Fahrtrichtung Zoo in Höhe der Einmündung Schmeddingstraße - mehrheitlich beschlossen
+- TOP 10: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 10.1: Verkehrskonzept für die Weseler Straße im Stadtteil Albachten - Zwischenmitteilung zur Kenntnis genommen
+- TOP 10.2: Aufstellung von mobilen Dialogdisplays auf der Sentruper Straße - zur Kenntnis genommen
+- TOP 10.3: Errichtung eines Fuß-/Radweges auf der Lindenallee (K30) zwischen Freie Flur und Alvingheide (K31) in Albachten - zur Kenntnis genommen
+- TOP 10.4: Entwicklung alter Standort Feuerwehrgerätehaus - Thieplatz - zur Kenntnis genommen
+- TOP 10.5: Verkehrliches Maßnahmenprogramm "Verlegung Heroldstraße / Bahnhaltepunkt Mecklenbeck" - beantwortet
+- TOP 10.6: Aufstellung eines mobilen Dialog-Displays auf der Osthofstraße, Höhe Bushaltestelle Sendener Stiege - Schulwegsicherung - Zwischenmitteilung zur Kenntnis genommen
+- TOP 10.7: Errichtung von Sitzbänken im Grünen Finger in Gievenbeck - zur Kenntnis genommen
+- TOP 10.8: Roxel beruhigen - zur Kenntnis genommen
+- TOP 11: Verschiedenes
