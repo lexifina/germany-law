@@ -1,0 +1,29 @@
+# Sachstandsbericht zur Mehrzweckhalle im Ortsteil Schloßborn - Planung entsprechend Beschluss (MZH und Kreissporthalle als Einfeldsporthalle nach Standartraumprogramm) und Gegenüberstellung zweier Alternativen (2. Sport- und Kulturzentrum; 3. MZH und Einfeldsporthalle mit zusätzlichen Räumen in Eigenregie mit Kreisausschuss)
+
+- Körperschaft: Gemeinde Glashütten
+- Drucksache/Vorlage: 168/GV/XIX
+- Art: Beschluss-Vorlage
+- Datum: 2021-11-12
+- Ratsinformationssystem: https://rim.ekom21.de/glashuetten/vorgang/?__=UGhVM0hpd2NXNFdFcExjZUjV6PgdygzjTHwHTSnJ1NM
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/paper/3251
+- Quelle: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschluss-Vorlage (Sachstandsbericht zur Mehrzweckhalle im Ortsteil Schloßborn
+- Planung entsprechend Beschluss (MZH und Kreissporthalle als Einfeldsporthalle nach Standartraumprogramm) und Gegenüberstellung zweier Alternativen (2. Sport- und Kulturzentrum; 3. MZH und Einfeldsporthalle mit zusätzlichen Räumen in Eigenregie mit Kreisausschuss)) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcpwXF-56z_QxPogZuTW3676euGRhoFBypR27dZ_bIq1/Beschluss-Vorlage_168-GV-XIX.pdf
+- Anlage: Beschluss-Vorlage (210615_LP4_ KoBe Mehrzweckhalle Schloßborn_RB) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW601pXT6JtrF2K8LjUGye6dAIJDZcEr35qCLuMByo4s/210615_LP4__KoBe_Mehrzweckhalle_Schlossborn_RB.pdf
+- Anlage: Beschluss-Vorlage (Grundriss Untergeschoss) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVRtMaghXpm7ur6szRxZf46m4HA21cy-ikFIXPRtfQsc/Grundriss_Untergeschoss.pdf
+- Anlage: Beschluss-Vorlage (Grundriss Obergeschoss) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY2KEha3uyTKXka47huuQ_bhV0EYLZ-mJ-Wm6zQLLSrI/Grundriss_Obergeschoss.pdf
+- Anlage: Beschluss-Vorlage (Dachaufsicht) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc6An7ue5pKFf5SqCxHJjl0vlRzx8dIxo4yk5OgG5Say/Dachaufsicht.pdf
+- Anlage: Beschluss-Vorlage (Schnitte) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ4lkc1jVT0V3CQVlk4vxRO6qDoLr0DJy0OFUMKZP9rr/Schnitte.pdf
+- Anlage: Beschluss-Vorlage (Ansichten) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVUwsSIFjO3MSGuDekIFUfK9P_W5vWTHOaF9y2S8aAYd/Ansichten.pdf
+- Anlage: Beschluss-Vorlage (UG) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW8BrCV4cdd3ww0g0tybjs8iXqIT5sIdEhm9qdYfpOvR/UG.pdf
+- Anlage: Beschluss-Vorlage (Einfeldsporthalle BRI und Hüllflächen - Kosten) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeUSEZ7E6kmpn6IUIH5RIjjXMhsPge961tjzTwzwI-xC/Einfeldsporthalle_BRI_und_Huellflaechen_-_Kosten.pdf
+- Anlage: Beschluss-Vorlage (EG) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW-I4nJDpKXf-UDYbVbBxlWtlx46VIaXeaNTp1gG9fAp/EG.pdf
+- Anlage: Beschluss-Vorlage (Einfeldsporthalle Schloßborn EG) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfEL5o2NfzU4RrfNZkzbKlkR08n_fuVFu1QnIFeB4jRK/Einfeldsporthalle_Schlossborn_EG.pdf
+- Anlage: Beschluss-Vorlage (Einfeldsporthalle Schloßborn Nordost) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR30UBj9YoVlJrmA-J3ya3WZUqMf0QlkNPhrDYrLMmCA/Einfeldsporthalle_Schlossborn_Nordost.pdf
+- Anlage: Beschluss-Vorlage (Einfeldsporthalle Schloßborn Südwest) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbUiWFMcqw-nIGj9hG1UaE8ElbgLtwZTRfTqWMFZoByE/Einfeldsporthalle_Schlossborn_Suedwest.pdf
+- Anlage: Beschluss-Vorlage (Einfeldsporthalle Schloßborn UG) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTDedQTfqUrFOF0k5-gXwfvWoEgVhf37b3AcOjvI-X7e/Einfeldsporthalle_Schlossborn_UG.pdf
+- Anlage: Beschluss-Vorlage (Visualisierung Süd) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdP_jeutTnV__wHIhbqMkZtjwhxVx-HodPIL7rYH77fR/Visualisierung_Sued.pdf
+- Anlage: Beschluss-Vorlage (‬Visualisierung Nord) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbT9ke4SiwF7y_h5HTivLIaz13wbcfSziendGPDnn2M8/---Visualisierung_Nord.pdf
+- Anlage: Beschluss-Vorlage (Musterraumprogramm SPH 15-27) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcIliF3ukDTkpNCKNuTDmLnkNPRwFKwRSou9LHToYMNk/Musterraumprogramm_SPH_15-27.pdf
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1744 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/3-17
