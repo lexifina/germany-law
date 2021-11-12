@@ -33,7 +33,7 @@
 - [§ 15 Anfechtung und Verlust der Mitgliedschaft](0015.md)
 - [§ 16 Akteneinsicht und -abgabe](0016.md)
 - [§ 17 Geheimschutzordnung](0017.md)
-- [§ 18 Verhaltensregeln](0018.md)
+- [§ 18 (weggefallen)](0018.md)
 
 ## VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen
 
@@ -175,7 +175,7 @@
 - [§ 126a Besondere Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19](0126a.md)
 - [§ 127 Auslegung dieser Geschäftsordnung](0127.md)
 - [§ 128 Rechte des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung](0128.md)
-- [Anlage 1 Verhaltensregeln für Mitglieder des Deutschen Bundestages](anlage-1.md)
+- [Anlage 1 (weggefallen)](anlage-1.md)
 - [Anlage 2 Registrierung von Verbänden und deren Vertreter](anlage-2.md)
 - [Anlage 3 Geheimschutzordnung des Deutschen Bundestages](anlage-3.md)
 - [Anlage 4 Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen](anlage-4.md)

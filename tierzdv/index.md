@@ -37,7 +37,7 @@
 ### Abschnitt 3 Embryotransfer
 
 - [§ 17 Anforderungen an Einrichtungen einer nationalen Embryo-Entnahmeeinheit](0017.md)
-- [§ 18 Anforderungen an den Betrieb einer Embryo-Entnahme- oder ‑Erzeugungseinheit](0018.md)
+- [§ 18 Anforderungen an den Betrieb einer Embryo-Entnahme- oder Erzeugungseinheit](0018.md)
 - [§ 19 Kennzeichnungsnummer der nationalen Embryo-Entnahmeeinheit](0019.md)
 - [§ 20 Kennzeichnung von Eizellen und Embryonen](0020.md)
 - [§ 21 Aufzeichnungen über Erzeugung, Gewinnung, Behandlung, Lagerung und Abgabe von Eizellen und Embryonen, Embryobegleitschein](0021.md)
