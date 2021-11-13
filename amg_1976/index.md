@@ -227,7 +227,6 @@ Arzneimittelschäden
 - [§ 95 Strafvorschriften](0095.md)
 - [§ 96 Strafvorschriften](0096.md)
 - [§ 97 Bußgeldvorschriften](0097.md)
-- [§ 97 Bußgeldvorschriften](0097-2.md)
 - [§ 98 Einziehung](0098.md)
 
 ## Achtzehnter Abschnitt Überleitungs- und

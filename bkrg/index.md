@@ -4,7 +4,6 @@
 - [§ 2 Aufgaben](0002.md)
 - [§ 3 Beirat](0003.md)
 - [§ 4 Wissenschaftlicher Ausschuss](0004.md)
-- [§ 5 Datenübermittlung](0005.md)
 - [§ 6 Datenverarbeitung und Datenübermittlung, Mitarbeit in Organisationen](0006.md)
 - [§ 7 Zusammenarbeit mit den Krebsregistern](0007.md)
 - [§ 8 Datenübermittlung und Datenbereitstellung zu Forschungszwecken](0008.md)
