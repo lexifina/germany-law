@@ -1,0 +1,60 @@
+# 10. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-15T17:00:00+01:00
+- Ende: 2021-11-15T18:50:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Venloer Straße 419-421, 50825, neuer Sitzungssaal, Erdgeschoss
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23108
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23108
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe nach § 24 GO – „Bildung eines Stadtteils Osterrath„ AZ 142-21S - ungeändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Unterbindung des verbotswidrigen Abstellens von Fahrzeugen über Schachtdeckeln auf der Nußbaumerstraße in Neuehrenfeld (Az.: 02-1600-156-21) - ungeändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN: Raserei an der Glasstraße - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Führung des Radverkehrs Eichendorffstraße - Kenntnis genommen
+- TOP 6.2.1: Führung des Radverkehrs Eichendorffstraße - Kenntnis genommen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Anwendung des Baulandmobilisierungsgesetzes im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.4.1: Beantwortung einer Anfrage der SPD-Fraktion, betr.: Anwendung des Baulandmobilisierungsgesetzes im Stadtbezirk Ehrenfeld (AN/2066/2021) - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Gemeinsame Zusatzanfrage der Fraktion Bündnis 90/Die Grünen und der Einzelmandatsträgerin Elke Schroeder (KLIMA FREUNDE): Ausgleichszahlungen bei Baumfällungen im Bezirk Ehrenfeld - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, CDU-Fraktion, Fr. Pöttgen (FDP), betr.: Hundewiese an der Dreiecksfläche in Köln-Bickendorf - geändert beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der SPD-Fraktion, betr.; Erhöhte Lärmbelästigung nach Baumfällungen DB-Strecke Köln-Vogelsang - ungeändert beschlossen
+- TOP 8.4: Antrag der FDP: KVB-Fahrrad-Abstellfläche am Ehrenfelder Bahnhof - geändert beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Antrag der SPD-Fraktion, betr.: Vorabinformation der BV Ehrenfeld über Onlinebeteiligungen - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion: Aufstellung zur deutschen Kolonialpolitik im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 8.8: Antrag der SPD-Fraktion: Barrierefreie KVB-Haltestellen an Subbelrather Straße/Gürtel und Nußbaumerstraße vor 2030 - zurückgestellt
+- TOP 9: Entscheidungen
+- TOP 9.1: Freigabe von Bewohnerparken in der Weinsbergstraße - zurückgestellt
+- TOP 9.2: Widmung der Platzfläche Bachstelzenweg / Goldammerweg in Köln-Vogelsang - ungeändert beschlossen
+- TOP 9.3: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - ungeändert beschlossen
+- TOP 9.4: Straßenzusatzschilder "Nordschleswig-Viertel" Neuehrenfeld - Beschluss der Bezirksvertretung Ehrenfeld vom 07.09.2020 - zurückgestellt
+- TOP 9.5: Umsetzung des Straßenbaumkonzeptes Ehrenfeld - ungeändert beschlossen
+- TOP 9.6: Container BSA Everhardstr. - zurückgestellt
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - ungeändert beschlossen
+- TOP 10.2: Verkehrsversuch Venloer Straße in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Tätigkeitsbericht 2020 des Amtes für Straßen und Verkehrsentwicklung und des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 12.2: Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe einer investiven Verpflichtungsermächtigung - Kenntnis genommen
+- TOP 12.3: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 12.4: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 63474/02 Arbeitstitel: Subbelrather Straße 486 - 494 in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.5: Erhöhung der Verkehrssicherheit durch kombinierte Rotlicht- und Geschwindigkeitsüberwachungsanlagen für den Knotenpunkt Venloer Str. (B59) / AS Bocklemünd West (A1 Bocklemünd-Mengenich) - Kenntnis genommen
+- TOP 12.6: Mitteilung zu einem Beschluss der Bezirksvertretung Ehrenfeld vom 15.03.2021, TOP 8.2.4: betr. Gasspeicher der Rheinenergie Maarweg/Widdersdorfer Straße - Antrag der CDU-Fraktion - AN/0435/2021 - Kenntnis genommen
+- TOP 12.7: Mitteilung zu einem Beschluss der Bezirksvertretung Ehrenfeld vom 31.05.2021, TOP 8.1.3: betr. Gasspeicher der Rheinenergie Maarweg - Antrag der CDU-Fraktion - AN/0727/2021 in Ergänzung zum Antrag AN/0435/2021 und Beschluss der BV Ehrenfeld vom 15.3. - Kenntnis genommen
+- TOP 13: mündliche Anfragen
