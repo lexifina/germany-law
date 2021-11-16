@@ -1,0 +1,105 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-11-16T16:00:00+01:00
+- Ende: 2021-11-16T21:00:00+01:00
+- Ort: Historische Stadthalle, Johannisberg 40, 42103 Wuppertal Großer Saal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19269
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19269
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00282131.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00283186.pdf
+
+## Tagesordnung
+
+- TOP 1: Einbringung des Haushaltsplanes 2022/2023 (Rat 23.11.2021) - Entgegennahme ohne Beschluss
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kultursensible Angebote für Pflege und Hospiz - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Große Anfrage der Stadtverordneten Rajaa Rafrafi 'Kultursensible Angebote für Pflege und Hospiz' - Entgegennahme ohne Beschluss
+- TOP 2.2: Gewerbeflächen und VO/0971/21, Stellungnahme der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Gewerbeflächen und VO/0971/21 - Antwort auf die Große Anfrage der Fraktionen von SPD und FDP vom 30.08.2021 - Entgegennahme ohne Beschluss
+- TOP 2.3: Fortgang Abriss ehemalige Pädagogische Hochschule - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Fortgang Abriss ehemalige Pädagogische Hochschule - Entgegennahme ohne Beschluss
+- TOP 2.4: iPads für Schülerinnen und Schüler - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag gemäß § 24 GO NRW - Tempo 30 im Bereich Südstraße / Islandufer / Schloßbleiche / Mäuerchen
+- TOP 3.2: Antrag gemäß § 24 GO NRW - Radfreigabe Verbindungsweg An der Bük/Saurenhaus
+- TOP 3.3: Antrag gemäß § 24 GO NRW - Anlage eines Radweges in der Wittensteinstraße von Oskarstraße bis Fingscheid in westlicher Richtung
+- TOP 3.4: Antrag gemäß § 24 GO NRW - Umgestaltung Loher Straße
+- TOP 3.5: Antrag gemäß § 24 GO NRW - Schnellladepark am Döppersberg
+- TOP 3.6: Antrag gemäß § 24 GO NRW - Fahrradfahren bei innerstädtischen zweispurigen Fahrbahnen
+- TOP 3.7: Antrag gemäß § 24 GO NRW - Einrichtung von Naturerfahrungsräumen für Kinder
+- TOP 3.8: Antrag gemäß § 24 GO NRW - Aufbau temporärer Radinfrastruktur auf der sog. Talachse
+- TOP 3.9: Antrag gemäß § 24 GO NRW - Demarkierung des Radweges Hauptstraße und Entfernung des VZ 314 vor Hauptstraße 142
+- TOP 3.10: Antrag gemäß § 24 GO NRW - Markieren von Schutzstreifen bei einer Restfahrbahnbreite von weniger als 3,00 m
+- TOP 3.11: Antrag gemäß § 24 GO NRW- Änderung der Spuraufteilung Sonnborner Straße / Siegfriedstraße
+- TOP 3.12: Antrag gemäß § 24 GO NRW - Übernahme der Bremer Leitlinien für die Gestaltung von Fahrradstraßen für Wuppertal
+- TOP 3.13: Antrag gemäß § 24 GO NRW - Entfernung unnötiger Verkehrszeichen am Kreisverkehr Oberbergische Str.
+- TOP 3.14: Antrag gemäß § 24 GO NRW - Einrichtung eines barrierefreien Zugangs von der Haltestelle Lichtscheid Wasserturm zur Oberen Lichtenplatzer Straße
+- TOP 3.15: Antrag gemäß § 24 GO NRW - Zusatzzeichenergänzung Fußgängerzonen
+- TOP 3.16: Antrag gemäß § 24 GO NRW - Anregung bei der Einrichtung von Baustellen zu deren Sicherung auch tatsächlich die Vorgaben der Straßenverkehrsordnung
+- TOP 3.17: Antrag gemäß § 24 GO NRW - Kontrolle und Überwachung von temporärer Beschilderung
+- TOP 3.18: Antrag gemäß § 24 GO NRW -Neugestaltung zukünftiger Logos und Corporate Identity (CI) –
+- TOP 3.19: Antrag gemäß § 24 GO NRW - CO2-reduziertes Bauen mit Carbon- und Textilbeton
+- TOP 3.20: Antrag gemäß § 24 GO NRW - Situation bei der Ausländerbehörde Wuppertal
+- TOP 4: Anträge
+- TOP 4.1: Instrumentarien für die Gewerbeflächenentwicklung stärken - ungeändert beschlossen
+- TOP 4.2: Wohnraum schaffen – Konzepten und Handlungsprogrammen müssen Taten folgen - ungeändert beschlossen
+- TOP 4.3: Prüfauftrag: Ausweitung der Einstellung von Werkstudentinnen /-studenten zur Personalgewinnung bei der Stadt Wuppertal - ungeändert beschlossen
+- TOP 4.4: Ausführungs- und Finanzierungsplanung Radverkehrsverbindungen zwischen Nordbahntrasse und B7 - abgesetzt
+- TOP 4.5: Controlling Bericht Abriss – und Baufortschritt Gelände Alte Pädagogische Hochschule - abgesetzt
+- TOP 4.6: Ausbau L 419: Bezirksregierung beauftragen, 2. Deckblattverfahren durchzuführen - abgelehnt
+- TOP 4.7: Resolution Übernahme der Stromkosten - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Resolution Finanzielle Handlungsfähigkeit der Kommunen auch in extremen Lagen schützen und garantieren. - abgesetzt
+- TOP 5.2: Finanzierung und Weiterentwicklung ÖPNV - abgesetzt
+- TOP 5.3: Einrichtung einer Nachtbürgermeister(innen)stelle - geändert beschlossen
+- TOP 5.4: Klimaschutz und Klimafolgenanpassung – jetzt! Klimaneutral bis 2035!
+- TOP 6: Ortsrecht
+- TOP 6.1: Verordnung über das Offenhalten von Verkaufsstellen am 05.12.2021 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen am 05.12.2021 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Verlängerung des Verzichts auf die Gebührenerhebung für gaststättenrechtliche Änderungsanträge anlässlich der Hinzunahme oder Veränderung einer Außengastronomie - ungeändert beschlossen
+- TOP 7.2: Überplanmäßige Ausgabe - Unterstützende Mitarbeit im Ressort Zuwanderung und Integration - ungeändert beschlossen
+- TOP 7.3: Überplanmäßige Mittel für die Fördermaßnahme Grundhafte Erneuerung der Kluser Brücke (B7) - ungeändert beschlossen
+- TOP 7.4: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2020 - ungeändert beschlossen
+- TOP 7.5: Außerplanmäßige Verpflichtungsermächtigung - Außenanlage Stadtteilzentrum – Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2019 des Eigenbetriebs GMW Gebäudemanagement Wuppertal - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2019 - Entlastung des Betriebsausschusses GMW - ungeändert beschlossen
+- TOP 8.3: Erhöhung des Stammkapitals der NRW.URBAN Kommunale Entwicklung GmbH - ungeändert beschlossen
+- TOP 8.4: Neufassung des Gesellschaftsvertrages und der Geschäftsordnung für den Aufsichtsrat der Wuppertal Marketing GmbH (WMG) - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2020 der Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.6: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 297A - Dasnöckel - abgesetzt
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Instandsetzung der Brücke Reichsgrafenstraße - ungeändert beschlossen
+- TOP 10.2: Wiederherstellung und Sanierung der Bühnentechnik im Opernhaus nach dem Hochwasserschaden - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Bewerbung um die Durchführung der Bundesgartenschau 2031 (BUGA 2031) - ungeändert beschlossen
+- TOP 11.1.1: Bewerbung um die Durchführung der Bundesgartenschau 2031 (BUGA 2031) - Beantwortung von Fragen der CDU-Fraktion - Entgegennahme ohne Beschluss
+- TOP 11.1.2: Ratsbürgerentscheid BUGA - abgelehnt
+- TOP 11.1.3: Begleitantrag von CDU und Bündnis 90/Die Grünen zum TOP Bewerbung um die Durchführung der Bundesgartenschau 2031 (BUGA 2031) - abgelehnt
+- TOP 11.2: Welterbe Müngstener Brücke - Entgegennahme ohne Beschluss
+- TOP 11.3: Überörtliche Prüfung (Informationstechnik) der Gemeindeprüfungsanstalt NRW - ungeändert beschlossen
+- TOP 11.4: Verlängerung der Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Erhebung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 11.4.1: Aussetzung der Erhebung von Sondernutzungsgebühren für die Wuppertaler Weihnachtsmärkte - ungeändert beschlossen
+- TOP 11.5: Vertrag mit dem Trägerverein der Begegnungsstätte Alte Synagoge e.V. - ungeändert beschlossen
+- TOP 11.6: Quartalsbericht III/2021 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.7: Fehlerhafte Buchungen von ambulanten Hilfen nach § 67 SGB XII aus den Mitteln der Grundsicherung nach dem 4. Kapitel SGB XII für Leistungsberechtigte im Walter-Bertram-Haus - Entgegennahme ohne Beschluss
+- TOP 11.8: Erteilung einer Befugnis an den/die Direktor*in des NRW Kultursekretariats zur Antragstellung und Abwicklung von Fördermitteln des Landes und weiterer Fördergeber. - ungeändert beschlossen
+- TOP 11.9: Verbindliche Bedarfsplanung 01.10.2021 - 30.9.2024 für die Stadt Wuppertal gem. § 7 (6) Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - ungeändert beschlossen
+- TOP 11.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Besetzung der Jury des Inklusionspreises - ungeändert beschlossen
+- TOP 12.2: Besetzung des Beirats Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzun/Benennung - abgesetzt
+- TOP 12.4: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.5: Besetzung der Arbeitsgemeinschaft Psychosoziales und Behinderung - geändert beschlossen
+- TOP 12.6: Besetzung des Planungsbeirates für die Klinik des Maßregelvollzugs (Forensik) des Landschaftsverbandes Rheinland (LVR) in Wuppertal-Ronsdorf - ungeändert beschlossen
+- TOP 12.7: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.9: Gremienbesetzung - ungeändert beschlossen
