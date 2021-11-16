@@ -1,0 +1,181 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2021-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6128206
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6128206
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.1.2: Vorstellung des Messprojekts an der Tegernseer Landstraße zur Reduzierung NO2 Belastung
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Orchester Münchner Musikfreunde e.V. Ausgaben für Durchführung u. Organisation von Proben u. Konzerten vom 23.11.2021 - 22.11.2022 19.125,00 €; Az. 0262.0-18-0265
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Initiative „Bodenpiktogramm“ Bodenpiktogramm Oberbibergerstr. (Forststraße) ab April 2022 1.725,00€; Az. 0262.0-18-0266
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Elternbeirat Grundschule Fromundstraße 5 Ausstattung unseres Pausenhofs mit Spielgeräten für Bewegungspausen vom 10.01.-29.07.2022 5.000,00€; Az. 0262.0-18-0273
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Initiative „Am Wasser gebaut“ Buch: „Untergiesing – am Wasser gebaut“ ab 01.03.2022 5.418,50€; Az. 0262.0-18-0268
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: Schaffung von Orten mit Aufenthaltsqualität für ältere Kinder und Jugendliche im öffentlichen Raum im Stadtbezirk; Bürgervorschlag zur Bestellung städtischer Leistungen
+- TOP 3.1.3.2.: Buchprojekt "Untergiesing. Am Wasser gebaut"; Bürgeranliegen
+- TOP 3.1.3.3.: TOPO Box Geiselgasteigstraße Höhe Schilcherweg; Grünen-Antrag für Budgetmittel (Städtische Leistungen)
+- TOP 3.1.3.4.: Kinderschaukel am Hochkalterspielpatz; Antrag Grüne/SPD zur Bestellung städtischer Leistungen aus dem Stadtviertelbudget
+- TOP 3.1.3.5.: Finanzierung eines Kinderstadtplans über das Stadtviertelbudget; Antrag Grüne/SPD
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.4.1.: Gans Kreativ GmbH - Bau eines Tragarms zur Ausübung zeitgenössischen Zirkusses: Veränderte Kostenverteilung
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: (U) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP 3.1.6.2.: Budgetbescheide
+- TOP 3.1.7: Sonstiges
+- TOP 3.1.7.1.: (E) Stadtbezirksbudget Münchner Konzertchor e.V. Konzert und Kinderkonzert „J.S. Bach Weihnachtsoratorium“ am 04.12.2021 2.340,00€; Az. 0262.0-18-0271
+- TOP 3.1.7.2.: (E) Stadtbezirksbudget Gans Kreativ GmbH - Ganswoanders Kulturprogramm Adventszeit Gans woanders vom 25.11.-31.12.2021 10.770,00€; Az. 0262.0-18-0274
+- TOP 3.1.7.3.: (E) Stadtbezirksbudget Freundeskreis Theodolinden-Gymnasium Corona-Folgen ausgleichen, Ansteckung vermeiden von Januar – Dezember 2022 4.987,75€; Az. 0262.0-18-0275
+- TOP 3.1.7.4.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur Mädchen an den Ball! Vom 01.01.-31.12.2022 7.980,00€; Az. 0262.0-18-269
+- TOP 3.2: UA Mobilität
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Schyrenstr.: Neuer Radweg; Bürgeranliegen
+- TOP 3.2.3.2.: Gehwegparken; Bürgeranliegen
+- TOP 3.2.3.3.: Verkehrswege in den Isarauen; Bürgeranliegen
+- TOP 3.2.3.4.: Verkehrssituation Tierparkbrücke; Bürgeranliegen
+- TOP 3.2.3.5.: Rad- und Fußgängerbereich Tierparkberg: eindeutige Bereichsbegrenzung; CSU-Antrag
+- TOP 3.2.3.6.: Zwei Warn-Schilder: Hochleite am nördlichen Ende, vor der 90° Kurve in der Einbahnstraße (Räder erlaubt) und Beginn der Lindenstrasse; CSU-Antrag
+- TOP 3.2.3.7.: Säbener Str.: Parksituation; Bürgeranliegen
+- TOP 3.2.3.8.: Geschwindigkeitsreduzierung auf der Siebenbrunner- und Tierparkstraße; Bürgeranliegen
+- TOP 3.2.3.9.: Südtiroler Str.: Ampelschaltung; Bürgeranliegen
+- TOP 3.2.3.10.: Schließung der Radweglücke an der Tegernseer Landstraße; Grünen-Antrag
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Handlungsprogramm Mittlerer Ring
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Ein- und Ausstiegssituation bei Bussen in Verbindung mit dem Radverkehr
+- TOP 3.2.5.2.: Verkehrsführung Seyboth-/Naupliastraße Harlaching nach diversen neuen Bauten
+- TOP 3.2.5.3.: Radwegverbindung Candidplatz und Paula-Herzog-Weg; SPD-Antrag
+- TOP 3.2.5.4.: Fahrradpumpen am Verkehrsknotenpunkten Wettersteinplatz errichten; Antrag der SPD
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Schienenschleifarbeiten von Candidplatz bis Mangfallplatz
+- TOP 3.2.6.2.: Angebotsänderung bei der MVG
+- TOP 3.2.6.3.: Austausch der Lichtsignalanlage am Knotenpunkt Grünwalder-/Südtiroler Str.
+- TOP 3.2.6.4.: Radweg auf der Hochleite zwischen Großhesseloher Brücke und Nördlicher Münchner Straße
+- TOP 3.2.6.5.: Vollmarstr 2: Verkehrsaufsichtliche Erlaubnis mit Vollsperre
+- TOP 3.2.6.6.: Austausch einer Lichtsignalanlage am Standort Grödner-/ Grünwalder Str.
+- TOP 3.2.6.7.: Entscheidungsvorschlag zur künftigen Raumaufteilung der St.-Magnus-Straße (Stadtbezirk 18) Grundsatzbeschluss, Verkehrsführung und Raumaufteilung Sitzungsvorlage Nr. 20-26 / V 03604 Senatsbeschluss des Mobilitätsausschusses vom 13.10.2021 TOP 6 Antrag Nr. 20-26 / A 02037 der CSU-Fraktion und der FDP BAYERNPARTEI Stadtratsfraktion
+- TOP 3.2.6.8.: Humboldtstr.: verkehrsrechtliche Anordnung zum Verkehrsversuch Tempo 30
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Umwelt und Klimaschutz
+- TOP 3.3.1: Bericht
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Anhörungen (Baumfällungen): - Mangfallstr. 14 - Mangfallstr. 19-21 - Prößlstr. 28 - Prößlstr. 30 - Waldschmidtstr. 3 - Eschenstr. - Resedenweg - Lorenzonistr. 5 - Tauernstr. 7 - Rabenkopfstr. 26 - Maukestr. 2 - Theodolindenstr. 33 - Ehlersstr. 18 - Pechdellerstr. 15 - Grünwalder Str. 101 - Geiselgasteigstr. 44 - Geiselgasteigstr. 82 - Geiselgasteigstr. 104 - Söltlstr. 4
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Tiroler Platz: Ablehnung Baumfällung
+- TOP 3.3.6.2.: Meraner Str. 3: Baumfällung
+- TOP 3.3.6.3.: Eschenstr.: Fällung Gefahrenbaum
+- TOP 3.3.6.4.: Humboldtstr. 28: Baumfällungen
+- TOP 3.3.6.5.: Wettersteinstr. 9: Baumfällung
+- TOP 3.3.6.6.: Schilcherweg 5: Baumfällung
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Soziales, Bildung und Gesundheit
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Lärmbelästigung Isarauen; Bürgeranliegen
+- TOP 3.4.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.3.: Schulsozialarbeit an der Grundschule Fromundstraße; Antrag Grüne/SPD
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Pilgersheimer Str.: Kosten für öffentliche Toiletten
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 3.4.6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.1: Bericht
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Bauvorhaben "Dreifachturnhalle nebst Geschäftsstelle und Parkhaus" des TSV 1860; Bürgeranliegen
+- TOP 3.5.3.2.: Autharistr. 20: Bauvorhaben; Bürgeranliegen
+- TOP 3.5.3.3.: Ecke Voß/Cannabichstr.: Schließung des Ecklokals „Fiedler und Fuchs“; Bürgeranliegen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Steingadener Str. 38: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.5.4.1.2.: Harlachinger Str. 51: Erweiterungsmöglichkeiten der Klinik - VORBESCHEID
+- TOP 3.5.4.1.3.: Meichelbeckstr. 32: Errichtung eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Tiroler Platz: Bürgersteigabsenkung im Gleisbereich der Haltestellen; CSU-Antrag
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 3.5.6.2.: (U) Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße" Teilaufhebung der Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes "Tegerseer Landstraße / Chiemgaustraße" Stadtbezirk 17 - Obergiesing-Fasangarten Stadtbezirk 18 - Untergiesing-Harlaching
+- TOP 3.5.6.3.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 3.5.6.4.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 3.5.6.5.: (U) Perspektive München als Steuerungsinstrument....
+- TOP 3.5.6.6.: Bauvorhaben TSV 1860
+- TOP 3.5.6.7.: SWM Baumaßnahme: Strom-Projekt Harthauser Straße
+- TOP 3.5.6.8.: Rabenkopfstr. 7: Neubau zweier Mehrfamilienhäuser mit Tiefgarage
+- TOP 3.5.6.9.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Kultur, Sport und Vereine
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: BA-Vorlage für neuen Christbaumverkauf am St.-Quirin-Platz
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Sachsenstraße/Claude-Lorrain-Straße als Standort für die Statue "Resi Stenzia"; Bürgeranliegen
+- TOP 3.6.3.2.: Green City e.V.: Petition für eine dauerhafte Baumbegrünung in der Unteren Weidenstraße
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: Fromundstraßenfest am 08.10.2021
+- TOP 3.6.6.2.: Grünanlage Oberbiberger Str.: Circus Sorento vom 15.10. - 24.10.2021
+- TOP 3.6.6.3.: Laurinplatz: Ausnahmegenehmigung für gemeinnützigen Flohmarkt an der Emmauskirche vom 16.10 - 18.10.2021
+- TOP 3.6.6.4.: Grünanlage Vollmarpark: Ausnahmegenehmigung für das Straßentheater PLAN B aus München für München am 16.10.2021
+- TOP 3.6.6.5.: Grünanlage Karolinger Allee: Ausnahmegenehmigung für St. Martinsfeier - Biene Maja Kindergarten am 11.11.2021
+- TOP 3.6.6.6.: Eilentscheidung: Weihnachtsmarkt auf dem Mangfallplatz vom 26.11 - 28.11.2021
+- TOP 3.6.6.7.: Hans-Mielich-Platz: Eilentscheidung zur Lichteraktion mit 500 Kerzen Caritas International "Eine Million Sterne 2021" am 13.11.2021
+- TOP 3.6.6.8.: Spielen in der Stadt e.V.: Planung der mobilen Kunst-Spiel-Aktionen 2022 und 2023
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
