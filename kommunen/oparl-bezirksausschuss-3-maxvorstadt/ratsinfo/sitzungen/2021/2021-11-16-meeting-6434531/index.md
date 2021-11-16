@@ -1,0 +1,130 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6434531
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6434531
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Fahrbahnverengung und -verschmutzung durch die Baustelle in der Türkenstraße
+- TOP 6.2.: Zwischennachricht Radkonzept für die Arnulfstraße
+- TOP 6.3.: Radkonzept für die Arnulfstraße - BA-Antrag Nr. 20-26 / B 00404 des BA 3 Schreiben an Augustiner-Keller z.K.
+- TOP 6.4.: Fehlende Poller und Wildparker am Rudi-Hierl-Platz Antwortschreiben an Bürger
+- TOP 6.5.: Neue Curb für den Maßmannskatepark
+- TOP 6.6.: Mülleimer für Bank Lothstraße
+- TOP 6.7.: Gesamtkonzept für den Odeonsplatz
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Haus in der Zieblandstraße 11
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 31.10.2021 Ausverkauf der Maxvorstadt verhindern: Leerstand Mehrfamilienhaus Schraudolphstraße 30
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 39, 40, 41 und 42
+- TOP 2.1.2.: WEB-Listen der LBK: KW 40-43
+- TOP 2.1.3.: 2.1.3 Theresienstraße 158,Neuerrichtung des Daches mit Gauben und Rekonstruktion bauzeitliche Traufe, sowie Speicherausbau zu Wohnungsnutzung, Anbau Balkone und Aufzug a) Bauvorhaben b) Freiflächengestaltungsplan
+- TOP 2.1.4.: Luisenstraße 64, ABBRUCH (für Neubau eines RG mit TG)
+- TOP 2.1.5.: Augustenstraße 33a, Aufstockung und Nutzungsänderung eines Gewerbegebäudes in ein Wohn- und Geschäftshaus- VORBESCHEID
+- TOP 2.2: BV Empfehlung
+- TOP 2.2.1.: Einstellung der Arbeiten am Bebauungsplan Nr. 2140 Empfehlung Nr. 20-26 / E 00126 der Bürgerversammlung
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Baumfällung Sandstr. 37 +39
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 5.2.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 5.3.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 5.4.: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 5.5.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 5.6.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 5.7.: Vorkaufsrecht nach dem BauGB, Tengstraße
+- TOP 5.8.: SWM Baumaßnahme Fernwärme-Projekt Reha Karlstraße - BA 3 (Maxvorstadt)
+- TOP 5.9.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 18.10.2021
+- TOP 5.10.: Bescheid Baumfällungen Schellingstr. 145-147
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Verunreinigungen an der Alten Pinakothek und der Pinakothek der Moderne
+- TOP 1.1.2.: Baustelle Schleißheimer Straße
+- TOP 1.1.3.: Anliegen Verkehrsberuhigung Sandstraße 32
+- TOP 1.1.4.: Nachklapp IAA aus Sicht einer Anwohnerin Bürgeranliegen vom 06.10.2021
+- TOP 1.1.5.: entfällt
+- TOP 1.1.6.: Baustelle Nymphenburger Str., ehem. CSU Sitz
+- TOP 1.1.7.: Parksituation Isabellastraße und Isabella- /Ecke Neureutherstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag SPD vom 02.11.2021 Radweg Oskar-von-Miller-Ring
+- TOP 1.2.2.: Antrag SPD vom 02.11.2021 Christbaum am Josephsplatz
+- TOP 1.2.3.: Antrag SPD vom 27.10.2021 Flutlicht im Maßmannpark
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Neubau von Lichtsignalanlagen: a) Gabelsbergerstraße / Oskar-von-Miller-Ring b) Gabelsbergerstraße / Türkenstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kurfürstenstr. 4, Aufstellen einer neuen Verkaufseinrichtung (Kleiderständer)
+- TOP 2.2.2.: (E) Verbot des Mitführens und des Benutzens von mobilen Audioanlagen ab 20 Uhr
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Freischankflächenantrag am Parkplatz- Schellingstr. 15
+- TOP 2.3.2.: Ausdehnungsantrag FSF, Hiltenspergerstr. 8
+- TOP 2.3.3.: (E) Stärkere Polizeipräsenz gegen "Ballermannisierung"
+- TOP 2.3.4.: (E) Maßnahmen zum Schutz der Nachtruhe der Anwohner*innen
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 2.5.1.: Bericht vom Ortstermin Nachtspaziergang am 26.10.
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Bericht über die IAA-Mobility 2021 Keine öffentlichen Plätze mehr für kommerzielle Großmessen Antrag Nr. 20-26 / A 01883 von der Fraktion ÖDP/München-Liste vom 14.09.2021 Wie teuer kam die IAA der Landeshauptstadt München? Antrag Nr. 20-26 / A 01942 von der Fraktion ÖDP/München-Liste, Stadtratsfraktion DIE LINKE. / Die PARTEI vom 21.09.202
+- TOP 3.2.: Neubau HBF_Vorlage Fahrradparken
+- TOP 3.3.: Aufhebung Glasbehältnisverbote zum 29.10.2021 (24 Uhr)
+- TOP 3.4.: Theresienstraße - Radfahrstreifen vAO
+- TOP 3.5.: Fahrradabstellplätze in der Augustenstr. 116 vAO
+- TOP 3.6.: Planfeststellungsverfahren 2. Stammstrecke 3. Planänderung PFA 1
+- TOP 3.7.: Straßenbenennung nach Dr. Dr. Franz-Xaver Schweyer
+- TOP 3.8.: Neubau HBF, Machbarkeitsuntersuchung zu Fahrradparken Ergänzung
+- TOP 3.9.: Unterrichtung überunveränderte Fortführung von Gaststättenbetrieben a) Dachauer Str. 28, b) Türkenstr. 38
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein Schwindschule e.V. Lernförderung und Hausaufgabenbetreuung an der Grundschule an der Schwindstraße 6.660,00 Euro, Az.: 0262.0-3-0372
+- TOP 2.2.: (E) Stadtbezirksbudget Sozialdienst katholischer Frauen München e.V. Erklärfilme zum Abbau von Zugangshürden vom 01.01. - 31.12.2021 9.620,60 Euro, Az.: 0262.0-3-0373
+- TOP 2.3.: Spielen in der Stadt e.V.: Planung der Einsätze der POP UPS: mobile Kunst-Spiel-Aktionen 2022 und 2023
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: BA-Informationsschreiben 05/2020 Durchführung eigener Veranstaltungen
+- TOP 1.2.: Informationsschreiben BA 05 / 2021: Änderung der Geschäftsordnung, Maskenpficht, 3 G plus-Vorgaben
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
