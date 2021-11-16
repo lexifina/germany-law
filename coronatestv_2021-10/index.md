@@ -6,7 +6,7 @@
 - [§ 2 Testungen von Kontaktpersonen](0002.md)
 - [§ 3 Testungen von Personen nach Auftreten von Infektionen in Einrichtungen und Unternehmen](0003.md)
 - [§ 4 Testungen zur Verhütung der Verbreitung des Coronavirus SARS-CoV-2](0004.md)
-- [§ 4a Testungen bei impfunfähigen und abgesonderten Personen](0004a.md)
+- [§ 4a Bürgertestung](0004a.md)
 - [§ 4b Bestätigende Diagnostik- und variantenspezifische PCR-Testung](0004b.md)
 - [§ 5 Häufigkeit der Testungen](0005.md)
 - [§ 6 Leistungserbringung](0006.md)

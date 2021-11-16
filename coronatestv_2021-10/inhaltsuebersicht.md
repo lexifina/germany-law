@@ -4,7 +4,7 @@
 | § 2 | Testungen von Kontaktpersonen |
 | § 3 | Testungen von Personen nach Auftreten von Infektionen in Einrichtungen und Unternehmen |
 | § 4 | Testungen zur Verhütung der Verbreitung des Coronavirus SARS-CoV-2 |
-| § 4a | Testungen bei impfunfähigen und abgesonderten Personen |
+| § 4a | Bürgertestung |
 | § 4b | Bestätigende Diagnostik- und variantenspezifische PCR-Testung |
 | § 5 | Häufigkeit der Testungen |
 | § 6 | Leistungserbringung |
