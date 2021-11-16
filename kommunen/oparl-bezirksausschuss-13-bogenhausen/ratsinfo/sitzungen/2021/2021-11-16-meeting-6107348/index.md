@@ -1,0 +1,166 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2021-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6107348
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6107348
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 12.10.2021
+- TOP 1.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.4.: Umbesetzung in den Unterausschüssen
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Flughafenanbindung - viergleisiger Ausbau der Strecke Daglfing-Johanneskirchen, Sachstandsbericht (Anträge und Empfehlungen) - Entwurf der Beschlussvorlage; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.2.: Beschlussentwurf zum Münchner Nordosten; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.3.: SEM Nordost: Antragskatalog der SPD-Fraktion - SEM Nord - Ost auf höherem Geländeniveau planen - Benennung der Straßen, Wege und Plätze mit Frauennamen im Gebiet der SEM Nordost - SEM München Nord - Ost: Ausarbeitung eines modernen Beleuchtungssystems mit Einsatz von LED -Straßenleuchten - Zwingende Zusammenarbeit mit den angrenzenden Gemeinden Unterföhring und Aschheim - SEM - Gebiet Nord - Ost: Bewerbung um die Gartenschau im Rahmen der IGA ab 2029 - SEM München Nord - Ost: Forderung einer abwechslungsreichen Architektur - Keine direkten und schnellen Durchfahrtstraßen durch das SEM-Gebiet - SEM-Gebiet Nord-Ost: Planung von Schulen und Kitas mit der Option späterer Aufstockungsmöglichkeit - SEM Nord-Ost: Planung der U-Bahn-Verlängerung über das SEM-Gebiet hinaus zur Messe Riem - SEM München Nord-Ost: Einrichtung eines Hundestrands am geplanten Badesee - Pläne in für Bürgerinnen und Bürger nachvollziehbarer und lesbarer Form - SEM Nord-Ost: Einplanung von Stellplätzen für Wohnmobile und Wohnwägen (dauerhaft und temporär)
+- TOP 2.2.4.: Possartstr. 11 - Neubau eines Wohngebäudes mit Tiefgarage; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.5.: Lamontstr. 25 - Umbau und Sanierung eines Wohnhauses, Einbau einer Aufzugsanlage sowie Einbau einer Tiefgarage mit 2 Stellplätzen; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.6.: Rominter Str. 2-4 - Neubau einer Doppelhaushälfte mit Tiefgarage (DHH 2); Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.7.: Undinestr. 1 - Errichtung eines 3-Spänners mit Garagen; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.8.: Musenbergstr. 25 - Unterbringung von Flüchtlingen - Nutzungsänderung: Beherbergungsbetrieb zu AnkER Dependance - TEKTUR zu 1.1-2021-4138-31; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.9.: Freischützstr. 9 - Nutzungsänderung und Umbau eines Büros zu einem Beherbergungsbetrieb mit 4 Räumen und 12 Betten; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.10.: Donaustr. 2 - Neubau zweier Mehrfamilienhäuser mit Tiefgarage (Donaustr. 2 / Scheinerstr. 10) -VORBESCHEID; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.11.: Adalbert-Stifter-Str. 15 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage - VORBESCHEID; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.12.: Dirschauer Str. 53 - Abbruch eines Einfamilienhauses und Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.13.: St. Emmeram 32a - Neubau eines Einfamilienhauses mit Garage, Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.15.: Baubeginn Gebäude integrierte Einrichtung für Herbst 2022 sicherstellen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.2.16.: Viergleisiger Ausbau der Bahnstrecke von Zamdort nach Johanneskirchen Bahntunnel bis zur Stadtgrenze verlängern; Bürgeranliegen
+- TOP 2.2.17.: Einwände gegen das Bauvorhaben Gotenstr. 3; Bürgeranliegen
+- TOP 2.2.18.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.19.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Ideen für die alte Buswendeschleife an der Stuntz-/Ecke Walpurgisstraße - Vorstellung durch die "Initiative Walpurgisplatz"
+- TOP 2.3.2.: Poschingerstraße/ Ecke Thomas-Mann-Allee: Antrag für einen Christbaumverkaufsplatz; Entscheidung des BA 13
+- TOP 2.3.3.: Fritz-Meyer-Weg 55 / Ecke Cosimastr. (Grünfläche auf Privatgrund bei Edeka-Markt): Antrag für einen Christbaumverkaufsplatz; Entscheidung des BA 13
+- TOP 2.3.4.: Savitstraße südlicher Teil: Einführung von Tempo 20; Anhörung des Mobilitätsreferats
+- TOP 2.3.5.: Einrichtung einer Halteverbotszone im Kurvenbereich der Wesendonkstraße; Antrag der SPD-Fraktion
+- TOP 2.3.6.: Überprüfung der Streckenführung der Buslinie X 30 – Fragenkatalog an die MVG; Antrag der SPD-Fraktion
+- TOP 2.3.7.: Markierung des Fahrradweges an der Einmündung der Schumannstraße auf die Prinzregentenstraße; Antrag der CSU-Fraktion
+- TOP 2.3.8.: Querungshilfe in der Weltenburger Straße/ Ecke Revaler Straße deutlich sichtbar machen; Antrag der SPD-Fratkion
+- TOP 2.3.9.: Ampelschaltung für den Fahrradweg der Tivolistraße auf die Max-Joseph-Brücke ändern; Antrag der SPD-Fraktion - Schreiben des BA 1
+- TOP 2.3.10.: Erweiterung der Tempo 30-Zone um den östlichen Bereich der Englschalkinger Str. - ab Grundschule Ostpreußenstraße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.11.: Kreuzung Prinzregentenstraße / Vogelweidestraße: Fehlende Fußgängerampel; Bürgeranliegen
+- TOP 2.3.12.: Verkehrssituation in der Geibel- und Kopernikusstraßer: Anbringung von Bodenmarkierungen und Verkehrsschilder; Bürgeranliegen
+- TOP 2.3.13.: Blockierungen durch parkende Autos in der Kufsteinerstraße; Bürgeranliegen
+- TOP 2.3.14.: Siedlung Steinhausen: Aufstellung von Schildern "Achtung Kindergarten" und Errichtung von Ladesäulen an den Parkbuchten der Weltenburger Straße; Bürgeranliegen (Anträge Nr. 1 und 2)
+- TOP 2.3.15.: Dauerabstellplatz Wohnmobile im Bereich Bundesfinanzhof; Bürgeranliegen
+- TOP 2.3.16.: Kontrollen im Parklizenzgebiet Alt Bogenhausen; Bürgeranliegen
+- TOP 2.3.17.: Freischützstraße auf Höhe der Bushaltestelle Grimmeisenstraße: Errichtung eines Fußgängerüberwegs; Bürgeranliegen
+- TOP 2.3.18.: Autoverkehr auf dem Maria-Nindl-Platz; Bürgeranliegen
+- TOP 2.3.19.: Übergang in der Weltenburger Straße, Höhe Grünanlage Pühnstraße; Bürgeranliegen
+- TOP 2.3.20.: Prinz Eugen Park: Taktverdichtung der Trambahn nach 20 Uhr von 20 auf 10 Minuten (und nach 22 Uhr alle 20 Minuten) / Ausweitung der Anbindung durch den 184er Bus (Bruno-Walter-Ring); Bürgeranliegen
+- TOP 2.3.21.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.22.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Think Future Bogenhausen e.V. "Digitale Medien & Du!" Bogenhausen macht sich fit für die Zukunft vom 01.01. - 31.03.2022 8.793,00 €; Az. 0262.0-13-0302 - Vorstellung durch den Antragsteller im Unterausschuss -
+- TOP 2.4.2.: (E) Stadtbezirksbudget Media Future Team GbR Dokumentarfilm „Schwabinger Geschichte(n)“ Teil I vom 02.10.2021 – 01.10.2022 3.007,50 €/ Az. 0262.0-13-0300
+- TOP 2.4.3.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e.V. GMU-Adventsdult "Australien - Twins on Tour" am 20.11.2021 1.689,00 €, Az. 0262.0-13-0301
+- TOP 2.4.4.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Anteilige Personalkosten für das Unterprojekt "Infobus für Flüchtlinge" vom 01.01. - 31.12.2022 5.311,95 €; Az. 0262.0-13-0303
+- TOP 2.4.5.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse Antrag der Initiative "Die Bäume zum Himmel" - Nachträgliche Erhöhung; Anhörung des Direktoriums
+- TOP 2.4.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.7.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Erweiterung der Helen-Keller-Realschule, Erneuerung der Bezirkssportanlage; Fürkhofstraße/Johanneskirchener Straße - Vorbescheidsantrag; - Vorstellung durch das Referats für Bildung und Sport -
+- TOP 2.5.2.: Planung der Einsätze der POP UPS: mobile Kunst – Spiel – Aktionen 2022 und 2023 Mehr Spiel- und Freiräume für die Kinder und Jugendlichen ihres Bezirks; Schreiben von "Spielen in der Stadt e.V."
+- TOP 2.5.3.: Erneuerung Kinderspielplatz Regensburger Platz – Ortstermin
+- TOP 2.5.4.: Ganztagssituation im 13. Stadtbezirk – Sachstandsabfrage
+- TOP 2.5.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.6.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Baumfällungen: Wacholderweg 4a Gröbenstr. 15 Truderinger Str. 10 Gurnemanzstr. 4 Laplacestr. 28a Keplerstr. 4 Mauerkircherstr. 72 Pienzenauerstr. 128 Ruth-Drexel-Str. Wernerstr. 6 Turfstr. 25 Flemingstr. 45 Oberföhringer Str. 98 Törringstr. 4 Vollmannstr. 45 Posener Str. 66 Am Eicherhof Elektrastr. 13
+- TOP 2.6.2.: Errichtung einer Hundespielwiese, alternativ Freilauffläche; Antrag der SPD-Fraktion
+- TOP 2.6.3.: Baumausgleichsflächen: 100% Baumersatz im Stadtbezirk auf speziell vorgesehenen Flächen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.4.: Englschalkinger Anger – ein richtiger Name für das Grüne Band; Bürgeranliegen
+- TOP 2.6.5.: Siedlung Steinhausen: Grünfläche Weltenburger-/Moselstraße zu blühende Wiese; Bürgeranliegen (Antrag Nr. 3)
+- TOP 2.6.6.: Sitzbänke im und um den Prinz-Eugen-Park; Bürgeranliegen
+- TOP 2.6.7.: Anderer Ort für Altglas-Container Elektrastraße; Bürgeranliegen
+- TOP 2.6.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.9.: Verschiedenes, Termine
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Nachtspaziergang; Schreiben des Baureferats
+- TOP 2.7.2.: Projekt Mädchen an den Ball - Vorstellung erwünscht?
+- TOP 2.7.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.4.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 5.1.: "Breitbandgipfel“ zum Ausbau des Glasfasernetzes veranstalten; Antrag der Fraktion ÖDP/DaCG
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Grundschulversorgung im 13. Stadtbezirk erweitern und beschleunigen
+- TOP 6.2.: Neugestaltung Straßenführung Johanneskirchen Hauptplatz
+- TOP 6.3.: DU Klausenburgerstrasse I : Abschließbare Türen an den Duschen im Keller installieren
+- TOP 6.4.: DU Klausenburgerstrasse II : Mit einem Sicherheitstor die Zufahrt und Zugang zur DU sichern und die Kinder schützen
+- TOP 6.5.: DU Klausenburgerstrasse III : Sofortiger Ausbau der ungepflegten Hofanlagen um die DU Klausenburgerstr. 2-6 zu attraktiven Spielorten für die Flüchtlingskinder
+- TOP 6.6.: Inklusion ernst genommen: Zugang auch für gehbehinderte Menschen zur Gartenwirtschaft NO17 „Finnerl&#039;s Gartenoase“
+- TOP 6.7.: Sanierung der Wassernetze in Kleingartenanlagen: Wasserentnahmestellen bedarfsgerecht errichten
+- TOP 6.8.: Unterflurcontainer (UFC) Prinz-Eugen-Park: Einbauzusage durch städtische Finanzierung einhalten
+- TOP 6.9.: Fußgängerüberweg Effnerstraße auf Höhe Wahnfriedallee
+- TOP 6.10.: Oberföhringer Straße: Hinweisschild, dass Nutzung der Straße durch Radfahrer erlaubt ist; Antwort des MOR auf Bürgeranliegen
+- TOP 6.11.: Installation der Behelfsampel an der Autobahnausfahrt Zamdorf, Eggenfeldener Straße / Eggenfeldener Straße (zwischen Süskindstraße Lüderitzstraße): Installation von sechs Zusatzschilder mit dem Hinweis "Radfahren auf der Fahrbahn erlaubt"; Bürgeranliegen (beschlossen am 21.09.2021); Antwort des Mobilitätsreferats
+- TOP 6.12.: Abmontieren des Hinweisschildes „Radfahren auf der Fahrbahn erlaubt" auf der Eggenfeldener Str.; Bürgeranliegen (beschlossen am 21.09.2021); Antwort des Mobilitätsreferats
+- TOP 6.13.: Vorsichtsmaßnahmen an der Querung Cosimastraße Höhe Salzsenderweg
+- TOP 6.14.: Lärm durch Tischtennisspielen im Pühnpark
+- TOP 6.15.: Pilotprojekt Unterflurcontainer für die Wertstoffinsel Delpstraße
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: (U) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP 7.1.2.: Evaluierung der Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP 7.1.3.: Änderung der BA-Geschäftsordnung (Maskenpficht, 3 G plus-Vorgaben) - Informationsschreiben
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen
+- TOP 7.3: RGU
+- TOP 7.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.2.: Oberföhringer Str. 21: Neubau eines Wohnhauses mit Tiefgarage - Vorbescheid (Abdruck Baugenehmigung)
+- TOP 7.7.3.: (U) Perspektive München als Steuerungsinstrument....
+- TOP 7.7.4.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 7.7.5.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 7.7.6.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 7.7.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.8.: Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 7.9: Soz.Ref.
+- TOP 7.9.1.: Vollzug der Zweckentfremdungssatzung: - Hoyerweg 14 - Elsastr. 12 - Rominter Str. 2 + 4
+- TOP 7.9.2.: (U) Strategie Flüchtlingsunterbringung 2022 - 2026, Betriebsführung von dezentralen Unterkünften 1. Stadtbezirk - Altstadt-Lehel 6. Stadtbezirk - Sendling 10. Stadtbezirk - Moosach 12. Stadtbezirk - Schwabing-Freimann 13. Stadtbezirk - Bogenhausen 16. Stadtbezirk - Ramersdorf-Perlach 19. Stadtbezirk - Thalkirchen-Obersendling- Forstenried-Fürstenried-Solln 22. Stadtbezirk - Aubing-Lochhausen-Langwied 24. Stadtbezirk - Feldmoching-Hasenbergl 25. Stadtbezirk - Laim
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.12.1.: (U) Bericht über die IAA-Mobility 2021 Keine öffentlichen Plätze mehr für kommerzielle Großmessen Antrag Nr. 20-26 / A 01883 von der Fraktion ÖDP/München-Liste vom 14.09.2021 Wie teuer kam die IAA der Landeshauptstadt München? Antrag Nr. 20-26 / A 01942 von der Fraktion ÖDP/München-Liste, Stadtratsfraktion DIE LINKE. / Die PARTEI vom 21.09.202
+- TOP 7.13: MVG
+- TOP 7.13.1.: Verbindung Arabellapark/Cosimabad zum Bahnhof Englschalking; Bürgeranliegen - Antwort der MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Mobilitätsreferat
+- TOP 7.15.1.: Anordnung von Haltverboten in der Musenbergstraße am S-Bahnhof Johanneskirchen zur Verbesserung des Linienbusverkehrs im Bereich der Buswendeschleife
+- TOP 7.15.2.: Mauerkircher-/ Poschingerstr.: Austausch einer Lichtsignalanlage
+- TOP 7.15.3.: Autoverkehr vor der Grundschule an der Oberföhringer Straße 224; Bürgeranliegen und Antwort des MOR
+- TOP 7.15.4.: Lärmstörung in der Nacht durch Reparaturen an E-Rollern; Antwort des Mobilitätsreferats auf ein Bürgeranliegen
+- TOP 7.16: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 8.4.1.: Einladung zu "Erinnerungszeichen zum Gedenken an Kitty und Rupprecht Neustätter" am Donnerstag, 25. November 202, 13.30 Uhr, Prinzregentenstraße 83
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.14.: Baumfällungen zu Bauvorhaben: Rennbahnstr. 42 Possartstr. 11 Lamontstr. 25 Rominter Str. 2-4 Adalbert-Stifter-Str. 15 St. Emmeram 32a Gumppenbergstr. 1 (vertagt) Düppeler Str. 17 Steinhauser Str. 31 Flemingstr. 38 Teutonenstr. 23 Evastr. 3
+- TOP 7.7.1.: Baumfällungen (Unterrichtungen): Westpreußenstr. 67 Cosimastr. 204 Hofererweg 1 a - 1 f LSG Isarauen Richard-Strauss-Str. 82 Steinhauser Str. 34-54 Düppeler Str. 18 Barlowstr. 20
