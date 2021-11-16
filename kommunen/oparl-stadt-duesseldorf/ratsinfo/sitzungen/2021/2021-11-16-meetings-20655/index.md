@@ -1,0 +1,64 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-16T16:11:00+01:00
+- Ende: 2021-11-16T21:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20655
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20655
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430053.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430053.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430053.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 4: Pilotprojekt Düsseldorfer QRator (Mdl. Bericht) - zur Kenntnis genommen
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: RRX-Planung im Abschnitt PFA 2.1 (Mdl. Bericht Verwaltung) - zur Kenntnis genommen
+- TOP 5.2: Regionalhalt Bilk und Bahnhofsumfeldverbesserung (Mdl. Bericht Verwaltung) - zur Kenntnis genommen
+- TOP 5.3: Neubau des Technischen Verwaltungsgebäudes (TVG) - Auslobungsbeschluss - - zur Kenntnis genommen
+- TOP 5.4: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2022 - Empfehlung mehrheitlich beschlossen
+- TOP 5.5: Fußgängerbrücke über die Hafeneinfahrt, BW 8039 – Ertüchtigung zur weiteren Nutzung durch Radfahrende - Empfehlung abweichend beschlossen
+- TOP 5.6: Nord-Süd-RadRoute, von Alte Flughafenstraße bis Südring -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2021 - einstimmig beschlossen
+- TOP 7.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Auswirkungen über die Einigung der Stadt Düsseldorf mit der Umwelthilfe (Anfrage der SPD-Fraktion) - vertagt
+- TOP 8.1.4: Gestaltung Bahnunterführung Ellerstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.5: Fußweg zwischen Moorenplatz und Christophstraße (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.1.6: Stellplätze für Fahrräder auf der Fleher Str. / In der Hött (Anfrage Fraktionen BÜNDNIS 90 / DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.7: Umbau und Aufzug Regionalhalt Bilk-S (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.8: Zustand des Parkplatzes Südfriedhof (Anfrage FDP) - zur Kenntnis genommen
+- TOP 8.1.9: Haus Kolvenbach - Zustand und geplante Nutzung (Anfrage FDP) - vertagt
+- TOP 8.1.10: Sachstand Fördermittelbeantragung (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Wie ist der Stand des Projekts „Neubau des Luisen Gymnasiums“ auf dem Areal südl. auf ´m Tetelberg? (Anfrage DIE LINKE) - vertagt
+- TOP 8.2.2: Flächen zur Entsiegelung (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.2.3: Nutzung der Brachfläche hinter dem Amtsgericht in Oberbilk. (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 8.2.4: Benennung Kesselwerkstraße (Anfrage CDU-Fraktion) - zur Kenntnis genommen
+- TOP 9: Anträge
+- TOP 9.1: Fahrradpiktogramme auf der Volmerswerther Straße (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - mehrheitlich beschlossen
+- TOP 9.2: Kölner Straße - Baumscheiben, Mülleimer und unebene Fahrbahndecken (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Trinkbrunnen im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 10.2: Projekt Brückengalerie - zur Kenntnis genommen
+- TOP 10.3: Blühwiese Kirchplatz - zur Kenntnis genommen
+- TOP 10.4: Radverkehr auf der Scheurenstraße - zur Kenntnis genommen
+- TOP 10.5: Synchronisation der Aufzüge im Bürgerhaus Bilk - zur Kenntnis genommen
+- TOP 10.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.7: Gehwegparken Merkurstraße - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
