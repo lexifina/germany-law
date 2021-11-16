@@ -1,0 +1,134 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2021-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6224378
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6224378
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Sachstand Braganzastraße / Hanebergstraße
+- TOP 3.2.2.: Kreuzung Merianstraße / Hübnerstraße / Dom-Pedro-Straße
+- TOP 3.2.3.: Portal "Mach München besser!" um die Möglichkeit zur Meldung von Fahrradruinen erweitern
+- TOP 3.2.4.: Sicherheit für Fußgänger*innen und Radfahrer*innen auf der Donnersberger Brücke erhöhen
+- TOP 3.2.5.: Evaluierung der Sommerstraßen
+- TOP 3.2.6.: Auslieferungslager Gorillas Lothstraße 3
+- TOP 3.2.7.: Nibelungenstraße als Abstellplatz für Großlaster
+- TOP 3.2.8.: Parksituation in der Sustris-/Guntherstraße und der Hirschgartenallee
+- TOP 3.2.9.: Rollerständer vor der Hirschbergschule
+- TOP 3.2.10.: Verkehrssicherheit an der Hirschbergstraße
+- TOP 3.2.11.: Verbesserung der Radwegsicherheit Waisenhaus-/Dante-/Hohenlohestraße
+- TOP 3.2.12.: Auslastung Parkplätze städtischer Gesellschaften in Neuhausen-Nymphenburg
+- TOP 3.2.13.: Verbindung Dom-Pedro-Str. über Landshuter Allee verbessern
+- TOP 3.2.14.: Mehr Fahrradstellplätze für die BürgerInnen in Neuhausen und der Ebenau
+- TOP 3.2.15.: Leonrodstraße – Einfädelspur für Radler:innen
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Austausch einer Lichtsignalanlage - Standort Arnulf-/ Renatastraße
+- TOP 3.3.2.: Versetzung der Wertstoffcontainer an der Karl-Schurz-Straße
+- TOP 3.4: Antwortschreiben
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Parkregelung Zuccalistraße
+- TOP 3.5.2.: (U) Radwegrückbau in Tempo-30-Zonen
+- TOP 3.5.3.: Ampelschaltung Kreuzung Menzinger Straße/Maria-Ward-Straße
+- TOP 3.5.4.: Geschwindigkeitsregelung Landshuter Allee
+- TOP 3.5.5.: E-Roller im Bereich der Friedenheimer Brücke
+- TOP 3.5.6.: Zebrastreifen am Birketweg
+- TOP 3.5.7.: Gefährdung der Schulwegsicherheit durch einen blockierten Straßenübergang an der Braganzastraße
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Priorisierung der offenen Themen für das MOR gemäß Absprache zwischen Fr. Hanusch und Hr. Dunkel
+- TOP 3.6.2.: Priorisierung Gespräch mit Mobilitätsreferat
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung zu Baugenehmigungsanträgen: - Tizianstr. 53
+- TOP 4.3.2.: Bebauungsplan Nr. 2141 Zuccalistr.
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Digitale Bereitstellung von Planunterlagen - BA-Antrag Nr. 20-26 / B 00414
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: (U) Baulandmobilisierungsgesetz – Darstellung der Änderungen des Baugesetzbuches und der Baunutzungsverordnung durch das Baulandmobilisierungsgesetz A) Baulandmobilisierungsgesetz – in Wahrheit ein Bauverhinderungsgesetz! Antrag Nr. 20-26 / A 00203 von der FDP BAYERNPARTEI Stadtratsfraktion vom 02.07.2020 B) Baulandmobilisierungsgesetz in der Landeshauptstadt München umsetzen Antrag Nr. 20-26 / A 01412 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 07.05.2021 C) Baulandmobilisierungsgesetz rasch umsetzen – Freistaat in die Pflicht nehmen Antrag Nr. 20-26 / A 01483 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.05.2021
+- TOP 4.5.2.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 4.5.3.: (U) Perspektive München als Steuerungsinstrument....
+- TOP 4.5.4.: Planfeststellung nach §§ 18 Abs. 1, 18d Allgemeines Eisenbahngesetz (AEG) und § 76 Abs. 1 Verwaltungsverfahrensgesetz (VwVfG) für das Vorhaben: "3. Planänderung im PFA 1 der 2. S-Bahn-Stammstrecke München (Änderung Bauwasserableitung)", Bahn-km 103,464 bis 105,553 der Strecke 5547 Bf München Laim - München Leuchtenbergring Bft Stellungnahme LHM
+- TOP 4.6: Verschiedenes
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Gutenbergstr. 24 - Walhallastr. 45 - Pfänderstr. 2 - Klugstr. 56 - Andréestr. 7 - Wendl-Dietrich-Str. 32 - Ignaz-Perner-Str. 8 - Döllingerstr. 20 - Arnulfstr. 291
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Gewährleistung einer wirksamen Kontrolle der angeordneten Ersatzpflanzungen nach den genehmigten Baumfällungen
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV) Fällungsantrag vom 02.06.2021 auf dem Grundstück Kapschstr. 4
+- TOP 5.5.2.: Baumschutz Ferdinand-Maria-Str.
+- TOP 5.5.3.: Forschungsvorhaben des Bayerischen Staatsministeriums für Umwelt und Verbraucherschutz zur Luftfilterung an der Landshuter Allee
+- TOP 5.6: Verschiedenes
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget BIKU e.V Verein für Bildung und Kultur "Mädchen an den Ball! Mädchenfußball in Neuhausen-Nymphenburg ermöglichen" 10.180,-€; Az. 0262.0-9-0535
+- TOP 6.1.2.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. "Infobus für Flüchtlinge - anteilige Personalkosten" 5.311,95,- € Az.0262.0-9-0536
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Jugendbeteiligung in Neuhausen-Nymphenburg
+- TOP 6.2.2.: Wohnortnahe Daseinsfürsorge der Deutschen Post AG sowie der Postbank am Romanplatz erhalten. Die Post muss am Romanplatz bleiben!
+- TOP 6.2.3.: Lärmbelästigung Skateanlage Hirschgarten
+- TOP 6.2.4.: Tischtennisplatten und kleiner Basketballkorb für Kinder und Jugendliche bis 15 Jahre aufstellen
+- TOP 6.2.5.: Weihnachtsmarkt im Stadtbezirk - Anfrage
+- TOP 6.2.6.: Jugend braucht Raum: Stellwerk für Neuhauser Jugendliche
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Überdachte Aufenthaltsorte in Neuhausen-Nymphenburg errichten
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 6.5.2.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 6.5.3.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 6.5.4.: Gefahr durch bissigen Dalmatiner
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: AKIM Abschlussschreiben - Konfliktmanagement in der Wilhelm-Hale-Straße
+- TOP 6.6.2.: Planung der Einsätze der POP UPS: mobile Kunst – Spiel – Aktionen 2022 und 2023 Mehr Spiel- und Freiräume für die Kinder und Jugendlichen ihres Bezirks
+- TOP 6.6.3.: Bericht der Beauftragten
+- TOP 6.6.4.: Sachstand Runder Tisch Jugendliche
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Halle 6 UG Ausstellung und Symposium &#039;10 Jahre Halle 6&#039; 2.500,00€; Az. 0262.0-9-0526 Erhöhung der Zuwendung
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Straßenerläuterungsschilder für nach Stiftern benannte Straßen BA-BA- Antrags-Nr. 20-26 / B 01831 des Bezirksausschusses des Stadtbezirkes 09 – Neuhausen-Nymphenburg vom 23.02.2021 Standorte und Kosten der Schilder
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: (U) Straßenbenennung im 9. Stadtbezirk Neuhausen-Nymphenburg Thusnelda-Lang-Brumann-Straße
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Sanierung der Häuser 7 (MUCCA) und 8 (MUCCA31) im Kreativlabor
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget ESV München e.V. Neubau eines Vereinsraums 19.740,91€; Az. 0262.0-9-0534
+- TOP 8.1.2.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget Ausstatten des Hirschgartens mit einem Volleyballplatz
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Antrag zu geschlechterdifferenzierten Nutzungszeiten von Sportanlagen im öffentlichen Raum
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.2.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 8.6: Verschiedenes
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Sonderbriefkasten für Briefwahl am Rotkreuzplatz ausschildern und barrierefrei erreichbaren Standort prüfen
+- TOP 9.3: Anhörungen
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: IT-Referat der LHM mit Livestreams der BA-Sitzungen beauftragen
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: (U) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP 9.6: Verschiedenes
