@@ -1,0 +1,123 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2021-11-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6162501
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6162501
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Gehwege von Motorrädern befreien
+- TOP 5.2.: Verkehrsberuhigung für die Balanstraße, II
+- TOP 5.3.: Schul- und Gehwegsicherheit Rosenheimer Straße
+- TOP 5.4.: Zugang zu Sozialeinrichtungen auch unter "3G" gewährleisten
+- TOP 5.5.: Schutz der Bestandsmieterinnen und Bestandsmieter vor Mieterhöhungen
+- TOP 5.6.: Nicht mehr genutzte Kfz-Spur als Radweg nutzen
+- TOP 5.7.: Fraktionsübergreifende Resolution: Stadtteil-Berichterstattung in der „Süddeutschen Zeitung“ wieder stärken!
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Sitzungsvorlage Nr. 20-26 / V 04226 Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit Information über die Beschlussfassung im Stadtrat
+- TOP 6.2.2.: UN-Behindertenrechtskonvention gilt auch bei der Vergabe von Geldern durch die Bezirksausschüsse! Schreiben des Behindertenbeirats
+- TOP 6.2.3.: Infoblatt November 2021
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Vorstellung von "Moderation der Nacht" (MoNa) im Unterausschuss durch das Sozialreferat
+- TOP II.2.: (E) Stadtbezirksbudget Initiative „IMAGINE“ 50 Jahre IMAGINE Konzert am 09.12.2021 950,00 € / Az. 0262.0-5-0361
+- TOP II.3.: Forderung der Wiedereinrichtung einer stationären Stadtteilbibliothek in der Unteren Au Empfehlung Nr. 20-26 / E 00093 der Bürgerversammlung vom 08.07.2021 - endgültiger Beschluss Kulturausschuss des Stadtrats -
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget DLRG München-Mitte e.V. Professioneller Airway-Trainer für Wasserretter 5.253,96 €; Az. 0262.0-5-0360
+- TOP 1.2.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben Sozialraumkarte Au-Haidhausen von Oktober 2021 bis September 2022 3.575,00 € / Az. 0262.0-5-0358 vertagt in der Sitzung am 20.10.2021
+- TOP 1.3.: Vorstellung von Refugio München im Unterausschuss / Raumsuche
+- TOP 1.4.: Ergebnis Ortstermin Spielplatz am Kegelhof am 13.10.2021 / weiteres Vorgehen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Planung der mobilen Kunst-Spiel-Aktionen 2022 und 2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Austausch von Spielgeräten im BA 5
+- TOP 3.2.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: (U) Förderung der nachbarschaftlichen Begegnungsstätte JoMa e. V. auf dem ehemaligen Paulaner Gelände Empfehlung Nr. 20-26 / E 00097 ......................... Pandemiefolgenfonds IV: Die soziale Infrastruktur in München stärken Antrag Nr. 20-26 / A 01761 ............................... 5. Stadtbezirk - Au-Haidhausen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Spielplatz zwischen Lucile-Grahn Straße und Kirchenstraße
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Nutzung des Mariahilfplatzes zur Weihnachtszeit / Bespielung durch den Märchenbazar Empfehlung Nr. 20-26 / E 00092 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021 Weiterhin keine kommerzielle Nutzung des Mariahilfplatzes Empfehlung Nr. 20-26 / E 00106 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021 Nutzung des Mariahilfplatzes durch einen Konzertveranstalter abwenden Empfehlung Nr. 20-26 / E 00107 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021 Beteiligung der Bewohner bei der künftigen Nutzung des Mariahilfplatzes Empfehlung Nr. 20-26 / E 00104 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021 Sitzgelegenheiten am Mariahilfplatz schaffen Empfehlung Nr. 20-26 / E 00117 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021
+- TOP 1.2.: Antrag für einen Christbaumverkaufsplatz an der Grünfläche Auerfeldstraße / Aurbacherstraße
+- TOP 2.: Anhörungen
+- TOP 2.1.: Winterstrand an der Corneliusbrücke (Bastion) vom 26.11.2021-08.01.2022 => dazu: Winterstrand / Isarstrand im Winter 2021/2022 Beschluss der Vollversammlung des Stadtrats vom 20.10.2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ergänzung für das Genehmigungsverfahren für Freischankflächen auf Parkständen
+- TOP 3.2.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Geschäftsschädigende Sperrung der Inneren Wiener Straße: Beschilderung ändern !
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Regerstr. 28: Neubau eines Wohnblocks (293 WE) Haus 1-16 mit Einzelhandelsflächen und Gemeinschaftstiefgarage (348 Stellplätze) - Baugebiet 2(3); Tektur zu Nutzungsänderung EG Haus 8, Aufteilung der bisher geplanten Gewerbeeinheit zu einer Laden- und Büroeinheit
+- TOP 2.2.: Ismaninger Str. 22: Geb. 502, West, 1. OG - Nutzungsänderung von Bettenstation mit OP-Bereich zu einer Zentralen Interdisziplinären Chemotherapie-Einheit (ZIC); Tektur
+- TOP 2.3.: Zeppelinstr. 81: Umbau der DG-Wohnungen und deren Erweiterung um den Spitzboden sowie Einbau einer Aufzugsanlage in einem Mehrfamilienhaus
+- TOP 2.4.: Hochstr. 2-4: Ausbau der Dachspeicher zu einer Wohnung, Neuerrichtung einer Dachterrasse, einer Gaube und einer Notleiter und Podeste, Tektur Anhörungsfrist: 10.11.2021 (Genehmigungsfiktion nach Art. 68 BayBO)
+- TOP 2.5.: Weißenburger Str. 44: Umbau und Ausbau des Dachgeschosses, Errichtung eines Außenaufzugs Anhörungsfrist: 10.11.2021 (Genehmigungsfiktion nach Art. 68 BayBO)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Spekulativer Verfall? Abbruch von Wohnraum im Erhaltungssatzungsgebiet
+- TOP 3.2.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 3.3.: (U) Perspektive München als Steuerungsinstrument....
+- TOP 3.4.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 3.5.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 3.6.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Neubau Johannisplatz - Kaufpreis der Wohnungen
+- TOP 4.2.: Lärmbelästigung u.ä. seit Umbau durch die MGS in der Orleansstr. 11 a
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Neubau/Austausch einer Lichtsignalanlage am Rosenheimer Platz
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Bericht über die IAA-Mobility 2021 Keine öffentlichen Plätze mehr für kommerzielle Großmessen Antrag Nr. 20-26 / A 01883 von der Fraktion ÖDP/München-Liste vom 14.09.2021 Wie teuer kam die IAA der Landeshauptstadt München? Antrag Nr. 20-26 / A 01942 von der Fraktion ÖDP/München-Liste, Stadtratsfraktion DIE LINKE. / Die PARTEI vom 21.09.202
+- TOP 3.2.: Regerplatz erweitern
+- TOP 3.3.: Beeinträchtigungen durch den Laden "Gorillas" in der Welfenstr. 18 Antwort Baureferat zum Schreiben BA 5 vom 29.07.2021
+- TOP 3.4.: Errichtung von Pollern an der Einsteinstraße Ecke Lucile-Grahn-Straße Antwort Baureferat zum Schreiben BA 5 vom 29.07.2021
+- TOP 3.5.: Maßnahmen gegen das Verkehrschaos im Franzosenviertel
+- TOP 3.6.: Kreuzung Humboldtstraße / Pilgersheimerstraße: Markierung Radweg
+- TOP 3.7.: Verkehrsrechtliche Anordnungen a) Vollsperre Am Gasteig wegen Fernkältearbeiten vom 25.10.2021 - 25.02.2022 b) Sanierung der Ludwigsbrücken (Phase 160) vom 03.11.2021 - 31.12.2021
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Weiterhin dramatische Verkehrslage an der Ludwigsbrücke
+- TOP 4.2.: Parkverbot Zeppelinstr. 69-71
+- TOP 4.3.: Erweiterung der Fahrradabstellplätze in der Wörthstraße
+- TOP 4.4.: Ampel Tram-Haltestelle "Gasteig" / Beschilderung Fußgängerzone Genoveva-Schauer-Platz
+- TOP 4.5.: Komplette Überarbeitung des Verbindungstunnels Ost-West und Architektur- und Landschaftswettbewerb des Ostbahnhofs Vertagt in der Sitzung am 20.10.2021
+- TOP 4.6.: Fussgängerzone Genoveva-Schauer-Platz: "Einfahrt verboten"-Schild
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Ertüchtigung des Hochbeets an der Kuglerstraße Ecke Einsteinstraße Empfehlung Nr. 20-26 / E 00115 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 08.07.2021
+- TOP 1.2.: (E) Begrünung der Schlotthauerstraße Empfehlung Nr. 20-26 / E 00112 der Bürgerversammlung des Stadtbezirkes 5 Au- Haidhausen am 08.07.2021
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Dächer der Wartehäuschen nachhaltig nutzen
+- TOP 3.2.: zu TOP 3.14: Biotopverbundfläche am Ostbahnhof (Anfrage)
+- TOP 4.: Bürgeranliegen
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 1.1.: Ortstermin "Begrünung und Digitalisierung" Brücke Rosenheimer Straße stadtauswärts vom 08.11.2021
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 06.12.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 06.12.2021, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 07.12.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 08.12.2021, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 08.12.2021, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 09.12.2021, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Videokonferenz statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 15.12.2021, 19.00 Uhr, Black Box im Gasteig, Rosenheimer Str. 5 BA-Vorstand, Dienstag, 30.11.2021, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Einwohnerversammlung am 24.11.2021, 19 Uhr, Mariahilfkirche, Thema: Zukünftige Nutzung des Mariahilfplatzes
+- TOP 5.: Verschiedenes
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - A-Teil, TOP 5.7: Fraktionsübergreifende Resolution: Stadtteil-Berichterstattung in der „Süddeutschen Zeitung“ wieder stärken! - UA Wirtschaft, TOP 2.1: Winterstrand an der Corneliusbrücke (Bastion) vom 26.11.2021-08.01.2022 => dazu: Winterstrand / Isarstrand im Winter 2021/2022 Beschluss der Vollversammlung des Stadtrats vom 20.10.2021 - UA Wirtschaft, TOP 4.1: Geschäftsschädigende Sperrung der Inneren Wiener Straße: Beschilderung ändern ! - C-Teil, TOP 1.1: Ortstermin "Begrünung und Digitalisierung" Brücke Rosenheimer Straße stadtauswärts vom 08.11.2021
