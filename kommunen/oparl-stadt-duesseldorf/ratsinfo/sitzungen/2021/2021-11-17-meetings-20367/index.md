@@ -1,0 +1,55 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-17T15:00:00+01:00
+- Ende: 2021-11-17T18:23:00+01:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20367
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20367
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich 17.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00429167.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich 17.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00429167.pdf
+- Wortprotokoll: Sitzungspaket öffentlich 17.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00429167.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/006/2021 vom 01.09.2021 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/007/2021 vom 06.10.2021 - einstimmig beschlossen
+- TOP 4: Sachstand Winterdienst - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 5: Stadtbahn U81 – 2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord bis Handweiser Fortführung der Planung nach den Ergebnissen des Bürgerdialoges - Empfehlung mehrheitlich beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Flächennutzungsplanänderung Nr. 203 - Westlich Schiessstraße - Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 9: Vorhabenbezogener Bebauungsplan Nr. 04/027 (Vorentwurf) - Schiessstraße / Windmühlenstraße - einstimmig beschlossen
+- TOP 10: Stand Sanierungsarbeiten Wiesenstraße, Beschlussvorlage 66/16/2016, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 11: Was plant die Verwaltung für den Amboßplatz?, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 12: Welche Sperrungen des Rheinalleetunnels stehen noch an?, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 13: Verändert die rege Bautätigkeit der letzen Jahre den Charakter unseres linksrheinischen Stadtteils - halten Grün- und Sportflächen mit der Bevölkerungsentwicklung noch Schritt?, Anfrage der FDP-Fraktion
+- TOP 14: Stillstand Baustelle Lotharstraße/Euskirchener Straße, Anfrage der Bezirksvertreterin Claudia Drossel
+- TOP 15: Entmietung Mehrfamilienhaus Leostraße 11, Anfrage der SPD-Fraktion
+- TOP 16: Schleichende Zulassung von Schleichverkehr in der Schanzenstraße, Anfrage der SPD-Fraktion
+- TOP 17: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2022 - Empfehlung abweichend beschlossen
+- TOP 18: Zuschuss an den Sportclub Düsseldorf -West 1919/50 e.V. - einstimmig beschlossen
+- TOP 19: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, SAP-Konto 1.10.11.111.05.001 531754175400 Liste C) - Förderung Dritter - einstimmig beschlossen
+- TOP 20: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2021, Zweckbestimmung der finanziellen Mittel auf dem Sachkonto 1111114 / 1000 / 1000 / 54990400 - Betreuung der Bezirksvertretung - einstimmig beschlossen
+- TOP 21: Aufstellen von zusätzlichen Abfallbehältern im Ökotop, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 22: Zwei Bänke zum Ausruhen in der Schiessstraße, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 23: Hansaallee: Baumschutz, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 24: Fahrradstellplätze, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 25: Greifweg wieder öffnen, Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 26: Freigabe des Fußweges Krefelder Straße ab der Kreuzung Böhlerstraße in Richtung Nikolaus-Knopp-Platz für Radfahrende, Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 27: Interimslösung Radwegeverbindung von und nach Meerbusch - zur Kenntnis genommen
+- TOP 28: Pflanzung eines immergrünen Baumes am neuen Hallenbad - zur Kenntnis genommen
+- TOP 29: Verkehrssicherheit erhöhen - Verkehrssituation Belsenplatz/Greifweg optimieren - zur Kenntnis genommen
+- TOP 30: Programm zur Flächenentsiegelung Heerdter Dreieck und Autobahnanschluss Heerdter Lohweg - zur Kenntnis genommen
+- TOP 31: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 32: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - zurückgezogen
+- TOP 33: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 34: Wohngebiet Schanzenstraße- Einrichtung eines Bewohnerparkgebietes - mehrheitlich beschlossen
+- TOP 35: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Bauunterhaltungsmittel 2021 - laufende Maßnahmen - Schulen - einstimmig beschlossen
+- TOP 36: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Bauunterhaltungsmittel 2021 - laufende Maßnahmen - Sonstige Gebäude - einstimmig beschlossen
+- TOP 37: Überprüfung der Ampelschaltung von der Luegallee zum Belsenplatz - zur Kenntnis genommen
+- TOP 38: Sachstand Planung und Bau Clarissenstraße 44, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
