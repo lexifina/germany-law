@@ -1,0 +1,93 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2021-11-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6285807
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6285807
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Stadtbezirksbudget PAK Orient Cricket e.V. 1895 München Kauf und Aufstellung von 2 Containern (als Unterstellmöglichkeit und Aufenthaltsraum) auf dem Gelände Eduard-Spanger-Straße 8.500,00 € / Az. 0262.0-24-0380
+- TOP 2.2.: (E) Stadtbezirksbudget Kleingartenverein NW 65 e.V. "Erneuerung des Bienenhauses" 1.169,24€ Az.0262.0-24-0364
+- TOP 2.3.: (E) Stadtbezirksbudget Verein der Freiwilligen Feuerwehr Ludwigsfeld-Fasanerie e.V. "Beschaffung von Rollwägen / Schlauchtransportsystem zur Löschwasserversorgung" 19.456,50€ Az.0262.0-24-0382
+- TOP 2.4.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Toni-Pfülf-Straße "Nikolausbesuch am 06.12.2021" 160,00 € / Az. 0262.0-24-0384
+- TOP 2.5.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur "Mädchen an den Ball" Mädchenfußball ermöglichen" 7.980,00 € / Az. 0262.0-24-0383
+- TOP 2.6.: (E) Stadtbezirksbudget Blaskapelle Feldmoching e.V. "Beschaffung von schwarzen Dirndl-Schürzen für musikalische Trauerveranstaltungen" 2.700,-€; Az. 0262.0-24-0385
+- TOP 2.7.: (E) Stadtbezirksbudget Übergreifendes Bündnis München Nord "Symposium / Informationsveranstaltung zu den Gutachten zur SEM-München-Nord" 1.050,- € Az.0262.0-24-0386
+- TOP 3.1.: Aufstellung eines Unterstellcontainers für Jugendliche auf dem Bolzplatz an der Aschenbrennerstraße (Sportgelände Ecke Fortner-/Aschenbrennerstraße)
+- TOP 3.2.: Aufstellung eines Unterstellcontainers für Jugendliche und junge Erwachsene im 24. Stbez. a) auf dem Bolzplatz an der Toni-Pfülf-Str. (vertagter TOP 3.15 –20.10.2021) b) auf dem Gelände im Süden des Lerchenauer Sees, unterhalb des fest installierten Toilettenhäuschens
+- TOP 3.3.: Errichtung eines Inklusionsspielplatzes ("Spielplatz für Alle") auf dem Areal des Feldmochinger Angers
+- TOP 3.4.: Maßnahmen gegen Fahrradrowdies in der Weitlstraße
+- TOP 3.5.: Blinklichter an der Ampel an der Kreuzung Lerchenauer Straße / Josef-Frankl-Straße
+- TOP 3.6.: Verkehrssicherheit Kreuzung Lerchenauer Straße / Ponkratzstraße
+- TOP 3.7.: Personelle Ausstattung mit Hausmeistern für die Toni-Pfülf-MS und die Eduard-Spranger-MS
+- TOP 3.8.: Wiederbesetzung der Stelle als Schulsozialarbeiter*in an der Eduard-Spranger-MS
+- TOP 3.9.: Befreiung des Schwabenbächls und seine Böschungen im Bereich der Wohnsiedlung Ludwigsfeld von Unrat
+- TOP 3.10.: Reinigung der Fußgänger- und Radunterführung unter den Bahngleisen am Fasaneriesee sowie eine Verbesserung der Beleuchtung
+- TOP 3.11.: Sofortige Übermittlung des aktuellen Fledermausgutachtens für den Eggarten an den BA 24
+- TOP 3.12.: Strukturkonzept mit Eckdaten für die Siedlung Ludwigsfeld
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.1.1.: Waldmeisterstr. 64
+- TOP 5.1.2.: Schleißheimer Str. 451
+- TOP 5.1.3.: Schätzweg 17
+- TOP 5.1.4.: Grashofstr. 77
+- TOP 5.1.5.: Heppstr., Gem. Feldmoching, Fl.Nr. 2776/3
+- TOP 5.1.6.: Leberblümchenstr. 19
+- TOP 5.1.7.: Eberwurzstr. 28
+- TOP 5.1.8.: Rainfarnstr. 61
+- TOP 5.1.9.: Dahlienstr. 48
+- TOP 5.1.10.: Balsaminenstr. 23
+- TOP 5.1.11.: Feldmochinger Str. 206
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.2.1.: Waldmeisterstr. 64
+- TOP 5.2.2.: Grashofstr. 77
+- TOP 5.2.3.: Heppstr., Gem. Feldmoching, Fl.Nr. 2776/3
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.3.1.: a) Waldweihnacht mit Krippenspiel am 24.12.2021, Gundermannstraße / Eduard-Spranger-Straße b) Naturpädagogisches Projekt „Winterspielraum“ 27. - 30.12.2021, Grünanlage an der Eberwurzstraße
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 5.4.1.: Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München;
+- TOP 5.4.2.: Austausch einer Lichtsignalanlage (LSA) am Standort Am Blütenanger / Feldmochinger Straße
+- TOP 5.4.3.: Austausch einer Lichtsignalanlage (LSA) am Standort Josef-Frankl-Straße / Lerchenauer Straße
+- TOP 5.4.4.: Beschlussentwurf: Ambulante haus- und kinderärztliche Versorgung in München... (Sitzungsvorlage Nr. 20-26 / V 03615)
+- TOP 5.4.5.: Baumfällungen (BaumSchVO): a) Lerchenauer Str. / Bocksdornstr. 1 b) Rubinstr. 25 / Diamantstr. 3
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP -: Antwortschreiben
+- TOP 1.: Reinigung des Füsslgrabens, der parallel zur Trollblumenstraße verläuft
+- TOP 2.: Kostenloser Besuch eines vorhandenen Tagesheims für Kinder, die eine Schulbegleitung benötigen
+- TOP 3.: Installation einer Einstiegshilfe bzw. eines barrierefreien Zugangs am Lerchenauer See und am Fasaneriesee
+- TOP 4.: Pflanzung schattenspendender Bäume am Spielplatz im Park zwischen Schittgabler- und Wilhelmine-Reichard-Straße
+- TOP 5.: Verkehrszeichen an der Einmündung der Gundermannstraße in die Lerchenstraße; Ausschneiden des Bewuchses der Verkehrsschilder
+- TOP -: Sonstige Unterrichtungen
+- TOP 6.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Absolute Haltverbote in der Rainfarnstr. südlich Dülferstr. b) Feuerwehranfahrtzone ggü. Waldmeisterstr. 11 c) Ebereschenstr./Einmündung Adlerfarnstr.; Verländerung absolutes Haltverbot am FGÜ d) Beschilderung Parkplatz Lassallestr. e)/f) Einrichtung eines FGÜ im Bereich der Mittelinsel in der Franz-Fackler-Str./Max-Wönner-Str. g)/h) Franz-Fackler-Str./Max-Wönner-Str.; Beschilderung mit Gefahrzeichen "Kinder" und Zusatzzeichen "Schulweg" i) Parkscheibenzone auf dem Parkplatz des Friedhofs Feldmoching Am Gottesackerweg
+- TOP 7.: Erlass einer Spielplatzsatzung
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 8.: (U) Evaluierung des Stadtbezirksbudgets für die Jahre 2018 - 2020; qualitative und quantitative Veränderungen in der Bezirksausschussarbeit
+- TOP 9.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.: (U) Perspektive München als Steuerungsinstrument....
+- TOP 12.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 13.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 14.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 15.: (U) Integriertes Smart City Handlungsprogramm (ISCH) . Aktueller Stand der Smart City Projekte der Landeshauptstadt München . Bewerbungen um Fördermittel aus nationalen und internationalen Förderprogrammen
+- TOP 16.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.: (U) Fortschreibung des Konzepts zur Friedhofsplanung; Gräberbedarfsprognose bis zum Jahr 2035
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 3.: Anträge
