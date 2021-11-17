@@ -1,0 +1,72 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-17T17:00:00+01:00
+- Ende: 2021-11-17T19:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20518
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20518
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2021-11-17 Ö inkl. Nachträge 1-3 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430952.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2021-11-17 Ö inkl. Nachträge 1-3 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430952.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2021-11-17 Ö inkl. Nachträge 1-3 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430952.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Bestellung einer Schriftführerin / eines Schriftführers - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - vom 8. September 2021 - einstimmig beschlossen
+- TOP 4: Vorstellung Klimamobil (Klimamobil zur Info bereits ab ca. 16:30 Uhr vor Ort) - zur Kenntnis genommen
+- TOP 5: Vorstellung des Projektes FußverkehrsCheck - zur Kenntnis genommen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (alt)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Interfraktionelle Anfrage: Tempo 40 auf der Straße "Am Röttchen" - beantwortet
+- TOP 11: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6 - vertagt
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Offene Fragen zum flankierenden Verkehrskonzept des Neubauprojekts Deiker Höfe (ehemals Fashion House) - vertagt
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Anfrage der Fraktion BÜ90/Die Grünen: Bauplanungen und Einhaltung der Grundflächenzahl - beantwortet
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Anfrage der Fraktion BÜ90/Die Grünen: Versiegelung im Stadtbezirk 6 - vertagt
+- TOP 19: Anfrage der Fraktion BÜ90/Die Grünen: Vernachlässigung von Bausubstanz und Missachtung des Hochwasserschutzes in der Vonovia-Siedlung Mintarder Weg? - beantwortet
+- TOP -: Anfragen
+- TOP 20: Anfrage der SPD-Fraktion: Rewe Markt/Schwimmbad Ulmenstraße - beantwortet
+- TOP 21: Anfrage der CDU-Fraktion: Fehlende Bürgersteige, Schilder und Parkbuchten im vorderen Bereich des Wohnquartiers Reitzenstein - beantwortet
+- TOP 22: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage zu bedrohten und schützenswerten Tier- und Pflanzenarten im Stadtbezirk 6 - beantwortet
+- TOP 23: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen - vertagt
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge (alt mit beratungsbedarf)
+- TOP 25: Antrag der Fraktion BÜ90/Die Grünen: Ergebnisse des Fußverkehrschecks umsetzen - Fußverkehr stärken - zurückgezogen
+- TOP 26: Antrag der SPD-Fraktion: Einrichtung von Tempo 30 auf dem gesamten Volkardeyer Weg - vertagt
+- TOP -: Anträge
+- TOP 27: Antrag der Fraktion BÜ90/Die Grünen: Prüfung der Verbesserung der Bedarfsampelanlage über die Unterrather Straße - abweichend beschlossen
+- TOP 28: Antrag der SPD-Fraktion: Ausweitung Clever Shuttle und weitere Elektromobilitätsangebote - abweichend beschlossen
+- TOP 29: Antrag der CDU-Fraktion: Konsequentes Vorgehen und Verhinderung der illegalen Nutzung des "Höffnergeländes" als Parkfläche - einstimmig beschlossen
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Prüfung Gehweg und Bedarfsampel Ecke Bottroper Straße - zurückgezogen
+- TOP 31: Antrag der Fraktion BÜ90/Die Grünen: Perspektiven des S-Bahn-Halts Höxterweg/Mercedes-Benz-Werk - Verbesserung des ÖPNV-Angebots und Lösung der Mercedes-Parkproblematik - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 32: Trödelmärkte auf dem Schützenplatz Rather Broich im 1. Halbjahr 2022 - vertagt
+- TOP 33: Zuschussvergabe 2021 Antrag des Bürgerverein Rath e.V. zum diesjährigen Volkstrauertag - einstimmig beschlossen
+- TOP 34: Zuschussvergabe 2021 - Antrag des Förderverein der KGS Rather Kreuzweg e.V. zur Nikolausfeier 2021 - einstimmig beschlossen
+- TOP 35: Zuschussvergabe 2021 Antrag des Bürgerverein Rath e.V. zum gemeinsamen Frühstück und zur Mantelteilung in den Grundschulen - zurückgezogen
+- TOP 36: Zuschussvergabe 2021 Antrag des Fest- und Förderverein Leetebrok e.V. - einstimmig beschlossen
+- TOP 37: Bereitstellung von Mitteln für den Jahresempfang 2022 - einstimmig beschlossen
+- TOP 38: Bauunterhaltungsmittel 2021 - laufende Maßnahmen - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Anbindung von Unterrath an die geplante U81 - Vorlage BV6/029/2021 - zur Kenntnis genommen
+- TOP 41: Bebauungsplan - Entwurf Nr. 06/011 - Airport City West - Empfehlung einstimmig beschlossen
+- TOP 42: Föderung Dritter 2021 - Antrag der SG Unterrath 1912/24 e.V. - Anschaffung von neuen mobilen Fußballtoren - einstimmig beschlossen
+- TOP 43: Zuschussvergabe 2021 Antrag des Rather SV - Anschaffung Sitzbänke - einstimmig beschlossen
+- TOP 44: Zuschussvergabe 2021 - Budget "kulturelle Maßnahmen" (Vorlage BV6/066/2021) - einstimmig beschlossen
+- TOP 45: Förderung Dritter 2021 - Budget "ökologische Maßnahmen" (Vorlage BV6/065/2021) - einstimmig beschlossen
+- TOP 46: Informations- und Imagekampagne aus Verfügungsmitteln 2021 - einstimmig beschlossen
+- TOP 47: Bauunterhaltungsmittel 2021 - Teil A "Schulen" - einstimmig beschlossen
+- TOP 48: Bebauungsplan Nr. 06/014 - Vogelsanger Weg/Münsterstraße - Empfehlung einstimmig beschlossen
