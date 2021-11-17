@@ -1,0 +1,122 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2021-11-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6372619
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6372619
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Freiwillige Feuerwehr München Abteilung Stadtmitte e.V. Anschaffung eines Ausbildungs- und Fortbildungspaketes 5.651,00 Euro, Az.: 0262.0-4-0359
+- TOP 2.2.: Spielen in der Stadt e.V.: Planung der POP UP-Einsätze 2022 und 2023
+- TOP 2.3.: (E) Stadtbezirksbudget Jugendzentrum LIFE - CVJM München e.V. Anschaffung von Fitnessgeräten für Jugendliche 5.052,00 Euro,Az.: 0262.0-4-0360
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 3.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Bildung eines neuen Sprengels und Änderung der Sprengel für die Grundschulen Infanteriestr. 25 und Dachauer Str. 98 (Protokoll des Runden Tisches vom 26.10.2021)
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Brunnerstr. 43: Energetische Sanierung des Bestandsgebäudes mit Anbau von neuen Balkonen und einem Lift, Verlegung der Schleuse im KG/TG-Bereich, Aufstockung des Bestandsgebäudes um 2 Geschosse in Holzmassivbauweise, Umbau der bestehenden Wohnungen zu teils barrierefrei nutzbaren Familienwohnungen in 4 Bauabschnitten
+- TOP 2.2.: Hagedornstr. 2 / Rümannstr. 11-47 - VORBESCHEID: Aufstockung von 8 Wohngebäuden um ein Geschoss sowie Neubau von vier 3-geschossigen Wohnhäusern und 2 Tiefgaragen (inkl. Baumfällungen in Zusammenhang mit dem Vorhaben)
+- TOP 2.3.: Agnesstr. 1 – 5a: Neubau eines Rückgebäudes (14 WE) mit Gewerbe sowie Umbau und Nutzungsänderung im EG und 1. OG im Vordergebäude, Erweiterung einer Tiefgarage
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Ausübung eines Vorkaufsrechts in Schwabing West
+- TOP 3.1.2.: Leerstände in den Gebäuden Lerchenauer Str. 38-40 (Antwort des Amtes für Wohnen und Migration auf BA-Schreiben vom 23.09.2021)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 3.2.2.: (U) Perspektive München als Steuerungsinstrument....
+- TOP 3.2.3.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 3.2.4.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Mieterbeirat der LH München: Protokoll der Sitzung am 18.10.2021
+- TOP 3.3.2.: Hiltenspergerstr. 47: Beseitigungsverfügung für Wintergarten
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Errichtung einer Fahrradampel an der Schleißheimer Straße / Ecke Leonhard-Frank-Straße bzw. Hildeboldstraße
+- TOP 1.2.: Antrag Grüne: Mit dem Rad in den Park - Olympiapark
+- TOP 1.3.: Antrag SPD: Fußgänger*innenfreundliche Ampelschaltung Friedrich-/Hohenzollernstraße
+- TOP 1.4.: Bürger: Parkplätze in der Karl-Theodor-Straße und Borschtallee
+- TOP 1.5.: Bürgerin: Gefahrensituation durch Radfahrende im Durchgang zwischen Nordend- und Kurfürstenstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Austausch der Lichtsignalanlagen a) Lerchenauer Straße/Schleißheimer Straße b) Petuelring / Schleißheimer Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Gehwegnase Winzerer- / Ecke Hornstraße vor Verparkung freihalten
+- TOP 3.1.2.: Übergang Karl-Theodor-Straße: Gefährdung von Kindern durch Radfahrende (Antwort des Mobilitätsreferats auf weitergeleitetes Bürgeranliegen, TOP D 1.10 09/21)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Trinkwasser-Projekt Schleißheimer Straße – Terminänderung (Infoflyer der SWM)
+- TOP 3.3.2.: Stromprojekt Netztrafostation Hiltenspergerstraße (Infoflyer der SWM)
+- TOP 3.3.3.: Stromprojekt Degenfeldstraße (Infoflyer der SWM)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Mobilitätsausschusses und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Angebotsänderung bei der MVG
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Gefährliche Rutsche im Ackermannbogen
+- TOP 1.2.: Bürger: Vermodernde Baumstämme am Scheidplatz
+- TOP 1.3.: Bürger: Überfahrene Tiere im Luitpoldpark
+- TOP 1.4.: Jugendzentrum LIFE: Aufstellung eines Mülleimers vor dem Jugendzentrum
+- TOP 1.5.: Bürger: Parkplatzvernichtung durch Sommerstraße Apianstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Lissi-Kaeser-Str. 17: Antrag auf Fällung eines Bergahorn
+- TOP 2.1.2.: Erich-Kästner-Str. 43: Antrag auf Fällung zweier Ahornbäume
+- TOP 2.1.3.: Begrünung und Umgestaltung Hörwarthstraße (Antrag von Urbanes Wohnen e.V auf Förderung aus dem Programm „Bürgerinnen und Bürger gestalten ihre Stadt“)
+- TOP 2.1.4.: Agnesstr. 27: Antrag auf Baumfällungen
+- TOP 2.1.5.: Rümannstr. 60: Antrag auf Fällung zweier Spitz-Ahornbäume und zweier Robinien
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Nachbarschaftsgarten in der Düsseldorfer Straße / Ecke Prinz-Eugen-Straße
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: Bereits bewilligter Zuschuss an HALLE 6 UG für eine Ausstellung zum zehnjährigen Jubiläum: Erhöhung des Zuwendungsbetrags um 2.000 Euro auf 3.000 Euro
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: (E) Gaststätte "Rheinpfalz" Schanigarten
+- TOP 2.2.2.: „Snoops & Spoons“, Hohenzollernstr. 76: Antrag auf Kleinst-Freischankfläche
+- TOP 2.2.3.: Winterfeuer des Jugendzentrums LIFE am 10.12.2021 auf der großen Wiese Ackermannbogen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Gaststätte „Zum Jennerwein“, Belgradstr. 27: Erteilte Genehmigungen? (Antwort der Bezirksinspektion Nord auf BA-Anfrage vom 20.10.2021)
+- TOP 3.1.2.: Antrag für Schanigarten der Gaststätte „Rheinpfalz“, Kurfürstenstr. 35 (Aufforderung der Bezirksinspektion an das Direktorium, eine OB-Entscheidung einzuholen)
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: „Das Beste kommt noch“ am 20.10.2021 in der Isoldenstraße
+- TOP 3.3.2.: „Vaterland“ am 12.11.2021 in der Georgenstr. 30-38
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: „Kulturlieferdienst“ am 22.10.2021 um 17 Uhr in der Isabellastraße
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.6.1.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Eilentscheidungen der BA-Vorsitzenden: a) Kinderdisco im Rahmen des Programms „Fit im Park“ des städtischen Sportamts im Luitpoldpark – Zustimmung zur Verlängerung bis 28.12.2021 b) Einweihung des Unterstands (Schiffscontainer) am Bolzplatz Elisabeth-Kohn-Straße Zustimmung
+- TOP G: BA-Angelegenheiten
+- TOP H: Termine
