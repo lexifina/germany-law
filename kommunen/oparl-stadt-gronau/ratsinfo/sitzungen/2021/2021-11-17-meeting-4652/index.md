@@ -1,0 +1,53 @@
+# Rat (13. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-11-17T18:02:00+01:00
+- Ende: 2021-11-17T20:19:00+01:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZftkJYQt3j_bz9CMGUKgsSg
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4652
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfXaDK6on9t2g4VF0Qln_WW7ahC3Mc94yRE6ZtsG2CqA/Bekanntmachung_Rat_17.11.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIQY3DxThVIwBPp9yoqZRaEjJLZtexOhsXBxnItuvUS/Oeffentliche_Niederschrift_Rat_17.11.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Anträge der Fraktionen
+- TOP 2.1: Antrag der Fraktion pro:Bürgerschaft vom 13.10.2021; Einbringung des Haushaltsentwurfes für das Jahr 2022 / hier: Einhaltung der vorgesehenen Frist - 31 Jastimmen, 2 Neinstimmen, 7 Enthaltungen
+- TOP 3.: Städtepartnerschaft zwischen Gronau und der Stadt Mezöbereny - Einstimmig, 0 Enthaltungen
+- TOP 4.: „Einführung einer City Bonuscard – 100% lokal“ - Einstimmig, 0 Enthaltungen
+- TOP 5.: Änderung der Satzung der Stadt Gronau (Westf.) über die Entwässerung der Grundstücke und den Anschluss an die öffentlichen Abwasseranlagen
+- TOP 6.: Änderung der Beitrags- und Gebührensatzung zur Abwasserbeseitigungssatzung der Stadt Gronau (Westf.)
+- TOP 7.: Änderung der Satzung über die Entsorgung von Abwässern aus Kleinkläranlagen und abflusslosen Gruben in der Stadt Gronau (Westf.)
+- TOP 8.: I. Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2022 II. Abwassergebührenkalkulation für das Jahr 2022 - Einstimmig, 2 Enthaltungen
+- TOP 9.: Übernahme einer Bürgschaftsverpflichtung zugunsten der Wohnbau- und Grundstücksgesellschaft mbH & Co.KG - Einstimmig, 0 Enthaltungen
+- TOP 10.: 1. Änderungssatzung zur Satzung der Stadt Gronau (Westf.) zur Umlage der Kosten der Gewässerunterhaltung gemäß § 64 LWG - Einstimmig, 2 Enthaltungen
+- TOP 11.: Bestellung eines stellvertretenden Vorsitzenden des Umlegungsausschusses der Stadt Gronau - 39 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Aufstellung der 3. Änderung des Bebauungsplans Nr. 211 „Industriegebiet Epe“, Stadtteil Epe. (Bebauungsplan der Innenentwicklung gem. § 13a BauGB)
+- TOP 13.: Antrag auf Aufstellung eines vorhabenbezogenen Bebauungsplans gem. § 12 BauGB für das Vorhaben zur Errichtung eines Wohngebäudes "Betreutes Wohnen an der Alstätter Straße" (beschleunigtes Verfahren gem. § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 14.: 107. Änderung des Flächennutzungsplans der Stadt Gronau Vorhabenbezogener Bebauungsplan "PV-Freiflächenanlage Epe, Kottiger Hook/Schlamannweg“ Aufstellungsbeschluss - 37 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 15.: Sachstand zur Corona-Pandemie (Stand: 10.11.2021)
+- TOP 16.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 17.: Mitteilungen der Verwaltung
+- TOP 17.1: Politische Begleitgruppe für den Rathausneubau bzw. -sanierung
+- TOP 17.2: Workshop Germania Epe am 26.11.2021
+- TOP 17.3: Letzte Ratssitzung am 15.12.2021
+- TOP 17.4: Eingang von Bauanträgen
+- TOP 18.: Anfragen
+- TOP 18.1: Baumfällung am Westpark (Anfrage vom RM von Borczyskowski)
+- TOP 18.2: Tierfutterautomat im Tierpark (Anfrage von RM Hüsing-Hackfort)
+- TOP 18.3: Renaturierungsmaßnahmen an der Dinkel (Anfrage von RM Trautwein-Köhler)
+- TOP 18.4: Tiergehegegröße (Anfrage vom RM Buchholz)
+- TOP 18.5: Baumfällung am Westpark (Anfrage von RM Buchholz)
+- TOP 18.6: Anfragen in Sitzungen (Anfrage vom RM Doetkotte)
+- TOP 18.7: Stoppschild Agathastraße/Gronauer Straße (Anfrage von RM Doetkotte)
+- TOP 18.8: Baumfällliste (Anfrage von RM Reinhoffer)
+- TOP 18.9: Beirat für Kultur, Touristik und Stadtmarketing (Anfrage von RM Reinhoffer)
+- TOP 18.10: Renaturierungsmaßnahmen an der Dinkel (Anfrage vom RM Schwartze)
+- TOP 18.11: Aufforstung Losserstraße (Anfrage vom RM Bieber)
+- TOP 18.12: Fahrradstraße Alfertring (Anfrage vom RM Tegetmeyer)
+- TOP 18.13: Umsetzung des Landschaftsplanes (Anfrage vom RM Krefter)
