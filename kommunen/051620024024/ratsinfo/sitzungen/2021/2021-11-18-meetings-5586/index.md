@@ -1,0 +1,51 @@
+# Haupt- und Sicherheitsausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-11-18T17:00:00+01:00
+- Ende: 2021-11-18T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/221
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5586
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5586
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00156141.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00156141.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00156141.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 5: Brandschutzbedarfsplan der Stadt Neuss für die Jahre 2022 bis 2026 - einstimmig zugestimmt
+- TOP 6: Verlängerung der Testphase zur Anpassung der Parkgebühren im öffentlichen Straßenraum und in den Parkhäusern - mehrheitlich zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP 7: Neufestsetzung der Gebühren für den Rettungsdienst der Stadt Neuss ab 2022 - einstimmig zugestimmt
+- TOP 8: Gleichstellungsplan 2022 - 2025 - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 9: Beratung des Haushaltsentwurfes für das Dezernat Bürgermeister - einstimmig zugestimmt
+- TOP 10: Beratung des Haushaltsplan-Entwurfes 2022 für die Verwaltungsdigitalisierung - einstimmig zugestimmt
+- TOP 11: Beratung des Haushaltsplan-Entwurfes 2022 für das Personalamt - einstimmig zugestimmt
+- TOP 12: Beratung des Haushaltsplan-Entwurfes 2022 für das Rechtsamt - einstimmig zugestimmt
+- TOP 13: Beratung des Haushaltsplan-Entwurfes 2022 des Bürger- und Ordnungsamtes - einstimmig zugestimmt
+- TOP 14: Beratung des Haushaltsplan-Entwurfes 2022 des Amtes für Brandschutz und Rettungswesen - einstimmig zugestimmt
+- TOP 15: Beratung der Maßnahmen im Wirtschaftsplan 2022 des Gebäudemanagements für die Verwaltungsdigitalisierung als Generalmieter für die Stadt Neuss - einstimmig zugestimmt
+- TOP 16: Beratung der Maßnahmen im Wirtschaftsplan 2022 ff. des Gebäudemanagements für das Amt für Brandschutz und Rettungswesen - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 17: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Sicherheitsoffensive für Bahnhofsumfeld und Stadthalle - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 18: Sachstandsbericht zu den Ergebnissen des kriminalpräventiven Rates - wird nachgereicht - - zur Kenntnis genommen
+- TOP 19: Haushaltskonsolidierung Dezernat BM - zur Kenntnis genommen
+- TOP 20: Berichterstattung über aktuelle Digitalisierungsprojekte - zur Kenntnis genommen
+- TOP 21: Haushaltskonsolidierung - zur Kenntnis genommen
+- TOP 22: Sachstandsbericht Bürgeramt - zur Kenntnis genommen
+- TOP 23: Aufgaben und Personalsituation des Jugendamtes - zur Kenntnis genommen
+- TOP 24: Umbenennung der Stadt Neuss in "Neuss am Rhein" - zur Kenntnis genommen
+- TOP 24.1: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP 25: Einwohner*innenfragestunde
