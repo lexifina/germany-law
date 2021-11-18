@@ -1,0 +1,197 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2021-11-18T17:30:00+01:00
+- Ende: 2021-11-18T23:04:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5452
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5452
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=519867
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Vorkaufspraxis in Milieuschutzgebieten - beantwortet
+- TOP 2.2: Erteilung von Geburtsurkunden - beantwortet
+- TOP 2.3: Verkaufte Liegenschaften im Millieuschutzgebiet - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - im Ausschuss abgelehnt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Dringlichkeitsanträge zur Bildung von Ausschüssen - (offen)
+- TOP 5.1: Bildung von Ausschüssen - ohne Änderungen in der BVV beschlossen
+- TOP 6: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 7: Thematische Stunde - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Warmer Otto - welche Konsequenzen zieht das Bezirksamt, um die Versorgung sicherzustellen? - beantwortet
+- TOP 8.2: Mehr Impfangebote gegen Covid? - beantwortet
+- TOP 8.3: Altes Toilettenhaus an der Barfußstraße - beantwortet
+- TOP 8.4: Kontrolle der 2G-Regeln durch das Ordnungsamt in Mitte - beantwortet
+- TOP 8.5: IPads an Schule gestohlen - beantwortet
+- TOP 8.6: Tourismus nach der Corona-Pandemie II - beantwortet
+- TOP 8.7: Intransparente Parklets? - schriftlich beantwortet
+- TOP 8.8: Zustand an der Friedrichstraße - schriftlich beantwortet
+- TOP 9: Dringlichkeitsanfragen - (offen)
+- TOP 9.1: Vorkaufsrecht – keine Option zum Milieuschutz mehr? - beantwortet
+- TOP 9.2: Auswirkungen des Urteils des Bundesverwaltungsgerichts zum Vorkaufsrecht - schriftlich beantwortet
+- TOP 9.3: Zum Verkauf und ausstehenden Abwendungsvereinbarung, eines Vorkaufsrechtes der Wohnhäuser Stromstraße 20 – 21, 10551 Berlin sowie Perleberger Straße 41, 10559 Berlin - schriftlich beantwortet
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: IBV Café Leo - beantwortet
+- TOP 10.2: IBV Café Leo - ein zu schwieriges Verfahren für das Bezirksamt? - beantwortet
+- TOP 10.3: Sachstand zur VzK 2865/V - beantwortet
+- TOP 10.4: Briefwahl mit Hindernissen in Berlin Mitte - schriftlich beantwortet
+- TOP 10.5: Was wird aus der Obdachlosenstätte „Warmer Otto“ in Moabit? - schriftlich beantwortet
+- TOP 10.6: Inzidenzen steigen, Coronasituation spitzt sich zu – braucht Mitte die Bundeswehr? - schriftlich beantwortet
+- TOP 10.7: Fachkommission Kunst im Stadtraum - schriftlich beantwortet
+- TOP 10.8: Turmstraße aufgerissen, Geschäfte auf Jahre abgeschnitten? - schriftlich beantwortet
+- TOP 10.9: Situation im „Warmen Otto“ - schriftlich beantwortet
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: redaktionelle Anpassung in der Geschäftsordnung der BVV Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: über die Wahl und Berufung der stimmberechtigten Mitglieder des Jugendhilfeausschusses gem. § 35 AG KJHG - überwiesen
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: über den Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltsjahre 2022 und 2023. - überwiesen
+- TOP 12.2: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2020 - überwiesen
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13.1: über die Genehmigung der im Haushaltsjahr 2020 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen. - ohne Änderungen in der BVV beschlossen
+- TOP 14: Dringlichkeitsanträge - (offen)
+- TOP 14.1: Interessenbekundungsverfahren Café Leo ist nicht rechtskonform und muss wiederholt werden - überwiesen
+- TOP 14.2: Das Bezirksamt muss sich seiner Verantwortung gegenüber dem Haus der Weisheit stellen - überwiesen
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Auskömmliche Finanzierung aller Frauenprojekte im Bezirk im nächsten Doppelhaushalt - überwiesen
+- TOP 15.2: Rathenower Straße 23- Baustopp jetzt! - mit Änderungen in der BVV beschlossen
+- TOP 15.3: Ein fester, dauerhafter Standort für Fixpunkt am Leopoldplatz! - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Krausenstraße - mit Änderungen in der BVV beschlossen
+- TOP 15.5: Den Park an der Südpanke sauber halten – geeignete Mülleimer aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Städtebauliche Erhaltungssatzung für den Wohn- und Gewerbehof in der Koloniestr. 10 - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Präventionsarbeit im Kiez – Veranstaltungsformat retten durch qualifiziertes Beteiligen - überwiesen
+- TOP 15.8: Eine Kita ist von öffentlichem Belang! - überwiesen
+- TOP 15.9: Entscheidung überdenken – keine Drogenmeile an der Müllerstraße! - in der BVV abgelehnt
+- TOP 15.10: Wedding: Rathausvorplatz für alle II - überwiesen
+- TOP 15.11: Grauflächenamt im Brüsseler Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 15.12: Keine Wohnhausabrisse und Mieter*innenvertreibung in der Tegeler Straße 2-5 sowie Tegeler Straße 6-7 und Tegeler Straße 1/Fennstraße 33/34 durch Bayer-Schering II - überwiesen
+- TOP 15.13: Straßenschilder im Afrikanischen Viertel erneuern! - ohne Änderungen in der BVV beschlossen
+- TOP 15.14: Die Gastronomie in der Pandemie unterstützen – Schankgärten offen halten - überwiesen
+- TOP 15.15: Gesundheit schützen, Hitzeaktionsplanung vorantreiben - überwiesen
+- TOP 15.16: Transportquerungen erleichtern das Zusammenleben - in der BVV zurückgezogen
+- TOP 15.17: Ackerstraße wirklich entschleunigen - überwiesen
+- TOP 15.18: „Charta der Rücksicht“ für 2022 fortentwickeln! - überwiesen
+- TOP 15.19: Ruhmesblatt des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 15.20: Warmen Otto offenhalten! - mit Änderungen in der BVV beschlossen
+- TOP 15.21: Sicherer Fußgängerüberweg in der Müller-/Ecke Burgsdorfstraße - überwiesen
+- TOP 15.22: Mehr Mülleimer am Schillerpark - ohne Änderungen in der BVV beschlossen
+- TOP 16: Entschließungen - (offen)
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Fußverkehr statt Durchgangsverkehr im Brüsseler Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 17.2: Rehberge – wohin mit dem Müll - erledigt
+- TOP 17.3: Öffentliche Räume attraktiver machen - mehr Sitzbänke für Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 17.4: Zusammen für mehr Kitaplätze in Mitte - mit Änderungen in der BVV beschlossen
+- TOP 17.5: Klarheit für parkende Anwohner in Moabit schaffen! - erledigt
+- TOP 17.6: Kunst und Kultur im Monbijoupark – Wintersaison 2021/22 jetzt vorbereiten - in der BVV abgelehnt
+- TOP 17.7: Rund um den Plötzensee - ohne Änderungen in der BVV beschlossen
+- TOP 17.8: Parkcafé Rehberge endlich einer Nutzung zuführen! - in der BVV abgelehnt
+- TOP 17.9: Krausenstraße ist kein Experimentierfeld - mit Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Bericht über Partnerschaften des Bezirks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.3: Die Chance auf eine moderne Verwaltung in Mitte nutzen – zügig E-Government-Gesetz umsetzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.4: Bebauungsplan zur Sicherung der Nutzungen auf der Wiesenburg (Wiesenstraße 55) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Wir bleiben alle! Remisen und deren Nutzung in der Koloniestraße 10 sichern! (2) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Schimmel in bezirklichen Gebäuden vorbeugen und wirksam bekämpfen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.7: Akzeptanz von Kreditkarten im Bürgeramt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Bürgeramt macht mobil bei Pass, Perso und ganz viel. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.9: Knotenpunkt Lützowufer/Klingelhöferstr./Lützowplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.10: Gerichtshöfe Gerichtsstraße 12: Vom Mediationsverfahren zur nachhaltigen Zusammenarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Bürgerämter auch für Bürger mit Seheinschränkungen nutzerfreundlich gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.12: Einvernehmliche Lösung für die Entwicklung der Gerichtshöfe gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.13: Der Bezirk-Mitte erkennt den Klimanotstand an - vertagt
+- TOP 18.14: Akteure vor Ort bei Spreeuferentwicklung in der nördlichen Luisenstadt mit einbeziehen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.15: Mobility Data Specification auch für Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.16: Uferhallen als Kulturstandort erhalten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.17: Ehemaliges Moabiter Krankenhaus als Standort für soziale und gesundheitliche Dienstleistungen ausbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.18: Großflächenwerbung an bewohnten Wohnhäusern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.19: Neuköllner Modell für mehr Sozialwohnungen auch in Mitte anwenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.20: StVO-Power für Mitte - Fahrradzonen anstatt Tempo 30 Zonen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.21: Abriss verhindern! Wohn- und Gewerbehof in der Koloniestr.10 erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.22: Denkmalschutz für den Wohn? und Gewerbehof in der Koloniestr. 10 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.23: Grundlagen für eine Bebauung des Molkenmarkts - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.24: Aufstellmöglichkeiten für Getränkeautomaten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.25: Rettung der Flora und Fauna des Plötzensees - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.26: ZK/U unterstützen – Voraussetzungen für Umsetzung der Umbaumaßnahmen schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.27: Konzept Vorkaufsrecht gem. § 24 Abs. 1 Nr. 4 BauGB in sozialen Erhaltungsgebieten (Milieuschutz) II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.28: Das Parkcafé in den Rehbergen für die Bevölkerung erhalten und nutzbar machen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.29: Hussitenstr. zwischen Gustav-Meyer-Allee und Usedomer Str. entschleunigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.30: Planungsidee für die Winterzeit der Einzelhandelsgeschäfte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.31: Genehmigungspraxis in Zeiten der Pandemie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.32: Radfahren auf der Perleberger Straße sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.33: Schulbaumaßnahmen wie geplant realisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.34: Lärmemissionen auf der Transvaalstraße anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.35: Mobile Luftfilter für Mittes Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.36: Vorkaufsrechte in Milieuschutzgebieten von Mitte wahrnehmen (§ 24 Abs. 1 Satz 1 Nr. 4 BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.37: Verbesserungen durch Mobilitätsgesetz in der Invalidenstraße – Transparenz unterstreichen, Praxisauswertung einplanen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.38: Sucht- und Beratungsstelle „Frauenladen“ des Trägers FrauSuchtZukunft erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.39: Zukunft des Sportes umweltfreundlich gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.40: Poststadion als Trainingsplatz für die Fußball Europameisterschaften „EURO2024“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.41: Roter Atlas gefährdeter Arten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.42: Kreuzung Tegeler Straße Ecke Lynarstraße wieder kindersicher machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.43: Mittagsgerichte to go durch Schulcaterer für Kinder aus sozial benach-teiligten Haushalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.44: Platz für Bienen in der Amrumer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.45: Kein Kind zurücklassen – schnelle und flexible Lösungen müssen her - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.46: Die Beusselstraße braucht endlich Radwege – Stadtteilvertretung Turmstraße aktiv unterstützen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.47: Einrichtung eines geschützen Fahrradweges in der Beusselstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.48: Parkcafé Rehberge - Kostenermittlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.49: Mittel für luK im Fachbereich Schule den aktuellen Anforderungen anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.50: Mitte wird wieder lebendig - Gastronomie und Einzelhandel jetzt weiter unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.51: Landschaftsschutzgebiet in der Rehberge ausdehnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.52: Mehr kühlende Wasserelemente für Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.53: Die Digitalisierung der Schulen braucht Technik UND professionelles Personal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.54: Planungssicherheit für Café Leo - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.55: Chancengleichheit beim Bildungserwerb trotz Corona-Rückschlägen sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.56: Stolperfreies Spielen ermöglichen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.57: Sport macht müde Menschen munter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.58: FFF-Forderungen umsetzen - Fortbildungen zum Klimaschutz für alle Beschäftigten des Bezirksamtes ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.59: Des 76. Jahrestages der Befreiung gedenken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.60: Hilfe für die Wahl zur Seniorenvertretung in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.61: Den zentralen Festplatz als neues Stadtquartier mit der dafür erforderlichen Infrastruktur (u.a.: Schule, Kita, Jugendeinrichtungen) zu entwickeln und Voraussetzungen für die Umsetzung des BVV-Beschlusses 1956/V schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.62: Neuen Schulstandort an der Schulstraße 97 zu Gunsten eines Bildungsverbunds mit den umliegenden ISS 5-zügig ausgestalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.63: Tischtennisplatten im Kinderbad Monbijou der Öffentlichkeit zugänglich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.64: Anna-Lindh-Grundschule schnellstmöglich vom Schimmel befreien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.65: Naturkindergarten ermöglichen, nicht verhindern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.66: Personelle Verstärkung im Bereich Verfolgung von Zweckentfremdung von Wohnraum in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.67: Teepeeland bei Sanierung der Uferpromenade des Spreeuferweges sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.68: Multimodale und autofreie Straßenbahnhaltestellen frühzeitig planen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.69: Zivilgesellschaftlichen Willen zum Café Leo auf dem Leopoldplatz ernst nehmen und umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.70: Nahversorgung am Ackerplatz auch nach der Sanierung gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.71: Kiezblocks für Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.72: Schimmelbildung in den Kellern unsrer Schulen vorbeugen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.73: Leitlinien der Bürgerbeteiligung in Mitte: BVV-Beratungsverfahren zu 4.2, Fall B - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.74: Kurzfristige Ersatzräumlichkeiten und langfristige bezahlbare Perspektive für das Haus der Weisheit in der Rathenower Straße schaffen! - vertagt
+- TOP 18.75: Kunst und Kultur open air jetzt und sofort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.76: Gefährdungen durch Elektro-Vehikel abschalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.77: Ein Kieztreff für das Hansaviertel und das südliche Moabit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.78: Nutzungsverlängerung für das Café Leo - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.79: Kostenlose Menstruationsprodukte für Schüler:innen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.80: Parkcafé Rehberge fördern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.81: Anwohnerinnen und Anwohner der Drontheimer Straße 12-15 schützen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.82: „Köpi“ & Wagenplatz retten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.83: Vorkaufsrecht der Alten Schönhauser Straße 26 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.84: Kultur im Strandbad Plötzensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.85: Bewilligungszeitraum für den Bewilligungsbescheid nach dem IBV zum Cafe Leo ergänzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.86: Zeitnahe Freigabe der Gastronomie der Vagabund Brauerei - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.87: Keine Wohnhausabrisse und Mieter*innenvertreibung in der Tegeler Straße 2-5 sowie Tegeler Straße 6-7 und Tegeler Straße 1/Fennstraße 33/34 durch Bayer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.88: Herstellung eines provisorischen Spreeuferweges im Holzuferblock zwischen Michaelbrücke und Schillingbrücke im Sanierungsgebiet Nördliche Luisenstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.89: über den Beschluss über die Einstellung des Bebauungsplanverfahrens III-205 für die Kolonie St. Georg und die Kolonie Nordkap I an der Osloer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.90: über den Beschluss des Anhörungsergebnisses der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB und der frühzeitigen Behördenbeteiligung gem. § 4 Abs. 1 BauGB zum Entwurf des vorhabenbezogenen Bebauungsplans II-7b-1VE „Strom-/Turmstraße“ und die Durchführung der Behördenbeteiligung gemäß § 4 Abs. 2 BauGB sowie die förmliche Einstellung des Bebauungsplanverfahrens II-7b-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.91: über den Beschluss der Teilung des räumlichen Geltungsbereichs des Bebauungsplanentwurfs 1-112 (Uferhallen) sowie die Einbringung einer Vorlage in die Bezirksverordnetenversammlung – zur Kenntnisnahme - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.92: über Fortschreibung Konzept zur Umsetzung der Leitlinien für Bürgerbeteiligung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.93: über Blockkkonzept für den Block 195 - Untersuchung und grundstücksbezogene Sanierungsziele im Aktiven Zentrum und Sanierungsgebiet Wedding Müllerstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.94: „Interessensbekundungsverfahren Parkcafé Rehberge“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.95: Zielsystem für das Kalenderjahr 2021 – Bericht über das Erreichen der Ziele (Erfolgs-kontrolle) zum 31. August 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.96: Abschluss der Zielvereinbarung (ZV) Soziale Wohnhilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.97: Beschluss des Anhörungsergebnisses der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB und der frühzeitigen Behördenbeteiligung gem. § 4 Abs. 1 BauGB zum Entwurf des Bebauungsplans 1-107„Berliner Stadtmission“ für die Grundstücke Seydlitzstraße 20-22 und Lehrter Straße 67-69A im Bezirk Mitte, Ortsteil Moabit und die Durchführung der Behördenbeteiligung gemäß § 4 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.98: über Geschäftsverteilung und Vertretungsregelungen des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
