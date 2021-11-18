@@ -1,6 +1,7 @@
 # Gesetz über den Verkehr mit Arzneimitteln
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
+- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Erster Abschnitt Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
 
@@ -42,6 +43,7 @@
 ## Vierter Abschnitt Zulassung der Arzneimittel
 
 - [§ 21 Zulassungspflicht](0021.md)
+- [§ 21 Zulassungspflicht](0021-2.md)
 - [§ 21a Genehmigung von Gewebezubereitungen](0021a.md)
 - [§ 22 Zulassungsunterlagen](0022.md)
 - [§ 23 Besondere Unterlagen bei Arzneimitteln für Tiere](0023.md)
@@ -161,6 +163,7 @@ verwendet werden können](0059c.md)
 - [§ 65 Probenahme](0065.md)
 - [§ 66 Duldungs- und Mitwirkungspflicht](0066.md)
 - [§ 67 Allgemeine Anzeigepflicht](0067.md)
+- [§ 67 Allgemeine Anzeigepflicht](0067-2.md)
 - [§ 67a Datenbankgestütztes Informationssystem](0067a.md)
 - [§ 67b EU-Kompendium der Gewebeeinrichtungen, EU-Kompendium der Gewebe- und Zellprodukte, Unterrichtungspflichten](0067b.md)
 - [§ 68 Mitteilungs- und Unterrichtungspflichten](0068.md)
@@ -225,8 +228,8 @@ Arzneimittelschäden
 ## Siebzehnter Abschnitt Straf- und Bußgeldvorschriften
 
 - [§ 95 Strafvorschriften](0095.md)
-- [§ 96 Strafvorschriften](0096.md)
 - [§ 97 Bußgeldvorschriften](0097.md)
+- [§ 97 Bußgeldvorschriften](0097-2.md)
 - [§ 98 Einziehung](0098.md)
 
 ## Achtzehnter Abschnitt Überleitungs- und
@@ -359,6 +362,10 @@ des Arzneimittelgesetzes
 ### Neunzehnter Unterabschnitt Übergangsvorschrift
 
 - [§ 147 Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften](0147.md)
+
+### Zwanzigster Unterabschnitt Übergangsvorschrift
+
+- [§ 148 Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften](0148.md)
 
 ### Einundzwanzigster Unterabschnitt Übergangsvorschrift
 

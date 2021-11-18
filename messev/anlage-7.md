@@ -53,7 +53,7 @@ Tabelle 1
 | 5.4.4 | Ortsfeste Heizölzähler zur Versorgung einzelner Wohnungen | nicht befristet |
 | 5.5 | Messgeräte für strömendes Wasser |  |
 | 5.5.1 | Wasserzähler für Kaltwasser und ihre mechanischen Zusatzeinrichtungen mit Ausnahme der Einrichtungen nach Nummer 5.5.5 | 6 |
-| 5.5.2 | Wasserzähler für Warmwasser mit Ausnahme der Zähler nach Nummer 5.5.4 | 5 |
+| 5.5.2 | Wasserzähler für Warmwasser mit Ausnahme der Zähler nach Nummer 5.5.4 | 6 |
 | 5.5.3 | elektronische Zusatzeinrichtungen für Wasserzähler (Kalt- und Warmwasser), sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist | 8 |
 | 5.5.4 | Kondensatwasserzähler | 8 |
 | 5.5.5 | Einrichtungen zur Messwertübertragung einschließlich der zugehörigen Messwertgeber an Wasserzählern | nicht befristet |
@@ -75,12 +75,13 @@ Tabelle 1
 | 6.1 | Elektrizitätszähler in der Ausführung als Einphasen- und Mehrphasen-Wechselstromzähler mit Induktionsmesswerk einschließlich Doppeltarifzähler, mit Ausnahme der Zähler nach Nummer 6.2 | 16 |
 | 6.2 | Elektrizitätszähler in der Ausführung als Einphasen- und Mehrphasen-Wechselstromzähler mit Induktionsmesswerk als Messwandlerzähler, als mechanische Mehrtarif-, Maximum- und Überverbrauchszähler sowie mechanische Zusatzeinrichtungen für Elektrizitätszähler | 12 |
 | 6.3 | Elektrizitätszähler in der Ausführung als Einphasen- und Mehrphasen-Wechselstromzähler mit elektronischem Messwerk für direkten Anschluss und Anschluss an Messwandler sowie eingebaute und getrennt angeordnete elektronische Zusatzeinrichtungen für Elektrizitätszähler, sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist | 8 |
-| 6.4 | Elektrizitätszähler für Gleichstrom | 4 |
-| 6.5 | Messwandler für Elektrizitätszähler | nicht befristet |
-| 6.6 | Messgeräte und Zusatzeinrichtungen bei der Lieferung von Elektrizität für Elektrofahrzeuge und an Ladepunkten | 8 |
+| 6.4 | Elektrizitätszähler für Gleichstrom mit Ausnahme der Elektrizitätszähler nach der Nummer 6.5 | 4 |
+| 6.5 | Elektrizitätszähler für Gleichstrom mit elektronischem Messwerk | 8 |
+| 6.6 | Messwandler für Elektrizitätszähler | nicht befristet |
+| 6.7 | Messgeräte und Zusatzeinrichtungen bei der Lieferung von Elektrizität für Elektrofahrzeuge und an Ladepunkten | 8 |
 | 7. | Messgeräte zur Bestimmung der Wärmemenge (Wärme und Kälte in Kreislaufsystemen) |  |
-| 7.1 | Wärmezähler und Kältezähler | 5 |
-| 7.2 | Warm- und Heißwasserzähler für Wärmetauscher-Kreislaufsysteme | 5 |
+| 7.1 | Wärmezähler und Kältezähler | 6 |
+| 7.2 | Warm- und Heißwasserzähler für Wärmetauscher-Kreislaufsysteme | 6 |
 | 7.3 | elektronische Zusatzeinrichtungen für Wärme- und Kältezähler, sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist | 8 |
 | 8. | Messgeräte zur Bestimmung von Dichte oder Massenanteil oder Massenkonzentration oder Volumenkonzentration von Flüssigkeiten |  |
 | 8.1 | Dichte- oder Gehaltsmessgeräte, bei denen die messwertbestimmenden Teile aus Glas hergestellt sind | nicht befristet |
@@ -99,9 +100,8 @@ Tabelle 1
 | 11. | Messgeräte zur Bestimmung des Schalldruckpegels und daraus abgeleitete Messgrößen |  |
 | 12. | Messgeräte zur Bestimmung von Messgrößen im öffentlichen Verkehr |  |
 | 12.1 | Radlastwaagen und Geschwindigkeitsmessgeräte für die amtliche Überwachung des öffentlichen Verkehrs | 1 |
-| 12.2 | Messgeräte für die Abgasuntersuchung von Kraftfahrzeugen für die amtliche Überwachung des öffentlichen Verkehrs | 1 |
-| 12.3 | mechanische Stoppuhren für die amtliche Überwachung des öffentlichen Verkehrs | 1 |
-| 12.4 | Taxameter einschließlich Wegstreckensignalgeber in Kraftfahrzeugen | 1 |
+| 12.2 | mechanische Stoppuhren für die amtliche Überwachung des öffentlichen Verkehrs | 1 |
+| 12.3 | Taxameter einschließlich Wegstreckensignalgeber in Kraftfahrzeugen | 1 |
 | 13. | Messgeräte zur Bestimmung der Dosis ionisierender Strahlung |  |
 | 13.1 | Messgeräte zur Bestimmung der Dosis ionisierender Photonenstrahlung mit einer radioaktiven Kontrollvorrichtung, die die Kontrolle des gesamten Dosimeters (Detektor und Messwerterfassungs- und Anzeigesystem) gestattet und die über eine von der Physikalisch-Technischen Bundesanstalt ausgestellte Baumusterprüfbescheinigung verfügt und wenn der Verwender Kontrollmessungen entsprechend der für die Kontrollvorrichtung ausgestellten Baumusterprüfbescheinigung mindestens halbjährlich durchführt, die Ergebnisse aufzeichnet und mindestens sechs Jahre aufbewahrt | 6 |
 | 13.2 | Passive, integrierende Dosimeter, wenn sie nach § 29 Absatz 1 und 2 von einer Dosimetriestelle verwendet werden | nicht befristet |
