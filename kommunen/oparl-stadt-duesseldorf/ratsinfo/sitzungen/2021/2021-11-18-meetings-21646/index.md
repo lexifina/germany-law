@@ -1,0 +1,101 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-18T14:00:00+01:00
+- Ende: 2021-11-18T18:42:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21646
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21646
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 18.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431127.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 18.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431127.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 18.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431127.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 16.09.2021 (SI-RAT/006/2021) - einstimmig beschlossen
+- TOP 4: Aktuelle Informationen zur Corona-Pandemie - zur Kenntnis genommen
+- TOP 5: Anfragen aus aktuellem Anlass
+- TOP 5.1: Anfrage aus aktuellem Anlass der Ratsfrau Opelt: Aktuelle Corona-Entwicklung in Düsseldorf: Wann kommt endlich die Testpflicht für Geimpfte und Genesene? - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: War Dr. Stephan Keller als Oberbürgermeister oder als Parteipolitiker in Berlin und München? - schriftlich beantwortet
+- TOP 6.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: nächtliche Flugbewegungen am Flughafen Düsseldorf - schriftlich beantwortet
+- TOP 6.3: Anfrage der CDU-Ratsfraktion: Mehr Raum für Kinder: Novellierung der Spielplatzsatzung - schriftlich beantwortet
+- TOP 6.4: Anfrage der SPD-Ratsfraktion: Protected-Bike-Lane Am Trippelsberg - schriftlich beantwortet
+- TOP 6.5: Anfrage der Ratsfraktion DIE LINKE: Mehrerträge durch Gewerbesteuererhöhung - schriftlich beantwortet
+- TOP 6.6: Anfrage der Ratsfraktion DIE LINKE: Kein Abschiebegefängnis in Düsseldorf - schriftlich beantwortet
+- TOP 6.7: Anfrage der Ratsfrau Opelt: Stillstand im Glasmacherviertel und bei anderen Prestigeobjekten - schriftlich beantwortet
+- TOP 6.8: Anfrage des Ratsherrn Jörres: Aktuelle Sicherheitslage in der Düsseldorfer Altstadt - schriftlich beantwortet
+- TOP 6.9: Anfrage der Ratsfrau Opelt: Straßenausbaubeiträge - wie stark werden die Anwohner zusätzlich belastet - schriftlich beantwortet
+- TOP 6.10: Anfrage der Ratsfrau Kraljic: Kosten für die Beseitigung illegaler Graffitis und Aufkleber - schriftlich beantwortet
+- TOP 6.11: Anfrage der Ratsfrau Marmulla: Erweiterungsbau Kunstakademie - schriftlich beantwortet
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Kunstpalast - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 11: Bericht aus der Kleinen Kommission TVG - zur Kenntnis genommen
+- TOP 12: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 13: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 14: Entwurf des NKF-Gesamtabschlusses 2018 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 15: Bereitstellung von überplanmäßigen Haushaltsmitteln zur Finanzierung der Auswirkungen aus der Bekämpfung der COVID-19-Pandemie in den Bereichen Unterbringung Obdach und Asyl auf Basis von Beschlüssen des Krisenstabes - mehrheitlich beschlossen
+- TOP 16: Entsendung von Vertreter*innen der Landeshauptstadt Düsseldorf in die Ausschüsse der Deutschen Sektion sowie zur Delegiertenversammlung des Rates der Gemeinden und Regionen Europas (RGRE) - mehrheitlich beschlossen
+- TOP 17: Kündigung eines Konsortialvertrages - einstimmig beschlossen
+- TOP 18: Erste Anpassung des Friedhofsentwicklungskonzept im Bereich des Friedhofs Gerresheim - mehrheitlich beschlossen
+- TOP 19: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düsseldorf zum 01.01.2022 - mehrheitlich beschlossen
+- TOP 20: Neufestsetzung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes zum 01.01.2022 - mehrheitlich beschlossen
+- TOP 21: Gebührenkalkulation Abfall für 2022 - mehrheitlich beschlossen
+- TOP 22: 32. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 23: Gebührenkalkulation Straßenreinigung für 2022 - mehrheitlich beschlossen
+- TOP 24: 36. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 25: Klimaneutrales Düsseldorf: Merit Order für den Sektor Verkehr - vertagt
+- TOP 26: Satzung zur Änderung der Gebührentarife zur Gebührensatzung über die Inanspruchnahme des Rettungsdienstes der Landeshauptstadt Düsseldorf vom 15.12.2005 - einstimmig beschlossen
+- TOP 27: Neubau des Technischen Verwaltungsgebäudes (TVG) - Auslobungsbeschluss - - mehrheitlich beschlossen
+- TOP 28: Jahresbericht der Geschäftsstelle der Kunstkommission 2020/2021 - zur Kenntnis genommen
+- TOP 29: Auflösung des Beirats Duesseldorf Photo - einstimmig beschlossen
+- TOP 30: Einrichtung und Berufung der Mitglieder der Ankaufskommission der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 31: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 32: RRX-Planung Angermund - Prüfergebnisse zum Ratsauftrag vom 04.02.2021 - mehrheitlich beschlossen
+- TOP 33: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für die Maßnahme "Verlagerung der Gemeinschaftshauptschule Bernburger Straße 44 an den neuen Schulstandort Vennhauser Allee 167, 40627 Düsseldorf, Stadtbezirk 8" - einstimmig beschlossen
+- TOP 33.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage SCHUA/058/2021 - mehrheitlich abgelehnt
+- TOP 34: Klärwerk-Süd, Nachklärung, Erneuerung Maschinentechnik und Elektrotechnik (I-8030619003) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 35: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW: Dachsanierung BSA Franz-Rennefeld-Weg 15, Lichtenbroich; Dachsanierung der Hallenanbauten - einstimmig beschlossen
+- TOP 36: Aufsichtsrat der Connected Mobility Düsseldorf GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 37: Aufsichtsrat der Düsseldorf Tourismus GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 38: Aufsichtsrat der Düsseldorf Marketing GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 39: Aufsichtsrat der Klärschlammverwertung Buchenhofen GmbH - Erweiterung - - mehrheitlich beschlossen
+- TOP 40: Aufsichtsrat der SWD Städt. Wohnungsbau-GmbH & Co, KG - Ersatzwahl - - einstimmig beschlossen
+- TOP 41: Aufsichtsrat der SWD Städt. Wohnungsgesellschaft mbH & Co. KG - Ersatzwahl - - einstimmig beschlossen
+- TOP 42: Polizeibeirat -Ersatzwahl- - mehrheitlich beschlossen
+- TOP 43: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 44: Vorschlag zur Besetzung des Verwaltungsausschusses der Agentur für Arbeit Düsseldorf - abweichend beschlossen
+- TOP 45: Bebauungsplan - Entwurf Nr. 04/020 - Heerdterhof-Garten - Stellungnahmen, Änderungen, Satzung - mehrheitlich beschlossen
+- TOP 46: Bebauungsplan - Entwurf Nr. 07/004 - Ernst-Poensgen-Allee 3 - Verfahren gemäß §13a BauGB, Stellungnahmen, Satzung - mehrheitlich beschlossen
+- TOP 47: Bebauungsplan - Entwurf Nr. 03/028 - Westlich Volmerswerther Straße - Verfahren 13a BauGB, Stellungnahmen, Satzung - mehrheitlich beschlossen
+- TOP 48: Anträge
+- TOP 48.1: Antrag der Ratsfraktion DIE LINKE: Rückbau des Zauns auf dem Worringer Platz - mehrheitlich abgelehnt
+- TOP 48.1.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/514/2021 - zurückgezogen
+- TOP 48.1.2: Änderungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN und SPD zur Vorlage RAT/514/2021 - mehrheitlich beschlossen
+- TOP 48.2: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Städtische Unterkünfte und bezahlbares Wohnen: Weiterentwicklung der Grundstücke am Hasseler Richtweg und am Zaunkönigweg - mehrheitlich beschlossen
+- TOP 48.2.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/453/2021 - mehrheitlich abgelehnt
+- TOP 48.2.2: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage RAT/453/2021 - mehrheitlich beschlossen
+- TOP 48.3: Antrag der Ratsfraktionen von CDU, Bündnis 90/Die Grünen, SPD und FDP: Aufnahme Geflüchteter aus Afghanistan - mehrheitlich beschlossen
+- TOP 48.3.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/525/2021 - mehrheitlich abgelehnt
+- TOP 48.4: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Unterstützung der „kommunalen Initiative für stadtverträglichen Verkehr“ - mehrheitlich beschlossen
+- TOP 48.5: Antrag der SPD-Ratsfraktion: Verdopplung der Fahrgastzahlen im ÖPNV und SPNV - Finanzierung durch Bund und Länder - abweichend beschlossen
+- TOP 48.6: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Klimaziele verschärfen, Klimakrise verhindern - verwiesen
+- TOP 48.7: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Positionspapier "Lebenswerte Städte durch angemessene Geschwindigkeiten"
+- TOP 48.8: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Das Gerüst muss her - mehrheitlich abgelehnt
+- TOP 48.9: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Ausschüsse abschaffen! - einstimmig abgelehnt
+- TOP 48.10: Antrag der SPD-Ratsfraktion: Klimaneutralität im Sektor Verkehr bis 2035 - vertagt
+- TOP 48.11: Antrag der Ratsfraktion DIE LINKE: Ermittlung von leerstehendem Wohnraum durch Datenabgleich - mehrheitlich abgelehnt
+- TOP 48.12: Antrag der Ratsfraktion DIE LINKE: Beschränkung der Umwandlung von Miet- in Eigentumswohnungen - mehrheitlich abgelehnt
+- TOP 48.13: Antrag der AfD-Ratsfraktion: Förderung Rad fahren von Kindern - mehrheitlich abgelehnt
+- TOP 48.14: Antrag der AfD-Ratsfraktion: Strengere Auflagen für die Anbieter von E-Scootern im Stadtgebiet - mehrheitlich abgelehnt
+- TOP 48.15: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Düsseldorfer Innenstadtkonferenz - mehrheitlich beschlossen
+- TOP 48.15.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/603/2021 - mehrheitlich abgelehnt
+- TOP 48.15.2: Ergänzungsantrag der Ratsfraktion die PARTEI-Klima-Fraktion zur Vorlage RAT/603/2021 - mehrheitlich abgelehnt
+- TOP 48.16: Antrag der Ratsfraktion DIE LINKE: Bekämpfung des Antiziganismus - einstimmig beschlossen
