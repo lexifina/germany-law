@@ -1,0 +1,69 @@
+# 7. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-18T15:30:00+01:00
+- Ende: 2021-11-18T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23743
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23743
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 2.4: Interkulturelle Zentren Köln - Übersichtskarte Stand: 1.09.2021 - Kenntnis genommen
+- TOP 2.5: KOMM-AN NRW – Landesförderprogramm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2021 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Energiearmut verhindern! Schutzbedürftige Verbrauchende unterstützen! - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 3.1 „Energiearmut verhindern! Schutzbedürftige Verbrauchende unterstützen!“ (AN/2277/2021) - zurückgestellt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Anerkennung eines neuen Interkulturellen Zentrums in Köln: "AWA - Deutsch-Iranisches Bildungs- und Kulturzentrum e.V." - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Stadtstrategie „Kölner Perspektiven 2030+“ - ohne Votum in nachfolgende Gremien
+- TOP 5.2: Städtische Katastrophenschutzeinrichtung Boltensternstr. 2-4, 50735 Köln-Niehl - ungeändert beschlossen
+- TOP 5.3: 2. Controlling-Bericht: Diversity-Konzept "2020: Köln l(i)ebt Vielfalt" - ungeändert beschlossen
+- TOP 5.4: Verlängerung Auszugsmanagement 2022/2023 - ungeändert beschlossen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Modellversuch des Landes Nordrhein-Westfalen zur Verlängerung und zum Ankauf von Belegungsbindungen - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: 2. Quartalsbericht 2021 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.2: 34. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 9.3: Beschaffungen von Erstausstattungen und Ersatzbeschaffungen von Hausrat bei Geflüchteten in den Unterbringungseinrichtungen des Amtes für Wohnungswesen - Kenntnis genommen
+- TOP 9.4: Beantwortung einer Anfrage zur Auflösung von Sammelunterkünften - Kenntnis genommen
+- TOP 9.5: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Neusser Landstraße 117, 50769 Köln-Fühlingen - Haushaltsrechtliche Unterrichtung gem. § 25 I Nr. 2 KomHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Anfrage der SPD-Fraktion: Armut in Köln: Wohnungs- und Obdachlosigkeit 2021 - Sache ist erledigt
+- TOP -: Beantwortung: Armut in Köln: Wohnungs- und Obdachlosigkeit 2021 (zu AN/1601/2021) - Kenntnis genommen
+- TOP 10.1.2: Anfrage der SPD-Fraktion: Stadtteilmütter weiter stützen! - Sache ist erledigt
+- TOP -: Beantwortung: Stadtteilmütter weiter stützen! - Kenntnis genommen
+- TOP 10.1.3: Anfrage der Fraktionen SPD, Die Linke: Wohnungs- und Obdachlosenhilfe in Köln - Sache ist erledigt
+- TOP -: Beantwortung: Wohnungs- und Obdachlosenhilfe in Köln (AN/2044/2021) - Kenntnis genommen
+- TOP 10.1.4: Anfrage der SPD-Fraktion: Platzmangel der Frauenhäuser in Köln - Sache ist erledigt
+- TOP -: Beantwortung: Platzmangel Frauenhäuser in Köln - Kenntnis genommen
+- TOP 10.1.5: Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Beratungsstelle für gemeinschaftliche Wohnungsbauprojekte" (AN/2015/2021) - Kenntnis genommen
+- TOP 10.1.6: Beantwortung der Anfrage der SPD Fraktion: "Familiennachzug zu afghanischen Geflüchteten in Köln" (AN/2011/2021) - Kenntnis genommen
+- TOP 10.1.7: Beantwortung der Anfrage Kölnberg: Bekämpfung der Rattenplage und sozialorientierte Wohnungspolitik (AN/1782/2021) - Kenntnis genommen
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage der Fraktion Die Linke: Steigende Energiepreise und Heizkosten in der Grundsicherung - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Fraktion Die Linke (AN/2179/2021) zu steigenden Energiepreisen und Heizkosten in der Grundsicherung - Kenntnis genommen
+- TOP 10.2.2: Beantwortung der Fraktion Die Linke: Kommunales Halteprogramm für Pflegekräfte (AN/2085/2021) - Kenntnis genommen
+- TOP 10.2.3: Anfrage der SPD-Fraktion: Einbehaltung von Barbeträgen zur persönlichen Verfügung bei Hilfe zur Pflege - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung der mündl. Fragen der SPD-Fraktion aus der Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren am 26. August 2021 zum 2. Coronabericht - Kenntnis genommen
+- TOP 12: Mitteilungen
+- TOP 12.1: Ergebnisbericht und Dokumentation des Programms Mentegra: Betriebliches Mentoring für qualifizierte geflüchtete Frauen zur beruflichen Integration - Kenntnis genommen
+- TOP 12.2: Netzwerk gegen häusliche Gewalt – Statistik 2020 - Kenntnis genommen
+- TOP 12.3: Fachkreis für Plätze mit besonderem Handlungsbedarf - zurückgestellt
+- TOP 12.4: KomProArBeit - Sachbericht 2020 und Sachstandsmitteilung - Kenntnis genommen
+- TOP 12.5: Start der Humanitären Winterhilfe 2021/2022 - Kenntnis genommen
