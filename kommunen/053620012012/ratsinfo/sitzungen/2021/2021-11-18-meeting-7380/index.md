@@ -1,0 +1,62 @@
+# Ausschuss für Bauen, Umwelt und Klimaschutz (5. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-11-18T18:00:00+01:00
+- Ende: 2021-11-18T20:02:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-292
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZT6XAj_nS_jZouAqiNPnsdw
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7380
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Bauen, Umwelt und Klimaschutz) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdClupZr0HExAWC0EQon1lir2GXRmheP1hjEcvlxZK_e/Bekanntmachung_Ausschuss_fuer_Bauen-_Umwelt_und_Klimaschutz_18.11.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Bauen, Umwelt und Klimaschutz) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQSCCr7z-J2qFvtyHCB65NvVA0sIuvdLpMp0BNdPKUVo/Oeffentliche_Niederschrift_Ausschuss_fuer_Bauen-_Umwelt_und_Klimaschutz_18.11.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 09.09.2021
+- TOP 2.: Haushaltssatzung 2022 hier: Entwurf des Haushaltsplan 2022, Sachgebiet Umwelt - TEP 5403 und 5601 Bezug: Rat vom 25.10.2021
+- TOP 3.: Haushaltssatzung 2022 TEP 5401 - Straßen hier: Entwurf
+- TOP 4.: Haushaltssatzung 2022 TEP 5380 - Abwasser hier: Entwurf
+- TOP 5.: Haushaltssatzung 2022 TEP 1207 - Verkehr hier: Entwurf
+- TOP 6.: Umgestaltung Regenüberlaufbauwerk „RÜ Hennebach“ - (kein Text vorhanden)
+- TOP 7.: Sanierungskonzept Versickerungsbecken An der Zuckerfabrik und Herseler Straße - (kein Text vorhanden)
+- TOP 8.: Bürgerpark Brühl-Ost - (kein Text vorhanden)
+- TOP 9.: Anträge
+- TOP 9.1: Einrichtung eines Klima-Bürgerrates für Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 30.05.2021
+- TOP 9.1.1: Einführung eines Klima-Bürgerrates für Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 28.10.2021
+- TOP 9.1.1.1: Einrichtung eines Klima-Bürgerrates für Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 30.05.2021, Vorlage 303/2021 und vom 28.10.2021, Vorlage 556/2021
+- TOP 9.2: Einrichtung einer Beratungs- und Koordinierungsstelle für die energetische Sanierung privater Wohngebäude Bezug: Antrag der Fraktion Linke&Piraten vom 28.10.2021 - 1 Ja-Stimme(n), 16 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 9.3: Verbot von Schottergärten Bezug: Antrag der Fraktion Linke&Piraten vom 30.10.2021
+- TOP 9.4: Prüfauftrag für die Installation eines Sammelsystems für Zigarettenkippen des Vereins TobaCycle Bezug: Antrag der CDU-Fraktion vom 01.09.2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: European Energy Award® hier: Externes Audit vom 02.09.2021 Bezug: AfBU vom 16.02.2017, TOP 2; Rat vom 20.02.2017, TOP 12; AfBUK vom 17.06.2021, TOP 2 - 17 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Anträge auf Baumfällungen Bezug: Baumfällanträge und Umweltkommission vom 21.10.2021 - (kein Text vorhanden)
+- TOP 11.1: Anträge auf Baumfällungen Ergänzung / Nachmeldung Bezug: Vorlage Nr. 526/2021 - (kein Text vorhanden)
+- TOP 12.: Mitteilungen
+- TOP 12.1: Mitteilungen über aktuelle Baumaßnahmen
+- TOP 12.1.1: Brückenerneuerungen am Siegesbach und Geildorfer Bach
+- TOP 12.1.2: Brückenerneuerung Brückenstraße
+- TOP 12.1.3: Theodor-Körner-Straße, Kanalbau
+- TOP 12.1.4: Breitbandausbau
+- TOP 12.1.5: Besitzbare und bespielbare Stadt
+- TOP 12.1.6: Deckenbaumaßnahmen
+- TOP 12.1.7: Fußweg Cäcilienstraße – Schildgesstraße
+- TOP 12.1.8: Fußweg Hedwig-Gries-Straße – Fuß- und Radweg Langenackerstraße
+- TOP 12.1.9: Römerstraße, Kanalbau zwischen Hauptstr. – Zum Sommersberg
+- TOP 12.1.10: Barrierefreie Bushaltestellen / Radweg Bonnstraße
+- TOP 13.: Anfragen
+- TOP 13.1: Photovoltaikanlagen und Begrünung von Dächern öffentlicher Gebäude Bezug: Anfrage der Fraktion Linke&Piraten vom 28.10.2021
+- TOP 13.2: Hochwasserschutz für Brühl Bezug: Anfrage der AfD-Fraktion vom 23.08.2021
+- TOP 13.2.1: Hochwasserschutz für Brühl Bezug: Anfrage der AfD-Fraktion vom 23.08.2021
+- TOP 13.3: Steinweg / Mühlenstraße unvollständiges Schild
+- TOP 13.4: Klimarelevanz in Vorlagen
+- TOP 13.5: Abfallbehälter in der Innenstadt
+- TOP 13.6: Landschaftsschutzgebiet Kuhgasse: Abgestellte Elektroroller
+- TOP 13.7: Clemens-August-Straße: Aufstellung von Müllbehältern im öffentlichen Raum und allgemeine Verschmutzungssituation
+- TOP 13.8: Termin Aktion „Brühl räumt auf“
+- TOP 13.9: Brandschutz bei Photovoltaikanlagen auf Einfamilienhäusern
+- TOP B): Nichtöffentliche Sitzung
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen
+- TOP 15.1: Cadmium im Klärschlamm
