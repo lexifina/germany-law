@@ -1,0 +1,7 @@
+# TOP 1: Allgemeines
+
+- Sitzung: BA 15 - Vollgremium (2021-11-18)
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/839717
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/839717
