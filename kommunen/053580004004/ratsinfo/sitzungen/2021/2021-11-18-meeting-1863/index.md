@@ -1,0 +1,55 @@
+# Gemeinderat (11. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2021-11-18T18:00:00+01:00
+- Ende: 2021-11-18T21:55:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZesFn67YpQBwBMfM6gycuII
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1863
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXuHgR1eT3ml5w_cOglxxMCwznzBO6D5nIP9ViOrUJyg/Bekanntmachung_Gemeinderat_18.11.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYpgPJs9zTCY-mruIIfYdWALDIJcMMBfH_ENtEBwgjO5/Oeffentliche_Niederschrift_Gemeinderat_18.11.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Einführung und Verpflichtung eines neuen Ratsmitgliedes - Zur Kenntnis genommen
+- TOP 3.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 4.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 5.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 5.1: Prüfung und Feststellung des Jahresabschlusses 2020 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Entlastung des Bürgermeisters für das Haushaltsjahr 2020 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Vortrag zum Einzelhandelskonzept
+- TOP 7.: Neubesetzung von Ausschüssen
+- TOP 7.1: Neubesetzung von Ausschüssen und Gremien - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Anträge von Fraktionen
+- TOP 8.1: Antrag der GL-Fraktion hier: Änderung der Besetzung des Bauverwaltungs- und des Schulausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Finanzen, Haushalt
+- TOP 9.1: Einbringung des Entwurfs der Haushaltssatzung 2022 mit ihren Anlagen
+- TOP 10.: Satzungen, Ortsrecht
+- TOP 10.1: 1. Änderung der Friedhofssatzung der Gemeinde Aldenhoven vom 22. Dezember 2015 - Einführung der Urnenbeisetzungen in amerikanischen Reihengräbern - Ermöglichung der Beisetzung von Sternenkindern - Anlage eines Grabfeldes für Sternenkinder - Einstimmig, 0 Enthaltung(en)
+- TOP 10.2: Gebührenkalkulation Friedhofswesen 2022 - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Antrag der Schulkonferenz der GGS Aldenhoven hier: „Antrag auf Überprüfung der CO2-Konzentration in den Räumen der GGS Aldenhoven" vom 22.09.2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Ausführung des Haushalts
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 2.1: Transport der "Lolli-Tests" nach den Herbstferien 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Umlaufbeschluss EWV - Nachwahl zum Aufsichtsrat - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Berichte aus den Gremien
+- TOP 4.: Auftragsvergaben
+- TOP 4.1: Erstellung eines Einzelhandelskonzeptes für die Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)Sitzungsunterbrechung gemäß CoronaSchutzVO von 21:18 Uhr bis 21:23 Uhr.
+- TOP 4.2: Erneuerung Fensteranlagen in der Turnhalle Siersdorf. Hier: Auftragsvergabe und Kostensteigerung. - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Neubau Brücke (F90) in Freialdenhoven, Auftragsvergabe Nachtragsangebot. - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1: Beförderung eines Beamten - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Entwicklung Gleitzeitsalden - Zur Kenntnis genommen
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Verschiedenes
