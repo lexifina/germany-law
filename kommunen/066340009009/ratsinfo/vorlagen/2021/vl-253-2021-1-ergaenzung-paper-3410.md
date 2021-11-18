@@ -1,0 +1,21 @@
+# Erwerb der Immobilie „Sandweg 1“
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Drucksache/Vorlage: VL-253/2021 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2021-11-18
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbirOReesaw6kWvhTPd6USg
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/paper/3410
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Erwerb der Immobilie „Sandweg 1“) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ230Xb8bj0XRe0ueqwP1qsNSYSGxSwu7dTN-RghYxSB/Beschlussvorlage_VL-253-2021_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (211029 - Vorlage städt. Gremien - Anlage Nr. 1 Lageplan) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZby-lLtWrxsOIZTXlB-ghlLg3fz6wLgI-_qdjsxyTyy9/211029_-_Vorlage_staedt._Gremien_-_Anlage_Nr._1_Lageplan.pdf
+- Anlage: Beschlussvorlage (211029 - Vorlage städt. Gremien - Anlage Nr. 2 - Luftbild) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd7nWwE3qgEHkEEnFnSVMuaOq2T3o3wms2gZhKP83QYx/211029_-_Vorlage_staedt._Gremien_-_Anlage_Nr._2_-_Luftbild.pdf
+- Anlage: Beschlussvorlage (211029 - Vorlage städt. Gremien - Anlage Nr. 3 - Fotos) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaLFem8AzvR82KXihifQ8zMGXVpQmvk2O6Vzsji3gPEH/211029_-_Vorlage_staedt._Gremien_-_Anlage_Nr._3_-_Fotos.pdf
+- Anlage: Beschlussvorlage (211029 - Vorlage städt. Gremien - Anlage Nr. 4 - Grundrisse) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUI1ZW4kwm971pvZcqBCECRjqLWaDQJ1YhnzSnC5YEFi/211029_-_Vorlage_staedt._Gremien_-_Anlage_Nr._4_-_Grundrisse.pdf
+- Anlage: Beschlussvorlage (211029 - Vorlage städt. Gremien - Anlage Nr. 5 - Grafik) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZScFH7y_dZDpgK3BRqXGuj18RNGc3Crfq4V4uDcHOlrp/211029_-_Vorlage_staedt._Gremien_-_Anlage_Nr._5_-_Grafik.pdf
+- Anlage: Beschlussvorlage (211029 - Vorlage städt. Gremien - Anlage Nr. 6 - EWO) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZahdDF-sKs7qhDDtAg3Ani-F3OPYv7G_d583oJV-YHsb/211029_-_Vorlage_staedt._Gremien_-_Anlage_Nr._6_-_EWO.pdf
+- Anlage: Beschlussvorlage (211029 - Vorlage städt. Gremien - Anlage Nr. 7 - Proj. Montessori) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZahWNSDn8Kz7whpf4leLjCNpbAq6drO_xmQZ7eA-B6bI/211029_-_Vorlage_staedt._Gremien_-_Anlage_Nr._7_-_Proj._Montessori.pdf
+- Beratung:  https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/1507 https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-72
+- Beratung:  https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/1513 https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-71
+- Beratung:  https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/1501 https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-69
+- underDirectionOf: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/3-12
