@@ -1,0 +1,8 @@
+# TOP 7: Umsetzung des Teilhabechancengesetzes - "Sozialer Arbeitsmarkt" in der Stadtverwaltung Münster
+
+- Sitzung: Sitzung (Etat) (2021-11-18)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/220812
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/78054
