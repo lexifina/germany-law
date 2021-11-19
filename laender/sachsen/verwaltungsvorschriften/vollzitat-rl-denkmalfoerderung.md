@@ -1,8 +1,8 @@
 # Vollzitat: RL Denkmalförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18370.2
+- Datum: 2021-11-19 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18370.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2020
+19.11.2021
 bis
-18.11.2021
+30.05.2024
 
 RL Denkmalförderung
 
@@ -41,7 +41,7 @@ Zuwendungszweck und Rechtsgrundlagen
 Zuwendungszweck
 
 
-Ziel dieser Richtlinie ist die Sicherung, der Erhalt, die Pflege und die Nutzbarmachung der sächsischen Kulturdenkmale sowie des mit diesen verbundenen materiellen und immateriellen kulturellen Erbes. Die Zuwendungen sollen die Erfüllung der Erhaltungspflichten nach § 8 Absatz 1 des Sächsischen Denkmalschutzgesetzes vom 3. März 1993 (SächsGVBl. S. 229), das zuletzt durch Artikel 2 des Gesetzes vom 2. August 2019 (SächsGVBl. S. 644) geändert worden ist, in der jeweils geltenden Fassung, unterstützen, die Auseinandersetzung der Öffentlichkeit mit dem sächsischen Kulturdenkmalbestand fördern und der Bewahrung und Fortentwicklung insbesondere von handwerklichem Wissen und Können dienen. Hierzu werden insbesondere ein allgemeines Programm (Landesprogramm Denkmalpflege) und ein Programm für Kulturdenkmale besonderer Bedeutung, die das nationale kulturelle Erbe mitprägen und die in den Anwendungsbereich von Förderprogrammen der Bundesregierung und der Europäischen Union fallen, sowie sonstiger Maßnahmen von landesweiter Bedeutung (Sonderprogramm Denkmalpflege) aufgelegt.
+Ziel dieser Richtlinie ist die Sicherung, der Erhalt, die Pflege und die Nutzbarmachung der sächsischen Kulturdenkmale sowie des mit diesen verbundenen materiellen und immateriellen kulturellen Erbes. Die Zuwendungen sollen die Erfüllung der Erhaltungspflichten nach § 8 Absatz 1 des Sächsischen Denkmalschutzgesetzes vom 3. März 1993 (SächsGVBl. S. 229), das zuletzt durch Artikel 15 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, unterstützen, die Auseinandersetzung der Öffentlichkeit mit dem sächsischen Kulturdenkmalbestand fördern und der Bewahrung und Fortentwicklung insbesondere von handwerklichem Wissen und Können dienen. Hierzu werden insbesondere ein allgemeines Programm (Landesprogramm Denkmalpflege) und ein Programm für Kulturdenkmale besonderer Bedeutung, die das nationale kulturelle Erbe mitprägen und die in den Anwendungsbereich von Förderprogrammen der Bundesregierung und der Europäischen Union fallen, sowie sonstiger Maßnahmen von landesweiter Bedeutung (Sonderprogramm Denkmalpflege) aufgelegt.
 
 
 Ein Anspruch auf Gewährung einer Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
@@ -54,7 +54,7 @@ Rechtsgrundlagen
 Die Rechtsgrundlagen für diese Richtlinie ergeben sich aus Artikel 11 Absatz 3 der Verfassung des Freistaates Sachsen vom 27. Mai 1992 (SächsGVBl. S. 243), die durch das Gesetz vom 11. Juli 2013 (SächsGVBl. S. 502) geändert worden ist, in der jeweils geltenden Fassung, § 8 Absatz 2 des Sächsischen Denkmalschutzgesetzes sowie den Festlegungen des jeweils geltenden Gesetzes zur Feststellung des Haushaltes des Freistaats Sachsen in der jeweils geltenden Fassung.
 
 
-Darüber hinaus finden die allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, mit den dazu ergangenen Verwaltungsvorschriften, insbesondere der VwV zu §§ 44 und 44a der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 31. Juli 2019 (SächsABl. S. 1209) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378), in der jeweils geltenden Fassung, Anwendung.
+Darüber hinaus finden die allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, mit den dazu ergangenen Verwaltungsvorschriften, insbesondere der VwV zu §§ 44 und 44a der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in der jeweils geltenden Fassung, Anwendung.
 
 3.
 
@@ -222,7 +222,7 @@ Die Zuwendung wird als Projektförderung gewährt.
 Finanzierungsart
 
 
-Die Finanzierung erfolgt als Anteilfinanzierung oder als Festbetragsfinanzierung.
+Die Finanzierung erfolgt als Anteilfinanzierung oder als Festbetragsfinanzierung nach Nummer 5 Buchstabe d.
 
 3.
 
@@ -231,7 +231,7 @@ Form der Zuwendung
 
 a)
 
-Die Zuwendung wird, außer bei Maßnahmen nach Ziffer II Nummer 9, als nicht rückzahlbarer Zuschuss gewährt.
+Die Zuwendung wird, außer bei Maßnahmen nach Ziffer II Nummer 9, als Zuschuss gewährt.
 
 
 b)
@@ -302,7 +302,7 @@ im Landesprogramm Denkmalpflege 50 Prozent der zuwendungsfähigen Ausgaben,
 im Sonderprogramm Denkmalpflege 75 Prozent der zuwendungsfähigen Ausgaben.
 
 
-Im Ausnahmefall kann der Fördersatz durch die Bewilligungsbehörde bis auf 90 Prozent angehoben werden.
+Im Ausnahmefall kann der Fördersatz durch die Bewilligungsbehörde bis auf 90 Prozent angehoben werden. Ein Ausnahmefall kann bei einem besonderen öffentlichen Interesse an der Förderung vorliegen, zum Beispiel im Falle der dringenden Notwendigkeit der Maßnahme oder der besonderen Bedeutung des Kulturdenkmals.
 
 
 Die Gewährung eines Fördersatzes von mehr als 90 Prozent ist nur im Sonderprogramm Denkmalpflege zulässig und bedarf der Zustimmung des Staatsministeriums für Regionalentwicklung.
@@ -416,7 +416,7 @@ Bei Maßnahmen im Sonderprogramm Denkmalpflege an Kulturdenkmalen im Sinne des �
 Anforderungs- und Auszahlungsverfahren
 
 
-Die Bewilligungsbehörde kann Auszahlungen leisten, soweit der Zuwendungsempfänger erklärt, dass er die Auszahlung voraussichtlich innerhalb von zwei Monaten für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt.
+Die Bewilligungsbehörde kann Auszahlungen leisten, soweit dies nach Nummer 1.4 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung, nach Nummer 1.3 der Allgemeinen Nebenbestimmungen zur Projektförderung an kommunale Körperschaften oder nach zu diesen Nebenbestimmungen ergangenen Ausführungsregelungen zugelassen ist.
 
 4.
 
@@ -437,23 +437,23 @@ Der Staatsminister des Innern
 Prof. Dr. Roland Wöller
 
 Anlage 1
-(zu Ziffer V Nummer 4 Buchstabe a und Ziffer VII Nummer 1 Buchstabe c)
+(zu Ziffer V Nummer 4 Buchstabe a und Ziffer VII Nummer 1 Buchstabe c)1
+
 
 Mehrkostenkatalog
 Liste der denkmalbedingten Mehraufwendungen (Freistaat Sachsen)
 
 Vorbemerkungen:
 
-Dieser Katalog ist als Anlage 1 Bestandteil der Richtlinie Denkmalförderung.
+Soweit sich der Gegenstand eines Förderantrags nach dieser Richtlinie nicht diesem Katalog zuordnen lässt, ist der denkmalbedingte Mehraufwand von der Bewilligungsbehörde im Rahmen einer pflichtgemäßen Ermessensausübung gesondert festzustellen. Dabei sind die Gegenstände dieses Kataloges soweit wie möglich zur Orientierung heranzuziehen.
 
-Soweit sich der Gegenstand eines Förderantrags nach dieser Richtlinie nicht diesem Katalog zuordnen lässt, ist der denkmalbedingte Mehraufwand gesondert von der Bewilligungsbehörde festzustellen. Dabei sind die Gegenstände dieses Katalogs soweit möglich zur Orientierung heranzuziehen.
+Sind Abbruchmaßnahmen und die dafür erforderliche Entsorgung sowie Reinigungsmaßnahmen aufgrund denkmalrechtlicher Vorgaben im Gesamtkontext der Maßnahmen, insbesondere für weitere Sanierungsmaßnahmen, erforderlich und in der denkmalrechtlichen Genehmigung verankert, so sind die Kosten als Bestandteil des dazugehörigen Gewerkes im entsprechenden Umfang förderfähig.
 
 Inhaltsübersicht
 
 1.
 
 Baustelleneinrichtung
-
 
 2.
 
@@ -473,7 +473,7 @@ Maurer-, Beton- und Stahlbetonarbeiten
 
 6.
 
-Naturwerksteinarbeiten
+Naturwerksteinarbeiten/Lehmbauarbeiten
 
 7.
 
@@ -541,7 +541,7 @@ Bildhauerische Arbeiten
 
 23.
 
-Maßnahmen an archäologischen Kulturdenkmalen
+Restaurierungsmaßnahmen an archäologischen Denkmalen
 
 24.
 
@@ -553,7 +553,7 @@ Maßnahmen an Archivgut
 
 26.
 
-Maßnahmen zur Klimatisierung und ähnliche technische Maßnahmen
+Maßnahmen zur Klimatisierung und ähnlich gelagerten Maßnahmen
 
 27.
 
@@ -565,11 +565,11 @@ Leistungsbereiche
 Leistungsbereiche
 
 
-| lfd. Nr.
+| Lfd. Nr.
 
-| Leistungsbereich
+| Bereich
 
-| Mehraufwendungen in Prozent
+| Prozent
 
 
 | 1.
@@ -597,21 +597,30 @@ Leistungsbereiche
 
 | Kosten für Erdarbeiten, außer für solche, die ausschließlich für Maßnahmen der Kostengruppe 400 nach DIN 276 (Bauwerk und technische Anlagen) dienen
 
-| 75 % 
+| 75 %
 
 
 | 3.
 
-| Gerüstbauarbeiten
+| Gerüstarbeiten
 
 | 
 
 
-| 
+| 3.1
 
-| Kosten für Gerüstarbeiten beziehungsweise Gerüstkonstruktionen, außer für solche, die ausschließlich für Maßnahmen der Kostengruppe 400 nach DIN 276 (Bauwerk und technische Anlagen) dienen
+| Kosten für Gerüstarbeiten bzw. Gerüstkonstruktionen, außer für solche,
+die ausschließlich für Maßnahmen der Kostengruppe 400 nach DIN 276
+(Bauwerk und technische Anlagen) dienen
 
 | 75 %
+
+
+| 3.2
+
+| Einfache Gerüstkosten
+
+| 25 %
 
 
 | 4.
@@ -623,66 +632,70 @@ Leistungsbereiche
 
 | 
 
-| Kosten für Mauerwerksabdichtung (horizontale und vertikale Sperrschichten)
+| Kosten für Mauerwerksabdichtung
 
 | 75 %
 
 
 | 5.
 
-| 
-
-Maurer-, Beton- und Stahlbetonarbeiten
-(einschließlich der dafür erforderlichen Abbruch- und Reinigungsmaßnahmen)
+| Maurer-, Beton- und Stahlbetonarbeiten
 
 | 
 
 
-| 
+| 5.1
 
-| Kosten für Maurer-, Beton- und Stahlbetonarbeiten, wenn diese Arbeiten ausschließlich oder überwiegend der Erhaltung des Denkmals dienen
+| Risssanierung, reine Ausbesserungsarbeiten und erforderliche statisch-konstruktive Maurer-, Beton- und Stahlbetonarbeiten
+
+| 100 %
+
+
+| 5.2
+
+| Sonstige Kosten für Maurer-, Beton- und Stahlbetonarbeiten, wenn diese Arbeiten ausschließlich oder überwiegend der Erhaltung des Denkmals dienen
 
 | 75 %
 
 
 | 6.
 
-| 
-
-Naturwerksteinarbeiten
-(einschließlich der dafür erforderlichen Abbruch- und Reinigungsmaßnahmen)
+| Naturwerksteinarbeiten/Lehmbauarbeiten
 
 | 
 
 
 | 6.1
 
-| Steinrestauratorische Erhaltungs-, Konservierungs- und Restaurierungsmaßnahmen
-(zum Beispiel reine Festigungs- und Schutzmaßnahmen) an Naturwerksteinen
+| Steinrestauratorische Erhaltungs-, Konservierungs- und Restaurierungsmaßnahmen (z. B. reine Festigungs- und Schutzmaßnahmen) an Naturwerksteinen sowie Reparaturmaßnahmen und die originale Wiederherstellung der Lehmbausubstanz
 
 | 100 %
 
 
 | 6.2
 
-| steinmetzmäßige Reparatur- und Ergänzungsarbeiten an Naturwerksteinen
+| Sonstige Naturwerkstein- und Lehmbauarbeiten
 
 | 75 %
 
 
 | 6.3
 
-| besondere Reinigungsverfahren an Naturwerksteinen
+| Besondere Reinigungsverfahren an Naturwerksteinen
+
+| 50 %
+
+
+| 6.4
+
+| Neubau (komplette Neuleistung) von Natursteinelementen nach historischem Vorbild
 
 | 50 %
 
 
 | 7.
 
-| 
-
-Zimmermannsarbeiten
-(einschließlich der dafür erforderlichen Abbruch- und Reinigungsmaßnahmen)
+| Zimmermannsarbeiten
 
 | 
 
@@ -696,9 +709,16 @@ Zimmermannsarbeiten
 
 | 7.2
 
-| zimmermannsmäßige Instandsetzung und Reparatur von Holzkonstruktionen, Dachtragwerken/Dachgefügen, historischen Treppen und Holzböden (Dielen-, Riemenböden) und Außenwandverkleidung (zum Beispiel Holzschindel, in Form oder Konstruktion aufwendige Stülpschalung) sowie Schwammsanierung
+| Zimmermannsmäßige Instandsetzung und Reparatur von Holzkonstruktionen, Dachtragwerken/Dachgefügen, historischen Treppen und Holzböden (bspw. Dielen- und Riemenböden) und Außenwandverkleidungen (z. B. Holzschindeln, in Form oder Konstruktion aufwendige Stülpschalung) sowie Schwammsanierung
 
 | 75 %
+
+
+| 7.3
+
+| Neubauleistungen nach historischem Vorbild (komplette Neuleistung)
+
+| 50 %
 
 
 | 8.
@@ -717,14 +737,14 @@ Zimmermannsarbeiten
 
 | 8.2
 
-| Reparatur und Ergänzung an historischen Metallteilen und Metallkonstruktionen sowie Hilfskonstruktionen zur Erhaltung historischer Substanz (zum Beispiel Stahlunterzüge)
+| Reparatur und Ergänzung an historischen Metallteilen und Metallkonstruktionen sowie Hilfskonstruktionen zur Erhaltung historischer Substanz (z. B. Stahlunterzüge)
 
 | 75 %
 
 
 | 8.3
 
-| sonstige Stahlbau-, Metallbau-, Schmiede- und Schlosserarbeiten
+| Sonstige Stahlbau-, Metallbau-, Schmiede- und Schlosserarbeiten
 
 | 50 %
 
@@ -738,14 +758,14 @@ Zimmermannsarbeiten
 
 | 9.1
 
-| Erhaltung vorhandener historischer Dachdeckung (einschließlich Abnehmen und Sortieren)
+| Erhaltung einschließlich Reparatur vorhandener historischer Dachdeckung (einschließlich Abnehmen und Sortieren)
 
 | 100 %
 
 
 | 9.2
 
-| Erneuerung und Reparatur inkl. Lattung und Schalung einschließlich der dafür notwendigen Abbruchmaßnahmen
+| Erneuerung inklusive Lattung und Schalung
 
 | 75 %
 
@@ -759,62 +779,72 @@ Zimmermannsarbeiten
 
 | 10.1
 
-| Reparatur und Ergänzung von Zier- und profilierten Werkstücken sowie Verblechungen und Blechabdeckungen zur Sicherung von Zierelementen, Dachentwässerungen
+| Reparatur und Ergänzung von Zier- und profilierten Werkstücken sowie Verblechungen und Blechabdeckungen zur Sicherung von Zierelementen Dachentwässerungen
 
 | 100 %
 
 
 | 10.2
 
-| Wiederherstellung von historisch vorgegebenen Ausführungen bei Sonderkonstruktionen (zum Beispiel Erkerdächer, Turmhelme)
+| Wiederherstellung von historisch vorgegebenen Ausführungen bei Sonderkonstruktionen (z. B. Erkerdächer, Turmhelme)
 
 | 75 %
 
 
 | 10.3
 
-| Reparatur, Instandsetzung und rekonstruierende Wiederherstellung von Dachentwässerungen
-sowie übrige Klempnerarbeiten Dachentwässerungen (auch Schneefanggitter) 
+| Reparatur, Instandsetzung und rekonstruierende Wiederherstellung von Dachentwässerungen sowie übrige Klempnerarbeiten Dachentwässerungen (auch Schneefanggitter)
 
 | 50 %
 
 
 | 11.
 
-| 
-
-Putzarbeiten
-(einschließlich des dafür erforderlichen Abschlagens und Entsorgens des Putzes)
+| Putzarbeiten
 
 | 
 
 
 | 11.1
 
-| Erhaltung, Festigung, Ergänzung und Reparatur historischer Putze und Putzgliederungen, Gesimsen, Lisenen und Profilen; Putzarbeiten nach besonderer historischer Handwerkstechnik, Materialzusammensetzung oder Oberflächenstruktur
+| Erhaltung, Festigung, Ergänzung und Reparatur historischer Putze und Putzgliederungen, Gesimsen, Lisenen und Profilen
 
 | 100 %
 
 
 | 11.2
 
-| Putzarbeiten am Sichtfachwerk beziehungsweise flächenhafte Innen- und Außenputze
+| Putzarbeiten nach besonderer historischer Handwerkstechnik, Materialzusammensetzung oder Oberflächenstruktur
+
+| 75 %
+
+
+| 11.3
+
+| Putzarbeiten am Sichtfachwerk, flächenhafte Innen- und Außenputze
 
 | 50 %
 
 
-| 12. 
+| 12.
 
 | Stuckarbeiten
 
 | 
 
 
-| 
+| 12.1
 
 | Konservierungs- und Restaurierungsmaßnahmen an Stuckdekorationen
 
 | 100 %
+
+
+| 12.2
+
+| Originalgetreue Erneuerung von Stuckarbeiten
+
+| 75 %
 
 
 | 13.
@@ -838,6 +868,13 @@ Putzarbeiten
 | 75 %
 
 
+| 13.3
+
+| Sonstige Fliesenarbeiten
+
+| 50 %
+
+
 | 14.
 
 | Tischlerarbeiten
@@ -854,14 +891,14 @@ Putzarbeiten
 
 | 14.2
 
-| originalgetreue Erneuerung von Decken, Türen, Toren, Klappläden und Kirchenausstattung
+| Originalgetreue Erneuerung von Decken, Türen, Toren, Klappläden und Kirchenausstattung
 
 | 75 %
 
 
 | 14.3
 
-| sonstige Tischlerarbeiten
+| Sonstige Tischlerarbeiten
 
 | 50 %
 
@@ -882,14 +919,14 @@ Putzarbeiten
 
 | 15.2
 
-| originalgetreue Erneuerung von Holzböden
+| Originalgetreue Erneuerung von Holzböden
 
 | 75 %
 
 
 | 15.3
 
-| sonstige Parkettarbeiten
+| Sonstige Parkettarbeiten
 
 | 50 %
 
@@ -910,7 +947,7 @@ Putzarbeiten
 
 | 16.2
 
-| Kosten für besondere Glasarten und Bearbeitungen (Ätzungen, Facettenschliff, Ornamentik und anderes)
+| Kosten für besondere Glasarten und Bearbeitungen (Ätzungen, Facettenschliff, Ornamentik u. a.)
 
 | 100 %
 
@@ -931,7 +968,7 @@ Putzarbeiten
 
 | 16.5
 
-| Neue Verbundfenster (außer Kunststoff) mit konstruktiven Sprossen
+| Sonstige neue denkmalgerechte Fenster (außer Kunststoff), auch mit Isolierverglasung
 
 | 50 %
 
@@ -945,17 +982,16 @@ Putzarbeiten
 
 | 17.1
 
-| einfache Malerarbeiten – Innen- und Außenwände
+| Farbtechnische Sonderanstriche sowie Absetzungen, Gliederungen und Beschriftungen auf Grundlage eines Befundes
 
-| 50 %
+| 100 %
 
 
 | 17.2
 
-| farbtechnische Sonderanstriche sowie Absetzungen, Gliederungen und Beschriftungen
-auf Grundlage eines Befundes
+| Einfache Malerarbeiten am Sichtfachwerk und Innenräumen
 
-| 100 %
+| 50 %
 
 
 | 18.
@@ -967,26 +1003,70 @@ auf Grundlage eines Befundes
 
 | 18.1
 
-| besondere Reinigungsverfahren sowie Konservierungs- und Restaurierungsmaßnahmen an
+| Besondere Reinigungsverfahren sowie Konservierungs- und Restaurierungsmaßnahmen an
 
 | 100 %
 
 
 | 
 
-| –	bemalten und architektonisch gegliederten Fassaden oder Fassadenteilen
+| a.
 
-– historischen Putzen
+| bemalten und architektonisch gegliederten Fassaden oder Fassadenteilen
 
-– farbigen Fassungen und Gliederungen in historischen Innenräumen sowie Wandmalerei
+| 
 
-– unbeweglichen Ausstattungen
 
-– Intarsien und veredelten Holzoberflächen
+| 
 
-– beweglichen Ausstattungsteilen, soweit sie im Denkmalbuch eingetragen sind
+| b.
 
-– historischen Scheiben
+| historischen Putzen
+
+| 
+
+
+| 
+
+| c.
+
+| farbigen Fassungen und Gliederungen in historischen Innenräumen sowie Wandmalereien
+
+| 
+
+
+| 
+
+| d.
+
+| unbeweglichen Ausstattungen
+
+| 
+
+
+| 
+
+| e.
+
+| Intarsien und veredelten Holzoberflächen
+
+| 
+
+
+| 
+
+| f.
+
+| beweglichen Ausstattungsteilen, soweit sie im Denkmalbuch eingetragen sind
+
+| 
+
+
+| 
+
+| g.
+
+| historischen Scheiben
 
 | 
 
@@ -1007,16 +1087,16 @@ auf Grundlage eines Befundes
 
 | 19.1
 
-| Sicherungsmaßnahmen an Kulturdenkmalen, die nicht nutzbar sind, wie zum Beispiel Grabmale und Postsäulen
+| Sicherungsmaßnahmen an Kulturdenkmalen, die nicht nutzbar sind, wie z. B. Grabmale und Postsäulen
 
 | 100 %
 
 
 | 19.2
 
-| unaufschiebbare Sicherungs- und Instandsetzungsmaßnahmen an Kulturdenkmalen, die nicht genutzt werden beziehungsweise nur einer untergeordneten Nutzung dienen und in einem überschaubaren Zeitraum keiner Nutzung beziehungsweise nur einer untergeordneten Nutzung zugeführt werden können
+| Unaufschiebbare Sicherungs- und Instandsetzungsmaßnahmen an Kulturdenkmalen, die nicht genutzt werden beziehungsweise nur einer untergeordneten Nutzung dienen und in einem überschaubaren Zeitraum keiner Nutzung bzw. nur einer untergeordneten Nutzung zugeführt werden können
 
-| 75 %
+| bis zu 100 %
 
 
 | 20.
@@ -1042,12 +1122,12 @@ auf Grundlage eines Befundes
 
 | 20.3
 
-| begründete Reorganisation von historischen Pfeifenbeständen und Konstruktionsteilen
+| Begründete Reorganisation von historischen Pfeifenbeständen und Konstruktionsteilen
 
 | 75 %
 
 
-| 20.4.
+| 20.4
 
 | Nachguss von Glocken nach Befund
 
@@ -1070,15 +1150,14 @@ auf Grundlage eines Befundes
 
 | 21.1
 
-| Erhaltungs-, Reparatur- und Restaurierungsmaßnahmen an technischen Kulturdenkmalen,
-die nicht bereits in anderen Punkten erfasst sind
+| Erhaltungs-, Reparatur- und Restaurierungsmaßnahmen an technischen Kulturdenkmalen, die nicht bereits in anderen Punkten erfasst sind
 
-| 
+| 100 %
 
 
 | 21.2
 
-| originalgetreue Erneuerung
+| Originalgetreue Erneuerung
 
 | 75 %
 
@@ -1113,14 +1192,14 @@ die nicht bereits in anderen Punkten erfasst sind
 
 | 23.
 
-| Maßnahmen an archäologischen Kulturdenkmalen
+| Restaurierungsmaßnahmen an archäologischen Denkmalen
 
 | 
 
 
 | 23.1
 
-| Maßnahmen zur Dokumentation, Sicherung und Erhaltung archäologischer Denkmäler
+| Maßnahmen zur Dokumentation, Sicherung und Erhaltung archäologischer Denkmäler, einschließlich Ausgrabung und Bergung
 
 | 100 %
 
@@ -1162,8 +1241,7 @@ die nicht bereits in anderen Punkten erfasst sind
 
 | 24.2
 
-| Rekonstruktion der architektonischen Bestandteile, Wiederherstellung von Ausstattungselementen
-(Einfassungen von Blumenbeeten, Pflanzkübeln, Schutzbarrieren für Vegetationsflächen, Sitzgelegenheiten und so weiter) des Gartendenkmals, der Wege und der Bepflanzung
+| Rekonstruktion der architektonischen Bestandteile, Wiederherstellung von Ausstattungselementen (Einfassungen von Blumenbeeten, Pflanzkübeln, Schutzbarrieren für Vegetationsflächen, Sitzgelegenheiten usw.) des Gartendenkmals, der Wege und der Bepflanzung
 
 | 75 %
 
@@ -1191,23 +1269,21 @@ die nicht bereits in anderen Punkten erfasst sind
 
 | 25.1
 
-| Restaurierungs- und Konservierungsmaßnahmen an Privat- und Kirchenarchivgut, einschließlich
-dessen fachgerechter Lagerung, sowie Maßnahmen zur Erschließung des Archivguts
+| Restaurierungs- und Konservierungsmaßnahmen an Privat- und Kirchenarchivgut, einschließlich dessen fachgerechter Lagerung, sowie Maßnahmen zur Erschließung des Archivguts
 
 | 100 %
 
 
 | 25.2
 
-| nutzungsbedingte Aufwendungen (Schutzverfilmungen und anderes)
+| Nutzungsbedingte Aufwendungen (Schutzverfilmungen, u. a.)
 
 | 0 %
 
 
 | 25.3
 
-| Maßnahmen an Archivgut, das dem Landesarchivgesetz unterliegt, sowie Maßnahmen,
-die eine anderweitige Förderung des Landes mit archivpflegerischer Zielsetzung erfahren
+| Maßnahmen an Archivgut, das dem Landesarchivgesetz unterliegt, sowie Maßnahmen, die eine anderweitige Förderung des Landes mit archivpflegerischer Zielsetzung erfahren
 
 | 0 %
 
@@ -1235,28 +1311,35 @@ die eine anderweitige Förderung des Landes mit archivpflegerischer Zielsetzung 
 
 | 27.1
 
-| Kosten für Leistungen der Statik, welche im Zusammenhang mit den Arbeiten am Denkmal stehen
+| Kosten für Leistungen der Statik, welche im Zusammenhang mit Notsicherungsmaßnahmen stehen und zur Standsicherheit im Rahmen des Substanzerhalts am Denkmal dienen
 
 | 100 %
 
 
 | 27.2
 
-| Dokumentation, Raumbuch entsprechend denkmalpflegerischen Forderungen
+| Sonstige statische Berechnungen
 
-| 100 %
+| 75 %
 
 
 | 27.3
 
-| Sondergutachten entsprechend denkmalpflegerischen Forderungen (zum Beispiel restauratorische Voruntersuchungen, photogrammetrische Aufnahmen, bauhistorische Untersuchungen, dendrochronologische Untersuchungen)
+| Dokumentation, Raumbuch entsprechend denkmalpflegerischen Forderungen
 
 | 100 %
 
 
 | 27.4
 
-| Kosten für Leistungen von Architekten, Ingenieuren und Landschaftsplanern für Maßnahmen, welche im Zusammenhang mit den Arbeiten am Denkmal stehen
+| Sondergutachten entsprechend denkmalpflegerischen Forderungen (z. B. restauratorische Voruntersuchungen, photogrammetrische Aufnahmen, bauhistorische Untersuchungen, dendrochronologische Untersuchungen, statische bzw. holzschutztechnische Bauzustandsermittlungen sowie auch gartendenkmalpflegerische Zielstellungen)
+
+| 100 %
+
+
+| 27.5
+
+| Kosten für Leistungen von Architekten, Ingenieuren, Landschaftsplanern und Planungsbüros für Maßnahmen, welche im Zusammenhang mit den Arbeiten am Denkmal stehen
 
 | 75 %
 
@@ -1276,9 +1359,9 @@ Fsn-Nr.: 5571-V19.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2020
+Fassung gültig ab: 19. November 2021
 
-Fassung gültig bis: 18. November 2021
+Fassung gültig bis: 30. Mai 2024
 
 Drucken/Speichern
 
@@ -1305,7 +1388,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18370.2
+https://www.revosax.sachsen.de/vorschrift/18370.3
 Stand vom
 18.11.2026
 
