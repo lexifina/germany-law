@@ -31,6 +31,7 @@
 ### Abschnitt 2 Nationale Reserve
 
 - [§ 13 Auffüllung der nationalen Reserve](0013.md)
+- [§ 13a Kürzung der nationalen Reserve](0013a.md)
 - [§ 14 Zuständigkeit](0014.md)
 - [§ 15 Mitteilungen](0015.md)
 - [§ 16 Fälle höherer Gewalt oder außergewöhnlicher Umstände nach Artikel 30 Absatz 7 Buchstabe c der Verordnung (EU) Nr. 1307/2013](0016.md)
