@@ -3,7 +3,7 @@
 | Nr. | Gebührentatbestand | Gebühr in Euro |
 | A. Gebühren des Deutschen Patent- und Markenamts |
 | (1) Sind für eine elektronische Anmeldung geringere Gebühren bestimmt als für eine Anmeldung in Papierform, werden die geringeren Gebühren nur erhoben, wenn die elektronische Anmeldung nach der jeweiligen Verordnung des Deutschen Patent- und Markenamts zulässig ist. |
-| (2) Die Gebühren Nummer 313 600, 323 100, 331 600, 331 610, 333 000, 333 300, 333 350, 333 400, 333 450, 346 100 und 362 100 werden für jeden Antragsteller gesondert erhoben. |
+| (2) Die Gebühren Nummer 313 600, 323 100, 331 600, 331 610, 333 000, 333 300, 333 350, 333 400, 333 450, 346 100 und 362 100 werden für jeden Antragsteller gesondert erhoben. Für die Gebühren Nummer 331 600, 331 610, 333 000, 333 300, 333 350 und 346 100 gelten auch gemeinschaftliche Inhaber oder Anmelder eines Schutzrechtes als ein Antragsteller, wenn sie einen auf dieses Schutzrecht gestützten gemeinsamen Antrag stellen. |
 | I. Patentsachen |
 | 1. Erteilungsverfahren |
 |  | Anmeldeverfahren Nationale Anmeldung (§ 34 PatG) |  |
@@ -309,7 +309,7 @@
 | 362 000362 100 | Weiterbehandlungsgebühr (§ 11 Abs. 1 HalblSchG i.V.m. § 123a PatG) . . . . . . . . . .Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . . | 100300 |
 | Nr. | Gebührentatbestand | Gebühren-betrag/Gebühren-satz nach§ 2 Abs. 2i.V.m § 2 Abs. 1 |
 | B. Gebühren des Bundespatentgerichts |
-| (1) Die Gebühren Nummer 400 000 bis 401 300 werden für jeden Antragsteller gesondert erhoben. |
+| (1) Die Gebühren Nummer 400 000 bis 401 300 werden für jeden Antragsteller gesondert erhoben. Gemeinschaftliche Inhaber oder Anmelder eines betroffenen Schutzrechts gelten als ein Antragsteller, wenn sie in den in Satz 1 genannten Fällen gemeinsam Beschwerde einlegen. |
 | (2) Die Gebühr Nummer 400 000 ist zusätzlich zur Gebühr für das Einspruchsverfahren vor dem Deutschen Patent- und Markenamt (Nummer 313 600) zu zahlen. |
 | I. Beschwerdeverfahren |
 | 400 000 | Antrag auf gerichtliche Entscheidung nach § 61 Abs. 2 PatG | 300 EUR |

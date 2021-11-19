@@ -13,6 +13,7 @@
 - [§ 5a Irreführung durch Unterlassen](0005a.md)
 - [§ 6 Vergleichende Werbung](0006.md)
 - [§ 7 Unzumutbare Belästigungen](0007.md)
+- [§ 7a Einwilligung in Telefonwerbung](0007a.md)
 
 ## Kapitel 2 Rechtsfolgen
 
