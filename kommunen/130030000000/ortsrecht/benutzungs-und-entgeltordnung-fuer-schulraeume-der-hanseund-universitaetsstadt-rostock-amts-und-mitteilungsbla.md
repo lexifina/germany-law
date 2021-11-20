@@ -1,0 +1,60 @@
+# Benutzungs- und Entgeltordnung für Schulräume der Hanseund Universitätsstadt Rostock (Amts- und Mitteilungsblatt der Hanse- und Universitätsstadt Rostock Nr. 23
+
+- Gemeinde: Hanse- und Universitätsstadt Rostock (ARS 130030000000)
+- Datum: 2021-11-20 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://rathaus.rostock.de/sixcms/media.php/rostock_01.a.1107.de/datei/4_06.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+4/6
+Benutzungs- und Entgeltordnung für Schulräume der Hanseund Universitätsstadt Rostock
+(Amts- und Mitteilungsblatt der Hanse- und Universitätsstadt Rostock Nr. 23 vom 20. November 2021)
+I. Grundsätze für die Vergabe von Schulräumen
+§ 1 Allgemeines (1) Die Schulräume dienen gemäß § 102 Schulgesetz für das Land Mecklenburg-Vorpommern (SchulG M-V) in erster Linie dem Schulunterricht. (2) Schulräume werden von der Hanse- und Universitätsstadt Rostock nur dann vergeben, wenn dadurch Belange der Schule oder des Schulträgers in keiner Weise beeinträchtigt werden. (3) Ein Anspruch auf Überlassung von Schulräumen besteht nicht. (4) Veranstaltungstermine sind grundsätzlich mindestens 40 Arbeitstage vor dem vorhergesehenen Veranstaltungstermin zu beantragen. (5) Seitens des Schulverwaltungsamtes der Hanse- und Universitätsstadt Rostock wird darauf hingewiesen, dass grundsätzlich keine Technik gestellt wird.
+§ 2 Art der Benutzung (1) Die Schulräume können auf Antrag an die Hanse- und Universitätsstadt Rostock grundsätzlich für anerkannt gemeinnützig dienende Zwecke in der unterrichtsfreien Zeit zur Verfügung gestellt werden. Die formgebundene Antragstellung muss ausdrücklich schriftlich erfolgen und den konkreten Nutzungszweck ausweisen. Dieser wird Bestandteil einer zu erteilenden Genehmigung. (2) Die Nutzungsüberlassung von Schulräumen an politische Parteien und ihnen zuzurechnende Organisationen und Initiativen sowie zur Durchführung parteipolitischer Veranstaltungen ist grundsätzlich ausgeschlossen. (3) Die Nutzungsüberlassung von Schulräumen zu rein privaten Feierlichkeiten ist ausgeschlossen. (4) Je nach Verfügbarkeit können Unterrichtsräume gänzlich oder in der Kombination von Unterricht und anschließender Hortnutzung auf Antrag in der unterrichtsfreien Zeit für die Hortnutzung zur Verfügung gestellt werden. Das daraus resultierende Nutzungsverhältnis ist mit dem Eigenbetrieb Kommunale Objektbewirtschaftung und -entwicklung der Hanse- und Universitätsstadt Rostock zu vereinbaren.
+ORS 4_06.docx -5- S. 1/6 239. Ergänzung, 20. November 2021
+
+4/6
+(5) Die Bereitstellung von Fachunterrichtsräumen, wie z. B. Chemie-, Physik- oder Biologieräumen ist nicht möglich, ausgenommen davon sind die Unterrichtsräume der Astronomischen Station. (6) Im Einzelfall ist eine Bereitstellung von Schulräumen zu kurzzeitigen Übernachtungen möglich. Dies betrifft insbesondere Übernachtungen von Kinder- und Jugendgruppen. (7) Vereinigungen oder Einzelpersonen, deren Zwecke oder Tätigkeiten den Strafgesetzen zuwiderlaufen oder die sich gegen die verfassungsmäßige Ordnung richten, sind von der Überlassung von Schulräumen ausgeschlossen. (8) Eine vertragswidrige und insbesondere dem beantragten Nutzungszweck nicht entsprechende Nutzung von Schulräumen zieht für die nutzenden Personen die Ablehnung künftiger Nutzungsanträge nach sich. (9) Die veranstaltende Person ist verpflichtet, die Räumlichkeiten und Einrichtungsgegenstände schonend und pfleglich zu behandeln. § 3 Benutzungszeit (1) Die Schulräume werden werktags (Montag bis Freitag) nur bis 20:00 Uhr überlassen. An Samstagen, Sonn- und Feiertagen sowie in den Ferien des Landes Mecklenburg-Vorpommern ist eine Raumbenutzung nur im Einzelfall möglich. (2) Während der Schulferien ist die Benutzung nur möglich, wenn es die betrieblichen und personellen Verhältnisse zulassen. (3) Die Benutzung kann versagt werden, wenn größere Bau- oder Reinigungsarbeiten durchgeführt werden müssen. § 4 Widerruf (1) Ein Widerruf der erteilten Genehmigung ist bei Verstoß gegen diese Bestimmungen oder bei Nichterfüllung erteilter Auflagen möglich. (2) Ein Widerruf kann auch dann in Frage kommen, wenn die überlassenen Räume für Aufgaben der Schule oder andere dienstliche Zwecke benötigt werden. (3) Im Fall von höherer Gewalt ist ein Widerruf zulässig. (4) Ein Widerruf kann auch dann in Betracht kommen, wenn die geplante Veranstaltung unvorhersehbar kurzfristig abgesetzt werden muss.
+ORS 4_06.docx -5- S. 2/6 239. Ergänzung, 20. November 2021
+
+4/6
+II. Benutzungsrichtlinien
+§ 5 Beginn und Beendigung der Veranstaltungen (1) Die antragstellende Person erhält grundsätzlich erst mit der schriftlichen Erteilung der Genehmigung das Recht zur Benutzung. (2) Die beantragten Schulräume dürfen nur für die bewilligte Zeit und ausschließlich für den im Antrag angegebenen Zweck genutzt werden. (3) Jede Abweichung von der Genehmigung, insbesondere jede Änderung der Benutzung und jede Änderung der antragstellenden Person, ist dem Schulverwaltungsamt schriftlich anzuzeigen und bedarf einer Veränderung der Genehmigung. (4) Die Veranstaltungen sind so rechtzeitig zu beenden, dass die Schulgebäude mit Ablauf der berechtigten Benutzungszeit geräumt sind.
+§ 6 Aufsicht (1) Die Veranstaltung darf nur in Anwesenheit einer verantwortlichen leitenden Person stattfinden. Bei Überlassen von Schulräumen an Jugendliche werden die Schulgebäude nur bei Anwesenheit der verantwortlichen Person geöffnet. (2) Die Räume sind nach Beendigung der Veranstaltung in einem ordnungsgemäßen Zustand zu verlassen. (3) Personen, die zur Vertretung der Hanse- und Universitätsstadt Rostock befugt sind sowie den Verantwortlichen der Schule, ist der Zutritt zu den Veranstaltungen jederzeit zu gestatten. Sie sind berechtigt, die Einhaltung der Hausordnung zu verlangen.
+§ 7 Sicherheitsvorschriften (1) Alle bau- und sicherheitspolizeilichen Vorschriften sind durch die Nutzenden zu beachten. Die Hausordnung der öffentlichen Schulen ist einzuhalten, insbesondere ist das Hantieren mit offenem Feuer und das Rauchen im gesamten Schulgebäude und auf dem Schulgelände verboten und strengstens untersagt. (2) Änderungen an dem bestehenden Zustand der überlassenen Räume dürfen nur nach vorheriger Zustimmung des Schulverwaltungsamtes der Hanse- und Universitätsstadt Rostock bzw. der von diesem mit der Ausübung des Hausrechts Beauftragten (Schulleitende, Mitarbeitende des Gebäudemanagements usw.) vorgenommen werden und sind nach Beendigung der Veranstaltung zu beseitigen. (3) Ein Anspruch auf einen von Inventar geräumten Raum besteht nicht. (4) Die Belegung der Räume über die zugelassene Höchstbesucherzahl hinaus ist unzulässig.
+ORS 4_06.docx -5- S. 3/6 239. Ergänzung, 20. November 2021
+
+4/6
+§ 8 Verpflichtungen der Nutzenden (1) Ruhestörender Lärm ist zu unterlassen. Ordnungsrechtliche Belange sind einzuhalten. Das Schulgelände darf nur mit Genehmigung der mit der Ausübung des Hausrechts beauftragten Person mit Kraftfahrzeugen befahren werden. Gegenstände der Nutzenden der Veranstaltung dürfen nur mit Genehmigung der mit der Ausübung des Hausrechts beauftragten Person im Schulgebäude untergebracht werden. Für Verlust und Beschädigung kommt die Hanse- und Universitätsstadt Rostock nicht auf. (2) Jede Veränderung an der Ausstattung oder Ausschmückung von Räumen bedarf einer besonderen Zustimmung seitens des Schulverwaltungsamtes der Hanse- und Universitätsstadt Rostock. (3) Die Ausgabe von Alkohol und anderen Genussmitteln ist nicht gestattet. Die Verabreichung von Speisen und Getränken bedarf der vorherigen Zustimmung des Schulverwaltungsamtes der Hanse- und Universitätsstadt Rostock. (4) Für die Aufrechterhaltung von Ruhe und Ordnung ist die leitende Person der Veranstaltung verantwortlich. III. Haftung § 9 Ersatzleistung an die Stadt (1) Die nutzende Person haftet der Hanse- und Universitätsstadt Rostock für Beschädigungen, die durch Personen, die an der Veranstaltung teilnehmen, verursachtwerden. (2) Die Stadt ist berechtigt, derartige Schäden zu beseitigen oder beseitigen zu lassen. Die veranstaltende Person ist zur Erstattung der Kosten verpflichtet, die durch die Beseitigung der Schäden entstehen. § 10 Freistellung der Stadt Die veranstaltende Person ist verpflichtet, die Stadt von Schadensersatzansprüchen jeder Art freizustellen, die wegen Schäden aus Anlass des Besuches der Veranstaltung von dritten Personen gestellt werden könnten. IV. Entgelte § 11 Benutzungsentgelt (1) Für die Benutzung von Schulräumen ist ein Entgelt zu entrichten, dessen Höhe der antragstellenden Person mit der Genehmigung mitgeteilt wird.
+ORS 4_06.docx -5- S. 4/6 239. Ergänzung, 20. November 2021
+
+4/6
+
+(2) Die Mindestnutzungsdauer beträgt 2 Stunden. Folgende Entgelte sind zu entrichten:
+
+Veranstaltungsräume
+je Klassenraum Fachunterrichtsraum in der Astronomischen Station Schulaula
+
+Mindestnutzungsdauer für 2 Stunden 60,00 € 60,00 €
+130,00 €
+
+je weitere Stunde 10,00 € 10,00 €
+46,00 €
+
+Tagesveranstaltung 100,00 € 100,00 €
+315,00 €
+
+(3) Bei Überziehung der genehmigten Nutzungsdauer wird jede weitere Stunde nach § 11 dieser Entgeltordnung berechnet. (4) Schulische Veranstaltungen mit eigenen schulangehörigen Kindern oder Jugendlichen, wie zum Beispiel Elternabende, Wettbewerbe, Lesenächte sind kostenfrei. Die Veranstaltungstermine sind grundsätzlich mindestens 40 Arbeitstage vor der vorhergesehenen Veranstaltung beim Schulverwaltungsamt der Hanse- und Universitätsstadt Rostock schriftlich durch formgebundenen Antrag mitzuteilen. (5) Das Entgelt für die Benutzung von Schulräumen zu sonstigen Übernachtungszwecken, außer schulischen Veranstaltungen, beträgt je Übernachtung und Person 2,50€. (6) Für den Fall, dass Umsatzsteuer anfällt, erhöht sich das Entgelt um die gesetzlich geschuldete Umsatzsteuer. (7) Für eine Nutzung nach 20:00 Uhr sowie für Vermietungen gemäß § 3 Abs. 1, S. 2 wird eine Sonderreinigung nach Aufwand berechnet.
+
+§ 12 Befreiungsvorschriften (1) Auf Antrag können Körperschaften, Vereinigungen und Stiftungen von der Erhebung eines Entgelts befreit werden. Voraussetzung für die Entgeltbefreiung ist, dass die antragstellende Person einen gemeinnützigen, mildtätigen oder kirchlichen Zweck im Sinne der §§ 51 ff. Abgabenordnung verfolgt und die beabsichtigte Nutzung nicht einem steuerpflichtigen wirtschaftlichen Geschäftsbetrieb dienen soll. (2) Mit Antragstellung ist die steuerliche Behandlung als gemeinnützig oder mildtätig durch einen Nachweis des Finanzamtes zu belegen. (3) Körperschaften, Vereinigungen und Stiftungen, die keinen steuerbegünstigten Zweck verfolgen, können nur unter folgenden Voraussetzungen von der Entgeltzahlung befreit werden:  wenn ein dringendes Interesse der Hanse- und Universitätsstadt Rostock an der Durchfüh-
+rung der Veranstaltung gegeben ist und wenn  die Befreiung unter Berücksichtigung der wirtschaftlichen Verhältnisse des Antragstellers
+angezeigt erscheint; ein entsprechender formloser Antrag ist mit nachweisbarer Begründung an das Schulverwaltungsamt zu richten.
+
+ORS 4_06.docx -5- S. 5/6 239. Ergänzung, 20. November 2021
+
+4/6
+(4) Sitzungen der Gremien der kommunalen Selbstverwaltung der Hanse- und Universitätsstadt Rostock wie z. B. von Ausschüssen, Ortsbeiräten, Ämtern oder Eigenbetrieben sind kostenfrei. (5) Grundsätzlich besteht kein Anspruch auf eine Entgeltbefreiung. (6) Die Bereitstellung von Schulräumen zu Übernachtungszwecken unterliegt nicht der Entgeltbefreiung. § 13 Fälligkeit Das Benutzungsentgelt ist grundsätzlich im Voraus zu zahlen. § 14 Schlussbestimmungen Diese Entgeltordnung tritt am Tage nach ihrer Veröffentlichung in Kraft. Gleichzeitig tritt die Benutzungs- und Entgeltordnung für Schulräume der Hanse- und Universitätsstadt Rostock vom 18. Oktober 2018, veröffentlicht im Amts- und Mitteilungsblatt der Hanse- und Universitätsstadt Rostock Nr. 21 vom 1. November 2018, außer Kraft. Rostock, 2. November 2021 Der Oberbürgermeister Claus Ruhe Madsen
+ORS 4_06.docx -5- S. 6/6 239. Ergänzung, 20. November 2021
