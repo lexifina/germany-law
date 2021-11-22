@@ -1,0 +1,61 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-11-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6262555
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6262555
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Gefährliche Ausfahrt an der Tankstelle Dachauer Str. 240
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Ortstermin am 27.10.2021 (Protokoll): 1. Schulwegsicherheit Schulzentrum Gerastraße 2. Schulwegsicherheit zur Schule an der Manzostraße 3. Verkehrssituation Waldhornstraße
+- TOP 3.2.2.: Ortstermin am 19.11.2021 (gemeinsam mit BA11): Neugestaltung Unterführung zum Olympiapark
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Eggmühler Str. 33 (Haus 1 bis Haus 6)
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Feldmochinger Straße 2. Eininger Straße
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Hanauer Str. 65
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage: Statistik Hebammenversorgung in Moosach
+- TOP 4.1.2.: Entfernung der verlassenen Taubenzüchterhütte auf Grundstück der Trafostation Hartmannshofer Str. 9
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget BIKU e.V. - Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball in Moosach ermöglichen vom 01.01. - 31.12.2022 7.880,00 €; Az. 0262.0-10-0273
+- TOP 5.2.: (E) Stadtbezirksbudget BIKU e.V. - Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball in Moosach auch im SC Amicitia ermöglichen vom 01.01. - 31.12.2022 7.880,00 €; Az. 0262.0-10-0274
+- TOP 5.3.: (E) Stadtbezirksbudget TSV Moosach-Hartmannshofen Zusammen neues erschaffen, Dezember 2021 3.577,00 €; Az. 0262.0-10-0275
+- TOP 6.: Anhörungen
+- TOP 6.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG): Fa. Krauss-Maffei ; Anpassung des Genehmigungsantrages für eine Lackieranlage
+- TOP 6.2.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/68 - Ehemalige Bahntrasse Pressezentrum Olympiapark
+- TOP 6.3.: Austausch von Lichtsignalanlagen (LSA) an Knotenpunkten: 1. Feldmochinger Straße / Max-Born-Straße 2. Feldmochinger Straße / Torgauerstraße 3. Andernacher Straße / Feldmochinger Straße 4. Georg-Brauchle-Ring / Riesstraße
+- TOP 6.4.: Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München;
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anfrage: Durchführbarkeit von Hybridsitzungen des BA 10 im Sitzungsraum (Mensa) des Schulzentrums an der Gerastr. 6 [BA-Antrag Nr. 20-26/B 02790; Verbesserungsmöglichkeit bei Bedarf in 2 Varianten gegeben.]
+- TOP 7.2.: Blühende Wiesen in Moosach [BA-Antrag Nr. 20-26/B 02791; Anregungen BA10 werden wo möglich berücksichtigt.]
+- TOP 7.3.: Aufstellung von Kompressoren zum Aufpumpen von Fahrrädern an 3 oder 4 geeigneten Stellen in Moosach [BA-Antrag Nr. 20-26/B 02152; Erfahrungen von 10 Teststationen werden abgewartet. Evaluierung in 2022 geplant.]
+- TOP 7.4.: Mehr Sicherheit für spielende Kinder am Spielplatz Leidinger Straße [BA-Antrag Nr. 20-26/B 02787; die StVO gibt keine Möglichkeit zur Anbringung von vorgeschlagenen Zusatzschildern her; Aufnahme in Geschwindigkeitsmessprogramm in der Ernst-Platz-Straße obliegt Kommunaler Verkehrsüberwachung. Weiterleitung erfolgt.]
+- TOP 7.5.: Wegfall der Haltverbote vor ehemaligem Speditionsgelände Bauberger Str. 34 [BA-Antrag Nr. 20-26/B 02411; Bestandshalteverbot wirdwie vorgeschlagen verkürzt und Beschilderung angepasst.]
+- TOP 7.6.: Erneuerung des Bodenbelages an der Bushaltestelle Moosacher St.-Martins-Platz [BA-Antrag Nr. 20-26/B 03007; die Wabenplatten werden gegen einen Kunststeinplattenbelag ausgetauscht.]
+- TOP 7.7.: Pilotprojekt einer Beleuchtungsanlage "Im Gefilde", hier: Anfrage zur Evaluierung [Schreiben BA10 vom 23.09.2021; coronabedingt wird Evaluation erst im Frühjahr 2022 abgeschlossen sein.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Plangenehmigung Vorabmaßnahme der 2. Stammstrecke Rbf. Nord
+- TOP 8.2.: (U) Genehmigungsantragsauflagen für die Panzerteststrecke Empfehlung Nr. 20-26 / E 00256 der Bürgerversammlung des Stadtbezirkes 23 - Allach-Untermenzing am 26.07.2021
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 8.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 8.7.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 8.8.: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 8.9.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 8.10.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 8.11.: Sitzungsvorlage: Bildung eines Klimarates bei der Landeshauptstadt München - nicht-öffentlich -
+- TOP 4.: Anträge
