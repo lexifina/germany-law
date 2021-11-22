@@ -1,0 +1,6 @@
+# TOP 1.3: Schlaglochprogramm 2022
+
+- Sitzung: Ortsbeirat Ellar (2021-11-22)
+- Körperschaft: Gemeinde Waldbrunn im Westerwald
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/waldbrunn/webservice/oparl/v1.1/body/1/agendaitem/1211
