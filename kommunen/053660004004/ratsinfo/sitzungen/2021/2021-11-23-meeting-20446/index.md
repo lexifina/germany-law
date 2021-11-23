@@ -1,0 +1,53 @@
+# Bau- und Feuerwehrausschuss (6. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2021-11-23T18:00:00+01:00
+- Ende: 2021-11-23T18:45:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUi6NjC4wMBNyYd-q3oiqp0
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20446
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bau- und Feuerwehrausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWmsMx2QqpdFxfneeKDPFIR9tXOZjDbxUt0FoDocSvqj/Bekanntmachung_Bau-_und_Feuerwehrausschuss_23.11.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau- und Feuerwehrausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdEoCFV5d68gK7cEYWNKGz3IKnZbiMuv2tOo68WKn9rn/Oeffentliche_Niederschrift_Bau-_und_Feuerwehrausschuss_23.11.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Bau- und Feuerwehrausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Bau- und Feuerwehrausschusses vom 14.09.2021 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Beschaffung HLF10 LG Arloff - Empfehlungsbeschluss mit 5 Ja- und 9 Nein-Stimmen sowie 1 Enthaltung und somit abgelehnt:
+- TOP 4.: Umsetzung Brandschutzbedarfsplan: hier: Fahrzeugkonzept - Einstimmiger Empfehlungsbeschluss:
+- TOP 5.: Fortschreibung Brandschutzbedarfsplan -   
+- TOP 6.: Straßenbenennung einer Straße in Bad Münstereifel-Wald, "Im Kirchenfelde" - Einstimmiger Beschluss:
+- TOP 7.: Straßenbenennung zweier Straßen im Neubaugebiet "An der Wachhecke" im Ortsteil Eschweiler - Einstimmiger Beschluss mit 1 Enthaltung:
+- TOP 8.: Rathaus, Marktstr.11 Wiederaufbau KG und EG - Einstimmiger Beschluss:
+- TOP 9.: Rückbau des Außenbeckens des eifelbades - Einstimmiger Beschluss:
+- TOP 10.: Hochwasserschutz durch den Erftverband hier: Antrag der SPD-Fraktion vom 24.10.2021 - Beschluss
+- TOP 11.: Bericht über Hochwasserschäden an Wirtschaftswegen hier: Sachstandsbericht - Einstimmiger Beschluss:
+- TOP 12.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Brücken hier: Lagebericht und Sanierungsprogramm mit Beschreibung Baumaßnahmen - Einstimmiger Beschluss:
+- TOP 13.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter öffentlicher Straßen in Iversheim - Einstimmiger Beschluss:
+- TOP 14.: Beschaffung eines Minibaggers für den städtischen Bauhof - Mehrheitlicher Beschluss bei 1 Nein-Stimme:
+- TOP 15.: Ersatzbeschaffung eines Schneepflugs für den städtischen Bauhof - Einstimmiger Beschluss:
+- TOP 16.: Ersatzbeschaffung eines LKW-/Unimog-Tandem-Anhängers für den städtischen Bauhof - Einstimmiger Beschluss:
+- TOP 17.: Anfragen und Mitteilungen
+- TOP 17.1: Zwischenergebnis zur Bestandsaufnahme der Schäden an den Gewässern hier: Kurzpräsentation des Ingenieurbüros DIE GEWÄSSER-EXPERTEN!
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Erstellung einer Geo-Infomations (GIS) gestützten Datenbank zur Wiederaufbauplanung; hier: Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 2.: Ersatzbeschaffung Tragkraftspritzen - Einstimmiger Beschluss:
+- TOP 3.: Fortschreibung Brandschutzbedarfsplan hier. Auftragsvergabe zur Erstellung des Brandschutzbedarfsplanes 2023 - Einstimmiger Beschluss:
+- TOP 4.: Rathaus, Marktstr.11 Wiederaufbau KG und EG hier: Auftragsvergabe Planungsbüros - Einstimmiger Beschluss:
+- TOP 5.: Rückbau des Außenbeckens des eifelbades Hier: Auftragsvergabe der Abbrucharbeiten - Einstimmiger Beschluss:
+- TOP 6.: Erschließungsvertrag Bebauungsplangebiet "An der Wachhecke" in Eschweiler - Mehrheitlicher Beschluss mit 2 Nein-Stimmen und 1 Enthaltung:
+- TOP 7.: Erschließungsvertrag "Stattlerstraße" - Einstimmiger Beschluss:
+- TOP 8.: Wiederaufbau hier: Dokumentation/Verwendungsnachweise/Mittelabruf - Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 9.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Brücken hier: Auftragsvergabe Ingenieur- und Bauleistungen - Einstimmiger Beschluss:
+- TOP 10.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter öffentlicher Straßen in Iversheim hier: Auftragsvergabe Teilbauleistungen Straße An der Ley - Mehrheitlicher Beschluss bei 3 Nein-Stimmen:
+- TOP 11.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter öffentlicher Straßen innerhalb der historischen Stadtmauern hier: Auftragsvergabe Straßenbauarbeiten – Zwischenbericht - - Einstimmiger Beschluss.
+- TOP 12.: Bericht über Hochwasserschäden an Wirtschaftswegen hier: Vergabe von Ingenieurleistungen - Einstimmiger Beschluss:
+- TOP 13.: Beschaffung eines Minibaggers für den städtischen Bauhof hier: Auftragsvergabe - Mehrheitlicher Beschluss bei 1 Nein-Stimme: 
+- TOP 14.: Ersatzbeschaffung eines Schneepflugs für den städtischen Bauhof hier: Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 15.: Ersatzbeschaffung eines LKW-/Unimog-Tandem-Anhängers für den städtischen Bauhof hier: Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 16.: Preisanpassung für Winterdienstleistungen beauftragter Dienstleister im maschinellen Winterdienst - Einstimmiger Beschluss:
+- TOP 17.: Anfragen und Mitteilungen
