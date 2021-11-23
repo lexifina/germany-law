@@ -1,0 +1,58 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-23T17:00:00+01:00
+- Ende: 2021-11-23T20:00:00+01:00
+- Ort: Aula der Gesamtschule Stettiner Straße 98, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20112
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20112
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430431.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430431.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430431.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Garath 2.0 - Bericht Citymanagement und Zentrenfonds - zur Kenntnis genommen
+- TOP 4.2: Vorstellung der Klimaanalyse 2020 - zur Kenntnis genommen
+- TOP 4.3: Umgestaltung Kinderspielplatz Peter-Behrens-Straße / Buntspecht-Spielplatz - einstimmig beschlossen
+- TOP 4.4: Umgestaltung Kinderspielplatz Carl-Friederich-Goerdeler-Straße / Seilspielplatz - einstimmig beschlossen
+- TOP 4.5: Umgestaltung Kinderspielplatz Stettiner Straße / Farbenspielplatz - einstimmig beschlossen
+- TOP 4.6: Weihnachtsmarkt auf dem Parkplatz am Einkaufszentrum Hellerhof, Carlo-Schmid-Str. 2 vom 16.12. bis 19.12.2021 - einstimmig beschlossen
+- TOP 4.7: Genehmigung einer Dringlichkeitsentscheidung - Zuschuss an die Bürger- und Interessengemeinschaft Garath (BIG) für die Durchführung des Garather Weihnachtsmarktes in der Zeit vom 26. bis 28. November 2021 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Genehmigung einer Dringlichkeitsentscheidung - Umwidmung eines Zuschusses an die Diakonie Düsseldorf, „Zentrum Plus“ Garath - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.9: Genehmigung einer Dringlichkeitsentscheidung - Durchführung eines Weihnachtsmarktes im Hauptzentrum von Garath in der Zeit vom 26.11. bis 28.11.2021 - Vorlage der Bezirksverwaltungsstelle 10 - - zurückgezogen
+- TOP 4.10: Verfügungsmittel der BV 10, Zuschuss an die GGS Adam-Stegerwald-Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.11: Verfügungsmittel der BV 10, Zuschuss an die GGS Neustrelitzer Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.12: Sitzungstermine der Bezirksvertretung 10 für das Jahr 2022 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.13: Übertragung der zum Jahresende 2021 nicht verausgabten Verfügungsmittel in das Jahr 2022 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.15: Bezirklicher Bauunterhalt 2021 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2021 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.16: Bezirklicher Bauunterhalt 2021 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2021 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Realisierung Schulwegsicherung Koblenzer Str. zum Schuljahresbeginn 2021/2022 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Planung von Park+Ride Plätze - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Weitere Nutzung der Flüchtlingsunterkunft Duderstädter Straße in Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Litfaßsäulen „Düsseldorf Kultur“ im Stadtbezirk 10 - Anfrage der Fraktion Bü90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.3: Auswirkungen des Starkregenereignisses in Straßenzügen im Stadtbezirk 10 konkreter darstellen - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Geldtransporter im Haupteinkaufszentrum Garath - Anfrage der SPD-Fraktion - - vertagt
+- TOP 7: Anträge
+- TOP 7.1: Sitzung der BV 10 zusammen mit dem Kinderparlament - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Erneuerung und Instandsetzung der Straßenmarkierung auf dem Hellerhofweg - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Anlage von Pflanzbeeten in der Dresdener Straße 50 - 58 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.5: Sicherung Fußgänger- und Radquerung Hellerhofweg / Paul-Löbe-Straße / Maßnahmen zur Geschwindigkeitsreduzierung - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.6: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - Antrag der CDU, SPD und BÜ90/DIE GRÜENEN Fraktionen - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Einrichtung von Fußgängerüberwegen gem. StVO § 26 im Bezirk 10 - Informationsvorlage zum Beschluss BV10/131/2021 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 8.2: Verkehrssicherheit am neuen Wasser-Spielplatz Peter-Behrens-Straße - Informationsvorlage zum Beschluss BV10/158/2021 - - zur Kenntnis genommen
+- TOP 9: Verschiedenes
