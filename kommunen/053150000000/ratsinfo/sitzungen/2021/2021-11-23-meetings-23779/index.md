@@ -1,0 +1,73 @@
+# 9. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-23T16:07:00+01:00
+- Ende: 2021-11-23T18:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23779
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23779
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Umsetzung durchgehender Achsen für den Radverkehr - geändert beschlossen
+- TOP 1.1.1: Ergänzungsantrag zu Top 1.1 "Umsetzung durchgehender Achsen für den Radverkehr" - endgültig abgelehnt
+- TOP 1.2: Zusätzlicher Überweg am Neumarkt Höhe Zeppelinstraße - geändert beschlossen
+- TOP 1.2.1: Hier: zu TOP 1.2 Antrag der FDP-Fraktion vom 09.11.2021 betr. Zusätzlicher Überweg am Neumarkt Höhe Zeppelinstraße AN/2309/2021 - geändert beschlossen
+- TOP 1.2.2: Änderungsantrag zu AN/2374/2021 - endgültig abgelehnt
+- TOP 1.3: Die Impfbimmelbahn - Impfangebot Lanxessarena ohne Autopflicht nutzbar machen - geändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601- - zurückgestellt
+- TOP 3.2: Planungsbeschluss für eine ebenerdige barrierefreie Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barrierefreie Brücke - geändert beschlossen
+- TOP 3.3: Verkehrsversuch Venloer Straße in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 3.3.1: Änderungsantrag zu TOP 3.6 - endgültig abgelehnt
+- TOP 3.4: Bedarfsfeststellung über die Ersatzbeschaffung von Fahrzeugen und Geräte für das Amt für Straßen und Verkehrsentwicklung - ungeändert beschlossen
+- TOP 3.5: Planungsbeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr - im ersten Durchgang verwiesen
+- TOP 3.5.1: Hier:zu TOP 3.5 Planungsbeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr - im ersten Durchgang verwiesen
+- TOP 3.6: Abbruch und Ersatzneubau Kragplatte am Altstadtufer; bauzeitliche Verkehrsführung - geändert beschlossen
+- TOP 3.6.1: TOP: 3.6 Abbruch und Ersatzneubau Kragplatte am Altstadtufer; bauzeitliche Verkehrsführung 3734/2021 - ungeändert beschlossen
+- TOP 3.7: Bedarfsfeststellungsbeschluss und Beschluss über die Überplanung der Neusser Straße von Simonskaul bis Scheibenstraße/Kapuzinerstraße (Bauabschnitt 2b) - ungeändert beschlossen
+- TOP 3.8: Stadtbahnvorhaben Köln - Niederaußem: Grundsatzbeschluss zur Vorbereitung einer Machbarkeitsstudie zur Verlängerung der Stadtbahnlinie 4 - geändert beschlossen
+- TOP 3.8.1: TOP 3.8 Stadtbahnvorhaben Köln - Niederaußem: Grundsatzbeschluss zur Vorbereitung einer Machbarkeitsstudie zur Verlängerung der Stadtbahnlinie 4 - ungeändert beschlossen
+- TOP 3.9: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Stadtstrategie „Kölner Perspektiven 2030+“ - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Planungs- und Bedarfsfeststellungsbeschluss für die Vergabe der weiteren externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme „Vierspuriger Ausbau der Frankfurter Straße zwischen der Theodor-Heuss-Str - zurückgestellt
+- TOP 4.3: Ergänzung des U-Bahn-Vertrages vom 17.09. / 24.10.1973 zur Übertragung der Federführung für die Aufzugsnachrüstungen in die Stadtbahnhaltestellen Deutz Technische Hochschule und Fuldaer Straße die Kölner Verkehrs-Betriebe - ungeändert empfohlen
+- TOP 4.4: 278. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.5: 279. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.6: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss für den Ausbau der Bahnsteige der Haltestellen der Bauphase 1 auf eine Nutzlänge von 60 m - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: CO2-Balastung Bau Ost-West-Achse - Sache ist erledigt
+- TOP 5.2.2: Kosten durch Trittstufen in Hochflurstadtbahnen - Sache ist erledigt
+- TOP 5.2.3: Probleme mit den KVB-Rädern - Sache ist erledigt
+- TOP 5.2.4: Fluoreszierende Fahrradwege - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Künftige Förderung von Quartiersgaragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.2: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates - Sache ist erledigt
+- TOP 6.3: Maßnahmen gegen Tempoverstöße - Sache ist erledigt
+- TOP 6.4: Beantwortung einer Anfrage gem. §4 der Geschäftsordnung des Rates, AN/2013/2021 der SPD-Fraktion "Entsorgung von Schrottfahrrädern auf Fahrradabstellflächen" - Sache ist erledigt
+- TOP 6.5: Richard-Wagner-Straße/Moltkestraße - Sache ist erledigt
+- TOP 6.6: Gereonstraße/Christophstraße - Sache ist erledigt
+- TOP 6.7: Verkehrliche Umgestaltung eines Teilbereiches am Ehrenfeldgürtel - Sache ist erledigt
+- TOP 6.8: Parkhäuser in der Innenstadt - Sache ist erledigt
+- TOP 6.9: Winterdienst des Radwegenetzes - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Mehrkosten für die Aufzugsnachrüstung der Stadtbahnhaltestelle Vingst - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Umbau der Oskar-Jäger-Straße zwischen Aachener Straße und dem Ausbaubereich Aurelis-Gelände, ca. 200 m nördlich der Weinsbergstraße sowie Freigabe einer investiven Verpflichtungsermächtigung - Kenntnis genommen
+- TOP 7.2.2: Umsetzungsstand Radverkehrskonzept Innenstadt - Kenntnis genommen
+- TOP 7.2.3: Stadtradeln 2021 - Kenntnis genommen
+- TOP 7.2.4: Änderungen zum Fahrplanwechsel 2021 - Kenntnis genommen
+- TOP 7.2.5: Öffentlichkeitsarbeit Stadtbahn Rondorf-Meschenich - Kenntnis genommen
+- TOP 7.2.6: Drehbrücke im Deutzer Hafen - Bauzeitverlängerung und Kostenerhöhung - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Neue Buslinie von Bergisch Gladbach nach Thielenbruch
