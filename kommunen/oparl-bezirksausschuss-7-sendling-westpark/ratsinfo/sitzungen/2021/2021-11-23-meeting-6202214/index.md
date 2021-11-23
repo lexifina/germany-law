@@ -1,0 +1,163 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2021-11-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6202214
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6202214
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Bürgerantrag zum Südpark
+- TOP 6.2.: Bezirksausschuss beantragt Tempo 30 für die Murnauerstraße
+- TOP 6.3.: Partnachplatz Emissionen
+- TOP 6.4.: Projekt im Hort Stadtteilführer_Obersendling_von Kindern für Kinder
+- TOP 6.5.: HLC Spielplatz
+- TOP 6.6.: Gans am Wassser
+- TOP 6.7.: Drachensee - Oetztaler - Schulweg
+- TOP 6.8.: BSL absoluten Halteverbot durch zusätzliche Fahrbahnmarkierungen auf der Ötztalerstraße
+- TOP 6.9.: DB-Parkautomaten in der Martin-Behaim-Str.
+- TOP 6.10.: Anwohnerparke
+- TOP 6.11.: Parkgebühren Martin-Behaim-Straße
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur Mädchen an den Ball! vom 01.01.-31.12.2022 4.140,00€; Az.: 0262.0-7-0352
+- TOP 10.2.: (E) Stadtbezirksbudget Initiative „Turtle“ E-Turtle Kinderbus mit Motor ab 15.12.2021 4.438,00€; Az. 0262.0-7-0354
+- TOP 10.3.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 10.09.2022 1.500,00€; Az. 0262.0-7-0355
+- TOP 10.4.: (E) Stadtbezirksbudget Selbst: behaupten! Feministische Selbstverteidigung Selbstbehauptungskurs für Mädchen* und Frauen* im Bezirk Sendling-Westpark vom 15.01. - 15.11.2022 6.000,00 €; Az. 0262.0-7-0356
+- TOP 11.: Anträge
+- TOP 11.1.: Gestaltung-Container-Westpark
+- TOP 11.2.: Fahrradständer Ehrwalder Straße
+- TOP 11.3.: Verkehrssicherheit Oetztaler Drachensee A
+- TOP 11.4.: Verkehrssicherheit Oetztaler Drachensee B
+- TOP 11.5.: Inninger Straße
+- TOP 11.6.: Wertstoffinseln Südparkallee Pilsensee
+- TOP 11.7.: ‌Stadtteilwoche
+- TOP 11.8.: Stadtteilmanagement
+- TOP 11.9.: Bessere Beschilderung Südpark/Sendlinger Wald
+- TOP 11.10.: Hearing zu sozialen Herausforderungen im Stadtbezirk
+- TOP 11.11.: Antrag Soziale Herausforderungen
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1.: Bericht des Vorsitzenden
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Christkindlmarkt auf dem Luise-Kiesselbach-Platz
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Theatron_Konzert des Schwedischen Chors
+- TOP 18.: Baureferat
+- TOP 18.1.: Widmungserweiterung Aichacher Straß
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Tram Westtangente
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 32.1.: Versetzung Container Höglwörtherstr.
+- TOP 33.: Baureferat
+- TOP 33.1.: Martin-Behaim-Straße
+- TOP 33.2.: Projekt Ettalstr/Wessobrunner/Bernrieder
+- TOP 33.3.: Antwort überdachte öffentliche Orte im Westpark
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Fristverlängerung Kulturbürgerhaus
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Antwortschreiben Fahrradstr. Gottfried-Böhm-Ring
+- TOP 40.2.: Parkraummanagement
+- TOP 40.3.: Stationäre Radarkontrollen an der A95
+- TOP 40.4.: Antwortschreiben Eichstätter Str.-Tempo 30
+- TOP 40.5.: Fristverlängerung Private Lademöglichkeiten
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Fristverlängerung zu Klimaschutzmaßnahmen und Zeitplan für Sendling Westpark
+- TOP 44.2.: ZwBericht Bewerbung für Quartiersansatz
+- TOP 44.3.: Flugverkehr/Kleinflugzeuge-Zwischennachricht
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Abfallbehälter überfüllt
+- TOP 47.2.: Alphahaus
+- TOP 47.3.: TWT-Platz an der Waldfriedhofstraße-Neuer Sachstand
+- TOP 47.4.: GWG Passauerstr 20 Esso-Tankstelle - BA an GWG
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Baumaßnahmen Johann-Clanze-Straße
+- TOP 49.2.: Baumaßnahmen Hinterbärenbadstr.
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Infoschreiben Sitzungsbetrieb
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Tübinger Straße Regelungen für den Wertstoffhof.
+- TOP 56.2.: Verkehrsrechtliche Anordnung Hinterbärenbadstr./Zillertalstr./Oetztaler Str.
+- TOP 56.3.: 3 Dreh Westpark - Damaged Goods
+- TOP 56.4.: Dreh Westpark - ZDF Doku
+- TOP 56.5.: VRA Kürnbergstr.
+- TOP 56.6.: Verlängerung VE Hansastr.
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 58.1.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Friedrich-Hebbel-Straße 26 im 7. Stadtbezirk Sendling-Westpark Leistung eines Baukostenzuschusses
+- TOP 58.2.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.2.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 61.3.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 61.4.: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 61.5.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 61.6.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Fristverlängerung Empfehlung Münchenstift-Palliativbetreuung
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: SWM Baumaßnahme Fürstenrieder Str.
+- TOP 63.2.: Weichenarbeiten am Harras
+- TOP 63.3.: Angebotsänderung bei der MVG
+- TOP 63.4.: Planung der mobilen Kunst-Spiel-Aktion
+- TOP 63.5.: Baumaßnahmen
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Klimarat
+- TOP 65.2.: Abgeschlossenheitsbescheinigungen
+- TOP 65.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 65.4.: Garmischer Straße - Vorkaufsrecht
