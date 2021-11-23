@@ -1,0 +1,76 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-23T17:00:00+01:00
+- Ende: 2021-11-23T19:33:00+01:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula)
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20424
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20424
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430312.pdf
+- Ergebnisprotokoll: öffentliches digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430312.pdf
+- Wortprotokoll: öffentliches digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430312.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 09.11.2021 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 05.10.2021 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Klimamobil - Mobiler Beratungsservice - Klimafreundliches Wohnen und Arbeiten - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4.2: Torfbruchstraße – Radwegeplanung zwischen Dreherstraße und Sulzbachstraße - mehrheitlich beschlossen
+- TOP 4.3: Grundstücksangelegenheit - Baureifmachung der städtischen Flächen im Bereich „Nach den Mauresköthen“ und Sanierung der PFT-Eintragsstelle - Empfehlung einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Weihnachtsmarkt auf dem Gerricusplatz im Jahre 2021 - einstimmig beschlossen
+- TOP 4.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2021) - abweichend beschlossen
+- TOP 4.10: Verwendung von Haushaltsmitteln - abweichend beschlossen
+- TOP 4.11: Unterhalt von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2021) - einstimmig beschlossen
+- TOP 4.12: Errichtung von sieben B+R-Anlagen der Rheinbahn AG - abweichend beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Ergebnisse des Fußverkehrschecks umsetzen – Fußverkehr stärken - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.4: Parkraumbewirtschaftung untere Heyestraße - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Biergarten Ernst-Poensgen-Allee 96 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.7: Ortstermin Testmarkt Geibelstraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Sachstandsbericht Gerresheimer Bahnhof - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.10: Parkscheibenregelung untere Heyestraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Neu- und Ersatzpflanzungen Bezirk 7 - Anfrage der FDP-Fraktion - - beantwortet
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Photovoltaik (PV) -Farm auf der Zentraldeponie Hubbelrath (ZDH) - Anfrage der Fraktion Bündnis 90/Die Grünen - - beantwortet
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Parkplätze Ludenberger Straße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Erste Anpassung des Friedhofsentwicklungskonzept im Bereich des Friedhofs Gerresheim - Informationsvorlage - - zur Kenntnis genommen
+- TOP 8.2: Sachstandsbericht zur Begrünung der Parkanlage "Alter Gerresheimer Friedhof" - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.3: Sportmöglichkeiten für Jugendliche - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.4: Verbesserungen an vorhandenem Bolzplatz Ludenberger Straße - Informationsvorlage zum Beschluss der BV 7 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.5: Abfalleimer südliche Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
+- TOP 8.6: Straßenbenennung, Ernst-Poensgen-Allee, erklärende Tafeln - Informationsvorlage zum Beschluss der BV 7 vom 25.02.2020 - - zur Kenntnis genommen
+- TOP 8.7: Erläuterung für nach Frauen benannte Straßen an Straßenschildern - Informationsvorlage zum Beschluss der BV 7 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.8: Entschärfung des Konflikts zwischen Rad- und Fußverkehr an der Grafenberger Allee von Nr. 401 bis Nr. 413 - Informationsvorlage zum Beschluss der BV 7 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.9: Herrichtung der Haltestelle Neuenhaus (stadtauswärts) - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 8.10: Radfahren entgegen Einbahnstraße in der Geibelstraße - Informationsvorlage zum Beschluss der BV 7 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.11: Grünstreifen an der Heyestraße/Torfbruchstraße anlegen - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
+- TOP 8.12: Durchfahrt Anliegerstraße Hallesche Straße - Informationsvorlage zum Beschluss der BV 7 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.13: Fußgängerverkehre an der Höherhofstraße an Gleis 3 sicherer gestalten - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.14: Tempo 30 auf der Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.15: Winterfällungen 2021 - zur Kenntnis genommen
+- TOP 8.16: Informationstafel zur „sterbenden Blutbuche“ im Ostpark - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
