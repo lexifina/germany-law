@@ -1,0 +1,65 @@
+# Bezirksvertretung Gräfrath (8. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-11-23T17:00:00+01:00
+- Ende: 2021-11-23T20:02:00+01:00
+- Ort: Deutsches Klingenmuseum, Klosterhof 4, 42653 Solingen, Stiftersaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-84
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZaTsZUsTzeF4vumpynm3Zqs
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6439
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQJTDWJdFCNxQhGbDz1tODuh9-X26BArXRg0j4oSTwMk/Bekanntmachung_Bezirksvertretung_Graefrath_23.11.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Gräfrath) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbPQhuDLQflHtWHCvsWXrasBY5xt1utFfJCydm9j4u5d/Oeffentliche_Niederschrift_Bezirksvertretung_Graefrath_23.11.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Einwohnerfragestunde
+- TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Beantwortung von Anfragen
+- TOP 2.1: Fahrradweg auf der Lützowstraße
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4.: Protokoll über die 7. Sitzung der Bezirksvertretung Gräfrath am 31.08.2021
+- TOP 5.: Aufwertung und Ergänzung der Freizeitanlage Bärenloch
+- TOP 6.: Etatberatungen für das Haushaltsjahr 2022 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2025 und des Haushaltssicherungskonzeptes 2022 ff. hier: Mitwirkung gem. § 37 Abs. 4 Gemeindeordnung NRW - mündlicher Bericht -
+- TOP 7.: Baumkonzept für die Stadt Solingen -Bestandserhalt und Bestandserweiterung-
+- TOP 8.: Fortführung des Konzeptes Tempo-30-Zonen
+- TOP 9.: Verkehrsregelung Melanchthonstraße/Dycker Feld
+- TOP 10.: Mobilität von Menschen mit Behinderungen im Stadtteil Gräfrath Gem. Antrag der Bezirksfraktionen von Bündnis 90/Die Grünen, der SPD, der CDU, DIE LINKE und der FDP vom 02.11.2021
+- TOP 11.: Neue Halteregelung an der Fußgänger-Lichtsignalanlage Wuppertaler Straße/In der Freiheit/Schulstraße Antrag der CDU-Bezirksfraktion vom 08.11.2021
+- TOP 12.: Anschluss der Hermesstraße an die Korkenziehertrasse Antrag der CDU-Bezirksfraktion vom 08.11.2021
+- TOP 13.: Sachstand Bushaltestelle Piepersberg Antrag der CDU-Bezirksfraktion vom 08.11.2021
+- TOP 14.: Gewährleistung von sicheren Radwegen Gem. Antrag der Bezirksfraktionen Bündnis 90/Die Grünen, der SPD und DIE LINKE vom 10.11.2021
+- TOP 15.: Genehmigung der Beschlüsse der als Videokonferenz geführten letzten Sitzungen der Bezirksvertretung Gräfrath
+- TOP 16.: Freie Budgetmittel 2021
+- TOP 17.: Beschlusskontrolle - mündlicher Bericht -
+- TOP 18.: Verschiedenes
+- TOP 18.1: Mitteilungen der Verwaltung
+- TOP 18.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen Gräfrath
+- TOP 18.1.2: Hochwasser im Juli 2021
+- TOP 18.1.3: Die Natur als Partnerin: Naturbasierte Maßnahmen zu Klimaschutz und Anpassung an den Klimawandel im urbanen Raum
+- TOP 18.2: Anfragen an die Verwaltung
+- TOP 18.3: Waldweg am Eugen-Maurer-Haus
+- TOP 18.4: Bänke auf dem Weg am Eugen-Maurer-Haus
+- TOP 18.5: Sachstand offener Ganztag an der Grundschule Yorckstraße
+- TOP 18.6: Schuttberg auf der Focher Straße
+- TOP 18.7: Parkbucht vor dem Haus Cheruskerstraße 46
+- TOP 18.8: Rückschnitt an der Wuppertaler Straße
+- TOP 18.9: Sachstand Bebauung altes Bahnhofsgelände
+- TOP 18.10: Planungsunterlagen zur Austrocknung der Dycker Teiche
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 7. Sitzung der Bezirksvertretung Gräfrath am 31.08.2021
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.1.1: Sachstand Erhalt Baumbestand auf einem Grundstück an der Melanchthonstraße
+- TOP 4.2: Anfragen an die Verwaltung
