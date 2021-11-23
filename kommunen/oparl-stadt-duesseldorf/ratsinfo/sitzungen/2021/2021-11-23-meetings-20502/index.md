@@ -1,0 +1,68 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-23T16:00:00+01:00
+- Ende: 2021-11-23T21:00:00+01:00
+- Ort: Thomas-Edison-Realschule, Schlüterstraße 18-20, Pädagogisches Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20502
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20502
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431007.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431007.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431007.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/007/2021 vom 05.10.2021 - mehrheitlich beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Judenhäuser im Stadtbezirk 2 - mündlicher Vortrag - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Grünanlage Buscher Mühle – Parksanierung und Aufwertung - einstimmig beschlossen
+- TOP 7: Umgestaltung Kinderspielplatz Langerstraße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 8: Wohngebiet Hermannplatz- Einrichtung eines Bewohnerparkgebietes - mehrheitlich beschlossen
+- TOP -: Anträge
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Ampelphase Zoobrücke - Humboldtstraße - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 11: Mobilitätshub am S-Bahnhof Zoo - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 12: Kreuzung Rethelstraße / Ahnfeldstraße - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 13: Zuwendungsantrag für einen inklusiven Nachbarschaftsgarten in Flingern-Nord - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 14: Förderung des Projekts Inklusiver Nachbarschaftsgarten in Flingern durch In der Gemeinde Leben gGmbH aus bezirksbezogenen Haushaltsmitteln (resp. Bauunterhaltungsmitteln) - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 15: Pflanzenkübel Rethelstraße - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 16: Fahrradverbindungsstrecke über die Bezirkssportanlage Windscheidstraße - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 17: Konzepterstellung Schulwegsituation Brehmschule durch ein externes Büro - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN, der CDU-Fraktion und der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 18: Busschranke Grafental - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 19: Verschönerung der Stromverteilerkästen im Stadtbezirk 2 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 20: Fahrradweg auf der oberen Humboldtstraße - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: grüne Haltestellen - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 23: Bezirksbezogene Bauunterhaltungsmittel - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 24: Restmittel aus bezirksbezogenen Bauunterhaltungsmitteln sowie aus bezirksbezogenen Haushaltsmitteln inklusive Rückflüssen aus günstigeren Abrechnungen und nicht verausgabten bewilligten Mitteln aus dem Jahr 2021 - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 25: Berücksichtigung des Tatbestands Häusliche Gewalt in der amtlichen Kriminalstatistik - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Kosten und Einnahmen Anwohnerparkausweiszonen - Anfrage der FDP-Fraktion
+- TOP 28: Zufahrt zum Recyclinghof Flingern nach dem Neubau der Müllverbrennungsanlage - Anfrage der CDU-Fraktion - beantwortet
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 33: Potenzielle Auswirkungen einer Einführung von Tempo 30 auf der gesamten Rethelstraße auf den Rheinbahn-Linienbetrieb - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 36: Verhinderung von parkenden Autos auf der Daelenstraße zur Beseitigung der Gefahrenstellen für Fußgänger*innen und spielende Kinder - Beschluss der Bezirksvertretung 2, Vorlage BV2/180/2021 - zur Kenntnis genommen
+- TOP 37: Fußgänger-Überquerung Rethelstraße in Höhe der Straßenbahn-Haltestelle der 706 - Beschluss der Bezirksvertretung 2, Vorlage BV2/136/2021 - zur Kenntnis genommen
+- TOP 38: Querparken Kleinstfahrzeuge - Beschluss der Bezirksvertretung 2, Vorlage BV2/176/2021 - zur Kenntnis genommen
+- TOP 39: Toilettenanlage für den Zoopark - Beschluss der Bezirksvertretung 2, Vorlage BV2/185/2021 - zur Kenntnis genommen
+- TOP 40: Schaukelaustausch auf dem Spielplatz Hansaplatz - Beschluss der Bezirksvertretung 2, Vorlage BV2/196/2021 - zur Kenntnis genommen
+- TOP 41: Neue Spielangebote - Beschluss der Bezirksvertretung 2, Vorlage BV2/204/2021 - zur Kenntnis genommen
+- TOP 42: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Neubau Thomas-Edison-Realschule" - Empfehlung einstimmig beschlossen
+- TOP 43: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Sanierung von Fassaden an acht Schulen" - Empfehlung einstimmig beschlossen
+- TOP 44: Wohngebiet Gerresheimer Straße- Einrichtung eines Bewohnerparkgebietes - Empfehlung mehrheitlich beschlossen
+- TOP 45: Änderung des Ausführungs- und Finanzierungsbeschlusses für den dritten Teilbereich des Zooparks in Höhe von 250.000 € aus den Bauunterhaltungsmitteln. - einstimmig beschlossen
+- TOP 46: Identifizierung weiterer Standorte für Neu- und Ersatzpflanzungen von Stadtbäumen im Bezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/218/2021
