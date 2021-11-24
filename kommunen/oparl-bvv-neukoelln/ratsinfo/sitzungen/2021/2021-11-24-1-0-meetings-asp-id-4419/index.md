@@ -1,0 +1,85 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2021-11-24T17:00:00+01:00
+- Ende: 2021-11-24T22:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4419
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4419
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Nachbarschaftshaus Karlsgartenstraße 6 - dauerhafte Sicherung - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 2.1: Antrag auf Streichung der Fahrgeldentschädigungen für Bezirksverordnete - in der BVV abgelehnt
+- TOP 2.2: Drs. 0063/XXI - Änderung der Zuordnung der Zugriffsrechte auf die Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Entscheidung der Mehrheit der Neuköllner*innen respektieren - Volksentscheid "Deutsche Wohnen & Co. enteignen" jetzt umsetzen! - in der BVV abgelehnt
+- TOP 4.2: Rot-Rot-Grüner Populismus baut keine Wohnungen - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2021/2022 und im Jahr 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Änderung der Zuordnung der Zugriffsrechte auf die Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl der Beisitzer/innen in den Vorstand der BVV Neukölln von Berlin - gewählt
+- TOP 7.2: Wahl von Bürgerdeputierten gem. § 21 Bezirksverwaltungsgesetz - gewählt
+- TOP 7.3: Unterbrechung für die Konstituierung von Ausschüssen - erledigt
+- TOP 7.4: Wahl eines Mitgliedes in den Verwaltungsrat des Eigenbetriebes "Kindertagesstätten SüdOst" - gewählt
+- TOP 7.5: Wahl eines stellvertretenden Mitgliedes in den Verwaltungsrat des Eigenbetriebes"Kindertagesstätten SüdOst" - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Aktuelle Situation Eisstadion Neukölln - beantwortet
+- TOP 8.2: Wie sind Neuköllner Schulen auf die 4. Corona-Welle vorbereitet? - beantwortet
+- TOP 8.3: Verbundeinsätze in Neukölln - beantwortet
+- TOP 8.4: Projekt Vorkaufsrecht am Ende? Freier Lauf für Immobilienspekulation durch das Bundesverwaltungsgericht - beantwortet
+- TOP 8.5: Intensivbettenabbau - beantwortet
+- TOP 8.6: Was unternimmt das Bezirksamt gegen den Verlust von industriellen Arbeitsplätzen? - beantwortet
+- TOP 8.7: Brand in der Turnhalle am Standort Efeuweg - beantwortet
+- TOP 8.8: Sind Neuköllner Ämter vorbereitet auf 3G? - schriftlich beantwortet
+- TOP 8.9: Stadtrat Biedermann mit Vorkaufrecht krachend gescheitert! - schriftlich beantwortet
+- TOP 8.10: Neuer Kampf der Kulturen des Bürgermeisters Hikel gegen den Islam? Die Registerstelle „Konfrontative Religionsbekundung“ gegen muslimische Schüler:innen - schriftlich beantwortet
+- TOP 8.11: Fußverkehrsplaner*innen für Neukölln? - schriftlich beantwortet
+- TOP 8.12: Wann kann die Jahnsporthalle wieder genutzt werden? - schriftlich beantwortet
+- TOP 8.13: Blumenviertel absaufen lassen? - schriftlich beantwortet
+- TOP 8.14: Umsetzungsplan zur Rekommunalisierung der Schulreinigung - schriftlich beantwortet
+- TOP 8.15: Unterbringung statusgewandelter Personen - schriftlich beantwortet
+- TOP 8.16: Bearbeitungszeiten unzumutbar? - schriftlich beantwortet
+- TOP 8.17: Personalsituation an den Kindertagesstätten SüdOst - schriftlich beantwortet
+- TOP 8.18: Kältehilfe für Obdachlose in Neukölln - schriftlich beantwortet
+- TOP 8.19: Gedenktafel Martin Weise - schriftlich beantwortet
+- TOP 8.20: Bezirkselternausschuss - schriftlich beantwortet
+- TOP 8.21: Anwohner-Drama in der Nogatstraße 1 - schriftlich beantwortet
+- TOP 9: Mitteilungen - erledigt
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - im Ausschuss abgelehnt
+- TOP 10.1: Schulgarten Carl-Legien Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Skulptur für Stadtteilbibliothek - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Zwischennutzung des ehemaligen Schulgartens der Carl-Legien-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Stadtteilbibliotheken sollen einen Namen erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Schulöffnung in Corona-Zeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Aus COVID19 lernen - Schule und Kultur widerstandsfähiger gegen Pandemiefälle machen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.7: Bestandsaufnahme im ehemaligen Schulgarten der Carl-Legien-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.8: Heldenprämie für ALLE Held*innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Pandemische Lage von nationaler Tragweite läuft aus - beantwortet
+- TOP 12.2: Lohndumping beenden – Berliner Vergabemindestlohn in der Schulreinigung - beantwortet
+- TOP 12.3: Vorkaufsrecht in Neukölln nach dem Urteil des BVerwG - beantwortet
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Antrag auf Änderung der Geschäftsordnung - überwiesen
+- TOP 14.2: Wirksamen Mieter*innenschutz in Milieuschutzgebieten nach dem Urteil des BVerwG - überwiesen
+- TOP 14.3: Sicherer Übergang Neuköllner Straße/Kleestraße - überwiesen
+- TOP 14.4: Berlin feuerwerksarm: Menschenschutz, Klimaschutz, Umweltschutz - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Kita "Elif und Emil 3" - Kinder und Erzieher schützen I - überwiesen
+- TOP 14.6: Haltestelle umbenennen - überwiesen
+- TOP 14.7: Fair-Trade-Town Zertifizierung nachhaltig sichern - überwiesen
+- TOP 14.8: Kita "Elif und Emil 3" - Kinder und Erzieher schützen II - überwiesen
+- TOP 14.9: Stelle der Neuköllner Nachhaltigkeitsbeauftragten verstetigen - überwiesen
+- TOP 14.10: Runde Ecke in der Pintschallee sicherer machen - überwiesen
+- TOP 14.11: Einhaltung der Corona-Schutzauflagen konsequent kontrollieren - überwiesen
+- TOP 14.12: Energetische Gebäudesanierung voranbringen - überwiesen
