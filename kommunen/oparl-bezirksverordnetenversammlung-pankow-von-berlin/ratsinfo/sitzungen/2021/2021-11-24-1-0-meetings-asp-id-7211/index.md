@@ -1,0 +1,71 @@
+# 2. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2021-11-24T17:30:00+01:00
+- Ende: 2021-11-24T18:50:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7211
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7211
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=246529
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Baumfällungen statt bürgerschaftlichem Engagement in der Wohnstadt Carl Legien? - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2020 - überwiesen
+- TOP 1.9: Wahl der Bürgerdeputierten*innen sowie stellvertretenden Bürgerdeputierten*innen für den Kinder- und Jugendhilfeausschuss der Bezirksverordnetenversammlung für die IX. Wahlperiode - gewählt
+- TOP 1.10: Überprüfung der Bezirksverordneten zur Feststellung einer hauptamtlichen oder inoffiziellen Tätigkeit für das MfS/AfNS - zurückgezogen
+- TOP 1.11: Ausschussbildung - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Überprüfung der Bezirksverordneten zur Feststellung einer hauptamtlichen oder inoffiziellen Tätigkeit für das MfS/ AfNS - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Wirksame Verkehrsberuhigung vor den Kindergärten im Alten Schlachthof erreichen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Bestäuberfreundlicher Bezirk Pankow – Wildbienen machen Schule! - überwiesen
+- TOP 1.15: “Schüler*innenhaushalt” mit Senatsmitteln verstetigen - überwiesen
+- TOP 1.16: Mehr Fördermittel für Pankow - überwiesen
+- TOP 1.17: Schulwegsicherheit am Heinrich-Schliemann-Gymnasium herstellen! - überwiesen
+- TOP 1.18: Ausschussbildung - in der BVV zurückgezogen
+- TOP 1.19: Sitzungskalender - in der BVV zurückgezogen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Verkehrsberuhigung am Schloss Schönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Schulwege sicherer machen - Dialogdisplays installieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Transparenz für die Sanierung von Gehwegen im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Kulturstandort Freilichtbühne Weißensee sichern und weiterentwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Querungssicherheit Ecke Bucher Chaussee/ Hofzeichendamm erhöhen II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Stationären Einzelhandel erhalten – Digitalisierung stärken – Digital Coaches einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Sicherung und Wiederaufbau der Erbbegräbnisstätten auf dem Friedhof in Französisch Buchholz IX - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Personelle Voraussetzungen für Gehwegsanierung schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Informationen zu Ehrengräbern und weiteren Ruhestätten auf Pankower Friedhöfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Beschleunigung des Neuaufbaus des Touristischen Informationssystems in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Keine weiteren Arbeiten auf dem städtischen Friedhof IX in Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Modellprojekt Housing First - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Gesicherte Erschließung der Siedlung vor Schönholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Klimaschutz und Klimaneutralität in Pankow fördern – Familienzentrum Upsala klimaneutral sanieren und entwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Dauerstau in Blankenburg beenden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Gefährliche und langwierige Wendemanöver vermeiden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Querungshilfe auf dem Hubertusdamm - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Personelle Ausstattung zur Umsetzung und Weiterentwicklung des Sportentwicklungsplans für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Voraussetzungen zur Übernahme der Planung und Projektentwicklung des Gewerbegebietes Buchholz-Nord durch die WISTA Management GmbH - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Bunte Kiezkissen für Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Die Mühe sollten wir uns nicht schenken: Das Aufstellen von Schenkschränken im öffentlichen Raum ermöglichen und vereinfachen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Aufhebung des Beschlusses zur Drucksache VIII-1356 „Parkverbot in der Frundsbergstraße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Sicher über die Hauptstraße in Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Fußgängerüberweg über die Blankenburger Chaussee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Einziehung von öffentlichem Straßenland und Flächenübertragung zur Erweiterung des Schulstandortes Rosa-Luxemburg-Gymnasium, Teilfläche des Grundstückes Borkumstraße (Flur 164, Flurstück 85) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Aufstellung des Bebauungsplans 3-91 „Gewerbehof Kniprodestraße“ für die Grundstücke Kniprodestraße 60 und 62 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Bebauungsplan 3-53 für das Grundstück Hansastraße 173 im Bezirk Pankow, Ortsteil Weißensee (KGA Hansastraße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Städtebaulicher Rahmenplan Straße vor Schönholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Festlegung der Beauftragten für den Haushalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Geschäftsverteilung und Vertretungsregelung des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Vorläufige Geschäftsordnung für das Bezirksamt Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Bestellung von Mitglieder:innen im Verwaltungsrat des Eigenbetriebes „Kindergärten Nord-Ost“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Zielvereinbarung zur gesamtstädtischen Steuerung und Weiterentwicklung der Sozialen Wohnhilfen zwischen den Bezirksämtern von Berlin und den für Soziales und Finanzen zuständigen Senatsverwaltungen - mit Abschlussbericht zur Kenntnis genommen
