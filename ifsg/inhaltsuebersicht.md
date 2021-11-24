@@ -38,7 +38,7 @@
 | § 19 | Aufgaben des Gesundheitsamtes in besonderen Fällen |
 | § 20 | Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe |
 | § 21 | Impfstoffe |
-| § 22 | Impfdokumentation, COVID-19-Zertifikate |
+| § 22 | Impf-, Genesenen- und Testdokumentation, COVID-19-Zertifikate |
 | § 23 | Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder |
 | § 23a | Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten |
 |  |
@@ -50,7 +50,7 @@
 | § 27 | Gegenseitige Unterrichtung |
 | § 28 | Schutzmaßnahmen |
 | § 28a | Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) |
-| § 28b | Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei besonderem Infektionsgeschehen, Verordnungsermächtigung |
+| § 28b | Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19), Verordnungsermächtigung |
 | § 28c | Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen |
 | § 29 | Beobachtung |
 | § 30 | Absonderung |
