@@ -1,0 +1,56 @@
+# Ausschuss für Planung, Stadtentwicklung und Mobilität
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-11-24T17:00:00+01:00
+- Ende: 2021-11-24T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/223
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5588
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5588
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket APSM alt http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00156368.pdf
+- Ergebnisprotokoll: Sitzungspaket APSM alt http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00156368.pdf
+- Wortprotokoll: Sitzungspaket APSM alt http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00156368.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Ergänzung des Flächennutzungsplans – Aufstellungsbeschluss und Beschluss der frühzeitigen Bürgerbeteiligung - einstimmig zugestimmt
+- TOP 5: Bebauungsplan Nr. 200/2 - Erfttal, Parisstraße (Kita) - Satzungsbeschluss Bebauungsplan Nr. 200/1 - Erfttal, Bezirkssportanlage (KUE) - Aufhebung des Aufstellungsbeschlusses - einstimmig zugestimmt
+- TOP 6: Beschluss über das Ergebnis der Ideenwerkstatt Wendersplatz - mehrheitlich beschlossen
+- TOP 7: Planungsbeschluss für den Ausbau eines öffentlichen Fuß- und Radweges in Allerheiligen - einstimmig zugestimmt
+- TOP 8: Umplanung Jülicher Landstraße - einstimmig zugestimmt
+- TOP 9: Gestaltungsbeirat - einstimmig zugestimmt
+- TOP 10: Anwendung von Vorkaufssatzungen im Stadtgebiet Neuss - mehrheitlich beschlossen
+- TOP 11: Fortsetzung des Angebots zum kostenlosen W-Lan „neuss-digital“ in der Innenstadt - einstimmig zugestimmt
+- TOP 12: Fortsetzung der Werbekampagne „In NE ist alles drin“ im Rahmen des Citymarketings - mehrheitlich beschlossen
+- TOP 13: Resolution "Modellregion NahFAIRkehr" - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 14: Beschluss über die Haushaltsaufstellung des Dezernates 6 für den Bereich Planung, Bauen und Verkehr für das Jahr 2022 - mehrheitlich beschlossen
+- TOP 14.1: Antrag SPD, Die Grünen, UWG/Neuss aktiv zu TOP 14 betr. Mobilitätswende vorantreiben – Mehr Rad und Fußwege sanieren - verwiesen
+- TOP 14.2: Antrag SPD, Die Grünen, UWG/Neuss aktiv zu TOP 14 betr. Prüfung einer Seilbahn im Zusammenhang mit der Landesgartenschau - beraten ohne Abstimmung
+- TOP 14.3: Antrag SPD, Die Grünen, UWG/Neuss aktiv zu TOP 14 betr. Prüfung der Einrichtung einer Tierklink mit Tiernotruf - verwiesen
+- TOP -: Anträge
+- TOP 15: Antrag der CDU-Stadtratsfraktion vom 02.02.2021 betr. Sicherung der römischen Mauern am RomaNEum - beraten ohne Abstimmung
+- TOP 16: Antrag der CDU betr.: Dauerhafte Installation von Dialog-Displays auf der Villestraße in Hoisten - beraten ohne Abstimmung
+- TOP 17: Antrag der SPD, B 90/Die Grünen, UWG/Aktiv betr.: Mehr bezahlbarer Wohnraum durch Anpassung von Bebauungsplänen im Neusser Süden - mehrheitlich beschlossen
+- TOP 17.1: Antrag der Koalition SPD/B 90/ Die Grünen / UWG/Aktiv betr.: Quartiersgaragen für Fahrräder - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 18: Haushaltskonsolidierung - verwiesen
+- TOP 19: Abgabe der Bewerbungsunterlage für die LAGA 2026 - zur Kenntnis genommen
+- TOP 20: Schöner ankommen in NRW: Letter of Intent zur städtebaulichen Aufwertung von Empfangsgebäuden der DB Station & Service AG - zur Kenntnis genommen
+- TOP 21: Maßnahmen zur Attraktivierung der Innenstadt im Hinblick auf das NRW-Förderprogramm - zur Kenntnis genommen
+- TOP 22: Bericht über die Bürgerinformationsveranstaltung Rheinfährstraße - zur Kenntnis genommen
+- TOP 23: Beirat Innenstadtstärkung - Bericht über die Planungswerkstatt vom 25.09.2021 - zur Kenntnis genommen
+- TOP 24: Sachstand zum Integrierten Städtebaulichen Entwicklungskonzept (ISEK) für das Bahnhofsumfeld - zur Kenntnis genommen
+- TOP 25: Schulwegsicherung Preußenstraße/Virchowstraße - zur Kenntnis genommen
+- TOP 26: Vorstellung eines Bauvorhabens in der Bahnhofstraße Neuss/Holzheim - zur Kenntnis genommen
+- TOP 27: Einwohner*innenfragestunde
