@@ -1,0 +1,7 @@
+# TOP 2: Bekanntgabe der Beschlüsse aus der nicht öffentlichen Sitzung vom 30.09.2021 deren Geheimhaltung weggefallen ist
+
+- Sitzung: Sitzung des Gemeinderates (2021-11-25)
+- Körperschaft: Gemeinde Petershausen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Gemeinde-Petershausen/agendaitems/11735
+- Ergebnis: zur Kenntnis genommen
