@@ -318,7 +318,7 @@
 | § 138 | Übergangsregelung für Pflegebedürftige aus Anlass des Dritten Pflegestärkungsgesetzes |
 | § 139 | Übergangsregelung für Bedarfe für Unterkunft und Heizung ab dem Jahr 2020 |
 | § 140 | Übergangsregelung zur Verhinderung einer Zahlungslücke |
-| § 141 | Übergangsregelung aus Anlass der COVID-19-Pandemie |
+| § 141 | Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung |
 | § 142 | Übergangsregelung für die gemeinschaftliche Mittagsverpflegung aus Anlass der COVID-19-Pandemie |
 | § 143 | Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten |
 | § 144 | Einmalzahlung aus Anlass der COVID-19-Pandemie |

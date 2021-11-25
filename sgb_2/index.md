@@ -192,7 +192,7 @@
 - [§ 65d Übermittlung von Daten](0065d.md)
 - [§ 65e Übergangsregelung zur Aufrechnung](0065e.md)
 - [§ 66 Rechtsänderungen bei Leistungen zur Eingliederung in Arbeit](0066.md)
-- [§ 67 Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie](0067.md)
+- [§ 67 Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung](0067.md)
 - [§ 68 Regelungen zu Bedarfen für Bildung aus Anlass der COVID-19-Pandemie](0068.md)
 - [§ 69 Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten](0069.md)
 - [§ 70 Einmalzahlung aus Anlass der COVID-19-Pandemie](0070.md)
