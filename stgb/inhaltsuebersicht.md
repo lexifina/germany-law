@@ -655,10 +655,10 @@
 |  | § 272 | (weggefallen) |
 |  | § 273 | Verändern von amtlichen Ausweisen |
 |  | § 274 | Urkundenunterdrückung; Veränderung einer Grenzbezeichnung |
-|  | § 275 | Vorbereitung der Fälschung von amtlichen Ausweisen |
+|  | § 275 | Vorbereitung der Fälschung von amtlichen Ausweisen; Vorbereitung der Herstellung von unrichtigen Impfausweisen |
 |  | § 276 | Verschaffen von falschen amtlichen Ausweisen |
 |  | § 276a | Aufenthaltsrechtliche Papiere; Fahrzeugpapiere |
-|  | § 277 | Fälschung von Gesundheitszeugnissen |
+|  | § 277 | Unbefugtes Ausstellen von Gesundheitszeugnissen |
 |  | § 278 | Ausstellen unrichtiger Gesundheitszeugnisse |
 |  | § 279 | Gebrauch unrichtiger Gesundheitszeugnisse |
 |  | § 280 | (weggefallen) |
