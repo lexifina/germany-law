@@ -1,0 +1,91 @@
+# 8. Sitzung der Bezirksvertretung Kalk INFEKTIONSSCHUTZ: Aufgrund der Mindestabstände stehen weniger Plätze für die Öffentlichkeit zur Verfügung. Bitte melden Sie sich unbedingt vorab bei der Schriftführung an.
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-25T17:00:00+01:00
+- Ende: 2021-11-25T17:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23598
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23598
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Fußgängerampel Frankfurter Straße, Höhe des Merheimer Heideweges/Höhenberger Kirchweg in Köln-Höhenberg - ungeändert beschlossen
+- TOP -: Änderungsantrag zu Fußgängerampel Frankfurter Straße, Höhe des Merheimer Heideweges/Höhenberger - geändert beschlossen
+- TOP 7.2: Korrekturen an der neuen Ampelanlage Höhe St. Vinzenzhaus in Köln-Brück - ungeändert beschlossen
+- TOP 7.3: Eine Gesamtschule für Köln-Neubrück! - zurückgestellt
+- TOP 7.3.1: Gesamtschule ja - Aber nur mit Kollegium, Eltern und Schüler*innenschaft gemeinsam - zurückgestellt
+- TOP 7.3.2: Stellungnahme zu AN/1677/2021 Antrag der SPD-Fraktion vom 19.08.2021 - Eine Gesamtschule für Köln-Neubrück! - zurückgestellt
+- TOP 7.4: Ampelschaltung an der Kreuzung Frankfurter Straße/Olpener Straße Fußgänger freundlich und inklusiv gestalten - ungeändert beschlossen
+- TOP 7.5: Materialausstattung für die Freiwillige Feuerwehr im Stadtbezirk Kalk - zurückgestellt
+- TOP 7.6: Weitere Tischtennisplatten im Stadtteil Kalk - zurückgestellt
+- TOP -: Änderungsantrag zu Weitere Tischtennisplatten im Stadtteil Kalk - zurückgestellt
+- TOP 7.7: Elektro-Veedelsbus für den Veedelshausmeister und Bürger*innen aus dem Stadtbezirk - zurückgestellt
+- TOP 7.8: Mehr Sicherheit und Komfort für Radfahrende auf der Dillenburger Straße - zurückgestellt
+- TOP 7.9: Trinkwasserbrunnen am "Bolzplatz" in Vingst Würzburger Straße (West/Bayreuther Str.) - geändert beschlossen
+- TOP 7.10: Metallgittersitzbänke auf dem Skaterpark - zurückgestellt
+- TOP 7.11: Einbahnstraßen für den gegenläufigen Radverkehr in Höhenberg öffnen - endgültig zurückgezogen
+- TOP 7.12: Dauerhafte Einrichtung eines Zebrastreifens in der Eiler Str. im Höhe Hausnummer 129 / Jugendheim St. Cornelius in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.13: Reinigung und Instandsetzung der Radwege auf der Olpener Straße von Höhenberg bis Brück - ungeändert beschlossen
+- TOP 7.14: Ausgleichsflächen identifizieren und überprüfen - ungeändert beschlossen
+- TOP 7.15: Toiletten am Skaterpark in der Merheimer Heide - ungeändert beschlossen
+- TOP 7.16: Exakte Lagebestimmung der Frischluftschneise bezüglich Köln-Brück und -Neubrück - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Berufung der kunstsachverständigen Vertreter (BV1-9) für den Kunstbeirat, Ratsperiode 2020-2025 - ungeändert beschlossen
+- TOP 8.1.2: Umgestaltung des Spielplatzes Würzburger Straße in Köln-Vingst - ungeändert beschlossen
+- TOP 8.1.3: Aufwertungsmaßnahmen für den Kalker Stadtgarten Schenkung der Kölner Grün Stiftung - ungeändert beschlossen
+- TOP 8.1.4: Beschluss für die Durchführung einer Öffentlichkeitsbeteiligung zur Einrichtung einer Fahrradstraße auf der Thumbstraße, Markt, Kapitelstraße, Höfestraße und Peter-Stühlen-Straße in Kalk. - ungeändert beschlossen
+- TOP 8.1.5: Beschluss der Richtlinie zur Umsetzung der Maßnahme „Haus-, Hof- und Fassadenprogramm“ des Programms „Starke Veedel – Starkes Köln“ im Sozialraum „Ostheim und Neubrück“ - ungeändert beschlossen
+- TOP 8.1.6: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Ergänzung des U-Bahn-Vertrages vom 17.09. / 24.10.1973 zur Übertragung der Federführung für die Aufzugsnachrüstungen in die Stadtbahnhaltestellen Deutz Technische Hochschule und Fuldaer Straße die Kölner Verkehrs-Betriebe - ungeändert beschlossen
+- TOP 8.2.2: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - ungeändert beschlossen
+- TOP 8.2.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Adalbertstraße in Köln-Höhenberg - zurückgestellt
+- TOP 8.2.3.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Adalbertstraße in Köln-Höhenberg" - zurückgestellt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Fußgängersicherung an der Ostmerheimer Straße 214a (Kita Zuckerhut) in Köln-Merheim - Kenntnis genommen
+- TOP 9.1.2: Einsamer Baumstamm auf dem Merheimer Heideweg in Köln-Höhenberg AN/1290/2021 - Kenntnis genommen
+- TOP 9.1.3: Errichtung einer Laterne an der Boulebahn in Köln-Brück - Kenntnis genommen
+- TOP 9.1.4: Hundefreilauffläche im Fort X in Köln-Ostheim/-Höhenberg - Kenntnis genommen
+- TOP 9.1.5: Einführung des Parkleitsystems Cleverciti in weiteren Stadteilen nach Abschluss des Piloten in Nippes - Kenntnis genommen
+- TOP 9.1.6: Grünstreifen in Köln-Kalk - Kenntnis genommen
+- TOP 9.1.7: Beantwortung der Anfrage Schuleingangsuntersuchung bei Schulanfänger*innen des Schuljahrs 2021/2022 im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.8: Beantwortung der Anfrage der CDU-Fraktion aus der Sitzung vom 07.10.2021 TOP 7.1 (AN/1661/2021) - Kenntnis genommen
+- TOP 9.1.9: Beantwortung einer Anfrage der CDU-Fraktion aus der Sitzung vom 25.11.2021 TOP 7.2 (AN/1666/2021) - Kenntnis genommen
+- TOP 9.1.10: Beantwortung einer Anfrage der Fraktion Die LINKE. aus der Sitzung vom 25.11.2021 TOP 7.4 (AN/2043/2021) - Kenntnis genommen
+- TOP 9.1.11: Biologisch abbaubare Hundekottüten - Beantwortung der Anfrage AN/2061/2021 - Kenntnis genommen
+- TOP 9.1.12: Fußgängersicherung auf dem Bürgersteig in der Burgstraße zwischen den Hausnummern 14 bis 26 in Köln-Kalk - Kenntnis genommen
+- TOP 9.1.13: Beantwortung der Fragen zu TOP 6.2 – „Sachstand Hallen Kalk – Gemeinwohlorientierte Entwicklung des Osthofs“ (1856/2021) - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Wasserwende im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.1.1: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung vom 25.11.2021 TOP 9.2.1 - Kenntnis genommen
+- TOP 9.2.2: Elektrogeräte aus städtischem Eigentum nachhaltig nutzen - Kenntnis genommen
+- TOP 9.2.2.1: Antwort der Verwaltung betreffend AN/2423/2021 "Elektrogeräte aus städtischem Eigentum nachhaltig nutzen" - Kenntnis genommen
+- TOP 9.2.3: Öffentliche Nutzung des Areals rund um St. Joseph in Köln-Kalk - Kenntnis genommen
+- TOP 9.2.4: Mülleimer in Vingst - Kenntnis genommen
+- TOP 9.2.5: Wie kann der Bearbeitungsknoten bei der Verwaltung gelöst werden - Kenntnis genommen
+- TOP 9.2.6: Wendemöglichkeit an der Merheimer Heide - Kenntnis genommen
+- TOP 9.2.7: Trennung Siedlung Merheimer Heide und Sportanlagen - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 9.4: Offene Anfragen aus früheren Sitzung
+- TOP 9.4.1: Liste offene Anfragen - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsbericht Schulbauten im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 10.2.2: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 10.2.3: Interkulturelle Zentren Köln - Übersichtskarte Stand: 1.09.2021 - Kenntnis genommen
+- TOP 10.2.4: KOMM-AN NRW – Landesförderprogramm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2021 - Kenntnis genommen
+- TOP 10.2.5: Änderungen zum Fahrplanwechsel 2021/2022 - Kenntnis genommen
+- TOP 10.2.6: Bebauungsplaverfahren „Astrid-Lindgren-Allee“ in Köln-Brück: Vorgehensweise bei der Reihenfolge Durchführung des städtebaulichen Wettbewerbs/ Beschluss über die Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeiteiligung - Kenntnis genommen mit erneuter Wiedervorlage
