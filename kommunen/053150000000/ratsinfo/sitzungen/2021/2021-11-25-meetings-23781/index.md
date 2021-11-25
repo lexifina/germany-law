@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-25T16:15:00+01:00
+- Ende: 2021-11-25T17:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23781
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23781
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke betreffend Wie versiegelt ist die Stadt? - Kenntnis genommen
+- TOP 1.1.1: Beantwortung der Anfrage - Kenntnis genommen
+- TOP 1.2: Anfrage der SPD-Fraktion betreffend Konsequenzen aus den Überflutungen beim Starkregenereignis am 14. und 15. Juli 2021 - Kenntnis genommen
+- TOP 1.2.1: Beantwortung der Anfrage nach § 4 Geschäftsordnung - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion DIE FRAKTION betreffend Unbegrünte Grünflächen - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der SPD-Fraktion betreffend Sofortmaßnahmen für die Solar-Offensive in Köln - endgültig zurückgezogen
+- TOP 2.1.1: Änderungsantrag der Fraktion Die Linke betreffend „Sofortmaßnahmen für die Solar-Offensive in Köln“ - Sache ist erledigt
+- TOP 2.1.2: Stellungnahme zum Änderungsantrag Die Linke betreffend Sofortmaßnahmen für die Solar-Offensive in Köln - Kenntnis genommen
+- TOP 2.2: Antrag der Fraktion Die Linke betreffend Erfassung der Luftqualität im Kölner Norden - zurückgestellt
+- TOP 2.2.1: Stellungnahme zum Antrag der Fraktion Die Linke betreffend Erfassung der Luftqualität im Kölner Norden - zurückgestellt
+- TOP 2.3: Gemeinsamer Antrag der Fraktionen Die Linke, FDP und Die FRAKTION betreffend Sonnendeck - PV-Anlagen über Autobahnen - endgültig abgelehnt
+- TOP 2.3.1: Änderungsantrag der SPD-Fraktion betreffend Sonnendeck – PV-Anlagen über Autobahnen - endgültig zurückgezogen
+- TOP 2.3.2: Stellungnahme zum Änderungsantrag der SPD Fraktion betreffend Sonnendeck – PV-Anlagen über Autobahnen - Kenntnis genommen
+- TOP 2.4: Antrag der Fraktion DIE FRAKTION betreffend Schutz von Igeln, Insekten und Amphibien - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Stadtradeln 2021 - Kenntnis genommen
+- TOP 3.2: Mediationsverfahren Klimawende Köln - RheinEnergie AG - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD und Volt - mit Änderungen empfohlen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Stadtstrategie „Kölner Perspektiven 2030+“ - ohne Votum in nachfolgende Gremien
+- TOP 4.1.2: Neubau Historische Mitte - ohne Votum in nachfolgende Gremien
+- TOP 4.1.3: Beschluss der Bezirksvertretung Nippes per Dringlichkeit Erhalt der Fläche des derzeitigen Golfplatzes an der Neusser Landstraße als Grünfläche - zurückgestellt
+- TOP 4.1.4: Fortführung finanzielle Unterstützung des Umweltbildungszentrums auf Gut Leidenhausen - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - ohne Votum in nachfolgende Gremien
+- TOP 5.2: 221. Änderung des Flächennutzungsplanes (FNP) in den Stadtbezirken 1 (Innenstadt) und 3 (Lindenthal)-Einleitungsbeschluss - ungeändert empfohlen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Kompensationszahlung 2020 - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2021 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.3: Evaluierung von automatisierungstechnischen Programmen zur optimierten Betriebsführung gebäudetechnischer Anlagen in der Gebäudewirtschaft der Stadt Köln (energetische Optimierung) - Zwischenbericht 2021 - Kenntnis genommen
+- TOP 7.4: Erster Sachstandsbericht Essbare Stadt Oktober 2021 - Kenntnis genommen
+- TOP 7.5: Sachstandsbericht Strategische Grünentwicklung - Kenntnis genommen
+- TOP 7.6: Öffentlichkeitsbeteiligung Glashüttenstraße; ISEK M3.01 - Kenntnis genommen
+- TOP 7.7: Stadtklima- und Verschönerungsprogramm 2020 und 2021 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 7.8: Stadtklima-Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.9: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Mündliche Anfrage von Frau von Mikecz - zur weiteren Bearbeitung in die Verwaltung überwiesen
