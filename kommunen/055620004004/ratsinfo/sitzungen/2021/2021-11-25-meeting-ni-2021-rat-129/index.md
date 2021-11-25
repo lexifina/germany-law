@@ -1,0 +1,71 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2021-11-25T17:00:00+01:00
+- Ende: 2021-11-25T21:44:00+01:00
+- Ort: Europahalle, Europaplatz 6, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-129
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2021-RAT-129
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2021-RAT-129
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-129
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-RAT-129
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Beschlusskontrolle über die Durchführung von Ratsbeschlüssen
+- TOP 3: Wappen und Logo - mehrheitlich angenommen
+- TOP 4: Neufassung der Hauptsatzung für den Rat der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 5: Haushaltssatzung und Haushaltsplan sowie Haushaltssicherungskonzept für das Jahr 2022 nebst Anlagen
+- TOP 5.1: Haushaltssatzung und Haushaltsplan sowie Haushaltssicherungskonzept für das Jahr 2022 nebst Anlagen - mehrheitlich angenommen
+- TOP 6: Stellenplan 2022 - mehrheitlich angenommen
+- TOP 7: Haushaltsplanung für die Jahre 2022 ff. Hier: Abstimmung der Förderprogramme aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm "Gute Schule 2020" des Landes - einstimmig angenommen
+- TOP 8: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 9: Nebentätigkeiten des Hauptverwaltungsbeamten im Jahr 2020; Vorlage gem. §18 Abs. 2 Korruptionsbekämpfungsgesetz
+- TOP 10: Bereitstellung von überplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Buchungsstelle 0321006/50370/121801/ALT573 (Zugang Geb.Aufbaut.BetriebsV Schulen). - einstimmig angenommen
+- TOP 11: Änderung der Gebührensatzung der Stadtbibliothek Castrop-Rauxel - mehrheitlich angenommen
+- TOP 12: Bestellung eines Geschäftsführers für die CAS-Wirtschaftsförderungs- und Stadtteilmanagement GmbH - mehrheitlich angenommen
+- TOP 13: Vertretung im Aufsichtsrat der CAS-Wirtschaftsförderungs- und Stadtteilmanagement GmbH - einstimmig angenommen
+- TOP 14: Stärkung von Handel, Gastronomie und Dienstleistungen in Castrop-Rauxel - einstimmig angenommen
+- TOP 15: Ausschreibung Zuschlagsvertrag über die Lieferung von Mobiliar/Einrichtungsgegenständen für die Schulen der Stadt Castrop-Rauxel (01.05.2022 - 30.04.2027) - einstimmig angenommen
+- TOP 16: Antrag DIE LINKE vom 03.11.2021 Erarbeitung eines Ausbauprogramms für die Grundschulen im Hinblick auf die Einführung der Ganztagsbetreuung ab 2026 - einstimmig angenommen
+- TOP 17: Antrag der CDU-Fraktion: Anfrage Situation Baugenehmigungsverfahren
+- TOP 18: Straßen- und Wegekonzept - mehrheitlich angenommen
+- TOP 19: ISEK Merklinde – Richtlinien zum Quartiersfonds und zum Hof- und Fassadenprogramm - einstimmig angenommen
+- TOP 20: Entwicklung eines Konzeptes zur ökologischen Verbesserung städt. Gewässer Bezug: Ratssitzung vom 22.04.2021
+- TOP 21: Teilnahme am RVR-Rollout Solarmetropole Ruhr - einstimmig angenommen
+- TOP 22: Faire Charta Metropole Ruhr 2030
+- TOP 23: Erlass der Satzung über die Kreislaufwirtschaft und Abfallentsorgung der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung) - einstimmig angenommen
+- TOP 24: Erlass einer Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 25: Gebührenbedarfsberechnung 2022 – Gewässerunterhaltung – und Erlass der Gebührensatzung zur Umlage der Kosten der Gewässerunterhaltung - einstimmig angenommen
+- TOP 26: Erlass einer Gebührensatzung zur Entwässerungssatzung der Stadt Castrop-Rauxel - mehrheitlich angenommen
+- TOP 27: Erlass einer 1. Änderungssatzung zur Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel "EUV, Stadtbetrieb Castrop-Rauxel" -Anstalt des öffentlichen Rechts- vom 03. Dezember 2020. - einstimmig angenommen
+- TOP 28: Erlass einer Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Castrop-Rauxel (Straßenreinigungs- und Gebührensatzung) - einstimmig angenommen
+- TOP 29: Erlass einer 12. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel - mehrheitlich angenommen
+- TOP 30: Erlass einer Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 31: Wahl einer Schiedsperson für den Bezirk 1 - einstimmig angenommen
+- TOP 32: Genehmigung der Bereitstellung von überplanmäßigen Haushaltsmitteln gemäß §83 GO NRW bei der Buchungsstelle 0331002i0087 Kostenträger 610101, Zugang Grund und Boden bei Wohnbauten - einstimmig angenommen
+- TOP 33: Bestätigung und Feststellung des Gesamtabschlusses der Stadt Castrop-Rauxel zum 31.12.2018 - einstimmig angenommen
+- TOP 34: Umbesetzung des Jugendhilfeausschusses - einstimmig angenommen
+- TOP 35: Antrag Bündnis 90 / Die Grünen vom 25.10.2021; Ausschussumbesetzungen - einstimmig angenommen
+- TOP 36: Antrag FWI Fraktion vom 03.11.2021_Aufstellung eines Bebauungsplanes zur Erreichung einer Kleingartenanlage an der Victorstraße
+- TOP 37: Antrag FDP Fraktion vom 05.11.2021_Satzungsänderung Beirat für Kunst und Stadtgestaltung - einstimmig angenommen
+- TOP 38: Antrag SPD Fraktion und Bündnis 90/Die Grünen vom 08.11.2021; Den ÖPNV in Castrop-Rauxel auf die Mobilitätswende vorbereiten - einstimmig angenommen
+- TOP 39: Antrag Die FRAKTION vom 10.11.2021_Umbesetzung von Ausschüssen - einstimmig angenommen
+- TOP 40: Antrag Die FRAKTION vom 10.11.2021_Einrichtung einer Dependance der Stadtbücherei im Norden der Stadt - einstimmig angenommen
+- TOP 41: Antrag Die FRAKTION vom 10.11.2021_Mehr Persönlichkeiten nicht männlich gelesenen Geschlechts ins Stadtbild - einstimmig angenommen
+- TOP 42: Antrag Die FRAKTION vom 10.11.2021_Prüfauftrag "Digitalstrategie Schule NRW" - einstimmig angenommen
+- TOP 43: Gemeinsamer Antrag der Ratsfraktionen SPD, CDU, Bündnis 90 / Die Grünen, FWI, DIE LINKE, FDP, Die FRAKTION vom 23.11.2021; Einrichtung mobiler Impfteams - einstimmig angenommen
+- TOP 44: Antrag CDU Fraktion vom 23.11.2021_Ausschussumbesetzungen - einstimmig angenommen
+- TOP 45: Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum Stichtag 30.10.2021
+- TOP 46: Gemeinsamer Antrag Die FRAKTION, DIE LINKE. SPD, Bündnis 90/Die Grünen, CDU vom 25.11.2021; Dringlichkeitsantrag Klagemöglichkeiten ECOSOIL - einstimmig angenommen
+- TOP 47: Anfragen der Ratsmitglieder
+- TOP 48: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
