@@ -1,0 +1,68 @@
+# 2. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2021-11-25T16:30:00+01:00
+- Ende: 2021-11-25T18:23:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6255
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6255
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=371628
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - vertagt
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Berufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Wahl eines weiteren Mitgliedes des Bezirksamtes - vertagt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-01 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Müggelturm barrierearm erschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Kurzzeitparkplätze vor dem Friedhof in Bohnsdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Badestelle im Spreepark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Geschwindigkeitsbegrenzung vor Ampel anpassen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Beteiligung der Anwohnenden bei Nachverdichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.6: Halteverbot im Mayschweg verlängern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Gesellschaftshaus/Riviera für die Öffentlichkeit erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Mehr Bürgerbeteiligung in der Stadtentwicklung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Sicherheit im Baustellenbereich für nichtmotorisierte Verkehrsteilnehmerinnen und -teilnehmer gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Riviera und Gesellschaftshaus als Ort für Kultur und Gastronomie mit öffentlicher Zugänglichkeit zum Wasser sichern! - überwiesen
+- TOP 8.2.5: Sondermittel für die Berliner Parkeisenbahn gGmbH (SM 16-44) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Sondermittel für die Selbsthilfegruppe "Multiple Sklerose" Berlin-Treptow (SM 17-23) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Beratungsangebot für von illegalen Suchtstoffen abhängige Menschen im Bezirk umgehend verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.8: Sondermittel für die "ajb GmbH" (SM 18-24) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Schutz der Knoblauchkröte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.10: Flächenkonzept für (temporäre) Schulbauten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.11: Sondermittel für den "Kulturhistorischen Verein Friedrichshagen e. V." (SM 19-23) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.12: Schulwegsicherheit an der Müggelheimer Grundschule erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.13: Internetzugänge auch in Hortgebäuden bereitstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.14: Sondermittel für den Verein "Köpenicker HauptmannGarde e. V." (SM 21-01) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.15: Entscheidungen bzw. Vollzug von Verfügungen in Sachen Genehmigung von Sportbootsteganlagen aussetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.17: Begegnungszentrum im Kölner Viertel erhalten - überwiesen
+- TOP 8.2.18: Nutzung von Teilen des Mellowparks für Bau der TVO verhindern - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bezirkshaushaltsrechnung 2020 - überwiesen
+- TOP 9.2: Sitzungstermine der BVV im Jahr 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 10.1: Bebauungsplan XV-39b ("Schnellerstraße") hier: Einstellung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Patenschaft mit der 8. Kompanie des Wachbataillons beim Bundesministerium der Verteidigung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Ausschussbildung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Aufstellung von Schulcontainern während der Bauphase in der Wendenschloß-Schule - überwiesen
+- TOP 11.3: Würdigung 100. Todestag Dr. Walther Rathenau - überwiesen
+- TOP 11.4: Berlewitzweg als Einbahnstraße ausweisen - überwiesen
+- TOP 11.5: Beseitigung der Absenkung der Straße Zur Fähre nahe Bauersee - überwiesen
+- TOP 11.6: Ersatzglascontainer in Müggelheim - überwiesen
+- TOP 11.7: Ertüchtigung des Berlewitzweges - überwiesen
+- TOP 11.8: Fußgängerüberweg vor der Müggelheimer Grundschule - überwiesen
+- TOP 11.9: Zugang zu einer Badestelle erleichtern - überwiesen
+- TOP 12: Große Anfragen - (offen)
