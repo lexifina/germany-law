@@ -1,0 +1,97 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-26T14:00:00+01:00
+- Ende: 2021-11-26T16:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20182
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20182
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö_Stand 16.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430853.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö_Stand 16.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430853.pdf
+- Wortprotokoll: Sitzungspaket Ö_Stand 16.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00430853.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 10.09.2021 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 am 01.10.2021 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Mündliche Berichte und Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Die Lage der Wirt*innen der Altstadt - mündlicher Bericht
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Nord-Süd-RadRoute, von Alte Flughafenstraße bis Südring -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 5.10: Nachrüstung Blindenleiteinrichtungen U-Bf. Heinrich-Heine-Allee -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 5.11: Barrierfreier Ausbau der Haltestelle Frankenplatz, Steig 1 und Fällung eines Straßenbaumes - mehrheitlich beschlossen
+- TOP 5.12: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2022 - Empfehlung abweichend beschlossen
+- TOP 5.13: Radschlägermärkte auf dem Gelände des Großmarktes im 1. Halbjahr 2022 - einstimmig beschlossen
+- TOP 5.14: Kenntnisnahme der Eilentscheidung gemäß § 60 Abs. 3 S. 1 Gemeindeordnung NRW - zur Kenntnis genommen
+- TOP 5.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Liste A 21211 01 - 52415100 - einstimmig beschlossen
+- TOP 5.16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2021 - einstimmig beschlossen
+- TOP 5.17: Bereitstellung von Mitteiln für Maßnahmen innerhalb der Quartiersarbeit rund um den Worringer Platz - einstimmig beschlossen
+- TOP 5.18: Übertragung von Restmitteln aus den Budgetkonten 52415100 - 52416000 Liste B) des Jahres 2021 ins Haushaltsjahr 2022 - einstimmig beschlossen
+- TOP 5.19: Übertragung von Verfügungsmitteln des Jahres 2021 ins Haushaltsjahr 2022 - einstimmig beschlossen
+- TOP 5.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.21: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Sanierung von Fassaden an acht Schulen" - Empfehlung einstimmig beschlossen
+- TOP 5.22: Radverkehrsplanung Bagelstraße - vertagt
+- TOP 5.23: Mobilstationen im Förderprojekt „Emissionsfreie Innenstadt“: Dialogformate und Abschluss Ämterumlauf - zur Kenntnis genommen
+- TOP 5.24: Mannesmannufer 2, Behrens- und Väthbau - Errichtung einer Lüftungsanlage und Fahrradstellplätze - abweichend beschlossen
+- TOP 5.25: Kenntnisnahme der Beschlussvorlage "Heinrich-Heine-Allee 16a / Deutsche Oper am Rhein- Opernhaus der Zukunft - Beschlussvorlage zur Herbeiführung eines Grundsatzbeschlusses" (KUA/141/2021) - zur Kenntnis genommen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Bauarbeiten auf der Nordstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Austausch Altstadtpflaster - Anfrage der CDU-Fraktion
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Dauerbeleuchtung der Räumlichkeiten Konrad-Adenauer-Platz 1/ Zentralbibliothek - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 7.5: Garagen auf dem Gehweg Mannesmannufer - Anfrage der FDP-Fraktion
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Piktogramme auf der Fahrbahn Schwanenmarkt (Höhe Hausnummer 25) - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.3: Versetzung des Musikpavillons am Carsch-Haus auf die Freifläche vor der Inselstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.4: Piktogramme auf der Fahrbahn der Poststraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.5: Veränderung der Ampelschaltung Königsallee/Königstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.6: Veränderung der Ampelschaltung Moltkestraße/Tußmannstraße/Bagelstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.7: Radfahrstreifen auf der Jülicher Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.8: Radfahrstreifen auf der Kaiserstraße und auf der Fischerstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.9: Einbahnstraßenregelung auf der Bülowstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.10: Boden-Radwegmarkierungen für das Areal von der sogen. „Tuchtinsel“ bis zur Tunnelmündung Maximilian-Weyhe-Allee - Antrag CDU-Fraktion - einstimmig beschlossen
+- TOP 8.11: Prüfantrag: Zusätzliche Toilettenanlage für den Rheinpark - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.12: Prüfantrag: Zugeparkte Ladestationen im Bezirk 1 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8.13: Prüfantrag: Beleuchtung Brücke am Alten Hafen - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.14: Telefonzelle am Rochusmarkt: Einrichtung eines Bücherschrankes - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 8.15: Installation von Ladesäulen für E-Autos am Rochusmarkt- Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 9.1: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 9.2: Baumstandortsanierungen Nordstraße und Ersatzpflanzungen; Beschluss der Bezirksvertretung 1 vom 01.10.2021; BV1/201/2021 - zur Kenntnis genommen
+- TOP 9.3: Parken und Halten auf dem Corneliusplatz; Beschluss der BV 1 vom 29.01.2021; BV1/004/2021 - zur Kenntnis genommen
+- TOP 9.4: Tempo 30 auf der Eulerstraße; Beschluss der Bezirksvertretung 1 vom 28.06.2019; 171/ 141/2019 - zur Kenntnis genommen
+- TOP 9.5: Absicherung des Gehwegs vor der Thomasschule; Beschluss der Bezirksvertretung 1 vom 01.10.2021; BV1/208/2021 - zur Kenntnis genommen
+- TOP 9.6: Tempo 30 auf der Sternstraße; Beschluss der Bezirksvertretung 1 vom 01.10.2021; BV1/204/2021 - zur Kenntnis genommen
+- TOP 9.7: Haushaltsantrag: Förderung von Gemeinschaftsräumen für die Nachbarschaftsarbeit; Beschluss der Bezirksvertretung 1 vom 01.10.2021; BV1/214/2021 - zur Kenntnis genommen
+- TOP 9.8: Anpassung des Schaltzeitpunkts der Lichtzeichenanlage an der Haltestelle, Beschluss der Bezirksvertretung 1 vom 10.09.21; BV1/188/2021 - zur Kenntnis genommen
+- TOP 9.9: Baumfällungen aus Verkehrssicherungsgründen - Winter 2021 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Förderverein Paul Klee Schule e.V. - einstimmig beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Leibniz-Montessori-Gymnasium - einstimmig beschlossen
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfer Spiesratze 1911 e.V. - einstimmig beschlossen
+- TOP 10.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an efa-Stadtteiltreff Derendorf/Mütterzentrum - einstimmig beschlossen
+- TOP 10.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfs Vielfalt Erleben e.V. - einstimmig beschlossen
+- TOP 10.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an GGS Lennéstraße - einstimmig beschlossen
+- TOP 10.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt Armenküche e.V. - einstimmig beschlossen
+- TOP 10.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf 1655 e.V. - einstimmig beschlossen
+- TOP 10.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an aXept! Altstadt-Streetwork und Zusammenarbeit im Verein Altstadt-Armenküche e.V. - einstimmig beschlossen
+- TOP 10.10: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Düsseldorfer Drogenhilfe e.V. - einstimmig beschlossen
+- TOP 10.11: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an TrebeCafé - einstimmig beschlossen
+- TOP 10.12: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Diakonie Düsseldorf/Bahnhofsmission - einstimmig beschlossen
+- TOP 10.13: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an SKFM e.V./Knackpunkt - einstimmig beschlossen
+- TOP 11: Verschiedenes - zur Kenntnis genommen
