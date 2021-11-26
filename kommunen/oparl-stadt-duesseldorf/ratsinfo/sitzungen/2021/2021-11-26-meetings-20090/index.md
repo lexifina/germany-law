@@ -1,0 +1,94 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-26T15:00:00+01:00
+- Ende: 2021-11-26T16:47:00+01:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20090
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20090
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9_Sitzung_ö_26.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431057.pdf
+- Ergebnisprotokoll: BV9_Sitzung_ö_26.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431057.pdf
+- Wortprotokoll: BV9_Sitzung_ö_26.11.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431057.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 01.10.2021 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Aufhebung des Bebauungsplanes Nr. 6170/064 - Forststraße/Hasselsstraße -, teilräumliche Aufhebung des Bebauungsplanes Nr. 09/007 - Westlich Kleinstraße -, Aufhebung des Bebauungsplanes Nr. 09/012 "Forststraße/Hasselsstraße" - Empfehlung mehrheitlich abgelehnt
+- TOP 5.2: Aufhebung der Baugebiete GE 4 und GE 5 in dem "Bebauungsplan (Text) zur Ausweisung von Baugebieten in der Landeshauptstadt Düsseldorf für den Stadtbezirk 9" - Empfehlung mehrheitlich abgelehnt
+- TOP 5.3: Bebauungsplan - Entwurf Nr. 09/023 - Südlich Bamberger Straße - Satzung - Empfehlung mehrheitlich abgelehnt
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Umgestaltung Kinderspielplatz Am Rethert - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 5.6: Errichtung von sieben B+R-Anlagen der Rheinbahn AG - Empfehlung einstimmig beschlossen
+- TOP 5.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 (Liste A Schulen) - einstimmig beschlossen
+- TOP 5.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Listen B+C - einstimmig beschlossen
+- TOP 5.9: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2022 - einstimmig beschlossen
+- TOP 5.10: Trödelmärkte auf dem Schützenplatz Spangerstraße im 1. Halbjahr 2022 - einstimmig beschlossen
+- TOP 5.11: Kunst am Bau an der Gemeinschaftsgrundschule Steinkaul - Sachstand - zur Kenntnis genommen
+- TOP 5.12: Baumfällungen Winter 2021/2022 im Bezirk 9 - zur Kenntnis genommen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Plakatierung im Bundestagswahlkampf - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Marschnerstraße: Gehwegparken - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: GGS Urdenbach - "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 9.2: KG Düsseldorfer Räbbelche 1962 e.V. - Ausstattung der Tanzgarde - einstimmig beschlossen
+- TOP 9.3: Lauftreff-Düsseldorf-Süd e.V. - Erneuerung der Computer-Hardware - einstimmig beschlossen
+- TOP 9.4: Theodor-Litt-Realschule- Coolness-Training der 5. Klassen 2021 - einstimmig beschlossen
+- TOP 9.5: Allgemeiner Bürgerverein Urdenbach e. V. - Weihnachtsbaum auf dem Josef-Kürten-Platz 2021 - einstimmig beschlossen
+- TOP 9.6: Benrather Schlossnarren e.V. - Überarbeitung des Internetauftritts - einstimmig beschlossen
+- TOP 9.7: Karnevalsfreunde St. Hubertus Itter - Karnevalszug 2022 - einstimmig beschlossen
+- TOP 9.8: Schützenbruderschaft St. Cäcilia Düsseldorf-Benrath e.V. - Neuanschaffung von Computer-Hardware - einstimmig beschlossen
+- TOP 9.9: KG Reisholzer Quatschköpp e. V. - Neuanschaffung von technischen Geräten - einstimmig beschlossen
+- TOP 9.10: Förderverein Adolf-Klarenbach-Grundschule e. V. - Theaterprojekt "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 9.11: Heimatverein Werstener Jonges 1953 e. V. - Anschaffung von Computer-Hardware für die Archivarbeit - einstimmig beschlossen
+- TOP 9.12: St. Antonius Schützenbruderschaft Düsseldorf-Hassels e. V. - Sanierung des Schießstands - mehrheitlich beschlossen
+- TOP 9.13: Heimatgemeinschaft Groß-Benrath e. V. - Überarbeitung des Internetauftritts und Anschaffung von Computer-Hardware für die Archivarbeit - einstimmig beschlossen
+- TOP 9.14: Fertigung und Aufbau zweier Insektenhotels auf dem Rondell Silcherstraße - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Schulwegsicherung Am Steinebrück - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV/165/2021 - zur Kenntnis genommen
+- TOP 10.2: Kleinstraße/ Forststraße - Beschluss der Bezirksvertretung 9 vom 19.03.2021; BV9/065/2021 - zur Kenntnis genommen
+- TOP 10.3: Bodenpiktogramm vor der GGS Steinkaul 27 - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/164/2021 - zur Kenntnis genommen
+- TOP 10.4: Verlegung der Altglascontainer Südallee gegenüber der Hausnummer 64 - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/221/2021 - zur Kenntnis genommen
+- TOP 10.5: Wegestücke am Itterbach - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/223/2021 - zur Kenntnis genommen
+- TOP 10.6: Bürgerhaus Urdenbach - Beschluss der Bezirksvertretung 9 vom 19.02.2021; BV9/048/2021 - zur Kenntnis genommen
+- TOP 10.7: Parkraumkonzept Himmelgeist - Beschluss der Bezirksvertretung 9 vom 19.02.2021; BV9/020/2021 - zur Kenntnis genommen
+- TOP 10.8: Sport- und Freizeitanlage Paulinenpark - Beschluss der Bezirksvertretung 9 vom 19.03.2021; BV9/069/2021 - zur Kenntnis genommen
+- TOP 10.9: Beschlusskontrolle der Bezirksvertretung 9 - Beschluss der Bezirksvertretung 9 vom 07.05.2021; BV9/104/2021 - zur Kenntnis genommen
+- TOP 10.10: Schulwegsicherung Am Bärenkamp 15 - 17 - Beschluss der Bezirksvertretung 9 vom 07.05.2021; BV9/086/2021 - zur Kenntnis genommen
+- TOP 10.11: Auf- und Abfahrt Frankfurter Straße/ Südallee - Ergänzung zur Informationsvorlage vom 03.09.2021; BV9/199/2021 - zur Kenntnis genommen
+- TOP 10.12: Fahrradwege Itterstraße - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/224/2021 - zur Kenntnis genommen
+- TOP 10.13: Bushaltestelle Himmelgeist: Buslinie 731 - Beschluss der Bezirksvertretung 9 vom 01.10.2021; BV9/247/2021 - zur Kenntnis genommen
+- TOP 10.14: Gehweg und Fahrbahngestaltung Benrodestraße - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/170/2021 - zur Kenntnis genommen
+- TOP 10.15: Benrather Schloßallee zwischen „Schöne Aussicht“ und Pigageallee - Beschluss der Bezirksvertretung 9 vom 07.05.2021; BV9/112/2021 - zur Kenntnis genommen
+- TOP 10.16: Parkverbot gegenüber Herz-Jesu Montessori-Kinderhaus, Südallee 13 - Beschluss der Bezirksvertretung 9 vom 07.05.2021; BV9/107/2021 - zur Kenntnis genommen
