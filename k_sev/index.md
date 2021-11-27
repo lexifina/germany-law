@@ -6,7 +6,9 @@
 - [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 2 Anwendungsbereich](0002.md)
 - [§ 3 Anforderungen an die Herstellung von Käse](0003.md)
+- [§ 3 Anforderungen an die Herstellung von Käse](0003-2.md)
 - [§ 4 Anforderungen an die Herstellung von Erzeugnissen aus Käse](0004.md)
+- [§ 4 Anforderungen an die Herstellung von Erzeugnissen aus Käse](0004-2.md)
 - [§ 5 Fettgehaltsstufen](0005.md)
 
 ## Zweiter Abschnitt Käse
@@ -44,7 +46,11 @@ und Labaustauschstoffen](0022.md)
 
 ## Sechster Abschnitt Zusatzstoffe
 
+
+## Sechster Abschnitt (weggefallen)
+
 - [§ 23 Zulassung von Zusatzstoffen](0023.md)
+- [(XXXX) §§ 23 bis 26 (weggefallen)](xxxx-23-bis-26.md)
 - [(XXXX) §§ 24 bis 26 (weggefallen)](xxxx-24-bis-26.md)
 
 ## Siebenter Abschnitt Ergänzende Vorschriften
@@ -57,6 +63,7 @@ und Labaustauschstoffen](0022.md)
 Schlußvorschriften
 
 - [§ 30 Straftaten und Ordnungswidrigkeiten](0030.md)
+- [§ 30 Straftaten und Ordnungswidrigkeiten](0030-2.md)
 - [§ 31 Ordnungswidrigkeiten](0031.md)
 - [§ 31a Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung](0031a.md)
 - [§ 32](0032.md)
