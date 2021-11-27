@@ -21,9 +21,10 @@ Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5
  |  |  | 2.2 | Verwaltung der Rennwett- und Lotteriesteuer
  |  |  | 2.3 | Verwaltung der Spielbankabgabe einschließlich der Steueraufsicht in der Spielbank Bremen und im Automatensaal Bremerhaven
  |  |  | 2.4 | Aufsicht über die Lohnsteuerhilfevereine nach § 27 des Steuerberatungsgesetzes
- |  |  | 2.5 | Besteuerung der juristischen Personen im Sinne des § 1 Absatz 1 und § 2 des Körperschaftsteuergesetzes
+ |  |  | 2.5 | Besteuerung der Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 1 Absatz 1 und § 2 des Körperschaftsteuergesetzes
  |  |  | 2.6 | Besteuerung von land- und forstwirtschaftlichen Betrieben nach § 13 des Einkommensteuergesetzes
  |  |  | 2.7 | Besteuerung der Betreiber von Seeschiffen (Reeder und Bereederer)
+ |  |  | 2.8 | Bearbeitung von Anträgen nach § 1a des Körperschaftsteuergesetzes
 3 | Außenprüfung | Alle Finanzämter im Lande Bremen | 3.1 | Anordnung und Durchführung von Außenprüfungen (ausgenommen Umsatzsteuer-Sonderprüfungen)
  |  |  | 3.2 | Führung des Konzernverzeichnisses im Sinne des § 33 Betriebsprüfungsordnung (BpO 2000)
  |  |  | 3.3 | Ausstellung der Bescheinigungen für
