@@ -89,3 +89,4 @@
 | § 50a | Bekanntmachung von Maßnahmen |
 | § 51 | Geltung für Wechsel und ausländische Zahlungsmittel |
 | § 52 | Übergangsregelungen |
+| § 53 | Anwendungsbestimmung zum Schwarmfinanzierung-Begleitgesetz |

@@ -88,3 +88,4 @@ Schlussvorschriften
 - [§ 50a Bekanntmachung von Maßnahmen](0050a.md)
 - [§ 51 Geltung für Wechsel und ausländische Zahlungsmittel](0051.md)
 - [§ 52 Übergangsregelungen](0052.md)
+- [§ 53 Anwendungsbestimmung zum Schwarmfinanzierung-Begleitgesetz](0053.md)

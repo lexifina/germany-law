@@ -110,6 +110,7 @@
 
 - [§ 63 Allgemeine Verhaltensregeln; Verordnungsermächtigung](0063.md)
 - [§ 64 Besondere Verhaltensregeln bei der Erbringung von Anlageberatung und Finanzportfolioverwaltung; Verordnungsermächtigung](0064.md)
+- [§ 64a Form der Kundenkommunikation](0064a.md)
 - [§ 65 Selbstauskunft bei der Vermittlung des Vertragsschlusses über eine Vermögensanlage im Sinne des § 2a des Vermögensanlagengesetzes](0065.md)
 - [§ 65a Selbstauskunft bei der Vermittlung des Vertragsschlusses über Wertpapiere im Sinne des § 6 des Wertpapierprospektgesetzes](0065a.md)
 - [§ 65b Veräußerung nachrangiger berücksichtigungsfähiger Verbindlichkeiten und relevanter Kapitalinstrumente an Privatkunden](0065b.md)
@@ -218,3 +219,4 @@
 - [§ 139 Übergangsvorschriften zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen](0139.md)
 - [§ 140 Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte](0140.md)
 - [§ 141 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0141.md)
+- [§ 142 Übergangsvorschriften für das Schwarmfinanzierung-Begleitgesetz](0142.md)
