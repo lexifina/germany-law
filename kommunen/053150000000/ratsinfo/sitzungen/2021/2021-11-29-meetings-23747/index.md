@@ -1,0 +1,69 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-29T17:00:00+01:00
+- Ende: 2021-11-29T18:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23747
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23747
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Netzwerk gegen häusliche Gewalt – Statistik 2020 - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Tätigkeitsbericht 2021 Büro für Europa und Internationales - zurückgestellt
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Beantwortung Anfrage der SPD-Fraktion (AN/2202/2021) - Kenntnis genommen
+- TOP 3.3: Beantwortung der Anfrage AN/1150/2021 betreffend "Gegen jeden Antisemitismus - Prävention von und Schutz vor Antisemitismus" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer Anfrage zum Thema sexistische Bedrohung und Gewalt im Netz der FDP-Fraktion (AN/1438/2021) - Kenntnis genommen
+- TOP 3.5: Beantwortung einer mündliche Anfrage von Monika Möller (SB) zur zugenommenen Gewaltbereitschaft im Kwatier Latäng - zurückgestellt
+- TOP 3.6: Beantwortung der Anfrage AN/2013/2021 der SPD-Fraktion "Entsorgung von Schrottfahrrädern auf Fahrradabstellflächen" - zurückgestellt
+- TOP 3.7: Beantwortung einer Anfrage betreffend "Weiterentwicklung des Betrieblichen Gesundheitsmanagements der Verwaltung" - Kenntnis genommen
+- TOP 3.8: Beantwortung einer mündlichen Anfrage betreffend "Auszählung der Briefwahl bei der Bundestagswahl" - Kenntnis genommen
+- TOP 3.9: Beantwortung der Anfrage zum Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen im 1.Halbjahr 2021 - Kenntnis genommen
+- TOP 3.10: Beantwortung einer Anfrage Fraktion Bündnis 90/Die Grünen, CDU Fraktion, Volt Fraktion zu "Bearbeitungsstand und Personalsituation im Ausländeramt" (AN/2199/2021) - Kenntnis genommen
+- TOP 3.11: Beantwortung einer Anfrage der SPD Fraktion zu "Antragsstau bei den Ausländerämtern in Köln: Werden nun endlich Stellen zugesetzt?" (AN/2200/2021) - zurückgestellt
+- TOP 3.12: Beantwortung von Anfragen gem. § 4 der Geschäftsordnung des Rates zum Personalbericht 2020 (Session Nr. 3011/2021) - Kenntnis genommen
+- TOP 3.13: Beantwortung einer mündlichen Anfrage zum Evaluierungsbericht des Sachstandsberichtes der Stadt Köln zum 10-Punkte-Aktionsplan - zurückgestellt
+- TOP 3.14: Beantwortung einer Anfrage betreffend "Sachstand Projekt Personalrisikomanagement" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Fachkreis für Plätze mit besonderem Handlungsbedarf - Kenntnis genommen
+- TOP 4.2: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 5. November 2021 - Kenntnis genommen
+- TOP 4.3: Inklusionsbericht 2020 - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1.1: Anfrage der Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt Fraktion betreffend "Bearbeitungsstand und Personalsituation im Ausländeramt" - Sache ist erledigt
+- TOP -: Anfrage der SPD-Fraktion betreffend "Antragsstau bei den Ausländerämtern in Köln: Werden nun endlich Stellen zugesetzt?" - zurückgestellt
+- TOP 6.1.2: Anfrage der SPD-Fraktion betreffend "Drogenproblematik am Neumarkt: Echtes Kümmern oder nur Schaufensterpolitik?" - Sache ist erledigt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der Fraktion Bündnis90/Die Grünen, der CDU-Fraktion und der Volt Fraktion betreffend "Handeln der Verwaltung im Hinblick auf die StVO Novelle" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: mündliche Anfrage der Fraktion Bündnis90/Die Grünen, der CDU-Fraktion und der Volt-Fraktion betreffend "Silvesterfeuerwerk 2021/2022"
+- TOP 7.2: mündliche Anfrage der AfD-Fraktion betreffend " Maskenpflicht in der Innenstadt"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der FDP-Fraktion betreffend "Auslastung und Wartezeiten bei dem Amt für Bürgerdienste und dem Ausländeramt der Stadt Köln" - endgültig abgelehnt
+- TOP -: Änderungsantrag zu 8.1 – Auslastung und Wartezeiten beim Amt für Bürgerdienste und beim Ausländeramt der Stadt Köln - endgültig abgelehnt
+- TOP 8.2: Dringlichkeitsantrag der Handlungsempfehlungen für den Neumarkt - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Zügigkeitserweiterung der Lise-Meitner-Gesamtschule, Stresemannstraße 36 in Köln-Finkenberg zum Schuljahr 2022/23 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.3: 2. Controlling-Bericht: Diversity-Konzept "2020: Köln l(i)ebt Vielfalt" - ungeändert beschlossen
+- TOP 10.4: Satzung über die Abfallentsorgung in der Stadt Köln - ungeändert beschlossen
+- TOP 10.5: 9. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - geändert beschlossen
+- TOP 10.6: Satzung über die Abfallgebühren in der Stadt Köln - ungeändert beschlossen
+- TOP 10.7: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2022 - ungeändert beschlossen
+- TOP 10.8: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2020 - ungeändert beschlossen
+- TOP 10.9: Externe Unterstützung für den Aufbau eines Innovationsbüros - zurückgestellt
+- TOP 10.10: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2022 - ungeändert beschlossen
+- TOP 10.11: Änderung zur rückwirkenden Änderungssatzung der Straßenreinigungssatzung - ungeändert beschlossen
+- TOP 10.12: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2022 - ungeändert beschlossen
+- TOP 10.13: Änderung der Luftrettungssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.14: Änderung der Rettungsdienstsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
