@@ -15,7 +15,6 @@
 
 ### Unterabschnitt 1 Sammelantrag
 
-- [§ 7 Form und Frist](0007.md)
 - [§ 8 Betriebsbezogene Angaben](0008.md)
 - [§ 9 (weggefallen)](0009.md)
 - [§ 10 Flächenbezogene Angaben](0010.md)
