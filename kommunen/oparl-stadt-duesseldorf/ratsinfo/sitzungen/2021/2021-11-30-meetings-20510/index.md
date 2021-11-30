@@ -1,0 +1,69 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-11-30T17:00:00+01:00
+- Ende: 2021-11-30T18:57:00+01:00
+- Ort: International School of Düsseldorf (ISD), Dahms-Theater, Niederrheinstraße 336, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20510
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20510
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431257.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431257.pdf
+- Wortprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431257.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 1.1: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Qualitätssicherung - Nördlich Kalkumer Schloßallee - Weitere Vorgehensweise - Empfehlung abweichend beschlossen
+- TOP 8.1: Änderungsantrag der Fraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage APS/135/2021 - Qualitätssicherndes Verfahren Nördlich Kalkumer Schlossallee – Weitere Vorgehensweise - einstimmig beschlossen
+- TOP 9: Bebauungsplan - Entwurf Nr. 06/011 - Airport City West - Empfehlung abweichend beschlossen
+- TOP 10: Errichtung von sieben B+R-Anlagen der Rheinbahn AG - Empfehlung abweichend beschlossen
+- TOP 11: Nord-Süd-RadRoute, von Alte Flughafenstraße bis Südring -Bedarfsbeschluss- - Empfehlung abweichend beschlossen
+- TOP 12: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2022 - Empfehlung mehrheitlich beschlossen
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2021 (Liste B), Fassadenanstrich sowie Sanierung der WC-Anlagen des Bürgerhauses Angermund, Graf-Engelbert-Straße 9 - abweichend beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5, Förderung Dritter (Liste C) - Haushalt 2021, Renovierungsarbeiten auf dem Schützenplatz Lohausen - abweichend beschlossen
+- TOP 15: Haushaltsmittel 2021 - Zuschüsse und Zuwendungen (Liste D) - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 16: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 17: Hochwasserschaden Alte Landstraße - beantwortet
+- TOP 18: Umbau Zeppenheimer Straße
+- TOP 19: Hochwasserschutz in Angermund
+- TOP 20: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 21: Ampelschaltung auf der Niederrheinstraße (Höhe Klemensplatz) – Sicheren Übergang für alle ermöglichen! - beantwortet
+- TOP 22: Kreuzung Alte Landstraße/Kreuzbergstraße verkehrssicherer gestalten! - beantwortet
+- TOP 23: Wann kommt endlich die öffentliche Beleuchtung auf dem Gerichtsschreiberweg?!
+- TOP 24: Rad- und Fußweg von der Straße Am Krienengarten (Am Damm) zum Rheinuferweg
+- TOP 25: Wer ist verantwortlich und warum lässt der ökologische Ausgleich für die Messeerweiterung und die Arena so lange auf sich warten?
+- TOP -: Neue Anfragen
+- TOP 26: Bewohnerparkvorrechte auf den zwei großen öffentlichen Parkplätzen in Kaiserswerth
+- TOP 27: Planungsstand für eine Pflegeeinrichtung in Angermund - beantwortet
+- TOP 28: Sondernutzungserlaubnisse am Kaiserswerther Markt
+- TOP 29: Notwendige Entfernung des gesamten Efeus an der historischen Stadtmauer, die an der Rückseite der Grundstücke Auf dem hohen Wall 3-11 liegt am öffentlichen Spielplatz - beantwortet
+- TOP 30: Welches Tempo ist auf der Alten Landstraße in Kaiserswerth angemessen?
+- TOP 31: Wie lange müssen die Kinder der Grundschule Lohausen - "Kleine Gelbe Schule" - noch auf ihr neues Spielgerät warten? - beantwortet
+- TOP 32: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 33: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 34: Barrierefreier Zugang zur Grundschule an der Fliednerstraße
+- TOP 35: Gewerbeflächen/Handwerkerhöfe in Angermund
+- TOP 36: Rückschnitt des Grüns im Bereich der Kaiserpfalz westlich Herbert-Eulenberg-Weg
+- TOP 37: Demenz-Dorf nördlich Kalkumer Schloßallee
+- TOP 38: Sanierung der alten Hausmeisterwohnung in der Grundschule Angermund, Am Litzgraben - beantwortet
+- TOP -: Anträge
+- TOP 39: B8 zwischen Froschenteich und dem Duisburger Süden verbessern - abweichend beschlossen
+- TOP 40: Platz vor dem Kaiserswerther Toilettenhäuschen dringend befestigen! - einstimmig beschlossen
+- TOP 41: Keine Pförtnerungen im Düsseldorfer Norden mehr - mehrheitlich beschlossen
+- TOP 42: Schulwegsicherung im Kreuzungsbereich Wittgatt/Fritz-Köhler-Weg - einstimmig beschlossen
+- TOP 43: Mangelhafte Fahrbahnbeschriftung auf den Straßen in der Nähe von Schule und Kita in Angermund - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 44: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 45: Verschiedenes
