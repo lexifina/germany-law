@@ -1,0 +1,59 @@
+# 7. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-30T15:42:00+01:00
+- Ende: 2021-11-30T19:08:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23785
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23785
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Kölner Kulturticket für Studierende und Azubis - geändert beschlossen
+- TOP -: Änderungsantrag der Bündnispartner - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke - endgültig zurückgezogen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Stadtstrategie „Kölner Perspektiven 2030+“ - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Neubau Historische Mitte - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Kulturentwicklungsplanung: Neuaufstellung des Lenkungskreises - ungeändert beschlossen
+- TOP 4.4: Haushaltsneutrale Umschichtung von Transferaufwendungen 2021 - ungeändert beschlossen
+- TOP 4.5: Institutionelle Förderung der Kölner Gesellschaft für Alte Musik e.V. (KGAM zamus) - ungeändert beschlossen
+- TOP 4.6: Bezuschussung von Maßnahmen aus "Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" 2021, Teil 1 - ungeändert beschlossen
+- TOP 4.7: Vergabe dreijährige Förderung Tanzpakt 2022 - 2024 - ungeändert beschlossen
+- TOP 4.8: Fortführung der institutionellen Förderung für Internationale Photoszene Köln gUG und Temporary Gallery e.V. 2022-2024 - geändert beschlossen
+- TOP -: Änderungs- bzw. Ergänzungsantrag zur Beschlussvorlage Rat 3693/2021, unter TOP 4.8 Ausschuss Kunst und Kultur Fortführung der institutionellen Förderung für Internationale Photoszene Köln gUG und Temporary Gallery e.V. 2022-2024 - ungeändert beschlossen
+- TOP 4.9: Vergabe der Mietzuschüsse in der Sparte Bildende Kunst, Haushaltsjahre 2021 - 2023 - ungeändert beschlossen
+- TOP 4.10: Ankauf eines Kunstwerks des Künstlers Hermann Scherer für das Museum Ludwig - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme dreier Kunstwerke von A.R. Penck als Schenkung - ungeändert beschlossen
+- TOP 6.2: Annahme einer Schenkung durch den Künstler Wade Guyton an das Museum Ludwig - ungeändert beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Museen, Menschen, Medien. Digitale Standortstrategie Museen 2022+ - Kenntnis genommen
+- TOP 8.2: Bewerbung um Fördermittel des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen - zurückgestellt
+- TOP 8.3: Neubau Rheinische Musikschule - Kenntnis genommen
+- TOP 8.4: Kulturraum Kölner Friedhöfe 2025 - Kenntnis genommen
+- TOP 8.5: Verlängerung der Sonderausstellung RESIST AN/1913/2021 - Kenntnis genommen
+- TOP 8.6: „Digitalisierung historischer Fotozeitschriften" - Kooperationsprojekt der Kunst- und Museumsbibliothek und Universitäts- und Stadtbibliothek - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 3. November 2021 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 9. November 2021 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 8. November 2021 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Frage zur Mitteilung 1856/2021 „ Sachstand Hallen Kalk – Gemeinwohlorientierte Entwicklung des Osthofs“ des Ausschusses für Kunst und Kultur vom 07.09.2021 - Kenntnis genommen
+- TOP 10.2: Beantwortung der mündlichen Anfrage: Sachstandsbericht „Archäologische Landesausstellung "Roms fließende Grenzen"" - Kenntnis genommen
+- TOP 10.3: Anfrage von Grün offene Liste (GOL) in der Sitzung des Integrationsrates am 28.09.2021 zur Rückgabe der sogenannten Benin-Bronzen - Kenntnis genommen
+- TOP 10.4: Beantwortung der schriftlichen Anfrage der Fraktion Die Linke.: AN/2219/2021 Geht es mit den Hallen Kalk weiter oder beginnen wir von vorn? - Kenntnis genommen
+- TOP 10.5: Beantwortung der schriftlichen Anfrage der FDP-Fraktion zur Kostenentwicklung für die Herrichtung und den Betrieb des Kölnischen Stadtmuseums im Haus Sauer - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 12: Mündliche Anfragen
