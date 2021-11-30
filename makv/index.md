@@ -6,4 +6,4 @@
 - [§ 3 Fahrkosten](0003.md)
 - [§ 4 Vergütung der beauftragten Stellen nach § 2 Absatz 1 der Medizinischer Bedarf Versorgungssicherstellungsverordnung für die Lagerung, Verteilung, Abgabe und Abrechnung der Arzneimittel mit monoklonalen Antikörpern](0004.md)
 - [§ 5 Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds](0005.md)
-- [§ 6 Inkrafttreten](0006.md)
+- [§ 6 Inkrafttreten, Außerkrafttreten](0006.md)

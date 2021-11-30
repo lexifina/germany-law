@@ -148,7 +148,7 @@
 - [§ 111 Einseitige Rechtsgeschäfte](0111.md)
 - [§ 112 Selbständiger Betrieb eines Erwerbsgeschäfts](0112.md)
 - [§ 113 Dienst- oder Arbeitsverhältnis](0113.md)
-- [(XXXX) §§ 114, 115 (weggefallen)](xxxx-114-115.md)
+- [(XXXX) §§ 114 und 115 (weggefallen)](xxxx-114-und-115.md)
 
 #### Titel 2 Willenserklärung
 
