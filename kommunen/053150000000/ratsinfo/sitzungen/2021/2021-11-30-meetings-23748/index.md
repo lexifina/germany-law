@@ -1,0 +1,56 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-11-30T14:05:00+01:00
+- Ende: 2021-11-30T15:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23748
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23748
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.4: Status zur Pandemie-Situation
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Antrag auf institutionelle Förderung der Familienbildungsstätte „FiB e.V.“ - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Anwendung des § 55 Abs. 2, Satz 2 KiBiz für das Kitajahr 2022/23 - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Weiterplanungssbeschluß auf Basis des Vorentwurfs Parkstadt Süd Eifelwall - ungeändert beschlossen
+- TOP 3.2: Neugestaltung Basketballplatz Willi-Suth-Allee Nord in Chorweiler - ungeändert beschlossen
+- TOP 3.3: Freigabe- und Baubeschluss für die Neugestaltung der Freianlagen im Innenstadtbereich Porz-Mitte - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Mitgliederwechsel im Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.2: Mitgliederwechsel im Jugendhilfeausschuss: Jugendamtselternbeirat - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Kita Betrieb sicherstellen, Personal schützen. - geändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Testkapazitäten in Familienzentren ermöglichen, Boostern vorantreiben, Kinder, Jugendliche, Eltern und Personal schützen - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Sachstand Sonder-Schwimmlern-Programm/ Herbstferien-Schwimmkurse - Kenntnis genommen
+- TOP 7.1.2: Sachstand Förderprogramm "Aufholen nach Corona" - Kenntnis genommen
+- TOP 7.1.3: Sicherheit für die Übermittagsbetreuung (ÜMB) im Sek I–Bereich im Haushaltsjahr 2021 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Jahresbericht 2020 – Kölner Haus des Jugendrechts - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Interkulturelle Zentren Köln - Übersichtskarte Stand: 1.09.2021 - Kenntnis genommen
+- TOP 8.5.2: EDELGARD - Kampagne der Kölner Initiative gegen sexualisierte Gewalt im öffentlichen Raum - Kenntnis genommen
