@@ -22,7 +22,7 @@
 |  |
 | Teil 4 |
 | Abrechnung der Energielieferung |
-| § 11 | Ablesung |
+| § 11 | Verbrauchsermittlung |
 | § 12 | Abrechnung |
 | § 13 | Abschlagszahlungen |
 | § 14 | Vorauszahlungen |

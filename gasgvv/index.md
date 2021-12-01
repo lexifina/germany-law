@@ -25,7 +25,7 @@ Mitteilungspflichten](0007.md)
 
 ## Teil 4 Abrechnung der Energielieferung
 
-- [§ 11 Ablesung](0011.md)
+- [§ 11 Verbrauchsermittlung](0011.md)
 - [§ 12 Abrechnung](0012.md)
 - [§ 13 Abschlagszahlungen](0013.md)
 - [§ 14 Vorauszahlungen](0014.md)

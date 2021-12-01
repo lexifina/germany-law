@@ -24,37 +24,37 @@
 | 112 | – | Die Entschädigung nach Nummer 103 beträgt .......... | 110,00 € |
 | 113 | – | Die Entschädigung nach Nummer 104 beträgt .......... | 200,00 € |
 | Abschnitt 2Auskünfte über Bestandsdaten |
-| 200 | Auskunft über Bestandsdaten nach § 3 Nr. 3 TKG, sofern 1. die Auskunft nicht über das automatisierte Auskunftsverfahren nach § 112 TKG erteilt werden kann und die Unmöglichkeit der Auskunftserteilung auf diesem Wege nicht vom Unternehmen zu vertreten ist und 2. für die Erteilung der Auskunft nicht auf Verkehrsdaten zurückgegriffen werden muss: je angefragten Kundendatensatz .......... | 18,00 € |
+| 200 | Auskunft über Bestandsdaten nach § 3 Nr. 6 TKG, sofern 1. die Auskunft nicht über das automatisierte Auskunftsverfahren nach § 173 TKG erteilt werden kann und die Unmöglichkeit der Auskunftserteilung auf diesem Wege nicht vom Unternehmen zu vertreten ist und 2. für die Erteilung der Auskunft nicht auf Verkehrsdaten zurückgegriffen werden muss: je angefragten Kundendatensatz .......... | 18,00 € |
 | 201 | Auskunft über Bestandsdaten, zu deren Erteilung auf Verkehrsdaten zurückgegriffen werden muss: für bis zu 10 in demselben Verfahren gleichzeitig angefragte Kennungen, die der Auskunftserteilung zugrunde liegen .......... | 35,00 € |
 |  | Bei mehr als 10 angefragten Kennungen wird die Pauschale für jeweils bis zu 10 weitere Kennungen erneut gewährt. Kennung ist auch eine IP-Adresse. |  |
-| 202 | Es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 201 beträgt .......... | 40,00 € |
+| 202 | Es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 201 beträgt .......... | 40,00 € |
 | Abschnitt 3Auskünfte über Verkehrsdaten |
 | 300 | Auskunft über gespeicherte Verkehrsdaten: für jede Kennung, die der Auskunftserteilung zugrunde liegt .......... | 30,00 € |
 |  | Die Mitteilung der die Kennung betreffenden Standortdaten ist mit abgegolten. |  |
-| 301 | Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 300 beträgt .......... | 35,00 € |
+| 301 | Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 300 beträgt .......... | 35,00 € |
 | 302 | Die Auskunft wird im Fall der Nummer 300 aufgrund eines einheitlichen Ersuchens auch oder ausschließlich für künftig anfallende Verkehrsdaten zu bestimmten Zeitpunkten erteilt: für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft .......... | 10,00 € |
 | 303 | Auskunft über gespeicherte Verkehrsdaten zu Verbindungen, die zu einer bestimmten Zieladresse hergestellt wurden, durch Suche in allen Datensätzen der abgehenden Verbindungen eines Betreibers (Zielwahlsuche): je Zieladresse .......... | 90,00 € |
 |  | Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten. |  |
-| 304 | Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 303 beträgt .......... | 110,00 € |
+| 304 | Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 303 beträgt .......... | 110,00 € |
 | 305 | Die Auskunft wird im Fall der Nummer 303 aufgrund eines einheitlichen Ersuchens auch oder ausschließlich für künftig anfallende Verkehrsdaten zu bestimmten Zeitpunkten erteilt: für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft .......... | 70,00 € |
 | 306 | Auskunft über gespeicherte Verkehrsdaten für eine von der Strafverfolgungsbehörde benannte Funkzelle (Funkzellenabfrage) .......... | 30,00 € |
-| 307 | Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 306 beträgt .......... | 35,00 € |
+| 307 | Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 306 beträgt .......... | 35,00 € |
 | 308 | Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle: Die Pauschale 306 erhöht sich für jede weitere Funkzelle um .......... | 4,00 € |
-| 309 | Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle und für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 306 erhöht sich für jede weitere Funkzelle um .......... | 5,00 € |
+| 309 | Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle und für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 306 erhöht sich für jede weitere Funkzelle um .......... | 5,00 € |
 | 310 | Auskunft über gespeicherte Verkehrsdaten in Fällen, in denen lediglich Ort und Zeitraum bekannt sind: Die Abfrage erfolgt für einen bestimmten, durch eine Adresse bezeichneten Standort .......... | 60,00 € |
-| 311 | Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 310 beträgt .......... | 70,00 € |
+| 311 | Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 310 beträgt .......... | 70,00 € |
 |  | Die Auskunft erfolgt für eine Fläche: |  |
 | 312 | – | Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:Die Pauschale 310 beträgt .......... | 190,00 € |
 | 313 | – | Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10, aber nicht mehr als 25 Kilometer:Die Pauschale 310 beträgt .......... | 490,00 € |
 | 314 | – | Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:Die Pauschale 310 beträgt .......... | 930,00 € |
 |  | Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 312 bis 314 gesondert zu berechnen. |  |
-|  | Die Auskunft erfolgt für eine Fläche und es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden: |  |
+|  | Die Auskunft erfolgt für eine Fläche und es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden: |  |
 | 315 | – | Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:Die Pauschale 310 beträgt .......... | 230,00 € |
 | 316 | – | Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10, aber nicht mehr als 25 Kilometer:Die Pauschale 310 beträgt .......... | 590,00 € |
 | 317 | – | Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:Die Pauschale 310 beträgt .......... | 1 120,00 € |
 |  | Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 315 bis 317 gesondert zu berechnen. |  |
 | 318 | Die Auskunft erfolgt für eine bestimmte Wegstrecke:Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge .......... | 110,00 € |
-| 319 | Die Auskunft erfolgt für eine bestimmte Wegstrecke und es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge .......... | 130,00 € |
+| 319 | Die Auskunft erfolgt für eine bestimmte Wegstrecke und es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge .......... | 130,00 € |
 | 320 | Umsetzung einer Anordnung zur Übermittlung künftig anfallender Verkehrsdaten in Echtzeit: je Anschluss .......... | 100,00 € |
 |  | Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Übermittlung und die Mitteilung der den Anschluss betreffenden Standortdaten entgolten. |  |
 | 321 | Verlängerung der Maßnahme im Fall der Nummer 320 .......... | 35,00 € |
@@ -65,5 +65,5 @@
 | 325 | Übermittlung der Verkehrsdaten auf einem Datenträger .......... | 10,00 € |
 | Abschnitt 4Sonstige Auskünfte |
 | 400 | Auskunft über den letzten dem Netz bekannten Standort eines Mobiltelefons (Standortabfrage) .......... | 90,00 € |
-| 401 | Im Fall der Nummer 400 muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 400 beträgt .......... | 110,00 € |
+| 401 | Im Fall der Nummer 400 muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden: Die Pauschale 400 beträgt .......... | 110,00 € |
 | 402 | Auskunft über die Struktur von Funkzellen: je Funkzelle .......... | 35,00 € |

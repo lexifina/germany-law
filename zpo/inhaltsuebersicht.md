@@ -1009,8 +1009,8 @@
 | § 850g | Änderung der Unpfändbarkeitsvoraussetzungen |
 | § 850h | Verschleiertes Arbeitseinkommen |
 | § 850i | Pfändungsschutz für sonstige Einkünfte |
-| § 850k | Pfändungsschutzkonto |
-| § 850l | Anordnung der Unpfändbarkeit von Kontoguthaben auf dem Pfändungsschutzkonto |
+| § 850k | Einrichtung und Beendigung des Pfändungsschutzkontos |
+| § 850l | Pfändung des Gemeinschaftskontos |
 | § 851 | Nicht übertragbare Forderungen |
 | § 851a | Pfändungsschutz für Landwirte |
 | § 851b | Pfändungsschutz bei Miet- und Pachtzinsen |
@@ -1056,7 +1056,7 @@
 | § 882 | Verfahren nach dem Urteil |
 |  |
 |  | Titel 5 |
-|  | Zwangsvollstreckung gegen juristische Personen des öffentlichen Rechts |
+|  | Zwangsvollstreckung in Sachen, die der Erfüllung öffentlicher Aufgaben dienen |
 | § 882a | Zwangsvollstreckung wegen einer Geldforderung |
 |  |
 |  | Titel 6 |
@@ -1092,7 +1092,20 @@
 | § 898 | Gutgläubiger Erwerb |
 |  |
 | Abschnitt 4 |
-| §§ 899 bis 915h | (weggefallen) |
+| Wirkungen des Pfändungsschutzkontos |  |
+| § 899 | Pfändungsfreier Betrag; Übertragung |
+| § 900 | Moratorium bei Überweisung an den Gläubiger |
+| § 901 | Verbot der Aufrechnung und Verrechnung |
+| § 902 | Erhöhungsbeträge |
+| § 903 | Nachweise über Erhöhungsbeträge |
+| § 904 | Nachzahlung von Leistungen |
+| § 905 | Festsetzung der Erhöhungsbeträge durch das Vollstreckungsgericht |
+| § 906 | Festsetzung eines abweichenden pfändungsfreien Betrages durch das Vollstreckungsgericht |
+| § 907 | Festsetzung der Unpfändbarkeit von Kontoguthaben auf dem Pfändungsschutzkonto |
+| § 908 | Aufgaben des Kreditinstituts |
+| § 909 | Datenweitergabe; Löschungspflicht |
+| § 910 | Verwaltungsvollstreckung |
+| §§ 911 bis 915h | (weggefallen) |
 |  |
 | Abschnitt 5 |
 | Arrest und einstweilige Verfügung |

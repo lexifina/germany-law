@@ -5,12 +5,12 @@ Grundsätze und Fristen
 1. Für die in Teil 3 Spalte B genannten Anlagenkategorien gelten vorrangig die Begriffsbestimmungen nach § 3 des Telekommunikationsgesetzes in der jeweils geltenden Fassung.
 2. Im Sinne von Anhang 4 ist oder sind
   a) Ortsgebundenes Zugangsnetz
-    eine Anlage, über die der Zugang zu einem öffentlichen Telefondienst, zu einem öffentlichen Datenübermittlungsdienst oder zu einem Internetzugangsdienst erfolgt (zum Beispiel Glasfaseranschlüsse und Mobilfunk-Zugangsnetze).
+    eine Anlage, über die der Zugang zu einem Sprachkommunikationsdienst, zu einem öffentlichen Datenübertragungsdienst oder zu einem Internetzugangsdienst erfolgt (zum Beispiel Glasfaseranschlüsse und Mobilfunk-Zugangsnetze).
   b) Übertragungsnetz
-    eine Anlage zur Übertragung von Sprache und Daten für öffentlich zugängliche Telefondienste und Datenübermittlungsdienste oder für Internetzugangsdienste (zum Beispiel Backbone- und Core-Netze).
+    eine Anlage zur Übertragung von Sprache und Daten für Sprachkommunikationsdienste und öffentliche Datenübertragungsdienste oder für Internetzugangsdienste (zum Beispiel Backbone- und Core-Netze).
   c) IXP
     eine Anlage, die mehr als zwei unabhängige autonome Systeme direkt verbindet, so dass der Netzwerkverkehr zwischen zwei angeschlossenen autonomen Systemen direkt ohne Nutzung eines intermediären autonomen Systems fließt.
-  d) DNS-Resolver, die zur Nutzung öffentlich zugänglicher Telefondienste, Datenübermittlungsdienste oder Internetzugangsdienste angeboten werden
+  d) DNS-Resolver, die zur Nutzung von Sprachkommunikationsdiensten, öffentlich zugänglichen Datenübertragungsdiensten und Internetzugangsdiensten angeboten werden
     eine Anlage oder ein System im Zugangsnetz eines Internet Service Providers zur Beantwortung von Anfragen zur Namensauflösung, die bei Unkenntnis der Antwort die Anfragen an übergeordnete DNS-Instanzen weiterreicht.
   e) Autoritative DNS-Server
     eine Anlage oder ein System zur Beantwortung von Anfragen zur Namensauflösung gemäß Kapitel 5 des RFC 7719, in der oder in dem durch lokal vorliegende Informationen über den Inhalt einer DNS-Zone Anfragen über diese DNS-Zone beantwortet werden oder die Anfragen an andere Server delegiert werden.
@@ -31,7 +31,7 @@ Grundsätze und Fristen
   c) unter gemeinsamer Leitung oder Steuerung stehen.
 Teil 2
 Berechnungsformeln zur Ermittlung der Schwellenwerte
-7. Der für die Anlagenkategorien des Teils 3 Nummer 1.1 bis 1.2 genannte Schwellenwert ergibt sich aus § 1 Absatz 1 Nummer 2 des Post- und Telekommunikationssicherstellungsgesetzes vom 24. März 2011 (BGBl. I S. 506, 941) in der jeweils geltenden Fassung.
+7. Der für die Anlagenkategorien des Teils 3 Nummer 1.1 bis 1.2 genannte Schwellenwert ergibt sich aus § 185 Absatz 1 Satz 1 des Telekommunikationsgesetzes in der jeweils geltenden Fassung.
 8. Der für die Anlagenkategorie des Teils 3 Nummer 1.3.1 genannte Schwellenwert ist unter Annahme einer Anzahl von 50 000 Autonomen Systemen aus allen Netzen und einer Bedarfsabdeckung von 500 000 versorgten Personen bei einer Gesamtbevölkerung von 80 Millionen Personen wie folgt berechnet:
   |  |
 9. Der für die Anlagenkategorie des Teils 3 Nummer 1.4.2 genannte Schwellenwert ist unter Annahme von 40 Millionen in der Bundesrepublik Deutschland verwalteten Domains und einer Bedarfsabdeckung von 500 000 versorgten Personen bei einer Gesamtbevölkerung von 80 Millionen Personen wie folgt berechnet:
@@ -46,13 +46,13 @@ Anlagenkategorien und Schwellenwerte
 | Nr. | Anlagenkategorie | Bemessungskriterium | Schwellenwert |
 | 1. | Sprach- und Datenübertragung |  |  |
 | 1.1 | Zugang |  |  |
-| 1.1.1 | Ortsgebundene Zugangsnetze, über die Zugang zu einem öffentlichen Telefondienst, zu einem öffentlichen Datenübermittlungsdienst oder Internetzugangsdienst erfolgt | Teilnehmeranschlüsse des Zugangsnetzes (§ 3 Nummer 21 TKG in der jeweils geltenden Fassung) | 100 000(§ 1 Absatz 1 Nummer 2 PTSG in der jeweils geltenden Fassung) |
+| 1.1.1 | Ortsgebundene Zugangsnetze, über die Zugang zu einem Sprachkommunikationsdienst, zu einem öffentlichen Datenübertragungsdienst oder Internetzugangsdienst erfolgt | Teilnehmeranschlüsse des Zugangsnetzes (§ 3 Nummer 58 TKG in der jeweils geltenden Fassung) | 100 000(§ 185 Absatz 1 Satz 1 TKG in der jeweils geltenden Fassung) |
 | 1.2. | Übertragung |  |  |
-| 1.2.1 | Übertragungsnetze für öffentlich zugängliche Telefondienste und Datenübermittlungsdienste oder Internetzugangsdienste (ohne Nummer 1.1.1) | Teilnehmer des jeweiligen Dienstes | 100 000 (§ 1 Absatz 1 Nummer 2 PTSG in der jeweils geltenden Fassung) |
+| 1.2.1 | Übertragungsnetze für Sprachkommunikationsdienste und Datenübertragungsdienste oder Internetzugangsdienste (ohne Nummer 1.1.1) | Vertragspartner des jeweiligen Dienstes | 100 000 (§ 185 Absatz 1 Satz 1 TKG in der jeweils geltenden Fassung) |
 | 1.3 | Vermittlung |  |  |
-| 1.3.1 | IXP für öffentlich zugängliche Telefondienste, Datenübermittlungsdienste oder Internetzugangsdienste | Anzahl angeschlossener autonomer Systeme (Jahresdurchschnitt) | 300 |
+| 1.3.1 | IXP für Sprachkommunikationsdienste, Datenübertragungsdienste oder Internetzugangsdienste | Anzahl angeschlossener autonomer Systeme (Jahresdurchschnitt) | 300 |
 | 1.4. | Steuerung |  |  |
-| 1.4.1 | DNS-Resolver, die zur Nutzung öffentlich zugänglicher Telefondienste, Datenübermittlungsdienste oder Internetzugangsdienste angeboten werden | Anzahl Teilnehmer des Zugangsnetzes, in welchem der DNS-Resolver betrieben wird | 100 000 |
+| 1.4.1 | DNS-Resolver, die zur Nutzungvon Sprachkommunikationsdiensten, Datenübertragungsdiensten oder Internetzugangsdienstenangeboten werden | Anzahl Vertragspartner des Zugangsnetzes, in welchem der DNS-Resolver betrieben wird | 100 000 |
 | 1.4.2 | Autoritative DNS-Server | Anzahl der Domains, für die der Server autoritativ ist oder die aus der Zone delegiert werden | 250 000 |
 | 2. | Datenspeicherung und -verarbeitung |  |  |
 | 2.1 | Housing |  |  |

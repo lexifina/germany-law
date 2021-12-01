@@ -9,10 +9,12 @@ Pflege von Tieren
 5. Erkennung artspezifischer Schmerzen und Leiden der am häufigsten für Tierversuche verwendeten Arten.
 6. Anforderung gemäß § 7 Absatz 1 Satz 2 Nummer 2 des Tierschutzgesetzes.
 7. Verhaltensgerechter Umgang mit Tieren.
+8. Ethik in Bezug auf die Beziehung zwischen Mensch und Tier sowie intrinsischer Wert des Lebens.
+9. Anforderungen des Prinzips der Unerlässlichkeit nach § 7 Absatz 1 Satz 2 und 3 sowie § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
 Abschnitt 2
 Töten von Tieren
 1. Geltende Rechtsvorschriften zum Töten von Tieren zu wissenschaftlichen Zwecken oder von Tieren, die dazu bestimmt sind, in Tierversuchen verwendet zu werden.
-2. Ethik in Bezug auf die Beziehung zwischen Mensch und Tier, intrinsischer Wert des Lebens.
+2. Ethik in Bezug auf die Beziehung zwischen Mensch und Tier, intrinsischer Wert des Lebens und Argumente für und gegen die Verwendung von Tieren zu wissenschaftlichen Zwecken.
 3. Grundlagen der Biologie und angemessene artspezifische Biologie in Bezug auf Anatomie und physiologische Merkmale.
 4. Grundkenntnisse des Verhaltens der Tiere.
 5. Grundkenntnisse der Physik und Chemie, soweit diese für die betreffenden Tötungsverfahren notwendig sind.
@@ -22,6 +24,7 @@ Töten von Tieren
 9. Ordnungsgemäße Durchführung der Tötung und gegebenenfalls vorhergehende Betäubung der Tiere unter Zufügung geringstmöglicher Schmerzen oder Leiden.
 10. Wartung der für die Tötung und gegebenenfalls vorhergehende Betäubung notwendigen Geräte oder Anlagen.
 11. Erkennen artspezifischer Schmerzen und Leiden der am häufigsten für Tierversuche verwendeten Arten.
+12. Anforderungen des Prinzips der Unerlässlichkeit nach § 7 Absatz 1 Satz 2 und 3 sowie § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
 Abschnitt 3
 Planung und Durchführung von Tierversuchen
 1. Geltende Rechtsvorschriften zur Durchführung von Tierversuchen.
@@ -32,7 +35,7 @@ Planung und Durchführung von Tierversuchen
 6. Artspezifische Handhabungs- und Versuchsmethoden.
 7. Erkennung artspezifischer Schmerzen und Leiden der am häufigsten für Tierversuche verwendeten Arten.
 8. Anwendung möglichst schmerzloser Endpunkte.
-9. Anforderungen des Prinzips der Unerlässlichkeit von Tierversuchen gemäß § 7 Absatz 1 Satz 2 und § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
+9. Anforderungen des Prinzips der Unerlässlichkeit von Tierversuchen gemäß § 7 Absatz 1 Satz 2 und 3 sowie § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
 10. Gegebenenfalls Planung von Verfahren und Projekten.
 11. Relevante Versuchstechniken und operative Eingriffe.
 12. Recherche und Auswertung wissenschaftlicher Literatur einschließlich solcher zu Alternativen zum Tierversuch.

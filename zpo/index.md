@@ -1031,8 +1031,8 @@ Amtsgerichten
 - [§ 850g Änderung der Unpfändbarkeitsvoraussetzungen](0850g.md)
 - [§ 850h Verschleiertes Arbeitseinkommen](0850h.md)
 - [§ 850i Pfändungsschutz für sonstige Einkünfte](0850i.md)
-- [§ 850k Pfändungsschutzkonto](0850k.md)
-- [§ 850l Anordnung der Unpfändbarkeit von Kontoguthaben auf dem Pfändungsschutzkonto](0850l.md)
+- [§ 850k Einrichtung und Beendigung des Pfändungsschutzkontos](0850k.md)
+- [§ 850l Pfändung des Gemeinschaftskontos](0850l.md)
 - [§ 851 Nicht übertragbare Forderungen](0851.md)
 - [§ 851a Pfändungsschutz für Landwirte](0851a.md)
 - [§ 851b Pfändungsschutz bei Miet- und Pachtzinsen](0851b.md)
@@ -1077,7 +1077,7 @@ Amtsgerichten
 - [§ 881 Versäumnisurteil](0881.md)
 - [§ 882 Verfahren nach dem Urteil](0882.md)
 
-#### Titel 5 Zwangsvollstreckung gegen juristische Personen des öffentlichen Rechts
+#### Titel 5 Zwangsvollstreckung in Sachen, die der Erfüllung öffentlicher Aufgaben dienen
 
 - [§ 882a Zwangsvollstreckung wegen einer Geldforderung](0882a.md)
 
@@ -1116,9 +1116,21 @@ oder Unterlassungen
 - [§ 897 Übereignung; Verschaffung von Grundpfandrechten](0897.md)
 - [§ 898 Gutgläubiger Erwerb](0898.md)
 
-### Abschnitt 4 (weggefallen)
+### Abschnitt 4 Wirkungen des Pfändungsschutzkontos
 
-- [(XXXX) §§ 899 bis 915h (weggefallen)](xxxx-899-bis-915h.md)
+- [§ 899 Pfändungsfreier Betrag; Übertragung](0899.md)
+- [§ 900 Moratorium bei Überweisung an den Gläubiger](0900.md)
+- [§ 901 Verbot der Aufrechnung und Verrechnung](0901.md)
+- [§ 902 Erhöhungsbeträge](0902.md)
+- [§ 903 Nachweise über Erhöhungsbeträge](0903.md)
+- [§ 904 Nachzahlung von Leistungen](0904.md)
+- [§ 905 Festsetzung der Erhöhungsbeträge durch das Vollstreckungsgericht](0905.md)
+- [§ 906 Festsetzung eines abweichenden pfändungsfreien Betrages durch das Vollstreckungsgericht](0906.md)
+- [§ 907 Festsetzung der Unpfändbarkeit von Kontoguthaben auf dem Pfändungsschutzkonto](0907.md)
+- [§ 908 Aufgaben des Kreditinstituts](0908.md)
+- [§ 909 Datenweitergabe; Löschungspflicht](0909.md)
+- [§ 910 Verwaltungsvollstreckung](0910.md)
+- [(XXXX) §§ 911 bis 915h (weggefallen)](xxxx-911-bis-915h.md)
 
 ### Abschnitt 5 Arrest und einstweilige Verfügung
 
@@ -1384,5 +1396,4 @@ Europäische Vollstreckungstitel
 - [§ 1118 Zentralbehörde](1118.md)
 - [§ 1119 Verwaltungszusammenarbeit](1119.md)
 - [§ 1120 Mehrsprachige Formulare](1120.md)
-- [Anlage (zu § 850c) *)](anlage.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 927, 940) Abschnitt III - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - Abschnitt IV - Sonderregelung für das Land Berlin -](anhang-ev.md)

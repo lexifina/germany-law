@@ -10,4 +10,4 @@
 - [§ 8 Länderausschuss](0008.md)
 - [§ 9 Geschäftsordnung, Vorsitz, Sitzungen des Länderausschusses](0009.md)
 - [§ 10 Aufgaben des Länderausschusses](0010.md)
-- [§ 11 Übergangsvorschrift](0011.md)
+- [§ 11 Amtsblatt](0011.md)

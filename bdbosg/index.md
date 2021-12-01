@@ -28,4 +28,5 @@
 - [§ 21 Übermittlung von Verkehrsdaten an Strafverfolgungs- und Polizeibehörden](0021.md)
 - [§ 22 Weitere Vorschriften zur Übermittlung von Verkehrsdaten](0022.md)
 - [§ 23 Dateisystem zur Verwaltung der Standorte des Digitalfunk BOS](0023.md)
-- [§ 24 Einschränkung eines Grundrechts](0024.md)
+- [§ 24 Pflicht zur Abgabe eines Angebots für die Bereitstellung von Telekommunikationsleistungen](0024.md)
+- [§ 25 Einschränkung eines Grundrechts](0025.md)

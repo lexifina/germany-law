@@ -33,7 +33,7 @@
 - [§ 16 Protokollierung](0016.md)
 - [§ 17 Prüfung und Löschung der Protokolldaten, Vernichtung von Unterlagen](0017.md)
 
-### Abschnitt 4 Verfahren zum Nachweis nach § 110 Absatz 1 Satz 1 Nummer 3 des Telekommunikationsgesetzes
+### Abschnitt 4 Verfahren zum Nachweis nach § 170 Absatz 1 Satz 1 Nummer 4 des Telekommunikationsgesetzes
 
 - [§ 18 (weggefallen)](0018.md)
 - [§ 19 Nachweis](0019.md)

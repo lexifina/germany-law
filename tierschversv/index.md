@@ -22,7 +22,7 @@
 
 - [§ 11 Erlaubnisvoraussetzungen](0011.md)
 - [§ 12 Beantragen der Erlaubnis](0012.md)
-- [§ 13 Erlaubnisbescheid, Anzeige von Änderungen](0013.md)
+- [§ 13 Erlaubnisbescheid, Anzeige und Erlaubnis von Änderungen](0013.md)
 
 ## Abschnitt 2 Durchführung, Genehmigung und Anzeige von Tierversuchen
 
@@ -52,11 +52,11 @@
 - [§ 31 Beantragen der Genehmigung](0031.md)
 - [§ 32 Genehmigungsverfahren, Bearbeitungsfristen](0032.md)
 - [§ 33 Genehmigungsbescheid, Befristung](0033.md)
-- [§ 34 Anzeige von Änderungen genehmigter Versuchsvorhaben](0034.md)
+- [§ 34 Genehmigung und Anzeige von Änderungen genehmigter Versuchsvorhaben](0034.md)
 - [§ 35 Rückblickende Bewertung von Versuchsvorhaben](0035.md)
-- [§ 36 Anzeige von Versuchsvorhaben nach § 8a Absatz 1 des Tierschutzgesetzes](0036.md)
-- [§ 37 Sammelanzeige, Anzeige von Änderungen angezeigter Versuchsvorhaben](0037.md)
-- [§ 38 Prüfung angezeigter Versuchsvorhaben oder deren Änderungen](0038.md)
+- [§ 36 Vereinfachtes Genehmigungsverfahren für Versuchsvorhaben nach § 8a Absatz 1 des Tierschutzgesetzes](0036.md)
+- [§ 37 Sammelgenehmigung und Genehmigung von Änderungen genehmigter Versuchsvorhaben im vereinfachten Genehmigungsverfahren](0037.md)
+- [§ 38 Prüfung der Anzeige von Änderungen von Versuchsvorhaben](0038.md)
 - [§ 39 Anzeige von Versuchsvorhaben an Zehnfußkrebsen](0039.md)
 - [§ 40 Aufbewahrungspflicht](0040.md)
 - [§ 41 Veröffentlichung von Zusammenfassungen](0041.md)

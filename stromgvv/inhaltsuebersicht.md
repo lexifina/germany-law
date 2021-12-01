@@ -22,7 +22,7 @@
 |  |
 | Teil 4 |
 | Abrechnung der Energielieferung |
-| § 11 | Ablesung |
+| § 11 | Verbrauchsermittlung |
 | § 12 | Abrechnung |
 | § 13 | Abschlagszahlungen |
 | § 14 | Vorauszahlungen |
@@ -40,4 +40,4 @@
 | Teil 6 |
 | Schlussbestimmungen |
 | § 22 | Gerichtsstand |
-| § 23 | Übergangsregelungen |
+| § 23 | Übergangsregelung |

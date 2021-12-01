@@ -12,8 +12,8 @@ Vorbemerkungen
 Die Untersuchungsgebühr bemisst sich für den Aufbau der Untersuchungsanlage, die Untersuchung der Ware, den Abbau und die Reinigung der Untersuchungsanlage sowie die Dokumentation des Untersuchungsergebnisses nach den in den Abschnitten A bis G aufgeführten Sätzen. Vermindert sich der zur Durchführung der Untersuchung erforderliche Aufwand durch Reihenuntersuchungen von Waren gleicher oder ähnlicher Art erheblich, so werden die Gebührensätze mit Ausnahme der Grundgebühren entsprechend, höchstens bis zur Hälfte der Sätze, ermäßigt.
 (2)
 Sind für Untersuchungen Gebührensätze nicht festgelegt oder ist im Gebührentarif bestimmt, dass die Gebühr nach dem Zeitaufwand (nZ) zu bemessen ist, so ist als Stundensatz zugrunde zu legen:
-| a) für Beamtinnen und für Beamte des höheren Dienstes und vergleichbare Angestellte | 83 Euro, |
-| b) für sonstige Bedienstete | 56 Euro. |
+| a) für Beamtinnen und für Beamte des höheren Dienstes und vergleichbare Angestellte | 97 Euro, |
+| b) für sonstige Bedienstete | 64 Euro. |
 Für jede angefangene Viertelstunde ist ein Viertel des Stundensatzes zu berechnen.
 (3)
 Zu den Untersuchungen rechnen auch aufwändige Probenvorbereitungen, die nach Sachlage erforderliche Begutachtung von Waren anhand von Zeichnungen, Prospekten, Angaben des Antragstellers oder Anmeldepflichtigen und weiteren zu Dokumentationszwecken eingereichten Unterlagen sowie die Auswertung von Analyseergebnissen und -zeugnissen. Für diese Untersuchungen und die Dokumentation des Ergebnisses werden Gebühren nach dem Zeitaufwand angesetzt. Im Zusammenhang mit Warenuntersuchungen aufgewendete Zeiten für Literaturstudium, Besprechungen und dergleichen sind für die Gebührenberechnung nur zu berücksichtigen, soweit die betreffenden Tätigkeiten nicht über den konkreten Einzelfall hinaus von Bedeutung sind.
