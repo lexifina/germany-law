@@ -1,0 +1,69 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-12-02T18:00:00+01:00
+- Ende: 2021-12-02T19:38:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20448
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20448
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö ohne TOP 6, 9-12 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431567.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö ohne TOP 6, 9-12 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431567.pdf
+- Wortprotokoll: Sitzungspaket Ö ohne TOP 6, 9-12 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00431567.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 gemäß § 22 Geschäftsordnung des Rates für bis zum 18.11.2021 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 07.10.2021 - einstimmig beschlossen
+- TOP 4: Beschluss Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 5: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für das Projekt "Ersatzneubau der Grundschule an der Vennhauser Allee 160-162 " - Empfehlung einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bebauungsplan-Vorentwurf Nr.08/008 - Am Kleinforst - Fortführung der Planung - Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP -: Änderungsantrag Bebauungsplan – Vorentwurf Nr. 08/008 (APS/114/2021) (Antrag CDU-Fraktion, SPD-Fraktion und Fraktion Bündnis 90/Die Grünen) - beschlossen
+- TOP 8: Bauvorbescheid, Am Seeblick 91, 93 - Errichtung zweier Mehrfamilienhäuser - zurückgestellt
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2022 - einstimmig beschlossen
+- TOP 14: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 1. Halbjahr 2022 - einstimmig beschlossen
+- TOP 15: Weihnachtsmarkt in Unterbach am 04. und 05. Dezember 2021 - Genehmigung der Dringlichkeitsentscheidung gemäß § 36 Abs. 5 Satz 2 GO NW in Verbindung mit § 60 GO NW - einstimmig beschlossen
+- TOP 16: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 17: Zuschüsse der Bezirksvertretung 8 im Jahre 2021 - einstimmig beschlossen
+- TOP 18: A46 - Baumaßnahmen am AD Düsseldorf-Süd und Lärmschutz für den Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 19: Brückenverbindung Eller-Südost zum Unterbacher See (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 20: Fahrradweg Vennhauser Allee (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 21: Kriterien zur Einrichtung von Fahrradstraßen (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 22: Ausgleichzahlungen für private Baumfällungen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 23: Nachpflanzungen für Baumfällungen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 24: Zukünftige Nachpflanzungen für Baumfällungen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 25: Booster-Impfungen in den Stadtteilen Eller und Lierenfeld – niederschwellige Angebote (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 26: Nutzung der Parkplatzfläche am Minigolfplatz Vennhausen / Krippstraße (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 27: Beleuchtung von Bahnunterführungen im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 28: Kiosk am Schlosspark Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 29: Vorgarten Rathaus Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Radwege Königsberger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 32: Erfurter Weg – Einrichtung einer Kinderspielstraße oder Einbahnstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 33: Einbahnstraße Pirmasener Weg – Freigabe in Gegenrichtung für den Radverkehr (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 34: Darlegung einer Ersatzpflanzung vor Baumentnahme im Stadtbezirk 8 (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 35: Vennstraße - Geschwindigkeitsregelung - zur Kenntnis genommen
+- TOP 36: Heidelberger Straße / Deutzer Straße, Beschilderung Gesamtgewicht - zur Kenntnis genommen
+- TOP 37: S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 38: Sitzungstermine der Bezirksvertretung 8 im Jahre 2022 - zur Kenntnis genommen
+- TOP 39: Alt-Eller – Verkehrsregelung - zur Kenntnis genommen
+- TOP 40: Bürgerpark Am Stufstock – Zebrastreifen im Eingangsbereich - zur Kenntnis genommen
+- TOP 41: Bauvorhaben Schulgebäude Vennhauser Allee 167 - zur Kenntnis genommen
+- TOP 42: Rathaus Eller - Sitzungsaal - zur Kenntnis genommen
+- TOP 43: Grünordnungsrahmenplan Stadtbezirk 8 – Kinderspielplätze in Unterbach - zur Kenntnis genommen
+- TOP 44: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 45: Sachstand "Jugend checkt Düsseldorf" im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Winterfällungen 2021 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Bushaltestelle „Stammesberg" in Unterbach - Zebrastreifen - zur Kenntnis genommen
+- TOP 48: Kinderspielplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 49: Sperrmüllentsorgung in Unterbach - zur Kenntnis genommen
+- TOP 50: Egilweg / Melchthalweg - zur Kenntnis genommen
+- TOP 51: Ellerbittweg - Haltestelle „Jägerstraße“ Steig 3 FR D-Eller Mitte S - zur Kenntnis genommen
