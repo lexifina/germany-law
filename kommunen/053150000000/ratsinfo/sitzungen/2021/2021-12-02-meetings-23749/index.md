@@ -1,0 +1,83 @@
+# 7. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-12-02T15:05:00+01:00
+- Ende: 2021-12-02T17:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23749
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23749
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Anfrage der Fraktion Die Linke. betr.: "Otto-Langen-Quartier" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1830/2021 der Fraktion Die Linke.Köln betr. Otto-Langen-Quartier - Kenntnis genommen
+- TOP 1.2: Anfrage der SPD-Fraktion betr.: "Bebauung des Schützenplatzes Takustraße 37 – Zwangsräumung von Familienwohnwagen" - zurückgestellt
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Stellungnahme zur mündlichen Anfrage bezüglich Tagesordnungspunkt 17.2 Offenlage Bebauungsplanentwurf-Nummer 63474/02 Subbelrather Straße 486-494 (3506/2021) im SteA am 28.10.2021 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage der FDP-Fraktion betr.: "Änderung der Siedlungsflächen im Regionalplan aufgrund von Hochwassergefahr" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage FDP-Ratsfraktion (AN/2420/2021): - Kenntnis genommen
+- TOP 2.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU-Fraktion, Volt-Fraktion betr.: "Entwicklung Neue Porzer Mitte" - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: Gemeinsamer Antrag der Fraktion Die Linke. und Ratsgruppe GUT betr.: " Otto-Langen-Quartier in Mülheim Süd: Das NRW.Urban-Gelände" - zurückgestellt
+- TOP 3.2: Antrag der Fraktion Die Linke. betr.: "Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums" - zurückgestellt
+- TOP -: Gemeinsamer Änderungsantrag zu Top 3.2 "Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums" - zurückgestellt
+- TOP -: Zu Top 3.2 Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Mediationsverfahren Klimawende Köln - RheinEnergie AG - mit Änderungen empfohlen
+- TOP 5.2: Weiterplanungssbeschluß auf Basis des Vorentwurfs Parkstadt Süd Eifelwall - ungeändert empfohlen
+- TOP 5.3: Defizitfinanzierung des Köln Agenda e.V. - ungeändert beschlossen
+- TOP 5.4: Deutzer Hafen, Begleitgremium - zurückgestellt
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Neueinteilung und Umbenennung der Stadtteile in der linksrheinischen Innenstadt, Beauftragung der Verwaltung zur Erstellung eines Vorschlags und einer entsprechenden Ratsvorlage druch Ratsbeschluss vom 12.12.2019 - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Stadtstrategie „Kölner Perspektiven 2030+“ - ohne Votum in nachfolgende Gremien
+- TOP 6.3: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein - zurückgestellt
+- TOP 6.4: Umsetzung Stadtentwicklungskonzept Wohnen, hier: Beschluss über die Soziale Erhaltungssatzung gem. § 172 Abs. 1 Satz 1 Nr. 2 Baugesetztbuch für das Gebiet Mülheim Süd-West - ungeändert empfohlen
+- TOP 6.5: Parkstadt Süd: Bedarfsfeststellungsbeschluss für unterstützende Dienstleistungen für Umsetzungsvorbereitende Maßnahmen - ohne Votum in nachfolgende Gremien
+- TOP 6.6: Freigabe- und Baubeschluss für die Neugestaltung der Freianlagen im Innenstadtbereich Porz-Mitte - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 191. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Lindenthal Arbeitstitel: Frischezentrum Marsdorf in Köln-Junkersdorf Hier: Ergebnisse der frühzeitigen Öffentlichkeitsbeteiligung und Entscheidung über die Vorgaben zur 191. Flächen - ohne Votum in nachfolgende Gremien
+- TOP 7.2: 221. Änderung des Flächennutzungsplanes (FNP) in den Stadtbezirken 1 (Innenstadt) und 3 (Lindenthal)-Einleitungsbeschluss - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Frischezentrum in Köln-Junkersdorf/Marsdorf; hier: Stellungnahme der Bezirksvertretung Lindenthal zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Entscheidung über die Vorgaben zum Bebauungplan-Entwurf - ohne Votum in nachfolgende Gremien
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - zurückgestellt
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplanes 75389/03, Arbeitstitel: Kaiserstraße in Köln-Porz - 1. Änderung - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Adalbertstraße in Köln-Höhenberg - zurückgestellt
+- TOP 10.4: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - endgültig zurückgezogen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 68454/04, Arbeitstitel: Südlich Ottoplatz in Köln-Deutz - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzungsbeschluss betreffend den Bebauungsplan 64435/02 Arbeitstitel: Baufeld West, Kempener Straße in Köln-Lindenthal - mit Änderungen empfohlen
+- TOP 15.2: Umsetzung Stadtentwicklungskonzept Wohnen - ungeändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Beschluss der Bezirksvertretung Nippes per Dringlichkeit Erhalt der Fläche des derzeitigen Golfplatzes an der Neusser Landstraße als Grünfläche - zurückgestellt
+- TOP 16.2: Beschluss der Bezirksvertretung Ehrenfeld vom 31.05.2021 betr. Aufstellung eines Bebauungsplanes mit Veränderungssperre für den Bereich Wilhelm-Mauser-Straße, Venloer Straße / Bahntrasse HGK - ungeändert beschlossen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.2: Erneute Offenlage gemäß § 3 Absatz 2 Baugesetzbuch BauGB in Verbindung mit § 4a Absatz 3 BauGB Bebauungsplan-Entwurf Nummer 61483/02 Arbeitstitel: Seeadlerweg in Köln-Vogelsang - Kenntnis genommen
+- TOP -: Stellungnahme zur mündlichen Anfrage bezüglich Tagesordnungspunkt 17.2 Offenlage Bebauungsplanentwurf-Nummer 63474/02 Subbelrather Straße 486-494 (3506/2021) im StEA am 28.10.2021
+- TOP 17.3: Bürgereingabe gem. § 24 GO- Frühzeitige Offenlegung zur Bauleitplanung des Otto-Langen-Quartier- AZ 195/21 - Kenntnis genommen
+- TOP 17.4: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf 71504/05 Arbeitstitel: Von-Ketteler-Straße in Köln-Höhenhaus - Kenntnis genommen
+- TOP 17.5: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf (vorha-benbezogener Bebauungsplan) Nr. 664382/02 - Kenntnis genommen
+- TOP 17.6: Erneute Offenlage gemäß § 3 Absatz 2 Baugesetzbuch BauGB in Verbindung mit § 4a Absatz 3 BauGB - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Modellversuch des Landes Nordrhein-Westfalen zur Verlängerung und zum Ankauf von Belegungsbindungen - Kenntnis genommen
+- TOP 18.2: Aktualisierung des Monitoring Stadtentwicklung Köln: Indikatoren für 2020 ab sofort verfügbar - Kenntnis genommen
+- TOP 18.3: Bebauungsplaverfahren „Astrid-Lindgren-Allee“ in Köln-Brück: Vorgehensweise bei der Reihenfolge Durchführung des städtebaulichen Wettbewerbs/ Beschluss über die Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeiteiligung - Kenntnis genommen
+- TOP 18.4: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen
+- TOP 18.5: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 18.6: Veranstaltungsreihe Kölner Perspektiven - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 19.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Gleichstellungsrelevante Themen
