@@ -1,0 +1,95 @@
+# 10. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-12-02T16:00:00+01:00
+- Ende: 2021-12-02T20:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23368
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23368
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Verkehrsschauen im Stadtbezirk Nippes - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - 102 gesunde Bäume in Köln-Nippes erhalten! Schulen nachhaltig umbauen! - Aktenzeichen 176/21B - geändert beschlossen
+- TOP -: Bürgeringabe nach § 24 GO - 102 gesunde Bäume in Nippes erhalten! Schulen nachhaltig umbauen! - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Errichtung einer Quartiersgarage auf dem Parkplatz an der Kleingartenanlage Boltensternstraße - zurückgestellt
+- TOP 7.1.2: Bedarf an Quartiersgaragen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.3: Verkehrsberuhigter Bereich (Spielstraße) Rudolf-Sohm-Straße - zurückgestellt
+- TOP 7.1.4: Außengastronomie auf Parkplätzen im Stadtbezirk Nippes - Umsetzung und Verstetigung - Kenntnis genommen
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 7.1.5: Zustand der Wasch- und Duschräume der Turnhalle der GGS Halfengasse - zurückgestellt
+- TOP 7.1.6: Verfall und Verwahrlosung des denkmalgeschützten ehemaligen Mühlenhofs, Wirtgasse 2, Longerich - zurückgestellt
+- TOP 7.1.7: Fahrradzugänge zur Mülheimer Brücke - Kenntnis genommen
+- TOP -: Gesamtinstandsetzung Mülheimer Brücke - Fahrradzugänge zur Mülheimer Brücke - Kenntnis genommen
+- TOP 7.1.8: Vogelschutzstreifen in Longerich - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Friedhof Longerich: Sanierung der Toiletten - zurückgestellt
+- TOP 7.2.2: Gehwegreinigung - zurückgestellt
+- TOP 7.2.3: Kontrolle der 3G-Regel (zukünftig 2G-Regel) in der Gastronomie - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage (AN/2558/2021) der KLIMA FREUNDE in der Bezirksvertretung Nippes - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Beseitigung der Verkehrsgefährdung von Schülern und Schülerinnen der Maternus Grundschule und der Hauptschule Bülowstraße - ungeändert beschlossen
+- TOP -: Beseitigung der Verkehrsgefährdung von Schülern und Schülerinnen der Maternus Grundschulen und der Hauptschule Bülowstraße - endgültig abgelehnt
+- TOP 8.1.2: Prüfauftrag: Stammheimer Straße als Einbahnstraße - ungeändert beschlossen
+- TOP 8.1.3: Fußgängerüberweg Escher Straße, Bilderstöckchen, Höhe Shell-Tankstelle - zurückgestellt
+- TOP 8.1.4: Entsiegelung von freilaufenden Rechtsabbiegern - ungeändert beschlossen
+- TOP 8.1.5: Bereinigung des gesamten Stadtbezirks Nippes von verbrennungsmotorbetriebenen Fortbewegungsmitteln - endgültig abgelehnt
+- TOP -: Bereinigung des gesamtzen Stadtbezirks Nippes von verbrennungsmotorbetriebenen Fortbewegungsmitteln - ungeändert beschlossen
+- TOP 8.1.6: Instandsetzung des Radweges entlang des Parkgürtels in beide Richtungen von der Stadtteilgrenze Bilderstöckchen (Osterather Straße) bis zur Geldernstraße - endgültig abgelehnt
+- TOP 8.1.7: Vorgartenschutz in Bilderstöckchen - Aufnahme einer weiteren Straße - ungeändert beschlossen
+- TOP 8.1.8: Kiss and Ride-Parkfläche am Wilensteinweg in Bilderstöckchen - zurückgestellt
+- TOP 8.1.9: Unterstützung der Quartiersentwicklung durch KluG e.V. - ungeändert beschlossen
+- TOP 8.1.10: Herstellung der Verkehrssicherheit vor der Grundschule in der Steinberger Straße - ungeändert beschlossen
+- TOP 8.1.11: Stadtklima-/Stadtverschönerungsprogramm 2021 im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 8.1.12: Bezirksorientierte Mittel: Errichtung eines Denkmals für Manfred Faber an der Naumannstraße in Riehl - geändert beschlossen
+- TOP 8.1.13: Einrichtung eines Familiengrundschulzentrums im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Quartiersgarage Boltensternstraße - geändert beschlossen
+- TOP -: Quartiersgarage Boltensternstraße - ungeändert beschlossen
+- TOP 8.2.2: Errichtung einer Buslinie auf der Inneren Kanalstraße im Stadtbezirk Nippes, Innenstadt/Deutz und Ehrenfeld
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe bezirksorientierter Mittel an Bike Bridge e.V. - ungeändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an den Cologne Cycling Club e.V. - ungeändert beschlossen
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an die jüdische liberale Gemeinde Gescher LaMassoret e.V. - geändert beschlossen
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an die ev. Kindertagesstätte Kretzerstraße - ungeändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an die Nippeser Bürgerwehr 1903 e.V. - Straßensitzung - ungeändert beschlossen
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an die Nippeser Bürgerwehr 1903 e.V. - Kindersitzung - ungeändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an das Multikulturelle Forum e.V. - ungeändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an den Sozialdienst kath. Männer e.V. - geändert beschlossen
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an die KF "Mauenheimer Muschele" e.V. - Seniorensitzung - ungeändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an die KF "Mauenheimer Muschele" e.V. - Herrensitzung - ungeändert beschlossen
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an die KF "Mauenheimer Muschele" e.V. - Damensitzung - ungeändert beschlossen
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an die KF "Mauenheimer Muschele" e.V. - Karnevalsumzug - geändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an den Niehler Bürgerverein e.V - ungeändert beschlossen
+- TOP 9.1.14: Planungsbeschluss für die Umgestaltung der Longericher Hauptstraße im Bereich der geplanten Kindertagesstätte Longericher Hauptstraße 73-75
+- TOP 9.1.15: Vergabe bezirksorientierter Mittel an das Atelier Art Space
+- TOP 9.1.16: Vergabe bezirksorientierter Mittel an das Kinder- und Jugendhaus Fzwei - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Planungsbeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr - geändert beschlossen
+- TOP -: Planungsbeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr - ungeändert beschlossen
+- TOP 9.2.2: Bedarfsfeststellungsbeschluss und Beschluss über die Überplanung der Neusser Straße von Simonskaul bis Scheibenstraße/Kapuzinerstraße (Bauabschnitt 2b) - ungeändert beschlossen
+- TOP 9.2.3: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein - ungeändert beschlossen
+- TOP 9.2.4: Änderung der Hauptsatzung, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Interkulturelle Zentren Köln - Übersichtskarte Stand: 1.09.2021 - Kenntnis genommen
+- TOP 10.2.2: KOMM-AN NRW – Landesförderprogramm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2021 - Kenntnis genommen
+- TOP 10.2.3: Änderungen zum Fahrplanwechsel 2021/2022 - Kenntnis genommen
+- TOP 10.2.4: Gesamtinstandsetzung Mülheimer Brücke - Sachstände Teilbauwerke - Kenntnis genommen
+- TOP 10.2.5: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen
+- TOP 10.2.6: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - zurückgestellt
+- TOP 10.2.7: AN/2233/2021 - Kenntnis genommen
