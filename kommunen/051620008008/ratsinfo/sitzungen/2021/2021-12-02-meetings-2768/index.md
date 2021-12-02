@@ -1,0 +1,70 @@
+# Hauptausschuss der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-12-02T11:06:00+01:00
+- Ende: 2021-12-02T15:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2768
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2768
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00121377.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00121377.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00121377.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Sonstige Anträge zur Tagesordnung
+- TOP 2.1: Status der Umstellung der Straßenbeleuchtung auf LED-Technik (Anfrage Nr. 188/2021)
+- TOP 2.2: Ersatz der vorhandenen Lichtquellen durch LED-Beleuchtung in den Immobilien der Stadt Grevenbroich (Antrag Nr. 191/2021)
+- TOP 2.3: Grevenbroich als attraktive Etappenstadt für Wohnmobilnutzer etablieren (Antrag Nr. 199/2021)
+- TOP 2.4: Prüfung der z.Zt. angemieteten Räume durch die Stadt (Antrag Nr. 196/2021)
+- TOP 2.5: Mietausgaben senken - Jugendamt am Standort Rathaus zusammenführen (Antrag Nr. 201/2021)
+- TOP 2.6: Verschiebung des Produktes "01092 Controlling" vom Fachbereich 01 in den Fachbereich 20 (Antrag Nr. 192/2021)
+- TOP 3: Bürgeranträge nach § 24 GO NRW
+- TOP 3.1: Ernährungswende durch mehr Einsatz von regionalen Bio-Lebensmitteln in öffentlichen Kantinen in Grevenbroich - einstimmig beschlossen
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Gebührenanpassungen - mehrheitlich beschlossen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Schriftliche Anfragen von Fraktionen für das Haushaltsjahr 2022
+- TOP 6.1.1: Fragen zum Haushaltsplan (Anfrage Nr. 181/2021)
+- TOP 6.2: Für das Haushaltsjahr 2022 haushaltsrelevante schriftliche Anträge von Fraktionen (Übersicht)
+- TOP 6.2.1: Beschränkung der zusätzlichen Aufwandsentschädigung in Höhe von € 417,20 für Ausschussvorsitzende (Antrag Nr. 190/2021)
+- TOP 6.2.2: Mobile Arbeit für alle Mitarbeiter der Stadtverwaltung (Antrag Nr. 203/2021)
+- TOP 6.2.3: Gewinnausschüttung Eigenbetrieb (Antrag Nr. 184/2021) - mehrheitlich beschlossen
+- TOP 6.2.4: Gewinnausschüttung SEG (Antrag Nr. 185/2021)
+- TOP 6.2.5: Ausstattung OSD (Antrag Nr. 182/2021)
+- TOP 6.2.6: Mehr Mittel für die Stadtbücherei (Antrag Nr. 183/2021) - einstimmig beschlossen
+- TOP 6.2.7: Anpassung der Gebühren bei Überschreitung der Leihfrist (Antrag Nr. 200/2021) - einstimmig beschlossen
+- TOP 6.2.8: Ehrenamtsbeauftragter (Antrag Nr. 179/2021) - einstimmig beschlossen
+- TOP 6.2.9: Bereitstellung von Geldmitteln für die Entwicklung eines Inklusionskonzeptes (Antrag Nr. 189/2021) - einstimmig beschlossen
+- TOP 6.2.10: Soziales GV - Jugendberufsagentur gründen (Antrag Nr. 186/2021) - mehrheitlich beschlossen
+- TOP 6.2.11: Projektkoordinator (Antrag Nr. 180/2021) - mehrheitlich beschlossen
+- TOP 6.2.12: Soziales GV - Lotsenpunkte errichten (Antrag Nr. 187/2021) - einstimmig beschlossen
+- TOP 6.2.13: Mittelbereitstellung für Projekte des Strukturwandels (Antrag Nr. 193/2021) - mehrheitlich abgelehnt
+- TOP 6.2.14: Erforderliche Mittel in den Haushaltsentwurf zur Anbindung des Neubaugebietes (Antrag Nr. 195/2021) - mehrheitlich abgelehnt
+- TOP 6.2.15: Neubau Flutgrabenbrücke streichen (Antrag Nr. 198/2021) - mehrheitlich abgelehnt
+- TOP 6.2.16: Bereitstellung von € 100.000 für die Unterhaltung von Brückenbauwerken im Stadtgebiet (Antrag Nr. 194/2021)
+- TOP 6.2.17: Bereitstellung von €250.000 für den Neubau/die Unterhaltung von Radwegen (Antrag Nr. 197/2021) - mehrheitlich abgelehnt
+- TOP 6.3: Haushalt 2022 - einstimmig beschlossen
+- TOP 7: Beantwortung von Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 7.1: Produkt 01122 Projekt Um- und Anbau Gesamtschule III (Anfrage Nr. 82/2021) - Kenntnisnahme
+- TOP 7.2: Wirtschaftlichkeit der Mitgliedschaft der Stadt Grevenbroich in der KoPart eG darlegen (Antrag Nr. 86/2021) - Kenntnisnahme
+- TOP 8: Schriftliche Anträge
+- TOP 8.1: Anträge der SPD-Fraktion
+- TOP 8.2: Anträge der CDU-Fraktion
+- TOP 8.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 8.4: Anträge der FDP-Fraktion
+- TOP 8.4.1: Erfolge der von Bürgermeister Krützen eingesetzten Projektgruppe zum Haushalt (Antrag Nr. 202/2021) - einstimmig beschlossen
+- TOP 8.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 8.6: Anträge der UWG-Fraktion
+- TOP 9: Schriftliche Anfragen liegen nicht vor.
+- TOP 9.1: Anfragen der SPD-Fraktion
+- TOP 9.2: Anfragen der CDU-Fraktion
+- TOP 9.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 9.4: Anfragen der FDP-Fraktion
+- TOP 9.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 9.6: Anfragen der UWG-Fraktion
+- TOP 10: Mitteilungen des Bürgermeisters
