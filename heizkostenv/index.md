@@ -6,6 +6,8 @@
 - [§ 4 Pflicht zur Verbrauchserfassung](0004.md)
 - [§ 5 Ausstattung zur Verbrauchserfassung](0005.md)
 - [§ 6 Pflicht zur verbrauchsabhängigen Kostenverteilung](0006.md)
+- [§ 6a Abrechnungs- und Verbrauchsinformationen; Informationen in der Abrechnung](0006a.md)
+- [§ 6b Zulässigkeit und Umfang der Verarbeitung von Daten](0006b.md)
 - [§ 7 Verteilung der Kosten der Versorgung mit Wärme](0007.md)
 - [§ 8 Verteilung der Kosten der Versorgung mit Warmwasser](0008.md)
 - [§ 9 Verteilung der Kosten der Versorgung mit Wärme und Warmwasser bei verbundenen Anlagen](0009.md)
