@@ -1,0 +1,85 @@
+# 9. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-12-02T16:00:00+01:00
+- Ende: 2021-12-02T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23352
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23352
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Übergabe Forderungen Schulwegprojekte „Kinder bewegen sich selbst – und ihre Welt“ - ungeändert beschlossen
+- TOP -: Vorstellung der Konrektorin der Kath. Grundschule Zugweg
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einsatz des Ordnungsamtes am Eierplätzchen (Fortsetzung der aktuellen Stunde vom 28.10.2021), Antrag Grüne
+- TOP 1.2: Aktueller Sachstand zur Kita Gotland, Antrag Grüne
+- TOP 1.3: Sanierung Volksgartenweiher – Kurze Information
+- TOP 1.4: DEUTZ - Situation des Anwohnerparkens und des Parkens überhaupt unter Berücksichtigung der aktuellen Regulierungen und anstehenden Umgestaltungen aufgrund aktueller Berichterstattung, Antrag CDU
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen - ungeändert beschlossen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Weiterplanungssbeschluß auf Basis des Vorentwurfs Parkstadt Süd Eifelwall - ungeändert beschlossen
+- TOP 3.2: Umsetzung Stadtentwicklungskonzept Wohnen - ungeändert beschlossen
+- TOP 3.3: Neubau Historische Mitte - ungeändert beschlossen
+- TOP 3.4: Ergänzung des U-Bahn-Vertrages vom 17.09. / 24.10.1973 zur Übertragung der Federführung für die Aufzugsnachrüstungen in die Stadtbahnhaltestellen Deutz Technische Hochschule und Fuldaer Straße die Kölner Verkehrs-Betriebe - ungeändert beschlossen
+- TOP 3.5: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein - ungeändert beschlossen
+- TOP 3.6: Ausbau der Mittelallee in der Hermann-Becker-Straße - ungeändert beschlossen
+- TOP 3.7: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 68454/04, Arbeitstitel: Südlich Ottoplatz in Köln-Deutz - ungeändert beschlossen
+- TOP 3.8: Verkehrsberuhigung Friesenstraße/Friesenwall - ungeändert beschlossen
+- TOP 3.9: Änderung der Hauptsatzung, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen - ungeändert beschlossen
+- TOP 3.10: Verkehrsversuch Deutzer Freiheit - geändert beschlossen
+- TOP 3.10.1: Gemeinsamer Änderungsantrag zur Vorlage 3444/2021 - Verkehrsversuch Deutzer Freiheit, Grüne, Klimafreunde, Die Partei - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: „Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet (Az.: 02-1600-122-21) - zurückgestellt
+- TOP 4.1.1: Änderungsantrag zu TOP 4.1- Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet , Änderungsantrag Klimafreunde - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Rad- und Fußgängerüberwege Innerer Grüngürtel (Az.: 02-1600-21/21) - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Verbesserung der Verkehrsführung Ecke Herwarthstraße/Werderstraße/Dorothee -Sölle - Platz - zurückgestellt
+- TOP 4.3.1: Änderungsantrag zu TOP 4.3-Verbesserung der Verkehrsführung Ecke Herwarthstraße/Werderstraße/Dorothee-Sölle-Platz, Änderungsantrag Klimafreunde - zurückgestellt
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Schaffung von Erholungsorten am Rheinufer (Az.: 02-1600-104/21) - zurückgestellt
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: „Autofreie Hämergasse (Az.: 02-1600-169-20) - ungeändert beschlossen
+- TOP 4.6: Bürgereingabe nach § 24 GO – „Stopp des Bauvorhabens auf dem Außengelände zweier Kindertagesstätten in der Kölner Innenstadt“ Aktenzeichen 184/21 B - abgelehnt (in der Vorberatung)
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Verkehrsberuhigung / Diagonalsperre Südliche Brüsseler Straße, gem. Antrag Grüne, Klimafreunde, Die Partei - zurückgestellt
+- TOP 5.1.2: Antrag "Fahrradparken vor städtischer Kindertagesstätte Burgunderstraße", Antrag Klima Freunde - zurückgestellt
+- TOP 5.1.3: Moltkestraße/ Brüsseler Straße/Maastrichter Straße/Brüsseler Platz- Neuordnung der Verkehre, Verkehrsberuhigung und Barrierefreiheit, gem. Antrag Grüne und Die Partei - zurückgestellt
+- TOP 5.1.3.1: Änderungsantrag "Moltkestraße/Brüsseler Straße/Maastrichter Straße/Brüsseler Platz - Neuordnung der Verkehre, Verkehrsberuhigung und Barrierefreiheit" Änderungsantrag Klima Freunde - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Pilot-Projekt Umgestaltung der Kasemattenstraße, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Übertragung der bezirksorientierten Mittel in das Haushaltsjahr 2022, gem. Antrag Grüne, SPD, CDU, Die Linke, FDP, Klimafreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.3: Begrünte Protection für Radinfrastruktur, gem. Antrag Grüne, SPD, Die Linke und Klimafreunde - ungeändert beschlossen
+- TOP 5.2.4: Radinfrastruktur nach „Kopenhagener Modell“ auf der Roonstraße, gem. Antrag Grüne, SPD, Die Linke und Klimafreunde - ungeändert beschlossen
+- TOP 5.2.5: Gastarbeiter*innen Denkmal, gem. Antrag Grüne, CDU, SPD, Die Linke, FDP, Klimafreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.6: Einrichtung einer Hundewiese, gem. Antrag CDU, SPD und FDP - ungeändert beschlossen
+- TOP 5.2.7: Sperrung des Abschnitts der Clever Straße im Bereich Theodor-Heuss-Park / Pilotumsetzung wassersensible Stadtgestaltung, gem. Antrag Grüne, Die Linke und Klimafreunde - ungeändert beschlossen
+- TOP 5.2.8: Vergabe von bezirksorientierten Mitteln für das Projekt „Ausstellung Kölner Ringe - 7 km neu gemacht“, gem. Dringlichkeitsantrag Grüne, CDU, SPD und Die Linke - ungeändert beschlossen
+- TOP 5.2.9: Anpassung Ampelschaltung Leystapel / Heumarkt, Dringlichkeitsantrag Grüne - ungeändert beschlossen
+- TOP 5.2.10: Sofortmaßnahmen am Kreisel in der Kreutzerstraße am Quäker Nachbarschaftsheim/Norbert-Burger-Bürgerzentrum (Neustadt/Nord), gem. Antrag SPD und CDU - ungeändert beschlossen
+- TOP 5.2.11: Gemeinsame Erklärung zu den öffentlichen Unterstellungen von Ordnungsamts-Leiter Wolfgang Büscher, gem Dringlichkeitsantrag Grüne, SPD, - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.2: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016) - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Zustände der KVB-Haltestellen in der Innenstadt, Anfrage CDU - zurückgestellt
+- TOP 6.2.2: Baumfällungen für Schulbauten, Anfrage Die Linke - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 7.1: Mündliche Anfrage - Konsultationskreis Außengastronomie, Anfrage Grüne - zurückgestellt
+- TOP 7.2: Mündliche Anfrage - Sachstand Runder Tisch Fort X, Anfrage CDU - zurückgestellt
+- TOP 7.3: Mündliche Anfrage - Zwischenstand Luftqualitätsuntersuchungen Weidengasse, Anfrage FDP - zurückgestellt
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Anfrage zur Bewegungsstation Trude-Herr-Park - Kenntnis genommen
+- TOP 9.2: Sperrung der Weidengasse für den MIV an den Wochenenden - Kenntnis genommen
+- TOP 9.3: Interkulturelle Zentren Köln - Übersichtskarte Stand: 1.09.2021 - Kenntnis genommen
+- TOP 9.4: KOMM-AN NRW – Landesförderprogramm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2021 - Kenntnis genommen
+- TOP 9.5: Änderungen zum Fahrplanwechsel 2021/2022 - Kenntnis genommen
+- TOP 9.6: Drehbrücke im Deutzer Hafen - Bauzeitverlängerung und Kostenerhöhung - Kenntnis genommen
+- TOP 9.7: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf (vorha-benbezogener Bebauungsplan) Nr. 664382/02 - Kenntnis genommen
+- TOP 9.8: Aufhebung öffentlicher Stellplätze in der Tempelstraße - Kenntnis genommen
+- TOP 9.9: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen
+- TOP 9.10: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
