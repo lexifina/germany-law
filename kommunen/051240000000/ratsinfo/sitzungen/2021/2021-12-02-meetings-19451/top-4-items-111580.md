@@ -1,0 +1,8 @@
+# TOP 4: Optimierung der Steuerung und Koordinierung der Baumaßnahmen bei Schulen und Kindertagesstätten
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Betriebsausschusses Gebäudemanagement (2021-12-02)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/111580
+- Ergebnis: Entgegennahme ohne Beschluss
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/51778
