@@ -1,0 +1,6 @@
+# TOP 6.2: Stellungnahme des Ortsbeirats zum Haushalt 2022
+
+- Sitzung: Ortsbeirat Großalmerode-Kernstadt (8. Sitzung) (2021-12-02)
+- Körperschaft: Stadt Großalmerode
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/grossalmerode/webservice/oparl/v1.1/body/1/agendaitem/3961
