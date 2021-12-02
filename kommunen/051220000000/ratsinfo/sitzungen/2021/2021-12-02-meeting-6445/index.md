@@ -1,0 +1,58 @@
+# Ausschuss für Kultur, Stadtmarketing und Tourismus (6. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-12-02T17:05:00+01:00
+- Ende: 2021-12-02T19:16:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-25
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZecEmfMOIOVl_G5BoBRIa7E
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6445
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Kultur, Stadtmarketing und Tourismus) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSJpHwlcseHFzGOsJ13Q4kV5Ta0WSeO99AVoKAdefpUZ/Bekanntmachung_Ausschuss_fuer_Kultur-_Stadtmarketing_und_Tourismus_02.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Kultur, Stadtmarketing und Tourismus) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVEp39Ar0wNHNgJPRq8ndomKUs6U64K2XF_oYmfktiEU/Oeffentliche_Niederschrift_Ausschuss_fuer_Kultur-_Stadtmarketing_und_Tourismus_02.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Instandsetzungen und Zukunftskonzept für das Theater und Konzerthaus
+- TOP 1.2: Fördermittel-Management im Kulturbereich
+- TOP 1.3: Perspektiven für das Kunstmuseum Solingen
+- TOP 1.4: Ausbau Mountainbiking und Ladeinfrastruktur für E-Bikes als touristische Attraktivierung für Solingen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 5. Sitzung des Ausschusses für Kultur, Stadtmarketing und Tourismus am 16.09.2021
+- TOP 4.: Theaterwerkstatt - Mündlicher Bericht -
+- TOP 5.: Konzeptförderung für Kulturelle Bildung
+- TOP 6.: Weitere Planung Neukonzeption Deutsches Klingenmuseum
+- TOP 7.: Etatberatungen für das Haushaltsjahr 2022 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2025 und des Haushaltssicherungskonzeptes 2022 ff. - mündlicher Bericht -
+- TOP 7.1: Kultur und Integration Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 28.11.2021
+- TOP 7.2: Migration und Kultur Antrag der SPD-Ratsfraktion vom 29.11.2021
+- TOP 7.3: Orga und Fördermittel Antrag der SPD-Ratsfraktion vom 01.12.2021
+- TOP 7.4: Komplementärmittel Antrag der Ratsfraktion Bündnis 90 Die Grünen vom 01.12.2021
+- TOP 7.5: Stelle Fördermittelakquise Antrag der Ratsfraktion Bündnis 90 Die Grünen vom 01.12.2021
+- TOP 8.: Konkurrenzsituation zwischen der angedachten Mehrzweckhalle "Arena Bergisch Land" (BHC-Arena) und Theater und Konzerthaus Antrag der Ratsfraktion DIE LINE.DiePARTEI vom 16.11.2021
+- TOP 9.: Wertschätzung des Vereins "Waldmeister e. V. - Raum für Kultur“ Antrag der Ratsfraktion DIE LINKE.Die PARTEI vom 17.11.2021
+- TOP 10.: Klingentrail Camping-Angebote (zur Suche und möglichen Schaffung von Stellplätzen für Wohnmobile und Wohnwagen Antrag der Ratsfraktion DIE LINKE.Die PARTEI vom 16.11.2021
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.1.1: Mensch, Kultur-Stadt Solingen! Bericht 2020/2021
+- TOP 11.1.2: Entwurf für ein Kulturgesetzbuch NRW: Stellungnahme des Städtetags NRW
+- TOP 11.1.3: Projekt „360 Grad Virtual Reality - Kultur (wieder) erleben“ - Regionale Kulturförderung LVR
+- TOP 11.2: Anfragen an die Verwaltung
+- TOP 11.3: Sonstiges
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 5. Sitzung des Ausschusses für Kultur, Stadtmarketing und Tourismus am 16.09.2021
+- TOP 4.: Bergische Symphoniker GmbH – Bestellung Abschlussprüfer für das Geschäftsjahr 2020/2021
+- TOP 5.: Jahresabschluss 2020 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 6.: Kunstmuseum Solingen Betriebsgesellschaft mbH - Einzahlung in die Kapitalrücklage für das Geschäftsjahr 2022
+- TOP 7.: Wirtschaftsplan 2022 der Zentrum für verfolgte Künste GmbH
+- TOP 8.: Wirtschaftsplan 2022 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 9.: Wirtschaftsplan 2022 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 10.: Verschiedenes
+- TOP 10.1: Mitteilungen der Verwaltung
+- TOP 10.1.1: Entwicklung des Gebietes am Walder Bahnhof
+- TOP 10.2: Anfragen an die Verwaltung
+- TOP 10.3: Sonstiges
