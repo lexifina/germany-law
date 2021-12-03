@@ -1,87 +1,79 @@
 # Verordnung der Stadt Oldenburg (Oldb) über Art, Maß und räumliche Ausdehnung der Straßenreinigung (Straßenreinigungsverordnung)
 
 - Gemeinde: Stadt Oldenburg (Oldb) (ARS 034030000000)
-- Datum: 2019-12-06 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/3.02_20200101_K_b.pdf
+- Datum: 2021-12-03 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/3.02_20220101_K_b.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-N i c h t a m t l i c h e konsolidierte L e s e f a s s u n g (Stand: 25. November 2019)
-
 3.02 Seite 1 von 63
-
+N i c h t a m t l i c h e konsolidierte L e s e f a s s u n g (Stand: 22.November 2021)
 Verordnung der Stadt Oldenburg (Oldb) über Art, Maß und räumliche Ausdehnung der Straßenreinigung (Straßenreinigungsverordnung) vom 20. November 2017
-(Amtsblatt für die Stadt Oldenburg Nummer 20 vom 1. Dezember 2017, zuletzt geändert durch Verordnung vom 25. November 2019, Amtsblatt Stadt Oldenburg Nummer 19 vom 6. Dezember 2019)
+(Amtsblatt für die Stadt Oldenburg Nummer 20 vom 1. Dezember 2017, zuletzt geändert durch Verordnung vom 22. November 2021, Amtsblatt Stadt Oldenburg Nummer 23 vom 3. Dezember 2021)
 §1 Allgemeines
 (1) Alle öffentlichen Straßen innerhalb der geschlossenen Ortslage (§ 4 Absatz 1 NStrG) unterliegen der Straßenreinigungspflicht (§ 52 Absatz 1 Satz 1 NStrG). Öffentliche Straßen in diesem Sinne sind die dem öffentlichen Verkehr gewidmeten Straßen, Wege und Plätze (§ 2 Absatz 1 NStrG). Die zu reinigenden Straßen sind in dem als Anlage beigefügten Straßenverzeichnis aufgeführt. Das Straßenverzeichnis ist Bestandteil dieser Verordnung.
-
 (2) Die Reinigungspflicht erstreckt sich auf die Fahrbahnen, Entwässerungsrinnen, Parkstreifen und Parkbuchten, Radwege, Gehwege, Grün-, Trenn-, Seiten- und Sicherheitsstreifen. Die Reinigungspflicht besteht unabhängig davon, ob und wie die einzelnen Straßenteile befestigt sind.
-
 (3) Reinigungspflichtig ist die Stadt, soweit die Reinigungspflicht nicht durch die Straßenreinigungssatzung der Stadt Oldenburg (Oldb) den Eigentümern der anliegenden bebauten und unbebauten Grundstücke und den ihnen gleichgestellten Personen übertragen ist.
-
-(1) Die Reinigungspflicht umfasst
-
 §2 Art der Reinigung
-
+(1) Die Reinigungspflicht umfasst
 a) die Beseitigung von Verunreinigungen (Schmutz, Papier, Unrat, Laub, wildwachsende Pflanzen und so weiter),
-
 b) das Schneeräumen auf Fahrbahnen, Radwegen und Gehwegen,
+c) bei Glätte das Bestreuen der Gehwege, Fußgängerüberwege und der gefährlichen Stellen auf Fahrbahnen und Radwegen mit nicht unbedeutendem Verkehr.
+(2) Besondere Verunreinigungen wie z.B. durch Bauarbeiten, durch An- und Abfahren von festen Brennstoffen und Abfällen, durch Unfälle oder Tiere sind unverzüglich zu beseitigen.
 
 3.02 Seite 2 von 63
-c) bei Glätte das Bestreuen der Gehwege, Fußgängerüberwege und der gefährlichen Stellen auf Fahrbahnen und Radwegen mit nicht unbedeutendem Verkehr.
-(2) Besondere Verunreinigungen wie z.B. durch Bauarbeiten, durch An- und Abfahren von festen Brennstoffen und Abfällen, durch Unfälle oder Tiere sind unverzüglich zu beseitigen. Trifft die Reinigungspflicht nach anderen Vorschriften des öffentlichen Rechts (z.B. § 17 Niedersächsisches Straßengesetz [NStrG]) oder § 32 Straßenverkehrsordnung [StVO]) einen Dritten, so geht dessen Pflicht zur Reinigung vor.
+Trifft die Reinigungspflicht nach anderen Vorschriften des öffentlichen Rechts (z.B. § 17 Niedersächsisches Straßengesetz [NStrG]) oder § 32 Straßenverkehrsordnung [StVO]) einen Dritten, so geht dessen Pflicht zur Reinigung vor.
 (3) Bei der Reinigung ist Staubentwicklung weitestgehend zu vermeiden. Zur Beseitigung von Wildkräutern dürfen keine Unkrautbeseitigungsmittel eingesetzt werden.
 (4) Der Kehricht darf nicht Nachbargrundstücken zugekehrt oder in Entwässerungsrinnen, Gräben und Einlaufschächte der Straßenentwässerung gekehrt werden.
 §3 Reinigung der Fahrbahnen, Entwässerungsrinnen, Parkstreifen und Parkbuchten,
-Radwege, Grün-, Trenn-, Seiten- und Sicherheitsstreifen (1) Die Fahrbahnen, Entwässerungsrinnen, Parkstreifen und Parkbuchten, Radwege, Grün-, Trenn-, Seiten- und Sicherheitsstreifen sind zu reinigen
-in Reinigungsklasse I dreizehnmal wöchentlich, in Reinigungsklasse II einmal wöchentlich, in Reinigungsklasse III und A III einmal in zwei Wochen.
+Radwege, Grün-, Trenn-, Seiten- und Sicherheitsstreifen
+(1) Die Fahrbahnen, Entwässerungsrinnen, Parkstreifen und Parkbuchten, Radwege, Grün-, Trenn-, Seiten- und Sicherheitsstreifen sind zu reinigen
+in Reinigungsklasse I dreizehnmal wöchentlich,
+in Reinigungsklasse II einmal wöchentlich,
+in Reinigungsklasse III und A III einmal in zwei Wochen.
 Die Zuordnung der Straßen zu den Reinigungsklassen ergibt sich aus dem Straßenverzeichnis.
 (2) Die nach dem 15. Oktober 1999 gewidmeten und noch nicht namentlich im Straßenverzeichnis aufgeführten Straßen innerhalb der geschlossenen Ortslage werden bis zu ihrer endgültigen Aufnahme in die Reinigungsklasse III eingeordnet.
-
-3.02 Seite 3 von 63
-§4 Reinigung der Gehwege außerhalb des Winterdienstes (1) Die Gehwege außerhalb der Fußgängerzone sind in ihrer vollen Breite 14-täglich zu reinigen; Gehbahnen gem. Absatz 2 b) in der Fußgängerzone sind im Umfang der Reinigungshäufigkeit der Reinigungsklasse I zu reinigen. Laub und andere Verschmutzungen sind unverzüglich zu beseitigen, soweit sie eine Gefährdung des Verkehrs darstellen. Die Reinigungspflichten einschließlich Winterdienst bestehen ohne Rücksicht darauf, ob und wie die Straßenteile befestigt sind.
+§4 Reinigung der Gehwege außerhalb des Winterdienstes
+(1) Die Gehwege außerhalb der Fußgängerzone sind in ihrer vollen Breite 14-täglich zu reinigen; Gehbahnen gem. Absatz 2 b) in der Fußgängerzone sind im Umfang der Reinigungshäufigkeit der Reinigungsklasse I zu reinigen. Laub und andere Verschmutzungen sind unverzüglich zu beseitigen, soweit sie eine Gefährdung des Verkehrs darstellen. Die Reinigungspflichten einschließlich Winterdienst bestehen ohne Rücksicht darauf, ob und wie die Straßenteile befestigt sind.
 (2) Als Gehwege im Sinne dieser Verordnung gelten
 a) alle Straßenteile, die von der Fahrbahn abgegrenzt und für den Fußgängerverkehr bestimmt sind. Als Abgrenzung reichen eine unterschiedliche Bodenbeschaffenheit bzw. ein unterschiedlicher Belag aus; das Vorhandensein eines Bordsteins sowie befestigter Flächen ist nicht erforderlich.
 b) Gehbahnen in 1,50 m Breite ab begehbarem Straßenrand bei allen Straßen oder Straßenteilen, deren Benutzung durch Fußgänger vorgesehen oder geboten ist.
+
+3.02 Seite 3 von 63
 c) gemeinsame Rad- und Gehwege, die nicht durch Leitlinien, verschiedenartige Pflasterung oder in anderer Weise voneinander abgegrenzt sind (§ 41 Absatz 1 in Verbindung mit Anlage 2, Abschnitt 5 Zeichen 240 StVO).
 d) Gehwege mit der Freigabe für Radfahrer (§ 41 Absatz 1 in Verbindung mit Anlage 2, Abschnitt 5 Zeichen 239 und Zusatzschild 1022-10, StVO).
-§5 Winterdienst auf Fahrbahnen und Radwegen (1) Bei Schneefall werden die von der Stadt zu reinigenden Fahrbahnen und Radwege entsprechend ihrer Verkehrsbedeutung geräumt.
+§5 Winterdienst auf Fahrbahnen und Radwegen
+(1) Bei Schneefall werden die von der Stadt zu reinigenden Fahrbahnen und Radwege entsprechend ihrer Verkehrsbedeutung geräumt.
 (2) Bei Schnee- und Eisglätte sind die gefährlichen Stellen auf Fahrbahnen und Radwegen mit nicht unbedeutendem Verkehr sowie Fußgängerüberwege zu streuen. Dabei ist der Einsatz von Salz und anderen auftauenden Stoffen so gering wie möglich zu halten; auf die Belange des Umweltschutzes - insbesondere Baumschutz - ist Rücksicht zu nehmen.
-
 §6 Winterdienst auf Gehwegen
-
-3.02 Seite 4 von 63
-
 (1) Gehwege gemäß § 4 Absatz 2 sind bei Schnee und Glätte so begehbar zu halten, dass die Fußgänger nicht mehr als nach den Umständen unvermeidbar gefährdet oder behindert werden. An Haltestellen für öffentliche Verkehrsmittel und für Schulbusse müssen die Gehwege zudem so von Schnee freigehalten und bei Glätte bestreut werden, dass ein gefahrloses Ein- und Aussteigen gewährleistet ist.
-
 (2) Gehwege mit einer geringeren Breite als 1,50 m sind ganz, die übrigen mindestens in einer Breite von 1,50 m bei Schneefall zu räumen und bei Glätte zu bestreuen. In Straßen mit einseitig vorhandenem Gehweg gemäß § 4 Absatz 2 a), c) und d) besteht für die gegenüberliegende Straßenseite in den Bereichen ohne Gehweg keine Winterdienstpflicht. Ist ein Gehweg gemäß § 4 Absatz 2 a), c) und d) auf keiner Seite vorhanden, so sind Gehbahnen gemäß § 4 Absatz 2 b) auf beiden Seiten von Schnee zu räumen und bei Glätte zu bestreuen. Dies gilt auch für die Fußgängerzone.
-
 (3) Der Winterdienst ist werktags bis 7 Uhr, samstags bis 8 Uhr, sonn- und feiertags bis 9 Uhr durchzuführen und ist bis 20 Uhr bei Bedarf unverzüglich zu wiederholen.
-
 (4) Schnee und Eis dürfen nicht so gelagert werden, dass der Verkehr auf den Fahrbahnen, den Radwegen und den Gehwegen gefährdet oder mehr als nach den Umständen unvermeidbar behindert wird. Schnee und Eis dürfen nicht Nachbargrundstücken zugekehrt oder in Entwässerungsrinnen gekehrt werden. Einlaufschächte der Straßenentwässerung und Hydranten dürfen nicht zugeschüttet werden.
-
 (5) Bei Glätte ist mit Sand oder anderen abstumpfenden Mitteln zu streuen. Salz und andere auftauende Stoffe sind grundsätzlich verboten, sie dürfen nur verwendet werden
-
 a) bei außergewöhnlichen Witterungsverhältnissen (zum Beispiel überfrierende Nässe, Eisregen), in denen die Glätte durch den Einsatz von Sand oder anderen abstumpfenden Mitteln nicht ausreichend beseitigt werden kann, und
 
+3.02 Seite 4 von 63
 b) an gefährlichen Stellen auf Gehwegen, wie zum Beispiel Treppen, Rampen, Brückenaufund -abgängen, starken Gefälle- und Steigungsstrecken und ähnlichen Gehwegabschnitten.
-
-3.02 Seite 5 von 63
 Der Einsatz von Salz und anderen auftauenden Stoffen ist so gering wie möglich zu halten. Die Kronenbereiche der Bäume und begrünte Flächen dürfen nicht mit Salz oder anderen auftauenden Stoffen bestreut, salzhaltige oder andere auftauende Stoffe enthaltender Schnee darf auf ihnen nicht gelagert werden.
-§7 Ordnungswidrigkeiten (1) Ordnungswidrig im Sinne des § 59 Nds. SOG handelt, wer als Reinigungspflichtiger vorsätzlich oder fahrlässig
+§7 Ordnungswidrigkeiten
+(1) Ordnungswidrig im Sinne des § 59 Nds. SOG handelt, wer als Reinigungspflichtiger vorsätzlich oder fahrlässig
 a) entgegen § 2 dieser Verordnung die ihm obliegenden Reinigungspflichten hinsichtlich der Art der Reinigung in dem festgelegten Umfang nicht erfüllt,
 b) entgegen den §§ 3, 4 dieser Verordnung das festgelegte Maß und die räumliche Ausdehnung der ihm obliegenden Reinigungspflicht nicht beachtet,
 c) entgegen den §§ 5, 6 dieser Verordnung die ihm obliegenden Pflichten des Winterdienstes nach Art und Umfang nicht ordnungsgemäß durchführt
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße gem. § 59 Absatz 2 Nds. SOG geahndet werden.
-§ 8 *) Inkrafttreten Diese Verordnung tritt am 1. Januar 2018 in Kraft. Gleichzeitig tritt die Straßenreinigungsverordnung der Stadt Oldenburg (Oldb) vom 21. November 2016 außer Kraft.
-*) Die Änderungsverordnung vom 26. November 2018, durch die das Straßenverzeichnis und die Präambel geändert wurde, ist am 1. Januar 2019 in Kraft getreten. Die Änderungsverordnung vom 25. November 2019, durch die das Straßenverzeichnis ergänzt wurde, ist am 1. Januar 2020 in Kraft getreten.
+§ 8 *) Inkrafttreten
+Diese Verordnung tritt am 1. Januar 2018 in Kraft. Gleichzeitig tritt die Straßenreinigungsverordnung der Stadt Oldenburg (Oldb) vom 21. November 2016 außer Kraft.
+*) Die Änderungsverordnung vom 26. November 2018, durch die das Straßenverzeichnis und die Präambel geändert wurde, ist am 1. Januar 2019 in Kraft getreten.
+Die Änderungsverordnung vom 25. November 2019, durch die das Straßenverzeichnis ergänzt wurde, ist am 1. Januar 2020 in Kraft getreten.
+Die Änderungsverordnung vom 22.November 2021, durch die das Straßenverzeichnis geändert wurde, ist am 01.01.2022 in Kraft getreten.
 
-3.02 Seite 6 von 63
+3.02 Seite 5 von 63
 Anlage zur Verordnung der Stadt Oldenburg (Oldb) über Art, Maß und räumliche Ausdehnung der Straßenreinigung (Straßenreinigungsverordnung)
 
-Straßenverzeichnis, Fassung: 1. Januar 2020
+Straßenverzeichnis, Fassung: 1. Januar 2022
 
 Reinigungsklasse I dreizehnmal wöchentlich, Reinigungsklasse II einmal wöchentlich, Reinigungsklasse III einmal in zwei Wochen.
 
@@ -109,18 +101,22 @@ Achternstraße
 
 A III Achtern Wittemoor
 
+II
+
+Achtersteven
+
 III Ackerstraße
 
 III Acordialstraße
 
 III Adalbert-Stifter-Straße
 
-III Adelheidstraße
-
 Abschnitt
 von Haus Nr. 3 bis Hundsmühler Straße einschließlich Verbindungsweg zwischen Achterdiek und Mitteldamm
 
 RK Straße
+
+III Adelheidstraße
 
 III Adenauerallee
 
@@ -162,6 +158,8 @@ III Altburgstraße
 
 III Alte Amalienstraße
 
+III Alte Fleiwa
+
 III Alteneschstraße
 
 A III Alteneschstraße
@@ -176,28 +174,26 @@ II
 
 Alter Postweg
 
+Abschnitt
+
+3.02 Seite 6 von 63
+
+von Hundsmühler Straße bis Haus Nr.25 von Haus Nr. 27 bis Hogenkamp
+
+von Ulmenstraße bis Dedestraße von Dedestraße bis Ende
+von Klingenbergstraße bis Meerweg
+
+RK Straße
+
 A III Alter Postweg
 
 II
 
 Alter Stadthafen
 
-Abschnitt
-
-3.02 Seite 7 von 63
-
-von Hundsmühler Straße bis Haus Nr.25 von Haus Nr. 27 bis Hogenkamp
-
-von Ulmenstraße bis Dedestraße von Dedestraße bis Ende
-von Klingenbergstraße bis Meerweg von Meerweg bis Thomas-Mann-Straße von Stau bis Ankerstraße
-
-RK Straße
-
 III Alte Weide
 
 III Am Alexanderhaus
-
-A III Am Alexanderhaus
 
 II
 
@@ -217,9 +213,13 @@ A III Am Born
 
 A III Am Brink
 
+III Am Cäcilienhof
+
 A III Am Dornbusch
 
 A III Am Drielaker Kanal
+
+A III Am Evelsmoor
 
 II
 
@@ -241,6 +241,15 @@ A III Am Karuschenteich
 
 III Am Kreyenhof
 
+A III Am Meere
+
+3.02 Seite 7 von 63
+Abschnitt von Meerweg bis Thomas-Mann-Straße von Stau bis Ankerstraße einschließlich Verbindungsweg zur Kiesgrubenstraße
+von Bremer Heerstraße bis Kiebitzweg Nebenweg
+Nebenwege
+
+RK Straße
+
 II
 
 Ammergaustraße
@@ -257,12 +266,9 @@ III Am Pulverturm
 
 A III Am Sande
 
-3.02 Seite 8 von 63
-Abschnitt ohne Verbindungsweg von Am Stadtrand bis Großmarktstraße von Großmarktstraße bis Alexanderstraße
-von Bremer Heerstraße bis Kiebitzweg Nebenweg
-Nebenwege
+A III Am Scheibenplatz
 
-RK Straße A III Am Scheibenplatz III Am Schießstand
+III Am Schießstand
 
 A III Am Schießstand
 
@@ -302,24 +308,21 @@ II
 
 Am Tegelbusch
 
-A III Am Tegelbusch III Am Wallplacken III Am Wasserturm A III Am Wemkenhof A III Am Wendehafen A III Am Wendhafen (Wanderweg)
-
-III Am Wienhof A III Am Wüschemeer
+A III Am Tegelbusch III Am Wallplacken III Am Wasserturm
 
 Abschnitt
 
-3.02 Seite 9 von 63
+3.02 Seite 8 von 63
 
-von Teebkengang bis einschließlich BAB-Brücke von BAB-Brücke bis Bodenburgallee
-
-von Sprungweg bis Haus Nr. 62
-
-von Ofenerdieker Straße bis Am Alexanderhaus von Am Alexanderhaus bis Ende mit Verlängerung ab HausNr. 7
+von Teebkengang bis einschließlich BAB-Brücke von BAB-Brücke bis Bodenburgallee von Sprungweg bis Haus Nr. 62
+von Ofenerdieker Straße bis Am Alexanderhaus von Am Alexanderhaus bis Ende mit Verlängerung ab Haus Nr. 7
 von Ammerländer Heerstraße bis Rotdornstraße von Rotdornstraße bis Haus Nr. 55
 
-von Huntestraße entlang dem Hafen bis zur Doktorsklappe
+RK Straße A III Am Wemkenhof A III Am Wendehafen A III Am Wendhafen (Wanderweg)
 
-RK Straße
+III Am Wienhof
+
+A III Am Wüschemeer
 
 III Am Zollbaum
 
@@ -375,6 +378,19 @@ II
 
 An der Schmiede
 
+Abschnitt
+
+3.02 Seite 9 von 63
+
+von Huntestraße entlang dem Hafen bis zur Doktorsklappe
+
+von Gerberhof bis Lasiusstraße von Lasiusstraße bis Ende
+Nebenweg
+
+Nebenwege in nördlicher und in westlicher Richtung
+
+RK Straße
+
 III Andersenstraße
 
 A III An der Südbäke
@@ -385,18 +401,6 @@ A III Angelweg
 
 III Angerweg
 
-Abschnitt
-
-3.02 Seite 10 von 63
-
-von Gerberhof bis Lasiusstraße von Lasiusstraße bis Ende
-
-Nebenweg
-
-Nebenwege in nördlicher und in westlicher Richtung
-
-RK Straße
-
 II
 
 Ankerstraße
@@ -404,6 +408,8 @@ Ankerstraße
 A III Annabergstraße
 
 III Annette-von-Droste-Hülshoff-Straße
+
+A III Annette-von-Droste-Hülshoff-Straße
 
 III Anton-Günther-Straße
 
@@ -419,7 +425,7 @@ A III Arnsteder Weg
 
 III Arnswalder Straße
 
-III Arp-Schnitker-Straße
+III Arp-Schnitger-Straße
 
 II
 
@@ -441,9 +447,16 @@ August-Hanken-Straße
 
 A III August-Hanken-Straße
 
-I
+Abschnitt
 
-August-Hinrichs-Hof
+3.02 Seite 10 von 63
+
+ohne Verbindungsweg zwischen TheodorFontane-Straße und Ende vom Hausgrundstück Theodor-Fontane-Straße Haus Nr. 3
+Verbindungsweg zwischen Theodor-FontaneStraße und Ende vom Hausgrundstück Theodor-Fontane-Straße Haus Nr. 3
+
+von Donnerschweer Straße bis Haus Nr. 55 von Haus Nr. 58 bis Loyerender Weg
+
+RK Straße
 
 III August-Hinrichs-Straße
 
@@ -460,15 +473,6 @@ August-Wilhelm-Kühnholz-Straße
 II
 
 Auguststraße
-
-Abschnitt
-
-3.02 Seite 11 von 63
-
-von Donnerschweer Straße bis Haus Nr. 55 von Haus Nr. 58 bis Loyerender Weg
-einschließlich Verlängerung ab dem Rohdenweg
-
-RK Straße
 
 II
 
@@ -524,6 +528,14 @@ I
 
 Baumgartenstraße
 
+Abschnitt
+
+3.02 Seite 11 von 63
+
+einschließlich Verlängerung ab dem Rohdenweg
+
+RK Straße
+
 II
 
 Baumschulenweg
@@ -539,14 +551,6 @@ III Beethovenstraße
 A III Bei den Erlen
 
 A III Behrens-Ring
-
-Abschnitt
-
-3.02 Seite 12 von 63
-
-von Bürgerbuschweg bis Wendeplatz von Wendeplatz bis Ende
-
-RK Straße
 
 III Bekassinenweg
 
@@ -596,6 +600,13 @@ A III Birkenhof
 
 III Birkenweg
 
+3.02 Seite 12 von 63
+Abschnitt von Bürgerbuschweg bis Wendeplatz von Wendeplatz bis Ende
+von Akazienstraße bis Wienstraße von Wienstraße bis Ende
+von Postenweg bis Salbeistraße von Salbeistraße bis Uhlhornsweg
+
+RK Straße
+
 A III Birkhuhnweg
 
 II
@@ -613,16 +624,6 @@ A III Bloherfelder Anger
 II
 
 Bloherfelder Straße
-
-Abschnitt
-
-3.02 Seite 13 von 63
-
-von Akazienstraße bis Wienstraße von Wienstraße bis Ende
-von Postenweg bis Salbeistraße von Salbeistraße bis Uhlhornsweg
-von Holler Landstraße bis Haus Nr. 73 von Stau bis Haus Nr. 5 ab einschließlich Haus Nr. 5 bis Ende
-
-RK Straße
 
 A III Bloher Kamp
 
@@ -670,6 +671,19 @@ A III Braker Weg
 
 A III Brakmannsweg
 
+Abschnitt
+
+3.02 Seite 13 von 63
+
+von Holler Landstraße bis Haus Nr. 73 von Stau bis Haus Nr. 5 ab einschließlich Haus Nr. 5 bis Ende
+
+von Stedinger Straße bis Schuleinfahrt von Schuleinfahrt bis Ende von Peterstraße bis Auguststraße von Auguststraße bis Philosophenweg
+
+von Hopfenweg bis Ehnkenweg von Ehnkenweg bis Ende
+von Tweelbäker Tredde bis Haus Nr. 13
+
+RK Straße
+
 II
 
 Brandenburger Straße
@@ -687,18 +701,6 @@ III Breewaterweg
 II
 
 Bremer Heerstraße
-
-Abschnitt
-
-3.02 Seite 14 von 63
-
-von Stedinger Straße bis Schuleinfahrt von Schuleinfahrt bis Ende von Peterstraße bis Auguststraße von Auguststraße bis Philosophenweg
-
-von Hopfenweg bis Ehnkenweg von Ehnkenweg bis Ende
-von Tweelbäker Tredde bis Haus Nr. 13
-von Willehadweg bis Pirolweg von Osterkampsweg bis einschließlich Haus Nr. 3 von An den Voßbergen bis Wendeplatz von Bremer Straße bis An der Schmiede
-
-RK Straße
 
 II
 
@@ -748,6 +750,21 @@ II
 
 Bürgerbuschweg
 
+Abschnitt
+
+3.02 Seite 14 von 63
+
+von Willehadweg bis Pirolweg
+von Osterkampsweg bis einschließlich Haus Nr. 3
+
+von An den Voßbergen bis Wendeplatz von Bremer Straße bis An der Schmiede
+
+von Haus Nr. 66 a bis Westerholtsweg von Dorfweg bis Haus Nr. 69 von Alexanderstraße bis Rauhehorst von Rauhehorst bis Ende
+einschließlich Nebenweg
+von Alexanderstraße bis Scheideweg
+
+RK Straße
+
 A III Bürgerbuschweg
 
 III Bürgereschstraße
@@ -765,17 +782,6 @@ A III Bultenweg
 II
 
 Bundesbahnweg
-
-Abschnitt
-
-3.02 Seite 15 von 63
-
-von Haus Nr. 66 a bis Westerholtsweg von Dorfweg bis Haus Nr. 69 von Alexanderstraße bis Rauhehorst von Rauhehorst bis Ende
-einschließlich Nebenweg
-von Alexanderstraße bis Scheideweg von Scheideweg bis Sackhofsweg
-von Hochheider Weg bis Haus Nr. 12 nach Haus Nr. 12 bis Donnerschweer Straße
-
-RK Straße
 
 III Burenkamp
 
@@ -823,6 +829,15 @@ II
 
 Carl-Friedrich-Gauß-Straße
 
+3.02 Seite 15 von 63
+Abschnitt von Scheideweg bis Sackhofsweg
+von Hochheider Weg bis Haus Nr. 12 nach Haus Nr. 12 bis Donnerschweer Straße
+von Rudolf-Diesel-Straße bis Wendeplatz von Wunderburgstraße bis Rudolf-DieselStraße von Cloppenburger Straße bis Niedersachsendamm von Niedersachsendamm bis Haus Nr. 39
+von Bahnhofsallee bis Haus Nr. 49
+von Donnerschweer Straße bis Geestkamp und von Botterkamp bis Ernst-LöwensteinStraße von Chaukenstraße bis Christian-Runde-Weg von Christian-Runde-Weg bis Nadorster Straße
+
+RK Straße
+
 A III Carl-Friedrich-Spieske-Straße
 
 A III Carl-Heinrich-Slevogt-Straße
@@ -839,15 +854,7 @@ III Chaukenstraße
 
 III Chemnitzer Straße
 
-Abschnitt
-
-3.02 Seite 16 von 63
-
-von Rudolf-Diesel-Straße bis Wendeplatz von Wunderburgstraße bis Rudolf-DieselStraße von Cloppenburger Straße bis Niedersachsendamm von Niedersachsendamm bis Haus Nr. 39
-von Bahnhofsallee bis Haus Nr. 49
-von Donnerschweer Straße bis Geestkamp und von Botterkamp bis Ernst-LöwensteinStraße von Chaukenstraße bis Christian-Runde-Weg von Christian-Runde-Weg bis Nadorster Straße
-
-RK Straße A III Choletstraße
+A III Choletstraße
 
 III Christian-Runde-Weg
 
@@ -895,6 +902,15 @@ II
 
 Dedestraße
 
+Abschnitt
+
+3.02 Seite 16 von 63
+
+einschließlich Verbindungsweg zur AlbertSchweitzer-Straße
+Nebenwege Verbindungsweg von Cloppenburger Straße bis Am Stübenhaus
+
+RK Straße
+
 III Deelweg
 
 A III Denkmalsweg
@@ -908,14 +924,6 @@ III Dianastraße
 III Diedrich-Brinkmann-Straße
 
 A III Diedrich-Brinkmann-Straße
-
-3.02 Seite 17 von 63
-Abschnitt einschließlich Verbindungsweg zur AlbertSchweitzer-Straße
-Nebenwege Verbindungsweg von Cloppenburger Straße bis Am Stübenhaus
-von Sandkruger Straße bis Haus Nr. 29
-ohne verkehrsberuhigten Bereich verkehrsberuhigter Bereich
-
-RK Straße
 
 III Dießelweg
 
@@ -953,30 +961,18 @@ A III Dreschkamp
 
 III Dresdener Straße
 
-III Drielaker Heide
-
-A III Drielaker Heide
-
-III Drielaker Straße
-
-A III Dringenburger Straße
-
-A III Drögen-Hasen-Weg
-
-A III Drohnenweg
-
-III Dr.-Behring-Straße
-
 Abschnitt
 
-3.02 Seite 18 von 63
+3.02 Seite 17 von 63
+
+von Sandkruger Straße bis Haus Nr. 29
+
+ohne verkehrsberuhigten Bereich verkehrsberuhigter Bereich
 
 von Cloppenburger Straße bis Haus Nr. 11 und Haus Nr. 25 bis Cloppenburger Straße Grundstück Dohlenweg 10 Verbindungsweg von Kanalstraße zum Am Wendehafen und ringförmig entlang dem Hafen
 von Pferdemarkt bis Neue Donnerschweer Straße und von Neue Donnerschweer Straße bis Elsflether Straße von Neue Donnerschweer Straße bis Neue Donnerschweer Straße
 
-Nebenweg beginnend ab Haus Nr. 24 von Ammerländer Heerstraße bis Heynesweg
-
-RK Straße A III Dr.-Erich-Dannemann-Straße III Dr.-Hans-Klüber-Straße III Dr.-Sauerbruch-Straße
+RK Straße III Drielaker Heide A III Drielaker Heide III Drielaker Straße A III Dringenburger Straße A III Drögen-Hasen-Weg A III Drohnenweg III Dr.-Behring-Straße A III Dr.-Erich-Dannemann-Straße III Dr.-Hans-Klüber-Straße III Dr.-Sauerbruch-Straße
 
 A III Dr.-Sauerbruch-Straße
 
@@ -1010,6 +1006,22 @@ Edewechter Landstraße
 
 III Eduard-Möricke-Straße
 
+Abschnitt
+
+3.02 Seite 18 von 63
+
+Nebenweg beginnend ab Haus Nr. 24
+
+von Ammerländer Heerstraße bis Heynesweg
+
+von Wilhelm-Krüger-Straße bis einschließlich Wendehammer
+Von Wendehammer bis Nadorster Straße
+
+von Klingenbergstraße bis Schmidt-RottluffStraße und von Bümmersteder Tredde bis Sprungweg von Schmidt-Rottluff-Straße bis Bümmersteder Tredde
+von Eichenstraße bis An der Fuchsbäke
+
+RK Straße
+
 A III Eekenhorst
 
 III Efeustraße
@@ -1027,18 +1039,6 @@ Ehnkenweg
 A III Ehrenpreisweg
 
 A III Eibenweg
-
-Abschnitt
-
-3.02 Seite 19 von 63
-
-von Wilhelm-Krüger-Straße bis einschließlich Wendehammer
-Von Wendehammer bis Nadorster Straße
-
-von Klingenbergstraße bis Schmidt-RottluffStraße und von Bümmersteder Tredde bis Sprungweg von Schmidt-Rottluff-Straße bis Bümmersteder Tredde
-von Eichenstraße bis An der Fuchsbäke
-
-RK Straße
 
 A III Eichendorffstraße
 
@@ -1088,6 +1088,14 @@ I
 
 Elisenstraße
 
+Abschnitt
+
+3.02 Seite 19 von 63
+
+Nebenwege beginnend ab Haus Nr. 24 und 29
+
+RK Straße
+
 A III Ellenbogen
 
 A III Ellernbrok
@@ -1103,14 +1111,6 @@ Elsässer Straße
 A III Elsternweg
 
 III Emilie-Oltmanns-Straße
-
-Abschnitt
-
-3.02 Seite 20 von 63
-
-Nebenwege beginnend ab Haus Nr. 24 und 29
-
-RK Straße
 
 III Emil-Nolde-Straße
 
@@ -1154,6 +1154,15 @@ Escherweg
 
 III Eschstraße
 
+Abschnitt
+
+3.02 Seite 20 von 63
+
+Nebenwege
+von Butjadinger Straße bis Beginn verkehrsberuhigter Bereich verkehrsberuhigter Bereich Nebenwege
+
+RK Straße
+
 II
 
 Eßkamp
@@ -1171,19 +1180,6 @@ III Eutiner Straße
 II
 
 Ewigkeit
-
-Abschnitt
-
-3.02 Seite 21 von 63
-
-Nebenwege
-
-von Butjadinger Straße bis Beginn verkehrsberuhigter Bereich verkehrsberuhigter Bereich
-Nebenwege
-
-von Cloppenburger Straße bis
-
-RK Straße
 
 III Ewigkeit III Eylersweg A III Eylersweg A III Fahrenkamp A III Falkenweg III Falklandstraße III Familie-Mechau-Straße A III Farnweg A III Fasanenweg A III Fehmarner Ring A III Feldahornweg
 
@@ -1203,14 +1199,31 @@ III Ferdinand-von-Schill-Straße
 
 A III Ferdinand-von-Schill-Straße
 
-III Feststraße III Fichtenstraße III Finkenweg A III Fliederweg III Fliednerstraße A III Flötenstraße A III Flogsand
+Abschnitt
 
-3.02 Seite 22 von 63
-Abschnitt An den Voßbergen von An den Voßbergen bis Ende von Bremer Heerstraße bis Falkenweg von Falkenweg bis Ende
-einschließlich der ersten 25 m des Verbindungsweges zum Querweg mit Nebenweg
+3.02 Seite 21 von 63
+
+von Cloppenburger Straße bis An den Voßbergen von An den Voßbergen bis Ende von Bremer Heerstraße bis Falkenweg von Falkenweg bis Ende
+
+einschließlich der ersten 25 m des Verbindungsweges zum Querweg
+mit Nebenweg
 von Nettelbeckstraße bis Wendeplatz Weg zwischen Wendeplatz und Bloherfelder Straße
 
 RK Straße
+
+III Feststraße
+
+III Fichtenstraße
+
+III Finkenweg
+
+A III Fliederweg
+
+III Fliednerstraße
+
+A III Flötenstraße
+
+A III Flogsand
 
 III Florianstraße
 
@@ -1260,6 +1273,12 @@ A III Friedrich-Christoph-Dahlmann-Straße
 
 III Friedrich-Ebert-Straße
 
+Abschnitt Nebenweg
+
+3.02 Seite 22 von 63
+
+RK Straße
+
 III Friedrich-Naumann-Straße
 
 III Friedrich-Rüder-Straße
@@ -1268,6 +1287,10 @@ A III Friedrich-Schohusen-Straße
 
 III Friedrichstraße
 
+II
+
+Friedrich-Wilhelm-Deus-Straße
+
 III Friesenstraße
 
 III Frieslandstraße
@@ -1275,12 +1298,6 @@ III Frieslandstraße
 II
 
 Fritz-Bock-Straße
-
-Abschnitt Nebenweg
-
-3.02 Seite 23 von 63
-
-RK Straße
 
 III Fritz-Reuter-Straße
 
@@ -1328,6 +1345,14 @@ II
 
 Gasweg
 
+Abschnitt
+
+3.02 Seite 23 von 63
+
+Nebenweg von Wendeplatz bis Sperberweg
+
+RK Straße
+
 III Gaußstraße
 
 III Gebkenweg
@@ -1347,14 +1372,6 @@ II
 Georgstraße
 
 A III Georg-von-der-Vring-Straße
-
-Abschnitt
-
-3.02 Seite 24 von 63
-
-Nebenweg von Wendeplatz bis Sperberweg
-
-RK Straße
 
 II
 
@@ -1400,24 +1417,21 @@ II
 
 Gneisenaustraße
 
-III Goerdelerstraße
-
-III Görlitzer Straße
-
-A III Görlitzer Straße
-III Goethestraße III Göttinger Straße III Gografenweg
-
 Abschnitt
 
-3.02 Seite 25 von 63
+3.02 Seite 24 von 63
 
 einschließlich Verlängerung ab Haus Nr. 44
 
-von Siebenbürger Straße bis Hadersleber Straße und von Hultschiner Straße bis Brookweg
-von Hadersleber Straße bis
-Hultschiner Straße
+RK Straße III Goerdelerstraße III Görlitzer Straße
 
-RK Straße
+A III Görlitzer Straße
+
+III Goethestraße
+
+III Göttinger Straße
+
+III Gografenweg
 
 III Goldammerweg
 
@@ -1461,6 +1475,16 @@ III Grenadierweg
 
 A III Grillenweg
 
+Abschnitt
+
+3.02 Seite 25 von 63
+
+von Siebenbürger Straße bis Hadersleber Straße und von Hultschiner Straße bis Brookweg
+von Hadersleber Straße bis
+Hultschiner Straße
+
+RK Straße
+
 A III Gristeder Straße
 
 III Groninger Straße
@@ -1482,12 +1506,6 @@ III Grünberger Straße
 II
 
 Grüne Straße
-
-Abschnitt
-
-3.02 Seite 26 von 63
-
-RK Straße
 
 III Grünteweg
 
@@ -1535,6 +1553,15 @@ A III Häherweg
 
 III Händelstraße
 
+Abschnitt
+
+3.02 Seite 26 von 63
+
+von Auguststraße bis Franz-Poppe-Straße von Franz-Poppe-Straße bis Wendeplatz
+von Ehnernstraße bis An de Bullwisch von An de Bullwisch bis Scheideweg
+
+RK Straße
+
 I
 
 Häusing
@@ -1545,17 +1572,11 @@ A III Hagelmannsweg
 
 A III Hainbuchenweg
 
-A III Halsbeker Straße III Hamelmannstraße A III Hannah-Höch-Straße
+A III Halsbeker Straße
 
-Abschnitt
+III Hamelmannstraße
 
-3.02 Seite 27 von 63
-
-von Auguststraße bis Franz-Poppe-Straße von Franz-Poppe-Straße bis Wendeplatz
-von Ehnernstraße bis An de Bullwisch von An de Bullwisch bis Scheideweg
-einschließlich Verbindungsweg zum Feldahornweg
-
-RK Straße
+A III Hannah-Höch-Straße
 
 A III Hansa-Ring
 
@@ -1579,6 +1600,8 @@ A III Harmsweg
 
 III Harreweg
 
+A III Harreweg
+
 A III Hartenkamp
 
 A III Hartenscher Damm
@@ -1594,6 +1617,19 @@ II
 Haselriege
 
 A III Haselriege
+
+Abschnitt
+
+3.02 Seite 27 von 63
+
+einschließlich Verbindungsweg zum Feldahornweg
+
+Nebenweg
+
+Nebenweg von Haus Nr. 51 bis Haus Nr. 93
+bis Haus Nr. 94 von Wilhelmshavener Heerstraße bis Haus Nr. 26 von Haus Nr. 30 bis Butjadinger Straße von Haseler Weg bis Wendeplatz von Etzhorner Weg bis Haselriege (ausgebauter Teil)
+
+RK Straße
 
 III Hasenpadd
 
@@ -1616,17 +1652,6 @@ A III Hebbelstraße
 A III Hechtstraße
 
 A III Heckengang
-
-Abschnitt
-
-3.02 Seite 28 von 63
-
-Nebenweg
-
-bis Haus Nr. 94 von Wilhelmshavener Heerstraße bis Haus Nr. 26 von Haus Nr. 30 bis Butjadinger Straße von Haseler Weg bis Wendeplatz von Etzhorner Weg bis Haselriege (ausgebauter Teil)
-von Sandweg bis Haus Nr. 8
-
-RK Straße
 
 A III Hedwigstraße
 
@@ -1668,33 +1693,17 @@ A III Heinrich-Campendonk-Straße
 
 A III Heinrich-Diers-Straße
 
-A III Heinrich-Früstück-Straße
-
-A III Heinrich-Krahnstöver-Straße
-
-A III Heinrich-Kunst-Straße
-
-A III Heinrich-Renken-Straße
-
-A III Heinrich-Sandstede-Straße
-
-III Heinrich-Schütte-Straße
-
-III Heinrich-Strack-Straße
-
-A III Heinrich-Strack-Straße
-
 Abschnitt
 
-3.02 Seite 29 von 63
+3.02 Seite 28 von 63
+
+von Sandweg bis Haus Nr. 8
 
 von Heiligengeistwall bis 91er Straße von 91er Straße bis Ecke Alexander-/Nadorster Straße
 
-einschließlich Nebenwege
-von Dwaschweg bis Haus Nr. 2/Beginn verkehrsberuhigter Bereich
-von Haus Nr. 2/Beginn verkehrsberuhigter Bereich bis Ende
+RK Straße A III Heinrich-Früstück-Straße A III Heinrich-Krahnstöver-Straße A III Heinrich-Kunst-Straße A III Heinrich-Renken-Straße A III Heinrich-Sandstede-Straße III Heinrich-Schütte-Straße III Heinrich-Strack-Straße
 
-RK Straße
+A III Heinrich-Strack-Straße
 
 A III Heinrichstraße
 
@@ -1734,6 +1743,17 @@ A III Hermann-Allmers-Weg
 
 III Hermann-Ehlers-Straße
 
+Abschnitt
+
+3.02 Seite 29 von 63
+
+einschließlich Nebenwege von Dwaschweg bis Haus Nr. 2/Beginn verkehrsberuhigter Bereich von Haus Nr. 2/Beginn verkehrsberuhigter Bereich bis Ende
+Nebenwege von Gebkenweg bis Haus Nr. 21 von Haus Nr. 25 bis Zuschlag
+von Kornstraße bis Fliednerstraße von Bremer Heerstraße bis Zaunkönigstraße von Zaunkönigstraße bis Ende von Sandweg bis Haus Nr. 62
+Nebenweg zwischen Haus Nr. 5 und 6
+
+RK Straße
+
 A III Hermann-Kayser-Weg
 
 A III Hermann-Oncken-Weg
@@ -1753,20 +1773,6 @@ II
 Herrenweg
 
 III Herrenweg
-
-Abschnitt
-
-3.02 Seite 30 von 63
-
-Nebenwege von Gebkenweg bis Haus Nr. 21 von Haus Nr. 25 bis Zuschlag
-
-von Kornstraße bis Fliednerstraße von Bremer Heerstraße bis Zaunkönigstraße von Zaunkönigstraße bis Ende von Sandweg bis Haus Nr. 62
-
-Nebenweg zwischen Haus Nr. 5 und 6
-
-von Schulstraße bis Breslauer Straße von Breslauer Straße bis Bremer Heerstraße
-
-RK Straße
 
 A III Hertzstraße
 
@@ -1808,6 +1814,16 @@ II
 
 Hoffkamp
 
+Abschnitt
+
+3.02 Seite 30 von 63
+
+von Schulstraße bis Breslauer Straße von Breslauer Straße bis Bremer Heerstraße
+
+von Nadorster Straße bis Rennplatzstraße von Rennplatzstraße bis Butjadinger Straße von Haus Nr. 3 bis Bloher Kamp
+
+RK Straße
+
 III Hogenkamp
 
 A III Hogenkamp
@@ -1827,16 +1843,6 @@ III Holtzinger Straße
 A III Holunderweg
 
 III Holzweg
-
-Abschnitt
-
-3.02 Seite 31 von 63
-
-von Nadorster Straße bis Rennplatzstraße von Rennplatzstraße bis Butjadinger Straße von Haus Nr. 3 bis Bloher Kamp
-von Hundsmühler Straße bis Dachsweg von Dachsweg bis Schlagbaumweg
-von Stedinger Straße bis Werrastraße
-
-RK Straße
 
 A III Hooptsweg
 
@@ -1876,6 +1882,13 @@ II
 
 Hundsmühler Straße
 
+3.02 Seite 31 von 63
+Abschnitt von Hundsmühler Straße bis Dachsweg von Dachsweg bis Schlagbaumweg
+von Stedinger Straße bis Werrastraße
+von Spätenweg bis Haus Nr. 35 von Haus Nr. 36 bis Ende
+
+RK Straße
+
 III Hunsrücker Straße
 
 III Huntemannstraße
@@ -1895,16 +1908,6 @@ III Ibo-Koch-Straße
 III Ibsenstraße
 
 III Idar-Obersteiner-Straße
-
-Abschnitt
-
-3.02 Seite 32 von 63
-
-von Spätenweg bis Haus Nr. 35 von Haus Nr. 36 bis Ende
-
-von Damm bis Stautorkreisel von Stautorkreisel bis Nikolausstraße
-
-RK Straße
 
 A III Iltisweg
 
@@ -1934,6 +1937,10 @@ A III Im Ried
 
 III Im Schilf
 
+II
+
+Im Technologiepark
+
 A III Im Uhlenhorst
 
 A III Im Wiesengrund
@@ -1941,6 +1948,16 @@ A III Im Wiesengrund
 A III Im Wunderhorn
 
 III Ina-Seidel-Straße
+
+Abschnitt
+
+3.02 Seite 32 von 63
+
+von Damm bis Stautorkreisel von Stautorkreisel bis Nikolausstraße
+
+von Ahlkenweg bis Haus Nr. 26
+
+RK Straße
 
 A III In der Allmende
 
@@ -1964,15 +1981,11 @@ II
 
 Jägerstraße
 
+A III Jägerstraße
+
 III Jagdweg
 
 III Jahnstraße
-
-3.02 Seite 33 von 63
-Abschnitt von Ahlkenweg bis Haus Nr. 26
-und Nebenwege
-
-RK Straße
 
 III Jakobistraße
 
@@ -2010,11 +2023,23 @@ II
 
 Junkerburg
 
+Abschnitt
+
+3.02 Seite 33 von 63
+
+Nebenweg zwischen Haus Nr. 20 und 22 a
+
+von Pophankenweg bis Buswendeplatz von Buswendeplatz bis Ende
+
+RK Straße
+
 II
 
 Junkerstraße
 
 III Junkerstraße
+
+A III Justin-Hüppe-Ring
 
 III Justus-von-Liebig-Straße
 
@@ -2038,14 +2063,23 @@ III Kanalstraße
 
 III Kandinskystraße
 
-Abschnitt
+A III Kandinskystraße
 
-3.02 Seite 34 von 63
+III Kanonierstraße
 
-von Pophankenweg bis Buswendeplatz von Buswendeplatz bis Ende
-von Bürgerstraße bis Junkerburg von Bürgereschstraße bis Bürgerstraße Nebenweg
+III Kantstraße
 
-RK Straße A III Kandinskystraße III Kanonierstraße III Kantstraße A III Kardinal-von-Galen-Straße A III Karl-Arnold-Straße A III Karl-Bunje-Straße A III Karl-Jaspers-Weg A III Karlsbadstraße III Karlstraße
+A III Kardinal-von-Galen-Straße
+
+A III Karl-Arnold-Straße
+
+A III Karl-Bunje-Straße
+
+A III Karl-Jaspers-Weg
+
+A III Karlsbadstraße
+
+III Karlstraße
 
 II
 
@@ -2058,6 +2092,15 @@ A III Karuschenweg
 II
 
 Kasernenstraße
+
+3.02 Seite 34 von 63
+Abschnitt von Bürgerstraße bis Junkerburg von Bürgereschstraße bis Bürgerstraße
+Nebenweg
+Nebenwege
+bis Haus Nr. 33
+von Donnerschweer Straße bis Neue Donnerschweer Straße von Neue Donnerschweer Straße bis Straßburger Straße
+
+RK Straße
 
 I
 
@@ -2091,17 +2134,6 @@ A III Kernbeißerring
 
 A III Kerschensteinerstraße
 
-Abschnitt Nebenwege
-
-3.02 Seite 35 von 63
-
-bis Haus Nr. 33
-von Donnerschweer Straße bis Neue Donnerschweer Straße von Neue Donnerschweer Straße bis Straßburger Straße
-
-von Edewechter Landstraße bis Lerigauweg von Lerigauweg bis Im Ried von Im Ried bis Wendeplatz
-
-RK Straße
-
 A III Kiebitzweg
 
 A III Kiefernweg
@@ -2134,6 +2166,18 @@ III Kleestraße
 
 III Kleiberstraße
 
+Abschnitt
+
+3.02 Seite 35 von 63
+
+von Edewechter Landstraße bis Lerigauweg von Lerigauweg bis Im Ried von Im Ried bis Wendeplatz
+
+von Kuckucksweg bis Haus Nr. 5
+
+RK Straße
+
+A III Kleiberstraße
+
 A III Klein-Bornhorster-Straße
 
 I
@@ -2156,17 +2200,11 @@ Klingenbergstraße
 
 A III Klingenbergstraße
 
-III Klosterstraße A III Klusweg III Kneippstraße
+III Klosterstraße
 
-Abschnitt
+A III Klusweg
 
-3.02 Seite 36 von 63
-
-von Kuckucksweg bis Haus Nr. 5
-einschließlich Nebenweg zwischen Haus Nr. 31 und 37a
-Nebenwege zwischen Haus Nr. 158 und 170 und Haus Nr. 182 und 184
-
-RK Straße
+III Kneippstraße
 
 I
 
@@ -2198,6 +2236,13 @@ III Kopenhagener Straße
 
 A III Kopernikusstraße
 
+3.02 Seite 36 von 63
+Abschnitt Verlängerung nach Haus Nr. 5 bis Ende
+einschließlich Nebenweg zwischen Haus Nr. 31 und 37a
+Nebenwege zwischen Haus Nr. 158 und 170 und Haus Nr. 182 und 184
+
+RK Straße
+
 III Koppelstraße
 
 A III Koppelweide
@@ -2228,13 +2273,15 @@ Kreyenstraße
 
 III Kriegerstraße
 
-Abschnitt
+III Krögerskamp
 
-3.02 Seite 37 von 63
+A III Krokusweg
 
-Nebenweg
+III Kronstädter Straße
 
-RK Straße III Krögerskamp A III Krokusweg III Kronstädter Straße A III Kronsbeerenweg III Krumme Straße
+A III Kronsbeerenweg
+
+III Krumme Straße
 
 A III Krumme Straße
 
@@ -2248,11 +2295,18 @@ II
 
 Küpkersweg
 
-III Küstriner Straße
+III Küstriner Straße A III Kuhlenkamp A III Kummerkamp
 
-A III Kuhlenkamp
+Abschnitt
 
-A III Kummerkamp
+3.02 Seite 37 von 63
+
+Nebenweg
+
+von Edewechter Landstraße bis Pestalozzistraße von Pestalozzistraße bis Wendeplatz
+von Ammerländer Heerstraße bis Marie-Curie-Straße
+
+RK Straße
 
 III Kurlandallee
 
@@ -2282,21 +2336,11 @@ II
 
 Lambertistraße
 
+A III Lammweg
+
 A III Landweg
 
 A III Landwehrstraße
-
-Abschnitt
-
-3.02 Seite 38 von 63
-
-von Edewechter Landstraße bis Pestalozzistraße von Pestalozzistraße bis Wendeplatz
-von Ammerländer Heerstraße bis Marie-Curie-Straße
-
-von Bahnhofsallee bis Haus Nr. 7 d Ringstraße und Nebenwege
-Fußweg
-
-RK Straße
 
 II
 
@@ -2330,17 +2374,15 @@ A III Lehmplacken
 
 III Leibnitzstraße
 
-A III Leinweg
+Abschnitt
 
-III Leipziger Straße
+3.02 Seite 38 von 63
 
-A III Lenzweg
+von Bahnhofsallee bis Haus Nr. 7 d Ringstraße und Nebenwege
+Fußweg
+von Prinzessinweg bis Rummelweg von Rummelweg bis Ratsherr-SchulzeStraße von Bremer Heerstraße bis Haus Nr. 30 ab einschließlich Haus Nr. 30 bis Herrenweg
 
-III Leobschützer Straße
-
-A III Leon-Bukofzer-Straße
-
-III Leo-Trepp-Straße
+RK Straße A III Leinweg III Leipziger Straße A III Lenzweg III Leobschützer Straße A III Leon-Bukofzer-Straße III Leo-Trepp-Straße
 
 A III Leo-Trepp-Straße
 
@@ -2360,17 +2402,9 @@ III Lesumstraße
 
 A III Leuchtenburger Straße
 
-Abschnitt
+A III Leuschnerstraße
 
-3.02 Seite 39 von 63
-
-von Prinzessinweg bis Rummelweg von Rummelweg bis Ratsherr-SchulzeStraße
-von Bremer Heerstraße bis Haus Nr. 30 ab einschließlich Haus Nr. 30 bis Herrenweg
-
-von Marienstraße bis Wendekreis und von Katharinenstraße bis Wendekreis von Haus Nr. 3 bis Haus Nr. 17
-Nebenweg
-
-RK Straße A III Leuschnerstraße A III Libellenweg
+A III Libellenweg
 
 III Liegnitzer Straße
 
@@ -2396,51 +2430,26 @@ A III Löwenzahnweg
 
 A III Logemannskamp
 
-III Londoner Straße
+Abschnitt
 
-III Lothringer Straße
+3.02 Seite 39 von 63
 
-A III Louise-Schroeder-Straße
+von Marienstraße bis Wendekreis und von Katharinenstraße bis Wendekreis von Haus Nr. 3 bis Haus Nr. 17
+Nebenweg
+einschließlich der ersten 30 m des Verbindungsweges zur Hechtstraße
 
-III Ludwig-Erhard-Straße
-
-A III Ludwig-Freese-Straße
-
-A III Ludwig-Kaas-Straße
-
-A III Ludwig-Klingenberg-Weg
-
-A III Ludwig-Quidde-Weg
-
-A III Ludwig-Strack-Straße
-
-III Ludwigstraße
-
-A III Lübskamp
-
-A III Lüntjenweg
-
-III Lüttichstraße
-
-A III Lustgarten
+RK Straße III Londoner Straße III Lothringer Straße A III Louise-Schroeder-Straße III Ludwig-Erhard-Straße A III Ludwig-Freese-Straße A III Ludwig-Kaas-Straße A III Ludwig-Klingenberg-Weg A III Ludwig-Quidde-Weg A III Ludwig-Strack-Straße III Ludwigstraße A III Lübskamp A III Lüntjenweg III Lüttichstraße A III Lustgarten III Luxemburger Straße III Luzernenstraße A III Magnolienring A III Maienweg A III Malvenweg A III Mansholter Straße III Marburger Straße A III Marderweg III Margarete-Gramberg-Straße III Margaretenstraße III Maria-Montessori-Straße III Maria-von-Jever-Straße
 
 Abschnitt
 
 3.02 Seite 40 von 63
 
-einschließlich der ersten 30 m des Verbindungsweges zur Hechtstraße
-
 einschließlich Nebenwege
+von Ahlkenweg bis Haus Nr. 23 von Mittelkamp bis Beginn verkehrsberuhigter Bereich
 
-RK Straße III Luxemburger Straße III Luzernenstraße A III Magnolienring A III Maienweg A III Malvenweg A III Mansholter Straße III Marburger Straße A III Marderweg III Margarete-Gramberg-Straße III Margaretenstraße III Maria-Montessori-Straße III Maria-von-Jever-Straße
+RK Straße A III Maria-von-Jever-Straße
 
-A III Maria-von-Jever-Straße
-
-III Marie-Curie-Straße
-
-A III Marie-Juchacz-Ring
-
-III Marienstraße
+III Marie-Curie-Straße A III Marie-Juchacz-Ring III Marienstraße
 
 I
 
@@ -2468,16 +2477,6 @@ A III Matthias-Claudius-Straße
 
 A III Matthias-Erzberger-Straße
 
-Abschnitt
-
-3.02 Seite 41 von 63
-
-von Ahlkenweg bis Haus Nr. 23
-von Mittelkamp bis Beginn verkehrsberuhigter Bereich verkehrsberuhigter Bereich einschließlich Nebenweg zu Haus Nr. 4 bis 6
-von Hauptstraße bis Sodenstich von Sodenstich bis Wendekreis
-
-RK Straße
-
 II
 
 Max-Beckmann-Straße
@@ -2500,9 +2499,15 @@ Meerweg
 
 III Meerweg
 
-III Meeschweg
+III Meeschweg A III Mehlbeerenweg
 
-A III Mehlbeerenweg
+3.02 Seite 41 von 63
+Abschnitt verkehrsberuhigter Bereich einschließlich Nebenweg zu Haus Nr. 4 bis 6
+Von Friedensplatz bis einschließlich Haus Nr. 15 a von Hauptstraße bis Sodenstich von Sodenstich bis Wendekreis
+von Klingenbergstraße bis Schmidt-RottluffStraße von Schmidt-Rottluff-Straße bis Wendeplatz Nebenwege
+von Sandkruger Straße bis Alter Postweg von Alter Postweg bis Wilhelm-KempinStraße
+
+RK Straße
 
 II
 
@@ -2542,12 +2547,9 @@ A III Mistelweg
 
 III Mittagsweg
 
-3.02 Seite 42 von 63
-Abschnitt von Klingenbergstraße bis Schmidt-RottluffStraße von Schmidt-Rottluff-Straße bis Wendeplatz Nebenwege
-von Sandkruger Straße bis Alter Postweg von Alter Postweg bis Wilhelm-KempinStraße
-einschließlich Nebenwege
+A III Mittelgang
 
-RK Straße A III Mittelgang III Mittelkamp
+III Mittelkamp
 
 A III Mittelkamp
 
@@ -2570,6 +2572,17 @@ II
 Moltkestraße
 
 A III Moorweg
+
+Abschnitt
+
+3.02 Seite 42 von 63
+
+einschließlich Nebenwege
+
+von Wilhelmshavener Heerstraße bis Wendeplatz von Haus Nr. 80 bis Butjadinger Straße von Siebenbürger Straße bis Brookweg von Brookweg bis Ende
+einschließlich Verlängerung zur CharlotteDettling-Straße
+
+RK Straße
 
 A III Moosweg
 
@@ -2607,18 +2620,7 @@ A III Mümmelmannsweg
 
 III Münnichstraße
 
-Abschnitt
-
-3.02 Seite 43 von 63
-
-von Wilhelmshavener Heerstraße bis Wendeplatz von Haus Nr. 80 bis Butjadinger Straße von Siebenbürger Straße bis Brookweg von Brookweg bis Ende
-
-einschließlich Verlängerung zur CharlotteDettling-Straße
-
-von Wilhelmshavener Heerstraße bis Rennplatzstraße von Rennplatzstraße bis Westeresch
-Nebenweg
-
-RK Straße
+III Münnichstraße
 
 A III Münsterberger Straße
 
@@ -2638,11 +2640,18 @@ Nadorster Straße
 
 III Nedderend
 
-A III Nedderlandsweg
+A III Nedderlandsweg A III Neenkamp A III Neißer Straße
 
-A III Neenkamp
+Abschnitt
 
-A III Neißer Straße
+3.02 Seite 43 von 63
+
+von Wilhelmshavener Heerstraße bis Rennplatzstraße von Rennplatzstraße bis Westeresch
+Nebenweg
+Verlängerung von Haus Nr. 23 bis Ende von Langenweg bis Haus Nr. 85
+von Alexanderstraße bis zum Wendekreis und von Rauhehorst bis zum Wendekreis
+
+RK Straße
 
 III Nelkenstraße
 
@@ -2680,19 +2689,6 @@ A III Nikolaikirchweg
 
 A III Nikolaus-Bernett-Straße
 
-Abschnitt
-
-3.02 Seite 44 von 63
-
-von Langenweg bis Haus Nr. 85
-
-von Alexanderstraße bis zum Wendekreis und von Rauhehorst bis zum Wendekreis
-
-einschließlich Nebenweg
-von Hundsmühler Straße bis Wendekreis von Wendekreis bis Zinzendorfstraße
-
-RK Straße
-
 III Nikolausstraße
 
 III Nimrodweg
@@ -2705,15 +2701,17 @@ Nobelstraße
 
 A III Nobelstraße
 
-A III Nollstraße
+A III Nollstraße III Nordenhamer Weg A III Norderdiek A III Norderneyer Straße III Norderstraße A III Nordring
 
-III Nordenhamer Weg
+Abschnitt
 
-A III Norderdiek
+3.02 Seite 44 von 63
 
-III Norderstraße
+einschließlich Nebenweg
+von Hundsmühler Straße bis Wendekreis von Wendekreis bis Zinzendorfstraße
+von der Bloherfelder Straße bis zur MartinBuber-Straße nach der Einmündung der Martin-BuberStraße bis zum Ende einschließlich Nebenweg
 
-A III Nordring
+RK Straße
 
 II
 
@@ -2751,21 +2749,6 @@ III Oppelner Straße
 
 A III Orfenweg
 
-Abschnitt
-
-3.02 Seite 45 von 63
-
-von der Bloherfelder Straße bis zur MartinBuber-Straße
-nach der Einmündung der Martin-BuberStraße bis zum Ende
-einschließlich Nebenweg
-
-von Amalienstraße bis Stedinger Straße von Uferstraße bis Amalienstraße
-
-von Weißenmoorstraße bis Paul-TantzenStraße
-von Paul-Tantzen-Straße bis Am Strehl
-
-RK Straße
-
 A III Oskar-Homt-Straße
 
 A III Oskar-Schlemmer-Straße
@@ -2791,6 +2774,14 @@ III Ostlandstraße
 III Ostring
 
 A III Ostring
+
+3.02 Seite 45 von 63
+Abschnitt von Amalienstraße bis Stedinger Straße von Uferstraße bis Amalienstraße
+von Weißenmoorstraße bis Paul-TantzenStraße von Paul-Tantzen-Straße bis Am Strehl
+von Eichenstraße bis Im Ried von Im Ried bis Buswendeplatz
+Nebenwege
+
+RK Straße
 
 III Ostweg
 
@@ -2826,18 +2817,6 @@ III Pasteurstraße
 
 A III Paula-Modersohn-Becker-Straße
 
-Abschnitt
-
-3.02 Seite 46 von 63
-
-von Eichenstraße bis Im Ried von Im Ried bis Buswendeplatz
-Nebenwege von Donnerschweer Straße bis Haus Nr. 9b von Haus Nr. 9b bis Wehdestraße
-einschließlich Nebenwege
-Nebenwege
-von Haus Nr. 35 bis Londoner Straße von Bürgerbuschweg bis Haus Nr. 33 a/b
-
-RK Straße
-
 A III Paul-Bonatz-Straße
 
 A III Paul-Klee-Straße
@@ -2865,6 +2844,20 @@ II
 Peterstraße
 
 A III Pfänderweg
+
+Abschnitt
+
+3.02 Seite 46 von 63
+
+von Donnerschweer Straße bis Haus Nr. 9b von Haus Nr. 9b bis Wehdestraße
+
+einschließlich Nebenwege
+
+Nebenwege
+
+von Haus Nr. 35 bis Londoner Straße von Bürgerbuschweg bis Haus Nr. 33 a/b
+
+RK Straße
 
 III Pfauenstraße
 
@@ -2908,14 +2901,6 @@ Platz an der Donnerschweer
 
 Straße/Ecke Wehdestraße
 
-Abschnitt
-
-3.02 Seite 47 von 63
-
-von Dragonerstraße bis Haus Nr. 22 von Haus Nr. 24 bis Schiebenkamp
-
-RK Straße
-
 II
 
 Platz an der Grünen Straße
@@ -2945,6 +2930,15 @@ II
 Prinzessinweg
 
 III Proppingstraße
+
+Abschnitt
+
+3.02 Seite 47 von 63
+
+von Dragonerstraße bis Haus Nr. 22 von Haus Nr. 24 bis Schiebenkamp
+von Ammerländer Heerstraße bis einschließlich Kreisverkehr nach Haus Nr. 8 und Nebenweg zwischen Haus Nr. 3/17 bis zum Wendekreis
+
+RK Straße
 
 A III Quellenweg
 
@@ -2984,14 +2978,6 @@ II
 
 Ratsherr-Schulze-Straße
 
-Abschnitt
-
-3.02 Seite 48 von 63
-
-von Ammerländer Heerstraße bis einschließlich Haus Nr. 8 und Nebenweg zwischen Haus Nr. 3/17 bis zum Wendekreis
-
-RK Straße
-
 II
 
 Rauhehorst
@@ -3017,6 +3003,14 @@ III Rembrandtstraße
 II
 
 Rennplatzstraße
+
+Abschnitt
+
+3.02 Seite 48 von 63
+
+von Sandweg bis Haus Nr. 22 von Nadorster Straße bis Butjadinger Straße
+
+RK Straße
 
 A III Rennplatzstraße
 
@@ -3052,18 +3046,6 @@ III Robert-von-Mayer-Straße
 
 A III Robert-von-Mayer-Straße
 
-Abschnitt
-
-3.02 Seite 49 von 63
-
-von Sandweg bis Haus Nr. 22
-von Nadorster Straße bis Butjadinger Straße von Butjadinger Straße bis Elsflether Straße
-
-von Bümmersteder Tredde bis Harreweg
-Meerweg bis Durchfahrtsperre beim Umspannwerk
-
-RK Straße
-
 A III Rodenkirchener Weg
 
 A III Röntgenstraße
@@ -3095,6 +3077,13 @@ A III Rosenbohmsweg
 II
 
 Rosenstraße
+
+3.02 Seite 49 von 63
+Abschnitt von Butjadinger Straße bis Elsflether Straße
+von Bümmersteder Tredde bis Harreweg Meerweg bis Durchfahrtsperre beim Umspannwerk
+von Bremer Heerstraße bis Georg-BöltsStraße
+
+RK Straße
 
 III Rosmarinweg
 
@@ -3130,14 +3119,6 @@ III Rügenwalder Straße
 
 III Rüstringer Straße
 
-Abschnitt
-
-3.02 Seite 50 von 63
-
-von Bremer Heerstraße bis Georg-BöltsStraße
-
-RK Straße
-
 III Rüthningstraße
 
 II
@@ -3145,6 +3126,8 @@ II
 Rummelweg
 
 III Rummelweg
+
+A III Rund Achtern
 
 III Ruseler Straße
 
@@ -3161,6 +3144,15 @@ A III Sackhofsweg
 III Salbeistraße
 
 III Sandberg
+
+Abschnitt
+
+3.02 Seite 50 von 63
+
+von Ofener Straße bis Tirpitzstraße von Tirpitzstraße bis Tannenstraße von Lindenstraße bis Sternstraße von Sternstraße bis Ende
+Sackgasse ab Haus Nr. 87
+
+RK Straße
 
 A III Sanddornweg
 
@@ -3186,22 +3178,9 @@ III Sandweg
 
 A III Sandweg III Schäferstraße A III Schäpersweg
 
-III Schafgarbenweg A III Schafgarbenweg
+III Schafgarbenweg
 
-Abschnitt
-
-3.02 Seite 51 von 63
-
-von Ofener Straße bis Tirpitzstraße von Tirpitzstraße bis Tannenstraße von Lindenstraße bis Sternstraße von Sternstraße bis Ende
-
-Sackgasse ab Haus Nr. 87
-
-von Cloppenburger Straße bis An den Voßbergen von An den Voßbergen bis Haus Nr. 27 von Haus Nr. 29 bis Ende von Cloppenburger Straße bis Dorfweg
-von Schulstraße bis einschließlich Buswendeplatz (Haus Nr. 134) nach dem Buswendeplatz bis Haus Nr. 310
-einschließlich des Verbindungsweges von Haus Nr. 19a bis zur Haselriege und von Haus Nr. 18 bis zum Spielplatzgelände
-Nebenwege
-
-RK Straße
+A III Schafgarbenweg
 
 III Schafjückenweg
 
@@ -3226,6 +3205,21 @@ III Schellenberg
 A III Schellenberg
 
 A III Schiebenkamp
+
+Abschnitt
+
+3.02 Seite 51 von 63
+
+von Cloppenburger Straße bis An den Voßbergen von An den Voßbergen bis Haus Nr. 27 von Haus Nr. 29 bis Ende von Cloppenburger Straße bis Dorfweg
+
+von Schulstraße bis einschließlich Buswendeplatz (Haus Nr. 134) nach dem Buswendeplatz bis Haus Nr. 310
+einschließlich des Verbindungsweges von Haus Nr. 19a bis zur Haselriege und von Haus Nr. 18 bis zum Spielplatzgelände
+Nebenwege von Am Strehl bis Ostring
+von Bloherfelder Straße bis Gneisenaustraße von Gneisenaustraße bis Ende
+von Bremer Heerstraße bis Südweg
+Nebenweg nach Haus Nr. 162 von Alter Postweg bis Suhrkamp von Suhrkamp bis Wilhelm-Weber-Straße
+
+RK Straße
 
 III Schifferstraße
 
@@ -3269,20 +3263,6 @@ I
 
 Schmale Straße
 
-Abschnitt von Am Strehl bis Ostring
-
-3.02 Seite 52 von 63
-
-von Bloherfelder Straße bis Gneisenaustraße von Gneisenaustraße bis Ende
-
-von Bremer Heerstraße bis Südweg
-
-Nebenweg nach Haus Nr. 162 von Alter Postweg bis Suhrkamp von Suhrkamp bis Wilhelm-Weber-Straße
-
-bis einschließlich Wendekreis südlicher Abschnitt ab dem Wendekreis
-
-RK Straße
-
 II
 
 Schmidt-Rottluff-Straße
@@ -3312,6 +3292,16 @@ Schütte-Lanz-Straße
 I
 
 Schüttingstraße
+
+Abschnitt
+
+3.02 Seite 52 von 63
+
+bis einschließlich Wendekreis südlicher Abschnitt ab dem Wendekreis
+
+Nebenwege
+
+RK Straße
 
 II
 
@@ -3349,14 +3339,6 @@ III Seggenweg
 
 A III Semperstraße
 
-Abschnitt Nebenwege
-
-3.02 Seite 53 von 63
-
-Nebenwege zwischen Haus Nr. 48 und 50 und zwischen Haus Nr. 103 und 107
-
-RK Straße
-
 III Shakespearestraße
 
 A III Sieben Berge
@@ -3381,36 +3363,21 @@ III Sonnenkampstraße
 
 III Sonnenstraße
 
-A III Sonnentauweg
-
-III Sophienstraße
-
-III Sophie-Schütte-Straße
-
-III Spätenweg
-
-III Spechtweg
-
-III Spencerstraße
-
-III Sperberweg
-
-A III Sperberweg
-
-A III Sperlingsweg III Spezaweg A III Spittweg III Sportweg A III Spreenweg
-
-A III Sprungweg A III Staakenweg
-
 Abschnitt
 
-3.02 Seite 54 von 63
+3.02 Seite 53 von 63
+
+Nebenwege zwischen Haus Nr. 48 und 50 und zwischen Haus Nr. 103 und 107
 
 von Haus Nr. 61 bis Ende
 
-von An den Voßbergen bis Kneippstraße von Kneippstraße bis Waldkauzweg (gegenüber Sportplatz)
-einschließlich Verbindungsweg bis Meeschweg
+RK Straße A III Sonnentauweg III Sophienstraße III Sophie-Schütte-Straße III Spätenweg III Spechtweg III Spencerstraße III Sperberweg A III Sperberweg
 
-RK Straße
+A III Sperlingsweg III Spezaweg A III Spittweg III Sportweg A III Spreenweg
+
+A III Sprungweg
+
+A III Staakenweg
 
 A III Stadtfeld
 
@@ -3442,11 +3409,16 @@ Staustraße
 
 II
 
-Stautorkreisel
-
-II
-
 Stedinger Straße
+
+Abschnitt
+
+3.02 Seite 54 von 63
+
+von An den Voßbergen bis Kneippstraße von Kneippstraße bis Waldkauzweg (gegenüber Sportplatz)
+einschließlich Verbindungsweg bis Meeschweg
+
+RK Straße
 
 III Steenkenweg
 
@@ -3482,12 +3454,6 @@ III Störtebekerstraße
 
 A III Storchweg
 
-Abschnitt
-
-3.02 Seite 55 von 63
-
-RK Straße
-
 III Strackerjanstraße
 
 A III Stralsunder Straße
@@ -3518,7 +3484,15 @@ A III Südweg
 
 III Suhrkamp
 
+Abschnitt
+
+3.02 Seite 55 von 63
+
+RK Straße
+
 III Taastruper Straße
+
+A III Tami-Oelfken-Straße
 
 III Tangastraße
 
@@ -3532,16 +3506,21 @@ II
 
 Tappenbeckstraße
 
-III Tappenbeckstraße III Taubenstraße A III Tautstraße A III Teebkengang III Tegelkamp A III Tegelkamp III Teichhuhnweg III Teichstraße
+III Tappenbeckstraße
 
-Abschnitt
+III Taubenstraße
 
-3.02 Seite 56 von 63
+A III Tautstraße
 
-einschließlich Nebenwege von Ratsherr-Schulze-Straße bis Hindenburgstraße von Hindenburgstraße bis Unter den Eichen
-von Hundsmühler Straße bis Haus Nr. 20 von Haus Nr. 22 bis Ende
+A III Teebkengang
 
-RK Straße
+III Tegelkamp
+
+A III Tegelkamp
+
+III Teichhuhnweg
+
+III Teichstraße
 
 II
 
@@ -3569,7 +3548,17 @@ A III Theodor-Storm-Straße
 
 III Theodor-Wabnitz-Straße
 
-III Thomasburg
+Abschnitt
+
+3.02 Seite 56 von 63
+
+einschließlich Nebenwege von Ratsherr-Schulze-Straße bis Hindenburgstraße von Hindenburgstraße bis Unter den Eichen
+von Hundsmühler Straße bis Haus Nr. 20 von Haus Nr. 22 bis Ende
+Nebenweg zwischen den Hausnummern 20 und 24
+
+Nebenweg
+
+RK Straße III Thomasburg
 
 A III Thomasburg
 
@@ -3601,18 +3590,7 @@ A III Torsholter Straße
 
 III Trakehnenstraße
 
-Abschnitt
-
-3.02 Seite 57 von 63
-
-Nebenweg zwischen den Hausnummern 20 und 24
-
-Nebenweg
-
-von Edewechter Landstraße bis Sandfurter Weg
-von Sandfurter Weg bis Bäkeweg
-
-RK Straße A III Triftweg
+A III Triftweg
 
 II
 
@@ -3638,6 +3616,13 @@ II
 
 Uhlhornsweg
 
+3.02 Seite 57 von 63
+Abschnitt von Edewechter Landstraße bis Sandfurter Weg von Sandfurter Weg bis Bäkeweg
+von Wilhelmshavener Heerstraße bis Etzhorner Weg
+von Am Schmeel bis Schaumkrautweg
+
+RK Straße
+
 II
 
 Ulmenstraße
@@ -3651,6 +3636,8 @@ III Unter den Linden
 II
 
 Unterm Berg
+
+A III Up de Wührden
 
 II
 
@@ -3675,13 +3662,6 @@ III Vördemöhlen
 A III Vogelstange
 
 III Von-Alten-Weg
-
-3.02 Seite 58 von 63
-Abschnitt von Wilhelmshavener Heerstraße bis Etzhorner Weg
-von Am Schmeel bis Schaumkrautweg
-von Rauhehorst bis Dietrichsweg von Dietrichsweg bis Johann-Justus-Weg
-
-RK Straße
 
 III Von-Berger-Straße
 
@@ -3709,6 +3689,16 @@ III Von-Müller-Straße
 
 A III Von-Schrenck-Straße
 
+Abschnitt
+
+3.02 Seite 58 von 63
+
+von Rauhehorst bis Dietrichsweg von Dietrichsweg bis Johann-Justus-Weg
+
+von Bürgerstraße bis Graf-Spee-Straße von Goethestraße bis Bürgerstraße
+
+RK Straße
+
 III Von-Thünen-Straße
 
 III Voßstraße
@@ -3735,6 +3725,8 @@ II
 
 Wallgraben
 
+A III Wallheckenring
+
 I
 
 Wallstraße
@@ -3747,16 +3739,9 @@ II
 
 Wardenburgstraße
 
-Abschnitt
+A III Warnsweg
 
-3.02 Seite 59 von 63
-
-von Bürgerstraße bis Graf-Spee-Straße von Goethestraße bis Bürgerstraße
-
-einschließlich Zufahrt zum Parkhaus
-von Wilhelm-Raabe-Straße bis einschließlich Haus Nr. 7
-
-RK Straße A III Warnsweg III Waterender Weg
+III Waterender Weg
 
 A III Waterender Weg
 
@@ -3776,17 +3761,15 @@ Wehdestraße
 
 III Weidamm
 
-A III Weidenstraße
+Abschnitt
 
-III Weidenstraße
+3.02 Seite 59 von 63
 
-A III Weidweg
+einschließlich Zufahrt zum Parkhaus von Wilhelm-Raabe-Straße bis einschließlich Haus Nr. 7
+von Donnerschweer Straße bis Eisenbahnschienen von Eisenbahnschienen bis August-HankenStraße
+Nebenweg
 
-A III Weimarer Straße
-
-A III Weiselweg
-
-A III Weißenmoorstraße
+RK Straße A III Weidenstraße III Weidenstraße A III Weidweg A III Weimarer Straße A III Weiselweg A III Weißenmoorstraße
 
 II
 
@@ -3816,28 +3799,32 @@ Westeresch
 
 III Westerholtsweg
 
-Abschnitt
+A III Westerholtsweg
+
+A III Westersteder Straße
+
+III Westerstraße
+
+III Wichelnstraße
+
+III Wichernstraße
+
+A III Wichmannsweg
+
+A III Wickenweg
+
+A III Widderweg
+
+III Widukindstraße
+
+A III Wiefelsteder Straße
 
 3.02 Seite 60 von 63
-
-von Donnerschweer Straße bis Eisenbahnschienen
-von Eisenbahnschienen bis August-HankenStraße
-
-Nebenweg
-
-von Schützenhofstraße bis Wendeplatz ohne Haus Nr. 60 bis 68
+Abschnitt von Schützenhofstraße bis Wendeplatz ohne Haus Nr. 60 bis 68
 von Wilhelmshavener Heerstraße bis Scheideweg von Scheideweg bis Bahnhof Ofenerdiek
+von Sandkruger Straße bis Brokforster Weg von Sandkruger Straße bis Sprungweg
 
-von Sandkruger Straße bis Brokforster Weg
-
-RK Straße A III Westerholtsweg A III Westersteder Straße III Westerstraße III Wichelnstraße III Wichernstraße A III Wichmannsweg A III Wickenweg A III Widderweg III Widukindstraße A III Wiefelsteder Straße III Wiemkenhofsweg III Wiener Straße III Wienstraße A III Wieselweg III Wiesenstraße III Wildenlohsdamm A III Wildenlohsdamm A III Wilhelm-Ahlhorn-Weg III Wilhelm-Busch-Straße A III Wilhelm-Degode-Weg A III Wilhelm-Kempin-Straße III Wilhelm-Krüger-Straße A III Wilhelm-Morgner-Straße III Wilhelm-Nieberg-Straße III Wilhelm-Raabe-Straße A III Wilhelm-Raabe-Straße
-
-3.02 Seite 61 von 63
-Abschnitt von Sandkruger Straße bis Sprungweg
-von Bloherfelder Straße bis Buswendeplatz von Buswendeplatz bis Haus Nr. 87
-einschließlich Nebenwege von Sodenstich bis Wendekreis Verlängerung von Wendekreis bis Haus Nr. 73
-
-RK Straße
+RK Straße III Wiemkenhofsweg III Wiener Straße III Wienstraße A III Wieselweg III Wiesenstraße III Wildenlohsdamm A III Wilhelm-Ahlhorn-Weg III Wilhelm-Busch-Straße A III Wilhelm-Degode-Weg A III Wilhelm-Kempin-Straße III Wilhelm-Krüger-Straße A III Wilhelm-Morgner-Straße III Wilhelm-Nieberg-Straße III Wilhelm-Raabe-Straße A III Wilhelm-Raabe-Straße
 
 A III Wilhelm-Weber-Straße
 
@@ -3868,6 +3855,15 @@ Willy-Brandt-Platz
 A III Willi-Trinne-Straße
 
 III Windmühlenweg
+
+Abschnitt
+
+3.02 Seite 61 von 63
+
+von Bloherfelder Straße bis Ziegelweg
+einschließlich Nebenwege von Sodenstich bis Wendekreis Verlängerung von Wendekreis bis Haus Nr. 73 von Nadorster Straße bis Sieben Berge
+
+RK Straße
 
 A III Windröschenweg
 
@@ -3901,16 +3897,6 @@ A III Yorckstraße
 
 A III Zanderweg
 
-Abschnitt
-
-3.02 Seite 62 von 63
-
-von Nadorster Straße bis Sieben Berge
-
-einschließlich Nebenwege
-
-RK Straße
-
 III Zaunkönigstraße
 
 A III Zedernweg
@@ -3927,25 +3913,25 @@ II
 
 Ziegelhofstraße
 
+A III Ziegelweg
+
 III Zietenstraße
 
 III Zillestraße
 
 A III Zinzendorfstraße
 
-A III Züricher Straße
+Abschnitt
 
-III Zuschlag
+3.02 Seite 62 von 63
 
-A III Zuschlag
+einschließlich Nebenwege
+von Johannisstraße bis Auguststraße von Auguststraße bis Friedhofsweg
 
-A III Zweigstraße
-
-A III Zypressenweg
+RK Straße A III Züricher Straße III Zuschlag A III Zuschlag A III Zweigstraße A III Zypressenweg
 
 Abschnitt
 
 3.02 Seite 63 von 63
 
-von Johannisstraße bis Auguststraße von Auguststraße bis Friedhofsweg
 von Eßkamp bis Haus Nr. 18 von Haus Nr. 20 bis Gebkenweg
