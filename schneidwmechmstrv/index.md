@@ -1,4 +1,4 @@
-# Verordnung über die Meisterprüfung in den Teilen I und II im Schneidwerkzeugmechaniker-Handwerk
+# Verordnung über die Meisterprüfung in den Teilen I und II im Präzisionswerkzeugmechaniker-Handwerk
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gegenstand](0001.md)

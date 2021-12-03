@@ -1,4 +1,4 @@
-# Verordnung über die Meisterprüfung in den Teilen I und II im Betonstein- und Terrazzohersteller-Handwerk
+# Verordnung über die Meisterprüfung in den Teilen I und II im Werkstein- und Terrazzohersteller-Handwerk
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gegenstand](0001.md)

@@ -1,6 +1,4 @@
-# Verordnung über das Meisterprüfungsberufsbild und über die
-Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im
-Landmaschinenmechaniker-Handwerk
+# Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gliederung und Inhalt der Meisterprüfung](0001.md)
