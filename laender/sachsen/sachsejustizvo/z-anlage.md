@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 5 Absatz 1 Satz 1)
+# Anlage (zu § 5 Absatz 1 Satz 1)
 Gerichte und Verfahrensarten
 Nummer | Gericht
 Nummer | Gericht
@@ -12,3 +12,13 @@ Nummer | Gericht
 8. | Landgericht Chemnitz
 9. | Landgericht Görlitz
 10. | Oberlandesgericht Dresden
+11. | Sächsisches Landessozialgericht
+12. | Amtsgericht Borna
+13. | Amtsgericht Eilenburg
+14. | Amtsgericht Grimma
+15. | Amtsgericht Torgau
+16. | Amtsgericht Dippoldiswalde
+17. | Amtsgericht Meißen
+18. | Amtsgericht Pirna
+19. | Amtsgericht Riesa
+20. | Landgericht Leipzig
