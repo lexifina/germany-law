@@ -1,0 +1,7 @@
+# TOP 3.: Städtebauförderprogramm „Wachstum und nachhaltige Erneuerung“ (vorher: Zukunft Stadtgrün) für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: Information über den aktuellen Sachstand des Friedhofsentwicklungskonzeptes
+
+- Sitzung: Haupt - und Finanzausschuss (11. Sitzung) (2021-12-06)
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/agendaitem/7646
+- Beratung: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/consultation/4684
