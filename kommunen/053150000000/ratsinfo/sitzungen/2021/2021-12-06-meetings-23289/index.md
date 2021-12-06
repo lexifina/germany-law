@@ -1,0 +1,80 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-12-06T16:00:00+01:00
+- Ende: 2021-12-06T16:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23289
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23289
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Neugestaltung der Parkfläche in der Höhe Zülpicherstr. 305-309 (Az.: 02-1600-168-21) - endgültig abgelehnt
+- TOP 5.1.1: Ersetzungsantrag zu 5.1 - ungeändert beschlossen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Entfernung 2 PKW-Stellplätze Ostlandstraße/An der Alten Post - geändert beschlossen
+- TOP 5.2.1: Ergänzungsantrag zu 5.2. - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Bedarf an Quartiersgaragen im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Planungsstand Skatepark Widdersdorf - zurückgestellt
+- TOP 7.2.2: Plakatieren Dürener Str. - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Aufgaben aus der Petition zu Bahnhof Belvedere - ungeändert beschlossen
+- TOP 8.1.2: Errichtung eines Fußgängerüberweges auf der Arnulfstr. in Köln Sülz - ungeändert beschlossen
+- TOP 8.1.3: Antrag zum fortwährenden Wildplakatieren auf der Einkaufsmeile Dürener Straße - endgültig zurückgezogen
+- TOP 8.1.4: Instandsetzung des Straßenbelags der Lortzingstraße - zurückgestellt
+- TOP 8.1.5: Übergang Aachener Str./Clarenbachplatz - endgültig zurückgezogen
+- TOP 8.1.5.1: Ersetzungsantrag zu 8.1.5 Überweg Clarenbachplatz - ungeändert beschlossen
+- TOP 8.1.6: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.1.7: Erhaltungssatzung Müngersdorf - geändert beschlossen
+- TOP 8.1.7.1: Ergänzungsantrag zu 8.1.7 - ungeändert beschlossen
+- TOP 8.1.8: Altglascontainer Linnicher Straße - ungeändert beschlossen
+- TOP 8.1.9: Aufstellung einer Bank vor Luxembuerger Str 283 - ungeändert beschlossen
+- TOP 8.1.10: Verbesserung des S-Bahn-Takts im Kölner Westen - ungeändert beschlossen
+- TOP 8.1.11: Dringlichkeitsantrag Braunsfelder Markt - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Planung verkehrlicher Maßnahmen zur Schulwegsicherung am Schulstandort Unter Linden/Neue Sandkaul in Widdersdorf - geändert beschlossen
+- TOP 9.1.1.1: Ergänzungsantrag zu 9.1.1 - ungeändert beschlossen
+- TOP 9.1.1.2: weiterer Ergänzungsantrag zu 9.1.1.1 - ungeändert beschlossen
+- TOP 9.1.2: Hundefreilauffläche in Lövenich und/oder Widdersdorf - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Weiterplanungssbeschluß auf Basis des Vorentwurfs Parkstadt Süd Eifelwall - geändert beschlossen
+- TOP 9.2.1.1: Ergänzungsantrag zu 9.2.1 - ungeändert beschlossen
+- TOP 9.2.2: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - ungeändert beschlossen
+- TOP 9.2.3: Satzungsbeschluss betreffend den Bebauungsplan 64435/02 Arbeitstitel: Baufeld West, Kempener Straße in Köln-Lindenthal - geändert beschlossen
+- TOP 9.2.3.1: Änderungsantrag zu 9.2.3 - ungeändert beschlossen
+- TOP 9.2.4: Stadtbahnvorhaben Köln - Niederaußem: Grundsatzbeschluss zur Vorbereitung einer Machbarkeitsstudie zur Verlängerung der Stadtbahnlinie 4 - geändert beschlossen
+- TOP 9.2.4.1: Ergänzungsantrag zu 9.2.4 - ungeändert beschlossen
+- TOP 9.2.5: Max-Becker-Areal in Köln-Ehrenfeld;hier: Ablauf des Städtebaulich-freiraumplanerischen Wettbewerbs und Vorgaben für die Auslobung inklusive Ideenteil - zurückgestellt
+- TOP 9.2.6: Änderung der Hauptsatzung, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen - ungeändert beschlossen
+- TOP 9.2.7: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss für den Ausbau der Bahnsteige der Haltestellen der Bauphase 1 auf eine Nutzlänge von 60 m - geändert beschlossen
+- TOP 9.2.7.1: Ergänzungsantrag zu 9.2.7 - ungeändert beschlossen
+- TOP 9.2.8: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung des Erweiterungsbaus Gymnasium Neue Sandkaul 29, 50859 Köln-Widdersdorf - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: KOMM-AN NRW – Landesförderprogramm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2021 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Antrag der Fraktion Bündnis 90/ Die Grünen, CDU-Fraktion, SPD-Fraktion Lothar Müller / Die Linke und Gerd Kaspar / FDP - Kenntnis genommen
+- TOP 11.2.2: Aufgaben aus der Petition zu Bahnhof Belvedere; gemeinsamer Antrag von Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, SPD-Fraktion, - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 11.3.2: Interkulturelle Zentren Köln - Übersichtskarte Stand: 1.09.2021 - Kenntnis genommen
+- TOP 11.3.3: Änderungen zum Fahrplanwechsel 2021/2022 - Kenntnis genommen
+- TOP 11.3.4: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 11.3.5: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
