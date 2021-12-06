@@ -1,0 +1,95 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2021-12-06T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6355003
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6355003
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Graffitti an der Ganghoferbrücke
+- TOP 2.2.: Parken am Gasteig HP8
+- TOP 2.3.: Lärm wegen einer Baustelle in der Oberländerstraße
+- TOP 2.4.: Baumpflanzung Lindenschmitstraße - Übergabe von Unterschriftenlisten durch Bürger*innen
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Vorstellung der neuen Zweiten Werkleiterin der Markthallen München
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Mehrjahresinvestitionsprogramm 2022
+- TOP 4.2.2.: Bauvorhaben Karwendelstraße 11 - 17a
+- TOP 4.2.3.: DAV Kletter- und Boulderzentren München e.V. Eilentscheidung durch den BA-Vorsitzenden
+- TOP 4.3.: Unterrichtungen
+- TOP 4.2.4.: BV Flößergasse 8
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Baumaßnahmen an der Wackersberger Straße, Daiserstraße, Gaißacher Straße Antwort
+- TOP 4.3.3.: Mieterbeirat Protokoll
+- TOP 4.3.4.: Fragen über Baumpflegemaßnahmen in der Daiser- und Danklstraße Antwort
+- TOP 4.3.5.: Stadtentwicklungsplan STEP 2040 Beteiligung der Bezirksausschüsse
+- TOP 4.3.6.: Zukunft des Wohnblocks Gaißacher Straße 28/ Esswurmstraße
+- TOP 4.3.7.: Baumfällung Dietramszellerstraße 2
+- TOP 4.3.8.: Reutbergerstraße 10, Baumfällungen und Verkehrskonzepte Antwort
+- TOP 4.3.9.: Erzbischöfliches Ordinariat München Erhalt des Sendlinger Pfarrgartens in der Meindlstraße 5 Antwort
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.2.1.: Verkehrsrechtliche Anordnung Einrichtung eines Taxistandplatzes in der Engelhardstraße 6
+- TOP 5.2.2.: Wackersberger Straße 71 Hol- und Bringzone für Kita-Eltern
+- TOP 5.3.1.: Sinkende Aufenthaltsqualität auf öffentlichen Plätzen
+- TOP 5.3.2.: Verkehrssituation Gasteig HP8 Antwort
+- TOP 5.3.3.: Implerstraße: Einfahrtverbot für LKWs und Anordnung als Einbahnstraße
+- TOP 5.3.4.: Parken an der Baustelle Gasteig HP8
+- TOP 5.4.1.: Neugestaltung Baumgärtner-/ Radlkoferstraße
+- TOP 5.4.2.: Anfrage Radfahrstreifen Lindwurmstraße
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.1.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 10.09.2022 1.500,00€; Az. 0262.0-6-0358
+- TOP 6.1.2.: (E) Stadtbezirksbudget Elterninitiative Mittagsbetreuung Grundschule am Gotzinger Platz e.V. Erneuerungen bzw. Anschaffungen von Spielgeräten 1.093,00 €; Az. 0262.0-6-0359
+- TOP 6.1.3.: (E) Stadtbezirksbudget Lastenradl München e.V. Ein bis zwei Lastenradl für Sendling vom 01.03.2022 – 28.02.2023 5.250,00€; Az. 0262.0-6-0355
+- TOP 6.3.1.: Änderung der BA-Geschäftsordnung Sitzungsbetrieb
+- TOP 6.3.2.: Verwendungsnachweise
+- TOP 6.4.1.: Antrag einer zusätzlichen Bürgerversammlung im Frühjahr 2022
+- TOP 6.4.2.: Bestellung städtischer Leistungen um fünf Bäume im Stadtbezirk Sendling zu pflanzen - 8.000,00 Euro
+- TOP 6.4.3.: Budget für Eigenveranstaltungen: Bestellung von zwei Christbäumen und Lichterschmuck für den Herzog-Ernst-Platz und den Harras - 2.500,00 Euro
+- TOP 6.4.4.: Aufstellen einer Tischtennisplatte in Sendling - 8.000,00 Euro
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.2.1.: Planung der mobilen Kunst-Spiel-Aktionen 2022 und 2023
+- TOP 7.5.1.: Bewerbung: Vom Weltspieltag zum Weltkindertag 2022
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.3.1.: Unveränderte Fortführung Brückenstüberl
+- TOP 8.3.2.: Unveränderte Fortführung Rashid Haji
+- TOP 8.3.3.: Absage des Sendlinger Weihnachtsmarktes (Christkindlmarkt) Am Harras vom 22.11. bis 23.12.2021
+- TOP 8.3.4.: Sommerstraßen 2022
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.5.1.: Bitte um Unterstützung durch den Bezirksausschuss 5 - Au-Haidhausen Fraktionsübergreifende Resolution: Stadtteil-Berichterstattung in der „Süddeutschen Zeitung“ wieder stärken!
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.1.: Entscheidungen
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
