@@ -1,0 +1,55 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-12-06T15:00:00+01:00
+- Ende: 2021-12-06T15:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20460
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20460
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00432915.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00432915.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00432915.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 08.11.2021 - einstimmig beschlossen
+- TOP 3: Beschluss über das Jahresergebnis 2020 - Empfehlung einstimmig beschlossen
+- TOP 4: Controllingbericht zur haushalts- und personalwirtschaftlichen Lage nach dem 30.09.2021 - zur Kenntnis genommen
+- TOP 5: Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2022 - Empfehlung einstimmig beschlossen
+- TOP 6: Neuordnung der Abfallwirtschaft und Stadtreinigung – Ziele der Leistungserbringung - passieren lassen
+- TOP 7: Aufhebung des Bebauungsplanes Nr. 6170/064 - Forststraße/Hasselsstraße -, teilräumliche Aufhebung des Bebauungsplanes Nr. 09/007 - Westlich Kleinstraße -, Aufhebung des Bebauungsplanes Nr. 09/012 "Forststraße/Hasselsstraße" - Empfehlung einstimmig beschlossen
+- TOP 8: Aufhebung der Baugebiete GE 4 und GE 5 in dem "Bebauungsplan (Text) zur Ausweisung von Baugebieten in der Landeshauptstadt Düsseldorf für den Stadtbezirk 9" - Empfehlung einstimmig beschlossen
+- TOP 9: Bebauungsplan - Entwurf Nr. 09/023 - Südlich Bamberger Straße - Satzung - Empfehlung einstimmig beschlossen
+- TOP 10: Bebauungsplan - Entwurf Nr. 06/011 - Airport City West - Empfehlung mehrheitlich beschlossen
+- TOP 11: Bebauungsplan Nr. 06/014 - Vogelsanger Weg/Münsterstraße - Empfehlung mehrheitlich beschlossen
+- TOP 12: Grundstücksangelegenheit - Baureifmachung der städtischen Flächen im Bereich „Nach den Mauresköthen“ und Sanierung der PFT-Eintragsstelle - Empfehlung einstimmig beschlossen
+- TOP 13: Worringer Straße 136-140 - Erweiterungsumbau des Proben- und Produktionszentrums Central als Spielstätte für das Junge Schauspiel und die Bürgerbühne/Stadt:Kollektiv des Düsseldorfer Schauspielhauses - Empfehlung mehrheitlich beschlossen
+- TOP 14: Heinrich-Heine-Allee 16a / Deutsche Oper am Rhein - Opernhaus der Zukunft, Beschlussvorlage zur Herbeiführung eines Grundsatzbeschlusses - passieren lassen
+- TOP 15: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2022 - passieren lassen
+- TOP 16: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Landeshauptstadt Düsseldorf (Sondernutzungssatzung) - passieren lassen
+- TOP 17: Stadtbahn U81 – 2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord bis Handweiser Fortführung der Planung nach den Ergebnissen des Bürgerdialoges - Empfehlung mehrheitlich beschlossen
+- TOP 18: Planungsbeschluss Platz- und Freiraumplanung Heinrich-Heine-Platz mit dem Umfeld der Heinrich-Heine-Allee - Empfehlung abweichend beschlossen
+- TOP 19: Umgestaltung der Heinrich-Heine-Allee, der Breite Straße und der Kasernenstraße nördlich der Benrather Straße sowie der angrenzenden Seitenstraßen im Zusammenhang mit dem Umbau des Heinrich-Heine-Platzes
+- TOP 20: Nord-Süd-RadRoute, von Alte Flughafenstraße bis Südring -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 21: Nachrüstung Blindenleiteinrichtungen U-Bf. Heinrich-Heine-Allee -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 22: Radverkehrsanlagen Hofgartenrampe / südliche Oederallee -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 23: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2022 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 24: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2021 bis 2025 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 25: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2022 - 31.12.2022 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 26: Jahresabschluss zum 31.12.2020 und Lagebericht für das Wirtschaftsjahr 2020 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD) - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 27: Richtlinien über die Erhebung von Entgelten für Leistungen der Chemisch-biologischen Laboratorien der Landeshauptstadt Düsseldorf vom 16.12.2021 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 28: Klärwerk-Nord, Dachsanierung Maschinenhaus (I-8030617003) - Bedarfsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 29: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Sanierung von Fassaden an acht Schulen" - Empfehlung einstimmig beschlossen
+- TOP 30: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Neubau Thomas-Edison-Realschule" - Empfehlung einstimmig beschlossen
+- TOP 31: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für das Projekt "Ersatzneubau der Grundschule an der Vennhauser Allee 160-162 " - Empfehlung einstimmig beschlossen
+- TOP 32: Etatberatungen
+- TOP 32.1: Haushaltsatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2022 mit Anlagen - passieren lassen
+- TOP 32.2: Veränderungsverzeichnis zum Haushaltsplan-Entwurf 2022 ff. - passieren lassen
+- TOP 32.3: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2022 mit Anlagen - passieren lassen
+- TOP 32.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2022 - passieren lassen
+- TOP 33: Bestellung von Vertreter*innen der Landeshauptstadt Düsseldorf für die Gründerversammlung und die Mitgliederversammlung des Vereins „Psychosoziale Arbeitsgemeinschaft (PSAG) Düsseldorf e. V. - Empfehlung einstimmig beschlossen
+- TOP 34: Anlagerichtlinie der Landeshauptstadt Düsseldorf - vertagt
