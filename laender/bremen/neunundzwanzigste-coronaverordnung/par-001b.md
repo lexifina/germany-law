@@ -1,0 +1,2 @@
+# § 1b Begrenzung der zulässigen Personenzahl
+Ungeimpften Personen sind private Zusammenkünfte und Menschenansammlungen über den eigenen Hausstand hinaus nur mit zwei Personen aus einem weiteren Hausstand erlaubt, wobei Kinder bis zu einem Alter von 14 Jahren und Begleitpersonen von Menschen, die diese aufgrund von Alter, Krankheit, Pflegebedürftigkeit oder Behinderung, benötigen, nicht einzurechnen sind.
