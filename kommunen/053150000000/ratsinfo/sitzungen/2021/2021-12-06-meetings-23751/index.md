@@ -1,0 +1,85 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-12-06T14:30:00+01:00
+- Ende: 2021-12-06T15:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23751
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23751
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer stellvertretenden Schriftführung - ungeändert beschlossen
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.09.2021 - Kenntnis genommen
+- TOP 2.3: 34. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand 31.10.2021 - Kenntnis genommen
+- TOP 2.5: Rückfrage zu TOP 10.11 aus der Sitzung des Finanzausschusses vom 08.11.2021 - Kenntnis genommen
+- TOP 2.6: Auswirkungen der Steuerschätzung aus November 2021 auf den Haushalt der Stadt Köln - Kenntnis genommen
+- TOP 2.7: Projekt „Einführung von Nachhaltigkeitshaushalten“ – Evaluation und Perspektive - Kenntnis genommen
+- TOP 2.8: Verwaltungsreform - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2020/21 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020/21 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Mehrkosten für die Aufzugsnachrüstung der Stadtbahnhaltestelle Vingst - Kenntnis genommen
+- TOP 6.2.2: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Neusser Landstraße 117, 50769 Köln-Fühlingen - Haushaltsrechtliche Unterrichtung gem. § 25 I Nr. 2 KomHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung - Kenntnis genommen
+- TOP 6.3: Bericht über die finanzielle Lage nach § 2 Abs. 2 NKF-CIG - Kenntnis genommen
+- TOP 6.4: Kommunalinvestitionsförderungsgesetz, Kapitel 1 und 2, Sachstandsmitteilung - Kenntnis genommen
+- TOP 6.5: Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung des Erweiterungsbaus Gymnasium Neue Sandkaul 29, 50859 Köln-Widdersdorf - ungeändert beschlossen
+- TOP 7.2: Freigabe- und Baubeschluss für die Neugestaltung der Freianlagen im Innenstadtbereich Porz-Mitte - unter Vorbehalt beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßiger Aufwand im Teilergebnisplan 1201 Straßen, Wege, Plätze für das Haushaltsjahr 2021 - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - ungeändert beschlossen
+- TOP 10.2: Ergänzung des U-Bahn-Vertrages vom 17.09. / 24.10.1973 zur Übertragung der Federführung für die Aufzugsnachrüstungen in die Stadtbahnhaltestellen Deutz Technische Hochschule und Fuldaer Straße die Kölner Verkehrs-Betriebe - ungeändert beschlossen
+- TOP 10.3: Zügigkeitserweiterung der Lise-Meitner-Gesamtschule, Stresemannstraße 36 in Köln-Finkenberg zum Schuljahr 2022/23 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.4: Bedarfsfeststellung über die Ersatzbeschaffung von Fahrzeugen und Geräte für das Amt für Straßen und Verkehrsentwicklung - ungeändert beschlossen
+- TOP 10.5: Städtische Katastrophenschutzeinrichtung Boltensternstr. 2-4, 50735 Köln-Niehl - ungeändert beschlossen
+- TOP 10.6: 2. Controlling-Bericht: Diversity-Konzept "2020: Köln l(i)ebt Vielfalt" - ungeändert beschlossen
+- TOP 10.7: 9. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - geändert beschlossen
+- TOP 10.8: Satzung über die Abfallgebühren in der Stadt Köln - ungeändert beschlossen
+- TOP 10.9: Zusammenarbeit mit der Stadt Leverkusen im Bereich der Aufgaben nach dem Amtsapothekengeschäft - ungeändert beschlossen
+- TOP 10.10: Verlängerung Auszugsmanagement 2022/2023 - ungeändert beschlossen
+- TOP 10.11: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln 2020 - ungeändert beschlossen
+- TOP 10.12: Feststellung des Wirtschaftsplanes der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2022 - ungeändert beschlossen
+- TOP 10.13: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2020 - ungeändert beschlossen
+- TOP 10.14: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2022 - ungeändert beschlossen
+- TOP 10.15: Institutionelle Förderung der Kölner Gesellschaft für Alte Musik e.V. (KGAM zamus) - ungeändert beschlossen
+- TOP 10.16: Neubau Historische Mitte - ohne Votum in nachfolgende Gremien
+- TOP 10.17: Mediationsverfahren Klimawende Köln - RheinEnergie AG - geändert beschlossen
+- TOP 10.18: Stadtklima-/Stadtverschönerungsprogramm 2021 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.19: Stadtklima- und Verschönerungsprogramm 2020 und 2021 im Stadtbezirk Porz - unter Vorbehalt beschlossen
+- TOP 10.20: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2019 - Beteiligungsbericht 2019 - ungeändert beschlossen
+- TOP 10.21: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2022 - ungeändert beschlossen
+- TOP 10.22: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Wirtschaftsplan 2022 - ungeändert beschlossen
+- TOP 10.23: Bericht über die Prüfung des Gesamtabschlusses zum 31.12.2010 - ungeändert beschlossen
+- TOP 10.24: Bericht über die Prüfung des Gesamtabschlusses zum 31.12.2018 - ohne Votum in nachfolgende Gremien
+- TOP 10.25: RheinEnergie AG - ungeändert beschlossen
+- TOP 10.26: GEW Köln AG - ungeändert beschlossen
+- TOP 10.27: Stadtwerke Köln GmbH; hier: Rheinlandkooperation; Änderung des Gesellschaftsvertrags der Stadtkwerke Köln GmbH - ungeändert beschlossen
+- TOP 10.28: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss für den Ausbau der Bahnsteige der Haltestellen der Bauphase 1 auf eine Nutzlänge von 60 m - ohne Votum in nachfolgende Gremien
+- TOP 10.29: Bezuschussung von Maßnahmen aus "Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" 2021, Teil 1 - ungeändert beschlossen
+- TOP 10.30: Stadtklima-/Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 10.31: Stadtklima-Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - unter Vorbehalt beschlossen
+- TOP 10.32: Änderung der Luftrettungssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.33: Änderung der Rettungsdienstsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.34: Fortführung finanzielle Unterstützung des Umweltbildungszentrums auf Gut Leidenhausen - ungeändert beschlossen
+- TOP 10.35: Ankauf eines Kunstwerks des Künstlers Hermann Scherer für das Museum Ludwig - ungeändert beschlossen
+- TOP 10.36: Vergabe der Mietzuschüsse in der Sparte Bildende Kunst, Haushaltsjahre 2021 - 2023 - ungeändert beschlossen
+- TOP 10.37: Fortführung der institutionellen Förderung für Internationale Photoszene Köln gUG und Temporary Gallery e.V. 2022-2024 - geändert beschlossen
+- TOP 10.38: Parkstadt Süd: Bedarfsfeststellungsbeschluss für unterstützende Dienstleistungen für Umsetzungsvorbereitende Maßnahmen - ohne Votum in nachfolgende Gremien
+- TOP 10.39: Ausweitung der präventiven Hilfen zur Vermeidung eines Wohnungsverlustes - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
