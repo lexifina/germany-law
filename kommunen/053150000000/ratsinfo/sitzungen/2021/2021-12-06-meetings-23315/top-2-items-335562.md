@@ -1,0 +1,6 @@
+# TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+
+- Sitzung: 9.Sitzung der Bezirksvertretung Mülheim Die Sitzung wurde abgesagt (2021-12-06)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/335562
