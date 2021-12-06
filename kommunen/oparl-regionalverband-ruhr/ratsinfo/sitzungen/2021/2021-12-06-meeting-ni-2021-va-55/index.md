@@ -1,0 +1,68 @@
+# 4. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2021-12-06T10:00:00+01:00
+- Ende: 2021-12-06T11:40:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2021-VA-55
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2021-VA-55
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-VA-55
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2021-VA-55
+
+## Tagesordnung
+
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1: Vorlagen der Bezirksregierungen
+- TOP 1.1: Förderprogramm 2022 zur Gefahrenermittlung und Sanierung von Altlasten sowie weiteren Maßnahmen des Bodenschutzes - Kenntnisnahme und Beschlussfassung
+- TOP 1.2: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. EUR Gesamtkosten (Titel 777 12): Priorisierung der Maßnahmen für das Jahr 2022
+- TOP 1.3: Programm Radwegebau an bestehenden Landesstraßen (Titel 777 14): Priorisierung der Maßnahmen für das Jahr 2022
+- TOP 1.4: Information zum Projekt 'Citybahn Essen' - Aufnahme in den ÖPNV-Bedarfsplan und den Infrastrukturfinanzierungsplan des Landes NRW
+- TOP 2: Vorlagen aus dem Planungsausschuss
+- TOP 2.1: Ersetzungsvorlage Regionalplan Ruhr für das Verbandsgebiet des Regionalverbands Ruhr Beschluss zur zweiten Beteiligung
+- TOP 2.2: Änderungsverfahren 41 MH des Regionalen Flächennutzungsplans (RFNP) Erteilung des Einvernehmens gemäß § 41 Abs. 3 Landesplanungsgesetz Nordrhein-Westfalen (LPlG NRW)
+- TOP 2.3: 15. Änderung des Regionalplanes für den Regierungsbezirk Münster Teilabschnitt Emscher-Lippe in der Stadt Marl Veranlassung der Bekanntmachung
+- TOP 2.4: Sachlicher Teilplan Regionale Kooperationsstandorte zum Regionalplan Ruhr Veranlassung der Bekanntmachung
+- TOP 3: Anfragen und Mitteilungen
+- TOP 3.1: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Zeitplan des Regionalplans Ruhr
+- TOP 3.2: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Verzicht auf die Darstellung von BSAB-Flächen im Regionalplan Ruhr
+- TOP 3.3: Antwort auf die Anfrage der CDU-Fraktion Fragen zur 2. Offenlage des Regionalplans Ruhr
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP -: Bestellung und Abberufung der Schriftführung nebst Stellvertretung für die 14. Wahlperiode
+- TOP 1: Haushalt 2022
+- TOP 1.1: Verabschiedung des Haushaltsplans 2022
+- TOP 1.1.1: Änderungsanträge zum Haushaltsplan 2022 - Drucksache 14/0323-1
+- TOP 1.2: Benehmensherstellung mit den Mitgliedskörperschaften gemäß § 55 KrO NRW zur Verabschiedung der Haushaltssatzung 2022
+- TOP 2: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 2.1: Beteiligungsbericht des Regionalverbandes Ruhr für das Jahr 2020
+- TOP 2.2: Standortmarketingkampagne 'Metropole Ruhr - Stadt der Städte' - Zum Imagewandel der Metropole Ruhr - Evaluation und Imageanalyse durch das Institut für Zielgruppenkommunikation (IfZ)
+- TOP 3: Vorlagen aus dem Planungsausschuss
+- TOP 3.1: Regionales Wohnungsmarktkonzept Hier Sachstand und weiteres Vorgehen
+- TOP 4: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 4.1: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr - Endbericht
+- TOP 5: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 5.1: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2022
+- TOP 5.2: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Nutzung von Pestiziden in den Wäldern von RVR Ruhr Grün
+- TOP 5.3: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Ökologisches Controlling
+- TOP 6: Vorlagen aus dem Referat Rechnungsprüfung
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Vorlagen ohne Fachausschussbeteiligung
+- TOP 7.1: Strategie und Ziele der RVR-Familie
+- TOP 7.3: Ersetzungsvorlage Sachstandsbericht zur Haldenentwicklung in der Metropole Ruhr
+- TOP 7.4: Außerplanmäßige Mittelbereitstellung für Baumaßnahmen an der Solbadhalde in Oberhausen
+- TOP 7.5: Die industrielle und klimafreundliche Erneuerung der Metropole Ruhr vorantreiben - Einrichtung der regionalen Koordinierungsstelle für Wasserstoff
+- TOP 7.6: Beschluss über die Behandlung des Jahresfehlbetrages 2019
+- TOP 7.7: Ermächtigungsübertragungen gemäß § 22 KomHVO NRW Grundsätze über Art, Dauer und Umfang der Ermächtigungsübertragung
+- TOP 7.8: Bekanntgabe der in der Zeit vom 01.04.2021 - 30.09.2021 für das Haushalts-jahr 2021 genehmigten Haushaltsüberschreitungen
+- TOP 7.9: Entwurf des Jahresabschlusses zum 31.12.2020 des Regionalverbandes Ruhr
+- TOP 8: Anfragen und Mitteilungen
+- TOP -: Tischvorlagen
+- TOP -: Verabschiedung des Haushaltes 2022 Hier: Veränderungen im Haushalt zur Erfüllung von Aufgabenstellungen aus dem Strategie- und Zielkonzept des RVR
+- TOP -: Ersetzungsvorlage Regionalplan Ruhr für das Verbandsgebiet des Regionalverbandes Ruhr Beschluss zur zweiten Beteiligung Hier: Aufstellung eines Sachlichen Teilplans 'Gewinnung oberflächennaher Bodenschätze'
+- TOP -: Änderungsantrag zur Vorlage 14/0409 'Einführung Livestreaming der Sitzungen der Verbandsversammlung'
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
