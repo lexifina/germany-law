@@ -1,0 +1,95 @@
+# 9.Sitzung der Bezirksvertretung Mülheim Die Sitzung wurde abgesagt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-12-06T00:00:00+01:00
+- Ende: 2021-12-06T00:00:00+01:00
+- Ort: Die Sitzung wurde abgesagt
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23315
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23315
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Doppelgasbehälter in Buchheim
+- TOP 1.2: Öffnung Genovevabad
+- TOP 1.3: Gebäudeleerstand im Stadtbezirk Mülheim
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Rosenmaarschule (Az.: 02-1600-179/20) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Änderung der Verkehrsführung "An der Walkmühle" (Az.: 02-1600-69-21) - zurückgestellt
+- TOP 2.2.1: Schleicher*innen und Raser*innen aus der Walkmühle fernhalten - zurückgestellt
+- TOP 2.3: Bürgereingabe nach § 24 GO - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Weitere Nutzung der zur Flüchtlingsunterbringung genutzten Hotels in Köln-Dellbrück - zurückgestellt
+- TOP 7.1.2: Lärmschutzmaßnahme an der Ackerstraße (AN/1263/2021) - zurückgestellt
+- TOP 7.1.3: Ortsverbindung Reichenbachstraße/Radverkehrsnetz - zurückgestellt
+- TOP 7.1.4: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Bildungsgerechtigkeit im Stadtbezirk Mülheim stärken!" - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Der Muezzin-Ruf in Köln - zurückgestellt
+- TOP 7.2.2: Handwerkerparkausweis - zurückgestellt
+- TOP 7.2.3: Rad- und Gehweg der Genossenschaftshäuser Bergisch-Gladbacher-Straße 800-810 - zurückgestellt
+- TOP 7.2.4: Gesundheit, Statistik der Todesfälle in Köln - zurückgestellt
+- TOP 7.2.5: Aktuelle Schul- und Ganztagsentwicklung im Stadtteil Köln-Buchheim - zurückgestellt
+- TOP 7.2.6: Anschaffung von Luftfiltergeräten für Schulen im Bezirk Köln-Mülheim - zurückgestellt
+- TOP 7.2.7: Winterhilfe für Obdachlose aus dem Bezirk Köln- Mülheim - zurückgestellt
+- TOP 7.2.8: Rückschnitt und Grünpflegearbeiten entlang des Stammheimer Ufers - zurückgestellt
+- TOP 7.2.8.1: Rückschnitt und Grünpflegearbeiten entlang des Stammheimer Ufers - zurückgestellt
+- TOP 7.2.9: Herstellung der Verkehrssicherheit für alle Verkehrsteilnehmer:innen an der Honschaftsstr. und der Kreuzung Im Weidenbruch - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Radschnellverbindung / Radpendlerroute Bergisch-Gladbach-Köln - zurückgestellt
+- TOP 8.1.2: Antrag auf Akteneinsicht - zurückgestellt
+- TOP 8.1.3: Mehr Sicherheit im Zufahrtsbereich des Sportplatzes Egonstraße in Stammheim - zurückgestellt
+- TOP 8.1.4: Zerstörung von Parkplätzen unterbinden - zurückgestellt
+- TOP 8.1.5: Hall of Fame „Im Bischofsacker“, Ecke Kalk-Mülheimer Straße - zurückgestellt
+- TOP 8.1.6: Verkauf des Schifffahrtsbrunnens Wiener Platz - zurückgestellt
+- TOP 8.1.7: Mehr Grün für Mülheim - zurückgestellt
+- TOP 8.1.8: Bienenvölker auf dem großen Kalkberg - zurückgestellt
+- TOP 8.1.9: Verkehrssituation Rüdesheimer Straße / Wiesbadener Straße - zurückgestellt
+- TOP 8.1.10: Bereitstellung eines barrierefreien Zuganges zum Flittarder Deich im Bereich Wendehammer Ruwergasse in Köln- Flittard - zurückgestellt
+- TOP 8.1.11: Markierung eines Radfahrstreifens auf der Piccoloministraße - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Sanierung westlicher Sportplatz Thurner Kamp - zurückgestellt
+- TOP 9.1.2: Planungsbeschluss Generalsanierung Walter-Blickhäuser-Sportanlage (Kopernikusstraße) - zurückgestellt
+- TOP 9.1.3: Stadtklima-Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Die Vorlage wurde von der Verwaltung zurückgezogen
+- TOP 9.2.2: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - zurückgestellt
+- TOP 9.2.3: 278. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 9.2.4: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein - zurückgestellt
+- TOP 9.2.5: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss für den Ausbau der Bahnsteige der Haltestellen der Bauphase 1 auf eine Nutzlänge von 60 m - zurückgestellt
+- TOP 9.2.6: verschoben nach 10.2.15
+- TOP 9.2.7: Änderung der Hauptsatzung, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen - zurückgestellt
+- TOP 9.2.8: Umsetzung Stadtentwicklungskonzept Wohnen, hier: Beschluss über die Soziale Erhaltungssatzung gem. § 172 Abs. 1 Satz 1 Nr. 2 Baugesetztbuch für das Gebiet Mülheim Süd-West - zurückgestellt
+- TOP 9.2.9: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Noellstraße in Köln-Mülheim Anhörung der Bezirksvertretung 9 (Mülheim) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbetei-ligung, Beschluss über die Vorgaben zur Ausarbeitung des - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Fahrradzugänge zur Mülheimer Brücke - zurückgestellt
+- TOP 10.2.3.2: Gesamtinstandsetzung Mülheimer Brücke - Sachstände Teilbauwerke - zurückgestellt
+- TOP 10.2.4: Baubeschluss für die Generalsanierung der Ackerstraße - zurückgestellt
+- TOP 10.2.5: Odenthaler Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 10.2.6: Tempo 30 Bergisch Gladbacher Straße (AN/0101/2021) - zurückgestellt
+- TOP 10.2.7: Obstwiese auf dem städtischen Grundstück Mielenforster Straße/Thurner Kamp in Köln-Dellbrück - zurückgestellt
+- TOP 10.2.8: KOMM-AN NRW – Landesförderprogramm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2021 - zurückgestellt
+- TOP 10.2.9: Niederschrift des Gestaltungsbeirates vom 14.09.2021 - zurückgestellt
+- TOP 10.2.10: Änderungen zum Fahrplanwechsel 2021/2022 - zurückgestellt
+- TOP 10.2.11: Interkulturelle Zentren Köln - Übersichtskarte Stand: 1.09.2021 - zurückgestellt
+- TOP 10.2.12: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - zurückgestellt
+- TOP 10.2.13: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - zurückgestellt
+- TOP 10.2.14: Vorstellung der Ergebnisse der Machbarkeitsstudie zur teiloffenen Verbindung der Strunde und des Flehbach/Faulbach mit dem Rhein. - zurückgestellt
+- TOP 10.2.15: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf 71504/05 Arbeitstitel: Von-Ketteler-Straße in Köln-Höhenhaus - zurückgestellt
+- TOP 10.2.16: Bürgerantrag Doppel-Gasbehälter Mülheimer Ring/ Piccoloministraße in Buchheim - zurückgestellt
+- TOP 10.3: Bemerkungen zur Niederschrift
