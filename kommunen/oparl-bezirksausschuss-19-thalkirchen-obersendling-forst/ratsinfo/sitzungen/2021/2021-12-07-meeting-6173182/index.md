@@ -1,0 +1,65 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2021-12-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6173182
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6173182
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 09.11.2021
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur Mädchen an den Ball! Vom 01.01.-31.12.2022 7.980,00€; Az. 0262.0-19-0389
+- TOP 3.3.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 10.09.2022 1.500,00€; 0262.0-19-0391
+- TOP 3.4.: (E) Stadtbezirksbudget Kath. Öffentliche Bücherei St. Johann Baptist Solln Anschaffung von Büchern zur Aktualisierung unseres Bestandes vom 16.12.2021 – 15.01.2022 450,00€; Az. 0262.0-19-0390
+- TOP 3.5.: (E) Stadtbezirksbudget AK „Stadt: Gestalt und Lebensraum“ c/o Münchner Forum e.V. Ausstellung: „Wollen wir das – schöne Aussichten?“ vom 20.01.-02.02.2022 1.526,00€; Az. 0262.0-19-0392
+- TOP 3.6.: (U) Mehrjahresinvestitionsprogramm (MIP) 2021 - 2025
+- TOP 3.7.: (E) Stadtbezirksbudget Heimat- und Trachtenverein D&#039;Elbachtaler Solln e.V. Ausstattung der Jugendlichen mit der original Mießbacher Jugend-Tracht, von Januar - März 2022 6.000,00 €; Az. 0262.0-19-0393
+- TOP 3.8.: (E) Stadtbezirksbudget Initiative Kulturspaziergang Kulturspaziergang Obersendling am 16.07.2022 13.860,00 €; Az. 0262.0-19-0394
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Bleibtreustraße: Schließung Gehweglücke
+- TOP 5.1.2: Ausweich-Haltverbote Sollner Straße
+- TOP 5.2.: (A) Beschlussentwurf: Tram Westtangente von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz
+- TOP 5.3.: (Antrag) Fahrradständer an den vier Eingängen zum Waldfriedhof an der Forst-Kasten-Allee erneuern
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Kerschlacher Straße 30
+- TOP 6.2.4: Glötzleweg 2
+- TOP 6.2.5: Geisenhausenerstraße 7
+- TOP 6.2.6: Heilmaierstraße 14
+- TOP 6.2.7: Hinterbrühl 2
+- TOP 6.2.8: Tölzer Straße Fl.Nr. 518/0
+- TOP 6.2.9: Zielstattstraße 20
+- TOP 6.2.10: Züricher Straße 35
+- TOP 6.2.11: Steinkirchner Straße 1
+- TOP 6.3.: (A) Aufnahme in die Denkmalliste der Landeshauptstadt München: Schulzentrum Fürstenried-West Engadiner Straße 1
+- TOP 6.4.: (A) Beschlussentwurf: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III/30 Bebauungsplan mit Grünordnung Nr. 2139 Machtlfinger Straße
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: - NACHTRAG - (U) Vermietung stadteigenes Grundstück an der Forstenrieder Allee vom 02.12.2021 bis 23.12.2021
+- TOP 9: Verschiedenes
+- TOP 6.2.2: - abgesetzt -
+- TOP 6.2.3: - abgesetzt -
+- TOP 6.2.12: - abgesetzt -
