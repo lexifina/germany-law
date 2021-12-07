@@ -1,0 +1,18 @@
+# Verordnung zum IT-Sicherheitskennzeichen des Bundesamtes für Sicherheit in der Informationstechnik
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Gestaltung des Etiketts und der Internetseite zum IT-Sicherheitskennzeichen](0003.md)
+- [§ 4 Antrag](0004.md)
+- [§ 5 Antragsprüfung](0005.md)
+- [§ 6 Vereinfachtes Verfahren](0006.md)
+- [§ 7 Gegenstand der Herstellererklärung](0007.md)
+- [§ 8 Laufzeit des IT-Sicherheitskennzeichens und Erlöschen](0008.md)
+- [§ 9 Verwendung des Sicherheitskennzeichens](0009.md)
+- [§ 10 Anerkennung von Normen, Standards oder branchenabgestimmten IT-Sicherheitsvorgaben](0010.md)
+- [§ 11 Produktkategorien](0011.md)
+- [§ 12 Aufsicht](0012.md)
+- [§ 13 Informationen für Verbraucher](0013.md)
+- [§ 14 Evaluierung](0014.md)
+- [§ 15 Inkrafttreten](0015.md)
