@@ -1,0 +1,123 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2021-12-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6404670
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6404670
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I: Allgemeines
+- TOP 1: Begrüßung, Feststellung der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1: Anträge
+- TOP 1.1.: Anträge aus der Einwohnerversammlung für Kinder und Jugendliche am 18.11.2021 1. Durchgang für Fußgänger Dreimühlenstraße - Thalkirchnerstraße 2. Umgestaltung Baldeplatz - besser für Fahrradfahrer 3. Verbleib der Vorbereitungsklassen V1 und V2 an der Wittelbacher Schule 4. Kindersichere Querung der Wittelsbacherstraße Bushaltestelle Klenzestraße 5. Uhr und Abfahrtszeitenanzeige an der Bushaltestelle Klenzestraße 6. Wittelsbacherstraße Tausch Geh- und Fahrradweg - Sicherheit für Wartende
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Bahnwärter Kulturstätten GmbH Dampfkesseldröhnen - Ein Weihnachtsmarkt im Atelierpark vom 23.11.2021 - 23.12.2021 9.150,00 Euro, Az.: 0262.0-2-0420
+- TOP 2.2.: (E) Stadtbezirksbudget Mittagsbetreuung Wiesnkinder e.V. Unterstützung zur Betreuung in getrennten Gruppen sowie Hausaufgabenbetreuung vom 01.11.2021 - 30.04.2022 5.880,00 Euro, Az.: 0262.0-2-0422
+- TOP 2.3.: (E) Stadtbezirksbudget Glockenbachwerkstatt e.V. Hip Hop Open Mic Session vom 01.02. - 06.12.2022 1.794,00 Euro, Az.: 0262.0-2-0424
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "Lichtspiel" Lichtspielreihe "Leuchtendes Herz" am 19.12., 24.12. und 31.12.2021 1.450,00 Euro, Az.: 0262.0-2-0423
+- TOP 2.5.: (E) Stadtbezirksbudget Münchner Brahms-Chor e.V. Konzert am 27.11.2021 2.700,00 Euro, Az.: 0262.0-2-0421
+- TOP 2.6.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 10.09.2022 1.500,00 Euro, Az.: 0262.0-2-0425
+- TOP 2.7.: (E) Stadtbezirksbudget Glockenbachwerkstatt e.V. Bücherschrank am KHU-Platz vom 11.01. - 30.04.2022 11.090,00 €; Az. 0262.0-2-0427
+- TOP 2.8.: (E) Stadtbezirksbudget Elternbeirat der Schule am Gärtnerplatz Zirkus "Trau Dich" im Mai/Juni 2022 6.400,00 Euro, Az.: 0262.0-2-0426
+- TOP 3: Anhörungen
+- TOP 3.1.: Planung der mobilen Kunst-Spiel-Aktionen 2022 und 2023
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP B: Bereich Unterausschuss Mobilität und Straßenraum
+- TOP 1.1.: Umgang mit dem Platz, der Sicherheit und der flexiblen Auffassung der StVO in München; Anfrage der Fraktion Die Linke. vom 09.11.2021
+- TOP 1.2.: Definition „Parkdruck“; Anfrage der Fraktion Die Linke. vom 09.11.2021
+- TOP 1.3.: Verkehrsberuhigung Ehrengutstraße/Isartalstr/Dreimühlenstraße & Spielplatz; Antrag der Fraktion Die Linke. vom 09.11.2021
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Antrag auf Aufhebung der Sperrzeit für die Gaststätte in der Müllerstraße 47
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige Entscheidungsfälle
+- TOP 2.3.1.: (E) Sicherheitslage Schillerstraße
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.2.1.: Einrichtung einer Ladezone Schwanthalerstraße Höhe Hausnummer 31
+- TOP 3.2.2.: Einfahrt in die Corneliusstraße - Abschnitt zwischen Gärtnerplatz und Baaderstraße
+- TOP 3.2.3.: Austausch der Lichtsignalanlage Goethe-/ Schwanthalerstraße
+- TOP 3.2.4.: Anhörung zu einer verkehrsrechtlichen Anordnung Pettenkoferstraße - Parken und Haltverbot
+- TOP 3.2.5.: Anhörung zu einer verkehrsrechtlichen Anordnung Benutzungspflicht baulicher Radweg Ostseite Bahnhofsplatz
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.1.: Genehmigung einer Sitzgelegenheit, Häberlstraße 24
+- TOP 3.3.2.: Antragsverfahren Sommerstraße 2022
+- TOP 5.1.: Holzplatz als „Winterstraße“; Bürger*innenanliegen
+- TOP 5.2.: Vorschläge für Radabstellplätze; Bürger*innenanliegen
+- TOP 5.3.: Neues Parkverbot in der Corneliusstraße (Ostseite); Bürger*innenanliegen
+- TOP C: Bereich Unterausschuss Planen und Bauen
+- TOP 1.1.: Die Stadt München verlängert und erweitert möglichst die Erhaltungssatzung Gärtnerplatz; Antrag der SPD-Fraktion vom 16.11.2021
+- TOP 1.2.: Verlängerung der Erhaltungssatzung „Ludwigsvorstadt/Schwanthalerhöhe“; Antrag der SPD-Fraktion vom 11.11.2021
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Schwanthalerstraße 64 a) Neubau eines Bürogebäudes mit Versammlungsstätte, Kantine und Tiefgarage b) Vollzug der Baumschutzverordnung
+- TOP 3.1.2.: Augsburgerstraße 7, Vorbescheid Neubau und Nutzungsänderung Schule in Wohnungen
+- TOP D: Umwelt, Klima, Naherholung
+- TOP 1.1.: Mülleimer für das südliche Bahnhofsviertel; Antrag der SPD-Fraktion vom 16.11.2021
+- TOP 2.1.: (E) + (U) Begrünung der Theresienwiese Empfehlung Nr. 20-26 / E 00262 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 3.1: Empfehlungen der Baumschutzbeauftragten
+- TOP 3.1.1.: Baumfällungsantrag, Zenettistraße 46
+- TOP 5.1.: „Müllfisch“ - mögliche Kooperation mit dem Verein Deine Isar e.V.
+- TOP E: Angelegenheiten des BA
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 2: Kommende Sitzungstermine
+- TOP 3: Termine / Veranstaltungen
+- TOP F: Nicht öffentlicher Teil - siehe gesonderte Tagesordnung
+- TOP -: Unterrichtungen
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4: Bereich Öffentlicher Raum und Mobilität
+- TOP B 4.1.: Versammlungen unter freiem Himmel
+- TOP B 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP B 4.3.: Unveränderte Gaststättenfortführungen
+- TOP B 4.4.: Verkehrsrechtliche Anordnungen
+- TOP B 4.5.: Erlaubnisbescheide Veranstaltungen
+- TOP B 4.6.: Radlparkplatz in der Häberlstraße, Stellungnahme Baureferat
+- TOP B 4.7.: Fahrradweg und Lieferverkehr in der Fraunhoferstraße, Stellungnahme KVR
+- TOP B 4.8.: Pilotprojekt Ampelschaltung Kreuzung Goethestraße / Landwehrstraße
+- TOP B 4.9.: Verkehrskamera am Baldeplatz; Antwortschreiben des Mobilitätsreferates
+- TOP B 4.10.: Lärmbelästigung Kultur an der Isar - Stellungnahme KVR
+- TOP B 4.11.: Kunstprojekt „Regenbogenflagge Theresienwiese“
+- TOP B 4.12.: (U) Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs Drittes Maßnahmenbündel (2. Teil)
+- TOP B 4.13.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Mobilitätsausschusses und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP B 4.14.: (U) Winterstrand / Isarstrand im Winter 2021/2022
+- TOP B 4.15.: Verlängerung Ausnahmezulassung Mülleinsammlung ab 05:30 Uhr bis 31.12.2022
+- TOP B 4.16.: Beschilderung MVG-Stationen mit Regenbogen
+- TOP C 4: Bereich Planen und Bauen
+- TOP C 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.2.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP D 4: Bereich Umwelt, Klima, Naherholung
+- TOP D 4.1.: Fällerlaubnis für einen Götterbaum am Europäisches Patentamt, Corneliusstraße
+- TOP D 4.2.: Errichtung von Sportplätzen auf Dächern prüfen
+- TOP E 4: Bereich BA-Angelegenheiten
+- TOP E 4.1.: Einbringung des Mehrjahresinvestitionsprogramms 2021 - 2025 in der Sitzung der Vollversammlung am 15.12.2021, Fachausschussberatung zum Haushalt 2022, Verteilung der Unterlagen
+- TOP E 4.2.: Resolution des BA 5 Au-Haidhausen: Stadtteil-Berichterstattung in der „Süddeutschen Zeitung“ wieder stärken!
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.2: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
