@@ -1,0 +1,118 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2021-12-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6372729
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6372729
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Sehbehindert - aber Richtig e.V. Anschaffung eines Messestands 1.500,00 Euro, Az.: 0262.0-4-0361
+- TOP 2.2.: (E) Stadtbezirksbudget Condrobs e.V. Anschaffung einer Gastro-Spülmaschine 1.760,00 Euro, Az.: 0262.0-4-0363
+- TOP 2.3.: (E) Stadtbezirksbudget Arbeitskreis Neue Erziehung e.V. Krippenausstattung ab 28.12.2021 2.138,50 Euro, Az.: 0262.0-4-0365
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweise und Kurzberichte a) hpkj e.V.: Graffitiworkshops für betreute Kinder und Jugendliche b) Mobilspiel e.V.: Mobilspielfest am 19.09.2021 c) CVJM/LIFE Jugendzentrum: Aktivferien am Ackermannbogen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 3.3.2.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.3.3.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 3.3.4.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.3.5.: (U) Reinigungsstandards in Münchner Schulen und städt. Kindertageseinrichtungen temporäre Anpassung aufgrund der Corona Pandemie sowie zusätzliche Schwimmhallenreinigung im Rahmen der Schwimmoffensive für das Haushaltsjahr 2022 ff.
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.1.: Bürger: Stärkung der Auskunftsrechte für Mieter*innen im Baugenehmigungsverfahren (vertagt aus 11/2021)
+- TOP 2.1.: Clemensstr. 129: Thermische Sanierung der Nord- und West-Fassaden eines Mehrfamilienhauses mit Vergrößerung der Balkone auf der Westseite und Anbau neuer Balkone auf der Nordseite
+- TOP 2.2.: Tektur Emanuelstr. 20: Aufstockung zweier Wohngebäude mit Umbau und Änderung der Nutzungseinheiten im Rückgebäude (hier: Änderung Anzahl der Wohneinheiten im Rückgebäude)
+- TOP 3.1.1.: Aktueller Sachstand Bauerstr. 10 und 12 (Antwort der LBK auf BA-Anfrage vom 18.11.2021)
+- TOP 3.2.1.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 3.2.2.: (U) Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtgebiet 04 Schwabing-West Satzungsbeschluss Satzung "Hohenzollernstraße" der Landeshauptstadt München zur Erhaltung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung "Hohenzollernstraße")
+- TOP 3.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4.: BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission – Personelle Ausstattung (Sitzungsvorlage Nr. 20-26 / V 04924)
+- TOP D: Mobilität und Verkehr
+- TOP 1.1.: Bürger: Verparkte Fahrradabstellplätze am Gisela-Gymnasium
+- TOP 1.2.: Antrag Grüne: Gehwegparken in der Mottlstraße
+- TOP 1.3.: Interfraktioneller Antrag: Pilotprojekt „Urban Shift“ in Schwabing West
+- TOP 1.4.: Bürgerin: Untragbare Situation für Fußgänger/Radfahrer auf der Kurfürstenstraße
+- TOP 1.5.: Bürger: Verschlankung der Karl-Theodor-Straße
+- TOP 2.1.: Austausch der Lichtsignalanlage an der Kreuzung Leopoldstraße / Petuelring
+- TOP 3.1.1.: Bodenmarkierung am Behindertenparkplatz Angererstr. 7 c erneuern (Antwort des Baureferats auf weitergeleitetes Bürgeranliegen TOP D 1.3 10/21)
+- TOP 3.1.2.: Tempo-30-Beschilderung in der Agnesstraße ergänzen (Antwort des Baureferats auf weitergeleitetes Bürgeranliegen TOP D 1.1 10/21)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Einrichtung einer Haltverbotszone in der Klopstockstraße
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.4.1.: (U) Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Tengstr. 40: Antrag auf Fällung zweier Pappeln
+- TOP 2.1.2.: Lothstr. 29: Antrag auf Fällung dreier Fichten
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Sommerstraßen 2022
+- TOP 3.1.1.: Blendung durch die Beleuchtung im Petuelpark (Antwort des Baureferats Gartenbau auf weitergeleitetes Bürgeranliegen, TOP E 1.6 09/21)
+- TOP 3.1.2.: Asphaltierung des Fußwegs entlang des Seniorenheims im Ackermannbogen (Antwort des Baureferats Gartenbau auf weitergeleitetes Bürgeranliegen, TOP E 1.3 09/21)
+- TOP 3.1.3.: Baumschutz in der Landeshauptstadt München (Antwort der Unteren Naturschutzbehörde auf BA-Schreiben vom 24.06.2021, TOP E 3.3.2 06/21)
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Bevorstehende Entfernung von Gefahrenbäumen an Straßen und in öffentlichen Grünflächen u.a. an der Karl-Theodor-Straße, in der Destouches- und Hiltenspergerstraße sowie am Stadtplatz Ackermannbogen und an der Sommerstockbahn am Bayernplatz, in der Rümann- und Parzivalstraße sowie im Luitpoldpark
+- TOP 3.3.1.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 3.4.1.: Ausnahmezulassung zum Beginn der Mülleinsammlung baustellenbedingt ab 05.30 Uhr im Gebiet Dachauer Straße, Schwere-Reiter-Straße, Ackermannstraße, Schleißheimer Straße, Winzererstraße, Görrestraße und Lothstraße: Verlängerung bis Ende Februar 2022
+- TOP F: Kultur und Wirtschaft
+- TOP 1.1.: Interessengemeinschaft Halle 23: Vergabe der Halle – Versprochene Information des BA einfordern (vertagt aus 11/2021)
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 10.09.2022 1.500,00 Euro, Az.: 0262.0-4-0362
+- TOP 2.1.2.: (E) Stadtbezirksbudget Svapinga Consort e.V. Neujahrskonzert vom 13. - 16.01.2022 5.475,00 Euro, Az.: 0262.0-4-0366
+- TOP 2.1.3.: (E) Stadtbezirksbudget Theaterkollektiv AVEC Theaterproduktion Zoff und Zärtlichkeiten vom 03.01. - 09.02.2022 5.500,00 Euro, Az.: 0262.0-4-0364
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: (E) Stadtbezirksbudget Lastenradl München e.V. Anschaffung von zwei Lastenräder 10.053,80 Euro, Az.: 0262.0-4-0367
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: Verwendungsnachweise und Kurzberichte a) Chorbande Schwabing: „Die Zauberflöte 1“ b) Svapinga Consort e.V.: Wiederaufnahme Konzertreihe „Alte Musik in Schwabing“ c) foolproof GbR: Straßentheater PLAN B am 11.07.2021 im Petuelpark d) Tanztendenz München e.V.: Choreografenatelier 2020/2021 e) Moreth Company: Theaterprojekt „Sarajevo – Die Toten tanzen noch“ f) Stadtterrasse Bauerstr. 36 vom 22.07. bis 30.10.2021
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Imagefilm „Die Mülldetektive“ am 30.11.2021 in der Adams-Lehmann-Str. 26
+- TOP 3.3.2.: Fernsehproduktion „Fraueng‘schichten“ am 02.12.2021 in der Georgen-/Ecke Loth-/Winzererstraße
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.7.1.: „Kiosk93“ Schleißheimer Str. 93: Nutzung der genehmigten Kleinst-Freischankfläche zum Aufstellen von vier Postkartenständern
+- TOP 3.7.2.: Jugendzentrum LIFE: Absage des Winterfeuers
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP G.2.: Stadtteil-Berichterstattung in der „Süddeutschen Zeitung“ wieder stärken! (Fraktionsübergreifende Resolution des BA 5 Au-Haidhausen)
+- TOP H: Termine
+- TOP 3.: Unterrichtungen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
