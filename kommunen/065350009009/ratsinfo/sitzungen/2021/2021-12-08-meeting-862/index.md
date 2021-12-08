@@ -1,0 +1,77 @@
+# Stadtverordnetenversammlung der Stadt Homberg (Ohm) (12. Sitzung)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Beginn: 2021-12-08T20:00:00+01:00
+- Ende: 2021-12-09T00:35:00+01:00
+- Ort: Walter-Seitz-Halle Homberg (Ohm), Stadthallenweg 12, 35315 Homberg (Ohm), Stadthallenweg 12
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/tops/?__=UGhVM0hpd2NXNFdFcExjZfPVLomQBgNdLECKNw4SPSc
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/862
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa7RG847Q-hed9A5VfhWm_3yEIRJFhM15_8uyR1x87c8/Bekanntmachung_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_08.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSxsqqdkojt0krmdcENLZiDvmlMeEg0USA0gueoeqK-T/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_08.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Eröffnung und Begrüßung
+- TOP 2.: Feststellung der Ordnungsmäßigkeit der Ladung und der Beschlussfähigkeit, Einwendungen gegen die Tagesordnung
+- TOP 3.: Bericht der Bürgermeisterin aus der Arbeit des Magistrats
+- TOP 4.: Mündliche Anfrage Leonard Morneweg – Grundwasserentnahme Tiefbrunnen II Dannenrod - (kein Text vorhanden)
+- TOP 5.: Anfrage Bündnis 90 / Die Grünen – Erhöhung der Lagerkapazitäten INRO Rohstoffhandel GmbH in Nieder-Ofleiden - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 6.: Anfrage Bündnis 90 / Die Grünen – Urteil VGH Kassel Bebauungsplan „Auf den Hohläckern“ - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.: Anfrage Bündnis 90 / Die Grünen – Verkehrs- und Parksituation an Wanderwochenenden, Müll, Belästigung der Anwohner - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Anfrage Bündnis 90 / Die Grünen – Wasserentnahme aus den Hydranten Appenrod + Erbenhausen durch Baufirmen der BauArge im Rahmen des A49-Baus - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 9.: Anfrage Bündnis 90 / Die Grünen – 3D-Bogenparcours „Rothe Kuh“ - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: Anfrage Bernd Reiß – Straßenbaumaßnahmen Berücksichtigung von Inklusion und Teilhabe - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Anfrage Bernd Reiß – juwi AG Windpark Amöneburg III - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 12.: Anfrage Bündnis 90 / Die Grünen – Verkehrszählung Häuserstraße Nieder-Ofleiden - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 13.: Anfrage Bündnis 90 / Die Grünen – Ersatzpflanzung in Nieder-Ofleiden am Hochbehälter - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 14.: Anfrage Bündnis 90 / Die Grünen – Übergabe des Kleinlöschfahrzeugs für die Freiwillige Feuerwehr Dannenrod - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 15.: Genehmigung eines Grundstückskaufvertrages gemäß § 2 der Hauptsatzung der Stadt Homberg (Ohm) – Bauplatz Deckenbach - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 16.: Genehmigung eines Grundstückskaufvertrages gemäß § 2 der Hauptsatzung der Stadt Homberg (Ohm) – Bauplatz Haarhausen - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 17.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Appenrod Bebauungsplan „Ferngärten und Nauwiesen“ 1. Änderung Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 18.: Bauleitplanung der Stadt Homberg (Ohm), Kernstadt Vorhabenbezogener Bebauungsplan „Friedrichstraße“ Bebauungsplan der Innenentwicklung – Verfahren gemäß § 13a BauGB Entwurfs- und Offenlegungsbeschluss gemäß § 3 Abs. 2 BauGB - (Stimmberechtigt @SBR@) 19 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 19.: Verkauf Grundstücke Friedrichstraße an PaWo GmbH und Abschluss eines Durchführungs- und Erschließungsvertrags zum Vorhabenbezogenen Bebauungsplan „Friedrichstraße“ - (Stimmberechtigt @SBR@) 19 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 20.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Büßfeld Erlass einer Klarstellungssatzung gemäß § 34 Abs. 4 Nr. 1 BauGB im Bereich Gießener Straße - (Stimmberechtigt @SBR@) 20 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 21.: Richtlinien für die Vergabe von städtischen Baugrundstücken - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 22.: Bericht über den Stand des Haushaltsvollzugs nach § 28 GemHVO für den Berichts-zeitraum 01.01.2021 bis 30.06.2021 - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 23.: Übersendung von Ergebnisniederschriften der Sitzungen des Magistrats an den Stadtverordnetenvorsteher und die Vorsitzenden der Fraktionen - (Stimmberechtigt @SBR@) 20 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 24.: Wahl der Vertreter in den Vorstand des Aktiven- und Fördervereins Schlosspatrioten Homberg an der Ohm e.V. - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 25.: Widerspruch der Bürgermeisterin gegen den Beschluss „Ausscheiden aus dem Amt als Schriftführer“ vom 02.09.2021 - (Stimmberechtigt @SBR@) 12 Ja-Stimme(n), 5 Gegenstimme(n), 4 Stimmenthaltung(en)
+- TOP 26.: Antrag Fraktion Bürgerforum betreffend Vorstellung der Ausführungsplanung für das Brückenbauwerk „Pletschmühle/Herrenmühle“ an der Ohm - (Stimmberechtigt @SBR@) 9 Ja-Stimme(n), 3 Gegenstimme(n), 9 Stimmenthaltung(en)
+- TOP 27.: Antrag Fraktion Bürgerforum betreffend Vorstellung der Ausführungsplanung für die Erneuerung der Gemeindestraße Burghain - (Stimmberechtigt @SBR@) 9 Ja-Stimme(n), 5 Gegenstimme(n), 7 Stimmenthaltung(en)
+- TOP 28.: Antrag Fraktion Bürgerforum betreffend bevorzugte Berücksichtigung der Tagesordnungspunkte „Bericht aus der Arbeit des Magistrats“ und „Anfragen“ - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 29.: Antrag Fraktion Bürgerforum betreffend Kürzung der Betreuungszeiten in der Kita Büßfeld - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 30.: Bildung der Kommission zur Förderung der Städtepartnerschaft Homberg - Thouaré - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 31.: Bildung der Kommission zur Förderung der Städtepartnerschaft Homberg - Stadtroda - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 32.: Bildung der Kommission für Kunst und Kultur - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 33.: Bildung der Kommission zur Förderung des Tourismus der Stadt Homberg (Ohm) - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 34.: Besetzung des Ortsgericht Homberg (Ohm) III – Stadtteile Bleidenrod, Büßfeld, Deckenbach, Höingen und Schadenbach - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 35.: Satzungsrecht der Stadt Homberg (Ohm) Entwässerungssatzung der Stadt Homberg (Ohm) - (Stimmberechtigt @SBR@) 20 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 36.: Satzungsrecht der Stadt Homberg (Ohm) Wasserversorgungssatzung der Stadt Homberg (Ohm) - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 37.: Antrag: A 49 – Bewältigung der zusätzlichen Aufgaben durch jeweils eine zusätzliche Stelle im Bauamt und im Hauptamt - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 38.: Erlass der Nachtragssatzung 2021 der Stadt Homberg (Ohm) - (Stimmberechtigt @SBR@) 12 Ja-Stimme(n), 9 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 39.: Antrag der Fraktion Bürgerforum auf öffentliche Darstellung der Informationen des Rechtsanwalts Matthias Möller-Meinecke im Zuge des Baus der A 49 - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 40.: Antrag der GRÜNEN-Fraktion auf Beschattung öffentlicher Plätze, insbesondere Spielplätze - (Stimmberechtigt @SBR@) 18 Ja-Stimme(n), 0 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 41.: Antrag der GRÜNEN-Fraktion auf Verkehrszählung in der Häuserstraße Nieder-Ofleiden - (Stimmberechtigt @SBR@) 20 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 42.: Antrag der Fraktion BÜRGERFORUM betreffend Einrichtung eines Raumes für die Jugendfeuerwehr im Stadtteil Dannenrod - (Stimmberechtigt @SBR@) 13 Ja-Stimme(n), 5 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 43.: Antrag der Fraktion BÜRGERFORUM betreffend Rechtsstreit juwi AG ./. Stadt Homberg (Ohm)
+- TOP 44.: Antrag der Fraktion BÜRGERFORUM betreffend Einrichtung eines Unternehmerforums - (Stimmberechtigt @SBR@) 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 45.: Antrag der Fraktion BÜRGERFORUM betreffend Ausrichtung des Umwelt- und Landschaftspflegeverbandes Alsfeld - (Stimmberechtigt @SBR@) 21 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 46.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschriften der Sitzungen vom 02.09.2021 und 08.09.2021 - (Stimmberechtigt @SBR@) 2 Ja-Stimme(n), 13 Gegenstimme(n), 6 Stimmenthaltung(en)
+- TOP 47.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 15.09.2021
+- TOP 48.: Antrag des Internationalen Bundes vom 02.02.2021 auf Erhöhung der Zuwendung der Stadt Homberg (Ohm) für das Ganztagsangebot an der Grundschule Homberg
+- TOP 49.: 227. Vergleichende Prüfung „Ordnungsbehörden II“
+- TOP 50.: Vorstudie zur Reaktivierung der Ohmtalbahn
+- TOP 51.: Entwicklung Bahnhofsgelände
+- TOP 52.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Schadenbach Bebauungsplan „Am Bornweg“ Entwurfs- und Offenlegungsbeschluss gemäß § 3 Abs. 2 i.V.m. § 4 Abs. 2 BauGB
+- TOP 53.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Schadenbach Änderung des Flächennutzungsplanes im Bereich des Bebauungsplanes „Am Bornweg“ Entwurfs- und Offenlegungsbeschluss gemäß § 3 Abs. 2 i.V.m. § 4 Abs. 2 BauGB
+- TOP 54.: Antrag der Grünen-Fraktion auf Sicherstellung von externen Stromversorgungen system-relevanter Gebäude und Anlagen im Rahmen eines Sicherheitskonzeptes
+- TOP 55.: Antrag der Grünen-Fraktion auf Erstellung von Starkregengefahrenkarten für die Großgemeinde Homberg (Ohm)
+- TOP 56.: Antrag der SPD-Fraktion auf Prüfung der Machbarkeit der Südanbindung des Gewerbe- und Industriegebietes (INO) an die L 3073
+- TOP 57.: Antrag der Fraktion Bürgerforum zur Vorlage aller Aufstellungsbeschlüsse im Rahmen der Bauleitplanung durch den Magistrat
+- TOP 58.: Antrag der Fraktion Bürgerforum zur Erstellung einer Fließpfadkarte und einer Starkregen-Gefahrenkarte
+- TOP 59.: Antrag der Fraktion Bürgerforum betreffend Bundesprogramm „Vor Ort für Alle“ für die Stadt- und Schulbibliothek Homberg (Ohm)
+- TOP 60.: Antrag der Fraktion Bürgerforum betreffend umgehende Vorlage des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2022 durch den Magistrat
