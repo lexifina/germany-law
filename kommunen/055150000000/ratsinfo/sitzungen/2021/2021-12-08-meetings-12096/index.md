@@ -1,0 +1,62 @@
+# 5. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-12-08T17:00:00+01:00
+- Ende: 2021-12-08T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12096
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12096
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00497780.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Eingänge/Mitteilungen
+- TOP 3.1: Mitteilungen zu Arbeitsaufträgen aus vorherigen Sitzungen
+- TOP 3.2: Sonstige Mitteilungen
+- TOP 4: Konzeptstudie "Klimaneutrale Stadtverwaltung 2030" - einstimmig geändert beschlossen
+- TOP 5: Grundsatzbeschluss für ein Bildungshaus Albachten - Anregung nach § 24 GO NRW Nr. 2019-00277 - einstimmig beschlossen
+- TOP 6: Wohnen
+- TOP 6.1: Bestandsaufnahme der großen Wohnimmobilien in Münster-Nord und Entwicklung einer Handlungsstrategie zur Verbesserung der Wohnsituation der BewohnerInnen - einstimmig beschlossen
+- TOP 6.1.1: Bestandsaufnahme der großen Wohnimmobilien in Münster-Nord und Entwicklung einer Handlungsstrategie zur Verbesserung der Wohnsituation der BewohnerInnen
+- TOP 7: Liegenschaften
+- TOP 8: Finanzen
+- TOP 8.1: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2022 bis 2026 - mehrheitlich geändert beschlossen
+- TOP 8.2: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing - einstimmig geändert beschlossen
+- TOP 8.3: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2022 bis 2026 - einstimmig geändert beschlossen
+- TOP 8.4: Erweiterung des laufenden Managementkontraktes (MMK) mit der Westfälischen Bauindustrie GmbH für die Jahre 2017 bis 2021 um ein weiteres Jahr bis 2022 - einstimmig beschlossen
+- TOP 8.5: Hundesteuersatzung der Stadt Münster - einstimmig beschlossen
+- TOP 8.5.1: Satzung zur Änderung der Hundesteuersatzung der Stadt Münster
+- TOP 8.6: Überplanmäßige Mittelbereitstellungen im Haushaltsjahr 2021 und Genehmigung der Dringlichkeitsentscheidung D/0032/2021 - einstimmig beschlossen
+- TOP 8.7: Tarifmaßnahme Mobilität 08/2022 - Anpassung der Fahrpreise zum 1. August 2022 für das Stadtgebiet Münster innerhalb des WestfalenTarifs - von der Tagesordnung abgesetzt
+- TOP 8.8: Vorabgewinnausschüttung auf den Bilanzgewinn 2021 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 8.9: Ausgleich des coronabedingten Schadens bei der FMO Flughafen Münster/Osnabrück GmbH - mehrheitlich beschlossen
+- TOP 8.10: NRW.URBAN Kommunale Entwicklung GmbH: Ergänzung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 8.11: Ergänzende Prüfung zum Jahresabschluss 2020 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 8.12: Novellierung des Gesellschaftsvertrags und der Geschäftsordnung für den Aufsichtsrat der Stadtwerke Münster GmbH - ohne Beschlussfassung geschoben
+- TOP 8.12.1: Novellierung des Gesellschaftsvertrags und der Geschäftsordnung für den Aufsichtsrat der Stadtwerke Münster GmbH
+- TOP 8.13: Wirtschaftsförderung Münster GmbH: Jahresabschluss 2020 incl. der Feststellung nicht verbrauchter Kapitaleinlagen im Geschäftsjahr 2020 und Rückgewährung - einstimmig beschlossen
+- TOP 8.14: Antrag auf Beantragung von Fördermitteln des MHKBG für Feuerwehrhäuser - einstimmig beschlossen
+- TOP 8.15: Neufassung Errichtungsbeschluss für den Neubau eines Feuerwehrhauses der Freiwilligen Feuerwehr im Ortsteil Albachten - von der Tagesordnung abgesetzt
+- TOP 8.16: Errichtungsbeschluss für den Neubau eines Schulgebäudes und einer Einfachsporthalle in Albachten - Südlich Weseler Straße / Östlich Hohe Geist (Bebauungsplan Nr. 572) - einstimmig beschlossen
+- TOP 8.17: Gewährung einer Beihilfe an den SC Preußen Münster im Jahr 2022 für den Betrieb des Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP 8.18: Eckpunkte eines Bau- und Betriebsmodells für den Ausbau des städtischen Stadions an der Hammer Straße - ohne Beschlussfassung geschoben
+- TOP 8.19: Grundsatzbeschluss zur Erweiterung von 6 Gymnasien zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9 - von der Tagesordnung abgesetzt
+- TOP 8.20: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 8. Finanzformel für die Spielzeiten 2022/2023 bis 2026/2027 - einstimmig beschlossen
+- TOP 8.21: Bezuschussung der Anschaffung von Stoffwindeln - mehrheitlich geändert beschlossen
+- TOP 8.22: Erweiterung der Bodelschwinghschule zur 3-Zügigkeit mit OGTS und Mensa unter Einbeziehung der Flächen PTA - Baubeschluss - - von der Tagesordnung abgesetzt
+- TOP 8.23: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 8.24: Abfallgebühren 2022 - einstimmig beschlossen
+- TOP 8.25: Straßenreinigungsgebühren 2022 - mehrheitlich beschlossen
+- TOP 8.26: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2022 - einstimmig beschlossen
+- TOP 9: Wirtschaft
+- TOP 9.1: Wirtschaftsplan 2022 von Münster Marketing - einstimmig geändert beschlossen
+- TOP 10: Beratung des Haushaltsplanes 2022 (inkl. des Stellenplanes 2022) sowie der mittelfristigen Ergebnis- und Finanzplanung bis 2025
+- TOP 10.1: Beratung als Fachausschuss für die zugeordneten Ämter / Produktgruppen
+- TOP 10.2: Beratung als Vorberatungsgremium für den Rat
+- TOP 10.3: Haushaltsplan der Stadt Münster für das Haushaltsjahr 2022 - mehrheitlich geändert beschlossen
+- TOP 11: Verschiedenes
