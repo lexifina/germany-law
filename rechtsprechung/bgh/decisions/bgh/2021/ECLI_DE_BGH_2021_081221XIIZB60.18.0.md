@@ -1,0 +1,485 @@
+---
+ecli: "ECLI:DE:BGH:2021:081221XIIZB60.18.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 60/18"
+decided: "2021-12-08"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2021&Sort=1&Seite=114&nr=126366&anz=3571&pos=3425&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2021-12-08_XII_ZB_60_18_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0129.md", "germany/bund/acts/bgb/1355.md", "germany/bund/acts/bgb/1617.md", "germany/bund/acts/bgb/1617a.md", "germany/bund/acts/famfg/0026.md", "germany/bund/acts/famfg/0029.md", "germany/bund/acts/famfg/0069.md", "germany/bund/acts/famfg/0070.md", "germany/bund/acts/pstg/0051.md", "germany/bund/acts/pstv/0046.md"]
+---
+
+# Bundesgerichtshof, XII ZB 60/18 vom 2021-12-08
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                               BESCHLUSS
+XII ZB 60/18
+
+                                       vom
+
+                                8. Dezember 2021
+
+                            in der Personenstandssache
+
+Nachschlagewerk:       ja
+
+BGHZ:              nein
+
+BGHR:                  ja
+
+
+
+EGBGB Art. 10 Abs. 3
+
+
+Die Rechtswahl nach Art. 10 Abs. 3 EGBGB erfasst auch den Vatersnamen
+bulgarischen Rechts.
+
+BGH, Beschluss vom 8. Dezember 2021 - XII ZB 60/18 - Kammergericht Berlin
+                                                     AG Schöneberg
+
+
+
+
+ECLI:DE:BGH:2021:081221BXIIZB60.18.0
+
+                                         -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 8. Dezember 2021 durch den
+    Vorsitzenden Richter Dose und die Richter Dr. Günter, Dr. Nedden-Boeger,
+    Dr. Botur und Guhling
+
+    beschlossen:
+
+
+          Die Rechtsbeschwerden der weiteren Beteiligten zu 3 und 4 gegen
+          den Beschluss des 1. Zivilsenats des Kammergerichts in Berlin vom
+          18. Januar 2018 werden zurückgewiesen.
+
+          Gerichtskosten werden nicht erhoben, außergerichtliche Kosten
+          werden nicht erstattet.
+
+          Wert: 5.000 €
+
+
+
+
+                                         Gründe:
+
+                                            A.
+
+1         Das Verfahren betrifft die Erteilung einer Bescheinigung über die Erklärung zur Namensführung eines Kindes.
+
+2         Das betroffene Kind ist im Juni 2014 in der Schweiz geboren. Es ist aus
+    der Ehe seiner Eltern Tz. (Beteiligte zu 1; Kindesmutter) und Mi. (Beteiligter zu 2;
+    Kindesvater) hervorgegangen, die beide in der Schweiz leben und keinen gemeinsamen Ehenamen führen. Die Kindesmutter besitzt die deutsche und die
+    bulgarische Staatsangehörigkeit, der Kindesvater ist bulgarischer und kanadi-
+
+                                          -3-
+
+
+
+    scher Staatsangehöriger. Das betroffene Kind besitzt die deutsche, die bulgarische und die kanadische Staatsangehörigkeit. In einem von den schweizerischen
+    Behörden erstellten CIEC-Auszug aus dem Geburtsregister des Zivilstandsamts
+    Basel-Stadt wird für den Betroffenen als „Name“ Mi., als „Vorname“ Ivan und als
+    „anderer Name des Kindes“ Svetlinov aufgeführt. Die bulgarischen Behörden haben einen Auszug aus dem Geburtsregister des Standesamts Sofia erteilt. In dem
+    dort verwendeten CIEC-Vordruck, der nur zwei Felder für Namen und Vornamen
+    vorsieht, ist für den Betroffenen als „Name“ Mi. und als „Vorname“ Ivan Svetlinov
+    genannt.
+
+3         Mit einer am 30. März 2015 gegenüber der deutschen Botschaft in Bern
+    abgegebenen und konsularisch beglaubigten Erklärung haben die Kindeseltern
+    für die Namensführung des betroffenen Kindes bulgarisches Recht bestimmt.
+    Nach dieser Erklärung soll der Betroffene aufgrund des gewählten Rechts den
+    Familiennamen Mi. führen; im Urkundeneingang ist als „Vorname“ des Kindes
+    Ivan und als „Vatersname“ des Kindes Svet(l)inov genannt, der aus dem Vornamen Svetlin des Kindesvaters abgeleitet ist.
+
+4         Das Standesamt (Beteiligter zu 3) hat über die ihm zugegangene Erklärung zur Namensführung eine Bescheinigung erteilt, in der nur der Vorname Ivan
+    und der Geburtsname Mi. genannt wird. Es hat auch auf Beanstandung abgelehnt, den Namensbestandteil Svetlinov in die Bescheinigung aufzunehmen. Den
+    darauf gerichteten Anweisungsantrag hat das Amtsgericht zurückgewiesen. Auf
+    die dagegen gerichtete Beschwerde des betroffenen Kindes hat das Kammergericht die angefochtene Entscheidung abgeändert und das Standesamt angewiesen, dem Kind eine Bescheinigung über die Erklärung zur Namensführung zu
+    erteilen, aus der sich ergibt, dass dieses neben dem Vornamen Ivan den Vatersnamen Svetlinov und den Geburtsnamen Mi. führt.
+
+                                         -4-
+
+
+
+5         Hiergegen richten sich die zugelassenen Rechtsbeschwerden des Standesamts und der Standesamtsaufsicht (Beteiligte zu 4), die eine Wiederherstellung der amtsgerichtlichen Entscheidung erstreben.
+
+
+
+
+                                          B.
+
+6         Die Rechtsbeschwerden sind statthaft, weil sie das Beschwerdegericht in
+    der angefochtenen Entscheidung zugelassen hat. Daran ist der Senat gebunden
+    (§ 70 Abs. 1 und Abs. 2 Satz 2 FamFG i.V.m. § 51 Abs. 1 PStG). Sie sind auch
+    im Übrigen zulässig, haben in der Sache aber keinen Erfolg.
+
+
+
+
+                                           I.
+
+7         Die Entscheidung des Beschwerdegerichts unterliegt nicht bereits deshalb
+    der Aufhebung, weil sie entgegen § 69 Abs. 2 FamFG nicht ausreichend mit
+    Gründen versehen wäre.
+
+8         Zwar müssen Beschlüsse, die der Rechtsbeschwerde unterliegen, auch in
+    Angelegenheiten der freiwilligen Gerichtsbarkeit den maßgeblichen Sachverhalt
+    wiedergeben und den Gegenstand des Beschwerdeverfahrens sowie das
+    Rechtsschutzbegehren des Beschwerdeführers erkennen lassen (vgl. BGH Beschluss vom 23. März 2021 - XIII ZB 24/20 - juris Rn. 5 ff.). Der Beschwerdeentscheidung muss sich aus diesem Grunde insbesondere entnehmen lassen, welcher Beteiligte den erstinstanzlichen Beschluss angegriffen hat. Entgegen der
+    Auffassung der Rechtsbeschwerde trägt die Entscheidung des Beschwerdegerichts diesen Anforderungen aber schon deshalb Rechnung, weil sich zwar nicht
+
+                                          -5-
+
+
+
+     aus der Beschlussformel selbst, wohl aber aus dem der Beschlussformel vorangestellten Einleitungssatz im Beschlussrubrum ergibt, dass die Beschwerde (allein) von dem betroffenen Kind eingelegt worden ist.
+
+
+
+
+                                            II.
+
+9          Das Beschwerdegericht hat zur Begründung seiner unter anderem in
+     FamRZ 2018, 1000 veröffentlichten Entscheidung das Folgende ausgeführt:
+
+10         Der Name des betroffenen Kindes unterliege gemäß Art. 10 Abs. 1
+     EGBGB grundsätzlich deutschem Recht, weil es durch Geburt die deutsche
+     Staatsangehörigkeit erworben habe. Es sei unerheblich, dass der Betroffene
+     auch bulgarischer Staatsangehöriger sei, weil seine deutsche Staatsangehörigkeit gemäß Art. 5 Abs. 1 Satz 2 EGBGB vorgehe.
+
+11         Die Kindeseltern hätten gemäß Art. 10 Abs. 3 Satz 1 Nr. 1 EGBGB bulgarisches Sachrecht für die Namensführung des Betroffenen gewählt. Nach dem
+     bulgarischen Gesetz über die Personenstandsregistrierung führe der Betroffene
+     neben dem von seinen Eltern gewählten Vornamen Ivan und dem Familiennamen Mi. zwingend den zwischengestellten Vatersnamen Svetlinov. Der Vatersname (Patronym) werde von der Rechtswahl gemäß Art. 10 Abs. 3 EGBGB erfasst, denn unter dem kollisionsrechtlichen Begriff des Familiennamens sei zumindest im vorliegenden Zusammenhang auch der Vatersname zu verstehen.
+
+12         Der Vatersname bulgarischen Rechts sei kein dem Kind beigelegter Individualname, sondern er werde von allen Geschwistern getragen und könne unter
+     bestimmten Voraussetzungen auch an die nächste Generation weitergegeben
+     werden. Ungeachtet der uneinheitlichen Qualifikation des Vatersnamens in der
+
+                                          -6-
+
+
+
+     deutschen Rechtsprechung und Literatur müsse jedenfalls aus einer europarechtskonformen Auslegung des Art. 10 Abs. 3 EGBGB folgen, dass die von den
+     Kindeseltern am 30. März 2015 erklärte Rechtswahl auch für den Vatersnamen
+     Svetlinov gelte. Art. 21 AEUV gebiete es, den Namen eines Unionsbürgers auch
+     dann anzuerkennen, wenn er ihn zwar nicht während eines gewöhnlichen Aufenthalts in einem anderen Mitgliedstaat erworben habe, aber durch seine Staatsangehörigkeit eine sonstige Verbindung zu diesem aufweise. Das Recht auf Namensanerkennung betreffe sämtliche Namensbestandteile. Der Gesetzgeber
+     habe Art. 48 EGBGB gerade deshalb für ausreichend gehalten, weil weitergehenden unionsrechtlichen Anforderungen unter anderem durch die Wahlmöglichkeit nach Art. 10 Abs. 3 EGBGB Rechnung getragen sei. Dementsprechend
+     müsse die Vorschrift auch die Einbeziehung des Vatersnamens in die Rechtswahl zumindest dann zulassen, wenn der Sorgeberechtigte das Recht eines EU-Mitgliedstaats wähle und zum Ausdruck bringe, dass das Kind auch den Vatersnamen nach dem gewählten Recht führen solle. Es erscheine bei gleichzeitiger
+     Wahl des Familiennamens nach Art. 10 Abs. 3 EGBGB nicht praktikabel, die Eltern eines Unionsbürgers hinsichtlich des Vatersnamens auf eine gesonderte Erklärung in entsprechender Anwendung von Art. 48 EGBGB zu verweisen. Diese
+     Vorschrift ermögliche zudem keine Rechtswahl, sondern lediglich die Wahl eines
+     Namens und stelle für die Wirkung auf einen anderen Zeitpunkt ab.
+
+
+
+
+                                           III.
+
+13         Dies hält rechtlicher Überprüfung im Ergebnis stand.
+
+                                           -7-
+
+
+
+14         Das Beschwerdegericht hat das Standesamt zu Recht angewiesen, dem
+     betroffenen Kind gemäß § 46 Nr. 1 PStV zu bescheinigen, dass sich seine Namensführung nach bulgarischem Recht richtet und er neben dem Vornamen Ivan
+     den Vatersnamen Svetlinov und den Geburtsnamen Mi. führt.
+
+15         1. Nach Art. 10 Abs. 1 EGBGB unterliegt der Name einer Person dem
+     Recht des Staates, dem die Person angehört. Danach richtet sich die Namensführung des Betroffenen im Ausgangspunkt nach deutschem Sachrecht.
+
+16         Das betroffene Kind hat nach den Feststellungen des Beschwerdegerichts
+     mit der Geburt die deutsche, die bulgarische und die kanadische Staatsangehörigkeit erworben. Besitzt der Namensträger - wie hier - auch die deutsche Staatsangehörigkeit, ergibt sich die Anwendbarkeit des deutschen Namensrechts bei
+     Mehrstaatern jedenfalls aus Art. 5 Abs. 1 Satz 2 EGBGB, wonach der deutschen
+     Staatsangehörigkeit der prinzipielle Vorrang einzuräumen ist; insoweit folgerichtig hat das Beschwerdegericht auch keine tatsächlichen Feststellungen dazu getroffen, zu welchem Heimatstaat aufseiten des Betroffenen die engsten Verbindungen bestehen (Art. 5 Abs. 1 Satz 1 EGBGB). Ob und unter welchen Voraussetzungen der Eigenrechtsvorrang nach Art. 5 Abs. 1 Satz 2 EGBGB bei der Anwendung von Art. 10 EGBGB im Verhältnis zur Staatsangehörigkeit eines weiteren EU-Mitgliedstaates (hier: Bulgarien) im Hinblick auf eine Beeinträchtigung
+     unionsprimärrechtlicher Gewährleistungen (Art. 18, 20, 21 AEUV) rechtlichen Bedenken begegnet, hat der Senat bislang offengelassen (vgl. Senatsbeschlüsse
+     vom 14. November 2018 - XII ZB 292/15 - FamRZ 2019, 218 Rn. 16 und vom
+     19. Februar 2014 - XII ZB 180/12 - FamRZ 2014, 741 Rn. 14), und diese Frage
+     bedarf auch an dieser Stelle keiner weitergehenden Erörterung. Denn Gegenstand des vorliegenden Verfahrens ist die Wirksamkeit und die sachliche Reichweite des von dem Betroffenen zugunsten des bulgarischen Rechts als Namens-
+
+                                           -8-
+
+
+
+     statut ausgeübten Wahlrechts (Art. 10 Abs. 3 Nr. 1 EGBGB), mit dem der absolute Vorrang der deutschen Staatsangehörigkeit gemäß Art. 5 Abs. 1 Satz 2
+     EGBGB gerade außer Kraft gesetzt und eine dadurch bedingte Namensspaltung
+     verhindert werden soll. Die Rechtsprechung des Europäischen Gerichtshofs verlangt keinen generellen Wechsel in der kollisionsrechtlichen Methodik der einzelnen Mitgliedstaaten, sondern überlässt es ihnen, auf welchem Wege sie das Anknüpfungsergebnis korrigieren und eine unionsrechtskonforme Namensführung
+     herbeiführen. Dies kann sowohl über Anpassungsvorschriften des materiellen
+     Namensrechts (Art. 48 EGBGB, § 3 NÄG) erfolgen (vgl. EuGH Urteil vom 8. Juni
+     2017 - Rs. C-541/15 - FamRZ 2017, 1175 Rn. 40 ff., Freitag) als auch durch Verweisungslösungen, wie etwa die Einräumung von Rechtswahlbefugnissen, gewährleistet werden. Lässt sich durch die Rechtswahl nach Art. 10 EGBGB eine
+     gespaltene Namensführung innerhalb der Europäischen Union vermeiden, können deshalb auch unionsprimärrechtliche Gewährleistungen nicht (mehr) beeinträchtigt sein (vgl. Senatsbeschluss vom 24. Juni 2015 - XII ZB 273/13 - FamRZ
+     2015, 1477 Rn. 19).
+
+17         2. Nach Art. 10 Abs. 3 Nr. 1 EGBGB kann der Inhaber der elterlichen
+     Sorge gegenüber dem Standesamt bestimmen, dass sein Kind den Familiennamen nach dem Recht eines Staates erhalten soll, dem ein Elternteil angehört.
+     Dieses Wahlrecht wurde im vorliegenden Fall wirksam ausgeübt.
+
+18         a) Die Rechtswahlbefugnis steht dem Inhaber der elterlichen Sorge zu.
+     Wer Inhaber der elterlichen Sorge ist, wird - wenn keine deutsche oder in
+     Deutschland anzuerkennende ausländische Sorgerechtsentscheidung vorliegt -
+     in selbständiger Anknüpfung gemäß Art. 16 Abs. 1 des Haager Kinderschutzübereinkommens (KSÜ) nach dem Sachrecht des Staates bestimmt, in dem das
+     Kind seinen gewöhnlichen Aufenthalt hat. Das Aufenthaltsrecht entscheidet auch
+     darüber, ob mehrere Sorgeberechtigte gemeinsam handeln müssen. Macht das
+
+                                            -9-
+
+
+
+     Sorgerechtsstatut die Zuweisung der elterlichen Sorge von der Abstammung abhängig, ist diese - ebenfalls selbständig - nach Art. 19 EGBGB anzuknüpfen (vgl.
+     Staudinger/Hausmann BGB [2019] Art. 10 EGBGB Rn. 382; NK-BGB/Mankowski
+     4. Aufl. Art. 10 EGBGB Rn. 137). Das Recht am Aufenthaltsort des Kindes kann
+     daher wegen Art. 19 Abs. 1 Satz 1 EGBGB auch nach der Eltern-Kind-Zuordnung bestimmt werden.
+
+19          Maßgeblich ist hiernach das schweizerische Recht. Die Beteiligte zu 1, die
+     den Betroffenen geboren hat, und der Beteiligte zu 2, der im Zeitpunkt der Geburt
+     mit der Mutter verheiratet gewesen ist, sind gemäß Art. 252 Abs. 1, 255 Abs. 1
+     schweizerisches ZGB die rechtlichen Eltern des Kindes. Nach Art. 296 Abs. 2
+     schweizerisches ZGB stehen Kinder, solange sie minderjährig sind, unter der gemeinsamen elterlichen Sorge von Vater und Mutter, die im Umfang der ihnen
+     zustehenden elterlichen Sorge Gesamtvertreter des Kindes sind (Art. 304 Abs. 1
+     schweizerisches ZGB). Die Rechtswahl konnte deshalb - wie geschehen - gemeinsam durch beide Elternteile ausgeübt werden (zur Ausübung des Wahlrechts nach Art. 37 Abs. 2 schweizerisches IPRG durch die gesetzlichen Vertreter urteilsunfähiger Personen vgl. Müller-Chen in Zürcher Kommentar zum IPRG
+     3. Aufl. Art. 37 Rn. 72).
+
+20          b) In formeller Hinsicht bedarf die Erklärung der Rechtswahl der öffentlichen Beglaubigung (§ 129 BGB). Das Beschwerdegericht hat festgestellt, dass
+     die von den Kindeseltern am 30. März 2015 vor der deutschen Botschaft in Bern
+     abgegebene Erklärung konsularisch beglaubigt (§ 10 Abs. 1 Nr. 2 KonsularG)
+     worden ist. Die dagegen gerichtete, auf § 26 FamFG gestützte Aufklärungsrüge
+     der Standesamtsaufsicht greift nicht durch.
+
+21          Richtig ist zwar, dass sich das Original der Formularerklärung in den Akten
+     des Standesamts befindet und die zu den Gerichtsakten gelangte Kopie erkennbar unvollständig ist, weil sie weder die Unterschriften der Kindeseltern noch den
+
+                                          - 10 -
+
+
+
+     Beglaubigungsvermerk des Konsularbeamten erkennen lässt. Unabhängig davon, ob dem Beschwerdegericht die standesamtlichen Sammelakten vorgelegen
+     haben, zeigt die Rechtsbeschwerde der Standesamtsaufsicht damit aber keinen
+     Verfahrensfehler auf. Im gerichtlichen Anweisungsverfahren ist die formelle Wirksamkeit der von den Kindeseltern im März 2015 vor der deutschen Botschaft in
+     Bern abgegebenen Rechtswahlerklärung von keiner Seite in Zweifel gezogen
+     worden, mithin auch nicht von der am Verfahren beteiligten Standesamtsaufsicht.
+     Auch wenn im Rahmen eines Amtsermittlungsverfahrens ein fehlendes Bestreiten nicht dazu führt, dass eine Tatsache als zugestanden anzusehen ist (vgl.
+     auch § 29 Abs. 1 Satz 2 FamFG), kann der Tatrichter im Einzelfall von weiteren
+     Ermittlungen absehen, wenn ersichtlich ist, dass der schweigende Beteiligte die
+     Richtigkeit einer Tatsachenbehauptung einräumen wollte und sich hiergegen
+     auch seitens des Gerichts keine Bedenken ergeben (vgl. Senatsbeschluss vom
+     19. Mai 2021 - XII ZB 190/18 - FamRZ 2021, 1609 Rn. 37 mwN). Solche Bedenken ergeben sich nicht, zumal die Rechtswahlerklärung vom 30. März 2015
+     schon im standesamtlichen Verfahren als formwirksam behandelt worden ist.
+     Dies erschließt sich bereits daraus, dass das Standesamt auf der Grundlage dieser Erklärung im Dezember 2015 eine Bescheinigung über die Namensführung
+     nach bulgarischem Recht - wenn auch nicht mit dem vom Betroffenen erwünschten Inhalt - erteilt hat.
+
+22          3. Die wirksame Rechtswahl hat nach Art. 4 Abs. 2 EGBGB zu einer Sachnormverweisung in das materielle bulgarische Namensrecht geführt. Sie bewirkt,
+     dass der Betroffene den Vatersnamen nach bulgarischem Recht trägt, weil sich
+     die Rechtswahl auch auf diesen Namensbestandteil erstreckt.
+
+23          a) Soweit sich das Beschwerdegericht maßgeblich auf eine unionsrechtskonforme Auslegung des Art. 10 Abs. 3 EGBGB stützt, ist die Einwendung der
+
+                                           - 11 -
+
+
+
+     Standesamtsaufsicht, dass der vorliegende Sachverhalt nicht in den Anwendungsbereich des Unionsrechts fällt, allerdings nicht ohne weiteres von der Hand
+     zu weisen. Ein ausreichender Bezug zum Unionsrecht besteht nach ständiger
+     Rechtsprechung des Europäischen Gerichtshofs bei solchen Personen, die
+     Staatsangehörige eines EU-Mitgliedstaats sind und sich rechtmäßig im Hoheitsgebiet eines anderen EU-Mitgliedstaats aufhalten, und zwar auch dann, wenn sie
+     gleichzeitig die Staatsangehörigkeit des Aufenthaltsstaats besitzen (vgl. EuGH
+     Urteil vom 2. Oktober 2003 - Rs. C-148/02 - FamRZ 2004, 273 Rn. 27 f., Garcia
+     Avello; EuGH Urteil vom 8. Juni 2017 - Rs. C-541/15 - FamRZ 2017, 1175
+     Rn. 34, Freitag). Dass sich der erforderliche grenzüberschreitende Bezug auch
+     dann herstellen lässt, wenn ein EU-Doppelstaater - wie hier - in einem Drittstaat
+     (Schweiz) geboren ist, sich ausschließlich in diesem Drittstaat aufhält und auch
+     keine Anhaltspunkte dafür bestehen, dass dieser seinen Aufenthalt in die Europäische Union verlegen wird, lässt sich der bisherigen Rechtsprechung des Europäischen Gerichtshofs jedenfalls nicht zweifelsfrei entnehmen. Es kommt darauf aber nicht an, weil sich die auf den Familiennamen bezogene Rechtswahl
+     nach Art. 10 Abs. 3 EGBGB - wie im Folgenden darzulegen ist - auf den Vatersnamen bulgarischen Rechts erstreckt, ohne dass es für diesen rechtlichen Befund eines Rückgriffs auf das Gebot der unionsrechtskonformen Auslegung bedarf.
+
+24           b) Die Namensführung ist im bulgarischen Sachrecht im Wesentlichen in
+     den Art. 12 ff. des bulgarischen Gesetzes über die Personenstandsregistrierung
+     vom 23. Juli 1999 geregelt (abgedruckt bei Jessel/Holst in Bergmann/Ferid/
+     Henrich Internationales Ehe- und Kindschaftsrecht Länderteil Bulgarien [Stand:
+     1. Juli 2012] S. 93 ff.; im Folgenden: bulgPStG). Charakteristisch für das bulgarische Namensrecht ist das Vorhandensein von drei Namensbestandteilen, und
+     zwar dem Eigennamen, dem Vatersnamen und dem Familiennamen. Während
+     der Eigenname (Art. 12 bulgPStG) dem deutschen Vornamen entspricht, führt
+
+                                           - 12 -
+
+
+
+     das Kind als Zwischennamen grundsätzlich einen Vatersnamen, der aus dem
+     Eigennamen des Vaters unter Anfügung von -ov oder -ev als Suffix und einer
+     geschlechtsspezifischen Endung abgeleitet wird (Art. 13 bulgPStG). Der Familienname wird gemäß Art. 14 bulgPStG entweder nach dem Familiennamen des
+     Vaters oder aus dessen Vatersname gebildet.
+
+25         c) Die Rechtswahlbefugnis des Sorgeberechtigten erstreckt sich indessen
+     nicht auf den gesamten Namen des Kindes, sondern nur auf den Familiennamen.
+
+26         Daraus folgt zunächst, dass nach Art. 10 Abs. 3 Nr. 1 EGBGB von vornherein nur solche Rechtsordnungen gewählt werden können, die eine den familiären Bezug erkennbar machende Namenserteilung vorsehen. Rechtsordnungen, die ausschließlich Eigennamen kennen oder die eine Namensbestimmung
+     für das minderjährige Kind in das freie Belieben der sorgeberechtigten Eltern stellen und dabei auch die Erteilung von sogenannten Phantasienamen zulassen,
+     können nicht gewählt werden. Demgegenüber ist der erforderliche familiäre Bezug bei einem Zwischennamen, der - wie beispielsweise beim Vatersnamen (Patronym) oder beim Muttersnamen (Matronym) - die Verbindung zum Eigennamen
+     eines Elternteils erkennen lässt, durchaus gewährleistet (vgl. Senatsbeschluss
+     vom 9. Mai 2018 - XII ZB 47/17 - FamRZ 2018, 1245 Rn. 10). Es entspricht daher
+     ganz überwiegender Ansicht, dass auch solche Rechtsordnungen nach Art. 10
+     Abs. 3 Nr. 1 EGBGB wählbar sind, die keinen Familiennamen nach deutschem
+     Rechtsverständnis kennen und in denen ein derartiger Zwischenname der einzige Bestandteil des gesamten Namens ist, durch den ein familiärer Bezug hergestellt werden kann (vgl. KG FamRZ 2019, 973, 974 [Mongolei]; OLG Stuttgart
+     FamRZ 2010, 1571 f. [Mongolei]; Staudinger/Hausmann BGB [2019] Art. 10
+     EGBGB Rn. 389; jurisPK-BGB/Janal [Stand: 6. März 2020] Art. 10 EGBGB
+     Rn. 31; Erman/Stürner BGB 16. Aufl. Art. 10 EGBGB Rn. 32; Lammers in Gaaz/
+     Bornhofen/Lammers PStG 5. Aufl. § 21 Rn. 27).
+
+                                          - 13 -
+
+
+
+27         d) Umstritten ist hingegen, ob die Rechtswahl nach Art. 10 Abs. 3 EGBGB
+     einen Vatersnamen auch dann (mit-)umfasst, wenn das Kind - wie hier - nach
+     dem gewählten Recht bereits einen Namen führt, der nach deutschem Rechtsverständnis einem Familiennamen entspricht.
+
+28         aa) Teilweise wird in diesen Fällen eine Erstreckung der Rechtswahl auf
+     den Vatersnamen abgelehnt (vgl. OLG Dresden StAZ 2018, 155, 156 [Russland])
+     oder allenfalls ausnahmsweise im Rahmen einer europarechtskonformen Auslegung des Art. 10 Abs. 3 EGBGB zur Vermeidung einer hinkenden Namensführung von Unionsbürgern für zulässig erachtet (vgl. jurisPK-BGB/Janal [Stand:
+     6. März 2020] Art. 10 EGBGB Rn. 12). Zur Begründung wird insbesondere angeführt, dass dieser Namensbestandteil im Gegensatz zum Familiennamen nicht
+     von Generation zu Generation weitergegeben werden könne.
+
+29         Demgegenüber spricht sich eine verbreitete Auffassung in Rechtsprechung und Literatur dafür aus, Art. 10 Abs. 3 EGBGB weit auszulegen und die
+     Rechtswahl auch auf den Vatersnamen zu erstrecken, weil dieser Name die familiäre Verbundenheit mit dem Vater ausdrücke (vgl. OLG Hamburg StAZ 2021,
+     339, 340 f. [Russland]; NK-BGB/Mankowski 4. Aufl. Art. 10 EGBGB Rn. 158;
+     Hepting/Dutta Familie und Personenstand 2. Aufl. Rn. IV-323; Henrich in GS
+     Lüderitz S. 273, 276 f.; Lammers in Gaaz/Bornhofen/Lammers PStG 5. Aufl. § 21
+     Rn. 27; Krömer [Fachausschuss Nr. 4100] StAZ 2018, 132, 133; Rauhmeier
+     [Fachausschuss Nr. 4053] StAZ 2016, 187 f.; Wachsmann [Fachausschuss
+     Nr. 3566] StAZ 2000, 220, 221; tendenziell auch BeckOGK/Kroll-Ludwigs [Stand:
+     1. September 2021] Art. 10 EGBGB Rn. 48).
+
+30         bb) Die letztgenannte Auffassung trifft zu.
+
+                                           - 14 -
+
+
+
+31         (1) Entgegen der von der Rechtsbeschwerde der Standesamtsaufsicht
+     vertretenen Ansicht steht einer weiten Auslegung von Art. 10 Abs. 3 EGBGB
+     nicht bereits der Wortlaut der Vorschrift entgegen.
+
+32         Ebenso wie der Begriff des Namens in Art. 10 Abs. 1 EGBGB ist - wie das
+     Beschwerdegericht zutreffend erkannt hat - auch der Begriff des Familiennamens
+     in Art. 10 Abs. 3 EGBGB in einem kollisionsrechtlichen Sinne zu verstehen (vgl.
+     OLG Hamburg StAZ 2021, 339, 340; Hepting/Dutta Familie und Personenstand
+     2. Aufl. Rn. IV-323). Dem kollisionsrechtlichen Namensbegriff liegt notwendigerweise ein weiteres Verständnis zugrunde als dem Namensbegriff im materiellen
+     deutschen Recht, um die verschiedenen Erscheinungsformen des Namens in
+     den unterschiedlichen Rechtsordnungen erfassen zu können. Er umfasst deshalb grundsätzlich jede sprachliche Kennzeichnung einer Person mit Unterscheidungsfunktion. Der kollisionsrechtliche Namensbegriff setzt insbesondere nicht
+     voraus, dass sich die ausländische Kennzeichnung in die für das materielle deutsche Namensrecht prägende strukturelle Aufgliederung in Vornamen und Familienname einfügt (vgl. Hepting/Dutta Familie und Personenstand 2. Aufl.
+     Rn. II-182). Auch dem in Art. 10 Abs. 3 EGBGB verwendeten Begriff des Familiennamens muss nicht zwangsläufig das enge Begriffsverständnis des materiellen deutschen Namensrechts zugrunde gelegt werden. Bei einer kollisionsrechtlichen Betrachtungsweise zeigt sich Art. 10 Abs. 3 EGBGB vielmehr offen für eine
+     Auslegung, die dem Begriff des Familiennamens alle - auch dem deutschen
+     Recht möglicherweise nicht bekannten - Bestandteile eines ausländischen Namens unterwirft, welchen die Funktion zukommt, die Abstammung einer Person
+     und ihre Zugehörigkeit zu einer bestimmten Familie zu kennzeichnen.
+
+33         (2) Der nach Art. 13 bulgPStG vom Eigennamen des Vaters abgeleitete
+     Vatersname ist nach bulgarischem Recht kein dem Kind beigelegter Individualname, sondern ein selbständiger Bestandteil des Namens, der nicht beliebig
+
+                                           - 15 -
+
+
+
+     wählbar oder verzichtbar ist. Der Vatersname eines Kindes, bei dem kein Vater
+     für das Kind bekannt ist, wird gemäß Art. 15 Abs. 1 und 2 bulgPStG entweder
+     vom Eigennamen der Mutter oder - mit dessen Zustimmung - vom Eigennamen
+     des Vaters der Mutter (Großvater mütterlicherseits) abgeleitet. Nach Anerkennung oder gerichtlicher Feststellung der Vaterschaft ändert sich neben dem Familiennamen auch der Vatersname des Kindes; es erhält einen neuen Vatersnamen, der nach den allgemeinen Regeln für die Namensbildung vom Eigennamen
+     des Vaters abgeleitet ist (vgl. Art. 16 i.V.m. Art. 13 bulgPStG). Ähnliches gilt im
+     Falle einer sogenannten Volladoption, bei der das Kind gemäß Art. 18 Abs. 2
+     i.V.m. Art. 13 bulgPStG nach der Annahme einen neuen Vatersnamen erhält, der
+     aus dem Vornamen des annehmenden Mannes abgeleitet wird. Dies verdeutlicht, dass der Vatersname im bulgarischen Recht - ebenso wie im gesamten slawischen Rechtskreis - die Funktion erfüllt, einen generationsübergreifenden familiären Zusammenhang zu kennzeichnen (vgl. Senatsbeschluss vom 19. Februar 2014 - XII ZB 180/12 - FamRZ 2014, 741 Rn. 31).
+
+34         Soweit gegen die Erstreckung der Rechtswahl nach Art. 10 Abs. 3 EGBGB
+     auf den Vatersnamen eingewendet wird, dass dieser Namensbestandteil zwar
+     die Zuordnung zu einer (Klein-)Familie kennzeichnet, aber nicht an die Nachkommen weitergegeben werden könne, hat der Senat bereits 1998 darauf hingewiesen, dass die Weitergabe von Generation zu Generation nach deutschem Verständnis nicht mehr als eine zwingende Funktion des Familiennamens anzusehen werden kann (vgl. Senatsbeschluss vom 23. Dezember 1998 - XII ZB 5/98 -
+     FamRZ 1999, 570, 571; vgl. auch MünchKommBGB/Lipp 8. Aufl. Art. 10 EGBGB
+     Rn. 62; Henrich in GS Lüderitz S. 273, 276). Unter der Geltung eines Namensrechts, welches - wie das deutsche Recht in §§ 1616 i.V.m. § 1355, 1617 Abs. 1,
+     1617a Abs. 1 und 2 BGB - die Entschließung der Eltern über den Familiennamen
+     für ihr Kind in den Mittelpunkt stellt, erscheint die Weitergabe eines bestimmten
+
+                                           - 16 -
+
+
+
+     Familiennamens an die nächsten Generationen nicht mehr als Verwirklichung einer dem Namensrecht innewohnenden Idee, sondern vielmehr als Ausdruck einer sich in derartigen Traditionen ausdrückenden Selbstbestimmung (vgl. Senatsbeschluss vom 23. Dezember 1998 - XII ZB 5/98 - FamRZ 1999, 570, 571).
+     Unabhängig davon sieht das bulgarische Recht - wie das Beschwerdegericht
+     rechtsfehlerfrei festgestellt hat - durchaus eine Möglichkeit vor, den Vatersnamen
+     an die nächste Generation weiterzugeben, und zwar dann, wenn nach Art. 14
+     Abs. 1 bulgPStG nicht der Familienname des Vaters, sondern dessen Vatersname zum Familiennamen des Kindes bestimmt wird.
+
+35         (3) Auch der Normzweck von Art. 10 Abs. 3 EGBGB spricht für die Einbeziehung des Vatersnamens in den Anwendungsbereich dieser Vorschrift.
+
+36         (a) Die Rechtswahl dient insbesondere dazu, eine unerwünschte gespaltene Namensführung zu vermeiden (vgl. Henrich in GS Lüderitz S. 273, 277). Auf
+     diese Funktion des Art. 10 Abs. 3 EGBGB hat sich der deutsche Gesetzgeber
+     auch nach der „Garcia Avello“-Entscheidung des Europäischen Gerichtshofs (vgl.
+     EuGH Urteil vom 2. Oktober 2003 - Rs. C-148/02 - IPrax 2004, 339), wonach jeder Mitgliedstaat dafür Sorge tragen muss, dass ein EU-Doppelstaater - selbst
+     bei ineffektiver ausländischer Staatsangehörigkeit - den nach dem Recht des anderen Mitgliedstaats gebildeten Namen auch in seinem Hoheitsgebiet rechtmäßig führen kann, zur Begründung eines fehlenden gesetzgeberischen Handlungsbedarfs im nationalen Recht berufen (vgl. BT-Drucks. 17/11049 S. 12).
+
+37         Es besteht zwischen den Beteiligten Einigkeit darüber, dass das betroffene Kind unter den hier obwaltenden Umständen in Bulgarien („Ivan Svetlinov Mi.“) und in Deutschland („Ivan Mi.“) unterschiedliche Namen führen
+     müsste, wenn sich die Wahl des bulgarischen Rechts auf den Familiennamen
+     „Mi.“ beschränken würde. Denn unterfielen alle weiteren Namensbestandteile
+
+                                         - 17 -
+
+
+
+     (weiterhin) dem deutschen Sachrecht, hätte der Betroffene den im deutschen Namensrecht unbekannten Zwischennamen „Svetlinov“ nicht erworben. Die vom
+     Beschwerdegericht erörterte Möglichkeit, einen Gleichlauf der grenzüberschreitenden Namensführung durch eine Namenswahlerklärung in entsprechender Anwendung von Art. 48 EGBGB herbeizuführen, besteht entgegen der Auffassung
+     der Standesamtsaufsicht tatsächlich nicht. Der Betroffene hat seinen nach bulgarischem Recht gebildeten Namen nicht während eines gewöhnlichen Aufenthalts in Bulgarien erworben, und Art. 48 EGBGB ist angesichts seines bewusst
+     eng begrenzten Anwendungsbereichs (vgl. Senatsbeschluss vom 20. Februar
+     2019 - XII ZB 130/16 - FamRZ 2019, 967 Rn. 34) in Bezug auf reine „Garcia
+     Avello“-Fälle auch keiner entsprechenden Anwendung zugänglich. Eine etwaige
+     hinkende Namensführung des Betroffenen würde im deutschen Sachrecht daher
+     allenfalls durch ein öffentlich-rechtliches Namensänderungsverfahren (§ 3 NÄG)
+     beseitigt werden können.
+
+38         (b) Im Übrigen ergibt sich aus der Entstehungsgeschichte des derzeit geltenden Art. 10 Abs. 3 EGBGB, dass er den Eltern auch die Möglichkeit geben
+     wollte, die Namensführung des Kindes an das soziale Umfeld oder an die konkret
+     gelebte Familiensituation anzupassen (vgl. Hepting/Dutta Familie und Personenstand 2. Aufl. Rn. V-603). Dass dieser Gesetzeszweck eine Erstreckung der
+     Rechtswahlbefugnis auf einen Vatersnamen nahelegt, verdeutlicht in besonderem Maße der dem vorliegenden Sachverhalt spiegelbildlich gelagerte Fall, in
+     dem die Eltern eines ausländischen Kindes, das seit der Geburt aufgrund seines
+     nach Art. 10 Abs. 1 EGBGB berufenen Heimatrechts aus dem slawischen
+     Rechtskreis einen Vatersnamen trägt, für die Führung des Familiennamens nach
+     Art. 10 Abs. 3 Nr. 2 EGBGB das Recht des deutschen Aufenthaltsstaats wählen.
+     Die Wahl des deutschen Namensstatuts eröffnet den Anwendungsbereich des
+     Art. 47 EGBGB, soweit die Verweisung des Art. 10 Abs. 3 EGBGB reicht (vgl.
+     jurisPK-BGB/Janal [Stand: 5. März 2020] Art. 47 EGBGB Rn. 4; Krömer StAZ
+
+                                    - 18 -
+
+
+
+2018, 132, 133), und verschafft dem Namensträger dadurch die Möglichkeit, sich
+weiter in die namensrechtliche Umwelt des deutschen Aufenthaltsstaats zu integrieren. Erstreckt sich die Wahl des deutschen Rechts auch auf den Vatersnamen, kann dieser dem deutschen Recht unbekannte Namensbestandteil nach
+Art. 47 Abs. 1 Nr. 3 EGBGB abgelegt werden; es besteht daneben die Möglichkeit, den Vatersnamen gemäß Art. 47 Abs. 1 Nr. 1 EGBGB zum zweiten Vornamen zu bestimmen und ihn in diesem Zusammenhang gemäß Art. 47 Abs. 1
+Nr. 4 EGBGB auf die - gegebenenfalls geschlechtsspezifisch angepasste -
+Grundform des ursprünglichen Eigennamens zurückzuführen (vgl. zum bulgarischen Vatersnamen: Senatsbeschluss vom 19. Februar 2014 - XII ZB 180/12 -
+FamRZ 2014, 741 Rn. 22). Zwar hätte dies eine gespaltene Namensführung zwischen dem ausländischen Heimatstaat und dem deutschen Aufenthaltsstaat zur
+Folge, was den weiteren Normzweck des Art. 10 Abs. 3 EGBGB vordergründig
+zu konterkarieren scheint. Diese gespaltene Namensführung beruht dann aber
+
+                                   - 19 -
+
+
+
+auf einer im Rahmen seiner Privatautonomie getroffenen Entscheidung des Namensträgers; ein allgemeiner „Zwang zur Einnamigkeit“ besteht - auch im unionsrechtlichen Kontext - nicht (vgl. NK-BGB/Mankowski 4. Aufl. Art. 10 EGBGB
+Rn. 172a; Wall [Fachausschuss Nr. 4068] StAZ 2017, 22, 24).
+
+
+
+
+Dose                              Günter                       Nedden-Boeger
+
+                Botur                                Guhling
+
+
+
+
+Vorinstanzen:
+AG Berlin-Schöneberg, Entscheidung vom 01.08.2016 - 71b III 181/16 -
+KG Berlin, Entscheidung vom 18.01.2018 - 1 W 563/16 -
