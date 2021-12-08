@@ -1,0 +1,23 @@
+# Antrag: A 49 – Bewältigung der zusätzlichen Aufgaben durch jeweils eine zusätzliche Stelle im Bauamt und im Hauptamt
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-136/2021 3. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2021-12-08
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQxiiLiJwIB7L49p48I8DFU
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/1236
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag: A 49 – Bewältigung der zusätzlichen Aufgaben durch jeweils eine zusätzliche Stelle im Bauamt und im Hauptamt) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTsWQhSq0ya4aURfQzc9oSKUKzF2LScdIupGSPLugfFe/Beschlussvorlage_VL-136-2021_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag A 49 - Bewältigung der zusätzlichen Aufgaben durch jeweils eine zusätzliche Stelle im Bauamt und Hauptamt) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfqKMka8m9WcLRCSAUAP8l4UcgJYUlDtTwid9Fi1_Wjq/Antrag_A_49_-_Bewaeltigung_der_zusaetzlichen_Aufgaben_durch_jeweils_eine_zusaetzliche_Stelle_im_Bauamt_und_Hauptamt.pdf
+- Anlage: Beschlussvorlage (Entwurf Nachtragssatzung 2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXoQTRl4eb-WoqaLzGfaSS-6WfrxlmDvDcPLibIXgJ9m/Entwurf_Nachtragssatzung_2021.pdf
+- Anlage: Beschlussvorlage (PPP HFA Stellenplan Bauamt) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ8d_v2OwpKZjoddgBjZz6L1JdJ65mFAzI3najUAfP9x/PPP_HFA_Stellenplan_Bauamt.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/816 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/813 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/824 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/827 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/814 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/842 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/843 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/859 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/861 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/862 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
