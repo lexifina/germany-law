@@ -5,7 +5,6 @@
 ## Teil 1 Allgemeine Bestimmungen
 
 - [§ 1 Anwendungsbereich](0001.md)
-- [Anlage 1 bis 33 Anlageband zum Bundesgesetzblatt Teil I Nr. 81 vom 6. Dezember 2021](anlage-1-bis-33.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Vorübergehende Abweichungen; Verordnungsermächtigung](0003.md)
 - [§ 4 Zuständige Behörde](0004.md)
@@ -212,3 +211,4 @@
 - [§ 139 Sicherheitspersonal auf Fahrgastschiffen](0139.md)
 - [§ 140 Anrechnung von Fahrzeiten](0140.md)
 - [§ 141 Anwendung der Verordnung](0141.md)
+- [Anlage 1 bis 33 Anlageband zum Bundesgesetzblatt Teil I Nr. 81 vom 6. Dezember 2021](anlage-1-bis-33.md)

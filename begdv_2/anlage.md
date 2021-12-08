@@ -56,7 +56,8 @@
 |  | bis 31. 7.2014 | 22 596 | 23 508 | 24 384 | 25 296 |
 |  | bis 31. 8.2016 | 23 724 | 24 684 | 25 596 | 26 556 |
 |  | bis 31.12.2018 | 24 816 | 25 824 | 26 772 | 27 780 |
-|  | ab 1.1.2019 | 26 628 | 27 708 | 28 728 | 29 808 |
+|  | bis 31.8.2021 | 26 628 | 27 708 | 28 728 | 29 808 |
+|  | ab 1.9.2021 | 27 456 | 28 572 | 29 616 | 30 732 |
 |  |  |  |  |  |  |
 | Lebensaltergemäß § 13 Abs. 2oder § 14 Abs. 2 | abvollendetem40.LebensjahrDM | abvollendetem45.LebensjahrDM | abvollendetem50.LebensjahrDM | abvollendetem55.LebensjahrDM |
 | 1. | Diensteinkommen jährlich Einfacher Dienst |  |  |  |  |
@@ -114,7 +115,8 @@
 |  | bis 31. 7.2014 | 26 172 | 27 072 |  |  |
 |  | bis 31.8.2016 | 27 480 | 28 416 |  |  |
 |  | bis 31.12.2018 | 28 740 | 29 724 |  |  |
-|  | ab 1.1.2019 | 30 840 | 31 896 |  |  |
+|  | bis 31.8.2021 | 30 840 | 31 896 |  |  |
+|  | ab 1.9.2021 | 31 800 | 32 880 |  |  |
 |  |  |  |  |  |  |
 | Lebensaltergemäß § 13 Abs. 2oder § 14 Abs. 2 | bis zumvollendeten25.LebensjahrDM | abvollendetem25.LebensjahrDM | abvollendetem30.LebensjahrDM | abvollendetem35.LebensjahrDM |
 | 2. | Diensteinkommen jährlich Mittlerer Dienst |  |  |  |  |
@@ -172,7 +174,8 @@
 |  | bis 31. 7.2014 | 23 604 | 25 560 | 27 528 | 29 496 |
 |  | bis 31.08.2016 | 24 780 | 26 832 | 28 896 | 30 960 |
 |  | bis 31.12.2018 | 25 920 | 28 068 | 30 228 | 32 388 |
-|  | ab 1.1.2019 | 27 816 | 30 120 | 32 436 | 34 752 |
+|  | bis 31.8.2021 | 27 816 | 30 120 | 32 436 | 34 752 |
+|  | ab 1.9.2021 | 28 680 | 31 056 | 33 444 | 35 832 |
 |  |  |  |  |  |  |
 | Lebensaltergemäß § 13 Abs. 2oder § 14 Abs. 2 | abvollendetem40.LebensjahrDM | ab vollendetem45.LebensjahrDM | abvollendetem50.LebensjahrDM | abvollendetem55.LebensjahrDM |
 | 2. | Diensteinkommen jährlich Mittlerer Dienst |  |  |  |  |
@@ -230,7 +233,8 @@
 |  | bis 31. 7.2014 | 31 428 | 33 384 |  |  |
 |  | bis 31.8.2016 | 33 000 | 35 052 |  |  |
 |  | bis 31.12.2018 | 34 524 | 36 660 |  |  |
-|  | ab 1.1.2019 | 37 044 | 39 336 |  |  |
+|  | bis 31.8.2021 | 37 044 | 39 336 |  |  |
+|  | ab 1.9.2021 | 38 196 | 40 560 |  |  |
 |  |  |  |  |  |  |
 | Lebensaltergemäß § 13 Abs. 2oder § 14 Abs. 2 | bis zumvollendeten25.LebensjahrDM | abvollendetem25.LebensjahrDM | abvollendetem30.LebensjahrDM | abvollendetem35.LebensjahrDM |
 | 3. | Diensteinkommen jährlich Gehobener Dienst |  |  |  |  |
@@ -288,7 +292,8 @@
 |  | bis 31. 7.2014 | 28 476 | 30 972 | 33 468 | 35 964 |
 |  | bis 31.8.2016 | 29 904 | 32 520 | 35 148 | 37 752 |
 |  | bis 31.12.2018 | 31 284 | 34 020 | 36 768 | 39 492 |
-|  | ab 1.1.2019 | 33 564 | 36 504 | 39 456 | 42 372 |
+|  | bis 31.8.2021 | 33 564 | 36 504 | 39 456 | 42 372 |
+|  | ab 1.9.2021 | 34 608 | 37 632 | 40 680 | 43 680 |
 |  |  |  |  |  |  |
 | Lebensaltergemäß § 13 Abs. 2oder § 14 Abs. 2 | abvollendetem40.LebensjahrDM | abvollendetem45.LebensjahrDM | abvollendetem50.LebensjahrDM | abvollendetem55.LebensjahrDM |
 | 3. | Diensteinkommen jährlich Gehobener Dienst |  |  |  |  |
@@ -346,7 +351,8 @@
 |  | bis 31. 7.2014 | 38 448 | 40 944 |  |  |
 |  | bis 31.8.2016 | 40 368 | 42 996 |  |  |
 |  | bis 31.12.2018 | 42 228 | 44 976 |  |  |
-|  | ab 1.1.2019 | 45 312 | 48 264 |  |  |
+|  | bis 31.8.2021 | 45 312 | 48 264 |  |  |
+|  | ab 1.9.2021 | 46 716 | 49 764 |  |  |
 |  |  |  |  |  |  |
 | Lebensaltergemäß § 13 Abs. 2oder § 14 Abs. 2 | bis zumvollendeten25.LebensjahrDM | abvollendetem25.LebensjahrDM | abvollendetem30.LebensjahrDM | abvollendetem35.LebensjahrDM |
 | 4. | Diensteinkommen jährlich Höherer Dienst |  |  |  |  |
@@ -403,7 +409,8 @@
 |  | bis 31. 7.2014 | 36 984 | 39 888 | 42 756 | 45 660 |
 |  | bis 31.8.2016 | 38 832 | 41 892 | 44 892 | 47 940 |
 |  | bis 31.12.2018 | 40 620 | 43 824 | 46 956 | 50 148 |
-|  | ab 1.1.2019 | 43 584 | 47 028 | 50 388 | 53 808 |
+|  | bis 31.8.2021 | 43 584 | 47 028 | 50 388 | 53 808 |
+|  | ab 1.9.2021 | 44 940 | 48 480 | 51 948 | 55 476 |
 |  |  |  |  |  |  |
 | Lebensaltergemäß § 13 Abs. 2oder § 14 Abs. 2 | abvollendetem40.LebensjahrDM | abvollendetem45.LebensjahrDM | abvollendetem50.LebensjahrDM | abvollendetem55.LebensjahrDM |
 | 4. | Diensteinkommen jährlich Höherer Dienst |  |  |  |  |
@@ -460,4 +467,5 @@
 |  | bis 31. 7.2014 | 48 552 | 51 456 | 54 336 |  |
 |  | bis 31.8.2016 | 50 988 | 54 036 | 57 060 |  |
 |  | bis 31.12.2018 | 53 328 | 56 520 | 59 688 |  |
-|  | ab 1.1.2019 | 57 216 | 60 648 | 64 044 |  |
+|  | bis 31.8.2021 | 57 216 | 60 648 | 64 044 |  |
+|  | ab 1.9.2021 | 58 992 | 62 532 | 66 024 |  |

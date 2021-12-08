@@ -48,16 +48,12 @@ Abschnitt 1
 Biomassestrom-Nachhaltigkeitsverordnung (BioSt-NachV),
 Biokraftstoff-Nachhaltigkeitsverordnung (Biokraft-NachV)
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren oder Auslagen in Euro |
-| 1 | Vorläufige Anerkennung eines Zertifizierungssystems nach § 60 BioSt-NachV, § 59 Biokraft-NachV | 1 100 bis 1 700 |
-| 2 | Endgültige Anerkennung eines Zertifizierungssystems nach § 33 BioSt-NachV, § 33 Biokraft-NachV | 2 900 bis 12 900 |
-| 3 | Änderung der vorläufigen Anerkennung eines Zertifizierungssystems nach § 60 in Verbindung mit § 36 Satz 2 BioSt-NachV, § 59 in Verbindung mit § 36 Satz 2 Biokraft-NachV | 140 bis 740 |
-| 4 | Änderung der endgültigen Anerkennung eines Zertifizierungssystems nach § 33 in Verbindung mit § 36 Satz 2 BioSt-NachV, § 33 in Verbindung mit § 36 Satz 2 Biokraft-NachV | 140 bis 3 700 |
-| 5 | Vorläufige Anerkennung einer Zertifizierungsstelle nach § 60 BioSt-NachV, § 59 Biokraft-NachV | 1 100 bis 1 700 |
-| 6 | Endgültige Anerkennung einer Zertifizierungsstelle nach § 43 BioSt-NachV, § 43 Biokraft-NachV | 2 200 bis 11 000 |
-| 7 | Überwachung einer Zertifizierungsstelle nach § 55 Absatz 1 BioSt-NachV, § 55 Absatz 1 Biokraft-NachV |  |
-| 7.1 | Basisbetrag pro Kontrolle einer Zertifizierungsstelle (Office-Audit) | 3 700 |
-| 7.2 | Basisbetrag pro Kontrolle einer Vor-Ort-Kontrolle einer Zertifizierungsstelle in einer Schnittstelle, einem Betrieb oder einer Betriebsstätte, auch im Falle einer Fernbegutachtung (Witness-Audit) | 720 |
-| 7.3 | zuzüglich je angefangenem Prüfungstag | 290 bis 1 100 |
+| 1 | Vorläufige Anerkennung einer Zertifizierungsstelle nach § 43 BioSt-NachV, § 41 Biokraft-NachV | 1 100 bis 1 700 |
+| 2 | Endgültige Anerkennung einer Zertifizierungsstelle nach § 28 BioSt-NachV, § 26 Biokraft-NachV | 2 200 bis 11 000 |
+| 3 | Überwachung einer Zertifizierungsstelle nach § 40 Absatz 1 BioSt-NachV, § 38 Absatz 1 Biokraft-NachV |  |
+| 3.1 | Basisbetrag pro Kontrolle einer Zertifizierungsstelle (Office-Audit) | 3 700 |
+| 3.2 | Basisbetrag pro Kontrolle einer Vor-Ort-Kontrolle einer Zertifizierungsstelle in einer Schnittstelle, einem Betrieb oder einer Betriebsstätte, auch im Falle einer Fernbegutachtung (Witness-Audit) | 720 |
+| 3.3 | zuzüglich je angefangenem Prüfungstag | 290 bis 1 100 |
 Abschnitt 2
 Fleischgesetz (FlG)
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren oder Auslagen in Euro |

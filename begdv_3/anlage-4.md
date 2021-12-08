@@ -59,7 +59,8 @@
 |  |  | bis 31.7.2014 | 24 387 | 26 174 | 27 069 |  |
 |  |  | bis 31.8.2016 | 25 606 | 27 483 | 28 422 |  |
 |  |  | bis 31.12.2018 | 26 784 | 28 747 | 29 729 |  |
-|  |  | ab 1.1.2019 | 28 739 | 30 846 | 31 899 |  |
+|  |  | bis 31.8.2021 | 28 739 | 30 846 | 31 899 |  |
+|  |  | ab 1.9.2021 | 29 630 | 31 802 | 32 888 |  |
 |  |  |  |  |  |  |  |
 | 2. | Mittlerer Dienst | Bis zum vollendeten 35. Lebensjahr DM | Bis zum vollendeten 45. Lebensjahr DM | Bis zum vollendeten 55. Lebensjahr DM | Ab vollendetem 55. Lebensjahr DM |
 |  | Erreichbare Dienstbezüge |  |  |  |  |
@@ -118,7 +119,8 @@
 |  |  | bis 31.7.2014 | 27 513 | 31 425 | 33 380 |  |
 |  |  | bis 31.8.2016 | 28 889 | 32 996 | 35 049 |  |
 |  |  | bis 31.12.2018 | 30 218 | 34 514 | 36 661 |  |
-|  |  | ab 1.1.2019 | 32 424 | 37 034 | 39 337 |  |
+|  |  | bis 31.8.2021 | 32 424 | 37 034 | 39 337 |  |
+|  |  | ab 1.9.2021 | 33 429 | 38 182 | 40 556 |  |
 |  |  |  |  |  |  |  |
 | 3. | Gehobener Dienst | Bis zum vollendeten 35. Lebensjahr DM | Bis zum vollendeten 45. Lebensjahr DM | Bis zum vollendeten 55. Lebensjahr DM | Ab vollendetem 55. Lebensjahr DM |
 |  | Erreichbare Dienstbezüge |  |  |  |  |
@@ -177,7 +179,8 @@
 |  |  | bis 31.7.2014 | 33 466 | 38 449 | 40 944 |  |
 |  |  | bis 31.8.2016 | 35 139 | 40 371 | 42 991 |  |
 |  |  | bis 31.12.2018 | 36 755 | 42 228 | 44 969 |  |
-|  |  | ab 1.1.2019 | 39 438 | 45 311 | 48 252 |  |
+|  |  | bis 31.8.2021 | 39 438 | 45 311 | 48 252 |  |
+|  |  | ab 1.9.2021 | 40 661 | 46 716 | 49 748 |  |
 |  |  |  |  |  |  |  |
 | 4. | Höherer Dienst | Bis zum vollendeten 35. Lebensjahr DM | Bis zum vollendeten 45. Lebensjahr DM | Bis zum vollendeten 55. Lebensjahr DM | Ab vollendetem 55. Lebensjahr DM |
 |  | Erreichbare Dienstbezüge |  |  |  |  |
@@ -235,4 +238,5 @@
 |  |  | bis 31.7.2014 | 42 775 | 48 560 | 51 453 | 54 345 |
 |  |  | bis 31.8.2016 | 44 914 | 50 988 | 54 026 | 57 062 |
 |  |  | bis 31.12.2018 | 46 980 | 53 333 | 56 511 | 59 687 |
-|  |  | ab 1.1.2019 | 50 410 | 57 226 | 60 636 | 64 044 |
+|  |  | bis 31.8.2021 | 50 410 | 57 226 | 60 636 | 64 044 |
+|  |  | ab 1.9.2021 | 51 973 | 59 000 | 62 516 | 66 029 |
