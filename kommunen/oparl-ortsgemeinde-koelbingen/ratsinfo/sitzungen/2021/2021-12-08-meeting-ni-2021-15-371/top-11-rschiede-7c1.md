@@ -1,0 +1,7 @@
+# TOP 11: Verschiedenes
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Kölbingen (2021-12-08)
+- Körperschaft: Ortsgemeinde Kölbingen
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2021-15-371%7CVerschiede%7C1
+- Beschluss (Datei): Beschluss - Top 11 https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2021-15-371%7CVerschiede%7C1
