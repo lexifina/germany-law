@@ -1,0 +1,103 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2021-12-09T17:09:00+01:00
+- Ende: 2021-12-09T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23296
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/23296
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: II - Sachstand Schulbau in Porz
+- TOP -: III - Sachstand Porz Mitte
+- TOP 1: Einwohneranfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Planungsbeschluss für die Errichtung einer Fußgängersignalisierung an der Siegburger Straße zur Schulwegsicherung im Zusammenhang mit der Schulerweiterung und des Schulneubaus Siegburger Straße/Auf dem Sandberg in Poll - zurückgestellt
+- TOP 6.2: Benennung einer Planstraße im Baugebiet Hohenstaufenstraße/Steinstraße in Köln-Porz-Gremberghoven - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Benennung einer Planstraße im Baugebiet Hohenstaufenstraße/Steinstraße in Köln-Porz-Gremberghoven" - endgültig abgelehnt
+- TOP 6.3: Änderung der Verkehrsführung im Gartenweg in Zündorf, Einrichtung einer Einbahnstraße zwischen Wahner Straße und Houdainer Straße - ungeändert beschlossen
+- TOP 6.4: Verkehrssituation auf der Hohenstaufenstraße (Gremberghoven) - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Verkehrssituation auf der Hohenstaufenstraße"
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Stadtstrategie „Kölner Perspektiven 2030+“ - ungeändert empfohlen
+- TOP 7.2: 278. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.3: 279. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.4: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein - mit Änderungen empfohlen
+- TOP 7.5: Stadtklima- und Verschönerungsprogramm 2020 und 2021 im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 7.6: Beschluss über die Aufstellung eines Bebauungsplanes 75389/03, Arbeitstitel: Kaiserstraße in Köln-Porz - 1. Änderung - ungeändert empfohlen
+- TOP 7.7: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: "Friedrichstraße" in Köln-Porz - ungeändert empfohlen
+- TOP 7.8: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: "Hauptstraße/Urbacher Weg" in Köln-Porz - mit Änderungen empfohlen
+- TOP 7.9: Änderung der Hauptsatzung, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen - ungeändert empfohlen
+- TOP 7.10: Einrichtung des Erweiterungsbaus und entsprechende Freigabe von investiven Auszahlungsermächtigungen für die Förderschule Auf dem Sandberg 120, Köln-Poll im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltjahr 2022. - ungeändert empfohlen
+- TOP 7.11: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Dorotheenstraße in Köln-Porz - ungeändert empfohlen
+- TOP 7.12: Freigabe- und Baubeschluss für die Neugestaltung der Freianlagen im Innenstadtbereich Porz-Mitte - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Freigabe- und Baubeschluss für die Neugestaltung der Freianlagen im Innenstadtbereich Porz-Mitte" - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Schraffierte Fläche vor der Einfahrt Besenbinderstraße 1 in Porz-Eil" - endgültig zurückgezogen
+- TOP 8.2: Antrag der SPD-Fraktion "Absolutes Halteverbot vor einer Zufahrt über einen Randstreifen in der Besenbinderstraße" - zurückgestellt
+- TOP 8.3: Antrag der SPD-Fraktion "Prüfung von alternierendem Parken in der Straße Auf dem Stallberg" - zurückgestellt
+- TOP 8.4: Antrag der SPD-Fraktion "Sicherer Schulweg für die Grundschüler*innen der GGS Poller" - zurückgestellt
+- TOP 8.5: Antrag der SPD-Fraktion "Querungshilfe auf der Stresemannstr. in Höhe der GGS Friedrich List und der Lise-Meitner-Gesamtschule in 51149 Köln" - zurückgestellt
+- TOP 8.6: Antrag der SPD-Fraktion "Einrichtung von „verkehrsberuhigten Bereichen“ in der Wasserturmsiedlung in Westhoven (Drieschstraße, Wasserturmstraße undAuf dem Wasserfeld)" - zurückgestellt
+- TOP 8.7: Antrag der SPD-Fraktion "Neubauprojekt Gilgaustraße 36-40, Ensen" - geändert beschlossen
+- TOP -: Neubauprojekt Gilgaustraße 36-40, Ensen - Kenntnis genommen
+- TOP 8.8: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Planungsänderung Parkplatzumgestaltung Kellereiweg, Porz-Eil" - ungeändert beschlossen
+- TOP 8.9: Antrag der Fraktion DIE LINKE/Die PARTEI "Bemalung aller hässlichen Stromkästen in Porz" - endgültig abgelehnt
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Abwendung der Zweckentfremdung von Wohnraum" - ungeändert beschlossen
+- TOP 8.12: Antrag der Fraktionen SPD und DIE LINKE/Die PARTEI "Entfernen von Barrieren auf dem Bürgersteig der Straße „Alte Heide“ im Bereich „Linder Weg“ und „Guntherstraße“ in Wahnheide" - ungeändert beschlossen
+- TOP 8.13: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Einrichtung eines Trinkwasserbrunnen und E-Bike Ladestation an der Fahrradkirche in Porz Langel" - ungeändert beschlossen
+- TOP 8.14: Antrag der SPD-Fraktion "Absolutes Halteverbot - Aufstellung des Verkehrszeichen 283 – im Bereich der Straßenbiegung Martin-Luther-Str. / Duisburger Str./Düsseldorfer Str. in 51145 Köln" - endgültig abgelehnt
+- TOP 8.15: Antrag der Fraktion Bündnis 90/Die Grünen "Einrichtung einer Anlaufstelle der Winterhilfe im ehemaligen Praktiker Porz“ - ungeändert beschlossen
+- TOP 8.16: Antrag der Fraktion DIE LINKE/Die PARTEI "Öffnung des Gartens am Porzer Rathaus" - endgültig abgelehnt
+- TOP 8.17: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Mehr Platz für Fußgänger und Radfahrer auf dem Porzer Leinpfad" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Mehr Platz für Fußgänger und Radfahrer auf dem Porzer Leinpfad – Umsetzung der längst überfälligen Beschlusslage" - endgültig zurückgezogen
+- TOP 8.18: Antrag der SPD-Fraktion "Pfaffenpfädchen in 51145 Köln - Einbahnstraße mit Einfahrt von der Bergerstr. aus und Einfahrtverbot von der Frankfurter Str." - geändert beschlossen
+- TOP 8.19: Antrag der Fraktion DIE LINKE/Die PARTEI "Einführung von Tempo 30 auf der Hauptstraße im Bereich Porz" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Einführung von Tempo 30 auf der Hauptstraße im Bereich Porz" - ungeändert beschlossen
+- TOP 8.20: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Ein Stadtpark für Porz" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Festlegung weiterer Parkflächen in Porz" - endgültig zurückgezogen
+- TOP 8.21: Antrag der SPD-Fraktion "Sperrung der Drehbrücke: Alternativen schaffen!" - endgültig abgelehnt
+- TOP 8.22: Antrag der Fraktion DIE LINKEN/Die PARTEI "Umwidmung und barrierefreie Gestaltung des Fußweges „Auf dem Viertelchen“ in Köln Porz Lind zu einem Fuß- und Radweg durch das Verkehrszeichen 240" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Umwidmung und barrierefreie Gestaltung des Fußweges Auf dem Viertelchen“ in Köln Porz Lind zu einem Fuß- und Radweg durch das Verkehrszeichen" - ungeändert beschlossen
+- TOP 8.23: Antrag der SPD-Fraktion "keine Durchfahrt für LKW in der Ludwigstr. in 51145 Köln mangels Abbiege- und Wendemöglichkeit" - ungeändert beschlossen
+- TOP 8.24: Antrag der Fraktionen SPD und DIE LINKE/Die PARTEI "Einrichtung eines sicheren Fußweges an der Baustelle Heidestraße/Linder Weg in - geändert beschlossen
+- TOP 8.25: Dringlichkeitsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Einrichtung eines Begleitgremiums Deutzer Hafen Beteiligung der Bezirksvertretung Porz" - geändert beschlossen
+- TOP 8.26: Dringlichkeitsantrag der SPD-Fraktion "Erhöhung der Beförderungskapazitäten bei der Busline 160" - ungeändert beschlossen
+- TOP 8.27: Dringlichkeitsantrag der Fraktion DIE LINKE/ Die PARTEI "Waffenverbotszone auf Friedrich-Ebert-Ufer ausweiten" - zurückgestellt
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Spielplatzfläche Albert-Schweitzer-Straße
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Anfrage der SPD-Fraktion "Impf-Aktion in Gebieten mit hohen Inzidenzwerten"
+- TOP -: Impf-Aktion in Gebieten mit hohen Inzidenzwerten (mündliche Anfrage der SPD-Fraktion)
+- TOP 9.1.3: Obdachlose Menschen in Porz
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion DIE LINKEN/Die PARTEI "Welchen Sinn hat die dynamische Fahrgastinformationsanlage an der Haltestelle der Abendbuslinie 167 „Wahn Kirche“ ?"
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Lehrschwimmbecken GGS Hohe Straße / Ensen, Turnhalle Berliner Straße / Westhoven, Anträge 1075/2021 und 1266/2021, Beschlussfassung in der Sitzung BV7 am 17.06.2021"
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Öffentlichkeitsbeteiligung Glashüttenstraße; ISEK M3.01 - Kenntnis genommen
+- TOP 10.2.2: KOMM-AN NRW – Landesförderprogramm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2021 - Kenntnis genommen
+- TOP 10.2.3: "Absolutes Halteverbot vor einer Zufahrt über einen Randstreifen in der Besenbinderstraße" und "Schraffierte Fläche vor der Einfahrt Besenbinderstraße 1 in Porz-Eil" - Kenntnis genommen
+- TOP 10.2.4: Stellungnahme der Verwaltung zum Antrag "Anbringen von Legendenbeschilderungen" - Kenntnis genommen
+- TOP 10.2.5: Änderungen zum Fahrplanwechsel 2021/2022 - Kenntnis genommen
+- TOP 10.2.6: Sachstandsbericht zum Stand der Baumaßnahme für die GGS Breitenbachstraße - zu AN/1705/2021 Beschluss aus der Sitzung vom 2. September 2021 - Kenntnis genommen
+- TOP 10.2.7: Interkulturelle Zentren Köln - Übersichtskarte Stand: 1.09.2021 - Kenntnis genommen
+- TOP 10.2.8: Drehbrücke im Deutzer Hafen - Bauzeitverlängerung und Kostenerhöhung - Kenntnis genommen
+- TOP 10.2.9: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen
+- TOP 10.2.10: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 10.2.11: Revitalisierung Innenstadt Köln-Porz - Kenntnis genommen
+- TOP 10.2.12: Fortschreibung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
