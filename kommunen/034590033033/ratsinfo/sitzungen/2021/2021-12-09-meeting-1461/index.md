@@ -1,0 +1,56 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2021-12-09T17:30:00+01:00
+- Ende: 2021-12-09T19:15:00+01:00
+- Ort: Gymnastikhalle Wallenhorst, Fröbelstraße 2, 49134 Wallenhorst, Gymnastikhalle
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVsQ_xePxSp_4AL7pbjP9Qo
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1461
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYKYKGRLpK7YP9TcWIQQmvnaYmObWOTqf8kvcijEdCeL/Bekanntmachung_Rat_09.12.2021.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ3G8ZAod1UKWt7b_WhTIj3oMn4qSrfxDJr-bGTAhSYT/Oeffentliches_Beschlussprotokoll_Rat_09.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 16.11.2021
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: „Wir für Wallenhorst“ erhält Förderung für Entwicklung einer Pilot-Quartiersgemeinschaft
+- TOP 3.2: Fortführung des Integrierten Ländlichen Entwicklungskonzeptes ILEK Hufeisen als Regionales Entwicklungskonzeptes REK LEADER Hufeisen
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Bildung der beschließenden Ausschüsse "Bauen, Planen, Straßen und Verkehr" und "Wirtschaft und Finanzen" Benennung der stellvertretenden Ausschussmitglieder - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Bildung des Ausschusses für Kindergärten, Schulen und Bildung Lehrer-, Eltern- und Schülervertretungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Satzungsrecht
+- TOP 5.1: 3. Änderung der Hauptsatzung Beschließende Ausschüsse - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Antrag der FDP-Fraktion zum Streaming von Ratssitzungen und Schaffung der Voraussetzungen für Hybridsitzungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Antrag der FDP-Fraktion auf Beschluss einer Informationsfreiheitssatzung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.3: Antrag der FDP-Fraktion auf Ausnutzung von Fördermöglichkeiten nach der Kommunalrichtlinie - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.4: Gemeinsamer Antrag der CDU- und FDP-Fraktionen auf Bedarfsermittlung für mobile Luftreinigungsgeräte und technische Luftunterstützung in allgemeinbildenden Schulen und Kindergärten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.5: Antrag der Fraktion Bündnis 90 / Die Grünen auf Prüfung und Festlegung weiterer Maßnahmen des Infektionsschutzes in den gemeindeeigenen Schulen sowie die Beschaffung von Luftreinigungsgeräten in den Jahrgangsstufen 1 bis 6 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.6: Beschluss des Gleichstellungsplanes für die Jahre 2021 bis 2023 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Jugendangelegenheiten
+- TOP 7.1: Anpassung der Richtlinien zur Förderung von Vereinen, Verbänden und Institutionen auf die Corona-Pandemie - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Kindertagesstätten
+- TOP 8.1: Vorstellung der Vorentwurfsplanung für den Kindergarten St. Johannes in Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: Neufassung des Finanzierungsvertrages für die Kindertagesstätten in Trägerschaft des Ev.-luth. Kirchenkreises Osnabrück - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Schulangelegenheiten
+- TOP 9.1: Schulwegpläne für die Wallenhorster Grundschulen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: Umsetzung des Radverkehrskonzeptes hier: Erneuerung der Radabstellanlagen an der St. Bernhard Schule und der Grundschule Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sicherheit und Ordnung
+- TOP 10.1: Antrag der CDW-Fraktion zur Prüfung der Anschaffung von Unterflurcontainern zur Altglasentsorgung in den vier zentralen Ortsteillagen der Gemeinde - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Änderung der "Satzung über die Gewährung von Aufwandsentschädigung und Auslagenersatz der Ehrenbeamten und sonstigen Funktionsträgerinnen und Funktionsträger in der Freiwilligen Feuerwehr der Gemeinde Wallenhorst" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Umwelt- und Energieangelegenheiten
+- TOP 11.1: Erweiterung des Carsharingangebotes in der Gemeinde Wallenhorst: Neuer Standort auf dem ´Josefsplatz´ in Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 12.1: Evaluierung und 2. Änderungsvorschlag zur 1. Änderung der Vergaberichtlinie der Gemeinde Wallenhorst für Wohnbauland - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.2: Potenzialanalyse zur Kapazitätserweiterung und energetischen Optimierung der Kläranlagen ´Im Barlager Esch´, Rulle und des Hauptpumpwerks ´Hansastraße´
+- TOP 12.3: Umsetzung des Radverkehrskonzeptes der Gemeinde Wallenhorst hier: Ausbau der Straße „Am Kanal“ zu einem 3 m breiten, asphaltierten Geh- und Radweg - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Kämmereiangelegenheiten
+- TOP 13.1: Genehmigung der Annahme von Zuwendungen (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Anfragen und Anregungen
+- TOP 14.1: Erweiterung Testkapazitäten
+- TOP 14.2: Dank für die gute Zusammenarbeit
