@@ -1,0 +1,18 @@
+# Sitzung des Bauausschusses des Ortsgemeinderates der Ortsgemeinde Welschneudorf
+
+- Körperschaft: Ortsgemeinde Welschneudorf
+- Beginn: 2021-12-09T16:00:00+01:00
+- Ende: 2021-12-09T17:00:00+01:00
+- Ort: Kita "Kinderland St. Johannes der Täufer", Lindenweg 1, 56412 Welschneudorf
+- Status: durchgeführt
+- Gremium: https://montabaur.gremien.info/oparl/organization/25BauA
+- Ratsinformationssystem: https://montabaur.gremien.info/oparl/meeting/ni_2021-25BauA-5
+- OParl: https://montabaur.gremien.info/oparl/meeting/ni_2021-25BauA-5
+- Quelle: https://montabaur.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2021-25BauA-5
+- Ergebnisprotokoll: Gesamtprotokoll https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2021-25BauA-5
+- Wortprotokoll: Gesamtprotokoll https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2021-25BauA-5
+
+## Tagesordnung
+
+- TOP 1: Reparatur der Fenster in der Kita
