@@ -1,0 +1,104 @@
+# 3. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2021-12-09T17:30:00+01:00
+- Ende: 2021-12-09T21:58:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4947
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4947
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=327159
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - im Ausschuss abgelehnt
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Transparenz für Stadträte und Bezirksverordnete in Lichtenberg - überwiesen
+- TOP 5.3: Übernahme der Auslagen für Betreuungskosten von Bezirksverordneten und Bürgerdeputierten - überwiesen
+- TOP 5.4: Hybride Ausschusssitzungen - überwiesen
+- TOP 5.5: Videostream der BVV im Internet mit Sprungmarken anbieten - überwiesen
+- TOP 5.6: Offenlegung des Abstimmungsverhaltens der Parteien - überwiesen
+- TOP 5.7: Tempo 30 in der Skandinavischen Straße - überwiesen
+- TOP 5.8: Müllproblem an der Dolgenseestraße 22 lösen - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Landwirtschaftliche Flächen im Dorf Wartenberg erhalten - überwiesen
+- TOP 5.10: Weitere Poller an Bordsteinkanten und "STOP"-Piktogramme auf der Fahrbahn - überwiesen
+- TOP 5.11: Galerie der Vorstehenden - überwiesen
+- TOP 5.12: Bäume am Paul-und-Paula-Ufer in der Rummelsburger Bucht ausreichend versorgen und neu aufforsten - überwiesen
+- TOP 5.13: Eine öffentliche Toilette an der Zillepromenade in der Rummelsburger Bucht einrichten - überwiesen
+- TOP 5.14: Verkehrsberuhigung in der Wohnsiedlung "Mein Falkenberg" - überwiesen
+- TOP 5.15: Lösung für Falkenhöhe 1932 mit Respekt und Augenmaß - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Bessere Würdigung von Ehrenamtlichen der Sozialkommissionen (Soko) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Geschwindigkeitsüberwachung und Geschwindigkeitsreduzierung in der Zechliner Straße - überwiesen
+- TOP 5.18: Umweltpreis Lichtenberg - überwiesen
+- TOP 5.19: Zusätzlicher Radschnellweg für Lichtenberg - überwiesen
+- TOP 5.20: Sitzgelegenheiten auf Baumbegrenzungen in der Weitlingstraße - überwiesen
+- TOP 5.21: Anreize für insektenfreundliche Blühstreifen schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.22: Sicheres Überqueren der Siegfriedstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.23: Schulwege sicherer machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.24: Ballot-Bins für mehr Sauberkeit im öffentlichen Raum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.25: Radschnellweg durch Lichtenberg - weit weg von den Autoverkehrstrassen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.26: Straßenbau- und Tiefbauarbeiten rechtzeitig und transparent kommunizieren - überwiesen
+- TOP 5.27: Naturschutzgebiet Biesenhorster Sand für Besucher offenhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.28: Machbarkeitsstudie für eine Radschnellverbindung vom Ostkreuz nach Biesdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.29: Schulische Essensversorgung außerhalb der Notbetreuung sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.30: Fortsetzung des Programms LernBrücken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.31: Unterstützung Sportlerheim auf dem Sportplatz Fischerstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.32: Mittel für Integrationsfonds und BENN-Projekt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.33: Mehr Sicherheit an Radwegpollern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.34: Wohnungsneubau an der Möllendorffstraße/Ecke Storkower Straße - überwiesen
+- TOP 5.35: Öffentliche Informationsveranstaltung zum steigenden Verkehrsaufkommen im Dorf Wartenberg - überwiesen
+- TOP 5.36: Straßenbahngleise bis zur Landsberger Allee (M6) erweitern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.37: Ufergestaltung Rummelsburger Bucht - überwiesen
+- TOP 5.38: Priorisieren von Schulbaugenehmigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.39: Das Tierwohl sichern - Die Personalsituation der Veterinär- und Lebensmittelaufsicht verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.40: Runden Tisch "Entwicklung rund um die Trabrennbahn Karlshorst" einberufen - überwiesen
+- TOP 5.41: 10 Minuten Takt für die Tram 27 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.42: Verbindung von Pankow nach Marzahn-Hellersdorf über Lichtenberg prüfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.43: Schulplatzportal und Schulplatztauschbörse einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.44: Teilweise Änderung der Zielsetzung des B-Planverfahrens XVII-20 - überwiesen
+- TOP 5.45: Garagenstandort Zwieseler Straße erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.46: Den Grünen Hof in der Joachimsthaler Str. 1-7/Plauener Str. 8-26 erhalten - überwiesen
+- TOP 5.47: Planungsrecht in Alt-Hohenschönhausen modernisieren - überwiesen
+- TOP 5.48: Vergabe des Preises für „Demokratie und Zivilcourage“ 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.49: Beitritt zum Bündnis „Solidarisch gegen Hass“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.50: Ergebnisse der Einschulungsuntersuchung des Schuljahres 2018/19 im Bezirk Lichtenberg - überwiesen
+- TOP 5.51: Lichtenberger Kindertagesstättenentwicklungsplan 2021 - überwiesen
+- TOP 5.52: Bebauungsplan 11-66 - Einstellung; Arbeitstitel: Herzbergstraße 128–146, Vulkanstraße 10-12 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.53: Vorhabenbezogener Bebauungsplan11-116 VE - Festsetzung; Arbeitstitel: Landsberger Allee 315/319 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.54: Verleihung des 7. Lichtenberger Inklusionspreises an den Verein Berliner Engel für Bedürftige - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.55: Machbarkeitsstudie Vulkanstraße zwischen Landsberger Allee und Josef-Orlopp-Straße - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 7.1: Immer noch kein Wunschbaum in Lichtenberg? - beantwortet
+- TOP 7.2: Altes Haus trifft Neues Berlin - beantwortet
+- TOP 7.3: Aus für AUS? - beantwortet
+- TOP 7.4: Kritik am Erweiterungsbau für die Oberseeschule - Sachlich abgestimmtes oder persönlich-parteipolitisches Statement des zuständigen BA-Mitglieds? - beantwortet
+- TOP 7.5: Unzumutbare Verkehrsbeeinträchtigung auf der Rhinstraße in nördlicher Richtung - beantwortet
+- TOP 7.6: Ist ein "gendergerechter" Park wichtiger als ein "barrierefreier, altersadäquat sanierter"? - schriftlich beantwortet
+- TOP 7.7: Genehmigung für das Amazon-Verteilzentrum in der Bürknersfelder Straße? - schriftlich beantwortet
+- TOP 7.8: Baumfällung in der Dorotheastraße - schriftlich beantwortet
+- TOP 7.9: Vertragsangebote für die Pächter:innen der Anlage Falkenhöhe 1932 - schriftlich beantwortet
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl des Bezirksamtes - gewählt
+- TOP 9: Anträge zur Beschlussfassung - (offen)
+- TOP 9.1: Ausschüsse der Bezirksverordnetenversammlung Lichtenberg von Berlin - IX. Wahlperiode - - mit Änderungen in der BVV beschlossen
+- TOP 10: Vertagte Verhandlungsgegenstände - (offen)
+- TOP 10.1: Schulwegsicherheit für die Schüler und Schülerinnen der MATIBI Grundschule - vertagt
+- TOP 10.2: Tierwohl wertschätzen - Catering für alle - vertagt
+- TOP 10.3: Keine Tierquälerei in Lichtenberg - vertagt
+- TOP 10.4: Resolution - Entscheidung der Menschen in Lichtenberg respektieren - Volksentscheid "Deutsche Wohnen & Co enteignen" jetzt umsetzen! - vertagt
+- TOP 10.5: Kiezblocks unterstützen - vertagt
+- TOP 10.6: Einbahnstraße Archibaldweg für gegenläufigen Radverkehr freigeben - vertagt
+- TOP 10.7: Bezirksverordnete der BVV auf eine frühere Stasi-Tätigkeit überprüfen - vertagt
+- TOP 10.8: Kein Einknicken vor der Erpressung des weißrussischen Machthabers Lukaschenko mittels Migranten - keine Wiedereröffnung von Lichtenberger Flüchtlingsheimen - vertagt
+- TOP 10.9: Feuerwerke zur Jahreswende - vertagt
+- TOP 10.10: Finanzielle Unterstützung für die Berliner Tiertafel e. V. im Bezirk Lichtenberg - Der Berliner Tiertafel e. V. droht das Aus! - vertagt
+- TOP 10.11: Innenhof Gensler Straße/Zechliner Straße/Neustrelitzer Straße aufwerten - vertagt
+- TOP 10.12: 10 Minuten Takt für die Tram 21 - vertagt
+- TOP 10.13: Bebauungsplan 11-157 – frühzeitige Öffentlichkeitsbeteiligung; Arbeitstitel: östlich Detlevstraße - vertagt
