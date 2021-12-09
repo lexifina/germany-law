@@ -177,7 +177,7 @@
 | § 146 | Verletzung sonstiger Vorschriften über die Ausübung eines Gewerbes |
 | § 147 | Verletzung von Arbeitsschutzvorschriften |
 | § 147a | Verbotener Erwerb von Edelmetallen und Edelsteinen |
-| § 147b | Verbotene Annahme von Entgelten für Pauschalreisen und verbundene Reiseleistungen |
+| § 147b | Verletzung von Vorschriften über die Insolvenzsicherung bei Pauschalreisen und verbundenen Reiseleistungen |
 | § 147c | Verstoß gegen Wohlverhaltenspflichten bei der Vermittlung von Versicherungsanlageprodukten |
 | § 148 | Strafbare Verletzung gewerberechtlicher Vorschriften |
 | § 148a | Strafbare Verletzung von Prüferpflichten |

@@ -200,7 +200,7 @@ Handwerkskammern, Innungsverbände
 - [§ 146 Verletzung sonstiger Vorschriften über die Ausübung eines Gewerbes](0146.md)
 - [§ 147 Verletzung von Arbeitsschutzvorschriften](0147.md)
 - [§ 147a Verbotener Erwerb von Edelmetallen und Edelsteinen](0147a.md)
-- [§ 147b Verbotene Annahme von Entgelten für Pauschalreisen und verbundene Reiseleistungen](0147b.md)
+- [§ 147b Verletzung von Vorschriften über die Insolvenzsicherung bei Pauschalreisen und verbundenen Reiseleistungen](0147b.md)
 - [§ 147c Verstoß gegen Wohlverhaltenspflichten bei der Vermittlung von Versicherungsanlageprodukten](0147c.md)
 - [§ 148 Strafbare Verletzung gewerberechtlicher Vorschriften](0148.md)
 - [§ 148a Strafbare Verletzung von Prüferpflichten](0148a.md)
