@@ -1,0 +1,28 @@
+# Prüfung und Bestätigung des Gesamtabschlusses 2018 der Hansestadt Herford sowie Kenntnisnahme der Gesamtabschlüsse 2012-2017
+
+- Körperschaft: Stadt Herford
+- Drucksache/Vorlage: RA/177/2021 1. Ergänzung
+- Art: Vorlage Stabsbereich 6
+- Datum: 2021-12-10
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZVJKH50UsJGDLgEoFal3N9Y
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/14128
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage Stabsbereich 6 (Prüfung und Bestätigung des Gesamtabschlusses 2018 der Hansestadt Herford sowie Kenntnisnahme der Gesamtabschlüsse 2012-2017) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUMBdU6AGTTTxswC5zgOhmO8grscBB2yNTLn4np61_Zw/Vorlage_Stabsbereich_6_RA-177-2021_1._Ergaenzung.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 1a: Gesamtabschlusses 2012 Entwurfsfassung) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZanB1Q1dGkTHmEX28Z9crF3Ydg8l4ekGPM4KtZAAMU7p/Anlage_1a-_Gesamtabschlusses_2012_Entwurfsfassung.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 1b: Beteiligungsbericht 2012 - 2013) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT9q7DqdV6-VXRNKEDJ3yp_8i-AJBUjFsG7YgYSULldx/Anlage_1b-_Beteiligungsbericht_2012_-_2013.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 2a: Gesamtabschlusses 2013 Entwurfsfassung) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ9rvkoXpfJJKS14Ki4X00y5OGbxOFrQTiTwEynH0YRq/Anlage_2a-_Gesamtabschlusses_2013_Entwurfsfassung.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 2b: Beteiligungsbericht 2013 - 2014) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfXzWQVNeMRwtLXzEw6_dBzt6aZV-2cKXO8l-aa4u2eh/Anlage_2b-_Beteiligungsbericht_2013_-_2014.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 3a: Gesamtabschlusses 2014 Entwurfsfassung) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdZWnHLXRhgQW0IDiUg0eFhluciRBMMppoQDI47ORowB/Anlage_3a-_Gesamtabschlusses_2014_Entwurfsfassung.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 3b: Beteiligungsbericht 2014-2015) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUntpDwC5VLUJxOH49PPdnYyilUbM6T15g_zZCkyx-zZ/Anlage_3b-_Beteiligungsbericht_2014-2015.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 4a: Gesamtabschlusses 2015 Entwurfsfassung) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVpST5TT2PoDPEP6DJaktvN569QrhpmV2arDBlcVlV6H/Anlage_4a-_Gesamtabschlusses_2015_Entwurfsfassung.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 4b: Beteiligungsbericht 2015 - 2016) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeARFzI290o_ri3Zkjc6Vu8VpaI49jf23awqmY72z5qR/Anlage_4b-_Beteiligungsbericht_2015_-_2016.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 5a: Gesamtabschlusses 2016 Entwurfsfassung) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZerGmKgcutMzl4PLSI5igGLUuCUeyFBRKfXznKF-oTdM/Anlage_5a-_Gesamtabschlusses_2016_Entwurfsfassung.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 5b: Beteiligungsbericht 2016- 2017) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf2dt338l2Lp2BNB69gRYZuBdcTtqP58Ww7XiLHaIk-v/Anlage_5b-_Beteiligungsbericht_2016-_2017.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 6a: Gesamtabschluss 2017 Entwurfsfassung) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcEKFucBfSsxuAz1GsT_fsCWYGF3zLHBk9cRvZlaTm5N/Anlage_6a-_Gesamtabschluss_2017_Entwurfsfassung.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 6b: Beteiligungsbericht 2017 -2018) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTx1LeHnXvYVgA8rQKDguOQaygmvXqOLpZ3j2tMB1Y7t/Anlage_6b-_Beteiligungsbericht_2017_-2018.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 7a: Gesamtabschlusses 2018) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcPHkudOU9m-fQkosuamJS4eY1HnG5kQ_CnSm4pnhQtc/Anlage_7a-_Gesamtabschlusses_2018.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 7b: Beteiligungsbericht 2018 -2019) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWFgruejzPcHdKVZad1WpsuVzx9mg4-W5_LlW-eCD56K/Anlage_7b-_Beteiligungsbericht_2018_-2019.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 8a: Gesamtabschluss 2018 Bestätigungsvermerk) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYntsUl7PAiNoDpi_pXzb2NnAi695AU-AmFV6P7iNRMi/Anlage_8a-_Gesamtabschluss_2018_Bestaetigungsvermerk.pdf
+- Anlage: Vorlage Stabsbereich 6 (Anlage 9: Bericht des Rechnungsprüfungsausschusses zur Gesamtabschlussprüfung 2018) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeZSVgxrBBDgGC3JT5HiztNRVspEPmXpHIMq1Xw6VdXu/Anlage_9-_Bericht_des_Rechnungspruefungsausschusses_zur_Gesamtabschlusspruefung_2018.pdf
+- Beratung:  https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4137 https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-226
