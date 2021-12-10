@@ -1,0 +1,66 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2021-12-10T17:15:00+01:00
+- Ende: 2021-12-10T20:12:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQ_9ApV9DhNaap7dlNWEFYs
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4137
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW_UNJyh12sYRhZDa-7UQRMmCTBgfXe_i006Of0olYY4/Einladung_Rat_10.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT-rkaOurNTyK2puKGunROat-ykuNWXbR28Z5AdkK_pK/Oeffentliche_Niederschrift_Rat_10.12.2021.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 05.11.2021
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Anregungen gemäß § 24 GO NRW
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: Genehmigung von überplanmäßigen Auszahlungen für verschiedene Gebäude auf dem Bildungscampus Hammersmith Gelände - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.5b: Pro Herford GmbH: Wirtschaftsplan 2022 Mittelfristplan 2023-2026
+- TOP zu A.5b: Pro Herford GmbH: Wirtschaftsplan 2022 Mittelfristplan 2023-2026 - Einstimmig und ohne Enthaltung werden folgende Beschlüsse gefasst:
+- TOP A.5c: HVV-Konzern: Wirtschaftspläne 2022 und Mittelfristpläne des HVV-Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH - Einstimmig und ohne Enthaltung werden folgende Beschlüsse gefasst:
+- TOP A.5d: Bericht aus dem Beteiligungscontrolling: Jahresprognose 2021 der Beteiligungsunternehmen zum 30.09.2021
+- TOP A.5e: Beteiligungsbericht 2020/ 2021 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6: IAB Immobilien- und Abwasser-Betrieb Herford: Wirtschaftsplan 2022 Mittelfristplanung 2023-2026 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7: Gremienbesetzungen
+- TOP A.7a: Geschäftsführung: Wahl einer Vertretung und einer Stellvertretung des neuen Jugendamtselternbeirates als beratendes Mitglied im Jugendhilfeausschuss
+- TOP A.7b: Antrag der SPD-Fraktion: Gremienumbesetzung
+- TOP zu A.7b: Antrag der SPD-Fraktion: Gremienumbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7c: Antrag der Fraktion Liste 2004/UWG HBB: Gremienbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8: Prüfung und Bestätigung des Gesamtabschlusses 2018 der Hansestadt Herford sowie Kenntnisnahme der Gesamtabschlüsse 2012-2017
+- TOP zu A.8: Prüfung und Bestätigung des Gesamtabschlusses 2018 der Hansestadt Herford sowie Kenntnisnahme der Gesamtabschlüsse 2012-2017 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: 3. Situationsbericht zur Haushaltswirtschaft 2021
+- TOP A.10: Prüfung und Feststellung des Jahresabschlusses 2020, Ergebnisverwendung und Entlastung des Bürgermeisters hier: Einbringung des Jahresabschlusses 2020 in den Rat
+- TOP zu A.10: Prüfung und Feststellung des Jahresabschlusses 2020, Ergebnisverwendung und Entlastung des Bürgermeisters hier: Einbringung des Jahresabschlusses 2020 in den Rat
+- TOP A.11: Entwurf der Haushaltssatzung 2022 sowie mittelfristige Ergebnis- und Finanzplanung 2023 - 2025 hier: Einbringung des Entwurfs der Haushaltssatzung 2022 mit ihren Anlagen
+- TOP A.12: Stellenplan für den Haushalt 2022
+- TOP A.13: Überörtliche Prüfung der Stadt Herford im Jahr 2021 durch die Gemeindeprüfungsanstalt NRW (GPA) - Staatszuweisungen; hier: Zuwendungen für die Durchführung der außerunterrichtlichen Angebote für das Schuljahr 2019/2020 (OGS und Randstundenbetreuung)
+- TOP zu A.13: Überörtliche Prüfung der Stadt Herford im Jahr 2021 durch die Gemeindeprüfungsanstalt NRW (GPA) - Staatszuweisungen; hier: Zuwendungen für die Durchführung der außerunterrichtlichen Angebote für das Schuljahr 2019/2020 (OGS und Randstundenbetreuung) - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Hundesteuersatzung Satzungsvorschlag zur - Verarbeitung der Mikrochip-Nummer - Verzicht auf Steuermarken - Konkretisierung der Steuerbefreiung von Tierschutzhunden und - Umsetzung redaktioneller Änderungen - Mit einer Gegenstimme und vier Enthaltungen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.15: Änderung der Entwässerungsgebührensatzung - Bei einer Enthaltung wird folgender Beschluss einstimmig gefasst:
+- TOP A.16: Gebührenhaushalt Friedhöfe hier: Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Hansestadt Herford - Bei zwei Enthaltungen wird folgender Beschluss einstimmig gefasst:
+- TOP A.17: Gebührenhaushalt Krankentransport und Notfallrettung: Neufassung der Gebührensatzung für den Krankentransport und die Notfallrettung in der Hansestadt Herford in der Fassung der Anlage 1 mit Wirkung ab dem 01.01.2022
+- TOP zu A.17: Gebührenhaushalt Krankentransport und Notfallrettung: Neufassung der Gebührensatzung für den Krankentransport und die Notfallrettung in der Hansestadt Herford in der Fassung der Anlage 1 mit Wirkung ab dem 01.01.2022 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Neufassung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Hansestadt Herford mit Wirkung vom 01.01.2022 - Mit einer Gegenstimme und einer Enthaltung wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.19: Bebauungsplan Nr. 7.49a "Wittekindstraße" Änderung 5.21 hier: Anordnung einer Veränderungssperre Nr. 52 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Bebauungsplan Nr. 5.28 "Lützowstraße" hier: Anordnung der Veränderungssperre Nr. 53 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Projekt „OWL-Forum“ - Neubau einer neuen Kultur- und Veranstaltungsstätte Standortbeschluss
+- TOP zu A.21: Projekt „OWL-Forum“ - Neubau einer neuen Kultur- und Veranstaltungsstätte Standortbeschluss - Bei drei Gegenstimmen und einer Enthaltung wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.22: Neubesetzung der Einigungsstelle nach dem Landespersonalvertretungsgesetz (LPVG)
+- TOP zu A.22: Neubesetzung der Einigungsstelle nach dem Landespersonalvertretungsgesetz (LPVG) - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.23: Gleichstellungsplan für die Stadtverwaltung Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24: Gremiensitzungen 2022
+- TOP zu A.24: Gremiensitzungen 2022 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.25: BfH-Antrag: Todesanzeigen für städtische Bedienstete - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.26: BfH-Antrag: Turbine am Bergertor
+- TOP zu A.26: BfH-Antrag: Turbine am Bergertor - Mit vier Ja-Stimmen und einer Enthaltung wird der Antrag mehrheitlich abgelehnt.
+- TOP A.27: Antrag der FDP-Fraktion: Live-Streaming der Sitzungen des Rates, des Haupt- und Finanzausschusses und des Bau- und Umweltausschusses - Der TOP wurde abgesetzt
+- TOP A.28: BfH-Antrag: Frieda-Nadig-Denkmal: Prüfung der Verkehrssicherheit - Mit zwei Ja-Stimmen und einer Enthaltung wird der Antrag mehrheitlich abgelehnt.
+- TOP A.29: Antrag der SPD-Fraktion: Öffentliche Toilettenanlagen in der Hansestadt Herford - Einstimmig mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.30: Vereinbarung "Pakt mit dem Sport" - Neufassung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.31: Mitteilungen
