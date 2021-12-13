@@ -1,0 +1,80 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2021-12-13T17:08:00+01:00
+- Ende: 2021-12-13T21:56:00+01:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZauAP7XZKD6yQ_-QBx1Ux3I
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7386
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ-BXFiwZJhJh8Lczy3T5ldSr9HWRILS8B70K8Nv8Z5a/Bekanntmachung_Rat_13.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdBWtzPLpFEUXx5G5SOlSKWhI3jXfnDbMX9lj_iKOzZ2/Oeffentliche_Niederschrift_Rat_13.12.2021.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 25.10.2021
+- TOP 3.: Haushalt 2022
+- TOP 3.1: Haushaltssatzung 2022 hier: Stellenplan und Stellenübersichten nach der Haushaltsgliederung
+- TOP 3.1.1: Haushaltssatzung 2022 hier: Stellenplan und Stellenübersichten nach der Haushaltsgliederung - (kein Text vorhanden)
+- TOP 3.2: Beratung Haushaltsentwurf 2022 hier: Beantwortung von offenen Fragen
+- TOP 3.3: Erlass der Haushaltssatzung 2022 Rat 25.10.21 u. HA 15.11.21, 22.11.21, 29.11.21 - (kein Text vorhanden)
+- TOP 4.: Verleihung der Ehrenplakette der Stadt Brühl - (kein Text vorhanden)
+- TOP 5.: Etablierung eines jährlich stattfindenden Fotowettbewerbs; hier: Antrag der Fraktion LINKE&PIRATEN vom 30.03.2021 Bezug: KPTA v. 15.04.21, TOP 9 - (kein Text vorhanden)
+- TOP 6.: Spielraumplanung hier: Öffnung von Spielplätzen als Treffpunkte für Jugendliche - Resümee der Testphase Bezug: JHA 17.06.2021 - Vorlage Nr. 253/2021 - (kein Text vorhanden)
+- TOP 7.: Verwendung der Restmittel des Förderprogramms "Gute Schule 2020" aus dem Jahr 2018 - (kein Text vorhanden)
+- TOP 8.: Bestellung von Vertretungen in besonderen Einrichtungen hier: Wahl eines Mitglieds in den Aufsichtsrat der Rhein-Erft-Verkehrsgesellschaft mbH Bezug: Vorlage 402/2020 - (kein Text vorhanden)
+- TOP 9.: Auflösung der StadtServiceBetrieb Brühl AÖR zum 01.01.2023 - (kein Text vorhanden)
+- TOP 10.: Liquiditätsverbund Stadt Brühl - (kein Text vorhanden)
+- TOP 11.: Abwassergebührenkalkulation 2022
+- TOP 12.: Entwurf des Gesamtabschlusses 2016 - (kein Text vorhanden)
+- TOP 13.: Prüfung des Jahresabschlusses zum 31.12.2020 - (kein Text vorhanden)
+- TOP 14.: Gesellschafterversammlung Gebausie hier: Wirtschaftsplan 2022 - (kein Text vorhanden)
+- TOP 15.: Stadtwerke Brühl GmbH
+- TOP 15.1: Gesellschafterversammlung Stadtwerke Brühl GmbH hier: Wirtschaftsplan 2022 - (kein Text vorhanden)
+- TOP 15.2: Gesellschafterversammlung Stadtwerke - Eintragung des Ergebnisabführungsvertrages Stadtwerke Brühl Verkehrs Gesellschaft GmbH (SWBV) im Handelsregister- - (kein Text vorhanden)
+- TOP 16.: Stadtwerke Brühl Verkehrs-GmbH hier: Wirtschaftsplan 2022 - (kein Text vorhanden)
+- TOP 17.: Satzungen
+- TOP 17.1: 17. Änderung der Hauptsatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 17.2: Änderung der Satzung über die Wahrung der Belange von Menschen mit Behinderung der Stadt Brühl (Inklusionsbeiratssatzung) vom 14.12.2020 - (kein Text vorhanden)
+- TOP 17.3: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Brühl (Sondernutzungssatzung)
+- TOP 17.3.1: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Brühl (Sondernutzungssatzung) - (kein Text vorhanden)
+- TOP 17.4: 16. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Krankentransport und die Notfallrettung in der Stadt Brühl- Satzung Rettungsdienst- hier: Gebühren für die Notfallrettung (mit dem Rettungswagen), den Krankentransport und für das Notarzteinsatzfahrzeug - (kein Text vorhanden)
+- TOP 18.: Ausschreibung der Stelle einer/eines Technischen Beigeordneten
+- TOP 18.1: Änderung der Stellenausschreibung technisches Dezernat Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 07.12.2021
+- TOP 18.2: Ausschreibung der Stelle einer / eines Technischen Beigeordneten - (kein Text vorhanden)
+- TOP 19.: Förderantrag Stadterneuerungsprogramm 2022 - zur Herbeiführung eines nachträglichen Ratsbeschlusses - - (kein Text vorhanden)
+- TOP 20.: Bebauungspläne
+- TOP 20.1: 58. Änderung des Flächennutzungsplanes (Bebauungsplan 02.10 „Östlich Römerstraße, An der Lessingstraße“) - Abwägungs- und Feststellungsbeschluss - Bebauungsplan 02.10 „Östlich Römerstraße, An der Lessingstraße“ - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 20.2: Bebauungsplan 01.19 „Bonnstraße 26 - 40“ - Abwägungs- und Satzungsbeschluss - hier: Bericht des Bürgermeisters Bezug: Vorlage 582/2021, PStA 02.12.2021
+- TOP 20.2.1: Bebauungsplan 01.19 „Bonnstraße 26 - 40“ - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 21.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 21.1: Zweite überplanmäßige Mittelbereitstellung für die Beseitigung von Hochwasserschäden - (kein Text vorhanden)
+- TOP 21.2: Überplanmäßige Mittelbereitstellung hier: Wertkorrektur auf Forderungen im Bereich UVG - (kein Text vorhanden)
+- TOP 21.3: Außerplanmäßige Auszahlung aus Rückstellungen für eine Gewerbesteuer-Erstattung Vorjahre inkl. Zinsen - (kein Text vorhanden)
+- TOP 21.4: Überplanmäßige Mittelbereitstellung für Telefonkosten - (kein Text vorhanden)
+- TOP 21.5: Überplanmäßige Mittelbereitstellung für Mehrauszahlung Verbandsumlage KDVZ - (kein Text vorhanden)
+- TOP 21.6: Überplanmäßige Mittelbereitstellung Interlokale Verkehre - Aufwanddeckungsfehlbeträge (ADF) hier: Ist-Daten 2020 - (kein Text vorhanden)
+- TOP 21.7: Zuwendung der Landesregierung NRW für die Haushaltsjahre 2021 und 2022, Aufbau einer digitalen Infrastruktur an Musikschulen im Rahmen des Corona-Kulturstärkungsfonds hier: Überplanmäßige Ausgabe in 2021 - (kein Text vorhanden)
+- TOP 22.: Anträge
+- TOP 22.1: Arbeitsplätze für Menschen mit Behinderung in Brühl Bezug: Anfrage der FDP-Fraktion vom 26.11.2021
+- TOP 22.1.1: Anfrage zu Arbeitsplätzen für Menschen mit Behinderung in Brühl Bezug: Anfrage der FDP-Fraktion vom 26.11.2021, Vorlage 635/2021
+- TOP 22.2: Wohnungsmarktprofil für die Bevölkerungsentwicklung in der Stadt Brühl Bezug: Anfrage der Fraktion Linke&Piraten vom 22.11.2021
+- TOP 22.3: Auf- und Ausbau von barrierefreiem Wohnraum in Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 22.11.2021
+- TOP 23.: Umbesetzung in Ausschüssen
+- TOP 23.1: Umbesetzung in Ausschüssen Bezug: Antrag der Grünen-Fraktion vom 28.11.2021 - (kein Text vorhanden)
+- TOP 23.2: Umbesetzung in Ausschüssen Bezug: Antrag der Fraktion Linke&Piraten vom 10.12.2021 - (kein Text vorhanden)
+- TOP 24.: Mitteilungen
+- TOP 25.: Anfragen
+- TOP 25.1: Verein "Brühl digital"
+- TOP 25.2: Verkehrsbehinderungen vor der Barbaraschule und der Regenbogenschule am Standort Kierberg I
+- TOP 25.3: Ausbau Glasfasernetz
+- TOP 25.4: Verkehrsbehinderungen vor der Barbaraschule und der Regenbogenschule am Standort Kierberg II
+- TOP B): Nichtöffentliche Sitzung
+- TOP 26.: Bericht über die 159. Sitzung des Aufsichtsrates der REVG mbH am 16.09.2021
+- TOP 27.: Vergabe eines städtischen Grundstücks in der Gemarkung Brühl im Wege des Erbbaurechts - (kein Text vorhanden)
+- TOP 28.: Mitteilungen
+- TOP 29.: Anfragen
