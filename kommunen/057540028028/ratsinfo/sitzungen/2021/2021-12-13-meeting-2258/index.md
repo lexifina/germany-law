@@ -1,0 +1,55 @@
+# Rat der Stadt Rheda-Wiedenbrück (8. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2021-12-13T17:00:00+01:00
+- Ende: 2021-12-13T19:15:00+01:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaZZS87dJOV5WYL8kd88ZHg
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2258
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaKSVaD50ryxJN_pMrp9Q_lryk1CJh1OlkzM2013EO9o/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_13.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbFtaxaQu4VOENAz69OSieqjM8ckEhD6BU94e_-y3H0P/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_13.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Antrag der CDU Fraktion - A-25-2021 Spielhallen Prostitution - 42 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 5: Antrag der Fraktion Bündnis 90/Die Grünen vom 09.04.2020 zum Beitritt "Sichere Häfen" - 44 Ja-Stimme(n), 1 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 6: Förderprogramm für Lastenfahrräder - 19 Ja-Stimme(n), 26 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 7: Antrag der Offenen Liste auf ständigen Sitz der Vertreter der Schulpflegschaften im Schulausschuss - 44 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 8: Umbesetzung im Fachausschuss - Einstimmig
+- TOP 9: Jahresabschluss zum 31.12.2019; Feststellung und Entlastung des Bürgermeisters - einstimmig (bei 7 Enthaltungen)
+- TOP 10: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen für Mai 2021 bis August 2021 für das Haushaltsjahr 2020 und September 2021 bis Oktober 2021 für das Haushaltsjahr 2021 - Kenntnisnahme
+- TOP 11: Überplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 110201 - Einstimmig
+- TOP 12: Überplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 020202 - Einstimmig
+- TOP 13: Überplanmäßige Verpflichtungsermächtigung gem. § 83 Abs. 1 GO für die Baumaßnahme Kiefernweg, Erschließung Gewerbe- und Wohngebiet - Einstimmig
+- TOP 14: Finanzcontrolling - Quartalsbericht III/2021 zur Unterrichtung der politischen Mandatsträger der Stadt Rheda-Wiedenbrück nach § 2 Abs. 2 NKF-CIG NRW - Kenntnisnahme
+- TOP 15: Betrieb Bauhof: Wirtschaftsplan des Betriebes Bauhof für das Wirtschaftsjahr 2022 - Einstimmig
+- TOP 16: EAW: Wirtschaftsplan des Eigenbetriebes Abwasser für das Wirtschaftsjahr 2022 - Einstimmig
+- TOP 17: EAW: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen - Einstimmig
+- TOP 18: Einbringung des Entwurfes der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2022 - Einstimmig
+- TOP 19: Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Rheda-Wiedenbrück (OBV)
+- TOP 19.1: Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Rheda-Wiedenbrück (OBV) - mehrheitlich bei 3 Nein-Stimmen und 1 Enthaltung zugestimmt
+- TOP 20: Erlass einer Stellplatzsatzung für die Stadt Rheda-Wiedenbrück - mehrheitlich bei 9 Nein-Stimmen und 1 Enthaltung zugestimmt
+- TOP 21: Überörtliche Prüfung der Gemeindeprüfungsanstalt - Einstimmig
+- TOP 22: Überörtliche Prüfung durch die GPA NRW - Stellungnahme nach § 105 Abs. 6 und 7 GO NRW - Einstimmig
+- TOP 23: Bleichstraße weiteres Vorgehen - 29 Ja-Stimme(n), 13 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 23.1: Informationen zur Möglichkeit der Aufnahme neuer Maßnahmen in das ISEK Innenstadt Rheda
+- TOP 24: ISEK Rheda, Barrierefreie Erschließung des Bahnhofsgebäudes in Rheda - 47 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 25: Kooperation mit dem E-Tretroller-Anbieter Tier mobility - mehrheitlich bei 12 Nein-Stimmen und 1 Enthaltung zugestimmt
+- TOP 26: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 27: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 28: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 29: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 30: Erklärung von Ausschließungsgründen
+- TOP 31: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 32: Vertragsangelegenheiten - Einstimmig
+- TOP 33: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 34: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 35: Dringende Anfragen und Anregungen
