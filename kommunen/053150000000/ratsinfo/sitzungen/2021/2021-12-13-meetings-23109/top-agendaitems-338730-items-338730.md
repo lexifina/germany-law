@@ -1,0 +1,6 @@
+# TOP -: Beantwortung vgl. TOP 6.3.1
+
+- Sitzung: 11. Sitzung der Bezirksvertretung Ehrenfeld, (2021-12-13)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/338730
