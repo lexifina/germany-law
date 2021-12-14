@@ -76,7 +76,7 @@ Versicherungspflichtige
 - [§ 35 Vermittlungsangebot](0035.md)
 - [§ 36 Grundsätze der Vermittlung](0036.md)
 - [§ 37 Potenzialanalyse und Eingliederungsvereinbarung](0037.md)
-- [§ 37a](0037a.md)
+- [§ 37a (weggefallen)](0037a.md)
 - [§ 37b (weggefallen)](0037b.md)
 - [§ 37c (weggefallen)](0037c.md)
 - [§ 38 Rechte und Pflichten der Ausbildung- und Arbeitsuchenden](0038.md)
@@ -142,7 +142,7 @@ Versicherungspflichtige
 - [§ 75 Begleitende Phase der Assistierten Ausbildung](0075.md)
 - [§ 75a Vorphase der Assistierten Ausbildung](0075a.md)
 - [§ 76 Außerbetriebliche Berufsausbildung](0076.md)
-- [§ 76a](0076a.md)
+- [§ 76a (weggefallen)](0076a.md)
 - [§ 77 (weggefallen)](0077.md)
 - [§ 78 (weggefallen)](0078.md)
 - [§ 79 (weggefallen)](0079.md)
@@ -409,7 +409,7 @@ Berichterstattung
 
 ##### Zweiter Titel Ausbildungsvermittlung und Arbeitsvermittlung
 
-- [§ 291](0291.md)
+- [§ 291 (weggefallen)](0291.md)
 - [§ 292 Auslandsvermittlung, Anwerbung aus dem Ausland](0292.md)
 - [(XXXX) §§ 293 bis 295 (weggefallen)](xxxx-293-bis-295.md)
 - [§ 296 Vermittlungsvertrag zwischen Vermittlern und Arbeitsuchenden](0296.md)
@@ -519,7 +519,7 @@ Anordnungsermächtigung
 
 - [§ 341 Beitragssatz und Beitragsbemessung](0341.md)
 - [§ 342 Beitragspflichtige Einnahmen Beschäftigter](0342.md)
-- [§ 343](0343.md)
+- [§ 343 (weggefallen)](0343.md)
 - [§ 344 Sonderregelungen für beitragspflichtige Einnahmen Beschäftigter](0344.md)
 - [§ 345 Beitragspflichtige Einnahmen sonstiger Versicherungspflichtiger](0345.md)
 - [§ 345a Pauschalierung der Beiträge](0345a.md)
@@ -591,7 +591,7 @@ zum Erlass von Verwaltungsvorschriften
 - [§ 372 Satzung und Anordnungen](0372.md)
 - [§ 373 Verwaltungsrat](0373.md)
 - [§ 374 Verwaltungsausschüsse](0374.md)
-- [§ 374a](0374a.md)
+- [§ 374a (weggefallen)](0374a.md)
 - [§ 375 Amtsdauer](0375.md)
 - [§ 376 Entschädigung der ehrenamtlich Tätigen](0376.md)
 
@@ -652,11 +652,11 @@ zum Erlass von Verwaltungsvorschriften
 
 - [§ 408 Besondere Bezugsgröße und Beitragsbemessungsgrenze](0408.md)
 - [(XXXX) §§ 409 u. 410 (weggefallen)](xxxx-409-u-410.md)
-- [§ 411](0411.md)
-- [§ 412](0412.md)
-- [§ 413](0413.md)
-- [§ 414](0414.md)
-- [§ 415](0415.md)
+- [§ 411 (weggefallen)](0411.md)
+- [§ 412 (weggefallen)](0412.md)
+- [§ 413 (weggefallen)](0413.md)
+- [§ 414 (weggefallen)](0414.md)
+- [§ 415 (weggefallen)](0415.md)
 - [§ 416 (weggefallen)](0416.md)
 - [§ 416a (weggefallen)](0416a.md)
 

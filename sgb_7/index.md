@@ -93,7 +93,7 @@ Leistungen zur Teilhabe am Arbeitsleben
 - [§ 48 Verletztengeld bei Wiedererkrankung](0048.md)
 - [§ 49 Übergangsgeld](0049.md)
 - [§ 50 Höhe und Berechnung des Übergangsgeldes](0050.md)
-- [§ 51](0051.md)
+- [§ 51 (weggefallen)](0051.md)
 - [§ 52 Anrechnung von Einkommen auf Verletzten- und Übergangsgeld](0052.md)
 
 #### Siebter Unterabschnitt Besondere Vorschriften für die Versicherten in der
