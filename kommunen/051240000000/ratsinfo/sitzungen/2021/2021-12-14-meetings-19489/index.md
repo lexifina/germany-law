@@ -1,0 +1,64 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-12-14T16:06:00+01:00
+- Ende: 2021-12-14T17:39:00+01:00
+- Ort: Gesellschaft Concordia, Werth 48, 42275 Wuppertal, Raum 2 "Saal Rittershausen"
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19489
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19489
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 06.12.2021 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00284026.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00285031.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2020 der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.1.1: Jahresabschluss 2020 - Entlastung des Aufsichtsrates der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2022 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Finanzierung des ÖPNV - Entgegennahme ohne Beschluss
+- TOP 3.2: Übertragung der Geschäftsanteile an der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal von der Stadtwerke Velbert GmbH an die BVG Beteiligungsverwaltungsgesellschaft der Stadt Velbert mbH - ungeändert beschlossen
+- TOP 3.3: Notstromaggregat Lokalfunk im Rahmen des Katastrophenschutzes - zur Vorberatung verwiesen
+- TOP 3.4: Vierte Satzung zur Änderung der Satzung für die Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Sachstand zur Anmietung der ehemaligen Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 5.2: Überprüfung der Vergaberegelungen und -prozesse durch eine externe Kanzlei - Entgegennahme ohne Beschluss
+- TOP 5.3: Umsetzung des Bundesinvestitionsprogramms (1. Kapitel) 6. Bericht Tiefbau - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Hochwasserschutz-Prioritätenkonzept & Starkregenrisikomanagement-Verstetigungskonzept - ungeändert beschlossen
+- TOP 6.2: Kostenneufestsetzung für die Neugestaltung der zentralen Fußgängerzone Werth in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.3: Verlagerung des Stadtarchivs - zur Vorberatung verwiesen
+- TOP 6.4: Verlängerung der Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Erhebung einer Infrastrukturabgabe - ungeändert beschlossen
+- TOP 6.5: Verlängerung des Verzichts auf die Gebührenerhebung für gaststättenrechtliche Änderungsanträge anlässlich der Hinzunahme oder Veränderung einer Außengastronomie - ungeändert beschlossen
+- TOP 6.6: Annahme der Schenkung eines Kunstwerks - ungeändert beschlossen
+- TOP 6.7: Annahme der Schenkung eines Kunstwerks - ungeändert beschlossen
+- TOP 6.8: Resolution Finanzielle Handlungsfähigkeit der Kommunen auch in extremen Lagen schützen und garantieren. - ungeändert beschlossen
+- TOP 6.9: Finanzierung und Weiterentwicklung ÖPNV - ungeändert beschlossen
+- TOP 6.10: Übersicht der angemeldeten Mehrbedarfe der Geschäftsbereiche - ungeändert beschlossen
+- TOP 6.11: BOB Campus Nachbarschaftspark - Sozialer Zusammenhalt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Finco-Bericht zum 31.10.2021 - Entgegennahme ohne Beschluss
+- TOP 8.2: Aktuelle Steuerschätzung - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Bereitstellung außerplanmäßiger Haushaltsmittel für einen Baukostenzuschuss zur Herrichtung eines Bibliothekstandortes im BOB Campus - ungeändert beschlossen
+- TOP 9.2: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - ungeändert beschlossen
+- TOP 9.3: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2022 - ungeändert beschlossen
+- TOP 9.4: Gebührensatzung zur Abfallwirtschaft 2022 - ungeändert beschlossen
+- TOP 9.5: 9. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9.6: 15. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
