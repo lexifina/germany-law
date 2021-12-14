@@ -1,0 +1,52 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2021-12-14T18:00:00+01:00
+- Ende: 2021-12-14T21:15:00+01:00
+- Ort: Rheinforum Wesseling, Kölner Straße 42, 50389 Wesseling, Saal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZS-mC8ubl09gICBEa1QI0g
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/5938
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfTFq1aahj-Vybrk6mNzS5SiTul-h5uwED1ecsyxHw0e/Einladung_Rat_14.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcvl-Umdskvet8ZJBkNN_sIikRA8p8lBgVyqkWUZ0f8f/Oeffentliche_Niederschrift_Rat_14.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Satzung über die Abfallentsorgung in der Stadt Wesseling (Abfallsatzung -AbfS-) Satzung über die Abfallentsorgung in der Stadt Wesseling (Abfallsatzung -AbfS-) Satzung über die Abfallentsorgung in der Stadt Wesseling (Abfallsatzung -AbfS-) - Einstimmig, 0 Enthaltungen
+- TOP 8.: Satzung über die Erhebung von Abfallentsorgungsgebühren in der Stadt Wesseling Satzung über die Erhebung von Abfallentsorgungsgebühren in der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 9.: Abwasserbeseitigungssatzung der Stadt Wesseling (Entwässerungssatzung) Anlage 1:Synopse Anlage 2:Abwasserbeseitigungssatzung der Stadt Wesseling (Entwässerungssatzung) - Einstimmig, 0 Enthaltungen
+- TOP 10.: Satzung über die Entsorgung des Inhaltes von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) - Einstimmig, 0 Enthaltungen
+- TOP 11.: Satzung über die Erhebung von Abwassergebühren, Kanalanschlussbeiträgen, Kostenersatz für Grundstückanschlüsse in der Stadt Wesseling - 33 Ja-Stimmen, 3 Nein-Stimmen
+- TOP 12.: Änderung der Geschäftsordnung für den Seniorenbeirat der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 13.: Sachstand Grundschulentwicklung - Einstimmig, 0 Enthaltungen
+- TOP 14.: Sachstand - Schulcampus Wesseling
+- TOP 15.: Abwasserbeseitigungskonzept 2022-2027 - Einstimmig, 0 Enthaltungen
+- TOP 16.: Entsorgungsbetriebe Wesseling hier: Wirtschaftsplan der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2022 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Ausschreibung / Besetzung der Stelle einer*s Beigeordneten - 33 Ja-Stimmen, 3 Nein-Stimmen
+- TOP 18.: Beseitigung von Wurzelanhebungen unter der Laufbahn und Fällung von Bäumen - Einstimmig, 0 Enthaltungen
+- TOP 19.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen 2022 - 18 Ja-Stimmen, 17 Nein-Stimmen
+- TOP 20.: Umbesetzung im Ausschuss für Familie, Soziales, Gesundheit und Senioren - Einstimmig, 0 Enthaltungen
+- TOP 21.: Antrag der CDU-Fraktion: Umbesetzungen in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Überprüfung/Ausbau Sirenennetz in Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 23.: Antrag der SPD-Fraktion: Wesseling wird kinderfreundliche Kommune - Einstimmig, 0 Enthaltungen
+- TOP 24.: Haushaltswirtschaft im Haushaltsjahr 2021 Bereitstellung über- und außerplanmäßiger Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 25.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2020 - Einstimmig, 0 Enthaltungen
+- TOP 26.: Mitteilungen und Anfragen
+- TOP 26.1.: Anfrage der Fraktion WIR/FWW: Resolution gegen die Rheinspange 553
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Vorbereitung der geplanten Direktvergabe zur Sicherstellung der öffentlichen Personenverkehrsdienste mit Bussen und anderen Kraftfahrzeugen in der Stadt Wesseling ab 01.01.2023 mit einem Vortrag der Rechtsanwälte Maren Weber und Sascha Schäfer von Ernst & Young Law - Einstimmig, 0 Enthaltungen
+- TOP 2.: Änderung der Gesellschaftervereinbarung der "PD Berater der öffentlichen Hand GmbH" - Einstimmig, 0 Enthaltungen
+- TOP 3.: Rheinlandkooperation - Übertragung der Anteile an GVG Rhein-Erft GmbH - Einstimmig, 0 Enthaltungen
+- TOP 4.: GVG Rhein-Erft - Veräußerung 3 % an RheinEnergie Express GmbH durch GVG - Einstimmig, 0 Enthaltungen
+- TOP 5.: Bestellung eines Rechnungsprüfers - Einstimmig, 0 Enthaltungen
+- TOP 6.: Mitteilungen und Anfragen
+- TOP 7.: Presseveröffentlichungen
