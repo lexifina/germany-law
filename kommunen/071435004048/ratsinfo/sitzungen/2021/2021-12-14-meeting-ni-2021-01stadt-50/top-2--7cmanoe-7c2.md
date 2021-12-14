@@ -1,0 +1,6 @@
+# TOP 2: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Stadtrates der Stadt Montabaur (2021-12-14)
+- Körperschaft: Stadt Montabaur
+- Öffentlich: nein
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2021-01Stadt-50%7CMAnoe%7C2
