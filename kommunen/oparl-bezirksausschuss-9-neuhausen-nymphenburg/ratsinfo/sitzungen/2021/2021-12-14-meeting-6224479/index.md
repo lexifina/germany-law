@@ -1,0 +1,158 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2021-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6224479
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6224479
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) Käfer Delikatessen Mark GmbH, Nymphenburger Str. 178
+- TOP 3.1.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) DIwa Getränke- und Tabakwaren, Frundsbergstr 5
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Schilder zur gegenseitigen Rücksichtsnahme
+- TOP 3.2.2.: Frühzeitige Information der MVG-Fahrgäste bei Störungen von Rolltreppen und Aufzügen
+- TOP 3.2.3.: E-Roller auf Gehwegen
+- TOP 3.2.4.: Gefährliche Situationen am Steubenplatz
+- TOP 3.2.5.: Hinweisschilder für das Sozialbürgerhaus Neuhausen/Moosach anbringen
+- TOP 3.2.6.: Unbeleuchteter LKW-Anhänger Radweg von der Innenstadt Richtung Pasing
+- TOP 3.2.7.: Feuerwehrzufahrt in der Fasoltstraße
+- TOP 3.2.8.: Beantragung eines einseitigen Parkverbots in der Irnfriedstraße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Verkehrsrechtliche Anordnung: Behindertenparkplatz in der Hübnerstr. 17 gegenüber
+- TOP 3.3.2.: Personenbeförderungsgesetz: Linienbetrieb im Nachtzeitraum auf der Straßenbahn-Wendeschleife zwischen dem Knoten Dachauer Straße/Lothstraße und dem Knoten Dachauer Straße/Lazarettstraße, Planfeststellungsverfahren nach § 28 PBefG - Tektur zur mit Planfeststellungsbeschluss vom 23.08.2012 festgestellten Planung
+- TOP 3.3.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Gudrunstraße 15
+- TOP 3.3.4.: Urbanes Schnellladen am Leonrodplatz
+- TOP 3.3.5.: 2. Stammstrecke München - Planfeststellungsverfahren 3 München-Ost, Isar bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (Eilentscheidung durch BA-Vorstand)
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Parkdruck durch Schanigärten im Bereich Schulstr.
+- TOP 3.4.2.: BIOTOPIA - Naturkundemuseum Bayern
+- TOP 3.4.3.: Ausbau der Bushaltestellen der Linie 153 in der Lothstraße
+- TOP 3.4.4.: Verkehrsregelungen Waisenhausstr., Dom-Pedro-Platz, Braganzastr.
+- TOP 3.4.5.: Fußverkehr Menzinger Straße / Maria-Ward-Straße
+- TOP 3.4.6.: Neue Fahrradspur Landshuter Allee
+- TOP 3.4.7.: Auslieferungslager Gorillas Lothstraße 3
+- TOP 3.4.8.: Radhauptroute durch die Blutenburgstraße bekannter machen
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Beschlussvollzugskontrolle (BVK): Bericht über die der BVK unterliegenden Beschlüsse des Mobilitätsausschusses und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021 Sitzungsvorlage Nr. 20-26 / V 03312
+- TOP 3.5.2.: Arbeiten im Straßenraum: - Birkerstraße zw. Weiglstraße und Rupprechtstraße - Ackermannstraße Ecke Spiridon-Louis-Ring
+- TOP 3.5.3.: Verkehrsrechtlich Anordnung: - Seidlhofstraße - Errichtung eines absoluten Haltverbots - Savoyenstr. 10 - Errichtung einer Kita-Hol- und Bringzone
+- TOP 3.5.4.: (U) Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat
+- TOP 3.5.5.: Montage Notfallschilder Hirschgarten
+- TOP 3.5.6.: Änderung/Ergänzung der verkehrsrechtliche Erlaubnis: Wotanstr. 5
+- TOP 3.6: Verschiedenes
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.2.1.: Genehmigung des Bauvorhabens Ignaz-Perner-Str. 8
+- TOP 4.4.1.: Verbesserung der Transparenz bei der Planung des Paketpostareals
+- TOP 4.4.2.: Pilotprojekt im 9. Stadtbezirk: Aufstellen von Hydranten als Wasserspender im Sommer
+- TOP 4.4.3.: Aufstellen von Hydranten als Wasserspender im Sommer BA-Antrag Nr. 20-26 / B 02161
+- TOP 4.5.1.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 4.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.1.: STEP 2040 Protokoll zur Auftaktveranstaltung
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.2.1.: Beschwerde über Baumfällungen von drei Rotbuchen auf dem Bauvorhaben Frundsbergstr. 40-42
+- TOP 5.2.2.: Gefällte Bäume in der Frundsbergstraße 40/42
+- TOP 5.2.3.: Öftere Containerleerung in der Schlörstraße
+- TOP 5.2.4.: Erhalt der Bäume in der Frundsbergstr. 43
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Klugstr. 113 - Groffstr. 13 - Gunther Str. 25 - Ignatz-Perner-Str. 3 - Tizianstr. 60 - Richelstr. 3 - Klugstr. 144 - Heerstr. 48 - Hohenlohestr. 75 - Wintrichring 99 - Heldstr. 7
+- TOP 5.4.1.: Krähenplage
+- TOP 5.4.2.: Baumpflanzung an der Ecke Nibelungen-, Winthirstraße
+- TOP 5.4.3.: Nistplätze in Neuhausen-Nymphenburg
+- TOP 5.5.1.: Kratzerstraße 6 - Antrag auf Baumfällung
+- TOP 5.5.2.: Gutenbergstraße 24 - Antrag auf Baumfällung
+- TOP 5.5.3.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.2.1.: Auch kaputte Aufzüge können die Würde verletzen! Der Münchner ÖPV entwickelt eine App für mobilitätseingeschränkte Nutzerinnen und Nutzer.
+- TOP 6.2.2.: Laternen am Basketballplatz im Grünwaldpark
+- TOP 6.2.3.: Hinweisschilder für das Sozialbürgerhaus Neuhausen/Moosach anbringen
+- TOP 6.2.4.: Urin an Gehweg unter Friedenheimer Brücke
+- TOP 6.2.5.: Neuhauser Kultur und Weihnachtsmärkte in der Corona-Krise stützen
+- TOP 6.2.6.: Einsatz des Impfbusses in Neuhausen-Nymphenburg
+- TOP 6.2.7.: Mobiles Impfangebot in der Oase Neuhausen
+- TOP 6.4.1.: Jugendzentren und Aufenthaltsräume für Jugendliche schaffen
+- TOP 6.4.2.: Schaffen von Sitzgelegenheiten mit Abfallbehältern auf der Fahrrad- und Fußgängerbrücke zwischen der Erika-Mann- und Philipp-Loewenfeld-Straße
+- TOP 6.5.1.: Sitzbänke Hedwig-Dransfeld-Allee
+- TOP 6.5.2.: Unterstand für Jugendliche
+- TOP 6.5.3.: BA-Information zur vorübergehenden Nutzung der Dantestr. 18 als Quarantäneunterkunft
+- TOP 6.5.4.: (U) Halle 23 - shared space Unterstützung für soziale und Bildungsprojekte sowie Schaffung von kommerzfreiem Raum für Jugendliche und junge Erwachsene Empfehlung Nr. 20-26 / E 00035 .................. 9. Stadtbezirk - Neuhausen-Nymphenburg
+- TOP 6.5.5.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.5.6.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.5.7.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.5.8.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 6.5.9.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2021 - 2025, Einzelplan 4 / Sozialbereich
+- TOP 6.5.10.: Errichtung des ASZ Nymphenburg priorisieren
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1.1.: (E) Stadtbezirksbudget: Hidalgo gGmbH - "Street Art Song im Stadtbezirk 9 im Rahmen des Kunstliedfestivals HIDALGO" 1.500,-€ Az.0262.0-9-0537
+- TOP 7.2.1.: Antrag auf Bezuschussung durch den BA 9 Kulturprojekt im PATHOS Theater KFP Zoff und Zärtlichkeiten
+- TOP 7.2.2.: Vergabe der Halle 23
+- TOP 7.5.1.: Kreativquartier, Teilbereich Kreativfeld als Holzbausiedlung Vergabe von drei Wohnbauflächen (WA 5/6, WA7/8 und WA9) Bebauungsplan mit Grünordnung Nr. 1954 an Baugenossenschaften, genossenschaftsähnliche Wohnprojekte und KMB-Bauträger*innen Ergebnisse der Ausschreibungen
+- TOP 7.5.2.: Weihnachtsmarkt Rotkreuzplatz Absage
+- TOP 7.5.3.: (U) Kreativquartier an der Dachauer Straße/Schwere-Reiter-Straße Fortschreibung der Gremienstruktur mit Quartiersmanagement und Kommunikationskonzept Förderprogramm Nationale Projekte des Städtebaus - Teilnahme am Projektaufruf 2022 Stadtbezirk 4 Schwabing-West Stadtbezirk 9 Neuhausen-Nymphenburg
+- TOP 7.5.4.: Atelierhaus Dachauer Straße - Gespräch Atelierhaus mit Verwaltung und MGH
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1.1.: (E) Stadtbezirksbudget: Halle 6 UG Ausstellung und Symposium &#039;10 Jahre Halle 6&#039; 2.500,00€; Az. 0262.0-9-0526
+- TOP 8.1.2.: (E) Stadtbezirksbudget ESV München e.V. Neubau eines Vereinsraums 19.740,91€; Az. 0262.0-9-0534
+- TOP 8.2.1.: Wiedereinrichtung des Kinder- und Jugendbudgets
+- TOP 8.2.2.: Errichtung eines Mini-Bolzplatztors am Spielplatz Tizianplatz
+- TOP 8.2.3.: Antrag zu geschlechterdifferenzierten Nutzungszeiten von Sportanlagen im öffentlichen Raum
+- TOP 8.2.4.: Fussballkunstrasenplatz am Hirschgarten komplett einzäunen
+- TOP 8.2.5.: Teil-Öffnung der Stadtbibliotheken bei einem regionalen Hotspot-Lockdown
+- TOP 8.2.6.: Teil-Öffnung der Stadtbibliotheken bei einem regionalen Hotspot-Lockdown (Bücher zum Abholen bereitstellen, "Bücher to go")
+- TOP 8.4.1.: Calisthenics-Anlage im Hirschgarten
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1.1.: Weihnachtsbaum Romanplatz - Keine Durchführung als eigene Veranstaltung
+- TOP 9.1.2.: Weihnachtsspende des Bezirksausschusses
+- TOP 9.2.1.: Bezirksausschuss digital aufstellen
+- TOP 9.2.2.: Bezirksausschuss-Geschäftsstellen personell besser ausstatten
+- TOP 9.5.1.: Umbesetzung CSU-UA-Mitglieder
+- TOP 9.5.2.: Erweiterung der bisher erlaubnisfreien Gaststättenbetriebs: Feinkost Al Forno, Donnerbergerstraße
+- TOP 9.5.3.: Neuerrichtung des Gaststättenbetriebs: Käfer Deli Nymphenburg
+- TOP 9.5.4.: Gesamtstädtisches Konzept für analoge und digitale öffentliche Arbeit
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.3: Anhörungen
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.6: Verschiedenes
+- TOP 9.6.1.: Sitzungstermine und -orte der Unterausschüsse: Umwelt: Montag, 06.12. - 18:00 h - Vorbesprechung Digital - UA-Sitzung am 14.12. - 18:55 h Verkehr: Dienstag, 07.12. - 19:00 h - Vorbesprechung Digital - UA-Sitzung am 14.12. - 19:00 h Bau: Mittwoch, 08.12. - 18:00 h - Vorbesprechung Digital - UA-Sitzung am 14.12. - 19:05 h Kultur: Mittwoch, 08.12. - 20:00 h - Vorbesprechung Digital - UA-Sitzung am 14.12. - 19:10 h Soziales: Donnerstag, 09.12. - 17.30 h - Vorbesprechung Digital - UA-Sitzung am 14.12. - 19:15 h Bildung: Donnerstag, 09.12. - 19:30 h - Vorbesprechung Digital - UA-Sitzung am 14.12. - 19:20 h
