@@ -1,0 +1,82 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2021-12-14T18:00:00+01:00
+- Ende: 2021-12-14T21:15:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZX2ppvmNoSAQnxTECbDQm_o
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20469
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVIUBP4EzJ2PEBlCOgAA3SbH7dVaBom2N4ZXSMQJXkzn/Bekanntmachung_Rat_14.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcgRSws-pYLphDzQlh0-Wa1V3lX_6LS03ia_P7W-45ue/Oeffentliche_Niederschrift_Rat_14.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 01.12.2021 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Hochwasserschutz durch den Erftverband; hier: Zwischenbericht und Ausblick durch den Erftverband -    
+- TOP 5.: Ernennung der Wehrleitung der Freiwilligen Feuerwehr der Stadt Bad Münstereifel - Einstimmiger Beschluss bei 1 Enthaltung:Der Stadtverordnete André Zimmermann, FDP-Fraktion, wirkt hier nicht mit.
+- TOP 6.: Umsetzung Brandschutzbedarfsplan: hier: Fahrzeugkonzept - Einstimmiger Beschluss:
+- TOP 7.: Beschaffung HLF10 LG Arloff - Beschluss s. RD-Nr. 526-XI/Z-3.
+- TOP -: Beschaffung HLF10 LG Arloff Hier: Ergänzende Stellungnahme des Wehrführers - Beschluss s. RD-Nr. 526-XI/Z-3.
+- TOP -: Beschaffung HLF10 LG Arloff Hier: Ergänzende Stellungnahme de Verwltung
+- TOP -: Beschaffung HLF10 LG Arloff - Beschluss bei 18 Ja- und 6 Nein-Stimmen sowie 6 Enthaltungen:
+- TOP 8.: Erlass einer Baumschutzsatzung hier: Antrag der SPD-Fraktion vom 07.06.2021 - Beschluss s. RD-Nr. 372-XI/Z-2.
+- TOP -: Erlass einer Baumschutzsatzung hier: Antrag der SPD-Fraktion vom 07.06.2021 - Einstimmiger Beschluss bei 3 Enthaltungen:
+- TOP 9.: Dienstrad-Leasing für Beschäftigte der Stadtverwaltung hier: Antrag der SPD-Fraktion vom 24.10.2021 - Beschluss
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.: Betriebsleitung des Eigenbetriebs Stadtwerke hier: Bestellung eines kaufmännischen Betriebsleiters - Einstimmiger Beschluss:
+- TOP 12.: Bestellung von Vertretern/Vertreterinnen des Schulträgers für die Schulkonferenz - Einstimmiger Beschluss:
+- TOP 13.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-)Standorte gemäß § 46 Abs. 3 SchulG NRW - Mehrheitlicher Beschluss bei 1 Nein-Stimme und 2 Enthaltungen:
+- TOP 14.: Benennung von stimmberechtigten Delegierten für die Mitgliederversammlung der Deutschen Sektion des Rates der Gemeinden Europas - Einstimmiger Beschluss:
+- TOP 15.: Bestellung von Mitgliedern für die Gesellschafterversammlung der NeT - Einstimmiger Beschluss:
+- TOP 16.: Satzung über die Erhebung von Gebühren für Sondernutzungen an öffentlichen Straßen im Gebiet der Stadt Bad Münstereifel (Sondernutzungssatzung) – hier: Satzungsänderung - Einstimmiger Beschluss:
+- TOP 17.: 4. Satzung zur Änderung der Satzung vom 17.12.2019 über die Benutzung des eifelbades der Stadt Bad Münstereifel (Benutzungs- und Gebührensatzung-Badeordnung) - Beschluss s. RD-Nr. 196-XI/Z-1.
+- TOP -: 4. Satzung zur Änderung der Satzung vom 17.12.2019 über die Benutzung des eifelbades der Stadt Bad Münstereifel (Benutzungs- und Gebührensatzung-Badeordnung) hier: geänderte Anlage - Mehrheitlicher Beschluss bei 5 Nein-Stimmen und 3 Enthaltungen:
+- TOP 18.: Satzung der Stadt Bad Münstereifel über die Festsetzung der Hebesätze für die Realsteuern des Haushaltsjahres 2022 (Hebesatzsatzung) - Einstimmiger Beschluss bei 2 Enthaltungen:
+- TOP 19.: 24. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung der Stadt Bad Münstereifel über die Abfallentsorgung in der Stadt Bad Münstereifel - Beschluss s. RD-NR. 540-XI/Z-1.
+- TOP -: 24. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung der Stadt Bad Münstereifel über die Abfallentsorgung in der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 20.: 35. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigungssatzung in der Stadt Bad Münstereifel)) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 21.: Entsorgungsgebühren Grundstücksentwässerungsanlagen 2022 hier: 17. Änderungssatzung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen und abflusslose Gruben) - Einstimmiger Beschluss:
+- TOP 22.: Druck und Verteilung der neuen Abfallkalender für das Jahr 2022 hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 23.: Abwassergebühren 2022; hier: Kalkulation Kanalbenutzungsgebühren - Einstimmiger Beschluss:
+- TOP 24.: Wassergebühren 2022 - Einstimmiger Beschluss:
+- TOP 25.: Mitgliedschaft Netzwerk Innenstadt NRW - Einstimmiger Beschluss:
+- TOP 26.: Städtebauliche Entwicklung und die damit einhergehende Finanzierung städt. Infrastruktur hier: Grundsatzentscheidung - Einstimmiger Beschluss bei 2 Enthaltungen:
+- TOP 27.: Denkmalförderprogramm 2021 des Landes NRW hier: Erhöhung der Zuweisung zur Förderung kleinerer Denkmalpflegemaßnahmen - Einstimmiger Beschluss:
+- TOP 28.: Bebauungsplan Nr. 68 "An der Wachhecke", Teil 2, Ortsteil Eschweiler hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) werden alle einstimmig gefasst.Ohne Mitwirkung der Stadtverordneten Thomas Bell, Die Linke, und Tilo Waasem, SPD-Fraktion, sowie der Fraktion Bündnis 90/Die Grünen.
+- TOP 29.: Beschaffung eines Minibaggers für den städtischen Bauhof hier: Genehmigung einer außerplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 30.: Ersatzbeschaffung eines LKW-/Unimog-Tandem-Anhängers für den städtischen Bauhof hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 31.: Sachstand Stadtarchiv: Überblick und weiteres Vorgehen - Einstimmiger Beschluss:
+- TOP 32.: Feststellung Jahresabschluss zum 31.12.2020 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 33.: Entlastung für das Wirtschaftsjahr 2020 hier: Entlastung des Betriebsausschusses "Forstbetrieb" durch den Rat - Einstimmiger Beschluss:Hier wirken die Mitglieder des Betriebsausschusses Forstbetrieb der Stadt Bad Münstereifel nicht mit.
+- TOP 34.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) - A.5 Gestaltungssatzung hier: Fertigstellung und Veröffentlichung der Gestaltungsleitlinie - Mehrheitlicher Beschluss bei 1 Nein-Stimme und 2 Enthaltungen:
+- TOP 35.: Anfragen und Mitteilungen
+- TOP 35.1: Sachstand entnommene Bodenproben auf Spielplätzen, an Kindergärten und Schulen durch den Kreis Euskirchen
+- TOP 35.2: Sachstandsbericht der Schäden und Maßnahmen nach der Unwetterkatastrophe an betroffenen städtischen Gebäuden und Sportanlagen
+- TOP -: Sachstandsbericht der Schäden und Maßnahmen nach der Unwetterkatastrophe an betroffenen städtischen Gebäuden und Sportanlagen hier: Anfrage „Die Linke“ vom 29.11.2021
+- TOP 35.3: Zwischenbericht zur Hochwasserkatastrophe vom 14./15.07.2021 (Stand: November 2021)
+- TOP 35.4: Digitalisierung der Verwaltung: Sachstandsbericht
+- TOP 35.5: Bericht zum 30.09.2021 im Rahmen des Finanzcontrollings
+- TOP 35.6: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das Jahr 2022
+- TOP 35.7: Aktueller Sachstand Bahnanschluss
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Amtsblatt der Stadt Bad Münstereifel hier: Auftragsvergabe - Beschluss
+- TOP 2.: Presse- und Öffentlichkeitsarbeit zur Information der Bevölkerung rund um den Wiederaufbau hier: Auftragsvergabe - Mehrheitlicher Beschluss mit 7 Nein-Stimmen und 1 Enthaltung:
+- TOP 3.: Moderation, Beratung und Schnittstellenmanagement im Rahmen des Wiederaufbaus nach der Flutkatastrophe in der Kernstadt und den Dörfern der Stadt Bad Münstereifel vom 14./15.07.2021 hier: Auftragsvergabe - Beschluss s. RD-Nr. 483-XI/Z-1.
+- TOP -: Moderation, Beratung und Schnittstellenmanagement im Rahmen des Wiederaufbaus nach der Flutkatastrophe in der Kernstadt und den Dörfern der Stadt Bad Münstereifel vom 14./15.07.2021 hier: Auftragsvergabe - Einstimmiger Beschluss bei 4 Enthaltungen:
+- TOP 4.: Verkauf von Grundstücksflächen in Kirspenich - Beschluss s. RD-NR. 490-XI/Z-3.
+- TOP -: Verkauf von Grundstücksflächen in Kirspenich; hier: Empfehlungsbeschluss des Stadtentwicklungsausschusses vom 17.11.2021 - Beschluss s. RD-Nr. 490-XI/Z-3.
+- TOP -: Verkauf von Grundstücksflächen in Kirspenich; hier: Empfehlungsbeschluss des Betriebsausschusses Forstbetrieb vom 30.11.2021 - Beschluss s. RD-NR. 490-XI/Z-3.
+- TOP -: Verkauf von Grundstücksflächen in Kirspenich; hier: Empfehlungsbeschluss des Haupt- und Finanzausschusses vom 07.12.2021 - Mehrheitlicher Beschluss mit 2 Nein-Stimmen und 3 Enthaltungen:
+- TOP 5.: Verbeamtung einer leitenden Dienstkraft gemäß § 14 Absatz 3 der Hauptsatzung hier: Herstellung des Einvernehmens gemäß § 13 Absatz 3 der Hauptsatzung - Beschluss
+- TOP -: Verbeamtung einer leitenden Dienstkraft gemäß § 14 Absatz 3 der Hauptsatzung hier: Herstellung des Einvernehmens gemäß § 13 Absatz 3 der Hauptsatzung - Beschluss
+- TOP 6.: Bauleitplanung im Bereich Eicherscheid, Ahrweiler Straße im Rahmen der Verlegung des Feuerwehrgerätehauses hier: Auftragsvergabe für die bauleitplanerischen Leistungen - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 7.: Erschließungsvertrag Bebauungsplangebiet "An der Wachhecke" in Eschweiler Hier: Infrastrukturfolgekostenbeitrag - Einstimmiger Beschluss bei 9 Enthaltungen.
+- TOP 8.: Anfragen und Mitteilungen
+- TOP 8.1: Informationen im Zusammenhang mit der Beteiligung an der e-regio GmbH & Co. KG
+- TOP 8.2: Sonderzuweisung GFG hier: Mitteilung der Verwaltung
