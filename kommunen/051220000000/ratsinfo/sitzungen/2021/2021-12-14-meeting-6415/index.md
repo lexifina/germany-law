@@ -1,0 +1,77 @@
+# Haupt-, Personal- und Gleichstellungsausschuss (10. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-12-14T17:10:00+01:00
+- Ende: 2021-12-14T18:14:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-330
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZf0M2mdNYZWtITud8YibYXA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6415
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Personal- und Gleichstellungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXoNNmWuc0ssLZXLwHBoNhL1gwVReGtMAii89h1VIjYs/Bekanntmachung_Haupt--_Personal-_und_Gleichstellungsausschuss_14.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Personal- und Gleichstellungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWJG35m0LbGxQnybesWFOeVsf65-cVFNAL3HRGND1Mvr/Oeffentliche_Niederschrift_Haupt--_Personal-_und_Gleichstellungsausschuss_14.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Messanlage am Werwolf
+- TOP 1.2: Messanlage am Werwolf
+- TOP 1.3: Verkehrsüberwachung und Verkehrsicherheit
+- TOP 1.4: Kulturelle Diversität und Chancengleichheit in der Stadtverwaltung
+- TOP 1.5: Erreichbarkeit und Kundenzufriedenheit des Bergischen ServiceCenters
+- TOP 1.6: Solinger Frauenhäuser
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 9. Sitzung des Haupt-, Personal- und Gleichstellungsausschusses am 28.09.2021
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Besetzung des Verwaltungsausschusses für Arbeit Solingen - Wuppertal
+- TOP 6.: X. Satzung zur Änderung der Hauptsatzung der Klingenstadt Solingen
+- TOP 7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Wahl des Beigeordneten für das Ressort 2 (Finanzen, Beteiligungen, Gebäudemanagement)
+- TOP 9.: Bestellung des Stadtkämmerers für das Ressort 2 (Finanzen, Beteiligungen, Gebäudemanagement)
+- TOP 10.: Bestellung des Betriebsleiters der Technischen Betriebe Solingen
+- TOP 11.: Bestellung einer allgemeinen Vertreterin/ eines allgemeinen Vertreters des Oberbürgermeisters
+- TOP 12.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG), Städtisches Klinikum Solingen gGmbH, Entsorgung Solingen GmbH - Vertretung der Stadt Solingen in den Gesellschafterversammlungen; Zweckverband Verkehrsverbund Rhein-Ruhr (VRR), Bergisch-Rheinischer Wasserverband, Wupperverband, Wasserversorgungsverband Rhein-Wupper - Vertretung der Stadt Solingen in den Verbandsversammlungen; Verein zur Förderung der Abfallwirtschaft Region Rhein-Wupper e. V., Verein zur Förderung des Bergischen Instituts für Produktentwicklung und Innovationsmanagement e. V., - Vertretung der Stadt Solingen in den Mitgliederversammlungen
+- TOP 13.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 14.: Besetzung des Vorstandes der Eheleute-Carl-Ruß-Stiftung
+- TOP 15.: Etatberatungen für das Haushaltsjahr 2022 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2025 und des Haushaltssicherungskonzeptes 2022 ff. - mündlicher Bericht -
+- TOP 16.: Stellenplannachtrag 2021
+- TOP 16.1: Stellenplannachtrag 2021
+- TOP 17.: Grundsatzentscheidung zum Bau der Arena Bergisch Land
+- TOP 18.: Messanlage am Werwolf
+- TOP 19.: Femizide in Solingen Antrag der Ratsfraktion DIE LINKE. Die PARTEI vom 29.11.2021
+- TOP 20.: Satzung zur Änderung der Satzung über die Erhebung von Gebühren zur Benutzung der Obdachlosenunterkünfte der Klingenstadt Solingen
+- TOP 20.1: Satzung zur Änderung der Satzung über die Erhebung von Gebühren zur Benutzung der Obdachlosenunterkünfte der Klingenstadt Solingen
+- TOP 21.: 4. Änderungssatzung zur Sondernutzungssatzung
+- TOP 22.: Mehraufwendungen und Mehrauszahlungen im Rettungsdienst gem. § 83 GO NW
+- TOP 23.: Gemeindefinanzierungsgesetz 2022 (GFG 2022)
+- TOP 23.1: Gemeindefinanzierungsgesetz 2022 (GFG 2022)
+- TOP 24.: Klageerhebung zur Abwehr von unberechtigten Rückforderungsansprüchen des Landes NRW nach dem FlüAG
+- TOP 25.: Die Natur als Partnerin: Naturbasierte Maßnahmen zu Klimaschutz und Anpassung an den Klimawandel im urbanen Raum
+- TOP 26.: Verschiedenes
+- TOP 26.1: Mitteilungen der Verwaltung
+- TOP 26.1.1: Anmietung von zwei teilstationären Geschwindigkeitsmessanlagen (Enforcement Trailer)
+- TOP 26.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Zusammenschluss von Solinger Impfgegnern
+- TOP 1.2: Kosten für Einstellungsverfahren/ Einschaltung einer Personalberatung bei der Stellenbesetzung einer/ eines Beigeordneten für das Ressort 5
+- TOP 1.3: Verkehrsüberwachung Geschwindigkeitsmessanlagen
+- TOP 1.4: Gebührenerlass Wochenmärkte
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 9. Sitzung des Haupt-, Personal- und Gleichstellungsausschusses am 28.09.2021
+- TOP 4.: Bestellung der Leitung des Stadtdienstes Wohnen
+- TOP 5.: Beförderung eines Beamten
+- TOP 6.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH (BSW) - Bestellung des Jahresabschlussprüfers 2021
+- TOP 7.: Jahresabschluss 2020 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW)
+- TOP 8.: Wirtschaftsplan 2022/2023 Stadtentwicklungsgesellschaft Solingen GmbH & Co.KG
+- TOP 9.: Wirtschaftsplan 2022 und 2023 der Wirtschaftsförderung Solingen GmbH & Co. KG (WfS KG)
+- TOP 10.: Wirtschaftsplan 2022 und 2023 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH)
+- TOP 11.: Wirtschaftsplan 2022 und 2023 der Gründer- und Technologiezentrum Solingen GmbH Co. KG
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen der Verwaltung
+- TOP 12.1.1: Beschaffung von digitalen Meldeempfängern
+- TOP 12.2: Anfragen an die Verwaltung
+- TOP 12.3: Umgang mit Impfverweigerern im Dienst der Klingenstadt Solingen
+- TOP 12.4: Umlageerhöhung Landschaftsverband
