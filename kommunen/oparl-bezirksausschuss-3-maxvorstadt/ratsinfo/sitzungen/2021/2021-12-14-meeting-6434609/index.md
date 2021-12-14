@@ -1,0 +1,138 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2021-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6434609
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6434609
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 5.2.1.: Baumfällungen Neue Pinakothek
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Radständer Rudi Hierl Platz
+- TOP 6.2.: Leerstand Karlstraße 20/22
+- TOP 6.3.: Antwort Toiletten am Königsplatz von Immobilien Bayern
+- TOP 6.4.: Antwort Toiletten am Königsplatz Bay. Staatsministerium für Wohnen Bau und Verkehr
+- TOP 6.5.: Ausbau der Bushaltestellen der Linie 153 in der Lothstraße
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.4.1.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2021 - 2025 Einzelplan 4 / Jugendamtsbereich
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Baumfällungen Neue Pinakothek
+- TOP 1.1.2.: Die Bäume um die Pinakothek
+- TOP 1.1.3.: Baumbestand Neue Pinakothek
+- TOP 1.1.4.: Geplante bzw. bereits durchgeführte Baumfällung in der Maxvorstadt - Neue Pinakothek
+- TOP 1.1.5.: Kahlschlag Neue Pinakothek
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Im Kampf gegen die Gentrifizierung Festsetzung von gefördertem Wohnraum durch sektorale Bebauungspläne in der Maxvorstadt.
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 43, 44, 45, 46 und 47
+- TOP 2.1.2.: WEB-Listen der LBK: KW 44-45
+- TOP 2.2: Wanderbaumallee im Arnulfpark
+- TOP 2.2.1.: Wanderbaumallee im Arnulfpark
+- TOP 2.3: Planfeststellungsverfahren Wendeschleife Lothstraße | 17.12.2021
+- TOP 2.3.1.: Planfeststellungsverfahren Wendeschleife Lothstraße | 17.12.2021
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: geplante Baumfällung Schwindstraße 1a
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen 1. Schreiben
+- TOP 5.2.: (U) Perspektive München Integriertes Handlungsraumkonzept Münchner Innenstadt Fortschreibung des Innenstadtkonzepts Finanzierung des städtebaulichen Eigenanteils Sonderfonds „Innenstädte beleben“ EU-Innenstadt-Förderinitiative (REACT-EU EFRE Bayern) Bürgergutachten Innenstadt Antrag Nr. 14-20/A 00616 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / Rosa Liste vom 22.01.2015
+- TOP 5.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 5.4.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen - 2. Schreiben
+- TOP 5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 5.7.: Vorbescheid Gabelsbergerstr. 28
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.1.1.: Erzgießereistraße
+- TOP 1.1.2.: Gehwegsituation Görresstraße
+- TOP 1.1.3.: Parksituation Zone Pinakotheken
+- TOP 1.2.1.: entfällt
+- TOP 1.2.2.: Umwandlung von E-Roller-Stellplätzen in Ladeplätze für Elektro- und Hybridfahrzeuge
+- TOP 1.2.3.: Entschärfung Einmündung Hahnenstraße
+- TOP 1.2.4.: Christbaum am Josephsplatz
+- TOP 1.2.5.: Straßenbenennung nach Frauen forcieren
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: (E) Maßnahmen gegen Party in der Veterinärstraße
+- TOP 2.2.2.: (E) Maßnahmen gegen Feiernde und blockierte Fahrbahn in der Türkenstraße
+- TOP 2.2.3.: (E) Randale und Vandalismus im Englischen Garten
+- TOP 2.2.4.: Beschlussvorlage BA 3_Theresienstr. 66_Buchhandlung L. Werner GmbH _Antrag für Warenauslagen (Sondernutzung)
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.1.: Erlaubnisbescheid Mittelalterlicher Weihnachtsmarkt auf dem Wittelsbacherplatz
+- TOP 3.2.: Protokoll des Nachtspaziergangs in der Maxvorstadt
+- TOP 3.3.: Sommerstraßen 2022
+- TOP 3.4.: ABBAU abgeschlossen - Mittelalterlicher Weihnachtsmarkt auf dem Wittelsbacherplatz
+- TOP 3.5.: SWM Baumaßnahme Strom-Projekt Amalienstraße
+- TOP 3.6.: Ausnahmezulassungen gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) für Mülleinsammlung durch den AWM; Verlängerung bestehender Ausnahmezulassungen bis 31.12.2022
+- TOP 3.7.: Mülleinsammlung durch die Einsammelpartie 01-059 wg. Baustellen ab 05:30 Uhr; Verlängerung der Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung bis 28.02.2022
+- TOP D: Soziales und Bildung
+- TOP 1.2.1.: Temporäre Verschattung am Spielplatz Josephsplatz
+- TOP 1.2.2.: Toilettenwagen im Umfeld des Hauptbahnhofs
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Türkenstraße Theaterprojekt mit KOOP3 von Dezember 2021 - Juli 2022 1.722,00 Euro, Az.: 0262.0-3-0374
+- TOP 2.2.: (E) Stadtbezirksbudget Kath. Kindertagesstätte St. Bonifaz Präventionskurs "coolstrongkids" im Frühjahr 2022 1.000,00 Euro, Az.: 0262.0-3-0377
+- TOP 2.3.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt, Spielhaus Sophienstraße Neuer Ort für offene Kinder- und Jugendarbeit vom 08.01.2022 - 07.01.2023 7.100,00 Euro, Az.: 0262.0-3-0380
+- TOP 2.4.: (E) Stadtbezirksbudget eigenleben gGmbH Raum für eigenleben vom 08.01. - 30.06.2022 6.650,00 Euro, Az.: 0262.0-3-0381
+- TOP 2.5.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt, Musisches Zentrum Anschaffung von Laptops, Tablets und eines E-Schlagzeugs 6.000,00 Euro, Az.: 0262.0-3-0379
+- TOP 2.6.: Spielen in der Stadt e.V. (Vertagt aus 11.2021)
+- TOP 4.1.: Fraktionsübergreifende Resolution des BA 5: Stadtteil-Berichterstattung in der „Süddeutschen Zeitung“ wieder stärken!
+- TOP 4.2.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.3.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.4.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 4.5.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.6.: (U) Reinigungsstandards in Münchner Schulen und städt. Kindertageseinrichtungen temporäre Anpassung aufgrund der Corona Pandemie sowie zusätzliche Schwimmhallenreinigung im Rahmen der Schwimmoffensive für das Haushaltsjahr 2022 ff.
+- TOP 4.7.: Mehrjahresinvestitionsprogramm 2021-2025
+- TOP E: Kultur und Demokratieförderung
+- TOP 2.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 10.09.2022 1.500,00 Euro, Az.: 0262.0-3-0375
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Schmuckausstellung 2022" Filmausstellung für die Münchner Schmuckwoche 2022 vom 11.03. - 24.03.2022 5.193,43 Euro, Az.: 0262.0-3-0398
+- TOP 2.3.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl und Tanzprojekt "Tanz.Die.Invasion" 2022 7.650,00 Euro, Az.: 0262.0-3-0
+- TOP 2.4.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl und Tanzprojekt "Tanz.Die.Invasion" 2023 7.650,00 Euro, Az.: 0262.0-3-0
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Beauftragte*r gegen Rechtsextremismus
+- TOP 1.2.: Kassenbericht
+- TOP 1.3.: Entsendung Runder Tisch Google
+- TOP 1.4.: Erweiterung Vorstand des Bezirksausschusses Maxvorstadt – Wahl eines(r) weiteren Beisitzers/-in
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 3.: Aktuelle Sachstandsberichte
