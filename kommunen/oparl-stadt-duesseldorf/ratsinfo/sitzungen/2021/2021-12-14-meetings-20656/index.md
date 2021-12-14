@@ -1,0 +1,63 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-12-14T17:00:00+01:00
+- Ende: 2021-12-14T20:41:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20656
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/20656
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00433264.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00433264.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00433264.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 05.10.2021 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 16.11.2021 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Beschluss Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 5.2: Bebauungsplan - Entwurf Nr. 03/011 - Kaistraße 1 - Empfehlung einstimmig beschlossen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Oberbilker Allee 310 - Beseitigung eines Gebäudes im Bereich einer Erhaltungssatzung - einstimmig beschlossen
+- TOP 6: Verwaltungsvorlagen und -berichte
+- TOP 6.1: Errichtung von sieben B+R-Anlagen der Rheinbahn AG - Empfehlung einstimmig beschlossen
+- TOP 6.2: Mobilstationen im Förderprojekt „Emissionsfreie Innenstadt“: Dialogformate und Abschluss Ämterumlauf - zur Kenntnis genommen
+- TOP 6.3: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Sanierung von Fassaden an acht Schulen" - Empfehlung abweichend beschlossen
+- TOP 6.4: Zuschuss an den Verein Turngemeinde von 1881 e. V. Düsseldorf - einstimmig beschlossen
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Bezirklicher Bauunterhaltung - Haushaltsjahr 2021 Stadtbezirk 3 - abweichend beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2021 - abweichend beschlossen
+- TOP 7.3: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Auswirkungen über die Einigung der Stadt Düsseldorf mit der Umwelthilfe (Anfrage der SPD-Fraktion) - zur Kenntnis genommen
+- TOP 8.1.4: Gestaltung Bahnunterführung Ellerstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.5: Stellplätze für Fahrräder auf der Fleher Str. / In der Hött (Anfrage Fraktionen BÜNDNIS 90 / DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.6: Umbau und Aufzug Regionalhalt Bilk-S (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.7: Haus Kolvenbach - Zustand und geplante Nutzung (Anfrage FDP) - zur Kenntnis genommen
+- TOP 8.1.8: Sachstand Fördermittelbeantragung (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.9: Wie ist der Stand des Projekts „Neubau des Luisen Gymnasiums“ auf dem Areal südl. auf ´m Tetelberg? (Anfrage DIE LINKE) - vertagt
+- TOP 8.1.10: Flächen zur Entsiegelung (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Status quo zum 1. Januar 2022 der Haltestellen im Bezirk 03 (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.2.2: Aufwertung der Eisenstraße (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.2.3: Radweg Fleher Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.2.4: Zusätzliche Überquerung der Aachener Straße zwischen Südring und Aachener Platz (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 9: Anträge
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Zukunftsviertel Unterbilk / Friedrichstadt - Erweiterung Lorettostraße - zur Kenntnis genommen
+- TOP 10.2: Merowinger-/ Karolingerstraße - Barrierefreie Fußgängerquerung - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
