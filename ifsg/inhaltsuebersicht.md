@@ -37,6 +37,8 @@
 | § 18 | Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung |
 | § 19 | Aufgaben des Gesundheitsamtes in besonderen Fällen |
 | § 20 | Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe |
+| § 20a | Immunitätsnachweis gegen COVID-19 |
+| § 20b | Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 |
 | § 21 | Impfstoffe |
 | § 22 | Impf-, Genesenen- und Testdokumentation, COVID-19-Zertifikate |
 | § 23 | Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder |

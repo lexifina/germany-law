@@ -68,8 +68,7 @@ der Barabfindung](0030.md)
 #### Erster Abschnitt Verschmelzung unter Beteiligung von Personengesellschaften
 
 
-##### Erster Unterabschnitt Verschmelzung unter Beteiligung von
-Personenhandelsgesellschaften
+##### Erster Unterabschnitt Verschmelzung unter Beteiligung von Personenhandelsgesellschaften
 
 - [§ 39 Ausschluß der Verschmelzung](0039.md)
 - [§ 40 Inhalt des Verschmelzungsvertrags](0040.md)

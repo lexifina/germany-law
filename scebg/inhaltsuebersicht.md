@@ -109,3 +109,4 @@
 | § 47 | Strafvorschriften |
 | § 48 | Bußgeldvorschriften |
 | § 49 | Geltung nationalen Rechts |
+| § 50 | Sonderregelung aus Anlass der COVID-19-Pandemie |
