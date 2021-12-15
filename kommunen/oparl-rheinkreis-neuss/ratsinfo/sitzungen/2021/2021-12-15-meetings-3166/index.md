@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2021-12-15T15:10:00+01:00
+- Ende: 2021-12-15T17:43:00+01:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/3166
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/3166
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreistag 15.12.2021 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00070344.pdf
+- Ergebnisprotokoll: Einladung Kreistag 15.12.2021 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00070344.pdf
+- Wortprotokoll: Einladung Kreistag 15.12.2021 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00070344.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - Feststellung Beschlussfähigkeit
+- TOP 1.1: Verpflichtung und Einführung eines Kreistagsabgeordneten
+- TOP 2: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Tischvorlage: Umbesetzung von Ausschüssen und Gremien - einstimmig beschlossen
+- TOP 2.2: Tischvorlage: Neubesetzung des Medienbeirates des Kreismedienzentrums - einstimmig beschlossen
+- TOP 3: Bestimmung eines/r für das Finanzwesen zuständigen Beamten/in - einstimmig beschlossen
+- TOP 4: Einbringung des Entwurfs der Haushaltssatzung des Rhein-Kreises Neuss für das Jahr 2022 - einstimmig beschlossen
+- TOP 4.1: Antrag der Kreistagsfraktionen SPD und Bündnis 90/Die Grünen vom 30.11.2021 zum Thema "Kreishaushalt und Kreisumlage" - zurückgestellt
+- TOP 4.2: Tischvorlage: Antrag der Kreistagsfraktionen CDU, SPD, Bündnis 90/Die Grünen, FDP, UWG/FW RKN/Zentrum vom 14.12.2021 zum Thema "Aufhebungsantrag Begleitbeschluss Haushalt 2021" - einstimmig beschlossen
+- TOP 5: Haushaltsentwicklung 2021 und finanzielle Lage nach § 2 Abs. 2 NKF-COVID-19-Isolierungsgesetz
+- TOP 5.1: Tischvorlage: Haushaltsentwicklung 2021 und finanzielle Lage nach § 2 Abs. 2 NKF-COVID-Isolierungsgesetz NRW
+- TOP 6: Einrichtung eines Bildungsgangs Fachpraktiker/Fachpraktikerin in Küche (Beikoch/Beiköchin) am BBZ Grevenbroich - einstimmig beschlossen
+- TOP 7: Übernahme der Erhebung von Elternbeiträgen im Rahmen der offenen Ganztagsschule an Förderschulen des Rhein-Kreises Neuss - einstimmig beschlossen
+- TOP 8: Einrichtung eines CNC-Bearbeitungszentrums am Berufsbildungszentrum Hammfelddamm - einstimmig beschlossen
+- TOP 9: Neufassung der Satzung des Rhein-Kreises Neuss über die Förderung von Kindern in Kindertagespflege - einstimmig beschlossen
+- TOP 10: Abfallgebühren 2022 - einstimmig beschlossen
+- TOP 11: RokiLiner - einstimmig beschlossen
+- TOP 12: Digitale Wirtschaft NRW (DWNRW) - Beteiligung an der 3. Förderphase der Digital Innnovation Hub Düsseldorf/Rheinland GmbH - einstimmig beschlossen
+- TOP 13: Verbindliche Bedarfsplanung für den Rhein-Kreis Neuss für das Jahr 2022 - einstimmig beschlossen
+- TOP 13.1: Tischvorlage: Stellungnahme zur verbindlichen Pflegebedarfsplanung 2022 der Kreistagsfraktionen von SPD und Bündnis 90/Die Grünen
+- TOP 14: Tischvorlage: Grundsicherungsrelevanter Mietspiegel - mehrheitlich beschlossen
+- TOP 15: Tischvorlage: Bestellung eines besonderen Vertreters zur Gründung der „Service- und Koordinierungsgesellschaft für preisgünstigen und bezahlbaren Wohnraum Rhein-Kreis Neuss mbH“ - mehrheitlich beschlossen
+- TOP 16: Tischvorlage: Neuausrichtung der Landesförderung der Schulsozialarbeit – Fortführung durch den Rhein-Kreis Neuss - einstimmig beschlossen
+- TOP 17: Anträge
+- TOP 17.1: Antrag der Kreistagsfraktionen SPD und Bündnis 90/ Die Grünen zum Thema "Einführung eines „kommunalpolitischen Tags der offenen Tür“" - einstimmig beschlossen
+- TOP 17.2: Antrag der Kreistagsfraktionen SPD und Bündnis 90/ Die Grünen vom 23.11.2021 zum Thema "Antrags- und Beschlusscontrolling" - einstimmig beschlossen
+- TOP 17.3: Änderungsantrag der Kreistagsfraktionen SPD und Bündnis 90/Die Grünen vom 02.11.2021 zum Thema "Jugendkreistags im Rhein-Kreis Neuss (Vorlage 51/0862/XVII/2021)" - zurückgestellt
+- TOP 17.4: Tischvorlage: Antrag der Kreistagsfraktionen CDU, SPD, Bündnis 90/Die Grünen, FDP, UWG/FW RKN/Zentrum vom 13.12.2021 zum Thema "Appell zu einem vorgesehenen beschleunigten Ausstieg aus der Kohleverstromung bereits 2030" - einstimmig beschlossen
+- TOP 18: Mitteilungen
+- TOP 19: Anfragen
+- TOP 19.1: Tischvorlage: Anfrage der Kreistagsfraktionen SPD und Bündnis 90/Die Grünen vom 08.12.2021 zum Thema "Bilanzierungsmöglichkeiten für Kommunen"
+- TOP 19.2: Tischvorlage: Anfrage der Kreistagsfraktionen SPD und Bündnis 90/Die Grünen vom 08.12.2021 zum Thema "Pooltestungen in den Kitas des Rhein-Kreises Neuss"
+- TOP 19.3: Tischvorlage: Anfrage der Kreistagsfraktionen SPD und Bündnis 90/Die Grünen vom 08.12.2021 zum Thema "Wartelisten zur COVID-19 Impfung für Kinder"
+- TOP 20: Einwohnerfragestunde
