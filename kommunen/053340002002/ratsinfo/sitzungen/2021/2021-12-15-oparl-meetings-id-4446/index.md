@@ -1,0 +1,81 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2021-12-15T17:00:00+01:00
+- Ende: 2021-12-15T18:33:00+01:00
+- Ort: Eurogress Aachen
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4446
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4446
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Bericht über die pandemische Lage
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 01.09.2021 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 06.10.2021 (öffentlicher Teil) - zurückgezogen
+- TOP 5: Ausweitung der Installation von stationären Lüftungsanlagen in Aachener Grundschulgebäuden - ungeändert beschlossen
+- TOP 5.1: Ausweitung der Installation von stationären Lüftungsanlagen in Aachener Grundschulgebäuden - Ergänzung - ungeändert beschlossen
+- TOP 6: Bericht über die Prüfung des Gesamtabschlusses 2018 - ungeändert beschlossen
+- TOP 7: Integriertes Klimaschutzkonzept (IKSK), Maßnahme 6.3, KlimaRegion – regionale Energieeffizienzgenossenschaft - ungeändert beschlossen
+- TOP 8: Beitritt des Gebäudemanagements der Stadt Aachen zum Netzwerk C2C Regionen - ungeändert beschlossen
+- TOP 9: Fortführung der Aufgabenübertragung der Deponie Maria-Theresia auf den ZEW hinsichtlich der Nachsorge, des Betriebes des Sickerwasser- und Gaserfassungssystems und der Sanierung der Deponie Maria-Theresia - ungeändert beschlossen
+- TOP 10: Modellprojekt zur Klimaanpassung und Modernisierung in urbanen Räumen – Nachhaltige Entwicklung der Aachener Friedhofsflächen zur Steigerung der Biodiversität und ruhigen Erholung - ungeändert beschlossen
+- TOP 11: 24. Nachtrag zur Gebührensatzung zur Entwässerungssatzung der Stadt Aachen Hier- notwendige Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 12: 1. Nachtrag zur Entwässerungssatzung der Stadt Aachen - ungeändert beschlossen
+- TOP 13: 21. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 14: Friedhofsgebühren der Stadt AachenGebührenbedarfsberechnung 2022 - ungeändert beschlossen
+- TOP 15: Straßenreinigungs- und Gebührensatzung der Stadt Aachen- Gebührenbedarfsberechnung 2022 – 2024 - - ungeändert beschlossen
+- TOP 16: 5. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12. Dezember 2018 - ungeändert beschlossen
+- TOP 17: 6. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12.12.2018 - ungeändert beschlossen
+- TOP 18: Abfallgebührensatzung der Stadt Aachen - Gebührenbedarfsberechnung 2022 - - ungeändert beschlossen
+- TOP 19: 5. Änderungssatzung zur Abfallgebührensatzung der Stadt Aachen vom 10.12.2008 - ungeändert beschlossen
+- TOP 20: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 20.1: Ersatzneubau Brückenbauwerk Wilhelm-Pitz-Weg II (B205), Überplanmäßige Mittelbereitstellung oberhalb der Erheblichkeitsgrenze gemäß §83 GO NRW - ungeändert beschlossen
+- TOP 20.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2021, Produkt Notfallrettung: Ersatzbeschaffung eines Notarzteinsatzfahrzeuges (NEF) nach Verkehrsunfall - ungeändert beschlossen
+- TOP 20.3: Überplanmäßige Mittelbereitstellung Hier: Sanierung und Erweiterung der Umkleide- und Duschräume sowie Neubau eines Jugend- und Schulungsraumes – Sportplatz Ahornstraße (Josef-Glockner-Stadion) - ungeändert beschlossen
+- TOP 20.4: Bereitstellung überplanmäßiger Mittel Sanierung durch Ersatzneubau Brücke Erzbergerallee - ungeändert beschlossen
+- TOP 20.5: Über- und außerplanmäßige Aufwendungen / Auszahlungen und Verpflichtungsermächtigungen Haushaltsjahr 2021Brücke Turmstraße - ungeändert beschlossen
+- TOP 20.6: Überplanmäßige Mittelbereitstellung gemäß §83 GO NRWHier: Arbeitsplatzausstattung - ungeändert beschlossen
+- TOP 21: Wirtschaftsplan 2022 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen - ungeändert beschlossen
+- TOP 22: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2022 - ungeändert beschlossen
+- TOP 23: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2020 - ungeändert beschlossen
+- TOP 24: Abberufung der Kaufmännischen Betriebsleiterin des Gebäudemanagements der Stadt Aachen zum 31.12.2021 auf eigenen Wunsch - ungeändert beschlossen
+- TOP 25: Wirtschaftsplan 2022 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 26: Jahresabschluss Eurogress Aachen 2020 - ungeändert beschlossen
+- TOP 27: Landtagswahl 2022: Bildung eines Kreiswahlausschusses für die Landtagswahlkreise 1-Aachen I und 2-Aachen II - ungeändert beschlossen
+- TOP 28: Wahl des Wahlausschusses - ungeändert beschlossen
+- TOP 29: Änderung der Zuständigkeitsordnung - zurückgezogen
+- TOP 30: Standort Grenzinfopunkt Aachen-Eurode in der Stadt Aachen - ungeändert beschlossen
+- TOP 31: Anfragen:
+- TOP 31.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 31.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 32: Ratsanträge - zur Kenntnis genommen
+- TOP 33: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 33.1: Entsendung von Mitgliedern und Stellvertreter*innen des Integrationsrats in diverse Ausschüsse des Rats der Stadt Aachen - ungeändert beschlossen
+- TOP 33.2: Besetzung des Ausschusses für Schule und Weiterbildung - Wahl sachkundiger Einwohner*innen;hier: Stadtschulpflegschaft - ungeändert beschlossen
+- TOP 33.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 07.12.2021 - ungeändert beschlossen
+- TOP 33.4: Umbesetzungsantrag der SPD-Fraktion vom 15.12.2021 - ungeändert beschlossen
+- TOP 34: Mitteilungen der Verwaltung
+- TOP 35: Beschaffung von SchildWeb Notenmodul für die Aachener Schulen - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
