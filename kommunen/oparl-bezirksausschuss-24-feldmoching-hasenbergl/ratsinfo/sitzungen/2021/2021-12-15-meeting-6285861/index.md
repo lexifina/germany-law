@@ -1,0 +1,73 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2021-12-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6285861
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6285861
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Stadtbezirksbudget Blaskapelle Feldmoching e.V. "Beschaffung von schwarzen Dirndl-Schürzen für musikalische Trauerveranstaltungen" 2.700,-€; Az. 0262.0-24-0385
+- TOP 2.2.: (E) Stadtbezirksbudget DLRG Wasserrettungsstation am Fasaneriesee c/o DLRG OV München Mitte e.V. "Renovierung der Wasserrettungsstation" 1.500,-€ Az.0262.0-24-0389
+- TOP 2.3.: (E) Stadtbezirksbudget Hidalgo gGmbH "Street Art Song im Stadtbezirk 24 im Rahmen des Kunstliedfestivals HIDALGO" 1.500,-€ Az.0262.0-24-0388
+- TOP 2.4.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 09.04.20218 über die Projektplanung: Verlegung des Fußgängerüberweges in der Kristallstraße
+- TOP 3.1.: Strukturkonzept mit Eckdaten für die Siedlung Ludwigsfeld
+- TOP 3.2.: Grillverbot auf dem Goldschmiedplatz und Beschilderung zu Nacht-, Sonn- und Feiertagsruhe
+- TOP 3.3.: Befreiung der öffentlichen Anlage am Goldschmiedplatz von Schmierereien
+- TOP 3.4.: Gartenprojekt Feldmochinger Anger
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.1.1.: Karlsfelder Str., Fl.Nr. 4057/2, Gem. Feldmoching (TEKTUR)
+- TOP 5.1.2.: Gustav-Schiefer-Str. 5
+- TOP 5.1.3.: Schafgarbenweg 10 (Haus 1 - 4)
+- TOP 5.1.4.: Paulckestr. 1 - 9 (TEKTUR)
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 5.4.1.: Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München;
+- TOP 5.4.2.: Baumfällungen (BaumSchVO): a) Am Schnepfenweg 37 b) Lerchenauer Str. 202
+- TOP 5.4.3.: Sommerstraßen 2022
+- TOP 5.4.4.: Blinklichter an der Ampel an der Kreuzung Lerchenauer Straße / Josef-Frankl-Straße
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP -: Antwortschreiben
+- TOP 1.: Arbeiten am Würmkanal - Flusskilometer 0 bis 4,1
+- TOP 2.: Ausbau der Grundschule an der Lerchenauer Str. 322 - Unterricht für Kinder aus dem Neubaugebiet Hochmuttinger Straße
+- TOP 3.: Ganztagsbetreuung an der Grundschule Lerchenauer Straße 322
+- TOP 4.: Anfrage: KiTa/Hort Lerchenauer STr. 322 - Unterbringung der Kinder zum Schuljahr 2021/2022
+- TOP 5.: Instandsetzung und/oder Modernisierung der Tischtennisplatten in städtischen Spielplatz-/Sportanlagen im Stadtbezirk 24
+- TOP 6.: Instandsetzung und Reinigung der sanitären Anlagen am Fasaneriesee
+- TOP 7.: Versetzung eines Mülleimers von der Glockenblumenstr. zur Balsaminenstr.
+- TOP -: Sonstige Unterrichtungen
+- TOP 8.: MIP-Entwurf 2021-2025
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 9.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Mobilitätsausschusses und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 10.: (U) Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs Drittes Maßnahmenbündel (2. Teil)
+- TOP 11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 13.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/61 Am Schnepfenweg (südlich), Kohlröschenstraße (westlich), Am Blütenanger (nördlich), Sonnentaustraße (östlich) Endgültiger Beschluss
+- TOP 14.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 15.: (U) Mehrjahresinvestitionsprogramm (MIP) 2021 - 2025 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 16.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 17.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 18.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 19.: (U) Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat
+- TOP 20.: Sofortige Übermittlung des aktuellen Fledermausgutachtens für den Eggarten an den BA 24 und sofortige Einstellung der Abbrucharbeiten solange das Gutachten nicht vorliegt
+- TOP 21.: Kein Abriss von Häusern im Eggarten ohne Nachweis der Unbedenklichkeit durch das Fledermausgutachten (Dringlichkeitsantrag)
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 3.: Anträge
