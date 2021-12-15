@@ -1,0 +1,85 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2021-12-15T15:00:00+01:00
+- Ende: 2021-12-15T20:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5391
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/5391
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00198435.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00198435.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00198435.pdf
+
+## Tagesordnung
+
+- TOP 1: Sachstandsbericht zur aktuellen Corona-Lage
+- TOP 2: Niederschrift über die 1. Sitzung des Rates vom 04.11.2020
+- TOP 3: Städtische Gesamtstrategie - eine Stadt. Gemeinsam Mönchengladbach. - Mit Stimmenmehrheit beschlossen
+- TOP 3.1: Änderungsantrag zu 1178/X „Städtische Gesamtstrategie - eine Stadt. Gemeinsam Mönchengladbach“ - Vom Antragsteller zurückgezogen
+- TOP 3.2: Städtische Gesamtstrategie - eine Stadt. Gemeinsam Mönchengladbach. hier: Mündlicher Antrag der CDU-Ratsfraktion - Mit Stimmenmehrheit abgelehnt
+- TOP 4: Städtische Beteiligungen; gemeinsamer Fraktionsantrag von SPD, BÜNDNIS 90/DIE GRÜNEN, FDP und CDU vom - Getrennte Abstimmung (s. Niederschrift)
+- TOP 5: Strategisches Steuerungskonzept, Transparenzbericht zur Städtischen Gesamtstrategie und Fortschreibung Strategischer Controllingbericht - Kenntnisnahme
+- TOP 6: Zwischenbericht Smart City, erste strategische Ziele und Bewertungskriterien für Maßnahmen - Einstimmiger Beschluss
+- TOP 7: Feststellung des Gesamtabschlusses 31.12.2018 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 8: Errichtung eines Zentrums für Kinder, Jugendliche und Familien in der Jugendhilfe - Einstimmiger Beschluss
+- TOP 9: Fünfter Nachtrag zur Satzung über die Erhebnung von Gebühren für die Abfallentsorgung in der Stadt Mönchengladbach (Abfallgebührensatzung-AbfGS) - Kenntnisnahme
+- TOP 9.1: Antrag zu 1159/X „Fünfter Nachtrag zur Satzung über die Erhebnung von Gebühren für die Abfallentsorgung in der Stadt Mönchengladbach (Abfallgebührensatzung-AbfGS)“ - Siehe Niederschrift
+- TOP 10: Fünfter Nachtrag zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Mönchengladbach (Straßenreinigungs- und Gebührensatzung) - Kenntnisnahme
+- TOP 10.1: Antrag zu 1161/X „Fünfter Nachtrag zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Mönchengladbach (Straßenreinigungs- und Gebührensatzung)“ - Mit Stimmenmehrheit abgelehnt
+- TOP 11: Wirtschaftsplan 2022 der mags AöR - Mit Stimmenmehrheit beschlossen
+- TOP 12: Rahmenplan "Offener Ganztag und schulische Betreuung" im Primarbereich - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 12.1: Änderungsvorlage 0958/X-1: Rahmenplan „Offener Ganztag und schulische Betreuung“ im Primarbereich, hier: Anpassung der Elternbeiträge für die Inanspruchnahme der Angebote der Offenen Ganztagsschule - Siehe Niederschrift
+- TOP 13: Entscheidungspunkte zur weiteren Vorgehensweise im Projekt Rathaus der Zukunft mg+ - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 14: Bürgerbegehren "Keine Schulschließungen! -#Mönchengladbach für Schulvielfalt statt Lernfabriken" hier: Antrag auf Vorprüfung des Bürgerbegehrens und Antrag auf Verlängerung der Frist zur Einreichung des Bürgerbegehrens - Getrennte Abstimmung (s. Niederschrift)
+- TOP 15: Dritter Bericht zum Rats-TV - Attraktivierung Rats-TV – hier: Prüfaufträge des Rates vom 25.03.2021 - Kenntnisnahme
+- TOP 15.1: Antrag zu 1116/X „Dritter Bericht zum Rats-TV- Attraktivierung Rats-TV“ - Vom Antragsteller zurückgezogen
+- TOP 16: Benennung von stellvertretenden sachkundigen Einwohner*innen - Einstimmiger Beschluss
+- TOP 17: Einlage von Grundstücken in die GWSG - Einstimmiger Beschluss
+- TOP 18: Finanzbericht - Ausblick auf die finanziellen Auswirkungen der Corona-Pandemie - Kenntnisnahme
+- TOP 19: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2021 (4.Nachweisung) - Kenntnisnahme
+- TOP 20: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 21: Grundstückseinlage Staufenstraße in die EWMG und Gewährung eines zweckgebundenen Investitionskostenzuschusses für die Errichtung einer Quartiersgarage in den Maria Hilf Terrassen - Mit Stimmenmehrheit beschlossen
+- TOP 22: Beteiligung der WFMG an der Digital lnnovation Hub Düsseldorf/Rheinland GmbH; - Einstimmiger Beschluss
+- TOP 23: Gesamtabschlüsse der Jahre 2016-2018 - Beschluss über die Verwendung der Gesamtjahresergebnisse gem. §§ 116 iVm 96 GO NRW - Einstimmiger Beschluss
+- TOP 24: Gesamtabschlussrichtlinie der Stadt Mönchengladbach für die Gesamtabschlüsse ab dem Rechnungsjahr 2019 - Einstimmiger Beschluss
+- TOP 25: HSP-Umsetzungsbericht 30.09.2021 - Kenntnisnahme
+- TOP 26: Weitere Vorgehensweise nach Auslaufen des Stärkungspaktes zum 31.12.2021 - Kenntnisnahme
+- TOP 27: Bereitstellung außerplanmäßiger Haushaltsmittel zur Bildung einer Rückstellung für die erwartete korrigierende Festsetzung von Gewerbesteuer-Nachzahlungszinsen 2019-2021 - Einstimmiger Beschluss
+- TOP 28: Vertretung der Stadt Mönchengladbach in Organen von Unternehmen mit städtischer Beteiligung - Einstimmiger Beschluss
+- TOP 29: Vertretung der Stadt in Organen von städtischen Beteiligungen - Einstimmiger Beschluss
+- TOP 30: Vertretung der Stadt Mönchengladbach in Organen von Unternehmen und Einrichtungen mit städtischer Beteiligung - Einstimmiger Beschluss
+- TOP 31: Fortschreibung des Rettungsdienstbedarfsplans 2021 - Einstimmiger Beschluss
+- TOP 32: Überörtliche IT-Prüfung der gpaNRW - Einstimmiger Beschluss
+- TOP 33: 3. Fortschreibung Digitalisierungsstrategie - Kenntnisnahme
+- TOP 34: Verlagerung der Bezirkssportanlage Preyerstraße/Morr - Mit Stimmenmehrheit beschlossen
+- TOP 35: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Ausschuss für Schule und Bildung - Einstimmiger Beschluss
+- TOP 36: Leistungsvereinbarung mit dem Arbeitslosenzentrum Mönchengladbach e.V. über das Angebot einer psychosozialen Betreuung gem. § 16a Nr. 3 SGB II - Einstimmiger Beschluss
+- TOP 37: Gewährung eines Zuschusses an die Frauenberatungsstelle Mönchengladbach e.V. zur Erbringung von Leistungen zur Überwindung sozialer Schwierigkeiten gem. §§ 67 ff. SGB XII - Einstimmiger Beschluss
+- TOP 38: Vertrag mit dem Caritasverband Region Mönchengladbach e.V. über die Förderung des Freiwilligenzentrums - Einstimmiger Beschluss
+- TOP 39: Verlängerung der Leistungsvereinbarung mit der AWO- Familienservice gGmbH über mobile aufsuchende Jugendarbeit - Einstimmiger Beschluss
+- TOP 40: LV Erziehungsberatung AWO, Diakonie, Bistum - Einstimmiger Beschluss
+- TOP 41: LV mit Zornröschen gegen sex. Missbrauch von Kindern - Einstimmiger Beschluss
+- TOP 42: LV mit Kinderschutzbund über begleitete Umgangskontakte - Einstimmiger Beschluss
+- TOP 43: LV mit Menschen im Zentrum Erziehungsberatung - Einstimmiger Beschluss
+- TOP 44: LV mit Frauenberatungsstelle Erziehungsberatung - Einstimmiger Beschluss
+- TOP 45: Zuschuss für das Projekt Schlau der AIDS-Hilfe Mönchengladbach / Rheydt e.V. - Einstimmiger Beschluss
+- TOP 46: Steigerung der politischen Beteiligung Jugendlicher in Mönchengladbach / Prüfung zur Einrichtung des Partizipationsformats „Jugendparlament“. - Einstimmiger Beschluss
+- TOP 47: Wahl je einer Schiedsperson für die Schiedsamtsbezirke Mönchengladbach-Süd/1 und Süd/2 - Einstimmiger Beschluss
+- TOP 48: Jahresabschluss 2020 des Gebäudemanagement Mönchengladbach (GMMG) und Verwendung des Jahresüberschusses - Einstimmiger Beschluss
+- TOP 49: Klimaschutz und EEA - Einstimmiger Beschluss
+- TOP 50: Vorlaufbetrieb On-Demand-Verkehre im ÖPNV - Einstimmiger Beschluss
+- TOP 51: 235. Änderung des FNP ("Maria Hilf Terrassen") - abschließende Beschlussfassung - Einstimmiger Beschluss
+- TOP 52: Bebauungsplan Nr. 794/N ("Maria Hilf Terrassen") - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 53: Aufhebung der Allgemeinverfügung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 54: Kanalbenutzungsgebührensatzung - Einstimmiger Beschluss
+- TOP 55: Umbesetzung von Gremien; hier: Antrag der SPD-Ratsfraktion vom 08.11.2021 - Einstimmiger Beschluss
+- TOP 56: Für die deutsche Grammatik, gegen Genderzwang Abschaffung der Gendersprache in Verwaltung, Schulen und öffentlichen Einrichtungen; hier: Antrag der AfD-Ratsfraktion vom 29.11.2021 - Mit Stimmenmehrheit abgelehnt
+- TOP 57: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 30.11.2021 - Einstimmiger Beschluss
+- TOP 58: Anfragen und Mitteilungen
+- TOP 58.1: Anfrage von RH Spinnen (CDU) zu Trinkwasserkonzessionen in Wickrath
+- TOP 58.2: Anfrage von RH Schultz (DIE LINKE) zur Luftsicherung des Flughafens Mönchengladbach
+- TOP 58.3: Anfrage von RH Roth (SPD) zu seiner Anfrage bezüglich der Wasserversorgung in Wichrath
+- TOP 58.4: Mitteilung von Oberbürgermeister Heinrichs zur Metropolregion Rheinland
