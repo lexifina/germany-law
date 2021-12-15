@@ -1,0 +1,108 @@
+# 3.öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2021-12-15T17:00:00+01:00
+- Ende: 2021-12-15T20:52:00+01:00
+- Ort: Sachsendamm 12, 10829 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6580
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6580
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=392981
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - schriftlich beantwortet
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Neuwahl der Bezirksverordneten für den Beirat in Sozialhilfeangelegenheiten gemäß § 34 des Gesetzes über die Zuständigkeiten in der allgemeinen Berliner Verwaltung (AZG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Wahl von Beisitzern und stellvertretenden Beisitzern für den Vorstand der BVV gem. § 11 Abs. 5 Geschäftsordnung der BVV - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz "Gegen den Wegfall der Parkplätze am Tempelhofer Damm" - in der BVV abgelehnt
+- TOP 3.4: Bildung von Ausschüssen der Bezirksverordnetenversammlung Tempelhof- Schöneberg von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Hans-Baluschek-Park erhalten und aufwerten - überwiesen
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Farbe für die Toiletten in der Theodor-Haubach-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.2: Zu dreckige Sporthallenböden in Lichtenrade - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3: Bessere Mensa-Toiletten in der Scharmützelsee-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Die Toiletten an der Kiepert-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.5: Die Toiletten der Käthe-Kollwitz-Grundschule sollen saniert und öfter gereinigt werden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.6: Bessere Reinigung der Toiletten an der Scharmützelsee Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.7: Sanierung der Schultoiletten an der Theodor-Haubach-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.8: Bessere Toiletten in der großen Sporthalle der Scharmützelsee-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.9: Schultoiletten der Grundschule auf dem Tempelhofer Feld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.10: Die Blitzerampel - überwiesen
+- TOP 4.11: Entfernung des Graffiti auf dem Spielplatz am Perelsplatz - überwiesen
+- TOP 4.12: Trampoline in der Umgebung der Käthe-Kollwitz-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5: Protokollgenehmigung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Pandemie im Klassenzimmer - schriftlich beantwortet
+- TOP 8.2: Wie will das Bezirksamt seine Personallücken in der neuen Legislaturperiode schließen? - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Festsetzung des Bebauungsplans XI-231aba für die Verbreiterung (teilweise) der Ella-Barowsky-Straße zwischen der westlichen Grenze des Grundstücks Ella-Barowsky-Straße 9 und Wilhelm-Kabus-Straße, einschließlich des Grundstücks Gotenstraße 49 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 9.2: Genehmigung der Bezirkshaushaltsrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2020 - überwiesen
+- TOP 9.3: Neuwahl des Beirates in Sozialhilfeangelegenheiten gemäß §34 des Gesetzes über die Zuständigkeit in der allgemeinen Berliner Verwaltung (AZG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Aufhebung des Auflagenbeschlusses Nr. 6.4 Beschluss der BVV vom 12.09.2019 zum Bezirkshaushaltsplan 2020/2021 Drucksache Nr. 1373/XX - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: a) Wahl einer neuen Schiedsperson für den Schiedsamtsbezirk I (Tempelhof) für die Zeit ab dem 30.01.2022. b) Wahl einer neuen Schiedsperson für den Schiedsamtsbezirk II (Mariendorf, Marienfelde und Lichtenrade) für die Zeit ab dem 30.01.2022. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Der März den Frauen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Impfquote erhöhen: Impfzentrum im ehemaligen Flughafen Tempelhof reaktivieren - mit Änderungen in der BVV beschlossen
+- TOP 10.3: Klimaschutz in der Stadtentwicklung: CO2 Einsparungen bei geplanten Bauvorhaben berücksichtigen - überwiesen
+- TOP 10.4: Benennung nach June und Helmut Newton im Wohnquartier Friedenauer Höhe - überwiesen
+- TOP 10.5: Impfen, impfen, impfen - mit Änderungen in der BVV beschlossen
+- TOP 10.6: Gemeinsame Geschäftsordnung für die Berliner Verwaltung aktualisieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Dezentrale Impfkampagne in Tempelhof-Schöneberg initiieren - mit Änderungen in der BVV beschlossen
+- TOP 10.8: Neustart für den Wochenmarkt in Marienfelde Waldsassener Str./Tirschenreuther Ring - überwiesen
+- TOP 10.9: Sicher zur Schule in der Ebersstraße - überwiesen
+- TOP 10.10: Ein Zebrastreifen in der Bahnstraße - überwiesen
+- TOP 10.11: Wahl von Bürgerdeputierten und stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.12: Krankenhausbeirat schnellstmöglich einberufen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: In Tempelhof-Schöneberg gibt es keinen Raum für Antisemitismus - Tempelhof-Schöneberg wird Antisemitismus immer entschlossen entgegentreten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Sanitär- und Umkleidecontainer für die Halker Zeile - überwiesen
+- TOP 13.2: Sitzmöglichkeiten im Bose-Stadion reparieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Menschen mit Gehbehinderung barrierefreien Zugang zum Rathaus Schöneberg ermöglichen - überwiesen
+- TOP 13.4: Zeitplan für Sanitär- und Umkleidecontainer für die Halker Zeile - überwiesen
+- TOP 13.5: Umsetzung des Baus der barrierefreien Aufzugsanlage im Hauptfoyer des Rathauses Schöneberg für 2018 sichern - überwiesen
+- TOP 13.6: Bürgerrechte schützen auch im Rathaus Schöneberg - überwiesen
+- TOP 13.7: Anschaffung von öffentlichen Luftpumpstationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Rampe statt Aufzug im Foyer des Rathauses Schöneberg als Zwischenlösung - überwiesen
+- TOP 13.9: Vorhaben Halker Zeile in der Arbeitsplanung Hochbau für 2019 absichern - überwiesen
+- TOP 13.10: Zügige naturnahe Entwicklung des Geländes der ehemaligen Bezirksgärtnerei am Diedersdorfer Weg in Marienfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Generationenübergreifende Bewegungsgeräte in der Grünanlage Fuggerstraße / Eisenacher Straße - überwiesen
+- TOP 13.12: Gemeinsame Lösungen bei der Sanierung der Torgauer Str. zwischen dem Bezirksamt und dem EUREF-Campus suchen - überwiesen
+- TOP 13.13: Mahnmal wieder ins Zentrum - überwiesen
+- TOP 13.14: Gemeinschaftshaus Lichtenrade fit für die Zukunft machen - überwiesen
+- TOP 13.15: Breslauer Zwerg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.16: Transportable Lautsprecheranlage anschaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.17: Runder Tisch für den Einzelhandel und die Restaurants im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.18: Ein Nachschlag für Dora Duncker - überwiesen
+- TOP 13.19: Aufwertung der Grünanlage am Grazer Platz - überwiesen
+- TOP 13.20: Mit vereinten Kräften neuen Standort für die Gertrud-Kolmar-Bibliothek suchen und finden - überwiesen
+- TOP 13.21: Auf ins Lern-Lab Schöneberg-Nord - überwiesen
+- TOP 13.22: Mehr Bäume für die Heilandsweide und die Grünanlage rund um die Sportanlage Marienfelde - überwiesen
+- TOP 13.23: Baustellenmarketing am Tempelhofer Damm einrichten - überwiesen
+- TOP 13.24: Unbenannte Grünanlage benennen nach den Betreiberinnen des Damenklubs „Mali und Igel“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.25: Wasser für obdachlose Menschen zugänglich machen - überwiesen
+- TOP 13.26: Fußgängerüberweg Kettinger Straße / Buckower Chaussee sicher gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.27: Auskömmliche Finanzierung der Senior:innen-Vertretung sicher stellen - überwiesen
+- TOP 13.28: Damit mehr Müll im Mülleimer landet: zusätzliche große Müllbehälter für stark frequentierte Plätze und Parks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.29: Bewegliche Poller am Eingang und Ausgang der Rosenheimer Straße zwischen Münchener und Heilbronner Straße modernisieren - überwiesen
+- TOP 13.30: Kältehilfe für den Winter 2021/2022 rechtzeitig planen und umsetzen - überwiesen
+- TOP 13.31: Parknutzung und Hundeauslauf im Kleistpark: Lösungen statt Löcher stopfen - überwiesen
+- TOP 13.32: Kein weiterer Abbau von Parkbänken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.33: Voraussetzungen für die Pflege und Aufwertung des Maikäferplatzes schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.34: Unnötige Versiegelung in der Nuthestrasse stoppen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.35: Bank auf dem Vorarlberger Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.36: Bezirkshaushaltsplan 2022/2023 hier: Sachstandsdarstellung zur Aufstellung des Bezirkshaushaltsplans 2022/2023 nach Chefgesprächen und 1. Fortschreibung der Senatsverwaltung für Finanzen - überwiesen
+- TOP 13.37: Zukunft der Sperrmüllaktionstage bzw. der Tausch- und Verschenkemärkte im Bezirk - überwiesen
+- TOP 13.38: Kostensicherung für zusätzliche Um- oder Erweiterungsbaumaßnahmen sowie strukturelle Modernisierungen an den Schulstandorten der Tranche BSO VI - “Maßnahmen der Sanierung in Umsetzung durch die Senatsverwaltung für Stadtentwicklung und Wohnen“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.39: Aufhebung des Auflagenbeschlusses Nr. 6.5 Beschluss der BVV vom 12.09.2019 zum Bezirkshaushalt 2020/2021 Drucksache Nr. 1373/XX - überwiesen
+- TOP 13.40: Verstetigung einer bezirklichen Präventionskette von der Schwangerschaft bis zum Eintritt in den Beruf - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
