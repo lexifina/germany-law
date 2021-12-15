@@ -1,0 +1,64 @@
+# Rat (14. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2021-12-15T17:00:00+01:00
+- Ende: 2021-12-15T21:28:00+01:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaqCrQRUTOZTOWki75Bzty0
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4653
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZiu-iyWzzs4CCRRAyeI4pbAbrWPfrfrRF_VI7sQRrTZ/Bekanntmachung_Rat_15.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVoJYuXkSCbRympWkBiimdmh7zTMW499VHJtaOyI6_PB/Oeffentliche_Niederschrift_Rat_15.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 10.11.2021
+- TOP 3.: Niederschrift vom 17.11.2021
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der SPD-Fraktion vom 01.12.2021; Schneller PV-Ausbau und Dachgrün auf städtischen Gebäuden - 34 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 4.1.1: Antrag der SPD-Fraktion vom 01.12.2021; Schneller PV-Ausbau und Dachgrün auf städtischen Gebäuden
+- TOP 5.: Einbringung des Haushalts 2022 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Antrag der Fraktion pro:Bürgerschaft auf Einführung eines Gutscheines für Bürgerinnen und Bürger anlässlich einer Geburt - 18 Jastimmen, 23 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Jugendhilfeplanung - Betreuungsplätze für Kinder in Kindertageseinrichtungen und Kindertagespflege, Teil I Bedarfsplanung 2021 bis 2025 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Großtagespflegestelle Objekt: Graf-Arnold-Straße 3, 48599 Gronau - Einstimmig, 0 Enthaltungen
+- TOP 9.: Spezialisierte Beratung bei sexualisierter Gewalt gegen Kinder und Jugendliche - Einstimmig, 0 Enthaltungen
+- TOP 10.: Innenstadtentwicklung Stadtteil Gronau, Planung des 4. Bauabschnitts (Enscheder Straße, Theodor-Heuss-Platz, Mühlenmathe, Bahnhofstraße) - 39 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 11.: Jahresabschluss 2020 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 1. Kenntnisnahme des Jahresabschlussergebnisses 2. Beschluss über die Behandlung des Jahresfehlbetrages - Einstimmig, 0 Enthaltungen
+- TOP 12.: Jahresabschluss 2020 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 13.: Jahresabschluss 2020 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 4. Entlastung der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 14.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahres 2020 Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 15.: Wirtschaftsplan 2022 der Zentralen Bau- und Umweltdienste - Einstimmig, 3 Enthaltungen
+- TOP 16.: Überörtliche Prüfung der Stadt Gronau in den Jahren 2020/2021 durch die Gemeindeprüfungsanstalt (gpa) NRW hier: Beratungen der Fachausschüsse und Stellungnahme - 33 Jastimmen, 3 Neinstimmen, 3 Enthaltungen
+- TOP 17.: Jahresabschluss der Stadt Gronau (Westf.) für das Haushaltsjahr 2020 1. Prüfung durch den Rechnungsprüfungsausschuss 2. Feststellung durch den Rat - Einstimmig, 0 Enthaltungen
+- TOP 18.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2020 - Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltungen
+- TOP 19.: 18. Änderungssatzung zur Abfallgebührensatzung der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 20.: 27. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 21.: Neufassung und Aufhebung des Bebauungsplans Nr. 173 "Nordwestlich der Brookstraße", Stadtteil Gronau (beschleunigtes Verfahren nach § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 2 Enthaltungen
+- TOP 22.: Bebauungsplan Nr. 207 "Nieland", 4. Änderung, Stadtteil Epe (beschleunigtes Verfahren nach § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 23.: Aufstellungsbeschluss Bebauungsplan Nr. 301 „Westlich der Vereinsstraße“, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) - Einstimmig, 3 Enthaltungen
+- TOP 24.: Gründung Projektgesellschaft Stadtwerke Gronau Glasfaser GmbH - 5 Jastimmen, 33 Neinstimmen, 3 Enthaltungen
+- TOP 25.: Einrichtung eines Unterausschusses "Obdachlosenangelegenheiten" - 16 Jastimmen, 22 Neinstimmen, 3 Enthaltungen
+- TOP 26.: Sachstand zur Corona-Pandemie (Stand: 08.12.2021)
+- TOP 27.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 28.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 28.1: Umgang mit Themen aus Gremien stadteigener Gesellschaften (AR-Vors. KB/RPM RM Wagner)
+- TOP 29.: Mitteilungen der Verwaltung
+- TOP 29.1: Standortauswahlverfahren für ein Atommüll-Endlager – aktueller Sachstand
+- TOP 30.: Anfragen
+- TOP 30.1: Weitergabe eines Ratsbeschlusses i.S. Entsorgung von Atommüll (Anfrage von RM Buchholz)
+- TOP 30.2: Planungsgruppe i.S. Endlager für Atommüll (Anfrage von RM Buchholz)
+- TOP 30.3: Freilauffläche für Hunde (Anfrage von RM Reinhoffer)
+- TOP 30.4: Zugang zum Jugendamt (Anfrage von RM Hüsing-Hackfort)
+- TOP 30.5: Faire Getränke bei Gremiensitzungen (Anfrage von RM Hüsing-Hackfort)
+- TOP 30.6: Einfahrt Schwarzenbergstraße (Anfrage von RM Dzietko)
+- TOP 30.7: Personal für das Drilandmuseum (Anfrage von RM Bohn)
+- TOP 30.8: Ausbauarbeiten "Heuweide" (Anfrage von RM Mönsters)
+- TOP 30.9: Sonderantrag für kinderärztlichen Sitz (Anfrage von RM Mönsters)
+- TOP 30.10: Parkende LKW-Anhänger (Anfrage von RM Doetkotte)
+- TOP 30.11: Akquise von Kinderärzten (Anfrage von RM Dzietko)
+- TOP 30.12: Parkende LKW in Wohngebieten (Anfrage von RM Greitenevert)
+- TOP 30.13: Geschwindigkeitsüberschreitungen Steinfurter Straße (Anfrage von RM Stenau-van Wüllen)
