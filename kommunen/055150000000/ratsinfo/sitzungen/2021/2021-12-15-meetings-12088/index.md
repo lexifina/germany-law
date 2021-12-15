@@ -1,0 +1,86 @@
+# 8. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2021-12-15T16:03:00+01:00
+- Ende: 2021-12-15T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12088
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12088
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00497904.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (institutionelle Förderung 2022) - einstimmig beschlossen
+- TOP 3: Elektro-Ladesäulenkonzept Münster 2021 zur Förderung der Elektromobilität - einstimmig geändert beschlossen
+- TOP 4: Einrichtung und Betrieb einer neuen Radstation auf der Ostseite des Hauptbahnhofs - einstimmig beschlossen
+- TOP 5: Stärkung der Innenstadt: Teilnahme am Landeswettbewerb "Zukunft StadtRaum" des MHKBG - mehrheitlich beschlossen
+- TOP 6: Durchführung eines Interessenbekundungsverfahrens zur Vergabe von stationsbasierten Carsharing-Stellplätzen - einstimmig geändert beschlossen
+- TOP 7: Nachtbürgermeister*innen - mehrheitlich geändert beschlossen
+- TOP 8: Gewährung einer Beihilfe an den SC Preußen Münster im Jahr 2022 für den Betrieb des Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP 9: Entwicklung der schulischen Inklusion in Münster - einstimmig beschlossen
+- TOP 9.1: Entwicklung der schulischen Inklusion in Münster
+- TOP -: Vorberatung von Ratsentscheidungen im Rahmen der Etatberatungen
+- TOP 10: Zuwendungen an die Fraktionen - einstimmig beschlossen
+- TOP 11: Antrag auf Beantragung von Fördermitteln des MHKBG für Feuerwehrhäuser - einstimmig beschlossen
+- TOP 12: Managementkontrakte
+- TOP 12.1: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2022 bis 2026 - ohne Beschlussfassung geschoben
+- TOP 12.2: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing - ohne Beschlussfassung geschoben
+- TOP 12.2.1: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing
+- TOP 12.3: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2022 bis 2026 - ohne Beschlussfassung geschoben
+- TOP 12.4: Erweiterung des laufenden Managementkontraktes (MMK) mit der Westfälischen Bauindustrie GmbH für die Jahre 2017 bis 2021 um ein weiteres Jahr bis 2022 - einstimmig beschlossen
+- TOP 12.5: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 8. Finanzformel für die Spielzeiten 2022/2023 bis 2026/2027 - einstimmig beschlossen
+- TOP 13: Vorabgewinnausschüttung auf den Bilanzgewinn 2021 der Stadtwerke Münster GmbH - ohne Beschlussfassung geschoben
+- TOP 14: Ausgleich des coronabedingten Schadens bei der FMO Flughafen Münster/Osnabrück GmbH - ohne Beschlussfassung geschoben
+- TOP 15: Wirtschaftpläne von Gesellschaften
+- TOP 15.1: Wirtschaftsplan 2022 von Münster Marketing - ohne Beschlussfassung geschoben
+- TOP 15.2: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 16: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 16.1: Sondernutzungsgebühren - ohne Beschlussfassung geschoben
+- TOP 16.2: Gewässergebührensatzung: Änderung der Gebührentarife - ohne Beschlussfassung geschoben
+- TOP 16.3: Abwassergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 16.4: Abfallgebühren 2022 - einstimmig beschlossen
+- TOP 16.5: Straßenreinigungsgebühren 2022 - einstimmig beschlossen
+- TOP 16.6: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2022 - einstimmig beschlossen
+- TOP 17: Hundesteuersatzung der Stadt Münster - einstimmig beschlossen
+- TOP 17.1: Satzung zur Änderung der Hundesteuersatzung der Stadt Münster
+- TOP 18: Jubiläum 375 Jahre Westfälischer Frieden - Konzept für ein Veranstaltungsprogramm Mai bis Oktober 2023 - einstimmig beschlossen
+- TOP 19: Errichtungsbeschluss für den Neubau eines Schulgebäudes und einer Einfachsporthalle in Albachten - Südlich Weseler Straße / Östlich Hohe Geist (Bebauungsplan Nr. 572) - einstimmig beschlossen
+- TOP 20: Eckpunkte eines Bau- und Betriebsmodells für den Ausbau des städtischen Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP 20.1: Eckpunkte eines Bau- und Betriebsmodells für den Ausbau des städtischen Stadions an der Hammer Straße
+- TOP 21: Pakt für den Öffentlichen Gesundheitsdienst – Förderfähigkeit der Personalverstärkung im Gesundheits- und Veterinäramt für das Jahr 2021 - einstimmig beschlossen
+- TOP 22: 9. Verleihung des Historikerpreises der Stadt Münster und 2. Verleihung des Förderpreises für junge Historikerinnen und Historiker - einstimmig beschlossen
+- TOP 22.1: 9. Verleihung des Historikerpreises der Stadt Münster und 2. Verleihung des Förderpreises für junge Historikerinnen und Historiker
+- TOP 23: Sportpark Berg Fidel - Fußballplätze für das zukünftige Nachwuchsleistungszentrum und Beachvolleyballanlage-Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 23.1: Sportpark Berg Fidel - Fußballplätze für das zukünftige Nachwuchsleistungszentrum und Beachvolleyballanlage-Planungs- und Baubeschluss
+- TOP 24: Bezuschussung der Anschaffung von Stoffwindeln - ohne Beschlussfassung geschoben
+- TOP 24.1: Bezuschussung der Anschaffung von Stoffwindeln
+- TOP 25: Erweiterung der Marienschule Roxel - Umgestaltung der Straße Auf dem Dorn als Schulhoffläche - einstimmig beschlossen
+- TOP 26: Konzeptstudie "Klimaneutrale Stadtverwaltung 2030" - ohne Beschlussfassung geschoben
+- TOP 27: Haushaltssatzung 2022 - ohne Beschlussfassung geschoben
+- TOP -: Vorberatung sonstiger Ratsentscheidungen
+- TOP 28: Gleichstellungsplan 2022 - 2025 - einstimmig beschlossen
+- TOP 29: 4. Aktionsplan der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler und regionaler Ebene für Münster 2021-2023 - einstimmig beschlossen
+- TOP 29.1: 4. Aktionsplan der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler und regionaler Ebene für Münster 2021-2023
+- TOP 30: Neubesetzung der Kreiswahlausschüsse zur Landtagswahl am 15.05.2022 - einstimmig beschlossen
+- TOP 30.1: Neubesetzung der Kreiswahlausschüsse zur Landtagswahl am 15.5.2022
+- TOP 31: Novellierung des Gesellschaftsvertrags und der Geschäftsordnung für den Aufsichtsrat der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 31.1: Novellierung des Gesellschaftsvertrags und der Geschäftsordnung für den Aufsichtsrat der Stadtwerke Münster GmbH
+- TOP 32: Tarifmaßnahme Mobilität 08/2022 - Anpassung der Fahrpreise zum 1. August 2022 für das Stadtgebiet Münster innerhalb des WestfalenTarifs - ohne Beschlussfassung geschoben
+- TOP 33: Bericht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - zur Kenntnis genommen
+- TOP 34: NRW.URBAN Kommunale Entwicklung GmbH: Ergänzung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 35: Überplanmäßige Mittelbereitstellungen im Haushaltsjahr 2021 und Genehmigung der Dringlichkeitsentscheidung D/0032/2021 - einstimmig beschlossen
+- TOP 36: Vergabe Linienbündel BOR 2 - Delegationsvereinbarung - einstimmig beschlossen
+- TOP 37: Teilnahme an der 2. Stufe des Landeswettbewerbes „Mobil.NRW – Mobilität in lebenswerten Städten“ - einstimmig beschlossen
+- TOP 38: Grundsatzbeschluss für ein Bildungshaus Albachten - Anregung nach § 24 GO NRW Nr. 2019-00277 - einstimmig beschlossen
+- TOP 39: Geschwister-Scholl-Gymnasium; hier: Beibehaltung des gebundenen Ganztages - ohne Beschlussfassung geschoben
+- TOP 39.1: Geschwister-Scholl-Gymnasium; hier: Beibehaltung des gebundenen Ganztages
+- TOP 40: Kommunaler Pflegebedarfsplan 2021 - 2024 - einstimmig beschlossen
+- TOP 41: Bauleitplanung
+- TOP 41.1: Stadtbezirk Mitte
+- TOP 41.1.1: VSP 112 2. Verlängerung - einstimmig beschlossen
+- TOP 42: Verschiedenes
