@@ -1,0 +1,8 @@
+# TOP 3: Elektro-Ladesäulenkonzept Münster 2021 zur Förderung der Elektromobilität
+
+- Sitzung: 8. Sitzung (Etat) (2021-12-15)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/221975
+- Ergebnis: einstimmig geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/75336
