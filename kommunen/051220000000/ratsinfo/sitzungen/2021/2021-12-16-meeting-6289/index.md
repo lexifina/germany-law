@@ -1,0 +1,103 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2021-12-16T17:02:00+01:00
+- Ende: 2021-12-16T18:25:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQ2ft4OeaLSxJjssSAomfSw
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/6289
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbZxRoiL98xZbVsdqlFw386z-f0El8nuh8leJfqb7qUl/Bekanntmachung_Rat_16.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYFxi7bSSOiz5NuF_jOmM9O1Rux3IZggeopiizZWHR1t/Oeffentliche_Niederschrift_Rat_16.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Digitale Endgeräte für Schülerinnen und Schüler
+- TOP 1.2: Verteilung von Migranten
+- TOP 1.3: Messanlage am Werwolf
+- TOP 1.4: Messanlage am Werwolf
+- TOP 1.5: Hospitalisierungsrate in den Solinger Kliniken
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 7. Sitzung des Rates am 30.09.2021
+- TOP 4.: Protokoll über die 9. Sitzung des Rates am 28.10.2021
+- TOP 5.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 6.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.1: Umbesetzung von Ausschüssen und Gremien
+- TOP 7.: X. Satzung zur Änderung der Hauptsatzung der Klingenstadt Solingen
+- TOP 8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.: Wahl des Beigeordneten für das Ressort 2 (Finanzen, Beteiligungen, Gebäudemanagement)
+- TOP 10.: Bestellung des Stadtkämmerers für das Ressort 2 (Finanzen, Beteiligungen, Gebäudemanagement)
+- TOP 11.: Bestellung des Betriebsleiters der Technischen Betriebe Solingen
+- TOP 12.: Bestellung einer allgemeinen Vertreterin/ eines allgemeinen Vertreters des Oberbürgermeisters
+- TOP 13.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG), Städtisches Klinikum Solingen gGmbH, Entsorgung Solingen GmbH - Vertretung der Stadt Solingen in den Gesellschafterversammlungen; Zweckverband Verkehrsverbund Rhein-Ruhr (VRR), Bergisch-Rheinischer Wasserverband, Wupperverband, Wasserversorgungsverband Rhein-Wupper - Vertretung der Stadt Solingen in den Verbandsversammlungen; Verein zur Förderung der Abfallwirtschaft Region Rhein-Wupper e. V., Verein zur Förderung des Bergischen Instituts für Produktentwicklung und Innovationsmanagement e. V., - Vertretung der Stadt Solingen in den Mitgliederversammlungen
+- TOP 14.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 15.: Besetzung des Verwaltungsausschusses für Arbeit Solingen - Wuppertal
+- TOP 16.: Besetzung des Vorstandes der Eheleute-Carl-Ruß-Stiftung
+- TOP 17.: Etatberatungen für das Haushaltsjahr 2022 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2025 und des Haushaltssicherungskonzeptes 2022 ff.
+- TOP 17.1: Etatberatungen für das Haushaltsjahr 2022 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2025 und des Haushaltssicherungskonzeptes 2022 ff.
+- TOP 17.2: Haushalt 2022 – Parkplatz Talsperrenstraße Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 10.12.2021
+- TOP 17.3: Antrag zu §10 der Geschäftsordnung des Rates gemeinsamer Antrag der Ratsfraktion CDU, SPD, Bündnis 90/Die Grünen, FDP, BfS/ABI-Fraktion und DIE LINKE.Die PARTEI vom 16.12.2021
+- TOP 18.: Stellenplannachtrag 2021
+- TOP 18.1: Stellenplannachtrag 2021
+- TOP 19.: Grundsatzentscheidung zum Bau der Arena Bergisch Land
+- TOP 19.1: Grundsatzentscheidung zum Bau der Arena Bergisch Land Antrag der Ratsfraktion Bündnis 90/ Die Grünen vom 06.12.2021
+- TOP 20.: Messanlage am Werwolf
+- TOP 21.: Integriertes städtebauliches Stadtentwicklungskonzept City 2030 Verwaltungsrichtlinien der Stadt Solingen für die Vergabe des Budgets aus dem Verfügungsfonds zur Bürgerbeteiligung in der Solinger Innenstadt
+- TOP 22.: Erklärung nach § 41 Abs. 1 i. V. m. § 87 Abs. 2 GO NRW - Kita Margaretenstraße
+- TOP 23.: Haus der Integration Antrag der FDP-Ratsfraktion vom 15.10.2021
+- TOP 24.: Vergabe des Lokalen Agenda-Preises der Stadt Solingen 2021
+- TOP 25.: Die Natur als Partnerin: Naturbasierte Maßnahmen zu Klimaschutz und Anpassung an den Klimawandel im urbanen Raum
+- TOP 26.: Fortschreibung der verbindlichen Bedarfsplanung nach §§ 7 Absatz 6 und 11 Absatz 7 des Gesetzes zur Weiterentwicklung des Landespflege-rechtes
+- TOP 27.: Umsatzsteuerpflicht bei Vermietung von unbebauten Grundstücken
+- TOP 28.: Überplanmäßige Auszahlungen gem. § 83 GO NRW im Teilplan 11.10 Personal und Organisation hier: Versorgungslastenteilungen
+- TOP 28.1: Überplanmäßige Auszahlungen gem. § 83 GO NRW im Teilplan 11.10 Personal und Organisation hier: Versorgungslastenteilungen
+- TOP 29.: Überplanmäßige Aufwendungen und Auszahlungen gemäß § 83 GO NRW im Bereich Infrastrukturausbau Ganztag
+- TOP 30.: Mehraufwendungen und Mehrauszahlungen im Rettungsdienst gem. § 83 GO NW
+- TOP 31.: Jährlicher Bericht Nachhaltiges Bauen bei Schulneubauten und -sanierungen gemäß Ratsbeschluss Vorlage Nr. 7005/2020
+- TOP 32.: Ergebnis der IT-Prüfung der Gemeindeprüfungsanstalt Nordrhein-Westfalen
+- TOP 33.: Bericht über die Prüfung des Gesamtabschlusses der Klingenstadt Solingen zum 31.12.2019
+- TOP 34.: Bericht über die Prüfung des Jahresabschlusses der Klingenstadt Solingen zum 31.12.2020
+- TOP 35.: Satzung zur Änderung der Satzung über die Erhebung von Gebühren zur Benutzung der Obdachlosenunterkünfte der Klingenstadt Solingen
+- TOP 35.1: Satzung zur Änderung der Satzung über die Erhebung von Gebühren zur Benutzung der Obdachlosenunterkünfte der Klingenstadt Solingen
+- TOP 36.: 2. Änderungssatzung zur Satzung für die Übergangsheime der Klingenstadt Solingen für Flüchtlinge und Spätaussiedler/innen
+- TOP 37.: III. Änderung der Betriebssatzung für den Dienstleistungsbetrieb Gebäude der Stadt Solingen
+- TOP 38.: Gebührenbedarfsberechnung 2022
+- TOP 39.: 1. Änderungssatzung zur Friedhofsgebührensatzung
+- TOP 40.: 4. Änderungssatzung zur Sondernutzungssatzung
+- TOP 41.: Neufassung der Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 42.: V. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 43.: VII. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 43.1: VII. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 44.: VII. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 45.: Entgeltberechnung für das Müllheizkraftwerk Erhebung privatrechtlicher Entgelte für die Benutzung des MHKW der TBS
+- TOP 46.: Jahresabschluss 2020 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 46.1: Jahresabschluss 2020 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 47.: Jahresabschluss 2020 des Eigenbetriebs Wasserversorgung Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 48.: Wirtschaftsplan 2022 der Technischen Betriebe Solingen
+- TOP 49.: Wirtschaftsplan 2022 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 50.: Wirtschaftsplan 2022 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 51.: Verschiedenes
+- TOP 51.1: Mitteilungen der Verwaltung
+- TOP 51.1.1: Über- und außerplanmäßige Aufwendungen und Auszahlungen 16.08.2021 - 15.11.2021
+- TOP 51.1.2: Teilnahme urgewählter Mitglieder des Zuwanderer- und Integrationsrates (ZuWi) an den Ausschüssen des Rates
+- TOP 51.1.3: S 7 – Gremien der Aufgabenträger entscheiden über die Direktvergabe
+- TOP 51.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 7. Sitzung des Rates am 30.09.2021
+- TOP 4.: Protokoll über die 8. Sitzung des Rates am 30.09.2021
+- TOP 5.: Protokoll über die 9. Sitzung des Rates am 28.10.2021
+- TOP 6.: Zustimmung zur Beauftragung eines Dritten als Prüfer gem. § 104 Abs. 6 GO NRW
+- TOP 7.: Vergabe eines Auftrages zu Durchführung der Lolli-Testungen in Solinger Kitas und Tagespflegeeinrichtungen
+- TOP 8.: Kooperationsvereinbarung zur Energiebeschaffung
+- TOP 9.: Abschluss eines Wegenutzungsvertrages
+- TOP 10.: Wirtschaftsplan 2022/2023 Stadtentwicklungsgesellschaft Solingen GmbH & Co.KG
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.2: Anfragen an die Verwaltung
