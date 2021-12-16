@@ -1,0 +1,66 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2021-12-16T09:00:00+01:00
+- Ende: 2021-12-16T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21647
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21647
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 16.12.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00433521.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 16.12.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00433521.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 16.12.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00433521.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 3: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2020 - Feststellung des Jahresabschlusses und Entlastung des Oberbürgermeisters - - einstimmig beschlossen
+- TOP 4: Beschluss über das Jahresergebnis 2020 - einstimmig beschlossen
+- TOP 5: Bericht nach § 2 des Gesetzes zur Isolierung der aus der COVID-19 Pandemie folgenden Belastungen sowie nach § 3 (2) der Verordnung über besondere haushaltsrechtliche Verfahrensweisen aufgrund der Unwetterkatastrophe vom 14./15. Juli 2021 - zur Kenntnis genommen
+- TOP 6: Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2022 - einstimmig beschlossen
+- TOP 7: Klimaneutrales Düsseldorf: Merit Order für den Sektor Verkehr - zur Kenntnis genommen
+- TOP 8: Antrag der SPD-Ratsfraktion: Klimaneutralität im Sektor Verkehr bis 2035
+- TOP 8.1: Änderungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN und SPD zur Vorlage RAT/596/2021: Düsseldorf Klimaneutral 2035: Tempo machen, Lücke schließen - mehrheitlich beschlossen
+- TOP 9: Neuordnung der Abfallwirtschaft und Stadtreinigung – Ziele der Leistungserbringung - zur Kenntnis genommen
+- TOP 10: Worringer Straße 136-140 - Erweiterungsumbau des Proben- und Produktionszentrums Central als Spielstätte für das Junge Schauspiel und die Bürgerbühne/Stadt:Kollektiv des Düsseldorfer Schauspielhauses - mehrheitlich beschlossen
+- TOP 11: Heinrich-Heine-Allee 16a / Deutsche Oper am Rhein - Opernhaus der Zukunft, Beschlussvorlage zur Herbeiführung eines Grundsatzbeschlusses - mehrheitlich beschlossen
+- TOP 11.1: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage KUA/141/2021: Heinrich-Heine-Allee 16a / Deutsche Oper am Rhein, Opernhaus der Zukunft, Beschlussvorlage zur Herbeiführung eines Grundsatzbeschlusses - mehrheitlich abgelehnt
+- TOP 12: Einrichtung einer "Kleinen Kommission Opernhaus der Zukunft" - mehrheitlich beschlossen
+- TOP 13: Besetzung der vakanten kunstwissenschaftlichen Position in der Kunstkommission 2021 - einstimmig beschlossen
+- TOP 14: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2022 - abweichend beschlossen
+- TOP 15: Stadtbahn U81 – 2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord bis Handweiser Fortführung der Planung nach den Ergebnissen des Bürgerdialoges - einstimmig beschlossen
+- TOP 16: Planungsbeschluss Platz- und Freiraumplanung Heinrich-Heine-Platz mit dem Umfeld der Heinrich-Heine-Allee - abweichend beschlossen
+- TOP 17: Umgestaltung der Heinrich-Heine-Allee, der Breite Straße und der Kasernenstraße nördlich der Benrather Straße sowie der angrenzenden Seitenstraßen im Zusammenhang mit dem Umbau des Heinrich-Heine-Platzes - mehrheitlich beschlossen
+- TOP 18: Nachrüstung Blindenleiteinrichtungen U-Bf. Heinrich-Heine-Allee -Ausführungs- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP 19: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Landeshauptstadt Düsseldorf (Sondernutzungssatzung) - abweichend beschlossen
+- TOP 20: Nord-Süd-RadRoute, von Alte Flughafenstraße bis Südring -Bedarfsbeschluss- - einstimmig beschlossen
+- TOP 21: Radverkehrsanlagen Hofgartenrampe / südliche Oederallee -Ausführungs- und Finanzierungsbeschluss- - mehrheitlich beschlossen
+- TOP 22: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Sanierung von Fassaden an acht Schulen" - abweichend beschlossen
+- TOP 23: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Neubau Thomas-Edison-Realschule" - einstimmig beschlossen
+- TOP 24: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für das Projekt "Ersatzneubau der Grundschule an der Vennhauser Allee 160-162 " - einstimmig beschlossen
+- TOP 25: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2022 - Beschluss - - einstimmig beschlossen
+- TOP 26: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2021 bis 2025 - Beschluss - - einstimmig beschlossen
+- TOP 27: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2022 - 31.12.2022 - Beschluss - - mehrheitlich beschlossen
+- TOP 28: Jahresabschluss zum 31.12.2020 und Lagebericht für das Wirtschaftsjahr 2020 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD) - Beschluss - - mehrheitlich beschlossen
+- TOP 29: Klärwerk-Nord, Dachsanierung Maschinenhaus (I-8030617003) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 30: Richtlinien über die Erhebung von Entgelten für Leistungen der Chemisch-biologischen Laboratorien der Landeshauptstadt Düsseldorf vom 16.12.2021 - Beschluss - - einstimmig beschlossen
+- TOP 31: Bestellung von Seniorenratsmitgliedern als sachkundige Einwohnerinnen/Einwohner in Ratsausschüsse - einstimmig beschlossen
+- TOP 32: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Bestellung von Vertreter*innen der Landeshauptstadt Düsseldorf für die Gründerversammlung und die Mitgliederversammlung des Vereins „Psychosoziale Arbeitsgemeinschaft (PSAG) Düsseldorf e. V. - einstimmig beschlossen
+- TOP 34: Umbenennung des Professor-Neyses-Platz in Hilde-und Joseph-Neyses-Platz - einstimmig beschlossen
+- TOP 35: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 36: Weiterfinanzierung Digital Innovation Hub Düsseldorf / Rheinland 2022-2025 - einstimmig beschlossen
+- TOP 37: Grundstücksangelegenheit - Baureifmachung der städtischen Flächen im Bereich „Nach den Mauresköthen“ und Sanierung der PFT-Eintragsstelle - mehrheitlich beschlossen
+- TOP 38: Aufhebung des Bebauungsplanes Nr. 6170/064 - Forststraße/Hasselsstraße -, teilräumliche Aufhebung des Bebauungsplanes Nr. 09/007 - Westlich Kleinstraße -, Aufhebung des Bebauungsplanes Nr. 09/012 "Forststraße/Hasselsstraße" - mehrheitlich beschlossen
+- TOP 39: Aufhebung der Baugebiete GE 4 und GE 5 in dem "Bebauungsplan (Text) zur Ausweisung von Baugebieten in der Landeshauptstadt Düsseldorf für den Stadtbezirk 9" - mehrheitlich beschlossen
+- TOP 40: Bebauungsplan - Entwurf Nr. 09/023 - Südlich Bamberger Straße - Satzung - mehrheitlich beschlossen
+- TOP 41: Bebauungsplan - Entwurf Nr. 06/011 - Airport City West - mehrheitlich beschlossen
+- TOP 42: Bebauungsplan Nr. 06/014 - Vogelsanger Weg/Münsterstraße - mehrheitlich beschlossen
+- TOP 43: Etatberatung
+- TOP 43.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2022 mit Anlagen - mehrheitlich beschlossen
+- TOP 43.2: Veränderungsverzeichnis zum Haushaltsplan-Entwurf 2022 ff. - mehrheitlich beschlossen
+- TOP 43.3: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2022 mit Anlagen - zur Kenntnis genommen
+- TOP 43.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2022 - mehrheitlich beschlossen
