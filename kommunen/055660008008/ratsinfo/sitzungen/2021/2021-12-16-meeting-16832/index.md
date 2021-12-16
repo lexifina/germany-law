@@ -1,0 +1,73 @@
+# Haupt-, Finanz- und Steuerungsausschuss (118. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2021-12-16T17:02:00+01:00
+- Ende: 2021-12-16T20:21:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQCLgDakO_zMrrmysFjzoAk
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16832
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYVa4jDbleGBXVLw1eFqCZ674oxQ__VI1CFHWD8IZsws/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_16.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUmmBQDih29fZice0LAC-biDMm65Dlg5LewRSFoRM9M4/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_16.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 28.10.2021
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Schulangelegenheiten
+- TOP 3.1: Bildung der Grundschuleingangsklassen im Schuljahr 2022/2023 - Einstimmig
+- TOP 4.: Finanzangelegenheiten
+- TOP 4.1: Feststellung des Jahresabschlusses 2020, Entlastung des Bürgermeisters - Einstimmig
+- TOP 4.2: Feststellung des Gesamtabschlusses 2018, Entlastung des Bürgermeisters - Einstimmig
+- TOP 4.3: Beteiligungsbericht 2020 - Einstimmig
+- TOP 4.4: Kenntnisnahme zur Förderantragstellung im "Dritten Aufruf zum Sofortprogramm zur Stärkung unserer Innenstädte und Zentren in Nordrhein-Westfalen 2021" - Zur Kenntnis genommen
+- TOP 4.5: Richtlinie für Kapitalanlagen – Vorbereitung eines Entwurfs - Einstimmig
+- TOP 4.6: Bewerbung als "LEADER-Region Steinfurter Land" - Einstimmig
+- TOP 5.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2022 - Einstimmig
+- TOP 6.: Vorzeitige Ausschüttung vom Jahresüberschuss 2021 des Abwasserwerkes - Einstimmig
+- TOP 7.: Stadtwerke Emsdetten GmbH
+- TOP 7.1: Vertreter in der Gesellschafterversammlung der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 8.: Satzungsrecht
+- TOP 8.1: XV. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - Ohne Abstimmung
+- TOP 8.1.1: XV. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - Einstimmig
+- TOP 9.: X. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 10.: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2022 - Einstimmig
+- TOP 11.: Anpassung der Entwässerungssatzung an die Mustersatzung des Landes NRW im Zuge Änderungen des Landeswassergesetzes und der Selbstüberwachungsverordnung 2021 - Einstimmig
+- TOP 12.: Änderung der Hundesteuersatzung vom 12.02.2010 der Stadt Emsdetten - 12 Ja-Stimme(n), 4 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 13.: Richtlinien
+- TOP 13.1: proKLIMA - Förderprogramm Klimaschutz- und Klimaanpassungsmaßnahmen - Einstimmig
+- TOP 13.2: Neufassung der Richtlinien der Stadt Emsdetten zur Förderung von Städtepartnerschaftsaktivitäten - Einstimmig
+- TOP 14.: Beitritt zum Zweckverband Kommunale ADV-Anwendergemeinschaft West (KAAW) - Einstimmig
+- TOP 15.: Kunstfiguren im Stadtgebiet von Emsdetten - Ohne Abstimmung
+- TOP 15.1: Kunstfiguren im Stadtgebiet von Emsdetten - 9 Ja-Stimme(n), 7 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 16.: Aktueller Stand im Programm "Engagierte Stadt" - Zur Kenntnis genommen
+- TOP 17.: Nachhaltiges Gewerbeflächenmanagement - Einstimmig
+- TOP 18.: Sanierung und Erweiterung Stroetmanns Fabrik - Entwurfsplanung - Einstimmig
+- TOP 19.: Neubau Baubetriebshof - Anpassung an die Kostenentwicklung sowie des Bauprogramms - Einstimmig
+- TOP 20.: Bebauungsplan
+- TOP 20.1: Bebauungsplan Nr. 37 "Josefskirche", 5. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 20.2: Bebauungsplan Nr. 85 A "Silberweg West" - Satzungsbeschluss - Einstimmig
+- TOP 21.: Allgemeine Stadtentwicklungsplanung
+- TOP 21.1: Antrag auf Erstellung eines Konzeptes für neue Winterbeleuchtung - Einstimmig
+- TOP 21.2: Neuaufstellung Freiflächenentwicklungskonzept - Einstimmig
+- TOP 21.3: Antrag der Fraktionen von CDU, SPD und UWE sowie der FDP Emsdetten und der EEM vom 31.05.2021: - Strategie zur Entwicklung neuer Wohnbauflächen - Strategie zur Optimierung alter Bebauungspläne hinsichtlich der Umsetzung moderner zeitgemäßer Wohnkonzepte - Einstimmig
+- TOP 21.4: Rahmenplanung zum Entwicklungskonzept Stadtgebiet WEST - Teilfläche A - Einstimmig
+- TOP 22.: Allgemeine Umweltangelegenheiten
+- TOP 22.1: Einführung eines „Zuschusses für Stoffwindeln“ zur Unterstützung junger Familien: Antrag der Fraktion „Bündnis 90/ Die Grünen“ vom 31.08.2021 - 6 Ja-Stimme(n), 10 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 23.: Sportangelegenheiten
+- TOP 23.1: Bürgerantrag "Corona-Schnelltestung in Sportvereinen" - Einstimmig
+- TOP 24.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 24.1: Namensgebung 3. städtisches Kinderhaus - Einstimmig
+- TOP 24.2: Planung eines komplett inklusiven Spielplatzes in der Stadt Emsdetten - Ohne Abstimmung
+- TOP 24.3: Planung eines komplett inklusiven Spielplatzes in der Stadt Emsdetten - Einstimmig
+- TOP 24.4: Ausbau der spezialisierten Beratung bei sexualisierter Gewalt gegen Kinder und Jugendliche in NRW - Einstimmig
+- TOP 25.: Veränderung der Öffnungszeiten der Stadtbibliothek zum 01.01.2022 - Einstimmig
+- TOP 26.: Stellenplan
+- TOP 26.1: Stellenplan 2022 - Einstimmig
+- TOP 27.: Managementbericht zum 31.10.2021 - Zur Kenntnis genommen
+- TOP 28.: Etat/Budget
+- TOP 28.1: Entwurf Haushaltssatzung und Haushaltsplan 2022 - Einstimmig
+- TOP 29.: Verschiedenes
