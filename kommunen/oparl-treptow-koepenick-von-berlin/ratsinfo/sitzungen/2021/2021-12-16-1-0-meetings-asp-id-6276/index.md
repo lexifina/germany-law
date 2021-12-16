@@ -1,0 +1,51 @@
+# 3. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2021-12-16T16:30:00+01:00
+- Ende: 2021-12-16T19:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6276
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6276
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=370161
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Schülerimpfungen, Boosterimpfungen und Pandemielage in Treptow-Köpenick - vertagt
+- TOP 2.2: Empfehlungen zum Umgang mit Feuerwerken und Böllern zu Silvester 2021 - vertagt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - vertagt
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Wahl eines weiteren Mitgliedes des Bezirksamtes - vertagt
+- TOP 6.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 6.3: Wahl von Bürgerdeputierten - vertagt
+- TOP 6.4: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-02 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - (offen)
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Nachhaltiger und integrativer Wohnungsbau - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Beteiligung der Anwohnenden bei Nachverdichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Schmettau-Schmuckurne restaurieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Schnelle Hilfe für afghanische Ortskräfte und ihre Familien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Sitzungsterminplan 2022 der BVV Treptow-Köpenick von Berlin - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 10.1: Benennung von 2 Vertreterinnen bzw. Vertretern und deren Stellvertreterinnen bzw. Stellvertretern für die Trägerversammlung des Jobcenters Berlin Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Fortschreibung der Eckwerte für Ausgaben (ohne Investitionen) sowie für Einnahmen zur Aufstellung des Bezirkshaushaltsplans 2022/2023 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Überprüfung der Bezirksverordneten auf Mitarbeit beim Ministerium für Staatssicherheit der DDR - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Durchführungsmängel bei Wahlen abstellen - überwiesen
+- TOP 11.3: Adlergestell und Michael-Brückner-Straße zwischen Bürgeramt und S-Bahnhof Johannisthal als Sperrzone für Miet-E-Scooter ausweisen - überwiesen
+- TOP 11.4: Mehr Orientierung im Bürgeramt - überwiesen
+- TOP 11.5: Die Bibliothekslandschaft Treptow-Köpenicks stärken - überwiesen
+- TOP 11.6: Gemeinschaft nach Covid 19 stärken, Grillen ermöglichen - überwiesen
+- TOP 11.7: Straßenbenennung nach Helga Hahnemann - überwiesen
+- TOP 11.8: Die BVV Treptow-Köpenick steht zur Sichtbarkeit jüdischen Lebens im Bezirk - Unser Engagement gilt gegen jede Form des Antisemitismus - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Bibliotheken weitgehend offen halten - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
