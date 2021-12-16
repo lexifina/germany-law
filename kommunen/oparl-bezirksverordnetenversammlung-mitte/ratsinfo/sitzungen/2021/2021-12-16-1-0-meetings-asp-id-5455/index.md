@@ -1,0 +1,91 @@
+# 3. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit Livestream)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2021-12-16T17:30:00+01:00
+- Ende: 2021-12-16T22:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5455
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5455
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=522049
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Umbenennung der Anton-Wilhelm-Amo-Straße - beantwortet
+- TOP 2.2: Drogenkonsumraum "Mühlenstube" - beantwortet
+- TOP 2.3: Vorkaufsrecht in Millieuschutzgebieten - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - im Ausschuss abgelehnt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 5: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Wo stehen wir bei der Bekämpfung des Klimanotstands? - beantwortet
+- TOP 7.2: Straßensperrung made in Mitte - beantwortet
+- TOP 7.3: WBS Beantragung: Erstberatungsgespräch im Einbürgerungsamt - beantwortet
+- TOP 7.4: Umsetzung des Toilettenkonzepts des Senats im Bezirk Mitte bzgl. Geschlechtergerechtigkeit und Inklusion - beantwortet
+- TOP 7.5: Zeltlager als Winterquartier? - beantwortet
+- TOP 7.6: Warum werden obdachlose Menschen vom Leo verdrängt? - schriftlich beantwortet
+- TOP 7.7: Denkmal „Wohnungslose Bühne am Leopoldplatz - schriftlich beantwortet
+- TOP 7.8: Bellermannstraße - schriftlich beantwortet
+- TOP 7.9: Was wird unternommen, um obdachlose Menschen vor Corona zu schützen? - schriftlich beantwortet
+- TOP 7.10: Kältehilfe während Corona - schriftlich beantwortet
+- TOP 7.11: Zielvereinbarung des Bezirksamts im Verkehrsbereich - schriftlich beantwortet
+- TOP 7.12: Warum schloss der „Warme Otto“? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Thusneldaallee – keine Kommunikation? - gegenstandslos
+- TOP 8.2: Torstraße 225/227 - Mieter*innen schützen - beantwortet
+- TOP 8.3: Stellenbesetzung im Bezirksamt nach Parteibuch? - beantwortet
+- TOP 8.4: Unzumutbare Wohnsituation in der Torstraße 225 – Was tut die bezirkliche Wohnungsaufsicht dagegen? - schriftlich beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Himmelbeet und Urban Gardening in Mitte: Wolkenkucksheim oder reale Chance fürs Gärtnern? - beantwortet
+- TOP 9.2: Schutz gegen Corona in Schulen und Kindergärten, speziell am Gymnasium Tiergarten - beantwortet
+- TOP 9.3: Drei Wochen keine Bestattungen in Mitte - beantwortet
+- TOP 9.4: Sachstand über Untätigkeit des Legionellenbefall in der Wilhelmstraße - beantwortet
+- TOP 9.5: Mittes Unternehmen stärken und Arbeitsplätze sichern in Zeiten von Corona - schriftlich beantwortet
+- TOP 9.6: Wie reagiert das Bezirksamt Mitte auf die „Goldene Keule“ für den Hansaplatz? - schriftlich beantwortet
+- TOP 9.7: Kritische Infrastruktur– Straßenpumpen und Notwasserbrunnen in Mitte - schriftlich beantwortet
+- TOP 9.8: Umbau Gendarmenmarkt ab August 2022: Seit langer Zeit bekannt und trotzdem noch keine vertragliche Lösung für den Weihnachtsmarkt „Weihnachtszaubers auf dem Gendarmenmarkt“ für die kommenden Jahre - schriftlich beantwortet
+- TOP 9.9: Sicherere Querung der Fennstraße? - schriftlich beantwortet
+- TOP 9.10: Sporthallen – ist denn noch Platz für alle? - schriftlich beantwortet
+- TOP 9.11: Impfstation im Alexa - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Sitzungskalender 2022 - mit Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 12.1: über die Wahl und Berufung der stimmberechtigten Mitglieder des Jugendhilfeausschusses gem. § 35 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Zugang zum Testzentrum Wedding barrierefrei sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Denkmal „Wohnungslose Bühne“ am Leopoldplatz muss bleiben! - überwiesen
+- TOP 13.3: "Wohnungslose Bühne" sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Torstraße 225/227 - Desaströsen Baustellenzustand sofort beenden - mit Änderungen in der BVV beschlossen
+- TOP 13.5: Das Haus der Weisheit räumt die Rathenower Straße 16, obwohl es nicht in die Lehrter Straße 60 einziehen kann. Das Bezirksamt muss helfen, sonst droht die Moscheegemeinde zugrunde zu gehen - überwiesen
+- TOP 13.6: Transparenz bei Stellenbesetzungsverfahren im Bezirksamt schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Frauenbeirat Stadtplanung für die VI. Wahlperiode der BVV Mitte einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Entscheidung der Mehrheit der Berliner:innen respektieren - Volksentscheid "Deutsche Wohnen & Co enteignen" jetzt umsetzen! - in der BVV abgelehnt
+- TOP 14.3: Covid - 19 - Impfbustouren in Mitte / Impfangebote ausbauen - mit Änderungen in der BVV beschlossen
+- TOP 14.4: Die Kleinsten schützen – der Bezirk kann und muss bei der Kinderimpfung Verantwortung übernehmen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Unfallschwerpunkte im Englischen Viertel sichern - überwiesen
+- TOP 14.6: Toilettenhaus am Schillerpark einer neuen Nutzung zuführen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Fahrradstraße Togo Straße – Übergang Seestraße endlich qualifizieren - überwiesen
+- TOP 14.8: Schulwegsicherheit in der Singerstraße erhöhen - überwiesen
+- TOP 15: Entschließungen - (offen)
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Keine Wohnhausabrisse und Mieter*innenvertreibung in der Tegeler Straße 2-5 sowie Tegeler Straße 6-7 und Tegeler Straße 1/Fennstraße 33/34 durch Bayer-Schering II - ohne Änderungen in der BVV beschlossen
+- TOP 16.2: Das Bezirksamt muss sich seiner Verantwortung gegenüber dem Haus der Weisheit stellen - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Aktienerwerb an den Uferhallen unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.2: Der Bezirk-Mitte erkennt den Klimanotstand an - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.3: Kurzfristige Ersatzräumlichkeiten und langfristige bezahlbare Perspektive für das Haus der Weisheit in der Rathenower Straße schaffen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: BVG Haltestellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.5: IBV Café Leo - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.6: Mittelverteilung Integrationsfonds 2022 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.7: Beschluss über die Aufstellung einer Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt für den Block Glinkastraße-Französische Straße-Friedrichstraße-Jägerstraße gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB inErgän-zung zur Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt für das Gebiet „Dorotheenstadt, Friedrichstadt gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB. - mit Abschlussbericht zur Kenntnis genommen
