@@ -1,0 +1,84 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2021-12-16T18:35:00+01:00
+- Ende: 2021-12-16T20:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2838
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2838
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00122068.pdf
+- Ergebnisprotokoll: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00122068.pdf
+- Wortprotokoll: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00122068.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Bekanntmachung über-und außerplanmäßiger Mittelbereitstellung im dritten Quartal 2021 - Kenntnisnahme
+- TOP 5: Quartalsbericht zum 30. September 2021 nach § 2 Abs. 2 NKF-CIG sowie die aktuelle GewSt.-Entwicklung - Kenntnisnahme
+- TOP 6: Halbjahresbericht über wichtige Gesellschafterbeschlüsse und Vorgänge in beteiligten Unternehmen 2021 1. Halbjahr - Kenntnisnahme
+- TOP 7: Integriertes Handlungskonzept „Innenstadt Grevenbroich" (ISEK) - mehrheitlich beschlossen
+- TOP 8: Wahl von Schiedspersonen in den Schiedsamtsbezirken IV und VIII - einstimmig beschlossen
+- TOP 9: 31. Änd. Straßenreinigungsgebührensatzung - mehrheitlich beschlossen
+- TOP 10: Gebührenbedarfsberechnung und 22. Änderung der Abfallgebührensatzung 2022 - einstimmig beschlossen
+- TOP 11: Anpassung Verwaltungsgebühren Standesamt - mehrheitlich beschlossen
+- TOP 12: Anpassung der Gebührensatzung über die Erhebung von Kostenersatz, Entgelten und Gebühren in der Stadt Grevenbroich bei Einsätzen oder sonstigen Leistungen der Feuerwehr vom 03. April 2017 - einstimmig beschlossen
+- TOP 13: Änderung der Satzung der Stadt Grevenbroich über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen - Sondernutzungssatzung vom 28.01.1988 - mehrheitlich beschlossen
+- TOP 14: Ordnungsbehördliche Verordnung zur Werbung in der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 15: Änderung der Satzung der Stadt Grevenbroich für die Stadtbetriebe Grevenbroich AöR - mehrheitlich beschlossen
+- TOP 16: Stadtbetriebe Grevenbroich AöR (SBG) - mehrheitlich beschlossen
+- TOP 17: Änderung der Satzung der Stadt Grevenbroich für die Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 18: Änderung der Satzung der Stadt Grevenbroich für die Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 19: Ausschussumbesetzung im Jugendhilfeausschuss - einstimmig beschlossen
+- TOP 20: Information über das Ergebnis der Elternbefragung zur Errichtung der 3. Gesamtschule
+- TOP 20.1: Errichtung einer 3. Gesamtschule am Standort Heyerweg in Wevelinghoven - mehrheitlich beschlossen
+- TOP 21: Entscheidung über Beratungspunkte aus der Sitzung des Rechnungsprüfungsausschusses
+- TOP 21.1: Neufassung der Rechnungsprüfungsordnung - einstimmig beschlossen
+- TOP 21.2: Prüfung des Jahresabschlusses der Stadt Grevenbroich zum 31.12.2019 - einstimmig beschlossen
+- TOP 21.3: Prüfung des Gesamtabschlusses der Stadt Grevenbroich zum 31.12.2018 - einstimmig beschlossen
+- TOP 22: Entscheidung über Beratungspunkte aus der Sitzung des Jugendhilfeausschusses
+- TOP 22.1: Fortschreibung Kinder-, Jugend- und Familienförderplan - einstimmig beschlossen
+- TOP 22.2: Gründung einer gemeinnützigen GmbH für die Kinder- und Jugendhilfe - mehrheitlich beschlossen
+- TOP 23: Entscheidung über Beratungspunkte aus der Sitzung des Betriebsausschusses Abwasseranlagen
+- TOP 23.1: Gebührenkalkulation 2022 - einstimmig beschlossen
+- TOP 23.2: JA 2019 - einstimmig beschlossen
+- TOP 23.3: Wirtschaftsplan 2022 - einstimmig beschlossen
+- TOP 24: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 24.1: Anpassung Geltungsbereich RP Gierather Weg - mehrheitlich beschlossen
+- TOP 24.2: Erlass einer Vorkaufsrechtssatzung für das Rahmenplangebiet "Gierather Weg" - einstimmig beschlossen
+- TOP 24.3: 38. FNP Änd. Quartiersentwicklung Gierather Weg - Teilbereich West - Aufstellung - einstimmig beschlossen
+- TOP 24.4: G 231 Alte Molkerei - Aufstellung § 13a und frühz. B.Bet. - mehrheitlich beschlossen
+- TOP 24.5: G 232 Quartiersentwicklung Am Hammerwerk - Aufstellung und frühz. B.Bet. - einstimmig beschlossen
+- TOP 24.6: Aufhebung 3. Änd. K 8 Talstraße/Heisterweg Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.7: Beschluss StV zum Bebauungsplan Nr. N 48 "Laubfroschweg" – Ortsteil Münchrath - einstimmig beschlossen
+- TOP 24.8: N 48 Laubfroschweg - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.9: Städtebaulicher Vertrag zur Sicherung von CEF-Maßnahmen im Zusammenhang mit der Umsetzung des Bebauungsplans Nr. W 54 "Logistikzentrum Grevenbroicher Straße" - einstimmig beschlossen
+- TOP 24.10: Festlegung einer Quote für den Anteil von öffentlich gefördertem Wohnungsbau in Wohnbaugebieten - mehrheitlich beschlossen
+- TOP 24.11: Beantwortung Anträge Mevissen
+- TOP 25: Entscheidung über einen Beratungspunkt aus der Sitzung des Ausschusses für Kultur, Volkshochschule, Freizeit und Ehrenamt
+- TOP 25.1: Änderung und Erweiterung der Satzung über die Erhebung von Gebühren für das Museum - mehrheitlich beschlossen
+- TOP 26: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 26.1: Fragen zum Haushaltsplan (Anfrage Nr. 181/2021) - Kenntnisnahme
+- TOP 27: Schriftliche Anträge
+- TOP 27.1: Anträge der SPD-Fraktion
+- TOP 27.2: Anträge der CDU-Fraktion
+- TOP 27.2.1: Antrag auf Umbesetzung in Gremien Dritter (Antrag Nr. 177/2021) - einstimmig beschlossen
+- TOP 27.2.2: Beitragsfreiheit für den Zeitraum der Regelkindergartenzeit (Antrag Nr. 204/2021) - mehrheitlich abgelehnt
+- TOP 27.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 27.4: Anträge der FDP-Fraktion
+- TOP 27.4.1: Ausschussumbesetzung der FDP-Ratsfraktion (Antrag Nr. 178/2021) - einstimmig beschlossen
+- TOP 27.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 27.6: Anträge der UWG-Fraktion
+- TOP 28: Gemeinschaftsanträge
+- TOP 29: Schriftliche Anfragen liegen nicht vor.
+- TOP 29.1: Anfragen der SPD-Fraktion
+- TOP 29.2: Anfragen der CDU-Fraktion
+- TOP 29.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 29.4: Anfragen der FDP-Fraktion
+- TOP 29.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 29.6: Anfragen der UWG-Fraktion
+- TOP 30: Mitteilungen des Bürgermeisters
