@@ -44,6 +44,7 @@
 ## 4. Abschnitt Sonderregelungen
 
 - [§ 21 Ausgleichszahlungen an Krankenhäuser aufgrund von Sonderbelastungen durch das neuartige Coronavirus SARS-CoV-2](0021.md)
+- [§ 21a Versorgungsaufschlag an Krankenhäuser auf Grund von Sonderbelastungen durch das Coronavirus SARS-CoV-2](0021a.md)
 - [§ 22 Behandlung in Vorsorge- und Rehabilitationseinrichtungen](0022.md)
 - [§ 23 Verordnungsermächtigung](0023.md)
 - [§ 24 Überprüfung der Auswirkungen](0024.md)
