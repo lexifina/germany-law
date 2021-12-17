@@ -1,0 +1,113 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2021-12-17T16:00:00+01:00
+- Ende: 2021-12-17T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5595
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5595
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich_RAT 17.12.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00158174.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich_RAT 17.12.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00158174.pdf
+- Wortprotokoll: Sitzungspaket öffentlich_RAT 17.12.2021 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00158174.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 5: Wasserstoffinfrastruktur in Gewerbe- und Industriegebieten - mehrheitlich zugestimmt
+- TOP 6: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2022 - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 7: Neufestsetzung der Gebühren für die Städtischen Friedhöfe Neuss ab 2022 - einstimmig zugestimmt
+- TOP 8: Wirtschaftsplan 2022 für die Städtischen Friedhöfe Neuss (SFN) - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 9: Brandschutzbedarfsplan der Stadt Neuss für die Jahre 2022 bis 2026 - einstimmig zugestimmt
+- TOP 10: Verlängerung der Testphase zur Anpassung der Parkgebühren im öffentlichen Straßenraum und in den Parkhäusern - mehrheitlich zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 11: Resolution "Modellregion NahFAIRkehr" - einstimmig zugestimmt
+- TOP 12: Umplanung Jülicher Landstraße - einstimmig zugestimmt
+- TOP 13: Bebauungsplan Nr. 200/2 - Erfttal, Parisstraße (Kita) - Satzungsbeschluss Bebauungsplan Nr. 200/1 - Erfttal, Bezirkssportanlage (KUE) - Aufhebung des Aufstellungsbeschlusses - einstimmig zugestimmt
+- TOP 14: Ergänzung des Flächennutzungsplans – Aufstellungsbeschluss und Beschluss der frühzeitigen Bürgerbeteiligung - einstimmig zugestimmt
+- TOP 15: Gestaltungsbeirat - einstimmig zugestimmt
+- TOP 16: Anwendung von Vorkaufssatzungen im Stadtgebiet Neuss - mehrheitlich zugestimmt
+- TOP 17: Planungsbeschluss für den Ausbau eines öffentlichen Fuß- und Radweges in Allerheiligen - einstimmig zugestimmt
+- TOP 18: Beschluss über das Ergebnis der Ideenwerkstatt Wendersplatz - mehrheitlich zugestimmt
+- TOP 19: Fortsetzung des Angebots zum kostenlosen W-Lan „neuss-digital“ in der Innenstadt - einstimmig zugestimmt
+- TOP 20: Fortsetzung der Werbekampagne „In NE ist alles drin“ im Rahmen des Citymarketings - mehrheitlich zugestimmt
+- TOP -: Schulausschuss
+- TOP 21: Zuschuss SchulTag / Zertifizierungskurs Gruppenleitungen OGS - einstimmig zugestimmt
+- TOP 22: Anträge Berufsförderung an Neusser Schulen 2022/2023 - einstimmig zugestimmt
+- TOP 23: Konzept zur 1:1 - Ausstattung der Schülerinnen und Schüler mit mobilen Endgeräten - mehrheitlich zugestimmt
+- TOP -: Betriebsausschuss GMN
+- TOP 24: Wirtschaftsplan 2022 für das Gebäudemanagement der Stadt Neuss (GMN) - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 25: Zum Zörr: Grundhafte Erneuerung der Stichstraße - einstimmig zugestimmt
+- TOP -: Bezirksausschuss III - Selikum, Reuschenberg, Weckhoven, Hoisten
+- TOP 26: Gerhard-Hoehme-Allee, Ersatzneubau der Erftbrücke - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 27: Straßen- und Wegekonzept 2022 der Stadt Neuss - einstimmig zugestimmt
+- TOP 28: Fesserstraße: Herstellung einer Schulbushaltestelle - einstimmig zugestimmt
+- TOP 29: Wirtschaftsplan 2022 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Finanzausschuss
+- TOP 30: Neufestsetzung der Gebühren für den Rettungsdienst der Stadt Neuss ab 2022 - einstimmig zugestimmt
+- TOP 31: Erhöhung der Elternbeiträge zum 01.08.2022 um 5 % - abgesetzt
+- TOP 32: Beratung des Haushaltsplan-Entwurfes 2022 - mehrheitlich zugestimmt
+- TOP 33: Erlass einer Hebesatzsatzung für das Jahr 2022 - mehrheitlich zugestimmt
+- TOP 34: Beratung der mittelfristigen Ergebnisplanung 2021 - 2025 - mehrheitlich zugestimmt
+- TOP 35: Beratung des Investitionsprogramms (investive Finanzplanung) 2021- 2025 - mehrheitlich zugestimmt
+- TOP 36: Erlass einer Haushaltssatzung für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP 37: Festsetzung von Gebühren 2022 für den Bereich "Abfallentsorgung" - einstimmig zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 38: Nordkanalallee zwischen Friedrich-Ebert-Platz und Knotenpunkt "Nordkanalallee / An der Obererft / Selikumer Straße" sowie Hebbelstraße: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - einstimmig zugestimmt
+- TOP 39: Grefrather Weg auf Höhe Eselspfad: Herstellung einer barrierefreien Querungsstelle - einstimmig zugestimmt
+- TOP -: Bezirksausschuss V - Norf
+- TOP 40: Ausbauplanung Kinderspielplatzprogramm 2021/22; Grundsatzbeschlüsse und Sachstände: Ballspielwiese Lahnstraße in Norf-Derikum, Sachstand Spielraumleitplanung - einstimmig zugestimmt
+- TOP -: Rechnungsprüfungsausschuss
+- TOP 41: Prüfung des Gesamtabschlusses 2019 - einstimmig zugestimmt
+- TOP 42: Prüfung des Jahresabschlusses 2020 sowie der Jahresabschlüsse 2020 der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung) - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VII - Uedesheim
+- TOP 43: Umgestaltung der Rheinfährstraße nach Erneuerung der Ver- und Entsorgungsleitungen - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 44: Vorkaufsrechtsatzung 01 - Vogelsang, Hinter der Brücke - - mehrheitlich zugestimmt
+- TOP 45: Vorkaufsrechtsatzung 02 – Weissenberg, Gladbacher Straße, Nord – - mehrheitlich zugestimmt
+- TOP 46: Vorkaufsrechtsatzung 03 – Furth-Nord, Kaarster Heide – - mehrheitlich zugestimmt
+- TOP 47: Vorkaufsrechtsatzung 04 – Furth-Süd, Wolberostraße - - mehrheitlich zugestimmt
+- TOP 48: Vorkaufsrechtsatzung 05 – Innenstadt, Salzstraße – - mehrheitlich zugestimmt
+- TOP 49: Vorkaufsrechtsatzung 06 - Stadionviertel, Eselspfad - - mehrheitlich zugestimmt
+- TOP 50: Vorkaufsrechtsatzung 07 - Meertal, Berghäuschensweg - - mehrheitlich zugestimmt
+- TOP 51: Vorkaufsrechtsatzung 08 – Grimlinghausen, Grimlinghausen Süd – - mehrheitlich zugestimmt
+- TOP 52: Vorkaufsrechtsatzung 09 - Uedesheim, Südlich Rheinfährstraße - - mehrheitlich zugestimmt
+- TOP 53: Vorkaufsrechtsatzung 10 – Grefrath, Lanzerather Straße – - mehrheitlich zugestimmt
+- TOP 54: Vorkaufsrechtsatzung 11 – Norf, Nievenheimer Straße – - mehrheitlich zugestimmt
+- TOP 55: Vorkaufsrechtsatzung 12 – Allerheiligen, Stüttgesfeld – - mehrheitlich zugestimmt
+- TOP 56: Vorkaufsrechtsatzung 13 – Allerheiligen, Am Rosenhof – - mehrheitlich zugestimmt
+- TOP 57: Vorkaufsrechtsatzung 14 - Rosellen, Am Schwarzen Graben - - mehrheitlich zugestimmt
+- TOP 58: Änderung der Betriebssatzung der InfraStruktur Neuss AöR und Neubesetzung des Verwaltungsrates - einstimmig zugestimmt
+- TOP 58.1: Änderung der Vergnügungssteuersatzung - einstimmig zugestimmt
+- TOP 59: Beleuchtung Gehweg aus Allerheiligen B2 - einstimmig zugestimmt
+- TOP 60: Genehmigung einer Dringlichkeitsentscheidung Nr. 61: Teilnahme der Stadt Neuss am Förderprogramm"Moderne Sportstätten 2022 II" - einstimmig zugestimmt
+- TOP 60.1: Genehmigung der Dringlichkeitsentscheidung Nr. 64: Bebauungsplan Nr. 506 - Hafengebiet, Hammer Landstraße (Gewerbegebiet) - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP -: Anfragen
+- TOP 61: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 62: Aufgaben und Personalsituation des Jugendamtes - zur Kenntnis genommen
+- TOP 63: Beirat Innenstadtstärkung - Bericht über die Planungswerkstatt vom 25.09.2021 - zur Kenntnis genommen
+- TOP 64: Hanseaktivitäten - zur Kenntnis genommen
+- TOP 65: Kenntnisnahme von über- und außerplanmäßigen Aufwendungen und Auszahlungen, die der Kämmerer im Rahmen des Jahresabschlusses 2020 und in 2021 bis einschließlich III. Quartal 2021 genehmigt hat - zur Kenntnis genommen
+- TOP 66: Ausgabeentwicklungen im Bereich Kinder-, Jugend- und Familienhilfe - zur Kenntnis genommen
+- TOP 67: Abgabe der Bewerbungsunterlage für die LAGA 2026 - zur Kenntnis genommen
+- TOP 68: Finanzierung des ÖPNV-Angebots der Rheinbahn - zur Kenntnis genommen
+- TOP 68.1: Bericht des Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP 69: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
