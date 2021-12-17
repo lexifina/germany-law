@@ -1,8 +1,8 @@
 # Vollzitat: VwV Bedarf und Schuljahresablauf 2021/2022
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-06-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19185.1
+- Datum: 2021-12-17 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19185.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.06.2021
+17.12.2021
 bis
-16.12.2021
+03.03.2022
 
 VwV Bedarf und Schuljahresablauf 2021/2022
 
@@ -970,7 +970,7 @@ Termine Berufs- und Studienorientierung
 | „Tag der offenen Hochschultür in Sachsen“
 
 
-| 21. bis 23. Januar 2022
+| 11. bis 13. März 2022
 
 | „KarriereStart 2022 – Die Bildungs-, Job- und Gründermesse in Sachsen“, Messe Dresden
 
@@ -982,11 +982,11 @@ Termine Berufs- und Studienorientierung
 
 | 28. April 2022
 
-| „Girls’ Day 2021“/„Boys‘ Day 2022“
+| „Girls’ Day 2021“/„Boys’ Day 2022“
 
 
 C
-Regelungen zum Ablauf und zur Durchführung des Schuljahres an Grundschulen, Oberschulen, Gymnasien, Förderschulen und Schulen des zweiten Bildungsweges
+Regelungen zum Ablauf und zur Durchführung des Schuljahres an Grundschulen, Oberschulen einschließlich Oberschulen+, Gymnasien, Gemeinschaftsschulen, Förderschulen und Schulen des zweiten Bildungsweges
 
 I.
 Geltungsbereich, Vorbereitung und Beginn des Schuljahres
@@ -1005,7 +1005,7 @@ Der Unterricht beginnt am 6. September 2021. Für Schulen des zweiten Bildungswe
 
 4.
 
-Der Unterricht des zweiten Schulhalbjahres und des Kurshalbjahres 11/II beginnt am 28. Februar 2022. Der Unterricht des Kurshalbjahres 12/II beginnt am 3. Januar 2022.
+Der Unterricht des zweiten Schulhalbjahres und des Kurshalbjahres 11/II beginnt am 28. Februar 2022. Der Unterricht des Kurshalbjahres 12/II beginnt am 17. Januar 2022.
 
 5.
 
@@ -1033,7 +1033,7 @@ und Zeugnisse
 
 1.
 
-Die Halbjahresinformationen und Halbjahreszeugnisse sowie die Zeugnisse des Kurshalbjahres 11/I werden am 11. Februar 2022, die Zeugnisse des Kurshalbjahres 12/I am 22. Dezember 2021 ausgegeben.
+Die Halbjahresinformationen und Halbjahreszeugnisse sowie die Zeugnisse des Kurshalbjahres 11/I werden am 11. Februar 2022, die Zeugnisse des Kurshalbjahres 12/I werden mit Datum vom 14. Januar 2022 ausgestellt und ab dem 17. Januar 2022 ausgegeben.
 
 2.
 
@@ -1060,15 +1060,25 @@ Termine für die Prüfungen zum Erwerb des Hauptschulabschlusses, des qualifizie
 
 a)
 
-Die Fachlehrkräfte übergeben der Klassenlehrerin beziehungsweise dem Klassenlehrer für die Schülerinnen und Schüler der Klassenstufe 9 im Hauptschulbildungsgang und der Klassenstufe 10 im Realschulbildungsgang bis zum 16. Mai 2022 die Jahresnoten. Diese werden den Prüfungsteilnehmerinnen und Prüfungsteilnehmern am 17.  Mai 2022 bekannt gegeben. 
+Bis zum 31. März 2022 sollen die Prüfungsteilnehmerinnen und Prüfungsteilnehmer an der Realschulabschlussprüfung nach Beratung durch die Schule dem Prüfungsausschuss bekannt geben, in welchem naturwissenschaftlichen Fach die zentrale schriftliche Prüfung erfolgen soll. Eine Änderung dieser Entscheidung ist dem Prüfungsausschuss bis zum 19. Mai 2022 mitzuteilen.
 
 
 b)
 
-Bis zum 19. Mai 2022 erfasst der Prüfungsausschuss die von den Prüfungsteilnehmerinnen und Prüfungsteilnehmern gewählten mündlichen Prüfungsfächer sowie das von den Prüfungsteilnehmerinnen und Prüfungsteilnehmern an der Realschulabschlussprüfung gewählte naturwissenschaftliche Fach für die schriftliche Prüfung.
+Die Schule kann zur Vorbereitung auf die Prüfungen drei Wochen vor Beginn des Zeitraums der schriftlichen Prüfungen das Angebot des Unterrichts auf die Prüfungsfächer reduzieren. Der Prüfungsausschuss gibt den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die Entscheidung darüber bis zum 29. April 2022 bekannt. Die Leistungsbewertung in den unterrichteten Fächern wird während dieses Zeitraumes fortgesetzt.
 
 
 c)
+
+Die Fachlehrkräfte übergeben der Klassenlehrerin beziehungsweise dem Klassenlehrer für die Schülerinnen und Schüler der Klassenstufe 9 im Hauptschulbildungsgang und der Klassenstufe 10 im Realschulbildungsgang bis zum 16. Mai 2022 die Jahresnoten. Diese werden den Prüfungsteilnehmerinnen und Prüfungsteilnehmern am 17.  Mai 2022 bekannt gegeben. 
+
+
+d)
+
+Bis zum 19. Mai 2022 erfasst der Prüfungsausschuss die von den Prüfungsteilnehmerinnen und Prüfungsteilnehmern gewählten mündlichen Prüfungsfächer.
+
+
+e)
 
 Schülerinnen und Schüler der vertieften sportlichen Ausbildung, die eine mündliche Prüfung im Fach Sport absolvieren möchten, beantragen diese bis zum 19. Mai 2022 bei ihrer Fachlehrkraft. 
 
@@ -1278,11 +1288,17 @@ Bis zum 4. Oktober 2021 werden die gewählten Prüfungsfächer (Jahrgangsstufe 1
 
 Das Landesamt für Schule und Bildung beruft die Vorsitzenden der Prüfungsausschüsse bis zum 1. Oktober 2021 und benennt den Prüfungsausschuss für den Erwerb des französischen Baccalauréat gemäß § 67 Absatz 6 der Schulordnung Gymnasien Abiturprüfung in Verbindung mit Nummer 1 der Anlage 5 zur Schulordnung Gymnasien Abiturprüfung bis zum 22. April 2022.
 
+
 3.
+
+Die Schule bietet zur unmittelbaren Vorbereitung auf die Prüfungen Konsultationen an, die im Zeitraum vom 11. April bis zum 14. April 2022 stattfinden.
+
+
+4.
 
 Am 11. April 2022 wird den Prüfungsteilnehmerinnen und Prüfungsteilnehmern bekannt gegeben, wer zur Abiturprüfung zugelassen ist und wer nicht zur Abiturprüfung zugelassen werden kann.
 
-4.
+5.
 
 Schriftliche Prüfungen
 
@@ -1309,7 +1325,7 @@ Schriftliche Prüfungen
 | Nachprüfung
 
 
-| Öffnen der Umschlage „Informationen für die Vorsitzende/
+| Öffnen der Umschläge „Informationen für die Vorsitzende/
 den Vorsitzenden des Prüfungsausschusses“
 
 | 25. April 2022
@@ -1432,7 +1448,7 @@ d)
 
 Die Abgabe aller korrigierten und endgültig bewerteten Prüfungsarbeiten bei der Vorsitzenden beziehungsweise bei dem Vorsitzenden des Prüfungsausschusses erfolgt bis zum 16. Juni 2022. Die Termine für Erst-, Zweit- und gegebenenfalls Drittkorrektur werden durch das Landesamt für Schule und Bildung bekannt gegeben. 
 
-5.
+6.
 
 Mündliche Prüfungen
 
@@ -1444,14 +1460,14 @@ Die mündlichen Prüfungen (P4 und P5) werden vom 16. Mai bis zum 13. Juni 2022 
 
 b)
 
-Die Anordnung der zusätzlichen mündlichen Prüfungen gemäß § 48 Absatz 11 Satz 1 Nummer 2 der Schulordnung Gymnasien Abiturprüfung durch den Prüfungsausschuss erfolgt am 23. Juni 2022. Die zusätzlichen mündlichen Prüfungen gemäß § 48 Absatz 11 Satz 1 der Schulordnung Gymnasien Abiturprüfung sowie die mündliche Ergänzungsprüfung (Latinum oder Graecum oder Hebraicum) werden vom 23. Juni bis zum 29. Juni 2022 durchgeführt.
+Die Anordnung der zusätzlichen mündlichen Prüfungen gemäß § 48 Absatz 11 Satz 1 Nummer 2 der Schulordnung Gymnasien Abiturprüfung durch den Prüfungsausschuss erfolgt am 22. Juni 2022. Die zusätzlichen mündlichen Prüfungen gemäß § 48 Absatz 11 Satz 1 der Schulordnung Gymnasien Abiturprüfung sowie die mündliche Ergänzungsprüfung (Latinum oder Graecum oder Hebraicum) werden vom 23. Juni bis zum 29. Juni 2022 durchgeführt.
 
 
 c)
 
 Die Abschlussberatung des Prüfungsausschusses, die Bekanntgabe der Gesamtqualifikation und die Bekanntgabe der Entscheidung über Anträge auf Vorliegen eines außergewöhnlichen Härtefalles gemäß § 63 der Schulordnung Gymnasien Abiturprüfung für die Prüfungsteilnehmerinnen und Prüfungsteilnehmer finden am 29. Juni 2022 statt. 
 
-6.
+7.
 
 Besondere Lernleistung
 
@@ -1463,7 +1479,7 @@ Bis zum 4. Oktober 2021 berichtet jede Schule dem Landesamt für Schule und Bild
 
 b)
 
-Bis zum 22. Dezember 2021 (Ersttermin) sind die erarbeiteten schriftlichen Dokumentationen Besonderer Lernleistungen bei der Vorsitzenden beziehungsweise dem Vorsitzenden des Prüfungsausschusses einzureichen. Für Prüfungsteilnehmerinnen und Prüfungsteilnehmer, die aus einem von ihnen nicht zu vertretenden Grund, insbesondere wegen ärztlich attestierter Erkrankung, den Ersttermin nicht einhalten können, ist das Einreichen bis zum 11. Februar 2022 (Nachtermin) möglich.
+Bis zum 17. Januar 2022 (Ersttermin) sind die erarbeiteten schriftlichen Dokumentationen Besonderer Lernleistungen bei der Vorsitzenden beziehungsweise dem Vorsitzenden des Prüfungsausschusses einzureichen. Für Prüfungsteilnehmerinnen und Prüfungsteilnehmer, die aus einem von ihnen nicht zu vertretenden Grund, insbesondere wegen ärztlich attestierter Erkrankung, den Ersttermin nicht einhalten können, ist das Einreichen bis zum 11. Februar 2022 (Nachtermin) möglich.
 
 
 c)
@@ -1480,12 +1496,12 @@ e)
 
 Die Kolloquien zu Besonderen Lernleistungen werden vom 17. Mai bis zum 23. Mai 2022 durchgeführt.
 
-7.
+8.
 
 Analyseergebnisse
 Der Bericht über die Analyseergebnisse der Abiturprüfung erfolgt durch die Schulleiterin beziehungsweise den Schulleiter über das Schulportal an das Landesamt für Schule und Bildung bis zum 8. Juli 2022.
 
-8.
+9.
 
 Abiturprüfung für Schulfremde
 
@@ -1497,7 +1513,7 @@ Schulfremde, die an der Abiturprüfung teilnehmen wollen, sollen spätestens am 
 
 b)
 
-Der schriftliche Prüfungsteil findet in dem Zeitraum statt, der in Nummer 4 geregelt ist. Die Bekanntgabe seiner Ergebnisse erfolgt am 17. Juni 2022. Die Zulassung oder Nichtzulassung zum mündlichen Prüfungsteil erfolgt am 28. Juni 2022. Der mündliche Prüfungsteil findet vom 29. Juni bis zum 5. Juli 2022 statt.
+Der schriftliche Prüfungsteil findet in dem Zeitraum statt, der in Nummer 5 geregelt ist. Die Bekanntgabe seiner Ergebnisse erfolgt am 17. Juni 2022. Die Zulassung oder Nichtzulassung zum mündlichen Prüfungsteil erfolgt am 28. Juni 2022. Der mündliche Prüfungsteil findet vom 29. Juni bis zum 5. Juli 2022 statt.
 
 
 c)
@@ -1516,111 +1532,7 @@ Die Abschlussberatung des Prüfungsausschusses, die Bekanntgabe der Gesamtqualif
 
 
 V.
-Besondere Leistungsfeststellung an Gymnasien
-
-1.
-
-Die Materialien für die Schülerinnen und Schüler sowie die Bewertungshinweise für die Fachlehrkräfte werden über den Sächsischen Bildungsserver zur Verfügung gestellt (www.bildung.sachsen.de/blf). Die Veröffentlichung der Aufgabenstellungen erfolgt aufgrund der notwendigen Geheimhaltung passwortgeschützt. Die mit der Vervielfältigung der Materialien Beauftragten sind durch die Schulleiterin beziehungsweise den Schulleiter auf eine entsprechende Verschwiegenheit hinzuweisen.
-
-2.
-
-Termine 
-
-
-a)
-
-Ersttermine
-
-
-Ersttermine
-
-
-| Fach
-
-| Termin 1
-
-| Termin 2
-
-
-| Fach
-
-| Termin der Veröffentlichung im Schulportal
-
-| Termin zum Schreiben der Arbeit
-
-
-| Deutsch, Sorbisch
-
-| 2. März 2022
-
-| 7. März 2022
-
-
-| Englisch
-
-| 4. März 2022
-
-| 9. März 2022
-
-
-| Mathematik
-
-| 8. März 2022
-
-| 11. März 2022
-
-
-b)
-
-Nachtermine
-
-
-Nachtermine
-
-
-| Fach
-
-| Termin 1
-
-| Termin 2
-
-
-| Fach
-
-| Termin der Veröffentlichung im Schulportal
-
-| Termin zum Schreiben der Arbeit
-
-
-| Deutsch, Sorbisch
-
-| 16. März 2022
-
-| 21. März 2022
-
-
-| Englisch
-
-| 18. März 2022
-
-| 23. März 2022
-
-
-| Mathematik
-
-| 22. März 2022
-
-| 25. März 2022
-
-
-3.
-
-Der Bericht über die Analyseergebnisse der besonderen Leistungsfeststellung erfolgt durch die Schulleiterin beziehungsweise den Schulleiter über das Schulportal an das Landesamt für Schule und Bildung bis zum 8. Juli 2022.
-
-4.
-
-Für Anträge auf Nachteilsausgleich gemäß § 27 Absatz 4 Satz 3 Schulordnung Gymnasien Abiturprüfung gilt Teil C Ziffer IV Nummer 1 Satz 2 entsprechend.
-
+(gestrichen)
 
 VI.
 Feststellungsprüfungen und Prüfungen in der Herkunftssprache
@@ -1675,17 +1587,16 @@ Bis zum 1. Juli 2022 wird den Eltern oder den volljährigen Schülerinnen und Sc
 
 
 VII.
-Aufnahme an die Grundschule und Wechsel
-an eine weiterführende Schule
+Aufnahme an die Grundschule, in die Primarstufe der Oberschule+ und der Gemeinschaftsschule sowie Wechsel an eine weiterführende Schule
 
 1.
 
-Anmeldung und Aufnahme an der Grundschule 
+Anmeldung und Aufnahme an der Grundschule, Oberschule+ und Gemeinschaftsschule 
 
 
 a)
 
-Die Schulleiterinnen und Schulleiter legen Ort und Zeit der Anmeldung nach § 3 Absatz 1 Satz 1 bis 3 der Schulordnung Grundschulen fest.
+Die Schulleiterinnen und Schulleiter legen Ort und Zeit der Anmeldung nach § 3 Absatz 1 Satz 1 bis 3 der Schulordnung Grundschulen und § 5 Absatz 1 Satz 1 und 2 der Schulordnung Gemeinschaftsschulen vom 22. Juni 2021 (SächsGVBl. S. 713) fest.
 
 
 b)
@@ -1811,7 +1722,7 @@ Die Schulleiterinnen und Schulleiter der Gymnasien teilen dem Landesamt für Sch
 
 b)
 
-Aufnahme von Schülerinnen und Schülern der Klassenstufen 5 und 6 der Oberschule 
+Aufnahme von Schülerinnen und Schülern der Klassenstufen 5 und 6 der Oberschule einschließlich Oberschule+ und Gemeinschaftsschule 
 
 
 Die Eltern von Schülerinnen und Schülern, die nach den Klassenstufen 5 oder 6 der Oberschule oder der Förderschule, in denen nach den Lehrplänen der Oberschule unterrichtet wird, zum Gymnasium wechseln wollen, teilen dies dem Klassenlehrer bis zum 28. Februar 2022 mit. Die Klassenlehrerin beziehungsweise der Klassenlehrer führt für diese Schülerinnen und Schüler und deren Eltern bis zum 3. März 2022 auf der Grundlage der Halbjahresinformation die besondere Bildungsberatung gemäß § 7 Absatz 3 der Schulordnung Ober- und Abendoberschulen durch. Die Eltern müssen bis zum 7. März 2022 einen Antrag auf Aufnahme bei dem Gymnasium ihrer Wahl stellen. Eine Aufnahme ist nur möglich, wenn am Schuljahresende die Aufnahmebedingungen gemäß § 6 Absatz 2 der Schulordnung Gymnasien Abiturprüfung erfüllt werden.
@@ -1823,6 +1734,27 @@ Aufnahme von Schülerinnen und Schülern der Klassenstufen 10 der Oberschule
 
 
 Die Eltern von Schülerinnen und Schülern, die nach der Klassenstufe 10 der Oberschule oder der Förderschule, in denen nach den Lehrplänen der Oberschule unterrichtet wird, zum Gymnasium wechseln wollen, müssen bis zum 7. März 2022 einen Antrag auf Aufnahme bei dem Gymnasium ihrer Wahl stellen. Die Eltern derjenigen Schülerinnen und Schüler der Klassenstufe 10 der in Satz 1 genannten Schularten, die zum 7. März 2022 die Zugangsvoraussetzungen gemäß § 6 Absatz 5 Satz 1 der Schulordnung Gymnasien Abiturprüfung nicht erfüllt haben, aber diese mit der bestandenen Prüfung zum Erwerb des Realschulabschlusses erfüllen, stellen bis zum 15. Juli 2022 bei dem Gymnasium ihrer Wahl einen Antrag auf Aufnahme in das Gymnasium. Wenn der Besuch des Unterrichts in der zweiten Fremdsprache nicht nachgewiesen werden kann, ist die Entscheidung über die Aufnahme in das Gymnasium sowie die Bekanntgabe, welchem Gymnasium die Schülerin beziehungsweise der Schüler zugewiesen wird, den Eltern bis zum 25. Juli 2022 durch das Landesamt für Schule und Bildung mitzuteilen. In allen anderen Fällen ist den Eltern die Entscheidung über die Aufnahme in das Gymnasium durch die zuständige Schulleiterin beziehungsweise den zuständigen Schulleiter bis zum 25. Juli 2022 mitzuteilen.
+
+
+6.
+
+Aufnahme von Schülerinnen und Schülern anderer Schularten an die Gemeinschaftsschule im Anschluss an die Klassenstufe 4; leistungsdifferenzierender Unterricht
+
+
+a)
+
+Anmeldung und Aufnahme an die Gemeinschaftsschule im Anschluss an die Klassenstufe 4
+
+
+Eltern von Schülerinnen und Schülern anderer Schularten, deren Kinder im Anschluss an die Klassenstufe 4 die Gemeinschaftsschule besuchen sollen, melden ihre Kinder bis zum 4. März 2022 bei einer Gemeinschaftsschule ihrer Wahl an. Die Schulleiterinnen und Schulleiter der Gemeinschaftsschulen melden dem Landesamt für Schule und Bildung bis zum 8. März 2022 die Anzahl der an ihrer Einrichtung angemeldeten Schülerinnen und Schüler. Einen Bescheid über die Aufnahme an einer Gemeinschaftsschule sollen die Eltern am 3. Juni 2022 erhalten.
+
+
+b)
+
+Leistungsdifferenzierender Unterricht
+
+
+Die Empfehlung der Klassenkonferenz nach § 3 Absatz 2 der Schulordnung Gemeinschaftsschulen, welchem Anforderungsniveau in den Differenzierungsfächern der Gemeinschaftsschule die Schülerinnen und Schüler jeweils zugeordnet werden sollen, wird bis spätestens 4. März 2022 ausgesprochen und den Eltern unverzüglich schriftlich mitgeteilt. Die Beratungsgespräche mit den Eltern der Schülerinnen und Schüler der Klassenstufe 6 zum Besuch des Anforderungsniveaus in den Differenzierungsfächern gemäß § 3 Absatz 2 der Schulordnung Gemeinschaftsschulen sollen bis zum 14. April 2022 durchgeführt werden. Die Eltern der Schülerinnen und Schüler der Klassenstufe 6 teilen der Schule bis zum 29. April 2022 mit, welches Anforderungsniveau in den Differenzierungsfächern der Gemeinschaftsschule ihre Kinder besuchen sollen.
 
 
 VIII.
@@ -2237,6 +2169,9 @@ termin*
 gemäß § 33 Schulordnung Fachoberschule vom 27.  Februar 2017 (SächsGVBl. S. 128), die zuletzt durch Artikel 4 der Verordnung vom 23. April 2021 (SächsGVBl. S. 509) geändert worden ist; Nach- und Wiederholtermine gemäß §§ 35, 103 Schulordnung Fachschule vom 3. August 2017 (SächsGVBl. S. 428), die zuletzt durch Artikel 3 der Verordnung vom 23. April 2021 (SächsGVBl. S. 509) geändert worden ist, in der jeweils geltenden Fassung, werden bei Bedarf durch das Staatsministerium für Kultus festgelegt.
 
 
+Der Zeitraum vom 18. bis 24. Mai 2022 steht für Konsultationen in den Prüfungsfächern zur Verfügung.
+
+
 b)
 
 Berufliches Gymnasium
@@ -2399,7 +2334,11 @@ L = Leistungskurs)
 | 16. Juni bis 29. Juni 2022
 
 
-Im Prüfungszeitraum vom 27. April bis zum 25. Mai 2022 findet für die Jahrgangsstufe 13 kein Unterricht statt. Prüfungsteilnehmerinnen beziehungsweise Prüfungsteilnehmer im doppelqualifizierenden Bildungsgang, deren IHK-Abschlussprüfung am 3. oder 4. Mai 2022 stattfindet, nehmen an der Prüfung im Fach Mathematik zum Nachtermin teil. Versäumt eine Prüfungsteilnehmerin beziehungsweise ein Prüfungsteilnehmer diese Prüfung aus wichtigem Grund, legt das Sächsische Staatsministerium für Kultus einen weiteren Nachtermin fest.
+Im Prüfungszeitraum vom 27. April bis zum 25. Mai 2022 findet für die Jahrgangsstufe 13 kein Unterricht statt.
+
+Die Schule bietet zur unmittelbaren Vorbereitung auf die Prüfungen Konsultationen an, die im Zeitraum vom 11. April bis zum 14. April 2022 stattfinden.
+
+Prüfungsteilnehmerinnen beziehungsweise Prüfungsteilnehmer im doppelqualifizierenden Bildungsgang, deren IHK-Abschlussprüfung am 3. oder 4. Mai 2022 stattfindet, nehmen an der Prüfung im Fach Mathematik zum Nachtermin teil. Versäumt eine Prüfungsteilnehmerin beziehungsweise ein Prüfungsteilnehmer diese Prüfung aus wichtigem Grund, legt das Sächsische Staatsministerium für Kultus einen weiteren Nachtermin fest.
 
 
 c)
@@ -2760,9 +2699,9 @@ Fsn-Nr.: 710-V21.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. Juni 2021
+Fassung gültig ab: 17. Dezember 2021
 
-Fassung gültig bis: 16. Dezember 2021
+Fassung gültig bis:  3. März 2022
 
 Drucken/Speichern
 
@@ -2789,7 +2728,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19185.1
+https://www.revosax.sachsen.de/vorschrift/19185.2
 Stand vom
 18.11.2026
 
