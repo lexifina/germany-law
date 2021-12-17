@@ -1,0 +1,50 @@
+# Anlage 1 (zu § 1 Satz 1)Prüfungsgegenstände
+
+1. Grundlagen der Immobilienwirtschaft
+1.1 Gebäudepläne, Bauzeichnungen und Baubeschreibungen
+1.2 Relevante Versicherungsarten im Immobilienbereich
+1.3 Umwelt- und Energiethemen im Immobilienbereich
+2. Rechtliche Grundlagen
+2.1 Wohnungseigentumsgesetz
+2.1.1 Begründung von Wohnungs- und Teileigentum
+2.1.2 Teilungserklärung, Aufteilungsplan und Gemeinschaftsordnung
+2.1.3 Rechtsfähige Gemeinschaft der Wohnungseigentümer
+2.1.4 Rechtsverhältnis der Wohnungseigentümer untereinander und zur Gemeinschaft der Wohnungseigentümer
+2.1.5 Rechte und Pflichten der Wohnungseigentümer
+2.1.6 Wohnungseigentümerversammlung
+2.1.7 Bestellung und Abberufung des WEG-Verwalters, Verwaltervertrag
+2.1.8 Rechte und Pflichten des WEG-Verwalters
+2.1.9 Rechte des Verwaltungsbeirats
+2.2 Bürgerliches Gesetzbuch
+2.2.1 Allgemeines Vertragsrecht
+2.2.2 Mietrecht
+2.2.3 Werkvertragsrecht
+2.2.4 Grundstücksrecht
+2.3 Grundbuchrecht
+2.4 Zivilprozess- und Zwangsvollstreckungsrecht
+2.5 Berufsrecht der Verwalter
+2.5.1 Gewerbeordnung
+2.5.2 Makler- und Bauträgerverordnung
+2.5.3 Rechtsdienstleistungsgesetz
+2.6 Sonstige Rechtsgrundlagen
+2.6.1 Heizkostenverordnung
+2.6.2 Trinkwasserverordnung
+2.6.3 Energierecht
+3. Kaufmännische Grundlagen
+3.1 Allgemeine kaufmännische Grundlagen
+3.1.1 Grundzüge ordnungsgemäßer Buchführung
+3.1.2 Externes und internes Rechnungswesen
+3.2 Spezielle kaufmännische Grundlagen des WEG-Verwalters
+3.2.1 Sonderumlagen/Erhaltungsrücklage
+3.2.2 Erstellung der Jahresabrechnung und des Wirtschaftsplans
+3.2.3 Hausgeld, Mahnwesen
+4. Technische Grundlagen
+4.1 Baustoffe und Baustofftechnologie
+4.2 Haustechnik
+4.3 Erkennen von Mängeln
+4.4 Verkehrssicherungspflichten
+4.5 Erhaltungsplanung
+4.6 Energetische Gebäudesanierung und Modernisierung
+4.7 Altersgerechte und barrierefreie Umbauten
+4.8 Fördermitteleinsatz; Beantragung von Fördermitteln
+4.9 Dokumentation

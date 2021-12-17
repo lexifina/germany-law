@@ -1,0 +1,15 @@
+# Verordnung über die Prüfung zum zertifizierten Verwalter nach dem Wohnungseigentumsgesetz
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Gegenstand der Prüfung](0001.md)
+- [§ 2 Zuständige Stelle und Prüfungsausschuss](0002.md)
+- [§ 3 Durchführung der Prüfung](0003.md)
+- [§ 4 Nichtöffentlichkeit der Prüfung](0004.md)
+- [§ 5 Bewertung der Prüfung](0005.md)
+- [§ 6 Wiederholung der Prüfung und Prüfungsbescheinigung, weitere Einzelheiten des Prüfungsverfahrens](0006.md)
+- [§ 7 Befreiung von der Prüfungspflicht](0007.md)
+- [§ 8 Juristische Personen und Personengesellschaften als zertifizierte Verwalter](0008.md)
+- [§ 9 Inkrafttreten](0009.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage 1 (zu § 1 Satz 1)Prüfungsgegenstände](anlage-1.md)
+- [Anlage 2 (zu § 6 Absatz 2 Satz 1)Zertifikat über die erfolgreiche Ablegung einer Prüfung nach § 26a des Wohnungseigentumsgesetzes](anlage-2.md)
