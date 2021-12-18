@@ -44,17 +44,14 @@ der Verordnung](0021.md)
 - [§ 22 Abgabe und Kennzeichnung von Lab-Pepsin-Zubereitungen
 und Labaustauschstoffen](0022.md)
 
-## Sechster Abschnitt Zusatzstoffe
-
-
 ## Sechster Abschnitt (weggefallen)
 
 - [§ 23 Zulassung von Zusatzstoffen](0023.md)
-- [(XXXX) §§ 23 bis 26 (weggefallen)](xxxx-23-bis-26.md)
-- [(XXXX) §§ 24 bis 26 (weggefallen)](xxxx-24-bis-26.md)
+- [(XXXX) §§ 23 bis 25 (weggefallen)](xxxx-23-bis-25.md)
 
 ## Siebenter Abschnitt Ergänzende Vorschriften
 
+- [§ 26 (weggefallen)](0026.md)
 - [§ 27 Befugnisse der Länder](0027.md)
 - [§ 28 Ausländische Käse und ausländische Erzeugnisse aus Käse](0028.md)
 - [§ 29 Besondere Zubereitungen](0029.md)
