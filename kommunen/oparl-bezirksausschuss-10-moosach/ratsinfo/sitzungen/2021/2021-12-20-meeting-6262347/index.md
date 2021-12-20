@@ -1,0 +1,65 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2021-12-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6262347
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6262347
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Gärtnerstr. 39 2. Gubestr. 3-5 3. Baubergerstr. 11-17 (Tektur) 4. Bunzlauer Str. 1 (Tektur)
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Gubestr. 3-5 (-> Bauvorhaben, TOP 3.3.1.2)
+- TOP 3.3.3.: Künstlerische Neugestaltung der Unterführung für Fußgänger*innen und Radfahrer*innen am Moosacher Bahnhof (-> vertagt aus Sitzungen 17.05.2021, 20.09.2021 und 22.11.2021)
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anbringung von Hinweisschildern für das Sozialbürgerhaus Neuhausen-Moosach im U-Bahnbereich OEZ und an der Oberfläche
+- TOP 4.1.2.: Klimaschutz vorantreiben - Fernwärme nach und in Moosach vorantreiben
+- TOP 4.1.3.: Verbesserung der Ampelanlage bzw. Markierungen an der Kreuzung Feldmochinger Straße / Pelkovenstraße
+- TOP 4.1.4.: Teilnahme an den Sitzungen des Moosacher Bezirksausschusses (Vollgremium) durch Ton-Bild-Übertragung ermöglichen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Sexualpädagogisches MFM-Projekt für die 5. Klassen des GMM 1.280,00 €; Az. 0262.10-0277
+- TOP 5.2.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 10.09.2022 1.500,00 €; Az. 0262.0-10-0276
+- TOP 5.3.: (E) Stadtbezirksbudget Kreislaufschränke München e.V. Kreislaufschrank Ohlauerstr., ab Frühjahr 2022 2.673,00 €; Az. 0262.0-10-0278
+- TOP 6.: Anhörungen
+- TOP 6.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG): Fa. Krauss-Maffei ; Anpassung des Genehmigungsantrages für eine Lackieranlage (-> vertagt aus Sitzung am 22.11.2021)
+- TOP 6.2.: Sommerstraßen 2022 (Anmeldeverfahren)
+- TOP 6.3.: Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München;
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Ausweisung des gesamten Wohngebietes westlich der Dachauer Straße, nördlich der Bahnlinie, östlich des Parks am Hartmannshofer Bächl und südlich der Saarlouiser Straßen als Tempo-30-Zone [BA-Antrag Nr. 20-26/B 02149; Umsetzung Tempo30 nur in einem Teilabschnitt Untermenzinger Straße und Margarete-Steiff-Straße möglich.]
+- TOP 7.2.: Absenkung der Gehsteige an den Kreuzungen Dietrichstraße/ Walter-Flex-Straße und Dietrichstraße/ Dachauer Straße [BA-Antrag Nr. 20-26/B 03133; Baubeginn ab Frühjahr 2022 im Rahmen einer Fahrbahnsanierung vorgesehen.]
+- TOP 7.3.: Antwortschreiben (Referat an Bürger*innen) zu Anfragen der Bürgerversammlung am 07.10.2021: 1. Wann erfolgt Anordnung Tempo 30 wegen Kita im Straßenabschnitt Dachauer Straße/ Ecke Haylerstraße? [BV-Anfrage Nr. 20-26/Q 00061]; 2. Parken eines nicht im Gewerbegebiet ansässigen Fuhrunternehmens in der Georg-Kainz Straße/ Wildermuthstraße [BV-Anfrage Nr. 20-26/Q 00062]; 3. Trotz Sonderausweis werden von der Polizei Strafzettel im Halteverbots-Bereich Gleißmüller Straße/ Ernst-Platz-Straße ausgestellt [BV-Anfrage Nr. 20-26/Q 00063].
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 StVO: 1. Emmy-Noether-Straße; streckenbezogene Anordnung von 30 km/h im Bereich Schule und Kita 2. Voitstraße; Versetzung absolutes Haltverbot
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebes: Hanauer Str. 68
+- TOP 8.3.: Entwurf des Mehrjahresinvestitionsprogrammes MIP 2021-2025; hier: Selektion 10. Stadtbezirk
+- TOP 8.4.: (U) Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat
+- TOP 8.5.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Feldmochinger Straße 7 im 10. Stadtbezirk Moosach Leistung eines Baukostenzuschusses
+- TOP 8.6.: (U) Reinigungsstandards in Münchner Schulen und städt. Kindertageseinrichtungen temporäre Anpassung aufgrund der Corona Pandemie sowie zusätzliche Schwimmhallenreinigung im Rahmen der Schwimmoffensive für das Haushaltsjahr 2022 ff.
+- TOP 8.7.: (U) Mehrjahresinvestitionsprogramm (MIP) 2021 - 2025 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.8.: (U) Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs Drittes Maßnahmenbündel (2. Teil)
+- TOP 8.9.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Mobilitätsausschusses und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 8.10.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2021 - 2025, Einzelplan 4 / Sozialbereich
+- TOP 8.11.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.12.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2021 - 2025 Einzelplan 4 / Jugendamtsbereich
+- TOP 8.13.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.14.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.15.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 8.16.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 8.17.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 8.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.19.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 8.20.: Verbot Zweckentfremdung von Wohnraum: - nicht-öffentlich - Karlinger Straße
+- TOP 8.21.: Mobilfunk: - nicht-öffentlich - 1. Aufbau Mobilfunksender: Ernst-Platz-Straße 2. Erweiterung am bestehenden Mobilfunkstandort, 5G: Dachauer Straße 3. Neubau Mobilfunkstandort: Umgebung Welzenbachstraße
+- TOP 4.: Anträge
