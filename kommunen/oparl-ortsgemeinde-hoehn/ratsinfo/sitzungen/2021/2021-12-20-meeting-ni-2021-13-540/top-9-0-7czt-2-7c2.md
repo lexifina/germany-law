@@ -1,0 +1,7 @@
+# TOP 9: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Höhn (2021-12-20)
+- Körperschaft: Ortsgemeinde Höhn
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2021-13-540%7Czt_2%7C2
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
