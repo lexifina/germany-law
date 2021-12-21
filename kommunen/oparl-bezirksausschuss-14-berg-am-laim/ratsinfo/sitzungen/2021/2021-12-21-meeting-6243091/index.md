@@ -1,0 +1,110 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2021-12-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6243091
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6243091
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll/e der Sitzung am 30.11.2021
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Friedenstr. 18; Umbau und Nutzungsänderung einer Werkstatt im 4.OG in ein Biotechnologie-Labor mit Sicherheitsstufe 2 nach GenTG
+- TOP 3.1.2.: Friedenstr. 2; Neubau eines Bürogebäudes mit Tiefgarage
+- TOP 3.1.3.: Fehwiesenstr. 118, Schulbauoffensive - Campus Ost / Schulcampus: Neubau Ludwig-Thoma-Realschule sowie Neubau einer Förderschule für geistige Entwicklung mit Einfachsporthalle, Mensa als Versammlungsstätte und zwei Dienstwohnungen - VORBESCHEID
+- TOP 3.1.4.: Hohenbrunner Str. 33; Neubau eines Mehrfamilienhauses mit 5 Wohneinheiten und 6 Stellplätzen
+- TOP 3.1.5.: Glasscherben auf öffentlichen Flächen häufig entfernen; Antrag BA 14
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Projekt "Saisonale Stadträume - Sommerstraßen und Parklets" - Anhörung durch das Mobilitätsreferat -
+- TOP 3.2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Gotteszeller Str. 13 - Anhörung durch das Mobilitätsreferat -
+- TOP 3.2.3.: Rückgabestationen für Elektroroller, Bürgeranliegen
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Kinderkrippe in der Dingolfinger Straße muss voraussichtlich 2022 schließen, - Bitte um Unterstützung -
+- TOP 3.3.2.: Veranstaltung in einer städtischen Grünanlage Hier: Grünanlage an der Echardinger Kapelle – Freiluft-Gottesdienst zum 2. Weihnachtsfeiertag, Evang.-Luth.Kirchenggemeinde Sophie Scholl am 26.12.2021, von 17.00 Uhr bis 18.00 Uhr (Nachtrag)
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 10.09.2022 1.500,00 €; Az. 0262.0-14-0309
+- TOP 3.5.2.: (E) Stadtbezirksbudget AKA - Aktiv für interkulturellen Austausch e.V. Formularservice für Ramersdorf und Berg am Laim vom 01.01. - 31.12.2022 2.021,03 €; Az. 0262.0-14-0310
+- TOP 3.5.3.: Zuwendungen aus dem Stadtbezirksbudget der Bezirksausschüsse Antrag vom 02.06.2020 von democraticArts Die Demokratie der Kunst - Die Kunst der Demokratie - in Krisenzeiten (Unruly Ghosts) hier: Antrag auf Änderung des Zuschusses - Anhörung durch das Direktorium -
+- TOP 3.5.4.: Bestellung einer städtischen Leistung: Errichtung eines rollstuhlgeeigneten Karusells und einer zusätzlichen Kletterwand in der Grünanlage Xaver-Weismor-Straße; Antrag CSU-Fraktion (vertagt aus 11/2021)
+- TOP 3.5.5.: Fraktionsübergreifende Resolution: Stadtteil-Berichterstattung in der „Süddeutschen Zeitung“ wieder stärken! - Schreiben des Bezirksausschusses 5 Au-Haidhausen an die Süddeutsche Zeitung sowie bitte an alle BA´s um Unterstützung - (FF alle UA)
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Friedenstr. 2; Neubau eines Bürogebäudes mit Tiefgarage
+- TOP 3.6.2.: Fehwiesenstr. 118, Schulbauoffensive - Campus Ost / Schulcampus: Neubau Ludwig-Thoma-Realschule sowie Neubau einer Förderschule für geistige Entwicklung mit Einfachsporthalle, Mensa als Versammlungsstätte und zwei Dienstwohnungen - VORBESCHEID
+- TOP 3.6.3.: Hohenbrunner Str. 33; Neubau eines Mehrfamilienhauses mit 5 Wohneinheiten und 6 Stellplätzen
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk Berg am Laim in der Zeit vom 15.11.2021 - 05.12.2021
+- TOP 4.1.2.: Broschüre "Preis für Stadtbildpflege 2020"
+- TOP 4.1.3.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 4.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.5.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 4.1.6.: Aufstellen von Mülleimern in der Berg-am-Laim-Straße und Kreillerstraße
+- TOP 4.1.7.: Installation eines Mülleimers neben der Sitzbank an der Hansjakobstraße/Ecke St.-Veit-Straße; Bürgeranliegen
+- TOP 4.1.8.: Sauberkeit Bürgersteig im Bereich Leuchtenbergring / Streitfeldstraße / Neumarkter Straße - Antwort des Baureferates auf Anfrage eines Bürgers -
+- TOP 4.1.9.: Erfassung der Boden- bzw. Flächenversiegelung in Berg am Laim
+- TOP 4.1.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.11.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen hier: Jahresmeldung 2021/2022 - Information durch das Baureferat -
+- TOP 4.1.12.: Baumbilanz für das Werksviertel
+- TOP 4.2.1.: (U) Sanierungsgebiet „Neuperlach Nord“ Sanierungsgebiet „Neuperlach Zentrum“ A) Vorbereitende Untersuchungen im Untersuchungsgebiet Neuperlach B) Beteiligung der Betroffenen und der öffentlichen Aufgabenträger C) Neuperlach: Fit für die Zukunft – Start der Sanierung und Durchführung der Sanierung in mehreren Phasen D) Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes „Neuperlach Nord“ E) Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes „Neuperlach Zentrum“ F) Organisatorische Erfordernisse der Städtebauförderung zur Stadtteilentwicklung G) Personalbedarf im Referat für Stadtplanung und Bauordnung H) Städtebauförderung, Kosten, Finanzierung Stadtbezirk 16 ‒ Ramersdorf - Perlach Sitzungsvorlagen Nr. 20-26 / V 03969
+- TOP 4.2.2.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 4.2.3.: Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat Sitzungsvorlagen Nr. 20-26 / V 04708
+- TOP 4.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.5.: Baumaßnahme Strom-Projekt - Berg-am-Laim-Straße Beginn: 47. KW 2021 vor. Ende: 08. KW 2022 - Mitteilung der SWM GmbH -
+- TOP 4.2.6.: (U) Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs Drittes Maßnahmenbündel (2. Teil)
+- TOP 4.2.7.: Sichere und behindertengerechte Querung der Heinrich-Wieland-Straße (1)
+- TOP 4.2.8.: Ideenwettbewerb für den Knoten Bad-Schachener-Straße/Hechtseestraße/Heinrich-Wieland-Straße/St.-Michael-Straße/Hofangerstraße
+- TOP 4.2.9.: Verkehrszeiche, Poller o.ä. im öffentlichen Raum behindertengerecht gestalten - Antrag des BA 17 mit der Bitte um Unterstützung durch die weiteren Bezirksausschüsse -
+- TOP 4.2.10.: Aschheimer Straße; Ausweisung eines Zweirichtungsradwegs nördlich der Einmündung Erika-Köth-Straße (U-1738) bis Höhe Piusstraße
+- TOP 4.2.11.: Oberirdische Beschriftung der U-Bahn-Stationen
+- TOP 4.2.12.: Vollzug des Bundesimmissionschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) Ausnahmezulassung gem. § 7 Abs 2 32. BImSchV für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet Zeitraum: 01.01.2022 bis 31.12.2022
+- TOP 4.2.13.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte und Machinenlärmschutzverordnung (32. BImSchV) Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Jahresgenehmigung für das Jahr 2022 für Arbeiten an Anlagen des ÖPNV/Weichenwartung Tram
+- TOP 4.2.14.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Machinenlärmschutzverordnung (32. BImSchV) Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Jahresgenehmigung 2022 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 4.2.15.: Aktueller Sachstand bezüglich des Bosch-Werkes in Berg am Laim - Antwortschreiben des Referates für Arbeit und Wirtschaft -
+- TOP 4.3.1.: (U) Mehrjahresinvestitionsprogramm (MIP) 2021 - 2025 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 4.3.2.: (U) Reinigungsstandards in Münchner Schulen und städt. Kindertageseinrichtungen temporäre Anpassung aufgrund der Corona Pandemie sowie zusätzliche Schwimmhallenreinigung im Rahmen der Schwimmoffensive für das Haushaltsjahr 2022 ff.
+- TOP 4.4.1.: Anpassung des Bolzplatzes an der Kreillerstraße 21 an die Bedürfnisse der Jugendlichen
+- TOP 4.4.2.: Antrag auf Aufstellung eines Corona-Test Pavillons Berg-am-Laim-Straße/Ampfingstraße neben dem Edeka - Stellungnahme vorab gemäß § 13 Abs. 2 BA-Satzung i.V.m. § 20 BA-Satzung -
+- TOP 4.4.3.: Zurverfügungstellung von kostenlosen FFP2-Masken und Schnelltests; BA-Antrags-Nr. 20-26 / B 03085 des Bezirksausschusses des Stadtbezirkes 12 – Schwabing-Freimann vom 28.09.2021 - Antwortschreiben des Direktoriums -
+- TOP 4.4.4.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.4.5.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.4.6.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.4.7.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 4.5.1.: Antrag auf Bestellung städtischer Leistungen: hier: Erläuterungsschilder für Straßen im Werksviertel
+- TOP 4.5.2.: Mehrjahresinvestitionsprogramm - Entwurf für die Jahre 2021-2025 - Mitteilung durch die Stadtkämmerei -
+- TOP 4.5.3.: Infoschreiben BA 07 / 2021: Durchführung des Sitzungsbetriebs bei den Bezirksausschüsse
+- TOP 4.5.4.: Informationsschreiben BA 08/2021: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1.1.: Am Dienstag, den 14.2021, um 19.00 Uhr, über Webex (online).
+- TOP 5.1.2.1.: Am Montag, den 13.12.2021, um 19.15 Uhr, voraussichtlich in der Mensa der Ludwig-Thoma-Realschule, Fehwiesenstr. 118.
+- TOP 5.1.3.1.: Am Dienstag, den 14.12.2021, um 18.00 Uhr, voraussichtlich im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.1.4.1.: Am Donnerstag, den 16.12.2021, um 18.30 Uhr, über Webex (online).
+- TOP 5.1.5.1.: Am Montag, den 13.12.2021, um 18.30 Uhr, über Webex (online).
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.1.1.: Aufgrund der aktuellen Corona-Lage, finden die Sitzungen der Unterausschüsse weitgehend online statt. Bitte wenden Sie sich an die BA-Geschäftsstelle, wenn Sie an einer Sitzung teilnehmen möchten oder Fragen zu einem Tagesordnungspunkt haben.
