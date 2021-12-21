@@ -192,11 +192,13 @@
 | § 150c | Auskunft an ausländische sowie über- und zwischenstaatliche Stellen |
 | § 150d | Protokollierungen |
 | § 150e | Elektronische Antragstellung |
+| § 150f | Automatisiertes Auskunftsverfahren |
 | § 151 | Eintragungen in besonderen Fällen |
 | § 152 | Entfernung von Eintragungen |
 | § 153 | Tilgung von Eintragungen |
 | § 153a | Mitteilungen zum Gewerbezentralregister |
-| § 153b | Verwaltungsvorschriften |
+| § 153b | Identifizierungsverfahren |
+| § 153c | Verwaltungsvorschriften |
 |  |
 | Schlußbestimmungen |
 | § 154 | (weggefallen) |

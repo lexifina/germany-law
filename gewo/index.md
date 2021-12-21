@@ -215,11 +215,13 @@ Handwerkskammern, Innungsverbände
 - [§ 150c Auskunft an ausländische sowie über- und zwischenstaatliche Stellen](0150c.md)
 - [§ 150d Protokollierungen](0150d.md)
 - [§ 150e Elektronische Antragstellung](0150e.md)
+- [§ 150f Automatisiertes Auskunftsverfahren](0150f.md)
 - [§ 151 Eintragungen in besonderen Fällen](0151.md)
 - [§ 152 Entfernung von Eintragungen](0152.md)
 - [§ 153 Tilgung von Eintragungen](0153.md)
 - [§ 153a Mitteilungen zum Gewerbezentralregister](0153a.md)
-- [§ 153b Verwaltungsvorschriften](0153b.md)
+- [§ 153b Identifizierungsverfahren](0153b.md)
+- [§ 153c Verwaltungsvorschriften](0153c.md)
 
 ### - Schlußbestimmungen
 
