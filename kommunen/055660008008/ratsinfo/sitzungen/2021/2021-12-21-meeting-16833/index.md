@@ -1,0 +1,80 @@
+# Rat (136. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2021-12-21T17:00:00+01:00
+- Ende: 2021-12-21T19:02:00+01:00
+- Ort: Stroetmanns Fabrik, Friedrichstr. 2, 48282 Emsdetten, Bürgersaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaLczAe_kJQgHTkaZqz6ZxM
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16833
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRrFEZB4ECRmVmPEp27aIuUSRYzQSRxskl9f3kztPCHI/Bekanntmachung_Rat_21.12.2021.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS20JZHsjl9NuBr9kv5KMGxk9dLX5YCaQKrANiT60FeM/Oeffentliche_Niederschrift_Rat_21.12.2021.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 07.10.2021
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Schulangelegenheiten
+- TOP 4.1: Bildung der Grundschuleingangsklassen im Schuljahr 2022/2023 - 38 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NRW des Bürgermeisters Oliver Kellner und des Ratsmitgliedes Daniel Hellwig vom 03.11.2021 zur Beschlussfassung der Entwurfsplanung und zur Stellung des Zuschussantrages zur Erweiterung des August-Holländer-Museums zu einem Ort der erlebbaren Geschichte für Jung und Alt - Einstimmig
+- TOP 6.: Genehmigung von zwei Dringlichkeitsentscheidung gem. § 60 GO Überplanmäßige Bereitstellung von Haushaltsmitteln für den Betrieb des Testzentrums an der Schulstr. - Einstimmig
+- TOP 7.: Umbesetzung von Gremien - Einstimmig
+- TOP 8.: CDU-Fraktion: Änderung der Stellvertretungsregelung in Gremien des Rates der Stadt Emsdetten - Einstimmig
+- TOP 9.: Finanzangelegenheiten
+- TOP 9.1: Feststellung des Jahresabschlusses 2020, Entlastung des Bürgermeisters - Einstimmig
+- TOP 9.2: Feststellung des Gesamtabschlusses 2018, Entlastung des Bürgermeisters - Einstimmig
+- TOP 9.3: Beteiligungsbericht 2020 - Einstimmig
+- TOP 9.4: Kenntnisnahme zur Förderantragstellung im "Dritten Aufruf zum Sofortprogramm zur Stärkung unserer Innenstädte und Zentren in Nordrhein-Westfalen 2021" - Zur Kenntnis genommen
+- TOP 9.5: Richtlinie für Kapitalanlagen – Vorbereitung eines Entwurfs - Einstimmig
+- TOP 9.6: Bewerbung als "LEADER-Region Steinfurter Land" - Einstimmig
+- TOP 10.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2022 - 39 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.: Vorzeitige Ausschüttung vom Jahresüberschuss 2021 des Abwasserwerkes - Einstimmig
+- TOP 12.: Stadtwerke Emsdetten GmbH
+- TOP 12.1: Vertreter in der Gesellschafterversammlung der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 13.: Satzungsrecht
+- TOP 13.1: XV. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - Ohne Abstimmung
+- TOP 13.1.1: XV. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - 39 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: X. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 15.: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2022 - Einstimmig
+- TOP 16.: Anpassung der Entwässerungssatzung an die Mustersatzung des Landes NRW im Zuge Änderungen des Landeswassergesetzes und der Selbstüberwachungsverordnung 2021 - Einstimmig
+- TOP 17.: Änderung der Hundesteuersatzung vom 12.02.2010 der Stadt Emsdetten - 29 Ja-Stimme(n), 11 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 18.: Graue-Flecken-Förderung - Einstimmig
+- TOP 19.: Richtlinien
+- TOP 19.1: proKLIMA - Förderprogramm Klimaschutz- und Klimaanpassungsmaßnahmen - 39 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 20.: Neufassung der Richtlinien der Stadt Emsdetten zur Förderung von Städtepartnerschaftsaktivitäten - Einstimmig
+- TOP 21.: Bewerbung für das Projekt „170 Nationen – 170 inklusive Kommunen“ / Host Town Program für die Special Olympics 2023 - Einstimmig
+- TOP 22.: Beitritt zum Zweckverband Kommunale ADV-Anwendergemeinschaft West (KAAW) - Einstimmig
+- TOP 23.: Kunstfiguren im Stadtgebiet von Emsdetten - Ohne Abstimmung
+- TOP 23.1: Kunstfiguren im Stadtgebiet von Emsdetten - 24 Ja-Stimme(n), 16 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 24.: Erweiterung August-Holländer-Museum – Beschluss Entwurfsplanung, sowie Stellung des Zuschussantrages - Einstimmig
+- TOP 25.: Sanierung und Erweiterung Stroetmanns Fabrik - Entwurfsplanung - 39 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 26.: Sanierung und Erweiterung der EMS-HALLE Grundsätzliche Inhalte zum Entwurfsprogramm - Einstimmig
+- TOP 27.: Raumprogramm für die Erweiterung der Feuer- und Rettungswache - Einstimmig
+- TOP 28.: Neubau Baubetriebshof - Anpassung an die Kostenentwicklung sowie des Bauprogramms - Einstimmig
+- TOP 29.: Bebauungspläne
+- TOP 29.1: Bebauungsplan Nr. 37 "Josefskirche", 5. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 29.2: Bebauungsplan Nr. 85 A "Silberweg West" - Satzungsbeschluss - Einstimmig
+- TOP 30.: Allgemeine Stadtentwicklungsplanung
+- TOP 30.1: Antrag auf Erstellung eines Konzeptes für neue Winterbeleuchtung - 39 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 30.2: Neuaufstellung Freiflächenentwicklungskonzept - Einstimmig
+- TOP 30.3: Antrag der Fraktionen von CDU, SPD und UWE sowie der FDP Emsdetten und der EEM vom 31.05.2021: - Strategie zur Entwicklung neuer Wohnbauflächen - Strategie zur Optimierung alter Bebauungspläne hinsichtlich der Umsetzung moderner zeitgemäßer Wohnkonzepte - Einstimmig
+- TOP 30.4: Rahmenplanung zum Entwicklungskonzept Stadtgebiet WEST - Teilfläche A - Einstimmig
+- TOP 31.: Allgemeine Umweltangelegenheiten
+- TOP 31.1: Einführung eines „Zuschusses für Stoffwindeln“ zur Unterstützung junger Familien: Antrag der Fraktion „Bündnis 90/ Die Grünen“ vom 31.08.2021 - 15 Ja-Stimme(n), 25 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 32.: Sportangelegenheiten
+- TOP 32.1: Bürgerantrag "Corona-Schnelltestung in Sportvereinen" - Einstimmig
+- TOP 33.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 33.1: Namensgebung 3. städtisches Kinderhaus - 38 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 33.2: Planung eines komplett inklusiven Spielplatzes in der Stadt Emsdetten - Ohne Abstimmung
+- TOP 33.2.1: Planung eines komplett inklusiven Spielplatzes in der Stadt Emsdetten - Einstimmig
+- TOP 33.3: Ausbau der spezialisierten Beratung bei sexualisierter Gewalt gegen Kinder und Jugendliche in NRW - Einstimmig
+- TOP 34.: Veränderung der Öffnungszeiten der Stadtbibliothek zum 01.01.2022 - Einstimmig
+- TOP 35.: Stellenplan
+- TOP 35.1: Stellenplan 2022 - 39 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 36.: Etat / Budget
+- TOP 36.1: Haushaltssatzung und Haushaltsplan 2022 - Einstimmig
+- TOP 37.: Verschiedenes
