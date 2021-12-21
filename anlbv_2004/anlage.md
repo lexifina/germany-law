@@ -115,7 +115,7 @@
   c) voraussichtliche Ankunftszeit;
   d) voraussichtliche Zeit des Wiederauslaufens;
   e) Gesamtzahl der an Bord befindlichen Personen.
-4 Meldungen nach der Richtlinie 2000/59/EG des Europäischen Parlaments und des Rates vom 27. November 2000 über Hafenauffangeinrichtungen für Schiffsabfälle und Ladungsrückstände (ABl. L 332 vom 28.12.2000, S. 81), die durch die Richtlinie (EU) 2015/2087 (ABl. L 302 vom 19.11.2015, S. 99) geändert worden ist, in der jeweils geltenden Fassung
+4 (weggefallen)
 4.1 Meldeverpflichtung
   Der Schiffsführer eines Schiffes, das nicht die Flagge eines Mitgliedstaats der Europäischen Union führt und einen deutschen Hafen anlaufen möchte, hat die im Anhang II der Richtlinie 2000/59/EG vorgesehenen Angaben auf dem vorgeschriebenen und vom Bundesministerium für Verkehr und digitale Infrastruktur bekannt gemachten Formular (VkBl. 2016 S. 392) wahrheitsgetreu zu melden und die Meldung
   a) mindestens 24 Stunden vor der Ankunft, sofern der Anlaufhafen bekannt ist, oder

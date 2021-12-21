@@ -484,7 +484,7 @@ I.14 Zu Kapitel XIV der Anlage zu SOLAS (Sicherheitsmaßnahmen für Schiffe, die
   Die sicherheitsbezogenen Regelungen der Einleitung sowie Teil I-A und II-A des Internationalen Codes für Schiffe, die in Polargewässern verkehren (Polar Code) (Entschließung MSC.385(94))
   Angenommen am 21. November 2014
   (VkBl. 2015 S. 843, Sonderband C 8146)
-II. Internationales Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und Protokoll von 1978 zu diesem Übereinkommen (MARPOL) mit Anlagen I, II, III, IV und V sowie Anlage zum Protokoll von 1978
+II. Internationales Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe sowie Protokoll von 1978 und Protokoll von 1997 zu diesem Übereinkommen (MARPOL) mit Anlagen I, II, III, IV, V und VI (BGBl. 1982 II S. 2)
   (BGBl. 1982 II S. 2)
   - Bekanntmachung der Neufassung der amtlichen deutschen Übersetzung des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu diesem Übereinkommen vom 12. März 1996
     (BGBl. 1996 II S. 399)
@@ -574,15 +574,54 @@ II.0.27 Änderungen vom April 2014
   MEPC.246(66), MEPC.247(66), MEPC.248(66) und MEPC.251(66), korrigiert durch MEPC 66/21/Corr.1)
   Angenommen am 4. April 2014
   (BGBl. 2018 II S. 737)
+II.0.28 Änderungen vom Oktober 2014
+  (Entschließungen MEPC.256(67),
+  MEPC.257(67) und MEPC.258(67))
+  Angenommen am 17. Oktober 2014
+  (BGBl. 2020 II S. 1210)
+II.0.29 Änderungen vom Mai 2015
+  (Entschließungen MEPC.265(68),
+  MEPC.266(68))
+  Angenommen am 15. Mai 2015
+  (BGBl. 2020 II S. 1210)
+II.0.30 Änderungen vom April 2016
+  (Entschließungen MEPC.270(69),
+  MEPC.271(69) und MEPC.274(69))
+  Angenommen am 22. April 2016
+  (BGBl. 2020 II S. 1210)
+II.0.31 Änderungen vom Oktober 2016
+  (Entschließungen MEPC.276(70),
+  MEPC.277(70) und MEPC.278(70))
+  Angenommen am 28. Oktober 2016
+  (BGBl. 2020 II S. 1210)
+II.0.32 Änderungen vom Juli 2017
+  (Entschließung MEPC.286(71))
+  Angenommen am 7. Juli 2017
+  (BGBl. 2020 II S. 1210)
+II.0.33 Änderungen vom April 2018
+  (Entschließung MEPC.301(72))
+  Angenommen am 13. April 2018
+  (BGBl. 2021 II S. 90)
+II.0.34 Änderungen vom Oktober 2018
+  (Entschließung MEPC.305(73))
+  Angenommen am 26. Oktober 2018
+  (BGBl. 2021 II S. 90)
+II.0.35 Änderungen vom Mai 2019
+  (Entschließungen MEPC.314(74),
+  MEPC.315(74), MEPC.316(74))
+  Angenommen am 17. Mai 2019
+  (BGBl. 2021 II S. 90)
 II.1 Zu Anlage I:
+  Zu Regel 1:
+  Festlegung des Datums, an dem die Änderungen von Regel 1 Absatz 11 der Anlage I von MARPOL hinsichtlich des Sondergebiets der Gewässer vor der Südküste Südafrikas in Kraft treten (Entschließung MEPC.167(56))
+  Angenommen am 13. Juli 2007
+  (VkBl. 2020 S. 852)
   Zu Regel 6 Absatz 3.1 Satz 3:
   Code für anerkannte Organisationen (RO-Code) (Entschließung MEPC.237(65))
   Angenommen am 17. Mai 2013
   (VkBl. 2014 S. 942, Sonderband C 8012)
   Zu Regel 19:
-  Überarbeitete Interimsrichtlinie für die Genehmigung von Ersatz-Methoden für Konstruktion und Bau von Öltankschiffen gemäß Anlage I Regel 19 Absatz 5 zu MARPOL 73/78 (Entschließung MEPC.110(49))
-  Angenommen am 18. Juli 2003
-  (VkBl. 2005 S. 113)
+  (weggefallen)
   Zu Regel 20 Abs. 6:
   Zustandsbewertungsschema (Entschließung MEPC.94(46))
   Angenommen am 27. April 2001
@@ -597,13 +636,13 @@ II.1 Zu Anlage I:
   Neufassung der Richtlinien und Spezifikationen für Überwachungs- und Kontrollsysteme für das Einleiten von Öl für Öltankschiffe (Entschließung MEPC.108(49))
   Angenommen am 18. Juli 2003
   (VkBl. 2004 S. 672)
-  Änderungen von 2013 an der Neufassung der Richtlinien und Spezifikationen für Überwachungs- und Kontrollsysteme für das Einleiten von Öl für Öltankschiffe (Entschließung MEPC.108(49))
+  Änderungen von 2013 an der Neufassung der Richtlinien und Spezifikationen für Überwachungs- und Kontrollsysteme für das Einleiten von Öl für Öltankschiffe (Entschließung MEPC.108(49) und MEPC.240(65))
   Angenommen am 17. Mai 2013
   (VkBl. 2018 S. 817)
-  Zu Regel 39:
-  Richtlinien für die Anwendung der Anforderungen der überarbeiteten Anlage I von MARPOL auf schwimmende Produktions-, Lager- und Verladeeinrichtungen (FPSOs) und schwimmende Lagereinheiten (FSUs), angenommen am 22. Juli 2005
-  (VkBl. 2006 S. 823)
-  - geändert durch Entschließung MEPC.142(54), angenommen am 24. März 2006 (VkBl. 2007 S. 706)
+  Zu Regel 47 Absatz 2:
+  Die auf die Umweltaspekte gerichteten Bestimmungen der Einleitung und von Teil II-A Kapitel 1 des Internationalen Codes für Schiffe, die in Polargewässern verkehren (Polar Code) (Entschließung MEPC.264(68))
+  Angenommen am 15. Mai 2015
+  (VkBl. 2015 S. 843, Sonderband C 8146)
 II.2 Zu Anlage II:
   Zu Regel 8 Absatz 2.2:
   Code für anerkannte Organisationen (RO-Code) (MEPC.237(65))
@@ -646,6 +685,10 @@ II.2 Zu Anlage II:
   - Änderung von 2018 (MEPC.303(72))
     Angenommen am 13. April 2018
     (VkBl. 2019 S. 251)
+  - Änderung von 2019
+    (Entschließung MEPC.319(74))
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 484)
   Internationaler Code für den Bau und die Ausrüstung von Schiffen zur Beförderung gefährlicher Chemikalien als Massengut (IBC-Code) (MSC.4(48))
   Angenommen am 17. Juni 1983
   (BAnz. Nr. 125a vom 12. Juli 1986)
@@ -687,12 +730,31 @@ II.2 Zu Anlage II:
   - Änderung von 2018 (MEPC.302(72))
     Angenommen am 13. April 2018
     (VkBl. 2019 S. 248)
+  - Änderung von 2019
+    (Entschließung MEPC.318(74))
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 807)
+  Zu Regel 22 Absatz 2:
+  Die auf die Umweltaspekte gerichteten Bestimmungen der Einleitung sowie Teil II-A Kapitel 2 des Internationalen Codes für Schiffe, die in Polargewässern verkehren (Polar Code)
+  (Entschließung MEPC.264(68))
+  Angenommen am 15. Mai 2015
+  (VkBl. 2015 S. 843, Sonderband C 8146)
 II.3 Zu Anlage IV:
   Zu Regel 11 Absatz 3:
   Festlegung des Datums, an dem Regel 11.3 von Anlage IV MARPOL hinsichtlich des Ostseesondergebiets wirksam wird (MEPC.275(69))
   Angenommen am 22. April 2016
   (VkBl. 2018 S. 237)
-II.4 Zu Anlage VI:
+  Zu Regel 18 Absatz 2:
+  Die auf die Umweltaspekte gerichteten Bestimmungen der Einleitung und von Teil II-A Kapitel 4 des Internationalen Codes für Schiffe, die in Polargewässern verkehren (Polar Code) (Entschließung MEPC.264(68))
+  Angenommen am 15. Mai 2015
+  (VkBl. 2015 S. 843, Sonderband C 8146)
+II.4 Zu Anlage V:
+  Zu Regel 14 Absatz 2:
+  Die auf die Umweltaspekte gerichteten Bestimmungen der Einleitung und von Teil II-A Kapitel 5 des Internationalen Codes für Schiffe, die in Polargewässern verkehren (Polar Code)
+  (Entschließung MEPC.264(68))
+  Angenommen am 15. Mai 2015
+  (VkBl. 2015 S. 843, Sonderband C 8146)
+II.5 Zu Anlage VI:
   Zu Regel 13:
   Technische Vorschrift über die Kontrolle der Stickstoffoxid-Emissionen aus Schiffsdieselmotoren (Entschließung Nummer 2 der Konferenz der Vertragsparteien vom 26. September 1997) und MEPC/Rundschreiben 369 vom 31. März 2000
   (VkBl. 2003 S. 142)
@@ -701,6 +763,10 @@ II.4 Zu Anlage VI:
   - geändert durch Entschließung MEPC.272(69)
     Angenommen am 22. April 2016
     (VkBl. 2018 S. 189)
+  - geändert durch
+    Entschließung MEPC.317(74)
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 854)
   Zu Regel 14 Absatz 1.3:
   Wirksamwerden der Umsetzung der Norm für ölhaltige Brennstoffe in Regel 14.1.3 der Anlage VI MARPOL (MEPC.280(70))
   Angenommen am 28. Oktober 2016
@@ -792,6 +858,26 @@ VIII. Internationales Übereinkommen von 2001 über die Beschränkung des Einsat
   (BGBl. 2008 II S. 520)
 IX. Internationales Übereinkommen von 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen (Ballastwasser-Übereinkommen) vom 13. Februar 2004
   (BGBl. 2013 II S. 42, 44; 2017 II S. 1239)
+IX.0.1 Änderungen vom April 2018
+  (Entschließungen MEPC.296(72),
+  MEPC.297(72) und MEPC.299(72))
+  Angenommen am 13. April 2018
+  (BGBl. 2020 II S. 401)
+IX.1 Zur Anlage:
+  Zu Regel B-3:
+  Bestimmung der Besichtigung, auf die in Regel B-3 des Ballastwasser-Übereinkommens, in ihrer jeweils gültigen Fassung, verwiesen wird
+  (Entschließung MEPC.298(72))
+  Angenommen am 13. April 2018
+  (VkBl. 2019 S. 558)
+  Zu Regel B-4.2:
+  Internationales Übereinkommen von 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen – Mitteilung erhalten von der Regierung der Niederlande (BWM.2/Rundschreiben 56)
+  Vom 13. Juli 2015
+  (VkBl. 2018 S. 297)
+  Zu Regel D-3.1:
+  Code für die Zulassung von Ballastwasser-Behandlungssystemen (BWMS Code)
+  (Entschließung MEPC.300(72))
+  Angenommen am 13. April 2018
+  (VkBl. 2019 S. 389)
 B. Für die jeweiligen Vertragsstaaten anwendbare weitere Regeln in multilateralen völkerrechtlichen Vereinbarungen:
 I. Artikel 10 Abs. 1 und 3 des Internationalen Übereinkommens von 1989 über Bergung
   (BGBl. 2001 II S. 510, BGBl. 2002 I S. 1944)
@@ -972,9 +1058,10 @@ I.9 Zu Kapitel XIV:
   Angenommen am 21. November 2014
   (VkBl. 2015 S. 843, Sonderband C 8146)
 II. Zu MARPOL:
-II.0 Bezogen auf Hafenauffanganlagen
-  Leitfaden zu bewährten Verfahrensweisen für Betreiber und Nutzer von Hafenauffanganlagen (MEPC.1/Rundschreiben 671 vom 20. Juli 2009)
-  (VkBl. 2010 S. 532)
+II.0 Zu Hafenauffanganlagen:
+  Konsolidierte Leitlinie für Betreiber und Nutzer von Hafenauffanganlagen (Rundschreiben MEPC.1/Circ.834/Rev.1)
+  Vom 1. März 2018
+  (VkBl. 2021 S. 134)
 II.1 Zu Anlage I:
   - Zu Regel 14 Abs. 7:
     Neufassung der Richtlinien und Spezifikationen für Ausrüstung zur Verhütung der Meeresverschmutzung für Maschinenraumbilgen von Schiffen (MEPC.107(49))
@@ -984,6 +1071,15 @@ II.1 Zu Anlage I:
       MEPC.285(70)
       Angenommen am 28. Oktober 2016
       (VkBl. 2018 S. 310)
+    Zu Regel 17 Absatz 1 und Regel 36 Absatz 1:
+    Richtlinie für die Verwendung elektronischer Tagebücher von MARPOL (Entschließung MEPC.312(74))
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 707)
+    Zu Regel 19 Absatz 5:
+    Überarbeitete Interimsrichtlinie für die Genehmigung von Ersatz-Methoden für Konstruktion und Bau von Öltankschiffen gemäß Anlage I Regel 19 Absatz 5 zu MARPOL 73/78
+    (Entschließung MEPC.110(49), korrigiert durch MEPC 49/22/Add.2/Corr.1)
+    Angenommen am 18. Juli 2003
+    (VkBl. 2005 S. 113; 2006 S. 480)
   - Zu Regel 33 Abs. 2:
     Neu gefasste Anforderungen an den Entwurf, den Betrieb und die Überwachung von Systemen für Tankwaschen mit Rohöl (Entschließung A.446(XI) in der mit Entschließung A.497(XII) geänderten Fassung, geändert durch Entschließung A.897(21))
     Angenommen am 15. November 1979, 19. November 1981 und 25. November 1999
@@ -1001,6 +1097,24 @@ II.1 Zu Anlage I:
       - Änderung von 2005 (MEPC.137(53))
         Angenommen am 22. Juli 2005
         (VkBl. 2009 S. 393)
+      Allgemeine Grundsätze für Schiffsmeldesysteme und Schiffsmeldeerfordernisse einschließlich Richtlinien für die Meldung von Ereignissen mit gefährlichen Gütern, Schadstoffen und/oder Meeresschadstoffen
+      (Entschließung A.851(20))
+      Angenommen am 27. November 1997
+      (VkBl. 1998 S. 892, Anlagenband B 8119)
+      - geändert durch
+        Entschließung MEPC.138(53)
+        angenommen am 22. Juli 2005
+        (VkBl. 2006 S. 821)
+    Zu Regel 39 Absatz 3:
+    Richtlinien von 2018 für die Anwendung der Anforderungen der Anlage I von MARPOL auf schwimmende Produktions-, Lager- und Verladeeinrichtungen (FPSOs) und schwimmende Lagereinheiten (FSUs)
+    (Entschließung MEPC.311(73))
+    Angenommen am 26. Oktober 2018
+    (VkBl. 2021 S. 175)
+    Zu Regel 47 Absatz 3:
+    Teil II-B des Internationalen Codes für Schiffe, die in Polargewässern verkehren (Polar Code)
+    (Entschließung MEPC.264(68))
+    Angenommen am 15. Mai 2015
+    (VkBl. 2015 S. 843, Sonderband C 8146)
 II.2 Zu Anlage II:
   - Zu Regel 5 Abs. 2 und 3, Regel 5A Abs. 5 und Regel 8 Abs. 1, 5 bis 7 (in der am 31. Dezember 2006 geltenden Fassung):
     Standards für Verfahren und Vorkehrungen für das Einleiten schädlicher Flüssigstoffe (MEPC.18(22))
@@ -1012,9 +1126,22 @@ II.2 Zu Anlage II:
     Überarbeitete Richtlinien für die Beförderung von Pflanzenölen in Tieftanks oder in unabhängigen Tanks, die für die Beförderung solcher Pflanzenöle besonders ausgelegt sind, auf Trockenfrachtschiffen (MEPC.148(54))
     Angenommen am 24. März 2006
     (VkBl. 2006 S. 870)
+  - Zu Regel 15 Absatz 1:
+    Richtlinien für die Verwendung elektronischer Tagebücher von MARPOL (Entschließung MEPC.312(74))
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 707)
   - Zu Regel 17: (– siehe oben Nr. II.1 Buchstabe c –)
+  - Zu Regel 22 Absatz 3:
+    Teil II-B des Internationalen Codes für Schiffe, die in Polargewässern verkehren (Polar Code)
+    (Entschließung MEPC.264(68))
+    Angenommen am 15. Mai 2015
+    (VkBl. 2015 S. 843, Sonderband C 8146)
 II.3 Zu Anlage IV:
   Zu Regel 9:
+  Empfehlung zu internationalen Ausflussnormen und Richtlinien für die Prüfung von Abwasser-Aufbereitungsanlagen
+  (Entschließung MEPC.2(VI))
+  Angenommen am 3. Dezember 1976
+  (VkBl. 2021 S. 149)
   Revidierte Richtlinien für die Anwendung von Ausflussnormen und die Prüfung von Abwasser-Aufbereitungsanlagen (Entschließung MEPC.159(55))
   Angenommen am 13. Oktober 2006
   (VkBl. 2010 S. 166)
@@ -1041,6 +1168,14 @@ II.4 Zu Anlage V:
     Richtlinien von 2012 für die Ausarbeitung von Müllbehandlungsplänen (MEPC.220(63))
     Angenommen am 2. März 2012
     (VkBl. 2012 S. 838)
+    Richtlinien für die Verwendung elektronischer Tagebücher von MARPOL (Entschließung MEPC.312(74))
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 707)
+  - Zu Regel 14 Absatz 3:
+    Teil II-B des Internationalen Codes für Schiffe, die in Polargewässern verkehren (Polar Code)
+    (Entschließung MEPC.264(68))
+    Angenommen am 15. Mai 2015
+    (VkBl. 2015 S. 843, Sonderband C 8146)
 II.5 Zu Anlage VI:
   Richtlinien für Abgasreinigungssysteme 2015 (Entschließung MEPC.259(68), korrigiert durch MEPC.68/21/Add.1/Corr.2)
   Angenommen am 15. Mai 2015
@@ -1052,6 +1187,18 @@ II.5 Zu Anlage VI:
   - Änderung von 2015 (MEPC.261(68))
     Angenommen am 15. Mai 2015
     (VkBl. 2018 S. 520)
+  - Änderung von 2018
+    (Entschließung MEPC.309(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
+    Angenommen am 26. Oktober 2018
+    (VkBl. 2020 S. 690)
+    Musterbeispiel für eine Übereinstimmungsbestätigung
+    Übereinstimmungsbestätigung – Teil II des SEEMP (MEPC.1/Rundschreiben 876)
+    Vom 16. April 2018
+    (VkBl. 2019 S. 633)
+  Zu Regel 12 Absatz 6, Regel 13 Absatz 5.3 und Regel 14 Absatz 6:
+  Richtlinien für die Verwendung elektronischer Tagebücher von MARPOL (Entschließung MEPC.312(74))
+  Angenommen am 17. Mai 2019
+  (VkBl. 2020 S. 707)
   Zu Regel 13 Absatz 2.2:
   Richtlinien von 2013 nach Anlage VI Regel 13.2.2 von MARPOL bezüglich nicht vollständig baugleicher Austauschmotoren, die den Grenzwert der Stufe III nicht einhalten müssen (Entschließung MEPC.230(65))
   Angenommen am 17. Mai 2013
@@ -1067,6 +1214,11 @@ II.5 Zu Anlage VI:
   Normspezifikation für bordseitige Verbrennungsanlagen von 2014 (Entschließung MEPC.244(66))
   Angenommen am 4. April 2014
   (VkBl. 2015 S. 335)
+  Zu Regel 18 Absatz 2:
+  Abschnitt 5 in Verbindung mit Anhang 1 der Richtlinien von 2019 für die konsequente und einheitliche Umsetzung des Schwefelgrenzwertes von 0,50 % nach Anlage VI von MARPOL
+  (Entschließung MEPC.320(74), korrigiert durch MEPC 74/18/Add.1/Corr.1)
+  Angenommen am 17. Mai 2019
+  (VkBl. 2021 S. 424)
   Zu Regel 20 Absatz 2:
   Richtlinien von 2012 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.212(63))
   Angenommen am 2. März 2012
@@ -1084,11 +1236,32 @@ II.5 Zu Anlage VI:
   - Änderungen der Richtlinien von 2014 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.245(66), in der mit Entschließung MEPC.263(68) geänderten Fassung) (Entschließung MEPC.281(70), korrigiert durch MEPC.70/18/Corr. 1)
     Angenommen am 28. Oktober 2016
     (VkBl. 2018 S. 792)
+  Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+  (Entschließung MEPC.308(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
+  Angenommen am 26. Oktober 2018
+  (VkBl. 2020 S. 663; 2021 S. 186)
+  – Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.308(73) und (MEPC.322(74))
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 692)
+  Vorläufige Richtlinie für die Berechnung des Koeffizienten für die Abnahme der Schiffsgeschwindigkeit bei repräsentativen Seebedingungen fw zur versuchsweisen Anwendung
+  (MEPC.1/Rundschreiben 796)
+  Vom 12. Oktober 2012
+  (VkBl. 2021 S. 114)
+  Anleitung von 2013 zur Behandlung innovativer Energieeffizienztechnologien bei der Berechnung und Überprüfung des erreichten EEDI
+  (MEPC.1/Rundschreiben 815)
+  Vom 17. Juni 2013
+  (VkBl. 2021 S. 125)
   Zu Regel 21:
-  a) Richtlinien von 2013 für die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI) (Entschließung MEPC.231(65))
+  a) Richtlinien über die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI)
+    (Entschließung MEPC.215(63), korrigiert durch MEPC 63/23/Add.1/Corr.1)
+    Angenommen am 2. März 2012
+    (VkBl. 2013 S. 325; 2020 S. 853)
+  b) Richtlinien von 2013 für die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI) (Entschließung MEPC.231(65))
     Angenommen am 17. Mai 2013
     (VkBl. 2018 S. 889)
-  b) Richtlinien von 2013 für die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI) von für Kreuzfahrten eingesetzten Fahrgastschiffen mit nicht-konventionellen Antriebssystemen (Entschließung MEPC.233(65))
+  c) Richtlinien von 2013 für die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI) von für Kreuzfahrten eingesetzten Fahrgastschiffen mit nicht-konventionellen Antriebssystemen
+    (Entschließung MEPC.233(65))
     Angenommen am 17. Mai 2013
     (VkBl. 2015 S. 182)
   Zu Regel 21 Absatz 5:
@@ -1103,15 +1276,32 @@ II.5 Zu Anlage VI:
     Angenommen am 15. Mai 2015
     (VkBl. 2018 S. 199)
   Zu Regel 22:
-  Richtlinien von 2012 für die Erstellung eines Schiffsenergieeffizienz-Managementplans (SEEMP) (MEPC.213(63))
-  Angenommen am 2. März 2012
-  (VkBl. 2012 S. 676)
-II.6 Zu Protokoll I:
-  Allgemeine Grundsätze für Schiffsmeldesysteme und Schiffsmeldeerfordernisse einschließlich Richtlinien für die Meldung von Ereignissen mit gefährlichen Gütern, Schadstoffen und/oder Meeresschadstoffen (Entschließung A.851(20))
-  Angenommen am 27. November 1997
-  (VkBl. 1998 S. 892, Anlagenband B 8119)
-  - geändert durch Entschließung MEPC.138 (53), angenommen am 22. Juli 2005
-    (VkBl. 2006 S. 821)
+  Richtlinien von 2016 für die Erstellung eines Schiffsenergieeffizienz-Managementplans (SEEMP)
+  (Entschließung MEPC.282(70), korrigiert durch MEPC 70/18/Add.1/Corr.1)
+  Angenommen am 28. Oktober 2016
+  (VkBl. 2018 S. 896)
+II.6 Zur technischen NOx-Vorschrift:
+  Zu Kapitel 2 Nummer 2.2.5:
+  Richtlinien von 2011 über zusätzliche Aspekte der Technischen NOx-Vorschrift 2008 in Bezug auf besondere Anforderungen an Schiffsdieselmotoren mit Systemen zur selektiven katalytischen Reduktion (SCR)
+  (Entschließung MEPC.198(62))
+  Angenommen am 15. Juli 2011
+  (VkBl. 2012 S. 1009)
+  - Änderung von 2015
+    (MEPC.260(68))
+    Angenommen am 15. Mai 2015
+    (VkBl. 2018 S. 236)
+  Richtlinien von 2017 über zusätzliche Aspekte der Technischen NOx-Vorschrift 2008 in Bezug auf besondere Anforderungen an Schiffsdieselmotoren mit Systemen zur selektiven katalytischen Reduktion (SCR)
+  (Entschließung MEPC.291(71))
+  Angenommen am 7. Juli 2017
+  (VkBl. 2019 S. 681)
+  - Änderung von 2019
+    (Entschließung MEPC.313(74), korrigiert durch MEPC 74/18/Add.1/Corr.2)
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 482, 484, 605)
+  Zu Kapitel 6 Nummer 6.2.2.7:
+  Richtlinien für die Verwendung elektronischer Tagebücher von MARPOL (Entschließung MEPC.312(74))
+  Angenommen am 17. Mai 2019
+  (VkBl. 2020 S. 707)
 III. Zum Internationalen Freibord-Übereinkommen von 1966 mit Anlage und Protokoll von 1988:
   Zu Regel 1:
   Präambel und Teil B des Internationalen Codes über Intaktstabilität aller Schiffstypen von 2008 (IS-Code 2008) (MSC.267(85))
@@ -1150,6 +1340,11 @@ VI.1 Zu Artikel 9 Absatz 1 Buchstabe c:
   Angenommen am 10. Oktober 2008
   (VkBl. 2011 S. 477)
 VI.2 Zur Anlage:
+  Zu Regel A-4.1.4:
+  Richtlinien von 2017 für die Risikobewertung nach Regel A-4 des Ballastwasser-Übereinkommens (G7)
+  (Entschließung MEPC.289(71))
+  Angenommen am 7. Juli 2017
+  (VkBl. 2019 S. 425)
   Zu Regel A-5:
   Richtlinien für die Ballastwasser-Behandlung –
   Gleichwertige Einhaltung (G3) (MEPC.123(53))
@@ -1158,7 +1353,7 @@ VI.2 Zur Anlage:
   Zu Regel B-1:
   Richtlinien für die Ballastwasser-Behandlung und die Erstellung von Ballastwasser-Behandlungsplänen (G4) (MEPC.127(53))
   Angenommen am 22. Juli 2005
-  (VkBl. 2010 S. 180)
+  (VkBl. 2010 S. 188)
   Zu Regel B–4.2:
   Richtlinien für den Ballastwasser-Austausch von 2017 (G6) (MEPC.288(71))
   Angenommen am 7. Juli 2017
@@ -1169,9 +1364,22 @@ VI.2 Zur Anlage:
   (VkBl. 2011 S. 271)
   Zu Regel D–3.1:
   Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen (G8)
-  (MEPC.125(53))
+  MEPC.125(53), korrigiert durch MEPC 53/24/Add.1/Corr.1)
   Angenommen am 22. Juli 2005
-  (VkBl. 2005 S. 767)
+  (VkBl. 2021 S. 152)
+  Zu Regel D-3.2:
+  Verfahren für die Zulassung von Ballastwasser-Behandlungssystemen, die aktive Substanzen verwenden (G9)
+  (Entschließung MEPC.126(53), korrigiert durch MEPC 53/24/Add.1/Corr.1)
+  Angenommen am 22. Juli 2005
+  (VkBl. 2021 S. 166)
+  Verfahren für die Zulassung von Ballastwasser-Behandlungssystemen, die aktive Substanzen verwenden (G9)
+  (Entschließung MEPC.169(57))
+  Angenommen am 4. April 2008
+  (VkBl. 2012 S. 616)
+  Zu Regel D-4:
+  Richtlinien für die Zulassung und Beaufsichtigung von Prototypen von Ballastwasser-Aufbereitungstechnologieprogrammen (G10) (Entschließung MEPC.140(54))
+  Angenommen am 24. März 2006
+  (VkBl. 2011 S. 555)
   Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen (G8)
   (MEPC.174(58))
   Angenommen am 10. Oktober 2008
@@ -1193,25 +1401,24 @@ D. Rechtsakte der Europäischen Gemeinschaften und der Europäischen Union:
   5. Bezogen auf die Inbetriebnahme von Sportbooten und Wassermotorrädern:
     Artikel 4, Artikel 6 in Verbindung mit Artikel 2 und 16 und den Anhängen II und III der Richtlinie 2013/53/EU des Europäischen Parlaments und des Rates vom 20. November 2013 über Sportboote und Wassermotorräder und zur Aufhebung der Richtlinie 94/25/EG (ABl. L 354 vom 28.12.2013, S. 90), die zuletzt durch die Berichtigung der Richtlinie 2013/53/EU (ABl. L 297 vom 13.11.2015, S. 9) geändert worden ist
   6. Bezogen auf die Überwachung nach § 1 Nummer 6 des Seeaufgabengesetzes sowie auf die Regelungen über den Wachdienst nach Abschnitt A Nummer VI und VI.1 dieser Anlage:
-    Artikel 3, 5 Absatz 10, Artikel 11 Absatz 2 und 3, Artikel 12 Absatz 1, 2 und 2a, Artikel 13 bis 16, 18, 19 und 22 bis 24 der Richtlinie 2008/106/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Mindestanforderungen für die Ausbildung von Seeleuten (Neufassung) (ABl. L 323 vom 3.12.2008, S. 33), geändert durch Artikel 1 der Richtlinie 2012/35/EU (ABl. L 343 vom 14.12.2012, S. 78)
+    Artikel 3, 5 Absatz 10, Artikel 11 Absatz 2 und 3, Artikel 12 Absatz 1, 2, 2a und 2b, Artikel 13 bis 16, 18, 19 und 22 bis 24 der Richtlinie 2008/106/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Mindestanforderungen für die Ausbildung von Seeleuten (Neufassung) (ABl. L 323 vom 3.12.2008, S. 33), zuletzt geändert durch Artikel 1 der Richtlinie 2019/1159/EU (ABl. L 188 vom 12.7.2019, S. 94)
   7. Artikel 3, 4 Absatz 1 Satz 1 und 2, Absatz 2 Satz 1, Artikel 5, 6 Absatz 2, Artikel 8 bis 11 und 14 in Verbindung mit den Anhängen I und II sowie Artikel 1 und 2 der Richtlinie 2009/15/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen und die einschlägigen Maßnahmen der Seebehörden (ABl. L 131 vom 28.05.2009, S. 47), zuletzt geändert durch Artikel 1 der Durchführungsrichtlinie 2014/111/EU der Kommission vom 17. Dezember 2014 zur Änderung der Richtlinie 2009/15/EG hinsichtlich der Annahme bestimmter Codes und diesbezüglicher Änderungen bestimmter Übereinkommen und Protokolle durch die Internationale Seeschifffahrtsorganisation (IMO)
     (ABl. L 366 vom 20.12.2014, S. 83)
   8. Artikel 4 bis 6, Artikel 7 Absatz 1 und 2, Artikel 8 und 9, Artikel 11 bis 13, Artikel 14 Absatz 1 bis 3, Absatz 4 Satz 1, Artikel 14a, Artikel 15 Absatz 1 bis 3, Artikel 16 bis 18, Artikel 18a Absatz 1 bis 6 und 8, Artikel 19 Absatz 1 bis 6 und 8 bis 10, Artikel 20 bis 22, Artikel 23 Absatz 4, Artikel 24 Absatz 2 und 3, Artikel 29 in Verbindung mit den Anhängen I bis XI, XIV und XVII sowie den Artikeln 1 bis 3 der Richtlinie 2009/16/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die Hafenstaatkontrolle (ABl. L 131 vom 28.5.2009, S. 57), zuletzt geändert durch Artikel 14 der Richtlinie (EU) 2017/2110 (ABl. L 315 vom 30.11.2017, S. 61), in Verbindung mit Artikel 1 der Richtlinie 96/40/EG der Kommission vom 25. Juni 1996 zur Erstellung eines einheitlichen Musters für die Ausweise der Besichtiger der Hafenstaatkontrolle (ABl. L 196 vom 7.8.1996, S. 8)
   9. Bezogen auf die Wasserstraßen der Zonen 1 und 2 (Anhang I Kapitel 1 der in Nummer 1 genannten Richtlinie):
     Artikel 1 Abs. 3 erster Anstrich, Abs. 4 und 5 sowie Artikel 9 Abs. 1 in Verbindung mit den Anhängen I und II Kapitel A Teil 1 und Kapitel B der Richtlinie 96/50/EG des Rates vom 23. Juli 1996 über die Harmonisierung der Bedingungen für den Erwerb einzelstaatlicher Schifferpatente für den Binnenschiffsgüter- und -personenverkehr in der Gemeinschaft, zuletzt geändert durch Artikel 1 und 2 in Verbindung mit Nummer 9.3 des Anhangs der Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1)
   10. Artikel 3 bis 7, 9 bis 11 Absatz 1, 5 und 6, Artikel 12 bis 15 Absatz 1 und 2, Artikel 16 bis 19 Absatz 1, Artikel 20 bis 22 Absatz 2, Artikel 23 bis 27 Absatz 4 und 5, Artikel 28 Absatz 1 bis 3, Artikel 29, Artikel 30 Absatz 1 bis 4, Artikel 31, Artikel 32 Absatz 1 bis 8 Satz 1, Artikel 34 Absatz 2, Artikel 35 Absatz 1 und 2, Artikel 36, Artikel 37 Absatz 1 bis 3 und die Artikel 39 und 40 der Richtlinie 2014/90/EU des Europäischen Parlaments und des Rates vom 23. Juli 2014 über Schiffsausrüstung und zur Aufhebung der Richtlinie 96/98/EG des Rates
-    (ABl. L 257 vom 28.8.2014, S. 146; L 146 vom 11.6.2018, S. 8)
+    (ABl. L 257 vom 28.8.2014, S. 146; L 146 vom 11.6.2018, S. 8), geändert durch die delegierte Richtlinie 2021/1206/EU vom 30.4.2021 (ABl. L 261 vom 22.7.2021, S. 45),
   11. Artikel 3, 5 bis 7 und 11 in Verbindung mit den Anhängen I bis V sowie mit den Artikeln 1 und 2 der Richtlinie 97/70/EG des Rates vom 11. Dezember 1997 über eine harmonisierte Sicherheitsregelung für Fischereifahrzeuge von 24 Meter Länge und mehr (ABl. L 34 vom 9.2.1998, S. 1), zuletzt geändert durch Artikel 1 der Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109)
-  12. Artikel 3 bis 8, 11 Absatz 2 und 3, Artikel 12, 13, 15 und 17 in Verbindung mit den Anhängen I bis V sowie mit den Artikeln 1 und 2 der Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe (Neufassung) (ABl. L 163 vom 25.6.2009, S. 1), zuletzt geändert durch Artikel 1 der Richtlinie (EU) 2017/2108 (ABl. L 315 vom 30.11.2017, S. 40)
+  12. Artikel 3 bis 8, 11 Absatz 2 und 3, Artikel 12, 13, 15 und 17 in Verbindung mit den Anhängen I bis V sowie mit den Artikeln 1 und 2 der Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe (Neufassung) (ABl. L 163 vom 25.6.2009, S. 1), zuletzt geändert durch Artikel 1 der Delegierten Verordnung (EU) 2020/411 vom 19. November 2019 (ABl. L 83 vom 19.3.2020, S. 1)
   13. Artikel 4 Absatz 1 und 2, Artikel 5 Absatz 1 bis 4, Artikel 6 bis 8, Artikel 9 Absatz 1, 2 und 5, Artikel 10 bis 11a Absatz 1 der Richtlinie 98/41/EG des Rates vom 18. Juni 1998 über die Registrierung der an Bord von Fahrgastschiffen im Verkehr nach oder von einem Hafen eines Mitgliedstaates der Gemeinschaft befindlichen Personen (ABl. L 188 vom 2.7.1998, S. 35), zuletzt geändert durch Artikel 1 der Richtlinie (EU) 2017/2109 (ABl. L 315 vom 30.11.2017, S. 52)
     Für eine Übergangszeit bis zum 19.12.2023 können Angaben nach Artikel 4 Absatz 2 und Angaben nach Artikel 5 Absatz 1 dem Fahrgastregisterführer der Gesellschaft oder dem landseitigen System der Gesellschaft, das demselben Zweck wie ein Fahrgastregisterführer dient, mitgeteilt werden
   14. Artikel 1 bis 9 der Richtlinie 2017/2110 des Europäischen Parlaments und des Rates vom 15. November 2017 über ein System von Überprüfungen im Hinblick auf den sicheren Betrieb von Ro-Ro-Fahrgastschiffen und Fahrgast-Hochgeschwindigkeitsfahrzeugen im Linienverkehr und zur Änderung der Richtlinie 2009/16/EG sowie zur Aufhebung der Richtlinie 1999/35/EG des Rates
   15. Artikel 3 bis 5 - im Hinblick auf Gefahren für die Sicherheit -, 6 und 7 Abs. 3 in Verbindung mit den Artikeln 1, 2, 9 und 11 sowie den Anhängen I und II der Richtlinie 1999/95/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 zur Durchsetzung der Arbeitszeitregelung für Seeleute an Bord von Schiffen, die Gemeinschaftshäfen anlaufen
     (ABl. EG 2000 Nr. L 14 S. 29)
-  16. Artikel 6, 7, 9 Absatz 1, Artikel 10 und 11 in Verbindung mit Anhang II und den Artikeln 1 bis 4 und 16 der Richtlinie 2000/59/EG des Europäischen Parlaments und des Rates vom 27. November 2000 über Hafenauffangeinrichtungen für Schiffsabfälle und Ladungsrückstände (ABl. L 332 vom 28.12.2000, S. 81), zuletzt geändert durch Artikel 1 der Richtlinie (EU) 2015/2087
-    (ABl. L 302 vom 19.11.2015, S. 99).
+  16. Artikel 4 Absatz 3 sowie Artikel 13 Absatz 1 und 2 in Verbindung mit Anhang 2 und 3 sowie mit den Artikeln 1, 2 und 3 Absatz 1 der Richtlinie (EU) 2019/883 des Europäischen Parlaments und des Rates vom 17. April 2019 über Hafenauffangeinrichtungen für die Entladung von Abfällen von Schiffen, zur Änderung der Richtlinie 2010/65/EU und zur Aufhebung der Richtlinie 2000/59/EG (ABl. L 151 vom 7.6.2019, S. 116)
   17. Artikel 7 Nummer 1, Artikel 8 Nummer 1 bis 3, Artikel 9, 10 Absatz 2 bis 4 der Richtlinie 2001/96/EG des Europäischen Parlaments und des Rates vom 4. Dezember 2001 zur Festlegung von harmonisierten Vorschriften und Verfahrensregeln für das sichere Be- und Entladen von Massengutschiffen (ABl. L 13 vom 16.1.2002, S. 9), zuletzt geändert durch Artikel 1 und 2 in Verbindung mit Nummer 9.6 des Anhangs der Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1)
-  18. Artikel 5 Absatz 1 und 2 sowie Artikel 7 in Verbindung mit Artikel 1 und 2 sowie dem Anhang der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten und zur Aufhebung der Richtlinie 2002/6/EG (ABl. L 283 vom 29.10.2010, S. 1), geändert durch Artikel 2 der Richtlinie (EU) 2017/2109 (ABl. L 315 vom 30.11.2017, S. 52)
+  18. Artikel 5 Absatz 1 und 2 sowie Artikel 7 in Verbindung mit Artikel 1 und 2 sowie dem Anhang der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten und zur Aufhebung der Richtlinie 2002/6/EG (ABl. L 283 vom 29.10.2010, S. 1), zuletzt geändert durch Artikel 21 der Richtlinie (EU) 2019/883 (ABl. L 151 vom 7.6.2019, S. 116)
   19. (weggefallen)
   20. Artikel 4 bis 10 der Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates vom 14. April 2003 über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe (ABl. L 123 vom 17.5.2003, S. 22), zuletzt geändert durch Artikel 1 und 2 in Verbindung mit Nummer 9.10 des Anhangs der Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1)
   21. Artikel 5, 6 Absatz 1 bis 6 sowie 8 und 9 Buchstabe b, Artikel 7 Absatz 1 und 2, Artikel 8 Absatz 2 und 4 der Richtlinie (EU) 2016/802 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über eine Verringerung des Schwefelgehalts bestimmter flüssiger Kraft- oder Brennstoffe (ABl. L 132 vom 21.5.2016, S. 58)
@@ -1391,16 +1598,7 @@ E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare an
   28. Vorläufige Richtlinien für die Sicherheit erdgasbetriebener Motorenanlagen auf Schiffen (MSC.285(86))
     Angenommen am 1. Juni 2009
     (VkBl. 2012 S. 43)
-  29. Richtlinien von 2011 über zusätzliche Aspekte der Technischen NOx-Vorschrift 2008 in Bezug auf besondere Anforderungen an Schiffsdieselmotoren mit Systemen zur selektiven katalytischen Reduktion (SCR)
-    Entschließung MEPC.198(62)
-    Angenommen am 15. Juli 2011
-    (VkBl. 2012 S. 1009)
-    - Änderung von 2015 (MEPC.260(68))
-      Angenommen am 15. Mai 2015
-      (VkBl. 2018 S. 236)
-    Richtlinien von 2017 über zusätzliche Aspekte der Technischen NOx-Vorschrift 2008 in Bezug auf besondere Anforderungen an Schiffsdieselmotoren mit Systemen zur selektiven katalytischen Reduktion (SCR) (Entschließung MEPC.291(71))
-    Angenommen am 7. Juli 2017
-    (VkBl. 2019 S. 681)
+  29. (weggefallen)
   30. Richtlinien von 2011 für Auffanganlagen nach Anlage VI von MARPOL
     Entschließung MEPC.199(62)
     Angenommen am 15. Juli 2011
@@ -1448,6 +1646,3 @@ E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare an
     Richtlinien von 2012 für Entwurf und Bau zur Erleichterung der Sedimentkontrolle auf Schiffen (G12) (MEPC.209(63))
     Angenommen am 2. März 2012
     (VkBl. 2013 S. 25)
-    Richtlinien von 2017 für die Risikobewertung nach Regel A-4 des Ballastwasser-Übereinkommens (G7) (MEPC.289(71))
-    Angenommen am 7. Juli 2017
-    (VkBl. 2019 S. 425)
