@@ -1,0 +1,94 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2021-12-21T14:00:00+01:00
+- Ende: 2021-12-21T15:06:00+01:00
+- Ort: Historische Stadthalle, Johannisberg 40, 42103 Wuppertal Großer Saal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19270
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/19270
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00284196.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00284988.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Ausweichstandort Carnaper Platz - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Ausweichstandort Carnaper Platz - Entgegennahme ohne Beschluss
+- TOP 2.2: Bebauungsplanverfahren August-Jung-Weg - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Bebauungsplanverfahren August-Jung-Weg / östlich Hosfelds Katernberg - Entgegennahme ohne Beschluss
+- TOP 2.2.2: Bebauungsplanverfahren August-Jung-Weg / östlich Hosfelds Katernberg - Entgegennahme ohne Beschluss
+- TOP 2.2.2.1: Bebauungsplan 1223 - August-Jung-Weg / östlich Hosfelds Katernberg - Entgegennahme ohne Beschluss
+- TOP 2.2.3: Bebauungsplanverfahren August-Jung-Weg - Entgegennahme ohne Beschluss
+- TOP 2.2.3.1: Bebauungsplan 1223 - August-Jung-Weg / östlich Hosfelds Katernberg - - Entgegennahme ohne Beschluss
+- TOP 2.3: Personalsituation der Wuppertaler Bäder - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Personalsituation in den Wuppertaler Bädern - Entgegennahme ohne Beschluss
+- TOP 2.4: Fördermittelmanagement - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Fördermittelmanagement - Entgegennahme ohne Beschluss
+- TOP 2.5: Gewerbefläche Schaeffler - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Gewerbefläche Schaeffler - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag gemäß § 24 GO NRW - Hünefeldstraße - Aufbringung von Fahrrad-Piktogrammen
+- TOP 3.2: Antrag gemäß § 24 GO NRW - Nutzungsfreigabe des als Taxenparkplatz beschlossenen Taxennachrückplatzes für Taxen (östlich Primark)
+- TOP 3.3: Antrag gemäß § 24 GO NRW - Externe Prüfung der Effektivität der Verfahrensweisen des Ressorts Straßen und Verkehr-
+- TOP 4: Anträge
+- TOP 4.1: Frei zugängliche Wickel- und Stillmöglichkeiten in öffentlichen Gebäuden und Sachstandbericht - ungeändert beschlossen
+- TOP 4.2: Resolution: Aufnahme der Menschen an polnisch/belarussischen Grenze - ungeändert beschlossen
+- TOP 4.2.1: Antrag der CDU-Fraktion vom 21.12.2021 zu TOP 4.2 Resolution: Aufnahme der Menschen an polnisch/belarussischen Grenze - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.3: Licht- und Lasershow zum Abschluss des Elberfelder Cocktails 2022 - ungeändert beschlossen
+- TOP 4.4: Wuppertal zum Weiterbildungsstandort entwickeln, um aktuelle Herausforderungen der Arbeitswelt zu bewältigen. - geändert beschlossen
+- TOP 4.5: Antrag zur Ächtung des N*Wortes in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 4.6: Diversität und Teilhabe fördern - ungeändert beschlossen
+- TOP 4.7: Abbau von Rückständen beim Ressort Zuwanderung und Integration - ungeändert beschlossen
+- TOP 4.8: Einholung von Angeboten und Erstellung einer Homepage für den Integrationsausschuss der Stadt Wuppertal für die Öffentlichkeitsarbeit - abgesetzt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Resolution Übernahme der Stromkosten - abgesetzt
+- TOP 5.2: Resolution Finanzielle Handlungsfähigkeit der Kommunen auch in extremen Lagen schützen und garantieren. - ungeändert beschlossen
+- TOP 5.3: Finanzierung und Weiterentwicklung ÖPNV - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - ungeändert beschlossen
+- TOP 6.2: 9. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: 15. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.4: Gebührensatzung zur Abfallwirtschaft 2022 - ungeändert beschlossen
+- TOP 6.5: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2022 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Bereitstellung außerplanmäßiger Haushaltsmittel für einen Baukostenzuschuss zur Herrichtung eines Bibliothekstandortes im BOB Campus - ungeändert beschlossen
+- TOP 7.2: Verlängerung der Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Erhebung einer Infrastrukturabgabe - ungeändert beschlossen
+- TOP 7.3: Verlängerung des Verzichts auf die Gebührenerhebung für gaststättenrechtliche Änderungsanträge anlässlich der Hinzunahme oder Veränderung einer Außengastronomie - ungeändert beschlossen
+- TOP 7.4: BOB Campus Nachbarschaftspark - Sozialer Zusammenhalt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 7.5: Haushaltsplan 2022/2023 - Überweisung zur Beratung in die Fachausschüsse und Bezirksvertretungen - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2022 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.2: Vierte Satzung zur Änderung der Satzung für die Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: 115. Änderung des Flächennutzungsplanes - Nächstebrecker Straße / Bramdelle - - ungeändert beschlossen
+- TOP 9.2: 116. Änderung des Flächennutzungsplanes - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Kostenneufestsetzung für die Neugestaltung der zentralen Fußgängerzone Werth in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 10.2: Umbau der Hatzfeldtrasse zwischen der Straße Zum Alten Zollhaus und der Nord bahntrasse im Bereich des ehemaligen Bahnhof Loh in Wuppertal zu einem Geh- und Radweg - abgesetzt
+- TOP 10.3: Errichtung eines Vereinsheimes (Ersatzneubau) für den TV Beyeröhde an der Turnhalle Meininger Str./Auf der Höhe - ungeändert beschlossen
+- TOP 10.4: Umsetzung Talachsenradweg: Fortführung der Maßnahmen zur Verbesserung der Nahmobilität in den Straßen Wasserstraße und Unterdörnen - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Annahme der Schenkung eines Kunstwerks "Liebesbrief" - ungeändert beschlossen
+- TOP 11.2: Annahme der Schenkung eines Kunstwerks "Untitled" - ungeändert beschlossen
+- TOP 11.3: Hochwasserschutz-Prioritätenkonzept & Starkregenrisikomanagement-Verstetigungskonzept - ungeändert beschlossen
+- TOP 11.4: Zwischenbericht der Taskforce Hochwasser & Klimaresilienz - Entgegennahme ohne Beschluss
+- TOP 11.5: Temporäres Ersatzquartier für die Klassen 5 und 6 der Realschule Leimbach auf einer Teilfläche des Carnaper Platzes - ungeändert beschlossen
+- TOP 11.6: Abgesetzt. Vorberatung nicht abgeschlossen. Verlagerung des Stadtarchivs - abgesetzt
+- TOP 11.7: Auszahlung von Zuschüssen an Wuppertaler Sportvereine 2021 - ungeändert beschlossen
+- TOP 11.8: Abgesetzt. Vorberatung nicht abgeschlossen. Notstromaggregat Lokalfunk im Rahmen des Katastrophenschutzes - abgesetzt
+- TOP 11.9: Teilnahme am Wettbewerb „Kommunales Gesamtkonzept für kulturelle Bildung“ des Ministeriums für Kultur und Wissenschaft des Landes NRW - Antwort auf VO/0593/21/Neuf. - gemeinsamer Antrag Kommunales Gesamtkonzept Kulturelle Bildung - ungeändert beschlossen
+- TOP 11.10: Konzept für einen barrierefreien ÖPNV Wuppertal (Nahverkehrsplan Teil I) - geändert beschlossen
+- TOP 11.10.1: Änderungsantrag zu VO/1284/21, Konzept für einen barrierefreien ÖPNV Wuppertal (Nahverkehrsplan Teil I) - ungeändert beschlossen
+- TOP 11.11: Spielflächenbedarfsplan Wuppertal 2021- Fortschreibung - abgesetzt
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Berufung eines beratenden Mitglieds in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.3: Gestaltungsbeirat: Berufung eines Fachmitglieds als Nachfolge eines ausscheidenden Fachmitglieds - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.5: Bildung der Einigungsstelle der Stadtverwaltung Wuppertal gemäß § 67 Landespersonalvertretungsgesetz NRW (LPVG NRW) - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung / Benennungen - ungeändert beschlossen
+- TOP 12.7: Umbesetzung von Gremien - ungeändert beschlossen
