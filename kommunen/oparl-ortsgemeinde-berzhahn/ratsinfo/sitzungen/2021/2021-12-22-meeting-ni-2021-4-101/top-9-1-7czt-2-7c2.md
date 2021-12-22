@@ -1,0 +1,6 @@
+# TOP 9: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Berzhahn (2021-12-22)
+- Körperschaft: Ortsgemeinde Berzhahn
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2021-4-101%7Czt_2%7C2
