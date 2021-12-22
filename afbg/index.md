@@ -34,7 +34,6 @@
 ## Vierter Abschnitt Einkommens- und Vermögensanrechnung
 
 - [§ 17 Einkommens- und Vermögensanrechnung](0017.md)
-- [§ 17 Einkommens- und Vermögensanrechnung](0017-2.md)
 - [§ 17a Freibeträge vom Vermögen](0017a.md)
 
 ## Fünfter Abschnitt Organisation
