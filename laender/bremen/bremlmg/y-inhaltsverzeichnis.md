@@ -10,7 +10,7 @@ Abschnitt 2 Zulassung von Rundfunkprogrammen
 § 6 | Inhalt der Zulassung
 § 7 | Antragsverfahren, Mitwirkungspflicht
 § 8 | Auskunftsrecht und Ermittlungsbefugnisse
-§ 9 | Vereinfachtes Zulassungsverfahren
+§ 9 | Vereinfachtes Zulassungsverfahren und Unbedenklichkeitsbescheinigung
 § 10 | Rücknahme
 § 11 | Widerruf
 Abschnitt 3 Anforderungen an Rundfunkprogramme und Veranstalter
