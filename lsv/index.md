@@ -1,4 +1,4 @@
-# Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile
+# Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für elektrisch betriebene Fahrzeuge
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Anwendungsbereich](0001.md)
