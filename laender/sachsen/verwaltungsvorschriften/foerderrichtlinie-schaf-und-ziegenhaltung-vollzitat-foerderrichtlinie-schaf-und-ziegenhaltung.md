@@ -1,8 +1,8 @@
 # Förderrichtlinie Schaf- und Ziegenhaltung Vollzitat: Förderrichtlinie Schaf- und Ziegenhaltung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-06-29 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19055.2
+- Datum: 2022-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19055.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-29.06.2021
+01.01.2022
 bis
-31.12.2021
+06.07.2023
 
 Förderrichtlinie Schaf- und Ziegenhaltung
 
@@ -172,7 +172,7 @@ Die Zuwendung beträgt bis zu 55 Euro je Tier und Jahr für jedes Tier, das die 
 Bagatellgrenze
 
 
-Zuwendungen unter 2 000 Euro je Antragstellenden und Jahr oder einem sich daraus ergebenden Mindesttierbestand von 50 Tieren werden nicht gewährt.
+Zuwendungen unter 2 000 Euro je Antragstellenden und Jahr oder einem sich daraus ergebenden Mindesttierbestand von 37 Tieren werden nicht gewährt.
 
 
 VI.
@@ -288,9 +288,9 @@ Fsn-Nr.: 5563-V21.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 29. Juni 2021
+Fassung gültig ab:  1. Januar 2022
 
-Fassung gültig bis: 31. Dezember 2021
+Fassung gültig bis:  6. Juli 2023
 
 Drucken/Speichern
 
@@ -315,7 +315,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19055.2
+https://www.revosax.sachsen.de/vorschrift/19055.3
 Stand vom
 18.11.2026
 
