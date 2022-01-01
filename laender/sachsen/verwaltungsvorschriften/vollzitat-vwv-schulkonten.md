@@ -1,8 +1,8 @@
 # Vollzitat: VwV Schulkonten
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-09-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17820.1
+- Datum: 2022-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17820.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.09.2018
+01.01.2022
 bis
-31.12.2021
+05.02.2026
 
 VwV Schulkonten
 
@@ -54,7 +54,7 @@ Das Schulkonto ist als Girokonto auf Guthabenbasis ohne Kreditlinie zu eröffnen
 
 c)
 
-Der Freistaat Sachsen übernimmt keine Kontoführungsgebühren.
+Das Konto ist möglichst kostenfrei zu führen. Etwaig anfallende Gebühren können vom Landesamt für Schule und Bildung erstattet werden.
 
 
 d)
@@ -83,7 +83,7 @@ Für Schulen in Landesträgerschaft ist ihr Name als Bezeichnung des Kontoinhabe
 2.
 
 
-Die Eröffnung eines Schulkontos ist dem Landesamt für Schule und Bildung unter Angabe der Schulnummer, der Bezeichnung des Kontoinhabers nach Nummer 1 Buchstabe d und der IBAN mitzuteilen. Für die Mitteilung ist ein Formular nach dem Muster in Anlage 1 zu verwenden.
+Die Eröffnung eines Schulkontos ist dem Landesamt für Schule und Bildung unter Angabe der Schulnummer, der Bezeichnung des Kontoinhabers nach Nummer 1 Buchstabe d und der IBAN mitzuteilen. Die Mitteilung erfolgt über das Schulportal nach dem Muster in Anlage 1.
 
 
 II.
@@ -251,9 +251,9 @@ Fsn-Nr.: 710-V18.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. September 2018
+Fassung gültig ab:  1. Januar 2022
 
-Fassung gültig bis: 31. Dezember 2021
+Fassung gültig bis:  5. Februar 2026
 
 Drucken/Speichern
 
@@ -280,7 +280,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17820.1
+https://www.revosax.sachsen.de/vorschrift/17820.2
 Stand vom
 18.11.2026
 
