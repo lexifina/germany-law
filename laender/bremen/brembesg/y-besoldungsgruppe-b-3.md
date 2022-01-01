@@ -5,7 +5,7 @@ Direktorin der Ortspolizeibehörde Bremerhaven, Direktor der Ortspolizeibehörde
 Kanzlerin der Universität1), Kanzler der Universität1)
 Landesbeauftragte für die Verwirklichung der Gleichberechtigung der Frau, Landesbeauftragter für die Verwirklichung der Gleichberechtigung der Frau
 Leitende Direktorin2), Leitender Direktor2)
-Leitende Medizinaldirektorin4), Leitender Medizinaldirektor4)
+Leitende Medizinaldirektorin, Leitender Medizinaldirektor
 - als Leiterin oder Leiter des Gesundheitsamtes Bremen -
 Leitende Polizeidirektorin, Leitender Polizeidirektor
 - als Polizeivizepräsidentin der Polizei Bremen, als Polizeivizepräsident der Polizei Bremen -
@@ -26,5 +26,3 @@ Fußnoten
 2) Soweit nicht in den Besoldungsgruppen A 16, B 2.
 3) Die Zahl der Planstellen für Senatsrätinnen und Senatsräte in den Besoldungsgruppen B 2 und B 3 darf zusammen 60 vom Hundert der Gesamtzahl der Planstellen für Senatsrätinnen und Senatsräte nicht überschreiten.
 3) Die Zahl der Planstellen für Senatsrätinnen und Senatsräte in den Besoldungsgruppen B 2 und B 3 darf zusammen 60 vom Hundert der Gesamtzahl der Planstellen für Senatsrätinnen und Senatsräte nicht überschreiten.
-4) Soweit nicht in der Besoldungsgruppe B 2.
-4) Soweit nicht in der Besoldungsgruppe B 2.

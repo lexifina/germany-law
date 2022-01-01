@@ -100,6 +100,12 @@ Sonderschulrektorin, Sonderschulrektor
 - als Leiterin oder als Leiter einer Sonderschule mit mehr als 180 Schülerinnen und Schülern -
 - als Leiterin oder als Leiter eines Förderzentrums mit mehr als 180 Schülerinnen und Schülern10) -
 Studiendirektorin13), Studiendirektor13)
+- als Didaktische Leiterin, Didaktischer Leiter
+einer Oberschule im Aufbau mit
+mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt4),
+mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen4),
+mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen4),
+einer voll ausgebauten Oberschule mit mehr als 360 Schülerinnen und Schülern4)
 - als Fachberaterin in der obersten Landesbehörde für Schulen, als
 Fachleiterin an Studienseminaren, einer Werkschule oder zur Koordinierung schulfachlicher Aufgaben11) oder als Fachberater in der obersten Landesbehörde für Schulen, als Fachleiter an Studienseminaren, einer Werkschule oder zur Koordinierung schulfachlicher Aufgaben11) -
 - als die ständige Vertretung der Leiterin oder des Leiters
@@ -110,6 +116,10 @@ mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen f
 eines nicht voll ausgebauten Gymnasiums,
 eines voll ausgebauten Gymnasiums mit bis zu 360 Schülerinnen und Schülern,
 eines voll ausgebauten Gymnasiums mit mehr als 360 Schülerinnen und Schülern4),
+eines Gymnasiums oder einer Oberschule im Aufbau mit
+mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt4),
+mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen4),
+mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen4),
 eines voll ausgebauten Oberstufengymnasiums,
 eines zweizügig voll ausgebauten Oberstufengymnasiums oder
 eines Oberstufengymnasiums mit mindestens zwei Schultypen4),
@@ -224,6 +234,13 @@ Fußnoten
 4) Soweit nicht in den Besoldungsgruppen A 14, A 15.
 4) Soweit nicht in den Besoldungsgruppen A 14, A 15.
 4) Soweit nicht in den Besoldungsgruppen A 14, A 15.
+4) Erhält eine Amtszulage nach Anlage 6.
+4) Erhält eine Amtszulage nach Anlage 6.
+4) Erhält eine Amtszulage nach Anlage 6.
+4) Erhält eine Amtszulage nach Anlage 6.
+4) Erhält eine Amtszulage nach Anlage 6.
+4) Erhält eine Amtszulage nach Anlage 6.
+4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
