@@ -25,6 +25,7 @@ Abschnitt 3 Finanzierung
 Abschnitt 4 Qualitätssicherung und -entwicklung
 § 21 Qualitätsentwicklung, Fort- und Weiterbildung, Fachberatung und Qualifikation
 § 22 Evaluation und Weiterentwicklung
+§ 22a Monitoring
 Abschnitt 5 In-Kraft-Treten und Außer-Kraft-Treten
 § 23 Übergangsvorschriften
 § 24 (aufgehoben)
