@@ -23,5 +23,4 @@ Abschnitt 3 Entschädigung, Kostenerhebung
 § 19 Entschädigung der Mitglieder der Gutachterausschüsse und des Oberen Gutachterausschusses
 § 20 Kosten der Gutachterausschüsse und des Oberen Gutachterausschusses
 Abschnitt 4 Schlussvorschriften
-§ 21 Übergangsvorschriften
-§ 22 Inkrafttreten und Außerkrafttreten
+§ 21 Inkrafttreten und Außerkrafttreten
