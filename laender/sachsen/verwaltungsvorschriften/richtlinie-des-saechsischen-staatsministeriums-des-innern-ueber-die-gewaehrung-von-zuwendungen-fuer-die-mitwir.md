@@ -1,8 +1,8 @@
 # Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz Vollzitat: Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwir
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-06-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.6
+- Datum: 2022-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-05.06.2020
+01.01.2022
 bis
-31.12.2021
+30.06.2023
 
 Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz
 
@@ -41,7 +41,7 @@ Zuwendungszweck, Rechtsgrundlagen
 1.
 
 
-Der Freistaat Sachsen gewährt nach § 8 Absatz 1 Nummer 11 und § 70 Absatz 3 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 25. Juni 2019 (SächsGVBl. S. 521) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit § 11 der Sächsischen Katastrophenschutzverordnung vom 19. Dezember 2005 (SächsGVBl. S. 324), die zuletzt durch Artikel 1 der Verordnung vom 19. April 2013 (SächsGVBl. S. 239) geändert worden ist, in der jeweils geltenden Fassung, nach Maßgabe der §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378) und dieser Richtlinie Zuwendungen für die Mitwirkung im Katastrophenschutz.
+Der Freistaat Sachsen gewährt nach § 8 Absatz 1 Nummer 11 und § 70 Absatz 3 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 25. Juni 2019 (SächsGVBl. S. 521) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit § 11 der Sächsischen Katastrophenschutzverordnung vom 19. Dezember 2005 (SächsGVBl. S. 324), die zuletzt durch Artikel 1 der Verordnung vom 19. April 2013 (SächsGVBl. S. 239) geändert worden ist, in der jeweils geltenden Fassung, nach Maßgabe der §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352) und dieser Richtlinie Zuwendungen für die Mitwirkung im Katastrophenschutz.
 
 
 2.
@@ -69,13 +69,13 @@ Gefördert werden
 1.
 
 
-die Unterbringung und Unterhaltung der in Anlage 1 aufgeführten Ausstattung,
+die Unterbringung und Unterhaltung der in Anlage 1 aufgeführten Ausstattung; als Unterhaltsmaßnahmen förderfähig sind insbesondere gesetzlich vorgeschriebene Untersuchungen, Wartungs- und Instandhaltungsmaßnahmen, Verbrauchsmaterial, Bewegungsfahrten, Versicherungsleistungen unter Berücksichtigung der besonderen sicherheits- und medizintechnischen Prüfauflagen in Bezug auf einzelne Fahrzeuge und der darauf verlasteten Ausstattung,
 
 
 2.
 
 
-die Aufwendungen für die Übernahme der Trägerschaft der in Ziffer V Nummer 3 aufgeführten Katastrophenschutzeinheiten einschließlich von Kosten der Helferwerbung und Helferausbildung und für die Einheiten in Trägerschaft privater Hilfsorganisationen eine Pauschale zur Unterbringung der Helfer,
+die Aufwendungen für die Übernahme der Trägerschaft der in Ziffer V Nummer 3 aufgeführten Katastrophenschutzeinheiten einschließlich der Ausgaben für die Helferwerbung und Helferausbildung und für die Einheiten in Trägerschaft privater Hilfsorganisationen eine Pauschale zur Unterbringung der Helfer,
 
 
 3.
@@ -87,7 +87,7 @@ die Beschaffung von Ausstattung,
 4.
 
 
-Maßnahmen der Nachwuchsarbeit der privaten Hilfsorganisationen im Katastrophenschutz, insbesondere Honorarkosten, Reisekosten, Sachkosten wie zum Beispiel Miete, Bewirtschaftungskosten und sonstige Kosten, Geräte,
+projektbezogene Maßnahmen der Nachwuchsarbeit der privaten Hilfsorganisationen im Katastrophenschutz sowie im Schülersanitätsdienst; dabei insbesondere Honorarkosten einschließlich Ehrenamts- und Übungsleiterpauschalen, Reisekosten, Sachkosten wie zum Beispiel Miete, Bewirtschaftungskosten und Geräte,
 
 
 5.
@@ -98,7 +98,7 @@ der Erwerb einer Fahrerlaubnis der Klasse C beziehungsweise CE für ehrenamtlich
 
 6.
 
-Errichtung und Einrichtung von Gebäuden zur Unterbringung von Katastrophenschutzeinheiten der privaten Hilfsorganisationen einschließlich Erwerb, Um- und Anbau von Gebäuden für diesen Zweck.
+Errichtung und Einrichtung von Gebäuden zur Unterbringung von Katastrophenschutzeinheiten der privaten Hilfsorganisationen einschließlich Erwerb, Um- und Anbau einschließlich der technischen Ertüchtigung (Stützpunkthärtung) von Gebäuden für diesen Zweck.
 
 
 Für den Einsatzzug nach § 1 Absatz 4 der 
@@ -117,29 +117,36 @@ Zuwendungsempfänger sind
 1.
 
 
-für Zuwendungen nach Ziffer II Nr. 1 die nach § 39 Abs. 1 Nr. 3 SächsBRKG zur Mitwirkung Verpflichteten, denen Ausstattung für Zwecke des Katastrophenschutzes überlassen wurde und nach Ziffer II Nr. 1, 2 und 5 die Träger der Katastrophenschutzeinheiten,
+für Zuwendungen nach Ziffer II Nummer 1 die Träger der Katastrophenschutzeinheiten nach § 38 Absatz 2 des
+
+Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz; die Landkreise sollen die Zuwendung nach den Vorgaben der Nummer 12 der Anlage 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung an die nach § 39 Absatz 1 Nummer 3 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz zur Mitwirkung Verpflichteten, denen Ausstattung für Zwecke des Katastrophenschutzes überlassen wurde, weiterleiten,
 
 
 2.
 
-
-für Zuwendungen nach Ziffer II Nr. 3 die Leistungserbringer und die privaten Hilfsorganisationen, die Träger einer Katastrophenschutzeinheit sind und
+für Zuwendungen nach Ziffer II Nummer 2 die Träger der Katastrophenschutzeinheiten nach § 38 Absatz 2 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz,
 
 
 3.
 
 
-für Zuwendungen nach Ziffer II Nr. 4 die privaten Hilfsorganisationen, die Träger einer Katastrophenschutzeinheit sind sowie die Jugendgruppen der THW-Jugend Sachsen.
+für Zuwendungen nach Ziffer II Nummer 3 die Träger der Katastrophenschutzeinheiten nach § 38 Absatz 2 Satz 2 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz im Rahmen ihrer Trägerschaft,
 
 
 4.
 
-für Zuwendungen nach Ziffer II Nummer 5 die Träger der Katastrophenschutz-Einsatzzüge und der Medizinischen Task Force (Logistik-/Transportzug),
+
+für Zuwendungen nach Ziffer II Nr. 4 die privaten Hilfsorganisationen, die Träger einer Katastrophenschutzeinheit sind sowie die Jugendgruppen der THW-Jugend Sachsen.
 
 
 5.
 
-für Zuwendungen nach Ziffer II Nummer 6 die Landkreise, Kreisfreien Städte und Rettungszweckverbände.
+für Zuwendungen nach Ziffer II Nummer 5 die Träger der Katastrophenschutz-Einsatzzüge und der Medizinischen Task Force (Logistik-/Transportzug),
+
+
+6.
+
+für Zuwendungen nach Ziffer II Nummer 6 die Landkreise, Kreisfreien Städte und Rettungszweckverbände sowie die Träger der Katastrophenschutzeinheiten nach § 38 Absatz 2 Satz 2 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz.
 
 
 IV.
@@ -162,13 +169,13 @@ Zuwendungen nach Ziffer II Nr. 3 werden nur für die Ausstattungsgegenstände ge
 3.
 
 
-Für Zuwendungen nach Ziffer II Nr. 4 gelten die folgenden Voraussetzungen:
+Für Zuwendungen zu projektbezogenen Maßnahmen im Katastrophenschutz nach Ziffer II Nummer 4, 1. Alternative, gelten die Voraussetzungen der Buchstaben a bis d; für Zuwendungen zum Schülersanitätsdienst nach Ziffer II Nummer 4, 2. Alternative, gilt die Voraussetzung des Buchstaben e:
 
 
 a)
 
 
-Die Aufgaben und Inhalte der Nachwuchsarbeit müssen sich am Katastrophenschutz orientieren und als Ziel der Wissensvermittlung die begrenzte, altersgerechte Einsatzfähigkeit der 16-jährigen Jugendlichen haben. Bis zur Vollendung des 16. Lebensjahres sollen die Grundlagen geschaffen werden, die es ermöglichen, eine weitere Ausbildung durchzuführen, so dass sie mit Vollendung des 18. Lebensjahres über eine Grundausbildung verfügen und ab diesem Zeitraum auch als Helfer eingesetzt werden können.
+Die Aufgaben und Inhalte der Nachwuchsarbeit müssen sich am Katastrophenschutz orientieren und als Ziel der Wissensvermittlung die begrenzte, altersgerechte Einsatzfähigkeit der Kinder und Jugendlichen haben. Bis zur Vollendung des 16. Lebensjahres sollen die Grundlagen geschaffen werden, die es ermöglichen, eine weitere Ausbildung durchzuführen, so dass sie in der Regel mit Vollendung des 18. Lebensjahres über eine Grundausbildung nach der VwV KatSAusbildung verfügen und ab diesem Zeitraum auch als Helfer eingesetzt werden können.
 
 
 b)
@@ -189,6 +196,11 @@ d)
 Abschluss von mindestens einem Patenschaftsvertrag mit einer Katastrophenschutzeinheit im Landkreis oder in der Kreisfreien Stadt.
 
 
+e)
+
+Förderfähig sind projektbezogene Maßnahmen, die auf dem abgeschlossenen Grundkurs aufbauen; dabei ist jährlich mindestens eine Unterrichtseinheit nach Maßgabe der Buchstaben a bis c mit dem ausdrücklichen Bezug zum Katastrophenschutz durchzuführen.
+
+
 4.
 
 
@@ -200,7 +212,27 @@ für die nächsten beiden Haushaltsjahre keine Zuwendungen nach dieser Ziffer. D
 5.
 
 
-Zuwendungen nach Ziffer II Nummer 6 müssen wirtschaftlich und sparsam sein und der Verbesserung der Aufstellung, angemessenen Ausbildung, Ausstattung und Unterbringung und Einsatzfähigkeit der Kräfte und Mittel für die Katastrophenbekämpfung dienen. Zuwendungen für den Um- und Anbau von Gebäuden dürfen grundsätzlich nur maximal bis zur Höhe eines zuwendungsfähigen Neubaus gewährt werden. Die Sicherung der Gesamtfinanzierung investiver Vorhaben einschließlich der Folgekosten ist durch eine positive gemeindewirtschaftliche Stellungnahme der Rechtsaufsichtsbehörde gemäß der VwV Kommunale Haushaltswirtschaft vom 31. Juli 2019 (SächsABl. S. 1179), enthalten in der Verwaltungsvorschrift vom 27. November 2019 (SächsABl. SDr. S. S 339), in der jeweils geltenden Fassung, nachzuweisen, soweit die mit den Fördermitteln mitfanzierte Maßnahme nicht im Haushaltsplan des Fördermittelempfängers veranschlagt ist. Bei Baumaßnahmen muss der Zuwendungsempfänger grundsätzlich Eigentümer des Grundstücks sein. Ausnahmsweise genügt der Nachweis einer Rechtsposition, die eine der Förderung angemessene Nutzungsdauer, und die Erreichung des Förderzweckes sicherstellt.
+Für Zuwendungen nach Ziffer II Nummer 6 gelten die folgenden Voraussetzungen:
+
+
+a)
+
+Die Zuwendungen müssen der Verbesserung der Aufstellung, angemessenen Ausbildung, Ausstattung und Unterbringung und Einsatzfähigkeit der Kräfte und Mittel für die Katastrophenbekämpfung dienen.
+
+
+b)
+
+Für kommunale Zuwendungsempfänger ist die Sicherung der Gesamtfinanzierung investiver Vorhaben einschließlich der Folgekosten durch eine positive gemeindewirtschaftliche Stellungnahme der Rechtsaufsichtsbehörde gemäß der VwV Kommunale Haushaltswirtschaft vom 31. Juli 2019 (SächsABl. S. 1179), zuletzt enthalten in der Verwaltungsvorschrift vom 29. November 2021 (SächsABl. SDr. S. S 167), in der jeweils geltenden Fassung, nachzuweisen, soweit die mit den Fördermitteln mitfinanzierte Maßnahme nicht im Haushaltsplan des Zuwendungsempfängers veranschlagt ist.
+
+
+c)
+
+Zuwendungsanträge der Träger der Katastrophenschutzeinheiten nach § 38 Absatz 2 Satz 2 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz bedürfen der Befürwortung des Vorhabens durch die untere Brandschutz-, Rettungsdienst- und Katastrophenschutzbehörde im Rahmen einer fachlichen Stellungnahme. Die Sicherstellung der Gesamtfinanzierung des Vorhabens ist durch den Antragsteller nachzuweisen.
+
+
+d)
+
+Bei Baumaßnahmen muss der Zuwendungsempfänger grundsätzlich Eigentümer des Grundstücks sein. Ausnahmsweise genügt der Nachweis einer Rechtsposition, die eine der Förderung angemessene Nutzungsdauer, und die Erreichung des Förderzweckes sicherstellt.
 
 
 V.
@@ -217,13 +249,13 @@ Zuwendungen nach Ziffer II Nummer 1 und 2 an Zuwendungsempfänger nach Ziffer II
 2.
 
 
-Zuwendungen nach Ziffer II Nr. 1 werden im Rahmen der institutionellen Förderung als Festbetragsfinanzierung gewährt. Die Höhe der jährlichen Zuwendung, die als nicht rückzahlbarer Zuschuss bewilligt wird, bemisst sich nach Anlage 1.
+Zuwendungen nach Ziffer II Nr. 1 werden im Rahmen der Projektförderung als Festbetragsfinanzierung gewährt. Die Höhe der jährlichen Zuwendung, die als Zuschuss bewilligt wird, bemisst sich nach Anlage 1.
 
 
 3.
 
 
-Zuwendungen nach Ziffer II Nummer 2 werden im Rahmen der institutionellen Förderung als Festbetragsfinanzierung gewährt. Die Höhe der Zuwendung, die als nicht rückzahlbarer Zuschuss bewilligt wird, beträgt jährlich je
+Zuwendungen nach Ziffer II Nummer 2 werden im Rahmen der Projektförderung als Festbetragsfinanzierung gewährt. Die Höhe der Zuwendung, die als Zuschuss bewilligt wird, beträgt jährlich je
 
 
 Höhe der Zuwendung
@@ -292,7 +324,7 @@ Höhe der Zuwendung
 4.
 
 
-Für Investitionen von mindestens 1 000 EUR werden Zuwendungen nach Ziffer II Nr. 3 im Wege der Projektförderung als Anteilsfinanzierung gewährt. Die Höhe der Zuwendung, die als nicht rückzahlbarer Zuschuss bewilligt wird, beträgt 75 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 20 000 Euro; für Kraftfahrzeuge
+Für Investitionen von mindestens 1 000 EUR werden Zuwendungen nach Ziffer II Nr. 3 im Wege der Projektförderung als Anteilsfinanzierung gewährt. Die Höhe der Zuwendung, die als Zuschuss bewilligt wird, beträgt 75 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 20 000 Euro; für Kraftfahrzeuge
 
 beträgt sie höchstens 30 000 Euro.
 
@@ -300,7 +332,7 @@ beträgt sie höchstens 30 000 Euro.
 5.
 
 
-Die Zuwendungen nach Ziffer II Nr. 4 werden im Wege der Projektförderung als Anteilsfinanzierung gewährt. Die Höhe der Zuwendung beträgt 75 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 2 500 EUR. Die Zuwendung wird als nicht rückzahlbarer Zuschuss gewährt.
+Die Zuwendungen nach Ziffer II Nummer 4 werden im Wege der Projektförderung als Anteilsfinanzierung gewährt. Die Höhe der Zuwendung für projektbezogene Maßnahmen der Nachwuchsarbeit im Katastrophenschutz beträgt 75 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 2 500 Euro. Die Höhe der Zuwendung für projektbezogene Maßnahmen im Schülersanitätsdienst beträgt 75 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 1 000 Euro pro Schule. Die Zuwendung wird als Zuschuss gewährt.
 
 
 6.
@@ -392,7 +424,7 @@ begonnen werden soll über die zuständige untere BRK-Behörde bei der Bewilligu
 
 f)
 
-Anträge auf Zuwendungen nach Ziffer II Nummer 6 sind der Bewilligungsbehörde bis zum 31. März vor Beginn des Haushaltsjahres unter Beifügung einer Stellungnahme des Trägers der Katastrophenschutzeinheit vorzulegen. Die Bewilligungsbehörde stellt eine priorisierte Vorhabensliste auf und legt diese dem Staatsministerium des Innern vor.
+Anträge auf Zuwendungen nach Ziffer II Nummer 6 sind der Bewilligungsbehörde bis zum 31. März vor Beginn des Haushaltsjahres vorzulegen. Dem Antrag einer kommunalen Körperschaft ist eine Stellungnahme des Trägers der Katastrophenschutzeinheit, dem Antrag eines Leistungserbringers nach § 31 Absatz 1 Satz 2 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz oder einer privaten Hilfsorganisation ist die Stellungnahme der zuständigen unteren Brandschutz-, Rettungsdienst- und Katastrophenschutzbehörde beizufügen. Die Bewilligungsbehörde stellt eine priorisierte Vorhabensliste auf und legt diese dem Staatsministerium des Innern zur Bestätigung vor.
 
 
 2.
@@ -406,6 +438,14 @@ Bewilligungsbehörde ist die Landesdirektion Sachsen. Der Zuwendungsbescheid fü
 
 3.
 
+Vorhabensbeginn
+
+
+Für Vorhaben nach Ziffer II Nummer 1 bis 5 ist der Maßnahmebeginn abweichend von Nummer 1.4 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung ab dem 1. Januar des jeweiligen Haushaltsjahres zugelassen.
+
+
+4.
+
 
 Anforderungs- und Auszahlungsverfahren
 
@@ -413,29 +453,49 @@ Anforderungs- und Auszahlungsverfahren
 a)
 
 
-Die Auszahlung der Zuwendungen nach Ziffer II Nummer 1, 2, 4 und 5 erfolgt in einem Betrag. Die Mittel stehen zur Verwendung im Haushaltsjahr der Gewährung der Zuwendung ohne Beschränkung auf die Zwei-Monats-Frist gemäß Nummer 7.1 der
-
-Verwaltungsvorschrift zu § 44 SäHO nach der Auszahlung zur Verfügung.
+Der Antrag auf Auszahlung kann frühestens nach Bestandskraft des Zuwendungsbescheids gestellt werden.
 
 
 b)
 
+Die Auszahlung der Zuwendungen nach Ziffer II Nummer 1, 2, 4 und 5 erfolgt abweichend von Nummer 7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung auf Antrag in einer Summe ohne Beschränkung auf die Zwei-Monats-Frist gemäß Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
 
-Die Bewilligungsbehörde berichtet dem Staatsministerium des Innern jährlich zum 31. Januar über Art und Umfang der für das laufende Haushaltsjahr beantragten Zuwendungen.
+
+c)
+
+Die Auszahlung der Zuwendungen nach Ziffer 3 und Ziffer 6 darf nur insoweit und nicht eher erfolgen, als sie voraussichtlich innerhalb der in Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung beziehungsweise Nummer 7.1 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) benannten Frist nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt werden. Dabei sind Zuwendungen verschiedener Zuwendungsgeber anteilig entsprechend ihrem Verhältnis an der Gesamtfinanzierung einzusetzen; Ausnahmen hiervon können zugelassen werden. Die Auszahlung der Zuwendungen nach Ziffer 6 darf bei längerfristigen Vorhaben grundsätzlich nur in Teilbeträgen erfolgen.
 
 
-4.
-
+5.
 
 Verwendungsnachweisverfahren
 
 
+Abweichend von der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung genügt als Verwendungsnachweis
+
+
+a)
+
+für Zuwendungen nach Ziffer II Nummer 5 die Vorlage der Kopie des erworbenen Führerscheins,
+
+
+b)
+
+für Zuwendungen nach Ziffer II Nummer 6, soweit die Zuwendung für die Errichtung eines Neubaus gewährt wurde, ein Nachweis der Errichtung der nach Maßgabe der GUV-Information „Sicherheit im Stützpunkt einer Hilfeleistungsorganisation“ (GUV-I 8680) anerkannten Nutzfläche.
+
+
+6.
+
+
+Rückforderung von Zuwendungen
+
+
 Soweit bei Zuwendungen nach Ziffer II Nummer 1 und 2 die zuwendungsfähigen Ausgaben die bewilligten Festbeträge nicht erreichen, ist der übersteigende Betrag zurückzufordern.
 
-Bei Zuwendungen nach Ziffer II Nummer 1 ist dabei auf die Summe der Festbeträge für alle Fahrzeuge einer Katastrophenschutzeinheit abzustellen, die dem Zuwendungsempfänger zugeordnet sind.
+Bei Zuwendungen nach Ziffer II Nummer 1 soll dabei auf die Summe der Festbeträge für alle Fahrzeuge einer Katastrophenschutzeinheit abgestellt werden, die dem Zuwendungsempfänger zugeordnet sind.
 
 
-5.
+7.
 
 
 Zu beachtende Vorschriften
@@ -451,7 +511,7 @@ VIII.
 Übergangsbestimmung
 
 
-Abweichend von Ziffer VII Nummer 1 Buchstabe f sind Anträge auf Zuwendungen nach Ziffer II Nummer 6 der Bewilligungsbehörde für das Haushaltsjahr 2020 möglichst bis zum 5. Juli 2020 und für das Haushaltsjahr 2021 möglichst bis zum 30. Juni 2020 vorzulegen.
+Abweichend von Ziffer VII Nummer 1 Buchstabe f sind Anträge auf Zuwendungen nach Ziffer II Nummer 6 der Bewilligungsbehörde für das Haushaltsjahr 2022 bis zum 28. Februar 2022 vorzulegen.
 
 IX.
 
@@ -513,9 +573,9 @@ Fsn-Nr.: 5536-V11.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  5. Juni 2020
+Fassung gültig ab:  1. Januar 2022
 
-Fassung gültig bis: 31. Dezember 2021
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -542,7 +602,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12058.6
+https://www.revosax.sachsen.de/vorschrift/12058.7
 Stand vom
 18.11.2026
 
