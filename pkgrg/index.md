@@ -17,3 +17,4 @@
 - [§ 12a Übergangsregelung](0012a.md)
 - [§ 13 Berichterstattung](0013.md)
 - [§ 14 Gerichtliche Zuständigkeit](0014.md)
+- [§ 15 Zusammenwirken](0015.md)

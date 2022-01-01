@@ -18,8 +18,9 @@
 |  | § 3g | Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte |
 | II. | Steuerbefreiungen und Steuervergütungen |
 |  | § 4 | Steuerbefreiungen bei Lieferungen und sonstigen Leistungen |
-|  | § 4a | Steuervergütung |
+|  | § 4a | Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären, karitativen oder erzieherischen Zwecken im Drittlandsgebiet |
 |  | § 4b | Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen |
+|  | § 4c | Steuervergütung für Leistungsbezüge europäischer Einrichtungen |
 |  | § 5 | Steuerbefreiungen bei der Einfuhr |
 |  | § 6 | Ausfuhrlieferung |
 |  | § 6a | Innergemeinschaftliche Lieferung |

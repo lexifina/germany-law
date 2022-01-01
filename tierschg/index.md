@@ -16,6 +16,7 @@
 - [§ 4](0004.md)
 - [§ 4a](0004a.md)
 - [§ 4b](0004b.md)
+- [§ 4c](0004c.md)
 
 ## Vierter Abschnitt Eingriffe an Tieren
 

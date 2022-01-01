@@ -20,6 +20,7 @@
 - [§ 11 Baukostenzuschüsse](0011.md)
 - [§ 12 Grundstücksbenutzung](0012.md)
 - [§ 13 Gasanlage](0013.md)
+- [§ 13a Installateurverzeichnis](0013a.md)
 - [§ 14 Inbetriebsetzung der Gasanlage](0014.md)
 - [§ 15 Überprüfung der Gasanlage](0015.md)
 

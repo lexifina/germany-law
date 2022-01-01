@@ -71,8 +71,7 @@
 | § 49b | Staatliche Mittel für andere Kreiswahlvorschläge |
 | § 50 | Wahlkosten |
 | § 51 | (weggefallen) |
-| § 52 | Erlass von Rechtsverordnungen |
-| § 52a | Unterstützungsunterschriften bei der Bundestagswahl 2021 |
+| § 52 | Bundeswahlordnung |
 | § 53 | Übergangsregelung |
 | § 54 | Fristen, Termine und Form |
 | § 55 | Reformkommission |

@@ -37,16 +37,16 @@
 
 ## Teil 3 Indirekte Landnutzungsänderungen
 
-- [§ 13 Obergrenze für konventionelle Biokraftstoffe](0013.md)
-- [§ 14 Mindestanteil fortschrittlicher Kraftstoffe](0014.md)
+- [§ 13 Obergrenze für die Anrechenbarkeit von Biokraftstoffen aus Nahrungs- und Futtermittelpflanzen](0013.md)
+- [§ 13a Obergrenze für die Anrechenbarkeit von abfallbasierten Biokraftstoffen](0013a.md)
+- [§ 13b Obergrenze für die Anrechenbarkeit von Biokraftstoffen aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung](0013b.md)
+- [§ 14 Mindestanteil fortschrittlicher Biokraftstoffe](0014.md)
 - [§ 15 Nachweis der Einhaltung der Regelungen zu indirekten Landnutzungsänderungen](0015.md)
 
 ## Teil 4 Berichtspflichten
 
 - [§ 16 Berichte über in Verkehr gebrachte Kraftstoffe und Energieerzeugnisse](0016.md)
-- [§ 17 Angabe des Ursprungs](0017.md)
-- [§ 18 Angabe des Erwerbsortes](0018.md)
-- [§ 19 Sonderregelungen für kleine und mittlere Unternehmen](0019.md)
+- [(XXXX) §§ 17 bis 19 (weggefallen)](xxxx-17-bis-19.md)
 
 ## Teil 5 Zuständigkeit
 
@@ -56,7 +56,7 @@
 
 - [§ 21 Übergangsbestimmung](0021.md)
 - [§ 22 Inkrafttreten](0022.md)
-- [Anlage 1 (zu § 2 Absatz 6 Nummer 1)Rohstoffe für die Herstellung von Biokraftstoffen nach § 2 Absatz 6 Nummer 1](anlage-1.md)
+- [Anlage 1 (zu § 1 Absatz 2 und § 14 Absatz 1)Rohstoffe für die Herstellung fortschrittlicher Biokraftstoffe nach § 14 Absatz 1](anlage-1.md)
 - [Anlage 2 (zu den §§ 11 und 13)Treibhausgasemissionen fossiler Kraftstoffe](anlage-2.md)
 - [Anlage 3 (zu § 5 Absatz 2 und § 11 Absatz 2)Anpassungsfaktoren für die Antriebseffizienz](anlage-3.md)
-- [Anlage 4 (zu § 1 Absatz 2)Rohstoffe für die Herstellung von Biokraftstoffen nach § 1 Absatz 2](anlage-4.md)
+- [Anlage 4 (zu § 13a)Rohstoffe für die Herstellung von Biokraftstoffen nach § 13a](anlage-4.md)

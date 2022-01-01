@@ -1,7 +1,5 @@
-# Anlage 1 (zu § 2 Absatz 1)
+# Anlage 1 (zu § 2 Absatz 1)Nicht abschließende Liste mit Elektro- und Elektronikgeräten, die unter die Kategorien des § 2 Absatz 1 fallen
 
-Nicht abschließende Liste mit
-Elektro- und Elektronikgeräten, die unter die Gerätekategorien des § 2 Absatz 1 fallen
 1. Wärmeüberträger
   Kühlschränke
   Gefriergeräte
@@ -11,15 +9,17 @@ Elektro- und Elektronikgeräten, die unter die Gerätekategorien des § 2 Absatz
   Wärmepumpen
   Wärmepumpentrockner
   ölgefüllte Radiatoren
-  sonstige Wärmeüberträger, bei denen andere
-  Flüssigkeiten als Wasser für die Wärmeübertragung verwendet werden
-2. Bildschirme, Monitore und Geräte, die Bildschirme mit einer Oberfläche von mehr als 100 Quadratzentimeter enthalten
+  Boiler
+  Warmwasserspeicher
+  sonstige Wärmeüberträger, bei denen andere Flüssigkeiten als Wasser für die Wärmeübertragung verwendet werden
+2. Bildschirme, Monitore und Geräte, die Bildschirme mit einer Oberfläche von mehr als 100 Quadratzentimetern enthalten
   Bildschirme
   Fernsehgeräte
-  LCD-Fotorahmen
+  LCD-Fotorahmen und digitale Bilderrahmen
   Monitore
   Laptops
   Notebooks
+  Tablets und Tablet-PCs
 3. Lampen
   stabförmige Leuchtstofflampen
   Kompaktleuchtstofflampen
@@ -31,7 +31,7 @@ Elektro- und Elektronikgeräten, die unter die Gerätekategorien des § 2 Absatz
   Waschmaschinen
   Wäschetrockner
   Geschirrspüler
-  Elektroherde und -backöfen
+  Elektroherde und Elektrobacköfen
   Elektrokochplatten
   Leuchten
   Ton- oder Bildwiedergabegeräte
@@ -44,8 +44,11 @@ Elektro- und Elektronikgeräten, die unter die Gerätekategorien des § 2 Absatz
   medizinische Großgeräte
   große Überwachungs- und Kontrollinstrumente
   große Produkt- und Geldausgabeautomaten
-  Photovoltaikmodule
+  große Photovoltaikmodule
   Nachtspeicherheizgeräte
+  große Antennen
+  Pedelecs
+  Elektrokleinstfahrzeuge mit zwei Rädern und ohne Sitz
 5. Kleingeräte
   Staubsauger
   Teppichkehrmaschinen
@@ -58,6 +61,7 @@ Elektro- und Elektronikgeräten, die unter die Gerätekategorien des § 2 Absatz
   elektrische Messer
   Wasserkocher
   Uhren
+  Fitness- und Gesundheitsarmbänder
   elektrische Rasierapparate
   Waagen
   Haar- und Körperpflegegeräte
@@ -69,7 +73,7 @@ Elektro- und Elektronikgeräten, die unter die Gerätekategorien des § 2 Absatz
   Ton- oder Bildwiedergabegeräte
   elektrisches und elektronisches Spielzeug
   Sportgeräte
-  Fahrrad-, Tauch-, Lauf-, Rudercomputer usw.
+  Fahrrad-, Tauch-, Lauf-, Rudercomputer
   Rauchmelder
   Heizregler
   Thermostate
@@ -78,8 +82,23 @@ Elektro- und Elektronikgeräten, die unter die Gerätekategorien des § 2 Absatz
   kleine Überwachungs- und Kontrollinstrumente
   kleine Produktausgabeautomaten
   Kleingeräte mit eingebauten Photovoltaikmodulen
-6. Kleine IT- und Telekommunikationsgeräte
-  (keine äußere Abmessung beträgt mehr als 50 cm)
+  kleine Photovoltaikmodule
+  Antennen
+  Adapter
+  Reisestecker
+  Steckdosen
+  konfektionierte Stromkabel
+  HDMI-, Audio- und Videokabel
+  Schmelzsicherungen
+  Bekleidung mit elektrischen Funktionen
+  elektrische Zigaretten
+  elektronische Antriebe für Möbel
+  Bekleidung mit elektrischen Funktionen (z.B. Heiz-, Massage- oder Leuchtfunktionen)
+  Schuhe mit Leuchtfunktionen
+  beleuchtete Fliesen
+  Drohnen
+  Tonerkartuschen und Druckerpatronen
+6. Kleine IT- und Telekommunikationsgeräte (keine äußere Abmessung beträgt mehr als 50 cm)
   Mobiltelefone
   GPS-Geräte
   Taschenrechner
@@ -87,3 +106,7 @@ Elektro- und Elektronikgeräten, die unter die Gerätekategorien des § 2 Absatz
   PCs
   Drucker
   Telefone
+  Kommunikationsantennen
+  Telefon- und Netzwerkadapter
+  USB-Kabel
+  Netzwerkkabel

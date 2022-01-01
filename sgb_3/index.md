@@ -29,7 +29,7 @@
 - [§ 16 Arbeitslose](0016.md)
 - [§ 17 Drohende Arbeitslosigkeit](0017.md)
 - [§ 18 Langzeitarbeitslose](0018.md)
-- [§ 19 Behinderte Menschen](0019.md)
+- [§ 19 Menschen mit Behinderungen](0019.md)
 - [§ 20 Berufsrückkehrende](0020.md)
 - [§ 21 Träger](0021.md)
 
@@ -94,7 +94,7 @@ Versicherungspflichtige
 
 - [§ 44 Förderung aus dem Vermittlungsbudget](0044.md)
 - [§ 45 Maßnahmen zur Aktivierung und beruflichen Eingliederung](0045.md)
-- [§ 46 Probebeschäftigung und Arbeitshilfe für behinderte Menschen](0046.md)
+- [§ 46 Probebeschäftigung und Arbeitshilfe für Menschen mit Behinderungen](0046.md)
 - [§ 47 Verordnungsermächtigung](0047.md)
 
 ### Dritter Abschnitt Berufswahl und Berufsausbildung
@@ -137,7 +137,7 @@ Versicherungspflichtige
 
 #### Vierter Unterabschnitt Berufsausbildung
 
-- [§ 73 Zuschüsse zur Ausbildungsvergütung behinderter und schwerbehinderter Menschen](0073.md)
+- [§ 73 Zuschüsse zur Ausbildungsvergütung für Menschen mit Behinderungen und schwerbehinderte Menschen](0073.md)
 - [§ 74 Assistierte Ausbildung](0074.md)
 - [§ 75 Begleitende Phase der Assistierten Ausbildung](0075.md)
 - [§ 75a Vorphase der Assistierten Ausbildung](0075a.md)
@@ -170,7 +170,7 @@ Versicherungspflichtige
 
 - [§ 88 Eingliederungszuschuss](0088.md)
 - [§ 89 Höhe und Dauer der Förderung](0089.md)
-- [§ 90 Eingliederungszuschuss für behinderte und schwerbehinderte Menschen](0090.md)
+- [§ 90 Eingliederungszuschuss für Menschen mit Behinderungen und schwerbehinderte Menschen](0090.md)
 - [§ 91 Zu berücksichtigendes Arbeitsentgelt und Auszahlung des Zuschusses](0091.md)
 - [§ 92 Förderungsausschluss und Rückzahlung](0092.md)
 
@@ -228,7 +228,7 @@ Versicherungspflichtige
 - [§ 111 Transferkurzarbeitergeld](0111.md)
 - [§ 111a Förderung der beruflichen Weiterbildung bei Transferkurzarbeitergeld](0111a.md)
 
-### Siebter Abschnitt Teilhabe behinderter Menschen am Arbeitsleben
+### Siebter Abschnitt Teilhabe von Menschen mit Behinderungen am Arbeitsleben
 
 
 #### Erster Unterabschnitt Grundsätze
@@ -294,7 +294,7 @@ Versicherungspflichtige
 - [§ 138 Arbeitslosigkeit](0138.md)
 - [§ 139 Sonderfälle der Verfügbarkeit](0139.md)
 - [§ 140 Zumutbare Beschäftigungen](0140.md)
-- [§ 141 Persönliche Arbeitslosmeldung](0141.md)
+- [§ 141 Arbeitslosmeldung](0141.md)
 - [§ 142 Anwartschaftszeit](0142.md)
 - [§ 143 Rahmenfrist](0143.md)
 - [§ 144 Anspruchsvoraussetzungen bei beruflicher Weiterbildung](0144.md)
@@ -416,7 +416,8 @@ Berichterstattung
 - [§ 296a Vergütungen bei Ausbildungsvermittlung](0296a.md)
 - [§ 297 Unwirksamkeit von Vereinbarungen](0297.md)
 - [§ 298 Behandlung von Daten](0298.md)
-- [(XXXX) §§ 299 u. 300 (weggefallen)](xxxx-299-u-300.md)
+- [§ 299 Informationspflicht bei grenzüberschreitender Vermittlung](0299.md)
+- [§ 300 (weggefallen)](0300.md)
 
 ##### Dritter Titel Verordnungsermächtigung
 

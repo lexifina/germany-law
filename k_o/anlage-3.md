@@ -7,7 +7,7 @@
 | 1.2 | – | bei mehr als 3 Feuerungsanlagen | zusätzlich 2,0 für jede weitere Feuerungsanlage, insgesamt höchstens 30,0 je Feuerstättenbescheid |
 | 1.3 | Je zusätzliche Ausfertigung eines Feuerstättenbescheides | 2,0 |
 | 2 | Feuerstättenschau (§ 14 Absatz 1 SchfHwG) |  |
-| 2.1 | Grundwert je Gebäude einschließlich der ersten Nutzungseinheit | 11,7 |
+| 2.1 | Grundwert je Gebäude oder in Sondereigentum stehender Anlage nach § 20 Absatz 2 SchfHwG einschließlich der ersten Nutzungseinheit | 11,7 |
 | 2.2 | Grundwert für jede weitere Nutzungseinheit | 4,0 |
 | 2.3 | Feuerstättenschau an alleinstehenden Abgasanlagen und Gruppen von Abgasanlagen: |  |
 | 2.3.1 | für jeden vollen und angefangenen Meter von senkrechten Teilen | 1,0 |
@@ -26,12 +26,20 @@
 | 3 | Sonstige Arbeitsgebühren |  |
 | 3.1 | Überprüfung des Feuchtegehalts fester Brennstoffe im Rahmen der Feuerstättenschau (§ 14 Absatz 1 SchfHwG, § 15 Absatz 2 in Verbindung mit § 3 Absatz 3 1. BImSchV) | 6,0 |
 | 3.2 | Überprüfung des Zeitpunktes der Einhaltung der Grenzwerte (§ 25 Absatz 1 1. BImSchV), Überprüfung des Datums auf dem Typschild der Einzelraumfeuerungsanlagen und Information an den Betreiber (§ 14 Absatz 1 SchfHwG, § 26 Absatz 5 1. BImSchV) | 3,0 |
-| 3.3 | Überprüfung der Außerbetriebnahme von bestimmten Heizkesseln und der Dämmung von Leitungen/Armaturen (§ 14 Absatz 1 SchfHwG, § 26b Absatz 1 EnEV) | 3,0 |
-| 3.4 | Überprüfung des Verschlechterungsverbots (§ 14 Absatz 1 SchfHwG, § 26b Absatz 2 Nummer 1 EnEV) | 5,0 |
-| 3.5 | Überprüfung bestimmter Ausstattungen von Zentralheizungen (§ 14 Absatz 1 SchfHwG, § 26b Absatz 2 Nummer 2 EnEV) | 3,0 |
-| 3.6 | Überprüfung bestimmter Vorrichtungen an Umwälzpumpen in Zentralheizungen (§ 14 Absatz 1 SchfHwG, § 26b Absatz 2 Nummer 3 EnEV) | 1,0 |
-| 3.7 | Überprüfung der Begrenzung der Wärmeabgabe bei Leitungen/Armaturen (§ 14 Absatz 1 SchfHwG, § 26b Absatz 2 Nummer 4 EnEV) | 2,0 |
-| 3.8 | Anlassbezogene Überprüfungen (§ 15 SchfHwG) je Arbeitsminute | 0,8 |
+| 3.3 | Überprüfung, ob ein Heizkessel, der außer Betrieb genommen werden musste, weiterhin betrieben wird (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 1 GEG) | 1,5 |
+| 3.4 | Überprüfung, ob Wärmeverteilungs- und Warmwasserleitungen, die gedämmt werden mussten, weiterhin ungedämmt sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 2 GEG) | 1,5 |
+| 3.5 | Überprüfung, ob ein mit Heizöl beschickter Heizkessel entgegen der Regelung nach § 72 Absatz 4 und 5 GEG ab dem 1. Januar 2026 eingebaut wurde (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 3 GEG) | 10,0 |
+| 3.6 | Überprüfung des Verschlechterungsverbots (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 1 GEG) |  |
+| 3.6.1 | bei Feststellung keiner Verschlechterung | 5,0 |
+| 3.6.2 | bei Feststellung einer Verschlechterung | 30,0 |
+| 3.7 | Überprüfung, ob eine Zentralheizung mit bestimmten Einrichtungen ausgestattet ist (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 2 GEG) | 3,0 |
+| 3.8 | Überprüfung, ob eine Umwälzpumpe in einer Zentralheizung mit einer bestimmten Vorrichtung ausgestattet ist (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 3 GEG) | 1,0 |
+| 3.9 | Überprüfung der Begrenzung der Wärmeabgabe bei Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 4 GEG) | 2,0 |
+| 3.10 | Überprüfung, ob der Eigentümer zur Nachrüstung der Ausstattung von Zentralheizungen in bestehenden Gebäuden verpflichtet ist und diese Pflicht erfüllt wurde (§ 14 Absatz 1 SchfHwG, § 97 Absatz 4 GEG) | 7,0 |
+| 3.11 | Anlassbezogene Überprüfung der Verbrennungsluftversorgung oder der Rauch- oder Abgasführung nach baulichen Maßnahmen (§ 1 Absatz 8) soweit eine Bescheinigung über das Ergebnis ausgestellt wird je Arbeitsminute | 0,8 |
+| 3.11.1 | bei Überprüfung nach Aktenlage pro Nutzungseinheit jedoch maximal | 35,0 |
+| 3.11.2 | bei Überprüfung mit Termin vor Ort pro Nutzungseinheit jedoch maximal | 45,0 |
+| 3.12 | Anlassbezogene Überprüfung nach § 15 SchfHwG je Arbeitsminute | 0,8 |
 | 4 | Mahnung (§ 20 Absatz 1 Satz 2 SchfHwG) einer rückständigen Gebühr für eine Tätigkeit nach dieser Anlage | 5,0 |
 | 5 | Ersatzvornahme (§ 26 SchfHwG) |  |
 | 5.1 | Grundwert | 60 |

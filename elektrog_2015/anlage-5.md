@@ -1,13 +1,17 @@
-# Anlage 5 (zu § 20 Absatz 2 Satz 4)
+# Anlage 5 (zu § 21 Absatz 3 Nummer 3 und Absatz 4 Nummer 3)Behandlungskonzept
 
-Technische Anforderungen
-an Standorte für die Lagerung und Behandlung von Altgeräten
-1. Standorte für die Lagerung (einschließlich der Zwischenlagerung) von Elektro- und Elektronik-Altgeräten vor ihrer Behandlung (unbeschadet der Deponieverordnung):
-  a) geeignete Bereiche mit undurchlässiger Oberfläche und Auffangeinrichtungen mit gegebenenfalls Abscheidern für auslaufende Flüssigkeiten und fettlösende Reinigungsmittel,
-  b) geeignete Bereiche mit wetterbeständiger Abdeckung.
-2. Standorte und Einrichtungen für die Behandlung von Elektro- und Elektronik-Altgeräten:
-  a) Waagen zur Bestimmung des Gewichts der behandelten Altgeräte,
-  b) geeignete Bereiche mit undurchlässiger Oberfläche und wasserundurchlässiger Abdeckung sowie Auffangeinrichtungen mit gegebenenfalls Abscheidern für auslaufende Flüssigkeiten und fettlösende Reinigungsmittel,
-  c) geeigneter Lagerraum für demontierte Einzelteile,
-  d) geeignete Behälter für die Lagerung von Batterien, PCB/PCT-haltigen Kondensatoren und anderen gefährlichen Abfällen wie beispielsweise radioaktive Abfälle,
-  e) Ausrüstung für die Behandlung von Wasser im Einklang mit Gesundheits- und Umweltvorschriften.
+Der Betreiber einer Erstbehandlungsanlage hat ein Behandlungskonzept zu erstellen und bei der Zertifizierung nach § 21 dem Sachverständigen vorzulegen. Das Behandlungskonzept kann in Papierform oder elektronisch erstellt und geführt werden. Es hat folgende Angaben zu enthalten:
+1. Name des zu zertifizierenden Betriebs und Adresse des Standortes
+2. abfallwirtschaftliche Tätigkeit und behandelte Gerätekategorien nach § 2 Absatz 1 Satz 2
+3. bewirtschaftete Altgeräte
+  a) Herkunft der Altgeräte (öffentlich-rechtlicher Entsorgungsträger, Hersteller, Vertreiber, Eigenrücknahme nach § 17a, Übernahme nach § 17b, Entsorgung für einen entsorgungspflichtigen Besitzer nach § 19)
+  b) Verbleib der Altgeräte (Rückgabe an den öffentlich-rechtlichen Entsorgungsträger, Übergabe an eine zertifizierte Erstbehandlungsanlage, Übergabe an Behandlungs- und Verwertungsanlagen, Eigenvermarktung zur Wiederverwendung vorbereiteter Elektro- und Elektronikgeräte, Übergabe an Vertreiber von zur Wiederverwendung vorbereiteter Elektro- und Elektronikgeräte)
+4. technische und personelle Ausstattung des Standortes
+  a) Prüf- und Arbeitsplätze
+  b) Anlagentechnik
+  c) personelle Ausstattung
+5. Verfahrensablauf
+  a) Sichtprüfung, Funktionsprüfung, Sicherheitsprüfung, Datenlöschung und, wenn erforderlich, Reparaturmaßnahmen
+  b) Maßnahmen für die Einhaltung der in der Rechtsverordnung nach § 24 Nummer 2 enthaltenen Anforderungen
+  c) Darstellung der Arbeitsanweisungen einschließlich Kriterien zur Identifikation von Schad- und Wertstoffen für die jeweiligen Abläufe
+Bei Änderungen der enthaltenen Angaben ist das Behandlungskonzept zu aktualisieren.

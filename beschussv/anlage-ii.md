@@ -2,29 +2,31 @@
 
 ( Fundstelle: BGBl. I 2006, 1500 - 1503; bzgl. der einzelnen Änderungen vgl. Fußnote )
 | Abbildung 1 |
-| Bundesadler mit Kennbuchstaben (§ 9 Abs. 2) |
-| N | Beschussbei Feuerwaffen oder höchstbeanspruchten Teilen nach § 2 Abs. 2 des Gesetzes, die zum Verschießen von Munition mit Nitropulver bestimmt sind |
-| V | Verstärkter Beschussbei Waffen mit glatten Läufen oder höchstbeanspruchten Teilen nach § 2 Abs. 2 des Gesetzes, die zum Verschießen von Munition mit überhöhtem Gasdruck bestimmt sind |
-| SP | Beschussbei Feuerwaffen oder höchstbeanspruchten Teilen nach § 2 Abs. 2 des Gesetzes, die zum Verschießen von Schwarzpulver bestimmt sind |
-| L | Beschussbei Feuerwaffen oder höchstbeanspruchten Teilen nach § 2 Abs. 2 des Gesetzes, bei denen zum Antrieb ein entzündbares flüssiges oder gasförmiges Gemisch oder eine Treibladung verwendet wird |
-| J | Instandsetzungsbeschussbei Feuerwaffen oder höchstbeanspruchten Teilen nach § 2 Abs. 2 des Gesetzes, die nach § 3 Abs. 2 des Gesetzes erneut zu prüfen sind |
-| F | Freiwilliger Beschuss§ 6 Abs. 2 |
-| B | Beschussbei Böllern |
+| Amtliche Beschusszeichen der Beschussämter (§ 9 Absatz 1 Satz 1) |
+|  | Normaler Beschussvon Feuerwaffen oder höchstbeanspruchten Teilen nach § 2 Absatz 2 des Gesetzes, die zum Verschießen von Munition mit normaler Ladung bestimmt sind. |
+|  | Verstärkter Beschussvon Feuerwaffen mit glatten Läufen oder höchstbeanspruchten Teilen nach § 2 Absatz 2 des Gesetzes, die zum Verschießen von Munition mit verstärkter Ladung mit Bleischrot oder bleifreien Schroten vom Typ A oder D bestimmt sind. |
+|  | Stahlschrotbeschussvon Feuerwaffen mit glatten Läufen oder höchstbeanspruchten Teilen nach § 2 Absatz 2 des Gesetzes, die zum Verschießen von Munition mit verstärkter Ladung mit bleifreien Schroten vom Typ B oder C bestimmt sind. |
+|  | Beschussvon Schwarzpulverwaffen |
+|  | Beschussvon Böllern |
 | Abbildung 2 |
-|  | Prüfzeichen für Handfeuerwaffen zum Verschießen von Stahlschrotmunition mit verstärkter Ladung (§ 9 Abs. 3 Nr. 2) |
-| Abbildung 3 Ortszeichen der zuständigen Behörden (§ 9 Abs. 3 Nr. 1) |
-| Hannover | Kiel | Köln | Mellrichstadt |
-| München | Suhl | Ulm |  |
-|  |
-| Abbildung 4 Prüfzeichen für Munition (§ 32 Abs. 2 Nr. 4) |
-| Hannover | Kiel | Köln | Mellrichstadt | München | Suhl | Ulm |
+| Amtliche Beschusszeichen der Beschussämter (§ 9 Absatz 1 Satz 2) |
+|  | Beschuss von Feuerwaffen oder höchstbeanspruchten Teilen nach § 2 Absatz 2 des Gesetzes in Kalibern, die nicht den Maßtafeln entsprechen oder mit von den Maßtafeln abweichenden Maßen, die für in- oder ausländische Behörden bestimmt sind. |
+|  | Beschuss von Feuerwaffen oder höchstbeanspruchten Teilen nach § 2 Absatz 2 des Gesetzes in Kalibern, die nicht den Maßtafeln entsprechen oder mit von den Maßtafeln abweichenden Maßen, die für den zivilen Bereich bestimmt sind. |
+| Abbildung 3 Ortszeichen der zuständigen Behörden (§ 9 Absatz 2 Nummer 1 und Bezug zur PTB) |
+| Kiel | Köln | Mellrichstadt | München |
 |  |  |  |  |
-|  | Abbildung 5Zulassungszeichen für Handfeuerwaffen, Schussapparate und Einsteckläufe nach § 7 des Gesetzes und für nicht tragbare Geräte nach § 24 Abs. 1 |
+| Suhl | Ulm | Braunschweig |  |
+|  |
+| Abbildung 4Prüfzeichen für Munition (§ 32 Absatz 2 Nummer 4) |
+| Kiel | Köln | Mellrichstadt | München | Suhl | Ulm | Ulm |
+|  |  |  |  |
+|  | Abbildung 5aZulassungszeichen für Schussapparate, Zusatzgeräte für diese Apparate, Einsteckläufe ohne eigenen Verschluss für Munition mit dem zulässigen höchsten Gebrauchsgasdruck bis 2 000 bar sowie Feuerwaffen nach § 7 Absatz 1 und § 8 Absatz 3 des Gesetzes. |
+|  | Abbildung 5bZulassungszeichen für nicht tragbare Selbstschussgeräte, andere nicht tragbare Geräte, Gasböller und Einsätze für Munition mit kleinerer Abmessung nach § 7 Absatz 1 des Gesetzes. |
 |  | Abbildung 6Zulassungszeichen für bauartgeprüfte Schreckschuss-, Reizstoff- und Signalwaffen nach § 8 Abs. 1 des Gesetzes und Zusatzgeräte zu diesen Waffen zum Verschießen pyrotechnischer Geschosse |
 |  | Abbildung 7Zulassungszeichen für pyrotechnische Munition nach § 10 Abs. 1 des Gesetzes |
 |  | Abbildung 8Prüfzeichen nach § 25 Abs. 2 für Geräte nach § 24 Abs. 1. Die Zahl im kleineren Quadrat bezeichnet die zwei letzten Ziffern der Jahreszahl, die einstellige Zahl in Richtung der Laufmündung das Quartal. |
 |  |  |
-| Abbildung 9 Prüfzeichen der Beschaffungsstellen für die Bundeswehr, der Bundespolizei und die Bereitschaftspolizeien der Länder (§ 9 Abs. 1 Satz 2) |
+| Abbildung 9 Prüfzeichen der Beschaffungsstellen für die Bundeswehr, der Bundespolizei und die Bereitschaftspolizeien der Länder (§ 9 Abs. 1 Satz 3) |
 |  | Beschussbei Schusswaffen, die vom Bundesamt für Wehrtechnik und Beschaffung beschossen wurden |
 |  | Erstbeschussbei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde beschossen wurden |
 |  | Instandsetzungsbeschussbei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde erneut beschossen wurden |

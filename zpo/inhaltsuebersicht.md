@@ -195,9 +195,10 @@
 | § 129 | Vorbereitende Schriftsätze |
 | § 129a | Anträge und Erklärungen zu Protokoll |
 | § 130 | Inhalt der Schriftsätze |
-| § 130a | Elektronisches Dokument |
+| § 130a | Elektronisches Dokument; Verordnungsermächtigung |
 | § 130b | Gerichtliches elektronisches Dokument |
 | § 130c | Formulare; Verordnungsermächtigung |
+| § 130d | Nutzungspflicht für Rechtsanwälte und Behörden |
 | § 131 | Beifügung von Urkunden |
 | § 132 | Fristen für Schriftsätze |
 | § 133 | Abschriften |
@@ -247,10 +248,10 @@
 | § 170 | Zustellung an Vertreter |
 | § 171 | Zustellung an Bevollmächtigte |
 | § 172 | Zustellung an Prozessbevollmächtigte |
-| § 173 | Zustellung durch Aushändigung an der Amtsstelle |
-| § 174 | Zustellung gegen Empfangsbekenntnis oder automatisierte Eingangsbestätigung |
-| § 175 | Zustellung durch Einschreiben mit Rückschein |
-| § 176 | Zustellungsauftrag |
+| § 173 | Zustellung von elektronischen Dokumenten |
+| § 174 | Zustellung durch Aushändigung an der Amtsstelle |
+| § 175 | Zustellung von Schriftstücken gegen Empfangsbekenntnis |
+| § 176 | Zustellung durch Einschreiben mit Rückschein; Zustellungsauftrag |
 | § 177 | Ort der Zustellung |
 | § 178 | Ersatzzustellung in der Wohnung, in Geschäftsräumen und Einrichtungen |
 | § 179 | Zustellung bei verweigerter Annahme |
@@ -270,7 +271,8 @@
 |  | Zustellungen auf Betreiben der Parteien |
 | § 191 | Zustellung |
 | § 192 | Zustellung durch Gerichtsvollzieher |
-| § 193 | Ausführung der Zustellung |
+| § 193 | Zustellung von Schriftstücken |
+| § 193a | Zustellung von elektronischen Dokumenten |
 | § 194 | Zustellungsauftrag |
 | § 195 | Zustellung von Anwalt zu Anwalt |
 | §§ 195a bis 213a | (weggefallen) |
@@ -762,7 +764,7 @@
 | § 613 | Bindungswirkung des Musterfeststellungsurteils; Aussetzung |
 | § 614 | Rechtsmittel |
 | § 615 bis 687 | (weggefallen) |
-|  |  |
+|  |
 | Buch 7 |
 | Mahnverfahren |
 | § 688 | Zulässigkeit |
@@ -849,6 +851,7 @@
 | § 755 | Ermittlung des Aufenthaltsorts des Schuldners |
 | § 756 | Zwangsvollstreckung bei Leistung Zug um Zug |
 | § 757 | Übergabe des Titels und Quittung |
+| § 757a | Auskunfts- und Unterstützungsersuchen |
 | § 758 | Durchsuchung; Gewaltanwendung |
 | § 758a | Richterliche Durchsuchungsanordnung; Vollstreckung zur Unzeit |
 | § 759 | Zuziehung von Zeugen |
@@ -917,7 +920,7 @@
 | § 802a | Grundsätze der Vollstreckung; Regelbefugnisse des Gerichtsvollziehers |
 | § 802b | Gütliche Erledigung; Vollstreckungsaufschub bei Zahlungsvereinbarung |
 | § 802c | Vermögensauskunft des Schuldners |
-| § 802d | Erneute Vermögensauskunft |
+| § 802d | Weitere Vermögensauskunft |
 | § 802e | Zuständigkeit |
 | § 802f | Verfahren zur Abnahme der Vermögensauskunft |
 | § 802g | Erzwingungshaft |
@@ -945,12 +948,11 @@
 | § 808 | Pfändung beim Schuldner |
 | § 809 | Pfändung beim Gläubiger oder bei Dritten |
 | § 810 | Pfändung ungetrennter Früchte |
-| § 811 | Unpfändbare Sachen |
+| § 811 | Unpfändbare Sachen und Tiere |
 | § 811a | Austauschpfändung |
 | § 811b | Vorläufige Austauschpfändung |
-| § 811c | Unpfändbarkeit von Haustieren |
-| § 811d | Vorwegpfändung |
-| § 812 | Pfändung von Hausrat |
+| § 811c | Vorwegpfändung |
+| § 812 | (weggefallen) |
 | § 813 | Schätzung |
 | § 813a | (weggefallen) |
 | § 813b | (weggefallen) |

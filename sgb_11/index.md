@@ -103,6 +103,10 @@ Kurzzeitpflege
 
 - [§ 43b Inhalt der Leistung](0043b.md)
 
+#### Sechster Titel Pflegebedingter Eigenanteil bei vollstationärer Pflege
+
+- [§ 43c Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen](0043c.md)
+
 ### Vierter Abschnitt Leistungen für Pflegepersonen
 
 - [§ 44 Leistungen zur sozialen Sicherung der Pflegepersonen](0044.md)
@@ -171,14 +175,17 @@ Verbandsaufgaben
 
 - [§ 61 Beitragszuschüsse für freiwillige Mitglieder der gesetzlichen Krankenversicherung und Privatversicherte](0061.md)
 
-### Dritter Abschnitt Verwendung und Verwaltung
-der Mittel
+### Dritter Abschnitt Bundesmittel
+
+- [§ 61a Beteiligung des Bundes an Aufwendungen](0061a.md)
+
+### Vierter Abschnitt Verwendung und Verwaltung der Mittel
 
 - [§ 62 Mittel der Pflegekasse](0062.md)
 - [§ 63 Betriebsmittel](0063.md)
 - [§ 64 Rücklage](0064.md)
 
-### Vierter Abschnitt Ausgleichsfonds, Finanzausgleich
+### Fünfter Abschnitt Ausgleichsfonds, Finanzausgleich
 
 - [§ 65 Ausgleichsfonds](0065.md)
 - [§ 66 Finanzausgleich](0066.md)

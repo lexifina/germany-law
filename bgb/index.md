@@ -469,7 +469,37 @@ erbrachter Leistung](0281.md)
 - [§ 324 Rücktritt wegen Verletzung einer Pflicht nach § 241 Abs. 2](0324.md)
 - [§ 325 Schadensersatz und Rücktritt](0325.md)
 - [§ 326 Befreiung von der Gegenleistung und Rücktritt beim Ausschluss der Leistungspflicht](0326.md)
-- [§ 327](0327.md)
+
+#### Titel 2a Verträge über digitale Produkte
+
+
+##### Untertitel 1 Verbraucherverträge über digitale Produkte
+
+- [§ 327 Anwendungsbereich](0327.md)
+- [§ 327a Anwendung auf Paketverträge und Verträge über Sachen mit digitalen Elementen](0327a.md)
+- [§ 327b Bereitstellung digitaler Produkte](0327b.md)
+- [§ 327c Rechte bei unterbliebener Bereitstellung](0327c.md)
+- [§ 327d Vertragsmäßigkeit digitaler Produkte](0327d.md)
+- [§ 327e Produktmangel](0327e.md)
+- [§ 327f Aktualisierungen](0327f.md)
+- [§ 327g Rechtsmangel](0327g.md)
+- [§ 327h Abweichende Vereinbarungen über Produktmerkmale](0327h.md)
+- [§ 327i Rechte des Verbrauchers bei Mängeln](0327i.md)
+- [§ 327j Verjährung](0327j.md)
+- [§ 327k Beweislastumkehr](0327k.md)
+- [§ 327l Nacherfüllung](0327l.md)
+- [§ 327m Vertragsbeendigung und Schadensersatz](0327m.md)
+- [§ 327n Minderung](0327n.md)
+- [§ 327o Erklärung und Rechtsfolgen der Vertragsbeendigung](0327o.md)
+- [§ 327p Weitere Nutzung nach Vertragsbeendigung](0327p.md)
+- [§ 327q Vertragsrechtliche Folgen datenschutzrechtlicher Erklärungen des Verbrauchers](0327q.md)
+- [§ 327r Änderungen an digitalen Produkten](0327r.md)
+- [§ 327s Abweichende Vereinbarungen](0327s.md)
+
+##### Untertitel 2 Besondere Bestimmungen für Verträge über digitale Produkte zwischen Unternehmern
+
+- [§ 327t Anwendungsbereich](0327t.md)
+- [§ 327u Rückgriff des Unternehmers](0327u.md)
 
 #### Titel 3 Versprechen der Leistung an einen Dritten
 
@@ -647,6 +677,7 @@ erbrachter Leistung](0281.md)
 - [§ 445 Haftungsbegrenzung bei öffentlichen Versteigerungen](0445.md)
 - [§ 445a Rückgriff des Verkäufers](0445a.md)
 - [§ 445b Verjährung von Rückgriffsansprüchen](0445b.md)
+- [§ 445c Rückgriff bei Verträgen über digitale Produkte](0445c.md)
 - [§ 446 Gefahr- und Lastenübergang](0446.md)
 - [§ 447 Gefahrübergang beim Versendungskauf](0447.md)
 - [§ 448 Kosten der Übergabe und vergleichbare Kosten](0448.md)
@@ -654,7 +685,7 @@ erbrachter Leistung](0281.md)
 - [§ 450 Ausgeschlossene Käufer bei bestimmten Verkäufen](0450.md)
 - [§ 451 Kauf durch ausgeschlossenen Käufer](0451.md)
 - [§ 452 Schiffskauf](0452.md)
-- [§ 453 Rechtskauf](0453.md)
+- [§ 453 Rechtskauf; Verbrauchervertrag über den Kauf digitaler Inhalte](0453.md)
 
 ##### Untertitel 2 Besondere Arten des Kaufs
 
@@ -692,6 +723,11 @@ erbrachter Leistung](0281.md)
 
 - [§ 474 Verbrauchsgüterkauf](0474.md)
 - [§ 475 Anwendbare Vorschriften](0475.md)
+- [§ 475a Verbrauchsgüterkaufvertrag über digitale Produkte](0475a.md)
+- [§ 475b Sachmangel einer Ware mit digitalen Elementen](0475b.md)
+- [§ 475c Sachmangel einer Ware mit digitalen Elementen bei dauerhafter Bereitstellung der digitalen Elemente](0475c.md)
+- [§ 475d Sonderbestimmungen für Rücktritt und Schadensersatz](0475d.md)
+- [§ 475e Sonderbestimmungen für die Verjährung](0475e.md)
 - [§ 476 Abweichende Vereinbarungen](0476.md)
 - [§ 477 Beweislastumkehr](0477.md)
 - [§ 478 Sonderbestimmungen für den Rückgriff des Unternehmers](0478.md)
@@ -782,6 +818,7 @@ erbrachter Leistung](0281.md)
 #### Titel 4 Schenkung
 
 - [§ 516 Begriff der Schenkung](0516.md)
+- [§ 516a Verbrauchervertrag über die Schenkung digitaler Produkte](0516a.md)
 - [§ 517 Unterlassen eines Vermögenserwerbs](0517.md)
 - [§ 518 Form des Schenkungsversprechens](0518.md)
 - [§ 519 Einrede des Notbedarfs](0519.md)
@@ -825,6 +862,7 @@ erbrachter Leistung](0281.md)
 - [§ 546a Entschädigung des Vermieters bei verspäteter Rückgabe](0546a.md)
 - [§ 547 Erstattung von im Voraus entrichteter Miete](0547.md)
 - [§ 548 Verjährung der Ersatzansprüche und des Wegnahmerechts](0548.md)
+- [§ 548a Miete digitaler Produkte](0548a.md)
 
 ##### Untertitel 2 Mietverhältnisse über Wohnraum
 
@@ -952,10 +990,11 @@ Wohnungseigentum an vermieteten Wohnungen
 - [§ 577 Vorkaufsrecht des Mieters](0577.md)
 - [§ 577a Kündigungsbeschränkung bei Wohnungsumwandlung](0577a.md)
 
-##### Untertitel 3 Mietverhältnisse über andere Sachen
+##### Untertitel 3 Mietverhältnisse über andere Sachen und digitale Produkte
 
 - [§ 578 Mietverhältnisse über Grundstücke und Räume](0578.md)
 - [§ 578a Mietverhältnisse über eingetragene Schiffe](0578a.md)
+- [§ 578b Verträge über die Miete digitaler Produkte](0578b.md)
 - [§ 579 Fälligkeit der Miete](0579.md)
 - [§ 580 Außerordentliche Kündigung bei Tod des Mieters](0580.md)
 - [§ 580a Kündigungsfristen](0580a.md)
@@ -1100,7 +1139,7 @@ bisherigen Nutzung](0590.md)
 - [§ 648 Kündigungsrecht des Bestellers](0648.md)
 - [§ 648a Kündigung aus wichtigem Grund](0648a.md)
 - [§ 649 Kostenanschlag](0649.md)
-- [§ 650 Anwendung des Kaufrechts](0650.md)
+- [§ 650 Werklieferungsvertrag; Verbrauchervertrag über die Herstellung digitaler Produkte](0650.md)
 
 ##### Kapitel 2 Bauvertrag
 

@@ -50,7 +50,7 @@
 - [§ 24 Anforderungen an Aufzeichnungsanschlüsse](0024.md)
 - [§ 25 (weggefallen)](0025.md)
 
-## Teil 3 Maßnahmen nach den §§ 5 und 8 des Artikel 10-Gesetzes und den §§ 6, 12 und 14 des BND-Gesetzes
+## Teil 3 Maßnahmen nach den §§ 5 und 8 des Artikel 10-Gesetzes und den §§ 19, 24 und 26 des BND-Gesetzes
 
 - [§ 26 Kreis der Verpflichteten](0026.md)
 - [§ 27 Grundsätze, technische und organisatorische Umsetzung von Anordnungen, Verschwiegenheit](0027.md)

@@ -90,6 +90,7 @@ Klagevoraussetzungen, Klageverzicht
 - [§ 52a](0052a.md)
 - [§ 52b](0052b.md)
 - [§ 52c Formulare; Verordnungsermächtigung](0052c.md)
+- [§ 52d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen](0052d.md)
 - [§ 53](0053.md)
 - [§ 54](0054.md)
 - [§ 55](0055.md)

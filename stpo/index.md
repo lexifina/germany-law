@@ -55,7 +55,7 @@
 - [§ 32a Elektronischer Rechtsverkehr mit Strafverfolgungsbehörden und Gerichten; Verordnungsermächtigungen](0032a.md)
 - [§ 32b Erstellung und Übermittlung strafverfolgungsbehördlicher und gerichtlicher elektronischer Dokumente; Verordnungsermächtigung](0032b.md)
 - [§ 32c Elektronische Formulare; Verordnungsermächtigung](0032c.md)
-- [§ 32d (zukünftig in Kraft)](0032d.md)
+- [§ 32d Pflicht zur elektronischen Übermittlung](0032d.md)
 - [§ 32e Übertragung von Dokumenten zu Aktenführungszwecken](0032e.md)
 - [§ 32f Form der Gewährung von Akteneinsicht; Verordnungsermächtigung](0032f.md)
 

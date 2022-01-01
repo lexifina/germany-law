@@ -98,6 +98,7 @@ Verfahrensvorschriften
 - [§ 65a](0065a.md)
 - [§ 65b](0065b.md)
 - [§ 65c Formulare; Verordnungsermächtigung](0065c.md)
+- [§ 65d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen](0065d.md)
 - [§ 66](0066.md)
 - [§ 67](0067.md)
 - [§ 68](0068.md)

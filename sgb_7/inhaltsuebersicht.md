@@ -409,7 +409,7 @@
 | § 219a | Altersrückstellungen |
 | § 220 | Ausgleich unter den gewerblichen Berufsgenossenschaften |
 | § 221 | Besondere Vorschriften für die landwirtschaftliche Unfallversicherung |
-| § 221a | Übermittlung von Daten durch die landwirtschaftliche Berufsgenossenschaft |
+| § 221a | (weggefallen) |
 | § 221b | Übergangszeit und Beitragsangleichung in der landwirtschaftlichen Unfallversicherung |
 |  |
 | Elftes Kapitel |

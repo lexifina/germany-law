@@ -5,6 +5,7 @@
 - [§ 3 Erhebung der Abfallentsorgung](0003.md)
 - [§ 4 Erhebung der Abfälle, über die Nachweise zu führen sind](0004.md)
 - [§ 5 Erhebung der Entsorgung bestimmter Abfälle](0005.md)
+- [§ 5a Erhebung des Inverkehrbringens und der Entsorgung bestimmter Erzeugnisse](0005a.md)
 - [§ 6 Aufbereitung und Veröffentlichung der abfallstatistischen Erhebungen](0006.md)
 - [§ 7 Erhebung der öffentlichen Wasserversorgung und der öffentlichen Abwasserentsorgung](0007.md)
 - [§ 8 Erhebung der nichtöffentlichen Wasserversorgung und der nichtöffentlichen Abwasserentsorgung](0008.md)

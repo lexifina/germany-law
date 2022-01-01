@@ -14,6 +14,7 @@
 - [§ 5 Einrichten der Gemeinsamen Stelle](0005.md)
 - [§ 6 Registrierung](0006.md)
 - [§ 7 Finanzierungsgarantie](0007.md)
+- [§ 7a Rücknahmekonzept](0007a.md)
 - [§ 8 Niederlassungspflicht, Beauftragung und Benennung eines Bevollmächtigten](0008.md)
 - [§ 9 Kennzeichnung](0009.md)
 
@@ -30,11 +31,14 @@
 - [§ 15 Aufstellen von Behältnissen durch die Hersteller oder deren Bevollmächtigte](0015.md)
 - [§ 16 Rücknahmepflicht der Hersteller](0016.md)
 - [§ 17 Rücknahmepflicht der Vertreiber](0017.md)
+- [§ 17a Rücknahme durch zertifizierte Erstbehandlungsanlagen](0017a.md)
+- [§ 17b Kooperation zwischen öffentlich-rechtlichen Entsorgungsträgern und zertifizierten Erstbehandlungsanlagen](0017b.md)
 - [§ 18 Informationspflichten gegenüber den privaten Haushalten](0018.md)
 
 ### Unterabschnitt 2 Rücknahme von Altgeräten anderer Nutzer als privater Haushalte
 
 - [§ 19 Rücknahme durch den Hersteller](0019.md)
+- [§ 19a Informationspflichten der Hersteller](0019a.md)
 
 ## Abschnitt 4 Behandlungs- und Verwertungspflichten, Verbringung
 
@@ -46,12 +50,12 @@
 
 ## Abschnitt 5 Anzeige-, Mitteilungs- und Informationspflichten
 
-- [§ 25 Anzeigepflichten der öffentlich-rechtlichen Entsorgungsträger, der Hersteller sowie deren Bevollmächtigter, der Vertreiber und der Betreiber von Erstbehandlungsanlagen](0025.md)
+- [§ 25 Anzeigepflichten der öffentlich-rechtlichen Entsorgungsträger und der Betreiber von Erstbehandlungsanlagen](0025.md)
 - [§ 26 Mitteilungspflichten der öffentlich-rechtlichen Entsorgungsträger](0026.md)
 - [§ 27 Mitteilungspflichten der Hersteller](0027.md)
-- [§ 28 Informationspflichten der Hersteller](0028.md)
+- [§ 28 Informationspflichten der Hersteller gegenüber Wiederverwendungseinrichtungen und Behandlungsanlagen](0028.md)
 - [§ 29 Mitteilungspflichten der Vertreiber](0029.md)
-- [§ 30 Mitteilungspflichten der entsorgungspflichtigen Besitzer nach § 19](0030.md)
+- [§ 30 Mitteilungspflichten der Betreiber von Erstbehandlungsanlagen](0030.md)
 
 ## Abschnitt 6 Gemeinsame Stelle
 
@@ -66,6 +70,7 @@
 - [§ 36 Zuständige Behörde](0036.md)
 - [§ 37 Aufgaben der zuständigen Behörde im Zusammenhang mit der Registrierung](0037.md)
 - [§ 38 Weitere Aufgaben der zuständigen Behörde](0038.md)
+- [§ 38a Vollständig automatisierter Erlass von Verwaltungsakten](0038a.md)
 - [§ 39 Zusammenarbeit mit anderen Behörden](0039.md)
 
 ## Abschnitt 8 Beleihung
@@ -80,9 +85,10 @@
 - [§ 44 Widerspruch und Klage](0044.md)
 - [§ 45 Bußgeldvorschriften](0045.md)
 - [§ 46 Übergangsvorschriften](0046.md)
-- [Anlage 1 (zu § 2 Absatz 1)](anlage-1.md)
-- [Anlage 2 (zu § 6 Absatz 1)](anlage-2.md)
+- [Anlage 1 (zu § 2 Absatz 1)Nicht abschließende Liste mit Elektro- und Elektronikgeräten, die unter die Kategorien des § 2 Absatz 1 fallen](anlage-1.md)
+- [Anlage 2 (zu § 6 Absatz 1)Angaben bei der Registrierung](anlage-2.md)
 - [Anlage 3 (zu § 9 Absatz 2)](anlage-3.md)
-- [Anlage 4 (zu § 20 Absatz 2)](anlage-4.md)
-- [Anlage 5 (zu § 20 Absatz 2 Satz 4)](anlage-5.md)
+- [Anlage 4 (zu § 20 Absatz 2 Satz 4)Technische Anforderungen an Standorte für die Lagerung und Behandlung von Altgeräten](anlage-4.md)
+- [Anlage 5 (zu § 21 Absatz 3 Nummer 3 und Absatz 4 Nummer 3)Behandlungskonzept](anlage-5.md)
+- [Anlage 5a (zu § 21 Absatz 3 Nummer 4 und Absatz 4 Satz 2)Betriebstagebuch](anlage-5a.md)
 - [Anlage 6 (zu § 23 Absatz 1)](anlage-6.md)

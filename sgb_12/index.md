@@ -66,6 +66,7 @@
 - [§ 34 Bedarfe für Bildung und Teilhabe](0034.md)
 - [§ 34a Erbringung der Leistungen für Bildung und Teilhabe](0034a.md)
 - [§ 34b Berechtigte Selbsthilfe](0034b.md)
+- [§ 34c Zuständigkeit](0034c.md)
 
 ### Vierter Abschnitt Bedarfe für Unterkunft und Heizung
 

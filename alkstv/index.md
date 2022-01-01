@@ -46,7 +46,7 @@
 - [§ 40 Ersatznachweise für die Beendigung der Beförderung](0040.md)
 - [§ 41 Art und Höhe der Sicherheitsleistung](0041.md)
 - [§ 42 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung](0042.md)
-- [§ 43 In einer Abfindungsbrennerei unter Steueraussetzung gewonnener Alkohol](0043.md)
+- [§ 43 (weggefallen)](0043.md)
 - [§ 44 Steueranmeldung](0044.md)
 - [§ 45 Kleinbetragsregelung](0045.md)
 - [§ 46 Anmeldung der Alkoholerzeugnisse](0046.md)

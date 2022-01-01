@@ -562,9 +562,16 @@
 ## Kapitel 7 Europäische langfristige Investmentfonds
 
 - [§ 338a Europäische langfristige Investmentfonds](0338a.md)
+
+## Kapitel 8 Geldmarktfonds
+
 - [§ 338b Geldmarktfonds](0338b.md)
 
-## Kapitel 8 Straf-, Bußgeld- und Übergangsvorschriften
+## Kapitel 9 Paneuropäisches Privates Pensionsprodukt (PEPP)
+
+- [§ 338c Anzuwendende Vorschriften](0338c.md)
+
+## Kapitel 10 Straf-, Bußgeld- und Übergangsvorschriften
 
 
 ### Abschnitt 1 Straf- und Bußgeldvorschriften

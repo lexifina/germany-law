@@ -49,9 +49,9 @@
 - [§ 31 Verordnungsermächtigung zu den Mitteilungspflichten nach der Verordnung (EU) Nr. 648/2012](0031.md)
 - [§ 32 Prüfung der Einhaltung bestimmter Pflichten der Verordnung (EU) Nr. 648/2012 und der Verordnung (EU) Nr. 600/2014](0032.md)
 
-## Abschnitt 5a
+## Abschnitt 5a Paneuropäisches Privates Pensionsprodukt (PEPP)
 
-- [§ 32a (zukünftig in Kraft)](0032a.md)
+- [§ 32a Zuständigkeit im Sinne der Verordnung (EU) 2019/1238](0032a.md)
 
 ## Abschnitt 5b Schwarmfinanzierungsdienstleister
 
@@ -100,11 +100,10 @@
 
 ## Abschnitt 10 Organisationspflichten von Datenbereitstellungsdiensten
 
-- [§ 58 Organisationspflichten für genehmigte Veröffentlichungssysteme](0058.md)
-- [§ 59 Organisationspflichten für Bereitsteller konsolidierter Datenticker](0059.md)
-- [§ 60 Organisationspflichten für genehmigte Meldemechanismen](0060.md)
-- [§ 61 Überwachung der Organisationspflichten](0061.md)
-- [§ 62 Prüfung der Organisationspflichten; Verordnungsermächtigung](0062.md)
+- [§ 58 Hinweisgeberverfahren](0058.md)
+- [§ 59 Überwachung der Organisationspflichten](0059.md)
+- [§ 60 Prüfung der Organisationspflichten; Verordnungsermächtigung](0060.md)
+- [(XXXX) §§ 61 und 62 (weggefallen)](xxxx-61-und-62.md)
 
 ## Abschnitt 11 Verhaltenspflichten, Organisationspflichten, Transparenzpflichten
 
@@ -174,12 +173,14 @@
 
 - [§ 106 Prüfung von Unternehmensabschlüssen und -berichten](0106.md)
 - [§ 107 Anordnung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt](0107.md)
-- [§ 108 Befugnisse der Bundesanstalt im Falle der Anerkennung einer Prüfstelle](0108.md)
-- [§ 109 Ergebnis der Prüfung von Bundesanstalt oder Prüfstelle](0109.md)
+- [§ 108 (weggefallen)](0108.md)
+- [§ 109 Ergebnis der Prüfung der Bundesanstalt](0109.md)
+- [§ 109a Informationsaustausch, Befreiung von Verschwiegenheitspflichten](0109a.md)
 - [§ 110 Mitteilungen an andere Stellen](0110.md)
 - [§ 111 Internationale Zusammenarbeit](0111.md)
 - [§ 112 Widerspruchsverfahren](0112.md)
 - [§ 113 Beschwerde](0113.md)
+- [§ 113a Evaluierung](0113a.md)
 
 ### Unterabschnitt 2 Veröffentlichung und Übermittlung von Finanzberichten an das Unternehmensregister
 
@@ -192,8 +193,9 @@
 ## Abschnitt 17 Straf- und Bußgeldvorschriften
 
 - [§ 119 Strafvorschriften](0119.md)
+- [§ 119a Strafvorschriften](0119a.md)
 - [§ 120 Bußgeldvorschriften; Verordnungsermächtigung](0120.md)
-- [§ 120a (zukünftig in Kraft)](0120a.md)
+- [§ 120a Bußgeldvorschriften zur Verordnung (EU) 2019/1238](0120a.md)
 - [§ 120b Bußgeldvorschriften zur Verordnung (EU) 2020/1503](0120b.md)
 - [§ 121 Zuständige Verwaltungsbehörde](0121.md)
 - [§ 122 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen](0122.md)

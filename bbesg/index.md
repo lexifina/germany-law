@@ -123,7 +123,7 @@
 
 - [§ 69 Dienstkleidung und Unterkunft für Soldaten](0069.md)
 - [§ 69a Heilfürsorge für Soldaten](0069a.md)
-- [§ 70 Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte der Bundespolizei](0070.md)
+- [§ 70 Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte des Bundes](0070.md)
 - [§ 70a Dienstkleidung für Beamte](0070a.md)
 
 ## Abschnitt 9 Übergangs- und Schlussvorschriften
@@ -139,7 +139,7 @@
 - [§ 77a Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes](0077a.md)
 - [§ 78 Übergangsregelung für Beamte bei den Postnachfolgeunternehmen](0078.md)
 - [§ 79 (weggefallen)](0079.md)
-- [§ 80 Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte der Bundespolizei](0080.md)
+- [§ 80 Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte des Bundes](0080.md)
 - [§ 80a Übergangsregelung für Verpflichtungsprämien für Soldaten auf Zeit aus Anlass des Bundeswehrreform-Begleitgesetzes](0080a.md)
 - [§ 80b Übergangsregelung zum Auslandsverwendungszuschlag](0080b.md)
 - [§ 81 Übergangsregelungen bei Zulagenänderungen aus Anlass des Versorgungsreformgesetzes 1998](0081.md)

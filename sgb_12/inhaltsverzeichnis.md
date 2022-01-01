@@ -64,6 +64,7 @@
 | § 34 | Bedarfe für Bildung und Teilhabe |
 | § 34a | Erbringung der Leistungen für Bildung und Teilhabe |
 | § 34b | Berechtigte Selbsthilfe |
+| § 34c | Zuständigkeit |
 |  |
 |  | Vierter Abschnitt |
 |  | Bedarfe für Unterkunft und Heizung |
@@ -106,6 +107,7 @@
 | § 44b | Aufrechnung, Verrechnung |
 | § 44c | Erstattungsansprüche zwischen Trägern |
 | § 45 | Feststellung der dauerhaften vollen Erwerbsminderung |
+| § 45a | Ermittlung der durchschnittlichen Warmmiete |
 | § 46 | Zusammenarbeit mit den Trägern der Rentenversicherung |
 |  |
 |  | Dritter Abschnitt |

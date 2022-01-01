@@ -63,10 +63,8 @@
 
 #### Unterabschnitt 1 Registrierung
 
-- [§ 32 Antrag auf Registrierung](0032.md)
-- [§ 33 Vornahme der Registrierung](0033.md)
-- [§ 34 Inhalt der Registrierung](0034.md)
-- [§ 35 Erlöschen der Registrierung](0035.md)
+- [§ 32 Registrierung von Validierungs- und Verifizierungsstellen](0032.md)
+- [(XXXX) §§ 33 bis 35 (weggefallen)](xxxx-33-bis-35.md)
 - [§ 36 Widerruf und Rücknahme der Registrierung](0036.md)
 
 #### Unterabschnitt 2 Aufgaben

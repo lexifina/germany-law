@@ -577,7 +577,7 @@ Beschäftigte](0198.md)
 - [§ 200 Meldepflichten bei sonstigen versicherungspflichtigen Personen](0200.md)
 - [§ 201 Meldepflichten bei Rentenantragstellung und Rentenbezug](0201.md)
 - [§ 202 Meldepflichten bei Versorgungsbezügen](0202.md)
-- [§ 203 Meldepflichten bei Bezug von Erziehungsgeld oder Elterngeld](0203.md)
+- [§ 203 Meldepflichten bei Leistung von Mutterschaftsgeld, Elterngeld oder Erziehungsgeld](0203.md)
 - [§ 203a Meldepflicht bei Bezug von Arbeitslosengeld,
 Arbeitslosengeld II oder Unterhaltsgeld](0203a.md)
 - [§ 204 Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst](0204.md)

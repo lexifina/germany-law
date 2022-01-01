@@ -249,10 +249,12 @@
 ## Achter Abschnitt Elektronisches Antrags- und Bescheinigungsverfahren
 
 - [§ 106 Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Beschäftigung nach Artikel 11 Absatz 3 Buchstabe b, Absatz 4, 5, Artikel 12 Absatz 1, Artikel 13 Absatz 1 Buchstabe a oder Buchstabe b Ziffer i und Artikel 16 der Verordnung (EG) Nr. 883/2004](0106.md)
+- [§ 106a Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei selbständiger Erwerbstätigkeit nach Artikel 11 Absatz 4 und Artikel 12 Absatz 2 der Verordnung (EG) Nr. 883/2004](0106a.md)
 - [§ 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen](0107.md)
 - [§ 108 Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger](0108.md)
 - [§ 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0108a.md)
-- [(XXXX) §§ 109 und 110 (weggefallen)](xxxx-109-und-110.md)
+- [§ 109 zukünftig in Kraft](0109.md)
+- [§ 110 (weggefallen)](0110.md)
 
 ## Neunter Abschnitt Aufbewahrung von Unterlagen
 
@@ -279,6 +281,7 @@
 - [§ 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen](0121.md)
 - [§ 123 Übergangsregelung zur Struktur der Einrichtungen](0123.md)
 - [§ 124 Übergangsregelung für das Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0124.md)
+- [§ 125 Pilotprojekt zur Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber](0125.md)
 - [§ 127 Bericht über die Untersuchung zur strukturierten Übermittlung der Daten für die elektronisch unterstützte Prüfung bei den Arbeitgebern](0127.md)
 - [§ 128 Außerordentliche Hemmung der Verjährung](0128.md)
 - [§ 129 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023](0129.md)

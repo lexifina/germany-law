@@ -112,7 +112,7 @@ Abschnitt 7
 Abschnitt 8
 Dienstkleidung, Heilfürsorge, Unterkunft
 | § 69 | Dienstkleidung, Heilfürsorge, Unterkunft für Soldaten |
-| § 70 | Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte der Bundespolizei |
+| § 70 | Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte des Bundes |
 | § 70a | Dienstkleidung für Beamte |
 Abschnitt 9
 Übergangs- und Schlussvorschriften
@@ -126,7 +126,7 @@ Abschnitt 9
 | § 77 | Übergangsvorschrift aus Anlass des Professorenbesoldungsreformgesetzes |
 | § 77a | Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes |
 | § 78 | Übergangsregelung für Beamte bei den Postnachfolgeunternehmen |
-| § 80 | Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte der Bundespolizei |
+| § 80 | Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte des Bundes |
 | § 80a | Übergangsregelung für Verpflichtungsprämien für Soldaten auf Zeit aus Anlass des Bundeswehrreform-Begleitgesetzes |
 | § 80b | Übergangsregelung zum Auslandsverwendungszuschlag |
 | § 81 | Übergangsregelungen bei Zulagenänderungen aus Anlass des Versorgungsreformgesetzes 1998 |

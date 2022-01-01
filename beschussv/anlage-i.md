@@ -314,7 +314,7 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
 5.4.2 Der von der Patronenmunition entwickelte Gasdruck darf den zulässigen Maximaldruck nicht überschreiten.
 6 Technische Anforderungen an umgebaute Schusswaffen nach § 9 Absatz 1 des Gesetzes
 6.1 Definition
-Schusswaffen im Sinne von § 9 Absatz 1 des Gesetzes in Verbindung mit Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 des Waffengesetzes sind veränderte Langwaffen für Zier- oder Sammlerzwecke, zu Theateraufführungen, Film- oder Fernsehaufnahmen, die nur Kartuschenmunition verschießen können.
+Schusswaffen im Sinne von § 9 Absatz 1 des Gesetzes in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.5.1 des Waffengesetzes sind veränderte Langwaffen für Zier- oder Sammlerzwecke, zu Theateraufführungen, Film- oder Fernsehaufnahmen, die nur Kartuschenmunition verschießen können.
 6.2 Umbau-/Abänderungs- und Prüfvorschriften für Schusswaffen nach Nummer 6.1
 6.2.1 Schusswaffen sind so abzuändern oder auszuführen, dass
   – das Patronenlager dauerhaft so verändert ist, damit sich außer Kartuschenmunition nach der Tabelle 5 der Maßtafeln keine sonstige Patronen-, pyrotechnische Munition oder Treibladungen laden und abfeuern lassen,

@@ -95,6 +95,8 @@
 - [§ 53 Regelmäßige Sperrfristen](0053.md)
 - [§ 54 Ordentliche Verkürzung der Sperrfristen](0054.md)
 - [§ 55 Außerordentliche Verkürzung der Sperrfristen](0055.md)
+- [§ 55a Abweichende Regelungen über die Sperrfristen](0055a.md)
+- [§ 55b Ersetzung der regulären Erstaufführung und Fortsetzung der weiteren Kinoauswertung in Fällen höherer Gewalt](0055b.md)
 - [§ 56 Nichtanwendung der Sperrfristenregelungen](0056.md)
 - [§ 57 Verletzung der Sperrfristen](0057.md)
 - [§ 58 Ermächtigung des Verwaltungsrats](0058.md)
@@ -105,6 +107,7 @@
 ### Abschnitt 1 Projektfilmförderung
 
 - [§ 59 Förderhilfen](0059.md)
+- [§ 59a Ökologisch nachhaltige Herstellung von Filmen](0059a.md)
 - [§ 60 Art und Höhe, Mindestförderquote](0060.md)
 - [§ 61 Auswahl von Vorhaben](0061.md)
 - [§ 62 Einbeziehung von Gemeinschaftsproduktionen](0062.md)
@@ -134,9 +137,9 @@
 - [§ 77 Zuschauererfolg](0077.md)
 - [§ 78 Erfolge bei Festivals und Preise](0078.md)
 
-#### Unterabschnitt 3 Filme aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz
+#### Unterabschnitt 3 Filme aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat
 
-- [§ 79 Einbeziehung von Filmen aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz](0079.md)
+- [§ 79 Einbeziehung von Filmen aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat](0079.md)
 
 #### Unterabschnitt 4 Verfahren, Art und Höhe der Förderung
 
@@ -256,6 +259,7 @@
 - [§ 148 Erhebung der Filmabgabe](0148.md)
 - [§ 149 Fälligkeit](0149.md)
 - [§ 150 Begriffsbestimmung Kinofilm](0150.md)
+- [§ 150a Begriffsbestimmungen Nettoumsatz und Nettowerbeumsatz](0150a.md)
 
 #### Unterabschnitt 2 Filmabgabe der Kinos und der Videowirtschaft
 
@@ -267,15 +271,17 @@
 
 - [§ 154 Filmabgabe der öffentlich-rechtlichen Fernsehveranstalter](0154.md)
 - [§ 155 Filmabgabe der Veranstalter frei empfangbarer Fernsehprogramme privaten Rechts](0155.md)
-- [§ 156 Filmabgabe der Veranstalter von Bezahlfernsehen und der Programmvermarkter](0156.md)
+- [§ 156 Filmabgabe der Veranstalter von Bezahlfernsehen](0156.md)
+- [§ 156a Filmabgabe der Programmvermarkter](0156a.md)
 - [§ 157 Medialeistungen](0157.md)
 - [§ 158 Zusätzliche Leistungen der Fernsehveranstalter und Programmvermarkter](0158.md)
 
 ### Abschnitt 2 Verwendung der Einnahmen
 
-- [§ 159 Aufteilung der Einnahmen auf die Förderarten](0159.md)
+- [§ 159 Aufteilung der Einnahmen auf die Förderbereiche](0159.md)
 - [§ 160 Verwendung der Filmabgabe der Fernsehveranstalter und Programmvermarkter](0160.md)
 - [§ 161 Ermächtigung des Verwaltungsrats](0161.md)
+- [§ 161a Ausnahmsweise Umwidmung in Fällen höherer Gewalt](0161a.md)
 - [§ 162 Verwendung von Tilgungen](0162.md)
 - [§ 163 Verwendung von Rücklagen, Überschüssen und nicht verbrauchten Haushaltsmitteln](0163.md)
 

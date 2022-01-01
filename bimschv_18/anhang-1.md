@@ -65,7 +65,7 @@ und LAm,i , Kl,i und KT,i die Mittelungspegel und Zuschläge für Impulshaltigke
     Fremdgeräusche sind Geräusche am Immissionsort, die unabhängig von dem Geräusch der zu beurteilenden Anlage oder Anlagen auftreten.
     Sie sind dann als ständig vorherrschend anzusehen, wenn der Mittelungspegel des Anlagengeräusches gegebenenfalls zuzüglich der Zuschläge für Impulshaltigkeit und/oder auffällige Pegeländerungen in mehr als 95% der Nutzungszeit vom Fremdgeräusch übertroffen wird.
   1.5 Seltene Ereignisse
-    Überschreitungen der Immissionsrichtwerte durch besondere Ereignisse und Veranstaltungen gelten als selten, wenn sie an höchstens 18 Kalendertagen eines Jahres in einer Beurteilungszeit oder mehreren Beurteilungszeiten auftreten. Dies gilt unabhängig von der Zahl der einwirkenden Sportanlagen.
+    Überschreitungen der Immissionsrichtwerte gelten als selten, wenn sie an höchstens 18 Kalendertagen eines Jahres in einer Beurteilungszeit oder mehreren Beurteilungszeiten auftreten. Dies gilt unabhängig von der Zahl der einwirkenden Sportanlagen.
   1.6 Vergleich des Beurteilungspegels mit dem Immissionsrichtwert
     Der durch Prognose nach Nr. 2 ermittelte Beurteilungspegel nach Nr. 1.3.5 ist direkt mit den Immissionsrichtwerten nach § 2 der Verordnung zu vergleichen.
     Wird der Beurteilungspegel durch Messung nach Nr. 3 ermittelt, ist zum Vergleich mit den Immissionsrichtwerten nach § 2 der Verordnung der um 3 dB(A) verminderte Beurteilungspegel nach Nr. 1.3.5 heranzuziehen.

@@ -297,6 +297,7 @@
 
 - [§ 184 Zusammenarbeit der Integrationsämter und der Bundesagentur für Arbeit](0184.md)
 - [§ 185 Aufgaben des Integrationsamtes](0185.md)
+- [§ 185a Einheitliche Ansprechstellen für Arbeitgeber](0185a.md)
 - [§ 186 Beratender Ausschuss für behinderte Menschen bei dem Integrationsamt](0186.md)
 - [§ 187 Aufgaben der Bundesagentur für Arbeit](0187.md)
 - [§ 188 Beratender Ausschuss für behinderte Menschen bei der Bundesagentur für Arbeit](0188.md)

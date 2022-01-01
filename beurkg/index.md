@@ -83,7 +83,9 @@ schriftliche Verständigung nicht möglich ist](0024.md)
 
 - [§ 44 Verbindung mit Schnur und Prägesiegel](0044.md)
 - [§ 44a Änderungen in den Urkunden](0044a.md)
-- [§ 45 Aushändigung der Urschrift](0045.md)
+- [§ 44b Nachtragsbeurkundung](0044b.md)
+- [§ 45 Urschrift](0045.md)
+- [§ 45a Aushändigung der Urschrift](0045a.md)
 - [§ 46 Ersetzung der Urschrift](0046.md)
 - [§ 47 Ausfertigung](0047.md)
 - [§ 48 Zuständigkeit für die Erteilung der Ausfertigung](0048.md)
@@ -94,16 +96,17 @@ schriftliche Verständigung nicht möglich ist](0024.md)
 - [§ 53 Einreichung beim Grundbuchamt oder Registergericht](0053.md)
 - [§ 54 Rechtsmittel](0054.md)
 
-## Fünfter Abschnitt (zukünftig in Kraft)
+## Fünfter Abschnitt Verwahrung der Urkunden
 
-- [§ 55 (zukünftig in Kraft)](0055.md)
-- [§ 56 (zukünftig in Kraft)](0056.md)
+- [§ 55 Verzeichnis und Verwahrung der Urkunden](0055.md)
+- [§ 56 Übertragung der Papierdokumente in die elektronische Form; Einstellung der elektronischen Dokumente in die elektronische Urkundensammlung](0056.md)
 
 ## Sechster Abschnitt Verwahrung
 
 - [§ 57 Antrag auf Verwahrung](0057.md)
 - [§ 58 Durchführung der Verwahrung](0058.md)
 - [§ 59 Verordnungsermächtigung](0059.md)
+- [§ 59a Verwahrungsverzeichnis](0059a.md)
 - [§ 60 Widerruf](0060.md)
 - [§ 61 Absehen von Auszahlung](0061.md)
 - [§ 62 Verwahrung von Wertpapieren und Kostbarkeiten](0062.md)
@@ -151,7 +154,7 @@ schriftliche Verständigung nicht möglich ist](0024.md)
 
 - [§ 75 (weggefallen)](0075.md)
 
-### 3. Inkrafttreten
+### 3. Übergangsvorschrift
 
-- [§ 76](0076.md)
+- [§ 76 Übergangsvorschrift zur Einführung des Elektronischen Urkundenarchivs](0076.md)
 - [Schlußformel](schlussformel.md)

@@ -42,7 +42,7 @@
 - [§ 20 Befugnisse der Behörde](0020.md)
 - [§ 21 Ordnungswidrigkeiten](0021.md)
 - [§ 22 Unterrichtung](0022.md)
-- [§ 23](0023.md)
+- [§ 23 Anwendungsbestimmungen](0023.md)
 - [§ 24 Inkrafttreten](0024.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage 1 (zu § 6)](anlage-1.md)

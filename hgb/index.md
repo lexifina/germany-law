@@ -650,13 +650,6 @@ Rechnungslegungsbeirat
 - [§ 342 Privates Rechnungslegungsgremium](0342.md)
 - [§ 342a Rechnungslegungsbeirat](0342a.md)
 
-### Sechster Abschnitt Prüfstelle für Rechnungslegung
-
-- [§ 342b Prüfstelle für Rechnungslegung](0342b.md)
-- [§ 342c Verschwiegenheitspflicht](0342c.md)
-- [§ 342d Finanzierung der Prüfstelle](0342d.md)
-- [§ 342e Bußgeldvorschriften](0342e.md)
-
 ## Viertes Buch Handelsgeschäfte
 
 

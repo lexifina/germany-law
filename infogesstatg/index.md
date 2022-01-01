@@ -5,6 +5,7 @@
 - [§ 2 Art der Erhebung, Erhebungseinheiten](0002.md)
 - [§ 3 (weggefallen)](0003.md)
 - [§ 4 Hilfsmerkmale](0004.md)
+- [§ 4a Durchführung](0004a.md)
 - [§ 5 Freiwilligkeit der Auskunftserteilung](0005.md)
 - [§ 6 Übermittlungsregelung](0006.md)
 - [§ 7 Inkrafttreten](0007.md)

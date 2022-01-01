@@ -12,6 +12,7 @@
 - [§ 3a Schutz des Kernbereichs privater Lebensgestaltung](0003a.md)
 - [§ 3b Schutz zeugnisverweigerungsberechtigter Personen](0003b.md)
 - [§ 4 Prüf-, Kennzeichnungs- und Löschungspflichten, Übermittlungen, Zweckbindung](0004.md)
+- [§ 4a Weiterverarbeitung von Verkehrsdaten durch den Bundesnachrichtendienst](0004a.md)
 
 ## Abschnitt 3 Strategische Beschränkungen
 

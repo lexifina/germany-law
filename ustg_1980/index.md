@@ -27,9 +27,10 @@ Vertragsparteien des Nordatlantikvertrags](0001c.md)
 Steuervergütungen
 
 - [§ 4 Steuerbefreiungen bei Lieferungen und sonstigen Leistungen](0004.md)
-- [§ 4a Steuervergütung](0004a.md)
+- [§ 4a Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären, karitativen oder erzieherischen Zwecken im Drittlandsgebiet](0004a.md)
 - [§ 4b Steuerbefreiung beim innergemeinschaftlichen Erwerb von
 Gegenständen](0004b.md)
+- [§ 4c Steuervergütung für Leistungsbezüge europäischer Einrichtungen](0004c.md)
 - [§ 5 Steuerbefreiungen bei der Einfuhr](0005.md)
 - [§ 6 Ausfuhrlieferung](0006.md)
 - [§ 6a Innergemeinschaftliche Lieferung](0006a.md)

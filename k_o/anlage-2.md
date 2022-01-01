@@ -17,10 +17,9 @@ Formblatt
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
-| Anschrift des Schornsteinfegerbetriebes | Die Schornsteinfegerarbeiten sind entsprechend dem Feuerstättenbescheid ordnungsgemäß durchgeführt worden. |
+| Name und Anschrift des Schornsteinfegerbetriebes | Die Schornsteinfegerarbeiten sind entsprechend dem Feuerstättenbescheid ordnungsgemäß durchgeführt worden. |
 | Handwerkskammer, bei der der Betrieb in der Handwerksrolle eingetragen ist bzw. bei der die Anzeige nach § 9 EU/EWR-Handwerk-Verordnung erstattet wurde: | Datum Unterschrift des ausführenden Schornsteinfegers |
-|  | Bestätigung der Ausführung dieser Schornsteinfegerarbeiten |
-| Ausführende(r) Schornsteinfeger(in) (in Druckbuchstaben): | Datum Unterschrift des Eigentümers/Verwalters |
+| Ausführende(r) Schornsteinfeger(in) (in Druckbuchstaben): |  |
 Gasförmige Brennstoffe
 |  |  |  |  |  |
 |  | Anschrift des Schornsteinfegerbetriebes |  | Datum der Arbeitsausführung: |  |

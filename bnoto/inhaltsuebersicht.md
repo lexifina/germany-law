@@ -93,6 +93,7 @@ vorläufige Amtsenthebung; Notariatsverwalter
 | § 49 | Strafgerichtliche Verurteilung |
 | § 50 | Amtsenthebung |
 | § 51 | Verwahrung bei Erlöschen des Amtes oder Verlegung des Amtssitzes |
+| § 51a | Ablieferung verwahrter Gegenstände |
 | § 52 | Weiterführung der Amtsbezeichnung |
 | § 53 | Übernahme von Räumen oder Angestellten des ausgeschiedenen Notars |
 | § 54 | Vorläufige Amtsenthebung |
@@ -218,8 +219,8 @@ Teil 4
 | § 117 | (weggefallen) |
 | § 117a | Notarkammern im Oberlandesgerichtsbezirk Frankfurt am Main und in den neuen Bundesländern |
 | § 117b | Sondervorschriften für Notarassessoren und Notare aus den neuen Bundesländern |
-| § 118 | Übergangsvorschrift zu § 80 |
-| § 119 | (weggefallen) |
-| § 120 | Übergangsvorschrift zu Besetzungsverfahren |
+| § 118 | Übergangsvorschrift für Akten, Bücher und Verzeichnisse |
+| § 119 | Übergangsvorschrift für bereits verwahrte Urkundensammlungen |
+| § 120 | Übergangsvorschrift für die Übernahme durch ein öffentliches Archiv |
 | Anlage 1 (zu § 18d Absatz 1) | Gebührenverzeichnis (Zugang zu Inhalten notarieller Urkunden und Verzeichnisse zu Forschungszwecken) |
 | Anlage 2 (zu § 111f Satz 1) | Gebührenverzeichnis (verwaltungsrechtliche Notarsachen) |

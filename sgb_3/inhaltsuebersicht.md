@@ -29,7 +29,7 @@
 | § 16 | Arbeitslose |
 | § 17 | Drohende Arbeitslosigkeit |
 | § 18 | Langzeitarbeitslose |
-| § 19 | Behinderte Menschen |
+| § 19 | Menschen mit Behinderungen |
 | § 20 | Berufsrückkehrende |
 | § 21 | Träger |
 |  |  |
@@ -90,7 +90,7 @@
 | und berufliche Eingliederung |
 | § 44 | Förderung aus dem Vermittlungsbudget |
 | § 45 | Maßnahmen zur Aktivierung und beruflichen Eingliederung |
-| § 46 | Probebeschäftigung und Arbeitshilfe für behinderte Menschen |
+| § 46 | Probebeschäftigung und Arbeitshilfe für Menschen mit Behinderungen |
 | § 47 | Verordnungsermächtigung |
 |  |  |
 | Dritter Abschnitt |
@@ -134,7 +134,7 @@
 |  |  |
 | Vierter Unterabschnitt |
 | Berufsausbildung |
-| § 73 | Zuschüsse zur Ausbildungsvergütung behinderter und schwerbehinderter Menschen |
+| § 73 | Zuschüsse zur Ausbildungsvergütung für Menschen mit Behinderungen und schwerbehinderte Menschen |
 | § 74 | Assistierte Ausbildung |
 | § 75 | Begleitende Phase der Assistierten Ausbildung |
 | § 75a | Vorphase der Assistierten Ausbildung |
@@ -166,7 +166,7 @@
 | Sozialversicherungspflichtige Beschäftigung |
 | § 88 | Eingliederungszuschuss |
 | § 89 | Höhe und Dauer der Förderung |
-| § 90 | Eingliederungszuschuss für behinderte und schwerbehinderte Menschen |
+| § 90 | Eingliederungszuschuss für Menschen mit Behinderungen und schwerbehinderte Menschen |
 | § 91 | Zu berücksichtigendes Arbeitsentgelt und Auszahlung des Zuschusses |
 | § 92 | Förderungsausschluss und Rückzahlung |
 |  |  |
@@ -224,7 +224,7 @@
 | § 111a | Förderung der beruflichen Weiterbildung bei Transferkurzarbeitergeld |
 |  |  |
 | Siebter Abschnitt |
-| Teilhabe behinderter Menschen am Arbeitsleben |
+| Teilhabe von Menschen mit Behinderungen am Arbeitsleben |
 |  |  |
 | Erster Unterabschnitt |
 | Grundsätze |
@@ -289,7 +289,7 @@
 | § 138 | Arbeitslosigkeit |
 | § 139 | Sonderfälle der Verfügbarkeit |
 | § 140 | Zumutbare Beschäftigungen |
-| § 141 | Persönliche Arbeitslosmeldung |
+| § 141 | Arbeitslosmeldung |
 | § 142 | Anwartschaftszeit |
 | § 143 | Rahmenfrist |
 | § 144 | Anspruchsvoraussetzungen bei beruflicher Weiterbildung |
@@ -410,7 +410,8 @@
 | § 296a | Vergütungen bei Ausbildungsvermittlung |
 | § 297 | Unwirksamkeit von Vereinbarungen |
 | § 298 | Behandlung von Daten |
-| §§ 299 und 300 | (weggefallen) |
+| § 299 | Informationspflicht bei grenzüberschreitender Vermittlung |
+| § 300 | (weggefallen) |
 |  |  |
 | Dritter Titel |
 | Verordnungsermächtigung |

@@ -10,7 +10,7 @@
 | § 6 | Eigenverantwortung |
 | § 7 | Aufklärung, Auskunft |
 | § 7a | Pflegeberatung |
-| § 7b | Pflicht zum Beratungsangebot und Beratungsgutscheine |
+| § 7b | Personalbemessung in vollstationären Pflegeeinrichtungen |
 | § 7c | Pflegestützpunkte, Verordnungsermächtigung |
 | § 8 | Gemeinsame Verantwortung |
 | § 8a | Gemeinsame Empfehlungen zur pflegerischen Versorgung |
@@ -98,6 +98,11 @@
 | Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen |
 | § 43b | Inhalt der Leistung |
 |  |  |
+| Sechster Titel |
+| Pflegebedingter Eigenanteil bei vollstationärer Pflege |
+|  |  |
+| § 43c | Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen |
+|  |  |
 | Vierter Abschnitt |
 | Leistungen für Pflegepersonen |
 | § 44 | Leistungen zur sozialen Sicherung der Pflegepersonen |
@@ -168,12 +173,16 @@
 | § 61 | Beitragszuschüsse für freiwillige Mitglieder der gesetzlichen Krankenversicherung und Privatversicherte |
 |  |  |
 | Dritter Abschnitt |
+| Bundesmittel |
+| § 61a | Beteiligung des Bundes an Aufwendungen |
+|  |  |
+| Vierter Abschnitt |
 | Verwendung und Verwaltung der Mittel |
 | § 62 | Mittel der Pflegekasse |
 | § 63 | Betriebsmittel |
 | § 64 | Rücklage |
 |  |  |
-| Vierter Abschnitt |
+| Fünfter Abschnitt |
 | Ausgleichsfonds, Finanzausgleich |
 | § 65 | Ausgleichsfonds |
 | § 66 | Finanzausgleich |
