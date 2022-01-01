@@ -1,0 +1,63 @@
+# Anlage 2 (zu § 12 Absatz 5 Satz 1)Modell zur Ermittlung der Restnutzungsdauer von Wohngebäuden bei Modernisierungen
+
+Bei Ermittlung der sonstigen für die Wertermittlung erforderlichen Daten ist zur Ermittlung der Restnutzungsdauer von Wohngebäuden im Fall von Modernisierungen das nachfolgend beschriebene Modell zugrunde zu legen.
+Die Verwendung des nachfolgenden Modells ersetzt nicht die erforderliche sachverständige Würdigung des Einzelfalls.
+I. Ermittlung der Modernisierungspunktzahl
+Die Modernisierungspunktzahl kann durch Punktevergabe für einzelne Modernisierungselemente nach Nummer 1 oder durch sachverständige Einschätzung des Modernisierungsgrades nach Nummer 2 ermittelt werden.
+1. Punktevergabe für einzelne Modernisierungselemente
+Auf der Grundlage der nachfolgenden Tabelle 1 sind unter Berücksichtigung der zum Stichtag oder der kurz vor dem Stichtag durchgeführten Modernisierungsmaßnahmen entsprechende Punkte für Modernisierungselemente zu vergeben. Aus den für die einzelnen Modernisierungselemente vergebenen Punkten ist eine Gesamtpunktzahl für die Modernisierung (Modernisierungspunkte) zu bilden.
+Liegen die Maßnahmen weiter zurück, ist zu prüfen, ob nicht weniger als die maximal zu vergebenden Punkte anzusetzen sind. Wenn nicht modernisierte Bauelemente noch zeitgemäßen Ansprüchen genügen, sind mit einer Modernisierung vergleichbare Punkte zu vergeben.
+| Modernisierungselemente | Maximal zu vergebende Punkte |
+| Dacherneuerung inklusive Verbesserung der Wärmedämmung | 4 |
+| Modernisierung der Fenster und Außentüren | 2 |
+| Modernisierung der Leitungssysteme (Strom, Gas, Wasser, Abwasser) | 2 |
+| Modernisierung der Heizungsanlage | 2 |
+| Wärmedämmung der Außenwände | 4 |
+| Modernisierung von Bädern | 2 |
+| Modernisierung des Innenausbaus, z. B. Decken, Fußböden, Treppen | 2 |
+| Wesentliche Verbesserung der Grundrissgestaltung | 2 |
+Tabelle 1: einzelne Modernisierungselemente mit den maximal zu vergebenden Punkten.
+2. Sachverständige Einschätzung des Modernisierungsgrades
+Auf der Grundlage einer sachverständigen Einschätzung des Modernisierungsgrades kann aufgrund der Tabelle 2 eine Gesamtpunktzahl für die Modernisierung ermittelt werden.
+| Modernisierungsgrad | Modernisierungspunktzahl |
+| nicht modernisiert | 0 bis 1 Punkt |
+| kleine Modernisierungen im Rahmen der Instandhaltung | 2 bis 5 Punkte |
+| mittlerer Modernisierungsgrad | 6 bis 10 Punkte |
+| überwiegend modernisiert | 11 bis 17 Punkte |
+| umfassend modernisiert | 18 bis 20 Punkte |
+Tabelle 2: Ermittlung des Modernisierungsgrades.
+II. Ermittlung der Restnutzungsdauer bei Modernisierungen
+1. Allgemeines
+Aus der nach I. ermittelten Modernisierungspunktzahl ergibt sich die Restnutzungsdauer der baulichen Anlage unter Nutzung der Formel unter II.2 auf der Grundlage der zugrunde gelegten Gesamtnutzungsdauer und des Alters der baulichen Anlage.
+Davon abweichend kann die Restnutzungsdauer bei kernsanierten Objekten bis zu 90 Prozent der jeweiligen Gesamtnutzungsdauer betragen. Durch eine Kernsanierung wird das Gebäude in einen Zustand versetzt, der nahezu einem neuen Gebäude entspricht. Bei einer Kernsanierung ist als Baujahr das Jahr der fachgerechten Sanierung zugrunde zu legen. Die teilweise noch verbliebene alte Bausubstanz oder der von neuen Gebäuden abweichende Zustand z. B. des Kellers ist durch einen Abschlag zu berücksichtigen.
+2. Formel zur Ermittlung der Restnutzungsdauer
+Der Ermittlung der Restnutzungsdauer im Fall von Modernisierungen liegt ein theoretischer Modellansatz zugrunde. Das Modell geht davon aus, dass die Restnutzungsdauer (RND) auf maximal 70 Prozent der jeweiligen Gesamtnutzungsdauer (GND) gestreckt und nach der folgenden Formel berechnet wird:
+|  |
+Für die Variablen a, b und c sind die Werte der Tabelle 3 zu verwenden. Dabei ist zu beachten, dass Modernisierungen erst ab einem bestimmten Alter der baulichen Anlagen Auswirkungen auf die Restnutzungsdauer haben. Aus diesem Grund ist die Formel in Abhängigkeit von der anzusetzenden Gesamtnutzungsdauer erst ab einem bestimmten Alter (relatives Alter) anwendbar.
+Das relative Alter wird nach der folgenden Formel ermittelt:
+|  |
+Liegt das relative Alter unterhalb des in der Tabelle 3 angegebenen Wertes, gilt für die Ermittlung der Restnutzungsdauer die Formel:
+| RND = GND – Alter |
+| Modernisierungs- punkte | a | b | c | ab einem relativen Alter von |
+| 0 | 1,2500 | 2,6250 | 1,5250 | 60 % |
+| 1 | 1,2500 | 2,6250 | 1,5250 | 60 % |
+| 2 | 1,0767 | 2,2757 | 1,3878 | 55 % |
+| 3 | 0,9033 | 1,9263 | 1,2505 | 55 % |
+| 4 | 0,7300 | 1,5770 | 1,1133 | 40 % |
+| 5 | 0,6725 | 1,4578 | 1,0850 | 35 % |
+| 6 | 0,6150 | 1,3385 | 1,0567 | 30 % |
+| 7 | 0,5575 | 1,2193 | 1,0283 | 25 % |
+| 8 | 0,5000 | 1,1000 | 1,0000 | 20 % |
+| 9 | 0,4660 | 1,0270 | 0,9906 | 19 % |
+| 10 | 0,4320 | 0,9540 | 0,9811 | 18 % |
+| 11 | 0,3980 | 0,8810 | 0,9717 | 17 % |
+| 12 | 0,3640 | 0,8080 | 0,9622 | 16 % |
+| 13 | 0,3300 | 0,7350 | 0,9528 | 15 % |
+| 14 | 0,3040 | 0,6760 | 0,9506 | 14 % |
+| 15 | 0,2780 | 0,6170 | 0,9485 | 13 % |
+| 16 | 0,2520 | 0,5580 | 0,9463 | 12 % |
+| 17 | 0,2260 | 0,4990 | 0,9442 | 11 % |
+| 18 | 0,2000 | 0,4400 | 0,9420 | 10 % |
+| 19 | 0,2000 | 0,4400 | 0,9420 | 10 % |
+| 20 | 0,2000 | 0,4400 | 0,9420 | 10 % |
+Tabelle 3: Angabe der Variablen a, b, c und des relativen Alters für die Anwendung der Formel zur Ermittlung der Restnutzungsdauer.

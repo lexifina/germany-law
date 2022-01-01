@@ -1,0 +1,615 @@
+# Anlage 4 (zu § 12 Absatz 5 Satz 3)Normalherstellungskosten 2010 (NHK 2010)
+
+I. Grundlagen
+1. Allgemeines
+(1)
+Bei Ermittlung der Sachwertfaktoren sind der Ermittlung der durchschnittlichen Herstellungskosten die Modellkosten dieser Anlage zugrunde zu legen.
+(2)
+Die Kostenkennwerte der Normalherstellungskosten 2010 nach Nummer II beziehen sich auf eine Art der baulichen Anlage (Gebäudeart) unter Berücksichtigung einer Standardstufe. Die Zuordnung des Wertermittlungsobjekts zu einer Gebäudeart erfolgt aufgrund seiner Nutzung. Die Zuordnung zu einer Standardstufe erfolgt nach Nummer III aufgrund seiner Standardmerkmale; dabei sind zur Ermittlung eines zutreffenden Kostenkennwerts alle wertrelevanten Standardmerkmale des Wertermittlungsobjekts sachverständig einzustufen, auch wenn sie nicht in Nummer III beschrieben sind.
+(3)
+Die Normalherstellungskosten 2010 erfassen die Kostengruppen 300 und 400 der DIN 276, die Umsatzsteuer und die üblicherweise entstehenden Baunebenkosten (Kostengruppen 730 und 771 der DIN 276¹), insbesondere Kosten für Planung, Baudurchführung, behördliche Prüfungen und Genehmigungen. Darüber hinaus enthalten sie weitere Angaben zur Höhe der eingerechneten Baunebenkosten, teilweise Korrekturfaktoren zur Anpassung des jeweiligen Kostenkennwerts wegen der speziellen Merkmale des Wertermittlungsobjekts sowie teilweise weitergehende Erläuterungen.
+(4)
+Die Kostenkennwerte der Normalherstellungskosten sind in Euro pro Quadratmeter Grundfläche angegeben. Sie sind bezogen auf den im Jahresdurchschnitt bestehenden Kostenstand des Jahres 2010.
+2. Brutto-Grundfläche
+(1)
+Die Brutto-Grundfläche (BGF) ist die Summe der bezogen auf die jeweilige Gebäudeart marktüblich nutzbaren Grundflächen aller Grundrissebenen eines Bauwerks. Für die Ermittlung der Brutto-Grundfläche ist die DIN 277 anzuwenden, deren Vorgaben für die Anwendung der Normalherstellungskosten durch die nachfolgenden Absätze teilweise ergänzt werden.
+(2)
+In Anlehnung an die DIN 277² sind bei den Grundflächen folgende Bereiche zu unterscheiden:
+a) Bereich a: überdeckt und allseitig in voller Höhe umschlossen,
+b) Bereich b: überdeckt, jedoch nicht allseitig in voller Höhe umschlossen,
+c) Bereich c: nicht überdeckt.
+Für die Ermittlung der Brutto-Grundfläche sind nur die Grundflächen der Bereiche a und b zu berücksichtigen. Balkone, einschließlich überdeckter Balkone, sind dem Bereich c zuzuordnen.
+(3)
+Für die Ermittlung der Brutto-Grundfläche sind die äußeren Maße der Baukonstruktionen einschließlich Bekleidung in Höhe der Oberseite der Boden- oder Deckenbeläge anzusetzen.
+(4)
+Nicht zur Brutto-Grundfläche gehören beispielsweise Flächen von neben dem Dachgeschoss bestehenden weiteren untergeordneten Ebenen innerhalb des Dachraums (Spitzböden), Flächen von Kriechkellern, Flächen, die ausschließlich der Wartung, Inspektion und Instandsetzung von Baukonstruktionen und technischen Anlagen dienen, sowie Flächen unter konstruktiven Hohlräumen, zum Beispiel über abgehängten Decken.
+(5)
+Im Dachgeschoss richtet sich die Anrechenbarkeit der Grundflächen nach ihrer Nutzbarkeit. Ausreichend ist, wenn eine untergeordnete Nutzung möglich ist, die beispielsweise als Lager- und Abstellraum der Hauptnutzung dient (eingeschränkte Nutzbarkeit). Die Nutzbarkeit von Dachgeschossen setzt eine lichte Höhe von circa 1,25 Metern und ihre Begehbarkeit voraus; eine Begehbarkeit setzt eine feste Decke und die Zugänglichkeit voraus, wobei sich die Art der Zugänglichkeit nach der Intensität der Nutzung richtet. Nicht nutzbare Dachgeschossebenen sind nicht anzurechnen.
+3. Besonderheiten und Grad der wirtschaftlichen Nutzbarkeit bei freistehenden Ein- und Zweifamilienhäusern, Doppelhäusern und Reihenhäusern
+(1)
+Freistehende Ein- und Zweifamilienhäuser, Doppelhäuser und Reihenhäuser mit nicht nutzbaren Grundrissebenen im Dachraum sind der Gebäudeart mit Flachdach oder flach geneigtem Dach zuzuordnen.
+(2)
+Trotz gleicher Brutto-Grundfläche können sich bei freistehenden Ein- und Zweifamilienhäusern, Doppelhäusern und Reihenhäusern mit ausgebautem oder ausbaufähigem Dachgeschoss im Sinne der Absätze 3 und 4 Unterschiede hinsichtlich des Grades der wirtschaftlichen Nutzbarkeit ergeben, die insbesondere auf Unterschieden der Dachkonstruktion, der Gebäudegeometrie und der Giebelhöhe beruhen können.
+(3)
+Bei Gebäuden mit nicht ausgebautem Dachgeschoss ist zu unterscheiden zwischen
+a) Gebäuden mit Dachgeschossen, die nicht zu einer Wohnnutzung als Hauptnutzung ausbaubar sind, jedoch im Unterschied zur Gebäudeart mit Flachdach oder flach geneigten Dach eine untergeordnete Nutzung zulassen (nicht ausbaufähig) und
+b) Gebäuden mit Dachgeschossen, die für eine Wohnnutzung als Hauptnutzung ausbaubar sind.
+Bei nicht ausgebauten Dachgeschossen, die nicht im Sinne des Satzes 1 Buchstabe a ausbaufähig sind, ist in der Regel ein Abschlag vom Kostenkennwert anzusetzen.
+(4)
+Bei Gebäuden mit ausgebautem Dachgeschoss bestimmt sich der Grad der wirtschaftlichen Nutzbarkeit des Dachgeschosses insbesondere nach dem Verhältnis der vorhandenen Wohnfläche zur Grundfläche. Die Wohnfläche ist im Wesentlichen abhängig von Dachneigung, Giebelbreite und Drempelhöhe. Ein fehlender Drempel ist in der Regel durch Abschläge zu berücksichtigen. Ein ausgebauter Spitzboden im Sinne von Nummer 2 Absatz 4 ist in der Regel durch Zuschläge zu berücksichtigen.
+(5)
+Ein teilweiser Ausbau des Dachgeschosses oder eine teilweise Unterkellerung können durch anteilige Heranziehung der jeweiligen Kostenkennwerte für die verschiedenen Gebäudearten berücksichtigt werden (Mischkalkulation).
+II. Kostenkennwerte – Normalherstellungskosten 2010
+(NHK 2010)
+Inhaltsübersicht
+Kostenkennwerte für
+| 1. | freistehende Ein- und Zweifamilienhäuser Doppel- und Reihenendhäuser Reihenmittelhäuser |
+| 2. | Mehrfamilienhäuser |
+| 3. | Wohnhäuser mit Mischnutzung, Banken und Geschäftshäuser |
+| 4. | Bürogebäude |
+| 5. | Gemeindezentren, Saalbauten, Veranstaltungsgebäude |
+| 6. | Kindergärten, Schulen |
+| 7. | Wohnheime, Alten- oder Pflegeheime |
+| 8. | Krankenhäuser, Tageskliniken |
+| 9. | Beherbergungsstätten, Verpflegungseinrichtungen |
+| 10. | Sporthallen, Freizeitbäder oder Heilbäder |
+| 11. | Verbrauchermärkte, Kauf- oder Warenhäuser, Autohäuser |
+| 12. | Garagen |
+| 13. | Betriebs- oder Werkstätten, Produktionsgebäude |
+| 14. | Lagergebäude |
+| 15. | sonstige Gebäude (Museen, Theater, Sakralbauten, Friedhofsgebäude) |
+landwirtschaftliche Betriebsgebäude
+Reithallen, Pferdeställe
+| 16. | Reithallen |
+| 17. | Pferdeställe |
+Rinderställe, Melkhäuser
+| 18. | Kälberställe |
+| 19. | Jungvieh-, Mastbullen- oder Milchviehställe ohne Melkstand und Warteraum |
+| 20. | Milchviehställe mit Melkstand und Milchlager |
+| 21. | Melkhäuser mit Milchlager und Nebenräumen als Einzelgebäude ohne Warteraum und Selektion |
+Schweineställe
+| 22. | Ferkelaufzuchtställe |
+| 23. | Mastschweineställe |
+| 24. | Zuchtschweineställe, Deck-, Warte- oder Abferkelbereich |
+| 25. | Abferkelstall als Einzelgebäude |
+Geflügelställe
+| 26. | Mastgeflügel, Bodenhaltung (Hähnchen, Puten, Gänse) |
+| 27. | Legehennen, Bodenhaltung |
+| 28. | Legehennen, Volierenhaltung |
+| 29. | Legehennen, Kleingruppenhaltung, ausgestalteter Käfig |
+sonstige bauliche Anlagen
+| 30. | landwirtschaftliche Mehrzweckhallen |
+| 31. | Außenanlagen zu allen landwirtschaftlichen Betriebsgebäuden |
+1. Kostenkennwerte für freistehende Ein- und Zweifamilienhäuser, Doppelhäuser, Reihenhäuser¹
+  [Bild: bgbl1_2021_j2805-1_0090.jpg]
+2. Kostenkennwerte für Mehrfamilienhäuser
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 4.1 | Mehrfamilienhäuser mit bis zu 6 WE | 825 | 985 | 1 190 |  |
+  |  | 4.2 | Mehrfamilienhäuser4 5 mit 7 bis 20 WE | 765 | 915 | 1 105 |  |
+  |  | 4.3 | Mehrfamilienhäuser4 5 mit mehr als 20 WE | 755 | 900 | 1 090 |  |
+  |  |
+3. Kostenkennwerte für Wohnhäuser mit Mischnutzung, Banken und Geschäftshäuser
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 5.1 | Wohnhäuser mit Mischnutzung | 860 | 1 085 | 1 375 |  |
+  |  | 5.2 | Banken und Geschäftshäuser mit Wohnungen | 890 | 1 375 | 1 720 |  |
+  |  | 5.3 | Banken und Geschäftshäuser ohne Wohnungen | 930 | 1 520 | 1 900 |  |
+  |  |
+4. Kostenkennwerte für Bürogebäude
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 6.1 | Bürogebäude, Massivbau | 1 040 | 1 685 | 1 900 |  |
+  |  | 6.2 | Bürogebäude, Stahlbetonskelettbau | 1 175 | 1 840 | 2 090 |  |
+  |  |
+5. Kostenkennwerte für Gemeindezentren, Saalbauten, Veranstaltungsgebäude
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 7.1 | Gemeindezentren | 1 130 | 1 425 | 1 905 |  |
+  |  | 7.2 | Saalbauten/Veranstaltungsgebäude | 1 355 | 1 595 | 2 085 |  |
+  |  |
+6. Kostenkennwerte für Kindergärten, Schulen
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 8.1 | Kindergärten | 1 300 | 1 495 | 1 900 |  |
+  |  | 8.2 | Allgemeinbildende Schulen, Berufsbildende Schulen | 1 450 | 1 670 | 2 120 |  |
+  |  | 8.3 | Sonderschulen | 1 585 | 1 820 | 2 315 |  |
+  |  |
+7. Kostenkennwerte für Wohnheime, Alten- oder Pflegeheime
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 9.1 | Wohnheime/Internate | 1 000 | 1 225 | 1 425 |  |
+  |  | 9.2 | Alten-/Pflegeheime | 1 170 | 1 435 | 1 665 |  |
+  |  |
+8. Kostenkennwerte für Krankenhäuser, Tageskliniken
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 10.1 | Krankenhäuser/Kliniken | 1 720 | 2 080 | 2 765 |  |
+  |  | 10.2 | Tageskliniken/Ärztehäuser | 1 585 | 1 945 | 2 255 |  |
+  |  |
+9. Kostenkennwerte für Beherbergungsstätten, Verpflegungseinrichtungen
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 11.1 | Hotels | 1 385 | 1 805 | 2 595 |  |
+  |  |
+10. Kostenkennwerte für Sporthallen, Freizeitbäder oder Heilbäder
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 12.1 | Sporthallen (Einfeldhallen) | 1 320 | 1 670 | 1 955 |  |
+  |  | 12.2 | Sporthallen (Dreifeldhallen/Mehrzweckhallen) | 1 490 | 1 775 | 2 070 |  |
+  |  | 12.3 | Tennishallen | 1 010 | 1 190 | 1 555 |  |
+  |  | 12.4 | Freizeitbäder/Heilbäder | 2 450 | 2 985 | 3 840 |  |
+  |  |
+11. Kostenkennwerte für Verbrauchermärkte, Kauf- oder Warenhäuser, Autohäuser
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 13.1 | Verbrauchermärkte | 720 | 870 | 1 020 |  |
+  |  | 13.2 | Kauf-/Warenhäuser | 1 320 | 1 585 | 1 850 |  |
+  |  | 13.3 | Autohäuser ohne Werkstatt | 940 | 1 240 | 1 480 |  |
+  |  |
+12. Kostenkennwerte für Garagen
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 14.1 | Einzelgaragen/Mehrfachgaragen | 245 | 485 | 780 |  |
+  |  | 14.2 | Hochgaragen | 480 | 655 | 780 |  |
+  |  | 14.3 | Tiefgaragen | 560 | 715 | 850 |  |
+  |  | 14.4 | Nutzfahrzeuggaragen | 530 | 680 | 810 |  |
+  |  |
+13. Kostenkennwerte für Betriebs- oder Werkstätten, Produktionsgebäude
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 15.1 | Betriebs-/Werkstätten, eingeschossig | 970 | 1 165 | 1 430 |  |
+  |  | 15.2 | Betriebs-/Werkstätten, mehrgeschossig ohne Hallenanteil | 910 | 1 090 | 1 340 |  |
+  |  | 15.3 | Betriebs-/Werkstätten, mehrgeschossig, hoher Hallenanteil | 620 | 860 | 1 070 |  |
+  |  | 15.4 | Industrielle Produktionsgebäude, Massivbauweise | 950 | 1 155 | 1 440 |  |
+  |  | 15.5 | Industrielle Produktionsgebäude, überwiegend Skelettbauweise | 700 | 965 | 1 260 |  |
+  |  |
+14. Kostenkennwerte für Lagergebäude
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 16.1 | Lagergebäude ohne Mischnutzung, Kaltlager | 350 | 490 | 640 |  |
+  |  | 16.2 | Lagergebäude mit bis zu 25 % Mischnutzung | 550 | 690 | 880 |  |
+  |  | 16.3 | Lagergebäude mit mehr als 25 % Mischnutzung23 | 890 | 1 095 | 1 340 |  |
+  |  |
+15. Kostenkennwerte für sonstige Gebäude (Museen, Theater, Sakralbauten, Friedhofsgebäude)
+  |  |  |  |
+  |  | Standardstufe |  |
+  |  |  | 3 | 4 | 5 |  |
+  |  | 17.1 | Museen | 1 880 | 2 295 | 2 670 |  |
+  |  | 17.2 | Theater | 2 070 | 2 625 | 3 680 |  |
+  |  | 17.3 | Sakralbauten | 1 510 | 2 060 | 2 335 |  |
+  |  | 17.4 | Friedhofsgebäude | 1 320 | 1 490 | 1 720 |  |
+  |  |
+16. Kostenkennwerte für Reithallen
+  | 18.1.1 Reithallen |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 215 | 235 | 280 |
+  | 400 Bauwerk – Technische Anlagen | 20 | 25 | 30 |
+  | Bauwerk | 235 | 260 | 310 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 5,00 m |
+  | BGF/Nutzeinheit | – |
+  | Korrekturfaktoren | Gebäudegröße BGF |  |
+  | 500 m2 1,20 |  |  |
+  | 1 000 m2 1,00 |  |  |
+  | 1 500 m2 0,90 |  |  |
+17. Kostenkennwerte für Pferdeställe
+  | 18.1.2 Pferdeställe |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 310 | 450 | 535 |
+  | 400 Bauwerk – Technische Anlagen | 55 | 70 | 90 |
+  | Bauwerk | 365 | 520 | 625 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,50 m |
+  | BGF/Nutzeinheit | 15,00 – 20,00 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF |  |
+  | 250 m2 1,20 |  |  |
+  | 500 m2 1,00 |  |  |
+  | 750 m2 0,90 |  |  |
+18. Kostenkennwerte für Kälberställe
+  | 18.2.1 Kälberställe |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 335 | 375 | 455 |
+  | 400 Bauwerk – Technische Anlagen | 145 | 165 | 195 |
+  | Bauwerk | 480 | 540 | 650 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | 4,00 – 4,50 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF | Unterbau |
+  | 100 m2 1,20 | Güllekanäle (Tiefe 1,00 m)1,05 | Güllekanäle (Tiefe 1,00 m) | 1,05 |
+  | 150 m2 1,00 | ohne Güllekanäle1,00 | ohne Güllekanäle | 1,00 |
+  | 250 m2 0,90 |  |
+19. Kostenkennwerte für Jungvieh-, Mastbullen- oder Milchviehställe ohne Melkstand und Warteraum
+  | 18.2.2 Jungvieh-/Mastbullen-/Milchviehställe ohne Melkstand und Warteraum |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 235 | 260 | 310 |
+  | 400 Bauwerk – Technische Anlagen | 55 | 65 | 80 |
+  | Bauwerk | 290 | 325 | 390 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 4,00 m |
+  | BGF/Nutzeinheit | 6,50 – 10,50 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF | Unterbau |
+  | 500 m2 1,20 | Güllekanäle (Tiefe 1,00 m)1,20 | Güllekanäle (Tiefe 1,00 m) | 1,20 |
+  | 1 000 m2 1,00 | ohne Güllekanäle1,00 | ohne Güllekanäle | 1,00 |
+  | 1 500 m2 0,90 | Güllelagerraum (Tiefe 2,00 m)1,40 | Güllelagerraum (Tiefe 2,00 m) | 1,40 |
+20. Kostenkennwerte für Milchviehställe mit Melkstand und Milchlager
+  | 18.2.3 Milchviehställe mit Melkstand und Milchlager |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 225 | 255 | 310 |
+  | 400 Bauwerk – Technische Anlagen | 100 | 110 | 130 |
+  | Bauwerk | 325 | 365 | 440 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 4,00 m |
+  | BGF/Nutzeinheit | 10,00 – 15,00 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF | Unterbau |
+  | 1 000 m2 1,20 | Güllekanäle (Tiefe 1,00 m)1,20 | Güllekanäle (Tiefe 1,00 m) | 1,20 |
+  | 1 500 m2 1,00 | ohne Güllekanäle1,00 | ohne Güllekanäle | 1,00 |
+  | 2 000 m2 0,90 | Güllelagerraum (Tiefe 2,00 m)1,40 | Güllelagerraum (Tiefe 2,00 m) | 1,40 |
+21. Kostenkennwerte für Melkhäuser mit Milchlager und Nebenräumen als Einzelgebäude ohne Warteraum und Selektion
+  | 18.2.4 Melkhäuser mit Milchlager und Nebenräumen als Einzelgebäude ohne Warteraum und Selektion |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 700 | 780 | 935 |
+  | 400 Bauwerk – Technische Anlagen | 470 | 520 | 625 |
+  | Bauwerk | 1 170 | 1 300 | 1 560 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | − |
+  | Korrekturfaktoren | Gebäudegröße BGF |  |
+  | 100 m2 1,20 |  |  |
+  | 150 m2 1,00 |  |  |
+  | 250 m2 0,90 |  |  |
+22. Kostenkennwerte für Ferkelaufzuchtställe
+  | 18.3.1 Ferkelaufzuchtställe |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 300 | 330 | 395 |
+  | 400 Bauwerk – Technische Anlagen | 155 | 175 | 215 |
+  | Bauwerk | 455 | 505 | 610 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | 0,45 – 0,65 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF | Unterbau |
+  | 400 m2 1,20 | Güllekanäle (Tiefe 0,60 m)1,10 | Güllekanäle (Tiefe 0,60 m) | 1,10 |
+  | 600 m2 1,00 | ohne Güllekanäle1,00 | ohne Güllekanäle | 1,00 |
+  | 800 m2 0,90 | Güllelagerraum (Tiefe 1,50 m)1,20 | Güllelagerraum (Tiefe 1,50 m) | 1,20 |
+23. Kostenkennwerte für Mastschweineställe
+  | 18.3.2 Mastschweineställe |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 290 | 325 | 400 |
+  | 400 Bauwerk – Technische Anlagen | 125 | 145 | 170 |
+  | Bauwerk | 415 | 470 | 570 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | 0,90 – 1,30 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF | Unterbau |
+  | 750 m2 1,20 | Güllekanäle (Tiefe 0,60 m)1,10 | Güllekanäle (Tiefe 0,60 m) | 1,10 |
+  | 1 250 m2 1,00 | ohne Güllekanäle1,00 | ohne Güllekanäle | 1,00 |
+  | 2 000 m2 0,90 | Güllelagerraum (Tiefe 1,50 m)1,20 | Güllelagerraum (Tiefe 1,50 m) | 1,20 |
+24. Kostenkennwerte für Zuchtschweineställe, Deck-, Warte- oder Abferkelbereich
+  | 18.3.3 Zuchtschweineställe, Deck-/Warte-/Abferkelbereich |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 305 | 340 | 405 |
+  | 400 Bauwerk – Technische Anlagen | 165 | 180 | 220 |
+  | Bauwerk | 470 | 520 | 625 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | 4,50 – 5,00 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF | Unterbau |
+  | 750 m2 1,20 | Güllekanäle (Tiefe 0,60 m)1,10 | Güllekanäle (Tiefe 0,60 m) | 1,10 |
+  | 1 250 m2 1,00 | ohne Güllekanäle1,00 | ohne Güllekanäle | 1,00 |
+  | 2 000 m2 0,90 | Güllelagerraum (Tiefe 1,50 m)1,20 | Güllelagerraum (Tiefe 1,50 m) | 1,20 |
+25. Kostenkennwerte für Abferkelstall als Einzelgebäude
+  | 18.3.4 Abferkelstall als Einzelgebäude |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 320 | 350 | 420 |
+  | 400 Bauwerk – Technische Anlagen | 205 | 235 | 280 |
+  | Bauwerk | 525 | 585 | 700 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | 6,30 – 6,50 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF | Unterbau |
+  | 200 m2 1,20 | Güllekanäle (Tiefe 0,60 m)1,10 | Güllekanäle (Tiefe 0,60 m) | 1,10 |
+  | 400 m2 1,00 | ohne Güllekanäle1,00 | ohne Güllekanäle | 1,00 |
+  | 600 m2 0,90 |  |
+26. Kostenkennwerte für Mastgeflügel, Bodenhaltung (Hähnchen, Puten, Gänse)
+  | 18.4.1 Mastgeflügel, Bodenhaltung (Hähnchen, Puten, Gänse) |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 210 | 235 | 280 |
+  | 400 Bauwerk – Technische Anlagen | 50 | 55 | 70 |
+  | Bauwerk | 260 | 290 | 350 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | 0,05 – 0,06 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF |  |
+  | 1 000 m2 1,20 |  |  |
+  | 1 900 m2 1,00 |  |  |
+  | 3 800 m2 0,90 |  |  |
+27. Kostenkennwerte für Legehennen, Bodenhaltung
+  | 18.4.2 Legehennen, Bodenhaltung |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk - Baukonstruktion | 290 | 325 | 390 |
+  | 400 Bauwerk - Technische Anlagen | 130 | 145 | 170 |
+  | Bauwerk | 420 | 470 | 560 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | 0,15 – 0,20 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF | Unterbau |
+  | 1 000 m2 1,20 | Kotgrube (Tiefe 1,00 m)1,10 | Kotgrube (Tiefe 1,00 m) | 1,10 |
+  | 2 500 m2 1,00 |  |
+  | 3 500 m2 0,90 |  |
+28. Kostenkennwerte für Legehennen, Volierenhaltung
+  | 18.4.3 Legehennen, Volierenhaltung |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 335 | 370 | 445 |
+  | 400 Bauwerk – Technische Anlagen | 275 | 305 | 365 |
+  | Bauwerk | 610 | 675 | 810 |
+  | einschließlich Baunebenkosten in Höhe von | 12 % |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | 0,07 – 0,10 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF |  |
+  | 500 m2 1,20 |  |  |
+  | 1 600 m2 1,00 |  |  |
+  | 2 200 m2 0,90 |  |  |
+29. Kostenkennwerte für Legehennen, Kleingruppenhaltung, ausgestalteter Käfig
+  | 18.4.4 Legehennen, Kleingruppenhaltung, ausgestalteter Käfig |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 340 | 370 | 450 |
+  | 400 Bauwerk – Technische Anlagen | 335 | 370 | 445 |
+  | Bauwerk | 675 | 740 | 895 |
+  | einschließlich Baunebenkosten in Höhe von | 12% |
+  | Traufhöhe | 3,00 m |
+  | BGF/Nutzeinheit | 0,05 – 0,07 m2/Tier |
+  | Korrekturfaktoren | Gebäudegröße BGF |  |
+  | 500 m2 1,20 |  |  |
+  | 1 200 m2 1,00 |  |  |
+  | 1 500 m2 0,90 |  |  |
+30. Kostenkennwerte für landwirtschaftliche Mehrzweckhallen
+  | 18.5 Landwirtschaftliche Mehrzweckhallen |
+  | Standardstufe | 3 | 4 | 5 |
+  | 300 Bauwerk – Baukonstruktion | 230 | 255 | 330 |
+  | 400 Bauwerk – Technische Anlagen | 15 | 15 | 20 |
+  | Bauwerk | 245 | 270 | 350 |
+  | einschließlich Baunebenkosten in Höhe von | 11 % |
+  | Traufhöhe | 5,00 m |
+  | BGF/Nutzeinheit | − |
+  | Korrekturfaktoren | Gebäudegröße BGF | Unterbau |
+  | 250 m2 1,20 | Remise (ohne Betonboden)0,80 | Remise (ohne Betonboden) | 0,80 |
+  | 800 m2 1,00 |  |
+  | 1 500 m2 0,90 |  |
+31. Kostenkennwerte für Außenanlagen zu allen landwirtschaftlichen Betriebsgebäuden
+  | Raufutter-Fahrsilo | 60–100 | €/m3 Nutzraum |
+  | Kraftfutter-Hochsilo | 170–350 | €/m3 Nutzraum |
+  | Fertigfutter-Hochsilo | 170–350 | €/m3 Nutzraum |
+  | Mistlager | 60–100 | €/m3 Nutzraum |
+  | Beton-Güllebehälter | 30–60 | €/m3 Nutzraum |
+  | Waschplatz (4,00 x 5,00 m) mit Kontrollschacht und Ölabscheider | 4 000–5 000 | €/Stck. |
+  | Vordach am Hauptdach angeschleppt | 80–100 | €/m2 |
+  | Hofbefestigung aus Beton-Verbundsteinen | 40–50 | €/m2 |
+  | Laufhof für Rinder | 70–100 | €/m2 Nutzfläche |
+  | Auslauf mit Spaltenboden | 150–220 | €/m2 Nutzfläche |
+  | Auslauf, Wintergarten für Geflügel | 100–120 | €/m2 Nutzfläche |
+  | Schüttwände bis 3,00 m Höhe | 100–125 | €/m2 |
+III. Beschreibung der Standards der baulichen Anlagen (Gebäudestandards)
+zur Ermittlung der Kostenkennwerte
+Inhaltsübersicht
+Beschreibung der Gebäudestandards für
+| 1. | Freistehende Ein- und Zweifamilienhäuser, Doppelhäuser und Reihenhäuser |
+| 2. | Mehrfamilienhäuser, Wohnhäuser mit Mischnutzung |
+| 3. | Bürogebäude, Banken, Geschäftshäuser |
+| 4. | Gemeindezentren, Saalbauten oder Veranstaltungsgebäude, Kindergärten, Schulen |
+| 5. | Wohnheime, Alten- oder Pflegeheime, Krankenhäuser, Tageskliniken, Beherbergungs-stätten, Verpflegungseinrichtungen |
+| 6. | Sporthallen, Freizeitbäder oder Heilbäder |
+| 7. | Verbrauchermärkte, Kauf- oder Warenhäuser, Autohäuser |
+| 8. | Garagen |
+| 9. | Betriebs- oder Werkstätten, Produktionsgebäude, Lagergebäude |
+| 10. | Reithallen |
+| 11. | Pferdeställe |
+| 12. | Rinderställe und Melkhäuser |
+| 13. | Schweineställe |
+| 14. | Geflügelställe |
+| 15. | landwirtschaftliche Mehrzweckhallen |
+1. Beschreibung der Gebäudestandards für freistehende Ein- und Zweifamilienhäuser, Doppelhäuser und Reihenhäuser
+  |  | Standardstufe | Wägungs-anteil |
+  | 1 | 2 | 3 | 4 | 5 |
+  | Außenwände | Holzfachwerk, Ziegelmauerwerk; Fugenglattstrich, Putz, Verkleidung mit Faserzementplatten, Bitumen-Schindeln oder einfachen Kunststoffplatten; kein oder deutlich nicht zeitgemäßer Wärmeschutz (vor ca. 1980) | ein- /zweischaliges Mauerwerk, z. B. Gitterziegel oder Hohlblocksteine; verputzt und gestrichen oder Holzverkleidung; nicht zeitgemäßer Wärmeschutz (vor ca. 1995) | ein- /zweischaliges Mauerwerk, z. B. aus Leichtziegeln, Kalksandsteinen, Gasbetonsteinen; Edelputz; Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995) | Verblendmauerwerk, zweischalig, hinterlüftet, Vorhangfassade (z. B. Naturschiefer); Wärmedämmung (nach ca. 2005) | aufwendig gestaltete Fassaden mit konstruktiver Gliederung (Säulenstellungen, Erker etc.), Sichtbeton-Fertigteile, Natursteinfassade, Elemente aus Kupfer- /Eloxalblech, mehrgeschossige Glasfassaden; Dämmung im Passivhausstandard | 23 |
+  | Dach | Dachpappe, Faserzementplatten/Wellplatten;keine bis geringe Dachdämmung | einfache Betondachsteine oder Tondachziegel, Bitumenschindeln; nicht zeitgemäße Dachdämmung (vor ca. 1995) | Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel, Folienabdichtung; Rinnen und Fallrohre aus Zinkblech; Dachdämmung (nach ca. 1995) | glasierte Tondachziegel, Flachdachausbildung tlw. als Dachterrassen; Konstruktion in Brettschichtholz, schweres Massivflachdach; besondere Dachformen, z. B. Mansarden-, Walmdach; Aufsparrendämmung, überdurchschnittliche Dämmung (nach ca. 2005) | hochwertige Eindeckung z. B. aus Schiefer oder Kupfer, Dachbegrünung, befahrbares Flachdach; aufwendig gegliederte Dachlandschaft, sichtbare Bogendachkonstruktionen; Rinnen und Fallrohre aus Kupfer; Dämmung im Passivhausstandard | 15 |
+  | Fenster und Außentüren | Einfachverglasung; einfache Holztüren | Zweifachverglasung (vor ca. 1995); Haustür mit nicht zeitgemäßem Wärmeschutz (vor ca. 1995) | Zweifachverglasung (nach ca. 1995), Rollläden (manuell); Haustür mit zeitgemäßem Wärmeschutz (nach ca. 1995) | Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen, Rollläden (elektr.); höherwertige Türanlage z. B. mit Seitenteil, besonderer Einbruchschutz | große, feststehende Fensterflächen, Spezialverglasung (Schall- und Sonnenschutz); Außentüren in hochwertigen Materialien | 11 |
+  | Innenwände und -türen | Fachwerkwände, einfache Putze/Lehmputze, einfache Kalkanstriche; Füllungstüren, gestrichen, mit einfachen Beschlägen ohne Dichtungen | massive tragende Innenwände, nicht tragende Wände in Leichtbauweise (z. B. Holzständerwände mit Gipskarton), Gipsdielen; leichte Türen, Stahlzargen | nicht tragende Innenwände in massiver Ausführung bzw. mit Dämmmaterial gefüllte Ständerkonstruktionen; schwere Türen, Holzzargen | Sichtmauerwerk, Wandvertäfelungen (Holzpaneele); Massivholztüren, Schiebetürelemente, Glastüren, strukturierte Türblätter | gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien); Vertäfelungen (Edelholz, Metall), Akustikputz, Brandschutzverkleidung; raumhohe aufwendige Türelemente | 11 |
+  | Deckenkonstruktion und Treppen | Holzbalkendecken ohne Füllung, Spalierputz; Weichholztreppen in einfacher Art und Ausführung; kein Trittschallschutz | Holzbalkendecken mit Füllung, Kappendecken; Stahl- oder Hartholztreppen in einfacher Art und Ausführung | Beton- und Holzbalkendecken mit Tritt- und Luftschallschutz (z. B. schwimmender Estrich); geradläufige Treppen aus Stahlbeton oder Stahl, Harfentreppe, Trittschallschutz | Decken mit größerer Spannweite, Deckenverkleidung (Holzpaneele/Kassetten); gewendelte Treppen aus Stahlbeton oder Stahl, Hartholztreppenanlage in besserer Art und Ausführung | Decken mit großen Spannweiten, gegliedert, Deckenvertäfelungen (Edelholz, Metall); breite Stahlbeton-, Metall- oder Hartholztreppenanlage mit hochwertigem Geländer | 11 |
+  | Fußböden | ohne Belag | Linoleum-, Teppich-, Laminat- und PVC-Böden einfacher Art und Ausführung | Linoleum-, Teppich-, Laminat- und PVC-Böden besserer Art und Ausführung, Fliesen, Kunststeinplatten | Natursteinplatten, Fertigparkett, hochwertige Fliesen, Terrazzobelag, hochwertige Massivholzböden auf gedämmter Unterkonstruktion | hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige Edelholzböden auf gedämmter Unterkonstruktion | 5 |
+  | Sanitäreinrichtungen | einfaches Bad mit Stand-WC; Installation auf Putz; Ölfarbenanstrich, einfache PVC-Bodenbeläge | 1 Bad mit WC, Dusche oder Badewanne; einfache Wand- und Bodenfliesen, teilweise gefliest | 1 Bad mit WC, Dusche und Badewanne, Gäste-WC; Wand- und Bodenfliesen, raumhoch gefliest | 1 bis 2 Bäder mit tlw. zwei Waschbecken, tlw. Bidet/Urinal, Gäste-WC, bodengleiche Dusche; Wand- und Bodenfliesen; jeweils in gehobener Qualität | mehrere großzügige, hochwertige Bäder, Gäste-WC; hochwertige Wand- und Bodenplatten (oberflächenstrukturiert, Einzel- und Flächendekors) | 9 |
+  | Heizung | Einzelöfen, Schwerkraftheizung | Fern- oder Zentralheizung, einfache Warmluftheizung, einzelne Gasaußenwandthermen, Nachtstromspeicher-, Fußbodenheizung (vor ca. 1995) | elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur- oder Brennwertkessel | Fußbodenheizung, Solarkollektoren für Warmwassererzeugung, zusätzlicher Kaminanschluss | Solarkollektoren für Warmwassererzeugung und Heizung, Blockheizkraftwerk, Wärmepumpe, Hybrid-Systeme; aufwendige zusätzliche Kaminanlage | 9 |
+  | Sonstige technische Ausstattung | sehr wenige Steckdosen, Schalter und Sicherungen, kein Fehlerstromschutzschalter (FI-Schalter), Leitungen teilweise auf Putz | wenige Steckdosen, Schalter und Sicherungen | zeitgemäße Anzahl an Steckdosen und Lichtauslässen, Zählerschrank (ab ca. 1985) mit Unterverteilung und Kippsicherungen | zahlreiche Steckdosen und Lichtauslässe, hochwertige Abdeckungen, dezentrale Lüftung mit Wärmetauscher, mehrere LAN- und Fernsehanschlüsse | Video- und zentrale Alarmanlage, zentrale Lüftung mit Wärmetauscher, Klimaanlage, Bussystem | 6 |
+2. Beschreibung der Gebäudestandards für Mehrfamilienhäuser, Wohnhäuser mit Mischnutzung
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | ein- /zweischaliges Mauerwerk, z. B. aus Leichtziegeln, Kalksandsteinen, Gasbetonsteinen; Edelputz; Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995) | Verblendmauerwerk, zweischalig, hinterlüftet, Vorhangfassade (z. B. Naturschiefer); Wärmedämmung (nach ca. 2005) | aufwendig gestaltete Fassaden mit konstruktiver Gliederung (Säulenstellungen, Erker etc.), Sichtbeton-Fertigteile, Natursteinfassade, Elemente aus Kupfer- /Eloxalblech, mehrgeschossige Glasfassaden; hochwertigste Dämmung |
+  | Dach | Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel, Folienabdichtung; Dachdämmung (nach ca. 1995) | glasierte Tondachziegel; Flachdachausbildung tlw. als Dachterrasse; Konstruktion in Brettschichtholz, schweres Massivflachdach; besondere Dachform, z. B. Mansarden-, Walmdach; Aufsparrendämmung, überdurchschnittliche Dämmung (nach ca. 2005) | hochwertige Eindeckung z. B. aus Schiefer oder Kupfer, Dachbegrünung, befahrbares Flachdach; stark überdurchschnittliche Dämmung |
+  | Fenster und Außentüren | Zweifachverglasung (nach ca. 1995), Rollläden (manuell); Haustür mit zeitgemäßem Wärmeschutz (nach ca. 1995) | Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen, Rollläden (elektr.); höherwertige Türanlagen z. B. mit Seitenteil, besonderer Einbruchschutz | große, feststehende Fensterflächen, Spezialverglasung (Schall- und Sonnenschutz); Außentüren in hochwertigen Materialien |
+  | Innenwände und -türen | nicht tragende Innenwände in massiver Ausführung bzw. mit Dämmmaterial gefüllte Ständerkonstruktionen; schwere Türen | Sichtmauerwerk; Massivholztüren, Schiebetürelemente, Glastüren, strukturierte Türblätter | gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien); Brandschutzverkleidung; raumhohe aufwendige Türelemente |
+  | Deckenkonstruktion | Betondecken mit Tritt- und Luftschallschutz (z. B. schwimmender Estrich); einfacher Putz | zusätzlich Deckenverkleidung | Deckenvertäfelungen (Edelholz, Metall) |
+  | Fußböden | Linoleum-, Teppich-, Laminat- und PVC-Böden besserer Art und Ausführung, Fliesen, Kunststeinplatten | Natursteinplatten, Fertigparkett, hochwertige Fliesen, Terrazzobelag, hochwertige Massivholzböden auf gedämmter Unterkonstruktion | hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige Edelholzböden auf gedämmter Unterkonstruktion |
+  | Sanitäreinrichtungen | 1 Bad mit WC je Wohneinheit; Dusche und Badewanne; Wand- und Bodenfliesen, raumhoch gefliest | 1 bis 2 Bäder je Wohneinheit mit tlw. zwei Waschbecken, tlw. Bidet/Urinal, Gäste-WC, bodengleiche Dusche; Wand- und Bodenfliesen jeweils in gehobener Qualität | 2 und mehr Bäder je Wohneinheit; hochwertige Wand- und Bodenplatten (oberflächenstrukturiert, Einzel- und Flächendekors) |
+  | Heizung | elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur- oder Brennwertkessel | Fußbodenheizung, Solarkollektoren für Warmwassererzeugung | Solarkollektoren für Warmwassererzeugung und Heizung, Blockheizkraftwerk, Wärmepumpe, Hybrid-Systeme |
+  | Sonstige technische Ausstattung | zeitgemäße Anzahl an Steckdosen und Lichtauslässen; Zählerschrank (ab ca. 1985) mit Unterverteilung und Kippsicherungen | zahlreiche Steckdosen und Lichtauslässe, hochwertige Abdeckungen, dezentrale Lüftung mit Wärmetauscher, mehrere LAN- und Fernsehanschlüsse, Personenaufzugsanlagen | Video- und zentrale Alarmanlage, zentrale Lüftung mit Wärmetauscher, Klimaanlage; Bussystem; aufwendige Personenaufzugsanlagen |
+3. Beschreibung der Gebäudestandards für Bürogebäude, Banken, Geschäftshäuser
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | ein- /zweischalige Konstruktion; Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995) | Verblendmauerwerk, zweischalig, hinterlüftet, Vorhangfassade (z. B. Naturschiefer); Wärmedämmung (nach ca. 2005) | aufwendig gestaltete Fassaden mit konstruktiver Gliederung (Säulenstellungen, Erker etc.), Sichtbeton-Fertigteile, Natursteinfassade, Elemente aus Kupfer- /Eloxalblech, mehrgeschossige Glasfassaden; Vorhangfassade aus Glas; stark überdurchschnittliche Dämmung |
+  | Dach | Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel, Folienabdichtung; Dachdämmung (nach ca. 1995) | glasierte Tondachziegel; schweres Massivflachdach; besondere Dachform; überdurchschnittliche Dämmung (nach ca. 2005) | hochwertige Eindeckung z. B. aus Schiefer oder Kupfer; Dachbegrünung; befahrbares Flachdach; aufwendig gegliederte Dachlandschaft; stark überdurchschnittliche Dämmung |
+  | Fenster und Außentüren | Zweifachverglasung (nach ca. 1995) | Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen, höherwertige Türanlagen | große, feststehende Fensterflächen, Spezialverglasung (Schall- und Sonnenschutz); Außentüren in hochwertigen Materialien; Automatiktüren |
+  | Innenwände und -türen | nicht tragende Innenwände in massiver Ausführung; schwere Türen | Sichtmauerwerk, Massivholztüren, Schiebetürelemente, Glastüren, Innenwände für flexible Raumkonzepte (größere statische Spannweiten der Decken) | gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien); Wände aus großformatigen Glaselementen, Akustikputz, tlw. Automatiktüren; rollstuhlgerechte Bedienung |
+  | Deckenkonstruktion | Betondecken mit Tritt- und Luftschallschutz; einfacher Putz; abgehängte Decken | höherwertige abgehängte Decken | Deckenvertäfelungen (Edelholz, Metall) |
+  | Fußböden | Linoleum- oder Teppich-Böden besserer Art und Ausführung; Fliesen, Kunststeinplatten | Natursteinplatten, Fertigparkett, hochwertige Fliesen, Terrazzobelag, hochwertige Massivholzböden auf gedämmter Unterkonstruktion | hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige Edelholzböden auf gedämmter Unterkonstruktion |
+  | Sanitäreinrichtungen | ausreichende Anzahl von Toilettenräumen in Standard-Ausführung | Toilettenräume in gehobenem Standard | großzügige Toilettenanlagen jeweils mit Sanitäreinrichtung in gehobener Qualität |
+  | Heizung | elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur- oder Brennwertkessel | Fußbodenheizung; Solarkollektoren für Warmwassererzeugung | Solarkollektoren für Warmwassererzeugung und Heizung, Blockheizkraftwerk, Wärmepumpe, Hybrid-Systeme; Klimaanlage |
+  | Sonstige technische Ausstattung | zeitgemäße Anzahl an Steckdosen und Lichtauslässen; Zählerschrank (ab ca. 1985) mit Unterverteilung und Kippsicherungen; Kabelkanäle; Blitzschutz | zahlreiche Steckdosen und Lichtauslässe; hochwertige Abdeckungen, hochwertige Beleuchtung; Doppelboden mit Bodentanks zur Verkabelung; ausreichende Anzahl von LAN-Anschlüssen; dezentrale Lüftung mit Wärmetauscher, Messverfahren von Verbrauch, Regelung von Raumtemperatur und Raumfeuchte, Sonnenschutzsteuerung; elektronische Zugangskontrolle; Personenaufzugsanlagen | Video- und zentrale Alarmanlage; zentrale Lüftung mit Wärmetauscher, Klimaanlage; Bussystem; aufwendige Personenaufzugsanlagen |
+4. Beschreibung der Gebäudestandards für Gemeindezentren, Saalbauten, Veranstaltungsgebäude, Kindergärten, Schulen
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | ein- /zweischalige Konstruktion; Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995) | Verblendmauerwerk, zweischalig, hinterlüftet; Vorhangfassade (z. B. Naturschiefer); Wärmedämmung (nach ca. 2005) | aufwendig gestaltete Fassaden mit konstruktiver Gliederung (Säulenstellungen, Erker etc.), Sichtbeton-Fertigteile, Natursteinfassade, Elemente aus Kupfer- /Eloxalblech, mehrgeschossige Glasfassaden; stark überdurchschnittliche Dämmung |
+  | Dach | Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel, Folienabdichtung; Dachdämmung (nach ca. 1995) | glasierte Tondachziegel; besondere Dachform; Dämmung (nach ca. 2005) | hochwertige Eindeckung z. B. aus Schiefer oder Kupfer, Dachbegrünung, befahrbares Flachdach; aufwendig gegliederte Dachlandschaft, stark überdurchschnittliche Dämmung |
+  | Fenster und Außentüren | Zweifachverglasung (nach ca. 1995) | Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen, höherwertige Türanlagen | große, feststehende Fensterflächen, Spezialverglasung (Schall- und Sonnenschutz); Außentüren in hochwertigen Materialien |
+  | Innenwände und -türen | nicht tragende Innenwände in massiver Ausführung bzw. mit Dämmmaterial gefüllte Ständerkonstruktionen; schwere und große Türen | Sichtmauerwerk, Massivholztüren, Schiebetürelemente, Glastüren | gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien); Vertäfelungen (Edelholz, Metall), Akustikputz, raumhohe aufwendige Türelemente; tlw. Automatiktüren; rollstuhlgerechte Bedienung |
+  | Deckenkonstruktion | Betondecken mit Tritt- und Luftschallschutz; einfacher Putz; abgehängte Decken | Decken mit großen Spannweiten , Deckenverkleidung | Decken mit größeren Spannweiten |
+  | Fußböden | Linoleum- oder Teppich-Böden besserer Art und Ausführung; Fliesen, Kunststeinplatten | Natursteinplatten, hochwertige Fliesen, Terrazzobelag, hochwertige Massivholzböden auf gedämmter Unterkonstruktion | hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige Edelholzböden auf gedämmter Unterkonstruktion |
+  | Sanitäreinrichtungen | ausreichende Anzahl von Toilettenräumen in Standard-Ausführung | Toilettenräume in gehobenem Standard | großzügige Toilettenanlagen mit Sanitäreinrichtung in gehobener Qualität |
+  | Heizung | elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur- oder Brennwertkessel | Solarkollektoren für Warmwassererzeugung; Fußbodenheizung | Solarkollektoren für Warmwassererzeugung und Heizung; Blockheizkraftwerk, Wärmepumpe, Hybrid-Systeme; Klimaanlage |
+  | Sonstige technische Ausstattung | zeitgemäße Anzahl an Steckdosen und Lichtauslässen; Zählerschrank (ab 1985) mit Unterverteilung und Kippsicherungen; Kabelkanäle; Blitzschutz | zahlreiche Steckdosen und Lichtauslässe; hochwertige Abdeckungen, hochwertige Beleuchtung; Doppelboden mit Bodentanks zur Verkabelung, ausreichende Anzahl von LAN-Anschlüssen; dezentrale Lüftung mit Wärmetauscher, Messverfahren von Raumtemperatur, Raumfeuchte, Verbrauch, Einzelraumregelung, Sonnenschutzsteuerung; elektronische Zugangskontrolle; Personenaufzugsanlagen | Video- und zentrale Alarmanlage; zentrale Lüftung mit Wärmetauscher, Klimaanlage; Bussystem |
+5. Beschreibung der Gebäudestandards für Wohnheime, Alten- oder Pflegeheime, Krankenhäuser, Tageskliniken, Beherbergungsstätten, Verpflegungseinrichtungen
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | ein- /zweischalige Konstruktion; Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995) | Verblendmauerwerk, zweischalig, hinterlüftet, Vorhangfassade (z. B. Naturschiefer); Wärmedämmung (nach ca. 2005) | aufwendig gestaltete Fassaden mit konstruktiver Gliederung (Säulenstellungen, Erker etc.), Sichtbeton-Fertigteile, Natursteinfassade, Elemente aus Kupfer- /Eloxalblech, mehrgeschossige Glasfassaden; hochwertigste Dämmung |
+  | Dach | Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel, Folienabdichtung; Dachdämmung (nach ca. 1995) | glasierte Tondachziegel; besondere Dachformen; überdurchschnittliche Dämmung (nach ca. 2005) | hochwertige Eindeckung z. B. aus Schiefer oder Kupfer, Dachbegrünung, befahrbares Flachdach; aufwendig gegliederte Dachlandschaft; sichtbare hochwertigste Dämmung |
+  | Fenster und Außentüren | Zweifachverglasung (nach ca. 1995) nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser und Tageskliniken: Automatik-Eingangstüren | Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen; nur Beherbergungsstätten und Verpflegungseinrichtungen: Automatik-Eingangstüren | große, feststehende Fensterflächen, Spezialverglasung (Schall- und Sonnenschutz) |
+  | Innenwände und -türen | nicht tragende Innenwände in massiver Ausführung bzw. mit Dämmmaterial gefüllte Ständerkonstruktionen; schwere Türen; nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser und Tageskliniken: Automatik-Flurzwischentüren; rollstuhlgerechte Bedienung | Sichtmauerwerk; nur Beherbergungsstätten und Verpflegungseinrichtungen: Automatik-Flurzwischentüren; rollstuhlgerechte Bedienung | gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien); Akustikputz, raumhohe aufwendige Türelemente |
+  | Deckenkonstruktion und Treppen | Betondecken mit Tritt- und Luftschallschutz; Deckenverkleidung, einfacher Putz | Decken mit großen Spannweiten | Decken mit größeren Spannweiten; hochwertige breite Stahlbeton-, Metalltreppenanlage mit hochwertigem Geländer |
+  | Fußböden | Linoleum- oder PVC-Böden besserer Art und Ausführung; Fliesen, Kunststeinplatten | Natursteinplatten, hochwertige Fliesen, Terrazzobelag, hochwertige Massivholzböden auf gedämmter Unterkonstruktion | hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige Edelholzböden auf gedämmter Unterkonstruktion |
+  | Sanitäreinrichtungen | mehrere WCs und Duschbäder je Geschoss; Waschbecken im Raum | je Raum ein Duschbad mit WC nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser und Tageskliniken: behindertengerecht | je Raum ein Duschbad mit WC in guter Ausstattung; nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser und Tageskliniken: behindertengerecht |
+  | Heizung | elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur- oder Brennwertkessel | Solarkollektoren für Warmwassererzeugung | Solarkollektoren für Warmwassererzeugung und Heizung; Blockheizkraftwerk, Wärmepumpe, Hybrid-Systeme; Klimaanlage |
+  | Sonstige technische Ausstattung | zeitgemäße Anzahl an Steckdosen und Lichtauslässen; Blitzschutz, Personenaufzugsanlagen | zahlreiche Steckdosen und Lichtauslässe; hochwertige Abdeckungen; dezentrale Lüftung mit Wärmetauscher; mehrere LAN- und Fernsehanschlüsse | Video- und zentrale Alarmanlage, zentrale Lüftung mit Wärmetauscher, Klimaanlage, Bussystem; aufwendige Aufzugsanlagen |
+6. Beschreibung der Gebäudestandards für Sporthallen, Freizeitbäder oder Heilbäder
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | ein- /zweischalige Konstruktion; Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995) | Verblendmauerwerk, zweischalig, hinterlüftet; Vorhangfassade (z. B. Naturschiefer); Wärmedämmung (nach ca. 2005) | aufwendig gestaltete Fassaden mit konstruktiver Gliederung (Säulenstellungen, Erker etc.), Sichtbeton-Fertigteile, Elemente aus Kupfer- /Eloxalblech, mehrgeschossige Glasfassaden; hochwertigste Dämmung |
+  | Dach | Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel, Folienabdichtung; Dachdämmung (nach ca. 1995) | glasierte Tondachziegel; besondere Dachformen, überdurchschnittliche Dämmung (nach ca. 2005) | hochwertige Eindeckung z. B. aus Schiefer oder Kupfer, Dachbegrünung; aufwendig gegliederte Dachlandschaft, sichtbare Bogendachkonstruktionen; hochwertigste Dämmung |
+  | Fenster und Außentüren | Zweifachverglasung (nach ca. 1995) | Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen, höherwertige Türanlagen | große, feststehende Fensterflächen, Spezialverglasung (Schall- und Sonnenschutz); Automatik-Eingangstüren |
+  | Innenwände und -türen | nicht tragende Innenwände in massiver Ausführung bzw. mit Dämmmaterial gefüllte Ständerkonstruktionen; schwere Türen | Sichtmauerwerk; rollstuhlgerechte Bedienung | gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien); Akustikputz, raumhohe aufwendige Türelemente |
+  | Deckenkonstruktion und Treppen | Betondecke | Decken mit großen Spannweiten | Decken mit größeren Spannweiten; hochwertige breite Stahlbeton-, Metalltreppenanlage mit hochwertigem Geländer |
+  | Fußböden | nur Sporthallen: Beton, Asphaltbeton, Estrich oder Gussasphalt auf Beton; Teppichbelag, PVC; nur Freizeitbäder/Heilbäder: Fliesenbelag | nur Sporthallen: hochwertigere flächenstatische Fußbodenkonstruktion, Spezialteppich mit Gummigranulatauflage; hochwertigerer Schwingboden | nur Sporthallen: hochwertigste flächenstatische Fußbodenkonstruktion, Spezialteppich mit Gummigranulatauflage; hochwertigster Schwingboden; nur Freizeitbäder/Heilbäder: hochwertiger Fliesenbelag und Natursteinboden |
+  | Sanitäreinrichtungen | wenige Toilettenräume und Duschräume bzw. Waschräume | ausreichende Anzahl von Toilettenräumen und Duschräumen in besserer Qualität | großzügige Toilettenanlagen und Duschräume mit Sanitäreinrichtung in gehobener Qualität |
+  | Heizung | elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur- oder Brennwertkessel | Fußbodenheizung; Solarkollektoren für Warmwassererzeugung | Solarkollektoren für Warmwassererzeugung und Heizung, Blockheizkraftwerk, Wärmepumpe, Hybrid-Systeme |
+  | Sonstige technische Ausstattung | zeitgemäße Anzahl an Steckdosen und Lichtauslässen; Blitzschutz | zahlreiche Steckdosen und Lichtauslässe, hochwertige Abdeckungen, Lüftung mit Wärmetauscher | Video- und zentrale Alarmanlage; Klimaanlage; Bussystem |
+7. Beschreibung der Gebäudestandards für Verbrauchermärkte, Kauf- oder Warenhäuser, Autohäuser
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | ein- /zweischalige Konstruktion, Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995) | Verblendmauerwerk, zweischalig, hinterlüftet; Vorhangfassade (z. B. Naturschiefer); Wärmedämmung (nach ca. 2005) | aufwendig gestaltete Fassaden mit konstruktiver Gliederung (Säulenstellungen, Erker etc.), Sichtbeton-Fertigteile, Natursteinfassade, Elemente aus Kupfer- /Eloxalblech, mehrgeschossige Glasfassaden; hochwertigste Dämmung |
+  | Dach | Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel, Folienabdichtung; Rinnen und Fallrohre aus Zinkblech; Dachdämmung (nach ca. 1995) | glasierte Tondachziegel; besondere Dachform; überdurchschnittliche Dämmung (nach ca. 2005) | hochwertige Eindeckung z. B. aus Schiefer oder Kupfer, Dachbegrünung; aufwendig gegliederte Dachlandschaft; hochwertigste Dämmung |
+  | Fenster und Außentüren | Zweifachverglasung (nach ca. 1995) | Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen, höherwertige Türanlagen | große, feststehende Fensterflächen, Spezialverglasung (Schall- und Sonnenschutz); Außentüren in hochwertigen Materialien |
+  | Innenwände und -türen | nicht tragende Innenwände in massiver Ausführung bzw. mit Dämmmaterial gefüllte Ständerkonstruktionen; schwere Türen | Sichtmauerwerk | gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder geschwungene Wandpartien); Akustikputz, raumhohe aufwendige Türelemente; rollstuhlgerechte Bedienung, Automatiktüren |
+  | Deckenkonstruktion | Betondecken mit Tritt- und Luftschallschutz, einfacher Putz, Deckenverkleidung | Decken mit großen Spannweiten | Decken mit größeren Spannweiten, Deckenvertäfelungen (Edelholz, Metall) |
+  | Fußböden | Linoleum- oder Teppich-Böden besserer Art und Ausführung; Fliesen, Kunststeinplatten | Natursteinplatten, Fertigparkett, hochwertige Fliesen, Terrazzobelag, hochwertige Massivholzböden auf gedämmter Unterkonstruktion | hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige Edelholzböden auf gedämmter Unterkonstruktion |
+  | Sanitäreinrichtungen | Toilettenräume | ausreichende Anzahl von Toilettenräumen, jeweils in gehobenem Standard | großzügige Toilettenanlagen mit Sanitäreinrichtung in gehobener Qualität |
+  | Heizung | elektronisch gesteuerte Fern- oder Zentralheizung; Niedertemperatur- oder Brennwertkessel | Fußbodenheizung; Solarkollektoren für Warmwassererzeugung | Solarkollektoren für Warmwassererzeugung und Heizung; Blockheizkraftwerk, Wärmepumpe, Hybrid-Systeme; Klimaanlage |
+  | Sonstige technische Ausstattung | zeitgemäße Anzahl an Steckdosen und Lichtauslässen, Zählerschrank (ab 1985) mit Unterverteilung und Kippsicherungen; Kabelkanäle; Blitzschutz; Personenaufzugsanlagen | zahlreiche Steckdosen und Lichtauslässe; hochwertige Abdeckungen, hochwertige Beleuchtung; Doppelboden mit Bodentanks zur Verkabelung, ausreichende Anzahl von LAN-Anschlüssen; dezentrale Lüftung mit Wärmetauscher, Messverfahren von Raumtemperatur, Raumfeuchte, Verbrauch, Einzelraumregelung, Sonnenschutzsteuerung | Video- und zentrale Alarmanlage; zentrale Lüftung mit Wärmetauscher, Klimaanlage; Bussystem; Doppelboden mit Bodentanks zur Verkabelung; aufwendigere Aufzugsanlagen |
+8. Beschreibung der Gebäudestandards für Garagen
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | offene Konstruktion | Einschalige Konstruktion | aufwendig gestaltete Fassaden mit konstruktiver Gliederung (Säulenstellungen, Erker etc.) |
+  | Konstruktion | Stahl- und Betonfertigteile | überwiegend Betonfertigteile; große stützenfreie Spannweiten | größere stützenfreie Spannweiten |
+  | Dach | Flachdach, Folienabdichtung | Flachdachausbildung; Wärmedämmung | befahrbares Flachdach (Parkdeck) |
+  | Fenster und Außentüren | einfache Metallgitter | begrünte Metallgitter, Glasbausteine | Außentüren in hochwertigen Materialien |
+  | Fußböden | Beton | Estrich, Gussasphalt | beschichteter Beton oder Estrichboden |
+  | Sonstige technische Ausstattung | Strom- und Wasseranschluss; Löschwasseranlage; Treppenhaus; Brandmelder | Sprinkleranlage; Rufanlagen; Rauch- und Wärmeabzugsanlagen; mechanische Be- und Entlüftungsanlagen; Parksysteme für zwei PKW übereinander; Personenaufzugsanlagen | Video- und zentrale Alarmanlage; Beschallung; Parksysteme für drei oder mehr PKW übereinander; aufwendigere Aufzugsanlagen |
+9. Beschreibung der Gebäudestandards für Betriebs- oder Werkstätten, Produktionsgebäude, Lagergebäude
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | ein- /zweischaliges Mauerwerk, z. B. aus Leichtziegeln, Kalksandsteinen, Gasbetonsteinen; Edelputz; gedämmte Metall-Sandwichelemente; Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995) | Verblendmauerwerk, zweischalig, hinterlüftet; Vorhangfassade (z. B. Naturschiefer); Wärmedämmung (nach ca. 2005) | Sichtbeton-Fertigteile; Natursteinfassade, Elemente aus Kupfer- /Eloxalblech; mehrgeschossige Glasfassaden; hochwertigste Dämmung |
+  | Konstruktion | Stahl- und Betonfertigteile | überwiegend Betonfertigteile; große stützenfreie Spannweiten; hohe Deckenhöhen; hohe Belastbarkeit der Decken und Böden | größere stützenfreie Spannweiten; hohe Deckenhöhen; höhere Belastbarkeit der Decken und Böden |
+  | Dach | Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel; Folienabdichtung; Dachdämmung (nach ca. 1995) | schweres Massivflachdach; besondere Dachformen; überdurchschnittliche Dämmung (nach ca. 2005) | hochwertige Eindeckung z. B. aus Schiefer oder Kupfer, hochwertigste Dämmung |
+  | Fenster und Außentüren | Zweifachverglasung (nach ca. 1995) | Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen; höherwertige Türanlage | große, feststehende Fensterflächen, Spezialverglasung (Schall- und Sonnenschutz); Außentüren in hochwertigen Materialien |
+  | Innenwände und -türen | Anstrich | tlw. gefliest, Sichtmauerwerk; Schiebetürelemente, Glastüren | überwiegend gefliest; Sichtmauerwerk; gestaltete Wandabläufe |
+  | Fußböden | Beton | Estrich, Gussasphalt | beschichteter Beton oder Estrichboden; Betonwerkstein, Verbundpflaster |
+  | Sanitäreinrichtungen | einfache und wenige Toilettenräume | ausreichende Anzahl von Toilettenräumen | großzügige Toilettenanlagen |
+  | Heizung | elektronisch gesteuerte Fern- oder Zentralheizung; Niedertemperatur- oder Brennwertkessel | Fußbodenheizung; Solarkollektoren für Warmwassererzeugung; zusätzlicher Kaminanschluss | Solarkollektoren für Warmwassererzeugung und Heizung; Blockheizkraftwerk; Wärmepumpe; Hybrid-Systeme; aufwendige zusätzliche Kaminanlage |
+  | Sonstige technische Ausstattung | zeitgemäße Anzahl an Steckdosen und Lichtauslässen; Blitzschutz; Teeküchen | zahlreiche Steckdosen und Lichtauslässe; hochwertige Abdeckungen; Kabelkanäle; dezentrale Lüftung mit Wärmetauscher; kleinere Einbauküchen mit Kochgelegenheit, Aufenthaltsräume; Aufzugsanlagen | Video- und zentrale Alarmanlage; zentrale Lüftung mit Wärmetauscher, Klimaanlage; Bussystem; Küchen, Kantinen; aufwendigere Aufzugsanlagen |
+10. Beschreibung der Gebäudestandards für Reithallen
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | Holzfachwerkwand; Holzstützen, Vollholz; Brettschalung oder Profilblech auf Holz-Unterkonstruktion | Kalksandstein- oder Ziegel-Mauerwerk; Metallstützen, Profil; Holz-Blockbohlen zwischen Stützen, Wärmedämmverbundsystem, Putz | Betonwand, Fertigteile, mehrschichtig; Stahlbetonstützen, Fertigteil; Kalksandstein-Vormauerung oder Klinkerverblendung mit Dämmung |
+  | Dach | Holzkonstruktionen, Nagelbrettbinder; Bitumenwellplatten, Profilblech | Stahlrahmen mit Holzpfetten; Faserzementwellplatten; Hartschaumplatten | Brettschichtholzbinder; Betondachsteine oder Dachziegel; Dämmung mit Profilholz oder Paneelen |
+  | Fenster und Außentüren bzw. -tore | Lichtplatten aus Kunststoff, Holz-Brettertüren | Kunststofffenster, Windnetze aus Kunststoff, Jalousien mit Motorantrieb | Türen und Tore mehrschichtig mit Wärmedämmung, Holzfenster, hoher Fensteranteil |
+  | Innenwände | keine | tragende bzw. nicht tragende Innenwände aus Holz; Anstrich | tragende bzw. nicht tragende Innenwände als Mauerwerk; Sperrholz, Gipskarton, Fliesen |
+  | Deckenkonstruktion | keine | Holzkonstruktionen über Nebenräumen; Hartschaumplatten | Stahlbetonplatte über Nebenräumen; Dämmung mit Profilholz oder Paneelen |
+  | Fußböden | Tragschicht: Schotter, Trennschicht: Vlies, Tretschicht: Sand | zusätzlich/alternativ: Tragschicht: Schotter, Trennschicht: Kunststoffgewebe, Tretschicht: Sand und Holzspäne | Estrich auf Dämmung, Fliesen oder Linoleum in Nebenräumen; zusätzlich/alternativ: Tragschicht: Schotter, Trennschicht: Kunststoffplatten, Tretschicht: Sand und Textilflocken, Betonplatte im Bereich der Nebenräume |
+  | baukonstruktive Einbauten | Reithallenbande aus Nadelholz zur Abgrenzung der Reitfläche | zusätzlich/alternativ: Vollholztafeln fest eingebaut | zusätzlich/alternativ: Vollholztafeln, Fertigteile zum Versetzen |
+  | Abwasser-, Wasser-, Gasanlagen | Regenwasserableitung | zusätzlich/alternativ: Abwasserleitungen, Sanitärobjekte (einfache Qualität) | zusätzlich/alternativ: Sanitärobjekte (gehobene Qualität), Gasanschluss |
+  | Wärmeversorgungsanlagen | keine | Raumheizflächen in Nebenräumen, Anschluss an Heizsystem | zusätzlich/alternativ: Heizkessel |
+  | lufttechnische Anlagen | keine | Firstentlüftung | Be- und Entlüftungsanlage |
+  | Starkstrom-Anlage | Leitungen, Schalter, Dosen, Langfeldleuchten | zusätzlich/alternativ: Sicherungen und Verteilerschrank | zusätzlich/alternativ: Metall-Dampfleuchten |
+  | nutzungsspezifische Anlagen | keine | Reitbodenbewässerung (einfache Ausführung) | Reitbodenbewässerung (komfortable Ausführung) |
+11. Beschreibung der Gebäudestandards für Pferdeställe
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | Holzfachwerkwand; Holzstützen, Vollholz; Brettschalung oder Profilblech auf Holz-Unterkonstruktion | Kalksandstein- oder Ziegel-Mauerwerk; Metallstützen, Profil; Holz-Blockbohlen zwischen Stützen, Wärmedämmverbundsystem, Putz | Betonwand, Fertigteile, mehrschichtig; Stahlbetonstützen, Fertigteil; Kalksandstein-Vormauerung oder Klinkerverblendung mit Dämmung |
+  | Dach | Holzkonstruktionen, Vollholzbalken; Nagelbrettbinder; Bitumenwellplatten, Profilblech | Stahlrahmen mit Holzpfetten; Faserzementwellplatten; Hartschaumplatten | Brettschichtholzbinder; Betondachsteine oder Dachziegel; Dämmung mit Profilholz oder Paneelen |
+  | Fenster und Außentüren bzw. -tore | Lichtplatten aus Kunststoff, Holz-Brettertüren | Kunststofffenster, Windnetze aus Kunststoff, Jalousien mit Motorantrieb | Türen und Tore mehrschichtig mit Wärmedämmung, Holzfenster, hoher Fensteranteil |
+  | Innenwände | keine | tragende bzw. nicht tragende Innenwände aus Holz; Anstrich | tragende bzw. nicht tragende Innenwände als Mauerwerk; Sperrholz, Putz, Fliesen |
+  | Deckenkonstruktion | keine | Holzkonstruktionen über Nebenräumen; Hartschaumplatten | Stahlbetonplatten über Nebenräumen; Dämmung mit Profilholz oder Paneelen |
+  | Fußböden | Beton-Verbundpflaster in Stallgassen, Stahlbetonplatte im Tierbereich | zusätzlich/alternativ: Stahlbetonplatte; Anstrich, Gummimatten im Tierbereich | zusätzlich/alternativ: Stahlbetonplatte als Stallprofil mit versetzten Ebenen; Nutzestrich auf Dämmung, Anstrich oder Fliesen in Nebenräumen, Kautschuk im Tierbereich |
+  | baukonstruktive Einbauten | Fütterung: Futtertrog PVC | Fütterung: Krippenschalen aus Polyesterbeton | Fütterung: Krippenschalen aus Steinzeug |
+  | Abwasser-, Wasser-, Gasanlagen | Regenwasserableitung, Wasserleitung | zusätzlich/alternativ: Abwasserleitungen, Sanitärobjekte (einfache Qualität) in Nebenräumen | zusätzlich/alternativ: Sanitärobjekte (gehobene Qualität), Gasanschluss |
+  | Wärmeversorgungsanlagen | keine | Elektroheizung in Sattelkammer | zusätzlich/alternativ: Raumheizflächen, Heizkessel |
+  | lufttechnische Anlagen | keine | Firstentlüftung | Be- und Entlüftungsanlage |
+  | Starkstrom-Anlage | Leitungen, Schalter, Dosen, Langfeldleuchten | zusätzlich/alternativ: Sicherungen und Verteilerschrank | zusätzlich/alternativ: Metall-Dampfleuchten |
+  | nutzungsspezifische Anlagen | Aufstallung: Boxentrennwände aus Holz, Anbindevorrichtungen Fütterung: Tränken, Futterraufen | Aufstallung: zusätzlich/alternativ: Boxentrennwände: Hartholz/Metall Fütterung: zusätzlich/alternativ: Fressgitter, Futterautomaten, Rollraufe mit elektr. Steuerung | Aufstallung: zusätzlich/alternativ: Komfort-Pferdeboxen, Pferde-Solarium Fütterung: zusätzlich/alternativ: Futter-Abrufstationen für Rau- und Kraftfutter mit elektr. Tiererkennung und Selektion, Automatische Futterzuteilung für Boxenställe |
+12. Beschreibung der Gebäudestandards für Rinderställe und Melkhäuser
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | Holzfachwerkwand; Holzstützen, Vollholz; Brettschalung oder Profilblech auf Holz-Unterkonstruktion | Kalksandstein- oder Ziegel-Mauerwerk; Metallstützen, Profil; Holz-Blockbohlen zwischen Stützen | Betonwand, Fertigteile, mehrschichtig; Stahlbetonstützen, Fertigteil; Klinkerverblendung |
+  | Dach | Holzkonstruktionen, Vollholzbalken, Nagelbrettbinder; Bitumenwellplatten, Profilblech | Stahlrahmen mit Holzpfetten; Faserzementwellplatten; Hartschaumplatten | Brettschichtholzbinder; Betondachsteine oder Dachziegel; Dämmung mit Profilholz oder Paneelen |
+  | Fenster und Außentüren bzw. -tore | Lichtplatten aus Kunststoff | Kunststofffenster, Windnetze aus Kunststoff, Jalousien mit Motorantrieb | Türen und Tore mehrschichtig mit Wärmedämmung, Holzfenster, hoher Fensteranteil |
+  | Innenwände | keine | tragende und nicht tragende Innenwand aus Holz; Anstrich | tragende und nicht tragende Innenwände aus Mauerwerk; Sperrholz, Putz, Fliesen |
+  | Deckenkonstruktion | keine | Holzkonstruktionen über Nebenräumen; Hartschaumplatten | Stahlbetonplatte über Nebenräumen; Dämmung mit Profilholz oder Paneelen |
+  | Fußböden | Stahlbetonplatte | zusätzlich/alternativ: Stahlbetonplatte mit Oberflächenprofil, Rautenmuster; Epoxidharzbeschichtung am Fressplatz, Liegematten im Tierbereich | zusätzlich/alternativ: Stahlbetonplatte als Stallprofil mit versetzten Ebenen; Estrich auf dem Futtertisch, Liegematratzen im Tierbereich, Gussasphalt oder Gummiauflage |
+  | baukonstruktive Einbauten | Aufstallung: Beton-Spaltenboden, Einzelbalken | Aufstallung: Beton-Spaltenboden, Flächenelemente; Krippenschalen aus Polyesterbeton; Güllerohre vom Stall zum Außenbehälter | Aufstallung: Spaltenboden mit Gummiauflage, Gussroste über Treibmistkanal; Krippenschalen aus Steinzeug; zusätzlich/alternativ: Spülleitungen für Einzelkanäle |
+  | Abwasser-, Wasser-, Gasanlagen | Regenwasserableitung; Wasserleitung | zusätzlich/alternativ: Abwasserleitungen, Sanitärobjekte (einfache Qualität) in Nebenräumen | zusätzlich/alternativ: Sanitärobjekte (gehobene Qualität); Gasanschluss |
+  | Wärme-, Versorgungsanlagen | keine | Elektroheizung im Melkstand | zusätzlich/alternativ: Raumheizflächen, Heizkessel |
+  | lufttechnische Anlagen | keine | Firstentlüftung | Be- und Entlüftungsanlage |
+  | Starkstrom-Anlage | Leitungen, Schalter, Dosen, Langfeldleuchten | zusätzlich/alternativ: Sicherungen und Verteilerschrank | zusätzlich/alternativ: Metall-Dampfleuchten |
+  | nutzungsspezifische Anlagen | Aufstallung: Fressgitter, Liegeboxenbügel, Kälberboxen, Abtrennungen aus Holz, Kurzstandanbindung Fütterung: Selbsttränke, Balltränke Entmistung: keine Technik (Schlepper) Tierproduktentnahme: Fischgrätenmelkstand, Melkanlage, Maschinensatz, Milchkühltank, Kühlaggregat, Wärmerückgewinnung | Aufstallung: zusätzlich/alternativ: Einrichtungen aus verz. Stahlrohren Fütterung: Tränkewanne mit Schwimmer, Tränkeautomat für Kälber Entmistung: Faltschieber mit Seilzug und Antrieb, Tauchschneidpumpe, Rührmixer Tierproduktentnahme: zusätzlich/alternativ Milchflussgesteuerte Anrüst- und Abschaltautomatik | Aufstallung: zusätzlich/alternativ: Komfortboxen Fütterung: Edelstahl-Kipptränke, computergesteuerte Kraftfutteranlage mit Tiererkennung Entmistung: Schubstangenentmistung Tierproduktentnahme: zusätzlich/alternativ: Melkstand-Schnellaustrieb, Tandem oder Karussellmelkstand, Automatisches Melksystem (Roboter) |
+13. Beschreibung der Gebäudestandards für Schweineställe
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | Holzfachwerkwand; Holzstützen, Vollholz; Brettschalung oder Profilblech auf Holz-Unterkonstruktion | Kalksandstein- oder Ziegel-Mauerwerk; Metallstützen, Profil; Holz-Blockbohlen zwischen Stützen, Beton-Schalungssteine mit Putz | Betonwand, Fertigteile, mehrschichtig; Stahlbetonstützen, Fertigteil; Kalksandstein-Vormauerung oder Klinkerverblendung mit Dämmung |
+  | Dach | Holzkonstruktionen, Vollholzbalken; Nagelbrettbinder; Bitumenwellplatten, Profilblech | Stahlrahmen mit Holzpfetten; Faserzementwellplatten; Hartschaumplatten | Brettschichtholzbinder; Betondachsteine oder Dachziegel; Dämmung, Kunststoffplatten, Paneele |
+  | Fenster und Außentüren bzw. -tore | Lichtplatten aus Kunststoff, Holz-Brettertüren | Kunststofffenster, Windnetze aus Kunststoff, Jalousien mit Motorantrieb, Metalltüren | Türen und Tore mehrschichtig mit Wärmedämmung, Holzfenster, hoher Fensteranteil |
+  | Innenwände | keine Innenwände | tragende Innenwände aus Mauerwerk, Putz und Anstrich; nichttragende Innenwände aus Kunststoff-Paneele mit Anstrich | tragende Innenwände als Betonwand, Fertigteile, Anstrich; nichttragende Innenwände aus Mauerwerk, Putz und Anstrich; Sperrholz, Putz, Fliesen |
+  | Deckenkonstruktion | keine Decke | Holzkonstruktionen über Nebenräumen; Hartschaumplatten | Stahlbetonplatten über Nebenräumen; Dämmung, Kunststoffplatten, Paneele |
+  | Fußböden | Stahlbetonplatte | Stahlbetonplatte; Verbundestrich | zusätzlich/alternativ: Stahlbetonplatte als Stallprofil mit versetzten Ebenen; Stallbodenplatten mit Dämmung, Fliesen auf Estrich in Nebenräumen |
+  | baukonstruktive Einbauten | Fütterung: Tröge aus Polyesterbeton | Aufstallung: Beton-Spaltenboden, Flächenelemente Fütterung: Tröge aus Polyesterbeton Entmistung: Güllerohre vom Stall zum Außenbehälter, Absperrschieber in Güllekanälen | Aufstallung: Gussroste in Sauenställen, Kunststoffroste in Ferkelställen Fütterung: Tröge aus Steinzeug Entmistung: zusätzlich/alternativ: Spülleitungen für Einzelkanäle |
+  | Abwasser-, Wasser-, Gasanlagen | Regenwasserableitung, Wasserleitung | zusätzlich/alternativ: Abwasserleitungen, Sanitärobjekte (einfache Qualität) in Nebenräumen | zusätzlich/alternativ: Sanitärobjekte (gehobene Qualität), Gasanschluss |
+  | Wärmeversorgungsanlagen | Warmluftgebläse, Elt.-Anschluss | Raumheizflächen oder Twin- bzw. Delta-Heizungsrohren, Anschluss an vorh. Heizsystem | zusätzlich/alternativ: Warmwasser-Fußbodenheizung, Heizkessel mit Gasbefeuerung, Wärmerückgewinnung aus Stallluft |
+  | lufttechnische Anlagen | Zuluftklappen, Lüftungsfirst | Be- und Entlüftungsanlage im Unterdruckverfahren; Zuluftkanäle oder Rieseldecke; Einzelabsaugung, Abluftkanäle, Ventilatoren | zusätzlich/alternativ: Gleichdrucklüftung, Zentralabsaugung, Luftwäscher |
+  | Starkstrom-Anlage | Leitungen, Schalter, Dosen, Langfeldleuchten | zusätzlich/alternativ: Sicherungen und Verteilerschrank | zusätzlich/alternativ: Metall-Dampfleuchten |
+  | nutzungsspezifische Anlagen | Aufstallung: Buchtenabtrennungen aus Kunststoff-Paneelen, Pfosten und Beschläge aus verz. Stahl, Abferkelbuchten, Selbstfang-Kastenstände für Sauen Fütterung: Trockenfutterautomaten, Tränkenippel | Aufstallung: zusätzlich/alternativ: Pfosten und Beschläge aus V2A, Ruhekisten, Betteneinrichtungen Fütterung: zusätzlich/alternativ: Transportrohre, Drahtseilförderer, Rohrbreiautomaten mit Dosierung Entmistung: Tauchschneidpumpe, Rührmixer | Aufstallung: zusätzlich/alternativ: Sortierschleuse Fütterung: zusätzlich/alternativ: Flüssigfütterungsanlage mit Mixbehälter, Sensorsteuerung, Fütterungscomputer, Abrufstation, Tiererkennung, Selektion Entmistung: Schubstangenentmistung |
+14. Beschreibung der Gebäudestandards für Geflügelställe
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | Holzfachwerkwand, Holzstützen, Vollholz, Brettschalung oder Profilblech auf Holz-Unterkonstruktion | Kalksandstein- oder Ziegel-Mauerwerk, Metallstützen, Profil, Metall-Sandwichelemente mit Hartschaumdämmung | Betonwand, Fertigteile, mehrschichtig, Stahlbetonstützen, Fertigteil, Klinkerverblendung |
+  | Dach | Holzkonstruktionen, Vollholzbalken, Nagelbrettbinder, Bitumenwellplatten, Profilblech | Stahlrahmen mit Holzpfetten, Faserzementwellplatten, Hartschaumplatten | Brettschichtholzbinder, Betondachsteine oder Dachziegel, Dämmung, Profilholz oder Paneele |
+  | Fenster und Außentüren bzw. -tore | Lichtplatten aus Kunststoff; Holz-Brettertüren | Kunststofffenster; Windnetze aus Kunststoff, Jalousien mit Motorantrieb | Türen und Tore mehrschichtig mit Wärmedämmung, Holzfenster, hoher Fensteranteil |
+  | Innenwände | keine | tragende bzw. nicht tragende Innenwände aus Holz; Anstrich | tragende bzw. nicht tragende Innenwände als Mauerwerk; Profilblech, Plantafeln, Putz |
+  | Deckenkonstruktion | keine | Holzkonstruktionen über Nebenräumen; Hartschaumplatten | Stahlbetonplatten über Nebenräumen; Dämmung, Profilblech oder Paneelen |
+  | Fußböden | Stahlbetonplatte | zusätzlich/alternativ: Oberfläche maschinell geglättet; Estrich mit Anstrich (Eierverpackung) | zusätzlich/alternativ: Stallprofil mit versetzten Ebenen, Estrich mit Fliesen (Eierverpackung) |
+  | Abwasser-, Wasser-, Gasanlagen | Regenwasserableitung, Wasserleitung | zusätzlich/alternativ: Abwasserleitungen, Sanitärobjekte (einfache Qualität) in Nebenräumen | zusätzlich/alternativ: Sanitärobjekte (gehobene Qualität), Gasanschluss |
+  | Wärmeversorgungsanlagen | Warmluftgebläse, Elt.-Anschluss | zusätzlich/alternativ: Raumheizflächen oder Twin- bzw. Delta-Heizungsrohre, Heizkessel | zusätzlich: Wärmerückgewinnung aus der Stallluft |
+  | lufttechnische Anlagen | Firstentlüftung | Be- und Entlüftungsanlage im Unterdruckverfahren; Zuluftklappen, Abluftkamine, Ventilatoren | zusätzlich/alternativ: Gleichdrucklüftung, Zentralabsaugung, Luftwäscher |
+  | Starkstrom-Anlage | Leitungen, Schalter, Dosen, Langfeldleuchten | zusätzlich/alternativ: Sicherungen und Verteilerschrank | zusätzlich/alternativ: Metall-Dampfleuchten |
+  | nutzungsspezifische Anlagen | Aufstallung: Geflügelwaage | Aufstallung: zusätzlich/alternativ: Kotroste, Sitzstangen, Legenester Fütterung: Vollautomatische Kettenfütterung, Strang-Tränkeanlage, Nippeltränken Entmistung: Kotbandentmistung Tierproduktentnahme: Eier-Sammelband | Aufstallung: zusätzlich/alternativ: Etagensystem (Voliere, Kleingruppe) Entmistung: zusätzlich/alternativ: Entmistungsbänder mit Belüftung Tierproduktentnahme: zusätzlich/alternativ: Sortieranlage, Verpackung |
+15. Beschreibung der Gebäudestandards für landwirtschaftliche Mehrzweckhallen
+  |  | Standardstufe |
+  | 3 | 4 | 5 |
+  | Außenwände | Holzfachwerkwand; Holzstützen, Vollholz; Brettschalung oder Profilblech auf Holz-Unterkonstruktion | Kalksandstein- oder Ziegel-Mauerwerk; Metallstützen, Profil; Holz-Blockbohlen zwischen Stützen, Wärmedämmverbundsystem, Putz | Betonwand, Fertigteile, mehrschichtig; Stahlbetonstützen, Fertigteil; Kalksandstein-Vormauerung oder Klinkerverblendung mit Dämmung |
+  | Dach | Holzkonstruktionen, Nagelbrettbinder; Bitumenwellplatten, Profilblech | Stahlrahmen mit Holzpfetten; Faserzementwellplatten; Hartschaumplatten | Brettschichtholzbinder; Betondachsteine oder Dachziegel; Dämmung mit Profilholz oder Paneelen |
+  | Fenster und Außentüren bzw. -tore | Lichtplatten aus Kunststoff, Holztore | Kunststofffenster, Metall-Sektionaltore | Türen und Tore mehrschichtig mit Wärmedämmung, Holzfenster, hoher Fensteranteil |
+  | Innenwände | keine | tragende bzw. nicht tragende Innenwände aus Holz; Anstrich | tragende bzw. nicht tragende Innenwände als Mauerwerk; Sperrholz, Gipskarton, Fliesen |
+  | Deckenkonstruktion | keine | Holzkonstruktionen über Nebenräumen; Hartschaumplatten | Stahlbetonplatte über Nebenräumen; Dämmung mit Profilholz oder Paneelen |
+  | Fußböden | Beton-Verbundsteinpflaster | zusätzlich/alternativ: Stahlbetonplatte | zusätzlich/alternativ: Oberfläche maschinell geglättet; Anstrich |
+  | Abwasser-, Wasser-, Gasanlagen | Regenwasserableitung | zusätzlich/alternativ: Abwasserleitungen, Sanitärobjekte (einfache Qualität) in Nebenräumen | zusätzlich/alternativ: Sanitärobjekte (gehobene Qualität) in Nebenräumen, Gasanschluss |
+  | Wärmeversorgungsanlagen | keine | Raumheizflächen in Nebenräumen, Anschluss an Heizsystem | zusätzlich/alternativ: Heizkessel |
+  | lufttechnische Anlagen | keine | Firstentlüftung | Be- und Entlüftungsanlage |
+  | Starkstrom-Anlage | Leitungen, Schalter, Dosen, Langfeldleuchten | zusätzlich/alternativ: Sicherungen und Verteilerschrank | zusätzlich/alternativ: Metall-Dampfleuchten |
+  | nutzungsspezifische Anlagen | keine | Schüttwände aus Holz zwischen Stahlstützen, Trocknungsanlage für Getreide | Schüttwände aus Beton-Fertigteilen |

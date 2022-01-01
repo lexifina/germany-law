@@ -1,0 +1,124 @@
+# Anlage 5 (zu § 16 Absatz 3)Katalog der Grundstücksmerkmale des Bodenrichtwertgrundstücks
+
+Wertbeeinflussende Grundstücksmerkmale, die nicht in dieser Anlage aufgeführt sind, dürfen nur dann berücksichtigt werden, wenn die aufgeführten Grundstücksmerkmale zur marktgerechten Beschreibung des Bodenrichtwertgrundstücks nicht ausreichend sind.
+I. Nutzungsartenkatalog
+Für jeden Bodenrichtwert ist der Entwicklungszustand und die Art der Nutzung anzugeben. Lässt sich das Bodenrichtwertgrundstück aufgrund seiner rechtlichen und tatsächlichen Merkmale keinem der Entwicklungszustände nach § 3 Absatz 1 bis 4 zuordnen, ist das Bodenrichtwertgrundstück der Kategorie „Sonstige Flächen“ im Sinne des § 3 Absatz 5 zuzuordnen. Zusätzlich zur Art der Nutzung kann eine Ergänzung zur Art der Nutzung angegeben werden.
+| Nr. | Art der Nutzung bzw. Ergänzung zur Art der Nutzung | Art der Nutzung | Ergänzung zur Art der Nutzung |
+| Baureifes Land (B) Rohbauland (R) Bauerwartungsland (E) |
+| 1 | Wohnbaufläche | W |  |
+| 1.1 |  | Kleinsiedlungsgebiet | WS |  |
+| 1.2 |  | reines Wohngebiet | WR |  |
+| 1.3 |  | allgemeines Wohngebiet | WA |  |
+| 1.4 |  | besonderes Wohngebiet | WB |  |
+| 2 | gemischte Baufläche (auch Baufläche ohne nähere Spezifizierung) | M |  |
+| 2.1 |  | Dorfgebiet | MD |  |
+| 2.2 |  | Dörfliches Wohngebiet | MDW |  |
+| 2.3 |  | Mischgebiet | MI |  |
+| 2.4 |  | Kerngebiet | MK |  |
+| 2.5 |  | Urbanes Gebiet | MU |  |
+| 3 | gewerbliche Baufläche | G |  |
+| 3.1 |  | Gewerbegebiet | GE |  |
+| 3.2 |  | Industriegebiet | GI |  |
+| 4 | Sonderbaufläche | S |  |
+| 4.1 |  | Sondergebiet für Erholung | SE |  |
+| 4.2 |  | sonstige Sondergebiete | SO |  |
+| 5 | Baufläche für Gemeinbedarf | GB |  |
+| Die Bauflächen (1 bis 5) können zusätzlich durch folgende Ergänzungen zur Art der Nutzung weiter spezifiziert werden in: |
+|  |  |  | Ein- und Zweifamilienhäuser |  | EFH |
+|  |  |  | Mehrfamilienhäuser |  | MFH |
+|  |  |  | Sozialer Mietwohnungsbau |  | SOW |
+|  |  |  | Geschäftshäuser (mehrgeschossig) |  | GH |
+|  |  |  | Wohn- und Geschäftshäuser |  | WGH |
+|  |  |  | Büro- und Geschäftshäuser |  | BGH |
+|  |  |  | Bürohäuser |  | BH |
+|  |  |  | Produktion und Logistik |  | PL |
+|  |  |  | Wochenendhäuser |  | WO |
+|  |  |  | Handel und dienstleistungsorientiertes Gewerbe |  | GD |
+|  |  |  | Ferienhäuser |  | FEH |
+|  |  |  | Freizeit und Touristik |  | FZT |
+|  |  |  | Läden (eingeschossig), nicht großflächiger Einzelhandel |  | LAD |
+|  |  |  | Einkaufszentren, großflächiger Einzelhandel |  | EKZ |
+|  |  |  | Messen, Ausstellungen, Kongresse, Großveranstaltungen aller Art |  | MES |
+|  |  |  | Bildungseinrichtungen |  | BI |
+|  |  |  | Gesundheitseinrichtungen |  | MED |
+|  |  |  | Hafen |  | HAF |
+|  |  |  | Garagen, Stellplatzanlagen, Parkhäuser |  | GAR |
+|  |  |  | Militär |  | MIL |
+|  |  |  | landwirtschaftliche Produktion |  | LP |
+|  |  |  | Bebaute Flächen im Außenbereich |  | ASB |
+|  |  |  | Bauflächen für Energieerzeugung |  | EE |
+| Flächen der Land- oder Forstwirtschaft (LF) |
+| 6 | landwirtschaftliche Fläche | L |  |
+| 6.1 |  | Acker | A |  |
+| 6.2 |  | Grünland | GR |  |
+| 6.3 |  | Erwerbsgartenanbaufläche | EGA |  |
+| 6.3.1 |  |  | Obstanbaufläche | EGA | OG |
+| 6.3.2 |  |  | Gemüseanbaufläche | EGA | GEM |
+| 6.3.3 |  |  | Blumen- und Zierpflanzenanbaufläche | EGA | BLU |
+| 6.3.4 |  |  | Baumschulfläche | EGA | BMS |
+| 6.4 |  | Anbaufläche für Sonderkulturen | SK |  |
+| 6.4.1 |  |  | Spargelanbaufläche | SK | SPA |
+| 6.4.2 |  |  | Hopfenanbaufläche | SK | HPF |
+| 6.4.3 |  |  | Tabakanbaufläche | SK | TAB |
+| 6.5 |  | Weingarten | WG |  |
+| 6.5.1 |  |  | Weingarten in Flachlage | WG | FL |
+| 6.5.2 |  |  | Weingarten in Hanglage | WG | HL |
+| 6.5.3 |  |  | Weingarten in Steillage | WG | STL |
+| 6.6 |  | Kurzumtriebsplantagen, Agroforst | KUP |  |
+| 6.7 |  | Unland, Geringstland, Bergweide, Moor | UN |  |
+| 7 | forstwirtschaftliche Fläche | F |  |
+| Sonstige Flächen (SF) |
+| 8.1 |  | private Grünfläche | PG |  |
+| 8.2 |  | Kleingartenfläche (Bundeskleingartengesetz) | KGA |  |
+| 8.3 |  | Freizeitgartenfläche | FGA |  |
+| 8.4 |  | Campingplatz | CA |  |
+| 8.5 |  | Sportfläche (u.a. Golfplatz) | SPO |  |
+| 8.6 |  | sonstige private Fläche | SG |  |
+| 8.7 |  | Friedhof | FH |  |
+| 8.8 |  | Wasserfläche | WF |  |
+| 8.9 |  | Flughäfen, Flugplätze usw. | FP |  |
+| 8.10 |  | private Parkplätze, Stellplatzfläche | PP |  |
+| 8.11 |  | Lagerfläche | LG |  |
+| 8.12 |  | Abbauland | AB |  |
+| 8.12.1 |  |  | Abbauland von Sand und Kies | AB | SND |
+| 8.12.2 |  |  | Abbauland von Ton und Mergel | AB | TON |
+| 8.12.3 |  |  | Abbauland von Torf | AB | TOF |
+| 8.12.4 |  |  | Steinbruch | AB | STN |
+| 8.12.5 |  |  | Braunkohletagebau | AB | KOH |
+| 8.13 |  | Gemeinbedarfsfläche (kein Bauland) | GF |  |
+| 8.14 |  | Sondernutzungsfläche | SN |  |
+II. Weitere Grundstücksmerkmale
+Bei baureifem Land ist der beitragsrechtliche Zustand anzugeben. Die weiteren Grundstücksmerkmale sind anzugeben, soweit sie wertbeeinflussend sind.
+1. Beitragsrechtlicher Zustand
+  | frei | beitragsfrei |
+  | ebf | erschließungsbeitrags-/kostenerstattungsbetragsfrei und beitragspflichtig nach Kommunalabgabenrecht, |
+  | ebp | erschließungsbeitrags-/kostenerstattungsbetragspflichtig und beitragspflichtig nach Kommunalabgabenrecht |
+2. Bauweise oder Gebäudestellung zur Nachbarbebauung
+  | o | offene Bauweise |
+  | g | geschlossene Bauweise |
+  | a | abweichende Bauweise |
+  | eh | Einzelhäuser |
+  | ed | Einzel- und Doppelhäuser |
+  | dh | Doppelhaushälften |
+  | rh | Reihenhäuser |
+  | rm | Reihenmittelhäuser |
+  | re | Reihenendhäuser |
+3. Maß der baulichen Nutzung
+  | ZVG | Zahl der Vollgeschosse |
+  | ZOG | Zahl der oberirdischen Geschosse (§ 16 Absatz 4) |
+  | GFZ | Geschossflächenzahl |
+  | WGFZ | wertrelevante Geschossflächenzahl (§ 16 Absatz 4) |
+  | GRZ | Grundflächenzahl |
+  | BMZ | Baumassenzahl |
+4. Angaben zum Grundstück
+  | t | Grundstückstiefe in Metern |
+  | b | Grundstücksbreite in Metern |
+  | f | Grundstücksfläche in Quadratmetern |
+5. Sanierungs- oder Entwicklungszusatz
+  | SU | sanierungsunbeeinflusster Zustand, ohne Berücksichtigung der rechtlichen und tatsächlichen Neuordnung |
+  | SB | sanierungsbeeinflusster Zustand, unter Berücksichtigung der rechtlichen und tatsächlichen Neuordnung |
+  | EU | entwicklungsunbeeinflusster Zustand, ohne Berücksichtigung der rechtlichen und tatsächlichen Neuordnung |
+  | EB | entwicklungsbeeinflusster Zustand, unter Berücksichtigung der rechtlichen und tatsächlichen Neuordnung |
+6. Bewertung der Bodenschätzung
+  | AZ | Ackerzahl |
+  | GZ | Grünlandzahl |

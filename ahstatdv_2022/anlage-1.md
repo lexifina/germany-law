@@ -1,0 +1,44 @@
+# Anlage 1 Kapitel 99 des Warenverzeichnisses Vereinfachte Anmeldungen und Sammelanmeldungen
+
+Vorbemerkungen
+Die Warennummern dieses Kapitels dienen der statistischen Erfassung des Außenhandels von Warenzusammenstellungen, die in den Kapiteln 01 bis 98 des Warenverzeichnisses nicht erfasst sind. Zum Teil dürfen die Warennummern bei der Anmeldung nur mit besonderer Genehmigung des Statistischen Bundesamtes benutzt werden; im Übrigen sind die jeweiligen Hinweise zu beachten. Diese Warennummern kommen nicht in Betracht, wenn aufgrund anderer Rechtsvorschriften eine detaillierte Einreihung der Einzelwaren in die Kombinierte Nomenklatur erforderlich ist; beispielsweise sind sie für genehmigungspflichtige Waren nicht zulässig, selbst wenn ihrer statistischen Verwendung nichts im Wege steht.
+| Waren, ausschließlich für den Zweck der Zollanmeldung (nach Verordnung (EG) Nr. 1186/2009 des Rates vom 16. November 2009 über das gemeinschaftliche System der Zollbefreiungen (ABl. L 324 vom 10.12.2009, S. 23))(Einfuhr und Ausfuhr): |
+| Warenbezeichnung | Warennummer |
+| –Übersiedlungsgut von natürlichen Personen, die ihren gewöhnlichen Wohnsitz verlegen | 9905 00 00 |
+| –Die folgenden Waren, andere als die oben genannten: |  |
+| –Aussteuer und Hausrat einer Person, die ihren gewöhnlichen Wohnsitz aus Anlass ihrer Eheschließung verlegt; Erbschaftsgut | 9919 00 00 |
+| –Ausstattung, Ausbildungsmaterial und Haushaltsgegenstände von Schülern und Studenten | 9919 00 00 |
+| –Särge mit Verstorbenen und Urnen mit der Asche Verstorbener sowie Gegenstände zur Grabausschmückung | 9919 00 00 |
+| –für Organisationen der Wohlfahrtspflege bestimmte Waren und für Katastrophenopfer bestimmte Waren | 9919 00 00 |
+| Schiffs‑ und Luftfahrzeugbedarf, Bordvorräte nach § 21 (nur im Export anwendbar): | 9930 |
+| –Waren der Kapitel 1 bis 24 des Warenverzeichnisses | 9930 24 00 |
+| –Waren des Kapitels 27 des Warenverzeichnisses | 9930 27 00 |
+| –Waren anderer Kapitel (als der vorgenannten) | 9930 99 00 |
+| Betriebs‑ und Versorgungsgüter für Einrichtungen auf hoher See, z. B. Bohrinseln (nach § 22) | 9931 |
+| –Waren der Kapitel 1 bis 24 des Warenverzeichnisses | 9931 24 00 |
+| –Waren des Kapitels 27 des Warenverzeichnisses | 9931 27 00 |
+| –Waren anderer Kapitel (als der vorgenannten) | 9931 99 00 |
+| Zusammenstellungen (Sortimente) | 9990 |
+| Zusammenstellungen (Sortimente) von kleinen Mengen von Chemikalien | 9990 29 00 |
+| Diese Warennummer gilt für Zusammenstellungen (Sortimente) von mindestens drei verschiedenen Waren des Abschnitts VI des Warenverzeichnisses (gegebenenfalls auch mit Waren anderer Kapitel des Warenverzeichnisses), wie sie üblicherweise in Laboratorien verwendet werden. Für die einzelne Ware darf ein Wert von 500,– € je Warennummer und ein Gewicht von 100 kg nicht überschritten werden. |  |
+| Muster von Textilien, auch auf Karten oder in Katalogen | 9990 63 00 |
+| Diese Warennummer gilt für zweifelsfrei als Muster erkennbare Spinnstofferzeugnisse. Bei der Aufmachung auf Karten oder in Katalogen müssen die Spinnstofferzeugnisse den Charakter der Ware bestimmen. |  |
+| Zusammenstellungen (Sortimente) von Werkzeugen, ausgenommen solche der Warennummern 8205 90 90 und 8206 00 00 | 9990 82 00 |
+| Diese Warennummer gilt für Zusammenstellungen (Sortimente) von Werkzeugen der Positionen 8201 bis 8209 (gegebenenfalls auch mit Waren anderer Abschnitte des Warenverzeichnisses, wie sie in Werkzeugsortimenten üblich sind, z. B. Wasserwaagen, Maßstäbe, Lehren), sofern sie in Etuis, Kästen oder dergleichen aufgemacht sind oder sich aus mindestens drei verschiedenen Waren zusammensetzen. |  |
+| Warenbezeichnung | Warennummer |
+| Zusammenstellungen (Sortimente) von Warenmustern, ausgenommen solche der Warennummer 9990 63 00 | 9990 99 20 |
+| Diese Warennummer gilt für Zusammenstellungen (Sortimente) von Waren, die sich durch ihre Aufmachung, Beschaffenheit oder Menge als Muster darstellen und sich dadurch von Waren des üblichen Warenverkehrs unterscheiden. Für die einzelne Ware darf ein Wert von 500 € je Warennummer nicht überschritten werden. |  |
+| Zusammenstellungen (Sortimente) von Waren zum Errichten und Ausstatten von Messe‑ und Ausstellungsständen zur vorübergehenden oder nach vorübergehender Verwendung im Ausland | 9990 99 21 |
+| Hierher gehören nicht die auszustellenden Waren; diese sind unter den jeweils zutreffenden Warennummern anzumelden. |  |
+| Zusammenstellungen (Sortimente) von Montagewerkzeugen, Montagegeräten und Baugerätschaften zur vorübergehenden oder nach vorübergehender Verwendung im Ausland | 9990 99 22 |
+| Andere Zusammenstellungen (Sortimente) von Waren, die im Rahmen von zur Anmeldung zur Außenhandelsstatistik befreiten Warenverkehren exportiert werden. | 9990 99 30 |
+| Nur mit besonderer Genehmigung des Statistischen Bundesamtes zu verwenden: (nur für Eingang und Export) |  |
+| Zusammenstellungen (Sortimente) von Kraftfahrzeugteilen: |  |
+| –für die Montage von Kraftfahrzeugen (sogenannte Produktionsteilesätze) | 9990 87 02 |
+| –zum Instandhalten, Instandsetzen oder Ausstatten von Kraftfahrzeugen (sogenannte Ersatzteilsortimente) | 9990 87 04 |
+| Zusammenstellungen (Sortimente) von Luftfahrzeugteilen: |  |
+| –für zivile Luftfahrzeuge | 9990 88 02 |
+| –andere | 9990 88 09 |
+| Zusammenstellungen (Sortimente) von Kleinwaren aus unedlen Metallen | 9990 99 23 |
+| Zusammenstellungen (Sortimente) von Schreib‑ und Zeichenmitteln | 9990 99 24 |
+| Andere Zusammenstellungen (Sortimente) nach § 30 | 9990 99 25 |
