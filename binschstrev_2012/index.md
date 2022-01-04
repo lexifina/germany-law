@@ -48,6 +48,6 @@
 
 - [§ 37 Aufhebung binnenschifffahrtsrechtlicher Vorschriften](0037.md)
 - [§ 38 Änderung binnenschifffahrtsrechtlicher Vorschriften](0038.md)
-- [§ 39 (weggefallen)](0039.md)
+- [§ 39 Anwendungsbestimmung aus Anlass der Verordnung zur Neuregelung befähigungsrechtlicher Vorschriften in der Binnenschifffahrt](0039.md)
 - [§ 40 Inkrafttreten, Außerkrafttreten](0040.md)
 - [Anlage](anlage.md)

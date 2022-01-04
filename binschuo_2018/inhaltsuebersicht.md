@@ -54,12 +54,13 @@ Schlussbestimmungen
 | § 38 | Weitergeltung bestehender Fahrtauglichkeitsbescheinigungen |
 | § 39 | Normen |
 | § 40 | Überprüfung |
+| § 41 | Anwendungsbestimmung aus Anlass der Verordnung zur Neuregelung befähigungsrechtlicher Vorschriften in der Binnenschifffahrt |
 | Anhang I (zu § 1 Absatz 1 und§ 2 Absatz 1 Num-mer 1) | Liste der in die geografischen Zonen 1, 2, 3 und 4 eingeteilten Wasserstraßen der Bundesrepublik Deutschland |
 | Anhang II (zu § 1 Absatz 2 Num-mer 1, § 6 Absatz 8und § 31 Satz 1) | Nationale Sonderbestimmungen |
 | Anhang III (zu § 1 Absatz 2 Num-mer 1 und § 6 Absatz 3) | Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2 |
 | Anhang IV (zu § 1 Absatz 2 Num-mer 1 und § 6 Absatz 4 und 9) | Eingeschränkte technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4 |
 | Anhang V (zu § 1 Absatz 2 Num-mer 1, § 7 Absatz 1Nummer 9 und 10und § 9 Absatz 1) | Nationale Muster |
-| Anhang VI (zu § 1 Absatz 2 Num-mer 1 und 2 Buchstabe b und § 8 Absatz 3) | Besatzungsvorschriften |
+| Anhang VI | (weggefallen) |
 | Anhang VII (zu § 1 Absatz 2 Num-mer 1 und § 28 Absatz 5) | Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärungen |
 | Anhang VIII (zu § 1 Absatz 2 Num-mer 1 und § 5 Absatz 2 Nummer 2) | Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln von Dieselmotoren |
 | Anhang IX (zu § 32 Satz 2, § 33Absatz 2 Satz 1, § 34 Absatz 2 und Anhang II § 7.01 Nummer 4) | Für die Beförderung von mehr als 12 bis zu höchstens 35 Fahrgästen durch Fahrgastboote zugelassene Fahrtgebiete |
