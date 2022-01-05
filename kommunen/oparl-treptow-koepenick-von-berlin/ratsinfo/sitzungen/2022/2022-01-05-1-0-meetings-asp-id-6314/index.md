@@ -1,0 +1,59 @@
+# 1. (öffentliche / konstituierende) Sitzung des Ausschusses für Straßen, Grünflächen und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-01-05T18:00:00+01:00
+- Ende: 2022-01-05T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=109
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6314
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6314
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konstituierung - erledigt
+- TOP 2: Wahl der/des Ausschussvorsitzenden Vorschlagsrecht: Fraktion der CDU - gewählt
+- TOP 3: Wahl der/des stellv. Ausschussvorsitzenden Voschlagsrecht: Fraktion B'90/Grüne - gewählt
+- TOP 4: Wahl der Schriftführerin / des Schriftführers - gegenstandslos
+- TOP 5: Tagesordnung und Protokollkontrolle (40. Sitzung vom 30.04.2021 / VIII. WP) - erledigt
+- TOP 6: Bericht des Bezirksamtes - erledigt
+- TOP 7: Überweisungen aus der VIII. Wahlperiode - erledigt
+- TOP 7.1: Rechtsabbiegerampel Glienicker Weg / Adlergestell <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.2: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.3: Verkehrskonzept für den 1. FC Union <span style="color: #888a85" title="Zusatzinfo">(übernommen aus VIII. Wahlperiode)</span> - vertagt
+- TOP 7.4: Umfeldverträglicher Weiterbau des 17. Abschnitts der Autobahn A 100 <span style="color: #888a85" title="Zusatzinfo">(übernommen aus VIII. Wahlperiode)</span> - vertagt
+- TOP 7.5: Querungsmöglichkeit der Schönefelder Chaussee auf Höhe des Maßholderwegs <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.6: Kurzzeitparkplatz Altglienicke <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.7: Kreuzungen in Alt-Treptow sicherer machen <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.8: Sicherheit hat Vorfahrt – Schulwegsicherung an der Schule an der Wuhlheide <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.9: Errichtung eines Fuß- und Radweges entlang des Königsheideweges <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.10: Charta für die Verkehrssicherheit: Baustellen schulwegsicher einrichten <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.11: "Essbarer Wildpflanzenpark" für Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.12: Konzept für Fahrradhochstraßen <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.13: Demonstrationen möglichst aus dem Gartendenkmal Treptower Park / Kriegsgräberstätte "Sowjetisches Ehrenmal" verlagern <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.14: Kreuzung Schulzendorfer Straße / Dahmestraße sicherer gestalten <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.15: Leitziele und generelle Handlungsempfehlungen der Integrierten Sportentwicklungsplanung für den Bezirk Treptow-Köpenick von Berlin <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.16: Diskriminierungsfreier Dresscode in der Plansche <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.17: Befestigung der Seitenstreifen zum Zwecke des Parkens in der Odernheimer Straße <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.18: Verkehrssicherheit im Rodelbergweg / Neue Krugallee im Ortsteil Baumschulenweg <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.19: Querungshilfe Müggelheimer Damm auf der Höhe von ALDI / NORMA in Müggelheim <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.20: Sicherheit und Regeln in Alt-Treptow – alle müssen an einen Tisch <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.21: Ausbau Fahrradweg Lindenstraße / Godbersenstraße <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.22: Aus Hochwasserkatastrophen lernen: Entsiegelungskonzept für Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.23: Kommunale Nachhaltigkeitsstrategie Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.24: Ausflugsparken im Treptower Park wieder ermöglichen <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.25: Alternativangebote entwickeln und Treptower Park nachts öffnen <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.26: Farbschmierereien im öffentlichen Raum konsequent beseitigen und ahnden <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.27: Verkehrsberuhigung im Bereich Werderstraße / Altglienicke <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7.28: Verkehrssicherheit in der Wilhelminenhofstraße (Höhe Rathenauhallen) in Oberschöneweide <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 8: Neue Überweisungen aus der BVV - (offen)
+- TOP 8.1: Berlewitzweg als Einbahnstraße ausweisen - vertagt
+- TOP 8.2: Beseitigung der Absenkung der Straße Zur Fähre nahe Bauersee - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.3: Ersatzglascontainer in Müggelheim - vertagt
+- TOP 8.4: Ertüchtigung des Berlewitzweges - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.5: Fußgängerüberweg vor der Müggelheimer Grundschule - mit Änderungen im Ausschuss beschlossen
+- TOP 8.6: Zugang zu einer Badestelle erleichtern - vertagt
+- TOP 8.7: Adlergestell und Michael-Brückner-Straße zwischen Bürgeramt und S-Bahnhof Johannisthal als Sperrzone für Miet-E-Scooter ausweisen - vertagt
+- TOP 8.8: Gemeinschaft nach Covid 19 stärken, Grillen ermöglichen - vertagt
+- TOP 9: Verschiedenes - erledigt
