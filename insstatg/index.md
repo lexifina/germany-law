@@ -1,4 +1,4 @@
-# Gesetz über die Insolvenzstatistik
+# Gesetz über die Insolvenz- und Restrukturierungsstatistik
 
 - [§ 1 Insolvenz- und Restrukturierungsstatistik](0001.md)
 - [§ 2 Erhebungsmerkmale in Insolvenzverfahren](0002.md)

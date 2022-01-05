@@ -4,6 +4,7 @@
 ## 1. Abschnitt Allgemeine Vorschriften
 
 - [§ 1 Grundsatz](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 2a Definition von Krankenhausstandorten](0002a.md)
 - [§ 3 Anwendungsbereich](0003.md)
 - [§ 4](0004.md)
