@@ -1,0 +1,8 @@
+# TOP 8.7: Adlergestell und Michael-Brückner-Straße zwischen Bürgeramt und S-Bahnhof Johannisthal als Sperrzone für Miet-E-Scooter ausweisen
+
+- Sitzung: 1. (öffentliche / konstituierende) Sitzung des Ausschusses für Straßen, Grünflächen und Ordnungsangelegenheiten (2022-01-05)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=59766
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=59766
