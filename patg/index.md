@@ -38,6 +38,7 @@
 ## Zweiter Abschnitt Deutsches Patent- und Markenamt
 
 - [§ 26](0026.md)
+- [§ 26a](0026a.md)
 - [§ 27](0027.md)
 - [§ 28](0028.md)
 - [§ 29](0029.md)
