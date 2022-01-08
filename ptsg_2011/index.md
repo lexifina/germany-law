@@ -1,4 +1,4 @@
-# Gesetz zur Sicherstellung von Postdienstleistungen und Telekommunikationsdiensten in besonderen Fällen
+# Gesetz zur Sicherstellung von Postdienstleistungen in besonderen Fällen
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Postsicherstellungspflicht; Postbevorrechtigte](0002.md)
