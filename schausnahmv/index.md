@@ -14,8 +14,4 @@
 ## Abschnitt 2 Erleichterungen und Ausnahmen von auf Grund der Vorschriften im fünften Abschnitt des Infektionsschutzgesetzes erlassenen landesrechtlichen Geboten und Verboten
 
 - [§ 7 Ermächtigung der Landesregierungen zu Erleichterungen und Ausnahmen](0007.md)
-
-## Abschnitt 4 Inkrafttreten
-
-- [§ 12 (jetzt § 8)](0012.md)
 - [Schlussformel](schlussformel.md)
