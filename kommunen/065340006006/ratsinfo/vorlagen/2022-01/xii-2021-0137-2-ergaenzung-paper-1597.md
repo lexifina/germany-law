@@ -1,0 +1,24 @@
+# Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2022, Investitionsprogramm 2021-2025
+
+- Körperschaft: Gemeinde Cölbe
+- Drucksache/Vorlage: XII-2021-0137 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-01-10
+- Ratsinformationssystem: https://rim.ekom21.de/coelbe/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbHQZEJuflr-Z3vgoERH8m0
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/paper/1597
+- Quelle: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2022, Investitionsprogramm 2021-2025) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQoNnA8avigGKNvZBa7WHsbXAHHeEvtDZxPxO0EbSq0L/Beschlussvorlage_XII-2021-0137_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Zusammenstellung Ansatzkorrekturen_Haushalt 2022 nach Beratung HFW.xlsx) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXdZnOf6XCHsDPn-bij7fXKHfOQjfFpTl33jby8lmTnT/Zusammenstellung_Ansatzkorrekturen_Haushalt_2022_nach_Beratung_HFW.xlsx.pdf
+- Anlage: Beschlussvorlage (Zusammenfassung Stellungnahmen Ortsbeiräte_Kindertagesstätten) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWRAnUP91qrCGrZpl13HY1RMqMvjU-6T9Q7cYZ0viFWt/Zusammenfassung_Stellungnahmen_Ortsbeiraete_Kindertagesstaetten.pdf
+- Anlage: Beschlussvorlage (überarbeitete HH-Satzung 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZnFT4QqJqjCkr-JtLs_HJOca_MvHA56szvfWBtTrW18/ueberarbeitete_HH-Satzung_2022.pdf.pdf
+- Anlage: Beschlussvorlage (überarbeiteter Ergebnis- und Finanzhaushalt 2022.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZwYC0VacNwNW3XP42YYTfgjIgtv1-dV5g0WhFDSb3bw/ueberarbeiteter_Ergebnis-_und_Finanzhaushalt_2022.pdf.pdf
+- Anlage: Beschlussvorlage (überarbeitetes Inv.-Programm 2021-2025.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVOosRxupbo6bRk3P9ZG68hgSkXVXYhCcl4M-3hbrU-Q/ueberarbeitetes_Inv.-Programm_2021-2025.pdf.pdf
+- Anlage: Beschlussvorlage (Übersicht über die Sperrvermerken.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfnA--3iYYA1j0vDBUG8fPMl0HQO7gFwR_vA-yHgypaH/Uebersicht_ueber_die_Sperrvermerken.pdf.pdf
+- Anlage: Beschlussvorlage (Änderungsantrag 08.12.2021 SPD+GRÜNE Haushalt 2022) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTVfFKGckC6BiBZW6nEK11-A7_2YRsVko9jSsyaHykps/Aenderungsantrag_08.12.2021_SPD-GRUeNE_Haushalt_2022.pdf
+- Anlage: Beschlussvorlage (Änderungsantrag Bürgermeister vom 10.01.2022_Haushalt 2022) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbbZabjfsj9lnuPHUDQa55oxgO3AWHGF5Tc3zEhRRFgh/Aenderungsantrag_Buergermeister_vom_10.01.2022_Haushalt_2022.pdf
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1371 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1373 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1375 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1369 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1388 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/3-10
