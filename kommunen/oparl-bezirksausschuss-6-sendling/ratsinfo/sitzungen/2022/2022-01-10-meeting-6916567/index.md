@@ -1,0 +1,105 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-01-10T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6916567
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6916567
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Fahrradweg in der Lindwurmstraße
+- TOP 2.2.: Fehlende Beschilderung in der Tempo-30-Zone in Untersendling
+- TOP 2.3.: Valleystr.: Vermüllung Containerplatz
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Schmied-Kochel-Straße 13
+- TOP 4.2.2.: Bauvorhaben Alramstraße
+- TOP 4.2.3.: Bauvorhaben Flößergasse 8
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: (U) Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat
+- TOP 4.3.3.: Verschmutzung der Straßen in Sendling
+- TOP 4.3.4.: Entfernung von Gefahrenbäumen
+- TOP 4.3.5.: Errichtung eines Bouleplatzes im Gotzinger Platz
+- TOP 4.3.6.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 4.3.7.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.3.8.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 4.3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.10.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 4.3.11.: Baumfällung Oberländerstraße 3
+- TOP 4.3.12.: Archäologische Funde in Sendling- Weiterverwendung der historischen Steine auf dem Schulgelände Plinganserstraße 28
+- TOP 4.3.13.: Neugestaltung des Herzog-Ernst-Platzes Information im Nachgang zum Ortstermin
+- TOP 4.3.14.: Ausnahmezulassungen gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 4.3.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.16.: Vorkaufsrecht jetzt ausüben! Brandbrief an den Münchner Stadtrat
+- TOP 4.3.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Bestellung städtischer Leistungen, um Bäume im Stadtviertel Sendling zu pflanzen
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.2.1.: Verkehrsrechtliche Anordnung Danklstraße 35 Einrichtung eines personenbezogenen Behindertenparkplatz
+- TOP 5.2.2.: Sanierung der Asphaltdecke in der Schmied-Kochel-Straße zwischen Aberlestraße und Implerstraße
+- TOP 5.2.3.: Wackersberger Straße 71 Hol- und Bringzone für Kita-Eltern
+- TOP 5.2.4.: Verkehrsrechtliche Anordnung Einrichtung eines Taxistandplatzes in der Engelhardstraße 6
+- TOP 5.2.5.: Parkraummanagement Flößergasse, Tölzer Straße, Zechstraße, Heißstraße, Fallstraße Empfehlung Nr. 20-26 / E 00434 – Antrag auf Fristverlängerung bis 31.12.2022
+- TOP 5.3.1.: Fahrradständer vor der Pizzeria Europa Antwort
+- TOP 5.3.2.: LKW-Verkehr in der Valleystraße Antwort
+- TOP 5.3.3.: Verkehrsrechtliche Anordnung Lindwurmstraße (Südseite) zwischen östlich Sendlinger Kirche bis nach der Einmündung Aberlestraße Markierung eines Radfahrstreifens auf der Fahrbahn
+- TOP 5.3.4.: Verkehrsrechtliche Anordnung Flößergasse 6f Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 5.3.5.: Oberländerstraße Ostteil Anfrage im Jahresgespräch BA-MOR
+- TOP 5.3.6.: Die Blumenkübel in der Schöttlstraße sollen auch über die Sommerstraße hinaus stehen bleiben
+- TOP 5.3.7.: Schulbaubeginn in der Reutbergerstraße
+- TOP 5.3.8.: Großmarkt - Schließung Westtor für LKW
+- TOP 5.5.1.: Antrag des BA 17 Obergiesing-Fasangarten mit der Bitte um Unterstützung Verkehrszeichen, Poller o.ä. im öffentlichen Raum behindertengerecht gestalten
+- TOP 5.5.2.: Baumpflanzung Lindenschmitstraße - Unterschriftenlisten
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.3.1.: Kantorat an der Himmelfahrtskirche Kurzbericht 8. Orgelsommer
+- TOP 6.3.2.: BA-Budgetmittel jahresgerecht verbuchen
+- TOP 6.3.3.: Hybridsitzungen; weitere Vorgehen
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.3.1.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 7.3.2.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 7.3.3.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.3.4.: (U) Reinigungsstandards in Münchner Schulen und städt. Kindertageseinrichtungen temporäre Anpassung aufgrund der Corona Pandemie sowie zusätzliche Schwimmhallenreinigung im Rahmen der Schwimmoffensive für das Haushaltsjahr 2022 ff.
+- TOP 7.3.5.: AKIM Bericht 2021
+- TOP 7.3.6.: Protokoll Nachtspaziergang Sendling
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.2.1.: Sommerstraßen 2022
+- TOP 8.3.1.: Ramadama im Rahmen des weltweiten Mitzvah Days
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.3.1.: Zensus 2022
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.1.: Entscheidungen
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiativgruppe e.V. Abteilung: IG-Feuerwache Fairplay von Mitte Januar bis Ende Juli 2022 2.080,00€; Az. 0262.0-6-0360
