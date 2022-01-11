@@ -1,0 +1,133 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-01-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6890760
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6890760
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 5.2.1.: Baumfällungen Neue Pinakothek
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Auskunft über die geplanten Baumfällungen auf dem Gelände der Neuen Pinakothek
+- TOP 6.2.: Baustelleneinrichtungen besser kennzeichnen und besser koordinieren
+- TOP 6.3.: Grüne Infrastruktur in der Maxvorstadt verbessern und mehr Flächen für die Artenvielfalt schaffen bzw. wiederherstellen: Keine Schottergärten in der Maxvorstadt zulassen!
+- TOP 6.4.: Ausverkauf der Maxvorstadt verhindern.
+- TOP 6.5.: Ertüchtigung der Maillingerstraße
+- TOP 6.6.: Aktueller Planungsstand Oberflächengestaltung am westl. Ende des Altstadtringtunnels
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Baumfällungen Neue Pinakothek
+- TOP 1.1.2.: Die Bäume um die Pinakothek
+- TOP 1.1.3.: Baumbestand Neue Pinakothek
+- TOP 1.1.4.: Geplante bzw. bereits durchgeführte Baumfällung in der Maxvorstadt - Neue Pinakothek
+- TOP 1.1.5.: Kahlschlag Neue Pinakothek
+- TOP 1.1.6.: Antrag an den Bezirksausschuss 3 zur Einleitung einer sektoralen Bauplanung auf dem Gelände des Strafjustizzentrum an der Nymphenburger Straße / Ecke Sandstraße
+- TOP 1.1.7.: Bauprojekt Rottmanstraße
+- TOP 1.1.8.: Miethaus Verkauf Erhaltungssatzung Maxvorstadt Gabelsbergerstr 32
+- TOP 1.1.9.: Anfrage Neubauvorhaben Türkenstraße 96
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Keine fristgerechte Bereitstellung der Unterlagen zu Bauvorhaben durch die LBK – Listen
+- TOP 1.2.2.: Auskunft Masterplan Pinakotheken
+- TOP 1.2.3.: Antrag auf Auskunft zu den Nachpflanzungen fehlender Bäume in vorhandenen Baumgräben
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 48, KW 49 und KW 50
+- TOP 2.1.2.: WEB-Listen der LBK: KW 46-49
+- TOP 2.1.3.: Barer Str. 46, Abbruch und Neubau Dachgeschoss mit 2 WE, denkmalgeschütztes VGB inkl. neuer Dachgauben und Umbau der Bestandswohnungen und DG-Ausbau zu neuer WE
+- TOP 2.1.4.: Stellungnahme zum Baumbestandsplan angefordert| 29.01.2022 Blutenburgstraße 32, Zusammenlegung einer Wohnung (3. OG / VGB), Neubau eines RG (5 WE), 3er oberirdischer Stellplätze und von 6 Parklift-Stellplätzen
+- TOP 2.2: Entscheidungen
+- TOP 2.2.1.: Bau eines dritten Tram-Gleises am Bahnhofsvorplatz München Hauptbahnhof - Antrag auf Änderung der Planfeststellung nach §28 PBefG Tektur c hier: Temporäre Anpassung des Bahnsteigs während der Baumaßnahme Bahnhofplatz 7
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Antrag zur Fällung einer Linde, Georgenstraße 15
+- TOP 3.2.2.: Fällungsantrag, Adalbertstr. 33
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Baumbilanz, Schriftverkehr des BA 21
+- TOP 5.2.: (U) Neubau Hauptbahnhof München Machbarkeitsuntersuchung zu Fahrradparken im U-Bahn-Bauwerk U1/U2 und Finanzierung Überdachung des Vorplatzes am Hauptbahnhof Antrag Nr. 20-26/A 01647 der AfD im Münchner Stadtrat vom 08.07.2021
+- TOP 5.3.: (U) Perspektive München Integriertes Handlungsraumkonzept Münchner Innenstadt Fortschreibung des Innenstadtkonzepts Finanzierung des städtebaulichen Eigenanteils Sonderfonds „Innenstädte beleben“ EU-Innenstadt-Förderinitiative (REACT-EU EFRE Bayern) Bürgergutachten Innenstadt Antrag Nr. 14-20/A 00616 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / Rosa Liste vom 22.01.2015
+- TOP 5.4.: Ergänzung zur Gesamtstädtische Stellungnahme zur Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Bauvorhaben "Integrierte Gesamtlösung Hauptbahnhof München (IGL), 5. Planänderung zum Planfeststellungsbeschluss PFA 1 der 2. S-Bahn-Stammstrecke
+- TOP 5.5.: Bescheid Genehmigung der Fällung einer Linde – Sandstr. 37-39
+- TOP 5.6.: Baumbilanz und Stand Ersatzpflanzungskontrolle – BA 21
+- TOP 5.7.: Toiletten am Königsplatz
+- TOP 5.8.: Gemeinschaftsprojekt St. Joseph, Tengstraße 7 Überplanung des Areals des ehemaligen Kapuzinerklosters
+- TOP 5.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.1.1.: Schanigarten Erzgießereistraße Ecke Dachauer Str.
+- TOP 1.1.1.1: Unterrichtung zu C 1.1.1 Antwort der Bezirksinspektion an den Bürger
+- TOP 1.2.1.: Verkehrssicherheit erhöhen – „Trixispiegel“ für die Kreuzung Arcis-/Adalbertstraße
+- TOP 1.2.2.: Umwandlung von E-Roller-Stellplätzen in Ladeplätze für Elektro- und Hybridfahrzeuge
+- TOP 1.2.3.: Schanigärten: Rückkehr zur Verlässlichkeit
+- TOP 1.2.4.: Beendigung des Protestcamp auf dem Königsplatz
+- TOP 1.2.5.: entfällt
+- TOP 1.2.6.: Christbaum am Josephsplatz
+- TOP 1.2.7.: Straßenbenennung nach Frauen forcieren
+- TOP 1.2.8.: Baustelleneinrichtung Nymphenburger Straße 64 entfernen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Neuer Standort für Boulderblock unter der Hackerbrücke
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.2.: vAO Zieblandstraße Umsetzung Fußgängerüberweg Einrichtung
+- TOP 3.3.: Verlängerung Baustelle bis 31.07.22: Franz-Josef-Strauß-Ring / Hofgartenstr.
+- TOP 3.4.: Verlängerung Baustelle bis 31.07.22: Von-der-Tann-Str. in Höhe gegenüber der Hahnenstr
+- TOP D: Soziales und Bildung
+- TOP 1.2.1.: Temporäre Verschattung am Spielplatz Josephsplatz
+- TOP 1.2.2.: Offene Einrichtung für Jugendliche und Nachbarschaftstreff im Arnulfpark realisieren
+- TOP 1.2.3.: Antrag zur Öffnung der Schulhöfe in der Maxvorstadt in Abstimmung mit den Schulleitungen
+- TOP 4.1.: AKIM Abschluss-Bericht zum Josephsplatz für die Saison 2021
+- TOP 4.2.: AKIM Bericht - Zweite Ausgabe 2021
+- TOP 4.3.: Spielen in der Stadt – Kurzbericht POP UP 8, 2021
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP E: Kultur und Demokratieförderung
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Beauftragte*r gegen Rechtsextremismus
+- TOP 1.2.: Kassenbericht
+- TOP 1.3.: Erweiterung Vorstand des Bezirksausschusses Maxvorstadt – Wahl eines(r) weiteren Beisitzers/-in
+- TOP 1.4.: Analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München Anhörung der BAs | 28.01.2022
+- TOP 1.5.: Informationsschreiben BA 08/2021: Durchführung des Sitzungsbetriebs bei den BAs
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: entfällt
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 3.: Aktuelle Sachstandsberichte
