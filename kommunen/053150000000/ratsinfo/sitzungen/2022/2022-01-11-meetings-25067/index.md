@@ -1,0 +1,62 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-11T15:00:00+01:00
+- Ende: 2022-01-11T17:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25067
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25067
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gespräch mit Frau Stadtdirektorin Blome zur Situation im Ausländeramt
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 1.1: 'Integrationsbudget' - Verteilung der Finanzmittel in 2022 - ungeändert beschlossen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Rückfrage zur Beantwortung der Anfrage zur Rückgabe der sogenannten Benin-Bronzen - zurückgestellt
+- TOP -: Anfrage von Grün offene Liste (GOL) in der Sitzung des Integrationsrates am 28.09.2021 zur Rückgabe der sogenannten Benin-Bronzen - zurückgestellt
+- TOP 3.2: Rückfrage zur Beantwortung der Anfrage "Sachstand herkunftssprachliche bilinguale Kitagruppen"
+- TOP -: Beantwortung einer Anfrage der Grün Offenen Liste GOL - Kenntnis genommen
+- TOP 3.3: Rückfrage zur Beantwortung der Anfrage zur Auflösung von Sammelunterkünften
+- TOP -: Beantwortung der Rückfrage zur Auflösung von Sammelunterkünften - Kenntnis genommen
+- TOP 3.4: Rückfragen zur Beantwortung der Anfrage "Weiterbildungsangebote für städtische Mitarbeitende zu Rassismuskritik und Diversitätssensibilität
+- TOP -: Beantwortung der Rückfrage zu Weiterbildungsangebote für städtische Mitarbeitende zu Rassismuskritik und Diversitätssensibilität - Kenntnis genommen
+- TOP 3.5: Anfrage zur Aufholen nach Corona – Nachholprogramme für pandemiebedingte Lernrückstände - zurückgestellt
+- TOP 3.6: Anfrage zum Bericht Nationalitäten und Sprachen in Köln - zurückgestellt
+- TOP -: Beantwortung der Anfrage „Nationalitäten und Sprachen in Köln“ (AN/2054/2021) - zurückgestellt
+- TOP 3.7: Anfrage zur 2G Regelung in Köln - zurückgestellt
+- TOP 3.8: Anfrage zur Abfallentsorgung an der Homarstraße - zurückgestellt
+- TOP -: Beantwortung der Anfrage zur Abfallentsorgung an der Homarstraße - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.9: Anfrage zum Empfang mit Dr.Türeci und Dr. Sahin
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.10: Rückfragen zur Beantwortung der Anfrage "Partizipation migrantischer Einrichtungen an den Mitteln, die im Jugendhilfeausschuss vergeben werden" - zurückgestellt
+- TOP 3.11: Anfrage: Einführung vegetarischer Tage in den Kantinen/Verpflegungseinrichtungen der Stadt Köln - zurückgestellt
+- TOP 3.12: Anfrage zur Rückgabe der sogenannten Benin-Bronzen - zurückgestellt
+- TOP -: Beantwortung der Anfrage von "Grün offene Liste" (GOL) zur Rückgabe der sogenannten Benin-Bronzen - zurückgestellt
+- TOP 4: Aktuelle Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage zum Internetauftritt der Stadtverwaltung / Übersetzung in mehrere Sprachen - zurückgestellt
+- TOP 4.2: Abschiebung einer lernbehinderten, schwangeren 16-jährigen nach Albanien - zurückgestellt
+- TOP 4.3: Impfsituation geflüchteter Menschen in Kölner Unterkünften
+- TOP -: Beantwortung zur Impfsituation geflüchteter Menschen in Kölner Unterkünften - Kenntnis genommen
+- TOP 4.4: Reform des Flüchtlingsaufnahmegesetzes (FlüAG) - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Beschaffungen von Erstausstattungen und Ersatzbeschaffungen von Hausrat bei Geflüchteten in den Unterbringungseinrichtungen des Amtes für Wohnungswesen - Kenntnis genommen
+- TOP 5.2: 34. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 5.3: Errichtung einer Unterkunft für Geflüchtete auf dem städtischen Grundstück Neusser Landstraße 117, 50769 Köln-Fühlingen - Haushaltsrechtliche Unterrichtung gem. § 25 I Nr. 2 KomHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung - Kenntnis genommen
+- TOP 5.4: Quartalsbericht über die weiteren Entwicklungen im Ausländeramt 3.Quartal 2021 - Kenntnis genommen
+- TOP 5.5: Zunahme von Zuweisungen von Geflüchteten 2021 und 2022 Ressourcenplanung der Unterkünfte - Kenntnis genommen
+- TOP 5.6: Beantwortung einer Anfrage Fraktion Bündnis 90/Die Grünen, CDU Fraktion, Volt Fraktion zu "Bearbeitungsstand und Personalsituation im Ausländeramt" (AN/2199/2021) - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 7: Berichte
+- TOP 7.1: Berichte der Sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Entsendung eines Mitglieds des Integrationsrates in den Runden Tisch für Flüchtlingsfragen - ungeändert beschlossen
+- TOP 8.2: Verteilung der Fördermittel 2022 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 8.3: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - zurückgestellt
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
