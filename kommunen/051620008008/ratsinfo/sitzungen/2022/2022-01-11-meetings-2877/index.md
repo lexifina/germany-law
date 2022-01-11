@@ -1,0 +1,59 @@
+# Verwaltungsrat SBG AöR
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-01-11T18:07:00+01:00
+- Ende: 2022-01-11T19:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2877
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2877
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Benennung einer/s Schriftführers/in bzw. Vertreter/in - einstimmig beschlossen
+- TOP 3: Benennung einer/s Zweitunterzeichners/in - einstimmig beschlossen
+- TOP 4: Bildung von Beiräten - einstimmig beschlossen
+- TOP 5: Benennung der Beiräte - einstimmig beschlossen
+- TOP 6: Mitglieder der Beiräte - einstimmig beschlossen
+- TOP 7: Schriftliche Anträge
+- TOP 7.1: Anträge der SPD-Fraktion
+- TOP 7.1.1: Bürgersteig Willibrordusstraße - einstimmig beschlossen
+- TOP 7.1.2: Kolumbarium Gustorf - einstimmig beschlossen
+- TOP 7.1.3: Gestaltung Platz und Brunnen in Gustorf - einstimmig beschlossen
+- TOP 7.1.4: Sicherung des Schulweges in Gustorf - einstimmig beschlossen
+- TOP 7.1.5: Antrag "Verkehrsplanung" - einstimmig beschlossen
+- TOP 7.2: Anträge CDU-Fraktion
+- TOP 7.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 7.3.1: Vergünstigungen für Parteien aufheben - Kenntnisnahme
+- TOP 7.3.2: Überarbeitung Baumschutzsatzung - einstimmig beschlossen
+- TOP 7.3.3: Eignung städtischer Gebäude für Photovoltaik - einstimmig beschlossen
+- TOP 7.4: Anträge FDP-Fraktion
+- TOP 7.4.1: Grevenbroich als attraktive Etappenstadt für Wohnmobile etablieren - einstimmig beschlossen
+- TOP 7.4.2: Mietausgaben senken -Jugendamt am Standort Rathaus zusammenführen - einstimmig beschlossen
+- TOP 7.5: Anträge Mein Grevenbroich
+- TOP 7.5.1: Schrebergärten Feilenhauer Straße - Kenntnisnahme
+- TOP 7.6: Anträge der UWG-Fraktion
+- TOP 7.6.1: Straßenzustand Gustorf Torfstecherweg Höhe Kirmesplatz - einstimmig beschlossen
+- TOP 7.6.2: Ersatz der vorhandenen Lichtquellen durch LED-Beleuchtung in den Immobilien der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 7.6.3: Prüfung der z.Zt. angemieteten Räume durch die Stadt - werden diese noch benötigt? - einstimmig beschlossen
+- TOP 7.6.4: Bereitstellung von € 100.000 für die Unterhaltung von Brückenbauwerken im Stadtgebiet - einstimmig beschlossen
+- TOP 7.7: Gemeinschaftsanträge
+- TOP 7.7.1: Energetische Musterschule - Kenntnisnahme
+- TOP 7.7.2: LED-Retrofit Initiative - Kenntnisnahme
+- TOP 7.7.3: Masterplan Grüne Infrastruktur - einstimmig beschlossen
+- TOP 7.8: Zusammengefasste Anträge
+- TOP 7.8.1: Antrag - Überprüfung laufender Verträge & Antrag Kostenverringerung der Stadtbetriebe - Kenntnisnahme
+- TOP 7.9: Bürgerantrag nach §24 GO NRW
+- TOP 7.9.1: Bürgerantrag zur Markierung von Gießkannen auf städtischen Friedhöfen - einstimmig beschlossen
+- TOP 8: Wirtschaftsplan 2022 Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 9: Schriftliche Anfragen
+- TOP 9.1: Status der Umstellung der Straßenbeleuchtung auf LED-Technik - Kenntnisnahme
+- TOP 10: Satzung für die Friedhöfe in der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 11: Satzung der Stadtbetriebe Grevenbroich (AöR) über die Erhebung von Friedhofsgebühren - einstimmig beschlossen
+- TOP 12: Beantwortung der Anfragen aus der Verwaltungsratssitzung vom 22.09.2021 - Kenntnisnahme
+- TOP 13: Anfragen von Verwaltungsratsmitgliedern
+- TOP 14: Mitteilungen des Vorstandes
+- TOP 15: Mitteilungen des Verwaltungsratsvorsitzenden
