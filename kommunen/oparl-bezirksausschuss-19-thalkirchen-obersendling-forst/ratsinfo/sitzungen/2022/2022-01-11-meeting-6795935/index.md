@@ -1,0 +1,65 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-01-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6795935
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6795935
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 07.12.2021
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Aufhebung Radwegebenutzungspflicht Kistlerhofstraße beidseitig zwischen Hofmannstraße und Meglingerstraße bzw. Constanze-Hallgarten-Straße
+- TOP 5.2.: (A) Sommerstraßen 2022
+- TOP 5.3.: (E) Umgestaltung Fußweg/Radweg zwischen Wolfratshauser Straße und Sankt-Wendel- Straße Empfehlung-Nr. 20-26 / E 00315 der Bürgerversammlung des Stadtbezirks 19 Thalkirchen-Obersendling-Forstenried- Fürstenried-Solln vom 14.10.2021
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Tempo 30 Kita Fertigstraße
+- TOP 5.5.: (E) Errichtung von Fahrradständern an der Bushaltestelle Plattlinger Straße Empfehlung Nr. 20-26 / E 00313 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 5.6.: (E) Vollzug des Bayerischen Straßen - und Wegegesetzes im Stadtbezirk 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln Widmung der Gesamtstrecke der Eleonore-Romberg-Straße
+- TOP 5.7.: - NACHTRAG - (A) Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Appenzeller Straße 133
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Aufnahme in die Denkmalliste der Landeshauptstadt München: Schulzentrum Fürstenried-West Engadiner Straße 1
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.1: Königswieser Straße 5
+- TOP 6.2.6: - abgesetzt -
+- TOP 6.2.10: Forstenrieder Allee Fl.Nr. 496
+- TOP 6.3.: (A) Beschlussentwurf: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III/30 Bebauungsplan mit Grünordnung Nr. 2139 Machtlfinger Straße
+- TOP 6.4.: (A) Altlastensanierung - Abgrabung: Koppstraße 2 / Rupert-Mayer-Straße 45
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Schwimmhallensanierung Schulzentrum Fürstenried-West
+- TOP 7.2.: (A) Beschlussentwurf: Standortbeschluss zur Unterbringung wohnungsloser Einzelpersonen und Paare - Neubau eines Flexi-Heims Steinkirchner Str. 1; Sitzungsvorlage Nr. 20-26 / V 05042
+- TOP 7.3.: (Antrag) Zustand der Saunen und des Dampfbades im Bad Forstenrieder Park
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 9: Verschiedenes
+- TOP 6.2.11: - abgesetzt -
+- TOP 3.2.: - NACHTRAG - (E) Stadtbezirksbudget Initiative "Literatur" Die vorhandene Literatur über die Stadtteile des 19. Bezirks in chronolog. Folge 2.500,00 €; Az. 0262.0-19-0395
+- TOP 6.2.2: Konrad-Witz-Straße 7
+- TOP 6.2.3: Maxhofstraße 23 (VB)
+- TOP 6.2.4: Hofbrunnstraße 109
+- TOP 6.2.5: Kistlerhofstraße 70
+- TOP 6.2.7: Am Isarkanal 42 (VB)
+- TOP 6.2.8: Buchhierlstraße 23a (VB)
+- TOP 6.2.9: Vinzenz-Schüpfer-Straße 40
+- TOP 6.2.12: Kerschlacher Straße 6
