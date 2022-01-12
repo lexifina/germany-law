@@ -1,0 +1,83 @@
+# 3. ordentliche digitale Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2022-01-12T17:30:00+01:00
+- Ende: 2022-01-12T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7265
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7265
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=248627
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Entwicklung der Corona-Fallzahlen im Bezirk - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Berufung beratender und stellvertretende beratende Mitglieder des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die IX. Wahlperiode - vertagt
+- TOP 1.9: Besetzung von Ausschüssen durch Bürgerdeputierte auf Vorschlag der AfD-Fraktion - vertagt
+- TOP 1.10: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 1.11: Wahl Bürgerdeputierte und stellvertretende Bürgerdeputierte - vertagt
+- TOP 1.12: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 1.13: Wahl von Bürgerdeputierten - vertagt
+- TOP 1.14: Wahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten - vertagt
+- TOP 1.15: Wahl von Mitgliedern des Kuratoriums der Seniorenstiftung Prenzlauer Berg - vertagt
+- TOP 1.16: Wahl eines / einer Bezirksverordneten als Mitglied in den Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - vertagt
+- TOP 1.17: Projekte „Housing First Berlin“ und „Housing First für Frauen“ stärken – neue Wohnungen in die Projekte integrieren! - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Einen Pankower "Frauenbeirat Stadtplanung" für die IX. Wahlperiode einrichten - überwiesen
+- TOP 1.19: Das Straßen- und Grünflächenamt personell besser ausstatten! - überwiesen
+- TOP 1.20: Haltestellen der Buslinie 259 in Berlin-Buch - überwiesen
+- TOP 1.21: Die Cantianstraße fußgängerinnenfreundlicher und sicherer gestalten - überwiesen
+- TOP 1.22: Fahrradreparatursäulen für Pankow - überwiesen
+- TOP 1.23: Wie nachhaltig ist Pankow? Eine Gemeinwohl-Bilanz für den Bezirk erstellen - überwiesen
+- TOP 1.24: Pankower RENNsation wiederbeleben und das „Netzwerk Kinderschutz“ sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Neue Fläche für Kleingärten in Pankow - überwiesen
+- TOP 1.26: Entwicklung des Botanischen Volksparks sichern – Kooperation mit der Grün Berlin GmbH fortsetzen - in der BVV abgelehnt
+- TOP 1.27: Briefkasten für das Bezirksamt und die BVV Pankow sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Koordinierung statt Enttäuschung - Überprüfung der Einschulungsbereiche - überwiesen
+- TOP 1.29: Villa vor Schönholz für den Bezirk sichern - überwiesen
+- TOP 1.30: Marianne-Wünscher-Platz in Pankow - überwiesen
+- TOP 1.31: Umbenennung der Robert-Rössle-Straße - überwiesen
+- TOP 1.32: Free Open Air Spaces – Pilotprojekt verstetigen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Erste Schritte zur Wohnumfeldverbesserung im Sanierungsgebiet Langhansstraße - überwiesen
+- TOP 1.34: Sportplatz- und Hallenzeiten online einsehen und buchen - überwiesen
+- TOP 1.35: Verteilung von FFP2-Masken durch das Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Vereinbarkeit von Ehrenamt und Beruf/Familie für Bezirksverordnete gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Wochenmarkt wiederbeleben – Zentrum Niederschönhausen aufwerten - überwiesen
+- TOP 1.38: Be- und Entlade-Zonen für den Winskiez - überwiesen
+- TOP 1.39: Das Landschaftsschutzgebiet Schönholzer Heide und Bürgerpark vor Schäden durch Parken und Befahren schützen - überwiesen
+- TOP 1.40: Gertrud-Classen-Platz zur Kiez-Oase entwickeln - überwiesen
+- TOP 1.41: Einen für Radfahrer geeigneten Belag über die Heinersdorfer Brücke herstellen - überwiesen
+- TOP 1.42: Machbarkeitsstudie für eine Parkraumbewirtschaftung im Vineta-Kiez - überwiesen
+- TOP 1.43: Ein Echtzeit-Portal von Pankow nach Kolberg! - überwiesen
+- TOP 1.44: Erfolgreiches Berichtswesen zu Schulbauoffensive, Schulentwicklungsplanung und Sportentwicklungsplanung fortsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.45: Verkehrssicherheit für Radfahrer auf der Danziger Straße - überwiesen
+- TOP 1.46: Saubere Spielfläche für die Grundschule unter den Bäumen - ohne Änderungen in der BVV beschlossen
+- TOP 1.47: Informationsmaterialien des Bezirksamtes bereits vor der Vorstellung in den Ausschüssen an die Bezirksverordneten digital versenden - mit Änderungen in der BVV beschlossen
+- TOP 1.48: Verkehrssicherheit an der Kreuzung Trelleborger Str. / Schonensche Str. herstellen - überwiesen
+- TOP 1.49: Umleitungsverkehr der Tram-Linie M1 während der Erneuerung des Ingenieurbauwerks Schönhauer Allee optimieren - überwiesen
+- TOP 1.50: Mehr als nur ein Tropfen - Regenwasserzisterne für den Blankensteinpark - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bienen schützen – Prävention, Information und Behandlung vor Tötung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Entwicklung von Formaten der Kinder- und Jugendbeteiligung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Temporäre Spielstraße am Teutoburger Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: WLAN in Zimmern von Wohnungslosenheimen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Kindgerechte Informationstafeln an Volieren und Tiergehege im Bürgerpark Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Flexible Kinderbetreuung auch für Pankow weiterentwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Radverkehrsanlage Heinersdorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Rahmenplanung für Französisch Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Frühzeitige Lösung für den KiezKlub Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Benennung der Vorsitzenden des Kuratoriums der „Seniorenstiftung Prenzlauer Berg“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Benennung eines Mitgliedes für den Vorstand der Albert Schweizer Stiftung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Neubesetzung des Stiftungsrates der Stiftung Pfefferwerk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Bestellung von Mitgliedern des Bezirksamts Pankow von Berlin für das Heimkuratorium „Seniorenwohnen am Schloßpark“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Benennung bezirklicher Mitglieder der Trägerversammlung des Jobcenters Berlin Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Bildung der Spielplatzkommission - mit Abschlussbericht zur Kenntnis genommen
