@@ -36,10 +36,9 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
   a) Der Stundensatz für die Berechnung der in diesem Abschnitt bestimmten Zeitgebühren beträgt 73,51 Euro pro Stunde und je beteiligte Person. Abweichend gilt für die in Nummer 2132 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt bestimmte Zeitgebühr ein Stundensatz von 58,52 Euro für den mittleren Dienst sowie von 73,51 Euro für den gehobenen Dienst; der Stundensatz für die Berechnung der Zeitgebühr in den Nummern 208, 211, 212 und im Tabellenabschnitt 6 bestimmten Gebühren des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt beträgt 58,52 Euro pro Stunde und je beteiligte Person. Auslagen für Dienstreisen und die auf die Vergütung entfallende Umsatzsteuer, sofern diese nicht nach § 19 Absatz 1 des Umsatzsteuergesetzes unerhoben bleibt, werden gesondert erhoben.
   b) Für die Entschädigung oder die Vergütung nach § 26 Absatz 3 Satz 2 des Verwaltungsverfahrensgesetzes, die der Gebührenschuldner bei den Gebühren im Tabellenabschnitt 1 in diesem Abschnitt des Gebühren- und Auslagenverzeichnisses nach § 12 Absatz 1 Nummer 1 BGebG zu erstatten hat, gelten Personen, deren Hilfe sich die Behörde der Wasserstraßen- und Schifffahrtsverwaltung des Bundes bei der Vornahme von gebührenfähigen Leistungen bedient und die ihr nicht angehören, insbesondere Beisitzer eines Prüfungsausschusses, als Sachverständige. Die Vergütung, deren Höhe die nach dem Justizvergütungs- und -entschädigungsgesetz zulässige Vergütung nicht überschreiten darf, wird pauschaliert auf einen Stundensatz von 50 Euro festgesetzt. Auslagen für Dienstreisen und die auf die Vergütung entfallende Umsatzsteuer, sofern diese nicht nach § 19 Absatz 1 des Umsatzsteuergesetzes unerhoben bleibt, werden gesondert vergütet.
   c) Wird eine gebührenfähige Leistung auf Antrag des Berechtigten nicht an dem dafür gewöhnlich vorgesehenen Ort oder dem dafür vorgesehenen Termin vorgenommen, so hat der Gebührenschuldner außer den Auslagen nach Buchstabe a auch die hierdurch entstehenden sonstigen Mehrkosten zu tragen. Zu diesen Mehrkosten gehört auch für jeden an der individuell zurechenbaren öffentlichen Leistung Beteiligten ein Zuschlag für die tatsächliche Fahrzeit der Hin- und Rückfahrt zwischen dem gewöhnlichen und dem tatsächlichen Ort der gebührenfähigen Leistung.
+  d) Prüfungsgebühren nach den Nummern 1012, 1013, 1014, 1015, 1017, 1022, 1023, 1024, 1032, 1033, 1034, 1042, 1043, 1044, 1045, 1052, 1053, 1054, 1055, 1056, 1057 und 1061 werden auch dann bis zur vollen Höhe erhoben, wenn der Prüfling aus Gründen, die er zu vertreten hat, am festgesetzten Prüfungstermin nicht erscheint. Ein Rücktritt von einer Prüfungsleistung ohne den Anfall von Gebühren ist bis zwei Wochen vor dem festgesetzten Prüfungstermin möglich.
 2. Gebührenreduzierung aufgrund geringeren Aufwands
-  a) Die Gebühr bei den Nummern 1021 – 1025 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt wird um 75 Euro reduziert, wenn die Prüfung wiederholt wird und die volle Gebühr bereits entrichtet wurde oder wenn keine Patentkarte ausgegeben wird.
-  b) Die Gebühr bei der Nummer 1025 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt kann zudem um bis zur Hälfte der Gebühr reduziert werden, wenn der Aufwand der Ausstellung sich auf einfache Eintragungen beschränkt.
-  c) Die Gebühr bei der Nummer 4021 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt kann bei gleichzeitiger Untersuchung weiterer baugleicher Fahrzeuge je nach Umfang der Untersuchung für diese weiteren Fahrzeuge um 1/5 bis 4/5 reduziert werden.
+  Die Gebühr bei der Nummer 4021 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt kann bei gleichzeitiger Untersuchung weiterer baugleicher Fahrzeuge je nach Umfang der Untersuchung für diese weiteren Fahrzeuge um 1/5 bis 4/5 reduziert werden.
 3. Doppelte Gebühr
   Erfordert die gebührenfähige Leistung ein Tätigwerden der Behörde außerhalb der Dienstzeit, so kann ein aufwandsentsprechender Aufschlag bis zur doppelten Höhe der Ausgangsgebühr erhoben werden.
 4. Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten Untersuchungen
@@ -48,55 +47,90 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
   Entstehen der Schiffsuntersuchungskommission Wartezeiten, weil ein Wasserfahrzeug nicht zur vereinbarten oder festgesetzten Zeit zur Untersuchung bereitsteht, kann dem Gebührenschuldner ein Zuschlag auferlegt werden. § 10 Absatz 4 der Allgemeinen Gebührenverordnung kommt zur Anwendung. Dies gilt für die Eichung von Binnenschiffen entsprechend.
 | Nummer | Gegenstand | Abgekürzte Rechtsgrundlage | Gebühr in Euro |
 | 1. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Befähigungszeugnissen und Schifferdienstbüchern |
-| 101 | Zulassung zu einer Prüfung mit Ausnahme der lfd. Nummer 111 | § 16 Absatz 1 und 6 BinSchPatentV § 7.11, § 8.02 RheinSchPersV |  |
-| 1011 | ohne Streckenkenntnisse |  | 144 |
-| 1012 | mit Streckenkenntnissen |  | 154 |
-| 1013 | nur für Streckenzeugnis oder Streckenerweiterung |  | 92,20 |
-| 102 | Rheinpatente, Schifferpatente Sportschifferzeugnis Feuerlöschbootpatent | §§ 18, 19, 20, 24 BinSchPatentV §§ 7.12, 7.13, 7.22 RheinSchPersV |  |
-| 1021 | Prüfung ohne Streckenkenntnisse einschließlich Erteilung des Patentes oder Zeugnisses |  | 373 |
-| 1022 | Prüfung mit Streckenkenntnissen einschließlich Erteilung des Patentes oder Zeugnisses |  | 557 |
-| 1023 | praktische Prüfung einschließlich Erteilung des Patentes oder Zeugnisses |  | 196 |
-| 1024 | Teilprüfung einschließlich Erteilung des Patentes oder Zeugnisses |  | 196 |
-| 1025 | Erteilung des Patentes oder Zeugnisses ohne Prüfung | § 21 Satz 1 BinSchPatentV § 7.13 Nummer 4, § 7.22 Nummer 5 RheinSchPersV | 156 |
-| 1026 | Erweiterung, Erstreckung des Patentes oder Zeugnisses | § 19 Absatz 3 BinSchPatentV § 7.13 Nummer 3 RheinSchPersV | 180 |
-| 1027 | nachträgliche Erteilung von Auflagen | § 10 Absatz 3 Satz 2 BinSchPatentV § 7.18 Nummer 3, § 7.19 Nummer 3 RheinSchPersV | 66,90 |
-| 1028 | Anordnung über das Ruhen einer Erlaubnis oder der Gültigkeit eines Rheinpatentes | § 24 Absatz 3 und 6 BinSchPatentV § 7.20 Nummer 1 RheinSchPersV | 242 |
-| 1029 | Anordnung über ein vorübergehendes Fahrverbot für gleichwertig anerkannte Schiffsführerzeugnisse | § 7.23 RheinSchPersV | 148 |
-| 103 | Fährführerschein | § 18 Absatz 1 BinSchPatentV |  |
-| 1031 | Theoretische Prüfung |  | 202 |
-| 1032 | Praktische Prüfung einschließlich Erteilung |  | 193 |
-| 1033 | Erneute praktische Prüfung oder Erweiterung | § 18 Absatz 2, § 19 Absatz 3 BinSchPatentV | 104 |
-| 104 | Radarpatent | §§ 8.04, 8.05 i. V. m. § 6.03 Nummer 1 RheinSchPersV |  |
-| 1041 | Theoretische Erst- und Wiederholungsprüfung |  | 160 |
-| 1042 | Praktische Erst- und Wiederholungsprüfung einschließlich Erteilung des Radarpatentes |  | 431 |
-| 1043 | Praktische Prüfung für das Radarpatent zur Führung von Fähren einschließlich Erteilung des Radarpatentes | § 8.04 i. V. m. § 6.03 Nummer 2 RheinSchPersV | 141 |
-| 1044 | Erteilung des Radarpatentes zur Führung von Fähren ohne Prüfung | § 8.04 Nummer 3 RheinSchPersV | 64,40 |
-| 105 | Erteilung einer Erlaubnis zum Führen von Fahrzeugen ohne Fahrerlaubnis, Zulassung einer Ausnahme | § 6 BinSchPatentV | 74,40 |
-| 106 | Ausfertigung eines Donaukapitänspatentes, eines unter Nummer 103 bis 105 genannten Befähigungszeugnisses oder die Ausfertigung des Ersatzes eines der unter Nummer 102 bis 107 genannten Befähigungszeugnisse | §§ 9, 20 Absatz 1 Satz 2, § 22 Satz 1 BinSchPatentV § 7.14 Nummer 5, §§ 7.15, 7.16, 8.05 Nummer 4 RheinSchPersV § 12 RheinLotsO | 59,40 |
-| 107 | Verlängerung oder Erneuerung eines Befähigungszeugnisses und Ausstellung eines Bescheides über die Tauglichkeit | § 24 Absatz 1 BinSchPatentV § 7.14 Nummer 1 i. V. m. § 7.18 Nummer 1, § 7.19 Nummer 1 § 9.02 Nummer 1 RheinSchPersV | 66,90 |
-| 108 | Beauftragung und Herstellung der Patentkarte für die Nummern 106, 107 und 1033 |  | 74,85 |
-| 109 | Umtausch alter Befähigungszeugnisse | § 9.02 Nummer 2 RheinSchPersV | 96,60 |
-| 110 | Schifferdienstbuch; Fahrtenheft | § 3.06 RheinSchPersV Anhang VI § 3.01 Nummer 3 BinSchUO § 7 RheinLotsO |  |
-| 1101 | Ausstellung |  | 66,90 |
-| 1102 | Ersatzausfertigung, Folgebuch |  | 29,70 |
-| 1103 | Überprüfung ohne Eintrag einer Qualifikation je angefangene Seite |  | 1,50 |
-| 1104 | Eintragung einer Qualifikation |  | 11,85 |
-| 111 | UKW-Sprechfunkzeugnisse |  |  |
-| 1111 | Zulassung zu einer Prüfung | § 7 Absatz 3 BinSchSprFunkV | 14,85 |
-| 1112 | Prüfung | § 9 Absatz 1, § 12 Absatz 2 BinSchSprFunkV | 65,45 |
-| 1113 | Teilprüfung oder Wiederholung von 1 Teil/2 Teilen | § 9 Absatz 5, § 12 Absatz 2 BinSchSprFunkV | 42,65/65,45 |
-| 1114 | Erteilung des UKW-Sprechfunkzeugnisses | § 9 Absatz 4, § 10 BinSchSprFunkV | 21,30 |
-| 1115 | Erteilung eines Sprechfunkzeugnisses durch FVT | § 10 BinSchSprFunkV | 31,20 |
-| 1116 | Umschreibung oder Ersatzausfertigung von Berufszeugnissen | §§ 10, 11 BinSchSprFunkV | 41,10 |
-| 112 | Sicherheitspersonal |  |  |
-| 1121 | Anerkennung eines Basislehrgangs | § 5.03 RheinSchPersV | 279 – 551 |
-| 1122 | Anerkennung eines Auffrischungslehrgangs | § 5.04 RheinSchPersV | 279 – 551 |
-| 1123 | Ausstellung einer Bescheinigung als Ersthelfer | § 5.08 Nummer 2 RheinSchPersV | 14,85 |
-| 1124 | Ausstellung einer Bescheinigung als Atemschutzgeräteträger | § 5.08 Nummer 3 Satz 1 RheinSchPersV | 14,85 |
-| 113 | Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff |  |  |
-| 1131 | Anerkennung eines Lehrgangs | § 4a.05 Satz 2 RheinSchPersV | 279 – 551 |
-| 1132 | Anerkennung eines Auffrischungslehrgangs | § 4a.05 Satz 2 RheinSchPersV | 279 – 551 |
-| 1133 | Ausstellung einer Sachkundebescheinigung | § 4a.02 i. V. m. § 4a.04 Nummer 2 oder § 9.05 RheinSchPersV | 14,85 |
+| 101 | Prüfungsverfahren für das Unionspatent |  |  |
+| 1011 | Zulassung zur behördlichen Befähigungsprüfung | § 67 BinSchPersV | 145 |
+| 1012 | Durchführung des theoretischen Prüfungsteils | § 38 Absatz 2 BinSchPersV | 134 |
+| 1013 | Durchführung des praktischen Prüfungsteils Reiseplanung | § 38 Absatz 3 BinSchPersV | 277 |
+| 1014 | Durchführung des praktischen Prüfungsteils Reisedurchführung an einem Simulator | § 38 Absatz 3 BinSchPersV | 255 |
+| 1015 | Durchführung des praktischen Prüfungsteils Reisedurchführung an Bord eines Fahrzeugs | § 38 Absatz 3 BinSchPersV | 255 |
+| 1016 | Ausstellen eines Zeugnisses über das Bestehen der praktischen Prüfung am Simulator | § 38 Absatz 3 BinSchPersV | 10 |
+| 1017 | Durchführung der zusätzlichen Prüfungsteile | § 38 Absatz 4 BinSchPersV | 590 |
+| 102 | Prüfungsverfahren für das Fährschifferzeugnis |  |  |
+| 1021 | Zulassung zur Prüfung | § 67 BinSchPersV | 111 |
+| 1022 | Durchführung des theoretischen Prüfungsteils | § 40 Absatz 2 BinSchPersV | 84 |
+| 1023 | Durchführung des praktischen Prüfungsteils an Bord einer Fähre | § 40 Absatz 3 BinSchPersV | 175 |
+| 1024 | Durchführung des praktischen Prüfungsteils an einem Simulator | § 40 Absatz 3 BinSchPersV | 175 |
+| 103 | Prüfungsverfahren für das Sportschifferzeugnis | § 18 Absatz 1 BinSchPatentV |  |
+| 1031 | Zulassung zur Prüfung | § 67 BinSchPersV | 82 |
+| 1032 | Durchführung des theoretischen Prüfungsteils | § 40 Absatz 2 BinSchPersV | 84 |
+| 1033 | Durchführung des praktischen Prüfungsteils an Bord eines Fahrzeugs | § 40 Absatz 3 BinSchPatentV | 160 |
+| 1034 | Durchführung des praktischen Prüfungsteils an einem Simulator | § 40 Absatz 3 BinSchPersV | 160 |
+| 104 | Prüfungsverfahren für das Kleinschifferzeugnis | §§ 8.04, 8.05 i. V. m. § 6.03 Nummer 1 RheinSchPersV |  |
+| 1041 | Zulassung zur Prüfung | § 67 BinSchPersV | 82 |
+| 1042 | Durchführung des theoretischen Prüfungsteils | § 40 Absatz 5 Satz 1 BinSchPersV | 84 |
+| 1043 | Durchführung des theoretischen Prüfungsteils für das Führen von Fahrzeugen i. S. d. Richtlinie (EU) 2017/2397 | § 40 Absatz 5 Satz 3 | 163 |
+| 1044 | Durchführung des praktischen Prüfungsteils an Bord eines Fahrzeugs | § 40 Absatz 5 Satz 3 i. V. m. Absatz 3 BinSchPersV | 175 |
+| 1045 | Durchführung des praktischen Prüfungsteils an einem Simulator | § 40 Absatz 5 Satz 3 i. V. m. Absatz 3 BinSchPersV | 175 |
+| 105 | Prüfungsverfahren für besondere Berechtigungen |  |  |
+| 1051 | Zulassung zur behördlichen Befähigungsprüfung, falls diese Leistung nicht mit einer Leistung nach der Nummer 1011 verbunden ist | § 67 BinSchPersV | 63 |
+| 1052 | besondere Berechtigung für Radar: Durchführung der Theorieprüfung | § 41 Absatz 2 BinSchPersV | 25 |
+| 1053 | besondere Berechtigung für Radar: Durchführung der praktischen Prüfung an einem Simulator | § 41 Absatz 3 BinSchPersV | 146 |
+| 1054 | besondere Berechtigung für Radar: Durchführung der praktischen Prüfung an Bord eines Fahrzeugs der WSV | § 41 Absatz 3 BinSchPersV | 246 |
+| 1055 | besondere Berechtigung für Radar auf Fähren: Durchführung der praktischen Prüfung | § 41 Absatz 4 | 102 |
+| 1056 | besondere Berechtigung für Wasserstraßenabschnitte mit besonderen Risiken: Durchführung der Prüfung, je angebrochener 10 km-Streckenabschnitt | § 42 Absatz 2 BinSchPersV | 13 |
+| 1057 | besondere Berechtigung für Wasserstraßen mit maritimem Charakter: Durchführung der Prüfung | § 43 Absatz 2 BinSchPersV | 130 |
+| 106 | Prüfungsverfahren für die behördliche Befähigungsprüfung auf Betriebsebene |  |  |
+| 1061 | Durchführung des Prüfungsverfahrens durch die IHK | § 59 Absatz 1 BinSchPersV | 550 |
+| 107 | Erteilung von Schiffsführerzeugnissen und besonderen Berechtigungen |  |  |
+| 1071 | Erst- oder Folgeausstellung als Karte | §§ 78, 79, 80, 81 Absatz 2, auch i. V. m. § 82 Absatz 2, § 129 BinSchPersV | 129 |
+| 1072 | Erst- oder Folgeausstellung im elektronischen Format | §§ 78, 79, 80, 81 Absatz 2, § 129 BinSchPersV | 89 |
+| 1073 | Erteilung nach Tauglichkeitsverlängerung als Karte | § 81 Absatz 3 und 4, auch i. V. m. § 82 Absatz 2 BinSchPersV | 143 |
+| 1074 | Erteilung nach Tauglichkeitsverlängerung im elektronischen Format | § 81 Absatz 3 und 4 BinSchPersV | 103 |
+| 1075 | Verlängerung einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse F und Ausstellung eines Bescheides über die Tauglichkeit | § 126 Absatz 3 BinSchPersV | 150 |
+| 1076 | Erteilung einer besonderen Berechtigung als Karte, falls diese Leistung nicht mit einer Leistung nach der Nummer 1071 oder 1073 verbunden ist | § 79 Absatz 1 BinSchPersV | 129 |
+| 1077 | Erteilung oder Verlängerung eines Befähigungszeugnisses für Sachkundige für die Fahrgastschifffahrt (nur im elektronischen Format) | § 85 Absatz 2, § 87 Absatz 2 BinSchPersV | 89 |
+| 1078 | Erstellung oder Verlängerung eines Befähigungszeugnisses für Sachkundige für Flüssigerdgas (nur im elektronischen Format) | § 85 Absatz 1, § 87 Absatz 2 BinSchPersV | 89 |
+| 108 | Ausstellung eines Schifferdienstbuches oder Fahrtenheftes und Erteilung von Befähigungszeugnissen |  |  |
+| 1081 | Erstausstellung und Ausgabe eines Folgebuches ohne Eintragung eines Befähigungszeugnisses | §§ 60, 84, 123 Absatz 5 und 6, § 129 Absatz 5 Satz 2 BinSchPersV | 104 |
+| 1082 | Erstausstellung eines Fahrtenheftes und Ausgabe eines Folgeheftes | § 7 Nummer 1 RheinLotsO | 66 |
+| 1083 | Validierung von Fahrzeiten ohne Eintragung eines Befähigungszeugnisses, je angefangene Seite | § 27 BinSchPersV § 7 Nummer 3 RheinLotsO | 1,50 mindestens aber 5 |
+| 1084 | Eintragung und Verlängerung eines Befähigungszeugnisses auf Einstiegsebene oder Betriebsebene oder des Maschinenpersonals | §§ 61, 62, 63 Absatz 2, §§ 64, 123 Absatz 5, § 129 Absatz 5 Satz 3 BinSchPersV | 27 |
+| 109 | Umtausch alter Befähigungszeugnisse |  |  |
+| 1091 | Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen A, B oder C oder eines Rheinpatents in ein Unionspatent als Karte | § 129 Absatz 1 und 2 BinSchPersV | 129 |
+| 1092 | Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen A, B oder C oder eines Rheinpatents in ein Unionspatent im elektronischen Format | § 129 Absatz 1 und 2 BinSchPersV | 89 |
+| 1093 | Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse D in ein Behördenschifferzeugnis | § 129 Absatz 3 BinSchPersV | 129 |
+| 1094 | Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse E in ein Sportschifferzeugnis nach BinSchPersV | § 129 Absatz 4 BinSchPersV | 129 |
+| 1095 | Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse F in ein Fährschifferzeugnis | § 129 Absatz 5 Satz 1 BinSchPersV | 129 |
+| 1096 | Umtausch eines bis zum 17.01.2022 nach der BinSchPatentV oder der Schiffspersonalverordnung-Rhein ausgegebenen Schifferdienstbuches in ein Schifferdienstbuch nach BinSchPersV | § 123 Absatz 5 und 6 BinSchPersV | 104 |
+| 1097 | Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine besondere Berechtigung für Radar als Karte, falls diese Leistung nicht mit einer Leistung nach den Nummern 1091, 1093 bis 1095 verbunden ist | § 131 Absatz 2 BinSchPersV | 129 |
+| 1098 | Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine besondere Berechtigung für Radar als elektronisches Dokument, falls diese Leistung nicht mit einer Leistung nach der Nummer 1092 verbunden ist | § 131 Absatz 2 BinSchPersV | 89 |
+| 110 | Änderungen von nach Nummern 107 bis 109 erteilten Befähigungszeugnissen |  |  |
+| 1101 | Anordnen des Beibringens eines Tauglichkeitsnachweises | § 21 Absatz 2, auch i. V. m. § 22 Absatz 2 Satz 3, § 22 Absatz 4, auch i. V. m. Absatz 5 BinSchPersV | 112 |
+| 1102 | Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen Beschränkungen als Karte | § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV | 150 |
+| 1103 | Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen Beschränkungen im elektronischen Format | § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV | 110 |
+| 1104 | Aussetzung oder Entzug eines Befähigungszeugnisses | §§ 91 – 94 BinSchPersV | 238 |
+| 111 | Zulassung von Lehrgängen |  |  |
+| 1111 | Zulassung eines Basislehrgangs für Sachkundige für die Fahrgastschifffahrt | § 56 BinSchPersV | 275 – 545 |
+| 1112 | Zulassung eines Auffrischungslehrgangs für Sachkundige für die Fahrgastschifffahrt | § 56 BinSchPersV | 275 – 545 |
+| 1113 | Zulassung eines Lehrgangs für Sachkundige für Flüssigerdgas | § 56 BinSchPersV | 275 – 545 |
+| 1114 | Zulassung eines Lehrgangs grundlegende Sicherheitsausbildung | § 53 i. V. m. Anlage 21 BinSchPersV | 275 – 545 |
+| 1115 | Zulassung eines Lehrgangs Maschinenkundige | § 54 i. V. m. Anlage 22 BinSchPersV | 275 – 545 |
+| 1116 | Zulassung eines Lehrgangs atemschutzgerättragende Personen | § 58 i. V. m. Anlage 23 BinSchPersV | 275 – 545 |
+| 1117 | Zulassung eines Ausbildungsprogramms für die Betriebsebene | § 55 Absatz 1 BinSchPersV | 275 – 545 |
+| 112 | Zulassung von Simulatoren |  |  |
+| 1121 | Zulassung eines Fahrsimulators | § 89 i. V. m. Anlage 30 BinSchPersV | 5531 |
+| 1122 | Zulassung eines Radarsimulators | § 89 i. V. m. Anlage 30 BinSchPersV | 2777 |
+| 113 | Befreiung von Fahrerlaubnissen |  |  |
+| 1131 | Erteilung einer Erlaubnis zum Führen von Fahrzeugen ohne Fahrerlaubnis, Zulassung einer Ausnahme | § 14 BinSchPersV | 112 |
+| 114 | Verlängerung der Ermächtigung von Ärzten |  |  |
+| 1141 | Erteilung einer Verlängerung der Ermächtigung zur Durchführung ärztlicher Tauglichkeitsuntersuchungen | § 137 Absatz 2 i. V. m. Anlage 32 BinSchPersV | 373 – 467 |
+| 115 | UKW-Sprechfunkzeugnisse |  |  |
+| 1151 | Zulassung zu einer Prüfung | § 7 Absatz 3 BinSchSprFunkV | 14,85 |
+| 1152 | Prüfung | § 9 Absatz 1, § 12 Absatz 2 BinSchSprFunkV | 65,45 |
+| 1153 | Teilprüfung oder Wiederholung von 1 Teil / 2 Teilen | § 9 Absatz 5, § 12 Absatz 2 BinSchSprFunkV | 42,65 / 65,45 |
+| 1154 | Erteilung des UKW-Sprechfunkzeugnisses | § 9 Absatz 4, § 10 BinSchSprFunkV | 21,30 |
+| 1155 | Erteilung eines Sprechfunkzeugnisses durch FVT | § 10 BinSchSprFunkV | 31,20 |
+| 1156 | Umschreibung oder Ersatzausfertigung von Berufszeugnissen | §§ 10, 11 BinSchSprFunkV | 41,10 |
 | 2. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Bescheinigungen über Bau, Ausrüstung, Besatzung und Betrieb der Wasserfahrzeuge |
 | 201 | Erst- und wiederkehrende Untersuchung von Fahrzeugen | §§ 6, 11, 12, 13, 14, 15, 16, 17 BinSchUO | nach Zeitaufwand |
 | 202 | Sonderuntersuchung, freiwillige Untersuchung, Untersuchung von Amts wegen, angesetzte oder angefangene Untersuchung, die nicht durchgeführt werden konnte, sowie Untersuchungen nach Mängelbeseitigung | § 5 Absatz 8, §§ 6, 16, 20, 24, 25 BinSchUO | nach Zeitaufwand |
@@ -115,8 +149,8 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 2132 | Prüfen sowie ggf. Erteilen einer Fahrtauglichkeitsbescheinigung | § 11 BinSchUO | nach Zeitaufwand |
 | 2133 | Ausfertigung einer Zweitschrift, Abschrift oder Ersatzausfertigung der Fahrtauglichkeitsbescheinigung | § 17 BinSchUO | 32,20 |
 | 2134 | Bescheinigung einer wiederkehrenden Untersuchung oder einer Sonderuntersuchung | §§ 24, 25 BinSchUO | 32,20 |
-| 2135 | Jede Änderung einer Fahrtauglichkeitsbescheinigung | § 15 BinSchUO Anhang VI § 1.01 | 32,20 |
-| 2136 | Jeder Vermerk über Abweichungen und Zulässigkeiten in der Fahrtauglichkeitsbescheinigung sowie die Erteilung, Verlängerung oder Änderung der Bescheinigung über die Besatzung | §§ 7, 29 Absatz 3, §§ 30, 37 Absatz 3 BinSchUO i. V. m. Anhang VI § 1.01 ES-TRIN Artikel 7.04 Nummer 9, Artikel 7.13, 9.02, 15.02 Nummer 5 | 32,20 |
+| 2135 | Jede Änderung einer Fahrtauglichkeitsbescheinigung | § 15 BinSchUO, § 96 Absatz 1 BinSchPersV | 32,20 |
+| 2136 | Jeder Vermerk über Abweichungen und Zulässigkeiten in der Fahrtauglichkeitsbescheinigung sowie die Erteilung, Verlängerung oder Änderung der Bescheinigung über die Besatzung | §§ 7, 29 Absatz 3, §§ 30, 37 Absatz 3 BinSchUO i. V. m. § 96 Absatz 1 BinSchPersV ES-TRIN Artikel 7.04 Nummer 9, Artikel 7.13, 9.02, 15.02 Nummer 5 | 32,20 |
 | 2137 | Verlängerung der Gültigkeit einer Fahrtauglichkeitsbescheinigung ohne vorausgehende Untersuchung | § 19 Absatz 5 BinSchUO | 32,20 |
 | 2138 | Prüfung und Siegelung einer Metalltafel | § 1.10 Nummer 2 BinSchStrO § 1.10 Nummer 2 RheinSchPV § 1.10 Nummer 2 MoselSchPV § 1.10 Nummer 5 der Anlage A zur DonauSchPV Artikel 32.06 und 33.04 ES-TRIN | 14,85 |
 | 2139 | Sonstige Bescheinigungen auf Grund von nationalen Regelungen sowie von bilateralen oder internationalen Verträgen (z. B.: Bescheinigung zur Vorlage beim Schiffsregister, Ausrüsterbescheinigung, RZU) |  | 32,20 |
@@ -127,7 +161,7 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 2151 | Ausstellung, Änderung oder Erneuerung der Bescheinigung für Seil- und Kettenanlagen | BinSchUO Anhang II § 3.07 | 29,70 |
 | 2152 | Verlängerung der Gültigkeit ohne das Abnahmeprotokoll für Seil- und Kettenanlagen | BinSchUO Anhang II § 3.07 | 32,20 |
 | 216 | Eintragung (auch nachträgliche) von Vermerken auf Plänen oder Zeichnungen | ES-TRIN Artikel 10.01 Nummer 2, Artikel 19.13 Nummer 3, Artikel 27.01 Nummer 1 | 32,20 |
-| 217 | Ausstellung oder Änderung des Bordbuches und der dazugehörigen Bescheinigung | § 3.13 Nummer 1 RheinSchPersV | 29,70 |
+| 217 | Ausstellung oder Änderung des Bordbuches und der dazugehörigen Bescheinigung; Umtausch eines Fahrtenbuches oder eines Bordbuches nach der Schiffspersonalverordnung-Rhein in ein Bordbuch nach BinSchPersV | §§ 102, 125 Absatz 2 BinSchPersV, § 3.13 Nummer 1 RheinSchPersV | 29,70 |
 | 218 | Ausstellung oder Änderung des Ölkontrollbuches | § 14 Absatz 3 BinSchAbfÜbkAG § 15.04 Nummer 1 RheinSchPV § 11.04 Nummer 1 MoselSchPV | 14,85 |
 | 219 | Verplomben von Einrichtungen, die nicht benutzt werden dürfen, Erneuerungen von Plomben | ES-TRIN Artikel 8.08 Nummer 10 | nach Zeitaufwand |
 | 220 | Zuteilung einer einheitlichen europäischen Schiffsnummer | § 27 Absatz 3 BinSchUO | 32,20 |
@@ -444,7 +478,7 @@ Abschnitt 6
 Gebühren für gebührenpflichtige Leistungen
 auf dem Gebiet der Befähigungen in der Sportschifffahrt
 1. Zuständige Stellen
-  Die Gebühren und Auslagen des Tabellenabschnitts 1 werden von den nach der Sportbootführerscheinverordnung beliehenen Verbänden Deutscher Motoryachtverband e. V. und Deutscher Segler Verband e. V. festgesetzt und eingezogen. Die Gebühren und Auslagen nach Tabellenabschnitt 1 Nummer 15 sowie für entsprechende Widerspruchsverfahren werden von der GDWS festgesetzt und eingezogen. Die Gebühren und Auslagen nach Tabellenabschnitt 2 werden von der Zentralen Verwaltungsstelle, die durch die Sportschifferscheinverordnung eingerichtet worden ist, nach Maßgabe der entsprechenden Durchführungsrichtlinien erhoben und eingezogen.
+  Die Gebühren und Auslagen des Tabellenabschnitts 1 werden von den nach der Sportbootführerscheinverordnung beliehenen Verbänden Deutscher Motoryachtverband e. V. und Deutscher Segler Verband e. V. festgesetzt und eingezogen. Die Gebühren und Auslagen nach Tabellenabschnitt 2 werden von der Zentralen Verwaltungsstelle, die durch die Sportschifferscheinverordnung eingerichtet worden ist, nach Maßgabe der entsprechenden Durchführungsrichtlinien erhoben und eingezogen.
 2. Auslagen und weitergehende Regelungen
   a) Für Prüfungen an der Mittelmeer- und Atlantikküste außerhalb Deutschlands werden zusätzlich Reisekosten als Auslage je Bewerber erhoben.
   b) Sind aus Gründen des Gesundheitsschutzes behördliche Hygiene- und Schutzmaßnahmen zu beachten, können die diesbezüglichen Mehraufwendungen in der tatsächlich entstandenen Höhe, jedoch lediglich bis maximal 9 Euro für die theoretische und bis maximal 10 Euro für die praktische Prüfung als Auslagen erhoben werden.

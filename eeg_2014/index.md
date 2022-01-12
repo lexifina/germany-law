@@ -297,7 +297,6 @@
 
 - [§ 100 Allgemeine Übergangsbestimmungen](0100.md)
 - [§ 101 Anschlussförderung für Altholz-Anlagen](0101.md)
-- [§ 101 Anschlussförderung für Altholz-Anlagen](0101-2.md)
 - [§ 102 Anschlussförderung für Grubengas](0102.md)
 - [§ 103 Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung](0103.md)
 - [§ 104 Weitere Übergangsbestimmungen](0104.md)
