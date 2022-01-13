@@ -1,0 +1,14 @@
+# Ausschuss für Digitalisierung und allgemeine Verwaltungsorganisation
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-01-13T17:00:00+01:00
+- Ende: 2022-01-13T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/400211
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22379
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22379
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
