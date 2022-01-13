@@ -3,7 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 - [§ 1 Anspruch](0001.md)
-- [§ 2 Testungen von Kontaktpersonen](0002.md)
+- [§ 2 Testungen von nachweislich infizierten Personen in Absonderung, Kontaktpersonen und von Personen mit Voraufenthalt in Virusvariantengebieten](0002.md)
 - [§ 3 Testungen von Personen nach Auftreten von Infektionen in Einrichtungen und Unternehmen](0003.md)
 - [§ 4 Testungen zur Verhütung der Verbreitung des Coronavirus SARS-CoV-2](0004.md)
 - [§ 4a Bürgertestung](0004a.md)

@@ -7,7 +7,7 @@
 - [§ 3 Leistungserbringer](0003.md)
 - [§ 4 Impfsurveillance](0004.md)
 - [§ 5 Terminvergabe](0005.md)
-- [§ 6 Vergütung ärztlicher Leistungen](0006.md)
+- [§ 6 Vergütung von Leistungen](0006.md)
 - [§ 7 Teilfinanzierung der Kosten der Impfzentren und der mobilen Impfteams](0007.md)
 - [§ 8 Großhandelsvergütung](0008.md)
 - [§ 9 Apothekenvergütung](0009.md)

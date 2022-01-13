@@ -1,7 +1,7 @@
 # Inhaltsübersicht
 
 | § 1 | Anspruch |
-| § 2 | Testungen von Kontaktpersonen |
+| § 2 | Testungen von nachweislich infizierten Personen in Absonderung, Kontaktpersonen und von Personen mit Voraufenthalt in Virusvariantengebieten |
 | § 3 | Testungen von Personen nach Auftreten von Infektionen in Einrichtungen und Unternehmen |
 | § 4 | Testungen zur Verhütung der Verbreitung des Coronavirus SARS-CoV-2 |
 | § 4a | Bürgertestung |

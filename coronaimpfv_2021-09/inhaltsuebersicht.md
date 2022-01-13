@@ -5,7 +5,7 @@
 | § 3 | Leistungserbringer |
 | § 4 | Impfsurveillance |
 | § 5 | Terminvergabe |
-| § 6 | Vergütung ärztlicher Leistungen |
+| § 6 | Vergütung von Leistungen |
 | § 7 | Teilfinanzierung der Kosten der Impfzentren und der mobilen Impfteams |
 | § 8 | Großhandelsvergütung |
 | § 9 | Apothekenvergütung |
