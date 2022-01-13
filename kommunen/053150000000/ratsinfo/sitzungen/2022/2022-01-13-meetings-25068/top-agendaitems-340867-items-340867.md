@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 9.2. „Antrag zu TOP 9.1: Zunahme von Zuweisungen von Geflüchteten 2021 und 2022 Ressourcenplanung der Unterkünfte“, gem. Dringlichkeitsantrag von Bündnis 90 / Die Grünen, CDU, volt
+
+- Sitzung: 8. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren (2022-01-13)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/340867
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/159659
