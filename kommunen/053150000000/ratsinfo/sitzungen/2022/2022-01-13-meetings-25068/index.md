@@ -1,0 +1,65 @@
+# 8. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-13T15:30:00+01:00
+- Ende: 2022-01-13T17:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25068
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25068
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Mündlicher Bericht über aktuellen Sachstand zur SARS-CoV-2-Pandemie und die Auswirkungen auf vulnerable Personengruppen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Mündlicher Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3: Inklusionsbericht 2020 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Energiearmut verhindern! Schutzbedürftige Verbrauchende unterstützen! - Sache ist erledigt
+- TOP -: Änderungsantrag zu TOP 3.1 „Energiearmut verhindern! Schutzbedürftige Verbrauchende unterstützen!“ (AN/2277/2021) - Sache ist erledigt
+- TOP -: Änderungsantrag zu TOP 3.1 „Energiearmut verhindern! Schutzbedürftige Verbrauchende unterstützen! (AN/2277/2021 und AN/2443/2021) - ungeändert beschlossen
+- TOP 3.2: Antrag verwiesen aus dem Rat: Obdachlosigkeit in Köln – Herausforderungen und Lösungen - endgültig abgelehnt
+- TOP -: Änderungsantrag zu AN/2619/2021 von der Fraktion DIE FRAKTION - Sache ist erledigt
+- TOP -: Änderungsantrag zu AN/2619/2021 von den Fraktionen SPD, DIE LINKE, FDP - Sache ist erledigt
+- TOP 3.3: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, Volt: Zusätzliche Hilfen für obdachlose Menschen - ungeändert beschlossen
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Verteilung der Fördermittel 2022 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Umsetzung Stadtentwicklungskonzept Wohnen, hier: Beschluss über die Soziale Erhaltungssatzung gem. § 172 Abs. 1 Satz 1 Nr. 2 Baugesetztbuch für das Gebiet Mülheim Süd-West - ungeändert beschlossen
+- TOP 5.2: Änderung der Hauptsatzung, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen - ungeändert beschlossen
+- TOP 5.3: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - zurückgestellt
+- TOP 5.4: 'Integrationsbudget' - Verteilung der Finanzmittel in 2022 - ungeändert beschlossen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Beantwortung: Altes Krankenhaus Weidenpesch - Sachstand - Kenntnis genommen
+- TOP 7.2: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Zunahme von Zuweisungen von Geflüchteten 2021 und 2022 Ressourcenplanung der Unterkünfte - Kenntnis genommen
+- TOP 9.2: Antrag zu TOP 9.1: Zunahme von Zuweisungen von Geflüchteten 2021 und 2022 Ressourcenplanung der Unterkünfte - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 9.2. „Antrag zu TOP 9.1: Zunahme von Zuweisungen von Geflüchteten 2021 und 2022 Ressourcenplanung der Unterkünfte“, gem. Dringlichkeitsantrag von Bündnis 90 / Die Grünen, CDU, volt - geändert beschlossen
+- TOP 9.3: Impfsituation geflüchteter Menschen in Kölner Unterkünften - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Beantwortung: Gegen jeden Antisemitismus - Prävention von und Schutz vor Antisemitismus - Kenntnis genommen
+- TOP 10.1.2: Anfrage der SPD-Fraktion: Einbehaltung von Barbeträgen zur persönlichen Verfügung bei Hilfe zur Pflege - Sache ist erledigt
+- TOP -: Beantwortung: Einbehaltung von Barbeträgen zur persönlichen Verfügung bei Hilfe zur Pflege - Kenntnis genommen
+- TOP 10.1.3: Beantwortung einer Rückfrage zu TOP 10.11 aus der Sitzung des Finanzausschusses vom 08.11.2021 - Kenntnis genommen
+- TOP 10.1.4: Beantwortung einer Anfrage aus dem GA: Drogenberatungsbus und Drogenkonsumraum am Neumarkt (AN/2393/2021) - Kenntnis genommen
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage der Fraktion Die Linke: Bemühungen der Stadt Köln, den Fachkräftemangel in der Pflege positiv zu beeinflussen - zurückgestellt
+- TOP 10.2.2: Anfrage der SPD-Fraktion: Bilanz des Stadtverschönerungsprogramms der Stadt Köln - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung einer mündl. Anfrage zu TOP 12.6: Befragung zur Umsetzung des BTHG in Köln unter dem Motto: "Erste Bilanz - 1 Jahr 3. Reformstufe BTHG" - Kenntnis genommen
+- TOP 12: Mitteilungen
+- TOP 12.1: Fachkreis für Plätze mit besonderem Handlungsbedarf - Kenntnis genommen
+- TOP 12.2: EDELGARD - Kampagne der Kölner Initiative gegen sexualisierte Gewalt im öffentlichen Raum - Kenntnis genommen
+- TOP 12.3: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 12.4: Tätigkeitsbericht der Heimaufsicht für die Jahre 2019-2020 - Kenntnis genommen
+- TOP 12.5: Ausweitung der präventiven Hilfen zur Vermeidung eines Wohnungsverlustes - Kenntnis genommen
+- TOP 12.6: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
