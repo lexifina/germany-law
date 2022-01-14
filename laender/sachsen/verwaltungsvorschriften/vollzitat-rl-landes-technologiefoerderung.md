@@ -1,8 +1,8 @@
 # Vollzitat: RL Landes-Technologieförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.4
+- Datum: 2022-01-14 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2020
+14.01.2022
 bis
-13.01.2022
+05.01.2023
 
 RL Landes-Technologieförderung
 
@@ -41,12 +41,12 @@ Zuwendungszweck, Rechtsgrundlagen
 
 Die Förderung soll die Zusammenarbeit von Wissenschaft und Wirtschaft verbessern sowie die Innovationskraft sächsischer Unternehmen und damit deren Wettbewerbsfähigkeit stärken.
 
-Die Förderung soll insbesondere dazu beitragen, die Aussichten auf eine erfolgreiche Beteiligung von kleinen und mittleren Unternehmen (KMU)1 an HORIZON 2020 zu erhöhen, Innovation und Internationalisierung von KMU zu unterstützen, Informationen über geistige Eigentumsrechte besser zugänglich zu machen, die wirtschaftliche Verwertung von Patenten aus der öffentlichen Forschung zu stärken, die Kooperation und den Erfahrungsaustausch von Unternehmen untereinander sowie mit Hochschulen und Forschungseinrichtungen auszuweiten, gemeinnützige externe Industrieforschungseinrichtungen bei Investitionen in ihre Infrastruktur zu unterstützen, KMU an die Zusammenarbeit mit Hochschulen und Forschungseinrichtungen heranzuführen, mehr technologisches Wissen in KMU zu bringen und Forschungsergebnisse schneller in erfolgreiche Innovationen umzusetzen.
+Die Förderung soll insbesondere dazu beitragen, die Aussichten auf eine erfolgreiche Beteiligung von kleinen und mittleren Unternehmen (KMU)1 an HORIZON EUROPE zu erhöhen, Innovation und Internationalisierung von KMU zu unterstützen, Informationen über geistige Eigentumsrechte besser zugänglich zu machen, die wirtschaftliche Verwertung von Patenten aus der öffentlichen Forschung zu stärken, die Kooperation und den Erfahrungsaustausch von Unternehmen untereinander sowie mit Hochschulen und Forschungseinrichtungen auszuweiten, gemeinnützige externe Industrieforschungseinrichtungen bei Investitionen in ihre Infrastruktur zu unterstützen, KMU an die Zusammenarbeit mit Hochschulen und Forschungseinrichtungen heranzuführen, mehr technologisches Wissen in KMU zu bringen und Forschungsergebnisse schneller in erfolgreiche Innovationen umzusetzen.
 
 
 2.
 
-Der Freistaat Sachsen fördert Projekte auf der Grundlage der §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 13 des Gesetzes vom 15. Dezember 2016 (SächsGVBl. S. 630) geändert worden ist, und der hierzu ergangenen
+Der Freistaat Sachsen fördert Projekte auf der Grundlage der §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, und der hierzu ergangenen
 
 Verwaltungsvorschriften, in den jeweils geltenden Fassungen, nach Maßgabe dieser Richtlinie.
 
@@ -60,17 +60,22 @@ a)
 
 Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt
 
-in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 1084/2017 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist. Zudem gelten die Ausführungen in der Anlage zur Richtlinie.
+in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist. Zudem gelten die Ausführungen in der Anlage zur Richtlinie.
 
 
 b)
 
-Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1),
+Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2020/972 der Kommission vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist,
 
 
 c)
 
-Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8) beziehungsweise Beschluss 2012/21/EU der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 106 Absatz 2 des Vertrags über die Arbeitsweise der Europäischen Union auf staatliche Beihilfen in Form von Ausgleichsleistungen zugunsten bestimmter Unternehmen, die mit der Erbringung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse betraut sind (ABl. L 7 vom 11.1.2012, S. 3).
+Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8), die zuletzt durch die Verordnung (EU) Nr. 2020/1474 der Kommission vom 13. Oktober 2020 (ABl. L 337 vom 14.10.2020, S. 1) geändert worden ist,
+
+
+d)
+
+Beschluss 2012/21/EU der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 106 Absatz 2 des Vertrags über die Arbeitsweise der Europäischen Union auf staatliche Beihilfen in Form von Ausgleichsleistungen zugunsten bestimmter Unternehmen, die mit der Erbringung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse betraut sind (ABl. L 7 vom 11.1.2012, S. 3).
 
 
 4.
@@ -141,7 +146,7 @@ HORIZON-Prämie
 Zuwendungszweck
 
 
-HORIZON-Prämien sollen KMU an die Beantragung und Durchführung von Projekten des Programms gemäß der Verordnung (EU) Nr. 1291/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über das Rahmenprogramm für Forschung und Innovation Horizont 2020 (2014-2020) und zur Aufhebung des Beschlusses Nr. 1982/2006/EG (ABl. L 347 vom 20.12.2013, S. 104), die durch die Verordnung (EU) 2015/1017 (ABl. L 169 vom 1.7.2015, S. 1) geändert worden ist, in Verbindung mit Artikel 180 des Vertrags über die Arbeitsweise der Europäischen Union heranführen. Die Förderung zielt auf eine umfangreiche und erfolgreiche Beteiligung von KMU an HORIZON 2020 und damit auf eine Verbesserung der internationalen Kooperationsfähigkeit der Unternehmen.
+HORIZON-Prämien sollen KMU an die Beantragung und Durchführung von Projekten des Programms gemäß der Verordnung (EU) Nr. 2021/695 des Europäischen Parlaments und des Rates vom 28. April 2021 zur Einrichtung von „Horizont Europa“, dem Rahmenprogramm für Forschung und Innovation, sowie über dessen Regeln für die Beteiligung und die Verbreitung der Ergebnisse und zur Aufhebung der Verordnung (EU) Nr. 1290/2013 und (EU) Nr. 1291/2013, in Verbindung mit Artikel 180 des Vertrags über die Arbeitsweise der Europäischen Union heranführen. Die Förderung zielt auf eine umfangreiche und erfolgreiche Beteiligung von KMU an HORIZON EUROPE und damit auf eine Verbesserung der internationalen Kooperationsfähigkeit der Unternehmen.
 
 
 2.
@@ -151,7 +156,7 @@ Gegenstand der Förderung
 
 a)
 
-Gegenstand der Förderung ist die Inanspruchnahme externer Dienstleistungen im Zusammenhang mit einer angestrebten Beteiligung an HORIZON 2020 sowie an Projekten gemeinsamer Technologieinitiativen2 mit dem Ziel, Erfolgsaussichten von HORIZON 2020-Anträgen3 zu erhöhen und Hürden für die Ausübung der Koordinatorfunktion4 abzusenken.
+Gegenstand der Förderung ist die Inanspruchnahme externer Dienstleistungen im Zusammenhang mit einer angestrebten Beteiligung an HORIZON EUROPE sowie an Projekten gemeinsamer Technologieinitiativen2 mit dem Ziel, Erfolgsaussichten von HORIZON EUROPE-Anträgen3 zu erhöhen und Hürden für die Ausübung der Koordinatorfunktion4 abzusenken.
 
 
 b)
@@ -161,7 +166,7 @@ Inhalte der Dienstleistung können sein:
 
 aa)
 
-Vorbereitung, Entwicklung, Gestaltung und Begleitung von HORIZON 2020-Anträgen (Initialphase5),
+Vorbereitung, Entwicklung, Gestaltung und Begleitung von HORIZON EUROPE-Anträgen (Initialphase5),
 
 
 bb)
@@ -171,7 +176,7 @@ Etablierung von Projektmanagement und -controlling bei Ausübung der Koordinator
 
 cc)
 
-Bewertung der Ablehnungsgründe bei erfolglosen HORIZON 2020-Anträgen (Analyse).
+Bewertung der Ablehnungsgründe bei erfolglosen HORIZON EUROPE-Anträgen (Analyse).
 
 
 3.
@@ -189,7 +194,7 @@ Zuwendungsvoraussetzungen
 
 a)
 
-Durchführung und Koordinierung im Rahmen dieser Richtlinie unterstützter HORIZON 2020-Beteiligungen erfolgen im Freistaat Sachsen.
+Durchführung und Koordinierung im Rahmen dieser Richtlinie unterstützter HORIZON EUROPE-Beteiligungen erfolgen im Freistaat Sachsen.
 
 
 b)
@@ -204,7 +209,7 @@ Dem Antrag sind Nachweise der Kompetenz des Dienstleisters auf dem Gebiet der eu
 
 d)
 
-Der Antrag muss eine Einschätzung des Dienstleisters enthalten, dass der in einer Projektskizze dargestellte Gegenstand des angestrebten HORIZON 2020-Antrags das Potenzial besitzt, die für den betreffenden Aufruf geforderten Qualitätsschwellenwerte8 zu erreichen.
+Der Antrag muss eine Einschätzung des Dienstleisters enthalten, dass der in einer Projektskizze dargestellte Gegenstand des angestrebten HORIZON EUROPE-Antrags das Potenzial besitzt, die für den betreffenden Aufruf geforderten Qualitätsschwellenwerte8 zu erreichen.
 
 
 e)
@@ -242,7 +247,7 @@ Leistungen des Dienstleisters, die von der Europäischen Kommission, vom Bund od
 
 cc)
 
-Leistungen des Dienstleisters, die die Europäische Kommission im Rahmen des zu beantragenden HORIZON 2020-Projekts voll oder anteilig finanziert.
+Leistungen des Dienstleisters, die die Europäische Kommission im Rahmen des zu beantragenden HORIZON EUROPE-Projekts voll oder anteilig finanziert.
 
 
 f)
@@ -257,7 +262,7 @@ Art, Umfang und Höhe der Zuwendung
 
 a)
 
-Der Freistaat Sachsen gewährt die Zuwendung im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines nicht rückzahlbaren Zuschusses.
+Der Freistaat Sachsen gewährt die Zuwendung im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines Zuschusses.
 
 
 b)
@@ -272,7 +277,7 @@ Die Zuwendung beträgt bis zu 50 Prozent der zuwendungsfähigen Ausgaben, höchs
 
 aa)
 
-5 000 Euro in der Initialphase, sofern der HORIZON 2020-Antrag die Ausübung der Koordinatorfunktion einschließt 10 000 Euro,
+5 000 Euro in der Initialphase, sofern der HORIZON EUROPE-Antrag die Ausübung der Koordinatorfunktion einschließt 10 000 Euro,
 
 
 bb)
@@ -287,7 +292,7 @@ cc)
 
 d)
 
-Ein Antragsteller kann während der Laufzeit von HORIZON 2020 bis zu drei HORIZON-Prämien erhalten. Zuwendungen nach Buchstabe c Doppelbuchstabe aa, bb und cc gelten als eine HORIZON-Prämie.
+Ein Antragsteller kann während der Laufzeit von HORIZON EUROPE bis zu drei HORIZON-Prämien erhalten. Zuwendungen nach Buchstabe c Doppelbuchstabe aa, bb und cc gelten als eine HORIZON-Prämie.
 
 
 6.
@@ -297,22 +302,22 @@ Verfahren
 
 a)
 
-Die Bewilligung erfolgt durch einen als „HORIZON 2020-Prämie“ bezeichneten Zuwendungsbescheid.
+Die Bewilligung erfolgt durch einen als „HORIZON EUROPE-Prämie“ bezeichneten Zuwendungsbescheid.
 
 
 b)
 
-Die Auszahlung der Zuwendung für Ausgaben in der Initialphase erfolgt nach Vorlage der Eingangsbestätigung der Europäischen Kommission für den HORIZON 2020-Antrag und Rechnungslegung des Dienstleisters, für die nachfolgenden Phasen nach abschließender Rechnungslegung des Dienstleisters und Vorlage des Verwendungsnachweises.
+Die Auszahlung der Zuwendung für Ausgaben in der Initialphase erfolgt nach Vorlage der Eingangsbestätigung der Europäischen Kommission für den HORIZON EUROPE-Antrag und Rechnungslegung des Dienstleisters, für die nachfolgenden Phasen nach abschließender Rechnungslegung des Dienstleisters und Vorlage des Verwendungsnachweises.
 
 
 c)
 
-Der Zuwendungsempfänger hat die SAB unmittelbar nach Zugang der Benachrichtigung9 der Europäischen Kommission über Erfolg oder Misserfolg des HORIZON 2020-Antrags zu informieren und gleichzeitig die Project-ID-Nummer zu übermitteln. Zusammen mit dieser Information kann er für die Startphase oder für die Analyse eine Aufstockung der Zuwendung gemäß Nummer 5 Buchstabe c Doppelbuchstabe bb oder cc beantragen. Bei Aufstockungen gemäß Nummer 5 Buchstabe c Doppelbuchstabe bb ist das Grant Agreement mit der Europäischen Kommission vorzulegen. Bei erfolglosen HORIZON 2020-Anträgen ist eine auf der Bewertung durch die Europäische Kommission basierende Analyse gemäß Nummer 2 Buchstabe b Doppelbuchstabe cc der SAB vorzulegen. Eine Analyse ist nicht förderfähig, wenn die Europäische Kommission den Antrag mit einer über dem für die jeweilige Ausschreibung vorgesehenen Schwellwert liegenden Punktzahl bewertet hat und lediglich aufgrund des begrenzten Förderbudgets keine Bewilligung erfolgt.10
+Der Zuwendungsempfänger hat die SAB unmittelbar nach Zugang der Benachrichtigung9 der Europäischen Kommission über Erfolg oder Misserfolg des HORIZON EUROPE-Antrags zu informieren und gleichzeitig die Project-ID-Nummer zu übermitteln. Zusammen mit dieser Information kann er für die Startphase oder für die Analyse eine Aufstockung der Zuwendung gemäß Nummer 5 Buchstabe c Doppelbuchstabe bb oder cc beantragen. Bei Aufstockungen gemäß Nummer 5 Buchstabe c Doppelbuchstabe bb ist das Grant Agreement mit der Europäischen Kommission vorzulegen. Bei erfolglosen HORIZON EUROPE-Anträgen ist eine auf der Bewertung durch die Europäische Kommission basierende Analyse gemäß Nummer 2 Buchstabe b Doppelbuchstabe cc der SAB vorzulegen. Eine Analyse ist nicht förderfähig, wenn die Europäische Kommission den Antrag mit einer über dem für die jeweilige Ausschreibung vorgesehenen Schwellwert liegenden Punktzahl bewertet hat und lediglich aufgrund des begrenzten Förderbudgets keine Bewilligung erfolgt.10
 
 
 d)
 
-Das Vorhaben endet ein Jahr nach Unterzeichnung des Grant Agreements oder fünf Monate nach Erhalt einer Ablehnung des HORIZON 2020-Antrags.
+Das Vorhaben endet ein Jahr nach Unterzeichnung des Grant Agreements oder fünf Monate nach Erhalt einer Ablehnung des HORIZON EUROPE-Antrags.
 
 
 7.
@@ -333,7 +338,13 @@ Enterprise Europe Network (EEN) SACHSEN
 Zuwendungszweck
 
 
-Das Enterprise Europe Network ist das weltweit größte Innovations- und Technologienetzwerk für KMU mit insgesamt 600 Partnerorganisationen in 60 Ländern. Es unterstützt KMU bei der Steigerung ihrer Wettbewerbsfähigkeit und der Wahrnehmung von Chancen auf dem europäischen und internationalen Markt. Grundlage für die Errichtung und Betreibung des EEN ist Artikel 10 der Verordnung (EU) Nr. 1287/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über ein Programm für die Wettbewerbsfähigkeit von Unternehmen und für kleine und mittlere Unternehmen (COSME) (2014-2020) und zur Aufhebung des Beschlusses Nr. 1639/2006/EG (ABl. L 347 vom 20.12.2013, S. 33) in Verbindung mit den Vorgaben der jeweiligen EEN-Ausschreibung der Europäischen Kommission beziehungsweise der durch diese eingesetzten Exekutivagentur. Die Zuwendung dient der Sicherung der Finanzierung technologiebezogener Leistungen des Konsortiums EEN SACHSEN.
+Das Enterprise Europe Network ist das weltweit größte Innovations- und Technologienetzwerk für KMU mit insgesamt 600 Partnerorganisationen in 60 Ländern.
+
+Es unterstützt KMU bei der Steigerung ihrer Wettbewerbsfähigkeit und der Wahrnehmung von Chancen auf dem europäischen und internationalen Markt.
+
+Grundlage für die Errichtung und Betreibung des EEN ist Artikel 8 der Verordnung (EU) 2021/690 des Europäischen Parlaments und des Rates vom 28. April 2021 zur Aufstellung eines Programms für den Binnenmarkt, die Wettbewerbsfähigkeit von Unternehmen, einschließlich kleiner und mittlerer Unternehmen, den Bereich Pflanzen, Tiere, Lebensmittel und Futtermittel sowie europäische Statistiken (Binnenmarktprogramm) und zur Aufhebung der Verordnungen (EU) Nr. 99/2013, (EU) Nr. 1287/2013, (EU) Nr. 254/2014 und (EU) Nr. 652/2014 in Verbindung mit den Vorgaben der jeweiligen EEN-Ausschreibung der Europäischen Kommission beziehungsweise der durch diese eingesetzten Exekutivagentur.
+
+Die Zuwendung dient der Sicherung der Finanzierung technologiebezogener Leistungen des Konsortiums EEN SACHSEN.
 
 
 2.
@@ -341,7 +352,7 @@ Das Enterprise Europe Network ist das weltweit größte Innovations- und Technol
 Gegenstand der Förderung
 
 
-Gefördert werden auf der Grundlage von Artikel 10 der Verordnung (EU) Nr. 1287/2013 und der jeweiligen EEN-Ausschreibung
+Gefördert werden auf der Grundlage von Artikel 8 der Verordnung (EU) Nr. 2021/690 und der jeweiligen EEN-Ausschreibung
 
 
 a)
@@ -380,7 +391,7 @@ Zuwendungsvoraussetzung ist die finanzielle Unterstützung des EEN SACHSEN durch
 Art, Umfang und Höhe der Zuwendung
 
 
-Der Freistaat Sachsen gewährt Zuwendungen im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines nichtrückzahlbaren Zuschusses in Höhe von bis zu 50 Prozent der durch die EU als zuwendungsfähig anerkannten Kosten derjenigen Konsortialpartner, die eine Technologieagentur, ein Technologiezentrum oder eine Hochschule sind. Der Förderzeitraum richtet sich nach der Laufzeit des jeweiligen Grant Agreement.
+Der Freistaat Sachsen gewährt Zuwendungen im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines Zuschusses in Höhe von bis zu 50 Prozent der durch die EU als zuwendungsfähig anerkannten Kosten derjenigen Konsortialpartner, die eine Technologieagentur, ein Technologiezentrum oder eine Hochschule sind. Der Förderzeitraum richtet sich nach der Laufzeit des jeweiligen Grant Agreement.
 
 
 6.
@@ -455,7 +466,7 @@ Art, Umfang und Höhe der Zuwendung
 
 a)
 
-Der Freistaat Sachsen gewährt die Zuwendung im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines nicht rückzahlbaren Zuschusses.
+Der Freistaat Sachsen gewährt die Zuwendung im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines Zuschusses.
 
 
 b)
@@ -499,11 +510,6 @@ Dienstreisen für im Projekt beschäftigte Personen, soweit diese zur Erfüllung
 
 
 d)
-
-Für zuwendungsfähige Ausgaben/Kosten, insbesondere für Personal, können Pauschalen zugrunde gelegt werden. Nähere Angaben zu Form und Höhe der Pauschalen sind der Internetseite der Bewilligungsstelle zu entnehmen. Die Pauschalen treten am 1. Oktober 2020 in Kraft.
-
-
-e)
 
 Der Abschluss eines Vertrags mit wiederkehrenden Leistungen gemäß Buchstabe c Doppelbuchstabe cc oder der Einkauf derartiger Leistungen, die zur Durchführung des Vorhabens erforderlich sind, gelten in Abweichung von Nummer 1.3.1 Satz 1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung nicht als Beginn des Vorhabens.
 
@@ -569,7 +575,7 @@ Die Entscheidung des Freistaates Sachsen ergeht im Einvernehmen mit dem BMWi. Ab
 Art, Umfang und Höhe der Zuwendung
 
 
-Der Freistaat gewährt im Rahmen einer Projektförderung eine Zuwendung in Form eines nichtrückzahlbaren Zuschusses für durch das BMWi als zuwendungsfähig anerkannte Ausgaben
+Der Freistaat gewährt im Rahmen einer Projektförderung eine Zuwendung in Form eines Zuschusses für durch das BMWi als zuwendungsfähig anerkannte Ausgaben
 
 
 a)
@@ -735,7 +741,7 @@ Art, Umfang und Höhe der Zuwendung
 
 a)
 
-Der Freistaat gewährt die Zuwendung im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines nicht rückzahlbaren Zuschusses.
+Der Freistaat gewährt die Zuwendung im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines Zuschusses.
 
 
 b)
@@ -840,7 +846,7 @@ Art, Umfang und Höhe der Zuwendung
 
 a)
 
-Der Freistaat Sachsen gewährt die Zuwendung im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines nicht rückzahlbaren Zuschusses.
+Der Freistaat Sachsen gewährt die Zuwendung im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines Zuschusses.
 
 
 b)
@@ -983,7 +989,7 @@ Art, Umfang und Höhe der Zuwendung
 a)
 
 
-Der Freistaat Sachsen gewährt die Zuwendung nach technologiepolitischem Ermessen im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines nicht rückzahlbaren Zuschusses.
+Der Freistaat Sachsen gewährt die Zuwendung nach technologiepolitischem Ermessen im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines Zuschusses.
 
 
 b)
@@ -1064,11 +1070,7 @@ die Umsatzsteuer für die dem Zuwendungsempfänger in Rechnung gestellte Lieferu
 
 d)
 
-Die Förderung bezieht sich auf den Anteil an den zuwendungsfähigen Ausgaben, mit dem die angeschafften oder hergestellten Wirtschaftsgüter nicht wirtschaftlich genutzt werden (bei der Betrachtung als Forschungsinfrastruktur im Fall einer zumindest teilweisen Nutzungsüberlassung an Dritte) oder auf einen Anteil an den zuwendungsfähigen Ausgaben entsprechend des Anteils der nicht wirtschaftlichen Tätigkeit der Einrichtung insgesamt (im Fall der ausschließlichen Eigennutzung der angeschafften
-
-oder hergestellten Wirtschaftsgüter).
-
-Die Einordnung einer Tätigkeit als nichtwirtschaftliche Tätigkeit richtet sich nach Randnummer 19 des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation.
+Die Förderung bezieht sich auf den Anteil an den zuwendungsfähigen Ausgaben entsprechend dem Anteil der nicht wirtschaftlichen Tätigkeit der Einrichtung, sofern die angeschafften oder hergestellten Wirtschaftsgüter nicht zur Nutzung an Dritte überlassen werden oder der in diesem Falle maßgebliche wirtschaftliche Nutzungsanteil der an Dritte überlassenen Wirtschaftsgüter nicht höher liegt. Die Einordnung einer Tätigkeit als nichtwirtschaftliche Tätigkeit richtet sich nach Randnummer 19 der Mitteilung der Kommission – Unionsrahmen für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation (ABl. C 198/1 vom 27.6.2014, S.1).
 
 
 e)
@@ -1078,36 +1080,37 @@ Für den Anteil an den zuwendungsfähigen Ausgaben, der auf eine wirtschaftliche
 
 f)
 
-Der Zuschuss beträgt bis zu 90 Prozent, bei technologiepolitisch besonders bedeutsamen Vorhaben bis zu 100 Prozent, bezogen auf den nicht wirtschaftlich genutzten Anteil der förderfähigen Ausgaben, wenn die gesamten förderfähigen Ausgaben gemäß Buchstabe b bei Forschungseinrichtungen mit weniger als 50 Beschäftigten mindestens 500 000 Euro, bei Forschungseinrichtungen mit 50 bis 99 Beschäftigten mindestens 750 000 Euro und bei den übrigen Forschungseinrichtungen mindestens 1 000 000 Euro betragen. Über die Förderung dieser Fälle entscheidet ein Benehmensgremium unter Leitung des Staatsministeriums für Wirtschaft, Arbeit und Verkehr. Ein Vorhaben gilt zum Beispiel als „technologiepolitisch besonders bedeutsam“, wenn:
+Der Zuschuss beträgt bis zu 80 Prozent und bei besonders bedeutsamen Vorhaben bis zu 90 Prozent, bezogen auf den nicht wirtschaftlich genutzten Anteil der förderfähigen Ausgaben, wenn die gesamten förderfähigen Ausgaben gemäß Buchstabe b bei Forschungseinrichtungen mit weniger als 50 Beschäftigten mindestens 300 000 Euro, bei Forschungseinrichtungen mit 50 bis 99 Beschäftigten mindestens 600 000 Euro und bei den übrigen Forschungseinrichtungen mindestens 1 000 000 Euro betragen.
+
+Über die Förderung dieser Fälle entscheidet ein Benehmensgremium unter Leitung des Staatsministeriums für Wirtschaft, Arbeit und Verkehr.
+
+
+Ein Vorhaben gilt als besonders bedeutsam, wenn es einen maßgeblichen Beitrag zur Verbesserung der Nachhaltigkeit der Forschungseinrichtung leistet und mindestens eines der folgenden Kriterien erfüllt:
 
 
 –
 
-
-es einen maßgeblichen Beitrag zur Erhöhung der internationalen Forschungskompetenz einer Einrichtung leistet,
-
-
-–
-
-
-es mit einer signifikanten (mindestens 20 Prozent) Steigerung von Umsatz und Anzahl der Beschäftigten des Antragstellers einhergeht,
+es leistet einen maßgeblichen Beitrag zur Erhöhung der internationalen Forschungskompetenz einer Einrichtung,
 
 
 –
 
-
-der Antragsteller in den vergangenen fünf Jahren keine Förderung von EU, Bund oder Land für Investitionsprojekte erhalten hat oder
+es geht mit einer signifikanten (mindestens 20 Prozent) Steigerung von Umsatz und Anzahl der Beschäftigten des Antragstellers einher,
 
 
 –
 
+der Antragsteller hat in den vergangenen fünf Jahren keine Förderung der Europäischen Union, der Bundesrepublik Deutschland oder dem Freistaat Sachsen für Investitionsprojekte erhalten oder
 
-der Eigenanteil an der Finanzierung des Gesamtvorhabens inklusive des wirtschaftlich genutzten Anteils an zuwendungsfähigen Ausgaben mindestens 50 Prozent beträgt17.
+
+–
+
+der Eigenanteil an der Finanzierung des Gesamtvorhabens inklusive des wirtschaftlich genutzten Anteils an zuwendungsfähigen Ausgaben beträgt mindestens 50 Prozent.17.
 
 
 g)
 
-Für Vorhaben mit Investitionsausgaben unterhalb der in Buchstabe f genannten Schwellenwerte kann der Zuschuss bis zu 50 Prozent bezogen auf den nicht wirtschaftlich genutzten Anteil der zuwendungsfähigen Ausgaben betragen, wobei für diese Vorhaben die zuwendungsfähigen Ausgaben auf die in Buchstabe b Doppelbuchstabe bb bis dd aufgeführten Ausgaben beschränkt sind. Fördervoraussetzung ist, dass die gesamten zuwendungsfähigen Ausgaben im Rahmen eines Antrags gemäß Buchstabe b Doppelbuchstabe bb bis dd mindestens 50 000 Euro betragen.
+Für Vorhaben mit Investitionsausgaben unterhalb der in Buchstabe f genannten Schwellenwerte kann der Zuschuss für Forschungseinrichtungen mit weniger als 50 Beschäftigten bis zu 80 Prozent, für Forschungseinrichtungen mit 50 bis 99 Mitarbeitern bis zu 65 Prozent und bei den übrigen Forschungseinrichtungen bis zu 50 Prozent bezogen auf den nicht wirtschaftlich genutzten Anteil der zuwendungsfähigen Ausgaben betragen, wobei für diese Vorhaben die zuwendungsfähigen Ausgaben auf die in Buchstabe b Doppelbuchstabe bb bis dd aufgeführten Ausgaben beschränkt sind. Fördervoraussetzung ist, dass die gesamten zuwendungsfähigen Ausgaben im Rahmen eines Antrags gemäß Buchstabe b Doppelbuchstabe bb bis dd mindestens 20 000 Euro betragen.
 
 
 6.
@@ -1215,7 +1218,7 @@ Martin Dulig
 
 Anlage
 
-Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 1084/2017 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist, im Folgenden AGVO genannt, gefördert werden, sind ergänzend zu den Vorgaben der Richtlinie die nachfolgenden Punkte zu beachten.
+Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist, im Folgenden AGVO genannt, gefördert werden, sind ergänzend zu den Vorgaben der Richtlinie die nachfolgenden Punkte zu beachten.
 
 
 1.
@@ -1223,7 +1226,7 @@ Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU)
 
 Anwendbare Freistellungstatbestände
 
-Eine Förderung kann auf der Grundlage der Artikel 18, 20 und 25 bis 29 der AGVO gewährt werden.
+Eine Förderung kann auf der Grundlage der Artikel 18, 20, 25 und 26 bis 29 der AGVO gewährt werden.
 
 
 2.
@@ -1257,7 +1260,7 @@ Bei Beihilfen für die Kooperationskosten von KMU, die an Projekten der europäi
 
 –
 
-Bei Forschungs- und Entwicklungsbeihilfen nach Artikel 25 der AGVO sind die Anmeldeschwellen nach Artikel 4 Absatz 1 Buchstabe i der AGVO einschlägig.
+Bei Forschungs- und Entwicklungsbeihilfen nach Artikel 25 der AGVO sind die Anmeldeschwellen nach Artikel 4 Absatz 1 Buchstabe i Unterbuchstabe i bis vi der AGVO einschlägig.
 
 
 –
@@ -1376,22 +1379,37 @@ Die Beihilfeintensität darf 50 Prozent der beihilfefähigen Kosten nicht übers
 Beihilfefähige Kosten nach Artikel 20 der AGVO
 
 
-Beihilfefähige Kosten sind:
+Soweit sie mit dem Kooperationsprojekt in Zusammenhang stehen, sind die folgenden Kosten beihilfefähig:
 
 
 –
 
-Kosten der organisatorischen Zusammenarbeit einschließlich der Kosten für Personal und Büros, soweit sie mit dem Kooperationsprojekt in Zusammenhang stehen,
+Personalkosten,
 
 
 –
 
-Kosten von Beratungs- und Unterstützungsdiensten, die die Zusammenarbeit betreffen und von externen Beratern und Dienstleistern erbracht werden, sofern es sich nicht um Dienstleistungen handelt, die fortlaufend oder in regelmäßigen Abständen in Anspruch genommen werden oder die zu den gewöhnlichen Betriebskosten des Unternehmens gehören wie laufende Steuerberatung, regelmäßige Rechtsberatung oder laufende Werbung,
+Büro- und Verwaltungskosten,
 
 
 –
 
-Reisekosten, direkt mit dem Projekt zusammenhängende Ausrüstungskosten und Investitionsaufwendungen sowie die Abschreibung von direkt für das Projekt verwendeten Werkzeugen und Ausrüstungsgegenständen.
+Reise- und Unterbringungskosten,
+
+
+–
+
+Kosten für externe Expertise und Dienstleistungen,
+
+
+–
+
+Ausrüstungskosten,
+
+
+–
+
+Kosten für Infrastruktur und Bauarbeiten.
 
 
 11.
@@ -1400,7 +1418,7 @@ Reisekosten, direkt mit dem Projekt zusammenhängende Ausrüstungskosten und Inv
 Beihilfehöchstintensitäten bei Artikel 20 der AGVO
 
 
-Die Beihilfeintensität darf 50 Prozent der beihilfefähigen Kosten nicht überschreiten.
+Die Beihilfeintensität darf die in der Verordnung (EU) Nr. 1303/2013 oder der Verordnung (EU) 2021/1060 und/oder der Verordnung (EU) 2021/1059 festgelegten Höchstsätze für die Kofinanzierung nicht überschreiten.
 
 
 12.
@@ -1574,7 +1592,7 @@ Die Beihilfeintensität darf bei großen Unternehmen höchstens 15 Prozent und b
 Geltungsdauer der AGVO (Artikel 58 Absatz 5 in Verbindung mit Artikel 59 der AGVO)
 
 
-Die Freistellungstatbestände der AGVO gelten vorerst bis zum 31.Dezember 2020 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2021.
+Die Freistellungstatbestände der AGVO gelten vorerst bis zum 31. Dezember 2023 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2024.
 
 
 Sollte die AGVO nicht verlängert oder durch eine neue AGVO ersetzt werden, oder werden relevante inhaltliche Veränderungen der derzeitigen AGVO vorgenommen, wird die Förderrichtlinie zur Einhaltung der neuen Vorgaben entsprechend überarbeitet.
@@ -1590,9 +1608,9 @@ Fsn-Nr.: 552-V17.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2020
+Fassung gültig ab: 14. Januar 2022
 
-Fassung gültig bis: 13. Januar 2022
+Fassung gültig bis:  5. Januar 2023
 
 Drucken/Speichern
 
@@ -1617,7 +1635,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17309.4
+https://www.revosax.sachsen.de/vorschrift/17309.5
 Stand vom
 18.11.2026
 
