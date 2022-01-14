@@ -44,5 +44,5 @@
 
 ## Abschnitt 5 Schlussvorschriften
 
-- [§ 28 Übergangsregelungen](0028.md)
+- [§ 28 (weggefallen)](0028.md)
 - [§ 29 Inkrafttreten, Außerkrafttreten](0029.md)
