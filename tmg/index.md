@@ -32,17 +32,7 @@
 
 ## Abschnitt 5 Datenschutz
 
-- [§ 11 Anbieter-Nutzer-Verhältnis](0011.md)
-- [§ 12 Grundsätze](0012.md)
-- [§ 13 Pflichten des Diensteanbieters](0013.md)
-- [§ 14 Bestandsdaten](0014.md)
-- [§ 14a Verarbeitung personenbezogener Daten Minderjähriger](0014a.md)
-- [§ 15 Nutzungsdaten](0015.md)
-- [§ 15a Auskunftsverfahren bei Bestandsdaten](0015a.md)
-- [§ 15b Auskunftsverfahren bei Passwörtern und anderen Zugangsdaten](0015b.md)
-- [§ 15c Auskunftsverfahren bei Nutzungsdaten](0015c.md)
-- [§ 15d Informationspflicht bei unrechtmäßiger Kenntniserlangung von Daten](0015d.md)
 
-## Abschnitt 6 Bußgeldvorschriften
+## Abschnitt 5 Bußgeldvorschriften
 
-- [§ 16 Bußgeldvorschriften](0016.md)
+- [§ 11 Bußgeldvorschriften](0011.md)
