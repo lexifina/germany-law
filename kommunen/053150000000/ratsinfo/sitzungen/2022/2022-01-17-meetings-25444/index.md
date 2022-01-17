@@ -1,0 +1,133 @@
+# 10.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-17T17:00:00+01:00
+- Ende: 2022-01-17T19:10:00+01:00
+- Ort: E-Werk, Schanzenstr. 37, 51063 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25444
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25444
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Rosenmaarschule (Az.: 02-1600-179/20) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Änderung der Verkehrsführung "An der Walkmühle" (Az.: 02-1600-69-21) - endgültig abgelehnt
+- TOP 2.2.1: Schleicher*innen und Raser*innen aus der Walkmühle fernhalten - ungeändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Bewohnerparken in Buchforst, Quartier Waldecker Straße (Az.: 02-1600-199/21) - ungeändert beschlossen
+- TOP 2.4: Bürgereingabe nach § 24 GO – „Für den Erhalt des Krankenhaus Holweide - Stopp der Schließung“ - geändert beschlossen
+- TOP 2.5: Straßenreinigung (02-1600-86B) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Bildungsgerechtigkeit im Stadtbezirk Mülheim stärken!" - Kenntnis genommen
+- TOP 7.1.2: Ortsverbindung Reichenbachstraße/Radverkehrsnetz - Kenntnis genommen
+- TOP 7.1.3: Lärmschutzmaßnahme an der Ackerstraße (AN/1263/2021) - Kenntnis genommen
+- TOP 7.1.4: Barrierefreier Bahnhof Köln-Mülheim - Kenntnis genommen
+- TOP 7.1.5: KVB-Anzeigetafeln im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.1.6: Antworten zu den Anfragen AN/1526/2021 und AN/2161/2021 - Kenntnis genommen
+- TOP 7.1.7: AN 1732 Mülleimer Zentrum Köln-Mülheim Mitte - Kenntnis genommen
+- TOP 7.1.8: Müll-Verbreitung an Freiflächen und neben Parkbänken ((konkret auch die Flächen entlang der Hafenstr./ zum Rheinufer - Kenntnis genommen
+- TOP 7.1.9: Beantwortung einer Anfrage der Fraktion Die Linke zu "Nicht bearbeitete Anträge im Ausländeramt Köln-Mülheim und deren Konsequenzen für die Antragstellenden" (AN/2180/2021) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Der Muezzin-Ruf in Köln - Kenntnis genommen
+- TOP 7.2.2: Handwerkerparkausweis - Kenntnis genommen
+- TOP 7.2.3: Rad- und Gehweg der Genossenschaftshäuser Bergisch-Gladbacher-Straße 800-810 - Kenntnis genommen
+- TOP 7.2.4: Gesundheit, Statistik der Todesfälle in Köln - Kenntnis genommen
+- TOP 7.2.5: Aktuelle Schul- und Ganztagsentwicklung im Stadtteil Köln-Buchheim - Kenntnis genommen
+- TOP 7.2.6: Anschaffung von Luftfiltergeräten für Schulen im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.7: Winterhilfe für Obdachlose aus dem Bezirk Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.7.1: Winterhilfe für Obdachlose aus dem Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.8: Rückschnitt und Grünpflegearbeiten entlang des Stammheimer Ufers - Kenntnis genommen
+- TOP 7.2.8.1: Rückschnitt und Grünpflegearbeiten entlang des Stammheimer Ufers - Kenntnis genommen
+- TOP 7.2.9: Herstellung der Verkehrssicherheit für alle Verkehrsteilnehmer:innen an der Honschaftsstr. und der Kreuzung Im Weidenbruch - Kenntnis genommen
+- TOP 7.2.10: Handwerkerdialog - Kenntnis genommen
+- TOP 7.2.11: Bauen und Wohnen - Kenntnis genommen
+- TOP 7.2.12: Beleuchtung am Wiener Platz - Kenntnis genommen
+- TOP 7.2.13: „Politik der Vertreibung" oder menschenwürdiger Umgang mit Wohnungslosen ? - Kenntnis genommen
+- TOP 7.2.13.1: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Mülheim - Kenntnis genommen
+- TOP 7.2.14: Verkehrliche Ausgestaltung der Willy-Brandt-Gesamtschule in Höhenhaus - Kenntnis genommen
+- TOP 7.2.15: Schulplatzvergabe an weiterführenden Schulen im Bezirk Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.16: Toilettensituation am Wiener Platz - Kenntnis genommen
+- TOP 7.2.17: Anfrage Glascontainer Ecke Bachstraße / Bergischer Ring - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Radschnellverbindung / Radpendlerroute Bergisch-Gladbach-Köln - zurückgestellt
+- TOP 8.1.2: Antrag auf Akteneinsicht - endgültig abgelehnt
+- TOP 8.1.3: Mehr Sicherheit im Zufahrtsbereich des Sportplatzes Egonstraße in Stammheim - ungeändert beschlossen
+- TOP 8.1.4: Zerstörung von Parkplätzen unterbinden - endgültig abgelehnt
+- TOP 8.1.5: Hall of Fame „Im Bischofsacker“, Ecke Kalk-Mülheimer Straße - ungeändert beschlossen
+- TOP 8.1.6: Verkauf des Schifffahrtsbrunnens Wiener Platz - endgültig abgelehnt
+- TOP 8.1.7: Mehr Grün für Mülheim - ungeändert beschlossen
+- TOP 8.1.8: Bienenvölker auf dem großen Kalkberg - ungeändert beschlossen
+- TOP 8.1.9: Verkehrssituation Rüdesheimer Straße / Wiesbadener Straße - ungeändert beschlossen
+- TOP 8.1.10: Bereitstellung eines barrierefreien Zuganges zum Flittarder Deich im Bereich Wendehammer Ruwergasse in Köln- Flittard - ungeändert beschlossen
+- TOP 8.1.11: Markierung eines Radfahrstreifens auf der Piccoloministraße - ungeändert beschlossen
+- TOP 8.1.12: Reichenbachstraße Ortsverbindung - endgültig abgelehnt
+- TOP 8.1.13: Genovevabad - ungeändert beschlossen
+- TOP 8.1.14: Keine Bebeauung im Überschwemmungsgebiet - zurückgestellt
+- TOP 8.1.15: Kurzfristige Ausbesserung der Schlaglöcher und mittelfristiges Aufbringen einer nachhaltigen Fahrbahndecke auf der Hubertusstraße in Köln- Flittard - ungeändert beschlossen
+- TOP 8.1.16: Sicherstellung des barrierefreien Überquerens der Mülheimer Freiheit im Bereich der Mülheimer Brücke und den folgenden Straßen: Ferrenbergstraße, Stöckerstraße und Bachstraße - ungeändert beschlossen
+- TOP 8.1.17: Erneuerung des Straßenschildes der Bachstraße im Bereich Mülheimer Freiheit südlich der Mülheimer Brücke - ungeändert beschlossen
+- TOP 8.1.18: Gehwegverbreiterung Schulweg Am Rosenmaar - ungeändert beschlossen
+- TOP 8.1.19: Fuß-/Radweg an der Haltestelle Leuchterstr.(stadtauswärts, parallel zum Bahnsteig) erneuern und verbreitern - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Stadtklima-Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP -: Stadtklima-Stadtverschönerungsprogramm 2021 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.1.2: Planungsbeschluss Generalsanierung Walter-Blickhäuser-Sportanlage (Kopernikusstraße) - ungeändert beschlossen
+- TOP 9.1.3: Sanierung westlicher Sportplatz Thurner Kamp - ungeändert beschlossen
+- TOP 9.1.4: Standorte für Papierkörbe mit Pendelklappen in Grünanlagen - ungeändert beschlossen
+- TOP 9.1.5: Verkehrskonzept Holweide - zurückgestellt
+- TOP 9.1.6: Förderprogramm der Bezirksvertretung Mülheim für die Vergabe bezirksorientierter Haushaltsmittel gemäß § 37 (3) GO NW im Stadtbezirk Köln-Mülheim für das Jahr 2022 - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss für den Ausbau der Bahnsteige der Haltestellen der Bauphase 1 auf eine Nutzlänge von 60 m - geändert beschlossen
+- TOP -: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss für den Ausbau der Bahnsteige der Haltestellen der Bauphase 1 auf eine Nutzlänge von 60 m - geändert beschlossen
+- TOP 9.2.2: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - ungeändert beschlossen
+- TOP 9.2.3: Umsetzung Stadtentwicklungskonzept Wohnen, hier: Beschluss über die Soziale Erhaltungssatzung gem. § 172 Abs. 1 Satz 1 Nr. 2 Baugesetztbuch für das Gebiet Mülheim Süd-West - ungeändert beschlossen
+- TOP 9.2.4: Änderung der Hauptsatzung, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen - ungeändert beschlossen
+- TOP 9.2.5: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein - ungeändert beschlossen
+- TOP 9.2.6: 278. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.7: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Noellstraße in Köln-Mülheim Anhörung der Bezirksvertretung 9 (Mülheim) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbetei-ligung, Beschluss über die Vorgaben zur Ausarbeitung des - geändert beschlossen
+- TOP 9.2.7.1: Städtebauliches Planungskonzept Noellstr. ändern: Kompromiss zwischen Wohnungsbau und Baumschutz - ungeändert beschlossen
+- TOP 9.2.8: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 20/21 des Friedhofs Dünnwald - ungeändert beschlossen
+- TOP 9.2.9: Stellplatzsatzung für Köln - ungeändert beschlossen
+- TOP 9.2.10: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - ungeändert beschlossen
+- TOP 9.2.11: Förderprogramm "Dritte Orte" - 1. Genehmigung für die Förderphase 2022ff - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Fahrradzugänge zur Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.3.2: Gesamtinstandsetzung Mülheimer Brücke - Sachstände Teilbauwerke - Kenntnis genommen
+- TOP 10.2.3.3: Gesamtinstandsetzung Mülheimer Brücke - Schulwegsicherung Mülheimer Freiheit - Kenntnis genommen
+- TOP 10.2.4: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf 71504/05 Arbeitstitel: Von-Ketteler-Straße in Köln-Höhenhaus - Kenntnis genommen
+- TOP 10.2.5: Interkulturelle Zentren Köln - Übersichtskarte Stand: 1.09.2021 - Kenntnis genommen
+- TOP 10.2.6: Obstwiese auf dem städtischen Grundstück Mielenforster Straße/Thurner Kamp in Köln-Dellbrück - Kenntnis genommen
+- TOP 10.2.7: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen
+- TOP 10.2.8: Änderungen zum Fahrplanwechsel 2021/2022 - Kenntnis genommen
+- TOP 10.2.9: Weitere Nutzung der zur Flüchtlingsunterbringung genutzten Hotels in Köln-Dellbrück - Kenntnis genommen
+- TOP 10.2.10: Baubeschluss für die Generalsanierung der Ackerstraße - Kenntnis genommen
+- TOP 10.2.11: KOMM-AN NRW – Landesförderprogramm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2021 - Kenntnis genommen
+- TOP 10.2.12: Tempo 30 Bergisch Gladbacher Straße (AN/0101/2021) - Kenntnis genommen
+- TOP 10.2.13: Bürgerantrag Doppel-Gasbehälter Mülheimer Ring/ Piccoloministraße in Buchheim - Kenntnis genommen
+- TOP 10.2.14: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 10.2.15: Vorstellung der Ergebnisse der Machbarkeitsstudie zur teiloffenen Verbindung der Strunde und des Flehbach/Faulbach mit dem Rhein. - Kenntnis genommen
+- TOP 10.2.16: Odenthaler Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 10.2.17: Bürgereingabe nach § 24 GO - Kenntnis genommen
+- TOP 10.2.18: Widerrechtliches Parken an Fußgängerüberwegen und Freihalten von Zuwegen - Kenntnis genommen
+- TOP 10.2.19: Bündelungsgymnasien in Köln in den Schuljahren 2023/24 bis 2025/26 - Kenntnis genommen
+- TOP 10.2.20: Niederschrift 6. Runder Tisch Radverkehr Mülheim - Kenntnis genommen
+- TOP 10.2.21: Platz an der Herler Straße - Kenntnis genommen
+- TOP 10.2.22: AN/1400/2021 Karl-Droll-Weg - Kenntnis genommen
+- TOP 10.2.23: Sachstand zur Obdachlosensituation in Mülheim Wiener Platz - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
