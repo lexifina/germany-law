@@ -1,0 +1,6 @@
+# TOP 4: Vorlagen der Verwaltung
+
+- Sitzung: 8. Sitzung des Ausschusses Schule und Weiterbildung (2022-01-17)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/338411
