@@ -1,0 +1,68 @@
+# 8. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-17T15:10:00+01:00
+- Ende: 2022-01-17T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25069
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25069
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung eines Schriftführers - ungeändert beschlossen
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen - Sache ist erledigt
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß §§ 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Antrag der SPD-Fraktion und der Fraktion Die Linke: Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln - zurückgestellt
+- TOP 2.2: Antrag der SPD-Fraktion: Vorbereitung der Corona-Impfungen für Kölner Schülerinnen und Schüler U12 im Winter 2021/2022: Impfkampagne voranbringen mit Impfbus für Schüler*innen - ohne Votum in nachfolgende Gremien
+- TOP 2.3: Antrag der SPD-Fraktion: Bewegungsräume für das Gymnasium Aachener Straße 744-750 - endgültig abgelehnt
+- TOP 2.4: Antrag der SPD-Fraktion: Weiterführende Schule am Max-Becker-Areal - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2: Nutzung Bauhof Frankfurter Straße als Schulstandort - Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen im Ausschuss Schule und Weiterbildung am 4. Oktober 2021 - Kenntnis genommen
+- TOP 3.1.3: Ergebnisse von Schüler*innen der Rheinischen Musikschule bei Jugend musiziert, Jugend komponiert und Zugangsprüfungen für Musikhochschulen (3526/2021) - Beantwortung einer mündlichen Anfragen vom 23.11.2021 - Kenntnis genommen
+- TOP 3.1.4: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen: Schulsanierung, bzw. -erweiterung der GGS Unter Birken, Schulstraße in Porz-Eil - Kenntnis genommen
+- TOP 3.1.5: Umsetzung des Ratsbeschlusses vom 14.02.2021 betreffend die Ausweitung des Angebots der Rheinischen Musikschulen (3776/2021) - Beantwortung mündlicher Anfragen vom 23.11.2021 - Kenntnis genommen
+- TOP 3.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.7: Beantwortung zu AN/2072/2021 Top 2.3. Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln - Kenntnis genommen
+- TOP 3.1.8: Beantwortung einer Anfrage zu "10 Beratungsstellen KIM Case Management für Kölner*innen mit internationaler Familiengeschichte stadtweit" - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Dorotheenstraße in Köln-Porz - ungeändert empfohlen
+- TOP 4.2: Einrichtung des Erweiterungsbaus und entsprechende Freigabe von investiven Auszahlungsermächtigungen für die Förderschule Auf dem Sandberg 120, Köln-Poll im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltjahr 2022. - ungeändert beschlossen
+- TOP 4.3: Neubau des naturwissenschaftlichen Gebäudes der Gesamtschule Holweide, Burgwiesenstr. 125, 51067 Köln - Kostenfortschreibungsbeschluss - ungeändert beschlossen
+- TOP 4.4: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors mit Grundstück zur Planung und Errichtung eines Gesamtschulgebäudes für den Stadtbezirk Kalk - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu TOP 4.4. „Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors mit Grundstück zur Planung und Errichtung eines Gesamtschulgebäudes für den Stadtbezirk Kalk“ - endgültig abgelehnt
+- TOP 4.5: Beschluss über die kommunale Klassenrichtzahl und die Zahl der Eingangsklassen der Kölner Grundschulen in städtischer Trägerschaft und die Festlegung der Schulplätze in diesen Klassen für das Schuljahr 2022/23 - ungeändert beschlossen
+- TOP 4.6: Schulrechtliche Erweiterung der Inklusiven Offenen Ganztagsschule Kretzerstraße, GGS Kretzerstraße 5-7, 50733 Köln-Nippes von zwei auf drei Züge zum Schuljahr 2023/24 gemäß § 81 Abs. 2 Schulgesetz NRW - ungeändert empfohlen
+- TOP 4.7: Beauftragung eines Musikschulentwicklungsplans - Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - zurückgestellt
+- TOP 4.8: Errichtung eines Neubaus mit Zweifeldsporthalle für die Bertha-von-Suttner-Realschule, Kolkrabenweg 65, 50829 Köln-Vogelsang - Kostenfortschreibungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.9: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - ungeändert empfohlen
+- TOP 4.10: Einrichtung des Erweiterungsbaus Siegburger Str. 445 und entsprechende Freigabe von investiven Auszahlungsermächtigungen für die Kath. Grundschule Am Altenberger Kreuz 14, Köln-Poll im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2022 - ungeändert beschlossen
+- TOP 4.11: Anmeldeverfahren weiterführende Schulen - ungeändert beschlossen
+- TOP 4.12: Honorarordnung für die Familienberatung und den Schulpsychologischen Dienst der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.13: Einrichtung eines kommunalen Medienzentrums - ohne Votum in nachfolgende Gremien
+- TOP 4.14: Erweiterungsbau Mensa an der Henry-Ford-Realschule, Karl-Marx-Allee 43 in 50769 Köln-Chorweiler - Baubeschluss - ungeändert empfohlen
+- TOP 5: Mitteilungen
+- TOP 5.1: Ausweitung des Angebots der Rheinischen Musikschule - Kenntnis genommen
+- TOP 5.2: Rheinische Musikschule Wettbewerbsergebnisse - Kenntnis genommen
+- TOP 5.3: Sicherheit für die Übermittagsbetreuung (ÜMB) im Sek I–Bereich im Haushaltsjahr 2021 - Kenntnis genommen
+- TOP 5.4: Sachstand zu den eingebauten Luftfilteranlagen - Kenntnis genommen
+- TOP 5.5: Sachstand zur Beschaffung von mobilen Luftfilteranlagen für Schulen und Kitas - Kenntnis genommen
+- TOP 5.6: EDELGARD - Kampagne der Kölner Initiative gegen sexualisierte Gewalt im öffentlichen Raum - Kenntnis genommen
+- TOP 5.7: Initiative der Schulkonferenz - Verselbständigung des Teilstandortes der Förderschule Lernen Thymianweg am Standort Berliner Straße in Westhoven - Kenntnis genommen
+- TOP 5.8: Bündelungsgymnasien in Köln in den Schuljahren 2023/24 bis 2025/26 - Kenntnis genommen
+- TOP 5.9: Stadtweite Elternbefragung „von4nach5“ zum Wechsel auf weiterführende Schulen in Köln – Infos zum Start der Befragung und zum Online-Fragebogen - Kenntnis genommen
+- TOP 5.10: Stellungnahme zum Beschluss der Bezirksvertretung Nippes vom 02.12.2021 zur Einrichtung eines Familiengrundschulzentrums im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 5.11: Sachstand Sonder-Schwimmlern-Programm/ Herbstferien-Schwimmkurse - Kenntnis genommen
+- TOP 5.12: Grundschulsituation in Merkenich und Rheinkassel - Kenntnis genommen
+- TOP 5.13: Sachstandsbericht zum Förderprogramm "DigitalPakt" NRW zur Digitalisierung der Kölner Schulen - Kenntnis genommen
+- TOP 5.14: Stellungnahme der Verwaltung zu AN/2383/2021 Schulen und Kinder unterstützen, Programme entwickeln - Aufholen nach Corona für Kinder und Jugendliche - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 7: Verschiedenes
