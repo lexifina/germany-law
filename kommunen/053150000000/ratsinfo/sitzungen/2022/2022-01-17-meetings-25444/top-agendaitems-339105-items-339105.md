@@ -1,0 +1,8 @@
+# TOP -: Kapazitätserweiterungen auf den Linien 4, 13 und 18 Baubeschluss für den Ausbau der Bahnsteige der Haltestellen der Bauphase 1 auf eine Nutzlänge von 60 m
+
+- Sitzung: 10.Sitzung der Bezirksvertretung Mülheim (2022-01-17)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/339105
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/158791
