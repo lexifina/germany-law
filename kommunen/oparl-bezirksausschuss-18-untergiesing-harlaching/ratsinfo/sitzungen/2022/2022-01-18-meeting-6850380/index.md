@@ -1,0 +1,200 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2022-01-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6850380
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6850380
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Initiative „Klasse 6c und Q12 Städt. Theodolinden-Gymnasium“ Besuch einer englischsprachigen Kulturveranstaltung im Amerikahaus am 20. und 23.12.2021 572,00€; Az. 0262.0-18-0270
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Initiative: Aktives Harlaching Material und Lagermöglichkeiten für Projekte in Harlaching vom 30.03.2021 – 14.03.2022 1.558,34€; Az. 0262.0-18-0238
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 10.09.2022 1.500,00€; Az. 0262.0-18-0276
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Initiative Kulturspaziergang Kulturspaziergang Untergiesing-Harlaching am 02.07.2022 13.860,00 €; Az. 0262.0-18-0277
+- TOP 3.1.2.5.: (E) Stadtbezirksbudget Elternbeirat Haus für Kinder Säbener Str. 61 Sichtblenden für die KITA an der Säbener Straße 6.500,00€; Az. 0262.0-18-0272
+- TOP 3.1.2.6.: (E) Stadtbezirksbudget Erzählkunst Bayern e.V. DIE GESCHICHTENSTUNDE - Erzählen in der Schule vom 01.02. - 31.12.2022 4.000,00 €; Az. 0262.0-18-0278
+- TOP 3.1.2.7.: Bereitstellung von BA-Budgetmitteln i.H.v. von max. 5.000 Euro für die Aufstellung von 2 Tischtennisplatten am Candidplatz; Bestellung städtischer Leistung
+- TOP 3.1.2.8.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget; hier: Kreuzung Hans-Mielich-Platz / Pilgersheimer Straße - Verkehrsspiegel zur Vermeidung von Unfällen
+- TOP 3.1.2.9.: (E) Stadtbezirksbudget QuarterM gGmbH Stadtteilladen Giesing 01.01. - 31.12.2022 4.500,00 €; Az. 0262.0-18-0279
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: Budget für soziale Einrichtungen; SPD-Antrag
+- TOP 3.1.3.2.: Finanzierung eines Kinderstadtplans über das Stadtviertelbudget; Antrag Grüne/SPD
+- TOP 3.1.3.3.: Infotafel zu eiszeitlichem Hang in Harlaching: Bestellung städtischer Leistungen; Grünen-Antrag
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.4.1.: Anfrage Bürgerinitiative Mehr Platz zum Leben – Internationale Woche gegen Rassismus (Unveränderte Wiedervorlage Direktorium zur Beschlussfassung)
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.5.1.: Wallfahrtskirche St. Anna - Eigentumsverhältnisse der LHM bez. der Burgmauer
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Mehrjahresinvestitionsprogramm 2021-2025
+- TOP 3.1.6.2.: Verwendungsnachweise
+- TOP 3.1.6.3.: Budgetbescheide
+- TOP 3.1.6.4.: Jahresgerechte Verbuchung der BA-Budgetmittel
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Mobilität
+- TOP 3.2.2.1.: Pilgersheimerstr (Haltestelle Winterstr.): Projektplanung barrierefreie Bushaltestelle
+- TOP 3.2.2.2.: Projektplangenehmigung BA 18: Claude-Lorrain-Str. / Sachsenstr. - Kreuzungsumbau
+- TOP 3.2.3.1.: Anwohner-Parkzonen im Stadtbezirk; Bürgeranliegen
+- TOP 3.2.3.2.: Tempo 30 für Giesinger Berg; Bürgeranliegen
+- TOP 3.2.3.3.: Birkenleiten: Park-, Sicherheits- und Müllproblematik; Bürgeranliegen
+- TOP 3.2.3.4.: Anhörung BA bei Radwegprojekten; Grünen-Antrag
+- TOP 3.2.3.5.: Ausbau von E-Lade-Stationen im Stadtbezirk; Grünen-Antrag
+- TOP 3.2.3.6.: Schönstr.: Antrag auf Einrichtung einer Schülerampel; Bürgeranliegen
+- TOP 3.2.3.7.: Dooring-Schutzstreifen und Verschwenkung der Fahrbahn in der Säbener Str.; Bürgeranliegen
+- TOP 3.2.4.1.: Birkenleiten 11: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 3.2.4.2.: Geiselgasteigstr.: Ausweitung Halteverbot an der Einmündung Achleitnerstraße
+- TOP 3.2.4.3.: Lorenzonistr.: Absolutes Haltverbot mit Zeitzusatz für die Müllabfuhr
+- TOP 3.2.4.4.: Paula-Herzog-Weg: Anbringung eines Legendenschildes an den Straßenschildern; SPD-Antrag
+- TOP 3.2.5.1.: Optimierung der Radwege; Interfraktioneller Antrag Grüne-SPD
+- TOP 3.2.5.2.: Geiselgasteigstr.: Entfernung der kürzlich eingesetzten Park-Bügel; CSU-Antrag
+- TOP 3.2.5.3.: Konradinstr.: Zeitpunkt des Abbaus der mobilen Trafostation
+- TOP 3.2.5.4.: Schilcherweg: Fußgängerbedarfsampel als Queranlage
+- TOP 3.2.6.1.: Austausch einer Lichtsignalanlage (LSA): Standort Theodolindenplatz
+- TOP 3.2.6.2.: Austausch einer Lichtsignalanlage (LSA): Standort Authariplatz
+- TOP 3.2.6.3.: (U) Entscheidungsvorschlag zur künftigen Raumaufteilung der St.-Magnus-Straße (Stadtbezirk 18) Grundsatzbeschluss Verkehrsführung und Raumaufteilung
+- TOP 3.2.6.4.: (U) Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat
+- TOP 3.2.6.5.: Sommerstraßen 2022
+- TOP 3.2.6.6.: (U) Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs Drittes Maßnahmenbündel (2. Teil)
+- TOP 3.2.6.7.: Austausch einer Lichtsignalanlage (LSA) - Standort Tiroler Platz
+- TOP 3.2.6.8.: Seybothstr. 66: Kurzparken
+- TOP 3.2.6.9.: Seybothstr. 33 (Seite Altersheimerstr.): Verlängerung der verkehrsaufsichtlichen Erlaubnis (Vollsperre)
+- TOP 3.2.7.1.: Antrag BA 17: Verkehrszeichen, Poller o.ä. im öffentlichen Raum behindertengerecht gestalten
+- TOP 3.3: UA Umwelt und Klimaschutz
+- TOP 3.3.4.1.: Baumfällungen (Anhörungen): - Naupliastr. 85 - Maukestr. 4 - Wunderhornstr. 14 - Schellenbergstr. 8 - Soyerhofstr. 2 - Greifensteinstr. 5 - Fromundstr. 22 - Gufidauner Str. 6 - Ulmenstr. 6 - Bozzarisstr. 29 - Bozzarisstr. 39
+- TOP 3.3.5.1.: Weiterer Abfallkorb am Giesinger Waldhaus
+- TOP 3.3.5.2.: Lärmschutz bei Supermärkten mit Bestandsschutz; Grünen-Antrag
+- TOP 3.3.5.3.: Ortstermin Hans-Mielich-Str.: Baumpflanzungen
+- TOP 3.3.6.1.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 3.3.6.2.: Miesbacher Str. 7: Baumfällung
+- TOP 3.3.6.3.: Bevorstehende Entfernung von Gefahrenbäumen
+- TOP 3.3.6.4.: Grundschule Algilolfingerplatz 1: Entfernung Gefahrenbaum
+- TOP 3.3.6.5.: Resedenweg: Baumfällung
+- TOP 3.3.6.6.: Grünwalder Str. 101: Baumfällungen
+- TOP 3.3.6.7.: Rabenkopfstr. 26: Baumfällungen
+- TOP 3.3.6.8.: Söltlstr. 4: Baumfällung
+- TOP 3.3.6.9.: Pechdellerstr. 15: Baumfällung
+- TOP 3.3.6.10.: Bezoldstr. 3a: Baumfällung
+- TOP 3.3.6.11.: Mangfallstr 14: Baumfällung
+- TOP 3.3.6.12.: Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.3.6.13.: Jahresgenehmigung 2021 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.3.6.14.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.3.6.15.: Reinigungsarbeiten an oberirdischen Verkehrsanlagen - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.3.6.16.: Reinigungsarbeiten an U-Bahnhöfen - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.3.6.17.: Jahresgenehmigung für den Betrieb von Müllsammelfahrzeugen - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.4: UA Soziales, Bildung und Gesundheit
+- TOP 3.4.3.1.: Mobile Impfteams im Stadtbezirk 18; Grünen-Antrag
+- TOP 3.4.5.1.: Anforderung von Datenmaterial zur Stadtteil- und Siedlungsentwicklung im BA 18
+- TOP 3.4.5.2.: Fortsetzung Verstärkerbus Rotbuchenschule; Grünen-Antrag
+- TOP 3.4.5.3.: Grundschule Fromundstr.: Integrationsmaßnahmen für ethnische Minderheiten; SPD-Antrag
+- TOP 3.4.6.1.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 3.4.6.2.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 3.4.6.3.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.4.6.4.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.4.6.5.: (U) Reinigungsstandards in Münchner Schulen und städt. Kindertageseinrichtungen temporäre Anpassung aufgrund der Corona Pandemie sowie zusätzliche Schwimmhallenreinigung im Rahmen der Schwimmoffensive für das Haushaltsjahr 2022 ff.
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.2.1.: Freischankfläche "Gmiatliches Eck"
+- TOP 3.5.2.2.: Sondernutzungserlaubnis NK Südflilialen GmbH
+- TOP 3.5.3.1.: Wohnen in der "University of Maryland" auf dem McGraw-Gelände München: Einladung Stadibau; SPD-Antrag
+- TOP 3.5.3.2.: Grünwalderstr.: Bauvorhaben TSV 1860; Bürgeranliegen
+- TOP 3.5.3.3.: "Giesing Gate" am Candidplatz; Bürgeranliegen
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Tegernseer Landstr. 228: Abbruch und Neubau eines Wohngebäudes (45 WE) mit Ladenfläche und Tiefgarage und Mobilitätskonzept - TEKTUR zu 1.2-2020-17490-33 - hier:Grundrissänderung und Reduzierung zu (40 WE)
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.5.5.1.: Flächen-Umwidmung am Hans-Mielich-Platz mit dem Ziel der Errichtung eines Kiosks mit Sitzplätzen; Grünen-Antrag
+- TOP 3.5.5.2.: Reduzierung von Lichtbeeinträchtigung in der Lindenstraße 12; CSU-Antrag
+- TOP 3.5.5.3.: Renovierung Toilettenanlage Mangfallplatz
+- TOP 3.5.6.1.: Autharistr. 3: Neubau eines Achtfamilienhauses mit Tiefgarage
+- TOP 3.5.6.2.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 3.5.6.3.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 3.5.6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.6.5.: Meichelbeckstr. 32: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.5.6.6.: Terhallestr. 5: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6: UA Kultur, Sport und Vereine
+- TOP 3.6.3.1.: Neuer Standort für Boulderblock im Stadtbezirk; Bürgeranliegen
+- TOP 3.6.3.2.: Spielen in der Stadt e.V.: Planung der mobilen Kunst-Spiel-Aktionen 2022 und 2023; Bürgeranliegen
+- TOP 3.6.6.1.: Hans-Mielich-Platz: Lichteraktion mit 500 Kerzen Caritas International "Eine Million Sterne 2021" am 13.11.2021
+- TOP 3.6.6.2.: Ausnahmegenehmigung für die Grünanlage Höhe Karneidplatz: "St. Martinsfeier" - Waldorf Kindergarten am 11.11.2021
+- TOP 3.6.6.3.: Weihnachtsmarkt am Mangfallplatz: Absage
+- TOP 3.6.6.4.: Bücherschränke in Harlaching
+- TOP 3.6.6.5.: Eilentscheidung Grünanlage Rosengarten (Sachsenstr.): Gottesdienst am Heiligen Abend am 24.12.2021
+- TOP 3.6.7.1.: BA 5-Resolution: Stadtteil-Berichterstattung in der „Süddeutschen Zeitung“ wieder stärken
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
