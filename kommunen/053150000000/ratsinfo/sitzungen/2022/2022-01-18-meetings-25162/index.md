@@ -1,0 +1,62 @@
+# 10. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-18T16:05:00+01:00
+- Ende: 2022-01-18T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25162
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25162
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Diebstahlsichere Fahrradnadeln - endgültig abgelehnt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601- - zurückgestellt
+- TOP 3.2: Baubeschluss für die Umgestaltung der Kreuzung Kalker Hauptstraße/Rolshover Straße/Kalk-Mülheimer Straße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-109 - geändert beschlossen
+- TOP 3.3: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2022 bis 2026 - ungeändert beschlossen
+- TOP 3.4: Planungsbeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr - geändert beschlossen
+- TOP 3.4.1: Hier:zu TOP 3.5 Planungsbeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr - Sache ist erledigt
+- TOP 3.4.2: Änderungsantrag zur Vorlage 2637/2021 „Planungsbeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Stra-ße/Auerstraße zu einem Kreisverkehr“ - geändert beschlossen
+- TOP 3.4.3: Änderungsantrag zu 2637/2021 Planungsbeschluss für die Umgestaltung der kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr - endgültig abgelehnt
+- TOP 3.5: Stadtbahnvorhaben Köln - Niederaußem: Grundsatzbeschluss zur Vorbereitung einer Machbarkeitsstudie zur Verlängerung der Stadtbahnlinie 4 - geändert beschlossen
+- TOP 3.6: Verwendung von Stellplatzablösegeldern für die Erneuerung der wegweisenden Beschilderung zu den P+R-Anlagen im Kölner Stadtgebiet - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 278. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - Sache ist erledigt
+- TOP 4.2: Stadtautobahn B 55a/Zoobrücke Los Z1 - ungeändert empfohlen
+- TOP 4.3: Kapazitätserweiterung auf der Ost-West-Achse - Linie 1, Politisches Begleitgremium - ungeändert empfohlen
+- TOP 4.3.1: Ergänzungsantrag zu Top 4.3 „Politisches Begleitgremium zur Ost West Achse transparent gestalten“ - endgültig abgelehnt
+- TOP 4.3.2: Änderungsantrag zu Kapazitätserweiterung auf der Ost-West-Achse- Linie 1, Politisches Begleitgremium - endgültig abgelehnt
+- TOP 4.4: 280. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.5: Bedarfsfeststellungsbeschluss für die Vergabe der externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme "Umgestaltung Dorfspange Rondorf" - ungeändert empfohlen
+- TOP 4.6: Stellplatzsatzung für Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.6.1: Änderungsantrag Stellplatzsatzung für Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.7: Bedarfsfeststellungs- und Baubeschluss für die grundhafte Erneuerung von Brückenbelägen und Verschleißschichten auf den Flächen des Individualverkehrs auf der Nordseite der Deutzer Brücke - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Fluoreszierende Fahrradwege - zurückgestellt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Parkpilot in Nippes - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Radverkehrsführung Kölner Ringe - Sache ist erledigt
+- TOP 6.2: Probleme mit den KVB-Rädern - Sache ist erledigt
+- TOP 6.3: Kyotostraße - Tempo 30 und Radverkehrsanlage - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.4: CO2-Belastung Bau Ost-West-Achse - Sache ist erledigt
+- TOP 6.5: Förderprogramm "Stadt und Land" - Sache ist erledigt
+- TOP 6.6: Kosten durch Trittstufen in Hochflurstadtbahnen - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Mehrkosten für den Neubau der Fuß- und Radwegbrücke über die Weinsbergstraße in Köln Ehrenfeld - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Umsetzung von Radfahrstreifen auf der Neuköllner Straße und Tel-Aviv-Straße (südliche Fahrtrichtung) gemäß AN/2374/2021 - zurückgestellt
+- TOP 7.2.2: Bericht der Stadt Köln gemäß Art. 7 (1) der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 7.2.3: Radverkehrskonzept Innenstadt - Kölner Ringe - Lückenschluss Radfahrstreifen Habsburgerring/Hohenzollernring - zurückgestellt
+- TOP 7.2.4: Stand des Projektes „Ladeinfrastruktur im öffentlichen Straßenland“ (LIS) - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Vorlage NSG Am Godorfer Hafen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Doppelstöckige Fahrradabstellanlagen
