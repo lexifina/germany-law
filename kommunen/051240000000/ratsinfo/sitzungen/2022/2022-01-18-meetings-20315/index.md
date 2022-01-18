@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Barmen und Onlinezurverfügungstellung von Unterlagen
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-01-18T18:05:00+01:00
+- Ende: 2022-01-18T18:43:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20315
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20315
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00285378.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00285724.pdf
+
+## Tagesordnung
+
+- TOP 1: Bürgerantrag § 24 GO: Tunnelstraße - Umwandlung in eine Einbahnstraße - vertagen
+- TOP 1.1: Bürgerantrag § 24 GO: Tunnelstraße - Umwandlung in eine Einbahnstraße - Ergänzung - Entgegennahme ohne Beschluss
+- TOP 2: Freigabe des Verbindungsweges Heinz-Fangmann-Straße / Harald-Leipntitz-Straße für den Radverkehr - ungeändert beschlossen
+- TOP 3: Notwendige Baumfällungen im Zuge der Gesamtsanierung der Realschule Leimbach - zurückgezogen
+- TOP 4: Einrichtung einer Carsharing-Station an der Paul-Humburg-Straße - ungeändert beschlossen
+- TOP 5: Fällung von Bäumen am St. Etienne-Ufer - ungeändert beschlossen
+- TOP 6: Bürgerbudget-Mikroprojekt: Öffentlicher Bücherschrank für den Hesselnberg - zurückgestellt
+- TOP 7: Anfragen
+- TOP 7.1: Sichere Querung der Rudolfstraße am Zugang zur Nordbahntrasse - Große Anfrage der Fraktion Bündnis90/Die Grünen - Entgegennahme ohne Beschluss
+- TOP 8: Anträge
+- TOP 8.1: Lichtzeichenanlage Kreuzung Loher Straße / Friedrich-Engels-Allee - erneute Beschlussfassung erforderlich - ungeändert beschlossen
+- TOP 8.2: Den Nordpark für alle Wuppertaler erreichbar machen. Eine bessere Aus-schilderung für den Nordpark in Barmen Antrag der Fraktion Bündnis90/Die Grünen - zurückgestellt
+- TOP 8.3: Den Nordpark besser erreichbar machen und die Straße Mallack vom Parksuchverkehr entlasten: Durch Haltverbote und eine Bewirtschaftung für die Parkplätze am Nordpark in Barmen - zurückgestellt
+- TOP 8.4: Parksituation am Rotter Platz - Antrag der Fraktion Bündnis90/Die Grünen - geändert beschlossen
+- TOP 8.5: Falschparker im Waldhof- Antrag der Fraktion Bündnis90/Die Grünen - abgelehnt
+- TOP 8.6: Die Bezirksvertretung frühzeitig in dem Prozess der Bauvorhaben einbinden - Antrag der Fraktion Bündnis90/Die Grünen - zurückgestellt
+- TOP 8.7: Änderung der Bushaltestellenposition „Bogenstraße“ und Prüfung einer Haltverbotsstrecke und einer Vorfahrtsberechtigung im Zuge des Linienweges der Buslinie 644 - ungeändert beschlossen
+- TOP 8.8: Prüfantrag: Schutzstreifen für den Radverkehr in der Bendahler Straße -Antrag der Fraktion Bündnis90/Die Grünen - ungeändert beschlossen
+- TOP 8.9: Einbeziehung der Bezirksvertretung Barmen in die Umsetzung des Spielflächenbedarfsplan Wuppertal 2021 - Fortschreibung - Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.10: Entlastung der Parkplatzsituation für die Quartiere Rott und Sedansberg - Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.11: Digitale Sitzungsformate - ungeändert beschlossen
+- TOP 8.12: Sachstand Programm des Oberbürgermeisters "Fokus Wuppertal" - Antrag der SPD-Fraktion - Entgegennahme ohne Beschluss
+- TOP 8.13: Fußweg Oberbergische Straße - Antrag der Fraktion Bündnis90/Die Grünen
+- TOP 9: Bebauungsplan 1054 – Werther Hof / Lindenstraße - 1. Änderung
+- TOP 10: Bebauungsplan 682 - Hardt / Schwabenweg - Änderung des Städtebaulichen Vertrages -
+- TOP 11: Bebauungsplan 1275 - Rudolfstraße / Buchenstraße -
+- TOP 12: Verwendung des Bürgerbudgets 2021
+- TOP 13: Ausbau von OGS-Plätzen zum Schuljahr 2022/2023
+- TOP 14: Zielbeschluss zur Wohnbauflächenentwicklung „Barmer Bogen“
+- TOP 15: Errichtung von vier Klassencontainern für die Schule am Nordpark
+- TOP 16: Gewährung eines Zuschusses an die Wasserfreunde Wuppertal 1883 e.V. zur Sanierung des vereinseigenen Freibades („Alfred-Panke-Bad“), Bendahler Str. 136 in Wuppertal-Barmen
+- TOP 17: Umbau der Hatzfeldtrasse zwischen der Straße Zum Alten Zollhaus und der Nord- bahntrasse im Bereich des ehemaligen Bahnhof Loh in Wuppertal zu einem Geh- und Radweg
+- TOP 18: Bewerbung der Stadt Wuppertal für das Förderprogramm "Zukunftsfähige Innenstädte und Zentren
+- TOP 19: Betreibermodell öffentliche Toiletten
+- TOP 20: Verkehrssituation am Kothen - Schulwegsicherung
+- TOP 21: Bericht zur Gesamtsanierung RS Leimbach
