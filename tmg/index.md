@@ -30,9 +30,6 @@
 - [§ 10b Verfahren zur Abhilfe von Nutzerbeschwerden](0010b.md)
 - [§ 10c Allgemeine Geschäftsbedingungen](0010c.md)
 
-## Abschnitt 5 Datenschutz
-
-
 ## Abschnitt 5 Bußgeldvorschriften
 
 - [§ 11 Bußgeldvorschriften](0011.md)
