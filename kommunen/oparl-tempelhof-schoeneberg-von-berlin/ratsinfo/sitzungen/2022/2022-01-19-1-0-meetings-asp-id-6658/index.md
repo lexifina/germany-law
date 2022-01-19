@@ -1,0 +1,52 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2022-01-19T17:00:00+01:00
+- Ende: 2022-01-19T20:45:00+01:00
+- Ort: Sachsendamm 12, 10829 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6658
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6658
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=394678
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - im Ausschuss abgelehnt
+- TOP 3.1: Unerledigte Beschlüsse der Bezirklsverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XX. Wahlperiode - vertagt
+- TOP 3.2: Neuwahl der Krankenhausbeiräte - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Wahl der Bürgerdeputierten im Jugendhilfeausschuss - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Wahl von Beisitzern und stellvertretenden Beisitzern für den Vorstand der BVV gem. § 11 Abs. 5 Geschäftsordnung der BVV - in der BVV abgelehnt
+- TOP 4: Kinder- und Jugendparlament - im Ausschuss abgelehnt
+- TOP 5: Protokollgenehmigung - im Ausschuss abgelehnt
+- TOP 6: Unerledigte Drucksachen - im Ausschuss abgelehnt
+- TOP 6.1: Wie will das Bezirksamt seine Personallücken in der neuen Legislaturperiode schließen? - beantwortet
+- TOP 7: Mündliche Anfragen - im Ausschuss abgelehnt
+- TOP 8: Große Anfragen - im Ausschuss abgelehnt
+- TOP 8.1: Vorkaufsrecht im Milieuschutzgebiet - zurückgezogen
+- TOP 9: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 9.1: Entwurf des Bezirkshaushaltsplans 2022/2023 - erledigt
+- TOP 10: Anträge - im Ausschuss abgelehnt
+- TOP 10.1: Tätigkeitsbericht Sportstättenvergabeverfahren vorlegen - überwiesen
+- TOP 10.2: Angebote/Standorte für kostenfreie PCR-Testungen deutlich ausweiten - überwiesen
+- TOP 10.3: Anliegen der „Kund:innen des Jobcenters umsetzen - überwiesen
+- TOP 10.4: Kampf den „Kampfradlern“, mehr Radverkehrskontrollen in Tempelhof-Schöneberg - überwiesen
+- TOP 10.5: Gemeinschaftsschule an der Johanna-Eck-Schule entwickeln – Grundschulbereich zügig planen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Bahnhof Südkreuz nicht von wichtiger ICE-Verbindung abkoppeln! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Mariendorfer Grünfläche im Gedenken an Familie Lewissohn benennen - überwiesen
+- TOP 10.8: Haupteingangstreppe der Sporthalle Schöneberg umgehend sanieren - überwiesen
+- TOP 10.9: Beton zu Sportflächen - überwiesen
+- TOP 10.10: Mobile Polizeiwache für den Kurfürsten– und Nollendorfkiez - überwiesen
+- TOP 10.11: Überbezirklichen Austausch zur Kurfürstenstraße fortsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.12: Vertretung in der Fluglärmkommission für den BER in Tempelhof-Schöneberg zur Chefsache machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Diversität des Regenbogens bei der Beflaggung zeigen - überwiesen
+- TOP 11: übrige Große Anfragen - im Ausschuss abgelehnt
+- TOP 12: Beschlussempfehlungen - im Ausschuss abgelehnt
+- TOP 12.1: Neustart für den Wochenmarkt in Marienfelde Waldsassener Str./Tirschenreuther Ring - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 13.1: Platzbenennung nach Lucie Leydicke - überwiesen
+- TOP 13.2: Standardisiertes Berichtswesen fortschreiben: Statusbericht zur Budgetierung 2022 auf Basis der KLR-Daten 2020 - überwiesen
+- TOP 14: Termin der nächsten Sitzung - im Ausschuss abgelehnt
