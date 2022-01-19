@@ -1,0 +1,171 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2022-01-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6815816
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6815816
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.1.: Wasserturmwiese Neuaubing (vertagt aus 12/21)
+- TOP 2.1.2.: Nutzung Grundstück Mooswiesenstraße 55 (vertagt aus 12/21)
+- TOP 2.1.3.: Absolutes Haltverbot Pretzfelder Straße (vertagt aus 12/21)
+- TOP 2.1.4.: SZ Stadtviertel/Lokalteil (vertagt aus 12/21)
+- TOP 2.1.5.: Anmietung für Sportveranstaltungen
+- TOP 2.1.6.: Parkplätze Ubostraße
+- TOP 2.1.7.: Lichtverschmutzung von der Kita Luna, Aubing-Ost-Str. 66
+- TOP 2.1.8.: Freienfelsstr. 3 Neuaubing-Kinderhaus
+- TOP 2.1.9.: Test von Geschwindigkeitstafeln im Stadtgebiet
+- TOP 2.1.10.: Zustand beim Wertstoffcontainer Mainaustraße
+- TOP 2.1.11.: Abgeschnittene Bäume Ehrenbürgstraße
+- TOP 2.1.12.: Straßen- und Gehwegreinigung Kravogelstraße
+- TOP 2.1.13.: Neubau POZ Westkreuz
+- TOP 2.1.14.: Ostermoosstraße/ Schwemmstraße - Nutzung Grünanlage, Versickerung
+- TOP 2.1.15.: Bushaltestelle und Route
+- TOP 2.1.16.: Westkreuz Coronasteststelle, Aufstellung Container
+- TOP 2.1.17.: Ausbau der Mariabrunner Straße und schnelleres Internet in der Mariabrunner Straße
+- TOP 2.1.18.: Aufstellung von Tischtennisplatten im Grünzug L im Neubaugebiet Aubing-Ost
+- TOP 2.1.19.: Haltverbot auf dem Gehweg Altostr. 53 - 57
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 3.1.2.: Genehmigung der Baumfällung: - Rothenfelser Str. 25, Schr. Planungsreferat vom 06.12.21 - Wildenburgstr. 20, Schr. Planungsreferat vom 06.12.21 - Georg-Kirmair-Gasse 9, Schr. Planungsreferat vom 09.12.21
+- TOP 3.1.3.: Baumfällung mit Bauvorhaben: - Mariabrunner Str. 55
+- TOP 4.: Anträge
+- TOP 4.1.: Anfrage: CO²-Monitoring für den 22. Stadtbezirk (Christian Stockmann, Sebastian Kriesel, Manfred Spannagl) (vertagt aus 12/21)
+- TOP 4.2.: Sicherung des Fuß- und Radweges "Hans-Clarin-Weg" (Anke Roth) (vertagt aus 12/21)
+- TOP 4.3.: Anfrage: Planungen für das Grundstück Ecke Lochhausener Straße/ Langwieder Hauptstraße (Dr. Alice Beining, Christian Stockmann) (vertagt aus 12/21)
+- TOP 4.4.: Anfrage: Weiterführung des Projekts Smarter Together in Westkreuz/Neuaubing/Freiham und weiteren Teilen des 22. Stadtbezirkes (Wolfgang Bösing, Karin Binsteiner) (vertagt aus 12/21)
+- TOP 4.5.: Grundstücke am Dreilingsweg (Dagmar Mosch, Karin Binsteiner) (vertagt aus 12/21)
+- TOP 4.6.: Sachstandsabfrage: Fuß- und Radwegverbindung Lochhausen/Gröbenzell (Dr. Alice Beining, Christian Stockmann) (vertagt aus 12/21)
+- TOP 4.7.: Störungen im S-Bahnbetrieb - Stellwerk Ostbahnhof (Robert Brenner)
+- TOP 4.8.: Behindertenparkplätze am Bildungscampus Freiham errichten (Interfrationeller Antrag)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 10.09.2022 1.500,00 Euro, Az.: 0262.0-22-0179 (vertagt aus 12/21)
+- TOP 5.2.: (E) Stadtbezirksbudget Aubinger Archiv e.V. Die Freie Turnerschaft Aubing-Neuaubing im März 2022 1.618,75 €; Az. 0262.0-22-0181
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: BSL-Antrag: Klimmzugstangen Grünanlage Mainaustr. /Sipplinger Str., Finanzierung aus dem Stadtbezirksbudget, Bestellung städt. Leistungen, Schr. Baureferat vom 29.11.21
+- TOP 6.1.2.2.: Eröffnung des Standortes der Münchner Volkshochschule in Lochhausen-Langwied, Schr. Münchner VHS vom 22.11.21
+- TOP 6.2: UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend
+- TOP 6.2.1.1.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen an der Margot-Hielscher-Str. 7, Beschlussvorlage Bildungsausschuss vom 09.02.22, Anhörung Referat f. Bildung u. Sport vom 15.12.21
+- TOP 6.2.2.1.: Dienststellenverständigung, hier: - Haus für Kinder an der Clara-Schumann-Str. 18, Schr. Ref. f. Bildung u. Sport vom 25.11.21 (vertagt aus 12/21) - Haus für Kinder an der Aubinger Allee 119, Schr. Ref. f. Bildung u. Sport vom 15.12.21
+- TOP 6.2.2.2.: Protokoll Nachbarschaftstreff Freiham, Zukünftige Optimierung Barrierefreiheit in öff. zugänglichen Einrichtungen, Schr. Stadtteilmanagement vom 09.12.21
+- TOP 6.2.2.3.: Spielplatz am Waidachanger, Schr. Baureferat vom 10.12.21
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordung, hier: - Henschelstr., Tempo-30-Einzelmaßnahme, Anhörung Mobilitätsreferat vom 17.11.21 (vertagt aus 12/21) (vertagt aus 12/21) - Freihamer Weg, Errichtung eines Haltverbots, Anhörung Mobilitätsreferat vom 06.12.21 - Clara-Schumann-Str. 18, Anhörung Mobilitätsreferat vom 16.12.21 - Wiedehopfweg / Lochhausener Str., Einrichtung von Haltverboten, Beschilderung für den Radverkehr, Anhörung Mobiliätsreferat vom 20.12.21 - Grete-Weil-Straße, Errichtung von Gefahrzeichen, Anhörung Mobiliätsreferat vom 16.12.21
+- TOP 6.3.1.2.: - Austausch der Lichtzeichenanlage Standort Aubinger- / Seldeneckstraße, Anhörung Mobilitätsreferat vom 29.11.21 (vertagt aus 12/21)
+- TOP 6.3.1.3.: Erinnerungsverfahren, hier: - Gehbahn, Fahrbahn Lochhausener Str. 268 bis zum Wendehammer, Anhörung Baureferat vom 14.12.21 (N) - Gehbahn, Parkbucht Kastelburgstr. 84-88, Anhörung Baureferat vom 11.01.22
+- TOP 6.3.1.4.: Sommerstraßen 2022, Anhörung Mobilitätsreferat vom 19.11.21 (vertagt aus 12/21) und Schr. Mobilitätsreferat vom 06.12.21
+- TOP 6.3.2.1.: Südlichen Bahnhofsbereich in Lochhausen in Tempo-30-Zone aufnehmen, Schr. Mobilitätsreferat vom 16.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.2.: Parksituation Friedhof Aubing, Schr. Städt. Friedhöfe vom 12.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.3.: Fahrradabstellanlage S-Bahnhof Lochhausen, Schr. Baureferat vom 02.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.4.: Fuß- und Radwegkennzeichnungen und -markierungen verbessern, Schr. Baureferat vom 02.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.5.: Verkehrsrechtliche Anordnung, hier: - Freienfelsstr. 6, Kita-Anfahrtszone, Schr. Mobilitätsreferat vom 15.11.21 - Aubinger Str. 83, Einrichtung eines personenbezogenen Behindertenparkplatzes, Schr. Mobilitätsreferat vom 08.11.21 - Marianne-Hoppe-Str. / Federseestr., Vorfahrtsregelung und Sackgasse, Schr. Mobilitätsreferat vom 11.11.21 (vertagt aus 12/21) - Linienbusverkehre der MVG, Änderungen zum Fahrplanwechsel am 12.12.21, Schr. Mobiliätsreferat vom 02.12.21 - Toni-Berger-Str., Ausweisung von Parkflächen und absolute Haltverbote für die Feuerwehr - Ravensburger Ring, Einrichtung von Haltverboten vor den Wertstoffcontainern ggü. HausNr. 38, Einrichtung von Haltverboten für den Winterdienst, Schr. Mobilitätsreferat vom 22.12.21 (N) - Germeringer Weg, Beschilderung mit Zeichen 239 StVO "Gehweg", Schr. Mobilitätsreferat vom 12.01.22 (N) - Hedwig-Kämpfer-Str., Einrichtung von absoluten Haltverboten, Schr. Mobilitätsreferat vom 12.01.22
+- TOP 6.3.2.6.: Haltestellenbegrenzung Wertheimer Straße (Richtung Westen), Schr. Mobilitätsreferat vom 22.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.7.: Ausfälle der Taktverstärker und Einsatz von Langzügen im S-Bahnbetrieb, Schr. Mobilitätsreferat vom 03.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.8.: Entwicklung des Grünzugs L zum Klimapark, Schr. Kommunalreferat vom 23.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.9.: Entwicklung des Grünzug L, Schr. Kommunalreferat vom 26.10.21 (vertagt aus 12/21)
+- TOP 6.3.2.10.: Querung der Bodenseestraße in Freiham - Zukunftssicher gestalten, Schr. Mobilitätsreferat vom 22.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.11.: Fuß- und Radweganschluss westlich Annemarie-Renger-Str Richtung Birnbaumsteigweg (Germering) befestigen, Schr. Baureferat vom 22.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.12.: Anforderung der Ergebnisse der Machbarkeitsstudie zur Variante 6 und 7, Schr. Planungsreferat vom 23.11.21, Schr. Planungsreferat vom 23.11.21 (vertagt aus 12/21)
+- TOP 6.3.2.13.: Fußweg von der Langwieder Hauptstraße zur Giggenbachstraße, Schr. Baureferat vom 01.12.21
+- TOP 6.3.2.14.: Linie 157, Geänderter Linienweg ab 12.12.21, Stichfahrten weiter zum Germeringer Weg, Schr. MVG vom 03.12.21
+- TOP 6.3.2.15.: Brunhamstraßentunnel, Schr. Mobilitätsreferat vom 06.12.21 und Schr. Bürger vom 08.12.21
+- TOP 6.3.2.16.: Schulbuslinie von Aubing nach Allach weiterhin anbieten, Schr. Mobilitätsreferat vom 14.12.21
+- TOP 6.3.2.17.: Haltverbot Ecke Pirolstr./Erlbachstr., Schr. Mobilitätsreferat vom 08.12.21
+- TOP 6.3.2.18.: Graffitis und Beleuchtung in der Unterführung S-Bahnhof Lochhausen, Zwischenbericht Kulturreferat vom 13.12.21
+- TOP 6.3.2.19.: Wildes Parken im öffentlichen Grünstreifen Dietrichsteinstraße, Schr. Baureferat vom 08.12.21
+- TOP 6.3.2.20.: (N) - Verkehrsberuhigung in der Lichteneckstraße, Schr. Baureferat vom 21.12.21 und Schr. Bürger vom 07.01.22
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1.1.: Bodenseestr. 400, Betonmischwerk mit Kiesaufbereitung und Kieslager, Antrag auf Genehmigung, Erweiterung der vorhandenen Kiesaufbereitung mit Siebanlage und Kieslager um eine Brecheranlage, Anhörung Ref. f. Klima- und Umweltschutz vom 23.11.21 (vertagt aus 12/21)
+- TOP 6.4.1.2.: Verfahren zur Festsetzung des Überschwemmungsgebietes am Gröbenbach innerhalb der Stadtgrenzen der LH München durch Erlass einer Rechtsordnung, Anhörung Ref. f. Klima- und Umweltschutz vom 18.11.21 (vertagt aus 12/21) und Schreiben vom 13.12.21
+- TOP 6.4.1.3.: Walter-Brecht-Str. 5-7, Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage, Anhörung Planungsreferat vom 07.12.21
+- TOP 6.4.1.4.: BSL, Aubinger Geschichtspfad - Bänke für die Alten, Abstimmung Standorte, Anhörung Baureferat vom 15.12.21
+- TOP 6.4.1.5.: Gündinger Str. 4, Neubau einer vorder- und rückwärtigen Wohnbebauung mit Tiefgarage - Vorbescheid, Anhörung Planungsreferat vom 20.12.21
+- TOP 6.4.2.1.: Bauanträge im 22. Stadtbezirk: 08.11.-14.11.21, 15.11.-21.11.21, 22.11.-28.11.21 (vertagt aus 12/21), 29.11.-05.12.21, 06.12.-12.12.21, 13.12.-19.12.21, 20.12-26.12.21, (N) 27.12.21-02.01.22, (N) 03.01.-09.01.22
+- TOP 6.4.2.2.: Bänke für die Alten, Schr. Baureferat vom 15.11.21 und 19.11.21 (vertagt aus 12/21)
+- TOP 6.4.2.3.: Baustelleneinrichtung, hier: - Federseestr. Flst. 653 vom 25.10.21-31.03.22, Schr. Mobilitätsreferat vom 25.10.21 - Marie-Luise-Jahn-Str. südl. Flst. 3695, Schr. Mobilitätsreferat vom 10.11.21 (vertagt aus 12/21)
+- TOP 6.4.2.4.: Baumaßnahmen der Stadtwerke München; Stichtag: 08.11.-22.11.21 (vertagt aus 12/21), 22.11.-06.12.21
+- TOP 6.4.2.5.: Umweltverschmutzung durch Altreifen in der Aubinger Lohe, Schr. Ref. f. Klima u. Umweltschutz vom 08.12.21
+- TOP 6.4.2.6.: Ersatzpflanzung der Begrünung der Lärmschutzwand am Katzensteinweg an der Nordseite Richtung Zwingenbergstr., Schr. Baureferat vom 16.12.21
+- TOP 6.4.2.7.: Naherholungskonzept für die Aubinger Lohe, Schr. Planungsreferat vom 22.12.21
+- TOP 6.4.2.8.: Besucherlenkungskonzept Aubinger Moosschwaige, Schr. Planungsreferat vom 22.12.21
+- TOP 7.1.: Analoge und digitale Öffentlichkeitsbeteiligung in der LH München; Vorstellung des Externen-Konzepts für die systematische Weiterentwicklung, Beschluss des Verwaltungs- und Personalausschusses, Anhörung Direktorium vom 20.12.21
+- TOP 7.2.: Einrichtung einer Sicherheitswacht bei der Polizeiinspektion 45 München (Pasing), Anhörung PI 45 vom 27.12.21
+- TOP 8.1.: Infoschreiben 07/21, Durchführung des Sitzungsbetriebs, Schr. Direktorium vom 23.11.21 (vertagt aus 12/21) und Infoschreiben 08/21, Sitzungsbetrieb BAs vom 02.12.21
+- TOP 8.2.: Vorkaufsrecht nach dem BayNatSchG, Nähe Wichnantstraße, Flst. 2859/6, Schr. Kommunalreferat vom 11.11.21 (vertagt aus 12/21)
+- TOP 8.3.: Entwurf des Mehrjahresinvestitonsprogramms 2021-2025, Einbringen in der Sitzung der Vollversammlung des Stadtrates am 15.12.21, Schr. Stadtkämmerei vom 17.11.21 (vertagt aus 12/21)
+- TOP 8.4.: Gesamtstädtisches Konzept für die analoge und digitale Öffentlichkeitsbeteiligung in der LH München, Schr. Direktorium vom 23.11.21 (vertagt aus 12/21)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Kräheneckstr., Schr. Sozialreferat vom 26.11.21 (vertagt aus 12/21) - Banzweg, Schr. Sozialreferat vom 30.11.21 - Taubertalstr., Schr. Sozialreferat vom 30.11.21 - Erlbachstr., Schr. Sozialreferat vom 15.12.21 - Allinger Str., Schr. Sozialreferat vom 22.12.21
+- TOP 8.6.: Mitteilung über ein Grundstücksgeschäft, hier: - Maria-Luise-Jahn-Str., Flst. 3707 Aubing, Schr. Kommunalreferat vom 10.12.21 - Flstr. 866 Aubing, Tausch eines Grundstücks, Schr. Kommunalreferat vom 20.12.21
+- TOP 8.7.: Unveränderte Fortführung, hier: - Bodenseestr. 228, Schank- und Speisewirtschaft "Home Fresh", Schr. KVR vom 09.12.21 - Limesstr. 112, Schank- und Speisewirtschaft "Zum Stöckl", Schr. KVR vom 14.12.21 - Hans-Stützle-Str. 3, Schank- und Speisewirtschaft "Effe&Gold und Coffe Fellows, Schr. KVR - Limesstr. 68a, Schank- und Speisewirtschaft "Dion Lounge", Schr. KVR
+- TOP 8.8.: AKIM-Bericht 2021
+- TOP 8.9.: Zensus 2022, Schr. Direktorium vom 10.12.21
+- TOP 8.10.: Stadtentwicklungsplan STEP 2040, Beteiligung der BAs, Schr. Planungsreferat vom 03.12.21
+- TOP 8.11.: Ausnahmezulassung, Betrieb von Müllfahrzeugen, Schr. Ref. f. Klima- u. Umweltschutz vom 23.12.21
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1: Ausschuss für Stadtplanung und Bauordnung vom 01.12.21
+- TOP 9.1.1.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 9.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Ausschuss für Stadtplanung und Bauordnung vom 27.10.21
+- TOP 9.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2.: (U) Perspektive München Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 9.2.3.: (U) Studie "Verdrängungsprozesse in der Landeshauptstadt München - Möglichkeiten der kommunalen Einflussnahme auf einem zunehmend angespannten Wohnungsmarkt"
+- TOP 9.2.4.: (U) Gewerbebetriebe in den Stadtvierteln halten - Münchner Mischung schützen Antrag Nr. 14-20 / A 06841 von der SPD-Fraktion vom 21.02.2020, eingegangen am 21.02.2020
+- TOP 9.3: Ausschuss für Stadtplanung und Bauordnung vom 06.10.21
+- TOP 9.3.1.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2020 – 31.07.2021
+- TOP 9.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Vollversammlung vom 15.12.21
+- TOP 9.4.1.: (U) "Freiham Süd - Erweiterung Logistikzentrum Augustiner; A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/ 43 Dietmar-Keese-Bogen und Ludwig-Schmid-Straße (südlich), Verlängerung Hans-Steinkohl-Straße (westlich), Bundesautobahn 96 München - Lindau (nördlich) B) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2174 Dietmar-Keese-Bogen und Ludwig-Schmid-Straße (südlich), Verlängerung Hans-Steinkohl-Straße (westlich), Bundesautobahn 96 München - Lindau (nördlich) - Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1916 a - Einleitungs- und Aufstellungsbeschluss Stadtbezirk 22 Aubing-Lochhausen-Langwied"
+- TOP 9.4.2.: (U) A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/25 und Bebauungsplan mit Grünordnung Nr. 2175 Jaspersallee (nördlich), Bergsonstraße (nördlich), Mooswiesenstraße (beidseits), Dreilingsweg (beidseits) und An der Langwieder Haide (östlich) (Teilverdrängung der Bebauungspläne Nrn. 45b, 586 und 1055) und Kreuzungsbereich An der Langwieder Haide/Mühlangerstraße B) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes, weiteres Vorgehen - Aufstellungs- und Eckdatenbeschluss -
+- TOP 9.5: Bildungsausschuss vom 27.10.21
+- TOP 9.5.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 9.6: Sozialausschuss vom 09.12.21
+- TOP 9.6.1.: (U) Die Münchner Alten- und Service-Zentren (ASZ) - Aktueller Stand und weitere Planungen Alten- und Service-Zentrum Berg am Laim sanieren! Antrag Nr. 14-20 / A 02100.. Einrichtung eines ASZ plus im Neubaugebiet Freiham sowie in Lochhausen Antrag Nr. 14-20 / A 04607... Weiteres Alten- und Servicezentrum in Hadern ermöglichen Antrag Nr. 14-20 / A 06521... Zweites ASZ in Laim Antrag Nr. 14-20 / A 05201... Zweites ASZ in Laim Antrag Nr. 14-20 / B 06191...
+- TOP 9.7: Vollversammlung vom 25.11.21
+- TOP 9.7.1.: (U) Absicherung der Wohnungsbörse - Tausch und Untervermietung Erfahrungen und Umsetzung Entwicklung einer digitalen Plattform Wohnen für Hilfe Antrag Nr. 14-20 / A 06435 ............ Mitbewohner-Onlinebörse für Seniorinnen und Senioren Antrag Nr. 20-26 / A 01144 ............. Onlinemitbewohnerbörse für Seniorinnen und Senioren BA-Antrags-Nr. 20-26 / B 01736 .............
+- TOP 9.8: Gesundheitsausschuss am 20.01.22
+- TOP 9.8.1.: (U) Ärztliche Versorgung im Stadtbezirk 22
+- TOP 9.8.2.: (U) Ambulante haus- und kinderärztliche Versorgung in München
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 10.1.: Resolution Stadtteil-Berichterstattung in der SZ wieder stärken, Schr. BA 5 vom 17.11.21 (vertagt aus 12/21)
+- TOP 10.2.: Verkehrszeichen, Poller o.ä. im öffentlichen Raum behindertengerecht gestalten, Antrag des BA 17 vom 09.11.21 (vertagt aus 12/21)
+- TOP 10.3.: Zurverfügungstellung von kostenlosen FFP2 Masken und Schnelltests, Schr. Direktorium vom 06.12.21 zum Antrag des BA 12
+- TOP 10.4.: Baumbilanz, Schr. BA 21 vom 10.12.21
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 16.02.22 um 19.00 Uhr in der Gaststätte Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 statt. Die Präsenzsitzung der Unterausschüsse entfallen aufgrund der aktuellen Infektionslage.
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 2.1.20.: (N) - Allgemeiner Behindertenparkplatz Fritz-Bauer-Str. 20
+- TOP 2.1.21.: (N) - Beleuchtung Bushaltestelle S-Bahnhof Lochhausen
+- TOP 2.1.22.: (N) - Zustand der Wertstoffcontainer in der Mainaustraße
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Am Loferfeld 31 - Freienfelsstr. 24 - Schöngeisinger Str. 1 - Osterangerstr. 40 - Schwojerstr. 9 (N) - Im Stocket (N) - Kurt-Floericke-Str. 17 (N) - Limesstr. 10 (N) - Leienfelsstr. 3 (N) - Im Stocket 18
+- TOP 4.9.: Verbesserung der Situation für Menschen mit Behinderung durch Abbau von Barrieren im Stadtbezirk Aubing-Lochhausen-Langwied (Interfraktioneller Antrag)
+- TOP 6.3.1.5.: (N) - Stadtteilzentrum Nord - Freiham, Anhörung Baureferat vom 11.01.22
+- TOP 6.3.2.21.: N - Einbau eines Liftes als Provisorium zur Realisierung der barrierefreien Unterführung am Bahnhof Aubing, Schr. Mobilitätsreferat vom 10.01.22
+- TOP 9.9: Vollversammlung vom 20.10.21
+- TOP 9.9.1.: (U) Klimaneutrales München bis 2035 Ziele und Umsetzungsstrategie des Referats für Stadtplanung und Bauordnung A) Maßnahmen in der Stadtentwicklungsplanung, Bebauungsplanung, Wohnungsbauförderung und Stadtsanierung Klimafahrplan in der Stadtplanung B) Anträge 1. Maßnahme 3: Chancen im Neubau nutzen: Hohe bauliche Energiestandards umsetzen und Solarenergie intensiv nutzen; Antrag Nr. 14-20 / A 05945 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 2. Maßnahme 4: Klimagerechte Energie- und Mobilitätskonzepte von Anfang an mitdenken und umsetzen; Antrag Nr.14-20 / A 05946 der Stadtratsfraktion DIE GRÜNEN – ROSA LISTE vom 19.09.2019 3. Mehr Solar in München – Bebauungspläne nutzen; Antrag Nr. 14-20 / A 06967 der Stadtratsfraktion der SPD vom 10.03.2020
+- TOP 6.4.1.6.: (N) - Wildenfelser Str. 23, Errichtung eines Doppelhauses mit Carports, Anhörung Planungsreferat vom 12.01.22
+- TOP 2.1.23.: N - MVG-Radstation
+- TOP 3.1: Baumschutzbeauftragte
