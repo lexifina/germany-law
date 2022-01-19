@@ -1,0 +1,64 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf - Videokonferenz
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2022-01-19T17:00:00+01:00
+- Ende: 2022-01-19T20:55:00+01:00
+- Ort: Bürgersaal , Rathaus Zehlendorf
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4410
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4410
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Einsatz der Dialogdisplays? - beantwortet
+- TOP 3.2: Verbleib Finanzmittel für „Draußenstadt“ - beantwortet
+- TOP 3.3: Barrierefreie Sanierung des Dreipfuhlparks - beantwortet
+- TOP 3.4: Polizeieinsatz wegen Spaziergängern auf dem Teltower Damm am 10.01.2022 - beantwortet
+- TOP 3.5: Wann kommt Tempo 30 am Platz des 4. Juli? - beantwortet
+- TOP 3.6: Hundeverfolgung - beantwortet
+- TOP 3.7: Geheime Busspureinrichtung - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Erholung für Kinder aus Sderot - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Auch 2022 eine Trauerfeier für einsam Verstorbene in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Busspur in der Drakestraße: Nutzungszeiten ausweiten und Verkehrssicherheit durchsetzen - überwiesen
+- TOP 5.2: Bauliche Erhaltungssatzung für die noch erhaltenen Teile der Colonie Alsen - überwiesen
+- TOP 5.3: Freie und sichere Fußwege in der Finckensteinallee – auch für Menschen mit Mobilitätseinschränkungen - überwiesen
+- TOP 5.4: Klassenfahrten – nicht Klassenflüge! - überwiesen
+- TOP 5.5: Militaristen aus dem Straßenbild entfernen – Opfer ehren! - überwiesen
+- TOP 5.6: Eine Partnerschaft für Demokratie auch für Steglitz-Zehlendorf - überwiesen
+- TOP 5.7: Bezirkliches Radnebenroutennetz in der Goerzalle absichern - überwiesen
+- TOP 5.8: Änderung aus der NS-Zeit rückgängig machen: Kadettenweg wieder in Sternstraße benennen - überwiesen
+- TOP 5.9: Marchandstraße - überwiesen
+- TOP 5.10: Verbindungsweg auch für Radfahrer öffnen - überwiesen
+- TOP 5.11: Wiedernutzung des Kiosks an der Rehwiese prüfen - überwiesen
+- TOP 5.12: Toiletten-Beschilderung am S-Bahnhof Sundgauer Straße - überwiesen
+- TOP 5.13: Jetzt in Steglitz-Zehlendorf Campus-Ansiedlungen für Digitalfirmen ermöglichen - überwiesen
+- TOP 5.14: Abbiegeverkehr aus dem Zeisigweg ermöglichen - überwiesen
+- TOP 5.15: Ein brauchbares Politikinformationssystem für Steglitz-Zehlendorf zur Verfügung stellen - überwiesen
+- TOP 5.16: Eine Gedenkstele für den Steglitzer Fernsehpionier Siegmund Loewe - überwiesen
+- TOP 5.17: Überquerung Radweg Gallwitzallee/Thaliaweg - überwiesen
+- TOP 5.18: Position des Bezirksamts zur Umsetzung des MobG im Bezirk Steglitz-Zehlendorf klarstellen - überwiesen
+- TOP 5.19: Endlich eine Ampel in der Argentinischen Allee/Hertha-Müller-Haus - überwiesen
+- TOP 5.20: Baumpflege intensivieren - überwiesen
+- TOP 5.21: Barrierefreiheit für Sehbehinderte im öffentlichen Straßenland gewährleisten - überwiesen
+- TOP 5.22: Partizipation an der AG Aufenthaltsqualität - überwiesen
+- TOP 5.23: Fußgängerüberweg Onkel-Tom-Straße an der Rodelhütte sichtbar machen - überwiesen
+- TOP 5.24: Tempo 30 in der Onkel-Tom-Straße - überwiesen
+- TOP 5.25: Altglas-Container Wannsee - überwiesen
+- TOP 5.26: Erstellung eines Sportentwicklungsplanes für Steglitz-Zehlendorf - überwiesen
+- TOP 5.27: Runder Tisch Regionalgeschichte - überwiesen
+- TOP 5.28: Veröffentlichung der Namen der „Stillen Helden“ II - überwiesen
+- TOP 6: Einwohneranträge - erledigt
+- TOP 6.1: Beteiligung stärkt die Demokratie und fördert gemeinnütziges Engagement – auch in Steglitz-Zehlendorf - überwiesen
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Welche Möglichkeiten gibt es in Steglitz-Zehlendorf, um der Covid-19 Pandemie und der Ausbreitung der Omikron-Variante Paroli zu bieten? - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Gesund ohne Zwang - in der BVV abgelehnt
