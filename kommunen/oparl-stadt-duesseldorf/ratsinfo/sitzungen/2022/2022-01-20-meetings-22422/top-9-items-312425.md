@@ -1,0 +1,8 @@
+# TOP 9: Gebäude Vennhauser Allee 226 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen)
+
+- Sitzung: Bezirksvertretung 8 (2022-01-20)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/312425
+- Ergebnis: schriftlich beantwortet
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/115177
