@@ -1,0 +1,105 @@
+# 4. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVESTREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2022-01-20T17:30:00+01:00
+- Ende: 2022-01-20T22:59:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5503
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5503
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=524590
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Lärmbelästigung - beantwortet
+- TOP 2.2: Schmierereien am Gartendenkmal Luisenstädtischer Kanal - beantwortet
+- TOP 2.3: Bearbeitungszeiten für die Ausstellung und Zusendung eines Bewohnerpoarkausweises - beantwortet
+- TOP 2.4: Nachfrage zur DS 0016/VI - schriftlich beantwortet
+- TOP 2.5: Abriss und Neubau/ Rechtsverständnis - schriftlich beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 6: Thematische Stunde: "Habersaathstraße" - erledigt
+- TOP 6.1: Habersaathstraße 40-48 – Soziale Wohltat oder schäbiger Deal? Beschlagnahme oder Abrissversprechen? - beantwortet
+- TOP 6.2: Sachstand Habersaathstraße und Zukunft der Unterbringung von Obdachlosen - beantwortet
+- TOP 6.3: Brandschutz in Bestandsbauten am Beispiel der Habersaathstr. 40-48 - beantwortet
+- TOP 6.4: Habersaathstraße - beantwortet
+- TOP 6.5: Sozial gerechten und gemeinwohlorientierten Wohnraum in der Habersaathstraße dauerhaft sicherstellen - mit Änderungen in der BVV beschlossen
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Sind Menschen mit Behinderung im Rathaus Tiergarten im Brandfall geschützt? - beantwortet
+- TOP 7.2: Verstöße gegen Corona-Regeln in Mitte - beantwortet
+- TOP 7.3: Umgestaltung des Spielplatzes Monbijoupark – aktueller Stand - beantwortet
+- TOP 7.4: Leerstand, Abriss, Neubau Dortmunder Straße 14 – Vernichtung von Wohnraum ohne rechtliche Folgen? - beantwortet
+- TOP 7.5: Fahrradleichen im Bezirk - beantwortet
+- TOP 7.6: Wie weit ist der „Masterplan Barrierefreiheit“ im Bezirk Mitte? (I) - zurückgezogen
+- TOP 7.7: Zum Spielplatz über Müllberge - schriftlich beantwortet
+- TOP 7.8: Alle Jahre wieder oder nicht – James-Simon-Park in der Saison 2022 - schriftlich beantwortet
+- TOP 7.9: Was tut das Bezirksamt, um den Leerstand in der Fehmarner Straße zu beenden? - schriftlich beantwortet
+- TOP 7.10: Was tut der Bezirk gegen Schmierereien an öffentlichen Gebäuden und Anlagen? - schriftlich beantwortet
+- TOP 7.11: Wie weit ist der „Masterplan Barrierefreiheit“ im Bezirk Mitte? (II) - zurückgezogen
+- TOP 7.12: Was tut das Bezirksamt, um unrechtmäßige Staffelmieten in Häusern von Heimstaden zu beenden? - schriftlich beantwortet
+- TOP 7.13: Wahl zur Seniorenvertretung Mitte gewährleistet? - schriftlich beantwortet
+- TOP 7.14: Was tut das Bezirksamt, um das Angebot des Warmen Ottos zu sichern? - schriftlich beantwortet
+- TOP 7.15: Status Quo und Aussicht des bezirklichen Wohnkonzepts für Geflüchtete - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Abrisspläne Fenn 33,34/Tegeler Straße 1 und Tegeler 2-7, insb. Tegeler Str. 2-3 - beantwortet
+- TOP 8.2: Abriss Tegeler Straße - schriftlich beantwortet
+- TOP 8.3: Ersatzversorgung des Warmen Ottos sicherstellen - schriftlich beantwortet
+- TOP 8.4: Rehberge III: Interessensbekundungsverfahren (IBV) Parkcafe Rehberge II - schriftlich beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Medienarbeit des Bezirksbürgermeisters - beantwortet
+- TOP 9.2: Denkmalschutz in Mitte - beantwortet
+- TOP 9.3: Sachstandsabfragen im Verkehrsbereich sowie Personalsituation im SGA - beantwortet
+- TOP 9.4: Wie geht es weiter in den Milieuschutzgebieten? - beantwortet
+- TOP 9.5: Wieviele MUFs sind in Mitte fertig, wie viele Menschen leben noch in Notunterkünften? - schriftlich beantwortet
+- TOP 9.6: Energieeffizienzklassen öffentlicher Gebäude - schriftlich beantwortet
+- TOP 9.7: Ausfall von Spiel- und Trainingszeiten aufgrund Urlaubs- und Krankheitszeiten - schriftlich beantwortet
+- TOP 9.8: Zukunft des Schillerparkcenters - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: über die Wahl von Mitgliedern des Widerspruchsbeirats zur Mitwirkung im Widerspruchsverfahren in Sozialhilfe- und Eingliederungshilfeangelegenheiten gemäß § 34 AZG i.V.m. § 116 Abs. 2 SGB XII und § 6 AG-SGB IX - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Feststellung der außergewöhnlichen Notlage nach § 51-57 GO - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 12.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2020 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Schlittschuhverleih im Erika-Heß-Eisstadion schnellstmöglich ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Wahl von Bürgerdeputierten und Stellvertretern - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Beratungsladen Machbar - überwiesen
+- TOP 14.2: Priorität Verkehrssicherheit - (offen)
+- TOP 14.3: Neustart für den Kulturstandort Monbijou ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Sichere Wege und ausreichender Denkmalschutz, auch im Großen Tiergarten - überwiesen
+- TOP 14.5: Bußgelder gegen herumliegende E-Roller! - überwiesen
+- TOP 14.6: Planung der Sicherstellung von Hallenzeiten für 2022/ 2023 jetzt schon beginnen - überwiesen
+- TOP 14.7: Angemessene Informationen für alle Verkehrsteilnehmenden - mit Änderungen in der BVV beschlossen
+- TOP 14.8: Mieter*innen bei Sanierungs- und Umbaumaßnahmen beraten und schützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Wahl von Bürgerdeputierten und stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Graffiti am Engelbecken entfernen - überwiesen
+- TOP 14.11: Zukunft des Beratungsladen „MachBar“ sichern - überwiesen
+- TOP 14.12: Runder Tisch Krankenhäuser - überwiesen
+- TOP 14.13: Beratungsladen „Machbar im Brunnenviertel“ erhalten - überwiesen
+- TOP 14.14: Gesundheitsversorgung für alle Menschen in Mitte - überwiesen
+- TOP 15: Entschließungen - (offen)
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Sicherer Fußgängerüberweg in der Müller-/Ecke Burgsdorfstraße - mit Änderungen in der BVV beschlossen
+- TOP 16.2: Interessenbekundungsverfahren Café Leo ist nicht rechtskonform und muss wiederholt werden - ohne Änderungen in der BVV beschlossen
+- TOP 16.3: Fahrradstraße Togo Straße – Übergang Seestraße endlich qualifizieren - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Mobile Luftfilter für Mittes Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.2: Ein neues Zentrum für Kinder und Jugendliche am Sprengelkiez! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.3: Soziale Sanierungsziele für Vorkaufsrechte nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Ein Spritzeneimer für den Humboldthain - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.5: Baudenkmäler schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.6: Bei der Entwicklung neuer Gewerbeflächen an Handwerksbetriebe, kulturaffines Gewerbe und Spin-Offs aus wissenschaftlichem Kontext denken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.7: Planungssicherheit schaffen – Schüler*innenhaushalt 2022 fortsetzen und finanziell absichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.8: IBV Café Leo - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.9: Transparenz bei Stellenbesetzungsverfahren im Bezirksamt schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.10: über Bezirksregionenprofile Teil I Aktualisierung 2021 (BZRP 2021 Teil I) - mit Abschlussbericht zur Kenntnis genommen
