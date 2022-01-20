@@ -1,0 +1,35 @@
+# Beschluss des produktorientierten doppischen Haushaltes 2022 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2022
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 331/2021 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-01-20
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbU20sdd2x-tGOVwfyuR5iE
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/9994
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des produktorientierten doppischen Haushaltes 2022 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2022) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSwxRp9dJB19aJ-mp0q8N8VNtL78wX2gxG6iXvhKn_i7/Beschlussvorlage_331-2021_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag Ortsvorsteher vom 20.11.2021) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS2wp-a2uiYdSSTTq9xNkRcH60zxMkaVvakeVI6o72dd/Antrag_Ortsvorsteher_vom_20.11.2021.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Maßnahmen Barrierefreiheit) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWgOo_ken4smcFRKttmkfMTBJtIPKKUF_vER6YgriLfU/Antrag_INTAKT_Massnahmen_Barrierefreiheit.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Denkmalschutz) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZTFEza-xhJd6pODDsqHLi9BALGj7L-JoDE6kmhMAo8w/Antrag_INTAKT_Denkmalschutz.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Fahrradständer) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSmoNWrO5derIKSq05L-QbtjOlD3c1bfezBuKmKcG8y6/Antrag_INTAKT_Fahrradstaender.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Marketing BPT) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXQflgJ3V2vmZvfC3Yufgkrnb1STvTxRMUXmUiFbh6qo/Antrag_INTAKT_Marketing_BPT.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Konzerthaus) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd-YbaowR_TUlzXIz_7x1jR0xp4UMc4-GdJ5PjIMs1kV/Antrag_INTAKT_Konzerthaus.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Parkplätze Motorräder) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTe8Qo7TKY3NZPx2LFbved6Hw3kuEgVB4ahP9nXA0PeQ/Antrag_INTAKT_Parkplaetze_Motorraeder.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Straßenbaumaßnahmen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbhwtEt1Ouahs6m5pYVbTKBAiUoZzoQI379FFWxJnh3g/Antrag_INTAKT_Strassenbaumassnahmen.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Beschilderung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe7wovilRLicueOaZOd5lG5kI7qOdIU0e6OlFdkIFCNQ/Antrag_INTAKT_Beschilderung.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Jugendzentrum) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeCDNJK8r-feFI7OIF2oPEVNmY1KMUEvrQHsO9BVGoiV/Antrag_INTAKT_Jugendzentrum.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Max-Born-Realschule) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbJAu3myb2O1qdgyR_SsL9fcc6RwqEt-XA_JvyAkpSWL/Antrag_INTAKT_Max-Born-Realschule.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Zone 30) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdUX7TpLamPD0VCygbMLhX8LHbfCDEZSzWkJQzqJY2Jh/Antrag_INTAKT_Zone_30.pdf
+- Anlage: Beschlussvorlage (Antrag Musikschule vom 24.11.2021) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeDWg78VrLLtyLDEG7671mYh09bvs7X12-LPNq7rI_n3/Antrag_Musikschule_vom_24.11.2021.pdf
+- Anlage: Beschlussvorlage (Antrag Ortsrat Löwensen vom 26.11.2021) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTW_8cc5clLfibG6eEZYVSgbMDnQVPFR7xehYb0ik-z8/Antrag_Ortsrat_Loewensen_vom_26.11.2021.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Beschilderung vom 30.11.2021) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQXVOrwDvvbqNE0jFV4NBSoYTAguzUZ20e5txMYBKBYD/Antrag_INTAKT_Beschilderung_vom_30.11.2021.pdf
+- Anlage: Beschlussvorlage (Antrag SPD und WIR vom 04.12.2021) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfd6CdrbDs_Jauuxn82JXyTy8yH93iW2wA4sIiM2pIWR/Antrag_SPD_und_WIR_vom_04.12.2021.pdf
+- Anlage: Beschlussvorlage (Anträge CDU und Küppers FDP vom 06.12.2021) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUulp65UPOjTGjfvda0ANo9ZT8uxFm4Rj24eA-Hk9OBj/Antraege_CDU_und_Kueppers_FDP_vom_06.12.2021.pdf
+- Anlage: Beschlussvorlage (Antrag CDU und Küppers FDP vom 09.12.2021) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV0BEUGBF1gpwb7f0h0s_hy9JZalnOVdb71Y8JtbTGhZ/Antrag_CDU_und_Kueppers_FDP_vom_09.12.2021.pdf
+- Anlage: Beschlussvorlage (Antrag CDU und Küppers FDP vom 22.12.2021) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX3aCZ4uqnirBKIT6YORESNIvBturpmpGlcLOpAS8CPo/Antrag_CDU_und_Kueppers_FDP_vom_22.12.2021.pdf
+- Anlage: Beschlussvorlage (Anträge der Gruppe Grüne Linke vom 11.01.2022) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXvYd0f4YeUwF6wxbmv-0m3fkk_grXrMtMYtnZ__SQk7/Antraege_der_Gruppe_Gruene_Linke_vom_11.01.2022.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers vom 12.01.2022) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdbQkgPYyjGXYvJ22UwVA5yHQnaMok-V3-Cjbyi058Bd/Antrag_CDU_Kueppers_vom_12.01.2022.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20371 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20337 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20692 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
