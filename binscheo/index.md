@@ -1,6 +1,7 @@
 # Verordnung über die Eichung von Binnenschiffen
 
 - [Eingangsformel](eingangsformel.md)
+- [Inhaltsverzeichnis](inhaltsverzeichnis.md)
 
 ## Erster Abschnitt Allgemeine Vorschriften
 
@@ -59,15 +60,10 @@ Nachprüfungen
 - [§ 38 Nacheichung](0038.md)
 - [§ 39 Nachprüfung von Eichungen](0039.md)
 
-## Sechster Abschnitt Kosten
+## Sechster Abschnitt Übergangs- und Schlußbestimmungen
 
-- [§ 40 (weggefallen)](0040.md)
-
-## Siebenter Abschnitt Übergangs- und Schlußbestimmungen
-
-- [§ 41 Gültigkeit alter Eichscheine](0041.md)
-- [§ 42](0042.md)
-- [§ 43 Inkrafttreten](0043.md)
+- [§ 40 Gültigkeit alter Eichscheine](0040.md)
+- [§ 41 Inkrafttreten](0041.md)
 - [Schlußformel](schlussformel.md)
 - [Anlagen zur Verordnung über die Eichung von Binnenschiffen (BinSchEO)](anlagen.md)
 - [Anlage 1 Muster des Eichscheins für Binnenschiffe (Güterbeförderer)](anlage-1.md)
