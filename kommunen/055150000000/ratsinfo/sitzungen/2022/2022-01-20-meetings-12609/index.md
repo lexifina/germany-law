@@ -1,0 +1,53 @@
+# 11. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-01-20T17:00:00+01:00
+- Ende: 2022-01-20T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/92
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12609
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12609
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00500582.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: Institut der Feuerwehr (IdF), Wolbecker Straße 237 - zur Kenntnis genommen
+- TOP 3.2: Vorstellung der Quartiersmanagerin für den Stadtteil Münster-Ost
+- TOP 4: Anhörungen
+- TOP 4.1: MünsterZukunft gemeinsam machen: "Mitgestaltende Öffentlichkeitsbeteiligung stärken - digitale Betetiligungsinstrumente ausbauen - einstimmig beschlossen
+- TOP 4.2: Bebauungsplan Nr. 619 - Aufstellungsbeschluss - 91. Änd. FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 4.3: Trägervergabe für die Kindertageseinrichtung Im Drostebusch (ehemals Paul-Schneider-Haus) im Stadtteil Mauritz-Ost - einstimmig beschlossen
+- TOP 4.4: Übertragung der Namensrechte für Teilflächen städtischer Sportanlagen an Vereine im Rahmen von Überlassungsverträgen - mehrheitlich beschlossen
+- TOP 4.5: Installation und Betrieb von Videoübertragungssystemen auf kommunalen Sportanlagen - mehrheitlich beschlossen
+- TOP 4.6: Budget zum Ausbau und Erhalt der Sportstätteninfrastruktur (ohne Turn- und Sporthallen sowie Großinvestitionen, z. B. Verlagerung von Sportanlagen), Maßnahmen 2022 Teil 1 - einstimmig beschlossen
+- TOP 5: fristgerecht eingegangene Anträge
+- TOP 5.1: Ersatz für den abgebauten Basketballkorb an der Astrid-Lindgren-Schule - einstimmig beschlossen
+- TOP 5.2: Mündlicher Bericht über den Stand der Planungen zum Verkehrsprojekt auf der Wolbecker Straße zwischen dem Brückenneubau mit der Umgehungsstraße und dem Laerer Landweg - einstimmig geändert beschlossen
+- TOP 5.3: Mündlicher Bericht zur Gestaltung der Brückenneubauten am Laerer Landweg und am Pleistermühlenweg und künftige Verkehrsführung für Fußgänger und Radfahrende - einstimmig geändert beschlossen
+- TOP 5.4: Aufstellung Blumenkübel an der Kita Eichenaue, Standort Heriburgstraße - einstimmig beschlossen
+- TOP 5.5: Mehr Sicherheit für Radfahrer:innen und Fußgänger:innen bei der Querung der Warendorfer Straße hinter der Kanalbrücke stadtauswärts - einstimmig beschlossen
+- TOP 6: fristgerecht eingegangene Anregungen und Anfragen
+- TOP 6.1: Planung eines Ortstermins an der Kita Eichenaue, Standort Heriburgstraße - eingebracht
+- TOP 6.2: Anregung zur Neuausrichtung der Fußgänger-Lichtzeichenanlage an der Handorfer Straße/Petronillaplatz - eingebracht
+- TOP 6.3: Verbesserung der Verkehrssicherheit an der Gittruper Straße am Ende der Brückenrampe - eingebracht
+- TOP 6.4: Anregung zur Instandsetzung des Schulwegs zum Gymnasium St. Mauritz in Münster-Handorf (im Boniburger Wald) - eingebracht
+- TOP 6.5: Winterdienst der Brücken am Coppenrathsweg und der Dingstiege - eingebracht
+- TOP 6.6: Anfrage zur Vorentwurfsplanung Hobbeltstraße - eingebracht
+- TOP 6.7: Verkehrssituation auf der Kanalbrücke "Manfred-von-Richthofen-Straße" - eingebracht
+- TOP 7: Stellungnahmen der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 7.1: Geschwindigkeitsbegrenzung von maximal 30 km/h auf der Dorbaumstraße von Hausnummer 1 bis 52/54 - Zwischenmitteilung zur Kenntnis genommen
+- TOP 7.2: Aufstellung eines Verkehrsspiegels (ursprüngliche Nr. A-O/0010/2021) - Zwischenmitteilung zur Kenntnis genommen
+- TOP 7.3: Rückschnitt des Grünbewuchses am kombinierten Geh-/Radweg vom Tannenhof in Richtung Wolbecker Straße (ursprüngliche Nr. A-O/0013/2021) - zur Kenntnis genommen
+- TOP 7.4: Altglascontainer am Hugo-Pottebaum-Platz und weiteren Standorten in Münster-Ost konsequent unter die Erde - zur Kenntnis genommen
+- TOP 7.5: Verlegung von Leerrohren zur Breitbandversorgung auf dem Coppenrathsweg - zur Kenntnis genommen
+- TOP 7.6: Anregung zur Vorlage V/0526/2021: Informationsveranstaltung zum fahrradtauglichen Ausbau der Betriebswege am Dortmund-Ems-Kanal / Kanalpromenade - zur Kenntnis genommen
+- TOP 7.7: Anregung zur Vorlage V/0519/2021: Vor Beginn der Baumaßnahme Prüfung des Baus eines Geh- und Radweges am Alten Mühlenweg K 16 - Instandsetzung von Pleistertimpen bis Am Handorfer Bahnhof - zur Kenntnis genommen
+- TOP 7.8: Beschleunigung der Baumaßnahme Geh- und Radweg Hessenweg Brücke DEK bis Schifffahrter Damm - zur Kenntnis genommen
+- TOP 8: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 9: Verschiedenes
