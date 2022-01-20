@@ -1,0 +1,56 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-01-20T18:00:00+01:00
+- Ende: 2022-01-20T18:55:00+01:00
+- Ort: Schützenhaus Eller, Heidelberger Straße 4, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22422
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22422
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö vom 20.01.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00435520.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö vom 20.01.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00435520.pdf
+- Wortprotokoll: Sitzungspaket Ö vom 20.01.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00435520.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 gemäß § 22 Geschäftsordnung des Rates für bis 06.01.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 02.12.2021 - einstimmig beschlossen
+- TOP 4: Klimaanalyse 2020 - Bericht der Verwaltung
+- TOP 5: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2022 - einstimmig beschlossen
+- TOP 6: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 7: Zuschüsse der Bezirksvertretung 8 im Jahre 2022 - beschlossen
+- TOP 8: Grünordnungsrahmenplan für den Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 9: Gebäude Vennhauser Allee 226 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 10: Lärmschutz Güterbahnstrecke Rath-Eller im Bereich des Stadtbezirks 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 11: Sachstand Bebauungsplanverfahren im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 12: Renaturierungsplanung im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 13: Bahnübergang Am Hackenbruch (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 14: Gebäude Schlesische Straße 3 (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 15: Parken auf Radwegen – Sandträgerweg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: FFP2 Masken für ungeimpfte, nicht durchgeimpfte oder vulnerabele Schüler*innen (aus Bedarfsgemeinschaften, Empfänger von Grundsicherung oder Sozialhilfe) im Stadtbezirk 8 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 18: Papierkörbe am Weg durch Kleingartenanlagen in Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 19: Machbarkeitsstudie 100-Meter-Brücke (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 20: Bänke Rathelbeckstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - zurückgezogen
+- TOP 21: Tempo 30 westliche Vennstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - zurückgezogen
+- TOP 22: Radweg Gerresheimer Landstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 23: Bus on Demand in Unterbach (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 24: Gebäude Rathelbeckstraße 272 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 25: Rückschnitt der Bäume an Verkehrsschildern im Stadtbezirk 8 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Friedhof Eller - Nebenwege (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: aufstehende Gehwegplatten und abgebrochene Bürgersteigkanten (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 28: Schlaglöcher auf Fahrbahnbelägen im Stadtbezirk 8 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 29: Papierkörbe an Laternenmasten im Stadtbezirk 8 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 30: Außengastronomie auf Kfz-Stellflächen - zur Kenntnis genommen
+- TOP 31: Vennstraße Ecke Dellestraße – Parksituation - zur Kenntnis genommen
+- TOP 32: Monckartzhofweg - zur Kenntnis genommen
+- TOP 33: Anlage einer geschlossenen naturnahen Hecke auf der West-Südseite des neuen Schützenplatzes Eller - zur Kenntnis genommen
+- TOP 34: Zukünftige Nachpflanzungen für Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Nachpflanzungen für Baumfällungen im Stadtbezirk 8 seit 2015 - zur Kenntnis genommen
+- TOP 36: Rathaus Eller - zur Kenntnis genommen
+- TOP 37: Fahrradweg Vennhauser Allee - zur Kenntnis genommen
+- TOP 38: Schulstandort Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 39: Coburger Weg – eingeschränktes Halteverbot - zur Kenntnis genommen
