@@ -1,0 +1,52 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-20T16:10:00+01:00
+- Ende: 2022-01-20T16:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25164
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25164
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Fraktion betreffend Unbegrünte Grünflächen - Sache ist erledigt
+- TOP 1.1.1: Beantwortung der Anfrage - Kenntnis genommen
+- TOP 1.2: Anfrage der FDP-Fraktion betreffend formale und auditierte Managementprozesse - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion die Linke betreffend Erfassung der Luftqualität im Kölner Norden - zurückgestellt
+- TOP 2.1.1: Stellungnahme zum Antrag (AN/1729/2021) der Fraktion Die Linke zur Erfassung der Luftqualität im Kölner Norden - zurückgestellt
+- TOP 2.2: Antrag der Fraktion Die Fraktion betreffend Schutz von Igeln, Insekten und Amphibien - geändert beschlossen
+- TOP 2.2.1: Gemeinsamer Änderungsantrag zu TOP 2.2: Die Fraktion-Antrag AN/2401/2021 Schutz von Igeln, Insekten und Amphibien - ungeändert beschlossen
+- TOP 2.3: Antrag der Fraktion Die Fraktion betreffend Erstellung Vorgartensatzung - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Beschluss der Bezirksvertretung Nippes per Dringlichkeit Erhalt der Fläche des derzeitigen Golfplatzes an der Neusser Landstraße als Grünfläche - zurückgestellt
+- TOP 4.1.2: Kurzkonzept zur Pflege- und Entwicklung des Naturschutzgebiets N 5 „Am Godorfer Hafen" und der angrenzenden Sürther Aue - zurückgestellt
+- TOP 4.1.3: Baubeschluss Förderprogramm REACT-EU „Grüne Infrastruktur – Artenreiche Wiesen Köln“ - unter Vorbehalt beschlossen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs Parkstadt Süd Eifelwall - zurückgestellt
+- TOP 4.2.2: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 20/21 des Friedhofs Dünnwald - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.3: Vorstellung der Ergebnisse der Machbarkeitsstudie zur teiloffenen Verbindung der Strunde und des Flehbach/Faulbach mit dem Rhein. - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.4: Bewirtschaftung des städtischen Waldes 2021/22 - Kenntnis genommen
+- TOP 7.5: Naturbezogene Naherholung und Tagestourismus in der Region Köln/Bonn - Kenntnis genommen
+- TOP 7.6: Stadtklima-/Stadtverschönerungsprogramm 2021 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.7: CO2-Belastung Bau Ost-West-Achse - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Ergebnisse Citizen Science Projekt "Sperbermonitoring" - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
