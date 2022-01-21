@@ -1,0 +1,59 @@
+# Anlage 23 (zu § 58)Zulassung von Lehrgängen für atemschutzgerättragende Personen
+
+Abschnitt 1
+1. Verfahren zur Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt
+  1.1 Über die Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt entscheidet die zuständige Behörde, die sich hierfür der Unterstützung der Berufsgenossenschaft bedienen kann.
+  1.2 Die zuständige Behörde lässt einen Lehrgang zu, wenn der Lehrgang die nachstehenden Voraussetzungen erfüllt.
+  1.3 Der Lehrgangsanbieter muss die Gewähr dafür bieten, dass die erforderliche Zuverlässigkeit in Zusammenarbeit mit den Unfallversicherungsträgern sichergestellt ist. Eine schriftliche oder in digitaler Form durchgeführte Lernerfolgskontrolle ist wünschenswert.
+  1.4 Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er durch innerbetriebliche Qualitätssicherung zu gewährleisten, dass an allen Örtlichkeiten die der Zulassung zugrundeliegenden Standards eingehalten werden.
+2. Antrag auf Zulassung
+  2.1 Der Antrag auf Zulassung in schriftlich oder elektronisch an die zuständige Behörde zu richten.
+  2.2 War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt diese die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden.
+  2.3 Antragsberechtigt sind natürliche und juristische Personen.
+  2.4 Dem Antrag sind anzufügen:
+    a) ein ausführlicher Lehrgangsplan mit Angabe des Inhalts und der Dauer der unterrichteten Fächer sowie der Lehrmethode,
+    b) ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse,
+    c) Informationen über das Lehrmaterial,
+    d) Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,
+    e) eine Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, die zuständige Behörde unverzüglich und aus eigener Initiative jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
+3. Prüfung
+  Die zuständige Behörde und von ihr beauftragte natürliche oder juristische Personen sind jederzeit berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
+4. Befristung, Widerruf der Zulassung
+  4.1 Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens 5 Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens 5 Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der zuständigen Behörde unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich oder elektronisch hinzuweisen.
+  4.2 Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt oder gegen die Pflichten, welche sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt.
+  4.3 Eine Übertragung der Durchführung der Lehrgänge an andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, ist nur zulässig, wenn die Organisation und die Sachmittelausstattung auch für diese Dienstleistungen unmittelbar durch den zugelassenen Lehrgangsanbieter erfolgt. Für diese übertragenen Dienstleistungen muss die Durchführung durch andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, im Auftrag und Namen erfolgen.
+Abschnitt 2
+Voraussetzung zur Zulassung von Lehrgängen für atemschutzgerättragende Personen
+1. Personelle Voraussetzungen
+  1.1 Die antragstellende Person hat nachzuweisen, dass die eingesetzten Lehrkräfte zur Durchführung der Ausbildung von atemschutzgerättragenden Personen befähigt sind.
+  1.2 Antragstellende Person und Lehrkraft können identisch sein.
+  1.3 Die Befähigung der Lehrkraft ist gegeben, wenn die Lehrkraft durch Vorlage einer Bescheinigung nachweist, dass sie an einer qualifizierenden Ausbildung durch Unfallversicherungsträger, Feuerwehrschulen und/oder Herstellerfirmen von Atemschutzgeräten teilgenommen hat.
+  1.4 Die Lehrkraft hat sich in angemessenen Zeitabständen (mindestens alle 5 Jahre) fortzubilden. Dafür geeignet sind Qualifizierungen an Ausbildungsstätten der Unfallversicherungsträger, Feuerwehrschulen und/oder Herstellerfirmen von Atemschutzgeräten.
+  1.5 Damit sichergestellt ist, dass bei Unfällen während des Lehrgangs sofort Erste Hilfe geleistet werden kann, hat der Lehrgangsanbieter mindestens einen ausgebildeten Ersthelfer vorzuhalten.
+2. Sachliche Voraussetzungen
+  Die antragstellende Person hat nachzuweisen, dass sie
+  2.1 die in Anhang 2 genannten praktischen Übungen unter realen Bedingungen durchführen kann,
+  2.2 ausreichend Atemschutzgeräte für die praktischen Übungen zur Verfügung stellen kann,
+  2.3 die eingesetzten Atemschutzgeräte reinigen, desinfizieren, warten und ggf. reparieren kann,
+  2.4 über geeignete Räumlichkeiten inkl. Medientechnik zur Durchführung des theoretischen Unterrichts verfügt.
+3. Organisatorische Voraussetzungen
+  3.1 Inhalt und Umfang eines Lehrgangs
+    3.1.1 Der Unterricht hat sich nach Anhang 2 zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist.
+    3.1.2 Die Teilnehmenden der Erstausbildung des Grundlehrgangs dürfen nicht in einen Wiederholungslehrgang integriert werden.
+    3.1.3 Im Einzelnen müssen die im Anhang 2 genannten theoretischen und praktischen Inhalte vermittelt werden. Dies geschieht in einem Lehrgang, der eine enge Verzahnung von Praxis und Theorie als Grundlage für das Erreichen der notwendigen Handhabung und Bedienung des Atemschutzgerätes sicherstellt. Tätigkeitsbezogene Belastungsübungen sollen die atemschutzgerätetragende Person in ähnlicher Stärke beanspruchen, wie die unter Atemschutz durchzuführende Tätigkeit.
+    3.1.4 Der Grundlehrgang darf 12 Unterrichtseinheiten, wobei eine Unterrichtseinheit 45 Minuten dauert, nicht unterschreiten.
+    3.1.5 Wiederholungslehrgänge können um die erforderlichen Themenschwerpunkte entsprechend gekürzt werden, umfassen aber mindestens 4 Unterrichtseinheiten.
+    3.1.6 Die Teilnehmenden sollen nach Abschluss des Lehrgangs in der Lage sein, unter besonderer Beachtung des Eigenschutzes Personen auf einem Kabinenschiff im Brandfalle unter Verwendung von Atemschutzgeräten zu retten.
+  3.2 Teilnahmebescheinigung
+    3.2.1 Den Teilnehmenden ist eine Teilnahmebescheinigung auszuhändigen. Die Bescheinigung über die Ausbildung darf nur erteilt werden, wenn die Lehrkraft die Überzeugung gewonnen hat, dass die Teilnehmenden die erforderlichen Kenntnisse und Fähigkeiten besitzen.
+    3.2.2 Ein Gestaltungsbeispiel einer Teilnahmebescheinigung ist im Anhang 1 wiedergegeben.
+  3.3 Dokumentation
+    3.3.1 Der Lehrgangsanbieter hat über die durchgeführten Lehrgänge folgende Aufzeichnungen zu führen:
+      3.3.1.1 Art des jeweiligen Lehrgangs (Grund- oder Wiederholungslehrgang)
+      3.3.1.2 Ort und Dauer des Lehrgangs
+      3.3.1.3 Durchgeführte Inhalte des Lehrgangs
+      3.3.1.4 Name der Lehrkraft
+      3.3.1.5 Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden
+      3.3.1.6 Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten, natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
+  3.4 Versicherungsschutz
+    Die antragstellende Person hat nachzuweisen, dass eine Haftpflichtversicherung abgeschlossen wurde, die eventuelle Personen- und Sachschäden, die im Zusammenhang mit den Lehrgängen stehen können, abdeckt.

@@ -1,0 +1,48 @@
+# Anlage 11 (zu § 38 Absatz 4)Standards für das Zusatzmodul zur Aufsicht im Rahmen der praktischen Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer
+
+Bewerber, die weder ein zugelassenes Ausbildungsprogramm absolviert haben, das auf den Befähigungsstandards für die Betriebsebene beruht, noch eine Beurteilung ihrer Befähigung bei einer Verwaltungsbehörde bestanden haben, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, müssen dieses Modul bestehen. Zusätzlich zu den Anforderungen, die in den Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer genannt sind, sind folgende Anforderungen zu erfüllen.
+1. Besondere Befähigungen und Beurteilungssituationen
+  Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen. Die Prüfungskommission muss 20 der 25 Elemente der Kategorie I prüfen.
+  Die Prüfungskommission muss 8 der 12 Elemente der Kategorie II prüfen.
+  Die Bewerber können höchstens 10 Punkte für jedes Element erreichen.
+  Für Kategorie I müssen die Bewerber für jedes Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 40 Punkte erreichen.
+  | Nr. | Befähigungen | Prüfungselemente | Kategorien I-II |
+  | 1 | 0.1.1 | die an Bord verfügbaren Materialien wie Winden, Poller, Seile und Drähte unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen; | I |
+  | 2 | 0.1.2 | Schubverbände unter Einsatz der erforderlichen Ausrüstung und Materialien zu kuppeln und zu entkuppeln; | I |
+  | 3 | 0.1.2 | die an Bord für das Kuppeln verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen; | I |
+  | 4 | 0.1.3 | Ankermanöver vorzuführen; | I |
+  | 5 | 0.1.3 | die an Bord für das Ankern verfügbare Ausrüstung und verfügbaren Materialien unter Berücksichtigung der relevanten Arbeitssicherheitsmaßnahmen einschließlich des Gebrauchs persönlicher Schutz- und Rettungsausrüstung zu nutzen; | I |
+  | 6 | 0.1.4 | die Wasserdichtigkeit des Fahrzeugs sicherzustellen; | I |
+  | 7 | 0.1.4 | Arbeiten gemäß der Prüfliste an Deck und in den Aufenthaltsräumen durchzuführen, wie die Wasserabdichtung und Sicherung von Luken und Laderäumen; | I |
+  | 8 | 0.1.5 | den Mitgliedern der Decksmannschaft die anwendbaren Verfahren beim Durchfahren von Schleusen, Wehren und Brücken zu erklären und vorzuführen | II |
+  | 9 | 0.1.6 | das Tag- und Nachtkennzeichnungssystem, die Zeichen und Schallzeichen des Fahrzeugs zu bedienen und zu warten; | II |
+  | 10 | 0.3.3 | Verfahren zur Bestimmung der Menge geladener oder gelöschter Ladung anzuwenden; | II |
+  | 11 | 0.3.3 | die Menge flüssiger Ladung unter Verwendung von Sondierungen und/oder Tanktabellen zu berechnen; | II |
+  | 12 | 0.4.1 | den Maschinenraum den Verfahren gemäß zu bedienen und zu kontrollieren; | I |
+  | 13 | 0.4.1 | die sichere Funktion, Betriebsweise und Instandhaltung des Bilge- und Ballastsystems zu erklären, einschließlich Meldung von Zwischenfällen im Zusammenhang mit Umpumpvorgängen und Fähigkeit, Tankfüllstände korrekt zu messen und zu melden; | II |
+  | 14 | 0.4.1 | das Abschalten der Maschinen nach dem Einsatz vorzubereiten und durchzuführen; | I |
+  | 15 | 0.4.1 | Bilge-, Ballast- und Ladungspumpensysteme zu bedienen; | I |
+  | 16 | 0.4.1 | die hydraulischen und pneumatischen Systeme zu benutzen; | I |
+  | 17 | 0.4.2 | die Schalttafel zu benutzen; | I |
+  | 18 | 0.4.2 | den Landanschluss zu benutzen; | I |
+  | 19 | 0.4.3 | sichere Arbeitsverfahren bei der Wartung und Instandsetzung von Maschinen und Geräten/Anlagen anzuwenden; | I |
+  | 20 | 0.4.5 | Pumpen, Rohrleitungssysteme, Bilge- und Ballastsysteme zu warten und instand zu halten; | II |
+  | 21 | 0.5.1 | unter Einhaltung der Hygienevorschriften sämtliche Wohnräume und das Steuerhaus zu reinigen sowie den Haushalt ordnungsgemäß zu führen; dies schließt die Verantwortung für den eigenen Wohnraum ein; | II |
+  | 22 | 0.5.1 | die Maschinenräume und die Maschinen unter Einsatz der geeigneten Reinigungsmaterialien zu reinigen; | I |
+  | 23 | 0.5.1 | die äußeren Teile, den Körper und die Decks des Fahrzeugs in der korrekten Reihenfolge unter Einsatz der gemäß den Umweltvorschriften geeigneten Materialien zu reinigen und zu konservieren; | II |
+  | 24 | 0.5.1 | für die Entsorgung der Fahrzeug- und Haushaltsabfälle gemäß den Umweltvorschriften zu sorgen; | II |
+  | 25 | 0.5.2 | für sämtliche technische Ausrüstung gemäß den Anweisungen Sorge zu tragen und Wartungsprogramme (auch digitale) zu verwenden; | I |
+  | 26 | 0.5.3 | Seile und Drähte gemäß den Methoden und Vorschriften für sicheres Arbeiten zu verwenden und zu lagern; | II |
+  | 27 | 0.5.4 | Drähte und Seile zu spleißen, Knoten entsprechend ihrem Verwendungszweck anzuwenden und Drähte und Seile instand zu halten; | I |
+  | 28 | 0.6.1 | die erforderlichen technischen und nautischen Begriffe sowie Begriffe im Zusammenhang mit sozialen Aspekten in Standardredewendungen zu verwenden; | I |
+  | 29 | 0.7.1 | Gefahren im Zusammenhang mit Gefahrenmomenten an Bord zu vermeiden; | I |
+  | 30 | 0.7.1 | für Personal oder Fahrzeug potenziell gefährliche Tätigkeiten zu verhindern; | I |
+  | 31 | 0.7.2 | persönliche Schutzausrüstung zu benutzen; | I |
+  | 32 | 0.7.3 | Schwimmkenntnisse für Rettungsarbeiten einzusetzen; | II |
+  | 33 | 0.7.3 | Rettungsausrüstung bei Rettungsarbeiten zu benutzen und Betroffene zu retten und zu transportieren; | II |
+  | 34 | 0.7.4 | Fluchtwege frei zu halten; | II |
+  | 35 | 0.7.5 | Notfallkommunikations- und Alarmsysteme sowie -ausrüstung zu benutzen; | I |
+  | 36 | 0.7.6, 0.7.7 | verschiedene Methoden der Brandbekämpfung und Löschgeräte und feste Löschanlagen anzuwenden; | I |
+  | 37 | 0.7.8 | Erste Hilfe zu leisten. | I |
+2. Mindestanforderungen an Fahrzeuge, die für praktische Prüfungen verwendet werden
+  Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.

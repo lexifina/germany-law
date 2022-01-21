@@ -1,0 +1,74 @@
+# Anlage 10 (zu § 38 Absatz 3, § 75 Absatz 4 und 5)Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer
+
+1. Besondere Befähigungen und Beurteilungssituationen
+  Die Prüfung besteht aus zwei Teilen: einem Teil Reiseplanung und einem Teil Reisedurchführung. Die Prüfung zur Reisedurchführung findet in einer einzigen Sitzung statt. Jeder Teil der Prüfung besteht aus mehreren Elementen.
+  Für Schiffsführer, die weder ein zugelassenes Ausbildungsprogramm absolviert haben, das auf den Befähigungsstandards für die Betriebsebene beruht, noch eine Beurteilung ihrer Befähigung bei einer Verwaltungsbehörde bestanden haben, in deren Rahmen überprüft wurde, dass die Befähigungsstandards für die Betriebsebene erfüllt sind, werden die Anforderungen um die besonderen Elemente ergänzt, die in den Standards in Anlage 11 (Zusatzmodul zur Aufsicht im Rahmen der praktischen Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer) festgelegt sind.
+  Inhaltlich muss die Prüfung den folgenden Anforderungen entsprechen:
+  Reiseplanung
+  Der Prüfungsteil Reiseplanung umfasst die in der Tabelle in Anhang 1 aufgeführten Elemente. Die Elemente werden nach ihrer Bedeutung in die Kategorien I und II eingeteilt. Aus dieser Liste sind je Kategorie 10 Elemente auszuwählen und in der Prüfung abzuprüfen.
+  Reisedurchführung
+  Der Bewerber hat nachzuweisen, dass er in der Lage ist, eine Reise durchzuführen. Eine unabdingbare Voraussetzung hierfür ist, dass er das Fahrzeug selbst steuert. Die einzelnen zu prüfenden Elemente sind in der Tabelle in Anhang 2 aufgeführt und – im Gegensatz zum Prüfungsteil Reiseplanung – sind stets sämtliche dieser Elemente abzuprüfen.
+  Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen.
+Anhang 1
+Inhalte des Prüfungsteils Reiseplanung
+In jeder Kategorie sind 10 Elemente abzuprüfen. Der Bewerber kann höchstens 10 Punkte für jedes Element erreichen.
+  Für Kategorie I müssen die Bewerber für jedes geprüfte Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 60 Punkte erreichen.
+  | Nr. | Befähigungen | Prüfungselemente | Kategorien I-II |
+  | 1 | 1.1.1 | auf europäischen Binnenwasserstraßen mit Schleusen und Schiffshebewerken gemäß den Frachtverträgen mit dem Spediteur zu navigieren; | I |
+  | 2 | 1.1.3 | die ökonomischen und ökologischen Aspekte des Fahrzeugbetriebs für eine effiziente und umweltfreundliche Nutzung des Fahrzeugs zu berücksichtigen; | II |
+  | 3 | 1.1.4 | den technischen Bauwerken und Profilen der Wasserstraßen Rechnung zu tragen und Vorsichtsmaßnahmen zu ergreifen; | I |
+  | 4 | 1.2.1 | eine sichere Besatzung des Fahrzeugs gemäß den anwendbaren Vorschriften sicherzustellen; | I |
+  | 5 | 1.3.3 | für einen sicheren Zugang zum Fahrzeug zu sorgen; | II |
+  | 6 | 2.1.1 | die Grundsätze des Schiffsbaus in der Binnenschifffahrt zu beachten; | II |
+  | 7 | 2.1.2 | die Konstruktion von Fahrzeugen und ihr Verhalten im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, zu unterscheiden; | II |
+  | 8 | 2.1.3 | die Bauteile des Fahrzeugs und die Schadenskontrolle und -analyse zu verstehen; | II |
+  | 9 | 2.1.4 | Maßnahmen zum Schutz der Wasserdichtigkeit des Fahrzeugs zu ergreifen; | I |
+  | 10 | 2.2.1 | die Funktionen der Fahrzeugausrüstung zu verstehen; | II |
+  | 11 | 2.2.2 | die speziellen Anforderungen bei der Beförderung von Ladung und Fahrgästen zu beachten; | I |
+  | 12 | 3.1.1 | die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Ladung zu verstehen; | II |
+  | 13 | 3.1.2 | Staupläne unter Berücksichtigung von Kenntnissen über das Laden von Ladungen und Ballastsysteme zu erstellen, um die Belastung des Schiffskörpers in annehmbaren Grenzen zu halten; | I |
+  | 14 | 3.1.3 | die Be- und Entladevorgänge im Hinblick auf eine sichere Beförderung zu kontrollieren; | I |
+  | 15 | 3.1.4 | verschiedene Güter und deren Eigenschaften zu unterscheiden, um ein sicheres Laden der Güter nach dem Stauplan zu überwachen und zu gewährleisten; | II |
+  | 16 | 3.2.1 | die Auswirkungen von Ladung und Ladevorgängen auf Trimmlage und Stabilität zu beachten; | I |
+  | 17 | 3.2.2 | die effektive Tonnage des Fahrzeugs zu überprüfen, Stabilitäts- und Trimmdiagramme sowie Geräte zur Festigkeitsberechnung, einschließlich automatischer datenbasierter Ausrüstung (ADB-Ausrüstung), zur Überprüfung von Stauplänen zu verwenden; | I |
+  | 18 | 3.3.1 | die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Fahrgästen zu verstehen; | II |
+  | 19 | 3.3.2 | Sicherheitsübungen gemäß der Sicherheitsrolle zu organisieren und zu überwachen, um ein sicheres Verhalten in möglichen Gefahrensituation zu gewährleisten; | II |
+  | 20 | 3.3.3 | mit Fahrgästen in Notsituationen zu kommunizieren; | I |
+  | 21 | 3.3.4 | eine Analyse der Gefahren an Bord bezüglich der Beschränkung des Zugangs für Fahrgäste festzulegen und zu überwachen sowie ein wirksames Bordschutzsystem zu erstellen, um unbefugten Zutritt zu verhindern; | II |
+  | 22 | 3.3.5 | Berichte von Fahrgästen (d. h. über unvorhergesehene Ereignisse, Beleidigungen, Vandalismus) zu analysieren, um angemessen zu reagieren; | II |
+  | 23 | 4.4.1 | mögliche Schäden an elektrischen und elektronischen Geräten an Bord zu verhüten; | II |
+  | 24 | 4.5.3 | technische und interne Dokumentation auszuwerten; | II |
+  | 25 | 5.1.1 | ein sicheres Verhalten der Besatzungsmitglieder in Bezug auf die Verwendung von Werk- und Zusatzstoffen zu gewährleisten; | II |
+  | 26 | 5.1.2 | Arbeitsaufträge so festzulegen, zu überwachen und zu kontrollieren, dass die Besatzungsmitglieder in der Lage sind, Wartungs- und Instandsetzungsarbeiten eigenständig durchzuführen; | II |
+  | 27 | 5.1.3 | Materialien und Werkzeug unter Berücksichtigung des Gesundheits- und Umweltschutzes zu kaufen und zu prüfen; | II |
+  | 28 | 5.1.4 | sicherzustellen, dass Drähte und Seile den Angaben des Herstellers und ihrem Verwendungszweck entsprechend eingesetzt werden; | II |
+  | 29 | 6.3.2 | die nationale, europäische und internationale Sozialgesetzgebung anzuwenden; | II |
+  | 30 | 6.3.3 | ein striktes Alkohol- und Drogenverbot durchzusetzen und bei Verstößen angemessen zu reagieren, Verantwortung zu übernehmen und die Folgen von Fehlverhalten aufzuzeigen; | II |
+  | 31 | 6.3.4 | die Beschaffung und Zubereitung von Mahlzeiten an Bord zu organisieren; | II |
+  | 32 | 7.1.1 | nationale und internationale Rechtsvorschriften anzuwenden und geeignete Maßnahmen für Gesundheitsschutz und Unfallverhütung zu ergreifen; | II |
+  | 33 | 7.1.2 | die Gültigkeit des Zeugnisses des Fahrzeugs und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente zu kontrollieren und zu überwachen; | I |
+  | 34 | 7.1.3 | die Sicherheitsvorschriften bei allen Arbeitsabläufen durch entsprechende Sicherheitsmaßnahmen einzuhalten, um Unfälle zu vermeiden; | I |
+  | 35 | 7.1.4 | alle für die Reinigung geschlossener Räume erforderlichen Sicherheitsmaßnahmen vor dem Öffnen, Betreten und Reinigen dieser Räume durch andere Personen zu kontrollieren und zu überwachen; | II |
+  | 36 | 7.2.5 | Rettungsmittel und die korrekte Anwendung persönlicher Schutzausrüstung zu kontrollieren; | II |
+  | 37 | 7.3.1 | Vorbereitungen für Rettungspläne für verschiedene Arten von Notfällen einzuleiten; | II |
+  | 38 | 7.4.1 | Vorsichtsmaßnahmen gegen Umweltverschmutzung zu ergreifen und entsprechende Ausrüstung zu verwenden; | II |
+  | 39 | 7.4.2 | die Umweltschutzgesetze anzuwenden; | II |
+  | 40 | 7.4.3 | Geräte und Materialien wirtschaftlich und umweltfreundlich einzusetzen. | II |
+Anhang 2
+Inhalte des Prüfungsteils Reisedurchführung
+Alle hier genannten Prüfungselemente müssen abgeprüft werden. Für jedes Element muss der Bewerber mindestens 7 von höchstens 10 Punkten erreichen.
+| Nr. | Befähigungen | Prüfungselemente |
+  | 1 | 1.1.1 | das Fahrzeug situationsgerecht und entsprechend den gesetzlichen Vorgaben des Verkehrsrechts zu führen und zu manövrieren (in Abhängigkeit von Strömungsgeschwindigkeit und -richtung, Prüfung von Wasser- und Abladetiefe, Flottwasser, Verkehrsdichte, Interaktion mit anderen Fahrzeugen usw.); |
+  | 2 | 1.1.4 | das An- bzw. Ablegen des Fahrzeugs auf Binnenwasserstraßen sachgerecht und entsprechend den gesetzlichen Vorgaben bzw. Sicherheitsvorschriften durchzuführen; |
+  | 3 | 1.1.5 | bei Bedarf Navigationssysteme nachzujustieren oder neu einzustellen; |
+  | 4 | 1.1.5 | den Navigationssystemen alle für die Fahrt relevanten Informationen zu entnehmen und diese für eine angepasste Fahrweise zu nutzen; |
+  | 5 | 1.1.6 | die notwendigen Geräte im Fahrstand (Navigationssysteme wie Inland AIS, Inland ECDIS) in Betrieb zu nehmen und einzustellen; |
+  | 6 | 2.2.2 | zu prüfen, ob das Fahrzeug den Vorschriften entsprechend für die Fahrt bereit ist und die Ladung und andere Gegenstände den Vorschriften entsprechend sicher gestaut sind; |
+  | 7 | 4.2.2 | sachgerecht auf (ggf. zu simulierende) Störungen des Fahrbetriebs (z. B. Anstieg der Kühlwassertemperatur, Abfall des Maschinenöldrucks, Ausfall der Hauptmaschine(n), Ausfall des Steuerruders, Funkstörungen/Ausfall des Funkgeräts oder unklare Fahrtrichtung anderer Fahrzeuge) zu reagieren, über das weitere Vorgehen entscheiden und angemessene Instandhaltungsmaßnahmen veranlassen oder durchführen, um einen sicheren Fahrbetrieb zu gewährleisten; |
+  | 8 | 5.1.2 | eine Fahrweise zu wählen, die es erlaubt, Unfallrisiken frühzeitig zu erkennen, und materialschonend ist; die zur Verfügung stehenden Indikatoren regelmäßig zu kontrollieren; |
+  | 9 | 6.1.1 | zielgerichtet zu kommunizieren, sowohl mit den Besatzungsmitgliedern (On-Board-Kommunikation) in Bezug auf einzelne Manöver und im Rahmen von Personalgesprächen (z. B. Unterweisungen) als auch mit Personen, mit denen Absprachen getroffen werden müssen (unter Nutzung aller Funkverkehrsnetze); |
+  | 10 | 6.2.2 | während der jeweiligen Tätigkeiten mit den betreffenden Personen (an Bord) und mit anderen Akteuren (Revierzentrale, andere Fahrzeuge usw.) den Vorschriften entsprechend (Netze, Wasserstraßen entlang der Reiseroute) zu kommunizieren; Funk/Telefon zu nutzen; |
+  | 11 | 7.3.3 | eine (ggf. zu simulierende) Notsituation (z. B. über Bord gegangene Person, Anlagenausfall, Brand an Bord, Austritt von Gefahrstoffen, Leckagen) durch schnelle und umsichtige Durchführung von Manövern oder Maßnahmen zur Rettung bzw. Schadensbegrenzung zu bewältigen; die in Notfällen relevanten Personen und zuständigen Behörden zu benachrichtigen bzw. zu informieren; |
+  | 12 | 7.3.4 | bei Störungen mit den betreffenden Personen (an Bord) und mit anderen Akteuren (Nutzung von Funk, Telefon) zu kommunizieren, um Probleme zu lösen. |
+2. Technische Anforderungen an Fahrzeuge, die für praktische Prüfungen verwendet werden
+  Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.

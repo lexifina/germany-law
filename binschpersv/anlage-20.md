@@ -1,0 +1,34 @@
+# Anlage 20 (zu § 49 Absatz 4 und 5)Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Sachkundiger für die Fahrgastschifffahrt
+
+1. Besondere Befähigungen und Beurteilungssituationen
+  Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen.
+  Die Prüfungskommission muss 11 der 14 Elemente der Kategorie I prüfen, vorausgesetzt die Elemente 16 und 20 werden geprüft.
+  Die Prüfungskommission muss 7 der 8 Elemente der Kategorie II prüfen.
+  Die Bewerber können höchstens 10 Punkte für jedes Element erreichen.
+  Für Kategorie I müssen die Bewerber für jedes Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 45 Punkte erreichen.
+  | Nr. | Befähigungen | Prüfungselemente | Kategorie I-II |
+  | 1 | 1.1. | Fahrgästen den Gebrauch von Rettungsringen vorzuführen; | I |
+  | 2 | 1.1. | Fahrgästen, Mitgliedern der Decksmannschaft und Bordpersonal den Gebrauch von Rettungswesten vorzuführen, einschließlich bestimmter Einzelrettungsmittel für Personen, die keine Aufgaben nach der Sicherheitsrolle übernehmen; | I |
+  | 3 | 1.1. | den Gebrauch geeigneter Einrichtungen für die Evakuierung in seichtes Wasser, an das Ufer oder an Bord eines anderen Fahrzeugs vorzuführen; | I |
+  | 4 | 1.1. | den Gebrauch von Beibooten einschließlich ihres Motors und Suchscheinwerfers oder einer Plattform nach Artikel 19.15 ES-TRIN 2017/1 vorzuführen, die das Beiboot oder Sammelrettungsmittel nach Artikel 19.09 Nummer 5 bis 7 ES-TRIN 2017/1 ersetzt; | I |
+  | 5 | 1.1. | den Gebrauch einer geeigneten Krankentrage vorzuführen; | I |
+  | 6 | 1.1. | den Gebrauch von Verbandkästen vorzuführen; | I |
+  | 7 | 1.1. | den Gebrauch von umluftunabhängigen Atemschutzgeräten, Ausrüstungssätzen und Fluchthauben nach Artikel 19.12 Nummer 10 ES-TRIN 2017/1 oder einer Kombination dieser Ausrüstungen vorzuführen; | I |
+  | 8 | 2.1. | die Prüfintervalle für die unter Nummern 1 bis 7 dieser Tabelle genannte Ausrüstung zu überprüfen und überwachen; | II |
+  | 9 | 2.1. | die erforderlichen Qualifikationen von Personen, die Verbandkästen und umluftunabhängige Atemschutzgeräte, Ausrüstungssätze sowie Fluchthauben verwenden, zu überprüfen und überwachen; | II |
+  | 10 | 2.1. | Rettungsmittel angemessen zu verstauen und zu verteilen; | I |
+  | 11 | 2.3. | für Fahrgäste mit eingeschränkter Mobilität zugängliche Bereiche zu identifizieren; | II |
+  | 12 | 1.1. | Fahrgästen mit eingeschränkter Mobilität den Gebrauch von Rettungsmitteln vorzuführen; | I |
+  | 13 | 2.2 | Bestandteile der Sicherheitsrolle und des Sicherheitsplans zu erläutern; | II |
+  | 14 | 2.1. | dem Bordpersonal Aufgaben gemäß Sicherheitsrolle und Sicherheitsplan zuzuweisen; | II |
+  | 15 | 2.3 | dem Bordpersonal Aufgaben in Bezug auf den nichtdiskriminierenden Zugang und die Sicherheitseinsatzplanung für Fahrgäste mit eingeschränkter Mobilität zuzuweisen; | II |
+  | 16 | 2.3 | Unterweisung und Instruktionen für Personen mit eingeschränkter Mobilität gemäß Anhang IV der Verordnung (EU) Nr. 1177/2010 zu organisieren; | I |
+  | 17 | 2.2 | die Evakuierung von Fahrgasträumen zu organisieren und die speziellen Maßnahmen zu erläutern, die im Falle von Kollision, Auflaufen, Rauchentwicklung und Brand zu ergreifen sind; | I |
+  | 18 | 2.2. | Entstehungsbrände zu bekämpfen und wasserdichte und feuerhemmende Türen zu bedienen; | I |
+  | 19 | 2.2. | dem Schiffsführer, den Fahrgästen und den externen Rettungskräften in einem simulierten Notfall die notwendigen Informationen bereitzustellen; | II |
+  | 20 | 3.1 | einen einfachen englischen Wortschatz und die Aussprache angemessen zu nutzen, um Fahrgäste und Bordpersonal in Standardsituationen anzuleiten und in Notfällen zu warnen und anzuleiten; | I |
+  | 21 | 4.1 | zu erklären, welche Fahrgastrechte gelten; | I |
+  | 22 | 4.1 | die anwendbaren Verfahren für die Gewährung des Zugangs und professioneller Hilfeleistung für Fahrgäste gemäß der Verordnung (EU) Nr. 1177/2010 umzusetzen. | II |
+2. Technische Anforderungen an Fahrzeuge und Landanlagen, die für praktische Prüfungen verwendet werden
+  Der Ort für die Beurteilung muss mit den für den Nachweis der in Prüfungselement Nr. 2 aufgeführten Befähigung erforderlichen Rettungsmitteln für Fahrgastschiffe ausgestattet sein, einschließlich spezieller Rettungsmittel für Kabinenschiffe gemäß anwendbarem ES-TRIN 2017/1. Er muss mit einer Sicherheitsrolle und einem Sicherheitsplan, die ES-TRIN 2017/1 entsprechen, sowie geeigneten Räumen und Ausrüstungen ausgestattet sein, um die Fähigkeit, eine Evakuierung zu organisieren, und das Brandbekämpfungs- und Reaktionsverhalten im Brandfall zu beurteilen.
+  Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.

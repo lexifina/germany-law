@@ -1,0 +1,44 @@
+# Anlage 18 (zu § 47 Absatz 4)Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Sachkundiger für Flüssigerdgas (LNG)
+
+1. Besondere Befähigungen und Beurteilungssituationen
+  Es steht der Prüfungskommission frei, den Inhalt der einzelnen Prüfungselemente festzulegen. Die Prüfungskommission muss 9 der 11 Elemente der Kategorie I prüfen.
+  Die Prüfungskommission muss 5 der 7 Elemente der Kategorie II prüfen.
+  Die Bewerber können höchstens 10 Punkte für jedes Element erreichen.
+  Für Kategorie I müssen die Bewerber für jedes geprüfte Element mindestens 7 von 10 Punkten erreichen. Für Kategorie II müssen die Bewerber insgesamt mindestens 30 Punkte erreichen.
+  | Nr. | Befähigungen | Prüfungselemente | Kategorie I-II |
+  | 1 | 1.1 | die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen und zu überwachen, um für die Einhaltung der Rechtsvorschriften und Normen für mit LNG als Brennstoff betriebene Fahrzeuge an Bord des Schiffes und insbesondere des Bunkerverfahrens zu sorgen; | II |
+  | 2 | 1.2 | die Besatzungsmitglieder in ihren Tätigkeiten zu unterweisen und zu überwachen, um für die Einhaltung der sonstigen relevanten Gesundheits- und Sicherheitsvorschriften zu sorgen; | II |
+  | 3 | 2.2 | Risikomanagement durchzuführen, die Sicherheit an Bord zu dokumentieren (einschließlich Sicherheitsplan und Sicherheitsanweisungen), gefährdete Bereiche, Brandschutz zu bewerten und zu überwachen und persönliche Schutzausrüstung zu benutzen; | II |
+  | 4 | 3.1 | die Wirkungsweise von LNG darzulegen; | II |
+  | 5 | 3.1 | Druck und Temperatur abzulesen, Nachlenz-, Behälter-, Leitungs-, Gasversorgungs-, Belüftungs-, Sicherheitssysteme, Ventile zu betätigen und den Boil-Off von LNG zu regeln; | I |
+  | 6 | 4.1 | die tägliche, wöchentliche und regelmäßig wiederkehrende Instandhaltung durchzuführen; | I |
+  | 7 | 4.1 | bei der Instandhaltung festgestellte Funktionsstörungen zu beheben; | I |
+  | 8 | 4.1 | Wartungsarbeiten zu dokumentieren; | II |
+  | 9 | 5.1 | Bunkerverfahren einzuleiten und zu überwachen, einschließlich Maßnahmen zur Sicherstellung des sicheren Festmachens, der ordnungsgemäßen Verlegung der Kabel und Leitungen zur Vermeidung von Leckagen, und Maßnahmen zu ergreifen, um die LNG- und Bunkerverbindung bei Bedarf jederzeit zu trennen; | I |
+  | 10 | 5.1 | für die Einhaltung der einschlägigen Sicherheitszonenvorschriften zu sorgen; | II |
+  | 11 | 5.1 | den Beginn des Bunkervorgangs zu melden; | I |
+  | 12 | 5.1 | das Bunkern nach Handbuch sicher durchzuführen, einschließlich der Fähigkeit, Druck, Temperatur und LNG-Füllhöhe in den Tanks zu überwachen; | I |
+  | 13 | 5.1 | das Leitungssystem zu entleeren, die Ventile zu schließen und das Fahrzeug von der Bunkeranlage zu trennen und nach dem Bunkern das Ende des Bunkervorgangs zu melden; | I |
+  | 14 | 6.1 | Durchführung 1.der Inertisierung der LNG-Anlage,2.des Verfahrens zum Lenzen des LNG-Lagertanks,3.der ersten Befüllung des LNG-Lagertanks (Trocknen und Abkühlung),4.der Inbetriebnahme nach dem Werftaufenthalt; | I |
+  | 15 | 7.1 | angemessen zu handeln in Notfällen wie Verschüttung von LNG auf dem Deck, Hautkontakt mit LNG, Verschüttung von LNG in geschlossenen Räumen (z. B. in den Maschinenräumen), Verschüttung von LNG oder Erdgas in Räumen zwischen Barrieren (z. B. doppelwandige Lagertanks, doppelwandige Leitungen); | I |
+  | 16 | 7.1 | bei einem Brand in der Nähe des LNG-Lagertanks oder in den Maschinenräumen angemessen zu reagieren; | I |
+  | 17 | 7.1 | im Falle eines Druckaufbaus in den Leitungssystemen nach Betätigung der Notabschaltung bei bevorstehender Freisetzung oder Entspannen angemessen zu reagieren; | I |
+  | 18 | 7.1 | Notfallmaßnahmen, auch während der Fernüberwachung, zu ergreifen, z. B. um LNG-Brände, Lachenbrände, Strahlbrände und Verpuffungen unter Kontrolle zu halten. | I |
+2. Technische Anforderungen an Fahrzeuge und Landanlagen, die für praktische Prüfungen verwendet werden
+  Das Fahrzeug und die Landanlagen müssen ausgestattet sein mit
+  1. Dokumenten, die für die Beurteilung verwendet werden, wie
+    1.1 Sicherheitsrolle (einschließlich Sicherheitsplan und Sicherheitsanweisungen) nach Artikel 30.03 ES-TRIN 2017/1,
+    1.2 Risikobewertung nach Abschnitt I Nummer 1.3 der Anlage 8 zum ES-TRIN 2017/1,
+    1.3 allen sonstigen Unterlagen, die nach Artikel 30.01 Nummer 5 ES-TRIN 2017/1 erforderlich sind, einschließlich eines detaillierten Betriebshandbuchs nach Abschnitt I Nummer 1.4.9 der Anlage 8 zum ES-TRIN 2017/1,
+  2. speziellen Systemen für die Nutzung von LNG,
+    2.1 einem LNG-Bunkersystem einschließlich einer Bunkerstation,
+    2.2 einem LNG-Behältersystem,
+    2.3 einem LNG-Leitungssystem,
+    2.4 einem Gasversorgungssystem,
+    2.5 einem Gasaufbereitungssystem,
+  3. einem geeigneten Maschinenraum,
+    3.1 einem Belüftungssystem,
+    3.2 einem System zur Verhütung und Kontrolle von Leckagen,
+    3.3 einem Überwachungs- und Sicherheitssystem und
+    3.4 der zusätzlichen Feuerlöschanlage.
+  Ein für praktische Prüfungen verwendetes Fahrzeug wird von Artikel 2 der Richtlinie (EU) 2017/2397 erfasst.

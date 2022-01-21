@@ -1,0 +1,117 @@
+# Anlage 12 (zu § 40 Absatz 2)Prüfungsprogramm Schifferzeugnis
+
+Teil 1: Fährschifferzeugnis
+I. Rechtskenntnisse
+  1. Detailkenntnisse aus den folgenden Kapiteln und Anlagen der Polizeiverordnungen:
+    a) Allgemeine Bestimmungen
+    b) Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
+    c) Bezeichnung der Fahrzeuge
+    d) Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgeräte
+    e) Schifffahrtszeichen und Bezeichnung der Wasserstraße
+    f) Fahrregeln
+    g) Regeln für das Stillliegen
+    h) Schallzeichen
+    i) Ölkontrollbuch
+  2. Grundkenntnisse über das Handbuch Sprechfunk
+  3. Grundkenntnisse über das Merkblatt Abfallbeseitigung
+  4. Grundkenntnisse über den Inhalt der Fahrtauglichkeitsbescheinigung nach der Binnenschiffsuntersuchungsordnung
+  5. Aus der Binnenschiffspersonalverordnung
+    a) Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführer
+    b) Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen
+  6. Grundkenntnisse der Unfallverhütungsvorschriften
+  7. Detailkenntnisse der Fährenbetriebsverordnung
+II. Wasserstraßenkenntnisse
+  1. Kenntnisse der beantragten Fährstrecke
+  2. Detailkenntnisse in den Seezeichen und den Betonnungssystemen
+  3. Grundkenntnisse in der Gezeitenlehre
+III. Berufskenntnisse
+  1. Fähigkeiten, das Fahrzeug zu führen, insbesondere
+    a) Vorgänge beim Steuern, Manövriereigenschaften
+    b) Funktion von Steuereinrichtungen und Antrieb
+    c) Einfluss von Strömung, Wind und des Soges
+    d) Schwimmfähigkeit, Stabilität und ihre praktische Anwendung
+    e) Ankern und Festmachen, auch unter schwierigen Bedingungen
+  2. Kenntnisse über die Maschinen, insbesondere
+    a) Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen
+    b) Bedienung, Betriebskontrolle
+    c) Maßnahmen bei Betriebsstörungen
+  3. Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere
+    a) Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks
+    b) Besonderheiten der Rettung von Personen, Schiff und Ladung auf Wasserstraßen der Zonen 1 und 2
+    c) Bedienung von Rettungsgeräten und -ausrüstungen
+    d) Abfallbehandlung und Reinhaltung der Wasserstraßen
+    e) Benachrichtigung von zuständigen Behörden
+    f) Brandverhütung, Feuerlöschwesen
+Teil 2: Sportschifferzeugnis
+I. Rechtskenntnisse
+  1. Detailkenntnisse aus den folgenden Kapiteln und Anlagen der Polizeiverordnungen:
+    a) Allgemeine Bestimmungen
+    b) Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
+    c) Bezeichnung der Fahrzeuge
+    d) Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgeräte
+    e) Schifffahrtszeichen und Bezeichnung der Wasserstraße
+    f) Fahrregeln
+    g) Regeln für das Stillliegen
+    h) Schallzeichen
+    i) Ölkontrollbuch
+  2. Grundkenntnisse über das Handbuch Sprechfunk
+  3. Grundkenntnisse über das Merkblatt Abfallbeseitigung
+  4. Grundkenntnisse über Aufbau und Inhalt der Binnenschiffsuntersuchungsordnung (insbesondere über Sicherheit von Personen und Schiff) sowie den Inhalt der Fahrtauglichkeitsbescheinigung
+  5. Aus der Binnenschiffspersonalverordnung
+    a) Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführer
+    b) Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen
+  6. Grundkenntnisse der Unfallverhütungsvorschriften
+II. Wasserstraßenkenntnisse
+  Grundkenntnisse über die Wasserstraßen (wichtigste geographische, hydrologische, meteorologische und morphologische Merkmale)
+III. Berufskenntnisse
+  1. Fähigkeiten, das Fahrzeug zu führen, insbesondere
+    a) Vorgänge beim Steuern, Manövriereigenschaften
+    b) Funktion von Steuereinrichtungen und Antrieb
+    c) Einfluss von Strömung, Wind und Sog
+    d) Schwimmfähigkeit, Stabilität und ihre praktische Anwendung
+    e) Ankern und Festmachen, auch unter schwierigen Bedingungen
+  2. Kenntnisse über die Maschinen, insbesondere
+    a) Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen
+    b) Bedienung, Betriebskontrolle
+    c) Maßnahmen bei Betriebsstörungen
+  3. Grundkenntnisse über das Stauen von Ladung und Staupläne
+  4. Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere über
+    a) Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks
+    b) Bedienung von Rettungsgeräten und -ausrüstungen
+    c) Abfallbehandlung und Reinhaltung der Wasserstraßen
+    d) Benachrichtigung von zuständigen Behörden
+    e) Brandverhütung, Feuerlöschwesen
+Teil 3: Behördenschifferzeugnis
+I. Rechtskenntnisse
+  1. Detailkenntnisse aus den folgenden Kapiteln bzw. Anlagen der Polizeiverordnungen:
+    a) Allgemeine Bestimmungen
+    b) Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
+    c) Bezeichnung der Fahrzeuge
+    d) Schallzeichen der Fahrzeuge, Sprechfunk, Informations- und Navigationsgeräte
+    e) Schifffahrtszeichen und Bezeichnung der Wasserstraße
+    f) Fahrregeln
+    g) Regeln für das Stillliegen
+    h) Schallzeichen
+    i) Ölkontrollbuch
+  2. Grundkenntnisse über das Handbuch Sprechfunk
+  3. Grundkenntnisse über das Merkblatt Abfallbeseitigung
+  4. Grundkenntnisse über den Inhalt der Fahrtauglichkeitsbescheinigung nach der Binnenschiffsuntersuchungsordnung
+  5. Aus der Binnenschiffspersonalverordnung
+    a) Grundkenntnisse über die Arten von Befähigungszeugnissen für Schiffsführer
+    b) Detailkenntnisse über die Kriterien für die Entziehung und die Aussetzung der Gültigkeit von Befähigungszeugnissen
+II. Wasserstraßenkenntnisse
+  Kenntnisse der Wasserstraßen (wichtigste geographische, hydrologische, meteorologische und morphologische Merkmale)
+III. Berufskenntnisse
+  1. Fähigkeiten, das Fahrzeug zu führen, insbesondere
+    a) Vorgänge beim Steuern, Manövriereigenschaften
+    b) Funktion von Steuereinrichtungen und Antrieb
+    c) Einfluss von Strömung, Wind und des Soges
+    d) Schwimmfähigkeit, Stabilität und ihre praktische Anwendung
+    e) Ankern und Festmachen, auch unter schwierigen Bedingungen
+  2. Kenntnisse über die Maschinen, insbesondere
+    a) Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen
+    b) Bedienung, Betriebskontrolle
+    c) Maßnahmen bei Betriebsstörungen
+  3. Fähigkeit, sich unter besonderen Umständen richtig zu verhalten, insbesondere
+    a) Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks
+    b) Abfallbehandlung und Reinhaltung der Wasserstraßen
