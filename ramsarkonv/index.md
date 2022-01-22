@@ -1,2 +1,1 @@
-# Übereinkommen über Feuchtgebiete, insbesondere als Lebensraum für Wasser-
-und Wattvögel von internationaler Bedeutung
+# Übereinkommen über Feuchtgebiete, insbesondere als Lebensraum für Wasser- und Watvögel von internationaler Bedeutung
