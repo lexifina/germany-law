@@ -1,0 +1,71 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-24T16:00:00+01:00
+- Ende: 2022-01-24T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25552
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25552
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Geplante Umgestaltung Petersbergstraße in Klettenberg (Az.: 02-1600-178-21) und Neugestaltung der Kreuzung Hardt-/ Petersberg-/ Breibergstraße („Klettenplätzchen“) (Az.: 02-1600-190-21) - geändert beschlossen
+- TOP 5.1.1: Änderungsantrag zu 5.1 - ungeändert beschlossen
+- TOP 5.2: Eingabe gem. § 24 GO, betr.: Aufwertung Platzfläche Mommsenstr./Hermeskeiler Str./Zülpicher Strl (Az.: 02-1600-79/21) - geändert beschlossen
+- TOP 5.2.1: Ergänzungsantrag zu 5.2 - ungeändert beschlossen
+- TOP 5.3: Bürgereingabe gem. § 24 GO, betr.: Autofreie Kitschburger Straße und Wochenmarkt an allen Werktagen, Hinweise an Bahn- und Busstationen, Aufwertung Stadtwaldspielplatz (Az.: 02-1600-168/20) - zurückgestellt
+- TOP 5.3.1: Bürgereingabe gem. § 24 GO, betr.: Kitschburger Straße im Kölner Stadtwald für die Menschen weiter öffnen – Autofreie Kitschburger Straße im Stadtwald (Az.: 02-1600-155/21) - zurückgestellt
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer zweckgebundenen Spende für Baumpflanzungen auf dem Spielplatz Linzer Straße in Sülz - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrsaufkommen auf der Kitschburger Straße - Kenntnis genommen
+- TOP 7.1.2: Wildplakatierung auf der Dürener Str., Zülpicher Str. sowie Lindenthalgürtel - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge
+- TOP 8.1.1: Poller an der Einmündung Sankt-Georg-Straße/An der Ronne - ungeändert beschlossen
+- TOP 8.1.2: Schattenspendende Stadtmöblierung - ungeändert beschlossen
+- TOP 8.1.3: Urftraße in Spielstraße umwandeln - zurückgestellt
+- TOP 8.1.4: Waldkita Raschelbande - ungeändert beschlossen
+- TOP 8.1.5: "Schmöker Bank" in Widdersdorf - geändert beschlossen
+- TOP 8.1.5.1: Ergänzungsantrag - ungeändert beschlossen
+- TOP 8.1.6: Prüfantrag: Erhöhung der Sicherheit in den Abendstunden rund um die Jahnwiesen - ungeändert beschlossen
+- TOP 8.1.7: Prüfantrag Abstellen von E-Scootern im öffentlichen Straßenraum - geändert beschlossen
+- TOP 8.1.8: Ermittlung von mutmaßlichen regelmäßigen nächtlichen Lärmbelästigungen - ungeändert beschlossen
+- TOP 8.1.9: Klosterkirche "Zum guten Hirten" - ungeändert beschlossen
+- TOP 8.1.10: Dringlichkeitsantrag Max Becker Areal - ungeändert beschlossen
+- TOP 8.2: Entscheidungen
+- TOP 8.3: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Hundefreilauffläche in Lövenich und/oder Widdersdorf - geändert beschlossen
+- TOP 9.1.2: Standorte für Papierkörbe mit Pendelklappen in Grünanlagen - ungeändert beschlossen
+- TOP 9.1.3: Baubeschluss Förderprogramm REACT-EU „Grüne Infrastruktur – Artenreiche Wiesen Köln“ - ungeändert beschlossen
+- TOP 9.1.4: Sportentwicklungsplanung: Beachvolleyballanlage auf der Bezirkssportanlage Weiden - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Straßenunterhaltungsmaßnahme im Kölner Stadtgebiet (Lindenthal) Baumaßnahme: Generalsanierung Feldblumenweg/Anemonenweg - ungeändert beschlossen
+- TOP 9.2.2: Max-Becker-Areal in Köln-Ehrenfeld;hier: Ablauf des Städtebaulich-freiraumplanerischen Wettbewerbs und Vorgaben für die Auslobung inklusive Ideenteil - geändert beschlossen
+- TOP 9.2.2.1: Änderungsantrag zu Max Becker Areal - ungeändert beschlossen
+- TOP 9.2.3: Kapazitätserweiterung auf der Ost-West-Achse - Linie 1 - geändert beschlossen
+- TOP 9.2.3.1: Ergänzunsantrag zu 9.2.3 - ungeändert beschlossen
+- TOP 9.2.4: Schulrechtliche Errichtung einer Grundschule am Standort Alfons-Nowak-Straße 2, 50858 Köln bei gleichzeitiger Auflösung des Teilstandortes der Ildefons-Herwegen-Grundschule am Standort Donauweg 30, 50858 Köln-Junkersdorf zum Schuljahr - ungeändert beschlossen
+- TOP 9.2.5: Stellplatzsatzung für Köln - ungeändert beschlossen
+- TOP 9.2.6: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Raschelbande e.V." - ungeändert beschlossen
+- TOP 9.2.7: Förderprogramm "Dritte Orte" - 1. Genehmigung für die Förderphase 2022ff
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: AN 0422-2021 Aufstellen weiterer Papierkörbe im Bereich Kitschburger Straße - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Bündelungsgymnasien in Köln in den Schuljahren 2023/24 bis 2025/26 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
