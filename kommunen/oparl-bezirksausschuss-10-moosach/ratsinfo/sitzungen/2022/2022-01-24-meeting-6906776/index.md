@@ -1,0 +1,55 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-01-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6906776
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6906776
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Verkehrsführungsprobleme Moosach (1. Kreuzung Allacher Straße/ Wintrichring, 2. Busverkehr Netzerstraße, 3. Durchfahrtsstraße Netzerstraße)
+- TOP 2.2.: Verkehrssituation vor dem Bahnhof Moosach
+- TOP 2.3.: Einmündung Kapellenäckerstraße in die Bauberger Straße: Anbringung von Verkehrsspiegeln
+- TOP 2.4.: Neubau Schwimmhalle an der Grundschule Welzenbachstraße: Zugänglichkeitmachung für die Öffentlichkeit
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Thematik "Tempo30 in der Gröbenzeller-/Untermenzinger Straße"
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Triebstr. 7 2. Untermenzinger Str. 1 3. Eckehartstr. 2
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage: Ausweisung eines Netzes von Fahrradstraßen in Moosach
+- TOP 4.1.2.: Keine Abschaltung der Bedarfsampel für Fußgänger Allacher Straße/ Ecke Ambossstraße
+- TOP 4.1.3.: Reparaturarbeiten/Verbesserungsarbeiten im Amphionpark, um die Sicherheit der Kinder zu erhöhen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Erzählkunst Bayern e.V. DIE GESCHICHTENSTUNDE - Erzählen in der Schule vom 01.02. - 31.12.2022 4.000,00 €; Az. 0262.0-10-0279
+- TOP 5.2.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Mehr Medienkompetenz am 24./25.02.2022 1.270,30 Euro, Az.: 0262.0-10-0281
+- TOP 5.3.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 28.02. - 04.03.2022 4.957,00 Euro, Az.: 0262.0-10-0280
+- TOP 5.4.: Entscheidung gemäß OB-Vollmacht: Projektplanung B-Plan 1927a Emmy-Noether-Straße
+- TOP 6.: Anhörungen
+- TOP 6.3.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG): Fa. Krauss-Maffei ; Anpassung des Genehmigungsantrages für eine Lackieranlage [-> vertagt aus Sitzung am 20.12.2021]
+- TOP 6.4.: Sommerstraßen 2022 (Anmeldeverfahren) [-> vertagt aus Sitzung am 20.12.2021]
+- TOP 6.5.: Beschlussentwurf: Analoge und digitale Öffentlichkeitsbeteiligun in der Landeshauptstadt München [-> vertagt aus Sitzung am 20.12.2021]
+- TOP 6.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Parklizenz Borstei, Postillonstraße: Neuregelungen Parken
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Stärkerer Ausbau von Photovoltaik auf öffentlichen Gebäuden [BA-Antrag Nr. 20-26/B 03003; vgl. SV Nr. 14-20/V 016525. PV-Zubau im Stadtgebiet wird forciert].
+- TOP 7.2.: Fertigstellung der Dirtbike-Anlage an der Triebstraße/Moosacher Straße (beim Leonardo-Hotel) [Schreiben BA10 vom 28.10.2021; 10/21 wurde die Anlage zur Nutzung freigegeben und Sommer 2020 wurde Ausgleichsfläche fertiggestellt.]
+- TOP 7.3.: Protokoll des Nachtspaziergangs (Thema "Beleuchtungssituationen") am 06.12.2021
+- TOP 7.4.: Anbringung von Trixi-Spiegeln an der Kreuzung Feldmochinger Straße / Max-Born-Straße [Schreiben BA10 vom 27.01.2021; neuer Standort als Auftrag vorgesehen.]
+- TOP 7.5.: Austausch der Wasserhähne im Westfriedhof [Schreiben BA10 vom 28.10.2021; in allen Friedhöfen sind bewährte sog. Schrägsitzventile verbaut; Betätigungsbeeinträchtigungen werden umgehend behoben.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 StVO: Alzeyer Str.; Errichtung absolutes Haltverbot
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Eckehartstr. 2
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Bingener Str. 18 2. Warschauer Str. 10
+- TOP 6.1.: Klimaschutz konkret - "Klima-Ausschuss" in jedem Bezirksausschuss
+- TOP 6.2.: Verkehrsrechtliche Anhörung nach § 45 StVO: Änderung Parkraum Lauinger Straße
+- TOP 4.: Anträge
