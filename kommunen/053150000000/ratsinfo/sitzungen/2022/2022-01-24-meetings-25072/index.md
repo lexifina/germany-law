@@ -1,0 +1,57 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-24T17:00:00+01:00
+- Ende: 2022-01-24T18:13:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25072
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25072
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag der FDP-Fraktion betreffend "Bearbeitungsstau bei den Bürgerämtern auflösen" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Beantwortung einer Anfrage: Netzwerk gegen häusliche Gewalt – Statistik 2020 - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Tätigkeitsbericht 2021 Büro für Europa und Internationales - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage zum Evaluierungsbericht des Sachstandsberichtes der Stadt Köln zum 10-Punkte-Aktionsplan - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage gem. §4 der Geschäftsordnung des Rates, AN/2013/2021 der SPD-Fraktion "Entsorgung von Schrottfahrrädern auf Fahrradabstellflächen" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündliche Anfrage von Monika Möller (SB) zur zugenommenen Gewaltbereitschaft - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage betreffend "Maskenpflicht in der Innenstadt" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Anfrage (AN/2473/2021) betreffend "Handeln der Verwaltung im Hinblick auf die StVO Novelle" - Kenntnis genommen
+- TOP 3.6: Beantwortung einer Anfrage (AN/2200/2021) betreffend "Antragsstau bei den Ausländerämtern in Köln: Werden nun endlich Stellen zugesetzt?" (AN/2200/2021)
+- TOP 3.7: Beantwortung einer mündlichen Anfrage: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Inklusionsbericht 2020 - Kenntnis genommen
+- TOP 4.2: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 4.3: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 21. Dezember 2021 - Kenntnis genommen
+- TOP 4.4: Sachstandsbericht Prüfung der Anwendung der Sponsoring-Richtlinie bei der Stadt Köln - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der SPD-Fraktion betreffend "Bußgeldbescheide gegen Obdachlose" - Kenntnis genommen
+- TOP -: Bußgeldbescheide gegen Obdachlose - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Impfstatus"
+- TOP 7.2: Mündliche Anfrage der SPD-Fraktion betreffend "Brandschutzbedarfspläne"
+- TOP 7.3: Anfrage der FDP-Fraktion betreffend "Nachweise für eine Coronainfektion"
+- TOP 7.4: Anfrage der AfD-Fraktion betreffend "Razzia in Kölner Shisha-Bars"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion, der Volt Fraktion betreffen "Bewerbung Förderbaustein 3 - Kommunales Integrationsmanagement NRW (KIM)" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Änderung der Hauptsatzung, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen - ungeändert beschlossen
+- TOP 10.2: Bedarfsfeststellung zur Neubeschaffung eines Datenerfassungssystems im Kölner Rettungsdienst und Abschluss eines Fünf-Jahres Rahmenliefervertrages - ungeändert beschlossen
+- TOP 10.3: Externe Unterstützung für den Aufbau eines Innovationsbüros - ungeändert beschlossen
+- TOP 10.4: 'Integrationsbudget' - Verteilung der Finanzmittel in 2022 - ungeändert beschlossen
+- TOP 10.5: Abbruch Bezirksrathaus Rodenkirchen, Hauptstraße 85, 50996 Köln - ungeändert beschlossen
+- TOP 10.6: Änderung der Luftrettungssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.7: Verfassungsbeschwerde GFG - ungeändert beschlossen
+- TOP 10.8: Honorarordnung für die Familienberatung und den Schulpsychologischen Dienst der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Einrichtung eines kommunalen Medienzentrums - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
