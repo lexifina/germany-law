@@ -115,18 +115,18 @@
 
 ### Unterabschnitt 1 Prüfer von Luftfahrtgerät
 
-- [§ 104 Fachliche Voraussetzungen](0104.md)
-- [§ 105 Ersetzbarkeit der Berufsausbildung](0105.md)
-- [§ 106 Anrechenbarkeit, Ersetzbarkeit der beruflichen Tätigkeit](0106.md)
-- [§ 107 Prüfung](0107.md)
-- [§ 108 Erteilung und Umfang der Erlaubnis, Ausweis für Prüfer von Luftfahrtgerät](0108.md)
-- [§ 109 Gültigkeitsdauer, Verlängerung und Erneuerung der Erlaubnis](0109.md)
-- [§ 110 Musterberechtigung für Prüfer von Luftfahrtgerät](0110.md)
-- [§ 111 Erteilung und Umfang der Musterberechtigung](0111.md)
+- [§ 104 Erteilung und Umfang der Erlaubnis für Prüfer von Luftfahrtgerät](0104.md)
+- [§ 105 Musterberechtigung für Prüfer von Luftfahrtgerät](0105.md)
+- [§ 106 Fachliche Voraussetzungen für die Erteilung der Erlaubnis](0106.md)
+- [§ 107 Ersetzbarkeit der Berufsausbildung](0107.md)
+- [§ 108 Anrechenbarkeit praktischer Erfahrung, Ersetzbarkeit der beruflichen Tätigkeit](0108.md)
+- [§ 109 Prüfung](0109.md)
+- [§ 110 Gültigkeitsdauer, Verlängerung und Erneuerung der Erlaubnis](0110.md)
+- [§ 111 (weggefallen)](0111.md)
 
 ### Unterabschnitt 2 Freigabeberechtigtes Personal
 
-- [§ 111a Fachliche Voraussetzungen, Prüfungen, Erteilung und Umfang der Erlaubnis](0111a.md)
+- [§ 111a Fachliche Voraussetzungen, Prüfungen, Erteilung und Umfang der Erlaubnis für freigabeberechtigtes Personal](0111a.md)
 
 ### Unterabschnitt 3 Flugdienstberater
 
@@ -191,7 +191,7 @@
 - [Muster 6 (weggefallen)](muster-6.md)
 - [Muster 7](muster-7.md)
 - [Muster 8 Luftfahrerschein für Flugtechniker auf Hubschraubern](muster-8.md)
-- [Muster 9a Luftfahrerschein für Fallschirmspringer](muster-9a.md)
+- [Muster 9a Ausweis für Prüfer von Luftsportgerät](muster-9a.md)
 - [Muster 10 Luftfahrerschein für Flugdienstberater](muster-10.md)
 - [Muster 11 Ausweis für Steuerer von Flugmodellen und von sonstigem für die Benutzung des Luftraums bestimmten Luftfahrtgerät](muster-11.md)
 - [Anlage 2 (zu § 125a)](anlage-2.md)

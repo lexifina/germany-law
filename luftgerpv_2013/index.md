@@ -8,7 +8,7 @@
 - [§ 3 Einzelstückprüfung](0003.md)
 - [§ 4 Anerkennung der Musterprüfung anderer Stellen](0004.md)
 - [§ 5 Anerkennung der Herstellungsnachweise anderer Stellen](0005.md)
-- [§ 6 Anerkennung der Instandhaltungsnachweise anderer Stellen](0006.md)
+- [§ 6 Anerkennung der Nachweise anderer Stellen über die Aufrechterhaltung der Lufttüchtigkeit](0006.md)
 - [§ 7 Genehmigung von Kleinbetrieben](0007.md)
 - [§ 8 Behebung von Mängeln des Musters](0008.md)
 
@@ -20,7 +20,7 @@
 
 ## Dritter Abschnitt Instandhaltung
 
-- [§ 12 Durchführung der Instandhaltungsmaßnahmen](0012.md)
+- [§ 12 Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit](0012.md)
 - [§ 13 Nachprüfungen](0013.md)
 - [§ 14 Angeordnete Maßnahmen](0014.md)
 

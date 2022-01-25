@@ -1,7 +1,7 @@
 # Anlage Gebührenverzeichnis(zu § 2 Absatz 1)
 
 Inhaltsverzeichnis
-| I. | Anerkennungen, Genehmigungen und Ermächtigungen bei der Entwicklung, Herstellung oder Instandhaltung von Luftfahrtgerät |
+| I. | Anerkennungen, Genehmigungen und Ermächtigungen im Rahmen der Entwicklung, Herstellung und Aufrechterhaltung der Lufttüchtigkeit einschließlich Instandhaltung von Luftfahrtgerät |
 | II. | Zulassung von Luftfahrtgerät und Eintragung von Luftfahrzeugen |
 | III. | Prüfungen und Überprüfungen von Luftfahrt- und Flugsicherungspersonal für Erlaubnisse und Berechtigungen |
 | IV. | Lizenzen, Luftfahrerscheine, Erlaubnisse (Registrierung) und Berechtigungen für Luftfahrt- und Flugsicherungspersonal |
@@ -12,37 +12,38 @@ Die in diesem Gebührenverzeichnis enthaltenen Verweisungen auf JAR-Regelungen b
 – JAR-OPS 3 deutsch (BAnz. Nr. 130a vom 1. Juli 2002, berichtigt durch Bekanntmachung vom 10. Januar 2003, BAnz. S. 1172),
 – JAR-FCL 4 deutsch (BAnz. Nr. 81b vom 30. April 2003),
 – EU-OPS 1 (Anhang III der Verordnung (EWG) Nr. 3922/91 des Rates vom 16. Dezember 1991 zur Harmonisierung der technischen Vorschriften und der Verwaltungsverfahren in der Zivilluftfahrt (ABl. L 373 vom 31.12.1991, S. 4), die zuletzt durch die Verordnung (EG) Nr. 859/2008 (ABl. L 254 vom 20.9.2008, S. 1) geändert worden ist).
-I. Anerkennungen, Genehmigungen und Ermächtigungen bei der Entwicklung, Herstellung oder Instandhaltung von Luftfahrtgerät
+I. Anerkennungen, Genehmigungen und Ermächtigungen im Rahmen der Entwicklung, Herstellung und Aufrechterhaltung der Lufttüchtigkeit einschließlich Instandhaltung von Luftfahrtgerät
   | Gebührentatbestand | Gebühr |
   | 1. | Entwicklung |  |
-  |  | a) | Genehmigung eines Entwicklungsbetriebs (§ 2 Absatz 2 LuftGerPV, Verordnung (EU) Nr. 748/2012 der Kommission vom 3. August 2012 zur Festlegung der Durchführungsbestimmungen für die Erteilung von Lufttüchtigkeits- und Umweltzeugnissen für Luftfahrzeuge und zugehörige Produkte, Bau- und Ausrüstungsteile sowie für die Zulassung von Entwicklungs- und Herstellungsbetrieben Anhang Teil 21 Abschnitt J) | 600 bis 14 000 EUR |
-  |  | b) | Erweiterung der Genehmigung nach Buchstabe a | 3/10 bis 5/10 der Gebühr für die Genehmigung |
-  |  | c) | Änderung der Genehmigung nach Buchstabe a | 2/10 bis 5/10 der Gebühr für die Genehmigung |
+  |  | a) | Genehmigung eines Entwicklungsbetriebs (§ 2 Absatz 2 LuftGerPV) | 600 bis 14 000 EUR |
+  |  | b) | Änderung der Genehmigung nach Buchstabe a | 2/10 bis 5/10 der Gebühr für die Genehmigung |
   | 2. | Herstellung |  |
   |  | a) | Genehmigung eines Herstellungsbetriebs (§ 2 Absatz 2 LuftGerPV, Verordnung (EU) Nr. 748/2012 Anhang Teil 21 Abschnitt G) | 600 bis 14 000 EUR |
-  |  | b) | Erweiterung der Genehmigung nach Buchstabe a | 3/10 bis 5/10 der Gebühr für die Genehmigung |
-  |  | c) | Änderung der Genehmigung nach Buchstabe a | 2/10 bis 5/10 der Gebühr für die Genehmigung |
-  |  | d) | Anerkennung der Herstellungsnachweise anderer Stellen (§ 5 LuftGerPV) | 500 EUR |
-  |  | e) | Zustimmung zur Herstellung von Luftfahrtgerät oder -teilen ohne Genehmigung als Herstellungsbetrieb (§ 9 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 748/2012 Anhang Teil 21 Abschnitt F) | 500 bis 5 000 EUR |
-  |  | f) | Genehmigung eines Herstellungsbetriebs für Luftsportgerät oder Erweiterung oder Änderung der Genehmigung (§ 10 LuftGerPV) | 300 EUR |
-  | 3. | Instandhaltung und Genehmigung von Organisationen für die Aufrechterhaltung der Lufttüchtigkeit |  |
-  |  | a) | Genehmigung eines Instandhaltungsbetriebs (§ 2 Absatz 2 LuftGerPV, Verordnung (EU) Nr. 1321/2014 der Kommission vom 26. November 2014 über die Aufrechterhaltung der Lufttüchtigkeit von Luftfahrzeugen und luftfahrttechnischen Erzeugnissen, Teilen und Ausrüstungen und die Erteilung von Genehmigungen für Organisationen und Personen, die diese Tätigkeiten ausführen (ABl. L 362 vom 17.12.2014, S. 1) in der jeweils geltenden Fassung) | 500 bis 14 000 EUR |
-  |  | b) | Erweiterung der Genehmigung nach Buchstabe a | 3/10 bis 5/10 der Gebühr für die Genehmigung |
-  |  | c) | Änderung der Genehmigung nach Buchstabe a | 2/10 bis 5/10 der Gebühr für die Genehmigung |
-  |  | d) | Genehmigung eines Unternehmens zur Führung der Aufrechterhaltung der Lufttüchtigkeit (§ 2 Absatz 2 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang I Abschnitt A Unterabschnitt G) | 500 bis 14 000 EUR |
-  |  | e) | Erweiterung der Genehmigung nach Buchstabe d | 3/10 bis 5/10 der Gebühr der Genehmigung |
-  |  | f) | Änderung der Genehmigung nach Buchstabe d | 2/10 bis 5/10 der Gebühr der Genehmigung |
-  |  | g) | Anerkennung der Instandhaltungsnachweise anderer Stellen (§ 6 LuftGerPV) | 80 bis 450 EUR |
-  |  | h) | Verlängerung der Zeitabstände für die Nachprüfung (§ 12 Absatz 4 LuftGerPV) | 90 bis 300 EUR |
+  |  | b) | Änderung der Genehmigung nach Buchstabe a | 2/10 bis 5/10 der Gebühr für die Genehmigung |
+  |  | c) | Anerkennung der Herstellungsnachweise anderer Stellen (§ 5 LuftGerPV) | 500 EUR |
+  |  | d) | Zustimmung zur Herstellung von Luftfahrtgerät oder -teilen ohne Genehmigung als Herstellungsbetrieb (§ 9 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 748/2012 Anhang Teil 21 Abschnitt F) | 500 bis 5 000 EUR |
+  |  | e) | Genehmigung eines Herstellungsbetriebs für Luftsportgerät oder Erweiterung oder Änderung der Genehmigung (§ 10 LuftGerPV) | 300 EUR |
+  | 3. | Aufrechterhaltung der Lufttüchtigkeit |  |
+  |  | a) | Genehmigung eines Instandhaltungsbetriebs (§ 2 Absatz 2 LuftGerPV, Verordnung (EU) Nr. 1321/2014 in der jeweils geltenden Fassung) | 500 bis 14 000 EUR |
+  |  | b) | Änderung der Genehmigung nach Buchstabe a | 2/10 bis 5/10 der Gebühr für die Genehmigung |
+  |  | c) | Genehmigung eines Unternehmens zur Führung der Aufrechterhaltung der Lufttüchtigkeit (§ 2 Absatz 2 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang I Abschnitt A Unterabschnitt G oder Anhang Vc Abschnitt A) | 500 bis 14 000 EUR |
+  |  | d) | Änderung der Genehmigung nach Buchstabe c | 2/10 bis 5/10 der Gebühr für die Genehmigung |
+  |  | e) | Genehmigung einer kombinierten Lufttüchtigkeitsorganisation (§ 2 Absatz 2 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang Vd (Teil-CAO)) | 500 bis 14 000 EUR |
+  |  | f) | Änderung der Genehmigung nach Buchstabe e | 2/10 bis 5/10 der Gebühr für die Genehmigung |
+  |  | g) | Anerkennung der Nachweise anderer Stellen über die Aufrechterhaltung der Lufttüchtigkeit (§ 6 LuftGerPV) | 80 bis 450 EUR |
+  |  | h) | Verlängerung der Zeitabstände für Instandhaltungsmaßnahmen (§ 12 Absatz 4 LuftGerPV) | 90 bis 300 EUR |
   |  | i) | Genehmigung eines Herstellungsbetriebs für Luftsportgerät für die Instandhaltung oder Erweiterung der Genehmigung (§ 2 Absatz 2 und 3 LuftGerPV) | 300 EUR |
   |  | j) | Genehmigung oder Änderung eines Instandhaltungsprogramms (§ 12 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang I Absatz M.A.302) | 100 bis 2 000 EUR |
-  |  | k) | Ausstellung der Bescheinigung über die Prüfung der Lufttüchtigkeit (§ 12 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang I Absatz M.A.901 Buchstabe d, e, h und i) | 100 bis 1 000 EUR |
-  | 4. | Sonstige Amtshandlungen im Bereich der Prüfung von Luftfahrtgerät |  |
+  | 4. | Sonstige Amtshandlungen im Bereich der Entwicklung, Herstellung und Aufrechterhaltung der Lufttüchtigkeit von Luftfahrtgerät |  |
   |  | a) | Erteilung einer Ausnahme für die Herstellung im Amateurbau (§ 9 Absatz 4 LuftGerPV) | 220 EUR |
-  |  | b) | Ermächtigung zur Durchführung bestimmter Instandhaltungen und Änderungen (§ 12 Absatz 1 und 4 LuftGerPV) | 60 bis 600 EUR |
+  |  | b) | Ermächtigung zur Durchführung bestimmter Instandhaltungsmaßnahmen (§ 12 Absatz 4 LuftGerPV) | 60 bis 600 EUR |
   |  | c) | Änderung oder Neuausstellung der Genehmigungsurkunde eines Betriebs nach den Nummern 1, 2 und 3 | 90 EUR |
   |  | d) | Gutachterliche Tätigkeit im Zusammenhang mit ausländischer Genehmigung eines Betriebs nach Nummer 1, 2 oder 3 oder den zugehörigen Zeugnissen und Bescheinigungen je angefangene Tätigkeitsstunde einschließlich der An- und Abfahrtzeiten zu auswärtigen Dienststätten | 65 bis 110 EUR |
-  |  | e) | Anerkennung des verantwortlichen Personals im Instandhaltungsbetrieb oder in der Organisation zur Aufrechterhaltung der Lufttüchtigkeit (§ 12 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang I Abschnitt A Absatz M.A.706 und 707, Anhang II Abschnitt A Absatz 145.A.30 sowie Abschnitt B Absatz 145.B.20 Nummer 1 und 4) | 100 bis 1 800 EUR |
+  |  | e) | Anerkennung des verantwortlichen Personals im Entwicklungsbetrieb, Herstellungsbetrieb, Instandhaltungsbetrieb, in der kombinierten Lufttüchtigkeitsorganisation oder in der Organisation zur Aufrechterhaltung der Lufttüchtigkeit (§ 12 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 748/2012 Anhang I, Abschnitt A Absatz 21.A.145 Buchstabe c Nummer 1 und Absatz 21.A.145 Buchstabe c Nummer 2, Verordnung (EU) Nr. 1321/2014 Anhang I Abschnitt A Absatz M.A.706 und 707, Anhang II Abschnitt A Absatz 145.A.30 sowie Abschnitt B Absatz 145.B.20 Nummer 1 und 4, Anhang I Abschnitt A Absatz M.A.606(a) und Absatz M.A.606(b) sowie Abschnitt B Absatz M.B.602(a) und M.B.606, Anhang Vd Abschnitt A Absatz CAO.A.035(a) und Absatz CAO.A.035(b) sowie Abschnitt B Absatz CAO.B.65, Anhang Vc Abschnitt A Absatz CAMO.A.305 und Absatz CAMO.A.310 sowie Abschnitt B Absatz CAMO.B.330) | 100 bis 1 800 EUR |
+  |  | f) | Ausstellung der Bescheinigung über die Prüfung der Lufttüchtigkeit (§ 12 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang I (Teil-M) Absatz M.A.901, Anhang Vb (Teil-ML) Absatz ML.A.901) | 100 bis 1 000 EUR |
+  |  | g) | Durchführung der Prüfung der Lufttüchtigkeit (Verordnung (EU) Nr. 1321/2014 Anhang Vb (Teil-ML) Absatz ML.A.901) | 500 bis 2 000 EUR |
+  |  | h) | Prüfungen und Überprüfungen für die Erteilung der Erlaubnis als Lufttüchtigkeitsprüfpersonal, das im eigenen Namen handelt (Verordnung (EU) Nr. 1321/2014 Anhang Vb (Teil-ML) Absatz ML.A.904(c)) | 100 bis 700 EUR |
+  |  | i) | Prüfungen und Überprüfungen zur Verlängerung der Gültigkeit der Erlaubnis als Lufttüchtigkeitsprüfpersonal, das im eigenen Namen handelt (Verordnung (EU) Nr. 1321/2014 Anhang Vb (Teil-ML) Absatz ML.A.904(d)) | 100 bis 400 EUR |
   | 5. | Anerkennung von Produktspezifikationen für Bau- und Ausrüstungsteile (§ 9 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 748/2012 Anhang Teil 21 Abschnitt K) |  |
   |  | a) | Grundgebühr je Anerkennung | 70 EUR |
   |  | b) | Zuschlag je angefangene Tätigkeitsstunde für alle Tätigkeiten im Zusammenhang mit der Anerkennung der Produktspezifikation | 65 bis 110 EUR |
@@ -226,11 +227,15 @@ III. Prüfungen und Überprüfungen von Luftfahrt- und Flugsicherungspersonal f�
   |  | c) | von Flugingenieuren (JAR-FCL 4 Abschnitt H; Anhang I FCL.935 und FCL.935.TRI der Verordnung (EU) Nr. 1178/2011; § 88 LuftPersV) | 100 bis 500 EUR |
   | 21. | Abnahme einer Kompetenzbeurteilung zur Berechtigung, Segelflugzeugführer, Luftschiffführer und Ballonführer auszubilden (Anhang I FCL. 935 der Verordnung (EU) Nr. 1178/2011) |  |
   | 22. | Abnahme einer Prüfung zur Berechtigung, Luftsportgeräteführer auszubilden (§ 95a Absatz 1 Satz 1 Nummer 3 LuftPersV) | 35 bis 150 EUR |
-  | 23. | Ausstellung der Erlaubnis für Prüfer von Luftfahrtgerät (§ 108 LuftPersV) |  |
-  |  | a) | für die Klassen 1, 3 und 5 (§§ 105, 107 LuftPersV) | 270 EUR |
-  |  | b) | für Klasse 4 (§ 107 LuftPersV) | 240 EUR |
-  |  | c) | bei Erweiterung der Erlaubnis für die Klassen 1, 3 und 4 (§§ 107, 108 Absatz 3 LuftPersV) | 5/10 bis 10/10 der jeweils für die Gesamtprüfung vorgesehenen Gebühr |
-  |  | d) | für Musterberechtigungen | 130 bis 600 EUR |
+  | 23. | Überprüfungen zur Erteilung, Änderung, Verlängerung oder Erneuerung der Erlaubnis für Prüfer von Luftfahrtgerät (§§ 104 bis 110 LuftPersV) |  |
+  |  | a) | für die Klasse 4 (§§ 104, 106 LuftPersV) | 240 EUR |
+  |  | b) | für die Klasse 5 (§§ 104, 106 LuftPersV) | 270 EUR |
+  |  | c) | bei Änderung der Erlaubnis für die Klasse 4 (§ 104 Absatz 2 und 3 LuftPersV) | 5/10 bis 10/10 der jeweils für die Gesamtprüfung vorgesehenen Gebühr |
+  |  | d) | für Musterberechtigungen in der Klasse 4 (§ 105 LuftPersV) | 130 bis 600 EUR |
+  |  | e) | Prüfung eines Antrags auf Anrechnung von Qualifikationen, auf Anrechnung oder Ersetzbarkeit der Berufsausbildung oder auf Anrechnung beruflicher Tätigkeiten (§§ 106 bis 108, § 129 LuftPersV) | 1/10 bis 5/10 der jeweils für die Gesamtprüfung nach Buchstabe a oder b vorgesehenen Gebühr |
+  |  | f) | Abnahme einer theoretischen Prüfung (§ 109 LuftPersV) | 50 bis 300 EUR |
+  |  | g) | Abnahme einer praktischen Prüfung (§ 109 LuftPersV) | 50 bis 300 EUR |
+  |  | h) | Verlängerung oder Erneuerung eines Ausweises für Prüfer von Luftfahrtgerät (§ 110 LuftPersV) | 1/10 bis 5/10 der jeweils für die Gesamtprüfung nach Buchstabe a oder b vorgesehenen Gebühr |
   | 24. | Flugdienstberater (§ 113 LuftPersV) |  |
   |  | a) | Abnahme der theoretischen Prüfung | 380 EUR |
   |  | b) | Abnahme der praktischen Prüfung | 130 EUR |
@@ -241,19 +246,25 @@ III. Prüfungen und Überprüfungen von Luftfahrt- und Flugsicherungspersonal f�
   | 25a. | Ausstellen einer Bescheinigung nach § 21f Absatz 2 LuftVO | 25 EUR |
   | 26. | Abnahme der Prüfung zum Erwerb von Lizenzen, Erlaubnissen und Berechtigungen für Fluglotsen (§§ 10, 11, 13, 14, 19 FSPersAV) sowie Abnahme der Prüfung zum Erwerb der Erlaubnis und der Berechtigungen für das sonstige Flugsicherungsbetriebspersonal (§§ 34, 35, 37, 38, 41 FSPersAV) sowie Überprüfung im Rahmen der §§ 27 und 43 FSPersAV | 1 100 bis 3 750 EUR |
   | 27. | Abnahme der Prüfung zum Erwerb der Erlaubnis und der Berechtigungen für das flugsicherungstechnische Personal (§§ 34, 35, 37, 38, 41 FSPersAV) sowie Überprüfung im Rahmen des § 43 FSPersAV | 250 bis 1 100 EUR |
-  | 28. | Abnahme der Prüfung bei Wiederholung einer nicht bestandenen Prüfung oder Überprüfung (§ 128 Absatz 6 und 7 sowie § 128a Absatz 3 und 4 LuftPersV; Anhang I FCL.025, FCL.125, FCL.235, FCL.320 und FCL.520.A und H der Verordnung (EU) Nr. 1178/2011) | 3/10 bis 10/10 der für die betreffende Prüfung oder Überprüfung vorgesehenen Gebühr |
+  | 28. | Abnahme der Prüfung bei Wiederholung einer nicht bestandenen Prüfung oder Überprüfung (§ 128 Absatz 6 und 7 LuftPersV; Anhang I FCL.025, FCL.125, FCL.235, FCL.320 und FCL.520.A und H der Verordnung (EU) Nr. 1178/2011) | 3/10 bis 10/10 der für die betreffende Prüfung oder Überprüfung vorgesehenen Gebühr |
   | 29. | Verlängerung oder Erneuerung der Erlaubnisse und Berechtigungen beziehungsweise, um die Rechte aus einer Erlaubnis weiter ausüben zu dürfen, sowie Durchführung der Lehrgänge für Luftsportgerätepersonal (Nummern 1, 3 bis 14 sowie 20 bis 22) | 5/10 bis 10/10 der für die Prüfung für den Erwerb der betreffenden Erlaubnis oder Berechtigung vorgesehenen Gebühr |
   | 30. | Erteilung einer entsprechenden zivilen Erlaubnis oder Berechtigung für Inhaber einer militärischen Erlaubnis (JAR-FCL 4.020 deutsch; Artikel 10 der Verordnung (EU) Nr. 1178/2011; § 12 LuftPersV) | 3/10 bis 10/10 der für die entsprechende zivile Erlaubnis oder Berechtigung vorgesehenen Gebühr |
   | 31. | Anordnung oder Untersagung nach § 20 LuftPersV | 100 bis 260 EUR |
-  | 32. | Erteilung der Berechtigung für freigabeberechtigtes Personal (§ 111a LuftPersV; Artikel 5 der Verordnung (EU) Nr. 1321/2014 |  |
+  | 32. | Überprüfungen zur Erteilung, Änderung, Verlängerung oder Erneuerung der Lizenz und eingetragener Berechtigungen für freigabeberechtigtes Personal (§ 111a LuftPersV; Artikel 5 der Verordnung (EU) Nr. 1321/2014) |  |
   |  | a) | Kategorie A | 150 EUR |
   |  | b) | Kategorie B1 | 240 EUR |
   |  | c) | Kategorie B2 | 240 EUR |
   |  | d) | Kategorie B3 | 240 EUR |
   |  | e) | Kategorie C | 270 EUR |
-  |  | f) | alle anderen Kategorien | 150 EUR |
-  |  | g) | Erweiterung der Berechtigung der Kategorien A bis C | 5/10 bis 10/10 der jeweils für die Gesamtprüfung nach den Buchstaben a bis d vorgesehenen Gebühr |
-  |  | h) | Muster- und Gruppenberechtigung | 130 bis 600 EUR |
+  |  | f) | Kategorie L | 150 bis 240 EUR |
+  |  | g) | alle anderen Kategorien | 150 EUR |
+  |  | h) | Änderung des Berechtigungsumfanges innerhalb einer Kategorie (nach den Buchstaben a bis g) | 5/10 bis 10/10 der jeweils für die Gesamtprüfung nach den Buchstaben a bis g vorgesehenen Gebühr |
+  |  | i) | Luftfahrzeugmusterberechtigung – Einzelmuster | 130 bis 600 EUR |
+  |  | j) | Luftfahrzeugmusterberechtigung – Gruppenberechtigung | 500 bis 2 000 EUR |
+  |  | k) | Prüfung eines Antrags auf Anrechnung von Qualifikationen, Prüfung eines Umwandlungsberichtes (Unterabschnitte D und E von Anhang III (Teil-66) der Verordnung (EU) Nr. 1321/2014) | 1/10 bis 5/10 der jeweils für die Gesamtprüfung nach den Buchstaben a bis g vorgesehenen Gebühr |
+  |  | l) | Abnahme einer theoretischen Prüfung (Unterabschnitt C von Anhang III (Teil-66) der Verordnung (EU) Nr. 1321/2014) | 50 bis 300 EUR |
+  |  | m) | Abnahme einer praktischen Prüfung (Unterabschnitt C von Anhang III (Teil-66) der Verordnung (EU) Nr. 1321/2014) | 50 bis 300 EUR |
+  |  | n) | Verlängerung oder Erneuerung einer Lizenz für freigabeberechtigtes Personal (Anhang III (Teil-66), 66.A.40 und 66.B.120 der Verordnung (EU) Nr. 1321/2014) | 1/10 bis 5/10 der jeweils für die Gesamtprüfung nach den Buchstaben a bis g vorgesehenen Gebühr |
   | 33. | Erneute Ladung wegen Nichtteilnahme an einer Prüfung | 40 EUR |
   | 34. | Abnahme einer Online-Theorieprüfung und Ausstellung einer Bescheinigung zum Nachweis ausreichender Kompetenzen von Fernpiloten für den Betrieb eines unbemannten Fluggerätes nach Punkt UAS.OPEN.020 Nummer 4 Buchstabe b in Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 der Kommission vom 24. Mai 2019 über die Vorschriften und Verfahren für den Betrieb unbemannter Luftfahrzeuge (ABl. L 152 vom 11.6.2019, S. 45), die zuletzt durch die Durchführungsverordnung (EU) 2020/746 (ABl. L 176 vom 5.6.2020, S. 13) geändert worden ist | 25 EUR |
   | 35. | Verlängerung oder Änderung der Bescheinigung nach Nummer 34 | 15 EUR |
@@ -266,9 +277,9 @@ III. Prüfungen und Überprüfungen von Luftfahrt- und Flugsicherungspersonal f�
   | 38. |  | Ausstellung einer Bescheinigung über die Anerkennung einer Befähigung als Fernpilot aus einem Drittland nach Artikel 41 Absatz 3 der Delegierten Verordnung (EU) 2019/945 der Kommission vom 12. März 2019 über unbemannte Luftfahrzeugsysteme und Drittlandbetreiber unbemannter Luftfahrzeugsysteme (ABl. L 152 vom 11.6.2019, S. 1), die durch die Delegierte Verordnung (EU) 2020/1058 (ABl. L 232 vom 20.7.2020, S. 1) geändert worden ist | 80 EUR |
 IV. Erlaubnisse und Berechtigungen für Luftfahrt- und Flugsicherungspersonal
   | Gebührentatbestand | Gebühr |
-  | 1. | Erteilung der Lizenzen und Luftfahrerscheine für Luftfahrtpersonal, einschließlich gleichzeitig einzutragender Klassen- und Musterberechtigungen, sowie Erteilung der Flugbegleiterbescheinigung (§ 8 LuftPersV; Anhang I FCL.015, Anhang V CC.CCA.100 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011; Verordnung (EU) Nr. 1321/2014) | 50 bis 70 EUR |
+  | 1. | Erteilung der Lizenzen und Luftfahrerscheine für Luftfahrtpersonal, einschließlich gleichzeitig einzutragender Klassen- und Musterberechtigungen, sowie Erteilung der Flugbegleiterbescheinigung (§ 8 LuftPersV; Anhang I FCL.015, Anhang V CC.CCA.100 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011) | 50 bis 70 EUR |
   | 2. | Erteilung und Aufhebung einer Beschränkung der Erlaubnis für Luftfahrzeugführer (Anhang VI ARA.FCL.250 der Verordnung (EU) Nr. 1178/2011) | 20 bis 30 EUR |
-  | 3. | Erteilung von Klassen- und Musterberechtigungen (Anhang I Abschnitt H, Anhang V CC.TRA.225 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011; Verordnung (EU) Nr. 1321/2014; §§ 108, 110 LuftPersV) | 40 bis 100 EUR |
+  | 3. | Erteilung von Klassen- und Musterberechtigungen (Anhang I Abschnitt H, Anhang V CC.TRA.225 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011) | 40 bis 100 EUR |
   | 4. | Erteilung der Instrumentenflugberechtigung (Anhang I Abschnitt G und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011) | 40 bis 100 EUR |
   | 5. | Erteilung der Langstreckenflugberechtigung (§ 77 LuftPersV) | 40 bis 100 EUR |
   | 6. | Erteilung der Berechtigung für Passagier-, Kunst-, Schlepp-, Wolken-, Berg- oder Nachtflug (§§ 84, 84a LuftPersV; Anhang I FCL.015 Buchstabe b, FCL.800, FCL.805, FCL.810, FCL.815, FCL.820 und FCL.830 der Verordnung (EU) Nr. 1178/2011) | 40 bis 100 EUR |
@@ -280,7 +291,7 @@ IV. Erlaubnisse und Berechtigungen für Luftfahrt- und Flugsicherungspersonal
   |  | c) | im Falle des § 28 in Verbindung mit § 26 Absatz 1 Nummer 3 LuftPersV | 110 bis 1 250 EUR |
   | 10. | Prüfung der Erklärung und Mitteilung der Registrierung von erklärten Ausbildungsorganisationen nach Anhang ARA.DTO.100 der Verordnung (EU) Nr. 1178/2011 | 40 bis 100 EUR |
   | 10a. | Überprüfung von Ausbildungsprogrammen und schriftliche Mitteilung über die Einhaltung der Anforderungen von Verordnung (EU) Nr. 1178/2011, Anhang I (Teil-FCL), DVO(EU) 2018/1976, Anhang III (Teil-SFCL) beziehungsweise VO(EU) 2018/395, Anhang III (Teil-BFCL) und Genehmigung von Ausbildungsprogrammen nach Anhang ARA.DTO.110 der Verordnung (EU) Nr. 1178/2011 | 40 bis 400 EUR |
-  | 11. | Verlängerung eines Ausweises für Prüfer von Luftfahrtgerät oder einer Lizenz für freigabeberechtigtes Personal in Verbindung mit der Erneuerung der Prüfererlaubnis (§§ 109, 111a LuftPersV; Anhang III 66.A.40 der Verordnung (EU) Nr. 1321/2014) | 40 EUR |
+  | 11. | Ausstellung eines Ausweises für Prüfer von Luftfahrtgerät oder einer Lizenz für freigabeberechtigtes Personal in Verbindung mit Ersterteilung, Änderung, Verlängerung oder Erneuerung der Erlaubnis (§§ 8, 104, 105, 110 und 111a LuftPersV; Artikel 6 der Verordnung (EU) Nr. 1321/2014) | 40 bis 110 EUR |
   | 12. | Erteilung der Auszubildendenlizenz und zusätzlicher Erlaubnisse und Befugnisse für Fluglotsen (§ 12 FSPersAV), Erteilung der Erlaubnisse für das sonstige Flugsicherungsbetriebspersonal und für flugsicherungstechnisches Personal (§ 36 FSPersAV) | 80 EUR |
   | 13. | Erteilung der Fluglotsenlizenz und zusätzlicher Berechtigungen für Fluglotsen (§§ 14 und 15 FSPersAV), Erteilung der Berechtigungen für das sonstige Flugsicherungsbetriebspersonal und für flugsicherungstechnisches Personal (§ 38 FSPersAV) | 80 EUR |
   | 14. | Erteilung der Ausbildererlaubnis zur praktischen Ausbildung von Fluglotsen (§ 17 FSPersAV), Erteilung der Ausbilderberechtigung zur praktischen Ausbildung des sonstigen Flugsicherungsbetriebspersonals und von flugsicherungstechnischem Personal (§ 40 FSPersAV) | 80 EUR |
@@ -535,12 +546,20 @@ VII. Sonstige Amtshandlungen der Luftfahrtverwaltungen
   | 25. | Erteilung einer Ausnahme von der Verpflichtung zur Mitführung des Flugbuches (§ 120 Abs. 2 und 3 LuftPersV) | 40 EUR |
   | 26. | Untersagung der Aufnahme oder Weiterführung der Ausbildung (§ 20 LuftPersV) | 30 bis 250 EUR |
   | 27. | Anerkennung von Prüfern (Anhang I FCL.1025 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011; § 128 und § 128a LuftPersV; Artikel 5 der Verordnung (EU) Nr. 1321/2014) | 30 bis 260 EUR |
-  | 28. | Anerkennung von Lehrgängen und technischen Schulen für Prüfer von Luftfahrtgerät oder freigabeberechtigtes Personal (Artikel 6 der Verordnung (EU) Nr. 1321/2014) | 200 bis 2 200 EUR |
+  | 28. | Genehmigung, Änderung der Genehmigung oder Überwachung von Ausbildungsbetrieben und von Lehrgängen für Prüfer von Luftfahrtgerät (§§ 23 bis 32 LuftPersV) und für freigabeberechtigtes Personal (Artikel 6 sowie Anhang IV der Verordnung (EU) Nr. 1321/2014) |  |
+  |  | a) | Genehmigung oder Änderung der Genehmigung von Ausbildungsbetrieben und von Lehrgängen für Prüfer von Luftfahrtgerät (§§ 23 bis 32 LuftPersV) und für freigabeberechtigtes Personal (Artikel 6 sowie Anhang IV der Verordnung (EU) Nr. 1321/2014) | 200 bis 2 200 EUR |
+  |  | b) | Anerkennung von Leitungspersonal von Ausbildungsbetrieben für Prüfer von Luftfahrtgerät (§§ 27 und 28 LuftPersV) und für freigabeberechtigtes Personal (Artikel 6 und Anhang IV der Verordnung (EU) Nr. 1321/2014) | 200 EUR |
+  |  | c) | Anerkennung einer Einzelmaßnahme zur Ausbildung von Prüfern von Luftfahrtgerät (§ 23 LuftPersV) und von freigabeberechtigtem Personal (Artikel 5 und Anhang III der Verordnung (EU) Nr. 1321/2014) | 200 bis 1 400 EUR |
+  |  | d) | Anerkennung oder Änderung vonaa)Verfahren oderbb)Einzelmaßnahmen |  |
+  |  |  | zur Ausbildung am Arbeitsplatz (On-the-Job-Training) für freigabeberechtigtes Personal (Artikel 5, Anhang III sowie Anlage III der Verordnung (EU) aaNr. 1321/2014) | 100 bis 1 000 EUR |
+  |  | e) | Überwachung der Einhaltung der Bestimmungenaa)für die Verlängerung der Genehmigung von Ausbildungsbetrieben, Lehrgängen und Verfahren zur Ausbildung am Arbeitsplatz nach Buchstabe a oder d undbb)bei der Durchführung direkt genehmigter Lehrgänge nach Buchstabe c und Einzelmaßnahmen zur Ausbildung am Arbeitsplatz nach Buchstabe d | 5/10 der jeweils für die Gesamtprüfung nach den Buchstaben a, c oder d vorgesehenen Gebühr |
   | 29. | Durchführung von Fortbildungslehrgängen für Fluglehrer durch das Luftfahrt-Bundesamt (Anhang I FCL.940.FI der Verordnung (EU) Nr. 1178/2011) | 100 bis 250 EUR |
   | 30. | Zuteilung von Sekundärradar-Antwortgerät SSR-Mode-S-Adressen (§ 3 Abs. 1 Nr. 4 FSAV) | 25 EUR |
   | 31. | Überprüfung der bei der Anmeldung zur Ausbildung oder mit dem Antrag auf Anerkennung einer ausländischen oder Umschreibung einer militärischen Lizenz oder Erlaubnis vorzulegenden Unterlagen sowie Prüfung der fachlichen Voraussetzungen (§ 12 Absatz 1 und § 19 Absatz 1 LuftPersV und Anhang III der Verordnung (EU) Nr. 1178/2011) | 50 bis 180 EUR |
+  | 31a. | Überprüfung der Aufzeichnungen zur Anerkennung einer Lizenz für freigabeberechtigtes Personal einer anderen zuständigen Behörde, Bereitstellung der Aufzeichnungen und Lizenzwiderruf wegen Wechsel zu einer anderen zuständigen Behörde (66.1. von Anhang III (Teil-66) der Verordnung (EU) Nr. 1321/2014) | 50 bis 180 EUR |
   | 32. | Anerkennung von Fortbildungslehrgängen für Fluglehrer (z. B. Anhang I FCL.940.FI Buchstabe a Nummer 2 der Verordnung (EU) Nr. 1178/2011) | 100 EUR |
   | 33. | Anerkennung einer Lärmbescheinigung für ausländische Luftfahrzeuge (§ 10 LuftVZO) | 130 EUR |
   | 34. | Widerruf oder Rücknahme einer Amtshandlung, Antragsrücknahme, Antragsablehnung aus anderen Gründen als der Unzuständigkeit der Behörde | bis zu 8/10 der für die Amtshandlung vorgesehenen Gebühr |
   | 34a. | Erfolglose Widerspruchverfahren | Für die vollständige oder teilweise Zurückweisung eines Widerspruchs wird eine Gebühr bis zur Höhe der für die angefochtene Amtshandlung festgesetzten Gebühr erhoben. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 VwVfG unbeachtlich ist. War für die angefochtene Amtshandlung eine Gebühr nach diesem Verzeichnis nicht vorgesehen, war die Amtshandlung gebührenfrei oder ist der Widerspruch von einem Dritten eingelegt worden, wird eine Gebühr bis zu 2 500 EUR erhoben. Bei einem erfolglosen Widerspruch, der sich ausschließlich gegen eine Kostenentscheidung richtet, beträgt die Gebühr höchstens 1/10 der Gebühr des streitigen Betrags. Wird ein Widerspruch nach Beginn seiner sachlichen Bearbeitung jedoch vor deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 3/4 der Gebühr nach den Sätzen 1 bis 3. In allen Fällen beträgt die Gebühr jedoch mindestens 40 EUR. |
   | 35. | (weggefallen) |  |
+  | 36. | Bearbeitung von Anträgen auf Anerkennung alternativer Nachweisverfahren (Anhang Vc und Vd der Verordnung (EU) Nr. 1321/2014) | 100 bis 10 000 EUR |

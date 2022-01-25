@@ -43,6 +43,7 @@
 | - | meta-Chlorphenylpiperazin (m-CPP) | 1-(3-Chlorphenyl)piperazin |
 | - | 5Cl-AKB-48 (5C-AKB-48, AKB-48Cl, 5CI-APINACA, 5C-APINACA) | N-(Adamantan-1-yl)-1-(5-chlorpentyl)-1H-indazol-3-carboxamid |
 | - | 5Cl-JWH-018 (JWH-018 N-(5-Chlorpentyl)- Analogon) | [1-(5-Chlorpentyl)-1H-indol-3-yl] (naphthalin-1-yl)methanon |
+| - | Clonazolam(Clonitrazolam) | 6-(2-Chlorphenyl)-1-methyl-8-nitro-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin |
 | - | d-Cocain | Methyl(3ß-(benzoyloxy)tropan-2alpha-carboxylat) |
 | - | CP 47,497 (cis-3-[4-(1,1-Dimethylheptyl)-2-hydroxyphenyl]-cyclohexanol) | 5-(1,1-Dimethylheptyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol |
 | - | CP 47,497-C6-Homolog(cis-3-[4-(1,1-Dimethylhexyl)-2-hydroxyphenyl]-cyclohexanol) | 5-(1,1-Dimethylhexyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol |
@@ -69,6 +70,7 @@
 | - | Dimethocain(DMC, Larocain) | (3-Diethylamino-2,2-dimethylpropyl)-4-aminobenzoat |
 | - | 2,5-Dimethoxy-4-iodamfetamin (DOI) | 1-(4-Iod-2,5-dimethoxyphenyl)propan-2-amin |
 | - | 3,4-Dimethylmethcathinon (3,4-DMMC) | 1-(3,4-Dimethylphenyl)-2-(methylamino)propan-1-on |
+| - | Diphenidin (1,2-DEP, DPD, DND, 1,2-Diphenylethylpiperidin) | 1-(1,2-Diphenylethyl)piperidin |
 | Diphenoxylat | - | Ethyl[1-(3-cyan-3,3-diphenylpropyl)-4-phenylpiperidin-4-carboxylat] |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 0,25 vom Hundert oder je abgeteilte Form bis zu 2,5 mg Diphenoxylat, berechnet als Base, und, bezogen auf diese Mengen, mindestens 1 vom Hundert Atropinsulfat enthalten - |
 | - | 4,4'-DMAR(para-Methyl-4-methylaminorex) | 4-Methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amin |
@@ -93,6 +95,7 @@
 | - | Flephedron (4-Fluormethcathinon, 4-FMC) | 1-(4-Fluorphenyl)-2-(methylamino)propan-1-on |
 | - | Flualprazolam (2-Fluor-Alprazolam, SCHEMBL7327360, Flu-Alp) | 8-Chlor-6-(2-fluorphenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a] [1,4]benzodiazepin |
 | - | Flubromazepam | 7-Brom-5-(2-fluorphenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-on |
+| - | Flubromazolam | 8-Brom-6-(2-fluorphenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin |
 | - | 4-Fluorisobutyrfentanyl (4-Fluorisobutyrylfentanyl, 4F-iBF, p-FIBF) | N-(4-Fluorphenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamid |
 | - | 4-Fluormethamfetamin (4-FMA) | 1-(4-Fluorphenyl)-N-methylpropan-2-amin |
 | - | 3-Fluormethcathinon (3-FMC) | 1-(3-Fluorphenyl)-2-(methylamino)propan-1-on |
@@ -100,6 +103,7 @@
 | - | p-Fluorphenylpiperazin (p-FPP) | 1-(4-Fluorphenyl)piperazin |
 | - | 4-Fluortropacocain | 3-(4-Fluorbenzoyloxy)tropan |
 | - | 5-Fluor-UR-144 (XLR-11) | [1-(5-Fluorpentyl)-1H-indol-3-yl] (2,2,3,3-tetramethylcyclopropyl) methanon |
+| - | 4F-MDMB-BICA(4F-MDMB-BUTICA, 4FBC, 4FBCA,MDMB-073-F,4F-MDMB-2201) | Methyl{2-[1-(4-fluorbutyl)-1H-indol-3-carboxamido]-3,3-dimethylbutanoat} |
 | - | 4F-MDMB-BINACA (4F-MDMB-BUTINACA, 4F-ADB) | Methyl{2-[1-(4-fluorbutyl)-1H-indazol-3- carboxamido]-3,3-dimethylbutanoat} |
 |  | 5F-MDMB-PICA(5F-MDMB-2201) | Methyl{2-[1-(5-fluorpentyl)-1H-indol-3-carboxamido]-3,3-dimethylbutanoat} |
 | - | 5F-MN-18(AM-2201 Indazolcarboxamid-Analogon) | 1-(5-Fluorpentyl)-N-1-(naphthalin-1-yl)-1H-indazol-3-carboxamid |

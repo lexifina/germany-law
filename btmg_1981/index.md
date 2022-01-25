@@ -80,5 +80,4 @@ Straftäter
 - [§ 41](0041.md)
 - [Anlage I (zu § 1 Abs. 1)(nicht verkehrsfähige Betäubungsmittel)](anlage-i.md)
 - [Anlage II (zu § 1 Abs. 1)(verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel)](anlage-ii.md)
-- [Anlage II (zu § 1 Abs. 1)(verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel)](anlage-ii-2.md)
 - [Anlage III (zu § 1 Abs. 1)verkehrsfähige und verschreibungsfähige Betäubungsmittel](anlage-iii.md)

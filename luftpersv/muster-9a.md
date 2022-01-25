@@ -1,4 +1,4 @@
-# Muster 9a Luftfahrerschein für Fallschirmspringer
+# Muster 9a Ausweis für Prüfer von Luftsportgerät
 
-(Inhalt: nicht darstellbares Muster eines Ausweises,
-Fundstelle: BGBl. I 1993, 768)
+[Bild: bgbl1_2021_j5196_0010.jpg]
+[Bild: bgbl1_1993_j0768_0020.jpg]
