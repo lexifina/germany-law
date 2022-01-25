@@ -1,0 +1,60 @@
+# 8. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-25T15:40:00+01:00
+- Ende: 2022-01-25T18:19:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25170
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25170
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde - Vielfalt in Zeiten der Pandemie sichern - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Sondernutzungserlaubnis für die Aufstellung einer Rodin-Skulptur am Neumarkt - ungeändert beschlossen
+- TOP 4.2: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Sicherungsmaßnahmen Römerturm - ungeändert beschlossen
+- TOP 4.3: Rückgabe der Benin-Bronzen aus dem Rautenstrauch-Joest-Museum an die Bundesrepublik Nigeria - ungeändert beschlossen
+- TOP 4.4: Zuschuss an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bewerbung um Fördermittel des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen - zurückgestellt
+- TOP 8.2: Haus Fühlingen - Fachgespräch - zurückgestellt
+- TOP 8.3: Stadtbibliothek Köln Bericht 2021/2022 - Kenntnis genommen
+- TOP 8.4: Erfahrungsbericht Corona-Förderung zur Überführung in künftige Fördermaßnahmen - Beantwortung der Anfragen AN/1915/2021 und AN/1783/2021 - Kenntnis genommen
+- TOP 8.5: Deutsches Tanzarchiv Köln - Unterzeichnung eines Kooperationsvertrags zur Stärkung und Weiterentwicklung - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 18. Januar 2022 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 20. Dezember 2021 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 10. Januar 2022 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der mündlichen Anfrage: Klosterkirche zum Guten Hirten - zurückgestellt
+- TOP 10.2: Beantwortung der schriftlichen Anfrage AN/2218/2021 der Fraktion Die LINKE.: Professionelle Aufarbeitung der Kölner Kolonialgeschichte tut not! - zurückgestellt
+- TOP 10.3: Beantwortung der mündlichen Anfrage der SPD Fraktion aus der Sitzung vom 30.11.2021: Belvedere - zurückgestellt
+- TOP 10.4: Beantwortung der mündlichen Anfrage: Rheingassentörchen - zurückgestellt
+- TOP 10.5: Beantwortung der mündlichen Anfrage von "Grün offene Liste" (GOL) in der Sitzung des Integrationsrates am 16.11.2021 zur Rückgabe der sogenannten Benin-Bronzen - zurückgestellt
+- TOP 10.6: Beantwortung der mündlichen Anfrage der Fraktion Bündnis90/Die Grünen: Anmietung neuer Räume für die Kunst- und Museumsbibliothek, hier: Sachstand zum Beschluss 0727/2020 - zurückgestellt
+- TOP 10.7: Geschlechterparitätische Verteilung von Stipendien der Stadt Köln und deren Auswahlgremien - zurückgestellt
+- TOP 10.8: Beantwortung der mündlichen Anfrage: Werkstatt-Räume des Historischen Archiv - zurückgestellt
+- TOP 10.9: Beantwortung der schriftlichen Anfrage der FDP Fraktion: Kostenentwicklung für die Herrichtung und den Betrieb des Kölnischen Stadtmuseums im Haus Sauer - zurückgestellt
+- TOP 10.10: Beantwortung der mündlichen Anfrage: Restaurierung der Historischen Stadtbibliothek und der Wallraf-Bibliothek - zurückgestellt
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung einer schriftlichen Anfrage zum Kunstwerk "ruhender Verkehr" von Wolf Vostell - zurückgestellt
+- TOP 11.2: Schriftliche Anfrage der Fraktion der SPD: TransparenzKULTUR! - zurückgestellt
+- TOP 11.3: Schriftliche Anfrage der Fraktion der SPD: Städtepartnerschaftlicher Austausch Esch-sur-Alzette - zurückgestellt
+- TOP 11.4: Schriftliche Anfrage der Fraktion der CDU: Zwischennutzung für „MiQua“ - zurückgestellt
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion der SPD: Besetzung der Stelle des Direktors, der Direktorin des NS-Dokumentations-zentrum der Stadt Köln
+- TOP 12.2: Mündliche Anfrage der Fraktion der SPD zu TOP 10.3: Belvedere 4232/2021
+- TOP 12.3: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen (Frau von Bülow): Leitbild für Kulturelle Teilhabe und Vielfalt
+- TOP 12.4: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen (Frau von Bülow): Hitzelerstrasse
+- TOP 12.5: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen (Frau von Bülow) zuTOP 8.1: KuBiK
+- TOP 12.6: Tagesordnungspunkt (betrifft Privatpersonen)
