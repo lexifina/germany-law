@@ -1,0 +1,56 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-01-25T17:00:00+01:00
+- Ende: 2022-01-25T21:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22411
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22411
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436954.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436954.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436954.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Verwaltungsvorlagen und -berichte
+- TOP 3.1: Neubau Kinderspielplatz IHZ-Park - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 3.2: Sportanlage Im Liefeld 15 - Erneuerung des Kunstrasenbelags - einstimmig beschlossen
+- TOP 3.3: P+R-Parkhaus am Südpark - Empfehlung abweichend beschlossen
+- TOP 3.4: Dauerhafte Markierung der Radfahrstreifen auf der Bilker Allee im Abschnitt zwischen Talstraße und Bilker Kirche und Oberbilker Allee im Abschnitt zwischen Corneliusstraße und Gustav-Poensgen-Straße - vertagt
+- TOP 3.5: Wohngebiet Lessingplatz - Einrichtung eines Bewohnerparkgebietes (LP) - Empfehlung einstimmig beschlossen
+- TOP 4: Bau- und Planungsangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 5.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2022 - abweichend beschlossen
+- TOP 5.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Anfragen aus vorherigen Sitzungen
+- TOP 6.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 6.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.3: Gestaltung Bahnunterführung Ellerstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.4: Stellplätze für Fahrräder auf der Fleher Str. / In der Hött (Anfrage Fraktionen BÜNDNIS 90 / DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.5: Umbau und Aufzug Regionalhalt Bilk-S (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.6: Sachstand Fördermittelbeantragung (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.7: Wie ist der Stand des Projekts „Neubau des Luisen Gymnasiums“ auf dem Areal südl. auf ´m Tetelberg? (Anfrage DIE LINKE) - vertagt
+- TOP 6.1.8: Flächen zur Entsiegelung (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.9: Status quo zum 1. Januar 2022 der Haltestellen im Bezirk 03 (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 6.1.10: Aufwertung der Eisenstraße (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 6.1.11: Radweg Fleher Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.2: Aktuelle Anfragen
+- TOP 6.2.1: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.2.2: Einbindung Düsseldorfer Kunstkommission – Ludwig-Hammers-Platz (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.2.3: Aktueller Stand Einrichtung Milieuschutzsatzung Bilk (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7: Anträge
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Außengastronomie auf Kfz-Stellflächen - zur Kenntnis genommen
+- TOP 8.2: Kölner Straße – Baumscheiben, Mülleimer und die unebene Fahrbahndecke - zur Kenntnis genommen
+- TOP 8.3: Parkkonzept Himmelgeister Straße - zur Kenntnis genommen
+- TOP 8.4: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 9: Mitteilungen des Bezirksbürgermeisters
