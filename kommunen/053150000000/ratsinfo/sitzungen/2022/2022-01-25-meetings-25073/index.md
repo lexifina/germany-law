@@ -1,0 +1,67 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-25T14:05:00+01:00
+- Ende: 2022-01-25T15:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25073
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25073
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Raschelbande e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Annahme einer zweckgebundenen Spende für Baumpflanzungen auf dem Spielplatz Linzer Straße in Sülz - ungeändert beschlossen
+- TOP 2.2.2: Verwendung von Mitteln aus dem politischen Veränderungsnachweis zum Hpl 2022 - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Jugendhilfeplanung in der Kindertagesbetreuung 2022/23 als Grundlage für die Beantragung von Landeszuschüssen nach § 24 KiBiz (Kinderbildungsgesetz) - ungeändert beschlossen
+- TOP 2.3.2: Live-Stream der Sitzungen des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 2.3.3: Beschlussvorlage zum Förderaufruf des Ministeriums für Kinder, Familie, Flüchtlinge und Integration des Landes Nordrhein-Westfalen zur Förderung spezialisierter Beratung bei sexualisierter Gewalt gegen Kinder und Jugendliche - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - ungeändert beschlossen
+- TOP 4.2: 'Integrationsbudget' - Verteilung der Finanzmittel in 2022 - ungeändert beschlossen
+- TOP 4.3: Honorarordnung für die Familienberatung und den Schulpsychologischen Dienst der Stadt Köln - ungeändert empfohlen
+- TOP -: Änderungsantrag zu TOP 4.3. „Honorarordnung für die Familienberatung und den Schulpsychologischen Dienst der Stadt Köln“ auf der Sitzung am 25.1.2022 - endgültig abgelehnt
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Kostenheranziehung für Pflege- und Heimkindern durch das Jugendamt abschaffen - geändert beschlossen
+- TOP -: Kostenheranziehung von Pflege- und Heimkindern durch das Jugendamt - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Testkapazitäten in Familienzentren ermöglichen, Boostern vorantreiben, Kinder, Jugendliche, Eltern und Personal schützen - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/2553/2021 der SPD-Fraktion - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Beratungsfrequenz beim schulpsychologischen Dienst und bei den Erziehungsberatungsstellen - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Kindertageseinrichtung Lebensbaumweg, Heimersdorf - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer mündlichen Anfrage zur Neugestaltung des Basketballplatzes Willi-Suth-Allee Nord in Chorweiler 3944/2021 - Kenntnis genommen
+- TOP 7.1.3: Freigabe - und Baubeschluss für die Neugestaltung der Freianlagen im Innenstadtbereich Porz-Mitte 3464/2021 - Kenntnis genommen
+- TOP 7.1.4: Sachstand Sonder-Schwimmlern-Programm/ Herbstferien-Schwimmkurse - Kenntnis genommen
+- TOP 7.1.5: Beantwortung der mündlichen Anfrage aus der Sitzung des Jugendhilfeausschusses der Stadt Köln vom 30.11.2021, TOP 8.3.1, Jahresbericht 2020 – Kölner Haus des Jugendrechts 3973/2021 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Stellungnahme zum Beschluss der Bezirksvertretung Nippes vom 02.12.2021 zur Einrichtung eines Familiengrundschulzentrums im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Sachstand Förderprogramm "Aufholen nach Corona" - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 8.5.2: Bürgereingabe gem. § 24 GO NRW- "Testpflicht für Kitas"- Aktenzeichen 119-21 - Kenntnis genommen
+- TOP -: Beratung einer Bürgereingabe gem. §24 GO NRW aus dem Ausschuss für Bürgerbeteiligung, Anregungen und Beschwerden vom 06.12.2021 "Testpflicht für Kitas" 3967/2021 - Kenntnis genommen
+- TOP 8.5.3: Umsetzungsstand Interkulturelles Maßnahmenprogramm - Maßnahmen des Integrationsbudgets – Stand Dezember 2021 - Kenntnis genommen
