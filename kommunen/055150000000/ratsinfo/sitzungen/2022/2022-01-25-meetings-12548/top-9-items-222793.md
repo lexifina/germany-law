@@ -1,0 +1,8 @@
+# TOP 9: 3. Satzung zur Änderung der Benutzungs- und Gebührensatzung für die Städtische Berufsfachschule für pharmazeutisch-technische Assistenten/innen der Stadt Münster vom 22.05.2015
+
+- Sitzung: Sitzung (2022-01-25)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/222793
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/78657
