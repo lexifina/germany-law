@@ -1,0 +1,68 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-01-25T17:00:00+01:00
+- Ende: 2022-01-25T18:36:00+01:00
+- Ort: International School of Düsseldorf (ISD), Mensa, Niederrheinstraße 336, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22457
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22457
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436844.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436844.pdf
+- Wortprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436844.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 26. Oktober 2021 - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 30. November 2021 - einstimmig beschlossen
+- TOP 4: Jugendarbeit im Stadtbezirk 5 - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Beschluss Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 11: Wohngebiet Plüschowstraße - Einrichtung eines Bewohnerparkgebietes - Empfehlung abweichend beschlossen
+- TOP 12: Wohngebiet Alte Flughafenstraße - Einrichtung eines Bewohnerparkgebietes - Empfehlung abweichend beschlossen
+- TOP 13: - zurückgezogen -
+- TOP 14: Zuschuss an den ISD Sportverein e.V. - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 15: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 16: Umbau Zeppenheimer Straße
+- TOP 17: Hochwasserschutz in Angermund - beantwortet
+- TOP 18: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 19: Wann kommt endlich die öffentliche Beleuchtung auf dem Gerichtsschreiberweg?!
+- TOP 20: Rad- und Fußweg von der Straße Am Krienengarten (Am Damm) zum Rheinuferweg
+- TOP 21: Wer ist verantwortlich und warum lässt der ökologische Ausgleich für die Messeerweiterung und die Arena so lange auf sich warten? - beantwortet
+- TOP 22: Bewohnerparkvorrechte auf den zwei großen öffentlichen Parkplätzen in Kaiserswerth
+- TOP 23: Sondernutzungserlaubnisse am Kaiserswerther Markt - beantwortet
+- TOP 24: Welches Tempo ist auf der Alten Landstraße in Kaiserswerth angemessen?
+- TOP 25: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 26: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 27: Barrierefreier Zugang zur Grundschule an der Fliednerstraße
+- TOP 28: Gewerbeflächen/Handwerkerhöfe in Angermund - beantwortet
+- TOP 29: Rückschnitt des Grüns im Bereich der Kaiserpfalz westlich Herbert-Eulenberg-Weg - beantwortet
+- TOP 30: Demenz-Dorf nördlich Kalkumer Schloßallee - beantwortet
+- TOP -: Neue Anfragen
+- TOP 31: Graf-Engelbert-Straße: Gehweg nutzbar machen!
+- TOP 32: Bessere Umleitungsangebote statt Einschränkung des ÖPNV-Service in Düsseldorf-Lohausen
+- TOP 33: Kooperationsvertrag trifft auf Realität? Flughafen-Bahnhof der Stadtbahn U 81 ggf. nicht rechtzeitig zur Fußball-EM 2024 fertig
+- TOP 34: "Viele Projekte stecken in der Warteschleife" - Wie lange kann noch gewartet werden?
+- TOP 35: Lärmschutz an der B8n nach Ausbau der Anschlussstelle Spielberger Weg - beantwortet
+- TOP 36: Schadhafte Pflasterung in der Edmund-Bertrams-Straße und Oberdorfstraße
+- TOP 37: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP -: Anträge
+- TOP 38: Geschwindigkeitsmessung Zeppenheimer Straße zwischen Kalkumer Schlossallee und Am Hüttenhof - einstimmig beschlossen
+- TOP 39: Planung zur Open-Air-Eventfläche: Schutz von Anwohnern und Umwelt ernst nehmen - Öffentlichkeit intensiv einbinden! - mehrheitlich beschlossen
+- TOP 40: Kaiserswerther Toilettenhäuschen ordnungsgemäß reinigen! - zurückgezogen
+- TOP 41: Zufahrt für Rettungs- und Einsatzfahrzeuge Am Mühlenacker sicherstellen - einstimmig beschlossen
+- TOP 42: Hochwasserschutzmauer in Kaiserswerth angemessen gestalten! - einstimmig beschlossen
+- TOP 43: Konkretisierung eines BV-Beschlusses vom 31.08.2021 - mehrheitlich beschlossen
+- TOP -: Informationsvorlagen
+- TOP 44: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 45: Außengastronomie auf Kfz-Stellflächen - Empfehlung abweichend beschlossen
+- TOP 46: Verschiedenes
