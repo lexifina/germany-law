@@ -1,0 +1,56 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-01-25T16:00:00+01:00
+- Ende: 2022-01-25T17:12:00+01:00
+- Ort: Thomas-Edison-Realschule, Schlüterstraße 18 - 20, Pädagogisches Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21932
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21932
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00437545.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00437545.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00437545.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitglieds
+- TOP 2: Wahl der Bezirksbürgermeisterin / des Bezirksbürgermeisters
+- TOP 3: Anerkennung der Tagesordnung
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Genehmigung der Niederschrift SI-BV2/008/2021 vom 22.11.2021
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 6: Beschluss Hochhausrahmenplan - mehrheitlich beschlossen
+- TOP 7: Bezirkssportanlage Windscheidstr. 18 - Erneuerung des Kunstrasenbelages - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Ersatzbeschaffung für den Kinderspielplatz „Zum Märchenland“ - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 10: Zuwendung an den Eisenbahner Sportverein 1926 Düsseldorf e. V. zur Umrüstung der Flutlichtanlage aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 11: Zuschuss für Umrüstung der Flutlichtanlage des Eisenbahnersportvereins Blau-Weiß 1926 Düsseldorf e.V. auf umweltfreundliche LED-Beleuchtung aus dem Bauunterhalt für Dritte - Antrag der Fraktion Bündnis 90 /Die Grünen - zurückgezogen
+- TOP 12: Bezirksbezogene Haushaltsmittel für den Eisenbahner-Sportverein 1926 Düsseldorf e. V. - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 13: Hundeauslauf Zoopark - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Kosten und Einnahmen Anwohnerparkausweiszonen - Anfrage der FDP-Fraktion
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Potenzielle Auswirkungen einer Einführung von Tempo 30 auf der gesamten Rethelstraße auf den Rheinbahn-Linienbetrieb - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 25: Fahrradkontrollen - Anfrage der CDU-Fraktion - beantwortet
+- TOP -: Informationsvorlagen
+- TOP 26: Pflanzenkübel Rethelstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/237/2021 - zur Kenntnis genommen
+- TOP 27: Wegeverbindung von der Eduard-Schloemann-Straße zur Sohnstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/215/2021 - zur Kenntnis genommen
+- TOP 28: Beleuchtung Junkersstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/062/2021 - zur Kenntnis genommen
+- TOP 29: Quartiersgarage Cranachstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/013/2021 - zur Kenntnis genommen
+- TOP 30: Lückenschluss der Radverkehrsspur auf der Graf-Recke-Str. unter Einbeziehung der Faunastraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/103/2021 - zur Kenntnis genommen
+- TOP 31: Überquerung Hoffeldstraße, Lindenstraße, linker Hand Richtung Cranachstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/135/2021 - zur Kenntnis genommen
+- TOP 32: Parkplatz Brehmstadion - Beschluss der Bezirksvertretung 2, Vorlage BV2/205/2021 - zur Kenntnis genommen
+- TOP 33: Außengastronomie auf Kfz-Stellflächen - zur Kenntnis genommen
+- TOP 34: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
