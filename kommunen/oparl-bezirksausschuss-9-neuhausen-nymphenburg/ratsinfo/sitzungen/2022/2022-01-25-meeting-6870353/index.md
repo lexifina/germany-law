@@ -1,0 +1,142 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2022-01-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6870353
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6870353
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Fußgänger im Bereich Elvirastraße 13 bis 17
+- TOP 3.2.2.: Schulweg Infanteriestraße
+- TOP 3.2.3.: Hubschrauber über Neuhausen
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Maillingerstraße - Aufpflasterung
+- TOP 3.3.2.: Verkehrsrechtliche Anordnungen: Eisnergutbogen 19
+- TOP 3.3.3.: Errichtung einer Lieferzone Lothstraße 3-5
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Verkehrssicherheit an der Hirschbergstraße
+- TOP 3.4.2.: Nächtliche Bauarbeiten 2. Stammstrecke
+- TOP 3.4.3.: Markierung Radstreifen Leonrodstr.
+- TOP 3.4.4.: Unbeleuchteter LKW-Anhänger Radweg von der Innenstadt Richtung Pasing
+- TOP 3.4.5.: Parkdruck durch Schanigärten im Bereich Schulstr.
+- TOP 3.4.6.: E-Roller auf Gehwegen
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Abschlusspräsentation zu Saisonale Stadträume - Sommerstraßen und Parklets
+- TOP 3.5.2.: (U) 2. Stammstrecke München – Planfeststellungsabschnitt 3 Ost – Bereich westliches Isarufer bis östlich Leuchtenbergring a) Neues Planfeststellungsverfahren für den Ostabschnitt PFA 3 Ost b) Planungen des PFA 3 Ost c) Ergebnisse der Überprüfung der Planfeststellungsunterlagen Stellungnahme der Landeshauptstadt München im Anhörungsverfahren d) Weiteres Vorgehen beim Planfeststellungsverfahren e) Anträge
+- TOP 3.5.3.: (U) Tram Westtangente von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz Fortschreibung Trassierungsbeschluss - Verbesserungen gemäß Radentscheid München - UVR - Ergänzung eines Treppenaufgangs zu Bahnsteig B (stadteinwärts) - Vorhaltemaßnahme breitere Tram-Fahrzeuge bei der Tram Westtangente
+- TOP 3.5.4.: Dantestraße (Westseite) auf Höhe Anwesen Hs.-Nr. 2 - Errichtung eines absoluten Haltverbotes
+- TOP 3.5.5.: (U) Mobilitätsstrategie 2035 - Einstieg in die Teilstrategie Shared Mobility Etablierung von Mobilpunkten und Angebotsausweitung in München Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Produkt 43122300 Straßenverkehr Beschluss über die Finanzierung für das Jahr 2022-2026
+- TOP 3.5.6.: Verkehrsrechtliche Anordnung: Volpinistraße - Errichtung Zeichen 301 (Vorfahrt)
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Bericht AG Sommerstraßen durch UA-Vorsitzenden - Diskussion Projekt Volkartstraße als Sommerstraße
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Palestrinastr. 2a Neubau eines Mehrfamilienhauses mit Tiefgarage (Vorbescheid)
+- TOP 4.3.2.: Frundsbergstraße 43 Schulbauoffensive - Haus für Kinder mit 2 Kinderkrippen- und 3 Kindergartengruppen
+- TOP 4.3.3.: Projektvorstellung Leonrodstr. 11
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Antwort Planungsreferat Beteiligung der Unterausschüsse bei der Erstellung des Stadtentwicklungsplans 2040
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 4.5.2.: Protokoll Stadtgestaltungskommission
+- TOP 4.5.3.: Mitteilung über ein Grundstücksgeschäft: Volkartstraße 2b
+- TOP 4.5.4.: Kreativquartier, Teilbereich Kreativfeld als Holzbausiedlung Vergabe von drei Wohnbauflächen (WA 5/6, WA7/8 und WA9) Bebauungsplan mit Grünordnung Nr. 1954 an Baugenossenschaften, genossenschaftsähnliche Wohnprojekte und KMB-Bauträger*innen Ergebnisse der Ausschreibungen
+- TOP 4.5.5.: Haus für Kinder in der Postillonstr. 11a - Dienststellenverständigung
+- TOP 4.6: Verschiedenes
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Zustand Wertstoffinsel De-La-Paz-Str./Hirschgarten-Parkplatz
+- TOP 5.2.2.: Erhalt der Bäume in der Frundsbergstr. 43
+- TOP 5.2.3.: Aufhebung des Hundebetretungsverbotes auf der Grünfläche zwischen Paketpostareal und dem "Pandion" Gebäudekomplex
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Brunhildenstraße 1 - Heldstraße 7 - Lorschstraße 1 - Menzinger Straße 17 - Ruffinistraße 5 - Taschnerstraße 14 - Tizianstraße 45 - Palestrinastraße 15 - Schobserstraße 6 - Dachauer Straße 128 - Wendel-Dietrich-Straße 62 - In den Kirschen 1
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Gewährleistung einer wirksamen Kontrolle der angeordneten Ersatzpflanzungen nach den genehmigten Baumfällungen
+- TOP 5.4.2.: Stand 5G-Ausbau in Neuhausen-Nymphenburg
+- TOP 5.4.3.: Mehr Begrünung am Rainer-Werner-Fassbinder-Platz
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: BA 21 Baumbilanz
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kontrapunkt gGmbH - Jugend Kunst Kultur "d.alle / RepairCafe&Atelier" offene Repairwerkstatt in 2022 9.000,-€ Az.0262.0-9-0539
+- TOP 6.1.2.: (E) Stadtbezirksbudget Seniorentreff Neuhausen e.V. mit Seniorenprogramm offene Behindertenarbeit Christuskirche "Fasching für Seniorinnen und Senioren in Neuhausen-Nymphenburg am 26.02.2022" 1.450,-€ Az.0262.0-9-0540
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Offene Einrichtung für Jugendliche und Nachbarschaftstreff im Arnulfpark realisieren
+- TOP 6.2.2.: Ausbildungsplatzbörse 2022 – Budgetantrag zur Verwendung von Mitteln aus dem BA-Budget „Eigene Veranstaltungen“
+- TOP 6.2.3.: Voraussichtliche Schließung des Postamtes am Romanplatz im Sommer 2022 - Verwendung der freiwerdenden Räume
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Lounge Container Informationen
+- TOP 6.4.2.: Urin an Gehweg unter Friedenheimer Brücke
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: (U) Die Münchner Alten- und Service-Zentren (ASZ) - Aktueller Stand und weitere Planungen
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Sachstand Spielplatzpaten
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Initiative „Katastrophe“ Puppentheater „Katastrophe!“ 3.400,00 € / Az. 0262.0-9-0491
+- TOP 7.1.2.: (E) Stadtbezirksbudget Halle 6 UG Ausstellung und Symposium &#039;10 Jahre Halle 6&#039; 3.269 Eur; Az. 0262.0-9-0526
+- TOP 7.1.3.: (E) Stadtbezirksbudget Kontrapunkt gGmbH / Projekt "eduart k." Anschaffung eines Lastenfahrrads 3.000,-€ Az.0262.0-9-0538
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Zuwendung aus dem Stadtbezirksbudget: Theaterprojekt - Singspiel mit Puppen: "Die Mumins und die Katastrophe" - Anerkennung von Übernachtungskosten und höhere Gesamtkosten
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Informationsveranstaltungen Kreativquartier
+- TOP 7.4.2.: Beirat Kreativquartier
+- TOP 7.4.3.: Straßenerläuterungsschilder für nach Stiftern benannte Straßen
+- TOP 7.4.4.: Vergabe der Halle 23
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: Verschiebung fear.less im Schwere Reiter
+- TOP 7.5.2.: (U) Kreativquartier an der Dachauer Straße/ Schwere-Reiter-Straße Fortschreibung der Gremienstruktur mit Quartiersmanagement und Kommunikationskonzept Förderprogramm Nationale Projekte des Städtebaus - Teilnahme am Projektaufruf 2022 Stadtbezirk 4 Schwabing-West Stadtbezirk 9 Neuhausen-Nymphenburg
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Zwischenstand Gestaltung Kopfbau Leonrodhaus
+- TOP 7.6.2.: Zwischenstand Halle 23
+- TOP 7.6.3.: Runder Tisch mit der Verwaltung zum Thema Kreativlabor
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Wiedereinrichtung des Kinder- und Jugendbudgets
+- TOP 8.2.2.: Antrag zu geschlechterdifferenzierten Nutzungszeiten von Sportanlagen im öffentlichen Raum
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Sportkonzepte - Welchen Sport wünschen SIE sich in Ihrem Stadtteil?!
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Pilotprojekt im 9. Stadtbezirk: Aufstellen von Hydranten als Wasserspender im Sommer
+- TOP 8.4.2.: Aufstellen von Hydranten als Wasserspender im Sommer BA-Antrag Nr. 20-26 / B 02161
+- TOP 8.4.3.: BSL: Trinkbrunnen am Rotkreuzplatz
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: (U) Reinigungsstandards in Münchner Schulen und städt. Kindertageseinrichtungen temporäre Anpassung aufgrund der Corona Pandemie sowie zusätzliche Schwimmhallenreinigung im Rahmen der Schwimmoffensive für das Haushaltsjahr 2022 ff.
+- TOP 8.5.2.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 8.5.3.: (U) Errichtung eines Spielplatzes auf der großen Wiese in der Straße „An der Schlossmauer“ Empfehlung Nr. 20-26 / E 00146 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 19.07.2021
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Themensammlung für 2022 und Orte, die wir besuchen wollen
+- TOP 8.6.2.: Wohnen im Viertel, Reinmarplatz: Pflegedienst, Essensversorgung
+- TOP 8.6.3.: Stand des Kinder- und Jugend-Budgets
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Bezirksausschuss kritisiert den Abbau der Lokalberichterstattung in der Süddeutschen Zeitung
+- TOP 9.2.2.: Verlängerung des Pilotversuchs "Plakatierung durch Bezirksausschüsse"
+- TOP 9.3: Anhörungen
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Weihnachtsmarkt Rotkreuzplatz Südseite und Nordseite - Entfall
+- TOP 9.6: Verschiedenes
+- TOP 6.6.2.: Stiftung für Arme baut in München Mietwohnungen zu Luxuspreisen
+- TOP 6.1.3.: Rücknahme des Budgetantrages
