@@ -1,0 +1,71 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-01-25T17:00:00+01:00
+- Ende: 2022-01-25T18:50:00+01:00
+- Ort: Gemeindesaal, Hardenbergstraße 3
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22227
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22227
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436897.pdf
+- Ergebnisprotokoll: öffentliches digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436897.pdf
+- Wortprotokoll: öffentliches digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436897.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 11.01.2022 eingegangene Fragen - vertagt
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 23.11.2021 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Verwendung von Haushaltsmitteln - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.2: Städtebaulicher Wettbewerb Nr. 07/013 - Park Ludenberg (Blanckertzstraße) - Empfehlung einstimmig beschlossen
+- TOP 4.3: Beschluss Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Außengastronomie auf Kfz-Stellflächen - zur Kenntnis genommen
+- TOP 4.8: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Verkehrskonzept Bergische Landstraße / B7 - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tempo 30 Bertastraße und Zamenhofweg - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 5.4: Tempo 30 Quadenhofstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 5.5: Zustand und Nutzung des Stadtwalds im Stadtbezirk 7 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.6: Stufenkonzept zur verbesserten ÖPNV-Erschließung der Bergischen - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.7: E-Scooter - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Bürgersteig auf der Quadenhofstraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.12: Verkehrsführung historisches Zentrum - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP) - - mehrheitlich beschlossen
+- TOP 5.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Parkplätze Ludenberger Straße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7: Anfragen
+- TOP 7.1: Sanierung der Otto- und Vereinsstraße - Anfrage der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - vertagt
+- TOP 7.2: Ausbau der Torfbruchstraße zwischen Dreherstraße und Pöhlenweg - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.3: Standorte für E-Ladestationen im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: CO2 Warner in Schulen - Anfrage der FDP-Fraktion - - beantwortet
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 8.2: Einrichtung einer Schnellbuslinie Flughafen - Ratingen - Knittkuhl - Hubbelrath - Erkrath - Gerresheim - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.3: Beseitigung der Schäden infolge des Starkregens am Fußweg im Bereich des Fliethbachs zwischen Knittkuhl (Regenrückhaltebecken) und der Einmündung in den Pillebach - Informationsvolrage zum Beschluss der BV 7 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.4: Haltestelle Heirnich-Könn-Straße - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.5: Verbesserung der Radverkehrsführung an der Kreuzung Zamenhofweg/Bertastraße/ Siedlerweg - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.6: Biergarten Ernst-Poensgen-Allee 96 - Informationsvorlage zum Beschluss der BV 7 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.7: Bolzplatz Quadenhofstraße (ehem. Motocross-Gelände) - Informationsvorlage zum Beschluss der BV 7 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.8: Haushalt 2022: Naturnaher Ausbau der ungeteilten Düssel - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
+- TOP 8.9: Haushalt 2022: Hochwasserschutz Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
+- TOP 8.10: Haushalt 2022: Straßeninstandsetzung - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
+- TOP 8.11: Verschönerung Spielplatz an der Düssel - Informationsvorlage zum Beschluss der BV 7 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.12: Nachpflanzungen von Bäumen schneller realisieren - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
