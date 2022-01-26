@@ -1,0 +1,103 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-01-26T17:00:00+01:00
+- Ende: 2022-01-26T22:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4426
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4426
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Anschlagserie auf offiziell geehrtes Anwohner Ehrenamt an offizieller BENN-Britz Säule - schriftlich beantwortet
+- TOP 1.2: Verkehrssicherheit der Grundschulkinder des Campus Rütli - beantwortet
+- TOP 1.3: Räumung von Gabenzäunen und Schlafstätten obdachloser Menschen - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Obsoleszenzfeststellung hinsichtlich der Art der baulichen Nutzung im Baunutzungsplan - reines Arbeitsgebiet - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Abberufung von ehrenamtlichen Sozialpflegerinnen bzw. Sozialpflegern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl eines stellvertretenden Bürgerdeputierten in den Paritzipations- und Integrationsausschuss - gewählt
+- TOP 7.2: Wahl von ehrenamtlichen Sozialpflegerinnen bzw. Sozialpflegern - gewählt
+- TOP 7.3: Wahl von Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Soziale Wohnhilfe in Neukölln - beantwortet
+- TOP 8.2: Quarantäne-Broschüre - beantwortet
+- TOP 8.3: Warum ist die Gesundheitsstadträtin mitten in der Hochphase der Pandemie abgetaucht? - beantwortet
+- TOP 8.4: Wie wird die Zukunft des Nachbarschaftshauses Karlsgartenstraße gesichert? - beantwortet
+- TOP 8.5: Verlängerung U7 zum BER - beantwortet
+- TOP 8.6: Kein Interesse im Bezirksamt an der Seniorenvertretung in Neukölln? - beantwortet
+- TOP 8.7: Verteilung von FFP-2-Masken in Neukölln - schriftlich beantwortet
+- TOP 8.8: Geschichtliche Aufarbeitung zum Namensgeber der Woermannkehre - schriftlich beantwortet
+- TOP 8.9: Kältehilfe - schriftlich beantwortet
+- TOP 8.10: Kürzungsvorhaben im Sparhaushalt 2022? - schriftlich beantwortet
+- TOP 8.11: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK) - schriftlich beantwortet
+- TOP 8.12: Dilettantischer Mietendeckel führt zu unsozialen Mieterhöhungen? - schriftlich beantwortet
+- TOP 8.13: Krankheitsausfälle in Kitas - schriftlich beantwortet
+- TOP 8.14: Komposttoilette in der Hasenheide - schriftlich beantwortet
+- TOP 8.15: § 802 l ZPO - schriftlich beantwortet
+- TOP 8.16: Kita und Schule am Koppelweg - schriftlich beantwortet
+- TOP 8.17: Sachstand Waßmannsdorfer Chaussee - schriftlich beantwortet
+- TOP 8.18: PCR Tests - schriftlich beantwortet
+- TOP 8.19: Umgehungsstraße - Drusenheimer Weg – Großziethen - schriftlich beantwortet
+- TOP 8.20: Baustopp Blub-Gelände - schriftlich beantwortet
+- TOP 8.21: Ehemaliges Sportzentrum liegt brach - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Wirksamen Mieter*innenschutz in Milieuschutzgebieten nach dem Urteil des BVerwG - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - erledigt
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Einhaltung der Corona-Schutzauflagen konsequent kontrollieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Stelle der Neuköllner Nachhaltigkeitsbeauftragten verstetigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Runde Ecke in der Pintschallee sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Sicherer Übergang Neuköllner Straße/Kleestraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Haltestelle umbenennen - in der BVV abgelehnt
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Rekommunalisierung der High-Deck-Siedlung - beantwortet
+- TOP 13.2: Wie steht es um die Personalsituation im Gesundheitsamt Neukölln? - beantwortet
+- TOP 13.3: Projekt „Anlauf und Registerstelle konfrontative Religionsbekundung“ - Mangelhafte Bestandsaufnahme und Gefährdung des Schulfriedens - beantwortet
+- TOP 13.4: Parkplatzsituation in Neukölln - vertagt
+- TOP 13.5: Straßen- und Platznamen mit antisemitischen Bezügen - vertagt
+- TOP 13.6: Chaotische Zustände durch die Omikron-Welle - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: PCR-Teststellen in Neukölln - überwiesen
+- TOP 15.2: Kranold-/Bendastraße - Kreuzung soll sicherer werden - überwiesen
+- TOP 15.3: Geschwindigkeit Waßmannsdorfer Chaussee - überwiesen
+- TOP 15.4: Berliner Vergabemindestlohn in der Schulreinigung - überwiesen
+- TOP 15.5: Antrag auf Streichung der Fahrgeldentschädigungen für Bezirksverordnete - überwiesen
+- TOP 15.6: Bezirkliche Strategie gegen religiöses Mobbing und konfrontative Religionsbekundungen - überwiesen
+- TOP 15.7: Kiezblock Rollberg - überwiesen
+- TOP 15.8: Herta-/Benda-/Ringbahnstraße - Kreuzung sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: Geschwindigkeit Schönefelder Straße - überwiesen
+- TOP 15.10: Rekommunalisierung der Schulreinigung nicht weiter verzögern - überwiesen
+- TOP 15.11: Sperrmüll-Lastenräder in die fLotte integrieren - überwiesen
+- TOP 15.12: Tiny Houses - Win-Win für den Bezirk - überwiesen
+- TOP 15.13: BVG Häuschen - überwiesen
+- TOP 15.14: PCR-Testkapazitäten ausweiten - überwiesen
+- TOP 15.15: Förderung der DEVI verlängern - überwiesen
+- TOP 15.16: Rekommunalisierung der Schulreinigung - jetzt die Weichen stellen! - überwiesen
+- TOP 15.17: Barrierefreie Querung der Blaschkoallee - überwiesen
+- TOP 15.18: Schulanmeldungen online! - überwiesen
+- TOP 15.19: Effektivität der Kontrollen des Ordnungsamtes sicherstellen - überwiesen
+- TOP 15.20: Träger der Jugendhilfe gleichstellen! - überwiesen
+- TOP 15.21: Radweg Buckower Damm - überwiesen
+- TOP 15.22: Runder Tisch Islamismus einführen - in der BVV zurückgezogen
+- TOP 15.23: Lieferzone zu Lieferzeiten in der Sonnenallee 144-146 - überwiesen
+- TOP 15.24: Neuköllner Ehrengräber: Informationen für Besuchende - überwiesen
+- TOP 15.25: Pflege von Ehrengräbern in Neukölln verbessern - überwiesen
+- TOP 15.26: Streuobstwiese Rudow - Pflege gewährleisten - überwiesen
+- TOP 15.27: 650 Jahre Buckow in 2023 - überwiesen
+- TOP 15.28: Überquerung Rufacher Weg auf Höhe Fläzsteinpfad - überwiesen
+- TOP 15.29: Ampel Buckower Damm vor Britzer Garten Nutzer*innenfreundlich schalten - Schulwegsicherheit erhöhen - überwiesen
+- TOP 15.30: Gedenkensemble auf dem Garnisionsfriedhof Columbiadamm umgestalten – antikoloniale Gedenkkultur etablieren! - überwiesen
