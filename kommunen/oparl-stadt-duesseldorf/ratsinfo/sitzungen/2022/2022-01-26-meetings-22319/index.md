@@ -1,0 +1,52 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-01-26T15:00:00+01:00
+- Ende: 2022-01-26T00:00:00+01:00
+- Ort: DIE SITZUNG WURDE ABGESAGT
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22319
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22319
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436891.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436891.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00436891.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/008/2021 vom 17.11.2021
+- TOP 3: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf
+- TOP 4: Beschluss Hochhausrahmenplan
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses des Projektes "Gesamtschule Aldekerkstraße mit Dreifachsporthalle in der Aldekerkstraße 17-25"
+- TOP 7: Rück- oder Ausbau der Radhauptwege im Stadtbezirk 4, Anfrage der SPD-Fraktion
+- TOP 8: Schließung der B7 Abfahrt an der Benediktusstraße und Folgemaßnahmen, Anfrage der SPD-Fraktion
+- TOP 9: Welche Sperrungen des Rheinalleetunnels stehen noch an?, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 10: Verändert die rege Bautätigkeit der letzen Jahre den Charakter unseres linksrheinischen Stadtteils - halten Grün- und Sportflächen mit der Bevölkerungsentwicklung noch Schritt?, Anfrage der FDP-Fraktion
+- TOP 11: Entmietung Mehrfamilienhaus Leostraße 11, Anfrage der SPD-Fraktion
+- TOP 12: Parkraum schaffen durch Quartiersgaragen, Anfrage der CDU-Fraktion
+- TOP 13: Verkehrslärm Übergang B7 zur A52 Nähe Ökotop Heerdt - wann kommen die innovativen Konzepte?, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 14: Gibt es Möglichkeiten, dass das Verteillager an der Luegallee 5 unterbunden bzw. reguliert werden könnte?, Anfrage der
+- TOP 15: Luftfilteranlagen an linksrheinischen Schulen, Anfrage der SPD-Fraktion
+- TOP 16: Wo bleibt der Lärmschutz an der Brüsseler Straße?, Anfrage der SPD-Fraktion
+- TOP 17: Brückenerneuerung B7 ab der Schiessstraße, Anfrage des Bezirksvertreters Marco Staack
+- TOP 18: Lärmschutz an der B7 in Höhe des Ökotops, Anfrage der Bezirksvertreterin Claudia Drossel
+- TOP 19: Übertragung von Bezirksvertretungssitzungen, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE
+- TOP 20: Getränkehandel Benediktusstraße, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE
+- TOP 21: Außengastronomie auf Kfz-Stellflächen
+- TOP 22: Übergabe der Spielanlage auf dem Schulhof der Grundschule Salierstraße durch eine Schenkung des Verein der Freunde und Förderer der Don-Bosco-Montessori-Schule e.V., Salierstraße
+- TOP 23: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2022
+- TOP 24: Zuschuss aus Mitteln der Bezirksvertretung 4 im Jahre 2022
+- TOP 25: Beschlusskontrolle der Bezirksvertretung 4
+- TOP 26: Verkehrsplanung / Pendlerströme sinnvoll lenken - das linksrheinische Düsseldorf entlasten, Antrag der FDP-Fraktion
+- TOP 27: Begrünung und Wiederaufforstung im Stadtteil Heerdt - Bereich B7 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Liste B) Sonstige Gebäude
+- TOP 28: Endlich eine Sitzbank an der Bushaltestelle Barbarossaplatz ermöglichen, Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 29: Bänke provisorisch wieder aufstellen im Heerdterhof-Garten, Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 30: Jetzt Tempo 30 für die Düsseldorfer Straße, Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 31: Auf- und Abfahrten am Brückenanschluss Heerdter Dreieck öffnen, Antrag der SPD-Fraktion
+- TOP 32: Unterhaltung von Grundstücken und baulichen anlagen im Stadtbezirk 4, Haushalt 2019 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 und Liste C) Förderung Dritter 1.10.11.111.05.001 53175400 Bauunterhaltungsmittel 2019
+- TOP 33: Mitteilungen der Verwaltung
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Schleichende Zulassung von Schleichverkehr in der Schanzenstraße, Anfrage der SPD-Fraktion
