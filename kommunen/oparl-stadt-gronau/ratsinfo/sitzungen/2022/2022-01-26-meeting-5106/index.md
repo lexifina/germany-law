@@ -1,0 +1,52 @@
+# Rat (15. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2022-01-26T18:00:00+01:00
+- Ende: 2022-01-26T20:24:00+01:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZX53kKzzl4S5eILhHDazqXU
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5106
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWI9EZvnzrb1ibB5M2LIo-aMSebGA36nX_n4Kje_4tl4/Bekanntmachung_Rat_26.01.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeEnTBCh-yqdsvw6jeca1onVzmoaMzw411MNycJ5n_4H/Oeffentliche_Niederschrift_Rat_26.01.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Amtseinführung und Verpflichtung neuer Ratsmitglieder
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Niederschrift vom 15.12.2021
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion pro:Bürgerschaft vom 08.12.2021; „Standorterhaltung des ZBU & Wertstoffhofanteile sowie Einrichtung dezentraler Standorte für Grünabfälle“ - Einstimmig, 0 Enthaltungen
+- TOP 5.2: Antrag der FDP-Fraktion vom 05.12.2021; „Bauen mit Holz – Ergänzung der Abschreibungstabelle“ - 19 Jastimmen, 16 Neinstimmen, 5 Enthaltungen
+- TOP 6.: Mobilitätskonzept Gronau: Beschluss des Zielkonzepts - Einstimmig, 2 Enthaltungen
+- TOP 7.: Satzung der Stadt Gronau (Westf.) über die Entwässerung der Grundstücke und den Anschluss an die öffentlichen Abwasseranlagen - Einstimmig, 4 Enthaltungen
+- TOP 8.: Beitrags- und Gebührensatzung zur Abwasserbeseitigungssatzung der Stadt Gronau (Westf.) - Einstimmig, 2 Enthaltungen
+- TOP 9.: Satzung über die Entsorgung von Abwässern aus Kleinkläranlagen und abflusslosen Gruben in der Stadt Gronau (Westf.) - Einstimmig, 3 Enthaltungen
+- TOP 10.: Geplante Gewinnausschüttung mit anschließender Kapitalrückführung zwischen dem Abwasserwerk und der Stadt Gronau in den Jahren 2020 bis 2025, Anhörung des Betriebsauschusses gem. § 10 Abs. 4 EigVO NRW
+- TOP 11.: Vermarktung der städtischen Flächen an der Zollstraße und Steinstraße - 34 Jastimmen, 2 Neinstimmen, 3 Enthaltungen
+- TOP 12.: Notwendigkeit und Finanzierbarkeit der in Vollzug und Planung befindlichen Schulneu- bzw. Schulumbauten an der Fridtjof-Nansen-Realschule
+- TOP 13.: Bebauungsplan Nr. 254 "Zwischen Esteresch und Oststraße", Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 254 "Zwischen Esteresch und Oststraße", Stadtteil Epe Erlass einer Veränderungssperre - Einstimmig, 0 Enthaltungen
+- TOP 15.: Straßenendausbau Am Hoogen Kamp vorzeitige Bereitstellung der Haushaltsmittel - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bereitstellung von Haushaltsmitteln für die Vergabe von Scandienstleistungen zur Bauaktendigitalisierung - 39 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Sachstand zur Corona-Pandemie (Stand: 18.01.2022)
+- TOP 18.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 19.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 19.1: Bericht aus dem AR KB/RPM von der AR-Vors. RM Wagner
+- TOP 20.: Mitteilungen der Verwaltung
+- TOP 20.1: Postfächer für Ratsmitglieder
+- TOP 20.2: Baumfällung (Westpark/Bögehold/Enscheder Straße)
+- TOP 21.: Anfragen
+- TOP 21.1: Post für Ratsmitglieder (Anfrage von RM Kernebeck)
+- TOP 21.2: Förderprogramme "KfW 40" und "KfW 55" (Anfrage von RM Doetkotte)
+- TOP 21.3: Anmeldeverfahren an Schulen / Schulbegehungen (Anfrage von RM Gabbe)
+- TOP 21.4: Klimaschutz-Förderprogramm (Anfrage von RM Gabbe)
+- TOP 21.5: Ortsschilder in Epe (Anfrage von RM Bügener)
+- TOP 21.6: NRW-Programm zur Förderung der Innenstädte (Anfrage von RM Dr. Kuhlmann-Eckel)
+- TOP 21.7: Energieausweise (Anfrage von RM Doetkotte)
+- TOP 21.8: BSG-Gelände (Anfrage von RM Buchholz)
+- TOP 21.9: Baumfällungen am Driland (Anfrage von RM Buchholz)
