@@ -1,0 +1,137 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2022-01-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6944621
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6944621
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Keine Schanigärten in Baumgräben
+- TOP 5.2.: Geplante Maßnahmen im Straßenunterhalt
+- TOP 5.3.: Spielplatzversorgung im Stadtteil
+- TOP 5.4.: Anwohner*innenparken Prinzregententheater
+- TOP 5.5.: Fahrradstraßen einrichten
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München - Anhörung der Bezirksausschüsse
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Rückmeldung der BAs zur Resolution BA 5 "Stadtteil-Berichterstattung in der Süddeutschen Zeitung wieder stärken"
+- TOP 6.2.2.: Infoblatt Januar 2022
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. Faces for the Names Jüdisches Leben im Stadtbezirk Au Haidhausen vom 04. - 07.04.2022 2.500,00 €; Az. 0262.0-5-0375
+- TOP II.2.: (E) Stadtbezirksbudget future pack GbR WOLVES – I travel in packs vom 05.02. - 01.03.2022 1.500,00 € / Az. 0262.0-5-0376
+- TOP II.3.: (E) Stadtbezirksbudget kontingent kollektiv Perspektiven - who caress? vom 01.02. - 31.07.2022 2.423,55 Euro, Az.: 0262.0-5-0377
+- TOP II.4.: Sichtbaren Erinnerungsort für Georg Elser schaffen
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget REGSAM Wunschbaum vom 30.11. - 24.12.2021 150,00 €; Az. 0262.0-5-0371
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Hausmeisterwohnung Sportanlage Grütznerstraße
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Anfrage wegen Parkbänken vor St. Gabriel
+- TOP 4.2.: Neuer Standort für Boulderblock unter der Eisenbahnbrücke am Kolumbusplatz => dazu: Ablehnendes Bürgeranliegen
+- TOP 4.3.: Hundekot in öffentlichen Grünanlagen
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative Auer/Haidhauser Journal Stadtteil-Kulturmagazin Auer/Haidhauser Journal vom 01.04.2022 - 31.01.2023 2.500,00 €; Az. 0262.0-5-0372
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Errichtung eines weiteren Testcontainers am Orleansplatz, Pariser Platz und Weißenburger Platz Vorabstellungnahme des BA-Vorsitzenden
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Hiendlmayrstraße: Neubau einer Kindertagesstätte und einer Umfassungsmauer dazu: Baumfällungen
+- TOP 2.2.: Claude-Lorrain-Str. 5: Dachgeschossaufstockung (2 WE); Änderung Wohnungsaufteilung (OG 4./DG), oberster Treppenlauf und Dachkontur, Anbau neuer Balkonanlagen, Entfall 2er Kfz-Stellplätze; Tektur
+- TOP 2.3.: Franziskanerstr. 24: Nutzungsänderung einer Ladeneinheit zu Lieferservice mit Lagerhaltung und Einzelhandel
+- TOP 2.4.: Prinzregentenstr. 78: Nutzungsänderung von Büro zu Arztpraxis
+- TOP 2.5.: Lilienstr. 54: Anbau von Balkonen, Bereinigung der Bestandssituation bezüglich der Wohnungsaufteilung und Abschluss des Carports durch eine Außenwand
+- TOP 2.6.: Auerfeldstr. 21-27: Errichten eines Außenlagerraums einer Tankstelle
+- TOP 2.7.: Innere Wiener Str. 7a: Umbau zum Zwecke der Nutzung des eingeräumten Sondernutzungsrechts sowie Änderung der Zugangssituation vom notwendigen Treppenraum in die Wohnung 60/61
+- TOP 2.8.: Weißenburger Str. 44: Umbau und Ausbau des Dachgeschosses, Errichtung eines Außenaufzugs, Umbau 1 WE im DG, Ausbau Speicher DG zu 1 WE (Vordergebäude); Tektur
+- TOP 2.9.: Einsteinstr. 163-173: Nutzungsänderung und Aufteilung einer Gaststätte in eine Büroeinheit und ein Atelier
+- TOP 2.10.: Welfenstr. 18: Nutzungsänderung: 2 Verkaufsräume zu Auslieferungslager für Lebensmittel (Gorillas-Warehouse)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Sanierung des Orleansplatzes Antwort Baureferat zum Schreiben BA 5
+- TOP 3.3.: Durchgang von der Falkenstraße zur Entenbachstraße
+- TOP 3.4.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) - Planfeststellungsbeschluss EÜ Balanstraße - Unterlagen und Mitteilung der öffentlichen Auslegung vom 04.01.2022 bis 17.01.2022 online unter www.muenchen.de/auslegung (bereits jetzt dort zu finden) oder ergänzend im o.g. Zeitraum im Referat für Stadtplanung und Bauordnung, Blumenstraße 28b -
+- TOP 3.5.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.6.: Lärmbelästigung u.ä. seit Umbau durch die MGS in der Orleansstr. 11 a Antwort Gewofag zum Schreiben BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Begrünung Orleansplatz
+- TOP VI.: UA Mobilität
+- TOP 0.: Vorstellungen im Unterausschuss
+- TOP 0.1.: Austausch mit Green Circle Logistics zum Thema Citylogistik
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Ausstattung der Eingänge zum Mauersteg mit Schlössern und Schildern „Fahrradfahrer absteigen“ Empfehlung Nr. 20-26 / E 00100 der Bürgerversammlung des Stadtbezirkes 5 Au- Haidhausen am 08.07.2021
+- TOP 2.: Anhörungen
+- TOP 2.1.: Austausch einer Lichtsignalanlage am Standort Preysing-/ Wörthstraße dazu: Antrag SPD: Ampelkreuzung fahrradtauglich machen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Rasende Fahrradfahrer und fehlende Bank am Geneveva-Schauer-Platz
+- TOP 3.2.: Tempo 30 in der Regerstraße
+- TOP 3.3.: Anbringen eines Spiegels an der Engstelle des Fuß-/Radwegs am Müllerschen Volksbad
+- TOP 3.4.: Zustand Falkenstraße nach Fertigstellung Paulaner Areal; Freigabe der öffentlichen Wege/Freifläche Antwort Bayerische Hausbau zum Schreiben BA 5
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Weiterhin dramatische Verkehrslage an der Ludwigsbrücke / Haltverbot Lilienstraße Antwort Mobiltätsreferat zum Schreiben BA 5
+- TOP 3.7.: Verkehrsrechtliche Anordnungen a) Sieboldstraße: Befahrung des Gehwegs für Radfahrer b) Ludwigsbrücke: Sanierungsarbeiten vom 17.01.-16.12.2022
+- TOP 3.8.: Radstellplätze an Kreuzungen – Franzosenviertel
+- TOP 3.9.: Verbesserungen für den Radverkehr in Haidhausen
+- TOP 3.10.: Einrichtung einer Fahrradstraße in der Spicherenstraße
+- TOP 3.11.: Änderung des zuständigen MVG-Ansprechpartners des BA 5
+- TOP 3.12.: 2. S-Bahn Stammstrecke 3. PFA; Ergänzende Stellungnahme der LH München an die Regierung von Oberbayern
+- TOP 3.13.: 2. Stammstrecke München, Planfeststellungsabschnitt 3 Ost, Bereich westliches Isarufer bis östlich Leuchtenbergring; Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrats vom 15.12.2021 Sitzungsvorlage Nr. 20-26 / V 05116 (Alternative Antriebe für Baustellenfahrzeuge, Antrag BA 5 Nr. 20-26 / B 03145)
+- TOP 3.14.: Austausch Ampel am Rosenheimer Platz
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Mehr Sicherheit für Fußgänger und Fahrradfahrer entlang der Ohlmüllerstrasse
+- TOP 4.2.: Fussgängerzone Genoveva-Schauer-Platz: Illegaler Verkehr
+- TOP 4.3.: Errichtung einer Paketstation sowie einer Ladestation in der Kuglerstraße
+- TOP 4.4.: Gehwegparken und Gehwegnasenparken im Franzosenviertel
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Orleansplatz: Fällung eines Spitzahorns
+- TOP 2.2.: Schneckenburgerstr. 7: Fällung von 6 Spitzahorn
+- TOP 2.3.: Baumbilanz und Stand Ersatzpflanungskontrolle Schreiben BA 21 Pasing-Obermenzing mit der Bitte um Unterstützung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Hochfrequenztöne im Bereich Innere Wiener Straße / Preysingplatz (Anfrage)
+- TOP 3.2.: Hainbuchenhecke schützen
+- TOP 3.3.: Fällungsgenehmigung Einsteinstr. 89
+- TOP 3.4.: Baumfällungen - kurzfristige Beseitigung einer Unfallgefahr (Gefahrenbäume): - Grundschule Bazeillesstr. 8 - Mittelschule Hochstr. 31
+- TOP 3.5.: Regerplatz erweitern, Reservierung von Mitteln aus dem Stadtbezirksbudget
+- TOP 3.6.: Versetzung des Weihnachtsbaums auf dem Wiener Platz prüfen!
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Wertstoffcontainer Nockherstraße verschwunden
+- TOP 4.2.: Christbaumentsorgung in Haidhausen
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 07.02.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 07.02.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 08.02.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 09.02.2022, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 09.02.2022, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 10.02.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Videokonferenz statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 16.02.2022, 19.00 Uhr, Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 01.02.2022, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 3.1.: Protokolle aus der Sitzung vom 15.12.2021
+- TOP II.5.: Antrag auf Zuschuss aus dem BA-Budget von „Theater vor der Haustür - PLAN H - foolpool“. 9.499,--. Mail vom 19. 1. 2022 - siehe Protokoll UA Kultur -
+- TOP II.6.: Kulturtage Au-Haidhausen - siehe Protokoll UA Kultur -
+- TOP 2.2.: Behinderung zu Fuß Gehender durch die Standorte der Altkleider-Container an der Wertstoffinsel Spicheren-/Elsässer Str. - siehe Protokoll UA Mobilität und UA Klima -
+- TOP 5.: Sonstiges
+- TOP 5.1.: Behinderung zu Fuß Gehender durch die Standorte der Altkleider-Container an der Wertstoffinsel Spicheren-/Elsässer Str. - siehe Protokoll UA Mobilität und UA Klima -
+- TOP 4.1.: Hybridsitzung im Technischen Rathaus am 16.02.2022 ?
+- TOP 5.6.: Verkehrslenkungstafel Am Nockherberg ändern
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - A-Teil, TOP 5.6 Antrag SPD: Verkehrslenkungstafel Am Nockherberg ändern - UA Kultur, TOP 5: Antrag auf Zuschuss aus dem BA-Budget von „Theater vor der Haustür - UA Kultur, TOP 6: Kulturtage Au-Haidhausen - UA Mobilität, zu TOP 2.1: Antrag SPD: Ampelkreuzung fahrradtauglich machen - UA Mobilität, TOP 2.2 und UA Klima, TOP 5.1: Behinderung zu Fuß Gehender durch die Standorte der Altkleider-Container an der Wertstoffinsel Spicheren-/Elsässer Str. - TOP C 4.1 Hybridsitzung im Technischen Rathaus am 16.02.2022 ?
