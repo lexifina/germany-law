@@ -1,0 +1,25 @@
+# Satzungsbeschluss zum Bebauungsplan “Am Silberbach“
+
+- Körperschaft: Gemeinde Glashütten
+- Drucksache/Vorlage: 218/GV/XIX
+- Art: Beschluss-Vorlage
+- Datum: 2022-01-27
+- Ratsinformationssystem: https://rim.ekom21.de/glashuetten/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTP2l69jCfOC4L6LRFJGnUU
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/paper/3305
+- Quelle: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschluss-Vorlage (Satzungsbeschluss zum Bebauungsplan “Am Silberbach“) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeYkmq8ffEA7pyjGaZs01KcQ6Ro4jCKkWMJCWBw4No_D/Beschluss-Vorlage_218-GV-XIX.pdf
+- Anlage: Beschluss-Vorlage (Bebauungsplan - Plankarte) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSIqidXenU0Q5DHdKo4I-Clc_Z6t97knCWkClYGLorfi/Bebauungsplan_-_Plankarte.pdf
+- Anlage: Beschluss-Vorlage (Textliche Festsetzungen) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbeTk_pqOCFvmAp1qM-r77Z8Y4cJvPxtVpLaw3yqrqL7/Textliche_Festsetzungen.pdf
+- Anlage: Beschluss-Vorlage (Begründung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX10DhuclA_kIYS2Y8c8aNiiN_dJu4PetTi5O6BpNDDW/Begruendung.pdf
+- Anlage: Beschluss-Vorlage (Umweltbericht) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUAPFDoo14RKQ44nNdJ0-qvvogqTbdGg_TSKvIC-1RJa/Umweltbericht.pdf
+- Anlage: Beschluss-Vorlage (Fachbeitrag Wasserwirtschaftlicher Belange) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSlysvVOsv8I1MXlVcN09Y_0g6dqMwQqxTA7drhQXVvy/Fachbeitrag_Wasserwirtschaftlicher_Belange.pdf
+- Anlage: Beschluss-Vorlage (FFH-Verträglichkeitsuntersuchung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe0oKNlBhK-fYTjrmIe5TiVs648KX_JfVAkSLgnQdP3w/FFH-Vertraeglichkeitsuntersuchung.pdf
+- Anlage: Beschluss-Vorlage (Artenschutzrechtlicher Fachbeitrag) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZboh2qfFLBX5ly0cqJMVV0UEDPVmUJrfC3DvbyQTF2dD/Artenschutzrechtlicher_Fachbeitrag.pdf
+- Anlage: Beschluss-Vorlage (Verkehrsuntersuchung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZarUvbVvltyNPb5sz6N8MxJFQpnlKUF7RuhueI5WImNz/Verkehrsuntersuchung.pdf
+- Anlage: Beschluss-Vorlage (Immissionsgutachten (Schalltechnische Untersuchung)) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZawzdWFto2EeJgy2WuroRA5v8uEFV3GHqM6ovkLPb-Yy/Immissionsgutachten_-Schalltechnische_Untersuchung-.pdf
+- Anlage: Beschluss-Vorlage (Immissionsgutachte (Schalltechnische Untersuchung, Neuberechnung)) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZadA_TtAieUgnysmISe9fkUEXs_Kmj1wf07m3ROmVIbK/Immissionsgutachte_-Schalltechnische_Untersuchung-_Neuberechnung-.pdf
+- Anlage: Beschluss-Vorlage (Stellungnahmen und Abwägungsvorschläge TÖB) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVNbkBOnKlrt3Cph_SKxlym6ZfBMlqjDWzDFKQvSvWX9/Stellungnahmen_und_Abwaegungsvorschlaege_TOeB.pdf
+- Anlage: Beschluss-Vorlage (Stellungnahmen und Abwägungsvorschläge Öffentlichkeit (Bürger)) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVeJSj1CEgbqqITFLQdyfAYztCPY-NgW1sgs7zX8lrYR/Stellungnahmen_und_Abwaegungsvorschlaege_Oeffentlichkeit_-Buerger-.pdf
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1917 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-4
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1926 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/3-17
