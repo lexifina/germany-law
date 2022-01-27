@@ -1,0 +1,85 @@
+# 10. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-27T16:00:00+01:00
+- Ende: 2022-01-27T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25499
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25499
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktueller Sachstand zur Kita Gotland, Antrag Grüne - verschoben auf Wunsch der Fachverwaltung in der Sitzung der BV 1 am 02.12.2021
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Standorte für Papierkörbe mit Pendelklappen in Grünanlagen - ungeändert beschlossen
+- TOP 3.2: Genehmigung Dringlichkeitsentscheidung: Beschluss der Fördermaßnahme „Netzwerkarbeit“ für die Kölner City im Rahmen des Projektaufrufs „Zukunftsfähige Innenstädte und Zentren“ - ungeändert beschlossen
+- TOP 3.3: Genehmigung Dringlichkeitsentscheidung: Stellplatzsatzung für Köln - ungeändert beschlossen
+- TOP 3.4: Sondernutzungserlaubnis für die Aufstellung einer Rodin-Skulptur am Neumarkt - geändert beschlossen
+- TOP 3.5: Kapazitätserweiterung auf der Ost-West-Achse - Linie 1 - geändert beschlossen
+- TOP 3.6: Planungsbeschluss Generalsanierung Bezirkssportanlage Reitweg - ungeändert beschlossen
+- TOP 3.7: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Sicherungsmaßnahmen Römerturm - ungeändert beschlossen
+- TOP 3.8: Baubeschluss für den barrierefreien Umbau der Bushaltestelle Ubierring auf der KVB-Linie 133 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 3.8.1: Gem. Änderungsantrag zu 3.8 Baubeschluss für den barrierefreien Umbau der Bushaltestelle Ubierring, gem. Änderungsantrag Grüne, CDU, SPD, Die Linke, Die Partei - ungeändert beschlossen
+- TOP 3.9: Bedarfsfeststellungs- und Baubeschluss für die grundhafte Erneuerung von Brückenbelägen und Verschleißschichten auf den Flächen des Individualverkehrs auf der Nordseite der Deutzer Brücke - geändert beschlossen
+- TOP 3.9.1: Änderungssantrag "Bedarfsfeststellungs- und Baubeschluss für die grundhafte Erneuerung von Brückenbelägen und Verschleißschichten auf den Flächen des Individualverkehrs auf der Nordseite der Deutzer Brücke", Änderungsantrag Grüne - geändert beschlossen
+- TOP 3.10: Förderprogramm "Dritte Orte" - 1. Genehmigung für die Förderphase 2022ff - ungeändert beschlossen
+- TOP 3.11: Verlängerung des Durchführungszeitraumes für Sanierungsmaßnahmen im Geltungsbereich der Sanierungssatzung 'Umfeld Archäologische Zone am Rathaus' - ungeändert beschlossen
+- TOP 3.12: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2022 - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: „Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet (Az.: 02-1600-122-21) - zurückgestellt
+- TOP 4.1.1: Änderungsantrag zu TOP 4.1- Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet , Änderungsantrag Klimafreunde - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Rad- und Fußgängerüberwege Innerer Grüngürtel (Az.: 02-1600-21/21) - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Verbesserung der Verkehrsführung Ecke Herwarthstraße/Werderstraße/Dorothee -Sölle - Platz - zurückgestellt
+- TOP 4.3.1: Änderungsantrag zu TOP 4.3-Verbesserung der Verkehrsführung Ecke Herwarthstraße/Werderstraße/Dorothee-Sölle-Platz, Änderungsantrag Klimafreunde - zurückgestellt
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Schaffung von Erholungsorten am Rheinufer (Az.: 02-1600-104/21) - zurückgestellt
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Bürgereingabe gem. § 24 GO, betr.: Mehr Platz für Rad- und Fußverkehr an der Sedanstraße (Az.: 02-1600-203-21) - zurückgestellt
+- TOP 4.7: Bürgereingabe nach § 24 GO – Antrag Straßenbenennung / Bananenrepublik - Az: 226/21 - Sache ist erledigt
+- TOP 4.8: Bürgereingabe gem. § 24 GO, betr.: Einrichtung von Abstellflächen für Mieträder, E-Scooter, private Fahrräder (Az.: 02-1600-186-21) - ungeändert beschlossen
+- TOP 4.9: Bürgereingabe gem. § 24 GO, betr.: Fahrradparkplätze Gereonsviertel (Az.: 02-1600-135-21) - geändert beschlossen
+- TOP 4.10: Bürgereingabe gem. § 24 GO- "Optimierung der Querung Hansaring für Radfahrende und Zufußgehende am Hansaring (Nähe Ebertplatz) - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Verkehrsberuhigung / Diagonalsperre Südliche Brüsseler Straße, gem. Antrag Grüne, Klimafreunde, Die Partei - zurückgestellt
+- TOP 5.1.2: Antrag "Fahrradparken vor städtischer Kindertagesstätte Burgunderstraße", Antrag Klima Freunde - zurückgestellt
+- TOP 5.1.3: Moltkestraße/ Brüsseler Straße/Maastrichter Straße/Brüsseler Platz- Neuordnung der Verkehre, Verkehrsberuhigung und Barrierefreiheit, gem. Antrag Grüne und Die Partei - zurückgestellt
+- TOP 5.1.3.1: Änderungsantrag "Moltkestraße/Brüsseler Straße/Maastrichter Straße/Brüsseler Platz - Neuordnung der Verkehre, Verkehrsberuhigung und Barrierefreiheit" Änderungsantrag Klima Freunde - zurückgestellt
+- TOP 5.1.4: Neuordnung der Verkehre im Bereich Deutz-Mülheimer Str./Justinianstr./Opladener Str. - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Maus-Ampel für Köln – 50 Jahre WDR-Maus feiern, Antrag SPD Rat - endgültig abgelehnt
+- TOP 5.2.2: Umwidmung von Verkehrsflächen auf Vogelsanger Straße / Venloer Straße im Grüngürtel, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.3: Mehr Sicherheit an der KVB-Haltestelle Barbarossaplatz, Antrag CDU - geändert beschlossen
+- TOP 5.2.4: Sperrung der Drehbrücke, Antrag SPD - geändert beschlossen
+- TOP 5.2.5: Mindestens zwei autofreie Tage in der Innenstadt in 2022, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.6: Straßenausbesserung an der KVB-Haltestelle Moltkestraße, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.7: Rückbau bzw. Neugestaltung Bürgersteig Severinstraße am Stadtarchiv, Antrag SPD - endgültig abgelehnt
+- TOP 5.2.8: Mehr Sicherheit an der KVB-Haltestelle Neumarkt, Antrag CDU - geändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.2: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016) - zurückgestellt
+- TOP 6.1.3: Zustände der KVB-Haltestellen in der Innenstadt - zurückgestellt
+- TOP 6.1.4: Baumfällungen für Schulbauten, Anfrage Die Linke
+- TOP 6.1.4.1: Baumfällungen für Schulbauten - Anfrage der Fraktion DieLinke - zu AN/2525/2021
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Parksituation in Deutz, Anfrage CDU - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 7.1: Fahrradstellnadeln Theo-Burauen- Platz, mdl. Anfrage Grüne
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Umgestaltung des Fußgängerüberwegs an der Haltestelle Ubierring (Nordseite) - Kenntnis genommen
+- TOP 9.2: Ausweitung der Parkraumbewirtschaftung auf der Siegburger Straße im Bewohnerparkgebiet Deutz V - Kenntnis genommen
+- TOP 9.3: Bündelungsgymnasien in Köln in den Schuljahren 2023/24 bis 2025/26 - Kenntnis genommen
+- TOP 9.4: Planungen zur Verbesserung des Mikroklimas in der Kölner Innenstadt - Kenntnis genommen
+- TOP 9.5: Umsetzung von Radfahrstreifen auf der Neuköllner Straße und Tel-Aviv-Straße (südliche Fahrtrichtung) gemäß AN/2374/2021 - Kenntnis genommen
+- TOP 9.6: Nachfragen zur Mitteilung 3657/2021 - Straßenlärm macht krank - Lärmeinwirkungen im Bezirk Innenstadt, hier: AN/1107/2021 - Kenntnis genommen
+- TOP 9.7: Radverkehrskonzept Innenstadt - Kölner Ringe - Lückenschluss Radfahrstreifen Habsburgerring/Hohenzollernring - Kenntnis genommen
+- TOP 9.8: AN/2168/2021: Bank-Tisch-Kombination im Pantaleonsviertel - Kenntnis genommen
