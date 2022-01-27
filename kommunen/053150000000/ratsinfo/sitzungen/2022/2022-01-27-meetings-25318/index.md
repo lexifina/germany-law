@@ -1,0 +1,85 @@
+# 9. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-27T17:00:00+01:00
+- Ende: 2022-01-27T17:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25318
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25318
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Skateanlage Stadtteil Kalk - zurückgestellt
+- TOP 1.2: Einwohneranfrage betreff Fred-Sauer-Platz - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Eine Gesamtschule für Köln-Neubrück! - zurückgestellt
+- TOP 7.1.1: Gesamtschule ja - Aber nur mit Kollegium, Eltern und Schüler*innenschaft gemeinsam - zurückgestellt
+- TOP 7.1.2: Stellungnahme zu AN/1677/2021 Antrag der SPD-Fraktion vom 19.08.2021 - Eine Gesamtschule für Köln-Neubrück! - zurückgestellt
+- TOP 7.2: Materialausstattung für die Freiwillige Feuerwehr im Stadtbezirk Kalk - endgültig zurückgezogen
+- TOP 7.3: Instandsetzung des Verbindungsweges vom Merheimer Heideweg/Günter Kuxdorf Weg zur Kleingartenanlage, an der Ostseite des Sportpark Höhenberg - geändert beschlossen
+- TOP 7.3.1: Änderungsantrag zu "Instandsetzung des Verbindungswegs vom Merheimer Heideweg/Günter Kuxdorf Weg zur Kleingartenanlage, an der Ostseites des Sportparks Höhenberg" - geändert beschlossen
+- TOP 7.3.1.1: Ergänzungsantrag der Fraktionen SPD und CDU betreff Instandsetzung der Wege in der Merheimer Heide - ungeändert beschlossen
+- TOP 7.4: Weitere Tischtennisplatten im Stadtteil Kalk - endgültig zurückgezogen
+- TOP 7.4.1: Änderungsantrag zu Weitere Tischtennisplatten im Stadtteil Kalk - endgültig zurückgezogen
+- TOP 7.5: Toiletten auf der Merheimer Heide auch im Winter! - ungeändert beschlossen
+- TOP 7.6: nicht besetzt ( ursprüngliche Vorlage wurde nach TOP 9.2.1 verschoben)
+- TOP 7.7: Elektro-Veedelsbus für den Veedelshausmeister und Bürger*innen aus dem Stadtbezirk - endgültig zurückgezogen
+- TOP 7.8: Mehr Sicherheit und Komfort für Radfahrende auf der Dillenburger Straße - ungeändert beschlossen
+- TOP 7.9: Anschaffung eines Pumptracks für den Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 7.10: Metallgittersitzbänke auf dem Skaterpark - endgültig zurückgezogen
+- TOP 7.11: Pilotprojekt Entsiegelung unter Parkplatzen - zurückgestellt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Standorte für Papierkörbe mit Pendelklappen in Grünanlagen - ungeändert beschlossen
+- TOP 8.1.2: Verwendung weiterer Bezirksorientierte Mittel 2021 für den Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.1.3: Umgestaltung des Spielplatzes Seligenthaler Straße in Köln-Humboldt/Gremberg - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Änderung der Hauptsatzung, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik zu Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen - ungeändert beschlossen
+- TOP 8.2.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Adalbertstraße in Köln-Höhenberg - geändert beschlossen
+- TOP 8.2.2.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Adalbertstraße in Köln-Höhenberg" - geändert beschlossen
+- TOP 8.2.2.2: Änderungsantrag zu TOP 8.2.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Adalbertstraße in Köln-Höhenberg - ungeändert beschlossen
+- TOP 8.2.3: Stellplatzsatzung für Köln - zurückgestellt
+- TOP 8.2.3.1: Änderungsantrag Stellplatzsatzung für Köln - zurückgestellt
+- TOP 8.2.4: Kapazitätserweiterung auf der Ost-West-Achse - Linie 1 - geändert beschlossen
+- TOP 8.2.4.1: Ergänzungsantrag zu Top 8.2.4: Kapazitätserweiterung auf der Ost-West-Achse - Linie 1 hier: Einrichtung eines politischen Begleitgremiums - ungeändert beschlossen
+- TOP 8.2.5: 280. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - endgültig abgelehnt
+- TOP 8.2.6: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - ungeändert beschlossen
+- TOP 8.2.7: Förderprogramm "Dritte Orte" - 1. Genehmigung für die Förderphase 2022ff - ungeändert beschlossen
+- TOP 8.2.8: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors mit Grundstück zur Planung und Errichtung eines Gesamtschulgebäudes für den Stadtbezirk Kalk - geändert beschlossen
+- TOP 8.2.8.1: Änderungsantrag zur Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors mit Grundstück zur Planung und Errichtung eines Gesamtschulgebäudes für den Stadtbezirk Kalk - geändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Mülleimer in Vingst, Beantwortung Anfrage der Fraktion Die LINKE. (AN/2444/2021) - Kenntnis genommen
+- TOP 9.1.2: Toiletten am Skatepark in der Merheimer Heide - Kenntnis genommen
+- TOP 9.1.3: Beantwortung der Rückfragen der SPD-Fraktion zu der Vorlage „2411/2021 - U-Bahn Vertrag“ aus der Sitzung der Bezirksvertretung Kalk vom 25.11.2021 - Kenntnis genommen
+- TOP 9.1.4: Beantwortung des Antrages AN/1642/2021 der SPD-Fraktion vom 02.09.2021 TOP 7.4 - Kenntnis genommen
+- TOP 9.1.5: Sachstand Baustelleneinrichtung Am Hirschsprung - Kenntnis genommen
+- TOP 9.1.6: Bedarf an Quartiersgaragen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.7: Verkehrssituation an den Schulen Diesterwegstraße und Petersenstraße - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Geringe Restbreite der Gehwege auf der Kalker Hauptstraße - Kenntnis genommen
+- TOP 9.2.2: Aktueller Stand zu Planungen des Domid - Kenntnis genommen
+- TOP 9.2.3: Hilfsangebote für Obdachlose Menschen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Verkehrssichere Schulwege an der zukünftigen Grundschule an der Thessaloniki-Allee in Köln-Kalk jetzt schon schaffen - Kenntnis genommen
+- TOP 10.2.2: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen
+- TOP 10.2.3: Bebauungsplaverfahren „Astrid-Lindgren-Allee“ in Köln-Brück: Vorgehensweise bei der Reihenfolge Durchführung des städtebaulichen Wettbewerbs/ Beschluss über die Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeiteiligung - Kenntnis genommen
+- TOP 10.2.4: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 10.2.5: TOP 10.2.5 nicht besetzt (wurde geschoben nach TOP 8.2.8)
+- TOP 10.2.6: Niederschrift 6. Runder Tisch Radverkehr Kalk - Kenntnis genommen
+- TOP 10.2.7: Niederschrift 7. Runder Tisch Radverkehr Kalk - Kenntnis genommen
+- TOP 10.2.8: Bündelungsgymnasien in Köln in den Schuljahren 2023/24 bis 2025/26 - Kenntnis genommen
+- TOP 10.2.9: Beschluss zur Änderung der Richtlinie zur Umsetzung des „Haus-, Hof- und Fassadenprogramms“ im Projekt „Starke Veedel – Starkes Köln“ im Sozialraum „Humboldt/Gremberg und Kalk“ - zurückgestellt
+- TOP 13.2: Übersicht BV Anfragen Stand 27.01.2022 - Kenntnis genommen
