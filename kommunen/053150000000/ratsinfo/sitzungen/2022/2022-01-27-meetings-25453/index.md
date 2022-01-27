@@ -1,0 +1,83 @@
+# 11. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-27T17:30:00+01:00
+- Ende: 2022-01-27T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25453
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25453
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Verkehrsschauen in Nippes - zurückgestellt
+- TOP 1.2: Baustelle der KVB-Zulaufstrecke zur Abstellhalle Weidenpesch - zurückgestellt
+- TOP 1.3: Umweltinformationen bzw. Straßenverkehrsimmissionen - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Errichtung einer Quartiersgarage auf dem Parkplatz an der Kleingartenanlage Boltensternstraße - zurückgestellt
+- TOP 7.1.2: Bedarf an Quartiersgaragen im Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Bedarf an Quartiersgaragen im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.1.3: Verkehrsberuhigter Bereich (Spielstraße) Rudolf-Sohm-Straße - zurückgestellt
+- TOP 7.1.4: Zustand der Wasch- und Duschräume der Turnhalle der GGS Halfengasse - Kenntnis genommen
+- TOP -: Zustand der Wasch- und Duschräume in der Turnhalle Halfengasse - zur Anfrage der SPD-Fraktion AN/2234/2021 - Kenntnis genommen
+- TOP 7.1.5: Verfall und Verwahrlosung des denkmalgeschützten ehemaligen Mühlenhofs, Wirtgasse 2, Longerich - zurückgestellt
+- TOP 7.1.6: Vogelschutzstreifen in Longerich - Kenntnis genommen
+- TOP -: "Vogelschutzstreifen" in Köln- Longerich - Kenntnis genommen
+- TOP 7.1.7: Gehwegreinigung - Kenntnis genommen
+- TOP -: Gehwegreinigung - Kenntnis genommen
+- TOP 7.1.8: Friedhof Longerich: Sanierung der Toiletten - Kenntnis genommen
+- TOP -: Friedhof Longerich: Sanierung der Toiletten - zur Anfrage der SPD-Fraktion AN/2560/2021 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Weg vor der Niehler Straße 242 bis 248 - zurückgestellt
+- TOP 7.2.2: Bewohnerparken Longerich Graseggerstraße - zurückgestellt
+- TOP 7.2.3: Baumfällungen und Pflanzungen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.2.4: Carsharingplätze im Stadtbezirk Nippes und speziell in der Nibelungensiedlung in Mauenheim - zurückgestellt
+- TOP 7.2.5: Beleuchtung eines Verbindungsweges in Niehl - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Fußgängerüberweg Escher Straße, Bilderstöckchen, Höhe Shell-Tankstelle - ungeändert beschlossen
+- TOP 8.1.2: Kiss and Ride-Parkfläche am Wilensteinweg in Bilderstöckchen - geändert beschlossen
+- TOP 8.1.3: Bewohnerparkplätze Gellertstraße - ungeändert beschlossen
+- TOP 8.1.4: Verkehrssicherheit Barbarastraße/Goldfußstraße - geändert beschlossen
+- TOP 8.1.5: Einrichtung von Wasserspielplätzen im Bezirk - geändert beschlossen
+- TOP 8.1.6: Escher Straße: Gefährdungen vermeiden, Radfahrende schützen - ungeändert beschlossen
+- TOP 8.1.7: Sanierung der GGS an der Steinberger Straße - zurückgestellt
+- TOP 8.1.8: Verkehrssicherheit Treppenaufgang S-Bahn-Haltestelle Geldernstraße Richtung Ausbesserungswerk - ungeändert beschlossen
+- TOP 8.1.9: Longericher Hauptstraße: Zweistufen-Regelung, Zebrastreifen und Wegfall von weiteren zwei Parkplätzen auf der Nordseite - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Wiedereinsetzung der Stadtserviceteams – als „schnelle Eingreifgruppen“ bekannte Aufräumeinheiten – im öffentlichen Raum - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe bezirksorientierter Mittel an den Kölner Flüchtingsrat e.V. - zurückgestellt
+- TOP 9.1.2: Standorte für Papierkörbe mit Pendelklappen in Grünanlagen - ungeändert beschlossen
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an die OT Take Five - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes Arbeitstitel: "Quartiersentwicklung Simonskaul in Köln-Weidenpesch und Aufhebung der Verlängerung der Äußeren Kanalstraße in Köln-Bilderstöckchen, -Weidenpesch und -Longerich - ungeändert empfohlen
+- TOP -: 234. Änderung des Flächennutzungsplans im Stadtbezirk 5 - endgültig zurückgezogen
+- TOP 9.2.2: Stellplatzsatzung für Köln - ungeändert empfohlen
+- TOP -: Änderungsantrag Stellplatzsatzung für Köln - Kenntnis genommen
+- TOP 9.2.3: Schulrechtliche Erweiterung der Inklusiven Offenen Ganztagsschule Kretzerstraße, GGS Kretzerstraße 5-7, 50733 Köln-Nippes von zwei auf drei Züge zum Schuljahr 2023/24 gemäß § 81 Abs. 2 Schulgesetz NRW - ungeändert empfohlen
+- TOP 9.2.4: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - ungeändert empfohlen
+- TOP 9.2.5: Förderprogramm "Dritte Orte" - 1. Genehmigung für die Förderphase 2022ff - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 10.2.2: Geschwindigkeitskontrollen Ecke Jesuitengasse und Pallenbergstraße, Session Nr. 3619/2021 - Kenntnis genommen
+- TOP 10.2.3: Bewirtschaftung des städtischen Waldes 2021/22, hier: Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.4: Wasserspielplätze im Stadtbezirk Nippes - Gemeinsamer Antrag von FDP und Klima-Freunden - AN/1244/2021 - Kenntnis genommen
+- TOP 10.2.5: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes Arbeitstitel: "Quartiersentwicklung Simonskaul in Köln-Weidenpesch und Aufhebung der Verlängerung der Äußeren Kanalstraße in Köln-Bilderstöckchen, -Weidenpesch und -Longerich - Kenntnis genommen
+- TOP 10.2.6: Stellungnahme zum Beschluss des Antrags AN/2223/2021 TOP 8.1.6 - Kenntnis genommen
+- TOP 10.2.7: Bündelungsgymnasien in Köln in den Schuljahren 2023/24 bis 2025/26 - Kenntnis genommen
+- TOP 10.2.8: Stellungnahme zum Beschluss der Bezirksvertretung Nippes vom 02.12.2021 zur Einrichtung eines Familiengrundschulzentrums im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.9: Tätigkeitsbericht 2020 - Kenntnis genommen
+- TOP 10.2.10: Erhöhung der Verkehrssicherheit durch kombinierte Rotlicht- und Geschwindigkeitsüberwachungsanlagen für den Knotenpunkt Boltensternstraße/Barbarastraße, Riehl - Kenntnis genommen
