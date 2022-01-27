@@ -1,0 +1,66 @@
+# 33. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-01-27T16:00:00+01:00
+- Ende: 2022-01-27T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11036
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11036
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_oU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00586868.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde zum Thema "Attraktivität von Bus und Bahn in Dresden nachhaltig sichern" - Vertagung
+- TOP 4: Keine Kürzungen bei Bus und Bahn. Gutachterirrsinn beenden. Dresdner Verkehrsbetriebe stärken! - Vertagung durch Einreicher
+- TOP 5: Intelligente Verkehrswende statt Kürzungen im Nahverkehr – breitere Finanzierungsbasis der Dresdner Verkehrsbetriebe (DVB) herstellen - zurückgestellt
+- TOP 6: Bus und Bahn beschleunigen - Vertagung
+- TOP 7: Aktuelle Stunde zum Thema „Solidarität und Barmherzigkeit – Aktiv gegen Obdachlosigkeit in Dresden“ - Vertagung
+- TOP 8: Nachbesetzung des Seniorenbeirates gemäß § 25 Abs. 4 Hauptsatzung - gewählt
+- TOP 9: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Zustimmung
+- TOP 10: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Neustadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 11: Wahl eines Protokollführers für die Schiedsstelle Prohlis-West der Landeshauptstadt Dresden - Zustimmung
+- TOP 12: Wahl des Gemeindewahlausschusses für die Oberbürgermeisterwahl 2022 - punktweise Zustimmung
+- TOP 13: Tagesordnungspunkte ohne Debatte
+- TOP 14: 1. Aktualisierung des Wohnkonzeptes und der Richtlinie "Kooperatives Baulandmodell Dresden" - Zustimmung
+- TOP 15: Zuschuss zum Projekt „faire und nachhaltige Beschaffung in Sachsen“ des Entwicklungspolitischen Netzwerkes Sachsen (ENS) e. V. und des Eine Welt e. V. Leipzig, gefördert durch die Servicestelle Kommunen in der Einen Welt (SKEW) für 2022 bis 2023 - Zustimmung
+- TOP 16: Vergabe der Planung und Errichtung der Schulbauvorhaben Universitätsgrundschule und der Universitätsoberschule in die Schulart Gemeinschaftsschule an die STESAD GmbH - punktweise Zustimmung
+- TOP 17: Volkshochschule Dresden e. V. – Rechtsformvergleich und Zuwendungsvertrag - Zustimmung
+- TOP 18: Vorhabenbezogener Bebauungsplan Nr. 6048, Dresden-Leutewitz, Wohnbebauung am Leutewitzer Park - Zustimmung
+- TOP 19: Instandsetzung der Carolabrücke Brückenzug C - Zustimmung mit Ergänzung
+- TOP 20: Neubenennung und Umbenennung von Straßen - Vertagung nach 22 Uhr
+- TOP 21: Beitritt der Landeshauptstadt Dresden zur interkommunalen Städteinitiative „Green City Accord“ - Zustimmung
+- TOP 22: Übertragung der Stadtbezirksbeiratsmittel 2021 auf das Haushaltsjahr 2022 - Vertagung nach 22 Uhr
+- TOP 23: Vertagungen der Stadtratssitzung vom 23.09.2021
+- TOP 23.1: Sichere und schnelle Radwegverbindung vom Heidefriedhof zum Elbradweg durch Nutzung der zurückgebauten Bahntrasse - Vertagung durch Einreicher
+- TOP 23.2: Biologische Vielfalt und ökologische Qualität der Dresdner Teiche und Fließgewässer sichern und verbessern - Vertagung durch Einreicher
+- TOP 23.3: Sozial aus der Krise – Auswirkungen der Corona-Pandemie und des Lockdowns begegnen - Vertagung nach 22 Uhr
+- TOP 23.4: Neubenennung von Straßen, hier Benennung einer Planstraße im Baugebiet Alberstadt-Ost – Stauffenbergallee/Marienallee in „Wolfgang-Mischnick-Straße“ - Vertagung durch Einreicher
+- TOP 24: Vertagungen der Stadtratssitzung vom 25.11.2021
+- TOP 24.1: Albertpark als Ort des Waldnaturschutzes, der Naturbildung und naturnahen Erholung weiterentwickeln - Vertagung durch Einreicher
+- TOP 24.2: Eine neue Internationale Hygiene-Ausstellung in Dresden - Vertagung durch Einreicher
+- TOP 24.3: Anhörung zum Antrag A0234/21 „Modellprojekt zur legalen Abgabe von Cannabis" - Vertagung durch Einreicher
+- TOP 24.4: E-Petition/Petition "Dresden soll sicherer Hafen werden!" - Vertagung nach 22 Uhr
+- TOP 25: Stromsperren verhindern - Vertagung nach 22 Uhr
+- TOP 26: Stromsperren verhindern - Vertagung nach 22 Uhr
+- TOP 27: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Vertagung nach 22 Uhr
+- TOP 28: Verbesserung der Umsetzung der Stadtbezirksbeiratsförderrichtlinie - Vertagung
+- TOP 29: Verkehrssicherheit entlang der Münchner Straße - Vertagung nach 22 Uhr
+- TOP 30: Vergabe von Wohnbauflächen an Dresdner Familien mit niedrigen und mittleren Einkommen (Einheimischen-Modell) - Vertagung durch Einreicher
+- TOP 31: Elbradweg sicher für alle - Fußgänger besser schützen - Vertagung
+- TOP 32: Dresdner Bericht über die Lebensverhältnisse in den Stadtteilen (Gleichwertigkeitsbericht) - Vertagung nach 22 Uhr
+- TOP 33: Innenstadt in Dresden nach Corona dauerhaft stärken – Leerstand bekämpfen - Aufenthaltsqualität erhöhen - Vertagung
+- TOP 34: Mieterinnen und Mieter schützen – erzwungene Umzüge verhindern - zurückgezogen
+- TOP 35: Aktualisierung und regelmäßige Berichterstattung zum Sanierungs- und Entwicklungskonzept Dresdner Sportstätten (SANEKO, Anlage 2 zu Beschluss SR V2699/18) - Zustimmung
+- TOP 36: Wiedereinführung von Oberleitungsbussen in Dresden - Vertagung
+- TOP 37: Wohngeldantrag digital einreichen - Vertagung nach 22 Uhr
+- TOP 38: Teilhabe am sozialen und kulturellen Leben verbessern - Vertagung nach 22 Uhr
+- TOP 39: Schluss mit dem Genderwahn – Sprache muss einfach und verständlich bleiben - Vertagung nach 22 Uhr
+- TOP 40: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 41: Besondere Förderung von stadtteilbezogenen Vorhaben und Arbeiten nach der Aufhebung der aktuellen epidemischen Lage - Vertagung nach 22 Uhr
+- TOP 42: Beteiligungsbericht 2020 der Landeshauptstadt Dresden - zur Kenntnis genommen
+- TOP 43: Information zur Vorplanung des Instandsetzungsbedarfs am Sowjetischen Ehrenmal (Olbrichtplatz) - zur Kenntnis genommen
