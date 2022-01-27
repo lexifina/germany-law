@@ -1,0 +1,78 @@
+# 8. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-27T15:05:00+01:00
+- Ende: 2022-01-27T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25074
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25074
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer mündlichen Nachfrage der SPD-Fraktion betr.: "Modellversuch des Landes Nordrhein-Westfalen zur Verlängerung und zum Ankauf von Belegungsbindungen" (3739/2021) - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Entwicklung Neue Porzer Mitte" - Kenntnis genommen
+- TOP -: Integriertes Stadtentwicklungskonzept Porz Mitte - Kenntnis genommen
+- TOP 1.3: Anfrage der SPD-Fraktion betr.: "Bebauung des Schützenplatzes Takustraße 37 – Zwangsräumung von Familienwohnwagen" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion, betr. Bebauung des Schützenplatzes Takustraße 37 – Zwangsräumung von Familienwohnwagen - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage der SPD-Fraktion betr.: "Coty-Areal in Köln-Bickendorf" - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: Dringlichkeitsantrag der Fraktion Die Linke. und der Ratsgruppe Die Partei betr.: "Otto-Langen-Quartier in Mülheim Süd: Das NRW.Urban-Gelände" - endgültig zurückgezogen
+- TOP 3.2: Antrag der Fraktion Die Linke. betr.: "Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums" - endgültig zurückgezogen
+- TOP -: Gemeinsamer Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt zu Top 3.2 betr.: "Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums" - endgültig zurückgezogen
+- TOP -: Gemeinsamer Änderungsantrag der Fraktionen SPD, Die Linke. und FDP zu Top 3.2 betr.: "Städtebauliche Entwicklung Deutzer Hafen Köln: Einrichtung eines Begleitgremiums" - endgültig zurückgezogen
+- TOP 3.3: Antrag der Fraktion Die Linke. betr.: "Parkstadt Süd. Pionierpfad" - zurückgestellt
+- TOP 3.4: Antrag der Fraktion Die Linke. betr.: "Soziale Erhaltungssatzungen: Transparenz bei der Priorisierung von Gebieten" - endgültig zurückgezogen
+- TOP 3.5: Dringlichkeitsantrag der SPD-Fraktion betr.: "Kölner Modell der Wettbewerbsverfahren beibehalten" - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Deutzer Hafen, Begleitgremium - geändert beschlossen
+- TOP -: Ergänzungsantrag zu Top 5.1. „Deutzer Hafen, Begleitgremium“ in der Sitzung des Stadtentwicklungsausschusses vom 27.1.22 - endgültig abgelehnt
+- TOP 5.2: Kapazitätserweiterung auf der Ost-West-Achse - Linie 1 - ungeändert empfohlen
+- TOP 5.3: Max-Becker-Areal in Köln-Ehrenfeld;hier: Ablauf des Städtebaulich-freiraumplanerischen Wettbewerbs und Vorgaben für die Auslobung inklusive Ideenteil - zurückgestellt
+- TOP 5.4: Umlegungsanordnung für das Umlegungsgebiet U 461 in Köln-Roggendorf-Thenhoven (Straberger Weg) - ungeändert empfohlen
+- TOP 5.5: Freigabe finanzieller Mittel für die neue Kooperationsstelle für gemeinschaftliches Bauen und Wohnen - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Umsetzung Stadtentwicklungskonzept Wohnen, hier: Beschluss über die Soziale Erhaltungssatzung gem. § 172 Abs. 1 Satz 1 Nr. 2 Baugesetztbuch für das Gebiet Mülheim Süd-West - Sache ist erledigt
+- TOP 6.2: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein - ungeändert empfohlen
+- TOP 6.3: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - ungeändert empfohlen
+- TOP 6.4: Stellplatzsatzung für Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion Die Fraktion zu TOP 6.4 - Stellplatzsatzung für Köln - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Verlängerung des Durchführungszeitraumes für Sanierungsmaßnahmen im Geltungsbereich der Sanierungssatzung 'Umfeld Archäologische Zone am Rathaus' - ungeändert empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes Arbeitstitel: "Quartiersentwicklung Simonskaul in Köln-Weidenpesch und Aufhebung der Verlängerung der Äußeren Kanalstraße in Köln-Bilderstöckchen, -Weidenpesch und -Longerich - ungeändert beschlossen
+- TOP 7.2: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes Arbeitstitel: "Quartiersentwicklung Simonskaul in Köln-Weidenpesch und Aufhebung der Verlängerung der Äußeren Kanalstraße in Köln-Bilderstöckchen, -Weidenpesch und -Longerich - Kenntnis genommen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Noellstraße in Köln-Mülheim Anhörung der Bezirksvertretung 9 (Mülheim) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbetei-ligung, Beschluss über die Vorgaben zur Ausarbeitung des - Alternative beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: "Hauptstraße/Urbacher Weg" in Köln-Porz - geändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: "Friedrichstraße" in Köln-Porz - geändert beschlossen
+- TOP 10.3: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Dorotheenstraße in Köln-Porz - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Adalbertstraße in Köln-Höhenberg - geändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - zurückgestellt
+- TOP 10.6: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nr. 71380/03, Arbeitstitel: Sürther Feld in Köln-Rodenkirchen 1. Änderung - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) - ohne Votum in nachfolgende Gremien
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 75391/04 - ohne Votum in nachfolgende Gremien
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 62486/02 - ungeändert empfohlen
+- TOP 12.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 67424/03; Arbeitstitel: Sechtemer Straße/ Bonnerstraße in Köln-Raderberg - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Aufhebung des Bebauungsplans Nummer 75389/03 -Teilaufhebung - Satzungsbeschluss -Arbeitstitel: Kaiserstraße in Köln-Porz-Urbach - ohne Votum in nachfolgende Gremien
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Beschluss der Bezirksvertretung Nippes per Dringlichkeit Erhalt der Fläche des derzeitigen Golfplatzes an der Neusser Landstraße als Grünfläche - zurückgestellt
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 18: Mitteilungen
+- TOP 18.1: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 18.2: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 18.3: Beratungsstelle für gemeinschaftliche Wohnbauprojekte - Kenntnis genommen
+- TOP 18.4: Grundstücke des Landes NRW im Otto-Langen-Quartier, Mülheimer Süden - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
