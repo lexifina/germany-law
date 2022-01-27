@@ -1,0 +1,100 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-27T17:00:00+01:00
+- Ende: 2022-01-27T17:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25638
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25638
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Entsiegelung aufgegebener Bushaltestellen
+- TOP 7.1.2: Geschwindigkeitsbegrenzung der Straße Volkhovener Weg/Merianstraße
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Klärschlammverbrennung
+- TOP 7.2.2: Schülerzahlen zum Schuljahr 22/23 an der GGS Amandusstraße
+- TOP 7.2.3: Heizungsausfall im städtischen Heinrich-Mann Gymnasium
+- TOP 7.2.4: Neubauprojekt ehemalige ev. Kirche Esch
+- TOP 7.2.5: Verwahrloste Grünfläche an der Johannes-Albers-Straße
+- TOP 7.2.6: Saisonanale Ampelschaltung am P8 des Fühlinger Sees
+- TOP 7.2.7: Evaluierung des Pilotprojekts On-Demand-Bus der KVB
+- TOP 7.2.8: Nach Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln,
+- TOP 7.2.9: Dächer des Einkaufszentrums Heimersdorf
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: TOP 7.2.3. a.d.S. vom 15.04.2021, Historischer Friedhof Esch, AN/0173/2021
+- TOP 7.3.2: TOP 7.2.4. i.d.S. vom 15.04.2021, Installierung zentr. Wasser- und Stromanschluss Auweiler AN/0174/2021
+- TOP 7.3.3: TOP 7.2.10 i.d.S. vom 15.04.2021, KVB Fahrgast EKZ Heimersdorf, AN/0218/2021
+- TOP 7.3.4: TOP 7.2.15 i.d.S. vom 15.04.2021, Sachstand Blumenbergsweg, 0350/2021
+- TOP 7.3.5: TOP 7.2.20 i.d.S. vom 15.04.2021, Grünstreifen Liller Str./Oxforder Passage, 0654/2021
+- TOP 7.3.6: TOP 7.2.7 i.d.S. vom 15.04.2021, Verkehrsprüfung Liverpooler Platz, 0176/2021
+- TOP 7.3.7: TOP 7.2.1 i.d.S. vom 27.05.2021, Straßenbäume in Chorweiler und Seeberg, 1080/2021
+- TOP 7.3.8: TOP 7.2.2. i.d.S. vom 17.06.2021, Insel Pescher See 1352/2021
+- TOP 7.3.9: TOP 7.2.3. i.d.S. vom 17.06.2021 Wochenmarkt 1334/2021
+- TOP 7.3.10: TOP 7.2.7 i.d.S. vom 17.06.2021 Raser Mercatorstr. 1344/2021
+- TOP 7.3.11: TOP 7.2.1 i.d.S. vom 08.07.2021, SG Worringen - Sportplatz St. Tönnis-Str., AN/1522/2021
+- TOP 7.3.12: TOP 7.2.2. i.d.S. vom 26.08.2021, Anhäufung von Sperrmüll auf öffentlichen Straßen im Kölner Norden, 1590/2021
+- TOP 7.3.13: TOP 7.2.3 i.d.S. vom 26.08.2021, Alte NeusserLandstr. 273, Haus Worringen 1591/2021
+- TOP 7.3.14: TOP 7.2.1 i.d.S. vom 23.09.2021, Bauliche Änderungen im Rahmen der Sanierung der B9, Ortslage Worringen AN/1988/2021
+- TOP 7.3.15: TOP 7.2.4 i.d.S. vom 23.09.2021, Energiesicherheit für Fernwärme im Bezirk Chorweiler AN/1990/2021
+- TOP 7.3.16: TOP 7.2.5 i.d.S. vom 23.09.2021, Eröffnung Grundschule Volkhoven/Weiler AN/1991/2021
+- TOP 7.3.17: TOP 7.2.6 i.d.S. vom 23.09.2021, Regenerative Energie-Erzeugung im Bezirk Chorweiler AN/1992/2021
+- TOP 7.3.18: TOP 7.2.7 i.d.S. vom 23.09.2021, Parksituation am Asternweg in Seeberg AN/1984/2021
+- TOP 7.3.19: TOP 7.2.8 i.d.S. vom 23.09.2021, Kletterwand auf die Lyoner Passage an der Außenfassade am City Center AN/1977/2021
+- TOP 7.3.20: TOP 9.2.4 i.d.S. vom 23.09.2021, Kinder- und Jugendförderplan der Stadt Köln 2021-2025 1805/2021 - mündl. Anfrage am 14.10.2021 weitergeleitet
+- TOP 7.3.21: TOP 10.2.8 i.d.S. vom 23.09.2021, „Multilingualität von Anfang an -Aktuelle Übersicht zu Angeboten und Sprachfördermöglichkeiten von Mehrsprachigkeit in der Stadt Köln“ 2930/2021 - mündl. Anfrage am 13.10.2021 weitergeleitet
+- TOP 7.3.22: TOP 7.2.2 i.d.S. vom 04.11.2021, Straßen- und Wegekonzept 2022 bis 2026 AN/2274//2021
+- TOP 7.3.23: TOP 7.2.4 i.d.S. vom 04.11.2021, Parkgelände Volkhoven/Weiler AN/2275/2021
+- TOP 7.3.24: TOP 7.2.6 i.d.S. vom 04.11.2021, Retentionsraum Worringen AN/2279/2021
+- TOP 7.3.25: TOP 10.2.1 i.d.S. vom 04.11.2021, Anfrage zur Zahl der antragstellenden Moscheen im Kölner Norden und der Rechtsgrundlage für die Gebetsrufe
+- TOP 7.3.26: TOP 7.2.1 i.d.S. vom 09.12.2021, Anfrage zur Beschattung von Spielplätzen, AN/2638/2021
+- TOP 7.3.27: TOP 7.2.2 i.d.S. vom 09.12.2021, Kataster für Ausgleichsflächen, AN/2631/2021
+- TOP 7.3.28: TOP 7.2.3 i.d.S. vom 09.12.2021, Fehlende Beleuchtung auf der Neusser Landstraße in Fühlingen, AN/2612/2021
+- TOP 7.3.29: TOP 7.2.4 i.d.S. vom 09.12.2021, Sicherheit der Brücken auf der Fritz-Wacker-Straße, AN/2616/2021
+- TOP 7.3.30: TOP 7.2.5 i.d.S. vom 09.12.2021, Menstruationsartikel an Schulen im Bezirk, AN/2607/2021
+- TOP 7.3.31: TOP 7.2.6 i.d.S. vom 09.12.2021, Förderung des ÖPNV im Kölner Norden, AN/2620/2021
+- TOP 7.3.32: TOP 7.2.7 i.d.S. vom 09.12.2021, Spielplatz an der Merkenicher Ringstraße, AN/2608/2021
+- TOP 7.3.33: TOP 7.2.8 i.d.S. vom 09.12.2021, Gewerbesteuer im Stadtbezirk Chorweiler, AN/2561/2021
+- TOP 7.3.34: TOP 7.2.9 i.d.S. vom 09.12.2021, Nutzung des Schrottplatzes, Causemannstr Ecke Emdener Str., AN/2528/2021
+- TOP 7.3.35: TOP 7.2.10 i.d.S. vom 09.12.2021, Seilbahn im Kölner Norden, AN/2599/2021
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Einrichtung einer Einbahnstraße Mohlenweg in Köln-Langel - ungeändert beschlossen
+- TOP 8.3.2: Verlängerung der Nord-Süd-Stadtbahn Linie 5 und der Stadtbahn Linie 12 - Sache ist erledigt
+- TOP 8.3.2.1: TOP 8.3.2 Verlängerung der Nord-Süd-Stadtbahn Linie 5 und der Stadtbahn Linie 12 - ungeändert beschlossen
+- TOP 8.3.3: Fehlender Reitweg aufgrund der verzögerten Bauarbeiten an der Merkenicher Rheinbrücke - ungeändert beschlossen
+- TOP 8.3.4: Poller an der Geiersbergstraße und Ernstbergstraße in Köln-Blumenberg an der Zufahrt zur S-Bahn Haltestelle Köln-Blumenberg - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Standorte für Papierkörbe mit Pendelklappen in Grünanlagen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - ungeändert beschlossen
+- TOP 9.2.2: Förderprogramm "Dritte Orte" - 1. Genehmigung für die Förderphase 2022ff - ungeändert beschlossen
+- TOP 9.2.3: Erweiterungsbau Mensa an der Henry-Ford-Realschule, Karl-Marx-Allee 43 in 50769 Köln-Chorweiler - Baubeschluss - ungeändert beschlossen
+- TOP 9.2.4: Umlegungsanordnung für das Umlegungsgebiet U 461 in Köln-Roggendorf-Thenhoven (Straberger Weg) - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 10.2.2: Bewirtschaftung des städtischen Waldes 2021/22 - Kenntnis genommen
+- TOP 10.2.3: Bündelungsgymnasien in Köln in den Schuljahren 2023/24 bis 2025/26 - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Hundefreilaufwiese (FDP-Fraktion)
+- TOP 11.2.2: Fragen an die Verwaltung in Bezug auf vorangegangene Sitzungen der Bezirksvertretung (AfD-Fraktion)
+- TOP 11.2.3: (AfD-Fraktion Köln Chorweiler) mündliche Anfrage im Nachgang zur Sitzung der Bezirksvertretung Köln Chorweiler
+- TOP 11.3: Anfragen der Seniorenvertretung
