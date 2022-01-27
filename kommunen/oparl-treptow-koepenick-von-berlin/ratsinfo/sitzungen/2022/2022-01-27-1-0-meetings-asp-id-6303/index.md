@@ -1,0 +1,93 @@
+# 4. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-01-27T16:30:00+01:00
+- Ende: 2022-01-27T20:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6303
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6303
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=372980
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - im Ausschuss abgelehnt
+- TOP 6.1: Wahl eines weiteren Mitgliedes des Bezirksamtes - gewählt
+- TOP 6.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 6.3: Wahl von Bürgerdeputierten - gewählt
+- TOP 6.4: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 6.5: Vorschlag für die Wahl und Wiederwahl der Mitglieder des Ehrenamtlichen Dienstes im sozialen Bereich - gewählt
+- TOP 6.6: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 6.7: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 6.8: Wahl eines Bürgerdeputierten - gewählt
+- TOP 6.9: Wahl der Bürgerdeputierten und stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - vertagt
+- TOP 6.10: Wahl der Bürgerdeputierten für den Ausschuss für Partizipation und Integration - gewählt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-03 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - im Ausschuss abgelehnt
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Konzept bezirklicher Wirtschaftsförderung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Betrieb einer Fähre zur barrierefreien Querung der Spree im Bereich des Spreetunnels in Friedrichshagen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Sanierung der Volkshochschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Rekonstruktion der ursprünglichen keramischen Fassadenverkleidung am Alexander-von-Humboldt-Gymnasium - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Uferweg zwischen der Hochschule für Technik und Wirtschaft Berlin (HTW) und dem Kaisersteg endlich festsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.6: Aktions- und Maßnahmeplan zur gleichberechtigten Teilhabe von Menschen mit Behinderung in Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.7: Innovationspark Wuhlheide (IPW) stärken und weiterentwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.8: Videosprechstunden und kontaktloses Bezahlen anbieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.9: Innovationspark Wuhlheide unterstützen und voranbringen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.11: Wirtschaftsbericht fortschreiben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.12: Wir helfen dabei, Blutkrebs zu bekämpfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Bibliotheken weitgehend offen halten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Straßenbahnverkehr der Linie 67 am Sonnabend - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Bebauungsplan Funkwerk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Manege frei: Spaß ohne Wildtiere und Ponykarussells bei Zirkussen und Jahrmärkten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Würdigung der bezirklichen Partnerstädte - überwiesen
+- TOP 8.2.6: Minna-Todenhagen-Brücke und Mathilde-Rathenau-Brücke künstlerisch aufwerten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Sanierung des Bootshauses in Hahns Mühle in Friedrichshagen voranbringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.8: "Historische Architektur in Treptow-Köpenick: HEUTE" dauerhaft erlebbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Zweckentfremdung von Wohnraum wirksam und schnell verfolgen – Spekulation mit Wohnraum darf sich nicht lohnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.10: Bezirksamt als fahrradfreundlicher Arbeitgeber - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Digitalisierung an Schulen voranbringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Begegnungszentrum im Kölner Viertel erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Schotter- und Steingärten bei Bebauungen verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Beseitigung der Absenkung der Straße Zur Fähre nahe Bauersee - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Ertüchtigung des Berlewitzweges - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Fußgängerüberweg vor der Müggelheimer Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Würdigung 100. Todestag Dr. Walther Rathenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Mehr Orientierung im Bürgeramt - in der BVV zurückgezogen
+- TOP 10.9: Die Bibliothekslandschaft Treptow-Köpenicks stärken - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Kungerkiezblock – Straßen für alle - überwiesen
+- TOP 12.2: WLAN in Sporthallen - überwiesen
+- TOP 12.3: Entgeltfreies WLAN in öffentlichen Einrichtungen - überwiesen
+- TOP 12.4: Erhalt der Bäume und Ausfinanzierung des Titels 52110 im Kapitel 3810 des Bezirkshaushalts - überwiesen
+- TOP 12.5: Wenn der Postmann gar nicht klingelt – Grundversorgung mit postalischen Leistungen im Südosten sicherstellen! - mit Änderungen in der BVV beschlossen
+- TOP 12.6: Keine Nachverdichtung von Wohngebieten durch Baugenehmigungen nach § 34 BauGB - überwiesen
+- TOP 12.7: Schulanmeldungen online! - überwiesen
+- TOP 12.8: Mitmachaktion "Frühjahrsputz" im Bezirk - überwiesen
+- TOP 12.9: Fortschreibung des Demografiekonzepts - überwiesen
+- TOP 12.10: Bezirklichen Integrationsfonds erhalten - überwiesen
+- TOP 12.11: Hundegärten für Treptow-Köpenick - überwiesen
+- TOP 12.12: Rücksichtnahmegebot gegenüber Einfamilienhausgebieten bei Nachverdichtung einhalten - überwiesen
+- TOP 12.13: Schutz für ein geschütztes Denkmal - überwiesen
+- TOP 12.14: Zusätzliche Öffnungszeiten in den Bürgerämtern – Maßnahmen der Soforthilfe verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Schulwegsicherheit an der Sonnenblumen-Grundschule in Baumschulenweg erhöhen - überwiesen
+- TOP 12.16: Neuer Stellplatz für Glascontainer in der Walchenseestraße - überwiesen
+- TOP 12.17: Fußgängerschutzweg Segelfliegerdamm Ecke Köpenicker Straße - überwiesen
+- TOP 12.18: Sanierung des Straßenbereiches Lahmertstraße / Walchenseestraße in Grünau - überwiesen
+- TOP 12.19: Ausweitung des Angebotes rein pflanzlicher Speisen auf Veranstaltungen des Bezirksamtes - überwiesen
+- TOP 12.20: Versprochenen Lärmschutz beim Straßenbahnneubau in Adlershof realisieren - überwiesen
+- TOP 12.21: Jugendfreizeiteinrichtung für Grünau - überwiesen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Schülerimpfungen, Boosterimpfungen und Pandemielage in Treptow-Köpenick - beantwortet
