@@ -83,3 +83,4 @@ Blutbestandteile sowie Produkte menschlicher Herkunft
 ## Abschnitt 7 Schlussvorschriften
 
 - [§ 43 Übergangsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015/566 und (EU) 2015/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen](0043.md)
+- [§ 44 Übergangsregelung aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften](0044.md)

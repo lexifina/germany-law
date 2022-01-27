@@ -7,5 +7,5 @@
 - [§ 5 Ordnungswidrigkeiten](0005.md)
 - [§ 6 Übergangsregelung](0006.md)
 - [§ 6a (weggefallen)](0006a.md)
-- [§ 7 (weggefallen)](0007.md)
+- [§ 7 Übergangsregelung aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften](0007.md)
 - [§ 8 (Inkrafttreten)](0008.md)

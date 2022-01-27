@@ -20,6 +20,7 @@
 - [§ 8 Verbote zum Schutz vor Täuschung](0008.md)
 - [§ 9 Der Verantwortliche für das Inverkehrbringen](0009.md)
 - [§ 10 Kennzeichnung](0010.md)
+- [§ 10a Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen bei Menschen](0010a.md)
 - [§ 11 Packungsbeilage](0011.md)
 - [§ 11a Fachinformation](0011a.md)
 - [§ 12 Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen](0012.md)
@@ -79,14 +80,19 @@
 ## Sechster Abschnitt Schutz des Menschen bei der
 klinischen Prüfung
 
-- [§ 40 Allgemeine Voraussetzungen der klinischen Prüfung](0040.md)
-- [§ 41 Besondere Voraussetzungen der klinischen Prüfung](0041.md)
+- [§ 40 Verfahren zur Genehmigung einer klinischen Prüfung](0040.md)
+- [§ 40a Allgemeine Voraussetzungen für die klinische Prüfung](0040a.md)
+- [§ 40b Besondere Voraussetzungen für die klinische Prüfung](0040b.md)
+- [§ 40c Verfahren bei Hinzufügung eines Mitgliedstaates, bei Änderungen sowie bei Bewertungsverfahren](0040c.md)
+- [§ 40d Besondere Pflichten des Prüfers, des Sponsors und der zuständigen Bundesoberbehörde](0040d.md)
+- [§ 41 Stellungnahme der Ethik-Kommission](0041.md)
 - [§ 41a Registrierungsverfahren für Ethik-Kommissionen](0041a.md)
 - [§ 41b Verfahrensordnung und Geschäftsverteilungsplan](0041b.md)
 - [§ 41c Verordnungsermächtigung](0041c.md)
-- [§ 42 Verfahren bei der Ethik-Kommission, Genehmigungsverfahren bei der Bundesoberbehörde](0042.md)
-- [§ 42a Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung](0042a.md)
+- [§ 42 Korrekturmaßnahmen](0042.md)
+- [§ 42a Datenschutz](0042a.md)
 - [§ 42b Veröffentlichung der Ergebnisse klinischer Prüfungen](0042b.md)
+- [§ 42c Inspektionen](0042c.md)
 
 ## Siebter Abschnitt Abgabe von Arzneimitteln
 
@@ -148,8 +154,8 @@ verwendet werden können](0059c.md)
 - [§ 63c Dokumentations- und Meldepflichten des Inhabers der Zulassung für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, für Verdachtsfälle von Nebenwirkungen](0063c.md)
 - [§ 63d Regelmäßige aktualisierte Unbedenklichkeitsberichte](0063d.md)
 - [§ 63e Europäisches Verfahren](0063e.md)
-- [§ 63f Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsprüfungen](0063f.md)
-- [§ 63g Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen](0063g.md)
+- [§ 63f Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsstudien](0063f.md)
+- [§ 63g Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsstudien](0063g.md)
 - [§ 63h Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind](0063h.md)
 - [§ 63i Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe](0063i.md)
 - [§ 63j Dokumentations- und Meldepflichten der behandelnden Person für nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien](0063j.md)
@@ -359,6 +365,10 @@ des Arzneimittelgesetzes
 ### Neunzehnter Unterabschnitt Übergangsvorschrift
 
 - [§ 147 Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften](0147.md)
+
+### Zwanzigster Unterabschnitt Übergangsvorschrift
+
+- [§ 148 Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften](0148.md)
 
 ### Einundzwanzigster Unterabschnitt Übergangsvorschrift
 

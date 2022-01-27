@@ -18,6 +18,7 @@
 | § 8 | Verbote zum Schutz vor Täuschung |
 | § 9 | Der Verantwortliche für das Inverkehrbringen |
 | § 10 | Kennzeichnung |
+| § 10a | Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen bei Menschen |
 | § 11 | Packungsbeilage |
 | § 11a | Fachinformation |
 | § 12 | Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen |
@@ -76,14 +77,19 @@
 |  |
 | Sechster Abschnitt |
 | Schutz des Menschen bei der klinischen Prüfung |
-| § 40 | Allgemeine Voraussetzungen der klinischen Prüfung |
-| § 41 | Besondere Voraussetzungen der klinischen Prüfung |
+| § 40 | Verfahren zur Genehmigung einer klinischen Prüfung |
+| § 40a | Allgemeine Voraussetzungen für die klinische Prüfung |
+| § 40b | Besondere Voraussetzungen für die klinische Prüfung |
+| § 40c | Verfahren bei Hinzufügung eines Mitgliedstaates, bei Änderungen sowie bei Bewertungsverfahren |
+| § 40d | Besondere Pflichten des Prüfers, des Sponsors und der zuständigen Bundesoberbehörde |
+| § 41 | Stellungnahme der Ethik-Kommission |
 | § 41a | Registrierungsverfahren für Ethik-Kommissionen |
 | § 41b | Verfahrensordnung und Geschäftsverteilungsplan |
 | § 41c | Verordnungsermächtigung |
-| § 42 | Verfahren bei der Ethik-Kommission, Genehmigungsverfahren bei der Bundesoberbehörde |
-| § 42a | Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung |
+| § 42 | Korrekturmaßnahmen |
+| § 42a | Datenschutz |
 | § 42b | Veröffentlichung der Ergebnisse klinischer Prüfungen |
+| § 42c | Inspektionen |
 |  |
 | Siebter Abschnitt |
 | Abgabe von Arzneimitteln |
@@ -142,8 +148,8 @@
 | § 63c | Dokumentations- und Meldepflichten des Inhabers der Zulassung für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, für Verdachtsfälle von Nebenwirkungen |
 | § 63d | Regelmäßige aktualisierte Unbedenklichkeitsberichte |
 | § 63e | Europäisches Verfahren |
-| § 63f | Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsprüfungen |
-| § 63g | Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen |
+| § 63f | Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsstudien |
+| § 63g | Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsstudien |
 | § 63h | Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind |
 | § 63i | Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe |
 | § 63j | Dokumentations- und Meldepflichten der behandelnden Person für nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien |
@@ -274,7 +280,7 @@
 |  |
 |  | Siebzehnter Unterabschnitt |
 | § 145 | Übergangsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelmarktes |
-|  |  |
+|  |
 |  | Achtzehnter Unterabschnitt |
 |  | Übergangsvorschrift |
 | § 146 | Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften |
@@ -283,10 +289,14 @@
 |  | Übergangsvorschrift |
 | § 147 | Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften |
 |  |
+|  | Zwanzigster Unterabschnitt |
+|  | Übergangsvorschrift |
+| § 148 | Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften |
+|  |
 |  | Einundzwanzigster Unterabschnitt |
 |  | Übergangsvorschrift |
 | § 149 | Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes |
-|  |
+|  |  |
 |  | Anlage 1 (zu § 6) |
 |  | Anlage 2 (zu § 58c Absatz 2 Satz 2) |
 |  |  |

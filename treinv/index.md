@@ -8,7 +8,7 @@
 - [§ 5 Antrag auf Einsichtnahme](0005.md)
 - [§ 6 Berechtigung zur Einsichtnahme bei Antragstellung durch Behörden](0006.md)
 - [§ 7 Berechtigung zur Einsichtnahme bei Antragstellung durch Verpflichtete](0007.md)
-- [§ 8 Berechtigung zur Einsichtnahme bei Antragstellung durch sonstige Personen](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 9 Art der Datenübertragung](0009.md)
 - [§ 10 Protokollierung der Einsichtnahme](0010.md)
 - [§ 11 Dokumentation von Daten zur Gebührenabrechnung](0011.md)
