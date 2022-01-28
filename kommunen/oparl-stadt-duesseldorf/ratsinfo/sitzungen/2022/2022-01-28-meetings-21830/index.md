@@ -1,0 +1,74 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-01-28T14:08:00+01:00
+- Ende: 2022-01-28T15:48:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21830
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21830
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00437119.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00437119.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00437119.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift der gemeinsamen Sitzung mit dem Ordnungs- und Verkehrsausschuss vom 28.06.2021 - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 17.11.2021 - einstimmig beschlossen
+- TOP 5: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 26.11.2021 - abweichend beschlossen
+- TOP 6: Zulassung von Sachverständigen
+- TOP 7: Mündliche Berichte und Verwaltungsvorlagen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Die Lage der Wirt*innen der Altstadt - mündlicher Bericht
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Beschluss Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 7.5: Radverkehrsplanung Eulerstraße - Empfehlung einstimmig beschlossen
+- TOP 7.6: Radverkehrsplanung Bagelstraße - Empfehlung einstimmig beschlossen
+- TOP 7.7: Dauerhafte Markierung der provisorisch eingerichteten Radfahrstreifen auf Klever Straße und Jülicher Straße - Empfehlung einstimmig beschlossen
+- TOP 7.8: Dauerhafte Markierung der provisorisch eingerichteten Radfahrstreifen auf der Kaiser- und Fischerstraße - Empfehlung einstimmig beschlossen
+- TOP 7.9: Fischmärkte auf dem Tonhallenufer im Jahre 2022 - Empfehlung einstimmig beschlossen
+- TOP 7.10: Außengastronomie auf Kfz-Stellflächen - zur Kenntnis genommen
+- TOP 7.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2022 - einstimmig beschlossen
+- TOP 7.12: Berichtswesen Bezirksvertretung 1 - 1. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 7.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.14: Erneuerung der Axialventilatoren im Rheinufertunnel - Empfehlung einstimmig beschlossen
+- TOP 7.15: Nutzung des Ehrenhofes - Empfehlung einstimmig beschlossen
+- TOP 7.16: Förderprogramm „Multi-Mo-DUS – Multimodalität in lebenswerten Quartieren in Düsseldorf“ im Rahmen des Landeswettbewerbs „Mobil.NRW – Mobilität in lebenswerten Städten“ - Empfehlung einstimmig beschlossen
+- TOP 8: Anfragen aus vorherigen Sitzungen
+- TOP 8.1: Austausch Altstadtpflaster - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 8.2: Garagen auf dem Gehweg Mannesmannufer - Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 9: Anfragen
+- TOP 9.1: Straßenbeleuchtung im Stadtbezirk 1 - Anfrage der SPD-Fraktion
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Essbare Schule - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 10: Anträge
+- TOP 10.1: Tempo 30 auf der Eulerstraße - unterstützende Maßnahmen - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 10.2: Vervollständigung der Parkraumbewirtschaftung in der Bendemannstraße - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 10.3: Ergänzung der neuen Aufenthaltsbereiche auf der Immermannstraße durch Abfalleimer - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 10.4: Fahrradständer an Baumscheiben - Antrag der SPD Fraktion - einstimmig beschlossen
+- TOP 10.5: Essbare Stadt - Beerensträucher auf Kinderspielplätzen - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 10.6: Straßenbauarbeiten Am Wehrhahn zwischen Ost- und Jacobistraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 10.7: Kiosk/Internetcafe am Worringer Platz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 11: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 11.1: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 11.2: Piktogramme auf der Fahrbahn der Poststraße; Beschluss der Bezirksvertretung 1 vom 26.11.2021, BV1/236/2021 - zur Kenntnis genommen
+- TOP 11.3: Kennzeichnung des Radweges Fischerstraße, Beschluss der Bezirksvertretung 1 vom 10.09.2021;BV1/180/2021 - zur Kenntnis genommen
+- TOP 11.4: Antrag auf bauliche Maßnahmen auf der Spielstraße An der Ulanenkaserne; Beschluss der Bezirksvertretung 1 vom 30.04.2021; BV1/087/2021 - zur Kenntnis genommen
+- TOP 11.5: Radwegbeschilderung Marc-Chagall-Straße; Beschluss der Bezirksvertretung 1 vom 25.06.2021; BV1/153/2021 - zur Kenntnis genommen
+- TOP 11.6: Prüfauftrag: Zusätzliche Toilettenanlage für den Rheinpark; Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV1/247/2021 - zur Kenntnis genommen
+- TOP 11.7: Installation von Ladesäulen für E-Autos am Rochusmarkt, Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV1/255/2021 - zur Kenntnis genommen
+- TOP 11.8: Versetzung des Musikpavillons am Carsch-Haus auf die Freifläche vor der Inselstraße; Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV1/225/2021 - zur Kenntnis genommen
+- TOP 11.9: Beleuchtung Brücke am Alten Hafen; Beschluss der BV 1 vom 26.11.2021; BV1/249/2021 - zur Kenntnis genommen
+- TOP 11.10: Vorstellung der Verkehrsgesamtkonzeption im Quartier An der Piwipp/Ulmenstraße; Beschluss der Bezirksvertretung 1 vom 13.11.2020; BV1/291/2020 - zur Kenntnis genommen
+- TOP 11.11: Vorstellung der Radverkehrsplanung am Kö-Bogen; Beschluss der Bezirksvertretung 1 vom 25.06.2021; BV1/151/2021 - zur Kenntnis genommen
+- TOP 11.12: Taubenschläge im Bereich des Stadtbezirks 1; Beschluss der Bezirksvertretung 1 vom 30.04.2021; BV1/082/2021 - zur Kenntnis genommen
+- TOP 11.13: Veränderung der Ampelschaltung Moltkestraße/Tußmannstraße/Bagelstraße; Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV1/246/2021 - zur Kenntnis genommen
+- TOP 11.14: Boden-Radwegmakierungen für das Areal von der sogenannten "Tuchtinsel" bis zur Tunnelmündung Maximilian-Weyhe-Allee; Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV1/237/2021 - zur Kenntnis genommen
+- TOP 12: Verfügungsmittel der Bezirksvertretung 1
+- TOP 12.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Matthias-Claudius-Schule - einstimmig beschlossen
+- TOP 12.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt Marketing GmbH - einstimmig beschlossen
