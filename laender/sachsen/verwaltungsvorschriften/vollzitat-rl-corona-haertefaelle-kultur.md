@@ -1,8 +1,8 @@
 # Vollzitat: RL Corona-Härtefälle Kultur
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-07-23 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18746.3
+- Datum: 2022-01-28 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18746.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-23.07.2021
+28.01.2022
 bis
-27.01.2022
+22.06.2022
 
 RL Corona-Härtefälle Kultur
 
@@ -57,7 +57,7 @@ Ein Anspruch des Antragstellers auf Gewährung einer Zuwendung besteht nicht. Di
 II.
 Gegenstand der Förderung
 
-Die Zuwendung dient der Sicherung der Existenz freier Träger von kulturellen Einrichtungen und damit dem Erhalt bestehender Strukturen im Bereich Kunst und Kultur im Freistaat Sachsen. Sie wird zur Überbrückung finanzieller Engpässe gewährt, die im Verlauf der Jahre 2020 und 2021 entstehen, soweit diese durch die COVID-19-Pandemie verursacht wurden.
+Die Zuwendung dient der Sicherung der Existenz freier Träger von kulturellen Einrichtungen und damit dem Erhalt bestehender Strukturen im Bereich Kunst und Kultur im Freistaat Sachsen. Sie wird zur Überbrückung finanzieller Engpässe gewährt, die im Verlauf der Jahre 2020 bis 2022 entstehen, soweit diese durch die COVID-19-Pandemie verursacht wurden.
 
 III.
 Zuwendungsempfänger
@@ -147,7 +147,7 @@ Zuwendungsvoraussetzungen
 
 1.
 
-Der vom Antragsteller geltend gemachte Liquiditätsbedarf ist in den Jahren 2020 und 2021 aufgrund der im Zusammenhang mit der COVID-19-Pandemie getroffenen behördlichen Maßnahmen entstanden und resultiert aus unabweisbaren Einnahmeausfällen oder notwendigen zusätzlichen Ausgaben. Im Falle der unabweisbaren Einnahmeausfälle ist die Zuwendung zur Deckung der allgemeinen Betriebsausgaben erforderlich. Empfänger der Leistung haben bei der Antragstellung zu erklären, ob alle zur Verfügung stehenden Möglichkeiten zur Kostensenkung (zum Beispiel Kurzarbeit) ausgeschöpft und sonstige Finanzhilfen und Leistungen gemäß Nummer 4 beantragt wurden. Der Zuwendungsempfänger gibt dafür Erklärungen gemäß Ziffer VI Nummer 2 Satz 3 ab.
+Der vom Antragsteller geltend gemachte Liquiditätsbedarf ist in den Jahren 2020 bis 2022 aufgrund der im Zusammenhang mit der COVID-19-Pandemie getroffenen behördlichen Maßnahmen entstanden und resultiert aus unabweisbaren Einnahmeausfällen oder notwendigen zusätzlichen Ausgaben. Im Falle der unabweisbaren Einnahmeausfälle ist die Zuwendung zur Deckung der allgemeinen Betriebsausgaben erforderlich. Empfänger der Leistung haben bei der Antragstellung zu erklären, ob alle zur Verfügung stehenden Möglichkeiten zur Kostensenkung (zum Beispiel Kurzarbeit) ausgeschöpft und sonstige Finanzhilfen und Leistungen gemäß Nummer 4 beantragt wurden. Der Zuwendungsempfänger gibt dafür Erklärungen gemäß Ziffer VI Nummer 2 Satz 3 ab.
 
 2.
 
@@ -191,7 +191,7 @@ Anträge auf Förderung sind bei der Sächsischen Aufbaubank – Förderbank –
 
 2.
 
-Der Antrag ist unter Verwendung des durch die Bewilligungsstelle zur Verfügung gestellten Antragsverfahrens bis spätestens 20. November 2021 einzureichen (www.sab.sachsen.de). Dem Antrag ist bei Antragstellern gemäß Ziffer III Nummer 1 die Gemeinnützigkeitsbescheinigung beizufügen. Der Antragsteller hat die erforderlichen Eigenerklärungen abzugeben. Darüber hinaus hat der Antragsteller im Fall der Ziffer V Nummer 3 zum Nachweis eines höheren Liquiditätsbedarfes zusätzlich einen qualifizierten Liquiditätsplan gemäß dem von der Bewilligungsstelle elektronisch bereitgestellten Muster vorzulegen.
+Der Antrag ist unter Verwendung des durch die Bewilligungsstelle zur Verfügung gestellten Antragsverfahrens bis spätestens 21. November 2022 einzureichen (www.sab.sachsen.de). Dem Antrag ist bei Antragstellern gemäß Ziffer III Nummer 1 die Gemeinnützigkeitsbescheinigung beizufügen. Der Antragsteller hat die erforderlichen Eigenerklärungen abzugeben. Darüber hinaus hat der Antragsteller im Fall der Ziffer V Nummer 3 zum Nachweis eines höheren Liquiditätsbedarfes zusätzlich einen qualifizierten Liquiditätsplan gemäß dem von der Bewilligungsstelle elektronisch bereitgestellten Muster vorzulegen.
 
 3.
 
@@ -225,7 +225,7 @@ Die erforderlichen Informationen gemäß Anhang III der Verordnung der Kommissio
 VII.
 Inkrafttreten und Außerkrafttreten
 
-Die Richtlinie tritt am Tag nach ihrer Unterzeichnung in Kraft und am 31. Dezember 2021 außer Kraft.
+Die Richtlinie tritt am Tag nach ihrer Unterzeichnung in Kraft und am 31. Dezember 2022 außer Kraft.
 
 Dresden, den 25. Juni 2020
 
@@ -243,9 +243,9 @@ Fsn-Nr.: 5571-V20.3
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 23. Juli 2021
+Fassung gültig ab: 28. Januar 2022
 
-Fassung gültig bis: 27. Januar 2022
+Fassung gültig bis: 22. Juni 2022
 
 Drucken/Speichern
 
@@ -270,7 +270,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18746.3
+https://www.revosax.sachsen.de/vorschrift/18746.4
 Stand vom
 18.11.2026
 
