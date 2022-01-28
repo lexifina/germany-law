@@ -1,0 +1,66 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-01-28T16:00:00+01:00
+- Ende: 2022-01-28T17:20:00+01:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21814
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21814
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung ö 28.01.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00437226.pdf
+- Ergebnisprotokoll: BV9 Sitzung ö 28.01.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00437226.pdf
+- Wortprotokoll: BV9 Sitzung ö 28.01.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00437226.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 26.11.2021 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Beschluss Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 4.2: Außengastronomie auf Kfz-Stellflächen - zur Kenntnis genommen
+- TOP 4.3: Rodungsarbeiten im Zuge von Kanalsanierungsarbeiten im Bereich des Parkplatzes zwischen der Bonner Straße und der Reisholzer Werftstraße - zur Kenntnis genommen
+- TOP 4.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 5: Anfragen aus früheren Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Grünanlagen am Werstener Kreuz - Anfrage der SPD-Fraktion - vertagt
+- TOP 6.5: Stand der Bauarbeiten Leverkuser Str. / Küppersteger Str. - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Sicherung der Kreuzung Süllenstraße/ Bamberger Straße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.5: Standortverlegung des Schloß-Gymnasiums und der Realschule Benrath - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.6: Sachstandsbericht zu Auswirkungen der Marktraumumstellung auf die Gasbeleuchtung - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Verfügungsmittel
+- TOP 8.1: Repräsentationen 2022 - einstimmig beschlossen
+- TOP 8.2: Geranien Rathaus Benrath - einstimmig beschlossen
+- TOP 8.3: GGS Am Köhnen - Theaterprojekte "Die große Nein-Tonne" und "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 8.4: Selma-Lagerlöf-Schule - Theaterprojekte "Die große Nein-Tonne" und "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 8.5: Don-Bosco-Stiftung "Mit Herz und Hand für Wersten" - 1. Rockkonzert für Kinder in Wersten - einstimmig beschlossen
+- TOP 8.6: Verein Himmelgeist 1100 e.V. - Himmelgeister Jüchtlauf 2022 - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Maßnahmen gegen Starkregenereignisse - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/217/2021 - zur Kenntnis genommen
+- TOP 9.2: Umlaufschranke Dechenweg, Durchfahrt zum Curieweg - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/218/2021 - zur Kenntnis genommen
+- TOP 9.3: Kneipp-Pfad am Elbroichpark - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/219/2021 - zur Kenntnis genommen
+- TOP 9.4: Änderung des Fahrradweges Grünzug Hoxbach zur Further Straße - Beschluss der Bezirksvertretung 9 vom 01.10.2021; BV9/233/2021 - zur Kenntnis genommen
+- TOP 9.5: Schaltung der Fußgängerampel Urdenbacher Allee 25, Höhe Orangerie - Beschluss der Bezirksvertretung 9 vom 26.11.2021; BV9/283/2021 - zur Kenntnis genommen
+- TOP 9.6: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 9.7: Erweiterung der Außenanlage der Kindertageseinrichtung - Beschluss der Bezirksvertretung 9 vom 01.10.2021; BV9/245/2021 - zur Kenntnis genommen
