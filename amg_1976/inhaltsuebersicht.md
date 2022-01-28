@@ -6,7 +6,7 @@
 | § 2 | Arzneimittelbegriff |
 | § 3 | Stoffbegriff |
 | § 4 | Sonstige Begriffsbestimmungen |
-| § 4a | Ausnahmen vom Anwendungsbereich |
+| § 4a | Ausnahme vom Anwendungsbereich |
 | § 4b | Sondervorschriften für Arzneimittel für neuartige Therapien |
 |  |
 | Zweiter Abschnitt |
@@ -18,7 +18,7 @@
 | § 8 | Verbote zum Schutz vor Täuschung |
 | § 9 | Der Verantwortliche für das Inverkehrbringen |
 | § 10 | Kennzeichnung |
-| § 10a | Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen bei Menschen |
+| § 10a | Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen |
 | § 11 | Packungsbeilage |
 | § 11a | Fachinformation |
 | § 12 | Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen |
@@ -43,7 +43,7 @@
 | § 21 | Zulassungspflicht |
 | § 21a | Genehmigung von Gewebezubereitungen |
 | § 22 | Zulassungsunterlagen |
-| § 23 | Besondere Unterlagen bei Arzneimitteln für Tiere |
+| § 23 | (weggefallen) |
 | § 24 | Sachverständigengutachten |
 | § 24a | Verwendung von Unterlagen eines Vorantragstellers |
 | § 24b | Zulassung eines Generikums, Unterlagenschutz |
@@ -93,7 +93,7 @@
 |  |
 | Siebter Abschnitt |
 | Abgabe von Arzneimitteln |
-| § 43 | Apothekenpflicht, Inverkehrbringen durch Tierärzte |
+| § 43 | Apothekenpflicht |
 | § 44 | Ausnahme von der Apothekenpflicht |
 | § 45 | Ermächtigung zu weiteren Ausnahmen von der Apothekenpflicht |
 | § 46 | Ermächtigung zur Ausweitung der Apothekenpflicht |
@@ -117,27 +117,7 @@
 | § 55a | Amtliche Sammlung von Untersuchungsverfahren |
 |  |
 | Neunter Abschnitt |
-| Sondervorschriften für Arzneimittel, die bei Tieren angewendet werden |
-| § 56 | Fütterungsarzneimittel |
-| § 56a | Verschreibung, Abgabe und Anwendung von Arzneimitteln durch Tierärzte |
-| § 56b | Ausnahmen |
-| § 57 | Erwerb und Besitz durch Tierhalter, Nachweise |
-| § 57a | Anwendung durch Tierhalter |
-| § 58 | Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen |
-| § 58a | Mitteilungen über Tierhaltungen |
-| § 58b | Mitteilungen über Arzneimittelverwendung |
-| § 58c | Ermittlung der Therapiehäufigkeit |
-| § 58d | Verringerung der Behandlung mit antibakteriell wirksamen Stoffen |
-| § 58e | Verordnungsermächtigungen |
-| § 58f | Verarbeitung und Übermittlung von Daten |
-| § 58g | (weggefallen) |
-| § 59 | Klinische Prüfung und Rückstandsprüfung bei Tieren, die der Lebensmittelgewinnung dienen |
-| § 59a | Verkehr mit Stoffen und Zubereitungen aus Stoffen |
-| § 59b | Stoffe zur Durchführung von Rückstandskontrollen |
-| § 59c | Nachweispflichten für Stoffe, die als Tierarzneimittel verwendet werden können |
-| § 59d | Verabreichung pharmakologisch wirksamer Stoffe an Tiere, die der Lebensmittelgewinnung dienen |
-| § 60 | Heimtiere |
-| § 61 | Befugnisse tierärztlicher Bildungsstätten |
+| (weggefallen) |
 |  |
 | Zehnter Abschnitt |
 | Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken |
@@ -145,12 +125,12 @@
 | § 63 | Stufenplan |
 | § 63a | Stufenplanbeauftragter |
 | § 63b | Allgemeine Pharmakovigilanz-Pflichten des Inhabers der Zulassung |
-| § 63c | Dokumentations- und Meldepflichten des Inhabers der Zulassung für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, für Verdachtsfälle von Nebenwirkungen |
+| § 63c | Dokumentations- und Meldepflichten des Inhabers der Zulassung bei Verdachtsfällen von Nebenwirkungen |
 | § 63d | Regelmäßige aktualisierte Unbedenklichkeitsberichte |
 | § 63e | Europäisches Verfahren |
 | § 63f | Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsstudien |
 | § 63g | Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsstudien |
-| § 63h | Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind |
+| § 63h | (weggefallen) |
 | § 63i | Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe |
 | § 63j | Dokumentations- und Meldepflichten der behandelnden Person für nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien |
 | § 63k | Ausnahmen |
@@ -165,8 +145,8 @@
 | § 67b | EU-Kompendium der Gewebeeinrichtungen, EU-Kompendium der Gewebe- und Zellprodukte, Unterrichtungspflichten |
 | § 68 | Mitteilungs- und Unterrichtungspflichten |
 | § 69 | Maßnahmen der zuständigen Behörden |
-| § 69a | Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können |
-| § 69b | Verwendung bestimmter Daten |
+| § 69a | (weggefallen) |
+| § 69b | (weggefallen) |
 |  |
 | Zwölfter Abschnitt |
 | Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei, Zivilschutz |
@@ -232,7 +212,7 @@
 | §§ 99 bis 124 | Überleitungsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelrechts |
 |  |
 |  | Zweiter Unterabschnitt |
-| §§ 125 und 126 | Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Arzneimittelgesetzes |
+| §§ 125 und 126 | (weggefallen) |
 |  |
 |  | Dritter Unterabschnitt |
 | §§ 127 bis 131 | Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung des Arzneimittelgesetzes |
@@ -241,7 +221,7 @@
 | § 132 | Übergangsvorschriften aus Anlass des Fünften Gesetzes zur Änderung des Arzneimittelgesetzes |
 |  |
 |  | Fünfter Unterabschnitt |
-| § 133 | Übergangsvorschrift aus Anlass des Siebten Gesetzes zur Änderung des Arzneimittelgesetzes |
+| § 133 | (weggefallen) |
 |  |
 |  | Sechster Unterabschnitt |
 | § 134 | Übergangsvorschriften aus Anlass des Transfusionsgesetzes |
@@ -253,7 +233,7 @@
 | § 136 | Übergangsvorschriften aus Anlass des Zehnten Gesetzes zur Änderung des Arzneimittelgesetzes |
 |  |
 |  | Neunter Unterabschnitt |
-| § 137 | Übergangsvorschriften aus Anlass des Elften Gesetzes zur Änderung des Arzneimittelgesetzes |
+| § 137 | (weggefallen) |
 |  |
 |  | Zehnter Unterabschnitt |
 | § 138 | Übergangsvorschriften aus Anlass des Zwölften Gesetzes zur Änderung des Arzneimittelgesetzes |
@@ -262,7 +242,7 @@
 | § 139 | Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Transfusionsgesetzes und arzneimittelrechtlicher Vorschriften |
 |  |
 |  | Zwölfter Unterabschnitt |
-| § 140 | Übergangsvorschriften aus Anlass des Dreizehnten Gesetzes zur Änderung des Arzneimittelgesetzes |
+| § 140 | (weggefallen) |
 |  |
 |  | Dreizehnter Unterabschnitt |
 | § 141 | Übergangsvorschriften aus Anlass des Vierzehnten Gesetzes zur Änderung des Arzneimittelgesetzes |
@@ -294,10 +274,10 @@
 | § 148 | Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften |
 |  |
 |  | Einundzwanzigster Unterabschnitt |
-|  | Übergangsvorschrift |
-| § 149 | Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes |
+|  | (weggefallen) |
+| § 149 | (weggefallen) |
 |  |  |
-|  | Anlage 1 (zu § 6) |
-|  | Anlage 2 (zu § 58c Absatz 2 Satz 2) |
+|  | Anlage (zu § 6) |
+|  |  |
 |  |  |
 |  | Anhang (weggefallen) |

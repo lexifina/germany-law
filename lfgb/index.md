@@ -35,6 +35,7 @@
 - [§ 22 Ermächtigungen zum Schutz der Gesundheit](0022.md)
 - [§ 23 Weitere Ermächtigungen zum Schutz der Gesundheit](0023.md)
 - [§ 23a Ermächtigungen zum Schutz der tierischen Gesundheit und zur Förderung der tierischen Erzeugung](0023a.md)
+- [§ 23b Weitere Ermächtigungen für Arzneifuttermittel](0023b.md)
 - [§ 24 Gewähr für bestimmte Anforderungen](0024.md)
 - [§ 25 Mitwirkung bestimmter Behörden](0025.md)
 

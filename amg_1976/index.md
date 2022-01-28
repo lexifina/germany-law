@@ -8,7 +8,7 @@
 - [§ 2 Arzneimittelbegriff](0002.md)
 - [§ 3 Stoffbegriff](0003.md)
 - [§ 4 Sonstige Begriffsbestimmungen](0004.md)
-- [§ 4a Ausnahmen vom Anwendungsbereich](0004a.md)
+- [§ 4a Ausnahme vom Anwendungsbereich](0004a.md)
 - [§ 4b Sondervorschriften für Arzneimittel für neuartige Therapien](0004b.md)
 
 ## Zweiter Abschnitt Anforderungen an die Arzneimittel
@@ -20,7 +20,7 @@
 - [§ 8 Verbote zum Schutz vor Täuschung](0008.md)
 - [§ 9 Der Verantwortliche für das Inverkehrbringen](0009.md)
 - [§ 10 Kennzeichnung](0010.md)
-- [§ 10a Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen bei Menschen](0010a.md)
+- [§ 10a Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen](0010a.md)
 - [§ 11 Packungsbeilage](0011.md)
 - [§ 11a Fachinformation](0011a.md)
 - [§ 12 Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen](0012.md)
@@ -45,7 +45,7 @@
 - [§ 21 Zulassungspflicht](0021.md)
 - [§ 21a Genehmigung von Gewebezubereitungen](0021a.md)
 - [§ 22 Zulassungsunterlagen](0022.md)
-- [§ 23 Besondere Unterlagen bei Arzneimitteln für Tiere](0023.md)
+- [§ 23 (weggefallen)](0023.md)
 - [§ 24 Sachverständigengutachten](0024.md)
 - [§ 24a Verwendung von Unterlagen eines Vorantragstellers](0024a.md)
 - [§ 24b Zulassung eines Generikums, Unterlagenschutz](0024b.md)
@@ -96,7 +96,7 @@ klinischen Prüfung
 
 ## Siebter Abschnitt Abgabe von Arzneimitteln
 
-- [§ 43 Apothekenpflicht, Inverkehrbringen durch Tierärzte](0043.md)
+- [§ 43 Apothekenpflicht](0043.md)
 - [§ 44 Ausnahme von der Apothekenpflicht](0044.md)
 - [§ 45 Ermächtigung zu weiteren Ausnahmen von der Apothekenpflicht](0045.md)
 - [§ 46 Ermächtigung zur Ausweitung der Apothekenpflicht](0046.md)
@@ -120,30 +120,9 @@ Qualität
 - [§ 55 Arzneibuch](0055.md)
 - [§ 55a Amtliche Sammlung von Untersuchungsverfahren](0055a.md)
 
-## Neunter Abschnitt Sondervorschriften für
-Arzneimittel, die bei Tieren angewendet werden
+## Neunter Abschnitt (weggefallen)
 
-- [§ 56 Fütterungsarzneimittel](0056.md)
-- [§ 56a Verschreibung, Abgabe und Anwendung von Arzneimitteln durch Tierärzte](0056a.md)
-- [§ 56b Ausnahmen](0056b.md)
-- [§ 57 Erwerb und Besitz durch Tierhalter, Nachweise](0057.md)
-- [§ 57a Anwendung durch Tierhalter](0057a.md)
-- [§ 58 Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen](0058.md)
-- [§ 58a Mitteilungen über Tierhaltungen](0058a.md)
-- [§ 58b Mitteilungen über Arzneimittelverwendung](0058b.md)
-- [§ 58c Ermittlung der Therapiehäufigkeit](0058c.md)
-- [§ 58d Verringerung der Behandlung mit antibakteriell wirksamen Stoffen](0058d.md)
-- [§ 58e Verordnungsermächtigungen](0058e.md)
-- [§ 58f Verarbeitung und Übermittlung von Daten](0058f.md)
-- [§ 58g (weggefallen)](0058g.md)
-- [§ 59 Klinische Prüfung und Rückstandsprüfung bei Tieren, die der Lebensmittelgewinnung dienen](0059.md)
-- [§ 59a Verkehr mit Stoffen und Zubereitungen aus Stoffen](0059a.md)
-- [§ 59b Stoffe zur Durchführung von Rückstandskontrollen](0059b.md)
-- [§ 59c Nachweispflichten für Stoffe, die als Tierarzneimittel
-verwendet werden können](0059c.md)
-- [§ 59d Verabreichung pharmakologisch wirksamer Stoffe an Tiere, die der Lebensmittelgewinnung dienen](0059d.md)
-- [§ 60 Heimtiere](0060.md)
-- [§ 61 Befugnisse tierärztlicher Bildungsstätten](0061.md)
+- [(XXXX) §§ 56 bis 61 (weggefallen)](xxxx-56-bis-61.md)
 
 ## Zehnter Abschnitt Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken
 
@@ -151,12 +130,12 @@ verwendet werden können](0059c.md)
 - [§ 63 Stufenplan](0063.md)
 - [§ 63a Stufenplanbeauftragter](0063a.md)
 - [§ 63b Allgemeine Pharmakovigilanz-Pflichten des Inhabers der Zulassung](0063b.md)
-- [§ 63c Dokumentations- und Meldepflichten des Inhabers der Zulassung für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, für Verdachtsfälle von Nebenwirkungen](0063c.md)
+- [§ 63c Dokumentations- und Meldepflichten des Inhabers der Zulassung bei Verdachtsfällen von Nebenwirkungen](0063c.md)
 - [§ 63d Regelmäßige aktualisierte Unbedenklichkeitsberichte](0063d.md)
 - [§ 63e Europäisches Verfahren](0063e.md)
 - [§ 63f Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsstudien](0063f.md)
 - [§ 63g Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsstudien](0063g.md)
-- [§ 63h Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind](0063h.md)
+- [§ 63h (weggefallen)](0063h.md)
 - [§ 63i Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe](0063i.md)
 - [§ 63j Dokumentations- und Meldepflichten der behandelnden Person für nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien](0063j.md)
 - [§ 63k Ausnahmen](0063k.md)
@@ -171,8 +150,7 @@ verwendet werden können](0059c.md)
 - [§ 67b EU-Kompendium der Gewebeeinrichtungen, EU-Kompendium der Gewebe- und Zellprodukte, Unterrichtungspflichten](0067b.md)
 - [§ 68 Mitteilungs- und Unterrichtungspflichten](0068.md)
 - [§ 69 Maßnahmen der zuständigen Behörden](0069.md)
-- [§ 69a Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können](0069a.md)
-- [§ 69b Verwendung bestimmter Daten](0069b.md)
+- [(XXXX) §§ 69a und 69b (weggefallen)](xxxx-69a-und-69b.md)
 
 ## Zwölfter Abschnitt Sondervorschriften für
 Bundeswehr, Bundespolizei, Bereitschaftspolizei, Zivilschutz
@@ -262,7 +240,7 @@ Anlass des Gesetzes zur Neuordnung des Arzneimittelrechts
 - [§ 110](0110.md)
 - [§ 111](0111.md)
 - [§ 112](0112.md)
-- [§ 113](0113.md)
+- [§ 113 (weggefallen)](0113.md)
 - [§ 114](0114.md)
 - [§ 115](0115.md)
 - [§ 116](0116.md)
@@ -275,11 +253,9 @@ Anlass des Gesetzes zur Neuordnung des Arzneimittelrechts
 - [§ 123](0123.md)
 - [§ 124](0124.md)
 
-### Zweiter Unterabschnitt Übergangsvorschriften aus
-Anlass des Ersten Gesetzes zur Änderung des Arzneimittelgesetzes
+### Zweiter Unterabschnitt (weggefallen)
 
-- [§ 125](0125.md)
-- [§ 126](0126.md)
+- [(XXXX) §§ 125 und 126 (weggefallen)](xxxx-125-und-126.md)
 
 ### Dritter Unterabschnitt Übergangsvorschriften aus
 Anlass des Zweiten Gesetzes zur Änderung des Arzneimittelgesetzes
@@ -295,10 +271,9 @@ Anlass des Fünften Gesetzes zur Änderung des Arzneimittelgesetzes
 
 - [§ 132](0132.md)
 
-### Fünfter Unterabschnitt Übergangsvorschrift
-aus Anlass des Siebten Gesetzes zur Änderung des Arzneimittelgesetzes
+### Fünfter Unterabschnitt (weggefallen)
 
-- [§ 133](0133.md)
+- [§ 133 (weggefallen)](0133.md)
 
 ### Sechster Unterabschnitt Übergangsvorschriften
 aus Anlass des Transfusionsgesetzes
@@ -315,10 +290,9 @@ Zehnten Gesetzes zur Änderung des Arzneimittelgesetzes
 
 - [§ 136](0136.md)
 
-### Neunter Unterabschnitt Übergangsvorschriften aus Anlass des
-Elften Gesetzes zur Änderung des Arzneimittelgesetzes
+### Neunter Unterabschnitt (weggefallen)
 
-- [§ 137](0137.md)
+- [§ 137 (weggefallen)](0137.md)
 
 ### Zehnter Unterabschnitt Übergangsvorschriften aus Anlass des Zwölften Gesetzes zur Änderung des
 Arzneimittelgesetzes
@@ -330,10 +304,9 @@ Transfusionsgesetzes und arzneimittelrechtlicher Vorschriften
 
 - [§ 139](0139.md)
 
-### Zwölfter Unterabschnitt Übergangsvorschriften aus Anlass des Dreizehnten Gesetzes zur Änderung
-des Arzneimittelgesetzes
+### Zwölfter Unterabschnitt (weggefallen)
 
-- [§ 140](0140.md)
+- [§ 140 (weggefallen)](0140.md)
 
 ### Dreizehnter Unterabschnitt Übergangsvorschriften aus Anlass des Vierzehnten Gesetzes zur Änderung
 des Arzneimittelgesetzes
@@ -369,10 +342,5 @@ des Arzneimittelgesetzes
 ### Zwanzigster Unterabschnitt Übergangsvorschrift
 
 - [§ 148 Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften](0148.md)
-
-### Einundzwanzigster Unterabschnitt Übergangsvorschrift
-
-- [§ 149 Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes](0149.md)
-- [Anlage 1 (zu § 6)](anlage-1.md)
-- [Anlage 2 (zu § 58c Absatz 2 Satz 2) Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten](anlage-2.md)
+- [Anlage (zu § 6)](anlage.md)
 - [Anhang (weggefallen)](anhang.md)

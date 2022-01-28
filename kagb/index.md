@@ -68,11 +68,12 @@
 #### Unterabschnitt 4 Pflichten für registrierungspflichtige AIF-Kapitalverwaltungsgesellschaften
 
 - [§ 44 Registrierung und Berichtspflichten](0044.md)
-- [§ 45 Erstellung und Bekanntmachung von Jahresberichten](0045.md)
-- [§ 46 Inhalt von Jahresabschlüssen und Lageberichten](0046.md)
-- [§ 47 Prüfung und Bestätigung des Abschlussprüfers; Verordnungsermächtigung](0047.md)
-- [§ 48 Verkürzung der handelsrechtlichen Offenlegungsfrist](0048.md)
-- [§ 48a Jahresbericht, Lagebericht und Prüfung von Spezial-AIF, die Darlehen nach § 285 Absatz 2 vergeben; Verordnungsermächtigung](0048a.md)
+- [§ 45 Jahresabschluss und Lagebericht von registrierungspflichtigen AIF-Kapitalverwaltungsgesellschaften](0045.md)
+- [§ 45a Abschlussprüfung bei registrierungspflichtigen AIF-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung](0045a.md)
+- [§ 46 Jahresabschluss und Lagebericht von extern verwalteten Spezial-AIF, für deren Rechnung Gelddarlehen nach § 285 Absatz 2 oder § 292a Absatz 2 vergeben werden](0046.md)
+- [§ 47 Abschlussprüfung bei extern verwalteten Spezial-AIF, für deren Rechnung Gelddarlehen nach § 285 Absatz 2 oder § 292a Absatz 2 vergeben werden; Verordnungsermächtigung](0047.md)
+- [§ 48 (weggefallen)](0048.md)
+- [§ 48a (weggefallen)](0048a.md)
 
 #### Unterabschnitt 5 Grenzüberschreitender Dienstleistungsverkehr bei OGAW-Verwaltungsgesellschaften
 
@@ -177,7 +178,7 @@
 - [§ 120 Jahresabschluss und Lagebericht; Verordnungsermächtigung](0120.md)
 - [§ 121 Prüfung des Jahresabschlusses und des Lageberichts; Verordnungsermächtigung](0121.md)
 - [§ 122 Halbjahres- und Liquidationsbericht](0122.md)
-- [§ 123 Offenlegung und Vorlage von Berichten](0123.md)
+- [§ 123 Offenlegung und Vorlage des Jahresabschlusses und Lageberichts sowie des Halbjahresberichts](0123.md)
 
 #### Unterabschnitt 4 Allgemeine Vorschriften für offene Investmentkommanditgesellschaften
 
@@ -589,7 +590,7 @@
 
 - [§ 343 Übergangsvorschriften für inländische und EU-AIF-Verwaltungsgesellschaften](0343.md)
 - [§ 344 Übergangsvorschriften für ausländische AIF-Verwaltungsgesellschaften und für andere Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0344.md)
-- [§ 344a Übergangsvorschrift zum Kleinanlegerschutzgesetz](0344a.md)
+- [§ 344a (weggefallen)](0344a.md)
 
 #### Unterabschnitt 2 Besondere Übergangsvorschriften für offene AIF und für AIF-Verwaltungsgesellschaften, die offene AIF verwalten
 
@@ -623,3 +624,4 @@
 - [§ 360 Übergangsvorschrift zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen](0360.md)
 - [§ 361 Übergangsvorschriften zu § 5 Absatz 2 Satz 2 und 3](0361.md)
 - [§ 362 Übergangsvorschrift zum Fondsstandortgesetz](0362.md)
+- [§ 363 Übergangsvorschrift zum Gesetz zur weiteren Stärkung des Anlegerschutzes](0363.md)

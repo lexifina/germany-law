@@ -100,6 +100,6 @@ Seeschiffahrt
 ## Vierter Teil Übergangs- und Schlußvorschriften
 
 - [§ 40 Berechnung der Fristen](0040.md)
-- [§ 41 Berlin-Klausel](0041.md)
+- [§ 41 (weggefallen)](0041.md)
 - [§ 42 Inkrafttreten](0042.md)
 - [Schlußformel](schlussformel.md)
