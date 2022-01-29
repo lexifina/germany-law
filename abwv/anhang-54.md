@@ -1,8 +1,8 @@
-# Anhang 54 Herstellung von Halbleiterbauelementen
+# Anhang 54 Herstellung von Wafern und Solarzellen
 
 A Anwendungsbereich
 (1)
-Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Halbleiterbauelementen und Solarzellen einschließlich der zugehörigen Vor-, Zwischen- und Nachbehandlung stammt.
+Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Herstellung von Wafern für Halbleiterbauelemente und von Solarzellen einschließlich der zugehörigen Vor-, Zwischen- und Nachbehandlung stammt.
 (2)
 Dieser Anhang gilt nicht für Abwasser aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung einschließlich Retentaten aus der Reinstwasseraufbereitung durch Membranverfahren.
 B Allgemeine Anforderungen
@@ -39,6 +39,6 @@ Unbeschadet der Anforderungen nach Absatz 1 sind im Abwasser aus galvanischen Pr
 | Chlor, freies | 0,5 |
 Für Chrom VI und Cyanid, leicht freisetzbar, dürfen die Werte nicht überschritten werden; § 6 Abs. 1 findet keine Anwendung. Ethylendiamintetraessigsäure (EDTA) und ihre Salze dürfen im Abwasser nicht enthalten sein.
 (3)
-Für arsenhaltiges Abwasser aus der Herstellung von Galliumarsenid-Halbleiterbauelementen ist ein Wert von 0,3 mg/l Arsen in der Stichprobe einzuhalten.
+Für arsenhaltiges Abwasser ist ein Wert von 0,3 mg/l Arsen in der Stichprobe einzuhalten.
 (4)
 Für cadmium- und selenhaltiges Abwasser ist ein Wert von 0,2 mg/l Cadmium und 1 mg/l Selen in der Stichprobe einzuhalten.

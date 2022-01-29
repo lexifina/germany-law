@@ -2,7 +2,7 @@
 
 A Anwendungsbereich
 (1)
-Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Wäsche von Rauch- oder Abgasen stammt, die bei der Verbrennung und Mitverbrennung von Abfällen im Sinne von Artikel 42 der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17) entstehen.
+Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Wäsche von Rauch- oder Abgasen stammt, die bei der Verbrennung von Abfällen im Sinne von Artikel 42 der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17) entstehen.
 (2)
 Dieser Anhang gilt nicht für Abwasser aus sonstigen industriellen Abgaswaschanlagen, Kreislaufkühlsystemen von Kraftwerken und industriellen Prozessen, aus sonstigen Anfallstellen bei der Dampferzeugung sowie aus der Wäsche von Rauchgasen aus Feuerungsanlagen.
 B Allgemeine Anforderungen
