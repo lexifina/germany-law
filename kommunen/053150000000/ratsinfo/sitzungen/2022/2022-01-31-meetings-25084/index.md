@@ -1,0 +1,68 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-01-31T14:30:00+01:00
+- Ende: 2022-01-31T15:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25084
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25084
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand 30.11.2021 - Kenntnis genommen
+- TOP 2.3: Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 - Kenntnis genommen
+- TOP 2.4: Mitteilung zu Top 6.1.1 der Sitzungdes Finanzausschuss vom 06.12.2021 - Kenntnis genommen
+- TOP 2.5: Start des verwaltungsinternen Haushaltsaufstellungsverfahrens - Kenntnis genommen
+- TOP 2.6: Bericht der Stadt Köln gemäß Art. 7 (1) der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 2.7: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg 1-3, 51143 Köln-Porz - zusätzliche Maßnahmen zum Klimaschutz - Kenntnis genommen
+- TOP 2.8: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand 31.12.2021 - Kenntnis genommen
+- TOP 2.9: Übersicht über die Erstellung von Jahresabschlüssen und Wirtschaftsplänen der eigenbetrieblichen Einrichtungen - Kenntnis genommen
+- TOP 2.10: Gemeindefinanzierungsgesetz 2022 – Inkrafttreten und Auswirkung der Aufstockungen - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Kostenheranziehung für Pflege- und Heimkindern durch das Jugendamt abschaffen - zurückgestellt
+- TOP 3.1.1: Kostenheranziehung von Pflege- und Heimkindern durch das Jugendamt - zurückgestellt
+- TOP 3.2: Einheitstarif RheinEnergie Neukunden und Grundversorgungswechsler - endgültig abgelehnt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2020/21 und 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Mehrkosten für den Neubau der Fuß- und Radwegbrücke über die Weinsbergstraße in Köln Ehrenfeld - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Umgestaltung der Kreuzung Kalker Hauptstraße/Rolshover Straße/Kalk-Mülheimer Straße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-109 - Sache ist erledigt
+- TOP 7.2: Weiterplanungsbeschluss auf Basis des Vorentwurfs Parkstadt Süd Eifelwall - zurückgestellt
+- TOP 7.3: Einrichtung des Erweiterungsbaus und entsprechende Freigabe von investiven Auszahlungsermächtigungen für die Förderschule Auf dem Sandberg 120, Köln-Poll im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltjahr 2022. - ungeändert beschlossen
+- TOP 7.4: Einrichtung des Erweiterungsbaus Siegburger Str. 445 und entsprechende Freigabe von investiven Auszahlungsermächtigungen für die Kath. Grundschule Am Altenberger Kreuz 14, Köln-Poll im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2022 - ungeändert beschlossen
+- TOP 7.5: Freigabe- und Baubeschluss für die Neugestaltung der Freianlagen im Innenstadtbereich Porz-Mitte - geändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neubau des naturwissenschaftlichen Gebäudes der Gesamtschule Holweide, Burgwiesenstr. 125, 51067 Köln - Kostenfortschreibungsbeschluss - ungeändert beschlossen
+- TOP 10.2: Errichtung eines Neubaus mit Zweifeldsporthalle für die Bertha-von-Suttner-Realschule, Kolkrabenweg 65, 50829 Köln-Vogelsang - Kostenfortschreibungsbeschluss - ungeändert beschlossen
+- TOP 10.3: Bedarfsfeststellungsbeschluss für die Vergabe der externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme "Umgestaltung Dorfspange Rondorf" - ungeändert beschlossen
+- TOP 10.4: Straßenunterhaltungsmaßnahme im Kölner Stadtgebiet (Lindenthal) Baumaßnahme: Generalsanierung Feldblumenweg/Anemonenweg - ungeändert beschlossen
+- TOP 10.5: Feststellung des Jahresabschlusses zum 31.08.2020 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.6: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Sicherungsmaßnahmen Römerturm - ungeändert beschlossen
+- TOP 10.7: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors mit Grundstück zur Planung und Errichtung eines Gesamtschulgebäudes für den Stadtbezirk Kalk - geändert beschlossen
+- TOP 10.8: Abbruch Bezirksrathaus Rodenkirchen, Hauptstraße 85, 50996 Köln - geändert beschlossen
+- TOP 10.9: Sicherung und Beendigung des Bühneninterims (Oper / Schauspiel / Tanz) bis 2024 - Interim V - ungeändert beschlossen
+- TOP 10.10: Stadtklima-/Stadtverschönerungsprogramm 2021 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.11: Änderung der Luftrettungssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.12: 'Integrationsbudget' - Verteilung der Finanzmittel in 2022 - ungeändert beschlossen
+- TOP 10.13: Honorarordnung für die Familienberatung und den Schulpsychologischen Dienst der Stadt Köln - ungeändert beschlossen
+- TOP 10.14: Erweiterungsbau Mensa an der Henry-Ford-Realschule, Karl-Marx-Allee 43 in 50769 Köln-Chorweiler - Baubeschluss - ungeändert beschlossen
+- TOP 10.15: Einrichtung eines kommunalen Medienzentrums - ungeändert beschlossen
+- TOP 10.16: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2020 - ungeändert beschlossen
+- TOP 10.17: Bedarfsfeststellung zur Neubeschaffung eines Datenerfassungssystems im Kölner Rettungsdienst und Abschluss eines Fünf-Jahres Rahmenliefervertrages - ungeändert beschlossen
+- TOP 10.18: Verteilung der Mittel zur Förderung von anerkannten Interkulturellen Zentren für das Jahr 2022 - unter Vorbehalt beschlossen
+- TOP 10.19: Zuschuss an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 10.20: Grundlagen des Spielbetriebs der Bühnen am Offenbachplatz ab der Spielzeit 2024/25 - geändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
