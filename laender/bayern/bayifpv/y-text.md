@@ -1,0 +1,1 @@
+Auf Grund des Art. 17 Abs. 1 Satz 2 des Bayerischen Kinderbildungs- und -betreuungsgesetzes (BayKiBiG) vom 8. Juli 2005 (GVBl. S. 236, BayRS 2231-1-A), das zuletzt durch § 1 des Gesetzes vom 23. Dezember 2021 (GVBl. S. 671) geändert worden ist, verordnet das Bayerische Staatsministerium für Familie, Arbeit und Soziales:
