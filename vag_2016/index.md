@@ -582,6 +582,7 @@
 - [§ 355 Entscheidungen der Aufsichtsbehörde aus Anlass des Inkrafttretens dieses Gesetzes](0355.md)
 - [§ 356 Übergangsvorschrift zu § 35 Absatz 1 Satz 1 Nummer 5 bis 8](0356.md)
 - [§ 357 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0357.md)
+- [§ 358 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst](0358.md)
 - [Anlage 1 Einteilung der Risiken nach Sparten](anlage-1.md)
 - [Anlage 2 Bezeichnung der Zulassung, die gleichzeitig für mehrere Sparten erteilt wird](anlage-2.md)
 - [Anlage 3 Standardformel zur Berechnung der Solvabilitätskapitalanforderung (SCR)](anlage-3.md)
