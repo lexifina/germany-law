@@ -1,0 +1,1 @@
+# Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen und den darauf beruhenden Rechtsverordnungen vom 18. Januar 2022
