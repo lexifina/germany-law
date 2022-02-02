@@ -21,6 +21,6 @@ Prüfung (Teil I)](0002.md)
 
 - [§ 6](0006.md)
 - [§ 7 Weitere Anforderungen](0007.md)
-- [§ 8 Berlin-Klausel](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 9 Inkrafttreten](0009.md)
 - [Schlußformel](schlussformel.md)

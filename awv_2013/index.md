@@ -8,10 +8,11 @@
 - [§ 1 Beantragung von Genehmigungen](0001.md)
 - [§ 2 Zertifikate nach Artikel 9 der Richtlinie 2009/43/EG](0002.md)
 - [§ 3 Formerfordernisse](0003.md)
-- [§ 4 Sammelgenehmigungen](0004.md)
+- [§ 4 Erteilung von Genehmigungen](0004.md)
 - [§ 5 Rückgabe von Verwaltungsakten](0005.md)
 - [§ 6 Aufbewahrung von Verwaltungsakten](0006.md)
 - [§ 7 Boykotterklärung](0007.md)
+- [§ 7a Gebiete, die als Zollgebiet der Europäischen Union gelten](0007a.md)
 
 ## Kapitel 2 Ausfuhr und Verbringung aus dem Inland
 
@@ -104,9 +105,9 @@
 - [§ 50 Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung](0050.md)
 - [§ 51 Genehmigungserfordernisse für technische Unterstützung im Inland](0051.md)
 - [§ 52 Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit der Errichtung oder dem Betrieb kerntechnischer Anlagen](0052.md)
-- [§ 52a Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Anhang I der Verordnung (EG) Nr. 428/2009 gelisteten Gütern der Kommunikationsüberwachung](0052a.md)
+- [§ 52a Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Anhang I der Verordnung (EU) 2021/821 gelisteten Gütern der Kommunikationsüberwachung](0052a.md)
 - [§ 52b Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Teil I Abschnitt B der Ausfuhrliste gelisteten Gütern der Kommunikationsüberwachung](0052b.md)
-- [§ 53 Befreiungen von der Genehmigungspflicht](0053.md)
+- [§ 53 Befreiung von der Genehmigungspflicht](0053.md)
 
 ## Kapitel 6 Beschränkungen des Kapitalverkehrs
 
@@ -127,6 +128,7 @@
 - [§ 58 Unbedenklichkeitsbescheinigung](0058.md)
 - [§ 58a Freigabe eines Erwerbs nach § 55](0058a.md)
 - [§ 59 Untersagung oder Anordnungen](0059.md)
+- [§ 59a Ausnahmen von den Vollzugsbeschränkungen nach § 15 Absatz 3 des Außenwirtschaftsgesetzes](0059a.md)
 
 #### Unterabschnitt 2 Sektorspezifische Prüfung von Unternehmenserwerben
 
@@ -135,7 +137,7 @@
 - [§ 61 Freigabe eines Erwerbs nach § 60](0061.md)
 - [§ 62 Untersagung oder Anordnungen](0062.md)
 
-#### Unterabschnitt 3 Verfahrensübergreifende Maßnahmen
+#### Unterabschnitt 3 Verfahrensübergreifende Vorschriften
 
 - [§ 62a Verfahrenswechsel im Prüfverfahren](0062a.md)
 
@@ -206,8 +208,8 @@
 - [§ 83 Inkrafttreten, Außerkrafttreten](0083.md)
 - [Anlage 1 Anlage AL zur Außenwirtschaftsverordnung](anlage-1.md)
 - [Anlage 2 (weggefallen)](anlage-2.md)
-- [Anlage 3 Anlage K3 „Vermögen von Inländern im Ausland“](anlage-3.md)
-- [Anlage 4 Anlage K4 „Vermögen von Ausländern im Inland“](anlage-4.md)
+- [Anlage 3 Vermögen von Inländern im Ausland](anlage-3.md)
+- [Anlage 4 Vermögen von Ausländern im Inland](anlage-4.md)
 - [Anlage 5 Anlage Z4 „Zahlungen im Außenwirtschaftsverkehr“](anlage-5.md)
 - [Anlage 6 Anlage Z5 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit ausländischen Banken“](anlage-6.md)
 - [Anlage 7 Anlage Z5a Blatt 1/1 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit verbundenen ausländischen Nichtbanken“](anlage-7.md)

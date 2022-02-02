@@ -11,6 +11,6 @@ Keramiker-Handwerk
 - [§ 6 Situationsaufgabe](0006.md)
 - [§ 7 Prüfungsdauer und Bestehen des Teils I](0007.md)
 - [§ 8 Gliederung, Prüfungsdauer und Bestehen des Teils II](0008.md)
-- [§ 9 Allgemeine Prüfungs-und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung](0009.md)
+- [§ 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung](0009.md)
 - [§ 10 Übergangsvorschrift](0010.md)
 - [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)

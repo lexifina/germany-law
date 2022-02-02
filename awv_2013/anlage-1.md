@@ -16,7 +16,7 @@ Teil I
 1. Teil I der Ausfuhrliste nennt in den Abschnitten A und B die Güter, auf die sich die in den §§ 8, 11, 46, 52b, 74, 75, 77 und 79 AWV angeordneten Beschränkungen beziehen.
   Abschnitt A enthält eine Liste für Waffen, Munition und Rüstungsmaterial.
   Abschnitt B enthält zusätzliche national erfasste Güter.
-  Abschnitt B ist nach einem fünfstelligen Nummerierungssystem untergliedert, das sich an dem Nummerierungssystem der Gemeinsamen Liste der Europäischen Union für Güter mit doppeltem Verwendungszweck (Anhang I der Verordnung (EG) Nr. 428/2009) anlehnt.
+  Abschnitt B ist nach einem fünfstelligen Nummerierungssystem untergliedert, das sich an dem Nummerierungssystem der Gemeinsamen Liste der Europäischen Union für Güter mit doppeltem Verwendungszweck (Anhang I der Verordnung (EU) 2021/821) anlehnt.
   Im Einzelnen ist die Unterteilung wie folgt, wobei nicht alle Kategorien und Gattungen belegt sind:
   a) Kategorien
     | 0 | = Kerntechnische Materialien, Anlagen und Ausrüstung |
@@ -40,7 +40,7 @@ Teil I
 2. Der Zweck der in der Ausfuhrliste angegebenen Kontrollen darf nicht dadurch unterlaufen werden, dass nicht erfasste Güter (einschließlich Anlagen) mit einem oder mehreren erfassten Bestandteilen ausgeführt werden, wenn das (die) erfasste(n) Bestandteil(e) ein Hauptelement des Ausfuhrgutes ist (sind) und leicht entfernt oder für andere Zwecke verwendet werden kann (können).
   Anmerkung: Bei der Beurteilung darüber, ob das (die) erfasste(n) Bestandteil(e) ein Hauptelement bildet (bilden), müssen insbesondere Menge, Wert und eingesetztes technologisches Know-how berücksichtigt werden.
 3. Die von der Ausfuhrliste erfassten Güter umfassen sowohl neue als auch gebrauchte Güter.
-4. Chemikalien werden in einigen Fällen mit Namen und CAS-Nummer (CAS = Chemical Abstract Service) aufgeführt. Diese Liste erfasst Chemikalien mit gleichen Strukturformeln, einschließlich Hydrate, unabhängig von Namen oder CAS-Nummer. CAS-Nummern werden angegeben, um die Bestimmung einer Chemikalie oder Mischung unabhängig von ihrer Benennung zu erleichtern. CAS-Nummern können nicht als einziges Identifikationskriterium verwendet werden, da verschiedene Formen einer erfassten Chemikalie verschiedene CAS-Nummern haben und Mischungen, die eine erfasste Chemikalie enthalten, ebenfalls verschiedene CAS-Nummern haben können.
+4. Chemikalien werden in einigen Fällen mit Namen und CAS-Nummer (CAS = Chemical Abstracts Service) aufgeführt. Diese Liste erfasst Chemikalien mit gleichen Strukturformeln, einschließlich Hydrate, unabhängig von Namen oder CAS-Nummer. CAS-Nummern werden angegeben, um die Bestimmung einer Chemikalie oder Mischung unabhängig von ihrer Benennung zu erleichtern. CAS-Nummern können nicht als einziges Identifikationskriterium verwendet werden, da verschiedene Formen einer erfassten Chemikalie verschiedene CAS-Nummern haben und Mischungen, die eine erfasste Chemikalie enthalten, ebenfalls verschiedene CAS-Nummern haben können.
 5. Technologie-Anmerkung für Teil I Abschnitte A und B.
   a) Technologie-Anmerkung für Teil I Abschnitt A:
     Zur Erfassung von Technologie im Teil I Abschnitt A siehe Nummer 0022.
@@ -106,7 +106,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
         4. Abfeuern von industriellen Projektilen oder
         5. Entschärfung von unkonventionellen Spreng- und Brandvorrichtungen (USBV).
         Ergänzende Anmerkung:
-        Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+        Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
   c) Waffen, die hülsenlose Munition verwenden;
   d) Zubehör, konstruiert für die von Unternummern 0001a, 0001b oder 0001c erfassten Waffen, wie folgt:
     1. Wechselmagazine,
@@ -130,7 +130,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
         4. Abfeuern von industriellen Projektilen oder
         5. Entschärfung von unkonventionellen Spreng- und Brandvorrichtungen (USBV),
           Ergänzende Anmerkung:
-          Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+          Für Disruptor siehe auch Nummer 0004 und Nummer 1A006 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
       f) Handgehaltene Abschussgeräte, besonders konstruiert, um gefesselte Wurfgeschosse, die keine Sprengladung und keine Nachrichtenverbindung besitzen, über eine Entfernung von kleiner/gleich 500 m abzuschießen.
   b) Werfer besonders konstruiert oder geändert für militärische Zwecke, wie folgt:
     1. Nebelwerfer;
@@ -306,7 +306,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
       a) Luftreinigungsanlagen, besonders konstruiert oder hergerichtet zum Filtern von radioaktiven, biologischen oder chemischen Stoffen;
       b) Schutzkleidung.
     Ergänzende Anmerkung:
-    Zivilschutzmasken, Schutzausrüstung und Dekontaminationsausrüstung siehe Nummer 1A004 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+    Zivilschutzmasken, Schutzausrüstung und Dekontaminationsausrüstung siehe Nummer 1A004 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
   g) Ausrüstung, besonders konstruiert oder geändert für militärische Zwecke, konstruiert oder geändert zur Feststellung oder Identifizierung der von Unternummer 0007a, 0007b oder 0007d erfassten Materialien, und besonders konstruierte Bestandteile hierfür;
     Anmerkung: Unternummer 0007g erfasst nicht Strahlendosimeter für den persönlichen Gebrauch.
   h) „Biopolymere“, besonders entwickelt oder aufgebaut für die Feststellung oder Identifizierung der von Unternummer 0007b erfassten chemischen Kampfstoffe und spezifische Zellkulturen zu ihrer Herstellung;
@@ -335,16 +335,16 @@ A Liste für Waffen, Munition und Rüstungsmaterial
     p) Chlorpikrin (CAS-Nr. 76-06-2).
   Anmerkung 2: Unternummern 0007h und 0007i2 erfassen nur spezifische Zellkulturen und biologische Systeme. Zellkulturen und biologische Systeme für zivile Zwecke, z. B. für Landwirtschaft, Pharmazie, Medizin, Tierheilkunde, Umwelt, Abfallwirtschaft und Nahrungsmittelindustrie, werden nicht erfasst.
   Anmerkung 3: Nummer 0007d erfasst nicht „Reizstoffe“, einzeln abgepackt für persönliche Selbstverteidigungszwecke.
-  Anmerkung 4: Siehe auch Nummer 1A004 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
-  Anmerkung 5: Ausgangsstoffe für die Herstellung toxischer Wirkstoffe siehe Nummer 1C350 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
-  Anmerkung 6: Biologische Wirkstoffe siehe Nummern 1C351 bis 1C354 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+  Anmerkung 4: Siehe auch Nummer 1A004 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
+  Anmerkung 5: Ausgangsstoffe für die Herstellung toxischer Wirkstoffe siehe Nummer 1C350 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
+  Anmerkung 6: Biologische Wirkstoffe siehe Nummern 1C351 bis 1C354 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
     Biologische Wirkstoffe werden nur dann von Unternummer 0007a erfasst, wenn sie ausgewählt oder geändert wurden (z. B. Änderung der Reinheit, Lagerbeständigkeit, Virulenz, Verbreitungsmerkmale oder Widerstandsfähigkeit gegen UV-Strahlung), zur Außergefechtsetzung von Menschen und Tieren, der Funktionsbeeinträchtigung von Ausrüstung, der Vernichtung von Ernten oder zur Schädigung der Umwelt.
     Soweit sie Kriegswaffeneigenschaften besitzen, ist ihre Ausfuhr nach § 17 oder 18 des Gesetzes über die Kontrolle von Kriegswaffen verboten.
 0008 „Energetische Materialien“ und zugehörige Stoffe wie folgt:
   Ergänzende Anmerkung 1:
   Siehe auch Nummer 1C011 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
   Ergänzende Anmerkung 2:
-  Ladungen und Vorrichtungen siehe Nummer 0004 und Nummer 1A008 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+  Ladungen und Vorrichtungen siehe Nummer 0004 und Nummer 1A008 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
   Technische Anmerkungen:
   1. ,Mischung‘ im Sinne von Nummer 0008 – mit Ausnahme der Unternummern 0008c11 oder 0008c12 – bedeutet eine Zusammensetzung aus zwei oder mehreren Substanzen, von denen mindestens eine in den Unternummern der Nummer 0008 genannt sein muss.
   2. Jede Substanz, die von einer Unternummer der Nummer 0008 erfasst wird, bleibt auch dann erfasst, wenn sie für einen anderen als den in der Überschrift zu dieser Unternummer genannten Zweck verwendet wird (z. B. wird TAGN überwiegend als „Explosivstoff“ eingesetzt, kann aber auch als Brennstoff oder Oxidationsmittel verwendet werden).
@@ -467,7 +467,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
     6. militärische Materialien, die für die Verwendung in Flammenwerfern oder Brandbomben besonders formulierte Verdicker für Kohlenwasserstoff-Brennstoffe enthalten, wie Metallstearate (z. B. Oktal (CAS-Nr. 637-12-7)) oder -palmitate,
     7. Perchlorate, Chlorate und Chromate, die mit Metallpulver oder anderen energiereichen Brennstoffen gemischt sind,
     8. kugelförmiges oder kugelähnliches Aluminiumpulver (CAS-Nr. 7429-90-5) mit einer Partikelgröße kleiner/gleich 60 µm und hergestellt aus Material mit einem Aluminiumgehalt von mindestens 99 %,
-    9. Titansubhydrid mit der stöchiometrischen Zusammensetzung TiH 0,65-1,68,
+    9. Titansubhydrid (TiHn) mit einer stöchiometrischen Zusammensetzung n = TiH 0,65-1,68,
     10. flüssige Brennstoffe hoher Energiedichte, nicht von Unternummer 0008c1 erfasst, wie folgt:
       a) Brennstoffgemische mit sowohl festen wie flüssigen Bestandteilen (z. B. Borschlamm), mit einer massespezifischen Energiedichte größer/gleich 40 MJ/kg,
       b) andere Brennstoffe hoher Energiedichte und Brennstoffadditive (z. B. Cuban, ionische Lösungen, JP-7, JP-10), mit einer volumenspezifischen Energiedichte größer/gleich 37,5 GJ/m³, gemessen bei 293 K (20 °C) und Atmosphärendruck (101,325 kPa),
@@ -493,7 +493,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
       a) sonstige Halogene,
       b) Sauerstoff oder
       c) Stickstoff,
-      Anmerkung 1: Zur Erfassung von Chlortrifluorid (CAS-Nr. 7790-91-2) siehe Nummer 1C238 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+      Anmerkung 1: Zur Erfassung von Chlortrifluorid (CAS-Nr. 7790-91-2) siehe Nummer 1C238 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
       Anmerkung 2: Unternummer 0008d3 erfasst nicht Stickstofftrifluorid (CAS-Nr. 7783-54-2) in gasförmigem Zustand.
     4. DNAD (1,3-Dinitro-1,3-diazetidin) (CAS-Nr. 78246-06-7),
     5. HAN (Hydroxylammoniumnitrat) (CAS-Nr. 13465-08-2),
@@ -639,7 +639,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
     aa) 2-Nitrodiphenylamin (2-NDPA) (CAS-Nr. 119-75-5),
     bb) 4-Nitrodiphenylamin (4-NDPA) (CAS-Nr. 836-30-6),
     cc) 2,2-Dinitropropanol (CAS-Nr. 918-52-5),
-    dd) zur Erfassung von Nitroguanidin (NQ) (CAS-Nr. 556-88-7) siehe Unternummer 1C011d des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+    dd) zur Erfassung von Nitroguanidin (NQ) (CAS-Nr. 556-88-7) siehe Unternummer 1C011d des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
   Anmerkung 2: Nummer 0008 erfasst nicht Ammoniumperchlorat (Unternummer 0008d2), NTO (Unternummer 0008a18) oder Catocen (Unternummer 0008f4b) mit allen folgenden Eigenschaften:
     a) besonders geformt und formuliert für Gaserzeuger für zivile Verwendung,
     b) liegt als Verbindung oder Mischung mit nichtaktiven warmaushärtenden Bindemitteln oder Weichmachern vor und weist eine Masse von weniger als 250 g auf,
@@ -763,7 +763,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
     a) Startantriebssysteme, die Massen größer als 0,1 g auf Geschwindigkeiten über 1,6 km/s in den Betriebsarten Einzelfeuer oder Schnellfeuer beschleunigen können,
     b) Ausrüstung für die Erzeugung von Primärenergie, Elektroschutz (electric armour), Energiespeicherung (z. B. Hochenergie-Speicherkondensatoren), Kontrolle des Wärmehaushalts und Klimatisierung, Schaltvorrichtungen und Ausrüstung für die Handhabung von „Treibstoffen“, elektrische Schnittstellen zwischen Stromversorgung, Geschütz und anderen elektrischen Richtfunktionen des Turms,
       Ergänzende Anmerkung:
-      Siehe auch Unternummer 3A001e2 (Hochenergie-Speicherkondensatoren) des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+      Siehe auch Unternummer 3A001e2 (Hochenergie-Speicherkondensatoren) des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
     c) Zielerfassungs-, Zielverfolgungs-, Feuerleitsysteme und Systeme zur Wirkungsermittlung,
     d) Zielsuch-, Zielansteuerungssysteme und Systeme zur Umlenkung des Vortriebs (seitliche Beschleunigung) für Geschosse.
   Anmerkung 2: Nummer 0012 erfasst Systeme, die eine der folgenden Antriebsarten verwenden:
@@ -795,11 +795,11 @@ A Liste für Waffen, Munition und Rüstungsmaterial
   Anmerkung 2: Unternummer 0013b schließt Werkstoffe ein, die besonders konstruiert sind zur Bildung einer explosions-reaktiven Panzerung oder zum Bau militärischer Unterstände (shelters).
   Anmerkung 3: Unternummer 0013c erfasst nicht herkömmliche Stahlhelme, die weder mit Zusatzgeräten ausgerüstet noch für die Ausrüstung mit Zusatzgeräten geändert oder konstruiert sind.
   Anmerkung 4: Unternummern 0013c und 0013d erfassen nicht einzelne Helme, Körperpanzer oder Schutzbekleidung, wenn diese von ihren Benutzern zu deren eigenem persönlichen Schutz mitgeführt werden.
-  Anmerkung 5: Unternummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
+  Anmerkung 5: Unterummer 0013c erfasst nur solche besonders für Bombenräumpersonal konstruierte Helme, die besonders für militärische Zwecke konstruiert sind.
   Ergänzende Anmerkung 1:
-  Siehe auch Nummer 1A005 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+  Siehe auch Nummer 1A005 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
   Ergänzende Anmerkung 2:
-  „Faser- oder fadenförmige Materialien“, die bei der Herstellung von Körperpanzern verwendet werden, siehe Nummer 1C010 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+  „Faser- oder fadenförmige Materialien“, die bei der Herstellung von Körperpanzern verwendet werden, siehe Nummer 1C010 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 0014 ,Spezialisierte Ausrüstung für die militärische Ausbildung‘ oder für die Simulation militärischer Szenare, Simulatoren, besonders konstruiert für die Ausbildung an den unter Nummer 0001 oder 0002 erfassten Waffen, sowie besonders konstruierte Bestandteile und besonders konstruiertes Zubehör hierfür.
   Technische Anmerkung:
   Der Begriff ,spezialisierte Ausrüstung für die militärische Ausbildung‘ schließt militärische Ausführungen von folgender Ausrüstung ein:
@@ -820,7 +820,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
   o) Geräte für Übungen mit unbemannten „Luftfahrzeugen“,
   p) bewegliche Übungsgeräte,
   q) Übungsausrüstung für militärische Bodenoperationen.
-  Anmerkung 1: Nummer 0014 schließt Systeme zur Bilderzeugung (image generating) oder zum Dialog mit der Umgebung für Simulatoren ein, sofern sie für militärische Zwecke besonders konstruiert oder besonders geändert sind.
+  Anmerkung 1: Nummer 0014 schließt Systeme zur Bilderzeugung (image generating) oder zum Dialog mit der Umgebung für Simulatoren ein, sofern sie für militärische Zwecke besonders konstruiert oder geändert sind.
   Anmerkung 2: Nummer 0014 erfasst nicht besonders konstruierte Ausrüstung für das Training im Umgang mit Jagd- und Sportwaffen.
 0015 Bildausrüstung oder Ausrüstung für Gegenmaßnahmen, besonders konstruiert für militärische Zwecke, wie folgt sowie besonders konstruierte Bestandteile und besonders konstruiertes Zubehör hierfür:
   a) Aufzeichnungsgeräte und Bildverarbeitungsausrüstung;
@@ -834,7 +834,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
     Ergänzende Anmerkung:
     Zur Erfassung von Waffenzielgeräten mit „Bildverstärkerröhren der ersten Generation“ siehe Unternummern 0001d, 0002c und 0005a.
   Ergänzende Anmerkung:
-  Siehe auch Unternummern 6A002a2 und 6A002b des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+  Siehe auch Unternummern 6A002a2 und 6A002b des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
 0016 Schmiedestücke, Gussstücke und andere unfertige Erzeugnisse, die besonders konstruiert sind für eine der von Nummer 0001, 0002, 0003, 0004, 0006, 0009, 0010, 0012 oder 0019 erfassten Waren.
   Anmerkung 1: Nummer 0016 erfasst unfertige Erzeugnisse, wenn sie anhand von Materialzusammensetzung, Geometrie oder Funktion bestimmt werden können.
   Anmerkung 2: Nummer 0016 schließt Mischungen von „energetischen Materialien“ ein, die formuliert sind für die Herstellung von Treibladungspulver. Andere Mischungen von „energetischen Materialien“ siehe Nummer 0008.
@@ -843,7 +843,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
     1. unabhängige Kreislauftauchgeräte mit geschlossener und halbgeschlossener Atemlufterneuerung,
     2. Unterwasserschwimmgeräte, besonders konstruiert für die Verwendung mit den von Unternummer 0017a1 erfassten Tauchgeräten;
     Ergänzende Anmerkung:
-    Siehe auch Unternummer 8A002q des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung.
+    Siehe auch Unternummer 8A002q des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung.
   b) Bauausrüstung, besonders konstruiert für militärische Zwecke;
   c) Halterungen (fittings), Beschichtungen und Behandlungen für die Unterdrückung von Signaturen, besonders konstruiert für militärische Zwecke;
   d) Ausrüstung für technische Betreuung, besonders konstruiert für den Einsatz in einer Kampfzone;
@@ -852,7 +852,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
     2. ausgestattet mit Mitteln zum Schutz der Hydraulikleitungen gegen Beschädigungen von außen durch umherfliegende Munitionssplitter (z. B. selbstdichtende Leitungen) und konstruiert für die Verwendung von Hydraulikflüssigkeiten mit einem Flammpunkt über 839 K (566 °C) oder
     3. besonders konstruiert oder ausgelegt für einen Einsatz in einer EMP-Umgebung (EMP = elektromagnetischer Impuls);
       Technische Anmerkung:
-      Der Begriff elektromagnetischer Puls bezieht sich nicht auf eine unbeabsichtigte Störbeeinflussung, die durch elektromagnetische Abstrahlung nahe gelegener Ausrüstung (z. B. Maschinenanlagen, Vorrichtungen oder Elektronik) oder Blitzschlag verursacht wird.
+      Der Begriff elektromagnetischer Impuls bezieht sich nicht auf eine unbeabsichtigte Störbeeinflussung, die durch elektromagnetische Abstrahlung nahe gelegener Ausrüstung (z. B. Maschinenanlagen, Vorrichtungen oder Elektronik) oder Blitzschlag verursacht wird.
   f) „Bibliotheken“, besonders entwickelt oder geändert für militärische Zwecke in Verbindung mit Systemen, Ausrüstung oder Bestandteilen, die von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst werden bzw. wird;
   g) Nukleare Energieerzeugungs- oder Antriebsausrüstung, nicht anderweitig von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst, besonders konstruiert für militärische Zwecke, sowie besonders für militärische Zwecke konstruierte oder ,geänderte‘ Bestandteile;
     Anmerkung: Unternummer 0017g schließt „Kernreaktoren“ ein.
@@ -876,7 +876,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
   1. nicht belegt.
   2. ,geändert‘ im Sinne von Nummer 0017 bedeutet eine bauliche, elektrische, mechanische oder sonstige Änderung, die eine nichtmilitärische Ausrüstung mit militärischen Eigenschaften ausstattet, so dass die Ausrüstung gleichwertig zu einer für militärische Zwecke besonders konstruierten Ausrüstung ist.
 0018 ,Herstellung‘sausrüstung, Umweltprüfeinrichtungen und Bestandteile wie folgt:
-  a) besonders konstruierte oder besonders geänderte Ausrüstung für die ,Herstellung‘ der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren und besonders konstruierte Bestandteile hierfür;
+  a) besonders konstruierte oder geänderte Ausrüstung für die ,Herstellung‘ der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren und besonders konstruierte Bestandteile hierfür;
   b) besonders konstruierte Umweltprüfeinrichtungen für die Zulassungs- und Eignungsprüfung der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfassten Waren und besonders konstruierte Ausrüstung hierfür.
   Technische Anmerkung:
   ,Herstellung‘ im Sinne der Nummer 0018 schließt die Konstruktion, den Test, die Fertigung, die Erprobung und die Prüfung ein.
@@ -952,10 +952,10 @@ A Liste für Waffen, Munition und Rüstungsmaterial
     b) „Technologie“, bei der es sich um „allgemein zugängliche“ Informationen, „wissenschaftliche Grundlagenforschung“ oder für Patentanmeldungen erforderliche Informationen handelt;
     c) „Technologie“ für die magnetische Induktion zum Dauerantrieb ziviler Transporteinrichtungen.
 B National erfasste Güter
-2B909 Fließdrückmaschinen und Maschinen mit kombinierter Fließdrück- und Drückfunktion, die nicht von Nummer 2B009, 2B109 oder 2B209 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst werden, mit allen folgenden Eigenschaften, sowie besonders konstruierte Bestandteile hierfür:
+2B909 Fließdrückmaschinen und Maschinen mit kombinierter Fließdrück- und Drückfunktion, die nicht von Nummer 2B009, 2B109 oder 2B209 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, mit allen folgenden Eigenschaften, sowie besonders konstruierte Bestandteile hierfür:
   a) die nach den technischen Beschreibungen des Herstellers mit numerischen Steuerungen, Rechnersteuerungen oder Play-back-Steuerungen ausgerüstet werden können und
   b) mit einer Supportkraft größer als 60 kN, wenn das Bestimmungsland Syrien ist.
-2B952 Ausrüstung, geeignet zur Handhabung biologischer Stoffe, die nicht von Nummer 2B352 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst wird, wie folgt, wenn das Bestimmungsland Iran, Nordkorea oder Syrien ist:
+2B952 Ausrüstung, geeignet zur Handhabung biologischer Stoffe, die nicht von Nummer 2B352 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, wie folgt, wenn das Bestimmungsland Iran, Nordkorea oder Syrien ist:
   a) Fermenter, geeignet zur Kultivierung pathogener „Mikroorganismen“ oder Viren oder geeignet zur Erzeugung von „Toxinen“, ohne Aerosolfreisetzung, mit einer Gesamtkapazität größer/gleich 10 l;
   b) Rührwerke für von Unternummer 2B952a erfasste Fermenter.
     Technische Anmerkung:
@@ -964,8 +964,8 @@ B National erfasste Güter
   a) Herstellungsausrüstung für die chemische Beschichtung aus der Gasphase (CVD = chemical vapour deposition);
   b) Herstellungsausrüstung für die physikalische Beschichtung aus der Dampfphase (PVD = physical vapour deposition) mittels Elektronenstrahl (EB – PVD);
   c) Herstellungsausrüstung für die Beschichtung mittels induktiver oder ohmscher Aufheizung.
-5A902 Überwachungssysteme, Geräte und Bestandteile für IuK (Informations- und Kommunikationstechnik) für öffentliche Netze wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt:
-  a) Überwachungszentren (Law Enforcement Monitoring Facilities) für Lawful Interception Systeme (LI, z. B. gemäß ETSI ES 201 158, ETSI ES 201 671 oder vergleichbare Normen, Spezifikationen oder Standards) und besonders konstruierte Bestandteile hierfür,
+5A902 Überwachungssysteme, Geräte und Bestandteile für IuK (Informations- und Kommunikationstechnik) für öffentliche Netze, die nicht von Nummer 5D001e des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
+  a) Überwachungszentren (Law Enforcement Monitoring Facilities) für Lawful Interception Systeme (LI, z. B. gemäß ETSI ES 201 158, ETSI ES 201 671 oder vergleichbare Normen, Spezifikationen oder Standards) und besonders konstruierte Bestandteile hierfür;
   b) Vorratsdatenspeicherungssysteme oder -geräte für Ereignisdaten (Intercept Related Information IRI, z. B. gemäß ETSI TS 102 656 oder vergleichbare Normen, Spezifikationen oder Standards) und besonders konstruierte Bestandteile hierfür.
     Technische Anmerkung:
     Ereignisdaten schließen Signalisierungsinformationen, Ursprung und Ziel (Telefonnummern, IP oder MAC Adressen etc.), Datum und Dauer sowie geographische Herkunft der Kommunikation ein.
@@ -978,20 +978,22 @@ B National erfasste Güter
 5A911 Basisstationen für digitalen ,Bündelfunk‘, wenn das Bestimmungsland Sudan oder Südsudan ist.
   Technische Anmerkung:
   ,Bündelfunk‘ ist ein zellulares Funkübertragungsverfahren mit mobilen Teilnehmern, denen Frequenzbündel zur Kommunikation zugewiesen werden. Digitaler ,Bündelfunk‘ (z. B. TETRA, Terrestrial Trunked Radio) verwendet digitale Modulationsverfahren.
-5D902 „Software“ wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt:
+5D902 „Software“, die nicht von Nummer 5D001e des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, wie folgt, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt:
   a) „Software“, besonders entwickelt oder geändert für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von in Nummer 5A902 erfassten Einrichtungen, Funktionen oder Leistungsmerkmalen;
   b) „Software“, besonders entwickelt oder geändert zur Erzielung der von Nummer 5A902 erfassten Eigenschaften, Funktionen oder Leistungsmerkmalen.
 5D911 „Software“, die besonders entwickelt oder geändert wurde für die „Verwendung“ von Ausrüstung, erfasst von Nummer 5A911, wenn das Bestimmungsland Sudan oder Südsudan ist.
-5E902 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Einrichtungen, Funktionen oder Leistungsmerkmalen, die von Nummer 5A902 erfasst werden, oder „Software“, die von Nummer 5D902 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
-6A908 Radargestützte Navigations- oder Überwachungs-Systeme für den Schiffs- oder Flugverkehr, die nicht von Nummer 6A008 oder 6A108 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst werden, sowie besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran ist.
+5E902 „Technologie“, die nicht von Nummer 5E001a des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Einrichtungen, Funktionen oder Leistungsmerkmalen, die von Nummer 5A902 erfasst werden, oder „Software“, die von Nummer 5D902 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
+6A908 Radargestützte Navigations- oder Überwachungs-Systeme für den Schiffs- oder Flugverkehr, die nicht von Nummer 6A008 oder 6A108 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, sowie besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran ist.
 6D908 „Software“, die besonders entwickelt oder geändert wurde für die „Entwicklung“, „Herstellung“ oder „Verwendung“ der von Nummer 6A908 erfassten Ausrüstung, wenn das Bestimmungsland Iran ist.
-9A904 „Laser“kommunikationsterminals (LCTs, „Laser“-Datenübertragungsstationen), die nicht von Nummer 9A004 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst werden, für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
+9A904 „Raumfahrzeug-“ und sonstige Ausrüstung wie folgt:
+  a) Antennen, konstruiert für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt;
+  b) „Laser“kommunikationsterminals (LCTs, „Laser“-Datenübertragungsstationen), die nicht von Nummer 9A004 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst werden, für die Verwendung im Zusammenhang mit „Raumfahrzeugen“, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
   Technische Anmerkung:
-  Nummer 9A904 schließt Güter ein, die in folgenden Zusammenhängen mit „Raumfahrzeugen“ Verwendung finden, sowohl am Boden als auch auf „Raumfahrzeugen“:
+  Nummer 9A904b schließt Güter ein, die in folgenden Zusammenhängen mit „Raumfahrzeugen“ Verwendung finden, sowohl am Boden als auch auf „Raumfahrzeugen“:
   1. Einsatz als Nutzlast für Up- oder Downlink,
   2. Kommunikation zwischen „Raumfahrzeugen“ oder
   3. Nutzung im Zusammenhang mit der Übertragung von Telemetriesignalen.
-9A991 Landfahrzeuge, die nicht von von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst werden, wie folgt:
+9A991 Landfahrzeuge, die nicht von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) erfasst werden, wie folgt:
   a) Tiefladeanhänger und Sattelauflieger mit einer Nutzlast größer als 25 000 kg und kleiner als 70 000 kg oder mit einem oder mehreren militärischen Ausstattungsmerkmalen und geeignet für den Transport der von der Liste für Waffen, Munition und Rüstungsmaterial (Teil I A) Nummer 0006 erfassten Fahrzeuge sowie zu deren Fortbewegung geeignete und mit einem oder mehreren militärischen Ausstattungsmerkmalen versehene Zugmaschinen, wenn das Bestimmungsland Iran, Libyen, Myanmar, Nordkorea, Pakistan, Somalia oder Syrien ist;
     Anmerkung: Unter Zugmaschinen im Sinne von Unternummer 9A991a fallen alle Fahrzeuge mit primärer Zugfunktion.
   b) Sonstige Lastkraftwagen und geländegängige Fahrzeuge mit einem oder mehreren militärischen Ausstattungsmerkmalen, wenn das Bestimmungsland Iran, Libyen, Myanmar, Nordkorea, Somalia oder Syrien ist.
@@ -1008,10 +1010,10 @@ B National erfasste Güter
   b) Lastkraftwagen mit drei Achsen oder mehr und einem zulässigen Gesamtgewicht von mehr als 20 000 kg, wenn das Bestimmungsland Iran oder Syrien ist.
 9A993 Hubschrauber, Hubschrauber-Leistungsübertragungssysteme, Gasturbinentriebwerke und Hilfstriebwerke (APUs) für die Verwendung in Hubschraubern sowie besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran, Kuba, Libyen, Myanmar, Nordkorea oder Syrien ist.
 9A994 Luftgekühlte Kolbentriebwerke (Flugmotoren) mit einem Hubraum größer/gleich 100 cm³ und kleiner/gleich 600 cm³, geeignet für den Einsatz in unbemannten „Luftfahrzeugen“, und besonders konstruierte Bestandteile hierfür, wenn das Bestimmungsland Iran ist.
-9D904 „Software“, besonders entwickelt oder geändert für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Gütern, die von Nummer 9A904 erfasst werden, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
-9E904 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von den Unternummern 5E001b2, 9E001 und 9E002 des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst wird, für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Gütern, die von Nummer 9A904 erfasst werden, oder „Software“, die von Nummer 9D904 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
+9D904 „Software“, besonders entwickelt oder geändert für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Gütern, die von Nummer 9A904 erfasst werden, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
+9E904 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von den Unternummern 5E001b2, 9E001 und 9E002 des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, für die „Entwicklung“, „Herstellung“ oder „Verwendung“ von Gütern, die von Nummer 9A904 erfasst werden, oder „Software“, die von Nummer 9D904 erfasst wird, wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 9E991 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung für die „Entwicklung“ oder „Herstellung“ der von Nummer 9A993 erfassten Ausrüstung, wenn das Bestimmungsland Iran, Kuba, Libyen, Myanmar, Nordkorea oder Syrien ist.
-9E992 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von Nummer 9E101b des Anhangs I der Verordnung (EG) Nr. 428/2009 in der jeweils geltenden Fassung erfasst wird, für die „Herstellung“ der von Nummer 9A012 erfassten „unbemannten Luftfahrzeuge“ („UAV“), wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 aufgeführten Gebiete liegt.
+9E992 „Technologie“ entsprechend der Allgemeinen Technologie-Anmerkung, die nicht von Nummer 9E101b des Anhangs I der Verordnung (EU) 2021/821 in der jeweils geltenden Fassung erfasst wird, für die „Herstellung“ der von Nummer 9A012 erfassten „unbemannten Luftfahrzeuge“ („UAV“), wenn das Bestimmungsziel außerhalb des Zollgebiets der Europäischen Union und außerhalb der in Anhang II Abschnitt A Teil 2 der Verordnung (EU) 2021/821 aufgeführten Gebiete liegt.
 Verzeichnis der verwendeten Abkürzungen
 Abkürzungen, für die eine Definition vorliegt, siehe Begriffsbestimmungen
 | AIP | Außenluftunabhängige Antriebssysteme (Air Independent Propulsion) |
