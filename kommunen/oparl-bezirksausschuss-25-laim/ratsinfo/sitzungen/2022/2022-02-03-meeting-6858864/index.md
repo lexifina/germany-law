@@ -1,0 +1,75 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-02-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6858864
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6858864
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Aufwertung des Straßenbegleitgrüns im Sinne der Biodiversität und der Klimaziele
+- TOP 1.2.2.: Nachbarschaftliche Aktion - Bepflanzung eines Straßenbegleitenden Beetes durch Anwohner/Nachbarn an der Guido-Schneble-Straße Ecke Camerloherstraße
+- TOP 2: Anträge
+- TOP 2.1.: Einrichtung einer Fahrrad-Servicestation am Laimer Platz
+- TOP 2.2.: Begrünung der Schulen in der Droste-Hülshoff-Straße
+- TOP 2.3.: Camerloherstraße als Fahrradstraße einrichten
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Laimer Schlümpfe e.V. Renovierung 8.122,00 €; Az. 0262.0-25-0262
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Direktorium vom 20.12.21: Analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München
+- TOP 4.3.: Schreiben Direktorium vom 11.01.22: Klimaschutz konkret - Klima-Ausschuss in jedem Bezirksausschuss
+- TOP 4.4.: Schreiben Mobilitätsreferat vom 14.12.21: Eingeschränktes Haltverbot Fürstenrieder Str. 20
+- TOP 4.5.: Schreiben Mobilitätsreferat vom 15.12.21: Anordnung bzgl. Schulbushaltestelle in der Camerloherstraße
+- TOP 4.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.01.22: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 25 Laim
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Termin Bürgerversammlung Stadtbezirk 25 Laim 2022: 18.10.22
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 13.01.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 27.12.21: Öffentliche Infoveranstaltung Verlängerung U5
+- TOP 8.2.: Schreiben BAureferat vom 16.12.21: Verbindungsweg Mathunistraße - Fürstenriederstraße
+- TOP 8.3.: Schreiben Baureferat vom 14.12.21: Agricolastr. 106 – Aufwertung mit Spielgeräten über BA-Budget
+- TOP 8.4.: Schreiben Referat für Stadtplanungund Bauordnung vom 30.12.21: Kiem-Pauli-Weg 2-18, Fl.Nr.: 396/2, Gemarkung Laim "Alte Heimat" - Neubauschritt 2 (NB 2)
+- TOP 8.5.: Bautenliste 13.12.-19.12.21:: A) Erstantragsverfahren 1. Kärntner Pl. 3 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Heigenmooserstr. 2 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Lanzstr. 26 2. Kärntner Pl. 3
+- TOP 8.6.: Bautenliste 20.12.-26.12.21: A) Erstantragsverfahren 1. Eringerstr. 46 2. Guido-Schneble-Str. 9a 3. Fürstenrieder Str. 81
+- TOP 8.7.: Bautenliste 27.12.21-02.01.22 A) Erstantragsverfahren 1. Junkerstr. 20 2. Agricolastr. 66 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Kiem-Pauli-Weg 1 2. Kiem-Pauli-Weg 2
+- TOP 8.8.: Bautenliste 03.01.22-09.01.22: A) Erstantragsverfahren 1. Eringerstr. 25 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Camerloherstr. 107 2. Senftenauerstr. 124
+- TOP 8.9.: Bautenliste 10.01.22-16.01.22: A) Erstantragsverfahren 1. Agnes-Bernauer-Str. 69a 2. Byecherstr. 11 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Högerstr. 2 2. Camerloherstr. 150a
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.01.22: Fällungsantrag Aindorferstr. 130
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.01.22: Bauwut in Laim
+- TOP 8.12.: Diesterwegstr. 4, Gemarkung: Laim, Fl.Nr.: 336/6 Neubau eines Zweifamilienhauses (Eilentscheidung)
+- TOP 8.13.: Vohburger Str. 21, Gemarkung: Laim, Fl.Nr.: 226/68 Errichtung eines Wintergartens (Eilentscheidung)
+- TOP 8.14.: Agnes-Bernauer-Platz 8a, Gemarkung: Laim, Fl.Nr.: 42/6 Errichtung eines FC-Technikgebäudes für die Glasfasererschließung München (Eilentscheidung)
+- TOP 8.15.: Fürstenrieder Str. 20, Gemarkung: Laim, Fl.Nr.: 37/6 Nutzungsänderung: Sporttextileinzelhandel zu Online-Supermarkt mit Heimlieferservice "Gorillas" (Eilentscheidung)
+- TOP 8.16.: Geyerspergerstr. 36, Gemarkung: Laim, Fl.Nr.: 210/17 Neubau eines Mehrfamilienhauses mit Tiefgarage (Eilentscheidung)
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 21.12.21: Jahresdrehgenehmigung Aktenzeichen XY ungelöst
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 03.01.22: Verkehrsrechtliche Anordnung Von-der-Pfordten-Str.
+- TOP 8.19.: Schreiben Referat für Klima- und Umweltschutz vom 23.12.21: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV (Jahresgenehmigung Betrieb von Müllsammelfahrzeugen)
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 22.12.21: Antrag auf unveränderte Fortführung des "Torbogenstüberls"
+- TOP 8.21.: Schreiben Kreisverwaltungsreferat vom 11.01.22: Antrag auf unveränderte Fortführung der Gaststätte "By Moni"
+- TOP 8.22.: Schreiben Referat für Arbeit und Wirtschaft vom 16.12.21: Glasfaserausbau Laim
+- TOP 8.23.: Schreiben Sozialreferat vom 17.01.22: Antrag auf Zweckentfremdung von Wohnraum, Diesterwegstr.
+- TOP 8.24.: Schreiben Sozialreferat vom 17.01.22: Antrag auf Zweckentfremdung von Wohnraum, Friedenheimer Str.
+- TOP 8.25.: Schreiben SWM vom 17.01.22: Stromprojekt Gotthardstraße
+- TOP 8.26.: Schreiben Spielen in der Stadt vom 03.12.21: Kurzbericht
+- TOP 8.27.: Schreiben ESV München e.V. vom 15.12.21: Dank
+- TOP 8.28.: Schreiben Hidalgo vom 17.01.22: Antwort
+- TOP 8.29.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.30.: Beschluss des Bildungsausschusses und des Sportausschusses des Stadtrates in der gemeinsamen Sitzung vom 01.12.21: (U) Mehrjahresinvestitionsprogramm (MIP) 2021 - 2025 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.31.: Beschluss der Vollversammlung des Stadtrates vom 15.12.21: (U) Tram Westtangente von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz Fortschreibung Trassierungsbeschluss - Verbesserungen gemäß Radentscheid München - UVR - Ergänzung eines Treppenaufgangs zu Bahnsteig B (stadteinwärts) - Vorhaltemaßnahme breitere Tram-Fahrzeuge bei der Tram Westtangente
+- TOP 8.32.: Beschluss der Vollversammlung vom 19.01.22: (U) Grundsatzbeschluss II Klimaneutrales München 2035 und klimaneutrale Stadtverwaltung 2030: Von der Vision zur Aktion
+- TOP 8.33.: Beschluss der Vollversammlung vom 19.01.22: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 8.34.: Beschluss der Vollversammlung vom 19.01.22: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 8.35.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.36.: Beschluss der Vollversammlung vom 19.01.22: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 8.37.: Beschluss des Bildungsausschusses des Stadtrates vom 01.12.21: (U) Reinigungsstandards in Münchner Schulen und städt. Kindertageseinrichtungen temporäre Anpassung aufgrund der Corona Pandemie sowie zusätzliche Schwimmhallenreinigung im Rahmen der Schwimmoffensive für das Haushaltsjahr 2022 ff.
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 1.2: Bürgerpost an den BA
