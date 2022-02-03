@@ -1,0 +1,72 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-02-03T14:00:00+01:00
+- Ende: 2022-02-03T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22215
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22215
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 03.02.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00438392.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 03.02.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00438392.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 03.02.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00438392.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 18.11.2021 (SI-RAT/007/2021) - einstimmig beschlossen
+- TOP 3: Aktuelle Informationen zur Corona-Pandemie - zur Kenntnis genommen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Anweisungsverfügung der Bezirksregierung Düsseldorf - schriftlich beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Frau aus Serbien im Transitbereich des Flughafen Düsseldorf - schriftlich beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Anzeigen der Polizei gegen Teilnehmer an Gegenprotesten am 29.01.2022 - schriftlich beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Untersagung des Aufzugs am 8. Januar 2022 - schriftlich beantwortet
+- TOP 5.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Videoformat "Frag den OB" - schriftlich beantwortet
+- TOP 5.3: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Leere Flüge auch am Düsseldorfer Flughafen? - schriftlich beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion DIE LINKE: Zeitlich begrenzte Arbeitsverträge in städtischer Verwaltung und Tochterfirmen - schriftlich beantwortet
+- TOP 5.5: Anfrage der Ratsfraktion DIE LINKE: Sozialkürzungen in den Haushaltsberatungen 2022 - schriftlich beantwortet
+- TOP 5.6: Anfrage der Ratsfrau Opelt: Silvester-Vorkommnisse in Düsseldorf - wird die Altstadt zum rechtsfreien Raum? - schriftlich beantwortet
+- TOP 5.7: Anfrage des Ratsherrn Lemmer: Frauen und die Düsseldorfer Jonges - schriftlich beantwortet
+- TOP 5.8: Anfrage der Ratsfrau Krüger: Bäume in Düsseldorf - schriftlich beantwortet
+- TOP 5.9: Anfrage des Ratsherrn Lemmer: Omikron-Variante des SARS-CoV-2-Virus und Arbeitsfähigkeit bei Feuerwehr, Rettungsdiensten, SEBD, etc. - schriftlich beantwortet
+- TOP 5.10: Anfrage des Ratsherrn Jörres: Impfung von Flüchtlingen/Asylbewerbern in Düsseldorf - schriftlich beantwortet
+- TOP 5.11: Anfrage des Ratsherrn Born: Leiharbeit und Werkverträge in städtischer Verwaltung und bei Tochterfirmen - schriftlich beantwortet
+- TOP 5.12: Anfrage der Ratsfrau Vorspel: Abschiebungen der Düsseldorfer Ausländerbehörde 2021 - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 10: Beanstandung eines Ratsbeschlusses - mehrheitlich abgelehnt
+- TOP 11: Sondernutzung öffentlicher Straßen für Zwecke der Außengastronomie, hier: Befreiung von Benutzungsgebühren - einstimmig beschlossen
+- TOP 12: Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - vertagt
+- TOP 13: Mitgliedschaft der Landeshauptstadt Düsseldorf im European Healthy Cities Network der WHO (World Health Organisation) - einstimmig beschlossen
+- TOP 14: Zweckverband Verkehrsverbund Rhein Ruhr; Abwicklung der ÖPNV-Pauschale nach § 11 Absatz 2 des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG-NRW) für das Jahr 2022 - mehrheitlich beschlossen
+- TOP 15: Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen Überörtliche Prüfung der Stadt Düsseldorf im Jahr 2021 Informationstechnik - einstimmig beschlossen
+- TOP 16: P+R-Parkhaus am Südpark - mehrheitlich beschlossen
+- TOP 17: Mitgliederversammlung des Städtetages NRW vom 01. bis 02. Juni 2022 in Essen -Bestellung stimmberechtigter Delegierter- - mehrheitlich beschlossen
+- TOP 18: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 19: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 20: Bebauungsplan - Entwurf Nr. 03/011 - Kaistraße 1 - mehrheitlich beschlossen
+- TOP 21: Satzung über ein besonderes Vorkaufsrecht gemäß §25 Baugesetzbuch (BauGB) - einstimmig beschlossen
+- TOP 22: Anträge
+- TOP 22.1: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Räume für Kultur, Bildung und Integration übergreifend planen - mehrheitlich beschlossen
+- TOP 22.2: Antrag der FDP-Ratsfraktion: Keine Sondernutzungsgebühr für Außenterrassen 2022
+- TOP 22.3: Antrag der SPD-Ratsfraktion: 100% städtisch - 100% bezahlbar - mehrheitlich abgelehnt
+- TOP 22.3.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/022/2022 - mehrheitlich abgelehnt
+- TOP 22.4: Antrag der SPD-Ratsfraktion: Keine Gebührenerhebung von Außengastronomie für das Jahr 2022 - mehrheitlich abgelehnt
+- TOP 22.5: Antrag der AfD-Ratsfraktion: Anschaffung von Wolldecken für Grundschulen in Düsseldorf im zweiten Corona-Winter 2022 - mehrheitlich abgelehnt
+- TOP 22.6: Antrag der SPD-Ratsfraktion: Unterstützung der Initiative Demokratische Schule e. V. - mehrheitlich beschlossen
+- TOP 22.7: Antrag der FDP-Ratsfraktion: Zusammenarbeit und Austausch mit Bund, Land und anderen Städten zum Thema Gewaltbereitschaft gegenüber Einsatzkräften - verwiesen
+- TOP 22.8: Antrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN und SPD: Digitale Sitzungen kommunalpolitischer Gremien - mehrheitlich beschlossen
+- TOP 22.8.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/020/2022
+- TOP 22.9: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Wärmewende bei städtischen Gebäuden - mehrheitlich beschlossen
+- TOP 22.9.1: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage RAT/039/2022 - mehrheitlich abgelehnt
+- TOP 22.10: Antrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD, FDP, DIE LINKE und Die PARTEI-Klima-Fraktion: Für Solidarität und Demokratie - Unterstützung des Düsseldorfer Appells - mehrheitlich beschlossen
+- TOP 22.11: Antrag der Ratsfraktion DIE LINKE: Beratung ohne Termin und ein kostenloses Girokonto – Stadtsparkasse an öffentlichen Auftrag erinnern - mehrheitlich abgelehnt
+- TOP 22.12: Antrag der Ratsfraktion DIE LINKE: Energiesperren verhindern, Grundversorgung sichern - mehrheitlich abgelehnt
+- TOP 23: Beirat der Sana Kliniken GmbH - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 24: Aufsichtsrat der Flughafen Düsseldorf GmbH - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 25: Aufsichtsrat der Sana Kliniken Düsseldorf GmbH - Ersatzwahl - - einstimmig beschlossen
