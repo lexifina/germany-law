@@ -77,7 +77,7 @@
 
 - [§ 32 Behandlung der nach der Äquivalenzmethode bewerteten Beteiligungen bei Anwendung des Verfahrens nach § 10a Absatz 5 des Kreditwesengesetzes](0032.md)
 
-## Teil 4 Nähere Bestimmungen zum antizyklischen Kapitalpuffer und zur kombinierten Kapitalpuffer-Anforderung
+## Teil 4 Nähere Bestimmungen zu den Kapitalpuffern
 
 
 ### Kapitel 1 Antizyklischer Kapitalpuffer
@@ -87,7 +87,11 @@
 - [§ 35 Zusätzliche Veröffentlichungen für Quoten in Drittstaaten](0035.md)
 - [§ 36 Maßgebliche Risikopositionen](0036.md)
 
-### Kapitel 2 Kombinierte Kapitalpuffer-Anforderung
+### Kapitel 2 Kapitalpuffer für systemische Risiken
+
+- [§ 36a Berechnung des Kapitalpuffers für systemische Risiken](0036a.md)
+
+### Kapitel 3 Kombinierte Kapitalpufferanforderung
 
 - [§ 37 Maximal ausschüttungsfähiger Betrag](0037.md)
 
