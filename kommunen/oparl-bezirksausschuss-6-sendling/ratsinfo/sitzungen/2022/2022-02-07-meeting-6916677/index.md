@@ -1,0 +1,106 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-02-07T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6916677
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6916677
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Errichtung von Parkflächen zu Gunsten von öffentlichen E-Ladesäulen in der Schöttlstraße und Kleinstraße Schriftverkehr
+- TOP 2.2.: Ambulanter Straßenhandel am Harras
+- TOP 2.3.: Antwort des Baureferates zur Flößergasse und Bitte um weiteres Druckmachen
+- TOP 2.4.: Schanigärten in der Stadt München
+- TOP 2.5.: Parkplatzsituation im Bereich Brudermühlviertel
+- TOP 2.6.: Brunnen am Neuhofener Berg
+- TOP 2.7.: Fußgängerübergang Bleyerstraße - Dietramszellerplatz
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) + (U) Bauvorhaben an der Lindwurmstraße 122 Empfehlung Nr. 20-26 / E 00414 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Flößergasse 9-11b.
+- TOP 4.2.2.: Bauvorhaben Schäftlarnstraße 10
+- TOP 4.2.3.: Bauvorhaben Flößergasse 8 Fristverlängerung abgelehnt
+- TOP 4.2.4.: Baumfällung Schmied-Kochel-Straße 13
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Bebauungsplanverfahren Am Isarkanal/ Tierparkstraße/ Schäftlarnstraße
+- TOP 4.3.3.: Information hinsichtlich Modernisierungsmaßnahmen Kyreinstraße 15
+- TOP 4.3.4.: Klimaneutrales München 2035 und klimaneutrale Stadtverwaltung 2030: Von der Vision zur Aktion
+- TOP 4.3.5.: Bauvorhaben Kochelseestraße Antwort
+- TOP 4.3.6.: Eisenbahnüberführung in der Lindwurmstraße
+- TOP 4.3.7.: Wertstoffcontainer Wackersberger Straße Antwort
+- TOP 4.3.8.: Bauvorhaben Pfeuferstraße 37 Bauvorhaben unzulässig
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Bauvorhaben Lindwurmstraße 122 Schreiben des Investors
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Radwegsanierung in der Lindwurmstraße Empfehlung Nr. 20-26 / E 00423 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 12.10.2021
+- TOP 5.1.2.: (E) Straßenbeleuchtung in der Dietramszeller Straße Empfehlung Nr. 20-26 / E 00411 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 12.10.2021
+- TOP 5.1.3.: (E) Verbesserung des Sichtfeldes an der Einmündung Urban-/ Schäftlarnstraße Empfehlung Nr. 20-26 / E 00419 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 12.10.2021
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Corona-Teststelle am Harras
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Ampelschaltung in der Kreuzung Impler-/ Oberländerstraße Antwort
+- TOP 5.3.2.: AKIM-Protokoll Ortstermin am Kidlerplatz
+- TOP 5.3.3.: Neubewertung der Regelung Rad-KFZ-Verkehr Sortieranlage
+- TOP 5.3.4.: Tempo-30-Zone in der Lindenschmitstraße
+- TOP 5.3.5.: Lizenzgebiet Brudermühlviertel Überarbeitung
+- TOP 5.3.6.: Kurzparkzone in der Kidlerstraße Antwort
+- TOP 5.3.7.: Vorschläge zum Thema Verkehr im ehemaligen Philip-Morris-Gelände Antwort
+- TOP 5.3.8.: Störung des Fußverkehrs durch die Freischankfläche am Harras Antwort
+- TOP 5.3.9.: Baustelleneinrichtung und Zufahrt zur Grünanlage und Park an der Plinganserstraße
+- TOP 5.3.10.: Parkausweise im Parklizenzgebiet Thalkirchen Antwort
+- TOP 5.3.11.: Lärmminderner Straßenbelag Antwort
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Bauarbeiten U3 und U6: Attraktive Alternativen anbieten! [Die Grünen]
+- TOP 5.4.2.: Anfrage Freiwilligen-Liste für Sendling und München auf Grund der Corona-Pandemie
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Sauber! – Ideen-Werkstatt für ein müllfreieres München" am 24. Februar ab 17 Uhr
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Klimaschutz konkret - „Klima-Ausschuss“ in jedem Bezirksausschuss Empfehlung Nr. 20-26 / E 00228 der Bürgerversammlung des Stadtbezirks 20 – Hadern am 22.07.2021
+- TOP 6.2.2.: Analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München
+- TOP 6.2.3.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Spielen in der Stadt Kurzbericht POP-UPS Kunst-Spiele
+- TOP 6.4.: Anträge
+- TOP 6.4.1.: Antrag für eine Kinder- und Jugendversammlung in Sendling [Die Grünen]
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Anfrage Mobiliar aus dem Haus für Kinder
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Freischankfläche am Kidlerplatz gegenüber Hausnummer 8
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Moments
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Sendling blüht auf [Die Grünen]
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Faces for the Names in Ihrem Stadtbezirk
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 5.1.4.: (E) Sicherheit und Barrierefreiheit an Kreuzungen und Feuerwehrzufahrten im Sendlinger Unterfeld
+- TOP 8.1.2.: (E) Feuerwerksverbot auf dem Flaucher
+- TOP 6.1.1.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür – PLAN H aus München für München von April – November 2022 9.499,00€; Az. 0262.0-6-0362
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling Orgelmusik bei Kerzenschein vom 05.03. - 09.04.2022 1.160,00 €; Az. 0262.0-6-0361
