@@ -1,0 +1,147 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2022-02-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6814033
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6814033
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Ampelschaltung Kreuzung Chiemgaustraße/Tegernseer Landstraße für Fußgänger*innen verbessern; Bürgeranliegen (FF UA MuV + Beauftragte für Inklusion)
+- TOP 2.1.2.2.: Sanierungsgebiet Tegernseer Landstraße/Chiemgaustraße, Giesinger Grünspitz - Schreiben einer Bürgerin an das Referat für Stadtplanung und Bauordnung - (FF UA Umwelt)
+- TOP 2.1.2.3.: Kreisel am Auguste-Kent-Platz; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.4.: Neues vom General-Kalb-Weg; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.5.: Rodungen an der S-Bahn-Unterführung Fasangarten; Bürgeranliegen (FF UA Umwelt)
+- TOP 2.1.2.6.: Täglich blockierte Einbahnstraße Alpenstraße durch Lieferverkehr für FLINK - was tun? Bürgeranliegen (FF UA lokale Arbeit und Wirtschaft) (vertagt aus Sitzung 01-2022)
+- TOP 2.1.2.7.: Nachfrage - Verherende Verkehrssituation FF - Verkehrssituation Traunsteinerstraße / Bezirksausschusssitzung; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.8.: Urban Gardening in der Zugspitzstraße/ Kooperative Kleinstgarten, Bürgeranliegen (FF UA Umwelt)
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Baumschutz (Einzelfälle und Bauvorhaben)
+- TOP 3.1.1.: Tegernseer Landstr. 189
+- TOP 3.1.2.: Bantingstr. 2
+- TOP 3.1.3.: Cincinnatistr. 31
+- TOP 3.1.4.: Wikingerstraße 1-29
+- TOP 3.1.5.: Bantingstr.
+- TOP 3.1.6.: Perlacher Str. 122 - 124 b
+- TOP 4.: Anträge/Anfragen
+- TOP 4.1.: Kreuz auf der Aussegnungshalle des Friedhofs am Perlacher Forst wieder errichten, Antrag CSU-Fraktion (FF UA Kultur)
+- TOP 4.2.: Öffentliche Sammelstelle für Christbäume Fasangarten, Antrag CSU-Fraktion (FF UA Umwelt)
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Dankschreiben einer Antragstellerin für die Unterstützung des Kulturspaziergangs (FF UA Kultur)
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.3.1.: Anhörung BA 17, Empfehlung der Bürgerversammlung vom 26.10.2021, Tiefgaragenausfahrt aus dem Planungsgebiet Münchberger Straße
+- TOP 6.1.3.2.: Weißenseestr. 45, Schulbauoffensive - Weissensee Campus München, Aufstellen eines Pavillons / Interimsgebäudes für Kita- und Schulnutzung (Standzeit unter 10 Jahren) / Umbau Pavillon Josephsburgstr. für Interim Kita Traunsteiner Str. / Grundschule Weißenseestr. (Traunsteiner Str. 2-8 / Weißenseestr. 45)
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk Obergiesing-Fasangarten in der Zeit vom 03.01.2022 bis 23.01.2022
+- TOP 6.1.4.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse hier: Arzberger Str. 5
+- TOP 6.1.4.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 6.1.4.4.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 6.1.4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.6.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 6.1.4.7.: Planungsgebiet Münchberger Straße - Zwischennachricht -
+- TOP 6.1.5: Anträge
+- TOP 6.1.6: Sonstiges
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Abzug der Sachbearbeitung des Baureferates für die Schulen, Kitas, Kindergärten im 17. Stadtbezirk; Brief des Asam-Gymnasiums München
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Anhörung gemäß § 13 der Bezirksausschusssatzung zum Beschlussentwurf "Radschnellverbindungen in München und Umland"
+- TOP 6.3.3.2.: Anhörung BA 17, Empfehlung der Bürgerversammlung vom 26.10.2021, Tiefgaragenausfahrt aus dem Planungsgebiet Münchberger Straße
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Am Bergsteig Hs.Nr. 10 / 10a ggü Einrichtung absolutes Haltverbot am Verbindungsweg zum Kronepark
+- TOP 6.3.4.2.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Watzmannstraße 16
+- TOP 6.3.4.3.: Änderung des zuständigen BA-Ansprechpartners bei der MVG
+- TOP 6.3.4.4.: Seitenverkehrte Planung am General-Kalb-Weg?
+- TOP 6.3.4.5.: Radwegführung Tegernseer Platz: Ortstermin des Planungsreferates mit dem BA 17 und Bürgern - Zwischennachricht -
+- TOP 6.3.4.6.: Verkehrszeichen, Poller o.ä. im öffentlichen Raum behindertengerecht gestalten Antrag Nr. 20-26 / B 03302 des BA 17 - Rückmeldungen des Bezirksausschusses 23 Allach-Untermenzing und 16 Ramersdorf-Perlach -
+- TOP 6.3.4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.4.8.: (U) Parkraummanagement in München - Umsetzung Sektor VI, Teil 1
+- TOP 6.3.4.9.: Antrag Vermeidung von Schleichverkehr Feldmüllersiedlung - Zwischenmitteilung -
+- TOP 6.3.4.10.: Stadelheimer Straße / Schwarzenbergstraße; absolutes Haltverbot
+- TOP 6.3.4.11.: Überplanung des Querungsbereichs Übergang Aktivitätsband Agfapark zum Weißenseepark
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: (E) Vermüllung rund um den Friedhof / Red Dragon / Orthodoxe Kirche Empfehlung Nr. 20-26 / E 00438 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 26.10.2021
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Aufstellung B-Plan Nr. 164A/2019 - mikroklimatisches Gutachten Rückfrage der Gemeinde Unterhaching
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Baumschutz / Baumschwund / Ausgleichszahlungen
+- TOP 6.4.4.2.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen - Mitteilung durch das Baureferat -
+- TOP 6.4.4.3.: (U) Grundsatzbeschluss II Klimaneutrales München 2035 und klimaneutrale Stadtverwaltung 2030: Von der Vision zur Aktion
+- TOP 6.4.4.4.: Fällen von 4 Bäumen für einen Fahrradweg
+- TOP 6.4.4.5.: Vermehrte Aufstellung von Müllbehältern an der Ecke St.-Martin-Straße/Herzogstandstraße und St.-Martin-Straße/Raintaler Straße
+- TOP 6.4.4.6.: Vollzug des Bundes-Immisisonsschutzgesetzes (BImSchG) und der Geräte-und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV) Stadtwerke München GmbH
+- TOP 6.4.4.7.: Vermüllung um den Auguste-Kent-Platz -Antwortschreiben des Baureferates auf Bürgeranliegen –
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032, hier: Abfrage mit der Bitte um Rückmeldung bis Anfang Mai 2022
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Schreiben des BA 25 und Antwort des Direktoriums
+- TOP 7.3.2.: Ratsinformationssystem (RIS) – Papierlose Bezirksausschussarbeit Information zum neuen „RIS-Internet“ Einführung „RIS-Internet/ -Extranet-Basis“ für Bezirksausschüsse im Pilotbetrieb Einführung „RIS-Internet/ -Extranet persönlich“ für Bezirksausschussmitglieder Information zur Kooperationsplattform „Alfresco“
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.3.3.3.: Schwarzenbacher Str. 10-22 zwischen Arzberger Straße und Waldmünchener Straße; Fahrbahnsanierung
+- TOP 6.1.3.3.: Ostfriedhof – Ersatzneubau Krematorium mit Neubau des Trauerpastoralen Zentrums Planung und Errichtung eines Vorplatzes im Eingangsbereich zur St.-Martin-Straße Produkt 33553100 Betrieb und Unterhalt von Friedhöfen Änderung des MIP 2021 - 2025 Beschluss über die Finanzierung für die Jahre 2022 und 2023 Sitzungsvorlage Nr. 20-26 / V 05403 (Nachtrag)
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
