@@ -1,0 +1,66 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-02-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6795988
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6795988
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort - entfällt - (Weitere Hinweise siehe: Dokumente -> Einladung 08.02.2022 (PDF))
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 11.01.2022
+- TOP 1.5.: Veröffentlichung des vorläufigen Protokolls
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: (A) Berechnung Mitgliederzahlen Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Rhythmik vom 03.02.2022 – 31.01.2023 1.350,00€; 0262.0-19-0396
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Umstellung Wertstoffcontainer Schaffhauser Straße / Winterthurer Straße BV-Empfehlung Nr. 20-26 / E 00348 vom 14.10.2021
+- TOP 4.4.: (E) + (U) Glascontainer Ecke Wolfratshauser Straße / Strähuberstraße BV-Empfehlung Nr. 20-26 / E 00342 vom 14.10.2021
+- TOP 4.5.: (A) Satzungsänderung: Klimaschutz konkret - „Klima-Ausschuss“ in jedem Bezirksausschuss; BV-Empfehlung Nr. 20-26 / E 00228 des Stadtbezirks 20 - Hadern am 22.07.2021
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Absolutes Haltverbot Hunkelestraße
+- TOP 5.3.: (E) Regenwasserablauf Tiefgarage Forstenrieder Allee 23 BV-Empfehlung Nr. 20-26 / E 00318 vom 14.10.2021
+- TOP 5.4.: (E) Gehwegparken in Alt-Solln BV-Empfehlung Nr. 20-26 / E 00344 vom 14.10.2021
+- TOP 5.5.: (A) Beschlussentwurf: Radschnellverbindungen in München und Umland Sitzungsvorlage Nr. 20-26 / V 04418
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Aufnahme in die Denkmalliste der Landeshauptstadt München: Siemensallee 61
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Situation des Schwimmbads an der Grundschule Sambergerstraße
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (E) Lärmbelästigung Kulturzentrum Helfenrieder Straße 12 BV-Empfehlung Nr. 20-26 / E 00338 vom 14.10.2021
+- TOP 9: Verschiedenes
+- TOP 6.4.: - NACHTRAG - (Antrag) Situation des Gebäudes Kistlerhofstraße 70 und der Nachbargebäude
+- TOP 8.3.: - NACHTRAG - (A) Flächen für Veranstaltungen im öffentlichen Raum - Frühjahr und Sommer 2022
+- TOP 6.2.1: Breitschwertstraße 18 (T)
+- TOP 6.2.2: Morgensternstraße 9 (VB)
+- TOP 6.2.3: Alfred-Schmidt-Straße 24 (T)
+- TOP 6.2.4: Herterichstraße 173
+- TOP 6.2.5: Wolfratshauser Straße Fl.Nr. 190/ (VB)
+- TOP 6.2.6: Konrad-Witz-Straße 7
+- TOP 6.2.7: Scherzerstraße 1
+- TOP 6.2.8: - abgesetzt -
+- TOP 6.2.9: Friedastraße 9
+- TOP 6.2.10: Hofbrunnstraße 75
+- TOP 6.2.11: Murnauer Straße 262 (VB)
+- TOP 6.2.12: Flötnerweg 12 (T)
