@@ -1,0 +1,141 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-02-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6893532
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6893532
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Parksituation an der Kreuzung Georgen-/Winzererstraße
+- TOP 6.2.: Tischtennisplatten am Karl-Stützel-Platz
+- TOP 6.3.: Straßenbaustelle Schleißheimer Straße
+- TOP 6.4.: Parksituation Isabellastraße
+- TOP 6.5.: Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden – Leerstand Mehrfamilienhaus Schraudolphstraße 30
+- TOP 6.6.: Anfrage Neubauvorhaben Türkenstraße 96
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Nachnutzung des Gebäudes der Bayern LB
+- TOP 1.2.2.: Aufstellung eines sektoralen Bebauungsplanes für das Grundstück der Bayerischen Landesbank
+- TOP 1.2.3.: Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden – Leerstand Mehrfamilienhaus Theresienstr. 150
+- TOP 1.2.4.: Antrag auf Auskunft zu den Versiegelungen im Baumgraben in der Nymphenburger Straße 2 beim Biergarten der Löwenbräu Gaststätte
+- TOP 1.2.5.: Nachnutzung Gebäude Bayerische Landesbank
+- TOP 1.2.6.: Keine fristgerechte Bereitstellung der Unterlagen zu Bauvorhaben durch die LBK – Listen
+- TOP 1.2.7.: Fragen zum Bauvorhaben Schwindstraße 1a – LBK-Liste vom 25.10.2021-31.10.2021 – Aktenzeichen 1.7-20231-2021-22
+- TOP 1.2.8.: Fragen zum Bauvorhaben Luisenstr. 22 Paul-Heyse-Villa – LBK-Liste vom 29.11.2021-05.12.2021-Aktenzeichen 1.232-21594-2021-22 Tektur
+- TOP 1.2.9.: Fragen zum Bauvorhaben Heßstraße 49 – LBK-Liste vom 06.12.2021 - 12.12.2021-Aktenzeichen 1.7-14921-2021-22
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 51, KW 1-3 von 2022
+- TOP 2.1.2.: WEB-Listen der LBK: KW 50-52 und KW1-KW 2 von 2022
+- TOP 2.1.3.: Schellingstr. 110-116, TEKTUR, Abbruch und Neuerrichtung DG, Errichtung 3er Außenaufzü ge und eines innenliegenden Aufzugs, TG und neue Hofbebauung
+- TOP 2.1.4.: Dachauer Straße 13, Sanierung von Eingangshalle, Rezeption und Gastronomie, Nachweis der PKW-Stellplätze
+- TOP 2.1.5.: Königinstr. 55, VORBESCHEID, Aufstockung/ DG Ausbau eines Wohnhauses mit Anbau Außenaufzug
+- TOP 2.1.6.: Heßstr.64-76, TEKTUR, Neubau einer Wohnanlage mit Gewerbeflächen und TG
+- TOP 2.1.7.: Augustenstr. 43, TEKTUR, Umbau und Sanierung eines Rückgebäudes und eines rückwärtigen Seitengebäudes
+- TOP 2.2: Entscheidungen
+- TOP 2.2.1.: Anhörung Klimaausschüsse
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Antrag auf Baumfällung Josephsplatz
+- TOP 3.2.2.: Antrag auf Baumfällung Heßstraße 49
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: (U) Grundsatzbeschluss II Klimaneutrales München 2035 und klimaneutrale Stadtverwaltung 2030: Von der Vision zur Aktion
+- TOP 5.2.: Vorbescheid Hirtenstr. 2, Az. 1.7-2021-6243-22
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Fahrradabstellanlage Bürger*innenanliegen vom 07.01.2022
+- TOP 1.1.2.: Falschparker in der Heßstraße Bürger*innenanliegen vom 21.01.2022
+- TOP 1.1.3.: Absolutes Halteverbot Schwindstraße - Maxvorstadt Bürger*innenanliegen vom 24.01.2022
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag zur Nutzbarmachung von Fahrradstellplätzen
+- TOP 1.2.2.: Umwandlung eines KFZ-Parkplatzes in eine Fahrradabstellfläche unter der westlichen TU-Brücke in der Theresienstraße
+- TOP 1.2.3.: Umwandlung von E-Roller-Stellplätzen in Ladeplätze für Elektro- und Hybridfahrzeuge
+- TOP 1.2.4.: Schanigärten: Rückkehr zur Verlässlichkeit
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Parklizenzgebiete: Vorschläge des UA MöR BA3
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: 2.2.1 Corona Teststation Josephsplatz
+- TOP 2.2.2.: Anfrage wegen Zustimmung / Coronatestcontainer Wittelsbacherplatz 1
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Steinheilstr. 10, Gaststätte "Frida"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.2.: Zieblandstr. 41, Gaststätte "Alter Ofen"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.3.: Theresienstr. 146, Gaststätte "De Afric"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.4.: Theresienstr. 146, Gaststätte "De Afric"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.5.: Theresienstr. 114, Gaststätte "Joon"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.6.: Tengstr. 6, Gaststätte "Bodega Dali"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.7.: Steinheilstr. 20, Gaststätte "Cafe Jasmin"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.8.: Steinheilstr. 10, Gaststätte "Frida"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.9.: Schwindstr. 20, Gaststätte "Obacht"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.10.: Schellingstr. 130, Gaststätte "Viethaus"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.11.: Kreittmayrstr. 26, Gaststätte "Baal"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.12.: Isabellastr. 4, Gaststätte "Salon Irkutsk"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.13.: Heßstr. 90, erlfr. Gaststätte "Taste my Burger"; Antrag Parkplatz-Freischankfläche (Schani garten)
+- TOP 2.3.14.: Georgenstr. 119, Gaststätte "Schorsch Bar"; Antrag Parkplatz-Freischankfläche (Schanigar ten)
+- TOP 2.3.15.: Georgenstr. 105, Gaststätte "Holzkranich"; Antrag Parkplatz-Freischankfläche (Schanigar ten)
+- TOP 2.3.16.: Freischankflächenantrag Königinstr.37/Seite Kaulbachstr.
+- TOP 2.3.17.: Steinheilstr. 16, Gaststätte "Steinheil 16"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.18.: Heßstr. 51, Gaststätte "Eclipse"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.19.: Theresienstr. 134, Gaststätte "tio"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Städtische Stellungnahme zu Tram Wendeschleife Lothstraße
+- TOP 3.2.: Parksituation an der Kreuzung Georgen-/Winzererstraße/ Antwort an BA 4
+- TOP 3.3.: SWM Baumaßnahme Fernwärme-Projekt Karlstraße, hier Verlängerung der Bauzeit
+- TOP 3.4.: Verkehrsrechtliche AO ART Pläne Phase 500
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Offene Einrichtung für Jugendliche in der östlichen Maxvorstadt realisieren
+- TOP 1.2.2.: Übersicht Sportstättenbelegung
+- TOP 1.2.3.: Temporäre Verschattung am Spielplatz Josephsplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Blutenburgstraße 3 Fitte Kinder in einer gesunden Lernumgebung im Mai/Juni 2022 3.000,00 Euro, Az.: 0262.0-3-0382
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: BA-Information des Sozialreferates zu Änderungen der Vorgaben des Vergabeermächtigungsbeschlusses von 2018 in Bezug auf die Bereitstellung/Betriebsführung von Beherbergungsbetrieben zur Unterbringung wohnungsloser Haushalte
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Beauftragte*r gegen Rechtsextremismus
+- TOP 1.2.: Wahl eine*s Beisitzer*in für den Vorstand des BA 3
+- TOP 1.3.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 1.4.: Schreiben BA 25 zu Hybridsitzungen Antwortschreiben des Direktoriums an den BA 25
+- TOP 1.5.: RIS-W: Ratsinformationssystem – Papierlose Bezirksausschussarbeit
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.2.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. Gedenkveranstaltung "Faces for the Names Widerstand in der Maxvorstadt" vom 10. - 13.09.2022 3.000,00 Euro, Az.: 0262.0-3-0385
+- TOP 3.: Aktuelle Sachstandsberichte
