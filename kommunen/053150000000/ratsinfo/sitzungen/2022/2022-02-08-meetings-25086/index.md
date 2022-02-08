@@ -1,0 +1,65 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-02-08T15:00:00+01:00
+- Ende: 2022-02-08T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25086
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25086
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 1.1: Umsetzungsstand Interkulturelles Maßnahmenprogramm - Maßnahmen des Integrationsbudgets – Stand Dezember 2021 - Kenntnis genommen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Anfrage zum Bericht Nationalitäten und Sprachen in Köln
+- TOP -: Beantwortung einer Anfrage betreffend „Nationalitäten und Sprachen in Köln“ (AN/2054/2021) - Kenntnis genommen
+- TOP 3.2: Rückfrage zur Beantwortung der Anfrage zur Rückgabe der sogenannten Benin-Bronzen
+- TOP -: Beatwortung der Anfrage zur Rückgabe der sogenannten Benin-Bronzen - Kenntnis genommen
+- TOP 3.3: Anfrage zur Rückgabe der sogenannten Benin-Bronzen
+- TOP -: Beantwortung der Anfrage zur Rückgabe der sogenannten Benin-Bronzen - Kenntnis genommen
+- TOP 3.4: Anfrage zur Abfallentsorgung an der Homarstraße - zurückgestellt
+- TOP 3.5: Anfrage: Einführung vegetarischer Tage in den Kantinen/Verpflegungseinrichtungen der Stadt Köln - zurückgestellt
+- TOP 3.6: Aufholen nach Corona – Nachholprogramme für pandemiebedingte Lernrückstände
+- TOP -: Beantwortung einer Anfrage an den Integrationsrat - Aufholen nach Corona - Kenntnis genommen
+- TOP 3.7: Anfrage zur 2G Regelung in Köln - zurückgestellt
+- TOP 3.8: Anfrage zum Internetauftritt der Stadtverwaltung / Übersetzung in mehrere Sprachen
+- TOP -: Beantwortung der Anfrage "Internetautritt der Stadtverwaltung Übersetzung in mehrere Sprachen" - Kenntnis genommen
+- TOP 3.9: Abschiebung einer lernbehinderten, schwangeren 16-jährigen nach Albanien
+- TOP -: Beantwortung einer Anfrage der SPD Fraktion zur Abschiebung einer lernbehinderten, schwangeren 16-jährigen nach Albanien - Kenntnis genommen
+- TOP 3.10: Anfrage zur Reform des Flüchtlingsaufnahmegesetzes (FlüAG)
+- TOP -: Beantwortung der Anfrage betreffend "Reform des Flüchtlingsaufnahmegesetzes (FlüAG) - Kenntnis genommen
+- TOP 3.11: Rückfragen zur Beantwortung der Anfrage "Partizipation migrantischer Einrichtungen an den Mitteln, die im Jugendhilfeausschuss vergeben werden" - zurückgestellt
+- TOP 3.12: Beantwortung zur Nachfrage des Gesundheitsamtes zum Gesundheitswegweiser für Migrant*innen zur Vorlage 3453/2021
+- TOP 4: Aktuelle Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 4.1: Nachfrage zur Beantwortung einer ‚Anfrage zum Bericht Nationalitäten und Sprachen in Köln‘ - zurückgestellt
+- TOP 4.2: Nachfrage zur Beantwortung der Anfrage "Sachstand herkunftssprachliche bilinguale Kitagruppen" - zurückgestellt
+- TOP 4.3: Anfrage zum Beitritt der Stadt Köln zur „Europäischen Charta für den Schutz der Menschenrechte in der Stadt
+- TOP -: Beantwortung der Anfrage zum Beitritt der Stadt Köln zur „Europäischen Charta für den Schutz der Menschenrechte in der Stadt - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: TOP 5.1 Mündlicher Bericht über den aktuellen Sachstand zur SARS-CoV-2-Pandemie und die Auswirkungen auf vulnerable Personengruppen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Zweite digitale Konferenz Interkulturelles Köln am 05.11.2021 – Dokumentation - Kenntnis genommen
+- TOP 5.4: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg 1-3, 51143 Köln-Porz - zusätzliche Maßnahmen zum Klimaschutz - Kenntnis genommen
+- TOP 5.5: 3. Quartalsbericht 2021 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.6: Neubau von vier Mehrfamilienhäusern im öffentlich geförderten Wohnungsbau auf den städtischen Grundstücken Pater-Prinz-Weg 13-16, 50997 Köln-Rondorf - Haushaltsrechtliche Unterrichtung - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Berücksichtigung der Kölner Migrationsgeschichte bei der Neukonzeption des Kölner Stadtmuseums - geändert beschlossen
+- TOP 6.2: Antrag zum Gastarbeiter*innen Denkmal - Ergänzung des Beschlusses der Bezirksvertretung Innenstadt - endgültig zurückgezogen
+- TOP 6.2.1: Ergänzungsantrag zum Antrag Gastarbeiter*innen Denkmal (AN/0228/2022) - ungeändert beschlossen
+- TOP 6.3: Antrag auf schnellstmögliche Übersetzung der Webseite des Ausländeramtes Köln - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - ungeändert beschlossen
+- TOP 8.2: Verteilung der Mittel zur Förderung von anerkannten Interkulturellen Zentren für das Jahr 2022 - ungeändert beschlossen
+- TOP 8.3: Verteilung der Mittel zur Förderung rassismuskritischer Projekte - 1. Schritt 2022 - - ungeändert beschlossen
+- TOP 8.4: Teilnahme an der Landesinitiative „Durchstarten in Ausbildung und Arbeit“ - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
