@@ -1,0 +1,71 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-02-08T16:02:00+01:00
+- Ende: 2022-02-08T17:33:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20239
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20239
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 31.01.22 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00286162.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00287598.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2022 KiJu - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2022 - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 2.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2022 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 2.4: Wirtschaftsplan 2022 und mittelfristige Ergebnis- und Finanzplanung der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 2.5: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Kostensteigerungen bei städtischen Bauvorhaben - Entgegennahme ohne Beschluss
+- TOP 3.2: Zustimmung des von der Bezirksregierung Münster beschiedenen Ausgleichfonds gem. Pflegeberufe-Ausbildungsfinanzierungsverordnung für die Zeit vom 01.01.2022 bis 31.12.2022 - ungeändert beschlossen
+- TOP 3.3: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2022 bis 31.12.2022 - ungeändert beschlossen
+- TOP 3.4: AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - Dynamisierung der Aufsichtsratspauschale - ungeändert beschlossen
+- TOP 3.5: Fünf-Jahresplan der Historische Stadthalle Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 3.6: Fünf-Jahresplan der Historische Stadthalle Wuppertal Service GmbH - Entgegennahme ohne Beschluss
+- TOP 3.7: Übertragung der Geschäftsanteile an der BEG Entsorgungsgesellschaft mbH Remscheid von der Stadtwerke Velbert GmbH an die BVG Beteiligungsverwaltungsgesellschaft der Stadt Velbert mbH - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Einsatz von Werkstudent*innen bei der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Anmietung der ehemaligen Bundesbahndirektion - zur Beratung und Entscheidung verwiesen
+- TOP 6.1.1: Antrag zur Tagesordnung, Tagesordnungpunkt, Anmietung der ehemaligen Bundesbahndirektion - zur Beratung und Entscheidung verwiesen
+- TOP 6.1.1.1: Bericht zum Antrag der Fraktionen von SPD und FDP vom 04.02.22 zur Anmietung der ehemaligen Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 6.1.2: Anmietung der ehemaligen Bundesbahndirektion – Anfrage der Fraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu VO/0049/22 - Entgegennahme ohne Beschluss
+- TOP 6.1.2.1: Antwort auf die Große Anfrage der Fraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN vom 07.02.22 zur Anmietung der ehemaligen Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 6.2: Verlagerung des Stadtarchivs - zur Vorberatung verwiesen
+- TOP 6.3: Neugestaltung Alte Freiheit, Poststraße, Kerstenplatz - ungeändert beschlossen
+- TOP 6.4: Betreibermodell öffentliche Toiletten - zur Vorberatung verwiesen
+- TOP 6.5: Bewerbung der Stadt Wuppertal für das Förderprogramm "Zukunftsfähige Innenstädte und Zentren - ungeändert beschlossen
+- TOP 6.6: Verwendung des Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 6.7: Festsetzung privatrechtlicher Entgelte für die Mittagsverpflegung in Tageseinrichtungen für Kinder der Stadt Wuppertal (Entgeltordnung) - ungeändert beschlossen
+- TOP 6.8: Prozesse in den Bereichen Personaleinstellung und Recruiting - Entgegennahme ohne Beschluss
+- TOP 6.8.1: Antwort der Verwaltung auf die Große Anfrage der Fraktion Bündnis 90/ Die Grünen (VO/0066/22) - Prozesse in den Bereichen Personaleinstellung und Recruiting - - Entgegennahme ohne Beschluss
+- TOP 6.9: Bericht zur Gesamtsanierung der RS Leimbach VO/0062/22 - Anfrage der CDU-Fraktion vom 28.01.2022 - Entgegennahme ohne Beschluss
+- TOP 6.9.1: Drucksache wurde im Berichtswesen eingestellt; Antwort auf die Große Anfrage der CDU Fraktion vom 28.01.2022 zur Gesamtsanierung der RS Leimbach
+- TOP 6.10: Sachstandsbericht „Ausbildungskapazität ausbauen - Personalmangel entgegenwirken“ - ungeändert beschlossen
+- TOP 6.11: Zuschuss Rosensonntagszug - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Aktualisierung des Haushaltsplan-Entwurfes 2022/2023 - Entgegennahme ohne Beschluss
+- TOP 8.2: Finco-Bericht zum 31.12.2021 - Entgegennahme ohne Beschluss
+- TOP 8.3: Stand der Investitions- und Kassenkredite zum 31.12.2021 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Haushaltsplan 2022/2023 - vertagen
+- TOP 9.2: Beitritt zur Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2022 - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Wirtschaftsplan 2022 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 12.2: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser Wuppertal Jahresabschluss 2021 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
