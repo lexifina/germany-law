@@ -1,0 +1,60 @@
+# 2. (ordentliche, öffentliche) Sitzung des Ausschusses für Straßen, Grünflächen und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-02-09T18:00:00+01:00
+- Ende: 2022-02-09T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=109
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6323
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6323
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Protokollkontrolle (1. Sitzung [Hr. Tyx]) - erledigt
+- TOP 3: Bericht des Bezirksamtes - erledigt
+- TOP 4: Benennung von Vertretern aus dem Ausschuss für - (offen)
+- TOP 4.1: Kleingartenbeirat - vertagt
+- TOP 4.2: Naturschutzbeirat - gewählt
+- TOP 5: Leitziele und generelle Handlungsempfehlungen der Integrierten Sportentwicklungsplanung für den Bezirk Treptow-Köpenick von Berlin (Zeitvorschlag für Befassung: maximal 1 Stunde) <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - erledigt
+- TOP 6: Weitere Überweisungen aus der VIII. Wahlperiode - (offen)
+- TOP 6.1: Errichtung eines Fuß- und Radweges entlang des Königsheideweges <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.2: Verkehrskonzept für den 1. FC Union <span style="color: #888a85" title="Zusatzinfo">(übernommen aus VIII. Wahlperiode)</span> - im Ausschuss abgelehnt
+- TOP 6.3: Umfeldverträglicher Weiterbau des 17. Abschnitts der Autobahn A 100 <span style="color: #888a85" title="Zusatzinfo">(übernommen aus VIII. Wahlperiode)</span> - vertagt
+- TOP 6.4: Querungsmöglichkeit der Schönefelder Chaussee auf Höhe des Maßholderwegs <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.5: Kurzzeitparkplatz Altglienicke <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.6: Kreuzungen in Alt-Treptow sicherer machen <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.7: Sicherheit hat Vorfahrt – Schulwegsicherung an der Schule an der Wuhlheide <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.8: "Essbarer Wildpflanzenpark" für Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - im Ausschuss abgelehnt
+- TOP 6.9: Demonstrationen möglichst aus dem Gartendenkmal Treptower Park / Kriegsgräberstätte "Sowjetisches Ehrenmal" verlagern <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.10: Kreuzung Schulzendorfer Straße / Dahmestraße sicherer gestalten <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.11: Diskriminierungsfreier Dresscode in der Plansche <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.12: Befestigung der Seitenstreifen zum Zwecke des Parkens in der Odernheimer Straße <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.13: Verkehrssicherheit im Rodelbergweg / Neue Krugallee im Ortsteil Baumschulenweg <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.14: Querungshilfe Müggelheimer Damm auf der Höhe von ALDI / NORMA in Müggelheim <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.15: Ausbau Fahrradweg Lindenstraße / Godbersenstraße <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.16: Aus Hochwasserkatastrophen lernen: Entsiegelungskonzept für Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.17: Ausflugsparken im Treptower Park wieder ermöglichen <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.18: Alternativangebote entwickeln und Treptower Park nachts öffnen <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.19: Farbschmierereien im öffentlichen Raum konsequent beseitigen und ahnden <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.20: Verkehrsberuhigung im Bereich Werderstraße / Altglienicke <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.21: Verkehrssicherheit in der Wilhelminenhofstraße (Höhe Rathenauhallen) in Oberschöneweide <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.22: Rechtsabbiegerampel Glienicker Weg / Adlergestell <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.23: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 6.24: Kommunale Nachhaltigkeitsstrategie Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(übernommen aus der VIII. Wahlperiode)</span> - vertagt
+- TOP 7: Überweisungen aus der IX. Wahlperiode - (offen)
+- TOP 7.1: Berlewitzweg als Einbahnstraße ausweisen - vertagt
+- TOP 7.2: Ersatzglascontainer in Müggelheim - vertagt
+- TOP 7.3: Zugang zu einer Badestelle erleichtern - vertagt
+- TOP 7.4: Gemeinschaft nach Covid 19 stärken, Grillen ermöglichen - vertagt
+- TOP 7.5: Adlergestell und Michael-Brückner-Straße zwischen Bürgeramt und S-Bahnhof Johannisthal als Sperrzone für Miet-E-Scooter ausweisen - vertagt
+- TOP 7.6: Erhalt der Bäume und Ausfinanzierung des Titels 52110 im Kapitel 3810 des Bezirkshaushalts - vertagt
+- TOP 7.7: Hundegärten für Treptow-Köpenick - vertagt
+- TOP 7.8: Schulwegsicherheit an der Sonnenblumen-Grundschule in Baumschulenweg erhöhen - vertagt
+- TOP 7.9: Neuer Stellplatz für Glascontainer in der Walchenseestraße - vertagt
+- TOP 7.10: Sanierung des Straßenbereiches Lahmertstraße / Walchenseestraße in Grünau - vertagt
+- TOP 7.11: Fußgängerschutzweg Segelfliegerdamm Ecke Köpenicker Straße - vertagt
+- TOP 7.12: Mitmachaktion "Frühjahrsputz" im Bezirk - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 8: Verschiedenes - gegenstandslos
