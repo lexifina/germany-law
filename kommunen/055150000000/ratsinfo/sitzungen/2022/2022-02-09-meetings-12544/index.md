@@ -1,0 +1,56 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-02-09T16:05:00+01:00
+- Ende: 2022-02-09T19:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12544
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12544
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00501926.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Leezenflow: Evaluation des Prototyps und Planungsbeschluss für weitere Standorte - mehrheitlich geändert beschlossen
+- TOP 3: Übertragung der Namensrechte für Teilflächen städtischer Sportanlagen an Vereine im Rahmen von Überlassungsverträgen - mehrheitlich beschlossen
+- TOP 4: Installation und Betrieb von Videoübertragungssystemen auf kommunalen Sportanlagen - einstimmig beschlossen
+- TOP 5: Arbeitsmarkt- und Integrationsprogramm 2022 des Jobcenters der Stadt Münster - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Musik-Campus - Grundsatzbeschlüsse - von der Tagesordnung abgesetzt
+- TOP 7: MünsterZukunft gemeinsam machen: "Mitgestaltende Öffentlichkeitsbeteiligung stärken - digitale Betetiligungsinstrumente ausbauen - ohne Beschlussfassung geschoben
+- TOP 8: Wirtschaftsplan 2022 der citeq - einstimmig beschlossen
+- TOP 9: Digitale Stadt Münster - Bericht zur Gigabitkoordination für die Stadt Münster - zur Kenntnis genommen
+- TOP 10: Altersteilzeit für Beamtinnen und Beamte in den Jahren 2022 und 2023 - einstimmig beschlossen
+- TOP 11: Satzung zur Änderung der Sendsatzung der Stadt Münster und des Entgelttarifes zu § 7 der Sendsatzung - von der Tagesordnung abgesetzt
+- TOP 12: Neufassung Errichtungsbeschluss für den Neubau eines Feuerwehrhauses der Freiwilligen Feuerwehr im Ortsteil Albachten - von der Tagesordnung abgesetzt
+- TOP 13: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 14: Bericht über die Beteiligungen der Stadt Münster im Jahr 2020 (Beteiligungsbericht 2020) - zur Kenntnis genommen
+- TOP 15: Fahrplanmaßnahmen der Stadtwerke Münster GmbH zum 25.04.2022 - ohne Beschlussfassung geschoben
+- TOP 16: Münstersche Stadt-Landschaft - Siedlung und Freiraum in der Balance: Konzept für eine integrierte Entwicklung von Siedlungs- und Freiflächen und Standorten für erneuerbare Energien - ohne Beschlussfassung geschoben
+- TOP 17: Teilfortschreibung 3. Nahverkehrsplan Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 18: Änderung der Richtlinien zur Förderung der Kinder- und Jugendarbeit - ohne Beschlussfassung geschoben
+- TOP 18.1: Änderung der Richtlinien zur Förderung der Kinder- und Jugendarbeit
+- TOP 19: Trägervergaben für Kindertageseinrichtungen
+- TOP 19.1: Trägervergabe für die Kindertageseinrichtung am Kiesekampweg im Stadtteil Coerde, Bezirk Nord - einstimmig beschlossen
+- TOP 19.2: Trägervergabe für die Kindertageseinrichtung Im Drostebusch (ehemals Paul-Schneider-Haus) im Stadtteil Mauritz-Ost - einstimmig beschlossen
+- TOP 19.3: Trägervergabe für die Kindertageseinrichtung südlich Hiltruper Straße im Stadtteil Angelmodde, Bezirk Südost - einstimmig beschlossen
+- TOP 20: 3. Satzung zur Änderung der Benutzungs- und Gebührensatzung für die Städtische Berufsfachschule für pharmazeutisch-technische Assistenten/innen der Stadt Münster vom 22.05.2015 - einstimmig beschlossen
+- TOP 21: Grundsatzbeschluss zur Erweiterung von 6 Gymnasien zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9 - einstimmig beschlossen
+- TOP 21.1: Grundsatzbeschluss zur Erweiterung von 6 Gymnasien zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9
+- TOP 22: Erweiterung der Bodelschwinghschule zur 3-Zügigkeit mit OGTS und Mensa unter Einbeziehung der Flächen PTA - Baubeschluss - - einstimmig beschlossen
+- TOP 23: Erweiterung zur 3-Zügigkeit der Annette-von-Droste-Hülshoff Grundschule in Angelmodde - einstimmig beschlossen
+- TOP 24: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung - ohne Beschlussfassung geschoben
+- TOP 25: Bauleitplanung
+- TOP 25.1: Stadtbezirk Mitte
+- TOP 25.1.1: Bebauungsplan Nr. 597 - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 25.1.2: 1. Verlängerung der Veränderungssperre Nr. 113 für den Bereich des Bebauungsplans Nr. 575 - einstimmig beschlossen
+- TOP 25.2: Stadtbezirk Südost
+- TOP 25.2.1: Bebauungsplan Nr. 626 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 25.2.1.1: Bebauungsplan Nr. 626 - Beschluss zur Aufstellung
+- TOP 25.3: Stadtbezirk Ost
+- TOP 25.3.1: Bebauungsplan Nr. 619 - Aufstellungsbeschluss - 91. Änd. FNP - Beschluss zur Änderung - ohne Beschlussfassung geschoben
+- TOP 26: Verschiedenes
