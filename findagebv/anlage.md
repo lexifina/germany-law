@@ -535,6 +535,6 @@ Inhaltsübersicht
 | 29.6.3 | Untersagung oder Beschränkung der Ausübung der Tätigkeit von Inhabern und Geschäftsleitern (§ 79 Absatz 1 Satz 2 Nummer 3 WpIG) | nach Zeitaufwand |
 | 29.6.4 | Erlass eines vorübergehenden Veräußerungs- und Zahlungsverbotes (§ 79 Absatz 1 Satz 2 Nummer 4 WpIG) | nach Zeitaufwand |
 | 29.6.5 | Schließung des Wertpapierinstituts für den Verkehr mit der Kundschaft (§ 79 Absatz 1 Satz 2 Nummer 5 WpIG) | nach Zeitaufwand |
-| 29.6.6 | Verbot der Entgegennahme von Zahlungen, die nicht zur Erfüllung von Verbindlichkeiten gegenüber dem Wertpapierinsitut bestimmt sind (§ 79 Absatz 1 Satz 2 Nummer 6 WpIG) | nach Zeitaufwand |
+| 29.6.6 | Verbot der Entgegennahme von Zahlungen, die nicht zur Erfüllung von Verbindlichkeiten gegenüber dem Wertpapierinstitut bestimmt sind (§ 79 Absatz 1 Satz 2 Nummer 6 WpIG) | nach Zeitaufwand |
 | 29.6.7 | Untersagung oder Beschränkungen von Zahlungen an konzernangehörige Unternehmen (§ 79 Absatz 2 WpIG) | nach Zeitaufwand |
 | 29.7 | Anordnung der Erstattung von Zahlungen nach § 81 Absatz 2 Satz 2 WpIG | nach Zeitaufwand |
