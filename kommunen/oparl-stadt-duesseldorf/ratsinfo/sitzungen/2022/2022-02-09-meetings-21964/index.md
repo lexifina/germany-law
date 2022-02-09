@@ -1,0 +1,56 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-02-09T14:00:00+01:00
+- Ende: 2022-02-09T15:01:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21964
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21964
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Digitales Sitzungspaket (Stand: 08.02.2022) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439255.pdf
+- Ergebnisprotokoll: Digitales Sitzungspaket (Stand: 08.02.2022) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439255.pdf
+- Wortprotokoll: Digitales Sitzungspaket (Stand: 08.02.2022) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439255.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen gemäß § 21 (14) Geschäftsordnung des Rates - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die Sitzung vom 27.10.2021 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift über die Sitzung vom 24.11.2021 - einstimmig beschlossen
+- TOP 4: Aktueller Lagebericht "Jugendhilfe in Zeiten von Corona"
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der FDP-Ratsfraktion - hier: Umsetzung des neuen Kinder- und Jugendstärkungsgesetzes - beantwortet
+- TOP 5.2: Anfrage der FDP-Ratsfraktion - hier: Erzieherischer Kinder- und Jugendschutz - beantwortet
+- TOP 5.3: Anfrage der Ratsfraktion DIE LINKE. - hier: Qualitätssicherung in der OGS hinsichtlich des neuen GaFöG - beantwortet
+- TOP 5.4: Anfrage der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU - hier: Schaffung von mehr Freiräumen für Jugendliche - beantwortet
+- TOP 6: Anträge
+- TOP 6.1: Antrag der Ratsfraktion DIE LINKE. - hier: Psychische Gesundheit von Kindern und Jugendlichen im Rahmen der Corona-Pandemie - beschlossen
+- TOP 7: Jugendförderung
+- TOP 7.1: U27 Obdachlose in Düsseldorf - Abschlussbericht der AG U27 Obdachlose der evangelischen Jugend Düsseldorf
+- TOP 7.2: Sachstandsbericht zum Sleep In in Düsseldorf - mündlicher Bericht
+- TOP 7.3: Sachstand zur Aufstockung der Schulsozialarbeit - hier: 19 Vollzeitstellen zum Schuljahr 2021/22 (aktualisiert) - zur Kenntnis genommen
+- TOP 8: Fachübergreifende Vorlagen
+- TOP 8.1: Beschlusskontrolle I/2022 - zur Kenntnis genommen
+- TOP 8.2: Monitoring "Menschen mit Behinderung" im Rahmen der kommunalen Sozialberichterstattung - zur Kenntnis genommen
+- TOP 9: Präventionsketten Düsseldorf
+- TOP 9.1: Düsseldorfer Präventionsketten: "kinderstark – NRW schafft Chancen": Zuwendung des Ministeriums für Kinder, Familie, Flüchtlinge und Integration des Landes Nordrhein-Westfalen (MKFFI) für Aufbau und Stärkung kommunaler Präventionsketten - zur Kenntnis genommen
+- TOP 9.2: Düsseldorfer Präventionsketten - Maßnahmen zur Minderung der Folgen von Kinderarmut (Armutsfonds) - einstimmig beschlossen
+- TOP 10: Tageseinrichtungen für Kinder
+- TOP 10.1: Trägerwechsel der Katholischen Tageseinrichtung für Kinder St. Anna, Kanalstraße 2 zum Träger SKFM e.V. - einstimmig beschlossen
+- TOP 11: Soziale Dienste
+- TOP 11.1: Finanzielle Aufwendungen für Pflegestellen und Erziehungsstellen - hier: Erhöhung der materiellen Aufwendungen (Pflegegeld) und Erhöhung des Erziehungsbeitrages (Erziehungsbeitrag) - zur Kenntnis genommen
+- TOP 12: Familienförderung
+- TOP 12.1: Investitionskostenzuschüsse an freie Träger der Familienbildung – hier: Efa; Umbau der Immobilie Collenbachstraße 10 zum Stadtteiltreff und Umzug des Stadtteiltreffs Ratherstraße 19 in die Collenbachstraße 10 - einstimmig beschlossen
+- TOP 12.2: Jugendhilfeplanung Familienbildung - Angebote zur Förderung von Erziehung in der Familie - einstimmig beschlossen
+- TOP 12.3: Kommunaler Zuschuss zur Landesförderung für Freie Träger zur spezialisierten Beratung bei sexualisierter Gewalt gegen Kinder und Jugendliche - abweichend beschlossen
+- TOP 13: Gebäudeangelegenheiten
+- TOP 13.1: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Gymnasium Gerresheim, Am Poth 60 – Umbau und Erweiterung“. - Empfehlung einstimmig beschlossen
+- TOP 14: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder
+- TOP 14.1: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Alt-Eller 31a - einstimmig beschlossen
+- TOP 14.2: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Paulistraße 4 - einstimmig beschlossen
+- TOP 14.3: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Cronenberger Weg 33 - einstimmig beschlossen
+- TOP 15: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII
+- TOP 15.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: Kindertagesstätte Krabbelkäfer gGmbH - einstimmig beschlossen
