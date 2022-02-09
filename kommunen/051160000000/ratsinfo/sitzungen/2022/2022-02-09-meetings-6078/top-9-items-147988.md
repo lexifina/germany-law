@@ -1,0 +1,8 @@
+# TOP 9: Antrag zur Beratungsvorlage 1224/X - Sachstandsbericht Braunkohlenangelegenheiten un-ter besonderer Berücksichtigung der Verkürzung der Tagebaulaufzeiten und ihrer Konse-quenzen für das Stadtgebiet sowie der verkehrlichen Anbindungen
+
+- Sitzung: Hauptausschuss (2022-02-09)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/147988
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/31481
