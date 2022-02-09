@@ -1,0 +1,75 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-02-09T16:39:00+01:00
+- Ende: 2022-02-09T19:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12502
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12502
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00502660.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 10: Anregungen des Jugendrates
+- TOP 10.1: Ein Dirtpark im Mauritzviertel
+- TOP 11: Musik-Campus - Grundsatzbeschlüsse - von der Tagesordnung abgesetzt
+- TOP 12: MünsterZukunft gemeinsam machen: "Mitgestaltende Öffentlichkeitsbeteiligung stärken - digitale Betetiligungsinstrumente ausbauen - mehrheitlich geändert beschlossen
+- TOP 13: Wirtschaftsplan 2022 der citeq - einstimmig beschlossen
+- TOP 14: Digitale Stadt Münster - Bericht zur Gigabitkoordination für die Stadt Münster - zur Kenntnis genommen
+- TOP 15: Altersteilzeit für Beamtinnen und Beamte in den Jahren 2022 und 2023 - mehrheitlich beschlossen
+- TOP 16: Satzung zur Änderung der Sendsatzung der Stadt Münster und des Entgelttarifes zu § 7 der Sendsatzung - von der Tagesordnung abgesetzt
+- TOP 17: Neufassung Errichtungsbeschluss für den Neubau eines Feuerwehrhauses der Freiwilligen Feuerwehr im Ortsteil Albachten - von der Tagesordnung abgesetzt
+- TOP 18: Tarifmaßnahme Mobilität 08/2022 - Anpassung der Fahrpreise zum 1. August 2022 für das Stadtgebiet Münster innerhalb des WestfalenTarifs - mehrheitlich abgelehnt
+- TOP 19: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2021 - zur Kenntnis genommen
+- TOP 20: Bericht über die Beteiligungen der Stadt Münster im Jahr 2020 (Beteiligungsbericht 2020) - zur Kenntnis genommen
+- TOP 21: Fahrplanmaßnahmen der Stadtwerke Münster GmbH zum 25.04.2022 - einstimmig beschlossen
+- TOP 22: Münstersche Stadt-Landschaft - Siedlung und Freiraum in der Balance: Konzept für eine integrierte Entwicklung von Siedlungs- und Freiflächen und Standorten für erneuerbare Energien - mehrheitlich beschlossen
+- TOP 22.1: Münstersche Stadt-Landschaft - Siedlung und Freiraum in der Balance: Konzept für eine integrierte Entwicklung von Siedlungs- und Freiflächen und Standorten für erneuerbare Energien
+- TOP 23: Teilfortschreibung 3. Nahverkehrsplan Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 24: Änderung der Richtlinien zur Förderung der Kinder- und Jugendarbeit - einstimmig beschlossen
+- TOP 24.1: Änderung der Richtlinien zur Förderung der Kinder- und Jugendarbeit
+- TOP 25: Trägervergabe für Kindertageseinrichtungen
+- TOP 25.1: Trägervergabe für die Kindertageseinrichtung am Kiesekampweg im Stadtteil Coerde, Bezirk Nord - mehrheitlich beschlossen
+- TOP 25.2: Trägervergabe für die Kindertageseinrichtung Im Drostebusch (ehemals Paul-Schneider-Haus) im Stadtteil Mauritz-Ost - mehrheitlich beschlossen
+- TOP 25.3: Trägervergabe für die Kindertageseinrichtung südlich Hiltruper Straße im Stadtteil Angelmodde, Bezirk Südost - mehrheitlich beschlossen
+- TOP 26: 3. Satzung zur Änderung der Benutzungs- und Gebührensatzung für die Städtische Berufsfachschule für pharmazeutisch-technische Assistenten/innen der Stadt Münster vom 22.05.2015 - einstimmig beschlossen
+- TOP 27: Grundsatzbeschluss zur Erweiterung von 6 Gymnasien zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9 - einstimmig beschlossen
+- TOP 27.1: Grundsatzbeschluss zur Erweiterung von 6 Gymnasien zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9
+- TOP 28: Erweiterung der Bodelschwinghschule zur 3-Zügigkeit mit OGTS und Mensa unter Einbeziehung der Flächen PTA - Baubeschluss - - einstimmig beschlossen
+- TOP 29: Erweiterung zur 3-Zügigkeit der Annette-von-Droste-Hülshoff Grundschule in Angelmodde - einstimmig beschlossen
+- TOP 30: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung - einstimmig beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Münster-Mitte
+- TOP 31.1.1: Bebauungsplan Nr. 597 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 31.1.2: 1. Verlängerung der Veränderungssperre Nr. 113 für den Bereich des Bebauungsplans Nr. 575 - einstimmig beschlossen
+- TOP 31.2: Stadtbezirk Münster-Südost
+- TOP 31.2.1: Bebauungsplan Nr. 626 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 31.2.1.1: Bebauungsplan Nr. 626 - Beschluss zur Aufstellung
+- TOP 31.3: Stadtbezirk Münster-Ost
+- TOP 31.3.1: Bebauungsplan Nr. 619 - Aufstellungsbeschluss - 91. Änd. FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 32.1: Familien und Bauherren aus Finanznöten befreien - Stopp der KfW-Bauförderung kompensieren - mehrheitlich abgelehnt
+- TOP 32.2: Zügigeres Bauen für eine gute Zukunft von Münsters Schulen - verwiesen
+- TOP 32.3: Weichenstellung für ein Jahrzehnt des ÖPNV – Einführung eines günstigen und vereinfachten Tarifsystems für das Münsteraner Nahverkehrssystem - mehrheitlich beschlossen
+- TOP 32.4: Ausgleich für die Stadtwerke – ÖPNV-Fonds etablieren - mehrheitlich beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 33.1: Mit QR-Code die Stadt erklärt - verwiesen
+- TOP 33.2: Ausbau Mobilstation Weseler Straße und Verkehrsversuch Met-robussystem Einfahrtachse - verwiesen
+- TOP 33.3: Selbstbestimmt und diskriminierungsfrei in unserer Stadt leben können – ein „Aktionsplan LSBTIQ*“ für Münster - verwiesen
+- TOP 33.4: Weiterentwicklung des Münsteraner Nahverkehrssystems – ÖPNV als Stütze der Verkehrswende nachhaltig und zukunftsfähig aufstellen - verwiesen
+- TOP 34: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 34.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 35: Verschiedenes
