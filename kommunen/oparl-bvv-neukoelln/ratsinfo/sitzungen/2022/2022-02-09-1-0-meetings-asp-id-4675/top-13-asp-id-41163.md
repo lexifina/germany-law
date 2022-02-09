@@ -1,0 +1,7 @@
+# TOP 13: Mitteilungen der Verwaltung
+
+- Sitzung: 3. öffentliche Sitzung des Ausschusses für Verkehr und Tiefbau (2022-02-09)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=41163
+- Ergebnis: erledigt
