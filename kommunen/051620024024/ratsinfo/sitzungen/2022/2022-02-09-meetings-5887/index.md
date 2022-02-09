@@ -1,0 +1,52 @@
+# Ausschuss für Planung, Stadtentwicklung und Mobilität
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-02-09T17:00:00+01:00
+- Ende: 2022-02-09T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/223
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5887
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5887
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00160343.pdf
+- Ergebnisprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00160343.pdf
+- Wortprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00160343.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - mehrheitlich zugestimmt
+- TOP 2: Bestellung der Schriftführung für den Ausschuss für Planung, Stadtentwicklung und Mobilität der Stadt Neuss - einstimmig zugestimmt
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Dringlichkeitsentscheidung gem. § 60 GO
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 5: Bebauungsplan Nr. 120/19 - Weckhoven, Otto-Wels.Straße - Beschluss über die Stellungnahmen, Satzungsbeschluss - einstimmig zugestimmt
+- TOP 6: Bebauungsplan Nr. 501 - Norf, Nievenheimer Straße (Kita) - - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 7: Bebauungsplan Nr. 504 – Allerheiligen, Stüttger Feld - - einstimmig zugestimmt
+- TOP 8: Integriertes Stadtentwicklungkonzept "Gemeinsam an den Rhein" - mehrheitlich zugestimmt
+- TOP 9: Freigabe der Krefelder Straße für den Radverkehr - beraten ohne Abstimmung
+- TOP -: Anträge
+- TOP 10: Antrag der Fraktion CDU betr.: Sicherung von Bodenfunden - einstimmig zugestimmt
+- TOP 11: Antrag der Fraktion CDU betr.: - Innenstadt verschönern - Fassadenwettbewerb durchführen - verwiesen
+- TOP 12: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen, UWG/Aktiv für Neuss betr.: Neugestaltung des Hermann-Wilhelm-Thywissen-Platzes - einstimmig zugestimmt
+- TOP 12.1: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen, UWG/Aktiv für Neuss betr.: Sachstand Parkkonzept Lukasviertel - einstimmig zugestimmt
+- TOP 12.2: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen, UWG/Aktiv für Neuss betr.: Sachstandsbericht Ausbauprogramm Steinhausstraße - verwiesen
+- TOP -: Anfragen
+- TOP 12.3: Antrag der Kooperation SPD/Bündnis 90 Die Grünen/UWG/Aktiv für Neuss betr.: Sichere Schulradwege-Netze in Neuss - abgesetzt
+- TOP 12.4: Antrag der Kooperation SPD/Bündnis 90 Die Grünen/UWG/Aktiv für Neuss betr.: Ermöglichung von abschließbaren Fahrradgaragen auf öffentlichen Flächen - einstimmig zugestimmt
+- TOP 12.5: Antrag der Kooperation SPD/Bündnis 90 Die Grünen/UWG/Aktiv für Neuss betr.: Anpassung von Umlaufschranken und Sperrpfosten - einstimmig zugestimmt
+- TOP 12.6: Antrag der Fraktion CDU betr.: Sachstandsbericht Etex-Gelände - einstimmig zugestimmt
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 14: Mitteilung der Verwaltung, Bebauungsplan Nr. 506 - Hafengebiet, Hammer Landstraße (Gewerbegebiet), Aufstellungsbeschluss - zur Kenntnis genommen
+- TOP 15: Sachstandsbericht städtebauliche Entwicklung am Hindenburgplatz, Holzheim - verwiesen
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Prüfergebnis Radverkehr im Hauptstraßenzug und auf der Bustrasse - zur Kenntnis genommen
+- TOP 18: Verkehrsversuch Radachse Innenstadt - Bewertung und weiteres Vorgehen - verwiesen
+- TOP 18.1: Antrag der Fraktion DIE LINKE / Die Partei betr.: Sebastiannusstr. weiterhin vom Autoverkehr befreien! - verwiesen
+- TOP 19: Einwohner*innenfragestunde
