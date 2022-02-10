@@ -1,0 +1,23 @@
+# Standortanalyse zum Bau eines gemeinsamen Feuerwehrhauses für die Wehren Bad Pyrmont und Holzhausen
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 362/2021 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-02-10
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZWMa9PEqvPoPbpqQykINB44
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10032
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Standortanalyse zum Bau eines gemeinsamen Feuerwehrhauses für die Wehren Bad Pyrmont und Holzhausen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZpI8YhE5qDyZzB_ssAzHCR2YZ16x7qFy2gmUtCPylxX/Beschlussvorlage_362-2021_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1_Antrag CDU Fraktion 20211101) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR1f50spxYWCvVAIJi5XPkxNn9Z71jaOCO29ulKR5Vkn/Anlage_1_Antrag_CDU_Fraktion_20211101.pdf
+- Anlage: Beschlussvorlage (Anlage 2_Standort 1_CPlatzStadion) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ664wKnrBmdBuWDMe8MM5Gd5hoDZE3U48r7Hg_3n2n0/Anlage_2_Standort_1_CPlatzStadion.pdf
+- Anlage: Beschlussvorlage (Anlage 3_Standort 2_zwBahnhofstrundSporthSuedstr) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYOPb4U5dxfQjO4FZ0nyYqefjDay-Au3S0trD8PDZAcW/Anlage_3_Standort_2_zwBahnhofstrundSporthSuedstr.pdf
+- Anlage: Beschlussvorlage (Anlage 4_Standort 3_oestrSchanze) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZViGKlVNizchrhWu2EkRDK1B-EbPW3K3M7PLHCr1spf_/Anlage_4_Standort_3_oestrSchanze.pdf
+- Anlage: Beschlussvorlage (Anlage 5_Standort 4_Stadtwerke) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQjc7B5ZbxqWhegUV1zEsdzm28bAIrh004wovFg9IkHD/Anlage_5_Standort_4_Stadtwerke.pdf
+- Anlage: Beschlussvorlage (Anlage 6_Standort 5_BahnhofstrRischlakewiese) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTaBDGJm9ZO37QgdXSkX6LzVnxmBiSfyrhIvoEXzuMD0/Anlage_6_Standort_5_BahnhofstrRischlakewiese.pdf
+- Anlage: Beschlussvorlage (Anlage 7_Standort 6_FestplatzHolzhausen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZScXBiz3E2dwxjrcHmycXa_NJqsw4T-AZjAW78dxRrxk/Anlage_7_Standort_6_FestplatzHolzhausen.pdf
+- Anlage: Beschlussvorlage (Anlage 8_Standort 7_GewerbegebietWest) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUFKaTpy-hPIjduXm_l3B-HwB-NftoJ-qmAJc_rK4DA4/Anlage_8_Standort_7_GewerbegebietWest.pdf
+- Anlage: Beschlussvorlage (Anlage 9_Standort 8_Hoepperbrueckenweg) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY4uFfkz3p4wnQSPtmqrtQV364inJa2k4FeyahXBxDDH/Anlage_9_Standort_8_Hoepperbrueckenweg.pdf
+- Anlage: Beschlussvorlage (Anlage 10_tabellarische Kurzanalyse) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe4m0DrEKB85Vr4VrNnyycIMh_B4EpbU3ujfJNJlDKef/Anlage_10_tabellarische_Kurzanalyse.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20695 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-43
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20800 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-201
