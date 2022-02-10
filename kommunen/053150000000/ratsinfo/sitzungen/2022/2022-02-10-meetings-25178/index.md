@@ -1,0 +1,55 @@
+# 8. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-02-10T17:10:00+01:00
+- Ende: 2022-02-10T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25178
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25178
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohnerinnen und Einwohnern
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Sofortprogramm Innenstadt, Bericht
+- TOP 1.2: Umgestaltung Ehrenstraße, Bericht
+- TOP 1.3: Gestaltungsansätze zur Steigerung der Attraktivität der Kölner Innenstadt - Handelslagen
+- TOP 1.4: Bericht Einzelhandel
+- TOP 1.5: Stand und Perspektiven für Innenstadt und Veedel, Bericht
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Beantwortung der Nachfragen der Fraktion Die Linke. betr.: „Multilingualität von Anfang an -Aktuelle Übersicht zu Angeboten und Sprachfördermöglichkeiten von Mehrsprachigkeit in der Stadt Köln“ (2930/2021) - Kenntnis genommen
+- TOP 3.2: Beantwortung der Nachfragen zur Beantwortung der Anfrage der Fraktion Die Linke. betr.: "Impuls für klimaneutrales Wachstum und zusätzliche Beschäftigung" (AN/1823/2021) (3425/2021) - Kenntnis genommen
+- TOP 3.3: Beantwortung der Anfrage der SPD-Fraktion aus der Sitzung des Wirtschaftsausschusses vom 18.11.2021, betr.: "Sachstand Frischezentrum in Köln - Marsdorf" - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Anfrage der Fraktionen CDU und Volt betr.: "KfW-Förderung" - zurückgestellt
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 5.1: Gemeinsamer Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Nacht- und Abendmärkte für Köln" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion zum AN/2697/2021 betr.: "Nacht- und Abendmärkte" - endgültig abgelehnt
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Leitlinien zum Klimaschutz in der Umsetzung nicht-städtischer Neubauvorhaben in Köln - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 14.1: Mehrsprachige Website für den Wirtschaftsstandort Köln - Kenntnis genommen
+- TOP 14.2: Zwischenanalyse der Gewerbeflächen-Vollerhebung der Kölner City - Kenntnis genommen
+- TOP 14.3: Ungebrochene Nachfrage auf dem Kölner Büroflächenmarkt trotz Corona - Kenntnis genommen
+- TOP 15: Mitteilungen
+- TOP 15.1: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 15.2: Erstberatungsstelle für Programm "unternehmensWert:Mensch" verlängert - Kenntnis genommen
+- TOP 15.3: Bilanz des Stadtverschönerungsprogramms und "Win-Win für Köln" (AN/0033/2022) - Kenntnis genommen
+- TOP 15.4: Sachstand zur Umsetzung des Teilhabechancengesetzes in der Stadtverwaltung und der KGAB - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Freigabe von Mitteln der Kulturförderabgabe zur Förderung des "Film Festival Cologne 2022" und der Veranstaltung "TINCON 2022" - ungeändert beschlossen
+- TOP 16.2: Weiterführung des Projektes „Plan27“ - ungeändert empfohlen
+- TOP 16.3: Teilnahme an der Landesinitiative „Durchstarten in Ausbildung und Arbeit“ - ungeändert empfohlen
+- TOP 17: Mündliche Anfragen
+- TOP 17.1: Mündliche Anfrage der Fraktion Die Linke. betr.: "Nachfrage zur Beantwortung zum Sachstand Frischezentrum in Köln-Marsdorf" (4474/2021)
