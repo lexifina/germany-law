@@ -1,0 +1,55 @@
+# Ausschuss für Bauen, Umwelt und Klimaschutz (6. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-02-10T18:00:00+01:00
+- Ende: 2022-02-10T21:27:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-292
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSjs-7wD7LURUWbm4nzFCbI
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7454
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Bauen, Umwelt und Klimaschutz) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXN2air5OuMd0fxbfDD8yY-7w4AiQ_YY0wzLDdgL5TAj/Bekanntmachung_Ausschuss_fuer_Bauen-_Umwelt_und_Klimaschutz_10.02.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Bauen, Umwelt und Klimaschutz) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVY5nF770QUGX_jEDw6jMDoiuS74_tcc1T5DMJLQUdfB/Oeffentliche_Niederschrift_Ausschuss_fuer_Bauen-_Umwelt_und_Klimaschutz_10.02.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 18.11.2021
+- TOP 2.: Sammelsystem für Zigarettenkippen - (kein Text vorhanden)
+- TOP 3.: Anträge auf Baumfällungen Bezug: Baumfällanträge und Umweltkommission vom 13.01.2022 - (kein Text vorhanden)
+- TOP 4.: Beitritt der Stadt Brühl zum „Netzwerk Bio-Städte, -Gemeinden und -Landkreise“ Bezug: Antrag der Fraktionen SPD und Grüne vom 23.01.2022 - (kein Text vorhanden)
+- TOP 5.: Prüfauftrag für das Anlegen eines Waldlehrpfades im Gebiet der Ville Bezug: Antrag der Fraktionen SPD und Grüne vom 23.01.2022 - (kein Text vorhanden)
+- TOP 6.: Erfassung der Freiflächen in Brühl Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 22.08.2021, AfBUK 09.09.2021, Vorlage 407/2021
+- TOP 7.: Ergebnisse der Überprüfung der bebauten Grundstücke des Stadtgebiets in Bezug auf die Relevanz für die Niederschlagswassergebühren
+- TOP 8.: Aktualisierung des Straßen- und Wegekonzeptes der Stadt Brühl nach § 8a Absatz 1 des Kommunalabgabengesetzes (KAG) NRW Bezug: Beschluss vom Rat 14.12.2020, Vorlage 519/2020 - (kein Text vorhanden)
+- TOP 9.: BV Erschließung Zum Sommersberg - (kein Text vorhanden)
+- TOP 10.: Errichtung eines Kreisverkehres an den beiden Anbindungen der Alten Bonnstraße (L 183) und Otto-Wels-Straße (K 7) - (kein Text vorhanden)
+- TOP 11.: Mitteilungen
+- TOP 11.1: Mitteilungen über aktuelle Baumaßnahmen
+- TOP 11.1.1: Breitbandausbau / besitzbare und bespielbare Stadt
+- TOP 11.1.2: Erschließung Geildorfer Feld
+- TOP 11.1.3: Rheinstraße: Erneuerung Grundstücksanschluss
+- TOP 11.1.4: Bushaltestelle und Radwegquerung Bonnstraße am Neubaugebiet
+- TOP 11.1.5: Brücken Siegesbach und Geildorfer Bach
+- TOP 11.1.6: Brückenabriss Brückenstraße
+- TOP 11.1.7: Hedwig-Gries-Straße: Fuß- und Radweg zur Langenackerstraße / Versickerungsbecken
+- TOP 11.2: Kanalbaumaßnahme Römerstraße-Kaiserstraße
+- TOP 11.3: Ausbau Deponie Ville
+- TOP 12.: Anfragen
+- TOP 12.1: Baumpflanzungen in Containern
+- TOP 12.2: Weiherhofstraße: Straßenbaumaßnahme
+- TOP 12.3: Denkmal Hermann-Faßbender-Str. / An der Schallenburg
+- TOP 12.4: Brandschutz bei Photovoltaikanlagen auf Einfamilienhäusern
+- TOP 12.5: Vermüllung im Stadtgebiet
+- TOP 12.6: Carl-Schurz-Straße: Wiederbepflanzung
+- TOP 12.7: Kempishofstraße: Leere Baumscheibe
+- TOP 12.8: Clemens-August-Straße: Aufstellung von Müllbehältern im öffentlichen Raum
+- TOP 12.9: Heider Bergsee: Rundweg
+- TOP 12.10: Photovoltaikanlagen auf städtischen Gebäuden Rathäuser A+B und Kaiserstr. 38
+- TOP 12.11: Kölnstraße Höhe Nr. 15: Baumflächen
+- TOP 13.: Sachstandbericht über städtische Photovoltaikanlagen (PV-Anlagen)
+- TOP B): Nichtöffentliche Sitzung
+- TOP 14.: Sachstandbericht über städtische Photovoltaikanlagen (PV-Anlagen) hier: Darstellung der Wirtschaftlichkeitsberechnungen
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen
