@@ -1,0 +1,64 @@
+# 9. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-02-10T15:30:00+01:00
+- Ende: 2022-02-10T17:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25087
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25087
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Mündlicher Bericht über aktuellen Sachstand zur SARS-CoV-2-Pandemie und die Auswirkungen auf vulnerable Personengruppen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Mündlicher Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3: Umsetzungsstand Interkulturelles Maßnahmenprogramm - Maßnahmen des Integrationsbudgets – Stand Dezember 2021 - Kenntnis genommen
+- TOP 2.4: Zweite digitale Konferenz Interkulturelles Köln am 05.11.2021 – Dokumentation - Kenntnis genommen
+- TOP 2.5: Beantwortung einer Anfrage aus dem Integrationsrat: zur Reform des Flüchtlingsaufnahmegesetzes (FlüAG) AN/0020/2022 der Fraktionen Bündnis 90/Die Grünen und der CDU - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Förderprogramm "Dritte Orte" - 1. Genehmigung für die Förderphase 2022ff - ungeändert beschlossen
+- TOP 4.2: Verteilung der Globalmittel 2022 an die Wohlfahrtsverbände - ungeändert beschlossen
+- TOP 4.3: Aufstockung des Teilansatzes für die Einschulungsbeihilfe - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.1 Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ (4270/2021) - ungeändert beschlossen
+- TOP 5.2: Weiterführung des Projektes „Plan27“ - ungeändert beschlossen
+- TOP 5.3: Teilnahme an der Landesinitiative „Durchstarten in Ausbildung und Arbeit“ - ungeändert beschlossen
+- TOP 5.4: Leitlinien zum Klimaschutz in der Umsetzung nicht-städtischer Neubauvorhaben in Köln - zurückgestellt
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg 1-3, 51143 Köln-Porz - zusätzliche Maßnahmen zum Klimaschutz - Kenntnis genommen
+- TOP 7.2: Beratungsstelle für gemeinschaftliche Wohnbauprojekte - Kenntnis genommen
+- TOP 7.3: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2021 - Kenntnis genommen
+- TOP 7.4: Neubau von vier Mehrfamilienhäusern im öffentlich geförderten Wohnungsbau auf den städtischen Grundstücken Pater-Prinz-Weg 13-16, 50997 Köln-Rondorf - Haushaltsrechtliche Unterrichtung - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Beantwortung einer Anfrage der Fraktionen Bündnis 90/Die Grünen, der CDU und Volt zum Thema Kinderfreizeitbonus für Kinder A - Kenntnis genommen
+- TOP -: Beantwortung der Fragen der Fraktion Bündnis 90/Die Grünen vom 26.01.2022 für die Sitzung des Ausschusses für Gleichstellung für Frauen und Männer am 31.01.2022 zum Thema: „Kinderfreizeitbonus für Kinder Alleinerziehender in Hartz IV“ (3860/2021) - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: 3. Quartalsbericht 2021 der Ombudsstelle für Flüchtlinge in Köln - zurückgestellt
+- TOP 9.2: Unterbringungsplanung für Geflüchtete inklusive Reserve für die Jahre 2022 – 2024 - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Anfrage der SPD-Fraktion: Bilanz des Stadtverschönerungsprogramms der Stadt Köln - Sache ist erledigt
+- TOP -: Beantwortung: Bilanz des Stadtverschönerungsprogramms und "Win-Win für Köln" (AN/0033/2022) - Kenntnis genommen
+- TOP 10.1.2: Anfrage der Fraktion Die Linke: Bemühungen der Stadt Köln, den Fachkräftemangel in der Pflege positiv zu beeinflussen - zurückgestellt
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage der SPD-Fraktion: Entwickelt die „Task Force Wohnungslosenpolitik“ einen Masterplan zur Überwindung von Wohnungs- und Obdachlosigkeit? - zurückgestellt
+- TOP 10.2.2: Anfrage der SPD-Fraktion: Aktuelle Situation im Bereich der Wohngeldstelle: Konnte der Antragsstau reduziert werden? - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 12.2: Fortsetzung der Humanitären Hilfen in 2022 - Kenntnis genommen
+- TOP 12.3: Sachstandsbericht der Arbeitsgruppe Kölnberg - Kenntnis genommen
+- TOP 12.4: Erstberatungsstelle für Programm "unternehmensWert:Mensch" verlängert - Kenntnis genommen
+- TOP 12.5: Sachstand zur Umsetzung des Teilhabechancengesetzes in der Stadtverwaltung und der KGAB - zurückgestellt
+- TOP 12.6: Zielvereinbarungen 2022 - Bürgerzentren (Zusammenfassung) - Kenntnis genommen
+- TOP 12.7: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - Kenntnis genommen
+- TOP 12.8: "dieKümmerei" - Gesundheitsnetzwerk für niedrigschwelligen Zugang zu medizinischen und sozialen Leistungen - Kenntnis genommen
