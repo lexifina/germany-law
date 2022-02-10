@@ -1,0 +1,98 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-02-10T16:00:00+01:00
+- Ende: 2022-02-10T19:45:00+01:00
+- Ort: Historische Stadthalle, Großer Saal, Johannisberg 40, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20189
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20189
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Rat http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00286342.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00287282.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung eines neuen Stadtverordneten (nur Rat)
+- TOP 1.1.1: Aktuelle halbe Stunde zum Themenkomplex "Kalkulatorische Planbarkeit von Projekten des Gebäudemanagements" - geändert beschlossen
+- TOP 1.2: Antrag auf Fristverlängerung für das Bürgerbegehren "Bundesgartenschau 2031" gemäß § 26 GO NRW (nur Rat) - abgelehnt
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Scheibenpachtmodell - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE - Scheibenpachtmodell - Entgegennahme ohne Beschluss
+- TOP 2.2: Inklusion: Ausbildung bei Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion Die Linke zur Inklusion: Ausbildung bei der Stadt Wuppertal (VO/0087/22) - Entgegennahme ohne Beschluss
+- TOP 2.3: Große Anfrage: "Missbrauch im Sport" - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Missbrauch im Sport - Entgegennahme ohne Beschluss
+- TOP 2.4: Anmietung der Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Große Anfrage der Fraktion Freie Wähler vom 02.02.22 zur Anmietung der Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 2.5: Räumung/Rodung Osterholz - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Räumung/Rodung Osterholz - Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 03.02.2022 - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Resolution zur Ausrufung des Klimanotstands
+- TOP 3.2: Anregung gemäß § 24 GO NRW - Externe Prüfung der Effektivität der Verfahrensweisen des Ressorts Straßen und Verkehr
+- TOP 3.3: Anregungen gemäß § 24 GO NRW - Behandlung von Anregungen nach dem Vorbild des Vorschlagswesens
+- TOP 3.4: Anregung gemäß § 24 GO NRW - Runder Tisch hinsichtlich der Ausländerbehörde Wuppertal
+- TOP 3.5: Anregung gemäß § 24 GO NRW - Angemessene Kalkulation der Fernwärmepreise unter Berücksichtigung der tatsächlichen Beschaffungskosten
+- TOP 3.6: Anregung gemäß § 24 GO NRW - Aufzeichnung kommunaler Gremiensitzungen mittels Ton- oder Videoformate
+- TOP 4: Anträge
+- TOP 4.1: Einrichtung einer Begegnungs- und Erinnerungsstätte zu Ehren der Leistungen der Gastarbeiterinnen und Gastarbeiter, Gemeinsamer Antrag der Fraktionen von SPD und FDP vom 26.01.2022 - geändert beschlossen
+- TOP 4.1.1: Ergänzungsantrag zu VO/0098/22 - Einrichtung einer Begegnungs- und Erinnerungsstätte zu Ehren der Leistungen der Gastarbeiterinnen und Gastarbeiter - geändert beschlossen
+- TOP 4.2: Sachstandsbericht „Ausbildungskapazität ausbauen - Personalmangel entgegenwirken“ - ungeändert beschlossen
+- TOP 4.3: Zuschuss Rosensonntagszug - ungeändert beschlossen
+- TOP 4.4: Einholung von Angeboten und Erstellung einer Homepage für den Integrationsausschuss der Stadt Wuppertal für die Öffentlichkeitsarbeit - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Festsetzung privatrechtlicher Entgelte für die Mittagsverpflegung in Tageseinrichtungen für Kinder der Stadt Wuppertal (Entgeltordnung) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Überweisung der aktuellen Veränderungen gegenüber dem Haushaltsplan-Entwurf 2022/2023 zur Beratung an die Gremien - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2022 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2022 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2022 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan 2022 Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan 2022 und mittelfristige Ergebnis- und Finanzplanung der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Verfahrensbedingte Rückholung von Zuständigkeiten des Ausschusses für Stadtentwicklung und Bauen - ungeändert beschlossen
+- TOP 9.2: Zielbeschluss zur Wohnbauflächenentwicklung Oberdüsseler Weg / Nevigeser Straße („Nissen-Gelände“) - ungeändert beschlossen
+- TOP 9.2.1: Änderungsantrag zu TOP 9.2, Zielbeschluss zur Wohnbauflächenentwicklung "Nissengelände" - abgelehnt
+- TOP 9.3: Zielbeschluss zur Wohnbauflächenentwicklung „Barmer Bogen“ - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1250 - Nächstebrecker Straße / Bramdelle - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 815A - Oberheidter Straße / Häuschen - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1275 - Rudolfstraße / Buchenstraße - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 682 - Hardt / Schwabenweg - - 2. Änderung des Bebauungsplanes - - Änderung des Städtebaulichen Vertrages - - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan 982 - Schulzentrum Süd/ Schwimmsportleistungszentrum Küllenhahn - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Errichtung eines Massivbaus mit 2 Klassenräumen für die Grundschule Berg-Mark-Straße - ungeändert beschlossen
+- TOP 10.2: Errichtung von vier Klassencontainern für die Schule am Nordpark - ungeändert beschlossen
+- TOP 10.3: Bericht zur Gesamtsanierung Realschule Leimbach - Entgegennahme ohne Beschluss
+- TOP 10.4: Neugestaltung Alte Freiheit, Poststraße, Kerstenplatz - ungeändert beschlossen
+- TOP 10.5: Umbau der Hatzfeldtrasse zwischen der Straße Zum Alten Zollhaus und der Nord- bahntrasse im Bereich des ehemaligen Bahnhof Loh in Wuppertal zu einem Geh- und Radweg - ungeändert beschlossen
+- TOP 10.6: Kreuzungsumbau Bundesallee B 7 / Sophienstraße / Alsenstraße - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Anmietung der ehemaligen Bundesbahndirektion - vertagen
+- TOP 11.1.1: Anmietung der ehemaligen Bundesbahndirektion - vertagen
+- TOP 11.1.1.1: Bericht zum Antrag der Fraktionen von SPD und FDP vom 04.02.22 zur Anmietung der ehemaligen Bundesbahndirektion - vertagen
+- TOP 11.1.2: Anmietung der ehemaligen Bundesbahndirektion - vertagen
+- TOP 11.1.2.1: Antwort auf die Große Anfrage der Fraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN vom 07.02.22 zur Anmietung der ehemaligen Bundesbahndirektion - vertagen
+- TOP 11.2: Verlagerung des Stadtarchivs - abgesetzt
+- TOP 11.3: Spielflächenbedarfsplan Wuppertal 2021- Fortschreibung - ungeändert beschlossen
+- TOP 11.4: Betreibermodell öffentliche Toiletten - abgesetzt
+- TOP 11.5: Bewerbung der Stadt Wuppertal für das Förderprogramm "Zukunftsfähige Innenstädte und Zentren - ungeändert beschlossen
+- TOP 11.6: Bericht zur Umsetzung des Antrags „Klimaschutz und Klimafolgenanpassung – jetzt! Klimaneutral bis 2035!“ - Entgegennahme ohne Beschluss
+- TOP 11.7: Rahmenkonzept zur Einrichtung einer Nachtbürgermeister:innenstelle - abgesetzt
+- TOP 11.8: Straßen- und Wegekonzept für den Stadtbezirk Heckinghausen - ungeändert beschlossen
+- TOP 11.9: Zustimmung des von der Bezirksregierung Münster beschiedenen Ausgleichfonds gem. Pflegeberufe-Ausbildungsfinanzierungsverordnung für die Zeit vom 01.01.2022 bis 31.12.2022 - ungeändert beschlossen
+- TOP 11.10: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2022 bis 31.12.2022 - ungeändert beschlossen
+- TOP 11.11: Gewährung eines Zuschusses an die Wasserfreunde Wuppertal 1883 e.V. zur Sanierung des vereinseigenen Freibades („Alfred-Panke-Bad“), Bendahler Str. 136 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 11.12: Beitritt zur Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2022 - ungeändert beschlossen
+- TOP 11.13: Gremientätigkeiten von Herrn Oberbürgermeister Prof. Dr. Uwe Schneidewind - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Gremienbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.2: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 01./02. Juni 2022 in Essen - Benennung der Delegierten der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.3: Besetzung des Beirats Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung Ausschuss für Stadtentwicklung und Bauen - ungeändert beschlossen
+- TOP 12.5: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung / Benennung - ungeändert beschlossen
