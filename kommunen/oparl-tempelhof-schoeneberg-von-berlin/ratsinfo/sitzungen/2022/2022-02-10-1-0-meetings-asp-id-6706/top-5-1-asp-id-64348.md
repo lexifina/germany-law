@@ -1,0 +1,7 @@
+# TOP 5.1: Einzelpläne Abteilung Stadtentwicklung und Facility Management, dazu: Frau BStRin Schöttler
+
+- Sitzung: 5. öffentliche Sitzung des Hauptausschusses (2022-02-10)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=64348
+- Ergebnis: im Ausschuss abgelehnt
