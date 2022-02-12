@@ -247,9 +247,9 @@
 ## Teil 5 Sondervorschriften für zentrale Gegenparteien
 
 - [§ 152a Anwendungsbereich](0152a.md)
-- [§ 152b Ausgestaltung von Sanierungsplänen](0152b.md)
-- [§ 152c Bewertung von Sanierungsplänen](0152c.md)
-- [§ 152d Maßnahmen bei Mängeln von Sanierungsplänen](0152d.md)
+- [§ 152b (weggefallen)](0152b.md)
+- [§ 152c (weggefallen)](0152c.md)
+- [§ 152d (weggefallen)](0152d.md)
 - [§ 152e Erstellung und Aktualisierung von Abwicklungsplänen](0152e.md)
 - [§ 152f Abwicklungsfähigkeit, Abbau und Beseitigung von Abwicklungshindernissen; Verordnungsermächtigung](0152f.md)
 - [§ 152g Zwecke und Umfang der Bewertung; Unterlagen](0152g.md)
