@@ -1,0 +1,57 @@
+# 11. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-02-15T16:05:00+01:00
+- Ende: 2022-02-15T17:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25179
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25179
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Passierbare Umlaufsperren - geändert beschlossen
+- TOP 1.1.1: Hier zu TOP 1.1. Antrag von Die Fraktion vom 07.01.2022 betr. Passierbare Umlaufsperren AN/0024/2022 - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601- - geändert beschlossen
+- TOP 3.1.1: zu TOP 3.1. Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601-1201-0-10 - ungeändert beschlossen
+- TOP 3.2: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein - ungeändert beschlossen
+- TOP 3.2.1: Abschluss der Machbarkeitsuntersuchung für ein regionales Wasserbussystem auf dem Rhein (3512/2021) - endgültig abgelehnt
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Planungs- und Bedarfsfeststellungsbeschluss für die Vergabe der weiteren externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme „Vierspuriger Ausbau der Frankfurter Straße zwischen der Theodor-Heuss-Str - zurückgestellt
+- TOP 4.2: Erweiterter Planungsbeschluss zu Bahnsteiganhebungen an den Haltestellen Subbelrather Straße/Gürtel und Nußbaumerstraße - zurückgestellt
+- TOP 4.2.1: Erweiterter Planungsbeschluss zu Bahnsteiganhebungen an den Stadtbahnhaltestellen Subbelrather Straße/Gürtel und Nußbaumerstraße (3358/2021) - zurückgestellt
+- TOP 4.3: Kurzkonzept zur Pflege- und Entwicklung des Naturschutzgebiets N 5 „Am Godorfer Hafen" und der angrenzenden Sürther Aue - mit Änderungen empfohlen
+- TOP 4.3.1: Änderungsantrag zur Vorlage 3747/2021 „Kurzkonzept zur Pflege- und Entwicklung des Naturschutzgebiets N 5 „Am Godorfer Hafen" und der angrenzenden Sürther Aue“ - mit Änderungen empfohlen
+- TOP 4.3.2: Beantwortung der Anfragen zum "Kurzkonzept zur Pflege- und Entwicklung des Naturschutzgebiets N 5 „Am Godorfer Hafen" und der angrenzenden Sürther Aue" - Kenntnis genommen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Fluoreszierende Fahrradwege - zurückgestellt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Unfallgeschehen bei der KVB - Sache ist erledigt
+- TOP 5.2.2: Tödlicher Unfall am Aachener Weiher - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Abbruch und Ersatzneubau Kragplatte am Altstadtufer; bauzeitliche Verkehrsführung
+- TOP 6.2: Kyotostraße - Tempo 30 und Radverkehrsanlage
+- TOP 6.3: Parkpilot in Nippes - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.4: Öffnungsmöglichkeiten der Tiefgarage im Bezirksrathaus Lindenthal - zurückgestellt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Umsetzung von Radfahrstreifen auf der Neuköllner Straße und Tel-Aviv-Straße (südliche Fahrtrichtung) gemäß AN/2374/2021 - Kenntnis genommen
+- TOP 7.2.2: Radverkehrskonzept Innenstadt - Kölner Ringe - Lückenschluss Radfahrstreifen Habsburgerring/Hohenzollernring - Kenntnis genommen
+- TOP 7.2.3: Anlegen einer Busspur auf der Frankfurter Straße - Kenntnis genommen
+- TOP 7.2.4: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - zurückgestellt
+- TOP 7.2.5: Priorisierung Generalsanierungen Kölner Straßentunnel - Kenntnis genommen
+- TOP 7.2.6: Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 7.2.7: Die Zukunft der Mobilität ist digital (Beantwortung der Anfrage AN/2397/2021) - Kenntnis genommen
+- TOP 7.2.8: Teilnahme an der Earth Hour 2022 - Kenntnis genommen
+- TOP 7.2.9: Beschluss des Liegenschaftsausschusses zu Mobility hubs in städtischen und privaten Tief- und Hochparkanlagen - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Trassenfindung Stadtbahn Richtung Meschenich
+- TOP 8.2: Fahrradständer vor dem Spanischen Bau (kleine Budengasse)
