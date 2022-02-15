@@ -10,10 +10,13 @@
 | Zweiter Abschnitt: Deckungssummen |  |
 | Deckungssumme und Regeldeckungssumme | § 7 |
 | Umgang und Beförderung | § 8 |
+| Beförderung von Kernmaterialien | § 8a |
+| Deckung bei Schäden gemäß § 26 Absatz 1a des Atomgesetzes | § 8b |
 | Reaktoren | § 9 |
 | Schiffsreaktoren | § 10 |
-| Sonstige kerntechnische Anlagen | § 11 |
-| Stillegung von Anlagen | § 12 |
+| Sonstige Kernanlagen | § 11 |
+| Stilllegung von Kernanlagen | § 12 |
+| Kernanlagen in fortgeschrittener Stilllegung | § 12a |
 | Anlagen zur Erzeugung ionisierender Strahlen | § 13 |
 | (weggefallen) | § 14 |
 | Anwendung radioaktiver Stoffe am Menschen in der medizinischen Forschung | § 15 |
@@ -22,6 +25,13 @@
 | Deckungssumme bei mehrfachem Umgang | § 18 |
 | Abrundung der Deckungssumme | § 19 |
 | Dritter Abschnitt: Schlußvorschriften |  |
-| Übergangsvorschrift | § 20 |
-| Berlin-Klausel | § 21 |
+| Neufestsetzung der Deckungsvorsorge | § 20 |
+| (weggefallen) | § 21 |
 | Inkrafttreten | § 22 |
+|  |  |
+| Anlage 1 |  |
+| Anlage 2 |  |
+| Anlage 3 |  |
+| Anlage 4 |  |
+| Anlage 5 |  |
+| Anlage 6 |  |

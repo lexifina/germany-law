@@ -112,10 +112,9 @@ Arbeitssachen
 - [§ 65 Beschränkung der Berufung](0065.md)
 - [§ 66 Einlegung der Berufung, Terminbestimmung](0066.md)
 - [§ 67 Zulassung neuer Angriffs- und Verteidigungsmittel](0067.md)
-- [§ 67a](0067a.md)
 - [§ 68 Zurückverweisung](0068.md)
 - [§ 69 Urteil](0069.md)
-- [§ 70](0070.md)
+- [§ 70 (weggefallen)](0070.md)
 - [§ 71 (weggefallen)](0071.md)
 
 #### Dritter Unterabschnitt Revisionsverfahren
