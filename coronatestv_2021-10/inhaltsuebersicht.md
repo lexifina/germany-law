@@ -1,18 +1,18 @@
 # Inhaltsübersicht
 
 | § 1 | Anspruch |
-| § 2 | Testungen von nachweislich infizierten Personen in Absonderung, Kontaktpersonen und von Personen mit Voraufenthalt in Virusvariantengebieten |
+| § 2 | Testungen von nachweislich infizierten Personen, Kontaktpersonen und von Personen mit Voraufenthalt in Virusvariantengebieten |
 | § 3 | Testungen von Personen nach Auftreten von Infektionen in Einrichtungen und Unternehmen |
 | § 4 | Testungen zur Verhütung der Verbreitung des Coronavirus SARS-CoV-2 |
 | § 4a | Bürgertestung |
-| § 4b | Bestätigende Diagnostik- und variantenspezifische PCR-Testung |
+| § 4b | Bestätigende Diagnostik-Testung |
 | § 5 | Häufigkeit der Testungen |
 | § 6 | Leistungserbringung |
 | § 7 | Abrechnung der Leistungen |
 | § 7a | Abrechnungsprüfung |
 | § 7b | Abrechnung der Leistungen der Apotheken bei der Erstellung des COVID-19-Genesenenzertifikates nach § 22 Absatz 6 des Infektionsschutzgesetzes |
 | § 8 | Verwaltungskostenersatz der Kassenärztlichen Vereinigungen |
-| § 9 | Vergütung von Leistungen der Labordiagnostik mittels Nukleinsäurenachweis (PCR und weitere Methoden der Nukleinsäureamplifikationstechnik) oder für eine variantenspezifische PCR-Testung |
+| § 9 | Vergütung von Leistungen der Diagnostik mittels Nukleinsäurenachweis |
 | § 10 | Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test |
 | § 11 | Vergütung von Sachkosten für PoC-Antigen-Tests und Antigen-Tests zur Eigenanwendung |
 | § 12 | Vergütung von weiteren Leistungen |
