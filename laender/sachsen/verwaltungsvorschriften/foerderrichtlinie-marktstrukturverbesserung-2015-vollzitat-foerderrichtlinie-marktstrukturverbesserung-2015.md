@@ -1,8 +1,8 @@
 # Förderrichtlinie Marktstrukturverbesserung 2015 Vollzitat: Förderrichtlinie Marktstrukturverbesserung 2015
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-09-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.6
+- Datum: 2022-02-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-15.09.2021
+16.02.2022
 bis
-15.02.2022
+29.06.2023
 
 Förderrichtlinie Marktstrukturverbesserung 2015
 
@@ -64,7 +64,7 @@ b)
 
 Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung
 
-vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352),
+vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. Dezember 2021 (SächsABl. 2022 S. 2) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
 
 
 c)
@@ -80,7 +80,7 @@ Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung d
 
 e)
 
-Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2021/452 (ABl. L 89 vom 16.3.2021, S. 1) geändert worden ist,
+Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2021/1237 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist,
 
 
 f)
@@ -102,7 +102,7 @@ Erzeugerzusammenschlüsse sind:
 
 –
 
-Erzeugerorganisationen und deren Vereinigungen gemäß § 1 Absatz 1 Nummer 1 Buchstabe a des Agrarorganisationen-und-Lieferketten-Gesetzes vom 20. April 2013 (BGBl. I S. 917), das zuletzt durch Artikel 1 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1278) geändert worden ist, in der jeweils geltenden Fassung, die nach § 4 Absatz 1 des Agrarorganisationen-und-Lieferketten-Gesetzes in Verbindung mit § 2 Absatz 1 der Agrarmarktstrukturverordnung vom 15. November 2013 (BGBl. I S. 3998), die zuletzt durch Artikel 1 der Verordnung vom 6. August 2020 (BGBl. I S. 1888) geändert worden ist, in der jeweils geltenden Fassung, anerkannt sind und
+Erzeugerorganisationen und deren Vereinigungen gemäß § 1 Absatz 1 Nummer 1 Buchstabe a des Agrarorganisationen-und-Lieferketten-Gesetzes in der Fassung der Bekanntmachung vom 24. August 2021 (BGBl. I S. 4036), in der jeweils geltenden Fassung, die nach § 4 Absatz 1 des Agrarorganisationen-und-Lieferketten-Gesetzes in Verbindung mit § 2 Absatz 1 der Agrarorganisationen-und-Lieferketten-Verordnung vom 11. Oktober 2021 (BGBl. I S. 4655), in der jeweils geltenden Fassung, anerkannt sind und
 
 
 –
@@ -119,7 +119,7 @@ Unter der Verarbeitung eines landwirtschaftlichen Erzeugnisses zu einem Nicht-An
 
 4.
 
-Qualitätsprodukte sind gemäß Artikel 16 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487, L 130 vom 19.5.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2021/399 (ABl. L 79 vom 8.3.2021, S. 14) geändert worden ist, nach Qualitätsregelungen erzeugte landwirtschaftliche Erzeugnisse und Produkte, die bei der Verarbeitung entsprechender Erzeugnisse hergestellt werden.
+Qualitätsprodukte sind gemäß Artikel 16 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487, L 130 vom 19.5.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2021/1017 (ABl. L 224 vom 24.6.2021, S. 1) geändert worden ist, nach Qualitätsregelungen erzeugte landwirtschaftliche Erzeugnisse und Produkte, die bei der Verarbeitung entsprechender Erzeugnisse hergestellt werden.
 
 
 III.
@@ -439,7 +439,7 @@ Kosten für Errichtung oder Umbau von Gebäuden sowie Beschaffung und Installati
 
 b)
 
-Die Aufwendungen können auf den Neu- und Ausbau von Kapazitäten einschließlich der technischen Einrichtungen oder auf die innerbetriebliche Rationalisierung durch Umbau oder Modernisierung der technischen Einrichtungen ausgerichtet sein. Als Modernisierung gilt nicht die Ersetzung von Einrichtungen, deren technische und wirtschaftliche Lebensdauer abgelaufen ist.
+Die Aufwendungen können auf den Neu- und Ausbau von Kapazitäten einschließlich der technischen Einrichtungen oder auf die innerbetriebliche Rationalisierung durch Umbau oder Modernisierung oder Digitalisierung der technischen Einrichtungen ausgerichtet sein. Als Modernisierung gilt nicht die Ersetzung von Einrichtungen, deren technische und wirtschaftliche Lebensdauer abgelaufen ist.
 
 
 c)
@@ -541,7 +541,7 @@ Aufwendungen für Trockenmilcherzeugnisse, Butter und H-Milch,
 
 r)
 
-Aufwendungen für Investitionen in die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Ziffer 1 oder Anhang III Abschnitt II Kapitel IV Ziffer 8 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Delegierte Verordnung (EU) 2020/2192 (ABl. L 434 vom 23.12.2020, S. 10) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine oder mittlere Unternehmen (KMU) im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
+Aufwendungen für Investitionen in die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Ziffer 1 oder Anhang III Abschnitt II Kapitel IV Ziffer 8 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) 2021/1756 vom 6. Oktober 2021 (ABl. L 357 vom 8.10.2021, S. 27) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine oder mittlere Unternehmen (KMU) im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
 
 
 s)
@@ -656,7 +656,7 @@ Die Gewährung von Zuwendungen zu Investitionsausgaben ist an eine Verbesserung 
 
 h)
 
-Die Vorhaben sind innerhalb von drei Jahren durchzuführen. Die Frist beginnt mit Zustellung des Bewilligungsbescheides oder der Genehmigung zum vorzeitigen Maßnahmenbeginn. Vorhaben können sich in Projektabschnitte gliedern.
+Die Vorhaben sind innerhalb von drei Jahren durchzuführen. Die Frist beginnt mit Zustellung des Bewilligungsbescheides oder der Genehmigung zum vorzeitigen Maßnahmenbeginn. In begründeten Einzelfällen kann diese Frist durch die Sächsische Aufbaubank um drei Jahre verlängert werden. Vorhaben können sich in Projektabschnitte gliedern.
 
 
 i)
@@ -841,7 +841,7 @@ im Falle der Förderung nach Ziffer III der Begünstigte mit anderen Vereinigung
 
 c)
 
-im Falle der Förderung nach Ziffer IV der Begünstigte Bauten und bauliche Anlagen innerhalb eines Zeitraumes von zwölf Jahren ab Fertigstellung (als Zeitpunkt der Fertigstellung gilt, wenn eine solche erfolgt ist, das Datum der Bauabnahme), Maschinen, Einrichtungen und technische Anlagen innerhalb eines Zeitraumes von fünf Jahren nach Abschluss des Vorhabens nicht mehr dem Zuwendungszweck entsprechend verwendet.
+im Falle der Förderung nach Ziffer IV der Begünstigte Bauten und bauliche Anlagen innerhalb eines Zeitraumes von zwölf Jahren ab Fertigstellung (als Zeitpunkt der Fertigstellung gilt, wenn eine solche erfolgt ist, das Datum der Bauabnahme), Maschinen, Einrichtungen und technische Anlagen innerhalb eines Zeitraumes von fünf Jahren sowie EDV-Ausstattungen innerhalb eines Zeitraums von drei Jahren jeweils nach Abschluss des Vorhabens nicht mehr dem Zuwendungszweck entsprechend verwendet.
 
 
 Ein entsprechender Widerrufsvorbehalt ist in den Zuwendungsbescheid aufzunehmen.
@@ -878,9 +878,9 @@ Fsn-Nr.: 5563-V15.14
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 15. September 2021
+Fassung gültig ab: 16. Februar 2022
 
-Fassung gültig bis: 15. Februar 2022
+Fassung gültig bis: 29. Juni 2023
 
 Drucken/Speichern
 
@@ -905,7 +905,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16242.6
+https://www.revosax.sachsen.de/vorschrift/16242.7
 Stand vom
 18.11.2026
 
