@@ -1,0 +1,61 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-02-16T15:00:00+01:00
+- Ende: 2022-02-16T17:23:00+01:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22320
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22320
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439630.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439630.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439630.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/008/2021 vom 17.11.2021 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 4: Beschluss Hochhausrahmenplan - Empfehlung einstimmig beschlossen
+- TOP 5: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses des Projektes "Gesamtschule Aldekerkstraße mit Dreifachsporthalle in der Aldekerkstraße 17-25" - Empfehlung einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Lohengrinstraße 18 - Beseitigung eines Wohnhauses im Geltungsbereich einer Erhaltungssatzung - mehrheitlich beschlossen
+- TOP 9: Kaiser-Friedrich-Ring 34 - Beseitigung eines Gebäudes im Geltungsbereich einer Erhaltungssatzung - mehrheitlich beschlossen
+- TOP 10: Kaiser-Friedrich-Ring 35 - Beseitigung eines Gebäudes im Geltungsbereich einer Erhaltungssatzung - einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Rück- oder Ausbau der Radhauptwege im Stadtbezirk 4, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 13: Schließung der B7 Abfahrt an der Benediktusstraße und Folgemaßnahmen, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 14: Welche Sperrungen des Rheinalleetunnels stehen noch an?, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 15: Verändert die rege Bautätigkeit der letzen Jahre den Charakter unseres linksrheinischen Stadtteils - halten Grün- und Sportflächen mit der Bevölkerungsentwicklung noch Schritt?, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 16: Entmietung Mehrfamilienhaus Leostraße 11, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 17: Schleichende Zulassung von Schleichverkehr in der Schanzenstraße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 18: Stillstand Baustelle Lotharstraße/Euskirchener Straße, Anfrage der Bezirksvertreterin Claudia Drossel - zur Kenntnis genommen
+- TOP 19: Parkraum schaffen durch Quartiersgaragen, Anfrage der CDU-Fraktion
+- TOP 20: Verkehrslärm Übergang B7 zur A52 Nähe Ökotop Heerdt - wann kommen die innovativen Konzepte?, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 21: Gibt es Möglichkeiten, dass das Verteillager an der Luegallee 5 unterbunden bzw. reguliert werden könnte?, Anfrage der
+- TOP 22: Luftfilteranlagen an linksrheinischen Schulen, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 23: Wo bleibt der Lärmschutz an der Brüsseler Straße?, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 24: Brückenerneuerung B7 ab der Schiessstraße, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 25: Lärmschutz an der B7 in Höhe des Ökotops, Anfrage der Bezirksvertreterin Claudia Drossel
+- TOP 26: Übertragung von Bezirksvertretungssitzungen, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE - zur Kenntnis genommen
+- TOP 27: Getränkehandel Benediktusstraße, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE
+- TOP 28: Außengastronomie auf Kfz-Stellflächen - zur Kenntnis genommen
+- TOP 29: Übergabe der Spielanlage auf dem Schulhof der Grundschule Salierstraße durch eine Schenkung des Verein der Freunde und Förderer der Don-Bosco-Montessori-Schule e.V., Salierstraße - einstimmig beschlossen
+- TOP 30: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2022 - einstimmig beschlossen
+- TOP 31: Zuschuss aus Mitteln der Bezirksvertretung 4 im Jahre 2022 - einstimmig beschlossen
+- TOP 32: Beschlusskontrolle der Bezirksvertretung 4 - zur Kenntnis genommen
+- TOP 33: Verkehrsplanung / Pendlerströme sinnvoll lenken - das linksrheinische Düsseldorf entlasten, Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 34: Begrünung und Wiederaufforstung im Stadtteil Heerdt - Bereich B7 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Liste B) Sonstige Gebäude - abweichend beschlossen
+- TOP 35: Endlich eine Sitzbank an der Bushaltestelle Barbarossaplatz ermöglichen, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 36: Bänke provisorisch wieder aufstellen im Heerdterhof-Garten, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 37: Jetzt Tempo 30 für die Düsseldorfer Straße, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 38: Auf- und Abfahrten am Brückenanschluss Heerdter Dreieck öffnen, Antrag der SPD-Fraktion - zurückgezogen
+- TOP 39: Unterhaltung von Grundstücken und baulichen anlagen im Stadtbezirk 4, Haushalt 2019 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 und Liste C) Förderung Dritter 1.10.11.111.05.001 53175400 Bauunterhaltungsmittel 2019 - zur Kenntnis genommen
+- TOP 40: Zwei Bänke zum Ausruhen in der Schiessstraße - zur Kenntnis genommen
+- TOP 41: Freigabe des Fußweges Krefelder Straße ab der Kreuzung Böhlerstraße in Richtung Nikolaus-Knopp-Platz für Radfahrende - zur Kenntnis genommen
+- TOP 42: Verkehrssituation in Heerdt nach Fertigstellung der Anschlussstelle Heerdter Lohweg - zur Kenntnis genommen
+- TOP 43: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 44: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
