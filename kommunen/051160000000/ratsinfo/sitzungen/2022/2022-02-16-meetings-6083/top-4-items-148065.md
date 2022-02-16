@@ -1,0 +1,8 @@
+# TOP 4: Die Zukunft der Hindenburgstraße: Von EinkaufsSTRAßE zu InnenstadtQUARTIER
+
+- Sitzung: Rat (2022-02-16)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/148065
+- Ergebnis: Mit Änderung beschlossen (s. Niederschrift)
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/31363
