@@ -1,0 +1,134 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2022-02-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6944703
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6944703
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Vorstellung der Stiftung "Daheim im Viertel"
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Rad- und Fußverkehr: Streuscheiben trennen
+- TOP 5.2.: Schulhöfe öffnen
+- TOP 5.3.: Prüfung eines Zuschusses oder Darlehens für Wohnungsgenossenschaften im Bereich des 5. Stadtbezirkes für die vom Stadtrat beschlossenen Klimaschutzprogramme
+- TOP 5.4.: Genderneutral einladen
+- TOP 5.5.: In Einladungen auf Stadtbezirksbudget hinweisen
+- TOP 5.6.: Lieferzonen in der Rosenheimer Straße sichtbarer markieren
+- TOP 5.7.: Parkbänke aufstellen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Ratsinformationssystem (RIS) – Papierlose Bezirksausschussarbeit Information zum neuen „RIS-Internet“ Einführung „RIS-Internet/ -Extranet-Basis“ für Bezirksausschüsse im Pilotbetrieb Einführung „RIS-Internet/ -Extranet persönlich“ für Bezirksausschussmitglieder Information zur Kooperationsplattform „Alfresco“
+- TOP 6.2.2.: Vorgaben des Stadtrats zur Konsolidierung des städtischen Haushalts; hier: Kürzung des Stadtbezirksbudgets in 2022
+- TOP 6.2.3.: Infoblatt 02/22
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 10.09.2022 1.500,00 €; Az. 0262.0-5-0366 vertagt in der Sitzung am 15.12.2021
+- TOP II.2.: dazu: Antwort Hidalgo zu Fragen des UA Kultur
+- TOP II.3.: (E) Stadtbezirksbudget Initiative „Varnam Salon“ Varnam Salon Deutschland (VSD) am 12.03.2022 1.190,00 € / Az. 0262.0-5-0378
+- TOP II.4.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür – PLAN B aus München für München von April bis November 2022 9.499,00 € / Az. 0262.0-5-0379
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Ermittlung des Standorts der Toilettenanlage im Hypopark
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: BA-Information des Sozialreferates zu Änderungen der Vorgaben des Vergabeermächtigungsbeschlusses von 2018 in Bezug auf die Bereitstellung/Betriebsführung von Beherbergungsbetrieben zur Unterbringung wohnungsloser Haushalte
+- TOP 3.2.: Mehrjahresinvestitionsprogramm 2021 – 2025, Maßnahmen im Bereich des Kommunalreferates Sitzungsvorlagen Nr. 20-26 / 04877 hier: Generalsanierung des Jugendtreffs in der Au
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Seniorenfreundliche Umgestaltung des Wohnumfelds um die Kugler-/Schneckenburgerstraße (Antrag Nr. 2)
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative Auer/Haidhauser Journal Stadtteil-Kulturmagazin Auer/Haidhauser Journal vom 01.04.2022 - 31.01.2023 2.500,00 €; Az. 0262.0-5-0372 vertagt in der Sitzung am 26.01.2022
+- TOP 1.2.: Erweiterung von bestehenden Freischankflächen (dauerhafte Parkplatzfreischankfläche): a) "Sushi-Cent", Schneckenburgerstr. 31 b) "Farmer & Lou", Breisacher Str. 6 c) "Zum Brünnstein", Elsässer Str. 36 d) "Wiesengrund", Elsässer Str. 22 e) "Ritzi", Maria-Theresia-Str. 2 a f) "Isardoro", Ismaninger Str. 48 g) "Thao", Lucile-Grahn-Str. 36 a h) "Pequeno", Lucile-Grahn-Str. 25 i) "El Perro", Belfortstr. 14 j) "L´Angolo", Breisacher Str. 30 k) "Asia", Einsteinstr. 133 l) "Jupiter & Bar", Einsteinstr. 119 m) "Burger House", Ismaninger Str. 5 n) "Belfort 7", Belfortstr. 7 o) "Nana Meze + Wine", Metzstr. 15 p) "Lollo Rosso Bar Grill", Milchstr. 1 q) "Pizzeria Europa due", Milchstr. 10 r) "Bar 360°", Orleansstr. 39 s) "Gino Parigi", Pariser Str. 17 t) "Eiscafe Venezia", Pariser Str. 29a u) "Spezlwirtschaft Haidhausen", Pariser Str. 34 v) "Safran", Steinstr. 79 w) "Xin Chao", Steinstr. 83 x) "Antica", Weissenburger Str. 27 y) "Nepal Haus", Weissenburger Str. 39 z) "Il Padrino", Kirchenstraße 44
+- TOP 1.3.: Erweiterung von bestehenden Freischankflächen (dauerhafte Parkplatzfreischankfläche UND Ausdehnung): a) "Le Faubourg", Kirchenstr. 5 b) "Taverna Paros", Kirchenstr. 27 c) "Herat", Kirchenstr. 62 d) "Escobar", Breisacher Str. 19
+- TOP 1.4.: Erweiterung von bestehenden Freischankflächen (Ausdehnung): a) "Kai´s Kitchen", Einsteinstr. 50 b) "Allegro", Einsteinstr. 143 c) "Huong Que", Ismaninger Str. 27 d) "z´wein", Johannisplatz 11 e) "Vivo", Lothringerstr. 11 f) "metz7", Metzstr. 7 g) "Schwarzer Hahn", Ohlmüllerstr. 8 h) "Seral Feinkost", Orleansplatz 3 i) "servabo", Pariser Str. 15 j) "Dilo", Pariser Str. 19 k) "El Espanol", Pariser Str. 46 l) "Zum roten Knopf", Steinstr. 63 m) "Spoon up", Weissenburger Platz 5 n) "Weinhäusl", Wiener Platz 4
+- TOP 2.: Anhörungen
+- TOP 2.1.: Betrieb einer Hundeschule in den Frühlingsanlagen Ecke Humboldtstraße / Claude-Lorrain-Straße Fristverlängerung bis 17.02.2022
+- TOP 2.2.: Vorschläge für Flächen für „München tanzt wieder!; Anhörung des Sozialreferats
+- TOP 2.3.: Veranstaltung "Cocuk Bayrami" am 24.04.2022 auf der Postwiese
+- TOP 2.4.: Antrag auf Veranstaltung des Bayernmarktes auf dem Mariahilfplatz vom 20.08.-04.09.2022
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Keine Genehmigung mehr für den Kulturstrand an der Corneliusbrücke
+- TOP 3.2.: Nutzung der Räume im Unionsbräu Antwort GWG zum Schreiben BA 5
+- TOP 3.3.: Information mit Innovation - Modernisierung der Werbeflächen an der Unterführung Rosenheimer Straße / Ecke Orleansstraße
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Nockherstr. 2-4: Änderung der Rettungswegsystematik
+- TOP 2.2.: Humboldtstr. 23: Nutzungsänderung vom Sonnenstudio in einen Bio-Markt
+- TOP 2.3.: Milchstr. 13: Abriss und Neuerrichtung des bestehenden Anbaus mit vergrößerten Abmessungen und Terrassenaufbau
+- TOP 2.4.: Lilienstr. 83: Wohnbebauung, Vorbescheid
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 3.2.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 3.5.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.6.: Rückantwort der LBK zu Stellungnahmen BA 5: a) Trogerstr. 12 b) Einsteinstr. 96 / Lucile-Grahn-Str. 23
+- TOP 3.7.: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 3.8.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Anfrage Zirkuläres Bauen
+- TOP VI.: UA Mobilität
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Austausch mit Green Circle Logistics zum Thema Citylogistik vertagt in der Sitzung am 26.01.2022
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Anwohner*innenparken Prinzregententheater; Antrag Bündnis 90/Die Grünen vertagt in der Sitzung am 26.01.2022
+- TOP 2.: Anhörungen
+- TOP 2.1.: Radschnellverbindungen in München und Umland
+- TOP 2.2.: Straßenfläche vor Kirchenstr. 3-7: entsiegeln und nutzen
+- TOP 2.3.: Errichtung eines personenbezogenen Behindertenparkplatzes im Bereich Franziskanerstr. 9
+- TOP 2.4.: Endgültige Entscheidung über den Beschluss des BA vom 22.07.2020: Keine Verlängerung des Pachtvertrages am Parkplatz des Mariahilfplatzes Empfehlung Nr. 14-20 / E 02472 der Bürgerversammlung des Stadtbezirkes 05 -Au-Haidhausen am 21.02.2019 und Kostenlose Nutzung des Parkplatzes am Mariahilfplatz für Anwohner Empfehlung Nr. 14-20 / E 03182 der Bürgerversammlung des Stadtbezirkes 05 -Au-Haidhausen am 30.01.2020 - Schreiben RAW vom 27.01.2022 -
+- TOP 2.5.: Rückbau Gehbahnparken in der Hochstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Verkehrsrechtliche Anordnungen a) Seeriederstraße 26; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze und Lastenradstellplätze (Pilotversuch) b) Sanierung der Ludwigsbrücken von 26.01.-16.12.2022
+- TOP 3.3.: Personalaufstockung bei der Kommunalen Verkehrsüberwachung
+- TOP 3.4.: Gehweg in der Hackländerstraße den Fußgänger*innen zurückgeben Zwischenmitteilung vom 27.01.2022
+- TOP 3.5.: Beeinträchtigungen an der Einsteinstraße Ecke Lucile-Grahn-Straße Antwort KVÜ zum Schreiben BA 5
+- TOP 3.6.: Errichtung von Fahrradabstellmöglichkeiten an der Senftlstr. 1a
+- TOP 3.7.: Umwandlung Pkw-Parkplatz zur Fahrradabstellfläche vor Kinderarztpraxis in der Kolumbusstr. 11
+- TOP 3.8.: Ortstermin Pestalozzigymnasium
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Überhöhte Geschwindigkeit in der Oefelestraße / Rechtswidriges Linksabbiegen an der Kreuzung Humboldt-/Pilgersheimerstraße
+- TOP 4.2.: Tempo 30 für Giesinger Berg
+- TOP 4.3.: Gefährdung von Fussgängern an der Ampel Humboldtstraße
+- TOP 4.4.: Radweg Franziskanerstraße
+- TOP 4.5.: Parksituation Trompetenbrunnen bei GEMA (Privatgrund)
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Priorisierung der Mobilitätsprojekte im BA 5 für das MOR
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Grundsatzbeschluss II Klimaneutrales München 2035 und klimaneutrale Stadtverwaltung 2030: Von der Vision zur Aktion
+- TOP 3.2.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 3.3.: Fällungsgenehmigung Steinstr. 65
+- TOP 3.4.: Fällung von neun Bäumen am Leuchtenbergring / Einsteinstraße wegen Fernwärmearbeiten der Stadtwerke
+- TOP 4.: Bürgeranliegen
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 07.03.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 07.03.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 08.03.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 09.03.2022, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 09.03.2022, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 10.03.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Videokonferenz statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 16.03.2022, 19.00 Uhr, Saal X, Gasteig HP8, Hans-Preißinger-Straße 8 BA-Vorstand, Dienstag, 01.03.2022, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Auswertung des BA-internen Vergabeverfahrens mittels Formblatt "Detailauskunft" für das Budget 2021
+- TOP 5.2.: Vorratsbeschluss über Hybrid-Sitzungen
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - A-Teil, 5.8: Sportanlage und Hausmeisterhäuschen Grütznerstraße - UA Wirtschaft, TOP 1.2 o) - z): Freischankflächenanträge - UA Wirtschaft, TOP 1.4 d) - n): Freischankflächenanträge - UA Mobilität, TOP 2.4: Endgültige Entscheidung über 2 Bürgerversammlungsempfehlungen - UA Mobilität, TOP 2.5: Rückbau Gehbahnparken in der Hochstraße - UA Mobilität, TOP 3.8: Ortstermin Pestalozzigymnasium - UA Mobilität, TOP 4.4: Radweg Franziskanerstraße - UA Mobilität, TOP 4.5: Parksituation Trompetenbrunnen bei GEMA - C 5.2: Vorratsbeschluss über Hybrid-Sitzungen
+- TOP 5.8.: Sportanlage und Hausmeisterhäuschen Grütznerstraße dazu: Protokoll Ortsbegehung vom 16.02.2022
