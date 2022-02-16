@@ -1,0 +1,51 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2022-02-16T17:00:00+01:00
+- Ende: 2022-02-16T20:12:00+01:00
+- Ort: Eurogress Aachen
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4707
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4707
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Bericht über die pandemische Lage
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 10.11.2021 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Haushaltsplanberatungen einschließlich Stellenplan:
+- TOP 5.1: Haushaltsreden
+- TOP 5.2: Stellenplan 2022 und Entwicklung der Personal- und Versorgungsaufwendungen 2022 - ungeändert beschlossen
+- TOP 5.2.1: Stellenplan 2022 und Entwicklung der Personal- und Versorgungsaufwendungen 2022 -Ergänzungsvorlage - ungeändert beschlossen
+- TOP 5.3: Haushaltsplanberatungen 2022 - ungeändert beschlossen
+- TOP 6: Bedarfsplanung für die Kindertagesbetreuung in der Stadt Aachen für das KiTa-Jahr 2022/2023 - ungeändert beschlossen
+- TOP 7: Bebauungsplan - Eisenbahnweg / Philipsstraße - zwischen Eisenbahnweg, Hüttenstraße und Philipsstraßehier: 1.Aufstellungsbeschluss2.Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich Eisenbahnweg / Philipsstraße - ungeändert beschlossen
+- TOP 8: Bebauungsplan - Eisenbahnweg / Freunder Weg -hier: 1.Aufhebungsbeschluss Aufstellungsbeschluss A 1492.Aufhebungsbeschluss Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich zwischen Trierer Straße, Freunder Weg und Eisenbahnweg - ungeändert beschlossen
+- TOP 9: Neufassung der Satzung zum Schutz und Erhalt von Wohnraum in Aachen (Wohnraumschutzsatzung) - ungeändert beschlossen
+- TOP 10: Seniorenratswahlen 2022 – Änderung der Wahlordnung - ungeändert beschlossen
+- TOP 11: Umgang mit Mikroapartments - zurückgezogen
+- TOP 12: Anfragen:
+- TOP 12.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 12.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 13: Ratsanträge - ungeändert beschlossen
+- TOP 14: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 14.1: Umbesetzungsantrag der Fraktion DIE Zukunft vom 03.02.2022 - ungeändert beschlossen
+- TOP 14.2: Umbesetzungsantrag der Fraktion DIE Zukunft vom 15.02.2022 - ungeändert beschlossen
+- TOP 14.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 14.02.2022 - ungeändert beschlossen
+- TOP 15: Mitteilungen der Verwaltung
+- TOP 16: Resolution zur drohenden Standortschließung der Bezirksregierung Köln - Erhalt der Arbeitsplätze in Aachenhier: Gemeinsamer Tagesordnungsantrag der Fraktionen von SPD, DIE Zukunft und DIE LINKE vom 02.02.2022 - zurückgezogen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
