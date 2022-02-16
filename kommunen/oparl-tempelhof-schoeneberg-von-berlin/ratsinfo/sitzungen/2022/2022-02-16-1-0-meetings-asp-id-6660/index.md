@@ -1,0 +1,77 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2022-02-16T17:00:00+01:00
+- Ende: 2022-02-16T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6660
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6660
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=395641
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Wahl von Beisitzern und stellvertretenden Beisitzern für den Vorstand der BVV gem. § 11 Abs. 5 Geschäftsordnung der BVV - in der BVV abgelehnt
+- TOP 3.2: Wahl der Bürgerdeputierten im Ausschuss für Partizipation und Integration - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Antrag auf Einwohnerversammlung gem. § 42 BezVG - betr.: Grünfläche Beyrodtstraße/Welterpfad/Kaiseralle - Nachverdichtung Anwohnergerecht gestalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.4: Besetzung einer/s Bürgerdeputierten als beratendes Mitglied und in Vertretung im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 7 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Besetzung einer/s Bürgerdeputierten als beratendes Mitglied und in Vertretung im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 3 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Benennung eines Bezirksverordneten als Mitglied und in Stellvertretung in den Kulturbeirat - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 5: Protokollgenehmigung - im Ausschuss abgelehnt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Unerledigte Beschlüsse der Bezirklsverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XX. Wahlperiode - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - im Ausschuss abgelehnt
+- TOP 8.1: Wie wertschätzen wir unsere Partnerschaftsstädte? - beantwortet
+- TOP 8.2: Großsiedlung am Stadtrand ohne Lobby vernachlässigt? - beantwortet
+- TOP 8.3: Vorkaufsrecht im Milieuschutzgebiet - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl der Sozialkommissions-/Sondersozialkommissionsmitglieder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Verkehrssicherheit auf dem Innsbrucker Platz nach schwerem Unfall herstellen - vertagt
+- TOP 10.2: Keine Radspur am Mariendorfer Damm ohne Bürgerbeteiligung - vertagt
+- TOP 10.3: Baumfällung durch Neubau – frühzeitige Information des Stadtentwicklungsausschuss bei Antragstellung - überwiesen
+- TOP 10.4: Schulanmeldung online - überwiesen
+- TOP 10.5: Aufhebung der Tempo-30-Anordnung wegen Luftreinhaltung in Tempelhof-Schöneberg - vertagt
+- TOP 10.6: Radzählstellen für neue Radwege - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Keine Fahrradstraße ohne Bürgerbeteiligung – Kritik der Bürger am Wegfall von Parkplätzen ernstnehmen - überwiesen
+- TOP 10.8: Bautzener Straße: Mehr Sicherheit für Rad- und Fußverkehr schaffen - überwiesen
+- TOP 10.9: Betriebskindergarten für die Bezirksverwaltung - vertagt
+- TOP 10.10: Umweltverbund stärken - Bussonderspuren und auch Radspuren an der Hauptstraße und Rheinstraße einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.11: Die Badensche Straße soll schöner werden - überwiesen
+- TOP 10.12: Ombudsstelle für Tempelhof-Schöneberg einrichten - überwiesen
+- TOP 10.13: Hitzehilfe für Tempelhof-Schöneberg - vertagt
+- TOP 10.14: Neuauflage des Wohnungsneubauberichts für den Bezirk Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Radwegeausbau gemeinsam mit SenUMVK angehen und beschleunigen - vertagt
+- TOP 10.16: Kopfsteinpflaster in der Ebersstraße: Gefährdung des Radverkehrs mindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.17: Angebot an Duschmobilen ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Rathaus ohne Barrieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Winterschäden beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Haus am Kleistpark aufblühen lassen - überwiesen
+- TOP 10.21: Frauen im Bezirk sichtbar machen! – Namensliste aktualisieren! - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Flächendeckende Anbringung von Pfandflaschenhalterungen – für ein würdevolles Miteinander und sauberes Straßenbild - vertagt
+- TOP 10.23: Bürger*innen über ihre Sportmöglichkeiten im Bezirk informieren - überwiesen
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Festsetzung des Bebauungsplans XI-231aba für die Verbreiterung (teilweise) der Ella-Barowsky-Straße zwischen der westlichen Grenze des Grundstücks Ella-Barowsky-Straße 9 und Wilhelm-Kabus-Straße, einschließlich des Grundstücks Gotenstraße 49 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Klimaschutz in der Stadtentwicklung: CO2 Einsparungen bei geplanten Bauvorhaben berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sicher zur Schule in der Ebersstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Erledigung offener Drucksachen aus der XX. WP - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Ergänzung der Geschäftsordnung § 29a - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Änderung der Geschäftsordnung der BVV Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 13.2: Einstellung des Vorhabenbezogenen Bebauungsplanverfahrens 7-72VE Hauptstraße 162 / Willmanndamm 22 - überwiesen
+- TOP 13.3: Mehr Unterstützung für das Archiv und die Sammlung der Museen Tempelhof-Schöneberg II - überwiesen
+- TOP 13.4: Naturschutzrechtliche Unterschutzstellung der östlichen Flächen des ehemaligen Rangierbahnhofs Tempelhof – Erweiterung und Weiterentwicklung des Naturparks Schöneberger Südgelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Die Kiezsäule als Info-Hotspot - überwiesen
+- TOP 13.6: Ein Nachschlag für Dora Duncker - überwiesen
+- TOP 13.7: Beitritt des Bezirksamts zur Deklaration #positivarbeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Beschluss des Kulturbeirates des Bezirks Tempelhof-Schöneberg - überwiesen
+- TOP 14: Termin der nächsten Sitzung - im Ausschuss abgelehnt
