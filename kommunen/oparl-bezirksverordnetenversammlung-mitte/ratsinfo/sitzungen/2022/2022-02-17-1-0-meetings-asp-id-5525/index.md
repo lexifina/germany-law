@@ -1,0 +1,121 @@
+# 5. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2022-02-17T17:30:00+01:00
+- Ende: 2022-02-17T23:08:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5525
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5525
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=526618
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - mit Änderungen im Ausschuss beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Leerstände im Bezirk - beantwortet
+- TOP 2.2: Leerstehende Häuser im Bezirk - beantwortet
+- TOP 2.3: Photovoltaik-Anlagen im Bezirk - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Giffeys Einschätzung zum Verkehrsversuch Friedrichstraße - beantwortet
+- TOP 7.2: Bau des Spreeradweges: Öffentlichkeit angemessen informieren - beantwortet
+- TOP 7.3: Berücksichtigung der Teuerungsrate in der Haushaltsplanung? - beantwortet
+- TOP 7.4: Wieder kein Anschluss unter dieser Nummer – Bücherbox vor dem Rathaus Tiergarten ermöglichen - schriftlich beantwortet
+- TOP 7.5: Mobilitätsgesetz umsetzen und Schulwegsicherheit garantieren - schriftlich beantwortet
+- TOP 7.6: Baumfällungen in der Holzmarktstraße 66 – Wie konnte das genehmigt werden? - schriftlich beantwortet
+- TOP 7.7: Wie lange bleibt der Spielplatz noch zu? - schriftlich beantwortet
+- TOP 7.8: Illegaler Sperrmüll im Bezirk - schriftlich beantwortet
+- TOP 7.9: Klimaschutz durch EnergieSparContracting (ESC) - Energieverbrauch und CO2 Emissionen von öffentlichen Gebäuden des Bezirks zeitnah und effizient senken - schriftlich beantwortet
+- TOP 7.10: Neue Räumlichkeiten für FrauSuchtZukunft? - schriftlich beantwortet
+- TOP 7.11: Wie weiter an der Charlotte-Pfeffer-Schule? - schriftlich beantwortet
+- TOP 7.12: Lieferdienste in Berlin Mitte - schriftlich beantwortet
+- TOP 7.13: Stand der Instrumente für eine sozial gerechte Verteilung der Haushaltsmittel - schriftlich beantwortet
+- TOP 7.14: Zukunft der Levetzowstr. 3-5 - schriftlich beantwortet
+- TOP 7.15: Aktueller Sachstand: DS 2596/V - schriftlich beantwortet
+- TOP 7.16: Zielvereinbarungen des Bezirks mit dem Senat - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Abriss und Leerstand - ist das Bezirksamt auf allen Augen blind? - beantwortet
+- TOP 8.2: Doppelhaushalt 2022-2023 – Quo Vadis Mitte - schriftlich beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Bau des Spreeradweges in Berlin Mitte im Abschnitt Paulstraße/Lutherbrücke bis zur Bezirksgrenze Charlottenburg-Wilmersdorf (Wullenwebersteg) - beantwortet
+- TOP 9.2: Radfahren in Mitte - schriftlich beantwortet
+- TOP 9.3: Lieferdienst im Baudenkmal - schriftlich beantwortet
+- TOP 9.4: Bezirklichen Gebäudeleerstand ermitteln, baulichen Zustand evaluieren und einer gemeinwohlorientierten Nutzung zuführen.gemeinwohlorientierten Nutzung zuführen - schriftlich beantwortet
+- TOP 9.5: Zeitgemäße Bewertung der tariflichen Eingruppierungsmerkmale im Bez.Dienst Mitte – Vergütungsnachteile der Bezirke beenden - schriftlich beantwortet
+- TOP 9.6: Café Leo – Was gilt? - schriftlich beantwortet
+- TOP 9.7: Mitte wächst an der Kurfürstenstraße, was sind die Folgen? - schriftlich beantwortet
+- TOP 9.8: Grünanlagen in Mitte - schriftlich beantwortet
+- TOP 9.9: Fabrik Osloer Straße, was wird gefördert? - schriftlich beantwortet
+- TOP 9.10: Diesterweg Gymnasium – Ein Weg aus der Sackgasse? - schriftlich beantwortet
+- TOP 9.11: Borsigstraße 24/25: Heimstaden lässt die Bäume fallen – was tut das Bezirksamt? - schriftlich beantwortet
+- TOP 9.12: Den Kinderspielplatz am Oswald-Schumann-Platz/Altonaer Straße den Kindern wieder zurückgeben - schriftlich beantwortet
+- TOP 9.13: Sauberkeit im Pankepark - schriftlich beantwortet
+- TOP 9.14: Neubau der Grundschule Adalbertstrasse 53 - schriftlich beantwortet
+- TOP 9.15: Geflüchte in ASOG Unterkünftigen im Bezirk Mitte - schutzlos ausgeliefert? - schriftlich beantwortet
+- TOP 9.16: Wie weit ist der „Masterplan Barrierefreiheit“ im Bezirk Mitte? - schriftlich beantwortet
+- TOP 9.17: Nachfrage zur Vorlage zur Kenntnisnahme Drucksache 2751/V Mobile "Luftfilter für Mittes Schulen" - schriftlich beantwortet
+- TOP 9.18: Bau des Spreeradweges in Berlin Mitte - schriftlich beantwortet
+- TOP 9.19: Merkansatz Solidarisches Grundeinkommen oder die normative Kraft des Faktischen? - schriftlich beantwortet
+- TOP 9.20: Wie erfolgreich war das Projekt „Schulimpfungen“ im Bezirk? - schriftlich beantwortet
+- TOP 9.21: Verkehrsberuhigung durch Kiezblöcke I - schriftlich beantwortet
+- TOP 9.22: Verkehrsberuhigung durch Kiezblöcke II - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Verfahren zur Findung der Bürgerdeputierten für den Ausschuss für Integration - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Wahl von Bürgerdeputierten und stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Wahl von stellv. Bürgerdeputierten Fraktion BÜNDNIS 90/DIE GRÜNEN - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Mehr Geld und Stellen für das Sozial- und Bürgeramt! - überwiesen
+- TOP 13.4: Wahl von Bürgerdeputierten und Stellvertretern - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Baustopp des Spreeradwegs - in der BVV abgelehnt
+- TOP 13.6: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Mehr Anerkennung fürs Ehrenamt – Aufwandsentschädigung für ehrenamtlich Tätige im Bezirk - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Bürgerbeteiligung Baumaßnahmen Spree-Uferwände - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Hundeauslaufgebiete - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Das Schul-Umwelt-Zentrum Mitte mit seinen Gartenarbeitsschulen arbeitsfähig halten - überwiesen
+- TOP 14.4: Wünsche der Bürger:innen am Magdeburger Platz umsetzen - überwiesen
+- TOP 14.5: Haushaltsplanbeschluss 2022/2023 - überwiesen
+- TOP 14.6: Verkehrsversuch Friedrichstraße beenden und komplett neu auflegen - in der BVV abgelehnt
+- TOP 14.7: Schulwegsicherheit erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Tegeler Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Auflagenbeschluss zum Haushalt 2022-2023 - überwiesen
+- TOP 14.10: Plätze und öffentlicher Raum brauchen Ordnung - in der BVV abgelehnt
+- TOP 14.11: Kiezblock Auguststraße – sichere Straßen ohne Durchgangsverkehr - vertagt
+- TOP 14.12: Cafe Leo vollständig erhalten! - vertagt
+- TOP 14.13: Menschenwürdiger Wohnraum statt jahrelanger Notunterkunft - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Helga Hahnemann wie versprochen ehren! - überwiesen
+- TOP 14.15: Verkehrsüberwachungsdienst verstetigen - überwiesen
+- TOP 14.16: Erneute Prüfung der Eigenreinigung bezirklicher Schulgebäude - überwiesen
+- TOP 14.17: Spiel- und Trainingszeiten in unserem Bezirk sicherstellen! - überwiesen
+- TOP 14.18: 77 Jahre nach der Befreiung vom Nationalsozialismus und dem Ende des zweiten Weltkrieges – dem Tag der Befreiung angemessen im Bezirk gedenken - vertagt
+- TOP 14.19: Beachtung der Bedarfe des sozialen und kulturellen Sektors bei Erarbeitung eines Wirtschaftsflächenkonzepts in Mitte - überwiesen
+- TOP 14.20: Kein Abriss von 140 Wohnungen in der Tegeler Straße! - ohne Änderungen in der BVV beschlossen
+- TOP 14.21: Zweckentfremdung transparent machen! - überwiesen
+- TOP 14.22: Die Barrierefreiheit im Rathaus Tiergarten durch eine durchgehende Rampe herstellen! - überwiesen
+- TOP 15: Entschließungen - (offen)
+- TOP 15.1: Kein Platz für Rechtsextreme in unserem Bezirk - vertagt
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Arbeitsgruppe zur Bekämpfung von Sozialbetrug durch Vielehe - in der BVV abgelehnt
+- TOP 16.2: Wedding: Rathausvorplatz für alle II - vertagt
+- TOP 16.3: Die Gastronomie in der Pandemie unterstützen – Schankgärten offen halten - überwiesen
+- TOP 16.4: Denkmal „Wohnungslose Bühne - vertagt
+- TOP 16.5: Sichere Wege und ausreichender Denkmalschutz, auch im Großen Tiergarten - vertagt
+- TOP 16.6: Planung der Sicherstellung von Hallenzeiten für 2022/ 2023 jetzt schon beginnen - ohne Änderungen in der BVV beschlossen
+- TOP 16.7: Gesundheitsversorgung für alle Menschen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Grünanlage an der Panke schützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.2: Rathenower Straße 23- Baustopp jetzt! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Grauflächenamt im Brüsseler Kiez - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.4: Sozial gerechten und gemeinwohlorientierten Wohnraum in der Habersaathstraße dauerhaft sicherstellen - vertagt
