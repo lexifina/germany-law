@@ -1,0 +1,7 @@
+# TOP 1: Informationen und Bekanntgaben des 1. Bürgermeisters
+
+- Sitzung: Sitzung des Gemeinderates (2022-02-17)
+- Körperschaft: Gemeinde Petershausen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Gemeinde-Petershausen/agendaitems/12032
+- Ergebnis: zur Kenntnis genommen
