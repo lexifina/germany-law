@@ -1,0 +1,7 @@
+# TOP 9.1: Erwerb einer Grundstücksfläche in der Ortschaft Kleinendorf
+
+- Sitzung: Bau- und Planungsausschuss (10. Sitzung) (2022-02-17)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/25884
+- Ergebnis: Zurückverwiesen
