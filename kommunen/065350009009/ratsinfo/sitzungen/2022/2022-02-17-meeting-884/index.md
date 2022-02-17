@@ -1,0 +1,61 @@
+# Stadtverordnetenversammlung der Stadt Homberg (Ohm) (15. Sitzung)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Beginn: 2022-02-17T20:00:00+01:00
+- Ende: 2022-02-17T23:10:00+01:00
+- Ort: Walter-Seitz-Halle Homberg (Ohm), Stadthallenweg 12, 35315 Homberg (Ohm), Stadthallenweg 12
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/tops/?__=UGhVM0hpd2NXNFdFcExjZUT93wqd4GY3MOJ3XwyqrbA
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/884
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRkoBDLS4rc70on1v6ZFyyoqdvY45kB6DgVMBMCj8qGt/Bekanntmachung_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_17.02.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWfV4V2lKepfRJ9lGaqhAXDSfedVQsQ9exoxPxxiMcg3/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_17.02.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Eröffnung und Begrüßung
+- TOP 2.: Feststellung der Ordnungsmäßigkeit der Ladung und der Beschlussfähigkeit, Einwendungen gegen die Tagesordnung
+- TOP 3.: Bericht der Bürgermeisterin aus der Arbeit des Magistrats
+- TOP 4.: Anfragen
+- TOP 5.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 08.12.2021
+- TOP 6.: Fortschreibung Regionalplan Mittelhessen RPM 2021 - Entwurf zur Beteiligung 2022 - (kein Text vorhanden)
+- TOP 7.: Grundstückskaufvertrag für den Bauplatz in der Gemarkung Gontershausen, Flur 1, Flurstück 11/14, Am Ortsring 14 - (kein Text vorhanden)
+- TOP 8.: Vermietung der Räumlichkeiten Marktstraße 23, 2. Obergeschoss - (kein Text vorhanden)
+- TOP 9.: Vermietung einer Wohnung im Gebäude An der Stadtkirche 19, 1. OG links - (kein Text vorhanden)
+- TOP 10.: Vermietung einer Wohnung im Gebäude An der Stadtkirche 19, 2. OG rechts - (kein Text vorhanden)
+- TOP 11.: Satzungsrecht der Stadt Homberg (Ohm) Aufhebung der Satzung zur Bildung eines Seniorenbeirats - (kein Text vorhanden)
+- TOP 12.: Satzungsrecht der Stadt Homberg (Ohm) Entwässerungssatzung der Stadt Homberg (Ohm) - (kein Text vorhanden)
+- TOP 13.: Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2022 - (kein Text vorhanden)
+- TOP 14.: Antrag des Internationalen Bundes vom 02.02.2021 auf Erhöhung der Zuwendung der Stadt Homberg (Ohm) für das Ganztagsangebot an der Grundschule Homberg - (kein Text vorhanden)
+- TOP 15.: 227. Vergleichende Prüfung „Ordnungsbehörden II“ - (kein Text vorhanden)
+- TOP 16.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Schadenbach Bebauungsplan „Am Bornweg“ Entwurfs- und Offenlegungsbeschluss gemäß § 3 Abs. 2 i.V.m. § 4 Abs. 2 BauGB - (kein Text vorhanden)
+- TOP 17.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Schadenbach Änderung des Flächennutzungsplanes im Bereich des Bebauungsplanes „Am Bornweg“ Entwurfs- und Offenlegungsbeschluss gemäß § 3 Abs. 2 i.V.m. § 4 Abs. 2 BauGB - (kein Text vorhanden)
+- TOP 18.: Antrag der Grünen-Fraktion auf Sicherstellung von externen Stromversorgungen system-relevanter Gebäude und Anlagen im Rahmen eines Sicherheitskonzeptes - (kein Text vorhanden)
+- TOP 19.: Antrag der Grünen-Fraktion auf Erstellung von Starkregengefahrenkarten für die Großgemeinde Homberg (Ohm) - (kein Text vorhanden)
+- TOP 20.: Antrag der SPD-Fraktion auf Prüfung der Machbarkeit der Südanbindung des Gewerbe- und Industriegebietes (INO) an die L 3073 - (kein Text vorhanden)
+- TOP 21.: Antrag der Fraktion Bürgerforum zur Vorlage aller Aufstellungsbeschlüsse im Rahmen der Bauleitplanung durch den Magistrat - (kein Text vorhanden)
+- TOP 22.: Antrag der Fraktion Bürgerforum zur Erstellung einer Fließpfadkarte und einer Starkregen-Gefahrenkarte - (kein Text vorhanden)
+- TOP 23.: Antrag der Fraktion Bürgerforum betreffend Bundesprogramm „Vor Ort für Alle“ für die Stadt- und Schulbibliothek Homberg (Ohm) - (kein Text vorhanden)
+- TOP 24.: Antrag der Fraktion Bürgerforum betreffend umgehende Vorlage des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2022 durch den Magistrat - (kein Text vorhanden)
+- TOP 25.: Antrag GRÜNEN-Fraktion – Eilantrag Beteiligung der Stadtverordnetenversammlung an der Stellungnahme zum Regionalplan Mittelhessen - (kein Text vorhanden)
+- TOP 26.: Antrag Fraktion BÜRGERFORUM – Dringlichkeits-Antrag betreffend Stellungnahme der Stadt Homberg (Ohm) zum Entwurf des Regionalplan Mittelhessen - (kein Text vorhanden)
+- TOP 27.: Antrag der Fraktion BÜRGERFORUM betreffend Verkehrsregelung in der Innenstadt - (kein Text vorhanden)
+- TOP 28.: Antrag Fraktion BÜRGERFORUM betreffend Verbesserung der Parksituation im Bereich der Seniorenresidenz „Goldborn“ - (kein Text vorhanden)
+- TOP 29.: Antrag der Fraktion BÜRGERFORUM betreffend Überprüfung der Verkehrssituation am Kreisel - (kein Text vorhanden)
+- TOP 30.: Antrag der Fraktion BÜRGERFORUM zur Beratung der jährlichen Waldwirtschaftspläne - (kein Text vorhanden)
+- TOP 31.: Beantragung Bundesprogramm Zukunftsfähige Innenstädte und Zentren - (kein Text vorhanden)
+- TOP 32.: Aufsichtsbehördliche Genehmigung der 1. Nachtragssatzung 2021 der Stadt Homberg (Ohm) - (kein Text vorhanden)
+- TOP 33.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Maulbach Änderung des Flächennutzungsplanes im Bereich des BP „In den Gernwiesen“ Entwurfs- und Offenlegungsbeschluss gemäß § 3 Abs. 2 BauGB - (kein Text vorhanden)
+- TOP 34.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Maulbach Bebauungsplan „In den Gernwiesen“ Entwurfs- und Offenlegungsbeschluss gemäß § 3 Abs. 2 BauGB
+- TOP 35.: Windenergie Erbenhausen – Erste Ergänzung zum Nutzungsvertrag Repowering Windpark Erbenhausen
+- TOP 36.: Vertrag zur finanziellen Beteiligung von Kommunen an Windenergieanlagen mit der HessenEnergie Gesellschaft für rationelle Energienutzung mbH für den Windpark Erbenhausen (Repowering)
+- TOP 37.: Änderung der Geschäftsordnung für die Stadtverordnetenversammlung und die Ausschüsse der Stadt Homberg (Ohm)
+- TOP 38.: Widerspruch der Stadtverordneten Jutta Stumpf gegen die Wahl des Stadtverordnetenvorstehers in der Sitzung der Stadtverordnetenversammlung am 29.04.2021
+- TOP 39.: Widerspruch des Stadtverordneten Eckhard Hisserich gegen die Wahl des Stadtverordnetenvorstehers in der Sitzung der Stadtverordnetenversammlung am 29.04.2021
+- TOP 40.: Antrag der Fraktion Bürgerforum auf öffentliche Darstellung der Informationen des Rechtsanwalts Matthias Möller-Meinecke im Zuge des Baus der A 49
+- TOP 41.: Antrag der Fraktion BÜRGERFORUM betreffend Rechtsstreit juwi AG ./. Stadt Homberg (Ohm)
+- TOP 42.: Antrag der CDU-Fraktion auf Ergänzung der Vereinsförderrichtlinien der Stadt Homberg (Ohm) vom 22.11.2017
+- TOP 43.: Antrag Fraktion BÜRGERFORUM betreffend Durchführung eines Bürgerentscheides (Vertreterbegehren) hinsichtlich einer Reaktivierung der Ohmtalbahn
+- TOP 44.: Antrag Fraktion BÜRGERFORUM betreffend Vorlage des Vertrages zur Überwachung der Feldwege zwischen der Stadt Homberg (Ohm) und Exact Security
