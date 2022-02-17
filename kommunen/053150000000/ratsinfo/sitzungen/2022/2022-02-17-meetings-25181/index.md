@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-02-17T16:17:00+01:00
+- Ende: 2022-02-17T17:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25181
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25181
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der FDP-Fraktion betreffend formale und auditierte Managementprozesse - Sache ist erledigt
+- TOP 1.1.1: Beantwortung der Anfrage - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke betreffend Erfassung der Luftqualität im Kölner Norden - zurückgestellt
+- TOP 2.1.1: Stellungnahme zum Antrag (AN/1729/2021) der Fraktion Die Linke zur Erfassung der Luftqualität im Kölner Norden - zurückgestellt
+- TOP 2.2: Antrag der Fraktion Die Fraktion betreffend Erstellung Vorgartensatzung - endgültig abgelehnt
+- TOP 2.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Gemeinsamer Antrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt betreffend Schutz von Straßenbäumen - ungeändert beschlossen
+- TOP 2.4: Gemeinsamer Antrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt betreffend Naturschutzwachte stärken - ungeändert beschlossen
+- TOP 2.5: Gemeinsamer Antrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt betreffend Beschaffung von Allee-, Obst- und Forstbäumen - ungeändert beschlossen
+- TOP 2.5.1: Änderungsantrag der Fraktion Die Linke zu TOP 2.5 betreffend Beschaffung von Allee-, Obst- und Forstbäumen - endgültig abgelehnt
+- TOP 2.6: Gemeinsamer Antrag der Fraktionen DIE LINKE. DIE FRAKTION und der Klimafreunde betreffend Erfassung der Flächenversiegelung - zurückgestellt
+- TOP 2.6.1: Gemeinsamer Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt betreffend Erfassung der Flächenversiegelung - zurückgestellt
+- TOP 2.7: Antrag der Fraktion DIE LINKE betreffend Grünhandbuch Köln - transparent und zugänglich machen, um "essbare Pflanzen" ergänzen - Sache ist erledigt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Fortschreibung der Richtlinie "Gebäudesanierung und Erneuerbare Energien - klimafreundliches Wohnen" - zurückgestellt
+- TOP 3.2: Leitlinien zum Klimaschutz in der Umsetzung nicht-städtischer Neubauvorhaben in Köln - zurückgestellt
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Beschluss der Bezirksvertretung Nippes per Dringlichkeit Erhalt der Fläche des derzeitigen Golfplatzes an der Neusser Landstraße als Grünfläche - Sache ist erledigt
+- TOP 4.1.2: Kurzkonzept zur Pflege- und Entwicklung des Naturschutzgebiets N 5 „Am Godorfer Hafen" und der angrenzenden Sürther Aue - im ersten Durchgang verwiesen
+- TOP 4.1.2.1: Beantwortung der Anfragen zum "Kurzkonzept zur Pflege- und Entwicklung des Naturschutzgebiets N 5 „Am Godorfer Hafen" und der angrenzenden Sürther Aue" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4.1.3: Baubeschluss Förderprogramm REACT-EU „Grüne Infrastruktur – Artenreiche Wiesen Köln“ - ungeändert empfohlen
+- TOP 4.1.4: Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601- - zurückgestellt
+- TOP 4.1.5: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), Bericht 2022 - zurückgestellt
+- TOP 4.1.6: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel" - zurückgestellt
+- TOP 4.1.7: Anpassung der Umsetzungsanweisung zum Kooperativen Baulandmodell in der Fassung der Bekanntmachung vom 10.05.2017 - zurückgestellt
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Weiterplanungssbeschluß auf Basis des Vorentwurfs Parkstadt Süd Eifelwall - zurückgestellt
+- TOP 4.2.1.1: Gemeinsamer Änderungsantrag der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt betreffend Weiterplanungsbeschluss auf Basis des Vorentwurfs Parkstadt Süd Eifelwall - zurückgestellt
+- TOP 4.2.2: Baubeschluss Modellprojekt 'Wasser muss zum Baum', Varianten 1-3 - ungeändert beschlossen
+- TOP 4.2.3: Ersatzbeschaffung eines Radladers für den Friedhofsbereich - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Kurzer Sachstandsbericht zur Maßnahmenumsetzung der aktuellen Spielplatzbedarfsplanung und Ausblick auf die Fortschreibung in 2022 - Kenntnis genommen
+- TOP 7.2: Vorstellung der Ergebnisse der Machbarkeitsstudie zur teiloffenen Verbindung der Strunde und des Flehbach/Faulbach mit dem Rhein. - Kenntnis genommen
+- TOP 7.3: Sanierung der Trauerhallen auf den Friedhöfen Weiß und Melaten und Umnutzung als Kolumbarien - Bedarfsprüfungs-, Planungs- und Baubeschluss - Kenntnis genommen
+- TOP 7.4: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 20. Januar 2022 - Kenntnis genommen
+- TOP 7.6: Überarbeitung Kleingartenordnung - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Anfrage zum Umsetzungsstand des Ratsbeschlusses vom 04.02.2021 „Darstellung der Umstellung auf erneuerbare Energien" - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
