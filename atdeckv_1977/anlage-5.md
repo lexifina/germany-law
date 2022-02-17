@@ -4,8 +4,8 @@ Teil A: Allgemeines
 Für Sendungen, die Radionuklide enthalten, gilt, vorbehaltlich des für Sendungen spaltbarer Stoffe ergänzend anzuwendenden Teils B, Folgendes:
 1. Enthält eine Sendung ein Radionuklid, so darf die Gesamtaktivität je Beförderungsmittel das Hundertfache des A2-Wertes des Radionuklids nicht überschreiten. Für das Radionuklid ist der jeweilige A2-Wert gemäß Tabelle 1 zugrunde zu legen, sofern die Art und die Aktivität des Radionuklids bekannt sind. Andernfalls ist für das vorkommende Radionuklid der jeweilige A2-Wert gemäß Tabelle 2 zugrunde zu legen.
 2. Enthält eine Sendung mehrere Radionuklide, so darf die Summe der Verhältniszahlen aus der Aktivität B(i) und dem Hundertfachen der jeweiligen A2(i)-Werte der einzelnen Radionuklide (Summenformel) den Wert 1 je Beförderungsmittel nicht überschreiten:
-  |  |
-  wobei B(i) die Aktivität des Radionuklids i und A2(i) der A2Wert des Radionuklids i ist. Für die Berechnung sind für die Radionuklide die jeweiligen A2-Werte gemäß Tabelle 1 zugrunde zu legen, sofern die Art und die Aktivität der Radionuklide bekannt sind. Andernfalls sind für die vorkommenden Radionuklide die jeweiligen A2-Werte gemäß Tabelle 2 zugrunde zu legen.
+  | , |
+  wobei B(i) die Aktivität des Radionuklids i und A2(i) der A2-Wert des Radionuklids i ist. Für die Berechnung sind für die Radionuklide die jeweiligen A2-Werte gemäß Tabelle 1 zugrunde zu legen, sofern die Art und die Aktivität der Radionuklide bekannt sind. Andernfalls sind für die vorkommenden Radionuklide die jeweiligen A2-Werte gemäß Tabelle 2 zugrunde zu legen.
 Teil B: Sendungen spaltbarer Stoffe
 Eine Sendung, die spaltbare Stoffe enthält, muss die Voraussetzungen gemäß Teil A erfüllen und die spaltbaren Stoffe müssen auf Grund der für den jeweiligen Verkehrsträger geltenden Rechtsvorschriften über die Beförderung gefährlicher Güter von der Klassifizierung „SPALTBAR“ freigestellt sein.
 Tabelle 1
@@ -43,8 +43,7 @@ Tabelle 1
 | Gadolinium (64) Gd-146 Gd-148 Gd-153 Gd-159 | 5 × 10–1 2 × 10–3 9 × 100 6 × 10–1 |
 | Germanium (32) Ge-68 Ge-71 Ge-77 | 5 × 10–1 4 × 101 3 × 10–1 |
 | Hafnium (72) Hf-172 Hf-175 Hf-181 Hf-182 | 6 × 10–1 3 × 100 5 × 10–1 unbegrenzt |
-| Quecksilber (80) Hg-194 Hg-195m | 1 × 100 7 × 10–1 |
-| Hg-197 Hg-197m Hg-203 | 1 × 101 4 × 10–1 1 × 100 |
+| Quecksilber (80) Hg-194 Hg-195m Hg-197 Hg-197m Hg-203 | 1 × 100 7 × 10–1 1 × 101 4 × 10–1 1 × 100 |
 | Holmium (67) Ho-166 Ho-166m | 4 × 10–1 5 × 10–1 |
 | Iod (53) I-123 I-124 I-125 I-126 I-129 I-131 I-132 I-133 I-134 I-135 | 3 × 100 1 × 100 3 × 100 1 × 100 unbegrenzt 7 × 10–1 4 × 10–1 6 × 10–1 3 × 10–1 6 × 10–1 |
 | Indium (49) In-111 In-113m In-114m In-115m | 3 × 100 2 × 100 5 × 10–1 1 × 100 |
@@ -52,7 +51,8 @@ Tabelle 1
 | Kalium (19) K-40 K-42 K-43 | 9 × 10–1 2 × 10–1 6 × 10–1 |
 | Krypton (36) Kr-79 Kr-81 Kr-85 Kr-85m Kr-87 | 2 x 100 4 × 101 1 × 101 3 × 100 2 × 10–1 |
 | Lanthan (57) La-137 La-140 | 6 × 100 4 × 10–1 |
-| Lutetium (71) Lu-172 Lu-173 Lu-174 Lu-174m Lu-177 | 6 × 10–1 8 × 100 9 × 100 1 × 101 7 × 10–1 |
+| Lutetium (71) Lu-172 Lu-173 | 6 × 10–1 8 × 100 |
+| Lu-174 Lu-174m Lu-177 | 9 × 100 1 × 101 7 × 10–1 |
 | Magnesium (12) Mg-28 | 3 × 10–1 |
 | Mangan (25) Mn-52 Mn-53 Mn-54 Mn-56 | 3 × 10–1 unbegrenzt 1 × 100 3 × 10–1 |
 | Molybdän (42) Mo-93 Mo-99 | 2 × 101 6 × 10–1 |
@@ -90,8 +90,7 @@ Tabelle 1
 | Tantal (73) Ta-178 (langlebig) Ta-179 Ta-182 | 8 × 10–1 3 × 101 5 × 10–1 |
 | Terbium (65) Tb-157 Tb-158 Tb-160 | 4 × 101 1 × 100 6 × 10–1 |
 | Technetium (43) Tc-95m Tc-96 Tc-96m Tc-97 Tc-97m Tc-98 Tc-99 Tc-99m | 2 × 100 4 × 10–1 4 × 10–1 unbegrenzt 1 × 100 7 × 10–1 9 × 10–1 4 × 100 |
-| Tellur (52) Te-121 Te-121m Te-123m Te-125m Te-127 Te-127m Te-129 | 2 × 100 3 × 100 1 × 100 9 × 10–1 7 × 10–1 5 × 10–1 6 × 10–1 |
-| Te-129m Te-131m Te-132 | 4 × 10–1 5 × 10–1 4 × 10–1 |
+| Tellur (52) Te-121 Te-121m Te-123m Te-125m Te-127 Te-127m Te-129 Te-129m Te-131m Te-132 | 2 × 100 3 × 100 1 × 100 9 × 10–1 7 × 10–1 5 × 10–1 6 × 10–1 4 × 10–1 5 × 10–1 4 × 10–1 |
 | Thorium (90) Th-227 Th-228 Th-229 Th-230 Th-231 Th-232 Th-234 Th (natürlich) | 5 × 10–3 1 × 10–3 5 × 10–4 1 × 10–3 2 × 10–2 unbegrenzt 3 × 10–1 unbegrenzt |
 | Titan (22) Ti-44 | 4 × 10–1 |
 | Thallium (81) Tl-200 Tl-201 Tl-202 Tl-204 | 9 × 10–1 4 × 100 2 × 100 7 × 10–1 |
@@ -106,8 +105,7 @@ Tabelle 1
 | U (natürlich) U (angereichert bis maximal 20 %) U (abgereichert) | unbegrenzt unbegrenzt unbegrenzt |
 | Vanadium (23) V-48 V-49 | 4 × 10–1 4 × 101 |
 | Wolfram (74) W-178 W-181 W-185 W-187 W-188 | 5 × 100 3 × 101 8 × 10–1 6 × 10–1 3 × 10–1 |
-| Xenon (54) Xe-122 Xe-123 Xe-127 | 4 × 10–1 7 × 10–1 2 × 100 |
-| Xe-131m Xe-133 Xe-135 | 4 × 101 1 × 101 2 × 100 |
+| Xenon (54) Xe-122 Xe-123 Xe-127 Xe-131m Xe-133 Xe-135 | 4 × 10–1 7 × 10–1 2 × 100 4 × 101 1 × 101 2 × 100 |
 | Yttrium (39) Y-87 Y-88 Y-90 Y-91 Y-91m Y-92 Y-93 | 1 × 100 4 × 10–1 3 × 10–1 6 × 10–1 2 × 100 2 × 10–1 3 × 10–1 |
 | Ytterbium (70) Yb-169 Yb-175 | 1 × 100 9 × 10–1 |
 | Zink (30) Zn-65 Zn-69 Zn-69m | 2 × 100 6 × 10–1 6 × 10–1 |

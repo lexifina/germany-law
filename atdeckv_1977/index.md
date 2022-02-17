@@ -24,18 +24,18 @@
 - [§ 12 Stilllegung von Kernanlagen](0012.md)
 - [§ 12a Kernanlagen in fortgeschrittener Stilllegung](0012a.md)
 - [§ 13 Anlagen zur Erzeugung ionisierender Strahlen](0013.md)
-- [§ 14](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 - [§ 15 Anwendung radioaktiver Stoffe am Menschen in der medizinischen Forschung](0015.md)
 - [§ 16 Ermittlung der Deckungssumme im Einzelfall](0016.md)
-- [§ 17](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 - [§ 18 Deckungssumme bei mehrfachem Umgang](0018.md)
 - [§ 19 Abrundung der Deckungssumme](0019.md)
 
-## Dritter Abschnitt Schlußvorschriften
+## Dritter Abschnitt Schlussvorschriften
 
 - [§ 20 Neufestsetzung der Deckungsvorsorge](0020.md)
 - [§ 21 (weggefallen)](0021.md)
-- [§ 22 Inkrafttreten](0022.md)
+- [§ 22 (Inkrafttreten)](0022.md)
 - [Anlage 1 Regeldeckungssumme bei Kernbrennstoffen in Millionen Euro](anlage-1.md)
 - [Anlage 2 Regeldeckungssummen bei sonstigen radioaktiven Stoffen in Millionen Euro](anlage-2.md)
 - [Anlage 3 (zu § 8a Absatz 1, § 9 Absatz 1, § 11 Absatz 1 und 2)Massenabhängige Erhöhungsbeträge zur Ermittlung der Regeldeckungssumme für die Beförderung von Kernmaterialien und für Kernanlagen in Millionen Euro](anlage-3.md)
