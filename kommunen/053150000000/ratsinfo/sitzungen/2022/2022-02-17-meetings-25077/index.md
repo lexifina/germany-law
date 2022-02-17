@@ -1,0 +1,77 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-02-17T17:06:00+01:00
+- Ende: 2022-02-17T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25077
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25077
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: I - Sachstand Porz Mitte
+- TOP -: II - Sachstand Schulbau in Porz
+- TOP 1: Einwohnerfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Beschluss zur Änderung der Richtlinie zur Umsetzung des „Haus-, Hof- und Fassadenprogramms„ im Projekt „Starke Veedel – Starkes Köln“ im Sozialraum „Porz-Ost, Finkenberg, Gremberghoven und Eil“ - ungeändert beschlossen
+- TOP 6.2: Projektanträge im Rahmen des sechsten Antragsdurchlaufs des Verfügungsfonds für das Gebiet der Sozialen Stadt „Porz-Ost, Finkenberg, Gremberghoven und Eil“ - ungeändert beschlossen
+- TOP 6.3: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte, hier: Ernennung Mitglieder für den Beirat Porz Mitte - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Integrierten Stadtentwicklungskonzeptes Porz Mitte - Ernennung Mitglieder für den Beirat Porz Mitte" - endgültig zurückgezogen
+- TOP -: Integriertes Stadtentwicklungskonzept (ISEK) Porz Mitte – Ernennung Mitglieder für den Beirat Porz Mitte - Kenntnis genommen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Planungs- und Bedarfsfeststellungsbeschluss für die Vergabe der weiteren externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme „Vierspuriger Ausbau der Frankfurter Straße zwischen der Theodor-Heuss-Str - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion "Ausbau Frankfurter Straße" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Bedarfsfeststellungsbeschluss „Vierspuriger Ausbau der Frankfurter Straße“ - endgültig zurückgezogen
+- TOP 7.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; - ungeändert empfohlen
+- TOP 7.3: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel" - zurückgestellt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Antrag nach § 3 der GO des Rates der Stadt Köln zur Sitzung der Bezirksvertretung Porz am 27.01.2022 - Kenntnis genommen
+- TOP 8.2: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Gastronomie im Porzer Bezirksrathaus Das Rheinufer in Porz soll noch attraktiver werden!" - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Stadtklima- und Verschönerungsmittel" - geändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion "Einrichtung von „verkehrsberuhigten Bereichen“ in der Wasserturmsiedlung in Westhoven (Drieschstraße, Wasserturmstraße undAuf dem Wasserfeld)" - zurückgestellt
+- TOP 8.5: Antrag der SPD-Fraktion "Absolutes Halteverbot vor einer Zufahrt über einen Randstreifen in der Besenbinderstraße" - zurückgestellt
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Dringlichkeitsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Erneuerung der Fußgängerbrücke Porz-Mitte" - ungeändert beschlossen
+- TOP 8.8: Dringlichkeitsantrag der SPD-Fraktion "Herstellung der Barrierefreiheit am Übergang über die André-Citroen-Straße" - ungeändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag der SPD-Fraktion "Vorlage 0366/2022 mit Bezug auf Antrag AN/2197/2021, Sicherung der Übergänge der KVB-Haltestelle Ensen-Kloster" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung der Anfrage der CDU; betr. Gründe für die Ablehnung einer Reihenhausbebauung im Stadtgebiet Wahn? - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Gründe für die Ablehnung einer Reihenhausbebauung im Stadtgebiet Wahn?" - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer Anfrage der SPD-Fraktion "Kosten für die Öffnung des Wahnbades in den Sommerferien" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion: Kosten für Öffnung des Wahnbades in den Sommerferien - Sache ist erledigt
+- TOP 9.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen "Auswertung Sperrung Hohenstaufenstr Vorlage 4021/2021" - zurückgestellt
+- TOP 9.2.2: Anfrage der CDU-Fraktion "Anbringung einer Bodenmarkierung zur Sichtbarmachung der Zu- und Ausfahrt des - Kenntnis genommen
+- TOP -: Anbringung einer Bodenmarkierung zur Sichtbarmachung der Zu- und Ausfahrt des Parkplatzes der Wohnanlage in der Sankt Sebastianus Str. 3 - Sache ist erledigt
+- TOP 9.2.3: Anfrage der CDU-Fraktion "Umsetzung eines Planungbeschlusses für den Bau eines Gehweges mit Parkbuchten für die Wohnbebauung in Köln Wahn, Frankfurter Straße 298 - 316" - zurückgestellt
+- TOP 9.2.4: Anfrage der CDU-Fraktion "Umgestaltung des Vorplatzes Heidestraße / Frankfurter Straße Wahn" - zurückgestellt
+- TOP 9.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - Kenntnis genommen
+- TOP 10.2.2: Anlegen einer Busspur auf der Frankfurter Straße - Kenntnis genommen
+- TOP 10.2.3: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 10.2.4: Zielvereinbarung 2022 - Bürgerzentrum Engelshof - Kenntnis genommen
+- TOP 10.2.5: Stellungnahme zu AN/2330/2021 Ersetzungsantrag CDU-SPD-Grüne Umzug des Berufskolleg Porz (BK 10) - Kenntnis genommen
+- TOP 10.2.6: Einrichtung eines sicheren Fußweges an der Baustelle Heidestraße/Linder Weg in Köln Porz Wahnheide - Kenntnis genommen
+- TOP 10.2.7: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - Kenntnis genommen
+- TOP 10.2.8: Sicherung der Übergänge der KVB-Haltestelle Ensen-Kloster - Kenntnis genommen
+- TOP 10.2.9: Integriertes Stadtentwicklungskonzept (ISEK) Porz Mitte - Kenntnis genommen
+- TOP 10.2.10: Teilnahme an der Earth Hour 2022 - Kenntnis genommen
+- TOP 10.2.11: Fachliche Begleitung der Bezirksvertretungen in Verkehrsangelegenheiten - Kenntnis genommen
+- TOP 10.2.12: Förderanträge 3. Call Sofortprogramm Innenstadt NRW - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
