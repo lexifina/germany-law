@@ -1,0 +1,21 @@
+# Antrag der Fraktion Bürgerforum auf öffentliche Darstellung der Informationen des Rechtsanwalts Matthias Möller-Meinecke im Zuge des Baus der A 49
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-49/2021 4. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-02-17
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZVbqY8hY9QnXMhFagDW_Ogc
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/1480
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag der Fraktion Bürgerforum auf öffentliche Darstellung der Informationen des Rechtsanwalts Matthias Möller-Meinecke im Zuge des Baus der A 49) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT6mm4O4oggvCQRmxzTthyiDlBnony5ukX6a3pXcOBXZ/Beschlussvorlage_VL-49-2021_4._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag 17 Fraktion Bürgerforum) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSXIzq8p97OFuJ3Zn-OicIGRxw1SfovxEkkNqzMTbtM6/Antrag_17_Fraktion_Buergerforum.pdf
+- Anlage: Beschlussvorlage (Fraktion Bürgerforum - Begründung zu Anträgen 1 - 17) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSw8qM6W8ejYNERTiqe9syo0ZVjqed3cGgGYon6R2EFZ/Fraktion_Buergerforum_-_Begruendung_zu_Antraegen_1_-_17.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/797 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/798 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/827 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/814 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/861 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/862 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/879 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/884 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-17
