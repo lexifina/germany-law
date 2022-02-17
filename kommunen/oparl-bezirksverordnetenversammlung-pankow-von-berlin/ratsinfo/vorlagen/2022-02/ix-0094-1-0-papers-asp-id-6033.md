@@ -1,0 +1,12 @@
+# Das Bezirksamt hebt den BA-Beschluss IX-0006-2021 zum Betreff "Berufung beratender und stellvertretende beratende Mitglieder des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die IX. Wahlperiode" vom 23.11.2021 auf.
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Drucksache/Vorlage: IX-0094
+- Art: Vorlage zur Kenntnisnahme § 15 BezVG
+- Datum: 2022-02-17
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6033
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/papers.asp?id=6033
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=130&id=250806
+- Beratung:  https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7286 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=at&id=6
