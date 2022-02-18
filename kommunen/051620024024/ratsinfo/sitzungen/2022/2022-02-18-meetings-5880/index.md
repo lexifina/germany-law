@@ -1,0 +1,67 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-02-18T16:00:00+01:00
+- Ende: 2022-02-18T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5880
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5880
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 18.02.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00160783.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 18.02.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00160783.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 18.02.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00160783.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Gleichstellungsbeirat
+- TOP 5: Gleichstellungsplan 2022 - 2025 - mehrheitlich zugestimmt
+- TOP -: Ausschuss für Anregungen, Beschwerden und Bürgerbeteiligung
+- TOP 6: Anregung zur Lärmreduzierung von Straßenbahnlärm - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 7: Zweckgebundener Zuschuss für die neuss agenda 21 e. V. für das Jahr 2022 - mehrheitlich zugestimmt
+- TOP 8: Zweckgebundener Zuschuss für die Neusser-Eine-Welt-Initiative (NEWI) für das Jahr 2022 - einstimmig zugestimmt
+- TOP 8.1: Bestätigung von Beschlüssen aus dem Ausschuss für Umwelt, Grünflächen und Klimaschutz gemäß § 41 Abs. 2 GO NRW - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 9: Bebauungsplan Nr. 120/19 - Weckhoven, Otto-Wels.Straße -, Beschluss über die Stellungnahmen, Satzungsbeschluss - einstimmig zugestimmt
+- TOP 10: Bebauungsplan Nr. 501 - Norf, Nievenheimer Straße (Kita) - - einstimmig zugestimmt
+- TOP 10.1: Bestätigung von Beschlüssen aus dem Ausschuss für Planung, Stadtentwicklung und Mobilität gemäß § 41 Abs. 2 GO NRW - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 11: Wiesenstraße: Sanierung der Fahrbahn - einstimmig zugestimmt
+- TOP 12: Nachrüstung vorhandener Bushaltestellen mit taktilen Elementen (Maßnahmenpaket für das Förderprogramm 2023) - einstimmig zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 13: Eselspfad, Haltestellenpaar Hauptfriedhof: Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 14: Konrad-Adenauer-Ring, Bushaltestelle "Klever Straße" (Fahrtrichtung Norden, Hauptbahnhof): Barrierefreier Umbau; Barrierefreier Umbau des Knotenpunktes Konrad-Adenauer-Ring / Klever Straße / Stoffelsweg - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 15: Benennung von Delegierten für die Delegiertenversammlung der Deutschen Sektion des Rates der Gemeinden und Regionen Europas am 24. und 25. März 2022 in Hannover - einstimmig zugestimmt
+- TOP 16: Benennung von Delegierten und Gästen für die Mitgliederversammlung des Städtetages NRW am 01./2. Juni 2022 in Essen - einstimmig zugestimmt
+- TOP 17: Änderung der Hauptsatzung § 7 Abs. 3 Ausschuss für Anregungen, Beschwerden und Bürgerbeteiligung - einstimmig zugestimmt
+- TOP 18: Wahl/Wiederwahl einer Schiedsperson - einstimmig zugestimmt
+- TOP 19: Fortführung Maßnahmen zur Stützung der Gastronomie in der Corona-Pandemie - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 20: Antrag der AfD-Fraktion betr.: Versorgungssicherheit und Aufklärungskampagne zum Thema Blackout - mehrheitlich abgelehnt
+- TOP 21: Antrag der AfD-Fraktion betr.: Stromangebot der Stadtwerke Neuss - mehrheitlich abgelehnt
+- TOP 22: Antrag der AfD-Fraktion betr.: Sprachverschandelung stoppen bzw. rückgängig machen - verwiesen
+- TOP 23: Antrag der CDU-Fraktion betr.: Verlängerung der Unterstützung der Gastronomie - beraten ohne Abstimmung
+- TOP 24: Antrag der CDU-Fraktion betr.: Vergabekriterien beim Verkauf durch den Bauverein
+- TOP 25: Antrag der CDU-Fraktion betr.: Tag des Blaulichts an den Schulen in Neuss
+- TOP 26: Antrag der CDU-Fraktion betr.: Ausweisung von Parkplätzen für aktive Mitglieder der Freiwilligen Feuerwehr und weitere Bereitschaft leistende Lebensretter - mehrheitlich abgelehnt
+- TOP 27: Antrag der CDU-Fraktion betr.: Stärkere Nutzung von klimafreundlichen Baustoffen
+- TOP 28: Antrag der CDU-Fraktion betr.: Zustand Kirmesplätze - beraten ohne Abstimmung
+- TOP 28.1: Antrag der CDU-Fraktion betr.: Erreichbarkeit und Funktionstüchtigkeit des Hafenspielplatzes - beraten ohne Abstimmung
+- TOP 28.2: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Verbesserte Querung der Bergheimer Straße an der Haltestelle "Südpark" - verwiesen
+- TOP 28.3: Dringlichkeitsantrag der CDU-Fraktion betr.: Wunschschule ermöglichen - Einmalig 7. Zug am Gymnasium Norf einrichten - verwiesen
+- TOP -: Anfragen
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 30: Am Hochofen, Heerdterbuschstraße: Bericht über die verbindliche Anliegerversammlung - zur Kenntnis genommen
+- TOP 31: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
