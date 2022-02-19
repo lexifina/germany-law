@@ -20,6 +20,7 @@
 | – in Japan: | Bengoshi |
 | – in Kamerun: | Avocat, Advocate |
 | – in Kanada: | Barrister, Solicitor |
+| – in Kasachstan: | Aдвокат, Advokat, Qorğauşy |
 | – in Kolumbien: | Abogado |
 | – in der Republik Korea: | Byeonhosa, Lawyer |
 | – in Malaysia: | Peguambela&Peguamcara,Advocate and Solicitor |
