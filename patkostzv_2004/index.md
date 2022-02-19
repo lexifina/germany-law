@@ -1,5 +1,4 @@
-# Verordnung über die Zahlung der Kosten des Deutschen
-Patent- und Markenamts und des Bundespatentgerichts
+# Verordnung über die Zahlung der Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Zahlungswege](0001.md)

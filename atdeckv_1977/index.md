@@ -1,7 +1,6 @@
 # Verordnung über die Deckungsvorsorge nach dem Atomgesetz
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
-- [Eingangsformel](eingangsformel.md)
 
 ## Erster Abschnitt Allgemeine Vorschriften
 

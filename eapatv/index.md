@@ -1,7 +1,7 @@
-# Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht und dem Bundesgerichtshof
+# Verordnung über die elektronische Aktenführung bei dem Deutschen Patent- und Markenamt, dem Patentgericht und dem Bundesgerichtshof
 
 - [§ 1 Elektronische Aktenführung](0001.md)
-- [§ 2 Verfahrensrecht für das Patentamt](0002.md)
+- [§ 2 Verfahrensrecht für das Deutsche Patent- und Markenamt](0002.md)
 - [§ 3 Vernichtung von Schriftstücken](0003.md)
 - [§ 4 Überblick über Aktenbestandteile](0004.md)
 - [§ 5 Herkunftsnachweis](0005.md)
