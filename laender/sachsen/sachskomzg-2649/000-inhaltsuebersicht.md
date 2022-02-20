@@ -1,4 +1,3 @@
-## Sächsisches Gesetz über kommunale Zusammenarbeit (SächsKomZG)
 # Inhaltsübersicht
 Erster Teil Allgemeine Vorschriften
 § 1 Anwendungsbereich
