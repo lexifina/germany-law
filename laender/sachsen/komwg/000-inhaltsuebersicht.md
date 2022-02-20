@@ -61,7 +61,7 @@ Dritter Abschnitt Bürgermeisterwahlen
 § 43 Stimmenzahl, Stimmabgabe
 § 44 Ungültige Stimmen
 § 44a Erforderliche Stimmenzahl, zweiter Wahlgang
-§ 45 Wahlprüfung
+§ 45 Wahlanfechtung und Wahlprüfung
 § 46 Amtsantritt
 § 47 (weggefallen)
 Zweiter Teil Kreiswahlen
