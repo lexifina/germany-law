@@ -43,7 +43,8 @@ Erster Abschnitt Gemeinderat
 § 35 Rechtsstellung der Gemeinderäte
 § 35a Fraktionen
 § 36 Vorsitz im Gemeinderat, Einberufung der Sitzungen
-§ 36a Durchführung von Sitzungen ohne persönliche Anwesenheit der Mitglieder im Sitzungsraum im Falle einer epidemischen Lage von nationaler Tragweite
+§ 36a Durchführung von Sitzungen ohne persönliche Anwesenheit im Sitzungsraum
+§ 36b Veröffentlichung von Informationen
 § 37 Öffentlichkeit der Sitzungen
 § 38 Verhandlungsleitung, Geschäftsgang
 § 39 Beschlussfassung
@@ -158,8 +159,8 @@ Sechster Teil Sonstige Vorschriften
 § 127 Rechtsverordnungen
 § 128 Muster für die Haushaltswirtschaft
 § 129 Sonstige Verwaltungsvorschriften
-§ 130 Übergangsbestimmungen zur Rechtsstellung von Bürgermeistern
+§ 130 Übergangsvorschriften aus Anlass des Dritten Gesetzes zur Fortentwicklung des Kommunalrechts
 § 130a Übergangsbestimmungen aus Anlass des Gesetzes zur Fortentwicklung des Kommunalrechts
 § 130b Übergangsvorschrift aus Anlass des Zweiten Gesetzes zur Fortentwicklung des Kommunalrechts
-§ 131 Sonderregelung zur Erklärung zur Großen Kreisstadt
+§ 131 (weggefallen)
 § 132 Inkrafttreten
