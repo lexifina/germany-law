@@ -1,4 +1,3 @@
-## Gesetz über den Kommunalen Versorgungsverband Sachsen (SächsGKV)
 # Inhaltsübersicht
 Erster Teil Aufbau und Rechtsstellung
 § 1 Rechtsstellung und Sitz
