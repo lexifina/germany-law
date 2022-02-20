@@ -181,6 +181,7 @@ Abschnitt 11 Kommunale Wahlbeamte
 § 154 Amtsverweser
 § 155 Aufwandsentschädigungen, Nebentätigkeiten
 § 155a Aufwandsentschädigung für ehrenamtliche Bürgermeister und Ortsvorsteher
+§ 155b Ehrensold
 Abschnitt 12 Übergangs- und Schlussvorschriften
 § 156 Übergangsregelung zur Anhebung der Altersgrenzen
 § 157 Sonderbestimmung zur Versetzung in den Ruhestand ohne Nachweis der Dienstunfähigkeit
