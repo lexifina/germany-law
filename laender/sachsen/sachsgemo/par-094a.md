@@ -11,5 +11,5 @@ Vor einer Entscheidung ist den jeweiligen wirtschafts- und berufsständischen Ka
 2. Einrichtungen des Unterrichts-, Erziehungs- und Bildungswesens, der Kunstpflege, der körperlichen Ertüchtigung, der Gesundheits- und Wohlfahrtspflege und
 3. Hilfsbetriebe, die ausschließlich zur Deckung des Eigenbedarfs der Gemeinde dienen.
 (4) Wirtschaftliche Unternehmen der Gemeinde sind so zu führen, dass der öffentliche Zweck erfüllt wird; sie sollen einen Ertrag für den Haushalt der Gemeinde abwerfen, soweit dadurch die Erfüllung des öffentlichen Zwecks nicht beeinträchtigt wird.
-(5) (aufgehoben)
+(5) (weggefallen)
 (6) Die Gemeinde darf keine Bankunternehmen betreiben oder Anteile an ihnen halten. Für Sparkassen und eine Beteiligung an der Sachsen-Finanzgruppe gelten die Vorschriften des Gesetzes über die öffentlich-rechtlichen Kreditinstitute im Freistaat Sachsen und die Sachsen-Finanzgruppe vom 13. Dezember 2002 (SächsGVBl. S. 333), das zuletzt durch Artikel 16 des Gesetzes vom 18. Dezember 2013 (SächsGVBl. S. 970) geändert worden ist, in der jeweils geltenden Fassung. Die §§ 94a bis 102 finden auf Sparkassen, eine Beteiligung an der Sachsen-Finanzgruppe und die sie tragenden Zweckverbände keine Anwendung.
