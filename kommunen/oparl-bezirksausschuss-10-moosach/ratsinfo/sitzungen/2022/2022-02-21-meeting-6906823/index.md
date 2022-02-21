@@ -1,0 +1,58 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-02-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6906823
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6906823
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Beleuchtung des Gehpfades parallel zur Straße "Am Hartmannshofer Bächl"
+- TOP 2.2.: Schutz der kleinen Grüninsel an der Parkbucht Treitschkestr. 7-13 vor Überfahren; Antrag auf "Findling"
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.1.: Empfehlung des UA: Planung und Durchführung eines Straßenfestes "Sommerstraße light"
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Thematik "Tempo30 in der Gröbenzeller-/Untermenzinger Straße" (-> vertagt aus Sitzung am 24.01.2022)
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Ehrenbreitsteiner Str. 28 - 28a
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage: Ausweisung eines Netzes von Fahrradstraßen in Moosach (-> vertagt aus Sitzung am 24.01.2022)
+- TOP 4.1.2.: Instandsetzung des Fahrradweges an der Dachauer Straße 334 (vor Bushaltestelle "Eininger Straße")
+- TOP 4.1.3.: Nachpflanzungen im Umfeld der Irma-Wenke-Straße
+- TOP 4.1.4.: Teilöffnung der Voitstraße (Borstei) für Zwei-Richtungs-Verkehr
+- TOP 4.1.5.: Kleinkinderspielplatz an der Feldmochinger- /Ecke Bingener Straße: Anbringung einer Nestschaukel
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget BrückenBauen gUG Land der Kulturen vom 22.-23.03.2022 646,55 € / Az. 0262.0-10-0283
+- TOP 5.2.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür – PLAN B aus München für München von April bis November 2022 9.499,00 € / Az. 0262.0-10-0282
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Freischankfläche Franz-Marc-Str. 10
+- TOP 6.: Anhörungen
+- TOP 6.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032 (Abfrage)
+- TOP 6.2.: Fachstelle Moderation der Nacht MoNa: Evaluation des Nachtlebens in München 2022
+- TOP 6.3.: Beschlussentwurf: Radschnellverbindungen in München und Umland / Machbarkeitsstudien
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund...und in städt. Grünanlagen: Start Olympiapark "Wings for Life 2022 am 08.05.2022
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anfrage: Aktueller Stand der Planung zum Ausbau der Gärtnerstraße; Erhalt der ortsbildprägenden Linde [Schreiben BA10 vom 05.10.2021; im Falle einer künftigen Straßenbaumaßnahme werden alle planerischen und baulichen Möglichkeiten ausgeschöpft werden, um die auf Privatgrund stehende Linde zu erhalten.]
+- TOP 7.2.: Oberirdische Beschriftung der U-Bahn-Stationen [Schreiben BA10 vom 21.10.2020; technische Möglichkeiten wie Leuchtkästen oder Info-Stelen dort nicht realisierbar.]
+- TOP 7.3.: Entfernung der verlassenen Taubenzüchterhütte auf Grundstück der Trafostation Hartmannshofer Str. 9 [BA-Antrag Nr. 20-26/B03327; Entfernung, Entrümpelung, Neueinzäunung bereits in 2021 erfolgt.)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Vorabstellungnahme Vorsitzender gem. § 20 Abs. 1 BA-Satzung: Standort Corona-Test-Container Memminger Platz
+- TOP 8.2.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Dieselstr. 12; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 8.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6.: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 8.7.: Mobilfunk: - nicht-öffentlich - 1. Erweiterung Mobilfunksendeanlage: Pelkovenstraße
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Gärtnerstraße
+- TOP 3.4.1.: Thematik BA-Schaukästen (Benennung Schaukasten-Beauftragte*r, Aushänge)
+- TOP 3.4.2.: Kommission für Stadtgestaltung am 08.02.2022 - hier: Bunzlauer Str. 1
+- TOP 4.: Anträge
