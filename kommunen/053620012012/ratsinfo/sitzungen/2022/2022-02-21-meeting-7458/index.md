@@ -1,0 +1,66 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-02-21T18:04:00+01:00
+- Ende: 2022-02-21T19:34:00+01:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTg1rNkUyxgXLxFLG1qzrs0
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7458
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSkgNUvkwoV1MK3756ShzpYBcCeYn2HrJXyg0ebQf2l4/Bekanntmachung_Rat_21.02.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfyMJGUKizHXELsnntysKXuYbnsDMfpe_TTLjlfRYmkR/Oeffentliche_Niederschrift_Rat_21.02.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Fragen zu verschiedenen Grünflächen
+- TOP 1.2: Regionalplan
+- TOP 2.: Niederschrift vom 13.12.2021
+- TOP 3.: Fachbezogene Pauschale für die Haushaltsjahre 2021 und 2022 Abbau von Lernrückständen, Umsetzung der Bund-Länder-Vereinbarung "Aktionsprogramm Aufholen nach Corona für Kinder u. Jugendliche" NRW Bezug: Vorlage 501/2021 hier: Neufestsetzung der Budgets für Schulbudgets und Bildungsgutscheine
+- TOP 4.: Teilneubau KGS Barbara: Freigabe Leistungsphase 3 - Entwurfsplanung - Bezug: Bezug: Änderungsantrag zum Antrag der Fraktion Linke & Piraten, Rat 6.5.2019, Vorlagen-Nr. 113/2019 Antrag der SPD-Fraktion vom 02.05.2019 166/2019, HA 27.05.2019, Rat 08.07.2019, Vorlagen-Nr.: 268/2019 Gemeinsamer Antrag der Fraktion CDU und Grüne vom 06.05.2019 zu TOP 18.1, Rat 06.05.2019, Vorlage-Nr. 113/2019, Rat 23.09.2019, Vorlage 368/2019 - (kein Text vorhanden)
+- TOP 4.1: Teilneubau KGS Barbara: Freigabe Leistungsphase 3 - Entwurfsplanung - hier: Ergänzungen zur Vorlage 40/2022, SchA 08.02.2022
+- TOP 5.: Räumliche und konzeptionelle Weiterentwicklung des CULTRA – Bezuschussung von Mehrkosten hier: Antrag des Arbeiter-Samariter-Bundes (ASB) vom 17.11.2021 - (kein Text vorhanden)
+- TOP 6.: Öffentlich-rechtliche Vereinbarung für die Errichtung und den Betrieb einer Alarmübertragungsanlage für Brandmeldeanlagen (AÜA) mit Aufschaltung auf die einheitliche Leitstelle des Rhein-Erft-Kreises - (kein Text vorhanden)
+- TOP 7.: Aktualisierung des Straßen- und Wegekonzeptes der Stadt Brühl nach § 8a Absatz 1 des Kommunalabgabengesetzes (KAG) NRW Bezug: Beschluss vom Rat 14.12.2020, Vorlage 519/2020 - (kein Text vorhanden)
+- TOP 8.: Zustimmung zum Erschließungsvertrag im Bereich des Bebauungsplanes 11.02 "Hauptstraße, Stiftstraße, Zum Sommersberg" - (kein Text vorhanden)
+- TOP 9.: Gesellschafterversammlung Stadtwerke hier: Beschluss über den Jahresabschluss 2020 der Stadtwerke und den Konzernabschluss 2020 (Stadtwerke und Gebausie zusammen) - (kein Text vorhanden)
+- TOP 10.: Bestellung eines ehrenamtlichen Beauftragten für Denkmalpflege gemäß § 24 Denkmalschutzgesetz (DSchG) NRW - (kein Text vorhanden)
+- TOP 11.: Bestellung eines/r Vertreters/Vertreterin der Stadt Brühl zur Wahrnehmung von Mitgliedschaftsrechten in der Verbandsversammlung des Palmersdorfer Bachverbandes - (kein Text vorhanden)
+- TOP 12.: Anzeige der Nebentätigkeiten des Bürgermeisters
+- TOP 13.: Über- und außerplanmäßige Ausgaben
+- TOP 13.1: Änderung der Entschädigungsverordnung (EntschVO NRW) zum 01.01.2022 hier: Überplanmäßige Ausgabe in 2022 - (kein Text vorhanden)
+- TOP 13.2: Beschluss einer ÜPL zur Wahrnehmung der Fördergelder des Förderprogramms zur digitalen Ausstattung von Förderschulen - (kein Text vorhanden)
+- TOP 14.: Anträge
+- TOP 14.1: Auf- und Ausbau von barrierefreiem Wohnraum in Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 22.11.2021 - (kein Text vorhanden)
+- TOP 14.1.1: Barrierefreien Wohnraum auf- und ausbauen! Kommunale Instrumente für inklusive Wohn- und Sozialräume nutzen Bezug: Anfrage der Fraktion Linke & Piraten vom 22.11.2021, Vorlagen-Nr. 638/2021, Rat 13.12.2021
+- TOP 14.2: Wohnungsmarktprofil für die Bevölkerungsentwicklung in der Stadt Brühl Bezug: Anfrage der Fraktion Linke&Piraten vom 22.11.2021
+- TOP 14.2.1: Wohnungsmarktprofil für die Bevölkerungsentwicklung in der Stadt Brühl Bezug: Anfrage der Fraktion Linke&Piraten vom 22.11.2021, Vorlagen-Nr. 637/2021, Rat 13.12.2021
+- TOP 15.: Umbesetzung in Ausschüssen
+- TOP 15.1: Umbesetzung im Vergabe- und Liegenschaftsausschuss Bezug: Antrag der Fraktion Linke&Piraten vom 01.02.2022 - (kein Text vorhanden)
+- TOP 15.2: Umbesetzung im Schulausschuss hier: Vertretung der Gesamtschule - (kein Text vorhanden)
+- TOP 15.3: Umbesetzung im Aufsichtsrat Stadtwerke Brühl GmbH Bezug: Antrag der SPD-Fraktion vom 07.02.2022 - (kein Text vorhanden)
+- TOP 15.4: Umbesetzung im Ausschuss für Kultur, Partnerschaften und Tourismus Bezug: Antrag der Grünen-Fraktion vom 15.02.2022 - (kein Text vorhanden)
+- TOP 15.5: Umbesetzung im Ausschuss für Bauen, Umwelt und Klimaschutz Bezug: Antrag der FDP-Fraktion vom 17.02.2022 - (kein Text vorhanden)
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen
+- TOP 17.1: Nahverkehrsplan des Rhein-Erft-Kreises Hier: Beteiligung der Städte Bezug: Anfrage der Grünen-Fraktion vom 11.02.2022
+- TOP 17.1.1: Stellungnahme zu Anfrage der Grünen-Fraktion vom 11.02.2022 Nahverkehrsplan des Rhein-Erft-Kreises Hier: Beteiligung der Städte Bezug: VL 89/2022
+- TOP 17.2: Sachstand Bahnhofsvorplatz
+- TOP 17.3: Sachstand Hochschule des Bundes
+- TOP 17.4: Verkehrsberuhigung Schulstraße/Talstraße
+- TOP 17.5: Renovierung Schloss Augustusburg
+- TOP 17.6: Gebäude BTV/von-Wied-Straße
+- TOP 17.7: Radstation Bahnhof
+- TOP B): Nichtöffentliche Sitzung
+- TOP 18.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk I ( südlicher Stadtbezirk )
+- TOP 18.1: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk I ( südlicher Stadtbezirk) - (kein Text vorhanden)
+- TOP 19.: Bestellung einer Prüferin und eines Prüfers der örtlichen Rechnungsprüfung
+- TOP 20.: Kooperationsvertrag mit dem Rhein-Erft-Kreis zur gemeinsamen Beantragung von Fördermitteln zum Breitband-Ausbau - (kein Text vorhanden)
+- TOP 21.: Darlehensgewährung an Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen
+- TOP 23.1: Renault Deutschland
+- TOP 23.2: Audio-Live-Stream
