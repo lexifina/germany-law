@@ -1,0 +1,54 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-02-22T16:00:00+01:00
+- Ende: 2022-02-22T17:51:00+01:00
+- Ort: Werner-von-Siemens-Realschule, Rethelstraße 13, Aula
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21933
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21933
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439607.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439607.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439607.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/001/2022 vom 25.01.2022 - mehrheitlich beschlossen
+- TOP -: Anträge
+- TOP 4: Blumenzwiebeln Hans-Sachs-Straße - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 5: Beschaffung von seniorengerechten Bänken für den Karl-Wagner-Platz - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 6: Finanzierung von Bänken auf dem Karl-Wagner-Platz aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7: Finanzierung von beschlossenen Sitzbänken aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8: Zuwendung für das Präventionsprogramm "Die große Nein-Tonne" an der Brehmschule aus bezirksbezogenen Haushaltsmitteln - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 9: Bezirksbezogene Haushaltsmittel für die Brehmschule - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 10: Förderung des Präventionsprogramms „Die große Nein-Tonne“ im Rahmen der Schulsozialarbeit an der Brehmschule aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 11: Fassadenbegrünung im Stadtbezirk 2 - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Ordnungspolitischer Vorschlag im Bereich Verkehr für die Kühlwetterstraße (Düsseltal) -Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 14: Parkplatzsituation auf der Rembrandt-Straße und der Hans-Sachs-Straße - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1: Änderungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage BV2/035/2022 - mehrheitlich abgelehnt
+- TOP 16: Spielplatz Neanderstraße - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 17: Fuß- und Radweg Heinrichstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Kosten und Einnahmen Anwohnerparkausweiszonen - Anfrage der FDP-Fraktion
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Potenzielle Auswirkungen einer Einführung von Tempo 30 auf der gesamten Rethelstraße auf den Rheinbahn-Linienbetrieb - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 27: Nutzung der Verkehrsinsel Kreuzung Humboldstraße/Rethelstraße/Franklinbrücke - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Kosten der Pflege und des Erhalts der Fahrradwege im Stadtbezirk 2 - Anfrage der CDU-Fraktion
+- TOP -: Informationsvorlagen
+- TOP 30: grüne Haltestellen - Beschluss der Bezirksvertretung, Vorlage BV2/245/2021 - zur Kenntnis genommen
+- TOP 31: Ampelphase Zoobrücke - Humboldtstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/232/2021 - zur Kenntnis genommen
+- TOP 32: Förderung Solarenergie in Gebieten mit Erhaltungssatzungen - zur Kenntnis genommen
