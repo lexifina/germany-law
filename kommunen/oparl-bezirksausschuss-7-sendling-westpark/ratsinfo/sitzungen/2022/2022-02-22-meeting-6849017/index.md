@@ -1,0 +1,171 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-02-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6849017
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6849017
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Selbstversorgerstandort
+- TOP 6.2.: Fahrradstraße Ortlerstraße
+- TOP 6.3.: Wir hoffen auf Ihre Hilfe
+- TOP 6.4.: Antrag auf Ausweisung einer Fahrradzone:Werdenfelsstraße
+- TOP 6.5.: Bauhof Westpark
+- TOP 6.6.: Martin-Behaim-Straße
+- TOP 6.7.: SportBoxen
+- TOP 6.8.: Murnauerstr.
+- TOP 6.9.: Anträge-Spielplatz-Werdenfels-GS
+- TOP 6.10.: Brief Antrag Sportplatz Sugar Mountain
+- TOP 6.11.: Verschiedene Anträge und Anfragen
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) Antrag auf Skatepark Empfehlung Nr. 20-26 / E 00358 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 11.10.2021
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Freischankfläche Hansastraße
+- TOP 9.2.: Freischankfläche Waldfriedhofstraße
+- TOP 9.3.: Freischankfläche Johann-Clanze-Straße
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Stattpark OLGA e.V. Kindertheater theater.nuu SCHROTT am 03.07.2022 1.200,00€; Az. 0262.0-7-365
+- TOP 10.2.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür – PLAN H aus München für München von April – November 2022 9.499,00€; Az. 0262.0-7-0366
+- TOP 10.3.: (E) Stadtbezirksbudget Initiative „BigE“ Babboe BigE 2.662,05€; Az. 0262.0-7-0367
+- TOP 10.4.: (E) Stadtbezirksbudget Feierwerk e.V. Fortbildung: StoP – Stadtteile ohne Partnergewalt vom 09.06.2022 – 23.02.2023 1.600,00€; Az. 0262.0-7-0368
+- TOP 10.5.: (E) Stadtbezirksbudget Rosengarten Gastronomie GmbH / Wirtshaus am Rosengaten 10 Jahre Wirtshaus am Rosengarten am 02.oder 09.07.2022 13.200,00€; Az. 0262.0-7-0364
+- TOP 11.: Anträge
+- TOP 11.1.: Anfrage Parkdruck
+- TOP 11.2.: LKW-Parkverbot
+- TOP 11.3.: Überquerung Alb-Roßhaupter-Straße vom Wöllinger zur Weilheimer Straße
+- TOP 11.4.: Anfrage Westpark winterfest
+- TOP 11.5.: Alles fürs Klima in Sendling Westpark.
+- TOP 11.6.: Beratungen im Stadtbezirk Sendling-Westpark
+- TOP 11.7.: Anfrage Fernwärme
+- TOP 11.8.: Ortlerstraße
+- TOP 11.9.: Familien und Ferienpässe aus dem Stadtbezirksbudget
+- TOP 11.10.: personenbezogener Behindertenparkplatz
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Euckenstr._Herr Dusolt
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Radschnellverbindungen in München und Umland
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Antwortschreiben Parkbucht auf der Nordseite der Ehrwalder Straße
+- TOP 33.2.: BSL Abfallbehälter Westpark
+- TOP 33.3.: BSL Sitzbänke Westpark
+- TOP 33.4.: Barrierefreier Zugang U/S-Bahn Heimerannplatz
+- TOP 33.5.: Einschränkung Grillen im Westpark
+- TOP 33.6.: Fahrradständer Ehrwalderstraße
+- TOP 33.7.: Fahrradständer Ehrwalderstraße
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 34.1.: Umgestaltung der Kreuzung Johann-Clanze-Straße
+- TOP 35.: Direktorium
+- TOP 35.1.: Schreiben BA 25 zu Hybridsitzungen
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Antwortschreiben Schulweghelferinnen
+- TOP 40.2.: Radverkehr im Westpark
+- TOP 40.3.: Schrägparken Johann-Clanze-Straße
+- TOP 40.4.: Antwortschreiben Gelbblinker Westendstr.
+- TOP 40.5.: Antwortschreiben zu Tempo 30 Murnauer Str.
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Antwortschreiben Wegfall von Betreuungsplätzen am Hort an der Grundschule Gilmstr.
+- TOP 42.2.: Antwortschreiben Bildungscampus Westpark
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Antwortschreiben Zusätliche Stellen im Sozialbereich Schulen schaffen
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Baumfällungen Hansastraße
+- TOP 49.2.: Baumentfernungen
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Kurzbericht SuedpART
+- TOP 51.2.: Infoschreiben BA Kürzung Stadtbezirksbudget 2022
+- TOP 51.3.: Verwendungsnachweis Spielen in der Stadt
+- TOP 51.4.: Verwendungsnachweis Oktoberfest im ASZ
+- TOP 51.5.: Verwendungsnachweis Move and Relax
+- TOP 51.6.: Verwendungsnachweis Hidalgo
+- TOP 51.7.: Verwendungsnachweis SüdpART
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Mehrjahresinvestitionen
+- TOP 52.2.: Vorkaufsrecht Marbachstraße
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Gaststätten Fortführung
+- TOP 53.2.: Gaststättenfortführung Waldfriedhofstraße
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 55.1.: Baulisten
+- TOP 55.2.: Bebauung Areal am Ende der A95 BAB Garmisch
+- TOP 55.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Verlängerung VA Kreuzung Hinterbärenbadstraße
+- TOP 56.2.: Drachenseestraße
+- TOP 56.3.: Verlängerung VE Gilmstraße
+- TOP 56.4.: Haltverbot mit Ausnahme für die Feuerwehr
+- TOP 56.5.: Gottfried-Böhm-Ring/Georg Hager Str. Fußgängerquerungsstelle
+- TOP 56.6.: Konrad-Celtis-Str REWE
+- TOP 56.7.: Zielstattstraße Fußgängerhinweis
+- TOP 56.8.: Tübinger Str Kleingartenanlag
+- TOP 56.9.: VA Hansastraße
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 61.2.: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 61.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.4.: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
+- TOP 61.5.: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 61.6.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 61.7.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 61.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.9.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 62.: Sozialreferat
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: RIS-Extranet
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Baubeginn/Inbetriebnahme/Erweiterung
+- TOP 10.6.: (E) Stadtbezirksbudget Initiativ Gruppe „Sojus“ Aktiv, gemeinsam Natur und Kultur erleben. Unterstützung im Alltag vom 05.01.-31.12.2022 5.000,00€; Az. 0262.0-7-0357
