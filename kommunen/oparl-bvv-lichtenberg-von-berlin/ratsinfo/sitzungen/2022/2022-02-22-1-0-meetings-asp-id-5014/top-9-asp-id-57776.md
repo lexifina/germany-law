@@ -1,0 +1,7 @@
+# TOP 9: Jahresplanung 2022 Termine und Themensammlung
+
+- Sitzung: 2. Sitzung in der IX. Wahlperiode des Partizipations- und Integrationsausschusses (2022-02-22)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=57776
+- Ergebnis: erledigt
