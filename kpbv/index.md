@@ -17,11 +17,17 @@
 
 ## Abschnitt 4 Genehmigungsverfahren
 
-- [(XXXX) §§ 5 bis 11 (zukünftig in Kraft)](xxxx-5-bis-11.md)
+- [§ 5 Validierung](0005.md)
+- [§ 6 Prüfung der nach Artikel 6 der Verordnung (EU) Nr. 536/2014 in Teil I des Bewertungsberichts zu behandelnden Aspekte](0006.md)
+- [§ 7 Prüfung der nach Artikel 7 der Verordnung (EU) Nr. 536/2014 in Teil II des Bewertungsberichts zu behandelnden Aspekte](0007.md)
+- [§ 8 Hinzufügung eines zusätzlichen Mitgliedstaats der Europäischen Union](0008.md)
+- [§ 9 Wesentliche Änderung einer klinischen Prüfung bei Menschen](0009.md)
+- [§ 10 Bewertungsverfahren nach Artikel 44 der Verordnung (EU) Nr. 536/2014](0010.md)
+- [§ 11 Korrekturmaßnahmen](0011.md)
 
 ## Abschnitt 5 Gebühren
 
-- [§ 12 (bedingt zukünftig in Kraft)](0012.md)
+- [§ 12 Gebühren](0012.md)
 
 ## Abschnitt 6 Schlussbestimmungen
 
@@ -29,4 +35,4 @@
 - [Schlussformel](schlussformel.md)
 - [Anlage 1 (zu § 3)Antragsbezogene Erklärung zu persönlichen und finanziellen Interessen (§ 41a Absatz 3 Nummer 7 des Arzneimittelgesetzes)](anlage-1.md)
 - [Anlage 2 (zu § 3)Jährliche Erklärung zu finanziellen Interessen (Artikel 9 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 536/2014)](anlage-2.md)
-- [Anlage 3 (zu § 12)(bedingt zukünftig in Kraft)](anlage-3.md)
+- [Anlage 3 (zu § 12)Verzeichnis über die Höhe der Gebühren der Ethik-Kommissionen](anlage-3.md)
