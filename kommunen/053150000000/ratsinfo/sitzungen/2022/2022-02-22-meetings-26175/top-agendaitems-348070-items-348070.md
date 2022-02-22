@@ -1,0 +1,6 @@
+# TOP -: Öffentlichkeitsbeteiligung Bewegungsparcours am Hitdorfer Fährweg
+
+- Sitzung: Sondersitzung der Bezirksvertretung Chorweiler - Sicher und familienfreundlich Karneval in der Brauchtumszone feiern (2022-02-22)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/348070
