@@ -1,0 +1,69 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-02-22T17:00:00+01:00
+- Ende: 2022-02-22T20:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22412
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22412
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439872.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439872.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439872.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 14.12.2021 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 25.01.2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Bau- und Planungsangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Dauerhafte Markierung der Radfahrstreifen auf der Bilker Allee im Abschnitt zwischen Talstraße und Bilker Kirche und Oberbilker Allee im Abschnitt zwischen Corneliusstraße und Gustav-Poensgen-Straße - einstimmig beschlossen
+- TOP 5.2: Einrichtung des neuen Hauptstandortes der Jan-Wellem-Förderschule am Standort Heerstraße 18/18a - einstimmig beschlossen
+- TOP 5.3: Errichtung der Mobilstation Stadttor im Kontext der Richtlinie zur Förderung der Vernetzten Mobilität und des Mobilitätsmanagements (FöRi-MM) - einstimmig beschlossen
+- TOP 6: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 6.1: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorherigen Sitzungen
+- TOP 7.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.3: Gestaltung Bahnunterführung Ellerstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.4: Stellplätze für Fahrräder auf der Fleher Str. / In der Hött (Anfrage Fraktionen BÜNDNIS 90 / DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.5: Umbau und Aufzug Regionalhalt Bilk-S (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.6: Sachstand Fördermittelbeantragung (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 7.1.7: Wie ist der Stand des Projekts „Neubau des Luisen Gymnasiums“ auf dem Areal südl. auf ´m Tetelberg? (Anfrage DIE LINKE) - vertagt
+- TOP 7.1.8: Flächen zur Entsiegelung (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 7.1.9: Status quo zum 1. Januar 2022 der Haltestellen im Bezirk 03 (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 7.1.10: Aufwertung der Eisenstraße (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 7.1.11: Radweg Fleher Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.12: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.13: Einbindung Düsseldorfer Kunstkommission – Ludwig-Hammers-Platz (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 7.1.14: Aktueller Stand Einrichtung Milieuschutzsatzung Bilk (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 7.2: Aktuelle Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Geplanter Geschäfts- und Wohnungsbau auf dem Grundstück Elisabeth-/Bachstraße/Bilker Allee (zurzeit Parkplatz) (Anfrage CDU-Fraktion) - zur Kenntnis genommen
+- TOP 7.2.3: Sachstand zum Grundstück Eduard-Schulte-Straße / Merowingerstraße (Flurstück 969) (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 7.2.4: Sachstand Fahrradturm Bilker Bahnhof (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 7.2.5: Sachstand barrierefreier Umbau Karolingerplatz (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 7.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.9: Unfallzahlen zu ZweiradfahrerInnen (Anfrage SPD-Fraktion) - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Sicherer Gehweg Feuerbachstraße (Antrag CDU-Fraktion) - abweichend beschlossen
+- TOP 8.2: Neugestaltung der Fischerhausterrasse im Ständehauspark (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU) - vertagt
+- TOP 8.3: Anwohnerparken Himmelgeister Straße - westlich der Uni-Kliniken (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 8.4: Lückenschluss Fahrradweg Himmelgeister Straße (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 8.5: Nahverkehrsplan – Verlängerung der Wehrhahn-Linie Richtung Süden (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Jugend checkt Düsseldorf im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 9.2: Stadtbaumkonzept - Neu- und Ersatzpflanzungen
+- TOP 9.3: Geplante Instandsetzungsmaßnahmen der nächsten zwei bis drei Jahre - zur Kenntnis genommen
+- TOP 9.4: Förderung Solarenergie in Gebieten mit Erhaltungssatzungen - zur Kenntnis genommen
+- TOP 10: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
