@@ -1,0 +1,7 @@
+# TOP 3: Vorstellung der Vorsitzenden der Kunstkommission
+
+- Sitzung: Bezirksvertretung 5 (2022-02-22)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/315101
+- Ergebnis: zur Kenntnis genommen
