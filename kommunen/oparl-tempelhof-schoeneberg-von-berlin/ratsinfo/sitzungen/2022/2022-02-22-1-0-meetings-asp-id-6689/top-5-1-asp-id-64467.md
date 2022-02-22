@@ -1,0 +1,7 @@
+# TOP 5.1: Haupteingangstreppe der Sporthalle Schöneberg umgehend sanieren
+
+- Sitzung: 3. öffentliche Sitzung des Ausschusses für Facility Management (2022-02-22)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=64467
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=64467
