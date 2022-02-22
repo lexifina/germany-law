@@ -1,0 +1,71 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-02-22T17:00:00+01:00
+- Ende: 2022-02-22T18:00:00+01:00
+- Ort: Aula der Gesamtschule Stettiner Straße 98, 40595 Düsseldorf Beginn: 17:00 Uhr
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22331
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22331
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439577.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439577.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439577.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Beschluss Hochhausrahmenplan - zur Kenntnis genommen
+- TOP 4.2: Genehmigung einer Dringlichkeitsentscheidung - Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 1. Halbjahr 2022 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.3: Repräsentationsfonds des Bezirksbürgermeisters - Beschlussvorlage der Bezirksverwaltungsstelle 10 - einstimmig beschlossen
+- TOP 4.4: Verfügungsmittel der BV 10 für die Anschaffung von Transportboxen für die Beschallungsanlage - einstimmig beschlossen
+- TOP 4.5: Bezirklicher Bauunterhalt - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - Aufhebung von Finanzierungsbeschlüssen für Graffiti-Entfernungen im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Geldtransporter im Haupteinkaufszentrum Garath - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Instandsetzung des Fußweges entlang des Mühlenbachs - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Eröffnung des Wohnprojektes der Graf-Recke-Stiftung im ehemaligen Altenzentrum St. Hildegard - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Unterrichtsausfall - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.7: Radschnellweg Neuss – Langenfeld im Stadtbezirk 10 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Beantwortung von Anfragen und Anträgen durch die Verwaltung - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.11: Neuordnung der Wahlkreise und Stadtbezirke - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.17: Plakatierungsaktion in Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.18: Förderprogramm der Landesregierung für coronabedingte Lernrückstände - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.19: Ausblenden von Sitzungsunterlagen im Ratsinformationssystem der Stadt Düsseldorf - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.21: Auswirkungen des KfW Förderstopps auf energetische Sanierungen von Gebäuden im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Bauliche Maßnahmen an der Haltestelle Schnellbus 57 am S-Bahn Hellerhof im Stadtbezirk 10 - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 7.2: Umwandlung der René-Schickele-Straße gemäß Straßenverkehrsordnung - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Entsiegelung der Freifläche zwischen der Clausthal-Zellerfelder Straße 31 und der Dresdener Straße 34 - einstimmig beschlossen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Erarbeitung Grünordnungsplan II für den Stadtbezirk 10 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.7: Garath attraktiver machen – Musikpavillon am Garather Schloss aufstellen - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich abgelehnt
+- TOP 7.8: Aufstellung von Kultur-Litfaßsäulen im Stadtbezirk 10 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich abgelehnt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Außengastronomie auf Kfz-Stellflächen - zur Kenntnis genommen
+- TOP 8.2: Stadtbaumkonzept für Düsseldorf (3. Pflanzsaison) - Informationsvorlage zum Beschluss BV10/206/2021 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.3: Sperrung der Strecke der S-Bahnlinie S6/S68 in 2022/23 - Informationsvorlage zum Beschluss BV10/196/2021 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.4: Hellerhofweg - Verbesserung Rad- und Fußverkehrsführung - S-Bahnhof Hellerhof - zur Kenntnis genommen
+- TOP 8.5: Alternativstandort für den Recyclinghof Garath - Informationsvorlage zum Beschluss BV10/143/2021 vom 14.09.2021 _ - zur Kenntnis genommen
+- TOP 8.6: Flyer über Beratungsstelle in Garath - Informationsvorlage zum Beschluss BV10/169/2021 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.7: Taktverdichtung der Buslinie 789 - Informationsvorlage zum Beschluss BV10/159/2021 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.8: Sicherung Fußgänger- und Radquerung Hellerhofweg / Paul-Löbe-Straße / Maßnahmen zur Geschwindigkeitsreduzierung - Informationsvorlage zum Beschluss BV10/200/2021 vom 23.11.2021 _ - zur Kenntnis genommen
+- TOP 9: Verschiedenes
