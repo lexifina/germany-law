@@ -1,0 +1,69 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-02-22T17:00:00+01:00
+- Ende: 2022-02-22T18:29:00+01:00
+- Ort: International School of Düsseldorf, Dahms-Theater, Niederrheinstraße 336, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22512
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22512
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439540.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439540.pdf
+- Wortprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00439540.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 25. Januar 2022 - einstimmig beschlossen
+- TOP 3: Vorstellung der Vorsitzenden der Kunstkommission - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Gesamtstellungnahme der Stadt zum Planfeststellungsverfahren für das Vorhaben Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt 3.1 "Kalkum - Angermund" - Empfehlung einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2022 (Liste B), Pflanz- und Pflegemaßnahmen Rathaus Kaiserswerth - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen**
+- TOP 12: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 13: Umbau Zeppenheimer Straße - beantwortet
+- TOP 14: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 15: Wann kommt endlich die öffentliche Beleuchtung auf dem Gerichtsschreiberweg?!
+- TOP 16: Rad- und Fußweg von der Straße Am Krienengarten (Am Damm) zum Rheinuferweg
+- TOP 17: Bewohnerparkvorrechte auf den zwei großen öffentlichen Parkplätzen in Kaiserswerth
+- TOP 18: Welches Tempo ist auf der Alten Landstraße in Kaiserswerth angemessen?
+- TOP 19: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 20: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 21: Barrierefreier Zugang zur Grundschule an der Fliednerstraße
+- TOP 22: Graf-Engelbert-Straße: Gehweg nutzbar machen! - beantwortet
+- TOP 23: Bessere Umleitungsangebote statt Einschränkung des ÖPNV-Service in Düsseldorf-Lohausen
+- TOP 24: Kooperationsvertrag trifft auf Realität? Flughafen-Bahnhof der Stadtbahn U 81 ggf. nicht rechtzeitig zur Fußball-EM 2024 fertig
+- TOP 25: "Viele Projekte stecken in der Warteschleife" - Wie lange kann noch gewartet werden?
+- TOP 26: Schadhafte Pflasterung in der Edmund-Bertrams-Straße und Oberdorfstraße
+- TOP 27: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP -: Neue Anfragen
+- TOP 28: Doppelter Mülleimer vermeiden – Mehrwert für die Anwohner schaffen - beantwortet
+- TOP 29: Baulandentwicklung in Duisburg Wedau - Folgen für den Düsseldorfer Norden? - beantwortet
+- TOP 30: Überlastung der Buslinie 749 in der morgendlichen Spitzenstunde
+- TOP 31: Weg nach den Hingbenden - Wie kann das Parken geordnet und die Sicherheit erhöht werden?
+- TOP 32: Radweg vom Kreisverkehr Angermunder Straße
+- TOP 33: Was wird aus dem Kaiserswerther Markt?
+- TOP 34: Hochwasserschaden Alte Landstraße - beantwortet
+- TOP 35: Schadhafter Belag Niederrheinstraße von der ISD bis zur Bahnunterführung und Danziger Straße
+- TOP 36: Zulässigkeit und potenzielle Rahmenbedingungen eines geordneten Badebetriebs im Angermunder See
+- TOP 37: Immobilienbesitz der Stadt Düsseldorf sowie anderer städtischer Unternehmen im Stadtbezirk 5
+- TOP 38: Umsetzung und Einhaltung der Stellplatzsatzung bei Neubauten in Lohausen?
+- TOP 39: Dringend notwendige Verfügbarkeit und Förderung größerer Räumlichkeiten für Vereine, Events und Brauchtum allgemein im Düsseldorfer Norden - beantwortet
+- TOP -: Anträge
+- TOP 40: Vortrag zum Vogelschutzgutachten - einstimmig beschlossen
+- TOP 41: Funktionsfähige Kiss and Ride Zone für die Grundschule Kaiserswerth - einstimmig beschlossen
+- TOP 42: Badenutzung Angermunder Baggersee - einstimmig beschlossen
+- TOP 43: Handwerker-Gewerbeflächen in Angermund - einstimmig beschlossen
+- TOP 44: Park and Ride Parkplatz an der Alten Flughafenstr. jetzt planen und umsetzen - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 45: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 46: Verschiedenes
+- TOP 47: Wohngebiet Alte Flughafenstraße - Einrichtung eines Bewohnerparkgebietes (AF) - abweichend beschlossen
