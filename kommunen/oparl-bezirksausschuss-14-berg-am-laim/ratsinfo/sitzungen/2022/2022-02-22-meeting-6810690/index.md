@@ -1,0 +1,124 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-02-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6810690
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6810690
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung am 25.01.2022
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Öffentliche Grünflächen Werksviertel im Geltungsbereich des Bebauungsplanes mit Grünordnung Nr. 2061 im 14. Stadtbezirk Berg am Laim Herstellung der straßenbegleitenden öffentlichen Grünflächen Bedarfs- und Konzeptgenehmigung
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Hansjakobstr. 53a; Abriss eines Garagenhofs (84 Garagen) und Neubau von Wohnungen, anteilig öffentlich gefördert mit zugehörigen Stellplätzen in einer Tiefgarage - VORBESCHEID
+- TOP 3.1.2.: Baumkirchner Str. 71, Neubau eines Wohngebäudes mit Gewerbeeinheit sowie einem "Haus für Kinder" und Tiefgarage - mit Mobilitätskonzept
+- TOP 3.1.3.: Toilettenanlage am Quartierszentrum Berg am Laim
+- TOP 3.1.4.: Mehr Aufenthaltsqualität am Schüleinplatz, Antrag Fraktion Die Grünen
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Anhörung gemäß § 13 der Bezirksausschusssatzung zum Beschlussentwurf "Radschnellverbindungen in München und Umland"
+- TOP 3.2.2.: Neubau/Austausch einer Lichtsignalanlage (LSA)- Standort Else-Rosenfeld-/ Kreillerstraße
+- TOP 3.2.3.: Ampelschaltungen Berg-am-Laim-Straße; Anliegen eines Bürgers
+- TOP 3.2.4.: Erhöhung der Verkehrssicherheit von Fahrrädern, Rollstühlen und Kinderwägen durch Gummiprofil in Tramschienen, Antrag CSU-Fraktion
+- TOP 3.2.5.: Einsehbarkeit für Fußgänger*innen der Unterführung Thomas-Hauser-Straße
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Fachstelle MoNa – Moderation der Nacht bittet um Unterstützung - Anfrage durch das Sozialreferat -
+- TOP 3.3.2.: Aufzugsituation am Michaeligymnasium; Schreiben des Elternbeirates
+- TOP 3.3.3.: Anfrage Öffentlichkeitsarbeit - Fassadengestaltung; Anfrage einer Künstlerin
+- TOP 3.3.4.: Kinderfest des Bezirksausschusses 14 im Jahr 2022
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032, hier: Abfrage mit der Bitte um Rückmeldung bis Anfang Mai 2022
+- TOP 3.5.2.: Hybridsitzungen
+- TOP 3.5.3.: (E) Stadtbezirksbudget Maibaumverein Berg am Laim e.V. Maifeier am 01.05.2022 1.920,00 € / Az. 0262.0-14-0313
+- TOP 3.5.4.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür – PLAN B aus München für München von April bis November 2022 9.499,00 € / Az. 0262.0-14-0314
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Hansjakobstr. 53 a, Abriss eines Garagenhofs (84 Garagen) und Neubau von Wohnungen, anteilig öffentlich gefördert mit zugehörigen Stellplätzen in einer Tiefgarage - VORBESCHEID
+- TOP 3.6.2.: Hochriesstr. 6a
+- TOP 3.6.3.: Gronsdorfer Str. 13
+- TOP 3.6.4.: Kreillerstr. 141
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk Berg am Laim vom 10.01.2022 bis 06.02.2022
+- TOP 4.1.2.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 4.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.4.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 4.1.5.: Enkeltaugliche Kita-Planung in der der Halserspitzstraße: Natur-Kindergarten
+- TOP 4.1.6.: Sachstand zum Bauvorhaben Kreillerstr. 129 - Antwort des Referates für Stadtplanung und Bauordnung auf Bürgeranfrage -
+- TOP 4.1.7.: Café Mahlerhaus Baumkirchner Str. / Ecke Josephsburgstr. in Berg am Laim - Antwort der Stiftungsverwaltung auf Anfrage einer Bürgerin -
+- TOP 4.1.8.: Aufgrabung am Lorenz-Hagen-Weg durch die Telekom - Antwort des Baureferates auf Bürgeranliegen -
+- TOP 4.1.9.: Trambahn-Wendeschleife St.-Veit-Straße; Verschmutzung durch Zeitungen; Mitteilung einer Bürgerin - Antwort der Straßenreinigung -
+- TOP 4.1.10.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 4.1.11.: Sauberkeit Bürgersteig im Bereich Leuchtenbergring / Streitfeldstraße / Neumarkter Straße - abschließende Antwort des Baureferates auf Bürgeranliegen -
+- TOP 4.1.12.: Abbrennverbot für privates Feuerwerk und Böller an Silvester im Stadtteil
+- TOP 4.1.13.: Glasscherben auf Gehwegen regelmäßig entfernen Empfehlung Nr. 20-26/E 00153 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 14.07.2021 - Mitteilung des Baureferates über die Abänderung des Beschlusses des BA 14 vom 26.10.2021 -
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 4.2.2.: (U) Sanierungsgebiet „Neuperlach Nord“ Sanierungsgebiet „Neuperlach Zentrum“ A) Vorbereitende Untersuchungen im Untersuchungsgebiet Neuperlach B) Beteiligung der Betroffenen und der öffentlichen Aufgabenträger C) Neuperlach: Fit für die Zukunft – Start der Sanierung und Durchführung der Sanierung in mehreren Phasen D) Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes „Neuperlach Nord“ E) Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes „Neuperlach Zentrum“ F) Organisatorische Erfordernisse der Städtebauförderung zur Stadtteilentwicklung G) Personalbedarf im Referat für Stadtplanung und Bauordnung H) Städtebauförderung, Kosten, Finanzierung Stadtbezirk 16 ‒ Ramersdorf - Perlach Sitzungsvorlagen Nr. 20-26 / V 03969
+- TOP 4.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.5.: Umsetzung des Radentscheids im 14. Stadtbezirk Berg am Laim - Antwort des Mobilitätsreferates auf Anfrage des BA 14 -
+- TOP 4.2.6.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Projektname: Programm barrierefreie Bushaltestellen Kreillerstraße , Haltestelle Baumkirchner Straße - Antwort des Baureferates auf Beschluss des BA 14 vom 30.11.2021 -
+- TOP 4.2.7.: Probleme an Kreuzungen in Trudering und Berg am Laim hier: Sichtbarkeit der Ampel aus der Thomas-Hauser Straße kommend an der Kreuzung Truderinger Straße (Punkt 2 des Anliegens)
+- TOP 4.2.8.: Oberirdische Beschriftung der U-Bahn-Stationen
+- TOP 4.2.9.: Sommerstraßen und Parklets 2022 - Antwortschreiben des MOR auf Vorschläge des BA 14 -
+- TOP 4.2.10.: Unterstützung des Antrags des BA 14: Sichere und behindertengerechte Querung der Heinrich-Wieland-Straße (1) - barrierefreier Ausbau der Zugänge zum U-Bahnhof Michaelibad
+- TOP 4.2.11.: Berg am Laimer Tempo-30-Zonen vervollständigen
+- TOP 4.2.12.: Antrag: Fahrradparkhaus im Zuge des Baus der 2. Stammstrecke an der S-Bahnstation Leuchtenbergring bauen
+- TOP 4.2.13.: Arbeiten im Straßenraum Truderinger Str. (Straßenbau, Bauphase 1000) vom 14.02.2022 bis 03.06.2022
+- TOP 4.2.14.: Arbeiten im Straßenraum Vollsperrung Tunnelkette Mittlerer Ring Ost (Wartungsarbeiten) vom 14.03.2022 bis 18.03.2022 (Nachtarbeit jeweils 22.00 Uhr bis 05.30 Uhr)
+- TOP 4.2.15.: SWM Baumaßnahme Strom-Projekt in der Helmut-Dietl-Straße Beginn: 6. KW 2022 Ende: 10.KW 2022 - Mitteilung durch die SWM GmbH -
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Corona-Teststation am Grünen Markt - Stellungnahme gemäß § 13 Abs. 2 BA-Satzung i.V.m. § 20 BA-Satzung vorab -
+- TOP 4.4.2.: Ausschreibung der Bereitstellung und Betriebsführung von Beherbergungsbetrieben zur Unterbringung von wohnungslosen Haushalten - Änderung der Vorgaben des Vergabeermächtigungsbeschlusses von 2018 Sitzungsvorlage Nr. 20-26 / V 04794
+- TOP 4.4.3.: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 4.4.4.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.4.5.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 4.4.6.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.4.7.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Bestellung einer städtischen Leistung: Errichtung eines rollstuhlgeeigneten Karusells und einer zusätzlichen Kletterwand in der Grünanlage Xaver-Weismor-Straße
+- TOP 4.5.2.: Verwendungsnachweis des ESV München-Ost e.V.
+- TOP 4.5.3.: Verwendungsnachweis des Bürgerkreises Berg am Laim e.V.
+- TOP 4.5.4.: Verwendungsnachweis der Hidalgo GmbH
+- TOP 4.5.5.: Verwendungsnachweis Condrobs e.V.
+- TOP 4.5.6.: Ratsinformationssystem (RIS) – Papierlose Bezirksausschussarbeit Information zum neuen „RIS-Internet“ Einführung „RIS-Internet/ -Extranet-Basis“ für Bezirksausschüsse im Pilotbetrieb Einführung „RIS-Internet/ -Extranet persönlich“ für Bezirksausschussmitglieder Information zur Kooperationsplattform „Alfresco“
+- TOP 4.5.7.: Schreiben des BA 25 und Antwort des Direktoriums
+- TOP 4.5.8.: Vorgaben des Stadtrats zur Konsolidierung des städtischen Haushalts; hier: Kürzung des Stadtbezirksbudgets in 2022
+- TOP 4.5.9.: Bürgerversammlungen 2022 / Haushaltseinladungen; hier: Beiblatt mit Informationen zum Bezirksausschuss
+- TOP 4.5.10.: BA-Schaukästen; Möglichkeit von Aushängen Dritter - Antwort des Direktoriums auf Anfrage des BA 10 Moosach -
+- TOP 4.5.11.: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
+- TOP 4.5.12.: Bezirksausschuss kritisiert den Abbau der Lokalberichterstattung in der Süddeutschen Zeitung - Schreiben des BA 9 Nymphenburg-Neuhausen zur Kenntnisnahme -
+- TOP 4.5.13.: Bitte um Unterstützung bei der Seniorenvertretungswahl - Schreiben der 2. Bürgermeisterin Verena Dietl an die Bezirksausschüsse -
+- TOP 4.5.14.: Pressemitteilung des Münchner Migrationsbeirates vom 07.02.2022 Direktwahl ist unabdingbar!
+- TOP 4.5.15.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.5.: Traunstr. 1a, Neubau eines Doppelhauses
+- TOP 3.6.5.: Traunstr. 1a, Neubau eines Doppelhauses
+- TOP 3.2.6.: Baumaßnahme St.-Veit-Straße
+- TOP 3.1.6.: Hohenbrunner Str. 33, Neubau eines Mehrfamilienhauses mit 5 Wohneinheiten und 6 Stellplätzen
+- TOP 3.6.6.: Hohenbrunner Str. 33, Neubau eines Mehrfamilienhauses mit 5 Wohneinheiten und 6 Stellplätzen
+- TOP 1.1.1.: Ergänzungen und Änderungen zur Tagesordnung der Sitzung des Bezirksausschusses 14 am 22.02.2022 (Stand: 21.02.2022) TOP 3.1.5. Traunstr. 1a, Neubau eines Doppelhauses TOP 3.1.6. Hohenbrunner Str. 33, Neubau eines Mehrfamilienhauses mit 5 Wohneinheiten und 6 Stellplätzen TOP 3.2.6. Baumaßnahme St.-Veit-Straße TOP 3.6.5. Traunstr. 1a, Neubau eines Doppelhauses TOP 3.6.6. Hohenbrunner Str. 33, Neubau eines Mehrfamilienhauses mit 5 Wohneinheiten und 6 Stellplätzen
