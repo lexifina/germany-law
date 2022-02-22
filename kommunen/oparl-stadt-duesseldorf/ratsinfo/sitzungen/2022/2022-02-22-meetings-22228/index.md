@@ -1,0 +1,63 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-02-22T17:00:00+01:00
+- Ende: 2022-02-22T18:58:00+01:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula)
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22228
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22228
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 08.02.2022 eingegangene Fragen - beantwortet
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 25.01.2022 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Gymnasium Gerresheim, Am Poth 60 – Umbau und Erweiterung“. - Empfehlung einstimmig beschlossen
+- TOP 4.2: Förderung Solarenergie in Gebieten mit Erhaltungssatzungen - zur Kenntnis genommen
+- TOP 4.3: "Landpartie Grafenberg" auf der Galopprennbahn im Jahre 2022 - Empfehlung einstimmig beschlossen
+- TOP 4.4: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Piktogramm „Gemeinsam mit Rücksicht“ - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.4: Ladesäulen Apostelplatz - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 5.5: Ausbesserung der Fahrbahndecke Fahneburgstraße - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.6: Ersatz von Baumfällungen im Bezirk schnell realisieren - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.7: Gutes Miteinander von Spaziergängern und Hundehaltern im Grafenberger Wald fördern - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.8: Farbliche Gestaltung des städtischen Hauses für Kinder, Jugendliche und Familien an der Radeberger Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.9: Verbesserungen Radverkehrsführung Unterführung Morper Straße - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - abweichend beschlossen
+- TOP 5.10: Pumptrack-Anlage auf dem Bolzplatz an der Quadenhof Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.11: Durchfahrt Anliegerstraße Hallesche Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.12: Bau einer Fußgänger-/Fahrradbrücke über die nördliche Düssel zwischen Fröbelstraße und Am Quellenbusch - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.15: Einrichtung von E-Ladesäulen - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich abgelehnt
+- TOP 5.16: Verbesserung der Situation am Radweg Zamenhofweg/Bertastraße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Parkplätze Ludenberger Straße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 6.5: Sanierung der Otto- und Vereinsstraße - Anfrage der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - vertagt
+- TOP 6.6: Ausbau der Torfbruchstraße zwischen Dreherstraße und Pöhlenweg - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.7: Standorte für E-Ladestationen im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Standorte für das Stadtbaumkonzept in Gerresheim - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Ampelanlage und Beleuchtungssituation Wiebachweg / Dreherstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Parkraumdruck im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Parkscheibenregelung/Parkraumbewirtschaftung unter Heyestraße - Informationsvorlage zu den Beschlüssen der BV 7 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.2: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.3: Beseitigung von Erde auf dem Rad-/Fußweg an der Bergischen Landstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.01.2022 - - zur Kenntnis genommen
+- TOP 8.4: Information der BV 7 über Tagesordnungspunkte des Naturschutzbeirats betreffend Belange des Stadtbezirks 7 - Informationsvorlage zum Beschluss der BV 7 vom 25.01.2022 - - zur Kenntnis genommen
