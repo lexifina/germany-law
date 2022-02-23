@@ -1,0 +1,155 @@
+---
+ecli: "ECLI:DE:BVerfG:2022:rk20220223.1bvr071718"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 717/18"
+decided: "2022-02-23"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 23. Februar 2022\n- 1 BvR 717/18 -, Rn. 1-1,\n                    https://www.bverfg.de/e/rk20220223_1bvr071718"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/02/rk20220223_1bvr071718.html"
+corpus_doc_id: "BVerfG_2022-02-23_K_1_BvR_0717_18_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0092.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 717/18 vom 2022-02-23
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 1 BvR 717/18 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+
+des (…),
+vertreten durch den Intendanten (…),
+
+- Bevollmächtigte:   1. (…)
+
+                     2. (…) -
+
+  1. unmittelbar gegen
+
+ a) den Beschluss des Bundesgerichtshofs vom 15. Februar 2018 - I ZR 216/16
+    -,
+
+ b) den Beschluss des Bundesgerichtshofs vom 14. Dezember 2017 - I ZR 216/
+    16 -,
+
+  c) das Urteil des Oberlandesgerichts Köln vom 30. September 2016 - 6 U 188/
+     12 -,
+
+ d) das Urteil des Bundesgerichtshofs vom 30. April 2015 - I ZR 13/14 -,
+
+ e) das Urteil des Landgerichts Köln vom 27. September 2012 - 31 O 360/11 -,
+
+  2. mittelbar gegen
+
+ a) Art. 1 Satz 1 des Gesetzes zum Zwölften Rundfunkänderungsstaatsvertrag
+    und zur Änderung medienrechtlicher Vorschriften vom 24. März 2009 (GBl
+    Baden-Württemberg 2009, S. 130),
+
+ b) den Zustimmungsbeschluss des Bayerischen Landtags zum Zwölften Staatsvertrag zur Änderung rundfunkrechtlicher Staatsverträge (Zwölfter Rundfunkänderungsstaatsvertrag) vom 22. April 2009, bekanntgemacht am 5. Mai
+    2009 (GVBl Bayern 2009, S. 193),
+
+  c) § 1 Satz 1 des Gesetzes zum Zwölften Rundfunkänderungsstaatsvertrag
+     vom 2. April 2009 (GVBl Berlin 2009, S. 138),
+
+
+
+
+                                       1/4
+
+d) § 1 Satz 1 des Gesetzes zu dem Zwölften Staatsvertrag vom 18. Dezember
+   2008 zur Änderung rundfunkrechtlicher Staatsverträge (Zwölfter Rundfunkänderungsstaatsvertrag) vom 15. April 2009 (GVBl Brandenburg, Teil I 2009, S.
+   70),
+
+e) Art. 1 Satz 1 des Gesetzes zum Zwölften Rundfunkänderungsstaatsvertrag
+   vom 5. Mai 2009 (Brem.GBl 2009, S. 145),
+
+ f) Art. 1 des Gesetzes zum Zwölften Rundfunkänderungsstaatsvertrag vom
+    20. Mai 2009 (HmbGVBl, Teil I 2009, S. 131),
+
+g) § 1 des Gesetzes zu dem Zwölften Staatsvertrag zur Änderung rundfunkrechtlicher Staatsverträge (Zwölfter Rundfunkänderungsstaatsvertrag) vom 4.
+   März 2009 (GVBl Hessen, Teil I 2009, S. 58),
+
+h) Art. 1 Satz 1 des Gesetzes zum Zwölften Staatsvertrag zur Änderung rundfunkrechtlicher Staatsverträge (Zwölfter Rundfunkänderungsstaatsvertrag)
+   vom 19. Mai 2009 (GVOBl M-V 2009, S. 362),
+
+ i) Art. 1 Abs. 1 des Gesetzes zum Zwölften Rundfunkänderungsstaatsvertrag
+    und zur Änderung des Niedersächsischen Mediengesetzes vom 13. Mai
+    2009 (Nds. GVBl 2009, S. 170),
+
+ j) den Zustimmungsbeschluss des Landtags Nordrhein-Westfalen zum Zwölften Staatsvertrag zur Änderung rundfunkrechtlicher Staatsverträge (Zwölfter
+    Rundfunkänderungsstaatsvertrag) vom 1. April 2009, bekannt gemacht am 2.
+    April 2009 (GV NRW 2009, S. 199),
+
+k) § 1 Satz 1 des Landesgesetzes zu dem Zwölften Rundfunkänderungsstaatsvertrag vom 7. April 2009 (GVBl Rheinland-Pfalz 2009, S. 113),
+
+ l) Art. 1 Nr. 1 des Gesetzes Nr. 1682 über die Zustimmung zum 12. Staatsvertrag zur Änderung rundfunkrechtlicher Staatsverträge (12. Rundfunkänderungsstaatsvertrag) vom 6. Mai 2009 (Amtsbl. Saarland 2009, S. 985),
+
+m) Art. 1 Satz 1 des Gesetzes zum Zwölften Rundfunkänderungsstaatsvertrag
+   und zur Änderung des Sächsischen Privatrundfunkgesetzes vom 16. April
+   2009 (SächsGVBl 2009, S. 130),
+
+n) Art. 1 Abs. 1 des Gesetzes zum Zwölften Rundfunkänderungsstaatsvertrag
+   vom 20. April 2009 (GVBl LSA 2009, S. 192),
+
+o) § 1 Abs. 1 des Gesetzes zum Zwölften Rundfunkänderungsstaatsvertrag
+   vom 14. Mai 2009 (GOBl Schl.-H. 2009, S. 286),
+
+
+
+
+                                      2/4
+
+ p) § 1 Satz 1 des Thüringer Gesetzes zum Zwölften Rundfunkänderungsstaatsvertrag vom 26. März 2009 (GVBl Thüringen 2009, S. 293),
+
+     soweit sie die Zustimmung und den Normanwendungsbefehl zu § 11d Abs. 2
+     Satz 1 Nr. 3 3. Teilsatz in Verbindung mit § 2 Abs. 2 Nr. 18 und 19 des Rundfunkstaatsvertrags in der Fassung des Zwölften Staatsvertrags zur Änderung
+     rundfunkrechtlicher Staatsverträge (Zwölfter Rundfunkänderungsstaatsvertrag) vom 18. Dezember 2008, in Kraft getreten am 1. Juni 2009, enthalten,
+
+hat die 2. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+
+                                die Richter Paulus,
+
+                                Christ
+
+                                und die Richterin Härtel
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der
+Bekanntmachung vom 11. August 1993 (BGBl I S. 1473)
+am 23. Februar 2022 einstimmig beschlossen:
+
+       Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, da sie den Darlegungsanforderungen der § 23 Abs. 1 Satz 2 Halbsatz 1, § 92 BVerfGG im Hinblick auf den aufgrund der Änderung der
+       Sach- und Rechtslage nach Ablauf der Beschwerdefrist zu ergänzenden Vortrag (vgl. BVerfG, Beschluss des Ersten Senats vom 8. Juni
+       2021 - 1 BvR 2771/18 -, Rn. 53, 57; BVerfGE 106, 210 <214 f.>) nicht genügt und damit unzulässig ist. Insbesondere ist der Vortrag des Beschwerdeführers, dass trotz der Novellierung des Telemedienrechts
+       durch den 22. Rundfunkänderungsstaatsvertrag, der zum 1. Mai 2019
+       in Kraft getreten ist, die Annahmevoraussetzungen der Verfassungsbeschwerde weiterhin gegeben seien, nicht hinreichend.
+
+ Von einer weiteren Begründung wird nach § 93d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+ Diese Entscheidung ist unanfechtbar.                                                1
+
+                 Paulus                        Christ                     Härtel
+
+
+
+
+                                         3/4
+
+Bundesverfassungsgericht, Beschluss der 2. Kammer des Ersten Senats vom
+23. Februar 2022 - 1 BvR 717/18
+
+Zitiervorschlag BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 23. Februar 2022 - 1 BvR 717/18 - Rn. (1 - 1), http://www.bverfg.de/e/
+                rk20220223_1bvr071718.html
+
+ECLI            ECLI:DE:BVerfG:2022:rk20220223.1bvr071718
+
+
+
+
+                                      4/4
