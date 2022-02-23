@@ -1,0 +1,87 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-02-23T17:00:00+01:00
+- Ende: 2022-02-23T22:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4427
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4427
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Umsetzung des Beschlusses zum Einwohner:innenantrag "Pop-up Radweg auf der Hermannstraße" (Drs. Nr. 2008/XX) - schriftlich beantwortet
+- TOP 1.2: Unterstützung obdachloser Menschen durch das Bezirksamt Neukölln - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 2.1: Verurteilung der antisemitischen Demonstrationen vom 19. Februar 2022 - in der BVV abgelehnt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als stellvertretendes, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Nachrücken eines stellvertretenden, beratenden Mitgliedes als ordentliches, beratendes Mitglied - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.5: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bezirkshaushaltsplan für die Jahre 2022/2023 (Doppelhaushalt) - überwiesen
+- TOP 6.2: Einwohner*innenantrag: Reuterkiez für Menschen statt für Durchgangsverkehr - für einen lebenswerteren Reuterkiez - - überwiesen
+- TOP 6.3: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl von PatientenfürsprecherInnen - gewählt
+- TOP 7.2: Wahl eines stellvertretenden Bürgerdeputierten in den Sportausschuss - in der BVV abgelehnt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Wie weiter mit dem Interkulturellen Aufklärungsteam Neukölln? - beantwortet
+- TOP 8.2: Umsetzung klimapolitischer Ziele im Bezirk - beantwortet
+- TOP 8.3: Pauschale Minderausgaben - beantwortet
+- TOP 8.4: Soforthilfe für Opfer von Problemvermietern? - beantwortet
+- TOP 8.5: Interkulturelles Aufklärungsteam (IKAT) - beantwortet
+- TOP 8.6: Sturmschäden in Neukölln - beantwortet
+- TOP 8.7: Leerstand auf landeseigenem Friedhof Buschkrugallee - schriftlich beantwortet
+- TOP 8.8: Zwischennutzungsfrist Nachbarschaftshaus Karlsgarten - schriftlich beantwortet
+- TOP 8.9: IT Hardware sucht Anwender - schriftlich beantwortet
+- TOP 8.10: Leerstand oder Nutzung des Nachbarschaftshauses Karlsgartenstraße - schriftlich beantwortet
+- TOP 8.11: Öffentliche Toilette in Alt-Buckow - schriftlich beantwortet
+- TOP 8.12: Sichere Schulwege in Neukölln - schriftlich beantwortet
+- TOP 8.13: CIZ und CAZ Riesestraße vor dem Aus? - schriftlich beantwortet
+- TOP 8.14: Was geschieht mit dem Migrationsbeirat Neukölln? - schriftlich beantwortet
+- TOP 8.15: Sturmschäden - schriftlich beantwortet
+- TOP 8.16: Sturmtief Zeynep und Obdachlose - schriftlich beantwortet
+- TOP 9: Mitteilungen - erledigt
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Unterstützung und Hilfe bei Mietschuldenübernahme - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Altenhilfeplanung erarbeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Seniorenarbeit neu strukturieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Hinweisschild für die Donaustraße 89 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Parkplatzsituation in Neukölln - beantwortet
+- TOP 11.2: Straßen- und Platznamen mit antisemitischen Bezügen - beantwortet
+- TOP 11.3: Chaotische Zustände durch die Omikron-Welle - schriftlich beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Sperrmüll-Lastenräder in die fLotte integrieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Antrag auf Streichung der Fahrgeldentschädigungen für Bezirksverordnete - vertagt
+- TOP 12.3: Streuobstwiese Rudow - Pflege gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Schulanmeldungen online! - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Kranold-/Bendastraße - Kreuzung soll sicherer werden - vertagt
+- TOP 12.6: Geschwindigkeit Waßmannsdorfer Chaussee - in der BVV abgelehnt
+- TOP 12.7: Geschwindigkeit Schönefelder Straße - in der BVV abgelehnt
+- TOP 12.8: Kiezblock Rollberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Barrierefreie Querung der Blaschkoallee - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Einrichtungsbezogene Impfpflicht - vertagt
+- TOP 13.2: Was tun Sozialamt und Jobcenter gegen Notlagen durch steigende Energiekosten? - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Wartetrittbretter für Radfahrer*innen - überwiesen
+- TOP 15.2: Cargobike-Stellflächen in der Braunschweiger Straße 80 - überwiesen
+- TOP 15.3: Übernahme gestiegener Heizkosten für Transferleistungsbeziehende sicherstellen - überwiesen
+- TOP 15.4: Die Neuköllner Mauer muss weg - überwiesen
+- TOP 15.5: Das Interkulturelle Aufklärungsteam Neukölln - überwiesen
+- TOP 15.6: Fahrradbügel U-Bahnhof Johannisthaler Chaussee - überwiesen
+- TOP 15.7: Nutzung von Regenwasser aus Dachabläufen zur Bewässerung von Straßenbäumen - überwiesen
+- TOP 15.8: European Energy Award (eea) QMS für kommunale Energieeffizienz - überwiesen
+- TOP 15.9: Wahlen zur Seniorenvertretung – Briefwahl erleichtern - überwiesen
+- TOP 15.10: Entsiegelung: Kölner Damm Rückbau Endabschnitt - überwiesen
