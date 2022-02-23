@@ -1,0 +1,72 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf - Videokonferenz
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2022-02-23T17:00:00+01:00
+- Ende: 2022-02-23T22:00:00+01:00
+- Ort: Bürgersaal , Rathaus Zehlendorf
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4422
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4422
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Radfahrstreifen auf der Attilastraße - beantwortet
+- TOP 3.2: Situation obdachloser Menschen in der Schloßstraße - beantwortet
+- TOP 3.3: Schäden im Zusammenhang mit dem Sturmtief Nadia - beantwortet
+- TOP 3.4: Straßenblockaden: Gefährdung von Menschenleben durch „Klimaaktivisten“ - beantwortet
+- TOP 3.5: Stein des Anstoßes auf dem Paulinenplatz in Lichterfelde-West - schriftlich beantwortet
+- TOP 3.6: Radfahrstreifen auf der Kaiser-Wilhelm-Straße - schriftlich beantwortet
+- TOP 3.7: Corona: Suizidversuche bei Kindern verdreifacht? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Hildegard-Gräfin-von-Koenigsmarck-Stiftung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Neuwahl der Mitglieder des Widerspruchsbeirates in Sozialhilfe- und Teilhabeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Wahl der Bürgerdeputierten und deren Stellvertreter/innen sowie die Berufung von beratenden Mitgliedern und deren Stellvertreter/innen zu Mitgliedern des Jugendhilfeausschusses für die VI. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Querungshilfe am Kiosk Bahnhofsvorplatz Lichterfelde-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Linksabbiegen Machnower Straße Ecke Ludwigsfelder/Sachtlebenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Runder Tisch Gutzmannstraße/Leo-Baeck-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Busspur in der Drakestraße: Nutzungszeiten ausweiten und Verkehrssicherheit durchsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Bewässerungssäcke nutzen - überwiesen
+- TOP 5.3: Stigmatisierung beenden und effektiv Hilfe leisten: Einrichtung eines Drogenkonsumraums prüfen - überwiesen
+- TOP 5.4: Kostenlose Bereitstellung von Menstruationsartikeln in Ämtern und bezirkseigenen Einrichtungen - überwiesen
+- TOP 5.5: Kostenlose Bereitstellung von Menstruationsartikeln in Schulen und Jugendfreizeiteinrichtungen - überwiesen
+- TOP 5.6: Transparente Bezirksamtsprotokolle - überwiesen
+- TOP 5.7: Havelchaussee – Durchgangsverkehr schnellstmöglich beenden - überwiesen
+- TOP 5.8: Bahnhofsvorplatz Lichterfelde-West: Gesamtkonzept unter Bürger:innenbeteiligung erarbeiten, Kiosk erhalten, Autoverkehr reduzieren - überwiesen
+- TOP 5.9: Verkehrssicherheit entlang der Königstraße (B1) in Wannsee erhöhen - überwiesen
+- TOP 5.10: Pflegebedürftige Menschen haben ein Recht auf Mobilität: Umgebung der Residenz Dahlem an den Mobilitätsanforderungen der Bewohner:innen ausrichten - überwiesen
+- TOP 5.11: Treitschkestraße umbenennen – weil es endlich Zeit wird! - überwiesen
+- TOP 5.12: Gedenkstein im Paul-Mebes-Park nicht länger verfallen lassen! - überwiesen
+- TOP 5.13: Keine Glascontainer direkt an Fahrradwegen - überwiesen
+- TOP 5.14: Schallschutz Glas-Iglu Wannsee - überwiesen
+- TOP 5.15: Sichere Querung der Spanischen Allee - überwiesen
+- TOP 5.16: Angemessene Pflege der Friedhöfe - überwiesen
+- TOP 5.17: Neuer Wohnraum auch für Menschen mit Behinderung - überwiesen
+- TOP 5.18: Weiterhin ein Durchfahrtsverbot für LKW über 7,5 t im Nieritzweg - überwiesen
+- TOP 5.19: Fahrradampel (Lichtzeichenanlage) an der Kreuzung Teltower Damm/Machnower Straße - überwiesen
+- TOP 5.20: Clayallee: Busspur mit Erhalt von (Behinderten-)Parkplätzen - überwiesen
+- TOP 5.21: Zusammenarbeit mit dem „Stadtteilzentrum Steglitz e.V.“ suspendieren - überwiesen
+- TOP 5.22: Zuverlässigkeitsprüfung des „Stadtteilzentrum Steglitz e.V.“ durch die Senatssozialverwaltung begleiten - überwiesen
+- TOP 5.23: Geschäftsstelle Kulturnetzwerk „KulturKorso“ beim Kulturamt - überwiesen
+- TOP 5.24: Lieferzonen Steglitzer Damm - überwiesen
+- TOP 5.25: Kulturveranstaltungen im öffentlichen Raum fördern - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Geht die Skandalserie am Steglitzer Kreisel in die nächste Runde? - beantwortet
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Resolution: Für ein solidarisches Steglitz-Zehlendorf - Gegen Antisemitismus und rechte Hetze im Bezirk - überwiesen
+- TOP 7.2: Unterstützungsmöglichkeiten für Partnerstadt Charkiw - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Verlängerung Sondernutzungserlaubnis Bürgersteig für Kiosk Lichterfelde-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Erhalt Kiosk S-Bahnhof Lichterfelde-West - in der BVV abgelehnt
+- TOP 9: Vorlagen zur Kenntnisnahme - Beantwortung Große Anfrage - erledigt
+- TOP 9.1: Folgen der branchenspezifischen Impfpflicht - zur Kenntnis genommen (Beratungsfolge beendet)
