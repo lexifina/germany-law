@@ -1,0 +1,7 @@
+# TOP 7.3: Weiterbehandlung der Drucksachen: DS 1996/VIII - Jetzt die Fortführung des Bebauungsplanverfahrens 11-80 vorbereiten -Untersuchungen zu Altlasten, der stadttechnischen Erschließung und zum Baugrund beauftragen; DS/1997/VIII - Abwägungsklausel für genehmigungspflichtige Vorhaben und sonstige Maßnahmen im Bebauungsgebiet 11 - 80
+
+- Sitzung: 4. Sitzung in der IX. Wahlperiode des Ausschusses Ökologische Stadtentwicklung, Mieter:innenschutz und Facility Management (2022-02-24)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=57804
+- Ergebnis: vertagt
