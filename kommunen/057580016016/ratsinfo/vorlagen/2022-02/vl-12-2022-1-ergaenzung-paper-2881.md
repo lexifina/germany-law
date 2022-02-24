@@ -1,0 +1,29 @@
+# Haushaltssatzung der Gemeinde Hiddenhausen für das Haushaltsjahr 2022
+
+- Körperschaft: Gemeinde Hiddenhausen
+- Drucksache/Vorlage: VL-12/2022 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-02-24
+- Ratsinformationssystem: https://hiddenhausen.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZXw2s7AN7wyR3k6x0vk9JZY
+- OParl: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2881
+- Quelle: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung der Gemeinde Hiddenhausen für das Haushaltsjahr 2022) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVZ14TY2UEjy6DzLBxP41OVgg5EFhStMzOP7JEbpYhd6/Beschlussvorlage_VL-12-2022_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag Haushalt 2022) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf8vEaDu2iutMz54va7NpL_F_drrP_Y_dUTP4cZlss88/Antrag_Haushalt_2022.pdf
+- Anlage: Beschlussvorlage (2022_01-31_Antrag CDU_zu den Dienstleistungen der Gemeinde Hiddenhausen) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe56xZxBmZky9R4W7ZJp_XsVdmczuOGnGytthYVEmMOb/2022_01-31_Antrag_CDU_zu_den_Dienstleistungen_der_Gemeinde_Hiddenhausen.pdf
+- Anlage: Beschlussvorlage (Antrag CDU_Erstellung eines Konzeptes zur Transparenz und Umsetzungskontrolle von Fraktionsanträgen) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTZm4pBeGxjrJ7FG2fKPWP-07lNr91lDw5PVTBtqGNx4/Antrag_CDU_Erstellung_eines_Konzeptes_zur_Transparenz_und_Umsetzungskontrolle_von_Fraktionsantraegen.pdf
+- Anlage: Beschlussvorlage (2022_01-31_Antrag CDU_zur (Neu-)Betrachtung bei Fahrzeugbeschaffungen) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRv1tCxQiLn2aFOXU6Sv8me3IvcSVbS1Z53aem_p_7KD/2022_01-31_Antrag_CDU_zur_-Neu--Betrachtung_bei_Fahrzeugbeschaffungen.pdf
+- Anlage: Beschlussvorlage (Antrag CDU_zur Errichtung einer Hundeauslauffläche) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfDocl4h-kMIR1M6dA6AY49d6DRWRGXG2IkzmKkn9UHR/Antrag_CDU_zur_Errichtung_einer_Hundeauslaufflaeche.pdf
+- Anlage: Beschlussvorlage (Antrag CDU_zur Errichtung eines sicheren Fussgängerübergangs auf der Milchstrasse Höhe Kirche) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWdyvXsBH4JuPe7zJmJGgW7Unh46EIFGvgd32ZDFYPnn/Antrag_CDU_zur_Errichtung_eines_sicheren_Fussgaengeruebergangs_auf_der_Milchstrasse_Hoehe_Kirche.pdf
+- Anlage: Beschlussvorlage (Anfrage CDU_zu Nutzungsmöglichkeiten gemeindeeigener Flächen) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUjuJQq6GnzmQYlSQW94JSX_Kg408duhXiB8scwMK19S/Anfrage_CDU_zu_Nutzungsmoeglichkeiten_gemeindeeigener_Flaechen.pdf
+- Anlage: Beschlussvorlage (Antrag CDU_kostenlose WLAN-Hotspots) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXqifF1hqAwz0bwl9kPzcuXsvY16QlcwQ0ynIapKQ581/Antrag_CDU_kostenlose_WLAN-Hotspots.pdf
+- Anlage: Beschlussvorlage (B90.Grüne_Bebauungspläne_HH22) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeryzIVSbUkpV1bMWERM6HVCP4O9zq-X-8Em1H2XIUVr/B90.Gruene_Bebauungsplaene_HH22.pdf
+- Anlage: Beschlussvorlage (B90.Grüne_Entsiegelung_HH22) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT88zrbalO8K-MFxv4xoZz0r44TFtw0Q1FqCBbvNk7hF/B90.Gruene_Entsiegelung_HH22.pdf
+- Anlage: Beschlussvorlage (Entsiegelung_Beispiel Land Bremen) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbKWxHKGbklgmQ72jkzdMN9WTNATf7dCUDeqHM9VC26u/Entsiegelung_Beispiel_Land_Bremen.pdf
+- Anlage: Beschlussvorlage (B90.Grüne_Radweg Füllenbruch_HH22) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSirHQzJBa7Jt_4o73tFTevKwQPQciH73mYorFe0pi9K/B90.Gruene_Radweg_Fuellenbruch_HH22.pdf
+- Anlage: Beschlussvorlage (Präsentation) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRsp-8Ol62PayzAFEslMLV6TJwr0m7l1l4EIPEjeqHVg/Praesentation.pdf
+- Anlage: Beschlussvorlage (B90.Grüne_Saugmahd_HH22) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZKiD-HXuDFFoJ3gZ2t6Os_qz198O3lpbiw5JNJ9Dj6Z/B90.Gruene_Saugmahd_HH22.pdf
+- Anlage: Beschlussvorlage (Infoblatt_Wegerandstreifen_Löhne) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSp_mFmUiS1dfCqtEMN8JgjZwdK0LPHKvMatBJQqw7V-/Infoblatt_Wegerandstreifen_Loehne.pdf
+- Anlage: Beschlussvorlage (Änderungsliste zum HH-Entwurf) https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX13YqM09HUPjZ6CLLFvUzl-RVQ8Riig-F6HqHwXGWJC/Aenderungsliste_zum_HH-Entwurf.pdf
+- Beratung:  https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3311 https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3312 https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-2
