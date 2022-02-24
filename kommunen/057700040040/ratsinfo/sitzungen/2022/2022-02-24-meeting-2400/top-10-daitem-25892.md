@@ -1,0 +1,7 @@
+# TOP 10.: Standort Krankenhausneubau im Lübbecker Land
+
+- Sitzung: Rat (10. Sitzung) (2022-02-24)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/25892
+- Ergebnis: 30 Stimmen dafür, 0 dagegen, 1 Enthaltungen
