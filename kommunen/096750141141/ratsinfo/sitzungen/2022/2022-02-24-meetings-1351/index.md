@@ -1,0 +1,51 @@
+# Sitzung des Stadtrates
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2022-02-24T17:00:00+01:00
+- Ende: 2022-02-24T20:30:00+01:00
+- Ort: Alte Synagoge
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1351
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1351
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00052400.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00052642.pdf
+
+## Tagesordnung
+
+- TOP 1: Dienstrecht; hier: Richtlinie bezüglich der leistungsorientierten Besoldung - beschlossen
+- TOP 2: Dienstrecht; hier: Beförderungsrichtlinie der Großen Kreisstadt Kitzingen - beschlossen
+- TOP 3: Städtisches Grundvermögen; Verkauf der städtischen Immobilien Mainbernheimer Straße 112 und 114 - abgelehnt
+- TOP 4: Auftragsvergaben
+- TOP 4.1: Sanierung Aussegnungshalle Friedhof Hoheim - beschlossen
+- TOP 4.2: Erweiterung Kindergarten Alemannenstraße - beschlossen
+- TOP 4.3: Florian-Geyer-Halle - Erneuerung der technischen Anlagen - beschlossen
+- TOP 4.4: Dreifeldhalle Sickergrund - Generalsanierung - beschlossen
+- TOP 4.5: Anbindung Außenstellen Stadt Kitzingen über LWL (Glasfaseranbindung) - Bauabschnitt 2.2 von Südbrücke bis Bauhof, hier: Autragsvergabe Tiefbauarbeiten BA 2.2 gemäß VOB/A sowie Genehmigung der Mehrkosten - beschlossen
+- TOP 5: Bildung von Haushaltsausgaberesten des Haushaltsjahres 2021 zur Übertragung in das Haushaltsjahr 2022 - beschlossen
+- TOP 6: Breitbandausbau in Kitzingen; Kooperation mit der Deutsche Glasfaser Wholesale GmbH und Information über den geplanten Glasfaserausbau der Telekom GmbH - Ohne Abstimmung
+- TOP 7: Schrannstrasse 35; hier: künftige Nutzung des Gebäudes - beschlossen
+- TOP 8: Satzung zu Bürgerbegehren und Bürgerentscheid vom 27.03.1998 (BBS) hier: Neuerlass der Satzung zu Bürgerbegehren und Bürgerentscheid (BBS) - beschlossen
+- TOP 9: Anträge von Fraktionen und Gruppen
+- TOP 9.1: Antrag der Fraktion Bündnis 90/ DIE GRÜNEN; hier: Antrag auf Einrichten eines E-Carsharing-Modells in Kitzingen vom 14.02.21 - zurückgestellt
+- TOP 9.2: Antrag der SPD-Fraktion: - zurückgestellt
+- TOP 9.3: Antrag der ÖDP-Fraktion vom 01.11.2021: Wohnraumpolitik - beschlossen
+- TOP 9.4: Alte Poststraße 30 - beschlossen
+- TOP 9.5: Antrag der CSU-Stadtratsfraktion vom 19.10.2021; hier: Aufstellung eines Bebauungsplanes "Bildungsstandort" - beschlossen
+- TOP 10: Antrag des Landkreises Kitzingen auf Erhöhung der Kostenbeteiligung durch die Stadt Kitzingen an der Kinderbetreuungseinrichtung "Rappelkiste" - beschlossen
+- TOP 11: Gebührensatzung für die Musikschule der Stadt Kitzingen (Musikschulgebührensatzung); hier: Satzungsänderung - beschlossen
+- TOP 12: „Der Falter“; hier: Verlängerung der Vereinbarung mit dem Herausgeber bis zum 31.12.2022 - beschlossen
+- TOP 13: Straßenbeleuchtungsunterhalt; - beschlossen
+- TOP 14: Berichtswesen
+- TOP 14.1: Lfd.Nr. 8 - Sanierung von sozialem Wohnraum - Wortmeldung Stadträtin Schmidt
+- TOP 14.2: Lfd.Nr. 33 - Obere Anlagen - Wortmeldung Stadträtin Glos
+- TOP 14.3: Lfd.Nr. 11 - Ausschreibung Stromlieferung - Wortmeldung Stadtrat Sanzenbacer
+- TOP 14.4: Lfd.Nr. 29 - Sanierung Alte mainbrücke - Wortmeldung Stadtrat Popp
+- TOP 14.5: Lfd.Nr. 30 - Kommunales Förderprogramm - Wortmeldung Stadtrat Pauluhn
+- TOP 14.6: Lfd.Nr. 26 - Neugestaltung Breslauer Straße - Wortmeldung Stadträtin Büttner
+- TOP 15: Sonstiges
+- TOP 15.1: Solarleuchten - Wortmeldung Stadträtin Tröge
+- TOP 15.2: Fassade Galgenwasen Nr. 13 - 37 - Wortmeldung Bauamtsleiter Graumann
+- TOP 15.3: Müllablagerung am Pavillon in Repperndorf - Wortmeldung Stadtrat Markert
+- TOP 15.4: Sonnenschutz Rollos am Schulzentrum Siedlung - Wortmeldung Stadtrat Müller
