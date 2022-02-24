@@ -1,0 +1,77 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2022-02-24T16:30:00+01:00
+- Ende: 2022-02-24T20:34:00+01:00
+- Ort: Stadthalle, Europaplatz 10, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-RAT-133
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-RAT-133
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2022-RAT-133
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-RAT-133
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-RAT-133
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Gemeinsame Resolution SPD, CDU, Bündnis90/Grüne, FDP, FWI, DIE LINKE, Die Fraktion, UBP vom 24.02.2022_Resolution zum Krieg in der Ukraine - einstimmig angenommen
+- TOP 2.1: Änderung (1.) der Hauptsatzung Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 3: Abberufung und Bestellung eines/einer Beigeordneten zur/zum allgemeinen Vertreter/in des Bürgermeisters - einstimmig angenommen
+- TOP 4: Zuwendungen an die Fraktionen des Rates der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 5: Benennung von Delegierten für die Mitgliederversammlung 2022 des Städtetages Nordrhein-Westfalen am 01. und 02. Juni 2022 in Essen - einstimmig angenommen
+- TOP 6: Einführung eines Interaktiven Haushaltsplans für die Stadt Castrop-Rauxel
+- TOP 7: Sachstandsbericht Haushaltssanierungsplan 2021 - Stand 30.09.2021 (Berichterstattung gegenüber der Bezirksregierung Münster)
+- TOP 8: Beschluss über die Übertragung von Haushaltsermächtigungen in das Haushaltsjahr 2022 - einstimmig angenommen
+- TOP 9: Bereitstellung von außerplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Kontierung 5237000/50200/610101 Zuschüsse an private Unternehmen über 60.000 €. - einstimmig angenommen
+- TOP 10: Genehmigung der Dringlichkeitsentscheidung vom 01.12.2021 gem. § 60 Abs. 1 Satz 2 GO NRW - einstimmig angenommen
+- TOP 11: Genehmigung der Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW Bereitstellung von überplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Buchungsstelle 50120/610101/0241002/ALT172 (Grunderwerb). - einstimmig angenommen
+- TOP 12: Genehmigung der Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW Bereitstellung von außerplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Kontierung: 1911002/50400/212101/ALT566 (Sanierung Schule Oberwiese -Finanzierungsanteil der Stadt Castrop-Rauxel) - einstimmig angenommen
+- TOP 13: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW Bereitstellung von außerplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Kontierung: 0511002/08001/540103/ALT888 sowie 0711202/08001/540103/ALT888 (Fahrradabstellanlage Hauptbahnhof) - einstimmig angenommen
+- TOP 14: Zusätzliche Mittelbereitstellungen für das Corona-Testzentrum am Stadtmittelpunkt in Castrop-Rauxel - einstimmig angenommen
+- TOP 15: Grundsatzbeschluss des Rates zum notwendigen Neubau einer Feuer- und Rettungswache - einstimmig angenommen
+- TOP 16: Veräußerung der Geschäftsanteile an der newPark Planungs- und Entwicklungsgesellschaft mbH - einstimmig angenommen
+- TOP 17: Zensus 2022
+- TOP 18: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2022 - mehrheitlich angenommen
+- TOP 19: Satzung zur Verfahrensregelung über die Werbung für politische Zwecke auf öffentlichen Straßen während der Wahlkampfzeit (Wahlwerbesatzung) - einstimmig angenommen
+- TOP 20: Antrag der CDU-Fraktion vom 01.02.2022_Einführung Sicherheits-Jour-fixe - mehrheitlich abgelehnt
+- TOP 21: Antrag der CDU-Fraktion vom 01.02.2022_Installation von Notrufanlagen im Stadtgebiet
+- TOP 21.1: Antrag CDU Fraktion vom 24.02.2022_Änderungsantrag Installationen von Notrufanlagen im Stadtgebiet - einstimmig angenommen
+- TOP 22: Antrag der CDU-Fraktion vom 01.02.2022_Wiederherstellung Schwerlastverbot im Schöttelkamp
+- TOP 23: Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90/ Die GRÜNEN vom 02.02.2022_Umlaufsperre am oberen Bereich Scheitensberg Marienstraße - einstimmig angenommen
+- TOP 24: Antrag der FDP-Fraktion vom 10.01.2022_Prüfauftrag Fahrradstraßen - mehrheitlich abgelehnt
+- TOP 25: Antrag der CDU-Fraktion vom 27.01.2022_Aufnahme von E-Scootern in die Gebührensatzung und Erstellung einer Kooperationsvereinbarung
+- TOP 25.1: Antrag CDU Fraktion vom 24.02.2022_Änderungsantrag Aufnahme von E-Scootern in die Gebührensatzung und Erstellung einer Kooperationsvereinbarung - einstimmig angenommen
+- TOP 26: Antrag der CDU-Fraktion vom 31.01.2022_Konzeptentwurf digitaler Traukalender
+- TOP 26.1: Antrag CDU Fraktion vom 24.02.2022_Änderungsantrag Konzeptentwurf digitaler Traukalender
+- TOP 27: Antrag der CDU-Fraktion vom 31.01.2022_Erneuerung naturkundlicher Lehrgestaltung - einstimmig angenommen
+- TOP 28: Antrag der FDP-Fraktion "Vorhaltung von Lebensmitteln und Ausrüstung für den Katastrophenfall zur Ausgabe an bedürftige Bürger" - mehrheitlich abgelehnt
+- TOP 29: Antrag der CDU-Fraktion vom 01.02.2022_Antrag Sachstandsbericht 20 ha-Beschluss
+- TOP 30: Antrag CDU Fraktion vom 08.02.2022_Stellungnahme im Rahmen des zweiten Beteiligungsverfahrens zum Regionalplan Ruhr
+- TOP 30.1: Gemeinsamer Antrag der Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN vom 22.02.2022_Änderungsantrag zum TOP 30 Ratssitzung_ CDU Antrag_Stellungnahme im Rahmen des zweiten Beteiligungsverfahrens zum Regionalplan Ruhr - mehrheitlich angenommen
+- TOP 31: Antrag der CDU-Fraktion vom 01.02.2022_Sachstandsbericht ehemaliger Betriebshof Herner Straße
+- TOP 32: Antrag der FDP-Fraktion vom 05.01.2022: Prüfauftrag / Erwerb von Bestandsimmobilien anhand des in den Ruhr Nachrichten am 05.01.2022 im Lokalteil - "Zwei Häuserkomplexe sind zu haben" - angesprochenen Beispielfalls mit dem Ziel der Gründung einer Wohnungsbaugesellschaft" - mehrheitlich abgelehnt
+- TOP 33: Antrag der FDP-Fraktion vom 01.02.2022_"Bericht über die Tätigkeiten der Entwicklungsgesellschaft ECAS GmbH" - mehrheitlich abgelehnt
+- TOP 34: Straßennameneinziehung, Straßen- und Platzbenennung im "Beerenbruchviertel" - einstimmig angenommen
+- TOP 35: Bebauungsplan Nr. 242 "Südliche Altstadt" hier: Satzungsbeschluss nach § 10 Abs. 1 BauGB - einstimmig angenommen
+- TOP 36: Vorkaufsrechtssatzung 1 hier: Aufhebung der Satzung zur Bezeichnung von Flächen, in denen die Stadt nach § 25 Abs. 1 Nr. 2 Baugesetzbuch ein besonderes Vorkaufsrecht beansprucht - einstimmig angenommen
+- TOP 37: Antrag der CDU-Fraktion vom 31.01.2022_Fahrradabstellvorrichtungen an Haltestellen - einstimmig angenommen
+- TOP 38: Antrag der DIE LINKE-Fraktion vom 27.01.2022_Anfrage zur Ausführung des Ratsbeschlusses "Klimaschutz (2021/173) vom 24.06.2021
+- TOP 39: Antrag der CDU-Fraktion vom 26.01.2022_Sachstand Umsetzung des Ratsbeschlusses zur Wirtschaftsförderung vom 04.04.2019
+- TOP 40: Gemeinsamer Antrag von SPD, Bündnis 90 / Die Grünen vom 01.02.2022 "Umsetzung Nahmobilitätskonzept" - mehrheitlich angenommen
+- TOP 41: Antrag der CDU-Fraktion vom 30.01.2022_Schulspielplätze
+- TOP 42: Antrag der Fraktion Bündnis 90 Die Grünen vom 01.02.2022_Ausschussumbesetzungen
+- TOP 42.1: Gemeinsamer Antrag der Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN vom 20.02.2022_Ergänzungsantrag zum TOP 42_Antrag der Fraktion Bündnis 90 Die Grünen vom 01.02.2022_Ausschussumbesetzungen - einstimmig angenommen
+- TOP 43: Antrag der FWI Fraktion vom 04.02.2022_Ausschussumbesetzungen - einstimmig angenommen
+- TOP 44: Umbesetzung des Ev. Johanneswerk im Ausschuss für Generationen und Inklusion (AGI) - einstimmig angenommen
+- TOP 45: Antrag der Fraktion DIE LINKE vom 02.02.2022_Aussetzung des Verfahrens zur Aufstellung des neuen Nahverkehrsplans des Kreises Recklinghausen - mehrheitlich abgelehnt
+- TOP 46: Antrag der FDP-Fraktion vom 24.01.2022
+- TOP 47: Antrag der FDP Fraktion vom 01.02.2022_Aktenführung - mehrheitlich abgelehnt
+- TOP 48: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49: Antrag der SPD Fraktion vom 14.02.2022_Dringlichkeitsantrag auf Ausschussumbesetzungen - einstimmig angenommen
+- TOP 50: Antrag CDU Fraktion vom 24.02.2022_Eilantrag Früherer Beginn Grünschnittaktion 2022 - einstimmig angenommen
+- TOP 51: Anfragen der Ratsmitglieder
+- TOP 52: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
