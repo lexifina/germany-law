@@ -2,7 +2,7 @@
 (1) Die Stadtgemeinde Bremen kann die unabhängige Polizeibeauftragte oder den unabhängigen Polizeibeauftragten für die Freie Hansestadt Bremen zeitgleich mit deren oder dessen Ernennung oder während deren oder dessen Amtszeit auch zu der oder dem unabhängigen Beauftragten für die Feuerwehr Bremen (beauftragte Person) in ihrem Zuständigkeitsbereich benennen.
 (2) In der Ausübung des Amts ist die beauftragte Person unabhängig, weisungsfrei und nur dem Gesetz unterworfen.
 (3) Die beauftragte Person hat die Aufgabe
-1. die Bürgerinnen und Bürger im Dialog mit der Feuerwehr Bremen zu unterstützen und das partnerschaftliche Verhältnis zwischen ihnen und der Feuerwehr Bremen zu stärken;
+1. die Bevölkerung im Dialog mit der Feuerwehr Bremen zu unterstützen und das partnerschaftliche Verhältnis zwischen ihr und der Feuerwehr Bremen zu stärken;
 2. als Hilfsorgan der Stadtbürgerschaft und der städtischen Deputation diese bei der Wahrnehmung ihrer besonderen Kontroll- und Fürsorgepflichten gegenüber der Feuerwehr Bremen zu unterstützen;
 3. darauf hinzuwirken, dass begründeten Hinweisen und Beschwerden abgeholfen wird;
 4. Fehler und Fehlverhalten in Einzelfällen, die auf eine Verletzung von Rechtsstaatlichkeit oder Diskriminierungsfreiheit schließen lassen, sowie entsprechende strukturelle Mängel und Fehlentwicklungen zu erkennen und durch Hinweise und Empfehlungen darauf hinzuwirken, dass sie behoben werden und sich nicht wiederholen;
