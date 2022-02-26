@@ -39,3 +39,4 @@
 - [§ 24 Inkrafttreten](0024.md)
 - [Anlage Gesamtplan des Bundeshaushaltsplans 2021](anlage.md)
 - [(XXXX) Nachtrag zum Gesamtplan des Bundeshaushaltsplans 2021](xxxx.md)
+- [(XXXX) Zweiter Nachtrag zum Gesamtplan des Bundeshaushaltsplans 2021](xxxx-2.md)

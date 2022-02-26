@@ -7,7 +7,8 @@ I. Allgemeines
     Buhnen und Parallelwerke können durch schwimmende oder feste Schifffahrtszeichen bezeichnet sein. Diese sind im Allgemeinen vor oder auf den Buhnenköpfen und Parallelwerken angebracht.
     Von den Zeichen muss ein ausreichender Abstand gehalten werden, da sonst Gefahr besteht, zu raken oder aufzulaufen.
   2. Begriffe
-| Fahrrinne: | Teil der Wasserstraße, in dem für den durchgehenden Schiffsverkehr bestimmte Breiten und Tiefen vorhanden sind, deren Erhaltung angestrebt wird. |
+| Fahrrinne: | Teil der Wasserstraße, in dem für die durchgehende Schifffahrt bestimmte Breiten und Tiefen vorhanden sind, deren Erhaltung angestrebt wird. |
+| Fahrwasser: | Teil der Wasserstraße, der den örtlichen Umständen nach von der durchgehenden Schifffahrt benutzt wird. |
 | Rechte Seite/linke Seite: | Die Bezeichnung "rechte Seite" und "linke Seite" der Wasserstraße/der Fahrrinne bezieht sich auf die Richtung "Talfahrt". |
 | Feuer: | Licht mit Kennung, das der Befeuerung dient. |
 | Festfeuer: | Ununterbrochene Lichterscheinung von gleichbleibender Stärke und Farbe. |

@@ -74,7 +74,7 @@
 | § 3.26 | Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker |
 |  |  |  |  | Abschnitt III: Sonstige Bezeichnung |
 | § 3.27 | Bezeichnung der Fahrzeuge der Überwachungsbehörden |
-| § 3.28 | Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen |
+| § 3.28 | Zusätzliche Bezeichnung der Sondertransporte sowie der Fahrzeuge und schwimmenden Geräte, die Arbeiten im Fahrwasser ausführen |
 | § 3.29 | Schutz gegen Wellenschlag |
 | § 3.30 | Notzeichen |
 | § 3.31 | Hinweis auf das Verbot, das Fahrzeug zu betreten |

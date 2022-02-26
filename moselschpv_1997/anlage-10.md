@@ -21,9 +21,9 @@ Model van het olie-afgifteboekje
 | Aard van het schip |  |  |
 |  |  |  |
 |  |  |  |
-| Numéro européen unique d’identification des bateaux ou numéro officiel: |  |  |
-| Einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer: | ……………………………………………………………………………………. |
-| Uniek Europees scheepsidentificatienummer of officieel scheepnummer: |  |  |
+| Numéro européen unique d’identification des bateaux: |  |  |
+| Einheitliche europäische Schiffsnummer: | ……………………………………………………………………………………. |
+| Uniek Europees scheepsidentificatienummer: |  |  |
 |  |  |  |
 |  |  |  |
 | Lieu de délivrance: |  |  |

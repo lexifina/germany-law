@@ -142,7 +142,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
   d) die Wache oder Aufsicht nach § 7.08 Nummer 1 Buchstabe a in Verbindung mit Nummer 2 Buchstabe a oder Nummer 1 Buchstabe b in Verbindung mit Nummer 2 Buchstabe b oder Nummer 5,
   e) die Meldepflicht nach § 9.07 Nummer 3 Buchstabe c,
   f) die Höchstabmessungen der Schubverbände und gekuppelten Fahrzeuge nach § 11.02 Nummer 1, soweit die befahrene Strecke auf dem Gebiet der Bundesrepublik Deutschland liegt,
-  g) die Meldepflicht nach § 12.01 Nummer 1, auch in Verbindung mit Nummer 9, Nummer 2, 3 Satz 2, Nummer 4 bis 8 oder Nummer 10,
+  g) die Meldepflicht nach § 12.01 Nummer 1 in Verbindung mit Nummer 2 und 3, Nummer 4, 5, 6 Satz 2 oder Nummer 7 bis Nummer 9 erster Spiegelstrich,
   h) die Eintauchtiefe von Kanalpenichen nach § 13.03 Nr. 2 oder
   i) die Aufbewahrung des Ölkontrollbuches nach § 15.05 Nr. 1 Satz 2 oder 3 oder der Entladebescheinigung nach § 15.08 Nummer 2 Satz 2,
   zuwiderhandelt,

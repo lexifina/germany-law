@@ -111,7 +111,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 21. einer vollziehbaren Anordnung vorübergehender Art nach § 1.22 Nr. 1 zuwiderhandelt,
 22. entgegen § 1.25 lädt, löscht oder leichtert,
 23. ein Fahrzeug führt, das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet ist oder an dem entgegen § 2.04 Nr. 1 Satz 1 oder Nr. 2 Satz 1 Einsenkungsmarken oder Tiefgangsanzeiger nicht angebracht sind,
-24. ein Binnenschiff führt, das entgegen § 2.03 nicht geeicht ist, oder ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nr. 1 Satz 1 oder 2 nicht gekennzeichnet ist,
+24. ein Binnenschiff führt, das entgegen § 2.03 nicht geeicht ist, oder ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
 25. einer Vorschrift des § 3.02 Nummer 1, 2 Satz 1 oder Nummer 3 zweiter Halbsatz über Lichter oder Signalleuchten zuwiderhandelt,
 26. einer Vorschrift des § 3.03 Nr. 1, 2 oder 3 zweiter Halbsatz, § 3.31 Nr. 1 Satz 3 oder § 3.32 Nr. 1 Satz 3 über Flaggen, Tafeln oder Wimpel oder des § 3.04 Nr. 2, 3 oder 4 Satz 2 über Zylinder, Bälle oder Kegel zuwiderhandelt,
 27. ein Fahrzeug, einen Verband, ein schwimmendes Gerät, einen Schwimmkörper, eine schwimmende Anlage, ein Fischereigerät oder einen Anker
@@ -188,7 +188,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
   g) das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet ist,
   h) das entgegen § 2.03 nicht geeicht ist,
   i) an dem entgegen § 2.04 Nr. 1 Satz 1 Einsenkungsmarken oder entgegen § 2.04 Nr. 2 Satz 1 Tiefgangsanzeiger nicht angebracht sind,
-  j) dessen Anker entgegen § 2.05 Nr. 1 Satz 1 oder 2 nicht gekennzeichnet ist,
+  j) dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
   k) dessen Lichter entgegen § 3.02 Nr. 1 nicht von allen Seiten sichtbar sind oder ein gleichmäßiges, ununterbrochenes Licht nicht werfen oder entgegen § 3.02 Nr. 2 nicht den dort genannten Vorschriften entsprechen oder dessen Nachtbezeichnung entgegen § 3.02 Nr. 3 zweiter Halbsatz nicht die vorgeschriebene Tragweite hat,
   l) das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen Schallgerät ausgerüstet ist,
   m) das entgegen § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, nicht mit einer Sprechfunkanlage ausgerüstet ist,

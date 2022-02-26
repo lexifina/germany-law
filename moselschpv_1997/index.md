@@ -130,10 +130,7 @@ bei Beförderung bestimmter gefährlicher Güter
 und der Netze oder Ausleger
 
 (Anlage 3 Bild 48)](0003-24.md)
-- [§ 3.25 Bezeichnung schwimmender Geräte bei der Arbeit sowie
-festgefahrener oder gesunkener Fahrzeuge
-
-(Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)](0003-25.md)
+- [§ 3.25 Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge(Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)](0003-25.md)
 - [§ 3.26 Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper
 und schwimmenden Anlagen, deren Anker die Schiffahrt
 gefährden können, und ihrer Anker
@@ -143,10 +140,7 @@ gefährden können, und ihrer Anker
 #### Abschnitt III. Sonstige Bezeichnung
 
 - [§ 3.27 Bezeichnung der Fahrzeuge der Überwachungsbehörden(Anlage 3 Bild 56)](0003-27.md)
-- [§ 3.28 Zusätzliche Bezeichnung der Fahrzeuge
-in Fahrt, die Arbeiten in der Wasserstraße ausführen
-
-(Anlage 3: Bild 57)](0003-28.md)
+- [§ 3.28 Zusätzliche Bezeichnung der Sondertransporte sowie der Fahrzeuge und schwimmenden Geräte, die Arbeiten im Fahrwasser ausführen(Anlage 3: Bild 57)](0003-28.md)
 - [§ 3.29 Schutz gegen Wellenschlag
 
 (Anlage 3 Bild 58)](0003-29.md)
@@ -325,6 +319,7 @@ oder überschritten sind](0010-02.md)
 - [Anlage 5](anlage-5.md)
 - [Anlage 6 Schallzeichen](anlage-6.md)
 - [Anlage 7 Schiffahrtszeichen](anlage-7.md)
+- [Anlage 7 Schiffahrtszeichen](anlage-7-2.md)
 - [Anlage 8 Bezeichnung der Wasserstraße](anlage-8.md)
 - [Anlage 9](anlage-9.md)
 - [Anlage 10](anlage-10.md)
