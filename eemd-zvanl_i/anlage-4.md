@@ -1,4 +1,4 @@
-# Anlage 4 zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+# Anlage 4 zur Prüfvereinbarung
 
 Zeit- und Projektplan
 (Nach Abschluss der Prüfvereinbarung beizufügen.)

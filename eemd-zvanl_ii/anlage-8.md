@@ -1,4 +1,4 @@
-# Anlage 8 zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
+# Anlage 8 zum EETS-Zulassungsvertrag
 
-Erklärungen/Schriftwechsel
+Erklärungen / Schriftwechsel
 [Gegebenenfalls beizufügen.]

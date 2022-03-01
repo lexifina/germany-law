@@ -6,6 +6,7 @@ Hierzu zählen
 - Krankheiten des zentralen Nervensystems, der peripheren Nerven und der Muskulatur. Hirnorganische, endogene, psychotische und persönlichkeitsbedingte reaktive Störungen. Neurosen. Süchte. Suizidalität. Sexuelle Verhaltens- und Erlebnisstörungen. Psychosomatische Krankheiten und funktionelle Störungen. Störungen der Kommunikation.
 - Krankheiten der perinatalen Periode, des Kindes- und Jugendalters, Verhaltens- und Entwicklungsstörungen sowie Behinderungen bei Kindern und Jugendlichen.
 - Krankheiten der Haut, ihrer Anhangsgebilde und der Schleimhäute der äußeren Körperhöhlen. Geschlechtskrankheiten.
+- Entnahme und Übertragung von Organen und Gewebe, insbesondere die medizinischen, rechtlichen und ethischen Voraussetzungen.
 - Wundbehandlung. Asepsis, Antisepsis, Fehlbildungen, Krankheiten und Verletzungen von Kopf, Hals, Wirbelsäule, Thorax, Abdomen, Extremitäten, Herz, Gefäßen, Nieren, ableitenden Harnwegen, äußeren und inneren Genitalorganen, des zentralen und peripheren Nervensystems sowie der Sinnesorgane. Unfälle und Vergiftungen.
 - Störungen der Geschlechtsentwicklung und der Fertilität. Familienplanung. Schwangerschaft, Beratung und Beurteilung in Konfliktsituationen, insbesondere medizinische, rechtliche und ethische Aspekte des Schwangerschaftsabbruchs, Risikoschwangerschaft, Beratung und und Vorsorge in der Schwangerschaft. Geburt und Risikogeburt. Krankheiten des Wochenbetts. Entzündungen und Geschwülste der weiblichen Genitalorgane.
 Die Prüfungsaufgaben sollen einen oder mehrere der folgenden Aspekte berücksichtigen:

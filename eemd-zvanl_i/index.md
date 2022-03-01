@@ -1,6 +1,6 @@
 # Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen
 
-- [Anlage I Prüfvereinbarung](anlage-i.md)
+- [Anlage I Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)](anlage-i.md)
 - [§ 1 Gegenstand der Vereinbarung](0001.md)
 - [§ 2 Vertragsbestandteile](0002.md)
 - [§ 3 Ablauf des Prüfverfahrens](0003.md)
@@ -31,10 +31,10 @@
 - [§ 28 Schriftform](0028.md)
 - [§ 29 Salvatorische Klausel](0029.md)
 - [(XXXX) Anlagen:](xxxx.md)
-- [Anlage 1 zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen(Prüfvereinbarung)](anlage-1.md)
+- [Anlage 1 zur Prüfvereinbarung](anlage-1.md)
 - [Anlage 2 zur Prüfvereinbarung](anlage-2.md)
 - [Anlage 3 zur Prüfvereinbarung](anlage-3.md)
-- [Anlage 4 zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)](anlage-4.md)
-- [Anlage 5 zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)](anlage-5.md)
-- [Anlage 6 zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)](anlage-6.md)
-- [Anlage 7 zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)](anlage-7.md)
+- [Anlage 4 zur Prüfvereinbarung](anlage-4.md)
+- [Anlage 5 zur Prüfvereinbarung](anlage-5.md)
+- [Anlage 6 zur Prüfvereinbarung](anlage-6.md)
+- [Anlage 7 zur Prüfvereinbarung](anlage-7.md)

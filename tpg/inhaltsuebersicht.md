@@ -3,7 +3,8 @@
 |  | Abschnitt 1Allgemeine Vorschriften |
 | § 1 | Ziel und Anwendungsbereich des Gesetzes |
 | § 1a | Begriffsbestimmungen |
-| § 2 | Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespenderegister, Organ- und Gewebespendeausweis |
+| § 2 | Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespendeausweis |
+| § 2a | Register für Erklärungen zur Organ- und Gewebespende; Verordnungsermächtigung |
 |  |
 |  | Abschnitt 2Entnahme von Organenund Geweben bei toten Spendern |
 | § 3 | Entnahme mit Einwilligung des Spenders |

@@ -1,3 +1,3 @@
-# Anlage 2 Registrierung von Verbänden und deren Vertreter
+# Anlage 2 (weggefallen)
 
 

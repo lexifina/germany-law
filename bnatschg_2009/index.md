@@ -46,6 +46,7 @@
 - [§ 28 Naturdenkmäler](0028.md)
 - [§ 29 Geschützte Landschaftsbestandteile](0029.md)
 - [§ 30 Gesetzlich geschützte Biotope](0030.md)
+- [§ 30a Ausbringung von Biozidprodukten](0030a.md)
 
 ### Abschnitt 2 Netz „Natura 2000“
 

@@ -1,16 +1,16 @@
-# Anlage I Prüfvereinbarung
+# Anlage I Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
-Vereinbarung
-über die Durchführung
-des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen
-(Prüfvereinbarung)
+(Fundstelle: BAnz AT 29.10.2021 V2)
 Prüfvereinbarung
 zwischen
 der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI), dieses vertreten durch das Bundesamt für Güterverkehr (BAG), Werderstraße 34, 50672 Köln, dieses wiederum vertreten durch seinen Präsidenten
-– Mauterheber –
-und
-(Name Anbieter), (Adresse Anbieter), vertreten durch (Vertretung Anbieter), (registriert gemäß Artikel 3 der Entscheidung 2009/750/EG in …) (Nachweis der Registrierung)
-– Anbieter –
+|  |  |
+|  | – Mauterheber – |
+| und |  |
+|  |  |
+| (Name Anbieter), (Adresse Anbieter), vertreten durch (Vertretung Anbieter), (registriert gemäß Artikel 4 der Richtlinie (EU) 2019/520 in …) (Nachweis der Registrierung) |
+|  |  |
+|  | – Anbieter – |
 Inhaltsverzeichnis
 | § 1 | Gegenstand der Vereinbarung |
 | § 2 | Vertragsbestandteile |
@@ -41,4 +41,21 @@ Inhaltsverzeichnis
 | § 27 | Schriftverkehr |
 | § 28 | Schriftform |
 | § 29 | Salvatorische Klausel |
-| Anlagen |
+| Anlagen: |  |
+| Anlage 1 zur Prüfvereinbarung: | gegebenenfalls Zusatzvereinbarung |
+| Anlage 2 zur Prüfvereinbarung: | Verfahren zur Feststellung der Gebrauchstauglichkeit - |
+|  | Dokument A - Verfahrensbeschreibung |
+| Anlage 3 zur Prüfvereinbarung: | Verfahren zur Feststellung der Gebrauchstauglichkeit - |
+|  | Dokument B - Prüfkonzept |
+|  | Anhang A - Vorgaben für Prüfprotokolle und -berichte |
+|  | Anhang A.1: Prüfprotokoll für den einzelnen Prüffall (Phase 1 und Phase 2) |
+|  | Anhang A.2: Szenariobericht (nur Phase 3) |
+|  | Anhang B: Prüfkataloge |
+|  | Anlage 1 zum Dokument B- Prüfkonzept: | Prüfkatalog „Schnittstellenprüfung“ |
+|  | Anlage 2 zum Dokument B- Prüfkonzept: | Prüfkatalog „DSRC-Kompatibilitätstests“ |
+|  | Anlage 3 zum Dokument B- Prüfkonzept: | Prüfkatalog „MED-Kompatibilitätstests“ |
+|  | Anlage 4 zum Dokument B- Prüfkonzept: | Prüfkatalog „Probebetrieb“ |
+| Anlage 4 zur Prüfvereinbarung: | Zeit- und Projektplan |  |
+| Anlage 5 zur Prüfvereinbarung: | Entgeltordnung |  |
+| Anlage 6 zur Prüfvereinbarung: | Glossar |  |
+| Anlage 7 zur Prüfvereinbarung: | gegebenenfalls Erklärungen / Schriftwechsel |  |

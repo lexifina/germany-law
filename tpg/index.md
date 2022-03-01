@@ -7,8 +7,7 @@
 
 - [§ 1 Ziel und Anwendungsbereich des Gesetzes](0001.md)
 - [§ 1a Begriffsbestimmungen](0001a.md)
-- [§ 2 Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespenderegister, Organ- und Gewebespendeausweise](0002.md)
-- [§ 2 Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespendeausweise](0002-2.md)
+- [§ 2 Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespendeausweise](0002.md)
 - [§ 2a Register für Erklärungen zur Organ- und Gewebespende; Verordnungsermächtigung](0002a.md)
 
 ## Abschnitt 2 Entnahme von Organen und Geweben bei toten Spendern
