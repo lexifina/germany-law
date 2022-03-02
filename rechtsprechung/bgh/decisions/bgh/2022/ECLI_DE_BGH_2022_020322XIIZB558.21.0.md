@@ -1,0 +1,215 @@
+---
+ecli: "ECLI:DE:BGH:2022:020322XIIZB558.21.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 558/21"
+decided: "2022-03-02"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2022&Sort=1&Seite=19&nr=128120&anz=3168&pos=585&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2022-03-02_XII_ZB_558_21_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/1896.md", "germany/bund/acts/famfg/0068.md", "germany/bund/acts/famfg/0074.md", "germany/bund/acts/famfg/0278.md", "germany/bund/acts/famfg/0288.md", "germany/bund/acts/gnotkg/0036.md"]
+---
+
+# Bundesgerichtshof, XII ZB 558/21 vom 2022-03-02
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                             BESCHLUSS
+XII ZB 558/21
+
+                                     vom
+
+                                 2. März 2022
+
+                            in der Betreuungssache
+
+Nachschlagewerk:       ja
+
+BGHZ:               nein
+
+BGHR:                  ja
+
+
+
+BGB § 1896 Abs. 2; FamFG §§ 34 Abs. 3, 37 Abs. 2, 68 Abs. 3 Satz 2, 288 Abs. 1
+Satz 1
+
+
+a) Sieht das Betreuungsgericht entsprechend § 288 Abs. 1 FamFG von der Bekanntgabe eines Gutachtens an den Betroffenen ab, kann durch die Bekanntgabe des Gutachtens an den Verfahrenspfleger allenfalls dann ein notwendiges Mindestmaß rechtlichen Gehörs sichergestellt werden, wenn zusätzlich
+   die Erwartung gerechtfertigt ist, dass der Verfahrenspfleger mit dem Betroffenen über das Gutachten spricht. Letzteres setzt in der Regel einen entsprechenden Hinweis des Betreuungsgerichts an den Verfahrenspfleger voraus
+   (im Anschluss an Senatsbeschluss vom 21. Oktober 2020 - XII ZB 153/20 -
+   FamRZ 2021, 385).
+
+
+
+
+ECLI:DE:BGH:2022:020322BXIIZB558.21.0
+
+                                     -2-
+
+
+
+b) Die Erforderlichkeit einer Betreuung gemäß § 1896 Abs. 2 Satz 1 BGB kann
+   sich nicht allein aus der subjektiven Unfähigkeit des Betroffenen ergeben,
+   seine Angelegenheiten selbst regeln zu können (Betreuungsbedürftigkeit).
+   Hinzutreten muss ein konkreter Bedarf für die Bestellung eines Betreuers. Ob
+   und für welche Aufgabenbereiche ein objektiver Betreuungsbedarf besteht,
+   ist aufgrund der konkreten, gegenwärtigen Lebenssituation des Betroffenen
+   zu beurteilen. Dabei genügt es, wenn ein Handlungsbedarf in dem betreffenden Aufgabenkreis jederzeit auftreten kann (im Anschluss an Senatsbeschluss vom 30. Juni 2021 - XII ZB 73/21 - FamRZ 2021, 1737).
+
+BGH, Beschluss vom 2. März 2022 - XII ZB 558/21 - LG Kleve
+                                                  AG Moers
+
+                                     -3-
+
+
+
+Der XII. Zivilsenat des Bundesgerichtshofs hat am 2. März 2022 durch
+den Vorsitzenden   Richter   Dose   und    die   Richter Schilling,   Dr. Günter,
+Dr. Nedden-Boeger und Guhling
+
+beschlossen:
+
+
+      Auf die Rechtsbeschwerde der Betroffenen wird der Beschluss der
+      4. Zivilkammer des Landgerichts Kleve vom 4. November 2021 aufgehoben.
+
+      Die Sache wird zur erneuten Behandlung und Entscheidung, auch
+      über die Kosten des Rechtsbeschwerdeverfahrens, an das Landgericht zurückverwiesen.
+
+      Die Festsetzung des Beschwerdewerts (§ 36 Abs. 3 GNotKG) ist
+      nicht veranlasst.
+
+
+
+
+                                    Gründe:
+
+
+
+
+      Die Betroffene wendet sich gegen die für sie eingerichtete Betreuung.
+
+      Die Betroffene ist erstmals am 4. August 2021 angehört worden. An der
+Anhörung haben auch die für sie bestellte Verfahrenspflegerin und eine Sachverständige teilgenommen. Nach dem Anhörungstermin hat die Sachverständige ihr
+Gutachten erstattet und darauf hingewiesen, dass das Gutachten der Betroffenen
+aus gesundheitlichen Gründen nicht bekanntgegeben werden solle. Demgemäß
+hat das Amtsgericht das Gutachten kommentarlos nur der Verfahrenspflegerin
+und der Betreuungsstelle übersandt. Nach einem weiteren Anhörungstermin vom
+
+                                      -4-
+
+
+
+9. September 2021 hat das Amtsgericht am gleichen Tag eine Betreuung mit folgendem Aufgabenkreis eingerichtet: Befugnis zum Empfang und Öffnen von
+Post, Regelung der Angelegenheiten betreffend den Miteigentumsanteil der Betroffenen an der Immobilie E., Aufenthaltsbestimmung, Gesundheitssorge, Vermögensangelegenheiten, Vertretung gegenüber Behörden und Sozialversicherungsträgern und Wohnungsangelegenheiten.
+
+         Hiergegen hat die Betroffene Beschwerde eingelegt, die das Landgericht
+ohne erneute Anhörung zurückgewiesen hat. Dagegen wendet sich die Betroffene mit der Rechtsbeschwerde.
+
+
+
+
+         Die Rechtsbeschwerde ist begründet. Sie führt zur Aufhebung des angefochtenen Beschlusses und zur Zurückverweisung der Sache an das Landgericht.
+
+           Das Landgericht hat seine Entscheidung wie folgt begründet:
+
+         Die Bestellung eines Betreuers für den genannten Aufgabenkreis sei zu
+Recht erfolgt. Eine psychische Krankheit liege bei der Betroffenen nach dem Gutachten der Sachverständigen in Form einer anhaltenden wahnhaften Störung
+vor. Die sich in der Akte befindlichen Äußerungen der Tochter der Betroffenen
+sowie die Schreiben der Betroffenen und die Anhörungen zeigten mehr als deutlich, dass die Betroffene nicht in der Lage sei, ihre Angelegenheiten angemessen
+zu regeln.
+
+                                     -5-
+
+
+
+      Von einer Wiederholung der Anhörung der Betroffenen werde wegen der
+Besonderheiten des Falles abgesehen, da diese bereits im ersten Rechtszug erfolgt sei und von einer erneuten Vornahme keine zusätzlichen Erkenntnisse zu
+erwarten seien. Das Amtsgericht habe die Betroffene zweimal angehört. Neue
+entscheidungserhebliche Tatsachen oder rechtliche Gesichtspunkte lägen nicht
+vor und es sei nach dem Inhalt der Akte nicht zu erwarten, dass eine erneute
+Anhörung der Betroffenen zusätzliche Erkenntnisse erbringen werde.
+
+         Das hält rechtlicher Nachprüfung nicht stand.
+
+      a) Die Rechtsbeschwerde rügt zu Recht, dass das Landgericht nicht ohne
+Anhörung entscheiden durfte.
+
+      aa) Vor der Bestellung eines Betreuers hat das Beschwerdegericht gemäß
+§ 278 Abs. 1 FamFG den Betroffenen grundsätzlich persönlich anzuhören und
+sich einen persönlichen Eindruck von ihm zu verschaffen. Die Pflicht zur persönlichen Anhörung des Betroffenen besteht nach § 68 Abs. 3 Satz 1 FamFG grundsätzlich auch im Beschwerdeverfahren. Zwar räumt § 68 Abs. 3 Satz 2 FamFG
+dem Beschwerdegericht auch im Betreuungsverfahren die Möglichkeit ein, von
+einer erneuten Anhörung des Betroffenen abzusehen. Dies setzt jedoch nach
+ständiger Rechtsprechung des Senats voraus, dass die Anhörung bereits im ersten Rechtszug ohne Verletzung zwingender Verfahrensvorschriften vorgenommen worden ist und von einer erneuten Anhörung im Beschwerdeverfahren keine
+neuen Erkenntnisse zu erwarten sind (Senatsbeschluss vom 22. September
+2021 - XII ZB 146/21 - FamRZ 2022, 56 Rn. 8 mwN).
+
+      Sieht das Betreuungsgericht entsprechend § 288 Abs. 1 FamFG von der
+vorherigen Bekanntgabe eines Gutachtens an den Betroffenen – wie hier aus
+gesundheitlichen Gründen – ab, kann durch die Bekanntgabe an den Verfahrens-
+
+                                       -6-
+
+
+
+pfleger allenfalls dann ein notwendiges Mindestmaß rechtlichen Gehörs sichergestellt werden, wenn zusätzlich die Erwartung gerechtfertigt ist, dass der Verfahrenspfleger mit dem Betroffenen über das Gutachten spricht. Letzteres setzt
+in der Regel einen entsprechenden Hinweis des Betreuungsgerichts an den Verfahrenspfleger voraus (Senatsbeschluss vom 21. Oktober 2020 - XII ZB 153/20 -
+FamRZ 2021, 385 Rn. 13 mwN).
+
+       bb) Diese Voraussetzungen für eine ordnungsgemäße Anhörung der Betroffenen waren hier nicht erfüllt.
+
+       Das Amtsgericht hat das Gutachten kommentarlos an die Verfahrenspflegerin übersandt. Am 9. September 2021 hat zwar ein Anhörungstermin stattgefunden, in dem die Betroffene kein inhaltliches Gespräch führen wollte. Den Gerichtsakten lässt sich aber nicht entnehmen, dass die Verfahrenspflegerin vorab
+mit der Betroffenen in Kontakt getreten ist und ihr den Inhalt des Gutachtens erläutert hätte. Der Hinweis des Amtsgerichts an die Betroffene, wonach die Sachverständige mitgeteilt habe, dass die Einrichtung einer Betreuung aus ärztlicher
+Sicht wichtig und dringlich sei, genügt nicht, um die Betroffene hinreichend über
+das Gutachten zu informieren.
+
+       b) Ebenso wenig hat das Landgericht festgestellt, dass die Anordnung des
+umfangreichen Aufgabenkreises im Sinne von § 1896 Abs. 2 Satz 1 BGB erforderlich ist.
+
+       aa) Nach § 1896 Abs. 2 Satz 1 BGB darf ein Betreuer nur bestellt werden,
+soweit die Betreuung erforderlich ist. Dieser Grundsatz verlangt für die Bestellung
+eines Betreuers die konkrete tatrichterliche Feststellung, dass sie – auch unter
+Beachtung der Verhältnismäßigkeit – notwendig ist, weil der Betroffene auf entsprechende Hilfen angewiesen ist und weniger einschneidende Maßnahmen
+nicht in Betracht kommen. Die Erforderlichkeit einer Betreuung kann sich dabei
+
+                                     -7-
+
+
+
+nicht allein aus der subjektiven Unfähigkeit des Betroffenen ergeben, seine Angelegenheiten selbst regeln zu können (Betreuungsbedürftigkeit). Hinzutreten
+muss ein konkreter Bedarf für die Bestellung eines Betreuers. Ob und für welche
+Aufgabenbereiche ein objektiver Betreuungsbedarf besteht, ist aufgrund der konkreten, gegenwärtigen Lebenssituation des Betroffenen zu beurteilen. Dabei genügt es, wenn ein Handlungsbedarf in dem betreffenden Aufgabenkreis jederzeit
+auftreten kann (Senatsbeschluss vom 30. Juni 2021 - XII ZB 73/21 - FamRZ
+2021, 1737 Rn. 7 mwN).
+
+      bb) Dem genügt die Begründung des Landgerichts nicht. Eine etwaige Bezugnahme auf die amtsgerichtliche Entscheidung ist ebenfalls unbehelflich, weil
+auch das Amtsgericht von einer ausreichenden Begründung abgesehen hat.
+
+                                     -8-
+
+
+
+         Weil die Sache noch nicht zur Endentscheidung reif ist, ist sie unter
+Aufhebung des angefochtenen Beschlusses zur anderweitigen Behandlung und
+Entscheidung an das Landgericht zurückzuverweisen, § 74 Abs. 5 und 6 Satz 2
+FamFG.
+
+       Von einer weiteren Begründung der Entscheidung wird abgesehen, weil
+sie nicht geeignet wäre, zur Klärung von Rechtsfragen grundsätzlicher Bedeutung, zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung beizutragen, § 74 Abs. 7 FamFG.
+
+
+
+
+Dose                              Schilling                            Günter
+
+           Nedden-Boeger                             Guhling
+
+
+
+
+Vorinstanzen:
+AG Moers, Entscheidung vom 09.09.2021 - 200 XVII 381/19 -
+LG Kleve, Entscheidung vom 04.11.2021 - 4 T 146/21 -
