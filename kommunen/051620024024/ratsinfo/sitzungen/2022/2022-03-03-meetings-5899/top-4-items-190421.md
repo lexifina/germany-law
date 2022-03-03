@@ -1,0 +1,8 @@
+# TOP 4: Antrag der Mitglieder der CDU betr.: Schienenanbindung von neuen Unternehmen an der B9
+
+- Sitzung: Bezirksausschuss VII - Uedesheim (2022-03-03)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/190421
+- Ergebnis: beraten ohne Abstimmung
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/31342
