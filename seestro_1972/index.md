@@ -65,6 +65,12 @@ bei verminderter Sicht
 ## Teil E Befreiungen
 
 - [Regel 38 Befreiungen](regel-38.md)
+
+## Teil F Überprüfung der Einhaltung des Übereinkommens
+
+- [Regel 39 Begriffsbestimmungen](regel-39.md)
+- [Regel 40 Anwendung](regel-40.md)
+- [Regel 41 Überprüfung der Einhaltung](regel-41.md)
 - [Anlage I Anordnung und technische Einzelheiten der Lichter
 und Signalkörper](anlage-i.md)
 - [Anlage II Zusatzsignale für nahe beieinander fischende Fahrzeuge](anlage-ii.md)

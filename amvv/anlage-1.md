@@ -9,6 +9,7 @@ Abarelix
 Abatacept
 Abemaciclib
 Abirateron und seine Ester
+Acalabrutinib
 Acamprosat
 Acarbose
 Acebutolol
@@ -81,6 +82,7 @@ Allylestrenol
 Almotriptan
 – ausgenommen zur akuten Behandlung der Kopfschmerzphase bei Migräneanfällen mit und ohne Aura, nach der Erstdiagnose einer Migräne durch einen Arzt, in festen Zubereitungen zur oralen Anwendung in Konzentrationen von 12,5 mg je abgeteilter Form und in einer Gesamtmenge von 25 mg je Packung –
 Alogliptin
+Alpelisib
 Alprenolol
 Alprostadil
 Alteplase
@@ -191,6 +193,8 @@ Atropin
 Auranofin
 Aurothioglucose
 Avanafil
+Avapritinib
+Avatrombopag und seine Ester
 Avibactam
 Aviptadil
 Axitinib
@@ -217,6 +221,7 @@ Bacillus Calmette-Guérin
 Bacitracin
 - ausgenommen Zubereitungen zur örtlichen Anwendung bei Menschen auf Haut oder Schleimhaut, sofern sie je Stück abgeteilter Arzneiform oder bei sonstigen Zubereitungen je Gramm oder Milliliter nicht mehr als 500 I.E. (9,1 mg) Bacitracin enthalten -
 Baclofen
+Baloxavirmarboxil
 Bambuterol
 Bamifyllin
 Baricitinib
@@ -235,6 +240,7 @@ Bemegrid
 Bemetizid
 Bemiparin
 – zur parenteralen Anwendung –
+Bempedoinsäure und ihre Ester
 Benactyzin
 Benazepril
 Bencyclan
@@ -262,6 +268,7 @@ a) als Lösung mit einer Benzydaminhydrochlorid-Konzentration von maximal 1,5 mg
 b) als Lutschtablette mit maximal 3 mg Benzydaminhydrochlorid pro abgeteilter Form –
 Benzylhydrochlorothiazid
 Benzylpenicillin und seine Ester
+Berotralstat
 Betäubungsmittel, soweit sie Zubereitungen nach § 2 Abs. 1 Nr. 3 des Betäubungsmittelgesetzes sind
 Betahistin
 Betain
@@ -279,6 +286,7 @@ Bicisat
 - als Kit zur Herstellung eines Radiodiagnostikums mit (⁹⁹ᵐ Tc) Technetium -
 Bictegravir
 Bilastin und seine Ester
+– ausgenommen in festen Zubereitungen zur oralen Anwendung in Konzentrationen von 20 mg je abgeteilter Form, sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der Anwendung auf Erwachsene und Jugendliche ab zwölf Jahren angegeben ist –
 Bimatoprost
 Binimetinib und seine Ester
 Biperiden
@@ -335,6 +343,7 @@ Budesonid
 Budipin
 Bufeniod
 Buflomedil
+Bulevirtid
 Bumadizon
 Bumetanid
 Bunamidin
@@ -358,6 +367,7 @@ Butylscopolamin
 C1-Inhibitor vom Menschen
 Cabazitaxel und seine Ester
 Cabergolin
+Cabotegravir und seine Ester
 Cabozantinib
 Cactinomycin
 Calabar semen und seine Zubereitungen
@@ -429,6 +439,7 @@ Cefazedon
 Cefazolin
 Cefepim
 Cefetamet und seine Ester
+Cefiderocol und seine Ester
 Cefixim
 Cefmenoxim
 Cefodizim
@@ -640,6 +651,7 @@ Dapson
 Daptomycin
 Darbepoetin alfa
 Darifenacin
+Darolutamid und seine Ester
 Darunavir
 Dasabuvir
 Dasatinib
@@ -681,6 +693,7 @@ Desmopressin
 Desogestrel
 Desonid
 Desoximetason
+Desoxycholsäure und ihre Ester
 Desoxycorton, seine Ester und Glukosidverbindungen
 Destomycin A
 - zur Anwendung bei Tieren -
@@ -689,6 +702,7 @@ Detomidin
 Dexamethason und seine Ester
 – ausgenommen Dexamethasondihydrogenphosphat zur einmaligen parenteralen Anwendung in wässriger Lösung in Ampullen/Fertigspritzen mit 40 mg Wirkstoff und bis zu maximal 3 Packungseinheiten (entsprechend 120 mg Wirkstoff) für die Notfallbehandlung schwerer anaphylaktischer Reaktionen beim Menschen nach Neuraltherapie bis zum Eintreffen des Rettungsdienstes –
 Dexibuprofen
+– ausgenommen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer maximalen Einzeldosis von 200 mg, einer maximalen Tagesdosis von 600 mg und einer Gesamtwirkstoffmenge von bis zu 4 g pro Packung bei leichten bis mäßig starken Schmerzen und einer Anwendungsdauer von bis zu 4 Tagen –
 Dexketoprofen
 Dexlansoprazol
 Dexmedetomidin
@@ -706,6 +720,7 @@ Dibenzepin
 N,N-Dibenzyl-N-(2-chlorethyl)-amin
 Dibotermin alfa
 1,2-Dibromethan
+Dibromtyrosin
 1,1-Dichlorethan
 1,2-Dichlorethan
 Dichlorvos
@@ -743,6 +758,7 @@ Dihydroergotamin
 1,1-Dioxo-3-(2-phenylethyl)-6-trifluormethyl-3,4-dihydro-2H-1 lambda⁶,2,4-benzothiadiazin-7-sulfonamid
 Dihydrostreptomycin
 Dihydrotachysterol
+Diiodtyrosin
 Dilazep
 Diltiazem
 Dimepranol(4-acetamidobenzoat)
@@ -816,6 +832,7 @@ Drostanolon und seine Ester
 Dulaglutid
 Duloxetin
 Dutasterid
+Duvelisib
 Dydrogesteron
 Ebastin
 Econazol
@@ -835,6 +852,7 @@ Eisen-Verbindungen
 - zur parenteralen Anwendung, ausgenommen zur Prophylaxe der Eisenmangelanämie bei Saugferkeln, sofern dies als alleiniger Anwendungsbereich auf Behältnissen und äußeren Umhüllungen angegeben ist -
 Elbasvir
 Eletriptan
+Elexacaftor
 Eliglustat und seine Ester
 Elosulfase alfa
 Eltrombopag
@@ -860,6 +878,7 @@ Enrofloxacin
 - zur Anwendung bei Tieren -
 Entacapon
 Entecavir
+Entrectinib
 Enzalutamid
 Enzyme, proteolytisch, tierischen oder pflanzlichen Ursprungs
 - zur parenteralen Anwendung -
@@ -905,10 +924,12 @@ Eslicarbazepin und seine Ester
 Esmolol
 Esomeprazol
 – ausgenommen zur Behandlung von Sodbrennen und saurem Aufstoßen in einer Einzeldosis von 20 mg und in einer Tageshöchstdosis von 20 mg für eine maximale Anwendungsdauer von 14 Tagen und in einer maximalen Packungsgröße von 280 mg Wirkstoff –
+Estetrol und seine Ester
 Estradiol und seine Ester
 Estramustin-17-dihydrogenphosphat
 Estriol
 Estrogene, konjugierte
+Eszopiclon
 Etacrynsäure
 Etafenon
 Etamsylat
@@ -965,6 +986,7 @@ Febantel
 - zur Anwendung bei Tieren -
 Febuprol
 Febuxostat
+Fedratinib
 Felbamat
 Felodipin
 Fenbendazol
@@ -993,6 +1015,7 @@ Fexofenadin
 Fibrinolysin (human)
 Fidaxomicin und seine Derivate und Analoga
 Filgrastrim
+Filgotinib
 Filicis rhizoma und seine Zubereitungen
 Finasterid
 Fingolimod und seine Derivate
@@ -1074,6 +1097,8 @@ Foscarnet
 Fosfestrol
 Fosfomycin
 Fosinopril
+Fostamatinib
+Fostemsavir
 Framycetin
 Frovatriptan
 Fulvestrant
@@ -1106,7 +1131,9 @@ Gestonoron
 Gewebetransplantate, humane allogene und Produkte aus Gewebezüchtungen
 Gilteritinib
 Gitoformat
+Givosiran
 Glafenin
+Glasdegib
 Glatiramer
 Glecaprevir
 Glibenclamid
@@ -1226,6 +1253,7 @@ Ibuprofen
 – ausgenommen zur oralen Anwendung in Dosen bis maximal 400 mg je abgeteilter Form und in einer maximalen Tagesdosis von 1 200 mg, zur rektalen Anwendung in festen Zubereitungen als Monopräparate in Einzeldosen bis 10 mg/kg Körpergewicht bis zur maximalen Einzeldosis von 600 mg je abgeteilter Form und bis zur maximalen Tagesdosis von 30 mg/kg Körpergewicht bzw. 1 800 mg, zur Behandlung der akuten Kopfschmerzphase bei Migräne mit oder ohne Aura –
 – ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 400 mg und in einer maximalen Tagesdosis von 1 200 mg) in Kombination mit Pseudoephedrinhydrochlorid (in maximaler Einzeldosis von 60 mg und in einer maximalen Tagesdosis von 180 mg) mit einer Wirkstoffmenge von insgesamt bis zu 720 mg Pseudoephedrin und 4 800 mg Ibuprofen pro Packung, zur Behandlung der akuten Rhinosinusitis im Zusammenhang mit weiteren Erkältungssymptomen (wie z. B. Fieber und Schmerzen) –
 – ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 400 mg und in einer maximalen Tagesdosis von 1 200 mg) in Kombination mit Coffein (in maximaler Einzeldosis von 100 mg und in einer maximalen Tagesdosis von 300 mg), zur Behandlung von akuten mäßig starken Schmerzen bei Erwachsenen –
+– ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 200 mg und maximaler Tagesdosis von 1 200 mg) in Kombination mit Paracetamol (in maximaler Einzeldosis von 500 mg und maximaler Tagesdosis von 3 000 mg) und einer Gesamtwirkstoffmenge von bis zu 4 g Ibuprofen und bis zu 10 g Paracetamol je Packung für die kurzzeitige symptomatische Behandlung leichter bis mäßig starker Schmerzen –
 Icatibant
 Idarubicin
 Idebenon und seine Ester
@@ -1243,9 +1271,11 @@ Imiglucerase
 Imipenem
 Imipramin
 Imiquimod
+Imlifidase
 Imolamin
 Impfstoffe
 - zur Anwendung am oder im menschlichen Körper; die Vorschriften der Tierimpfstoff-Verordnung zur Verschreibungspflicht bleiben unberührt -
+Inclisiran
 Indacaterol
 Indapamid
 Indinavir
@@ -1319,6 +1349,7 @@ Kalium
 Kaliumbromid
 - zur systemischen Anwendung -
 Kaliumdichromat
+Kaliumperchlorat
 Kanamycin
 Kava-Kava-Wurzelstock und seine Zubereitungen
 - ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung, die nach der Herstellungsvorschrift 26 des Homöopathischen Arzneibuches hergestellt sind -
@@ -1382,11 +1413,13 @@ Levocetiricin
 – ausgenommen in festen Zubereitungen zur oralen Anwendung in Konzentrationen von 5 mg je abgeteilter Form, sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der Anwendung auf Erwachsene und Kinder ab dem vollendeten sechsten Lebensjahr angegeben ist –
 Levodopa
 Levodropropizin
+– ausgenommen zur oralen Anwendung bei Erwachsenen und Kindern ab dem vollendeten 2. Lebensjahr zur symptomatischen Therapie des Reizhustens und einer Anwendungsdauer von bis zu 7 Tagen –
 Levofloxacin
 Levofolinsäure
 Levonorgestrel
 – ausgenommen in Zubereitungen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 1,5 mg Wirkstoff je abgeteilter Arzneiform und in Packungen mit einem maximalen Wirkstoffgehalt von 1,5 mg zur Notfallkontrazeption –
 Levosimendan
+Levothyroxin
 Lidocain
 – ausgenommen Arzneimittel zur parenteralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 2 % zur intrakutanen Anwendung an der gesunden Haut im Rahmen der Neuraltherapie –,
 – ausgenommen Arzneimittel zur subkutanen und intramuskulären Infiltrationsanästhesie zur Durchführung von Dammschnitten und zum Nähen von Dammschnitten und Dammrissen im Rahmen der Geburt in einer Konzentration von bis zu 1 %, einer Einzeldosis von bis zu 10 ml und einer Menge von bis zu 10 ml je Ampulle zur Abgabe an Hebammen und Entbindungspfleger im Rahmen ihrer Berufsausübung –,
@@ -1399,6 +1432,7 @@ Linagliptin
 Lincomycin
 Lindan
 Linezolid
+Liothyronin
 Lipegfilgrastim
 Liraglutid
 Lisinopril
@@ -1431,11 +1465,13 @@ Lubiproston und seine Ester
 Lufenuron
 - zur parenteralen Anwendung bei Hunden und Katzen -
 Lumacaftor und seine Ester
+Lumasiran
 Lumefantrin
 Lumiracoxib
 Luprostiol
 - zur Anwendung bei Tieren -
 Lurasidon
+Luspatercept
 Lutropin
 Lutropin alfa
 Lynestrenol
@@ -1535,7 +1571,6 @@ Methoxyfluran
 Methyclothiazid
 Methyl(5-amino-4-oxopentanoat)-hydrochlorid
 Methyldopa
-DL-Methyldopa
 Methylergometrin
 - ausgenommen zur Anwendung bei Nachgeburtsblutungen in einer Konzentration bis zu 0,3 mg/ml und einer Einzeldosis bis zu 1 ml zur Abgabe an Hebammen und Entbindungspfleger für den Praxisbedarf -
 Methylnaltrexoniumsalze
@@ -1627,6 +1662,7 @@ Nafcillin
 Naftalofos
 Naftidrofuryl
 Nalbuphin
+Naldemedin und seine Ester
 Nalidixinsäure und ihre Ester
 Nalmefen und seine Ester
 Nalorphin
@@ -1643,6 +1679,7 @@ Nateglinid
 Natriumaurothiomalat
 Natrium-Goldchlorid
 Natriumnitrit
+Natriumperchlorat
 Natriumthiosulfat
 – als Antidot –
 Natriumzirconiumhydrogencyclohexasilicat-Hydrat (3:2:1:1:x)
@@ -1760,6 +1797,7 @@ Orlistat
 Ornidazol
 Osateron und seine Ester
 Oseltamivir
+Osilodrostat
 Osimertinib
 Osmiumsäure
 Ospemifen und seine Ester
@@ -1795,6 +1833,7 @@ Oxyphenisatin und seine Ester
 Oxytetracyclin und seine Verbindungen
 Oxytocin
 - ausgenommen zur Anwendung bei Nachgeburtsblutungen in einer Konzentration bis zu 10 I.E./ml und einer Einzeldosis bis zu 1 ml zur Abgabe an Hebammen und Entbindungspfleger für den Praxisbedarf -
+Ozanimod und seine Ester
 Ozenoxacin
 4-Phenylbutansäure
 Paclitaxel
@@ -1810,14 +1849,15 @@ Pantoprazol
 Papaverin
 Paracetamol
 – ausgenommen Humanarzneimittel zur
-a) oralen Anwendung zur symptomatischen Behandlung leichter bis mäßig starker Schmerzen und/oder von Fieber in einer Gesamtwirkstoffmenge von bis zu 10 g je Packung und
-b) rektalen Anwendung –
+a) oralen Anwendung zur symptomatischen Behandlung leichter bis mäßig starker Schmerzen oder von Fieber oder zur Behandlung leichter bis mäßig starker Schmerzen und von Fieber in einer Gesamtwirkstoffmenge von bis zu 10 g je Packung,
+b) rektalen Anwendung,
+c) oralen Anwendung (in maximaler Einzeldosis von 500 mg und maximaler Tagesdosis von 3 000 mg) in Kombination mit Ibuprofen (in maximaler Einzeldosis von 200 mg und maximaler Tagesdosis von 1 200 mg) und einer Gesamtwirkstoffmenge von bis zu 10 g Paracetamol und bis zu 4 g Ibuprofen je Packung für die kurzzeitige symptomatische Behandlung leichter bis mäßig starker Schmerzen –
 Paliperidon
 Paraflutizid
 Paraldehyd
 Paramethadion
 Paramethason und seine Ester
-Parathyroidhormon vom Menschen
+Parathyroidhormon
 Parbendazol
 Parecoxib
 Pargylin
@@ -1847,6 +1887,7 @@ Pegloticase
 Pegvaliase
 Pegvisomant
 Pemetrexed
+Pemigatinib
 Penbutolol
 Penciclovir
 - ausgenommen zur äußeren Anwendung bei Herpes labialis in Packungsgrößen bis zu 2 g und einem Wirkstoffgehalt bis zu 20 mg je abgeteilter Arzneiform -
@@ -1972,6 +2013,7 @@ als Aluminium-, Calcium-, Kalium- und Natriumsalz
 Polythiazid
 Pomalidomid
 Ponatinib
+Ponesimod und seine Ester
 Porfimer
 Posaconazol
 Practolol
@@ -2138,6 +2180,7 @@ Rimazoliummetilsulfat
 Rimexolon
 Rimonabant
 Riociguat
+Risdiplam
 Risedronsäure
 Risperidon
 Ritodrin
@@ -2188,7 +2231,6 @@ Saralasin
 Sarolaner – zur Anwendung bei Tieren –
 Saxagliptin und seine Ester
 Scammoniae resina und seine Zubereitungen
-Schilddrüsenwirkstoffe
 Schwefelhexafluorid
 Scilla-Glykoside
 Scopolamin
@@ -2206,6 +2248,8 @@ Selenverbindungen
 - ausgenommen in Zubereitungen zum inneren Gebrauch mit einer Tagesdosis bis zu 70 µg Selen -
 Selexipag
 Semaglutid
+Selpercatinib und seine Ester
+Selumetinib und seine Ester
 Sera und monoklonale Antikörper
 - zur Anwendung am oder im menschlichen oder tierischen Körper -
 Sermorelin
@@ -2226,6 +2270,7 @@ Silodosin
 Simeprevir
 Simvastatin
 Sincalid
+Siponimod und seine Ester
 Sipuleucel-T
 Sirolimus
 Sisomicin
@@ -2233,6 +2278,7 @@ Sitagliptin
 Sitaxentan
 Sofosbuvir
 Solifenacin
+Solriamfetol
 Somatorelin
 Somatostatin
 Somatropin
@@ -2324,6 +2370,7 @@ Telithromycin
 Telmisartan
 Telotristat und seine Ester
 Temocapril
+Temocillin
 Temoporfin
 Temozolomid
 Temsirolimus
@@ -2417,6 +2464,7 @@ Tiotropiumbromid und sein Hydrat
 Tipiracil
 Tipranavir
 Tiracizin
+Tiratricol
 Tirofiban
 Tiropramid
 Tivozanib
@@ -2475,6 +2523,7 @@ Trichloroethylen
 - ausgenommen zum äußeren Gebrauch -
 Triclabendazol
 Trientin
+Trifaroten und seine Ester
 Trifluperidol
 Trifluridin
 Trihexyphenidyl
@@ -2510,6 +2559,7 @@ Tryptophan
 - zur Behandlung von depressiven Erkrankungen -
 Tuberkuline, flüssige oder trockene, sowie alle sonstigen aus oder unter Verwendung von Tuberkelbazillen hergestellten Zubereitungen
 Tubocurarin
+Tucatinib
 Tulathromycin
 - zur Anwendung bei Tieren -
 Tulobuterol

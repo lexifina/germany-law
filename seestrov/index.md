@@ -1,7 +1,7 @@
 # Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See
 
 - [Eingangsformel](eingangsformel.md)
-- [§ 1 Inkraftsetzung der Internationalen Regeln](0001.md)
+- [§ 1 Anwendung der Internationalen Regeln](0001.md)
 - [§ 2 Geltungsbereich](0002.md)
 - [§ 3 Grundregeln für das Verhalten im Verkehr](0003.md)
 - [§ 4 Verantwortlichkeit](0004.md)
