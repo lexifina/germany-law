@@ -1,0 +1,76 @@
+# 34. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-03-03T16:00:00+01:00
+- Ende: 2022-03-03T21:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11037
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11037
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00593951.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 4: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 5: Aktuelle Stunde zum Thema „Solidarität und Barmherzigkeit – Aktiv gegen Obdachlosigkeit in Dresden“ - erledigt
+- TOP 6: Aktuelle Stunde zum Thema „Sanierung der Königsbrücker Straße endlich umsetzen. Maßnahmen zur Beschleunigung und Realisierung.“ - Vertagung nach 22 Uhr
+- TOP 7: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Cotta der Landeshauptstadt Dresden - Zustimmung
+- TOP 8: Umbesetzung von Ausschüssen und Beiräten
+- TOP 8.1: Umbesetzung im Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Zustimmung
+- TOP 8.2: Umbesetzung im Ausschuss für Finanzen - Zustimmung
+- TOP 8.3: Umbesetzung im Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - nachträglich für Gremium erledigt
+- TOP 8.4: Umbesetzung im Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Zustimmung
+- TOP 8.5: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Zustimmung
+- TOP 8.6: Umbesetzung im Ausschuss für Soziales und Wohnen - Zustimmung
+- TOP 8.7: Umbesetzung im Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum) - Zustimmung
+- TOP 8.8: Umbesetzung im Ausschuss für Sport (Eigenbetrieb Sportstätten) - Zustimmung
+- TOP 8.9: Umbesetzung im Ausschuss für Wirtschaftsförderung - Zustimmung
+- TOP 8.10: Umbesetzung im Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Zustimmung
+- TOP 8.11: Umbesetzung im Ausschuss für Petitionen und Bürgerbeteiligung - Zustimmung
+- TOP 8.12: Umbesetzung im Integrations- und Ausländerbeirat - Zustimmung
+- TOP 9: Tagesordnungspunkte ohne Debatte
+- TOP 10: E-Petition/Petition "Dresden soll sicherer Hafen werden!" - punktweise Zustimmung mit Änderung
+- TOP 11: Bestätigung von Mehrkosten im Rahmen der investiven Sportförderung für das Fördervorhaben: Sportanlagenerweiterung Bärnsdorfer Straße 2 in 01097 Dresden mit der Errichtung eines Funktionsgebäudes als Nachwuchszentrum durch den Dresden Monarchs e. V. - Zustimmung mit Ergänzung
+- TOP 12: Neufassung der Elternbeitragssatzung vom 15. Mai 2014 - Vertagung nach 22 Uhr
+- TOP 13: Neubau der Berufsvorbereitenden Ausbildungsstätte (BALD) an der Schule „Am Landgraben" Dresden mit dem Förderschwerpunkt Lernen - punktweise Zustimmung
+- TOP 14: 65. Grundschule „Am Waldpark Kleinzschachwitz“, Zschierener Straße 5 in 01259 Dresden - Teilbaumaßnahme Dachsanierung, Trockenlegung Keller und Erneuerung Trinkwassernetz - Zustimmung
+- TOP 15: Einrichtung einer Förderschule mit dem Förderschwerpunkt geistige Entwicklung und Standortverlagerung der 33. Grundschule (inklusive Hort) - Zustimmung mit Ergänzung
+- TOP 16: Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen zur Pflege und Erhaltung von Kulturdenkmalen (FFRL Denkmal) - Zustimmung
+- TOP 17: Förderung zum Festjahr Schütz.22 „weil ich lebe„ – Ein Festjahr anlässlich des 350. Todestages von Heinrich Schütz im Jahr 2022 - Zustimmung
+- TOP 18: Bebauungsplan Nr. 40, Dresden-Räcknitz Nr. 1, Südpark - Zustimmung
+- TOP 19: Bebauungsplan Nr. 3015, Dresden-Altstadt II Nr. 29, Ehemaliger Kohlebahnhof–Schulstandort Altstadt West - Zustimmung
+- TOP 20: Neubenennung und Umbenennung von Straßen - Vertagung nach 22 Uhr
+- TOP 21: Neu- und Umbenennungen von Straßen - Vertagung nach 22 Uhr
+- TOP 22: Stromsperren verhindern - Vertagung nach 22 Uhr
+- TOP 23: Stromsperren verhindern - Vertagung nach 22 Uhr
+- TOP 24: Sichere und schnelle Radwegverbindung vom Heidefriedhof zum Elbradweg durch Nutzung der zurückgebauten Bahntrasse - Vertagung nach 22 Uhr
+- TOP 25: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Vertagung nach 22 Uhr
+- TOP 26: Albertpark als Ort des Waldnaturschutzes, der Naturbildung und naturnahen Erholung weiterentwickeln - Vertagung nach 22 Uhr
+- TOP 27: Biologische Vielfalt und ökologische Qualität der Dresdner Teiche und Fließgewässer sichern und verbessern - Vertagung nach 22 Uhr
+- TOP 28: Verkehrssicherheit entlang der Münchner Straße - Vertagung nach 22 Uhr
+- TOP 29: Sozial aus der Krise – Auswirkungen der Corona-Pandemie und des Lockdowns begegnen - Zustimmung
+- TOP 30: Vergabe von Wohnbauflächen an Dresdner Familien mit niedrigen und mittleren Einkommen (Einheimischen-Modell) - Vertagung durch Einreicher
+- TOP 31: Neubenennung von Straßen, hier Benennung einer Planstraße im Baugebiet Alberstadt-Ost – Stauffenbergallee/Marienallee in „Wolfgang-Mischnick-Straße“ - Vertagung nach 22 Uhr
+- TOP 32: Dresdner Bericht über die Lebensverhältnisse in den Stadtteilen (Gleichwertigkeitsbericht) - Vertagung nach 22 Uhr
+- TOP 33: Wohngeldantrag digital einreichen - Vertagung nach 22 Uhr
+- TOP 34: Teilhabe am sozialen und kulturellen Leben verbessern - Vertagung nach 22 Uhr
+- TOP 35: Eine neue Internationale Hygiene-Ausstellung in Dresden - Vertagung nach 22 Uhr
+- TOP 36: Schluss mit dem Genderwahn – Sprache muss einfach und verständlich bleiben - Vertagung nach 22 Uhr
+- TOP 37: Anhörung zum Antrag A0234/21 „Modellprojekt zur legalen Abgabe von Cannabis" - Vertagung nach 22 Uhr
+- TOP 38: Übertragung der Stadtbezirksbeiratsmittel 2021 auf das Haushaltsjahr 2022 - Vertagung nach 22 Uhr
+- TOP 39: Besondere Förderung von stadtteilbezogenen Vorhaben und Arbeiten nach der Aufhebung der aktuellen epidemischen Lage - Vertagung nach 22 Uhr
+- TOP 40: Straßenmusik im öffentlichen Raum - Vertagung nach 22 Uhr
+- TOP 41: Überarbeitung der Satzung Straßenkunst - Vertagung nach 22 Uhr
+- TOP 42: Elbradweg sicher für alle - Fußgänger besser schützen - Vertagung durch Einreicher
+- TOP 43: Innenstadt in Dresden nach Corona dauerhaft stärken – Leerstand bekämpfen - Aufenthaltsqualität erhöhen - Vertagung nach 22 Uhr
+- TOP 44: Schulkonzepte für die Zukunft – Planungsvorgaben und Raumstandards mit Blick auf die Kostenentwicklungen bei Neubau und Sanierung - Vertagung nach 22 Uhr
+- TOP 45: Vor dem Schaden klug sein: Aufarbeitung des Stromausfalls in Dresden im September 2021 und Wege zur Prävention - Vertagung durch Einreicher
+- TOP 46: Inhaltliche Korrektur der Stelentexte an den Gedenkstätten für die Opfer der Bombenangriffe auf Dresden im Februar 1945 - Vertagung nach 22 Uhr
+- TOP 47: Starke Region im Herzen Europas – interkommunale Zusammenarbeit der Landeshauptstadt Dresden mit dem Umland voranbringen - Vertagung nach 22 Uhr
+- TOP 48: Energiepreisexplosion entgegensteuern – Heizen darf nicht zu Armut führen - Vertagung nach 22 Uhr
+- TOP 49: Resolution des Dresdner Stadtrates - punktweise Abstimmung mit Ergänzung
