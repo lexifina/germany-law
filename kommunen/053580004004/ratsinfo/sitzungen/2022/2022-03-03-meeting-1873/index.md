@@ -1,0 +1,58 @@
+# Gemeinderat (13. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2022-03-03T18:00:00+01:00
+- Ende: 2022-03-03T20:16:00+01:00
+- Ort: ehem. Haupt-/Realschule, Schwanenstraße 6, 52457 Aldenhoven, Aula der ehem. Haupt- und Realschule, Schwanenstraße 6, Aldenhoven,
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQ0muCK-DexBLaUe6ddosQQ
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1873
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd4TsnUpW9Efd0RVCZs4JzfZLUpIMEr27I9maNatxZ-I/Bekanntmachung_Gemeinderat_03.03.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSU9sZWTinkIBtnd5zYKLZfIHvXNY6EV9VIOnTWxgpaV/Oeffentliche_Niederschrift_Gemeinderat_03.03.2022.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 3.1: Umwandlung einer Tarifbeschäftigten-Stelle in eine Beamt*innen-Stelle im Stellenplan 2022 - 19 Ja-Stimme(n), 3 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 4.: Genehmigung von Eilentscheidungen des Hauptausschusses
+- TOP 4.1: 1.) 54. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven 2.) Aufstellung des Bebauungsplans 90 A - Freiflächenanlage PV - a.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB zu 1. und 2. b.) Beschluss über die frühzeitige Beteiligung gemäß §§ 3 Abs. 1 und 4 Abs. 1 BauGB zu 1. und 2. c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 54. Änderung des Flächennutzungsplanes sowie zur Aufstellung des Bebauungsplanes 90 A - Freiflächenanlage PV - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: 1.) 53. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven 2.) Aufstellung des Bebauungsplans 88 D - Am Aldenhovener Gässchen - a.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB zu 1. und 2. b.) Beschluss über die frühzeitige Beteiligung gemäß §§ 3 Abs. 1 und 4 Abs. 1 BauGB zu 1. und 2 c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 53. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven und zur Aufstellung des Bebauungsplans 88 D - Am Aldenhovener Gässchen - - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Bebauungsplan 89 N - Von-Paland-Straße - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 89 N - Von-Paland-Straße - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13b BauGB c.) Beschluss gemäß § 13b BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 4.4: Klimaanpassungskonzept Kreis Düren - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Finanzen, Haushalt
+- TOP 5.1: Änderungsvorschläge der Verwaltung zum Haushaltsentwurf 2022 - Zur Kenntnis genommen
+- TOP 6.: Satzungen, Ortsrecht
+- TOP 6.1: Satzung über die Erhebung von Elternbeiträgen im Rahmen der Offenen Ganztagsschule -Gemeinschaftsgrundschule Aldenhoven- (OGS-Beitragssatzung) - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Wahl der Schiedsperson und der stellvertretenden Schiedsperson für das Gebiet der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Sanierung der Stützen an der Pausenhofüberdachung der Gesamtschule - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Löschung des Bodendenkmals DN 216 / UDB-Nr. 61 aus der Liste der ortsfesten Bodendenkmäler - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 2.1: Auftragsvergabe Sonderförderprogramm Sirenen 2021/2022 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Genehmigung von Eilentscheidungen des Hauptausschusses
+- TOP 3.1: Wirtschaftsplan 2022 und Mittelfristplanung 2023 bis 2026 der GREEN Gesellschaft für regionale und erneuerbare Energie mbH - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Beschlussfassungen im Rahmen der Gesellschafterversammlung der Freizeitzentrum Blaustein-See GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Verpflichtungserklärung und Abschluss eines Vertrags nach § 6 EEG "Windkraft" - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Beauftragung eines Planungsbüros mit der Durchführung der Planungsleistungen im Verfahren zur Aufstellung des B-Plans 73 E - Am Weidberg - - Einstimmig, 0 Enthaltung(en)
+- TOP 3.5: Raumbedarf KiTa "St. Elisabeth" - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Gremienangelegenheiten
+- TOP 4.1: Berichte aus den Gremien
+- TOP 5.: Vermietungen, Verpachtungen
+- TOP 5.1: Vermietung eines Gebäudes - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Grundstücksangelegenheiten
+- TOP 6.1: Verkauf von gemeindeeigenen Zwickelflächen an die Anlieger - 17 Ja-Stimme(n), 6 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 6.2: Verlauf einer Teilfläche einer gemeindeeigenen Parzelle an den Anlieger - 16 Ja-Stimme(n), 6 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 6.3: Verkauf von gemeindeeigenen (Teil-)Flächen an den Grenznachbarn - 20 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1: Mitteilung des Bürgermeisters gemäß § 17 Korruptionsbekämpfungsgesetz - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Verkauf eines Feuerwehrfahrzeugs - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Interkommunale Zusammenarbeit
+- TOP 10.: Verschiedenes
