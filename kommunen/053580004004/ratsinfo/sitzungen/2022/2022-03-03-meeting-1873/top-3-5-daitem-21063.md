@@ -1,0 +1,7 @@
+# TOP 3.5: Raumbedarf KiTa "St. Elisabeth"
+
+- Sitzung: Gemeinderat (13. Sitzung) (2022-03-03)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/21063
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
