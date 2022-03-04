@@ -1,0 +1,63 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-04T14:00:00+01:00
+- Ende: 2022-03-04T16:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21831
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21831
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00440289.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00440289.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00440289.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 28.01.2022 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Die Lage der Wirt*innen der Altstadt - mündlicher Bericht - zur Kenntnis genommen
+- TOP 4.2: Vorstellung der neuen Pläne öffentliche Nutzung Kapelle Ulmer Höh in Derendorf (aus Beschluss BV1/187/2021) - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Abweichung vom Bebauungsplan, Emilie-Preyer-Platz 1 - Überdachung von Fahrradabstellplätzen - einstimmig beschlossen
+- TOP 4.5: Förderung Solarenergie in Gebieten mit Erhaltungssatzungen - zur Kenntnis genommen
+- TOP 4.6: Einrichtung des neuen Hauptstandortes der Jan-Wellem-Förderschule am Standort Heerstraße 18/18a - Empfehlung einstimmig beschlossen
+- TOP 4.7: Veranstaltungen Burgplatz – Jahresprogramm 2022 - Empfehlung einstimmig beschlossen
+- TOP 4.8: Spezialmärkte in den Schadowarkaden 2022 - einstimmig beschlossen
+- TOP 4.9: Büchermeile auf der Rheinuferpromenade im Jahre 2022 - einstimmig beschlossen
+- TOP 4.10: Bücherbummel auf der Königsallee im Jahre 2022 - einstimmig beschlossen
+- TOP 4.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2022 - einstimmig beschlossen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2022 - einstimmig beschlossen
+- TOP 4.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen
+- TOP 5.1: Reinigung der Fassade der Akademie-Galerie Burgplatz 1 und im Bereich des Rathausufers - Anfrage der CDU-Fraktion - beantwortet
+- TOP 5.2: Vermeidung von illegaler Müllentsorgung auf dem Großmarktgelände - Anfrage der CDU-Fraktion - beantwortet
+- TOP 5.3: Toilettenanlagen Obst- und Gemüse-Großmarkt - Anfrage der CDU-Fraktion - beantwortet
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anträge
+- TOP 6.1: Fußgängerüberweg Tannenstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 6.2: Lärmschutzbedürfnisse der Anwohner*innen der Kaiserswerther Straße ernst nehmen - Denkmalschutz und Lärmschutz miteinander versöhnen - überfraktioneller Antrag - zurückgezogen
+- TOP 6.3: Ampelschaltung Roßstraße/Saarbrücker Straße/Hans-Böckler-Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 6.4: Errichtung von Fahrradabstellplätzen auf der Klosterstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 6.5: Maßnahmen zur Einhaltung von Tempo 30 auf der Franklinstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 6.6: Verbreiterung des Fußweges Oststraße 57 - 63 - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 6.7: Ausbessern der Zugänge zum Frankenplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.8: Reinigen und Neuanstrich Geländer Spee'scher Graben entlang der Poststraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.9: Reinigen und Beseitigen von Wildwuchs an der Mariensäule - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.10: Verlegung des Straßenrand-Parkens an der Klosterstraße, Ecke Charlottenstraße - Antrag der Fraktion Bündnis 90 / Die Grünen - mehrheitlich beschlossen
+- TOP 6.11: Fahrraderreichbarkeit des Haupteingangs und der davor befindlichen Fahrradabstellanlage des Leibniz-Montessori-Gymnasiums - Antrag der Fraktion Bündnis 90 / Die Grünen - mehrheitlich beschlossen
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Sanierung und Aufwertung der Liesegangstraße; Beschluss der Bezirksvertretung 1 vom 25.06.2021; BV1/148/2021 - zur Kenntnis genommen
+- TOP 7.2: Telefonzelle am Rochusmarkt: Einrichtung eines Bücherschrankes; Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV1/254/2021 - zur Kenntnis genommen
+- TOP 7.3: Ergänzung der neuen Aufenthaltsbereiche auf der Immermannstraße durch Abfalleimer; Beschluss der Bezirksvertretung 1 vom 28.01.2022; BV1/007/2022 - zur Kenntnis genommen
+- TOP 7.4: Straßenbauarbeiten Am Wehrhahn zwischen Ost- und Jacobistraße; Beschluss der Bezirksvertretung 1 vom 28.01.2022; BV1/014/2022 - zurückgezogen
+- TOP 7.5: Essbare Stadt - Beerensträucher auf Kinderspielplätzen; Beschluss der Bezirksvertretung 1 vom 28.01.2022; BV1/013/2022 - zur Kenntnis genommen
+- TOP 7.6: Kiosk/Internetcafe am Worringer Platz; Beschluss der Bezirksvertretung 1 vom 28.01.2022; BV1/015/2022 - zur Kenntnis genommen
+- TOP 7.7: Fahrradständer an Baumscheiben; Beschluss der Bezirksvertretung 1 vom 28.01.2022; BV1/008/2022 - zur Kenntnis genommen
+- TOP 8: Verfügungsmittel der Bezirksvertretung 1
+- TOP 8.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Kunst-Container Düsseldorf - vertagt
+- TOP 8.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an das Eine-Welt-Forum Düsseldorf - einstimmig beschlossen
