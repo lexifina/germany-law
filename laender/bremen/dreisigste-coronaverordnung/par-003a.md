@@ -1,2 +1,2 @@
-# § 3a Schließung von Einrichtungen
-Clubs, Diskotheken, Festhallen und ähnliche Vergnügungsstätten dürfen für den Publikumsverkehr nicht geöffnet werden.
+# § 3a Vergnügungsstätten
+Bei dem Besuch von Clubs, Diskotheken, Festhallen und ähnlichen Vergnügungsstätten müssen Personen vor dem Betreten neben einem Impf- oder Genesenennachweis im Sinne des § 2 der COVID-19-Schutzmaßnahmen-Ausnahmeverordnung ein negatives Ergebnis einer Testung auf das Coronavirus SARS-CoV-2 vorlegen (2-G-Plus-Zugangsmodell). Satz 1 gilt nicht für geimpfte Personen, bei denen die letzte erforderliche Einzelimpfung vor nicht mehr als drei Monaten erfolgt ist oder die eine Auffrischungsimpfung erhalten haben, für genesene Personen, deren Infektion nicht länger als drei Monate zurückliegt oder deren Auffrischungsimpfung vor nicht mehr als drei Monaten erfolgt ist und für Personen bis zur Vollendung des 18. Lebensjahres. § 2 Absatz 4 gilt entsprechend.

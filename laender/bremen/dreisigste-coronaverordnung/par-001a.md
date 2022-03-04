@@ -4,7 +4,7 @@
 (2) Absatz 1a Satz 1 gilt nicht für:
 1. die Ehegattin oder den Ehegatten, die Lebenspartnerin oder den Lebenspartner, die Partnerin oder den Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft sowie deren oder dessen Kinder (Patchworkfamilie), Verwandte in gerader Linie sowie Geschwister und Geschwisterkinder (Familienangehörige),
 2. Personen, die in einer gemeinsamen Wohnung oder gewöhnlichen Unterkunft leben (Angehörige des eigenen Hausstandes); Paare gelten als Angehörige eines Hausstandes, auch wenn sie nicht in einer gemeinsamen Wohnung leben,
-3. Zusammenkünfte zwischen Angehörigen eines Hausstandes im Sinne von Nummer 2 mit Personen eines anderen Hausstandes oder Zusammenkünfte von bis zu zehn Personen aus verschiedenen Hausständen, wobei Kinder bis zu einem Alter von 14 Jahren und Begleitpersonen von Menschen, die diese aufgrund von Alter, Krankheit, Pflegebedürftigkeit oder Behinderung benötigen, nicht einzurechnen sind,
+3. private Zusammenkünfte zwischen geimpften oder genesenen Personen im Sinne des § 2 der COVID-19-Schutzmaßnahmen-Ausnahmeverordnung, wobei die Teilnahme von Kindern bis zu einem Alter von 14 Jahren und von Begleitpersonen von Menschen, die diese aufgrund von Alter, Krankheit, Pflegebedürftigkeit oder Behinderung benötigen, nicht berücksichtigt wird,
 4. Gruppen von Kindern bis zu einem Alter von 14 Jahren,
 5. Besucher einschließlich der Mitarbeiter einer Einrichtung oder Veranstaltung, für die der Zutritt nach dem 2-G-Zugangsmodell im Sinne von § 3 Absatz 5 geregelt ist,
 6. die Ausübung von Sport,
