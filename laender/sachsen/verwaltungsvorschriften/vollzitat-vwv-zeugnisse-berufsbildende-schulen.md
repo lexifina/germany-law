@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-10-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.6
+- Datum: 2022-03-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-08.10.2021
+04.03.2022
 bis
-03.03.2022
+05.10.2023
 
 VwV Zeugnisse berufsbildende Schulen
 
@@ -319,12 +319,12 @@ Halbjahresinformation
 
 B.02.02
 
-Jahreszeugnis (außer Berufsfachschule für Pflegeberufe)
+Jahreszeugnis (außer Berufsfachschule für Pflegeberufe, Berufsfachschule für Anästhesietechnische Assistenten und Berufsfachschule für Operationstechnische Assistenten)
 
 
 B.02.02a
 
-Jahreszeugnis Berufsfachschule für Pflegeberufe
+Jahreszeugnis Berufsfachschule für Pflegeberufe, Berufsfachschule für Anästhesietechnische Assistenten und Berufsfachschule für Operationstechnische Assistenten
 
 
 B.02.03
@@ -690,9 +690,9 @@ Fsn-Nr.: 710-V17.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  8. Oktober 2021
+Fassung gültig ab:  4. März 2022
 
-Fassung gültig bis:  3. März 2022
+Fassung gültig bis:  5. Oktober 2023
 
 Drucken/Speichern
 
@@ -719,7 +719,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17513.6
+https://www.revosax.sachsen.de/vorschrift/17513.7
 Stand vom
 18.11.2026
 
