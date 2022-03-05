@@ -1,4 +1,4 @@
-# Anlage II Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)
+# Anlage II (EETS-Zulassungsvertrag)
 
 Vertrag
 über die Durchführung

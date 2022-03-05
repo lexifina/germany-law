@@ -1,4 +1,4 @@
-# Anlage I Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+# Anlage I (Prüfvereinbarung)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 Prüfvereinbarung

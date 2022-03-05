@@ -1,6 +1,6 @@
-# Vertrag über Die Durchführung des Europäischen elektronischen Mautdienstes auf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes
+# Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes
 
-- [Anlage II Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)](anlage-ii.md)
+- [Anlage II (EETS-Zulassungsvertrag)](anlage-ii.md)
 - [Präambel](praeambel.md)
 - [§ 1 Vertragsgegenstand](0001.md)
 - [§ 2 Vertragsbestandteile](0002.md)
