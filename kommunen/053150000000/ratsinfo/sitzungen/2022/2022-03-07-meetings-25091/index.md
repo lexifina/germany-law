@@ -1,0 +1,54 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-07T17:00:00+01:00
+- Ende: 2022-03-07T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25091
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25091
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: EDELGARD: Tätigkeitsbericht 2021 und geplante Evaluation - Kenntnis genommen
+- TOP 1.2: Trendstudie zur Vereinbarkeit von Beruf und Familie - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Bußgeldbescheide gegen Obdachlose - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage betreffend "Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud - Beantwortung einer Nachfrage zum Sachstandsbericht 0012/2022 aus der Sitzung vom 24. Januar 2022" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage der AfD-Fraktion betreffend "Razzia in Kölner Shisha-Bars" aus der Sitzung vom 24.01.2022" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer Nachfrage aus dem Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales (AVR) am 24.01.2022 - Kenntnis genommen
+- TOP 3.5: Beantwortung der mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Impfstatus" aus der Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales vom 24.01.2022 - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Zweite digitale Konferenz Interkulturelles Köln am 05.11.2021 – Dokumentation - Kenntnis genommen
+- TOP 4.2: Sachstandsbericht der Arbeitsgruppe Kölnberg - Kenntnis genommen
+- TOP 4.3: Jahresbericht der Online-Redaktion über die Zugriffszahlen von stadt.koeln in 2021 - Kenntnis genommen
+- TOP 4.4: Sachstand zur Umsetzung des Teilhabechancengesetzes in der Stadtverwaltung und der KGAB - Kenntnis genommen
+- TOP 4.5: Refinanzierung der Ausbildung von Notfallsanitäter*innen im Rettungsdienst Köln - Kenntnis genommen
+- TOP 4.6: Mitteilung zum Antrag AN/1415/2021 "Einfache Sprache als Verwaltungsstandard" - zurückgestellt
+- TOP 4.7: Sachstand „Science meets City“-Symposium - Kenntnis genommen
+- TOP 4.8: Gemeindefinanzierungsgesetz 2022 - Klageerhebung gegen Festsetzungsbescheid - Kenntnis genommen
+- TOP 4.9: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 4.10: Öffnung der Kundenzentren für Laufkundschaft an zwei Tagen pro Woche - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der SPD-Fraktion betreffend "Bodycams beim Ordnungsdienst – Wann startet endlich das Pilotprojekt?" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/0374/2022 der SPD-Fraktion "Bodycams beim Ordnungsdienst" - Kenntnis genommen
+- TOP 6.2.2: Anfrage Fraktion Bündnis 90/Die Grünen , der CDU-Fraktion und der Volt-Fraktion betreffend "Realisierung Antrag Jobrad für städtische Mitarbeitende" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage betreffend „Realisierung Antrag Jobrad für städti-sche Mitarbeitende“, Anfrage gem. § 4 der Geschäftsordnung des Rates der Fraktionen Bündnis 90 / Die Grünen, CDU-Fraktion und Volt-Fraktion, AN/0453/2022 - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der FDP-Fraktion betreffend "Karnevalsgeschehen am Zülpicher Platz"
+- TOP 7.2: Mündliche Anfragen betreffend "Städtepartnerschaften"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffen "Ein Nachtbürgermeister für Köln – und einen Neuanfang nach Corona" - endgültig abgelehnt
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2022 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Fortschreibung der Richtlinie "Gebäudesanierung und Erneuerbare Energien - klimafreundliches Wohnen" - geändert beschlossen
+- TOP 10.2: Anregung der Bezirksvertretung Nippes zur Wiedereinsetzung der Stadtserviceteams – als „schnelle Eingreifgruppen“ im öffentlichen Raum - geändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
