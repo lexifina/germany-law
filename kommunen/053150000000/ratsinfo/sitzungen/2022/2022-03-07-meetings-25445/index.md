@@ -1,0 +1,97 @@
+# 11.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-07T17:00:00+01:00
+- Ende: 2022-03-07T19:00:00+01:00
+- Ort: E-Werk, Schanzenstr. 37, 51063 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25445
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25445
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Einführung und Verpflichtung eines neuen Mitgliedes der Bezirksvertretung Mülheim gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 Hauptsatzung der Stadt Köln
+- TOP -: B Vorstellung Streetwork Köln
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Fahrradstraße in Flittard (Az.: 02-1600-73/21) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: „Tempo 30 und Verkehrssicherheit in Köln-Buchforst (Az.: 02-1600-174-21) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage der AfD zur Gesundheit, Statistik der Todesfälle in Köln - Kenntnis genommen
+- TOP 7.1.2: AN 0046/2022 Glascontainer Bachstraße/Bergischer Ring Köln Mülheim - Kenntnis genommen
+- TOP 7.1.3: Anfrage AN/2117/2021 Weiterführende Schulen / Gymnasien in Köln-Mülheim - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer Anfrage: Der Muezzin-Ruf in Köln - Kenntnis genommen
+- TOP 7.1.5: Auenweg, Nähe Bushaltestelle Linie 250, gegenüber Thermalbad - Kenntnis genommen
+- TOP 7.1.6: Handwerker Dialog - Kenntnis genommen
+- TOP 7.1.7: Handwerkerparkausweis - Kenntnis genommen
+- TOP 7.1.8: Fahrrad-Abstellzonen für KVB Leihräder im Stadtbezirk - Kenntnis genommen
+- TOP 7.1.9: Rad- und Gehweg der Genossenschaftshäuser Berg.-Gladbacher Str. 800-810 - Kenntnis genommen
+- TOP 7.1.10: Schulplatzvergabe an weiterführenden Schulen im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.1.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Verkehrsentwicklung und Klimaschutz im Planungsgebiet Mülheim Süd - Kenntnis genommen
+- TOP 7.2.2: Eigentumsverhältnisse und Bodenwertentwicklung im Mülheimer Süden - Kenntnis genommen
+- TOP 7.2.3: Verkehrliche Situation im Dellbrücker Zentrum - Kenntnis genommen
+- TOP 7.2.4: Kriminalität - Präventions-Rat - Kenntnis genommen
+- TOP 7.2.5: Gesundheit, Statistik der Todesfälle in Köln - Kenntnis genommen
+- TOP 7.2.6: Das Ulrich-Haberland-Haus im Stammheimer Schlosspark - Kenntnis genommen
+- TOP 7.2.7: Waschstraße Clevischer Ring / Ecke Julius-Bau- Straße - Kenntnis genommen
+- TOP 7.2.8: Ampelanlage an der Kreuzung Piccoloministraße / Ecke Honschaftsstraße - Kenntnis genommen
+- TOP 7.2.9: Weiteres Verfahren bezüglich eines von der BV Köln- Mülheim beschlossenen Antrages oder einer Bürger*inneneingabe - Kenntnis genommen
+- TOP 7.2.9.1: Weiteres Verfahren bezüglich eines von der BV Köln- Mülheim beschlossenen Antrages oder einer Bürger*inneneingabe - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Keine Bebauung im Überschwemmungsgebiet - verwiesen in nachfolgende Gremien
+- TOP 8.1.1.1: Keine Bebauung im Überschwemmungsgebiet - verwiesen in nachfolgende Gremien
+- TOP 8.1.2: Entwicklung des Ulrich-Haberland-Haus - ungeändert beschlossen
+- TOP 8.1.3: Windmühlenquartier - ungeändert beschlossen
+- TOP 8.1.4: Wendehammer Ruwergasse - endgültig abgelehnt
+- TOP 8.1.5: Antrag auf Akteneinsicht Kalkberg - endgültig abgelehnt
+- TOP 8.1.6: Begleitung der Quartiersentwicklung im Mülheimer Süden - ungeändert beschlossen
+- TOP 8.1.7: Haltestelle Leuchterstrasse stadteinwärts (bei der geplanten Verlängerung) nach Süden verlegen - geändert beschlossen
+- TOP 8.1.8: Fuß- und Radinfrastruktur Piccoloministraße zwischen Honschaftsstraße und dem Mülheimer Ring - ungeändert beschlossen
+- TOP 8.1.9: Aufwertung von ummauerten Grünbeeten auf einem unbenannten Platz zwischen Formesstraße und Lohmühlenstraße in Köln-Mülheim - ungeändert beschlossen
+- TOP 8.1.10: Markierung eines Gehweges entlang des Mülheimer Ringes - ungeändert beschlossen
+- TOP 8.1.11: Sicherstellung von Abfluss bzw. Versickern des Regenwassers aus den Innenbereichen der Sitzgruppen rund um den Wiener Platz - ungeändert beschlossen
+- TOP 8.1.12: Umsetzung einer sicheren Straßenquerung an der Roggendorfstraße in Köln- Flittard - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Verkehrskonzept Holweide - geändert beschlossen
+- TOP 9.1.2: Ersatzbeschaffung mit Umgestaltung Spielplatz Mülheimer Stadtgarten in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2022; Vorzeitige Vergabe von bereits vorliegenden Anträgen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 280. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Neubau einer Unterkunft zur öffentlich rechtlichen Unterbringung obdachloser Personen in konventioneller Bauweise auf dem städtischen Grundstück Schönrather Str. 7 in 51063 Köln-Mülheim - zurückgestellt
+- TOP 9.2.3: Förderprogramm "Dritte Orte" - 2. Genehmigung für die Förderphase 2022ff - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Filialnetzänderung der Postbank im Stadtteil Dellbrück; Einrichtung einer Post-Partnerfiliale der Deutschen Post
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Fahrradzugänge zur Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.3.2: Gesamtinstandsetzung Mülheimer Brücke - Sicherstellen des barrierefreien Überquerens der Mülheimer Freiheit - Kenntnis genommen
+- TOP 10.2.3.3: Gesamtinstandsetzung Mülheimer Brücke - Umgestaltung der Flächen entlang der Bachstraße - Kenntnis genommen
+- TOP 10.2.4: Grundstücke des Landes NRW im Otto-Langen-Quartier, Mülheimer Süden - Kenntnis genommen
+- TOP 10.2.5: Anlegen einer Busspur auf der Frankfurter Straße - Kenntnis genommen
+- TOP 10.2.6: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 10.2.7: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - Kenntnis genommen
+- TOP 10.2.8: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - geändert beschlossen
+- TOP 10.2.9: Einwohnerfrage zum RadSchnellWeg - Kenntnis genommen
+- TOP 10.2.10: Fachliche Begleitung der Bezirksvertretungen in Verkehrsangelegenheiten - Kenntnis genommen
+- TOP 10.2.11: Teilnahme an der Earth Hour 2022 - Kenntnis genommen
+- TOP 10.2.12: Öffnungszeiten Genovevabad - Kenntnis genommen
+- TOP 10.2.13: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2021 - Kenntnis genommen
+- TOP 10.2.14: Pilot- Beteiligungsverfahren für Kinder und Jugendliche: "Hey Mülheim! - Check mit uns dein Veedel!" - Kenntnis genommen
+- TOP 10.2.15: Ergebnis des städtebaulich-freiraumplanerischen Wettbewerbs zum Bebauungsplanverfahren Nr. 75501/02 "Möhl-Areal“ in Köln-Dellbrück - Kenntnis genommen
+- TOP 10.2.16: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
