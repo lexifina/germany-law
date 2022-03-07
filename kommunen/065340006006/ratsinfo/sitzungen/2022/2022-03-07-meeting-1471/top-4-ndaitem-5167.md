@@ -1,0 +1,6 @@
+# TOP 4: Erklärung des Bürgermeisters der Gemeinde Cölbe
+
+- Sitzung: Gemeindevertretung (9. Sitzung) (2022-03-07)
+- Körperschaft: Gemeinde Cölbe
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/agendaitem/5167
