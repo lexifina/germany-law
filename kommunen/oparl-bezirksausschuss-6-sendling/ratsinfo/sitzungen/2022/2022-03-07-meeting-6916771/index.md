@@ -1,0 +1,112 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-03-07T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6916771
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6916771
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Ungesicherte Stelle an der S-Bahn Station Harras
+- TOP 2.2.: Betriebshaltestelle Sylvensteinstraße
+- TOP 2.3.: Fahrradstellplätze in der Meindlstraße
+- TOP 2.4.: Obdachlosen am Harras
+- TOP 2.5.: Antrag zum Thema Schulwegsicherheit
+- TOP 2.6.: Lärmbeschwerde auf dem Großmarktgelände
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) Toiletten am Spielplatz Neuhofen Nord Empfehlung-Nr. 20-26 / E 00437 der Bürgerversammlung des Stadtbezirks 6 Sendling vom 12.10.2021
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Toilettenanlage Plinganserstraße/ Brudermühlstraße
+- TOP 4.2.2.: Baumfällung Lindenschmitstraße 5
+- TOP 4.2.3.: Baumfällung Lindwurmstraße 201
+- TOP 4.2.4.: Baumfällungen Bauvorhaben Hans-Preißinger-Str 8
+- TOP 4.2.5.: Baumfällungen Bauvorhaben Karwendelstraße
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Neubau der Realschule und eines Hauses für Kinder an der Reutberger Straße Anliegerinformation
+- TOP 4.3.3.: Information zur postalischen Versorgung in München
+- TOP 4.3.4.: Müll in der Valleystraße Antwort
+- TOP 4.3.5.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 4.3.6.: Neubau der Realschule an der Reutberger Straße Antwort
+- TOP 4.3.7.: Wildblumen im Sendlinger Park/ Neuhofener Anlagen
+- TOP 4.3.8.: Sauber! – Ideen-Werkstatt für ein müllfreieres München
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Mehr Sicherheit an der Radabfahrt von der Plinganserstraße in Richtung Roter-Turm-Platz Empfehlung Nr. 20-26 / E 00420 der Bürgerversammlung des Stadtbezirkes 6 Sendling vom 12.10.2021
+- TOP 5.1.2.: (E) Umwandlung von Parkplätzen in Stellplätze für Kastenfahrräder in der Dietramszeller Straße Empfehlung Nr. 20-26 / E 00410 der Bürgerversammlung des Stadtbezirkes 06 Sendling am 12.10.2021
+- TOP 5.1.3.: PBB Plinganserstraße, Halstestelle Steinerstraße
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Radschnellverbindungen in München und Umland
+- TOP 5.2.2.: Anfrage wegen Neubau/Austausch einer Lichtsignalanlage (LSA) Standort Baumgartner-/ Pfeuferstraße
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verlegung der Haltestelle Lagerhausstraße
+- TOP 5.3.2.: Ampelanlage Ecke Plinganserstraße / Lindwurmstraße im Zuge der Baumaßnahmen versetzen oder Bedarfsampel abschaffen – Mehr Sicherheit für alle Verkehrsteilnehmer*innen!
+- TOP 5.3.3.: Ersatzhaltestelle in der Lindenschmitstraße
+- TOP 5.3.4.: Gleisbaumaßnahme Neue Weichen Implerstraße
+- TOP 5.3.5.: Pflanzung von fünf Bäumen im Stadtbezirk Sendling Bestellung Städtischer Leistungen Zwischennachricht
+- TOP 5.3.6.: Karwendelstraße - Diverse Anliegen Antwort
+- TOP 5.3.7.: STEP 2040: Einladung zur BA-Beteiligung
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Pflanzentröge zur Verbesserung der Übersichtlichkeit [Die Grünen + SPD]
+- TOP 5.4.2.: Anfrage zur Plinganserstraße in Sendling [Die Grünen + SPD]
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Münchner Forum: Mobilitätswende in München
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget BrückenBauen gUG Land der Kulturen – Eine Wanderausstellung von Menschen mit Fluchterfahrung vom 16.-17.03.2022 646,55€; Az. 0262.0-6-0363
+- TOP 6.1.2.: (E) Stadtbezirksbudget Frauenkirche GbR "Wenn du die Frauenkirche sehen willst" - Eine Calypso-Komödie vom 01.04. - 03.04.2022 2.070,00 €; Az. 0262.0-6-0364
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Schriftverkehr zwischen Direktorium und BA 25 zum Thema Hybridsitzungen
+- TOP 6.3.2.: Kantorat der Himmelfahrtskirche 14. Sendlinger Orgelnacht Bericht
+- TOP 6.3.3.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Änderungen der Vorgaben des Vergabeermächtigungsbeschlusses von 2018 in Bezug auf die Bereitstellung/ Betriebsführung von Beherbergungsbetrieben zur Unterbringung wohnungsloser Haushalte
+- TOP 7.3.2.: Fachliche Beratung und Begleitung des Kinder- und Jugendfonds „Lasst uns mal ran!“ im Stadtbezirk Sendling im 2021
+- TOP 7.3.3.: Aufstellen einer Tischtennisplatte in Sendling - 8.000,00 Euro
+- TOP 7.3.4.: Seniorenvertretungswahl 2022 am 26.6.2022
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Flächensuche für die Fachstelle Moderation der Nacht MoNa
+- TOP 7.5.2.: R18 retten.de - 12 Jugendhilfeplätze für Menschen mit Förderbedarf stehen vor dem Aus
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Nutzung der Theresienwiese im 2022
+- TOP 8.3.2.: Christkindlmarkt 2022 Am Harras aktueller Stand zur Antragstellung 2022; Beschlussempfehlung 2021 für BA 6
+- TOP 8.3.3.: Unveränderte Fortführung Beyond the Bread
+- TOP 8.3.4.: Unveränderte Fortführung Das Wacker
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Anfrage zu Wasser- und Raumtemperaturen im Südbad [Die Grünen]
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Anfrage zur Flächengestaltung in Sendling
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Antrag einer zusätzlichen Bürgerversammlung im Frühjahr 2022
+- TOP 9.3.2.: Papierlose Bezirksausschussarbeit Information zum neuen „RIS-Internet“ Einführung „RIS-Internet/ -Extranet-Basis“ für Bezirksausschüsse im Pilotbetrieb Einführung „RIS-Internet/ -Extranet persönlich“ für Bezirksausschussmitglieder Information zur Kooperationsplattform „Alfresco“
+- TOP 9.3.3.: Bürgerversammlungen 2022 Haushaltseinladungen; Beiblatt mit Informationen zum Bezirksausschuss
+- TOP 9.3.4.: Die Impf-Guides kommen in Ihren Stadtbezirk
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 6.1.3.: (E) Stadtbezirksbudget Deutsches Forum für Musik- und Theaterkultur e.V. Konzertveranstaltung in der Kirche St. Margaret vom 27.03.- Anfang April 2022 3.500,00€; Az. 0262.0-6-0365
+- TOP 6.1.4.: (E) Stadtbezirksbudget Ev.- Luth. Pfarramt Himmelfahrtskirche Neue Küche für Räumlichkeiten des Kirchenasyls im März 2022 2.371,50€; Az. 0262.0-6-0366
