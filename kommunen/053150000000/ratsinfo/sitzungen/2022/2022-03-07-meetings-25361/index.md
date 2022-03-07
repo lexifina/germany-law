@@ -1,0 +1,91 @@
+# 13. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-07T17:00:00+01:00
+- Ende: 2022-03-07T18:55:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal, Venloer Straße 419-421, 50825 Köln -
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25361
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25361
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Resolution der Bezirksvertretung Ehrenfeld zum Krieg in der Ukraine - ungeändert beschlossen
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Anfrage zur Leyendeckerstraße zwischen Vogelsanger Straße und Venloer Straße (Az.: 02-1600-159/21) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN: Raserei an der Glasstraße - Kenntnis genommen
+- TOP 6.1.1: Raserei an der Glasstraße - Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.1: Halteplätze für KVB-Räder in Vogelsang, Bickendorf und Bocklemünd - Kenntnis genommen
+- TOP 6.3: Anfrage der Fratkion Die Linke/Die PARTEI, betr.: Welchen Beitrag leisten Mikro-Apartments auf einem angespannten Wohnungsmarkt? - Kenntnis genommen
+- TOP 6.3.1: Beitrag von Mikro-Apartments auf einem angespannten Wohnungsmarkt - Kenntnis genommen
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Anfrage der SPD-Fraktion, betr.: Gelände Vogelsanger Str. 406, Köln-Vogelsang - Kenntnis genommen
+- TOP 6.6.1: Gelände Vogelsanger Str. 406 - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Städtebauliche Verträge und Durchführungsverträge - Kenntnis genommen
+- TOP 7.2.1: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen, betr. Städtebauliche Verträge und Durchführungsverträge - Kenntnis genommen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Sach- und Planungsstand der Wohnbauvorhaben im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Behinderung durch E-Roller - zurückgestellt
+- TOP 7.6: Anfrage der SPD-Fraktion, betr.: Umsetzung des BV Beschlusses auf Antrag der SPD-Fraktion „Bereitstellungflächen für kommerzielle Leihfahrzeuge“ (AN/1116/2020) - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Anträge zur Sitzung am 31.01.2022
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Antrag der SPD-Fraktion, betr.: Mehr Plätze für Fahrräder - Schrotträder konsequent und schnell beseitigen - ungeändert beschlossen
+- TOP 8.1.3: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Schutz der Wiesen durch Verdichtung von Trampelpfaden im Takufeld - ungeändert beschlossen
+- TOP 8.1.4: Antrag der SPD-Fraktion, betr.: Gesicherter Fußgängerüberweg Vogelsanger Markt - geändert beschlossen
+- TOP 8.2: Anträge zur Sitzung am 07.03.2022
+- TOP 8.2.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der Fraktion Die Linke/DIE PARTEI, betr.: Modifizierung des ersten Teils des Verkehrsversuchs Venloer Straße - geändert beschlossen
+- TOP 8.2.2: Antrag der SPD-Fraktion, betr.: Verkehrsversuch Venloer Straße Stufe 1 - Sache ist erledigt
+- TOP 8.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.6: Antrag der SPD-Fraktion, betr.: VHS für Ehrenfeld - ungeändert beschlossen
+- TOP 8.2.6.1: Stellungnahme zum Antrag AN/0457/2022 der SPD-Fraktion, betr. VHS für Ehrenfeld - Kenntnis genommen
+- TOP 8.2.7: Antrag der SPD-Fraktion, betr.: Spielplatz Wissmannstraße, Ecke Grimmstraße - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Straßenzusatzschilder "Nordschleswig-Viertel" Neuehrenfeld - Beschluss der Bezirksvertretung Ehrenfeld vom 07.09.2020 - geändert beschlossen
+- TOP 9.2: Standorte für Papierkörbe mit Pendelklappen in Grünanlagen - ungeändert beschlossen
+- TOP 9.3: Baubeschluss für den barrierefreien Umbau von vier Bushaltestellen auf der KVB-Linie 127 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) - zurückgestellt
+- TOP 10.3: Erweiterter Planungsbeschluss zu Bahnsteiganhebungen an den Haltestellen Subbelrather Straße/Gürtel und Nußbaumerstraße - ungeändert beschlossen
+- TOP 10.3.1: Stellungnahme zum Beschluss der BV Ehrenfeld in der Sitzung am 13.12.2021 - Kenntnis genommen
+- TOP 10.4: Bezirkssportanlage Bocklemünd Planungsbeschluss neue Sporthalle - ungeändert beschlossen
+- TOP 10.5: Planung und Kostenermittlung für das Gesamtkonzept der Bezirkssportanlage Bocklemünd - geändert beschlossen
+- TOP 10.6: 241. Änderung des Flächennutzungsplanes in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld; Arbeitstitel: "Alsdorfer Straße" in Köln-Ehrenfeld/-Braunsfeld; Hier: Anhörung des Stadtentwicklungsausschuss - ungeändert beschlossen
+- TOP 10.7: Förderprogramm "Dritte Orte" - 2. Genehmigung für die Förderphase 2022ff - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Regionalplan-Überarbeitung: Information zum Stand des Verfahrens - Kenntnis genommen
+- TOP 12.2: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - Kenntnis genommen
+- TOP 12.3: Bündelungsgymnasien in Köln in den Schuljahren 2023/24 bis 2025/26 - Kenntnis genommen
+- TOP 12.4: Bedarf an Quartiersgaragen im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.5: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 12.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.7: Zielvereinbarungen 2022 - Bürgerschaftshaus Bocklemünd, Bürgerzentrum Ehrenfeld - Kenntnis genommen
+- TOP 12.8: Niederschrift 7. Runder Tisch Radverkehr Ehrenfeld - Kenntnis genommen
+- TOP 12.9: Beantwortung der Anfrage der Ratsgruppe GUT Köln, betr. Sachstand Heliosgelände 2022 (AN/0201/2022) - Kenntnis genommen
+- TOP 12.10: Priorisierung Generalsanierungen Kölner Straßentunnel - Kenntnis genommen
+- TOP 12.11: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - Kenntnis genommen
+- TOP 12.12: Teilnahme an der Earth Hour 2022 - Kenntnis genommen
+- TOP 12.13: Nutzungsänderung der ehemaligen Kolbhalle einschl. baulicher Änderungen - Kenntnis genommen
+- TOP 12.13.1: Nutzungsänderung der ehemaligen Kolbhalle einschl. baulicher Änderungen - Kenntnis genommen
+- TOP 12.14: Fachliche Begleitung der Bezirksvertretungen in Verkehrsangelegenheiten - Kenntnis genommen
+- TOP 12.15: Förderanträge 3. Call Sofortprogramm Innenstadt NRW - Kenntnis genommen
+- TOP 12.16: Mitteilung zu einem Beschluss der Bezirksvertretung Ehrenfeld vom 13.12.2021, TOP 8.7: betr. Präzisierung des Verfahrens um das Max-Becker-Areal – gemeinsamer Dringlichkeitsantrag der der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Lin - Kenntnis genommen
+- TOP 12.17: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2021 - Kenntnis genommen
+- TOP 12.18: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 12.19: Mitteilung zum Planungsbeschluss für die Umgestaltung der Vogelsanger Straße zwischen Oskar-Jäger-Straße und Ehrenfeldgürtel (Vorlagen-Nummer 0218/2021) - Kenntnis genommen
+- TOP 13: mündliche Anfragen
