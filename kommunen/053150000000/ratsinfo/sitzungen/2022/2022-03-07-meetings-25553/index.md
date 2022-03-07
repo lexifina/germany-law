@@ -1,0 +1,101 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-07T16:00:00+01:00
+- Ende: 2022-03-07T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25553
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25553
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Autofreie Kitschburger Straße und Wochenmarkt an allen Werktagen, Hinweise an Bahn- und Busstationen, Aufwertung Stadtwaldspielplatz (Az.: 02-1600-168/20) - geändert beschlossen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Kitschburger Straße im Kölner Stadtwald für die Menschen weiter öffnen – Autofreie Kitschburger Straße im Stadtwald (Az.: 02-1600-155/21) - Alternative beschlossen
+- TOP 5.3: Bürgereingabe Kreuzung Münstereifeler Straße/Sülzgürtel
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer zweckgebundenen Spende für die Neugestaltung des Bolzplatzes Manstedter Weg - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Kitschburger Straße - Stellungnahme der Berufsfeuerwehr Köln - AN/0350/2022 - Kenntnis genommen
+- TOP 7.1.2: Kitschburger Straße - Stellungnahme der Berufsfeuerwehr Köln AN/0352/2022 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage Kitschburger Straße Feuerwehr - Kenntnis genommen
+- TOP 7.2.2: Weitere Anfrage zur Kitschburger Straße in Bezug auf die Berufsfeuerwehr - Kenntnis genommen
+- TOP 7.2.3: Barrierefreie Umgestaltung von Fuß- und Radwegbrücken - zurückgestellt
+- TOP 7.2.4: Parksituation Einsatzfahrzeuge Franz-Kremer-Stadion - zurückgestellt
+- TOP 7.2.5: Projekte zur Wasserwende - zurückgestellt
+- TOP 7.2.6: Städtische Aktivitäten betreffend die sog. Russenhäuser - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Radwegausbau Militärring (L34) zwischen Kreuzung Eifeltor und Komarweg - ungeändert beschlossen
+- TOP 8.1.2: Sanierung Trauerhalle Melatenfriedhof - ungeändert beschlossen
+- TOP 8.1.3: Einrichtung "Insektenhotel" Äußerer Grüngürtel - ungeändert beschlossen
+- TOP 8.1.4: Verkehrssicherheit Kreuzung Universitätsstr./Bachemer Str. - ungeändert beschlossen
+- TOP 8.1.5: Digitale Nachverfolgung des Bearbeitungsstandes von Anträgen - ungeändert beschlossen
+- TOP 8.1.6: Ausweisung von Lasten- und Radstellplätzen - geändert beschlossen
+- TOP 8.1.7: Ermittlung fehlender Straßenbeschilderung - ungeändert beschlossen
+- TOP 8.1.8: Verkehrssicherheit von Radfahrern an Repgowstr./Universitätsstr. - ungeändert beschlossen
+- TOP 8.1.9: Sichere Schulwege zum Schulstandort Aachener Str. - geändert beschlossen
+- TOP 8.1.10: Kennzeichnung von Ausgleichsflächen - ungeändert beschlossen
+- TOP 8.1.11: Verkehrsberuhigter Bereich Urftstr., Poller Kreuzung Anton-Antweiler-Str, Verkehrsberuhigung Olefstr. - ungeändert beschlossen
+- TOP 8.1.12: Möglichkeiten zur Wohnraumschaffung - zurückgestellt
+- TOP 8.1.13: Papierkörbe mit Pendelklappe um Rautenstrauch- und Clarenbachkanal - ungeändert beschlossen
+- TOP 8.1.14: Ausschreibungstext der Machbarkeitsstudie Linie 4 (Widdersdorf) - endgültig zurückgezogen
+- TOP 8.1.14.1: Ersetzungsantrag 8.1.14 - ungeändert beschlossen
+- TOP 8.1.15: Buslinie auf der Inneren Kanalstr./Universitätsstr. - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Sanierungsarbeiten an Kunststoffbelägen im Sportzentrum Weiden - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Baubeschluss für den barrierefreien Umbau der Bushaltestelle Bf. Lövenich auf der KVB-Linie 141 im Stadtbezirk Lindenthal - geändert beschlossen
+- TOP 9.2.2: 241. Änderung des Flächennutzungsplanes in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld; Arbeitstitel: "Alsdorfer Straße" in Köln-Ehrenfeld/-Braunsfeld; Hier: Anhörung des Stadtentwicklungsausschuss - ungeändert beschlossen
+- TOP 9.2.3: Schulrechtliche Errichtung einer Grundschule am Standort Alfons-Nowak-Straße 2, 50858 Köln bei gleichzeitiger Auflösung des Teilstandortes der Ildefons-Herwegen-Grundschule am Standort Donauweg 30, 50858 Köln-Junkersdorf zum Schuljahr - ungeändert beschlossen
+- TOP 9.2.4: Fahrplanwechsel 2022 - Sonntägliche Anbindung des Krankenhauses Hohenlind an Lövenich durch die Linie 136 - ungeändert beschlossen
+- TOP 9.2.5: Fahrplanwechsel 2022 - Erschließung des Gewerbegebiets Marsdorf sowie Ausweitung der Betriebszeiten der Buslinie 143 - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - Kenntnis genommen
+- TOP 11.2.2: Stellungnahme zum Antrag AN/0037/2022 "Ermittlung von mutmaßlichen regelmäßigen nächtlichen Lärmbelästigungen durch feiernde Gruppen" der SPD-Fraktion, der CDU-Fraktion, der FDP und Die Linke vom 08.01.2022 - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - Kenntnis genommen
+- TOP 11.3.2: Fachliche Begleitung der Bezirksvertretungen in Verkehrsangelegenheiten - Kenntnis genommen
+- TOP 11.3.3: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 11.3.4: Sanierung der Trauerhallen auf den Friedhöfen Weiß und Melaten und Umnutzung als Kolumbarien - Kenntnis genommen
+- TOP 11.3.5: Teilnahme an der Earth Hour 2022 - Kenntnis genommen
+- TOP 11.3.6: Konradstraße - Öffnung Einbahnstraße und Einrichtung einer Tempo 30-Zone - Kenntnis genommen
+- TOP 11.3.7: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2021 - Kenntnis genommen
+- TOP 11.3.8: Mitteilung zu einem Beschluss der Bezirksvertretung Ehrenfeld vom 13.12.2021, TOP 8.7: betr. Präzisierung des Verfahrens um das Max-Becker-Areal – gemeinsamer Dringlichkeitsantrag der der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Lin - Kenntnis genommen
+- TOP 11.3.9: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen
+- TOP 12.1: Planungsstand Skatepark Widdersdorf - zurückgestellt
+- TOP 12.2: Auswirkungen der Pförtnerampel und Auslastung der Express-Busse auf der Aachener Straße - zurückgestellt
+- TOP 12.3: Schutz von Vorgärten vor Versiegelung - zurückgestellt
+- TOP 12.4: Kölns erster Fleischautomat in Köln-Sülz am Auerbachplatz - zurückgestellt
+- TOP 12.5: Anfrage Sport- und Wasserflächen - zurückgestellt
+- TOP 12.6: Anfrage Lärmschutz am äußeren Grüngürtel - zurückgestellt
+- TOP 12.7: Bezirkliches Radverkehrskonzept - zurückgestellt
+- TOP 12.8: Widdersdorfer Straße - zurückgestellt
+- TOP 12.9: Baugenehmigung VIKZ - zurückgestellt
+- TOP 12.10: Sachstand Schulplätze für Sülz und KIettenberg - zurückgestellt
+- TOP 12.11: Plakate im Äußeren Grüngürtel - zurückgestellt
+- TOP 12.12: Rechtswidrig abgestellte Fahrzeuge - zurückgestellt
+- TOP 12.13: Parkhäuser und Quartiersgaragen in stark frequentierten Ortsteilen - zurückgestellt
+- TOP 12.14: Baumfällungen - zurückgestellt
+- TOP 12.15: Umgestaltung Kirchplatz Lövenich - zurückgestellt
+- TOP 12.16: Barrierefreie WBS-Wohnungen - zurückgestellt
+- TOP 12.17: Sachstand illegale Mountainbike-Strecken im Äußeren Grüngürtel - zurückgestellt
+- TOP 15.2.1.1: Ergänzungsantrag 1 - zurückgestellt
+- TOP 15.2.1.2: Ergänzungsantrag 2 - zurückgestellt
