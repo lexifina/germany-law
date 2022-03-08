@@ -114,7 +114,7 @@ C.1 Die Fahrwassertiefe ist begrenzt.
     ... nicht darstellbares Tafelzeichen
   C.4 Es bestehen Schifffahrtsbeschränkungen; sie sind auf einer zusätzlichen Tafel unter dem Schifffahrtszeichen angegeben.
     ... nicht darstellbares Tafelzeichen
-  C.5 Die Wasserstraße ist am rechten (linken) Ufer eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich die Fahrzeuge vom Tafelzeichen entfernt halten sollen.
+  C.5 Die Fahrrinne ist am rechten (linken) Ufer eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich die Fahrzeuge vom Tafelzeichen entfernt halten sollen.
     ... nicht darstellbares Tafelzeichen
 D. Empfehlende Zeichen
 D.1 Empfohlene Durchfahrtsöffnung:
