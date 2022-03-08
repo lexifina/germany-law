@@ -1,0 +1,80 @@
+# 9. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-08T15:41:00+01:00
+- Ende: 2022-03-08T18:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25185
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25185
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Open-Air-Förderungen 2022 - ungeändert beschlossen
+- TOP 3.2: Besetzung der vakanten Leitungsstelle im NS-Dokumentationszentrum - endgültig zurückgezogen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Vergabe der Fördermittel 2022 in den Schwerpunkten "Produktionen und Sonderprojekte" und "Cologne Music Export" - ungeändert beschlossen
+- TOP 4.3: Beauftragung eines Musikschulentwicklungsplans - Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - zurückgestellt
+- TOP 4.4: Vergabe der institutionellen Förderung von Interessenvertretungen der freien Szene - zurückgestellt
+- TOP 4.5: Instandsetzung des Gebäudes Martinstraße 30 - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Übertragung der Liegenschaft Martinstraße 30, 50667 Köln, aus dem Liegenschaftsvermögen des Dezernates für Kunst und Kultur in das Sondervermögen der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 4.7: Verlängerung Betriebskostenzuschuss für den Verein 321-2021: 1700 Jahre jüdisches Leben in Deutschland e.V. - ungeändert beschlossen
+- TOP 4.8: Freigabe und Vergabe „Projektförderung musikalische Veranstaltungen" - ungeändert beschlossen
+- TOP 4.9: Römisch-Germanisches Museum - Baubeschluss für vorgezogene notwendige Sanierung der Abdichtung über Dombauhütte und Trafo - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Verwendung der Mittel aus dem Sonderausstellungsetat 2022 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bewerbung um Fördermittel des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen - zurückgestellt
+- TOP 8.2: Haus Fühlingen - Fachgespräch - Kenntnis genommen
+- TOP 8.3: Mitteilung zum Antrag des Integrationsrates zur Berücksichtigung der Kölner Migrationsgeschichte bei der Neukonzeption des Kölner Stadtmuseums - Kenntnis genommen
+- TOP 8.4: Verschwundenes sichtbar machen. Kommunikation im und über den Holocaust - Kenntnis genommen
+- TOP 8.5: Kostenfortschreibung und Freigabe investiver Mittel betreffend Interim Kölnisches Stadtmuseum im ehemaligen Haus Sauer - Kenntnis genommen
+- TOP 8.6: Strategiepapier zur museumsübergreifenden Bildungs- und Vermittlungsarbeit - Kenntnis genommen
+- TOP 8.7: Bereitstellung Überplanmäßiger Haushaltsmittel für den Teilergebnisplan 0403 - Römisch-Germanisches Museum - Kenntnis genommen
+- TOP 8.8: Kölner Kulturticket für Studierende und Azubis, hier: Umfrage und Evaluationen sowie weiteres Vorgehen - Kenntnis genommen
+- TOP 8.9: Leitbild und neues Branding des Kölnischen Stadtmuseums - Kenntnis genommen
+- TOP 8.10: Haushalt 2022 – Ansätze im Etat, Kulturelle Bildung - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 21. Februar 2022 - zurückgestellt
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 18. Februar 2022 - zurückgestellt
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 1. März 2022 - zurückgestellt
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der mündlichen Anfrage: Klosterkirche zum Guten Hirten - Kenntnis genommen
+- TOP 10.2: Beantwortung der schriftlichen Anfrage AN/2218/2021 der Fraktion Die LINKE: Professionelle Aufarbeitung der Kölner Kolonialgeschichte tut not! - zurückgestellt
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Beantwortung der mündlichen Anfrage: Rheingassentörchen - Kenntnis genommen
+- TOP 10.5: Beantwortung der mündlichen Anfrage von "Grün offene Liste" (GOL) in der Sitzung des Integrationsrates am 16.11.2021 zur Rückgabe der sogenannten Benin-Bronzen - zurückgestellt
+- TOP 10.6: Anmietung neuer Räume für die Kunst- und Museumsbibliothek, hier: Sachstand zum Beschluss 0727/2020 - zurückgestellt
+- TOP 10.7: Geschlechterparitätische Verteilung von Stipendien der Stadt Köln und deren Auswahlgremien - zurückgestellt
+- TOP 10.8: Werkstatt-Räume des Historischen Archivs - zurückgestellt
+- TOP 10.9: Anfrage der FDP-Fraktion zur Kostenentwicklung für die Herrichtung und den Betrieb des Kölnischen Stadtmuseums im Haus Sauer - zurückgestellt
+- TOP 10.10: Restaurierung der Historischen Stadtbibliothek und der Wallraf-Bibliothek - zurückgestellt
+- TOP 10.11: Beantwortung der Anfrage der Ratsgruppe GUT Köln betr. Sachstand Heliosgelände 2022 (AN/0201/2022) - zurückgestellt
+- TOP 10.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.13: Beantwortung der Anfrage der Fraktion Bündnis90/Die Grünen: Förderkonzept Kulturelle Teilhabe - zurückgestellt
+- TOP 10.14: Beantwortung der schriftlichen Anfrage: Baulogistik für das Römisch-Germanische Museum und die umliegenden Bauprojekte - zur Anfrage der SPD-Fraktion AN/0149/2022 - zurückgestellt
+- TOP 10.15: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen zum Sachstand Heliosbaustein - zurückgestellt
+- TOP 10.16: Besetzung der Stelle des Direktors, der Direktorin des NS-Dokumentationszentrum der Stadt Köln - zurückgestellt
+- TOP 10.17: Beantwortung einer Anfrage der FDP-Fraktion (AN/0357/2022) zum Thema "Inventarisierung in Kölner Museen" - zurückgestellt
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung einer schriftlichen Anfrage zum Kunstwerk "ruhender Verkehr" von Wolf Vostell - zurückgestellt
+- TOP 11.2: TransparenzKULTUR! - zurückgestellt
+- TOP -: Beantwortung der schriftlichen Anfrage - zurückgestellt
+- TOP 11.3: Schriftliche Anfrage der Fraktion der SPD: Städtepartnerschaftlicher Austausch Esch-sur-Alzette - zurückgestellt
+- TOP 11.4: Schriftliche Anfrage der Fraktion der CDU: Zwischennutzung für „MiQua“ - zurückgestellt
+- TOP 11.5: Schriftliche Anfrage der Fraktion der FDP: Inventarisierung in Kölner Museen - zurückgestellt
+- TOP 11.6: Schriftliche Anfrage der Fraktion der FDP: Kulturelle Bildung - zurückgestellt
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen (Frau von Bülow): Cumulus Konzept
+- TOP 12.2: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen (Frau von Bülow): Runder Tisch Ateliers
+- TOP 12.3: Mündliche Anfrage der Fraktion der CDU: Auszahlung von Fördermitteln der freien Musikszene in 2021 und Musikförderkonzept
+- TOP 12.4: Tagesordnungspunkt (betrifft Privatpersonen)
