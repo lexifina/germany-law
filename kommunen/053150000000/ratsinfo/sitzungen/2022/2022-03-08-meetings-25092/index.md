@@ -1,0 +1,64 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-08T14:05:00+01:00
+- Ende: 2022-03-08T15:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25092
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25092
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelles zur Situation der Geflüchteten aus der Ukraine
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Neugestaltung des Spiel- und Bolzplatzes An den Maien in Köln-Poll - ungeändert beschlossen
+- TOP 3.2: Annahme einer zweckgebundenen Spende für die Neugestaltung des Bolzplatzes Manstedter Weg - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Teilnahme an der Landesinitiative „Durchstarten in Ausbildung und Arbeit“ - ungeändert beschlossen
+- TOP 4.2: Weiterführung des Projektes „Plan27“ - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Antrag aus Sportausschuss vom 27.01.2022: "Inklusive Skaterparks" - ungeändert empfohlen
+- TOP -: Inklusive Skaterparks - Antrag der Stadt-AG Behindertenpolitik ohne Nummer zum Sportausschuss 27.01.2022 - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Beratungsfrequenz beim schulpsychologischen Dienst und bei den Erziehungsberatungsstellen - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0154/2022 "Beratungsfrequenz beim schulpsychologischen Dienst und bei den Erziehungsberatungsstellen" - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Suizidversuche von Kindern und Jugendlichen während der Pandemie - zurückgestellt
+- TOP -: Beantwortung der FDP-Anfrage „Suizidversuche von Kindern und Jugendlichen während der Pandemie“ - zurückgestellt
+- TOP 6.2.2: Jugendeinrichtung Wunschtor - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung der mündlichen Nachfragen der FDP-Fraktion zu der Vorlage 0185/2022 unter TOP 7.1.5 aus der JHA-Sitzung am 25.01.2022 - Kenntnis genommen
+- TOP 7.1.2: Beantwortung der mündlichen Anfrage der FDP-Fraktion zum Live-Stream - Kenntnis genommen
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Umbesetzung JHA-Mitglieder - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: "Tag der Jugend im Rathaus" - Umsetzung unter Pandemiebedingungen – Abschluss 2020/2021 – Sachstand 2022 - Kenntnis genommen
+- TOP 8.4.2: Begleitgremium zum kommunalen Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - Kenntnis genommen
+- TOP 8.4.3: Ratgeberbroschüre „Digitale Spiele pädagogisch beurteilt“ Band 31 2021/2022 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: EDELGARD: Tätigkeitsbericht 2021 und geplante Evaluation - Kenntnis genommen
+- TOP 8.5.2: Beantwortung einer Anfrage der Fraktionen Bündnis 90/Die Grünen, der CDU und Volt zum Thema Kinderfreizeitbonus für Kinder A - Kenntnis genommen
+- TOP 8.5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.4: Sportentwicklungsplanung - "POLDIS STRASSENKICKER": kostenloses Fußballtraining für Kölner Kinder und Jugendliche - Kenntnis genommen
+- TOP 8.5.5: Testpflicht in Kindertageseinrichtungen - Kenntnis genommen
