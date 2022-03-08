@@ -1,0 +1,6 @@
+# TOP -: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 5. Sitzung des Ausschusses für Mobilität (2022-03-08)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2022-AM-8%7CAn-rvr-noe%7C2
