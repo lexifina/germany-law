@@ -1,0 +1,7 @@
+# TOP 7: Schlüsselprojekt für Heckinghausen
+
+- Sitzung: öffentliche Sitzung der Bezirksvertretung Heckinghausen (2022-03-08)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/113626
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/52737
