@@ -1,0 +1,83 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-03-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796041
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796041
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 08.02.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (A) Erhöhung des Zuwendungsbetrags Stadtbezirksbudget Evangelischer Verein München-Solln e.V. Weiterführung der Hausaufgabenhilfe vom 17.09.2020 bis 29.07.2021 Von 8.770,00 € auf 14.533,00 € / Az. 0262.0-19-0339
+- TOP 3.3.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Klavierkonzert am Nachmittag vom 15.03.2022 bis 14.03.2023 300,00€; Az. 0262.0-19-0399
+- TOP 3.4.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür – PLAN H aus München für München von April bis November 2022 9.499,00€; Az. 0262.0-19-0398
+- TOP 3.5.: (E) Stadtbezirksbudget Kinder- und Familienzentrum Am Südpark, Caritas München Süd Kindertheater Fest Obersendling vom 08.07. bis 26.09.2022 2.924,28€; Az. 0262.0-19-0403
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Umstellung Wertstoffcontainer Schaffhauser Straße / Winterthurer Straße Empfehlung Nr. 20-26 / E 00348 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 4.4.: (E) Verschmutzungen im 19. Stadtbezirk Empfehlung Nr. 20-26 / E 00353 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 4.5.: (A) Verbot von Glyphosat in Wohngegenden BV-Empfehlung Nr. 20-26 / E 00355; Sitzungsvorlage Nr. 20-26 / V 05655
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Einrichtung von zwei zusätzlichen Behindertenparkplätzen für das Facharztzentrum München Süd in der Drygalski-Allee 117
+- TOP 5.2.: (A) Einrichtung einer Corona-Teststation am Schweizer Platz
+- TOP 5.3.: (E) Barrierefreier Ausbau von Bushaltestellen Empfehlung Nr. 20-26 / E 00323 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 5.4.: (Antrag) Parkplätze Friedhof Forst-Kasten-Allee
+- TOP 5.5.: (Antrag) Erweiterung Tempo 30 Liesl-Karlstadt-Straße und Herterichstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.2: Friedastraße 9
+- TOP 6.2.4: Flötnerweg 12 (T)
+- TOP 6.2.8: Königswieser Straße 7 (VB)
+- TOP 6.2.9: Oppenrieder Straße 34a
+- TOP 6.2.14: Geisenhausenerstraße 13
+- TOP 6.2.15: Uhdestraße 39 (VB)
+- TOP 6.2.16: Whistlerweg 55 (VB)
+- TOP 6.3.: (E) Workshop für Bürger*Innen zur Neugestaltung des Schweizer Platzes Empfehlung Nr. 20-26 / E 00349 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 6.4.: (A) Erbbaurechtsvergabe einer städtischen Immobilie: Kloster-Seeon-Straße Flurnummer 576/6 und 576/7
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Zustand der Sauna im Bad Forstenrieder Park
+- TOP 7.2.: Situation der Mittagsbetreuung an der Grundschule Sambergerstraße
+- TOP 7.3.: (E) Pumptrack im Hermann-von-Siemens-Sportpark Empfehlung Nr. 20-26 / E 00351 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.202
+- TOP 7.4.: (A) Einsatz von Impf-Guides im 19. Stadtbezirk
+- TOP 7.5.: (Antrag) Bestandsdefizite an Realschulplätzen im 19. Stadtbezirk lösen
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Flächen für Veranstaltungen im öffentlichen Raum - Frühjahr und Sommer 2022
+- TOP 8.3.: (U) Gaststättenfortführung: Forstenrieder Allee
+- TOP 8.4.: (A) Veranstaltung: Forstenrieder Volkslauf am 26.03.2022
+- TOP 8.5.: (U) Gaststättenfortführung: Drygalski-Allee
+- TOP 8.6.: (Antrag) 8. Mai 2022 - Befreiung vom Naziterror - Auftrag und Verpflichtung
+- TOP 9: Verschiedenes
+- TOP 3.6.: - NACHTRAG - (E) Stadtbezirksbudget KuKi – Kunst für Kinder e.V. NEONGELB und HIMMELPINK – Kinder entdecken das Archiv Geiger vom 11.04.-15.10.2022 7.740,00€; Az. 0262.0-19-0404
+- TOP 6.2.17: - NACHTRAG - Zielstattstraße 20
+- TOP 8.7.: - NACHTRAG - (A) Veranstaltung: Maifest Grünanlage Weltistraße am 29.04.2022
+- TOP 8.8.: - NACHTRAG - (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee 15.03.2022 bis 30.06.2022
+- TOP 7.6.: - NACHTRAG - (A) Spiellandschaft Stadt e.V.: Spielaktionen 2022 im 19. Stadtbezirk
+- TOP 6.2.1: Herterichstraße 173
+- TOP 6.2.3: Hofbrunnstraße 75
+- TOP 6.2.5: Kistlerhofstraße 70 (VB)
+- TOP 6.2.6: Helfenriederstraße 12 (T)
+- TOP 6.2.7: Machtlfinger Straße 28 (VB)
+- TOP 6.2.10: Fürstenackerstraße 4
+- TOP 6.2.11: Rehbergstraße 7 (VB)
+- TOP 6.2.12: - abgesetzt -
+- TOP 6.2.13: Wolfratshauser Straße Flurnummer 558/0
