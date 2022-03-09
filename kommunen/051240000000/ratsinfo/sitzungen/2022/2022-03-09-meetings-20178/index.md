@@ -1,0 +1,60 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-03-09T19:00:00+01:00
+- Ende: 2022-03-09T21:00:00+01:00
+- Ort: Johannes-Rau-Platz 1, 42275 Wuppertal, 3. Etage, Raum A-350 Nachweis 3G (geimpft, genesen, getestet) zur Sitzungsteilnahme zwingend erforderlich.
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20178
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20178
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00288120.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00289082.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung einer Bezirksvertreterin
+- TOP 2: Controllingliste der Beschlüsse und Aufträge der Verwaltung
+- TOP 3: Bericht des Jugendrates
+- TOP 4: Bürgeranträge
+- TOP 4.1: Bürgerantrag gemäß § 24 GO NRW - Teilantwort hier: Einbahnstraßenfreigabe Sophienstraße für den gegenläufigen Radverkehr - vertagen
+- TOP 4.2: Bürgerantrag §24 GO NRW Autofreier Gehweg in der Oberstraße - vertagen
+- TOP 4.3: Bürgerantrag § 24 GO NRW : Entfernen von Markierungen im Bereich Hofaue 35-41 zugunsten von Anwohnerparken - vertagen
+- TOP 4.4: Bürgerantrag gemäß § 24 GO NRW: Von-der-Heydt-Park - abgelehnt
+- TOP 4.5: Bürgerantrag gemäß § 24 GO NRW - Verkehrssituation Klever Platz/Ravensberger Str. - ungeändert beschlossen
+- TOP 5: Antrag auf Nutzung öffentlicher Fläche für Außengastronomie - Aue 34 - ungeändert beschlossen
+- TOP 6: Regelmäßiger Feierabendmarkt auf dem Laurentiusplatz - vertagen
+- TOP 7: Bebauungsplan 1068 - Bayreuther Straße / Briller Straße - 1. Änderung des Bebauungsplanes (mit Flächennutzungsplanberichtigung 126B) - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 8: Bebauungsplanes 673 - Viehhofstraße - 3. Änderung des Bebauungsplanes - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 9: Bebauungsplan 1268 - Karlstraße - 1. Verlängerung der Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 10: Verordnung über das Offenhalten von Verkaufsstellen am 04.09.2022 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 11: Ausbau von OGS-Plätzen an der Grundschule Hombüchel zum Schuljahr 2022/2023 - ungeändert beschlossen
+- TOP 12: Beschlussvorlage Rahmenkonzept zur Einrichtung einer Nachtbürgermeister:innenstelle - geändert beschlossen
+- TOP 12.1: Änderungsantrag zu VO/1202/21-A der SPD Fraktion - erledigt durch Beschluss zu einem anderen TOP
+- TOP 13: Verwendung des Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 14: Anträge der Fraktionen
+- TOP 14.1: Sicherheit und Ordnung im Luisenviertel - Antrag der SPD - vertagen
+- TOP 14.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3: Problem- und Schrottimmobilien wieder stärker in den Blick nehmen - Antrag der SPD - ungeändert beschlossen
+- TOP 14.4: Bürgerbüro Cronenberg - Antrag Bündnis90/die Grünen - geändert beschlossen
+- TOP 14.4.1: Änderungsantrag zu VO70242/22 der SPD Fraktion - in der Sache erledigt
+- TOP 15: Schlüsselprojekt
+- TOP 15.1: Schlüsselprojekt für Elberfeld - Vorschläge der Fraktion SPD - vertagen
+- TOP 15.2: Schlüsselprojekt in Elberfeld - Vorschläge der Fraktion CDU - vertagen
+- TOP 15.3: Schlüsselprojekt in Elberfeld - Vorschläge der Fraktion Bündnis90/ die Grünen - vertagen
+- TOP 16: Anfragen der Fraktionen
+- TOP 16.1: Sachstand Programm des Oberbürgermeisters „Fokus Wuppertal“ - Anfrage der SPD - vertagen
+- TOP 16.2: Taxihalteplätze Döppersberg - Anfrage der CDU - Entgegennahme ohne Beschluss
+- TOP 16.2.1: Antwort der Verwaltung - Taxihalteplätze Döppersberg
+- TOP 17: Anträge auf freie Mittel aus dem Budget 2021/2022
+- TOP 17.1: Förderung des Gedenkortes für die Flüchtlinge, die auf der Flucht nach Europa ihr Leben verloren haben - Initiative Seebrücke Wuppertal vertreten durch den Förderverein Elberfelder Nordstadt e.V. - ungeändert beschlossen
+- TOP 17.2: Patenschaft für drei Stolpersteine der ehemaligen Familie Bernhard - Verein Stolpersteine in Wuppertal e.V. - ungeändert beschlossen
+- TOP 17.3: Rettungszelte „Humanity Tents“- DLRG Deutsche Lebens-Rettungs-Gesellschaft Bezirk Wuppertal e.V. - vertagen
+- TOP 17.4: Neuanschaffung Küchenutensilien zur Zubereitung eines Mittagstisches für Kinder und Jugendliche - Alte Feuerwache gGmbH - ungeändert beschlossen
+- TOP 17.5: "Mut tut gut - Prima Klima" - Angelo-Roncalli-Schule - ungeändert beschlossen
+- TOP 17.6: Unterstützung der Alten Feuerwehrwache - ungeändert beschlossen
+- TOP 18: GFG-Mittel
+- TOP 18.1: Bau einer neuen Wendeltreppe - Alevitische Gemeinde Wuppertal e.V. - ungeändert beschlossen
+- TOP 18.2: Verwendung der GFG-Mittel 2021 - Antrag CDU Fraktion - abgelehnt
+- TOP 18.3: Verwendung der GFG-Mittel aus 2021 - Gemeinsamer Antrag - geändert beschlossen
