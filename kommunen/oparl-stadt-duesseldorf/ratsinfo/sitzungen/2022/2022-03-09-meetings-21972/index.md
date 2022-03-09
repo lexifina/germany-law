@@ -1,0 +1,108 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-09T17:10:00+01:00
+- Ende: 2022-03-09T19:24:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21972
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21972
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2022-03-09 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442656.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2022-03-09 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442656.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2022-03-09 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442656.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - vom 6. Oktober 2021 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - vom 17. November 2021 - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Beschluss Hochhausrahmenplan
+- TOP 10: Genehmigung einer Dringlichkeitsentscheidung - Ergebnis der Öffentlichkeitsbeteiligung und Beschluss Hochhausrahmenplan - Vorlage APS/147/2021 - einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6 - vertagt
+- TOP 18: Anfrage der Fraktion BÜ90/Die Grünen: Offene Fragen zum flankierenden Verkehrskonzept des Neubauprojekts Deiker Höfe (ehemals Fashion House) - vertagt
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Anfrage der Fraktion BÜ90/Die Grünen: Versiegelung im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 22: Anfrage der Fraktion BÜ90/Die Grünen: Vernachlässigung von Bausubstanz und Missachtung des Hochwasserschutzes in der Vonovia-Siedlung Mintarder Weg? - schriftlich beantwortet
+- TOP 23: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen - vertagt
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Anfrage der Fraktion Bü90/Die Grünen: Einfluss des Stickoxid-Ausstoßes großer Emittenten im Stadtbezirk 6 auf die Gesundheit der Bürger*innen - schriftlich beantwortet
+- TOP 27: Anfrage der Fraktion Bü90/Die Grünen: Anfrage zu einem möglichen P&R-Parkplatz mit Anbindung an die A44 und die A52 - vertagt
+- TOP 28: Anfrage der SPD-Fraktion: Baustelle Unterrather Straße/Kalkumer Straße - schriftlich beantwortet
+- TOP 29: Anfrage der SPD-Fraktion: Neubepflanzung "Unterrather Wald" - Airport City West - vertagt
+- TOP 30: Anfrage der CDU-Fraktion: Gelände "alte Tankstelle" Kalkumer Straße / Ecke Zaberner Straße - zurückgezogen
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Anfrage der CDU-Fraktion: Gebäude Kalkumer Straße 1 und Kalkumer Straße 2, ff - vertagt
+- TOP -: Anträge
+- TOP 33: Antrag der CDU-Fraktion: Schaffung einer Einbahnstraße: Mintarder Weg - zurückgezogen
+- TOP 34: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines verkehrsberuhigten Bereichs in einem Teilbereich der Straße "An der Golzheimer Heide" - abweichend beschlossen
+- TOP 35: Antrag der SPD-Fraktion: Einrichtung von Tempo 30 auf dem gesamten Volkardeyer Weg - abweichend beschlossen
+- TOP 36: Antrag der Fraktion BÜ90/Die Grünen: Umwandlung der Oldenburger Straße in eine Einbahnstraße - zurückgezogen
+- TOP 37: Antrag der SPD-Fraktion - Parken auf Gehwegen - abweichend beschlossen
+- TOP 38: Antrag der Fraktion Bü90/Die Grünen: Einrichtung einer Ladezone auf der Münsterstraße - mehrheitlich abgelehnt
+- TOP 39: Antrag der Fraktionen Bü90/Die Grünen, SPD, CDU und FDP: Einrichtung eines Bewohner*innenparkgebietes in der Siedlung Scheffelstraße - abweichend beschlossen
+- TOP 40: Antrag der Fraktion Bü90/Die Grünen: Fehlende Bänke an Haltestellen der Buslinie 729 - abweichend beschlossen
+- TOP 41: Antrag der Fraktion Bü90/Die Grünen: Umgestaltung des westlichen Endes der Breisacher Straße - abweichend beschlossen
+- TOP 42: Antrag der CDU-Fraktion: Hilfe für die Westfalenstraße aus dem Förderprogramm zur Stärkung der Innenstädte - einstimmig beschlossen
+- TOP 43: Antrag der CDU-Fraktion: Tempo 30 auf der Deikerstraße zwischen Carl-Sonnenschein-Straße und Am Hain - einstimmig beschlossen
+- TOP 44: Interfraktioneller Antrag: Wie können die vorhandenen räumlichen Gegebenheiten im Bürgerbüro Münsterstraße 508 für Mitarbeiterinnen und Mitarbeiter verbessert werden. - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 45: Trödelmärkte auf dem Schützenplatz Rather Broich im 1. Halbjahr 2022
+- TOP 46: Genehmigung einer Dringlichkeitsentscheidung - Trödelmärkte auf dem Schützenplatz Rather Broich im 1. Halbjahr 2022 - Vorlage BV6/184/2021 - einstimmig beschlossen
+- TOP 47: Zuschuss 2022 - Übernahme der Kosten der Mahn- und Gedenkstätte für den Flyer "Geschichtsorte im Stadtbezirk 6"
+- TOP 48: Genehmigung einer Dringlichkeitsentscheidung - Zuschuss 2022 - Übernahme der Kosten der Mahn- und Gedenkstätte für den Flyer "Geschichtsorte im Stadtbezirk 6" - Vorlage BV6/020/2022 - einstimmig beschlossen
+- TOP 49: Bauunterhaltungsmittel 2022 Teil B "sonstige Gebäude" - Projekt Blumenoasen - einstimmig beschlossen
+- TOP 50: Bauunterhaltungsmittel 2022 Teil B "sonstige Gebäude" - Projekt Blumenkästen- und Kübel im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 51: Ergebnis der Beratungen zur Aufstellung des Haushaltsplanes 2022 - zur Kenntnis genommen
+- TOP -: Informationsvorlagen
+- TOP 52: Förderung Solarenergie in Gebieten mit Erhaltungssatzungen - zur Kenntnis genommen
+- TOP 53: Außengastronomie auf Kfz-Stellflächen - zur Kenntnis genommen
+- TOP 54: Prüfung auf Zweckentfremdung gemäß Wohnraumschutzsatzung - Vorlage BV6/093/2021 - zur Kenntnis genommen
+- TOP 55: Fortschreibung Soziale Stadt - Schaffung eines Lernortes und Begegnungsstätte "Wir erleben unsere Natur und Umwelt" - Vorlage BV6/069/2021 - zur Kenntnis genommen
+- TOP 56: Fortschreibung Soziale Stadt - Erschließung von Bewegungsraum im Grünzug Ratherbroicher Grenzgraben - Vorlage BV6/068/2021 - zur Kenntnis genommen
+- TOP 57: Überprüfung der Fahrradabstellmöglichkeiten entlang der Westfalenstraße - Vorlage BV6/134/2021 - zur Kenntnis genommen
+- TOP 58: Neugestaltung der Fahrradabstellplätze auf dem Schulgelände der Heinrich-Heine-Gesamtschule - Vorlage BV6/077/2021 - zur Kenntnis genommen
+- TOP 59: Erweiterung des Angebotes des Abenteuerspielplatzes Sankt-Franziskus-Straße zu einem Lernort - Vorlage BV6/067/2021 - zur Kenntnis genommen
+- TOP 60: Sanierung Spielplatz Reitzenstein - Vorlage BV6/091/2021 - zur Kenntnis genommen
+- TOP 61: Nachnutzung des Geländes der Jugendberufshilfe - Vorlage BV6/014/2021 - zur Kenntnis genommen
+- TOP 62: Gelände an der Oberhausener Straße - Wie geht es weiter? - Vorlage BV6/161/2021 - zur Kenntnis genommen
+- TOP 63: Verlängerung der Grünphase an der Ampel Hamborner Straße Höhe Hs-Nr. 80 und Hamborner Straße/Kürtenstraße - Vorlage BV6/140/2021 - zur Kenntnis genommen
+- TOP 64: Bewohnerparken Lichtenbroich - Vorlage BV6/020/2021 - zur Kenntnis genommen
+- TOP 65: Fußgängerzone Matthiaskirchweg Installation Wasserzerstäubungsanlage - Vorlage BV6/021/2021 - zur Kenntnis genommen
+- TOP 66: Parken im Gewerbebereich - Vorlage 176/76/2019 - zur Kenntnis genommen
+- TOP 67: Flächenentsiegelung von den Spitzen der Fußgängerinseln im Stadtbezirk 6 - Vorlage BV6/156/2021 - zur Kenntnis genommen
+- TOP 68: Schaukel für Kleinkinder (Babyschaukel) Spielplatz Heideweg/Sankt-Franziskus-Straße - Vorlage BV6/025/2021 - zur Kenntnis genommen
+- TOP 69: Verkehrsspiegel ggü. der Ausfahrt Recklinghauser Straße/Rather Kreuzweg - Vorlage BV6/073/2021 - zur Kenntnis genommen
+- TOP 70: Brunnen Heideweg/Gerhart-Hauptmann-Straße - Vorlage BV6/124/2021 - zur Kenntnis genommen
+- TOP 71: Vorstellung der Verkehrsgesamtkonzeption im Bereich An der Piwipp/Ulmenstraße und Aussetzung des Rückbaus der Verkehrsinsel - Vorlage BV6/034/2021 - zur Kenntnis genommen
+- TOP 72: Verlängerung der Grün-Phase für Fußgänger*innen an der Ampel Unterrather Straße/Am Röttchen/Kartäuserstraße - Vorlage BV6/132/2021 - zur Kenntnis genommen
+- TOP 73: Vermeidung von Pfützenbildung auf dem A44-Tunneldeckel hinter dem TuS Nord - Vorlage BV6/074/2021 - zur Kenntnis genommen
+- TOP 74: Baumersatzpflanzungen - Vorlage BV6/101/2020 - zur Kenntnis genommen
+- TOP 75: Verbindungsfußweg vom Wilseder Weg zur Ziegel-/Bielefelder Straße - Vorlage BV6/165/2021 - zur Kenntnis genommen
+- TOP 76: Kurzparken auf der Westfalenstraße vor der neuen Postfiliale auf der Westfalenstraße 57 - Vorlage BV6/078/2021 - zur Kenntnis genommen
+- TOP 77: Verkehrssicherheitsspiegel Vogelsanger Weg - BV6/128/2021 - zur Kenntnis genommen
+- TOP 78: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 79: Änderungen in Verkehrsführungen im Stadtbezirk 6 - Vorlage 176/89/2018 - zur Kenntnis genommen
+- TOP 80: Bauunterhaltungsmittel 2021 - Umnutzung bereits bewilligter Mittel - einstimmig beschlossen
+- TOP 81: Bauunterhaltungsmitel 2022 Teil B - sonstige städtische Einrichtungen - einstimmig beschlossen
+- TOP 82: vorläufige Mittelbereitstellungen 2022 für den Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 83: Zuschussvergabe 2021/2022 - St. Seb. Schützenbruderschaft e.V. D-Unterrath - Heizungsanlage für das Schützenhaus - einstimmig beschlossen
+- TOP 84: Bauunterhaltungsmittel 2022 Teil B sonstige städtische Einrichtungen - Fertigstellung eines Geh-/Radweges auf der Bottroper Straße im letzten Teilstück vor dem Höxterweg - einstimmig beschlossen
+- TOP 85: Bauunterhaltungsmittel 2021 - Umnutzung bereits bewilligter Mittel für die Jfe Ekkehardstraße - einstimmig beschlossen
