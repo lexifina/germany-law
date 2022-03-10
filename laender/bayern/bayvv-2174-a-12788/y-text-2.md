@@ -1,0 +1,3 @@
+– Frauenhäusern,
+– Fachberatungsstellen (Notrufe),
+– Interventionsstellen.

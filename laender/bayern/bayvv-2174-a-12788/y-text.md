@@ -1,0 +1,1 @@
+1Der Freistaat Bayern gewährt nach Maßgabe dieser Richtlinie und der allgemeinen haushaltsrechtlichen Bestimmungen (insbesondere Art. 23, 44 der Bayerischen Haushaltsordnung – BayHO und der dazu erlassenen Verwaltungsvorschriften) Zuschüsse zur Förderung des Hilfeangebotes für von häuslicher und/oder sexualisierter Gewalt betroffene Frauen und ihre Kinder. 2Dieses besteht aus
