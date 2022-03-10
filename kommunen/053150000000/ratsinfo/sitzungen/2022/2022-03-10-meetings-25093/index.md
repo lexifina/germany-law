@@ -1,0 +1,79 @@
+# 9. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-10T15:00:00+01:00
+- Ende: 2022-03-10T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25093
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25093
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Anfrage der SPD-Fraktion betr.: "Coty-Areal in Köln-Bickendorf" - Kenntnis genommen
+- TOP 1.2: Mündliche Nachfrage zu Top 27.1 der Sitzung vom 27.01.2022 (Bußgeldkatalog zur Ahndung von Verstößen gegen das WohnStG NRW) - Kenntnis genommen
+- TOP 1.3: Gestaltung des Quartiersplatzes Am Salzmagazin in der Altstadt-Nord Hier: Beantwortung einer mündlichen Anfrage aus der Sitzung des Stadtentwicklungsausschusses vom 27.01.2022 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage der SPD-Fraktion betr.: "Geschlechterungleichheit bei der Nutzung öffentlichen Raums als Gender-Mainstreaming-Pilot"
+- TOP -: Beantwortung der Anfrage AN/2323/2021 der SPD-Fraktion betreffend "Geschlechterungleichheit bei der Nutzung öffentlichen Raums als Gender-Mainstreaming-Pilot" - Kenntnis genommen
+- TOP 2.2: Anfrage der SPD-Fraktion betr.: "Sachstand Planungsfortschritt Wasserstoff-Pipeline" - zurückgestellt
+- TOP 2.3: Anfrage der Fraktion Die Linke. betr.: Soziale Erhaltungssatzungen: Transparenz bei der Priorisierung von Gebieten" - Sache ist erledigt
+- TOP 2.4: Anfrage der FDP-Fraktion betr.: Nutzung des freien Grundstücks am Ottoplatz - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: Antrag der Fraktion Die Linke. betr.: "Parkstadt Süd. Pionierpfad" - zurückgestellt
+- TOP 3.2: Dringlichkeitsantrag der SPD-Fraktion betr.: "Kölner Modell der Wettbewerbsverfahren beibehalten" - zurückgestellt
+- TOP 3.3: Antrag der FDP-Fraktion betr.: "Baugenehmigungs- und Wohnungsfertigstellungbericht" - Kenntnis genommen
+- TOP 3.4: Dringlichkeitsantrag der SPD-Fraktion betr.: Zukunft Breite Straße 103-105 (Karstadt-Gebäude) - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Max-Becker-Areal in Köln-Ehrenfeld;hier: Ablauf des Städtebaulich-freiraumplanerischen Wettbewerbs und Vorgaben für die Auslobung inklusive Ideenteil - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.1 - Max-Becker-Areal in Köln-Ehrenfeld;hier: Ablauf des Städtebaulich-freiraumplanerischen Wettbewerbs und Vorgaben für die Auslobung inklusive Ideenteil (3932/2021) - ungeändert beschlossen
+- TOP 5.2: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte, hier: Ernennung Mitglieder für den Beirat Porz Mitte - ungeändert beschlossen
+- TOP 5.3: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel" - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Verlängerung des Durchführungszeitraumes für Sanierungsmaßnahmen im Geltungsbereich der Sanierungssatzung 'Umfeld Archäologische Zone am Rathaus' - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 6.2: PARKSTADT SÜD - ungeändert beschlossen
+- TOP 6.3: Leitlinien zum Klimaschutz in der Umsetzung nicht-städtischer Neubauvorhaben in Köln - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Umlegungsanordnung für das Umlegungsgebiet U 461 in Köln-Roggendorf-Thenhoven (Straberger Weg) - ungeändert beschlossen
+- TOP 6.5: Anpassung der Umsetzungsanweisung zum Kooperativen Baulandmodell in der Fassung der Bekanntmachung vom 10.05.2017 - zurückgestellt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 241. Änderung des Flächennutzungsplanes in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld; Arbeitstitel: "Alsdorfer Straße" in Köln-Ehrenfeld/-Braunsfeld; Hier: Anhörung des Stadtentwicklungsausschuss - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Bebauungsplan(vorhabenbezogener Bebauungsplan) Arbeitstitel: Piusstraße / Ecke Geleniusstraße in Köln-Lindenthal; hier: Stellungnahme der Bezirksvertretung Lindenthal zu den Ergebnissen der durch-geführten Bürgerinformation und Entscheidung über die - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen von Bündnis90/Die Grünen und CDU zu TOP 10.1 - Hier: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: „Brück-Rather Steinweg“ in Köln-Rath/Heumar (3646/2020/1) - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die Linke betr.: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: "Brück-Rather Steinweg" in Köln-Rath/Heumar - zurückgestellt
+- TOP 10.2: Beschluss über die Durchführung eines zweiphasigen städtebaulichen Wettbewerbverfahrens für den Bereich Colonius Nord an der Subbelrather Straße 13 und Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) - zurückgestellt
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Umsetzung Stadtentwicklungskonzept Wohnen - ungeändert empfohlen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Beschluss der Bezirksvertretung Nippes per Dringlichkeit Erhalt der Fläche des derzeitigen Golfplatzes an der Neusser Landstraße als Grünfläche - Alternative beschlossen
+- TOP -: Änderungsantrag zu TOP 16.1 - Beschluss der Bezirksvertretung Nippes per Dringlichkeit Erhalt der Fläche des derzeitigen Golfplatzes an der Neusser Landstraße als Grünfläche (2361/2021) - endgültig abgelehnt
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 18: Mitteilungen
+- TOP 18.1: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2021 - Kenntnis genommen
+- TOP 18.2: Rolle der Stadt Köln auf dem Kölner Grundstücksmarkt für die Marktsegmente Geschosswohnungsbau, Einfamilienhaus- und Doppelhausgrundstücke sowie Gewerbegrundstücke - Kenntnis genommen
+- TOP 18.3: Förderanträge 3. Call Sofortprogramm Innenstadt NRW - Kenntnis genommen
+- TOP 18.4: Betreff: Offenlage gemäß § 3 Abs. 2 BauGB zur 230. Änderung des Flächennutzungsplanes im Stadtbezirk 6, Köln-Chorweiler, - Kenntnis genommen
+- TOP 18.5: Beantwortung der Anfrage der Ratsgruppe GUT Köln, betr. Sachstand Heliosgelände 2022 (AN/0201/2022) - Kenntnis genommen
+- TOP 18.6: Platzmangel Frauenhäuser in Köln - Kenntnis genommen
+- TOP 18.7: Linksrheinische Anlegestellen mit Dalben – Vorhaben der Köln-Düsseldorfer Rheinschifffahrt AG im Zusammenhang mit dem Ersatzneubau der Kragplatte - Kenntnis genommen
+- TOP 18.8: Sachstand „Science meets City“-Symposium - Kenntnis genommen
+- TOP 18.9: Ergebnis des städtebaulich-freiraumplanerischen Wettbewerbs zum Bebauungsplanverfahren Nr. 75501/02 "Möhl-Areal“ in Köln-Dellbrück - Kenntnis genommen
+- TOP 18.10: Kooperatives Baulandmodell Köln 4. Sachstandsbericht Kooperatives Baulandmodell 2021 - Kenntnis genommen
+- TOP 18.11: Baumaßnahmen Kölner Altstadt - Kenntnis genommen
+- TOP 18.12: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel - Kenntnis genommen
+- TOP 18.13: Mitteilung zu einem Beschluss der Bezirksvertretung Ehrenfeld vom 13.12.2021, TOP 8.7: betr. Präzisierung des Verfahrens um das Max-Becker-Areal – gemeinsamer Dringlichkeitsantrag der der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Lin - Kenntnis genommen
+- TOP 18.14: KfW-Förderung - zur Anfrage AN/0319/2022 der CDU-Fraktion und der Fraktion Volt - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
