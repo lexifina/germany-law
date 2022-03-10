@@ -1,0 +1,82 @@
+# 11. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-10T16:00:00+01:00
+- Ende: 2022-03-10T19:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25500
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25500
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung Bezirksjugendpfleger
+- TOP -: Vorstellung neugewählte Seniorenvertretung
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Instandsetzung des Gebäudes Martinstraße 30 - ungeändert beschlossen
+- TOP 3.2: Beschluss über die Durchführung eines zweiphasigen städtebaulichen Wettbewerbverfahrens für den Bereich Colonius Nord an der Subbelrather Straße 13 und Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 3.3: Benennung einer Grünfläche nach Max Dietlein - zurückgestellt
+- TOP 3.3.1: Benennung der Grünfläche rund um St.Pantaleon nach Dr.Max Dietlein, Änderungsantrag zu Vorlage 0482/2022 - zurückgestellt
+- TOP 3.4: Zuschuss KSK-Team - ungeändert beschlossen
+- TOP 3.5: Förderprogramm "Dritte Orte" - 2. Genehmigung für die Förderphase 2022ff - ungeändert beschlossen
+- TOP 3.6: Römisch-Germanisches Museum - Baubeschluss für vorgezogene notwendige Sanierung der Abdichtung über Dombauhütte und Trafo - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: „Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet (Az.: 02-1600-122-21) - zurückgestellt
+- TOP 4.1.1: Änderungsantrag zu TOP 4.1- Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet , Änderungsantrag Klimafreunde - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Rad- und Fußgängerüberwege Innerer Grüngürtel (Az.: 02-1600-21/21) - mit Änderungen empfohlen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Verbesserung der Verkehrsführung Ecke Herwarthstraße/Werderstraße/Dorothee -Sölle - Platz - geändert beschlossen
+- TOP 4.3.1: Änderungsantrag zu TOP 4.3-Verbesserung der Verkehrsführung Ecke Herwarthstraße/Werderstraße/Dorothee-Sölle-Platz, Änderungsantrag Klimafreunde - endgültig zurückgezogen
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Schaffung von Erholungsorten am Rheinufer (Az.: 02-1600-104/21) - mit Änderungen empfohlen
+- TOP 4.4.1: Änderungsantrag zur Verwaltungsvorlage 2237/2021, gem. Änderungantrag Grüne und SPD - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Mehr Platz für Rad- und Fußverkehr an der Sedanstraße (Az.: 02-1600-203-21) - zurückgestellt
+- TOP 4.6: Bürgereingabe gem. § 24 GO- "Optimierung der Querung Hansaring für Radfahrende und Zufußgehende am Hansaring (Nähe Ebertplatz) - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Verkehrsberuhigung / Diagonalsperre Südliche Brüsseler Straße, gem. Antrag Grüne, Klimafreunde, Die Partei - ungeändert beschlossen
+- TOP 5.1.2: Antrag "Fahrradparken vor städtischer Kindertagesstätte Burgunderstraße", Antrag Klima Freunde - zurückgestellt
+- TOP 5.1.3: Moltkestraße/ Brüsseler Straße/Maastrichter Straße/Brüsseler Platz- Neuordnung der Verkehre, Verkehrsberuhigung und Barrierefreiheit, gem. Antrag Grüne und Die Partei - ungeändert beschlossen
+- TOP 5.1.3.1: Änderungsantrag "Moltkestraße/Brüsseler Straße/Maastrichter Straße/Brüsseler Platz - Neuordnung der Verkehre, Verkehrsberuhigung und Barrierefreiheit" Änderungsantrag Klima Freunde - endgültig zurückgezogen
+- TOP 5.1.4: Neuordnung der Verkehre im Bereich Deutz-Mülheimer Str./Justinianstr./Opladener Str. - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Fahrradparken Hohenstaufenring 35, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Ersatzlose Streichung und Entsiegelung von Parkplätzen, gem. Antrag Klimafreunde und Grüne - zurückgestellt
+- TOP 5.2.3: Erstellung von Fahrradabstellflächen/Haarnadeln im Bereich der Minoritenstraße, Antrag SPD - zurückgestellt
+- TOP 5.2.4: Versetzung der Plasti k"Ruhender Verkehr" von Wolf Vostell, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.5: Errichtung einer Buslinie auf der Inneren Kanalstraße im Stadtbezirk Nippes, Innenstadt/Deutz und Ehrenfeld, gem. Antrag Grüne, SPD, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.6: Neue Standorte für Trinkbrunnen in der Innenstadt, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.7: Einrichtung eines Radfahrstreifens auf dem Gotenring zwischen Siegburger Straße und (H)-Suevenstraße/Langobardenstraße, gem Antrag Grüne, Die Linke, KlimaFreunde, Die Partei - zurückgestellt
+- TOP 5.2.8: Standards für das Parken, Laden und Liefern mit Einzelhandels- und Dienstleistungsbezug im Bereich Innenstadt, gem. Antrag Grüne, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.9: Missbrauch des Tanzbrunnengeländes als gewerblichen Parkplatz stoppen, Dringlichkeitsantrag Grüne - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - Sache ist erledigt
+- TOP 6.1.1.1: Quartiersgaragen in der nördlichen Innenstadt - Kenntnis genommen
+- TOP 6.1.2: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Straße (AN/1539/2010); Beseitigung von Gefahrensituationen an der Kreuzung Lindenstraße/Lützowstraße (AN/0117/2016) - Sache ist erledigt
+- TOP 6.1.2.1: Kreisverkehr Roonstraße-Lindenstraße-Brüsseler Str. - Kenntnis genommen
+- TOP 6.1.3: Zustände der KVB-Haltestellen in der Innenstadt - zurückgestellt
+- TOP 6.1.4: Parksituation in Deutz, Anfrage CDU - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Gestaltung des Historischen Parks Deutz, Anfrage CDU - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - Kenntnis genommen
+- TOP 9.2: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 9.3: Zielvereinbarungen 2022 - Bürgerzentrum Alte Feuerwache, Bürgerzentrum Deutz, Quäker Nachbarschaftsheim, Bürgerhaus Stollwerck - Kenntnis genommen
+- TOP 9.4: Priorisierung Generalsanierungen Kölner Straßentunnel - Kenntnis genommen
+- TOP 9.5: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - Kenntnis genommen
+- TOP 9.6: Teilnahme an der Earth Hour 2022 - Kenntnis genommen
+- TOP 9.7: Fachliche Begleitung der Bezirksvertretungen in Verkehrsangelegenheiten - Kenntnis genommen
+- TOP 9.8: Voranfrage zur Klärung von Einzelfragen für das Grundstück Breite Straße 103-105 (Karstadt-Gebäude) für den Abbruch des Karstadt-Bestandsgebäudes unter Erhaltung der denkmalgeschützen Fassade und eines Neubaus mit Tiefgarage. - Kenntnis genommen
+- TOP 9.9: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2021 - Kenntnis genommen
+- TOP 9.10: Linksrheinische Anlegestellen mit Dalben – Vorhaben der Köln-Düsseldorfer Rheinschifffahrt AG im Zusammenhang mit dem Ersatzneubau der Kragplatte - Kenntnis genommen
+- TOP 9.11: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 9.12: Baumaßnahmen Kölner Altstadt - Kenntnis genommen
+- TOP 9.13: Zusätzlicher Rad- und Fußgängerüberweg Rheinuferstraße - Kenntnis genommen
+- TOP 9.14: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel - Kenntnis genommen
