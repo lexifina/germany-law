@@ -1,0 +1,57 @@
+# 12. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-03-10T17:00:00+01:00
+- Ende: 2022-03-10T18:24:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12618
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12618
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00503927.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Straßenbauliche Maßnahmen entlang des Dingbängerwegs - eingebracht
+- TOP 4.2: Anfrage an die Verwaltung "Land unter?" - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 409 - Kenntnisnahme des Entwurfs zur öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 5.2: 147 - 3. Änderung - Entwurf Offenlage - zur Kenntnis genommen
+- TOP 5.3: Beantragung und Bewilligung von Zuwendungsmaßnahmen im Amt für Mobilität und Tiefbau - zur Kenntnis genommen
+- TOP 5.4: Strategie zur Erreichung der Klimaneutralität 2030 für städtische Gebäude - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Wahl einer Schiedsperson und Wahl einer stellvertretenden Schiedsperson für den Bezirk 6 Münster-Gievenbeck/Sentrup - einstimmig geändert beschlossen
+- TOP 6.2: Umbau der Peter-Wust-Schule, Schürbusch 45 - Nutzungsänderung und Errichtung eines zweiten baulichen Rettungsweg - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Zweite Änderung des Bebauungsplans Nr. 306: Nienberge - Gewerbegebiet und Sportzentrum Feldstiege im Bereich des Gewerbegebiets zwischen der Feldstiege und der Altenberger Straße - einstimmig beschlossen
+- TOP 7.2: 147 - 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 7.3: Anregung Nr. 2021 - 00265 Wohnraum schaffen / Tiny House Siedlung - zurückgezogen
+- TOP 7.4: Veloroute 5 - Roxeler Straße: Dieckmannstraße bis Gievenbach - einstimmig beschlossen
+- TOP 7.5: Grundlegende Bedarfsfeststellung für die Beschaffung von Mittagsverpflegung an städtischen Schulen - einstimmig beschlossen
+- TOP 7.6: Neufassung der Satzung über die außerschulische Nutzung der Schulhöfe städtischer Schulen auf Antrag der CDU und Bündnis90/Die Grünen/GAL (A-R/0002/2020) - einstimmig beschlossen
+- TOP 7.7: Errichtungsbeschluss: Neubau einer 5-Gruppen-Kindertageseinrichtung im Oxford-Quartier im Stadtteil Gievenbeck [Wohn- und Stadtbau GmbH] - einstimmig beschlossen
+- TOP 7.8: Öffentliche Ausschreibung der Betriebsträgerschaften für die dauerhaften Flüchtlingseinrichtungen in Nienberge, Käthe-Ernst-Weg 16 - 26, in Roxel, Zum Schultenhof 3, und in Rumphorst, Lauenburgstraße 19 - einstimmig beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Durchgängiger Fuß- und Radweg Fritz-Stricker-Straße - eingebracht
+- TOP 8.2: Mehr öffentliche barrierefreie Toiletten für Mecklenbeck - eingebracht
+- TOP 8.3: Attraktiver und an den Kundenbedürfnissen orientierter Busnahverkehr im Waldwegeviertel - eingebracht
+- TOP 8.4: Aufstellung eines mobilen Dialog-Displays auf der Albachtener Straße - eingebracht
+- TOP 8.5: Wartehäuschen an der Haltestelle "Rottkamp" stadtauswärts - eingebracht
+- TOP 8.6: Verkehrsberuhigung Heinrich-von-Kleist-straße in Nienberge - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Elektromobilität fördern
+- TOP 9.1.1: Förderung der Elektromobilität - Ladestationen für den Parkplatz am Mühlenhof - Stellungnahme zur Kenntnis genommen
+- TOP 9.1.2: Elektromobilität fördern - Konzept für die Versorgung Gievenbecks mit Ladesäulen - Stellungnahme zur Kenntnis genommen
+- TOP 9.1.3: Elektromobilität fördern - Konzept für die Versorgung Sentrup mit Ladesäulen - Stellungnahme zur Kenntnis genommen
+- TOP 9.1.4: E-Mobilität fördern - Öffentliche Ladestationen für Elektrofahrzeuge in Roxel - Stellungnahme zur Kenntnis genommen
+- TOP 9.2: Gegen das Vergessen - Erinnerungskultur stärken - einstimmig beschlossen
+- TOP 9.3: Bäume an der Corrensstraße vor Abrieb durch abgestellte Fahrräder schützen - Stellungnahme zur Kenntnis genommen
+- TOP 9.4: Aufbringung eines Piktogramms "Behindeertenparkplatz" auf der Stellfläche des Behindertenparkplatzes in Nienberge, Sebastianstraße 2 - Stellungnahme zur Kenntnis genommen
+- TOP 10: Resolution des Rates der Stadt Münster zum Krieg in der Ukraine - mehrheitlich beschlossen
+- TOP 11: Verschiedenes - zur Kenntnis genommen
