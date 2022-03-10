@@ -1,0 +1,7 @@
+# TOP 3: Vorstellung der Gleichstellungsbeauftragten
+
+- Sitzung: 2. öffentliche Sitzung des Ausschusses für Bürgerdienste, Gleichstellung, Antidiskriminierung und Queerpolitik (2022-03-10)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=41662
+- Ergebnis: erledigt
