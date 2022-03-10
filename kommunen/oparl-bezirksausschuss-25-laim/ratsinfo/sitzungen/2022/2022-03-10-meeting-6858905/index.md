@@ -1,0 +1,96 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-03-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6858905
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6858905
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Informationsveranstaltung U-Bahn Bau und Schutz des Parkgeländes
+- TOP 1.2.2.: Revierkampf der Ultras - Abbau der Infrastrukturkästen vor und auf Privatgrund
+- TOP 2: Anträge
+- TOP 2.1.: Shared Mobility – Carsharing Plätze am S-Bahnhof in Laim schaffen
+- TOP 2.2.: Zeichen des Gedenkens
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Faschingsclub Laim e.V. Laimer Faschingstreiben 2022 am 26.02.2022 1.653,00 Euro, Az.: 0262.0-25-0264
+- TOP 3.2.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür - PLAN H aus München für München von April - November 2022 9.499,00 Euro, Az.: 0262.0-25-0265
+- TOP 3.3.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung "Costa Rica" vom 05.05. - 05.09.2022 2.160,00 Euro, Az.: 0262.0-25-0266
+- TOP 3.4.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 hier: Gaststätte Veit-Stoß-Stüberl, Veit-Stoß-Str. 9
+- TOP 3.5.: Schreiben Kreisverwaltungsreferat vom 24.02.22: Entscheidung über Sondernutzungserlaubnis (Freischankflächen) Dauerhafte Genehmigung coronabedingt temporär erlaubter Freischankflächen
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Direktorium vom 24.01.22: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 25.01.22: Radschnellverbindungen in München und Umland
+- TOP 4.4.: Schreiben Mobilitätsreferat vom 02.02.22: Hans-Thonauer-Str. 10, KITA-Anfahrtszone
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 21.02.22: Genehmigungsantrag Spielen in der Stadt e.V. für Zirkus Pumpernudl ab April 2022
+- TOP 4.6.: Schreiben Mobilitätsreferat vom 22.02.22: Broschüre "Mehr Rad im Viertel"
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 318a, Gemarkung: Laim, Fl.Nr.: 257/5 Zweigeschossige Aufstockung eines gemischt genutzten Gewerbegebäudes in kreislauffähiger Holzbauweise mit regenerativer Energieversorgung - VORBESCHEID
+- TOP 5.2.: Junkerstr. 20, Gemarkung: Pasing, Fl.Nr.: 1575/126 Tektruantrag/Änderungsantrag Anbau an eine Doppelhaushälfte und Neubau einer Garage
+- TOP 5.3.: Mathunistr. 11, Gemarkung Laim, Fl.Nr. 68/11 Neubau eines Einfamilienhauses (RGB) mit Garage und Nebenanlagen Vollzug der BaumschutzVO
+- TOP 5.4.: Fürstenrieder Str. 28a, Gemarkung: Laim, Fl.Nr.:48/3 Nutzungsänderung von Laden in eine konzessionsfreie Gaststätte (ohne Alkoholausschank) mit 8 Sitzplätzen
+- TOP 5.5.: Neuburgerstr. 8, Gemarkung: Laim, Fl.Nr.: 4/14 Neubau eines Zweifamilienhauses, Erweiterung und Umbau eines Einfamilienhauses in ein Mehrfamilienhaus (4WE), Neubau einer Tiefgarage - TEKTUR
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Fachstelle MoNa vom 28.01.22: Bitte um Vorschläge
+- TOP 6.2.: Initiative zur Verbesserung des Klimas, der Biodiversität sowie des Baumschutzes in unserem Viertel
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 03.02.22
+- TOP 7.2.: Protokoll UA Kultur vom 14.02.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben IT-Referat vom 24.01.22: Ratsinformationssystem - Papierlose Bezirksauschussarbeit
+- TOP 8.2.: Schreiben Direktorium vom 24.01.22: Hybridsitzungen
+- TOP 8.3.: Schreiben Direktorium vom 28.01.22: Vorgaben des Stadtrates zur Konsolidierung des städtischen Haushalts; hier: Kürzung des Stadtbezirksbudgets in 2022
+- TOP 8.4.: Schreiben Direktorium vom 07.02.22: Bitte um Unterstützung bei der Seniorenvertretungswahl
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.01.22: Fällungsantrag Stöberlstr. 32
+- TOP 8.6.: Bautenliste 17.01.22-23.01.22: A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Landsberger Str. 318a
+- TOP 8.7.: Bautenliste 24.01.22-30.01.22: A) Erstantragsverfahren 1. Vohburger Str. 21 2. Fürstenrieder Str. 28a B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Neuburgerstr. 8 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Friedenheimer Str. 104 2. Camerloherstr. 3. Camerloherstr. 110
+- TOP 8.8.: Bautenliste 31.01.-06.02.22: A)Erstantragsverfahren 1. Landsberger Str. 214 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Ossietzkystr. 12 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Weiß-Ferdl-Str. 11
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.01.22: Gartenstadt Flyer
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.02.22: Antwort zu Barrierefreiheit Laimer Bahnhof
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.02.22: Fällungsgenehmigungen Agnes-Bernauer-Straße
+- TOP 8.12.: Schreiben Sozialreferat vom 20.01.22: Zweckentfremdung Reutterstr.
+- TOP 8.13.: Schreiben Sozialreferat vom 26.01.22: Runder Tisch Laubfroschbiotop, Grundstück Bogenschützen
+- TOP 8.14.: Schreiben Sozialreferat vom 10.01.22: Ein Herz für Laim
+- TOP 8.15.: Schreiben Sozialreferat vom 25.01.22: Genehmigung Zweckentfremdung Berchemstr.
+- TOP 8.16.: Schreiben Mieterbeirat vom 25.01.22: Protokoll vom 17.01.22
+- TOP 8.17.: Schreiben Sozialreferat vom 24.01.22: BA-Info zu Vergabeermächtigungsbeschluss Lagekriterien sozialplanerische Bewertung
+- TOP 8.18.: Schreiben Baureferat vom 31.01.22: Fällung Gefahrenbaum Hans-Thonauer-Straße
+- TOP 8.19.: Schreiben Baureferat vom 28.01.22: Markierung Stockbahn Von-der-Pfordten/Valpichlerstr.
+- TOP 8.20.: Schreiben Referat für Bildung und Sport vom 31.01.22: Baustelle Erweiterungsbau der Lukasschule in der Riegerhofstraße
+- TOP 8.21.: Schreiben Mobilitätsreferat vom 02.02.22: Information über Schleifarbeiten auf der U5-Nord im Bereich Laimer Platz bis Schwanthalerhöhe
+- TOP 8.22.: Schreiben Mobilitätsreferat vom 10.02.22: Verkehrsrechtliche Anordnung für die Baufeldfreimachung für die Arbeiten an der U5 in der Gotthardstraße
+- TOP 8.23.: Schreiben GEWOFAG vom 07.02.22: Das Wohn- und Versorgungsmodell der GEWOFAG Wohnen im Viertel in der Stiftungssiedlung Alte Heimat
+- TOP 8.24.: Schreiben SWM vom 03.02.22: Baumaßnahmen MSP-Projekt Gotthardstraße
+- TOP 8.25.: Schreiben BA 9 Neuhausen-Nymphenburg vom 08.02.22: Offener Brief zur Umstrukturierung des SZ-Lokalteils
+- TOP 8.26.: Schreiben Elternbeirat der Grundschule an der Schrobenhausener Str. 17: Stellungnahme des Elternbeirats zum Ergebnisprotokoll des Videotermins am 19.11.21
+- TOP 8.27.: Schreiben Evangelische Jugend München vom 24.01.22: R18 retten.de
+- TOP 8.28.: Schreiben foolpool vom 09.09.21: Verwendungsnachweis und Kurzbericht
+- TOP 8.29.: Schreiben Spielen in der Stadt e.V. vom 10.12.21: Verwendungsnachweis und Kurzbericht Zirkus Pumpernudl und Artmobil
+- TOP 8.30.: Schreiben Spielen in der Stadt e.V. vom 20.12.21: Verwendungsnachweis und Kurzbericht Zirkuslust im Westpark
+- TOP 8.31.: Schreiben Hidalgo GmbH vom 01.12.21: Kurzbericht und Verwendungsnachweis
+- TOP 8.32.: Beschluss der Vollversammlung des Stadtrates vom 19.01.22: (U) Mehrjahresinvestitionsprogramm 2021 – 2025 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 8.33.: Beschluss der Vollversammlung des Stadtrates vom 19.01.22: (U) Grundsatzbeschluss II Klimaneutrales München 2035 und klimaneutrale Stadtverwaltung 2030: Von der Vision zur Aktion
+- TOP 8.34.: Beschluss der Vollversammlung des Stadtrates vom 02.02.22: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 8.35.: Beschluss der Vollversammlung des Stadtrates vom 02.02.22: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 8.36.: Beschluss der Vollversammlung vom 19.01.22: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 8.37.: Beschluss der Vollversammlung vom 19.01.22: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.38.: Beschluss der Vollversammlung vom 19.01.22: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.39.: Beschluss der Vollversammlung vom 19.01.22: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.02.22: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 8.41.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.02.22: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.43.: Haltverbotszone Stöberlstraße (Weitergabe an Mobilitätsreferat)
+- TOP 9.44.: Fußgängerampeln an der Kreuzung Laimer Bahnhof (Weitergabe an Mobilitätsreferat )
+- TOP 9.45.: Neue Standorte Gorillas (Vorstand informiert Bürger*in)
+- TOP 9.46.: Missbrauch Sondergenehmigung (Kenntnisnahme)
+- TOP 9.47.: Baumfällungen in der Agnes-Bernauer-Straße (Vorstand informiert Bürger*in)
+- TOP 9.48.: Entfernung Wertstoffcontainer Gotthardstraße Ecke Willibaldstraße (Weiterleitung an AWM)
+- TOP 1.2: Bürgerpost an den BA
