@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-10T17:00:00+01:00
+- Ende: 2022-03-10T17:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25639
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25639
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Bauliche Änderungen im Rahmen der Sanierung der B9, Ortslage Worringen - Kenntnis genommen
+- TOP 7.1.2: KVB-Fahrgastunterstand EKZ Heimersdorf - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Jobticket für Angestellte der Stadt Köln
+- TOP -: Änderungsanfrage zur 7.2.1 Jobticket für Angestellte der Stadt Köln
+- TOP 7.2.2: Fußweg an der Brückenbaustelle in Merkenich
+- TOP 7.2.3: Unterbringung von Geflüchteten aus der Ukraine
+- TOP 7.2.4: Koordination der Autobahnbaustelle im Ortsteil Merkenich
+- TOP 7.2.5: Sachstandsanfrage zum Baugrundstückkataster für den Stadtbezirk Chorweiler
+- TOP 7.2.6: Umfahrungen der S-Bahn im Bezirk Chorweiler
+- TOP 7.2.7: Verteilung Corona Teststationen
+- TOP 7.2.8: Ausbaustand E-Ladeinfrastruktur im Stadtbezirk Chorweiler
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Ausbau der Offenen Ganztagsschule (OGTS) an der Grundschule Rheinkassel-Amandusstraße - ungeändert beschlossen
+- TOP 8.2.2: E-Mobilität Modellbezirk Chorweiler - ungeändert beschlossen
+- TOP 8.2.3: Beweidung der Rheinaue Worringen - geändert beschlossen
+- TOP 8.2.4: Stadtverschönerungsprogramm 2022 - ungeändert beschlossen
+- TOP 8.2.5: Förderung durch die Bezirksvertretung Chorweiler - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Integriertes Handlungskonzept Lindweiler - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Satzung über die abweichende Herstellung von Erschließungsanlagen im Bereich "Krebelspfad" in Köln-Worringen - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 10.2.2: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - Kenntnis genommen
+- TOP 10.2.3: Fachliche Begleitung der Bezirksvertretungen in Verkehrsangelegenheiten - Kenntnis genommen
+- TOP 10.2.4: Betreff: Offenlage gemäß § 3 Abs. 2 BauGB zur 230. Änderung des Flächennutzungsplanes im Stadtbezirk 6, Köln-Chorweiler, - Kenntnis genommen
+- TOP 10.2.5: Öffentlichkeitsbeteiligung Bewegungsparcours am Hitdorfer Fährweg - Kenntnis genommen
+- TOP 10.2.6: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - Kenntnis genommen
+- TOP 10.2.7: Überprüfung des Parkplatzangebotes im verkehrsberuhigten Bereich Derichsweg - Kenntnis genommen
+- TOP 10.2.8: Teilnahme an der Earth Hour 2022 - Kenntnis genommen
+- TOP 10.2.9: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2021 - Kenntnis genommen
+- TOP 10.2.10: Zielvereinbarung 2022 - Bürgerzentrum Chorweiler - Kenntnis genommen
+- TOP 10.2.11: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 10.2.12: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Anfrage zur Flüchtlingssituation (Bündnis 90/ Die Grünen)
+- TOP 11.2.2: Anfrage zur Flüchtlingssituation (AfD-Fraktion)
+- TOP 11.2.3: Anfrage zu einer mündlichen Anfrage aus der Sondersitzung am 22.02.2022 (AfD-Fraktion)
+- TOP 11.2.4: Anfrage zur Kriminalitätsstatistik im Stadtbezirk Chorweiler (AfD-Fraktion)
+- TOP 11.2.5: Anfragen zu Vorlagen der Sitzung (AfD-Fraktion)
+- TOP 11.3: Anfragen der Seniorenvertretung
