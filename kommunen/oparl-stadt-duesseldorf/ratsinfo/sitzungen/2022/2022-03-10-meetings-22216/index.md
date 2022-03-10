@@ -1,0 +1,92 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-10T14:00:00+01:00
+- Ende: 2022-03-10T18:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22216
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22216
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 10.03.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442477.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 10.03.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442477.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 10.03.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442477.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 16.12.2021 (SI-RAT/008/2021) - einstimmig beschlossen
+- TOP 3: Aktuelle Informationen zur Corona-Pandemie - zur Kenntnis genommen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Aussetzung und Rück-Aussetzung der Städtepartnerschaft mit Moskau - schriftlich beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Absage der Oper Andrea Chénier in der Inszenierung des Intendanten der Moskauer Helikon-Oper, Dmitry Bertman - schriftlich beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Beteiligungen von Rechtsextremisten mit Wohnsitz in Düsseldorf im Ukraine-Krieg - schriftlich beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Kündigungen der Stadtwerke Düsseldorf von Kunden mit Altverträgen - schriftlich beantwortet
+- TOP 4.5: Anfrage aus aktuellem Anlass der Ratsfrau Krüger: getötete Schwänin - schriftlich beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: verschobene Behandlungen bzw. Operationen in Düsseldorfer Krankenhäusern - schriftlich beantwortet
+- TOP 5.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Zustand der Hundeauslauf- und Hundefreiflächen in Düsseldorf - schriftlich beantwortet
+- TOP 5.3: Anfrage der Ratsfraktion DIE LINKE: Verpflichtungserklärung zur Männer-Fußball EM 2024 - schriftlich beantwortet
+- TOP 5.4: Anfrage der SPD-Ratsfraktion: Verkauf von öffentlich geförderten Wohnungen im Quellenbusch - schriftlich beantwortet
+- TOP 5.5: Anfrage der SPD-Ratsfraktion: Platz da! Auch für Jugendliche und junge Erwachsene - schriftlich beantwortet
+- TOP 5.6: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Anmietung und Umbau an der Yorckstraße für die VHS - schriftlich beantwortet
+- TOP 5.7: Anfrage der Ratsfraktion DIE LINKE: Sachstand pandemiegerechte Ausstattung weiterführender Schulen - schriftlich beantwortet
+- TOP 5.8: Anfrage der FDP-Ratsfraktion: Stand der Planungen für den P&R-Standort "Am Froschenteich" - schriftlich beantwortet
+- TOP 5.9: Anfrage der FDP-Ratsfraktion: Stand der Planungen für einen Ausbau des Ladenetzes für E-Fahrzeuge - schriftlich beantwortet
+- TOP 5.10: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Bilanz der Flächenversiegelung im Stadtgebiet - schriftlich beantwortet
+- TOP 5.11: Anfrage des Ratsherrn Rasp: Tarifbindung bei städtischen Beteiligungen - schriftlich beantwortet
+- TOP 5.12: Anfrage der Ratsfrau Vorspel: Welche Kosten verursachen verschiedene Verkehrsmittel in Düsseldorf? - schriftlich beantwortet
+- TOP 5.13: Anfrage der Ratsfrau Marmulla: Automatische Genehmigung der Zweckentfremdung von Wohnraum durch Überschreitung der Bearbeitungsfrist - schriftlich beantwortet
+- TOP 5.14: Anfrage des Ratsherrn Flemming: Fragen zum Sponsoring-Deal Sportstadt Düsseldorf/Rheinmetall - schriftlich beantwortet
+- TOP 5.15: Anfrage des Ratsherrn Lemmer: mögliche Nebenvereinbarungen bzw. Nebenabreden aus der Kooperation von CDU und Bündnis 90 / Die Grünen für die Periode 2020 bis 2025 - schriftlich beantwortet
+- TOP 5.16: Anfrage des Ratsherrn Lemmer: Umbenennung von Amts- und Ämterbezeichnungen entsprechend der Gleichstellung und Diversität - schriftlich beantwortet
+- TOP 5.17: Anfrage der Ratsfrau Krüger: Fortgang des Verfahrens zur Open-Air-Veranstaltungsfläche auf dem Messeparkplatz P1 - schriftlich beantwortet
+- TOP 5.18: Anfrage des Ratsherrn Born: Genehmigungsverfahren „Kaiservillen Kaiserswerth“ - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission TVG - zur Kenntnis genommen
+- TOP 10: Bericht nach § 2 des Gesetzes zur Isolierung der aus der COVID-19 Pandemie folgenden Belastungen sowie nach § 3 (2) der Verordnung über besondere haushaltsrechtliche Verfahrensweisen aufgrund der Unwetterkatastrophe vom 14./15. Juli 2021 - zur Kenntnis genommen
+- TOP 11: Änderung bei Besetzung des örtlichen Beirats der gemeinsamen Einrichtung (Jobcenter) - einstimmig beschlossen
+- TOP 12: Satzung der Landeshauptstadt Düsseldorf zum Schutz und Erhalt von Wohnraum - mehrheitlich beschlossen
+- TOP 12.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage „Satzung der Landeshauptstadt Düsseldorf zum Schutz und Erhalt von Wohnraum“ (AWM/007/2022) - mehrheitlich abgelehnt
+- TOP 12.2: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage „Satzung der Landeshauptstadt Düsseldorf zum Schutz und Erhalt von Wohnraum“ (AWM/007/2022) - mehrheitlich abgelehnt
+- TOP 13: Förderantrag KreativRaum D im Bundesprogramm "Zukunftsfähige Innenstädte und Zentren" - einstimmig beschlossen
+- TOP 14: Beschluss Hochhausrahmenplan - mehrheitlich beschlossen
+- TOP 15: Adlerstraße 8 – Wohnhaus, Instandsetzung der technischen Gebäudeausrüstung (TGA) - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 16: Stockumer Höfe 180 - Betriebshof, Erneuerung der defekten Biomasseanlage - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 17: Interdisziplinärer Ideenwettbewerb zur Integration des Schallschutzes in den Stadtraum von Düsseldorf im Rahmen des Infrastrukturausbaus zum Rhein-Ruhr-Express - einstimmig beschlossen
+- TOP 18: Ehrenhof 4-5, Stiftung Museum Kunstpalast – Sanierungen und Umbaumaßnahmen - mehrheitlich beschlossen
+- TOP 19: Stiftung Gerhart-Hauptmann-Haus, Nachbesetzung des Kuratoriums - einstimmig beschlossen
+- TOP 20: Erneuerung der Axialventilatoren im Rheinufertunnel - einstimmig beschlossen
+- TOP 21: Neuaufstellung des Nahverkehrsplans der Landeshauptstadt Düsseldorf sowie kurzfristige Optimierung des ÖPNV-Angebots (RheinTakt) - abweichend beschlossen
+- TOP 21.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage OVA/011/2022 - einstimmig beschlossen
+- TOP 22: Förderprogramm „Multi-Mo-DUS – Multimodalität in lebenswerten Quartieren in Düsseldorf“ im Rahmen des Landeswettbewerbs „Mobil.NRW – Mobilität in lebenswerten Städten“ - mehrheitlich beschlossen
+- TOP 23: Änderung der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - abweichend beschlossen
+- TOP 23.1: mdl. Änderungsantrag zu RAT/013/2022 - mehrheitlich beschlossen
+- TOP 24: Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 25: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 26: Einkünfte aus Nebentätigkeiten im Jahr 2021 für Herrn Oberbürgermeister Dr. Stephan Keller - zur Kenntnis genommen
+- TOP 27: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses des Projektes "Gesamtschule Aldekerkstraße mit Dreifachsporthalle in der Aldekerkstraße 17-25" - einstimmig beschlossen
+- TOP 28: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Gymnasium Gerresheim, Am Poth 60 – Umbau und Erweiterung“. - einstimmig beschlossen
+- TOP 29: Einrichtung des neuen Hauptstandortes der Jan-Wellem-Förderschule am Standort Heerstraße 18/18a - einstimmig beschlossen
+- TOP 30: Anträge
+- TOP 30.1: Antrag der Ratsfraktion DIE LINKE: Kein Werben fürs Sterben – eine Zivilklausel für Düsseldorf - mehrheitlich abgelehnt
+- TOP 30.1.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/064/2022 - mehrheitlich abgelehnt
+- TOP 30.2: Antrag der Ratsfraktion DIE LINKE: Kein Grundstück für ein Abschiebegefängnis in Düsseldorf - mehrheitlich abgelehnt
+- TOP 30.3: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Klarer Kompass: Sponsorenrichtlinien schaffen - mehrheitlich beschlossen
+- TOP 30.4: Antrag der FDP-Ratsfraktion: Homeoffice unabhängig von Corona ermöglichen - mehrheitlich abgelehnt
+- TOP 30.5: Antrag der FDP-Ratsfraktion: Verlegung der offenen Alkohol- und Drogenszene vom Worringerplatz - mehrheitlich abgelehnt
+- TOP 30.6: Antrag der FDP-Ratsfraktion: Dachmarkenstrategie - mehrheitlich abgelehnt
+- TOP 30.7: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: "Freedom Day" für das Klima - Heizpilzsaison beenden - mehrheitlich abgelehnt
+- TOP 30.8: Antrag der SPD-Ratsfraktion: Finanzierungs- und Personalhilfe des Landes NRW zum Angebot mobiler Teststationen für Düsseldorfer Grundschulen - mehrheitlich abgelehnt
+- TOP 30.9: Antrag der SPD-Ratsfraktion: Verbesserung des Bildungsmanagements der Landeshauptstadt Düsseldorf durch Teilnahme am Projekt „Bildungskommunen“ des BMBF - verwiesen
+- TOP 30.10: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Bedarfsgerechte Einrichtung von Ladezonen - mehrheitlich abgelehnt
+- TOP 30.11: Antrag der Ratsfraktion DIE LINKE: Autofreier Tag für Düsseldorf - verwiesen
+- TOP 30.12: Antrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD, FDP, DIE LINKE und Die PARTEI-Klima-Fraktion: Resolution zum russischen Angriff auf die Ukraine - einstimmig beschlossen
+- TOP 30.13: Antrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Rheinmetall als „Official Partner“ von D.SPORTS - mehrheitlich abgelehnt
+- TOP 30.14: Antrag der SPD-Ratsfraktion: Public Corporate Governance Kodex für nachhaltiges Sponsoring - mehrheitlich abgelehnt
+- TOP 31: Bericht aus der Kleinen Kommission Opernhaus der Zukunft - zur Kenntnis genommen
+- TOP 32: Bericht aus dem Nachhaltigkeits-Beirat - zur Kenntnis genommen
+- TOP 33: Städtepartnerschaft mit Czernowitz - einstimmig beschlossen
