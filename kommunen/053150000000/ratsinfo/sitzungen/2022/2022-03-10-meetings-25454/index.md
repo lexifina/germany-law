@@ -1,0 +1,102 @@
+# 12. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-10T17:30:00+01:00
+- Ende: 2022-03-10T21:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25454
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25454
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Verkehrsschauen in Nippes - Kenntnis genommen
+- TOP -: Verkehrsschauen im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 1.2: Baustelle der KVB-Zulaufstrecke zur Abstellhalle Weidenpesch - zurückgestellt
+- TOP 1.3: Umweltinformationen bzw. Straßenverkehrsimmissionen - Kenntnis genommen
+- TOP -: Umweltinformationen bzw. Straßenverkehrsimmissionen - Kenntnis genommen
+- TOP 1.4: Verkehrsschauen in Nippes - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Escher Straße in Nippes (Az.: 02-1600-15-20); Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Escher Straße in Nippes (Az.: 02-1600-15-20) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Errichtung einer Quartiersgarage auf dem Parkplatz an der Kleingartenanlage Boltensternstraße - Kenntnis genommen
+- TOP -: Errichtung einer Quartiersgarage auf dem Parkplatz an der Kleingartenanlage Boltensternstraße - Kenntnis genommen
+- TOP 7.1.2: Verkehrsberuhigter Bereich (Spielstraße) Rudolf-Sohm-Straße - Kenntnis genommen
+- TOP -: Verkehrsberuhigter Bereich (Spielstraße) Rudolf-Sohm-Straße - Kenntnis genommen
+- TOP 7.1.3: Verfall und Verwahrlosung des denkmalgeschützten ehemaligen Mühlenhofs, Wirtgasse 2, Longerich - Kenntnis genommen
+- TOP -: Verfall und Verwahrlosung des denkmalgeschützten ehemaligen Mühlenhofs, Wirtsgasse 2, Longerich - Kenntnis genommen
+- TOP 7.1.4: Weg vor der Niehler Straße 242 bis 248 - zurückgestellt
+- TOP 7.1.5: Bewohnerparken Longerich Graseggerstraße - Kenntnis genommen
+- TOP -: Bewohnerparken Longerich-Graseggerstraße - Kenntnis genommen
+- TOP 7.1.6: Baumfällungen und Pflanzungen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.7: Carsharingplätze im Stadtbezirk Nippes und speziell in der Nibelungensiedlung in Mauenheim - zurückgestellt
+- TOP 7.1.8: Beleuchtung eines Verbindungsweges in Niehl - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Nutzung von öffentlichen Flächen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.2.2: Nicht abgehangene Plakate - Kenntnis genommen
+- TOP -: Anfrage der FDP-Fraktion 0424/2022, Nicht abgehangene Plakate - Kenntnis genommen
+- TOP 7.2.3: Soziale Erhaltungssatzungen in Nippes - zurückgestellt
+- TOP 7.2.4: Nutzung von Bunkern und Untergeschossen der städtischen Gebäude - zurückgestellt
+- TOP 7.2.5: Bauvorhaben auf dem Gelände des Heilig-Geist-Krankenhauses in Longerich - zurückgestellt
+- TOP 7.2.6: Verkehrssicherheit und Barrierefreiheit rund um den Wilhelmplatz - zurückgestellt
+- TOP 7.2.7: Verkehrssicherheit im Bereich der KVB-Haltestelle Herforder Straße - zurückgestellt
+- TOP 7.2.8: Verkehrssicherheit für die neue Grundschule Friedrich-Karl-Straße Niehler Kirchweg; Rückbau Friedrich-Karl-Straße - zurückgestellt
+- TOP 7.2.9: Eigentumsverhältnisse und Verwendung zweier Grundstücke zwischen Jesuitengasse und Neusser Straße - zurückgestellt
+- TOP 7.2.10: Parksituation unter der Hochbahn - zurückgestellt
+- TOP 7.2.11: Sachstand Künstlermarkt auf dem Schillplatz (AN/1034/2016) - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Sanierung der GGS an der Steinberger Straße - endgültig zurückgezogen
+- TOP 8.1.2: Entsiegelung und Umgestaltung des Rondells am südlichen Ende des Altleiningenwegs - ungeändert beschlossen
+- TOP -: Entsiegelung und Umgestaltung des Rondells am südlichen Ende des Altleiningenwegs - endgültig abgelehnt
+- TOP -: Entsiegelung und Umgestaltung des Rondells am südlichen Ende des Altleiningenwegs - endgültig abgelehnt
+- TOP 8.1.3: Vorlage Planungsbeschluss zum alten Krankenhauses in der Pallenbergstraße 24 - geändert beschlossen
+- TOP 8.1.4: Ersatzbepflanzung jetzt - Initiative ergreifen ohne zu zögern - ungeändert beschlossen
+- TOP 8.1.5: Einführung einer Dokumentation über Ent- und Versiegelungen im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 8.1.6: Umbaumaßnahmen am unterirdischen Straßenbahnnetz - endgültig abgelehnt
+- TOP 8.1.7: Verlängerung von Grünphasen für Zufußgehende - ungeändert beschlossen
+- TOP 8.1.8: Angemessener Platz für zu Fuß gehende auf dem östlichen Teilstück der Christinastraße zwischen Lohsestraße und Holbeinstraße - ungeändert beschlossen
+- TOP 8.1.9: Verbesserung für zu Fuß gehende auf der Lohsestraße - ungeändert beschlossen
+- TOP 8.1.10: Rollstuhl-Rampe zum Zirkuszelt von Latibul, Theater- und Zirkuspädagogisches Zentrum Köln, An der Schanz
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Mühlenhof erwerben - geändert beschlossen
+- TOP 8.2.2: Schluss der „Beleuchtungslücke“ im Johannes-Giesberts-Park - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe bezirksorientierter Mittel an den Kölner Flüchtingsrat e.V. - ungeändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an den Kölner Renn-Verein 1897 e.V. - ungeändert beschlossen
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an die Jugendfarm Wilhelmshof e.V. - ungeändert beschlossen
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an das Archiv für Stadtteilgeschichte Köln-Nippes e.V. - ungeändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an Annette Windgätter - zurückgestellt
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an das Flora-Sinfonie-Orchester - geändert beschlossen
+- TOP 9.1.7: Bereitstellung von Übergangsunterkünften und Flüchtlingswohnungen in Köln-Nippes - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Zuschuss Kölner Renn-Verein 2022 - mit Änderungen empfohlen
+- TOP -: Kölner Renn-Verein1897 e. V. - ungeändert empfohlen
+- TOP 9.2.2: Förderprogramm "Dritte Orte" - 2. Genehmigung für die Förderphase 2022ff - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.1.1: Ausstellungstafeln im 2. Stock des Bezirksrathauses - Kenntnis genommen
+- TOP 10.1.2: Runder Tisch Neusser Str. 772 zum Lkw-Problem an der Neusser Straße in Weidenpesch und Longerich - Kenntnis genommen
+- TOP 10.1.3: Rolltreppen Geldernstraße/Parkgürtel - Kenntnis genommen
+- TOP 10.1.4: Golfplatz mit seinen Biotopen an der Neusser Landstraße - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Zielvereinbarung 2022 - Bürgerzentrum Nippes - Kenntnis genommen
+- TOP 10.2.2: Teilnahme an der Earth Hour 2022 - Kenntnis genommen
+- TOP 10.2.3: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - Kenntnis genommen
+- TOP 10.2.4: Fachliche Begleitung der Bezirksvertretungen in Verkehrsangelegenheiten - Kenntnis genommen
+- TOP 10.2.5: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - Kenntnis genommen
+- TOP 10.2.6: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 10.2.7: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2021 - Kenntnis genommen
+- TOP 10.2.8: Baumfällungen, Baumerhalt und Umpflanzungen für das Schulbauprojekt Niehler Kirchweg - Information über einen durchgeführten Ortstermin - Kenntnis genommen
+- TOP 10.2.9: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 10.2.10: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes Arbeitstitel: "Quartiersentwicklung Simonskaul in Köln-Weidenpesch und Aufhebung der Verlängerung der Äußeren Kanalstraße in Köln-Bilderstöckchen, -Weidenpesch und -Longerich - Kenntnis genommen
+- TOP 10.2.11: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
