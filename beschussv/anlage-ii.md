@@ -1,6 +1,7 @@
 # Anlage II Beschusszeichen, Prüfzeichen
 
-( Fundstelle: BGBl. I 2006, 1500 - 1503; bzgl. der einzelnen Änderungen vgl. Fußnote )
+( Fundstelle: BGBl. I 2006, 1500 - 1503;
+bzgl. der einzelnen Änderungen vgl. Fußnote )
 | Abbildung 1 |
 | Amtliche Beschusszeichen der Beschussämter (§ 9 Absatz 1 Satz 1) |
 |  | Normaler Beschussvon Feuerwaffen oder höchstbeanspruchten Teilen nach § 2 Absatz 2 des Gesetzes, die zum Verschießen von Munition mit normaler Ladung bestimmt sind. |

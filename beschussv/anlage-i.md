@@ -1,6 +1,7 @@
 # Anlage I Technische Anforderungen an und Prüfvorschriften für Feuerwaffen und sonstige Gegenstände, die der Beschussprüfung nach § 5 des Gesetzes unterliegen, und technische Anforderungen an Prüfgegenstände nach den §§ 7 bis 10 des Gesetzes
 
-(Fundstelle: BGBl. I 2006, 1488 - 1499)
+(Fundstelle: BGBl. I 2006, 1488 - 1499;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 Symbole und ihre Bedeutung
 | Vi | Einzelwert der Geschwindigkeit |
 | n | Gesamtzahl der Messungen |
