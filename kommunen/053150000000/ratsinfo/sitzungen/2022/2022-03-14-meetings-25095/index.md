@@ -1,0 +1,70 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-14T14:35:00+01:00
+- Ende: 2022-03-14T15:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25095
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25095
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Refinanzierung der Ausbildung von Notfallsanitäter*innen im Rettungsdienst Köln - Kenntnis genommen
+- TOP 2.3: Reform des Flüchtlingsaufnahmegesetzes (FlüAG) - Kenntnis genommen
+- TOP 2.4: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand 31.01.2022 - Kenntnis genommen
+- TOP 2.6: Gemeindefinanzierungsgesetz 2022 - Klageerhebung gegen Festsetzungsbescheid - Kenntnis genommen
+- TOP 2.7: Sachstand zum Cash Pooling - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Kostenheranziehung für Pflege- und Heimkindern durch das Jugendamt abschaffen - geändert beschlossen
+- TOP 3.1.1: Kostenheranziehung von Pflege- und Heimkindern durch das Jugendamt - Kenntnis genommen
+- TOP 3.1.2: Kostenheranziehung für Pflege- und Heimkinder durch das Jugendamt abschaffen - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2021 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.1.2: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Neubau von vier Mehrfamilienhäusern im öffentlich geförderten Wohnungsbau auf den städtischen Grundstücken Pater-Prinz-Weg 13-16, 50997 Köln-Rondorf - Haushaltsrechtliche Unterrichtung - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Weiterplanungssbeschluß auf Basis des Vorentwurfs Parkstadt Süd Eifelwall - geändert beschlossen
+- TOP 7.2: Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601- - zurückgestellt
+- TOP 7.3: Neugestaltung des Spiel- und Bolzplatzes An den Maien in Köln-Poll - ungeändert beschlossen
+- TOP 7.4: Baubeschluss für den barrierefreien Umbau der Bushaltestelle Bf. Lövenich auf der KVB-Linie 141 im Stadtbezirk Lindenthal - geändert beschlossen
+- TOP 7.5: Baubeschluss für den barrierefreien Umbau von vier Bushaltestellen auf der KVB-Linie 127 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 7.6: Zuschuss KSK-Team - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Vorrangige Nutzung des Erbbaurechtes bei der Veräußerung städtischer Grundstücke Baustein 1: Grundstücke für den Geschosswohnungsbau - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Weiterentwicklung der niedrigschwelligen, ambulanten und offenen Kontakt- und Beratungsangebote in den Sozialpsychiatrischen Zentren (SPZ) - ungeändert beschlossen
+- TOP 10.3: Planung und Kostenermittlung für das Gesamtkonzept der Bezirkssportanlage Bocklemünd - ungeändert beschlossen
+- TOP 10.4: Bezirkssportanlage Bocklemünd Planungsbeschluss neue Sporthalle - ungeändert beschlossen
+- TOP 10.5: Haushaltsplan 2022 - hier: Freigabe der in Teilergebnisplan 0701 - Gesundheitsdienste veranschlagten Mittel für Transferaufwendungen - ungeändert beschlossen
+- TOP 10.6: Gründung einer Schulbaugesellschaft - ohne Votum in nachfolgende Gremien
+- TOP 10.7: Fortschreibung der Richtlinie "Gebäudesanierung und Erneuerbare Energien - klimafreundliches Wohnen" - geändert beschlossen
+- TOP 10.8: Baubeschluss Modellprojekt 'Wasser muss zum Baum', Varianten 1-3 - ungeändert beschlossen
+- TOP 10.9: Bedarfsfeststellung des Beschaffungsprogrammes 2022 für die Fahrzeuge des Brandschutzes, der Technischen Hilfeleistung und des Rettungsdienstes der Feuerwehr Köln - geändert beschlossen
+- TOP 10.9.1: TOP 10.9: Bedarfsfeststellung des Beschaffungsprogrammes 2022 für die Fahrzeuge des Brandschutzes, der Technischen Hilfeleistung und des Rettungsdienstes der Feu-erwehr Köln - ungeändert beschlossen
+- TOP 10.10: Zuschuss Kölner Renn-Verein 2022 - ungeändert beschlossen
+- TOP 10.11: Teilnahme an der Landesinitiative „Durchstarten in Ausbildung und Arbeit“ - ungeändert beschlossen
+- TOP 10.12: Weiterführung des Projektes „Plan27“ - ungeändert beschlossen
+- TOP 10.13: Bedarfsanerkennung zur Ausstattung von Kölner Schulen mit Endgeräten nach dem "REACT-EU Förderprogramm" und dem "Förderprogramm Digitale Ausstattungsoffensive für Schulen in NRW" - ungeändert beschlossen
+- TOP 10.14: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), Bericht 2022 - ungeändert beschlossen
+- TOP 10.15: Freigabe von Mitteln der Kulturförderabgabe zur Förderung des "Film Festival Cologne 2022" und der Veranstaltung "TINCON 2022" - ungeändert beschlossen
+- TOP 10.16: Bedarfsfeststellungsbeschluss zur Vergabe von Leistungen für den Themenbereich Mobilität im Rahmen der Vorbereitung und Durchführung der Fußball EM 2024 - ungeändert beschlossen
+- TOP 10.17: Vergabe der institutionellen Förderung von Interessenvertretungen der freien Szene - ohne Votum in nachfolgende Gremien
+- TOP 10.18: Neubau einer Unterkunft zur öffentlich rechtlichen Unterbringung obdachloser Personen in konventioneller Bauweise auf dem städtischen Grundstück Schönrather Str. 7 in 51063 Köln-Mülheim - zurückgestellt
+- TOP 10.19: Instandsetzung des Gebäudes Martinstraße 30 - endgültig zurückgezogen
+- TOP 10.20: Abschluss eines Nachtrages zum bestehenden Mietvertrag über das freifinanzierte Objekt Kreuznacher Str. 71 - ungeändert beschlossen
+- TOP 10.21: Verlängerung Betriebskostenzuschuss für den Verein 321-2021: 1700 Jahre jüdisches Leben in Deutschland e.V. - ungeändert beschlossen
+- TOP 10.22: Römisch-Germanisches Museum - Baubeschluss für vorgezogene notwendige Sanierung der Abdichtung über Dombauhütte und Trafo - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
