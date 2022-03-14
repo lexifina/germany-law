@@ -1,0 +1,51 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6906873
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6906873
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Abbau der Wertstoffinsel Naumburger Straße / Ecke Görlitzer Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage an den Betreiber des OEZ bzgl. reduzierter Öffnungszeiten von mehreren Shop-Mietern
+- TOP 4.1.2.: Anfrage zu Eigentumsverhältnissen zum Grundstück der ehemaligen Kleingartenanlage in der Siedlung Hartmannshofen
+- TOP 4.1.3.: Anfrage: Sichtbar mahnende Erinnerung an die Lage des ehemaligen Arbeitserziehungslagers der Gestapo nördlich der Triebstraße
+- TOP 4.1.4.: Errichtung Sitzgelegenheiten am Moosacher Stachus (Nähe Bücherschrank und Kiosk)
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget AG Buhlstrasse e.V. / Freizeitstätte boomerang Naturerlebnistage, Sozialkompetenztraining vom 07.-10.06.2022 2.010,00 € / Az. 0262.0-10-0284
+- TOP 5.2.: (E) Stadtbezirksbudget Das aserbaidschanische Kulturzentrum in München e.V. Diverse Anschaffungen für das Kulturzentrum 1.530,70 € / Az. 0262.0-10-0285
+- TOP 6.: Anhörungen
+- TOP 6.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Privatgrund und Grünanlagen: 1. Moosacher St.-Martinsplatz: Moosacher Maifest vom 27.04. bis 01.05.2022 2. div. Orte: Disziplin Radfahren des Age Group Triathlon im Rahmen der EC 2022 vom 11. - 14.08.2022 3. Moosacher St.-Martinsplatz: Moosacher Dorffest am 16.07.2022 4. "Spielaktionen 2022" (Einsätze Spielbus) im Zeitraum 10.05. - 12.10.2022
+- TOP 6.2.: Einrichtung von personenbezogenen Behindertenparkplätzen - nicht-öffentlich - 1. Dobmannstraße 2. Irma-Wenke-Straße
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Teilnahme an den Sitzungen des Moosacher Bezirksausschusses (Vollgremium) durch Ton-Bild-Übertragung ermöglichen [BA-Antrag Nr. 20-26/B03446; siehe SV Nr. 20-26/V05482 im IT-Ausschuss am 16.02.22, Recherchen sind auf Medientechnik ausgerichtet, abschliessende Ergebnisse liegen noch nicht vor]
+- TOP 7.2.: Sachstand Verlegung Linienweg Metro-Bus 51 aus der Netzerstraße in die Bauberger Straße [Schreiben BA10 vom 26.01.2022; zum Fahrplanwechsel Dez. 2022 wird Linienweg vereinheitlicht.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Dauerhafte Genehmigung coronabedingt temporär erlaubter Freischankflächen (Sondernutzungserlaubnis)
+- TOP 8.2.: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
+- TOP 8.3.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.4.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.5.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.6.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 8.7.: Einleitung Vorkaufsrechtprüfungsverfahren Seydlitzstraße - nicht-öffentlich -
+- TOP 8.8.: Verbot Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - 1. Karlingerstraße und Gubestraße 2. Plauener Straße
+- TOP 8.9.: Mobilfunk: - nicht-öffentlich - 1. Am Neubruch (Erweiterung am Funkturm, 5G) 2. Feldmochinger Straße (Erweiterung Telefonsäule um Small Cells) 3. Dachauer Straße (Erweiterung bestehender Mobilfunksendeanlage, 5G) 4. Pelkovenstraße (Erweiterung bestehender Mobilfunksendeanlage, 5G) 5. Bauberger Straße (Erweiterung bestehender Mobilfunksendeanlage, 5G)
+- TOP 3.3.1.: Bauvorhaben: ./.
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: ./.
+- TOP 3.3.3.: Baumfällungen (Baumschutz): 1. Pelkovenstr. 80 2. Baubergerstr. 21
+- TOP 4.: Anträge
