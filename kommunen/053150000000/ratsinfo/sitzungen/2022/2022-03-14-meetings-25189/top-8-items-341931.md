@@ -1,0 +1,6 @@
+# TOP 8: Anfragen aus früheren Sitzungen
+
+- Sitzung: Sitzung des Ausschusses für Bürgerbeteiligung, Anregungen und Beschwerden (2022-03-14)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/341931
