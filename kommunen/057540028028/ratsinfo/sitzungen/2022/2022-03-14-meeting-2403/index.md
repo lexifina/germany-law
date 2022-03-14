@@ -1,0 +1,52 @@
+# Rat der Stadt Rheda-Wiedenbrück (10. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2022-03-14T17:00:00+01:00
+- Ende: 2022-03-14T21:20:00+01:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZef6qnVepEMI8yNcdz2_-2U
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2403
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZccSgBG-6ZITtDiioIhtHTamQ4wLMBXV7XFDxQf3pIlH/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_14.03.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbKThOUEcGDwH-18LVPYTbzrMxHwXJKpbO4sKCYggV4y/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_14.03.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Entsendung von Vertretern zur 23. Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes (Gemeindekongress 2022) am 14. Juni 2022 - 46 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 4.1: Sachstandsbericht zur Unterbringung der Flüchtlinge aus der Ukraine in der Stadt Rheda-Wiedenbrück
+- TOP 5: Beteiligungsbericht 2019 nach § 117 GO NRW - Einstimmig
+- TOP 6: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen für November 2021 bis Januar 2022 für das Haushaltsjahr 2021 - Kenntnisnahme
+- TOP 7: Finanzcontrolling - Quartalsbericht IV/2021 zur Unterrichtung der politischen Mandatsträger der Stadt Rheda-Wiedenbrück nach § 2 Abs. 2 NKF-CIG NRW - Kenntnisnahme
+- TOP 8: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2022
+- TOP 8.1: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2022 - 34 Ja-Stimme(n), 13 Nein-Stimme(n)
+- TOP 9: Kenntnisnahme der Übertragung von Ermächtigungen nach § 22 KomHVO NRW - Kenntnisnahme
+- TOP 10: EAW: Temporäre Stellenplanänderung im Rahmen einer Nachbesetzung - Einstimmig
+- TOP 11: Beihilferechtliche Anpassung der öffentlich-rechtlichen Vereinbarung zum Emsradweg - Einstimmig
+- TOP 12: Lüftungsgeräte in Schulen
+- TOP 12.1: Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Rheda-Wiedenbrück (OBV) - 30 Ja-Stimme(n), 16 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 13: Interfraktionelle Gespräche - Grundsätzliche Ausrichtung - Einstimmig
+- TOP 14: Interfraktionelle Gespräche - Klimapolitische Zielsetzung - Einstimmig
+- TOP 15: Interfraktionelle Gespräche - Prioritäten und Arbeitsschwerpunkte - Einstimmig
+- TOP 16: Umlegungsausschuss: Neubesetzung - Einstimmig
+- TOP 17: Ablösesatzung der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 18: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 19: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 20: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 21: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 22: Erklärung von Ausschließungsgründen
+- TOP 23: Vertragsangelegenheiten
+- TOP 23.1: Vertragsangelegenheiten - Einstimmig
+- TOP 24: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 25: Jahresabschluss der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für das Wirtschaftsjahr 2020 - Einstimmig
+- TOP 26: Wirtschaftsplan der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für die Wirtschaftsjahre 2022- 2026 - Einstimmig
+- TOP 27: Vertragsangelegenheit - Einstimmig
+- TOP 28: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 29: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 30: Dringende Anfragen und Anregungen
