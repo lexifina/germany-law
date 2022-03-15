@@ -1,0 +1,240 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2022-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6823747
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6823747
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 21.11.2021
+- TOP 1.4: Umbesetzung der Unterausschüsse
+- TOP 1.5.: Personelle Veränderung in der Betreuung durch die BAG
+- TOP 1.6.: Dringlichkeitsantrag durch den Vorsitzenden zur Verkürzung der Sitzung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.1.1.: Beschluss Hybridsitzung
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Apenrader Str. 116 - Errichtung einer Gärtnerei mit Foliengewächshaus, Folientunnel, Freilandflächen und Nutzungsänderung eines existierenden ungenehmigten Gebäudes zum Betriebsgebäude mit WC, Umkleide und Saatgutlager; Anhörung des Referates für Stadtplanung und Bauordnung (neuer Vorgang)
+- TOP 2.2.2.: Grimmelshausenstr. 5 - Neubau eines Gebäudes (10 WE) - mit Mobilitätskonzept; Anhörung des Referates für Stadtplanung und Bauordnung (neuer Vorgang)
+- TOP 2.2.3.: Normannenpl. 8 - Neubau eines Mehrfamilienhauses und eines Einfamilienhauses mit Tiefgarage - VORBESCHEID; Anhörung des Referates für Stadtplanung und Bauordnung (neuer Vorgang)
+- TOP 2.2.4.: Oberföhringer Str. 35 - Neubau eines Mehrfamilienhauses (20 WE) mit Tiefgarage; Anhörung des Referates für Stadtplanung und Bauordnung (neuer Vorgang)
+- TOP 2.2.5.: Soldauer Str. 25 - Neubau einer Doppelhaushälfte mit Carport - DHH 2 (Nord); Anhörung des Referates für Stadtplanung und Bauordnung (neuer Vorgang)
+- TOP 2.2.6.: Stargarder Str. 13 - Neubau eines Zweifamilien- und eines Mehrfamilienhauses (4 WE) mit gemeinsamer Tiefgarage (7 Stpl.); Anhörung des Referates für Stadtplanung und Bauordnung (neuer Vorgang)
+- TOP 2.2.7.: Jankstr. 7 - Errichtung eines Mehrfamilienhauses mit 2 Unterflur-Parksysteme mit je 3 Stellplätzen (neuer Vorgang)
+- TOP 2.2.8.: Wacholderweg 8 - Umwandlung eines Einfamilienhauses zu einem Wohnhaus (3 WE) sowie Neubau eines Treppenhauses (Neuer Vorgang)
+- TOP 2.2.9.: Sensburger Str. 4 - Energetische Komplettsanierung eines Dachgeschosses sowie Einbau einer Dachterrasse am 3-Familienhaus (neuer Vorgang)
+- TOP 2.2.10.: Evastr. 3 - Neubau zweier Doppelhäuser mit 4 Garagen (neuer Vorgang)
+- TOP 2.2.11.: Steinhauser Str. 31 - Wohnungsan- und Erweiterungsbau mit Tiefgarage (neuer Vorgang)
+- TOP 2.2.12.: Baumfällungen zu Bauvorhaben: Grimmelshausenstr. 5 Normannenpl. 8 Oberföhringer Str. 35 Ortnitstr. 17 Stargarder Str. 13 Turfstr. 5 Warthestr. 1 Gellertstr. 22 Jankstr. 7 Wacholderweg 8 Steinhauser Str. 31 Evastr. 3 Elsastr. 12 Sensburger Str. 4
+- TOP 2.2.13.: Viergleisiger Ausbau Daglfing - Johanneskirchen, Beschlussentwurf; Anhörung des Referats für Stadtplanung und Bauordnung (Unterlagen folgen)
+- TOP 2.2.14.: Dorpater Str. 7 - Errichtung eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2.15.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.16.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Erweiterung einer bestehenden Freischankfläche, Gaststätte "Kerala", Prinzregentenplatz 23 (bereits behandelter Vorgang)
+- TOP 2.3.2.: Erweiterung einer bestehenden Freischankfläche, Gaststätte "Feinkost Marks", Kufsteiner Platz 3 (bereits behandelter Vorgang)
+- TOP 2.3.3.: Genehmigung einer Parkplatz-Freischankfläche UND Erweiterung einer bestehenden Freischankfläche, Gaststätte "Catwalk", Mauerkircherstr. 2 (bereits behandelter Vorgang)
+- TOP 2.3.4.: Auswirkungen des geplanten Radschnellweg von der Münchner Innenstadt nach Markt Schwaben; Antrag der CSU-Fraktion; vertagt in der Sitzung am 13.07.2021 (bereits behandelter Vorgang)
+- TOP 2.3.5.: Verkehrszeichen, Poller o.ä. im öffentlichen Raum behindertengerecht gestalten - Antrag des BA 17 (bereits behandelter Vorgang)
+- TOP 2.3.6.: Erneuerung der Asphaltdecke des Radwegs an der Ismaninger Str.; Antrag der CSU-Fraktion (bereits behandelter Vorgang)
+- TOP 2.3.7.: Antrag Umgestaltung Kreuzung Robert-Heger-Straße/Meistersinger-Knappertsbuschstraße; Antrag der Fraktion Bündnis90/DIE GRÜNEN (bereits behandelter Vorgang)
+- TOP 2.3.8.: Maßnahmen zur Verkehrsberuhigung in der Oderstraße; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.3.9.: Erstellung einer Haltemarkierung an der Haltestelle Freischützstr. (Bus 154 Richtung Westerlandanger); Antrag der Freien Wähler (bereits behandelter Vorgang)
+- TOP 2.3.10.: Prinz Eugen Park: Taktverdichtung der Trambahn nach 20 Uhr von 20 auf 10 Minuten (und nach 22 Uhr alle 20 Minuten) / Ausweitung der Anbindung durch den 184er Bus (Bruno-Walter-Ring); Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.3.11.: Übergang vom Denninger Anger zum neu angelegten Park auf der gegenüberliegenden Seite (der nördlichen Weltenburger Straße): Anbringung eines Zebrastreifens mit abgesenktem Bordstein; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.3.12.: Daglfinger Straße zwischen Schneidemühler Str. und Bromberger Str. Südseite: Sichtbehinderung durch Dauer-Gehwegparker sowie Behinderung der RadfahrerInnen und Radfahrer; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.3.13.: Zugang zum Regensburger Platz für Rollstuhl- und Rollatorfahrer; Antrag der CSU-Fraktion (bereits behandelter Vorgang)
+- TOP 2.3.14.: Antrag auf Erhöhung der Busfrequenz von Linie 187; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.3.15.: Fehlender bzw. zu schmaler Gehweg und Regenwasserumleitung, Gefahr durch Glatteis und Ausrutschen der Fußgänger in der Barbarossastraße 11 - 15; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.3.16.: Antrag auf Spiegel für die Ausfahrt aus der Königsbergerstraße 18 / 18a / 18b; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.3.17.: Stuntzstr. 16 - 18b: Poller anbringen - kein Platz für Fußgänger und Mütter mit Kinderwagen!; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.3.18.: Querungshilfe in der Weltenburger Straße/ Ecke Revaler Straße schon jetzt deutlich sichtbar machen; Antrag der SPD-Fraktion (bereits behandelter Vorgang)
+- TOP 2.3.19.: Die Straße St. Emmeram soll für Radfahrer*innen in beide Richtungen befahrbar werden; Antrag der Fraktion ÖDP/DaCG (bereits behandelter Vorgang)
+- TOP 2.3.20.: Grünstreifen Verlängerung Stradellastraße befestigen; Antrag der Fraktion Bündnis90/DIE GRÜNEN (bereits behandelter Vorgang)
+- TOP 2.3.21.: Klärung Umleitungen und Sperrungsdauer Bahnübergänge Daglfing + Englschalking; Antrag der Fraktion Bündnis90/DIE GRÜNEN (bereits behandelter Vorgang)
+- TOP 2.3.22.: Cosimastraße fußgängerfreundlich aufwerten; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.3.23.: Richard-Strauß-Str. 101: Einrichtung von 2 Kurzparkplätzen; Anhörung des Mobilitätsreferats (Neuer Vorgang)
+- TOP 2.3.24.: "Mehr Rad im Viertel"; Anhörung des Mobilitätsreferats (Frist bis 11.03.2022)
+- TOP 2.3.25.: Zaubzerstraße westlich Richard-Strauß-Straße: Einrichtung eines Haltverbots; Anhörung des Mobilitätsreferats (Neuer Vorgang)
+- TOP 2.3.26.: Durch Autos blockierte Gehwege in Bogenhausen; Bürgeranliegen (Neuer Vorgang)
+- TOP 2.3.27.: Möhlstr. 3: Einrichtung eines allgemeinen Behindertenparkplatzes; Anhörung des Mobilitätsreferats (Neuer Vorgang)
+- TOP 2.3.28.: Süskindstr. / Rappelhofstr.; Änderung Verkehrsführung oder Errichtung einer Abbiegeampel; Bürgeranliegen (Neuer Vorgang)
+- TOP 2.3.29.: Siedlung Steinhausen: Aufstellung von Schildern "Achtung Kindergarten" und Errichtung von Ladesäulen an den Parkbuchten der Weltenburger Straße; Bürgeranliegen (Anträge Nr. 1 und 2) - Antwort des Mobilitätsreferats - (Neuer Vorgang)
+- TOP 2.3.30.: Baustelle in der Denninger Str.: Fahrbahnsanierung 2022 (Erinnerungsverfahren); Anhörung des Baureferats (neuer Vorgang)
+- TOP 2.3.31.: Kreuzung Prinzregentenstraße / Vogelweidestraße: Fehlende Fußgängerampel; Bürgeranliegen (aus der November-Sitzung) - Rückmeldung (Anhörung) des Mobilitätsreferats Erneutes Bürgeranliegen weitere Rückmeldung des Mobilitätsreferats (neuer Vorgang)
+- TOP 2.3.32.: Autoverkehr auf dem Maria-Nindl-Platz; Bürgeranliegen Rückmeldung der Branddirektion (neuer Vorgang)
+- TOP 2.3.33.: Keplerstraße: Fahrbahnsanierung - Erinnerungsverfahren; Anhörung des Baureferats (neuer Vorgang)
+- TOP 2.3.34.: Neuberghauser Straße: Fahrbahnsanierung - Erinnerungsverfahren; Anhörung des Baureferats (neuer Vorgang)
+- TOP 2.3.35.: 1.) Unmittelbare Abstufung der Straßenkantsteine an der Weltenburger Strasse 2.) Antrag auf Bau eines Tunnels oder einer fußgängerfreundlichen Brücke zur Verbindung des Denninger Angers mit der Grünanlage an der Pühnstrasse; Bürgeranliegen (Neuer Vorgang)
+- TOP 2.3.36.: 1.) Widerspruch gegen die Entfernung des grünen Rechtsabbiegepfeils an der Kreuzung Arabellastraße / Denninger Straße 2.) Erweiterung der Straßen-/Fahrspurmarkierung auf der Denninger Straße vor und im Kreuzungsbereich an der Kreuzung Denninger Straße/Abbiegung zur Vollmannstraße; Bürgeranliegen (Neuer Vorgang)
+- TOP 2.3.37.: (A) Flughafenanbindung - viergleisiger Ausbau der Strecke Daglfing-Johanneskirchen; Nochmalige Anhörung für Sitzung des Ausschusses für Stadtplanung und Bauordnung am 30.03.2022; Frist 25.03.2022
+- TOP 2.3.38.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.39.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Dip-n-Divers Square Dance Club e.V. München Sanierung der Toiletten im Vereinsheim 3.630,00 € / Az. 0262.0-13-03056 (bereits behandelter Vorgang)
+- TOP 2.4.2.: Unterlagen zum Budgetantrag "Dip-n-Divers Square Dance Club e.V. München" - Sanierung der Toiletten im Vereinsheim (bereits behandelter Vorgang)
+- TOP 2.4.3.: (E) Stadtbezirksbudget Initiative "Wildbienen" Wildbienen im PEP 1.200,00 €; Az. 0262.0-13-0307 - Vorstellung durch die Antragsteller -
+- TOP 2.4.4.: (E) Stadtbezirksbudget Think Future Bogenhausen e.V. "Digitale Medien & Du!" Bogenhausen macht sich fit für die Zukunft vom 01.01. - 31.03.2022 8.793,00 €; Az. 0262.0-13-0302 (bereits behandelter Vorgang)
+- TOP 2.4.5.: Weitere Unterlagen zu "Think Future Bogenhausen e.V. "Digitale Medien & Du!" Bogenhausen macht sich fit für die Zukunft vom 01.01. - 31.03.2022" (bereits behandelter Vorgang)
+- TOP 2.4.6.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Anteilige Personalkosten für das Unterprojekt "Infobus für Flüchtlinge" vom 01.01. - 31.12.2022 5.311,95 €; Az. 0262.0-13-0303 (bereits behandelter Vorgang)
+- TOP 2.4.7.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 10.09.2022 1.500,00 €; Az. 0262.0-13-0304 (bereits behandelter Vorgang)
+- TOP 2.4.8.: (E) Stadtbezirksbudget Naturkinder Prinz Eugen Park Anschaffung eines Sonnenschutzes 18.568,50 €; Az. 0262.0-13-0306 - Vorstellung durch die Antragsteller -
+- TOP 2.4.9.: Unterlagen zum Budgetantrag "Naturkinder Prinz Eugen Park - Anschaffung eines Sonnenschutzes" (bereits behandelter Vorgang)
+- TOP 2.4.10.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür – PLAN B aus München für München von April bis November 2022 9.499,00 € / Az. 0262.0-13-0309 (bereits behandelter Vorgang)
+- TOP 2.4.11.: Unterlagen zum Budgetantrag "Initiative "Wildbienen" Wildbienen im PEP" (neuer Vorgang)
+- TOP 2.4.12.: (E) Stadtbezirksbudget Initiative „Kunst am Bau...zaun“ “Kunst am Bau...zaun“ von Juni bis Oktober 2022 2.260,00 € / Az. 0262.0-13-0308 (Neuer Vorgang)
+- TOP 2.4.13.: (E) Stadtbezirksbudget MobilSpiel e.V. MobilSpiel e.V. - Ein Fest, viele Projekte am 21.05.2022 6.150,00 € / Az. 0262.0-13-0311 (neuer Vorgang)
+- TOP 2.4.14.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.15.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: SportBoxen für die Einwohner:innen aus München; Bürgeranliegen (Neuer Vorgang)
+- TOP 2.5.2.: Anwenderfreundliche IT-Unterstützung, speziell Schulung der Lehrer- und Schülerschaft an Grund- und Mittelschulen; Antrag der CSU-Fraktion (neuer Vorgang)
+- TOP 2.5.3.: Errichtung einer SportBox in Bogenhausen; Antrag der CSU-Fraktion (neuer Vorgang)
+- TOP 2.5.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.5.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Skateanlage im Prinz-Eugen-Park; Antrag der CSU-Fraktion (Neuer Vorgang)
+- TOP 2.6.2.: Baumfällungen: Chamissostr. 1 Daglfinger Str. 119 Davidstr. 7 Denninger Str. 140 Flemingstr. 119 Flensburger Str. 1 Franz-Wolter-Str. 2 Grimmelshausenstr. 2 Hoyerweg 11 Johanneskirchner Str. 13 Johanneskirchner Str. 150 Libauer Str. 51 Marienburger Str. 67 Marienburger Str. 79 Mauerkircherstr. 86-86b Ortlindestr. 19 Rümelinstr. 12_Frist 08.03.2022 Englschalkinger Str. 77
+- TOP 2.6.3.: (E) Lösung für eine Großbaumverpflanzung der Bäume am Maria- Nindl-Platz finden Empfehlung Nr. 20-26 / E 00515 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 28.10.2021 Baumfällung am Maria-Nindl-Platz/Prinz-Eugen-Park Empfehlung Nr. 20-26 / E 00516 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 28.10.2021
+- TOP 2.6.4.: (E) Unterflurcontainer in Bogenhausen - Kostenübernahme BA-Antrags-Nr. 20-26 / B 00912 des Bezirksausschusses des Stadtbezirkes 13 - Bogenhausen vom 13.10.2020
+- TOP 2.6.5.: Verlegung des Containerstandorts an der Beetzstraße; Bürgeranliegen (Neuer Vorgang)
+- TOP 2.6.6.: Einrichtung einer umzäunten Hundespielwiese (alternativ Freilaufwiese) im Gebiet des 13. Stadtbezirks; Antrag der SPD-Fraktion (bereits behandelter Vorgang)
+- TOP 2.6.7.: Errichtung eines rollstuhlgeeigneten Karussells; Antrag der CSU-Fraktion (bereits behandelter Vorgang)
+- TOP 2.6.8.: Kletterwand in der Grünanlage Pühnpark; Antrag der CSU-Fraktion (bereits behandelter Vorgang)
+- TOP 2.6.9.: Zusätzliche Spielgeräte auf dem Spielplatz in der Schwarzwaldstraße; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.6.10.: Wiederherstellung der Sitzmöglichkeiten am Basketball- und Fussballplatz im Denninger Anger sowie Sanierung der Anlage; Antrag der Fraktion ÖDP/DaCG (bereits behandelter Vorgang)
+- TOP 2.6.11.: Baumbepflanzung Ecke Zimmermannweg - Ignaz-Günther-Str.; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.6.12.: Reinigung von Straßen und Bürgersteige am Zamilapark; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.6.13.: Englschalkinger Anger – ein richtiger Name für das Grüne Band; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.6.14.: Unterflurcontainer (UFC) Prinz-Eugen-Park: Einbauzusage durch städtische Finanzierung einhalten (BA-Antrag 20-26 / B 01697); Rückmeldung des AWM
+- TOP 2.7.1.: Errichtung einer Urnenwand (Kolumbarium) auf dem Friedhof Daglfing; Antrag der CSU-Fraktion (bereits behandelter Vorgang)
+- TOP 2.6.16.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.17.: Verschiedenes, Termine
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.2.: Eggenfeldenerstr.94: Anfrage für Kunst am Bau; Bürgeranliegen (bereits behandelter Vorgang)
+- TOP 2.7.3.: Kunstprojekt am Europaplatz "Liebesgrüße nach Moskau"; Bürgeranliegen (bereits behandelter Vorgang) Antwort des Kulturreferats (neuer Vorgang)
+- TOP 2.7.4.: Vor-Ort-Termin Anker-Dependance; Antrag der Fraktion Bündnis90/DIE GRÜNEN (bereits behandelter Vorgang)
+- TOP 2.7.5.: Antrag Gedenktafel der Künstler*innen des Arabellahaus Tonstudios; Antrag der Fraktion Bündnis90/DIE GRÜNEN (bereits behandelter Vorgang)
+- TOP 2.7.6.: Öffentlichkeitsarbeit: Fassadengestaltung im Stadtbezirk (Neuer Vorgang)
+- TOP 2.7.7.: Ergebnis des Trägerschaftsauswahlverfahrens zur integrierten Quartierseinrichtung „13er Bürger- und Kulturtreff“, Neubaugebiet: Prinz-Eugen-Park - Bedarf für ein Vorläuferprojekt der integrierten Quartierseinrichtung - Beschlussentwurf - Anhörung des Sozialreferats (Neuer Vorgang)
+- TOP 2.7.8.: "Mädchen an den Ball" - Wunsch nach einer Konzeptvorstellung?; Anhörung (Neuer Vorgang)
+- TOP 2.7.9.: Schwachstellen der klinischen Versorgung in München - Bürger für unser Münchner Stadtklinikum; Bürgeranliegen (Neuer Vorgang)
+- TOP 2.7.10.: Schließung der Postfiliale im Prinz-Eugen-Park; zwei Bürgeranliegen (Neuer Vorgang)
+- TOP 2.7.11.: Poststelle im Prinz-Eugen-Park erhalten; Antrag der CSU-Fraktion (neuer Vorgang)
+- TOP 2.7.12.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.13.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: E-Scooter in öffentlichen Parkanlagen
+- TOP 6.2.: Einrichtung einer Halteverbotszone im Kurvenbereich der Wesendonkstraße
+- TOP 6.3.: Versetzung eines Ampelmasten vom Fahrradweg über die Max-Joseph-Brücke
+- TOP 6.4.: Verlängerung des Fahrradwegs in der Stegmühlstraße
+- TOP 6.5.: Anfrage zur Errichtung eines Fitness-Parcours in der Grünanlage Isabella-Braun-Weg/Bichlhofweg/Preziosastraße
+- TOP 6.6.: Luftreinhaltung ohne Einführung der Parkraumlizenzierung gegen den erklärten Bürgerwillen
+- TOP 6.7.: Verkehrssicherheit für den Fußgänger des Kreuzungsbereiches Brodersen-/ Glücksburger Straße
+- TOP 6.8.: Kreuzung Denninger Straße mit Vollmannstr./Weltenburger Str.: Beibehaltung der provisorischen Markierung
+- TOP 6.9.: Schluss mit dem Parkchaos in der Grasbrunner Straße!
+- TOP 6.10.: Verschobene Fertigstellung des Kulturbürgerhauses (13er Bürger- und Kulturtreff): Teilweise Vorfinanzierung der integrierten Einrichtung im Prinz-Eugen-Park mit sozialpädagogischen Personalstellen dringend erforderlich!
+- TOP 6.11.: Instandsetzung Bolzplatz Savitsstraße
+- TOP 6.12.: Eggenfeldener Str. von der Weltenburgerstr. bis zur Friedrich-Eckart-Str.: Ausbau des Radwegs
+- TOP 6.13.: Eggenfeldener Str. / Rappelhofstr. von der Friedrich-Eckart-Str. bis zur Burgauerstr.: Ausbau des Radwegs
+- TOP 6.14.: Einrichtung einer Fahrrad-Servicestation in Bogenhausen
+- TOP 6.15.: Baubeginn Gebäude integrierte Einrichtung für Herbst 2022 sicherstellen
+- TOP 6.16.: Ortsteilschilder an Hauptverkehrsstraßen ergänzen
+- TOP 6.17.: Maßnahmen gegen Pfützenbildung im Odinpark
+- TOP 6.18.: Nachgefragt: Errichtung eines Mehrgenerationenparks im 13. Stadtbezirk
+- TOP 6.19.: Lizenzparken für ruhenden Verkehr
+- TOP 6.20.: Markierung des Fahrradweges an der Einmündung der Schumannstraße auf die Prinzregentenstraße
+- TOP 6.21.: Wie ist die Ausbildung zur staatlich geprüften Kinderpflegerin geregelt?
+- TOP 6.22.: Sitzbänke im und um den Prinz-Eugen-Park (Nr. 1 des Schreibens)
+- TOP 6.23.: Siedlung Steinhausen: Grünfläche Weltenburger-/Moselstraße zu blühende Wiese (Nr. 3 des Schreibens)
+- TOP 6.24.: Anderer Ort für Altglas-Container Elektrastraße
+- TOP 6.25.: Fällung, Erhaltung oder Versetzung der drei Großbäume am Maria-Nindl-Platz
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Vorgaben des Stadtrats zur Konsolidierung des städtischen Haushalts; hier: Kürzung des Stadtbezirksbudgets in 2022
+- TOP 7.1.2.: Bürgerversammlungen 2022 / Haushaltseinladungen
+- TOP 7.1.3.: Bitte um Unterstützung bei der Seniorenvertretungswahl
+- TOP 7.1.4.: Suche nach Erhebungsbeauftragte*r für Zensus 2022
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Flemingstr. 10 – 78 und Opitzstr. 12 - 14: Fahrbahnsanierung (Teilflächen); Anliegerinformation
+- TOP 7.2.2.: Kolbergerstr. 3: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Cosimastraße 102: Errichtung von zwei Kurzzeit-Parkplätzen mit zeitliche Beschränkung
+- TOP 7.3.2.: Beschwerde Ampelschaltung / Straßenführung Cosimastr. / Ecke Johanneskirchner Str., - Antwort des Mobiliätsreferats auf ein Bürgeranliegen
+- TOP 7.3.3.: Daglfinger Straße (östlich Bahnübergang): Gefahrzeichen „Gefahrenstelle“ mit Zusatz „Ausfahrt“
+- TOP 7.3.4.: Testcontainer Grünanlage Cosimastr. / Englschalkinger Str. - Eilentscheidung des BA-Vorsitzenden am 17.01.2022 -
+- TOP 7.3.5.: Umsetzung des Radentscheids im 13. Stadtbezirk Bogenhausen
+- TOP 7.3.6.: Röntgenstraße; Mühlbaurstraße: Neue Parkordnung (Schräg- und Längsparkmarkierungen)
+- TOP 7.3.7.: Maßnahme der Unfallkommission - Richard-Strauss-Tunnel / Abfahrt A94
+- TOP 7.3.8.: Maßnahme der Unfallkommission - Scheinerstraße / Wehrlestraße
+- TOP 7.3.9.: Absolutes Haltverbot (Feuerwehranfahrt) für Jörg-Hube-Str. 103-115 (Wendehammer) und Jörg-Hube-Str. Kurvenbereich zw. Hausnummern 30 und 33
+- TOP 7.3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Kommunalreferat
+- TOP 7.4.1.: Anfrage zur Nutzung der Fläche am Festivalgelände vor dem Cosimabad 2022 für ein Glühweinfestival - Eilentscheidung des BA-Vorsitzenden am 27.12.2021 -
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche), Dauerhafte Genehmigung coronabedingt temporär erlaubter Freischankflächen
+- TOP 7.5.2.: Kunstaktion "Kunst am Bau...zaun" im Zeitraum vom 01.06.-30.09.2022 an 4 Örtlichkeiten in Bogenhausen; Anhörung des Kreisverwaltungsreferats - Eilentscheidung des BA-Vorsitzenden am 27.12.2021 -
+- TOP 7.5.3.: Unveränderte Fortführung des Gaststättengewerbes: - "Tantra", Ludwig-Brück-Str. 3 - “Prinzipal“ im Prinzregententheater, Prinzregentenplatz 12
+- TOP 7.5.4.: Unveränderte Gaststättenfortführung: - Gaststätte "La Cantina", Fritz-Meyer-Weg 55 - Schank- und Speisewirtschaft (Name noch nicht bekannt), Stefan-George-Ring 20
+- TOP 7.6: Kulturreferat
+- TOP 7.6.1.: (U) Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2021 – 2025 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.2.: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
+- TOP 7.7.3.: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 7.7.4.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2021 - 2025 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahme zum Antrag des Bezirksausschusses 21
+- TOP 7.7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.6.: (U) BayBO Novelle und Online-Zugangsgesetz: Änderungen im Aufgabenspektrum der Lokalbaukommission - Personelle Ausstattung
+- TOP 7.7.7.: (U) Wohnungspolitisches Handlungsprogramm Wohnen in München VI 2017 - 2021 Verlängerung um 1 Jahr bis zum 31.12.2022
+- TOP 7.7.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.11.: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 7.7.12.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 7.7.13.: St. Emmeram 32a: Neubau eines Einfamilienhauses mit Garage - Abdruck der Baugenehmigung
+- TOP 7.7.14.: Baumfällungen gem. Plan für Johanneskirchner Str. 72 (Bezirkssportanlage/Helen-Keller-Realschule) - Eilentscheidung des BA-Vorsitzenden am 04.02.2022 -
+- TOP 7.7.15.: Knappertsbuschstr. 26: Errichtung einer Holzkapelle für die russsich-orthodoxe-Kirche - Baugenehmigung
+- TOP 7.7.16.: Ruth-Drexel-Str. 21 - Schulbauoffensive, Aufstellung einer mobilen Raumeinheit als Schulpavillon mit 6 Klassen- und 2 Ganztagsbetreuungsräumen, befristet auf 5 Jahre; Anhörung des Referates für Stadtplanung und Bauordnung (Frist bis zum 06.01.2022) - Eilentscheidung des BA-Vorsitzenden am 03.01.2022) -
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Realschulen
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Zweckentfremdung: - Rienzipl. 11 - Pienzenauerstr. 37 - Dirschauer Str. 53 - Asgardstr. 25 - Telramundstr. 11
+- TOP 7.9.2.: Abschlussschreiben zur Situation am Bolzplatz im Fideliopark - Einschätzung und Empfehlung durch das AKIM-Konfliktmanagement
+- TOP 7.9.3.: AKIM-Bericht Ausgabe Herbst 2021 (Schwerpuntk Feiern im Corona-Sommer 2021)
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.11.1.: Mehrjahresinvestitionsprogramm für die Jahre 2021-2025
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.14.1.: Ratsinformationssystem (RIS) – Papierlose Bezirksausschussarbeit Information zum neuen „RIS-Internet“ Einführung „RIS-Internet/ -Extranet-Basis“ für Bezirksausschüsse im Pilotbetrieb Einführung „RIS-Internet/ -Extranet persönlich“ für Bezirksausschussmitglieder Information zur Kooperationsplattform „Alfresco“
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: (U) Grundsatzbeschluss II Klimaneutrales München 2035 und klimaneutrale Stadtverwaltung 2030: Von der Vision zur Aktion
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.16.1.: Die Impf-Guides kommen in Ihren Stadtbezirk; Schreiben des Gesundheitsreferates
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.6.1.: Dringlichkeitsantrag durch den Vorsitzenden zur Verkürzung der Sitzung
+- TOP 2.6.15.: Energieunabhängigkeit von Russland: Steinkohleimport für HKW Nord stoppen; Dringlichkeitsantrag der Fraktion Bündnis 90 / Die Grünen
+- TOP 1.2.1.: Nachträge: 2.2.14: Dorpater Str. 7 - Errichtung eines Mehrfamilienhauses mit Tiefgarage 2.6.15: Energieunabhängigkeit von Russland: Steinkohleimport für HKW Nord stoppen; Dringlichkeitsantrag der Fraktion Bündnis 90 / Die Grünen 3.3.37: (A) Flughafenanbindung - viergleisiger Ausbau der Strecke Daglfing-Johanneskirchen
+- TOP 7.7.1.: Baumfällungen (Unterrichtungen): Beckmesserstr. 21 Düppelerstr. 27 Kufsteiner Pl. 5 OberföhringerStr. 274 Wernerstr. 6
