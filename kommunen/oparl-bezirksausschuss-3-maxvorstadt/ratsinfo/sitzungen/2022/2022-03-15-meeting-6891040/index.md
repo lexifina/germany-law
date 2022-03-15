@@ -1,0 +1,214 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891040
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891040
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Türkenstraße 50, Antwort Referat für Stadtplanung und Bauordnung zur Stellungnahme des BAs
+- TOP 6.2.: Entschärfung Einmündung Hahnenstraße
+- TOP 6.3.: Straßenbenennung nach Frauen forcieren
+- TOP 6.4.: Keine IAA mehr auf öffentlichen Plätzen und Grünflächen in der Maxvorstadt
+- TOP 6.5.: Zwischennachricht zu Einstellung der Arbeiten am Bebauungsplan Nr. 2140
+- TOP 6.6.: Begrünung der Amalienstraße
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: Fraktionsübergreifende Coronagruppe
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Abriss Gebäude Türkenstr. 96
+- TOP 1.1.2.: Baumfällung einer Akazie ca. 10 Jahre alt / Norkauer Platz Ecke Dachauer- Augustenstraße
+- TOP 1.1.3.: "Plangemäßes" Ausholzen neue Pinakothek ab Montag, 14.02.22
+- TOP 1.2: Anträge
+- TOP 1.2.1.: entfällt
+- TOP 1.2.2.: Antrag auf Auskunft über Erteilung der Abgeschlossenheitsbescheinigung nach dem Wohnungseigentumsgesetz in Erhaltungssatzungsgebieten
+- TOP 1.2.3.: Prüfung Zustand Bäume Katharina-von-Bora-Str. 11 und ggf. Ersetzung
+- TOP 1.2.4.: Leerstand Haus Tengstr. 7, ehemaliges Kapuzinerkloster/St. Joseph Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden
+- TOP 1.2.5.: Schutz der Baumgräben in der Spatenstraße
+- TOP 1.2.6.: Antrag auf Wiederherstellung der Grünfläche an der Tram-Haltestelle Hauptbahnhof Nord in der Dachauer Straße: Nachpflanzung der Bäume und Entfernung des blauen Containers
+- TOP 1.2.7.: Transparenz der Pläne von Apple für die Seidlstraße 15 bis 19
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 4 - 8
+- TOP 2.1.2.: WEB-Listen der LBK: KW 3 - 4 und KW 7 - 8
+- TOP 2.1.3.: Neureutherstr. 13, TEKTUR, Abbruch Dach, DG+ Speicher, Neubau 2-gesch. DG als Mansardendach mit Ausbau von 7 WE
+- TOP 2.1.4.: Schönfeldstr. 14, GENEHMIGUNGSVERLÄNGERUNG, Sanierung und Erweiterung einer Wohnanlage durch Aufstockung eines Wohn- und Geschäftsgebäudes: Aufstockung VGB + RGB, Anbau Fluchttreppe (Südfassade) und Aufzugsturm, Zusammenlegung von Wohnungen (EG, 1. + 5. OG) Neubau Müllraum (UG) und barrierefreier Eingangsbereich (EG) sowie Erneuerung Balkone
+- TOP 2.1.5.: Linprunstr. 12, VORBESCHEID, Variante A Aufstockung und Nutzungsänderung RGB zum Wohnen, Variante B Aufstockung und Nutzungsänderung RGB zu Gewerbe/Büro, Variante C Abbruch RGB und Errichten zweigeschossigen Anbaus an das Wohngebäude
+- TOP 2.1.6.: Barer Str. 52, VORBESCHEID, Aufstockung sowie Balkonanbau und Lifteinbau
+- TOP 2.1.7.: Georgenstr. 35, Nutzungsänderung von Ladeneinheit in ein Café mit FSF
+- TOP 2.1.8.: Gabelsbergerstr. 28, VORBESCHEID, Neubau eines Wohn-, Büro- und Geschäftsgebäudes mit TG
+- TOP 2.1.9.: Gabelsbergerstr. 28, TEKTUR, Nutzungsänderung von Ausstellungs-/Auktionshaus zu Online-Supermarkt Gorillas
+- TOP 2.1.10.: Augustenstr. 33 a, VORBESCHEID, Aufstockung und Nutzungsänderung eines Gewerbegebäudes in ein Wohn und Geschäftshaus
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Fällungsantrag Kaulbachstr. 37
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 5.2.: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Antwort LBK und Vorbescheid, Zieblandstraße 5
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Wildes Campen und nächtliche Ruhestörung Sandstr.
+- TOP 1.1.2.: Situation "Fahrradstraße" Tengstraße
+- TOP 1.1.3.: Taxi Situation Theresien/Ecke Ludwigstraße
+- TOP 1.1.4.: Hundetreff Arnulfpark
+- TOP 1.1.5.: Einfacherer Zugang zur Fahrradabstellhalle am Starnberger Bahnhof
+- TOP 1.1.6.: Fußgängerbehinderung Arcisstr.- Neue Pinakothek
+- TOP 1.1.7.: Nutzung des öffentlichen Raums / Förderung gesundheitschädlichen Tabakkonsums in München
+- TOP 1.1.8.: Frage Fahrradstellplätze
+- TOP 1.1.9.: Bürgerschreiben wegen unerträglicher Lärmbeschallung
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Nachfrage zu Veranstaltungsrichtlinien der LHM
+- TOP 1.2.2.: Antrag auf Grüne Welle für den Fahrradverkehr in der Gabelsbergerstraße
+- TOP 1.2.3.: Antrag auf Abgleich zwischen Anwohnertiefgaragennutzung Josephsplatz und Parkscheinen in Parklizenzgebieten
+- TOP 1.2.4.: Antrag Lieferzeiten Rudi-Hierl-Platz
+- TOP 1.2.5.: Veranstaltungsrichtlinien für den Königsplatz modifizieren
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Stellungnahme des BA zum Bürger*innenanliegen Deroystraße - Tempo-30-Zone - (Bürgeranliegen TOP C 1.1.6/ 08 2021)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Errichtung von allgemeinen Behindertenparkplätzen vor Arnulfstraße 2
+- TOP 2.2.2.: BA-Anhörung Beschlussvorlage Dialog-Displays
+- TOP 2.2.3.: Erinnerungsverfahren Schönfeldstraße Bauschaden und Straßenunterhalt
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Hiltenspergerstr. 8, Kleingaststätte "Lo Spuntino"; Antrag Parkplatz-Freischankfläche (Schanigarten)
+- TOP 2.3.2.: Steinheilstr. 16, Gaststätte "Steinheil16"; Antrag seitliche Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.3.: Genehmigung einer Parkplatz-Freischankfläche (Corona) – Gaststätte "Laden", Türkenstr. 37, 80799 München
+- TOP 2.3.4.: Beschlussvorlage Theresienstr. 130 Parkplatz-FSF Harlekin
+- TOP 2.3.5.: Freischankflächenantrag auf dem Parkplatz- Amalienstr. 39 links Gaststätte Asaka
+- TOP 2.3.6.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 46 Gaststätte Pommes Boutique
+- TOP 2.3.7.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 51 Gaststätte Zum Koreaner
+- TOP 2.3.8.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 37 Gaststätte Asia Bistro Minh
+- TOP 2.3.9.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 21 Gaststätte Viet-Thai
+- TOP 2.3.10.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 34 Gaststätte Sesam öffne Dich
+- TOP 2.3.11.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 23 Gaststätte Home 23
+- TOP 2.3.12.: Freischankflächenantrag auf Parkplätzen - Amalienstr. 97 - Bar Tapas
+- TOP 2.3.13.: Georgenstr. 35, Gaststätte "TH Café"; Neuantrag fassadenseitige Freischankfläche
+- TOP 2.3.14.: Freischankflächenantrag auf dem Parkplatz - Türkenstr. 29 - Gaststätte Katzentempel
+- TOP 2.3.15.: Freischankflächenantrag - seitliche Erweiterung - Adalbertstr. 6 - Billys Coffe & Kiosk
+- TOP 2.3.16.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 44 - Gaststätte Piccolina
+- TOP 2.3.17.: Freischankflächenantrag auf dem Parkplatz - Veterinärstr. 10 - Eiscafe "I love leo"
+- TOP 2.3.18.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 53 - Gaststätte Nudo
+- TOP 2.3.19.: Freischankflächenantrag - Ludwigstr. 24 - Cafe an der Uni (Cadu) - seitliche Erweiterung
+- TOP 2.3.20.: Seidlstr. 2 A, Gaststätte "Kolis Bar"; Antrag seitliche Erweiterung einer bestehenden FSF
+- TOP 2.3.21.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 41 - Gaststätte "Maex 41"
+- TOP 2.3.22.: Freischankflächenantrag auf dem Parkplatz - Adalbertstr. 15 - Gaststätte "Bei Mario"
+- TOP 2.3.23.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 38 - Gaststätte "Limoni"
+- TOP 2.3.24.: FSFantrag auf dem Parkplatz - Türkenstr. 60 - Gaststätte "The Victorian House Brown´s"
+- TOP 2.3.25.: FSFantrag auf dem Parkplatz - Amalienstr. 39 rechts - Gaststätte "Creole Touch"
+- TOP 2.3.26.: Freischankflächenantrag auf dem Parkplatz - Veterinärstr. 4 - Gaststätte "Dinatale Cafe"
+- TOP 2.3.27.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 40 - Gaststätte "Deli Star"
+- TOP 2.3.28.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 55 - Gaststätte "55 Eleven"
+- TOP 2.3.29.: Freischankflächenantrag auf dem Parkplatz - Amalienstr. 26 - Gaststätte "Sehnsucht"
+- TOP 2.3.30.: FSFantrag auf dem Parkplatz - Wittelsbacherplatz 2 - Gaststätte "Rocca Riviera"
+- TOP 2.3.31.: Freischankflächenantrag auf dem Parkplatz - Wittelsbacherplatz 1 - Gaststätte "Koi"
+- TOP 2.3.32.: Antrag auf Freischankfläche (Schanigarten) - Cafe "Paulo", Türkenstr. 69
+- TOP 2.3.33.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Salzkruste", Georgenstr. 45
+- TOP 2.3.34.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Super Nova", Türkenstr. 83
+- TOP 2.3.35.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Amistad", Georgenstr. 37
+- TOP 2.3.36.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Gratitude", Türkenstr. 55
+- TOP 2.3.37.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Freebird", Nordendstr. 12
+- TOP 2.3.38.: Antrag auf FSF (Schanigarten) - Kleingaststätte "Little Orange Box", Türkenstr. 61
+- TOP 2.3.39.: Antrag auf Freischankfläche (Schanigarten) - Cafe "Zeitgeist", Türkenstr. 74
+- TOP 2.3.40.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "LegenDary", Kurfürstenstr. 11
+- TOP 2.3.41.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Adria", Türkenstr. 59
+- TOP 2.3.42.: Antrag auf FSF (Schanigarten) - Gaststätte "Kurfürstenstüberl", Kurfürstenstr. 8
+- TOP 2.3.43.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Ruff&#039;s Burger", Türkenstr. 63
+- TOP 2.3.44.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Barer 61
+- TOP 2.3.45.: Antrag auf Freischankfläche (Schanigarten) - Konditorei-Cafe "Cafe Ignaz", Georgenstr. 67
+- TOP 2.3.46.: Antrag auf FSF(Schanigarten) - Gaststätte "Der kleine Kranich", Neureuther Str. 21
+- TOP 2.3.47.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Kun Tuk", Amalienstr. 81
+- TOP 2.3.48.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Katopazzo", Amalienstr. 87
+- TOP 2.3.49.: Antrag auf FSF (Schanigarten u. sonstige Erweiterung) - "Le Refuge", Neureuther Str. 8
+- TOP 2.3.50.: Antrag auf FSF (Schanigarten) - Kleingaststätte "Café Eigenleben", Kurfürstenstr.
+- TOP 2.3.51.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Epikur", Neureuther Str. 24
+- TOP 2.3.52.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Alter Simpl", Türkenstr. 57
+- TOP 2.3.53.: Antrag auf Freischankfläche (Schanigarten) - Konditorei-Cafe "Schneller", Amalienstr. 59
+- TOP 2.3.54.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Türkenhof", Türkenstr. 78
+- TOP 2.3.55.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte Taco Company", Amalienstr. 6
+- TOP 2.3.56.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte Taco Company", Amalienstr. 69
+- TOP 2.3.57.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Rossini", Türkenstr. 76
+- TOP 2.3.58.: Antrag auf FSF (Schanigarten) - Erlaubnisfreie Gaststätte "Dinatale", Amalienstr. 71
+- TOP 2.3.59.: Antrag auf FSF (Schanigarten und sonstige Erweiterung) - "Atzinger", Schellingstr. 9
+- TOP 2.3.60.: Antrag auf FSF (Erweiterung einer bestehenden FSF) - Gaststätte "SODA", Türkenstr. 51
+- TOP 2.3.61.: Antrag auf FSF (Erweiterung bestehender FSF) - "Osteria Italiana", Schellingstr. 62
+- TOP 2.3.62.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Ciao Ragazzi", Schellingstr. 2
+- TOP 2.3.63.: Antrag auf Freischankfläche (Schanigarten) - Gaststätte "Pavesi", Türkenstr. 67
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Oskar-von-Miller-Ring 1/ Ecke Brienner Str. | Anhörung § 29 StVO für "Tag des Bayerischen Bieres 2022" am 25.04.2022
+- TOP 2.4.2.: Königsplatz (Bez.3) - Gedenkveranstaltung "München liest aus verbrannten Büchern" am 10.05.2022
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Neuer Ansprechpartner bei der MVG
+- TOP 3.2.: Planfeststellungsbeschluss Straßenbahn-Wendeschleife Knoten Dachauer Straße
+- TOP 3.3.: Bau eines dritten Tram-Gleises am Bahnhofsvorplatz München Hauptbahnhof - Antrag auf Änderung der Planfeststellung nach §28 PBefG_Tektur c_hier: Temporäre Anpassung des Bahnsteigs während der Baumaßnahme Bahnhofplatz 7
+- TOP 3.4.: IAA Mobility 2021- Bericht über die Einhaltung der Stadtratsvorgaben Sitzungsvorlage 20-26/ V 04920
+- TOP 3.5.: Antwort auf Bürger*innenanliegen zur Verbesserung des Radverkehrs
+- TOP 3.6.: Antwort MOR auf Bürger*innenanliegen Baustelle Schleißheimer Straße
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Christbaum am Josephsplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Genehmigungsantrag Spielen in der Stadt e.V. für Zirkus Pumpernudl ab April 2022
+- TOP 2.2.: (E) Stadtbezirksbudget pro familia Ortsverband München e.V. Sanierung des Fußbodenbelags vom 01.05. - 01.06.2022 9.427,00 Euro, Az.: 0262.0-3-0393
+- TOP 2.3.: Zuwendung aus Stadtbezirksbudget Änderung Zuwendungszweck von Bau Fensterbrett auf Errichtung Schanigarten
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Entwurf des Mehrjahresinvestitionsprogramms für 2021-2025
+- TOP 4.2.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.3.: (U) Haushaltsplan 2022 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.4.: (U) Haushaltsplan 2022 -Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.5.: (U) Haushaltsplan 2022 - Produkt- und Zielorientierte Ansätze Zuschussnehmerdatei 2022 Vollzug des Haushaltsplanes 2022 für den Bereich "Förderung freie Träger" des Sozialreferats/Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE), Gesellschaftliches Engagement/Unternehmensengagement (CSR) und Geschäftsleitung/Sozialplanung
+- TOP 4.6.: MobilSpiel e.V. Rundschreiben 2022
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Stand-Up Comedy Club in Maxvorstadt
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Zweckentfremdung bei der Zwischennutzung im ehemaligen Gesundheitsreferat?
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür - PLAN H aus München für München von April - November 2022 9.499,00 Euro, Az.: 0262.0-3-0386
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "ArtSchnitzel" ArtSchnitzel - interaktive Schnitzeljagd auf dem Kunstareal von April - November 2022 3.000,00 Euro, Az.: 0262.0-3-0388
+- TOP 2.3.: (E) Stadtbezirksbudget Bahnwärter Kulturstätten GmbH Kunstausstellung bei der Minna Thiel vom 10.02. - 20.03.2022 3.714,67 Euro, Az.: 0262.0-3-0387
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "Tanztheater" Wer nicht verrückt wird, der ist nicht normal! - Tanztheater für die ganze Familie am 13./14.05.2022 2.760,00 Euro, Az.: 0262.0-3-0392
+- TOP 2.5.: (E) Stadtbezirksbudget Kunstraum Schwabinggrad Einzelausstellung "Make yourself uncomfortable" vom 18.02. - 29.04.2022 1.000,00 Euro, Az.: 0262.0-3-0391
+- TOP 2.6.: (E) Stadtbezirksbudget BrückenBauen gUG "Land der Kulturen" - Eine Wanderausstellung von Menschen mit Fluchterfahrung am 18./19.03.2022 492,75 Euro, Az.: 0262.0-3-0390
+- TOP 2.7.: Fachstelle MoNa – Moderation der Nacht Vorschläge für Flächen, die für Veranstaltungen genutzt werden können
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Bürgerversammlungen 2022 / Haushaltseinladungen; hier: Beiblatt mit Informationen zum Bezirksausschuss
+- TOP 1.2.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032, hier: Abfrage mit der Bitte um Rückmeldung bis Anfang Mai 2022 (vertagt aus 02/22)
+- TOP 1.3.: STEP 2040: Einladung zur BA-Beteiligung der Gruppe "Mitte"
+- TOP 1.4.: Bürgerversammlungen 2022 / Haushaltseinladungen; hier: Beiblatt mit Informationen zum Bezirksausschuss
+- TOP 1.5.: Einladung zur Veranstaltung Nahverkehrsplan der Landeshauptstadt München - Themenfeld Infrastruktur am 30.03.2022 von 18.00 bis 20.30 Uhr
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.4.: (E) Stadtbezirksbudget MobilSpiel e.V. Kicklusion - Inklusion in Bewegung vom 06. - 10.05.2022 5.180,00 Euro, Az.: 0262.0-3-0394
+- TOP 3.: Aktuelle Sachstandsberichte
