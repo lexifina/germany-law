@@ -1,0 +1,71 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf zur Beschlussfassung über den Haushalt 2022/2023
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2022-03-16T17:00:00+01:00
+- Ende: 2022-03-16T22:46:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5979
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5979
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - (offen)
+- TOP 1.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 6. Sitzung der BVV am 16.03.2022 - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Konsensliste zur Beschlussfassung der Dringlichkeiten der 6. Sitzung der BVV am 16.03.2022 - ohne Änderungen in der BVV beschlossen
+- TOP 1.3: Solidarität mit den Kriegsopfern in der Ukraine - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Wahl eines / einer stellv. Schriftführers/in in den Vorstand der BVV - vertagt
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 6. Sitzung der BVV am 16.03.2022 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Beschlussfassung über den Haushaltsplanentwurf 2022 / 2023 - (offen)
+- TOP 4.1: Entwurf des Bezirkshaushaltsplanes Reinickendorf für die Haushaltsjahre 2022 und 2023 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 4.2: Änderung am Zahlenteil des Entwurfs des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2022 und 2023 (Doppelhaushalt) in Umsetzung des Schreibens der Se-natsverwaltung für Finanzen vom 01.03.2022 zur Ankündigung von Globalsummenerhöhungen - ohne Änderungen in der BVV beschlossen
+- TOP 4.3: Änderungen am Zahlenteil des Entwurfs des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2022 und 2023 (Doppelhaushalt) - 2. Nachschiebeliste - Beschlussempfehlungen des Hauptausschusses - mit Änderungen in der BVV beschlossen
+- TOP 4.4: Haushaltsschwerpunkte Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 4.5: Arbeitsfähgkeit aller Abteilungen sicherstellen - in der BVV abgelehnt
+- TOP 4.6: Langfristige Raumplanung des Bezirksamtes - in der BVV abgelehnt
+- TOP 4.7: Qualifizierter Sperrvermerk: Haushaltstitel Pauschale Mehrausgaben - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Beschlussfassung - (offen)
+- TOP 5.1: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl der Patientenfürsprechenden für die Kliniken im Bezirk Reinickendorf - vertagt
+- TOP 6: Anträge - (offen)
+- TOP 6.1: Feststellung zur Verlängerung der außergewöhnlichen Notlage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Wahl von Bürgerdeputierten in den Ausschuss für Partizipation und Integration - gewählt
+- TOP 7: Ersuchen - (offen)
+- TOP 7.1: Klimaschutzvorbehalt - überwiesen
+- TOP 7.2: Öffentliche Informationsveranstaltungen zur Corona-Pandemie - überwiesen
+- TOP 7.3: Allgemeinen Ordnungsdienst (AOD) sachgerecht ausstatten - überwiesen
+- TOP 7.4: Solarenergieziel in Reinickendorf zügig umsetzen - überwiesen
+- TOP 7.5: Jubiläumsfeierlichkeiten 775 Jahre Lübars im Sommer 2022 - überwiesen
+- TOP 7.6: Rollbergesiedlung kinder- und familienfreundlicher gestalten - überwiesen
+- TOP 7.7: BücherboXX in Reinickendorf - überwiesen
+- TOP 7.8: Bau eines Spielplatzes im Ortsteil Lübars - überwiesen
+- TOP 7.9: Sauberes Reinickendorf / Rückführung herrenloser Einkaufswagen ausweiten - überwiesen
+- TOP 7.10: Rettungsringe am Schäfersee - überwiesen
+- TOP 7.11: Heinsestraße der Zukunft - überwiesen
+- TOP 7.12: Sanierung der Toiletten im Ernst-Reuter-Saal - überwiesen
+- TOP 7.13: Errichtung von Parkbänken Klötzesteig/Ecke Wittenauer Straße - überwiesen
+- TOP 7.14: Schul- und Sportstättensanierungsprogramm transparent entscheiden - überwiesen
+- TOP 7.15: Öffentliche Toilette im Dorfkern Lübars "begrünen" - überwiesen
+- TOP 7.16: "Progress-Pride-Flagge" am 17.05.2022 hissen - ohne Änderungen in der BVV beschlossen
+- TOP 7.17: Stärkung von VIOLA - erledigt
+- TOP 7.18: Erhöhung der Investitionsmittel im Bereich Fußwege - in der BVV abgelehnt
+- TOP 7.19: Mehr Dialogdisplays in Reinickendorf - in der BVV abgelehnt
+- TOP 7.20: Zusätzliche Schutzräume aus dem Bezirkshaushalt finanzieren - in der BVV abgelehnt
+- TOP 7.21: Erhöhung der hauptberuflichen Altenpflegekräfte - in der BVV abgelehnt
+- TOP 7.22: Erhöhung des Etats für soziale Projekte gegen häusliche Gewalt - in der BVV abgelehnt
+- TOP 7.23: Schutzräume für Männer - in der BVV abgelehnt
+- TOP 7.24: Work-Life-Balance im Bezirksamt: Kindertagesstätte für die Beschäftigten des Bezirksamts Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 7.25: Prüfung und Schaffung von Unterbringungsmöglichkeiten für Geflüchtete - ohne Änderungen in der BVV beschlossen
+- TOP 8: Empfehlungen - (offen)
+- TOP 8.1: Bei Modernisierung der S-Bahnhöfe Frohnau und Waidmannslust die Bahnsteigdächer mindestens für Sechswagenzuglänge vorsehen - überwiesen
+- TOP 8.2: Bushaltestellen vor Vandalismus schützen - überwiesen
+- TOP 8.3: Rollbergesiedlung sicherer gestalten - überwiesen
+- TOP 8.4: Verbot des Überholens einspuriger Fahrzeuge auf Abschnitt der Schulzendorfer Straße - überwiesen
+- TOP 8.5: Erhöhung der Investitionsmittel Straßen- und Wegebau - in der BVV abgelehnt
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Politische Erklärung zur Verbesserung der gesamtstädtischen Steuerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Feststellungen - (offen)
+- TOP 10.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretende Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
