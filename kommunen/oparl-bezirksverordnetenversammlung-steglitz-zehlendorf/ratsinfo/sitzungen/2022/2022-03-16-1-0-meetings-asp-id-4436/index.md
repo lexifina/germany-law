@@ -1,0 +1,56 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf - Videokonferenz
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2022-03-16T17:00:00+01:00
+- Ende: 2022-03-16T23:00:00+01:00
+- Ort: Live-Übertragung im, Rathaus Zehlendorf
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4436
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4436
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - im Ausschuss abgelehnt
+- TOP 3.1: Möglicher Schulneubau auf dem Gelände des Jugendausbildungszentrum - beantwortet
+- TOP 3.2: Unterbringung von Kriegsflüchtlingen aus der Ukraine in Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Bezirkshaushalt durch die drastisch steigenden Lebensmittel- und Energiepreise betroffen? - beantwortet
+- TOP 3.4: Ahornstraße 15 – Leerstand aus guten Gründen? - beantwortet
+- TOP 3.5: Schäden durch Asphaltdübel für Straßenpoller - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl von Bürgerdeputierten für den Ausschuss für Partizipation und Integration - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für den Berliner Ruder-Club e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beleuchtung im Schweizerhofpark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2020 - überwiesen
+- TOP 5.2: Nur Bares ist Wahres! Anerkennungszulage im Gesundheitsamt - überwiesen
+- TOP 5.3: Hüttenwegsiedlung - überwiesen
+- TOP 5.4: THW Lerbacher Weg - überwiesen
+- TOP 5.5: Steglitz-Zehlendorf zur Age-friendly City machen - überwiesen
+- TOP 5.6: S-Bahnhof Zehlendorf - nur Ausgang Postplatz/Machnower Straße bauen - überwiesen
+- TOP 5.7: Flüchtlingsunterkünfte im Bezirk umgehend niederschwellig vorhalten - überwiesen
+- TOP 5.8: Mobiler Toiletten- und Dusch-Bus für obdachlose Menschen - überwiesen
+- TOP 5.9: Jährlicher Wohnungsneubaubericht - überwiesen
+- TOP 5.10: Ein Reset für das bezirkliche Wohnraumbündnis - überwiesen
+- TOP 5.11: Bezirkliche Kältehilfe zukunftssicher machen - überwiesen
+- TOP 5.12: Mit Verkehrsinsel die Schulwegsicherheit in der Crailsheimer Straße erhöhen - überwiesen
+- TOP 5.13: Wohin mit Hundekottüten Jenbacher Weg/Ecke Schütte-Lanz-Straße? - überwiesen
+- TOP 5.14: Clayallee/Finkenstraße – Glascontainer versetzen - überwiesen
+- TOP 5.15: Ergänzender Radweg am Dahlemer Weg/Wupperstraße - überwiesen
+- TOP 5.16: Platz schaffen für Ukraine-Flüchtlinge - überwiesen
+- TOP 5.17: Pilotprojekt: Grünstreifen und Baumscheiben im Schweizer Viertel schützen und aufwerten - überwiesen
+- TOP 5.18: Beratungen zum Bezirkshaushalt zukünftig nachvollziehbar gestalten - überwiesen
+- TOP 5.19: Vielfalt und Expertise sichtbar machen – Beiräte auf die Homepage! - überwiesen
+- TOP 5.20: Einsparpotentiale erkennen – Hin zu einem autofreien Bezirksamt - überwiesen
+- TOP 5.21: Grün erhalten, Bäume pflanzen - überwiesen
+- TOP 5.22: Sondernutzungsgebühren auch für verwahrlostes öffentliches Straßenland - überwiesen
+- TOP 6: Haushaltsangelegenheiten - erledigt
+- TOP 6.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Bezirkshaushaltsplan Steglitz-Zehlendorf für die Haushaltsjahre 2022 und 2023 (Doppelhaushaltsplan 2022/23) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Freizeitstätte im Bahnhof Lichterfelde-West - überwiesen
+- TOP 7.2: Leerstand Eisenbahnersiedlung aufheben - überwiesen
