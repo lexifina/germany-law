@@ -18,7 +18,7 @@
 - [12. Verfahren bei Bagatellsachen](0012.md)
 - [13. Vereinfachtes Verfahren (Vorentscheidungen)](0013.md)
 - [14. Genehmigungspflicht in besonderen Fällen](0014.md)
-- [15. Schutzmaßnahmen nach dem Infektionsschutzgesetz](0015.md)
+- [15. (weggefallen)](0015.md)
 - [16. Anhängige Strafverfahren](0016.md)
 - [17. Behandlung von Amnestiefällen](0017.md)
 
