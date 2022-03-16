@@ -1,0 +1,161 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2022-03-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6944783
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6944783
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - A-Teil, TOP 5.7: Budget für eigene Veranstaltungen, hier: Einwohnerversammlung am 25.04.2022 - UA Soziales, TOP 5.1: Treffen im BildungsLokal Giesing - UA Wirtschaft, TOP 1.1i, q,r: Freischanklächenanträge - UA Wirtschaft, TOP 1.2u: Freischankflächenantrag - UA Planung, TOP 2.19-2.26: Bauvorhaben - UA Planung, TOP 4.1: Entenbachstraße 6: Baugerüst - UA Mobilität, TOP 5.2: Trompetenbrunnen an der Gema, Bürgerbeschwerde - UA Mobilität, TOP 5.3: Ampel Oefelestraße/Humboldtstraße - UA Mobilität, TOP 5.4: Kirchliches Zentrum - UA Klima, zu TOP 2.2: dazu: Anhörung Abfallwirtschaftsbetrieb: Neue Wertstoffinsel an der Ecke Tauben-/Nockherstraße - UA Klima, TOP 5. 1: Vorstellung Projektidee: Saubere Straße - D-Teil, zu TOP 1.2: Bürgeranliegen
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Schulwegsicherheit Franziskus Grundschule (Kirchliches Zentrum) – Update: März 2022/II
+- TOP 5.2.: Migrations-/Integrationsbeauftragte* in BA-Satzung verankern
+- TOP 5.3.: Pop-Up Fahrradspuren in der Ohlmüllerstraße und auf der Reichenbachbrücke
+- TOP 5.4.: Radstellplätze an Kreuzungen in der Unteren Au
+- TOP 5.5.: Vermietung von Stellplätzen in Anwohnertiefgaragen
+- TOP 5.6.: Ganztagsbetreuung Grundschulkinder mit Bibliothek für die Untere Au
+- TOP 5.7.: Budget für eigene Veranstaltungen, hier: Einwohnerversammlung am 25.04.2022
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032 Verweisung aus der Sitzung vom 16.02.2022
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt März 2022
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Münchner Heldentheater e.V. Theaterprojekt „Leben des Galilei“ vom 21.03. - 03.07.2022 6.957,00 € / Az. 0262.0-5-0380
+- TOP II.2.: Realisierung des Kunstprojekts „The lick of a copper tongue“ im Rahmen des Programms „Public Art München – SOLO“ Anhörung Kulturreferat
+- TOP II.3.: Gestaltung von Gas-, Strom- und Verteilerstationen und Fassaden
+- TOP II.4.: 100. Geburtstag Carl Amery
+- TOP II.5.: Graffiti Gestaltung Tassiloplatz Nochmalige Nachfrage des Antragstellers
+- TOP II.6.: Nachbericht Ois Giasing Kultursommer 2021
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 0.: Vorstellung im UA
+- TOP 0.1.: Vorstellung des Projekts "Ran an die Koffer" durch die Kinder- und Jugendbeauftragte des BA 10 Moosach
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Schulworkshop „Flucht und Migration“ vom 22.03. - 15.08.2022 1.742,64 € / Az. 0262.0-5-0381
+- TOP 2.: Anhörungen
+- TOP 2.1.: Anfrage an den BA 5 zum Wildcampen im Kronepark
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Maßnahmen für Privatsphäre und Infektionsschutz im Bürgerbüro Orleansplatz ? (Anfrage)
+- TOP 3.2.: Beantragung von Sirenen für den Stadtbezirk 5
+- TOP 3.3.: Bitte um Unterstützung bei der Seniorenvertretungswahl
+- TOP 3.4.: Bestellung einer städtischen Leistung; Bepflanzung der Verkehrsinsel und Grünfläche am Kolumbusplatz
+- TOP 3.5.: Die Impf-Guides kommen in Ihren Stadtbezirk Schreiben Gesundheitsreferat
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: SportBoxen für die Einwohner:innen aus München (Au-Haidhausen)
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Berichte von Terminen / Vorgängen 11.02.22: Treffen im BildungsLokal Giesing
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Erweiterung von bestehenden Freischankflächen a) "Pirlo", Edlingerplatz 4 b) "Solino Cafe", Falkenstr. 17 (Erweiterung Gehweg und Genehmigung Parkbucht) c) "Kuzina", Kellerstr. 32 d) "Kalami", Kellerstr. 45 (Erweiterung Gehweg und Genehmigung Parkbucht) e) "Miss Lilly&#039;s", Oefelestr. 12 f) "Backspielhaus", Rosenheimer Platz 1 g) "Negroni Bar", Sedanstr. 9 h) "fortuna cafebar", Sedanstr. 18 i) "Hostaria Fratelli", Steinstr. 9 UND neuer Antrag j) "Vinaiolo", Steinstr. 42 k) "Piazzetta", Weißenburger Platz 8 l) "Dal Cavaliere", Weißenburger Str. 3 m) "Cafe La Maison", Weißenburger Str. 6 n) "Haidhauser Augustiner", Wörthstr. 34 (Gehweg und Parkbucht) o) "Il Cigno", Wörthstr. 39 (Gehweg und Parkbucht) p) "z&#039;wein", Johannisplatz 11 q) "Gino Parigi", Pariser Str. 17 r) "Passaparola", Sedanstr. 20
+- TOP 1.2.: Genehmigung von Freischankflächen a) "Teatro Bar Tapas", Balanstr. 23 b) "Solo Pizza", Bereiteranger 18 c) "Dolleck", Dollmannstr. 2 d) "Cafe Hüller", Eduard-Schmid-Str. 8 e) "Falke 23 im Alten Kreuz", Falkenstr. 23 f) "Santa Maria", Falkenstr. 38 g) "Humboldt&#039;s", Humboldtstr. 1 h) "La Sophia", Kolumbusstr. 1 i) "L&#039;Incontro", Lilienstr. 67 j) "Keko", Mariahilfstr. 24 (Gehweg und Parkbucht) k) "Noel Cafe", Metzstr. 8 l) "Fresh Kitchen", Ohlmüllerstr. 10 m) "Preysinggarten", Preysingstr. 69 n) "Leo&#039;s Lounge", Rosenheimer Str. 98 o) "La Fattoria", Schlotthauerstr. 16 p) "Apostels", Schweigerstr. 10 q) "Passaparola", Sedanstr. 20 r) "coffee box", Steinstr. 9 s) "Würzbar", Wörthstr. 11 t) "Henry hat Hunger", Zeppelinstr. 27 u) "Bazaar Noir", Preysingstr. 39
+- TOP 1.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) Dauerhafte Genehmigung coronabedingt temporär erlaubter Freischankflächen Informationsschreiben KVR
+- TOP 2.: Anhörungen
+- TOP 2.1.: Strandveranstaltung an der Corneliusbrücke (Bastion), vom 06.05. bis 06.08.2022
+- TOP 2.2.: Christbaum Orleansplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Aufenthaltsqualität auf der Nordseite des Mariahilfplatzes verbessern und Bestellung einer städtischen Leistung; Sitzgelegenheiten am Mariahilfplatz schaffen Empfehlung Nr. 20-26 / E 00117 der Bürgerversammlung vom 08.07.2021
+- TOP 3.2.: Sanierung Orleansplatz - keine Veranstaltungen bis September 2022 möglich
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Karl-Müller-Weg 2: Nutzungsänderung WC-Anlage zu öffentlicher WC-Anlage mit Gaststätte (an der Ludwigsbrücke); Tektur
+- TOP 2.2.: Ismaninger Str. 22: Einbau Maschinenraumloser Aufzug, Maschinenraum Dach entfällt, Verschiebung Dach und Außenwand, Stege 1 bis Dach, Aufzugsgerüst entfällt, Wand zwischen Aufzugschacht und Zugang, neue Träger für Schachtwand Lüftung Bestand, neue Bodenplatte; Tektur
+- TOP 2.3.: Edlingerstr. 9: Umbau des Dachgeschosses zu zwei Wohnungen und Aufstocken der bestehenden Garage mit weiteren zwei Wohnungen
+- TOP 2.4.: Ohlmüllerstr. 3: Dacherneuerung mit zwei Ebenen und Einbau von zwei Wohnungen (Maisonetten)
+- TOP 2.5.: Ohlmüllerstr. 3: Teilabbruch eines bestehenden Rückgebäudes mit Belassung der Kommunwände (Entkernung) sowie Anbau eines vorspringenden Gebäudeteils und der Errichtung von drei Wohnungen vom Erdgeschoss bis zum Dachgeschoss im bestehenden Rückgebäude; Tektur
+- TOP 2.6.: Trogerstr. 10: Nutzungsänderung eines ehemaligen Wohngebäudes in Büroflächen (EG-3.OG), Werkstätte mit Lager im KG
+- TOP 2.7.: Welfenstr. 15: Neubau einer Balkonkonstruktion im Erdgeschoss, Hinterhofseite
+- TOP 2.8.: Maria-Theresia-Str. 7: Errichten zweier Notleiteranlagen zur Gewährleistung des 2. Rettungsweges der Dachgeschoss-Wohnungen
+- TOP 2.9.: Mariahilfstr. 6, Rückgebäude: Dachgeschossneubau mit Dachanhebung und Errichtung von Balkonen mit integrierten Notleitern
+- TOP 2.10.: Holzhofstr. 3: Nutzungsänderung eines Lagergebäudes in ein Atelier
+- TOP 2.11.: Pariser Str. 25: Erweiterung einer Dachterrasse im 5. Obergeschoss (Dachgeschoss links - Vordergebäude)
+- TOP 2.12.: Orleansstr. 10 a: Errichten eines Wetterschutzes über einer Freitreppe
+- TOP 2.13.: Wörthstr. 7: Rückbau eines ausgebauten Dachgeschosses (2 Wohneinheiten) mit Neubau eines Geschosses und Dachgeschosses (gesamt 4 Wohneinheiten) auf dem Rückgebäude, Errichtung eines Außenaufzuges und Notleiteranlage am Rückgebäude und Zusammenlegung mit Nutzungsänderung von 2 Verkaufsflächen zu einer Gaststätte (mit Alkoholausschank) unter 40 Sitzplätzen im Vordergebäude
+- TOP 2.14.: Walserstr. 1: Einbau Zentralheizung und Solarthermieanlage sowie Grundrissänderung Physiotherapie; Tektur
+- TOP 2.15.: Braystr. 16: Ausbau Dachgeschoss 2 sowie Anbau eines Aufzugs; Tektur
+- TOP 2.16.: Bogenstr. 9: Nachträgliche Genehmigung eines Grenzanbaus sowie Abbruch eines Nebengebäudes
+- TOP 2.17.: Spicherenstr. 6: Einbau eines Aufzugs in das denkmalgeschützte Anwesen
+- TOP 2.18.: Stubenvollstr. 2: Nutzungsänderung und Umbau eines Hotels zu 65 Wohnungen mit Mobilitätskonzept
+- TOP 2.19.: Einsteinstr. 179: Neubau eines Dachgeschosses auf bestehendem Gebäude, Vorbescheid
+- TOP 2.20.: Kellerstr. 41: Nutzungsänderung: Ladenfläche zu Ladencafe
+- TOP 2.21.: Preysingstr. 26: Dachausbau des Vordergebäudes für eine zusätzliche Wohneinheit inkl. Erweiterung einer Wohneinheit und Erweiterung des Aufzugs, Neubau eines Rückgebäudes mit zwei Wohneinheiten => dazu: Baumfällungen
+- TOP 2.22.: Regerstr. 72: Nutzungsänderung eines ehemaligen Ladens in eine Großtagespflege ohne bauliche Änderung
+- TOP 2.23.: Rosenheimer Str. 72: Aufteilung der erdgeschossigen Ladenfläche zu zwei Ladeflächen, Einbau eines Lastenaufzuges, Einbau zweier Lager im Kellergeschoss
+- TOP 2.24.: Trogerstr. 12: Teilabbruch des Gebäudes Trogerstr. 12, das temporär bis zur Genehmigung eines neuen notwendigen Treppenhauses ungenützt ist
+- TOP 2.25.: Drächslstr. 14: Nutzungsänderung der Räume im 7. OG der Wohnung 19
+- TOP 2.26.: Jugendstr. 8-12: Umbau Dachgeschosse mit Ausbau Spitzboden, Zusammenlegung von Wohnungen, Einbau Dachflächenfenster, Loggien und Dachgauben, statische Ertüchtigung Dachtragwerk und Geschossdecken, Neueindeckung mit Aufsparrendämmung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.2.: Rückantwort der LBK zu Stellungnahmen BA 5: Metzstr. 37
+- TOP 3.3.: Zweckentfremdung Wohnraum Spicherenstraße 10 beenden
+- TOP 3.4.: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
+- TOP 3.5.: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Entenbachstraße 6: Baugerüst
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Verkehrsführung in der Kellerstraße wegen Baumaßnahmen der Stadtwerke
+- TOP 2.2.: Sanierung Radweg und Gehbahn Franziskanerstr. 19-49 und 14-38
+- TOP 2.3.: Regerplatz/Ackerstraße, Einrichtung von absoluten Haltverboten
+- TOP 2.4.: Maria-Theresia-Straße, Einrichtung eines Haltverbots
+- TOP 2.5.: Digitale Beteiligungsveranstaltung zur Mobilitätsstrategie 2035
+- TOP 2.6.: Dialog-Displays in München, Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Sichere Kreuzung Elsässer Straße/Breisacher Straße
+- TOP 3.2.: Erschwerte Einfahrtssituation in der Rosenheimer Str. 86
+- TOP 3.3.: Schul- und Gehwegsicherheit Rosenheimer Straße
+- TOP 3.4.: Verkehrssicherheit am Pestalozzigymnasium Protokoll Ortstermin vom 26.01.2022
+- TOP 3.5.: Bedarfsampel an der Ohlmüllerstraße
+- TOP 3.6.: Höchstgeschwindigkeit zwischen Auerfeldstraße 21 und Gebsattelstraße Ecke Regerplatz von 50 km/h auf 30 km/h senken
+- TOP 3.7.: Bahnparallele Wegeverbindung Welfenstraße
+- TOP 3.8.: Verkehrsrechtliche Anordnungen a) Balanstraße 4 auf gegenüber und 6; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze b) Rosenheimer Str. zwischen Ludwigsbrücke und Am Gasteig, Arbeiten wegen Fernkälte/Tram vom 28.02.22 bis 15.06.22
+- TOP 3.9.: Komplette Überarbeitung des Verbindungstunnels Ost-West und Architektur- und Landschaftswettbewerb des Ostbahnhofs Antwort Referat für Stadtplanung zum Schreiben BA 5 vom 02.12.2021
+- TOP 3.10.: Fussgängerzone Genoveva-Schauer-Platz: Einhaltung des Tempolimits Antwort Taxi-München eG zum Schreiben BA 5 vom 11.02.2022
+- TOP 3.11.: Gehwege von Motorrädern befreien
+- TOP 3.12.: Mittelfristige Maßnahmen an der Regerbrücke - Rückmeldung des Mobilitätsreferates Verweisung aus der Sitzung vom 22.09.2021
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Antrag für die Installation eines modalen Filters für den Zeitpunkt nach Fertigstellung der Sanierung der Ludwigsbrücken und der Wiederinbetriebnahme der Trambahn
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Priorisierung der Mobilitätsprojekte im BA 5 für das MOR Verweisung aus der Sitzung vom 16.02.2022
+- TOP 5.2.: Trompetenbrunnen an der Gema, Bürgerbeschwerde
+- TOP 5.3.: Ampel Oefelestraße/Humboldtstraße
+- TOP 5.4.: Kirchliches Zentrum
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Standortvorschläge für neue Wertstoffcontainer Sammelstellen
+- TOP 2.2.: Erneuter Antrag für eine Erweiterung der Wertstoffinsel in der Taubenstraße durch die Firma Wittmann => dazu: Anhörung Abfallwirtschaftsbetrieb: Neue Wertstoffinsel an der Ecke Tauben-/Nockherstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Nachbarschaftsgärten: Hochbeete an der Sommerstockbahn (Flurstraße)
+- TOP 3.2.: Unterrichtung über bevorstehende Gefahrenbaumfällungen im 5. Stadtbezirk
+- TOP 3.3.: Fällgenehmigung Metzstr. 35
+- TOP 3.4.: Abschalten eines Teils der Beleuchtung im Innenhof und am Gebäude Einsteinstr. 95 Empfehlung Nr. 20-26 / E 00113 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 08.07.2021; Ergänzendes Schreiben Referat für Klima und Umweltschutz
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Bepflanzung der Sedanstraße
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Vorstellung Projektidee: Saubere Straße
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 04.04.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 04.04.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 05.04.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 06.04.2022, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 06.04.2022, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 07.04.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Videokonferenz statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 27.04.2022, 19.00 Uhr, Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 29.03.2022, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Einwohnerversammlung zur künftigen Nutzung des Mariahilfplatzes: 25.04.2022 um 19 Uhr in der Mariahilfkirche Bürgerversammlung Au am 24.05.2022, 19 Uhr (Ort steht noch nicht fest) Bürgerversammlung Haidhausen am 31.05.2022, 19 Uhr, Hofbräukeller
+- TOP 5.: Verschiedenes
