@@ -1,0 +1,138 @@
+# 6. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2022-03-17T17:30:00+01:00
+- Ende: 2022-03-17T00:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5548
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5548
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=529313
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Verhinderung Abriss und Verdrängung der Mieter:innen - Vier unsanierte Gründerzeit-Mehrfamilienhäuser Schwedter Straße 247 & 248, Kastanienallee 67 & 68, 10119 Berlin; Gründerzeit-Mehrfamilienhäuser sollen zwangsversteigert, abgerissen und durch wenige Luxuswohnungen ersetzt werden.
+- TOP 2.2: Casinos und Wettbüros im Wedding
+- TOP 2.3: Unterstützung der BVV Mitte und des Bezirksamtes für die Mieter*innen des Mettmannkiezes gegen die Abrissplanungen der Bayer AG
+- TOP 3: Feststellen von Dringlichkeiten
+- TOP 4: Mitteilungen
+- TOP 4.1: des Vorstandes
+- TOP 4.2: der Fraktionen
+- TOP 4.3: der Ausschüsse
+- TOP 4.4: des Bezirksamtes
+- TOP 5: Konsenslisten
+- TOP 6: Thematische Stunde: Flüchtende aus der Ukraine BE: BA Mitte zudem: DS 0279/VI (MA), 0284/VI (MA), 0230/VI (GA), 0239/VI (A), 0240/VI (A), 0241/VI (A), 0243/VI (A), 0247/VI (A), 0250/VI (A)
+- TOP 6.1: Welche zusätzlichen Öffnungszeiten wurden für Geflüchtete aus der Ukraine eingerichtet?
+- TOP 6.2: Wie werden alleinreisende Frauen und Kinder gesondert geschützt und unterstützt?
+- TOP 6.3: Krieg in der Ukraine. Was macht Mitte?
+- TOP 6.4: Unterbringung von geflüchteten Menschen im Bezirk
+- TOP 6.5: Reibungslose und unbürokratische Aufnahme und Versorgung von Geflüchteten aus der Ukraine ermöglichen
+- TOP 6.6: Umfassende Unterstützung für Menschen aus der Ukraine – Schulen öffnen und Angebote anpassen
+- TOP 6.7: Solidarität mit der Ukraine zeigen
+- TOP 6.8: Bezirk auf ukrainische Kriegsflüchtlinge vorbereiten
+- TOP 6.9: Honorarmittel für Sprachmittlung "Ukrainisch-Deutsch"
+- TOP 7: Sondertagesordnungspunkt: Beratung und Beschlussfassung zum Haushaltsplanentwurf 2022/2023
+- TOP 7.1: Beratungsladen Machbar
+- TOP 7.2: Wünsche der Bürger:innen am Magdeburger Platz umsetzen
+- TOP 7.3: Haushaltsplanbeschluss 2022/2023
+- TOP 7.4: Auflagenbeschluss zum Haushalt 2022-2023
+- TOP 7.5: Mehr Geld und Stellen für das Sozial- und Bürgeramt!
+- TOP 7.6: über den Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltsjahre 2022 und 2023.
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Holsteiner Ufer als Fahrradstraße
+- TOP 8.2: Widerspruchsbescheide zur Umbenennung der Mohrenstraße
+- TOP 8.3: Landesfördermittel für den bezirklichen Klimaschutz ausschöpfen
+- TOP 8.4: Kein Ausgleich für Baumfällungen in Moabit?
+- TOP 8.5: Sperrmüllaktionstage in Mitte
+- TOP 8.6: Wann sind die Spiel- und Sportflächen am Nauener Platz endlich wieder nutzbar?
+- TOP 8.7: Was wird getan, um den Leerstand in der Schwedter Straße 247 & 248 und Kastanienallee 67 & 68 zu beenden?
+- TOP 8.8: Rathaus der Zukunft: Berücksichtigt das Bezirksamt die Wünsche der BVV bei den Planungen?
+- TOP 8.9: Digitalisierung für alle Generationen
+- TOP 8.10: Wildpinkeln am Arkonaplatz vermeiden
+- TOP 9: Dringlichkeitsanfragen
+- TOP 10: Große Anfragen
+- TOP 10.1: Unternehmensentwicklung im Bezirk Mitte
+- TOP 10.2: Gut zu Fuß in Mitte?
+- TOP 10.3: Sozialleistungsbewilligung im Sozialamt
+- TOP 10.4: Zeitnahe Information für Bürgerinnen und Bürger über bezirkliche Vorhaben
+- TOP 10.5: Nachhaltigkeit fördern durch Beratungsangebote
+- TOP 10.6: Grünordnungspläne als Bestandteile von Bebauungsplänen
+- TOP 10.7: Alternative Sportflächen in den Rehbergen
+- TOP 10.8: Sanierung durch private Initiativen
+- TOP 10.9: Das darf sich nicht wiederholen
+- TOP 10.10: Geplanter Kiezblock Potsdamer Straße / Schöneberger Ufer / Gleisdreieck
+- TOP 10.11: Bau des Spreeradweges in Berlin Mitte im Abschnitt Paulstraße/Lutherbrücke bis zur Bezirksgrenze Charlottenburg-Wilmersdorf II
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 11.1: über die Berufung eines beratenden Mitglieds und einer Stellvertretung aus der Katholi-schen Kirche für den Jugendhilfeausschuss (JHA)
+- TOP 11.2: über die Berufung eines beratenden Mitglieds für die Position zur Vertretung des Bezirks-schulbeirates im Jugendhilfeausschuss (JHA)
+- TOP 11.3: über die Berufung eines beratenden Mitglieds und einer Stellvertretung aus der Evangeli-schen Kirche für den Jugendhilfeausschuss (JHA)
+- TOP 11.4: über die Berufung eines beratenden Mitglieds aus freigeistigen Verbänden für den Ju-gendhilfeausschuss (JHA)
+- TOP 12: Vorlagen zur Beschlussfassung
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung
+- TOP 14: Dringlichkeitsanträge
+- TOP 15: Anträge
+- TOP 15.1: Kiezblock Auguststraße – sichere Straßen ohne Durchgangsverkehr
+- TOP 15.2: Cafe Leo vollständig erhalten!
+- TOP 15.3: 77 Jahre nach der Befreiung vom Faschismus und dem Ende des zweiten Weltkrieges – dem Tag der Befreiung angemessen im Bezirk gedenken
+- TOP 15.4: Wahl der Patient:innenfürsprecher:innen durch die BVV Mitte für die aktuelle Legislaturperiode 2021-2026
+- TOP 15.5: Streichung der pauschalen Minderausgaben des Bezirkshaushaltes Berlin Mitte
+- TOP 15.6: SIWA Mittel für Sanierung und Herrichtung von Dienstgebäuden
+- TOP 15.7: Gute Arbeit als integrierte Arbeitslinie im BA Mitte
+- TOP 15.8: Theaterbetrieb am Standort Monbijoupark
+- TOP 15.9: Maßnahmen zur Erhöhung der Verkehrssicherheit im Englischen Viertel
+- TOP 15.10: Betriebliche Mitbestimmung in Mitte stärken!
+- TOP 15.11: Runder Tisch Tegeler Straße
+- TOP 15.12: Kostenlose Sperrmülltage auch in 2022 und 2023 anbieten
+- TOP 15.13: Die Gedenkstätte Berliner Mauer zu einem rundum würdigen Gedenkort machen
+- TOP 15.14: Ressortübergreifend agieren - Stadtgrün durch integrierte Planung ausreichend berücksichtigen!
+- TOP 15.15: Street Art & Graffiti-Kunst fördern, Schmierereien verhindern
+- TOP 15.16: Kostenlos Pinkeln für Alle!
+- TOP 15.17: Kritische Infrastruktur– Karte für Straßenpumpen und Notwasserbrunnen in Mitte
+- TOP 15.18: Baumfällungen in der Holzmarktstraße 66 vor Ort ersetzen!
+- TOP 15.19: Sprengelpark sinnvoll erweitern und den Pekinger Platz neugestalten
+- TOP 15.20: Menstruationsprodukte kostenlos zur Verfügung stellen!
+- TOP 15.21: Keine „Strafgebühren“ für Widerspruch gegen die Umbenennung der Mohrenstraße
+- TOP 15.22: Sicherer Straßenübergang am Spreeufer Paulstraße
+- TOP 15.23: Das Engelbecken als Zentrum der Luisenstadt zusammen mit Friedrichshain-Kreuzberg und den Ehrenamtlichen vor Ort erneuern und pflegen
+- TOP 15.24: Ungarnstraße zur Fahrradstraße machen — Sicherheit und Klimafreundlichkeit hat Vorfahrt!
+- TOP 15.25: Mehr Grün am Engelbecken sowie Nutzung legaler Graffitiflächen fördern
+- TOP 15.26: Grünphasen der Ampelschaltungen in Mitte für den Fußverkehr verlängern
+- TOP 15.27: Flächendeckende Parkraumbewirtschaftung in Mitte — auch im Wedding!
+- TOP 15.28: Mieter*innen im Mettmannkiez unterstützen – Umstrukturierungssatzung für die Fennstraße 33,34/ Tegeler Straße 1 sowie Tegeler Straße 2-7 erlassen
+- TOP 16: Entschließungen
+- TOP 16.1: Kein Platz für Rechtsextreme in unserem Bezirk
+- TOP 16.2: Spiel
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen
+- TOP 17.1: Gefährdungsatlas Schul- und Kitawege
+- TOP 17.2: Auskömmliche Finanzierung aller Frauenprojekte im Bezirk im nächsten Doppelhaushalt
+- TOP 17.3: Präventionsarbeit im Kiez – Veranstaltungsformat retten durch qualifiziertes Beteiligen
+- TOP 17.4: Wedding: Rathausvorplatz für alle II
+- TOP 17.5: „Charta der Rücksicht“ für 2022 fortentwickeln!
+- TOP 17.6: Denkmal „Wohnungslose Bühne
+- TOP 17.7: Das Haus der Weisheit räumt die Rathenower Straße 16, obwohl es nicht in die Lehrter Straße 60 einziehen kann. Das Bezirksamt muss helfen, sonst droht die Moscheegemeinde zugrunde zu gehen
+- TOP 17.8: Sichere Wege und ausreichender Denkmalschutz, auch im Großen Tiergarten
+- TOP 17.9: Graffiti am Engelbecken entfernen
+- TOP 17.10: Verkehrsüberwachungsdienst verstetigen
+- TOP 17.11: Spiel- und Trainingszeiten in unserem Bezirk sicherstellen!
+- TOP 17.12: Mehr Anerkennung fürs Ehrenamt – Aufwandsentschädigung für ehrenamtlich Tätige im Bezirk
+- TOP 18: Vorlagen zur Kenntnisnahme
+- TOP 18.1: Biologische Vielfalt in Mitte – Modellprojekt in der Afrikanischen Straße 13 konzipieren und verwirklichen
+- TOP 18.2: Sanierungsziele in den Sanierungsgebieten in Mitte anpassen!
+- TOP 18.3: Fußverkehr statt Durchgangsverkehr im Brüsseler Kiez
+- TOP 18.4: Was macht Corona mit Unternehmerinnen und weiblichen Soloselbständigen in Mitte?
+- TOP 18.5: Eine:n Graffiti-Beauftragte:n für Berlin-Mitte
+- TOP 18.6: Rund um den Plötzensee
+- TOP 18.7: Krausenstraße ist kein Experimentierfeld
+- TOP 18.8: Information der BVV zu planungsrechtlich gefährdeten Wohngebäuden in Mitte
+- TOP 18.9: Krausenstraße
+- TOP 18.10: Den Park an der Südpanke sauber halten – geeignete Mülleimer aufstellen
+- TOP 18.11: Straßenschilder im Afrikanischen Viertel erneuern!
+- TOP 18.12: Mehr Mülleimer am Schillerpark
+- TOP 18.13: Sozial gerechten und gemeinwohlorientierten Wohnraum in der Habersaathstraße dauerhaft sicherstellen
+- TOP 18.14: Beschluss über die Einstellung des Aufstellungsverfahrens zum Bebauungsplan 1-79B (Turmstraße/Rathenower Straße)
+- TOP 18.15: Beschluss über die Änderung des räumlichen Geltungsbereichs des Bebauungsplanentwurfs I-32aa (Holzufer), die Änderung des Titels des Bebauungsplanentwurfs, die Durchführung der erneuten, eingeschränkten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 a Abs. 3 BauGB i. V. m. § 4 Abs. 2 BauGB.
+- TOP 18.16: Beschluss über das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB zum Entwurf des Bebauungsplans II-91-1 „Rathenower Straße 16“ und die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 2 BauGB
