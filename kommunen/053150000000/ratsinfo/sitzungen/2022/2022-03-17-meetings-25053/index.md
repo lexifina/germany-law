@@ -1,0 +1,113 @@
+# 15. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-17T15:42:00+01:00
+- Ende: 2022-03-17T21:54:00+01:00
+- Ort: Gürzenich, Großer Saal Martinstraße 29 – 37 50667 Köln INFEKTIONSSCHUTZ: Weniger Plätze für die Öffentlichkeit. Medizinische/FFP2-Maskenpflicht/Test/Immunisierungsnachweis erforderlich (s. Infektionschutzhinweise) Hinweis: Livestreamübertragung
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25053
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25053
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke.,, FDP, Volt, Die FRAKTION und von RM Gabrysch (KLIMA FREUDE) und RM Zimmermann (GUT Köln) betr. „Krieg und Flucht in Europa: Unterbringung und Versorgung der Kriegsflüchtlinge in Köln“ - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der SPD-Fraktion betreffend "24-h Abholterminal KUZ - endgültig abgelehnt
+- TOP 3.1.2: Antrag der AfD-Fraktion betreffend "Willkommenskultur für ukrainische Frauen und Kinder in Köln" - endgültig abgelehnt
+- TOP 3.1.3: Antrag der Fraktion Die FRAKTION betreffend "Beitritt in das Regionalbündnis Cradle to Cradle" - zurückgestellt
+- TOP 3.1.4: Antrag der SPD-Fraktion betreffend "Sozial- und Erziehungsdienste leisten unverzichtbare Arbeit – Dank und Wertschätzung sind das Gebot der Stunde" - geändert beschlossen
+- TOP 3.1.5: Antrag der AfD-Fraktion betreffend "Coronamaßnahmen für Kinder beenden" - endgültig abgelehnt
+- TOP 3.1.6: Antrag der Fraktion Die FRAKTION betreffend "ESport fördern - Anschlusszug nicht verpassen!" - endgültig abgelehnt
+- TOP 3.1.7: Antrag der Fraktion Die FRAKTION betreffend "Russland enteignen (Gebäude Friedrich-Engels-Straße)! - endgültig zurückgezogen
+- TOP 3.1.8: Antrag der Fraktion Die FRAKTION betreffend "Wieder A¨rger um Ko¨lner Spitzenamt - reloaded" - endgültig abgelehnt
+- TOP 3.1.9: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke., FDP, Volt, Die FRATION und von RM Gabrysch (KLIMA FREUNDE) und RM Zimmermann (GUT Köln) betreffend "Aufnahme und Versorgung geflüchteter Menschen aus der Ukraine" - ungeändert beschlossen
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.2.1: Anregung der Bezirksvertretung Rodenkirchen zur nachhaltigen Verbesserung des Services in den städtischen Kundenzentren - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der Fraktion Die FRAKTION betreffend "THC-Modellstadt Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 15.03.2022 - Kenntnis genommen
+- TOP 4.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke., Volt, Die FRAKTION und von RM Gabrysch (KLIMA FREUNDE) betreffend "Menschen auf der Flucht aufgrund der jüngsten Ereignisse in der Ukraine" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 17.03.2022 - Kenntnis genommen
+- TOP 4.3: Anfrage von RM Zimmermann (GUT Köln) betreffend "Städtepartnerschaft mit Wolgograd "auf Eis"?" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 17.03.2022 - Kenntnis genommen
+- TOP 4.4: Anfrage der Fraktion Die FRAKTION betreffend "Cradle to Cradle" - zurückgestellt
+- TOP 4.5: Anfrage der AfD-Fraktion betreffend "Vorbereitungen der Stadt Köln für Katastrophenfälle aber auch den Verteidigungsfall" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 17.03.2022 - Kenntnis genommen
+- TOP 4.6: Anfrage von RM Zimmermann (GUT Köln) betreffend "Auswirkungen auf den Klimaschutz" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 17.03.2022 - Kenntnis genommen
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Verlängerung des Durchführungszeitraumes für Sanierungsmaßnahmen im Geltungsbereich der Sanierungssatzung 'Umfeld Archäologische Zone am Rathaus' - ungeändert beschlossen
+- TOP 6.1.2: Änderung der Hauptsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 6.1.3: Stellplatzsatzung für Köln - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die FRAKTION - endgültig abgelehnt
+- TOP -: Änderungsantrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 7.2: Unterrichtung des Rates über Kostenerhöhung nach § 25 Abs. 2 KommHVO
+- TOP 7.2.1: Neubau von vier Mehrfamilienhäusern im öffentlich geförderten Wohnungsbau auf den städtischen Grundstücken Pater-Prinz-Weg 13-16, 50997 Köln-Rondorf - Kenntnis genommen
+- TOP 7.3: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2021 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - zurückgestellt
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Bedarfsanerkennung zur Ausstattung von Kölner Schulen mit Endgeräten nach dem "REACT-EU Förderprogramm" und dem "Förderprogramm Digitale Ausstattungsoffensive für Schulen in NRW" - ungeändert beschlossen
+- TOP 10.2: Vergabe der institutionellen Förderung von Interessenvertretungen der freien Szene - geändert beschlossen
+- TOP 10.3: Dritter Programmaufruf zum „Sofortprogramm zur Stärkung unserer Innenstädte und Zentren In Nordrhein-Westfalen des Ministeriums für Heimat, Kommunales, Bau und Gleichstellung des Lands NRW“ - ungeändert beschlossen
+- TOP 10.4: Vorrangige Nutzung des Erbbaurechtes bei der Veräußerung städtischer Grundstücke Baustein 1: Grundstücke für den Geschosswohnungsbau - geändert beschlossen
+- TOP 10.5: Planung und Kostenermittlung für das Gesamtkonzept der Bezirkssportanlage Bocklemünd - ungeändert beschlossen
+- TOP 10.6: Bedarfsfeststellungsbeschluss: Durchführung der 42. Hauptversammlung des Deutschen Städtetag - ungeändert beschlossen
+- TOP 10.7: Bezirkssportanlage Bocklemünd Planungsbeschluss neue Sporthalle - geändert beschlossen
+- TOP 10.8: Weiterentwicklung der niedrigschwelligen, ambulanten und offenen Kontakt- und Beratungsangebote in den Sozialpsychiatrischen Zentren (SPZ) - ungeändert beschlossen
+- TOP 10.9: Gründung einer Schulbaugesellschaft - ungeändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Die FRAKTION - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig abgelehnt
+- TOP 10.10: Schulrechtliche Errichtung einer Grundschule am Standort Alfons-Nowak-Straße 2, 50858 Köln bei gleichzeitiger Auflösung des Teilstandortes der Ildefons-Herwegen-Grundschule am Standort Donauweg 30, 50858 Köln-Junkersdorf zum Schuljahr - geändert beschlossen
+- TOP 10.11: Weiterentwicklung des Programms „Lebenswerte Veedel – bürger*innen- und sozialraumorientierte Zusammenarbeit in Köln“ - geändert beschlossen
+- TOP 10.12: Bedarfsfeststellung des Beschaffungsprogrammes 2022 für die Fahrzeuge des Brandschutzes, der Technischen Hilfeleistung und des Rettungsdienstes der Feuerwehr Köln - geändert beschlossen
+- TOP 10.13: Umlegungsanordnung für das Umlegungsgebiet U 461 in Köln-Roggendorf-Thenhoven (Straberger Weg) - ungeändert beschlossen
+- TOP 10.14: Teilnahme an der Landesinitiative „Durchstarten in Ausbildung und Arbeit“ - ungeändert beschlossen
+- TOP 10.15: Weiterführung des Projektes „Plan27“ - ungeändert beschlossen
+- TOP 10.16: Fortschreibung der Richtlinie "Gebäudesanierung und Erneuerbare Energien - klimafreundliches Wohnen" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig abgelehnt
+- TOP 10.17: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), Bericht 2022 - geändert beschlossen
+- TOP 10.18: Wahl des Beigeordneten Dezernat IX - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Die Linke., Die FRAKTION und von RM Gabrysch (KLIMA FREUNDE) - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, FDP und Volt - ungeändert beschlossen
+- TOP 10.19: polisMOBILITY 2022 Bedarfsfeststellung - ungeändert beschlossen
+- TOP 10.20: Leitlinien zum Klimaschutz in der Umsetzung nicht-städtischer Neubauvorhaben in Köln - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Die FRAKTION - endgültig abgelehnt
+- TOP 10.21: Römisch-Germanisches Museum - Baubeschluss für vorgezogene notwendige Sanierung der Abdichtung über Dombauhütte und Trafo - ungeändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 15: Weitere bauleitplanungsrechtliche Angelegenheiten
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 16.1: 280. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 17: Gremienbesetzungen
+- TOP 17.1: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte, hier: Ernennung Mitglieder für den Beirat Porz Mitte - ungeändert beschlossen
+- TOP 17.2: Kuratorium der Kölner Stiftung für psychisch Kranke und ihre Angehörigen- - endgültig zurückgezogen
+- TOP 17.3: Benennung von Delegierten und Gästen für die Mitgliederversammlung des Städtetages NRW am 1./2. Juni 2022 in Essen - geändert beschlossen
+- TOP 17.4: Antrag der Fraktion Volt betreffend "Neubesetzung Sachkundige*r Einwohner*in Gesundheitsausschuss" - ungeändert beschlossen
+- TOP 17.5: Antrag der Fraktion Bündnis 90/Die Grünen betreffend "TOP 17 Wahlen: Ausschuss Schule und Weiterbildung – Wechsel einer Sachkundigen Einwohnerin" - ungeändert beschlossen
+- TOP 17.6: Antrag der SPD-Fraktion betreffend "Umbesetzung Gleichstellungsausschuss" - ungeändert beschlossen
+- TOP 17.7: Antrag der Fraktion Die FRAKTION betreffend "Umbenennung von Sachkundigen Einwohnerinnen" - ungeändert beschlossen
+- TOP 17.8: Antrag der CDU-Fraktion betreffend "TOP 17 - Neuwahl eines stimmberechtigten Mitgliedes im Ausschuss für die Gleichstellung von Frauen und Männern" - ungeändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 18.1: Erhebung einer Klage gegen den GFG-Festsetzungsbescheid - ungeändert beschlossen
+- TOP 19: -
