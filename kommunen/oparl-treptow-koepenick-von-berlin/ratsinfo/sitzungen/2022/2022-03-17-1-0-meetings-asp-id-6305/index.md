@@ -1,0 +1,94 @@
+# 6. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-03-17T16:30:00+01:00
+- Ende: 2022-03-17T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6305
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6305
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=375451
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - mit Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - erledigt
+- TOP 6: Personelles / Wahlen - im Ausschuss abgelehnt
+- TOP 6.1: Wahl des Widerspruchsbeirates nach dem SGB IX und SGB XII - gewählt
+- TOP 6.2: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 6.3: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 6.4: Berufung beratender und stellvertretender beratender Mitglieder des Jugendhilfeausschusses - gewählt
+- TOP 6.5: Wahl der Kiezpatinnen und Kiezpaten - gewählt
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-04 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Begleitbeschluss zum Investitionsprogramm 2019-2023 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Sondermittel für den "Förderverein KIEZKLUB Bohnsdorf e. V." (SM 21-16) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Sondermittel für die Evangelisch-freikirchliche Gemeinde Berlin-Köpenick (Hofkirche) (SM 21-20) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Nutzungskonzept für die Alte Möbelfabrik in der Karlstraße – Neue Perspektiven für die Vereine "Alte Möbelfabrik" und "Sambakids" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Wenn der Postmann gar nicht klingelt – Grundversorgung mit postalischen Leistungen im Südosten sicherstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Überschwemmungsgebietsverordnung – Bürgerbeteiligung im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Kosten-Leistungsrechnung im Kulturbereich - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Ehrenamt stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Bronzeskulptur "Schwimmer" restaurieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Bewerbung des Förderprogramms "GründachPLUS" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Dachgrün und Photovoltaik bei Neubau und Nachverdichtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Veranstaltungen in kommunalen Kultureinrichtungen durch Luftfiltergeräte sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.8: Sondermittel für den "Behindertenverein Köpenick e. V." (SM 21-14) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Sondermittel für die Evangelische Kirchengemeinde Berlin-Treptow (SM 21-19) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.10: Kältehilfe für den Winter 2021/2022 sichern – Obdachlosenunterkunft "Die Arche" auskömmlich finanzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Zusammensetzung der AG Mobilität - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2022 und 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Fortschreibung Sportstättenentwicklungsplan - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Rechte von Kindern und Jugendlichen stärken – Errichtung eines Kinder- und Jugendparlamentes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Würdigung der bezirklichen Partnerstädte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Verkehrskonzept für den 1. FC Union - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Emissionsschutzwand auf der Ostseite des 16. Bauabschnitts der A100 realisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Elektromobilität auf dem Wasser fördern - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Freiräume für Jugendliche an Wochenenden ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Verkehrsberuhigung im Bereich Werderstraße / Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: WLAN in Sporthallen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Entgeltfreies WLAN in öffentlichen Einrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Keine Nachverdichtung von Wohngebieten durch Baugenehmigungen nach § 34 BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Fortschreibung des Demografiekonzepts - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Schulanmeldungen online! - vertagt
+- TOP 11.15: Hundegärten für Treptow-Köpenick - überwiesen
+- TOP 11.16: Rücksichtnahmegebot gegenüber Einfamilienhausgebieten bei Nachverdichtung einhalten - vertagt
+- TOP 11.17: Versprochenen Lärmschutz beim Straßenbahnneubau in Adlershof realisieren - vertagt
+- TOP 11.18: Chancen auf einen guten Schulstart ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Politische Erklärung zur Verbesserung der gesamtstädtischen Steuerung - vertagt
+- TOP 13: Anträge - im Ausschuss abgelehnt
+- TOP 13.1: Erhalt des Friedrichshagener Wochenmarkts - überwiesen
+- TOP 13.2: Information, Zuwegung und Beleuchtung zum barrierefreien Zugang zum Rathaus Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Tarifgerechte Bezahlung für Zuwendungsempfänger - im Ältestenrat zurückgezogen
+- TOP 13.4: Partnerstadt Cajamarca bei Neugestaltung des Umfelds des Bahnhofs Schöneweide und des Cajamarcaplatzes berücksichtigen - überwiesen
+- TOP 13.5: Müggelseedamm für Radfahrende sicherer machen - überwiesen
+- TOP 13.6: Straßenzustandsbericht für Treptow-Köpenick - überwiesen
+- TOP 13.7: Verbindliche Planungsaufnahme der Instandsetzung des Schloßplatzes Köpenick - überwiesen
+- TOP 13.8: Nein zu Krieg und Gewalt! Treptow-Köpenick als sicherer Hafen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Neueinrichtung der Stelle eines Mobilitätsmanagers (m/w/d) - überwiesen
+- TOP 13.10: Pilotprojekt "Bürohunde" auch im Bezirksamt Treptow-Köpenick durchführen - überwiesen
+- TOP 13.11: Jugendoffiziere der Bundeswehr in die Schulen in Treptow-Köpenick einbinden - überwiesen
+- TOP 13.12: Schul- und Sportstättensanierungsprogramm transparent entscheiden - überwiesen
+- TOP 13.13: Taubenpopulation - Probleme eingestehen, Verantwortung zeigen - überwiesen
+- TOP 13.14: Fachkräfte für das Bezirksamt gewinnen - überwiesen
+- TOP 13.15: Schutz gegen Vandalismus im Spreetunnel - überwiesen
+- TOP 13.16: Treptow-Köpenicker Bürgerhaushalt ausbauen - überwiesen
+- TOP 13.17: Hilfe für Geflüchtete aus der Ukraine - ohne Änderungen in der BVV beschlossen
+- TOP 13.18: Einrichtung von Parkzonen bzw. Parkraumbewirtschaftungszonen im Rahmen der kommunalen Nachhaltigkeitsstrategie - überwiesen
+- TOP 13.19: Infowagen "Alternative Botschaft" von Belarus unterstützen - mit Änderungen in der BVV beschlossen
+- TOP 13.20: Umbenennung des Ausschusses für Arbeit, Soziales, Gesundheit und Teilhabe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.21: Streuobstwiese Rudow - Pflege gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 13.22: Gemeinschaftsunterkunft Alfred-Randt-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Kunststofffilterelemente im Müggelsee - vertagt
