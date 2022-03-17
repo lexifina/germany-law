@@ -127,4 +127,5 @@ Unterabschnitt 2 Medizinische Wellness
 § 98 Weiterbildungsbezeichnung
 Teil 3 Schlussbestimmung
 § 99 Modellvorhaben
-§ 100 Inkrafttreten
+§ 100 Übergangsvorschriften
+§ 101 Inkrafttreten
