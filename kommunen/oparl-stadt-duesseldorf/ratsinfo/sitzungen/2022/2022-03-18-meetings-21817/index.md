@@ -1,0 +1,89 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-18T16:00:00+01:00
+- Ende: 2022-03-18T19:35:00+01:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21817
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21817
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung ö 18.03.2022 Stand:18.03.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443614.pdf
+- Ergebnisprotokoll: BV9 Sitzung ö 18.03.2022 Stand:18.03.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443614.pdf
+- Wortprotokoll: BV9 Sitzung ö 18.03.2022 Stand:18.03.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443614.pdf
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 04.03.2022 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 28.01.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Aktueller Sachstand Hochwasserschutzprojekte im Bereich Itter/Himmelgeist - mündlicher Vortrag
+- TOP 5.1.1: Teststrecken für Adaptionsleuchten im Stadtbezirk 9 - mündlicher Vortrag
+- TOP 5.2: Bonner Straße 121, Gut Niederheid - Grundsatzentscheidung zum weiteren Vorgehen - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Errichtung von drei B+R-Anlagen der Rheinbahn AG - Empfehlung einstimmig beschlossen
+- TOP 5.9: Neubau öffentliche Grünanlage mit Kinderspielplatz am Scheitenweg-Süd - Bedarfsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 5.10: Weiteres Vorgehen und Ergebnisse Workshop „Perspektiven Gewerbestandort Kappeler Straße“, Industriekernzone 9.3.A „Nördlich Münchener Straße“ - Empfehlung einstimmig beschlossen
+- TOP 5.11: Förderung Solarenergie in Gebieten mit Erhaltungssatzungen - zur Kenntnis genommen
+- TOP 5.12: GGS Steinkaul 27 - Namensänderung - einstimmig beschlossen
+- TOP 5.13: Benrather Märkte im Jahre 2022 - abweichend beschlossen
+- TOP 5.14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B+C - abweichend beschlossen
+- TOP 5.14.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B+C (Ergänzung) - einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Grünanlagen am Werstener Kreuz - Anfrage der SPD-Fraktion - vertagt
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Adaptionsstrecken Ohmweg und Sophienstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Darstellung der statistischen Wohnungsdaten für Stadtteile und Sozialräume - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 7.9: Wohnungsleerstand im Stadtbezirk 9 - Anfrage der Fraktion Bündnis 90/ Die Grünen - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Kleinbuslinie Holthausen-Itter-Himmelgeist - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 8.10: Radverkehr Benrather Schloßufer - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 8.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Benrather Kulturkreis - Ausstellungen „Madeleine-Effekt“ und „Jubiläums-Rundgang“ 2022 - einstimmig beschlossen
+- TOP 9.2: "Die Arche" Christliches Kinder- und Jugendwerk gGmbH - Gestaltung einer naturnahen Matschanlage - einstimmig beschlossen
+- TOP 9.3: Literaturbüro NRW e. V. - Bücherschrank in Wersten - einstimmig beschlossen
+- TOP 9.4: Wir in Wersten e. V. - Osterfeuer 2022 - einstimmig beschlossen
+- TOP 9.5: Wir in Wersten e. V. - Werstenrallye 2022 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Aufstellung eines Wartehäuschens an der Haltestelle Am Scheitenweg - Beschluss der Bezirksvertretung 9 vom 26.11.2021; BV9/295/2021 - zur Kenntnis genommen
+- TOP 10.2: Sachstand des Bebauungsplangebietes Nr. 09/011 Östlich Kölner Landstraße - Beschluss der Bezirksvertretung 9 vom 26.11.2021; BV9/292/2021 - zur Kenntnis genommen
+- TOP 10.3: RRX-Schallschutz im Bezirk 9 - Beschluss der Bezirksvertretung 9 vom 26.11.2021; BV9/284/2021 - zur Kenntnis genommen
+- TOP 10.4: Schulwegsicherung Südallee - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/153/2021 - zur Kenntnis genommen
+- TOP 10.5: Nachtrag zur Vorlage APS/147/2021 Hochhausrahmenplan in der BV9 Sitzung am 28.01.2022 - zur Kenntnis genommen
+- TOP 10.6: Nachtrag zur Informationsvorlage BV9/265/2021 Verlegung der Altglascontainer Südallee in der BV9 Sitzung vom 26.11.2021 - zur Kenntnis genommen
+- TOP 10.7: Mittelstreifen Hildener Straße - Beschluss der Bezirksvertretung 9 vom 02.10.2020; BV9/183/2020 - zur Kenntnis genommen
+- TOP 10.8: Dorfkern Alt-Urdenbach - Beschluss der Bezirksvertretung 9 vom 13.10.2017; 179/168/2017 - zur Kenntnis genommen
+- TOP 10.9: Benrath Sperrflächen - Beschluss der Bezirksvertretung 9 vom 28.01.2022; BV9/030/2022 - zur Kenntnis genommen
+- TOP 10.10: Leichlinger Straße: Erneuerung eines 30km/h-Verkehrszeichens und Auftragung von 30 km/h-Bodenpiktogrammen - Beschluss der Bezirksvertretung 9 vom 26.11.2021; BV9/275/2021 - zur Kenntnis genommen
