@@ -4,7 +4,7 @@
 - [§ 2 Sicherstellungsauftrag der Leistungsträger](0002.md)
 - [§ 3 Umsetzung des Sicherstellungsauftrages](0003.md)
 - [§ 4 Erstattungsanspruch](0004.md)
-- [§ 5 Zuständigkeit und Geltungsdauer](0005.md)
+- [§ 5 Zuständigkeit und Geltungsdauer; Verordnungsermächtigung](0005.md)
 - [§ 6 Datenschutz](0006.md)
 - [§ 7 Verwaltungsverfahren und Rechtsweg](0007.md)
 - [§ 8 Evaluation](0008.md)

@@ -40,7 +40,8 @@
 | § 20a | Immunitätsnachweis gegen COVID-19 |
 | § 20b | Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 |
 | § 21 | Impfstoffe |
-| § 22 | Impf-, Genesenen- und Testdokumentation, COVID-19-Zertifikate |
+| § 22 | Impf-, Genesenen- und Testdokumentation |
+| § 22a | Impf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung |
 | § 23 | Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder |
 | § 23a | Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten |
 |  |
