@@ -30,5 +30,4 @@
 ## Abschnitt 5 Schlussbestimmungen
 
 - [§ 13 Ordnungswidrigkeiten](0013.md)
-- [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
 - [Anlage](anlage.md)
