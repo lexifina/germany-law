@@ -1,0 +1,8 @@
+# TOP 5: Prüfung der Verwendungsnachweise 2021
+
+- Sitzung: 32. Sitzung des Ortschaftsrates Weixdorf (2022-03-21)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/163209
+- Ergebnis: Zustimmung mit Ergänzung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/51884
