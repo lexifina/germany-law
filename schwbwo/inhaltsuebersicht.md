@@ -43,5 +43,5 @@
 | § 27 | Wahl der Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Richter und Richterinnen |
 | Fünfter Teil |
 |  | Schlußvorschriften |
-| § 28 | Sonderregelungen aus Anlass der COVID-19-Pandemie |
+| § 28 | (weggefallen) |
 | § 29 | Inkrafttreten |
