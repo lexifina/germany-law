@@ -1,0 +1,53 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-22T15:00:00+01:00
+- Ende: 2022-03-22T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25097
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25097
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Rückfragen zur Beantwortung der Anfrage "Partizipation migrantischer Einrichtungen an den Mitteln, die im Jugendhilfeausschuss vergeben werden"
+- TOP -: Beantwortung der Rückfragen (AN/2051/2021) zur Beantwortung der Anfrage "Partizipation migrantischer Einrichtungen an den Mitteln, die im Jugendhilfeausschuss vergeben werden" - Kenntnis genommen
+- TOP 3.2: Anfrage: Einführung vegetarischer Tage in den Kantinen/Verpflegungseinrichtungen der Stadt Köln - zurückgestellt
+- TOP 3.3: Anfrage zur 2G Regelung in Köln
+- TOP -: Beantwortung der Anfrage zur Isolation ungeimpfter Personen (AN/2321/2021) - Kenntnis genommen
+- TOP 3.4: Anfrage zur Abfallentsorgung an der Homarstraße - zurückgestellt
+- TOP 3.5: Nachfrage zur Beantwortung einer ‚Anfrage zum Bericht Nationalitäten und Sprachen in Köln‘
+- TOP -: Beantwortung einer Nachfrage zur Beantwortung einer ‚Anfrage zum Bericht Nationalitäten und Sprachen in Köln‘ - Kenntnis genommen
+- TOP 3.6: Nachfrage zur Beantwortung der Anfrage "Sachstand herkunftssprachliche bilinguale Kitagruppen" - zurückgestellt
+- TOP 4: Aktuelle Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 4.1: Vorgriffregelung zur Ampel-Bleiberechtsvereinbarungen - zurückgestellt
+- TOP 4.2: Anfrage zur Anwendung eines Urteils des europäischen Gerichtshofes zur Niederlassungserlaubnis - zurückgestellt
+- TOP 4.3: Anfrage zum kolonialen Erbe der Stadt Köln - zurückgestellt
+- TOP 4.4: Anfrage: Verloren gegangene Unterlagen bei der Ausländer:innenbehörde - zurückgestellt
+- TOP 4.5: Anfage zur Passbeschaffung & Verlängerung eines Aufenthaltstitels - zurückgestellt
+- TOP 4.6: Anfrage - ÖPNV für Alle? - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Unterbringungsplanung für Geflüchtete inklusive Reserve für die Jahre 2022 - 2024 - Kenntnis genommen
+- TOP 5.2: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 5.3: Einjähriges Jubiläum des House of Resources in Köln - Kenntnis genommen
+- TOP 5.4: Begleitgremium zum kommunalen Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - Kenntnis genommen
+- TOP 5.5: Mitteilung zur Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; - Kenntnis genommen
+- TOP 5.6: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 5.7: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 5.8: Mitteilung zur Beantwortung einer mündlichen Anfrage: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 5.9: Quartalsbericht über die weiteren Entwicklungen im Ausländeramt 4. Quartal 2021 - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Verabschiedung des Positionspapieres ‚Identität stärken - natürliche Mehrsprachigkeit fördern!‘ - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Anerkennung von zwei neuen Interkulturellen Zentren in Köln - ungeändert beschlossen
+- TOP 8.2: Verteilung der Mittel zur Förderung eines neuen Interkulturellen Zentrums (Jama-Nyeta e.V.) für das Haushaltsjahr 2022 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
