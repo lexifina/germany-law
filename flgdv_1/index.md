@@ -6,6 +6,7 @@
 - [§ 1 Schlachtnummer](0001.md)
 - [§ 2 Verwiegung, Schnittführung](0002.md)
 - [§ 3 Protokoll](0003.md)
+- [§ 3a Datenverarbeitung und Datenübermittlung](0003a.md)
 
 ## Abschnitt 2 Preismeldungen
 

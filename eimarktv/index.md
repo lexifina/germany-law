@@ -3,8 +3,7 @@
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 1a Ausnahmen](0001a.md)
 - [§ 1b Verbot des Inverkehrbringens](0001b.md)
-- [§ 2 Rechnungen, Lieferscheine und sonstige
-Transportbegleitpapiere](0002.md)
+- [§ 2 Rechnungen, Lieferscheine und sonstige Transportbegleitpapiere](0002.md)
 - [§ 3 (weggefallen)](0003.md)
 - [§ 3a](0003a.md)
 - [§ 4 Marktnotierungen](0004.md)

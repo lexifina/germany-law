@@ -42,6 +42,7 @@
 - [§ 20b Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2](0020b.md)
 - [§ 21 Impfstoffe](0021.md)
 - [§ 22 Impf-, Genesenen- und Testdokumentation](0022.md)
+- [§ 22a Impf-, Genesenen und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung](0022a.md)
 - [§ 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder](0023.md)
 - [§ 23a Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten](0023a.md)
 

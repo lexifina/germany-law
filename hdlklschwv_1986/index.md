@@ -4,6 +4,7 @@
 - [§ 2 Einstufung in Handelsklassen](0002.md)
 - [§ 3 Protokoll](0003.md)
 - [§ 4 Kennzeichnung](0004.md)
+- [§ 4a Datenverarbeitung und Datenübermittlung](0004a.md)
 - [§ 5 Ordnungswidrigkeiten](0005.md)
 - [§ 6 Überwachung, Duldungs- und Auskunftspflichten](0006.md)
 - [Anlage 1 (zu § 1, § 2 Absatz 1 und § 4 Absatz 1)](anlage-1.md)
