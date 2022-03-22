@@ -62,5 +62,5 @@
 |  | Schlussvorschriften |
 | § 40 | Amtszeit der bestehenden Werkstatträte |
 | § 40a | (weggefallen) |
-| § 40b | Sonderregelung aus Anlass der COVID-19-Pandemie für das Wahlverfahren |
+| § 40b | (weggefallen) |
 | § 41 | Inkrafttreten |
