@@ -1,0 +1,60 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-22T16:00:00+01:00
+- Ende: 2022-03-22T00:00:00+01:00
+- Ort: Werner-von Siemens-Realschule, Rethelstraße 13, Aula
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21934
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21934
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442936.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442936.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442936.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/002/2022 vom 22.02.2022 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Workshopverfahren Nr. 02/019 - Froschkönigweg-Dornröschenweg - einstimmig beschlossen
+- TOP 5: Workshopverfahren Nr. 02/018 - Werdener Straße - Erkrather Straße (ehem. B8-Center) - Empfehlung einstimmig beschlossen
+- TOP 6: Flächennutzungsplanänderung Nr. 166 (Entwurf) - Grafental Ost - mehrheitlich beschlossen
+- TOP 7: Errichtung von drei B+R-Anlagen der Rheinbahn AG - mehrheitlich beschlossen
+- TOP 8: Ackerstraße 105- Beseitigung einer Lagerhalle und einer Garage im Bereich der Erhaltungssatzung für den Stadtbezirk 2 - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 9: Hilfsprogramm Ukraine - Antrag der FDP-Fraktion - zurückgezogen
+- TOP 10: Bezirksbezogene Haushaltsmittel für die Aktion Blumenoasen von Pro Düsseldorf - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 11: Finanzierung von 50 Blumenkübeln für das Jahr 2022 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 12: Bezirksbezogene Haushaltsmittel für Blumenkübel auf der Birkenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 13: Tempo 30 auf der Rethelstraße - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 14: Bunte Bänke für Toleranz und Sichtbarkeit - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 15: Zuwendungsantrag für die Wasserversorgung Kirmesplatz Flingern am Flinger Richtweg aus den städtischen Bauunterhaltungsmitteln (Liste B) - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 16: Zuwendung an den St. Sebastianus-Schützenverein Düsseldorf-Flingern e. V. 1868 zur Sanierung der Wasserleitungen auf dem Kirmesplatz am Flinger Richtweg aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 17: Bezirksbezogene Haushaltsmittel für den St. Rochus-St. Sebastianus Schützenverein Düsseldorf-Flingern e.V. - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 18: Bänke Brehmstraße - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 19: Neue Quartiersgaragen für den Stadtbezirk 2 - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 20: Änderung der Förderpraxis des Sportamtes - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 21: Zuwendung für das Projekt "ABC-Düsseldorf" - Antrag der Fraktionen von Bündnis 90/Die Grünen, CDU, SPD und FDP - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Kosten und Einnahmen Anwohnerparkausweiszonen - Anfrage der FDP-Fraktion - beantwortet
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 30: Nutzung der Verkehrsinsel Kreuzung Humboldstraße/Rethelstraße/Franklinbrücke - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Kosten der Pflege und des Erhalts der Fahrradwege im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 33: Bedeutung der Klimaachse Ost für den Stadtbezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 34: Bereich südliche Grafenberger Allee nähe Kreuzungsbereich Engerstraße - Anfrage der SPD-Fraktion
+- TOP 35: Schießsportlärm - Anfrage der CDU-Fraktion - beantwortet
+- TOP -: Informationsvorlagen
+- TOP 36: Ersatzbeschaffung für den Kinderspielplatz „Zum Märchenland“ - Beschluss der Bezirksvertretung 2, Vorlage BV2/007/2022 - zur Kenntnis genommen
+- TOP 37: Neugestaltung des Platzes vor der Kühlwetterstraße 1 - Beschluss der Bezirksvertretung 2, Vorlage BV2/131/2021 - zur Kenntnis genommen
+- TOP 38: Bericht bezüglich der Sicherheit von Fußgehenden - Beschluss der Bezirksvertretung 2, Vorlage BV2/001/2022 - zur Kenntnis genommen
