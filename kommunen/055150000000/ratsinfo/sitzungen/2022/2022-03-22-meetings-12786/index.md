@@ -1,0 +1,59 @@
+# 14. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-03-22T17:03:00+01:00
+- Ende: 2022-03-22T20:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12786
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12786
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00504298.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Zuschüsse an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Mitte - einstimmig beschlossen
+- TOP 5.2: Benennung eines Teilstücks der Aa-Promenade als Schwester-Laudeberta-Weg - einstimmig beschlossen
+- TOP 5.3: Anton-Bruchausen-Straße – Zentrum Nord (B-Plan 586) - Baubeschluss Straßenbau - einstimmig beschlossen
+- TOP 5.4: Fahrradstraße Hittorfstraße - Sperrung für den Kfz-Durchgangverkehr durch modalen Filter - vertagt
+- TOP 5.5: Neugestaltung Bremer Platz - mehrheitlich geändert beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Musik-Campus - Grundsatzbeschlüsse - mehrheitlich abgelehnt
+- TOP 6.2: 112. Änderung FNP - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 620 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.3: 97. FNP-Änderung - VBP 609 - Hafenmarkt - Beschluss über die Stellungnahmen - Abschließender Beschluss - Satzungsbeschluss - mehrheitlich abgelehnt
+- TOP 6.4: Bebauungsplan Nr. 575: [Aaseestadt] - Erweiterter Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.5: Hansaring/Schillerstraße/Hafenweg vorhabensbezogener B-Plan Nr.609 - mehrheitlich abgelehnt
+- TOP 6.6: Variantenuntersuchung zur Verbesserung der Radverkehrsführung am Aegidiitor - mehrheitlich abgelehnt
+- TOP 6.7: Ausbau der automatischen Radverkehrszählstellen im Stadtgebiet und Bau von zwei Anzeigestelen am Coesfelder Kreuz in Höhe der Mensa in beiden Fahrtrichtungen - einstimmig geändert beschlossen
+- TOP 6.8: Bussonderfahrstreifen zwischen Ludgeriplatz und Landeshaus - Verstetigung des Verkehrsversuchs - mehrheitlich beschlossen
+- TOP 6.9: Grundlegende Bedarfsfeststellung für die Beschaffung von Mittagsverpflegung an städtischen Schulen - einstimmig beschlossen
+- TOP 6.10: Neufassung der Satzung über die außerschulische Nutzung der Schulhöfe städtischer Schulen auf Antrag der CDU und Bündnis90/Die Grünen/GAL (A-R/0002/2020) - einstimmig geändert beschlossen
+- TOP 6.11: Überleitung der außerunterrichtlichen Angebote (OGS) der Thomas-Morus-Schule - einstimmig beschlossen
+- TOP 6.12: Überleitung der außerunterrichtlichen Angebote (OGS) der Johannisschule - einstimmig beschlossen
+- TOP 6.13: Überleitung der außerunterrichtlichen Angebote (OGS) der Gottfried-von-Cappenberg-Schule - einstimmig beschlossen
+- TOP 6.14: Öffentliche Ausschreibung der Betriebsträgerschaften für die dauerhaften Flüchtlingseinrichtungen in Nienberge, Käthe-Ernst-Weg 16 - 26, in Roxel, Zum Schultenhof 3, und in Rumphorst, Lauenburgstraße 19 - einstimmig beschlossen
+- TOP 6.15: Theater Münster Planungsbeschluss zur Aufstockung des Verwaltungstraktes und zur energetischen Teilsanierung - einstimmig beschlossen
+- TOP 6.16: Baubeschluss - Hoppengarten 32 - einstimmig beschlossen
+- TOP 6.17: Gewässersanierung und ökologische Verbesserung Stadtpark Wienburg - einstimmig beschlossen
+- TOP 6.18: Umbau und Erweiterung des ehemaligen Postgebäudes am Sankt-Josefs-Kirchplatz zu einer Zwei-Gruppen-Kita -Freianlagen -Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 6.19: Sauberkeit im öffentlichen Raum - mehrheitlich geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Bebauungsplan Nr. 575 - Kenntnisnahme Entwurf - Offenlage - zur Kenntnis genommen
+- TOP 7.2: Beantragung und Bewilligung von Zuwendungsmaßnahmen im Amt für Mobilität und Tiefbau - zur Kenntnis genommen
+- TOP 7.3: Stärkung der Innenstadt: Zwischenbericht zum Zukunftsprozess Stadt. Raum. Leben. - Münsters Mitte machen - zur Kenntnis genommen
+- TOP 7.4: Verkehrsversuche 2021 - Endbericht - zur Kenntnis genommen
+- TOP 7.5: Strategie zur Erreichung der Klimaneutralität 2030 für städtische Gebäude - zur Kenntnis genommen
+- TOP 8: Anregungen/Anträge und Anfragen
+- TOP 8.1: Terminübersicht und Repräsentationsmittel des Bezirksbürgermeisters - vertagt
+- TOP 8.2: Tempo-30 auf der Wienburgstraße zwischen Nordplatz und Ring - einstimmig beschlossen
+- TOP 9: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 10: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 11: Verschiedenes
