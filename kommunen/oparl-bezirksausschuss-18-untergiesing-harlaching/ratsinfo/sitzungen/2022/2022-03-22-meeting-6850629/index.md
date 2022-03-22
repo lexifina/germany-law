@@ -1,0 +1,198 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2022-03-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6850629
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6850629
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.1.: Beschluss über die Amtsniederlegung und die Nachfolgeregelung
+- TOP 1.4.2.: Vereidigung der Nachrückerin
+- TOP 1.4.3.: Benennung der/des Gleichstellungsbeauftragten
+- TOP 1.4.4.: Besetzung der Unterausschüsse
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Grundschule am Klinikum Harlaching: Erörterung des Sparten- und Trägerverfahrens durch das Referat für Stadtplanung und Bauordnung
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür – PLAN H aus München für München von April – November 2022 9.499,00€; Az. 0262.0-18-0281
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Initiative „Burger“ Der Burger – temporäre Bronzeplastik im öffentlichen Raum vom 13.05.2022 – 12.03.2023 5.788,00€; Az. 0262.0-18-0283
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Projektgemeinschaft München-Zeitreisen München in den 1950er Jahren vom 20.05.2022 – 19.05.2023 750,00€; Az. 0262.0-18-0247
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.5.1.: Grünfläche Säbener Platz/Oberbiberger Str.: Einrichtung einer Slacklining-Sportanlage
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Bescheide
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Sammelgenehmigung Spielaktionen auf öffentlichen Grünflächen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Windfahne auf der Agilolfingerschule
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Weyarner Str.: wechselseitiges Parkverbot; Bürgeranliegen
+- TOP 3.3.3.2.: Parksituation bei Fußballspielen; Bürgeranliegen
+- TOP 3.3.3.3.: Parkdruck in Untergiesing-Harlaching; SPD-Antrag
+- TOP 3.3.3.4.: Folgemaßnahmen zum Linksabbiegeverbot Pilgersheimer Straße/Humboldtstraße; Grünen-Antrag
+- TOP 3.3.3.5.: Birkenleiten: Park-, Sicherheits- und Müllproblematik; Bürgeranliegen
+- TOP 3.3.3.6.: Fahrradabstellplätze an der Nordseite der Straße Wettersteinplatz nahe Ecke Reginfriedstraße schaffen; Grünen-Antrag
+- TOP 3.3.3.7.: Schnellstmögliche Aufstellung von mindestens 10 Fahrradabstellplätzen vor dem EDEKA an der St.Magnusstr. 34, Ecke zu Naupliastraße; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Lohstraße: Einrichtung einer Ladezone für die Kinderkrippe Mondstr. 32
+- TOP 3.3.4.2.: Beschlussvorlage zu Dialog-Displays
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Fromundstr.: Antrag zur Verbesserung der Beleuchtung; SPD-Antrag
+- TOP 3.3.5.2.: Parkraummanagement in der Schönstraße auch auf Sonntage ausweiten
+- TOP 3.3.5.3.: Spielplatz am Hans-Mielich-Platz: Zaunabsicherung
+- TOP 3.3.5.4.: TOPO Box Geiselgasteigstraße Höhe Schilcherweg; Grünen-Antrag (Bestellung Städtischer Leistung)
+- TOP 3.3.5.5.: Ausbau der P+R-Anlage Mangfallplatz im Zuge der Einführung des Parkraummanagementes im 18. Stadtbezirk
+- TOP 3.3.5.6.: Zwei Warn-Schilder: HOCHLEITE am nördlichen Ende, vor der 90° Kurve in der Einbahnstraße (Räder erlaubt) und Beginn der LINDENSTRASSE; CSU-Antrag
+- TOP 3.3.5.7.: Paula-Herzog-Weg: Anbringung eines Legendenschildes an den Straßenschildern; SPD-Antrag
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Schönstr. 9: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnlichen Einrichtungen
+- TOP 3.3.6.2.: Südtiroler Str.: Ampelschaltung
+- TOP 3.3.6.3.: Griechenstr. 22: Vollsperre wegen Kanalanschluss
+- TOP 3.3.6.4.: Grauertstr. 4: Verlängerung der verkehrsaufsichtlichen Erlaubnis
+- TOP 3.3.6.5.: Vollsperre Mailänder Str. 6 (Seite Schönchenstr.) im Zeitraum 01.04.-13.05.22
+- TOP 3.3.6.6.: Lorenzonistr.: absolutes Haltverbot mit Zeitzusatz für die Müllabfuhr
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Aufbewahrungsbox für Clean-Up-Gruppen; CSU-Antrag
+- TOP 3.4.3.2.: Peißenberg-, Otker- und Bad Wiessee-Str.: Einsatz von Kehrmaschinen; Bürgeranliegen
+- TOP 3.4.3.3.: U-Bahn Wettersteinplatz: Nutzungsidee bez. des Zwischengeschosses unter der Fromundstr; Bürgeranliegen
+- TOP 3.4.3.4.: Reichenhallerstr. (Ecke Schorerstr.): Entsiegelung und Begrünung einer Betonfläche; Antrag Bündnis fürs Viertel
+- TOP 3.4.3.5.: Sinnvolle Nutzung des „Grünspitz“ in der Säbenerstrasse (Höhe Hl. Familie); CSU-Antrag
+- TOP 3.4.3.6.: Verbesserung der Müllreinigung im Stadtbezirk; CSU-Antrag
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen: - Agatharieder Str. 12 - Autharistr. 18 - Birkenau 7 - Grünwalder Str. 40 - Grünwalder Str. 68 - Harlachinger Str. 17 - Harthauser Str. 64 - Karneidpl. 15 - Reisachstr. 18 - Tierparkstr. 30 (Fällungsantrag vom 10.02.2022) - Tierparkstr. 30 (Fällungsantrag vom 03.03.2022) - Untere Weidenstr. 22
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Entfernungen von Gefahrenbäumen im Stadtbezirk
+- TOP 3.4.6.2.: Harlachinger Str. 9: Baumfällung
+- TOP 3.4.6.3.: Fromundstr. 22 - 32: Baumfällung
+- TOP 3.4.6.4.: Schönstr 62 - 68a: Baumfällung
+- TOP 3.4.6.5.: Greifensteinstr. 5: Baumfällung
+- TOP 3.4.6.6.: Birkenau 7: Baumfällung
+- TOP 3.4.6.7.: Maßnahmen der Landeshauptstadt München zur Förderung der Verwendung von Mehrweggeschirr in Gastronomie und Einzelhandel
+- TOP 3.4.6.8.: Agatharieder Str. 12: Baumfällung
+- TOP 3.4.6.9.: Karneidplatz 15: Baumfällung
+- TOP 3.4.6.10.: Maßnahme zur ökologischen Aufwertung von Langgraswiesen an der Mörikestraße in Harlaching und am Paula Herzog Weg
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Lärmbelästigung Isarauen; Bürgeranliegen
+- TOP 3.5.3.2.: Renovierung Spielplatz am Schmorellplatz; Bürgeranliegen
+- TOP 3.5.3.3.: Am Hollerbusch (Ecke Bucheckernweg): Rasche Öffnung der dort auf dem „grünen Streifen“ errichteten Container für Flüchtlinge aus der Ukraine; CSU-Antrag
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Information über die Schul- und Sportanlagenplanung in den nächsten Jahren unter Berücksichtigung der steigenden Anzahl von Kindern und der veralteten und kleinen Turnhallen der GS am Agilolfingerplatz
+- TOP 3.5.5.2.: Umwandlung der nicht genutzten Grünfläche zwischen dem Haus für Kinder (Säbener Str. 61) und Hohen Weg zu einem Naturerfahrungsraum für das Haus für Kinder; SPD-Antrag
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Impf-Guides für den Stadtbezirk
+- TOP 3.5.7: Sonstiges
+- TOP 3.5.7.1.: Kinderschaukel am Hochkalterspielplatz; Antrag Grüne/SPD zur Bestellung städtischer Leistungen aus dem Stadtbezirksbudget BA-Antrags Nr. 14-20 / B 03256 des Bezirksausschusses des Stadtbezirkes 18 Untergiesing-Harlaching vom 16.11.2021
+- TOP 3.5.7.2.: Klausener Platz: Aufstellung einer mobilen Toilette (Dixi) am Wasserspielplatz Empfehlung Nr. 08-14 / E 00394 der Bürgerversammlung des Stadtbezirkes 18 am 28.10.2021
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: Sondernutzungserlaubnis (dauerhafte Freischankfläche) "Ciccio&#039;s Tavernetta Italiana"
+- TOP 3.6.2.2.: Sondernutzungserlaubnis (dauerhafte Freischankfläche) "WUID Bar"
+- TOP 3.6.2.3.: Sondernutzungserlaubnis (Freischankfläche): "Gmiatliches Eck"
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Verschandelung und Sachbeschädigung an städtischen Eigentum durch Schmierereien schnellstmöglich entfernen; CSU-Antrag
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 4.1: Anhörungen zu Bauvorhaben
+- TOP 4.1.1.: Tegernseer Landstr. 228: Abbruch und Neubau eines Wohngebäudes (45 WE) mit Ladenfläche und Tiefgarage und Mobilitätskonzept - TEKTUR zu 1.2-2020-17490-33 - hier:Grundrissänderung und Reduzierung zu (40 WE)
+- TOP 4.1.2.: Menterschweigstr. 4: Modernisierung und Umbau des Gutshofs als Gastronomie- und Beherbergungsstätte sowie Errichten eines Neubaus für die Nutzung als Biergartenservice
+- TOP 4.1.3.: Vollmarstr. 6: Neubau eines Doppelhauses sowie zweier Garagen - Haus 1
+- TOP 4.1.4.: Vollmarstr. 6: Neubau eines Doppelhauses sowie zweier Garagen - Haus 2
+- TOP 4.1.5.: Sommerstr. 47: Neubau eines Wohngebäudes (8 WE) mit Tiefgarage
+- TOP 4.1.6.: Sachsenstr. 33: Neubau eines Notquartiers - Antrag auf dauerhafte Verlängerung der Baugenehmigung vom 07.08.2012
+- TOP 4.1.7.: Isenschmidstr. 10: Neubau 3er Mehrfamilienhäuser mit Tiefgarage
+- TOP 4.1.8.: Grünwalder Str. 13: Neubau 3er Mehrfamilienhäuser mit Tiefgarage
+- TOP 4.1.9.: Seybothstr. 6: Modernisierung und Umbau des Gutshofs als Gastronomie- und Beherbergungsstätte sowie Errichten eines Neubaus für die Nutzung als Biergartenservice
+- TOP 4.1.10.: Schyrenstr 5: Nutzungsänderung und Sanierung von einer Gewerbeeinheit im Erdgeschoß in Wohnungen
+- TOP 4.1.11.: Bruggspergerstr. 48: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 4.1.12.: Grünwalder Str. 162a: Dacherneuerung mit Dachausbau sowie ein erdgeschossiger Anbau
+- TOP 4.1.14.: Schmorellpl. 9: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 4.1.15.: Autharistr. 35: Sanierung eines denkmalgeschützten Einfamilienhauses und Umwandlung des ostseitigen Kellerbereiches zu Wohnräumen
+- TOP 4.2: Baumbestandspläne
+- TOP 4.2.1.: Schilcherweg 14: Neubau Tiefgarage, Umbau Mehrfamilienhaus, Ausbau Dachgeschoss - VORBESCHEID
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Geplanter Bau des Turnhallenkomplexes des TSV München von 1860 e. V. auf dem Gelände Grünwalder Straße 114
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Tauernstr. 11: Strom-Projekt durch SWM
+- TOP 3.6.6.2.: Am Perlacher Forst: Strom-Projekt durch SWM
+- TOP 3.6.6.3.: Unterführung Tegernseer Landstr.: Entfernung eines Graffitis
+- TOP 3.6.6.4.: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 3.6.6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.6.6.: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
+- TOP 3.6.6.7.: Harthauser Str. 58: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6.6.8.: Sprayereien an der Tennishalle des Wacker e.V. München
+- TOP 3.6.6.9.: Ecklokal Ecke Voss/Cannabichstr.: Nutzungsänderung von Gastronomie zu Wohnung
+- TOP 3.6.6.10.: SWM Baumaßnahme Strom-Projekt Josef-Vötter-Straße
+- TOP 3.6.6.11.: Dauerhafte Genehmigung coronabedingt temporär erlaubter Freischankflächen - Anschreiben an die Bezirksausschüsse
+- TOP 3.6.6.12.: SWM Baumaßnahme: Strom-Projekt Sanatoriumsstraße
+- TOP 3.6.6.13.: Baugenehmigung Tauernstr. 11
+- TOP 3.6.6.14.: Bevorstehende Kanalsanierungsmaßnahmen im Bezirk 18 Untergiesing-Harlaching
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Änderung der BA-Satzung bez. fester Einrichtung eines Migrationsbeauftragten; SPD-Antrag
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.1.13.: Ulmenstr. 6: Umbau und Erweiterung eines Wohnhauses
