@@ -1,0 +1,51 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-22T17:00:00+01:00
+- Ende: 2022-03-22T18:55:00+01:00
+- Ort: Aula der Gesamtschule Stettiner Straße 98, 40595 Düsseldorf Beginn: 17:00 Uhr
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22334
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22334
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442843.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442843.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442843.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vorstellung des Glasfaserprojektes in Hellerhof - Berichterstattung durch Vertreter:innen der Telekom -
+- TOP 4.2: Sondersitzung der Bezirksvertretung 10 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.3: Aufhebung von Finanzierungsbeschlüssen für Öffentliche Toilettenanlagen (ÖTA) in Garath und Hellerhof - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Installation eines Trinkbrunnens im Garather Hauptzentrum - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.5: Verfügungsmittel der BV 10, Zuschuss an den Förderverein „Freifunk im Neanderland e.V.“ - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Bezirklicher Bauunterhalt 2022 Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Kinder- und Jugendeinrichtung „Pinocchio e.V.“ - Vorlage der Bezirksverwaltungsstelle 10 - - vertagt
+- TOP 4.8: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Evangelische Kirchengemeinde Düsseldorf Garath - Vorlage der Bezirksverwaltungsstelle 10 - - vertagt
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Leerstand Hotel Achteck/Octagon - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Auswirkungen des KfW Förderstopps auf energetische Sanierungen von Gebäuden im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 5.7: Eröffnung des Wohnprojektes der Graf-Recke-Stiftung im ehemaligen Altenzentrum St. Hildegard - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Bepflanzung des Mittelstreifens auf dem Hellerhofweg - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.2: Gefahrenstelle im Bereich der Unterführung S-Bahn/Autobahn und Auffahrt zur Rad- und Fußgängerbrücke über die B 8 in Hellerhof - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.3: Geschwindigkeitsanzeigetafeln am Hellerhofweg - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Straßenumbenennungen im Stadtbezirk 10 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Schutz von Spielflächen im Stadtbezirk 10 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Aufstellung Nahverkehrsplan - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.6: Prüfung Quartiersgarage Reinhold-Schneider-Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Stettiner Straße – Einrichtung von Längsparkständen - Informationsvorlage zur Beschlussvorlage BV10/072/2019 vom 26.11.20219 - - zur Kenntnis genommen
+- TOP 9: Verschiedenes
