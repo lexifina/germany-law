@@ -1,0 +1,65 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-22T17:00:00+01:00
+- Ende: 2022-03-22T19:14:00+01:00
+- Ort: Gymnasium Gerresheim Am Poth 60 (Aula)
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22229
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22229
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442660.pdf
+- Ergebnisprotokoll: öffentliches digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442660.pdf
+- Wortprotokoll: öffentliches digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00442660.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 08.03.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 22.02.2022 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Provisorischer Hochwasserschutz entlang der Ostparksiedlung - Information - - zur Kenntnis genommen
+- TOP 4.2: Nördliche Düssel - Hochwasserschutz Ostparksiedlung - Information - - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Ergebnisse des Fußverkehrschecks umsetzen – Fußverkehr stärken - Informationsvorlage zum Beschluss der BV 7 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 4.7: Anpassung des Beschlusses Radverkehrsplanung Torfbruchstraße (OVA/106/2021) im Bereich des Knotenpunktes Torfbruchstraße und Dreherstraße - Empfehlung einstimmig beschlossen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2022 - einstimmig beschlossen
+- TOP 4.10: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.11: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Jugend) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Genossenschaftliches Wohnen im Quellenbusch - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 5.2: Spielplatz / Grünzug Gutenberg Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.3: Trimmgeräte Spielplatz /Grünzug Gutenberg Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.4: Anlegen von Wildblumenwiesen auf Baumscheiben neu gepflanzter Bäume - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.5: Tischtennisplatten im Park: Alter Gerresheimer Friedhof - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Verkehrsberuhigte Zone Peckhausweg - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Unterkünfte für Flüchtlinge aus der Ukraine - Antrag der CDU-Fraktion- - zurückgezogen
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Tempo 30 vor der Kita auf der Glashüttenstraße - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Parkplätze Ludenberger Straße - Anfrage der FDP-Fraktion - - beantwortet
+- TOP 6.5: Sanierung der Otto- und Vereinsstraße - Anfrage der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - beantwortet
+- TOP 6.6: Ausbau der Torfbruchstraße zwischen Dreherstraße und Pöhlenweg - Anfrage der CDU-Fraktion - - beantwortet
+- TOP 6.7: Standorte für E-Ladestationen im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - beantwortet
+- TOP 6.8: Standorte für das Stadtbaumkonzept in Gerresheim - Anfrage der FDP-Fraktion - - beantwortet
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Ampelanlage und Beleuchtungssituation Wiebachweg / Dreherstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Parkraumdruck im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7: Anfragen
+- TOP 7.1: Öffnung des Parkplatzes der Rennbahn für Waldbesucher an veranstaltungsfreien Tagen - Anrage der Fraktion Bündnis 90/Die Grünen - - beantwortet
+- TOP 7.2: Verkehrsführung während Baustelle „Haltestelle Pöhlenweg“ über Rennbahnstraße und Fahneburgstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.3: Hochwasserschutzmaßnahmen nördliche Düssel im Bereich der Ostparksiedlung - Anfrage der CDU-Fraktion - - beantwortet
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Platz für Jugendliche auf dem Regenrückhaltebecken Ecke Bergische Landstraße/ Gräulinger Straße - Informationsvolrage zum Beschluss der BV 7 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.2: Ausbesserung der Fahrbahndecke Fahneburgstraße - Informationsvorlage zum Beschluss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
