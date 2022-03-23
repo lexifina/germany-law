@@ -620,7 +620,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 214a | Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Verkehrssicherheit wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1b |  |
 | 214a.1 | bei Lastkraftwagen oder Kraftomnibussen |  | 180 € |
 | 214a.2 | bei anderen als in Nummer 214a.1 genannten Fahrzeugen |  | 90 € |
-| 214b | Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Umwelt wesentlich beeinträchtigt |  |  |
+| 214b | Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Umwelt wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1a |  |
 | 214b.1 | bei Lastkraftwagen oder Kraftomnibussen |  | 180 € |
 | 214b.2 | bei anderen als in Nummer 214b.1 genannten Fahrzeugen |  | 90 € |
 |  | Mitführen von Anhängern hinter Kraftrad oder Personenkraftwagen |  |  |
