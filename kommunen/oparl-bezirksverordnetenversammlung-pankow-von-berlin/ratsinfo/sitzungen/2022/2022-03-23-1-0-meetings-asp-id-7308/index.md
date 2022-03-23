@@ -1,0 +1,93 @@
+# 5. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2022-03-23T17:30:00+01:00
+- Ende: 2022-03-23T22:10:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7308
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7308
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=254264
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde auf Antrag der Fraktion der CDU zum Thema "Situation geflüchteter Menschen aus der Ukraine in Pankow" - erledigt
+- TOP 1.5: Dringlichkeitsanträge - erledigt
+- TOP 1.6: Mündliche Anfrage - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Wahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 1.10: Wahl von 2 Bezirksverordneten als Mitglieder des Heimkuratoriums der Senioreneinrichtungen der Paritätischen Gesellschaft für Gesundheit- und Sozialdienste - gewählt
+- TOP 1.11: Wahl der Bürgerdeputierten für den Ausschuss für Partizipation und Integration der Bezirksverordnetenversammlung für die IX. Wahlperiode - gewählt
+- TOP 1.12: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.13: Beschluss über den Abschlussbericht der vorbereitenden Untersuchungen gemäß § 141 BauGB für das Untersuchungsgebiet Pankow – Langhansstraße als städtebauliche Planung gemäß § 140 Nr. 4 BauGB für das Sanierungsgebiet Langhansstraße und Beschluss überdie notwendige Konkretisierung städtebaulicher Sanierungsziele - überwiesen
+- TOP 1.14: Mehr Fördermittel für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Wie nachhaltig ist Pankow? Eine Gemeinwohl-Bilanz für den Bezirk erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Gertrud-Classen-Platz zur Kiez-Oase entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Erste Schritte zur Wohnumfeldverbesserung im Sanierungsgebiet Langhansstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Mehr als nur ein Tropfen - Regenwasserzisterne für den Blankensteinpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Dringend benötigte Querungshilfe auf der nördlichen Dietzgenstraße - zurückgezogen
+- TOP 1.20: Push statt Pull: Mit KiezRadar zum direkten Draht zwischen Amt und Bürger:in - überwiesen
+- TOP 1.21: Digitaler Kulturatlas für Pankow - überwiesen
+- TOP 1.22: Angebote des Familienservicebüros ausweiten und mobile Sprechstunden ermöglichen - überwiesen
+- TOP 1.23: Denkmalpflegeplan mit Bürger:innenbeteiligung - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Pankow tritt Projekt GOOD BIKES bei – ein neues Leben für Schrotträder - überwiesen
+- TOP 1.25: Fußweg in der Garibaldistraße - überwiesen
+- TOP 1.26: Online Lieferdienste kontrollieren – Beschäftigte schützen - überwiesen
+- TOP 1.27: Beliebte Aussichtsplattform im Werner-Klemke-Park: Sanierung statt Abriss - überwiesen
+- TOP 1.28: Schnellstmöglicher Neubau des Cantian-Stadions und Weiterentwicklung des Friedrich-Ludwig-Jahn-Sportparks zu einer Inklusionssportanlage - überwiesen
+- TOP 1.29: Resolution: Solidarisch mit der Ukraine - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Gemeinschaftsschule am Standort des Kinderkrankenhauses Weißensee endlich umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Keine Autos auf dem Fußweg in Niederschönhausen - überwiesen
+- TOP 1.32: Gefahrenstellen für Sehbehinderte beseitigen - überwiesen
+- TOP 1.33: Tankstellenausfahrt an der Prenzlauer Promenade sichern - überwiesen
+- TOP 1.34: Sozialer Städtebau an der Elisabeth-Aue - überwiesen
+- TOP 1.35: Verkehrssicherheit an der Querungshilfe in der Käthe-Niederkirchner-Straße herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Gewerbegebiete an die Schiene - überwiesen
+- TOP 1.37: Klimabeete für Pankow - überwiesen
+- TOP 1.38: Zukünftige Schulneubauten in Holzbauweise - überwiesen
+- TOP 1.39: Weiterentwicklung der Schulaußenflächen der Klecks-Grundschule - überwiesen
+- TOP 1.40: Elektroautos fördern, Ladeinfrastruktur in Pankow stärken! - überwiesen
+- TOP 1.41: Radverkehrsanlagen auf der Grabbeallee einrichten - überwiesen
+- TOP 1.42: Öffnung der Außensportanlagen der Pankower Schulen für den Individualsport von Kindern und Jugendlichen ermöglichen! - überwiesen
+- TOP 1.43: Weiterentwicklung Brennerberg (Tiroler Viertel) - überwiesen
+- TOP 1.44: Baustellenampeln in der Triftstraße in Französisch Buchholz nachts abschalten - überwiesen
+- TOP 1.45: Orientierung für Menschen mit Sehbehinderungen im Bezirksamt verbessern - überwiesen
+- TOP 1.46: AG Schulwegsicherheit wiederbeleben – Schulgemeinschaften einbinden - überwiesen
+- TOP 1.47: KiezKlub Pankow auf dem Andreas-Hofer-Platz unterbringen - überwiesen
+- TOP 1.48: Kindergesundheit und Kinderschutz in Pankow - überwiesen
+- TOP 1.49: Pilotprojekt „Pankower Tausendfüßler“ – Laufbusse für Pankow - überwiesen
+- TOP 1.50: Mehr Stadtraum für alle – Sonnenburger Platz endlich realisieren - vertagt
+- TOP 1.51: Nachhaltigen Weihnachtsmarkt in Pankow retten und dauerhaft unterstützen - überwiesen
+- TOP 1.52: Schulaußenflächen – Freie Flächen bewahren und Konkurrenzen kompensieren - überwiesen
+- TOP 1.53: Logistik auf die Schiene - überwiesen
+- TOP 1.54: Besonderes Vorkaufsrecht prüfen - überwiesen
+- TOP 1.55: Eine Toilette für den Ballspielplatz Hanns-Eisler-Straße 6 im Mühlenkiez! - überwiesen
+- TOP 1.56: Kurzfristige Maßnahmen in der Wackenbergstraße endlich umsetzen! - überwiesen
+- TOP 1.57: Pankow unterstützt die Initiative BerlinerBäumeWässerer - überwiesen
+- TOP 1.58: Die Anwendung des Allgemeinen Vorkaufsrechts vorbereiten - überwiesen
+- TOP 1.59: Ampel Pasewalker Straße/Berliner Straße/Bahnhofstraße abschaffen - überwiesen
+- TOP 1.60: Behutsame Entwicklung der Elisabethaue - überwiesen
+- TOP 1.61: Berliner Straße vom Stau befreien - überwiesen
+- TOP 1.62: Anwohner der Kastanienallee in Rosenthal entlasten - Kreuzung sicherer machen - überwiesen
+- TOP 1.63: Barrierefreiheit auf dem S-Bahnhof Pankow-Heinersdorf - überwiesen
+- TOP 1.64: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.65: Corona-Folgen für Pankower Betriebe abmildern - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Mehr Schulwegsicherheit in der Görschstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Planungsziele für die Reaktivierung der Stammstrecke der Heidekrautbahn - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Integrierten B-Plan für Gesamtvorhaben Jahn-Sportpark statt Schnellschuss - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Pankow wird »Herrin der Pfandringe« - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Schulwegsicherheit am Heinrich-Schliemann-Gymnasium herstellen! - vertagt
+- TOP 2.6: Projekte „Housing First Berlin“ und „Housing First für Frauen“ stärken – neue Wohnungen in die Projekte integrieren! - vertagt
+- TOP 2.7: Pankower RENNsation wiederbeleben und das „Netzwerk Kinderschutz“ sichtbar machen - vertagt
+- TOP 2.8: Bebauungsplan 3 94B „Kulturbrauerei“ für das Gelände zwischen der Danziger Straße, der Knaackstraße, der Sredzkistraße und der Schönhauser Allee im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Information über die dem Bezirk Pankow zusätzlich zur Verfügung gestellten Mittel (Auftragswirtschaft) im Haushaltsjahr 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Kooperationsvereinbarung Projekt „Seniorennetz – digitale Informations- und Angebotsplattform für Seniorinnen und Senioren“ - vertagt
+- TOP 2.11: Politische Erklärung zur Verbesserung der gesamtstädtischen Steuerung - vertagt
