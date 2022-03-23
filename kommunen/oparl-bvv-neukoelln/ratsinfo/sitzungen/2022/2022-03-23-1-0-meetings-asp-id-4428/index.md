@@ -1,0 +1,82 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-03-23T17:00:00+01:00
+- Ende: 2022-03-23T22:29:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4428
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4428
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Für Frieden und Demokratie in Europa - Neukölln solidarisch mit der Ukraine - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Stadtentwicklung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl eines Bürgerdeputierten in den Ausschuss für Stadtentwicklung - gewählt
+- TOP 7.2: Wahl einer stellvertretenden Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Gesperrte Sporthalle der Otto-Hahn-Oberschule - beantwortet
+- TOP 8.2: Hilfestrukturen für Geflüchtete aus der Ukraine - beantwortet
+- TOP 8.3: Abwerbung von Personal für das Ukraine Ankunftszentrum TXL - beantwortet
+- TOP 8.4: Klimaanpassung in Neukölln – Maßnahmen gegen die aktuelle Trockenheit - beantwortet
+- TOP 8.5: Digitalisierung an Neuköllner Schulen - beantwortet
+- TOP 8.6: Draußenbezirk Neukölln? - beantwortet
+- TOP 8.7: Sichere Finanzierung der Wirtschaftsförderung - beantwortet
+- TOP 8.8: Stand der Planungen zur Erweiterung der Sonnen-Grundschule - beantwortet
+- TOP 8.9: Statikmängel an Neuköllner Sporthallen - beantwortet
+- TOP 8.10: Brandanschlag auf Moschee in der Finowstraße - beantwortet
+- TOP 8.11: Karlsgartenstraße 6 - beantwortet
+- TOP 8.12: Treffen des Bürgermeisters mit den Imamen wegen des Projekts „konfrontative Religionsbekundung“? - beantwortet
+- TOP 8.13: Bauverzögerung beim Jugendtreff NW 80? - schriftlich beantwortet
+- TOP 8.14: Kostenlose Corona-Bürger:innentests vor dem Aus? - schriftlich beantwortet
+- TOP 8.15: Sachstand Sportplatz Stadion Britz (Leichtathletikbereich) Sicherheit für Trainings- und Wettkampfbetrieb sichergestellt? - schriftlich beantwortet
+- TOP 9: Mitteilungen - erledigt
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Bezirkliche Seniorenvertretung stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Fußgänger- und Fahrradbrücke über den Teltowkanal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Kita "Elif und Emil 3" - Kinder und Erzieher schützen I - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Radweg Buckower Damm - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Überquerung Rufacher Weg auf Höhe Fläzsteinpfad - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Ampel Buckower Damm vor Britzer Garten Nutzer*innenfreundlich schalten - Schulwegsicherheit erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Wartetrittbretter für Radfahrer*innen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: 650 Jahre Buckow in 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Berliner Vergabemindestlohn in der Schulreinigung - in der BVV abgelehnt
+- TOP 12.8: Rekommunalisierung der Schulreinigung nicht weiter verzögern - in der BVV abgelehnt
+- TOP 12.9: Rekommunalisierung der Schulreinigung - jetzt die Weichen stellen! - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Koordination von Hilfsmaßnahmen für Geflüchtete - beantwortet
+- TOP 13.2: Geflüchtete aus der Ukraine in Neukölln - beantwortet
+- TOP 13.3: Über 50 Jahre Maientage sind am Ende! - beantwortet
+- TOP 13.4: Durchmarsch von Senat und Investoren? – Masterplanverfahren Hermannplatz - beantwortet
+- TOP 13.5: Bezirksbeirat für Menschen mit Behinderung - vertagt
+- TOP 13.6: Neu-Neuköllner Kinder und Jugendliche - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: HEROES-Finanzierung sicherstellen! - überwiesen
+- TOP 15.2: Förderung Theatergruppe "Die Sultaninen" - überwiesen
+- TOP 15.3: Maientage für Neukölln erhalten! - überwiesen
+- TOP 15.4: Pilotprojekt zur Rekommunalisierung der Schulreinigung - überwiesen
+- TOP 15.5: Abschaffung des Berliner Hunderegisters - überwiesen
+- TOP 15.6: Maßnahmen gegen das Befahren von Gehwegen mit Fahrrädern und Elektro-Rollern - überwiesen
+- TOP 15.7: Neukölln für sichere Schulwege - überwiesen
+- TOP 15.8: Mittelstreifen zu Blühstreifen an der Marienfelder Chaussee - überwiesen
+- TOP 15.9: Ausblick Rudower Höhe - überwiesen
+- TOP 15.10: Duschmobil für obdachlose Menschen - überwiesen
+- TOP 15.11: Sichere Finanzierung der Wirtschaftsförderung - überwiesen
+- TOP 15.12: Parke nicht auf unseren Wegen - überwiesen
+- TOP 15.13: Patientenfürsprecherin des Krankhaus Neukölln - überwiesen
+- TOP 15.14: Verkehrsberuhigung des Minzeweges - überwiesen
+- TOP 15.15: Die Senioren haben das Wort - überwiesen
