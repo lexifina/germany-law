@@ -1,0 +1,84 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-24T18:00:00+01:00
+- Ende: 2022-03-24T20:25:00+01:00
+- Ort: Schützenhaus Eller, Heidelberger Straße 4, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22423
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22423
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 24.03.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00444299.pdf
+- Ergebnisprotokoll: NachtragsTO vom 24.03.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00444299.pdf
+- Wortprotokoll: NachtragsTO vom 24.03.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00444299.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 gemäß § 22 Geschäftsordnung des Rates für bis 10.03.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 20.01.2022 - einstimmig beschlossen
+- TOP 4: Errichtung von drei B+R-Anlagen der Rheinbahn AG - Empfehlung einstimmig beschlossen
+- TOP 5: Bauvorbescheid, Am Seeblick 91, 93 - Errichtung zweier Mehrfamilienhäuser - einstimmig beschlossen
+- TOP 6: Gumbertstraße 151, 153 - Beseitigung der bestehenden Gebäude - vertagt
+- TOP 7: Südliche Düssel Vennhausen, 2. Bauabschnitt - Information - - zur Kenntnis genommen
+- TOP 8: Spezialmarkt „Düsseldorfer Herbstfestival“ im Schloss Eller und auf dem Gelände des Schlosses Eller im Jahre 2022 - mehrheitlich beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 im Jahre 2022 - beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Radverkehrsführung Kreuzung Vennhauser Allee/ Rothenbergstraße/ Glashüttenstraße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 14: Nutzungsabsichten ehemaliges Lager 61 im Bereich Nach den Mauresköthen nebst westlichem Werksgelände und verkehrliche Auswirkungen auf den Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 15: Verkehrsvorhaben Gubener Straße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Fußgängerquerung auf dem Höherweg (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 18: Hakenkreuzschmierereien in Eller und Vennhausen (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 19: Sicherstellung der Nahversorgung in der Siedlung Tannenhof (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 20: Kindertagesstätten in Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 21: Überplanung Reichenbacher Weg zwischen Neusalzer Weg und Eller Kamp (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 22: Knotenpunkt Rathelbeckstraße/Rothenbergstraße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 23: Grundstück Gubener Straße/Höherhofstraße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 24: Ortsumgehung Flingern, 2. BA, 1. TBA (Ronsdorfer Straße/Höherweg)(Anfrage CDU-Fraktion) - schriftlich beantwortet
+- TOP 25: Regionalhalt Eller Mitte (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 26: Bauvorhaben Chemnitzer Straße 1, 1a, 1b (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 27: Zulässigkeit von aufgesetztem oder halbhüftigem Parken im Stadtbezirk 8 (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 28: Gebäude Gumbertstraße 172 (Anfrage SPD-Fraktion) - schriftlich beantwortet
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Gedenkort der deportierten Sinti am Höherweg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 31: Geschwindigkeitsüberwachung Erfurter Weg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 32: ÖPNV-Angebot in Unterbach (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 33: Denkmalschutz im Stadtbezirk 8 / Vennhauser Allee 226 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 34: Radweg Schlesische Straße östlich Schweidnitzer Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 35: Aufstellung von Papiercontainer und Glascontainern auf der Gerresheimer Landstraße in Höhe Bushaltestelle Am Stammesberg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 36: Hygieneartikel in Schulen und gastronomischen Betrieben (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 37: Verkehrswende in Eller (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 38: Polleranlage am Gertrudisplatz (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 39: Gebäude Vennhauser Allee 226 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 40: Förderung Solarenergie in Gebieten mit Erhaltungssatzungen - zur Kenntnis genommen
+- TOP 41: Sachstand Bebauungsplanverfahren im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Heidelberger Straße / Deutzer Straße - Gehwegparken - zur Kenntnis genommen
+- TOP 43: Erfurter Weg - zur Kenntnis genommen
+- TOP 44: A 46 - Arbeiten am AD Düsseldorf-Süd und Lärmschutz für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: Papierkörbe in Lierenfeld - zur Kenntnis genommen
+- TOP 46: Klimaanalyse 2020 - zur Kenntnis genommen
+- TOP 47: "Bus On-Demand" in Unterbach - zur Kenntnis genommen
+- TOP 48: Kleingartenanlagen in Eller - Installation von Papierkörben - zur Kenntnis genommen
+- TOP 49: Sichtbehinderung auf Verkehrsschilder durch Bäume im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Depotcontainerstandort Gumbertstraße 111 - zur Kenntnis genommen
+- TOP 51: Pirmasenser Weg - Einbahnstraße / Freigabe für den Radverkehr in Gegenrichtung - zur Kenntnis genommen
+- TOP 52: Schlaglöcher im Fahrbahnbereich des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 53: Friedhof Eller - Nebenwege - zur Kenntnis genommen
+- TOP 54: 100-Meter-Brücke / Kikwegbrücke - Am Kleinforst - zur Kenntnis genommen
+- TOP 55: Gehwegplatten und Bürgersteigkanten im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Lärmschutz Güterbahnstrecke Rath-Eller im Bereich des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 57: Kinderspielplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 58: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 59: Corona-Maßnahmen Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 60: Königsberger Straße - defekte Radwege - zur Kenntnis genommen
+- TOP 61: Kioskgebäude Heidelberger Straße - Schlossallee - Zugang zum WSP Schloss Eller - zur Kenntnis genommen
+- TOP 62: Radweg Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 63: Kriterien zur Einrichtung von Fahrradstraßen - zur Kenntnis genommen
+- TOP 64: Straßenbenennungen Karl-Knödl-Straße und Zum Zault - zur Kenntnis genommen
+- TOP 65: Bahnübergang Am Hackenbruch - zur Kenntnis genommen
+- TOP 66: E-Ladesäulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 67: Hausmeisterhaus Brorsstraße 5 - zur Kenntnis genommen
