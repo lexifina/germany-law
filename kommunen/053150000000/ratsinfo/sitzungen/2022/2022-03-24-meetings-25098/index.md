@@ -1,0 +1,64 @@
+# 10. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-24T15:30:00+01:00
+- Ende: 2022-03-24T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25098
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25098
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Mündlicher Bericht des Beigeordneten
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3: Einjähriges Jubiläum des House of Resources in Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Entlastungen bei der Steigerung der Energiepreise intensivieren - ungeändert beschlossen
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Zuschüsse aus dem Programm "ArBOr -Arbeitsbezogene Beratung und Orientierung" und Freigabe zusätzlich bereitgestellter Mittel - ungeändert beschlossen
+- TOP 4.2: Anerkennung von zwei neuen Interkulturellen Zentren in Köln - ungeändert beschlossen
+- TOP 4.3: Zuschüsse aus dem Konzept "Wir im Quartier - Struktur- und Beschäftigungsförderung im Stadtviertel"; hier: Maßnahmenbewilligung 2022 - ungeändert beschlossen
+- TOP 4.4: Abschluss eines Nachtrages zum bestehenden Mietvertrag über das freifinanzierte Objekt Kreuznacher Str. 71 - ungeändert beschlossen
+- TOP 4.5: Förderprogramm "Dritte Orte" - 2. Genehmigung für die Förderphase 2022ff - ungeändert beschlossen
+- TOP 4.6: Erhebung Lebenssituation obdachloser und wohnungsloser Menschen (inklusive Jugend, Migration, Alter, LSBTIQ*) - ungeändert beschlossen
+- TOP 4.7: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - hier: Maßnahmenbewilligung 2022 - ungeändert beschlossen
+- TOP 4.8: Fortentwicklung des Housing-First-Ansatzes als Ergänzung der Wohnungslosenhilfe in Köln - zurückgestellt
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Neubau einer Unterkunft zur öffentlich rechtlichen Unterbringung obdachloser Personen in konventioneller Bauweise auf dem städtischen Grundstück Schönrather Str. 7 in 51063 Köln-Mülheim - ohne Votum in nachfolgende Gremien
+- TOP 5.2: Fußgängerpassage zwischen Schildergasse und Brüderstraße - ohne Votum in nachfolgende Gremien
+- TOP 5.3: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2022 - 30.06.2024 - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Neuanmietungen von Objekten in 2021 zur Unterbringung wohnungsloser Menschen und Geflüchteter - Kenntnis genommen
+- TOP 7.2: Überarbeitung des Konzeptes zum Bau-, Qualitäts- und Ausstattungsstandard (BQA) für konventionelle Wohnungsbauvorhaben des Amtes für Wohnungswesen - Kenntnis genommen
+- TOP 7.3: Änderungen der Wohnraumförderung 2022 - Kenntnis genommen
+- TOP 7.4: Planung bzw. Priorisierung der Verwaltung hinsichtlich der Sozialhäuser - zurückgestellt
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: 3. Quartalsbericht 2021 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.2: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Bemühungen der Stadt Köln, den Fachkräftemangel in der Pflege positiv zu beeinflussen - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Fraktion Die Linke: Bemühungen der Stadt Köln, den Fachkräftemangel in der Pflege positiv zu beeinflussen - Kenntnis genommen
+- TOP 10.1.2: Entwickelt die „Task Force Wohnungslosenpolitik“ einen Masterplan zur Überwindung von Wohnungs- und Obdachlosigkeit? - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0282/2022 der SPD-Fraktion betreffend "Entwickelt die 'Task Force Wohnungslosenpolitik' einen Masterplan zur Überwindung von Wohnungs- und Obdachlosigkeit?" - zurückgestellt
+- TOP 10.1.3: Aktuelle Situation im Bereich der Wohngeldstelle: Konnte der Antragsstau reduziert werden? - Sache ist erledigt
+- TOP -: Beantwortung: Aktuelle Situation im Bereich der Wohngeldstelle im Amt für Wohnungswesen - zurückgestellt
+- TOP 10.1.4: Beantwortung der Anfrage der SPD-Fraktion im Rat "Impf- und Testangebote für Obdachlose, Wohnungslose, Menschen ohne Papiere und Geflüchtete in Sammelunterkünften - Kenntnis genommen
+- TOP 10.1.5: Beantwortung einer Anfrage der Fraktionen Bündnis 90/GRÜNE, CDU und Volt vom 01.03.2022 für die Sitzung des Ausschusses für die Gleichttellung von Frauen und Männern - Kenntnis genommen
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Sachstand zur Umsetzung des Teilhabechancengesetzes in der Stadtverwaltung und der KGAB - Kenntnis genommen
+- TOP 12.2: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2021 - Kenntnis genommen
+- TOP 12.3: Kooperatives Baulandmodell Köln 4. Sachstandsbericht Kooperatives Baulandmodell 2021 - Kenntnis genommen
+- TOP 12.4: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 12.5: Quartalsbericht über die weiteren Entwicklungen im Ausländeramt 4. Quartal 2021 - Kenntnis genommen
