@@ -1,2 +1,2 @@
 # Eingangsformel
-Auf Grund des § 14 des Hebammengesetzes vom 21. Dezember 1938 verordnet der Senat:
+Der Senat verkündet das nachstehende, von der Bürgerschaft (Landtag) beschlossene Gesetz:
