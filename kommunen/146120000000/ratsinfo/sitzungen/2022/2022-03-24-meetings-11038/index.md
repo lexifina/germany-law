@@ -1,0 +1,74 @@
+# 35. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-03-24T16:00:00+01:00
+- Ende: 2022-03-24T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11038
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11038
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_oU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00599738.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Aktuelle Stunde zum Thema „Sanierung der Königsbrücker Straße endlich umsetzen. Maßnahmen zur Beschleunigung und Realisierung.“ - erledigt
+- TOP 3: Aktuelle Stunde - Auswirkungen der Impfpflicht für Mitarbeiter in Gesundheits- und Pflege-einrichtungen auf die LH Dresden - erledigt
+- TOP 4: EILANTRAG: Engpass der medizinischen Versorgung in Dresden vermeiden - Ablehnung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Finanzierung der Aufnahme, Betreuung und Unterbringung von Flüchtlingen aus der Ukraine im Haushaltsvollzug 2022 (Eilfall nach § 36 Abs. 3 Satz 6 SächsGemO) - Zustimmung
+- TOP 7: Sonderregelungen für Pandemielagen wie die Coronavirus-Sars-CoV-2-Pandemie (COVID19) als Ausnahmeregelung für den Frühjahrs- und Herbstmarkt 2022 - Zustimmung
+- TOP 8: Bürgschaftserklärung der Landeshauptstadt Dresden gegenüber der Thüga Aktiengesellschaft - Zustimmung
+- TOP 9: Neufassung der Elternbeitragssatzung vom 15. Mai 2014 - punktweise Abstimmung
+- TOP 10: Änderung der Geschäftsordnung und Neuausrichtung des Bildungsbeirates - Zustimmung
+- TOP 11: Fortführung der Finanzierung Dresden Frankfurt Dance Company bis 2028 - punktweise Zustimmung
+- TOP 12: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Vertagung durch Einreicher
+- TOP 13: Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für soziale Angebote und Projekte im Bereich Soziales (FFRL Soziales) - Zustimmung
+- TOP 14: Sechste Verordnung zur Änderung der "Verordnung der Landeshauptstadt Dresden über die Beförderungsentgelte und -bedingungen für den Verkehr mit Taxen (Taxitarifverordnung)" vom 4. März 1999 - Zustimmung
+- TOP 15: Bebauungsplan Nr. 3020, Dresden-Altstadt II Nr. 30, Ehemaliger Kohlebahnhof – Freiberger Straße/Bauhofstraße - Zustimmung
+- TOP 16: Neubenennung und Umbenennung von Straßen - punktweise Zustimmung
+- TOP 17: Neubenennung von Straßen, hier Benennung einer Planstraße im Baugebiet Alberstadt-Ost – Stauffenbergallee/Marienallee in „Wolfgang-Mischnick-Straße“ - Zustimmung
+- TOP 18: Neu- und Umbenennungen von Straßen - punktweise Zustimmung
+- TOP 19: Erweiterung der straßenrechtlichen Widmung der Augustusbrücke - Zustimmung
+- TOP 20: Nutzung der Augustusbrücke für Stadtrundfahrten ermöglichen - Ablehnung
+- TOP 21: Vorhabenbezogener Bebauungsplan Nr. 6050, Dresden-Altstadt I, Verwaltungsquartier Kleine Packhofstraße - Verweisung
+- TOP 22: Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für Historische Gräber auf nichtgemeindlichen Friedhöfen (Fachförderrichtlinie Historische Gräber) - Zustimmung
+- TOP 23: Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für Maßnahmen auf nichtgemeindlichen Friedhöfen (Fachförderrichtlinie Friedhöfe) - Zustimmung
+- TOP 24: Stromsperren verhindern - Vertagung durch Einreicher
+- TOP 25: Stromsperren verhindern - Vertagung durch Einreicher
+- TOP 26: Sichere und schnelle Radwegverbindung vom Heidefriedhof zum Elbradweg durch Nutzung der zurückgebauten Bahntrasse - Ablehnung
+- TOP 27: Albertpark als Ort des Waldnaturschutzes, der Naturbildung und naturnahen Erholung weiterentwickeln - Vertagung durch Einreicher
+- TOP 28: Straßenmusik im öffentlichen Raum - Ablehnung
+- TOP 29: Überarbeitung der Satzung Straßenkunst - Ablehnung
+- TOP 30: Biologische Vielfalt und ökologische Qualität der Dresdner Teiche und Fließgewässer sichern und verbessern - Zustimmung
+- TOP 31: Verkehrssicherheit entlang der Münchner Straße - punktweise Abstimmung
+- TOP 32: Vergabe von Wohnbauflächen an Dresdner Familien mit niedrigen und mittleren Einkommen (Einheimischen-Modell) - Vertagung durch Einreicher
+- TOP 33: Elbradweg sicher für alle - Fußgänger besser schützen - Vertagung durch Einreicher
+- TOP 34: Dresdner Bericht über die Lebensverhältnisse in den Stadtteilen (Gleichwertigkeitsbericht) - Vertagung durch Einreicher
+- TOP 35: Innenstadt in Dresden nach Corona dauerhaft stärken – Leerstand bekämpfen - Aufenthaltsqualität erhöhen - Zustimmung
+- TOP 36: Schulkonzepte für die Zukunft – Planungsvorgaben und Raumstandards mit Blick auf die Kostenentwicklungen bei Neubau und Sanierung - Zustimmung
+- TOP 37: Einrichtung einer „Nachtbürgermeisterin“ bzw. eines „Nachtbürgermeisters“ - Vertagung durch Einreicher
+- TOP 38: Wohngeldantrag digital einreichen - Zustimmung
+- TOP 39: Teilhabe am sozialen und kulturellen Leben verbessern - Vertagung durch Einreicher
+- TOP 40: Mehr Teilhabe – Barrierefreiheit durch mobile Rampen - Zustimmung
+- TOP 41: Untersuchung Population Kleine Hufeisennase Standort Waldschlößchenbrücke - Vertagung durch Einreicher
+- TOP 42: Eine neue Internationale Hygiene-Ausstellung in Dresden - Zustimmung
+- TOP 43: Schluss mit dem Genderwahn – Sprache muss einfach und verständlich bleiben - Ablehnung
+- TOP 44: Anhörung zum Antrag A0234/21 „Modellprojekt zur legalen Abgabe von Cannabis" - Ablehnung
+- TOP 45: Vor dem Schaden klug sein: Aufarbeitung des Stromausfalls in Dresden im September 2021 und Wege zur Prävention - Vertagung nach 22 Uhr
+- TOP 46: Inhaltliche Korrektur der Stelentexte an den Gedenkstätten für die Opfer der Bombenangriffe auf Dresden im Februar 1945 - Vertagung nach 22 Uhr
+- TOP 47: Starke Region im Herzen Europas – interkommunale Zusammenarbeit der Landeshauptstadt Dresden mit dem Umland voranbringen - Vertagung nach 22 Uhr
+- TOP 48: Energiepreisexplosion entgegensteuern – Heizen darf nicht zu Armut führen - Vertagung nach 22 Uhr
+- TOP 49: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Vertagung nach 22 Uhr
+- TOP 50: Übertragung der Stadtbezirksbeiratsmittel 2021 auf das Haushaltsjahr 2022 - Vertagung nach 22 Uhr
+- TOP 51: Besondere Förderung von stadtteilbezogenen Vorhaben und Arbeiten nach der Aufhebung der aktuellen epidemischen Lage - Vertagung durch Einreicher
+- TOP 52: Aktive Maßnahmen zur Verhinderung von Energiearmut in einkommensschwachen Privathaushalten - Vertagung nach 22 Uhr
+- TOP 53: Verwendung von Mitteln zur touristischen Bewerbung der Landeshauptstadt Dresden - Zustimmung
+- TOP 54: Entwicklungskonzeption für den Stadtbezirk Neustadt - Vertagung durch Einreicher
+- TOP 55: Wohnen muss bezahlbar sein. Mietpreisbremse für Dresden in Kraft setzen. - Vertagung durch Einreicher
+- TOP 56: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57: Ersatzweise Förderung der queeren Bildungsarbeit in Schulen in der Landeshauptstadt Dresden gemäß dem Landesaktionsplan Vielfalt - Zustimmung
+- TOP 58: Eilantrag: Transparente Haushaltsberatungen ermöglichen - punktweise Zustimmung mit Ergänzung
+- TOP 60: Information über die eingegangenen Spenden, Schenkungen und Zuwendungen für die Organisationseinheiten in der Landeshauptstadt Dresden im Jahr 2021 - zur Kenntnis genommen
