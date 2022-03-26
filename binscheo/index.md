@@ -1,6 +1,5 @@
 # Verordnung über die Eichung von Binnenschiffen
 
-- [Eingangsformel](eingangsformel.md)
 - [Inhaltsverzeichnis](inhaltsverzeichnis.md)
 
 ## Erster Abschnitt Allgemeine Vorschriften
@@ -9,7 +8,7 @@
 - [§ 2 Anwendungsbereich](0002.md)
 - [§ 3 Schiffseichamt](0003.md)
 - [§ 4 Zentralstelle](0004.md)
-- [§ 5](0005.md)
+- [§ 5 (weggefallen)](0005.md)
 - [§ 6 Arten der Eichung](0006.md)
 - [§ 7 Voraussetzungen](0007.md)
 - [§ 8 Eichschein](0008.md)
@@ -17,10 +16,9 @@
 - [§ 10 Namensänderung](0010.md)
 - [§ 11 Berichtigungen im Eichschein](0011.md)
 - [§ 12 Vorläufige Eichbescheinigung](0012.md)
-- [§ 13 Meßgeräte](0013.md)
+- [§ 13 Messgeräte](0013.md)
 
-## Zweiter Abschnitt Schiffe, die zur
-Beförderung von Gütern bestimmt sind
+## Zweiter Abschnitt Schiffe, die zur Beförderung von Gütern bestimmt sind
 
 - [§ 14 Genauigkeit](0014.md)
 - [§ 15 Aufnahme der Maße](0015.md)
@@ -33,8 +31,7 @@ Beförderung von Gütern bestimmt sind
 - [§ 22 Eichskalen](0022.md)
 - [§ 23 Tragfähigkeit](0023.md)
 
-## Dritter Abschnitt Schiffe, die nicht
-zur Beförderung von Gütern bestimmt sind
+## Dritter Abschnitt Schiffe, die nicht zur Beförderung von Gütern bestimmt sind
 
 - [§ 24 Leerebene und untere Eichebene](0024.md)
 - [§ 25 Ebene der größten Eintauchung](0025.md)
@@ -54,17 +51,15 @@ zur Beförderung von Gütern bestimmt sind
 - [§ 36 Eichplakette mit Eichzeichen](0036.md)
 - [§ 37 Grenzfälle](0037.md)
 
-## Fünfter Abschnitt Nacheichungen und
-Nachprüfungen
+## Fünfter Abschnitt Nacheichungen und Nachprüfungen
 
 - [§ 38 Nacheichung](0038.md)
 - [§ 39 Nachprüfung von Eichungen](0039.md)
 
-## Sechster Abschnitt Übergangs- und Schlußbestimmungen
+## Sechster Abschnitt Übergangs- und Schlussbestimmungen
 
 - [§ 40 Gültigkeit alter Eichscheine](0040.md)
-- [§ 41 Inkrafttreten](0041.md)
-- [Schlußformel](schlussformel.md)
+- [§ 41 (Inkrafttreten)](0041.md)
 - [Anlagen zur Verordnung über die Eichung von Binnenschiffen (BinSchEO)](anlagen.md)
 - [Anlage 1 Muster des Eichscheins für Binnenschiffe (Güterbeförderer)](anlage-1.md)
 - [Anlage 2 Muster des Eichscheins für Binnenschiffe (Nichtgüterbeförderer)](anlage-2.md)
