@@ -1,0 +1,8 @@
+# TOP 3: Stärkung der Innenstadt: Zwischenbericht zum Zukunftsprozess Stadt. Raum. Leben. - Münsters Mitte machen
+
+- Sitzung: 27. Sitzung (2022-03-28)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/225485
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/79179
