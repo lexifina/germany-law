@@ -1,0 +1,73 @@
+# 10. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-28T15:06:00+02:00
+- Ende: 2022-03-28T18:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25099
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25099
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Schulplatznot an weiterführenden Schulen stoppen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Bericht zur aktuellen Situation der Ukraine-Geflüchteten - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Aktuelle Lage zur Ukraine Krise im Schulbereich - Kenntnis genommen
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen - Sache ist erledigt
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 1.3.1: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2021 - Kenntnis genommen
+- TOP 1.3.2: Zwischenbilanz Schulentwicklungsplanung 2022 - Rückblick auf die Schulentwicklungsplanung 2020 und Ausblick auf die vorgesehene Fortschreibung 2023 - Kenntnis genommen
+- TOP 1.3.3: Sachstandsbericht zum Stand der Baumaßnahme für die GGS Breitenbachstraße - zur mündlichen Anfrage des Sachkundigen Einwohners Lutz Tempel vom 29.11.2021, TOP 7.3 - Kenntnis genommen
+- TOP 2: Anträge gemäß §§ 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln - zurückgestellt
+- TOP 2.2: Tag des Blaulichts an den Schulen - ungeändert beschlossen
+- TOP -: Stellungnahme der Verwaltung zum Antrag Tag des Blaulichts an den Schulen - Kenntnis genommen
+- TOP 2.3: Dringlichkeitsantrag „Wenn Schule wirklich Priorität haben soll…“ Einleitung eines Planungs- und Bauverfahrens zur Errichtung eines Schulinterimbaus für eine neue Gesamtschule auf der Vogelsanger Straße zwischen Innerer Kanalstraße und Bahndamm - ohne Votum in nachfolgende Gremien
+- TOP 2.4: Dringlichkeitsantrag Anmeldeverfahren an weiterführende Schulen - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: OGTS-Bedarfsermittlung für den Standort Rheinkassel Gem. Anfrage der Fraktionen von Bündnis 90/Die Grünen, CDU und VOLT - Sache ist erledigt
+- TOP -: OGTS-Bedarfsermittlung für den Standort Rheinkassel - Kenntnis genommen
+- TOP 3.1.2: Schulbudget für die Selbstverwaltung - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0321/2022 Schulbudget für die Selbstverwaltung - Kenntnis genommen
+- TOP 3.1.3: Rheinische Musikschule Musikschulentwicklungsplan (vormals AN/2171/2021) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Beantwortung der Anfrage AN/0354/2022 zu Anteilen der von festangestellten Mitarbeitenden und von freien Mitarbeitenden der Rheinischen Musikschule erteilten Unterschritseinheiten - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.1.4: Beantwortung der Anfrage AN/2429/2021 Versorgung der Kölner Schülerinnen und Schüler mit Tablets vom 17.11.2021 - Kenntnis genommen
+- TOP 3.1.5: Beantwortung einer mündlichen Anfrage: EDELGARD - Kampagne der Kölner Initiative gegen sexualisierte Gewalt im öffentlichen Raum - Kenntnis genommen
+- TOP 3.1.6: Beantwortung einer gem. Anfrage nach § 4 (Grüne) betreffend "Open Source Strategie" AN/0331/2022 - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Anfrage zu Bildungsmonitoring Inklusionsentwicklung an Kölner Schulen Stand 2020/2021, DS-Nr. 2451/2021 - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage - Kenntnis genommen
+- TOP 3.2.2: Fragen der Stadtschulpflegschaft Köln zum aktuellen Anmeldeverfahren an weiterführenden Schulen - Sache ist erledigt
+- TOP -: Anmeldeverfahren an weiterführenden Schulen - Kenntnis genommen
+- TOP 3.2.3: Integration und Unterstützung von Ukrainer*innen in Köln - Kenntnis genommen
+- TOP 3.3: Schulküchen – gesundes Essen - geändert beschlossen
+- TOP -: Schulküchen - gesundes Essen - Sache ist erledigt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Beauftragung eines Musikschulentwicklungsplans - Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - zurückgestellt
+- TOP 4.2: Beschaffung und Aufstellung von Modulbauten für Schulen zum Erhalt bestehender und zur Schaffung dringend notwendiger zusätzlicher Schulplätze - ungeändert empfohlen
+- TOP 4.3: Teilauslagerung (Interim) zur Brandschutzsanierung der Gemeinschaftsgrundschule Zwirner Straße 15-17, 50678 Köln - Beschluss zur vorübergehenden Errichtung eines Modulbaus im Trude-Herr-Park - ungeändert empfohlen
+- TOP 4.4: Beschluss über die Aufstellung eines Bebauungsplanes;Arbeitstitel: „Ostmerheimer Straße – Schule“ in Köln-Merheim - ungeändert empfohlen
+- TOP 4.5: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Grundschule im Stadtteil Lindenthal - ungeändert empfohlen
+- TOP 4.6: Einrichtung des Neubaus mit einer Dreifachturnhalle und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Gymnasium Zusestr., Stadteil - Widdersdorf - Köln - ungeändert empfohlen
+- TOP 4.7: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines 4/6 zügigen Gymnasiums (Sek I 4-zügig, Sek II 6-zügig) mit vier Sportübungseinheiten in Köln-Rondorf - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu 4.7 Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines 4/6 zügigen Gymnasiums (Sek I 4-zügig, Sek II 6-zügig) mit vier Sportübungseinh - endgültig abgelehnt
+- TOP 4.8: Dialogische Schulentwicklungsplanung der städtischen Berufskollegs - Beteiligungskonzept - geändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Aktueller Sachstand: Mobilität der Kölner Lehrerschaft - Kenntnis genommen
+- TOP 5.2: "Tag der Jugend im Rathaus" - Umsetzung unter Pandemiebedingungen – Abschluss 2020/2021 – Sachstand 2022 - Kenntnis genommen
+- TOP 5.3: Bürgereingabe gem. § 24 GO - "Petition Gesamtschule Rondorf Nordwest" Aktenzeichen 238/21 - Kenntnis genommen
+- TOP 5.4: Begleitgremium zum kommunalen Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - Kenntnis genommen
+- TOP 5.5: Haushalt 2022 – Ansätze im Etat, Kulturelle Bildung - Kenntnis genommen
+- TOP 5.6: Rheinische Musikschule in der Carnegie Hall - Kenntnis genommen
+- TOP 5.7: Aufholen nach Corona – Nachholprogramm für pandemiebedingte Lernrückstände - Kenntnis genommen
+- TOP 5.8: Nicht oder nur eingeschränkt zur Verfügung stehende Sporthallen und Zeitplan zur Behebung der Missstände - zur Anfrage AN/0133/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion - Kenntnis genommen
+- TOP 5.9: Neue Konzeption der Schulsozialarbeit - Kenntnis genommen
+- TOP 5.10: Sachstand Sonder-Schwimmlern-Programm Ferien 2022 - Kenntnis genommen
+- TOP 5.11: Professionelle Sprach- und Kulturmittlung in AO SF-Verfahren - zurückgestellt
+- TOP 6: Anfragen
+- TOP 7: Verschiedenes
