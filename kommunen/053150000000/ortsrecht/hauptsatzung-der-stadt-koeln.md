@@ -1,18 +1,18 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2021-09-27 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_09092021.pdf
+- Datum: 2022-03-28 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_16032022.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
-in der Fassung der 25. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 9. September 2021
+in der Fassung der 26. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 16. März 2022
 
 - ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255, 2020, S. 1, S. 1647, S. 1648, 2021, S. 30, S. 134 –
-- Öffentliche Bekanntmachung vom 27.09.2021 -
+- Öffentliche Bekanntmachung vom 28.03.2022 -
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften § 12b Jugend- und Kinderfreundlichkeit
 II. Bürgerbeteiligung § 13 Unterrichtung der Einwohnerinnen und Einwohner über allgemein bedeutsame Angelegenheiten § 14 Anregungen und Beschwerden § 15 Einwohnerantrag § 16 Bürgerbegehren, Bürgerentscheid, Ratsbürgerentscheid
@@ -23,11 +23,11 @@ V. Beiräte § 21 a Ältestenrat § 22 Integrationsrat § 23 Seniorenvertretung 
 VI. Finanzielle Entschädigungen für Mandatsträgerinnen und Mandatsträger § 24 Ersatz des Verdienstausfalles § 25 Allgemeine Aufwandsentschädigungen § 26 Sonderaufwandsentschädigungen
 VII. Verwaltung § 27 Gleichstellung von Frau und Mann § 28 Personalangelegenheiten § 29 Teilnahme der Verwaltung an Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen § 30 Zahl der Beigeordneten § 31 Inkrafttreten der Hauptsatzung
 
-Aufgrund von §§ 7 Abs. 1, 41 Abs. 1 Satz 2 lit f Gemeindeordnung NRW i.d.F. der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), zuletzt geändert durch
+Aufgrund von §§ 7 Abs. 1, 41 Abs. 1 Satz 2 lit. f Gemeindeordnung NRW i. d. F. der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), zuletzt geändert durch
 
 Seite 1 von 23
 
-Artikel 3 des Gesetzes vom 29. September 2020 (GV.NRW.S.916) hat der Rat folgende Änderungen der Hauptsatzung vom 10.02.2009, zuletzt geändert durch die 24. Änderungssatzung der Hauptsatzung vom 9. April 2021, in seiner Sitzung am 24.06.2021 beschlossen:
+Artikel 4 des Gesetzes vom 1. Dezember 2021 (GV. NRW. S. 1353) hat der Rat in seiner Sitzung vom 03.02.2022 folgende Satzung zur Änderung der Hauptsatzung vom 10.02.2009, zuletzt geändert durch die 25. Änderungssatzung der Hauptsatzung vom 9. September 2021 beschlossen:
 
 I. Allgemeines
 
@@ -263,11 +263,11 @@ werden dem Integrationsrat Mittel im städtischen Haushalt zugewiesen, die von d
 (1) Bei der Stadt Köln wird eine Seniorenvertretung gebildet. Die Seniorenvertretung der Stadt Köln wird entsprechend den Regelungen der jeweils gültigen Wahlordnung gewählt.
 (2) Auf Stadtebene und auf Stadtbezirksebene werden Arbeitsgemeinschaften gebildet, in die die Seniorenvertretung, die Wohlfahrtsverbände und die Fraktionen des Rates bzw. Bezirksvertretungen Mitglieder entsenden. Die Stadtarbeitsgemeinschaft Seniorenpolitik besitzt das Recht, Anregungen oder Stellungnahmen dem Rat oder einem Ausschuss vorzulegen. Die Bezirksarbeitsgemeinschaften Seniorenpolitik haben das Recht, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen.
 (3) Die in die Stadtarbeitsgemeinschaft gewählten Seniorenvertreterinnen und Seniorenvertreter und ihre Stellvertretungen bilden die SVK-Stadtkonferenz.
-(4) Die SVK-Stadtkonferenz kann Mitglieder als sachkundige Einwohnerinnen und Einwohner in den für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Jugend, Schule und Weiterbildung, Bauen, Wohnen, Anregungen und Beschwerden, Digitalisierung, Wirtschaft, Allgemeine Verwaltung und Rechtsfragen sowie Gleichstellung zuständigen Fachausschüssen vorschlagen. Hierfür schlägt die SVK-Stadtkonferenz aus ihrer Mitte je ein Mitglied und eine Stellvertreterin/einen Stellvertreter für den Verhinderungsfall vor. Auf Vorschlag der SVK-Stadtkonferenz wählt der Rat diese gem. § 58 Abs. 4 GO in die Ausschüsse.
+(4) Die SVK-Stadtkonferenz kann Mitglieder als sachkundige Einwohnerinnen und Einwohner in den für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Jugend, Schule und Weiterbildung, Bauen, Wohnen, Anregungen und Beschwerden, Digitalisierung, Wirtschaft, Allgemeine Verwaltung und Rechtsfragen sowie Gleichstellung zuständigen Fachausschüssen vorschlagen. Hierfür schlägt die SVK-Stadtkonferenz aus ihrer Mitte je ein Mitglied und eine Stellvertreterin/einen Stellvertreter für den Verhinderungsfall vor. Auf Vorschlag der SVK-Stadtkonferenz wählt der Rat diese gem. § 58 Abs. 4 GO in die Ausschüsse. Die Seniorenvertretungen in den Stadtbezirken wählen jeweils eine Person als Sachverständige für seniorenpolitische Fragen in der Bezirksvertretung. Für den Verhinderungsfall wird für diese Personen jeweils eine Stellvertretung gewählt.
 (5) Die Einzelheiten regelt die vom Ausschuss für Soziales und Senioren beschlossene Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP).
-§ 23 a Stadtarbeitsgemeinschaft Behindertenpolitik
 Seite 16 von 23
 
+§ 23 a Stadtarbeitsgemeinschaft Behindertenpolitik
 (1) Bei der Stadt Köln wird eine Stadtarbeitsgemeinschaft Behindertenpolitik gebildet, in die die Behindertenorganisationen und -selbsthilfegruppen, die Wohlfahrtsverbände und die Fraktionen des Rates Mitglieder entsenden. Für die Verwaltung nimmt die Oberbürgermeisterin/ der Oberbürgermeister oder eine von ihr/ihm beauftragte leitende Verwaltungsmitarbeiterin/ ein von ihr/ihm beauftragter leitender Verwaltungsmitarbeiter an den Sitzungen der Stadtarbeitsgemeinschaft Behindertenpolitik teil. (2) Die Stadtarbeitsgemeinschaft Behindertenpolitik berät behindertenrelevante Themen auf kommunaler Ebene und fertigt Stellungnahmen für Ratsausschüsse. (3) Die Stadtarbeitsgemeinschaft Behindertenpolitik kann Mitglieder der Behindertenorganisationen und -selbsthilfegruppen als sachkundige Einwohnerinnen und Einwohner in die für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Bauen, Wohnen, Schule, Weiterbildung, Gleichstellung, Kinderund Jugendhilfeangelegenheiten, Allgemeine Verwaltung, Digitalisierung und Wirtschaft zuständigen Ausschüsse vorschlagen. Auf Vorschlag der Stadtarbeitsgemeinschaft Behindertenpolitik wählt der Rat diese gem. § 58 Abs. 4 GO NRW in die Ausschüsse.
 § 23 b Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender (LST)
 (1) Bei der Stadt Köln wird eine Stadtarbeitsgemeinschaft LST gebildet, in die die Lesben-, Schwulen- und Transgenderorganisationen und -selbsthilfegruppen sowie die Fraktionen des Rates Mitglieder entsenden. Für die Verwaltung nimmt die Oberbürgermeisterin/ der Oberbürgermeister oder eine von ihr/ ihm beauftragte leitende Verwaltungsmitarbeiterin/ ein von ihr/ ihm beauftragter leitender Verwaltungsmitarbeiter an den Sitzungen der Stadtarbeitsgemeinschaft LST teil. (2) Die Stadtarbeitsgemeinschaft LST berät lesben-, schwulen- und transgenderrelevante Themen auf kommunaler Ebene und fertigt Stellungnahmen für Ratsausschüsse. (3) Die Stadtarbeitsgemeinschaft LST kann Mitglieder der Lesben-, Schwulen- und Transgenderorganisationen und –selbsthilfegruppen als sachkundige Einwohnerinnen und Einwohner in die für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Bauen, Wohnen, Schule, Weiterbildung, Gleichstellung sowie Kinder- und Jugendhilfeangelegenheiten, Allgemeine Verwaltung, Digitalisierung und Wirtschaft zuständigen Ausschüsse vorschlagen. Auf Vorschlag der Stadtarbeitsgemeinschaft LST wählt der Rat diese gem. § 58Abs. 4 GO NRW in die Ausschüsse. (4) Die Einzelheiten regelt die vom Ausschuss Soziales und Senioren beschlossene Geschäftsordnung für die Stadtarbeitsgemeinschaft LST der Stadt Köln.
@@ -333,20 +333,9 @@ Seite 21 von 23
 
 (4) Die Teilnahme der Gleichstellungsbeauftragten an den Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen richtet sich nach § 5 Absatz 4 Sätze 1 und 2 GO und § 27 Abs. 3 dieser Hauptsatzung.
 § 30 Zahl der Beigeordneten
-(§ 71 Abs. 1 GO)
-Die Zahl der zu wählenden Beigeordneten wird auf höchstens 9 festgesetzt. In dieser Zahl sind die allgemeine Vertreterin/der allgemeine Vertreter der Oberbürgermeisterin/des Oberbürgermeisters, die/der die Amtsbezeichnung "Stadtdirektorin/Stadtdirektor" führt, und die Stadtkämmerin/der Stadtkämmerer inbegriffen.
+(§ 71 Abs. 1 GO) Die Zahl der zu wählenden Beigeordneten wird auf höchstens 9 festgesetzt. In dieser Zahl sind die allgemeine Vertreterin/der allgemeine Vertreter der Oberbürgermeisterin/des Oberbürgermeisters, die/der die Amtsbezeichnung "Stadtdirektorin/Stadtdirektor" führt, und die Stadtkämmerin/der Stadtkämmerer inbegriffen.
 § 31 Inkrafttreten der Hauptsatzung
-(§ 7 Abs. 4 GO)
-Die Satzung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft.
-Vorstehende Satzung wird hiermit öffentlich bekannt gemacht.
-Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen hingewiesen.
-§7 Abs. 6 Satz 1 der Gemeindeordnung lautet:
-„Die Verletzung von Verfahrens- oder Formvorschriften dieses Gesetzes kann gegen Satzungen, sonstige ortsrechtliche Bestimmungen und Flächennutzungspläne nach Ablauf eines Jahres seit ihrer Verkündung nicht mehr geltend gemacht werden, es sei denn, a) eine vorgeschriebene Genehmigung fehlt oder ein vorgeschriebenes Anzeigeverfahren wurde nicht durchgeführt, b) die Satzung, die sonstige ortsrechtliche Bestimmung oder der Flächennutzungsplan ist nicht ordnungsgemäß öffentlich bekannt gemacht worden, c) der Bürgermeister hat den Ratsbeschluss vorher beanstandet oder d) der Form- oder Verfahrensmangel ist gegenüber der Gemeinde vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt."
-
-Köln, den 09.09.2021
-
-Die Oberbürgermeisterin gez. Henriette Reker
-
+(§ 7 Abs. 4 GO) Die Satzung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft.
 Seite 22 von 23
 
 Anlage zu § 1 der Hauptsatzung der Stadt Köln Seite 23 von 23
