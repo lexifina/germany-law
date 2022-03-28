@@ -1,0 +1,53 @@
+# Rat (138. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2022-03-28T18:00:00+02:00
+- Ende: 2022-03-28T19:39:00+02:00
+- Ort: Stroetmanns Fabrik, Friedrichstr. 2, 48282 Emsdetten, Bürgersaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQjcYFNbImY1cv0QMD6qq6c
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17182
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdI6I_oaP9CA-zK3KoQJB8kOm1jqmQbU-8oUNFyOERXr/Bekanntmachung_Rat_28.03.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVQWbdXVcxaj0OcksxuSkbX7F-IAOum5QqF8bZ_fNKYQ/Oeffentliche_Niederschrift_Rat_28.03.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 21.02.2022
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Finanzangelegenheiten
+- TOP 4.1: Ermächtigungsübertragungen 2021 nach 2022 gem. § 22 KomHVO - Zur Kenntnis genommen
+- TOP 4.2: Ermächtigungsübertragungen 2021 nach 2022 gem. § 22 KomHVO für das Abwasserwerkwerk der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 4.3: Antrag Fraktion "Die Linke"; Energiepreise: Tarifanpassungen für Menschen im Leistungsbezug - Ohne Abstimmung
+- TOP 4.4: Genehmigung einer überplanmäßigen Ausgabe gem. § 83 GO für die Vergabe der Beratungsleistungen zur Durchführung des Zukunftsprozesses "Emsdetten im Jahr 2038" - Einstimmig
+- TOP 4.5: Genehmigung einer überplanmäßigen Ausgabe für Soforthilfen der Partnerstadt Chojnice für die Hilfen geflüchteter Menschen aus der Ukraine - Einstimmig
+- TOP 5.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 GO
+- TOP 5.1: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NRW des Bürgermeisters Oliver Kellner und des Ratsmitgliedes Daniel Hellwig vom 14.03.2022 zur Beschlussfassung über die Genehmigung einer ersten überplanmäßigen Ausgabe für Soforthilfen der Partnerstadt Chojnice für die Hilfen geflüchteter Menschen aus der Ukraine i.H.v. 20.000 € - Einstimmig
+- TOP 6.: Umbesetzung von Gremien - Einstimmig
+- TOP 7.: Beitritt der Stadt Emsdetten zu dem internationalen Netzwerk Mayors for Peace - Einstimmig
+- TOP 8.: Antrag auf Umbenennung des Beirates für Seniorinnen und Senioren der Stadt Emsdetten - Einstimmig
+- TOP 9.: Satzungsrecht
+- TOP 9.1: Satzung der Stadt Emsdetten über ein besonderes Vorkaufsrecht nach § 25 Baugesetzbuch (Vorkaufsrechtssatzung) im Bereich Spatzenweg West - Einstimmig
+- TOP 9.2: Antrag der Fraktion DIE GRÜNEN „Lebendige Innenstadt – Gastronomie und Einzelhandel weiter entlasten“ auf Aussetzung der Gebührenpflicht für bestimmte Sondernutzungen für das Jahr 2022 - Einstimmig
+- TOP 9.3: 2. Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- oder Feiertagen im Gebiet der Stadt Emsdetten vom 19. Dezember 2018 - 32 Ja-Stimme(n), 2 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 10.: Stadtwerke Emsdetten GmbH
+- TOP 10.1: Stadtwerke Emsdetten GmbH: Erteilung einer Einzelprokura gem. § 13 Nr. 3 des Gesellschaftsvertrages - Einstimmig
+- TOP 11.: Anordnung zur Durchführung eines Umlegungsverfahrens für einen Teilbereich des Bebauungsplanes Nr. 85 A „Silberweg West“, 1. Änderung und Erweiterung - Einstimmig
+- TOP 12.: Widmung Spatzenweg, Teilstrecke Borghorster Straße bis Habichtshöhe - Einstimmig
+- TOP 13.: Planung und Verwaltung städtischer Einrichtungen
+- TOP 13.1: Erweiterung der Stadtbibliothek - 33 Ja-Stimme(n), 0 Gegenstimme(n), 5 Enthaltung(en)
+- TOP 14.: Bebauungspläne
+- TOP 14.1: Entwicklungsbereich „Am Buckhoff“ - Grundsatzbeschluss - - Einstimmig
+- TOP 14.2: Bebauungsplan Nr. 11 " Hansestraße / Schützenstraße ", 12. Änderung - Satzungsbeschluss- - Einstimmig
+- TOP 15.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 15.1: Niedrigschwellige Unterstützungs- und Beratungsangebote für Kinder, Jugendliche und Familien sowie Erwachsene in Emsdetten - Einstimmig
+- TOP 15.2: Erweitertes Raumprogramm für das 3. städtische Kinderhaus - Einstimmig
+- TOP 15.3: Standort für einen Spielplatz mit komplett inklusiver Ausrichtung in der Stadt Emsdetten - Einstimmig
+- TOP 15.4: Bedarfsmeldung Kindertagesbetreuung 2022/2023 - Einstimmig
+- TOP 16.: Allgemeine Stadtentwicklungsplanung
+- TOP 16.1: Zielkonzept des Integrierten Mobilitätskonzeptes der Stadt Emsdetten - Einstimmig
+- TOP 17.: 7. Fortschreibung des Abwasserbeseitigungskonzeptes - Zeitraum 2022 - 2027 - Einstimmig
+- TOP 18.: Verschiedenes
