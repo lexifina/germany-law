@@ -1,0 +1,69 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-29T17:00:00+02:00
+- Ende: 2022-03-29T18:22:00+02:00
+- Ort: International School of Düsseldorf (ISD), Dahms-Theater, Niederrheinstraße 336, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22513
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22513
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443468.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443468.pdf
+- Wortprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443468.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 22. Februar 2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Kriminalitäts- und Unfallentwicklung im Stadtbezirk 5 - mündlicher Bericht der Polizei - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Trödelmärkte im 1. Halbjahr 2022 auf dem Messeparkplatz P1 - einstimmig beschlossen
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2022 (Liste B), diverse Kita-Einrichtungen - einstimmig beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2022 - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 9: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 10: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 11: Wann kommt endlich die öffentliche Beleuchtung auf dem Gerichtsschreiberweg?!
+- TOP 12: Rad- und Fußweg von der Straße Am Krienengarten (Am Damm) zum Rheinuferweg - beantwortet
+- TOP 13: Bewohnerparkvorrechte auf den zwei großen öffentlichen Parkplätzen in Kaiserswerth - beantwortet
+- TOP 14: Welches Tempo ist auf der Alten Landstraße in Kaiserswerth angemessen? - beantwortet
+- TOP 15: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 16: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 17: Barrierefreier Zugang zur Grundschule an der Fliednerstraße
+- TOP 18: Bessere Umleitungsangebote statt Einschränkung des ÖPNV-Service in Düsseldorf-Lohausen - beantwortet
+- TOP 19: Kooperationsvertrag trifft auf Realität? Flughafen-Bahnhof der Stadtbahn U 81 ggf. nicht rechtzeitig zur Fußball-EM 2024 fertig - beantwortet
+- TOP 20: "Viele Projekte stecken in der Warteschleife" - Wie lange kann noch gewartet werden?
+- TOP 21: Schadhafte Pflasterung in der Edmund-Bertrams-Straße und Oberdorfstraße - beantwortet
+- TOP 22: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 23: Überlastung der Buslinie 749 in der morgendlichen Spitzenstunde - beantwortet
+- TOP 24: Weg nach den Hingbenden - Wie kann das Parken geordnet und die Sicherheit erhöht werden?
+- TOP 25: Radweg vom Kreisverkehr Angermunder Straße
+- TOP 26: Was wird aus dem Kaiserswerther Markt?
+- TOP 27: Schadhafter Belag Niederrheinstraße von der ISD bis zur Bahnunterführung und Danziger Straße - beantwortet
+- TOP 28: Zulässigkeit und potenzielle Rahmenbedingungen eines geordneten Badebetriebs im Angermunder See
+- TOP 29: Immobilienbesitz der Stadt Düsseldorf sowie anderer städtischer Unternehmen im Stadtbezirk 5 - beantwortet
+- TOP 30: Umsetzung und Einhaltung der Stellplatzsatzung bei Neubauten in Lohausen?
+- TOP -: Neue Anfragen
+- TOP 31: Umfangreiche Baumfällungen in Wittlaer - beantwortet
+- TOP 32: Vorteile ökologischer Aufwertung und Unterschutzstellung des Ostufers des großen Angermunder Sees
+- TOP 33: Wichtige Infrastrukturplanungen im Stadtbezirk vorantreiben - für kurze Wege und den Erhalt lokaler Versorgungsstrukturen!
+- TOP 34: Unerklärliche Baumrodungen und weitere Bebauungen am Leuchtenberger Kirchweg
+- TOP 35: Leerstand und zukünftige Nutzung des denkmalgeschützten Hüttenhofs in Kalkum
+- TOP 36: Leuchtenberger Kirchweg 53 - Baugenehmigungen, Dringlichkeit und Rodungen der Bäume?
+- TOP 37: Verwaltungsverfahren Neubauprojekt „Kaiservillen Kaiserswerth“
+- TOP 38: 12.000.000 Euro Kostensteigerung und spätere Fertigstellung der Stadtbahn U 81: weiterhin keine Information der lokalen Politik!?
+- TOP 39: Forderung nach mehr Elektro Ladestellen im Stadtbezirk 5 - beantwortet
+- TOP 40: Park and Ride Parkplätze an der Messe - beantwortet
+- TOP 41: Anwohnerparken im Stadtbezirk 5
+- TOP 42: Aufstellung von Absperrpfosten und eines Zauns im Treppenbereich zur Kirche St. Remigius in Wittlaer
+- TOP -: Anträge
+- TOP 43: Bebauungsplan Nr. 05/016 (Veranstaltungsgelände/Messeparkplatz P1) - Bereitstellung vorhandener Gutachten - einstimmig beschlossen
+- TOP 44: Kreuzung von Fußweg und Radweg an der Niederrheinstraße: Gefahrenstelle entschärfen! - einstimmig beschlossen
+- TOP 45: Sicherheit und Ordnung auch im Düsseldorfer Norden konsequent gewährleisten - Präsenz von OSD und Polizei an den "Hot spots" sicherstellen! - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 46: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 47: Verschiedenes
