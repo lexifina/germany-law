@@ -1,0 +1,59 @@
+# Rat (13. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2022-03-29T18:00:00+02:00
+- Ende: 2022-03-29T21:15:00+02:00
+- Ort: ehem. Primanerbau, Trierer Straße 16, 53902 Bad Münstereifel, Trierer Straße 16
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcc0yJFqAbfNohcHtPkLB24
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20661
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQsz29FvwbCTD9GQeyvh0ChB9C3JWAYT479YWaxdU9Ix/Bekanntmachung_Rat_29.03.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV1jUdRvmqlhPuqCF96GAMQHKyX3s-jGPDKZyJFwShNV/Oeffentliche_Niederschrift_Rat_29.03.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 25.01.2022 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Schottergärten und -flächen hier: Antrag nach § 24 GO NRW vom 20.01.2022; eingegangen am 26.01.2022 - Beschluss mit 4 Ja- und 24 Nein-Stimmen sowie 2 Enthaltungen und damit abgelehnt:
+- TOP 5.: Errichtung von Windenergieanlagen hier: Vertragsentwurf - Beschluss mit 28 Ja-Stimmen und 1 Nein-Stimme sowie 1 Enthaltung:
+- TOP 6.: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Wiederaufbauplan - Beschluss s. RD-Nr. 659-XI/Z-1.
+- TOP -: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Bericht über die Erörterung mit der Bezirksregierung und endgültige Version des Wiederaufbauplans - Einstimmiger Beschluss:
+- TOP 7.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter öffentlicher Straßen innerhalb der historischen Stadtmauern; hier: Geländer Werther Straße und Anstrahlobjekte - Beschluss mit 18 Stimmen für Variante A (Stahlplatten festinstalliert), 7 Stimmen für Variante B (Beton mit Natursteinverkleidung) und 5 Enthaltungen.
+- TOP 8.: Sachstandsbericht private Wiederaufbauhilfe Antrag zum Aufruf an das Ministerium; Beschleunigung und Vereinfachung der Wiederaufbauhilfe hier: Antrag der FDP-Fraktion vom 18.01.2022 - Kein Beschluss erforderlich.
+- TOP 9.: Neu-/Umbesetzung des Betriebsausschusses "Stadtwerke Bad Münstereifel" hier: Antrag der CDU-Fraktion vom 02.02.2022 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 58 GO NRW nicht mit.
+- TOP 10.: Umbesetzung im Bildungs- und Sozialausschuss hier: Antrag der CDU-Fraktion vom 10.02.2022 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 58 GO NRW nicht mit.
+- TOP 11.: Bestellung einer Feuerwehrkommission hier: gemeinsamer Antrag der Fraktionen CDU, SPD, UWV und FDP vom 22.02.2022 - Beschluss s. RD-Nr. 654-XI/Z-1.
+- TOP -: Bestellung einer Feuerwehrkommission hier: Einrichtung einer Bau- und Feuerwehrkommission - Einstimmiger Beschluss:
+- TOP 12.: Wiederwahl einer Schiedsperson - Einstimmiger Beschluss:
+- TOP 13.: Neuwahl einer Schiedsperson - Einstimmiger Beschluss:
+- TOP 14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Betriebsleitung des Eigenbetriebs Stadtwerke hier: kaufmännische Betriebsleitung - Einstimmiger Beschluss bei 2 Enthaltungen und ohne Mitwirkung des Stadtverordneten Edmund Daniel, UWV-Fraktion:
+- TOP 16.: Entwicklung Baugebiet Bebauungsplan Nr. 101, An den Ohndorfer Gärten; hier: Umgang mit dem geschützten Landschaftsbestandteil/Waldfläche hier: Ergänzungs- und Änderungsantrag- Antrag der Fraktion Bündnis 90/Die Grünen vom 03.03.2022 - Einstimmiger Beschluss:
+- TOP 17.: Hochwasserschutz hier: Kooperationsvereinbarung zur Erstellung eines interkommunalen Hochwasserschutzkonzeptes - Einstimmiger Beschluss:
+- TOP 18.: Abschlussbericht Bestandsaufnahme Gewässerschäden und Wiederaufbauplan hier: a) Sachstandsbericht b) Vergabe 1. Auflage Gewässermaßnahmen 2022 - Einstimmiger Beschluss:
+- TOP 19.: Erlass des Wirtschaftsplanes 2022 des Forstbetriebes der Stadt Bad Münstereifel hier: Feststellung - Einstimmiger Beschluss:
+- TOP -: Erlass des Wirtschaftsplanes 2022 des Forstbetriebes der Stadt Bad Münstereifel hier: Veränderungen wegen Wiederherstellung der Wirtschaftswege nach der Flutkatastrophe 14./15. Juli 2021 - Einstimmiger Beschluss:
+- TOP 20.: Feststellung Jahresabschluss zum 31.12.2020 des Eigenbetriebes Stadtwerke - Betriebszweig Abwasser - - Einstimmiger Beschluss:
+- TOP 21.: Feststellung Jahresabschluss zum 31.12.2020 des Eigenbetriebes Stadtwerke - Betriebszweig Wasser - Einstimmiger Beschluss:
+- TOP 22.: Erlass der Wirtschaftspläne 2022 des Eigenbetriebes Stadtwerke mit den Betriebszweigen Wasser und Abwasser; hier: Feststellung - Einstimmiger Beschluss:
+- TOP 23.: Erlass der Haushaltssatzung für das Haushaltsjahr 2022 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2022; hier: 2. Veränderungsliste sowie Veränderungsliste zum Wiederaufbau - Beschluss s. RD-Nr. 580-/Z-7.
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2022 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2022; hier: 3. Veränderungsliste sowie 2. Veränderungsliste zum Wiederaufbau und Antrag auf Entfall/Aussetzung des Haushaltssicherungskonzeptes - Einstimmiger Beschluss ohne Mitwirkung des Stadtverordneten Thomas Bell, Die Linke:
+- TOP 24.: Stellenplan für das Haushaltsjahr 2022 - Beschluss s. RD-Nr. 594-XI/Z-2.
+- TOP -: Stellenplan für das Haushaltsjahr 2022 hier: Anpassung nach Beratung im Haupt- und Finanzausschuss am 16.03.2022 - Einstimmiger Beschluss ohne Mitwirkung des Stadtverordneten Thomas Bell, Die Linke:
+- TOP 25.: Anfragen und Mitteilungen
+- TOP 25.1: Mündliche Mitteilung gemäß Korruptionsbekämpfungsgesetz; Gremientätigkeit der Rats- und Ausschussmitglieder und der Bürgermeisterin
+- TOP 25.2: Aktuelle Situation Ukraine-Flüchtlinge
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Wiederwahl einer Schiedsperson - Einstimmiger Beschluss:
+- TOP 2.: Neuwahl einer Schiedsperson - Beschluss mit 19 Ja- und 9 Nein-Stimmen sowie 1 Enthaltung:
+- TOP 3.: Errichtung von Windenergieanlagen hier: Bieterauswahl - Beschluss s. RD-Nr. 33-XI/Z-22.
+- TOP -: Errichtung von Windenergieanlagen hier: Ergänzung Bieterauswahl - Einstimmiger Beschluss:
+- TOP 4.: Ersatzbeschaffung zerstörter Parkscheinautomaten; hier: Auftragsvergabe - Beschluss s. RD-Nr. 674-XI/Z-1.
+- TOP -: Ersatzbeschaffung zerstörter Parkscheinautomaten; hier: Ergänzung Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 5.: Entwicklung Baugebiet Bebauungsplan Nr. 101, An den Ohndorfer Gärten; hier: Umgang mit dem geschützten Landschaftsbestandteil/Waldfläche - Kein Beschluss s. TOP 16, RD-Nr. 625-XI/Z-4.
+- TOP 6.: Erwerb von Grundstücken im Bereich der Kölner Straße - Einstimmiger Beschluss:
+- TOP 7.: Anfragen und Mitteilungen
