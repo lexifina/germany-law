@@ -1,0 +1,113 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-03-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6810748
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6810748
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Helmut-Dietl-Straße der Gesamtstrecke der Gisela-Stein-Straße
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Guffertstr. 13, TEKTUR zu 1.23-2021-22506-32 - Neubau dreier Reihenhäuser mit 3 Garagen
+- TOP 3.1.2.: Kreillerstr. 129, Neubau eines Wohngebäudes (26 WE) mit Tiefgarage
+- TOP 3.1.3.: Werksviertel: Beeinträchtigung durch Bau stellen minimieren; Antrag CSU-Fraktion
+- TOP 3.1.4.: Aufwertung der Grünfläche am zukünftigen Verlauf des Hachinger Bachs - Anfrage Ortstermin durch Baureferat - (vertagt aus 11/21)
+- TOP 3.1.5.: Antrag: Bäume für den Piratenspielplatz nahe der Gögginger Straße; Antrag Die Grünen
+- TOP 3.1.6.: Mehr Parkbänke in Berg am Laim; Antrag Fraktion Die Grünen
+- TOP 3.1.7.: Baumkirchen Mitte: Teilweise Freigabe der Grünflächen 2023; Antrag CSU-Fraktion und Fraktion Die Grünen
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Straßenmarkierung/Verkehrsführung Gehbahn und Radweg in der Friedenstr. 20-26 mit Seite Haager Straße - Anhörung durch das Baureferat -
+- TOP 3.2.2.: Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen Sitzungsvorlage Nr. 20-26 / V XXXX Beschluss des Mobilitätsausschusses vom XXXX - Anhörung der Bezirksausschüsse zum Beschlussentwurf -
+- TOP 3.2.3.: Entzerrung des Verkehrssituation rund um das Michaeli-Gymnasium und der neuen Grundschule an der St.-Veit-Straße; Antrag Fraktion FW/ÖDP
+- TOP 3.2.4.: Dokumentation der digitalen Beteiligungsveranstaltung zur Mobilitätsstrategie 2035 - Anhörung durch das Mobilitätsreferat -
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Städtebauförderprogramme „Zukunft Stadtgrün“ und „Sozialer Zusammenhalt“ Sanierungsgebiet „Innsbrucker Ring/Baumkirchner Straße“ Öffentliche Grünfläche an Campus Ost im 14. Stadtbezirk Berg am Laim 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag - Anhörung zum Beschlussentwurf -
+- TOP 3.3.2.: Genehmigungsantrag Spielen in der Stadt e.V. für Zirkus Pumpernudl ab April 2022
+- TOP 3.3.3.: Bezirkssportanlage an der Fehwiesenstraße / Campus-Ost: Hilfe für die ansässigen Sportvereine; Bitte eines Vereins
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Initiative „Open-Air-Konzerte“ Open-Air-Konzerte vom 01.05. - 01.08.2022 8.700,00 € / Az. 0262.0-14-0316
+- TOP 3.5.2.: (E) Stadtbezirksbudget Jane Addams Zentrum e.V. Gutscheinaktion für Geflüchtete 7.000,00 € / Az. 0262.0-14-0311
+- TOP 3.5.3.: (E) Stadtbezirksbudget Condrobs e.V. Therapeutische Ferienfreizeit für suchtmittelkranke Erwachsene im Juli 2022 1.742,00 € / Az. 0262.0-14-0317
+- TOP 3.5.4.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032, hier: Abfrage mit der Bitte um Rückmeldung bis Anfang Mai 2022 (vertagt aus 02/22)
+- TOP 3.5.5.: Antrag: Änderung der BA-Satzung, Migrations-/Integrationsbeauftragte* in BA-Satzung verankern; Antrag Die Linke
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Guffertstr. 13, TEKTUR zu 1.23-2021-22506-32 - Neubau dreier Reihenhäuser mit 3 Garagen
+- TOP 3.6.2.: Kreillerstr. 129, Neubau eines Wohngebäudes (26 WE) mit Tiefgarage
+- TOP 3.6.3.: Josephsburgstr. 74
+- TOP 3.6.4.: Berg-am-Laim-Str. 61 -69
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk in der Zeit vom 21.02.2022 bis 13.03.2022
+- TOP 4.1.2.: Heinrich-Wieland-Straße; Neuerrichtung einer Geothermieanlage; Bescheid vom 07.02.2022 - Information durch den Bezirksausschuss 16 Ramersdorf-Perlach -
+- TOP 4.1.3.: Zwischenbericht Projekt Geothermie Michaelibad Stand: 24.02.2022
+- TOP 4.1.4.: Café Mahlerhaus Baumkirchner Str. / Ecke Josephsburgstr. in Berg am Laim – aktueller Sachstand
+- TOP 4.1.5.: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 4.1.6.: Aufstellen von Mülleimern in der Berg-am-Laim-Straße und Kreillerstraße
+- TOP 4.1.7.: Glasscherben auf öffentlichen Flächen häufig entfernen
+- TOP 4.1.8.: Wertstoffinseln häufiger säubern, Container öfters entleeren
+- TOP 4.1.9.: Michaelianger: Hinweisschilder am Parkeingang
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 4.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.3.: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 4.2.4.: (U) Handlungsprogramm Mittlerer Ring – Projekte im Bereich der Tegernseer Landstraße und des McGraw-Grabens und des Innsbrucker Rings - Verlängerung des Candidtunnels - Rampenlösung McGraw-Graben - Deckelung des McGraw-Grabens - Lärmschutz Tegernseer Landstraße - Radweglückenschlüsse im Bereich der Tegernseer Landstraße - Verbesserung der Verkehrssicherheit am St.-Quirin-Platz siehe Betreff Beschlussvorlage
+- TOP 4.2.5.: (U) IAA Mobility 2021 – Bericht über die Einhaltung der Stadtratsvorgaben Keine Ausrichtung der IAA in München mehr ohne richtiges Nachhaltigkeitskonzept Antrag Nr. 20-26 / A 0 20-26/A 01997 von der Fraktion ÖDP/München-Liste, Stadtratsfraktion DIE LINKE vom 11.10.2021 Keine IAA mehr auf öffentlichen Plätzen und Grünflächen in der Maxvorstadt Antrag Nr. 20-26 / B 03125 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 19.10.2021
+- TOP 4.2.6.: St.-Veit-Straße (Westseite nördl. Heinrich-Wieland-Str.); Absolutes Haltverbot – zeitlich beschränkt mittels Zusatz „werktags Mo-Fr 7.30 – 8.30 Uhr“
+- TOP 4.2.7.: Einrichtung eines absoluten Haltverbots mit dem zeitlichen Zusatzzeichen „ werktags 7.00-8.30 Uhr“ hier: Hachinger-Bach-Straße nach Einmündung St.-Veit-Straße
+- TOP 4.2.8.: Baumaßnahmen der Stadtwerke München - Stichtag: 04.02.2022 - 28.02.2022
+- TOP 4.2.9.: Gleisbaumaßnahme „Neue Weichen Implerstraße“ Information zum Schienenersatzverkehr und weiteren verkehrlichen Belangen (Planungsstand 02/2022, Änderungen vorbehalten)
+- TOP 4.2.10.: (U) Durchführung einer vergleichenden Personenbefragung zur Erfassung von Akzeptanz gegenüber automatisierten und vernetzten Fahrzeugen im Rahmen des Förderprojekts TEMPUS Erlass einer Personenbefragungssatzung der Landeshauptstadt München
+- TOP 4.2.11.: Versorgungsleitungen bei Baustellen endlich besser sichern
+- TOP 4.2.12.: Flyer Fernwärme-Projekt Anzinger Straße - Information durch die SWM GmbH -
+- TOP 4.2.13.: Genehmigung ehemaliger Corona-Freischankflächen - Anschreiben an die Bezirksausschüsse -
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Ausstattung der Berg am Laimer Schulen mit Luftfiltern
+- TOP 4.3.2.: Errichtung einer Sportbox in Berg-am-Laim
+- TOP 4.3.3.: Anfrage Öffentlichkeitsarbeit - Antwort des Direktoriums -
+- TOP 4.3.4.: Informationsbrief von Spielen in der Stadt e.V. über die Planung der POP UPS 2022
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: (U) Die Münchner Alten- und Service-Zentren (ASZ) - Aktueller Stand und weitere Planungen Alten- und Service-Zentrum Berg am Laim sanieren! Antrag Nr. 14-20 / A 02100.. Einrichtung eines ASZ plus im Neubaugebiet Freiham sowie in Lochhausen Antrag Nr. 14-20 / A 04607... Weiteres Alten- und Servicezentrum in Hadern ermöglichen Antrag Nr. 14-20 / A 06521... Zweites ASZ in Laim Antrag Nr. 14-20 / A 05201... Zweites ASZ in Laim Antrag Nr. 14-20 / B 06191...
+- TOP 4.4.2.: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 4.4.3.: Anpassung des Bolzplatzes an der Kreillerstraße 21 an die Bedürfnisse der Jugendlichen
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Mehrjahresinvestitionsprogramm für die Jahre 2021-2025
+- TOP 4.5.2.: Verwendungnachweis der Evang.-Luth. Kirchengemeinde Sophie Scholl hier: 2 Autorenlesungen zum 100. Geburtstag von Sophie Scholl
+- TOP 4.5.3.: Evaluation des Livestreams bei einer Bürgerversammlung und Weiterentwicklung der Bürgerversammlungen Sitzungsvorlage Nr. 20-26 / V 05660
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Josephsburgstr. 140 a, Fällgenehmigung
+- TOP 4.6.2.: Halserspitzstr. 12, Ablehnung der Fällung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.8.: Josephsburgstr. 139, Neubau eines Doppelhauses mit Mansarddach (Nachtrag)
+- TOP 3.3.4.: Entwurf der Beschlussvorlage "Schulbauoffensive 2013-2030; Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung" - Anhörung durch das Referat für Bildung und Sport - (Nachtrag)
+- TOP 5.3.1.: BA-Information des Sozialreferates zur Akutunterbringung Vertriebener aus der Ukraine - Inbetriebnahme/Aufbau von Leichtbauhallenstandorten hier: Hachinger-Bach-Straße (Inbetriebnahme vorr. ab Mitte Mai)
+- TOP 3.1.9.: Sonnwendjochstr. 76, Neubau eines Mehrfamilienhauses mit 8 WE und 8 TG-Parker (Nachtrag)
+- TOP 3.6.5.: Sonnwendjochstr. 76, Neubau eines Mehrfamilienhauses mit 8 WE und 8 TG-Parker (Nachtrag)
+- TOP 3.3.5.: Maibaumverein Berg am Laim e.V., Maifeier am 01.05.2022, von 11.00 Uhr bis 18.00 Uhr, auf dem Grünen Markt (Nachtrag)
+- TOP 3.1.10.: Blombergstr. 22, TEKTUR zu 1.2-2021-1498-32 - Neubau eines Mehrfamilienhauses mit Tiefgarage - Jetzt: Neubau eines Doppelhauses (3 WE) sowie einer Duplexgarage und eines Carports (Nachtrag)
+- TOP 3.6.6.: Blombergstr. 22, TEKTUR zu 1.2-2021-1498-32 - Neubau eines Mehrfamilienhauses mit Tiefgarage - Jetzt: Neubau eines Doppelhauses (3 WE) sowie einer Duplexgarage und eines Carports (Nachtrag)
+- TOP 3.2.5.: Novellierung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung – SoNuGebS -) sowie der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL) Unterstützung der ambulanten Händler in 2022 fortsetzen Antrag Nr. 20-26 / A 02420 der CSU Stadtratsfraktion vom 18.02.2022, eingegangen am 18.02.2022 Sitzungsvorlage Nr. 20-26 / V 05708 - Anhörung durch das Kreisverwaltungsrefert zum Beschlussentwurf - (Nachtrag)
+- TOP 3.5.6.: Klimaschutz konkret - "Klima-Ausschuss" in jedem Bezirksausschuss; Empfehlung Nr. 20-26 / E 00228 der Bürgerversammlung des Stadtbezirks 20 - Hadern am 22.07.2021 Einrichtung von Klimaausschüssen, Änderung der BA-Satzung - Anhörung durch das Direktorium -
