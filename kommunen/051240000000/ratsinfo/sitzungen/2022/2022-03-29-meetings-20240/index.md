@@ -1,0 +1,62 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-03-29T16:04:00+02:00
+- Ende: 2022-03-29T18:40:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20240
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20240
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (21.03.2022) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00289413.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00290496.pdf
+
+## Tagesordnung
+
+- TOP 1: Sachstand zum Investitionsprogramm des Gebäudemanagements - Entgegennahme ohne Beschluss
+- TOP 2: Notstromaggregat Lokalfunk im Rahmen des Katastrophenschutzes - ungeändert beschlossen
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 3: Jahresabschlüsse
+- TOP 3.1: Jahresabschluss 2020 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 3.1.1: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 3.2: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2020/2021 - ungeändert beschlossen
+- TOP 3.2.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2020/2021 - ungeändert beschlossen
+- TOP 3.3: Jahresabschluss 2020 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 4: Wirtschaftspläne
+- TOP 4.1: Wirtschaftsplan 2022 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 5.1: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.01.2022 bis 31.12.2022 - ungeändert beschlossen
+- TOP 5.2: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.07.2021 für das Altenzentrum Wuppertaler Hof - ungeändert beschlossen
+- TOP 5.3: Leitung des Eigenbetriebs Straßenreinigung Wuppertal (ESW) - Entgegennahme ohne Beschluss
+- TOP 5.4: Abberufung und Bestellung eines Mitglieds im Aufsichtsrat der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 5.5: Aufbereitung des Planungsprozesses zum Interimsstandort auf der Hardt - Entgegennahme ohne Beschluss
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: Personalgewinnung und Personalmarketing - Entgegennahme ohne Beschluss
+- TOP 8: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 8.1: Anmietung der ehemaligen Bundesbahndirektion - ungeändert beschlossen
+- TOP 8.1.1: Änderungsantrag zu VO/0049/22-Neuf. „Anmietung der ehemaligen Bundesbahndirektion“ - abgelehnt
+- TOP 8.1.2: Zusammenfassung der Nachfragen und Antworten zur Anmietung der ehemaligen Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 8.2: Verlagerung des Stadtarchivs - vertagen
+- TOP 8.3: zurückgezogen (Vorberatungen nicht abgeschlossen): Betreibermodell öffentliche Toiletten - zurückgezogen
+- TOP 8.4: Neubau Pfälzer Steg und Aufwertung – Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 8.5: Beschluss zur Errichtung der Modulbauten am Dietrich-Bonhoeffer-Weg 1 - ungeändert beschlossen
+- TOP 8.6: Einführung der Ehrenamtskarte NRW in Wuppertal - ungeändert beschlossen
+- TOP 8.7: Moderne Arbeitsorganisation bei der Stadtverwaltung Wuppertal - Gemeinsamer Antrag von CDU und BÜNDNIS 90/DIE GRÜNEN - geändert beschlossen
+- TOP 8.8: Sachstandsbericht Grundsteuerreform – Antrag von CDU und BÜNDNIS 90/DIE GRÜNEN vom 17.03.2022 - ungeändert beschlossen
+- TOP 9: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 10: Berichtsvorlagen
+- TOP 10.1: Auswirkung der Einwohnerzahl auf die Schlüsselzuweisungen - Entgegennahme ohne Beschluss
+- TOP 10.2: Überweisung der aktuellen Veränderungen gegenüber dem Haushaltsplan-Entwurf 2022/2023 zur Beratung an die Gremien - Entgegennahme ohne Beschluss
+- TOP 11: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 11.1: Verlängerung der Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Erhebung einer Infrastrukturabgabe - ungeändert beschlossen
+- TOP 11.2: Verlängerung des Verzichts auf die Gebührenerhebung für gaststättenrechtliche Änderungsanträge anlässlich der Hinzunahme oder Veränderung einer Außengastronomie - ungeändert beschlossen
+- TOP 11.3: Mittelbereitstellung für einen Bürgerentscheid gem. § 26 der Gemeindeordnung Nordrhein-Westfalens zur Bewerbung um die Durchführung der Bundesgartenschau 2031 in Wuppertal - ungeändert beschlossen
+- TOP 12: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 13: Berichtsvorlagen
+- TOP 14: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 15: Berichte und Mitteilungen
