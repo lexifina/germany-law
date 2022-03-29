@@ -1,0 +1,8 @@
+# TOP 5: Satzung zur Begründung eines besonderen Vorkaufsrechtes gemäß § 25 Abs. 1 Nr. 2 BauGB für ein Teilstück des Grundstücks Gemarkung Hiltrup, Flur 7, Flurstück 557
+
+- Sitzung: Sitzung (2022-03-29)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/225867
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/78631
