@@ -1,0 +1,77 @@
+# 12. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-03-29T16:07:00+02:00
+- Ende: 2022-03-29T18:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25193
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25193
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: A - Vorstellung des neuen Fußverkehrsbeauftragten
+- TOP -: B - Aktuelle Entwicklungen KVB-Leihrad
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Metropolengerechter Nachtverkehr – Prüfung der Ausweitung des Nachtverkehrs auf die Betriebstage Sonntag bis Donnerstag - geändert beschlossen
+- TOP 1.1.1: Hier:zu TOP 1.1. AN/0402/2022 Metropolengerechter Nachtverkehr – Prüfung der Ausweitung des Nachtverkehrs auf die Betriebstage Sonntag bis Donnerstag - ungeändert beschlossen
+- TOP 1.2: Instandsetzung Berliner Straße in Köln-Dünnwald - geändert beschlossen
+- TOP 1.2.1: Hier zu TOP 1.2. Instandsetzung Berliner Straße in Köln-Dünnwald - AN/0541/2022 - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße im Stadtbezirk Porz zwischen den Knotenpunkten Kölner Str./Berliner Str./Helenenstr. und Hauptstr./Friedrich-Ebert-Ufer - im ersten Durchgang verwiesen
+- TOP 3.2: Verwendung der Stellplatzablösemittel - ungeändert beschlossen
+- TOP 3.3: Bedarfsfeststellungsbeschluss zur Vergabe von Leistungen für den Themenbereich Mobilität im Rahmen der Vorbereitung und Durchführung der Fußball EM 2024 - ungeändert beschlossen
+- TOP 3.4: Erneuerung Flachdachabdichtung Stadtbahnhaltestelle Chorweiler - geändert beschlossen
+- TOP 3.4.1: Prüfantrag zum TOP 3.4, Erneuerung Flachdachabdichtung Stadtbahnhaltestelle Chorweiler, BV 0452/2022 - geändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 280. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.2: Erweiterter Planungsbeschluss zu Bahnsteiganhebungen an den Haltestellen Subbelrather Straße/Gürtel und Nußbaumerstraße - ohne Votum in nachfolgende Gremien
+- TOP 4.2.1: Erweiterter Planungsbeschluss zu Bahnsteiganhebungen an den Stadtbahnhaltestellen Subbelrather Straße/Gürtel und Nußbaumerstraße (3358/2021) - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Fußgängerpassage zwischen Schildergassse und Brüderstraße - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Satzung über die abweichende Herstellung von Erschließungsanlagen im Bereich "Krebelspfad" in Köln-Worringen - ungeändert empfohlen
+- TOP 4.5: Satzung über die abweichende Herstellung von Erschließungsanlagen im Bereich "Sürther Feld" in Köln-Rodenkirchen - ungeändert empfohlen
+- TOP 4.6: Fahrplanwechsel 2022 - Sonntägliche Anbindung des Krankenhauses Hohenlind an Lövenich durch die Linie 136 - ungeändert empfohlen
+- TOP 4.7: Fahrplanwechsel 2022 - Erschließung des Gewerbegebiets Marsdorf sowie Ausweitung der Betriebszeiten der Buslinie 143 - ungeändert empfohlen
+- TOP 4.8: 281. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.9: Fahrplanwechsel 2022 - Anbindung Gewerbegebiet Porz-Eil - ohne Votum in nachfolgende Gremien
+- TOP 4.10: Fahrplanwechsel 2022 - Überarbeitung des Abend- und Nachtverkehrs im Stadtbezirk Porz - ohne Votum in nachfolgende Gremien
+- TOP 4.11: Fahrplanwechsel 2022 - Angebotsausweitung Buslinie SB55/164 - ohne Votum in nachfolgende Gremien
+- TOP 4.12: 6. Satzung zur Änderung der Sondernutzungssatzung - im ersten Durchgang verwiesen
+- TOP 4.13: Bedarfsfeststellungsbeschluss Ebertplatz – Weiterführung der Zwischennutzung - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Fluoreszierende Fahrradwege - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: On-Demand-Verkehr KVB - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Öffnungsmöglichkeiten der Tiefgarage im Bezirksrathaus Lindenthal - Sache ist erledigt
+- TOP 6.2: Neue Buslinie von Bergisch Gladbach nach Thielenbruch - Sache ist erledigt
+- TOP 6.3: CO2 Belastung Ost-West-Achse: Nachfrage Volt - Sache ist erledigt
+- TOP 6.4: Abbruch und Ersatzneubau Kragplatte am Altstadtufer - Sache ist erledigt
+- TOP 6.5: Tödlicher Unfall am Aachener Weiher - Sache ist erledigt
+- TOP 6.6: Unfallgeschehen bei der KVB - Sache ist erledigt
+- TOP 6.7: Fahrradständer vor dem Spanischen Bau (kleine Budengasse) - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Gesamtinstandsetzung Mülheimer Brücke - Haushaltsrechtliche Unterrichtung des Rates - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - Kenntnis genommen
+- TOP 7.2.2: Fachliche Begleitung der Bezirksvertretungen in Verkehrsangelegenheiten - Kenntnis genommen
+- TOP 7.2.3: Linksrheinische Anlegestellen mit Dalben – Vorhaben der KD im Zusammenhang mit dem Ersatzneubau der Kragplatte - Kenntnis genommen
+- TOP 7.2.4: Baumaßnahmen Kölner Altstadt - Kenntnis genommen
+- TOP 7.2.5: Barrierefreie KVB-Haltestellen an Subbelrather Straße/Gürtel und Nußbaumerstraße vor 2030 - Kenntnis genommen
+- TOP 7.2.6: Realisierung Antrag Jobrad für städtische Mitarbeitende, Anfrage gem. § 4 der Geschäftsordnung des Rates der Fraktionen Bündnis 90 / Die Grünen, CDU-Fraktion und Volt-Fraktion, AN/0453/2022 - Kenntnis genommen
+- TOP 7.2.7: StadtBahn Süd - Risikoanalyse Trinkwasserschutz; Verzögerung im Planungsablauf - Kenntnis genommen
+- TOP 7.2.8: Verwendung der Stellplatzablösemittel - Kenntnis genommen
+- TOP 7.2.9: Lastenradförderung 2021 - zurückgestellt
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Erneuerung der Neusser Landstraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Ausfälle auf der Linie 7 - Sache ist erledigt
+- TOP 8.3: Beschlüsse im Rahmen der Ost-West-Achse - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.4: Baustelle an der Haltestelle Mülheimer Bahnhof - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.5: Ampelschaltungen an Straßenbahnhaltestellen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.6: Brückenbau Escher Straße - zur weiteren Bearbeitung in die Verwaltung überwiesen
