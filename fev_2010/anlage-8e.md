@@ -3,7 +3,7 @@
 I) Führerscheine, die bis einschließlich 31. Dezember 1998 ausgestellt worden sind:
   | Geburtsjahr des Fahrerlaubnisinhabers | Tag, bis zu dem der Führerschein umgetauscht sein muss |
   | Vor 1953 | 19. Januar 2033 |
-  | 1953 bis 1958 | 19. Januar 2022 |
+  | 1953 bis 1958 | 19. Juli 2022 |
   | 1959 bis 1964 | 19. Januar 2023 |
   | 1965 bis 1970 | 19. Januar 2024 |
   | 1971 oder später | 19. Januar 2025 |

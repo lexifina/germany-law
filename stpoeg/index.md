@@ -10,7 +10,7 @@
 - [§ 7 Begriff des Gesetzes](0007.md)
 - [§ 8 Mitteilungen in Strafsachen gegen Mandatsträger](0008.md)
 - [§ 9 Vorwarnmechanismus](0009.md)
-- [§ 10 (weggefallen)](0010.md)
+- [§ 10 Hemmung der Unterbrechungsfristen wegen Infektionsschutzmaßnahmen](0010.md)
 - [§ 11 Übergangsregelung zum Gesetz zur Novellierung der forensischen DNA-Analyse](0011.md)
 - [§ 12 Übergangsregelung zum Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten](0012.md)
 - [§ 13 Übergangsvorschrift zum Gesetz zur Novellierung des Rechts der Unterbringung in einem psychiatrischen Krankenhaus gemäß § 63 des Strafgesetzbuches und zur Änderung anderer Vorschriften](0013.md)
