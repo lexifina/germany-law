@@ -1,0 +1,52 @@
+# Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-03-29T17:00:00+02:00
+- Ende: 2022-03-29T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/233
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5893
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5893
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00163364.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00163364.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00163364.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Wahl einer*eines stellvertretenden Ausschussvorsitzenden - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP 5: Volmerswerther Straße: Fahrbahneinengung sowie Umgestaltung des Knotenpunktes Volmerswerther Straße / Dammweg / Elvekumer Weg - mehrheitlich zugestimmt
+- TOP 6: Dunantstraße: Sanierung eines Stichweges im Bereich der Häuser Nr. 43 – 49 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 7: Antrag der Mitglieder der CDU betr. Handel und Gewerbe in Erfttal - beraten ohne Abstimmung
+- TOP 8: Antrag der Mitglieder der CDU betr.: Sachstandsbericht Sekundarschulen Gnadental - beraten ohne Abstimmung
+- TOP 9: Anregung zur Tagesordnung betr.: Ortsmittelpunktekonzept und Kitabau Erfttal-West - beraten ohne Abstimmung
+- TOP 10: Antrag der Mitglieder der CDU betr.: Grünzeit der Ampel Bonner-Straße auf Höhe der Kasterstraße verlängern - einstimmig zugestimmt
+- TOP 11: Antrag der Mitglieder von SPD, B90 Die Grünen und UWG/Aktiv für Neuss betr.: Wartehäuschen für die Bushaltestelle "Sporthafen" - beraten ohne Abstimmung
+- TOP 12: Antrag der Mitglieder der CDU betr.: Trampelpfad vom Radweg an der Bonner Straße zu Grundschule - vertagt
+- TOP 13: Antrag der Mitglieder von SPD, B90 Die Grünen und UWG/Aktiv für Neuss betr.: Radwege "an der alten Fabrik" - einstimmig zugestimmt
+- TOP 14: Antrag der Mitglieder der CDU betr.: Parken in Erfttal - beraten ohne Abstimmung
+- TOP 15: Antrag der Mitglieder der CDU betr.: Querungshilfe Bonner Straße bei REWE - einstimmig zugestimmt
+- TOP 15.1: Antrag der Mitglieder von SPD, B90 Die Grünen und UWG/Aktiv für Neuss betr.: Fahrradabstellmöglichkeiten im Bereich der "Eisliebe" (Dechant-Hess-Straße/Rheinuferstraße) - einstimmig zugestimmt
+- TOP 15.2: Antrag der Mitglieder von SPD, B90 Die Grünen und UWG/Aktiv für Neuss betr.: Ergänzung der Stichstraße zum Familienzentrum "Regenbogen" durch den Bau eines Bürgersteiges - einstimmig zugestimmt
+- TOP 15.3: Antrag der Mitglieder von SPD, B90 Die Grünen und UWG/Aktiv für Neuss betr.: Verbesserungen für die Bushaltestellen am Kuhweg - einstimmig zugestimmt
+- TOP 15.4: Antrag der Mitglieder von SPD, B90 Die Grünen und UWG/Aktiv für Neuss betr.:Vorziehen der Maßnahmen für die Volmerswerther Straße - mehrheitlich zugestimmt
+- TOP -: Anfragen
+- TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+- TOP -: Mitteilungen der Verwaltung
+- TOP 16: Bericht der Bezirksbeamten der Kreispolizeibehörde - vertagt
+- TOP 16.1: Bericht zur Kinderversammlung mit dem Bürgermeister in Grimlinghausen am 27.10.2021 - zur Kenntnis genommen
+- TOP 17: Bericht über einen Ortstermin zum Thema Grünpflege in Grimlinghausen - zur Kenntnis genommen
+- TOP 18: Präsentation der Autobahn GmbH „Rheinbrücke Flehe, Aktueller Sachstand" im Bezirksausschuss VII - Uedesheim vom 16.12.2021 - zur Kenntnis genommen
+- TOP 19: Bebauungsplan Nr. 143/6 - Gnadental, St. Konradquartier - Bericht über die Frühzeitige Beteiligung - zur Kenntnis genommen
+- TOP 20: Umleitung Schwerlastverkehr von der Bonner Straße - zur Kenntnis genommen
+- TOP 21: Kreuzung L 380/Euskirchener Straße - Fußgänger- und Radfahrersicherung - zur Kenntnis genommen
+- TOP 22: Bericht aus Rat und Fachausschüssen zu Angelegenheiten des Bezirks - zur Kenntnis genommen
+- TOP 23: Ergebnisse zu Vorschlägen und Anregungen aus dem Bezirksausschusses - zur Kenntnis genommen
+- TOP 24: Einwohner*innenfragestunde
