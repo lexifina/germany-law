@@ -1,0 +1,57 @@
+# Verwaltungsrat SBG AöR
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-03-29T18:07:00+02:00
+- Ende: 2022-03-29T20:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2933
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2933
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Benennung eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Zuständigkeitsordnung für die Beiräte der Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 4: Energiebericht 2020 - Kenntnisnahme
+- TOP 5: Digitalisierung des Rechnungswesens
+- TOP 6: Resonnaz zum neuen Mängelmelder
+- TOP 7: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen vom 15.03.2022
+- TOP 7.1: Gestaltung Platz und Brunnen in Gustorf - einstimmig beschlossen
+- TOP 7.2: Überholverbot von einspurigen Fahrzeugen - einstimmig beschlossen
+- TOP 7.3: Grevenbroich als attraktive Etappenstadt für Wohnmobile etablieren - von der Tagesordnung abgesetzt
+- TOP 7.4: Warnhinweise/Beschilderung Erftstraße Frimmersdorf - einstimmig beschlossen
+- TOP 7.5: Einrichtung einer Tempo 30-Zone für die Karl-Oberbach-Straße bis zur Straße Auf der Schanze - einstimmig beschlossen
+- TOP 7.6: Ersatz der vorhandenen Lichtquellen durch LED-Beleuchtung in den Immobilien der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 7.7: Bereitstellung von € 100.000 für die Unterhaltung von Brückenbauwerken im Stadtgebiet - mehrheitlich beschlossen
+- TOP 7.8: Straßenzustand Gustorf Torfstecherweg Höhe Kirmesplatz - einstimmig beschlossen
+- TOP 7.9: Verkehrssituation Erckensstraße / Elsener Mühle - mehrheitlich beschlossen
+- TOP 7.10: Verkehrssituation Bertha-von-Suttner-Straße - vertagt
+- TOP 7.11: Radweg auf dem Tribünenweg errichten - einstimmig beschlossen
+- TOP 7.12: Verkehrsspiegel an der Kreuzung Richard-Wagner-Str. / Hans-Sachs-Str. in Elsen/Orken - einstimmig beschlossen
+- TOP 8: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege
+- TOP 9: Beantwortung der Anträge und Anfragen aus den letzten Sitzungen
+- TOP 9.1: Mietausgaben senken -Jugendamt am Standort Rathaus zusammenführen - Kenntnisnahme
+- TOP 9.2: Prüfung der z.Zt. angemieteten Räume durch die Stadt - werden diese noch benötigt? - Kenntnisnahme
+- TOP 10: Schriftliche Anträge
+- TOP 10.1: Anträge der SPD-Fraktion
+- TOP 10.2: Anträge der CDU-Fraktion
+- TOP 10.3: Anträge der Fraktion Bündnis 90 / Die Grünen
+- TOP 10.3.1: Änderung der Geschäftsordnung für die Beiräte - einstimmig beschlossen
+- TOP 10.4: Anträge der FDP-Fraktion
+- TOP 10.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 10.5.1: Stadtmöblierung am Synagogenplatz - einstimmig beschlossen
+- TOP 10.5.2: Waldwiese - einstimmig beschlossen
+- TOP 10.6: Anträge der UWG-Fraktion
+- TOP 10.6.1: Einrichtung einer Fußgängerampel auf der Wevelinghovener Straße in Barrenstein - einstimmig beschlossen
+- TOP 10.6.2: Fahrradfreundliche Stadt: Änderung der Verkehrsführung auf der Straße "An der Obermühle" in Wevelinghoven - einstimmig beschlossen
+- TOP 10.6.3: Instandsetzung der Feld/Forstwege - einstimmig beschlossen
+- TOP 11: Gemeinschaftsanträge
+- TOP 11.1: Schwimmende Photovoltaik - einstimmig beschlossen
+- TOP 12: Schriftliche Anfragen
+- TOP 12.1: Barrierefreiheit im ÖPNV gemäß Personenbeförderungsgesetz (PBefG) - einstimmig beschlossen
+- TOP 13: Anfragen von Verwaltungsratsmitgliedern
+- TOP 14: Mitteilungen des Vorstandes
+- TOP 15: Mitteilungen des Verwaltungsratsvorsitzenden
