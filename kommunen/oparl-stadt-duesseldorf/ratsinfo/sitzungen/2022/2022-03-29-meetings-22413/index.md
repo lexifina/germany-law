@@ -1,0 +1,68 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-03-29T17:00:00+02:00
+- Ende: 2022-03-29T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22413
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22413
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443926.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443926.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443926.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 2.1: Zulassung von Sachverständigen zu einzelnen Tagesordnungspunkten - einstimmig beschlossen
+- TOP 2.2: Zulassung von Vertretungen betroffener Bevölkerungsgruppen (Vertretung des Behindertenrates) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 3: Verwaltungsvorlagen und -berichte
+- TOP 3.1: Vorstellung Kinder- und Jugendförderplan 2021 - 2025 (mdl. Bericht Verwaltung) - vertagt
+- TOP 3.2: RRX-Planung im Abschnitt PFA 2.1 (mdl. Bericht Verwaltung) - zur Kenntnis genommen
+- TOP 3.3: Barrierefreier Ausbau von fünf Haltestellen entlang der Linie 704: Haltestellen „Färberstraße„, „Morsestraße“, „Fürstenplatz„, „Helmholtzstraße“ und „Mintropplatz„ - Empfehlung einstimmig beschlossen
+- TOP 3.4: Plockstraße Planungsänderung - zur Kenntnis genommen
+- TOP 3.5: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Fassaden- und Dachsanierung sowie Instandsetzung des Ehrenhofs am Standort des Lessing Gymnasiums/Berufskollegs, Ellerstraße 84-94" - einstimmig beschlossen
+- TOP 3.6: Zuschuss an den SV Oberbilk 09 Düsseldorf e. V. - einstimmig beschlossen
+- TOP 4: Bau- und Planungsangelegenheiten
+- TOP 4.1: Bebauungsplan-Vorentwurf Nr. 03/034 - Südlich Haroldstraße - Empfehlung einstimmig beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 5.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2022 - mehrheitlich beschlossen
+- TOP 6: Anfragen
+- TOP 6.1: Anfragen aus vorherigen Sitzungen
+- TOP 6.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 6.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.3: Gestaltung Bahnunterführung Ellerstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.4: Stellplätze für Fahrräder auf der Fleher Str. / In der Hött (Anfrage Fraktionen BÜNDNIS 90 / DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.5: Umbau und Aufzug Regionalhalt Bilk-S (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.6: Wie ist der Stand des Projekts „Neubau des Luisen Gymnasiums“ auf dem Areal südl. auf ´m Tetelberg? (Anfrage DIE LINKE) - vertagt
+- TOP 6.1.7: Status quo zum 1. Januar 2022 der Haltestellen im Bezirk 03 (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 6.1.8: Aufwertung der Eisenstraße (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 6.1.9: Radweg Fleher Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.10: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.12: Sachstand Fahrradturm Bilker Bahnhof (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 6.1.13: Sachstand barrierefreier Umbau Karolingerplatz (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 6.1.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.16: Unfallzahlen zu ZweiradfahrerInnen (Anfrage SPD-Fraktion) - vertagt
+- TOP 6.2: Aktuelle Anfragen
+- TOP 6.2.1: Neugestaltung des südlichen Kirchplatzes - Kinderspielplatz hinter der Kirche (Anfrage CDU-Fraktion) - vertagt
+- TOP 6.2.2: Umbau und Steuerung der Lichtzeichenanlage am Fuß- und Radweg im Kreuzungsbereich Düssel- und Neusser Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.2.3: Zustand der Bürgersteige im Stadtbezirk 03 (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Neugestaltung der Fischerhausterrasse im Ständehauspark (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU) - mehrheitlich beschlossen
+- TOP 7.2: Beantwortung von Anfragen aus Bezirksvertretungen (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN, CDU) - vertagt
+- TOP 7.3: Kardinal-Frings-Brücke / Brücke Aderkirchweg (Antrag SPD-Fraktion) - abweichend beschlossen
+- TOP 7.4: Instandsetzung des Lessingplatzes (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Fahrradabstellanlagen im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 8.2: Fahrradpiktogramme auf der Volmerswerther Straße - zur Kenntnis genommen
+- TOP 8.3: Konzept für Florabars in Floragarten, Volksgarten und Sternwartpark - zur Kenntnis genommen
+- TOP 8.4: Korrektur von Anhängen an Straßenschildern Friedrich- und Elisabethstraße - zur Kenntnis genommen
+- TOP 9: Mitteilungen des Bezirksbürgermeisters
