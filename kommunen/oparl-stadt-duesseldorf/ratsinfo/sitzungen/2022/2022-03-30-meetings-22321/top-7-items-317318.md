@@ -1,0 +1,8 @@
+# TOP 7: Verkäufe von städtischen Flächen, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE
+
+- Sitzung: Bezirksvertretung 4 (2022-03-30)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/317318
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/116290
