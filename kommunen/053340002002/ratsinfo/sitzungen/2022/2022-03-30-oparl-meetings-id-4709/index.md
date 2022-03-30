@@ -1,0 +1,62 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2022-03-30T17:00:00+02:00
+- Ende: 2022-03-30T20:18:00+02:00
+- Ort: Geschwister-Scholl-Gymnasium
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4709
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4709
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Einwohner*innenantrag "Aachen klimaneutral 2030!" - ungeändert beschlossen
+- TOP 4: Krieg in der Ukraine - Bericht über Aktivitäten und unterstützende Maßnahmen für Flüchtlinge
+- TOP 5: Bericht über die pandemische Lage
+- TOP 6: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 26.01.2022 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 7: Resolution zur drohenden Standortschließung der Bezirksregierung Köln - Erhalt der Arbeitsplätze in Aachen
+- TOP 8: Bürgerantrag Bürger*innenrat für Aachen, Empfehlung zur Einrichtung - ungeändert beschlossen
+- TOP 9: Spielhallen - Erlaubnisgenehmigung nach dem Glücksspielstaatsvertrag 2021 - verwiesen
+- TOP 10: Ordnungsbehördliche Verordnung zur Darbietung von Straßenmusik im Bereich der Aachener Innenstadt - Verlängerung - ungeändert beschlossen
+- TOP 11: I. Änderung des Bebauungsplanes Nr. 815 - Gelände Limburg/ Liebigstraße - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Liebigstraße und Bahntrassehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 12: Wirtschaftsplan Eurogress Aachen 2022 - ungeändert beschlossen
+- TOP 13: Wirtschaftsplan für die Spielzeit 2022/2023 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 14: Vorläufiger Wirtschaftsplan für die Spielzeit 2023/2024 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 15: Geprüfter Jahresabschluss 2019/2020 von Stadttheater und Musikdirektion Aachen per 31.07.2020 - ungeändert beschlossen
+- TOP 16: Neufassung der Schul- und Schulgeldordnung der Musikschule - ungeändert beschlossen
+- TOP 17: Bericht der PKF Fasselt Partnerschaft mbB - Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft Rechtsanwälte über den Jahresabschluss zum 31.12.2020 und Lagebericht für das Wirtschaftsjahr 2020 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen sowie Entlastung der Betriebsleitung und des Betriebsausschusses für das Jahr 2020 - ungeändert beschlossen
+- TOP 18: Annahme von Schenkungen:
+- TOP 18.1: Schenkung des Nachlasses Felix Kreusch durch die Erben 2022 an die Stadt Aachen, Kulturbetrieb, Suermondt-Ludwig-Museum - ungeändert beschlossen
+- TOP 18.2: Schenkung des Nachlasses des Künstlers Ewald Mataré bzw. seiner Tochter Sonja Mataré durch den Nachlassverwalter Guido de Werd an die Stadt Aachen, Kulturbetrieb, Suermondt-Ludwig-Museum - ungeändert beschlossen
+- TOP 18.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.4: Schenkung Monsignore Jochen Zerlin an die Stadt Aachen, Kulturbetrieb, Suermondt-Ludwig-Museum - ungeändert beschlossen
+- TOP 19: Anfragen:
+- TOP 19.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 19.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 20: Ratsanträge - ungeändert beschlossen
+- TOP 21: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 21.1: Umbesetzungsantrag der SPD-Fraktion vom 30.03.2022 - ungeändert beschlossen
+- TOP 22: Mitteilungen der Verwaltung
+- TOP 23: Genehmigung der Dringlichkeitsentscheidung vom 22.03.2022 - Vereinfachung des Vergabeverfahrens im Rahmen der Betreuung und Unterbringung von Ukraine-Flüchtlingen - ungeändert beschlossen
+- TOP 24: Ruhen der Städtepartnerschaft Aachen - Kostroma - ungeändert beschlossen
+- TOP 25: Veränderung des Stellenplans 2022 durch Einrichtung von insgesamt 72 befristeten Stellen (kw 2023) für die Betreuung und Unterbringung schutzsuchender Ukrainer*innen im Fachbereich Wohnen, Soziales und Integration (FB 56) - geändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
