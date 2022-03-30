@@ -20,7 +20,7 @@
 - [§ 6 Verbindliche Auskunft](0006.md)
 - [§ 7 Antrag auf Zulassung zur Prüfung](0007.md)
 - [§ 8 Voraussetzungen für die Zulassung (Vorbildung)](0008.md)
-- [§ 8a Anerkannte Hochschulausbildungsgänge; Rechtsverordnung](0008a.md)
+- [§ 8a Anerkannte Hochschulausbildungsgänge; Verordnungsermächtigung](0008a.md)
 - [§ 9 Voraussetzungen für die Zulassung (Prüfungstätigkeit); Verordnungsermächtigung](0009.md)
 - [(XXXX) §§ 10, 10a und 11 (weggefallen)](xxxx-10-10a-und-11.md)
 
