@@ -1,0 +1,6 @@
+# TOP 20.: Schließung der Sitzung
+
+- Sitzung: Ortsrat Bramel (1. Sitzung) (2022-03-30)
+- Körperschaft: Gemeinde Schiffdorf
+- Öffentlich: ja
+- OParl: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/39055
