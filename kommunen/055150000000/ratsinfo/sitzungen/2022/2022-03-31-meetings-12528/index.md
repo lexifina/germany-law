@@ -1,0 +1,52 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-03-31T17:00:00+02:00
+- Ende: 2022-03-31T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/29
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12528
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12528
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00505674.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Tagesordnung
+- TOP 2.1: Genehmigung der Tagesordnung
+- TOP 2.2: Festlegung der Tagesordnungspunkte, bei denen zusätzliche Verwaltungspräsenz gewünscht wird
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Anträge / Anfragen / Eingaben
+- TOP 4.1: Bekanntgaben
+- TOP 4.2: Stellungnahmen der Verwaltung
+- TOP 5: Stadtentwicklung
+- TOP 5.1: Neufassung Errichtungsbeschluss für den Neubau eines Feuerwehrhauses der Freiwilligen Feuerwehr im Ortsteil Albachten - einstimmig beschlossen
+- TOP 5.2: Integrationsmonitoring 2020/2021 - zur Kenntnis genommen
+- TOP 5.3: Handlungskonzept Klimaanpassung 2030 der Stadt Münster - Sachstandsbericht 2020/2021 - zur Kenntnis genommen
+- TOP 5.4: Stadtteilentwicklungskonzept Handorf, Gelmer, Sudmühle, Mariendorf - von der Tagesordnung abgesetzt
+- TOP 5.5: Entwicklungsorientierte Wohnungsmarktbeobachtung in der Stadtregion Münster "eWoMaB" - Inhalte und Schlussfolgerungen - von der Tagesordnung abgesetzt
+- TOP 5.6: Stärkung der Innenstadt: Zwischenbericht zum Zukunftsprozess Stadt. Raum. Leben. - Münsters Mitte machen - zur Kenntnis genommen
+- TOP 5.7: Sachstandsbericht Förderprogramm "Modellprojekte Smart Cities" - zur Kenntnis genommen
+- TOP 5.8: Musik-Campus - Grundsatzbeschlüsse - ohne Beschlussfassung geschoben
+- TOP 6: Stadtplanung
+- TOP 6.1: Ergebnis Wettbewerb Bürgerpark York-Quartier - zur Kenntnis genommen
+- TOP 6.2: Neubau Feuer- und Rettungswache 3 der Berufsfeuerwehr in Münster Hiltrup - ohne Beschlussfassung geschoben
+- TOP 6.3: 88. FNP-Änderung - Beschluss zur Änderung - Bebauungsplan Nr. 627 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.4: Satzung zur Begründung eines besonderen Vorkaufsrechtes gemäß § 25 Abs. 1 Nr. 2 BauGB für ein Teilstück des Grundstücks Gemarkung Hiltrup, Flur 7, Flurstück 557 - einstimmig beschlossen
+- TOP 6.5: Neugestaltung Hamannplatz, Beschluss des Nutzungs- und Gestaltungskonzepts - einstimmig geändert beschlossen
+- TOP 6.6: 97. FNP-Änderung - VBP 609 - Hafenmarkt - Beschluss über die Stellungnahmen - Abschließender Beschluss - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 6.7: 112. Änderung FNP - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 620 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.8: Bebauungsplan Nr. 575: [Aaseestadt] - Erweiterter Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.9: Bebauungsplan Nr. 575 - Kenntnisnahme Entwurf - Offenlage - zur Kenntnis genommen
+- TOP 6.10: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 409 - Kenntnisnahme des Entwurfs zur öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 6.11: Bebauungsplan Nr. 562 - Stellungnahmen - Satzung - einstimmig beschlossen
+- TOP 6.12: 147 - 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.13: 147 - 3. Änderung - Entwurf Offenlage - zur Kenntnis genommen
+- TOP 6.14: 1. Änderung des Bebauungsplans Nr. 256 II - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.15: 118. Änderung des FNP - Beschluss zur Änderung - Bebauungsplan Nr. 628 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.16: Zweite Änderung des Bebauungsplans Nr. 306: Nienberge - Gewerbegebiet und Sportzentrum Feldstiege im Bereich des Gewerbegebiets zwischen der Feldstiege und der Altenberger Straße - einstimmig beschlossen
+- TOP 7: Bauvorhaben
+- TOP 7.1: Forschungsneubau Centre of Mathematics Münster (CMM), Orleansring
+- TOP 8: Verschiedenes
