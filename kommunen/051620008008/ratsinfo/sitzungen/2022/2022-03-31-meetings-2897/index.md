@@ -1,0 +1,97 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-03-31T18:35:00+02:00
+- Ende: 2022-03-31T19:59:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2897
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2897
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00125788.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00125788.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00125788.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Resolution Ukraine - einstimmig beschlossen
+- TOP 3: Einwohnerfragestunde gem. § 18 der Geschäftsordnung des Rates der Stadt Grevenbroich
+- TOP 3.1: Bewertung des Themas "Einführung einer allgemeinen Impfpflicht"
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 4.1: Genehmigung einer Dringlichkeitsentscheidung über den Beitritt zur Anstalt des öffentlichen Rechts "d-NRW AöR" - einstimmig beschlossen
+- TOP 5: Nachtragshaushalt 2022 - einstimmig beschlossen
+- TOP 6: Bekanntmachung über-und außerplanmäßiger Mittelbereitstellung im vierten Quartal 2021 - Kenntnisnahme
+- TOP 7: Quartalsbericht zum 31. Dezember 2021 nach §2 Abs. 2 NKF-CIG - Kenntnisnahme
+- TOP 8: Sachstandsbericht Sanierungsplan zum 31.12.2021 - Kenntnisnahme
+- TOP 9: Beteiligungsbericht 2020 - einstimmig beschlossen
+- TOP 10: ABK 2022 - 2027 - einstimmig beschlossen
+- TOP 11: Änderung des Wirtschaftsplans 2022 - einstimmig beschlossen
+- TOP 12: Mittelbereitstellungen
+- TOP 13: Besetzung externer Gremien - einstimmig beschlossen
+- TOP 14: Änderung der Satzung der Stadt Grevenbroich für die Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 15: Gemeinsames Digitalisierungsprojekt "Digitaler Zwilling" - einstimmig beschlossen
+- TOP 16: Entscheidung über einen Beratungspunkt aus der Sitzung des Jugendhilfeausschusses
+- TOP 16.1: Satzung der Stadt Grevenbroich über die Förderung von Kindern in der Kindertagespflege - einstimmig beschlossen
+- TOP 17: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 17.1: Teilaufh. G 115 Beschluss - einstimmig beschlossen
+- TOP 17.2: Aufh. G 115 1. Änd. Beschluss - einstimmig beschlossen
+- TOP 17.3: Teilaufh. G 115 2. Änd. Beschluss - einstimmig beschlossen
+- TOP 17.4: G 225 Satzungsbeschluss - einstimmig beschlossen
+- TOP 17.5: G 217 Aufstellung § 13a - einstimmig beschlossen
+- TOP 17.6: G 233 Aufstellung § 13a - einstimmig beschlossen
+- TOP 17.7: W 55 Aufstellungsbeschluss+Beschluss frühz. B.Bet. - mehrheitlich beschlossen
+- TOP 17.8: Aufhebung W 32 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 17.9: W 58 Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 18: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 19: Schriftliche Anträge
+- TOP 19.1: Anträge der SPD-Fraktion
+- TOP 19.1.1: Pilotprojekt Virtuelles Bürgerbüro (Antrag Nr.:08/2022)
+- TOP 19.1.2: "Neurath im Wandel - Wohnbebauung ermöglichen und Freizeitwerte schaffen" (Antrag Nr.:09/2022)
+- TOP 19.1.3: "Digitaler Zwilling für Grevenbroich" (Antrag Nr.:10/2022)
+- TOP 19.2: Anträge der CDU-Fraktion
+- TOP 19.2.1: Bezuschussung von Teilnehmern der "World Games" (Antrag Nr.: 32/2022)
+- TOP 19.2.2: Bezuschussung von Teilnehmern der "National Special Olympics" (Antrag Nr.: 31/2022)
+- TOP 19.2.3: Zuschuss für Energie- und Reinigungskosten von Vereinen (Antrag Nr.: 30/2022)
+- TOP 19.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 19.3.1: Umbesetzungen (Antrag Nr.: 24/2022) - einstimmig beschlossen
+- TOP 19.4: Anträge der FDP-Fraktion
+- TOP 19.4.1: Sondernutzungsgebühr in der Außengastronomie auch im Jahr 2022 aussetzen und weitere Unterstützung von Einzelhandel, der örtlichen Gastronomie und des Veranstaltungssektors prüfen (Antrag Nr.: 6/2022)
+- TOP 19.4.2: Sachstand: Neustart für CarSharing in Grevenbroich (Antrag Nr.: 7/2022)
+- TOP 19.4.3: Digitales Bezahlen der Parkgebühren auf Erfolgskurs bringen (Antrag Nr.: 34/2022)
+- TOP 19.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 19.5.1: Freilaufwiese für Hunde (Antrag Nr.: 19/2022)
+- TOP 19.5.2: Vermüllung und LKW-Parksituation Industriegebiet Ost (Antrag Nr.: 20/2022)
+- TOP 19.5.3: Müllgefäße in der Innenstadt/Fußgängerzone (Antrag Nr.: 21/2022) - einstimmig beschlossen
+- TOP 19.6: Anträge der UWG-Fraktion
+- TOP 20: Gemeinschaftsanträge
+- TOP 20.1: Isochronen-Generierung (Antrag Nr.: 13/2022)
+- TOP 20.2: Masterplan "Leben, Wohnen und Arbeiten im neuen Bahnhofsviertel" (Antrag Nr.: 14/2022)
+- TOP 20.3: "Parkraum für das Bahnhofsviertel schaffen" (Antrag Nr.: 15/2022)
+- TOP 20.4: Konzept "Stadtgestaltung durch attraktive Stadtmöblierung" (Antrag Nr.: 16/2022)
+- TOP 20.5: Masterplan "Die Stadtparkinsel zum Zentrum für Kultur und Kunst weiterentwickeln" (Antrag Nr.: 17/2022)
+- TOP 20.6: "Zukunftsbahnhof Grevenbroich" (Antrag Nr.: 18/2022)
+- TOP 20.7: Beschleunigung der lokalen Energiewende durch Bürgerbeteiligung am wirtschaftlichen Erfolg (Antrag Nr.: 28/2022)
+- TOP 20.8: Grevenbroich schließt sich der Städtetagsinitiative "Lebenswerte Städte durch angemessene Geschwindigkeiten" an (Antrag Nr.: 29/2022)
+- TOP 20.9: Verlängerung der Maßnahmen im Zusammenhang mit der Corona-Pandemie (Antrag Nr.: 36/2022)
+- TOP 20.10: Neubewertung der L361n (Antrag Nr.: 35/2022)
+- TOP 21: Schriftliche Anfragen
+- TOP 21.1: Anfragen der SPD-Fraktion
+- TOP 21.1.1: "Schutz der Zivilbevölkerung" (Anfrage Nr.: 11/2022)
+- TOP 21.2: Anfragen der CDU-Fraktion
+- TOP 21.2.1: Umwandlung der RB 39 zur S-Bahn (Anfrage Nr.: 33/2022)
+- TOP 21.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 21.3.1: Bereitstellung von kostenfreien Hygieneartikeln an Schulen (Anfrage Nr.: 25/2022)
+- TOP 21.3.2: Inklusionsassistenz (Anfrage Nr.: 26/2022)
+- TOP 21.4: Anfragen der FDP-Fraktion
+- TOP 21.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 21.5.1: Bebauungsplan G219 (Anfrage Nr.: 22/2022)
+- TOP 21.5.2: Planungsstand "Barrierefreier Ausbau von Bushaltestellen" (Anfrage Nr.: 23/2022)
+- TOP 21.6: Anfragen der UWG-Fraktion
+- TOP 21.6.1: Beantwortung der Anfrage der UWG Fraktion "Auswirkungen der Grundsteuerreform" (Anfrage Nr. 5/2022)
+- TOP 22: Gemeinschaftsanfragen
+- TOP 22.1: Strom- und Gassperren (Anfrage Nr.: 12/2022)
+- TOP 22.2: Straßenausbaubeiträge (Anfrage Nr.: 27/2022)
+- TOP 23: Mitteilungen des Bürgermeisters
+- TOP 23.1: Geldautomatensprengung
