@@ -16,7 +16,7 @@
 | 13. | 1013 | Fleischverarbeitung |  | X |
 | 14. | 1020 | Fischverarbeitung |  | X |
 | 15. | 1031 | Kartoffelverarbeitung |  | X |
-| 16. | 1032 | Herstellung von Frucht- und Gemüse-säften | X |  |
+| 16. | 1032 | Herstellung von Frucht- und Gemüsesäften | X |  |
 | 17. | 1039 | Sonstige Verarbeitung von Obst und Gemüse | X |  |
 | 18. | 1041 | Herstellung von Ölen und Fetten (ohne Margarine u. ä. Nahrungsfette) | X |  |
 | 19. | 1042 | Herstellung von Margarine u. ä. Nahrungsfetten |  | X |
