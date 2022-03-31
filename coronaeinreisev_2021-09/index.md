@@ -6,7 +6,6 @@
 ## Abschnitt 1 Allgemeine Bestimmungen
 
 - [§ 1 Zweck der Verordnung](0001.md)
-- [§ 2 Begriffsbestimmungen](0002.md)
 
 ## Abschnitt 2 Pflichten von Einreisenden
 
