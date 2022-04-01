@@ -1,0 +1,60 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-04-01T14:00:00+02:00
+- Ende: 2022-04-01T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21832
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21832
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443706.pdf
+- Ergebnisprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443706.pdf
+- Wortprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00443706.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 04.03.2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vorstellung Kinder- und Jugendförderplan 2021 bis 2025 - zurückgezogen
+- TOP 4.2: Vorstellung der neuen Vorsitzenden der Kunstkommission - zur Kenntnis genommen
+- TOP 4.3: Das 39er-Denkmal auf dem Reeser Platz - Bürger*innenbeteiligungsverfahren - Empfehlung einstimmig beschlossen
+- TOP 4.4: Bebauungsplan - Vorentwurf Nr. 03/034 - Südlich Haroldstraße - Empfehlung einstimmig beschlossen
+- TOP 4.5: Städtebaulicher Wettbewerb Nr. 01/020 - Campus Golzheim - Empfehlung einstimmig beschlossen
+- TOP 4.6: Umbau der Vegetationsflächen im Bereich des Kö-Bogens I entlang der Landskrone - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - Empfehlung mehrheitlich beschlossen
+- TOP 4.7: Neubau Rad- und Fußgängerbrücke Kennedydamm -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Trödelmärkte auf dem Gelände des Großmarktes im 2. Halbjahr 2022 - einstimmig beschlossen
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2022 - einstimmig beschlossen
+- TOP 4.11: Stadtbahnstrecke Kennedydamm – MERKUR SPIEL-ARENA/Messe Nord Sachstandsinformation und Durchführung eines Verfahrens zur Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 4.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.13: Verkehrskonzept An der Piwipp - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4.14: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen
+- TOP 6.1: Baumaßnahmen ehemaliges Telekomgebäude Moltkestraße 23 - Anfrage der SPD-Fraktion
+- TOP 6.2: Haltestelle "Münsterstraße / Feuerwache" und Gehweg Moltkestraße - Anfrage der SPD-Fraktion
+- TOP 6.3: Düsseldorfer Fahrradhäuschen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 6.4: Ausreichend Platz für Rad- und Fußverkehr während Veranstaltungen auf dem Burgplatz - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 7: Anträge
+- TOP 7.1: Zebrastreifen im Kreuzungsbereich Beuthstraße / Schirmerstraße / Schinkelstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Einbahnstraßenregelung Tannenstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Bürger*innenfreundliche und zeitgemäße Darstellung der in Planung und im Bau befindlichen öffentlich geförderten sowie preisregulierten Wohnungen - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.4: Weniger Lärm, mehr Verkehrssicherheit und mehr Lebensqualität auf der Kaiserswerther Straße: Einführung von Tempo 30 km/h - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.5: Öffnung des Spielplatzzaunes an der Essener Straße zur Verbesserung der Schulwegsicherheit - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.6: Aufhebung der Einbahnstraßenregelung für Radfahrer*innen an der Louise-Dumont-Straße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.7: Verbesserung der (Verkehrs-)sicherheit an der Schirmerstraße, Beuthstraße, Schinkelstraße und Wielandstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.8: Neugestaltung und Aufwertung des Parkplatzes Ecke Ulmenstraße / Collenbachstraße am Spichernplatz - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.9: Zebrastreifen auf der Oederallee - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.10: Instandsetzung des Bodenbelages der Gehwege rund um den Schwanenmarkt - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.11: Entfernung zweier Masten auf der Kasernenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle
+- TOP 8.1: Zustandsbericht über Denkmäler im Stadtbezirk 1; Beschluss der Bezirksvertretung 1 vom 24.05.2019; 171/97/2019 - zur Kenntnis genommen
+- TOP 8.2: Erweiterung des Halteverbots auf der Schwerinstraße; Beschluss der Bezirksvertretung 1 vom 10.09.2021; BV1/181/2021 - zur Kenntnis genommen
+- TOP 8.3: Piktogramme auf dem Schwanenmarkt; Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV/235/2021 - zur Kenntnis genommen
+- TOP 8.4: Sicherheit wiederherstellen, Roßstraße 101 Ecke Gravelottestraße; Beschluss der Bezirksvertretung 1 vom 25.06.2021; BV1/142/2021 - zur Kenntnis genommen
+- TOP 8.5: Errichtung von Fahrradstellplätzen auf der Klosterstraße; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/049/2022 - zur Kenntnis genommen
