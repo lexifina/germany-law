@@ -1,0 +1,70 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-04-01T16:00:00+02:00
+- Ende: 2022-04-01T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5911
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5911
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 01.04.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00163451.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 01.04.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00163451.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 01.04.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00163451.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - vertagt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 5: Brücke über den Verschiebebahnhof, Sicherungsmaßnahmen an den Ästen V und VI - einstimmig zugestimmt
+- TOP 6: Am Kivitzbusch: Straßenwiederherstellung nach Kanalbau und punktuelle Umbaumaßnahmen - einstimmig zugestimmt
+- TOP 7: Leostraße zwischen Further Straße und Frankenstraße: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 8: Spielraumplanung: Grundsatzbeschluss Kinderspielplatzprogramm 2022/23; Antrag über Grundsanierung/ Neugestaltung Spielplatz Macherscheider Str./Steinstr. in Uedesheim - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 9: Antrag des ZIN e.V. auf Erlass einer ordnungsbehördlichen Verordnung zur Öffnung der Geschäfte in der Innenstadt für die Jahre 2022 - 2024 gemäß Ladenöffnungsgesetz NRW - mehrheitlich zugestimmt
+- TOP 10: Antrag der Kooperation Möbel Höffner und des Rheinparkcenter Neuss auf Erlass einer ordnungsbehördlichen Verordnung zur Öffnung der Geschäfte im Bezirk Rheinparkcenter für das Jahr 2022 gemäß Ladenöffnungsgesetz NRW - einstimmig zugestimmt
+- TOP 11: Reform des Betreuungsrechts - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 12: Anpassung der OGS-Budgets zum 01.08.2022 - einstimmig zugestimmt
+- TOP 13: Beschluss über die Bezuschussung des Berufsparcours an der Gesamtschule an der Erft - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss VIII - Rosellen
+- TOP 14: Albertus-Magnus-Straße, Haltestelle Albert-Schweitzer-Straße (FR stadtauswärts): barrierefreier Haltestellenumbau - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+- TOP 15: Volmerswerther Straße: Fahrbahneinengung sowie Umgestaltung des Knotenpunktes Volmerswerther Straße / Dammweg / Elvekumer Weg - einstimmig zugestimmt
+- TOP 16: Dunantstraße: Sanierung eines Stichweges im Bereich der Häuser Nr. 43 – 49 - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 17: • Zweckgebundene Bezuschussung des Vereins Zukunftsinitiative Neuss (ZIN) zur Umsetzung von Zielen des Innenstadtstärkungsprogramms 2022 - mehrheitlich zugestimmt
+- TOP 18: Innenstadtstärkungsprogramm - Stadteingänge Lichtkonzept - Umgestaltung Stadteingang Hamtorwall „Gloriapark“ St. Sebastian - einstimmig zugestimmt
+- TOP 19: Änderung des Regionalplanes im Bereich der Morgensternsheide - mehrheitlich zugestimmt
+- TOP 19.1: Weiteres Vorgehen zur Radachse Innenstadt - mehrheitlich zugestimmt
+- TOP 19.2: Moderationsverfahren „Am Schwarzen Graben“ - einstimmig zugestimmt
+- TOP 19.3: Ausbau der Richterstraße gemäß Bebauungsplan Nr. 2/2 Rosellen - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 20: Benennung von Mitgliedern für die Arbeitsgruppe Aufgabenkritik und Konsolidierung - einstimmig zugestimmt
+- TOP 21: Entsendung von Arbeitnehmervertreter*innen in den Aufsichtsrat der Neusser Bauverein GmbH - einstimmig zugestimmt
+- TOP 22: Vorkaufsrechtsatzung 15 - Neuss-Nord, Pierburg - - einstimmig zugestimmt
+- TOP 23: Änderung der Sondernutzungssatzung der Stadt Neuss - einstimmig zugestimmt
+- TOP 24: Modernisierung der Tartanspielfläche im Freizeitgelände Südpark - einstimmig zugestimmt
+- TOP 25: Genehmigung Dringlichkeitsentscheidung Nr. 71: Änderung der Satzung für den steuerbegünstigten Betrieb gewerblicher Art "Musikschule" der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 26: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Studentisches Wohnen in der Stadt Neuss - einstimmig zugestimmt
+- TOP 27: Antrag der CDU-Fraktion betr.: Hansetag 2022 - Neusser Marktbeschicker einbinden - einstimmig zugestimmt
+- TOP 28: Antrag der CDU-Fraktion betr.: Wanderausstellung "Vielfalt im Garten - Lebensräume für Insekten und Co" des NRW-Umweltministeriums nach Neuss holen - einstimmig zugestimmt
+- TOP 28.1: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Konsequenzen der Fraktionsänderungen (...) - vertagt
+- TOP 28.1.1: Dringlichkeitsantrag der CDU-Fraktion betr.: Chancen Interkommunaler Zusammenarbeit wahrnehmen - Neuss soll sich am Projekt "Digitaler Zwilling" beteiligen - verwiesen
+- TOP -: Anfragen
+- TOP 28.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 29: Sachstandsbericht 42. Internationaler Hansetag 2022 - zur Kenntnis genommen
+- TOP 30: Sachstandsbericht der Bewerbung zur Landesgartenschau 2026 - zur Kenntnis genommen
+- TOP 31: Bericht zur Hilfe für Geflüchtete in Neuss - zur Kenntnis genommen
+- TOP 32: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
