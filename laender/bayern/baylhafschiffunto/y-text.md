@@ -1,0 +1,1 @@
+Auf Grund des Art. 10a des Gesetzes über Zuständigkeiten im Verkehrswesen (ZustGVerk) vom 28. Juni 1990 (GVBl S. 220, BayRS 9210-1-W), zuletzt geändert durch Gesetz vom 23. November 2009 (GVBl S. 576), erlässt das Bayerische Staatsministerium für Wirtschaft, Infrastruktur, Verkehr und Technologie folgende Verordnung:
