@@ -10,7 +10,7 @@
 | § 6 | Leistungserbringung |
 | § 7 | Abrechnung der Leistungen |
 | § 7a | Abrechnungsprüfung |
-| § 7b | Abrechnung der Leistungen der Apotheken bei der Erstellung des COVID-19-Genesenenzertifikates nach § 22 Absatz 6 des Infektionsschutzgesetzes |
+| § 7b | Abrechnung der Leistungen der Apotheken bei der Erstellung des COVID-19-Genesenenzertifikates nach § 22a Absatz 6 des Infektionsschutzgesetzes |
 | § 8 | Verwaltungskostenersatz der Kassenärztlichen Vereinigungen |
 | § 9 | Vergütung von Leistungen der Diagnostik mittels Nukleinsäurenachweis |
 | § 10 | Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test |
