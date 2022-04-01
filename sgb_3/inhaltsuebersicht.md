@@ -486,7 +486,7 @@
 | § 333 | Aufrechnung |
 | § 334 | Pfändung von Leistungen |
 | § 335 | Erstattung von Beiträgen zur Kranken-, Renten- und Pflegeversicherung |
-| § 336 | Leistungsrechtliche Bindung |
+| § 336 | (weggefallen) |
 | § 336a | Wirkung von Widerspruch und Klage |
 |  |  |
 | Vierter Abschnitt |
@@ -698,3 +698,4 @@
 | § 449 | Gesetz zur Modernisierung und Stärkung der beruflichen Bildung |
 | § 450 | Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung |
 | § 451 | Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze |
+| § 453 | Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze |

@@ -494,7 +494,7 @@ Anordnungsermächtigung
 - [§ 333 Aufrechnung](0333.md)
 - [§ 334 Pfändung von Leistungen](0334.md)
 - [§ 335 Erstattung von Beiträgen zur Kranken-, Renten- und Pflegeversicherung](0335.md)
-- [§ 336 Leistungsrechtliche Bindung](0336.md)
+- [§ 336 (weggefallen)](0336.md)
 - [§ 336a Wirkung von Widerspruch und Klage](0336a.md)
 
 ### Vierter Abschnitt Auszahlung von Geldleistungen
@@ -717,3 +717,4 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 449 Gesetz zur Modernisierung und Stärkung der beruflichen Bildung](0449.md)
 - [§ 450 Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung](0450.md)
 - [§ 451 Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze](0451.md)
+- [§ 453 Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze](0453.md)

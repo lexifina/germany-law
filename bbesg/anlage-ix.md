@@ -1,4 +1,4 @@
-# Anlage IX (zu den Anlagen I und III) Gültig ab 1. April 2021
+# Anlage IX (zu den Anlagen I und III)Gültig ab 1. April 2022
 
 Zulagen
 – in der Reihenfolge der Gesetzesstellen –
@@ -13,11 +13,11 @@ Zulagen
 | 7 | Nummer 2 |  | 130,00 |
 | 8 | Nummer 3, 4 und 5 |  | 100,00 |
 | 9 | Nummer 4a |  | 135,00 |
-| 10 | Nummer 5 | Beamte der Besoldungsgruppen A 5 und A 6 |  |
-| Mannschaften der Besoldungsgruppen A 5 und A 6 |  |
-| Unteroffiziere der Besoldungsgruppen A 5 und A 6 | 53,00 |
-| 11 | Beamte der Besoldungsgruppen A 7 bis A 9 |  |
-| Unteroffiziere der Besoldungsgruppen A 7 bis A 9 | 75,00 |
+| 10 | Nummer 5 | Mannschaften |  |
+| Unteroffiziere |  |
+| Beamte der Besoldungsgruppen A 5 und A 6 | 53,00 |
+| 11 | Unteroffiziere |  |
+| Beamte der Besoldungsgruppen A 7 bis A 9 | 75,00 |
 | 12 | Offiziere |  |
 | Beamte des gehobenen und höheren Dienstes | 113,00 |
 | 13 | Nummer 5a |  |  |
@@ -154,26 +154,26 @@ Zulagen
 | 122 | – A 10 bis A 13 | 60,00 |
 | 123 | – A 14 und höher | 80,00 |
 | 124 | Amtszulagen |
-| 125 | Besoldungs- gruppe | Fußnote(n) |  |  |
-| 126 | A 3 | 1 |  | 43,89 |
-| 127 |  | 2 |  | 80,96 |
-| 128 |  | 3 |  | 40,87 |
-| 129 | A 4 | 1 |  | 43,89 |
-| 130 |  | 2 |  | 80,96 |
-| 131 |  | 4 |  | 8,82 |
-| 132 | A 5 | 1 |  | 43,89 |
-| 133 |  | 3 |  | 80,96 |
-| 134 | A 6 | 2, 5 |  | 43,89 |
-| 135 | A 7 | 5 |  | 54,51 |
-| 136 | A 8 | 1 |  | 70,22 |
-| 137 | A 9 | 1 |  | 326,75 |
-| 138 | A 13 | 1 |  | 332,06 |
-| 139 |  | 7 |  | 151,78 |
-| 140 | A 14 | 5 |  | 227,66 |
-| 141 | A 15 | 3 |  | 303,53 |
-| 142 |  | 8 |  | 227,66 |
-| 143 | A 16 | 6 |  | 254,60 |
-| 144 | B 10 | 1 |  | 526,10 |
+| 125 | Besoldungs- gruppe | Fußnote |  |  |
+| 126 | A 3 | 1 |  | 44,68 |
+| 127 |  | 2 |  | 82,42 |
+| 128 |  | 3 |  | 41,61 |
+| 129 | A 4 | 1 |  | 44,68 |
+| 130 |  | 2 |  | 82,42 |
+| 131 |  | 4 |  | 8,98 |
+| 132 | A 5 | 1 |  | 44,68 |
+| 133 |  | 3 |  | 82,42 |
+| 134 | A 6 | 2, 5 |  | 44,68 |
+| 135 | A 7 | 5 |  | 55,49 |
+| 136 | A 8 | 1 |  | 71,48 |
+| 137 | A 9 | 1 |  | 332,63 |
+| 138 | A 13 | 1 |  | 338,04 |
+| 139 |  | 7 |  | 154,51 |
+| 140 | A 14 | 5 |  | 231,76 |
+| 141 | A 15 | 3 |  | 308,99 |
+| 142 |  | 8 |  | 231,76 |
+| 143 | A 16 | 6 |  | 259,18 |
+| 144 | B 10 | 1 |  | 535,57 |
 | 145 | Anlage III (Bundesbesoldungsordnung R) |
 | 146 | Stellenzulage |
 | 147 | Vorbemerkung |  |  |
@@ -182,7 +182,7 @@ Zulagen
 | 150 |  | – R 5 bis R 7 | 470,00 |
 | 151 |  | – R 8 und höher | 540,00 |
 | 152 | Amtszulagen |
-| 153 | Besoldungs- gruppe | Fußnote |  |  |
-| 154 | R 2 | 1 |  | 251,71 |
-| 155 | R 7 | 1 |  | 374,32 |
-| 156 | R 8 | 1 |  | 503,32 |
+| 153 | Besoldungs- gruppe | Fußnote(n) |  |  |
+| 154 | R 2 | 1 |  | 256,24 |
+| 155 | R 7 | 1 |  | 381,06 |
+| 156 | R 8 | 1 |  | 512,38 |

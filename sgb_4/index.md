@@ -17,7 +17,7 @@
 ### Zweiter Titel Beschäftigung und selbständige Tätigkeit
 
 - [§ 7 Beschäftigung](0007.md)
-- [§ 7a Anfrageverfahren](0007a.md)
+- [§ 7a Feststellung des Erwerbsstatus](0007a.md)
 - [§ 7b Wertguthabenvereinbarung](0007b.md)
 - [§ 7c Verwendung von Wertguthaben](0007c.md)
 - [§ 7d Führung und Verwaltung von Wertguthaben](0007d.md)

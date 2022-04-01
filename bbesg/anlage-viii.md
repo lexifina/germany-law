@@ -1,8 +1,8 @@
-# Anlage VIII (zu § 61) Gültig ab 1. April 2021
+# Anlage VIII (zu § 61)Gültig ab 1. April 2022
 
 Anwärtergrundbetrag
 | Laufbahnen | Grundbetrag (Monatsbetrag in Euro) |
-| des einfachen Dienstes | 1 210,76 |
-| des mittleren Dienstes | 1 284,22 |
-| des gehobenen Dienstes | 1 530,00 |
-| des höheren Dienstes | 2 345,33 |
+| des einfachen Dienstes | 1 232,55 |
+| des mittleren Dienstes | 1 307,34 |
+| des gehobenen Dienstes | 1 557,54 |
+| des höheren Dienstes | 2 387,55 |
