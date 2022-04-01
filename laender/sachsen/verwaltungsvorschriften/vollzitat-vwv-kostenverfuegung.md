@@ -1,8 +1,8 @@
 # Vollzitat: VwV Kostenverfügung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-12-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14004.3
+- Datum: 2022-04-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/14004.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.12.2017
+01.04.2022
 bis
-31.03.2022
+30.09.2023
 
 VwV Kostenverfügung
 
@@ -41,7 +41,7 @@ In Kostenangelegenheiten gilt die in der Anlage beigefügte Kostenverfügung mit
 1.
 
 
-Die Kostenverfügung gilt für die Gerichte der ordentlichen Gerichtsbarkeit, der Arbeits-, Sozial- und Verwaltungsgerichtsbarkeit, für das Finanzgericht sowie für die Staatsanwaltschaften, soweit nicht die Besonderheiten des jeweiligen Verfahrensrechts Abweichungen erfordern. Sie gilt auch in Angelegenheiten der beim Staatsministerium der Justiz angegliederten gemeinsamen Leitstelle für Informationstechnologie der Justiz, soweit Kosten nach dem Justizverwaltungskostengesetz erhoben werden.            
+Die Kostenverfügung gilt für die Gerichte der ordentlichen Gerichtsbarkeit, der Arbeits-, Sozial- und Verwaltungsgerichtsbarkeit, für das Finanzgericht sowie für die Staatsanwaltschaften, soweit nicht die Besonderheiten des jeweiligen Verfahrensrechts Abweichungen erfordern. Sie gilt auch in Angelegenheiten der beim Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung angegliederten gemeinsamen Leitstelle für Informationstechnologie der Justiz, soweit Kosten nach dem Justizverwaltungskostengesetz erhoben werden.            
 
 2.
 
@@ -175,7 +175,7 @@ f)
 
 
 Zu den §§ 39, 41, 42 der Kostenverfügung:
-Dem Kostenprüfungsbeamten sind im automatisierten Kostenbearbeitungsverfahren im Grundbuchabrufverfahren auf Anforderung Ausdrucke der an die Landesjustizkasse Chemnitz übermittelten Datensätze zur Verfügung zu stellen. Der Dienstvorgesetzte des Prüfungsbeamten bestimmt im Einvernehmen mit der Leitung der beim Staatsministerium der Justiz angegliederten gemeinsamen Leitstelle für Informationstechnologie der Justiz
+Dem Kostenprüfungsbeamten sind im automatisierten Kostenbearbeitungsverfahren im Grundbuchabrufverfahren auf Anforderung Ausdrucke der an die Landesjustizkasse Chemnitz übermittelten Datensätze zur Verfügung zu stellen. Der Dienstvorgesetzte des Prüfungsbeamten bestimmt im Einvernehmen mit der Leitung der beim Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung angegliederten gemeinsamen Leitstelle für Informationstechnologie der Justiz
 
 Zeit und Reihenfolge der dort stattfindenden Prüfungen.
 
@@ -862,14 +862,14 @@ Von Wertermittlungen kann abgesehen werden, wenn nicht Anhaltspunkte dafür best
 § 13
 Kostenansatz bei gegenständlich beschränkter Gebührenfreiheit
 
-Bei Erbscheinen und ähnlichen Zeugnissen (Nr. 12210 KV GNotKG), die zur Verwendung in einem bestimmten Verfahren gebührenfrei oder zu ermäßigten Gebühren zu erteilen sind (z. B. gemäß § 317 Abs. 5 LAG, § 64 Abs. 2 SGB X, § 31 Abs. 1 Buchst. c VermG i. V. m. § 181 BEG), hat der Kostenbeamte die Urschrift und Ausfertigung der Urkunde mit dem Vermerk “Zum ausschließlichen Gebrauch für das ........-verfahren gebührenfrei – zu ermäßigten Gebühren – erteilt„ zu versehen. Die Ausfertigung ist der Behörde oder Dienststelle, bei der das Verfahren anhängig ist, mit dem Ersuchen zu übersenden, den Beteiligten weder die Ausfertigung auszuhändigen noch eine Abschrift zu erteilen.
+Bei Erbscheinen und ähnlichen Zeugnissen (Nr. 12210 KV GNotKG), die zur Verwendung in einem bestimmten Verfahren gebührenfrei oder zu ermäßigten Gebühren zu erteilen sind (z. B. gemäß § 317 Abs. 5 LAG, § 64 Abs. 2 SGB X, § 31 Abs. 1c VermG i. V. m. § 181 BEG), hat der Kostenbeamte die Urschrift und Ausfertigung der Urkunde mit dem Vermerk “Zum ausschließlichen Gebrauch für das ........-verfahren gebührenfrei – zu ermäßigten Gebühren – erteilt„ zu versehen. Die Ausfertigung ist der Behörde oder Dienststelle, bei der das Verfahren anhängig ist, mit dem Ersuchen zu übersenden, den Beteiligten weder die Ausfertigung auszuhändigen noch eine Abschrift zu erteilen.
 
 § 14
 Haftkosten
 
 Die Erhebung von Kosten der Vollstreckung von freiheitsentziehenden Maßregeln der Besserung und Sicherung richtet sich nach § 120 Nr. 3 
 
-SächsStVollzG i. V. m. § 138 Abs. 2 StVollzG, § 61           SächsStVollzG. Die Kosten der Untersuchungshaft sowie einer sonstigen Haft außer Zwangshaft, die Kosten einer einstweiligen Unterbringung (§ 126a StPO), einer Unterbringung zur Beobachtung (§ 81 StPO, § 73 JGG) und einer einstweiligen Unterbringung in einem Heim für Jugendhilfe (§ 71 Abs. 2, § 72 Abs. 4 JGG) werden nur angesetzt, wenn sie auch von einem Gefangenen im Strafvollzug zu erheben wären (Nr. 9011 KV GKG, Nr. 2009 KV FamGKG, Nr. 31011 KV GNotKG, Vorbemerkung 2 KV JVKostG i. V. m. Nr. 9011 KV GKG).
+SächsStVollzG i. V. m. § 138 Abs. 2 StVollzG, § 61           SächsStVollzG. Die Kosten der Untersuchungshaft sowie einer sonstigen Haft außer Zwangshaft, die Kosten einer einstweiligen Unterbringung (§ 126a StPO), einer Unterbringung zur Beobachtung (§ 81 StPO) und einer einstweiligen Unterbringung in einem Heim für Jugendhilfe (§ 71 Abs. 2, § 72 Abs. 4 JGG) werden nur angesetzt, wenn sie auch von einem Gefangenen im Strafvollzug zu erheben wären (Nr. 9011 KV GKG, Nr. 2009 KV FamGKG, Nr. 31011 KV GNotKG, Vorbemerkung 2 KV JVKostG i. V. m. Nr. 9011 KV GKG).
 
 § 15
 Zeit des Kostenansatzes im Allgemeinen
@@ -911,7 +911,7 @@ II.
 Kosten in Vormundschafts-, Dauerbetreuungs-, Dauerpflegschafts- und Nachlasssachen
 – zu § 8 GNotKG, § 10 FamGKG –
 
-Die bei Vormundschaften, Dauerbetreuungen und -pflegschaften sowie bei Nachlasssachen zu Beginn eines jeden Kalenderjahres fällig werdenden Gebühren können, wenn kein Verlust für die Staatskasse zu besorgen ist, gelegentlich der Prüfung der jährlichen Rechnungslegung angesetzt werden. Zur Sicherstellung des rechtzeitigen Ansatzes dieser Gebühren sind die in Betracht kommenden Akten von dem Kostenbeamten in ein Verzeichnis einzutragen, das mindestens folgende Spalten enthält:
+Die bei Vormundschaften, Dauerbetreuungen und -pflegschaften sowie bei Nachlasssachen zu Beginn eines jeden Kalenderjahres fällig werdenden Gebühren sind, wenn kein Verlust für die Staatskasse zu besorgen ist, spätestens anlässlich der Prüfung der jährlichen Rechnungslegung oder, wenn eine solche nicht stattfindet, der Prüfung des jährlichen Berichts über die persönlichen Verhältnisse anzusetzen. Zur Sicherstellung des rechtzeitigen Ansatzes dieser Gebühren sind die in Betracht kommenden Akten von dem Kostenbeamten in ein Verzeichnis einzutragen, das mindestens folgende Spalten enthält:
 
 
 Verzeichnis
@@ -942,13 +942,13 @@ Kosten in Scheidungsfolgesachen und in Folgesachen
 Gebühren in Scheidungsfolgesachen und in Folgesachen eines Verfahrens über die Aufhebung der Lebenspartnerschaft werden erst angesetzt, wenn eine unbedingte Entscheidung über die Kosten ergangen ist oder das Verfahren oder die Instanz durch Vergleich, Zurücknahme oder anderweitige Erledigung beendet ist (§ 9 Abs. 1, § 11 Abs. 1 FamGKG).
 
 § 17
-Heranziehung steuerlicher Werte
-– zu § 46 Abs. 3 Nr. 3, § 48 GNotKG –
+Heranziehung steuerlicher Werte und Auskünfte der Finanzverwaltung
 
-(1) Wird auf einen für Zwecke der Steuererhebung festgesetzten Wert (§ 46 Abs. 3 Nr. 3 GNotKG) oder den Einheitswert von Grundbesitz (§ 48 GNotKG) zurückgegriffen, genügt als Nachweis die Vorlage des Steuerbescheides (Feststellungsbescheides, Einheitswertbescheides), sofern sich der Einheitswert des Grundbesitzes nicht schon aus der steuerlichen Unbedenklichkeitsbescheinigung ergibt.
+– zu § 40 Abs. 6, § 46 Abs. 3 Satz 1 Nr. 3, § 48 GNotKG –
 
-(2) Das Finanzamt ist um Auskunft über die Höhe der für Zwecke der Steuererhebung festgesetzten Werte, die Höhe des Einheitswertes oder um Erteilung einer Abschrift des entsprechenden Steuerbescheides nur zu ersuchen, wenn der Kostenschuldner den Steuerbescheid nicht vorlegt, ausnahmsweise auch dann, wenn die Wertermittlung besonders schwierig ist. Für die Aufbewahrung des Einheitswertbescheides gelten die Bestimmungen der Aktenordnung entsprechend.
+(1)  Wird auf einen für Zwecke der Steuererhebung festgesetzten Wert (§ 46 Abs. 3 Satz 1 Nr. 3 GNotKG) oder den Einheitswert von Grundbesitz (§ 48 GNotKG) zurückgegriffen, genügt als Nachweis die Vorlage des Steuerbescheides (Feststellungsbescheides, Einheitswertbescheides), sofern sich der Einheitswert des Grundbesitzes nicht schon aus der steuerlichen Unbedenklichkeitsbescheinigung ergibt. Das Finanzamt ist um Auskunft über die Höhe der für Zwecke der Steuererhebung festgesetzten Werte, die Höhe des Einheitswertes oder um Erteilung einer Abschrift des entsprechenden Steuerbescheides nur zu ersuchen, wenn der Kostenschuldner den Steuerbescheid nicht vorlegt, ausnahmsweise auch dann, wenn die Wertermittlung besonders schwierig ist. Für die Aufbewahrung des Einheitswertbescheides gelten die Bestimmungen der Aktenordnung entsprechend.
 
+(2) Das Finanzamt ist für die Ermittlung des Nachlasswertes und der Zusammensetzung des Nachlasses gemäß § 40 Abs. 6 GNotKG nur in Einzelfällen nachrangig um Auskunft zu ersuchen, z. B. wenn die Beteiligten keine für die Wertermittlung erforderlichen Angaben mitteilen oder Anhaltspunkte dafür bestehen, dass diese Angaben unrichtig sind. War bereits ein Kostenansatz aufgestellt und gibt die Auskunft des Finanzamts Anlass, den Kostenansatz zu ändern, ist dessen Änderung durch den Kostenbeamten zu veranlassen; wird dabei eine Nacherhebung von Kosten erforderlich, ist diese unter Beachtung des § 20 GNotKG vorzunehmen. Ist bereits eine Festsetzung des Geschäftswerts erfolgt, ist die Auskunft des Finanzamts zunächst dem für die Wertfestsetzung zuständigen Richter oder Rechtspfleger vorzulegen, damit dieser prüfen kann, ob eine Änderung des festgesetzten Geschäftswerts innerhalb der Frist des § 79 Abs. 2 Satz 2 GNotKG veranlasst ist.
 
 § 18
 Kostenansatz bei gleichzeitiger Belastung mehrerer Grundstücke
@@ -1482,9 +1482,9 @@ Fsn-Nr.: 32-V14.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Dezember 2017
+Fassung gültig ab:  1. April 2022
 
-Fassung gültig bis: 31. März 2022
+Fassung gültig bis: 30. September 2023
 
 Drucken/Speichern
 
@@ -1509,7 +1509,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14004.3
+https://www.revosax.sachsen.de/vorschrift/14004.4
 Stand vom
 18.11.2026
 
