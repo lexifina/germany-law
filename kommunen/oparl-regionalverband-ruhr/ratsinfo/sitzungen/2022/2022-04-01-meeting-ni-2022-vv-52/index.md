@@ -1,0 +1,83 @@
+# 5. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2022-04-01T10:00:00+02:00
+- Ende: 2022-04-01T12:15:00+02:00
+- Ort: ChorForum Essen, Fischerstraße 2-4, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2022-VV-52
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2022-VV-52
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2022-VV-52
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2022-VV-52
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2022-VV-52
+
+## Tagesordnung
+
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 1.2.1: Umbesetzung im Beirat Regionaler Diskurs
+- TOP 1.2.2: Gremienumbesetzung
+- TOP 1.2.3: Antrag der SPD im Ruhrparlament auf Umbesetzung im Aufsichtsrat der BMR
+- TOP 1.2.4: Antrag der SPD im Ruhrparlament auf Umbesetzung in den Fachausschüssen
+- TOP 2: Aktuelle Entwicklung
+- TOP 2.1: Resolution der Verbandsversammlung des Regionalverbandes Ruhr (RVR): Ruhrparlament verurteilt den Angriffskrieg auf die Ukraine - die Metropole Ruhr unterstützt Geflüchtete aus der Ukraine
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Förderprogramm Kommunaler Straßenbau 2022 hier: Unterrichtung und Beschlussfassung
+- TOP 3.1.1: Ersetzungsvorlage Förderprogramm Kommunaler Straßenbau 2022 hier: Unterrichtung und Beschlussfassung
+- TOP 3.2: Städtebauförderung Bericht zum Programmvorschlag 'Sofortprogramm zur Stärkung unserer Innenstädte und Zentren in NRW 2021'
+- TOP 3.3: Städtebauförderung Bericht zur Veröffentlichung des 'Sofortprogramm zur Stärkung unserer In-nenstädte und Zentren in NRW 2021/22'
+- TOP 3.4: Städtebauförderung hier: Vorschlag für das Städtebauförderprogramm 2022
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 4.1: Aufstellungsbeschluss zur 7. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Teilabschnitt Oberbereich Dortmund - westlicher Teil: Änderung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) mit bergbaulicher Zweckbindung in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Hamm sowie Änderung des textlichen Ziels 12 (2)
+- TOP 4.2: 90. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) zur Änderung eines Bereichs für gewerbliche Nutzungen (GIB) mit der Angabe 'Güterumschlagshafen' in einen Allgemeinen Siedlungsbereich (ASB) sowie die Änderung eines Schienenweges für den überregionalen Verkehr in der Stadt Duisburg - Feststellungsbeschluss -
+- TOP 4.3: Änderungsverfahren 45 MH des Regionalen Flächennutzungsplans der Planungsgemeinschaft Städteregion Ruhr; Einvernehmensherstellung gemäß § 41 (3) LPlG
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 6.1: Kein Ausbau der A3
+- TOP 7: Anfragen und Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtungen RVR Ruhr Grün zum 31.12.2020
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Handlungsprogramm zur räumlichen Entwicklung der Metropole Ruhr; hier: Aktualisierung und Weiterentwicklung
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.1: Umsetzungskonzept Regionales Radwegenetz in der Metropole Ruhr Hier: Entwurf Arbeitsbericht zur politischen Beratung
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Radweg Brückensteg über die Volme in Hagen; Übernahme des erhöhten Eigenanteils der Stadt Hagen
+- TOP 11.2: Liegenschaftskonzept des Regionalverbandes Ruhr
+- TOP 11.2.1: Änderungsantrag zum Liegenschaftskonzept
+- TOP 11.2.2: Änderungsantrag der Koalition: Liegenschaftskonzept des Regionalverbandes Ruhr
+- TOP 11.2.2.1: Ergänzung des Änderungsantrags der Koalition zum Liegenschaftskonzept des Regionalverbandes Ruhr
+- TOP 11.2.3: Änderungsantrag Liegenschaftskonzept
+- TOP 11.2.4: Änderungsantrag der Fraktion DIE LINKE Liegenschaftskonzept des Regionalverbandes Ruhr
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 13.1: Strategie und Ziele der RVR-Familie
+- TOP 13.1.1: Änderungsantrag Strategie und Ziele der RVR-Familie
+- TOP 13.1.2: Änderungsantrag zu DS Nr. 14/0421, Strategie und Ziele der RVR-Familie
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung /Vorlagen aus dem Verbandsausschuss
+- TOP 16.1: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages
+- TOP 16.2: Bekanntgabe der in der Zeit vom 01.10.2021 - 31.12.2021 für das Haushaltsjahr 2021 genehmigten Haushaltsüberschreitungen
+- TOP 16.3: Ermächtigungsübertragungen gem. § 22 KomHVO NRW
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 17.1: Unterzeichnung der Charta der Vielfalt durch den RVR und jährliche Teilnahme am Diversity-Tag
+- TOP 17.2: Unterstützung ökologischer Land- und Forstwirtschaft auf den verbandseigenen Flächen
+- TOP 17.2.1: Ergänzung des Fraktionsantrages 'Unterstützung ökologischer Land- und Forstwirtschaft auf den verbandseigenen Flächen'
+- TOP 17.3: Öffentliche Kommunikation des Regionalverbandes Ruhr - Thema Vielfalt
+- TOP 17.3.1: Öffentliche Kommunikation des Regionalverbandes Ruhr - Thema Vielfalt
+- TOP 17.4: Leitbildprozess für den Regionalverband Ruhr
+- TOP 17.5: Resolution der Verbandsversammlung des Regionalverbandes Ruhr Kommunalfinanzen stärken - Städte brauchen endlich eine Altschuldenlösung!
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Weiterentwicklung Regionales Radwegenetz: Radhauptverbindung Oberhausen-Bottrop-Kirchellen-Dorsten (Alleenradweg) - Antwort der Verwaltung
+- TOP 18.2: Regionale Sportförderung
+- TOP 18.3: Antwort auf die Anfrage der CDU-Fraktion Regionaler Kooperationsstandort - ehemaliges STEAG GmbH Kraftwerk Voerde
+- TOP 18.4: Gremieninformationssystem: Neuer Internetauftritt
+- TOP -: Tischvorlagen
+- TOP -: Anfrage der SPD im Ruhrparlament: Abgleich des überarbeiteten Handlungsprogramms mit dem Perspektivenpapier
+- TOP -: Anfrage der SPD im Ruhrparlament: Aktualität des Bundesverkehrswegeplans
