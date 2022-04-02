@@ -21,7 +21,7 @@
 - [§ 11a Übertragung von Beiträgen auf den einheitlichen Abwicklungsfonds](0011a.md)
 - [§ 11b Pflichten bei vorübergehender Übertragung von Finanzmitteln auf die deutsche Kammer](0011b.md)
 - [§ 11c Zuständigkeit für die Ausübung der Befugnisse aus dem Übereinkommen; Informationspflicht](0011c.md)
-- [§ 12 Mittel des Restrukturierungsfonds; Jahresbeiträge; Sonderbeiträge](0012.md)
+- [§ 12 Mittel des Restrukturierungsfonds; Jahresbeiträge; Sonderbeiträge; Verordnungsermächtigung](0012.md)
 - [§ 12a Zielausstattung des Restrukturierungsfonds](0012a.md)
 - [§ 12b Jahresbeiträge der Wertpapierinstitute unter Einzelaufsicht und der Unionszweigstellen](0012b.md)
 - [§ 12c Sonderbeiträge der Wertpapierinstitute unter Einzelaufsicht und der Unionszweigstellen](0012c.md)
