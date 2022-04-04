@@ -1,0 +1,55 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-04-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6906929
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6906929
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Erhalt der Ateliers im Botanikum, Feldmochinger Str. 79
+- TOP 2.2.: Ungünstiger Fußgänger-Übergang an Dachauer Straße / Emmy-Noether-Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Rama dama - Reinigung des Geländes am und um den ehemaligen S-Bahnhof Oberwiesenfeld
+- TOP 4.1.2.: Instandsetzung/ Erneuerung der BA-Schaukästen des BA 10 Moosach
+- TOP 4.1.3.: 75 Jahre Bezirksausschüsse - BA direkt(er): Open-Air-Präsentation
+- TOP 4.1.4.: Anfrage: a) Sicherstellung derdurchgängigen 5-Zügigkeit im Gymnasium München-Moosach (G9) und b) Benennung der reellen Fertigstellungstermine der Grundschule am Botanikum und des Gymnasiums Karlsfeld
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Das aserbaidschanische Kulturzentrum in München e.V. Diverse Anschaffungen für das Kulturzentrum 1.530,70 € / Az. 0262.0-10-0285
+- TOP 5.2.: Stadtbezirksbudget - Nachträgliche Erhöhung des Zuschussbetrages: Kreislaufschränke München e.V. (-> TOP 5.3 / 20.12.2021)
+- TOP 6.: Anhörungen
+- TOP 6.1.: Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 6.2.: Entwurf Sitzungsvorlage: "Schulbauoffensive 2013-2030; Sachstandsbericht zu Schul- und Kita-Bauprogrammen".... (-> hier: Auszug Stadtbezirk 10 - relevant)
+- TOP 6.3.: Veranstaltungen in städtischen Grünanlagen: 1. Karl-Lipp-Straße: Familiennachmittag am 06.05.2022 2. Am Hartmannshofer Bächl: Spielfest am 18.05.2022 3. Welzenbachstraße/ Nanga-Parbat-Straße: Spielwiese vom 22.06. - 27.07.2022 4. Amphionpark und Templestraße; Fronleichnamprozession und Festgottesdienst am 16.06.2022
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anbringung von Hinweisschildern für das Sozialbürgerhaus Neuhausen-Moosach im U-Bahnbereich OEZ und an der Oberfläche [BA-Antrag Nr. 20-26/B03439; Untergrund: Wegeleitsystem (Zuweisung Buchstaben zu einzelnen Ausgängen)vorhanden. Oberflächen: strenger Maßstab einer Wegeleitung zur Vermeidung Überbeschilderung; SBH ausgeschlossen.]
+- TOP 7.2.: Reparaturarbeiten/Verbesserungsarbeiten im Amphionpark, um die Sicherheit der Kinder zu erhöhen [BA-Antrag Nr. 20-26/B03505; erforderliche Reparaturarbeiten im Auftrag, Ergänzung automatische Schließvorrichtungen an Toranlagen zu Wintrichring.]
+- TOP 7.3.: Neugestaltung Sapporobogen - Unterführung zum Olympiapark [Schreiben BA10 vom 24.11.2021; rechtliche Voraussetzungen für Vorschläge zur Verbesserung der Situation für Radfahrer sind nicht gegeben.]
+- TOP 7.4.: Schutz der kleinen Grüninsel an der Parkbucht Treitschkestr. 7-13 vor Überfahren; hier: Anordnung Haltverbot an der gegenüberliegenden Straßenseite [Schreiben BA10 vom 23.02.2022; Errichtung von Haltverboten sind nach Maßgaben der StVO an dieser Stelle nicht gerechtfertigt.]
+- TOP 7.5.: Planung einer Durchwegung für Radfahrer als Bestandteil der Baugenehmigung beim Neubau „Projekt HannaH“ (Ehrenbreitsteiner Str. 28 +28a / Hanauer Str. 91 + 91a) [Schreiben BA10 vom 23.02.2022; der geforderte Radweg ist nicht genehmigt worden wegen fehlender Rechtsgrundlage und Sicherheitskonfliktpunkt.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Immissionsschutzrechtliche Änderungsgenehmigung: Abfallentsorgungsanlage der Breitsamer Entsorgung Recycling GmbH, Dachauer Str. 535
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Eininger Straße; Errichtung absolutes Haltverbot 2. Untermenzinger Straße; Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten
+- TOP 8.3.: (U) Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2021/2022
+- TOP 8.4.: (U) Vereinbarkeit von § 10 Abs. 3 und 4 der Satzung des Vereins zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V. mit dem Gebot der Haftungsbegrenzung gem. Art. 92 Abs. 1 Satz 1 Nr. 3 GO – Prüfauftrag des Bayer. Kommunalen Prüfungsverbandes aus dem Jahr 2013 / 2021
+- TOP 8.5.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 8.6.: Abschluss Vorkaufsrechtprüfungsverfahren Seydlitzstraße (Verzicht) - nicht-öffentlich -
+- TOP 8.7.: Verbot Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - Wilhelmshavener Straße
+- TOP 6.4.: "Ratschbankerl" in München - Stadtratsantrag (20-26 / A 02340)
+- TOP 6.5.: Novellierung der SoNuGebS (Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen) und der SoNuRL (Richtlinien für Sondernutzung an den öffentlichen Straßen)
+- TOP 6.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Untermenzinger Straße; Einrichtung eines absoluten Haltverbot im Haltestellenbereich
+- TOP 6.7.: Ecke Allacher Str./ Waldhornstr.: Bettfedernreinigung 27.04.-04.05.22 und 31.08. - 07.09.2022
+- TOP 4.: Anträge
