@@ -1,0 +1,92 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-04-04T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6916844
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6916844
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Neue Besetzung der Unterausschüsse durch die Fraktion Bündnis 90 / Die Grünen
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Anfrage zur Brauerei an der Lindwurmstraße
+- TOP 2.2.: Dankschreiben hinsichtlich Bauvorhaben an der Alramstraße
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Karwendelstraße 24a
+- TOP 4.2.2.: Schulbauoffensive 2013-2030; Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Baumfällung Schöttlstraße 7
+- TOP 4.3.3.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) + (U) Zebrastreifen in der Flößergasse Empfehlung Nr. 20-26 / E 00430 der Bürgerversammlung des Stadtbezirkes 06 – Sendling vom 12.10.2021
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Dialog-Displays
+- TOP 5.2.2.: Halteverbot an der Wackersbergerstraße
+- TOP 5.2.3.: Haltestelle Implerstraße für HP8-Shuttle
+- TOP 5.2.4.: Protected Bikelanes - Plinganserstraße
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung der Akzeptanz gegenüber automatisierten und vernetzten Fahrzeugen im urbanen Kontext des Förderprojekts TEMPUS
+- TOP 5.3.2.: Dokumentation der digitalen Beteiligungsveranstaltung zur Mobilitätsstrategie 2035
+- TOP 5.3.3.: Saisonale Stadträume – II
+- TOP 5.3.4.: Rampe in der Unterführung zwischen Zielstattstraße und Steinerstraße/ Waakirchnerstraße Antwort
+- TOP 5.3.5.: Zechstraße (Kurvenbereich zur Flössergasse); Ausweitung des absoluten Haltverbots östlich der Innenkurve - Verbesserung der Fußgängerquerung -
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Barrierefreier Ausbau der Haltestelle Schäftlarnstraße [Die Grünen]
+- TOP 5.4.2.: Aufstellung von Blumenkübel/ Hochbeete im Bereich Resi-Huber-Platz [Die Grünen]
+- TOP 5.4.3.: Fahrradabstellanlagen Fallstraße – Schmied-Kochel-Straße [Die Grünen]
+- TOP 5.4.4.: Verbindung Grünanlage – Rampe am Kidlerplatz [Die Grünen]
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 13. - 17.06.2022 2.661,00 Euro, Az.: 0262.0-6-0367
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Nachhaltigkeit in Sendling: selbst anpacken" Pflanzaktion in Sendling "Sendling blüht auf" vom 05.04. - 30.06.2022 1.800,00 Euro, Az.: 0262.0-6-0368
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.4.1.: Unterstützung für Geflüchtete aus der Ukraine
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: Berechnung der Zahl der Mitgliederder Bezirksausschüsse ab der Amtsperiode 2026 bis 2032 Stellungnahme des BA 8 - Schwanthalerhöhe
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: BA-Information des Sozialreferates zur Akutunterbringung Vertriebener aus der Ukraine - Inbetriebnahme/Aufbau von Leichtbauhallenstandorten
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Freischankfläche Albert-Rosshaupter-Straße 12
+- TOP 8.1.2.: Freischankfläche Aberlestraße 1
+- TOP 8.1.3.: Freischankfläche Danklstraße 32
+- TOP 8.1.4.: Freischankfläche Aberlestraße 14
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Brückenstüberl
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Keine Umwandlung von Bezirksportanlagen (BSA) in Freizeitanlagen Keine Streichung von Platzwartstellen auf den städtischen Bezirkssportanla-gen (BSA) Keine weitere Aufgabenverlagerung auf die Ehrenamtlichen der Vereine [CSU]
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Evaluation des Livestreams bei einer Bürgerversammlung und Weiterentwicklung der Bürgerversammlungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 4.1.1.: (E) + (U) Einführung von Mieterversammlungen durch die GWG Empfehlung Nr. 20-26 / E 00415 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021
+- TOP 6.1.3.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. Orgelfest vom 29.04. - 15.05.2022 und am 24.07.2022 10.000,00 Euro, Az.: 0262.0-6-0369
+- TOP 6.1.4.: (E) Stadtbezirksbudget Münchner Forum e.V., AK "Stadt: Gestalt + Lebensraum" Ausstellung "Wollen wir das - schöne Aussichten?" vom 11.04. - 21.04.2022 1.200,00 Euro, Az.: 0262.0-6-0370
+- TOP 7.1.1.: (E) Generalsanierung des Kindergartens "Kinderkreis Sendling" Empfehlung Nr. 20-26 / E 00412 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021
