@@ -1,0 +1,54 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-04-04T17:00:00+02:00
+- Ende: 2022-04-04T18:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25102
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25102
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Aktuelle Städtepartnerschaftsmaßmahmen - zurückgestellt
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage: Gebetsruf an Kölner Moscheen zum Freitagsgebet - Kenntnis genommen
+- TOP 3.2: Bantwortung einer Anfrage AN/0282/2022 der SPD-Fraktion betreffend "Entwickelt die 'Task Force Wohnungslosenpolitik' einen Masterplan zur Überwindung von Wohnungs- und Obdachlosigkeit?" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündlichen Anfrage betreffen "Einfache Sprache als Verwaltungsstandard" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage betreffend "Geflüchtete aus der Ukraine in Köln, insbes. Situation des Ausländeramtes“ - Kenntnis genommen
+- TOP 3.5: Beantwortung einer mündlichen Anfrage betreffend "Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2022" aus der Sitzung vom 7. März 2022 - Kenntnis genommen
+- TOP 3.6: Beantwortung einer mündlichen Anfrage betreffend "Realisierung Antrag Jobrad für städtische Mitarbeitende". - Kenntnis genommen
+- TOP 3.7: Beantwortung mündlicher Anfragen betreffend "Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine" - Kenntnis genommen
+- TOP 3.8: Beantwortung einer mündlichen Anfrage betreffend "Städtepartnerschaften" - Kenntnis genommen
+- TOP 3.9: Beantwortung mündlicher Anfragen betreffend "Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Quartalsbericht über die weiteren Entwicklungen im Ausländeramt 4. Quartal 2021 - Kenntnis genommen
+- TOP 4.2: Mitteilung zum Antrag AN/1415/2021 "Einfache Sprache als Verwaltungsstandard" - Kenntnis genommen
+- TOP 4.3: Öffnung der Kundenzentren für Laufkundschaft an zwei Tagen pro Woche - Kenntnis genommen
+- TOP 4.4: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 15. März 2022 - Kenntnis genommen
+- TOP 4.5: Zwei-Jahres-Kurzbilanz des städtischen Ordnungsdienstes zur Corona-Pandemie - zurückgestellt
+- TOP 4.6: Aktuelle Entwicklungen KVB-Leihrad - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Offene Anfragen aus vorangegangen Sitzungen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der SPD-Fraktion betreffend "Umsetzung der EU-Whistleblower-Richtlinie in Köln" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion, der SPD-Fraktion, der Fraktion Die Linke und der Volt-Fraktion betreffend" Neufassung der Richtlinie des Rates für die Neu- und Umbenennung von Straßen und Plätze" - ungeändert beschlossen
+- TOP -: Mündlicher Änderungsantrag der SPD-Fraktion betreffend "Neufassung der Richtilinie des Rates für die Neu- und Umbenennung von Straßen und Plätze" - Übergang zum nächsten Tagesordnungspunkt
+- TOP -: Änderungsantrag der FDP-Fraktion betreffend "Neufassung der Richtlinie des Rates für die Neu- und Umbenennung von Straßen und Plätze" - endgültig abgelehnt
+- TOP -: Ergänzungsantrag eines SE der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender betreffend "Ergänzungsantrag zur Neufassung der Richtlinie des Rates für die Neu- und Umbenennung von Straßen und Plätzen (AN/0592/2022) - endgültig abgelehnt
+- TOP 8.2: Antrag der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt-Fraktion betreffend "Vergabekonzept für Veranstaltungen auf dem Neumarkt" - geändert beschlossen
+- TOP -: Änderungsantrag der SDP-Fraktion betreffend "Vergabekonzept für Veranstaltungen auf dem Neumarkt (0748/2022)" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 9.1: Förderung des Open Air-Angebots 2022 - ohne Votum in nachfolgende Gremien
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2022 - 30.06.2024 - ungeändert beschlossen
+- TOP 10.2: Fußgängerpassage zwischen Schildergassse und Brüderstraße - ohne Votum in nachfolgende Gremien
+- TOP 10.3: 6. Satzung zur Änderung der Sondernutzungssatzung - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
