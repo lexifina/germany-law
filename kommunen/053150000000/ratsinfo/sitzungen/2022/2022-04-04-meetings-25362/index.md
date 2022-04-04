@@ -1,0 +1,70 @@
+# 14. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-04-04T17:00:00+02:00
+- Ende: 2022-04-04T20:00:00+02:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal , Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25362
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25362
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Anfrage zur Leyendeckerstraße zwischen Vogelsanger Straße und Venloer Straße (Az.: 02-1600-159/21) - geändert beschlossen
+- TOP 3.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.1: Bürgersteig Grüner Brunnenweg/Sandweg - Kenntnis genommen
+- TOP 6.5: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Sach- und Planungsstand der Wohnbauvorhaben im Stadtbezirk Ehrenfeld - Sache ist erledigt
+- TOP 6.5.1: Beantwortung der Anfrage der Fraktion Die Linke/DIE PARTEI; betr. Sach- und Planungsstand der Wohnbauvorhaben im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Behinderung durch E-Roller - Sache ist erledigt
+- TOP 6.6.1: Behinderung durch E-Roller - Kenntnis genommen
+- TOP 6.7: Anfrage der SPD-Fraktion, betr.: Umsetzung des BV Beschlusses auf Antrag der SPD-Fraktion „Bereitstellungflächen für kommerzielle Leihfahrzeuge“ (AN/1116/2020) - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Gemeinsamer Antrag Fraktion Bündnis 90/Die Grünen, Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), betr.: Sachstand zum Beschluss der BV 4 zur Durchführung einer Erprobungsmaßnahme: Temporäres Durchfahrtsverbot für Kraftfahrzeuge“ - ungeändert beschlossen
+- TOP 8.4: Dringlichkeitsantrag der SPD-Fraktion, betr.: Sicherer Schulweg für die Heliosschule - DER ANTRAG WURDE VON DER TAGESORDNUNG GENOMMEN
+- TOP 8.5: Dringlichkeitsantrag der SPD-Fraktion, betr.: Situation Gerhard-Wilczek-Platz - DER ANTRAG WURDE VON DER TAGESORDNUNG GENOMMEN
+- TOP 8.6: Dringlichkeitsantrag der SPD-Fraktion, betr.: Toiletten für den Bickendorfer Markt und veränderte Abschleppzeiten für parkende Fahrzeuge während der Marktzeiten - ungeändert beschlossen
+- TOP 8.7: Dringlichkeitsantrag der SPD-Fraktion, betr.: Baustopp Bv. Vogelsanger Straße / Wilhelm-Mauser-Straße - geändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Bienenpfad in Ehrenfeld - ungeändert beschlossen
+- TOP 9.2: Erste Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO 2022 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) - geändert beschlossen
+- TOP 10.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Beschluss über die Durchführung eines zweiphasigen städtebaulichen Wettbewerbverfahrens für den Bereich Colonius Nord an der Subbelrather Straße 13 und Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - geändert beschlossen
+- TOP 10.3: Beschaffung und Aufstellung von Modulbauten für Schulen zum Erhalt bestehender und zur Schaffung dringend notwendiger zusätzlicher Schulplätze - ungeändert beschlossen
+- TOP 10.4: Umsetzung Stadtentwicklungskonzept Wohnen - ungeändert beschlossen
+- TOP 10.5: Satzungsbeschluss betreffend den Bebauungsplan Nummer 63474/02; Arbeitstitel: Subbelrather Straße 486-494 in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 62460/02 Arbeitstitel: Vitalisstraße/ Girlitzweg, 1. Änderung Gesamtschule Wasseramselweg in Köln-Vogelsang - ungeändert beschlossen
+- TOP 10.7: 6. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 10.7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Zwischenbilanz Schulentwicklungsplanung 2022 - Rückblick auf die Schulentwicklungsplanung 2020 und Ausblick auf die vorgesehene Fortschreibung 2023 - Kenntnis genommen
+- TOP 12.2: Sportentwicklungsplanung - "POLDIS STRASSENKICKER": kostenloses Fußballtraining für Kölner Kinder und Jugendliche - Kenntnis genommen
+- TOP 12.3: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 12.4: Öffentlich geförderter Wohnungsbau im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.5: Nicht oder nur eingeschränkt zur Verfügung stehende Sporthallen und Zeitplan zur Behebeung der Missstände - zur Anfrage AN/0133/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion - Kenntnis genommen
+- TOP 12.6: Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 12.7: Bedarfsfeststellungs-, Planungs- und Baubeschluss für den Ersatzneubau der Brücke Liebigstraße im Stadtteil Neu-Ehrenfeld durch einen Totalunternehmer (Vorlage Nr. 2591/2021) - Kenntnis genommen
+- TOP 12.8: Stellungnahme zum Antrag AN/0137/2022 "Mehr Plätze für Fahrräder - Schrotträder konsequent und schnell beseitigen" der SPD-Fraktion - Kenntnis genommen
+- TOP 12.9: Verwendung der Stellplatzablösemittel - Kenntnis genommen
+- TOP 12.10: MonitoringStadtNaturParke Ossendorf und Vogelsang - Kenntnis genommen
+- TOP 12.11: 241. Änderung des Flächennutzungsplanes in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld, Arbeitstitel: "Alsdorfer Straße" in Köln-Ehrenfeld/-Braunsfeld Hier: Mitteilung über die Offenlage - Kenntnis genommen
+- TOP 13: mündliche Anfragen
