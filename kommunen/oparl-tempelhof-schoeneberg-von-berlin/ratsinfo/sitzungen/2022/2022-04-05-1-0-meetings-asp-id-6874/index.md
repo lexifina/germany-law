@@ -1,0 +1,58 @@
+# 4. öffentliche Sitzung des Ausschusses für Schule
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2022-04-05T17:00:00+02:00
+- Ende: 2022-04-05T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6874
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6874
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=399019
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung
+- TOP 2: Genehmigung der Protokolle der 10., 27. Sitzung des Schulausschusses der XX. WP sowie der 3. Sitzung der XXI. WP., falls vorliegend
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Überweisungen aus der letzten BVV
+- TOP 4.1: Verkehrswende braucht Nachwuchs!
+- TOP 5: unerledigte Drucksachen
+- TOP 5.1: Voraussetzungen für einen Ganztagsbetrieb am Robert-Blum-Gymnasium
+- TOP 5.2: Back to the future: digitale Zukunft der Schule vorantreiben!
+- TOP 5.3: Investitionspaket „Soziale Integration im Quartier“ für die Spreewald-Grundschule nutzen (Zwischenbericht liegt vor)
+- TOP 5.4: Bänke auf dem Schulhof der Gustav-Heinemann-Oberschule (GHO)
+- TOP 5.5: Leichtere Schultaschen durch Online-Versionen der Schulbücher
+- TOP 5.6: Besseres Essen in der Mensa
+- TOP 5.7: Besseres Essen in Schulen
+- TOP 5.8: Freizeitkonzept am Perelsplatz
+- TOP 5.9: Internet an Schulen
+- TOP 5.10: Günstigere BVG Tickets
+- TOP 5.11: Gesetzlich legitimiertes Schulgremium arbeitsfähig machen – Bezirkselternausschuss Schule finanziell angemessen ausstatten
+- TOP 5.12: Geschichte auch an Schulgebäuden in Tempelhof Schöneberg sichtbar machen
+- TOP 5.13: Das SIBUZ benötigt einen Standort, der seinen Aufgabenstellungen entspricht!
+- TOP 5.14: Unterstützung der Schulen und Planungssicherheit für das nächste Schuljahr
+- TOP 5.15: Schulen nicht alleine lassen - bezirkliche Task-Force-Corona einrichten
+- TOP 5.16: Enttabuisierung von Depressionen und Selbstverstümmelung in Schulen
+- TOP 5.17: Sicher auf dem Rad - Fahrradausbildung der Grundschüler*innen intensivieren
+- TOP 5.18: Sportplatz Wiesbadener Straße für den Sportunterricht und den Pausenhofbetrieb des Rheingau-Gymnasiums gerade in Corona-Zeiten erhalten
+- TOP 5.19: Kinder nicht abhängen
+- TOP 5.20: Mehr Wahlpflichtunterricht an Schulen
+- TOP 5.21: Bessere Förderung an Grundschulen
+- TOP 5.22: Klimaschutz – jetzt handeln!
+- TOP 5.23: Gleichberechtigung bei den Bundesjugendspielen
+- TOP 5.24: Inklusionslotsen für die Schulen
+- TOP 5.25: Wissen zum Umgang mit dem Internet
+- TOP 5.26: Die Digitalisierung in den Schulen vorantreiben <span style="color: #888a85" title="Zusatzinfo">(Gemeinsame Sitzung mit Jugendhilfeausschuss)</span>
+- TOP 5.27: Fußballplatz an der Pöppelmannstraße
+- TOP 5.28: Die Digitalisierung in der Nahariya-Grundschule
+- TOP 5.29: Fußballtore für den Merseburger Fußballplatz
+- TOP 6: Beschulung von geflüchteten Schüler:innen
+- TOP 7: Berichte aus der Verwaltung
+- TOP 7.1: Bericht aus dem BSA
+- TOP 7.2: Bericht aus dem Bezirksamt
+- TOP 7.3: Bericht der Schulaufsicht
+- TOP 8: Verschiedenes
+- TOP 8.1: Bericht aus der Steuerungsrunde Kooperation Schule und Jugendhilfe
+- TOP 8.2: nächste Sitzungen: 03.05. Gartenarbeitsschule, Anträge aus dem KJP 07.06. (Pfingstferien), Rathaus Schöneberg, Arbeitsplanung FM 06.09. Mascha-Kaleko-Grundschule, Vorstellung des Schüler*innenHaushalts 04.10. Georg-von-Giesche-Oberschule, Einschulungsuntersuchungen 01.11. Carl-Zeiss-Oberschule 06.12. 03.01. Bruno-H.-Bürgel-Grundschule, Einrichtung einer Schulstraße
