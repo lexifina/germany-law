@@ -1,0 +1,6 @@
+# TOP 1: Schwerpunktthemen
+
+- Sitzung: 10. Sitzung des Betriebsausschusses Wallraf-Richartz-Museum & Fondation Corboud (2022-04-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/345623
