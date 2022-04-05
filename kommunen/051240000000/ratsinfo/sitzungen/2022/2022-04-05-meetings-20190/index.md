@@ -1,0 +1,88 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-04-05T14:05:00+02:00
+- Ende: 2022-04-05T17:50:00+02:00
+- Ort: Historische Stadthalle, Großer Saal, Johannisberg 40, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20190
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20190
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Rat http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00289909.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00290447.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Vorsorgemaßnahmen der Stadt Wuppertal für den Fall eines Blackouts - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Beantwortung der Großen Anfrage der AfD-Fraktion "Vorsorgemaßnahmen der Stadt Wuppertal für den Fall eines Blackouts" - Entgegennahme ohne Beschluss
+- TOP 2.2: On-Demand-Verkehr der WSW mobil GmbH - Entgegennahme ohne Beschluss
+- TOP 2.2.1: On-Demand-Verkehr der WSW mobil GmbH - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 2.2.1.1: Antwort auf Rückfrage zu VO/0390/22/1-A Frage 2 zum Thema Kosten des On-Demandverkehrs
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anregung gemäß § 24 GO NRW - Angemessene Kalkulation der Fernwärmepreise unter Berücksichtigung der tatsächlichen Beschaffungskosten
+- TOP 3.2: Anregung gemäß § 24 GO NRW - Umdrehen der Ein- und Ausfahrt beim Parkhaus Hauptbahnhof/Döppersberg
+- TOP 3.3: Anregung gemäß § 24 GO NRW - Sondernutzungsgebühren für Warenauslagen
+- TOP 3.4: Anregung gemäß § 24 GO NRW - "Runder Tisch hinsichtlich der Ausländerbehörde Wuppertal“ vom 16.01.2022
+- TOP 3.5: Anregung gemäß § 24 GO NRW - Resolution zur Ausrufung des Klimanotstands
+- TOP 3.5.1: "Resolution zur Ausrufung des Klimanotstands"-VO/1802/21
+- TOP 3.5.2: Antrag der CDU-Fraktion zur Tagesordnung, Tagesordnungspunkt VO/1802/22 „Resolution zur Ausrufung des Klimanotstands“
+- TOP 4: Anträge
+- TOP 4.1: Einlagerung der Statue „Pallas Athene“ - in der Sache erledigt
+- TOP 4.2: Moderne Arbeitsorganisation bei der Stadtverwaltung Wuppertal - Gemeinsamer Antrag von CDU und BÜNDNIS 90/DIE GRÜNEN - geändert beschlossen
+- TOP 4.3: Housing First - ungeändert beschlossen
+- TOP 4.3.1: Antrag zur Tagesordnung der SPD-Fraktion vom 30.03.2022, TOP 4.3: „Housing First“ (VO/0229/22) - zurückgezogen
+- TOP 4.4: Krieg in der Ukraine beenden - Gemeinsame Resolution der Fraktionen von SPD, CDU, BÜNDNIS 90/DIE GRÜNEN, FDP, DIE LINKE und Freie Wähler - ungeändert beschlossen
+- TOP 4.4.1: Flüchtlinge aus der Ukraine - abgelehnt
+- TOP 4.5: Resolution: „Dauerhafte Entfristung der Schulsozialarbeit“ - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Verordnung über das Offenhalten von Verkaufsstellen am 04.09.2022 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen am 29.05.2022 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Verlängerung des Verzichts auf die Gebührenerhebung für gaststättenrechtliche Änderungsanträge anlässlich der Hinzunahme oder Veränderung einer Außengastronomie - ungeändert beschlossen
+- TOP 7.2: Verlängerung der Aussetzung der Erhebung von Sondernutzungsgebühren für die Außengastronomie sowie der Erhebung einer Infrastrukturabgabe - ungeändert beschlossen
+- TOP 7.3: Mittelbereitstellung für einen Bürgerentscheid gem. § 26 der Gemeindeordnung Nordrhein-Westfalens zur Bewerbung um die Durchführung der Bundesgartenschau 2031 in Wuppertal - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2022 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2020 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 8.4: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.01.2022 bis 31.12.2022 - ungeändert beschlossen
+- TOP 8.5: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.07.2021 für das Altenzentrum Wuppertaler Hof - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1068 - Bayreuther Straße / Briller Straße - 1. Änderung des Bebauungsplanes (mit Flächennutzungsplanberichtigung 126B) - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1233 - Löhrerlen / Am Eckstein - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplanes 673 - Viehhofstraße - 3. Änderung des Bebauungsplanes - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1275 - Buchenstraße - Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1054 – Werther Hof / Lindenstraße - 1. Änderung - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1268 - Karlstraße - 1. Verlängerung der Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1266 - Nördlich Tescher Treppe - - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan 1256V - Memeler Straße / Nathrather Straße - - ungeändert beschlossen
+- TOP 9.9: Änderung des Regionalplans im Bereich Hauptstraße/Amboßstraße und Kemmannstraße - ungeändert beschlossen
+- TOP 9.9.1: Änderung des Regionalplans im Bereich Hauptstraße/Amboßstraße und Kemmannstraße; Ergänzungen nach erster Beratung - Entgegennahme ohne Beschluss
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Beschluss zur Errichtung der Modulbauten am Dietrich-Bonhoeffer-Weg 1 - ungeändert beschlossen
+- TOP 10.2: Neubau Pfälzer Steg und Aufwertung – Sozialer Zusammenhalt Heckinghausen - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Anmietung der ehemaligen Bundesbahndirektion - ungeändert beschlossen
+- TOP 11.1.1: Anmietung der ehemaligen Bundesbahndirektion - in der Sache erledigt
+- TOP 11.1.1.1: Bericht zum Antrag der Fraktionen von SPD und FDP vom 04.02.22 zur Anmietung der ehemaligen Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 11.1.2: Änderungsantrag zu VO/0049/22-Neuf. „Anmietung der ehemaligen Bundesbahndirektion“ - abgelehnt
+- TOP 11.1.3: Zusammenfassung der Großen Anfragen und Nachfragen sowie deren Beantwortung zur Anmietung der ehemaligen Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 11.2: Ausbau von OGS-Plätzen an der Grundschule Hombüchel zum Schuljahr 2022/2023 - ungeändert beschlossen
+- TOP 11.3: Ausbau von OGS-Plätzen zum Schuljahr 2022/2023 - ungeändert beschlossen
+- TOP 11.4: Einrichtung eines unbefristeten Teilstandortes für die Städtische Max-Planck-Realschule, Max-Planck-Str. 10, Wuppertal im BOB-Campus, Max-Planck-Straße 19 - ungeändert beschlossen
+- TOP 11.5: Abgesetzt. Vorberatung nicht abgeschlossen.Verlagerung des Stadtarchivs - abgesetzt
+- TOP 11.6: Notstromaggregat Lokalfunk im Rahmen des Katastrophenschutzes - ungeändert beschlossen
+- TOP 11.7: Verwendung des Bürgerbudgets 2021 - ungeändert beschlossen
+- TOP 11.8: Antrag auf Einrichtung eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.9: Quartalsbericht IV/2021 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.10: Bericht zum Antrag "Instrumentarien für die Gewerbeflächenentwicklung stärken" - Entgegennahme ohne Beschluss
+- TOP 11.11: Bildung eines Klimabeirates - geändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Berufung eines beratenden Mitglieds in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.2: Abberufung und Bestellung eines Mitglieds im Aufsichtsrat der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung Ausschuss Soziales, Familie und Gesundheit - ungeändert beschlossen
+- TOP 12.4: Umbesetzung Gremien - ungeändert beschlossen
