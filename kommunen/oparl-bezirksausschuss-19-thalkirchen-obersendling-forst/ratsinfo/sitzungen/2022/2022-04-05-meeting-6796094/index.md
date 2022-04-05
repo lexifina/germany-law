@@ -1,0 +1,83 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-04-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796094
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796094
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 08.03.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget TSV München Solln e.V. 40 Jahre Ski- und Berg am 23.04.2022 769,00€; Az. 0262.0-19-0406
+- TOP 3.3.: (E) Stadtbezirksbudget Maibaumverein Solln e.V. Aufstellen des neuen Maibaums von März bis 01. Mai 2022 4.800,00 € / Az. 0262.0-19-0405
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: Stadtratsbeschluss: „Verlängerung des Pachtvertrags mit dem Münchener Golfclub e.V. (MGC)“; Sitzungsvorlage Nr. 20-26 / V 05057
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Mobilitätsstrategie 2035
+- TOP 5.3.: (A) Dialog-Displays in München: Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 5.4.: (U) Verkehrsrechtliche Anordnungen: Baierbrunner Straße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Absolutes Haltverbot Ratzingerplatz Nordostseite
+- TOP 5.6.: (E) + (U) Weiterführung des Radwegs Forstenrieder Allee bis Kreuzhof Empfehlungen Nr. 20-26 / E 00317 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021 Errichtung eines Fahrradwegs entlang der Tölzer Straße und der Flößergasse Empfehlungen Nr. 20-26 / E 00347 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 5.7.: (E) + (U) Buslinie 132 im 10-Minuten-Takt Empfehlung Nr. 20-26 / E 00321 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 5.8.: (E) + (U) Wegeverbindung zwischen Hallenbad Stäblistraße und Herterichstraße Empfehlung Nr. 20-26 / E 00320 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 5.9.: (A) Verkehrsrechtliche Anordnung: Einseitiges Haltverbot Plattlinger Straße
+- TOP 5.10.: (E) + (U) Sicherheit von Schulwegen im Stadtbezirk 19 Empfehlung Nr. 20-26 / E 00314 der Bürgerversammlung des 19. Stadtbezirkes – Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 14.10.2021
+- TOP 5.11.: Runder Tisch E-Tretroller vom 23.03.2022
+- TOP 5.12.: (A) Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Friedastraße 9
+- TOP 6.2.3: Flötnerweg 12 (T)
+- TOP 6.2.4: Oppenrieder Straße 34a
+- TOP 6.2.5: Rehbergstraße 7 (VB)
+- TOP 6.2.6: Herterichstraße 103 (VB)
+- TOP 6.2.7: Helfenriederstraße 12 (T)
+- TOP 6.2.8: Sperlstraße 25 (T)
+- TOP 6.2.9: Königswieser Straße 5 (T)
+- TOP 6.2.10: Geisenhausenerstraße 13 (T)
+- TOP 6.2.11: Bauweberstraße 1c (T)
+- TOP 6.2.12: Siemensallee 76 (T)
+- TOP 6.2.13: Hofmannstraße 51 (VB)
+- TOP 6.2.14: Hatzelweg 21 (VB)
+- TOP 6.3.: (A) Altlastensanierung und Kampfmittelnachsuche Boschetsrieder Straße 129
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Weiteres Gymnasium im Stadtbezirk 19 notwendig
+- TOP 7.3.: (A) Beschlussentwurf: Schulbauoffensive 2013-2030
+- TOP 7.4.: (Antrag) Dirtbike-Anlage Herterichstraße sanieren
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 03.04. bis 18.04.2022
+- TOP 8.3.: (U) Spielen in der Stadt e.V.: Spielaktionen Tanz. Die. Invasion. im 19. Stadtbezirk
+- TOP 8.4.: Tag des offenen Denkmals am 11.09.2022
+- TOP 8.5.: (Antrag) Überprüfung von zwei Einträgen am Kriegerdenkmal Forstenried
+- TOP 9: Verschiedenes
+- TOP 2.3.: Arbeitsgruppe Ergebnisse Workshop Forstenried
+- TOP 3.4.: - NACHTRAG - (E) Stadtbezirksbudget Spielen in der Stadt e.V. Tanz.Die.Invasion vom 28.04. - 30.04.2022 und 21.07. - 23.07.2022 5.708,00€; Az. 0262.0-19-0408
+- TOP 3.5.: - NACHTRAG - (E) Stadtbezirksbudget Spielen in der Stadt e.V. Tanz.Die.Invasion 2023 5.708,00€; Az. 0262.0-19-0407
+- TOP 5.13.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Eingeschränktes Haltverbot Sollner Straße / Lommelstraße
+- TOP 8.1.1: Ehrenzeichen für Maria Sandmayr in Forstenried
+- TOP 8.6.: - NACHTRAG - (A) Veranstaltung: Spendenaktion Ukraine Thalkirchner Platz am 30.04.2022
+- TOP 8.7.: - NACHTRAG - (A) Veranstaltung: Straßenfest Leuthener Straße am 28.05.2022
+- TOP 7.5.: - NACHTRAG - (Antrag) Container für Jugendliche im Siemens-Sportpark
+- TOP 8.8.: - NACHTRAG - (A) Veranstaltung: Flohmarkt Grünanlage Christel-Küpper-Platz am 21.05.2022
+- TOP 6.2.2: Hofbrunnstraße 75
