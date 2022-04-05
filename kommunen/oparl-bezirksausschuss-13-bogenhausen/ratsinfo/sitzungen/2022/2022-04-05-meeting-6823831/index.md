@@ -1,0 +1,155 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2022-04-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6823831
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6823831
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom 15.03.2022
+- TOP 1.4: Dringlichkeitsantrag des Vorsitzenden zur Verkürzung der Sitzung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Böhmerwaldpl. 6 - Neubau eines Einfamilienhauses mit Tiefgarage (Böhmerwaldpl. 6 / Rachelstr.) - TEKTUR zu 1.2-2019-3602-31; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.2.: Krenklstr. 7 - Neubau eines Wohnhauses (4WE) mit Tiefgarage; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.3.: Neuberghauser Str. 3 - Neubau eines Wohnhauses mit Tiefgarage und Neubau eines Rückgebäudes - Neuberghauser Str. 3/ Steinbacherstr. 12; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.4.: Schneidemühler Str. 20 - Neubau eines Mehrfamilienhauses (10 WE) mit 6 Carports und 24 Fahrradabstellplätzen mit Mobilitätskonzept; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.5.: Tarnowitzer Str. 6 - Neubau zweier Dreier-Stadthäuser und eines Doppelhauses einschl. 8 Garagen - hier: Haus 8 - TEKTUR zu 1.232-2021-16104-31 - hier: Änderung Erker inkl. UG; Anhörung des Referates für Stadtplanung und Bauordnung
+- TOP 2.2.6.: Baumfällungen zu Bauvorhaben: Böhmerwaldpl. 6 Krenklstr. 7 Neuberghauser Str. 3 Schneidemühler Str. 20 Tarnowitzer Str. 6
+- TOP 2.2.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.8.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: (A) Dokumentation der digitalen Beteiligungsveranstaltung zur Mobilitätsstrategie 2035
+- TOP 2.3.2.: (A) Beschlussvorlage "Dialog-Displays"
+- TOP 2.3.3.: Situation Wendekreis Trockenstädelweg; Bürgeranliegen
+- TOP 2.3.4.: Richard-Strauß-Str. 101: Einrichtung von 2 Kurzparkplätzen; Anhörung des Mobilitätsreferats
+- TOP 2.3.5.: (E) + (U) Linksabbiegemöglichkeit in der Johanneskirchner Straße Empfehlung Nr. 20-26 / E 00514 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 28.10.2021
+- TOP 2.3.6.: Stand der Fahrradstraße in der Stradellastraße; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 2.3.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.9.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Think Future Bogenhausen e.V. "Digitale Medien & Du!" Bogenhausen macht sich fit für die Zukunft vom 01.01. - 31.03.2022 8.793,00 €; Az. 0262.0-13-0302
+- TOP 2.4.2.: Weitere Unterlagen zu "Think Future Bogenhausen e.V. "Digitale Medien & Du!" Bogenhausen macht sich fit für die Zukunft vom 01.01. - 31.03.2022"
+- TOP 2.4.3.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Anteilige Personalkosten für das Unterprojekt "Infobus für Flüchtlinge" vom 01.01. - 31.12.2022 5.311,95 €; Az. 0262.0-13-0303
+- TOP 2.4.4.: (E) Stadtbezirksbudget Naturkinder Prinz Eugen Park Anschaffung eines Sonnenschutzes 18.568,50 €; Az. 0262.0-13-0306
+- TOP 2.4.5.: Unterlagen zum Budgetantrag "Naturkinder Prinz Eugen Park - Anschaffung eines Sonnenschutzes"
+- TOP 2.4.6.: (E) Stadtbezirksbudget MobilSpiel e.V. MobilSpiel e.V. - Ein Fest, viele Projekte am 21.05.2022 6.150,00 € / Az. 0262.0-13-0311
+- TOP 2.4.7.: (E) Stadtbezirksbudget foolpool GbR Theater vor der Haustür – PLAN B aus München für München von April bis November 2022 9.499,00 € / Az. 0262.0-13-0309
+- TOP 2.4.8.: Stellungnahme zur Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032; Der BA 8 - Schwanthalerhöhe bittet um Unterstützung.
+- TOP 2.4.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.10.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Anwenderfreundliche IT-Unterstützung, speziell Schulung der Lehrer- und Schülerschaft an Grund- und Mittelschulen; Antrag der CSU-Fraktion
+- TOP 2.5.2.: Öffentlichkeitsarbeit: Fassadengestaltung im Stadtbezirk
+- TOP 2.5.3.: Entwurf der Beschlussvorlage "Schulbauoffensive 2013-2030; Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung" - Anhörung durch das Referat für Bildung und Sport -
+- TOP 2.5.4.: Basketballplatz Isabella-Braun-Weg; Bürgeranliegen
+- TOP 2.5.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.6.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: (A) Planungen für eine bedarfsgerechte, moderne Ausgestaltung der Spiel- und Freizeitflächen im Denninger Anger
+- TOP 2.6.2.: Baumfällungen: Freischützstr. 27 Gleißenbachstr. 9 Maria-Theresia-Str. 32 Pienzenauerstr. 89 Röntgenstr. 12 Tilsiter Str. 7 Vilshofener Str. 5 Westpreußenstr. 6
+- TOP 2.6.3.: Beleuchtung Prinz-Eugen-Park; Bürgeranliegen
+- TOP 2.6.4.: Energieunabhängigkeit von Russland: Steinkohleimport für HKW Nord stoppen; Antrag Fraktion Bündnis 90 / Die Grünen
+- TOP 2.6.5.: Skateanlage im Prinz-Eugen-Park; Antrag der CSU-Fraktion
+- TOP 2.6.6.: (E) Lösung für eine Großbaumverpflanzung der Bäume am Maria- Nindl-Platz finden Empfehlung Nr. 20-26 / E 00515 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 28.10.2021 Baumfällung am Maria-Nindl-Platz/Prinz-Eugen-Park Empfehlung Nr. 20-26 / E 00516 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 28.10.2021
+- TOP 2.6.7.: (E) Unterflurcontainer in Bogenhausen - Kostenübernahme BA-Antrags-Nr. 20-26 / B 00912 des Bezirksausschusses des Stadtbezirkes 13 - Bogenhausen vom 13.10.2020
+- TOP 2.6.8.: Verlegung des Containerstandorts an der Beetzstraße; Bürgeranliegen
+- TOP 2.6.9.: Errichtung einer Hundespielwiese, alternativ Freilauffläche; Antrag der SPD-Fraktion
+- TOP 2.6.10.: Errichtung eines rollstuhlgeeigneten Karussells; Antrag der CSU-Fraktion
+- TOP 2.6.11.: Zusätzliche Spielgeräte auf dem Spielplatz in der Schwarzwaldstraße; Bürgeranliegen
+- TOP 2.6.12.: Wiederherstellung der Sitzmöglichkeiten am Basketball- und Fussballplatz im Denninger Anger sowie Sanierung der Anlage; Antrag der Fraktion ÖDP/DaCG
+- TOP 2.6.13.: Kletterwand in der Grünanlage Pühnpark; Antrag der CSU-Fraktion
+- TOP 2.6.14.: Englschalkinger Anger – ein richtiger Name für das Grüne Band; Bürgeranliegen
+- TOP 2.6.15.: Bushaltestelle Posener Platz (Fahrtrichtung Arabellapark): Wiederanlage des Blumenbeetes
+- TOP 2.6.16.: Schlammwüste beseitigen – Wiese am Cosimabad schnellstmöglich wiederherstellen; Antrag der Fraktion CSU
+- TOP 2.6.17.: Anderer Ort für Altglas-Container Elektrastraße
+- TOP 2.6.18.: Lücken in der Baumschutzverordnung schließen; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 2.6.19.: Erhalt von Bäumen bei städtischen Bauprojekten; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 2.6.20.: Klimaschutz ernst nehmen. Thema Aussenbecken im Cosimabad; Antrag der Fraktion DacG/ÖDP
+- TOP 2.6.22.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.23.: Verschiedenes, Termine
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: (A) Circus Sorento von 29.04.-08.05.2022
+- TOP 2.7.2.: Antrag Gedenktafel der Künstler*innen des Arabellahaus Tonstudios; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.7.3.: "Mädchen an den Ball" - Wunsch nach einer Konzeptvorstellung?; Anhörung
+- TOP 2.7.4.: Sommerfest Phorms am 15.07.2022 im Bürgermeistergarten, Ismaninger-/Ecke Händelstr
+- TOP 2.7.7.: Verschiedenes, Termine
+- TOP 2.7.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Baumfällungen aufgrund von Wurzelfäule; Antwort Gartenbau an Bürgerin
+- TOP 6.2.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Gymnasien und Tealschulen; Sitzungsvorlage 20-26 / V 04670 Hier: Städt. Helen-Keller-Realschule Antwort des RBS zu gestellten Fragen bez. Auslagerung Städt. Helen-Keller-Realschule
+- TOP 6.3.: Errichtung von mindestens zwei (besser vier) E-Ladeplätze an der Kreuzung Bromberger Str. / Daglfinger Str. (vor der Bromberger Str. 9)
+- TOP 6.4.: Freischützstraße auf Höhe der Bushaltestelle Grimmeisenstraße: Errichtung eines Fußgängerüberwegs
+- TOP 6.5.: Antrag auf Erhöhung der Busfrequenz von Linie 187; Antwortschreiben der MVG
+- TOP 6.6.: Kulturbürgerhaus Prinz-Eugen-Park
+- TOP 6.7.: Aufstellen von Hundekotbeutelspendern im Bürgerpark
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Verwendungsnachweise: a) Tretlager e.V. b) GeQo eG
+- TOP 7.1.2.: (U) Evaluation des Livestreams bei einer Bürgerversammlung und Weiterentwicklung der Bürgerversammlungen
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: (U) Bezirkssportanlage Johanneskirchnerstraße; Erweiterung Helen-Keller-Realschule Bauanträge und vorbereitende Maßnahmen Baumfällung in Verbindung mit Baumaßnahmen
+- TOP 7.2.2.: Baumaßnahme: U-Bahnstation Böhmerwaldplatz; überdachte Fahrradabstellanlage
+- TOP 7.2.3.: Protokoll des Nachtspaziergangs im Bezirk BA 13 – Bogenhausen am 22.02.2022 von 17:45 – 20:00 Uhr
+- TOP 7.3: RGU
+- TOP 7.3.1.: (U) Geändertes PSAG-Ost-Protokoll
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.5.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche); Schreiben des KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 7.7.3.: Broschüre Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 7.7.4.: (U) Vereinbarkeit von § 10 Abs. 3 und 4 der Satzung des Vereins zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V. mit dem Gebot der Haftungsbegrenzung gem. Art. 92 Abs. 1 Satz 1 Nr. 3 GO – Prüfauftrag des Bayer. Kommunalen Prüfungsverbandes aus dem Jahr 2013 / 2021
+- TOP 7.7.5.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 7.7.6.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 7.7.7.: (U) Stadtentwicklung im Münchner Nordosten und Münchner Norden (Feldmoching-Ludwigsfeld) Vergabe für den Themenbereich Verkehr/Mobilität Stadtbezirke 13 Bogenhausen, 15 Trudering-Riem und 24 Feldmoching-Hasenbergl
+- TOP 7.7.8.: (U) Stadtentwicklung im Münchner Nordosten und Münchner Norden (Feldmoching-Ludwigsfeld) a) Bericht zu den erarbeiteten Kommunikationsstrategien für die beiden Projekte b) Vergabe für den Themenbereich Öffentlichkeitsarbeit (Teilbereich Umsetzung und Dokumentation) für beide Projekte gemeinsam Stadtbezirke 13 Bogenhausen, 15 Trudering-Riem und 24 Feldmoching-Hasenbergl
+- TOP 7.7.9.: (U) Flughafenanbindung - viergleisiger Ausbau der Strecke Daglfing-Johanneskirchen Sachstandsbericht Anträge und Empfehlungen München setzt sich für eine Entzerrung des Bahngüterverkehrs durch einen leistungsfähigen Ost- und einen Westkorridor ein Antrag Nr. 14-20 / A 05959 von DIE LINKE vom 24.09.2019, eingegangen am 24.09.2019 Neue Güterverkehrstrasse entlang der A 99 prüfen Antrag Nr. 14-20 / A 06833 von der FDP Stadtratsfraktion vom 21.02.2020, eingegangen am 21.02.2020 Ungleichbehandlung verhindern – Planung der Ausbaumaßnahmen für den Nordzulauf des Brennerbasistunnels in München nach gleichen Grundsätzen einfordern! Antrag Nr. 20-26 / A 01369 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 29.04.2021, eingegangen am 29.04.2021 Ausbau der Bahnlinie im Streckenabschnitt Zamdorf bis Johanneskirchen Empfehlung Nr. 14-20 / E 01809 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 26.10.2017 Beauftragung einer Studie zu dem "Schienenverkehrsszenarium 2050 in München für Güter- und Personenverkehr" Empfehlung Nr. 14-20 / E 02914 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 24.10.2019 usw
+- TOP 7.7.10.: (U) Münchner Nordosten A) Beschluss des Ergebnisses des städtebaulichen und landschaftsplanerischen Ideenwettbewerbs B) Weiteres Vorgehen im Rahmen der Vorbereitenden Untersuchungen (VU) C) Anträge und Empfehlungen usw.
+- TOP 7.7.11.: (U) Stadtentwicklung im Münchner Nordosten Vergabe für den Themenbereich Landschafts- und Ausgleichsflächenkonzept Stadtbezirk 13 Bogenhausen, 15 Trudering-Riem
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2021/2022
+- TOP 7.9: Soz.Ref.
+- TOP 7.9.1.: Akutunterbringung Vertriebener aus der Ukraine - Inbetriebnahme/Aufbau von Leichtbauhallenstandorten
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.12.1.: (U) IAA Mobility 2021 – Bericht über die Einhaltung der Stadtratsvorgaben Keine Ausrichtung der IAA in München mehr ohne richtiges Nachhaltigkeitskonzept Antrag Nr. 20-26 / A 0 20-26/A 01997 von der Fraktion ÖDP/München-Liste, Stadtratsfraktion DIE LINKE vom 11.10.2021 Keine IAA mehr auf öffentlichen Plätzen und Grünflächen in der Maxvorstadt Antrag Nr. 20-26 / B 03125 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 19.10.2021
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Mobilitätsreferat
+- TOP 7.15.1.: (U) Durchführung einer vergleichenden Personenbefragung zur Erfassung von Akzeptanz gegenüber automatisierten und vernetzten Fahrzeugen im Rahmen des Förderprojekts TEMPUS Erlass einer Personenbefragungssatzung der Landeshauptstadt München
+- TOP 7.15.2.: (U) Verkehrsrechtliche Anordnung nach § 45 StVO: a) Jörg-Hube-Str. Nordseite Ausweichstellen; Absolutes Halteverbot b) Denninger Str. (West); Halteverbote mit zeitlicher Beschränkung
+- TOP 7.15.3.: (U) Saisonale Stadträume – II Produkt 43122300 Straßenverkehrume - II Beschluss über die Finanzierung für das Jahr 2022 und 2023 aus der Nahmobilitätspauschale 1. Anlass 2. Sommerstraßen 3. Temporäre Spielstraßen 4. Bürgerschaftliche Initiativen und Interventionen im Straßenraum 5. Parklets 6. Notwendige Sachmittel 7. Behandlung der Anträge a) Sommerstraßen – Konzept verbessern Antrag Nr. 20-26 / A 01947 der Ausschussgemeinschaft ÖDP München Liste vom 28.09.2021 b) Spielen in der Stadt Antrag Nr. 20-26 / A 01994 der Fraktion Die Grünen / Rosa Liste vom 08.10.2021
+- TOP 7.16: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.16.1.: Baumaßnahmen der Stadtwerke München - Stichtag vom 28.02.2022 bis 14.03.2022
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.17.1.: (U) Bahnprojekt Brenner-Nordzulauf - Politikbrief - Ausgabe März 2022
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.7.5.: "Ratschbankerl - Nehmen Sie Platz, wenn Sie ratschen wollen"; Anfrage Amt für Soziale Sicherung
+- TOP 2.7.6.: (A) Novellierung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung – SoNuGebS –) sowie der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL)
+- TOP 2.6.21.: Klimaschutz konkret - „Klima-Ausschuss“ in jedem Bezirksausschuss
+- TOP 1.2.1.: Nachträge: N 2.3.7: Prinzregentenstraße: Radwegsanierung; Erinnerungsverfahren N 2.6.21: Klimaschutz konkret - „Klima-Ausschuss“ in jedem Bezirksausschuss N 2.7.5: "Ratschbankerl - Nehmen Sie Platz, wenn Sie ratschen wollen" N 2.7.6: Novellierung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München sowie der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München
+- TOP 2.3.7.: Prinzregentenstraße: Radwegsanierung; Erinnerungsverfahren
+- TOP 7.7.2.: Baumfällungen (Unterrichtungen): Spessartstr. 18 Rümelinstr. 12
