@@ -1,0 +1,75 @@
+# 10. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-04-05T17:37:00+02:00
+- Ende: 2022-04-05T19:37:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25199
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25199
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Sofortige Neubesetzung der vakanten Leitungsstelle des NS-Dokumentationszentrums Köln - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Beauftragung eines Musikschulentwicklungsplans - Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 4.1 - Beauftragung eines Musikschulentwicklungsplans - zurückgestellt
+- TOP 4.2: Kulturprogramm Ebertplatz 2022 - zurückgestellt
+- TOP 4.3: Bedarfsfeststellungsbeschluss Ebertplatz – Weiterführung der Zwischennutzung - zurückgestellt
+- TOP 4.4: Förderung des Open Air-Angebots 2022 - zurückgestellt
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bewerbung um Fördermittel des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen - zurückgestellt
+- TOP 8.2: Vorstellung des Spielplans 2022/2023: Hänneschen Theater - Kenntnis genommen
+- TOP 8.3: Vergabe des Deutschen Jazzpreises 2024 und 2025 in Köln - Kenntnis genommen
+- TOP 8.4: Freie Eintritte für Auszubildende in die Museen der Stadt Köln - Kenntnis genommen
+- TOP 8.5: Neubesetzung der vakanten Leitungsstelle des NS-Dokumentationszentrums Köln - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 21. Februar 2022 - Kenntnis genommen
+- TOP -: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 14. März 2022 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 18. Februar 2022 - Kenntnis genommen
+- TOP -: Sachstandsbericht zur Zentralbibliothek Köln, Stand 11. März 2022 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 1. März 2022 - Kenntnis genommen
+- TOP -: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 25. März 2022 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der Anfrage AN/2218/2021 der Fraktion Die LINKE.: Professionelle Aufarbeitung der Kölner Kolonialgeschichte tut not! - Kenntnis genommen
+- TOP 10.2: Anfrage von "Grün offene Liste" (GOL) in der Sitzung des Integrationsrates am 16.11.2021 zur Rückgabe der sogenannten Benin-Bronzen - Kenntnis genommen
+- TOP 10.3: Anmietung neuer Räume für die Kunst- und Museumsbibliothek, hier: Sachstand zum Beschluss 0727/2020 - Kenntnis genommen
+- TOP 10.4: Beantwortung der mündlichen Anfrage: Geschlechterparitätische Verteilung von Stipendien der Stadt Köln und deren Auswahlgremien - Kenntnis genommen
+- TOP 10.5: Beantwortung der mündlichen Anfrage: Werkstatt-Räume des Historischen Archiv - Kenntnis genommen
+- TOP 10.6: Beantwortung der schriftlichen Anfrage der FDP-Fraktion zur Kostenentwicklung für die Herrichtung und den Betrieb des Kölnischen Stadtmuseums im Haus Sauer - Kenntnis genommen
+- TOP 10.7: Beantwortung der mündlichen Anfrage: Restaurierung der Historischen Stadtbibliothek und der Wallraf-Bibliothek - Kenntnis genommen
+- TOP 10.8: Beantwortung der schriftlichen Anfrage der Ratsgruppe GUT Köln: Sachstand Heliosgelände 2022 (AN/0201/2022) - Kenntnis genommen
+- TOP 10.9: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen: Sachstand Heliosbaustein - Kenntnis genommen
+- TOP 10.10: Beantwortung der mündlichen Anfrage: Förderkonzept Kulturelle Teilhabe - Kenntnis genommen
+- TOP 10.11: Baulogistik für das Römisch-Germanische Museum und die umliegenden Bauprojekte - zur Anfrage der SPD-Fraktion AN/0149/2022 - Kenntnis genommen
+- TOP 10.12: Besetzung der Stelle des Direktors, der Direktorin des NS-Dokumentationszentrum der Stadt Köln - Kenntnis genommen
+- TOP 10.13: Mündliche Anfragen zu TOP 8.1 VO 3127/2021 - Fortschreibung des Gesamtkonzeptes Kulturelle Bildung - KuBiK - zurückgestellt
+- TOP 10.14: Haushalt 2022 – Ansätze im Etat, Kulturelle Bildung - Kenntnis genommen
+- TOP 10.15: Beantwortung einer mündlichen Anfrage zur Auszahlung von Fördermitteln der freien Musikszene in 2021 und zum Musikförderkonzept der Stadt Köln - Kenntnis genommen
+- TOP 10.16: Beantwortung der mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen zum Runden Tisch zur Ateliersituation in Köln - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung einer schriftlichen Anfrage zum Kunstwerk "ruhender Verkehr" von Wolf Vostell - Kenntnis genommen
+- TOP 11.2: TransparenzKULTUR! - Kenntnis genommen
+- TOP -: TransparenzKULTUR AN/0167/2022 der SPD-Fraktion - Kenntnis genommen
+- TOP 11.3: Städtepartnerschaftlicher Austausch Esch-sur-Alzette - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion im Ausschuss Kunst und Kultur vom 25.01.2022 betreffend „Städtepartnerschaftlicher Austausch Esch-sur-Alzette - Kenntnis genommen
+- TOP 11.4: Zwischennutzung für „MiQua“ - Kenntnis genommen
+- TOP -: Beantwortung erfolgte mündlich in der Sitzung am 25.01.2022 - Kenntnis genommen
+- TOP 11.5: Inventarisierung in Kölner Museen - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der FDP-Fraktion (AN/0357/2022) zum Thema "Inventarisierung in Kölner Museen" - Kenntnis genommen
+- TOP 11.6: Kulturelle Bildung - zurückgestellt
+- TOP -: Beantwortung AN/0355/2022 - Anfrage zu Musenkuss - zurückgestellt
+- TOP 11.7: Schriftliche Anfrage der Fraktion der SPD: Kulturmarketing - Kenntnis genommen
+- TOP 11.8: Schriftliche Anfrage der Fraktion Die Linke: Was geschieht mit Raum 13 - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Sachstandsbericht Sanierung Philharmonie und Museum Ludwig
+- TOP 12.2: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Ateliersituation
