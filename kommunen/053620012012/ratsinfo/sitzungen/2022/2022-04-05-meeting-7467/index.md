@@ -1,0 +1,53 @@
+# Ausschuss für Verkehr und Mobilität (7. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-04-05T18:00:00+02:00
+- Ende: 2022-04-05T21:43:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-261
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXf08fr5ig1abbMBVADsjNg
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7467
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdfI58tHI4jLUkdqoC08kAXBQy3ytsoJTEzrVtfemIkX/Bekanntmachung_Ausschuss_fuer_Verkehr_und_Mobilitaet_05.04.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe_ZyW6HTEUj13zWlTXqINdrH1bAmN-OC3XXUyL13gX7/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr_und_Mobilitaet_05.04.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 25.01.2022
+- TOP 2.: Parkraumkonzept der Stadt Brühl Bezug: VL 83/2020 - (kein Text vorhanden)
+- TOP 3.: Stellplatzsatzung Stadt Brühl Bezug: Vorlage-Nr. 491/2020, AfVM 01.12.2020 - (kein Text vorhanden)
+- TOP 4.: Umgestaltung Schulstraße/Talstraße - (kein Text vorhanden)
+- TOP 5.: Umgestaltung Berliner Ring - (kein Text vorhanden)
+- TOP 6.: Verkehrsoptimierung Brühl Ost - (kein Text vorhanden)
+- TOP 7.: Bike-Sharing in Brühl Bezug: Vorlage-Nr. 5/2022, AfVM 25.01.2022
+- TOP 8.: Beteiligung der Stadt Brühl an der Europäischen Mobilitätswoche mit eigenen Aktionen Bezug: Antrag der Fraktionen SPD und Grüne vom 07.01.2022 - (kein Text vorhanden)
+- TOP 9.: Flächendeckende Einführung Tempo 30 auf Brühler Straßen Bezug: Antrag der Fraktionen SPD und Grüne vom 07.01.2022
+- TOP 9.1: Flächendeckende Einführung Tempo 30 auf Brühler Straßen Bezug: Antrag der Fraktionen SPD und Grüne vom 07.01.2022 - (kein Text vorhanden)
+- TOP 10.: Beitritt der Stadt Brühl zur Städteinitiative "Lebenswerte Städte durch angemessene Geschwindigkeiten" Bezug: Antrag der Fraktionen SPD und Grüne vom 07.01.2022
+- TOP 10.1: Beitritt der Stadt Brühl zur Städteinitiative "Lebenswerte Städte durch angemessene Geschwindigkeiten" Bezug: Antrag der Fraktionen SPD und Grüne vom 07.01.2022 - (kein Text vorhanden)
+- TOP 11.: Anbringung von Rechtsabbiegerpfeilen für den Radverkehr an Ampelkreuzungen Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 21.03.2022 - (kein Text vorhanden)
+- TOP 12.: Kooperationsvereinbarung mit den Nachbarkommunen/-kreisen zur Streckenplanung einer Radpendlerroute Bonn – Köln Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 21.03.2022 - (kein Text vorhanden)
+- TOP 13.: Mitteilungen
+- TOP 13.1: Durchführung von Geschwindigkeitsüberprüfungen
+- TOP 13.2: Radwegeverbindung Richtung Bornheim
+- TOP 13.3: Stellenbesetzung Verkehrsplanerin
+- TOP 13.4: Stadtradeln-Zeitraum 2022
+- TOP 13.5: Austauschtreffen mit Straßen.NRW und Die Autobahn GmbH
+- TOP 13.6: Polizei im Verkehrsausschuss
+- TOP 13.7: Aktueller Zeitplan Bahnhofsumfeld
+- TOP 14.: Anfragen
+- TOP 14.1: Installation von Kameras in der Römerstraße
+- TOP 14.2: Standpunkt des Kreises zu Unfall auf der Bonnstraße
+- TOP 14.3: Gefahr durch Baken auf der alten Bonnstraße
+- TOP 14.4: Bewachte kostenlose Abstellplätze für Fahrräder nach niederländischem Vorbild
+- TOP 14.5: Abschlussbericht des Fußverkehrs-Check
+- TOP 14.6: Umsetzungszeitplan für Maßnahme aus dem Radmasterplan in Brühl Süd
+- TOP 14.7: Schulwegprobleme durch Baumaßnahme in der Steingasse in Badorf
+- TOP 14.8: Nachfrage Sachstand Carsharing
+- TOP 14.9: Planungen Ausbau Ladeinfrastruktur
+- TOP 14.10: Uhrzeiten für den Lieferverkehr auf dem Markt
+- TOP B): Nichtöffentliche Sitzung
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen
