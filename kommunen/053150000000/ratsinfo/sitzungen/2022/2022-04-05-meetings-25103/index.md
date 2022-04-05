@@ -1,0 +1,61 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-04-05T14:08:00+02:00
+- Ende: 2022-04-05T16:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25103
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25103
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gekürzte Öffnungszeiten in Kölner Kitas: Eltern und Kinder nicht weiter im Regen stehen lassen! - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Aktuelles zu der Situation der Geflüchteten aus der Ukraine
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Gemeinsame Website der kulturpädagogischen Facheinrichtungen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Kindertagespflege nach § 23 SGB VIII - Qualifizierung und Fortbildung von Tagespflegepersonen - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung Spielplatz Rommerscheider Straße in Köln-Dellbrück - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - geändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Suizidversuche von Kindern und Jugendlichen während der Pandemie - Kenntnis genommen
+- TOP -: Beantwortung der FDP-Anfrage „Suizidversuche von Kindern und Jugendlichen während der Pandemie“ - Kenntnis genommen
+- TOP 6.1.2: Jugendeinrichtung Wunschtor - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion (AN/0520/2022) zur Jugendeinrichtung Wunschtor in Köln-Ostheim - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: EDELGARD: Tätigkeitsbericht 2021 und geplante Evaluation - Kenntnis genommen
+- TOP 7.1.2: Sportentwicklungsplanung - "Poldis Straßenkicker" hier: Beantwortung der Anfrage aus der Sitzung vom 08.03.2022 zu TOP 8.5.4 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Sportorientierte Jugendarbeit: Stadtbezirks- und Trägerwechsel zum 01.04.2022 - Kenntnis genommen
+- TOP 8.4.2: Pilot- Beteiligungsverfahren für Kinder und Jugendliche: "Hey Mülheim! - Check mit uns dein Veedel!" - Kenntnis genommen
+- TOP 8.4.3: Errichtung einer Skateranlage in Köln-Sülz - Kenntnis genommen
+- TOP 8.4.4: Event für Jugendliche gemäß Beschluss des Jugendhilfeausschusses vom 25.08.2020, TOP 5.2.2 - Kenntnis genommen
+- TOP 8.4.5: Sommerferien 2022 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2021 - Kenntnis genommen
+- TOP 8.5.2: Neue Konzeption der Schulsozialarbeit - Kenntnis genommen
+- TOP 8.5.3: Grüngürtel - Parkstadt Süd, Öffentlichkeitsarbeit im Rahmen der Vorplanung - Kenntnis genommen
+- TOP 8.5.4: AG 78 Kindertagespflege - Kenntnis genommen
+- TOP 8.5.5: Aktuelle Entwicklungen KVB-Leihrad - zurückgestellt
