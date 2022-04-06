@@ -1,0 +1,79 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2022-04-06T17:00:00+02:00
+- Ende: 2022-04-06T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6671
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6671
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=399728
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - gegenstandslos
+- TOP 4: je eine Priorität pro Fraktion - (offen)
+- TOP 4.1: Keine Kürzungen beim Verfügungsfonds für die Berliner Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 4.2: Hitzehilfe für Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 4.3: Wohnbauprojekt der Degewo an Beyrodtstraße, Welterpfad und Kaiserallee in Marienfelde dreistöckig umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 4.4: Vorsorge für Rekommunalisierung der Schulreinigung im Landeshaushalt 2022/23 jetzt! - überwiesen
+- TOP 4.5: Finanzierung der Nutzung der Zollgarage durch Potze e.V. - beantwortet
+- TOP 4.6: Keine Bergmannstraße im Richthofenkiez - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - (offen)
+- TOP 5.1: Wahl der Patientenfürsprecher_innen für die XXI. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Besetzung einer/s Bürgerdeputierten als beratendes Mitglied im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 5 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 72 Abs.1 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Vorhabenbezogenen Bebauungsplan 7-89 VE für das Grundstück Passauer Straße 1-3 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 7: Protokollgenehmigung - vertagt
+- TOP 8: Mündliche Anfragen - erledigt
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Verkehrssicherheit auf dem Innsbrucker Platz nach schwerem Unfall herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Radwegeausbau gemeinsam mit SenUMVK angehen und beschleunigen - in der BVV zurückgezogen
+- TOP 9.3: Städtepartnerschaft mit einem Bezirk von Kiew anbahnen - in der BVV abgelehnt
+- TOP 9.4: Frauen haben Vorrang: Grünanlage Wolffring nach der Grafikerin und Widerstandskämpferin Elisabeth Schumacher benennen - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Hans-Baluschek-Park erleuchten - überwiesen
+- TOP 9.6: Baumsaldo korrigieren - überwiesen
+- TOP 9.7: Park an der Gleditschstraße nach Ursula Mamlok benennen - überwiesen
+- TOP 9.8: Wohnungsmarkt entspannen. Ehemalige Kleingartenkolonie Säntisstraße für Wohnungsbau nutzen! - überwiesen
+- TOP 9.9: Diedersdorfer Weg für den Fußverkehr verbessern - überwiesen
+- TOP 9.10: Kostenfreie Nutzung der Citytoiletten allen Geschlechtern ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Milieuschutz darf nicht zur Verdrängung von Wohnungsnutzern im Alter führen - überwiesen
+- TOP 9.12: Corona-Sommerhilfe für Obdachlose in Tempelhof-Schöneberg jetzt auf den Weg bringen - überwiesen
+- TOP 9.13: Gesundheitsstandort Wenckebach – Krankenhausbeirat des Bezirkes bei Bedarfsanalyse und Weiterentwicklung beteiligen - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Geruchsbelästigung durch Ginkgo-Früchte abstellen - überwiesen
+- TOP 9.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.16: Schulsozialarbeit für Willkommensklassen ab sofort in der Friedenauer Gemeinschaftsschule etablieren - überwiesen
+- TOP 9.17: Aufenthaltsbereicherung Lichtenrader Dorfteich - überwiesen
+- TOP 9.18: Abfalleimer im Bereich des Rehagener Platzes umgehend zur Verfügung stellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Sofortmaßnahmen zum Stopp von Durchgangsverkehr in der Gartenstadt Tempelhof - überwiesen
+- TOP 9.20: Südkreuz: Gemeinsam mit der Deutschen Bahn für ein sauberes Bahnhofsumfeld - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Letzte kriegsbedingte Baulücke am Tauentzien schließen - überwiesen
+- TOP 9.22: Marienfelde-Süd sauberer und grüner machen - überwiesen
+- TOP 9.23: Sternenkinder-Eltern informieren - in der BVV zurückgezogen
+- TOP 9.24: Modellprojekt Kiezblock Flottwellkiez unterstützen - überwiesen
+- TOP 9.25: Auf dem Weg zur Schwammstadt - überwiesen
+- TOP 9.26: Erinnerung an das Maison de Santé wachhalten - überwiesen
+- TOP 9.27: Jugendverkehrsschule im nördlichen Teil des Bezirks erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Tempelhof-Schöneberg als Vorbild bei der Umsetzung Ehe für alle - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Diversität des Regenbogens bei der Beflaggung zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Baumfällung durch Neubau – frühzeitige Information des Stadtentwicklungsausschuss bei Antragstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Keine Fahrradstraße ohne Bürgerbeteiligung – Kritik der Bürger am Wegfall von Parkplätzen ernstnehmen - vertagt
+- TOP 11.5: Die Badensche Straße soll schöner werden - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Bürger*innen über ihre Sportmöglichkeiten im Bezirk informieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Projekt „Mitternachtssport“ verstetigen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 12.1: Das kommunale Vorkaufsrecht rechtssicher gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2: Radfahrer*innen schützen - gefährlichen Kreuzungsbereich am Prellerweg Ecke Munsterdamm entschärfen! - überwiesen
+- TOP 12.3: Amphibien schützen - Grüntenteich und kleinen Karpfenpfuhl zügig wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Impfquote erhöhen: Impfzentrum im ehemaligen Flughafen Tempelhof reaktivieren - überwiesen
+- TOP 12.5: Impfen, impfen, impfen - überwiesen
+- TOP 12.6: Neue Zusammensetzung der Kunstkommission - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.7: Vorhabenbezogener Bebauungsplan 7-89 VE für das Grundstück Passauer Straße 1-3 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
