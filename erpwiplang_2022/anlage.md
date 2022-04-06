@@ -61,10 +61,10 @@ Aus dem Ansatz können auch Ausgaben für Mandatar-/Projekt-/Verwaltungskosten g
 Zu Tit. 683 01
 Der Titelansatz enthält die Zahlungsverpflichtungen aus den im Zuge der Neuordnung nicht auf den Bund übertragenen Kreditforderungen (Altgeschäft) und aus sonstigen Verpflichtungen im Zuge der Neuordnung der ERP-Wirtschaftsförderung sowie die Kosten aus Zusagen nach der Neuordnung der ERP-Wirtschaftsförderung bis einschließlich 31. Dezember 2021.
 Die Zahlungsverpflichtungen in künftigen Haushaltsjahren belaufen sich auf 1 330,5 Mio. Euro, davon fällig:
-Jahr 2023 bis 123,1 Mio. Euro
-Jahr 2024 bis zu 107,0 Mio. Euro
-Jahr 2025 bis zu 92,9 Mio. Euro
-in künftigen Haushaltsjahren 1 007,5 Mio. Euro.
+| Jahr 2023 bis ............................................. | 123,1 Mio. Euro |
+| Jahr 2024 bis zu ........................................ | 107,0 Mio. Euro |
+| Jahr 2025 bis zu ........................................ | 92,9 Mio. Euro |
+| in künftigen Haushaltsjahren ..................... | 1 007,5 Mio. Euro. |
 Zu Tit. 682 01
 Der Titelansatz umfasst Mittel für
 – die Verwaltungs- und Refinanzierungskosten der KfW-Beteiligungstochter „KfW Capital“.
@@ -111,7 +111,7 @@ Der Ansatz umfasst insbesondere:
 – die Dotierung der ERP/EIF-Programme mit dem Ziel, mittelständischen Unternehmen die Beschaffung von haftendem Kapital sowohl in der Früh- und Wachstumsphase (Venture Capital) als auch in der Expansionsphase (Venture Debt, Mezzaninkapital) zu erleichtern;
 – die Bedienung von Kapitalabrufen der High-Tech Gründerfonds I, II, III und V sowie des DeepTech Future Fonds und der HTGF Wachstumsfazilität;
 – die Bedienung von Kapitalabrufen des Fonds Coparion;
-– die Beteiliung des ERP-Sondervermögens am Wachstumsfonds Deutschland;
+– die Beteiligung des ERP-Sondervermögens am Wachstumsfonds Deutschland;
 – Weitere Maßnahmen sind der Mikromezzaninfonds zusammen mit dem Europäischen Sozialfonds (ESF), Beteiligungen an Frühphasen- und mittelstandsorientierten Beteiligungsgesellschaften.
 In dem Titel sind Doppelveranschlagungen als Ansatz im Haushaltsjahr 2022 beziehungsweise als Verpflichtungsermächtigung mit Auszahlung in den Jahren 2023 ff. erforderlich, da es von den nicht vorab zu bestimmenden Markt- und Investitionsgegebenheiten abhängt, ob die Verwalter der refinanzierten Fonds die Kapitalzusagen mit Auszahlungen im Haushaltsjahr 2022 oder in Folgejahren tätigen.
 Die ausgewiesenen Mittel sind Teil des Sondervermögens (Umschichtung) und gehen nicht zu Lasten der erwirtschafteten Erträge.
