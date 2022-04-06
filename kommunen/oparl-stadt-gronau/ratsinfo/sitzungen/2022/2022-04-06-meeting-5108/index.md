@@ -1,0 +1,53 @@
+# Rat (17. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2022-04-06T18:00:00+02:00
+- Ende: 2022-04-06T21:58:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQByjQsnQslqK7EGeI7on5E
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5108
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVWjqUoo1Has3A6wPgDGMoadXabNoxGFKmlmqpJvPCHj/Bekanntmachung_Rat_06.04.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSJnk5yt9Eo3xHO8hIqjK9BiOuhv8_cB6IzUR8fDZzK1/Oeffentliche_Niederschrift_Rat_06.04.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Amtseinführung und Verpflichtung neuer Ratsmitglieder
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Niederschrift vom 09.03.2022
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion pro:Bürgerschaft vom 14.02.2022; Junges Ehrenamt - Einstimmig, 1 Enthaltungen
+- TOP 5.2: Antrag der WEG-Fraktion vom 25.03.2022; Glasfaserausbau – Rechtslage Hausanschlüsse - Einstimmig, 0 Enthaltungen
+- TOP 5.3: Antrag der Fraktion GAL/Die Linke vom 27.03.2022; Aktion Klimabäume - 5 Jastimmen, 30 Neinstimmen, 9 Enthaltungen
+- TOP 6.: Ortsumgehung Epe (Neubau der K 59n) 1. Vorstellung der Ergebnisse der Untersuchungen zum Artenschutz 2. Antrag der Fraktion pro:Bürgerschaft vom 10.11.2021/14.02.2022: Einstellung der Planung zur Ortsumgehung Epe (K 59n) 3. Anregungen und Beschwerden gem. § 24 GO NRW "Stopp der Planungen für die Ostumgehung Epe-K 59n"
+- TOP 6.1: Ortsumgehung Epe (Neubau der K 59n) Anregungen und Beschwerden gem. § 24 GO NRW Eingabe der Anwohner der Wilhelmstraße und der Steinfurter Straße v. 07.03.2022
+- TOP 7.: Einführung und Umsetzung eines Leitbildprozesses für die Stadt Gronau
+- TOP 8.: Ziele und Leitsätze für das Klimaschutzkonzept - 29 Jastimmen, 14 Neinstimmen, 1 Enthaltungen
+- TOP 9.: Jugendhilfeplanung - Betreuungsplätze für Kinder in Kindertageseinrichtungen und Kindertagespflege, Teil I Bedarfsplanung 2021 bis 2025 - Einstimmig, 0 Enthaltungen
+- TOP 10.: 108. Änderung des Flächennutzungsplans der Stadt Gronau Vorhabenbezogener Bebauungsplan "Einrichtungsmarkt POCO“, Stadtteil Epe Aufstellungsbeschluss - 38 Jastimmen, 1 Neinstimmen, 4 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 253 "Nördlich der Friedrichstraße", Stadtteil Epe (beschleunigtes Verfahren gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss 4. Anpassung des Flächennutzungsplans - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 302 "Zwischen Kurzem Weg und Schöttelkotter Damm Teilbereich I", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss Aufhebung Umlegung Gronau „Kurzer Weg“, Stadtteil Gronau (Bebauungsplan Nr. 172 „Kurzer Weg“, Stadtteil Gronau) - Einstimmig, 2 Enthaltungen
+- TOP 13.: Nebentätigkeiten des Bürgermeisters für das Jahr 2021
+- TOP 14.: Sachstand zur Ukraine-Flüchtlingssituation
+- TOP 15.: Sachstand zur Corona-Pandemie (Stand 30.03.2022)
+- TOP 16.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 17.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 18.: Mitteilungen der Verwaltung
+- TOP 18.1: Landtagswahl 2022 NRW
+- TOP 18.2: Stadtradeln
+- TOP 18.3: Förderprogramm "Spar mit Solar"
+- TOP 19.: Anfragen
+- TOP 19.1: Tauschcontainer beim Wertstoffhof (Anfrage von RM Doetkotte)
+- TOP 19.2: Dinkellager (Anfrage von RM von Borczyskowski)
+- TOP 19.3: Wasserrinne Schulstraße (Anfrage von RM Hüsing-Hackfort)
+- TOP 19.4: Entschädigungspauschale für fehlende Ratsmitglieder (Anfrage von RM Mönsters)
+- TOP 19.5: Sprechstunde der Ausländerbehörde in Gronau (Anfrage von RM Savci)
+- TOP 19.6: Gastronomie am Driland (Anfrage von RM Reinhoffer)
+- TOP 19.7: Konzept für Energiesparmaßnahmen im öffentlichen Raum (Anfrage von RM Wagner)
+- TOP 19.8: Radbügel an der Bürgerhalle (Anfrage von RM Buchholz)
+- TOP 19.9: Baumbeschnitt am LAGA-Spielplatz (Anfrage von RM Buchholz)
+- TOP 19.10: Spielplatz am Driland (Anfrage vom 2. Stellv. d. BM Bajorath)
