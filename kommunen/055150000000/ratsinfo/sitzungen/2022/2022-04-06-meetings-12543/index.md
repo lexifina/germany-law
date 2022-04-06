@@ -1,0 +1,71 @@
+# 11. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-04-06T16:08:00+02:00
+- Ende: 2022-04-06T22:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12543
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12543
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00506829.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Bearbeitungsstand der Ratsanträge - 1. Halbjahr 2022 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 3: Musik-Campus - Grundsatzbeschlüsse - ohne Beschlussfassung geschoben
+- TOP 4: Überörtliche Prüfung der Stadt Münster im Jahr 2021 - Bereich Informationstechnik - durch die Gemeindeprüfungsanstalt NRW (gpaNRW) Stellungnahme zu den Feststellungen und Empfehlungen - ohne Beschlussfassung geschoben
+- TOP 5: Feststellung des Jahresabschlusses 2020 der Stadt Münster - einstimmig beschlossen
+- TOP 6: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am Sonntag, dem 15.05.2022 in Münster-Hiltrup - einstimmig beschlossen
+- TOP 7: Anpassung der Entgeltordnung der Stadthalle Hiltrup zum 01.05.2022 - einstimmig beschlossen
+- TOP 8: Änderung der Gebührenordnung für Parkuhren und Parkscheinautomaten im Gebiet der Stadt Münster (Parkgebührenordnung) A-R/0008/2022 Ausgleich für die Stadtwerke - ÖPNV-Fonds etablieren vom 01.02.2022 - ohne Beschlussfassung geschoben
+- TOP 9: Neufassung Errichtungsbeschluss für den Neubau eines Feuerwehrhauses der Freiwilligen Feuerwehr im Ortsteil Albachten - ohne Beschlussfassung geschoben
+- TOP 10: Aufnahme der Stadtnetze Münster GmbH in die Informations- und Steuerungscluster als steuerungsrelevante Beteiligung der Stadt Münster und Einordnung in die Informationskategorie A - einstimmig beschlossen
+- TOP 11: Stärkung der Innenstadt: Zwischenbericht zum Zukunftsprozess Stadt. Raum. Leben. - Münsters Mitte machen - zur Kenntnis genommen
+- TOP 12: Entwicklungsorientierte Wohnungsmarktbeobachtung in der Stadtregion Münster "eWoMaB" - Inhalte und Schlussfolgerungen - von der Tagesordnung abgesetzt
+- TOP 13: Teilfortschreibung 3. Nahverkehrsplan - Beschluss zum Beteiligungsverfahren - einstimmig beschlossen
+- TOP 14: Grundlegende Bedarfsfeststellung für die Beschaffung von Mittagsverpflegung an städtischen Schulen - einstimmig beschlossen
+- TOP 15: Neufassung der Satzung über die außerschulische Nutzung der Schulhöfe städtischer Schulen auf Antrag der CDU und Bündnis90/Die Grünen/GAL (A-R/0002/2020) - ohne Beschlussfassung geschoben
+- TOP 16: Lern-, Erfahrungs- und Aufenthaltsqualität auf den Schulhöfen unserer Stadt verbessern! - ohne Beschlussfassung geschoben
+- TOP 17: Integrationsmonitoring 2020/2021 - von der Tagesordnung abgesetzt
+- TOP 18: Genehmigung einer Dringlichkeitsentscheidung für die Fortsetzung des Vertrages zum Schülerticket für den Schulstandort Münster - Finanzierung von Fahrkosten über der Höchstbetragsgrenze - einstimmig beschlossen
+- TOP 19: Überleitung von außerunterrichtlichen Angeboten (OGS)
+- TOP 19.1: Überleitung der außerunterrichtlichen Angebote (OGS) der Thomas-Morus-Schule - einstimmig beschlossen
+- TOP 19.2: Überleitung der außerunterrichtlichen Angebote (OGS) der Kardinal-von-Galen-Schule - einstimmig beschlossen
+- TOP 19.3: Überleitung der außerunterrichtlichen Angebote (OGS) der Johannisschule - einstimmig beschlossen
+- TOP 19.4: Überleitung der außerunterrichtlichen Angebote (OGS) der Gottfried-von-Cappenberg-Schule - einstimmig beschlossen
+- TOP 19.5: Überleitung der außerunterrichtlichen Angebote (OGS) der Margaretenschule - einstimmig beschlossen
+- TOP 20: Indikatorenbasierte Verteilung SSA Schuljahre 2022/23 und 2023/24 - ohne Beschlussfassung geschoben
+- TOP 21: Ausschreibung eines integrierten gesamtstädtischen Sportentwicklungskonzepts für die Stadt Münster - einstimmig beschlossen
+- TOP 22: Errichtungsbeschluss: Neubau einer 5-Gruppen-Kindertageseinrichtung im Oxford-Quartier im Stadtteil Gievenbeck [Wohn- und Stadtbau GmbH] - einstimmig beschlossen
+- TOP 23: Errichtungsbeschluss: Neubau einer 4-Gruppen-Kindertageseinrichtung im York-Quartier im Stadtteil Gremmendorf [Wohn- und Stadtbau GmbH] - einstimmig beschlossen
+- TOP 24: Wirtschaftsplan 2022/2023 des Theater Münster - einstimmig beschlossen
+- TOP 25: Öffentliche Ausschreibung der Betriebsträgerschaften für die dauerhaften Flüchtlingseinrichtungen in Nienberge, Käthe-Ernst-Weg 16 - 26, in Roxel, Zum Schultenhof 3, und in Rumphorst, Lauenburgstraße 19 - einstimmig beschlossen
+- TOP 26: Theaterhaus Pumpenhaus gGmbH: Zukunftsfähige Aufstellung und Weiterentwicklung, Wiederbesetzungsverfahren - einstimmig beschlossen
+- TOP 27: Strategie zur Erreichung der Klimaneutralität 2030 für städtische Gebäude - ohne Beschlussfassung geschoben
+- TOP 28: Baubeschluss - Hoppengarten 32 - einstimmig beschlossen
+- TOP 29: Abfallwirtschaftsbetriebe Münster - ohne Beschlussfassung geschoben
+- TOP 30: Theater Münster Planungsbeschluss zur Aufstockung des Verwaltungstraktes und zur energetischen Teilsanierung - einstimmig beschlossen
+- TOP 31: Neubau Feuer- und Rettungswache 3 der Berufsfeuerwehr in Münster Hiltrup - ohne Beschlussfassung geschoben
+- TOP 32: 88. FNP-Änderung - Beschluss zur Änderung - Bebauungsplan Nr. 627 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 33: Satzung zur Begründung eines besonderen Vorkaufsrechtes gemäß § 25 Abs. 1 Nr. 2 BauGB für ein Teilstück des Grundstücks Gemarkung Hiltrup, Flur 7, Flurstück 557 - einstimmig beschlossen
+- TOP 34: Bauleitplanung
+- TOP 34.1: Stadtbezirk Mitte
+- TOP 34.1.1: 97. FNP-Änderung - VBP 609 - Hafenmarkt - Beschluss über die Stellungnahmen - Abschließender Beschluss - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 34.1.1.1: Hansaring/Schillerstraße/Hafenweg vorhabensbezogener B-Plan Nr.609 - ohne Beschlussfassung geschoben
+- TOP 34.1.2: 112. Änderung FNP - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 620 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 34.2: Stadtbezirk West
+- TOP 34.2.1: Bebauungsplan Nr. 575: [Aaseestadt] - Erweiterter Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 34.2.2: 147 - 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 34.3: Stadtbezirk Hiltrup
+- TOP 34.3.1: 118. Änderung des FNP - Beschluss zur Änderung - Bebauungsplan Nr. 628 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 34.3.2: 1. Änderung des Bebauungsplans Nr. 256 II - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 34.4: Stadtbezirk Nord
+- TOP 34.4.1: Zweite Änderung des Bebauungsplans Nr. 306: Nienberge - Gewerbegebiet und Sportzentrum Feldstiege im Bereich des Gewerbegebiets zwischen der Feldstiege und der Altenberger Straße - einstimmig beschlossen
+- TOP 34.5: Stadtbezirk Ost
+- TOP 34.5.1: Bebauungsplan Nr. 562 - Stellungnahmen - Satzung - einstimmig beschlossen
+- TOP 35: Verschiedenes
