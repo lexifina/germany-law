@@ -1,0 +1,65 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-04-06T17:00:00+02:00
+- Ende: 2022-04-06T19:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21973
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21973
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV6 digitales Sitzungspaket 2022-04-06 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00445584.pdf
+- Ergebnisprotokoll: BV6 digitales Sitzungspaket 2022-04-06 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00445584.pdf
+- Wortprotokoll: BV6 digitales Sitzungspaket 2022-04-06 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00445584.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - vom 9. März 2022 - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 3: Vorstellung des Kinder- und Jugendförderplan 2021-2025 - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Umgestaltung Kinderspielplatz Kalkumer Straße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 6: Bebauungsplan-Entwurf Nr. 06/020 - Beiderseits Vogelsanger Weg - einstimmig beschlossen
+- TOP -: Anfragen (bereits versandt)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6 - vertagt
+- TOP 9: Anfrage der Fraktion BÜ90/Die Grünen: Offene Fragen zum flankierenden Verkehrskonzept des Neubauprojekts Deiker Höfe (ehemals Fashion House) - schriftlich beantwortet
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen - vertagt
+- TOP 13: Anfrage der Fraktion Bü90/Die Grünen: Anfrage zu einem möglichen P&R-Parkplatz mit Anbindung an die A44 und die A52 - schriftlich beantwortet
+- TOP 14: Anfrage der SPD-Fraktion: Neubepflanzung "Unterrather Wald" - Airport City West - vertagt
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Anfrage der CDU-Fraktion: Gebäude Kalkumer Straße 1 und Kalkumer Straße 2, ff - vertagt
+- TOP -: Anfragen (neu)
+- TOP 17: Anfrage der CDU-Fraktion: Anschluss des Wohnhauses am Dachsbergweg 71a an das Kanalnetz - vertagt
+- TOP 18: Anfrage der CDU-Fraktion: Entwicklung der Aufnahmekapazitäten der Grundschulen in Rath - schriftlich beantwortet
+- TOP 19: Anfrage de Fraktion BÜ90/Die Grünen: Häusliche Gewalt und sexualisierte Gewalt in amtliche Kriminalitätsstatistik integrieren - zurückgezogen
+- TOP 20: Anfrage der Fraktion BÜ 90/Die Grünen: Lärmimmission auf dem Schulgelände der im Bau befindlichen Realschule an der Borbecker Straße - vertagt
+- TOP 21: Anfrage der Fraktion BÜ90/Die Grünen: Flächenplanung und Lehrschwimmbecken am Förderstützpunkt an der Herdecker Straße - schriftlich beantwortet
+- TOP 22: Anfrage der SPD-Fraktion: Zeitfenster der Umsetzung von beschlossenen Maßnahmen der Bezirksvertretung 6 - vertagt
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 24: Antrag der CDU-Fraktion: Errichtung einer Barrierefreien/Unisex Toilette auf dem Dachsbergweg - zurückgestellt
+- TOP 25: Antrag der CDU-Fraktion: Erschließung des Weges vom Parkplatz Waldstraße zur Haltestelle Oberrath und Aufnahme in den Wegeplan der Stadt Düsseldorf - abweichend beschlossen
+- TOP 26: Antrag der CDU-Fraktion: Einrichtung einer Haltezone zum Be- und Entladen vor dem Gebäude Westfalenstraße 99 - mehrheitlich beschlossen
+- TOP 27: Antrag der CDU-Fraktion: Umwandlung des Park & Ride Parkplatzes am nördlichen Ende der Westfalenstraße in einen Anwohnerparkplatz - abweichend beschlossen
+- TOP 28: Antrag der Fraktion BÜ90/Die Grünen: Münsterstraße - Parken von Lieferverkehr auf Geh- und Radweg verhindern - mehrheitlich abgelehnt
+- TOP 29: Antrag der Fraktion BÜ90/Die Grünen: Mörsenbroicher Weg - Tempo 30 einführen und Radwegbenutzungspflicht aufheben - mehrheitlich abgelehnt
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Westfalenstraße - Einrichten zusätzlicher Abstellplätze für Fahrräder - mehrheitlich abgelehnt
+- TOP -: Verwaltungsvorlagen
+- TOP 31: Zuschussvergabe 2022 Antrag des Rather Familienzentrums - 9. Rather Kulturwoche - einstimmig beschlossen
+- TOP 32: Zuschussvergabe 2022 Antrag des DJK AGON 08 - Sport statt Straße - einstimmig beschlossen
+- TOP 33: Zuschussvergabe 2022 - KGS St. Franziskus Schule "Nein-Tonne" und "Mein Körper..." - einstimmig beschlossen
+- TOP 34: Zuschussvergabe 2022 - Pinocchio e.V. - Deutschkurse für geflüchtete Kinder und deren Mütter - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 35: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 36: Einrichtung einer Tempo-30 Zone auf der Liliencronstraße - Vorlage BV6/079/2021 - zur Kenntnis genommen
+- TOP 37: Verkehrsfluss auf der Theodorstraße - Vorlage BV6/130/2021 - zur Kenntnis genommen
+- TOP 38: Instandsetzung der Laufbahn und der Sprunggrubeder städtischen katholischen offenen Ganztagsgrundschule Rather Kreuzweg - Vorlage BV6/026/2021 - zur Kenntnis genommen
+- TOP 39: Ausweitung Clever Shuttle und weitere Elektromobilitätsangebote - Vorlage BV6/214/2021 - zur Kenntnis genommen
+- TOP 40: Bedeutung der geplanten Unterschutzstellung des Kettelsbachs für das Bauvorhaben Mintarder Weg - Vorlage BV6/011/2022 - zur Kenntnis genommen
+- TOP 41: Vorstellung Verkehrskonzeption südlich An der Piwipp - zur Kenntnis genommen
+- TOP 42: Prüfung der Verbesserung der Bedarfsampelanlage über die Unterrather Straße - Vorlage BV6/206/2021 - zur Kenntnis genommen
