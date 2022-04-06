@@ -1,0 +1,21 @@
+# Ziele und Leitsätze für das Klimaschutzkonzept
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 76/2022 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-04-06
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZeVvwQQDReYAWbEoC-Zmhns
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/15224
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Ziele und Leitsätze für das Klimaschutzkonzept) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQhiVenjyylCEpAVaxguPLCjQQ50jdtb5JDPK1W6tw55/Beschlussvorlage_76-2022_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Ziele und Leitsätze_Option A) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS2IdNOLpa2xhlDt58px2JRLG1g1oDJcnkZhdpSIH-Hk/Ziele_und_Leitsaetze_Option_A.pdf
+- Anlage: Beschlussvorlage (Ziele und Leitsätze_Option B) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQA4v90rIPKh5-P8F4jl0-t_52HDpaqY0wYME0mNMY5J/Ziele_und_Leitsaetze_Option_B.pdf
+- Anlage: Beschlussvorlage (Ziele und Leitsätze_Option C) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZXa3Vczv8aDwhWZR1WakrEK5Ij3F3z65Z3NRBdLsrZN/Ziele_und_Leitsaetze_Option_C.pdf
+- Anlage: Beschlussvorlage (Erläuterungen Ziele und Leitsätze_überarbeitet) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSJR3qwlSa3YwLjV_pogRhnzGlGz3HIYXPZWVkqDRY_F/Erlaeuterungen_Ziele_und_Leitsaetze_ueberarbeitet.pdf
+- Anlage: Beschlussvorlage (Beispiel Maßnahmensteckbrief und Umsetzungskatalog) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa3s_c-04bKdB374kszzGxDZ0H5SK8qbnBCQNIBDQKdq/Beispiel_Massnahmensteckbrief_und_Umsetzungskatalog.pdf
+- Anlage: Beschlussvorlage (TOP 15 - Auszug MUK) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVCcPMtVrhf3nQVx2CMtZDoIOIlfvmAUn-5yFeBlic52/TOP_15_-_Auszug_MUK.pdf
+- Anlage: Beschlussvorlage (Protokoll AK IKSK Sitzung 08-02-22_Ziele) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUKhi7QV2D4O6GITnWrRbtzcCwL_YALJE4zEQMWaAo6F/Protokoll_AK_IKSK_Sitzung_08-02-22_Ziele.pdf
+- Anlage: Beschlussvorlage (Auszug MUK zum TOP 8) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXVboaOxgainhdn5-poY2heUn3rt1UHd14NOFsK2W7wD/Auszug_MUK_zum_TOP_8.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5162 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5108 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-50
