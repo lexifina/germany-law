@@ -1,0 +1,57 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2022-04-06T15:00:00+02:00
+- Ende: 2022-04-06T17:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6084
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6084
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00204634.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00204634.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00204634.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 10. Sitzung des Rates vom 16.02.2022 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Beanstandung des Ratsbeschlusses vom 16.02.2022 zu TOP Ö 2 Ziffer 2 der Beratungsvorlage Nr. 1352/X (Bürgerbegehren „Keine Schulschließungen! - #Mönchengladbach für Schulvielfalt statt Ausdünnung“) - Mit Stimmenmehrheit beschlossen
+- TOP 2.1: Änderungsantrag zur Vorlage 1455/X „Beanstandung des Ratsbeschlusses vom 16.02.2022 zu TOP Ö 2 Ziffer 2 der Beratungsvorlage Nr. 1352/X (Bürgerbegehren „Keine Schulschließungen! - #Mönchengladbach für Schulvielfalt statt Ausdünnung")“ - Ohne Abstimmung
+- TOP 3: Entscheidung über den Verlust eines Ratsmandates und der Nichtteilnahme an der Arbeit des Rates - Einstimmiger Beschluss
+- TOP 4: Einführung der digitalen Gremienarbeit - Einstimmiger Beschluss
+- TOP 5: Bericht über die Annahme von Zuwendungen gem. § 2 der Zuständigkeitsordnung für die Zeit vom 01.01.2021 bis 31.12.2021 - Kenntnisnahme
+- TOP 6: Korrektur zur Berichtsvorlage 1351/X:Aufstellung von Nebentätigkeiten des Oberbürgermeisters a. D. Hans Wilhelm Reiners gemäß § 17 Korruptionsbekämpfungsgesetz - Kenntnisnahme
+- TOP 7: Benennung von sachkundigen Einwohner*innen, hier: Ausschuss für Freizeit, Sport & Bäder - Einstimmiger Beschluss
+- TOP 8: Bereitstellung überplanmäßiger Haushaltsmittel 2021 für die Bildung einer Rückstellung für den Verlustausgleich 2020 der mags - Einstimmiger Beschluss
+- TOP 9: Bericht zu T7 Textilfabrik 7.0 - Kenntnisnahme
+- TOP 10: Bereitstellung überplanmäßiger Haushaltsmittel 2021 für die Erstattung Corona-bedingter Kosten des Impfzentrums an das GMMG - Einstimmiger Beschluss
+- TOP 11: Beteiligung der NEW AG - Einstimmiger Beschluss
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2021 (6.Nachweisung) - Kenntnisnahme
+- TOP 13: Mobilfunkkoordinator/in - Einstimmiger Beschluss
+- TOP 14: Gutachterliche Begleitung der Fortschreibung des Brandschutzbedarfsplans - Einstimmiger Beschluss
+- TOP 15: Übertragung der Entscheidung über das Vorliegen eines wichtigen Grundes bei der Ablehnung einer ehrenamtlichen Tätigkeit in einem Wahlvorstand - Einstimmiger Beschluss
+- TOP 16: Öffentlich-rechtliche Vereinbarung Rettungshubschrauber "Christoph 9" - Einstimmiger Beschluss
+- TOP 17: Ordnungsbehördliche Verordnungen über das Offenhalten von Verkaufsstellen an Sonn-oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach für das Jahr 2022 - Mit Stimmenmehrheit beschlossen
+- TOP 18: Bewerbung als Spielort der FIFA Frauen-Weltmeisterschaft 2027 - Mit Stimmenmehrheit beschlossen
+- TOP 18.1: Änderungsantrag Vorlage 1408/X "Bewerbung als Spielort der FIFA Frauen-Weltmeisterschaft 2027" - Ohne Abstimmung
+- TOP 19: Rahmenplan "Offener Ganztag und schulische Betreuung" im Primarbereich - Einstimmiger Beschluss
+- TOP 20: Rahmenplan „Offener Ganztag und schulische Betreuung“ im Primarbereich –1346/X - Mit Stimmenmehrheit beschlossen
+- TOP 21: Verlängerung der Leistungsvereinbarung über das Angebot Mahlzeitendienst - Einstimmiger Beschluss
+- TOP 22: Jahresabschluss 2021 der eigenbetriebsähnlichen Einrichtung Rathaus der Zukunft mg+ - Einstimmiger Beschluss
+- TOP 23: Räumliche Schaffung von Betreuungsplätzen für den Offenen Ganztag (OGATA) durch Bestandsaufstockung und Bestandserweiterung an den Grundschulstandorten Konradstraße (KGS Ohler) und Höhenstraße (KGS Bell) - Einstimmiger Beschluss
+- TOP 24: 239. Änderung des FNP ("Südlich Broicher Straße") - abschließende Beschlussfassung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 25: Bebauungsplan Nr. 799/W ("Südlich Broicher Straße") - Satzungsbeschluss - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 26: Satzung über eine Veränderungssperre in Mönchengladbach (Gebiet nördlich der Bahntrasse, zwischen der B 57 und der Broicher Straße) - Einstimmiger Beschluss
+- TOP 27: Antrag zu 1116/X „Dritter Bericht zum Rats-TV- Attraktivierung Rats-TV“ - Mit Stimmenmehrheit abgelehnt
+- TOP 27.1: Änderungsantrag zu: Fraktionsantrag Nr. 1256/X „Antrag zu 1116/X „Dritter Bericht zum Rats-TV- Attraktivierung Rats-TV“ hier: Antrag der Ratsfraktion DIE LINKE vom 13.12.2021“ - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 27.2: Prüfauftrag zu TOP 27 - Vorlagen 1256X und 1389/X „Attraktivierung des Rats-TV“ - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 28: Öffnung von Schulhöfen für Vereinsangebote und „Urban Sports“ - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 29: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 22.03.2022 - Einstimmiger Beschluss
+- TOP 30: Umbesetzung von Gremien; hier: Antrag der FDP-Ratsfraktion vom 23.03.2022 - Einstimmiger Beschluss
+- TOP 31: Umbesetzung von Gremien; hier: Antrag der FDP-Ratsfraktion vom 23.03.2022 - Einstimmiger Beschluss
+- TOP 32: Umbesetzung von Gremien; hier: Antrag der FDP-Ratsfraktion vom 24.03.2022 - Einstimmiger Beschluss
+- TOP 33: Umbesetzung von Gremien; hier: Antrag der CDU-Ratsfraktion vom 24.03.2022 - Einstimmiger Beschluss
+- TOP 34: „Schaffung eines ausreichenden Personalkörpers für den Kommunalen Ordnungs- und Servicedienst (KOS)“ - Mit Stimmenmehrheit beschlossen
+- TOP 34.1: Änderungsantrag zur Vorlage 1458/X „Schaffung eines ausreichenden Personalkörpers für den Kommunalen Ordnungs- und Servicedienst (KOS)“ - Ohne Abstimmung
+- TOP 35: Anfragen und Mitteilungen
