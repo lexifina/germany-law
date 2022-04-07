@@ -1,0 +1,55 @@
+# Stadtverordnetenversammlung der Stadt Homberg (Ohm) (17. Sitzung)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Beginn: 2022-04-07T19:30:00+02:00
+- Ende: 2022-04-07T23:33:00+02:00
+- Ort: Walter-Seitz-Halle Homberg (Ohm), Stadthallenweg 12, 35315 Homberg (Ohm), Stadthallenweg 12
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/tops/?__=UGhVM0hpd2NXNFdFcExjZUmddyZZpJSpl6rLwo6a0ts
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/975
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ8hjaVLznbp54zZSg7f9VlmJ1WxO5Dmabbnhn8LjHAn/Bekanntmachung_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_07.04.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXICwpFCFbavtY8YkLVBuP1rTLacq1Mh8YSG_ilPA5fq/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_07.04.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Eröffnung und Begrüßung
+- TOP 2.: Feststellung der Ordnungsmäßigkeit der Ladung und der Beschlussfähigkeit, Einwendungen gegen die Tagesordnung
+- TOP 3.: Bericht aus der Arbeit des Magistrats
+- TOP 4.: Anfragen
+- TOP 5.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 17.03.2022
+- TOP 6.: Vermietung des Wohnhauses Ehringshäuser Straße 17 in Erbenhausen - (kein Text vorhanden)
+- TOP 7.: Vermietung einer Wohnung im Gebäude An der Stadtkirche 19, 2. OG links - (kein Text vorhanden)
+- TOP 8.: Bauleitplanung der Stadt Homberg (Ohm), Kernstadt Bebauungsplan „Errichtung eines Kreisverkehrsplatzes zur Anbindung des zukünftigen Gewerbegebietes an die L3343“ Offenlegungsbeschluss gemäß § 3 Abs. 2 BauGB - (kein Text vorhanden)
+- TOP 9.: Antrag der Fraktion Bürgerforum auf öffentliche Darstellung der Informationen des Rechtsanwalts Matthias Möller-Meinecke im Zuge des Baus der A 49 - (kein Text vorhanden)
+- TOP 10.: Antrag Fraktion BÜRGERFORUM betreffend Vorlage des Vertrages zur Überwachung der Feldwege zwischen der Stadt Homberg (Ohm) und Exact Security - (kein Text vorhanden)
+- TOP 11.: A49 - Schreiben der Bau-Arge A49 vom 04.02.2022 zum Sichtschutz Appenrod und zur Sanierung des Meiserholzwegs - (kein Text vorhanden)
+- TOP 12.: Antrag der Fraktion BÜRGERFORUM – Dringlichkeitsantrag betreffend Umsetzung der Beschlüsse zur A 49 vom 17.01.2022
+- TOP 13.: Antrag der Fraktionen CDU, SPD und FREIE WÄHLER auf Realisierung von Sichtschutz an der A49
+- TOP 14.: Antrag der Fraktion BÜRGERFORUM betreffend Rechtsstreit juwi AG ./. Stadt Homberg (Ohm) - (kein Text vorhanden)
+- TOP 15.: Widerspruch der Stadtverordneten Jutta Stumpf gegen die Wahl des Stadtverordnetenvorstehers in der Sitzung der Stadtverordnetenversammlung am 29.04.2021 - (kein Text vorhanden)
+- TOP 16.: Widerspruch des Stadtverordneten Eckhard Hisserich gegen die Wahl des Stadtverordnetenvorstehers in der Sitzung der Stadtverordnetenversammlung am 29.04.2021 - (kein Text vorhanden)
+- TOP 17.: Erlass der Haushaltssatzung der Stadt Homberg (Ohm) für das Haushaltsjahr 2022 - (kein Text vorhanden)
+- TOP 18.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Maulbach Bebauungsplan „In den Gernwiesen“ Entwurfs- und Offenlegungsbeschluss gemäß § 3 Abs. 2 BauGB
+- TOP 19.: Windenergie Erbenhausen – Erste Ergänzung zum Nutzungsvertrag Repowering Windpark Erbenhausen
+- TOP 20.: Vertrag zur finanziellen Beteiligung von Kommunen an Windenergieanlagen mit der HessenEnergie Gesellschaft für rationelle Energienutzung mbH für den Windpark Erbenhausen (Repowering)
+- TOP 21.: Fortschreibung Regionalplan Mittelhessen RPM 2021 - Entwurf zur Beteiligung 2022 - (kein Text vorhanden)
+- TOP 22.: Antrag der CDU-Fraktion auf Ergänzung der Vereinsförderrichtlinien der Stadt Homberg (Ohm) vom 22.11.2017
+- TOP 23.: Antrag Fraktion BÜRGERFORUM betreffend Durchführung eines Bürgerentscheides (Vertreterbegehren) hinsichtlich einer Reaktivierung der Ohmtalbahn
+- TOP 24.: Antrag der Fraktion BÜRGERFORUM – Dringlichkeitsantrag betreffend Anschlussstellen an der A 5 und A 49 mit der Aufschrift „Homberg (Ohm)“ bzw. „Homberg (Ohm)-Nord“
+- TOP 25.: Bericht über die Prüfung des Jahresabschlusses der Stadt Homberg (Ohm) zum 31.12.2019
+- TOP 26.: Vertrag zur finanziellen Beteiligung von Kommunen an Windenergieanlagen mit der MVV Windenergie GmbH für den Windpark Rabenau (Repowering)
+- TOP 27.: Antrag der GRÜNEN-Fraktion auf Erstellung eines Entwicklungskonzeptes für die Innenstadt
+- TOP 28.: Wahl weiterer Stellvertreterinnen und Stellvertreter für den/die Schriftführer/innen der Stadtverordnetenversammlung
+- TOP 29.: Wahl der Schiedsperson für den Schiedsamtsbezirk Homberg (Ohm)
+- TOP 30.: Weitere Beauftragung des Rechtsanwalts Matthias Möller zur Vertretung der rechtlichen Interessen der Stadt Homberg (Ohm) gegenüber der juwi AG
+- TOP 31.: Änderung der Geschäftsordnung für die Stadtverordnetenversammlung und die Ausschüsse der Stadt Homberg (Ohm)
+- TOP 32.: Verkauf Grundstücke Friedrichstraße an PaWo GmbH und Abschluss eines Durchführungs- und Erschließungsvertrags zum Vorhabenbezogenen Bebauungsplan „Friedrichstraße“
+- TOP 33.: Vorstudie zur Reaktivierung der Ohmtalbahn
+- TOP 34.: Richtlinien für die Vergabe von städtischen Baugrundstücken
+- TOP 35.: Antrag der Fraktion Bürgerforum betreffend Errichtung von Windkraftanlagen in den Gemarkungen Bleidenrod und Homberg (Ohm)
+- TOP 36.: Antrag der Grünen-Fraktion auf Erstellung von Starkregengefahrenkarten für die Großgemeinde Homberg (Ohm)
+- TOP 37.: Antrag der Fraktion Bürgerforum zur Erstellung einer Fließpfadkarte und einer Starkregen-Gefahrenkarte
+- TOP 38.: Antrag der GRÜNEN-Fraktion auf Berichterstattung durch die Berichterstatterin aus dem Akteneinsichtsausschuss
