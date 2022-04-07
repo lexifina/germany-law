@@ -1,0 +1,76 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-04-07T17:00:00+02:00
+- Ende: 2022-04-07T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25640
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25640
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00871938.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00871938.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00871938.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Nicht oder nur eingeschränkt zur Verfügung stehende Sporthallen und Zeitplan zur Behebeung der Missstände - zur Anfrage AN/0133/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion - Kenntnis genommen
+- TOP 7.1.2: Förderung des ÖPNV im Kölner Norden - Kenntnis genommen
+- TOP 7.1.3: KVB-Fahrgastunterstand EKZ Heimersdorf, Sicherung des Fahrgastunterstands an der Bushaltestelle Heimersdorf - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Freilaufende Rechtsabbieger im Stadtbezirk (FDP)
+- TOP 7.2.2: Entlastung bei Straßenbaubeiträgen (FDP)
+- TOP 7.2.2.1: Entlastung bei Straßenausbaubeiträgen - Maßnahmen im Stadtbezirk Chorweiler
+- TOP 7.2.3: Sachstandanfrage zum Zebrastreifen Grundschule an den Kaulen AN/2191/2021 (SPD)
+- TOP 7.2.4: Treppe am Merkenicher Damm Richtung Rheinauen und angrenzende Wegeführung in den Merkenicher Rheinauen unterhalb des Deiches (SPD)
+- TOP 7.2.5: Einrichtung eines Grillplatzes bzw. einer Grillhütte in Köln-Langel (SPD)
+- TOP 7.2.6: Kreuzung Donatusstraße/Im Gewerbegebiet Pesch (CDU)
+- TOP 7.2.7: Veranstaltungsprogramm 2022 Fühlinger See (DIE LINKE und Lilo Heinrich)
+- TOP 7.2.8: Sachstand Prüfung weiterer Fahrradverleihstationen (FDP)
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Erstellung eines SEVESO 3 Gutachten für den Kölner Norden (SPD) - ungeändert beschlossen
+- TOP 8.2.2: Beflaggungsantrag des Bezirksrathauses Chorweiler mit der Regenbogenfahne zum CSD (SPD) - Alternative beschlossen
+- TOP 8.2.2.1: TOP 8.2.2 Beflaggungsantrag des Bezirksrathaus Chorweiler mit der Regenbogenfahne zum CSD (CDU) - ungeändert beschlossen
+- TOP 8.2.3: Prüfantrag für die Errichtung eines Zebrastreifens an der Martinusstraße/Ecke Amselweg (SPD) - ungeändert beschlossen
+- TOP 8.2.4: Neubau einer Kita in Merkenich (CDU) - ungeändert beschlossen
+- TOP 8.2.5: Wiedereinführung des KVB-Leihradsystems im Bezirk (FDP) - ungeändert beschlossen
+- TOP 8.2.6: Seitenlinienradargeräte auf der Bruchstr. (BÜNDNIS 90 / Die Grünen) - zurückgestellt
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Integriertes Handlungskonzept Lindweiler - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 281. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Satzung über die abweichende Herstellung von Erschließungsanlagen im Bereich "Krebelspfad" in Köln-Worringen - ungeändert beschlossen
+- TOP 9.2.3: Erneuerung Flachdachabdichtung Stadtbahnhaltestelle Chorweiler - ungeändert beschlossen
+- TOP 9.2.4: 6. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 9.2.5: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.2: Zwischenbilanz Schulentwicklungsplanung 2022 - Rückblick auf die Schulentwicklungsplanung 2020 und Ausblick auf die vorgesehene Fortschreibung 2023 - Kenntnis genommen
+- TOP 10.2.3: Verwendung der Stellplatzablösemittel - Kenntnis genommen
+- TOP 10.2.4: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); Bebauungsplan-Entwurf Nummer 61520/02;Arbeitstitel: Donatusstraße in Köln-Pesch - Kenntnis genommen
+- TOP 10.2.5: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 10.2.6: Sachstandsbericht Starke Veedel - Starkes Köln - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Neue mündliche Anfragen
+- TOP -: Problematik des Zugriffs auf Mandatos (AfD)
+- TOP -: Sanierung der naturwissenschaftlichen Räume am Heinrich-Mann Gymnasium (SPD)
+- TOP -: Einschränkungen der Sporthallen im Stadtbezirk Chorweiler (SPD)
+- TOP 11.3: Anfragen der Seniorenvertretung
