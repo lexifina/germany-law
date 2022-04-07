@@ -1,0 +1,100 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-04-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6858956
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6858956
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A): Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A).1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Gelände der Baumschule / U-Bahnbaustelle Verlängerung U5
+- TOP 2: Anträge
+- TOP 2.1.: Fraktion Die Grünen: Informationsstelen für Laim
+- TOP 2.2.: Fraktion Die Grünen: Tramgleise in Laim begrünen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl und Luftschloss und Pappburg am 12.04. und 12.07.2022 8.106,00 Euro, Az.: 0262.0-25-0268
+- TOP 3.2.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl und Luftschloss und Pappburg 2023 8.106,00 Euro, Az.: 0262.0-25-0269
+- TOP 3.3.: (E) Stadtbezirksbudget Soli-Togo-Allemagne e.V. Spezial Förderung von begabten Sporttalenten vom 01.04. - 31.12.2022 9.255,00 Euro, Az.: 0262.0-25-0267
+- TOP 3.4.: (E) Stadtbezirksbudget Laimer Strolche e.V. Aufenthalt auf einem Bio-Bauernhof vom 09. - 12.05.2022 2.250,00 Euro, Az.: 0262.0-25-0270
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 28.02.22: Flohmärkte Die Bärchen e.V. am Weißenfelderplatz am 15.05. und 04.09.22
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 03.03.22 und 15.03.22: Spielfeste des Familienzentrum Laim auf dem Hogenbergplatz, 06.04.- 20.05.22 Frist 25.03.22
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 15.03.22: Anhörung Genehmigungsantrag Tanz. Die Invasion, Spielen in der Stadt e.V. Frist 04.04.22
+- TOP 4.5.: Schreiben Mobilitätsreferat vom 24.02.22: Anfrage wegen Austausch einer Lichtsignalanlage - Standort Landsberger Str. 181/Gewerbegebiet
+- TOP 4.6.: Schreiben Mobilitätsreferat vom 02.03.22: Dialog-Display in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 4.7.: Schreiben Referat für Bildung und Sport vom 18.03.22: Schulbauoffensive 2013-2030, Sachstandsbericht zu den Schul- und Kita-Bauprogrammen, Umsetzung der Haushaltssicherung
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 25.03.22: Beschlussvorlage für den Kreisverwaltungsausschuss am 26.04.22: Novelierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 4.9.: Schreiben Sozialreferat vom 23.03.22: "Ratschbankerl" in München - Stadtratsantrag
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Eringerstr. 25, Gemarkung Großhadern, Fl.Nr. 327/106 An- und Umbau einer Doppelhaushälfte, Abbruch best. Garage, Einbau Plattformlift, Anbau Keller, Einbau Dachgaube im OG, Einbau Dachflächenfenster im Sptzboden Vollzug der BaumschutzVO Frist 30.03.22
+- TOP 5.2.: Kiem-Pauli-Weg 1-69, Gemarkung: Laim, Fl.Nr.: 396/0 "Alte Heimat" - Neubauabschnitt 1 (NB1) - 1 Gebäude mit Kindertageseinrichtung (Haus für Kinder), Geschosswohnungsbau und eingeschossige Tiefgarage - TEKTUR
+- TOP 5.3.: Beycherstr. 11, Gemarkung Laim, Fl.Nr. 174/68 Neubau eines Einfamilienhauses mit Garage und Carport Vollzug der BaumschutzVO
+- TOP 5.4.: Landsberger Str. 270-272, Gemarkung: Laim, Fl.Nr.: 284/93 "Studio M2" Nutzungsänderung: ehem. studentische Nutzung in Verkauf (Bäckerei) mit Cafebetrieb
+- TOP 5.5.: Reutterstr. 38, Gemarkung: Pasing, Fl.Nr.: 1418/9 Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 5.6.: Schreiben Baureferat vom 15.03.22: Erinnerugsverfahren Stadtlohnerstr. 2-16 Fahrbahnsanierung
+- TOP 5.7.: Schreiben Baureferat vom 15.03.22: Erinnerungsverfahren Lanzstr. 1-13 / Lamier Platz 2-6 Fahrbahnsanierung
+- TOP 5.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.03.22: 2. Stammstrecke PFA 1-17, Planänderung - Verschiebung von Weichenverbindungen im Bereich Laimer Unterführung
+- TOP 6: Sonstiges
+- TOP 6.1.: Umbenennung des UA Umwelt und Baumschutz in UA Umwelt, Klima und Baumschutz
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll Sondersitzung vom 17.02.22
+- TOP 7.2.: Protokoll BA-Sitzung vom 10.03.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 16.02.22: Aktuelle Personalsituation in den BA-Geschäftsstellen
+- TOP 8.2.: Schreiben Direktorium vom 16.02.22: Regelmäßige Sprechstunden städtischer Dienststellen im Bürgerzentrum Rathaus Pasing
+- TOP 8.3.: Schreiben Gesundheitsreferat vom 04.02.22: Die Impf-Guides kommen in Ihren Stadtbezirk
+- TOP 8.4.: Schreiben Sozialreferat vom 21.02.22: Seniorenvertretungswahl 2022
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 21.02.22: Arbeiten im Straßenraum, Gotthardstraße zwischen Von-der-Pfordten-Str. und Willibaldstraße, Baufeldfreimachung und Spartengrabung für Verlängerung der U5
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 07.02.22: Installation eines Gelbblinkers an der Westendstraße
+- TOP 8.7.: Schreiben Mobilitätsreferat vom 25.02.22: Fußgängerampel an der Kreuzung Laimer Bahnhof
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 21.03.22: Verkehrsrechtliche Anordnung Querungen Spartenumverlegung Gotthardstr. - U5
+- TOP 8.9.: Schreiben Mobilitätsreferat vom 28.02.22: Dokumentation der digitalen Beteiligungsveranstaltung zur Mobilitätsstrategie 2035
+- TOP 8.10.: Schreiben Deutsche Bahn vom 23.02.22: Gesprächsforum 2. Stammstrecke - Oberirdisch West
+- TOP 8.11.: Schreiben Deutsche Bahn vom 18.03.22: Protokoll Dialogforum OI West vom 23.02.22
+- TOP 8.12.: Bautenliste 14.02.-20.02.22: A) Erstantragsverfahren 1. Landsberger Str. 317 2. Eringerstr. 36
+- TOP 8.13.: Bautenliste 07.02.-13.02.22: A) Erstantragsverfahren 1. Landsberger Str. 270 2. Reutterstr. 38 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Mathunistr. 11/RGB 2. Reutterstr. 38
+- TOP 8.14.: Bautenliste 21.02.-27.02.22: 1. Erstantragsverfahren 1. Perhamerstr. 2 2. Geyerspergerstr. 36 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Camerloherstr. 110
+- TOP 8.15.: Bautenliste 28.02.-06.03.22: A) Änderungsverfahren zu genehmigten Bauvorhaben 1. Elsenheimerstr. 31
+- TOP 8.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.02.22: Fällungsgenehmigung Flatinstr. 13
+- TOP 8.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.03.22: Neuburgerstr. 8, Fl.Nr. 4/14, Gemarkung Laim Neubau eines Zweifamilienhauses, Erweiterung und Umbau eines Einfamilienhauses in ein Mehrfamilienhaus (4WE), Neubau einer Tiefgarage - Tektur
+- TOP 8.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.03.22: Information zum aktuellen Verfahrensstand Lukas-Schule
+- TOP 8.20.: Schreiben Vorstand SV Laim vom 14.03.22: Lukas-Schule und SV Laim, Projekt Gotthardstraße - erneute eingeschränkte Beteiligung der Behörden gem. § 4 Abs. 3 BauGB
+- TOP 8.21.: Scheiben SWM vom 17.02.22: Weichenerneuerung Implerstraße
+- TOP 8.22.: Schreiben SWM vom 28.02.22: MSP Projekt Landsberger Straße
+- TOP 8.23.: Schreiben SWM vom 02.03.22: SWM Projekt Glasfaser-Erschließung für München; Ausbau 2022
+- TOP 8.24.: Schreiben Referat für Bildung und Sport vom 17.02.22: Dienststellenverständigung Krippe Fürstenrieder Str. 6a
+- TOP 8.25.: Schreiben Referat für Bildung und Sport vom 04.03.22: Eis- und Funsportzentrum West für öffentlichen Publikumslauf zugänglich machen
+- TOP 8.26.: Schreiben AWM vom 03.03.22: Wertstoffcontainer Gotthardstraße/Ecke Willibaldstraße
+- TOP 8.27.: Schreiben Baureferat vom 25.10.21: Baumentfernungen/Gehölzpflegemaßnahmen Hans-Thonauer-Straße
+- TOP 8.28.: Schreiben Kreisverwaltungsreferat vom 03.03.22: Frühlingsflohmarkt Drachenburg e.V. am Laimer Platz am 26.03.22 (Ersatz 02.04.22) Hier: Eilentscheidung
+- TOP 8.29.: Schreiben Kreisverwaltungsreferat vom 08.03.22: Antrag auf unveränderte Fortführung der Vereinswirtschaft "Alati und Piperi"
+- TOP 8.30.: Schreiben BA 8 Schwanthaler Höhe vom 17.03.22: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 8.31.: Schreiben Spielen in der Stadt e.V. vom 15.03.22: Namensänderung ab 01.04.22 in CultureClouds e.V.
+- TOP 8.32.: Schreiben Spielen in der Stadt e.V. vom 15.03.22: Planung der POP UPS - mobile Kunst-Spiel-Aktionen in 2022 und 2023
+- TOP 8.33.: Beschluss des Mobilitätsausschusses vom 16.03.22: (U) Durchführung einer vergleichenden Personenbefragung zur Erfassung von Akzeptanz gegenüber automatisierten und vernetzten Fahrzeugen im Rahmen des Förderprojekts TEMPUS Erlass einer Personenbefragungssatzung der Landeshauptstadt München
+- TOP 8.34.: Beschluss des Mobilitätsausschusses vom 16.03.22: (U) Saisonale Stadträume – II Produkt 43122300 Straßenverkehrume - II Beschluss über die Finanzierung für das Jahr 2022 und 2023 aus der Nahmobilitätspauschale 1. Anlass 2. Sommerstraßen 3. Temporäre Spielstraßen 4. Bürgerschaftliche Initiativen und Interventionen im Straßenraum 5. Parklets 6. Notwendige Sachmittel 7. Behandlung der Anträge a) Sommerstraßen – Konzept verbessern Antrag Nr. 20-26 / A 01947 der Ausschussgemeinschaft ÖDP München Liste vom 28.09.2021 b) Spielen in der Stadt Antrag Nr. 20-26 / A 01994 der Fraktion Die Grünen / Rosa Liste vom 08.10.2021
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.02.22: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.12.21: (U) Perspektive München als Steuerungsinstrument einer nachhaltigen Stadtentwicklung – Bericht zur Fortschreibung der Stadtentwicklungskonzeption Stadtentwicklung weiterdenken I – Masterplan für Stadtbezirke – Stadtviertel geordnet planen Antrag Nr. 14-20 / A 05917 von Herrn Stadtrat Johann Sauerer, Frau Stadträtin Dorothea Wiepcke, Frau Stadträtin Anja Burkhardt und Herrn Stadtrat Frieder Vogelsgesang vom 17.09.2019 Stadtentwicklung weiterdenken II Bürgerinnen und Bürger mitnehmen mit Perspektiven-Werkstätten Antrag Nr. 14-20 / A 05918 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Heike Kainz vom 17.09.2019 Stadtentwicklung weiterdenken III – Infrastrukturdefizite untersuchen und beheben Antrag Nr. 14-20 / A 05919 von Frau Stadträtin Dorothea Wiepcke und Herrn Stadtrat Walter Zöller vom 17.09.2019 Allach-Untermenzing stärken I – Masterplan für den 23. Stadtbezirk erstellen Antrag Nr. 14-20 / A 06557 der ÖDP vom 20.01.2020 Chancen und Risiken frühzeitig in den Blick nehmen und umfassend handeln! Zukunftsmonitoring im Rahmen der Perspektive München Antrag Nr. 14-20 / A 06800 der SPD-Fraktion vom 17.02.2020
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.02.22: (U) Schutzgebiete in der Landeshauptstadt München - Perspektiven -
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.03.22: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 8.39.: Beschluss der Vollversammlung vom 02.02.22: (U) Die Münchner Alten- und Service-Zentren (ASZ) - Aktueller Stand und weitere Planungen Alten- und Service-Zentrum Berg am Laim sanieren! Antrag Nr. 14-20 / A 02100.. Einrichtung eines ASZ plus im Neubaugebiet Freiham sowie in Lochhausen Antrag Nr. 14-20 / A 04607... Weiteres Alten- und Servicezentrum in Hadern ermöglichen Antrag Nr. 14-20 / A 06521... Zweites ASZ in Laim Antrag Nr. 14-20 / A 05201... Zweites ASZ in Laim Antrag Nr. 14-20 / B 06191...
+- TOP 8.40.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.41.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.42.: Beschluss der Vollversammlung des Stadtrates vom 23.02.22: (U) Flexi-Heime für wohnungslose Haushalte Sachstandsbericht und Fortschreibung des Programms und der Förderrichtlinien
+- TOP 8.43.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.03.22: (U) Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 25 - Laim a) Ergebnis der Überprüfung der Erhaltungssatzung "Pfarrer-Endres-Weg / Landsberger Straße" b) Satzungsbeschluss der veränderten Erhaltungssatzung "Agnes-Bernauer-Straße" der Landeshauptstadt München zur Erhaltung der Zusammensetzng der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung "Agnes-Bernauer-Straße") Stadtbezirk 25 - Laim
+- TOP 8.44.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.03.22: (U) Vereinbarkeit von § 10 Abs. 3 und 4 der Satzung des Vereins zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V. mit dem Gebot der Haftungsbegrenzung gem. Art. 92 Abs. 1 Satz 1 Nr. 3 GO – Prüfauftrag des Bayer. Kommunalen Prüfungsverbandes aus dem Jahr 2013 / 2021
+- TOP 8.45.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 09.03.22: (U) Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2021/2022
+- TOP 8.46.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 8.47.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 30.03.2022: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 1.2: Bürgerpost an den BA
+- TOP 8.16.: Bautenliste 07.03.22-13.03.22: A) Änderungsverfahren zu genehmigten Bauvorhaben 1. Hartelstr. 1 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Eringerstr. 34 2. Lautensackstr. 4 3. Agnes-Bernauer-Str. 2
