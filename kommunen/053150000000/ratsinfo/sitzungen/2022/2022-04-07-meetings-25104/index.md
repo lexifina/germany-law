@@ -1,0 +1,75 @@
+# 10. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-04-07T15:00:00+02:00
+- Ende: 2022-04-07T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25104
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25104
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer Anfrage zu Sozialen Erhaltungssatzungen: Transparenz bei der Priorisierung - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen aus früheren Sitzungen
+- TOP 2.1.1: Anfrage der SPD-Fraktion. - Sache ist erledigt
+- TOP -: Sachstand Planungsfortschritt Wasserstoff-Pipeline AN/0266/2022 - Kenntnis genommen
+- TOP 2.1.2: Nutzung des freien Grundstücks am Ottoplatz - zurückgestellt
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Droht ein neues Wohnungsbau-Desaster? Stadt muss Planungsziele im Mülheimer Süden sichern.
+- TOP 3: Anträge
+- TOP 3.1: Parkstadt Süd. Pionierpfad - zurückgestellt
+- TOP 3.2: Kölner Modell der Wettbewerbsverfahren beibehalten - geändert beschlossen
+- TOP 3.3: Zukunft Breite Straße 103-105 (Karstadt-Gebäude) - endgültig zurückgezogen
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Anpassung der Umsetzungsanweisung zum Kooperativen Baulandmodell in der Fassung der Bekanntmachung vom 10.05.2017 - ungeändert beschlossen
+- TOP 6.2: Fußgängerpassage zwischen Schildergassse und Brüderstraße - zurückgestellt
+- TOP 6.3: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert beschlossen
+- TOP 6.4: Bedarfsfeststellungsbeschluss Ebertplatz – Weiterführung der Zwischennutzung - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: “Brück-Rather Steinweg“ in Köln-Rath/Heumar - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu TOP 10.1 - Hier: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: „Brück-Rather Steinweg“ in Köln-Rath/Heumar (3646/2020/1) - Sache ist erledigt
+- TOP -: Änderungsantrag zum Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: "Brück-Rather Steinweg" in Köln-Rath/Heumar - Sache ist erledigt
+- TOP 10.2: Beschluss über die Durchführung eines zweiphasigen städtebaulichen Wettbewerbverfahrens für den Bereich Colonius Nord an der Subbelrather Straße 13 und Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Aufstellung eines Bebauungsplanes;Arbeitstitel: „Ostmerheimer Straße – Schule“ in Köln-Merheim - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) - geändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Satzungsbeschluss betreffend den Bebauungsplan Nummer 63474/02; Arbeitstitel: Subbelrather Straße 486-494 in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 62460/02 Arbeitstitel: Vitalisstraße/ Girlitzweg, 1. Änderung Gesamtschule Wasseramselweg in Köln-Vogelsang - ungeändert beschlossen
+- TOP 12.3: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 67410/11; Arbeitstitel: Mertener Straße in Köln-Marienburg - ungeändert beschlossen
+- TOP 12.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 664382/02 Arbeitstitel: Bauliche Erweiterung Blaue Funken/ Sachsenturm (Blaue-Funken-Weg 2) in Köln-Altstadt/Süd - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Umsetzung Stadtentwicklungskonzept Wohnen - ungeändert beschlossen
+- TOP 15.2: 6. Satzung zur Änderung der Sondernutzungssatzung - ohne Votum in nachfolgende Gremien
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf Nr. 67453/23, Arbeitstitel: Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord - Kenntnis genommen
+- TOP 17.2: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); Bebauungsplan-Entwurf Nummer 61520/02;Arbeitstitel: Donatusstraße in Köln-Pesch - Kenntnis genommen
+- TOP 17.3: 241. Änderung des Flächennutzungsplanes in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld, Arbeitstitel: "Alsdorfer Straße" in Köln-Ehrenfeld/-Braunsfeld Hier: Mitteilung über die Offenlage - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Planfeststellungsbeschluss für die Erneuerung der Eisenbahnüberführung über die Deutz-Mülheimer Straße, Bauwerk "A" - Kenntnis genommen
+- TOP 18.2: Änderungen der Wohnraumförderung 2022 - Kenntnis genommen
+- TOP 18.3: Weiteres Vorgehen zur Entwicklung eines Mottos für die Stadt Köln - Kenntnis genommen
+- TOP 18.4: Gewerbeflächenbereitstellungskonzept (GFBK) - Kenntnis genommen
+- TOP 18.5: Beantwortung einer Anfrage nach § 4 (Die Linke.) betreffend" Öffentliches WLAN in Köln" AN/2428/2021 - Kenntnis genommen
+- TOP 18.6: Grüngürtel - Parkstadt Süd, Öffentlichkeitsarbeit im Rahmen der Vorplanung - Kenntnis genommen
+- TOP 18.7: Der ursprünglich hierfür vorgesehene Tagesordnungspunkt wird unter 17.3 behandelt - Kenntnis genommen
+- TOP 18.8: Tätigkeitsbericht des KölnAgenda e.V. - Kenntnis genommen
+- TOP 18.9: Sachstand Gesamtentwicklung und Ständige Jury Mülheimer Süden - Kenntnis genommen
+- TOP 18.10: Bevölkerungsentwicklung 2021 - Kenntnis genommen
+- TOP 18.11: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 18.12: Logistikforum Februar 2022 - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
