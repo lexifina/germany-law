@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Trauerweide Mühlenstraße 6-8"
+
+- Sitzung: Sitzung der Bezirksvertretung Porz (2022-04-07)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/347477
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/162383
