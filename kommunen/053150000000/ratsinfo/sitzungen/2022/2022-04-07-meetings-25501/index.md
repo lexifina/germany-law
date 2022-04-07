@@ -1,0 +1,89 @@
+# 12. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-04-07T16:00:00+02:00
+- Ende: 2022-04-07T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25501
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25501
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Vorstellung Schulleitung städt. Gymnasium Thusneldastraße
+- TOP -: Vorstellung stellvertretende Schulleitung am Hans-Böckler-Berufskolleg
+- TOP -: Vorstellung Schulleitung Förderschule für emotionale und soziale Entwicklung
+- TOP -: Vorstellung Schulleitung am Köln-Kolleg - Weiterbildungskolleg
+- TOP -: Vorstellung Schulleitung am städtischen Hansa-Gymnasium
+- TOP -: Vorstellung stellvertretende Schulleitung an der Katholische Offene Ganztagsgrundschule Trierer Straße
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Benennung einer Grünfläche nach Max Dietlein - geändert beschlossen
+- TOP 3.1.1: Benennung der Grünfläche rund um St.Pantaleon nach Dr.Max Dietlein, Änderungsantrag zu Vorlage 0482/2022 - ungeändert beschlossen
+- TOP 3.2: Teilauslagerung (Interim) zur Brandschutzsanierung der Gemeinschaftsgrundschule Zwirner Straße 15-17, 50678 Köln - Beschluss zur vorübergehenden Errichtung eines Modulbaus im Trude-Herr-Park - geändert beschlossen
+- TOP 3.3: Vergabe Stadtklima und Stadtverschönerungsmittel 2022 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 3.4: Planfeststellungsverfahren für die Erneuerung von Eisenbahn-Überführungen über die Deutz-Mülheimer Straße - Bauwerk D - ungeändert beschlossen
+- TOP 3.5: Planfeststellungsverfahren für die Erneuerung von Eisenbahn-Überführungen über die Deutz-Mülheimer Straße - Bauwerk E - ungeändert beschlossen
+- TOP 3.6: Spielplatz Klingelpützanlage Umgestaltung - ungeändert beschlossen
+- TOP 3.7: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert beschlossen
+- TOP 3.8: 6. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 3.8.1: Änderungsantrag zur Verwaltungsvorlage 0680/2022 - 6. Änderungssatzung zur Sondernutzungssatzung, Änderungsantrag Grüne - endgültig zurückgezogen
+- TOP 3.9: Bedarfsfeststellungsbeschluss Ebertplatz – Weiterführung der Zwischennutzung - geändert beschlossen
+- TOP 3.9.1: Ergänzungen zur Vorlage 0744/2022 Ebertplatz, Änderungsantrag Grüne - ungeändert beschlossen
+- TOP 3.10: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, Teil I - ungeändert beschlossen
+- TOP 3.11: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 664382/02 Arbeitstitel: Bauliche Erweiterung Blaue Funken/ Sachsenturm (Blaue-Funken-Weg 2) in Köln-Altstadt/Süd - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: „Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet (Az.: 02-1600-122-21) - Sache ist erledigt
+- TOP 4.1.1: Änderungsantrag zu TOP 4.1- Marienplatz 4-12, 50676 Köln, Entfernung Hochbeet , Änderungsantrag Klimafreunde - endgültig zurückgezogen
+- TOP 4.1.2: Änderungsantrag: Marienplatz - vergessenen Stadtraum neu gestalten, gem. Änderungsantrag CDU, Grüne, SPD und KlimaFreunde - geändert beschlossen
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Mehr Platz für Rad- und Fußverkehr an der Sedanstraße (Az.: 02-1600-203-21) - geändert beschlossen
+- TOP 4.2.1: Gem. Änderungsantrag zu Bürgereingabe Sedanstraße (4067/2021), gem. Änderungsantrag Grüne, Die Linke, Die Partei und KlimaFreunde - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Optimierung der Querung für Radfahrende und Zufußgehende am Hansaring, Nähe Ebertplatz (Az.: 02-1600-202-21) - Sache ist erledigt
+- TOP 4.3.1: Bürgereingabe gem. § 24 GO- "Optimierung der Querung Hansaring für Radfahrende und Zufußgehende am Hansaring (Nähe Ebertplatz) - Sache ist erledigt
+- TOP 4.3.2: Änderungsantrag zur Querung Hansaring (0673/2022), gem. Änderungsantrag Grüne, Die Linke, Die Partei und Klimafreunde - ungeändert beschlossen
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.:Anliegerstraßen und Tempo-30-Zonen, Neustadt Nord- Villenviertel (Az.: 02-1600-12-22) - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Antrag "Fahrradparken vor städtischer Kindertagesstätte Burgunderstraße", Antrag Klima Freunde - geändert beschlossen
+- TOP 5.1.2: Neuordnung der Verkehre im Bereich Deutz-Mülheimer Str./Justinianstr./Opladener Str. - zurückgestellt
+- TOP 5.1.3: Ersatzlose Streichung und Entsiegelung von Parkplätzen, gem. Antrag Klimafreunde und Grüne - endgültig zurückgezogen
+- TOP 5.1.3.1: Ersetzungsantrag Ersatzlose Streichung und Entsiegelung von Parkplätzen zu AN/0376/2022, gem. Ersetzungsantrag KlimaFreunde, Grüne und Die Partei - ungeändert beschlossen
+- TOP 5.1.4: Erstellung von Fahrradabstellflächen/Haarnadeln im Bereich der Minoritenstraße, Antrag SPD - zurückgestellt
+- TOP 5.1.5: Einrichtung eines Radfahrstreifens auf dem Gotenring zwischen Siegburger Straße und (H)-Suevenstraße/Langobardenstraße, gem Antrag Grüne, Die Linke, KlimaFreunde, Die Partei - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Sanierung des Bodenbelags im Bereich des Parkcafés im Rheinpark, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Messung von Feinstaub und Lärmemissionen - Verkehrsversuch Deutzer Deutzer Freiheit, Antrag CDU - endgültig abgelehnt
+- TOP 5.2.3: Provisorisches Abpollern des Rechtsabbiegers an der Kreuzung Bismarckstr./Brüsseler Str. vor dem Café "Woyton", gem. Antrag KlimaFreunde und Grüne - ungeändert beschlossen
+- TOP 5.2.4: Veedelsbeirat „Kwartier Latäng“, gem. Antrag Grüne, SPD, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.5: Gehwegbreite Aachener Straße nach Abschluss Radverkehrsmaßnahme, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.6: Bessere personelle Ausstattung von Schulen und Sporthallen, Grüne - ungeändert beschlossen
+- TOP 5.2.7: Grundschul-Interims auf der Vogelsanger Straße statt am Venloer Wall, Grüne, Die Linke und Klimafreunde - ungeändert beschlossen
+- TOP 5.2.8: Symbolische Pacht des Stadtwinzers, gem. Antrag B90/Grüne, SPD, CDU und Die Linke - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Zustände der KVB-Haltestellen in der Innenstadt - zurückgestellt
+- TOP 6.1.2: Parksituation in Deutz, Anfrage CDU - zurückgestellt
+- TOP 6.1.3: Gestaltung des Historischen Parks Deutz, Anfrage CDU - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Nicht oder nur eingeschränkt zur Verfügung stehende Sporthallen und Zeitplan zur Behebeung der Missstände - zur Anfrage AN/0133/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion - Kenntnis genommen
+- TOP 9.2: Zwischenbilanz Schulentwicklungsplanung 2022 - Rückblick auf die Schulentwicklungsplanung 2020 und Ausblick auf die vorgesehene Fortschreibung 2023 - Kenntnis genommen
+- TOP 9.3: Sportentwicklungsplanung - "POLDIS STRASSENKICKER": kostenloses Fußballtraining für Kölner Kinder und Jugendliche - Kenntnis genommen
+- TOP 9.4: Anfrage an die Verwaltung zu Straßenbenennungen - Kenntnis genommen
+- TOP 9.5: Aufschub von Lärmsanierungsmaßnahmen der DB AG im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 9.6: Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 9.7: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf Nr. 67453/23, Arbeitstitel: Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord - Kenntnis genommen
+- TOP 9.8: Sportorientierte Jugendarbeit: Stadtbezirks- und Trägerwechsel zum 01.04.2022 - Kenntnis genommen
+- TOP 9.9: Sachstandsberichte - Kenntnis genommen
+- TOP 9.10: Planfeststellungsbeschluss für die Erneuerung der Eisenbahnüberführung über die Deutz-Mülheimer Straße, Bauwerk "A" - Kenntnis genommen
+- TOP 9.11: Verwendung der Stellplatzablösemittel - Kenntnis genommen
+- TOP 9.12: Grüngürtel - Parkstadt Süd, Öffentlichkeitsarbeit im Rahmen der Vorplanung - Kenntnis genommen
+- TOP 9.13: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
