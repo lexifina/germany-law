@@ -1,0 +1,101 @@
+# 11. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-04-07T17:00:00+02:00
+- Ende: 2022-04-07T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25320
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25320
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Eine Gesamtschule für Köln-Neubrück! - geändert beschlossen
+- TOP -: Stellungnahme zu AN/1677/2021 Antrag der SPD-Fraktion vom 19.08.2021 - Eine Gesamtschule für Köln-Neubrück! - Sache ist erledigt
+- TOP -: Gesamtschule ja - Aber nur mit Kollegium, Eltern und Schüler*innenschaft gemeinsam - endgültig zurückgezogen
+- TOP 7.2: Pilotprojekt Entsiegelung unter Parkplatzen - geändert beschlossen
+- TOP -: Aufwertung Markt in Köln-Kalk - geändert beschlossen
+- TOP 7.3: Schul- und Kindergartenwegesicherung am Zebrastreifen Wippermannstrasse/ Bertramstrasse im Stadtteil Kalk - ungeändert beschlossen
+- TOP 7.4: Alter Grenzstein der Stadt Porz; früher Eiler Str - Ecke am Alten Turm in Rath Heumar - ungeändert beschlossen
+- TOP 7.5: Kalker Obstbäume verschenken - ungeändert beschlossen
+- TOP 7.6: Dauerhaft geparkte Anhänger im Stadtbezirk Kalk - geändert beschlossen
+- TOP -: konsequente Ahndung ALLER Verstöße gegen §12 StVO - ungeändert beschlossen
+- TOP 7.7: Stadtverwaldung statt Stadtverwaltung – hier Bezirk Kalk - zurückgestellt
+- TOP 7.8: Einrichtung einer Buslinie auf der Inneren Kanalstraße über die Zoobrücke ins Rechtsrheinische - ungeändert beschlossen
+- TOP 7.9: Unterstützung der Sportvereine bei der Verlegung der Sportplätze - zurückgestellt
+- TOP 7.10: Nutzungs- und Funktionskonzept für die Hallen (75-77) Kalk - ungeändert beschlossen
+- TOP 7.11: Verkehrsberuhigung auf der Kurze Straße in Köln-Kalk - zurückgestellt
+- TOP 7.12: Barrierefreiheit im Straßenbereich Stadtbezirk 8 - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Straßenbaumkonzept Kalk - zurückgestellt
+- TOP 8.1.2: Projektanträge im Rahmen des sechsten Antragsdurchlaufs des Verfügungsfonds für das Gebiet „Soziale Stadt“ „Humboldt/Gremberg und Kalk“ - ungeändert beschlossen
+- TOP 8.1.3: Vorgehensweise für das Beteiligungsverfahren zum barrierefreien Umbau von drei Bushaltestellen der KVB-Linie 157 im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.1.4: Radverkehrskonzept Kalk - ungeändert beschlossen
+- TOP 8.1.5: Vergabe der bezirksorientierten Mittel für das Jahr 2022 - ungeändert beschlossen
+- TOP 8.1.6: Verkehrliche Maßnahmen zur Schulwegerschließung am Schulstandort Christian-Sünner-Straße in Köln-Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Stellplatzsatzung für Köln - ungeändert beschlossen
+- TOP 8.2.2: Beschaffung und Aufstellung von Modulbauten für Schulen zum Erhalt bestehender und zur Schaffung dringend notwendiger zusätzlicher Schulplätze - ungeändert beschlossen
+- TOP 8.2.3: Beschluss über die Aufstellung eines Bebauungsplanes;Arbeitstitel: „Ostmerheimer Straße – Schule“ in Köln-Merheim - ungeändert beschlossen
+- TOP 8.2.4: 281. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - endgültig abgelehnt
+- TOP 8.2.5: 6. Satzung zur Änderung der Sondernutzungssatzung - geändert beschlossen
+- TOP 8.2.6: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert beschlossen
+- TOP 8.2.7: Änderung der Richtlinie zur Umsetzung des „Haus-, Hof- und Fassadenprogramms" im Projekt „Starke Veedel – Starkes Köln" im Sozialraum „Humboldt/Gremberg und Kalk" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Geruchsbelästigung in den späteren Abendstunden in Köln-Brück und -Merheim - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer Anfrage der CDU-Fraktion Aktueller Stand der Planungen des DOMiD - Kenntnis genommen
+- TOP 9.1.3: Beantwortung mündlicher Anfrage CDU-Fraktion Sperrung der Zufahrt zum Friedhof Lehmbacher Weg in Köln Brück - Kenntnis genommen
+- TOP 9.1.4: Betrieb eines Schrotthandels im Bereich Wikinger Str. / Porzer Str. in Rath/Heumar - Kenntnis genommen
+- TOP 9.1.5: Mündliche Anfrage bezüglich Findlingen im Kalker Stadtgarten - Kenntnis genommen
+- TOP 9.1.6: Beantwortung einer mündlichen Anfrage betreff Porzer Straße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.1.7: Beantwortung einer Anfrage zu Sachstand der Planungen zur Umgestaltung/ Instandsetzung der Sieverstraße im Teilstück von Hausnummer 27 bis zur Rolshover Straße in Köln-Kalk - Kenntnis genommen
+- TOP 9.1.8: Beantwortung der Anfrage AN/1360/2020 der Fraktion DIE LINKE. - Kenntnis genommen
+- TOP 9.1.9: Beantwortung der Anfrage der SPD-Fraktion: Hilfsangebote für obdachlose Menschen im Stadtbezirk Kalk (AN/0152/2022) - Kenntnis genommen
+- TOP 9.1.10: Beantwortung einer Anfrage (AN/0072/2022) - Geringe Restgehwegbreite auf der Kalker Hauptstraße - Kenntnis genommen
+- TOP 9.1.11: Ausbau der Matthias-Müller-Straße und Fockerweg - Kenntnis genommen
+- TOP 9.1.12: Anfrage der CDU - Fraktion vom 11.08.2020 - Kenntnis genommen
+- TOP 9.1.13: Beantwortung einer Anfrage nach § 4 (Die Linke.) betreffend" Öffentliches WLAN in Köln" AN/2428/2021 - Kenntnis genommen
+- TOP 9.1.14: Beantwortung der Anfrage Fraktion Die LINKE. vom 25.11.2021 TOP 9.2.5 - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Stadtbezirk Kalk lebenswerter gestalten durch Begrünung und Entsiegelung in den Stadtteilen - Rath/Heumar - Kenntnis genommen
+- TOP 9.2.2: Sachstand Zebrastreifen in der Lüderichstraße - Kenntnis genommen
+- TOP 9.2.3: Ergebnisse des Anmeldeverfahrens an Gesamtschulen und Gymnasien im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.4: Angebot der KVB-Leihräder im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Teilnahme an der Earth Hour 2022 - Kenntnis genommen
+- TOP 10.2.2: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - Kenntnis genommen
+- TOP 10.2.3: Anlegen einer Busspur auf der Frankfurter Straße - zurückgestellt
+- TOP 10.2.4: Sportentwicklungsplanung - "POLDIS STRASSENKICKER": kostenloses Fußballtraining für Kölner Kinder und Jugendliche - Kenntnis genommen
+- TOP 10.2.5: Fachliche Begleitung der Bezirksvertretungen in Verkehrsangelegenheiten - Kenntnis genommen
+- TOP 10.2.6: Ehrenamtspreis "KölnEngagiert 2022" - Kenntnis genommen
+- TOP 10.2.7: Förderanträge 3. Call Sofortprogramm Innenstadt NRW - Kenntnis genommen
+- TOP 10.2.8: 3. Nahverkehrsplan der Stadt Köln - Sachstandsbericht zu den Maßnahmenvorschlägen aus dem Beteiligungsverfahren - Kenntnis genommen
+- TOP 10.2.9: Zielvereinbarung 2022 - Bürgerzentrum Kalk - Kenntnis genommen
+- TOP 10.2.10: Erläuterung zum Sachstand Gesamtschule im Stadtbezirk Kalk - zu AN/1842/2021 - Kenntnis genommen
+- TOP 10.2.11: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2021 - Kenntnis genommen
+- TOP 10.2.12: Sport in Metropolen - Kenntnis genommen
+- TOP 10.2.13: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 10.2.14: Beantwortung zu AN/2072/2021 Top 2.3. Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln - geändert beschlossen
+- TOP 10.2.15: Zwischenbilanz Schulentwicklungsplanung 2022 - Rückblick auf die Schulentwicklungsplanung 2020 und Ausblick auf die vorgesehene Fortschreibung 2023 - Kenntnis genommen
+- TOP 10.2.16: Aufschub von Lärmsanierungsmaßnahmen der DB AG im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 10.2.17: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 10.2.18: Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.19: Nicht oder nur eingeschränkt zur Verfügung stehende Sporthallen und Zeitplan zur Behebeung der Missstände - zur Anfrage AN/0133/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion - Kenntnis genommen
+- TOP 10.2.20: Verwendung der Stellplatzablösemittel - Kenntnis genommen
+- TOP 10.2.21: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren in NRW: Umsetzung Köln-Kalk - Kenntnis genommen
+- TOP 10.2.22: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 10.2.23: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
