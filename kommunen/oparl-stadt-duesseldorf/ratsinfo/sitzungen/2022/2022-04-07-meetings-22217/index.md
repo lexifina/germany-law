@@ -1,0 +1,81 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-04-07T14:00:00+02:00
+- Ende: 2022-04-07T20:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22217
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22217
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 07.04.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00445308.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 07.04.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00445308.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 07.04.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00445308.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 03.02.2022 (SI-RAT/001/2022) - einstimmig beschlossen
+- TOP 4: Wahl einer Beigeordneten - mehrheitlich beschlossen
+- TOP 5: Wahl einer Beigeordneten - mehrheitlich beschlossen
+- TOP 6: Anfragen aus aktuellem Anlass
+- TOP 6.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Unfall der 10jährigen mit einer Rheinbahn in Holthausen auf der Fußgängerfurth Am Trippelsberg/Bonner Straße - schriftlich beantwortet
+- TOP 6.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Fortsetzung von wirtschaftlichen, unternehmerischen Handeln von Metro und Henkel in Russland - schriftlich beantwortet
+- TOP 6.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: rassistischer und körperlicher An- und Übergriff auf einem Spielplatz in Düsseldorf-Flingern - schriftlich beantwortet
+- TOP 6.4: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: ukrainische Kriegsflüchtlinge in Düsseldorf - schriftlich beantwortet
+- TOP 7: Anfragen
+- TOP 7.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: TinyHäuser im Stadtgebiet Düsseldorfs - schriftlich beantwortet
+- TOP 7.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Vorfälle, verbale bzw. körperliche Konfrontation und/oder Auseinandersetzungen zwischen Personen mit ukrainischen Hintergrund und Personen mit russischen Hintergrund - schriftlich beantwortet
+- TOP 7.3: Anfrage der FDP-Ratsfraktion: Barrierefreie Innenstadt - schriftlich beantwortet
+- TOP 7.4: Anfrage der SPD-Ratsfraktion: Sachstand Soziale Erhaltungssatzungen (Milieuschutzsatzungen) - schriftlich beantwortet
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Anfrage der Ratsfraktion DIE LINKE: Videoüberwachung in Düsseldorf - schriftlich beantwortet
+- TOP 7.7: Anfrage der Ratsfrau Krüger: Tierasyl - Versorgung und Unterbringung der mitgebrachten ukrainischen Haustiere - schriftlich beantwortet
+- TOP 7.8: Anfrage der Ratsfrau Opelt: 5G-Vorzeigestadt Düsseldorf: wo bleibt Transparenz und wissenschaftliche Begleitung? - schriftlich beantwortet
+- TOP 7.9: Anfrage des Ratsherrn Lemmer: Probleme im Hofgarten (freilaufende Hunde reissen Gänse; Müll und unsachgemäßer Gebrauch von E-Scootern) - schriftlich beantwortet
+- TOP 7.10: Anfrage des Ratsherrn Lemmer: Führen die stark gestiegenen Benzin- und Dieselpreise sowie die Energiekosten bei den Düsseldorfern zu Gebühren- oder Steuererhöhungen? - schriftlich beantwortet
+- TOP 7.11: Anfrage der Ratsfrau Marmulla: Kontakte zu René Benko und der Signa-Gruppe - schriftlich beantwortet
+- TOP 8: Bericht aus der Kleinen Kommission TVG - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 10: Spende für Warschau - mehrheitlich beschlossen
+- TOP 10.1: Änderungsantrag der Ratsgruppe Tierschutz/FREIE Wähler zur Vorlage RAT/122/2022 - mehrheitlich abgelehnt
+- TOP 11: Rechtsmitteleinlegung gegen eine kommunalaufsichtliche Verfügung - mehrheitlich beschlossen
+- TOP 12: Satzungsänderung Urnenstelenhain und Außenkolumbarium - einstimmig beschlossen
+- TOP 13: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 14: Bonner Straße 121, Gut Niederheid - Grundsatzentscheidung zum weiteren Vorgehen - Beschluss - - einstimmig beschlossen
+- TOP 15: Überprüfung der Zielerreichung des Gleichstellungsplans - zur Kenntnis genommen
+- TOP 16: Beteiligungsbericht 2019 der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 17: Einrichtung und Betrieb eines Zentralen Aktendepots - mehrheitlich beschlossen
+- TOP 18: Grabbeplatz 4, Kunsthalle Düsseldorf - Gesamtsanierung mit Schwerpunkt auf energetischer Optimierung - mehrheitlich beschlossen
+- TOP 19: Konrad-Adenauer-Platz 1 (KAP 1) - Änderungsbeschluss - einstimmig beschlossen
+- TOP 20: Deutsche Oper am Rhein - Opernhaus der Zukunft - mehrheitlich beschlossen
+- TOP 20.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage KUA/038/2022
+- TOP 20.2: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage KUA/038/2022 - mehrheitlich beschlossen
+- TOP 21: Nachbesetzung der Förderpreisjurys für Bildende Kunst und Musik - einstimmig beschlossen
+- TOP 22: Gesamtstellungnahme der Stadt zum Planfeststellungsverfahren für das Vorhaben Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt 3.1 "Kalkum - Angermund" - mehrheitlich beschlossen
+- TOP 23: Quartiersentwicklung Benrodestraße / Marbacher Straße einschließlich des Neubaus für das Schloß-Gymnasium Benrath und die Realschule Benrath inklusive Sportkomplex - einstimmig beschlossen
+- TOP 23.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/055/2022 - mehrheitlich beschlossen
+- TOP 23.2: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage RAT/055/2022 - mehrheitlich abgelehnt
+- TOP 23.3: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/055/2022 - mehrheitlich abgelehnt
+- TOP 24: Besetzung der Ausschüsse durch den Jugendrat - mehrheitlich beschlossen
+- TOP 25: Aufsichtsrat der Connected Mobility Düsseldorf GmbH - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 26: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Fassaden- und Dachsanierung sowie Instandsetzung des Ehrenhofs am Standort des Lessing Gymnasiums/Berufskollegs, Ellerstraße 84-94" - einstimmig beschlossen
+- TOP 28: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses für die Standorte Steinkaul 27 und Melanchthonstraße 2 - einstimmig beschlossen
+- TOP 29: Weiterentwicklung der Quotierungsregelung im Frühjahr 2022 - mehrheitlich beschlossen
+- TOP 29.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage APS/006/2022 - mehrheitlich abgelehnt
+- TOP 29.2: Änderungsantrag der SPD-Ratsfraktion zur Vorlage APS/006/2022 - mehrheitlich abgelehnt
+- TOP 30: Flächennutzungsplanänderung Nr. 166 (Entwurf) - Grafental Ost - mehrheitlich beschlossen
+- TOP 31: Anträge
+- TOP 31.1: Antrag der FDP-Ratsfraktion: Familiengerechte Kommune Düsseldorf – Modul-Hilfe für Familien aus der Ukraine - mehrheitlich abgelehnt
+- TOP 31.2: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Erfassung der Daten zur aktuellen Flächenversiegelung und deren Veränderung im zeitlichen Verlauf im Stadtgebiet von Düsseldorf - verwiesen
+- TOP 31.3: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Tempo 30 in den Bereichen der Unfallschwerpunkte in Düsseldorf einführen - mehrheitlich abgelehnt
+- TOP 31.4: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/ DIE GRÜNEN: Klima, Kultur und Kommunikation – klimaneutrale Anreise - mehrheitlich beschlossen
+- TOP 31.5: Antrag der CDU-Ratsfraktion: Freigabe verkaufsoffener Sonntage - mehrheitlich beschlossen
+- TOP 31.5.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/141/2022 - mehrheitlich abgelehnt
+- TOP 31.5.2: Ergänzungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/141/2022 - mehrheitlich beschlossen
+- TOP 31.6: Antrag der Ratsfraktion DIE LINKE: Förderung regimekritischer russischer Kunst und Kultur sowie Förderung des interkulturellen Dialogs - mehrheitlich abgelehnt
+- TOP 31.7: Antrag der Ratsfraktion DIE LINKE: Solidarität mit den Friedensprotesten in Russland - mehrheitlich abgelehnt
+- TOP 32: Auswirkungen des Ukraine-Krieges auf die Landeshauptstadt Düsseldorf (mündlicher Bericht) - zur Kenntnis genommen
