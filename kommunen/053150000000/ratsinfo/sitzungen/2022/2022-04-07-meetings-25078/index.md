@@ -1,0 +1,125 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-04-07T17:06:00+02:00
+- Ende: 2022-04-07T19:38:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25078
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25078
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: O - Antrag der Fraktionen CDU, SPD und Grüne auf eine Aktuelle Stunde zum Thema "Vergabe von Schulplätzen an Grundschüler in Porz" - Sache ist erledigt
+- TOP -: I - Vortrag des Sachgebiets Info- und Bildungsstelle gegen Rechtsextremismus (ibs) des NS-Dokumentationszentrum (4520)
+- TOP -: II - Sachstand Porz Mitte
+- TOP -: III - Sachstand Schulbau in Porz
+- TOP 1: Einwohnerfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Begrünung/Abschattung- Reduzierung Parkplätze- urbane Optimierung Salmstraße, Köln Poll (Az.: 02-1600-14-22) - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Bürgereingabe Salmstraße" - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Neugestaltung des Spiel- und Bolzplatzes An den Maien in Köln-Poll - ungeändert beschlossen
+- TOP 6.2: Planungsbeschluss für die Errichtung einer Fußgängersignalisierung an der Siegburger Straße zur Schulwegsicherung im Zusammenhang mit der Schulerweiterung und des Schulneubaus Siegburger Straße/Auf dem Sandberg in Poll - ungeändert beschlossen
+- TOP 6.3: Vergabe von bezirksorientierten Finanzmittel gemäß § 37 GO NW im Jahr 2022 - ungeändert beschlossen
+- TOP 6.4: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Planungs- und Bedarfsfeststellungsbeschluss für die Vergabe der weiteren externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme „Vierspuriger Ausbau der Frankfurter Straße zwischen der Theodor-Heuss-Str - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion "Ausbau Frankfurter Straße" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der SPD-Fraktion "Ersetzungsantrag zu TOP 7.1 Ausbau Frankfurter Straße" - zurückgestellt
+- TOP 7.2: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel" - ungeändert beschlossen
+- TOP 7.3: Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße im Stadtbezirk Porz zwischen den Knotenpunkten Kölner Str./Berliner Str./Helenenstr. und Hauptstr./Friedrich-Ebert-Ufer - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der SPD-Fraktion "Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße" - ungeändert beschlossen
+- TOP 7.4: Beschluss der Bezirksvertretung Porz per Dringlichkeit (AN 2329): "Erhaltung einer Trauerweide in der Mühlenstraße 6-8“ - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Trauerweide Mühlenstraße 6-8" - ungeändert beschlossen
+- TOP 7.5: Fahrplanwechsel 2022 - Angebotsausweitung Buslinie SB55/164 - ungeändert empfohlen
+- TOP 7.6: Fahrplanwechsel 2022 - Anbindung Gewerbegebiet Porz-Eil - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Fahrplanwechsel 2022 – Anbindung Gewerbegebiet Porz-Eil" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Beschlussvorlage Fahrplanwechsel 2022 – Anbindung Gewerbegebiet Porz-Eil" - ungeändert beschlossen
+- TOP 7.7: Fahrplanwechsel 2022 - Überarbeitung des Abend- und Nachtverkehrs im Stadtbezirk Porz - ungeändert empfohlen
+- TOP 7.8: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert empfohlen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: 6. Satzung zur Änderung der Sondernutzungssatzung - ungeändert empfohlen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion "Einrichtung von „verkehrsberuhigten Bereichen“ in der Wasserturmsiedlung in Westhoven (Drieschstraße, Wasserturmstraße undAuf dem Wasserfeld)" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der SPD-Fraktion "Wasserturmsiedlung in Westhoven" - geändert beschlossen
+- TOP -: Verkehrsberuhigter Bereich Wasserturmsiedlung - Kenntnis genommen
+- TOP 8.2: Antrag der SPD-Fraktion "Absolutes Halteverbot vor einer Zufahrt über einen Randstreifen in der Besenbinderstraße" - zurückgestellt
+- TOP -: Absolutes Halteverbot vor einer Zufahrt über eine Randstreifen in der Besenbinderstraße - Kenntnis genommen
+- TOP 8.3: Antrag der Fraktionen CDU und Grüne "Einrichtung eines Kulturbeirates der Bezirksvertretung Porz" - zurückgestellt
+- TOP 8.4: Antrag der SPD-Fraktion "Deutzer Hafen: Kein Verkehrskonzept ohne Einbeziehung des öffentlichen Personennahverkehrs und zeitlich gestaffelte Maßnahmen parallel zum Baufortschritt / Bezug des Hafenareals" - ungeändert beschlossen
+- TOP 8.5: Antrag der Fraktion Bündnis 90/Die Grünen "Verbesserung der Verkehrssituation entlang der Poststr. in 51143 Köln-Porz“ - ungeändert beschlossen
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Antrag der Fraktionen CDU und Grüne "Besetzung von Schulplätzen in den Eingangsstufen der weiterführenden Schulen" - endgültig zurückgezogen
+- TOP -: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Besetzung von Schulplätzen in den Eingangsstufen der weiterführenden Schulen" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Besetzung von Schulplätzen in den Eingangsstufen der weiterführenden Schulen" - endgültig zurückgezogen
+- TOP 8.8: Antrag der SPD-Fraktion "Poll: Ausbau des Deutzer Hafens: Alternative Fuß- und Radwegeverbindung zwischen Siegburger Straße/Raiffeisenstraße und der Alfred-Schütte-Allee schaffen" - ungeändert beschlossen
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Barierefreie Glasrecycling-Unterflurcontainer-Systeme für jeden Stadtteil von Porz und Köln - Kenntnis genommen
+- TOP 8.10: Antrag der Fraktionen CDU und Grüne "Geschwindigkeitsprofil und Geschwindigkeitsmessungen auf der St. Sebastianusstraße zwischen Bahnhof und Frankfurter Straße in Wahn" - ungeändert beschlossen
+- TOP 8.11: Antrag der SPD-Fraktion "Insektenschutz aktiv – Einrichtung von Insektenhotels im Stadtbezirk Porz" - ungeändert beschlossen
+- TOP 8.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.13: Antrag der SPD-Fraktion "Langfristiger Erhalt der Fähre von Zündorf nach Weiß" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Langfristiger Erhalt der Fähre Zündorf" - ungeändert beschlossen
+- TOP 8.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15: Antrag der SPD-Fraktion "Verkehrssicherheit Ensener Marktplatz am Markttag erhöhen" - ungeändert beschlossen
+- TOP 8.16: Antrag der SPD-Fraktion "Regelung der Ausfahrt der Deponie „Am Wiemersgrund“ vom Poller Holzweg in die Rolshover Straße – Beschilderung verbessern" - ungeändert beschlossen
+- TOP 8.17: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Sofortiger Ausbau des ehemaligen Praktiker Porz zu einer dauerhaften Unterkunft für Flüchtlinge" - ungeändert beschlossen
+- TOP 8.18: Dringlichkeitsantrag der SPD-Fraktion "Angebot der KVB-Leihräder im rechtsrheinischen Köln" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Regelung der Ausfahrt der Deponie „Am Wiemersgrund“ vom Poller Holzweg in die Rolshover Straße - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Regelung der Ausfahrt der Deponie „Am Wiemersgrund“ vom Poller Holzweg in die Rolshover Straße, siehe Antrag AN/160/2018" - Sache ist erledigt
+- TOP 9.1.2: Vereinheitlichung der Geschwindigkeiten in Zündorf - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Vereinheitlichung der Geschwindigkeiten in Zündorf" - Sache ist erledigt
+- TOP 9.1.3: Verkehrssituation in Gremberghoven - Kenntnis genommen
+- TOP 9.1.4: Sauberkeit in Porz - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.5: Anfrage der FDP-Fraktion zum Thema Lichtershow in Porz - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.6: Anfrage zur Umsetzung des Friedhofskonzeptes "Kulturraum Kölner Friedhöfe 2025" auf den Porzer Friedhöfen (AN 0174/2022) - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.7: Auswertung Sperrung Hohenstaufenstraße - Kenntnis genommen
+- TOP -: Anfrage der Fraktion Bündnis 90/Die Grünen "Auswertung Sperrung Hohenstaufenstr Vorlage 4021/2021" - Sache ist erledigt
+- TOP 9.1.8: Wann wird der Marktplatz in Ensen umgebaut? - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Wann wird der Marktplatz in Ensen umgebaut?" - Sache ist erledigt
+- TOP 9.1.9: Sachstand Bauanträge Porz - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Sachstand zu Bauanträge Stadtbezirk Porz" - Sache ist erledigt
+- TOP 9.1.10: Umsetzung eines Planungsbeschlusses für den Bau eines Gehweges mit Parkbuchten für die Wohnbebauung in Köln Wahn, Frankfurter Straße 298 - 316 - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Umsetzung eines Planungbeschlusses für den Bau eines Gehweges mit Parkbuchten für die Wohnbebauung in Köln Wahn, Frankfurter Straße 298 - 316" - Sache ist erledigt
+- TOP 9.1.11: Schulbau in Porz - zur Anfrage der FDP-Fraktion AN/0224/2022 - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Einrichtung einer Fahrradstaffel beim Ordnungs- und Verkehrsdienst, Vorlage 0149/2018" - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Buslinie über die Rodenkirchener Brücke sowie Beschlussvorlage 2094/2021, Fußgängersignalisierung an der Siegburger Straße, hier: Anlage 3, Beantwortung von Fragen aus der Sitzung vom 02.09.2021" - zurückgestellt
+- TOP 9.2.3: Anfrage der CDU-Fraktion "Fortschreibung Toilettenkonzept" - zurückgestellt
+- TOP 9.2.4: Anfrage der CDU-Fraktion "Verkehrsprojekt ‚On Demand‘ in Porz – Zwischenstand?" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Zielvereinbarung 2022 - Bürgerzentrum Engelshof - Kenntnis genommen
+- TOP 10.2.2: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2021 - Kenntnis genommen
+- TOP 10.2.3: Umbau Poller Holzweg - Kenntnis genommen
+- TOP 10.2.4: Zwischenbilanz Schulentwicklungsplanung 2022 - Rückblick auf die Schulentwicklungsplanung 2020 und Ausblick auf die vorgesehene Fortschreibung 2023 - Kenntnis genommen
+- TOP 10.2.5: Sachstandsbericht zum Stand der Baumaßnahme für die GGS Breitenbachstraße - zur mündlichen Anfrage des Sachkundigen Einwohners Lutz Tempel vom 29.11.2021, TOP 7.3 - Kenntnis genommen
+- TOP 10.2.6: Fortschreibung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz Mitte - Kenntnis genommen
+- TOP 10.2.7: Aktuelle Lage und Planungen zur Aufnahme von Geflüchteten aus der Ukraine - Kenntnis genommen
+- TOP 10.2.8: Aufschub von Lärmsanierungsmaßnahmen der DB AG im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 10.2.9: Nicht oder nur eingeschränkt zur Verfügung stehende Sporthallen und Zeitplan zur Behebeung der Missstände - zur Anfrage AN/0133/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion - Kenntnis genommen
+- TOP 10.2.10: Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.11: Errichtung von mehreren Doppelhaushälften und Reihenhäusern - Kenntnis genommen
+- TOP 10.2.12: Verwendung der Stellplatzablösemittel - Kenntnis genommen
+- TOP 10.2.13: Erhöhung der Beförderungskapazitäten bei der Buslinie 160 - Kenntnis genommen
+- TOP 10.2.14: Bushaltestelle Rathaus Porz/Rheinufer - Kenntnis genommen
+- TOP 10.2.15: Stellungnahme zu einem Antrag der Bezirksvertretung Porz zum 27.01.22 zur Grundschulversorgung in Ensen und Westhoven - Kenntnis genommen
+- TOP 10.2.16: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 10.2.17: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 10.2.18: Integriertes Stadtentwicklungskonzept (ISEK) Porz Mitte - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
