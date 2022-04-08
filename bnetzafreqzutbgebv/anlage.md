@@ -2,7 +2,7 @@
 
 | Lfd. Nr. | Gebührentatbestand | Gebühr in Euro |
 | A | Allgemeine Gebühren |  |
-| A.1 | Erstellen einer zusätzlichen Ausfertigung eines Frequenz-zuteilungsbescheids in nicht-elektronischer Form | 25 |
+| A.1 | Erstellen einer zusätzlichen Ausfertigung eines Frequenzzuteilungsbescheids in nicht-elektronischer Form | 25 |
 | A.2 | Änderung einer Zuteilung von Frequenzen, wobei die Änderung nicht die auf den Verwendungszweck der Frequenz abgestellten Parameter betrifft (insbesondere weder Frequenzänderung noch Verlängerung der Zuteilung) | 25 |
 | A.3 | Zurücknahme eines Antrags nach dem Beginn der sachlichen Bearbeitung und vor Beendigung der individuell zurechenbaren öffentlichen Leistung | bis zur Höhe von 75 % des entsprechenden Gebührentatbestands nach Abschnitt B, begrenzt bis zur Laufzeit von drei Monaten |
 | A.4 | Ablehnung eines Antrags aus anderen Gründen als dem der Unzuständigkeit | bis zur Höhe des entsprechenden Gebührentatbestands nach Abschnitt B, begrenzt bis zur Laufzeit von drei Monaten |

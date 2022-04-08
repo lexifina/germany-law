@@ -35,14 +35,14 @@ Tabelle 1
 | 24.44 | Erzeugung und erste Bearbeitung von Kupfer | 0,49 | 70 % |
 | 24.51 | Eisengießereien | 0,47 | 70 % |
 | 23.99 | Herstellung von sonstigen Erzeugnissen aus nichtmetallischen Mineralien a. n. g. | 0,46 | 70 % |
-| 16.21 | Herstellung von Furnier-, Sperrholz-, Holzfaser-und Holzspanplatten | 0,41 | 70 % |
+| 16.21 | Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten | 0,41 | 70 % |
 | 06.10 | Gewinnung von Erdöl | 0,39 | 70 % |
 | 24.31 | Herstellung von Blankstahl | 0,34 | 70 % |
 | 20.60 | Herstellung von Chemiefasern | 0,30 | 65 % |
 | 24.46 | Aufbereitung von Kernbrennstoffen | 0,29 | 65 % |
 | 23.19 | Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschließlich technischen Glaswaren | 0,27 | 65 % |
 | 23.42 | Herstellung von Sanitärkeramik | 0,27 | 65 % |
-| 24.20 | Herstellung von Stahlrohren, Rohrform-, Rohrverschluss-und Rohrverbindungsstücken aus Stahl | 0,19 | 65 % |
+| 24.20 | Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl | 0,19 | 65 % |
 | 20.16 | Herstellung von Kunststoffen in Primärformen | 0,18 | 65 % |
 | 08.91 | Bergbau auf chemische und Düngemittelminerale | 0,16 | 65 % |
 | 23.41 | Herstellung von keramischen Haushaltswaren und Ziergegenständen | 0,13 | 65 % |
