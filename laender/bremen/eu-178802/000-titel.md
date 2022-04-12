@@ -1,1 +1,1 @@
-# Bremisches Gesetz zur Durchführung der Marktüberwachung von Bauprodukten (BremBauPMÜG) vom 20. Dezember 2011
+# Bremisches Gesetz zur Durchführung der Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG)Nr.
