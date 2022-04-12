@@ -1,2 +1,2 @@
 # Verordnung des Sächsischen Staatsministeriums der Justiz und für Demokratie, Europa und Gleichstellung über den elektronischen Rechtsverkehr, die elektronische Aktenführung, die elektronischen Register und das maschinelle Grundbuch in Sachsen (Sächsische E-Justizverordnung – SächsEJustizVO)
-Rechtsbereinigt mit Stand vom 5. Dezember 2021
+Rechtsbereinigt mit Stand vom 12. April 2022

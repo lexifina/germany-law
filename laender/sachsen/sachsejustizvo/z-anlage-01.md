@@ -1,4 +1,4 @@
-# Anlage (zu § 5 Absatz 1 Satz 1)
+# Anlage 1 (zu § 5 Absatz 1 Satz 1)
 Gerichte und Verfahrensarten
 Nummer | Gericht
 Nummer | Gericht
@@ -22,3 +22,8 @@ Nummer | Gericht
 18. | Amtsgericht Pirna
 19. | Amtsgericht Riesa
 20. | Landgericht Leipzig
+21. | Amtsgericht Auerbach
+22. | Amtsgericht Hohenstein-Ernstthal
+23. | Amtsgericht Plauen
+24. | Amtsgericht Zwickau
+25. | Amtsgericht Leipzig
