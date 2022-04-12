@@ -10,9 +10,7 @@
 - [§ 7 Selbstkostenerstattungspreise](0007.md)
 - [§ 8 Ermittlung der Selbstkostenpreise](0008.md)
 - [§ 9 Prüfung der Preise](0009.md)
-- [§ 10 Feststellung der Angemessenheit von
-Selbstkostenpreisen durch öffentliche
-Auftraggeber](0010.md)
+- [§ 10 Feststellung der Angemessenheit von Selbstkostenpreisen durch öffentliche Auftraggeber](0010.md)
 - [§ 11 Zuwiderhandlungen](0011.md)
 - [§ 12 Inkrafttreten](0012.md)
 - [Schlußformel](schlussformel.md)

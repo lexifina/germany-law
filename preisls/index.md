@@ -28,12 +28,12 @@ zur Verordnung PR Nr. 30/53 vom 21. November 1953)
 - [Nr 12 Auswärtige Bearbeitung](nr-12.md)
 - [Nr 13 Hilfs- und Betriebsstoffe](nr-13.md)
 - [Nr 14 Sonderbetriebsmittel](nr-14.md)
-- [Nr 15 Brennstoffe und Energie](nr-15.md)
+- [Nr 15 (weggefallen)](nr-15.md)
 - [Nr 16 Mengenermittlung](nr-16.md)
 - [Nr 17 Bewertung](nr-17.md)
 - [Nr 18 Einstandspreis](nr-18.md)
 - [Nr 19 Zulieferungen aus eigenen Vorbetrieben](nr-19.md)
-- [Nr 20 Beistellung von Stoffen](nr-20.md)
+- [Nr 20 Beistellung von Stoffen, Personal oder Anlagen](nr-20.md)
 - [Nr 21 Reststoffe](nr-21.md)
 
 ### B. Löhne, Gehälter und andere Personalkosten
@@ -60,7 +60,7 @@ Versuchsaufträge
 ### F. Steuern, Gebühren, Beiträge
 
 - [Nr 30 Steuern](nr-30.md)
-- [Nr 31 Lastenausgleich](nr-31.md)
+- [Nr 31 (weggefallen)](nr-31.md)
 - [Nr 32 Gebühren und Beiträge](nr-32.md)
 
 ### G. Lizenzen, Patente und gewerblicher

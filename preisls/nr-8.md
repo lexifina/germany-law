@@ -1,7 +1,7 @@
 # Nr 8 Bewertung
 
 (1)
-Bei der Bewertung der Güter und Dienste bleiben die nach den §§ 15 und 28 des Umsatzsteuergesetzes (Mehrwertsteuer) abziehbaren Vorsteuern und Beträge außer Ansatz. Die nach diesen Vorschriften nicht abziehbaren Vorsteuern und Beträge sind Kosten im Sinne von Nummer 4.
+Bei der Bewertung der Güter und Dienste bleiben die nach dem Umsatzsteuergesetz abziehbaren Steuern und Beträge außer Ansatz. Die nach diesen Vorschriften nicht abziehbaren Steuern und Beträge sind Kosten im Sinne der Nummer 4.
 (2)
 Bei der Bewertung sind, soweit im Abschnitt III nichts Abweichendes bestimmt wird, zugrunde zu legen
 a) bei Preisvereinbarungen auf Grund von Vorkalkulationen Tagespreise für Güter und entsprechende Entgelte für Dienste, abgestellt auf den Zeitpunkt der Angebotsabgabe,
