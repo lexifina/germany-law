@@ -253,8 +253,8 @@
 - [§ 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen](0107.md)
 - [§ 108 Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger](0108.md)
 - [§ 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0108a.md)
-- [(XXXX) §§ 109 und 110 (weggefallen)](xxxx-109-und-110.md)
 - [§ 109 zukünftig in Kraft](0109.md)
+- [§ 110 (weggefallen)](0110.md)
 
 ## Neunter Abschnitt Aufbewahrung von Unterlagen
 

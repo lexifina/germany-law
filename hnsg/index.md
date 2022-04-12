@@ -7,7 +7,7 @@
 - [§ 5 (zukünftig in Kraft)](0005.md)
 - [§ 6 Behördliche Zuständigkeiten; Gebühren und Auslagen](0006.md)
 - [§ 7 Mitteilung der Mengen beitragspflichtiger Ladung](0007.md)
-- [§ 8 (zukünftig in Kraft)](0008.md)
+- [§ 8 Verordnungsermächtigung](0008.md)
 - [§ 9 (zukünftig in Kraft)](0009.md)
 - [§ 10 (zukünftig in Kraft)](0010.md)
 - [§ 11 (zukünftig in Kraft)](0011.md)
