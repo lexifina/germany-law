@@ -1,0 +1,62 @@
+# 36. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-04-13T16:00:00+02:00
+- Ende: 2022-04-13T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11320
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11320
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00604729.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde zum Thema "Schulen in Dresden zeit- und fristgemäß gestalten und bauen" - erledigt
+- TOP 4: Aktuelle Stunde zum Thema "Attraktivität von Bus und Bahn in Dresden nachhaltig sichern" - erledigt
+- TOP 5: Bus und Bahn beschleunigen - Zustimmung
+- TOP 6: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Schaffung von Unterbringungskapazitäten - punktweise Abstimmung
+- TOP 9: Sonderregelungen für Pandemielagen wie die Coronavirus-Sars-CoV-2-Pandemie (COVID 19) als Ausnahmeregelung für den Striezelmarkt 2022 - Zustimmung
+- TOP 10: Aus- und Umbau Heinz-Steyer-Stadion, Ausbau der Kurvenbereiche für Großveranstaltungen - Zustimmung
+- TOP 11: Annahme und Verwendung von eingegangenen Spenden, Schenkungen und Zuwendungen für die Geflüchteten aus der Ukraine - Zustimmung
+- TOP 12: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Vertagung nach 22 Uhr
+- TOP 13: Vorhabenbezogener Bebauungsplan Nr. 6050, Dresden-Altstadt I, Verwaltungsquartier Kleine Packhofstraße - Zustimmung
+- TOP 14: Bebauungsplan Nr. 3043, Dresden-Seidnitz Nr. 3, Sport- und Bildungscampus Dresden-Ost/Bodenbacher Straße - Zustimmung
+- TOP 15: Deckung von Mehrkosten bei den vorbereitenden Tiefbauarbeiten zum Neubau des Verwaltungszentrums - Vertagung nach 22 Uhr
+- TOP 16: Vergabenummer: 2021-65-00189, Dienstleistungskonzession für ein exklusives Werberecht zur Ausübung von Werberechten im öffentlich nutzbaren Raum der Landeshauptstadt Dresden, Los 1 - CLB/Mega-Light, geklebte Großfläche, digitale Großscreens - erledigt
+- TOP 17: Vergabenummer: 2021-65-00179, Dienstleistungskonzession für ein exklusives Werberecht zur Ausübung von Werberechten im öffentlich nutzbaren Raum der Landeshauptstadt Dresden, Los 02 - FGU, CLP, digitale Kleinscreens - erledigt
+- TOP 18: Vergabenummer: 2021-65-00180, Dienstleistungskonzession für ein exklusives Werberecht zur Ausübung von Werberechten im öffentlich nutzbaren Raum der Landeshauptstadt Dresden, Los 03 - Litfaßsäulen, City Light Säulen (CLS) - erledigt
+- TOP 19: Vergabenummer: 2021-65-00181, Dienstleistungskonzession für ein exklusives Werberecht zur Ausübung von Werberechten im öffentlich nutzbaren Raum der Landeshauptstadt Dresden, Los 04 - Mastschilder - erledigt
+- TOP 20: Vergabenummer: 2021-65-00182, Dienstleistungskonzession für ein exklusives Werberecht zur Ausübung von Werberechten im öffentlich nutzbaren Raum der Landeshauptstadt Dresden, Los 05 - Uhren - erledigt
+- TOP 21: Fortschreibung der Kooperationsvereinbarung zur Förderung des Kleingartenwesens in der Landeshauptstadt Dresden (Förderprogramm) zwischen der Landeshauptstadt Dresden und dem Stadtverband der "Dresdner Gartenfreunde" e. V. - Vertagung nach 22 Uhr
+- TOP 22: Aufhebung der Kleingartenrahmenordnung der Landeshauptstadt Dresden vom 29. August 1996, Veröffentlichung im Dresdner Amtsblatt 39/96 vom 26. September 1996 - Vertagung nach 22 Uhr
+- TOP 23: Beförderung von Kultur- und Nachbarschaftszentren für Dresden - punktweise Zustimmung
+- TOP 24: Stromsperren verhindern - Vertagung nach 22 Uhr
+- TOP 25: Stromsperren verhindern - Vertagung nach 22 Uhr
+- TOP 26: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Vertagung nach 22 Uhr
+- TOP 27: Albertpark als Ort des Waldnaturschutzes, der Naturbildung und naturnahen Erholung weiterentwickeln - Vertagung nach 22 Uhr
+- TOP 28: Elbradweg sicher für alle - Fußgänger besser schützen - Vertagung durch Einreicher
+- TOP 29: Dresdner Bericht über die Lebensverhältnisse in den Stadtteilen (Gleichwertigkeitsbericht) - Vertagung nach 22 Uhr
+- TOP 30: Einrichtung einer „Nachtbürgermeisterin“ bzw. eines „Nachtbürgermeisters“ - Vertagung nach 22 Uhr
+- TOP 31: Teilhabe am sozialen und kulturellen Leben verbessern - Vertagung nach 22 Uhr
+- TOP 32: Untersuchung Population Kleine Hufeisennase Standort Waldschlößchenbrücke - Vertagung durch Einreicher
+- TOP 33: Vor dem Schaden klug sein: Aufarbeitung des Stromausfalls in Dresden im September 2021 und Wege zur Prävention - Vertagung durch Einreicher
+- TOP 34: Inhaltliche Korrektur der Stelentexte an den Gedenkstätten für die Opfer der Bombenangriffe auf Dresden im Februar 1945 - Vertagung nach 22 Uhr
+- TOP 35: Starke Region im Herzen Europas – interkommunale Zusammenarbeit der Landeshauptstadt Dresden mit dem Umland voranbringen - Vertagung nach 22 Uhr
+- TOP 36: Energiepreisexplosion entgegensteuern – Heizen darf nicht zu Armut führen - Vertagung nach 22 Uhr
+- TOP 37: Beteiligung des Stadtbezirksbeirats bei der Auswahl der Stadtbezirksamtsleiterin - Vertagung nach 22 Uhr
+- TOP 38: Übertragung der Stadtbezirksbeiratsmittel 2021 auf das Haushaltsjahr 2022 - Vertagung nach 22 Uhr
+- TOP 39: Aktive Maßnahmen zur Verhinderung von Energiearmut in einkommensschwachen Privathaushalten - Vertagung nach 22 Uhr
+- TOP 40: Entwicklungskonzeption für den Stadtbezirk Neustadt - Verweisung
+- TOP 41: Komplementäre und integrative Medizin entwickeln – Attraktivität des Städtischen Klinikums stärken - Vertagung
+- TOP 42: Wohnen muss bezahlbar sein. Mietpreisbremse für Dresden in Kraft setzen. - Vertagung nach 22 Uhr
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Bebauungsplan Dresden Friedrichstadt, Grüne Mitte Seminarstraße/Bräuergasse/Friedrichstraße - Vertagung durch Einreicher
+- TOP 46: Dresden für eine Aufwertung der Sozial- und Erziehungsberufe - Mehr Verantwortung braucht mehr Gehalt - Ablehnung
+- TOP 47: Sach- und Finanzierungsstand zur Vorlage V1416/16 „Einrichtung intermodaler Mobilitätspunkte in Dresden“ vom 23. März 2017 - zur Kenntnis genommen
