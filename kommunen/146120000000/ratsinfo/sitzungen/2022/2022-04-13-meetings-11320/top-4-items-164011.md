@@ -1,0 +1,8 @@
+# TOP 4: Aktuelle Stunde zum Thema "Attraktivität von Bus und Bahn in Dresden nachhaltig sichern"
+
+- Sitzung: 36. Sitzung des Stadtrates (2022-04-13)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/164011
+- Ergebnis: erledigt
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/50648
