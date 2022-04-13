@@ -1,18 +1,18 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2022-03-28 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_16032022.pdf
+- Datum: 2022-04-13 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_04042022.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
-in der Fassung der 26. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 16. März 2022
+in der Fassung der 27. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 4. April 2022
 
 - ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255, 2020, S. 1, S. 1647, S. 1648, 2021, S. 30, S. 134 –
-- Öffentliche Bekanntmachung vom 28.03.2022 -
+- Öffentliche Bekanntmachung vom 13.04.2022 -
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften § 12b Jugend- und Kinderfreundlichkeit
 II. Bürgerbeteiligung § 13 Unterrichtung der Einwohnerinnen und Einwohner über allgemein bedeutsame Angelegenheiten § 14 Anregungen und Beschwerden § 15 Einwohnerantrag § 16 Bürgerbegehren, Bürgerentscheid, Ratsbürgerentscheid
@@ -27,7 +27,7 @@ Aufgrund von §§ 7 Abs. 1, 41 Abs. 1 Satz 2 lit. f Gemeindeordnung NRW i. d. F.
 
 Seite 1 von 23
 
-Artikel 4 des Gesetzes vom 1. Dezember 2021 (GV. NRW. S. 1353) hat der Rat in seiner Sitzung vom 03.02.2022 folgende Satzung zur Änderung der Hauptsatzung vom 10.02.2009, zuletzt geändert durch die 25. Änderungssatzung der Hauptsatzung vom 9. September 2021 beschlossen:
+Artikel 4 des Gesetzes vom 1. Dezember 2021 (GV. NRW. S. 1353) hat der Rat in seiner Sitzung vom 17.03.2022 folgende Satzung zur Änderung der Hauptsatzung vom 10.02.2009, zuletzt geändert durch die 26. Änderungssatzung der Hauptsatzung vom 16.03.2022 beschlossen:
 
 I. Allgemeines
 
@@ -89,8 +89,8 @@ und der Bezirksvertretungen (§ 36 Abs. 3, § 58 Absätze 1 bis 4, § 67 Abs. 3 
 "Ich verpflichte Sie, Ihre Aufgabe als ....... nach bestem Wissen und Können wahrzunehmen, das Grundgesetz, die Verfassung des Landes Nordrhein-Westfalen und die Gesetze zu beachten und Ihre Pflichten zum Wohle der Stadt Köln zu erfüllen."
 (2) Sachkundige Bürgerinnen/Bürger und sachkundige Einwohnerinnen/Einwohner werden von der/dem Vorsitzenden des Ausschusses, zu dessen Mitgliedern sie gem. § 58 Absätze 1, 3 oder 4 GO bestellt werden, entsprechend Absatz 1 verpflichtet.
 §6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger
-(§ 43 Abs. 3 GO, § 16 Korruptionsbekämpfungsgesetz)
-(1) Innerhalb eines Monats nach ihrer Verpflichtung haben die Ratsmitglieder, die Mitglieder der Ausschüsse und der Bezirksvertretungen gegenüber der Oberbürgermeisterin/dem Oberbürgermeister und dem Ältestenrat, die Mitglieder einer Bezirksvertretung zusätzlich auch gegenüber der Bezirksbürgermeisterin/dem Bezirksbürgermeister schriftlich Auskunft über ihre persönlichen und wirtschaftlichen Verhältnisse zu geben, soweit dies für die Ausübung ihrer Tätigkeit von Bedeutung sein kann. Im Einzelnen sind anzugeben:
+(§ 43 Abs. 3 GO, § 7 Korruptionsbekämpfungsgesetz)
+(1) Innerhalb eines Monats nach ihrer Verpflichtung haben die Ratsmitglieder, die Mitglieder der Ausschüsse und der Bezirksvertretungen gegenüber der Oberbürgermeisterin/dem Oberbürgermeister und dem Ältestenrat, die Mitglieder einer Bezirksvertretung zusätzlich auch gegenüber der Bezirksbürgermeisterin/dem Bezirksbürgermeister schriftlich oder elektronisch Auskunft über ihre persönlichen und wirtschaftlichen Verhältnisse zu geben, soweit dies für die Ausübung ihrer Tätigkeit von Bedeutung sein kann. Im Einzelnen sind anzugeben:
 a) Name, Vorname, Anschrift;
 b) Familienstand, ggf. Namen von Ehefrau/Ehemann und Kindern;
 c) Grundvermögen innerhalb des Gebietes der Stadt Köln;
