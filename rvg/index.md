@@ -107,5 +107,5 @@
 - [§ 60 Übergangsvorschrift](0060.md)
 - [§ 61 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes](0061.md)
 - [§ 62 Verfahren nach dem Therapieunterbringungsgesetz](0062.md)
-- [Anlage 1 (zu § 2 Abs. 2)Vergütungsverzeichnis](anlage-1.md)
+- [Anlage 1 (zu § 2 Absatz 2)Vergütungsverzeichnis](anlage-1.md)
 - [Anlage 2 (zu § 13 Absatz 1 Satz 3)](anlage-2.md)
