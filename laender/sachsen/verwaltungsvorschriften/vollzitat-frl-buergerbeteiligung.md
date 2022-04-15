@@ -1,8 +1,8 @@
 # Vollzitat: FRL Bürgerbeteiligung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-02-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19504.1
+- Datum: 2022-04-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19504.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.02.2022
+15.04.2022
 bis
-14.04.2022
+29.06.2023
 
 FRL Bürgerbeteiligung
 
@@ -67,7 +67,7 @@ Verfahren
 
 1.
 
-Bewilligungsbehörde ist das Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung.
+Bewilligungsbehörde ist die Sächsische Aufbaubank – Förderbank.
 
 2.
 
@@ -79,7 +79,7 @@ Ein Aufruf zur Einreichung von Anträgen wird öffentlich bekannt gemacht. Mit d
 
 4.
 
-Die Bewilligungsbehörde nimmt eine zuwendungsrechtliche und finanzielle Prüfung der eingegangenen Anträge auf Vollständigkeit und Schlüssigkeit sowie in Bezug auf den Umfang des Finanzierungsvolumens vor.
+Die Bewilligungsbehörde nimmt eine zuwendungsrechtliche und finanzielle Prüfung der eingegangenen Anträge auf Vollständigkeit und Schlüssigkeit sowie in Bezug auf den Umfang des Finanzierungsvolumens vor und leitet diese anschließend an das Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung zur fachlichen Prüfung weiter.
 
 5.
 
@@ -87,7 +87,7 @@ Bei Förderanträgen gemäß Teil 2 Großbuchstabe B soll dem Antrag ein Unterst
 
 6.
 
-Die Bewilligungsbehörde entscheidet auf Basis einer fachlichen Prüfung im eigenen Ermessen und im Hinblick auf den Zuwendungszweck dem Grunde und der Höhe nach über die Förderwürdigkeit. In ihre Entscheidungsfindung bezieht sie die beratende Empfehlung eines externen Fachbeirats sowie die Stellungnahmen der jeweils fachlich unmittelbar betroffenen Ressorts der Staatsregierung und der jeweiligen unmittelbar betroffenen Gebietskörperschaften ein. Die betroffenen Ressorts haben innerhalb von zehn Arbeitstagen zu den Förderanträgen Stellung zu nehmen, dabei ist ihnen die Stellungnahme der betroffenen Gebietskörperschaft nach Nummer 5 oder das Unterstützungsschreiben nach Teil 2 Großbuchstabe B Ziffer IV Nummer 3 zur Kenntnis zu geben. Sofern sich aus der Votierung der Gebietskörperschaft nach Nummer 5 oder des betroffenen Ressorts in Einzelfällen ein fachlich begründeter Abstimmungsbedarf ergibt, ist dieser unter Übernahme der Koordinierung durch das Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung auszuräumen.
+Das Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung entscheidet auf Basis einer fachlichen Prüfung im eigenen Ermessen und im Hinblick auf den Zuwendungszweck dem Grunde und der Höhe nach über die Förderwürdigkeit. In seine Entscheidungsfindung bezieht es die beratende Empfehlung eines externen Fachbeirats sowie die Stellungnahmen der jeweils fachlich unmittelbar betroffenen Ressorts der Staatsregierung und der jeweiligen unmittelbar betroffenen Gebietskörperschaften ein. Die betroffenen Ressorts haben innerhalb von zehn Arbeitstagen zu den Förderanträgen Stellung zu nehmen, dabei ist ihnen die Stellungnahme der betroffenen Gebietskörperschaft nach Nummer 5 oder das Unterstützungsschreiben nach Teil 2 Großbuchstabe B Ziffer IV Nummer 3 zur Kenntnis zu geben. Sofern sich aus der Votierung der Gebietskörperschaft nach Nummer 5 oder des betroffenen Ressorts in Einzelfällen ein fachlich begründeter Abstimmungsbedarf ergibt, ist dieser unter Übernahme der Koordinierung durch das Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung auszuräumen. Das Ergebnis der fachlichen Prüfung wird der Bewilligungsbehörde übermittelt.
 
 7.
 
@@ -208,7 +208,7 @@ als Bürgerkommune maximal 80 000 Euro pro Kalenderjahr.
 
 3.
 
-In begründeten Einzelfällen, insbesondere bei der Beantragung als Verbund, kann die Bewilligungsbehörde eine höhere Zuwendung gewähren.
+In begründeten Einzelfällen, insbesondere bei der Beantragung als Verbund, kann die Bewilligungsbehörde im Einvernehmen mit dem Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung eine höhere Zuwendung gewähren.
 
 4.
 
@@ -282,7 +282,7 @@ Die Zuwendung wird im Rahmen einer Projektförderung als Anteilfinanzierung in F
 
 2.
 
-Die Höhe der Zuwendung soll 5 000 Euro nicht unterschreiten und maximal 80 000 Euro pro Kalenderjahr betragen. In begründeten Ausnahmefällen kann die Bewilligungsbehörde eine höhere Zuwendung gewähren.
+Die Höhe der Zuwendung soll 5 000 Euro nicht unterschreiten und maximal 80 000 Euro pro Kalenderjahr betragen. In begründeten Ausnahmefällen kann die Bewilligungsbehörde im Einvernehmen mit dem Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung eine höhere Zuwendung gewähren.
 
 3.
 
@@ -313,9 +313,9 @@ Fsn-Nr.: 5500-V22.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. Februar 2022
+Fassung gültig ab: 15. April 2022
 
-Fassung gültig bis: 14. April 2022
+Fassung gültig bis: 29. Juni 2023
 
 Drucken/Speichern
 
@@ -340,7 +340,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19504.1
+https://www.revosax.sachsen.de/vorschrift/19504.2
 Stand vom
 18.11.2026
 
