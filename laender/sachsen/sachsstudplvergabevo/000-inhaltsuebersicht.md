@@ -32,8 +32,8 @@ Abschnitt 1 Allgemeine Vorschriften
 § 25 Anwendungsbereich
 § 26 Form und Frist des Zulassungsantrags
 § 27 Ausschluss vom Vergabeverfahren
-Abschnitt 2 Studienplatzvergabe für Studienanfänger in grundständigen Studiengängen
-§ 28 Studienanfänger
+Abschnitt 2 Studienplatzvergabe für Studienanfängerinnen und Studienanfänger in grundständigen Studiengängen
+§ 28 Studienanfängerinnen und Studienanfänger
 § 29 Quoten
 § 30 Ablauf des Vergabeverfahrens
 § 31 Vorwegzulassung

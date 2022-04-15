@@ -3,9 +3,103 @@
 ## Anlage 5 Berechnung der Punktwerte
 # Anlage 6 (zu § 23 Absatz 2 Nummer 3)
 Anerkannte Berufsausbildungen und -tätigkeiten
-Berufsausbildungen und Berufstätigkeiten Medizin
-Altenpfleger Anästhesietechnischer Assistent Arzthelfer Biologielaborant Chemielaborant Diätassistent Ergotherapeut Gesundheits- und Kinderkrankenpfleger Gesundheits- und Krankenpfleger Hebamme/Entbindungspfleger Kinderkrankenschwester/-pfleger Krankenschwester/-pfleger Logopäde Medizinischer Fachangestellter Medizinisch-technischer Assistent – Funktionsdiagnostik Medizinisch-technischer Assistent (MTA) Medizinisch-technischer Laboratoriumsassistent Medizinisch-technischer Radiologieassistent Medizinlaborant Notfallsanitäter Operationstechnischer Angestellter Operationstechnischer Assistent Orthoptist Physiotherapeut Radiologisch-technischer Assistent (RTA) Rettungsassistent Veterinärmedizinisch-technischer Assistent
-Berufsausbildungen und Berufstätigkeiten Zahnmedizin
-Altenpfleger Anästhesietechnischer Assistent Arzthelfer Biologielaborant Chemielaborant Diätassistent Ergotherapeut Gesundheits- und Kinderkrankenpfleger Gesundheits- und Krankenpfleger Hebamme/Entbindungspfleger Kinderkrankenschwester/-pfleger Krankenschwester/-pfleger Logopäde Medizinischer Fachangestellter Medizinisch-technischer Assistent – Funktionsdiagnostik Medizinisch-technischer Assistent (MTA) Medizinisch-technischer Laboratoriumsassistent Medizinisch-technischer Radiologieassistent Medizinlaborant Notfallsanitäter Operationstechnischer Angestellter Operationstechnischer Assistent Orthoptist Physiotherapeut Radiologisch-technischer Assistent (RTA) Rettungsassistent Stomatologische Schwester Veterinärmedizinisch-technischer Assistent Zahnarzthelfer Zahnärztlicher Helfer Zahnmedizinischer Fachangestellter Zahntechniker
-Berufsausbildungen und Berufstätigkeiten Tiermedizin
-Anästhesietechnischer Assistent Biologielaborant Chemielaborant Fischwirt Fleischer Landwirt Medizinisch-technischer Assistent – Funktionsdiagnostik Medizinisch-technischer Assistent (MTA) Medizinisch-technischer Laboratoriumsassistent Medizinisch-technischer Radiologieassistent Medizinlaborant Operationstechnischer Angestellter Operationstechnischer Assistent Pferdewirt Tierarzthelfer Tiermedizinischer Fachangestellter Tierpfleger Tierwirt Veterinärmedizinisch-technischer Assistent Berufsausbildungen und Berufstätigkeiten Pharmazie Biologielaborant Biologisch-technischer Assistent Biotechnologischer Assistent Chemielaborant Chemikant Chemisch-technischer Assistent Medizinisch-technischer Assistent – Funktionsdiagnostik Medizinisch-technischer Assistent (MTA) Medizinisch-technischer Laboratoriumsassistent Medizinisch-technischer Radiologieassistent Medizinlaborant Pharmakant Pharmazeutisch-technischer Assistent Physikalisch-technischer Assistent Physiklaborant Technischer Assistent – Chemische und biologische Laboratorien
+(1) Medizin
+Altenpflegerin/Altenpfleger
+Anästhesietechnische Assistentin/Anästhesietechnischer Assistent
+Arzthelferin/Arzthelfer
+Biologielaborantin/Biologielaborant
+Chemielaborantin/Chemielaborant
+Diätassistentin/Diätassistent
+Ergotherapeutin/Ergotherapeut
+Gesundheits- und Kinderkrankenpflegerin/Gesundheits- und Kinderkrankenpfleger
+Gesundheits- und Krankenpflegerin/Gesundheits- und Krankenpfleger
+Hebamme/Entbindungspfleger
+Kinderkrankenschwester/Kinderkrankenpfleger
+Krankenschwester/Krankenpfleger
+Logopädin/Logopäde
+Medizinische Fachangestellte/Medizinischer Fachangestellter
+Medizinisch-technische Assistentin – Funktionsdiagnostik/Medizinisch-technischer Assistent – Funktionsdiagnostik
+Medizinisch-technische Assistentin (MTA)/Medizinisch-technischer Assistent (MTA)
+Medizinisch-technische Laboratoriumsassistentin/Medizinisch-technischer Laboratoriumsassistent
+Medizinisch-technische Radiologieassistentin/Medizinisch-technischer Radiologieassistent
+Medizinlaborantin/Medizinlaborant
+Notfallsanitäterin/Notfallsanitäter
+Operationstechnische Angestellte/Operationstechnischer Angestellter
+Operationstechnische Assistentin/Operationstechnischer Assistent
+Orthoptistin/Orthoptist
+Pflegefachfrau/Pflegefachmann
+Physiotherapeutin/Physiotherapeut
+Radiologisch-technische Assistentin (RTA)/Radiologisch-technischer Assistent (RTA)
+Rettungsassistentin/Rettungsassistent
+Veterinärmedizinisch-technische Assistentin/Veterinärmedizinisch-technischer Assistent
+(2) Zahnmedizin
+Altenpflegerin/Altenpfleger
+Anästhesietechnische Assistentin/Anästhesietechnischer Assistent
+Arzthelferin/Arzthelfer
+Biologielaborantin/Biologielaborant
+Chemielaborantin/Chemielaborant
+Diätassistentin/Diätassistent
+Ergotherapeutin/Ergotherapeut
+Gesundheits- und Kinderkrankenpflegerin/Gesundheits- und Kinderkrankenpfleger
+Gesundheits- und Krankenpflegerin/Gesundheits- und Krankenpfleger
+Hebamme/Entbindungspfleger
+Kinderkrankenschwester/Kinderkrankenpfleger
+Krankenschwester/Krankenpfleger
+Logopädin/Logopäde
+Medizinische Fachangestellte/Medizinischer Fachangestellter
+Medizinisch-technische Assistentin – Funktionsdiagnostik/Medizinisch-technischer Assistent – Funktionsdiagnostik
+Medizinisch-technische Assistentin (MTA)/Medizinisch-technischer Assistent (MTA)
+Medizinisch-technische Laboratoriumsassistentin/Medizinisch-technischer Laboratoriumsassistent
+Medizinisch-technische Radiologieassistentin/Medizinisch-technischer Radiologieassistent
+Medizinlaborantin/Medizinlaborant
+Notfallsanitäterin/Notfallsanitäter
+Operationstechnische Angestellte/Operationstechnischer Angestellter
+Operationstechnische Assistentin/Operationstechnischer Assistent
+Orthoptistin/Orthoptist
+Pflegefachfrau/Pflegefachmann
+Physiotherapeutin/Physiotherapeut
+Radiologisch-technische Assistentin (RTA)/Radiologisch-technischer Assistent (RTA)
+Rettungsassistentin/Rettungsassistent
+Stomatologische Schwester
+Veterinärmedizinisch-technische Assistentin/Veterinärmedizinisch-technischer Assistent
+Zahnarzthelferin/Zahnarzthelfer
+Zahnärztliche Helferin/Zahnärztlicher Helfer
+Zahnmedizinische Fachangestellte/Zahnmedizinischer Fachangestellter
+Zahntechnikerin/Zahntechniker
+(3) Tiermedizin
+Anästhesietechnische Assistentin/Anästhesietechnischer Assistent
+Biologielaborantin/Biologielaborant
+Chemielaborantin/Chemielaborant
+Fischwirtin/Fischwirt
+Fleischerin/Fleischer
+Landwirtin/Landwirt
+Medizinisch-technische Assistentin – Funktionsdiagnostik/Medizinisch-technischer Assistent – Funktionsdiagnostik
+Medizinisch-technische Assistentin (MTA)/Medizinisch-technischer Assistent (MTA)
+Medizinisch-technische Laboratoriumsassistentin/Medizinisch-technischer Laboratoriumsassistent
+Medizinisch-technische Radiologieassistentin/Medizinisch-technischer Radiologieassistent
+Medizinlaborantin/Medizinlaborant
+Operationstechnische Angestellte/Operationstechnischer Angestellter
+Operationstechnische Assistentin/Operationstechnischer Assistent
+Pferdewirtin/Pferdewirt
+Tierarzthelferin/Tierarzthelfer
+Tiermedizinische Fachangestellte/Tiermedizinischer Fachangestellter
+Tierpflegerin/Tierpfleger
+Tierwirtin/Tierwirt
+Veterinärmedizinisch-technische Assistentin/Veterinärmedizinisch-technischer Assistent
+(4) Pharmazie
+Biologielaborantin/Biologielaborant
+Biologisch-technische Assistentin/Biologisch-technischer Assistent
+Biotechnologische Assistentin/Biotechnologischer Assistent
+Chemielaborantin/Chemielaborant
+Chemikantin/Chemiekant
+Chemisch-technische Assistentin/Chemisch-technischer Assistent
+Medizinisch-technische Assistentin – Funktionsdiagnostik/Medizinisch-technischer Assistent – Funktionsdiagnostik
+Medizinisch-technische Assistentin (MTA)/Medizinisch-technischer Assistent (MTA)
+Medizinisch-technische Laboratoriumsassistentin/Medizinisch-technischer Laboratoriumsassistent
+Medizinisch-technische Radiologieassistentin/Medizinisch-technischer Radiologieassistent
+Medizinlaborantin/Medizinlaborant
+Pharmakantin/Pharmakant
+Pharmazeutisch-technische Assistentin/Pharmazeutisch-technischer Assistent
+Physikalisch-technische Assistentin/Physikalisch-technischer Assistent
+Physiklaborantin/Physiklaborant
+Technische Assistentin – Chemische und biologische Laboratorien/Technischer Assistent – Chemische und biologische Laboratorien.
