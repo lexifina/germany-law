@@ -1,0 +1,8 @@
+# TOP 6.4: Symposium der Gewerbeflächenvermieter - Gewerbemieten auf den Prüfstand stellen (allein beratend)
+
+- Sitzung: 5. Sitzung in der IX. Wahlperiode des Ausschusses Europa, Wirtschaftsförderung und Sozialraumsteuerung (2022-04-20)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=58361
+- Ergebnis: im Ausschuss abgelehnt
+- Beratung: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=58361
