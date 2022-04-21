@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Fachverkäufer im 
-Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk
+# Verordnung über die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)

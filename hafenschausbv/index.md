@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Hafenschiffer/zur 
-Hafenschifferin
+# Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)

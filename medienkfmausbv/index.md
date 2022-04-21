@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Medienkaufmann Digital und
-Print/zur Medienkauffrau Digital und Print
+# Verordnung über die Berufsausbildung zum Medienkaufmann Digital und Print/zur Medienkauffrau Digital und Print
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)

@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Produktprüfer-Textil/zur 
-Produktprüferin-Textil
+# Verordnung über die Berufsausbildung zum Produktprüfer-Textil/zur Produktprüferin-Textil
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)

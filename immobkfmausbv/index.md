@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Immobilienkaufmann/zur 
-Immobilienkauffrau
+# Verordnung über die Berufsausbildung zum Immobilienkaufmann/zur Immobilienkauffrau
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)

@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Sport- und Fitnesskaufmann/zur 
-Sport- und Fitnesskauffrau
+# Verordnung über die Berufsausbildung zum Sport- und Fitnesskaufmann/zur Sport- und Fitnesskauffrau
 
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
 - [§ 2 Dauer der Berufsausbildung](0002.md)

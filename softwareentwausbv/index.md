@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Mathematisch-technischen 
-Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
+# Verordnung über die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)

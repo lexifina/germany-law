@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur 
-Flechtwerkgestalterin
+# Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)

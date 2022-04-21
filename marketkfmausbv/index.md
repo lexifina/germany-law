@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Kaufmann für
-Marketingkommunikation/zur Kauffrau für Marketingkommunikation
+# Verordnung über die Berufsausbildung zum Kaufmann für Marketingkommunikation/zur Kauffrau für Marketingkommunikation
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)

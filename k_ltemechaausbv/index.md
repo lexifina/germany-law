@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung zum Mechatroniker für 
-Kältetechnik/zur Mechatronikerin für Kältetechnik
+# Verordnung über die Berufsausbildung zum Mechatroniker für Kältetechnik/zur Mechatronikerin für Kältetechnik
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
