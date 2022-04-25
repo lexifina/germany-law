@@ -1,0 +1,89 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-04-25T18:02:00+02:00
+- Ende: 2022-04-25T22:12:00+02:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXiJ2cVmR0zpDtLzBBDmzrs
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7469
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfMViANVT9Q1WM1Wnim6x88F3W8mmLwtQ0ll19oehzBz/Bekanntmachung_Rat_25.04.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRr1-wtAw6RjCg9aGKNgDIbJB1owdbrerC7Dx96zzRb7/Oeffentliche_Niederschrift_Rat_25.04.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Regionalplan I
+- TOP 1.2: Schutzräume
+- TOP 1.3: Vorsorge Starkregen
+- TOP 1.4: Neubau Feuerwache
+- TOP 1.5: Regionalplan II
+- TOP 1.6: Hochschule des Bundes
+- TOP 2.: Niederschrift vom 21.02.2022
+- TOP 3.: Wahl einer Technischen Beigeordneten / eines Technischen Beigeordneten - (kein Text vorhanden)
+- TOP 4.: Rückführung der AöR
+- TOP 4.1: Auflösung des Stadtservicebetriebes AÖR und Rückführung in die Stadtverwaltung Bezug: HA 15.11.21, Vorl. 530/2021 und Rat 13.12.21, TOP 9, Vorlage 466/2021 - (kein Text vorhanden)
+- TOP 4.2: Rückführung des Stadtservicebetriebes AöR in den Kernhaushalt Hier: Satzung zur Aufhebung der Satzung der Stadt Brühl für die Anstalt des öffentlichen Rechts Bezug: Vorlage 128/2022 - (kein Text vorhanden)
+- TOP 5.: Beitritt der Stadt Brühl zur Städteinitiative "Lebenswerte Städte durch angemessene Geschwindigkeiten" Bezug: Antrag der Fraktionen SPD und Grüne vom 07.01.2022 - (kein Text vorhanden)
+- TOP 6.: Parkraumkonzept der Stadt Brühl Bezug: VL 83/2020 - (kein Text vorhanden)
+- TOP 7.: Strukturelle Änderungen im kulturellen Bildungsprogramm JeKits - (kein Text vorhanden)
+- TOP 7.1: Strukturelle Änderungen im kulturellen Bildungsprogramm JeKits hier: Aufschlüsselung der Kosten für das Bildungsprogramm JeKits Bezug: KPTA 17.03.2022, Vorlage Nr. 81/2022
+- TOP 8.: Betreff :Spielraumplanung hier: Annahme einer Spende für inklusive Spielgeräte auf Brühler Spielplätzen Bezug: Schreiben der Bürgerstiftung Brühl vom 01.03.2022 - (kein Text vorhanden)
+- TOP 9.: Unterrichtung nach § 62 Abs. 4 GO NRW Verkündung Urteil im Rechtsstreit der Heider Bergsee Campus Wohnen GmbH, Heider Bergsee Campus Wohnen West GmbH sowie Heider Bergsee Campus Grundbesitz GmbH gegen die Stadt Brühl Bezug: Vorlage 134/2022
+- TOP 10.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 10.1: Umgestaltung Schulstraße/Talstraße - (kein Text vorhanden)
+- TOP 10.1.1: Umgestaltung Schulstraße/Talstraße Bezug: Antrag der CDU-Fraktion vom 11.04.2022, Vorlagen Nr. 141/2022 - (kein Text vorhanden)
+- TOP 10.2: Umgestaltung Berliner Ring - (kein Text vorhanden)
+- TOP 10.3: (Kriegs)Vertriebene aus der Ukraine, Über/außerplanmäßige Mittelbereitstellung I - (kein Text vorhanden)
+- TOP 10.4: Zuschuss an die Partnergemeinde Kunice in Polen zur Unterstützung bei der Aufnahme ukrainischer Geflüchteter - (kein Text vorhanden)
+- TOP 10.5: Überplanmäßige Mittelbereitstellung für das Clemens August-Forum - (kein Text vorhanden)
+- TOP 11.: Satzungen
+- TOP 11.1: 2. Änderung der Satzung über die Benutzung öffentlicher Spiel- und Bolzplätze und Schulhöfe der Stadt Brühl als Kinderspielplätze und 1. Änderung der Ordnungsbehördlichen Verordnung über die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Brühl (Brühler Stadtordnung) - (kein Text vorhanden)
+- TOP 11.2: Stellplatzsatzung Stadt Brühl Bezug: Vorlage-Nr. 491/2020, AfVM 01.12.2020 - (kein Text vorhanden)
+- TOP 12.: Fraktionsauflösung Linke&Piraten
+- TOP 12.1: Auflösung der Ausschüsse, Veränderung der Ausschussgröße und Neubildung der Ausschüsse hier: Fraktionsauflösung Linke&Piraten - (kein Text vorhanden)
+- TOP 12.2: Umbesetzung im Jugendhilfeausschuss hier: Auflösung der Fraktion Linke&Piraten - (kein Text vorhanden)
+- TOP 12.3: Umbesetzung im Integrationsrat hier: Auflösung der Fraktion Linke&Piraten - (kein Text vorhanden)
+- TOP 12.4: Zusammensetzung der Ausschüsse hier: fraktionsloses Ratsmitglied Eckhard Riedel - (kein Text vorhanden)
+- TOP 12.5: Zusammensetzung der Ausschüsse hier: fraktionsloses Ratsmitglied Harry Hupp - (kein Text vorhanden)
+- TOP 12.6: Umbesetzung im Aufsichtsrat Stadtwerke Brühl GmbH hier: Auflösung der Fraktion Linke&Piraten - (kein Text vorhanden)
+- TOP 12.7: Umbesetzung im Aufsichtsrat der Gesellschaft für Bauen und Wohnen mbH (GEBAUSIE) hier: Auflösung der Fraktion Linke&Piraten - (kein Text vorhanden)
+- TOP 12.8: Umbesetzung im Verwaltungsrat AöR hier: Auflösung der Fraktion Linke&Piraten - (kein Text vorhanden)
+- TOP 13.: Bestellung von Vertretungen der Stadt in besonderen Einrichtungen hier: Zweckverbandsversammlung des Verkehrsverbundes Rhein-Sieg - (kein Text vorhanden)
+- TOP 14.: Anträge
+- TOP 14.1: Beitritt der Stadt Brühl zur europäischen Städtekoalition gegen Rassismus (ECCAR) Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne sowie der Liste "Brühl International" vom 07.02.2022 - (kein Text vorhanden)
+- TOP 14.2: Prüfauftrag für die Umsetzung der Errichtung einer Freiflächen-Photovoltaikanlage mit Bürgerbeteiligung Bezug: Antrag der CDU-Fraktion vom 01.04.2022 - (kein Text vorhanden)
+- TOP 14.3: Aussetzung des Vorhabens Citybus Bezug: Antrag der FDP-Fraktion vom 05.04.2022 - (kein Text vorhanden)
+- TOP 15.: Umbesetzung in Ausschüssen
+- TOP 15.1: Umbesetzung in Ausschüssen Bezug: Antrag der Grünen-Fraktion vom 14.04.2022 - (kein Text vorhanden)
+- TOP 15.2: Umbesetzung in Ausschüssen Bezug: Antrag der FDP-Fraktion vom 21.04.2022 - (kein Text vorhanden)
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen
+- TOP 17.1: Risikomanagement der Stadt Brühl Hier: Blackout-Szenario-Vorsorge Bezug: Anfrage der AfD-Fraktion vom 22.02.2022
+- TOP 17.2: Phantasialand
+- TOP 17.3: Mülldeponie
+- TOP 17.4: Tagesordnung der Ratssitzungen
+- TOP 17.5: Geruchsbelästigung
+- TOP 17.6: Renault Deutschland
+- TOP 17.7: Anfragen aus dem Verkehrsausschuss
+- TOP 17.8: Vermächtnis zugunsten der Stadt Brühl
+- TOP B): Nichtöffentliche Sitzung
+- TOP 18.: Abberufung der Leiterin der örtlichen Rechnungsprüfung und Bestellung eines neuen Leiters der örtlichen Rechnungsprüfung - (kein Text vorhanden)
+- TOP 19.: (Kriegs)Vertriebene aus der Ukraine Hier: Darstellung zum Sachstand Unterbringungsmöglichkeiten Bezug: öffentliche Vorlage Rat 176/2022 mit üpl. Mittelbereitstellung
+- TOP 20.: Unterrichtung nach § 62 Abs. 4 GO NRW Gerichtlicher Vergleich vor dem Landesarbeitsgericht
+- TOP 21.: Neue Zielvereinbarungsstruktur und Ergänzung zum Anstellungsvertrag des Geschäftsführers der Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 22.: Änderung des Gesellschaftsvertrags mit der RVK - (kein Text vorhanden)
+- TOP 23.: Genehmigung Bestellung neuer Busse - (kein Text vorhanden)
+- TOP 24.: Satzungsänderung Quantum GmbH - (kein Text vorhanden)
+- TOP 25.: Heider Bergsee Campus
+- TOP 25.1: Dringlichkeitsentscheidung gem. § 60 Abs. 1 GO NRW zur Unterbreitung eines Vergleichsangebots an die Klägerinnen Heider Bergsee Campus Wohnen GmbH, Heider Bergsee Campus Wohnen West GmbH sowie Heider Bergsee Campus Grundbesitz GmbH
+- TOP 25.2: Unterrichtung nach § 62 Abs. 4 GO NRW Vergleichsangebot
+- TOP 25.3: Unterrichtung nach § 62 Abs. 4 GO NRW Urteilsverkündung
+- TOP 25.4: Unterrichtung nach § 62 Abs. 4 GO NRW
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen
+- TOP 27.1: Risikomanagement der Stadt Brühl Bezug: Anfrage der AfD-Fraktion vom 22.02.2022, Vorlagen Nr. 108/2022 hier: Beantwortung der Anfrage
+- TOP 27.2: Technischer Beigeordneter
