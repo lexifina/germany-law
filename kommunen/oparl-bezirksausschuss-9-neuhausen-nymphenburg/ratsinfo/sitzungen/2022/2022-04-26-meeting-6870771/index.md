@@ -1,0 +1,198 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2022-04-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6870771
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6870771
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Einladung in den BA-Vorstand
+- TOP 1.4.: Besetzung der Unterausschüsse - Verkehr - Bau- und Stadtplanung - Umwelt und Klimaschutz - Bildung, Sport und Gesundheit
+- TOP 1.5.: Benennung der/des Beauftragten - für REGSAM - Gleichstellung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018: - Gaststätte "Yee Chino", Helene-Weber-Allee 19 - Gaststätte "Pilsquelle", Heideckstr. 14 - Gaststätte "Al Shaam", Leonrodstr. 45 - "Gorilla Bar", Hirschbergstr. 23 - "Das Neuhausen", Blutenburgstr. 106 - Gaststätte "News Bar", Leonrodstr. 77 - Gaststätte "Abysinia Treff", Dachauer Str. 189
+- TOP 3.1.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.17: Antrag auf Aufstellen einer Zeitungsentnahmevorrichtung: - Menzinger Str. 56 neben Bushaltehäuschen - Romanplatz 3 vor dem Kiosk
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Umgestaltung der Kreuzung Renata- / Nymphenburger Straße / Südliche Auffahrtsallee / Gerner Brücke - vertagt aus 03/22 -
+- TOP 3.2.2.: Zugeparkte Straßenkreuzungen und Umgebung von Zebrastreifen - vertagt aus 03/22 -
+- TOP 3.2.3.: Zaun an der Tramhaltestelle am Leonrodplatz
+- TOP 3.2.4.: Umgestaltung der Kreuzung Renata- / Nymphenburger Str. / Südliche Auffahrtsallee / Gerner Brücke
+- TOP 3.2.5.: Verkehrssituation Südliche Auffahrtsallee
+- TOP 3.2.6.: Gefahrenstelle Radverkehr
+- TOP 3.2.7.: Parklizenz im Bereich des Hirschgartens
+- TOP 3.2.8.: Verkehrssituation Rotkreuzplatz Süd
+- TOP 3.2.9.: Erweiterung der Fahrrad-Abstellmöglichkeiten vor dem Haus Dantestr. 1
+- TOP 3.2.10.: Überprüfung Alternative für Fußweg am Canaletto zur Dantestraße
+- TOP 3.2.11.: Einsatz autonomer Kleinbusse für das Quartier St. Vinzenz und Ebenau
+- TOP 3.2.12.: Radwege über die Donnersbergerbrücke
+- TOP 3.2.13.: Baustelle Elvirastr. 17
+- TOP 3.2.14.: Reduzierung Geschwindigkeit in der Dachauer Straße, Schaffung durchgehender Radstreifen entlang der Dachauer Straße
+- TOP 3.2.15.: Markierung des Radwegs an der Kreuzung Wotan-/Winfriedstraße
+- TOP 3.2.16.: Verkehrsberuhigung Wendl-Dietrich-Straße
+- TOP 3.2.17.: Frage zum Beleuchtungskonzept am Romansplatz
+- TOP 3.2.18.: Lärmbelästigung durch Kurzparkzone vor dem Betreuten Wohnen der Malteser im St. Vinzenz-Rondell und Gabriellenstr. 26
+- TOP 3.2.19.: Überdachung des Schanigartens in der Elvirastr. 11
+- TOP 3.2.20.: Schulwegsicherheit in Machbarkeitsstudie zur Querung der Schwere-Reiter-Straße integrieren
+- TOP 3.2.21.: Freigabe Fußweg für Radfahrer im Hirschgarten
+- TOP 3.2.22.: Bürgernahe Umgestaltung der Straßenbeleuchtung Nibelungenstraße (vor allem zwischen Winthirstraße und Wintirplatz)
+- TOP 3.2.23.: Radverkehr am Konten Wotanstraße mit Winfried-/Margarete-Danzi-Straße konfliktfreier gestalten
+- TOP 3.2.24.: Barrierefreier Zugang zum Platz vor dem Ambigon verbessern
+- TOP 3.2.25.: Fussgänger*innen Sicherheit geben in der Wotanstraße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: 2. Stammstrecke München - 17. Planänderung zm Planfeststellungsbeschluss PFA 1, Verschiebung der Weichenverbindungen im Bereich Laimer Unterführung
+- TOP 3.3.2.: Parkscheinautomaten-Standorte für das Parklizenzgebiet Apostelblöcke und Anpassung Gebietsgrenzen der Parklizenzgebiete Rotkreuzplatz Nord und Rotkreuzplatz Süd in der Renatastraße
+- TOP 3.3.3.: Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Landshuter Allee 181
+- TOP 3.3.4.: Blade-Night 2022 ab 09.05.22, Start/Ziel: Am Bavariapark - Vorabzustimmung -
+- TOP 3.3.5.: Nördliche Auffahrtsallee - Verkehrsführung/Beschilderung
+- TOP 3.3.6.: Straßenbaumaßnahme in der Renatastraße zwischen Lachner- und Jagdstraße - Vorabstellungnahme durch UA-Vorsitzenden -
+- TOP 3.3.7.: Novelierung der Sondernutzungsrichtlinien - Vorabstellungnahme durch BA-Vorsitzende -
+- TOP 3.3.8.: Leistungsprogramm 2023 der MVG zum Fahrplanwechsel Dezember 2022
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Leonrodstraße - Einfädelspur für Radler*innen
+- TOP 3.4.2.: Parkraummanagement Neuwittelsbach
+- TOP 3.4.3.: Prüfung einer Einbahnregelung in der Minervius Straße, Heideckstraße, Raglovichstraße
+- TOP 3.4.4.: Saisonale Stadträume - Auswahlverfahren Sommerstraßen 2022 - Ergebnisse und weiteres Vorgehen
+- TOP 3.4.5.: (U) Radschnellverbindungen in München und Umland, Ergebnisse der sechs vertieften Machbarkeitsstudien und Empfehlung zur vertieften Planung und Umsetzung einer ausgewählten Trasse Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2022 und 2023 aus der Nahmobilitätspauschale
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verkehrsrechtliche Anordnung: - Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten und ähnliche Einrichtungen in der Wendl-Dietrich-Straße im Abschnitt zwischen östlich Steubenplatz bis westlich Winthirplatz - Eisnergutbogen 19: Errichtung einer Hol- und Bringzone für eine Kindertagesstätte - Winthirstraße: Errichtung absolutes Haltverbot - Wendl-Dietrich-Straße: Errichtung Ladezone - Albrechtstraße: Aufhebung der Bücherbushaltestelle
+- TOP 3.5.2.: (U) Saisonale Stadträume – II, Produkt 43122300 Straßenverkehrume - II Beschluss über die Finanzierung für das Jahr 2022 und 2023 aus der Nahmobilitätspauschale 1. Anlass 2. Sommerstraßen 3. Temporäre Spielstraßen 4. Bürgerschaftliche Initiativen und Interventionen im Straßenraum 5. Parklets 6. Notwendige Sachmittel 7. Behandlung der Anträge
+- TOP 3.5.3.: Präsentation zur Veranstaltung Nahverkehrsplan der LHM - Themenfeld Infrastruktur am 30.03.22
+- TOP 3.5.4.: Verkehrsrechtliche Anordnung: Antrag auf Verlängerung - Baumaßnahme SWM Nymphenburger Straße/Schulstraße
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Bericht Mobilitätsreferat Susanne Heinrich / Christina Steinwender - vertagt aus 03/22 -
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.1.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.18 über die Projektplanung: Leonrodplatz - Vorplatz Strafjustizzentrum
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Baumfällung zu einem Bauvorhaben: Dom-Pedro-Platz 3-5 - vertagt aus 03/22 -
+- TOP 4.3.2.: Dantestr. 14 - Änderung der Denkmalliste nach Art. 2 Bayer. Denkmalschutzgesetz: Bayerische Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München; Nachtrag des Tribünenbaus und Eingangsbauwerks des Dantestadions in die Denkmalliste
+- TOP 4.3.3.: Baumfällung zu einem Bauvorhaben: Schulstr. 16 a
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Leerstands- und Potentialflächenkataster
+- TOP 4.4.2.: Paketpost-Areal - Stellungnahme Münchner Forum zum Bürger*innengutachten und Stellungnahme des Arbeitskreises Denkmalnetz Bayern
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: (U) Bebauungsplan mit Grünordnung Nr. 2147 -PaketPost-Areal A) Ergebnis des Bürgergutachtens B) Weiteres Vorgehen C) Bürgerversammlungsempfehlungen (siehe BE) Stadtbezirk 9 - Neuhausen-Nymphenburg
+- TOP 4.5.2.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 4.5.3.: (U) Vereinbarkeit von § 10 Abs. 3 und 4 der Satzung des Vereins zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V. mit dem Gebot der Haftungsbegrenzung gem. Art. 92 Abs. 1 Satz 1 Nr. 3 GO – Prüfauftrag des Bayer. Kommunalen Prüfungsverbandes aus dem Jahr 2013 / 2021
+- TOP 4.5.4.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 4.5.5.: (U) Wohnen in München VI - Erfahrungsbericht für das Jahr 2021
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Vorbescheid Vorstellung Schulstr. 16 a
+- TOP 4.6.2.: Reinmarplatz - Kinderfreundlicher Innenhof
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Ausbau PV-Anlagen in Neuhausen-Nymphenburg bis 2030 - vertagt aus 03/22 -
+- TOP 5.2.2.: Umweltproblem in der Anlage Ecke Arnulfstraße / Landshuterallee
+- TOP 5.2.3.: Altglascontainer am Wertachplatz / Nederling
+- TOP 5.2.4.: Baumfällung Lachmannstraße / Bolivarstraße
+- TOP 5.2.5.: PV-Anlagen auf städtischen, GWG und GEWOFAG Gebäuden in Neuhausen-Nymphenburg
+- TOP 5.2.6.: Mehrwegsysteme bewerben
+- TOP 5.2.7.: Ausbau Fernwärme mit Geothermie in Neuhausen-Nympenburg
+- TOP 5.2.8.: Mülleimer bei Nymphenburg-Biedersteiner-Kanal öfters leeren
+- TOP 5.2.9.: Verkehrs- und Bausituation am Rotkreuzplatz Süd: Recyclingcontainer in der Sedlmayerstraße
+- TOP 5.2.10.: Öftere Containerleerung in der Schlörstraße
+- TOP 5.2.11.: Fernwärme Nymphenburg
+- TOP 5.2.12.: Wetstoffmobil im Arnulfpark sowie im St. Vinzenz-Viertel
+- TOP 5.2.13.: Service und Bürgernähe im BA 09: Zusätzliche bzw. größere Mülleimer an Brennpunkten mit erhöhtem Müllaufkommen
+- TOP 5.2.14.: Erneuerung und Neubepflanzung der Grünanlagen vor dem Hort Alfonsstraße und um die Turnhalle des AWG in der Albrechtstraße / Ecke Kapschstraße
+- TOP 5.2.15.: Fassadenbeleuchtung Haus für Kinder Dom-Pedro-Straße
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörungen zu Baumfällungsanträgen: - Schäringerplatz 11 - De-La-Paz-Str. 12 b - Schlörstr. 16 - Paschstr. 54 - Hanfstänglstr. 38 - Ysenburgstr. 12 - Landshuter Allee 77 - Lechstr. 9 - Gertrud-Bäumer-Str. 5
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.2.: Rechtswidrige Beschilderung Pandion Gardens
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen: Nachträgliche Unterrichtung über entfernte Gefahrenbäume - Lazarettstr. 81 / Ecke Dachauer Straße
+- TOP 5.5.2.: Weitere Nutzung der Heizstrahler mit Ökostrom auf öffentlichen Plätzen der Außengastronomie
+- TOP 5.5.3.: BA 21 Baumbilanz
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Wanderbaumallee in der Volkartstraße
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Diakonisches Werk Rosenheim e.V. / Kindertageszentrum Reinmarplatz Community Music am Reinmarplatz vom 26.4.2022 - 25.04.2023 1.980,00€; Az. 0262.0-9-0557
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Geruchsbelästigung und Betriebszeiten der Restaurants in der Nymphenburger Str. 193
+- TOP 6.2.2.: Übernahme der Schirmherrschaft für die Inklusionswoche Neuhausen-Nymphenburg
+- TOP 6.2.3.: Ein Hauch von Madrid - Dachterrassenbar auf dem Kaufhof
+- TOP 6.2.4.: Satzungsänderung Integrationsbeauftragte
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Zweckentfremdung durch Nutzungsänderung - Dantestr. 18
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Jugend braucht Raum: Stellwerk für Neuhauser Jugendliche
+- TOP 6.4.2.: Ein Jugendcontainer auch für Neuhausen-Nymphenburg
+- TOP 6.4.3.: Erhalt bzw. Weiterführung der Projektarbeit Arnulfstraße 197
+- TOP 6.4.4.: Errichtung des ASZ Nymphenburg priorisieren
+- TOP 6.4.5.: Förderantrag von Kontrapunkt gGmbH für das RepairCafé
+- TOP 6.4.6.: Namensänderung des Vereins Spielen in der Stadt e.V. in CultureClouds e.V.
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: AKIM Auswertung Konfliktmanagement 2021
+- TOP 6.6.2.: Übergang Schule und Beruf - Sachstand Berufsmesse
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget: Initiative Kreativspaziergang Interaktive Kreativspaziergänge durch das Kreativquartier von Mai 2022 - November 2022 3.000,00€; Az. 0262.0-9-0554
+- TOP 7.1.2.: (E) Stadtbezirksbudget Verein der Freunde Neuhausens e.V. Rückbau Maibaum am 23.04.2022 1.480,00€; Az. 0262.0-9-0555
+- TOP 8.1.1.: (E) Stadtbezirksbudget Freundeskreis der städtischen Rudolf-Diesel-Realschule, München Kulturwoche der Rudolf-Diesel-Realschule vom 09.-13.05.2022 1.960,-€ Az.0262.0-9-0545
+- TOP 7.1.4.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst vom 28.04. - 31.12.2022 3.597,60€; Az. 0262.0-9-0558
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Veranstaltung im Freien auf Privatgrund in einer städtischen Grünanlage (PG, Gelände des Wittelsbacher Ausgleichfonds): Magdalenenfest im Hirschgarten vom 09.07.-24.07.22
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Vergabe der Halle 23
+- TOP 7.4.2.: Anfrage Kreativlabor: Miete Freiflächen und Miete Flurflächen
+- TOP 7.4.3.: Halle 23 im Kreativquartier: Beteiligung BA 4 & 9 an Mieterauswahlverfahren
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: (U) Kulturelle Bildung und Jugendarbeit im Kreativquartier Empfehlung Nr. 14-20 / E 03154 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg vom 28.11.2019
+- TOP 7.5.2.: Verlängerung Widerstandsdenkmal am Platz der Freiheit
+- TOP 7.5.3.: Teil-Öffnung der Stadtbibliotheken bei einem regionalen Hotspot-Lockdown (Bücher zum Abholen bereitstellen, "Bücher to go")
+- TOP 7.6: Verschiedenes
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 7.1.3.: (E) Stadtbezirksbudget Kunstzentrat e.V. Casino Furioso vom 25.05. - 29.05.2022 5.000,00€; Az. 0262.0-9-0560
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Tischkicker bei der Tram Wendeschleife an der Lothstraße teilweise defekt
+- TOP 8.2.2.: Unterstützung der pädagogischen Willkommensgruppe an der Dom-Pedro-Grundschule
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Beschlussvorlage für den Bildungsausschuss am 04.05.2022: Schulbauoffensive 2013-2030; Sachstandsbericht zu den Schul- und Kita-Bauprogrammen, Umsetzung der Haushaltssicherung
+- TOP 8.3.2.: Genehmigung für Container Corona Teststelle Helene-Weber-Allee 19
+- TOP 8.3.3.: FC Teutonia München e.V. - Erhöhung des Darlehens für die Errichtung eines Kunstrasenplatzes nach dem Sportförderrichtlinien
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Parkour-Park in Neuhausen-Nymphenburg - vertagt aus 03/22 -
+- TOP 8.4.2.: Calisthenics-Anlage im Hirschgarten
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: Bericht zum Projekt "Mädchen an den Ball"
+- TOP 8.5.2.: Entfernung der Wippe am Spielplatz Königbauerstraße / Hirschgarten zur Reparatur
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Ausstatten des Hirschgartens mit einem Volleyballplatz (Bestellung städtischer Leistungen) - Bericht Ortstermin
+- TOP 8.6.2.: Kita - Ausbau
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Aufbau VA Grünanlage: Tollwood Sommerfestival, Spiridon-Louis-Ring, Theaterfestivalgelände vom 16.06.-17.07.22
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Offener Brief zur Umstrukturierung des SZ-Lokalteils - BA 23
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Stellungnahme BA 8 zur Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 9.6: Verschiedenes
+- TOP 9.3.2.: N - Veranstaltung im Freien in einer städtischen Grünanlage: Eröffnungsfest Spiellandschaft Stadt im Hirschgarten am 08.05.22
+- TOP 9.3.3.: N - Veranstaltung im Freien in einer städtischen Grünanlage: Skatecontest ParkvStreet im Skatebowl im Hirschgarten am 28.05.22
+- TOP 8.3.4.: Veranstaltung im Freien in einer städtischen Grünanlage: Eröffnungsfest Spiellandschaft Stadt im Hirschgarten am 08.05.22
+- TOP 8.3.5.: Veranstaltung im Freien in einer städtischen Grünanlage: Skatekontest PARKvSTREET, Skatebowl im Hirschgarten am 28.05.22
+- TOP 8.6.3.: Namensänderung des Vereins Spielen in der Stadt e.V. in CultureClouds e.V.
+- TOP 9.6.1.: Aufhängen von Flaggen auf dem Rotkreuzplatz
