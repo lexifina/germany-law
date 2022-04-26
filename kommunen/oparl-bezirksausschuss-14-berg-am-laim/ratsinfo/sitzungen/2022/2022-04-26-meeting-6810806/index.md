@@ -1,0 +1,112 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-04-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6810806
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6810806
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 29.03.2022
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Öffentliche Grünfläche „Baumkirchen Mitte“ im Geltungsbereich des Bebauungsplans mit Grünordnung Nr. 1971 im 14. Stadtbezirk Berg am Laim Herstellung der öffentlichen Grünfläche Bedarfs- und Konzeptgenehmigung
+- TOP 2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Helmut-Dietl-Straße der Gesamtstrecke der Gisela-Stein-Straße
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Streitfeldstr. 35, Neubau eines Bürogebäudes mit Tiefgarage - TEKTUR zu 1.2-2020-18585-32 - Hier: Erweiterung eines Staffelgeschosses
+- TOP 3.1.2.: Rosenheimer Str. 139, Umbau und Erweiterung eines Verwaltungsgebäudes zu einem Büro- und Geschäftsgebäude mit Tiefgarage und Gastronomie - VORBESCHEID
+- TOP 3.1.3.: "Ratschbankerl" in München - Stadtratsantrag (20-26 / A 02340) - Anhörung durch das Sozialreferat -
+- TOP 3.1.4.: Bank an der Schule Inzeller Weg - Erneute Probleme mit neuem Standort - Vorschlag des Baureferates + Ortstermin mit AKIM -
+- TOP 3.1.5.: Grafitis in der S-Bahn-Unterführung Berg am Laim, Anliegen eines Bürgers
+- TOP 3.1.6.: Graffiti unter dem S-Bahnhof Berg am Laim; Antrag FDP
+- TOP 3.1.7.: Transparenz beim Hachinger Bach, Antrag FDP
+- TOP 3.1.8.: Photovoltaik Anlagen auf städtischen Gebäuden, Antrag CSU-Fraktion
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Entzerrung des Verkehrssituation rund um das Michaeli-Gymnasium und der neuen Grundschule an der St.-Veit-Straße; Antrag Fraktion FW/ÖDP (vertagt aus Sitzung 03/2022)
+- TOP 3.2.2.: Lärmschutzwände am Innsbrucker Ring/Leuchtenbergring, Antrag CSU-Fraktion
+- TOP 3.2.3.: Weitere Nutzung der Heizstrahler mit Ökostrom auf öffentlichen Plätzen der Außengastronomie; Bürgeranliegen
+- TOP 3.2.4.: Antrag: Fernwärme bei städtischen Wohnungsbaugesellschaften, Antrag Fraktion Die Grünen
+- TOP 3.2.5.: Ausbau des Fernwärmenetzes in Berg am Laim, Antrag CSU-Fraktion
+- TOP 3.2.6.: Räumung und Streuung der Hachinger-Bach-Straße, Anliegen einer Bürgerin
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Aufzugsituation am Michaeligymnasium; Schreiben des Elternbeirates (vertagt aus Sitzung 02/2022)
+- TOP 3.3.2.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2023
+- TOP 3.3.3.: Bericht zum Sachstand KulturBürgerHaus Berg am Laim, Antrag CSU-Fraktion
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst vom 28.04. - 31.12.2022 3.597,60 €/ Az. 0262.0-14-0318
+- TOP 3.5.2.: (E) Stadtbezirksbudget Initiative „Open-Air-Konzerte“ Open-Air-Konzerte vom 01.05. - 01.08.2022 8.700,00 € / Az. 0262.0-14-0316 (vertagt aus Sitzung 03/2022)
+- TOP 3.5.3.: (E) Stadtbezirksbudget AWO Kreisverband München-Land e.V. Ferienspiele auf der pädagogischen Farm München Ost vom 01.-05.08.2022 1.628,08 € / Az. 0262.0-14-0321
+- TOP 3.5.4.: (E) Stadtbezirksbudget AWO Kreisverband München-Land e.V. Ferienspiele auf der pädagogischen Farm München Ost vom 08.-12.08.2022 1.628,08 € / Az. 0262.0-14-0322
+- TOP 3.5.5.: (E) Stadtbezirksbudget AWO Kreisverband München-Land e.V. Ferienspiele auf der pädagogischen Farm München Ost vom 29.08. - 02.09.2022 1.628,08 € / Az. 0262.0-14-0323
+- TOP 3.5.6.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl vom 21.07. - 23.07.2022 2.398,08€ / Az. 0262.0-14-0320
+- TOP 3.5.7.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl vom 2023 2.398,08€; Az. 0262.0-14-0319
+- TOP 3.5.8.: Klimaschutz konkret - "Klima-Ausschuss" in jedem Bezirksausschuss; Empfehlung Nr. 20-26 / E 00228 der Bürgerversammlung des Stadtbezirks 20 - Hadern am 22.07.2021 Einrichtung von Klimaausschüssen, Änderung der BA-Satzung - Anhörung durch das Direktorium - (vertagt aus Sitzung 03/2022)
+- TOP 3.5.9.: Zugang zum städtischen Online-Telefonbuch für Unterausschuss- und Fraktionsvorsitzende, Antrag BA 14
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Rosenheimer Str. 139, Umbau und Erweiterung eines Verwaltungsgebäudes zu einem Büro- und Geschäftsgebäude mit Tiefgarage und Gastronomie - VORBESCHEID
+- TOP 3.6.2.: Hohenbrunner Str. 18a - ungenehmigte Fällungen
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk in der Zeit vom 14.03.2022 bis 03.04.2022
+- TOP 4.1.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse hier: Josephsburgstr. 139, Hohenbrunner Str. 33, Guffertstr. 13, Sonnwendjochstr. 65
+- TOP 4.1.3.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 4.1.4.: (U) Vereinbarkeit von § 10 Abs. 3 und 4 der Satzung des Vereins zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V. mit dem Gebot der Haftungsbegrenzung gem. Art. 92 Abs. 1 Satz 1 Nr. 3 GO – Prüfauftrag des Bayer. Kommunalen Prüfungsverbandes aus dem Jahr 2013 / 2021
+- TOP 4.1.5.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 4.1.6.: Rückmeldung OT Hachinger Bach - Aufstellung von 2 Bänken am südlichen Standort/Nähe Unterkunft für geflüchtete Menschen aus der Urkraine - Antwort des Baureferates -
+- TOP 4.1.7.: Mehr Aufenthaltsqualität am Schüleinplatz
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Broschüre Bevölkerungsbefragung zur Stadtentwicklung 2021
+- TOP 4.2.2.: (U) Saisonale Stadträume – II Produkt 43122300 Straßenverkehrume - II Beschluss über die Finanzierung für das Jahr 2022 und 2023 aus der Nahmobilitätspauschale 1. Anlass 2. Sommerstraßen 3. Temporäre Spielstraßen 4. Bürgerschaftliche Initiativen und Interventionen im Straßenraum 5. Parklets 6. Notwendige Sachmittel 7. Behandlung der Anträge a) Sommerstraßen – Konzept verbessern Antrag Nr. 20-26 / A 01947 der Ausschussgemeinschaft ÖDP München Liste vom 28.09.2021 b) Spielen in der Stadt Antrag Nr. 20-26 / A 01994 der Fraktion Die Grünen / Rosa Liste vom 08.10.2021
+- TOP 4.2.3.: 10. Verkehrskonzept für den Münchner Osten
+- TOP 4.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.5.: Fuß- und Radweg Berg am Laim hier: Josephsburgstraße - Heinrich-Wieland-Straße - Antwortschreiben des Baureferates auf Bürgeranfrage -
+- TOP 4.2.6.: Weitere Planungen für die Kreillerstraße/Berg-am-Laim-Straße/Wasserburger Landstraße (B304): Bürgerbefragung zugrunde legen!
+- TOP 4.2.7.: Antrag: Bürger*innenbeirat zur Verkehrsentwicklung im Münchner Osten
+- TOP 4.2.8.: Parksituation Baumkirchner Straße/Kreillerstraße - Antwort der Polizei auf Anfrage von Bürger*innen -
+- TOP 4.2.9.: Genehmigung ehemaliger Corona-Freischankflächen; Anfrage des Vorstizenden des BA 21 vom 18.03.2022 - Antwortschreiben des Kreisverwaltungsreferates -
+- TOP 4.2.10.: Ecke Kreiller/Risserkogelstraße: Freischankfläche mit alten, kaputten Möbeln und Gerätschaften? - Antwortschreiben des Kreisverwaltungsreferates auf Beschwerde -
+- TOP 4.2.11.: Beschlussvorlage Dialog-Displays - Stellungnahme des BA 1 Altstadt-Lehel
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: (U) Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2021/2022
+- TOP 4.3.2.: Anfrage Öffentlichkeitsarbeit - Antwort des Direktoriums - (vertagt aus Sitzung 03/2022)
+- TOP 4.3.3.: Tag des offenen Denkmals am 11.09.2022 Motto: "KulturSpur. Ein Fall für den Denkmalschutz." - Schreiben des Referates für Stadtplanung und Bauordnung -
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Zeltaufbau für ukrainische Flüchtlinge auf dem Grundstück "Griechische Schule", Versorgung der ukrainischen Flüchtlinge - Antwortschreiben des Sozialreferates auf Anfrage der Münchner Tafel e.V. -
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Sinnvollen Einsatz des Stadtbezirksbudgets erleichtern, Kosten für städtische Leistungen beziffern
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Baumschutz Kreillerstr. 74; Ablehnungsbescheid
+- TOP 4.6.2.: Baumschutz Gronsdorfer Str. 13; Ablehnungsbescheid
+- TOP 4.6.3.: Berg-am-Laim-Str. 61-69a, Riedgaustr. 9-15, Streitfeldstr. 22-28 Ablehnungsbescheid
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1.: Aufgrund der Corona-Situation, kann es zu Ausfällen der Unterausschusssitzungen oder Verlegungen kommen. Bitte erfragen Sie über die Geschäftsstelle, ob eine Sitzung stattfindet und melden Sie die Teilnahme an.
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.1.1.: Am Dienstag, den 19.04.2022, um 19.15 Uhr, im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid möglich).
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.2.1.: Am Mittwoch, den 20.04.2022, um 19.15 Uhr, im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.1.5.1.: Am Mittwoch, den 20.04.2022, um 18.30 Uhr, im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.2.7.: MVG Leistungsprogramm 2023 - Anhörung durch die MVG - (Nachtrag)
+- TOP 3.2.8.: Verkehrssicherheit an der neuen Grundschule an der St.-Veit-Straße, Anliegen des Elternbeirates
+- TOP 3.4.1.: Anfrage bezüglich der geplanten Flüchtlingsunterkunft auf dem Gelände der Griechischen Schule
+- TOP 3.5.10.: (E) Stadtbezirksbudget ESV München-Ost e.V. Fit im Echardinger Park 2022 vom 01.05. - 30.09.2022 7.825,00 € / Az. 0262.0-14-0
+- TOP 5.1.3.1.: Am Dienstag, den 19.04.2022, um 18.00 Uhr, im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid möglich).
+- TOP 5.1.4.1.: Voraussichtlich am Donnerstag, den 21.04.2022, um 18.30 Uhr, im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid möglich).
