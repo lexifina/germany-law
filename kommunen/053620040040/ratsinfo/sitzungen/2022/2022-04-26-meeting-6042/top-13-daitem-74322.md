@@ -1,0 +1,9 @@
+# TOP 13.: Bestandsbäume im Stadtgebiet, Baumkataster und Infoportal Bäume
+
+- Sitzung: Ausschuss für Stadtentwicklung und Umweltschutz (6. Sitzung) (2022-04-26)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/74322
+- Ergebnis: Einstimmig
+- Beratung: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/consultation/61677
+- Beschluss (Datei): Beschlusstext (Bestandsbäume im Stadtgebiet, Baumkataster und Infoportal Bäume) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYimX1gTpd7CGDdd-0zdhjVarsZP7KmHJpU3WblrhdYC/Beschlusstext_64-2022_-oeffentlich-_Ausschuss_fuer_Stadtentwicklung_und_Umweltschutz_26.04.2022.pdf
