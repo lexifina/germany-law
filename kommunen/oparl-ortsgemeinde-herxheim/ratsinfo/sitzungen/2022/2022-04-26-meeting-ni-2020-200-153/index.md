@@ -1,0 +1,54 @@
+# 27. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2022-04-26T18:30:00+02:00
+- Ende: 2022-04-26T22:17:00+02:00
+- Ort: Elmar-Weiller-Festhalle, großer Saal, Bonifatiusstraße 22, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2020-200-153
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2020-200-153
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2020-200-153
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-200-153
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2020-200-153
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: 
+- TOP 3: Maßnahmen zur Haushaltskonsolidierung
+- TOP 4: Anpassung der Hebesätze ab 2022 und Erlass der Hebesatzsatzung
+- TOP 5: Übertragung von Haushaltsermächtigungen des Haushaltsjahres 2021 in das Haushaltsjahr 2022
+- TOP 6: Änderung der Benutzungsordnung mit Benutzungsentgelten für die Grillhütte Herxheim
+- TOP 7: Änderung der Benutzungsordnung mit Benutzungsentgelten für die Villa Wieser
+- TOP 8: Änderung der Benutzungsordnung mit Benutzungsentgelten für die Elmar-Weiller-Festhalle Herxheim
+- TOP 9: Änderung der Eintrittspreise für das Museum Herxheim
+- TOP 10: Änderung der Kurs- und Studienentgelte für die Kunstschule Herxheim
+- TOP 11: Neufassung der Richtlinien zur Förderung von Kultur, Sport und Jugendpflege in der Ortsgemeinde Herxheim
+- TOP 12: Neuanlage des Kinderspielplatzes im Neubaugebiet Augustastraße - Grundkonzeption -
+- TOP 13: Nachwahlen in Ausschüsse Umlegungsausschuss
+- TOP 14: Änderung der Geschäftsordnung; hier: § 22 'Redeordnung'
+- TOP 15: Antrag der SPD-Fraktion: Änderung der Geschäftsordnung hier: § 26 Niederschrift
+- TOP 16: Antrag der CDU-Fraktion: Familienfreundliches Herxheim - Attraktivierung der Spielplätze in Herxheim und Hayna
+- TOP 17: Antrag der Fraktion Bündnis 90/Die Grünen; Neuer Standort für das Jugendzentrum
+- TOP 18: Antrag der CDU-Fraktion: Aufstellung einer Potenzialanalyse für erneuerbare Energien in kommunalen Liegenschaften
+- TOP 19: Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90/Die Grünen: Herxheim durch eine Potentialuntersuchung (Fahrgastpotential) besser an die Regionalbahn 53 Neustadt - Winden - Wissenbourg - Straßburg anbinden
+- TOP 20: Antrag der SPD-Fraktion: Änderung der Satzung über die Festlegung der Zahl der notwendigen Stellplätze, die Höhe des Geldbetrages zur Ablösung der Verpflichtung zur Herstellung von notwendigen Stellplätzen, die Höhe der Kostenbeteiligung zur Ablösung der Verpflichtung zur Anlegung privater Kinderspielplätze der Gemeinde Herxheim vom 16.09.2019'
+- TOP 21.1: Mitteilungen und Anfragen; Schulumlage 2021
+- TOP 21.2: Mitteilungen und Anfragen; Aktualisierung der Bedarfsplanung für die Kindertagesstätten Einrichtung zusätzlicher Betreuungskapazitäten für geflüchtete Kinder
+- TOP 21.3: Mitteilungen und Anfragen Gebühreneinnahmen der Ortsgemeinde aus Ablösung von Kinderspielplätzen und Stellplätzen sowie zusätzlichen Auffahrten
+- TOP 21.4: Mitteilungen und Anfragen; Verkehrsunfälle L 543 Herxheim - Insheim (Anfrage SPD-Fraktion)
+- TOP 21.5: Mitteilungen und Anfragen; Rechts-vor-Links-Regelung Kreuzung Bussereau- / Niederhohl- /Speyerer Straße (Anfrage SPD-Fraktion)
+- TOP 21.6: Mitteilungen und Anfragen; Einbahnstraßenregelung im südlichen Teil der Habertsgasse (Anfrage der SPD-Fraktion)
+- TOP 21.7: 
+- TOP 21.8: 
+- TOP 21.9: 
+- TOP 21.10: 
+- TOP 21.11: 
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
