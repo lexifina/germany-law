@@ -1,0 +1,74 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-04-26T17:00:00+02:00
+- Ende: 2022-04-26T18:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22514
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22514
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen TOP 3-7 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00446132.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen TOP 3-7 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00446132.pdf
+- Wortprotokoll: Sitzungsunterlagen TOP 3-7 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00446132.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 29. März 2022 - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Stadtbahnstrecke Kennedydamm – MERKUR SPIEL-ARENA/Messe Nord Sachstandsinformation und Durchführung eines Verfahrens zur Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 12: Sofortmaßnahmen am Angermunder Baggersee für die Sommersaison 2022 - vertagt
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2022 (Liste B), Blumenoasen im Stadtbezirk 5 und Ergänzung Austausch von Spielgeräten an diversen Standorten - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 14: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 15: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 16: Wann kommt endlich die öffentliche Beleuchtung auf dem Gerichtsschreiberweg?!
+- TOP 17: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 18: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 19: Barrierefreier Zugang zur Grundschule an der Fliednerstraße
+- TOP 20: "Viele Projekte stecken in der Warteschleife" - Wie lange kann noch gewartet werden?
+- TOP 21: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 22: Weg nach den Hingbenden - Wie kann das Parken geordnet und die Sicherheit erhöht werden?
+- TOP 23: Radweg vom Kreisverkehr Angermunder Straße
+- TOP 24: Was wird aus dem Kaiserswerther Markt? - beantwortet
+- TOP 25: Zulässigkeit und potenzielle Rahmenbedingungen eines geordneten Badebetriebs im Angermunder See - beantwortet
+- TOP 26: Umsetzung und Einhaltung der Stellplatzsatzung bei Neubauten in Lohausen?
+- TOP 27: Vorteile ökologischer Aufwertung und Unterschutzstellung des Ostufers des großen Angermunder Sees - beantwortet
+- TOP 28: Wichtige Infrastrukturplanungen im Stadtbezirk vorantreiben - für kurze Wege und den Erhalt lokaler Versorgungsstrukturen! - beantwortet
+- TOP 29: Unerklärliche Baumrodungen und weitere Bebauungen am Leuchtenberger Kirchweg
+- TOP 30: Leerstand und zukünftige Nutzung des denkmalgeschützten Hüttenhofs in Kalkum
+- TOP 31: Leuchtenberger Kirchweg 53 - Baugenehmigungen, Dringlichkeit und Rodungen der Bäume?
+- TOP 32: Verwaltungsverfahren Neubauprojekt „Kaiservillen Kaiserswerth“
+- TOP 33: 12.000.000 Euro Kostensteigerung und spätere Fertigstellung der Stadtbahn U 81: weiterhin keine Information der lokalen Politik!?
+- TOP 34: Anwohnerparken im Stadtbezirk 5
+- TOP 35: Aufstellung von Absperrpfosten und eines Zauns im Treppenbereich zur Kirche St. Remigius in Wittlaer
+- TOP -: Neue Anfragen
+- TOP 36: B-Plan-Verfahren 05/016 - Open-Air-Gelände auf dem Messeparkplatz P1
+- TOP 37: Verkehrskonzept für den Düsseldorfer Norden: Tempo 30 km/h auf der Kaiserswerther Straße für "Weniger Lärm, mehr Verkehrssicherheit und mehr Lebensqualität" - beantwortet
+- TOP 38: Verkehrsanbindung zwischen Ratingen und dem Düsseldorfer Norden
+- TOP 39: Kleiansring - beantwortet
+- TOP 40: Hochwasserschutzmauer Kaiserswerth - Standsicherheitsgutachten - beantwortet
+- TOP 41: PFT-Verunreinigungen in Kaiserswerth und Lohausen - beantwortet
+- TOP 42: Nachhaltiges Mobilitätsmanagement beim Bebauungsplan ehemals Fashion House (05/014)
+- TOP 43: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr?
+- TOP -: Anträge
+- TOP 44: Parkplatz An Sankt Swidbert - Anwohnerparken ermöglichen! - einstimmig beschlossen
+- TOP 45: Alte Landstraße - Verkehrssicherheit verbessern! - mehrheitlich beschlossen
+- TOP 46: Graf-Engelbert-Straße - abweichend beschlossen
+- TOP 47: Öffentliche Nachnutzung des Nagelshofs in Lohausen - abweichend beschlossen
+- TOP 48: Austausch bzw. Ergänzung von Bänken im Nordpark - einstimmig beschlossen
+- TOP 49: Sicherheit und Ordnung im Nordpark wiederherstellen - einstimmig beschlossen
+- TOP 50: Antrag auf Prüfung zur Nutzbarkeit größerer städtischer Räumlichkeiten über 150 qm bis 300 qm im Stadtbezirk 5 sowie notwendige Modifizierung von noch bestehenden Zugangsbeschränkungen für Vereine, Events und das Brauchtum. - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 51: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 52: Verschiedenes
