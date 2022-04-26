@@ -1,0 +1,6 @@
+# TOP 1: Festsetzung der Tagesordnung - Genehmigung des Protokolls der letzten Sitzung
+
+- Sitzung: Sitzung (2022-04-26)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/225974
