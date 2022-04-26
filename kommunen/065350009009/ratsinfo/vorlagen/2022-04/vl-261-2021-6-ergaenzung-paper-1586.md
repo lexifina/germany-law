@@ -1,0 +1,26 @@
+# Richtlinien für die Vergabe von städtischen Baugrundstücken
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-261/2021 6. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-04-26
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZYChnnrNPv8pFA1Sd92jlUw
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/1586
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Richtlinien für die Vergabe von städtischen Baugrundstücken) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYEiSPtZntKIowLHbl3AgZNXEYlSHQLK5iNgZpBFvSrX/Beschlussvorlage_VL-261-2021_6._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Bauplatzvergaberichtlinien Losverfahren Stadt Bebra) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUz8O-Oxn-LgoYiv_2qZ5n-nM94LbgiM8dTj3G7LWS4V/Bauplatzvergaberichtlinien_Losverfahren_Stadt_Bebra.pdf
+- Anlage: Beschlussvorlage (Richtlinien für die Vergabe städtischer Baugrundstücke Stadt Friedberg) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWI-ME18eKt0whE4jURCRdyVG77oXzZaLVDvOcVKf7hP/Richtlinien_fuer_die_Vergabe_staedtischer_Baugrundstuecke_Stadt_Friedberg.pdf
+- Anlage: Beschlussvorlage (Private Baugrundstücke, Baulückenkataster Stand 08-2021 CK) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWx0qN4Kc0Uea3yt-0l0RXEoCP8sb4yo09gEaM0SDqjK/Private_Baugrundstuecke-_Baulueckenkataster_Stand_08-2021_CK.pdf
+- Anlage: Beschlussvorlage (Zusammenstellung Bauplätze Stand 08-2021CK) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXfhXY1BvjCmKGCMsKul3MH4sDVrsaDbKL-_Iw8j8jQ2/Zusammenstellung_Bauplaetze_Stand_08-2021CK.pdf
+- Anlage: Beschlussvorlage (Präsentation Übersicht aller Bauplätze Stand 08-2021 CK) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQQfxW3dU4VIxmreOWXuuHR-ceamk8kIAsNm7mKK4qvE/Praesentation_Uebersicht_aller_Bauplaetze_Stand_08-2021_CK.pdf
+- Anlage: Beschlussvorlage (20220301 Zusammenstellung Bauplätze Stand 02-2022 CK.xlsx) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWFLj4DyQkit4yixpMPAfBfpqAjozPp5f-85URKWhnyr/20220301_Zusammenstellung_Bauplaetze_Stand_02-2022_CK.xlsx.pdf
+- Anlage: Beschlussvorlage (20220303 Richtlinien für die Vergabe städtischer Baugrundstücke) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZQ4oaeOHOSqJSzLFO0DkVlvj6gDrLey3EKRXE149Fj-/20220303_Richtlinien_fuer_die_Vergabe_staedtischer_Baugrundstuecke.pdf
+- Anlage: Beschlussvorlage (20220406 - Richtlinien für die Vergabe städtischer Baugrundstücke nach BuUA 24.03.2022) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfu93nCm2XSn841gjPjp-1QCsHVZzyJQlVjw3UCIF16m/20220406_-_Richtlinien_fuer_die_Vergabe_staedtischer_Baugrundstuecke_nach_BuUA_24.03.2022.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/853 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/861 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/862 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/887 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/971 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/975 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/989 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-21
