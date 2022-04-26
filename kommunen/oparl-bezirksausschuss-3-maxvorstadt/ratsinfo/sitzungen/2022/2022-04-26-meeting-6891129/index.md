@@ -1,0 +1,178 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-04-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891129
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891129
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.3.1.: (E) Stadtbezirksbudget Green City e.V. Wanderbaumallee im Arnulfpark vom 06.05. - 31.12.2022 1.875,00 Euro, Az.: 0262.0-3-0401
+- TOP 2.2.: (E) Stadtbezirksbudget Refugee Law Clinic Munich e.V. Ausbildungsvorträge für neue Berater*innen vom 06.05. - 08.05.2022 750,00 Euro, Az.: 0262.0-3-0397
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "AlmResidency Ausstellung" AlmResidency Ausstellung vom 01. - 22.05.2022 1.900,00 Euro, Az.: 0262.0-3-0395
+- TOP 2.2.: (E) Stadtbezirksbudget Dungeon Dragon Soundsystem GbR KK2_LIVE Konzertreihe im Kunstlabor 2 am 27.05., 03.06. und 18.07.2022 9.728,00 Euro, Az.: 0262.0-3-0396
+- TOP 2.3.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst vom 28.04. - 31.12.2022 3.597,60 Euro, Az.: 0262.0-3-0399
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "Kaulbachstraße 1 A" Zwischennutzung in der Kaulbachstraße 1 A vom 11.05. - 14.06.2022 10.410,00 Euro, Az.: 0262.0-3-0398
+- TOP 2.3.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Rechtliche Beratung von Geflüchteten aus der Ukraine vom 01.05. - 31.10.2022 7.000,00 Euro, Az.: 0262.0-3-0402
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Keine fristgerechte Bereitstellung der Unterlagen zu Bauvorhaben durch die LBK – Listen
+- TOP 6.2.: Umgestaltung der Augustenstraße Antwort MOR auf Schreiben des BA 3
+- TOP 6.3.: Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden – Leerstand Mehrfamilienhaus Theresienstr. 150
+- TOP 6.4.: Im Kampf gegen die Gentrifizierung Festsetzung von gefördertem Wohnraum durch sektorale Bebauungspläne in der Maxvorstadt.
+- TOP 6.5.: Aufstellung eines sektoralen Bebauungsplans für das Grundstück sowie Möglichkeiten zum Erhalt und zur weiteren Nutzung der Gebäude der Bayerischen Landesbank (Bayern LB)
+- TOP 6.6.: Temporäre Verschattung am Spielplatz Josephsplatz
+- TOP 6.7.: Prüfung Zustand Bäume Katharina-von-Bora-Str. 11 und ggf. Ersetzung
+- TOP 6.8.: Antrag auf Auskunft zu den Nachpflanzungen fehlender Bäume in vorhandenen Baumgräben
+- TOP 6.9.: Offene Einrichtung für Jugendliche und Nachbarschaftstreff im Arnulfpark realisieren
+- TOP 6.10.: Schanigärten: Rückkehr zur Verlässlichkeit
+- TOP 6.11.: Kreuzungen Seidl-Arnulf- und Marsstraße dauerhaft entschärfen
+- TOP 6.12.: Zwischennachricht des MOR zu offenen BA-Anträgen des BA03
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Begrünung der südlichen Linprunstr. und Kreittmayerstr. (auf Höhe des Justizzentrums)
+- TOP 1.1.2.: Bezirk 3 Maxvorstadt_Projekt Amalienstraße 33
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden – Leerstand Mehrfamilienhaus Gabelsbergerstr. 39
+- TOP 1.2.2.: Umgestaltung und Aufwertung der Grünflächen Schnorrstraße/Adalbertstraße
+- TOP 1.2.3.: Flächenversiegelung in öffentlichen Grünstreifen unterbinden – Fahrradabstellplätze nur mit versickerungsfähigem Belag zulassen
+- TOP 1.2.4.: Baustellenmanagement Linprunstraße
+- TOP 1.2.5.: Wertstoffmobil im Arnulfpark sowie im St.-Vinzenz-Viertel
+- TOP 1.2.6.: Situation und Rahmenbedingungen der Zwischennutzung in der Dachauer Str. 90
+- TOP 1.2.7.: Grundstücke in Erbpacht
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 9 - 13
+- TOP 2.1.2.: WEB-Listen der LBK: KW 9 - 10
+- TOP 2.1.3.: Nymphenburger Str. 48, Nutzungsänderung und Erweiterung eines Wohn- und Geschäfts hauses mit einer Hofbebauung und Erweiterung Gauben VG
+- TOP 2.1.4.: Denisstr. 5, TEKTUR, Neubau eines Gebäudekomplexes mit Büros, Gastronomie und TG
+- TOP 2.1.5.: Veterinärstraße 8, VORBESCHEID, Sanierung des denkmalgeschützten Bestandsgebäudes, Neubau eines RG, und Neubau eines Verbindungsbauwerks mit Unterkellerung, Abbruch des Werkstattgebäudes
+- TOP 2.1.6.: Arnulfstr. 30-34, Mieterausbau Personio, Nutzungsänderung von Dachflächen Terrassen Süd-Ost
+- TOP 2.1.7.: Arnulfstr. 30-34, Mieterausbau Personio, Nutzungsänderung von Dachflächen Innenhofter rasse und Terrasse Süd
+- TOP 2.1.8.: Schellingstr. 110-116, TIEFBAUGENEHMIGUNG (Baumfällungen), Abbruch und Neuerrich tung des DG (9 WE), Errichtung 3er Außenaufzüge und eines innenliegenden Aufzugs, einer TG (10 neue Stellplätze) und einer Hofbebauung (7 WE)
+- TOP 2.1.9.: Nymphenburger Str. 24, Neubau eines DG (6WE)
+- TOP 2.1.10.: Dachauer Str. 90 – VORBESCHEID, Neubau Einzelhandel sowie Büro und Tiefgarage
+- TOP 2.1.11.: Türkenstr. 71, Nutzungsänderung Laden in Gaststätte mit Kiosk im EG
+- TOP 2.1.12.: Bebauungsplan mit Grünordnung Nr. 2089 Pappenheimstraße; 2. Wiederholung des Verfahrens zur Beteiligung der Behörden
+- TOP 2.2: Entscheidung
+- TOP 2.2.1.: Kreittmayrstraße zwischen Erzgießereistraße und Ferdinand-Miller-Platz Baumpflanzungen
+- TOP 2.3: Budgetantrag
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Nymphenburger Str. 70, Instandsetzung von 14 Duplexgaragen in der TG, sowie Ausbau von 14 Duplexparken, stattdessen Errichtung von 14 ebenerdigen Stellplätzen in TG, Nutzungsänderung von Laden in Schnellimbiss
+- TOP 3.1.2.: Augustenstraße 33 a, VORBESCHEID, Aufstockung und Nutzungsänderung eines Gewerbegebäudes in ein Wohn- und Geschäftshaus
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Antrag auf Baumfällung Kaulbachstr. 26 b
+- TOP 3.2.2.: Antrag auf Baumfällung Adalbertstr. 55
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Vorbescheid Linprunstr. 12
+- TOP 5.2.: Vorbescheid Gabelsbergerstr. 28
+- TOP 5.3.: Bescheid, Baumfällung Kaulbachstr. 37
+- TOP 5.4.: Unterrichtung BA 9 Bauvorhaben Lothstraße 3 "Gorillas"
+- TOP 5.5.: SWM Baumaßnahme Trinkwasser-Projekt Oskar-von-Miller-Ring
+- TOP 5.6.: Stellungnahme des Münchner Forum zum Bürger:innengutachten Paketpost-Areal
+- TOP 5.7.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 5.8.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 5.9.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Freischankflächen Maxvorstadt
+- TOP 1.1.2.: Die Feiermeile in der Maxvorstadt kennt kaum noch Grenzen
+- TOP 1.1.3.: Unerträgliche Parksituation in der Linprunstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Baustelleneinrichtung Nymphenburger Straße 64 entfernen
+- TOP 1.2.2.: WC U-Bahn Josephsplatz
+- TOP 1.2.3.: Radwegsicherheit Nymphenburger- Loristraße und Nymphenburger-/Lothstraße
+- TOP 1.2.4.: Antrag Radwegsicherheit Sand-Linprunstraße
+- TOP 1.2.5.: Baustellenmanagement Linprunstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: (E) + (U) Rücknahme der Kurzzeitparkplätze und keine weiteren Einschränkungen des Parkraums in der Gabelsberger- / Ecke Schleißheimer Straße Empfehlung Nr. 20-26 / E 00130 der Bürgerversammlung des 03. Stadtbezirkes - Maxvorstadt am 09.07.2021
+- TOP 2.1.2.: Adalbertstraße Halteverbote Verkehrsrechtliche Anordnung
+- TOP 2.1.3.: MVG-Leistungsprogramm 2023
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Beschlussvorlage BA 3 für die Sitzung am 26.04.2022 hier Warenauslagen am Anwesen Schellingstr. 73 I Kleiderpuppe
+- TOP 2.2.2.: Antrag auf Aufstellung Sitzgelegenheiten
+- TOP 2.2.3.: Warenauslagen am Anwesen Barer Str. 65
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Tengstr. 6, Gaststätte "Bodega Dali"; Erneute Beschlussfassung Antrag Parkplatz-FSF (Schanigarten)
+- TOP 2.3.2.: Gaststätte "Schall und Rauch", Schellingstr. 22 - Parkplatzfreischankflächenantrag
+- TOP 2.3.3.: Gaststätte "Ali Bey - fine turkish dining, Schraudolphstr. 44 (Stadtbezirk 3) – ParkplatzFSF
+- TOP 2.3.4.: Antrag auf Parkplatzfreischankfläche: Bar "James T. Hunt", Schellingstr. 32
+- TOP 2.3.5.: Antrag auf Parkplatzfreischankfläche: Cafe "Höflinger Müller", Schellingstr. 17
+- TOP 2.3.6.: Freischankflächenanträge Schönfeldstr 22
+- TOP 2.3.7.: Freischankflächenanträge Schönfeldstr 24
+- TOP 2.3.8.: Antrag auf Parkplatzfreischankfläche: Gaststätte "Arte in Tavola", Schellingstr. 51
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Wittelsbacherplatz | Anhörung Marktveranstaltung öff. Grund "Original Hamburger Fischmarkt" am 26.05. - 06.06.2022
+- TOP 2.4.2.: Odeonsplatz, Ludwigstraße | Anhörung § 29 StVO für "Jubiläumsveranstaltung der Bay. Polizei und Landestag der Verkehrssicherheit" am 07.05.2022
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Eilentscheidung | erhalten am: 23.03.22 Bez. 03, Marsplatz (Grünanlage Spielplatz Blutenburgstraße) | Anhörungsverfahren für Spieleaktion für Kinder aus der Unterkunft in der BS am Marsplatz 8 ab 27.03. jeden Mittwoch und Sonntag bis 31.12.2022 | Anhörungsfrist: 24.03.2022 16:00 | Aktion wurde beendet
+- TOP 3.2.: Eilentscheid | Professor-Huber-Platz | Anhörungsverfahren für Gottesdienst (Segnung Palmzweige für anschließende Prozession) am 10.04.2022 | Anhörungsfrist: 04.04.2022
+- TOP 3.3.: Antrag aus dem BA 2, Versetzung Senefelder Denkmal
+- TOP 3.4.: Eilentscheid | Bestätigung konfessionelle Veranstaltung und Ausnahmegenehmigung Grünanlage für Palmsegnung mit anschließender Palmprozession vom Professor-Huber-Pl. zur Kirche St. Ludwig am 10.04.2022
+- TOP 3.5.: Stadtterrasse Brienner Str. 59 (Münchner Haus der Schüler*innen): Genehmigungsbescheid
+- TOP 3.6.: 2. Stammstrecke PFA 1 3. Planänderung - vorläufige Anordnung vom 28.02.2022
+- TOP 3.7.: Türkenstr. 29 - Aufhebung der Ladezone zur Kenntnisnahme Bezirk 3
+- TOP 3.8.: entfällt
+- TOP 3.9.: Bereits beantwortetes Bürger*innenanliegen Parkplätze blockiert Ziebland-/Ecke Schwindstraße
+- TOP 3.10.: Antwort des KVR zu Bürger*innenanliegen Sperrungen am Königsplatz
+- TOP 3.11.: Deroystraße - Tempo 30-Zone Schreiben an Bürger
+- TOP 3.12.: Allgemeine Information zur Baugenehmigungspflicht bei Freischankflächen
+- TOP 3.13.: Schreiben Bezirksinspektion, Antwort auf Stellungnahme BA 3
+- TOP 3.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.15.: (U) Radschnellweg Münchner Norden, Abschnitt 1 (Altstadt-Radlring) im 1. Stadtbezirk Altstadt - Lehel und im 3. Stadtbezirk Maxvorstadt Teil A Lenbachplatz, Maximiliansplatz, Platz der Opfer des Nationalsozialismus Projektkosten (Kostenobergrenze): 13.370.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2021 - 2025 Teil B Odeonsplatz, Ludwigstraße Projektkosten (Kostenobergrenze): 8.630.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2021 - 2025
+- TOP 3.16.: SWM Baumaßnahme Erdgas-Projekt Theresienstraße
+- TOP 3.17.: SWM Baumaßnahme - Strom-Projekt BV Brienner Straße
+- TOP 3.18.: Eilentscheid | Protected Bikelanes - Brienner Straße - Anhörung BA 3
+- TOP 3.19.: Eilentscheid | "Ratschbankerl" in München - Stadtratsantrag (20-26 / A 02340)
+- TOP 3.20.: Eilentscheid | BV Nr.20-26 / V 05708; Novelierung der SoNuGebS und der SoNuRL; KVA am 26.04.2022
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Zwischennutzung ehem. Gesundheitshaus
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Stellungnahme des BA 3 zur Schulbauoffensive
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Spielen in der Stadt- Planung der POP Ups
+- TOP 4.2.: Schreiben zu Leistungsfähigkeit des Schwabinger Krankenhauses
+- TOP 4.3.: (U) Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2021/2022
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: entfällt
+- TOP 1.2.: Beschaffung eines Routers für den BA 3- Beschlussfassung
+- TOP 1.3.: Münchner Wochen- und Bauernmärkte - Maxvorstadt, Rudi-Hierl-Platz Ortstermin am 05.05. um 14:00 Uhr
+- TOP 1.4.: BA 15 Städt. Telefonbuch für BA-Mitglieder
+- TOP 1.5.: Der BA benennt eine*n REGSAM Beauftragte*n
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
