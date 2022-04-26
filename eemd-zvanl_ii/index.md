@@ -37,7 +37,7 @@
 - [§ 33 Streitbeilegung](0033.md)
 - [§ 34 Anwendbares Recht und Gerichtsstand](0034.md)
 - [§ 35 Schriftverkehr](0035.md)
-- [§ 36 Schriftverkehr](0036.md)
+- [§ 36 Schriftform](0036.md)
 - [§ 37 Salvatorische Klausel](0037.md)
 - [Anlage 1 zum EETS-Zulassungsvertrag](anlage-1.md)
 - [Anlage 2 zum EETS-Zulassungsvertrag](anlage-2.md)
