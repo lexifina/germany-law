@@ -1,0 +1,55 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-04-27T17:00:00+02:00
+- Ende: 2022-04-27T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22618
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22618
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: OVA 27.04.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00446385.pdf
+- Ergebnisprotokoll: OVA 27.04.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00446385.pdf
+- Wortprotokoll: OVA 27.04.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00446385.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 27.10.2021 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 24.11.2021 - einstimmig beschlossen
+- TOP 3.3: Genehmigung der Niederschrift der öffentlichen Sitzung vom 12.01.2022 - einstimmig beschlossen
+- TOP 3.4: Genehmigung der Niederschrift der öffentlichen Sitzung vom 09.02.2022 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Tempo 30- Zonen in Düsseldorf und erfolgte Umstellung der Ampelschaltung -Anfrage der Ratsfraktion Die Linke- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Bessere Kennzeichnung des Radweges auf der Schadowstraße - einstimmig beschlossen
+- TOP 5.2: Antrag der Ratsfraktion DIE LINKE: Autofreier Tag für Düsseldorf - mehrheitlich abgelehnt
+- TOP 5.3: Feuerwache 4 Flingern - Grünstreifen renaturieren, illegales Parken stoppen -Antrag der Ratsfraktion Die Partei/Klima- - verwiesen
+- TOP 5.4: Autofreie Zone im Bereich Friedrichstraße -Antrag der Ratsfraktion Die Linke- - mehrheitlich abgelehnt
+- TOP 5.5: Tempo 30 in den Bereichen der relativen Unfallschwerpunkte in Düsseldorf einführen -Antrag der Ratsfraktion Die Partei/Klima- - mehrheitlich abgelehnt
+- TOP 5.6: Abschlepp-Richtlinie: Mit Falschparkern:innen kurzen Prozess machen - Vision Zero erreichen -Antrag der Ratsfraktion Die Partei/Klima- - zurückgezogen
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Sachstand zum Projekt "Prävention, Ordnung und Sicherheit in Düsseldorf 2021+" - zur Kenntnis genommen
+- TOP 7.2: Information zur Worringer Straße 136-140, Erweiterungsbau des Ordnungs- und Servicedienstes (OSD) - zur Kenntnis genommen
+- TOP 7.2.1: Worringer Straße 136-140, Erweiterungsumbau des Ordnungs- und Servicedienstes (OSD) - zur Kenntnis genommen
+- TOP 7.3: Mündlicher Bericht zum aktuellen Sachstand - Sondernutzung E-Scooter - zur Kenntnis genommen
+- TOP 8: Umbau der Vegetationsflächen im Bereich des Kö-Bogens I entlang der Landskrone - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - Empfehlung einstimmig beschlossen
+- TOP 9: Bebauungsplan-Vorentwurf Nr. 03/034 - Südlich Haroldstraße - abweichend beschlossen
+- TOP 9.1: Ergänzugsantrag von CDU und Bündnis 90/Die Grünen zu TOP 9 - Beschlussvorlage APS/018/2022: - mehrheitlich beschlossen
+- TOP 10: Neubau Rad- und Fußgängerbrücke Kennedydamm -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 11: Ersatzbau der Hochstraße Benediktusstraße - Durchführung eines Verfahrens zur Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 12: Stadtbahnstrecke Kennedydamm – MERKUR SPIEL-ARENA/Messe Nord Sachstandsinformation und Durchführung eines Verfahrens zur Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 13: Ausführungs- und Finanzierungsbeschluss – Erneuerung der Beleuchtungsanlage des Rheinufertunnels - Empfehlung einstimmig beschlossen
+- TOP 14: Wohngebiet Alte Flughafenstraße - Einrichtung eines Bewohnerparkgebietes (AF) - vertagt
+- TOP 15: Anpassung des Beschlusses Radverkehrsplanung Torfbruchstraße (OVA/106/2021) im Bereich des Knotenpunktes Torfbruchstraße und Dreherstraße - einstimmig beschlossen
+- TOP 16: Errichtung von drei B+R-Anlagen der Rheinbahn AG - einstimmig beschlossen
+- TOP 17: Barrierefreier Ausbau von fünf Haltestellen entlang der Linie 704: Haltestellen „Färberstraße„, „Morsestraße“, „Fürstenplatz„, „Helmholtzstraße“ und „Mintropplatz„ - einstimmig beschlossen
+- TOP 18: Tag der nachhaltigen Mobilitätskultur - einstimmig beschlossen
+- TOP 19: Endbericht Integriertes Regionales Mobilitätskonzept - zur Kenntnis genommen
+- TOP 20: Einrichtung von „Nachbarschaftszonen“ in Düsseldorf - einstimmig beschlossen
+- TOP 21: RRX - Auswertung des Planfeststellungsbeschlusses für den PFA 2.1 Reisholz - Wehrhahn - zur Kenntnis genommen
