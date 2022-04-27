@@ -1,0 +1,190 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2022-04-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6944862
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6944862
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.2.: Fortsetzung zu Nr. 2.1: - UA Planung, TOP 2.7 – 2.10: Bauvorhaben - UA Mobilität, TOP 3.13: Saisonale Stadträume, Auswahlverfahren Sommerstraßen 2022 – Ergebnisse und weiteres Vorgehen - UA Mobilität, TOP 3.14: Kurzzeitsitzplätze und Fahrradkarussells im öffentlichen Raum - UA Mobilität, TOP 4.6: Verlängerung der Ampelschaltung an der Kreuzung Grillparzerstrasse/ Einsteinstrasse - UA Mobilität, TOP 4.7: HotRods - Antrag gegen Lärmbelästigung / Veränderung der Fahrroute - UA Mobilität, TOP 4.8: Entschärfung der Gefahrenstelle an der Kreuzung Langerstraße / Maria-Theresia-Straße - UA Mobilität, TOP 4.9: Autofreier Sonntag in Au-Haidhausen - UA Klima, TOP 0.1: Budgetantrag "Die saubere Straße" von rehab republic e.V. - UA Klima, TOP 4.3: Kahle Grünstreifen in Au-Haidhausen - UA Klima, TOP 5.1: Klimaherbst Budgetnutzung Von der Tagesordnung wird abgesetzt: - UA Soziales, TOP 1.1: (E) Stadtbezirksbudget PräVentio Selbstschutz
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 3.1.: Protokoll der Sitzung vom 16.02.2022 Protokoll der Sitzung vom 16.03.2022
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Wärmewende in München / Au-Haidhausen: Projektvorstellung Modernisierung Fernwärmenetz durch die Stadtwerke
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Barrieren abbauen in Au-Haidhausen
+- TOP 5.2.: Neuplanung Radweg Einsteinstraße vor "daseinstein"
+- TOP 5.3.: Kostenübernahme Ferienpässe
+- TOP 5.4.: Platz für Menschen in der Unteren Au schaffen: Mikroplatz an der Schlotthauer-, Sommer-, Kolumbus- und Asamstraße
+- TOP 5.5.: Provisorischer Regionalzughalt Kolumbusplatz
+- TOP 5.6.: Bike & Ride: Abstellanlagen verbessern
+- TOP 5.7.: Tischtennis und Schach am Schwester-Eubulina-Platz
+- TOP 5.8.: Pop-Up Fahrradspuren in der Ohlmüllerstraße und auf der Reichenbachbrücke Verweisung aus der Sitzung vom 16.03.2022 - aktualisierter Antrag vom 24.03.2022 siehe auch UA Mobilität
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032 Bitte um Unterstützung durch den BA 8 Schwanthalerhöh
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt April 2022
+- TOP 6.2.2.: (U) Evaluation des Livestreams bei einer Bürgerversammlung und Weiterentwicklung der Bürgerversammlungen
+- TOP 6.2.3.: Ratsinformationssystem – Papierlose Bezirksausschussarbeit Antwort IT-Referat zum Schreiben BA 5
+- TOP 6.2.4.: Fehlende Investitionen und Pauschalen
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative „Herbert Fell“ Filmreihe „Herbert Fell – Cineast & Dokumentarist“ vom 07.-10.07.2022 850,00 € / Az. 0262.0-5-0383
+- TOP II.2.: (E) Stadtbezirksbudget aDevantgarde e.V. natur.religion vom 13.-26.03.2022 1.000,00€; Az. 0262.0-5-0384
+- TOP II.3.: Anhörung Preysingstraße – Ecke Kellerstraße /LOCUS Kunst- u. Kulturprogramm am 07.05.2022 Anhörungsfrist: 23.04.2022; Vorabstellungnahme durch den Vorsitzenden
+- TOP II.4.: Abstimmung über das neue Formular "Detailauskunft" für das Budget
+- TOP II.5.: Gestaltung von Gas-, Strom- und Verteilerstationen und Fassaden Antwort Stadtwerke zum Schreiben BA 5
+- TOP II.6.: Graffiti-Gestaltung Kolumbusplatz, Antrag des „Vereins zur Förderung urbaner Kunst e.V.“
+- TOP II.7.: Anhörung "LOCUS" Kunst- u. Kulturprogramm, Preysingstaße Ecke Kellerstraße vom 06.05.-12.06.2022
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Vorstellung des Konzepts „JoMa – Begegnung in der Au“ durch Caritas und Diakonia
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget PräVentio Selbstschutz Kinder PräVentions Training vom 25.04. - 13.05.2022 1.310,00€; Az. 0262.0-5-0385
+- TOP 1.2.: (E) Stadtbezirksbudget Altenbach + Honsel GbR Mein Leben als Ameise: Eine StoryPerformance für Kinder ab 8 4.589,00€; Az. 0262.0-5-0387
+- TOP 1.3.: Abstimmung über das neue Formular "Detailauskunft" für das Budget
+- TOP 1.4.: (E) Stadtbezirksbudget PräVentio Selbstschutz Kinder PräVentions Training vom 01.05.2022 bis 27.05.2022 1.310,00€; Az. 0262.0-5-0388
+- TOP 2.: Anhörungen
+- TOP 2.1.: Entwurf der Beschlussvorlage "Schulbauoffensive 2013-2030; Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung" Anhörungsfrist: 28.04.2022, Vorabstellungnahme durch den Vorsitzenden - siehe auch UA Planung -
+- TOP 2.2.: Tanz. Die. Invasion, Aktion von Spielen in der Stadt e.V. am Bordeauxplatz von 07.-09.07.2022 Anhörungsfrist: 04.04.2022, Vorabstellungnahme durch den Vorsitzenden => dazu: Planung der POP UPS – mobile Kunst - Spiel-Aktionen in 2022 und 2023
+- TOP 2.3.: Skateboardkurse in der Postwiese an verschiedenen Terminen von 30.04.-29.10.2022 Anhörungsfrist: 28.03.2022, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.4.: Verschiedene Spielaktionen von Spiellandschaft Stadt in 2022 Anhörungsfrist: 31.03.2022; Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.5.: Ermittlung des Standorts der Toilettenanlage im Hypopark => dazu: Protokoll Ortstermin vom 23.03.2022 Verweisung aus der Sitzung vom 16.02.2022
+- TOP 2.6.: "Ratschbankerl" in München Anhörungsfrist: 08.04.2022; Vorabstellungnahme durch den Vorsitzenden
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2021/2022
+- TOP 3.2.: Akutunterbringung Vertriebener aus der Ukraine - Inbetriebnahme/Aufbau von Leichtbauhallenstandorten
+- TOP 3.3.: AKIM Abschlussbericht: Perspektiven für den Kolumbusplatz
+- TOP 4.: Bürgeranliegen
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Kollektivis e.V. Parklet und Stadtterrasse am Breisässer Platz vom 01.05.2022 - 31.11.2022 2.335,00€; Az. 0262.0-5-0386
+- TOP 1.2.: Erweiterung einer bestehenden Freischankfläche: "WERKSTATT bar & food", Rosenheimer Str. 2
+- TOP 1.3.: Erweiterung einer bestehenden Freischankfläche: "Giorgia", Weißenburger Str. 2
+- TOP 1.4.: Genehmigung einer Freischankfläche: "Livingroom", Wiener Platz 2
+- TOP 1.5.: Genehmigung einer Freischankfläche: "Polka Bar", Pariser Str. 38
+- TOP 1.6.: Genehmigung einer Freischankfläche: "Lottibar", Pariser Str. 40
+- TOP 1.7.: Erweiterung einer Freischankfläche: "Schwarzer Hahn", Ohlmüllerstr. 8 hier: neuer Plan (Anforderung aus der Sitzung vom 16.02.2022)
+- TOP 1.8.: Erweiterung einer bestehenden Freischankfläche: "Hosteria Fratelli", Steinstr. 9 (2 Anträge) Verweisung aus der Sitzung vom 16.03.2022 dazu: Änderungen laut Mitteilung BI vom 13.04.2022
+- TOP 1.9.: Genehmigung einer Freischankfläche: "Preysinggarten", Preysingstr. 69 Verweisung aus der Sitzung vom 16.03.2022
+- TOP 1.10.: Abstimmung über das neue Formular "Detailauskunft" für das Budget
+- TOP 1.11.: Erweiterung einer bestehenden Freischankfläche: "Zwein", Johannisplatz 11 Entscheidung BA 5 vom 16.02.2022 Schreiben Bezirksinspektion mit der Bitte um nochmalige Entscheidung nochmaliges Schreiben Bezirksinspektion vom 06.04.2022: Angelegenheit erledigt
+- TOP 1.12.: Genehmigung einer Freischankfläche: "Bernard et Bernard", Innere Wiener Str. 32
+- TOP 1.13.: Erweiterung / Änderung einer bestehenden Freischankfläche: "Polka Bar", Pariser Str. 38 Untergeschoss
+- TOP 1.14.: Erweiterung / Änderung einer bestehenden Freischankfläche: "Polka Restaurant", Pariser Str. 38 Erdgeschoss
+- TOP 1.15.: Erweiterung einer bestehenden Freischankfläche: "Zimtzicke", Elsässer Str. 25
+- TOP 1.16.: Genehmigung eines mobilen Fahrradständers für eine Kieferorthopädische Praxis, Max-Weber-Platz 1
+- TOP 1.17.: Genehmigung UND Erweiterung einer Freischankfläche (dauerhafte Parkplatzfreischankfläche): "Little Klimenti&#039;s", Kellerstr. 1
+- TOP 1.18.: Erweiterung einer bestehenden Freischankfläche: "Negroni Bar", Sedanstr. 9
+- TOP 2.: Anhörungen
+- TOP 2.1.: Haidhauser Flohmärkte des AKA e.V. auf der Postwiese am 07.05.2022 sowie 17.09.2022 Anhörungsfrist: 22.04.2022; Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.2.: Charity-Lauf am 08.10.2022 in den Maximiliansanlagen entlang der Isar/Innenstadt
+- TOP 2.3.: Blade-Night 2022 ab 09.05.2022, Start/Ziel: Am Bavariapark Anhörungsfrist: 20.04.2022; Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.4.: Novellierung der Sondernutzungsgebührensatzung und der Richtlinien Anhörungsfrist: 14.04.2022; Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.5.: Verlängerung der Corona Teststation am Pariser Platz / Weißenburger Platz
+- TOP 2.6.: "Kultursommer an der Isar", Alternativflächen Anhörungsfrist: 21.04.2022; Vorabstellungnahme durch den Vorsitzenden
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Auftritte mit diskriminierenden und menschenverachtenden Inhalten verhindern
+- TOP 3.2.: Veranstaltung des Bayernmarktes auf dem Mariahilfplatz vom 20.08.-04.09.2022
+- TOP 3.3.: Änderungen Anhörung Strandveranstaltung an der Corneliusbrücke (Bastion), vom 06.05. bis 06.08.2022
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Abstimmung über das neue Formular "Detailauskunft" für das Budget
+- TOP 2.: Anhörungen
+- TOP 2.1.: Breisacher Str. 11: Balkonanbau Mittelgebäude 1. und 2. Obergeschoss Frist: 23.03.2022, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.2.: Edlingerstr. 7: Um- und Ausbau zweier Dachgeschosswohnungen zu Maisonette-Wohnungen im Hauptgebäude sowie einen Aufzugseinbau und Erweiterung der Balkone, Neubau der Überbauung Hofeinfahrt, Umbau des geneigten Daches zu einem Flachdach mit Dachterrasse des Hofanbaus mit Teilabbruch Anbau und Neubau eines Zweifamilienhauses als Rückgebäude, Tektur Anhörungsfrist: 10.04.2022 Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.3.: Orleansplatz 5-5a: Einbau zweier Gauben anstelle zweier französischer Fenster und Anbau zweier Balkone (3. und 4. Obergeschoss), Tektur Anhörungsfrist: 17.04.2022 Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.4.: Lilienstr. 83: Wohnbebauung, Vorbescheid => dazu: Baumfällungen Anhörungsfrist: 17.04.2022 Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.5.: Sedanstr. 20: Abbruch und Neuerrichtung von Balkonen im Innenhof
+- TOP 2.6.: Entwurf der Beschlussvorlage "Schulbauoffensive 2013-2030; Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung" Anhörungsfrist: 28.04.2022; Vorabstellungnahme durch den Vorsitzenden - siehe auch UA Soziales -
+- TOP 2.7.: Gaisbergstraße 6-8: Erweiterung einer Feuerwehrzufahrt, sowie Einbau von Rettungsleitern zur Sicherung eines alternativen Rettungsweges => dazu: Baumfällungen
+- TOP 2.8.: Preysingstraße 103a-105: Erstellung der Außenanlage mit Sportbereichen, sowie einer Laufbahn und Rasenspielfeld; Vorplatzbereich – mit Befristung des südlichen Pausenhofbereichs auf 3 Jahre (Edith-Stein-Gymnasium) => dazu: Baumfällungen
+- TOP 2.9.: Zeppelinstraße 81: TEKTUR Umbau der DG-Wohnungen und deren Erweiterung um den Spitzboden, sowie 2er Gauben zu Loggien (DG); Einbau einer Aufzugsanlage und Anbau von hofseitigen Balkonen (EG + 4. OG) in einem Mehrfamilienhaus
+- TOP 2.10.: Innere Wiener Straße 18: Umbau, Aufstockung und Neubau 3er Wohneinheiten im Innenhof
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 3.2.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 3.3.: Wegeverbindung Maximiliansbrücke - Praterinsel
+- TOP 3.4.: Rückantwort der LBK zu Stellungnahmen BA 5: Edlingerstr. 9
+- TOP 3.5.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.6.: Sachstand Baugerüst Entenbachstr. 6 Antwort der LBK zu einem Bürgeranliegen
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Einrichtung eines gesonderten Radwegs auf dem Gebsattelberg in Fahrtrichtung Innenstadt Empfehlung Nr. 20-26 / E 00102 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 08.07.2021 Einführung Tempo 30 Zone vom Gebsattelberg bis zur Lilienstraße Empfehlung Nr. 20-26 / E 00094 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 08.07.2021
+- TOP 1.2.: Radstellplätze an Kreuzungen in der Unteren Au Verweisung aus der Sitzung vom 16.03.2022
+- TOP 1.3.: Pop-Up Fahrradspuren in der Ohlmüllerstraße und auf der Reichenbachbrücke Verweisung aus der Sitzung vom 16.03.2022 - aktualisierter Antrag vom 24.03.2022
+- TOP 1.4.: Abstimmung über das neue Formular "Detailauskunft" für das Budget
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Milchstr. 11
+- TOP 2.2.: Radwegsanierung Prinzregentenstraße, Erinnerungsverfahren
+- TOP 2.3.: Änderung Parkregeln in der Sieboldstraße - Parklizenzgebiet "Franziskanerstraße"
+- TOP 2.4.: Gehwege durch Radlständer schützen
+- TOP 2.5.: Fahrradparkplätze für die Kita Kirchenstr. 22
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Durchführung einer vergleichenden Personenbefragung zur Erfassung von Akzeptanz gegenüber automatisierten und vernetzten Fahrzeugen im Rahmen des Förderprojekts TEMPUS Erlass einer Personenbefragungssatzung der Landeshauptstadt München
+- TOP 3.2.: (U) Saisonale Stadträume – II Produkt 43122300 Straßenverkehrume - II Beschluss über die Finanzierung für das Jahr 2022 und 2023 aus der Nahmobilitätspauschale 1. Anlass 2. Sommerstraßen 3. Temporäre Spielstraßen 4. Bürgerschaftliche Initiativen und Interventionen im Straßenraum 5. Parklets 6. Notwendige Sachmittel 7. Behandlung der Anträge a) Sommerstraßen – Konzept verbessern Antrag Nr. 20-26 / A 01947 der Ausschussgemeinschaft ÖDP München Liste vom 28.09.2021 b) Spielen in der Stadt Antrag Nr. 20-26 / A 01994 der Fraktion Die Grünen / Rosa Liste vom 08.10.2021
+- TOP 3.3.: (U) IAA Mobility 2021 – Bericht über die Einhaltung der Stadtratsvorgaben Keine Ausrichtung der IAA in München mehr ohne richtiges Nachhaltigkeitskonzept Antrag Nr. 20-26 / A 0 20-26/A 01997 von der Fraktion ÖDP/München-Liste, Stadtratsfraktion DIE LINKE vom 11.10.2021 Keine IAA mehr auf öffentlichen Plätzen und Grünflächen in der Maxvorstadt Antrag Nr. 20-26 / B 03125 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 19.10.2021
+- TOP 3.4.: Errichtung einer Ladestation in der Kuglerstraße Höhe Spielplatz Schneckenburgerstraße
+- TOP 3.5.: Errichtung einer Paketstation in der Kuglerstraße Höhe Spielplatz Schneckenburgerstraße
+- TOP 3.6.: Sichere Kreuzungen durch bessere Sichtbeziehungen – Umwandlung von KfZ- in Fahrradstellplätze
+- TOP 3.7.: Verkehrsrechtliche Anordnungen a) Gaisbergstraße 1 Seite Lucile-Grahn-Straße; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze b) Rosenheimer Straße (Arbeiten Trambaumaßnahme) vom vom 14.03.2022 bis 30.09.2022 c) Sanierung DB-Brücke Balanstraße, Vollsperre der Balanstraße von 04.04.-22.04.2022
+- TOP 3.8.: Rückmeldung zur LSA Innere Wiener/Stubenvollstraße
+- TOP 3.9.: Personalaufstockung bei der Kommunalen Verkehrsüberwachung; hier: Abschleppungen Antwort Polizeipräsidium zum Schreiben BA 5
+- TOP 3.10.: Dialog-Displays in München, Auswertung Pilotversuch und weiteres Vorgehen Antwort Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.11.: Großbaustellen sinnvoll koordinieren
+- TOP 3.12.: Verkehrssicherheit am Pestalozzigymnasium Protokoll Ortstermin vom 26.01.2022
+- TOP 3.13.: Saisonale Stadträume, Auswahlverfahren Sommerstraßen 2022 – Ergebnisse und weiteres Vorgehen Ortstermin am 06.04.2022
+- TOP 3.14.: Kurzzeitsitzplätze und Fahrradkarussells im öffentlichen Raum, Empfehlung Nr. 20-26 / E 00111; Sitzungsvorlage Nr. 20-26 / V 05164: Abweichender Beschluss BA 5 vom 15.12.2021 Stellungnahme Baureferat
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Umwandlung der Kuglerstraße in eine reine Anliegerstraße
+- TOP 4.2.: Erleichterung eines Zuganges zur Kirche St. Gabriel
+- TOP 4.3.: Einrichtung einer Lade-/Lieferzone in der Sedan-/Metzstrasse
+- TOP 4.4.: Gefährliche Verkehrssituation Lothringer Straße
+- TOP 4.5.: Stadtterrasse & Parklet am "Breisässer" Platz, hier: Antrag auf einen Fahrrad- und Motorradstellplatz Verweisung aus der Sitzung vom 16.03.2022
+- TOP 4.6.: Verlängerung der Ampelschaltung an der Kreuzung Grillparzerstrasse/ Einsteinstrasse
+- TOP 4.7.: HotRods - Antrag gegen Lärmbelästigung / Veränderung der Fahrroute
+- TOP 4.8.: Entschärfung der Gefahrenstelle an der Kreuzung Langerstraße / Maria-Theresia-Straße
+- TOP 4.9.: Autofreier Sonntag in Au-Haidhausen Antwort Mobilitätsreferat zur Anfrage BA
+- TOP VII.: Klima und Umwelt
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Budgetantrag "Die saubere Straße" von rehab republic e.V.
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Abstimmung über das neue Formular "Detailauskunft" für das Budget
+- TOP 2.: Anhörungen
+- TOP 2.1.: Max-Planck-Str. 1: Fällung 1 Vogel-Kirsche, 1 Sämling Kornelkische, 1 Elfenblume Anhörungsfrist: 01.04.2022
+- TOP 2.2.: Klimaschutz konkret - „Klima-Ausschuss“ in jedem Bezirksausschuss
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 3.2.: (U) Vereinbarkeit von § 10 Abs. 3 und 4 der Satzung des Vereins zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V. mit dem Gebot der Haftungsbegrenzung gem. Art. 92 Abs. 1 Satz 1 Nr. 3 GO – Prüfauftrag des Bayer. Kommunalen Prüfungsverbandes aus dem Jahr 2013 / 2021
+- TOP 3.3.: Versetzung des Weihnachtsbaums auf dem Wiener Platz prüfen!
+- TOP 3.4.: Behinderung zu Fuß Gehender durch die Standorte der Altkleider-Container an der Wertstoffinsel Spicheren-/Elsässer Straße
+- TOP 3.5.: Protokoll Ortstermin am 23.03.2022: Festlegung der Standorte für die Sitzgelegenheiten am Mariahilfplatz
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Baumpflanzungen in der Kuglerstraße
+- TOP 4.2.: Blühstreifen entlang der Welfenstraße schützen
+- TOP 4.3.: Kahle Grünstreifen in Au-Haidhausen (TOP 5.1 im UA-Protokoll)
+- TOP 5.: Sonstiges
+- TOP 5.1.: Klimaherbst Budgetnutzung
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 09.05.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Mobilität, 09.05.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 10.05.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 11.05.2022, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 11.05.2022, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 12.05.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Videokonferenz statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 18.05.2022, 19.00 Uhr, Salesianum, Sieboldstr. 13 BA-Vorstand, Dienstag, 03.05.2022, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 4.2.: Grünpatenschaft Schneckenburgerstrasse
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - UA Kultur, TOP 6: Graffiti-Gestaltung Kolumbusplatz - UA Kultur, TOP 7: Anhörung "LOCUS" Kunst- u. Kulturprogramm - UA Soziales, TOP 1.4: (E) Stadtbezirksbudget PräVentio Selbstschutz - UA Wirtschaft, zu TOP 1.8: Änderungen laut Mitteilung BI vom 13.04.2022 - UA Wirtschaft, TOP 1.11:Freischankfläche: "Zwein", Johannisplatz 11 UND nochmaliges Schreiben Bezirksinspektion vom 06.04.2022: Angelegenheit erledigt - UA Wirtschaft, TOP 1.12: Freischankfläche: "Bernard et Bernard", Innere Wiener Str. 32 - UA Wirtschaft, TOP 1.13: Freischankfläche: "Polka Bar", Pariser Str. 38 - UA Wirtschaft, TOP 1.14: Freischankfläche: "Polka Restaurant", Pariser Str. 38 - UA Wirtschaft, TOP 1.15: Freischankfläche: "Zimtzicke", Elsässer Str. 25 - UA Wirtschaft, TOP 1.16: Mobiler Fahrradständer, Max-Weber-Platz 1 - UA Wirtschaft, TOP 1.17: Freischankfläche: "Little Klimenti&#039;s", Kellerstr. 1 - UA Wirtschaft, TOP 1.18: Freischankfläche: "Negroni Bar", Sedanstr. 9 - UA Wirtschaft, TOP 2.5: Verlängerung der Corona Teststation am Pariser Platz / Weißenburger Platz - UA Wirtschaft, TOP 2.6: "Kultursommer an der Isar", Alternativflächen - UA Wirtschaft, TOP 3.2: Veranstaltung des Bayernmarktes auf dem Mariahilfplatz - UA Wirtschaft, TOP 3.3: Änderungen Anhörung Strandveranstaltung an der Corneliusbrücke (Bastion)
