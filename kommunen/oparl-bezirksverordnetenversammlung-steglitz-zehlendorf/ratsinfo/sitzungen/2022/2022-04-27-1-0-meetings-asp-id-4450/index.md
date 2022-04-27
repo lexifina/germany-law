@@ -1,0 +1,80 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf - Videokonferenz
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2022-04-27T17:00:00+02:00
+- Ende: 2022-04-27T23:00:00+02:00
+- Ort: Bürgersaal , Rathaus Zehlendorf
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4450
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4450
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Lichterfelder Rundstreckenrennen in Gefahr? - beantwortet
+- TOP 3.2: Tafeln im Bezirk - beantwortet
+- TOP 3.3: Defizitbewältigung im Jugendamt - beantwortet
+- TOP 3.4: Kitaplätze für ukrainische Flüchtlingskinder - beantwortet
+- TOP 3.5: Verharmlosung von Drogenkonsum durch bezirkliche Werbekampagne - beantwortet
+- TOP 3.6: Der Steglitzer Kreisel – wie geht's weiter? - schriftlich beantwortet
+- TOP 3.7: „Housing first“ schon Teil der DNA des Bezirksamtes? - schriftlich beantwortet
+- TOP 3.8: Gewinnung ehrenamtlich tätiger Menschen - schriftlich beantwortet
+- TOP 3.9: E-Roller in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 3.10: Überlastetes Bezirksamt? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahl der Patientenfürsprecherinnen und Patientenfürsprecher für die VI. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Sondermittel der BVV für den Zehlendorfer TSV v. 1888 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungsplan 6-24 (Fischerhüttenstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Überquerung Radweg Gallwitzallee/Thaliaweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Partizipation an der AG Aufenthaltsqualität - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Veröffentlichung der Namen der „Stillen Helden“ II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Stigmatisierung beenden und effektiv Hilfe leisten: Einrichtung eines Drogenkonsumraums prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Nur Bares ist Wahres! Anerkennungszulage im Gesundheitsamt - in der BVV abgelehnt
+- TOP 4.9: Jährlicher Wohnungsneubaubericht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Lesbarkeit von Straßennamen - überwiesen
+- TOP 5.2: Die bezirkliche Straßenbenennungsliste und das Verzeichnis der bezirklichen Straßennamen auf den Seiten des Bezirks veröffentlichen - überwiesen
+- TOP 5.3: Sanierung des Bahnhofsgebäudes Lichterfelde-Ost - überwiesen
+- TOP 5.4: Verkehrsabfluss in Lichterfelde-Süd: S-Bahn-Züge der S25 und S26 verlängern - überwiesen
+- TOP 5.5: Rosemeyerweg umbenennen! - überwiesen
+- TOP 5.6: Umbenennung Treitschkestraße - überwiesen
+- TOP 5.7: Seniorengerechte Parkbänke - überwiesen
+- TOP 5.8: Bezahlung per Kreditkarte im Bürgeramt sicherstellen - überwiesen
+- TOP 5.9: Wismarer Straße: Fußgänger*innen- statt Warteampel - überwiesen
+- TOP 5.10: Baumfällung durch Baumaßnahmen – Information und Erfassung - überwiesen
+- TOP 5.11: Das Bezirksamt soll die Beschlüsse der BVV hinsichtlich Hinweistafeln am Hindenburgdamm, Weddigenweg und der Gallwitzallee umsetzen - überwiesen
+- TOP 5.12: Gedenken an die bewegte Geschichte des Hauses Ahornstraße 15a - überwiesen
+- TOP 5.13: Schulen wieder handlungsfähig machen! - überwiesen
+- TOP 5.14: Mehr Materialräume in Sporthallen und auf den Sportplätzen für Sportvereine - überwiesen
+- TOP 5.15: E-Lastenfahrrad-Richtlinie – Förderprogramm nutzen - überwiesen
+- TOP 5.16: Fahrradabstellanlagen - überwiesen
+- TOP 5.17: Förderprogramm "Klimaschutz durch Radverkehr" für Steglitz-Zehlendorf sofort nutzen – Einreichungsfrist für finanzschwache Kommunen beachten - überwiesen
+- TOP 5.18: Am Förderaufruf "Investive, kommunale Klimaschutz-Modellprojekte" teilnehmen - überwiesen
+- TOP 5.19: Pilotprojekt E-Bus 284 - überwiesen
+- TOP 5.20: Regenwasserkonzept - überwiesen
+- TOP 5.21: Gefahrenstellen für Sehbehinderte beseitigen - überwiesen
+- TOP 5.22: Kostenlose Sperrmülltage auch in 2022 und 2023 anbieten - überwiesen
+- TOP 5.23: Erweiterung der Zahlungsmöglichkeiten in den Bürgerämtern - überwiesen
+- TOP 5.24: Zivilschutz prüfen und stärken - überwiesen
+- TOP 5.25: Wider den Fahrradspeichentod am Stadion Lichterfelde aber jetzt endlich!! - überwiesen
+- TOP 5.26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.27: Digitalisierung möglich machen – Schulen nicht im Förderdschungel allein lassen - überwiesen
+- TOP 5.28: Baummangel im Kleinen präventiv begegnen - überwiesen
+- TOP 5.29: Bewegungsfreiheit von Senioren respektieren - überwiesen
+- TOP 5.30: Modellprojekt nachhaltiges Regenwassermanagement im Parkviertel Dahlem - überwiesen
+- TOP 6: Anträge - erledigt
+- TOP 6.1: Missbilligung der Amtsführung der Bezirksbürgermeisterin mit einem Schaden von 2,7 Millionen € für den Bezirk - überwiesen
+- TOP 6.2: Auslegung B-Plan 6-30 – update 2022 - überwiesen
+- TOP 6.3: Umsetzung des Berliner Modells der kooperativen Baulandentwicklung beim Neubaugebiet Lichterfelde-Süd - überwiesen
+- TOP 6.4: Angsträume erkennen und beseitigen - überwiesen
+- TOP 6.5: Wir würdigen den Einsatz der ehrenamtlichen Hilfskräfte für die Flüchtlinge aus der Ukraine – ein Sommerfest als Zeichen der Anerkennung - überwiesen
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Bezirkliches Radnebenroutennetz in der Goerzallee absichern - vertagt
+- TOP 7.2: Marchandstraße - vertagt
+- TOP 7.3: Baumpflege intensivieren - vertagt
+- TOP 7.4: Erstellung eines Sportentwicklungsplanes für Steglitz-Zehlendorf - vertagt
+- TOP 7.5: Runder Tisch Regionalgeschichte - vertagt
