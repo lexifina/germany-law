@@ -1,0 +1,182 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-04-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6849278
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6849278
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Half-Pipe auf dem Eichendorf Platz
+- TOP 6.2.: Künstlerische Neugestaltung der Wasserdruckregulieranlage
+- TOP 6.3.: Leichtere Anfahrt für Fahrradfahrende zum Wertstoffhof Tübinger Straße
+- TOP 6.4.: Parksituation von Schwerlastkraftwagen in der Murnauer Straße
+- TOP 6.5.: Aushangtafeln im Westpark
+- TOP 6.6.: Parken Drachenseestraße
+- TOP 6.7.: Partnachplatz Verschmutzung
+- TOP 6.8.: Drachenseestr/Ecke Ötztaler:täglich grüßt das Murmeltier.
+- TOP 6.9.: Krähenfeste Abfalleimer Luise-Kiesselbach-Platz
+- TOP 6.10.: Oetztaler Poller
+- TOP 6.11.: Verkehrszeichen - erneuter Hinweis
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) + (U) Neue Fußgängerampel/Zebrastreifen auf der Albert-Roßhaupter-Straße Empfehlung Nr. 20-26 / E 00332 der Bürgerversammlung des Stadtbezirkes Nr. 07 Sendling-Westpark am 11.10.2021
+- TOP 8.2.: (E) + (U) Roller auf den Bürgersteigen Empfehlung Nr. 20-26 / E 00328 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 11.10.2021
+- TOP 8.3.: (E) + (U) LKW Fahrverbot Murnauerstraße in nördlicher Richtung, ausser Lieferverkehr Empfehlung Nr. 20-26 / E 00371 der Bürgerversammlung des Stadtbezirkes 07 – Sendling-Westpark am 11.10.2021
+- TOP 8.4.: (E) + (U) Geschwindigkeitsreduzierung in der Heckenstallerstr. Empfehlung Nr. 20-26 / E 00335 der Bürgerversammlung des Stadtbezirkes 07 – Sendling- Westpark am 11.10.2021 Erweiterung der Markierung in der Heckenstallerstraße Empfehlung Nr. 20-26 / E 00336 der Bürgerversammlung des Stadtbezirkes 07 – Sendling- Westpark am 11.10.2021
+- TOP 8.5.: (E) + (U) Tempo 30 Murnauerstraße nördlich Höglwörther Straße Empfehlung Nr. 20-26 / E 00367 der Bürgerversammlung des Stadtbezirkes 07 – Sendling-Westpark am 11.10.2021
+- TOP 8.6.: (E) + (U) Radweg Passauerstraße Empfehlung Nr. 20-26 / E 00331 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 11.10.2021
+- TOP 8.7.: (E) + (U) Zuverlässigkeit Verkehrsmittel Empfehlung Nr. 20-26 / E 00360 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 11.10.2021
+- TOP 8.9.: Abbau Litfaßsäule
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Umgestaltung Grünanlage am Partnachplatz
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Luise-Kiesselbach-Stiftung Schaffung eines Erinnerungsortes für eine bedeutende Frau der bayerischen Geschichte vom 29.04.2022 - 31.05.2022 2.500,00€; Az. 0262.0-7-0369
+- TOP 11.: Anträge
+- TOP 11.1.: Fahrradwegmarkierung-Zillertalstrasse
+- TOP 11.2.: Halteverbot Säuling- Kreuzeckstr.
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1.: Streamen von BA-Sitzungen - Schreiben Direktorium
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Luise-Kiesselbach-Platz_Zirkus Rio Artistik
+- TOP 16.2.: Luise-Kiesselbach-Platz, Maifeier Tanz um den Maibaum
+- TOP 16.3.: Heckenstaller Park, Theater vor der Haustür
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Teamstaffel-Lauf
+- TOP 17.2.: Westpark, große Zirkuswiese, Zirkuslus
+- TOP 17.3.: Westpark, Anhörung, Theatron, mehrere Gottesdienste
+- TOP 17.4.: Westpark, Ostteil, Frühlingsfest des Montessori Kinderhauses
+- TOP 17.5.: Gymnastikwiese, Tanzen im Park, immer freitags von Mai bis September
+- TOP 17.6.: Westpark, Seebühne, Musikalisches Weinfest im Juni und September
+- TOP 17.7.: Westpark, Theatron, Gottesdienste im Freien
+- TOP 17.8.: Westpark, Mollsee, Tag der Schiffsmodellbauer
+- TOP 17.9.: Theatron, Monacorona-Konzerte
+- TOP 17.10.: Trommelaktion
+- TOP 17.11.: Veranstaltung in div. städtischen Grünanlagen:Fit im Park der LHM
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 21.1.: Container für Glasfaserbetrieb
+- TOP 21.2.: Ausschreibung Gebäude Luise-Kiesselbach-Platz
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Anfrage wegen Neubau einer Lichtsignalanlage
+- TOP 25.2.: Heckenstallerpark:Gefahrenbeschilderung wegen Spielplatz
+- TOP 25.3.: Albert-Roßhaupter-Straße:Stop-Zeichen an der Kreuzung Weilheimer Str./Luise-Kiesselbach-Platz - Nebenfahrbahn
+- TOP 25.4.: BAB 95 Zufahrtsrampe:weiteres Gefahrenzeichen
+- TOP 25.5.: Dokumentation der digitalen Beteiligungsveranstaltung zur Mobilitätsstrategie 2035
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 32.1.: MVG-Leistungsprogramm 2023
+- TOP 33.: Baureferat
+- TOP 33.1.: Antw_Infoschilder Westpark
+- TOP 33.2.: Fristverlängerung Einrichtung von Fahrradabstellplätzen an der Bus-Haltestelle Hinterbärenbad Straße
+- TOP 33.3.: Umbau Zufahrtsrampe Unterführung A 95
+- TOP 33.4.: Radverkehr im Westpark
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 34.1.: BSA Siegenburger Str - Schreiben OB-Büro
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Leerstand eines Wohnhauses
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Zwischennachricht Verkehrsberuhgung Pfrontner Platz
+- TOP 40.2.: Neuprofilierung der Murnauer Straße
+- TOP 40.3.: Ausweichrouten des Pendlerverkehrs in Sendling-Westpark
+- TOP 40.4.: Verkehrszahlen für ausgewählte Tempo 30-Bereiche in Sendling-Westpark
+- TOP 40.5.: Martin-Behaim-Straße
+- TOP 40.6.: Teilentsiegelung Inninger Str.
+- TOP 40.7.: Alb-Roßhaupter-Str:Querungsmöglichkeiten
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Sachstand zur BSA Siegenburger
+- TOP 42.2.: PCR-Tests in städtische Kitas
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: BA11:Antrag zu illegalen Baumfällungen
+- TOP 47.2.: Beschlussvorlage Dialog-Displays - Stellungnahme des BA 1
+- TOP 47.3.: IG Fussballvereine BSA Siegenburger
+- TOP 47.4.: Interessengemeinschaft SCA_BSC_FCL
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Nepalpagode, buddhistische Meditationen und Gebete
+- TOP 53.2.: Bescheid, Westpark, kleine Zirkuswiese, Rio Artistik
+- TOP 53.3.: Bescheid, Westpark, Theatron, Ars Musica
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Tübinger Str U-Bahn Haltverbot
+- TOP 56.2.: Weilheimer Straße Zusatz Schulweg
+- TOP 56.3.: Auswahl der Sommerstraßen 2022
+- TOP 56.4.: Drehgenehmigung Westpark - Gut zu Wissen-Emotionen
+- TOP 56.5.: Präsentation zur Veranstaltung Nahverkehrsplan der Landeshauptstadt München
+- TOP 56.6.: Beitrag über Kurs mit einer Lachtrainerin München TV
+- TOP 56.7.: Heckenstallerstr Gefahrenbeschilderung Höhe Grabbeweg
+- TOP 56.8.: Stadtradeln
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Hammersbacher Str.
+- TOP 61.2.: (U) Vereinbarkeit von § 10 Abs. 3 und 4 der Satzung des Vereins zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V. mit dem Gebot der Haftungsbegrenzung gem. Art. 92 Abs. 1 Satz 1 Nr. 3 GO – Prüfauftrag des Bayer. Kommunalen Prüfungsverbandes aus dem Jahr 2013 / 2021
+- TOP 61.3.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 61.4.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 61.5.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 61.6.: (U) Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2021/2022
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Abbruch Ebermayerstr.
+- TOP 62.2.: Abbruch - Kuhfluchtstr
+- TOP 62.3.: Erhaltungssatzung Alpspitzstr
+- TOP 62.4.: Abbruchs in der Penzberger Str.
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Unterstützungsbitte Stellungnahme zur Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 63.2.: BV Ohlstadter Straße
+- TOP 63.3.: BV Albert-Roßhaupter-Straße
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Abgeschlossenheitsbescheinigung
+- TOP 65.2.: Catering Jahresempfang 2022
+- TOP 35.1.: Jahresempfang eigene Finanzmittel
+- TOP 56.9.: DG Westpark - Black China
+- TOP 8.8.: (E) + (U) Abbau der Litfaßsäule Murnauerstraße/Schinnaglstraße und Aufstellen eines fest installierten Blitzers Empfehlung Nr. 20-26 / E 00372 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 11.10.2021
