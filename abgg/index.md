@@ -119,8 +119,7 @@ Sicherheit der ehemaligen Deutschen Demokratischen Republik](0044c.md)
 
 ## Zwölfter Abschnitt (weggefallen)
 
-- [§ 55 (weggefallen)](0055.md)
-- [§ 55 Aufgaben](0055-2.md)
+- [§ 55 Aufgaben](0055.md)
 - [§ 56 Organisation](0056.md)
 - [§ 57 Geheimhaltungspflicht der Fraktionsangestellten](0057.md)
 - [§ 58 Geld- und Sachleistungen](0058.md)
