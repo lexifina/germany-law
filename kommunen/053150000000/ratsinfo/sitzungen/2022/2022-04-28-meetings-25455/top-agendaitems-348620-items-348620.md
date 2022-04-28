@@ -1,0 +1,8 @@
+# TOP -: Geflüchtete im Stadtbezirk Nippes – Russlands Angriffskrieg auf die Ukraine
+
+- Sitzung: 13. Sitzung der Bezirksvertretung Nippes (2022-04-28)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/348620
+- Ergebnis: Sache ist erledigt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/162548
