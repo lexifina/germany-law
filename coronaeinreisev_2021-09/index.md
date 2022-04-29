@@ -25,7 +25,7 @@
 
 ## Abschnitt 4 Pflichten der Mobilfunknetzbetreiber
 
-- [§ 12 Informationspflichten der Mobilfunknetzbetreiber](0012.md)
+- [§ 12 (weggefallen)](0012.md)
 
 ## Abschnitt 5 Schlussbestimmungen
 
