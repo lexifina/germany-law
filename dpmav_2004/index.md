@@ -26,6 +26,7 @@
 - [§ 16 Kennnummern für Anmelder, Vertreter und Angestelltenvollmachten](0016.md)
 - [§ 17 Sonstige Erfordernisse für Anträge und Eingaben](0017.md)
 - [§ 18 Fristen](0018.md)
+- [§ 18a Fristberechnung bei Feiertagen](0018a.md)
 - [§ 19 Entscheidung nach Lage der Akten](0019.md)
 - [§ 20 Form der Ausfertigungen und Abschriften; formlose Mitteilungen](0020.md)
 - [§ 21 Zustellung und formlose Übersendung](0021.md)

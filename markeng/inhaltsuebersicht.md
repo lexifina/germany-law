@@ -163,41 +163,31 @@
 | § 106g | Verfall |
 | § 106h | Nichtigkeit wegen absoluter Schutzhindernisse |
 | Teil 6 |
-|  | Schutz von Marken nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken |
+|  | Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken |
 |  |  | Abschnitt 1 |
-|  |  |  | Schutz von Marken nach dem Madrider Markenabkommen |
-| § 107 | Entsprechende Anwendung der Vorschriften dieses Gesetzes; Sprache |
+|  |  |  | Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen |
+| § 107 | Anwendung der Vorschriften dieses Gesetzes; Sprachen |
 | § 108 | Antrag auf internationale Registrierung |
 | § 109 | Gebühren |
-| § 110 | Eintragung im Register |
+| § 110 | Vermerk in den Akten, Eintragung im Register |
 | § 111 | Nachträgliche Schutzerstreckung |
-| § 112 | Wirkung der internationalen Registrierung |
+| § 112 | Wirkung der internationalen Registrierung und der nachträglichen Schutzerstreckung |
 | § 113 | Prüfung auf absolute Schutzhindernisse |
 | § 114 | Widerspruch gegen eine international registrierte Marke |
 | § 115 | Schutzentziehung |
-| § 116 | Widerspruch aufgrund einer international registrierten Marke und Antrag auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke |
-| § 117 | Ausschluß von Ansprüchen wegen mangelnder Benutzung |
-| § 118 | Zustimmung bei Übertragungen international registrierter Marken |
+| § 116 | Widerspruch aufgrund einer international registrierten Marke und Antrag oder Klage auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke |
+| § 117 | Ausschluss von Ansprüchen wegen mangelnder Benutzung |
+| § 118 | Umwandlung einer internationalen Registrierung |
 |  |  | Abschnitt 2 |
-|  |  |  | Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen |
-| § 119 | Anwendung der Vorschriften dieses Gesetzes; Sprachen |
-| § 120 | Antrag auf internationale Registrierung |
-| § 121 | Gebühren |
-| § 122 | Vermerk in den Akten; Eintragung im Register |
-| § 123 | Nachträgliche Schutzerstreckung |
-| § 124 | Entsprechende Anwendung der Vorschriften über die Wirkung der nach dem Madrider Markenabkommen international registrierten Marken |
-| § 125 | Umwandlung einer internationalen Registrierung |
-|  |  | Abschnitt 3 |
 |  |  |  | Unionsmarken |
-| § 125a | (weggefallen) |
-| § 125b | Anwendung der Vorschriften dieses Gesetzes |
-| § 125c | Nachträgliche Feststellung der Ungültigkeit einer Marke |
-| § 125d | Umwandlung von Unionsmarken |
-| § 125e | Unionsmarkenstreitsachen; Unionsmarkengerichte |
-| § 125f | Unterrichtung der Kommission |
-| § 125g | Örtliche Zuständigkeit der Unionsmarkengerichte |
-| § 125h | Insolvenzverfahren |
-| § 125i | Erteilung der Vollstreckungsklausel |
+| § 119 | Anwendung der Vorschriften dieses Gesetzes |
+| § 120 | Nachträgliche Feststellung der Ungültigkeit einer Marke |
+| § 121 | Umwandlung von Unionsmarken |
+| § 122 | Unionsmarkenstreitsachen; Unionsmarkengerichte |
+| § 123 | Unterrichtung der Kommission |
+| § 124 | Örtliche Zuständigkeit der Unionsmarkengerichte |
+| § 125 | Insolvenzverfahren |
+| § 125a | Erteilung der Vollstreckungsklausel |
 | Teil 7 |
 |  | Geographische Herkunftsangaben |
 |  |  | Abschnitt 1 |

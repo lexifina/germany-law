@@ -103,29 +103,29 @@
 | 312 206 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 100 |
 | 312 207 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
 |  | Jahresgebühren gemäß § 16a PatG |  |
-| 312 210 | für das 1. Jahr des ergänzenden Schutzes . . . . . . . . . . | 2 650 |
+| 312 210 | für das 1. Jahr des ergänzenden Schutzes . . . . . . . . . . | 2 920 |
 | 312 211 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 1 325 |
+|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 1 460 |
 | 312 212 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 220 | für das 2. Jahr des ergänzenden Schutzes . . . . . . . . . . | 2 940 |
+| 312 220 | für das 2. Jahr des ergänzenden Schutzes . . . . . . . . . . | 3 240 |
 | 312 221 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 1 470 |
+|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 1 620 |
 | 312 222 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 230 | für das 3. Jahr des ergänzenden Schutzes . . . . . . . . . . | 3 290 |
+| 312 230 | für das 3. Jahr des ergänzenden Schutzes . . . . . . . . . . | 3 620 |
 | 312 231 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) | 1 645 |
+|  | (§ 23 Abs. 1 PatG) | 1 810 |
 | 312 232 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 240 | für das 4. Jahr des ergänzenden Schutzes . . . . . . . . . . | 3 650 |
+| 312 240 | für das 4. Jahr des ergänzenden Schutzes . . . . . . . . . . | 4 020 |
 | 312 241 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 1 825 |
+|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 2 010 |
 | 312 242 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 250 | für das 5. Jahr des ergänzenden Schutzes . . . . . . . . . . | 4 120 |
+| 312 250 | für das 5. Jahr des ergänzenden Schutzes . . . . . . . . . . | 4 540 |
 | 312 251 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 2 060 |
+|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 2 270 |
 | 312 252 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 260 | für das 6. Jahr des ergänzenden Schutzes . . . . . . . . . . | 4 520 |
+| 312 260 | für das 6. Jahr des ergänzenden Schutzes . . . . . . . . . . | 4 980 |
 | 312 261 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 2 260 |
+|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 2 490 |
 | 312 262 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
 | 3. Sonstige Anträge |
 | 313 000 | Weiterbehandlungsgebühr (§ 123a PatG) . . . . . . . . . . | 100 |
@@ -213,19 +213,19 @@
 | 333 600 | – Änderung einer Lizenz (§ 30 Abs. 6 Satz 2 MarkenG) . . . . . . . . . . | 50 |
 | 333 700 | – Löschung einer Lizenz (§ 30 Abs. 6 Satz 3 MarkenG) . . . . . . . . . . | 50 |
 | 4. International registrierte Marken |
-| 334 100 | Nationale Gebühr für die internationale Registrierung nach Artikel 3 des Madrider Markenabkommens (§ 108 MarkenG) oder nach dem Protokoll zum Madrider Markenabkommen und dem Protokoll zum Madrider Markenabkommen (§§ 108 und 120 MarkenG) . . . . . . . . . . | 180 |
-| 334 300 | Nationale Gebühr für die nachträgliche Schutzerstreckung nach Artikel 3ter Abs. 2 des Madrider Markenabkommens (§ 111 MarkenG) oder nach Artikel 3ter Abs. 2 des Protokolls zum Madrider Markenabkommen (§ 123 Abs. 1 MarkenG) sowie nach dem Madrider Markenabkommen und dem Protokoll zum Madrider Markenabkommen (§ 123 Abs. 2 MarkenG) . . . . . . . . . . | 120 |
-|  | Umwandlungsverfahren einschließlich der Klassengebühr bis zu drei Klassen (§ 125 Abs. 1 MarkenG) |  |
+| 334 100 | Nationale Gebühr für die internationale Registrierung nach dem Protokoll zum Madrider Markenabkommen (§ 108 MarkenG) . . . . . . . . . . | 180 |
+| 334 300 | Nationale Gebühr für die nachträgliche Schutzerstreckung nach Artikel 3ter Abs. 2 des Protokolls zum Madrider Markenabkommen (§ 111 Abs. 1 MarkenG) . . . . . . . . . . | 120 |
+|  | Umwandlungsverfahren einschließlich der Klassengebühr bis zu drei Klassen (§ 118 Abs. 1 MarkenG) |  |
 | 334 500 | – für eine Marke (§ 32 MarkenG) . . . . . . . . . . | 300 |
 | 334 600 | – für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG) . . . . . . . . . . | 900 |
 |  | Klassengebühr bei Umwandlung für jede Klasse ab der vierten Klasse |  |
 | 334 700 | – für eine Marke (§ 32 MarkenG) . . . . . . . . . . | 100 |
-| 334 800 | – für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG) . . . . . . . . . . | 150 |
-| 5. Gemeinschaftsmarken |
-|  | Umwandlungsverfahren (§ 125d Abs. 1 MarkenG) |  |
+| 334 800 | – für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG). . . . . . . . . . | 150 |
+| 5. Unionsmarken |
+|  | Umwandlungsverfahren (§ 122 Abs. 1 MarkenG) |  |
 | 335 200 | – für eine Marke (§ 32 MarkenG) . . . . . . . . . . | 300 |
 | 335 300 | – für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG) . . . . . . . . . . | 900 |
-|  | Klassengebühr bei Umwandlung ab der zweiten Klasse pro Klasse |  |
+|  | Klassengebühr bei Umwandlung für jede Klasse ab der vierten Klasse |  |
 | 335 400 | – für eine Marke (§ 32 MarkenG) . . . . . . . . . . | 100 |
 | 335 500 | – für eine Kollektiv- oder Gewährleistungsmarke (§§ 97 und 106a MarkenG) . . . . . . . . . . | 150 |
 | 6. Geographische Angaben und Ursprungsbezeichnungen |

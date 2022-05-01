@@ -24,6 +24,7 @@ Abschnitt 3
 Allgemeine Meldepflichten
 | § 17 | Anmeldung, Abmeldung |
 | § 18 | Meldebescheinigung |
+| § 18a | Meldedatensatz zum Abruf |
 | § 19 | Mitwirkung des Wohnungsgebers |
 | § 20 | Begriff der Wohnung |
 | § 21 | Mehrere Wohnungen |
@@ -47,12 +48,14 @@ Unterabschnitt 1
 Datenübermittlungen zwischen öffentlichen Stellen
 | § 33 | Datenübermittlungen zwischen den Meldebehörden |
 | § 34 | Datenübermittlungen an andere öffentliche Stellen |
+| § 34a | Personensuche und freie Suche im automatisierten Abruf |
 | § 35 | Datenübermittlungen an ausländische Stellen |
 | § 36 | Regelmäßige Datenübermittlungen |
 | § 37 | Datenweitergabe |
-| § 38 | Automatisierter Abruf |
+| § 38 | Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen |
 | § 39 | Verfahren des automatisierten Abrufs |
-| § 40 | Protokollierungspflicht bei automatisiertem Abruf |
+| § 39a | Datenbestätigung für öffentliche Stellen |
+| § 40 | Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung |
 | § 41 | Zweckbindung übermittelter Daten und Hinweise |
 | § 42 | Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften |
 | § 43 | Datenübermittlungen an die Suchdienste |
@@ -64,6 +67,7 @@ Melderegisterauskunft
 | § 47 | Zweckbindung der Melderegisterauskunft |
 | § 48 | Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten |
 | § 49 | Automatisierte Melderegisterauskunft |
+| § 49a | Datenbestätigung |
 | § 50 | Melderegisterauskünfte in besonderen Fällen |
 | § 51 | Auskunftssperren |
 | § 52 | Bedingter Sperrvermerk |

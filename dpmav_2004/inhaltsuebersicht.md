@@ -22,6 +22,7 @@
 | § 16 | Kennnummern für Anmelder, Vertreter und Angestelltenvollmachten |
 | § 17 | Sonstige Erfordernisse für Anträge und Eingaben |
 | § 18 | Fristen |
+| § 18a | Fristberechnung bei Feiertagen |
 | § 19 | Entscheidung nach Lage der Akten |
 | § 20 | Form der Ausfertigungen und Abschriften; formlose Mitteilungen |
 | § 21 | Zustellung und formlose Übersendung |

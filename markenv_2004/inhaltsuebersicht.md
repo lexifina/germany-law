@@ -76,9 +76,9 @@
 | § 42c | Erklärung der Lizenzierungs- oder Veräußerungsbereitschaft |
 | Teil 5 |
 |  | Internationale Registrierungen |
-| § 43 | Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen |
+| § 43 | (weggefallen) |
 | § 44 | Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Protokoll zum Madrider Markenabkommen |
-| § 45 | Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen |
+| § 45 | (weggefallen) |
 | § 46 | Schutzverweigerung |
 | Teil 6 |
 |  | Verfahren nach der Verordnung (EU) Nr. 1151/2012 |

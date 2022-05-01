@@ -188,48 +188,34 @@ als Kollektivmarken](0099.md)
 - [§ 106g Verfall](0106g.md)
 - [§ 106h Nichtigkeit wegen absoluter Schutzhindernisse](0106h.md)
 
-## Teil 6 Schutz von Marken nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken
+## Teil 6 Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken
 
 
-### Abschnitt 1 Schutz von Marken nach dem Madrider Markenabkommen
+### Abschnitt 1 Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen
 
-- [§ 107 Entsprechende Anwendung der Vorschriften dieses Gesetzes; Sprache](0107.md)
+- [§ 107 Anwendung der Vorschriften dieses Gesetzes; Sprachen](0107.md)
 - [§ 108 Antrag auf internationale Registrierung](0108.md)
 - [§ 109 Gebühren](0109.md)
-- [§ 110 Eintragung im Register](0110.md)
+- [§ 110 Vermerk in den Akten, Eintragung im Register](0110.md)
 - [§ 111 Nachträgliche Schutzerstreckung](0111.md)
-- [§ 112 Wirkung der internationalen Registrierung](0112.md)
+- [§ 112 Wirkung der internationalen Registrierung und der nachträglichen Schutzerstreckung](0112.md)
 - [§ 113 Prüfung auf absolute Schutzhindernisse](0113.md)
 - [§ 114 Widerspruch gegen eine international registrierte Marke](0114.md)
 - [§ 115 Schutzentziehung](0115.md)
-- [§ 116 Widerspruch aufgrund einer international registrierten Marke und Antrag auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke](0116.md)
-- [§ 117 Ausschluß von Ansprüchen wegen mangelnder Benutzung](0117.md)
-- [§ 118 Zustimmung bei Übertragungen international registrierter Marken](0118.md)
+- [§ 116 Widerspruch aufgrund einer international registrierten Marke und Antrag oder Klage auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke](0116.md)
+- [§ 117 Ausschluss von Ansprüchen wegen mangelnder Benutzung](0117.md)
+- [§ 118 Umwandlung einer internationalen Registrierung](0118.md)
 
-### Abschnitt 2 Schutz von Marken nach dem Protokoll zum Madrider
-Markenabkommen
+### Abschnitt 2 Unionsmarken
 
-- [§ 119 Anwendung der Vorschriften dieses Gesetzes; Sprachen](0119.md)
-- [§ 120 Antrag auf internationale Registrierung](0120.md)
-- [§ 121 Gebühren](0121.md)
-- [§ 122 Vermerk in den Akten, Eintragung im Register](0122.md)
-- [§ 123 Nachträgliche Schutzerstreckung](0123.md)
-- [§ 124 Entsprechende Anwendung der Vorschriften über die
-Wirkung der nach dem Madrider Markenabkommen international
-registrierten Marken](0124.md)
-- [§ 125 Umwandlung einer internationalen Registrierung](0125.md)
-
-### Abschnitt 3 Unionsmarken
-
-- [§ 125a (weggefallen)](0125a.md)
-- [§ 125b Anwendung der Vorschriften dieses Gesetzes](0125b.md)
-- [§ 125c Nachträgliche Feststellung der Ungültigkeit einer Marke](0125c.md)
-- [§ 125d Umwandlung von Unionsmarken](0125d.md)
-- [§ 125e Unionsmarkenstreitsachen; Unionsmarkengerichte](0125e.md)
-- [§ 125f Unterrichtung der Kommission](0125f.md)
-- [§ 125g Örtliche Zuständigkeit der Unionsmarkengerichte](0125g.md)
-- [§ 125h Insolvenzverfahren](0125h.md)
-- [§ 125i Erteilung der Vollstreckungsklausel](0125i.md)
+- [§ 119 Anwendung der Vorschriften dieses Gesetzes](0119.md)
+- [§ 120 Nachträgliche Feststellung der Ungültigkeit einer Marke](0120.md)
+- [§ 121 Umwandlung von Unionsmarken](0121.md)
+- [§ 122 Unionsmarkenstreitsachen; Unionsmarkengerichte](0122.md)
+- [§ 123 Unterrichtung der Kommission](0123.md)
+- [§ 124 Örtliche Zuständigkeit der Unionsmarkengerichte](0124.md)
+- [§ 125 Insolvenzverfahren](0125.md)
+- [§ 125a Erteilung der Vollstreckungsklausel](0125a.md)
 
 ## Teil 7 Geographische Herkunftsangaben
 

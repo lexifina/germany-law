@@ -93,9 +93,9 @@ und Eintragungen
 
 ## Teil 5 Internationale Registrierungen
 
-- [§ 43 Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen](0043.md)
+- [§ 43 (weggefallen)](0043.md)
 - [§ 44 Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Protokoll zum Madrider Markenabkommen](0044.md)
-- [§ 45 Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen](0045.md)
+- [§ 45 (weggefallen)](0045.md)
 - [§ 46 Schutzverweigerung](0046.md)
 
 ## Teil 6 Verfahren nach der Verordnung (EU) Nr. 1151/2012
