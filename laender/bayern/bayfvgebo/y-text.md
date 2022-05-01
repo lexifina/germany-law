@@ -1,0 +1,1 @@
+Auf Grund des Art. 21 Abs. 1 Satz 1 des Kostengesetzes vom 20. Februar 1998 (GVBl S. 43, BayRS 2013–1–1–F), zuletzt geändert durch § 3 des Gesetzes vom 23. November 2001 (GVBl S. 739), erlässt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
