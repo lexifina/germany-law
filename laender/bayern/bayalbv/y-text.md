@@ -1,0 +1,1 @@
+Auf Grund des Art. 11 Abs. 2 Satz 4 des Gesetzes über die Landesvermessung und das Liegenschaftskataster – Vermessungs- und Katastergesetz – VermKatG – (BayRS 219-1-F), zuletzt geändert durch Art. 7 des Gesetzes vom 26. Juli 2005 (GVBl S. 287), erlässt das Bayerische Staatsministerium der Finanzen folgende Verordnung:
