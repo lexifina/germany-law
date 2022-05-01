@@ -1,0 +1,30 @@
+# Gesetz zur Ausführung der Verwaltungsgerichtsordnung
+(AGVwGO)
+in der Fassung der Bekanntmachung vom 20. Juni 1992
+(GVBl. S. 162)
+BayRS 34-1-I
+Gesetz zur Ausführung der Verwaltungsgerichtsordnung (AGVwGO) in der Fassung der Bekanntmachung vom 20. Juni 1992 (GVBl. S. 162, BayRS 34-1-I), das zuletzt durch Gesetz vom 8. Juli 2025 (GVBl. S. 219) geändert worden ist
+Änderungen
+1. § 1 ÄndG vom 23.6.1993 (GVBl. S. 408, geänd. 2015 S. 178)
+2. § 7 G zur Vereinfachung und Beschleunigung bau- und wasserrechtlicher Verfahren vom 12.4.1994 (GVBl. S. 210)
+3. Art. 5 VerwaltungsreformG vom 26.7.1997 (GVBl. S. 311)
+4. § 5 G zur Änd. des Gemeinde- und LandkreiswahlG und anderer kommunalrechtl. Vorschriften vom 27.12.1999 (GVBl. S. 542)
+5. Art. 1 Zweites VerwaltungsreformG vom 28.3.2000 (GVBl. S. 136)
+6. Art. 1 Drittes VerwaltungsreformG vom 23.11.2001 (GVBl. S. 734)
+7. § 2 G zur Ausführung des G über eine bedarfsorientierte Grundsicherung im Alter und bei Erwerbsminderung vom 24.12.2002 (GVBl. S. 929)
+8. § 1 ÄndG vom 24.6.2004 (GVBl. S. 229 geänd. 2015 S. 178)
+9. Art. 33 Abs. 4 Bayer. LandesplanungsG vom 27.12.2004 (GVBl. S. 521)
+10. § 2 Viertes G zur Änd. des G zur Ausführung des Sozialgesetzbuchs vom 27.12.2004 (GVBl. S. 541)
+11. § 7 Bayerisches DisziplinarG vom 24.12.2005 (GVBl. S. 665)
+12. § 1 ÄndG vom 23.6.2006 (GVBl. S. 330 geänd. 2015 S. 178)
+13. § 1 G zur Änd. des G zur Ausführung der VerwaltungsgerichtsO vom 22.6.2007 (GVBl. S. 390 geänd. 2015 S. 178)
+14. § 2 G zur Änd. des Bayerischen AbgrabungsG und anderer Rechtsvorschriften vom 20.12.2007 (GVBl. S. 958)
+15. § 9 DienstrechtneuregelungsG vom 5.8.2010 (GVBl. S. 410)
+16. § 1 G zur Anpassung an das Neue Dienstrecht vom 20.12.2011 (GVBl. S. 689)
+17. § 1 Nr. 330 V zur Anpassung des LandesR an die geltende Geschäftsverteilung vom 22.7.2014 (GVBl. S. 286)
+18. § 3 ÄndG vom 22.5.2015 (GVBl. S. 154)
+19. Art. 10b Abs. 4 G zur Ausführung des Bundesmeldegesetzes vom 23.6.2015 (GVBl. S. 178)
+20. § 1 Abs. 295 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung vom 26.3.2019 (GVBl. S. 98)
+21. § 3 G zur Vereinfachung baurechtlicher Regelungen und zur Beschleunigung sowie Förderung des Wohnungsbaus vom 23.12.2020 (GVBl. S. 663)
+22. G zur Änderung des Gesetzes zur Ausführung der Verwaltungsgerichtsordnung vom 22.4.2022 (GVBl. S. 148)
+23. Gesetz zur Änderung des Gesetzes zur Ausführung der Verwaltungsgerichtsordnung vom 8.7.2025 (GVBl. S. 219)
