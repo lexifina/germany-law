@@ -1,0 +1,17 @@
+# Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich und Verfahrensgrundsätze](0001.md)
+- [§ 2 Technische Grundlagen des Abrufverfahrens](0002.md)
+- [§ 3 Standards der Datenübermittlung](0003.md)
+- [§ 4 Auswahldaten für die Personensuche](0004.md)
+- [§ 5 Abrufdaten für die Personensuche](0005.md)
+- [§ 6 Trefferliste für die Personensuche](0006.md)
+- [§ 7 Auswahldaten für die freie Suche](0007.md)
+- [§ 8 Abrufdaten für die freie Suche](0008.md)
+- [§ 9 Verwendung des Identifikationsmerkmals](0009.md)
+- [§ 10 Auskunftsfähiger Datenbestand](0010.md)
+- [§ 11 Angaben der abrufenden Stelle](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage](anlage.md)
