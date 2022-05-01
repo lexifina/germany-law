@@ -1,0 +1,1 @@
+Auf Grund des Art. 4 des Gesetzes über die behördliche Organisation des Bauwesens, des Wohnungswesens und der Wasserwirtschaft (OrgBauWasG) in der Fassung der Bekanntmachung vom 5. Mai 1994 (GVBl S. 393, BayRS 200-25-I), geändert durch § 1 des Gesetzes vom 26. Juli 2005 (GVBl S. 287), erlässt das Bayerische Staatsministerium des Innern folgende Verordnung:
