@@ -1,0 +1,89 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-02T16:00:00+02:00
+- Ende: 2022-05-02T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25554
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25554
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gebäude/Raummanagement Masterplan der Universität Köln
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Ausweitung der Tempo-30-Bereiche im Bezirk Lindenthal (Az.: 02-1600-161/21) - geändert beschlossen
+- TOP 5.1.1: Ergänzungsantrag zu 5.1 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Gastronomie Dürener Straße
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: LKW Führung Alte Straße Widdersdorf - ungeändert beschlossen
+- TOP 8.1.2: Historische Informationstafeln im Stadtwald - ungeändert beschlossen
+- TOP 8.1.3: Verbesserungsmaßnahmen Hermeskeiler Platz - zurückgestellt
+- TOP 8.1.4: Entsiegelung Parkplatz Neue Sandkaul - geändert beschlossen
+- TOP 8.1.5: Aufbereitung Betlehem Platz - geändert beschlossen
+- TOP 8.1.6: Zusammenlegung der Jahrgangsstufen der Gesamtschule Lindenthal an einem gemeinsamen Standort - ungeändert beschlossen
+- TOP 8.1.7: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.1.8: Dringlichkeitsantrag Salzburger Weg - ungeändert beschlossen
+- TOP 8.1.9: Wettbewerbsverfahren Max Becker Areal - ungeändert beschlossen
+- TOP 8.1.10: Erhaltung Schnur-Baum Melaten, Abschnitt 106 - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Besetzung Rahmenplanungsbeirat BV Lindenthal - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Grundschule im Stadtteil Lindenthal - geändert beschlossen
+- TOP 9.2.2: Einrichtung des Neubaus mit einer Dreifachturnhalle und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Gymnasium Zusestr., Stadteil - Widdersdorf - Köln - ungeändert beschlossen
+- TOP 9.2.3: 281. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Beschaffung und Aufstellung von Modulbauten für Schulen zum Erhalt bestehender und zur Schaffung dringend notwendiger zusätzlicher Schulplätze - ungeändert beschlossen
+- TOP 9.2.5: 6. Satzung zur Änderung der Sondernutzungssatzung - geändert beschlossen
+- TOP 9.2.6: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert beschlossen
+- TOP 9.2.7: Verkehrliche Maßnahmen zur Schulwegerschließung am Schulstandort Wasseramselweg in Köln-Vogelsang - zurückgestellt
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Ermittlung fehlender Straßenbeschilderung - Kenntnis genommen
+- TOP 11.2.2: Errichtung einer Skateanlage in Köln-Sülz - Kenntnis genommen
+- TOP 11.2.3: Sachstandsmitteilung zu den von der Bezirksvertretung Lindenthal priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Sportorientierte Jugendarbeit: Stadtbezirks- und Trägerwechsel zum 01.04.2022 - Kenntnis genommen
+- TOP 11.3.2: Zwischenbilanz Schulentwicklungsplanung 2022 - Rückblick auf die Schulentwicklungsplanung 2020 und Ausblick auf die vorgesehene Fortschreibung 2023 - Kenntnis genommen
+- TOP 11.3.3: Sportentwicklungsplanung - "POLDIS STRASSENKICKER": kostenloses Fußballtraining für Kölner Kinder und Jugendliche - Kenntnis genommen
+- TOP 11.3.4: Verwendung der Stellplatzablösemittel - Kenntnis genommen
+- TOP 11.3.5: Grüngürtel - Parkstadt Süd, Öffentlichkeitsarbeit im Rahmen der Vorplanung - Kenntnis genommen
+- TOP 11.3.6: 241. Änderung des Flächennutzungsplanes in den Stadtbezirken 3, Köln-Lindenthal und 4, Köln-Ehrenfeld, Arbeitstitel: "Alsdorfer Straße" in Köln-Ehrenfeld/-Braunsfeld Hier: Mitteilung über die Offenlage - Kenntnis genommen
+- TOP 11.3.7: Nicht oder nur eingeschränkt zur Verfügung stehende Sporthallen und Zeitplan zur Behebeung der Missstände - zur Anfrage AN/0133/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion - Kenntnis genommen
+- TOP 11.3.8: Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 11.3.9: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 11.3.10: Verbesserung des S-Bahn-Takts im Kölner Westen - Kenntnis genommen
+- TOP 11.3.11: Aufgabe der städtischen Flüchtlingsunterkunft Weißdornweg 21, 21 a-c,50996 Köln-Rondorf und Versetzung der modularen Gebäude zum städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Nocht nicht beantwortete Anfragen
+- TOP 12.1: Parksituation Einsatzfahrzeuge Franz-Kremer-Stadion - zurückgestellt
+- TOP 12.2: Projekte zur Wasserwende - zurückgestellt
+- TOP 12.3: Widdersdorfer Straße - zurückgestellt
+- TOP 12.4: Baugenehmigung VIKZ - zurückgestellt
+- TOP 12.5: Sachstand Schulplätze für Sülz und KIettenberg - zurückgestellt
+- TOP 12.6: Sachstand illegale Mountainbike-Strecken im Äußeren Grüngürtel - zurückgestellt
+- TOP 12.7: Barrierefreie WBS-Wohnungen - zurückgestellt
+- TOP 12.8: Planungsstand Skatepark Widdersdorf - zurückgestellt
+- TOP 12.9: Barrierefreie Umgestaltung von Fuß- und Radwegbrücken - zurückgestellt
+- TOP 12.10: Baumfällungen - zurückgestellt
+- TOP 12.11: Umgestaltung Kirchplatz Lövenich - zurückgestellt
+- TOP 12.12: Schutz von Vorgärten vor Versiegelung - zurückgestellt
+- TOP 12.13: Anfrage Sport- und Wasserflächen - zurückgestellt
+- TOP 12.14: Anfrage Lärmschutz am äußeren Grüngürtel - zurückgestellt
+- TOP 12.15: Bezirkliches Radverkehrskonzept - zurückgestellt
+- TOP 17.1.2: Anfrage Baumfällungen - Kenntnis genommen
