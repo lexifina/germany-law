@@ -1,0 +1,103 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-05-02T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6916915
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6916915
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Ampelschaltung am Harras
+- TOP 2.2.: Antrag auf Fahrradabstellplätze Danklstraße/ Valleystraße
+- TOP 2.3.: Anfrage bezüglich eines Bauvorhabens an der Pfeuferstraße
+- TOP 2.4.: Fußgängerweg Hans-Preißinger-Straße
+- TOP 2.5.: Barrierefreie Gestaltung der Rampe am Parkausgang Kidlerplatz
+- TOP 2.6.: Begrünung einer kleinen Fläche an der Lindwurmunterführung
+- TOP 2.7.: Ampel Dietramszeller Straße und Linksabbieger Spur am Wertstoffhof
+- TOP 2.8.: Straßenschäden und Parksituation in der Danklstraße
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Gotzinger Straße 19
+- TOP 4.2.2.: Beschlussvorlage "Ostseitiger Bahnsteigzugang Regionalzughalt Poccistraße"
+- TOP 4.2.3.: Bauvorhaben Demleitnerstraße 4
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Fragen und Anmerkungen einesneuen Anwohners Antwort
+- TOP 4.3.3.: (U) Vereinbarkeit von § 10 Abs. 3 und 4 der Satzung des Vereins zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V. mit dem Gebot der Haftungsbegrenzung gem. Art. 92 Abs. 1 Satz 1 Nr. 3 GO – Prüfauftrag des Bayer. Kommunalen Prüfungsverbandes aus dem Jahr 2013 / 2021
+- TOP 4.3.4.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 4.3.5.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 4.3.6.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 4.3.7.: BA 11 Milbertshofen - Am Hart Antrag zu illegalen Baumfällungen zur Kenntnisnahme
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Mehr Photovoltaik in Sendling! [SPD]
+- TOP 4.4.2.: Biogasanlage in Sendling! [SPD)
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Vorratsbeschluss Sommerstraße Schöttlstraße
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Änderung der Parkordnung in der Flößergasse Unterführung zum Vorteil von Fußgänger*innen
+- TOP 5.2.2.: Dokumentation der digitalen Beteiligungsveranstaltung zur Mobilitätsstrategie 2035
+- TOP 5.2.3.: MVG Leistungsprogramm 2023 Anhörung der Bezoirksausschüsse
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Danklstr. 35
+- TOP 5.3.2.: Brudermühlstraße/ Ecke Thalkirchnerstraße (südliche Fahrbahnseite, Höhe U-Bahn-Aufgang Südost) Wegweisende Beschilderung für Fußgänger Richtung Gasteig HP8
+- TOP 5.3.3.: Lagerhausstraße (Blumengroßmarkthalle); Wegweisung zum Sammelparkplatz 1 des Interims-Gasteig HP8 (Hans-Preißinger-Str. 8); - Widerruf des Zeitzusatzes der vAO vom 30.07.2021 -
+- TOP 5.3.4.: Gefällte Bäume am Schulgelände Dante- und Klenze-Gymnasium Antwort
+- TOP 5.3.5.: Brudermühlstraße Verkehrsaufsichtliche Erlaubnis
+- TOP 5.3.6.: Präsentation zur Veranstaltung Nahverkehrsplan der Landeshauptstadt München - Themenfeld Infrastruktur am 30.03.2022
+- TOP 5.3.7.: Dialog-Displays Stellungnahme des BA 1 Altstadt-Lehel zur Kenntnisnhme
+- TOP 5.3.8.: Ausbesserung der Straße in der Ecke Oberländer-/ Danklstraße
+- TOP 5.3.9.: Projekt Plinganserstraße/ Haltestelle Steinerstraße
+- TOP 5.3.10.: Ausnahmegenehmigung Grünanlagen:: Sommertreff Mütterzentrum Sendling in der Grünanlage Dietramszeller Platz vom 03.05. bis 30.09.2022
+- TOP 5.3.11.: Parkplatzsituation im Bereich Brudermühlviertel Antwort
+- TOP 5.3.12.: Errichtung eines Fußgängerüberwegs (FGÜ) zur Verbesserung der Verkehrsssicherheit an der Abbiegespur Plinganserstraße-Brudermühlstraße (Höhe Einmündung Alois-Johannes-Lippl-Weg)
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Barrierefreier Ausbau der Haltestelle Schäftlarnstraße [Die Grünen]
+- TOP 5.4.2.: Den SEV-Bus U3 verstetigen [SPD]
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Stadtradeln 2022
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Elterninitiative Igelchen e.V. Einrichtung eines Parklets in der Schöfflstraße vom 07.05. - 30.11.2022 847,00 Euro, Az.: 0262.0-6-0372
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Himmelfahrtskirche, "Orgelmusik bei Kerzenschein" Kurzbericht
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: (U) Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2021/2022
+- TOP 7.3.2.: Namensänderung Spielen in der Stadt
+- TOP 7.3.3.: 12. Seniorenvertretungswahl
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Weitere Nutzung der Heizstrahler mit Ökostrom auf öffentlichen Plätzen der Außengastronomie
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 5.1.2.: (E) + (U) Gefährdung durch Lieferdienste Empfehlung Nr. 20-26 / E 00421 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021
+- TOP 6.1.2.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball in Sendling vom 01.09. - 31.12.2022 2.320,00 Euro, Az.: 0262.0-6-0374
+- TOP 6.1.3.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. Faces for the Names Jüdisches Leben und Widerstand im Stadtbezirk Sendling vom 15. - 20.09.2022 2.500,00 Euro, Az.: 0262.0-6-0373
+- TOP 5.1.3.: (E) + (U) Parksituation in der Thalkirchner Straße am Dietramszeller Platz Empfehlung Nr. 20-26 / E 00416 der Bürgerversammlung des Stadtbezirks 06 – Sendling - vom 12.10.2021
