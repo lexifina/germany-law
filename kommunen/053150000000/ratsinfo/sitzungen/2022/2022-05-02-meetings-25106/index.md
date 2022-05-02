@@ -1,0 +1,67 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-02T14:35:00+02:00
+- Ende: 2022-05-02T15:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25106
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25106
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 28.02.2022 - Kenntnis genommen
+- TOP 2.3: Lastenradförderung 2021 - Kenntnis genommen
+- TOP 2.4: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 2.5: Aufgabe der städtischen Flüchtlingsunterkunft Weißdornweg 21, 21 a-c,50996 Köln-Rondorf und Versetzung der modularen Gebäude zum städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden - Kenntnis genommen
+- TOP 2.6: Haushaltsplanaufstellungsverfahren 2023/24 - Sachstand - - Kenntnis genommen
+- TOP 2.7: Teilnahme am Landesprogramm Kommunales Integrationsmanagement (KIM) - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Nächtliche Beleuchtung öffentlicher Gebäude - zurückgestellt
+- TOP 4.2: Umsetzung des Projekts „Optimierung der städtischen Fördermittelvergabe" - zurückgestellt
+- TOP 4.2.1: Beantwortung der Anfrage (AN/0923/2022) zum Umsetzung des Projekts „Optimierung der städtischen Fördermittelvergabe" - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2021 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.1.2: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Gesamtinstandsetzung Mülheimer Brücke - Kenntnis genommen
+- TOP 6.3: Ermächtigungsübertragungen in das Haushaltsjahr 2022 - Kenntnis genommen
+- TOP 6.4: Unterrichtung des Rates über die Anzeige der Gesamtabschlüsse 2010 und 2018 gem. § 1 des Gesetzes zur Beschleunigung der Aufstellung kommunaler Gesamtabschlüsse NRW - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neubau einer Unterkunft zur öffentlich rechtlichen Unterbringung obdachloser Personen in konventioneller Bauweise auf dem städtischen Grundstück Schönrather Str. 7 in 51063 Köln-Mülheim - unter Vorbehalt beschlossen
+- TOP 10.2: Beschaffung und Aufstellung von Modulbauten für Schulen zum Erhalt bestehender und zur Schaffung dringend notwendiger zusätzlicher Schulplätze - unter Vorbehalt beschlossen
+- TOP 10.3: Einrichtung des Neubaus mit einer Dreifachturnhalle und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Gymnasium Zusestr., Stadteil - Widdersdorf - Köln - unter Vorbehalt beschlossen
+- TOP 10.4: Fahrplanwechsel 2022 - Anbindung Gewerbegebiet Porz-Eil - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Fahrplanwechsel 2022 - Sonntägliche Anbindung des Krankenhauses Hohenlind an Lövenich durch die Linie 136 - ungeändert beschlossen
+- TOP 10.6: Fahrplanwechsel 2022 - Erschließung des Gewerbegebiets Marsdorf sowie Ausweitung der Betriebszeiten der Buslinie 143 - ungeändert beschlossen
+- TOP 10.7: Fahrplanwechsel 2022 - Überarbeitung des Abend- und Nachtverkehrs im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 10.8: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2022 - 30.06.2024 - ungeändert beschlossen
+- TOP 10.9: Fahrplanwechsel 2022 - Angebotsausweitung Buslinie SB55/164 - ungeändert beschlossen
+- TOP 10.10: Vergabe Stadtklima und Stadtverschönerungsmittel 2022 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 10.11: Stadtklima-/Stadtverschönerungsprogramm 2022 im Stadtbezirk Rodenkirchen - unter Vorbehalt beschlossen
+- TOP 10.12: Feststellung des Jahresabschlusses zum 31.12.2020 und des Lageberichtes für das Wirtschaftsjahr 01.01.2020 - 31.12.2020 des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln - ungeändert beschlossen
+- TOP 10.13: Wirtschaftsplan 2022 für die eigenbetriebsähnliche Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.14: Bedarfsfeststellungsbeschluss Ebertplatz – Weiterführung der Zwischennutzung - ohne Votum in nachfolgende Gremien
+- TOP 10.15: Jahresabschluss Wirtschaftsjahr 2020/2021 des Gürzenich-Orchesters Köln - ungeändert beschlossen
+- TOP 10.16: 6. Satzung zur Änderung der Sondernutzungssatzung - ohne Votum in nachfolgende Gremien
+- TOP 10.17: Bedarfsfeststellungsbeschluss für die Aufwendungen im Zuge des erhöhten Risikomanagements der Stadt Köln anlässlich der Eröffnung der Karnevalsession am 11.11. und des Straßenkarnevals - ohne Votum in nachfolgende Gremien
+- TOP 10.18: Bedarfsfeststellungsbeschluss für die Aufwendungen im Zuge der Bereitstellung von mobilen Sanitärsystemen für die Öffentlichkeit anlässlich der Eröffnung der Karnevalssession am 11.11., Silvester, dem Straßenkarneval und sonstiger Anlässe - ohne Votum in nachfolgende Gremien
+- TOP 10.19: Stärkung des Auszugsmanagements - ungeändert beschlossen
+- TOP 10.20: Stadtwerke Köln GmbH - Gründung und Beteiligung an der „KLAR GmbH“ (Klärschlammverwertung am Rhein GmbH); Unterbeteiligung der Stadtwerke Bonn GmbH - ungeändert beschlossen
+- TOP 10.21: Haushaltsplan-Entwurf 2023/2024 | Festsetzung der bezirksbezogenen Haushaltsmittel nach § 37 Abs. 3 GO NRW - ohne Votum in nachfolgende Gremien
+- TOP 10.22: Reallabor Westspitze, Mittelfreigabe - unter Vorbehalt beschlossen
+- TOP 10.23: Fortentwicklung des Housing-First-Ansatzes als Ergänzung der Wohnungslosenhilfe in Köln - ungeändert beschlossen
+- TOP 10.24: Kliniken der Stadt Köln gGmbH: Änderung des Gesellschaftsvertrages - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
