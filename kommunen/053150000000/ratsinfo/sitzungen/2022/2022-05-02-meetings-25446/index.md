@@ -1,0 +1,97 @@
+# 12.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-02T17:05:00+02:00
+- Ende: 2022-05-02T18:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25446
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25446
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Busspur auf der Frankfurter Straße
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrssicherheit für alle Verkehrsteilnehmer:innen an der Honschaftsstr. und der Kreuzung Im Weidenbruch - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer Anfrage der AfD zur Gesundheit, Statistik der Todesfälle in Köln - Kenntnis genommen
+- TOP 7.1.3: Ampelanlage an der Kreuzung Piccoloministraße/Ecke Honschaftsstraße - Kenntnis genommen
+- TOP 7.1.4: Beantwortung der Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN aus der Sitzung der Bezirksvertretung 9 (Mülheim) vom 03.05.2021 betr. Nutzung mindergenutzter Flächen für bezahlbaren Wohnraum - Kenntnis genommen
+- TOP 7.1.5: Beantwortung der Anfrage der Fraktion DIE LINKE aus der Sitzung der Bezirksvertretung 9 (Mülheim) vom 07.03.2022 betr. Waschstraße Clevischer Ring / Ecke Julius-Bau-Straße - Kenntnis genommen
+- TOP 7.1.6: AN/0928/2021 Radikaler Rückschnitt von Baum- und Strauchwerk am Stammheimer Ufer zwischen Raumanns Kaul und Krahnenstraße - Kenntnis genommen
+- TOP 7.1.7: Rückschnitt von Sträuchern und Gehölzen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Autofreie Siedlungen - Kenntnis genommen
+- TOP 7.2.2: Verkehrsgerechtigkeit und Tempo 30 - Kenntnis genommen
+- TOP 7.2.3: Umgang mit Eingaben der Bürgerinnen und Bürger - Kenntnis genommen
+- TOP 7.2.4: Erhalt des Atelierhauses Dünnwalder Mauspfad 341 - Kenntnis genommen
+- TOP 7.2.5: Der Kalkberg - Gebäude - Kenntnis genommen
+- TOP 7.2.6: Der Kalkberg - Immobilienkosten - Kenntnis genommen
+- TOP 7.2.7: Der Kalkberg - Außenanlage und Grünflächen - Kenntnis genommen
+- TOP 7.2.8: Treibholz und Treibgut am Stammheimer Ufer - Kenntnis genommen
+- TOP 7.2.9: Baumpflanzungen in den Stadtteilen Flittard / Stammheim - Kenntnis genommen
+- TOP 7.2.10: Ampelsteuerungen im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.11: Vandalismus an den KVB-Leihfahrrädern - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Keine Bebauung im Überschwemmungsgebiet - endgültig abgelehnt
+- TOP 8.1.1.1: Keine Bebauung im Überschwemmungsgebiet - endgültig abgelehnt
+- TOP 8.1.2: Windmühlenquartier - geändert beschlossen
+- TOP 8.1.3: Kalkweg, Köln- Dünnwald - endgültig abgelehnt
+- TOP 8.1.4: Faires Parken in Mülheim - endgültig abgelehnt
+- TOP 8.1.5: Verbindungsweg zwischen dem "Strundeweg" und der Sportanlage in Dellbrück - ungeändert beschlossen
+- TOP 8.1.6: Sicherer Radverkehr auf der Bergisch Gladbacher Straße - geändert beschlossen
+- TOP 8.1.7: Durchgehender Fußgängerweg auf der Straße "Im Riephagen" - ungeändert beschlossen
+- TOP 8.1.8: Baumscheibe Heidelberger Straße 23 - ungeändert beschlossen
+- TOP 8.1.9: Erstellung einer sicheren und optimierten Fahrradinfrastruktur zwischen Kreuzungsbereich Stadtbahnhaltestelle Buchheim / Frankfurter Straße und Montanusstraße - geändert beschlossen
+- TOP 8.1.10: Instandsetzung des Fahrradweges an vier großflächigen Stellen entlang der B8 zwischen Stammheimer Hauptstraße und Roggendorfstraße in Flittard - ungeändert beschlossen
+- TOP 8.1.11: Aufwertung des Spielplatzes Kühzäller Weg - ungeändert beschlossen
+- TOP 8.1.12: Taktverbesserung der Buslinie 250 - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Radverkehrskonzept Mülheim - Radverkehrshauptnetz - ungeändert beschlossen
+- TOP 9.1.2: Vergabe der bezirksorientierten Mittel 2022 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Neubau einer Unterkunft zur öffentlich rechtlichen Unterbringung obdachloser Personen in konventioneller Bauweise auf dem städtischen Grundstück Schönrather Str. 7 in 51063 Köln-Mülheim - geändert beschlossen
+- TOP 9.2.2: 281. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Beschaffung und Aufstellung von Modulbauten für Schulen zum Erhalt bestehender und zur Schaffung dringend notwendiger zusätzlicher Schulplätze - geändert beschlossen
+- TOP 9.2.3.1: Beschaffung und Aufstelllung von Modulbauten für Schulen zum Erhalt bestehender und zur Schaffung dringend notwendiger zusätzlicher Schulplätze - geändert beschlossen
+- TOP 9.2.4: 6. Satzung zur Änderung der Sondernutzungssatzung - geändert beschlossen
+- TOP 9.2.5: Umgestaltung Spielplatz Rommerscheider Straße in Köln-Dellbrück - ungeändert beschlossen
+- TOP 9.2.6: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert beschlossen
+- TOP 9.2.7: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors oder einer Investorin mit Grundstück zur Planung und Errichtung einer Grund- und Gesamtschule im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.2.8: Förderprogramm Niedrigschwellige Suchthilfe - Drogenkonsumraum Mülheim - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.3.2: Gesamtsanierung Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.4: Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.5: Zwischenbilanz Schulentwicklungsplanung 2022 - Rückblick auf die Schulentwicklungsplanung 2020 und Ausblick auf die vorgesehene Fortschreibung 2023 - Kenntnis genommen
+- TOP 10.2.6: Nicht oder nur eingeschränkt zur Verfügung stehende Sporthallen und Zeitplan zur Behebeung der Missstände - zur Anfrage AN/0133/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Volt-Fraktion - Kenntnis genommen
+- TOP 10.2.7: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 10.2.8: Aufschub von Lärmsanierungsmaßnahmen der DB AG im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 10.2.9: Herstellung einer Querungshilfe, Schweidnitzer Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 10.2.10: Verwendung der Stellplatzablösemittel - Kenntnis genommen
+- TOP 10.2.11: Sachstand Gesamtentwicklung und Ständige Jury Mülheimer Süden - Kenntnis genommen
+- TOP 10.2.12: Verkehrsberuhigter Bereich Voltastraße; Köln Buchforst - Kenntnis genommen
+- TOP 10.2.13: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 10.2.14: Jahresbericht der Naturschutzwartin Bezirk 9 Ost, Köln-Mülheim - Kenntnis genommen
+- TOP 10.2.15: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 10.2.16: Event für Jugendliche gemäß Beschluss des Jugendhilfeausschusses vom 25.08.2020, TOP 5.2.2 - Kenntnis genommen
+- TOP 10.2.17: Jahresbericht 2021 - Obstwiesen - Kenntnis genommen
+- TOP 10.2.18: Generalinstandsetzung der Pützlachstraße und der Frasengasse in Köln-Flittard - Kenntnis genommen
+- TOP 10.2.19: Soziale Erhaltungssatzung Mülheim Süd-West: Einladung zur öffentlichen Informationsveranstaltung - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
