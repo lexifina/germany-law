@@ -1,0 +1,74 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-05-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796147
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796147
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 05.04.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Wir brauchen kein Glyphosat! Nahrungsmittelproduktion in Ballungsräumen
+- TOP 2.4.: (Antrag) Ergebnisse Workshop Forstenried
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: - NACHTRAG - (E) Stadtbezirksbudget Isarlust e.V. +kulturlieferdienst vom 30.5.-31.12.2022 5.897,60€; Az. 0262.0-19-0410
+- TOP 3.3.: - NACHTRAG - (E) Stadtbezirksbudget Freunde des Ortskerns Forstenried e.V. kleines Dorffest am 3. Juli von 11 bis 20 Uhr 1.100,00€; Az. 0262.0-11-0452
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: Standorte Hundekotbeutelspender im 19. Stadtbezirk
+- TOP 4.4.: (E) Landschaftsschutzgebiet Isar Solln Empfehlung Nr. 20-26 / E 00325 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 4.5.: (Antrag) Energiesparen und Insektenschutz: Baudenkmäler kürzer beleuchten
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: MVG-Rad im 19. Stadtbezirk verbessern
+- TOP 5.2.: (A) Mobilitätsstrategie 2035
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Einseitiges Haltverbot Plattlinger Straße
+- TOP 5.4.: Runder Tisch E-Tretroller vom 23.03.2022
+- TOP 5.5.: (A) MVG-Leistungsprogramm 2023
+- TOP 5.6.: (Antrag) Lichtsignalanlage Züricher Straße / Limmatstraße
+- TOP 5.7.: (Antrag) Parkplatzsituation Frans-Hals-Straße
+- TOP 5.8.: - NACHTRAG- (Antrag) Raserei Possenhofener Straße / Würmseestraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Siemensallee 76 (T)
+- TOP 6.2.3: Kerschlacher Straße 30
+- TOP 6.2.4: Bräutigamstraße 11 (VB)
+- TOP 6.2.6: Am Lehwinkel 3
+- TOP 6.2.7: Winsauerstraße 7
+- TOP 6.2.8: Hofbrunnstraße 109
+- TOP 6.2.9: Aidenbachstraße 127 (T)
+- TOP 6.3.: (A) Bebauungsplan Siemens-Hochhaus
+- TOP 6.4.: - NACHTRAG - (A) Grundstücksgeschäft: Verkauf Grundstück ohne Bebauung Machtlfinger Straße Flurnummer 363/0
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Situation des Schwimmbads an der Grundschule Sambergerstraße
+- TOP 7.2.: (A) Ausschreibung Kinder-Aktions-Koffer 2023
+- TOP 7.3.: (Antrag) Alternative Räumlichkeiten für den Kindergarten Lollipop
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Tag des offenen Denkmals am 11.09.2022
+- TOP 8.3.: - NACHTRAG - (A) Veranstaltung: Sommerfest Thalkirchner Platz vom 16.06. bis 18.06.2022
+- TOP 9: Verschiedenes
+- TOP 2.5.: - NACHTRAG - Stadtentwicklungsplan STEP 2040 - Bericht und Verfahren
+- TOP 7.4.: - NACHTRAG - (Antrag) Erweiterung Spielplatz Hermann-Hahn-Platz
+- TOP 5.9.: - NACHTRAG - (A) Corona-Teststelle Thalkirchner Platz
+- TOP 8.4.: - NACHTRAG - (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 10.10. bis 02.11.2022
+- TOP 5.1.2: Parkplätze Friedhof Forst-Kasten-Allee
+- TOP 6.2.2: Auf der Falkenbeiz 4
+- TOP 6.2.5: Fürstenackerstraße 4 (T)
