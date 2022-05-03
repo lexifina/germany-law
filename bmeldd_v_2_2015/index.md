@@ -1,4 +1,4 @@
-# Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an Behörden oder sonstige öffentliche Stellen des Bundes sowie zur Durchführung des automatisierten Abrufs von Daten durch das Bundesverwaltungsamt gemäß § 3 Absatz 3 des Gesetzes zur Europäischen Bürgerinitiative
+# Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an Behörden oder sonstige öffentliche Stellen des Bundes
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Allgemeines](0001.md)
