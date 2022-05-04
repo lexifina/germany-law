@@ -1,0 +1,122 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2022-05-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6845365
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6845365
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP 1.1.: Antrag DIE LINKE: Verbesserung der Wohn- und Lebensqualität in der Rankestraße
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Planung und Einrichtung kommunaler medizinischer Versorgungszentren (MVZ)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein der Städtischen Hermann-Frieb-Realschule e.V. Schaffung eines Schulgartens vom 10.05. - 29.07.2022 609,26 Euro, Az.: 0262.0-4-0387
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Nachweis und Bericht: Treffpunkt „Raum für eigenleben“
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Antrag DIE LINKE: Hohenzollernkarree in den Denkmalschutz aufnehmen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Kölner Platz 1: Umbau der denkmalgeschützten Bettenhäuser 1+2 zu Wohnen (132 WE) mit Dachsanierung und Neubau einer Tiefgarage, Umbau zu kostengünstigem Wohnraum für Pflegekräfte der MünchenKlinik und der Münchenstift mit Mobilitätskonzept
+- TOP 2.2.: Vorbescheid Farinellistr. 8 – 12: Neubau einer Wohnanlage mit Dachaufstockung und Tiefgarage (Farinellistr. 8-12 / Friedrich-Loy-Str. 1)
+- TOP 2.3.: Kathi-Kobus-Str. 22 – 24: Neubau einer Wohnanlage mit zweigeschossiger Tiefgarage mit Mobilitätskonzept (Kathi-Kobus-Str. 22–24/Theo-Prosel-Weg 11+13)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Städtischer Wohnungsbau im Rahmen des Kommunalen Wohnraumförderungsprogramms – KommWFP; Werkmietwohnungsbau (Sitzungsvorlage Nr. 20-26 / V 05758)
+- TOP 3.2.2.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Kindergarten Fallmerayerstr. 2: Tempo-30-Zone, Hinweisschild und Fußgängerüberweg über die Hohenzollernstraße a) Schreiben des Elternbeirats b) Schreiben einer Bürgerin
+- TOP 1.2.: Bürger: Radfahrstreifen an der Ostseite der Schleißheimer Straße verbessern
+- TOP 1.3.: Bürger: Gefährliche Kreuzung Elisabeth-/Hiltenspergerstraße; Entfernen von Schrotträdern
+- TOP 1.4.: Antrag SPD: Schulwegsicherheit in Machbarkeitsstudie zur Querung Schwere-Reiter-Straße integrieren
+- TOP 1.5.: Bürger: Maßnahmen gegen Geisterfahrer in der Barlachstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: MVG-Leistungsprogramm 2023
+- TOP 2.2.: Trassierungsbeschluss Tramnordtangente: Streckenabschnitt Elisabethplatz bis Münchner Freiheit
+- TOP 2.3.: (E) + (U) Fehlender Radweg Bamberger Straße zum Luitpoldpark Empfehlung Nr. 20-26 / E 00084 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 05.07.2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Schulwegsicherheit in der Infanteriestraße vor der neuen Grundschule (Antwort des Mobilitätsreferats auf weitergeleitetes Bürger*innenanliegen TOP D 1.2 01/22)
+- TOP 3.1.2.: Parkregelung in der Tengstraße (Antwort der Polizei auf BA-Anfrage vom 31.03.2022 zu anonymen Flyern)
+- TOP 3.1.3.: Austausch der Lichtsignalanlage Elisabeth-/Hiltenspergerstraße (Zwischennachricht des Mobilitätsreferats zu BA-Stellungnahme D 2.3 03/22)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Personenbezogener Behindertenparkplatz im Bereich Herzogstr. 61
+- TOP 3.2.2.: Sperrungen der Siedlung Ackermannbogen und im Bereich Olympiapark Süd bei Großveranstaltungen im Olympiapark 2022
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Trinkwasserprojekt Kreativquartier (Info-Flyer der Stadtwerke München)
+- TOP 3.3.2.: Fernwärmeprojekt Düsseldorfer Straße (Info-Flyer der Stadtwerke München)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Erinnerungsverfahren Gehwegsanierung Schwere-Reiter-Str. 37-39
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Erhalt der Birke vor der Isabellastr. 48
+- TOP 3.1.2.: Umgestaltung des Bonner Platzes: Zeitplan für Bürger*innenbeteiligung (Antwort des Baureferats auf BA-Anfrage E 1.3 2202)
+- TOP 3.1.3.: Sanierung des Gehwegs und Aufstellen von Schutzbügeln vor Schwere-Reiter-Str. 39 (Antworten des Baureferats Tiefbau sowie Gartenbau auf weitergeleitetes Bürgerschreiben E 1.1 2204, vgl. dazu TOP E 2.2.1)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Ausnahmegenehmigung für Baustelleneinrichtung auf der Wiese vor dem Anwesen Winzererstr. 68 (3-Kammer-Absetzbecken) vom 01.05.2022 bis 31.05.2023
+- TOP 3.4.2.: Saisonale Stadträume – Parklets: Postkarten zur Bewerbung des Starts 2023
+- TOP 3.4.3.: Programm „Bürgerinnen und Bürger gestalten ihre Stadt“: Ablehnungsbescheide für die Projektanträge von Urbanes Wohnen e.V. (Baumlückenschließung Hiltenspergerstraße; Umgestaltung Hörwarthstraße; Baumpflanzung Konradstraße)
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Saarstr. 7 als Erinnerungsort an die Olympischen Spiele 1972
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst vom 28.04. - 31.12.2022 3.597,60 Euro, Az.: 0262.0-4-0385
+- TOP 2.1.2.: (E) Stadtbezirksbudget Kunstzentrat e.V. Casino Furioso vom 25.05. - 29.05.2022 5.000,00 Euro, Az.: 0262.0-4-0386
+- TOP 2.1.3.: Bereits bewilligter Zuschuss an die Chorbande Schwabing e.V. für die Zauberflöte, 2. Teil: am 20. und 21.05.2022 - Aufführungsort jetzt Anton-Fingerle-Zentrum
+- TOP 2.1.4.: (E) Stadtbezirksbudget Münchner Stadtmedien GmbH Familienveranstaltung "FamilyOpenAir" bei Kino am Olympiasee vom 21.05. - 24.07.2022 2.696,94 Euro, Az.: 0262.0-4-0388
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: Kiosk Belgradstr. 8: Antrag auf Warenauslagen (Obst, Gemüse, Postkarten)
+- TOP 2.2.2.: Anträge auf Freischankflächen (Erstanträge, Erweiterungen, Schanigärten) a) „Pomp“, Georgenstr. 50: Erweiterung der Freischankfläche (vertagt aus 02/22 und 03/22) b) „Surahi“, Hohenzollernplatz 8: Genehmigung einer Freischankfläche c) „Neosocietymunich“, Herzogstr. 77, Genehmigung einer Kleinstfreischankfläche d) „Juliets Stüberl“, Clemensstr. 82, Parkplatzfreischankfläche mit neuen Maßen e) "Eiscafè Venezia", Kurfürstenplaz 8:Erweiterung der Freischankfläche f) "El Mirador", Clemensstraße 83: Parkplatzfreischankfläche mit neuen Maßen g) "l&#039;Osteria" Elisabethstr. 52: Genehmigung einer Parkplatzfreischankfläche h) „Bavarian Oriental“, Schleißheimer Str. 188: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.3.: Zentrum für Endokrinologie und Stoffwechsel, Nordendstr. 64: Antrag auf Aufstellung eines mobilen Fahrradständers
+- TOP 2.2.4.: „Theater vor der Haustür – Plan H“ am 15.05.2022 im Petuelpark
+- TOP 2.2.5.: Stadtteilfest vom 21. bis 24.07.2022 im Petuelpark
+- TOP 2.2.6.: Wettbewerb „München unterwegs“ am 04.06.2022 in der Georg-Birk-Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Halle 23 im Kreativquartier: Beteiligung BA 4 & 9 an Mieterauswahlverfahren
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: Nachweis und Bericht: a) ‚kulturlieferdienst: Konzerte 2021 b) Svapinga Consort e.V.: Neujahrskonzert 2022 c) HIDALG gGmbH: Street Art Song am 11.09.2021
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: „NEOSOCiETYMUNICH“, Herzogstr. 77: Neuerrichtung Ladengeschäft mit Kleingaststätte
+- TOP 3.4.2.: „Fluffy Clouds“, Belgradstr. 195: Betrieb eines Biergartens von Mai bis Oktober 2022
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Eilentscheidungen der BA-Vorsitzenden: a) Freizeitsportangebot „Fit im Park“ im Luitpoldpark (Zustimmung)
+- TOP G: BA-Angelegenheiten
+- TOP H: Termine
+- TOP 2.1.5.: (E) Stadtbezirksbudget Initiative "Götterspiele" Kunstprojekt "Götterspiele" von Juni - Ausgust 2022 4.650,00 Euro, Az.: 0262.0-4-0389
+- TOP 2.2.7.: AktivFerien am Ackermannbogen vom 07. bis 10.06.2022
