@@ -1,0 +1,105 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-05-04T17:00:00+02:00
+- Ende: 2022-05-04T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4430
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4430
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Aufstellung Gedenktafel Werner Seelenbinder - beantwortet
+- TOP 1.2: Dreharbeiten - schriftlich beantwortet
+- TOP 1.3: Sparhaushalt 2022/2023 für den Bezirk Neukölln - schriftlich beantwortet
+- TOP 1.4: Budget für klimaresilientere Hasenheide - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 2.1: 0267/XXI - Antisemitismus und Gewalt sind inakzeptabel - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Berlin entscheidet eigenständig über seine Verkehrspolitik! - in der BVV abgelehnt
+- TOP 2.3: 0269/XXI - Antisemitismus hat in Neukölln keinen Platz - ohne Änderungen in der BVV beschlossen
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Nicht nur die Neuköllner Wirtschaft braucht die A 100 - in der BVV abgelehnt
+- TOP 4.2: Antisemitismus und Gewalt sind inakzeptabel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Antisemitismus hat in Neukölln keinen Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bebauungsplan 8-86ba „Juliusstraße 9“ - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl einer Schiedsfrau / eines Schiedsmannes für den Schiedsamtsbezirk 1 - gewählt
+- TOP 7.2: Wahl einer Schiedsfrau / eines Schiedsmannes für den Schiedsamtsbezirk 4 - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Veranstaltungen des Bezirksamtes am 01.05.2022 - beantwortet
+- TOP 8.2: Neukölln-Tempelhofer Maientage 2023 - beantwortet
+- TOP 8.3: Knebel für Gesundheitsamt - beantwortet
+- TOP 8.4: 1. Mai - Neukölln abgesperrt? - schriftlich beantwortet
+- TOP 8.5: Gleiche Arbeit, gleicher Lohn?! – Nachfragen zu den nicht beantworteten Fragen Nr. 7 und Nr. 8 der Drs. 0036/XXI - beantwortet
+- TOP 8.6: Parken von Mietwagen in Rudow billiger als am BER? - beantwortet
+- TOP 8.7: Verfügungsfonds für Schulen - beantwortet
+- TOP 8.8: Bezirklich organisiertes Iftar in Neukölln - schriftlich beantwortet
+- TOP 8.9: Einrichtungsbezogene Impfpflicht für Mitarbeiter des Bezirksamtes bei Betreten medizinischer Einrichtungen in Neukölln sichergestellt? - schriftlich beantwortet
+- TOP 8.10: Asbest in Neuköllner Schulen - schriftlich beantwortet
+- TOP 8.11: Mittelkürzungen bezirkliche Anlaufstellen - schriftlich beantwortet
+- TOP 8.12: Müllprävention und Dialog mit Schüler*innen und Engagierten - schriftlich beantwortet
+- TOP 8.13: Veränderte Fahrbahnmarkierung Karl-Marx-Straße - schriftlich beantwortet
+- TOP 8.14: Riesenwerbung ohne Genehmigung am C&A-Gebäude in der Karl-Marx-Straße? - schriftlich beantwortet
+- TOP 8.15: Umgeht der Bezirksbürgermeister Haushaltsrecht? - schriftlich beantwortet
+- TOP 8.16: Integrationsbeauftragte und Bürgermeister beenden den Migrationsbeirat Neukölln dauerhaft? - schriftlich beantwortet
+- TOP 8.17: Weitergabe von Daten Neugeborener - schriftlich beantwortet
+- TOP 8.18: Verheerende Parkplatzsituation in der Gropiusstadt - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Übernahme gestiegener Heizkosten für Transferleistungsbeziehende sicherstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Kommunales Vorkaufsrecht erweitern, Spekulation verhindern, Leerstand beseitigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Dienststellen unter einem Dach - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Bezirksbeirat für Menschen mit Behinderung - beantwortet
+- TOP 11.2: Neu-Neuköllner Kinder und Jugendliche - beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Förderung der DEVI verlängern - in der BVV abgelehnt
+- TOP 12.2: HEROES-Finanzierung sicherstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Pilotprojekt zur Rekommunalisierung der Schulreinigung - vertagt
+- TOP 12.4: Tiny Houses - Win-Win für den Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Einwohner*innenantrag: Reuterkiez für Menschen statt für Durchgangsverkehr - für einen lebenswerteren Reuterkiez - - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Cargobike-Stellflächen in der Braunschweiger Straße 80 - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Die Neuköllner Mauer muss weg - in der BVV abgelehnt
+- TOP 12.8: Fahrradbügel U-Bahnhof Johannisthaler Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Neukölln für sichere Schulwege - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Verkehrsberuhigung des Minzeweges - in der BVV abgelehnt
+- TOP 12.11: Förderung Theatergruppe "Die Sultaninen" - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Duschmobil für obdachlose Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Patientenfürsprecherin des Krankhaus Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Das Interkulturelle Aufklärungsteam Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Busspuren ohne Bürgerbeteiligung - vertagt
+- TOP 13.2: Ein Straßenbahnnetz für Neukölln - vertagt
+- TOP 13.3: Schulbauoffensive abgebremst? - vertagt
+- TOP 13.4: Asbest in Neuköllner Schulen - vertagt
+- TOP 13.5: Asbest in Neuköllner Schulen - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Verbesserung des Busverkehrs entlang der Mohriner Allee - überwiesen
+- TOP 15.2: „Missoir" - ein dringendes Bedürfnis - überwiesen
+- TOP 15.3: Martin-Wagner-Ring - überwiesen
+- TOP 15.4: Ein Straßenbahnnetz für Neukölln - überwiesen
+- TOP 15.5: Sonntagsreden Taten folgen lassen – Eigenes Büro für die Seniorenvertretung Neukölln - überwiesen
+- TOP 15.6: Verfügungsfonds für Schulen - überwiesen
+- TOP 15.7: Fahrradbügel für die Mainzer Straße - überwiesen
+- TOP 15.8: Mülleimer mit Tierschutz - überwiesen
+- TOP 15.9: Kein Gedenken an Kriegsverbrecher auf dem Friedhof Columbiadamm - überwiesen
+- TOP 15.10: Fairtrade-Town: Mittelbeantragung zur Weiterführung der Fair-Trade-Arbeiten im Bezirk - überwiesen
+- TOP 15.11: Fairtrade-Town: Sichtbarkeit der bezirklichen Auszeichnung verbessern - überwiesen
+- TOP 15.12: Schulwegsicherheit auf der Karl-Marx-Straße erhöhen - überwiesen
+- TOP 15.13: Ehemaliges C&A Gebäude werbefrei - überwiesen
+- TOP 15.14: Die Grundschule am Koppelweg muss kommen - überwiesen
+- TOP 15.15: Bruno-Bauer-Straße 21a: Fußläufigkeit gewährleisten - überwiesen
+- TOP 15.16: Verfügungsfonds - überwiesen
+- TOP 15.17: Nebenstraßen für Radverkehr attraktiver machen – aus Kopfstein mach Asphalt - überwiesen
+- TOP 15.18: Supermarkt - Mehrgeschossiger Wiederaufbau Marienfelder Chaussee 144 - überwiesen
+- TOP 15.19: Verkehrskonzept Fontanestraße/Flughafenstraße - überwiesen
+- TOP 15.20: Energetische Sanierung bezirklicher Liegenschaften - überwiesen
