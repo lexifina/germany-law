@@ -165,6 +165,16 @@
 - [§ 34 (aufgehoben)](0034.md)
 - [§ 35 Monitoring und ergänzende Informationen](0035.md)
 
+## Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit
+
+- [§ 35a Allgemeines](0035a.md)
+- [§ 35b Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung](0035b.md)
+- [§ 35c Ausschreibung von strategischen Optionen zur Vorhaltung von Gas; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit](0035c.md)
+- [§ 35d Freigabeentscheidung](0035d.md)
+- [§ 35e Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung](0035e.md)
+- [§ 35f Evaluierung](0035f.md)
+- [§ 35g Inkrafttreten, Außerkrafttreten](0035g.md)
+
 ## Teil 4 Energielieferung an Letztverbraucher
 
 - [§ 36 Grundversorgungspflicht](0036.md)

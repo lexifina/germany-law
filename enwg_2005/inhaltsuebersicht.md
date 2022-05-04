@@ -162,6 +162,16 @@
 | § 33 | Vorteilsabschöpfung durch die Regulierungsbehörde |
 | § 34 | (aufgehoben) |
 | § 35 | Monitoring und ergänzende Informationen |
+|  |  |
+| Teil 3a |
+| Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit |
+| § 35a | Allgemeines |
+| § 35b | Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung |
+| § 35c | Ausschreibung von strategischen Optionen zur Vorhaltung von Gas; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit |
+| § 35d | Freigabeentscheidung |
+| § 35e | Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung |
+| § 35f | Evaluierung |
+| § 35g | Inkrafttreten, Außerkrafttreten |
 |  |
 | Teil 4 |
 | Energielieferung an Letztverbraucher |
