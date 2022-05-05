@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag der FDP-Fraktion
+
+- Sitzung: 16. Sitzung des Rates (2022-05-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/348351
+- Ergebnis: endgültig abgelehnt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/162719
