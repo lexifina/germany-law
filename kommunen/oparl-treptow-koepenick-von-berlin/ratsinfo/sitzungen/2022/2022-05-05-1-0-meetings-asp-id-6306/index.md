@@ -1,0 +1,69 @@
+# 7. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-05-05T16:30:00+02:00
+- Ende: 2022-05-05T20:38:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6306
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6306
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=378293
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Neue Realitäten anerkennen - Digitale Sitzungen der BVV im Bezirksverwaltungsgesetz ermöglichen - vertagt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - im Ausschuss abgelehnt
+- TOP 6.1: Wahl einer/s Bezirksverordneten als stimmberechtigtes Mitglied sowie Wahl einer/s Bezirksverordneten als stellvertretendes stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-05 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - (offen)
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Förderung der gemeinnützigen Tätigkeit von Vereinen bei der Raumüberlassung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Treptow-Köpenick planvoll gestalten statt kopflos verdichten - Erhalt der grünen Innenhöfe - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Rettungsschwimmer am Strandbad Müggelsee einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Schulanmeldungen online! - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Rücksichtnahmegebot gegenüber Einfamilienhausgebieten bei Nachverdichtung einhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Versprochenen Lärmschutz beim Straßenbahnneubau in Adlershof realisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Politische Erklärung zur Verbesserung der gesamtstädtischen Steuerung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Nachfragen zu Großen Anfragen - im Ausschuss abgelehnt
+- TOP 10.1: Kunststofffilterelemente im Müggelsee - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 11.1: Entwurf der Schulentwicklungsplanung für die Jahre 2022 bis 2026 - überwiesen
+- TOP 11.2: Gründung einer Grundschule am Standort Stillerzeile - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Kunst im öffentlichen Raum in Schöneweide erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Kungerkiezblock – Straßen für alle - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Neueinrichtung der Stelle eines Mobilitätsmanagers (m/w/d) - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Pilotprojekt "Bürohunde" auch im Bezirksamt Treptow-Köpenick durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Vierter Fortschrittsbericht zur "Inklusion und Barrierefreiheit in Anlagen und Einrichtungen des Bezirksamtes" - überwiesen
+- TOP 13.2: Benennung von mehreren privaten Planstraßen im Ortsteil Köpenick-Süd - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Konzept für ein bürgerfreundliches Ordnungsamt - überwiesen
+- TOP 14.2: Einkaufsmöglichkeit im Allende 1 aufrechterhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Kiezblocks in Treptow-Köpenick ausweiten - überwiesen
+- TOP 14.4: Gestaltung des Dorfangers in Müggelheim - überwiesen
+- TOP 14.5: Resolution zum Weiterbau der Bundesautobahn A 100 - in der BVV abgelehnt
+- TOP 14.6: Aufwertung Don-Ugoletti-Platz Grünau - überwiesen
+- TOP 14.7: Beratungsstelle für sexuelle Gesundheit - überwiesen
+- TOP 14.8: Herkomerstraße als Einbahnstraße ausweisen - überwiesen
+- TOP 14.9: Plexiglasscheiben in BVG-Wartehäuschen - überwiesen
+- TOP 14.10: Radfahrverbot in Grün- und Erholungsanlagen kenntlich machen - überwiesen
+- TOP 14.11: Bürgerwillen respektieren: Parkraumbewirtschaftung ablehnen - überwiesen
+- TOP 14.12: Nach Inkrafttreten der Streichung von § 219a StGB Informationen über Schwangerschaftsabbrüche bereitstellen - überwiesen
+- TOP 14.13: Straßenbahnverbindung Wendenschloß nach Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Selbstverpflichtung: Ein Baum für einen Baum. Baumdefizit abbauen und Grünerhalt zur Voraussetzung von bezirklichen Fällungen machen - überwiesen
+- TOP 14.15: Geh- und Radweg an der Salvador-Allende-Straße 89-91 instand setzen - überwiesen
+- TOP 14.16: Mehrsprachigkeit von der Kita an! - überwiesen
+- TOP 14.17: Bushaltestelle am S-Bahnhof Adlershof kenntlich und barrierefrei machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Sowjetisches Ehrenmal: Keine Propaganda für den Krieg am 8. und 9. Mai - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Verkehrskonzept zum Stadionausbau des 1. FC Union Berlin - überwiesen
+- TOP 15: Große Anfragen - (offen)
