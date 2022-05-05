@@ -1,0 +1,9 @@
+# TOP 8.: Controllingbericht Q4-2021
+
+- Sitzung: Stadtverordnetenversammlung der Stadt Großalmerode (2. Sitzung) (2022-05-05)
+- Körperschaft: Stadt Großalmerode
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/grossalmerode/webservice/oparl/v1.1/body/1/agendaitem/4377
+- Ergebnis: 24 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- Beratung: https://rim.ekom21.de/grossalmerode/webservice/oparl/v1.1/body/1/consultation/1775
+- Beschluss (Datei): Beschlußtext (Controllingbericht Q4-2021) https://rim.ekom21.de/grossalmerode/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcZ-YolSvVGap47LhD2PrBmK8qRwt-GuuMFEDseZ9MJd/Beschlusstext_VL-33-2022_-oeffentlich-_Stadtverordnetenversammlung_der_Stadt_Grossalmerode_05.05.2022.pdf
