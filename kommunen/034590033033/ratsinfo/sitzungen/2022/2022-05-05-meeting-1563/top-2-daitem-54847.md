@@ -1,0 +1,6 @@
+# TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 15.02.2022
+
+- Sitzung: Ausschuss für Bauen, Planen, Straßen und Verkehr (3. Sitzung) (2022-05-05)
+- Körperschaft: Gemeinde Wallenhorst
+- Öffentlich: ja
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/54847
