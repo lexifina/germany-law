@@ -1,0 +1,81 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-05-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6858997
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6858997
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Unser Schulhof soll schöner werden, Elternbeirat Grundschule Droste-Hülshoff-Straße
+- TOP 1.2.2.: U-Bahn Baustelle und Schulweg der Grundschüler zur Von-der-Pfordten-Schule
+- TOP 1.2.3.: Revierkämpfe der Ultras und Schmierereien an Verteilerkästen
+- TOP 1.2.4.: Schließung Edeka Agnes-Bernauer-Straße
+- TOP 2: Anträge
+- TOP 2.1.: Fraktion Die Grünen: Zeitnahe und weitreichende Ersatzpflanzungen im Zuge der U-Bahn-Verlängerung
+- TOP 2.2.: Fraktion Die Grünen: Denkmalschutz für Wohnblöcke an der Agnes-Bernauer-Straße
+- TOP 2.3.: Anfrage Fraktion die Grünen: Bebauung Guido-Schneble-/ Saherrstraße Abbruch von bestehenden Wohnraum
+- TOP 2.4.: CSU-Fraktion: Partizipation mit Kindern ernst nehmen! Verbesserung im Pausenhof Droste-Hülshoff GS
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 Gaststätte "Osteria La Baia", Straubinger Str. 9, 80687 München
+- TOP 3.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 Verkaufseinrichtung Merkur tz Redaktion GmbH Co. KG, Friedenheimer Str. 77, U-Bahn-Eingang/Ausgang
+- TOP 3.3.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl und Luftschloss und Pappburg 2023 8.106,00 Euro, Az.: 0262.0-25-0269
+- TOP 3.4.: Schreiben culture-clouds vom 12.04.2022: Budgetantrag Zirkus Pumpernudl und Luftschloss und Pappburg 2023
+- TOP 3.5.: (E) Stadtbezirksbudget Soli-Togo-Allemagne e.V. Spezial Förderung von begabten Sporttalenten vom 01.04. - 31.12.2022 9.255,00 Euro, Az.: 0262.0-25-0267
+- TOP 3.6.: Schreiben Referat für Bildung und Sport vom 12.04.22: Budgetantrag, Antragsteller Soli-Togo-Allemagne e.V.
+- TOP 3.7.: (E) Stadtbezirksbudget EFG-Großhadern im Bund Ev.-freik. Gemeinden in Deutschland Unterstützung von Kindern, Jugendlichen und Familien vom 15.05. - 31.12.2022 6.865,00 Euro, Az.: 0262.0-25-0272
+- TOP 3.8.: (E) Stadtbezirksbudget brennt GmbH Hörgang 2022 im Juni oder September 2022 14.999,00 Euro, Az.: 0262.0-25-0271
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Referat für Bildung und Sport vom 18.03.22: Schulbauoffensive 2013-2030, Sachstandsbericht zu den Schul- und Kita-Bauprogrammen, Umsetzung der Haushaltssicherung
+- TOP 4.3.: Schreiben Direktorium vom 24.01.22: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 4.4.: Schreiben MVG vom 08.04.22: MVG-Leistungsprogramm 2023
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 31.03.22: Familien-Flohmärkte auf dem Hogenbergplatz 25.06.22 (Ersatz 2.7.22) und 15.10.22 (Ersatz 22.10.22)
+- TOP 4.6.: Schreiben Sozialreferat vom 31.03.22: Ausschreibung "Ran an die Stadtteil-Koffer" für den Einsatz in einem Stadtteil 2023
+- TOP 4.7.: Schreiben Green City Experience GmbH vom 31.03.22: Laim - Mehr Rad im Viertel
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Eringerstr. 34, Gemarkung: Pasing, Fl.Nr.: 1585/26 Anbau eines Wintergartens an ein Reiheneckhaus - Vorbescheid
+- TOP 5.2.: Agricolastr. 66, Gemarkung Laim, Fl.Nr. 203/83 Neubau eines Mehrfamilienhauses (8WE) mit Tiefgarage Vollzug der BaumschutzVO
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 07.04.22
+- TOP 7.2.: Protokoll UA Schule und Gesundheit vom 06.04.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 08.04.22: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen
+- TOP 8.2.: Schreiben Baureferat vom 05.04.22: Verlängerung der U5 vom Laimer Platz bis Pasing Anliegen der Bürgerinitiative Landschaftspark-West
+- TOP 8.3.: Schreiben Baureferat vom 20.04.22: Gelände der Baumschule /U-Bahnbaustelle Verlängerung U5
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.04.22: Tag des offenen Denkmals am 11.09.22 Motto KulturSpur. Ein Fall für den Denkmalschutz
+- TOP 8.5.: Bautenliste vom 21.03.22-27.03.22: A) Erstantragsverfahren 1. Reutterstr. 61
+- TOP 8.6.: Bautenliste 04.04.22-10.04.22: A) Erstantragsverfahren 1. Schäufeleinstr. 2 2. Baudererstr. 20 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Agnes-Bernauer-Str. 134 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Westendstr. 210
+- TOP 8.7.: Bautenliste 11.04.22-17.04.22: A) Erstantragsverfahren 1. Ilmmünsterstr. 32b 2. Landsberger Str. 317 3. Gotthardstr. 44 4. Aindorferstr. 181 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Camerloherstr. 119
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.03.22: Fällantrag Fürstenrieder Str. 180
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.04.22: Fürstenrieder Str. 28a, Fl.Nr. 48/3, Gemarkung Laim Nutzungsänderung von Laden in eine konzessionsfreie Gaststätte (ohne Alkoholausschank) mit 8 Sitzplätzen
+- TOP 8.10.: Schreiben Referat für Bildung und Sport vom 22.03.22: Protokoll Videotermin Schrobenhausener Str. 15 und 17
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 30.03.22: Auswahl Sommerstraßen 2022 und weiteres Vorgehen
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 05.04.22: Präsentation zur Veranstaltung Nahverkehrsplan der Landeshauptstadt München
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 28.03.22: Familien-Flohmärkte Drachenei e.V. am Hogenbergplatz am 30.04.22 und 17.09.22 Hier: Eilentscheidung
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 31.03.22: Familien-Flohmärkte Laimer Schlümpfe auf dem Hogenbergplatz am 07.05.22 (Ersatz 21.05.22) und 24.09.22 (Ersatz 01.10.22) Hier: Eilentscheidung
+- TOP 8.15.: Schreiben Kreisverwaltungsreferat vom 31.03.22: Familien-Flohmarkt Laimer Strolche auf dem Hogenbergplatz am 28.05.22 ( Ersatz 04.06.22) Hier: Eilentscheidung
+- TOP 8.16.: Schreiben BA 15 Trudering-Riem vom 25.03.22: BA-Mitgliedern den Zugang zum städtischen Online-Telefonbuch ermöglichen
+- TOP 8.17.: Schreiben BA 1 Altstadt-Lehel vom 07.04.22: Beschlussvorlage "Dialog-Display" (Termin 17.04.22)
+- TOP 8.18.: Schreiben BA 11 Milbertshofen-Am Hart-Olympiadorf vom 08.04.22: Anhebung der Untergrenze der Kosten für illegale Baumfällungen auf mindestens 3.000,-€
+- TOP 8.19.: Schreiben DEHOGA vom 28.03.22: Weitere Nutzung der Heizstrahler mit Ökostrom auf öffentlichen Plätzen der Außengastronomie
+- TOP 8.20.: Schreiben Münchner Forum vom 12.04.22: Stellungnahme des Münchner Forum zum Bürger:innengutachten Paketpost-Areal
+- TOP 8.21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.03.22: (U) Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 25 - Laim a) Ergebnis der Überprüfung der Erhaltungssatzung "Pfarrer-Endres-Weg / Landsberger Straße" b) Satzungsbeschluss der veränderten Erhaltungssatzung "Agnes-Bernauer-Straße" der Landeshauptstadt München zur Erhaltung der Zusammensetzng der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung "Agnes-Bernauer-Straße") Stadtbezirk 25 - Laim
+- TOP 8.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.03.22: (U) Vereinbarkeit von § 10 Abs. 3 und 4 der Satzung des Vereins zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V. mit dem Gebot der Haftungsbegrenzung gem. Art. 92 Abs. 1 Satz 1 Nr. 3 GO – Prüfauftrag des Bayer. Kommunalen Prüfungsverbandes aus dem Jahr 2013 / 2021
+- TOP 8.24.: Bekanntgabe im Ausschusses für Stadtplanung und Bauordnung vom 30.03.22: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 8.25.: Beschluss der Vollversammlung vom 23.03.22: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 8.26.: Beschluss des Verwaltungs- und Personalausschusses vom 16.03.22: (U) Evaluation des Livestreams bei einer Bürgerversammlung und Weiterentwicklung der Bürgerversammlungen
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.27.: Bettlerbanden und Alkoholiker (Weitergabe an KVR)
+- TOP 9.28.: Nistkästen (Weitergabe an Hausverwaltung)
+- TOP 9.29.: Anfrage zum Ergebnis der Polizeiaktion in der Joergstraße (Weitergabe an Polizeiinspektion)
+- TOP 9.30.: Parkplatz-Situation (Weitergabe an Mobilitätsreferat)
+- TOP 1.2: Bürgerpost an den BA
