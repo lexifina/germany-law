@@ -1,0 +1,76 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-06T16:00:00+02:00
+- Ende: 2022-05-06T18:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21818
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21818
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung 06.05.2022 Stand 05.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448561.pdf
+- Ergebnisprotokoll: BV9 Sitzung 06.05.2022 Stand 05.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448561.pdf
+- Wortprotokoll: BV9 Sitzung 06.05.2022 Stand 05.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448561.pdf
+
+## Tagesordnung
+
+- TOP -: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 18.03.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Benrodestraße 46, Rathaus Benrath, Denkmalgerechte Gesamtsanierung - Ausführungs- und Finanzierungsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 5.2: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 5.3: Flächennutzungsplanänderung Nr. 206 & Bebauungsplan Vorentwurf Nr. 09/014 - Benrodestraße/Marbacher Straße - Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 5.4: Bebauungsplan-Entwurf Nr. 09/011 - Östlich Kölner Landstraße - Verfahren gem. §13a BauGB, Aufstellung, Öffentlichkeitsbeteiligung, Behördenbeteiligung, Öffentliche Auslegung - Empfehlung einstimmig beschlossen
+- TOP 5.5: Zukunft Quartier.Düsseldorf - Einführung eines Nachbarschaftsfonds im Handlungsraum 11 Hassels/ Reisholz - einstimmig beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Paul-Thomas-Straße 35 - Dachsanierung: Hallenanbau mit Funktionsräumen - Empfehlung einstimmig beschlossen
+- TOP 5.10: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2022 - einstimmig beschlossen
+- TOP 5.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Listen B+C - einstimmig beschlossen
+- TOP 5.12: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen - Empfehlung mehrheitlich beschlossen
+- TOP 5.13: Münchener Straße - streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 70km/h aus Lärmschutzgründen - Empfehlung mehrheitlich beschlossen
+- TOP 5.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Grünanlagen am Werstener Kreuz - Anfrage der SPD-Fraktion - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Darstellung der statistischen Wohnungsdaten für Stadtteile und Sozialräume - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Straßenschäden auf der Benrodestraße - Anfrage der SPD-Fraktion - vertagt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: „Smiley“-Anzeigen auf der Straße Am Schönenkamp - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Kreisverkehr Koblenzer Str./ Südallee - Antrag der Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 8.5: Wegeverbindung Hassels-Eller unter A 46 - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Wir in Wersten e. V. - Bienenlauf 2022 - einstimmig beschlossen
+- TOP 9.2: Wir in Wersten e. V. - Heimatsommer 2022 - einstimmig beschlossen
+- TOP 9.3: Wir in Wersten e. V. - "Rock am Bach" 2022 - einstimmig beschlossen
+- TOP 9.4: Lauftreff Düsseldorf-Süd e.V. - 12. Benrather Schlosslauf 2022 - einstimmig beschlossen
+- TOP 9.5: St.-Elisabeth-Schule - Theaterprojekte "Mein Körper gehört mir" u. "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 9.6: St. Sebastianus-Schützenverein e. V. Düsseldorf Holthausen - Seniorenvormittag - einstimmig beschlossen
+- TOP 9.7: Christ Ambassadors Gospel Ministry e. V. - Hasseler Tafel - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Tempo 30 Südallee/Kammerrathsfeldstraße/Tübinger Straße - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/205/2021 - zur Kenntnis genommen
+- TOP 10.2: Hildener Straße – Parkstandmarkierung und Setzen von 9 Pfosten - zur Kenntnis genommen
+- TOP 10.3: Nachtrag zur Vorlage APS/019/2021 Workshop „Perspektiven Gewerbestandort Kappeler Straße“ in der BV9 Sitzung am 18.03.2022 - zur Kenntnis genommen
+- TOP 10.4: Graffitientfernung an der Toilettenanlage im Elbroichpark - Beschluss der Bezirksvertretung 9 18.03.2022; BV9/042/2022 - zur Kenntnis genommen
+- TOP 10.5: Nachtrag zur Vorlage Erweiterung der Außenanlage der Kita Otto-Hahn-Str. 40 in der Sitzung der Bezirksvertretung 9 am 28.01.2022; BV9/033/2022 - zur Kenntnis genommen
+- TOP 10.6: Kleinbuslinie Holthausen-Itter-Himmelgeist - Beschluss der Bezirksvertretung 9 vom 18.03.2022; BV9/058/2022 - zur Kenntnis genommen
