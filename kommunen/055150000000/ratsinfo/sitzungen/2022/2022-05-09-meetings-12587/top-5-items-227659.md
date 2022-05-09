@@ -1,0 +1,6 @@
+# TOP 5: Wahl einer neuen Vertretung im Ausschuss für Schule und Weiterbildung
+
+- Sitzung: Sitzung (2022-05-09)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/227659
