@@ -1,0 +1,76 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-10T17:00:00+02:00
+- Ende: 2022-05-10T22:37:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22414
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22414
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00447683.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00447683.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00447683.pdf
+
+## Tagesordnung
+
+- TOP 1: Formalien
+- TOP 1.1: Verpflichtung von Mitgliedern der Bezirksvertretung 3
+- TOP 1.2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 22.02.2022 - abweichend beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 29.03.2022 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Bau- und Planungsangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Dialogverfahren Zukunft der Kö - Empfehlung einstimmig beschlossen
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: RRX-Planung im Abschnitt PFA 2.1 (mdl. Bericht Verwaltung) - zur Kenntnis genommen
+- TOP 5.2: RRX - Auswertung des Planfeststellungsbeschlusses für den PFA 2.1 Reisholz - Wehrhahn - zur Kenntnis genommen
+- TOP 5.3: Jugend checkt Düsseldorf (mdl. Bericht der Verwaltung) - zur Kenntnis genommen
+- TOP 5.4: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses am Schulstandort Siegburger Straße 137-149 - einstimmig beschlossen
+- TOP 5.5: Umgestaltung Kinderspielplatz Brunnenstraße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - abweichend beschlossen
+- TOP 5.6: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 5.7: Neptunstraße – Bordsteinabsenkungen und Ausbau eines vorgezogenen Seitenraumes in Höhe des Einmündungsbereiches "Im Dahlacker" - einstimmig beschlossen
+- TOP 5.8: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen - Empfehlung einstimmig beschlossen
+- TOP 6: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 6.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2022 - einstimmig beschlossen
+- TOP 6.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorherigen Sitzungen
+- TOP 7.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 7.1.2: Gestaltung Bahnunterführung Ellerstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 7.1.3: Stellplätze für Fahrräder auf der Fleher Str. / In der Hött (Anfrage Fraktionen BÜNDNIS 90 / DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.4: Umbau und Aufzug Regionalhalt Bilk-S (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 7.1.5: Wie ist der Stand des Projekts „Neubau des Luisen Gymnasiums“ auf dem Areal südl. auf ´m Tetelberg? (Anfrage DIE LINKE) - zur Kenntnis genommen
+- TOP 7.1.6: Aufwertung der Eisenstraße (Anfrage SPD, BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 7.1.7: Radweg Fleher Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.8: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.9: Unfallzahlen zu ZweiradfahrerInnen (Anfrage SPD-Fraktion) - vertagt
+- TOP 7.1.10: Neugestaltung des südlichen Kirchplatzes - Kinderspielplatz hinter der Kirche (Anfrage CDU-Fraktion) - vertagt
+- TOP 7.1.11: Umbau und Steuerung der Lichtzeichenanlage am Fuß- und Radweg im Kreuzungsbereich Düssel- und Neusser Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.2: Aktuelle Anfragen
+- TOP 7.2.1: Prüfung des Neubaus von Quartiersgaragen (Anfrage CDU-Fraktion) - vertagt
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Beantwortung von Anfragen aus Bezirksvertretungen (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN, CDU) - einstimmig beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Verbesserung der Überquerung über die Schmiedestraße (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 8.6: Sicherheit für Schülerinnen und Schüler - Einrichtung einer verkehrs-beruhigten Zone vor der Grundschule Kronprinzenstraße (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - abweichend beschlossen
+- TOP 8.7: temporäre WC-Anlage am Spielplatz Sternwartpark einrichten (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 8.8: KITA Fahrradständer - Flügelstraße 21 (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Lückenschluss Fahrradweg Himmelgeister Straße - zur Kenntnis genommen
+- TOP 9.2: Im Liefeld - Tempo 30 im Bereich des Tunnels - zur Kenntnis genommen
+- TOP 10: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
