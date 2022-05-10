@@ -1,0 +1,56 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-10T17:00:00+02:00
+- Ende: 2022-05-10T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25113
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25113
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Europäische Hauptstadt für Integration und Vielfalt - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage betreffend "Sachstandsbericht der Arbeitsgruppe Kölnberg aus der Sitzung vom 07.03.2022" - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage betreffend "Zweite digitale Konferenz Interkulturelles Köln am 05.11.2021 – Dokumentation" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündlichen Anfrage betreffend "Gebetsruf an Kölner Moscheen zum Freitagsgebet aus der Sitzung vom 25.10.2021" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage betreffend "Umsetzung des Teilhabechancengesetzes (THCG) in der Stadtverwaltung und der KGAB" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer mündlichen Anfrage betreffend "Einfache Sprache als Verwaltungsstandard" - zurückgestellt
+- TOP 3.6: Beantwortung einer mündlichen Anfrage betreffend "Razzia in Kölner Shisha-Bars" aus der Sitzung vom 07.03.2022 - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Berichtswesen Beschlüsse der Gremien (beschluss- und projektbezogene Berichterstattung) - Kenntnis genommen
+- TOP 4.2: Zwei-Jahres-Kurzbilanz des städtischen Ordnungsdienstes zur Corona-Pandemie - Kenntnis genommen
+- TOP 4.3: Aktuelle Städtepartnerschaftsmaßmahmen - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1.1: Anfrage der SPD-Fraktion betreffend "Umsetzung der EU-Whistleblower-Richtlinie in Köln" - zurückgestellt
+- TOP -: Beantwortung der Anfrage betreffend "Umsetzung der Whistleblower-Richtlinie/Beantwortung der Anfrage der SPD-Fraktion (AN 0732/2022)" - zurückgestellt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der Fraktion Die Fraktion betreffend "Reversible Haarnadeln" - zurückgestellt
+- TOP 6.2.2: Anfrage der SPD Fraktion betreffend "Plätze mit besonderem Handlungsbedarf: Bilanz der temporären Anlaufstelle am Neumarkt" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage betreffend "Plätze mit besonderem Handlungsbedarf: Bianz der temporären Anlaufstelle Neumarkt" - Kenntnis genommen
+- TOP 6.2.3: Anfrage der SDP Fraktion betreffend "Überlastung der Ausländerbehörden u. a. Ämter und Abteilungen der Stadtverwaltung – Rechts-kreiswechsel der Geflüchteten aus der Ukraine in die Grundsicherung" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der SPD-Fraktion betreffend " An-, Ab- und Ummeldungen von Gewerbebetrieben in Köln"
+- TOP 7.2: Mündliche Anfrage eine Sachkundigen Einwohners der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender betreffend "Wertschätzende Kommunikation"
+- TOP 7.3: Mündliche Anfrage der AfD-Fraktion betreffend "Konkurrentenklagen".
+- TOP 7.4: Mündliche Anfrage der FDP-Fraktion betreffend "Innovationsbüros der Stadt Köln"
+- TOP 7.5: Mündliche Anfrage eines Sachkundigen Einwohners der CDU-Fraktion betreffend "Verfahren der Wanderbäume"
+- TOP 7.6: Mündliche Anfrage einer Sachkundigen Einwohnerin des Integrationsrates betreffend "Sozialleistungen für ukrainisch geflüchtete Frauen"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Fraktion Die Fraktion betreffend "Bedarfsabfrage EC-Lesegeräte im Verkehrsdienst" - Sache ist erledigt
+- TOP 8.2: Antrag der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion und der Volt-Fraktion betreffend "Weihnachtsmärkte in Köln" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - geändert beschlossen
+- TOP 10.2: ‚Identität stärken - natürliche Mehrsprachigkeit fördern!‘ - ohne Votum in nachfolgende Gremien
+- TOP 10.3: Änderungsverordnung zum Kölner Taxitarif - ohne Votum in nachfolgende Gremien
+- TOP 10.4: Einrichtung einer Stabsstelle "Kulturraummanagement" im Dezernat Kunst und Kultur - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
