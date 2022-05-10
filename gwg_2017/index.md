@@ -23,7 +23,7 @@
 - [§ 10 Allgemeine Sorgfaltspflichten](0010.md)
 - [§ 11 Identifizierung; Erhebung von Angaben zum Zweck der Identifizierung](0011.md)
 - [§ 11a Verarbeitung personenbezogener Daten durch Verpflichtete](0011a.md)
-- [§ 12 Identitätsüberprüfung, Verordnungsermächtigung](0012.md)
+- [§ 12 Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung](0012.md)
 - [§ 13 Verfahren zur Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung](0013.md)
 - [§ 14 Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung](0014.md)
 - [§ 15 Verstärkte Sorgfaltspflichten, Verordnungsermächtigung](0015.md)
