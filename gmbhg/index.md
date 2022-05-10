@@ -133,9 +133,6 @@
 
 - [§ 77a Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes](0077a.md)
 
-## Abschnitt 6 Ordnungs-, Straf- und Bußgeldvorschriften
-
-
 ## Abschnitt 7 Ordnungs-, Straf- und Bußgeldvorschriften
 
 - [§ 78 Anmeldepflichtige](0078.md)
