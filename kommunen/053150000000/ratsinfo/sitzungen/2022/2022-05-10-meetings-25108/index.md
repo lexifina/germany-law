@@ -1,0 +1,63 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-10T15:00:00+02:00
+- Ende: 2022-05-10T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25108
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25108
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Anfrage zur Abfallentsorgung an der Homarstraße - zurückgestellt
+- TOP -: Beantwortung der Anfrage 0263/2020 wilder Müll "Homarstraße" in Köln Kalk - Kenntnis genommen
+- TOP 3.2: Nachfrage zur Beantwortung der Anfrage "Sachstand herkunftssprachliche bilinguale Kitagruppen" - zurückgestellt
+- TOP 3.3: Vorgriffregelung zur Ampel-Bleiberechtsvereinbarungen - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage nach § 4 Geschäftsordnung - Kenntnis genommen
+- TOP 3.4: Anfrage zur Anwendung eines Urteils des europäischen Gerichtshofes zur Niederlassungserlaubnis - zurückgestellt
+- TOP 3.5: Anfage zur Passbeschaffung & Verlängerung eines Aufenthaltstitels - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Liste GOL zu "Passbeschaffung und Verlängerung eines Aufenthaltstitels" - Kenntnis genommen
+- TOP 3.6: Anfrage zum kolonialen Erbe der Stadt Köln - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage zum kolonialen Erbe der Stadt Köln - Kenntnis genommen
+- TOP 3.7: Anfrage: Verloren gegangene Unterlagen bei der Ausländer:innenbehörde - zurückgestellt
+- TOP 3.8: Anfrage - ÖPNV für Alle? - zurückgestellt
+- TOP 3.9: Anfrage: Einführung vegetarischer Tage in den Kantinen/Verpflegungseinrichtungen der Stadt Köln - zurückgestellt
+- TOP 4: Aktuelle Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage zum Verbleib von Finanzmitteln aus dem Integrationsbudget, hier: Gesundheitswegweiser für Migrant*innen - zurückgestellt
+- TOP 4.2: Anfrage zu Angeboten in den Sozialpsychiatrischen Zentren in den Stadtbezirken / Stand der Interkulturellen Öffnung des Angebotes - zurückgestellt
+- TOP 4.3: Teilhabe und Integration von neu zugewanderten Schüler*innen an Kölner Schulen / Anfrage zur Beschulung - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0799/2022 (Teilhabe und Integration von neu zugewanderten Schüler*innen an Kölner Schulen, Anfrage zur Beschulung) vom 29.03.2022 - Kenntnis genommen
+- TOP 4.4: Anfrage zur Testphase im Programm der Seniorenberatung (hier: Sprachmittlung Bezirk Mülheim/ Bezirksrathaus Mülheim) - Kenntnis genommen
+- TOP -: Anfrage AN/0800/2022 des Integrationsrates zur Testphase im Programm der Seniorenberatung (hier: Sprachmittlung Bezirk Mülheim/Bezirksrathaus Mülheim) - Kenntnis genommen
+- TOP 4.5: Anfrage zum Status von Ukraine-Flüchtlingen aus Drittstaaten - zurückgestellt
+- TOP 4.6: Erreichbarkeit der Kölner Ausländerbehörde und Kontaktdaten der Sachbearbeitung - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Professionelle Sprach- und Kulturmittlung in AO SF-Verfahren - Kenntnis genommen
+- TOP 5.2: Aktuelle Lage zur Ukraine Krise im Schulbereich - Kenntnis genommen
+- TOP 5.3: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 5.4: Aufgabe der städtischen Flüchtlingsunterkunft Weißdornweg 21, 21 a-c,50996 Köln-Rondorf und Versetzung der modularen Gebäude zum städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden - Kenntnis genommen
+- TOP 5.5: Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o. Nr., 50968 Köln-Marienburg - Haushaltsrechtliche Unterrichtung - Kenntnis genommen
+- TOP 5.6: Teilnahme am Landesprogramm Kommunales Integrationsmanagement (KIM) - Kenntnis genommen
+- TOP 5.7: Evaluation der kommunalen Seniorenprogramme der Stadt Köln - zurückgestellt
+- TOP 5.8: Europäische Hauptstadt für Integration und Vielfalt - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Ukraine: Hilfsangebote für Geflüchtete unabhängig vom Pass // Unterstützung ausländischer Studierender“ - geändert beschlossen
+- TOP 6.1.1: Änderungsantrag - Hilfsangebote für Kriegsflüchtlinge unabhängig von Staatsangehörigkeit, ethnische Herkunft, Hautfarbe, Land und Region - endgültig zurückgezogen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - Alternative beschlossen
+- TOP 8.1.1: Änderungsantrag zum Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinder-freundliche Kommune“ 0961/2022 - geändert beschlossen
+- TOP 8.2: Beschluss über die Anbringung einer Gedenktafel zur Erinnerung an den rechtsterroristischen Anschlag in der Probsteigasse - ungeändert beschlossen
+- TOP 8.3: 'Integrationsbudget 2022' - Verteilung von Restmitteln für eine mehrsprachige Informationskampagne zu Gesundheitsthemen - ungeändert beschlossen
+- TOP 8.4: Verteilung der Fördermittel „Fördertopf für Aussiedler*innen und Vertriebene“ - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
