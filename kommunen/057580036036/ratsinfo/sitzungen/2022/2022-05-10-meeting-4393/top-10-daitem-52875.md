@@ -1,0 +1,6 @@
+# TOP 10.: Sachstand Klima -mdl. Vortrag-
+
+- Sitzung: Ausschuss für Klimaschutz, Umwelt und Abfall (6. Sitzung) (2022-05-10)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/52875
