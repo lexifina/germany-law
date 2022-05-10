@@ -1,0 +1,160 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2022-05-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6821359
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6821359
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.1.2.1.: Versorgung südlich Chiemgaustraße - Ausfall des Bücherbusses Gelb; Bürgeranliegen (FF UA FSA)
+- TOP 2.1.2.2.: Biotop im Weißenseepark, Bürgeranliegen (FF UA Umwelt)
+- TOP 2.1.2.3.: General-Kalb-Weg, Kennzeichnung am General-Kalb-Weg; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.4.: Expressbus X220 und Radwegverbindung Grünwalder Stadion - Unterhaching; Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.5.: Bauvorhaben Grundschule Weissenseestraße; Bürgeranliegen (FF UA FSA)
+- TOP 2.1.2.6.: Auguste-Kent-Platz- Busspur; Bürgeranliegen vom 19.04.2022 (FF: UA MuV)
+- TOP 2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3.2.: Zusammenarbeit im Forschungscluster MCube: Münchner Cluster für die Zukunft der Mobilität in Metropolregionen - AQT "Autoreduzierte Quartiere für eine lebenswerte Stadt" (UA MuV)
+- TOP 3.1.1.: Kapellenfeldstraße 2a
+- TOP 3.1.2.: Stadelheimerstraße 12
+- TOP 3.1.3.: Perlacher Str. 126, Fällgenehmigung -Unterrichtung-
+- TOP 3.1.4.: Forggenseestr. 32, Fällgenehmigung -Unterrichtung-
+- TOP 3.1.5.: Chiemgaustr. 66
+- TOP 4.1.: Erhalt von Gebäuden; Antrag der SPD-Fraktion (FF UA BPW)
+- TOP 4.2.: Umsetzung hybrider bzw. digitaler Unterausschuss- und Bezirksausschusssitzungen; Antrag der SPD-Fraktion
+- TOP 4.3.: Schnelle Verbesserungen für Fußgänger*innen und Radfahrer*innen auf der Regerbrücke; Antrag aus dem UA Mobilität und Verkehr
+- TOP 4.4.: Einrichtung bzw. Erweiterung von "Tempo 30-Zonen" innerhalb der von folgenden Straßen begrenzten Gebiete: 1. St.-Bonifatius-Straße / St.-Martin-Platz (nördliche Fahrbahn am Eingang zum Ostfriedhof) / Eintrachtstraße / Werinherstraße / Ichostraße / Die Nordostbegrenzung bildet die Straße "Am Bergsteig", die aber Bestandteil der "Tempo 30-Zone" ist. 2. Chiemgaustraße / Schwanseestraße / Schlierseestraße / Werinherstraße / Martin-Luther-Straße / Tegernseer Landstraße (Verlauf Mittlerer Ring); Antrag des UA Mobilität und Verkehr
+- TOP 5.1.2.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl, Strasse. Oase. und Tanz. Die. Invasion in 2022 8.562,00 € / Az. 0262.0-17-0337 (FF UA FSA)
+- TOP 5.1.5.: (E) Stadtbezirksbudget Nityaa Arts Centre NATYA FEST 2022 am 07.05.2022 2.000,00€; Az. 0262.0-17-0339 (FF UA Kultur)
+- TOP 5.1.7.: (E) Stadtbezirksbudget Wir in Giesing e.V. Ois Giasing Sommer 2022 vom 2.7.2022 bis 2.10.2022 12.000,00€; Az. 0262.0-17-0344 (FF UA Kultur)
+- TOP 5.4.1.: Verwendungsnachweis und Abschlussbericht Green City e.V. hier: Bürgerinnen und Bürger gestalten Ihre Stadt - Freiflächenmanagement Grünspitz (FF UA Umwelt)
+- TOP 5.4.2.: Zuwendungsbewilligung im Rahmen des Programms "Bürgerinnen und Bürger gestalten ihre Stadt" und aus Budgetmitteln der Bezirksausschüsse der LHM; Bescheid für den Verein Green City e.V. vom 11.04.22 (FF UA Kultur)
+- TOP 5.4.3.: 103er-Freizeittreff Obergiesing; Verwendungsnachweis (FF UA Kultur)
+- TOP 5.4.4.: Sanart - A. Veit - Schnitzelparcours; Verwendungsnachweis (FF UA Kultur)
+- TOP 5.4.5.: Hidalgo GmbH; Verwendungsnachweis (FF UA Kultur)
+- TOP 5.4.6.: Wir in Giesing - Stadtteilladen, Freezing; Verwendungsnachweis (FF UA Kultur)
+- TOP 6.1.3.1.: Schwandorfer Str. 4, Errichtung eines 3-Familienhauses
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 28.03.2022 bis 24.04.2022
+- TOP 6.1.4.2.: Vollzug der Erhaltungssatzung „Tegernseer Landstraße“ Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse hier: Werinherstr. 22, Deisenhofener Str. 9, Deisenhofener Str. 11
+- TOP 6.1.4.3.: Vollzug der Erhaltungssatzung "Scharfreiterplatz" Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse hier: Scharfreiterstr. 7
+- TOP 6.1.4.5.: Stellungnahme des Münchner Forum zum Bürger:innengutachten Paketpost-Areal
+- TOP 6.1.4.6.: Baustelle an der Europäischen Schule im Fasangarten; Bürgeranfrage vom 22.03.22; Antwortschreiben Bau-T vom 13.04.22
+- TOP 6.2.1.1.: Konzept Sozialraumkarten; Einladung in den UA FSA; Schreiben des Vereins Mobil und sicher im Alltag e.V.
+- TOP 6.2.3.1.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2023
+- TOP 6.3.2.1.: (E) + (U) Sperren der Alpenstraße für Autoverkehr Empfehlung Nr. 20-26 / E 00441 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 26.10.2021
+- TOP 6.3.2.2.: (E) + (U) Bedarfsampel Stadelheimer Straße besser sichern Empfehlung Nr. 20-26 / E 00449 der Bürgerversammlung des Stadtbezirkes Nr. 17 Obergiesing- Fasangarten, Bezirksteil Obergiesing am 26.10.2021
+- TOP 6.3.3.1.: Perlacher Straße zwischen Untersbergstraße und Fockensteinstraße Radwegsanierung - Anhörung durch das Baureferat -
+- TOP 6.3.3.2.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen hier: Werinherstraße – Asam Gymnasium München - Anhörung durch das Mobilitätsreferat -
+- TOP 6.3.3.3.: MVG Leistungsprogramm 2023 - Anhörung der Bezirksausschüsse durch die MVG (Frist: 20. Mai 2022) zu TOP 6.3.3.3 Stellungnahme des Fahrgastverband Pro Bahn e.V.
+- TOP 6.3.4.1.: Aufhebung der Bücherbushaltestelle in der Cincinnatistraße 81
+- TOP 6.3.4.3.: Beschlussvorlage Dialog-Displays - Stellungnahme des BA 1 Altstadt-Lehel
+- TOP 6.3.4.4.: Baumaßnahme Zehentbauernstraße vom 11.04.2022 bis voraussichtlich Ende Juni 2022 - Mitteilung durch das Baureferat -
+- TOP 6.3.4.5.: Präsentation zur Veranstaltung Nahverkehrsplan der Landeshauptstadt München - Themenfeld Infrastruktur am 30.03.2022
+- TOP 6.3.4.8.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Raintaler Straße 37; verkehrsrechtliche Anordnung nach § 45 StVO; Unterrichtung des MOR vom 07.03.22
+- TOP 6.3.4.9.: Aktion "Stadtradeln" vom 09. bis 29. Mai 2022; Information des Koordinationsbüros Stadtradeln und Schulradeln München
+- TOP 6.4.3.1.: Anhebung der Untergrenze der Kosten für illegale Baumfällungen auf mindestens 3.000 Euro; Antrag des BA 11 Milbertshofen - Am Hart mit der Bitte um Unterstützung
+- TOP 6.4.4.1.: Wildcampen im Kronepark - Antwortschreiben des BA 5 Au-Haidhausen -
+- TOP 6.4.4.3.: Projekt "Eichen der Welt" - Antwortschreiben des Baureferates -
+- TOP 6.5.3.1.: Weißenseepark: Sommer im Park, Familienfest am 08.07.2022
+- TOP 6.5.4.1.: Tag des offenen Denkmals am 11.09.2022 Motto: "KulturSpur. Ein Fall für den Denkmalschutz." - Schreiben des Referates für Stadtplanung und Bauordnung -
+- TOP 7.3.1.: Informationsschreiben BA 01/2022: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen
+- TOP 5.4.7.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 (FF alle UA)
+- TOP 5.1.8.: (E) Stadtbezirksbudget Freundschaft zw. Ausländern und Deutschen - Die Nachbarschaftshilfe - ausl. & deut. Familien SommerHofKonzerte - Konzert-Reihe am "Nachbarschaftstreff am Walchenseeplatz" 1.703,92€; Az. 0262.0-17-0335
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Baumschutz (Einzelfälle und Bauvorhaben)
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl, Strasse. Oase. und Tanz. Die. Invasion in 2023 8.562,00 € / Az. 0262.0-17-0336 (FF UA FSA)
+- TOP 5.1.3.: (E) Stadtbezirksbudget THW Förderverein München Ost e.V. Beschaffung eines Pkw 4.000,00 € / Az. 0262.0-17-0340 (FF UA Wirtschaft u. Arbeit)
+- TOP 5.1.4.: (E) Stadtbezirksbudget mobil und sicher e.V. Sozialraumkarte vom 19.04. - 15.07.2022 4.490,00 € / Az. 0262.0-17-0333 (FF UA FSA) (vertagt aus 04/2022)
+- TOP 5.1.6.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. Faces for the Names Todesopfer im Friedhof am Perlacher Forst vom 9. - 13. November 3.000,00€; Az. 0262.0-17-0343 (FF UA Kultur)
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.1.1.1.: Giesinger Kirchplatz (verwiesen aus der April-Sitzung - siehe auch TOP 6.3.1.1)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.4.4.: (U) Städtischer Wohnungsbau im Rahmen des Kommunalen Wohnraumförderungsprogramms - KommWFP; Werkmietwohnungsbau
+- TOP 6.1.5: Anträge
+- TOP 6.1.6: Sonstiges
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Aufhebung der Bücherbushaltestelle in der Cincinnatistraße 81 (siehe auch TOP 6.3.4.1)
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP 6.3.1.1.: Giesinger Kirchplatz (verwiesen aus der April-Sitzung - siehe auch TOP 6.1.1.1)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.4.6.: Verkehrszeiche, Poller o.ä. im öffentlichen Raum behindertengerecht gestalten (vertagt aus Sitzung 04/2022)
+- TOP 6.3.4.7.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.2.: Tischtennisspieler*innen in Giesing unterstützen – Platten vor dem Frühling in Stand setzen
+- TOP 6.4.4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.2.: Tischtennisspieler*innen in Giesing unterstützen – Platten vor dem Frühling in Stand setzen (siehe auch TOP 6.4.4.2)
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
