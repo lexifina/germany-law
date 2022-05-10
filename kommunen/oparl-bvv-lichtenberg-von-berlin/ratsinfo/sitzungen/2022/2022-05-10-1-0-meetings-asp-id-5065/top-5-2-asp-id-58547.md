@@ -1,0 +1,6 @@
+# TOP 5.2: Studie "Eignungs-Check für gewerbliche Nutzungen"
+
+- Sitzung: 8. (Sonder-) Sitzung in der IX. Wahlperiode des Ausschusses Ökologische Stadtentwicklung, Mieter:innenschutz und Facility Management gemeinsam mit dem Ausschuss Europa, Wirtschaftsförderung und Sozialraumsteuerung (2022-05-10)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=58547
