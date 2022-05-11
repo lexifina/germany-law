@@ -1,0 +1,62 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-11T17:00:00+02:00
+- Ende: 2022-05-11T19:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21974
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21974
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448064.pdf
+- Ergebnisprotokoll: NachtragsTO 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448064.pdf
+- Wortprotokoll: NachtragsTO 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448064.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Vorstellung Modellprojekt "Gemeinsam gegen Einsamkeit"
+- TOP -: Bau- und Planungsangelegeneheiten
+- TOP 3: Sportanlage Sankt-Franziskus-Straße - Bau eines Kunstrasenjugendspielfelds - Empfehlung einstimmig beschlossen
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 4: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen
+- TOP 8: Anfrage der SPD-Fraktion: Neubepflanzung "Unterrather Wald" - Airport City West
+- TOP 9: Anfrage der CDU-Fraktion: Gebäude Kalkumer Straße 1 und Kalkumer Straße 2, ff
+- TOP 10: Anfrage der CDU-Fraktion: Anschluss des Wohnhauses am Dachsbergweg 71a an das Kanalnetz - beantwortet
+- TOP 11: Anfrage der Fraktion BÜ 90/Die Grünen: Lärmimmission auf dem Schulgelände der im Bau befindlichen Realschule an der Borbecker Straße - beantwortet
+- TOP 12: Anfrage der SPD-Fraktion: Zeitfenster der Umsetzung von beschlossenen Maßnahmen der Bezirksvertretung 6 - vertagt
+- TOP -: Anfragen
+- TOP 13: Anfrage der SPD-Fraktion: Situation der Flüchtlinge im Stadtbezirk 6 - beantwortet
+- TOP 14: Anfrage der Fraktion BÜ90/Die Grünen: Einsätze des Ordnungsamtes am Kram-Markt auf dem Rather Schützenplatz - beantwortet
+- TOP -: Antrag (wurde bereits übersandt)
+- TOP 15: Antrag der CDU-Fraktion: Errichtung einer Barrierefreien/Unisex Toilette auf dem Dachsbergweg - zurückgezogen
+- TOP -: Anträge
+- TOP 16: Antrag der CDU-Fraktion: Kurzzeitparkplätze vor der neuen Postfiliale an der Kalkumer Straße 104 - abweichend beschlossen
+- TOP 17: Antrag der FDP-Fraktion: Aufstellung einer Tischtennisplatte auf dem Spielplatz Reitzenstein (Am Holunderbusch/Haselnussweg) - einstimmig beschlossen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines Fahrradschutzstreifens auf dem Thewissenweg - vertagt
+- TOP 20: Antrag der CDU-Fraktion und FDP-Fraktion: Förderschulstandort der Franz-Marc- Schule an der Herdecker Straße - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 21: Trödelmärkte auf dem Schützenplatz Rather Broich im 2. Halbjahr 2022 - mehrheitlich beschlossen
+- TOP 22: Zuschussvergabe 2022 Antrag Bürger-Schützenverein 1925 e.V. Düsseldorf-Rath - einstimmig beschlossen
+- TOP 23: Bauunterhaltungsmittel Teil A Schulen - Umgestaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 24: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 25: Vernachlässigung der Bausubstanz und Missachtung des Hochwasserschutzes in der Vonovia-Siedlung Mintarder Weg - BV6/181/2021 - zur Kenntnis genommen
+- TOP 26: Flächenplanung und Lehrschwimmbecken am Förderstützpunkt an der Herdecker Straße -BV6/065/2022 - zur Kenntnis genommen
+- TOP 27: Kalkumer Straße in Unterrath - signalisierter Überweg in Höhe des Grünzuges südlich Wilseder Weg / Dünenweg - zur Kenntnis genommen
+- TOP 28: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen - einstimmig beschlossen
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Antrag der FDP-Fraktion: Einrichtung eines Schnullerbaumes auf dem Spielplatz Aaper Wald, Rather Steig, 40472 Düsseldorf - vertagt
+- TOP 31: Zuschussvergabe 2022 Antrag Rather Familienzentrum - Projekt Urban Gardening - einstimmig beschlossen
+- TOP 32: Zuschussvergabe 2022 Antrag Kleingartenverein Zum Faselbusch e.V. - 100jähriges Jubiläum - einstimmig beschlossen
+- TOP 33: Bauunterhaltungsmittel 2022 Teil B - JFE Ekkehardstraße - Erneuerung und Bepflanzung Hochbeete - einstimmig beschlossen
+- TOP 34: Bauunterhaltungsmittel Teil B "sonstige städtische Einrichtungen" - 3 Sitzbänke am Stahlspitzenbrunnen Heideweg/Erwin-Rommel-Straße - einstimmig beschlossen
+- TOP 35: Anfrage zu einem möglichen P&R-Parkplatz mit Anbindung an die A44 und die A52 - Vorlage BV6/014/2022 - zur Kenntnis genommen
+- TOP 36: Einrichten von Fahrradabstellplätzen in Höhe der Linie 701 Haltestelle Theodorstraße/Wahlerstraße - Vorlage BV6/081/2021 - zur Kenntnis genommen
+- TOP 37: Förderung Dritter 2022 - SG Unterrath 1912/24 e.V. - Erhöhung der Mittel für die Beschaffung von mobilen Fußballtoren - einstimmig beschlossen
+- TOP 38: Genehmigung der Niederschrift - öffentlicher Teil - vom 06. April 2022 - einstimmig beschlossen
