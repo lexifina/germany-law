@@ -1,0 +1,58 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2022-05-11T17:00:00+02:00
+- Ende: 2022-05-11T20:12:00+02:00
+- Ort: Geschwister-Scholl-Gymnasium
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4710
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4710
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 16.02.2022 (öffentlicher Teil) - zurückgezogen
+- TOP 4: Krieg in der Ukraine - Bericht über Aktivitäten und unterstützende Maßnahmen für Geflüchtete
+- TOP 5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen;hier: Über- und außerplanmäßige Mittelbereitstellungen für Leistungen nach dem AsylBLG und Kosten der Unterbringung im Rahmen des Ukraine-Krieges - ungeändert beschlossen
+- TOP 6: Einwohner*innenantrag "Aachen klimaneutral 2030!"hier: Prüfung der Zulässigkeit nach § 25 Abs. 7 Satz 1 GO NRW - ungeändert beschlossen
+- TOP 7: Einwohner*innenantrag "Aachen klimaneutral 2030!"hier: Inhaltliche Beratung über den Einwohnerantrag - geändert beschlossen
+- TOP 8: Handlungskonzept Wohnen - ungeändert beschlossen
+- TOP 9: 2. Nachtrag zur Stellplatzsatzung der Stadt Aachen vom 14.12.2018 - ungeändert beschlossen
+- TOP 10: Änderung Nr. 1 des Flächennutzungsplans AACHEN*2030 der Stadt Aachen - Vaalser Straße/Neuenhofer Weg - vormals Änderung Nr. 148 des Flächennutzungsplans 1980 der Stadt Aachen, für den Planbereich im Stadtbezirk Aachen-Laurensberg zwischen Vaalser Straße und der städtischen Sportanlage am Neuenhofer Weghier: Änderungsbeschluss - ungeändert beschlossen
+- TOP 11: Bebauungsplan Nr. 997 - Kurbrunnenstraße/ Bachstraße - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Hauptbahnhof, Kurbrunnenstraße, Moltkestraße und der Bahnlinie Aachen - Kölnhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 12: Bebauungsplan Nr. 999 A - Antoniusstraße - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Mefferdatisstraße und Nikolausstraßehier: Satzungsbeschluss gemäß §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 13: Bebauungsplan Nr. 1007 - Roermonder Straße / Henricistraße - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Roermonder Straße, Henricistraße und Jupp-Müller-Straßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 14: Verlegung von Stolpersteinen – Projekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 15: Annahme von Schenkungen des Rathausvereins Aachen e.V. - ungeändert beschlossen
+- TOP 16: Anfragen:
+- TOP 16.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 16.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 17: Ratsanträge - zur Kenntnis genommen
+- TOP 18: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 18.1: Umbesetzungsantrag der Arbeitsgemeinschaft der Verbände der Freien Wohlfahrtspflege StädteRegion Aachen für den Kinder- und Jugendausschuss - ungeändert beschlossen
+- TOP 18.2: Umbesetzungsantrag der Fraktion DIE Zukunft vom 03.05.2022 - ungeändert beschlossen
+- TOP 18.3: Umbesetzungsanträge der GRÜNE-Fraktion vom 05.05.2022 - ungeändert beschlossen
+- TOP 18.4: Umbesetzungsantrag der CDU-Fraktion vom 10.05.2022 - ungeändert beschlossen
+- TOP 19: Erläuterungen zur Ratsvorlage aus der Sitzung vom 30.03.2022 zur Anerkennung von förderlichen Zeiten gem. § 81 Abs. 8 LBeamtVG NRW auf die ruhegehaltsfähige Dienstzeit von Frau Oberbürgermeisterin Sibylle Keupen - zur Kenntnis genommen
+- TOP 20: Mitteilungen der Verwaltung
+- TOP 21: Ausschreibung der Stelle der*des Beigeordneten für Bildung, Jugend und Kultur - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
