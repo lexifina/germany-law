@@ -1,0 +1,55 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-12T17:00:00+02:00
+- Ende: 2022-05-12T17:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25641
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25641
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sachstandanfrage zum Zebrastreifen Grundschule an den Kaulen AN/2191/2021 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.1.2: Fußweg an der Brückenbaustelle in Merkenich - Kenntnis genommen
+- TOP 7.1.3: Evaluierung des Pilotprojekts On-Demand-Bus der KVB - Kenntnis genommen
+- TOP 7.1.4: Ausbaustand E-Ladeinfrastruktur im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der SPD-Fraktion betreffend Pipeline B9 Neusser Landstraße
+- TOP 7.2.2: Anfrage der SPD-Fraktion betreffend Car-Sharing Angebote in Stadtbezirk Chorweiler
+- TOP 7.2.3: Anfrage der CDU-Fraktion betreffend Wiederbesetzung der Stelle Bürgeramtsleitung in Chorweiler
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Errichtung eines offenen Bücherschrankes am Standort " Haselnußhof in Köln-Heimersdorf" - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Erstellung eines Erweiterungsbaus Küche mit Mensa sowie die erforderlichen Nebenräume für die offene Ganztagsschule inklusive Anbau einer Aufzugsanlage für die Grundschule Ernstbergstr. 2, 50765 Köln-Blumenberg - ungeändert beschlossen
+- TOP 9.2.2: Städtebauliches Planungskonzept mit dem Arbeitstitel "Causemannstraße" in Köln-Merkenich, 3. Änderung, Stellungnahme der Bezirksvertretung Chorweiler zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur Ausa - geändert beschlossen
+- TOP 9.2.3: Beschluss über die Einleitung eines Teilaufhebungsverfahrens des Bebauungsplanes Nr. 59579/03 mit dem Arbeitstitel: Im Mönchsfeld in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 9.2.4: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 10.2.2: Sachstandsmitteilung zu den von der Bezirksvertretung Chorweiler priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.3: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2021 im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.4: Projekt "Lebenswertes Chorweiler – ein Zentrum im Wandel"; hier: Auszeichnung des Projektes mit dem polis award 2022 - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Nachfrage zu einer Beantwortung-Sitzung am 07. April 2022 Nr. 0977/2022: Umgang mit Anträgen und Verwaltungsvorlagen - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
