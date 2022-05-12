@@ -1,0 +1,66 @@
+# 12. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-12T15:30:00+02:00
+- Ende: 2022-05-12T18:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25109
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25109
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer stellvertretenden Schriftführung - ungeändert beschlossen
+- TOP -: Verpflichtung der sachkundigen Einwohnerinnen und Einwohner
+- TOP -: Mündlicher Bericht des Beigeordneten
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3: Beantwortung der Anfrage AN/0800/2022 des Integrationsrates zur Testphase im Programm der Seniorenberatung (hier: Sprachmittlung Bezirk Mülheim/Bezirksrathaus Mülheim) - Kenntnis genommen
+- TOP 2.4: Europäische Hauptstadt für Integration und Vielfalt - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: LSBTI-Aktionsplan: Freigabe und Verteilung der Finanzmittel in 2022 - ungeändert beschlossen
+- TOP 4.2: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - ungeändert beschlossen
+- TOP 4.3: Dringlichkeitsentscheidung: Fortentwicklung des Housing-First-Ansatzes als Ergänzung der Wohnungslosenhilfe in Köln - ungeändert beschlossen
+- TOP -: Fortentwicklung des Housing-First-Ansatzes als Ergänzung der Wohnungslosenhilfe in Köln - Kenntnis genommen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Abriss von vier Sozialhäusern und Neubau von zwei Gebäuden zur öffentlich rechtlichen Unterbringung obdachloser oder von Obdachlosigkeit bedrohter Personen in konventioneller Bauweise sowie Abriss einer Kindertagesstätte und Neubau einer Kindertagess - ohne Votum in nachfolgende Gremien
+- TOP 5.2: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - geändert beschlossen
+- TOP 5.3: Anmietung eines Mehrfamilienhauses in der Tiefentalstr. 13 in 51063 Köln-Mülheim zur Unterbringung wohnungsloser Menschen - ungeändert beschlossen
+- TOP 5.4: Förderprogramm Niedrigschwellige Suchthilfe - Drogenkonsumraum Mülheim - ohne Votum in nachfolgende Gremien
+- TOP 5.5: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - ohne Votum in nachfolgende Gremien
+- TOP 5.6: Zuschussgewährung Stromsparcheck der Caritas (Fortführung bis 31.03.2023) - ungeändert beschlossen
+- TOP 5.7: Anmietung eines bisher als Beherbergungsbetrieb genutzten Appartementhauses mit abgeschlossenen Wohneinheiten im Methweg zur Unterbringung Geflüchteter - ungeändert beschlossen
+- TOP 5.8: Richtlinie zur Förderung von Projekten zur Gewaltprävention und zum Abbau von Diskriminierung im Bereich LSBTI - ohne Votum in nachfolgende Gremien
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Planung bzw. Priorisierung der Verwaltung hinsichtlich der Sozialhäuser - zurückgestellt
+- TOP 7.2: Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o. Nr., 50968 Köln-Marienburg - Haushaltsrechtliche Unterrichtung - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Aufgabe der städtischen Flüchtlingsunterkunft Weißdornweg 21, 21 a-c,50996 Köln-Rondorf und Versetzung der modularen Gebäude zum städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden - Kenntnis genommen
+- TOP 9.2: Geflüchtete Frauen, Kinder und queere Menschen aus der Ukraine - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Beantwortung der Anfrage AN/0282/2022 der SPD-Fraktion betreffend "Entwickelt die 'Task Force Wohnungslosenpolitik' einen Masterplan zur Überwindung von Wohnungs- und Obdachlosigkeit?" - Kenntnis genommen
+- TOP 10.1.2: Beantwortung der Anfrage: Aktuelle Situation im Bereich der Wohngeldstelle im Amt für Wohnungswesen - Kenntnis genommen
+- TOP 10.1.3: Beantwortung einer Anfrage nach § 4 Geschäftsordnung - Kenntnis genommen
+- TOP 10.1.4: Beantwortung einer mündl. Anfrage im AVR: Umsetzung des Teilhabechancengesetzes (THCG) in der Stadtverwaltung und der KGAB - Kenntnis genommen
+- TOP 10.1.5: Beantwortung der Anfrage der SPD-Fraktion (AN/0967/2022): Nach erneutem Brand des Drogenhilfebusses am Neumarkt - wie geht es weiter? - Kenntnis genommen
+- TOP 10.1.6: Plätze mit besonderem Handlungsbedarf: Bianz der temporären Anlaufstelle Neumarkt - Kenntnis genommen
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage von der Fraktion Die Linke: Zeitnahe Ausstellung von Fiktionsbescheinigungen als Voraussetzung für den Grundsicherungsbezug von Geflüchteten aus der Ukraine - zurückgestellt
+- TOP 10.2.2: Anfrage der SPD-Fraktion: Armut in Köln: Köln-Pass nötiger denn je - zurückgestellt
+- TOP 10.2.3: Anfrage der SPD-Fraktion: Überlastung der Ausländerbehörden u. a. Ämter und Abteilungen der Stadtverwaltung – Rechts-kreiswechsel der Geflüchteten aus der Ukraine in die Grundsicherung - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 12.2: Teilnahme am Landesprogramm Kommunales Integrationsmanagement (KIM) - Kenntnis genommen
+- TOP 12.3: Entlastungen bei der Steigerung der Energiepreise intensivieren - Kenntnis genommen
+- TOP 12.4: Stand der Evaluation des Drogenhilfekonzepts - Datengrundlage - Kenntnis genommen
+- TOP 12.5: Evaluation der kommunalen Seniorenprogramme der Stadt Köln - zurückgestellt
