@@ -1,0 +1,51 @@
+# 10. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-12T17:10:00+02:00
+- Ende: 2022-05-12T18:45:00+02:00
+- Ort: Leskan-Park Dellbrück - DB Training, Learning & Consulting, Waltherstr. 49 - 51, 51069 Köln INFEKTIONSSCHUTZ: Bitte melden Sie sich unbedingt vorab bei der Schriftführung an! Das Tragen einer medizinischen Maske/FFP2 Maske ist vorgeschrieben.
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25206
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25206
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohnerinnen und Einwohnern
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Leskan-Park / Spicher-Park - gestern - heute - morgen -
+- TOP 1.2: Zwischenbericht zur Seviceoffensive
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Beantwortung der Anfrage des Herrn RM Akter aus der Sitzung des Wirtschaftsausschusses vom 10.02.2022; betr. Sachstand Frischezentrum - Kenntnis genommen
+- TOP 3.2: Beantwortung der Anfrage - KölnTourismus GmbH "Werbung für den Tourismus in Köln" - Kenntnis genommen
+- TOP 3.3: Rolle der Stadt Köln auf dem Kölner Grundstücksmarkt - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 5.1: Dringlichkeitsantrag der Fraktionen SPD und Die Linke. betr.: "REAL-Markt in Porz-Eil retten!" - geändert beschlossen
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Weiteres Vorgehen zum Projekt Räumliches Entwicklungskonzept Liebigquartier - zurückgestellt
+- TOP 6.2: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - zurückgestellt
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 7.1: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Kölner Statistische Nachrichten – 4/2022 Unternehmensdienstleistungen - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 15: Mitteilungen
+- TOP 15.1: Lastenradförderung 2021 - Kenntnis genommen
+- TOP 15.2: Gewerbeflächenbereitstellungskonzept (GFBK) - zurückgestellt
+- TOP 15.3: Sachstand Planungsfortschritt Wasserstoff-Pipeline AN/0266/2022 - zurückgestellt
+- TOP 15.4: Logistikforum Februar 2022 - Kenntnis genommen
+- TOP 15.5: Umsetzung des Teilhabechancengesetzes (THCG) in der Stadtverwaltung und der KGAB - Kenntnis genommen
+- TOP 15.6: Europäische Hauptstadt für Integration und Vielfalt - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Ordnungsbehördliche Verordnung für das Jahr 2022 über das Offenhalten von Verkaufsstellen an Sonntagen - zurückgestellt
+- TOP 17: Mündliche Anfragen
+- TOP 17.1: Sachstand "Einzelhandelsplattform Digitalisiert"
+- TOP 17.2: Sachstand "Stadtentwicklungskonzept Wirtschaft"
