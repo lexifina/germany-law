@@ -1,0 +1,69 @@
+# 37. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-05-12T16:00:00+02:00
+- Ende: 2022-05-12T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11321
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11321
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_oU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00610568.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Aktuelle Stunde zum Thema „Lebensqualität in Stadtvierteln erhöhen – Auswirkungen des Kfz-Verkehrs verringern“ - erledigt
+- TOP 3: Aktuelle Stunde zum Thema "Investitionsprioritäten bei der Aufstellung des Doppelhaushalts 2023/24" - erledigt
+- TOP 4: Nachbesetzung eines Mitgliedes des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - gewählt
+- TOP 5: Nachwahl einer Vertretung für den Oberbürgermeister in die Anteilseignerversammlung der Sachsen-Finanzgruppe - gewählt
+- TOP 6: Tagesordnungspunte ohne Debatte
+- TOP 7: Ausschreibung von Beigeordnetenstellen - Zustimmung
+- TOP 8: Ergebnis der Prüfung des Jahresabschlusses 2020 - Zustimmung
+- TOP 9: Feststellung des Jahresabschlusses 2020 der Landeshauptstadt Dresden - Zustimmung
+- TOP 10: Vertagungen aus SR 13.04.2022
+- TOP 10.1: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Zustimmung mit Änderung
+- TOP 10.2: Deckung von Mehrkosten bei den vorbereitenden Tiefbauarbeiten zum Neubau des Verwaltungszentrums - Zustimmung
+- TOP 10.3: Fortschreibung der Kooperationsvereinbarung zur Förderung des Kleingartenwesens in der Landeshauptstadt Dresden (Förderprogramm) zwischen der Landeshauptstadt Dresden und dem Stadtverband der "Dresdner Gartenfreunde" e. V. - Zustimmung
+- TOP 10.4: Aufhebung der Kleingartenrahmenordnung der Landeshauptstadt Dresden vom 29. August 1996, Veröffentlichung im Dresdner Amtsblatt 39/96 vom 26. September 1996 - Zustimmung
+- TOP 10.5: Stromsperren verhindern - Ablehnung
+- TOP 10.6: Stromsperren verhindern - Ablehnung
+- TOP 10.7: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Verweisung
+- TOP 10.8: Albertpark als Ort des Waldnaturschutzes, der Naturbildung und naturnahen Erholung weiterentwickeln - Vertagung nach 22 Uhr
+- TOP 10.9: Elbradweg sicher für alle - Fußgänger besser schützen - Vertagung durch Einreicher
+- TOP 10.10: Dresdner Bericht über die Lebensverhältnisse in den Stadtteilen (Gleichwertigkeitsbericht) - Vertagung nach 22 Uhr
+- TOP 10.11: Einrichtung einer „Nachtbürgermeisterin“ bzw. eines „Nachtbürgermeisters“ - Vertagung nach 22 Uhr
+- TOP 10.12: Teilhabe am sozialen und kulturellen Leben verbessern - Vertagung nach 22 Uhr
+- TOP 10.13: Untersuchung Population Kleine Hufeisennase Standort Waldschlößchenbrücke - Vertagung nach 22 Uhr
+- TOP 10.14: Vor dem Schaden klug sein: Aufarbeitung des Stromausfalls in Dresden im September 2021 und Wege zur Prävention - Vertagung nach 22 Uhr
+- TOP 10.15: Inhaltliche Korrektur der Stelentexte an den Gedenkstätten für die Opfer der Bombenangriffe auf Dresden im Februar 1945 - Vertagung nach 22 Uhr
+- TOP 10.16: Starke Region im Herzen Europas – interkommunale Zusammenarbeit der Landeshauptstadt Dresden mit dem Umland voranbringen - Vertagung nach 22 Uhr
+- TOP 10.17: Energiepreisexplosion entgegensteuern – Heizen darf nicht zu Armut führen - Vertagung nach 22 Uhr
+- TOP 10.18: Beteiligung des Stadtbezirksbeirats bei der Auswahl der Stadtbezirksamtsleiterin - Vertagung nach 22 Uhr
+- TOP 10.19: Übertragung der Stadtbezirksbeiratsmittel 2021 auf das Haushaltsjahr 2022 - Vertagung nach 22 Uhr
+- TOP 10.20: Aktive Maßnahmen zur Verhinderung von Energiearmut in einkommensschwachen Privathaushalten - Vertagung nach 22 Uhr
+- TOP 10.21: Komplementäre und integrative Medizin entwickeln – Attraktivität des Städtischen Klinikums stärken - Vertagung nach 22 Uhr
+- TOP 10.22: Wohnen muss bezahlbar sein. Mietpreisbremse für Dresden in Kraft setzen. - Vertagung nach 22 Uhr
+- TOP 11: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2022 - Vertagung nach 22 Uhr
+- TOP 12: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus Anlass besonderer regionaler Ereignisse im Jahr 2022 - Vertagung nach 22 Uhr
+- TOP 13: PolVO Alkoholkonsumverbot „Schiefe Ecke“ - Vertagung nach 22 Uhr
+- TOP 14: PolVO Alkoholabgabeverbot Äußere Neustadt - Vertagung nach 22 Uhr
+- TOP 15: Eintrittspreise und Entgelte für Kurse und Raumnutzungen in der Jugendkunstschule Dresden - Vertagung nach 22 Uhr
+- TOP 16: Fachplan Seniorenarbeit und Altenhilfe - Vertagung nach 22 Uhr
+- TOP 17: Beitritt der Landeshauptstadt Dresden als Träger des Eigenbetriebes Städtisches Klinikum Dresden zum BME sowie zum femak e. V. - Zustimmung
+- TOP 18: Absichtserklärung zur Berufung einer sachkundigen Einwohnerin bzw. eines sachkundigen Einwohners in den Ausschuss für Soziales und Wohnen - Vertagung nach 22 Uhr
+- TOP 19: Anmietung von Räumlichkeiten zur Unterbringung des Schulverwaltungsamtes - Vertagung
+- TOP 20: Veränderungssperre für den Bebauungsplan Nr. 3061, Dresden-Friedrichstadt Nr. 12, Waltherstraße/Friedrichstraße - Zustimmung
+- TOP 21: Bebauungsplan Nr. 3029, Dresden-Neustadt Nr. 43, Ehemaliger Gleisbogen Hansastraße - Vertagung nach 22 Uhr
+- TOP 22: Konkretisierung des Beschlusses V0630/20 im Punkt 6c über die zulässige Mittelverwendung - Vertagung
+- TOP 23: Vergabe von Wohnbauflächen an Dresdner Familien mit niedrigen und mittleren Einkommen (Einheimischen-Modell) - Vertagung durch Einreicher
+- TOP 24: Modellprojekt zur legalen Abgabe von Cannabis - Vertagung
+- TOP 25: Keine Kürzungen bei Bus und Bahn. Gutachterirrsinn beenden. Dresdner Verkehrsbetriebe stärken! - Vertagung durch Einreicher
+- TOP 26: Wiedereinführung von Oberleitungsbussen in Dresden - Vertagung durch Einreicher
+- TOP 27: Entwicklungskonzeption für den Stadtbezirk Neustadt - Vertagung nach 22 Uhr
+- TOP 28: Für eine neue Kultur des Planens und Gestaltens von Dresdner Schulhöfen - Vertagung nach 22 Uhr
+- TOP 29: Völkerverständigung und friedliches Zusammenleben stärken –Zusammenarbeit mit der Partnerstadt St. Petersburg ausbauen und Menschen miteinander verbinden - Vertagung nach 22 Uhr
+- TOP 30: EILANTRAG: Spritpreisexplosion entgegensteuern. Einsatzbereitschaft der Freiwilligen Feuerwehr erhaltet. Änderung Feuerwehrsatzung: hier Entschädigungsrichtlinie - Vertagung nach 22 Uhr
+- TOP 31: Stadtteilbibliotheken müssen geöffnet bleiben - Vertagung nach 22 Uhr
+- TOP 32: Übertragung der investiven Budgetreste vom Haushaltsjahr 2021 nach 2022 - zur Kenntnis genommen
