@@ -1,0 +1,58 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-12T18:00:00+02:00
+- Ende: 2022-05-12T20:13:00+02:00
+- Ort: Schützenhaus Eller, Heidelberger Straße 4, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22424
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22424
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö vom 12.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448025.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö vom 12.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448025.pdf
+- Wortprotokoll: Sitzungspaket Ö vom 12.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448025.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 gemäß § 22 Geschäftsordnung des Rates für bis zum 28.04.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 24.03.2022 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift Gemeinsame Sondersitzung vom 09.09.2021 - einstimmig beschlossen
+- TOP 4: Unfallstatistik und Kriminalitätsentwicklung 2021 im Stadtbezirk 8 - Bericht
+- TOP 5: Gumbertstraße 151, 153 - Beseitigung der bestehenden Gebäude - mehrheitlich beschlossen
+- TOP 6: Bebauungsplan-Entwurf Nr. 08/006 - Königsberger Straße/Tulpenweg - einstimmig beschlossen
+- TOP 7: Flächennutzungsplanänderung Nr. 194 (Entwurf) - Königsberger Straße / Tulpenweg - einstimmig beschlossen
+- TOP 8: Perspektivenworkshop- Dillenburger Weg / Waagenstraße - Ergebnis, Vorbereitung eines Wettbewerbs - einstimmig beschlossen
+- TOP 9: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen - mehrheitlich abgelehnt
+- TOP 10: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 2. Halbjahr 2022 - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2022 - einstimmig beschlossen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Dynamische Fahrgastinformation (Baulose 10, 11, 12) (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 14: Wochenmarkt Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 15: Zonen für Tempo 30 und Tempo 40 im Stadtbezirk 8 (Anfrage Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 16: Tempo 30 in der Straße Alt-Eller (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 17: Japanischer Knöterich in Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - schriftlich beantwortet
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Fläche Gubener Straße/Höherhofstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 20: Fahrradbügel Gertrudisplatz und Gumbertstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 21: Fahrradstraße Schlossallee (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 22: Lärmschutz an der A46 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 23: Lärmschutz an der RRX Strecke - Eller (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 24: Verkehrsversuch Alt-Eller (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 25: Flächennutzungsplanänderung Nr. 138 (Entwurf) - Glasmacherviertel - zur Kenntnis genommen
+- TOP 26: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 27: RRX - Auswertung des Planfeststellungsbeschlusses für den PFA 2.1 Reisholz - Wehrhahn - zur Kenntnis genommen
+- TOP 28: ZUKUNFT QUARTIER.DÜSSELDORF: Weiteres Vorgehen im Handlungsraum Eller/ Lierenfeld - zur Kenntnis genommen
+- TOP 29: Papier-/ Glascontainer Gerresheimer Landstraße / Bushaltestelle Am Stammesberg - zur Kenntnis genommen
+- TOP 30: Sandträgerweg - Kontrolle des Parkens auf Radwegen - zur Kenntnis genommen
+- TOP 31: Bauvorhaben Chemnitzer Straße 1, 1a, 1b - zur Kenntnis genommen
+- TOP 32: FFP2-Masken für ungeimpfte, nicht durchgeimpfte oder vulnerable Schüler*innen (aus Bedarfsgemeinschaften, Empfänger von Grundsicherung oder soziale Hilfe) im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 33: Hygieneartikel in Schulen - zur Kenntnis genommen
+- TOP 34: Erfurter Weg, Geschwindigkeitsüberwachung - zur Kenntnis genommen
+- TOP 35: ÖPNV - Angebot in Unterbach – Linie 737 - zur Kenntnis genommen
+- TOP 36: Höherweg - Reinigung Gedenkort im Einmündungsbereich Posener Straße - zur Kenntnis genommen
+- TOP 37: Fertigstellung der beampelten Fußgängerquerung auf dem Höherweg - zur Kenntnis genommen
+- TOP 38: Vorhaben der Deutschen Bahn AG im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Gebäude Vennhauser Allee 226 - Unterschutzstellung - zur Kenntnis genommen
