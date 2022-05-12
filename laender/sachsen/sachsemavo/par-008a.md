@@ -10,4 +10,3 @@ Bereitschaftsdienst gilt nicht als Dienst im Sinne dieser Vorschrift.
 3. einem monatlichen Zusatzbetrag von 20 Euro für Beamte, die im Kalendermonat mindestens dreimal überwiegend an einem Samstag, Sonntag oder Feiertag zu Diensten herangezogen werden.
 Geleistete Nachtdienststunden, die wegen der Höchstgrenze nach Satz 1 Nummer 1 nicht mit dem Grundbetrag abgegolten werden, werden jeweils in den folgenden Kalendermonat übertragen. Der Übertrag ist auf 135 Nachtdienststunden begrenzt. Die übertragenen Nachtdienststunden werden nach Maßgabe des Satzes 1 auch dann vergütet, wenn in dem entsprechenden Kalendermonat die Voraussetzungen des Absatzes 1 nicht vorliegen.
 (3) Die §§ 7 und 8 gelten entsprechend.
-(4) § 22 bleibt unberührt.
