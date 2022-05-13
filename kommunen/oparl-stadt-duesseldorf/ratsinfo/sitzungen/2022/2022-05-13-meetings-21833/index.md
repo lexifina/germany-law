@@ -1,0 +1,71 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-13T14:11:00+02:00
+- Ende: 2022-05-13T18:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21833
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21833
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448073.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448073.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448073.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Verwaltungsvorlagen und mündliche Berichte
+- TOP 3.1: Vorstellung des Kinder- und Jugendförderplans 2021 bis 2025
+- TOP 3.2: Lagedarstellung der Polizeiinspektion Mitte
+- TOP 3.3: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 3.4: Akademiestraße 2 - Erhaltung des Standorts durch Modernisierung, Teilumbau und Anpassung der Gebäudestruktur - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 3.5: Dialogverfahren Zukunft der Kö - Empfehlung einstimmig beschlossen
+- TOP 3.6: Städtebaulicher Wettbewerb Nr. 01/020 - Campus Golzheim - Empfehlung mehrheitlich beschlossen
+- TOP 3.7: Bebauungsplan-Entwurf Nr. 01/026 - Östlich Ulmenstraße - Empfehlung einstimmig beschlossen
+- TOP 3.8: RRX - Auswertung des Planfeststellungsbeschlusses für den PFA 2.1 Reisholz - Wehrhahn - zur Kenntnis genommen
+- TOP 3.9: Theodor-Heuss-Brücke, Zukunftsstrategie Sachstandsinformation und Durchführung einer Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 3.10: Satzung zur Änderung der Satzung zur Nutzung des Ehrenhofes vom 03. Januar 2007 - Empfehlung abweichend beschlossen
+- TOP 3.11: „Design Classic Düsseldorf 2022“ in der Verkaufshalle des Blumengroßmarktes am Sonntag, dem 27.11.2022 - einstimmig beschlossen
+- TOP 3.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2022 - einstimmig beschlossen
+- TOP 3.13: Radleitroute West-Ost von Hansaallee/Böhlerstraße (Heerdt/Lörick) bis Neusser Tor (Gerresheim) - Empfehlung mehrheitlich beschlossen
+- TOP 4: Anfragen aus vorherigen Sitzungen
+- TOP 4.1: Verkehrssicherheit Tannenstraße zur DRK-Kita - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 4.2: Haltestelle "Münsterstraße / Feuerwache" und Gehweg Moltkestraße - Anfrage der SPD-Fraktion - beantwortet
+- TOP 4.3: Düsseldorfer Fahrradhäuschen - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Straßenbeleuchtung im Stadtbezirk 1 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Neuer Radweg Bagelstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 5.3: Radwegeführung Kreuzstraße Ecke Steinstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- TOP 5.4: Rheinbahnhaltestellen im Stadtbezirk 1 - Barrierefreier Ausbau - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- TOP 5.5: Wegeführung für Fußgänger*innen im Bereich Immermannstraße Ecke Berliner Allee - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- TOP 5.6: Sachstandsbericht zur Nutzung und Zustand der Pfandringe im Stadtbezirk 1 fünf Jahre nach deren Einführung - beantwortet
+- TOP 5.7: Lautstärkemessungen von Motoren - Anfrage der CDU-Fraktion - beantwortet
+- TOP 5.8: Patenschaften / Sponsoren für Denkmäler - Anfrage der CDU-Fraktion
+- TOP 6: Anträge
+- TOP 6.1: Oststraße Hausnummer 119 bis Ecke Bismarckstraße - Einrichtung einer Lieferzone und Aufstellung einer Fahrradabstellanlage - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 6.2: Fortführung des Radweges auf der Benrather Straße in Richtung Königsallee mit Hilfe einer Leipziger Kombispur - überfraktioneller Antrag - abweichend beschlossen
+- TOP 6.3: Quartiersgarage Prinz-Georg-Str. 80 Clara-Schumann-Musikschule - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.4: Unterführung Kölner Straße: Verbesserung von Beleuchtung, Sauberkeit und Sicherheit - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.5: Zuschuss für Essenausgaben an Tafeln beziehungsweise andere Einrichtungen - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 6.6: Marketingkonzept für die Altstadt - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 6.7: Mobilitätsstationen auf der Königsallee - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 6.8: Kirschbäume auf der Immermannstraße - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 6.9: Sanierungsarbeiten im Nordpark - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 6.10: Gesamtstädtisches Toilettenkonzept (BAU/007/2022) - Standortvorschläge - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 7: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 7.1: Prüfung sichere Schulwege zur Grundschule: Städtische Katholische Grundschule Paul-Klee-Schule; Beschluss der Bezirksvertretung 1 vom 30.04.2021; BV1/090/2021 - zur Kenntnis genommen
+- TOP 7.2: Veränderung der Ampelschaltung Königsallee/Königstraße; Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV1/245/2021 - zur Kenntnis genommen
+- TOP 7.3: Ausbessern der Zugänge zum Frankenplatz; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/038/2022 - zur Kenntnis genommen
+- TOP 7.4: Tempo 30 auf der Duisburger Straße; Beschluss der Bezirksvertretung 1 vom 01.10.2021; BV1/204/2021 - zur Kenntnis genommen
+- TOP 7.5: Ampelschaltung Roßstraße/Saarbrücker Straße/Hans-Böckler-Straße; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/048/2022 - zur Kenntnis genommen
+- TOP 7.6: Instandsetzung des Bodenbelages der Gehwege rund um den Schwanenmarkt; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/069/2022 - zur Kenntnis genommen
+- TOP 8: Verfügungsmittel der Bezirksvertretung 1
+- TOP 8.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfs Vielfalt erleben e. V. - vertagt
+- TOP 8.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Bankstraßenfest - abweichend beschlossen
+- TOP 8.3: Verfügungsmittel der Bezirksvertretung 1 - 2. Auflage der Broschüre "Geschichtsorte in Derendorf/Pempelfort" - einstimmig beschlossen
+- TOP 8.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf - einstimmig beschlossen
