@@ -1,0 +1,77 @@
+# 15. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-16T17:00:00+02:00
+- Ende: 2022-05-16T19:10:00+02:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal Nebeneingang Erdgeschoss, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25363
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25363
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Bus- und Radspur auf der Äußeren Kanalstraße zwischen Borsigstraße und Subbelratherstraße (Az.: 02-1600-173-21) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.1: Situation Hüttenstraße - Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Umsetzung des BV Beschlusses auf Antrag der SPD-Fraktion „Bereitstellungflächen für kommerzielle Leihfahrzeuge“ (AN/1116/2020) - Sache ist erledigt
+- TOP 6.4.1: Bereitstellungsflächen für kommerzielle Leihfahrzeuge - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Künftige Nutzung des ehemaligen Sportgeländes der Peter-Lustig-Schule - zurückgestellt
+- TOP 7.2: Anfrage der CDU-Fraktion, betr.: Fortbestand der Dauerkleingärten in Köln - zurückgestellt
+- TOP 7.3: Anfrage der CDU-Fraktion, betr.: Kurdisches Islamisches Zentrum unter der Adresse Vogelsanger Str. 348 d , 50827 Köln - zurückgestellt
+- TOP 7.4: Anfrage der CDU-Fraktion, betr.: Schallschutzmauer Vogelsanger Str. 406, 50827 Auf dem Schrotty-Gelände - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/Die Partei und der Einzelmandatsträger*innen Tobias Scholz (GUT), Elke Schroeder (Klima Freunde) und Marlis Pöttgen (FDP): Werkstattverfahren Schulstraßen - geändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Ein Bürgerwald für Bickendorf und Ossendorf - geändert beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI und Marlis Pöttgen (FDP): Sicherer Schulweg für die Heliosschule - ungeändert beschlossen
+- TOP 8.5: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Besserer Zugang zum Internet für alle - ungeändert beschlossen
+- TOP 8.5.1: Ergänzungsantrag der CDU-Fraktion zu TOP 8.5 - endgültig zurückgezogen
+- TOP 8.6: Antrag der SPD-Fraktion: Verkehrssituation an der Ecke Wilhelm-Mauser-Str./ Vogelsanger Str. - zurückgestellt
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Verbesserung der Verkehrssituation auf der Vogelsanger Straße - zurückgestellt
+- TOP 8.7.1: Ergänzungsantrag der CDU-Fraktion zu TOP 8.7 - zurückgestellt
+- TOP 8.8: Antrag der SPD-Fraktion): Aufenthalts- und Urban Gardening-Bereich Ecke Subbelrather Str./Ottostr./Hüttenstr. dauerhaft erhalten - geändert beschlossen
+- TOP 8.9: Antrag der Fraktion Bündnis 90/Die Grünen: Klimafreundliche Außengastronomie in Ehrenfeld - zurückgestellt
+- TOP 8.9.1: Ergänzungsantrag der CDU-Fraktion zu TOP 8.9 - zurückgestellt
+- TOP 8.10: Antrag der Fraktion Bündnis 90/Die Grünen: Prüfauftrag: Parkplätze für die Allgemeinheit - endgültig zurückgezogen
+- TOP 8.11: Antrag der Fraktion Bündnis90/Die Grünen: Sicherung bestehender Fahrradfreifläche am Simarplatz - ungeändert beschlossen
+- TOP 8.12: Antrag der CDU-Fraktion, betr.: Bezirkssportanlage Prälat-Ludwig-Wolker - ungeändert beschlossen
+- TOP 8.13: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Elke Schroeder (Klima Freunde), Marlis Pöttgen (FDP), betr.: Verwendung der Mittel des Stadtverschönerungsprogramms 2022 für den Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Verkehrliche Maßnahmen zur Schulwegerschließung am Schulstandort Wasseramselweg in Köln-Vogelsang - zurückgestellt
+- TOP 9.2: Verbesserung der Verkehrssicherheit für Fußgänger*innen und Radfahrer*innen im Bereich Mathias-Brüggen Straße/Ossendorfer Weg - ungeändert beschlossen
+- TOP 9.3: Zweite Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO 2022 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert beschlossen
+- TOP 10.2: Weiteres Vorgehen zum Projekt Räumliches Entwicklungskonzept Liebigquartier - ungeändert beschlossen
+- TOP 10.2.1: Ergänzungsantrag der SPD-Fraktion zu TOP 10.2, betr.: „Weiteres Vorgehen zum Projekt Räumliches Entwicklungskonzept Liebigquartier“ - endgültig abgelehnt
+- TOP 10.3: Parkgebührenregelung an E-Ladesäulen - ungeändert beschlossen
+- TOP 10.4: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - ungeändert beschlossen
+- TOP 10.4.1: Ergänzungsantrag der SPD-Fraktion zu TOP 10.4 - endgültig zurückgezogen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 12.2: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 12.3: Berichtswesen Beschlüsse der Gremien (beschluss- und projektbezogene Berichterstattung) - Kenntnis genommen
+- TOP 12.4: Bürgersteig Grüner Brunnenweg/Sandweg - Kenntnis genommen
+- TOP 12.5: Flachbauten Wilhelm-Mauser-Str., Ecke Venloer Str., (stadtauswärts links) - Kenntnis genommen
+- TOP 12.6: Bauten auf dem Rochusplatz in Köln-Bickendorf - Kenntnis genommen
+- TOP 12.7: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren in NRW - Kenntnis genommen
+- TOP 12.8: Erneute Offenlage gemäß § 3 Absatz 2 BauGB in Verbindung mit § 4a Absatz 3 BauGB Bebauungsplan-Entwurf Nummer 61483/02 Arbeitstitel: Seeadlerweg in Köln-Vogelsang - Kenntnis genommen
+- TOP 12.9: Bodenuntersuchungen in Köln-Neuehrenfeld - Kenntnis genommen
+- TOP 12.10: Nicht oder nur eingeschränkt zur Verfügung stehende Sporthallen und Zeitplan zur Behebung der Missstände - Nachfrage der Bezirksvertreterin Pöttgen (FDP) in der Bezirksvertretung Ehrenfeld zu TOP 12.5 vom 04.04.2022 - Kenntnis genommen
+- TOP 12.11: Temporäres Durchfahrtverbot für Kraftfahrzeuge - Kenntnis genommen
+- TOP 12.12: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2021 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.13: Niederschrift 8. Runder Tisch Radverkehr Ehrenfeld - Kenntnis genommen
+- TOP 12.14: Klassifizierungsänderung Venloer Straße - Kenntnis genommen
+- TOP 13: mündliche Anfragen
