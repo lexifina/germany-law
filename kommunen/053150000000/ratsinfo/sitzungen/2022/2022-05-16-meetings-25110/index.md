@@ -1,0 +1,68 @@
+# 11. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-16T15:05:00+02:00
+- Ende: 2022-05-16T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25110
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25110
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung neuer sachkundige Einwohner*innen bzw. stellvertretende sachkundige Einwohner*innen - Sache ist erledigt
+- TOP -: Bericht zur aktuellen Lage der Ukraine-Geflüchteten - Kenntnis genommen
+- TOP -: Einholung eines Stimmungsbildes zur Möglichkeit eines Livestream der Sitzungen des Ausschuss Schule und Weiterbildung - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Bericht über den Stand der Schulbaumaßnahmen - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln - zurückgestellt
+- TOP 3.1.1: Zur Entwicklung des Helene-Weber-Platzes als zukünftigen Gesamtschulstandort - zurückgestellt
+- TOP 3.2: Schulbescheinigungen für volljährige Schüler*innen automatisch übermitteln - zurückgestellt
+- TOP 3.3: Aufhebungsbeschluss Venloer Wall - endgültig abgelehnt
+- TOP 3.4: Schulbaupaket II geplante Baumaßnahme für die GGS Hohe Str. 77 in Porz-Ensen - endgültig zurückgezogen
+- TOP 3.5: Interimsstandort Venloer Wall (AN/1500/2022) - ungeändert beschlossen
+- TOP 3.6: GGS Hohe Straße in Porz- Ensen/ Westhoven - ungeändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Rheinische Musikschule Musikschulentwicklungsplan - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/0354/2022 zu Anteilen der von festangestellten Mitarbeitenden und von freien Mitarbeitenden der Rheinischen Musikschule erteilten Unterschritseinheiten - zurückgestellt
+- TOP 5.2: Beantwortung AN/0355/2022 - Anfrage zu Musenkuss - Kenntnis genommen
+- TOP 5.3: Sanierungsstau bei den Sporthallen - zu Anfrage AN/0708/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Fraktion VOLT - Kenntnis genommen
+- TOP 5.4: Programm "Verrückt? Na und!" Beantwortung der Anfrage von RM Seeck (SPD) aus der Sitzung des Ausschuss Schule und Weiterbildung vom 14.02.2022 - Kenntnis genommen
+- TOP 5.5: Beantwortung einer Anfrage zum Planungsstand der Stadt Köln bezüglich des Ganztagsförderungsgesetzes (GaFöG) - Kenntnis genommen
+- TOP 5.6: Anfragen zu TOP 8.1 VO 3127/2021 - Fortschreibung des Gesamtkonzeptes Kulturelle Bildung - KuBiK - Kenntnis genommen
+- TOP 5.7: Information zu den Interimsstandorten Kreutzer Straße und Venloer Wall - Kenntnis genommen
+- TOP 5.8: Nachfrage auf die Beantwortung zum Bildungsmonitoring Inklusionsentwicklung an Kölner Schulen Stand 2020/21 - Kenntnis genommen
+- TOP 5.9: „Wenn Schule wirklich Priorität haben soll..." Einleitung eines Planungs- und Bauverfahrens zur Errichtung eines Schulinterimbaus für eine neue Gesamtschule auf der Vogelsanger Straße - zu AN/0711/2022 und AN/0750/2022 - Kenntnis genommen
+- TOP 5.10: Beantwortung der Anfrage der Fraktionen zu 0524/2022 (Schulbudget für die Selbstverwaltung) vom 28.03.2022 - Kenntnis genommen
+- TOP 5.11: Beantwortung einer mündlichen Anfrage von Mechthild Böll aus dem ASW zu TOP 5.9 "Neue Konzeption der Schulsozialarbeit" - Kenntnis genommen
+- TOP 5.12: Beantwortung der mündl. Anfrage der SE Böll aus der Sitzung vom 28.03.2022 zur Generierung von Benutzerkonten für Schüler*innen - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer 4-zügigen Grundschule mit zwei Sportübungseinheiten im Stadtteil Köln-Rondorf Nord-West - ungeändert empfohlen
+- TOP 6.2: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors oder einer Investorin mit Grundstück zur Planung und Errichtung einer Grund- und Gesamtschule im Stadtbezirk Mülheim - ungeändert empfohlen
+- TOP 6.3: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert empfohlen
+- TOP 6.4: ‚Identität stärken - natürliche Mehrsprachigkeit fördern!‘ - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Erstellung eines Erweiterungsbaus Küche mit Mensa sowie die erforderlichen Nebenräume für die offene Ganztagsschule inklusive Anbau einer Aufzugsanlage für die Grundschule Ernstbergstr. 2, 50765 Köln-Blumenberg - ungeändert empfohlen
+- TOP 6.6: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - ohne Votum in nachfolgende Gremien
+- TOP 6.7: TU-/GU-Schulbaumaßnahme: Aula der Katharina-Henoth-Gesamtschule Adalbertstraße durch Totalunternehmen - Planungs-, Bau- und Mittelfreigabebeschluss - ungeändert empfohlen
+- TOP 6.8: Einrichtung des angemieteten Gebäudes und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Gymnasium Aachener Straße 744 – 750 in Müngersdorf im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltjahr 2022. - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 7.1: Beauftragung eines Musikschulentwicklungsplans - Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - zurückgestellt
+- TOP 7.2: Bauliche Maßnahmen im Berufskolleg Deutzer Freiheit, Eumeniusstraße 4, 50679 Köln-Deutz: Ertüchtigung der Verkabelung, Herrichtung eines naturwissenschaftlichen Fachraums und Akustikmaßnahmen - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Professionelle Sprach- und Kulturmittlung in AO SF-Verfahren - Kenntnis genommen
+- TOP 8.2: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2021 - Kenntnis genommen
+- TOP 8.3: Halle Reitweg - Kenntnis genommen
+- TOP 8.4: Offene Ganztagsschule im Primarbereich - Bedarfssituation im Schuljahr 2022/2023 - Kenntnis genommen
+- TOP 8.5: Gestaltung der Grundschulsituation in der Planungsregion Nippes/Mauenheim/Riehl/Niehl mit Weidenpesch im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 8.6: Sachstand zu Schulhofentsiegelungen - zu AN/2094/2021 (Beschluss des Finanzausschusses vom 04.10.2021) - Kenntnis genommen
+- TOP 8.7: Elternbroschüre Inklusive Bildung an Kölner (Grund-) Schulen - Kenntnis genommen
+- TOP 8.8: Jahresbericht 2021 des Amts für Weiterbildung / Volkshochschule liegt vor - Kenntnis genommen
+- TOP 8.9: Sachstand Sonder-Schwimmlern-Programm Ferien 2022 - Kenntnis genommen
+- TOP 8.10: Beschluss der Bezirksvertretung Innenstadt zu den Grundschul-Interims auf der Vogelsanger Straße statt am Venloer Wall vom 7.4.2022 - Kenntnis genommen
+- TOP 8.11: Sachstand zur Beschaffung von mobilen Luftfilteranlagen für Schulen und Kitas - Kenntnis genommen
+- TOP 8.12: Mitteilung zur digitalen Schulinfrastruktur - zurückgestellt
+- TOP 9: Mündliche Anfragen
