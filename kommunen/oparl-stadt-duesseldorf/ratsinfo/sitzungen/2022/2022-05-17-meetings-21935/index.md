@@ -1,0 +1,81 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-17T16:00:00+02:00
+- Ende: 2022-05-17T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21935
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21935
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448539.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448539.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448539.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/003/2022 vom 22.03.2022 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Radleitroute West-Ost von Hansaallee/Böhlerstraße (Heerdt/Lörick) bis Neusser Tor (Gerresheim) - mehrheitlich beschlossen
+- TOP 5: Barrierefreier Ausbau der Haltestelle „Heinrichstraße“ - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste B) - einstimmig beschlossen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2022 - mehrheitlich beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste A) - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 11: Zuschuss an die Carl-Sonnenschein-Schule für "Mein Körper gehört mir“ aus bezirksbezogenen Haushaltsmitteln - Antrag der Fraktion Bündnis 90/die Grünen - einstimmig beschlossen
+- TOP 12: Bezirksbezogene Haushaltsmittel für das interaktive Präventionsstück „Mein Körper gehört mir!“ - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 13: Förderung des Präventionsstücks „Mein Körper gehört mir“ für die 4. Klassen der Carl-Sonnenschein-Schule aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 14: Antrag auf Fördergelder für Kunstausstellungen im Café Kausal für 2022/ Projektförderung bildende Kunst - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 15: Förderung von Kunstaustellungen im Café Kausal aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 16: 10. Jugendvideowettbewerb 24h To Take – 2022 Jubiläumsausgabe und Festival: 30./31. Juli und 05./06. August 2022 - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 17: Finanzielle Unterstützung des Jubiläums-Jugendvideowettbewerbs 24h To Take 2022 der Filmwerkstatt Düsseldorf aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 18: 24-Stunden-Jugendvideowettbewerb - Antrag der FDP-Fraktion - zurückgezogen
+- TOP 19: Bezirksbezogene Haushaltsmittel für den Jugendvideowettbewerb 24h To Take - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 20: Tag der Vielfalt 2022 am 10. September 2022 – Cosmopolis Festival im ZAKK - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 21: Finanzielle Förderung des Tags der Vielfalt 2022 – Cosmopolis Festival am 10. September 2022 im Zakk aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 22: Die Sicht der Kinder auf Schule und Stadtteil jenseits von Corona – ein Projekt an der KGS Mettmanner Straße - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 23: Bezirksbezogene Haushaltsmittel für das Forschungsprojekt an der KGS Mettmanner Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 24: Finanzielle Unterstützung des Projekts „Die Sicht der Kinder auf Schule und Stadtteil jenseits von Corona“ an der KGS Mettmanner Straße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 25: Unterstützung des Kulturprogramms zum 42. Internationalen Straßenfest am 11. Juni 2022 - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 26: Finanzielle Unterstützung des Kulturprogramms des 42. Internationalen Straßenfestes der Bürgerinitiative Flingern aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 27: Bezirksbezogene Haushaltsmittel für das Straßenfest der Bürgerinitiative Flingern - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 28: Brachfläche vor dem Gebäude Lindenstraße 267 (Ecke Grafenberger Allee / Engerstraße) - Antrag der Fraktion Bündnis 90 /D - mehrheitlich beschlossen
+- TOP 29: Aufstellung eines Offenen Bücherschranks am Dorotheenplatz - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 30: Einrichtung eines Fußgängerüberweges (FGÜ) vor der Brehmschule - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Schaltung der beiden Ampeln an der Lindemannstraße auf der Ecke Lindemannstraße/Paulusplatz bzw. auf der Höhe der Pauluskirche - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Ausbau bzw. Ertüchtigung der Achenbachstraße als alternative Fahrradroute zur Lindemannstraße (B8) - Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 35: 3 Haarnadel-Fahrradständer für den Vorplatz an der Kühlwetterstrasse 1 - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 36: Pflanzenbeet Platane Zoopavillon - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 37: Ausschilderung Ladestation Mercedesstraße - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 38: Entfernung der Steinfindlinge - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 39: Ladesäulen Grafental - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 40: Vorstellung des Konzeptes eines Suchthilfezentrums in der Flurstraße 45 - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 41: Verkehrsspiegel an der Fichtenstraße / Ecke Pinienstraße - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 42: Vorstellung der amtlichen Kriminalstatistik und Unfallstatistik 2021 für den Stadtbezirk 2 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 43: Bank Brahmsplatz - Antrag der CDU-Fraktion - zurückgezogen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 48: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51: Bereich südliche Grafenberger Allee nähe Kreuzungsbereich Engerstraße - Anfrage der SPD-Fraktion
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 52: Baumfällungen auf dem Grundstück Schumannstraße 30 - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 53: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 54: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 55: Fahrradweg Graf-Recke-Straße - Anfrage der FDP-Fraktion
+- TOP 56: Goethe-Gymnasium - Anfrage der FDP-Fraktion - beantwortet
+- TOP -: Informationsvorlagen
+- TOP 57: Fassadenbegrünung im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/024/2022 - zur Kenntnis genommen
+- TOP 58: Gehweg auf der Cranachbrücke - Beschluss der Bezirksvertretung 2, Vorlage BV2/026/2022 - zur Kenntnis genommen
+- TOP 59: Nutzung der Verkehrsinsel Kreuzung Humboldstraße/Rethelstraße/Franklinbrücke - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
