@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Ronsdorf
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-05-17T18:00:00+02:00
+- Ende: 2022-05-17T20:39:00+02:00
+- Ort: Sitzungszimmer im Bürgerbüro Ronsdorf, Marktstr. 21, 42369 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/48
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20277
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20277
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00290586.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00292053.pdf
+
+## Tagesordnung
+
+- TOP 1: Berichte und Mitteilungen
+- TOP 2: Bericht des Wuppertaler Jugendrates
+- TOP 3: Bericht des Beirates der Menschen mit Behinderung
+- TOP 4: Controllingliste der Beschlüsse und Aufträge der Bezirksvertretung
+- TOP 5: Fraktionsanträge und Große Anfragen
+- TOP 5.1: Obstwiese an der Boxbergstraße - zurückgezogen
+- TOP 5.2: Abstellmöglichkeiten für Fahrräder am Ronsdorfer Bahnhof
+- TOP 5.3: Energieversorgung im Stadtbezirk Ronsdorf - vertagen
+- TOP 5.4: Zivil- und Katastrophenschutz im Stadtbezirk Ronsdorf
+- TOP 5.4.1: Beantwortung Große Anfrage der SPD-Fraktion zur Sitzung der BV Ronsdorf am 17.05.2022 (VO/0500/22)
+- TOP 5.5: Radverkehr auf Tannenbaumer Weg und Dreherstraße (Prüfauftrag)
+- TOP 6: Alternative Schulwege zur Grundschule Ferdinand-Lassalle-Str. - Entgegennahme ohne Beschluss
+- TOP 7: Sicherheit auf dem Schulweg zur GGS Echoer Straße - Entgegennahme ohne Beschluss
+- TOP 8: Bürgerantrag § 24 GO Schenkstr. Baustelleneinrichtung - zurückgezogen
+- TOP 9: Berichterstattung über die Situation der Außenstellen des Meldeamtes in Cronenberg und Langerfeld
+- TOP 10: Bebauungsplan 1066 - Engineering Park Wuppertal (GOH-Kaserne) - 4. Änderung - ungeändert beschlossen
+- TOP 11: Aufhebung überholter Planverfahren im Stadtbezirk Ronsdorf - ungeändert beschlossen
+- TOP 12: Stadtentwässerung - Maßnahmenkatalog 20023/Katalogentwurf 2024 - ungeändert beschlossen
+- TOP 13: Bericht zur Inklusion auf Wuppertaler Spielplätzen - Entgegennahme ohne Beschluss
+- TOP 14: Sozialdatenatlas für Kinder und Jugendliche - Entgegennahme ohne Beschluss
+- TOP 14.1: Personelle Unterstützung für den Stadtteiltreff Rehsiepen - geändert beschlossen
+- TOP 15: Kinder- und Jugendförderplan bis 2025 der Stadt Wuppertal - ungeändert beschlossen
+- TOP 16: Haushaltsplan 2022/2023
+- TOP 16.1: Anträge auf Gewährung von freien Mitteln
+- TOP 16.1.1: - Antrag des Fördervereins der städt. GGS Ferdinand-Lassalle-Straße auf Gewährung freier Mttel für die Anschaffung eines Gerätehauses
+- TOP 16.1.2: - Antrag des Fördervereins Bandwirker-Bad Ronsdorf e.V. auf Gewährung freier Mittel zur Anschaffung einer Transportplattform und eines Schrankes
+- TOP 16.1.3: - Antrag des Vereins zur Unterstützung der Freiwilligen Feuerwehr in Ronsdorf e.V. auf Gewährung freier Mittel zur Anschaffung eine "Public Displays" für den Unterrichtsraum der Jugendfeuerwehr Ronsdorf
+- TOP 16.1.4: - Antrag des Vereins zur Unterstützung der Schulbibliothek in der EFGS auf Gewährung freier Mittel zur Anschaffung eines Farbdruckers mit WLAN-Fähigkeit
+- TOP 16.2: Anträge auf Gewährung von GFG-Mitteln
+- TOP 16.2.1: - Antrag des Ronsdorfer Heimat- und Bürgervereins auf Gewährung von GFG-Mitteln für die Sanierung des Walderlebnisweges an der Ronsdorfer Talsperre
+- TOP 16.2.2: - GFG-Mittel Geschwindigkeitsdisplay
+- TOP 16.3: - Antrag der GS Echoer Straße auf Gewährung von quotierten Mitteln für die Anschaffung von Fußrastenstühlen und ASchülertischen
+- TOP 17: Veranstaltungen im Stadtbezirk
+- TOP 17.1: - Antrag des Posaunenchors Ronsdorf auf Durchführung des Posaunenchortreffens am 13.08.2022 auf dem Bandwirkerplatz
+- TOP 17.2: - Antrag des Ronsdorfer Heimat- und Bürgervereins auf Durchführung einer "Nikolausveranstaltung" am 10.12.2022 auf dem Bandwirkerplatz
+- TOP 18: Anfragen und Anregungen an die Verwaltung
