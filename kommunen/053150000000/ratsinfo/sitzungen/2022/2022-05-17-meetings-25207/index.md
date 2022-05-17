@@ -1,0 +1,71 @@
+# 14. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-17T16:05:00+02:00
+- Ende: 2022-05-17T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25207
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25207
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Entwicklungen KVB-Leihrad sowie 9-Euro-Ticket
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Sicherer Schulweg für die Heliosschule - endgültig zurückgezogen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss für die Sanierung der südlichen Nebenanlagen auf der Militärringstraße zwischen Brühler Landstraße und Am Eifeltor in Köln Zollstock sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601- - geändert beschlossen
+- TOP 3.2: Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße im Stadtbezirk Porz zwischen den Knotenpunkten Kölner Str./Berliner Str./Helenenstr. und Hauptstr./Friedrich-Ebert-Ufer - zurückgestellt
+- TOP 3.2.1: Änderungsantrag zu Ö 3.2 „Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße im Stadtbezirk Porz zwischen den Knotenpunkten Kölner Str./Berliner Str./Helenenstr. und Hauptstr./Friedrich-Ebert-Ufer“ - zurückgestellt
+- TOP 3.3: Erneuerung Flachdachabdichtung Stadtbahnhaltestelle Chorweiler - geändert beschlossen
+- TOP 3.4: Beschluss einer Trasse für die RadPendlerRoute 2 (Bergisch Gladbach – Köln) - im ersten Durchgang verwiesen
+- TOP 3.5: Fahrplanwechsel 2022 - Taktverdichtung Buslinie 250 - ungeändert beschlossen
+- TOP 3.6: Änderung der Verkehrsführung im Bereich Trankgasse/Komödienstraße - geändert beschlossen
+- TOP 3.6.1: Änderungsantrag zu TOP 3.6 - Änderung der Verkehrsführung im Bereich Trankgasse/Komödienstraße - ungeändert beschlossen
+- TOP 3.7: Fortentwicklung Förderkonzept "Lastenräder für Köln" - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Umbau der Kasemattenstraße in Köln-Deutz zur Klimaanpassung („Klimarobuste Kasemattenstraße“) - ungeändert empfohlen
+- TOP 4.2: Planfeststellungsverfahren für die Erneuerung von Eisenbahn-Überführungen über die Deutz-Mülheimer Straße - Bauwerk D - ungeändert empfohlen
+- TOP 4.3: Planfeststellungsverfahren für die Erneuerung von Eisenbahn-Überführungen über die Deutz-Mülheimer Straße - Bauwerk E - ungeändert empfohlen
+- TOP 4.4: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - mit Änderungen empfohlen
+- TOP 4.5: 282. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.6: Parkgebührenregelung an E-Ladesäulen - im ersten Durchgang verwiesen
+- TOP 4.7: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.8: Stadtbahn Bonn-Niederkassel-Köln (Linie 17) und Verlängerung Linie 7 - im ersten Durchgang verwiesen
+- TOP 4.9: Einrichtung eines stadtweiten Lastenradverleihsystems (KVB-Rad) - im ersten Durchgang verwiesen
+- TOP 4.9.1: Ergänzungsantrag zu 0448/2022 - im ersten Durchgang verwiesen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Routen für den Schwerlastverkehr - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.1.1: Routen für den Schwerlastverkehr - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.2: Rheinpendel - zurückgestellt
+- TOP 5.2.3: Anfrage zu verbesserter Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - zurückgestellt
+- TOP 5.2.4: E-Lade-Möglichkeiten in Parkhäusern und Tiefgaragen - zurückgestellt
+- TOP 5.2.5: Aus-/Neubau Rodenkirchener Brücke und der Autobahn A4 vom Kreuz Gremberg bis Köln-Süd - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Brückenbau Escher Straße - Sache ist erledigt
+- TOP 6.2: Fluoreszierende Fahrradwege - Sache ist erledigt
+- TOP 6.3: Baustelle an der Stadtbahnhaltestelle Bahnhof Mülheim - Sache ist erledigt
+- TOP 6.4: Gesamtinstandsetzung Mülheimer Brücke – Haushaltsrechtliche Unterrichtung des Rates - Sache ist erledigt
+- TOP 6.5: On-Demand-Verkehr KVB - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Generalinstandsetzung der Pützlachstraße und der Frasengasse in Köln-Flittard - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Lastenradförderung 2021 - Kenntnis genommen
+- TOP 7.2.2: Bürgereingabe gem. § 24 GO, betr.: Schaffung von Erholungsorten am Rheinufer (Az.: 02-1600-104/21) - zurückgestellt
+- TOP 7.2.3: Aufschub von Lärmsanierungsmaßnahmen der DB AG im rechtsrheinischen Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 7.2.5: Logistikforum Februar 2022 - Kenntnis genommen
+- TOP 7.2.6: Kölner Statistische Nachrichten 5/2022 – Kraftfahrzeuge 2021 - Kenntnis genommen
+- TOP 7.2.7: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 7.2.8: Klassifizierungsänderung Venloer Straße - Kenntnis genommen
+- TOP 7.2.9: Fahrplanwechsel 2022 - Vorzeitige Verschwenkung der Buslinie 149 zur Anbindung des Gymnasiums Zusestraße ab August 2022 - Kenntnis genommen
+- TOP 7.2.10: Erste Stufe zur "Umsetzung durchgehender Achsen für den Radverkehr" (AN/2374/2021) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.11: Ein neu definiertes Grundnetz für den Motorisierten Individualverkehr - zurückgestellt
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Laurenz-Kiesgen-Straße in Köln-Poll - Sache ist erledigt
