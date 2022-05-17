@@ -1,0 +1,144 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2022-05-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6850867
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6850867
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: Finanzierung eines Kinderstadtplans über das Stadtviertelbudget; Antrag Grüne/SPD
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Einrichtung einer Slacklining – Sportanlage auf der Grünfläche Säbener Platz/ Oberbiberger Straße
+- TOP 3.2.5.2.: Grünstreifen vor dem Haus Geiselgasteigstraße 22 wiederherstellen; BA 18 Interfraktioneller Antrag
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Ausnahmegenehmigung Fit im Park der LHM ab 01.05.2022 bis 30.09.2022
+- TOP 3.2.7: Sonstiges
+- TOP 3.2.7.1.: BA-Jahresempfang
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Schnellstmögliche Aufstellung von mindestens 10 Fahrradabstellplätzen vor dem EDEKA an der St.Magnusstr. 34, Ecke zu Naupliastraße; Bürgeranliegen
+- TOP 3.3.3.2.: Grünwalder Str.: Ausfahrt HEM Tankstelle; Bürgeranliegen
+- TOP 3.3.3.3.: Verkehrssituation am Wettersteinplatz; Bürgeranliegen
+- TOP 3.3.3.4.: Zebrastreifen im Bereich Naupliastr./Armanspergstr./Laurinplatz/Bozzarisstr.; Bürgeranliegen
+- TOP 3.3.3.5.: Verbesserung des Angebots der MVG in Harlaching; Interfraktioneller Antrag
+- TOP 3.3.3.6.: Verbesserung des Angebots der MVG in Harlaching; Ergänzungsantrag CSU
+- TOP 3.3.3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.8.: Durchfahrtsverbot für Kraftfahrzeuge über 25t für Straßen mit Basaltsteinpflaster; CSU-Antrag
+- TOP 3.3.3.9.: Einrichtung einer Kurzparkzone oder eines Parkverbots vor der Naupliastr. 76; CSU-Antrag
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Karolinger Allee Höhe Harlachinger Str.: Beschilderung mit Gefahrzeichen Z 136 StVO und Zusatz „Schulweg“
+- TOP 3.3.4.2.: Fahrbahnsanierung Reichenhaller Straße (zw. St.-Zeno-Weg und Schorerstr.)
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Sachsenstr.: Widerrechtlich abgestellte Fahrzeuge wie Camper, Lastwagen und Anhänger verwarnen; Grünen-Antrag
+- TOP 3.3.5.2.: Einstufung eines Untersuchungsgebiets für Parkraummanagement; Interfraktioneller Antrag von Grünen, SPD und Bündnis fürs Viertel
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Birkenleiten 11: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 3.3.6.2.: Oberbiberger Str. 2: Aufhebung der Bücherbushaltestelle
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Grünwalderstr.: Lärmbelästigung durch Tankstelle; Bürgeranliegen
+- TOP 3.4.3.2.: Reichenhallerstr.: Anwohnermüllproblem
+- TOP 3.4.3.3.: Solaranlagen auf städtischen Schulen; SPD-Antrag
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Alois-Wohlmuth-Str. 23 - Benediktenwandstr. 5 - Birkenleiten 31 - Menterschwaigstr. 14 - Prößlstr. 7 - Tierparkstr. 30 - Über der Klause 2
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Reichenhallerstr. (Ecke Schorerstr.): Entsiegelung und Begrünung einer Betonfläche
+- TOP 3.4.5.2.: Peißenberg-, Otker- und Bad Wiessee-Straße: Einsatz von Kehrmaschinen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.6.2.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 3.4.6.3.: Baumfällung Eichthalstr. 7
+- TOP 3.4.6.4.: Baumfällung Prößlstr. 1
+- TOP 3.4.6.5.: Baumfällung Prößlstr. 7
+- TOP 3.4.6.6.: Baumfällung Reichenhallerstr. 27
+- TOP 3.4.6.7.: Baumfällung Pilgersheimer Str. 56
+- TOP 3.4.6.8.: Baumfällung Reisachstr. 18
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Lärmbelästigung Isarauen 2022; Bürgeranliegen
+- TOP 3.5.4: Anhörungen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 3.5.6.2.: Protokoll der öffentlichen Sitzung des Mieterbeirates der LHM
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Schmierereien am BA-Schaukasten Authariplatz; CSU-Antrag
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Hans-Mielich-Str. 31: Neubau eines Mehrfamilienhauses mit 8 Wohneinheiten und zweier Mehrfamilienhäuser mit je 2 Wohneinheiten sowie einer Tiefgarage - TEKTUR zu 1.2-2018-15834-33 - jetzt: Neubau 2er Mehrfamilienhäuser (1 x 9 WE / 1 x 2 WE) mit Tiefgarage
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: (U) Erhalt der Menterschwaige sichern! Antrag Nr. 20-26 / A 01336 von der SPD / Volt - Fraktion, Fraktion Die Grünen - Rosa Liste vom 20.04.2021, eingegangen am 20.04.2021
+- TOP 3.6.6.2.: (U) Grundschule Harlaching Errichtung einer 3-zügigen Grundschule mit 2-fach Sporthalle und Allwetterplatz, Tiefgarage und einer Wohneinheit für die technische Hausverwaltung an der Seyboth-/Theodolindenstraße im 18. Stadtbezirk Untergiesing-Harlaching Geamtprojektkosten 71.020.000 € davon Teilprojekt 1 Grundschule 67.440.000 € hiervon Ersteinrichtungskosten 1.610.000 € davon Teilprojekt 2 Interimsparkdeck 3.520.000 € davon Teilprojekt 3 Verkehrsparcours 60.000 € Projektauftrag
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Einwohnerversammlung zum Bauvorhaben am Candidtor
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
