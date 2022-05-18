@@ -1,0 +1,56 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-18T15:00:00+02:00
+- Ende: 2022-05-18T19:11:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22322
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22322
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448517.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448517.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00448517.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 3: Kinder- und Jugendförderplan 2021 - 2025 - mündicher Bericht - - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 6: Städtebaulicher Wettbewerb Nr. 04/028 - Hansaallee/Schwalmstraße - - Empfehlung mehrheitlich beschlossen
+- TOP 7: Bebauungsplan-Entwurf Nr. 04/026 - Wettinerstraße / Lütticher Straße - Empfehlung mehrheitlich beschlossen
+- TOP 8: Hochbaulicher Wettbewerb - Mixed-Use Hochhaus am Belsenpark II - Empfehlung mehrheitlich beschlossen
+- TOP 9: Theodor-Heuss-Brücke, Zukunftsstrategie Sachstandsinformation und Durchführung einer Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 10: Radleitroute West-Ost von Hansaallee/Böhlerstraße (Heerdt/Lörick) bis Neusser Tor (Gerresheim) - Empfehlung mehrheitlich beschlossen
+- TOP 11: Lärmschutz an der B7 in Höhe des Ökotops, Anfrage der Bezirksvertreterin Claudia Drossel - zur Kenntnis genommen
+- TOP 12: Aufenthaltsmöglichkeiten für Bürger*innen ermöglichen und Infrastruktur verbessern - Bürger*innenfreundliche Weiterentwicklung des Nikolaus-Knopp-Platzes, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 13: Öffnung aller Einbahnstraßen für Radfahrer:innen nach geänderter Straßenverkehrsordnung, Anfrage der Bezirksvertreterin Astrid Wiesendorf - zur Kenntnis genommen
+- TOP 14: Bauvorhaben St. Anna Niederkassel - Stand des Verfahrens, Anfrage der FDP-Fraktion
+- TOP 15: Flächensparendes Bauen an der Oberlöricker Straße, Anfrage der SPD-Fraktion
+- TOP 16: Halteverbote Kaiser-Friedrich-Ring, Anfrage der SPD-Fraktion
+- TOP 17: Stand Lörick-Karree, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 18: Entsorgung von "Schrotträdern", Anfrage der Bezirksvertreterin Claudia Drossel
+- TOP 19: Schutzräume im linksrheinischen Düsseldorf, Anfrage der Bezirksvertreterin Claudia Drossel - zur Kenntnis genommen
+- TOP 20: Sanierungskonzept für den Simon-Gatzweiler-Platz, Anfrage des Bezirksvertreters Marco Staack
+- TOP 21: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen - Empfehlung einstimmig beschlossen
+- TOP 22: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Haushalt 2022 (Liste B) - einstimmig beschlossen
+- TOP 23: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2022 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 - einstimmig beschlossen
+- TOP 24: Beschlusskontrolle der Bezirksvertretung 4 - zur Kenntnis genommen
+- TOP 25: Bereitstellung von Stellplätzen für Lastenfahrräder, Antrag des Bezirksvertreters Georg Blanchard, DIE LINKE - abweichend beschlossen
+- TOP 26: Freilaufenden Rechtsabbieger im Stadtbezirk 4, Antrag des Bezirksvertreters Georg Blanchard, DIE LINKE - mehrheitlich abgelehnt
+- TOP 27: Errichtung von zwei Fußgängerüberwegen im Kreuzungsbereich Sportstraße / Niederkasseler Lohweg / Fritz-Milster-Weg und der Kreuzung Grevenbroicher Weg / Niederdonker Straße / Wickrather Straße, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 28: Errichtung weiterer Laternen entlang des Fritz-Milster-Wegs, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 29: Aufstellung von Hundekotbeutelspendern und Abfallbehältern auf beiden Seiten der Niederkasseler Schützenfestwiese sowie unterhalb der Theodor-Heuss-Brücke, Antrag des Bezirksvertreters Michael Schmittmann - abweichend beschlossen
+- TOP 30: Parkscheibenregelung für die Kribbenstraße, Antrag der SPD-Fraktion - zurückgezogen
+- TOP 31: Poller zur Verkehrsentlastung im Greifweg, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 32: Zwei Mülleimer für den Parkplatz Krefelder Straße - zur Kenntnis genommen
+- TOP 33: Bänke provisorisch wieder aufstellen im Heerdterhof-Garten - zur Kenntnis genommen
+- TOP 34: Baugebiet Oberlöricker Straße - Chancen für innovative Stadtentwicklung nutzen - zur Kenntnis genommen
+- TOP 35: Begrünung und Wiederaufforstung im Stadtteil Heerdt - im Bereich B7 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Liste B) Sonstige Gebäude - zur Kenntnis genommen
+- TOP 36: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 37: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/003/2022 vom 30.03.2022 - einstimmig beschlossen
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
