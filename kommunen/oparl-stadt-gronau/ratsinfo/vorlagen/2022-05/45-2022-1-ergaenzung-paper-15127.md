@@ -1,0 +1,27 @@
+# Stellplatzsatzung Stadt Gronau
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 45/2022 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-05-18
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZf-pu7rSEjKpH5AquTDOjlg
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/15127
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Stellplatzsatzung Stadt Gronau) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRmAkmaWSy9gPpt1Jml40Dl571WlRR90WUQFqjh1EftZ/Beschlussvorlage_45-2022_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Kommunale Stellplatzsatzung Gronau) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV964L_SUNnYQazbRz9taPKYoUyKq20Vs2J1nXdJynNT/Kommunale_Stellplatzsatzung_Gronau.pdf
+- Anlage: Beschlussvorlage (Stellplatzsatzung Anlage 1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZvS-rAxCjek2azKoagybn0d1lMPT_wJWboQCBAMPcIc/Stellplatzsatzung_Anlage_1.pdf
+- Anlage: Beschlussvorlage (Stellplatzablösesatzung Gronau) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdU2MKwHvC7uZTm_wtIX41x2UuU2sPmoGl52OGQw5VMI/Stellplatzabloesesatzung_Gronau.pdf
+- Anlage: Beschlussvorlage (Stellplatzablösesatzung Anlage 1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU-i2HQXMGsfemJHnGAWoIxBXAh2kdoPi4-bgkKiiGhu/Stellplatzabloesesatzung_Anlage_1.pdf
+- Anlage: Beschlussvorlage (Stellplatzablösesatzung Anlage 2) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdVcpZgJBCjKNb24bhaaupYT4iZylkLrrfxIbA_RWSCR/Stellplatzabloesesatzung_Anlage_2.pdf
+- Anlage: Beschlussvorlage (Themenübersicht_Stellplatzsatzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRE8rS4KRXsm14z9GDhz4ZJCdAe9mbbBNgk26X9xOHLg/Themenuebersicht_Stellplatzsatzung.pdf
+- Anlage: Beschlussvorlage (Präsentation Stellplatzsatzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTXk8vPRNJUXOEeI7_vgzRHXXm285_jTsC_rCeM_s0ac/Praesentation_Stellplatzsatzung.pdf
+- Anlage: Beschlussvorlage (Auszug MUK 22-02-2022 TOP 4 Stellplatzsatzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfgXVuIXkrfTIvqoqfJjKh5pztOrGJTYjZyr5A6gCB7S/Auszug_MUK_22-02-2022_TOP_4_Stellplatzsatzung.pdf
+- Anlage: Beschlussvorlage (Antrag CDU zum PBD 16.03.22) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWEczcZxqQYOQ3-GhdYbz_PI0MQ1IOEpBKZ49piM73Uu/Antrag_CDU_zum_PBD_16.03.22.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 11 - Auszug PBD 16.03.22) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTEbEqofsH8sGaRsEzwQE2vPyk2GAmlnSF_G_CEvdIOZ/Anlage_TOP_11_-_Auszug_PBD_16.03.22.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 11 - Auszug HFA) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXf14QmVg2pjblTDTKMjv3CXOHoqLQ_dbZBGemuZZMdC/Anlage_TOP_11_-_Auszug_HFA.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 11 - Auszug PBD 03.05.22) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ0z_u90FHXxx8e0Mb_PT2UMiSQ8nEiSFDB1I4x9hLf0/Anlage_TOP_11_-_Auszug_PBD_03.05.22.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5161 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5173 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-107
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5175 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-107
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5104 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5109 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
