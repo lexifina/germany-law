@@ -1,0 +1,94 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf - Videokonferenz
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2022-05-18T17:00:00+02:00
+- Ende: 2022-05-18T23:35:00+02:00
+- Ort: Bürgersaal , Rathaus Zehlendorf
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4464
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4464
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 2.1: Beteiligung stärkt die Demokratie und fördert gemeinnütziges Engagement – auch in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Reinigungsarbeiten Lilienthalpark - beantwortet
+- TOP 4.2: Schulplätze in Wannsee - beantwortet
+- TOP 4.3: Asbest-Belastung an Steglitz-Zehlendorfer Schulen - beantwortet
+- TOP 4.4: Unterstützung Einkommensschwacher bei der Vorratsbildung - beantwortet
+- TOP 4.5: Fehlende Kostenübernahmen – Existenzbedrohung für Einrichtungen der Wohnungslosenhilfe? - beantwortet
+- TOP 4.6: Wie dem Lehrermangel begegnen? - beantwortet
+- TOP 4.7: Schrecken ohne Ende am Geisterhaus Gardeschützenweg 3? - beantwortet
+- TOP 4.8: Metalldiebstahl - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Stellplätze für Einsatzfahrzeuge im Nahbereich DLRG Station Wannsee I - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Park an der Schwartzschen Villa nach unserer ukrainischen Partnerstadt benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Erweiterung der Kältehilfe-Plätze als Sofortmaßnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: 24/7 auch in Steglitz-Zehlendorf – obdachlose Menschen brauchen Schutz! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Schutz für die noch erhaltenen Teile der Colonie Alsen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Wiedernutzung des Kiosks an der Rehwiese prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Ein brauchbares Politikinformationssystem für Steglitz-Zehlendorf zur Verfügung stellen - in der BVV abgelehnt
+- TOP 5.8: Eine Gedenkstele für den Steglitzer Fernsehpionier Siegmund Loewe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Kostenlose Bereitstellung von Menstruationsartikeln in Ämtern und bezirkseigenen Einrichtungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.10: Freizeitstätte im Bahnhof Lichterfelde-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Flüchtlingsunterkünfte im Bezirk umgehend niederschwellig vorhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: Mobiler Toiletten- und Dusch-Bus für obdachlose Menschen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Bezirkliche Kältehilfe zukunftssicher machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.14: Wohin mit Hundekottüten Jenbacher Weg/Ecke Schütte-Lanz-Straße? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Beratungen zum Bezirkshaushalt zukünftig nachvollziehbar gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.16: Auslegung B-Plan 6-30 – update 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Synchrongrün am Asternplatz - überwiesen
+- TOP 6.2: Neue Realitäten anerkennen - Digitale Sitzungen der BVV durch Änderung des Bezirksverwaltungsgesetz ermöglichen - überwiesen
+- TOP 6.3: Kindern freies Fahrtraining ermöglichen - überwiesen
+- TOP 6.4: Kinder- und Jugendparlament initiieren! - überwiesen
+- TOP 6.5: Bedarfsanmeldung Rekommunalisierung Schulreinigung in Steglitz-Zehlendorf - überwiesen
+- TOP 6.6: Segregation der Sozialwohnungen im Neubaugebiet Lichterfelde-Süd vermeiden - überwiesen
+- TOP 6.7: Treuhändermodell für Geisterhaus Gardeschützenweg 3 endlich ohne Verzug umsetzen! - überwiesen
+- TOP 6.8: Basketballfelder Sachtlebenstraße - überwiesen
+- TOP 6.9: Spielplatz Carmerplatz/Rugestraße - überwiesen
+- TOP 6.10: Verkehrssicherheit wieder herstellen - überwiesen
+- TOP 6.11: Alternativer Fahrradweg Unter den Eichen – fließender Verkehr für Alle - überwiesen
+- TOP 6.12: Geschichte greifbar machen - sichtbare Auseinandersetzung mit kritischen Straßennamen - überwiesen
+- TOP 6.13: Beteiligung von Kindern und Jugendlichen in Steglitz-Zehlendorf stärken - überwiesen
+- TOP 6.14: Nutzung von digitalen Lösungen im Rahmen der Parkraumüberwachung - überwiesen
+- TOP 6.15: Freies WLAN in allen öffentlichen Gebäuden - überwiesen
+- TOP 6.16: Lichtbilder in digitaler Form - überwiesen
+- TOP 6.17: Online-Anmeldung Schule - überwiesen
+- TOP 6.18: Sprach-und Integrationskurse für Geflüchtete - überwiesen
+- TOP 6.19: Runder Tisch Lichterfelde-Ost - überwiesen
+- TOP 6.20: E-Roller, die andere Verkehrsteilnehmende gefährden, entfernen und die verantwortlichen NutzerInnen mit Bußgeld belegen - überwiesen
+- TOP 6.21: Stadtteil-Bürgerforen einrichten - Stärkung der Teilhabe der Einwohnerschaft im Bezirk vor Ort - überwiesen
+- TOP 6.22: Digitalisierungsmodellprojekt für einen effizienten Informationsaustausch - überwiesen
+- TOP 6.23: Gedenktage und Veranstaltungen in Online-Kalender veröffentlichen - überwiesen
+- TOP 6.24: Veranstaltungsorte vor Veranstaltungen reinigen - überwiesen
+- TOP 6.25: Verkehrssicherheit Hohentwielsteig/Hegauer Weg - überwiesen
+- TOP 6.26: Mut und Hoffnung: Friedenstauben-Fahne neben Ukraine-Fahne hissen - überwiesen
+- TOP 7: Anträge - im Ausschuss abgelehnt
+- TOP 7.1: Weitergeltung der GO der BVV - überwiesen
+- TOP 8: Aus der letzten BVV vertagte Drucksachen - (offen)
+- TOP 8.1: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1.1: Bezirkliches Radnebenroutennetz in der Goerzallee absichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.2: Marchandstraße - in der BVV abgelehnt
+- TOP 8.1.3: Baumpflege intensivieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.4: Erstellung eines Sportentwicklungsplanes für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.5: Runder Tisch Regionalgeschichte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Wahlen - erledigt
+- TOP 9.1: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9.1.1: Berufung eines stimmberechtigten Mitglieds aus der Bezirksverordnetenversammlung Steglitz–Zehlendorf in den Verwaltungsrat der Kindertagesstätten Berlin Süd-West, Eigenbetrieb von Berlin - überwiesen
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Rekommunalisierung der Schulreinigung in Steglitz-Zehlendorf - vertagt
+- TOP 11: Anträge - vertagt
+- TOP 11.1: Übersicht aller Sportmöglichkeiten im Bezirk online - vertagt
+- TOP 11.2: Verlängerung der Gültigkeit der Geschäftsordnung der BVV - vertagt
+- TOP 12: Beschlussempfehlungen von Ausschüssen - vertagt
+- TOP 12.1: Eine Partnerschaft für Demokratie auch für Steglitz-Zehlendorf - vertagt
+- TOP 12.2: Unterstützungsmöglichkeiten für Partnerstadt Charkiw - vertagt
+- TOP 12.3: Steglitz-Zehlendorf zur Age-friendly City machen - vertagt
+- TOP 12.4: Platz schaffen für Ukraine-Flüchtlinge - vertagt
+- TOP 12.5: Umsetzung des Berliner Modells der kooperativen Baulandentwicklung beim Neubaugebiet Lichterfelde-Süd - vertagt
