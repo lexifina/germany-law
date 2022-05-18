@@ -1,0 +1,6 @@
+# TOP 6: Bericht des Beirates der Menschen mit Behinderung
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Cronenberg (2022-05-18)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/115197
