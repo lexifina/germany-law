@@ -1,0 +1,8 @@
+# TOP 8: Verfahren zur Wahl der Kommunalen Seniorenvertretung Münster 2022
+
+- Sitzung: 12. Sitzung (2022-05-18)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/227393
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/79522
