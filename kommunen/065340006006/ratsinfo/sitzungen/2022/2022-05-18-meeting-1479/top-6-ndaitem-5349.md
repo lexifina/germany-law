@@ -1,0 +1,6 @@
+# TOP 6: Projekt "Klimaschutz im Alltag" - Wie machen wir weiter?
+
+- Sitzung: Haupt-, Finanz- und Wirtschaftsausschuss (9. Sitzung) (2022-05-18)
+- Körperschaft: Gemeinde Cölbe
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/agendaitem/5349
