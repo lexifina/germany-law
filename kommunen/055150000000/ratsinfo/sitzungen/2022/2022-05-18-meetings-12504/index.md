@@ -1,0 +1,79 @@
+# 10. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-05-18T18:02:00+02:00
+- Ende: 2022-05-18T21:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12504
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12504
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00508253.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Musik-Campus: Konkretisierung der Grundsatzbeschlüsse - mehrheitlich beschlossen
+- TOP 10.1: Musik-Campus: Konkretisierung der Grundsatzbeschlüsse
+- TOP 11: Satzung zur Änderung der Hauptsatzung und Änderung der Zuständigkeitsordnung - einstimmig geändert beschlossen
+- TOP 12: Satzung zur Änderung der Hauptatzung aufgrund von Regelungsbedarfen durch Änderungen in der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) - einstimmig beschlossen
+- TOP 13: Neuordnung der Dezernatsverteilung und Teilung des Rechts- und Ausländeramtes - von der Tagesordnung abgesetzt
+- TOP 14: Verfahren zur Wahl der Kommunalen Seniorenvertretung Münster 2022 - einstimmig beschlossen
+- TOP 15: Bedarf von zusätzlichen Büroräumen im Erdgeschoss des Gebäudes Hafenstraße 30/32, 48153 Münster (Stadtbezirk Mitte) - einstimmig beschlossen
+- TOP 16: Entwurf des NKF-Gesamtabschlusses der Stadt Münster zum 31.12.2019 - einstimmig beschlossen
+- TOP 17: Umwidmung der Verkehrsservice Gesellschaft Münster mbH in die Bauwerke Münster GmbH und Satzungsänderung - einstimmig beschlossen
+- TOP 18: Anpassung der Gesellschaftsverträge der items management GmbH und der items GmbH & Co.KG - einstimmig beschlossen
+- TOP 19: Entwicklungsorientierte Wohnungsmarktbeobachtung in der Stadtregion Münster "eWoMaB" - Inhalte und Schlussfolgerungen - mehrheitlich geändert beschlossen
+- TOP 20: Resilienzstrategie und Handlungskonzept für den Aasee - einstimmig beschlossen
+- TOP 21: Stärkung der Innenstadt: Handlungsfelder und Leitziele für Münsters Innenstadt - Erarbeitung des integrierten städtebaulichen Entwicklungskonzeptes Münster-Innenstadt (INSEK MS-Innenstadt) - einstimmig geändert beschlossen
+- TOP 22: Integrationsmonitoring 2020/2021 - mehrheitlich beschlossen
+- TOP 22.1: Integrationsmonitoring 2020/2021
+- TOP 22.1.1: Integrationsmonitoring 2020/2021
+- TOP 23: Änderung der Tarifbestimmungen, Haus- und Badeordnung und der allgemeinen Bedingungen für die Benutzung der städtischen Bäder - einstimmig beschlossen
+- TOP 23.1: Änderung der Tarifbestimmungen, Haus- und Badeordnung und der allgemeinen Bedingungen für die Benutzung der städtischen Bäder
+- TOP 24: Konzeptionelle Neuausrichtung der Lernwerkstätten der Schulpsychologischen Beratungsstelle - einstimmig beschlossen
+- TOP 24.1: Konzeptionelle Neuausrichtung der Lernwerkstätten der Schulpsychologischen Beratungsstelle
+- TOP 25: Bildungsnetzwerk - einstimmig beschlossen
+- TOP 26: Europa.Brücke.Münster plus - Zuschussantrag der Bischof-Hermann-Stiftung - einstimmig geändert beschlossen
+- TOP 27: Wahl des künftigen Fachbeirats für den Geschichtsort Villa ten Hompel - einstimmig beschlossen
+- TOP 28: Durchführung und Finanzierung der Ausstellung Skulptur Projekte 2027 - einstimmig beschlossen
+- TOP 29: Beitritt zum WHO-Netzwerk Age-friendly Cities and Communities - mehrheitlich beschlossen
+- TOP 30: Grundsatzbeschluss Baumschutzsatzung - mehrheitlich beschlossen
+- TOP 31: Sauberkeit im öffentlichen Raum - mehrheitlich beschlossen
+- TOP 31.1: Sauberkeit im öffentlichen Raum
+- TOP 32: Erweiterung Norbertschule zur 4-Zügigkeit - einstimmig beschlossen
+- TOP 33: Änderung der Betriebssatzung der Stadt Münster für die Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 34: European Energy Award 2022 - Energiepolitisches Arbeitsprogramm - mehrheitlich beschlossen
+- TOP 35: Grundsätze für die Vergabe städtischer Grundstücke - Mehrfamilienhäuser und Gemeinschaftswohnformen - - einstimmig beschlossen
+- TOP 36: Bauleitplanung
+- TOP 36.1: Stadtbezirk Münster-Mitte
+- TOP 36.1.1: Bebauungsplan Nr. 612 - Geänderter Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 36.1.2: Vorhabenbezogener Bebauungsplan Nr. 630 - Zölibad - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 36.2: Stadtbezirk Münster-Südost
+- TOP 36.2.1: 1. Verlängerung der Veränderungssperre Nr. 114 - mehrheitlich beschlossen
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 37.1: Für eine faires, transparentes und bürokratiearmes Grundsteuermodell - mehrheitlich abgelehnt
+- TOP 37.2: Digitale Endgeräte auch für die Abiturjahrgänge an den Berufskollegs - einstimmig geändert beschlossen
+- TOP 38: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 38.1: Städtische Digitalisierung endlich steuern können - verwiesen
+- TOP 38.2: Eine Smart City Konferenz für Münster - verwiesen
+- TOP 38.3: Digitale Sitzungen für die Gremienarbeit ermöglichen - verwiesen
+- TOP 38.4: Ersthelfer APP einführen / Defibrillatoren erfassen / Ehrenamtliche einbinden - verwiesen
+- TOP 38.5: Verkehrssicherheit für Eichhörnchen erhöhen - verwiesen
+- TOP 38.6: Frühkindliche Bildung und Bewegung fördern, Bewegungskindergärten weiter ausbauen - verwiesen
+- TOP 38.7: Eine Task Force für moderne Verwaltung - verwiesen
+- TOP 38.8: Transportwege als Kraftwerke nutzen- Solarradweg auf einer Musterstrecke erproben - verwiesen
+- TOP 38.9: Gesundheit für Alle – der Gesundheitskiosk und die Gesundheitsleeze für Münster - verwiesen
+- TOP 38.10: Pilotprojekt Agroforstwirtschaft: Alte Wege in der Landwirtschaft neu gehen - verwiesen
+- TOP 39: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 40: Verschiedenes
