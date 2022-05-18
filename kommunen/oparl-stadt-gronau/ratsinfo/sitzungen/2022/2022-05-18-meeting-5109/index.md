@@ -1,0 +1,54 @@
+# Rat (18. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2022-05-18T18:00:00+02:00
+- Ende: 2022-05-18T23:14:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeVm2yGKm47OlEZQZBXEXZs
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5109
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd9J49jkpomGJZubKYSqBZULftuHkGRxUtajq7UK2tkY/Bekanntmachung_Rat_18.05.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSEEHPx8oLSeD3L6J4DcZnfP0WdMqnhxSA_ED18b-yTA/Oeffentliche_Niederschrift_Rat_18.05.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 06.04.2022
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Antrag der Fraktion pro:Bürgerschaft vom 02.04.2022; Erstellung eines Kredittilgungsplanes nebst Aufstellung der Folgekosten-, Lebenszyklus-Bilanzen der größeren Bauvorhaben
+- TOP 3.2: Antrag der WEG-Fraktion vom 12.04.2022; Kostenfreie Sondernutzung öffentlicher Flächen 2022 - Einstimmig, 0 Enthaltungen
+- TOP 3.3: Antrag der Fraktion pro:Bürgerschaft vom 03.05.2022 "Soziale Leistungen; hier: Neujustierung der Richtwerte für die Nettokaltmiete und kalten Nebenkosten“ - Einstimmig, 0 Enthaltungen
+- TOP 3.4: Antrag der Fraktion pro:Bürgerschaft vom 07.05.2022; Umsetzungssachstand bzgl. der Entfristung des Kita-Personals nebst der Stellen in den Schulsekretariaten
+- TOP 3.4.1: Antrag der Fraktion pro:Bürgerschaft vom 07.05.2022; Umsetzungssachstand bzgl. der Entfristung des Kita-Personals nebst der Stellen in den Schulsekretariaten
+- TOP 3.5: Antrag der Fraktion GAL/Die LINKE vom 08.05.2022; Reduzierung des Energieverbrauchs - Einstimmig, 1 Enthaltungen
+- TOP 4.: Vorstellung eines Hotelprojekts im Bereich des Dinkellagers durch die Projektentwickler/Investoren
+- TOP 5.: Überlegungen zur Weiterentwicklung des Inselparks - Einstimmig, 1 Enthaltungen
+- TOP 6.: Rathausneubau in der Bahnhofstrasse - 34 Jastimmen, 9 Neinstimmen, 2 Enthaltungen
+- TOP 7.: Maßnahmenkatalog für das Klimaschutzkonzept - 43 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 7.1: Maßnahmenkatalog für das Klimaschutzkonzept
+- TOP 8.: Eigenbeteiligung der Schülerinnen und Schüler (SuS) für die Bereitstellung von Endgeräten - Einstimmig, 0 Enthaltungen
+- TOP 9.: Beteiligungsbericht 2019 der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 10.: Budgetbericht für das I. Quartal 2022
+- TOP 11.: Stellplatzsatzung Stadt Gronau - 17 Jastimmen, 27 Neinstimmen, 1 Enthaltungen
+- TOP 11.1: Stellplatzsatzung Stadt Gronau
+- TOP 11.2: Stellplatzsatzung Stadt Gronau
+- TOP 12.: Bebauungsplan Nr. 184 "Nordwestlich der Kurfürstenstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 2 Enthaltungen
+- TOP 13.: Personalplanung: Entfristung der Stellen 350.051, 350.052, 350.053 - Einstimmig, 0 Enthaltungen
+- TOP 14.: Sachstand zur Corona-Pandemie (Stand: 10.05.2022)
+- TOP 15.: Sachstand zur Ukraine-Flüchtlingssituation (Stand 10.05.2022)
+- TOP 16.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften und Wahl eines/einer Aufsichtsratsvorsitzenden - Einstimmig, 0 Enthaltungen
+- TOP 17.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 18.: Mitteilungen der Verwaltung
+- TOP 18.1: LEADER-Förderung ab 2023
+- TOP 19.: Anfragen
+- TOP 19.1: Gehege im Tierpark (Anfrage von RM Buchholz)
+- TOP 19.2: Umwidmung Bahnhofstraße (Anfrage von RM Krause)
+- TOP 19.3: Reinigungszyklus in der Innenstadt (Anfrage von RM Gabbe)
+- TOP 19.4: Innenstadtsanierung (Anfrage von RM Bisso)
+- TOP 19.5: Bodenbelag um alte Bäume (Anfrage vom 2. Stellv. d. BM Bajorath)
+- TOP 19.6: Standort Kita Janosch (Anfrage von RM Buchholz)
+- TOP 19.7: Sitzgelegenheiten bei den Wasserspielen (Anfrage von RM Kernebeck)
+- TOP 19.8: Flächen am Tieker Damm (Anfrage vom 2. Stellv. d. BM Bajorath)
