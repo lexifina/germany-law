@@ -1,0 +1,161 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2022-05-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6944943
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6944943
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Nachbesetzung im UA Mobilität
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Orleanshöfe
+- TOP 5.2.: Pariser Str. 30: Zwischen- und Nachnutzung
+- TOP 5.3.: Erhaltungssatzungsgebiet Untere Au Nordost
+- TOP 5.4.: Johannisplatz 12: Bessere Radlständer und evtl. Bäume
+- TOP 5.5.: Zentrale Ladezonen für den Lieferverkehr
+- TOP 5.6.: Parkhaus am Ostbahnhof, Kaufhaus am Ostbahnhof (Anfrage)
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: 75 Jahre Bezirksausschüsse – Festakt / Informationskampagne und Darstellung der personellen Mehrbedarfe in der Abteilung für Bezirksausschussangelegenheiten Anhörungsfrist: 11.05.2022, Vorabstellungnahme durch den Vorsitzenden
+- TOP 6.1.2.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt Mai 2022
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Verein zur Förderung urbaner Kunst e.V. Kunst am Zug. Olympia S-Bahn meets CPA Basel vom 13.-15.05.2022 1.570,00 € / 0262.0-5-0390
+- TOP II.2.: (E) Stadtbezirksbudget Initiative „Hope/less“ Hope/less von Juni bis September 2022 7.000,00 € / Az. 0262.0-5-0389
+- TOP II.3.: (E) Stadtbezirksbudget Ali Wünsch München e.V. Theaterstück: "Gretchen 89ff" von Lutz Hübner mit der Theatergruppe Brettgeflüster vom 30.05.2022 - 23.10.2022 1.200,00€; Az. 0262.0-5-0394
+- TOP II.4.: (E) Stadtbezirksbudget JET LEG, Biennale der Kunst und Kultur Museum Mobile vom 20.08 bis 24.09 3.750,00€; Az. 0262.0-5-0393
+- TOP II.5.: (E) Stadtbezirksbudget Wir in Giesing e.V. Ois Giasing Sommer 2022 vom 2.7.2022 bis 2.10.2022 6.000,00€; Az. 0262.0-5-0396
+- TOP II.6.: Graffiti Gestaltung Tassiloplatz Antwort Baureferat zum Schreiben BA vom 31.03.2022
+- TOP II.7.: Verpflichtung des Veranstalters zur Abgabe günstiger Eintrittskarten (5-10 %) bei Förderung aus dem BA-Budget Verweisung in den UA Kultur aus der Sitzung vom 27.04.2022
+- TOP II.8.: Tag des offenen Denkmals am 11.09.2022; Motto "KulturSpur. Ein Fall für den Denkmalschutz"
+- TOP II.9.: Straßentheater PLAN H am 03.07.2022 am Bordeauxplatz - Anhörung
+- TOP II.10.: Toilettenhäuschen Preysing-/Kellerstraße, Ergebnis Ortstermin am 11.05.2022
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget AGKJ Ernährungs- und Bewegungsprojekt für alle Kinder und Jugendlichen am 03.07.22 815,00 € / Az. 0262.0-5-0391
+- TOP 1.2.: (E) Stadtbezirksbudget THW Förderverein München Ost e.V. Beschaffung eines Pkw 5.000,00 € / Az. 0262.0-5-0392
+- TOP 2.: Anhörungen
+- TOP 2.1.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2023
+- TOP 2.2.: Parkbänke aufstellen Stellungnahme erforderlich
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Generalsanierung und Erweiterung des Jugendtreff Am Kegelhof: Wo stehen wir mit den Planungen für die Realisierung?
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Vorschlag Tassilo-Spielplatz hundefrei
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Nutzung des Mariahilfplatzes zur Weihnachtszeit / Bespielung durch den Märchenbazar Empfehlung Nr. 20-26 / E 00092 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021 Weiterhin keine kommerzielle Nutzung des Mariahilfplatzes Empfehlung Nr. 20-26 / E 00106 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021 Nutzung des Mariahilfplatzes durch einen Konzertveranstalter abwenden Empfehlung Nr. 20-26 / E 00107 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021 Beteiligung der Bewohner bei der künftigen Nutzung des Mariahilfplatzes Empfehlung Nr. 20-26 / E 00104 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021 Sitzgelegenheiten am Mariahilfplatz schaffen Empfehlung Nr. 20-26 / E 00117 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 08.07.2021
+- TOP 1.2.: Anträge und Wortmeldungen aus der Einwohnerversammlung vom 25.04.2022 zum Thema "Zukünftige Nutzung und Gestaltung des Mariahilfplatzes" => Protokoll
+- TOP 1.3.: (E) Stadtbezirksbudget Initiative München Bordeaux e.V. Partnerschaftsfest München-Bordeaux auf dem Bordeauxplatz (Wörthstr.) am 28.05.2022 5.516,00€; Az. 0262.0-5-0395
+- TOP 1.4.: Erweiterung einer bestehenden Freischankfläche: "Rue des Halles", Steinstr. 18
+- TOP 1.5.: ASZ-Flohmarkt auf dem Gehweg, Wolfgangstr. 18 am 25.06.2022
+- TOP 2.: Anhörungen
+- TOP 2.1.: Isarinselfest 2022 vom 2.9.-4.9.22 zwischen Ludwigs- und Maximiliansbrücke, Steinsdorferstraße mit Seitenstr., Vater Rhein Brunnen, Mariannenplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schild auf dem Bordeauxplatz für die Initiative München Bordeaux e.V.
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Einspruch gegen die Freischankfläche "Weinhäusl", Wiener Platz 4; Zwischenmitteilung Bezirksinspektion
+- TOP 4.2.: Neubeurteilung der Ablehnung des Schanigartens im Baumgraben für das "Cafe Voila", Wörthstr. 5
+- TOP 4.3.: Erweiterung einer bestehenden Freischankfläche: "Neulinger", Wörthstr. 17 (Bitte um nochmalige Entscheidung durch den Inhaber)
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Edlingerstr. 20: Einbau einer Gaube Anhörungsfrist: 13.05.2022
+- TOP 2.2.: Kirchenstr. 88: Nutzungsänderung: Lager zu Büro, Abbruch und Neubau, Ausbau Dachgeschoss zu Wohnungen
+- TOP 2.3.: Kirchenstr. 96: Sanierung, Erweiterung und Aufstockung eines Wohn- und Geschäftsgebäudes, Tektur dazu: Baumfällungen
+- TOP 2.4.: Kellerstr. 25: Errichten eines Personenaufzugs sowie von Balkonen hofseitig, Ausbau 2. Dachgeschoss als zusätzliche Wohneinheit oder 1 Maisonette und 1 WE getrennt, Einbau einer Photovoltaikanlage auf einem Dach, Errichten von Dachterrassen hofseitig, Vorbescheid
+- TOP 2.5.: Mariahilfstr. 14: Nutzungsänderung einer Metzgerei in Büro/Laden/Praxis (Erdgeschoss) sowie im Dachgeschoss von Personalwohnheim zu zwei Wohnungen
+- TOP 2.6.: Untere Feldstr. 4: Umbau und Modernisierung eines Einfamilienhauses mit 2 Stellplätzen
+- TOP 2.7.: Franziskanerstr. 15: TEKTUR zu 1.2-2021-11403-21 - Neubau eines Mehrfamilienhauses mit Tiefgarage (Mobilitätskonzept) und Sanierung eines Mehrfamilienhauses (Franziskanerstr. 15 / Rablstr. 43)
+- TOP 2.8.: Falkenstr. 21: Neubau eines Wohnhauses mit Laden und Tiefgarage - TEKTUR zu 1.202-2021-2986-21
+- TOP 2.9.: Zeppelinstr. 5: Teilnutzungsänderung einer Ladenfläche im EG für Gastronomie
+- TOP 2.10.: Orleanspl. 7: Erweiterung eines Lebensmittelnahversorgungsmarktes durch Nutzungsänderung der angrenzenden Postfilialefläche
+- TOP 2.11.: Franziskanerstr. 45: 1.Teilung einer zusammengehörigen Ladenwohnung EG links (2) in einen eigenständigen Laden (2) und eine eigenständige Wohnung (3) 2.Teilung des Ladengeschäfts Einheit (1) in zwei Einheiten und Nutzungsänderung einer Ladennutzung (1) zu Wohnungsnutzung (14)
+- TOP 2.12.: Bazeillesstr. 9: Neubau eines Apartmenthauses (7 WE) - TEKTUR zu 1.2-2015-17912-21 - HIER: Änderung Freiflächengestaltungsplan
+- TOP 2.13.: Orleansstr. 44: Schulbauoffensive - Erweiterungsbau, Abbruch und Neubau einer FOS / BOS (Orleansstr. 44-46 / Orleanspl. 13) dazu: Baumfällungen
+- TOP 2.14.: Schneckenburgerstr. 6: Neubau eines Zentrums für die Behandlung und Erforschung der Multiplen Sklerose (Bau 554)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Markt am Wiener Platz: Wo stehen wir mit den Planungen für die Sanierung ?
+- TOP 3.2.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.3.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Berücksichtigung eines Supermarkts im Neubau Lucile-Grahn-Str. 23 / Einsteinsteinstraße
+- TOP 4.2.: Bauliche Änderungen (Ausgang zur Freischankfläche) im ASZ Haidhausen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Ausweisung von mehr Fahrradstraßen Empfehlung Nr. 20-26 / E 00103 der Bürgerversammlung des 05. Stadtbezirkes Au-Haidhausen am 08.07.2021
+- TOP 1.2.: (E) + (U) Ismaninger Straße zwischen Prinzregentenstraße und Max- Weber-Platz als Tempo 30-Zone ausweisen Empfehlung Nr. 14-20 / E 03167 der Bürgerversammlung des Stadtbezirkes 05 – Au-Haidhausen am 23.01.2020
+- TOP 2.: Anhörungen
+- TOP 2.1.: Austausch einer Lichtsignalanlage a) Franziskaner-/Rablstraße b) Franziskaner-/Gebsattelstraße
+- TOP 2.2.: Erinnerungsverfahren Regerstr. 25: Herstellung 2. Ausfahrt McDonalds
+- TOP 2.3.: Erinnerungsverfahren Rablstr. 2: Sanierung Gehbahn, Fahrbahn und Parkbucht
+- TOP 2.4.: MVG-Leistungsprogramm 2023 dazu: Stellungnahme PRO BAHN dazu: Stellungnahme des Arbeitskreis Attraktiver Nahverkehr (AAN) im Münchner Forum
+- TOP 2.5.: Bestellung einer städtischen Leistung; Erweiterung der bestehenden Fahrradständer vor dem Gebäude Wörthstr. 32/34
+- TOP 2.6.: Ergebnisprotokolle zum Ortstermin Sommerstraßen Drächslstraße und Regerplatz; Festlegung durch den BA
+- TOP 2.7.: Ausgewiesener Radweg beidseitig Am Nockherberg Empfehlung Nr. 20-26 / E 00440 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 26.10.2021
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ampelkreuzung Preysing-/Metzgerstraße fahrradtauglich machen
+- TOP 3.2.: Rad- und Fußverkehr: Streuscheiben trennen
+- TOP 3.3.: Geplante Maßnahmen im Straßenunterhalt
+- TOP 3.4.: Beschlussvorlage Dialog-Displays Stellungnahme BA 1 Altstadt-Lehel
+- TOP 3.5.: Erweiterung der Fahrradabstellplätze in der Wörthstraße Antwort Baureferat zum Schreiben BA 5
+- TOP 3.6.: Ausstattung der Eingänge zum Mauersteg mit Schlössern und Schildern "Fahrradfahrer absteigen" Empfehlung Nr. 20-26 / E 00100 der Bürgerversammlung vom 08.07.2021 - endgültiger Beschluss -
+- TOP 3.7.: Fußgängerüberweg von der Albanistraße in die Frühlingsanlagen
+- TOP 3.8.: Sicherung der Gleisanlagen am Giesinger Feld durch die DB
+- TOP 3.9.: Mißbrauch Parklizenz ahnden / Anpassung der Parklizenzgebühr
+- TOP 3.10.: Verkehrsrechtliche Anordnungen a) Flurstr. 4; Entfernung von einem Haltverbot und zwei Zusatzzeichen b) Eduard-Schmid-Straße 3 und Eduard-Schmid-Straße 3 Seite Mariahilfstraße; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze c) Holzhofstraße 4; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze d) Milchstraße 1 auf gegenüber; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze e) Sedanstraße 18; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze f) Lothringer Straße 1; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze g) Rablstraße 29; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze h) Taubenstraße 4; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze i) Kolumbusstraße 9; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze j) Senftlstraße; Aufhebung der Bücherbushaltestelle an der Weilerschule k) Regerplatz; Einrichtung von absoluten Haltverboten zur Sicherstellung der Abfallentsorgung
+- TOP 3.11.: Zwischennachricht zu offenen BA-Anträgen des Bezirksausschusses des 5. Stadtbezirkes Au - Haidhausen
+- TOP 3.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.13.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Wegesicherheit in den öffentlichen Frühlingsanlagen
+- TOP 4.2.: Antrag für eine Radabstellanlage in der Regerstraße 20
+- TOP 4.3.: Zusammenarbeit im Forschungscluster MCube: Münchner Cluster für die Zukunft der Mobilität in Metropolregionen – AQT „Autoreduzierte Quartiere für eine lebenswerte Stadt“ Einladung der TU München am 25.05.2022
+- TOP 4.4.: Umnutzung eines Parkplatzes vor dem Anwesen Pütrichstr. 5 zu Lastenfahrrad-/Fahrradstellplätzen
+- TOP 4.5.: Verschlechterung der Situation in der Welfenstraße durch den Gorillas-Laden
+- TOP 4.6.: Überdachte Fahrradstellplätze schaffen
+- TOP 4.7.: Zwei Lieferzonen am Michael-Huber-Weg
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Anhebung der Untergrenze der Kosten für illegale Baumfällungen auf mindestens 3.000 Euro Antrag BA 11 Milbertshofen-Am Hart
+- TOP 3.2.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume
+- TOP 3.3.: Standortvorschläge für neue Wertstoffcontainer Sammelstellen Antwort AWM zum Schreiben BA 5 vom 21.03.2022
+- TOP 3.4.: Fällgenehmigung Max-Planck-Str. 1
+- TOP 3.5.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Antrag für Baumpflanzung in Kübeln in der Sedanstraße
+- TOP 4.2.: Schwammstadt - Wassermangel für Grünanlagen vorbeugen
+- TOP 4.3.: Parties an der Isar: Sperrung der Bereiche unter der Wittelsbacher- und Reichenbachbrücke zur Verhinderung des Musikhalls
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 20.06.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 20.06.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 21.06.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 22.06.2022, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 22.06.2022, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 23.06.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Videokonferenz statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 29.06.2022, 19.00 Uhr, Katholische Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Dienstag, 14.06.2022, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP II.11.: The Urge - Tanzperformance am 29.06.2022 am Wiener Platz; Anhörung
+- TOP 2.2.: Schulabschlussfest für Kinder und Jugendliche von 6-14 Jahren am 20.07.2022 auf der Postwiese (Haidhausen: Lothringer Straße / Pariser Straße) von 15.00 bis 18.00 Uhr
+- TOP 2.3.: Partnerschaftsfest München-Bordeaux am 28.05.2022 auf dem Bordeauxplatz
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - UA Kultur, TOP 11: The Urge - Tanzperformance am 29.06.2022 am Wiener Platz; Anhörung - UA Soziales, TOP 2.2: Parkbänke aufstellen - UA Wirtschaft, TOP 1.5: ASZ-Flohmarkt auf dem Gehweg am 25.06.2022 - UA Wirtschaft, TOP 1.6-1.8: Freischankflächenanträge - UA Wirtschaft, TOP 2.2: Schulabschlussfest am 20.07.2022 auf der Postwiese - UA Wirtschaft, TOP 2.3: Partnerschaftsfest München-Bordeaux am 28.05.2022 auf dem Bordeauxplatz - UA Planung,TOP 2.7-2.14: Bauvorhaben
+- TOP 1.6.: Genehmigung einer Freischankfläche: „Sorry Nonna“, Lilienstr. 7
+- TOP 1.7.: Genehmigung einer Freischankfläche: “Cafe Morso“, Kellerstr. 41
+- TOP 1.8.: Genehmigung einer Freischankfläche (Parkfläche): “Cafe Morso“, Kellerstr. 41
