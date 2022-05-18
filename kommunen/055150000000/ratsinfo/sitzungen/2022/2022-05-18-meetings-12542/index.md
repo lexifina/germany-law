@@ -1,0 +1,59 @@
+# 12. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-05-18T16:04:00+02:00
+- Ende: 2022-05-18T17:51:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12542
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12542
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00508254.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2022) - einstimmig beschlossen
+- TOP 3: Fortführung des Digitalisierungsprogrammes an Münsteraner Schulen aller Schulformen in städtischer Trägerschaft - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Musik-Campus: Konkretisierung der Grundsatzbeschlüsse - ohne Beschlussfassung geschoben
+- TOP 4.1: Musik-Campus: Konkretisierung der Grundsatzbeschlüsse
+- TOP 5: Satzung zur Änderung der Hauptsatzung und Änderung der Zuständigkeitsordnung - einstimmig beschlossen
+- TOP 6: Satzung zur Änderung der Hauptatzung aufgrund von Regelungsbedarfen durch Änderungen in der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) - einstimmig beschlossen
+- TOP 7: Neuordnung der Dezernatsverteilung und Teilung des Rechts- und Ausländeramtes - von der Tagesordnung abgesetzt
+- TOP 8: Verfahren zur Wahl der Kommunalen Seniorenvertretung Münster 2022 - einstimmig beschlossen
+- TOP 9: Bedarf von zusätzlichen Büroräumen im Erdgeschoss des Gebäudes Hafenstraße 30/32, 48153 Münster (Stadtbezirk Mitte) - einstimmig beschlossen
+- TOP 10: Entwurf des NKF-Gesamtabschlusses der Stadt Münster zum 31.12.2019 - einstimmig beschlossen
+- TOP 11: Umwidmung der Verkehrsservice Gesellschaft Münster mbH in die Bauwerke Münster GmbH und Satzungsänderung - einstimmig beschlossen
+- TOP 12: Anpassung der Gesellschaftsverträge der items management GmbH und der items GmbH & Co.KG - einstimmig beschlossen
+- TOP 13: Entwicklungsorientierte Wohnungsmarktbeobachtung in der Stadtregion Münster "eWoMaB" - Inhalte und Schlussfolgerungen - ohne Beschlussfassung geschoben
+- TOP 14: Resilienzstrategie und Handlungskonzept für den Aasee - einstimmig beschlossen
+- TOP 15: Stärkung der Innenstadt: Handlungsfelder und Leitziele für Münsters Innenstadt - Erarbeitung des integrierten städtebaulichen Entwicklungskonzeptes Münster-Innenstadt (INSEK MS-Innenstadt) - einstimmig beschlossen
+- TOP 16: Integrationsmonitoring 2020/2021 - einstimmig beschlossen
+- TOP 16.1: Integrationsmonitoring 2020/2021
+- TOP 16.1.1: Integrationsmonitoring 2020/2021
+- TOP 17: Änderung der Tarifbestimmungen, Haus- und Badeordnung und der allgemeinen Bedingungen für die Benutzung der städtischen Bäder - einstimmig beschlossen
+- TOP 17.1: Änderung der Tarifbestimmungen, Haus- und Badeordnung und der allgemeinen Bedingungen für die Benutzung der städtischen Bäder
+- TOP 18: Konzeptionelle Neuausrichtung der Lernwerkstätten der Schulpsychologischen Beratungsstelle - einstimmig beschlossen
+- TOP 18.1: Konzeptionelle Neuausrichtung der Lernwerkstätten der Schulpsychologischen Beratungsstelle
+- TOP 19: Bildungsnetzwerk - einstimmig beschlossen
+- TOP 20: Europa.Brücke.Münster plus - Zuschussantrag der Bischof-Hermann-Stiftung - ohne Beschlussfassung geschoben
+- TOP 21: Wahl des künftigen Fachbeirats für den Geschichtsort Villa ten Hompel - einstimmig beschlossen
+- TOP 22: Durchführung und Finanzierung der Ausstellung Skulptur Projekte 2027 - einstimmig beschlossen
+- TOP 23: Beitritt zum WHO-Netzwerk Age-friendly Cities and Communities - einstimmig beschlossen
+- TOP 24: Grundsatzbeschluss Baumschutzsatzung - ohne Beschlussfassung geschoben
+- TOP 25: Sauberkeit im öffentlichen Raum - ohne Beschlussfassung geschoben
+- TOP 25.1: Sauberkeit im öffentlichen Raum
+- TOP 26: Erweiterung Norbertschule zur 4-Zügigkeit - einstimmig beschlossen
+- TOP 27: Änderung der Betriebssatzung der Stadt Münster für die Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 28: European Energy Award 2022 - Energiepolitisches Arbeitsprogramm - ohne Beschlussfassung geschoben
+- TOP 29: Grundsätze für die Vergabe städtischer Grundstücke - Mehrfamilienhäuser und Gemeinschaftswohnformen - - einstimmig beschlossen
+- TOP 30: Bauleitplanung
+- TOP 30.1: Stadtbezirk Mitte
+- TOP 30.1.1: Bebauungsplan Nr. 612 - Geänderter Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 30.1.2: Vorhabenbezogener Bebauungsplan Nr. 630 - Zölibad - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 30.2: Stadtbezirk Südost
+- TOP 30.2.1: 1. Verlängerung der Veränderungssperre Nr. 114 - ohne Beschlussfassung geschoben
+- TOP 31: Verschiedenes
