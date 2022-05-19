@@ -1,0 +1,71 @@
+# 12. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-19T17:00:00+02:00
+- Ende: 2022-05-19T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25321
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25321
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohneranfrage "Netzelement 4-Östlicher Ringschluss (Autostraße am Kalkberg) - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Einwohneranfrage Fahrradabstellanlage Kantstraße - Kenntnis genommen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Stadtverwaldung statt Stadtverwaltung – hier Bezirk Kalk - ungeändert beschlossen
+- TOP 7.2: Verkehrsberuhigung auf der Kurze Straße in Köln-Kalk - geändert beschlossen
+- TOP 7.3: Unterstützung der Sportvereine bei der Verlegung der Sportplätze - geändert beschlossen
+- TOP 7.4: Parkende LKW am Rather Kirchweg - ungeändert beschlossen
+- TOP 7.5: Neuordnung des Verkehrs am Höhenberger Sportpark - zurückgestellt
+- TOP 7.6: Befestigung von Trampelpfaden zwischen Eiskaulenweg und Oberer Bruchweg - geändert beschlossen
+- TOP 7.7: Sicherung Querung Brücker Mauspfad Höhe Kleinfeldchensweg - geändert beschlossen
+- TOP 7.8: Rückbau der Garagen aus dem Eigentum der DB an der Germaniastraße in Köln-Höhenberg - ungeändert beschlossen
+- TOP 7.9: Fahrradschutzstreifen auf der gesamten Kalker Hauptstraße - geändert beschlossen
+- TOP -: Änderungs- bzw. Ersetzungsantrag "Fahrradschutzstreifen auf der gesamten Kalker Hauptstraße"/ Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 7.10: Untragbare Zustände an der Kalker Kapelle - geändert beschlossen
+- TOP -: Verbesserung der Situation an Kalk Kapelle - ungeändert beschlossen
+- TOP 7.11: Vergabe der Trägerschaft Gräfenhof an die Brücker Bürgergemeinschaft e.V. in Bezug zu TOP 10.2.7 - geändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Baubeschluss zur Herstellung eines gemeinsamen Geh- und Radweges als Verbindungsweg zwischen der Thessaloniki-Allee und der Vietorstraße - geändert beschlossen
+- TOP 8.1.2: Straßenbaumkonzept Kalk - geändert beschlossen
+- TOP 8.1.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Parkgebührenregelung an E-Ladesäulen - ungeändert beschlossen
+- TOP 8.2.2: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - geändert beschlossen
+- TOP -: Bekräftigung der gefassten BV-Beschlüsse zum Regionalplan ÄA zu TOP 8.2.2 - geändert beschlossen
+- TOP 8.2.3: Umsetzung des Integrierten Stadtentwicklungskonzepts Köln im Programmgebiet „Ostheim und Neubrück“ - ungeändert beschlossen
+- TOP 8.2.4: Projektanträge im Rahmen des siebten Antragsdurchlaufs des Verfügungsfonds für das So-ziale-Stadt-Gebiet „Humboldt/Gremberg und Kalk - ungeändert beschlossen
+- TOP 8.2.5: TU-/GU-Schulbaumaßnahme: Aula der Katharina-Henoth-Gesamtschule Adalbertstraße durch Totalunternehmen - Planungs-, Bau- und Mittelfreigabebeschluss - ungeändert beschlossen
+- TOP 8.2.6: Ordnungsbehördliche Verordnung für das Jahr 2022 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Sachstand Zebrastreifen in der Lüderichstraße Odenwaldstraße in Köln-Humboldt/Gremberg - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen vom 09.04.2021 (AN/0694/2020) - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Ausweitung des Güterverkehrs auf dem Güterbahnhof Köln Kalk - ungeändert beschlossen
+- TOP 9.2.1.1: Ausweitung des Güterverkehrs auf dem Güterbahnhof Köln-Kalk - ungeändert beschlossen
+- TOP 9.2.2: Sachstand Instandsetzung der Abgrenzung des Bachbetts in der Abshofstraße - ungeändert beschlossen
+- TOP 9.2.3: Beschilderung Steprathstraße - ungeändert beschlossen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Anlegen einer Busspur auf der Frankfurter Straße - zurückgestellt
+- TOP 10.2.2: Neugestaltung und Erweiterung der Skateanlage am Merheimer Heideweg/ Günter-Kuxdorf-Weg in Köln-Höhenberg - Kenntnis genommen
+- TOP 10.2.3: nicht besetzt ( ursprüngliche Vorlage wurde nach TOP 9.1.1 verschoben)
+- TOP 10.2.4: Berichtswesen Beschlüsse der Gremien (beschluss- und projektbezogene Berichterstattung) - Kenntnis genommen
+- TOP 10.2.5: Drogenkonsumraum Kalk - Infoveranstaltung - Kenntnis genommen
+- TOP 10.2.6: Jahresbericht 2021 - Obstwiesen - Kenntnis genommen
+- TOP 10.2.7: Sachstand zur ehemaligen KiTa Am Gräfenhof in Köln- Brück - zu AN/0685/2021 aus der Sitzung vom 22. April 2021 - Kenntnis genommen
+- TOP 10.2.8: Tempo 30-Zone in Köln-Humboldt/Gremberg (Rolshover Straße/Singhofener Straße) - Kenntnis genommen
+- TOP -: Übersicht BV Anfragen Stand 19.05.2022 - Kenntnis genommen
