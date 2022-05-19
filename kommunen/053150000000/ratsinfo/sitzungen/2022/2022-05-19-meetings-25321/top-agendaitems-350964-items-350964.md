@@ -1,0 +1,8 @@
+# TOP -: Verbesserung der Situation an Kalk Kapelle
+
+- Sitzung: 12. Sitzung der Bezirksvertretung Kalk (2022-05-19)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/350964
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/163540
