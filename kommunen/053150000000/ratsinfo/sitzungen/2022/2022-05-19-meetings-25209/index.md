@@ -1,0 +1,66 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-19T16:00:00+02:00
+- Ende: 2022-05-19T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25209
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25209
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion DIE FRAKTION betreffend Vernetzung von Ökosystemen auf Kölner Stadtgebiet - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0671/2022 - Vernetzung von Ökosystemen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 1.2: Gemeinsame Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt betreffend Zusätzliche Reinigungsleistungen in der Open-Air-Saison - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.3: Gemeinsame Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt betreffend Invasive Wildgänse in Köln - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.4: Gemeinsame Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt betreffend Neubewertung von Energiesparmaßnahmen im öffentlichen Raum - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Gemeinsamer Antrag der Fraktionen DIE LINKE. DIE FRAKTION und der Klimafreunde betreffend Erfassung der Flächenversiegelung - endgültig zurückgezogen
+- TOP -: Gemeinsamer Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt betreffend Erfassung der Flächenversiegelung - Sache ist erledigt
+- TOP -: Versiegelungskataster & Entsiegelungskataster Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 2.2: Gemeinsamer Antrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt betreffend Konzept zur Erfassung der Energieverbräuche in städtischen Gebäuden - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 2.2 (AN/1013/2022) - ungeändert beschlossen
+- TOP 2.3: Gemeinsamer Antrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt betreffend Anlage von Kleingewässern - ungeändert beschlossen
+- TOP 2.4: Antrag der Fraktion DIE FRAKTION betreffend Konzept für wirksameren Schutz von Bäumen im Stadtgebiet Köln - endgültig abgelehnt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Zuschussgewährung Stromsparcheck der Caritas (Fortführung bis 31.03.2023) - ungeändert empfohlen
+- TOP 3.2: Kommunale Wärmeleitplanung - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - mit Änderungen empfohlen
+- TOP 4.1.2: Umbau der Kasemattenstraße in Köln-Deutz zur Klimaanpassung („Klimarobuste Kasemattenstraße“) - ungeändert empfohlen
+- TOP 4.1.3: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.1.4: Sanierung der Trauerhalle auf dem Friedhof Weiß und Umnutzung als Kolumbarium - Bedarfsfeststellungs- und Baubeschluss - ungeändert empfohlen
+- TOP 4.1.5: Sanierung der alten Trauerhalle auf dem Friedhof Melaten und Umnutzung als Kolumbarium - Bedarfsfeststellungs- und Baubeschluss - ungeändert empfohlen
+- TOP 4.1.6: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Satzungsänderung - ungeändert empfohlen
+- TOP 4.1.7: Neubeschaffung der Fahrzeuge und Einrichtung der 19 Mehrstellen für die Baumpflege entsprechend des Wirtschaftlichkeitsvergleiches "Make or Buy" - ungeändert empfohlen
+- TOP 4.1.8: Stadtbahn Bonn-Niederkassel-Köln (Linie 17) und Verlängerung Linie 7 - mit Änderungen empfohlen
+- TOP 4.1.9: Änderung des Statuts für den Umweltschutzpreis - ungeändert empfohlen
+- TOP 4.1.10: Abriss von vier Sozialhäusern und Neubau von zwei Gebäuden zur öffentlich rechtlichen Unterbringung obdachloser oder von Obdachlosigkeit bedrohter Personen in konventioneller Bauweise sowie Abriss einer Kindertagesstätte und Neubau einer Kindertagess - zurückgestellt
+- TOP 4.1.11: Erneuerung der Wasserversorgungsleitungen auf dem Kölner Südfriedhof - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Beschluss der Bezirksvertretung Porz per Dringlichkeit (AN 2329): "Erhaltung einer Trauerweide in der Mühlenstraße 6-8“ - geändert beschlossen
+- TOP 4.2.2: Konzept "Essbare Stadt" und Urban Gardening - Zuschüsse für Gemeinschaftsgärten - ungeändert beschlossen
+- TOP 4.2.3: Ersatzbeschaffung von 2 LKW mit Hakenlift für den Friedhofsbereich - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Vergabe Stadtklima und Stadtverschönerungsmittel 2022 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2022 im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 7.3: Aufschub von Lärmsanierungsmaßnahmen der DB AG im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 7.4: Energiebericht 2021: Energieverbrauchs- und Kostenstatistik 2010/Sachstand Energiemanagementkonzept 2021 - Kenntnis genommen
+- TOP 7.5: Sachstand Planungsfortschritt Wasserstoff-Pipeline AN/0266/2022 - Kenntnis genommen
+- TOP 7.6: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 7.7: Kölner Statistische Nachrichten 5/2022 – Kraftfahrzeuge 2021 - Kenntnis genommen
+- TOP 7.8: Jahresbericht 2021 - Obstwiesen - Kenntnis genommen
+- TOP 7.9: Entlastungen bei der Steigerung der Energiepreise intensivieren - Kenntnis genommen
+- TOP 7.10: Sachstand zum Themenkomplex Klimawandelanpassung - Kenntnis genommen
+- TOP 7.11: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 4. Mai 2022 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
