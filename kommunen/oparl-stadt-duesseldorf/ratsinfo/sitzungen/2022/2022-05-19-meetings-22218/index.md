@@ -1,0 +1,97 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-19T14:00:00+02:00
+- Ende: 2022-05-19T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22218
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22218
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 19.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00449575.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 19.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00449575.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 19.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00449575.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 10.03.2022 (SI-RAT/002/2022) - einstimmig beschlossen
+- TOP 3: Auswirkungen des Ukraine-Krieges auf die Landeshauptstadt Düsseldorf (mündlicher Bericht) - zur Kenntnis genommen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Störungen der Wahlkampfveranstaltungen von Bündnis 90 / Grüne am 13. Mai 2022 und FDP am 14. Mai 2022 - schriftlich beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Wahlparty der NRW-CDU am 15. Mai 2022 und der damit verbundenen Lärmbelästigungen - schriftlich beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Vorfall "Hausbar in Düsseldorf verwehrt Schwarzen den Eintritt" - schriftlich beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Urteil des Oberverwaltungsgerichts Münster zur Nicht-Freigabe eines verkaufsoffenen Sonntags im Zusammenhang mit der Messe ProWein am Sonntag, dem 15.05.2022 - schriftlich beantwortet
+- TOP 4.5: Anfrage aus aktuellem Anlass der Ratsfrau Krüger: Wahlbeteiligung und die damit verbundenen Folgen - schriftlich beantwortet
+- TOP 4.6: Anfrage aus aktuellem Anlass der Ratsfrau Krüger: Angriff auf drei Mitarbeiter vom Ordnungs- und Servicedienst am 14. Mai 2022 - schriftlich beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Planungen des SEBD zum naturnahen Rückbau der Düsseldorf in Vennhausen und den damit verbundenen Fällungen von Bäumen, Büschen und Sträuchern - schriftlich beantwortet
+- TOP 5.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: energetische Sanierungen, Ökostrom, regenerative Energien und Neubauten nach dem "Cradle to cradle" Prinzip - schriftlich beantwortet
+- TOP 5.3: Anfrage der SPD-Ratsfraktion: Anfragebeantwortung in den Bezirksvertretungen - schriftlich beantwortet
+- TOP 5.4: Anfrage der FDP-Ratsfraktion: Telearbeit/Mobiles Arbeiten - schriftlich beantwortet
+- TOP 5.5: Anfrage der FDP-Ratsfraktion: Auswirkung der steigenden Grundstückspreise auf den Geschosswohnungsbau - schriftlich beantwortet
+- TOP 5.6: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Grundsätze bei der Beurteilung der Zulässigkeit von Anträgen an den Rat - schriftlich beantwortet
+- TOP 5.7: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/ DIE GRÜNEN: Wie ist der Stand der Adler-Projekte am Hauptbahnhof und am Mörsenbroicher Ei? - schriftlich beantwortet
+- TOP 5.8: Anfrage des Ratsherrn Lemmer: Solitärbuchstabe "Z" in der Kfz-Zulassung - schriftlich beantwortet
+- TOP 5.9: Anfrage des Ratsherrn Lemmer: Steuermehreinnahmen in Düsseldorf durch die Waffenlieferungen von Rheinmetall in die Ukraine - schriftlich beantwortet
+- TOP 5.10: Anfrage des Ratsherrn Droste: Hilfe für Geflüchtete aus der Ukraine in Düsseldorf - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - schriftlich beantwortet
+- TOP 8: Bericht aus der Kleinen Kommission Kunstpalast - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Opernhaus der Zukunft - zur Kenntnis genommen
+- TOP 10: Genehmigung einer Eilentscheidung gemäß § 60 Abs. 1 Satz 1 GO NRW: Freigabe eines verkaufsoffenen Sonntags im Zusammenhang mit der Messe ProWein am Sonntag, dem 15.05.2022 - zurückgezogen
+- TOP 11: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2018 - Bestätigung des Gesamtabschlusses - - einstimmig beschlossen
+- TOP 12: Entwurf Jahresabschluss 2021 der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 13: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen aus dem Jahresabschluss 2021 - zur Kenntnis genommen
+- TOP 14: Bewerbung der Landeshauptstadt Düsseldorf für die FIFA Frauen Fußball WM 2027 - mehrheitlich beschlossen
+- TOP 15: Neubau öffentliche Grünanlage mit Kinderspielplatz am Scheitenweg-Süd - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 16: Änderung der öffentlich-rechtlichen Vereinbarung der Trägergemeinschaft des Rettungshubschraubers "Christoph 9" - einstimmig beschlossen
+- TOP 17: Förderprogramm für die Anschaffung von Lastenrädern, Aufstockung in 2022 - mehrheitlich beschlossen
+- TOP 18: Benrodestraße 46, Rathaus Benrath, Denkmalgerechte Gesamtsanierung - Ausführungs- und Finanzierungsbeschluss - - mehrheitlich beschlossen
+- TOP 18.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage BAU/011/2022/1 - mehrheitlich abgelehnt
+- TOP 19: Akademiestraße 2 - Erhaltung des Standorts durch Modernisierung, Teilumbau und Anpassung der Gebäudestruktur - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 20: Abschluss einer öffentlich-rechtlichen Vereinbarung über die Durchführung der Beihilfebearbeitung - einstimmig beschlossen
+- TOP 21: Umsetzung des Kommunalen Integrationsmanagements (KIM) in der Landeshauptstadt Düsseldorf ab Juli 2022 - mehrheitlich beschlossen
+- TOP 22: Das 39er-Denkmal auf dem Reeser Platz - Bürger*innenbeteiligungsverfahren - einstimmig beschlossen
+- TOP 23: Worringer Straße 136-140, Erweiterungsumbau des Ordnungs- und Servicedienstes (OSD) - mehrheitlich beschlossen
+- TOP 24: Neubau Rad- und Fußgängerbrücke Kennedydamm -Bedarfsbeschluss- - abweichend beschlossen
+- TOP 24.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage OVA/036/2022 - abweichend beschlossen
+- TOP 25: Ausführungs- und Finanzierungsbeschluss – Erneuerung der Beleuchtungsanlage des Rheinufertunnels - mehrheitlich beschlossen
+- TOP 25.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage OVA/048/2022 - mehrheitlich abgelehnt
+- TOP 26: Bestimmung der Reihenfolge, in der die Beigeordneten bei Verhinderung des allgemeinen Vertreters des Oberbürgermeisters zur allgemeinen Vertretung berufen sind - einstimmig beschlossen
+- TOP 27: Wahl eines Delegierten in die Mitgliederversammlung des Vereins zur Förderung der Abfallwirtschaft Region Rhein-Ruhr-Wupper e.V. - mehrheitlich beschlossen
+- TOP 28: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 29: Handlungsfelder Nachhaltigkeit der Landeshauptstadt Düsseldorf - verwiesen
+- TOP 30: Entsendung von Mitgliedern des Integrationsrates als sachkundige Einwohner*innen in die Ratsausschüsse - mehrheitlich beschlossen
+- TOP 31: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See -Ersatzbestellung- - einstimmig beschlossen
+- TOP 32: Aufsichtsrat der D.LIVE GmbH & Co. KG - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 33: Beirat der Stadtwerke Düsseldorf AG - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 34: Kuratorium der Stiftung "Kunstsammlung Nordrhein-Westfalen" - mehrheitlich beschlossen
+- TOP 35: Begleit- und Beteiligungsgremium des Regionalmanagements Düsseldorf – Kreis Mettmann – -Ersatzbestellung- - einstimmig beschlossen
+- TOP 36: Mitgliederversammlung des Vereins „Metropolregion Rheinland e.V.“ -Ersatzbestellung- - einstimmig beschlossen
+- TOP 37: Verbandsversammlung des Zweckverbandes euregio rhein-maas-nord -Ersatzbestellung- - einstimmig beschlossen
+- TOP 38: Euregiorat des Zweckverbandes Euregio Rhein-Waal -Ersatzbestellung- - einstimmig beschlossen
+- TOP 39: Aufsichtsrat AWISTA Gesellschaft für Abfallwirtschaft und Stadtreinigung mbH - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 40: Verwaltungsrat Chemisches und Veterinäruntersuchungsamt Rhein-Ruhr-Wupper - Ersatzwahl - - einstimmig beschlossen
+- TOP 41: Kuratorium der Stiftung Museum Kunstpalast - Ersatzwahl - mehrheitlich beschlossen
+- TOP 42: Bestellung einer Prüferin und eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 43: Sportanlage Sankt-Franziskus-Straße - Bau eines Kunstrasenjugendspielfelds - einstimmig beschlossen
+- TOP 44: Aufnahme auswärtiger Kinder in städtischen Schulen - einstimmig beschlossen
+- TOP 45: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses am Schulstandort Siegburger Straße 137-149 - mehrheitlich beschlossen
+- TOP 46: Anträge
+- TOP 46.1: Antrag der SPD-Ratsfraktion: Corona-Pandemie - Solidarität Jugendlicher anerkennen: Freier Eintritt ins Freibad im Sommer 2022 - mehrheitlich abgelehnt
+- TOP 46.1.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/183/2022 - mehrheitlich abgelehnt
+- TOP 46.1.2: mündlicher Änderungsantrag der Ratsfraktion DIE LINKE - mehrheitlich abgelehnt
+- TOP 46.2: Antrag der SPD-Ratsfraktion: Den Internationalen Weltfrauentag den Frauen schenken: Keine Gremientermine am 8. März - mehrheitlich abgelehnt
+- TOP 46.2.1: Ergänzungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/184/2022 - mehrheitlich abgelehnt
+- TOP 46.2.2: Ergänzungsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER zur Vorlage RAT/184/2022 - mehrheitlich abgelehnt
+- TOP 46.3: Antrag der FDP-Ratsfraktion: Resolution zur Grundsteuer - mehrheitlich abgelehnt
+- TOP 46.4: Antrag der Ratsfraktion DIE LINKE: Unterstützung der Tarifforderungen der Beschäftigten der Uniklinik Düsseldorf und der Sozial- und Erziehungsdienste - mehrheitlich abgelehnt
+- TOP 46.5: Antrag der Ratsfraktion DIE LINKE: Konzept zur Nutzung von Freiflächen für Kulturevents - verwiesen
+- TOP 46.6: Antrag der Ratsfraktion DIE LINKE: Einsatz von Ultraschall gegen Jugendliche verhindern - mehrheitlich abgelehnt
+- TOP 46.7: Antrag der Ratsfraktion DIE LINKE: Gleichstellung aller Geflüchteter - mehrheitlich abgelehnt
+- TOP 46.8: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/ DIE GRÜNEN: Städtebauliche Entwicklungsmaßnahmen nach §§ 165 ff Baugesetzbuch für ehemalige Glashütten- und Nirosta-Gelände vorbereiten - einstimmig beschlossen
+- TOP 46.8.1: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage RAT/207/2022 - mehrheitlich abgelehnt
+- TOP 47: Aufsichtsrat der Düsseldorfer Künstleratelier GmbH - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 48: Regionalrat Düsseldorf -Ersatzwahl- - einstimmig beschlossen
