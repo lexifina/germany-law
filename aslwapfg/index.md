@@ -1,4 +1,4 @@
-# Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz -
+# Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Förderungsmaßnahmen](0001.md)
