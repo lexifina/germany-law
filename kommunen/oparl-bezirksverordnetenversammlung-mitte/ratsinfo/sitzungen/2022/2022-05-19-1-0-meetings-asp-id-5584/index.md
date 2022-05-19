@@ -1,0 +1,172 @@
+# 7. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2022-05-19T17:30:00+02:00
+- Ende: 2022-05-19T23:10:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5584
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5584
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=533925
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Zebrastreifen am Nordufer in Höhe Torfstraßensteg - beantwortet
+- TOP 2.2: Hundeauslaufwiesen - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 5.1: Fortschreibung des SIKo - Soziales Infrastrukturkonzept 2020/21 für den Bezirk Mitte von Berlin - überwiesen
+- TOP 5.2: über die Fortschreibung des Integrierten Städtebaulichen Entwicklungskonzepts für das Fördergebiet Luisenstadt (Mitte) - ISEK 2021 - überwiesen
+- TOP 5.3: SIWA Mittel für Sanierung und Herrichtung von Dienstgebäuden - überwiesen
+- TOP 5.4: Gute Arbeit als integrierte Arbeitslinie im BA Mitte - überwiesen
+- TOP 5.5: Grünphasen der Ampelschaltungen in Mitte für den Fußverkehr verlängern - überwiesen
+- TOP 5.6: Der jüngsten Opfer des Aufstandes vom 17.Juni angemessen gedenken - überwiesen
+- TOP 5.7: Nicht nur die Friedrichstraße, sondern die ganze Friedrichstadt soll lebenswerter werden - überwiesen
+- TOP 5.8: Sperrmülltage, mehr davon! - überwiesen
+- TOP 5.9: Mehrbedarfe für Essen bei Sozialhilfeempfangenden nicht ablehnen! - überwiesen
+- TOP 5.10: Humboldthainer Stier gehört in den Humboldthain - überwiesen
+- TOP 5.11: Informationstafel für das Denkmal „Der verlassene Raum“ - überwiesen
+- TOP 5.12: Michaelkirchstraße soll ruhiger, grüner und lebenswerter werden - überwiesen
+- TOP 5.13: Bürgerbeteiligung im Sanierungsgebiet Badstraße / Pankstraße sicherstellen und Betroffenen- /Stadtteilvertretung wählen - überwiesen
+- TOP 5.14: Waisenbrücke - überwiesen
+- TOP 5.15: Zebrastreifen für die Grundschule am Koppenplatz - überwiesen
+- TOP 5.16: Mehr Sicherheit und Komfort für Fußgänger:innen und Radfahrende in der Pohlstraße - überwiesen
+- TOP 5.17: BIZ am Reichstag- Das Bezirksamt möge sich kümmern! - überwiesen
+- TOP 5.18: Aufwertung Ernst Friedrich Promenade und des angrenzenden Spielplatzes - überwiesen
+- TOP 5.19: Ausreichend Hundeauslaufgebiete im Bezirk Mitte einrichten - überwiesen
+- TOP 5.20: Unterstützung für Classroom for Ukraine - überwiesen
+- TOP 5.21: Orientierungsrahmen zur Umsetzung von Kiezblocks in Mitte - überwiesen
+- TOP 5.22: Wildbienen auf der Catcherwiese – alternative Sportflächen in den Rehbergen dringend ge-sucht! - überwiesen
+- TOP 5.23: Bezirkliche Klimaschutzziele im öffentlichen Gebäudebestand zügig umsetzen, Energiekosten senken, Energieunabhängigkeit für Mitte beschleunigen! - überwiesen
+- TOP 5.24: Zebrastreifen für die Auguststraße - überwiesen
+- TOP 5.25: Anwohner*innen schützen, Luftreinhaltung und Verkehrssicherheit in der Leipziger Straße sicherstellen! - überwiesen
+- TOP 5.26: Städtepartnerschaften mit der Ukraine, Georgien und Moldau aufbauen - überwiesen
+- TOP 5.27: Falsch parkende Fahrzeuge aus verkehrsberuhigten Straßen umsetzen - überwiesen
+- TOP 5.28: über die Berufung eines beratenden Mitglieds und einer Stellvertretung aus der Katholischen Kirche für den Jugendhilfeausschuss (JHA) - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: über die Berufung eines beratenden Mitglieds für die Position zur Vertretung des Bezirksschulbeirates im Jugendhilfeausschuss (JHA) - ohne Änderungen in der BVV beschlossen
+- TOP 5.30: über die Berufung eines beratenden Mitglieds und einer Stellvertretung aus der Evangelischen Kirche für den Jugendhilfeausschuss (JHA) - ohne Änderungen in der BVV beschlossen
+- TOP 5.31: über die Berufung eines beratenden Mitglieds aus freigeistigen Verbänden für den Jugendhilfeausschuss (JHA) - ohne Änderungen in der BVV beschlossen
+- TOP 5.32: über die Berufung eines beratenden Mitglieds für die Position „in der Jungenarbeit erfahrene Person“ für den Jugendhilfeausschuss (JHA) - ohne Änderungen in der BVV beschlossen
+- TOP 5.33: über die Berufung eines beratenden Mitglieds und einer Stellvertretung aus selbstorganisierten Zusammenschlüssen für den Jugendhilfeausschuss (JHA) - ohne Änderungen in der BVV beschlossen
+- TOP 5.34: über die Berufung eines beratenden Mitglieds für die Position „in der vorurteilsbewussten und vielfaltgerechten Pädagogik erfahrene Person“ für den Jugendhilfeausschuss (JHA) - ohne Änderungen in der BVV beschlossen
+- TOP 5.35: über die Berufung eines beratenden Mitglieds für die Position „erfahrene Frau in der Mäd-chenarbeit“ für den Jugendhilfeausschuss (JHA) - ohne Änderungen in der BVV beschlossen
+- TOP 5.36: Bürger:innenbeteiligung zur Bebauung der Kiezgärten im Soldiner Kiez umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.37: Wahl von Bürgerdeputierten und stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 5.38: Mehr Essensstände auf Wochenmärkten zulassen - ohne Änderungen in der BVV beschlossen
+- TOP 5.39: Die Gastronomie in der Pandemie unterstützen – Schankgärten offen halten - mit Änderungen in der BVV beschlossen
+- TOP 5.40: Bußgelder gegen herumliegende E-Roller! - mit Änderungen in der BVV beschlossen
+- TOP 5.41: Das Schul-Umwelt-Zentrum Mitte mit seinen Gartenarbeitsschulen arbeitsfähig halten - mit Änderungen in der BVV beschlossen
+- TOP 5.42: Erneute Prüfung der Eigenreinigung bezirklicher Schulgebäude - mit Änderungen in der BVV beschlossen
+- TOP 5.43: Zweckentfremdung transparent machen! - mit Änderungen in der BVV beschlossen
+- TOP 5.44: Die Barrierefreiheit im Rathaus Tiergarten durch eine durchgehende Rampe herstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.45: Streichung der pauschalen Minderausgaben des Bezirkshaushaltes Berlin Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 5.46: Sicherer Straßenübergang am Spreeufer Paulstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.47: Maßnahmen zur Erhöhung der Verkehrssicherheit im Englischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 5.48: Kostenlos Pinkeln für Alle! - mit Änderungen in der BVV beschlossen
+- TOP 5.49: Menstruationsprodukte kostenlos zur Verfügung stellen! - mit Änderungen in der BVV beschlossen
+- TOP 6: Thematische Stunde Vorschlag 1: Tegeler Straße Vorschlag 2: Klimanotstand - erledigt
+- TOP 6.1: Was unternimmt das Bezirksamt zur Rettung der Wohngebäude Fenn 33,34-Tegeler 1-7 vor „Bayer-Abriss“ - beantwortet
+- TOP 6.2: Habersaathstraße 40-48 - beantwortet
+- TOP 6.3: Räumung in der Habersaathstraße verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Habersaathstraße 40-48 - überwiesen
+- TOP 6.5: Wohngebäude Tegeler Straße - Ist die Abrissverfügung rechtsgültig? - ohne Änderungen in der BVV beschlossen
+- TOP 6.6: Mieter*innen im Mettmannkiez unterstützen – Umstrukturierungssatzung für die Fennstraße 33,34/ Tegeler Straße 1 sowie Tegeler Straße 2-7 erlassen - mit Änderungen in der BVV beschlossen
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Kiezblocks – Wirksamkeit und Auswirkungen - beantwortet
+- TOP 7.2: Abriss verhindern, Umbau- und Transformation von Bestandsgebäuden fördern - beantwortet
+- TOP 7.3: Überführung des Leopoldplatzes in öffentliches Eigentum - beantwortet
+- TOP 7.4: Signa bei Karstadt am Leopoldplatz - was ist zu befürchten? - schriftlich beantwortet
+- TOP 7.5: Die Zukunft von Karstadt am Leopoldplatz - schriftlich beantwortet
+- TOP 7.6: Schlittschuhverleih im Erika-Hess-Stadion - schriftlich beantwortet
+- TOP 7.7: Unterhalt der Freitreppe am Humboldt Forum sichern - schriftlich beantwortet
+- TOP 7.8: Gedenkstätte Gleis 69 - schriftlich beantwortet
+- TOP 7.9: Landschaftspläne entwickeln - Lebensqualität in Mitte verbessern - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Sicherheit im Flussbad Berlin - beantwortet
+- TOP 9.2: ASOG-Unterkünfte in Mitte – wo bringt Mitte unter? - schriftlich beantwortet
+- TOP 9.3: Kulturstandort Wiesenburg im Wedding umgesetzt? - beantwortet
+- TOP 9.4: Parksituation in der Grüntaler Straße - beantwortet
+- TOP 9.5: Nutzung des Hotels Kubrat in der Leipziger Straße - beantwortet
+- TOP 9.6: Wie viele Einbürgerungen gibt es in Mitte? - beantwortet
+- TOP 9.7: Welche Anlaufstellen und Strukturen gibt es im Bezirksamt für Betroffene von Antisemitismus? - schriftlich beantwortet
+- TOP 9.8: Parken für Berliner auf der Straße des 17. Juni trotz Radschnellverbindung ermöglichen - schriftlich beantwortet
+- TOP 9.9: Wie unterstützt das Bezirksamt den Einbürgerungsprozess? - schriftlich beantwortet
+- TOP 9.10: Wann erhält Tiergarten Süd endlich den versprochenen Bolzplatz? - schriftlich beantwortet
+- TOP 9.11: Friedrichstraße – weiter keine Beteiligung? - schriftlich beantwortet
+- TOP 9.12: Wohnungslosentagesstätten in Moabit - schriftlich beantwortet
+- TOP 9.13: Einschulungsuntersuchungen (ESU) – Schutz der Kindergesundheit eine gesetzliche Aufgabe – "Fit fu?rs Leben- Defizite beseitigen“ - schriftlich beantwortet
+- TOP 9.14: Wann wird aus dem Gesundheitsamt Berlin Mitte das "Mustergesundheitsamt Mitte"! - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Feststellung der außergewöhnlichen Notlage - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung (siehe TOP 5, Konsenslisten) - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Tram-Baustelleneinrichtung im Kreuzungsbereich Alt Moabit, Paul- und Werftstraße: Aus-weisung als Geh- und Fahrradweg bedroht Existenz ansässiger Unternehmen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: Kein Platz für Rechtsextreme in unserem Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Kiezblock Auguststraße – sichere Straßen ohne Durchgangsverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Cafe Leo vollständig erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Betriebliche Mitbestimmung in Mitte stärken! - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Theaterbetrieb am Standort Monbijoupark - vertagt
+- TOP 15.5: Flächendeckende Parkraumbewirtschaftung in Mitte — auch im Wedding! - vertagt
+- TOP 15.6: Berufung eines stimmberechtigten Mitgliedes der BVV und dessen Stellvertretung für den Verwaltungsrat "Kindergärten City, Eigenbetrieb von Berlin" - vertagt
+- TOP 15.7: Missbilligung des Bezirksbürgermeisters Stephan von Dassel - vertagt
+- TOP 15.8: „Gleichberechtigter und diskriminerungsfreier Zugang zu Hilfestrukturen für Rom*ja aus der Ukraine“ - vertagt
+- TOP 15.9: Tegeler Straße Zweckentfremdung - in der BVV zurückgezogen
+- TOP 15.10: Geflüchtete Menschen Informieren! - vertagt
+- TOP 15.11: Mehr Freiheit für Fuß- und Radverkehr im Gartenstraßenkiez – motorisierten Durchgangsverkehr verhindern! - vertagt
+- TOP 15.12: Private Housing - unterstützen und entlasten - vertagt
+- TOP 15.13: Kinderreisen im Sommer 2022 - vertagt
+- TOP 15.14: Lesbische Sichtbarkeit im Bezirk verfestigen - vertagt
+- TOP 15.15: Digitale Anmeldung von (Sport-) Großveranstaltungen ermöglichen - vertagt
+- TOP 15.16: Schulwegsicherheit in der Singerstraße erhöhen - vertagt
+- TOP 15.17: Kein zusätzliches Quer- und Schrägparken mehr einrichten - vertagt
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Wedding: Rathausvorplatz für alle II - vertagt
+- TOP 16.2: „Charta der Rücksicht“ für 2022 fortentwickeln! - vertagt
+- TOP 16.3: Denkmal „Wohnungslose Bühne - vertagt
+- TOP 16.4: Das Haus der Weisheit räumt die Rathenower Straße 16, obwohl es nicht in die Lehrter Straße 60 einziehen kann. Das Bezirksamt muss helfen, sonst droht die Moscheegemeinde zugrunde zu gehen - vertagt
+- TOP 16.5: Graffiti am Engelbecken entfernen - vertagt
+- TOP 16.6: Mehr Grün am Engelbecken sowie Nutzung legaler Graffitiflächen fördern - vertagt
+- TOP 16.7: Die Gedenkstätte Berliner Mauer zu einem rundum würdigen Gedenkort machen - vertagt
+- TOP 16.8: Ungarnstraße zur Fahrradstraße machen — Sicherheit und Klimafreundlichkeit hat Vorfahrt! - vertagt
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2005 - vertagt
+- TOP 17.2: Der Bezirk-Mitte erkennt den Klimanotstand an - vertagt
+- TOP 17.3: Mitte führt Klimacheck für Bezirksamtsvorlagen ein - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.4: Güterbahnhof Moabit als Gedenkort schützen und vor Zerstörung bewahren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.5: Zusammen für mehr Kitaplätze in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.6: Eine:n Graffiti-Beauftragte:n für Berlin-Mitte - vertagt
+- TOP 17.7: Information der BVV zu planungsrechtlich gefährdeten Wohngebäuden in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.8: 200jährige Eiche in der Dresdener Straße und andere Bäume erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.9: Warmen Otto offenhalten! - vertagt
+- TOP 17.10: Frauenbeirat Stadtplanung für die VI. Wahlperiode der BVV Mitte einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.11: Covid - 19 - Impfbustouren in Mitte / Impfangebote ausbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.12: Die Kleinsten schützen – der Bezirk kann und muss bei der Kinderimpfung Verantwortung übernehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.13: Fahrradstraße Togo Straße – Übergang Seestraße endlich qualifizieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.14: Zugang zum Testzentrum Wedding barrierefrei sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.15: "Wohnungslose Bühne" sichern - vertagt
+- TOP 17.16: Torstraße 225/227 - Desaströsen Baustellenzustand sofort beenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.17: Mieter*innen bei Sanierungs- und Umbaumaßnahmen beraten und schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.18: Schlittschuhverleih im Erika-Heß-Eisstadion schnellstmöglich ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.19: Kostenlose Sperrmülltage auch in 2022 und 2023 anbieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.20: Entwicklung und Verwendung von Stiftungsmitteln der „Wolfgang-Lammers-Stiftung“ im Haushaltsjahr 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.21: Entwicklung und Verwendung von Stiftungsmitteln der „Conrad-Stiftung Bürger* für Mit-te“ im Haushaltsjahr 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.22: Entwicklung und Verwendung von Stiftungsmitteln der Stiftung Bezirksbürgermeisterin Erika Heß im Haushaltsjahr 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.23: Zielsystem für das Kalenderjahr 2021 – Bericht über das Erreichen der Ziele (Erfolgskontrolle) zum 31. Dezember 2021 - vertagt
+- TOP 17.24: Unterzeichnung der Politischen Erklärung des Senats mit den Bezirken zur gesamtstäd-tischen Steuerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.25: Einrichtung eines Bezirksteilhabebeirats gemäß § 10 Abs. 1 des Gesetzes zur Ausführung des Neunten Buches Sozialgesetzbuch (AG-SGB IX) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.26: Ernennung von Mitgliedern für den Beirat für Menschen mit Behinderungen Mitte beim Bezirksamt Mitte von Berlin für die Wahlperiode 2021 bis 2025 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.27: Ernennung von Mitgliedsfrauen für den Frauenbeirat Mitte beim Bezirksamt Mitte von Berlin für die Wahlperiode 2021 bis 2025 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.28: Agenda 2030 - Nachhaltige Entwicklung auf kommunaler Ebene gestalten - mit Abschlussbericht zur Kenntnis genommen
