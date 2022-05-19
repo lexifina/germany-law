@@ -1,0 +1,7 @@
+# TOP 4.: Flächentausch in Zusammenhang mit dem Center for Vertical Mobility
+
+- Sitzung: Gemeindeentwicklungsausschuss (2. Sitzung) (2022-05-19)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/21212
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
