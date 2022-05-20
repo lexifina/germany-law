@@ -12,3 +12,4 @@ Landgericht Bremen | Alle Verfahren der 1. und 2. Zivilkammer | 20. April 2022
 Oberlandesgericht Bremen | Alle Verfahren des 2. und 3. Zivilsenats | 2. Mai 2022
 Oberlandesgericht Bremen | Alle Verfahren des 4. und 5. Zivil- und Familiensenats | 20. Juni 2022
 Oberlandesgericht Bremen | Alle Verfahren des 1. Zivilsenats | 1. Juli 2022
+Landgericht Bremen | Alle Verfahren der 1., 2., 3. und 4. Kammer für Handelssachen sowie alle Verfahren der 9. Zivilkammer Abt. A | 4. Juli 2022
