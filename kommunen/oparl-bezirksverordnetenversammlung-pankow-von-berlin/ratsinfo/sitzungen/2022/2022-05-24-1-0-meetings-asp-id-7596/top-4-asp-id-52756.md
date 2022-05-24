@@ -1,0 +1,7 @@
+# TOP 4: Votierung der Bürger:innenvorschläge zum Bürger:innenhaushalt 2022/23, Vorschläge der lfd. Nr.: 206 bis 209, 211, 212, 216 und 218 bis 220
+
+- Sitzung: Öffentliche/nichtöffentliche außerordentliche Sitzung des Ausschusses für Mobilität und öffentliche Ordnung (2022-05-24)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=52756
+- Ergebnis: erledigt
