@@ -1,0 +1,6 @@
+# TOP 2: Besuch des Oberbürgermeisters
+
+- Sitzung: öffentliche Sitzung der Bezirksvertretung Langerfeld-Beyenburg (2022-05-24)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/111695
