@@ -1,0 +1,82 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-24T17:00:00+02:00
+- Ende: 2022-05-24T20:49:00+02:00
+- Ort: Gemeindesaal, Hardenbergstraße 3
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22230
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22230
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches digitales Sitzungspaket 24.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00449328.pdf
+- Ergebnisprotokoll: öffentliches digitales Sitzungspaket 24.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00449328.pdf
+- Wortprotokoll: öffentliches digitales Sitzungspaket 24.05.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00449328.pdf
+
+## Tagesordnung
+
+- TOP -: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift vom 22.03.2022 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der gemeinsamen Sondersitzung vom 09.09.2021 - einstimmig beschlossen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Vorstellung Kinder- und Jungendförderplan 2021-2025 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 3.2: Flächennutzungsplanänderung Nr. 138 (Entwurf) - Glasmacherviertel - Empfehlung einstimmig beschlossen
+- TOP 3.3: Radleitroute West-Ost von Hansaallee/Böhlerstraße (Heerdt/Lörick) bis Neusser Tor (Gerresheim) - Empfehlung einstimmig beschlossen
+- TOP 3.4: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen - abweichend beschlossen
+- TOP 3.5: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 3.6: Baumpflanzungen durch die Boston-Consulting-Group (BCG) auf Flächen des naturnah ausgebauten Pillebaches im Bereich Quellenbusch - zur Kenntnis genommen
+- TOP 3.7: Bauern- und Handwerkermarkt auf dem Gerricusplatz im Jahre 2022 - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 3.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2022) - einstimmig beschlossen
+- TOP 3.9: Verwendung von Haushaltsmitteln - mehrheitlich beschlossen
+- TOP 3.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anträge
+- TOP 4.1: Parken in Kreuzungsbereichen am Siedlerweg - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 4.2: Sitzbank an der Düssel - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 4.3: Sicherung der Treppenanlage von der Friedrich-Wilhelm-Straße in die Anlage der Gartengemeinschaft Quadenhof - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 4.4: Fahrradständer Geibelstraße /Ecke Grafenberger Allee 368 - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 4.5: Markierung des Radweges am Staufenplatz - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 4.6: Tempo 30 vor der Kita auf der Glashüttenstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 4.7: Tempo 30 auf der Heyestraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 4.8: Hinweisschild Feuerwehr-Bewegungszone Pfeifferstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 4.9: Schild „Grüner Pfeil nur für Radfahrende“ an der Kreuzung Berta- /Dreherstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 4.10: Baumscheiben im Bezirk reaktivieren - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 4.11: Schrägparken an der Quadenhofstraße und Gräulinger Straße - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 4.12: Parkflächen Pöhlenweg 63 – 67 und 81 neu gestalten - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 4.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.20: Infrastrukturelle Lage und Nahversorgung im Stadtteil Knittkuhl - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 4.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.22: Planung Regenrückhaltebecken Schützenplatz an der Gerricusstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Ampelanlage und Beleuchtungssituation Wiebachweg / Dreherstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Parkraumdruck im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 5.7: Verkehrsführung während Baustelle „Haltestelle Pöhlenweg“ über Rennbahnstraße und Fahneburgstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen
+- TOP 6.1: Bebauung Glasmacherviertel - Anfrage der SPD-Fraktion - - beantwortet
+- TOP 6.2: Fernwärmeversorgung im Stadtteil Grafenberg - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.3: Funktion der Bedarfsampeln auf der Benderstraße für Fußgänger*innen und Radfahrer*innen - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 6.4: Grundsätzliche Öffnung der Einbahnstraßen für Radverkehr gegen die vorgeschriebene Fahrtrichtung - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 6.5: Zeitablauf und Vorgehen Mehrgenerationenfläche Diepenpark - Anfrage der FDP-Fraktion - - vertagt
+- TOP 6.6: Aktuelle Ergebnisse des Passivsammlers an der Ludenberger Straße - Anfrage der CDU-Fraktion - - beantwortet
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Ersatz von Baumfällungen im Bezirk schneller realisieren - Informationsvorlage zum Beschluss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 7.2: Anlegen von Wildblumenwiesen auf Baumscheiben neu gepflanzter Bäume - Informationsvorlage zum Beschluss der BV 7 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 7.3: Farbliche Gestaltung des städtischen Hauses für Kinder, Jugendliche und Familien an der Radeberger Straße - Informationsvorlage zum Beschluss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 7.4: Genossenschaftliches Wohnen im Quellenbusch - Informationsvorlage zum Beschluss der BV 7 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 7.5: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 7.6: Hinweisschilder Gerresheimer Waldfriedhof - Informationsvorlage zum Beschluss der BV 7 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 7.7: Gutes Miteinander aller Besucher im Grafenberger Wald fördern - Informationsvorlage zum Beschluss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 7.8: Pumptrack-Anlage auf dem Bolzplatz an der Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 7.9: Nutzung Bürgerhaus Aloys-Odenthal-Platz - Informationsvorlage zum Beschluss der BV 7 vom 22.03.2022 - - zur Kenntnis genommen
