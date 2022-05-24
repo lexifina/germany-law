@@ -2,7 +2,7 @@
 
 |  | Aktivitäten, angegeben in Vielfachen der Freigrenzen nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung | umschlossene radioaktive Stoffe | offene radioaktive Stoffe |
 |  | 1 | 2 | 3 |
-| 1. | hochradioaktive Strahlenquellen nach § 4 Absatz 36 des Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der Spalte 3 höhere Summen genannt werden | 0,05 |  |
+| 1. | hochradioaktive Strahlenquellen nach § 4 Absatz 36 des Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der Spalte 3 höhere Summen genannt sind | 0,05 |  |
 | 2. | vom 105fachen bis zum 106fachen | 0,05 | 0,25 bis 0,5 |
 | 3. | vom 106fachen bis zum 107fachen | 0,05 bis 0,25 | 0,5 bis 1 |
 | 4. | vom 107fachen bis zum 108fachen | 0,25 bis 0,5 | 1 bis 2 |
