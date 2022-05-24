@@ -1,0 +1,77 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-24T17:00:00+02:00
+- Ende: 2022-05-24T20:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22515
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22515
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen TOP 1 - 9 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00449483.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen TOP 1 - 9 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00449483.pdf
+- Wortprotokoll: Sitzungsunterlagen TOP 1 - 9 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00449483.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 26. April 2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Naturnaher Ausbau des Kittelbachs im Zusammenhang mit Ausgleichsmaßnahmen und Ersatzgeldern - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 12: Multifunktionale Sportflächen in der Grünanlage Friederike-Fliedner-Weg - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 13: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen - Empfehlung abweichend beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2022 (Liste B), Aquazoo Löbbecke Museum - einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2022 - Liste A) Schulen 2121101 / 52415500 - einstimmig beschlossen
+- TOP 16: Sofortmaßnahmen am Angermunder Baggersee für die Sommersaison 2022 - abweichend beschlossen
+- TOP 17: Ergänzungsantrag zur Vorlage "Sofortmaßnahmen am Angermunder Baggersee für die Sommersaison 2022 (BV5/071/2022)" - mehrheitlich beschlossen
+- TOP 18: Lantz´scher Skulpturenpark - Kuratorisches Konzept 2023 - Empfehlung einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 19: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 20: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 21: Wann kommt endlich die öffentliche Beleuchtung auf dem Gerichtsschreiberweg?! - beantwortet
+- TOP 22: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 23: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 24: Barrierefreier Zugang zur Grundschule an der Fliednerstraße - beantwortet
+- TOP 25: "Viele Projekte stecken in der Warteschleife" - Wie lange kann noch gewartet werden?
+- TOP 26: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 27: Weg nach den Hingbenden - Wie kann das Parken geordnet und die Sicherheit erhöht werden?
+- TOP 28: Radweg vom Kreisverkehr Angermunder Straße
+- TOP 29: Umsetzung und Einhaltung der Stellplatzsatzung bei Neubauten in Lohausen?
+- TOP 30: Unerklärliche Baumrodungen und weitere Bebauungen am Leuchtenberger Kirchweg
+- TOP 31: Leerstand und zukünftige Nutzung des denkmalgeschützten Hüttenhofs in Kalkum
+- TOP 32: Leuchtenberger Kirchweg 53 - Baugenehmigungen, Dringlichkeit und Rodungen der Bäume?
+- TOP 33: Verwaltungsverfahren Neubauprojekt „Kaiservillen Kaiserswerth“
+- TOP 34: 12.000.000 Euro Kostensteigerung und spätere Fertigstellung der Stadtbahn U 81: weiterhin keine Information der lokalen Politik!?
+- TOP 35: Anwohnerparken im Stadtbezirk 5
+- TOP 36: Aufstellung von Absperrpfosten und eines Zauns im Treppenbereich zur Kirche St. Remigius in Wittlaer
+- TOP 37: B-Plan-Verfahren 05/016 - Open-Air-Gelände auf dem Messeparkplatz P1 - beantwortet
+- TOP 38: Verkehrsanbindung zwischen Ratingen und dem Düsseldorfer Norden
+- TOP 39: Nachhaltiges Mobilitätsmanagement beim Bebauungsplan ehemals Fashion House (05/014) - beantwortet
+- TOP 40: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr?
+- TOP -: Neue Anfragen
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42: Privatisierung des Ordnungs- und Sicherheitsdienstes
+- TOP 43: Nutzungsänderung und Neubebauung des ehemaligen Marienkrankenhauses in Kaiserswerth
+- TOP 44: Wo ist Platz für Jugendliche im Stadtbezirk 5?
+- TOP 45: Änderungen der Straßen "An der Bausenheide" und "An den Vier Winden"
+- TOP 46: Park & Ride-Parkmöglichkeit Froschenteich
+- TOP 47: Fahrbahnbelag und Gehwegpflasterung auf der Lantzallee
+- TOP 48: Folgen aus einer Leckage eines Chemietransporters in Stockum - beantwortet
+- TOP 49: Planungen und städtebauliche Entwicklungen im Gebietsbereich zwischen Stockum (Stockumer Kirchstraße/Rotterdamer Straße/Lohauser Deich) und der Ortslage Lohausen (Lohauser Deich/Heiligenweg/Niederrheinstraße)
+- TOP 50: Hochwasserschutzmauer - beantwortet
+- TOP 51: Vorhandensein von Schutzräumen und Sirenen - beantwortet
+- TOP 52: Verbesserungsmöglichkeiten Fußgängerweg auf der westlichen Seite der Niederrheinstraße zum zukünftigen Supermarkt auf dem Dreiecksparkplatz
+- TOP -: Anträge
+- TOP 53: Vorstellung der Konzeption von "Nachbarschaftszonen" und der Möglichkeit zur Umsetzung an den Straßen Weg nach den Hingbenden und Kittelbachstraße in Kaiserswerth - mehrheitlich abgelehnt
+- TOP -: Informationsvorlagen
+- TOP 54: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 55: Verschiedenes
