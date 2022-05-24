@@ -1,22 +1,47 @@
 # Gesetz zur Sicherung der Energieversorgung
 
 - [Eingangsformel](eingangsformel.md)
-- [§ 1 Sicherung der Energieversorgung](0001.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+
+## Kapitel 1 Maßnahmen zur Sicherung der Energieversorgung im Krisenfall
+
+- [§ 1 Sicherung der Energieversorgung; Verordnungsermächtigung](0001.md)
 - [§ 2 Internationale Verpflichtungen](0002.md)
+- [§ 2a Europäische Verpflichtungen; Verordnungsermächtigung](0002a.md)
+- [§ 2b Digitale Plattform für Erdgas; Verordnungsermächtigung](0002b.md)
 - [§ 3 Erlaß von Rechtsverordnungen](0003.md)
 - [§ 4 Ausführung des Gesetzes](0004.md)
-- [§ 5 Keine aufschiebende Wirkung von Widerspruch und
-Anfechtungsklage](0005.md)
+- [§ 5 Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage](0005.md)
 - [§ 6 Verwaltungsvorschriften](0006.md)
 - [§ 7 Einzelweisungen](0007.md)
 - [§ 8 Mitwirkung von Vereinigungen](0008.md)
 - [§ 9 Vorbereitung des Vollzugs](0009.md)
-- [§ 10 Auskünfte](0010.md)
+- [§ 10 Auskünfte, Datenerhebung und -übermittlung](0010.md)
 - [§ 11 Entschädigung](0011.md)
 - [§ 12 Härteausgleich](0012.md)
-- [§ 13](0013.md)
-- [§ 14 Zustellungen](0014.md)
+- [§ 13 Entschädigung für Solidaritätsmaßnahmen für Erdgas](0013.md)
+- [§ 14 Bekanntgabe und Zustellung](0014.md)
 - [§ 15 Zuwiderhandlungen](0015.md)
 - [§ 16 Zuständige Verwaltungsbehörde bei Zuwiderhandlungen](0016.md)
-- [§ 17 Berlin-Klausel](0017.md)
-- [§ 18 Inkrafttreten](0018.md)
+
+## Kapitel 2 Besondere Maßnahmen
+
+
+### Abschnitt 1 Treuhandverwaltung und Enteignung
+
+- [§ 17 Treuhandverwaltung von Unternehmen der Kritischen Infrastruktur](0017.md)
+- [§ 18 Enteignung zur Sicherung der Energieversorgung im Bereich der Kritischen Infrastruktur](0018.md)
+- [§ 19 Enteignungsakt; Verordnungsermächtigung](0019.md)
+- [§ 20 Verfahren](0020.md)
+- [§ 21 Entschädigung](0021.md)
+- [§ 22 Rechtsschutz](0022.md)
+- [§ 23 Verordnungsermächtigung](0023.md)
+
+### Abschnitt 2 Preisanpassungsrechte
+
+- [§ 24 Preisanpassungsrechte bei verminderten Gasimporten](0024.md)
+- [§ 25 Preisanpassungsmonitoring](0025.md)
+
+## Kapitel 3 Schlussbestimmungen
+
+- [§ 26 Inkrafttreten](0026.md)
