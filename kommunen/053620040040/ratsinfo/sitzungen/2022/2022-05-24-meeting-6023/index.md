@@ -1,0 +1,64 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2022-05-24T18:00:00+02:00
+- Ende: 2022-05-24T19:20:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVRtpq8vsOpK4XKi_8z79EA
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6023
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZenYxGGqiXmqxRNqY0sOmVs3ewpFGRMsYUF_mZfr9gtU/Einladung_Rat_24.05.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYP-7S1TF2SfQX_pes-alHplZW-HohYk-DLYPmW_4ZXF/Oeffentliche_Niederschrift_Rat_24.05.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Einführung und Verpflichtung eines Ratsmitglieds
+- TOP 3.: Beschlussfassung über die Tagesordnung
+- TOP 4.: Einwohnerfragestunde
+- TOP 5.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 6.: Beschlusskontrolle
+- TOP 7.: Wahl einer/eines Beigeordneten
+- TOP 8.: Jahresabschluss der Stadt Wesseling zum 31.12.2019 - Prüfungsbericht des Rechnungsprüfungsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 9.: Einbringung des Entwurfs des Jahresabschlusses zum 31.12.2020 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2022/2023 und seiner Anlagen
+- TOP 10.1.: Haushaltsreden
+- TOP 10.2.: 2. Veränderungsnachweis und Feststellung der Budgets
+- TOP 10.3.: Förderprogramm „Photovoltaik“ - 31 Ja-Stimmen, 3 Nein-Stimmen, 0 Enthaltungen
+- TOP 10.4.: Antrag der SPD-Fraktion: Wesseling wird kinderfreundliche Kommune
+- TOP 10.5.: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen: Konferenztechnik im Ratssaal
+- TOP 10.5.1.: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen: Konferenztechnik im Ratssaal hier: Stellungnahme der Verwaltung - Einstimmig, 0 Enthaltungen
+- TOP 10.6.: Antrag der SPD-Fraktion: Erhöhung Vergnügungssteuer auf Glücksspielautomaten - Einstimmig, 0 Enthaltungen
+- TOP 10.7.: Antrag der SPD-Fraktion: Rückführung der Fraktionszuwendungen auf das Niveau des letzten Haushalts - 17 Ja-Stimmen, 17 Nein-Stimmen, 0 Enthaltungen Der Antrag ist somit abgelehnt.
+- TOP 10.8.: Antrag der SPD-Fraktion: Änderung der Hauptsatzung - Weitere Ausnahmen zur Gewährung einer Aufwandsentschädigung für Ausschussvorsitzende - 17 Ja-Stimmen, 17 Nein-Stimmen, 0 EnthaltungenDer Antrag ist somit abgelehnt.
+- TOP 10.9.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Haushaltsberatungen 2022/2023: Familienpass - 17 Ja-Stimmen, 17 Nein-Stimmen, 0 EnthaltungenDer Antrag ist somit abgelehnt.
+- TOP 10.10.: Antrag Vermins e.V. - Bau eines Asche-Infields - Einstimmig, 0 Enthaltungen
+- TOP 10.11.: Antrag des Stadtsportverbandes Wesseling e.V.: Richtlinien für die Sportförderung in der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 10.12.: Haushalt 2022/2023: Stellenplan
+- TOP 10.12.1.: Haushalt 2022/2023: Stellenplan - Einstimmig, 0 Enthaltungen
+- TOP 10.13.: Wirtschaftsplan der Kindertageseinrichtungen der Stadt Wesseling für die Wirtschaftsjahre 2022 und 2023 - Einstimmig, 0 Enthaltungen
+- TOP 10.14.: Wirtschaftsplan der Kulturbetriebe der Stadt Wesseling für die Wirtschaftsjahre 2022 und 2023 - Einstimmig, 0 Enthaltungen
+- TOP 10.15.: Wirtschaftsplan der Sportstätten der Stadt Wesseling für die Wirtschaftsjahre 2022 und 2023 - Einstimmig, 0 Enthaltungen
+- TOP 10.16.: Wirtschaftsplan der Wald- und Parkanlagen der Stadt Wesseling für die Wirtschaftsjahre 2022 und 2023 - Einstimmig, 0 Enthaltungen
+- TOP 10.17.: Leitentscheidungen
+- TOP 10.18.: Beschlussfassung zur Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2022/2023
+- TOP 11.:  - Einstimmig, 0 Enthaltungen
+- TOP 12.: Kulturbetriebe der Stadt Wesseling; Feststellung des Jahresabschlusses 2019, Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 13.: Feststellung des Jahresabschlusses 2019, Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 14.: Wald- und Parkanlagen der Stadt Wesseling; Feststellung des Jahresabschlusses 2019, Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 15.: Änderung der Hauptsatzung - Einstimmig, 0 Enthaltungen
+- TOP 16.: Kooperationsvereinbarung mit dem Rhein-Erft-Kreis zur gemeinsamen Beantragung von Fördermitteln zum Breitband-Ausbau - Einstimmig, 0 Enthaltungen
+- TOP 17.: Einrichtung der Fachstelle zur spezialisierten Beratung bei sexueller Gewalt an Kindern und Jugendlichen für die Familienberatungsstelle Wesseling und Brühl. - Einstimmig, 0 Enthaltungen
+- TOP 18.: Personalentwicklungskonzept der Stadt Wesseling 1. Fortschreibung 2022 - Einstimmig, 0 Enthaltungen
+- TOP 19.: Antrag der CDU-Fraktion: Umbesetzungen in Ausschüssen / Bestellung von Vertretern der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 20.: Beitritt zu d-NRW - Einstimmig, 0 Enthaltungen
+- TOP 21.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Antrag der CDU-Fraktion: Verleihung des Ehrenrings der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 2.: Darlehensgewährung an die Stadtwerke Wesseling GmbH - Einstimmig, 0 Enthaltungen
+- TOP 3.: Erhöhung der Kapitalrücklage des Wasserbeschaffungsverbandes Wesseling-Hersel - Einstimmig, 0 Enthaltungen
+- TOP 4.: Mitteilungen und Anfragen
+- TOP 5.: Presseveröffentlichungen
