@@ -1,0 +1,126 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-05-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891223
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891223
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.2.1.: (E) Stadtbezirksbudget Stadtverbesserungs e.V. Intervention Arcisstraße am 28.05.2022 5.000,00 Euro, Az.: 0262.0-3-0404
+- TOP 2.1.: (E) Stadtbezirksbudget Gruppe "Tuija Komi Band" "Jazz in the City"-Konzert im Juni/Juli 2022 2.295,00 Euro, Az.: 0262.0-3-0403
+- TOP 2.2.: (E) Stadtbezirksbudget Dungeon Dragon Soundsystem GbR KK2_LIVE Konzertreihe im Kunstlabor 2 am 27.05., 03.06. und 18.07.2022 9.728,00 Euro, Az.: 0262.0-3-0396
+- TOP 2.2.: (E) Stadtbezirksbudget z&#039;sam - Zentrum für freiwilliges Engagement, Diakonie München und Oberbayern e.V. Gastgeber*innen Maxvorstadt vom 08.05. - 25.07.2022 1.875,00 Euro, Az.: 0262.0-3-0405
+- TOP 2.3.: (E) Stadtbezirksbudget Blütenring e.V. Blütenring Theatertage 2022 - Commedia im Park vom 17. - 19.06. und 24. - 26.06.2022 2.038,34 Euro, Az.: 0262.0-3-0407
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Leerstand Haus Tengstr. 7, ehemaliges Kapuzienerkloster/St. Joseph Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden
+- TOP 6.2.: Nymphenburger Str. 7, Denkmalschutz Löwenbräu, Alte Mälzerei unter Schutz stellen Zwischeninformation der Unteren Denkmalschutzbehörde
+- TOP 6.3.: Transparenz der Pläne von Apple für die Seidlstraße 15 bis 19
+- TOP 6.4.: Auskunft Masterplan Pinakotheken
+- TOP 6.5.: Antrag auf Abgleich zwischen Anwohnertiefgaragennutzung Josephsplatz und Parkscheinen in Parklizenzgebieten
+- TOP 6.6.: Einrichtung eines Marktes am Rudi-Hierl-Platz, Maxvorstadt
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Leerstand Wohnhaus Veterinärstraße 8
+- TOP 1.1.2.: Katharina-von-Bora-Str. 11 (Zustand Bäume)
+- TOP 1.1.3.: Erweiterung Erhaltungssatzungsgebiete "Maxvorstadt" und "Josephsplatz"
+- TOP 1.1.4.: Baumpflanzung an der Benno-Kirche
+- TOP 1.1.5.: Anwohnersituation Maxvorstadt
+- TOP 1.1.6.: “Kleines Grün” Georgenstraße 123 Ecke Winzererstraße
+- TOP 1.1.7.: Mülldeponie am Alten Nördlichen Friedhof
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Leerstand Enhuber Straße
+- TOP 1.2.2.: Budgetantrag für die Umweltbildung der Grundschulklassen an den Grundschulen in der Maxvorstadt.
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 14 - 17
+- TOP 2.1.2.: WEB-Listen der LBK: KW 14 - 17
+- TOP 2.1.3.: Werbeanlagen Briennerstr., Versetzen einer City-Light-Säule für die wechselnde Produktwer-bung
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Antrag auf Baumfällungen, Arcisstr. 21, Hochschulstraße im Innenhof der TU München
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Baugenehmigung Türkenstraße 52-54
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Straßenreinigung Augustenstraße
+- TOP 1.1.2.: Tecno Bässe-Lärm- FOLTER durch Minna-Thiel auf dem Bernd-Eichinger-Pl.
+- TOP 1.1.3.: entfällt
+- TOP 1.1.4.: entfällt
+- TOP 1.1.5.: e-Ladeplätze Maxvorstadt
+- TOP 1.1.6.: Radlständer Augustenstraße Ecke Heßstraße
+- TOP 1.1.7.: Parkplatzsituation Pinakotheken
+- TOP 1.1.8.: Gestaltung der Theresienstraße Abschnitt zwischen Ludwig- und Türkenstraße
+- TOP 1.1.9.: Wegfall von Parkplätzen durch Baustellen und "Schanigärten"
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Was bringt ein 9-Euro-Ticket, wenn „nichts“ (mehr) fährt?
+- TOP 1.2.2.: Barrierefreie Bushaltestelle am NS-Dokuzentrum
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: (E) + (U) Anliegerverkehrszonen mit Nachtfahrverbot für Lieferverkehr in der Türkenstraße und den umliegenden Straßen Empfehlung Nr. 20-26 / E 00128 der Bürgerversammlung des 03. Stadtbezirkes - Maxvorstadt am 09.07.2021
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.2.: Antrag für das Aufstellen einer Sitzgelegenheit in der Brienner Str. 7
+- TOP 2.2.3.: Beschlussvorlage BA 3 für die Sitzung am 24.05.2022 hier Warenauslagen am Anwesen Augustenstr. 101
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Barerstr. 75- Anhörung § 29 StVO für Informationstag mit Bürgerbeteiligung zur Neugestaltung des Platzes am 02.06.2022
+- TOP 2.4.2.: Königsplatz (Bez. 3) Konzerte „Fantastische Vier“ am 24. Und 25.06.2022
+- TOP 2.4.3.: VA öffentl. Grund: Große Stadtfronleichnam mit Gottesdienst u. Prozession ab Marienplatz über Ludwigstr. am 16.06.2022
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ausnahmegenehmigung Wanderbaumallee Arnulfpark
+- TOP 3.2.: Stellungnahme zum Leistungsprogramm der MVG im Jahr 2023 des Arbeitskreis Attraktiver Nahverkehr (AAN) im Münchner Forum
+- TOP 3.3.: SWM Baumaßnahme Fernwärme-Projekt Arcisstraße - BA 03
+- TOP 3.4.: Anträge auf Förderung - Bürgerinnen und Bürger gestalten ihre Stadt - Aufwertung Ferdinand-Miller-Platz
+- TOP 3.5.: Anträge auf Förderung - Bürgerinnen und Bürger gestalten ihre Stadt - Verbesserung Platz Schelling-Luisenstr.
+- TOP 3.6.: Verkehrsrechtliche Anordnung, Lothstraße 64
+- TOP 3.7.: IAA Mobility - Bericht über den Runden Tisch zur IAA Mobility
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Mehrjahresinvestitionsplan 2021-2025 Broschüre
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Maxvorstädter e.V., kein Bau der Hochebene
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Künstlerische Neugestaltung Spielplatz am Königsplatz
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: 75 Jahre Bezirksausschüsse – Festakt / Informationskampagne und Darstellung der personel-len Mehrbedarfe
+- TOP 1.3.: Benennung bei Stadtquartieren; hier: Anhörung der Bezirksausschüsse
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
