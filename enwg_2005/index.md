@@ -128,7 +128,7 @@
 - [§ 24 Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zur Erbringung und Beschaffung von Ausgleichsleistungen; Verordnungsermächtigung](0024.md)
 - [§ 24a Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse](0024a.md)
 - [§ 25 Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen](0025.md)
-- [§ 26 Zugang zu den vorgelagerten Rohrleitungsnetzen und zu Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas](0026.md)
+- [§ 26 Zugang zu LNG-Anlagen, vorgelagerten Rohrleitungsnetzen und Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas](0026.md)
 - [§ 27 Zugang zu den vorgelagerten Rohrleitungsnetzen](0027.md)
 - [§ 28 Zugang zu Gasspeicheranlagen; Verordnungsermächtigung](0028.md)
 - [§ 28a Neue Infrastrukturen](0028a.md)
@@ -174,6 +174,7 @@
 - [§ 35e Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung](0035e.md)
 - [§ 35f Evaluierung](0035f.md)
 - [§ 35g Inkrafttreten, Außerkrafttreten](0035g.md)
+- [§ 35h Außerbetriebnahme und Stilllegung von Gasspeichern](0035h.md)
 
 ## Teil 4 Energielieferung an Letztverbraucher
 
