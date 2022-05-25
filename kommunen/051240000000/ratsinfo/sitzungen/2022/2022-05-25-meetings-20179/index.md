@@ -1,0 +1,62 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-05-25T19:00:00+02:00
+- Ende: 2022-05-25T21:33:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20179
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20179
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00291840.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00293178.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung eines Schriftführers - ungeändert beschlossen
+- TOP 2: Besuch OB Dr. Schneidewind in der BV E
+- TOP 3: Bericht des Beirates der Menschen mit Behinderung
+- TOP 4: Bericht des Wuppertaler Jugendrates
+- TOP 5: Controllingliste der Beschlüsse der Bezirksvertretung
+- TOP 6: Bürgerantrag § 24 GO NRW: Teilantwort hier: Einbahnstraßenfreigabe Sophienstraße für den gegenläufigen Radverkehr - ungeändert beschlossen
+- TOP 7: Bürgerantrag § 24 GO NRW: Beschilderung von Ladestationen - Kipdorf - ungeändert beschlossen
+- TOP 8: Bürgerantrag § 24 GO NRW: Autofreier Gehweg in der Oberstraße - vertagen
+- TOP 9: Bürgerantrag § 24 GO NRW: Entfernen von Markierungen im Bereich Hofaue 35-41 zugunsten von Anwohnerparken - ungeändert beschlossen
+- TOP 10: Bürgerantrag § 24 GO NRW: Radabstellanlage Paradestraße 74 - ungeändert beschlossen
+- TOP 11: Bürgerantrag § 24 GO NRW: Verbesserung der Fußgängersicherheit und des Kraftverkehrsflusses Kipdorf - ungeändert beschlossen
+- TOP 12: Bürgerantrag § 24 GO - Verkehrssituation Grünewalder Berg / Ottenbrucher Straße - vertagen
+- TOP 13: Anträge
+- TOP 13.1: Benennung des Quartiersparkhauses als Schlüsselprojekt für Elberfeld - Antrag der SPD - geändert beschlossen
+- TOP 13.2: Schlüsselprojekt in Elberfeld - Vorschläge der Fraktion CDU
+- TOP 13.3: Schlüsselprojekt in Elberfeld - Vorschläge der Fraktion Bündnis90/ die Grünen
+- TOP 13.4: Sicherheit und Ordnung im Luisenviertel - Antrag der SPD - vertagen
+- TOP 14: Errichtung einer Mobilstation Parkplatz Wiesenstraße 19 - ungeändert beschlossen
+- TOP 15: Anfragen
+- TOP 15.1: Große Anfrage der SPD-Fraktion zum Feierabendmarkt auf dem Laurentiusplatz VO/0170/22
+- TOP 15.1.1: Große Anfrage der SPD-Fraktion zum Feierabendmarkt auf dem Laurentiusplatz - Entgegennahme ohne Beschluss
+- TOP 15.2: Große Anfrage der SPD Fraktion Personal- und Investitionsressourcen im Ressort 104
+- TOP 15.2.1: Personal- und Investitionsressourcen im Ressort 104 - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 15.3: Große Anfrage der SPD-Fraktion Energiewende in hochverdichteten Quartieren - vertagen
+- TOP 15.3.1: Beantwortung Große Anfrage der SPD-Fraktion Energiewende in hochverdichteten Quartieren vom 13.05.2022 (VO/0556/22) - vertagen
+- TOP 15.4: Große Anfrage der SPD-Fraktion zum Quartiersparkhaus ,, Am Kasinogarten“
+- TOP 15.5: Große Anfrage der SPD-Fraktion Skulptur Pallas Athena
+- TOP 16: Radabstellanlage Schusterstraße (Wendehammer) - geändert beschlossen
+- TOP 17: Antrag auf Durchführung eines Pfingstfestes vom 03.06. bis 06.06.2022 auf dem Laurentiusplatz - ungeändert beschlossen
+- TOP 17.1: Regelmäßiger Feierabendmarkt auf dem Laurentiusplatz - ungeändert beschlossen
+- TOP 18: Abschluss Kauf- und Erbbaurechtsvertrag betreffend das Grundstück Wiesenstraße 118 und 120 - ungeändert beschlossen
+- TOP 19: Stadtentwässerung - Maßnahmenkatalog 20023/Katalogentwurf 2024 - ungeändert beschlossen
+- TOP 20: Kinder- und Jugendförderplan der Stadt Wuppertal bis 2025 - ungeändert beschlossen
+- TOP 21: Betreibermodell öffentliche Toiletten - abgelehnt
+- TOP 22: Sachstand Programm des Oberbürgermeisters „Fokus Wuppertal“ - Anfrage der SPD - Entgegennahme ohne Beschluss
+- TOP 23: Bericht zur Inklusion auf Wuppertaler Spielplätzen - Entgegennahme ohne Beschluss
+- TOP 24: Sozialdatenatlas für Kinder und Jugendliche - Entgegennahme ohne Beschluss
+- TOP 25: Parkraumkonzept für das Mirker Quartier - Entgegennahme ohne Beschluss
+- TOP 26: Parken - Anordnungen und Maßnahmen in Ballungsquartieren - Entgegennahme ohne Beschluss
+- TOP 27: Konzept "Die Verkehrswende in den Quartieren mit den Menschen organisieren" - Entgegennahme ohne Beschluss
+- TOP 28: Sanierung Stützmauer Neviandtstraße - ungeändert beschlossen
+- TOP 29: Freie Mittel
+- TOP 29.1: Bezuschussung Ölbergfest 2022 - geändert beschlossen
+- TOP 29.2: Zuschuss für das Projekt "Bäume bewässern - Ölberg" des Stadtteilservice Nordstadt - ungeändert beschlossen
+- TOP 30: GFG-Mittel
+- TOP 30.1: Förderung Photovoltaik-Versorgung für das Projekt Wandelgarten - ungeändert beschlossen
