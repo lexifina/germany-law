@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung des Protokolls vom 09.02.2022
+
+- Sitzung: 2. öffentliche Sitzung des Ausschusses für Bürgerdienste (2022-05-25)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=94753
+- Ergebnis: erledigt
