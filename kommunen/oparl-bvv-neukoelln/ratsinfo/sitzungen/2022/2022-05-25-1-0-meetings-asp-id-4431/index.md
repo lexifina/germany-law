@@ -1,0 +1,98 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-05-25T17:00:00+02:00
+- Ende: 2022-05-25T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4431
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4431
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: BMHKW Rudow - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: Drs.: 0313/XXI - Mehr Sicherheit für die Hufeisensiedlung – Mehr Polizeistreifen - ohne Änderungen in der BVV beschlossen
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Versammlungsfreiheit schützen - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Wechsel bei der Besetzung von beratenden Mitgliedern im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl einer Schiedsfrau / eines Schiedsmannes für den Schiedsamtsbezirk 2 - gewählt
+- TOP 7.2: Wahl von Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Die Grundschule am Koppelweg - beantwortet
+- TOP 8.2: Aktuelle Initiativen im Nachbarschaftshaus Karlsgartenstraße - beantwortet
+- TOP 8.3: Verstoß gegen die vorläufige Haushaltswirtschaft - beantwortet
+- TOP 8.4: Keine Aussicht auf einen neuen Migrationsbeirat Neukölln? - beantwortet
+- TOP 8.5: Neue Bürgerämter für Neukölln? - beantwortet
+- TOP 8.6: Beschleunigter Radwegausbau für Neukölln? - beantwortet
+- TOP 8.7: Mehr Geld für den Bezirk? - schriftlich beantwortet
+- TOP 8.8: Grundwasserschäden am Fernwärmenetz Gropiusstadt - schriftlich beantwortet
+- TOP 8.9: Transparenz bei der Neubildung des Ausschusses für Partizipation und Integration? - schriftlich beantwortet
+- TOP 8.10: Freizeiteinrichtungen in Buckow - schriftlich beantwortet
+- TOP 8.11: Kein Termin beim Bürgeramt - Schuldner in Bredouille? - schriftlich beantwortet
+- TOP 8.12: Schuleingangsuntersuchungen durch personelle Ausstattung im Gesundheitsamt bedroht? - schriftlich beantwortet
+- TOP 8.13: Illegaler Parkplatz Hasenheide - was macht das Bezirksamt dagegen? - schriftlich beantwortet
+- TOP 8.14: Sanierungsumfang am Rudower Fließ - schriftlich beantwortet
+- TOP 8.15: Schutz der Hasenheide - schriftlich beantwortet
+- TOP 8.16: Parkraumbewirtschaftung in Neukölln - schriftlich beantwortet
+- TOP 8.17: Kundgebung auf dem Rathausvorplatz - schriftlich beantwortet
+- TOP 8.18: Zensur im Gesundheitsamt - schriftlich beantwortet
+- TOP 8.19: Abbiegeassistenzsysteme - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Ausblick Rudower Höhe - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Fahrradbügel für die Mainzer Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Verbot der Umwandlung von Miet- in Eigentumswohnungen in Milieuschutzgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Sicherer Schulweg über die Blaschkoallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Neuköllner Haushalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Pilotprojekt zur Rekommunalisierung der Schulreinigung - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Busspuren ohne Bürgerbeteiligung - beantwortet
+- TOP 11.3: Ein Straßenbahnnetz für Neukölln - beantwortet
+- TOP 11.4: Schulbauoffensive abgebremst? - schriftlich beantwortet
+- TOP 11.5: Asbest in Neuköllner Schulen - beantwortet
+- TOP 11.6: Asbest in Neuköllner Schulen - beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Fairtrade-Town: Sichtbarkeit der bezirklichen Auszeichnung verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Sichere Finanzierung der Wirtschaftsförderung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Mittelstreifen zu Blühstreifen an der Marienfelder Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Kita "Elif und Emil 3" - Kinder und Erzieher schützen II - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Verkehrskonzept Fontanestraße/Flughafenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bruno-Bauer-Straße 21a: Fußläufigkeit gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Genehmigung von Straßenfesten - beantwortet
+- TOP 13.2: Wie ist der Stand der Schulentwicklungsplanung in Neukölln? - beantwortet
+- TOP 13.3: Klimaschutz in Neukölln jetzt umsetzen - beantwortet
+- TOP 13.4: Veranstaltung „Kultur.Tanken“ am 21.05.2022 auf der ehemaligen ESSO Tankstelle Sonnenallee / Hobrechtstraße - vertagt
+- TOP 13.5: Bundesprogramm „Anpassung urbaner Räume an den Klimawandel“ - vertagt
+- TOP 13.6: Nutzung von öffentlichen Grünanlagen durch kommerzielle Sportkursanbieter - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: AG Schulwegsicherheit - überwiesen
+- TOP 15.2: Zentrum nördliche Sonnenallee - überwiesen
+- TOP 15.3: Katretter – jede Sekunde zählt bei medizinischen Notfällen - überwiesen
+- TOP 15.4: Kippenbehälter für den Rathausplatz - überwiesen
+- TOP 15.5: Ungleichbehandlung bei der geschlechterspezifischen Jugendarbeit von weiblichen und männlichen Kindern und Jugendlichen - überwiesen
+- TOP 15.6: Der Berliner Luftbrücke angemessen gedenken - überwiesen
+- TOP 15.7: Sanierung der Schulsportbäder der Schillingschule und der Schule am Bienwaldring sicher stellen - überwiesen
+- TOP 15.8: Öffentliche Iftar-Feier in Neukölln - überwiesen
+- TOP 15.9: Erhaltungsverordnung Krugpfuhlsiedlung - überwiesen
+- TOP 15.10: Kein Linksabbiegen in den Mariendorfer Weg - überwiesen
+- TOP 15.11: Tempo 30 vor dem S-Bahnhof Köllnische Heide - überwiesen
+- TOP 15.12: Eichhörnchenbrücke Dammweg - überwiesen
+- TOP 15.13: Beschleunigung des Verkehrsflusses an der Kreuzung Neuköllner Straße Ecke Stubenrauchstraße - überwiesen
+- TOP 15.14: Sicher durch die Hufeisensiedlung - überwiesen
+- TOP 15.15: Fließender Verkehr auf den Magistralen in Neukölln-Nord - überwiesen
+- TOP 15.16: Illegale Müllentsorgung rund um das Sportbad Britz - überwiesen
+- TOP 15.17: Einsatzmöglichkeiten von Elektrowärmepumpen prüfen - überwiesen
+- TOP 15.18: Gegen die Vermüllung des öffentlichen Raumes - überwiesen
+- TOP 15.19: Sicher zu Fuß entlang des Landwehrkanals - überwiesen
+- TOP 15.20: Mehr Sicherheit für die Hufeisensiedlung – Mehr Polizeistreifen - ohne Änderungen in der BVV beschlossen
