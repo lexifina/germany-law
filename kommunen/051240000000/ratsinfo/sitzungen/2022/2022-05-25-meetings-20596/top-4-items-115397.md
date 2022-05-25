@@ -1,0 +1,7 @@
+# TOP 4: Planfeststellungsverfahren gemäß § 68 Wasserhaushaltsgesetz zur Übererdung der Klärschlammlagerflächen Buchenhofe (Vortrag Wupperverband)
+
+- Sitzung: des Beirates der Unteren Naturschutzbehörde (2022-05-25)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/115397
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/53278
