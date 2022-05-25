@@ -1,0 +1,135 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2022-05-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6815299
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6815299
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.1.: Alkoholverbot um die S-Bahn-Haltestelle Neuaubing und absoluten Haltverbot zur Verbindung Papinstraße (vertagt aus 04/22)
+- TOP 2.1.2.: Freie Zufahrt zum Böhmerweiher
+- TOP 2.1.3.: Parksituation Streitbergstraße 2
+- TOP 2.1.4.: Ballfangzaun des SV Aubing
+- TOP 2.1.5.: Bouleplatz in der Grünanlage an der Mainaustraße
+- TOP 2.1.6.: Kunreuthstr. Ecke Riesenburgstr. (Telekom-Verteiler Höhe HausNr. 29) Zeitungen
+- TOP 2.1.7.: Aufstellung einer Wertstoffinsel westlich des großen, neuen Spielplatzes an der Mathilde-Berghofer-Weichner-Straße, Einbahnstraßenregelung in der Fritz-Bauer-Straße / Mathilde-Berghofer-Weichner-Straße
+- TOP 2.1.8.: Verkehrssituation Neuaubing
+- TOP 2.1.9.: Keine Verlegung der Bushaltestelle Ilse-Fehling-Straße
+- TOP 2.1.10.: (N) - Verkehrssituation im 22. Stadtbezirk
+- TOP 2.1.11.: (N) - Miet-Elektroscooter
+- TOP 2.1.12.: (N) - Recyclingcontainer Standorte
+- TOP 2.1.13.: (N) - Hoheneckstraße, öffentlicher Weg ja oder nein?
+- TOP 2.1.14.: (N) - Negrellistraße - Gute Anbindung für Fahrradfahrer
+- TOP 2.1.15.: (N) - Probleme Aubinger Allee
+- TOP 2.1.16.: (N) - Fußgängerüberweg Beerencafe (Antrag zur Bürgerversammlung)
+- TOP 2.1.17.: (N) - Fußgängerübergang Kreuzung Langwieder Bach/ Lindacher Straße (Antrag zur Bürgerversammlung)
+- TOP 2.1.18.: (N) - Parkverbotsflächen an der Limesstraße (Antrag zur Bürgerversammlung)
+- TOP 2.1.19.: (N) - Gutachterausschuss München (Antrag zur Bürgerversammlung)
+- TOP 2.1.20.: (N) - Öffentliche Infrastruktur / Supermarkt usw. (Antrag zur Bürgerversammlung)
+- TOP 2.1.21.: (N) - Verkehrsoptimierung rund um Sportanlage Kronwinklerstraße (Antrag zur Bürgerversammlung)
+- TOP 2.1.22.: N - Verkehrsberuhigung in der Lichteneckstraße
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: Baumfällungen zu Bauvorhaben: - Rohrsängerplatz 14
+- TOP 3.1.2.: Baumfällungen mit Bauvorhaben (N) - Zwernitzer Str. 9
+- TOP 3.1.3.: Ablehnungsbescheid zur Baumfällung: (N) - Giechstr. 11-13, Schr. Planungsreferat vom 17.05.22 (N) - Wiesenfelser Str. 47-51, Schr. Planungsreferat vom 16.05.22
+- TOP 3.1.4.: Genehmigungsbescheid zur Baumfällung: (N) - Osterangerstr. 42a, Schr. Planungsreferat vom 16.05.22
+- TOP 4.: Anträge
+- TOP 4.1.: Sofortprogramm zur Beschaffung von S-Bahnzügen zur Verbesserung der Verkehrssituation im Münchner Westen (Robert Brenner)
+- TOP 4.2.: Defekte Sitzbank an der Mainaustraße endlich erneuern (Marion Bergmann, Manfred Spannagl, Sebastian Kriesel)
+- TOP 4.3.: Die U-Bahn nach Freiham, Klarheit schaffen (Sebastian Kriesel, Christian Stockmann, Manfred Spannagl)
+- TOP 4.4.: Die Aubinger "Potentialfläche" nicht bebauuen, Ausstattung mit Freizeit- und Sportflächen (Interfraktioneller Antrag)
+- TOP 4.5.: Überdurchschnittliches Angebot an Fahrradabstellflächen im 2. RA Freiham (Christian Stockmann, Manfred Spannagl, Sebastian Kriesel)
+- TOP 4.6.: Landschaftspark Freiham sofort zur Realisierung bringen (Christian Stockmann, Manfred Spannagl, Sebastian Kriesel)
+- TOP 4.7.: Anfrage: Steg Brachfläche Friedrichshafener Straße (Dagmar Mosch, Siegfried Liedl, Wolfgang Bösing)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl 2023 2.398,00 Euro, Az.: 0262.0-22-0190
+- TOP 5.2.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl vom 27.05. - 29.05.2022 2.398,00 Euro, Az.: 0262.0-22-0189
+- TOP 5.3.: (E) Stadtbezirksbudget Caritas Fachstelle für pflegende Angehörige München West Aufbau und Etablierung eines Anbieters haushaltsnaher Dienstleistungen im Münchner Westen von Oktober - Dezember 2022 4.367,75 Euro, Az.: 0262.0-22-0193
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Genehmigung einer Veranstaltung in der Grünanlage zwischen Radolfzeller Str. und Altenburgstr., "8. Internationales Sommerfest Neuaubing" vom 18.06.-19.06.22, Anhörung KVR vom 04.05.22
+- TOP 6.1.1.2.: Antrag auf Genehmigung einer Veranstaltung in einer städt. Grünanlage, hier: Grünanlage Gleisharfe am Wave Spielplatz an der Hedwig-Kämpfer-Str. "Spielfest zum Weltspieltag" am 28.05.22, Anhörung KVR vom 04.05.22 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.1.1.3.: (N) - Bolzplatz Aubinger Lohe, Anhörung Baureferat vom 11.05.22
+- TOP 6.1.1.4.: (N) - Veranstaltung im Freien auf einer städt. Grünanlage, hier: Grünanlagen Ravensburger Ring und Bürgerbeteiligung zur Umgestaltung der Grünfläche des Ravensburger Rings Nord, Anhörung KVR vom 02.05.22 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: "Ratschbankerl" in München, Schr. Sozialreferat vom 29.04.22
+- TOP 6.2.2.2.: Bildungscampus Freiham: Einsatz von Schulweghelfer*innen bei der Ampelquerung Bodenseestr. / Hans-Stützle-Str. und Querung Helmut-Schmidt-Allee, Nördlicher Eingang Bildungscampus Freiham, Schr. Mobilitätsreferat vom 05.05.22
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Erinnerungsverfahren: Gehwegsanierung Mainaustr. 2-6a, Anhörung Baureferat vom 26.04.22
+- TOP 6.3.1.2.: Verkehrsrechtliche Anordnung, hier: - Eichenauer Str., westlich Imkerweg, Zeichen 209-30 StVO, Anhörung Mobilitätsreferat vom 14.03.22 (vertagt aus 04/22)
+- TOP 6.3.1.3.: Freiham Nord - 1. Realisierungsabschnitt - 3. Straßenendausbauprojekt: Otto-Meitinger-Straße, Gustl-Bayrhammer-Str., Freihamer Weg und Verlegung des provisorischen Autobahnzubringers, Anhörung Baureferat vom 24.03.22 (vertagt aus 04/22)
+- TOP 6.3.1.4.: Widmung der Gesamtstrecke des Belandwiesenweges, Anhörung Baureferat vom 04.05.22
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrsrechtliche Anordnung, hier: - Hoheneckstr. südlich Seldeneckstr., Einrichtung von absoluten Haltverboten, Schr. Mobilitätsreferat vom 25.04.22 - Kronwinkler Str. zwischen Aubing-Ost-Str. und Kastelburgstr., zusätzliche Beschilderung und Markierung, Schr. Mobiliätsreferat vom 25.04.22
+- TOP 6.3.2.2.: Stellungnahme Münchner Forum zum Leistungsprogramm 2023 der MVG zum Fahrplanwechsel Dezember 2022, Schr. Münchner Forum vom 29.04.22
+- TOP 6.3.2.3.: Planfeststellung nach §18 AEG für das Vorhaben Lärmsanierung an bestehenden Schienenwegen des Bundes, München-Pasing Knoten der Strecke 5503 München-Augsburg, Bahn-km 8,000 bis 9,111 in der LHM, Stellungnahme Planungsreferat vom 26.04.22
+- TOP 6.3.2.4.: Beleuchtung Bushaltestelle S-Bahnhof Lochhausen, Schr. Baureferat vom 19.04.22
+- TOP 6.3.2.5.: Reparatur der Schranke Hörweg, Schr. Baureferat vom 10.05.22
+- TOP 6.3.2.6.: Straßenbenennung "Am Bergson Kunstkraftwerk", Schr. Kommunalreferat vom 10.05.22
+- TOP 6.3.2.7.: Wohncontainer Georg-Böhmer-Straße
+- TOP 6.3.2.8.: Baustelleninfo Freiham und Kastelburgstraße, Schr. Baureferat vom 11.05.22
+- TOP 6.3.2.9.: (N) - Geschützte Radweg- und Haltezone am Bildungscampus Freiham errichten, Schr. Mobilitätsreferat vom 06.05.22
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Bodenseestr., Fl.Nr. 3539/81, Werbeanlage, 1 City-Star-Anlage 2-seitig auf Monofuß (beleuchtet), Anhörung Planungsreferat vom 11.04.21 (vertagt aus 04/22)
+- TOP 6.4.1.2.: Klimaschutz konkret - "Klima-Ausschuss" in jedem Bezirksausschuss, Anhörung Direktorium vom 11.01.22
+- TOP 6.4.1.3.: Reichenaustr. 5, Schulbauoffensive mit Mobilitätskonzept - Neubau Haus für Kinder mit 4 Krippen-, 3 Kindergarten- und 1 Hortgruppe sowie Außenanlagen inkl. Abbruch des Bestandsgebäudes, Anhörung Planungsreferat vom 04.05.22
+- TOP 6.4.1.4.: Stadtentwicklungsplan STEP 2040, Beteiligung der BAs, Anhörung Planungsreferat vom 10.05.22
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Verlängerung der Lärmschutzwand an der Lochhausener Straße, Schr. Ref. f. Klima- und Umweltschutz vom 20.04.22
+- TOP 6.4.2.2.: Bauanträge vom 18.04.-24.04.22, 25.04.-01.05.22, 02.05.-08.05.22, (N) 09.05.-15.05.22
+- TOP 6.4.2.3.: Vermüllung der Wertstoffcontainer in der Mainaustraße, Schr. AWM vom 05.05.22
+- TOP 6.4.2.4.: Solarbänke für einen Smart-City-Stadtbezirk, Schr. Ref. f. Arbeit u. Wirtschaft vom 02.05.22
+- TOP 6.4.2.5.: Bauvorhaben der Stadtwerke München, Stichtag: 12.04.-25.04.22, (N) - 25.04.-09.05.22, (N) - 09.05.-15.05.22
+- TOP 6.4.2.6.: (N) - Veröffentlichung Machbarkeitsstudie Böhmerweiher, Schr. Baureferat vom 06.05.22
+- TOP 6.4.2.7.: (N) - Baubeginn Augustiner Bräu, Schr. Planungsreferat vom 16.05.22
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2022-2026, Anhörung Stadtkämmerei vom 11.04.22
+- TOP 7.2.: Benennung von Stadtquartieren, Anhörung Direktorium vom 10.05.22
+- TOP 7.3.: (N) - Migrations-/ Integrationsbeauftragte im Bezirksausschuss, Anhörung Direktorium vom 13.05.22
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Rossittener Str., Schr. Sozialreferat vom 26.04.22 (N) - Überlinger Weg, Schr. Sozialreferat vom 17.05.22
+- TOP 8.2.: Ratsinformationssystem (RIS): Statusänderung der Dokumente BV-Empfehlungen, BA-Anträge sowie Dokumente zu Beschlussvorlagen, die BV-Empfehlungen und BA-Anträge behandeln, im RIS von "öffentlich" auf "nicht öffentlich" für die Jahre 2005-2016, Schr. Direktorium vom 10.05.22
+- TOP 8.3.: (N) - Versammlungsanzeige "Aubing wird vom Verkehr überrollt!" am 25.06.22 in der Eichenauer Str./Wildenrother Str., Schr. KVR vom 13.05.22
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1: Bauausschuss vom 03.05.22
+- TOP 9.1.1.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 9.2: Ausschuss für Stadtplanung und Bauordnung vom 04.05.22
+- TOP 9.2.1.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 9.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Bildungsausschuss vom 04.05.22
+- TOP 9.3.1.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 9.4: Vollversammlung vom 27.04.22
+- TOP 9.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Ausschuss für Stadtplanung und Bauordnung vom 25.05.22
+- TOP 9.5.1.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 9.5.2.: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 9.5.3.: (U) Sanierungsgebiet "Aubing - Neuaubing - Westkreuz" Maßnahmen und Finanzierung 2020-2022 (Korrektur des o.g. Beschlusses vom 27.11.2019, Sitzungsvorlage Nr. 14-20 / V 15138 und der Sanierungssatzung - Anlage 6c) Satzung über die Teilaufhebung der Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes "Aubing - Neuaubing - Westkreuz" Stadtbezirk 22 Aubing - Lochhausen - Langwied
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 10.1.: Protokoll Mieterbeirat vom 25.04.22
+- TOP 10.2.: (N) - Vorbereitungstreffen zum Stadtteilfest Freiham am Mittwoch, den 25.05.22 ab 18.00 Uhr per webex, Schr. MGS vom 13.05.22
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 22.06.22 um 19.00 Uhr im Schulcampus Freiham, Helmut-Schmidt-Allee 41 (Eingang Süd) Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 16.05.22 um 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität: Montag, 16.05.22 um 20.00 Uhr – online - - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 18.05.22 - online - – UA Stadtbezirksbudget, Kultur, Sport: -/-
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.23.: (N) - Parksituation Fritz-Bauer-Straße
+- TOP 2.1.24.: (N) - Aubinger Geschichtspfad, Zwangsarbeiter
+- TOP 3.1: Baumschutzbeauftragte
