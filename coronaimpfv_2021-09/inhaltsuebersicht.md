@@ -1,6 +1,7 @@
 # Inhaltsübersicht
 
 | § 1 | Anspruch |
+| § 1a | Schutzimpfung gegen weitere übertragbare Krankheiten |
 | § 2 | Folge- und Auffrischimpfungen |
 | § 3 | Leistungserbringer |
 | § 4 | Impfsurveillance |

@@ -14,7 +14,7 @@ von Produkten sowie deren Bereitstellung
 auf dem Markt, sonstige Bestimmungen
 | § 4 | Ergänzende Anzeigepflichten |
 | § 5 | Aufbewahrung von Unterlagen im Fall der Beendigung der Geschäftstätigkeit; Verordnungsermächtigung |
-| § 6 | Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung |
+| § 6 | Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung oder einer Leistungsstudie |
 | § 7 | Sonderzulassung, Verordnungsermächtigung |
 | § 8 | Sprachenregelung für die EU-Konformitätserklärung und für Produktinformationen |
 | § 9 | Sondervorschriften für angepasste Produkte |
@@ -22,7 +22,7 @@ auf dem Markt, sonstige Bestimmungen
 | § 11 | Betreiben und Anwenden von Produkten |
 | § 12 | Verbote zum Schutz von Patienten, Anwendern und Dritten |
 | § 13 | Verbote zum Schutz vor Fälschungen und Täuschungen |
-| § 14 | Abgabe von Prüfprodukten |
+| § 14 | Abgabe von Prüfprodukten und Produkten für Leistungsstudien |
 | § 15 | Bereitstellen von Sonderanfertigungen auf dem Markt |
 | § 16 | Ausstellen von Produkten |
 Kapitel 3
@@ -40,7 +40,7 @@ bewertungsstellen für Drittstaaten
 | § 22 | Befugnisse der für Benannte Stellen zuständigen Behörde |
 | § 23 | Auskunftsverweigerungsrecht |
 Kapitel 4
-Klinische Prüfungen
+Klinische Prüfungen, Leistungsstudien
 und sonstige klinische Prüfungen
 Abschnitt 1
 Ergänzende Voraussetzungen
@@ -50,7 +50,7 @@ Ergänzende Voraussetzungen
 | § 27 | Verbot der Durchführung bei untergebrachten Personen |
 | § 28 | Einwilligung in die Teilnahme |
 | § 29 | Einwilligung in die Verarbeitung personenbezogener Daten |
-| § 30 | Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung oder sonstigen klinischen Prüfung |
+| § 30 | Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung, Leistungsstudie oder sonstigen klinischen Prüfung |
 Abschnitt 2
 Voraussetzungen
 für den Beginn, wesentliche
@@ -58,16 +58,19 @@ für den Beginn, wesentliche
 Unterabschnitt 1
 Klinische Prüfungen
 nach Artikel 62 Absatz 1
-der Verordnung (EU) 2017/745
+der Verordnung (EU) 2017/745 und Leistungsstudien
+nach Artikel 58 Absatz 1 und 2 Satz 1 der Verordnung (EU) 2017/746
 Titel 1
 Voraussetzungen für den Beginn
 | § 31 | Beginn einer klinischen Prüfung |
+| § 31a | Beginn einer Leistungsstudie |
+| § 31b | Anzeige von Leistungsstudien mit therapiebegleitenden Diagnostika |
 Titel 2
 Verfahren bei der Ethik-Kommission
 | § 32 | Anforderungen an die Ethik-Kommissionen |
 | § 33 | Antrag bei der Ethik-Kommission |
 | § 34 | Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission |
-| § 35 | Ethische Bewertung der beantragten klinischen Prüfung |
+| § 35 | Ethische Bewertung der beantragten klinischen Prüfung oder Leistungsstudie |
 | § 36 | Frist zur Stellungnahme der Ethik-Kommission |
 | § 37 | Stellungnahme der Ethik-Kommission |
 Titel 3
@@ -77,6 +80,7 @@ Verfahren bei der Bundesoberbehörde
 Titel 4
 Verfahren bei wesentlichen Änderungen
 nach Artikel 75 der Verordnung (EU) 2017/745
+oder Artikel 71 der Verordnung (EU) 2017/746
 | § 40 | Zugang der Ethik-Kommission zu Mitteilungen |
 | § 41 | Stellungnahme der Ethik-Kommission |
 | § 42 | Entscheidung der Bundesoberbehörde |
@@ -124,7 +128,7 @@ und Überwachung; Kontaktstelle
 | § 65 | Verarbeitung und Pseudonymisierung personenbezogener Daten |
 | § 66 | Eigenverantwortliche korrektive Maßnahmen |
 | § 67 | Informationsaustausch |
-| § 68 | Überwachung von klinischen Prüfungen und sonstigen klinischen Prüfungen durch die zuständige Behörde |
+| § 68 | Überwachung von klinischen Prüfungen, Leistungsstudien und sonstigen klinischen Prüfungen durch die zuständige Behörde |
 | § 69 | Korrekturmaßnahmen der Bundesoberbehörden |
 | § 70 | Kontaktstelle |
 Kapitel 5
@@ -133,8 +137,8 @@ Vigilanz und Überwachung
 | § 72 | Zusammenarbeit und Mitwirkungspflichten im Rahmen der Risikobewertung |
 | § 73 | Ergänzende Herstellerpflichten im Rahmen der Vigilanz; Sprachenregelung |
 | § 74 | Verfahren zum Schutz vor Risiken |
-| § 75 | Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 |
-| § 76 | Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745 |
+| § 75 | Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 4 der Verordnung (EU) 2017/746 |
+| § 76 | Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 6 der Verordnung (EU) 2017/746 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 7 der Verordnung (EU) 2017/746 |
 | § 77 | Durchführung der Überwachung |
 | § 78 | Anordnungsbefugnisse der zuständigen Behörden im Rahmen der Überwachung; Informationspflichten |
 | § 79 | Behördliche Befugnisse im Rahmen der Durchführung der Vigilanz und der Überwachung |
@@ -151,7 +155,7 @@ sonstige Bestimmungen
 | § 84 | Beratungspflichten der zuständigen Bundesoberbehörde |
 | § 85 | Zuständigkeiten und Aufgaben der Behörden |
 | § 86 | Deutsches Medizinprodukteinformations- und Datenbanksystem |
-| § 87 | (weggefallen) |
+| § 87 | Gebühren und Auslagen; Verordnungsermächtigung |
 | § 88 | Verordnungsermächtigungen |
 | § 89 | Allgemeine Verwaltungsvorschriften |
 Kapitel 8
@@ -172,3 +176,4 @@ Kapitel 10
 | § 97 | Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745 |
 | § 98 | Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte |
 | § 99 | Sonstige Übergangsregelungen für Medizinprodukte und deren Zubehör |
+| § 100 | Sonstige Übergangsregelungen für In-vitro-Diagnostika und deren Zubehör |

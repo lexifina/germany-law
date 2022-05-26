@@ -12,7 +12,7 @@
 
 - [§ 4 Ergänzende Anzeigepflichten](0004.md)
 - [§ 5 Aufbewahrung von Unterlagen im Fall der Beendigung der Geschäftstätigkeit; Verordnungsermächtigung](0005.md)
-- [§ 6 Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung](0006.md)
+- [§ 6 Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung oder einer Leistungsstudie](0006.md)
 - [§ 7 Sonderzulassung, Verordnungsermächtigung](0007.md)
 - [§ 8 Sprachenregelung für die EU-Konformitätserklärung und für Produktinformationen](0008.md)
 - [§ 9 Sondervorschriften für angepasste Produkte](0009.md)
@@ -20,7 +20,7 @@
 - [§ 11 Betreiben und Anwenden von Produkten](0011.md)
 - [§ 12 Verbote zum Schutz von Patienten, Anwendern und Dritten](0012.md)
 - [§ 13 Verbote zum Schutz vor Fälschungen und Täuschungen](0013.md)
-- [§ 14 Abgabe von Prüfprodukten](0014.md)
+- [§ 14 Abgabe von Prüfprodukten und Produkten für Leistungsstudien](0014.md)
 - [§ 15 Bereitstellen von Sonderanfertigungen auf dem Markt](0015.md)
 - [§ 16 Ausstellen von Produkten](0016.md)
 
@@ -37,7 +37,7 @@
 - [§ 22 Befugnisse der für Benannte Stellen zuständigen Behörde](0022.md)
 - [§ 23 Auskunftsverweigerungsrecht](0023.md)
 
-## Kapitel 4 Klinische Prüfungen und sonstige klinische Prüfungen
+## Kapitel 4 Klinische Prüfungen, Leistungsstudien und sonstige klinische Prüfungen
 
 
 ### Abschnitt 1 Ergänzende Voraussetzungen
@@ -48,24 +48,26 @@
 - [§ 27 Verbot der Durchführung bei untergebrachten Personen](0027.md)
 - [§ 28 Einwilligung in die Teilnahme](0028.md)
 - [§ 29 Einwilligung in die Verarbeitung personenbezogener Daten](0029.md)
-- [§ 30 Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung oder sonstigen klinischen Prüfung](0030.md)
+- [§ 30 Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung, Leistungsstudie oder sonstigen klinischen Prüfung](0030.md)
 
 ### Abschnitt 2 Voraussetzungen für den Beginn, wesentliche Änderungen und Korrekturmaßnahmen
 
 
-#### Unterabschnitt 1 Klinische Prüfungen nach Artikel 62 Absatz 1 der Verordnung (EU) 2017/745
+#### Unterabschnitt 1 Klinische Prüfungen nach Artikel 62 Absatz 1 der Verordnung (EU) 2017/745 und Leistungsstudien nach Artikel 58 Absatz 1 und 2 Satz 1 der Verordnung (EU) 2017/746
 
 
 ##### Titel 1 Voraussetzungen für den Beginn
 
 - [§ 31 Beginn einer klinischen Prüfung](0031.md)
+- [§ 31a Beginn einer Leistungsstudie](0031a.md)
+- [§ 31b Anzeige von Leistungsstudien mit therapiebegleitenden Diagnostika](0031b.md)
 
 ##### Titel 2 Verfahren bei der Ethik-Kommission
 
 - [§ 32 Anforderungen an die Ethik-Kommissionen](0032.md)
 - [§ 33 Antrag bei der Ethik-Kommission](0033.md)
 - [§ 34 Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission](0034.md)
-- [§ 35 Ethische Bewertung der beantragten klinischen Prüfung](0035.md)
+- [§ 35 Ethische Bewertung der beantragten klinischen Prüfung oder Leistungsstudie](0035.md)
 - [§ 36 Frist zur Stellungnahme der Ethik-Kommission](0036.md)
 - [§ 37 Stellungnahme der Ethik-Kommission](0037.md)
 
@@ -74,7 +76,7 @@
 - [§ 38 Antrag](0038.md)
 - [§ 39 Umfang der Prüfung des Antrags](0039.md)
 
-##### Titel 4 Verfahren bei wesentlichen Änderungen nach Artikel 75 der Verordnung (EU) 2017/745
+##### Titel 4 Verfahren bei wesentlichen Änderungen nach Artikel 75 der Verordnung (EU) 2017/745 oder Artikel 71 der Verordnung (EU) 2017/746
 
 - [§ 40 Zugang der Ethik-Kommission zu Mitteilungen](0040.md)
 - [§ 41 Stellungnahme der Ethik-Kommission](0041.md)
@@ -128,7 +130,7 @@
 - [§ 65 Verarbeitung und Pseudonymisierung personenbezogener Daten](0065.md)
 - [§ 66 Eigenverantwortliche korrektive Maßnahmen](0066.md)
 - [§ 67 Informationsaustausch](0067.md)
-- [§ 68 Überwachung von klinischen Prüfungen und sonstigen klinischen Prüfungen durch die zuständige Behörde](0068.md)
+- [§ 68 Überwachung von klinischen Prüfungen, Leistungsstudien und sonstigen klinischen Prüfungen durch die zuständige Behörde](0068.md)
 - [§ 69 Korrekturmaßnahmen der Bundesoberbehörden](0069.md)
 - [§ 70 Kontaktstelle](0070.md)
 
@@ -138,8 +140,8 @@
 - [§ 72 Zusammenarbeit und Mitwirkungspflichten im Rahmen der Risikobewertung](0072.md)
 - [§ 73 Ergänzende Herstellerpflichten im Rahmen der Vigilanz; Sprachenregelung](0073.md)
 - [§ 74 Verfahren zum Schutz vor Risiken](0074.md)
-- [§ 75 Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745](0075.md)
-- [§ 76 Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745](0076.md)
+- [§ 75 Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 4 der Verordnung (EU) 2017/746](0075.md)
+- [§ 76 Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 6 der Verordnung (EU) 2017/746 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 7 der Verordnung (EU) 2017/746](0076.md)
 - [§ 77 Durchführung der Überwachung](0077.md)
 - [§ 78 Anordnungsbefugnisse der zuständigen Behörden im Rahmen der Überwachung; Informationspflichten](0078.md)
 - [§ 79 Behördliche Befugnisse im Rahmen der Durchführung der Vigilanz und der Überwachung](0079.md)
@@ -178,3 +180,4 @@
 - [§ 97 Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745](0097.md)
 - [§ 98 Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte](0098.md)
 - [§ 99 Sonstige Übergangsregelungen für Medizinprodukte und deren Zubehör](0099.md)
+- [§ 100 Sonstige Übergangsregelungen für In-vitro-Diagnostika und deren Zubehör](0100.md)

@@ -1,8 +1,9 @@
-# Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
+# Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 und auf weitere Schutzimpfungen
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 - [§ 1 Anspruch](0001.md)
+- [§ 1a Schutzimpfung gegen weitere übertragbare Krankheiten](0001a.md)
 - [§ 2 Folge- und Auffrischimpfungen](0002.md)
 - [§ 3 Leistungserbringer](0003.md)
 - [§ 4 Impfsurveillance](0004.md)
