@@ -1,0 +1,16 @@
+# Verordnung über die Feststellung der gesundheitlichen Eignung von Seelotsinnen und Seelotsen
+
+- [§ 1 Anwendungsbereich, Begriffsbestimmungen](0001.md)
+- [§ 2 Anforderungen an die Eignung der Seelotsinnen und Seelotsen](0002.md)
+- [§ 3 Anforderungen an die Eignung der Seelotsenbewerberinnen und Seelotsenbewerber](0003.md)
+- [§ 4 Durchführung der Seelotseignungsuntersuchung](0004.md)
+- [§ 5 Seelotseignungszeugnis](0005.md)
+- [§ 6 Ablehnung der Seelotseignung, Widerspruch](0006.md)
+- [§ 7 Zugelassene Ärztinnen und Ärzte](0007.md)
+- [§ 8 Dokumentationspflichten, Zugang zum Seelotseignungsverzeichnis](0008.md)
+- [§ 9 Kostentragung](0009.md)
+- [§ 10 Muster](0010.md)
+- [§ 11 Anwendungs- und Übergangsbestimmungen](0011.md)
+- [Anlage 1 (zu § 2 Absatz 1 Nummer 2 und § 4 Absatz 2 Satz 2)Umfang der Seelotseignungsuntersuchung](anlage-1.md)
+- [Anlage 2 (zu § 3 Absatz 2)Psychologischer Eignungstest für Seelotsenbewerberinnen und Seelotsenbewerber](anlage-2.md)
+- [Anlage 3 (zu § 11 Absatz 5)Vergleichbarkeit der Ergebnisse der psychologischen Eignungstests nach bisherigem und neuem Recht](anlage-3.md)

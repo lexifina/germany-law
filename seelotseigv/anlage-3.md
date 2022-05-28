@@ -1,0 +1,11 @@
+# Anlage 3 (zu § 11 Absatz 5)Vergleichbarkeit der Ergebnisse der psychologischen Eignungstests nach bisherigem und neuem Recht
+
+Die Aufsichtsbehörde für das Seelotswesen hat bei der Zulassung der Seelotsenanwärterinnen und oder Seelotsenanwärter nach § 9 des Seelotsgesetzes die untenstehenden Maßstäbe zur Vergleichbarkeit der Ergebnisse der bisherigen psychologischen Untersuchungen nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung vom 12. März 1998 (BGBl. I S. 511), die durch Artikel 1 der Verordnung vom 20. Oktober 2004 (BGBl. I S. 2652) geändert worden ist, mit den psychologischen Eignungstests nach § 3 dieser Verordnung zugrunde zu legen.
+Nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung (bisheriges Recht) fließt das Ergebnis der psychologischen Untersuchung in die Gesamtbewertung des Seeärztlichen Dienstes durch eine gesonderte Bescheinigung ein. Diese Bescheinigung enthält die Bewertung der psychologischen Untersuchung nach den Bewertungsstufen „gut geeignet“, „befriedigend geeignet“, „geeignet“ oder „nicht geeignet“.
+Nach § 3 Absatz 3 in Verbindung mit Anlage 2 der Seelotseignungsverordnung (neues Recht) fasst der Zielerreichungsgrad des psychologischen Eignungstests alle bei einer Seelotsenbewerberin oder einem Seelotsenbewerber getesteten Leistungs- und Verhaltensmerkmale in einem Zahlenwert von 1 bis 100 zusammen.
+Die Ergebnisse einer psychologischen Untersuchung nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung entsprechen den folgenden Zielerreichungsgraden nach § 3 Absatz 3 in Verbindung mit Anlage 2 der Seelotseignungsverordnung:
+| Bewertungsstufen nach § 3 Absatz 2der Seelotsenuntersuchungsverordnung (bisheriges Recht) | Zielerreichungsgrad nach § 3 Absatz 3in Verbindung mit Anlage 2 der Seelotseignungsverordnung (neues Recht) |
+| nicht geeignet | 0 bis 54 |
+| geeignet | 55 bis 77 |
+| befriedigend geeignet | 78 bis 96 |
+| gut geeignet | 97 bis 100 |

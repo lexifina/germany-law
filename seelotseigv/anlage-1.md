@@ -1,0 +1,24 @@
+# Anlage 1 (zu § 2 Absatz 1 Nummer 2 und § 4 Absatz 2 Satz 2)Umfang der Seelotseignungsuntersuchung
+
+Der Umfang der Seelotseignungsuntersuchung ergibt sich aus der nachfolgenden Tabelle:
+| I. Grundsätzlicher Untersuchungsumfang (wie bei Besatzungsmitgliedern des Decksdienstes) |
+| Ärztliche Leistung | Inhalt | GOÄ-Ziffer | Steigerungs faktor |
+| Anamneseerhebung | Ausführliche Anamneseerhebung einschließlich Fragebogen | 1 | 3,5 |
+| Ganzkörperuntersuchung | Körperliche Untersuchung einschließlich RR-, Herzfrequenz-, Körpergröße- und Körpergewichtsmessung, Bestimmung des Body-Mass-Index | 8 | 2,3 |
+| Sehtest | Überprüfung der Sehschärfe durch Bestimmung des Visus nach Snellen oder einem äquivalenten Verfahren; Überprüfung des Nahsehens durch Tafeln nach Nieden oder einem äquivalenten Verfahren | 1200 | 2,3 |
+| Urinuntersuchung | Untersuchung des Urins auf Glukose, Eiweiß und Blut | 3511 | 1,15 |
+| Ergebnismitteilung | Belehrung der untersuchten Person über den Inhalt des Zeugnisses | In Nummer 1 enthalten | entfällt |
+| Zeugnisausstellung | Erfassung der Untersuchungsergebnisse im Seelotseignungsverzeichnis, Erteilung des Seelotseignungszeugnisses | 75 | 2,3 |
+| Farbsinnprüfung | Überprüfung des Farbsehvermögens durch Farbtafeln zweier anerkannter Systeme | In Nummer 8 enthalten | entfällt |
+| II. Seelotsbezogene zusätzliche Untersuchungen |
+| EKG | Elektrokardiographische Untersuchung mit Belastung | 652 | 2,3 |
+| Dämmerungssehen | Untersuchung des Dämmerungssehens, ohne Blendung | 1234 | 2,3 |
+| Untersuchung des Dämmerungssehens, mit Blendung | 1235 | 2,3 |
+| Blutentnahme | Blutentnahme mittels Kanüle oder Katheter aus der Vene | 250 | 1,8 |
+| Blutbild | Kleines Blutbild | 3550 | 1,15 |
+| Substrate, Metabolite, Enzyme | Gamma-GT | 3592.H1 | 1,15 |
+| GPT | 3595.H1 | 1,15 |
+| GOT | 3594.H1 | 1,15 |
+| HbA1 | 3561 | 1,15 |
+| Kreatinin | 3585.H1 | 1,15 |
+| Laboruntersuchungen | Zusätzliche Blutlaboruntersuchungen auf Anordnung des Seeärztlichen Dienstes | Gemäß GOÄ-Ziffern Abschnitt Laboratoriums-untersuchungen | 1,15 |
