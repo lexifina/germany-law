@@ -3,14 +3,16 @@
 
 ## Kapitel 1 Allgemeine Bestimmungen
 
-- [§ 1 Zweck des Gesetzes](0001.md)
-- [§ 2 Definitionen](0002.md)
+- [§ 1 Zweck des Gesetzes; Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Verbot unlauterer geschäftlicher Handlungen](0003.md)
 - [§ 3a Rechtsbruch](0003a.md)
 - [§ 4 Mitbewerberschutz](0004.md)
 - [§ 4a Aggressive geschäftliche Handlungen](0004a.md)
 - [§ 5 Irreführende geschäftliche Handlungen](0005.md)
 - [§ 5a Irreführung durch Unterlassen](0005a.md)
+- [§ 5b Wesentliche Informationen](0005b.md)
+- [§ 5c Verbotene Verletzung von Verbraucherinteressen durch unlautere geschäftliche Handlungen](0005c.md)
 - [§ 6 Vergleichende Werbung](0006.md)
 - [§ 7 Unzumutbare Belästigungen](0007.md)
 - [§ 7a Einwilligung in Telefonwerbung](0007a.md)
@@ -37,6 +39,7 @@
 ## Kapitel 4 Straf- und Bußgeldvorschriften
 
 - [§ 16 Strafbare Werbung](0016.md)
-- [(XXXX) §§ 17 bis 19 (weggefallen)](xxxx-17-bis-19.md)
+- [(XXXX) §§ 17 u. 18 (weggefallen)](xxxx-17-u-18.md)
+- [§ 19 Bußgeldvorschriften bei einem weitverbreiteten Verstoß und einem weitverbreiteten Verstoß mit Unions-Dimension](0019.md)
 - [§ 20 Bußgeldvorschriften](0020.md)
 - [Anhang (zu § 3 Absatz 3)](anhang.md)

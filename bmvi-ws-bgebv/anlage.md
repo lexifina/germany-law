@@ -29,6 +29,8 @@ Leistungen auf dem Gebiet des Aus- und Neubaus von Bundeswasserstraßen und der 
 | 18 | Schriftliche Befreiung von der Vorschrift über die Grenzen und die Benutzung der Yachthäfen Brunsbüttel und Kiel-Holtenau | § 12 Schleusenbetriebsverordnung der Generaldirektion Wasserstraßen und Schifffahrt |  | 405 – 1 232 |
 | 19 | Schriftliche Einzelgenehmigung Borkum | § 2 Absatz 1 StrandschutzwerkSicherungsV |  | 118 |
 | 20 | Schriftliche Einzelgenehmigung Wangerooge | § 2 Absatz 1 DünenSchV |  | 156 |
+| 21 | Verfügung eines Durchfahrtsverbots | § 4 Absatz 3 Satz 1 NOK-GefAbwV |  | 111 |
+| 22 | Anordnung einer Nutzungsbeschränkung | § 4 Absatz 3 Satz 1 NOK-GefAbwV |  | 74,40 – 223 |
 Abschnitt 2
 Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt

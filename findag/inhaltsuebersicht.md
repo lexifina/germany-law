@@ -13,6 +13,7 @@
 | § 4e | Vorschriften über die Verarbeitung personenbezogener Daten |
 | § 4f | Elektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf |
 | § 4g | Elektronische Zustellung durch Bereitstellung zum Abruf |
+| § 4h | Bekanntgabe und Zustellung im Ausland |
 | Zweiter Abschnitt |
 |  | Organisation |
 | § 5 | Organe, Satzung |

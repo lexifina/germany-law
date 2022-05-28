@@ -438,14 +438,15 @@ erbrachter Leistung](0281.md)
 - [§ 312g Widerrufsrecht](0312g.md)
 - [§ 312h Kündigung und Vollmacht zur Kündigung](0312h.md)
 
-##### Kapitel 3 Verträge im elektronischen Geschäftsverkehr
+##### Kapitel 3 Verträge im elektronischen Geschäftsverkehr; Online-Marktplätze
 
 - [§ 312i Allgemeine Pflichten im elektronischen Geschäftsverkehr](0312i.md)
 - [§ 312j Besondere Pflichten im elektronischen Geschäftsverkehr gegenüber Verbrauchern](0312j.md)
 
 ##### Kapitel 4 Abweichende Vereinbarungen und Beweislast
 
-- [§ 312k Abweichende Vereinbarungen und Beweislast](0312k.md)
+- [§ 312k Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen](0312k.md)
+- [§ 312l Abweichende Vereinbarungen und Beweislast](0312l.md)
 
 ##### Untertitel 3 Anpassung und Beendigung von Verträgen
 
@@ -550,10 +551,11 @@ erbrachter Leistung](0281.md)
 - [§ 356d Widerrufsrecht des Verbrauchers bei unentgeltlichen Darlehensverträgen und unentgeltlichen Finanzierungshilfen](0356d.md)
 - [§ 356e Widerrufsrecht bei Verbraucherbauverträgen](0356e.md)
 - [§ 357 Rechtsfolgen des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen](0357.md)
-- [§ 357a Rechtsfolgen des Widerrufs von Verträgen über Finanzdienstleistungen](0357a.md)
-- [§ 357b Rechtsfolgen des Widerrufs von Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, Vermittlungsverträgen und Tauschsystemverträgen](0357b.md)
-- [§ 357c Rechtsfolgen des Widerrufs von weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossenen Ratenlieferungsverträgen](0357c.md)
-- [§ 357d Rechtsfolgen des Widerrufs bei Verbraucherbauverträgen](0357d.md)
+- [§ 357a Wertersatz als Rechtsfolge des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen](0357a.md)
+- [§ 357b Rechtsfolgen des Widerrufs von Verträgen über Finanzdienstleistungen](0357b.md)
+- [§ 357c Rechtsfolgen des Widerrufs von Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, Vermittlungsverträgen und Tauschsystemverträgen](0357c.md)
+- [§ 357d Rechtsfolgen des Widerrufs von weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossenen Ratenlieferungsverträgen](0357d.md)
+- [§ 357e Rechtsfolgen des Widerrufs bei Verbraucherbauverträgen](0357e.md)
 - [§ 358 Mit dem widerrufenen Vertrag verbundener Vertrag](0358.md)
 - [§ 359 Einwendungen bei verbundenen Verträgen](0359.md)
 - [§ 360 Zusammenhängende Verträge](0360.md)

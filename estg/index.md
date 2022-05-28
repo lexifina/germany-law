@@ -361,6 +361,20 @@
 
 - [§ 110 Anpassung von Vorauszahlungen für den Veranlagungszeitraum 2019](0110.md)
 - [§ 111 Vorläufiger Verlustrücktrag für 2020 und 2021](0111.md)
+
+## XV. Energiepreispauschale
+
+- [§ 112 Veranlagungszeitraum, Höhe](0112.md)
+- [§ 113 Anspruchsberechtigung](0113.md)
+- [§ 114 Entstehung des Anspruchs](0114.md)
+- [§ 115 Festsetzung mit der Einkommensteuerveranlagung](0115.md)
+- [§ 116 Anrechnung auf die Einkommensteuer](0116.md)
+- [§ 117 Auszahlung an Arbeitnehmer](0117.md)
+- [§ 118 Energiepreispauschale im Einkommensteuer-Vorauszahlungsverfahren](0118.md)
+- [§ 119 Steuerpflicht](0119.md)
+- [§ 120 Anwendung der Abgabenordnung](0120.md)
+- [§ 121 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung](0121.md)
+- [§ 122 Nichtberücksichtigung als Einkommen bei Sozialleistungen](0122.md)
 - [Anlage 1 (zu § 4d Absatz 1)Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen](anlage-1.md)
 - [Anlage 1a (zu § 13a)Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen](anlage-1a.md)
 - [Anlage 2 (zu § 43b) Gesellschaften im Sinne der Richtlinie Nr. 2011/96/EU](anlage-2.md)

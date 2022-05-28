@@ -112,7 +112,7 @@ Gewerbebefugnisse
 - [§ 55e Sonn- und Feiertagsruhe](0055e.md)
 - [§ 55f Haftpflichtversicherung](0055f.md)
 - [§ 56 Im Reisegewerbe verbotene Tätigkeiten](0056.md)
-- [§ 56a Ankündigung des Gewerbebetriebs, Wanderlager](0056a.md)
+- [§ 56a Wanderlager](0056a.md)
 - [§ 57 Versagung der Reisegewerbekarte](0057.md)
 - [(XXXX) §§ 57a und 58 (weggefallen)](xxxx-57a-und-58.md)
 - [§ 59 Untersagung reisegewerbekartenfreier Tätigkeiten](0059.md)

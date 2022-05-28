@@ -99,7 +99,7 @@
 | § 55e | Sonn- und Feiertagsruhe |
 | § 55f | Haftpflichtversicherung |
 | § 56 | Im Reisegewerbe verbotene Tätigkeiten |
-| § 56a | Ankündigung des Gewerbebetriebs, Wanderlager |
+| § 56a | Wanderlager |
 | § 57 | Versagung der Reisegewerbekarte |
 | §§ 57a und 58 | (weggefallen) |
 | § 59 | Untersagung reisegewerbekartenfreier Tätigkeiten |

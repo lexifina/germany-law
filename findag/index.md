@@ -15,6 +15,7 @@
 - [§ 4e Vorschriften über die Verarbeitung personenbezogener Daten](0004e.md)
 - [§ 4f Elektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf](0004f.md)
 - [§ 4g Elektronische Zustellung durch Bereitstellung zum Abruf](0004g.md)
+- [§ 4h Bekanntgabe und Zustellung im Ausland](0004h.md)
 
 ## Zweiter Abschnitt Organisation
 

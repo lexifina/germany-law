@@ -13,6 +13,10 @@
 - [§ 7 Einzeleingriff im Seeverkehr außerhalb des deutschen Küstenmeeres](0007.md)
 - [§ 8 Erteilung von Genehmigungen](0008.md)
 - [§ 9 Erteilung von Zertifikaten](0009.md)
+- [§ 9a Befugnisse zur Ermittlung von Geldern und wirtschaftlichen Ressourcen](0009a.md)
+- [§ 9b Befugnisse zur Sicherstellung von Geldern und wirtschaftlichen Ressourcen](0009b.md)
+- [§ 9c Modalitäten der Sicherstellung](0009c.md)
+- [§ 9d Verarbeitung personenbezogener Daten bei der Ermittlung und Sicherstellung von Geldern und wirtschaftlichen Ressourcen](0009d.md)
 
 ## Teil 2 Ergänzende Vorschriften
 
@@ -34,7 +38,8 @@
 - [§ 21 Aufgaben und Befugnisse der Zollbehörden](0021.md)
 - [§ 22 Straf- und Bußgeldverfahren](0022.md)
 - [§ 23 Allgemeine Auskunftspflicht](0023.md)
-- [§ 24 Übermittlung von Informationen durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)](0024.md)
+- [§ 23a Anzeigepflichten](0023a.md)
+- [§ 24 Übermittlung von Informationen](0024.md)
 - [§ 25 Automatisiertes Abrufverfahren](0025.md)
 - [§ 26 Übermittlung personenbezogener Daten aus Strafverfahren](0026.md)
 - [§ 27 Überwachung des Fracht-, Post- und Reiseverkehrs](0027.md)

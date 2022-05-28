@@ -21,6 +21,7 @@
 - [§ 12 Adressaten einer Maßnahme wegen möglichen Verstoßes gegen Artikel 14 oder 15 der Verordnung (EU) Nr. 596/2014](0012.md)
 - [§ 13 Sofortiger Vollzug](0013.md)
 - [§ 14 Befugnisse zur Sicherung des Finanzsystems](0014.md)
+- [§ 14a Befugnisse zur Durchsetzung von Sanktionsmaßnahmen](0014a.md)
 - [§ 15 Produktintervention](0015.md)
 - [§ 16 Wertpapierrat](0016.md)
 - [§ 17 Zusammenarbeit mit anderen Behörden im Inland](0017.md)

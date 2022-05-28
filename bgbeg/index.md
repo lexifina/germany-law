@@ -1196,6 +1196,24 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 #### Art 246c Informationspflichten bei Verträgen im elektronischen Geschäftsverkehr
 
 
+#### Art 246d Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
+
+
+#### Art 246d
+
+
+#### Art 246d
+
+
+#### Art 246e Verbotene Verletzung von Verbraucherinteressen und Bußgeldvorschriften
+
+
+#### Art 246e
+
+
+#### Art 246e
+
+
 #### Art 247 Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen
 
 
