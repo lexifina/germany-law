@@ -1,4 +1,4 @@
-# Anlage 1 ((zu § 1 Absatz 1 Nummer 1 und Absatz 7 und § 2 Absatz 2)Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
+# Anlage 1 (zu § 1 Absatz 1 Nummer 1 und Absatz 7 und § 2 Absatz 2)Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
 
 Fundstelle: (BGBl. I 2021, 1298 - 1305)
 | Lfd. Nr. | Bezeichnung der Wasserstraße | Endpunkte der Wasserstraße |
