@@ -55,15 +55,23 @@ Dienstverhältnisse
 
 - [§ 24 Sonderregelung für öffentlich-rechtliche Dienstverhältnisse](0024.md)
 
-## Abschnitt 6 Antidiskriminierungsstelle
+## Abschnitt 6 Antidiskriminierungsstelle des Bundes und Unabhängige Bundesbeauftragte oder Unabhängiger Bundesbeauftragter für Antidiskriminierung
 
 - [§ 25 Antidiskriminierungsstelle des Bundes](0025.md)
-- [§ 26 Rechtsstellung der Leitung der Antidiskriminierungsstelle des Bundes](0026.md)
-- [§ 27 Aufgaben](0027.md)
-- [§ 28 Befugnisse](0028.md)
-- [§ 29 Zusammenarbeit mit Nichtregierungsorganisationen und anderen
-Einrichtungen](0029.md)
-- [§ 30 Beirat](0030.md)
+- [§ 26 Wahl der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung; Anforderungen](0026.md)
+- [§ 26a Rechtsstellung der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung](0026a.md)
+- [§ 26b Amtszeit der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung](0026b.md)
+- [§ 26c Beginn und Ende des Amtsverhältnisses der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung; Amtseid](0026c.md)
+- [§ 26d Unerlaubte Handlungen und Tätigkeiten der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung](0026d.md)
+- [§ 26e Verschwiegenheitspflicht der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung](0026e.md)
+- [§ 26f Zeugnisverweigerungsrecht der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung](0026f.md)
+- [§ 26g Anspruch der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung auf Amtsbezüge, Versorgung und auf andere Leistungen](0026g.md)
+- [§ 26h Verwendung der Geschenke an die Unabhängige Bundesbeauftragte oder den Unabhängigen Bundesbeauftragten für Antidiskriminierung](0026h.md)
+- [§ 26i Berufsbeschränkung](0026i.md)
+- [§ 27 Aufgaben der Antidiskriminierungsstelle des Bundes](0027.md)
+- [§ 28 Amtsbefugnisse der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung und Pflicht zur Unterstützung durch Bundesbehörden und öffentliche Stellen des Bundes](0028.md)
+- [§ 29 Zusammenarbeit der Antidiskriminierungsstelle des Bundes mit Nichtregierungsorganisationen und anderen Einrichtungen](0029.md)
+- [§ 30 Beirat der Antidiskriminierungsstelle des Bundes](0030.md)
 
 ## Abschnitt 7 Schlussvorschriften
 
