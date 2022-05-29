@@ -27,3 +27,6 @@ Nummer | Gericht
 23. | Amtsgericht Plauen
 24. | Amtsgericht Zwickau
 25. | Amtsgericht Leipzig
+26. | Arbeitsgericht Bautzen
+27. | Arbeitsgericht Dresden
+28. | Arbeitsgericht Zwickau
