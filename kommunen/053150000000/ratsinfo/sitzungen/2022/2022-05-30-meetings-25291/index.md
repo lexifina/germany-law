@@ -1,0 +1,54 @@
+# Sitzung des Betriebsausschusses Gebäudewirtschaft
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-30T16:00:00+02:00
+- Ende: 2022-05-30T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/29
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25291
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25291
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung sachkundiger Einwohner*innen
+- TOP -: B Kulturbauten
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: B2 Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 4. Mai 2022 - Kenntnis genommen
+- TOP -: B3 Sachstandsbericht zur Zentralbibliothek Köln, Stand 13. Mai 2022 - Kenntnis genommen
+- TOP -: B4 Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 20. April 2022 - Kenntnis genommen
+- TOP -: C Einholung eines Stimmungsbildes zur Möglichkeit eines Livestreams der Sitzungen des Betriebsausschusses Gebäudewirtschaft - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Sanierungsstau bei den Sporthallen - zu Anfrage AN/0708/2022 der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der Fraktion VOLT - Kenntnis genommen
+- TOP 1.2: Gebäude-Elektromobilitätsinfrastruktur-Gesetz - GEIG - zurückgestellt
+- TOP 1.2.1: Gebäude-Elektromobilitätsinfrastruktur-Gesetz (GEIG) - zur gemeinsamen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt - AN/0745/2022 - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: „Wenn Schule wirklich Priorität haben soll..." Einleitung eines Planungs- und Bauverfahrens zur Errichtung eines Schulinterimbaus für eine neue Gesamtschule auf der Vogelsanger Straße - zu AN/0711/2022 und AN/0750/2022 - Kenntnis genommen
+- TOP 2.1.1: „Wenn Schule wirklich Priorität haben soll..." Einleitung eines Planungs- und Bauverfahrens zur Errichtung eines Schulinterimbaus für eine neue Gesamtschule auf der Vogelsanger Straße - zu AN/0711/2022 und AN/0750/2022 - Kenntnis genommen
+- TOP 2.2: Schulbaupaket II geplante Baumaßnahme für die GGS Hohe Str. 77 in Porz-Ensen - endgültig zurückgezogen
+- TOP 2.3: Modellprojekt Unisex-Toiletten - ungeändert beschlossen
+- TOP 3: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 4: Entscheidungen (Beschlussorgan Betriebsausschuss Gebäudewirtschaft)
+- TOP 4.1: Grundsanierung des Gebäudes Martinstraße 30 - Planungs- und Baubeschluss - NEUFASSUNG - - ungeändert beschlossen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder andere Ausschüsse)
+- TOP 5.1: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer 4-zügigen Grundschule mit zwei Sportübungseinheiten im Stadtteil Köln-Rondorf Nord-West - ungeändert beschlossen
+- TOP 5.2: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors oder einer Investorin mit Grundstück zur Planung und Errichtung einer Grund- und Gesamtschule im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 5.3: Wirtschaftsplan 2022 der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 5.4: Bauliche Maßnahmen im Berufskolleg Deutzer Freiheit, Eumeniusstraße 4, 50679 Köln-Deutz: Ertüchtigung der Verkabelung, Herrichtung eines naturwissenschaftlichen Fachraums und Akustikmaßnahmen - ungeändert beschlossen
+- TOP 5.5: Erstellung eines Erweiterungsbaus Küche mit Mensa sowie die erforderlichen Nebenräume für die offene Ganztagsschule inklusive Anbau einer Aufzugsanlage für die Grundschule Ernstbergstr. 2, 50765 Köln-Blumenberg - ungeändert beschlossen
+- TOP 5.6: Sanierung der Trauerhalle auf dem Friedhof Weiß und Umnutzung als Kolumbarium - Bedarfsfeststellungs- und Baubeschluss - ungeändert beschlossen
+- TOP 5.7: Sanierung der alten Trauerhalle auf dem Friedhof Melaten und Umnutzung als Kolumbarium - Bedarfsfeststellungs- und Baubeschluss - ungeändert beschlossen
+- TOP 5.8: TU-/GU-Schulbaumaßnahme: Aula der Katharina-Henoth-Gesamtschule Adalbertstraße durch Totalunternehmen - Planungs-, Bau- und Mittelfreigabebeschluss - ungeändert beschlossen
+- TOP 5.9: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines oder mehrerer Investor*innen mit Grundstück zur Planung und Errichtung eines Gymnasiums im Stadtbezirk Porz - ohne Votum in nachfolgende Gremien
+- TOP 5.9.1: Änderungsantrag zu 13.1 Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines oder mehrerer Investor*innen mit Grundstück zur Planung und Errichtung eines Gymnasiums im Stadtbezirk Porz - ohne Votum in nachfolgende Gremien
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Evaluation von ÖPP-Projekten - halbjährlicher Bericht, Stand 30. März 2022 - zurückgestellt
+- TOP 7.2: Sachstand zu Schulhofentsiegelungen - zu AN/2094/2021 (Beschluss des Finanzausschusses vom 04.10.2021) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3: Information zu den Interimsstandorten Kreutzer Straße und Venloer Wall - Kenntnis genommen
+- TOP 7.4: Beschluss der Bezirksvertretung Innenstadt zu den Grundschul-Interims auf der Vogelsanger Straße statt am Venloer Wall vom 7.4.2022 - Kenntnis genommen
+- TOP 7.5: Zwischenbericht der Gebäudewirtschaft der Stadt Köln zum 31.03.2022 - Kenntnis genommen
+- TOP 7.6: Interimsstandort Venloer Wall - zu AN/1051/2022 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
