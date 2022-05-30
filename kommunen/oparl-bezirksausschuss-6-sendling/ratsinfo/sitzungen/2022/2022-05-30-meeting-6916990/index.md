@@ -1,0 +1,99 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-05-30T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6916990
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6916990
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Mögliche Vermietung des Hochbunkers in der Thalkirchner Straße
+- TOP 2.2.: Müll im öffentlichen Raum
+- TOP 2.3.: Ampelschaltung Ecke Wackersberger Straße/ Implerstraße
+- TOP 2.4.: Sommerstraße Schöttlstraße
+- TOP 2.5.: Kanaldeckel in der Esswurmstraße
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Neuvermietung des Ladenlokals Nr. 5 in der Sortieranlage, Markthallen München
+- TOP 4.2.2.: Mehrjahresinvestitionsplan 2021-2025 Broschüre
+- TOP 4.2.3.: Sitzungsvorlage zum Bau einer Mehrgenerationenanlage Meindlstraße 14a
+- TOP 4.2.4.: Einwendungen hinsichtlich Verkehrssicherheit zu einer Buswartehalle in der Brudermühlstraße
+- TOP 4.2.5.: Vollzug der Baumschutzverordnung Bauvorhaben Implerstraße 17
+- TOP 4.2.6.: Bauvorhaben Pfeuferstraße (ohne Nummer)
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Brunnen am Neuhofener Berg Antwort
+- TOP 4.3.3.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 4.3.4.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 4.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.6.: Baumfällung Berlepschstraße 6
+- TOP 4.3.7.: Baumfällung Karwendelstraße 24a
+- TOP 4.3.8.: Modernisierungsmaßnahmen Daiserstraße 41
+- TOP 4.3.9.: (E) + (U) Bauvorhaben an der Lindwurmstraße 122 Empfehlung Nr. 20-26 / E 00414 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021
+- TOP 4.3.10.: Anfrage zum Sachstand Umbau der Flößergasse und Zechstraße Antwort
+- TOP 4.3.11.: Anfrage des BA 6 zum bauvorhaben an der Alramstraße 14 Antwort
+- TOP 4.3.12.: Protokoll der öffentlichen Sitzung des Mieterbeirates der LHM vom 25.04.2022
+- TOP 4.3.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.14.: Baustelleneinrichtung in der Plinganserstraße
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) + (U) Gefährdung durch Lieferdienste Empfehlung Nr. 20-26 / E 00421 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021
+- TOP 5.1.2.: (E) + (U) Parksituation in der Thalkirchner Straße am Dietramszeller Platz Empfehlung Nr. 20-26 / E 00416 der Bürgerversammlung des Stadtbezirks 06 – Sendling - vom 12.10.2021
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Urbanstraße 3-5; eingeschränktes Haltverbot mit Zeitzusatz
+- TOP 5.2.2.: Sommerstraße in der Schöttlstraße
+- TOP 5.2.3.: Geländepraktikum LMU in den Isarauen - Flaucher
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Protected Bikelanes - Plinganserstraße
+- TOP 5.3.2.: Sommerstraßen 2022 - Ortstermin 06.04.2022 Schöttlstraße - Ergebnisprotokoll und Teilnahmeliste
+- TOP 5.3.3.: Aufbau Oktoberfest 2022 - Zeiten und Querungsmöglichkeiten
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Übersichtlichkeit an der Kreuzung Meindlstraße/ Margaretenstraße/ Margaretenplatz/ An der Stemmerwiese erhöhen [Die Grünen]
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Dreharbeiten in Sendling
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball in Sendling vom 01.09. - 31.12.2022 2.320,00 Euro, Az.: 0262.0-6-0374
+- TOP 6.1.2.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. Faces for the Names Jüdisches Leben und Widerstand im Stadtbezirk Sendling vom 15. - 20.09.2022 2.500,00 Euro, Az.: 0262.0-6-0373
+- TOP 6.1.3.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst vom 30.05. - 31.12.2022 3.897,60 Euro, Az.: 0262.0-6-0375
+- TOP 6.1.4.: (E) Stadtbezirksbudget Green City e.V. Verteilung der Stadtteilkarte vom 05.05. - 31.08.2022 1.495,00 Euro, Az.: 0262.0-6-0371
+- TOP 6.1.5.: (E) Stadtbezirksbudget impro company GbR Stadtteil-Theater-Workshop "Meet up LUISE" ab 25.05.2022 - Mai 2023 2.160,00 Euro, Az.: 0262.0-6-0376
+- TOP 6.1.6.: (E) Stadtbezirksbudget Mütterzentrum Sendling e.V. "Sendling blüht auf" vom 15.06. - 30.09.2022 225,45 Euro, Az.: 0262.0-6-0377
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Migrations-/ Integrationsbeauftragte im Bezirksausschuss
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Offene Ateliertage 2022
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Stellungnahme des Migrationsbeirates zu Äußerungen der Bayerischen Integrationsbeauftragten
+- TOP 7.3.2.: Anfrage Mobiliar aus dem Haus für Kinder
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 4.4.1.: Insektenfreundliche Blühwiese am ehemaligen Standort der Kindertagesstätte Wackersberger Straße 67 [SPD und Die Grünen]
