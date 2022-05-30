@@ -1,0 +1,58 @@
+# Sitzung des Bauausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-30T16:00:00+02:00
+- Ende: 2022-05-30T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/73, https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/29
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25290
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25290
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung sachkundiger Einwohner*innen
+- TOP -: A Verpflichtung sachkundiger Einwohner*innen
+- TOP -: B Kulturbauten
+- TOP -: B Kulturbauten
+- TOP -: B1 Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 25.April 2022 - Kenntnis genommen
+- TOP -: B1 Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 25.April 2022 - Kenntnis genommen
+- TOP -: B2 Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 10. Mai 2022 - Kenntnis genommen
+- TOP -: B2 Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 10. Mai 2022 - Kenntnis genommen
+- TOP -: C Einholung eines Stimmungsbildes zur Möglichkeit eines Livestreams der Sitzungen des Betriebsausschusses Gebäudewirtschaft - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: C Einholung eines Stimmungsbildes zur Möglichkeit eines Livestreams der Sitzungen des Betriebsausschusses Gebäudewirtschaft - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen von Bezirksvertretungen und des Integrationsrates
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen von Bezirksvertretungen und des Integrationsrates
+- TOP 4: Entscheidungen (Beschlussorgan Ausschuss Bauen und Wohnen)
+- TOP 4: Entscheidungen (Beschlussorgan Ausschuss Bauen und Wohnen)
+- TOP 4.1: Grundsanierung des Gebäudes Martinstraße 30 - Planungs- und Baubeschluss - NEUFASSUNG - - ungeändert beschlossen
+- TOP 4.1: Grundsanierung des Gebäudes Martinstraße 30 - Planungs- und Baubeschluss - NEUFASSUNG - - ungeändert beschlossen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5.1: Modernisierung der Leitstelle der Feuerwehr Köln im Rahmen des Projektes "Leitstelle 2020"; Umsetzungsbeschluss Teil 2 - Notleitstelle für die Feuerwehr Köln - ungeändert beschlossen
+- TOP 5.1: Modernisierung der Leitstelle der Feuerwehr Köln im Rahmen des Projektes "Leitstelle 2020"; Umsetzungsbeschluss Teil 2 - Notleitstelle für die Feuerwehr Köln - ungeändert beschlossen
+- TOP 5.2: Abriss von vier Sozialhäusern und Neubau von zwei Gebäuden zur öffentlich rechtlichen Unterbringung obdachloser oder von Obdachlosigkeit bedrohter Personen in konventioneller Bauweise sowie Abriss einer Kindertagesstätte und Neubau einer Kindertagess - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 5.2: Abriss von vier Sozialhäusern und Neubau von zwei Gebäuden zur öffentlich rechtlichen Unterbringung obdachloser oder von Obdachlosigkeit bedrohter Personen in konventioneller Bauweise sowie Abriss einer Kindertagesstätte und Neubau einer Kindertagess - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 5.3: Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o. Nr., 50968 Köln-Marienburg - Haushaltsrechtliche Unterrichtung - ungeändert beschlossen
+- TOP 5.3: Neubau von zwei Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o. Nr., 50968 Köln-Marienburg - Haushaltsrechtliche Unterrichtung - ungeändert beschlossen
+- TOP 5.4: Baubeschluss - Neubau eines Gerätehauses der Freiwilligen Feuerwehr und der Rettungswache in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 5.4: Baubeschluss - Neubau eines Gerätehauses der Freiwilligen Feuerwehr und der Rettungswache in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Beantwortung einer Anfrage aus dem Bauausschuss, Sitzungsdatum 04.04.2022, TOP 7.2, zur Mitteilung über die Überarbeitung der Bau-, Qualitäts- und Ausstattungsstandards (BQA) für konventionelle Wohnungsbauvorhaben des Amtes für Wohnungswesen - Kenntnis genommen
+- TOP 6.1: Beantwortung einer Anfrage aus dem Bauausschuss, Sitzungsdatum 04.04.2022, TOP 7.2, zur Mitteilung über die Überarbeitung der Bau-, Qualitäts- und Ausstattungsstandards (BQA) für konventionelle Wohnungsbauvorhaben des Amtes für Wohnungswesen - Kenntnis genommen
+- TOP 7: Mitteilungen
+- TOP 7: Mitteilungen
+- TOP 7.1: Überarbeitung des Konzeptes zum Bau-, Qualitäts- und Ausstattungsstandard (BQA) für konventionelle Wohnungsbauvorhaben des Amtes für Wohnungswesen - Kenntnis genommen
+- TOP 7.1: Überarbeitung des Konzeptes zum Bau-, Qualitäts- und Ausstattungsstandard (BQA) für konventionelle Wohnungsbauvorhaben des Amtes für Wohnungswesen - Kenntnis genommen
+- TOP 7.2: Halle Reitweg - Kenntnis genommen
+- TOP 7.2: Halle Reitweg - Kenntnis genommen
+- TOP 7.3: Aufgabe der städtischen Flüchtlingsunterkunft Weißdornweg 21, 21 a-c,50996 Köln-Rondorf und Versetzung der modularen Gebäude zum städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden - Kenntnis genommen
+- TOP 7.3: Aufgabe der städtischen Flüchtlingsunterkunft Weißdornweg 21, 21 a-c,50996 Köln-Rondorf und Versetzung der modularen Gebäude zum städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden - Kenntnis genommen
+- TOP 8: Mündliche Anfragen - Übergang zum nächsten Tagesordnungspunkt
+- TOP 8: Mündliche Anfragen - Übergang zum nächsten Tagesordnungspunkt
