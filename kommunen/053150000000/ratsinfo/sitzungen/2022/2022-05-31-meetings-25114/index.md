@@ -1,0 +1,71 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-31T14:10:00+02:00
+- Ende: 2022-05-31T15:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25114
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25114
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Neue Familienzentren im Kindergartenjahr 2022/23 - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Abriss von vier Sozialhäusern und Neubau von zwei Gebäuden zur öffentlich rechtlichen Unterbringung obdachloser oder von Obdachlosigkeit bedrohter Personen in konventioneller Bauweise sowie Abriss einer Kindertagesstätte und Neubau einer Kindertagess - ohne Votum in nachfolgende Gremien
+- TOP 4.2: ‚Identität stärken - natürliche Mehrsprachigkeit fördern!‘ - ungeändert beschlossen
+- TOP 4.3: Mitgliederwechsel im Jugendhilfeausschuss, hier: Drogenhilfe Köln e.V. - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.1.1: Fachkräftemangel in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Kindertagespflege – Fristverlängerung für Anstellungsträger nach § 22 Abs. 6 Kinderbildungsgesetz NRW - endgültig zurückgezogen
+- TOP -: Stellungnahme zu dem Antrag AN/1075/2022 Fristverlängerung für Anstellungsträger nach § 22 Abs. 6 Kinderbildungsgesetz NRW - endgültig zurückgezogen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Schließung Evangelische Kita Zollstock - Kenntnis genommen
+- TOP -: Beantwortung der AN/1080/2022 Schließung evangelische Kita Zollstock - Kenntnis genommen
+- TOP 6.2.2: OGS Plätze - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2: Schulsozialarbeit - Kenntnis genommen
+- TOP 7.1.3: Teilhabe verbessern mit Förderprogramm: „Inklusion vor Ort – Das Programm für die modellhafte Förderung inklusiver Sozialräume in Nordrhein-Westfalen“ - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Umbesetzung JHA-Mitglieder, hier Seniorenvertretung der Stadt Köln - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i. V. m. § 12 der Haushaltssatzung 2022, - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Hall of Fame "Im Bischofsacker" - Kenntnis genommen
+- TOP 8.4.2: Ergänzung zu 1051/2022: Event für Jugendliche gemäß Beschluss des Jugendhilfeausschusses vom 25.08.2020 - Kenntnis genommen
+- TOP 8.4.3: Jugendforum NRW auf der gamescom 2022 - Kenntnis genommen
+- TOP 8.4.4: Interessenbekundungsverfahren „Kompetenzentwicklung eSports / ProGaming in der Jugendarbeit“ im Rahmen des politischen VN 2022 - Kenntnis genommen
+- TOP 8.4.5: Pilot- Beteiligungsverfahren für Kinder und Jugendliche: "Hey Mülheim! - Check mit uns dein Veedel!" - Kenntnis genommen
+- TOP 8.4.6: Ratsantrag AN/1003/2022 vom 05.05.2022 zur Kenntnis - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Offene Ganztagsschule im Primarbereich - Bedarfssituation im Schuljahr 2022/2023 - Kenntnis genommen
+- TOP 8.5.2: Teilnahme am Landesprogramm Kommunales Integrationsmanagement (KIM) - Kenntnis genommen
+- TOP 8.5.3: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 8.5.4: Geflüchtete Frauen, Kinder und queere Menschen aus der Ukraine - Kenntnis genommen
+- TOP 8.5.5: Elternbroschüre Inklusive Bildung an Kölner (Grund-) Schulen - Kenntnis genommen
+- TOP 8.5.6: Aktuelle Entwicklungen KVB-Leihrad - Kenntnis genommen
+- TOP -: Beantwortung der mündlichen Anfrage zur aktuellen Entwicklungen KVB-Leihrad zur Vorlage 1122/2022 aus dem JHA vom 05.04.2022 - Kenntnis genommen
+- TOP 8.5.7: Stand der Evaluation des Drogenhilfekonzepts - Datengrundlage - Kenntnis genommen
+- TOP 8.5.8: Dezernat IV Berichtswesen - Teilbericht Jugendhilfeausschuss 2021 - Kenntnis genommen
+- TOP 8.5.9: Sportentwicklungsplanung: Kinder- und Jugendsportförderung - Kenntnis genommen
+- TOP 8.5.10: Projekt "ARTOTHEK TRIFFT FINKENBERG" - Kenntnis genommen
