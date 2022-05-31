@@ -47,6 +47,5 @@ und zu ungünstigen Arbeitsbedingungen](0010.md)
 ## Abschnitt 6 Verwaltungsverfahren, Rechtsweg
 
 - [§ 20 Entschädigung der Zeugen und Sachverständigen](0020.md)
-- [§ 21 Ausschluss von öffentlichen Aufträgen](0021.md)
 - [§ 22 Verwaltungsverfahren](0022.md)
 - [§ 23 Rechtsweg](0023.md)
