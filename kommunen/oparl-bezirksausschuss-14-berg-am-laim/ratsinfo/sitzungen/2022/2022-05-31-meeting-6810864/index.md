@@ -1,0 +1,115 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-05-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6810864
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6810864
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 26.04.2022
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Nachbesetzung folgender Unterausschüsse: 1. UA Planung, Bauvorhaben und Baumschutz, Umweltschutz 2. UA Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 2.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 hier: Genehmigung einer Freischankfläche, Baumkirchner Str. 22 b, Eisdiele Gelatino Beschluss des Bezirksausschusses des Stadtbezirkes 14 vom 31.05.2022 (Unterlagen folgen) Federführung UA Städtebauliche Entwicklung
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Anzinger Str. 23, Neubau eines Büro- und Verwaltungsgebäudes mit Tiefgarage (1. UG) und Nebenräumen (2. UG) - VORBESCHEID
+- TOP 3.1.2.: Atelierstr. 11, Konzerthaus München - VORBESCHEID
+- TOP 3.1.3.: Werksviertel Spiel Kommunikationsband Nord - Aneignungsobjekt
+- TOP 3.1.4.: Einrichtung einer öffentlichen Toilette im ehemaligen Kiosk der U Bahn Haltestelle Josephsburgstr. Ausgang Kreillerstraße; Antrag CSU Fraktion
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Kombinierte Sparten- und Erinnerungsverfahren für den Quartiersplatz Helmut-Dietl-Straße - Anhörung, Frist bis 03.06.2022 -
+- TOP 3.2.2.: Riedgaustraße: Aufnahme in Tempo 30-Zone - Anhörung durch das Mobilitätsreferat -
+- TOP 3.2.3.: Schlechte Wege im Michaelianger; Bürgeranliegen
+- TOP 3.2.4.: Halfinger Straße: Verkehrsberuhigung - Anhörung durch das Mobilitätsreferat -
+- TOP 3.2.5.: Benennung eines Fuß- und Radwegs: „Bahndammweg“; Antrag CSU Fraktion
+- TOP 3.2.6.: „Aufwertung Ostpark ‚Fit für die Zukunft‘“: Anregungen aus Berg am Laim; Antrag CSU Fraktion
+- TOP 3.2.7.: Benennung bei Stadtquartieren - Anhörung des Direktoriums -
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung im Freien in einer städtischen Grünanlage; Festwiese an der St.-Veit-Straße, Johannifeuer am 25.06.2022, 20-23 Uhr, im Anschluss an das Kinderfest, ohne Musik und ohne Abgabe von Speisen und Getränken, PAX 100 - Anhörung des Kreisverwaltungsreferats -
+- TOP 3.3.2.: Veranstaltung in städtischer Grünanlage und auf öffentlichem Grund: Marktplatz Baumkirchner Str. 22b-26, Behrpark: Klima.DULT am So 24.7.2022, 11-21 Uhr PAX 50; mit Zelt, Infostände, Musik, Essen+Trinken - Anhörung des Kreisverwaltungsreferats -
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Migrations-/Integrationsbeauftragte im Bezirksausschuss - Anhörung des Direktoriums -
+- TOP 3.4.2.: Projekt des Fördervereins der Sozialstation Berg am Laim und Trudering e.V. für betreutes Wohnen unterstützen; Antrag CSU Fraktion
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget THW Förderverein München Ost e.V. Beschaffung eines Pkw 4.000,00 € / Az. 0262.0-14-0324
+- TOP 3.5.2.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst vom 28.04. - 31.12.2022 3.597,60 €/ Az. 0262.0-14-0318
+- TOP 3.5.3.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. Kulturwochenende zum 40jährigen Jubiläum vom 24. - 26.06.2022 2.006,83 € / Az. 0262.0-14-0326
+- TOP 3.5.4.: (E) Stadtbezirksbudget REGSAM Sommerfest² am 24.06.2022 1.742,73 € / Az. 0262.0-14-0328
+- TOP 3.5.5.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 - Fristverlängerung bis 01.06.2022 gewährt -
+- TOP 3.5.6.: Kinderfest in der Grünanlage an der St.-Veit-Straße am 25.6.2022 des BA 14 (BA-eigene Veranstaltung) - Kostenaufstellung -
+- TOP 3.5.7.: Finanzierung von Familien- und Ferienpässen; Antrag CSU Fraktion
+- TOP 3.5.8.: Maikäferplatz für Ramersdorf - Flächen für einen Wochenmarkt bei der Neuordnung der Flächen im Umfeld der Straßenkreuzung Bad-Schachener-Str. /Hechtseestr. /Hofangerstraße Münchner Wochen- und Bauernmärkte BA-Antrag Nr. 20-26 / B 02312 des BA 16 Ramersdorf-Perlach Antwortschreiben an das Kommunalreferat über die Finanzierung durch Bestellung städtischer Leistungen durch den BA 16
+- TOP 3.5.9.: Maikäferplatz für Ramersdorf – Flächen für einen Wochenmarkt bei der Neuordnung der Flächen im Umfeld der Straßenkreuzung Bad-Schachener-Str./Hechtseestr./Hofangerstraße
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Atelierstr. 11, Konzerthaus München - VORBESCHEID
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Chinesische Stinkwanze in Berg am Laim - Antwortschreiben des Baureferates auf Anfrage eines Bürgers -
+- TOP 4.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.3.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 4.1.4.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das Bundesministerium für Bildung und Forschung Sachstand 2021/2022 und Ausblick
+- TOP 4.1.5.: Freilegung Hachinger Bach; Rückmeldung des Baureferates
+- TOP 4.1.6.: Spielplatz Xaver-Weismor-Straße; Rückmeldung des Baureferates
+- TOP 4.1.7.: Café Mahlerhaus Baumkirchner Str. / Ecke Josephsburgstr.; Rückmeldung des Sozialreferates
+- TOP 4.1.8.: Baumkirchen Mitte: Teilweise Freigabe der Grünflächen 2023
+- TOP 4.1.9.: Antrag: Bäume für den Piratenspielplatz nahe der Gögginger Straße
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Präsentation zur Veranstaltung Nahverkehrsplan der Landeshauptstadt München - Themenfeld Infrastruktur am 30.03.2022
+- TOP 4.2.2.: Weitere Querungsmöglichkeit über die Baumkirchner Straße
+- TOP 4.2.3.: Auswertung Dialog-Displays - Antwortschreiben des Mobilitätsreferates -
+- TOP 4.2.4.: (U) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Stellungnahme der Landeshauptstadt München
+- TOP 4.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.6.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 4.2.7.: Rückgabestationen für Elektroroller
+- TOP 4.2.8.: Gestaltungskonzept für die Halfinger Straße
+- TOP 4.2.9.: Mäharbeiten Straßenbegleitgrün - Jahresgenehmigung 2022
+- TOP 4.2.10.: MVG Leistungsprogramm 2023 - Anhörung durch die MVG - - Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung -
+- TOP 4.2.11.: "Rahmenplanung Wasserburger Landstraße" und "Wohnen am Riemer Park": Auswirkungen auf Berg am Laim
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 4.3.2.: Tag des offenen Denkmals am 11.09.2022 Motto: "KulturSpur. Ein Fall für den Denkmalschutz." - Schreiben des Referates für Stadtplanung und Bauordnung -
+- TOP 4.3.3.: Veranstaltung in einer städtischen Grünanlage: Behrpark: " Kulturwochenende und Theateraufführungen" an verschiedenen Tagen ab 24.06.2022 - Anhörung des Kreisverwaltungsreferats - - Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung -
+- TOP 4.3.4.: Veranstaltung im Freien in einer städtischen Grünanlage: Grünanlage an der St.-Veit-Straße "Kinderfest des Bezirksausschusses 14 - Berg am Laim" am 25.06.2022 - Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung -
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: 7. Jahresbericht der Gipfelstürmer
+- TOP 4.5.2.: Informationsschreiben BA 01/2022: Durchführung des Sitzungsbetriebes bei den Bezirksausschüssen
+- TOP 4.5.3.: Verwendungsnachweise: - Isarlust e.V. - Green City e.V. - Arka e.V.
+- TOP 4.5.4.: Ratsinformationssystem (RIS): Statusänderung der Dokumente BV-Empfehlungen, BA-Anträge sowie Dokumente zu Beschlussvorlagen, die BV-Empfehlungen und BA-Anträge behandeln, im RIS von „öffentlich“ auf „nicht öffentlich“ für die Jahre 2005-2016
+- TOP 4.5.5.: 75 Jahre Bezirksausschüsse – Festakt / Informationskampagne und Darstellung der personellen Mehrbedarfe - Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung -
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Rodungsarbeiten auf dem Gelände der zukünftigen Kindertagesstätte in der Halserspitzstraße, Flnr. 254/17 Gemarkung Berg am Laim - Antwortschreiben -
+- TOP 4.6.2.: Anhebung der Untergrenze der Kosten für illegale Baumfällungen auf mindestens 3.000 Euro, Antrag des BA 11 Milbertshofen - Am Hart mit der Bitte um Unterstützung
+- TOP 4.6.3.: Baumschutz Achentalstr. 19; Ablehnungsbescheid
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 5.1.1.: Aufgrund der Corona-Situation, kann es zu Ausfällen der Unterausschusssitzungen oder Verlegungen kommen. Bitte erfragen Sie über die Geschäftsstelle, ob eine Sitzung stattfindet und melden Sie die Teilnahme an.
+- TOP 5.1.1.1.: Am Dienstag, den 24.05.2022, um 19.15 Uhr, im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid möglich).
+- TOP 5.1.2.1.: Am Montag, den 23.05.2022, um 19.15 Uhr, im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid möglich).
+- TOP 5.1.3.1.: Am Dienstag, den 24.05.2022, um 18.00 Uhr, im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid möglich).
+- TOP 5.1.4.1.: Am Mittwoch, den 25.05.2022, um 18.30 Uhr, eventuell online.
+- TOP 5.1.5.1.: Am Montag, den 23.05.2022, um 18.30 Uhr, im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid möglich).
+- TOP 3.5.10.: (E) Stadtbezirksbudget Atelierhaus Streitfeld 10 Jahre Atelierhaus Streitfeld: Offene Ateliers am 25. und 26. Juni 2022 jeweils 13 bis 19 Uhr 4.275,00€; Az. 0262.0-14-0329
+- TOP 3.1.5.: Ringbergstr. 23, Neubau von 4 Reihenhäusern und 2 Parkliftanlagen sowie Rückbau des Bestandes
+- TOP 3.6.2.: Ringbergstr. 23, Neubau von 4 Reihenhäusern und 2 Parkliftanlagen sowie Rückbau des Bestandes
