@@ -1,0 +1,54 @@
+# Ausschuss für Verkehr und Mobilität (8. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-05-31T18:03:00+02:00
+- Ende: 2022-05-31T21:34:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-261
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTYCjCqF3X2NRI-Z9HrftK8
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7477
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVrgueOpoVR_9j9zoiCW8lgAWVUNUu9sGz3mHjwe74AE/Bekanntmachung_Ausschuss_fuer_Verkehr_und_Mobilitaet_31.05.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf1eaL7bzppXATsXYNa4f67Aoli2bgvyv6Ov-FZuBsaO/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr_und_Mobilitaet_31.05.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 05.04.2022
+- TOP 2.: Bericht zu Unfallzahlen in Brühl - Ohne Abstimmung
+- TOP 3.: Radverkehrsförderung in Brühl: Vorstellung von geplanten Maßnahmen
+- TOP 4.: Ausstattungsmerkmale der neuen Wasserstoffbusse - (kein Text vorhanden)
+- TOP 5.: Verkehrsoptimierung Brühl Ost (Abstimmung über Teil 1) Bezug: Vorlage-Nr. 139/2022, AfVM 05.04.2022 - (kein Text vorhanden)
+- TOP 6.: Verkehrsoptimierung Brühl West - (kein Text vorhanden)
+- TOP 7.: Abschlussbericht Fußverkehrs-Check 2021
+- TOP 8.: Neubau der Fußgänger- und Fahrradbrücke „Zum Sommersberg“
+- TOP 9.: Anträge
+- TOP 9.1: Testphase für ein BikeSharing-Angebot in Brühl Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 17.04.2022
+- TOP 9.1.1: Testphase für ein BikeSharing-Angebot in Brühl; Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 17.04.2022 - Ohne Abstimmung
+- TOP 9.2: Weiterentwicklung bzw. Fortschreibung des Nahverkehrskonzept 2017-2025 Hier: Verbesserungsvorschläge und Sachstandberichte zu verschiedenen Themen Bezug: Antrag der CDU-Fraktion vom 01.04.2022
+- TOP 9.2.1: Weiterentwicklung bzw. Fortschreibung des Nahverkehrskonzept 2017-2025 Hier: Verbesserungsvorschläge und Sachstandberichte zu verschiedenen Themen Bezug: Antrag der CDU-Fraktion vom 01.04.2022
+- TOP 9.3: Aussetzung des Vorhabens Citybus Bezug: Antrag der FDP-Fraktion vom 05.04.2022
+- TOP 9.3.1: Aussetzung des Vorhabens Citybus Bezug: Antrag der FDP-Fraktion vom 05.04.2022
+- TOP 9.4: Verengung des Radwegs an der Richard-Bertram-Straße Bezug: Antrag der Fraktion Linke&Piraten vom 14.02.2022 (Eingang per Mail am 27.03.2022)
+- TOP 9.4.1: Verengung des Radwegs an der Richard-Bertram-Straße Bezug: Antrag der Fraktion Linke&Piraten vom 14.02.2022 (Eingang per Mail am 27.03.2022), Vorlage 150/2022
+- TOP 10.: Mitteilungen
+- TOP 10.1: Vergabe Mobilitätskonzept
+- TOP 10.2: Vergabe Kommunikationsstrategie
+- TOP 10.3: Personalstellen bei 61/3
+- TOP 10.4: Förderung für schulisches Mobilitätsmanagement beantragt
+- TOP 10.5: Einladung interfraktioneller Arbeitskreis
+- TOP 10.6: Info zu Sachstandsbericht Car-Sharing
+- TOP 10.7: Infoupdate E-Scooter
+- TOP 11.: Anfragen
+- TOP 11.1: Querungshilfe Bonnstraße Höhe "Gasthaus Krayer"
+- TOP 11.2: Rückmeldung zu Schulweg in Richtung Grundschule Badorf
+- TOP 11.3: Anregung regelmäßiger Berichtspunkt der Stadtwerke im AfVM
+- TOP 11.4: Bebauungsplan Neubauvorhaben "Kaufhofgelände"
+- TOP 11.5: Rad-Fußweg Carl-Schurz-Straße / Clemens-August-Straße / Stadtbibliothek häufig zugeparkt
+- TOP 11.6: Parksituation Bereich Schöffenstraße in Vochem
+- TOP 11.7: Möglichkeiten der Anfragenstellung abseits des AfVM
+- TOP 11.8: Frage nach Skizze aus Bürgerinformationsveranstaltung in Brühl-Ost
+- TOP B): Nichtöffentliche Sitzung
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen
