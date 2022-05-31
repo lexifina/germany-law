@@ -1,0 +1,57 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-05-31T17:00:00+02:00
+- Ende: 2022-05-31T19:40:00+02:00
+- Ort: Aula der Gesamtschule Stettiner Straße 98, 40595 Düsseldorf Beginn: 17:00 Uhr
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22335
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22335
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1.Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00450854.pdf
+- Ergebnisprotokoll: 1.Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00450854.pdf
+- Wortprotokoll: 1.Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00450854.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Perspektiven der Stadtteilzentren im Stadtbezirk 10 - vertagt
+- TOP 4.4: Gesamtstädtisches Toilettenkonzept – Umsetzung der bedarfsgerechten Versorgung - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 4.5: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 2. Halbjahr 2022 - einstimmig beschlossen
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Genehmigung einer Dringlichkeitsentscheidung - Zuschuss an den Garather Schützenverein 1967 e.V. für die Anmietung einer Beschallungsanlage für das Schützen- und Volksfest - - mehrheitlich beschlossen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Geldtransporter im Haupteinkaufszentrum Garath - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.2: Gefahrenstelle im Bereich der Unterführung S-Bahn/Autobahn und Auffahrt zur Rad- und Fußgängerbrücke über die B 8 in Hellerhof - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Verkehrsüberwachung in verkehrsberuhigten Zonen im Stadtbezirk 10 - Anfrage der CDU-Fraktion) - - schriftlich beantwortet
+- TOP 6.2: Stellplatzverpflichtung Tedi-Markt, Ricarda-Huch-Straße 33 - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.3: Wohnumfeldverbesserung im Burgviertel - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Samstagsfahrten des SB 57 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Hausmeisterdienstwohnung an der Gesamtschule Stettiner Straße - Gemeinsamer Antrag der BV 10 - - einstimmig beschlossen
+- TOP 7.4: Bericht des City-Managements Garath - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Umsetzung der Barrierefreiheit im Innenbereich der Wilhelm-Schmidtbonn-Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.6: Austausch von Abfallbehältern in Hellerhof - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 7.7: Ausstattung der Nestschaukel auf dem Spielplatz an der Wolfgang-Borchert-Straße mit einer Gummimatte - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Beleuchtung des Fuß- und Radwegs an der Koblenzer Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Nachrüstung der Sitzbänke im Stadtbezirk 10 mit Armlehnen - Informationsvorlage zum Beschluss BV10/026/2022 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 8.2: Umwandlung der René-Schickele-Straße gemäß Straßenverkehrsordnung - Informationsvorlage zum Beschluss BV10/009/2022 vom 25.01,2022 - - zur Kenntnis genommen
+- TOP 8.3: Überarbeitung der Planung für den Radschnellweg/Interimslösung für Schulwegsicherung - Informationsvorlage zum Beschluss BV10/164/2021 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.4: Schutz von Spielflächen im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/047/2022 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 8.5: Aufstellung Nahverkehrsplan - Informationsvorlage zum Beschluss BV10/052/2022 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 8.6: Straßenumbenennungen im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/045/2022 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 8.7: Installation einer Tischtennisplatte am Wasser-Spielplatz an der Peter-Behrens-Straße - Informationsvorlage zum Beschluss BV/043/2022 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
