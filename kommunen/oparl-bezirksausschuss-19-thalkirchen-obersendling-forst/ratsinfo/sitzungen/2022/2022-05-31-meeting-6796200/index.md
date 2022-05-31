@@ -1,0 +1,86 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-05-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796200
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796200
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 3.4.: (E) Stadtbezirksbudget Jugendzentrum Treibhaus (schule beruf e.V.) Beziehungsfördernde Pfingstferienfahrt in den Europapark vom 07.06. bis 09.06.2022 1.851,00 € / Az. 0262.0-19-0409
+- TOP 3.5.: (E) Stadtbezirksbudget Thalkirchner Burschen e.V. Sommerfest Thalkirchen 2022 vom 16.-18.06.2022 11.803,00 € / Az. 0262.0-19-0412
+- TOP 3.7.: (E) Stadtbezirksbudget Veteranen- und Soldatenverein München-Forstenried 150-jähriges Jubiläum des VSV und 100 Jahre Einweihung Ehrenmal im Ortskern am 03.07.2022 5.400,00 € / Az. 0262.0-19-0413
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 03.05.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: (A) Satzungsänderung: Benennung bei Stadtquartieren
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (A) Kinder-Aktions-Koffer 2023
+- TOP 3.3.: (A) Mehrjahresinvestitionsprogramm (MIP) - Fortschreibung 2022 bis 2026
+- TOP 3.6.: (A) Erhöhung des Zuwendungsbetrags Stadtbezirksbudget Kirchenstiftung St. Joachim Stadtteilfest „Wir in Obersendling- Willkommen im Quartier“ am 04.07.2020 Von 4.780,00 € auf 6.797,00 €, Az.: 0262.0-19-0314
+- TOP 3.8.: - NACHTRAG - (E) Erhöhung des Zuwendungsbetrags Stadtbezirksbudget Initiative "Zirkuswoche" Projektwoche Zirkus vom 27.06. bis 08.07.2022 Von 9.000,00 € auf 10.000,00 €
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Errichtung Wertstoffcontainerstandort Colmarer Straße / Saarbrücker Straße
+- TOP 4.4.: Christbaumsammelstellen im 19. Stadtbezirk
+- TOP 4.5.: (Antrag) Naturlehrpfad im Hermann-von-Siemens-Sportpark
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Erweiterung Tempo 30 Liesl-Karlstadt-Straße und Herterichstraße
+- TOP 5.2.: (E) + (U) Rad- und Fußwegeverbindung Forstenrieder Allee zum Neurieder Kreisel Empfehlung Nr. 20-26 / E 00319 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021 Neuanlage eines Radwegs von der Drygalski-Allee zur Stäblistraße Empfehlungen Nr. 20-26 / E 00326 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 5.3.: (U) Verkehrsrechtliche Anordnung: Maßnahmen Unfallkommission Wolfratshauser Straße / Saargemünder Straße
+- TOP 5.4.: (Antrag) Verkehrskontrollen Herterichstraße und Installation Fußgängerampel Waterloostraße
+- TOP 5.5.: (Antrag) Verkehrssicherheit Kistlerhofstraße
+- TOP 5.6.: (Antrag) Zustand Bushaltestellen Mindelheimer Straße und Kriegelsteinerstraße
+- TOP 5.7.: (A) Rückbaumaßnahme Fußgängerunterführungen: Boschetsrieder Straße und Aidenbachstraße
+- TOP 5.8.: (Antrag) Zweirichtungs-Fahrradweg Forstenrieder Allee
+- TOP 5.9.: (E) Sondernutzungserlaubnis: Umwandlung Corona-Freischankfläche Schäftlarnstraße
+- TOP 5.10.: (E) + (U) Lärmbelästigung durch Raser*innen am Schmiedberg Empfehlung Nr. 20-26 / E 00329 der Bürgerversammlung des Stadtbezirkes 19 – Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 5.11.: - NACHTRAG - (A) Stadtteilzentren Münchner Radverkehrsnetz
+- TOP 5.12.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: PKW-Parken Forstenrieder Allee
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Am Lehwinkel 3
+- TOP 6.2.2: Winsauerstraße 7
+- TOP 6.2.3: Hofbrunnstraße 109
+- TOP 6.3.: (A) Beschlussentwurf: Bebauungsplan mit Grünordnung Nr. 2170 Siemensallee (nördlich), Baierbrunner Straße (westlich) (Siemens-Hochhaus)
+- TOP 6.4.: (A) Beschlussentwurf: Erhalt des Filmkinos in Solln BV-Empfehlung Nr. 20-26 / E 00316; Sitzungsvorlage Nr. 20-26 / V 06067
+- TOP 6.5.: (E) + (U) Nachverdichtung im 19. Stadtbezirk stoppen Empfehlung Nr. 20-26 / E 00324 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Satzungsänderung: Migrations- bzw. Integrationsbeauftragte im Bezirksausschuss
+- TOP 7.3.: (A) Kinder-Aktions-Koffer 2023
+- TOP 7.4.: - NACHTRAG - (Antrag) Finden einer alternativen Räumlichkeit für den Kindergarten Lollipop
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Floßlände Thalkirchen am 02.07.2022
+- TOP 8.3.: (U) Veranstaltung: Straßentheater Thalkirchner Platz am 20.05.2022 (Ersatztermin: 30.05.2022)
+- TOP 8.4.: (U) Veranstaltung: Kinder- und Jugendprogramm Grünanlage Miesingstraße / Schmiedberg / Kirchweg am 22.05.2022
+- TOP 8.5.: (U) Veranstaltung: Weltspieltag Grünanlage Kistlerhofstraße am 30.05.2022
+- TOP 8.6.: - NACHTRAG - (A) Veranstaltung: Stadtteilfest Grünanlage Boschetsrieder Park und Constanze-Hallgarten-Straße am 25.06.2022
+- TOP 9: Verschiedenes
+- TOP 4.1.1: (E) Verschmutzungen im 19. Stadtbezirk Empfehlung Nr. 20-26 / E 00353 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 6.2.4: Faustnerweg 3 (VB)
+- TOP 6.2.5: Konrad-Witz-Straße 7 (T)
+- TOP 6.2.6: Seeshaupter Straße 4
+- TOP 6.2.7: Kistlerhofstraße 127 (VB)
+- TOP 6.2.8: Wolfratshauser Straße 96 (T)
+- TOP 6.2.9: Kerschlacher Straße 6
+- TOP 6.2.10: Muttenthalerstraße 2
+- TOP 6.2.11: Lochhamer Straße 94
+- TOP 6.2.12: Liesl-Karlstadt-Straße 30 (VB)
