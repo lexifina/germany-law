@@ -1,0 +1,64 @@
+# 11. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-05-31T17:30:00+02:00
+- Ende: 2022-05-31T19:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25292
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25292
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde: Betrieb der Volksbühne am Rudolfplatz sichern - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Kommunaler Fonds „Kulturelle Bildung“"Kommunaler Fonds „Kulturelle Bildung“ - ungeändert beschlossen
+- TOP -: Stellungnahme zum Antrag - Kenntnis genommen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Beauftragung eines Musikschulentwicklungsplans - Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - zurückgestellt
+- TOP -: Änderungsantrag der Bündnispartner - zurückgestellt
+- TOP -: Änderungsantrag der FDP-Fraktion - zurückgestellt
+- TOP 4.2: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - mit Änderungen empfohlen
+- TOP 4.3: Einrichtung einer Stabsstelle "Kulturraummanagement" im Dezernat Kunst und Kultur - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.4: Leitbild für Kulturelle Teilhabe und Vielfalt - endgültig zurückgezogen
+- TOP 4.5: Neuwahl des Tanzbeirats 2022 bis 2024 - ungeändert beschlossen
+- TOP 4.6: Restaurierungsdokumentationsmodul, fünfte Ausbaustufe (RDM 5) - ungeändert beschlossen
+- TOP 4.7: Digitalstrategie der Museen und museumsnahen Institutionen der Stadt Köln hier: 1. Iteration 2022-2025 - ungeändert beschlossen
+- TOP 4.8: Grundsanierung des Gebäudes Martinstraße 30 - Planungs- und Baubeschluss - NEUFASSUNG - - ungeändert beschlossen
+- TOP 4.9: Errichtung von Probe- und Atelierräumen, Mittelfreigabe Objekt Silcher Straße - ungeändert beschlossen
+- TOP 4.10: Historische Stadtbibliothek - Restaurierungsprojekt - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung von zwei unbetitelten Aquarellen von Sigmar Polke durch Dr. Alfred M. Fischer an das Museum Ludwig - ungeändert beschlossen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Europäische Hauptstadt für Integration und Vielfalt - Kenntnis genommen
+- TOP 8.2: Beschluss des Ausschusses Kunst und Kultur vom 5. April 2022, TOP 3.1 - Kenntnis genommen
+- TOP 8.3: Beantragung der Mittel für die Regionale Kulturförderung des Landschaftsverband Rheinland (LVR) für 2023 - Kenntnis genommen
+- TOP 8.4: Jahresbericht NS-DOK 2021 - Kenntnis genommen
+- TOP 8.5: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen - zurückgestellt
+- TOP 8.6: Sachstandsbericht "Gotland" - zurückgestellt
+- TOP 8.7: Projekt "ARTOTHEK TRIFFT FINKENBERG" - Kenntnis genommen
+- TOP 8.8: Neusser Landstr. 2, Errichtung eines Atelierhauses mit Musikproberäumen - Kenntnis genommen
+- TOP 8.9: Ergebnisse und Abschluss des Projekts „Die Sammlungen der ehemaligen Kölner Jesuiten um 1800“ - Kenntnis genommen
+- TOP 8.10: Änderung der Benutzungs- und Entgeltordnung für die Museen der Stadt Köln, hier: Dringlichkeitsentscheidung des Rates - Kenntnis genommen
+- TOP 8.11: Fertigstellung und Umsetzungsbeginn Förderkonzept Kulturelle Teilhabe - Kenntnis genommen
+- TOP 8.12: Jahresbericht Museumsdienst Köln - Kenntnis genommen
+- TOP 8.13: Projekt „Sichtbar machen – Kommunikation im und über den Holocaust“, hier: Zwischenbericht und Ankündigung der ersten Projektion im Stadtraum - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 25.April 2022 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 13. Mai 2022 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 10. Mai 2022 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktion Bündnis90/Die Grünen und Volt: Vorlage zum Förderkonzept Kulturelle Teilhabe - zurückgestellt
+- TOP 11.2: Schriftliche Anfrage der Bündnispartner: Sachstand Cumulus-Konzept & Gespräche WDR - zurückgestellt
+- TOP 11.3: Schriftliche Anfrage der Bündnispartner: Fördermittelakquise und Drittmittel im Kulturamt - zurückgestellt
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion der CDU: Sachstandsbericht Hahnentorburg
+- TOP 12.2: Tagesordnungspunkt (betrifft Privatpersonen)
