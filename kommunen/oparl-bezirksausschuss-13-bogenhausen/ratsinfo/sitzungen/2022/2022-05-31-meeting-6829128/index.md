@@ -1,0 +1,152 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2022-05-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6829128
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6829128
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Protokolle der Sitzungen vom 05.04.2022 und 10.05.2022
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Benennung bei Stadtquartieren; Anhörung des Direktoriums
+- TOP 2.2.2.: Bauvorbescheid Mauerkircher Straße; Bürgeranliegen (vertagt)
+- TOP 2.2.4.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 (vertagt) Dokumente siehe TOP 5.1
+- TOP 2.2.5.: Vermietung einer Teilfläche als Baustelleneinrichtungsfläche; An der Brodersenstraße Anhörung des Kommunalreferates
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Eggenfeldener Straße: gekennzeichneter Radweg, Tempo 30, Zuschnitt Hecken; Bürgeranliegen
+- TOP 2.3.2.: Flüsterasphalt als Straßenbelag; Antrag der Fraktion CSU
+- TOP 2.3.3.: Straßenmarkierung auf der Sternwartstraße anpassen; Antrag der Fraktion CSU
+- TOP 2.3.4.: Richard-Strauß-Str. 101: Einrichtung von 2 Kurzparkplätzen; Anhörung des Mobilitätsreferats (vertagt)
+- TOP 2.3.5.: Erinnerungsverfahren: Denninger Str. 195 (Versetzung Mittelinsel); Anhörung des Baureferates
+- TOP 2.3.6.: Verbindungsradweg Oberschlesische Str. - Schichtlstr. - Vorfahrtregelung; Anhörung des Mobilitätsreferates
+- TOP 2.3.7.: Erinnerungsverfahren: Friedrich-Eckart-Straße (Sanierung Radweg); Anhörung des Baureferates
+- TOP 2.3.8.: Trassierungsbeschluss Tram Johanneskirchen; Anhörung des Mobilitätsreferates
+- TOP 2.3.9.: Informationen zur Funktionsweise und Optimierung der MVG-App; Antrag der Fraktion B90 / Die Grünen
+- TOP 2.3.10.: Streckentausch der Buslinien 50 und 188 ab St. Emmeram; Antrag der Fraktion B90 / Die Grünen
+- TOP 2.3.11.: Beidseitige Querung der Cosimastraße Höhe Ruth-Drexel-Str./Wesendonkstr.; Antrag der Fraktion B90 / Die Grünen
+- TOP 2.3.12.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 (vertagt) Dokumente siehe TOP 5.1
+- TOP 2.3.13.: Rückbau provisorische Querung Mauerkircher-/Montgelasstr.; Anhörung des Mobilitätsreferat
+- TOP 2.3.14.: Bernhard-Lichtenberg-Weg - Antrag zur Wiederherstellung der Feuerwehrzufahrts-Poller gemäß Ausbauzustand zur Nutzungsaufnahme 1985; Antwortschreiben Baureferat
+- TOP 2.3.15.: Abfrage Stadtteilzentrum bezüglich neuen Münchner Radverkehrsnetzes; Anhörung des Mobilitätsreferates
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget JET LEG, Biennale der Kunst und Kultur Museum Mobile vom 20.08 bis 24.09 1.000,00€; Az. 0262.0-13-0315
+- TOP 2.4.2.: (E) Stadtbezirksbudget Münchner Flüchtlingsrat e.V. Anteilige Personalkosten für das Unterprojekt "Infobus für Flüchtlinge" vom 01.01. - 31.12.2022 5.311,95 €; Az. 0262.0-13-0303 (vertagt)
+- TOP 2.4.3.: Antwort bezüglich Anfrage Belegung Musenbergstraße für Entscheidung TOP 2.4.2
+- TOP 2.4.4.: (E) Stadtbezirksbudget Think Future Bogenhausen e.V. "Digitale Medien & Du!" Bogenhausen macht sich fit für die Zukunft vom 01.01. - 31.03.2022 8.793,00 €; Az. 0262.0-13-0302
+- TOP 2.4.5.: (E) Stadtbezirksbudget Theater des hölzernen Gelächters Sommertheaterproduktion 2022 von Juni bis Oktober 2022 2.000,00 € / Az. 0262.0-13-0316
+- TOP 2.4.6.: (E) Stadtbezirksbudget THW Förderverein München Ost e.V. Beschaffung eines Pkw 7.500,00 € / Az. 0262.0-13-0314 (vertagt)
+- TOP 2.4.7.: Stellungnahme zur Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032; Der BA 8 - Schwanthalerhöhe bittet um Unterstützung. (vertagt)
+- TOP 2.4.8.: Migrations- / Integrationsbeauftragte im Bezirksausschuss; Anhörung des Direktoriums
+- TOP 2.4.9.: (E) Stadtbezirksbudget Blütenring e.V. Blütenring Theatertage 2022 vom 17.-26.06.2022 (optional 01.+02.07.2022) 2.038,34 € / Az. 0262.0-13-0317
+- TOP 2.4.10.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 (vertagt) Dokumente siehe TOP 5.1
+- TOP 2.4.11.: (E) Stadtbezirksbudget Initiative "Papiertheaterfestival" 6. Münchner Papiertheaterfestival "alles Papier" Große Dramen auf kleiner Bühne vom 20. - 23. Oktober 2022 4.000,00€; Az. 0262.0-13-0000
+- TOP 2.4.12.: (E) Stadtbezirksbudget Kreislaufschränke München e.V. Kreislaufschrank Denning/Engelschalking ab Herbst 2022 4.200,00€; Az. 0262.0-13-0320
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: (E) Digitale Infrastruktur an Bogenhausener Schulen evaluieren - Für eine bestmögliche Kompetenzermittlung
+- TOP 2.5.2.: Kindertagesstätte am Forum Bogenhausen (Denninger Straße / Richard-Strauss-Straße 82) - Antwortschreiben siehe TOP 6.11
+- TOP 2.5.3.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 (vertagt) Dokumente siehe TOP 5.1
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Baumfällungen: Arabellastr. 30 Franz-Wolter-Str. 1 Oberföhringer Str. 230 Rudliebstr. 14 Neckarstr. 4 Muspillistr. 17 Pernerkreppe 20 Widderstr. 13
+- TOP 2.6.2.: Antrag auf behindertengerechten Spielplatz mit Sinnespfad im Prinz-Eugen-Park; Bürgeranliegen
+- TOP 2.6.3.: Neue Wertstoffinsel an der Mühlbaurstraße
+- TOP 2.6.4.: (E) Unterflurcontainer in Bogenhausen - Kostenübernahme BA-Antrags-Nr. 20-26 / B 00912 des Bezirksausschusses des Stadtbezirkes 13 - Bogenhausen vom 13.10.2020 (vertagt)
+- TOP 2.6.5.: Errichtung einer Hundespielwiese, alternativ Freilauffläche; Antrag der SPD-Fraktion (vertagt)
+- TOP 2.6.6.: Errichtung eines rollstuhlgeeigneten Karussells; Antrag der CSU-Fraktion (vertagt)
+- TOP 2.6.7.: Englschalkinger Anger – ein richtiger Name für das Grüne Band; Bürgeranliegen (vertagt)
+- TOP 2.6.8.: Beleuchtung Prinz-Eugen-Park; Bürgeranliegen (vertagt)
+- TOP 2.6.9.: Klimaschutz ernst nehmen. Thema Aussenbecken im Cosimabad; Antrag der Fraktion DacG/ÖDP (vertagt)
+- TOP 2.6.10.: Baumsterben in Bogenhausen; Bürgeranliegen - Schreiben an Herrn Oberbürgermeister Dieter Reiter (Bürgerberatung.dir) zur Kenntnis.
+- TOP 2.6.11.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 (vertagt) Dokumente siehe TOP 5.1
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: "Mädchen an den Ball" - Wunsch nach einer Konzeptvorstellung?; Anhörung (vertagt)
+- TOP 2.7.2.: Sommerfest Phorms am 15.07.2022 im Bürgermeistergarten, Ismaninger-/Ecke Händelstr (vertagt)
+- TOP 2.7.3.: Details zum Betriebsanlauf der Vorläufereinrichtung im Prinz-Eugen-Park
+- TOP 2.7.4.: (E) Stadtbezirksbudget JET LEG, Biennale der Kunst und Kultur Museum Mobile vom 20.08 bis 24.09 1.000,00€; Az. 0262.0-13-0315 Dokumente siehe TOP 2.4.1
+- TOP 2.7.5.: Antwort bezüglich Anfrage Belegung Musenbergstraße für Entscheidung TOP 2.4.2 Dokument siehe TOP 2.4.3
+- TOP 2.7.6.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 (vertagt) Dokumente siehe TOP 5.1
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 5.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 (vertagt)
+- TOP 5.2.: Tag der offenen Tür der FFW Oberföhring am 25.06.2022 in der Muspillistr. Anhörung Veranstaltung öffentlicher Verkehrsgrund und Privatgrund
+- TOP 5.3.: Stadtteilfest SBZ Fideliopark am 25.06.2022 in der Fideliostr. 153 Anhörung VA auf Privatgrund und in städtischen Grünanlagen
+- TOP 5.4.: Architekturwoche A7 – Aktion am Friedensengel von 25.06.-01.07.2022 Anhörung VA öffentlicher Verkehrsgrund
+- TOP 5.5.: Straßenfest am 09.07.2022 (Ersatztermin 23.07.2022) in der Savitsstraße; Anhörung des KVR
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Poststelle im Prinz-Eugen-Park erhalten
+- TOP 6.2.: „Fit im Park“ in Bogenhausen
+- TOP 6.3.: Erneuerung der Asphaltdecke des Radwegs an der Ismaninger Str.
+- TOP 6.4.: Stuntzstr. 16 - 18b: Poller anbringen - kein Platz für Fußgänger und Mütter mit Kinderwagen!
+- TOP 6.5.: Zugang zum Regensburger Platz für Rollstuhl- und Rollatorfahrer
+- TOP 6.6.: Schwachstellen der klinischen Versorgung in München - Bürger für unser Münchner Stadtklinikum; Bürgeranliegen
+- TOP 6.7.: Errichtung einer Urnenwand (Kolumbarium) auf dem Friedhof Daglfing
+- TOP 6.8.: Errichtung einer Calisthenics-Anlage in Bogenhausen; Bürgeranliegen
+- TOP 6.9.: Wiederanlage des Blumenbeetes: Bushaltestelle Posener Platz (Fahrtrichtung Arabellapark)
+- TOP 6.10.: Grünstreifen Verlängerung Stradellastraße befestigen
+- TOP 6.11.: Kindertagesstätte am Forum Bogenhausen (Denninger Straße / Richard-Strauss-Straße 82)
+- TOP 6.12.: Problematische Verkehrssituation in der Brodersenstraße und Savitstraße
+- TOP 6.13.: Verbesserung des Lärmschutz entlang der Ostpreußenstraße (insbesondere an der Kreuzung zur Englschalkinger Straße)
+- TOP 6.14.: Klärung Umleitungen und Sperrungsdauer Bahnübergänge Daglfing + Englschalking
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Ratsinformationssystem (RIS); hier: Statusänderung der Dokumente BV-Empfehlungen, BA-Anträge sowie Dokumente zu Beschlussvorlagen, die BV-Empfehlungen und BA-Anträge behandeln, im RIS von „öffentlich“ auf „nicht öffentlich“ für die Jahre 2005-2016
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Sanierung Einmündungsbereich Steinhauser Str. 7 / Ecke Prinzregentenstr.
+- TOP 7.2.2.: Fehlender bzw. zu schmaler Gehweg und Regenwasserumleitung, Gefahr durch Glatteis und Ausrutschen der Fußgänger in der Barbarossastraße 11 - 15; Bürgeranliegen
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Arbeiten im Straßenraum: Keplerstr. zwischen Mühlbaurstr. und Holbeinstr. - Verkehrsrechtliche Anordnung -
+- TOP 7.3.2.: Teststation in der Montgelasstraße; Anhörung des Mobilitätsreferats - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 7.3.3.: Baustelleneinrichtung: Grünzug östl. Klinikum Bogenhausen Vollzug der Grünanlagensatzung vom 15.06.2012;
+- TOP 7.3.4.: Arbeiten im Straßenraum: Geibelstr. zwischen Lamontstr. und Schumannstr. - Verkehrsrechtliche Anordnung -
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Rosenkavalierplatz 15: unveränderte Fortführung Gaststättenbetrieb
+- TOP 7.5.2.: Geburtstag Richard Wagner am 22.05.2022 am Richard-Wagner-Denkmal auf dem Prinzregentenplatz; Veranstaltung in städtischen Grünanlagen; Eilentscheid des Vorsitzenden
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.2.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 7.7.3.: Rückbau von Gleisanlagen im Bahnhof Johanneskirchen; Plangenehmigung zur Kenntnis
+- TOP 7.7.4.: (U) Münchner Nordosten A) Beschluss des Ergebnisses des städtebaulichen und landschaftsplanerischen Ideenwettbewerbs B) Weiteres Vorgehen im Rahmen der Vorbereitenden Untersuchungen (VU) C) Anträge und Empfehlungen usw.
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 7.8.2.: Fürkhofstraße 28; Generalinstandsetzung und Erweiterung der Helen-Keller-Realschule, Modernisierung und Neubau der Bezirkssportanlage mit Vereinsgaststätte; Antworten zu Nachfragen in der Projektvorstellung im UA Planung
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Protokoll der öffentlichen Sitzung des Mieterbeirates der LHM vom 25.04.2022
+- TOP 7.9.2.: Inbetriebnahme des Leichtbauhallenstandortes in der Kronstadter Str. 36; Information des Sozialreferates
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) Ausnahmezulassung nach § 7 Abs. 2 der 32. BImSchV für den Betrieb von Geräten/Maschinen bei nächtlichen Filmdreharbeiten
+- TOP 7.15.2.: Stadtweite nächtliche Mäharbeiten von Straßenbegleitgrün; Immissionsschutzrechtlichen Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.17.1.: Weitere Nutzung der Heizstrahler mit Ökostrom auf öffentlichen Plätzen der Außengastronomie; Antrag an die Stadt München der DEHOGA e.V., Münchner Innenstadtwirte e.V., CityPartner München e.V.
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.18.1.: Baumaßnahmen der Stadtwerke München- Stichtag: 25.04.2022 bis 09.05.2022
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 5.6.: Gottesdienst im Rahmen der Fronleichnamsprozession des Pfarrverband Bogenhausen Süd am 19.06.2022 in der Schwarzwaldstraße; Anhörung VA in städtischen Grünanlagen
+- TOP 1.2.1.: Nachträge: 2.2.5: Vermietung einer Teilfläche als Baustelleneinrichtungsfläche; An der Brodersenstraße; Anhörung des Kommunalreferates 2.3.13: Rückbau provisorische Querung Mauerkircher-/Montgelasstr.; Anhörung des Mobilitätsreferat 2.3.14: Bernhard-Lichtenberg-Weg - Antrag zur Wiederherstellung der Feuerwehrzufahrts-Poller gemäß Ausbauzustand zur Nutzungsaufnahme 1985; Antwortschreiben Baureferat 2.3.15: Abfrage Stadtteilzentrum bezüglich neuen Münchner Radverkehrsnetzes; Anhörung des Mobilitätsreferates 2.4.11: (E) Stadtbezirksbudget Initiative "Papiertheaterfestival" 6. Münchner Papiertheaterfestival "alles Papier" Große Dramen auf kleiner Bühne vom 20. - 23. Oktober 2022 2.4.12: (E) Stadtbezirksbudget Kreislaufschränke München e.V. Kreislaufschrank Denning/Engelschalking ab Herbst 2022 5.5: Straßenfest am 09.07.2022 (Ersatztermin 23.07.2022) in der Savitsstraße; Anhörung des KVR 5.6: Gottesdienst im Rahmen der Fronleichnamsprozession am 19.06.2022 in der Schwarzwaldstraße; Anhörung VA in städtischen Grünanlagen
+- TOP 2.2.3.: Stellungnahmen Verkehrsplanung und Kommunikation zur SEM MNO Aus der Sitzung des UA Planung vom 16.05.2022
