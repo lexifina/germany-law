@@ -1,0 +1,150 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-05-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6849376
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6849376
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Verkehrsberuhigung Sachsenkamstraße
+- TOP 6.2.: Fahrradabstellanlagen Ehrwalder Straße
+- TOP 6.3.: Antrag Poller Albert-Roßhaupter-Straße
+- TOP 6.4.: Albert-Roßhaupter-Straße
+- TOP 6.5.: Unfall Margaretenunterführung
+- TOP 6.6.: Radabstellplatz Partnachplatz
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) + (U) Interims-Jugendtreff Sendling-Westpark Antrag auf Jugendtreff Empfehlung Nr. 20-26 / E 00356 der Bürgerversammlung des 7. Stadtbezirkes - Sendling-Westpark am 11.10.2021
+- TOP 8.2.: (E) + (U) Buslinie 62 und 63 im 10-Minuten-Takt Empfehlung Nr. 20-26 / E 00341 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 11.10.2021
+- TOP 8.3.: (E) + (U) Ausweitung der 30 km/h Beschränkung auf der Hansastraße in Richtung Westpark Empfehlung Nr. 20-26 / E 00369 der Bürgerversammlung des Stadtbezirkes 07 – Sendling- Westpark am 11.10.2021
+- TOP 8.4.: (E) Toilettenanlage Luise-Kiesselbach-Platz Empfehlung Nr. 20-26 / E 00340 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 11.10.2021
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Baugenossenschaft Kriegersiedlung eG Kinderfest am 22.07.2022 517,50 Euro, Az.: 0262.0-7-0374
+- TOP 10.2.: (E) Stadtbezirksbudget IKF Integrative Kinderförderung GmbH Cool Strong Kids vom 02.05. - 03.06.2022 2.073,75 Euro, Az.: 0262.0-7-0371
+- TOP 10.3.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl, Tanz.Die.Invasion, Stadt.Oase 2023 8.562,00 Euro, Az.: 0262.0-7-0373
+- TOP 10.4.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl vom 13. - 17.06.2022, Tanz.Die.Invasion vom 02. - 04.10.2022, Stadt.Oase 2022 8.562,00 Euro, Az.: 0262.0-7-0372
+- TOP 11.: Anträge
+- TOP 11.1.: Antrag E-Ladestationen
+- TOP 11.2.: BA-Jahresempfang 2023 für alle Bürger_innen
+- TOP 11.3.: Aufwertung-Spielplatz-Marbachstraße
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Baumfällungen Werdenfelsstraße
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Straßenfest in der Rießerseestraße
+- TOP 16.2.: Luise-Kiesselbach-Platz, Zirkus Rio Artistik
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, kl. Wiese im Ostteil, Gottesdienst CityChurch
+- TOP 17.2.: Westpark, Theatron, Open Stage Event
+- TOP 17.3.: Ostteil, Tanzwerkstatt Europa - Bouncing Narratives
+- TOP 18.: Baureferat
+- TOP 18.1.: EV Kienbergstraße
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Migrations_Integrationsbeauftragte im Bezirksausschuss
+- TOP 20.2.: Benennung bei Stadtquartieren
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Bernrieder Str Haltverbot
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 32.1.: Mehrjahresinvestitionsplan 2021-2025
+- TOP 33.: Baureferat
+- TOP 33.1.: Sanierung von Fuß_und Radwegen im Westpark
+- TOP 33.2.: Protokoll Nachtspaziergang Sendling Westpark
+- TOP 33.3.: Fristverlängerung Radabstellanlagen für Sendling-Westpark
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Vorkaufsrecht Marbachstraße
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Antwortschreiben Behindertenparkplatz
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Ausbau der Fernwärmeversorgung
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Antwortschreiben Schulhoföffnung
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: BSL Ferienpässe
+- TOP 46.2.: Leerstand des Hauses Rüdesheimer Straße.
+- TOP 46.3.: Erhaltungssatzung Fuggerstr.
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Protokoll Kunst am Bau
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Ausnahmegenehmigung Fit im Park
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Ostteil, Frühlingsfest des Montessori Kinderhauses
+- TOP 53.2.: Bescheid, Luise-Kiesselbach-Platz, Maifeier
+- TOP 53.3.: Bescheid, Westpark, Theatron, Outdoor-Gottesdienste
+- TOP 53.4.: Bescheid, Westpark, Gymnastikwiese, Tanzen im Park
+- TOP 53.5.: Bescheid, Westpark, Ostteil, Trommelaktion
+- TOP 53.6.: Bescheid, Heckenstaller Park, Theater vor der Haustür
+- TOP 53.7.: Bescheid, Westpark, Mollsee, Tag der Schiffsmodellbauer
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Drehgenehmigung Kiesselbach-Platz - GYKIT
+- TOP 56.2.: Drehgenehmigung Südpark - Selbstverteidigung PULS
+- TOP 56.3.: Passauerstraße
+- TOP 56.4.: Inningerstr. u.a. Örtlichkeiten - Selbstverteidigung PULS Reportage
+- TOP 56.5.: Drehgenehmigung Siegenburger Str. - Tatort
+- TOP 56.6.: Aichacher Straße Gehweg, Radfahrer frei, nach Widmungserweiterung
+- TOP 56.7.: Dreh mit VOLLSPERRE Johann-Houis-Str.
+- TOP 56.8.: Heckenstallerpark_Z136_Spielplatz
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 58.1.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 58.2.: (U) Sachstandsbericht zum Sportbauprogramm A. Erläuterung der Ausgangslage im Hinblick auf die Fortschreibung des Sportbauprogramms 1. Inhalt und Umfang des Sportbauprogramms 2. Berichtswesen zum Sportbauprogramm 3. Stadtratsbeschlüsse und gesetzliche Änderungen mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht B. Fortschreibung Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten sowie zum 1., 2. und 3. Maßnahmenpaket 3. Finanzierung 4. Ausblick auf das 4. Maßnahmenpaket 5. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 6. Geschlechtergerechtigkeit im Sportstättenbau C. Fortschreibung des Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 5. Geschlechtergerechtigkeit im Sportstättenbau D. Fortschreibung Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau E. Beteiligungen und Anhörungen
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Stadtweite nächtliche Mäharbeiten von Straßenbegleitgrün
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Digitale-Unterlagen-an-BAs
+- TOP 61.2.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 61.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61.4.: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 61.5.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 62.: Sozialreferat
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: SWM Geschäftsbericht 2021
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Abgeschlossenheitsbescheinigungen
+- TOP 65.2.: Abstimmung über das Streamen von Sitzungen im BA 7
