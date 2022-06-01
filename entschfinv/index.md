@@ -1,4 +1,4 @@
-# Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH und der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH
+# Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
@@ -28,16 +28,15 @@
 - [§ 6 Jahreszielausstattung](0006.md)
 - [§ 7 Berechnungsformel](0007.md)
 
-##### Titel 2 Bestimmung des aggregierten Risikogewichts für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind
+##### Titel 2 Bestimmung des aggregierten Risikogewichts
 
 - [§ 8 Bestimmung des aggregierten Risikogewichts](0008.md)
 - [§ 9 Risikokategorien, Risikoindikatoren und Risikogewichtung](0009.md)
 - [§ 10 Risikoeinschätzung auf der Grundlage von Ratings](0010.md)
 
-##### Titel 3 Bestimmung des aggregierten Risikogewichts für CRR-Kreditinstitute, die der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind
+##### Titel 3 (weggefallen)
 
-- [§ 11 Bestimmung des aggregierten Risikogewichts](0011.md)
-- [§ 12 Risikokategorien, Risikoindikatoren und Risikogewichtung](0012.md)
+- [(XXXX) §§ 11 und 12 (weggefallen)](xxxx-11-und-12.md)
 
 ### Kapitel 2 Einmalige Zahlung
 
@@ -49,6 +48,7 @@
 - [§ 15 Vorlage- und Nachweispflichten](0015.md)
 - [§ 16 Vorläufige und endgültige Festsetzung](0016.md)
 - [§ 17 Ausschlussfrist](0017.md)
+- [§ 17a Schätzung bei unrichtiger Meldung der Höhe der gedeckten Einlagen](0017a.md)
 - [§ 18 Verzugszinsen](0018.md)
 
 ## Teil 3 Zahlungsverpflichtungen und Finanzsicherheiten
@@ -83,4 +83,4 @@
 - [§ 34 Übergangsvorschriften](0034.md)
 - [§ 35 Inkrafttreten, Außerkrafttreten](0035.md)
 - [Anlage 1 (zu § 8 Absatz 1 und § 9)Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind](anlage-1.md)
-- [Anlage 2 (zu § 11 Absatz 1 und § 12)Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind](anlage-2.md)
+- [Anlage 2 (weggefallen)](anlage-2.md)
