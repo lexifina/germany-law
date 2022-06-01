@@ -25,8 +25,9 @@ Flurbereinigungsgesetz](0005.md)
 - [§ 11 Pflicht zur Unterrichtung](0011.md)
 - [§ 12 Inhalt der Unterrichtung](0012.md)
 
-## 4. Teil Besondere Vorschriften zu Mitteilungen über Billigkeitsleistungen anlässlich der Corona-Krise
+## 4. Teil Besondere Vorschriften
 
 - [§ 13 Mitteilungen über Billigkeitsleistungen des Bundes und der Länder anlässlich der Corona-Krise](0013.md)
-- [Schlußformel](schlussformel.md)
 - [§ 14 Mitteilung von Zahlungen der Kassenärztlichen Vereinigungen an die Anbieter von Leistungen nach der Coronavirus-Testverordnung](0014.md)
+- [§ 15 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen und Hochwasserkatastrophe im Juli 2021](0015.md)
+- [Schlußformel](schlussformel.md)

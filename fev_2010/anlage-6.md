@@ -92,7 +92,7 @@ Art der Zweifel:
 Muster
 Bescheinigung über die ärztliche Untersuchung
 (Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)
-von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung für Taxen, Mietwagen, Krankenkraftwagen oder Personenkraftwagen im Linienverkehr oder bei gewerbsmäßigen Ausflugsfahrten oder Ferienziel-Reisen nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
+von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 – Vorderseite –
 Teil 1 (verbleibt beim Arzt)
 1. Angaben über den untersuchenden Arzt
@@ -120,7 +120,7 @@ Eine augenärztliche Zusatzuntersuchung nach Anlage 6 Nummer 2.2 der Fahrerlaubn
 Muster
 Bescheinigung über die ärztliche Untersuchung
 (Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)
-von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung für Taxen, Mietwagen, Krankenkraftwagen oder Personenkraftwagen im Linienverkehr oder bei gewerbsmäßigen Ausflugsfahrten oder Ferienziel-Reisen nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
+von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 Teil 2 (dem Bewerber auszuhändigen)
 Name des Arztes, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der öffentlichen Verwaltung, Anschrift
 | Familienname, Vornamen des Bewerbers: .......... |
@@ -147,7 +147,7 @@ Die Identität des Untersuchten wurde geprüft.
 Muster
 Zeugnis über die augenärztliche Untersuchung
 (Anlage 6 Nummer 2.2 der Fahrerlaubnis-Verordnung)
-von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung für Taxen, Mietwagen, Krankenkraftwagen oder Personenkraftwagen im Linienverkehr oder bei gewerbsmäßigen Ausflugsfahrten oder Ferienziel-Reisen nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
+von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 – Vorderseite –
 Teil 1 (verbleibt beim Arzt)
 1. Name und Anschrift des Augenarztes
@@ -175,7 +175,7 @@ Auflagen/Beschränkungen erforderlich:
 Muster
 Zeugnis über die augenärztliche Untersuchung
 (Anlage 6 Nummer 2.2 der Fahrerlaubnis-Verordnung)
-von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung für Taxen, Mietwagen, Krankenkraftwagen oder Personenkraftwagen im Linienverkehr oder bei gewerbsmäßigen Ausflugsfahrten oder Ferienziel-Reisen nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
+von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 Teil 2 (dem Bewerber auszuhändigen)
 Name des Augenarztes, Anschrift
 | Familienname, Vornamen des Bewerbers: .......... |

@@ -26,4 +26,7 @@
 - [§ 13 Bußgeldvorschrift](0013.md)
 - [§ 14 Dauer der Anspruchseinschränkung](0014.md)
 - [§ 15 Übergangsregelung zum Zweiten Gesetz zur besseren Durchsetzung der Ausreisepflicht](0015.md)
-- [§ 16 Kinderfreizeitbonus aus Anlass der COVID-19-Pandemie](0016.md)
+- [§ 16 Sofortzuschlag](0016.md)
+- [§ 17 Einmalzahlung für den Monat Juli 2022](0017.md)
+- [§ 18 Übergangsregelung für Personen mit Aufenthaltserlaubnis nach § 24 des Aufenthaltsgesetzes oder entsprechender Fiktionsbescheinigung](0018.md)
+- [§ 19 Einmalzahlung für Kinder](0019.md)

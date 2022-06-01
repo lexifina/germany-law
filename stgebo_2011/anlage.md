@@ -147,7 +147,7 @@ Gebühren der Behörden im Landesbereich
 | 202.8 |  | Ausfertigung einer Prüfungsbescheinigung nach § 48a FeV | 7,70 |
 | 202.9 |  | Überprüfung einer Begleitperson nach § 48a Absatz 5 Satz 2 FeV | 1,50 bis 10,00 |
 | 202.10 |  | Erteilung einer Fahrberechtigung für Mitglieder der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 19,20 |
-| 203 |  | Ortskundeprüfung | 20,50 bis 57,30 |
+| 203 |  | (weggefallen) |  |
 | 204 |  | Verlängerung der Geltungsdauer einer Fahrerlaubnis zur Fahrgastbeförderung und Eintragung im Führerschein zur Fahrgastbeförderung | 28,60 |
 | 205 |  | Änderung oder Ergänzung eines Führerscheins zur Fahrgastbeförderung (ausgenommen Erweiterungen und Verlängerungen) oder Internationalen Führerscheins | 7,70 |
 | 206 |  | Versagung der Erteilung oder Erweiterung einer Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung; Versagung der Verlängerung der Geltungsdauer einer Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung; Entziehung, Widerruf oder Rücknahme einer Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung; Aberkennung des Rechts oder Feststellung der fehlenden Berechtigung, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu machen; Untersagen des Führens von Fahrzeugen oder Tieren | 33,20 bis 256,00 |

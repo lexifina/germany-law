@@ -1,10 +1,9 @@
-# Anlage 5
+# Anlage 5 (zu § 11 Absatz 9, § 48 Absatz 4 und 5)
 
-Anlage 5 (zu § 11 Absatz 9, § 48 Absatz 4 und 5)
 Eignungsuntersuchungen für Bewerber
 und Inhaber der Klassen C, C1, D, D1 und der zugehörigen
 Anhängerklassen E sowie der Fahrerlaubnis zur Fahrgastbeförderung
-1. Bewerber um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E sowie der Fahrerlaubnis zur Fahrgastbeförderung müssen sich untersuchen lassen, ob Erkrankungen vorliegen, die die Eignung oder die bedingte Eignung ausschließen. Sie haben hierüber einen Nachweis gemäß dem Muster dieser Anlage vorzulegen.
+1. Bewerber um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E sowie der Fahrerlaubnis zur Fahrgastbeförderung müssen sich untersuchen lassen, ob Anzeichen für Erkrankungen vorliegen, die die Eignung oder die bedingte Eignung ausschließen können. Sie haben hierüber einen Nachweis gemäß dem Muster dieser Anlage vorzulegen.
 2. Bewerber um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen D, D1, DE, D1E sowie einer Fahrerlaubnis zur Fahrgastbeförderung müssen außerdem besondere Anforderungen hinsichtlich:
   a) Belastbarkeit,
   b) Orientierungsleistung,

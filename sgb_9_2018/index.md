@@ -241,6 +241,7 @@
 
 - [§ 149 Übergangsregelung für ambulant Betreute](0149.md)
 - [§ 150 Übergangsregelung zum Einsatz des Einkommens](0150.md)
+- [§ 150a Übergangsregelung für Ausländerinnen und Ausländer mit Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder mit entsprechender Fiktionsbescheinigung](0150a.md)
 
 ## Teil 3 Besondere Regelungen zur Teilhabe schwerbehinderter Menschen (Schwerbehindertenrecht)
 

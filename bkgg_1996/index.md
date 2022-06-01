@@ -39,4 +39,3 @@
 - [§ 19 Übergangsvorschriften](0019.md)
 - [§ 20 Anwendungsvorschrift](0020.md)
 - [§ 21 Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld](0021.md)
-- [§ 22 Bericht der Bundesregierung](0022.md)

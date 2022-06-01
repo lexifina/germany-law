@@ -35,7 +35,7 @@ A. Schwerwiegende Zuwiderhandlungen
   | das Verhalten bei blauem Blinklicht zusammen mit dem Einsatzhorn | (§ 38 Absatz 1 Satz 2) |
 2.2 Verstöße gegen die Vorschriften der Fahrzeug-Zulassungsverordnung über den Gebrauch oder das Gestatten des Gebrauchs von Fahrzeugen ohne die erforderliche Zulassung (§ 3 Absatz 1) oder ohne dass sie einem genehmigten Typ entsprechen oder eine Einzelgenehmigung erteilt ist (§ 4 Absatz 1)
 2.3 Verstöße gegen § 24a oder § 24c des Straßenverkehrsgesetzes (Alkohol, berauschende Mittel)
-2.4 Verstöße gegen die Vorschriften der Fahrerlaubnis-Verordnung über das Befördern von Fahrgästen ohne die erforderliche Fahrerlaubnis zur Fahrgastbeförderung oder das Anordnen oder Zulassen solcher Beförderungen (§ 48 Absatz 1 oder 8)
+2.4 Verstöße gegen die Vorschriften der Fahrerlaubnis-Verordnung über das Befördern von Fahrgästen ohne die erforderliche Fahrerlaubnis zur Fahrgastbeförderung oder das Anordnen oder Zulassen solcher Beförderungen (§ 48 Absatz 1 oder 7)
 2.5 Verstöße gegen die Vorschriften der Fahrerlaubnis-Verordnung über das Führen von Kraftfahrzeugen in Begleitung, wenn der Fahrerlaubnisinhaber entgegen einer vollziehbaren Auflage ein Kraftfahrzeug ohne Begleitung führt (Begleitetes Fahren ab 17 Jahre – § 48a Absatz 2)
 B. Weniger schwerwiegende Zuwiderhandlungen
 1. Straftaten, soweit sie nicht bereits zur Entziehung der Fahrerlaubnis geführt haben:

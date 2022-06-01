@@ -40,5 +40,6 @@ Siebter Abschnitt
 | Anlage 1.2 (zu § 2 Absatz 1) | Fahrlehrerschein |
 | Anlage 1a (zu § 2a) | Musterplan für den Fahrschulbetriebswirtschaftslehrgang |
 | Anlage 2 (zu § 3) | Unterrichtsräume |
+| Anlage 2a (zu § 4 Absatz 2) | Anforderungen an die Durchführung von theoretischem Unterricht in digitaler Form |
 | Anlage 3 (zu § 6 Absatz 1) | Ausbildungsnachweis/Ausbildungsbescheinigung |
 | Anlage 4 (zu § 7) | Preisaushang nach § 32 des Fahrlehrergesetzes |

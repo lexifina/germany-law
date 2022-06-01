@@ -47,5 +47,6 @@
 - [Anlage 1.2 (zu § 2 Absatz 1)Fahrlehrerschein](anlage-1-2.md)
 - [Anlage 1a (zu § 2a)](anlage-1a.md)
 - [Anlage 2 (zu § 3)Unterrichtsräume](anlage-2.md)
-- [Anlage 3 (zu § 6 Absatz 1)](anlage-3.md)
+- [Anlage 2a (zu § 4 Absatz 2)Anforderungen an die Durchführung von theoretischem Unterricht in digitaler Form](anlage-2a.md)
+- [Anlage 3 (zu § 6 Absatz 1)Ausbildungsnachweis](anlage-3.md)
 - [Anlage 4 (zu § 7)Preisaushang nach § 32 des Fahrlehrergesetzes](anlage-4.md)

@@ -1,14 +1,19 @@
 # Anlage 11 (zu § 31)Staatenliste zu den Sonderbestimmungen für Inhaber einer ausländischen Fahrerlaubnis
 
 | Ausstellungsstaat | Klasse(n) | theoretische Prüfung | praktische Prüfung |
+| Albanien | A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D und DE | nein | nein |
+| Albanien | AM | nein | ja |
 | Andorra | alle | nein | nein |
 | Bosnien und Herzegowina | A1, A, B | nein | nein |
 | Französisch-Polynesien | alle | nein | nein |
+| Gibraltar | alle | nein | nein |
 | Guernsey | alle | nein | nein |
 | Insel Man | alle | nein | nein |
 | Israel | B | nein | nein |
 | Japan | alle | nein | nein |
 | Jersey | alle | nein | nein |
+| Kosovo | AM, A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D und DE | nein | nein |
+| Moldau | A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D und DE | nein | ja |
 | Republik Nordmazedonien | alle | nein | nein |
 | (weggefallen) |  |  |  |
 | Monaco | alle | nein | nein |
@@ -22,6 +27,7 @@
 | Singapur | alle | nein | nein |
 | Südafrika | alle | nein | nein |
 | Fahrerlaubnisse, die im tatsächlichen Herrschaftsbereich der Behörden in Taiwan erteilt wurden | B/BE | nein | nein |
+| Vereinigtes Königreich | alle | nein | nein |
 | Fahrerlaubnisse aus den Australischen Territorien: |  |  |  |
 | – Australian Capital Territory | C, R | nein | nein |
 | – New South Wales | C, R | nein | nein |
