@@ -1,0 +1,18 @@
+# Gesetz zur Beschleunigung des Einsatzes verflüssigten Erdgases
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Zweck](0001.md)
+- [§ 2 Anwendungsbereich](0002.md)
+- [§ 3 Besonderes Interesse](0003.md)
+- [§ 4 Ausnahmen von der Umweltverträglichkeitsprüfung](0004.md)
+- [§ 5 Maßgaben für die Anwendung des Bundes-Immissionsschutzgesetzes und der Industriekläranlagen-Zulassungs- und Überwachungsverordnung](0005.md)
+- [§ 6 Maßgaben für die Anwendung des Bundesnaturschutzgesetzes](0006.md)
+- [§ 7 Maßgaben für die Anwendung des Wasserhaushaltsgesetzes](0007.md)
+- [§ 8 Maßgaben für die Anwendung des Energiewirtschaftsgesetzes](0008.md)
+- [§ 9 Beschleunigte Vergabe- und Nachprüfungsverfahren](0009.md)
+- [§ 10 Weitere Verfahrensanordnungen](0010.md)
+- [§ 11 Rechtsbehelfe](0011.md)
+- [§ 12 Zuständigkeit des Bundesverwaltungsgerichts](0012.md)
+- [§ 13 Übergangsregelungen](0013.md)
+- [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
+- [Anlage (zu § 2)](anlage.md)
