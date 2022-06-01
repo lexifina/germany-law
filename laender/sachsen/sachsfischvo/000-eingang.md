@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft zur Durchführung des Fischereigesetzes für den Freistaat Sachsen (Sächsische Fischereiverordnung – SächsFischVO)
+Vom 22. April 2022
+Auf Grund des § 33 Nummer 1 bis 17 und 20 bis 24 sowie des § 35 Absatz 1 Nummer 26 des Sächsischen Fischereigesetzes vom 9. Juli 2007 (SächsGVBl. S. 310), von denen durch Gesetz vom 29. April 2012 (SächsGVBl. S. 254) § 33 Nummer 23 und 24 eingefügt sowie § 35 Absatz 1 Nummer 26 geändert worden ist, verordnet das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft:
