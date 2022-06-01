@@ -1,0 +1,134 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2022-06-01T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6845480
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6845480
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP 6.1.: Anhörung zum Mehrjahresinvestitionsprogramm – Fortschreibung für die Jahre 202 bis 2026
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Elternbeirat: Sanierung der Fachlehrsäle im Sophie-Scholl-Gymnasium
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Kindergarten Arbeitskreis Neue Erziehung e.V. 50jähriges Jubiläumsfest am 25.06.2022 2.579,07 Euro, Az.: 0262.0-4-0390
+- TOP 2.2.: Psychosoziale Arbeitsgemeinschaft München-Nord (PSAG): Wachsende Wohnraumnot bei Menschen mit seelischen Erkrankungen und Behinderungen
+- TOP 2.3.: (E) Stadtbezirksbudget eigenleben gGmbH Raum für eigenleben vom 02.05. - 31.12.2022 9.600,00 Euro, Az.: 0262.0-4-0391
+- TOP 2.4.: (E) Stadtbezirksbudget Johanniter-Unfall-Hilfe e.V., Regionalverband München Spielprogramm "Umsonst & Draußen" während des LILALU-Sommerfestivals vom 01.08. - 09.09.2022 3.000,00 Euro, Az.: 0262.0-4-0397
+- TOP 2.5.: (E) Stadtbezirksbudget LIFE - das Jugendzentrum am Ackermannbogen / CVJM München e.V. AktivFerien am Ackermannbogen vom 07. - 10.06.2022 5.085,80 Euro, Az.: 0262.0-4-0395
+- TOP 2.6.: (E) Stadtbezirksbudget Caritasverband der Erzdiözese München und Freising e.V. Projekttag "Comic-Zeichnen" am 23./24.06.2022 966,00 Euro, Az.: 0262.0-4-0394
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Sprengeländerung bzw. -errichtung der Grundschulen Dachauer Str. 98 und Infanteriestr. 25 (Sitzungsvorlage Nr. 20-26 / V 05707)
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innen: Rücknahme des BA-Beschlusses zum Stelzenbau auf dem Kölner Platz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Vorbescheid Farinellistr. 8 – 12 (vertagt aus 04/22): Neubau einer Wohnanlage mit Dachaufstockung und Tiefgarage (Farinellistr. 8-12 / Friedrich-Loy-Str. 1)
+- TOP 2.2.: Kathi-Kobus-Str. 22 – 24 (vertagt aus 04/22) : Neubau einer Wohnanlage mit zweigeschossiger Tiefgarage mit Mobilitätskonzept (Kathi-Kobus-Str. 22–24/Theo-Prosel-Weg 11+13)
+- TOP 2.3.: St.-Blasien-Str. 1 a – Vorbescheid mit Mobilitätskonzept: Neubau eines Wohngebäudes (42 WE) mit Tiefgarage
+- TOP 2.4.: Satzungsbeschlüsse Erhaltungssatzungen „Pündterplatz“ und „Hohenzollernplatz“
+- TOP 2.5.: Schleißheimer Str. 93: Neubau eines Bürogebäudes mit Gastronomie, Ladenflächen, Kita sowie einer dreigeschossigen Tiefgarage
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Erlass der Erhaltungssatzung „Maxvorstadt / Josephsplatz“ (Sitzungsvorlage Nr. 20-26 / V 05949)
+- TOP 3.2.2.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 3.2.3.: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Protokoll der Sitzung des städt. Mieterbeirats vom 25.04.2022 mit Präsentation „Änderungen der Vorkaufsrechts-Praxis durch das Baulandmobilisierungsgesetz“
+- TOP 3.3.2.: Angererstr. 7 d: Ablehnungsbescheid für Auslieferungslager „Gorillas“
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Maßnahmen gegen Zweite-Reihe-Parken in der Tengstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Änderung der Ampelschaltung an der Kreuzung Elisabeth- / Isabellastraße Empfehlung Nr. 20-26 / E 00135 der Bürgerversammlungdes Stadtbezirkes Nr. 03 Maxvorstadt am 09.07.2021
+- TOP 2.2.: Neues Radverkehrsnetz für München: Abfrage des Stadtteilzentrums im jeweiligen Stadtbezirk
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Gehwegparken in der Mottlstraße
+- TOP 3.1.2.: Maßnahmen gegen Geisterfahrer in der Barlachstraße (Antwort der Polizei auf weitergeleitetes Bürgeranliegen, TOP E 1.5 04/22)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Birnauer Straße ggü. Hausnr. 16: Umwandlung von Kfz- in Fahrradstellplätze
+- TOP 3.2.2.: Geänderte Parkregelung in der Winzererstraße südlich Elisabeth- bis südlich Agnesstraße
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Trinkwasserprojekt Belgradstraße (Info-Flyer der Stadtwerke München)
+- TOP 3.3.2.: Verlegung einer Fernwärmeleitung in der Infanterie-/Barbarastraße
+- TOP 3.3.3.: Neubau Fernwärmeleitung Infanteriestr. 20 b
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Tram-Neubaustrecke „Tram-Nordtangente“ und Verbesserung des anliegenden Straßenraums Trassierungsbeschluss (Streckenabschnitt Elisabethplatz bis Münchner Freiheit)
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innen: Aufstellen von Sitzbänken in der Infanteriestraße
+- TOP 1.2.: Bürgerin: Blühstreifen rund um den neu gestalteten Platz am Kriegerdenkmal
+- TOP 1.3.: Bürgerin: Lärm- und Geruchsbelästigung durch Notheizaggregat Fallmerayerstr. 29
+- TOP 1.4.: Bürger: Wiederherstellung des Gehwegs auf der Südseite der Herzogstraße zwischen Winzerer- und Schleißheimer Straße
+- TOP 1.5.: Antrag Grüne: Hecken und Sträucher statt Metallbügel
+- TOP 1.6.: Antrag DIE LINKE: Klimaschutzbericht bei der Bürgerversammlung Schwabing West
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Heßstr. 134: Antrag auf Fällung einer Esche
+- TOP 2.1.2.: Stadtentwicklungsplan STEP 2040
+- TOP 2.1.3.: Belgradstr. 195: Generalsanierung Bad Georgenschwaige a) Bauvorhaben b) Baumfällungen in Zusammenhang damit
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Hochbeete und Stadtterrasse an der Adams-Lehmann-Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Schutz des Grünstreifens vor Schleißheimer Str. 158-160 (Antwort des Baureferats Tiefbau auf weitergeleitetes Bürgeranliegen E 1.1 02/22)
+- TOP 3.1.2.: Grünstreifen entlang des Bayernparks zur Belgradstraße: Hundekottütenspender, Abfallbehälter und Hinweisschild „Kein Hundeklo“ (Antwort des Baureferats auf BA-Schreiben vom 31.03.2022)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Ausnahmezulassung für baustellenbedingte Mülleinsammlung ab 5.30 Uhr bis Ende November 2022 im Bereich Barbara-, Elisabeth-, Winzerer-, Heßstraße
+- TOP 3.4.2.: Abbau der defekten Reifenschaukel auf dem Spielplatz Elisabeth-Kohn-Straße (Ersatz voraussichtlich im Juli)
+- TOP 3.4.3.: Ausnahmezulassung für nächtliche Mäharbeiten am Straßenbegleitgrün, u.a in der Ackermannstraße und am Petuelring
+- TOP 3.4.4.: Ausnahmegenehmigung für eine Baustelleneinrichtung (Stromüberspannung mit 2 Masten) in der Grünanlage an der Degenfeldstraße vom 16.05. bis 15.08.2022
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Blütenring e.V. Blütenring Theatertage 2022 - Commedia im Park vom 17. - 19.06. und 24. - 26.06.2022 2.038,34 Euro, Az.: 0262.0-4-0392
+- TOP 2.1.2.: Bereits gewährter Zuschuss an PATHOS München e.V. für die Gestaltung des Theaterhofs: Änderungen in der Kostenaufstellung bei gleichbleibender Fördersumme
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: Anträge auf Freischankflächen (Erstanträge, Erweiterungen, Schanigärten) a) „More Pizza & Store“, Belgradstr. 9: Genehmigung einer Kleinstfreischankfläche b) „Kuchenwerkstatt Madame Boulos“, Herzogstr. 84: Erweiterung einer Kleinstfreischankfläche c) „Taj“, Belgradstr. 29: Genehmigung einer Parkplatzfreischankfläche
+- TOP 2.2.2.: „the danish girl“, Franz-Joseph-Str. 46: Aufstellen von zwei Warenauslagen (Pflanzgefäße auf Gestellen)
+- TOP 2.2.3.: Agnesstraßenfest am 25.06.2022
+- TOP 2.2.4.: Sonntags-ZIRKEL – Musik und Theater im Luitpoldpark (10.07. bis 09.10.2022)
+- TOP 2.2.5.: Sportfest des Willi-Graf-Gymnasiums am 26.07.2022 im Luitpoldpark
+- TOP 2.2.6.: „Green Dinner“ Grünes Sommerfest am 09.07.2022 auf dem Hohenzollernplatz
+- TOP 2.2.7.: Quartiersflohmarkt der Nachbarschaftsbörse Ackermannbogen am 02.07.2022
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Drehgenehmigung „Pumuckl“ am 19./20.05.2022 am Elisabethplatz 2
+- TOP 3.3.2.: Drehgenehmigung „Und ihr schaut zu“ am 17.05.2022 auf dem Gehweg vor Clemensstr. 73
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Eilentscheidungen der BA-Vorsitzenden a) Informationsveranstaltung „Vielfalt im Stadtviertel“ der sozialen Einrichtungen des Quartiers am 21.06.2022 auf dem Hohenzollernplatz (Zustimmung) b) Spendenlauf „Kinder laufen für Kinder“ der Grundschule Simmernstraße am 27.05.2022 im Luitpoldpark (Zustimmung)
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP G.2.: Neue Besetzung der Unterausschüsse
+- TOP G.3.: Betreuung des BA-Schaukastens Winzerer- / Ecke Saarstraße
+- TOP G.4.: Benennung von Stadtquartieren (Anhörung zu geplanter Neuregelung mit Entscheidungsrecht für die Bezirksausschüsse)
+- TOP G.5.: Benennung von Migrations-/Integrationsbeauftragten in der BA-Satzung vorschreiben (Anhörung zu entsprechenden Anträgen von 10 Bezirksausschüssen)
+- TOP H: Termine
