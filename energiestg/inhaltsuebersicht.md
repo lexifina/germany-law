@@ -105,4 +105,5 @@ Schlussbestimmungen
 | § 66b | Ermächtigung zu § 55 Absatz 4, 5 und 8 |
 | § 66c | Bußgeldvorschriften |
 | § 67 | (weggefallen) |
+| § 68 | Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften |
 | Anlage | (zu § 55) Zielwerte für die zu erreichende Reduzierung der Energieintensität |

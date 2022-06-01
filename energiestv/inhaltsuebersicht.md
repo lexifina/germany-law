@@ -322,6 +322,8 @@
 | Zu § 66 Abs. 1 Nr. 17 des Gesetzes |
 |  |  |
 | § 109 | Vermischungen von versteuerten Energieerzeugnissen |
+| § 109a | Zeitlich begrenzte Fassungen einzelner Verordnungsvorschriften |
+| § 109b | Sonstige Vermischungen von versteuerten Energieerzeugnissen |
 |  |
 | Zu § 66 Abs. 1 Nr. 13 des Gesetzes |
 |  |  |
