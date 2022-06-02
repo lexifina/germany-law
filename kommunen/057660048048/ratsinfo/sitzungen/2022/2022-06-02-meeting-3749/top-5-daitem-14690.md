@@ -1,0 +1,6 @@
+# TOP 5.: Bericht über die Krötenwanderung im Jahr 2022
+
+- Sitzung: Ausschuss für Umwelt und Klimaschutz (7. Sitzung) (2022-06-02)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/14690
