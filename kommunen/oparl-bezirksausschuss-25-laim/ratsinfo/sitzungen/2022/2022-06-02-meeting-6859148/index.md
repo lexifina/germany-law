@@ -1,0 +1,79 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-06-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6859148
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6859148
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Stockender Glasfaserausbau Laim
+- TOP 2: Anträge
+- TOP 2.1.: UA Mobilität: Grüner Pfeil Radfahrer
+- TOP 2.2.: Kinder- und Jugendbeauftragte: Bezuschussung von Ferienpässen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) + (U) Erhöhung der Schulwegsicherheit an der Grundschule Von-der-Pfordten-Straße Empfehlung Nr. 20-26 / E 00071 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 24.06.2021
+- TOP 3.2.: (E) Stadtbezirksbudget DJK Pasing e.V. Anschaffungen für Minifußball 2.020,50 Euro, Az.: 0262.0-25-0273
+- TOP 3.4.: (E) Stadtbezirksbudget brennt GmbH Hörgang 2022 im Juni oder September 2022 14.999,00 Euro, Az.: 0262.0-25-0271
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Stadtkämmerei vom 04.05.22: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2022 bis 2026 Frist: 03.06.22
+- TOP 4.3.: Schreiben Sozialreferat vom 31.03.22: Ausschreibung "Ran an die Stadtteil-Koffer" für den Einsatz in einem Stadtteil 2023
+- TOP 4.4.: Schreiben Direktorium vom 24.01.22: Berechnung der Zahl der Mitglieder der Bezirksausschüsse ab der Amtsperiode 2026 bis 2032
+- TOP 4.5.: Schreiben Direktorium vom 10.05.22: Benennung bei Stadtquartieren
+- TOP 4.6.: Schreiben Direktorium vom 13.05.22: Migrations-/Integrationsbeauftragte im Bezirksausschuss
+- TOP 4.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.05.22: STEP 2040
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 17.05.22: Anhörung: Burgkmairwiese, Leben und Spielen in Laim am 27.07.22
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Geyerspergerstr. 36, Gemarkung: Laim, Fl.Nr.: 210/17
+- TOP 5.2.: Guido-Schneble-Str. 9a-9b, Gemarkung Laim, Fl.Nr. 138/36 Neubau von neun Stadthäusern und einer Dachwohnung mit Tiefgarage Vollzug der BaumschutzVO
+- TOP 5.3.: Hartelstr. 1, Fl.Nr. 1441/8, Gemarkung: Pasing Neubau eines Mehrfamilienhauses mit Tiefgarage und Garage - TEKTUR
+- TOP 5.4.: Eringerstr. 34, Gemarkung: Pasing, Fl.Nr.: 1585/26 Anbau eines Wintergartens an ein Reiheneckhaus - Vorbescheid
+- TOP 5.5.: Agricolastr. 66, Gemarkung Laim, Fl.Nr. 203/83 Neubau eines Mehrfamilienhauses (8WE) mit Tiefgarage Vollzug der BaumschutzVO
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 05.05.22
+- TOP 7.2.: Protokoll UA Kultur vom 25.04.22
+- TOP 7.3.: Protokoll UA Schule und Gesundheit vom 16.05.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 10.05.22: Ratsinformationssystem (RIS); hier: Statusänderung der Dokumente BV-Empfehlungen und BA-Anträge behandeln, im RIS von öffentlich auf nichtöffentlich für die Jahre 2005-2016
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 22.04.22: SPD-Frühschoppen am Laimer Anger am 11.06.22 Hier: Eilentscheidung
+- TOP 8.3.: Bautenliste 18.04.-24.04.22 A) Erstantragsverfahren 1. Egetterstr. 3
+- TOP 8.4.: Bautenliste 25.04.22-01.05.22: A) Erstantragsverfahren 1. Rappstr. 19
+- TOP 8.5.: Bautenliste 02.05.22-08.05.22: A) Erstantragsverfahren 1. Ronpeckhstr. 7 2. Valpichlerstr. 3. Camerloherstr. 201 4. Senftenauerstr. 124 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agnes-Bernauer-Str. 101
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.05.22: Fällungsgenehmigung Hönlestr. 30
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.05.22: Gefahrenbaumfällung und Ersatzpflanzung Willibaldstr. 171
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.05.22: Fällungsgenehmigung Kirchmairstr. 9
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.05.22: Anfrage Bebauung Guido-Schneble-/Saherrstraße
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 25.04.22: Verkehrsrechtliche Anordnung Hans-Thonauer-Straße
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 28.04.22: Aufhebung Bücherbushaltestelle Camerloherstr. 110
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 06.05.22: Video-Besprechung vom 23.03.22
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 10.05.22: Sofortige planerische Maßnahmen zur Realisierung überdachter Fahrradabstellanlagen "Bike+Ride" am S-Bahnhof Laim ergreifen
+- TOP 8.14.: Schreiben Baureferat vom 02.05.22: Laim Straßenreinigung
+- TOP 8.15.: Schreiben Baureferat und Mobilitätsreferat vom 11.05.22: U-Bahn Baustelle und Schulweg der Grundschüler zur Von-der-Pfordten-Schule
+- TOP 8.16.: Schreiben Mieterbeirat vom 02.05.22: Protokoll und Präsentation der öffentl. Sitzung vom 25.04.22
+- TOP 8.17.: Schreiben Gewofag vom 09.05.22: Nistkästen
+- TOP 8.18.: Schreiben SWM vom 09.05.22: Baumaßnahmen
+- TOP 8.19.: Schreiben Faschingsclub e.V. vom 07.04.22: Verwendungsnachweis und Kurzbericht
+- TOP 8.20.: Schreiben Green City e.V. vom 29.03.22: Verwendungsnachweis und Kurzbericht
+- TOP 8.21.: Schreiben München Laim anders vom 18.03.22: Verwendungsnachweis und Kurzbericht
+- TOP 8.22.: Schreiben Hidalgo gGmbH vom 25.02.22: Verwendungsnachweis und Kurzbericht
+- TOP 8.23.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.05.22: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 8.26.: Beschluss des Bildungsausschusses vom 04.05.22: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.22: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.22: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.29.: Hundetütenspender am Willibaldplatz (Weiterleitung an Baureferat)
+- TOP 9.30.: Parkplatzmangel, Nutzung des Parkraums durch Mitarbeiter und Gäste angesiedelter Hotels sowie Firmen und Ausweichverkehr (Weitergabe an Mobilitätsreferat)
+- TOP 9.31.: 30-Zone Aindorferstr. Ecke Guido-Schneble-Straße, sehr viele Raser (Weiterleitung an Polizeiinspektion 41)
+- TOP 9.32.: Wertstoffinsel München Laim (Weiterleitung an AWM und Remondis)
+- TOP 3.3.: (E) Stadtbezirksbudget Soli-Togo-Allemagne e.V. Spezial Förderung von begabten Sporttalenten vom 01.07. - 31.12.2022 5.337,85 Euro, Az.: 0262.0-25-0267
+- TOP 1.2: Bürgerpost an den BA
