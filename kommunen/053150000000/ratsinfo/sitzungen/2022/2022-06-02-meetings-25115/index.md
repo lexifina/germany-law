@@ -1,0 +1,86 @@
+# 11. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-06-02T15:00:00+02:00
+- Ende: 2022-06-02T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25115
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25115
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer neuen Schriftführerin für den Stadtentwicklungsausschuss - ungeändert beschlossen
+- TOP -: Verpflichtung von sachkundigen Einwohnerinnen und Einwohnern - zurückgestellt
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung der Anfrage der SPD Fraktion AN/0733/2022 betr. "Droht ein neues Wohnungsbau-Desaster? Stadt muss Planungsziele im Mülheimer Süden sichern" - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Anfrage zu der Bedeutung der Zertifizierung der Stadt Köln als Kinderfreundliche Kommune - Kenntnis genommen
+- TOP 1.3: Nachfragen zur Beantwortung der Anfrage AN/0292/2022 der Fraktion DIE LINKE: Transpa-renz bei der Priorisierung von Gebieten - Kenntnis genommen
+- TOP 1.4: Ottoplatz in Köln-Deutz - Kenntnis genommen
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen aus früheren Sitzungen
+- TOP 2.1.1: Nutzung des freien Grundstücks am Ottoplatz - Sache ist erledigt
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Rechtliche Möglichkeiten zur Umsetzung von stadtentwicklungspolitischen Zielen
+- TOP 2.2.2: Städtebauliches Planungskonzept Hochpunkt Siegburger Straße in Köln-Deutz
+- TOP 3: Anträge
+- TOP 3.1: Parkstadt Süd. Pionierpfad - Sache ist erledigt
+- TOP -: Antrag der/des Die Linke – Fraktion AN 2324/2021 vom 13.12.2021 betr. Parkstadt Süd. Pionierpfad - Kenntnis genommen
+- TOP -: Präsentation
+- TOP 3.2: Antrag zu einem Hochhaus-Moratorium - zurückgestellt
+- TOP 3.3: Monitoring Stadtentwicklung öffentlich abrufbar machen - zurückgestellt
+- TOP -: Stellungnahme zu einem Antrag der LINKE (AN/0974/2022) : Monitoring Stadtentwicklung öffentlich abrufbar machen - zurückgestellt
+- TOP 3.4: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion DIE LINKE Umwidmung des Parkplatzes zwischen römischer Stadtmauer, Zeughaus und Regierungspräsidium - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Weiteres Vorgehen zum Projekt Räumliches Entwicklungskonzept Liebigquartier - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für die Erneuerung von Eisenbahn-Überführungen über die Deutz-Mülheimer Straße - Bauwerk D - ungeändert beschlossen
+- TOP 5.2: Planfeststellungsverfahren für die Erneuerung von Eisenbahn-Überführungen über die Deutz-Mülheimer Straße - Bauwerk E - ungeändert beschlossen
+- TOP 5.3: Leitlinien für die Weiterführung des Aufstellungsverfahrens zum vorhabenbezogenen Bebauungsplan mit dem Arbeitstitel: "Neubau Justizzentrum Köln in Köln-Sülz" - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.3 - Leitlinien für die Weiterführung des Aufstellungsverfahrens zum vorhabenbezogenen Bebauungsplan mit dem Arbeitstitel: „Neubau Justizzentrum Köln in Köln-Sülz“ - ungeändert beschlossen
+- TOP 5.4: Live-Stream der Sitzungen des Stadtentwicklungsausschusses - zurückgestellt
+- TOP 5.5: Deutzer Hafen, Begleitgremium - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Fußgängerpassage zwischen Schildergasse und Brüderstraße - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 6.1 - Fußgängerpassage zwischen Schildergasse und Brüderstraße - ungeändert beschlossen
+- TOP 6.2: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - zurückgestellt
+- TOP 6.3: Einrichtung einer Stabsstelle "Kulturraummanagement" im Dezernat Kunst und Kultur - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 6.5: Änderung der Verkehrsführung im Bereich Trankgasse/Komödienstraße - geändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Franz-Geuer-Straße Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteili-gung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsp - ungeändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept mit dem Arbeitstitel "Causemannstraße" in Köln-Merkenich, 3. Änderung, Stellungnahme der Bezirksvertretung Chorweiler zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur Ausa - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Planung und Durchführung der Maßnahme Platzgestaltung Denkmal Keupstraße hier: Bedarfsfeststellungsbeschluss und Umsetzung einer Öffentlickeitsbeteiligung - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Beschluss über die Einleitung eines Teilaufhebungsverfahrens des Bebauungsplanes Nr. 59579/03 mit dem Arbeitstitel: Im Mönchsfeld in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 65450/05, Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord - zurückgestellt
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: 1. Änderung des Bebauungsplanes Nummer 63459/02 mit dem Arbeitstitel „Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung“ Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vor - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über eine zweite Verlängerung der Veränderungssprerre für einen Teilbereich der Ortslage Köln-Altstadt/Nord Arbeitstitel:“Westlich Unter Goldschmied (Laurenz-Carrè)“ in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Erneute Offenlage gemäß § 3 Absatz 2 BauGB in Verbindung mit § 4a Absatz 3 BauGB Bebauungsplan-Entwurf Nummer 61483/02 Arbeitstitel: Seeadlerweg in Köln-Vogelsang - Kenntnis genommen
+- TOP 17.2: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf Nr. 67435/06,Arbeitstitel: "Campus Kartause (Kartäuserwall 24b)" in Köln- Altstadt/Süd - Kenntnis genommen
+- TOP 17.3: Offenlage gemäß § 3 Abs. 2 BauGB zur 228. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2, Köln-Rodenkirchen, Arbeitstitel: "Integrative Quartiersentwicklung am Kalscheurer Weg" in Köln-Zollstock - Kenntnis genommen
+- TOP 17.4: Offenlage nach § 3 Absatz 2 BauGB des Bebauungsplan-Entwurfes Nr. 68439/03, Arbeitstitel: Deutzer Hafen – Teilplan Infrastruktur in Köln-Deutz - Kenntnis genommen
+- TOP 17.5: Offenlage gemäß § 3 Absatz 2 BauGB in Verbindung mit § 4a Absatz 3 BauGB vorhabenbezogener Bebauungsplan-Entwurf Nummer 65412/02;Arbeitstitel: integrative Quartiersentwicklung am Kalscheurer Weg in Köln-Zollstock - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Umsetzung Stadtstrategie „Kölner Perspektiven 2030+": Schlüsselprojekte - Kenntnis genommen
+- TOP 18.2: Aufschub von Lärmsanierungsmaßnahmen der DB AG im rechtsrheinischen Köln - Kenntnis genommen
+- TOP 18.3: Kölner Statistische Nachrichten 5/2022 – Kraftfahrzeuge 2021 - Kenntnis genommen
+- TOP 18.4: Projekt "Lebenswertes Chorweiler – ein Zentrum im Wandel"; hier: Auszeichnung des Projektes mit dem polis award 2022 - Kenntnis genommen
+- TOP 18.5: Ergebnis des Wettbewerbs zum EnergyHub/Energiezentrale und Umspannwerk, Baufeld Ost 04, Deutzer Hafen - Kenntnis genommen
+- TOP 18.6: Oranienstraße in Köln-Höhenberg – Qualifizierungs- und Beteiligungsverfahren - Kenntnis genommen
+- TOP 18.7: Projekt "ARTOTHEK TRIFFT FINKENBERG" - Kenntnis genommen
+- TOP 18.8: Ergebnisse der Bevölkerungsumfrage zur Corona-Krise in Köln 2021 - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
