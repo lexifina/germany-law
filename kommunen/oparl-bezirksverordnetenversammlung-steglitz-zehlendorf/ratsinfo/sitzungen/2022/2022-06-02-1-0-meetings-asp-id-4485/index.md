@@ -1,0 +1,51 @@
+# 4. öffentliche Sitzung des Ausschusses für Mobilität, Verkehr, Ordnung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2022-06-02T17:30:00+02:00
+- Ende: 2022-06-02T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=79
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4485
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4485
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 12.05.2022 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Tempo 30 in der Onkel-Tom-Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Havelchaussee – Durchgangsverkehr schnellstmöglich beenden - vertagt
+- TOP 4.4: Bahnhofsvorplatz Lichterfelde-West: Gesamtkonzept unter Bürger:innenbeteiligung erarbeiten, Kiosk erhalten, Autoverkehr reduzieren - im Ausschuss abgelehnt
+- TOP 4.5: Verkehrssicherheit entlang der Königstraße (B1) in Wannsee erhöhen - vertagt
+- TOP 4.6: Keine Glascontainer direkt an Fahrradwegen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.7: Schallschutz Glas-Iglu Wannsee - vertagt
+- TOP 4.8: Weiterhin ein Durchfahrtsverbot für LKW über 7,5 t im Nieritzweg - vertagt
+- TOP 4.9: Hüttenwegsiedlung - vertagt
+- TOP 4.10: THW Lerbacher Weg - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.11: S-Bahnhof Zehlendorf - nur Ausgang Postplatz/Machnower Straße bauen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.12: Mit Verkehrsinsel die Schulwegsicherheit in der Crailsheimer Straße erhöhen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.13: Clayallee/Finkenstraße – Glascontainer versetzen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.14: Pilotprojekt: Grünstreifen und Baumscheiben im Schweizer Viertel schützen und aufwerten - vertagt
+- TOP 4.15: Einsparpotentiale erkennen – Hin zu einem CO2-neutralen Bezirksamt - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.16: Sondernutzungsgebühren auch für verwahrlostes öffentliches Straßenland - vertagt
+- TOP 4.17: Lesbarkeit von Straßennamen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.18: Sanierung des Bahnhofsgebäudes Lichterfelde-Ost - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.19: Verkehrsabfluss in Lichterfelde-Süd: S-Bahn-Züge der S25 und S26 verlängern - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.20: Wismarer Straße: Fußgänger*innen- statt Warteampel - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.21: Fahrradabstellanlagen - vertagt
+- TOP 4.22: Förderprogramm "Klimaschutz durch Radverkehr" für Steglitz-Zehlendorf sofort nutzen – Einreichungsfrist für finanzschwache Kommunen beachten - mit Änderungen im Ausschuss beschlossen
+- TOP 4.23: Pilotprojekt E-Bus 284 - vertagt
+- TOP 4.24: Kostenlose Sperrmülltage auch in 2022 und 2023 anbieten - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.25: Synchrongrün am Asternplatz - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.26: Verkehrssicherheit wieder herstellen - vertagt
+- TOP 4.27: Alternativer Fahrradweg Unter den Eichen – fließender Verkehr für Alle - vertagt
+- TOP 4.28: Geschichte greifbar machen - sichtbare Auseinandersetzung mit kritischen Straßennamen - vertagt
+- TOP 4.29: Nutzung von digitalen Lösungen im Rahmen der Parkraumüberwachung - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.30: E-Roller, die andere Verkehrsteilnehmende gefährden, entfernen und die verantwortlichen NutzerInnen mit Bußgeld belegen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.31: Veranstaltungsorte vor Veranstaltungen reinigen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.32: Verkehrssicherheit Hohentwielsteig/Hegauer Weg - vertagt
+- TOP 5: Verschiedenes - erledigt
