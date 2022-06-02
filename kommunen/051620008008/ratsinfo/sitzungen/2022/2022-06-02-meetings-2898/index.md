@@ -1,0 +1,69 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-06-02T18:35:00+02:00
+- Ende: 2022-06-02T20:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2898
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2898
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Beschaffung einer weiteren semistationären Anlage zur Geschwindigkeitsüberwachung - einstimmig beschlossen
+- TOP 6: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 6.1: 22. FNP Änd. Einstellung - einstimmig beschlossen
+- TOP 6.2: Verlängerung Veränderungssperre G 224 - mehrheitlich beschlossen
+- TOP 6.3: H 4, 2. Änd. - Städtebaulicher Vertrag - einstimmig beschlossen
+- TOP 6.4: H 4 2. Änd. Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.5: W 53 Einstellung - einstimmig beschlossen
+- TOP 6.6: G 220 – Änderung des Städtebaulichen Vertrags - einstimmig beschlossen
+- TOP 6.7: Stellungnahme zur Neuaufstellung des Regionalplans Köln - einstimmig beschlossen
+- TOP 6.8: K 37 Aufstellung 13a - mehrheitlich beschlossen
+- TOP 7: Entscheidung über einen Beratungspunkt aus der Sitzung des Ausschusses für Strukturwandel, Arbeit, Digitalisierung und Innovation
+- TOP 7.1: Beitritt zum Zweckverband Landfolge Garzweiler am 1.1.2023 - einstimmig beschlossen
+- TOP 8: Entscheidung Beratungspunkte aus der Sitzung des Hauptausschusses
+- TOP 8.1: Befristete Aussetzung der Hundesteuer für Hunde aus dem Tierheim Oekoven (Antrag Nr. 004/2022), 3. Änderung der Hundesteuersatzung der Stadt Grevenbroich v. 14.12.2010 - einstimmig beschlossen
+- TOP 8.2: Änderung des Stellenplans 2022 - einstimmig beschlossen
+- TOP 9: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 9.1: "Schutz der Zivilbevölkerung" (Anfrage Nr.: 11/2022) - Kenntnisnahme
+- TOP 9.2: Strom- und Gassperren (Anfrage Nr.: 12/2022) - Kenntnisnahme
+- TOP 9.3: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen "Bereitstellung von kostenfreien Hygieneartikeln an Schulen" (Anfrage Nr. 25/2022) - Kenntnisnahme
+- TOP 9.4: Inklusionsassistenz (Anfrage Nr.: 26/2022) - Kenntnisnahme
+- TOP 9.5: Straßenausbaubeiträge (Anfrage Nr.: 27/2022) - Kenntnisnahme
+- TOP 10: Schriftliche Anträge
+- TOP 10.1: Anträge der SPD-Fraktion
+- TOP 10.1.1: "Fest der Kulturen" (Antrag Nr.: 43/2022)
+- TOP 10.2: Anträge der CDU-Fraktion
+- TOP 10.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 10.3.1: Umbesetzungen (Antrag Nr.: 40/2022)
+- TOP 10.4: Anträge der FDP-Fraktion
+- TOP 10.4.1: Grundsteuer darf nicht zur Steuererhöhungsspirale werden (Antrag Nr.:38/2022)
+- TOP 10.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 10.5.1: Ausschussumbesetzung (Antrag Nr.: 46/2022) - einstimmig beschlossen
+- TOP 10.5.2: Konzept Tiny-House-Park (Antrag Nr. 47/2022)
+- TOP 10.6: Anträge der UWG-Fraktion
+- TOP 10.6.1: Änderung der Berechnung von Abwassergebühren (Antrag Nr.: 41/2022)
+- TOP 10.6.2: Prüfung der Gebührenbedarfsberechnungen auf Vereinbarkeit mit dem Urteil des OVG Münster Az: 9A1019/20 vom 17. Mai 2022 (Antrag Nr.: 42/2022)
+- TOP 11: Gemeinschaftsanträge
+- TOP 11.1: Konzept "Kommunales Energiemanagement - intelligent, effizient, nachhaltig" (Antrag Nr.: 44/2022)
+- TOP 11.2: Das Grevenbroich von morgen - sozial, innovativ, nachhaltig für alle! Kriterien für die nachhaltige Stadtentwicklung von Grevenbroich (Antrag Nr. 48/2022)
+- TOP 12: Schriftliche Anfragen
+- TOP 12.1: Anfragen der SPD-Fraktion
+- TOP 12.1.1: Anfrage: "Welche Folgen hat §2b UStG für den Konzern "Stadt"?" (Anfragen Nr.: 45/2022)
+- TOP 12.2: Anfragen der CDU-Fraktion
+- TOP 12.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 12.4: Anfragen der FDP-Fraktion
+- TOP 12.4.1: Anfrage: Wahlhelferinnen und Wahlhelfer zur Landtagswahl am 15. Mai 2022 in der Stadt Grevenbroich (Anfrage Nr.: 39/2022)
+- TOP 12.4.2: Konsequenzen aus dem Urteil des Oberverwaltungsgerichtes Münster zu Abwassergebühren (Anfrage Nr. 50/2022)
+- TOP 12.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 12.6: Anfragen der UWG-Fraktion
+- TOP 13: Mitteilungen des Bürgermeisters
+- TOP 13.1: Sportanlage Neurath
+- TOP 13.2: Sperrung Düsseldorfer Straße
