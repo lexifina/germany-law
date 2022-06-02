@@ -1,0 +1,86 @@
+# 13. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-06-02T16:00:00+02:00
+- Ende: 2022-06-02T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25502
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25502
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Vorstellung des Geruchsgutachtens Weidengasse
+- TOP 1.2: Aktuelle Stunde: Deutzer Kirmes, auf Antrag CDU
+- TOP 1.3: Einwohnerfrage: Umsetzungsstand Fahrradstraße Lindenstraße bis Neumarkt - zurückgestellt
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 65450/05, Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord - ungeändert beschlossen
+- TOP 3.2: Beschluss über die Anbringung einer Gedenktafel zur Erinnerung an den rechtsterroristischen Anschlag in der Probsteigasse - geändert beschlossen
+- TOP 3.3: Umbau der Kasemattenstraße in Köln-Deutz zur Klimaanpassung („Klimarobuste Kasemattenstraße“) - ungeändert beschlossen
+- TOP 3.4: Baubeschluss für die Fahrbahninstandsetzung (Erneuerung Asphaltdeckschicht) in der Blumenthalstraße (Abschnitt Merlostraße bis Hülchrather Straße) sowie in der Hülchrather Straße (Abschnitt zwischen Blumenthalstraße und Weißenburgstraße) - ungeändert beschlossen
+- TOP 3.5: Fahrplanwechsel 2022 - Taktverdichtung Buslinie 250 - ungeändert beschlossen
+- TOP 3.6: Parkgebührenregelung an E-Ladesäulen - geändert beschlossen
+- TOP 3.7: Neubenennung im Bereich der Ulrepforte - ungeändert beschlossen
+- TOP 3.8: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - ungeändert beschlossen
+- TOP 3.9: 282. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.10: Änderung der Verkehrsführung im Bereich Trankgasse/Komödienstraße - ungeändert beschlossen
+- TOP 3.11: Ordnungsbehördliche Verordnung für das Jahr 2022 über das Offenhalten von Verkaufsstellen an Sonntagen - geändert beschlossen
+- TOP 3.12: Einrichtung eines stadtweiten Lastenradverleihsystems (KVB-Rad) - geändert beschlossen
+- TOP 3.13: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 3.14: Benennung eines Platzes nach Dirk Bach - Alternative beschlossen
+- TOP 3.15: Umgestaltung Spielplatz Volksgartenstraße -Volksgarten in Neustadt-Süd - ungeändert beschlossen
+- TOP 3.16: Grundsanierung des Gebäudes Martinstraße 30 - Planungs- und Baubeschluss - NEUFASSUNG - - ungeändert beschlossen
+- TOP 3.17: Deutzer Hafen, Begleitgremium - ungeändert beschlossen
+- TOP 3.18: Satzung über eine zweite Verlängerung der Veränderungssprerre für einen Teilbereich der Ortslage Köln-Altstadt/Nord Arbeitstitel:“Westlich Unter Goldschmied (Laurenz-Carrè)“ in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.:Anliegerstraßen und Tempo-30-Zonen, Neustadt Nord- Villenviertel (Az.: 02-1600-12-22) - geändert beschlossen
+- TOP 4.2: Bürgereingabe nach § 24 GO – „Ausverkauf des Deutzer Hafens stoppen“ - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: „Waidmarkt“ Aktenzeichen 33/22 B - Temporäre Platzgestaltung Waidmarkt Nord (nördlich Baustelle Gleiswechselbauwerk) - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Neuordnung der Verkehre im Bereich Deutz-Mülheimer Str./Justinianstr./Opladener Str. - geändert beschlossen
+- TOP 5.1.1.1: Änderungsantrag zum Antrag AN/1129/2021 - Neuordnung Verkehre in Deutz, gem. Antrag Grüne, CDU und Die Linke - ungeändert beschlossen
+- TOP 5.1.2: Erstellung von Fahrradabstellflächen/Haarnadeln im Bereich der Minoritenstraße, Antrag SPD - geändert beschlossen
+- TOP 5.1.3: Einrichtung eines Radfahrstreifens auf dem Gotenring zwischen Siegburger Straße und (H)-Suevenstraße/Langobardenstraße, gem Antrag Grüne, Die Linke, KlimaFreunde, Die Partei - geändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Öffnung der Einbahnstraße für den Radverkehr in der Tempelstraße, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Mehr umsteigefreie Busverbindungen zum Hauptbahnhof, Antrag FDP - zurückgestellt
+- TOP 5.2.3: Systematische Öffentlichkeitsbeteiligung für Verkehrsberuhigung Neusser Straße / Neusser Platz, Gem. Antrag Grüne, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.4: Möglichkeit zur unkommerziellen Nutzung von Parklücken als „Parklets“, Gem. Antrag Grüne und KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.5: Antrag auf Anbringung eines Fahrrad Piktogramms, gem. Antrag FDP und CDU - geändert beschlossen
+- TOP 5.2.6: Interimsnutzung vom Gotland-Gebäude durch Gotland e.V., gem. Antrag Grüne, SPD, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.7: Einrichtung von sog. ‚Schulstraßen‘ durch Anweisung von temporären Durchfahrtsverboten für Kraftfahrzeuge im Schulumfeld, gem. Antrag Grüne, Die Linke und KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.8: Moratorium für die ästhetische Gestaltung der Außengastronomie im Stadtbezirk Innenstadt, Dringlichkeitsantrag Grüne - ungeändert beschlossen
+- TOP 5.2.9: Dringlichkeitsantrag, Venloer Wall, Die Linke - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Zustände der KVB-Haltestellen in der Innenstadt - zurückgestellt
+- TOP 6.1.2: Parksituation in Deutz, Anfrage CDU - zurückgestellt
+- TOP 6.1.3: Gestaltung des Historischen Parks Deutz, Anfrage CDU - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Neugestaltung Maternuskirchplatz - Sachstandsanfrage, Anfrage Grüne - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 7.1: Konsultationskreis zum Gestaltungshandbuch, Anfrage Grüne
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 8.1: Aktion von Pro Retina am Tag der Verkehrssicherheit (18.06.2022)
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Berichtswesen Beschlüsse der Gremien (beschluss- und projektbezogene Berichterstattung) - Kenntnis genommen
+- TOP 9.2: Gestaltung der Grundschulsituation in der Planungsregion Nippes/Mauenheim/Riehl/Niehl mit Weidenpesch im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 9.3: Benennung der Grünfläche rund um St. Pantaleon nach Dr. Max Dietlein - Kenntnis genommen
+- TOP 9.4: Baubeschluss für den barrierefreien Umbau der Bushaltestelle Ubierring auf der KVB-Linie 133 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 9.5: Sachstandsmitteilung zu den von der Bezirksvertretung Innenstadt priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 9.6: Klassifizierungsänderung Venloer Straße - Kenntnis genommen
+- TOP 9.7: Erste Stufe zur "Umsetzung durchgehender Achsen für den Radverkehr" (AN/2374/2021) - Kenntnis genommen
+- TOP 9.8: Sportentwicklungsplanung: Kinder- und Jugendsportförderung - Kenntnis genommen
+- TOP 9.9: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf Nr. 67435/06,Arbeitstitel: "Campus Kartause (Kartäuserwall 24b)" in Köln- Altstadt/Süd - Kenntnis genommen
+- TOP 9.10: Sachstandsberichte - Kenntnis genommen
+- TOP 9.11: Offenlage nach § 3 Absatz 2 BauGB des Bebauungsplan-Entwurfes Nr. 68439/03, Arbeitstitel: Deutzer Hafen – Teilplan Infrastruktur in Köln-Deutz - Kenntnis genommen
+- TOP 9.12: Ergebnis des Wettbewerbs zum EnergyHub/Energiezentrale und Umspannwerk, Baufeld Ost 04, Deutzer Hafen - Kenntnis genommen
+- TOP 9.13: Interimsstandort Venloer Wall - zu AN/1051/2022 - Kenntnis genommen
+- TOP 9.14: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote 2022 - Kenntnis genommen
+- TOP 9.15: Bessere personelle Ausstattung von Schulen und Sporthallen, AN/0793/2022 - Kenntnis genommen
+- TOP 9.16: Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2021 im Stadtbezirk Innenstadt - Kenntnis genommen
