@@ -1,0 +1,6 @@
+# TOP 8: Entscheidung Beratungspunkte aus der Sitzung des Hauptausschusses
+
+- Sitzung: Rat der Stadt Grevenbroich (2022-06-02)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/137218
