@@ -2,7 +2,7 @@
 
 Der Umfang der Seelotseignungsuntersuchung ergibt sich aus der nachfolgenden Tabelle:
 | I. Grundsätzlicher Untersuchungsumfang (wie bei Besatzungsmitgliedern des Decksdienstes) |
-| Ärztliche Leistung | Inhalt | GOÄ-Ziffer | Steigerungs faktor |
+| Ärztliche Leistung | Inhalt | GOÄ-Ziffer | Steigerungs- faktor |
 | Anamneseerhebung | Ausführliche Anamneseerhebung einschließlich Fragebogen | 1 | 3,5 |
 | Ganzkörperuntersuchung | Körperliche Untersuchung einschließlich RR-, Herzfrequenz-, Körpergröße- und Körpergewichtsmessung, Bestimmung des Body-Mass-Index | 8 | 2,3 |
 | Sehtest | Überprüfung der Sehschärfe durch Bestimmung des Visus nach Snellen oder einem äquivalenten Verfahren; Überprüfung des Nahsehens durch Tafeln nach Nieden oder einem äquivalenten Verfahren | 1200 | 2,3 |
