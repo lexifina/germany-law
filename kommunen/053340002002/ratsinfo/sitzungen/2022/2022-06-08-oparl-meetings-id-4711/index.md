@@ -1,0 +1,54 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2022-06-08T17:00:00+02:00
+- Ende: 2022-06-08T18:11:00+02:00
+- Ort: Geschwister-Scholl-Gymnasium
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4711
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4711
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 16.02.2022 (öffentlicher Teil) - zurückgezogen
+- TOP 4: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen für das Jahr 2022 - ungeändert beschlossen
+- TOP 5: Altstadtquartier Büchel – Abschluss der vorbereitenden Untersuchungen und Beschluss der 1. Änderungssatzung für das Teilgebiet "Altstadtquartier Büchel" im förmlich festgelegten Sanierungsgebiet "Innenstadt" der Stadt Aachen - ungeändert beschlossen
+- TOP 6: Vorhabenbezogener Bebauungsplan Nr. 1006 - Burtscheider Straße / Kasinostraße - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Bahntrasse und Burtscheider Straßehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 7: Bebauungsplan Nr. 975 - Höfchensweg / Ronheider Winkel - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Höfchensweg, Grundschule Höfchensweg und Ronheider Winkelhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Stellenplan 2022:
+- TOP 8.1: Stelleneinrichtungen im Bereich der städtischen Kindertageseinrichtungen (FB 45) - ungeändert beschlossen
+- TOP 8.2: Stelleneinrichtungen im Bereich der Offenen Ganztagsschulen im Primarbereich in städtischer Trägerschaft (FB 45) - ungeändert beschlossen
+- TOP 9: Änderung der Schulart der Städtischen Katholischen Grundschule Düppelstraße in eine Gemeinschaftsgrundschule zum Schuljahr 2022/2023 - zur Kenntnis genommen
+- TOP 10: Änderung der Schulart der Städtischen Katholischen Grundschule Michaelsbergstraße in eine Gemeinschaftsgrundschule zum Schuljahr 2022/2023 - ungeändert beschlossen
+- TOP 11: Aufhebung eines Wirtschaftsweges im Bereich Aachen-Kornelimünster, Breiniger Straße - ungeändert beschlossen
+- TOP 12: Bericht über die Jahresabschlussprüfung 2020 - ungeändert beschlossen
+- TOP 13: Beitritt des Kreises Euskirchen zum Zweckverband Entsorgungsregion West (ZEW) - geändert beschlossen
+- TOP 14: Anfragen:
+- TOP 14.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 14.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 15: Ratsanträge - zur Kenntnis genommen
+- TOP 16: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 16.1: Umbesetzungsantrag des Integrationsrats für den Kinder-und Jugendausschuss - ungeändert beschlossen
+- TOP 16.2: Besetzung des Ausschusses für Schule und Weiterbildung – Wahl sachkundiger Einwohner*innen - ungeändert beschlossen
+- TOP 16.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 01.06.2022 - ungeändert beschlossen
+- TOP 17: Mitteilungen der Verwaltung
+- TOP 18: Preissteigerung von Baumaterialien: Einführung einer befristeten Preisgleitklausel - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
