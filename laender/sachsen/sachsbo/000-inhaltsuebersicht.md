@@ -89,6 +89,7 @@ Abschnitt 3 Genehmigungsverfahren
 § 70 Beteiligung der Nachbarn und der Öffentlichkeit
 § 71 Ersetzung des gemeindlichen Einvernehmens
 § 72 Baugenehmigung, Baubeginn
+§ 72a Typengenehmigung
 § 73 Geltungsdauer der Genehmigung
 § 74 Teilbaugenehmigung
 § 75 Vorbescheid
@@ -104,7 +105,7 @@ Abschnitt 5 Bauüberwachung
 Abschnitt 6 Baulasten
 § 83 Baulasten, Baulastenverzeichnis
 Teil 6 Ausführungsbestimmungen zum Baugesetzbuch
-§ 84 Nachnutzung land- und forstwirtschaftlicher Gebäude
+§ 84 Abweichungen von § 35 des Baugesetzbuches
 § 85 Zuständigkeitsregelungen für Aufgaben nach dem Baugesetzbuch
 § 86 Bildung eines Oberen Gutachterausschusses, Aufsicht über die Gutachterausschüsse und den Oberen Gutachterausschuss
 Teil 7 Ordnungswidrigkeiten, Rechtsvorschriften, Übergangsvorschriften
