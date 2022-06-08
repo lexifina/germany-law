@@ -1,0 +1,53 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2022-06-08T17:00:00+02:00
+- Ende: 2022-06-08T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6080
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6080
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00207170.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 10. Sitzung des Hauptausschusses vom 30.03.2022 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Smart City Strategie und Leitlinien Datensouveränität - Einstimmiger Beschluss
+- TOP 3: Feststellung des Jahresabschlusses 31.12.2019 - Einstimmiger Beschluss
+- TOP 4: Verwendung Jahresergebnis 2019 - Einstimmiger Beschluss
+- TOP 5: Feststellung des Jahresabschlusses 31.12.2020 - Einstimmiger Beschluss
+- TOP 6: Verwendung des Jahresergebnisses 2020 - Einstimmiger Beschluss
+- TOP 7: Verleihung Heimat-Preis 2022 der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 8: Übersicht zum Umsetzungsstand der im Rat beschlossenen Fraktionsanträge - Kenntnisnahme
+- TOP 9: Überörtliche Prüfung gpa NRW - Gesamtbericht - der Stadt Mönchengladbach im Jahr 2019 mit nachträglicher Stellungnahme der Stadtverwaltung Mönchengladbach zum Handlungsfeld Verkehrsflächen - Einstimmiger Beschluss
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2021 (7.Nachweisung) - Kenntnisnahme
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2022 (1.Nachweisung) - Kenntnisnahme
+- TOP 12: Bereitstellung überplanmäßiger Haushaltsmittel 2022 im Bereich "Grundsicherung im Alter und bei Erwerbsminderung" (4. Kapitel SGB XII) - Einstimmiger Beschluss
+- TOP 13: HSP-Umsetzungsbericht 15.04.2022 - Kenntnisnahme
+- TOP 14: Anpassung der Satzung der Kreisbau AG - Einstimmiger Beschluss
+- TOP 15: Ausschüttungsverzicht für den Betrieb gewerblicher Art (BgA) Verpachtung von Wohungen - Einstimmiger Beschluss
+- TOP 16: Änderung des Gesellschaftsvertrages der GWG Kommunal GmbH (künftig NEW aktiv Grevenbroich GmbH) - Einstimmiger Beschluss
+- TOP 17: Abschluss einer öffentlich-rechtlichen Vereinbarung über die Durchführung der Beihilfebearbeitung zwischen der Landeshauptstadt Düsseldorf und der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 18: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach am 19. Juni 2022 im Zusammenhang mit der Veranstaltung "Kappesfest und Jahrhundertfeier" - Mit Stimmenmehrheit beschlossen
+- TOP 19: Erste Verordnung zur Änderung der Verordnung über die Beförderungsbedingungen und Beförderungsentgelte für den Gelegenheitsverkehr mit Taxen der Stadt Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 20: Leistungsvereinbarung mit der Drogenberatung Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 21: Leistungsvereinbarung Brennpunktprojekt - Einstimmiger Beschluss
+- TOP 22: Leistungsvereinbarung mit den Trägern der freien Wohlfahrtspflege über die soziale Betreuung von Geflüchteten - Einstimmiger Beschluss
+- TOP 23: Leistungsvereinbarung mit dem Flüchtlingsrat Mönchengladbach e. V. über ein Beratungsangebot im Rahmen der Krankenhilfe für ausländische Geflüchtete durch medizinische Assistenz - Einstimmiger Beschluss
+- TOP 24: Sozialbericht 2022 - Kenntnisnahme
+- TOP 25: Öffentliche Auslegung der 3. Änderung des Landschaftsplanes der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 26: 3. Runde des Lärmaktionsplans der Stadt Mönchengladbach - An den Rat verwiesen
+- TOP 27: Gesamtregionales Radverkehrskonzept für das Rheinische Revier - Einstimmiger Beschluss
+- TOP 28: Benennung der Erschließungsfläche vor dem SMS-Campus - Mit Stimmenmehrheit beschlossen
+- TOP 29: Einziehung der Straße Fleenerweg, Stichstraße zu den Häusern Fleenerweg Nr. 14 bis Nr. 36 - Einstimmiger Beschluss
+- TOP 30: Satzungen zur Aufhebung der Satzungen über die förmliche Festlegung der Sanierungsgebiete Nordpark, Schloss Wickrath und Oberstadt - Einstimmiger Beschluss
+- TOP 31: Straßenbenennungen in der Seestadt mg+ - An den Rat verwiesen
+- TOP 31.1: Straßenbenennungen in der Seestadt mg+; hier: Antrag der Ratsfraktion DIE LINKE und der Ratsgruppe Die FRAKTION - An den Rat verwiesen
+- TOP 32: Situation an der Wohnanlage Zur Burgmühle 33 in 41199 Mönchengladbach - An den Rat verwiesen
+- TOP 33: Einrichtung von Waffenverbotszonen - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Anpassung der Hundesteuersatzung; Steuerbefreiung für Assistenzhunde - Einstimmiger Beschluss
+- TOP 35: Fraktionsantrag zum Bericht zur Einrichtung eines Seniorenrates in Mönchengladbach (Vorlage-Nr. 1502/X) - Mit Stimmenmehrheit beschlossen
+- TOP 36: Anfragen und Mitteilungen
+- TOP 36.1: Anfrage RH Dr. Schlegelmilch (CDU): Bearbeitungszeiten während Corona
