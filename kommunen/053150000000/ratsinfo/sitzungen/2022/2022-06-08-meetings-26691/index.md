@@ -1,0 +1,78 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-06-08T16:00:00+02:00
+- Ende: 2022-06-08T18:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26691
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26691
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: „Bürgereingabe gem. § 24 GO, betr.: Bewohnerparkzone Stüttgerhofweg/ Wiener Weg (Az.:02-1600-200-21) - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung der Ikea-Stiftung an FS Redwitzstr. 80, 50937 Köln - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage Erhaltungssatzung Müngersdorf - zurückgestellt
+- TOP 7.2.2: Anfrage Masterplan Grüngürtel - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Toiletten Beethovenpark - ungeändert beschlossen
+- TOP 8.1.2: Gedenkort Friedrich-Schmidt Straße - ungeändert beschlossen
+- TOP 8.1.3: Prüfung Naturschutzgebiet Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.4: Verkehrsplanung S-Bahn Haltestelle Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.5: Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 8.1.6: Wüllner-/Biggestraße in Lindenthal: Optimierung Verkehrssicherheit - ungeändert beschlossen
+- TOP 8.1.7: Halteverbotszone Vitalisstraße - zurückgestellt
+- TOP 8.1.8: Moltkestraße in Lövenich und Weiden - ungeändert beschlossen
+- TOP 8.1.9: Auerbachplatz-Autofreie Rheinbacher Straße - ungeändert beschlossen
+- TOP 8.1.10: Gregor-Mendel-Ring/Belvedere Straße - geändert beschlossen
+- TOP 8.1.11: Überbauung des Flachbaues Alte Mensa/Studiobühne mit Studierendenwohnungen - geändert beschlossen
+- TOP 8.1.12: Verbesserung der Verkehrssicherheit vor den Grundschulen in der Freiligrathstraße - ungeändert beschlossen
+- TOP 8.1.13: Ausweisung und Einrichtung einer Bedarfshaltestelle für Reisebusse - endgültig zurückgezogen
+- TOP 8.1.13.1: Ersetzungsantrag zu 8.1.13 - ungeändert beschlossen
+- TOP 8.1.14: Verbesserungsmaßnahmen Hermeskeiler Platz - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.2: Radverkehrskonzept Lindenthal - geändert beschlossen
+- TOP 9.1.2.1: Ergänzungsantrag zu 9.1.2 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - geändert beschlossen
+- TOP 9.2.1.1: Ergänzungsantrag zu 9.2.1 - ungeändert beschlossen
+- TOP 9.2.2: Verkehrliche Maßnahmen zur Schulwegerschließung am Schulstandort Wasseramselweg in Köln-Vogelsang - geändert beschlossen
+- TOP 9.2.2.1: Ersetzungsantrag zu 9.2.2 - ungeändert beschlossen
+- TOP 9.2.3: Leitlinien für die Weiterführung des Aufstellungsverfahrens zum vorhabenbezogenen Bebauungsplan mit dem Arbeitstitel: "Neubau Justizzentrum Köln in Köln-Sülz" - geändert beschlossen
+- TOP 9.2.4: Sanierung der alten Trauerhalle auf dem Friedhof Melaten und Umnutzung als Kolumbarium - Bedarfsfeststellungs- und Baubeschluss - ungeändert beschlossen
+- TOP 9.2.5: Abriss von vier Sozialhäusern und Neubau von zwei Gebäuden zur öffentlich rechtlichen Unterbringung obdachloser oder von Obdachlosigkeit bedrohter Personen in konventioneller Bauweise sowie Abriss einer Kindertagesstätte und Neubau einer Kindertagess - geändert beschlossen
+- TOP 9.2.5.1: Änderungsantrag zu 9.2.5 - ungeändert beschlossen
+- TOP 9.2.6: Parkgebührenregelung an E-Ladesäulen - ungeändert beschlossen
+- TOP 9.2.7: Einrichtung des angemieteten Gebäudes und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Gymnasium Aachener Straße 744 – 750 in Müngersdorf im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltjahr 2022. - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Jahresbericht 2021 - Obstwiesen - Kenntnis genommen
+- TOP 11.1.2: Niederschrift und Präsentationsfolien zum 5. Runden Tisch Radverkehr Lindenthal 05.04.2022 - Kenntnis genommen
+- TOP 11.1.3: Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2021 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Klosterkirche "Zum Guten Hirten" - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Berichtswesen Beschlüsse der Gremien (beschluss- und projektbezogene Berichterstattung) - Kenntnis genommen
+- TOP 11.3.2: Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i. V. m. § 12 der Haushaltssatzung 2022, - Kenntnis genommen
+- TOP 11.3.3: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote 2022 - Kenntnis genommen
+- TOP 11.3.4: Sachstand Erweiterung Anwohnerschutzkonzept - Kenntnis genommen
+- TOP 11.3.5: Verkehrliche Erschließung des vorhabenbezogenen Bebauungsplans „Wohnbebauung Alsdorfer Straße“ Nr. 6345703 in Köln-Braunsfeld/Ehrenfeld - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
