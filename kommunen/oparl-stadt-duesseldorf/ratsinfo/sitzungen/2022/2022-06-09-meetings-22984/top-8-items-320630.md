@@ -1,0 +1,8 @@
+# TOP 8: Förderung des Projekts „Lobby-Aktion Nikotinkinder – Kinderarbeit auf Tabakfeldern“ (Haushaltsantrag RAT/088/2021) hier: Verwendung der Finanzmittel
+
+- Sitzung: Ausschuss für Gesundheit und Soziales Jugendhilfeausschuss (2022-06-09)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/320630
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/117629
