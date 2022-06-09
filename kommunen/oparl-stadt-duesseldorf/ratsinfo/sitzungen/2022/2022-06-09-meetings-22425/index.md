@@ -1,0 +1,53 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-09T18:00:00+02:00
+- Ende: 2022-06-09T19:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22425
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22425
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö BV8 vom 09.06.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00451608.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö BV8 vom 09.06.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00451608.pdf
+- Wortprotokoll: Sitzungspaket Ö BV8 vom 09.06.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00451608.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 gemäß § 22 Geschäftsordnung des Rates für bis zum 25.05.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 12.05.2022
+- TOP 4: Bezirkssportanlage Wilhelm-Heinrich-Weg 2 - Umbau Tennenspielfeld in eine Multifunktionale Sportfläche - Empfehlung einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 7: Zuschuss der Bezirksvertretung 8 im Jahre 2022 - einstimmig beschlossen
+- TOP 8: Einführung eines On Demand-Angebots im ÖPNV im Düsseldorfer Osten - Empfehlung abweichend beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Kanaldimensionierung im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 11: Abruf der Pegelstände der nördlichen, südlichen und ungeteilten Düssel (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 12: Warnungen bei Hochwasser-/Starkregengefahren im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 13: Toilettenanlagen Bürgerpark Am Stufstock und Nachbarschaftspark Eller-Lierenfeld (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Dillenburger Weg zwischen Sturmstraße und Braunfelsweg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Bienenweideflächen in Vennhausen (Anfrage SPD-Fraktion) - beantwortet
+- TOP 16: Grundstück Reisholzer Straße/Am Hackenbruch (Anfrage SPD-Fraktion) - beantwortet
+- TOP 17: Bauzaun Gebäude Reisholzer Straße 36 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 18: Nutzung Gebäude Reisholzer Straße 36 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 19: Leerstand "Hammer Markt" Königsberger Straße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 20: Sturmstraße zwischen Sodener Weg und Dillenburger Weg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 21: Sturmstraße zwischen Sodener Weg und Wetzlaer Weg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 22: Mobile Geschwindigkeitsanzeige der Kinderspielstraße auf dem Erfurter Weg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 23: Bio-Hochbeete an städtischen Einrichtungen im Stadtbezirk 8 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 24: Aufstellen von nachhaltigen Hundekotbeuteln im Stadtbezirk 8 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 25: Marburger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Verlängerung Programm Zentrenmanagement (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Zugang Schlosspark Heidelberger Straße/In der Elb (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 28: Prozessstruktur Beteiligung Nahverkehrsplanung - zur Kenntnis genommen
+- TOP 29: Ortsumgehung Flingern, 2. BA, 1.TBA (Ronsdorfer Straße/Höherweg) - zur Kenntnis genommen
+- TOP 30: Beleuchtung von Bahnunterführungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 31: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für die Haushaltsjahre 2023 und 2024 - zur Kenntnis genommen
+- TOP 32: Zentrenmanagement Gumbertstraße - zur Kenntnis genommen
+- TOP 33: Platz der Kinderrechte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Rathaus Eller - Vorgarten - zur Kenntnis genommen
+- TOP 35: Gebäude Rathelbeckstraße 272 - zur Kenntnis genommen
+- TOP 36: Gebäude Vennhauser Allee 226 - zur Kenntnis genommen
