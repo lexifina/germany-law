@@ -1,0 +1,89 @@
+# 8. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-06-09T16:30:00+02:00
+- Ende: 2022-06-09T20:08:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6307
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6307
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=380325
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Wahl von Patientenfürsprecherinnen und eines Patientenfürsprechers - gewählt
+- TOP 6.2: Nachwahl eines Kiezpaten - gewählt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-06 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - mit Änderungen in der BVV beschlossen
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Querungshilfe Fürstenwalder Allee 72-82 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Querungshilfe Dammweg Nähe Bergaustraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Sondermittel für den Verein "Köpenicker Hockey-Union e. V." (SM 21-11) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Sondermittel für den Verein "Tennisclub Grün-Weiß Rahnsdorf e. V." (SM 21-12) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Altglienicke Museum sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Beteiligung der Anwohnenden bei Nachverdichtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: WLAN in Sporthallen - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: • Entwurf des Bebauungsplans XV-11 nebst Begründung • Entwurf der Rechtsverordnung zum Bebauungsplan XV-11 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Sondermittel für die Jugendfeuerwehr Berlin-Oberschöneweide (SM 22-07) - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Sondermittel für den Verein "Ruderclub NARVA Oberspree e. V." (SM 22-08) - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Sondermittel für die "Kulturelle Arbeitsgemeinschaft Oberschöneweide (KAOS) e. V." (SM 22-09) - vertagt
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Kreuzung Schulzendorfer Straße / Dahmestraße sicherer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Verkehrssicherheit im Rodelbergweg / Neue Krugallee im Ortsteil Baumschulenweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Ausbau Fahrradweg Lindenstraße / Godbersenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Ausflugsparken im Treptower Park wieder ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Zugang zu einer Uferstelle am Dahmeufer erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Gemeinschaft nach Covid 19 stärken, Grillen ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Hundegärten für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Denkmal vor der Christophoruskirche schützen und in geschichtlichen Kontext setzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Sanierung des Straßenbereiches Lahmertstraße / Walchenseestraße in Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Mehr Sicherheit für Zufußgehende und Radfahrende auf der Puschkinallee - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Erhalt des Friedrichshagener Wochenmarkts - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Verbindliche Planungsaufnahme der Instandsetzung des Schloßplatzes Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Einrichtung von Parkzonen bzw. Parkraumbewirtschaftungszonen im Rahmen der kommunalen Nachhaltigkeitsstrategie - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Beratungsstelle für sexuelle Gesundheit - mit Änderungen in der BVV beschlossen
+- TOP 10.15: Herkomerstraße als Einbahnstraße ausweisen - überwiesen
+- TOP 10.16: Bürgerwillen respektieren: Parkraumbewirtschaftung ablehnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.17: Nach Inkrafttreten der Streichung von § 219a StGB Informationen über Schwangerschaftsabbrüche bereitstellen - vertagt
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Vorhabenbezogener Bebauungsplan 9-6VE ("Wasserturm Altglienicke") hier: Einstellung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Unterzeichnung der Deklaration "Biologische Vielfalt in Kommunen" durch den Bezirk Treptow-Köpenick - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Neue Realitäten anerkennen - Digitale Sitzungen der BVV im Bezirksverwaltungsgesetz ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: "Tiny Forests" ins bezirkliche Konzept zur biologischen Vielfalt integrieren - überwiesen
+- TOP 12.3: Straße in Niederschöneweide nach Helga Hahnemann benennen - mit Änderungen in der BVV beschlossen
+- TOP 12.4: Sanierung der Feierhalle auf dem Friedhof Altglienicke - überwiesen
+- TOP 12.5: Gründung eines Jagd- und Forstmuseums Friedrichshagen - überwiesen
+- TOP 12.6: Wiederaufbau KFC-Sportcasino - überwiesen
+- TOP 12.7: Treptower Straße - Fußgängerstreifen nicht nur für Fußgänger - überwiesen
+- TOP 12.8: Renaturierung LSG Neue Wiesen - überwiesen
+- TOP 12.9: Umsetzung der Skulptur "Gärtner" an den ursprünglichen Standort im Hasselwerder Park - überwiesen
+- TOP 12.10: Zustand der Kleingewässer im Bezirk verbessern - überwiesen
+- TOP 12.11: Sanierung des Straßenraums um den Dorfanger in Müggelheim - überwiesen
+- TOP 12.12: Regelmäßige Jagdausstellungen im Köpenicker Schloss - überwiesen
+- TOP 12.13: Dokumentenabholung im Bürgeramt ohne Termin - überwiesen
+- TOP 12.14: Umsetzung der Integrierten Sportentwicklungsplanung für den Bezirk Treptow-Köpenick von Berlin - überwiesen
+- TOP 12.15: Verkehrssicherheit auf der Forsthausallee erhöhen - überwiesen
+- TOP 12.16: Kostenfreie Menstruationsartikel in Treptow-Köpenick zur Verfügung stellen - überwiesen
+- TOP 12.17: Tempo 30 auf dem Adlergestell in Schmöckwitz ausweiten - überwiesen
+- TOP 12.18: Werbung für Jugendsprechstunde! - überwiesen
+- TOP 12.19: Heidelberger Straße: ein (un)sicherer Weg zur Kita - überwiesen
+- TOP 12.20: Weitsprunganlage auf Willi-Sänger-Sportanlage instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Baumpatenschaften stärker fördern - überwiesen
+- TOP 12.22: Bearbeitung von Elterngeldanträgen - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Sanierung der Godbersenstraße in Schmöckwitz - überwiesen
+- TOP 12.24: S-Bahnhof Grünau: Briefkasten wieder in Betrieb nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: 10-Minutentakt der Tram-Linie 68 ausweiten - überwiesen
+- TOP 12.26: Räume für das zu etablierende Familienservicebüro Treptow-Köpenick - überwiesen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Kitaplatzmangel in Treptow-Köpenick - beantwortet
