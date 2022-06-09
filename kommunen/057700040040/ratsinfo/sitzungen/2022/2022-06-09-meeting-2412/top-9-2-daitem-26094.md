@@ -1,0 +1,7 @@
+# TOP 9.2: Erwerb einer gewerblichen Entwicklungsfläche in der Ortschaft Rahden
+
+- Sitzung: Bau- und Planungsausschuss (13. Sitzung) (2022-06-09)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/26094
+- Ergebnis: 9 Stimmen dafür, 1 dagegen, 0 Enthaltungen
