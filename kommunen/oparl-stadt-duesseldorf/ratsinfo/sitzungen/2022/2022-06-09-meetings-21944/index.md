@@ -1,0 +1,57 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-09T17:30:00+02:00
+- Ende: 2022-06-09T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21944
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21944
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00451061.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00451061.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00451061.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung von Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 04.05.2022 - einstimmig beschlossen
+- TOP 4: Anfragen / Anträge
+- TOP 4.1: Anfrage der SPD-Ratsfraktion: Städtebauliche Entwicklungsmaßnahmen für die ehemaligen Glashütte- und Nirosta-Gelände - beantwortet
+- TOP -: Stadtentwicklung
+- TOP 5: Perspektiven der Stadtteilzentren im Stadtbezirk 10". - vertagt
+- TOP -: Qualitätssichernde Verfahren
+- TOP 6: Perspektivenworkshop- Dillenburger Weg / Waagenstraße - Ergebnis, Vorbereitung eines Wettbewerbs - abweichend beschlossen
+- TOP 6.1: Ergänzungsantrag der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU zu TOP 6 - einstimmig beschlossen
+- TOP 7: Städtebaulicher Wettbewerb Nr. 01/020 - Campus Golzheim - einstimmig beschlossen
+- TOP 8: Städtebaulicher Wettbewerb Nr. 04/028 - Hansaallee/Schwalmstraße - - mehrheitlich beschlossen
+- TOP 9: Hochbaulicher Wettbewerb - Mixed-Use Hochhaus am Belsenpark II - abweichend beschlossen
+- TOP 9.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu TOP 9 - mehrheitlich beschlossen
+- TOP 10: Dialogverfahren Zukunft der Kö - abweichend beschlossen
+- TOP 10.1: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage „Dialogverfahren Zukunft der Kö - Ergebnisse Beteiligungsformate, Beschluss Leitsätze zur Zukunft der Kö“ (APS/036/2022) - mehrheitlich beschlossen
+- TOP 10.2: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu TOP 10 - mehrheitlich beschlossen
+- TOP -: Bauleitplanung
+- TOP 11: Flächennutzungsplanänderung Nr. 138 (Entwurf) - Glasmacherviertel - einstimmig beschlossen
+- TOP 12: Flächennutzungsplanänderung Nr. 206 & Bebauungsplan - Vorentwurf Nr. 09/014 - Benrodestraße/Marbacher Straße - abweichend beschlossen
+- TOP 12.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage „Flächennutzungsplanänderung Nr. 206 & Bebauungsplan-Vorentwurf Nr. 09/014 – Bendrodestraße/Marbacher Straße - Frühzeitige Öffentlichkeitsbeteiligung" (APS/032/2022)
+- TOP 13: Flächennutzungsplanänderung Nr. 202 - Nördlich Henkelstraße - Änderung des Regionalplans - einstimmig beschlossen
+- TOP 14: Flächennutzungsplanänderung Nr. 194 (Entwurf) - Königsberger Straße/Tulpenweg - einstimmig beschlossen
+- TOP 15: Bebauungsplan-Entwurf Nr. 08/006 - Königsberger Straße/Tulpenweg - mehrheitlich beschlossen
+- TOP 16: Bebauungsplan-Vorentwurf Nr. 01/026 - Östlich Ulmenstraße (ehemals Großmarkt) - abweichend beschlossen
+- TOP 17: Bebauungsplan-Entwurf Nr. 04/026 - Wettinerstraße / Lütticher Straße - mehrheitlich beschlossen
+- TOP 18: Bebauungsplan-Entwurf Nr. 09/011 - Östlich Kölner Landstraße - mehrheitlich beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.1: Siegburger Straße 149 - Umbau Bestandsgebäude, Neubau Mensa, Sporthalle und Klassenräume - Joseph-Beuys-Gesamtschule - abweichend beschlossen
+- TOP -: Grundstücksangelegenheiten
+- TOP 23: Bestellung eines Erbbaurechtes an den Grundstücken Radeberger Straße - Solarsiedlung - einstimmig beschlossen
+- TOP -: Sonstiges
+- TOP 24: Bericht über die Vereinbarung und Umsetzung des preisgedämpften Wohnungsbaus in städtebaulichen Verträgen - zur Kenntnis genommen
+- TOP 25: Entsendung von Mitgliedern des Integrationsrates als sachkundige Einwohner*innen in den Ausschuss für Planung und Stadtentwicklung - zur Kenntnis genommen
+- TOP 26: Handlungsfelder Nachhaltigkeit der Landeshauptstadt Düsseldorf - passieren lassen
