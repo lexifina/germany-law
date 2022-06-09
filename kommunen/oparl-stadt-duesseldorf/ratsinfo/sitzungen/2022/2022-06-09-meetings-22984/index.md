@@ -1,0 +1,75 @@
+# Ausschuss für Gesundheit und Soziales Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-09T15:11:00+02:00
+- Ende: 2022-06-09T16:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/9, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22984
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22984
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00451119.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00451119.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00451119.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anfragen
+- TOP 2: Anfragen
+- TOP 2: Anfragen
+- TOP 3: Anträge
+- TOP 3: Anträge
+- TOP 3: Anträge
+- TOP 3.1: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN, Eingang am 24.05.2022, hier: Unterstützung für Kinder sucht- und psychisch kranker Eltern
+- TOP 3.1: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN, Eingang am 24.05.2022, hier: Unterstützung für Kinder sucht- und psychisch kranker Eltern - einstimmig beschlossen
+- TOP 3.1: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN, Eingang am 24.05.2022, hier: Unterstützung für Kinder sucht- und psychisch kranker Eltern - einstimmig beschlossen
+- TOP 3.2: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN, Eingang am 25.05.2022, hier: Fachkonferenz „Stadtgesellschaft gemeinsam gestalten – Umsetzungsstrategien für ein generationenübergreifendes Miteinander in Düsseldorf“
+- TOP 3.2: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN, Eingang am 25.05.2022, hier: Fachkonferenz „Stadtgesellschaft gemeinsam gestalten – Umsetzungsstrategien für ein generationenübergreifendes Miteinander in Düsseldorf“ - einstimmig beschlossen
+- TOP 3.2: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN, Eingang am 25.05.2022, hier: Fachkonferenz „Stadtgesellschaft gemeinsam gestalten – Umsetzungsstrategien für ein generationenübergreifendes Miteinander in Düsseldorf“ - mehrheitlich beschlossen
+- TOP 3.3: Antrag der Ratsfraktionen von CDU und B. 90/DIE GRÜNEN, Eingang am 25.05.2022, hier: Stadtgesellschaft gemeinsam gestalten–Konzepte für ein generationenübergreifendes Miteinander von Kinder- und Jugendeinrichtungen und der Seniorenhilfe in Düsseldorf
+- TOP 3.3: Antrag der Ratsfraktionen von CDU und B. 90/DIE GRÜNEN, Eingang am 25.05.2022, hier: Stadtgesellschaft gemeinsam gestalten–Konzepte für ein generationenübergreifendes Miteinander von Kinder- und Jugendeinrichtungen und der Seniorenhilfe in Düsseldorf - einstimmig beschlossen
+- TOP 3.3: Antrag der Ratsfraktionen von CDU und B. 90/DIE GRÜNEN, Eingang am 25.05.2022, hier: Stadtgesellschaft gemeinsam gestalten–Konzepte für ein generationenübergreifendes Miteinander von Kinder- und Jugendeinrichtungen und der Seniorenhilfe in Düsseldorf - einstimmig beschlossen
+- TOP 4: Vortrag „Generationenübergreifendes Miteinander in Düsseldorf“, Stadtplanungsamt
+- TOP 4: Vortrag „Generationenübergreifendes Miteinander in Düsseldorf“, Stadtplanungsamt - zur Kenntnis genommen
+- TOP 4: Vortrag „Generationenübergreifendes Miteinander in Düsseldorf“, Stadtplanungsamt - zur Kenntnis genommen
+- TOP -: Amt für Soziales
+- TOP -: Amt für Soziales
+- TOP -: Amt für Soziales
+- TOP 5: Vortrag „Vorstellung des Konzeptes zur Woche der Generationen“, Amt für Soziales
+- TOP 5: Vortrag „Vorstellung des Konzeptes zur Woche der Generationen“, Amt für Soziales - zur Kenntnis genommen
+- TOP 5: Vortrag „Vorstellung des Konzeptes zur Woche der Generationen“, Amt für Soziales - zur Kenntnis genommen
+- TOP 6: Hilfen für Familien mit pflegebedürftigen Kindern und Jugendlichen - hier: Unterstützungsleistungen und -angebote für pflegende Eltern und andere Angehörige
+- TOP 6: Hilfen für Familien mit pflegebedürftigen Kindern und Jugendlichen - hier: Unterstützungsleistungen und -angebote für pflegende Eltern und andere Angehörige - zur Kenntnis genommen
+- TOP 6.1: Hilfen für Familien mit pflegebedürftigen Kindern und Jugendlichen - hier: Unterstützungsleistungen und -angebote für pflegende Eltern und andere Angehörige
+- TOP 6.1: Hilfen für Familien mit pflegebedürftigen Kindern und Jugendlichen - hier: Unterstützungsleistungen und -angebote für pflegende Eltern und andere Angehörige - zur Kenntnis genommen
+- TOP -: Jugendamt
+- TOP -: Jugendamt
+- TOP -: Jugendamt
+- TOP 7: Düsseldorfer Präventionsketten: Gesundheitsförderung in Einrichtungen der Kinder- und Jugendhilfe
+- TOP 7: Düsseldorfer Präventionsketten: Gesundheitsförderung in Einrichtungen der Kinder- und Jugendhilfe - zur Kenntnis genommen
+- TOP 7.1: Düsseldorfer Präventionsketten: Gesundheitsförderung in Einrichtungen der Kinder- und Jugendhilfe
+- TOP 7.1: Düsseldorfer Präventionsketten: Gesundheitsförderung in Einrichtungen der Kinder- und Jugendhilfe - zur Kenntnis genommen
+- TOP -: Gesundheitsamt
+- TOP -: Gesundheitsamt
+- TOP -: Gesundheitsamt
+- TOP 8: Förderung des Projekts „Lobby-Aktion Nikotinkinder – Kinderarbeit auf Tabakfeldern“ (Haushaltsantrag RAT/088/2021) hier: Verwendung der Finanzmittel
+- TOP 8: Förderung des Projekts „Lobby-Aktion Nikotinkinder – Kinderarbeit auf Tabakfeldern“ (Haushaltsantrag RAT/088/2021) hier: Verwendung der Finanzmittel - zur Kenntnis genommen
+- TOP 8.1: Förderung des Projekts „Lobby-Aktion Nikotinkinder – Kinderarbeit auf Tabakfeldern“ (Haushaltsantrag RAT/088/2021) hier: Verwendung der Finanzmittel
+- TOP 8.1: Förderung des Projekts „Lobby-Aktion Nikotinkinder – Kinderarbeit auf Tabakfeldern“ (Haushaltsantrag RAT/088/2021) hier: Verwendung der Finanzmittel - zur Kenntnis genommen
+- TOP 9: Vortrag von Denise Schalow, Diakonie Düsseldorf Suchtprävention Kinder, Jugendliche und Erwachsene, hier: Vorstellung des Projektes Cross-Point
+- TOP 9: Vortrag von Denise Schalow, Diakonie Düsseldorf Suchtprävention Kinder, Jugendliche und Erwachsene, hier: Vorstellung des Projektes Cross-Point - zur Kenntnis genommen
+- TOP 9: Vortrag von Denise Schalow, Diakonie Düsseldorf Suchtprävention Kinder, Jugendliche und Erwachsene, hier: Vorstellung des Projektes Cross-Point - zur Kenntnis genommen
+- TOP -: Amt für Migration und Integration
+- TOP -: Amt für Migration und Integration
+- TOP -: Amt für Migration und Integration
+- TOP 10: Konzept zur Weiterentwicklung und Verstetigung der Welcome Points in Düsseldorf
+- TOP 10: Konzept zur Weiterentwicklung und Verstetigung der Welcome Points in Düsseldorf - zur Kenntnis genommen
+- TOP 10.1: Konzept zur Weiterentwicklung und Verstetigung der Welcome Points in Düsseldorf
+- TOP 10.1: Konzept zur Weiterentwicklung und Verstetigung der Welcome Points in Düsseldorf - zur Kenntnis genommen
+- TOP 11: Verschiedenes
+- TOP 11: Verschiedenes - zur Kenntnis genommen
+- TOP 11: Verschiedenes - zur Kenntnis genommen
