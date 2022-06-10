@@ -1,0 +1,69 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-10T14:00:00+02:00
+- Ende: 2022-06-10T17:21:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21834
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21834
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00450890.pdf
+- Ergebnisprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00450890.pdf
+- Wortprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00450890.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 01.04.2022 - einstimmig beschlossen
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 13.05.2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Ergebnisse der Verkehrsuntersuchung zur anstehenden Baustellenführung am Heinrich-Heine-Platz - Mündlicher Bericht
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Prozessstruktur Beteiligung Nahverkehrsplanung - zur Kenntnis genommen
+- TOP 4.5: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2022 - Empfehlung mehrheitlich abgelehnt
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Dauerhafte Einrichtung des eigenen Bahnkörpers auf der Kaiserstraße - Empfehlung einstimmig beschlossen
+- TOP 4.8: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für die Haushaltsjahre 2023 und 2024 - zur Kenntnis genommen
+- TOP 4.9: Benennung der kleinen Stichstraße von der Rather Straße - einstimmig beschlossen
+- TOP 4.10: Nutzung des Ehrenhofes - Empfehlung einstimmig beschlossen
+- TOP 5: Anfragen
+- TOP 5.1: Grundstück Ecke Roßstraße / Hans Böckler Straße (Roßstraße 86) - Anfrage der CDU-Fraktion
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Lückenschluss im Radhauptnetz – 100 Meter Radfahrstreifen und Ausbau Knotenpunkt an der Eulerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- TOP 5.4: Gebäude Poststraße 18 - Anfrage der FDP-Fraktion
+- TOP 5.5: Wartung der denkmalgeschützten Gaslaternen - Anfrage der SPD-Fraktion
+- TOP 5.6: Patenschaften / Sponsoren für Denkmäler - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6: Anträge
+- TOP 6.1: Änderung des Verkehrsführung am Carlsplatz und Steigerung der Aufenthaltsqualität - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 6.2: Deutliche Kennzeichnung des Radweges auf der Prinz-Georg Straße/Ecke Moltkestraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 6.3: Neugestaltung des Rochusmarkts - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 6.4: Mögliche Ladestationen für Elektrofahrzeuge (Inselstraße / Uerdinger Straße) - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 6.5: Entfernen von Graffiti an der Cecilienallee 1 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 6.6: Versetzung der Einbahnstraßenschilder an der Nordstaße, Ecke Schwerinstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.7: Behebung loser Pflastersteine auf der Kaiserswerther Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.8: Reparaturstationen für Fahrräder - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.9: Ausstattung der Bolzplätze mit Basektballkörben - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 6.10: Verlängerung der Fußgängerzone Berger Allee - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 6.11: Fahrradständer Ecke Schirmer-/Schinkelstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.12: Tempo 30 Piktogramme Schinkelstraße - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 6.13: Errichtung des Musikpavillons, der früher am Carschhaus stand, auf die Freifläche vor der Inselstraße - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 6.14: Verkehrsführung Nordstraße, Ecke Venloer und Duisburger Straße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 7.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 7.2: Prüfantrag: Zugeparkte Ladestationen im Stadtbezirk 1; Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV1/248/2021 - zur Kenntnis genommen
+- TOP 7.3: Bürger*innenfreundliche und zeitgemäße Darstellung der in Planung und im Bau befindlichen öffentlich geförderten sowie preisregulierten Wohnungen; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/073/2022 - zur Kenntnis genommen
+- TOP 7.4: Reinigung und Neuanstrich Geländer Spee’scher Graben entlang der Poststraße; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/039/2022 - zur Kenntnis genommen
+- TOP 7.5: Fahrraderreichbarkeit des Haupteingangs und der davor befindlichen Fahrradabstellanlage des Leibniz-Montessori-Gymnasiums; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/053/2022 - zur Kenntnis genommen
+- TOP 7.6: Gesamtstädtisches Toilettenkonzept (BAU/007/2022) - Standortvorschläge; Beschluss der Bezirksvertretung 1 vom 13.05.2022; BV1/122/2022 - zur Kenntnis genommen
+- TOP 7.7: Tempo 30 auf der Eulerstraße - unterstützende Maßnahmen; Beschluss der Bezirksvertretung 1 vom 28.01.2022; BV1/009/2022 - zur Kenntnis genommen
+- TOP 7.8: Prüfung sichere Schulwege zur Grundschule: Matthias-Claudius-Grundschule an der Ehrenstraße; Beschluss der Bezirksvertretung 1 vom 28.05.2021; BV1/121/2021 - zur Kenntnis genommen
+- TOP 7.9: Prüfung sichere Schulwege zur Grundschule: Städtische Katholische Grundschule Thomasschule; Beschluss der Bezirksvertretung 1 vom 30.04.2021; BV1/091/2021 - zur Kenntnis genommen
+- TOP 7.10: Prüfung sichere Schulwege zur Grundschule: Städtische Gemeinschaftsgrundschule Lennéstraße; Beschluss der Bezirksvertretung 1 vom 30.04.2021; BV1/092/2021 - zur Kenntnis genommen
+- TOP 8: Verfügungsmittel der Bezirksvertretung 1
+- TOP 8.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt Marketing GmbH - einstimmig beschlossen
+- TOP 8.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfs Vielfalt erleben e. V. - abweichend beschlossen
+- TOP 8.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfer Schachklub1914/25 e.V. - einstimmig beschlossen
