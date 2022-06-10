@@ -1,0 +1,74 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-10T16:00:00+02:00
+- Ende: 2022-06-10T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21819
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21819
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift zur Sondersitzung am 07.04.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Unfallstatistik und Kriminalitätsentwicklung 2021 im Stadtbezirk 9
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Flächennutzungsplanänderung Nr. 202 - Nördlich Henkelstraße - zur Kenntnis genommen
+- TOP 6.2: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Bau einer Dreifachsporthalle für das Annette-von-Droste-Hülshoff-Gymnasium, Bruckner-straße 19, 40593 Düsseldorf“ - Empfehlung einstimmig beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Prozessstruktur Beteiligung Nahverkehrsplanung - zur Kenntnis genommen
+- TOP 6.10: Umwidmung der Hochstraße in eine Mischverkehrsfläche - einstimmig beschlossen
+- TOP 6.11: Zuschuss an den Tennisclub Holthausen e.V. - einstimmig beschlossen
+- TOP 6.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Listen B+C - einstimmig beschlossen
+- TOP 6.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 (Liste A Schulen) - einstimmig beschlossen
+- TOP 6.14: Einstellung Umsetzung Protected Bike Lane Am Trippelsberg zwischen Karweg und Bonner Straße - zur Kenntnis genommen
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 7.4: Grünanlagen am Werstener Kreuz - Anfrage der SPD-Fraktion - beantwortet
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Darstellung der statistischen Wohnungsdaten für Stadtteile und Sozialräume - Anfrage der Fraktion Bündnis 90/ Die Grünen - beantwortet
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Straßenschäden auf der Benrodestraße - Anfrage der SPD-Fraktion - beantwortet
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Aktuelle Anfragen
+- TOP 8.1: Kleinspielfeld am „Lauftreff-Süd“ Paulsmühlenstraße - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Mittelstreifen Hildener Straße, Vorlage BV9/046/2022 - Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Fußgängerüberweg Telleringstraße - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Verfügungsmittel
+- TOP 10.1: St. Sebastianus Schützenverein D-Holthausen 1925 e.V. - 10KV Anschlusspunkt + Transformatorstation - einstimmig beschlossen
+- TOP 10.2: Düsseldorfer Künstler e. V. - Bemalung Unterführung Cäcilienstraße, Düsseldorf-Benrath - einstimmig beschlossen
+- TOP 10.3: Paulsmühler Jecken e.V. - Bunkerfest 2022 - einstimmig beschlossen
+- TOP 10.4: GGS Schloss Benrath - Projekt "Mut tut gut" - einstimmig beschlossen
+- TOP 10.5: St. Sebastianus Reiterkorps D.-Wersten e.V. - 8. Werstener Reitertag 2022 - einstimmig beschlossen
+- TOP 10.6: Aktionsgemeinschaft Benrath e.V. - 30. Kinderfest in Benrath 2022 - einstimmig beschlossen
+- TOP 10.7: KG „Reisholzer Quatschköpp e.V. 1982 - Sommerfest 2022 - einstimmig beschlossen
+- TOP 10.8: Hermann-Gmeiner-Schule - Theaterprojekt "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für die Haushaltsjahre 2023 und 2024 - zur Kenntnis genommen
+- TOP 11.2: Beschlusskontrolle der Bezirksvertretung 9 - 1. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 11.3: Unterführung Brückerbach Münchener Straße - Beschluss der Bezirksvertretung 9 vom 18.03.2022; BV9/053/2022 - zur Kenntnis genommen
+- TOP 11.4: Einrichten von Fußgängerüberwegen an den Übergängen zwischen Leichlinger Straße und Burscheider Straße - Beschluss der Bezirksvertretung 9 vom 26.11.2022; BV9/277/2021 - zur Kenntnis genommen
+- TOP 11.5: Nachrüstung der Sitzbänke mit Armlehnen im Stadtbezirk 9 - Beschluss der Bezirksvertretung 9 vom 18.03.2022; BV9/055/2022 - zur Kenntnis genommen
