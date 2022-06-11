@@ -13,7 +13,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | 8. | Zweiradmechaniker | Kraftfahrzeugtechniker (Krafträder) |
 | 9. | Land- und Baumaschinenmechatroniker | Metallbauer |
 | 10. | Metallbauer | Feinwerkmechaniker; Land- und Baumaschinenmechatroniker |
-| 11. | Maler und lackierer | Stukkateure |
+| 11. | Maler und Lackierer | Stukkateure |
 | 12. | Stukkateure | Maler und Lackierer (Maler) |
 | 13. | Dachdecker | Klempner |
 | 14. | Klempner | Dachdecker |
