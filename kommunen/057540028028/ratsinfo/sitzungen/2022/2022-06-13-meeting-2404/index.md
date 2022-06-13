@@ -1,0 +1,51 @@
+# Rat der Stadt Rheda-Wiedenbrück (12. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2022-06-13T17:00:00+02:00
+- Ende: 2022-06-13T20:00:00+02:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWnyuzhMc3ndCejbRikefAg
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2404
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYUj-6fk146DvyTROQHKwO84hCYJNbf9LxZFNrifdcKg/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_13.06.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQc-7p7fPCsyVQBorHQuKtKR19CY8pUy0hKCjdGZmwV_/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_13.06.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Bürgerantrag - Umbenennung der Mehrzweck-Sportanlage am Burgweg in "Paul-Barnert-Stadion". - Einstimmig
+- TOP 5: Antrag der Internationalen Liste vom 28.12.2021 zur Einrichtung eines muslimischen Friedhofs in Rheda-Wiedenbrück. - Einstimmig
+- TOP 6: Sachstandsbericht zum Onlinezugangsgesetz (Anfrage der move-Fraktion) - Kenntnisnahme
+- TOP 7: Umbesetzung von Gremien - Einstimmig
+- TOP 8: Fraktionsgeschäftsführung - Einstimmig
+- TOP 9: Finanzcontrolling - Managementbericht zum 30. April 2022 - Kenntnisnahme
+- TOP 10: Dringlichkeitsentscheidung nach § 60 Absatz 1 Satz 1 Gemeindeordnung NRW Beteiligung der Wasserversorgung Beckum GmbH an einer Arbeitsgemeinschaft - Einstimmig
+- TOP 11: Aktuelle Flüchtlingssituation in Rheda-Wiedenbrück - Kenntnisnahme
+- TOP 12: Unterbringung von Schutzsuchenden aus der Ukraine - Einstimmig
+- TOP 13: Landeskinderschutzgesetz NRW – Stellen für den ASD - Einstimmig
+- TOP 14: Einrichtung Gemeinsamen Lernens an der Pius-Bonifatius-Schule - Einstimmig
+- TOP 15: Integrationspreis - 38 Ja-Stimme(n), 0 Nein-Stimme(n), 6 Enthaltung(en)
+- TOP 16: Förderprogramm Klimaschutz - Einstimmig
+- TOP 17: Pfarrgemeindehaus Batenhorst - Weiterentwicklung zum Dorfgemeinschaftshaus Batenhorst - Einstimmig
+- TOP 18: Bahnhofstraße und Wenneberstraße, 2. Bauabschnitt zw. Fontainestraße und Fürst-Bentheim-Straße - Beschluss des Ausbauplans (Bauprogramm) - Einstimmig
+- TOP 19: Bebauungsplan Nr. 402 C „Feldhüserweg" a) Ergebnisse der Offenlage nach § 3 Abs. 2 Baugesetzbuch (BauGB) und Beteiligung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB b) Satzungsbeschluss - Einstimmig
+- TOP 20: Herzebrocker Straße; Aufwertung der Bahnunterführung (ehemals ISEK Rheda Qualifizierungsverfahren) Ergebnisse und weiteres Vorgehen - Einstimmig
+- TOP 21: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge
+- TOP 22: Bericht zur Beschlusskontrolle
+- TOP 23: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 24: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 25: Erklärung von Ausschließungsgründen
+- TOP 26: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 27: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Vertragsangelegenheit - Kenntnisnahme
+- TOP 30.1: Verfahrensangelegenheit - 39 Ja-Stimme(n), 0 Nein-Stimme(n), 5 Enthaltung(en)
+- TOP 31: Bericht zur Beschlusskontrolle
+- TOP 32: Dringende Anfragen und Anregungen
