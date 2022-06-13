@@ -1,0 +1,56 @@
+# Rat (139. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2022-06-13T18:00:00+02:00
+- Ende: 2022-06-13T19:32:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWTmkN8vGWbr_sEwCpaXJ4o
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17192
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYSKReX7LoHAOPuSrJOnpP-QhlM_pHJt5GxqYyZOcFWd/Bekanntmachung_Rat_13.06.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT0gI9z35hnITjr-EfMRFAbqbX2Ze75lveSHGTyLjsCU/Oeffentliche_Niederschrift_Rat_13.06.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 28.03.2022
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Umbesetzung von Gremien - Ohne Abstimmung
+- TOP 4.1: Umbesetzung von Gremien - Einstimmig
+- TOP 5.: KAAW - Entsendung stimmberechtigter Teilnehmenden in die Verbandsversammlung - Einstimmig
+- TOP 6.: Information über den Ablauf des Zukunftsprozesses "Emsdetten im Jahr 2038" - Zur Kenntnis genommen
+- TOP 7.: Bewerbung zur Teilnahme an der Landesinitiative „Inklusion vor Ort“ zusammen mit dem Caritasverband Emsdetten-Greven e.V. - Einstimmig
+- TOP 8.: Moderne Arbeitswelten - Technische Ausstattung der Homeoffice-Arbeitsplätze - Einstimmig
+- TOP 9.: Finanzangelegenheiten
+- TOP 9.1: zusätzliche (überplanmäßige) Aufwendungen und Auszahlungen im Zusammenhang mit der Aufnahme und Unterbringung Schutzsuchender aus der Ukraine - Einstimmig
+- TOP 10.: Gebührenhaushalte / Betriebsabrechnungen
+- TOP 10.1: Betriebsabrechnung Abfallwirtschaft 2021 - Zur Kenntnis genommen
+- TOP 10.2: Betriebsabrechnung Straßenreinigung und Winterdienst 2021 - Zur Kenntnis genommen
+- TOP 11.: Neue Winterbeleuchtung für die Emsdettener Innenstadt - Einstimmig
+- TOP 12.: Richtlinien
+- TOP 12.1: Neufassung der Richtlinie über die Gewährung von Zuschüssen zur Erhaltung von Denkmälern in der Stadt Emsdetten - Einstimmig
+- TOP 13.: Antrag der CDU Fraktion zum Förderprogramm proKLIMA - Einstimmig
+- TOP 14.: Allgemeine Stadtentwicklungsplanung
+- TOP 14.1: Zielszenario des Integrierten Mobilitätskonzeptes der Stadt Emsdetten - Einstimmig
+- TOP 15.: Bebauungspläne
+- TOP 15.1: Bebauungsplan Nr. 111 "Rheiner Straße/Hermannstraße", 2. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 16.: Einziehung eines Teilstücks der Mittelstraße - Einstimmig
+- TOP 17.: Bauprogramm Beleuchtung Alter Kirchweg - Einstimmig
+- TOP 18.: Planung von Tiefbauvorhaben
+- TOP 18.1: Umgestaltung des Sandufers - Beschluss einer Vorzugsvariante - Einstimmig
+- TOP 19.: Rampen Albert-Haverkamp-Weg auf die Neubrückenstraße - Beschluss der Entwurfsplanung - Einstimmig
+- TOP 20.: Albert Haverkamp Weg - Beschluss der Entwurfsplanung des zweiten und dritten Bauabschnittes - 28 Ja-Stimme(n), 0 Gegenstimme(n), 5 Enthaltung(en)
+- TOP 21.: Aufstellung von zwei Klassenraum-Containern zum Schuljahr 2022/23 an der Schule Hollingen - Einstimmig
+- TOP 22.: Einbau dezentraler Lüftungsgeräte - Informationen zum Stand des Projekts - Zur Kenntnis genommen
+- TOP 23.: Neubau Kita Silberweg - Vorstellung der Vorentwurfsplanung - Einstimmig
+- TOP 24.: Planung und Verwaltung städtischer Einrichtungen
+- TOP 24.1: Neubau Baubetriebshof - Informationen zum Stand des Projekts - Zur Kenntnis genommen
+- TOP 24.2: Erweiterung der Stadtbibliothek - Vorstellung der Entwurfsplanung - Einstimmig
+- TOP 25.: Sportangelegenheiten
+- TOP 25.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.2: Antrag der Fraktion "DIE LINKE" - Kostenfreier Zugang zum Waldbad während der Sommerferien 2022 - Einstimmig
+- TOP 26.: Alltagshelfer in Emsdettener KITAs - Einstimmig
+- TOP 27.: Verschiedenes
