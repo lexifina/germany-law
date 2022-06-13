@@ -1,0 +1,92 @@
+# 13.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-06-13T17:00:00+02:00
+- Ende: 2022-06-13T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25447
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25447
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Vorstellung Streetwork Köln
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Netzelement 4-Östlicher Ringschluss (Autostraße am Kalkberg)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - Sportplatz Thurner Kamp - Sache ist erledigt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für die Sporthalle Bergischer Ring in Köln-Mülheim - ungeändert beschlossen
+- TOP 6.2: Annahme einer Schenkung für die GGS An St. Theresia in Köln-Buchheim - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Antwort auf die Anfrage AN/0857/2022 „Umgang mit Eingaben der Bürgerinnen und Bürger“ der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Mülheim vom 13.4.2022 - Kenntnis genommen
+- TOP 7.1.2: Betreff: Anfrage der Fraktion Bündnis90/Die Grünen vom 07.02.2022; Anfrage: Verkehrsentwicklung und Klimaschutz im Planungsgebiet Mülheim Süd - Kenntnis genommen
+- TOP 7.1.3: Betreff: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 07.02.2022; Anfrage: Eigentumsverhältnisse und Bodenwertentwicklung im Mülheimer Süden - Kenntnis genommen
+- TOP 7.1.4: Fehlende Toiletten auf der Sportanlage Burgwiesenstr. in Holweide - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: BV-Beschlüsse umsetzen, Wettbüros einschränken - Kenntnis genommen
+- TOP 7.2.2: Aufwertung des Wiener Platzes - Kenntnis genommen
+- TOP 7.2.3: Gebäuderiegel entlang der Ostseite der Deutz- Mülheimer Straße im Bereich des Gebietes Mülheim Süd - Kenntnis genommen
+- TOP 7.2.4: Gebäuderiegel entlang der Westseite der Deutz- Mülheimer Straße im Bereich des Gebietes Mülheim Süd - Kenntnis genommen
+- TOP 7.2.5: Der Kalkberg "laufende Arbeiten und Kosten" - Kenntnis genommen
+- TOP 7.2.6: Der Kalkberg "künftige Pläne für Kosten" - Kenntnis genommen
+- TOP 7.2.7: Biotop in Straßenschleifen der Autobahnzubringer - Kenntnis genommen
+- TOP 7.2.8: Grundstück im Bereich Mülheim Süd, das vom Grundstücksfonds NRW angekauft und von der Landesgesellschaft nrw.urban verwaltet wird - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Mülleimer im Zentrum von Mülheim - ungeändert beschlossen
+- TOP 8.1.2: Parkplatzbeleuchtung des Parkplatzes an der Mülheimer Stadthalle - geändert beschlossen
+- TOP 8.1.3: Quartiers- Garage " Mülheimer Süden " - endgültig abgelehnt
+- TOP 8.1.4: Radschnellverbindung / Radpendlerroute Bergisch-Gladbach-Köln - Sache ist erledigt
+- TOP 8.1.5: Verstopfte Straßen, mangelhafte Fußwege und unübersichtliche Baustellen – Baustellenmanagement neu denken - ungeändert beschlossen
+- TOP 8.1.6: SC Mülheim Nord 1919 e.V. – Aktiv im Veedel gestalten - ungeändert beschlossen
+- TOP 8.1.7: Anlage eines Zebrastreifens im Bereich der Querungshilfe auf der Jan-Wellem-Straße/Ecke Lassallestraße und Überprüfung eines weiteren Zebrastreifens im Bereich des Eingangs vom Schulneubau Elly-Heuss-Knapp-Realschule und Ferdinand-Lassalle Realschule - ungeändert beschlossen
+- TOP 8.1.8: Geschwindigkeitsreduzierung auf dem Dünnwalder Mauspfad im Bereich des Höhenfelder Sees - Ende des Radwegs bis zur Einmündung in den Kalkweg - geändert beschlossen
+- TOP 8.1.9: Maßnahmen zur Erhöhung der Sicherheit für Radfahrende und zu Fuß Gehende auf dem Grünen Kuhweg in Köln Flittard im Bereich hinter der Brücke, die über die Eisenbahnstrecke Richtung Feld bzw. Golfplatz führt - ungeändert beschlossen
+- TOP 8.1.10: Berliner Straße: Nur neuer Belag reicht nicht - ungeändert beschlossen
+- TOP 8.1.11: Werkstattverfahren Schulstraßen - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Kreisverkehr Zeisbuschweg/Birkenweg - Baubeschluss - geändert beschlossen
+- TOP 9.1.2: Vollständiger Ausbau der Nebenanlagen - ungeändert beschlossen
+- TOP 9.1.3: Sperrung der Fahrradstraße Knochenbergsweg für den Kfz-Durchgangsverkehr - ungeändert beschlossen
+- TOP 9.1.4: Beschaffung von Metall-Schließfächern durch die Gesamtschule Holweide - ungeändert beschlossen
+- TOP 9.1.5: Stadtklima-Stadtverschönerungsprogramm 2022 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.1.6: Toilettenanlage am Wiener Platz - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Förderprogramm Niedrigschwellige Suchthilfe - Drogenkonsumraum Mülheim - ungeändert beschlossen
+- TOP 9.2.2: Fahrplanwechsel 2022 - Taktverdichtung Buslinie 250 - ungeändert beschlossen
+- TOP 9.2.3: Anmietung eines Mehrfamilienhauses in der Tiefentalstr. 13 in 51063 Köln-Mülheim zur Unterbringung wohnungsloser Menschen - ungeändert beschlossen
+- TOP 9.2.4: Beschluss einer Trasse für die RadPendlerRoute 2 (Bergisch Gladbach – Köln) - Alternative beschlossen
+- TOP 9.2.4.1: Beschluss einer Trasse für die RadPendlerRoute 2 (Bergisch Gladbach – Köln) - ungeändert beschlossen
+- TOP 9.2.5: Parkgebührenregelung an E-Ladesäulen - geändert beschlossen
+- TOP 9.2.6: 282. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.7: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln - geändert beschlossen
+- TOP 9.2.7.1: Regionalplanneuaufstellung; Stellungnahme zum Regionalplanentwurf - geändert beschlossen
+- TOP 9.2.7.2: Regionalplan Stadt Köln - endgültig abgelehnt
+- TOP 9.2.8: Ordnungsbehördliche Verordnung für das Jahr 2022 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9.2.9: Beschluss über die Planung und Durchführung der Maßnahme Platzgestaltung Denkmal Keupstraße hier: Bedarfsfeststellungsbeschluss und Umsetzung einer Öffentlickeitsbeteiligung - ungeändert beschlossen
+- TOP 9.2.10: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Absenkung der Borde - Kenntnis genommen
+- TOP 10.2.4: Berichtswesen Beschlüsse der Gremien (beschluss- und projektbezogene Berichterstattung) - Kenntnis genommen
+- TOP 10.2.5: Sportentwicklungsplanung: Kinder- und Jugendsportförderung - Kenntnis genommen
+- TOP 10.2.6: Hall of Fame "Im Bischofsacker" - Kenntnis genommen
+- TOP 10.2.7: Sachstandsmitteilung zu den von der Bezirksvertretung Mülheim priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.8: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote 2022 - Kenntnis genommen
+- TOP 10.2.9: Ergebnisse Öffentlichkeitsbeteiligung zur Umgestaltung des sog. Rewe Platzes an der Piccoloministraße in Holweide - Kenntnis genommen
+- TOP 10.2.10: Beantwortung der Anfrage des beratenden Mitglieds Jörg Beste aus der Sitzung des Stadtentwicklungsausschusses vom 07.04.2022 betr. Gesamtentwicklung Mülheimer Süden – Einbindung in das Konzept des Wasser-busses - Kenntnis genommen
+- TOP 10.2.11: Taktverbesserung der Buslinie 250 - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
