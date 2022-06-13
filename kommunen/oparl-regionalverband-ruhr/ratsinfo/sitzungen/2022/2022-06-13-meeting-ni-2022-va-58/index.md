@@ -1,0 +1,77 @@
+# 6. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2022-06-13T10:00:00+02:00
+- Ende: 2022-06-13T11:45:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2022-VA-58
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2022-VA-58
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-VA-58
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-VA-58
+
+## Tagesordnung
+
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 1.2.1: Umbesetzung in Gremien und Verbandsräten
+- TOP 2: Aktuelles
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Ruhrwind Herten GmbH
+- TOP 8.2: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2021
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.2: Umsetzungskonzept Regionales Radwegenetz in der Metropole Ruhr Hier: Endbericht
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Regionale Biodiversitätsstrategie für das Ruhrgebiet
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 15.1: Überörtliche Prüfung des Regionalverbandes Ruhr durch die Gemeindeprüfungsanstalt für das Land Nordrhein-Westfalen (gpaNRW) - Bericht der gpaNRW über die überörtliche Prüfung des RVR und Stellungnahme der Regionaldirektorin gemäß § 105 Abs. 6 und 7 GO NRW
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Strategie und Ziele der RVR-Familie
+- TOP 16.1.1: Änderungsantrag Strategie und Ziele der RVR-Familie
+- TOP 16.1.2: Änderungsantrag zu DS Nr. 14/0421, Strategie und Ziele der RVR-Familie
+- TOP 16.2: Stellenplan 2022 RVR
+- TOP 16.3: Änderung der Zuständigkeitsordnung
+- TOP 16.4: Änderung der Geschäftsordnung
+- TOP 16.5: NKF-Gesamtabschluss zum 31.12.2019
+- TOP 16.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.7: Bericht über die Prüfung des Gesamtabschlusses 2018. Bestätigung des Gesamtabschlusses 2018 und Entlastung der Regionaldirektorin Karola Geiß-Netthöfel für die Zeit vom 01.01.2018 - 31.12.2018
+- TOP 16.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.9: Klima-Check
+- TOP 17: Fraktionsanträge
+- TOP 17.1: Offene Planstellen beim Radwegebau in der Metropole Ruhr
+- TOP 17.1.1: Ersetzungsantrag der Koalitionsfraktionen SPD und CDU zu DS 14/0586 / Planstellen beim Radwegebau
+- TOP 17.2: Klimaneutrale Metropole Ruhr
+- TOP 17.3: Perspektiven und Ausbau der Erneuerbaren Energien
+- TOP 17.4: Geschlechtergerechte Sprache in Ausschreibungen des RVR
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Antwort auf die Anfrage der Fraktion DIe Linke Festlegungen zum Erhalt von Kulturlandschaften im Regionalplan Ruhr
+- TOP 18.2: Antwort auf die Anfrage der AfD-Fraktion Raumordnungsverfahren Wasserstoffleitungen DoHa und DoMa
+- TOP 18.3: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages der AGR mbH - Anzeigenbestätigung des Ministeriums für Heimat, Kultur, Bauen und Gleichstellung NRW
+- TOP 18.4: Genehmigung der Festsetzung des Umlagesatzes für das Haushaltsjahr 2022 durch das Ministerium für Heimat, Kommunales, Bau und Gleichstellung des Landes Nordrhein-Westfalen
+- TOP 18.5: Regionale Biodiversitätsstrategie für das Ruhrgebiet
+- TOP 18.5.1: Antwort auf die Anfrage der CDU-Fraktion Regionale Biodiversitätsstrategie für das Ruhrgebiet
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 20.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
