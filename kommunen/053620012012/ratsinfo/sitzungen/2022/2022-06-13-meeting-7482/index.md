@@ -1,0 +1,86 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-06-13T18:02:00+02:00
+- Ende: 2022-06-13T21:05:00+02:00
+- Ort: Clemens August-Forum, Clemens-August-Str. 33a, 50321 Brühl, Mehrzweckhalle
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYtU48Su4CJ9NU_mCd_moXA
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7482
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWBY-VfYUG8lXNn4adRIgxtgBaFosE_g4XTFMyr6HFyg/Bekanntmachung_Rat_13.06.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaYvB1okmmeAGum6RAMODEDK3ToTdWJQPRPAPpJ92bio/Oeffentliche_Niederschrift_Rat_13.06.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Obdachlosenunterkunft Lupinenweg
+- TOP 1.2: Sozialausschuss vom 07.06.2022
+- TOP 2.: Niederschrift vom 25.04.2022
+- TOP 3.: Beanstandung des Ratsbeschlusses vom 25.04.2022, Vorl.-Nr. 157/2022 Hier: Umbesetzung im Integrationsrat - (kein Text vorhanden)
+- TOP 4.: Assistenzhundefreundliche Kommune - (kein Text vorhanden)
+- TOP 5.: Workshop zur Dezentralisierung der Obdachlosenunterkunft im Lupinenweg - (kein Text vorhanden)
+- TOP 6.: Ausstattungsmerkmale der neuen Wasserstoffbusse - (kein Text vorhanden)
+- TOP 7.: Änderung Gesellschafteranteil der KKP GmbH an der KLAR GmbH - (kein Text vorhanden)
+- TOP 8.: Satzungen
+- TOP 8.1: Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl – Gebührensatzung KuMS –
+- TOP 8.1.1: Kulturelles Bildungsprogramm JeKits Hier: Ergänzende Informationen zur Vorlage 223/2022 „Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl – Gebührensatzung KuMS –“ Bezug: Vorlagen-Nr. 223/2022, HA 23.05.2022
+- TOP 8.1.2: Kulturelles Bildungsprogramm JeKits Hier: Ergänzende Informationen zur Vorlage 223/2022 „Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl – Gebührensatzung KuMS –“ und zur Vorlage 284/2022 Bezug: Vorlagen-Nr. 223/2022, HA 23.05.2022, 284/2022, - (kein Text vorhanden)
+- TOP 8.2: 4. Satzung zur Änderung der Hundesteuersatzung der Stadt Brühl vom 01.09.1997
+- TOP 8.2.1: 4. Satzung zur Änderung der Hundesteuersatzung der Stadt Brühl vom 01.09.1997 Bezug: Vorlage 254/2022, HA 23.05.2022 - (kein Text vorhanden)
+- TOP 8.3: Änderung der Sondersatzung für straßenbauliche Maßnahmen der Stadt Brühl in der Franzstraße - (kein Text vorhanden)
+- TOP 9.: Förderaktivitäten der Kreissparkasse Köln in der Stadt Brühl im Jahr 2021 hier: Schreiben der KSK vom 17.05.2022
+- TOP 10.: Ermächtigungsübertragung aus dem Haushaltsplan 2021 nach 2022
+- TOP 11.: Bebauungspläne
+- TOP 11.1: Zustimmung zum Durchführungsvertrag im Bereich des vorhabenbezogenen Bebauungsplan 01.22 "Östliche Pingsdorfer Straße/Waldorfer Straße" - (kein Text vorhanden)
+- TOP 11.2: Bebauungsplan 01.22 “Östlich Pingsdorfer Straße / Waldorfer Straße“ - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 12.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 12.1: Ertüchtigung der Entwässerung des Südfriedhofs in Brühl mit Errichtung eines Versickerungsbeckens
+- TOP 12.1.1: Außerplanmäßige Mittelbereitstellung für die Ertüchtigung des Südfriedhofs in Brühl mit Errichtung eines Versickerungsbeckens - (kein Text vorhanden)
+- TOP 12.2: Zuwendungen des Landes NRW im Rahmen des „Helferprogramm für die Ganztags- und Betreuungsangebote“ - (kein Text vorhanden)
+- TOP 12.3: Außerplanmäßige Mittelbereitstellung für die Neuerrichtung der Dirt-Bike-Anlage
+- TOP 12.3.1: Außerplanmäßige Mittelbereitstellung für die Neuerrichtung der Dirt-Bike-Anlage Bezug: Vorlagen-Nr. 227/2022, SpA 05.05.2022, HA 23.05.2022 - (kein Text vorhanden)
+- TOP 12.4: Überplanmäßige Mittelbereitstellung für die GGS Astrid-Lindgren - (kein Text vorhanden)
+- TOP 12.5: Überplanmäßige Mittelbereitstellung für die Sanierung des Gebäudes auf dem ehemaligen Friedhof Kierberg - (kein Text vorhanden)
+- TOP 12.6: Verkehrsoptimierung Brühl West - (kein Text vorhanden)
+- TOP 12.7: Überplanmäßige Mittelbereitstellung für die Brückenbauwerke E03, E04 & E06 sowie die Ertüchtigung des RÜ Hennebach - (kein Text vorhanden)
+- TOP 12.8: Überplanmäßige Mittelbereitstellung für die Ertüchtigung des Versickerungsbeckens – An der Zuckerfabrik (Hedwig-Gries-Straße) - (kein Text vorhanden)
+- TOP 12.9: Beschluss einer ÜPL zur Wahrnehmung der Fördergelder des Förderprogramms zur Digitalen Ausstattungsoffensive von allgemeinbildenden Schulen an sozial benachteiligten Standorten - (kein Text vorhanden)
+- TOP 12.10: Überplanmäßige Mittelbereitstellung für die Gartenstraße 6 - (kein Text vorhanden)
+- TOP 13.: Entwurf des Jahresabschlusses 2021 - (kein Text vorhanden)
+- TOP 14.: Jahresabschluss 2021 der Gebausie - (kein Text vorhanden)
+- TOP 15.: Unterstützung der Initiative "Fußballvereine gegen Rechts" in Brühl durch Anbringung der Schilder "Kein Platz für Rassisums und Gewalt - www.fussballvereine-gegen-rechts.de" Bezug: Antrag der CDU-Fraktion vom 27.01.2022, Vorlagen-Nr. 44/2022 - (kein Text vorhanden)
+- TOP 16.: Anträge
+- TOP 16.1: Kooperationsvereinbarung mit den Nachbarkommunen/-kreisen zur Streckenplanung einer Radpendlerroute Bonn – Köln Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 21.03.2022 - (kein Text vorhanden)
+- TOP 16.2: Umstellung des Zeitungs- und Zeitschriftenbezugs der Stadt Brühl von Papierform auf digitale Formate sowie Verzicht auf Druckwerke für die Mitglieder politischer Gremien Bezug: Antrag der CDU-Fraktion vom 06.05.2022 - (kein Text vorhanden)
+- TOP 16.2.1: Umstellung des Zeitungs- und Zeitschriftenbezugs der Stadt Brühl von Papierform auf digitale Formate sowie Verzicht auf Druckwerke für die Mitglieder politischer Gremien Bezug: Antrag der CDU-Fraktion vom 06.05.2022, Vorlagen-Nr. 237/2022, HA 23.05.2022
+- TOP 16.3: Einrichtung eines Seniorenbeirates Bezug: Antrag der CDU-Fraktion vom 26.04.2022 - (kein Text vorhanden)
+- TOP 17.: Umbesetzung in Ausschüssen
+- TOP 17.1: Umbesetzung Schulausschuss hier: Vertretung der Erich Kästner-Realschule - (kein Text vorhanden)
+- TOP 17.2: Umbesetzung in Ausschüssen Bezug: Antrag der AfD-Fraktion vom 27.05.2022 - (kein Text vorhanden)
+- TOP 17.3: Umbesetzung in Ausschüssen Bezug: Antrag der Grünen-Fraktion vom 05.06.2022 - (kein Text vorhanden)
+- TOP 17.4: Berufungen für den Vergabe- und Liegenschaftsausschuss hier: mündlich gestellter Antrag
+- TOP 18.: Überörtliche Prüfung durch die Gemeindeprüfungsanstalt NRW (gpaNRW) - (kein Text vorhanden)
+- TOP 19.: Förderantrag Bundesprogramm "Anpassung urbaner Räume an den Klimawandel" - (kein Text vorhanden)
+- TOP 20.: Mitteilungen
+- TOP 21.: Anfragen
+- TOP 21.1: Durchfahrt Brühl-Mitte
+- TOP 21.2: Radstation
+- TOP 21.3: Agenda-Markt
+- TOP 21.4: Integrationspreis
+- TOP 21.5: Antrags- und Beschlusskontrolle
+- TOP 21.6: Park & Ride Brühl-Süd
+- TOP 21.7: Defibrilatoren
+- TOP 21.8: Nutzungsvereinbarung für das CAF
+- TOP 21.9: AK Digitalisierung
+- TOP 21.10: Zukunftsworkshop Schwadorf
+- TOP 21.11: Parkhaus Bleiche
+- TOP B): Nichtöffentliche Sitzung
+- TOP 22.: Förderantrag Bundesprogramm „Anpassung urbaner Räume an den Klimawandel“
+- TOP 23.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 23.1: Dringlichkeitsentscheidung zur Beauftragung eines externen Personalbüros zur Nachbesetzung der Stelle des Technischen Beigeordneten - (kein Text vorhanden)
+- TOP 24.: Mitteilungen
+- TOP 25.: Anfragen
+- TOP 25.1: Rufbereitschaft im städtischen Integrationszentrum KOMM MIT Bezug: Anfrage Ratsherr Harry Hupp vom 19.05.2022
