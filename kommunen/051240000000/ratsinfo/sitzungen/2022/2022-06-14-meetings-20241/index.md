@@ -1,0 +1,100 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-06-14T16:06:00+02:00
+- Ende: 2022-06-14T18:16:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20241
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20241
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (07.06.22) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00293314.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00294732.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss und Lagebericht 2019 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Aufsichtsrates der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2021 der AWG Abfallwirtschaftsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.4.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 1.5.1: Entlastung des Aufsichtsrates der Wuppertal Marketing GmbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2021 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2021 der GWG Gemeinnützige Wohnungsbaugesellschaft mbH und Konzern GWG - ungeändert beschlossen
+- TOP 1.7.1: Entlastung des Aufsichtsrates der GWG Gemeinnützige Wohnungsbaugesellschaft mbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss und Konzernabschluss 2021 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.8.1: Jahresabschluss 2021 - Entlastung des Aufsichtsrates der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss 2021 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.9.1: Jahresabschluss 2021 - Entlastung des Aufsichtsrates der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss 2021 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.10.1: Jahresabschluss 2021- Entlastung des Aufsichtsrates der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.11: Jahresabschluss 2021 der Windpark Kahlenberg II GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.12: Jahresabschluss 2021 der Windkraft Kahlenberg III GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.13: Jahresabschluss 2021 der BinnenWind GmbH - ungeändert beschlossen
+- TOP 1.14: Jahresabschluss 2021 der BinnenWind Windpark Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.15: Jahresabschluss 2020 der Windpark Westpfalz Risk Management RMG GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.16: Jahresabschluss 2021 der GWH Gemeinschaftswerk Hattingen GmbH - ungeändert beschlossen
+- TOP 1.17: Jahresabschluss 2021 der GKE Gesellschaft für kommunale Entsorgungsdienstleistungen mbH - ungeändert beschlossen
+- TOP 1.18: Jahresabschluss 2021 der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.19: Jahresabschluss 2021 der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 1.20: Jahresabschluss 2021 der Bliggit GmbH - ungeändert beschlossen
+- TOP 1.21: Jahresabschluss 2021 der PD - Berater der öffentlichen Hand GmbH - ungeändert beschlossen
+- TOP 1.22: Jahresabschluss 2021 Wendepunkt - Wuppertaler Krisendienst gGmbH - vertagen
+- TOP 1.23: Jahresabschluss 2021 der Neue Effizienz gemeinnützige GmbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2022/2023 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan 2022 der Wendepunkt - Wuppertaler Krisendienst gGmbH - vertagen
+- TOP 2.3: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2022/2023 - ungeändert beschlossen
+- TOP 2.4: Wirtschaftsplan 2022 der Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Beteiligungsbericht 2020 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3.2: Altfahrzeugverwertung des Eigenbetrieb Straßenreinigung Wuppertal (ESW) - vertagen
+- TOP 3.3: Änderung des Gesellschaftsvertrages der NRW.Urban Kommunale Entwicklung GmbH - ungeändert beschlossen
+- TOP 3.4: Neufassung der Betriebsatzung der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Bericht zur Personal- und Organisationsentwicklung 2021 - Entgegennahme ohne Beschluss
+- TOP 5.1.1: Schaffung eines Schulungszentrums zur Erhöhung der Zahl an Ausbildungsplätzen - abgelehnt
+- TOP 5.2: Gesundheitsbericht 2021 - Entgegennahme ohne Beschluss
+- TOP 5.3: Sachstandsbericht Moderne Arbeitsorganisation - Entgegennahme ohne Beschluss
+- TOP 5.4: Sachstandsbericht zur Grundsteuerreform - Entgegennahme ohne Beschluss
+- TOP 5.5: Überprüfung der Vergaberegelungen und -prozesse - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Fortschreibung der Digitalisierungsstrategie der Stadtverwaltung Wuppertal (digiTal 2026) - Entgegennahme ohne Beschluss
+- TOP 6.2: Fortführung des Kompetenzzentrums Frau und Beruf Bergisches Städtedreieck - ungeändert beschlossen
+- TOP 6.3: 2. Sachstandsbericht Sanierung Schloss Burg a/d Wupper - Entgegennahme ohne Beschluss
+- TOP 6.4: Durchführungsbeschluss - Wiederherstellung und Sanierung der Bühnentechnik im Opernhaus nach dem Hochwasserschaden 2021 - ungeändert beschlossen
+- TOP 6.5: Sanierung des städtischen Freibades Mählersbeck - Kostenneufestsetzung und veränderte Umsetzung - ungeändert beschlossen
+- TOP 6.6: Sozialer Zusammenhalt Heckinghausen/Langerfeld-West: Beschluss über das Integrierte Städtebauliche Entwicklungskonzept (ISEK) für eine neue Förderphase - ungeändert beschlossen
+- TOP 6.7: Sozialer Zusammenhalt Oberbarmen/ Wichlinghausen: Beschluss über das Integrierte, städtebauliche Entwicklungskonzept (ISEK) für eine neue Förderphase - ungeändert beschlossen
+- TOP 6.8: Stadion am Zoo - Erneuerung des Rasenspielfeldes und Altlastensanierung (Einbau einer Kunststoffdichtungsbahn) - ungeändert beschlossen
+- TOP 6.9: Umfeldgestaltung Berliner Platz - ungeändert beschlossen
+- TOP 6.10: Sanierung Stützmauer Neviandtstraße - ungeändert beschlossen
+- TOP 6.11: Sicherung des Hanges an der Friedrich-Ebert-Straße - ungeändert beschlossen
+- TOP 6.12: Vorzeitige Ausübung der Beendigungsoption der US-Leasing Transaktion für das Müllheizkraftwerk der AWG in Wuppertal - ungeändert beschlossen
+- TOP 6.13: Anmietung des Objektes Schleichstraße 161, 42283 Wuppertal - ungeändert beschlossen
+- TOP 6.14: Auflösung der Delphin Vermögensverwaltung GmbH & Co. KG und der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 6.15: Abschluss Kauf- und Erbbaurechtsvertrag betreffend das Grundstück Wiesenstraße 118 und 120 - ungeändert beschlossen
+- TOP 6.16: Durchführung Neugestaltung Werth - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Finco-Berichte zum 30.04. und 31.05.2022 - Entgegennahme ohne Beschluss
+- TOP 8.2: Stand der Investitionen- und Kassenkredite zum 31.03.2022 - Entgegennahme ohne Beschluss
+- TOP 8.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 8.4: Bericht zum Urteil des OVG Münster zu den Abwassergebühren - ungeändert beschlossen
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: 2. Aktualisierung des Haushaltsplan-Entwurfes 2022/2023 - Entgegennahme ohne Beschluss
+- TOP 9.2: Feststellung des Jahresabschlusses 2020 der Stadt Wuppertal - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Stadtentwässerung - Maßnahmenkatalog 20023/Katalogentwurf 2024 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
