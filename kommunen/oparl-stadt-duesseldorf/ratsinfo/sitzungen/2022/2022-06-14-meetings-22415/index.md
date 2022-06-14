@@ -1,0 +1,65 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-14T17:00:00+02:00
+- Ende: 2022-06-14T20:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22415
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22415
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452675.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452675.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452675.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von Mitgliedern der Bezirksvertretung 3
+- TOP 2: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 10.05.2022 - abweichend beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Präsentation der Kriminalitäts- und Unfallstatistik 2021 (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5.2: Vorstellung Kinder- und Jugendförderplan 2021 - 2025 (mdl. Bericht Verwaltung) - zur Kenntnis genommen
+- TOP 5.3: Tempo 30 Merowinger Straße - zur Kenntnis genommen
+- TOP 5.4: Prozessstruktur Beteiligung Nahverkehrsplanung - zur Kenntnis genommen
+- TOP 5.5: Schulwegsicherung - Merkurstraße / Dahlacker - einstimmig beschlossen
+- TOP 5.6: Zuschuss an den Düsseldorfer Segler Verein e. V. - einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Bebauungsplan-Vorentwurf Nr. 03/036 - Östlich Christophstraße - einstimmig beschlossen
+- TOP 6.2: Siegburger Straße 149 - Umbau Bestandsgebäude, Neubau Mensa, Sporthalle und Klassenräume - Joseph-Beuys-Gesamtschule - Empfehlung einstimmig beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Bezirklicher Bauunterhaltung - Haushaltsjahr 2022 Stadtbezirk 3 - Liste A Schulen - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2022 - abweichend beschlossen
+- TOP 7.3: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.2: Stellplätze für Fahrräder auf der Fleher Str. / In der Hött (Anfrage Fraktionen BÜNDNIS 90 / DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 8.1.3: Radweg Fleher Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.4: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.5: Unfallzahlen zu ZweiradfahrerInnen (Anfrage SPD-Fraktion) - vertagt
+- TOP 8.1.6: Neugestaltung des südlichen Kirchplatzes - Kinderspielplatz hinter der Kirche (Anfrage CDU-Fraktion) - vertagt
+- TOP 8.1.7: Umbau und Steuerung der Lichtzeichenanlage am Fuß- und Radweg im Kreuzungsbereich Düssel- und Neusser Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.8: Prüfung des Neubaus von Quartiersgaragen (Anfrage CDU-Fraktion) - zur Kenntnis genommen
+- TOP 8.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Bürgerbeteiligung Kirchplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 9.3: Arabische Straßenschilder (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - mehrheitlich beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Kardinal-Frings-Brücke / Brücke Aderkirchweg - zur Kenntnis genommen
+- TOP 10.2: Anwohnerparken Himmelgeister Straße- westlich der Uni-Kliniken - zur Kenntnis genommen
+- TOP 10.3: Prüfung der möglichen Integration der Fährstraße und Volmerswerther Straße in 30er Zone - zur Kenntnis genommen
+- TOP 10.4: Modellversuch Tempo 30 auf der Corneliusstraße - zur Kenntnis genommen
+- TOP 10.5: Sicherer Gehweg Feuerbachstraße - vertagt
+- TOP 10.6: Platz für Kinder und Kommunikation - Errichtung von "Spielstraßen" im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
