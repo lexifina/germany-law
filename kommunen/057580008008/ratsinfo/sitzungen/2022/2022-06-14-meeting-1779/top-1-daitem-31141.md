@@ -1,0 +1,6 @@
+# TOP 1.: Bestimmung eines Ausschussmitgliedes zur Mitunterzeichnung der Niederschrift
+
+- Sitzung: Umweltausschuss (3. Sitzung) (2022-06-14)
+- Körperschaft: Stadt Enger
+- Öffentlich: ja
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/31141
