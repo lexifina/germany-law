@@ -1,0 +1,79 @@
+# 11. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-06-14T16:15:00+02:00
+- Ende: 2022-06-14T19:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12503
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12503
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00510366.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Öffentlichkeitsbeteiligung - losbasierte Bürger:innenräte
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Errichtung einer 3. städtischen Gesamtschule in Münster-Roxel - einstimmig beschlossen
+- TOP 11: Neuordnung der Dezernatsverteilung und Teilung des Rechts- und Ausländeramtes - einstimmig geändert beschlossen
+- TOP 11.1: Neuordnung der Dezernatsverteilung und Teilung des Rechts- und Ausländeramtes
+- TOP 12: Änderung der Verordnung über die Beförderungsentgelte und -bedingungen für die von der Stadt Münster zugelassenen Taxen - einstimmig beschlossen
+- TOP 13: Satzung zur Änderung der Hauptatzung, Satzung zur Änderung der Satzung für den Jugendrat, Änderung der Zuständigkeitsordnung und Geschäftsordnung für den Rat etc. zur neuen Rechtslage des § 24 GO für KSVM, Jugendrat und KIB - einstimmig beschlossen
+- TOP 13.1: Satzung zur Änderung der Hauptatzung, Satzung zur Änderung der Satzung für den Jugendrat, Änderung der Zuständigkeitsordnung und Geschäftsordnung für den Rat etc. zur neuen Rechtslage des § 24 GO für KSVM, Jugendrat und KIB
+- TOP 14: Abschlussbericht zum Gleichstellungsplan 2018 - 2022 - zur Kenntnis genommen
+- TOP 15: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2021 - einstimmig beschlossen
+- TOP 16: Wohn + Stadtbau GmbH (W+S): Entschädigung für die Tätigkeit von Aufsichtsratsmitgliedern - mehrheitlich beschlossen
+- TOP 17: Entwurf des Jahresabschlusses zum 31.12.2021 der Stadt Münster - Ergebnis und wesentliche Zahlen - zur Kenntnis genommen
+- TOP 18: Neufassung der Geschäftsanweisung zu den Regelungen der Finanzbuchhaltung für die Stadt Münster - zur Kenntnis genommen
+- TOP 19: Ergebnisbericht der wissenschaftlichen Studie über die Zukunftsperspektiven des FMO - zur Kenntnis genommen
+- TOP 20: Wohnbaulandentwicklung bis zum Jahr 2030 – Fortschreibung des Baulandprogramms - von der Tagesordnung abgesetzt
+- TOP 21: Klimagerechte Stadtentwicklung: Verpflichtung zur Installation von Solaranlagen - einstimmig beschlossen
+- TOP 22: Klimagerechte Stadtentwicklung: Wärmeversorgung der neuen Baugebiete in Münster - mehrheitlich beschlossen
+- TOP 23: Klimagerechte Stadtentwicklung - mehrheitlich beschlossen
+- TOP 24: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2021 - einstimmig beschlossen
+- TOP 25: Innenstadt stärken: MikroKiez Martiniviertel, Landeswettbewerb Zukunft StadtRaum - zur Kenntnis genommen
+- TOP 26: Ludwig-Erhard-Berufskolleg – Auflösung des Teilstandortes am Schulzentrum Roxel - einstimmig beschlossen
+- TOP 27: Schulpsychologische Förderangebote; hier: Neufassung der Satzung und Entgeltordnung - einstimmig beschlossen
+- TOP 28: Änderung der Schulformbezeichnung der Helen-Keller-Schule von "Schule für Kranke der Stadt Münster" zu "Klinikschule der Stadt Münster" - einstimmig beschlossen
+- TOP 29: Melanchthonschule: Errichtungs- und Baubeschluss Containeranlage - einstimmig beschlossen
+- TOP 30: Kindertagesbetreuungsbericht 2022 - zur Kenntnis genommen
+- TOP 31: Umsetzung Konzept zum weiteren Umgang mit Kriegerdenkmalen - Aufstellung Informations-Stelen an Kriegerdenkmalen und zur Erinnerung an das ehemalige Denkmal Westfälischer Frieden - mehrheitlich geändert beschlossen
+- TOP 32: Errichtungsbeschluss für einzelne Gebäude des ehemaligen Heerde-Kollegs am Hoppengarten - einstimmig beschlossen
+- TOP 33: Zwischenbericht zum Forschungsprojekt „Gedenken an die verfolgten Homosexuellen und vergessenen Opfergruppen der NS-Zeit sowie der Nachkriegsjahrzehnte“ (Ratsbeschluss v. 19.3.2021) und Ausblick - einstimmig beschlossen
+- TOP 33.1: Zwischenbericht zum Forschungsprojekt „Gedenken an die verfolgten Homosexuellen und vergessenen Opfergruppen der NS-Zeit sowie der Nachkriegsjahrzehnte“ (Ratsbeschluss v. 19.3.2021) und Ausblick
+- TOP 34: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2020/2021 - einstimmig beschlossen
+- TOP 34.1: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2020/2021
+- TOP 35: Feststellung der Jahresabschlüsse 2021 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 36: Sanierungskonzept städt. Brunnen- und Wasserspiele - einstimmig beschlossen
+- TOP 36.1: Sanierungskonzept städt. Brunnen- und Wasserspiele
+- TOP 37: Erweiterung Annette-von-Droste-Hülshoff-Schule Angelmodde zur 3-Zügigkeit - einstimmig beschlossen
+- TOP 37.1: Erweiterung Annette-von-Droste-Hülshoff-Schule Angelmodde zur 3-Zügigkeit
+- TOP 38: Münsterland-S-Bahn: Haltepunkte entlang der WLE-Strecke auf dem Stadtgebiet Münster - einstimmig beschlossen
+- TOP 39: Bauleitplanung
+- TOP 39.1: Stadtbezirk Münster-Südost
+- TOP 39.1.1: 1. Änderung des Bebauungsplans Nr. 378 im Bereich des neuen WLE-Haltepunkts "Loddenheide" - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 39.1.2: Bebauungsplan Nr. 629: Wolbeck - Hiltruper Straße / Neuer WLE-Haltepunkt "Wolbeck" - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 39.1.3: Satzung gemäß § 34 BauGB für den Bereich "Angelmodde - Hiltruper Straße / Westlich Am Sandbach" - von der Tagesordnung abgesetzt
+- TOP 39.2: Stadtbezirk Münster-West
+- TOP 39.2.1: 120. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 631 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 40: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 40.1: Resolution: Gute Arbeitsbedingungen sind bessere für alle: Münster fordert Entlastung für die Beschäftigten an den Unikliniken - einstimmig beschlossen
+- TOP 41: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 41.1: Gewalt gegen Frauen und häusliche Gewalt bekämpfen - Die Istanbul Konvention auf kommunaler Ebene umsetzen - verwiesen
+- TOP 41.2: Barrierefreiheit in Münster fördern! - verwiesen
+- TOP 41.3: Energieverbräuche und Baukosten im Blick – Architektenwettbewerbe an den Stand der Technik anpassen - verwiesen
+- TOP 41.4: International Welcome Desk - verwiesen
+- TOP 41.5: Nachfolge im Beirat für Stadtgestaltung - von der Tagesordnung abgesetzt
+- TOP 42: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 42.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 43: Verschiedenes
