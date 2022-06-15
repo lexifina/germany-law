@@ -1,0 +1,116 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2022-06-15T17:00:00+02:00
+- Ende: 2022-06-15T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5982
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5982
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 3: Wahl eines stellv. Schriftführers / einer stellv. Schriftführerin in den Vorstand der BVV - gegenstandslos
+- TOP 4: Einwohnerfragestunde - (offen)
+- TOP 4.1: Drehgenehmigung für Fußballspiele - schriftlich beantwortet
+- TOP 4.2: Reinickendorf auf dem Weg zum Rechts-losen Bezirk? - schriftlich beantwortet
+- TOP 4.3: Landeanflüge nach Schönefeld direkt über Wittenau - schriftlich beantwortet
+- TOP 4.4: Gemeinnützige Nutzung des Geländes in der Genfer Straße - schriftlich beantwortet
+- TOP 4.5: Bereiche des Grabelandes Trepliner Weg - beantwortet
+- TOP 4.6: Grundstück "Altes Wasserwerk Tegel" - beantwortet
+- TOP 4.7: "Montagsdemos" in Tegel - beantwortet
+- TOP 4.8: Verkehrsberuhigung sowie Förderung des Radverkehrs im Waldseeviertel - beantwortet
+- TOP 4.9: Leih-E-Scooter Mikado - beantwortet
+- TOP 4.10: Sternhäuser - schriftlich beantwortet
+- TOP 4.11: Münchhausen Grundschule Filiale 2 - schriftlich beantwortet
+- TOP 5: Konsensliste - (offen)
+- TOP 5.1: Konsensliste für die 9. Sitzung der BVV am 15.06.2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Mündliche Anfragen - (offen)
+- TOP 6.1: Illegale Plakatierung an Bäumen - beantwortet
+- TOP 6.2: Fahrstuhl in der Jugendfreizeiteinrichtung Fuchsbau - beantwortet
+- TOP 6.3: Verkehrssicherheit Heinsestraße - beantwortet
+- TOP 6.4: Beschaffung von "Gelben Säcken" zur Mülltrennung - beantwortet
+- TOP 6.5: Bezirkskasse - beantwortet
+- TOP 6.6: Querungshilfe auf der Treuenbrietzener Straße - beantwortet
+- TOP 6.7: Alter Bernauer Heerweg - beantwortet
+- TOP 6.8: Reparatur des Fahrstuhls im Rathaus Reinickendorf - beantwortet
+- TOP 6.9: Autofreier Tag - beantwortet
+- TOP 6.10: Berlins Hunderegister, wird Reinickendorf Hundebesitzer verfolgen? - beantwortet
+- TOP 6.11: Kabelverlegungen zwischen den S-Bahnhöfen Schönholz und Tegel - beantwortet
+- TOP 6.12: Kinderhospiz im Bezirk Reinickendorf - schriftlich beantwortet
+- TOP 6.13: Reparatur Rathausfahrstuhl - beantwortet
+- TOP 6.14: PV - Anlagen auf öffentlichen Dächern - schriftlich beantwortet
+- TOP 6.15: Beschädigungen am Ludolfingerplatz und Zeltinger Platz - schriftlich beantwortet
+- TOP 6.16: Dialog Display Schulzendorfer Straße in Hermsdorf - schriftlich beantwortet
+- TOP 7: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7.1: Übernahme der Unterhaltung der zukünftigen Hochwasserschutzanlage im Bereich ehemaliger Mäckeritzgraben durch den Bezirk (Beschlussempfehlung) - vertagt
+- TOP 7.2: Hochwasserschutz in den Mäckeritzwiesen (Beschlussempfehlung) - vertagt
+- TOP 7.3: Wahl der Patientenfürsprechenden für die Kliniken im Bezirk Reinickendorf (Vorlage zur Beschlussfassung) - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Gesund ohne Zwang (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 7.5: Abschaffung des Hunderegisters in Berlin (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 7.6: Kolonie Neuland 1 - Kein Wildparken mehr! (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Schrottautos schneller aus dem Straßenland entfernen (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 8: Feststellungen - (offen)
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Reinickendorfer Extremismusbericht - vertagt
+- TOP 9.2: Aktivierung vom OParl Modul für Allris - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Gestörte Lieferketten, Russlandsanktion, Inflation und Energiekosten: Wie geht es der Reinickendorfer Wirtschaft aktuell? - beantwortet
+- TOP 10.2: Auswirkungen von Inflation, gestiegenen Lebenshaltungskosten und hohen Energiepreisen auf Privathaushalte in Reinickendorf - vertagt
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2020 - überwiesen
+- TOP 12: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 12.1: Pflegeeinrichtung und seniorengerechte Wohnungen auf dem KBoN-Gelände gemeinsam entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Hilfe für die Menschen rund um das KaBoN Gelände - erledigt
+- TOP 12.3: Stärkung von nichtdeutschen Erstsprachen (Muttersprachen) in der Kita - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Beleuchtung für Tegeler Wahrzeichen an der Greenwichpromenade - vertagt
+- TOP 12.5: Sperrmüllabholung aus Wohnungen wieder aufnehmen - erledigt
+- TOP 12.6: Klimagerechtigkeitsrat für Reinickendorf - vertagt
+- TOP 12.7: Errichtung von Parkbänken Klötzesteig/Ecke Wittenauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Rettungsringe am Schäfersee - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Öffentliche Toilette im Dorfkern Lübars "begrünen" - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: "Grünfläche" an der Greenwichpromenade in Tegel wieder zu einer Grünfläche machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Gründung einer Partnerschaft zwischen Reinickendorf und einer Ukrainischen Gemeinde - vertagt
+- TOP 12.12: Mülleimer vor dem Rathaus erneuern - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Historischen Schinkelbrunnen in Alt-Tegel instandsetzen und wieder in Betrieb nehmen. - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Bewilligung von Sondermitteln der BVV für das Jahr 2022 - Verein der Freunde KITA Igelkiste e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Anträge - (offen)
+- TOP 14: Ersuchen - (offen)
+- TOP 14.1: Kreuzung Waidmannsluster Damm/Ziekowstraße sicherer gestalten - überwiesen
+- TOP 14.2: Den Pilz als Frohnauer Wahrzeichen umgehend instand setzen - überwiesen
+- TOP 14.3: Burgfrauenstraße II - überwiesen
+- TOP 14.4: Mehr Sicherheit im Dunkeln auf dem Saalmannsteig - überwiesen
+- TOP 14.5: Schleichweg verhindern - überwiesen
+- TOP 14.6: Moderne Ladeinfrastruktur für leichte e-Mobility - überwiesen
+- TOP 14.7: Gruppentherapieraum für die Erziehungs- und Familienberatung Reinickendorf - überwiesen
+- TOP 14.8: Mittel für dezentrale Kulturarbeit - überwiesen
+- TOP 14.9: Tempo 30 in der Straße "Am Dachsbau" in Heiligensee - überwiesen
+- TOP 14.10: Kostenlose Menstruationsartikel in Schulen und anderen öffentlichen Gebäuden - überwiesen
+- TOP 14.11: Mehr Aufenthaltsqualität für den Borsigplatz in Heiligensee - überwiesen
+- TOP 14.12: Städtepartnerschaft mit Polen - überwiesen
+- TOP 14.13: Das denkmalgeschützte Alt-Lübars umfahren! - überwiesen
+- TOP 14.14: Baumstammbarriere am "Tivoli" ersetzen - überwiesen
+- TOP 14.15: Radweg in der Humboldtstraße sanieren - überwiesen
+- TOP 14.16: Grünanlage "Im Erpelgrund" schöner gestalten - überwiesen
+- TOP 14.17: Grüner Mittelstreifen Aroser Allee I - Sitzbänke - überwiesen
+- TOP 14.18: Grüner Mittelstreifen Aroser Allee II - Bepflanzung - überwiesen
+- TOP 14.19: Qualitative Aufwertung des Wanderweges Tegeler Fließtal im Bereich Mühlenfeldstraße - überwiesen
+- TOP 14.20: Sondergenehmigungen für erweiterte Schankvorgärten für die Gastronomie in Reinickendorf verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 15: Empfehlungen - (offen)
+- TOP 15.1: Strandbad Tegelsee dauerhaft anfahren - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Öffentliche Toilette auf dem Falkenplatz in Konradshöhe - überwiesen
+- TOP 15.3: Burgfrauenstraße I - überwiesen
+- TOP 15.4: Mauerweg zwischen Nordbahn und Pankow-Park ausbauen - überwiesen
+- TOP 15.5: Förderung eines Solarenergie-Clusters in der Urban-Tech-Republic - überwiesen
+- TOP 15.6: Anbindung an die Heidekrautbahn - überwiesen
+- TOP 15.7: Warnsirenen für Reinickendorf - überwiesen
+- TOP 15.8: City-Toilette am Franz-Neumann-Platz - vom grauen Betonklotz zum künstlerischen Hingucker - überwiesen
+- TOP 15.9: Schilder "Kein Müll abladen" am Elchdamm in Heiligensee - überwiesen
+- TOP 15.10: Elektrokleinbusse für Randortsteile einsetzen - überwiesen
