@@ -1,0 +1,6 @@
+# TOP 5.: Beschlusskontrolle
+
+- Sitzung: Betriebsausschuss (4. Sitzung) (2022-06-15)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/74539
