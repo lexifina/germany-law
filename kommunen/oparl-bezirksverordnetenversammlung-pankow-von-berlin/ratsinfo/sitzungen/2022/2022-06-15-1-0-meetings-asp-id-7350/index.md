@@ -1,0 +1,143 @@
+# 7. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2022-06-15T17:30:00+02:00
+- Ende: 2022-06-15T21:40:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7350
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7350
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=260660
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Bürgerbeteiligung für drei Pankower Stadtplätze - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Wegfall von Pkw-Stellplätzen in der Grellstraße - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl von Mitgliedern des Kuratoriums der Seniorenstiftung Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Wahl eines Mitgliedes der Seniorenvertretung in den Vorstand der Albert-Schweitzer-Stiftung - Wohnen & Betreuen - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Das Landschaftsschutzgebiet Schönholzer Heide und Bürgerpark vor Schäden durch Parken und Befahren schützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Umbenennung der Robert-Rössle-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Aktionstag der Pankower Schulen zur Personalgewinnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Radhäuser für Pankow - in der BVV abgelehnt
+- TOP 1.14: Unfälle an der Blankenburger Chaussee in Karow vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Online Lieferdienste kontrollieren – Beschäftigte schützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Angebote des Familienservicebüros ausweiten und mobile Sprechstunden ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Sozialer Städtebau an der Elisabeth-Aue - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Kurzfristige Maßnahmen in der Wackenbergstraße endlich umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Besonderes Vorkaufsrecht prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Die Anwendung des Allgemeinen Vorkaufsrechts vorbereiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Weiterentwicklung Brennerberg (Tiroler Viertel) - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: KiezKlub Pankow auf dem Andreas-Hofer-Platz unterbringen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Keine Autos auf dem Fußweg in Niederschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Beliebte Aussichtsplattform im Werner-Klemke-Park: Sanierung statt Abriss - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Tankstellenausfahrt an der Prenzlauer Promenade sichern - in der BVV abgelehnt
+- TOP 1.26: Eine Toilette für den Ballspielplatz Hanns-Eisler-Straße 6 im Mühlenkiez! - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Logistik auf die Schiene - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Fußweg in der Garibaldistraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Pankow tritt Projekt GOOD BIKES bei – ein neues Leben für Schrotträder - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Pankow unterstützt die Initiative BerlinerBäumeWässerer - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Behutsame Entwicklung der Elisabethaue - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Orientierung für Menschen mit Sehbehinderungen im Bezirksamt verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Radverkehrsanlagen auf der Grabbeallee einrichten - in der BVV abgelehnt
+- TOP 1.34: Elektroautos fördern, Ladeinfrastruktur in Pankow stärken! - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Berliner Straße vom Stau befreien - in der BVV abgelehnt
+- TOP 1.36: Push statt Pull: Mit KiezRadar zum direkten Draht zwischen Amt und Bürger:in - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Ampel Pasewalker Straße/Berliner Straße/Bahnhofstraße abschaffen - in der BVV abgelehnt
+- TOP 1.38: Baustellenampeln in der Triftstraße in Französisch Buchholz nachts abschalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Gewerbegebiete an die Schiene - in der BVV abgelehnt
+- TOP 1.40: Baumpatenschaften in Pankow einfach und verständlich ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Klare Kante für Protected Bike Lanes - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Projekteinheit Radwege auch für Pankow nutzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Beteiligung der BVV bei der Erarbeitung von Ziel- und Projektvereinbarungen im Rahmen der Verbesserung der gesamtstädtischen Steuerung - ohne Änderungen in der BVV beschlossen
+- TOP 1.44: Datenprojekt zur Schulwegsicherheit - ohne Änderungen in der BVV beschlossen
+- TOP 1.45: Personalgewinnung des Bezirksamt Pankow verbessern – Kooperationen schließen! - in der BVV abgelehnt
+- TOP 1.46: Schlaganfall-Einsatzfahrzeuge (StEMo) auch nach 2023 sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.47: Pankow zockt mit: Rahmenprogramm für die gamesweek Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.48: Vorhabenbezogener Bebauungsplan für Lilli-Henoch-Straße 10/12 - überwiesen
+- TOP 1.49: Durch Weiterentwicklung der Schulaußenfläche Freiräume für Schulkinder sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.50: Bebauungsplan 3-61: Transparentes Verfahren zur beschleunigten Festsetzung - ohne Änderungen in der BVV beschlossen
+- TOP 1.51: Den Mobilitätsmix im Pankower Norden verbessern – Angebote für Bürger schaffen! - überwiesen
+- TOP 1.52: E-Sport in Pankow - überwiesen
+- TOP 1.53: Realisierung eines Oberschulstandortes und von Wohnungsbau an der Lilli-Henoch-Straße 10/12, zwischen Prenzlauer Allee und Greifswalder Straße, Eisenbahn von S-Bahnhof Prenzlauer Allee nach S-Bahnhof Greifswalder Straße - überwiesen
+- TOP 1.54: Milieuschutz um den Weißen See - ohne Änderungen in der BVV beschlossen
+- TOP 1.55: AG ÖPNV neu beleben! - ohne Änderungen in der BVV beschlossen
+- TOP 1.56: Staatliche Notfallversorgung mit Wasser besser aufstellen – mehr Straßenbrunnen für Prenzlauer Berg, Weißensee und Pankow - überwiesen
+- TOP 1.57: Denkmalschutz für die Hobrechtsfelder Wirtschaftsbahn - überwiesen
+- TOP 1.58: Ein*e Queerbeauftragte*r in Pankow für mehr Selbstbestimmung und Akzeptanz geschlechtlicher und sexueller Vielfalt - überwiesen
+- TOP 1.59: Erhalt von Bäumen in Planungsgrundlagen verankern - überwiesen
+- TOP 1.60: Schulentwicklung in räumlichen Grenzen – Ermöglichungskultur entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 1.61: Projekt Laternen-Ladesäulen auch in Pankow - überwiesen
+- TOP 1.62: Haltemöglichkeiten für Busse - überwiesen
+- TOP 1.63: Klima-Miniwälder für Pankow – Pilotprojekt Pankow Nord - überwiesen
+- TOP 1.64: Bundesmittel für die Klimaanpassung in Pankow nutzen - überwiesen
+- TOP 1.65: Hitzehilfe in Pankow - Obdachlose Menschen in den heißen Sommermonaten endlich unterstützen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.66: Buswartehäuschen in Buch - überwiesen
+- TOP 1.67: Klima-Minwälder für Pankow – Pilotprojekt Pankow Ost - überwiesen
+- TOP 1.68: Namenswettbewerb für das Bildungs- und Integrationszentrum in Buch - überwiesen
+- TOP 1.69: Herthaplatz in neuem Glanz - ohne Änderungen in der BVV beschlossen
+- TOP 1.70: Aufgegebene Schulstandorte wiederbeleben – Rahmenbedingungen klären - vertagt
+- TOP 1.71: Informationsveranstaltung für ukrainische Geflüchtete und ihre Gastgeber:innen - vertagt
+- TOP 1.72: Straßenbahnen und Busse wirksam beschleunigen - vertagt
+- TOP 1.73: Knappe Ressourcen sinnvoll einsetzen – Fahrradstraßen priorisieren - überwiesen
+- TOP 1.74: Tennisclub Victoria Pankow e. V. retten - vertagt
+- TOP 1.75: Biotop Moorlinse Buch – Artenschutz und Klimaanpassung durch flächensparendes Bauen - vertagt
+- TOP 1.76: Sicher und trockenen Fußes zur Pinke-Panke! - überwiesen
+- TOP 1.77: Den Pankeradweg im Norden wieder vernünftig befahrbar machen - überwiesen
+- TOP 1.78: Gesetzlichen Arbeits- und Gesundheitsschutz von Beschäftigten auch in Pankow sichern - vertagt
+- TOP 1.79: Wohin zum Gassi gehen - ein Hundeauslaufkonzept für Pankow - vertagt
+- TOP 1.80: Radwegeverbindungen Französich Buchholz, Karow, Buch - überwiesen
+- TOP 1.81: Einrichtung einer Fußgängerquerung mit Lichtzeichenanlage an der Storkower Straße im Bereich der Hausnummern 129 und 137 - überwiesen
+- TOP 1.82: Mülleimer an der Landsberger Allee zwischen S-Bahnhof und Danziger Straße aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.83: Online-Formular für Artenschutz-Meldungen von Gebäudebrütern - überwiesen
+- TOP 1.84: Smarte Liefer- und Ladezonen für Pankow - überwiesen
+- TOP 1.85: Verringerung des Durchfahrtsverkehrs durch Anwohnerstraßen in Rosenthal - überwiesen
+- TOP 1.86: Verwirrung beim Fahrradweg an der Landsberger Allee auflösen — Sicherheit für Radfahrer und Fußgänger erhöhen! - überwiesen
+- TOP 1.87: Wasserqualität in Pankows stehenden Gewässern mit effektiven Mikroorganismen dauerhaft und nachhaltig verbessern - überwiesen
+- TOP 1.88: Das Pankower Gesundheitsamt wird Gesundheits-Informations-Hub - überwiesen
+- TOP 1.89: Wirksamer Schallschutz und Verkehrssicherheit in der Boenkestraße in Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.90: Ein integriertes Politikinformationssystem für alle Berliner Bezirke und das Abgeordnetenhaus von Berlin - vertagt
+- TOP 1.91: Grundstücksspekulation zulasten der Berliner zukünftig verhindern - vertagt
+- TOP 1.92: Sitzungskalender 2023 und 2024 - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Fahrradabstellanlage vor der Schwimmhalle im Ernst-Thälmann-Park neu gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Entwicklung eines Verkehrskonzepts für das Gewerbegebiet Niederschönhausen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Mit sicherem Schwung über die Kreuzung – Anlehnbügel/Festhaltebügel für Radfahrende in Pankow einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Güllweg sanieren, Befahrbarkeit mit dem Fahrrad verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Sicher durch die Mühlenstraße! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Pankow erklärt den Klimanotstand - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Gemeinschaftsschulstandort auf dem Ostgelände des „Pankower Tors“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Arbeit des Allgemeinen Ordnungsdienstes und von »OA-online« qualifizieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Weitere energetische Quartierskonzepte für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Mehr Platz für den Radverkehr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Dauerhafte Bewässerung des Lennè-Meyer-Ehrenmals sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Verkehrssicherheit im Bereich der Grell- und Hosemannstraße gewährleisten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Verkehrssicherheit an der Straßenbahnhaltestelle Berliner Allee / Falkenberger Straße erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Einrichtung von Aufgeweiteten Radaufstellstreifen in Pankow: Maximilianstraße/Mühlenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Information und Beteiligung im Zusammenhang mit kulturhistorischen Grabstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Leichter und sicher zur S-Bahn und Straßenbahn an der Haltestelle Landsberger Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Skateranlage im Bürgerpark freigeben - vertagt
+- TOP 2.18: Projekte „Housing First Berlin“ und „Housing First für Frauen“ stärken – neue Wohnungen in die Projekte integrieren! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Poller an Schulen kindgerecht installieren und verschönern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Klimafreundliche Lärmschutzwände an der Stettiner Bahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Resolution: Die BVV Pankow von Berlin verurteilt Anschläge auf Gotteshäuser - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Kampagne zu Verkehrsregeln in Fahrradstraßen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Fahrbahnmarkierungen auf der Anton-Saefkow-Straße in der Grünen Stadt entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Denkmalpflegeplan mit Bürger:innenbeteiligung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Gemeinschaftsschule am Standort des Kinderkrankenhauses Weißensee endlich umsetzen! - vertagt
+- TOP 2.26: Benennungsabsicht der Straße 6 im Ortsteil Buch in „Rosa-Coutelle-Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Benennungsabsicht der Straße 5 im Ortsteil Buch in „Ilse-Krause-Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Benennungsabsicht der Straße 7 im Ortsteil Buch in „Rose-Scheuer-Karpin-Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Anmeldung zur technischen Fortschreibung des Bezirks Pankow zum Investitionsprogramm 2022 bis 2026 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Ankauf öffentlicher Verkehrsflächen der Kastanienallee und der Schönhauser Straße, Gemarkung 110560, Flur 130, 131 mit den Flurstücken 384, 344, 290, 488, 490, 170, 208, 273, 450 mit insgesamt ca. 240 m², gelegen in Berlin-Pankow, Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Förderprogramm „Nachhaltige Erneuerung“ - Fördergebiet Buch - Fördergebiet Greifswalder Straße Förderprogramm „Lebendige Zentren und Quartiere“ - Fördergebiet Langhansstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Jahresabschlussergebnis 2021 für den Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
