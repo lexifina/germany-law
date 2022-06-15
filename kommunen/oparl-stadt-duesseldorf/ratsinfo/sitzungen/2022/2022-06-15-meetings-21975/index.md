@@ -1,0 +1,66 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-15T17:00:00+02:00
+- Ende: 2022-06-15T18:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21975
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21975
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 2022-06-15 BV6 digitales Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00453211.pdf
+- Ergebnisprotokoll: 2022-06-15 BV6 digitales Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00453211.pdf
+- Wortprotokoll: 2022-06-15 BV6 digitales Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00453211.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1.1: Bestellung einer Schriftführerin - einstimmig beschlossen
+- TOP 1.2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - vom 11. Mai 2022 - einstimmig beschlossen
+- TOP 3: Vortrag zur Jugendbefragung Rath
+- TOP -: Anfragen (wurden bereits versandt)
+- TOP 4: Anfrage der SPD-Fraktion: Zeitfenster der Umsetzung von beschlossenen Maßnahmen der Bezirksvertretung 6 - vertagt
+- TOP 5: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6 - vertagt
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen - vertagt
+- TOP 9: Anfrage der CDU-Fraktion: Gebäude Kalkumer Straße 1 und Kalkumer Straße 2, ff - beantwortet
+- TOP 10: Anfrage der SPD-Fraktion: Neubepflanzung "Unterrather Wald" - Airport City West - beantwortet
+- TOP -: Anfragen
+- TOP 11: Anfrage von Florian Ries (Fraktion Bündnis 90/Die Grünen): Ausstehendes Prüfungsergebnis einer Verkehrsberuhigung auf dem Cloppenburger Weg - vertagt
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Nachfrage zum Anliegen Vernachlässigung von Bausubstanz und Missachtung des Hochwasserschutzes in der Vonovia-Siedlung Mintarder Weg - vertagt
+- TOP 13: Anfrage der Fraktion BÜ90/Die Grünen: Münsterstraße - mögliche Lösungen für das Zuparken von Geh- und Radweg durch Lieferverkehre - vertagt
+- TOP 14: Anfrage des Ratsherrn Mielczarek (BÜ90/Die Grünen): Bedarf nach einem Bolzplatz in Lichtenbroich - vertagt
+- TOP -: Anträge
+- TOP 15: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines Fahrradschutzstreifens auf dem Thewissenweg - vertagt
+- TOP 16: Antrag der FDP-Fraktion: Einrichtung eines Schnullerbaumes auf dem Spielplatz Aaper Wald, Rather Steig, 40472 Düsseldorf - abweichend beschlossen
+- TOP 17: Antrag der Fraktion BÜ90/Die Grünen: Zaunkönigweg: Wohnnutzung ermöglichen, verträgliche Stadtplanung für unseren Bezirk einleiten - vertagt
+- TOP 18: Antrag der Fraktion BÜ90/Die Grünen: Freigabe der Brücke Herdecker Straße für den Radverkehr - abweichend beschlossen
+- TOP 19: Antrag der SPD-Fraktion: Fahrradschutzstreifen Eckener Straße - vertagt
+- TOP 20: Antrag der SPD-Fraktion: Kurvenlärm Unterrather Straße/Kalkumer Straße - einstimmig beschlossen
+- TOP 21: Antrag der SPD-Fraktion: Piktogramm Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 22: Antrag der SPD-Fraktion: Schließung Schwimmbad Unterrath - mehrheitlich abgelehnt
+- TOP 23: Antrag der CDU-Fraktion und der FDP-Fraktion: Nutzungskonzept für den Rather Schützenplatz - vertagt
+- TOP 24: Antrag der CDU-Fraktion: Installierung von Strom- und Wasseranschlüssen am Rather Careé - abweichend beschlossen
+- TOP 25: Antrag der Fraktion BÜ90/Die Grünen: Maßnahmen zur Einhaltung der Tempo 30 Regelung auf der Wilhelm-Raabe-Straße - abweichend beschlossen
+- TOP 26: Antrag der CDU-Fraktion: Optische Aufwertung der S-Bahnbrücke am Haltepunkt Rath Mitte - vertagt
+- TOP 27: Antrag der CDU-Fraktion: Installierung eines Trinkwasserspenders auf dem Spielplatz am "Rather Careé" - einstimmig beschlossen
+- TOP 28: Antrag der Fraktion BÜ90/Die Grünen: Prüfung einer Busverbindung zwischen Unterrath und Mörsenbroich im Rahmen der Aufstellung des Nahverkehrsplans - abweichend beschlossen
+- TOP 29: Antrag der Fraktion BÜ90/Die Grünen: Prüfantrag zur Neugestaltung des Angstraums unter der Brücke Borbecker Straße - abweichend beschlossen
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Lösungen für den Problembereich unter der Brücke Herdecker Straße - zurückgezogen
+- TOP 31: Antrag der BÜ90/Die Grünen: Anpassung des Umlaufgitters auf dem Tiefenbroicher Weg - abweichend beschlossen
+- TOP 32: Antrag der Fraktion BÜ90/Die Grünen: Überfällige Aufwertung im Bereich Bunker Rather Kreuzweg - vertagt
+- TOP 33: Antrag der CDU- Fraktion: Radwegmarkierung Heideweg im Abschnittsbereich Sankt-Franziskus-Straße bis Max-Halbe-Straße - einstimmig beschlossen
+- TOP 34: Antrag der CDU-Fraktion: Aufstellen von Tischtennisplatten an diversen Standorten - einstimmig beschlossen
+- TOP 35: Antrag der Fraktion BÜ90/Die Grünen: Handwerk statt neue Büros - Bebauungsplan Vorentwurf Großmarkt - vertagt
+- TOP 36: Antrag der BÜ90/Die Grünen: Angekündigte Schließung der Werke von Vallourec Deutschland – Einsatz für den Erhalt des Werks und Unterstützung für die Beschäftigten und ihre Familien - zurückgezogen
+- TOP -: Verwaltungsvorlagen
+- TOP 37: Zuschussvergabe 2022 Antrag St. Sebastianus Schützenverein Derendorf 1655 e.V. - Kindernachmittag auf dem Schützenfest - einstimmig beschlossen
+- TOP 38: Zuschussvergabe 2022 Antrag der JFE Ekkehardstraße - 2. DirtBike Rennen - einstimmig beschlossen
+- TOP 39: Zuschussvergabe 2022 Antrag der kath. Kirchengemeinde St. Franziskus Xaverius, Ortsgemeinde St. Josef - mehrheitlich beschlossen
+- TOP 40: Bauunterhaltungsmittel 2022 - Teil B - sonstige städtische Einrichtungen - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 41: Prozessstruktur Beteiligung Nahverkehrsplanung - zur Kenntnis genommen
+- TOP 42: Verschiedenes
