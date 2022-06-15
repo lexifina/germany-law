@@ -1,0 +1,55 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2022-06-15T17:55:00+02:00
+- Ende: 2022-06-15T19:46:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQYNl2lRuR6oMVFmittrrY8
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4348
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZau_t92hd_THh736dGR9NOhseLNP6jaLnQn9jd9QzajS/Einladung_Rat_15.06.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfYPy9JyM2Njg-uKWwRUk3sMZlEaxBzhCn3iF9pWHJP5/Oeffentliche_Niederschrift_Rat_15.06.2022.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 29.04.2022
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Anregungen gemäß § 24 GO NRW
+- TOP A.4: Steuerung von Drittorganisationen:
+- TOP A.4a: Pro Herford GmbH a) Feststellung des Jahresabschlusses 2021 b) Ergebnisverwendung c) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.4b: WWS Wohn- und Wirtschafts-Service Herford GmbH a) Feststellung des Jahresabschlusses 2021 b) Ergebnisverwendung c) Vorabausschüttung 2022 d) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.4c: HVV Konzern: 1. Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH: a) Feststellung des Jahresabschlusses 2021 b) Ergebnisverwendung c) Entlastung der Geschäftsführung 2. Entlastung der Mitglieder der Aufsichtsräte des HVV Konzerns für das Geschäftsjahr 2021 - Der Punkt a) wird von den Anwesenden zur Kenntnis genommen.Zu den Punkten b) und c) erfolgt einstimmig und ohne Enthaltung der Beschluss.Zum Punkt d) stellt Herr Bürgermeister Kähler die Beschlussunfähigkeit des Rates fest.Der Beschluss zu den Punkten e) 
+- TOP A.4d: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH Konzernabschluss 2021: a) Billigung des Konzernabschlusses b) Ergebnisverwendung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.4e: Bericht aus dem Beteiligungscontrolling: Jahresprognose 2022 der Beteiligungsunternehmen zum 31.03.2022
+- TOP A.5: Gremienbesetzungen
+- TOP A.5a: Geschäftsführung: Benennung eines neuen stellvertretend beratenden Mitgliedes durch die AG § 78.
+- TOP A.5b: Geschäftsführung: Bestellung eines neuen beratenden und eines stellvertretend beratendes Mitgliedes durch den Direktor des Amtsgerichts Herford für die Mitwirkung im Jugendhilfeausschuss
+- TOP A.5c: Nachbesetzung im Beirat für Menschen mit Behinderungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.5d: Antrag der Fraktion "Bürger für Herford": Gremienumbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6: Änderung des Zuständigkeitskatalogs der städtischen Fachausschüsse - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7: Genehmigung von außerplanmäßigen Auszahlungen für das Haushaltsjahr 2022 auf dem Bildungscampus - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8: Genehmigung von überplanmäßigen Auszahlungen für den Ausbau des Dachgeschosses im Gebäude F auf dem Bildungscampus - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: 1. Situationsbericht zur Haushaltswirtschaft 2022
+- TOP A.10: EU-beihilfenrechtliche Legitimation der gewährten Betriebskostenzuschüsse an Tochterunternehmen infolge der COVID-19-Pandemie im Rahmen des NKF-CIG
+- TOP A.11: Hundesteuersatzung Satzungsvorschlag zur - Erhebung einer erhöhten Hundesteuer für gefährliche Hunde ab 2023 und - Umsetzung redaktioneller Änderungen - Der TOP wurde abgesetzt.
+- TOP A.12: Gebührensatzung zur Unterbringung von Flüchtlingen, die als Asylberechtigte anerkannt sind bzw. nach der AWoV zugewiesen wurden hier: Anpassung/Änderung der Gebührensatzung
+- TOP zu A.12: Gebührensatzung zur Unterbringung von Flüchtlingen, die als Asylberechtigte anerkannt sind bzw. nach der AWoV zugewiesen wurden hier: Anpassung/Änderung der Gebührensatzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: Kindertagesbetreuung: Änderung der Entgeltordnung für die Mittagsverpflegung in den fünf städtischen Kindertageseinrichtungen - Bei zwei Enthaltungen wird folgender Beschluss einstimmig gefasst:
+- TOP A.14: 12. Gleichstellungsplan der Stadtverwaltung Herford für die Jahre 2022 - 2026 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Durchführung von verkaufsoffenen Sonntagen am 28.08., 09.10. und 04.12.2022
+- TOP zu A.15: Durchführung von verkaufsoffenen Sonntagen am 28.08., 09.10. und 04.12.2022 - Mit zwei Gegenstimmen und sechs Enthaltungen wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.16: Satzung Nr. 1 "Hollinde-Brokfeld", 1. Ergänzung hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Bebauungsplan Nr. 8.45a "Haberland", Änderung 3.21 hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Bebauungsplan Nr. 8.51 "Heidestraße", Änderung Nr. 2.21 hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.19: Bebauungsplan Nr. 4.27a "Auf der Freiheit/Abteistraße" Änderung Nr. 2.22 hier: Anordnung einer Veränderungssperre Nr. 54
+- TOP A.20: Kommunale Baulandpolitik: Vergaberichtlinien für Wohnbaugrundstücke für Ein- und Zweifamilienhäuser Hier: Beschlussempfehlung - Mit 12 Enthaltungen wird folgender Beschluss einstimmig gefasst:
+- TOP zu A.20 (1): Vergaberichtlinien für Wohnbaugrundstücke für Ein- und Zweifamilienhäuser Ergänzungsantrag der Fraktion Bündnis 90/ Die Grünen - Mit 12 Ja-Stimmen und einer Enthaltung wird der Antrag mehrheitlich abgelehnt.
+- TOP zu A.20 (2): Weiterentwicklung der Herforder Wohnungspolitik Antrag der Fraktion Bündnis 90/ Die Grünen - Mit 9 Ja-Stimmen und zwei Enthaltungen wird der Antrag mehrheitlich abgelehnt.
+- TOP A.21: Kommunale Baulandpolitik: Leitfaden zur Konzeptvergabe für den Bau von Mehrfamilienhäusern auf städtischen Grundstücken hier: Beschluss zur Anwendung des Leitfadens in Elverdissen - Bei elf Enthaltungen wird folgender Beschluss einstimmig gefasst:
+- TOP zu A.21: Leitfaden zur Konzeptvergabe für den Bau von Mehrfamilienhäusern auf städtischen Grundstücken. Ergänzungsantrag der Fraktion Bündnis 90/ Die Grünen - Mit 9 Ja-Stimmen und zwei Enthaltungen wird der Antrag mehrheitlich abgelehnt.
+- TOP A.22: Zukunft der "Safety Cones" von D. Oppenheim am Bergertor - Mit zwei Gegenstimmen und ohne Enthaltung wird folgender Beschluss mehrheitlich gefasst:
+- TOP A.23: Antrag der BfH-Fraktion: Sporthalle Elverdissen - Der Antrag wird zuständigkeitshalber zur Beratung an den Bau- und Umweltausschuss sowie dem Sportausschuss verwiesen.
+- TOP A.24: Mitteilungen
