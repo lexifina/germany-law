@@ -1,0 +1,69 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2022-06-15T15:00:00+02:00
+- Ende: 2022-06-15T17:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6085
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6085
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00207670.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00207670.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00207670.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 11. Sitzung des Rates vom 06.04.2022 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Smart City Strategie und Leitlinien Datensouveränität - Einstimmiger Beschluss
+- TOP 2.1: Tischvorlage zu Ö2 1586/X im Rat - In den nächsten Ratszug geschoben
+- TOP 3: Feststellung des Jahresabschlusses 31.12.2019 - Einstimmiger Beschluss
+- TOP 4: Verwendung Jahresergebnis 2019 - Einstimmiger Beschluss
+- TOP 5: Feststellung des Jahresabschlusses 31.12.2020 - Einstimmiger Beschluss
+- TOP 6: Verwendung des Jahresergebnisses 2020 - Einstimmiger Beschluss
+- TOP 7: Verleihung Heimat-Preis 2022 der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 8: Übersicht zum Umsetzungsstand der im Rat beschlossenen Fraktionsanträge - Kenntnisnahme
+- TOP 9: Überörtliche Prüfung gpa NRW - Gesamtbericht - der Stadt Mönchengladbach im Jahr 2019 mit nachträglicher Stellungnahme der Stadtverwaltung Mönchengladbach zum Handlungsfeld Verkehrsflächen - Einstimmiger Beschluss
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2021 (7.Nachweisung) - Kenntnisnahme
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2022 (1.Nachweisung) - Kenntnisnahme
+- TOP 12: Bereitstellung überplanmäßiger Haushaltsmittel 2022 im Bereich "Grundsicherung im Alter und bei Erwerbsminderung" (4. Kapitel SGB XII) - Einstimmiger Beschluss
+- TOP 13: HSP-Umsetzungsbericht 15.04.2022 - Kenntnisnahme
+- TOP 14: Anpassung der Satzung der Kreisbau AG - Einstimmiger Beschluss
+- TOP 15: Ausschüttungsverzicht für den Betrieb gewerblicher Art (BgA) Verpachtung von Wohungen - Einstimmiger Beschluss
+- TOP 16: Änderung des Gesellschaftsvertrages der GWG Kommunal GmbH (künftig NEW aktiv Grevenbroich GmbH) - Einstimmiger Beschluss
+- TOP 17: Jahresrechnung 2021 - Einstimmiger Beschluss
+- TOP 18: Genehmigung der Wiederbestellung eines Vorstandsmitgliedes der Stadtsaprkasse Mönchengladbach - Einstimmiger Beschluss
+- TOP 19: Vertretung der Stadt Mönchengladbach in Organen von städtischen Beteiligungen - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 20: Abschluss einer öffentlich-rechtlichen Vereinbarung über die Durchführung der Beihilfebearbeitung zwischen der Landeshauptstadt Düsseldorf und der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 21: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach am 19. Juni 2022 im Zusammenhang mit der Veranstaltung "Kappesfest und Jahrhundertfeier" - Mit Stimmenmehrheit beschlossen
+- TOP 22: Erste Verordnung zur Änderung der Verordnung über die Beförderungsbedingungen und Beförderungsentgelte für den Gelegenheitsverkehr mit Taxen der Stadt Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 23: Leistungsvereinbarung mit der Drogenberatung Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 24: Leistungsvereinbarung mit den Trägern der freien Wohlfahrtspflege über die soziale Betreuung von Geflüchteten - Einstimmiger Beschluss
+- TOP 25: Leistungsvereinbarung mit dem Flüchtlingsrat Mönchengladbach e. V. über ein Beratungsangebot im Rahmen der Krankenhilfe für ausländische Geflüchtete durch medizinische Assistenz - Einstimmiger Beschluss
+- TOP 26: Sozialbericht 2022 - Kenntnisnahme
+- TOP 27: Öffentliche Auslegung der 3. Änderung des Landschaftsplanes der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 28: 3. Runde des Lärmaktionsplans der Stadt Mönchengladbach - In den nächsten Ratszug geschoben
+- TOP 28.1: Ergänzungsantrag zur Beratungsvorlage 1405/x – 3. Runde des Lärmaktionsplanes der Stadt Mönchengladbach - In den nächsten Ratszug geschoben
+- TOP 29: Gesamtregionales Radverkehrskonzept für das Rheinische Revier - Einstimmiger Beschluss
+- TOP 30: Benennung der Erschließungsfläche vor dem SMS-Campus - Mit Stimmenmehrheit beschlossen
+- TOP 31: Einziehung der Straße Fleenerweg, Stichstraße zu den Häusern Fleenerweg Nr. 14 bis Nr. 36 - Einstimmiger Beschluss
+- TOP 32: Satzungen zur Aufhebung der Satzungen über die förmliche Festlegung der Sanierungsgebiete Nordpark, Schloss Wickrath und Oberstadt - Einstimmiger Beschluss
+- TOP 33: Straßenbenennungen in der Seestadt mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 33.1: Straßenbenennungen in der Seestadt mg+; hier: Antrag der Ratsfraktion DIE LINKE und der Ratsgruppe Die FRAKTION - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Situation an der Wohnanlage Zur Burgmühle 33 in 41199 Mönchengladbach - In den nächsten Ratszug geschoben
+- TOP 35: Einrichtung von Waffenverbotszonen - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Anpassung der Hundesteuersatzung; Steuerbefreiung für Assistenzhunde - Einstimmiger Beschluss
+- TOP 37: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion DIE LINKE vom 16.05.2022 - Einstimmiger Beschluss
+- TOP 38: Fraktionsantrag zum Bericht zur Einrichtung eines Seniorenrates in Mönchengladbach (Vorlage-Nr. 1502/X) - Mit Stimmenmehrheit beschlossen
+- TOP 38.1: Änderungsantrag zu Vorlage 1581/X (Ursprung war Vorlage 1502/X): Bericht zur Einrichtung eines Seniorenrates in Mönchengladbach; hier: Antrag der Ratsfraktion DIE LINKE vom 25.05.2022 - Ohne Abstimmung
+- TOP 39: Umbesetzung von Gremien; hier: Antrag der AfD-Ratsfraktion vom 30.05.2022 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 40: Umbesetzung von Gremien; hier: Antrag der FDP-Ratsfraktion vom 01.06.2022 - Einstimmiger Beschluss
+- TOP 41: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 03.06.2022 - Einstimmiger Beschluss
+- TOP 42: Anfragen und Mitteilungen
+- TOP 42.1: Anfrage inkl. Antwort von RH Dr. Schlegelmilch (CDU) zu einer Veranstaltung zur Einweihung des Casinos Odenkirchen
+- TOP 42.2: Anfrage von RH Dr. Schlegelmilch (CDU) zur Konzeption vom Haus Erholung
+- TOP 42.3: Anfrage inkl. Antwort von RH Hendricks (CDU) zum anberaumten Strategieworkshop
+- TOP 42.4: Mitteilung von Beigeordnetem Engel zum Krieg in der Ukraine
+- TOP 42.5: Mitteilung von Oberbürgermeister Heinrichs zu einer Zuwendung zur Errichtung eines Zentrum für Jugendliche, Familien
+- TOP 42.6: Mitteilung von Oberbürgermeister Heinrichs zur Landtagswahl und Verabschiedung von RF Finger
