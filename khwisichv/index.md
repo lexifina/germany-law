@@ -7,5 +7,6 @@
 - [§ 4 Verlängerung von Fristen nach den §§ 21 bis 22 und 25 des Krankenhausfinanzierungsgesetzes sowie nach den §§ 111d und 417 des Fünften Buches Sozialgesetzbuch](0004.md)
 - [§ 5 Erlösausgleiche für das Jahr 2021](0005.md)
 - [§ 5a Erlösausgleiche für das Jahr 2022](0005a.md)
-- [§ 6 Abschlagszahlungen](0006.md)
+- [§ 6 Abschlagszahlungen für das Jahr 2021](0006.md)
+- [§ 6a Abschlagszahlungen für das Jahr 2022](0006a.md)
 - [§ 7 Inkrafttreten, Außerkrafttreten](0007.md)
