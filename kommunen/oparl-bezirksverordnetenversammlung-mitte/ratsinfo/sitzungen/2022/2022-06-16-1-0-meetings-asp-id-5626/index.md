@@ -1,0 +1,146 @@
+# 8. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2022-06-16T17:30:00+02:00
+- Ende: 2022-06-16T22:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5626
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5626
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=536251
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung
+- TOP 2: Feststellen von Dringlichkeiten
+- TOP 3: Feststellung einer außergewöhnlichen Notlage
+- TOP 4: Einwohnerfragestunde
+- TOP 4.1: Zweckentfremdung und Bauanträge in der Stettiner Straße 38 und Osloer Straße 116a
+- TOP 4.2: Leerstehende Wohnhäuser Burgsdorfstr. 1 (Haus A), Kameruner Str. 5 (Haus B)
+- TOP 5: Mitteilungen
+- TOP 5.1: des Vorstandes
+- TOP 5.2: der Fraktionen
+- TOP 5.3: der Ausschüsse
+- TOP 5.4: des Bezirksamtes
+- TOP 6: Konsenslisten
+- TOP 6.1: Mehr Freiheit für Fuß- und Radverkehr im Gartenstraßenkiez – motorisierten Durchgangsverkehr verhindern!
+- TOP 6.2: Digitale Anmeldung von (Sport-) Großveranstaltungen ermöglichen
+- TOP 6.3: Schulwegsicherheit in der Singerstraße erhöhen
+- TOP 6.4: Ermessens-Leitfaden erweitern
+- TOP 6.5: Informationstafel „Wilhelm Pieck“
+- TOP 6.6: Modellprojekt Parkplatzfrei auch in Mitte
+- TOP 6.7: Von Pankow Lernen – Die Situation solo-selbständiger Frauen* in der Pandemie sichtbar machen
+- TOP 6.8: Einrichtung eines deutsch-französischen SESB-Zweiges am Diesterweg-Gymnasium
+- TOP 6.9: Fahrplan zur Erreichung des Ziels 25 % Parkplätze zu Parks
+- TOP 6.10: Vollständige und zeitnahe Informierung zum Einbürgerungsverfahren aller daran interessierten Bürger*innen durch das Einbürgerungsamt
+- TOP 6.11: Programm „Neustart Wirtschaft“: Wirtschaft fördern und Ungleichbehandlung beenden
+- TOP 6.12: Inklusion beginnt auf dem Spielplatz
+- TOP 6.13: Jetzt aber: Spielplatzpat*innen für Mitte
+- TOP 6.14: Pfandringe für Mitte — gegen Demütigung armer Menschen!
+- TOP 6.15: Fortschreibung des SIKo - Soziales Infrastrukturkonzept 2020/21 für den Bezirk Mitte von Berlin
+- TOP 6.16: Berufung eines stimmberechtigten Mitgliedes der BVV und dessen Stellvertretung für den Verwaltungsrat "Kindergärten City, Eigenbetrieb von Berlin"
+- TOP 6.17: Gesundheitssystem in Mitte verbessern — Strukturen schaffen, Teilhabe ermöglichen, Ziele weiterentwickeln
+- TOP 6.18: Sicherheit am Spreekanalufer gewährleisten
+- TOP 6.19: Mülleimer für das Gebiet Karl-Marx-Allee II
+- TOP 6.20: Corona ist nicht vorbei! Pandemiebekämpfung im Herbst und Winter 2022/23 rechtzeitig planen
+- TOP 6.21: Bolzplätze im Wohngebiet Karl-Marx-Allee II. Bauabschnitt instandsetzen
+- TOP 6.22: Wahl von stellv. Bürgerdeputierten
+- TOP 6.23: Runder Tisch Krankenhäuser
+- TOP 6.24: Helga Hahnemann wie versprochen ehren!
+- TOP 6.25: SIWA Mittel für Sanierung und Herrichtung von Dienstgebäuden
+- TOP 6.26: Gute Arbeit als integrierte Arbeitslinie im BA Mitte
+- TOP 6.27: Ressortübergreifend agieren - Stadtgrün durch integrierte Planung ausreichend berücksichtigen!
+- TOP 6.28: Street Art & Graffiti-Kunst fördern, legale Flächen schaffen
+- TOP 6.29: Sprengelpark sinnvoll erweitern und den Pekinger Platz neugestalten
+- TOP 6.30: Das Engelbecken als Zentrum der Luisenstadt zusammen mit Friedrichshain-Kreuzberg und den Ehrenamtlichen vor Ort erneuern und pflegen
+- TOP 6.31: Grünphasen der Ampelschaltungen in Mitte für den Fußverkehr verlängern
+- TOP 6.32: Sperrmülltage, mehr davon!
+- TOP 6.33: Bürgerbeteiligung im Sanierungsgebiet Badstraße / Pankstraße sicherstellen und Betroffenen- /Stadtteilvertretung wählen
+- TOP 6.34: Zebrastreifen für die Grundschule am Koppenplatz
+- TOP 6.35: Mehr Sicherheit und Komfort für Fußgänger:innen und Radfahrende in der Pohlstraße
+- TOP 6.36: Anwohner*innen schützen, Luftreinhaltung und Verkehrssicherheit in der Leipziger Straße sicherstellen!
+- TOP 6.37: Falsch parkende Fahrzeuge aus verkehrsberuhigten Straßen umsetzen
+- TOP 6.38: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2005
+- TOP 6.39: Der Bezirk-Mitte erkennt den Klimanotstand an
+- TOP 6.40: "Wohnungslose Bühne" sichern
+- TOP 6.41: Hundeauslaufgebiete
+- TOP 6.42: „Poststadion als Trainingsplatz für die Fußball-Europameisterschaften - EURO 2024"
+- TOP 6.43: Leitlinien Bürgerbeteiligung - Vorhabenliste 2022
+- TOP 7: Thematische Stunde zur Schulbauoffensive (DS: MA 0414/VI, MA 0416/VI, MA 0417/VI, GA 0371/VI, GA 0374/VI, A 0384/VI, A 0389/VI, A 0392/VI)
+- TOP 7.1: Jedem Kind ein Schulplatz
+- TOP 7.2: Wie weiter an der Anna-Lindh-Grundschule? Planung und Umsetzung baulicher Maßnah-men
+- TOP 7.3: Schulstandards in Mitte
+- TOP 7.4: Zur Drucksache-Nr. 3153/V: Standort für eine Ausweichlösung der Anna-Lindh-Schule suchen
+- TOP 7.5: Wie viele Schulplätze fehlen 2022?
+- TOP 7.6: Schulbauoffensive für Mitte umsetzen, einen Umsetzungsstandort für die Erneuerung der Ernst-Reuter-Schule jetzt sichern!
+- TOP 7.7: Mehr Schulplätze im Wedding - Reaktivierung des ehemaligen Diesterweg-Gymnasiums zügig vorantreiben, Gebäude erhalten, Denkmal jetzt sichern!
+- TOP 7.8: Sanierung der Ernst-Reuter-Schule darf keine Beeinträchtigung für den Sport mit sich ziehen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Aktuelle Sicherheitslage im Bezirk Mitte
+- TOP 8.2: Erneut gefährliche Körperverletzung im James-Simon-Park – welche der angekündigten Präventionsmaßnahmen hat das Bezirksamt umgesetzt?
+- TOP 8.3: Nutzungsgebühren für Sport- und Bewegungsangebote
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Wie viele Bäume sollen der Verlängerung der Straßenbahn in Moabit weichen?
+- TOP 8.6: Park-Partys 2022
+- TOP 8.7: Energiekosten für Sportstätten
+- TOP 8.8: Bewerbungs- und Auswahlverfahren im Bezirksamt
+- TOP 8.9: KSSP auch in 2022/2023?
+- TOP 9: Dringlichkeitsanfragen
+- TOP 9.1: Sanierung des Eingangsbereiches des Poststadions
+- TOP 9.2: Was ist uns der Vereinssport wert?
+- TOP 10: Große Anfragen
+- TOP 10.1: Einbürgerungszentrum Berlin – was ändert sich für Mitte?
+- TOP 10.2: Entscheidung des BVerfG zum Zweckentfremdungsverbot-Gesetz sowie gewerbliches Wohnen
+- TOP 10.3: Nachhaltigkeit fördern durch Beratungsrunde PT. II
+- TOP 10.4: Zur Ombudsstelle Jugendhilfe
+- TOP 10.5: Armut in Mitte – vor Corona und heute
+- TOP 10.6: Wie bereitet sich das Schulamt auf den nächsten "Corona-Herbst" vor?
+- TOP 10.7: Sanierung im Bezirk
+- TOP 10.8: Beratungs- und Unterstützungsangeboten zu Arbeitssituation und Arbeitsbedingungen
+- TOP 10.9: Sektorale Bebauungspläne
+- TOP 10.10: Wie gehts weiter mit der Fischerpinte am Plötzensee?
+- TOP 10.11: Was plant das Bezirksamt zum Dauerfrust-Thema „Erreichbarkeit und Antwort-Verhalten der Verwaltung“?
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 11.1: über Wahl der Bürgerdeputierten des Ausschusses für Integration gem. § 32 Bezirksverwaltungsgesetz
+- TOP 12: Vorlagen zur Beschlussfassung
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung
+- TOP 14: Dringlichkeitsanträge
+- TOP 14.1: Friedensstatue dauerhaft erhalten
+- TOP 15: Anträge
+- TOP 15.1: Theaterbetrieb am Standort Monbijoupark
+- TOP 15.2: Flächendeckende Parkraumbewirtschaftung in Mitte — auch im Wedding!
+- TOP 15.3: Missbilligung des Bezirksbürgermeisters Stephan von Dassel
+- TOP 15.4: „Gleichberechtigter und diskriminerungsfreier Zugang zu Hilfestrukturen für Rom*ja aus der Ukraine“
+- TOP 15.5: Geflüchtete Menschen Informieren!
+- TOP 15.6: Private Housing - unterstützen und entlasten
+- TOP 15.7: Kinderreisen im Sommer 2022
+- TOP 15.8: Lesbische Sichtbarkeit im Bezirk verfestigen
+- TOP 15.9: Kein zusätzliches Quer- und Schrägparken mehr einrichten
+- TOP 15.10: Parkhaus der Berliner Hochschule für Technik (BHT) zu bezahlbarem Wohnraum machen
+- TOP 15.11: Wohnungsleerstand in Mitte bekämpfen - Masterplan gegen Leerstand erarbeiten und umsetzen
+- TOP 15.12: Auflösung des Zeltlagers im Geschichtspark des ehemaligen Zellengefängnisses Moabit
+- TOP 15.13: Strandbad Plötzensee – mehr als nur ein Freibad – weitere Nutzungsmöglichkeiten ermöglichen
+- TOP 15.14: Basketballflächen beleuchten und gut ausstatten
+- TOP 15.15: Bootsverleih Düring am Plötzensee erhalten!
+- TOP 16: Entschließungen
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen
+- TOP 17.1: Wedding: Rathausvorplatz für alle II
+- TOP 17.2: „Charta der Rücksicht“ für 2022 fortentwickeln!
+- TOP 17.3: Denkmal „Wohnungslose Bühne
+- TOP 17.4: Das Haus der Weisheit räumt die Rathenower Straße 16, obwohl es nicht in die Lehrter Straße 60 einziehen kann. Das Bezirksamt muss helfen, sonst droht die Moscheegemeinde zugrunde zu gehen
+- TOP 17.5: Graffiti am Engelbecken entfernen
+- TOP 17.6: Mehr Grün am Engelbecken sowie Nutzung legaler Graffitiflächen fördern
+- TOP 17.7: Die Gedenkstätte Berliner Mauer zu einem rundum würdigen Gedenkort machen
+- TOP 17.8: Ungarnstraße zur Fahrradstraße machen — Sicherheit und Klimafreundlichkeit hat Vorfahrt!
+- TOP 17.9: Nicht nur die Friedrichstraße, sondern die ganze Friedrichstadt soll lebenswerter werden
+- TOP 17.10: Habersaathstraße 40-48
+- TOP 17.11: Michaelkirchstraße soll ruhiger, grüner und lebenswerter werden
+- TOP 17.12: Ausreichend Hundeauslaufgebiete im Bezirk Mitte einrichten
+- TOP 17.13: Orientierungsrahmen zur Umsetzung von Kiezblocks in Mitte
+- TOP 18: Vorlagen zur Kenntnisnahme
+- TOP 18.1: Gedenktafel für die Opfer und den Widerstand gegen das NS-Regime auf dem Friedhof an der Seestraße
+- TOP 18.2: Eine:n Graffiti-Beauftragte:n für Berlin-Mitte
+- TOP 18.3: Warmen Otto offenhalten!
+- TOP 18.4: Zielsystem für das Kalenderjahr 2021 – Bericht über das Erreichen der Ziele (Erfolgskontrolle) zum 31. Dezember 2021
