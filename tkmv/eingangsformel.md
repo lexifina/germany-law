@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 157 Absatz 3 Satz 1, 3 und 4 sowie Absatz 5 Satz 1 und 2 des Telekommunikationsgesetzes, von denen Absatz 3 Satz 1 und Absatz 5 Satz 2 durch Artikel 13 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1982) geändert worden sind, in Verbindung mit § 1 der Universaldienst-Übertragungsverordnung vom 1. Dezember 2021 (BAnz AT 02.12.2021 V1), § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr und dem Ausschuss für Digitales des Deutschen Bundestages:
