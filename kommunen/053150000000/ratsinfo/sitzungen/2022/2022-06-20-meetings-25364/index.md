@@ -1,0 +1,75 @@
+# 16. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-06-20T17:00:00+02:00
+- Ende: 2022-06-20T19:20:00+02:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal, Venloer Straße 419-421, 50825 Köln.
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25364
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25364
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Bus- und Radspur auf der Äußeren Kanalstraße zwischen Borsigstraße und Subbelratherstraße (Az.: 02-1600-173-21) - ungeändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Falschparken Subbelrather Str. 251-257 (Az.: 02-1600-85-21) - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.3: Anfrage der SPD-Fraktion, betr.: Künftige Nutzung des ehemaligen Sportgeländes der Peter-Lustig-Schule - zurückgestellt
+- TOP 6.4: Anfrage der CDU-Fraktion, betr.: Fortbestand der Dauerkleingärten in Köln - Sache ist erledigt
+- TOP 6.4.1: Beantwortung der Anfrage der CDU-Fraktion, betr.: Fortbestand der Dauerkleingärten in Köln aus der Sitzung vom 16.05.2022 - Kenntnis genommen
+- TOP 6.5: Anfrage der CDU-Fraktion, betr.: Kurdisches Islamisches Zentrum unter der Adresse Vogelsanger Str. 348 d , 50827 Köln - zurückgestellt
+- TOP 6.6: Anfrage der CDU-Fraktion, betr.: Schallschutzmauer Vogelsanger Str. 406, 50827 Auf dem Schrotty-Gelände - Sache ist erledigt
+- TOP 6.6.1: Schallschutzmauer Vogelsanger Str. 406, auf dem Schrotty-Gelände - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der CDU-Fraktion, betr.: Bebauung am Goldammerweg in Köln Vogelsang - zurückgestellt
+- TOP 7.2: Anfrage der SPD-Fraktion, betr.: Kita und Grundschule Butzweilerhof - zurückgestellt
+- TOP 7.3: Anfrage der SPD-Fraktion, betr.: Sachstand Konzeptvergabe Alpenerstraße 4-6 - zurückgestellt
+- TOP 7.4: Anfrage der CDU-Fraktion, betr.: Elektronische Anzeige Stadtbahnhaltestelle Rochus Platz - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Elke Schroeder (Klima Freunde), betr.: Instandsetzung des ehemaligen Schulgebäudes an der Geisselstraße 3-5 für den Allerweltshaus Köln e.V. - geändert beschlossen
+- TOP 8.2: Antrag der CDU-Fraktion, betr.: schnelles Internet - ungeändert beschlossen
+- TOP 8.3: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, CDU-Fraktion, Tobias Scholz (GUT), Elke Schroeder (Klima Freunde) und Marlis Pöttgen (FDP), betr.: Schulhofentsiegelungen Ehrenfeld - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion: Verkehrssituation an der Ecke Wilhelm-Mauser-Str./ Vogelsanger Str. - Sache ist erledigt
+- TOP 8.5: Antrag der CDU-Fraktion, betr.: Vogelsanger Straße/Wilhelm-Mauser-Straße - Sache ist erledigt
+- TOP 8.6: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und Elke Schroeder (Klima Freunde), betr.: Planstraßen in Ehrenfeld - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion, betr.: Verlängerung und Ausbau der Straße "Auf dem Paulsacker" in Richtung Venloer Straße Bocklemünd - ungeändert beschlossen
+- TOP 8.8: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Verbesserung der Verkehrssituation auf der Vogelsanger Straße - Sache ist erledigt
+- TOP 8.8.1: Ergänzungsantrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.9: Antrag der SPD-Fraktion, betr.: Fuß- und Radweg von Bocklemünd/Mengenich zum Pescher See - geändert beschlossen
+- TOP 8.10: Antrag der Fraktion Bündnis 90/Die Grünen: Klimafreundliche Außengastronomie in Ehrenfeld - geändert beschlossen
+- TOP 8.10.1: Ergänzungsantrag der CDU-Fraktion - Sache ist erledigt
+- TOP 8.11: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Erhalt des historischen Pflasters rund um die Kirche St.Anna - geändert beschlossen
+- TOP 8.12: Antrag der SPD-Fraktion, betr.: Zu Fuß sicher über den Ehrenfeldgürtel auf Höhe Stammstraße - ungeändert beschlossen
+- TOP 8.13: Antrag der SPD-Fraktion, betr.: Zisterne unter dem Fröbelplatz als Ehrenfelder Modelprojekt für die Schwammstadt - geändert beschlossen
+- TOP 8.14: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, CDU-Fraktion, Marlis Pöttgen (FDP), betr.: Verbeserung der Verkehrssituation Vogelsanger Straße/Wilhelm-Mauser-Straße - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Verkehrliche Maßnahmen zur Schulwegerschließung am Schulstandort Wasseramselweg in Köln-Vogelsang - zurückgestellt
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.3: Bürgerschaftshaus Bocklemünd/Mengenich e.V., Wahl der Parteienvertreter*innen in den Vorstand des Bürgrschaftshauses - geändert beschlossen
+- TOP 9.4: Dritte Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO 2022 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Franz-Geuer-Straße Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteili-gung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsp - zurückgestellt
+- TOP 10.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.2: Änderungsantrag der SPD-Fraktion zu TOP 10.1 - zurückgestellt
+- TOP 10.2: 1. Änderung des Bebauungsplanes Nummer 63459/02 mit dem Arbeitstitel „Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung“ Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vor - ungeändert beschlossen
+- TOP 10.3: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) Arbeitstitel: Weinsbergstraße/Innere Kanalstraße in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.3.1: Änderungsantrag der SPD-Fraktion zu TOP 10.3 - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Jahresbericht 2021 - Obstwiesen - Kenntnis genommen
+- TOP 12.2: Sportentwicklungsplanung: Kinder- und Jugendsportförderung - Kenntnis genommen
+- TOP 12.3: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote 2022 - Kenntnis genommen
+- TOP 12.4: Sachstandsmitteilung zu den von der Bezirksvertretung Ehrenfeld priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 12.5: Für mehr Sauberkeit und Lebensqualität durch Aktivierung von Bürgerengagement – Ausweitung der Maßnahme „Hallo Nachbar, danke schön“ auf weitere Stadtquartiere – Sachstandsbericht Bickendorf - Kenntnis genommen
+- TOP 12.6: Antrag der SPD-Fraktion: Ein Bürgerwald für Bickendorf und Ossendorf - Kenntnis genommen
+- TOP 12.7: Spielplatz Gutenbergstraße/Stammstraße in Ehrenfeld - Prüfung von möglichen Schadstoffbelastungen im Grünstreifen - Kenntnis genommen
+- TOP 13: mündliche Anfragen
