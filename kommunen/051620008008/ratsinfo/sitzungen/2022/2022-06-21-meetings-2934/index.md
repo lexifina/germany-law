@@ -1,0 +1,64 @@
+# öffentliche/nicht öffentliche Sitzung des Verwaltungsrates
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-06-21T19:40:00+02:00
+- Ende: 2022-06-21T21:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2934
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2934
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Benennung eine Zweitunterzeichnerin / eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Vorstellung Klimaschutzmanager
+- TOP 4: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen vom 17.05.2022
+- TOP 4.1: Einrichtung einer Querungshilfe als Fußgängerüberweg an der Oststraße - einstimmig beschlossen
+- TOP 4.2: Sicherung des Schulweges in Gustorf - einstimmig beschlossen
+- TOP 4.3: Einrichtung einer Fußgängerampel auf der Wevelinghovener Straße in Barrenstein - mehrheitlich beschlossen
+- TOP 4.4: Instandsetzung der Feld/Forstwege - einstimmig beschlossen
+- TOP 5: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege vom 08.06.2022
+- TOP 5.1: Visuelle Untersuchung einer Blutbuchen-Allee im Ian-Hamilton-Finlay-Park - einstimmig beschlossen
+- TOP 6: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 6.1: Energetische Musterschule - Kenntnisnahme
+- TOP 6.1.1: Energetische Musterschule - Vortrag aus der Projektgruppe
+- TOP 7: Geschäftsordnung für den Verwaltungsrat und die Beiräte der Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 8: Schriftliche Anträge
+- TOP 8.1: Anträge der SPD-Fraktion
+- TOP 8.1.1: Parkverbot Schniddemänplatz - einstimmig beschlossen
+- TOP 8.1.2: Installation von Straßenbeleuchtung - einstimmig beschlossen
+- TOP 8.1.3: Erneuerung Parkplatzmarkierung - einstimmig beschlossen
+- TOP 8.1.4: Errichtung baulicher Maßnahmen zur Durchsetzung des Durchfahrtsverbotes zur Vollrather Höhe aus Richtung Allrath - einstimmig beschlossen
+- TOP 8.1.5: Tempo 30 auf der Frimmersdorfer Straße - einstimmig beschlossen
+- TOP 8.2: Anträge der CDU-Fraktion
+- TOP 8.2.1: Zusätzliche Fahrbahnmarkierung „Tempo 30“ Willibrordusstraße in Neuenhausen - einstimmig beschlossen
+- TOP 8.2.2: Zusätzliche Fahrbahnmarkierung und Schild „Tempo 30“ Wöhlerstraße/Südstadt - einstimmig beschlossen
+- TOP 8.2.3: Fahrbahnmarkierungen im Kreuzungsbereich Frankenstraße/Am Leuchtenberg/Glockenstraße in Frimmersdorf - einstimmig beschlossen
+- TOP 8.2.4: Errichtung eines "Tempo 30" Bereichs mit Schildern auf der Frankenstraße in Frimmersdorf - einstimmig beschlossen
+- TOP 8.2.5: Aufstellung einer „Smileyanlage“ in Neukirchen - einstimmig beschlossen
+- TOP 8.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 8.3.1: Errichtung einer Pilotfläche für Agri-PV - einstimmig beschlossen
+- TOP 8.4: Anträge der FDP-Fraktion
+- TOP 8.4.1: Digitales Bezahlen der Parkgebühren auf Erfolgskurs bringen - einstimmig beschlossen
+- TOP 8.4.2: Ladeinfrastruktur für E-Mobilität in Grevenbroich voranbringen - einstimmig beschlossen
+- TOP 8.4.3: Straßenschild auf der Grünfläche an der Mittelstraße/ Reisdorfer Straße - einstimmig beschlossen
+- TOP 8.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 8.5.1: Freilaufwiese für Hunde (Antrag Nr.: 19/2022) - einstimmig beschlossen
+- TOP 8.5.2: Vermüllung und LKW-Parksituation Industriegebiet Ost - Kenntnisnahme
+- TOP 8.5.3: Neuanpflanzung eines Baumes an der Erftwerkstraße - einstimmig beschlossen
+- TOP 8.6: Anträge der UWG-Fraktion
+- TOP 8.6.1: Leerung der Müllbehälter auf dem Josef-Bremer-Platz in Gindorf - Kenntnisnahme
+- TOP 8.6.2: Parken im Industriegebiet Ost - einstimmig beschlossen
+- TOP 8.6.3: Verkehrssituation auf der Lilienthalstr. in höhe Autohaus Schulz - einstimmig beschlossen
+- TOP 8.7: Gemeinschaftsanträge
+- TOP 8.7.1: Konzept „Kommunales Energiemanagement – intelligent, effizient, nachhaltig" - einstimmig beschlossen
+- TOP 9: Schriftliche Anfragen
+- TOP 9.1: Parkplatzsituation auf der Josef-Thienen-Str. in Grevenbroich Kapellen - einstimmig beschlossen
+- TOP 9.2: Planungsstand „Barrierefreier Ausbau von Bushaltestellen" - Kenntnisnahme
+- TOP 9.3: Baumscheiben in der gesamten Stadt - einstimmig beschlossen
+- TOP 10: Anfragen von Verwaltungsratsmitgliedern
+- TOP 11: Mitteilungen des Vorstandes
+- TOP 12: Mitteilungen des Verwaltungsratsvorsitzenden
