@@ -1,0 +1,66 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-21T17:00:00+02:00
+- Ende: 2022-06-21T20:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22231
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22231
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452743.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452743.pdf
+- Wortprotokoll: digitales Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452743.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 07.06.2022 eingegangene Fragen - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Zustand und Nutzung des Stadtwaldes im Stadtbezirk 7 inkl. Gutachten zum Grafenberger Wald - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 3.2: Multifunktionale Sportfläche im Stadtbezirk 7 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 3.3: Prozessstruktur Beteiligung Nahverkehrsplanung - zur Kenntnis genommen
+- TOP 3.4: Einführung eines On Demand-Angebots im ÖPNV im Düsseldorfer Osten - Empfehlung einstimmig beschlossen
+- TOP 3.5: Zentrenmanagement Heyestraße-Süd - zur Kenntnis genommen
+- TOP 3.6: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4: Anträge
+- TOP 4.1: Parken Testmarkt Geibelstraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 4.2: Parkflächen Hardtstraße dauerhaft instandsetzen - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 4.3: Bürgersteigbreite an der Bertastraße erweitern - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 4.4: Blühwiese Synagogenweg / Haltestelle Schönaustraße einrichten - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 4.5: Ampelschaltung Vautierstraße Richtung Staufenplatz verbessern - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 4.6: Unterführung des Bahnhofs Gerresheim - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - abweichend beschlossen
+- TOP 4.7: Fahrradständer an der Heyestraße - Antrag der Fraktionen Bündnis 90/Die Grünen und SPD - - abweichend beschlossen
+- TOP 4.8: Herrichtung der Parkfläche am Ende der Stichstraße Benderstraße Richtung Park an der Heinrich Könn Str. - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 4.9: Legales Graffiti-Sprayen im Dreherpark (Alter Friedhof) - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 4.10: Öffnung des Schulhofs der Grundschulen Knittkuhl am Nachmittag und am Wochenende - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.15: Unterstützung der Projekts Theater Templum - interfraktioneller Antrag - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Ampelanlage und Beleuchtungssituation Wiebachweg / Dreherstraße - Anfrage der FDP-Fraktion - - beantwortet
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Parkraumdruck im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 5.5: Verkehrsführung während Baustelle „Haltestelle Pöhlenweg“ über Rennbahnstraße und Fahneburgstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Fernwärmeversorgung im Stadtteil Grafenberg - Anfrage der CDU-Fraktion - - beantwortet
+- TOP 5.8: Funktion der Bedarfsampeln auf der Benderstraße für Fußgänger*innen und Radfahrer*innen - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 5.9: Grundsätzliche Öffnung der Einbahnstraßen für Radverkehr gegen die vorgeschriebene Fahrtrichtung - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 5.10: Zeitablauf und Vorgehen Mehrgenerationenfläche Diepenpark - Anfrage der FDP-Fraktion - - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Altlasten – Sanierung Dreifaltigkeitsstraße - Anfrage der FDP-Fraktion - - beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Geeignete Graffiti-Flächen für Nutzung nach dem Vorbild der „Hall of Fame“ - Anfrage der Fraktion Bündnis 90/Die Grünen - - beantwortet
+- TOP 6.5: Straßenausbaumaßnahmen im Stadtbezirk 7 - Anfrage der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Planung Regenrückhaltebecken Schützenplatz an der Gerricusstraße - Informationsvorlage zum Beschluss der BV 7 vom - zur Kenntnis genommen
+- TOP 7.2: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für die Haushaltsjahre 2023 und 2024 - - zur Kenntnis genommen
+- TOP 7.3: Spielplatz/Grünzug Gutenbergstraße - Informationsvorlage zum Beschluss der BV 7 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 7.4: Tischtennisplatten im Park: Alter Gerresheimer Friedhof - Informationsvorlage zum Beschluss der BV 7 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 7.5: Schutz vor Motorradlärm auf der Glashüttenstraße - Informationsvorlage - - zur Kenntnis genommen
