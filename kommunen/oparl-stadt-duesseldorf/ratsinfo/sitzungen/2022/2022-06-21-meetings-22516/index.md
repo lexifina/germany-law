@@ -1,0 +1,79 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-21T17:00:00+02:00
+- Ende: 2022-06-21T19:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22516
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22516
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452776.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452776.pdf
+- Wortprotokoll: Sitzungsunterlagen-öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452776.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 24. Mai 2022 - beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Umbau Kreuzungsbereich Zeppenheimer Straße / Edmund-Bertrams-Straße - einstimmig beschlossen
+- TOP 7: Trödelmärkte auf dem Messeparkplatz P1 im 2. Halbjahr 2022 - einstimmig beschlossen
+- TOP 8: Prozessstruktur Beteiligung Nahverkehrsplanung - zur Kenntnis genommen
+- TOP 9: Haushaltsmittel 2022 - Zuschüsse und Zuwendungen (Liste D) - beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 10: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 11: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 12: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 13: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 14: "Viele Projekte stecken in der Warteschleife" - Wie lange kann noch gewartet werden?
+- TOP 15: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 16: Weg nach den Hingbenden - Wie kann das Parken geordnet und die Sicherheit erhöht werden?
+- TOP 17: Radweg vom Kreisverkehr Angermunder Straße
+- TOP 18: Umsetzung und Einhaltung der Stellplatzsatzung bei Neubauten in Lohausen? - beantwortet
+- TOP 19: Unerklärliche Baumrodungen und weitere Bebauungen am Leuchtenberger Kirchweg
+- TOP 20: Leerstand und zukünftige Nutzung des denkmalgeschützten Hüttenhofs in Kalkum - beantwortet
+- TOP 21: Leuchtenberger Kirchweg 53 - Baugenehmigungen, Dringlichkeit und Rodungen der Bäume?
+- TOP 22: Verwaltungsverfahren Neubauprojekt „Kaiservillen Kaiserswerth“
+- TOP 23: 12.000.000 Euro Kostensteigerung und spätere Fertigstellung der Stadtbahn U 81: weiterhin keine Information der lokalen Politik!? - beantwortet
+- TOP 24: Anwohnerparken im Stadtbezirk 5
+- TOP 25: Aufstellung von Absperrpfosten und eines Zauns im Treppenbereich zur Kirche St. Remigius in Wittlaer
+- TOP 26: Verkehrsanbindung zwischen Ratingen und dem Düsseldorfer Norden
+- TOP 27: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr?
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Privatisierung des Ordnungs- und Sicherheitsdienstes
+- TOP 30: Nutzungsänderung und Neubebauung des ehemaligen Marienkrankenhauses in Kaiserswerth
+- TOP 31: Wo ist Platz für Jugendliche im Stadtbezirk 5?
+- TOP 32: Änderungen der Straßen "An der Bausenheide" und "An den Vier Winden"
+- TOP 33: Park & Ride-Parkmöglichkeit Froschenteich
+- TOP 34: Fahrbahnbelag und Gehwegpflasterung auf der Lantzallee - beantwortet
+- TOP 35: Planungen und städtebauliche Entwicklungen im Gebietsbereich zwischen Stockum (Stockumer Kirchstraße/Rotterdamer Straße/Lohauser Deich) und der Ortslage Lohausen (Lohauser Deich/Heiligenweg/Niederrheinstraße)
+- TOP 36: Verbesserungsmöglichkeiten Fußgängerweg auf der westlichen Seite der Niederrheinstraße zum zukünftigen Supermarkt auf dem Dreiecksparkplatz - beantwortet
+- TOP -: Neue Anfragen
+- TOP 37: Unzuverlässigkeit und häufiger Ausfall der U79 - Sieht so die Mobilitätswende im Düsseldorfer Norden aus?
+- TOP 38: Ausgestaltung der künftigen BV-Sitzungen - beantwortet
+- TOP 39: Grünordnungsplan 2025 "rheinverbunden"
+- TOP 40: Baum-, Wasser- und Landschaftsschutz beim Neubau Am Mühlenkamp 15
+- TOP 41: Kein frei zugänglicher Bolzplatz mehr in Kaiserswerth? - beantwortet
+- TOP 42: Besorgte Eltern in Kaiserswerth
+- TOP 43: Manga-Messe
+- TOP 44: Angermunder Baggersee
+- TOP 45: Bänke Lantz'scher Park und Beschilderungen Bürgerbüro sowie Polizei in Kaiserswerth
+- TOP 46: Sicherheit für Pferd und Reiter am Leuchtenberger Kirchweg herstellen
+- TOP 47: Ergänzung Toilettenkonzept - öffentlliche Toilette für den historischen Ortskern Kaiserswerth. Welche Möglichkeiten bieten sich rund um die Klemensbrücke?
+- TOP 48: Energetische Sanierungsmaßnahmen im Stadtbezirk 5
+- TOP -: Anträge
+- TOP 49: Stadtteil-Bücherei Kaiserswerth - Sonntagsöffnung prüfen! - einstimmig beschlossen
+- TOP 50: Bürgersteig An Sankt Swidbert 20a in Kaiserswerth verkehrssicher herstellen! - einstimmig beschlossen
+- TOP 51: Verlängerung der Öffentlichkeitsbeteiligung "Östlich zur Lindung" mit öffentlicher Präsenzveranstaltung - einstimmig beschlossen
+- TOP 52: Jahresempfang der Bezirksvertretung 5 - mehrheitlich abgelehnt
+- TOP 53: OSD-Kontrollen am Angermunder See - mehrheitlich abgelehnt
+- TOP -: Informationsvorlage
+- TOP 54: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 55: Verschiedenes
+- TOP 56: Bürgerbeteiligung von Anfang an transparent und zugänglich gestalten – Onlineverfahren zur Aufgabenstellung des Wettbewerbs verlängern – Präsenzveranstaltung anbieten - einstimmig beschlossen
+- TOP 57: Ergänzungsantrag zum Antrag der CDU zur Sitzung der Bezirksvertretung 5 am 21.06.2022 – Verlängerung der Öffentlichkeitsbeteiligung "Östlich zur Lindung" mit öffentlicher Präsenzveranstaltung - einstimmig beschlossen
