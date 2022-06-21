@@ -1,0 +1,136 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-06-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891313
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891313
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Radweg Oskar-von-Miller-Ring
+- TOP 6.2.: Fragen zum Bauvorhaben Heßstraße 49 – LBK-Liste vom 06.12.2021 - 12.12.2021-Aktenzeichen 1.7-14921-2021-22
+- TOP 6.3.: Christbaum am Josephsplatz
+- TOP 6.4.: Antrag auf Auskunft über Erteilung der Abgeschlossenheitsbescheinigung nach dem Wohnungseigentumsgesetz in Erhaltungssatzungsgebieten Der UA empfiehlt einstimmig die Zustimmung.
+- TOP 6.5.: entfällt
+- TOP 6.6.: Schutz der Baumgräben in der Spatenstraße
+- TOP 6.7.: Offene Einrichtung für Jugendliche in der östlichen Maxvorstadt realisieren
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Wertstoff- und Giftmobil
+- TOP 1.2.2.: Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden – Teilleerstand Mehrfamilienhaus Steinheilstr. 1
+- TOP 1.2.3.: Budget für Klimaschutz, Urbanes Grün, Arten- und Biotopschutz, Ökologische Bildungsmaßnahmen und Nachhaltigkeitsprojekte im Bezirk Maxvorstadt
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 18 - 21
+- TOP 2.1.2.: WEB-Listen der LBK: KW 18 - 21
+- TOP 2.1.3.: Amalienstraße 33, TEKTUR, Generalsanierung und Erweiterung des Bestandsgebäudes mit Großgarage
+- TOP 2.1.4.: Dachauer Str. 35, VORBESCHEID, Aufstockung eines
+- TOP 2.1.5.: Schönfeldstr. 14, Abbruch und Neubau einer Wohnanlage (59WE) mit zwei Gewerbeeinhei-ten und einer TG mit Mobilitätskonzept
+- TOP 2.2: Budgetantrag
+- TOP 2.2.1.: (E) Stadtbezirksbudget Initiative Umweltbildung für Grundschulen Umweltbildung für Grundschulen von September - November 2022 5.850,00 Euro, Az.: 0262.0-3-0409
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Schönfeldstr. 14, Abbruch und Neubau einer Wohnanlage (59WE) mit zwei Gewerbeeinheiten und einer TG mit Mobilitätskonzept (siehe B 2.1.5) - beantragte Baumfällungen
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 5.2.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 5.3.: Erlass einer Erhaltungssatzung in den Stadtbezirken 03 (Maxvorstadt) und 04 (Schwabing-West) Sitzungsvorlage 20-26 / V 05949
+- TOP 5.4.: Bekanntgabe des Ergebnisses des Ideen- und Realisierungswettbewerbes Entwicklung an der Schützenstraße in München – Karstadt am Bahnhofsplatz
+- TOP 5.5.: Ausnahmegenehmigung Klimawald Green City Grünanlage Arnulfpark vom 05.05.22 bis 21.06.22
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Baustelle Nymphenburger Str. Höhe Pappenheimer Str.
+- TOP 1.1.2.: Lärmbus – ohne Video
+- TOP 1.1.3.: Antrag Verbesserung der Fahrradparksituation an die Technische Universität München
+- TOP 1.1.4.: Kreuzung Georgen-/Zentnerstraße
+- TOP 1.1.5.: Nachträgliche Bürgerbeteiligung Neugestaltung Platz Barer/Nordendstrasse – Kindertages-stätte
+- TOP 1.1.6.: Antrag zur Ertüchtigung vorhandener Fahrradstraßen in München
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Keine Belegung von Grün- und öffentliche Flächen in der Innenstadt für die IAA und andere Messen
+- TOP 1.2.2.: Gestaltung des Platzes Nordend-/Barer Straße (Neureuther Platz) Forderung des BAs zur er-weiterten Prüfung der Umgestaltungsmöglichkeiten des Platzes sowie der angrenzenden Straßenabschnitte
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Abfrage des Stadtteilzentrums im jeweiligen Stadtbezirk
+- TOP 2.2.2.: Tillystraße Änderung Einbahnregelung
+- TOP 2.2.3.: Antrag für eine Warenauslage Barer Str. 55
+- TOP 2.2.4.: (E) Stadtbezirksbudget Münchner Haus der Schüler*innen e.V. Stadtterrasse vom 20.05.2022 bis 31.10.2022 412,50 €; Az. 0262.0-3-0412
+- TOP 2.2.5.: Antrag auf 2 Bänke vor dem Anwesen Ludwigstr. 10
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Schellingstr. 128, Einzelhandel mit erlfr. Gaststätte "Backwaren Michl"; Antrag fassadenseitige seitliche Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.2.: Beschlussvorlage für die BA 3 Sitzung am 21.06.22 -Gaststätte "55 Eleven", Amalienstr. 55
+- TOP 2.3.3.: Isabellastr. 4 re., Gaststätte "Schatzi"; Neuantrag Parkplatz-FSF
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung: Königsplatz Jugendgeschichtswerkstatt "sommer.dok" am 19./20.07.2022
+- TOP 2.4.2.: Anhörung: Königsplatz (Bez. 3) Oben Ohne Open Air des Kreisjugendrings München am 23.07.2022
+- TOP 2.4.3.: Bez. 3, Arnulfpark | Anhörung für ICF Kinder- und Familienprogramm am 31.07./18.09.
+- TOP 2.4.4.: Bez. 3, Königsplatz | Anhörung für "TUNIX 2022" am 04. - 08.07.2022
+- TOP 2.4.5.: Anhörung: Königsplatz (Bez.3) – European Championships 2022 – Sideevent „ROOFS“ vom 11.08.-21.08.2022
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: entfällt
+- TOP 3.2.: STEP Protokoll und Präsentation
+- TOP 3.3.: Abdruck VAO ART Phase 600
+- TOP 3.4.: Eilentscheid: Anhörung, Parade 50 Jahre Olympia am 02.07.2022, Start: Gabelsbergerstr. (zwischen Arcisstr. und Barer Str.; Bez. 3) - Termin 13.06.2022
+- TOP 3.5.: Eilentscheid: Anhörung, Frist: 17.06.2022 | Bez. 03, Akademiestr. | Architekturprojekt "Stadtre-paratur Maxvorstadt" 25.06.2022-01.07.2022 (Architekturwoche)
+- TOP 3.6.: Bücherbushaltestelle - Türkenstraße 68
+- TOP 3.7.: 2. Stammstrecke PFA 1 - Planänderung 3 - Bauwasserableitung - Frage BA 3
+- TOP 3.8.: Verkehrsrechtliche Anordnung Gedonstraße und Schackstraße, Lizenzgebiet Giselastraße
+- TOP 3.9.: Stadtbezirk 3; Nächtliche Arbeiten am Gleiskörper der Straßenbahn; Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 3.10.: Baustelleneinrichtung Grünanlage Arnulfpark
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Spielplatz Königsplatz
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Kindertagesstätte Kleine Racker e.V. Umbau/Erneuerung des Ruhebereichs, Kletter- und Werkräume von Juni - August 2022 2.696,00 Euro, Az.: 0262.0-3-0400
+- TOP 2.2.: (E) Stadtbezirksbudget BrückenBauen gUG Sommerfest BrückenBauen am 01.07.2022 941,00 Euro, Az.: 0262.0-3-0406
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Anhörungsverfahren zur Änderung der Grundschulorganisation in der LHM Sprengeländerung der GS Dachauer Str. 98 und Infanteriestr. 25 Sitzungsvorlage 20-26 / V 05707
+- TOP 4.2.: Anhörungsverfahren zur Änderung der Förderschulorganisation in der LHM Förderzentren Fehwiesenstraße und Mathilde-Eller-Schule, Klenzestraße Sitzungsvorlage 20-26 / V 06089
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Darstellende Kunst & Musik im öffentlichen Raum ermöglichen und fördern!
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Katholische Kirchenstiftung St. Joseph Johannes Brahms: "Ein deutsches Requiem" am 23.10.2022 1.000,00€; Az. 0262.0-3-0410
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Migrations-/ Integrationsbeauftragte im Bezirksausschuss: hier: Anhörung der Bezirksausschüsse
+- TOP 1.2.: Entscheidung Ferienausschuss im August 2022
+- TOP 1.3.: Anhörungsrecht für den Bezirksausschuss bei Großveranstaltungen BA-Antrag-Nr. 20-26 / B 03598 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 17.02.2022
+- TOP 1.4.: 75 Jahre Bezirksausschüsse / Festakt / Informationskampagne; hier: Festlegung eines Logos
+- TOP 1.5.: Einladung der BA Vorsitzenden zum Oktoberfest 2022
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
