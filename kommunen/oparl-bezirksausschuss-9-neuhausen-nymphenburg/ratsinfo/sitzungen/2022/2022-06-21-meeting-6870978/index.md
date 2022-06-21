@@ -1,0 +1,184 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2022-06-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6870978
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6870978
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Besetzung der Unterausschüsse - Bildung, Sport und Gesundheit - Soziales, Integration und Wohnen
+- TOP 1.3.: Wahl der/des Vorsitzenden des Unterausschusses Bildung, Sport und Gesundheit
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Entscheidung über Sondernutzungserlaubnis (Freischankflächen): - Gaststätte "Chay", Volkartstr. 70, 80636 MÜnchen - Backspielhaus GmbH, Südl. Auffahrtsallee 77, Seite Notburgastr., 80639 München - "Hood Bar", Hirschbergstraße 7,
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Einsatz autonomer Kleinbusse für das Quartier St. Vinzenz und Ebenau (vertagt aus 04/22)
+- TOP 3.2.2.: Digitale Erfassung von temporär wegfallenden Parkplätzen und Bereitstellung für die Bezirksausschüsse
+- TOP 3.2.3.: "Smart Parking" in Parklizenzgebieten erproben
+- TOP 3.2.4.: Verkehrssituation in der Schulstraße
+- TOP 3.2.5.: Vinzenzviertel: Verkehrsbelastung - Fahrradstraße, Blutenburgstraße, Baustellen, Lieferverkehr
+- TOP 3.2.6.: Verkehrssituation in der Gaßnerstraße
+- TOP 3.2.7.: Parkproblem Rondell Neuwittelsbach
+- TOP 3.2.8.: Findet einen Platz für euer Rad: Schulstraße 7
+- TOP 3.2.9.: Dringendes Haltverbot in der Hofenfelsstraße Ecke Rolandstraße
+- TOP 3.2.10.: Zebrastreifen ESV / Spielplatz an der Magarethe-Danzi-Straße
+- TOP 3.2.11.: Gefahrenstelle Nederlinger Straße Ecke Canalettostraße
+- TOP 3.2.12.: Laimer Unterführung
+- TOP 3.2.13.: Parklet in der Erika-Mann-Straße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Abfrage des Stadtteilzentrums im jeweiligen Stadtbezirk - Erstellung des neuen Münchner Radverkehrsnetzes
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Lieferverkehr Bereich Donnersberger-, Schulstr.
+- TOP 3.4.2.: BIOTOPIA - Naturkundemuseum Bayern
+- TOP 3.4.3.: Verkehrsrechtliche Anordnung: Dante- und Waisenhausstraße - nördlich und südlich der Querungsstelle des Fuß- und Radverkehrs auf Höhe Dantestraße Anwesen Hausnr. 2 - Begrenzung der zulässigen Höchstgeschwindigkeit auf 10 km/h
+- TOP 3.4.4.: Sicherheit für Fußgänger*innen und Radfahrer*innen auf der Donnersberger Brücke erhöhen
+- TOP 3.4.5.: Errichtung einer An- und Abfahrt für die Tagespflege im Haus Heilig Geist
+- TOP 3.4.6.: Auf Anhieb den richtigen U-Bahnausgang wählen
+- TOP 3.4.7.: Freischankfläche auf einer Grünfläche: Gasttätte "Neuhauser Augustiner", Hübnerstr. 23
+- TOP 3.4.8.: Mehr Fahrradstellplätze für die BürgerInnen in Neuhausen und der Ebenau
+- TOP 3.4.9.: Geschwindigkeitsmessungen / Sensibilisierungen / Kontrollen in der Blutenburgstraße
+- TOP 3.4.10.: Beschilderung / Hinweisschilder U-Bahn Sozialbürgerhaus Laim-Schwanthaler-Höhe und Sozialbürgerhaus Neuhausen-Nympenburg
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Straßenbauarbeiten Herthastraße
+- TOP 3.5.2.: Verkehrsrechtliche Anordnung: - Reinmarplatz: Fertigstellung einer Straßenbaumaßnahme
+- TOP 3.5.3.: Einsatz von TOPO-Boxen als städtische Leistung für Bezirksausschüsse
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Offener Brief an MOR und BAU
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Verkauf des Anwesens Walhallastr. 11a und 13
+- TOP 4.2.2.: Wie und wann weiter bei Biotopia?
+- TOP 4.2.3.: Fahrradunterstand Nederlinger Str. 50
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: STEP 2040: Protokoll und Einladung zur Stellungnahme - vertagt aus 05/22 -
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Stelzenbau am Reinmarplatz
+- TOP 4.4.2.: Bauvorhaben Walhallastraße 50
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 4.5.2.: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 4.5.3.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Kinderkrippe an der Renatastraße 35 im 9. Stadtbezirk Neuhausen-Nymphenburg Leistung eines Baukostenzuschusses
+- TOP 4.5.4.: Beim U-Bahn-Bau in den Gleisen auf die Verwendung von Tropenholz verzichten
+- TOP 4.5.5.: Mitteilung über ein Grundstücksgeschäft: Marsstr. 76/Klarastr. 11
+- TOP 4.6: Verschiedenes
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Mähintervalle Kemnaten-/Brunhildenstraße
+- TOP 5.2.2.: Invasive Pflanze (Knöterich) an Rad-/Fußweg nahe DB-Wagenwaschanlage am Engasserbogen
+- TOP 5.2.3.: Kreislaufschänke
+- TOP 5.2.4.: Geruchsbelästigung durch Grillerei im Hirschgarten
+- TOP 5.2.5.: Ladestationen - E-Mobilität
+- TOP 5.2.6.: Wertstofftonne für Neuhausen-Nymphenburg
+- TOP 5.2.7.: Glascontainer am Hirschgartenparkplatz
+- TOP 5.2.8.: Nachpflanzung von mindestens sechs Bäumen in der Grünanlage Heinrich Schlicht, Baldurstraße 49, zwischen Eingang Baldurstraße und Restaurant Hexengarten, linke Seite
+- TOP 5.2.9.: Bepflanzung des Grünstreifens an der Taxistraße mit Hecken und Sträuchern
+- TOP 5.2.10.: Blumenzwiebelrettung zugunsten von Bienen und Co.
+- TOP 5.2.11.: Anbringung eines niedrigen Zauns und Aufstellung von Schildern "Hunde betreten verboten" um das Rondell auf dem "Platz der Freiheit"
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Antrag neue Wertstoffinsel an der Hanebergstraße / Ecke Landshuter Allee
+- TOP 5.3.2.: Anhörung zu Baumfällungsanträgen: - Volpinistraße 3 - Prüfeningweg - Dachauer Straße 263 - Nymphenburger Straße 92
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Umweltproblem in der Anlage Ecke Arnulfstraße / Landshuterallee
+- TOP 5.4.2.: Wanderbaumallee in der Volkartstraße
+- TOP 5.4.3.: Baumfällung Lachmannstraße / Bolivarstraße
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Bericht Ortstermin Wertachplatz
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget: PA/ Spielen in der Stadt e.V. Tanz. Die. Invasion. Strasse. Oase. Zirkus Pumpernudl 2023 8.562,00€; Az. 0262.0-9-0562 - vertagt aus 05/22 -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Yoga für Geflüchtete" Gesundheitsförderung - Yoga-Unterricht für Geflüchtete 1.925,- €; Az. 0262.0-9-0564
+- TOP 6.1.3.: (E) Stadtbezirksbudget Münchner Stadtmedien GmbH FamilyOpenAir beim Kino am Olympiasee 2.696,93 €; Az. 0262.0-9-0567
+- TOP 6.1.4.: (E) Stadtbezirksbudget Johanniter-Unfall-Hilfe e.V. Regionalverband München Spielprogramm "Umsonst und Draußen" während des LILALU-Sommerfestivals 3.000,- €; Az. 0262.0-9-0569
+- TOP 6.1.5.: (E) Stadtbezirksbudget Seniorentreff Neuhausen e.V. "Feier 40 Jahre Seniorentreff Neuhausen" 4.600,-€; Az. 0262.0-9-0563
+- TOP 6.1.6.: (E) Stadtbezirksbudget Förderkreis BIOTOPIA - Naturkundemuseum Bayern e.V. Integrations- und Bildungsprojekt für ukrainische, geflüchtete Kinder und Familien 4.000,- €; Az. 0262.0-9-0568
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Ein Hauch von Madrid - Dachterrassenbar auf dem Kaufhof - vertagt aus 04/22 -
+- TOP 6.2.2.: Urin an Gehweg unter Friedenheimer Brücke
+- TOP 6.2.3.: BA-Kinderfest am Grünwaldpark und "Markt der Möglichkeiten" im Rahmen der Inklusionswoche
+- TOP 6.2.4.: BA 9 veranstaltet eine temporäre Spielstraße in der Hanebergstraße
+- TOP 6.2.5.: Klärung Leerstand Wotanstraße 72 ob Zweckentfremdung vorliegt? Zwischennutzung möglich?
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Migrations-/Integrationsbeauftragte im Bezirksausschuss
+- TOP 6.3.2.: 12. bezirksübergreifende Spielaktionen für Kinder von CultureClouds (ehem. Spielen in der Stadt) e.V.: Straße. Oase - im Freien überwiegend auf öffentlichen Plätzen, vereinzelt in städt. Grünanlagen ab August bis Ende Oktober 2022
+- TOP 6.3.3.: Errichtung eines Neubaus als Alten- und Service-Zentrums in der Arnulfstraße 294 - Projektauftrag
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Jugend Container für Neuhausen-Nymphenburg aus Stadtteilbudget
+- TOP 6.4.2.: Aufstellung von zwei kleinen Fußballtoren für die Spielwiese östlich des Kleinkinderspielplatzes am Tizianplatz (bsl)
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Protokoll des 75. Münchner Kinder- und Jugendforums
+- TOP 6.5.2.: Beschluss des Bildungsausschusses vom 25.05.22: Anhörungsverfahren zur Änderung der Förderschulorganisation in der LHM... (SV Nr. 20-26 / V 06089)
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Vorkaufsrecht - Vortrag im Mieterbeirat
+- TOP 6.6.2.: Bericht der Beauftragten
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget: Initiative Kreativspaziergang, Interaktive Kreativspaziergänge durch das Kreativquartier von Mai 2022 - November 2022 3.000,00€; Az. 0262.0-9-0554 (vertagt aus 04/22)
+- TOP 7.1.2.: (E) Stadtbezirksbudget Initiative "Vom Meer weit entfernt" Ausstellung "Vom Meer weit entfernt" 3.595,40,- €; Az. 0262.0-9-0575
+- TOP 7.1.3.: (E) Stadtbezirksbudget Maria-Ward-Chor e.V. Nymphenburg "Chorkonzert: Bach Matthaeus Passion" 4.250,-€ Az.0262.0-9-0547
+- TOP 7.1.4.: (E) Stadtbezirksbudget Storybox München gUG "Stimmen aus Neuhausen erzählen Geschichten für Neuhausen - interaktives Projekt" 8.130,-€; Az. 0262.0-9-0559
+- TOP 7.1.5.: (E) Stadtbezirksbudget Rehab Republic e.V. "Kulturprogramm beim YEAH-Festival" 3.879,-€; Az. 0262.0-9-0572
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Anfrage für eine Kulturveranstaltung: Kulturprojekt für die Münchner Partyszene
+- TOP 7.2.2.: Nutzer*innengemeinschaft Gabriele
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Veranstaltung in städtischen Grünanlagen: Theater vor der Haustür - PLAN H im Grünwaldpark am 17.07.22
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Briefkasten im Birketweg - Kunstprojekt "Brief an die Zukunft"
+- TOP 7.4.2.: Anfrage anlässlich der Bürgerversammlung am 05.05.22: Warum sind die Anwohner*innen bei der Umbenennung der Hilblestraße nicht mit einbezogen worden?
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: Atelierhaus Dachauer Straße - Gespräch Atelierhaus mit Verwaltung und MGH (vertagt aus 12/21)
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Übergabe Wandgestaltung Leonrodhaus
+- TOP 7.6.2.: Eröffnung Trafo / Rückblick
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Kita Wurzelmaus e.V. sucht eine neue Immobilie
+- TOP 8.2.2.: Mehr kostenfreie Boxtrainings für Jugendliche in Neuhausen-Nymphenburg
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 8.5.2.: (U) Sachstandsbericht zum Sportbauprogramm A. Erläuterung der Ausgangslage im Hinblick auf die Fortschreibung des Sportbauprogramms 1. Inhalt und Umfang des Sportbauprogramms 2. Berichtswesen zum Sportbauprogramm 3. Stadtratsbeschlüsse und gesetzliche Änderungen mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht B. Fortschreibung Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten sowie zum 1., 2. und 3. Maßnahmenpaket 3. Finanzierung 4. Ausblick auf das 4. Maßnahmenpaket 5. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 6. Geschlechtergerechtigkeit im Sportstättenbau C. Fortschreibung des Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 5. Geschlechtergerechtigkeit im Sportstättenbau D. Fortschreibung Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau E. Beteiligungen und Anhörungen
+- TOP 8.6: Verschiedenes
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.1.1.: Entscheidung über Sitzung im August
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Öffentlichkeitsarbeit als fester Bestandteil der Tagesordnung aller Unterausschüsse für zwei Jahre testen
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren: Fortschreibung für die Jahre 2022 bis 2026
+- TOP 9.3.2.: Anhörungsrecht für den Bezirksausschuss bei Großveranstaltungen
+- TOP 9.3.3.: Logo zum 75jährigem Jubiläum der Bezirksausschüsse
+- TOP 9.3.4.: Veranstaltung im Freien in einer städtischen Grünanlage: Gottesdienst im Hirschgarten (Rodelhügel) am 10.07.22
+- TOP 9.3.5.: Veranstaltung auf öffentlichem Verkehrsgrund: Straßenfest Reinmarplatz
+- TOP 9.3.6.: Veranstaltung in einer städtischen Grünanlage: Lilalu-Familienferienprogramm, Kinderferien- und offenes Kinderspielprogramm (Zelte, Container), Theaterfestivalgelände (Spiridon-Louis-Ring 100), Olympiapark Süd 01.08. - 10.09.2022 jeweils von 07.00 Uhr - 19.00 Uhr, Aufbau: 22.07.22 ab 12.00 Uhr, Abbau: 16.09.22 bis 18.00 Uhr, Veranstalter*in: Johanniter-Unfall-Hilfe e.V., RV München
+- TOP 9.3.7.: Erneutes Anhörungsverfahren: Veranstaltung auf öffentlichem Grund, im Freien auf Privatgrund und in einer Grünanlage - Hier: Disziplin Radfahren des Age Group Triathlon im Rahmen der EC 2022 vom 11-14.08.2022
+- TOP 9.3.8.: Veranstaltung in einer städtischen Grünanlage: Lilalu-Familienferienprogramm, Kinderferien- und offenes Kinderspielprogramm (Zelte, Container), Theaterfestivalgelände, Spiridon-Louis-Ring 100, Olympiapark Süd vom 01.08.-10.09.2022 jeweils von 07 - 19 Uhr
+- TOP 9.3.9.: Veranstaltung: Triathlon EM Altersklassen; Radstrecke Karlsfeld-München, Olympiapark am 14.08.22
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Verlängerung des Pilotversuchs "Plakatierung durch Bezirksausschüsse"
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Veranstaltung auf öffentlichem Verkehrsgrund: Straßenfest Donnersbergerstraße am 30.07.2022 (gleicher Aufbau und Umfang wie in den Vorjahren) - Vorabzustimmung durch BA-Vorsitzende -
+- TOP 9.5.2.: Informationsschreiben BA 02/2022: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen
+- TOP 9.5.3.: Veranstaltung auf öffentlichem Verkehrsgrund: SPD Sommerfest am 23.07.22 auf dem Rotkreuzplatz
+- TOP 9.5.4.: Vorabprüfung Campingplatz während des Oktoberfestes auf dem Theaterfestivalgelände
+- TOP 9.6: Verschiedenes
+- TOP 4.3.2.: Baumfällungen bei Bauvorhaben: - Dantestr. 16 - Nibelungenstr. 57 - Richelstr. 3 - Marsstr. 80
+- TOP 3.1.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.18 über die Projektplanung: Leonrodplatz - Vorplatz Strafjustizzentrum
+- TOP 4.1.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.18 über die Projektplanung: Leonrodplatz - Vorplatz Strafjustizzentrum (Unterlagen bei TOP 3.1.2)
