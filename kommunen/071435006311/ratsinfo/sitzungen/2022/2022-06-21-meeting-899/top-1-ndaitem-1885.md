@@ -1,0 +1,6 @@
+# TOP 1.: Gewerbegebiet "Düdinghäuser Straße" - Ortsbesichtigung
+
+- Sitzung: Bauausschuss (6. Sitzung) (2022-06-21)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/1885
