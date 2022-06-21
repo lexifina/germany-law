@@ -1,0 +1,68 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-21T16:00:00+02:00
+- Ende: 2022-06-21T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21936
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21936
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452767.pdf
+- Ergebnisprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452767.pdf
+- Wortprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00452767.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der NiederschriftSI-BV2/004/2022 vom 17.05.2022 - zurückgezogen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Vorstellung des Kinder- und Jugendförderplans - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Lindenstraße 65 - Beseitigung einer Lagerhalle - einstimmig beschlossen
+- TOP 9: Albertstraße 96 - Beseitigung eine Gewerbehalle - einstimmig beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlage im Stadtbezirk 2 (Liste A) - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 11: Ausstellung der Nails Projectroom e.V. anlässlich der Düsseldorf-Cologne Open Galleries (DC-Open) - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 12: Zuschuss an die Evang. Emmaus-Gemeinde für "Musik in Matthäi 2022„ aus bezirksbezogenen Haushaltsmitteln - Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 13: Zuschuss an die Evang. Emmaus-Gemeinde für "Musik an Matthäi 2022„ aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 14: Bezirksbezogene Haushaltsmittel für Konzerte der Kantorei an Matthäi - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 15: Antrag der Kantorei an Matthäi - Antrag der FDP-Fraktion - zurückgezogen
+- TOP 16: Bahnhaltestelle Schillerplatz der Linien U71, 706, 708 und 725 auf der Herderstraße - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 17: Trampelpfad Brahmsplatz - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 18: Trampelpfade Zoopark - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 19: Prüfung Ackerstraße als Fahrradstraße - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 20: Aufstellung von Fahrradständern Ecke Hallbergstraße/ Mathildenstraße - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 21: Geschwindigkeitstafeln auf der Ackerstraße westlich des Lastrings - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 22: Spielplatz-Homepage der Stadt Düsseldorf - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 23: Sanierung des Hundeauslaufplatzes am Hansaplatz/Sybelstrasse - Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 24: Sanierung des Hundeauslaufplatzes am Hansaplatz/Sybelstrasse - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 31: Bereich südliche Grafenberger Allee nähe Kreuzungsbereich Engerstraße - Anfrage der SPD-Fraktion - beantwortet
+- TOP 32: Baumfällungen auf dem Grundstück Schumannstraße 30 - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Fahrradweg Graf-Recke-Straße - Anfrage der FDP-Fraktion
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Kosten und Erlöse der Anwohnerparkausweiszonen - Anfrage der CDU-Fraktion
+- TOP 37: Sicherheitskonzept für das Drogenzentrum auf der Flurstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 40: Hundeauslauf Zoopark - Beschluss der Bezirksvertretung 2, Vorlage BV2/013/2022 - zur Kenntnis genommen
+- TOP 41: Überquerung der Sohnstraße an der Grafenberger Allee stadteinwärts - Beschluss der Bezirksvertretung 2, Vorlage BV2/197/2020 - zur Kenntnis genommen
+- TOP 42: Kreisverkehr Bruchstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/175/2021 - zur Kenntnis genommen
+- TOP 43: Spielplatz Neanderstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/036/2022 - zur Kenntnis genommen
+- TOP 44: Ordnungspolitischer Vorschlag im Bereich Verkehr für die Kühlwetterstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/028/2022 - zur Kenntnis genommen
+- TOP 45: Bänke Brehmstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/052/2022 - zur Kenntnis genommen
+- TOP 46: Prozessstruktur Beteiligung Nahverkehrsplanung - zur Kenntnis genommen
