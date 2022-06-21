@@ -1,0 +1,55 @@
+# Rat (15. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2022-06-21T18:00:00+02:00
+- Ende: 2022-06-21T20:25:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUqEw-bqGOc084BBjkNlA_Q
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20677
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfWwyr9DZtb57ugFdm-asMzqiKldUJSsEWoRdanw1E9A/Bekanntmachung_Rat_21.06.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZuEke-eBKzrHzpf3BfXAyT8vE-K5jPmobBRQr3lCYiv/Oeffentliche_Niederschrift_Rat_21.06.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 18.05.2022 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Umbesetzung von Ausschüssen hier: Antrag der FDP-Fraktion vom 07.06.2022 zur Umbesetzung im Bildungs- und Sozialausschuss - Einstimmiger Beschluss:Hier stimmt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 5.: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Auftragsvergaben für die Maßnahmen des Wiederaufbauplans - Beschluss s. RD-Nr. 659-XI/Z-4.
+- TOP -: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Auftragsvergaben für die Maßnahmen des Wiederaufbauplans - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin nicht mit.
+- TOP 6.: Auftragsvergabe für die Straßenreinigung und Leerung der Straßenpapierkörbe im Kernstadtbereich hier: Genehmigung einer überplanmäßigen Ausgabe - Mehrheitlicher Beschluss mit 1 Nein-Stimme:
+- TOP 7.: Schaffung einer Begegnungsstätte im Nebenraum der Mehrzweckhalle Arloff hier: Antrag der CDU-Fraktion vom 10.03.2022 - Kein Beschluss, da Antrag zurückgezogen wurde.
+- TOP 8.: Anlagerichtlinie der Stadt Bad Münstereifel - Beschluss s. RD-Nr. 753-XI/Z-1.
+- TOP -: Anlagerichtlinie der Stadt Bad Münstereifel - Mehrheitlicher Beschluss mit 1 Nein-Stimme:
+- TOP 9.: Verwendung der Bundesmittel für Ukraine-Vertriebene Hier: Genehmigung überplanmäßiger Leistungen - Einstimmiger Beschluss:
+- TOP 10.: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel - Mehrheitlicher Beschluss mit 1 Nein-Stimme:
+- TOP 11.: Förderprogramm "Feuerwehrhäuser in Dörfern 2022", hier: Neubau Feuerwehrgerätehaus Eicherscheid; Antrag Förderprogramm "Feuerwehrhäuser in Dörfern 2023" - Einstimmiger Beschluss:
+- TOP 12.: Schulentwicklungsplanung 2021/2022 bis 2026/2027 der Stadt Bad Münstereifel hier: Vorstellung des Entwurfs - Beschluss s. RD-Nr. 651-XI/Z-1.
+- TOP -: Schulentwicklungsplanung 2021/2022 bis 2026/2027 der Stadt Bad Münstereifel hier: Vorstellung des Entwurfs - Einstimmiger Beschluss:
+- TOP 13.: Medienentwicklungsplan für die Schulen hier: Beschlussfassung - Einstimmiger Beschluss:
+- TOP 14.: Erinnerungsstätte zur Flutkatastrophe hier: Freitreppe - Einstimmiger Beschluss:
+- TOP -: Erinnerungsstätte zur Flutkatastrophe hier: Antrag der SPD-Fraktion vom 02.06.2022 zur Errichtung einer Gedenkstätte - Beschluss s. RD-Nr. 765-XI.
+- TOP 15.: Fachnetzwerk Fördermittelakquise NRW; hier: Begründung der Mitgliedschaft und Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss bei 2 Enthaltungen:
+- TOP 16.: Denkmalförderprogramm 2022 des Landes NRW hier: Förderung kleinerer denkmalpflegerischer Maßnahmen Privater mit Pauschalzuweisungen; Korrektur maximale Fördersumme - Einstimmiger Beschluss:
+- TOP 17.: Bebauungsplan Nr. 98 "Erlenhecke" im Ortsteil Arloff im beschleunigten Verfahren gemäß § 13a BauGB "Bebauungspläne der Innenentwicklung"hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) erfolgen einstimmig ohne Mitwirkung der SPD-Fraktion. Bei Nr. 01.1 – Stellungnahme der Öffentlichkeit gem. § 3 Abs. 2 BauGB- erfolgt der Abwägungsbeschluss einstimmig mit 1 Enthaltung.
+- TOP -: Bebauungsplan Nr. 98 "Erlenhecke" im Ortsteil Arloff im beschleunigten Verfahren gemäß § 13a BauGB "Bebauungspläne der Innenentwicklung" hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschlüsse s. RD-Nr. 588-XI.
+- TOP 18.: Satzung über örtliche Bauvorschriften (Gestaltungssatzung) nach § 89 der Bauordnung Nordrhein - Westfalen (BauO NRW) für den Geltungsbereich des Bebauungsplanes Nr. 54 „Kirspenich, Hardtburgstraße“, Stadt Bad Münstereifel hier: Neufassung - Mehrheitlicher Beschluss mit 11 Nein-Stimmen:
+- TOP 19.: ZOB Kölner Straße, Bad Münstereifel (2. BA) hier: Vorstellung der Maßnahme - Einstimmiger Beschluss:
+- TOP -: ZOB Kölner Straße, Bad Münstereifel (2. BA) hier: Antrag der SPD-Fraktion vom 05.06.2022, eingegangen am 07.06.2022 - Beschluss s. RD-Nr. 754-XI.
+- TOP 20.: Ersatzbeschaffung eines Anbaugerätes für den Geräteträger John Deer hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 21.: Anfragen und Mitteilungen
+- TOP 21.1: Partnerschaftstreffen 2022 hier: Abfrage der Teilnehmer*innen
+- TOP 21.2: Heinz-Gerlach-Halle hier: Mitteilung über den Stand der Instandsetzungsarbeiten
+- TOP 21.3: Kita Magische 12 hier: Mitteilung über eine mögliche Nutzungsverlängerung
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Errichtung von Windenergieanlagen hier: Vorstellung und Beratung der Angebote - Einstimmiger Beschluss:
+- TOP 2.: ZOB Kölner Straße, Bad Münstereifel (2. BA) hier: Ausschreibung und Vergabe der Bauleistungen sowie Auftragserweiterung der Ingenieurleistungen - Einstimmiger Beschluss:
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Sachstand Animal Food hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
+- TOP 3.2: Grundstücksflächen hinter der ehemaligen Bäckerei Rodert, Kölner Str. hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
+- TOP 3.3: St. Angela-Gymnasium hier: Mitteilung über Anfragen seitens des Gymnasiums
+- TOP 3.4: Verabschiedung Stadtverordnete in die Sommerpause
