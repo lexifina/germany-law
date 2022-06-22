@@ -1,0 +1,119 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-06-22T17:18:00+02:00
+- Ende: 2022-06-22T22:37:00+02:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4432
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4432
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Parkplatzsituation Columbiadamm - beantwortet
+- TOP 1.2: Stege am Maybachufer (Kreuzung Schinkestraße und Gegenüber Aldi) - schriftlich beantwortet
+- TOP 1.3: Gewalt auf Neukölln Straßen, in Schulen und Parks - schriftlich beantwortet
+- TOP 1.4: Umwelt/ Artenschutz - beantwortet
+- TOP 1.5: Verkehrsberuhigung - beantwortet
+- TOP 1.6: Gefährliche und ruhestörende Raserei in der Reuterstraße - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Erzieher*innen fair bezahlen und an ihren Schulen halten - in der BVV abgelehnt
+- TOP 4.2: Livestream beibehalten - Neuköllner Bezirksverordnetenversammlung bürgernah im 21. Jahrhundert - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Fortschreibung der Leitlinien zum Neuköllner Personalmanagement 2022 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Frauenförderplan des Bezirksamts Neukölln von Berlin 2022-2028 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Stadtentwicklung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Zielvereinbarung zur Optimierung der Zusammenarbeit im Amtlichen Vermessungswesen und zur Qualitätssicherung von Kernprozessen des Amtlichen Vermessungswesens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Veränderungssperre XIV-185cbb/36 für das Grundstück Juliusstraße 58 / Britzkestraße 10 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-185cbb - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Prioritätenlisten Städtebauförderung Fördergebiete Karl-Marx-Straße/Sonnenallee und Schillerpromenade - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Bebauungsplan 8-73a („Harzer Straße / Geyer-Werke“) - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl eines Bürgerdeputierten in den Ausschuss für Stadtentwicklung - gewählt
+- TOP 7.2: Mitgliedern des Ehrenamtlichen Dienstes in Sozialkommissionen bzw. Sondersozialkommissionen - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Eine neue Schule für Neukölln? - beantwortet
+- TOP 8.2: Bürger*innen unterstützen das Neuköllner Ordnungsamt - beantwortet
+- TOP 8.3: EU-Fördermittel - beantwortet
+- TOP 8.4: Problemimmobilien: Trotz Begehung keine Lösung? - beantwortet
+- TOP 8.5: Einrichtungsbezogene Impfpflicht in Neukölln - schriftlich beantwortet
+- TOP 8.6: Warum lässt das Bezirksamt Lastenfahrräder im Wert von 60.000 €! vergammeln? - beantwortet
+- TOP 8.7: Wirkung der neuen Umwandlungsverordnung in Neukölln - beantwortet
+- TOP 8.8: Informationstafel an der Lucy-Lameck-Straße - beantwortet
+- TOP 8.9: E- Scooter Chaos am S-Bahnhof Köllnische Heide verhindern! - schriftlich beantwortet
+- TOP 8.10: Berliner Vergabemindestlohn beim Schulcatering - schriftlich beantwortet
+- TOP 8.11: Wiedereröffnung des Rixdorfer Brauhauses Glasower Straße - schriftlich beantwortet
+- TOP 8.12: Notstromversorgung für Neukölln - schriftlich beantwortet
+- TOP 8.13: Die Steuerlast mit den Lastenfahrrädern - beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Verfügungsfonds für Schulen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Multifunktions-Mensa für die Karlsgarten-Schule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.2: Gedenkort für Burak Bektas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Sharing Neukölln - sharing heritage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Abwendungsvereinbarungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Kein Kind bleibt zurück! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Wahlen zur Seniorenvertretung – Briefwahl erleichtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.7: Neukölln hilft Geflüchteten aus der Ukraine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Bundesprogramm „Anpassung urbaner Räume an den Klimawandel“ - beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Verfügungsfonds - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Die Grundschule am Koppelweg muss kommen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: BVG Häuschen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Verbesserung des Busverkehrs entlang der Mohriner Allee - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Ein Straßenbahnnetz für Neukölln - in der BVV abgelehnt
+- TOP 12.6: Fließender Verkehr auf den Magistralen in Neukölln-Nord - in der BVV abgelehnt
+- TOP 12.7: Sicher durch die Hufeisensiedlung - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Beschleunigung des Verkehrsflusses an der Kreuzung Neuköllner Straße Ecke Stubenrauchstraße - in der BVV abgelehnt
+- TOP 12.9: Nutzung von Regenwasser aus Dachabläufen zur Bewässerung von Straßenbäumen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Kein Linksabbiegen in den Mariendorfer Weg - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Sicher zu Fuß entlang des Landwehrkanals - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Ungleichbehandlung bei der geschlechterspezifischen Jugendarbeit von weiblichen und männlichen Kindern und Jugendlichen - in der BVV abgelehnt
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Bezirkliche Anlaufstellen für Bürgerbeteiligung - beantwortet
+- TOP 13.2: Hitzeschutz in Neukölln - Jetzt Anfangen - beantwortet
+- TOP 13.3: Wie viel Geld versickert in der Hasenheide? - vertagt
+- TOP 13.4: Sprachstandserhebungen in Neukölln - vertagt
+- TOP 13.5: Programm „Saubere Stadt“ - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 14.1: Veranstaltung „Kultur.Tanken“ am 21.05.2022 auf der ehemaligen ESSO Tankstelle Sonnenallee / Hobrechtstraße - schriftlich beantwortet
+- TOP 14.2: Nutzung von öffentlichen Grünanlagen durch kommerzielle Sportkursanbieter - schriftlich beantwortet
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Upcycling unterstützen - Verlosung von Schrottfahrrädern - überwiesen
+- TOP 15.2: Lastenräder in der Gropiusstadt ausleihen - überwiesen
+- TOP 15.3: Parken Köpenicker Straße - überwiesen
+- TOP 15.4: Mittel für Müllentsorgung aus dem Aktionsprogramm „Saubere Stadt“ beantragen - überwiesen
+- TOP 15.5: Ausbau des Radverkehrs auf Kosten der Sicherheit - überwiesen
+- TOP 15.6: Neuköllner Seniorenfreizeitstätten baulich in Schuss halten - überwiesen
+- TOP 15.7: Schulwegsicherheit an der Oskar-Heinroth-Schule verbessern - überwiesen
+- TOP 15.8: Ein Spielstraßenmobil für Neukölln! - überwiesen
+- TOP 15.9: Reinigung Rudower Fließ - überwiesen
+- TOP 15.10: Sichere Überquerung Teupitzer Straße / Kiehlufer für Fußgänger:innen - überwiesen
+- TOP 15.11: Sicherer Übergang an der Einmündung Einhornstraße /Dammweg - überwiesen
+- TOP 15.12: Eindeutige Vorfahrt für die Oderstraße - überwiesen
+- TOP 15.13: Halteverbot - überwiesen
+- TOP 15.14: Neukölln von Beginn an bei der Reaktivierung der Stammbahn mitdenken - überwiesen
+- TOP 15.15: Tempo 30 am Dammweg sichtbar machen - überwiesen
+- TOP 15.16: Kostenlose Ausgabe von Menstruationsartikeln - überwiesen
+- TOP 15.17: Behindertenfreizeitstätte Alt-Buckow - überwiesen
+- TOP 15.18: Mit gutem Beispiel voran: Lastkraftwagen des Bezirksamtes mit Abbiegeassistenten ausstatten - überwiesen
+- TOP 15.19: Tangential- und Radialrouten für den Radverkehr bekannter machen - überwiesen
+- TOP 15.20: Fahrradbügel am „Falkplatz“ - überwiesen
+- TOP 15.21: Durchfahrt durch die Grünanlagen Lessing- und Thomashöhe für Radfahrende erlauben - überwiesen
+- TOP 15.22: Sanierung Umlaufbahn und Leichtathletikanlagen Stadion Britz-Süd - überwiesen
+- TOP 15.23: Außerschulische Bildungsstätte - überwiesen
+- TOP 15.24: Alt-Buckow Einbahnstraße für Fahrräder in beide Richtungen - überwiesen
+- TOP 15.25: Kinder- und Jugend - Ehrenamtsauszeichnung - überwiesen
+- TOP 15.26: Fahrradbügel für das Stadion Britz-Süd - überwiesen
+- TOP 15.27: Dem Fahrradverkehr eine „fließende“ Zufahrt zum Karl-Marx-Platz ermöglichen - überwiesen
+- TOP 15.28: Berlin feuerwerksarm: Für Menschen, Tiere und Umwelt! - überwiesen
+- TOP 15.29: Umwandlung von Park- in Begegnungsflächen vor dem Nachbarschaftstreff Schillerkiez - überwiesen
+- TOP 15.30: Regelmäßige Sperrmüll-Kieztage einführen - überwiesen
+- TOP 15.31: Fahrradweg auf der Flughafenstraße - überwiesen
