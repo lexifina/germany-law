@@ -1,0 +1,98 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2022-06-22T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6837129
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6837129
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "3 Beginners" Mobile Box für Veranstaltungen 2.700,- €; Az. 0262.0-24-0402
+- TOP 2.2.: (E) Stadtbezirksbudget Elternbeirat der Erich-Kästner-Realschule Kunstprojekt "Bunte Schule" 2.000,- €; Az. 0262.0-24-0401
+- TOP 2.3.: (E) Stadtbezirksbudget Blaskapelle Feldmoching e.V. Toilettencontainer für den &#039;Feldmochinger Dorfabend&#039; 1.881,39 €; Az. 0262.0-24-0405
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative Offene Fußballstunde Hasenbergl Anschaffungen zur Durchführung der offenen Fußballstunde 1.400,- €; Az. 0262.0-24-0406
+- TOP 2.5.: (E) Stadtbezirksbudget Schwestern und Brüder des heiligen Benedikt Labre e.V. Baumpflegearbeiten auf dem Gelände "Auf den Schrederwiesen" 3.900,-€ Az.0262.0-24-0407
+- TOP 2.6.: (E) Stadtbezirksbudget SV Italia 1965 München Jugendsportfest vom 23.-24.07.2022 4.205,- €; Az. 0262.0-24-0404
+- TOP 2.7.: (E) Stadtbezirksbudget Wild Wuchs e.V. Ferienangebot "Die wilde Rübe – Eine Räuber*innen-Geschichte zum mitspielen" 2.880,-€ Az.0262.0-24-0408
+- TOP 2.8.: (E) Stadtbezirksbudget SC Lerchenauer See e.V. Wiederherstellung der Heizungsfunktion in den Räumen des Vereins 4.088,02,- €; Az. 0262.0-24-0403
+- TOP 2.9.: (E) Stadtbezirksbudget Initiative "Rococons" Tanz-Theaterprojekt "Rococons - Ein Bericht über Marie A." 2.750,00 € / Az. 0262.0-24-0311 - ÄNDERUNGSANFRAGE -
+- TOP 2.10.: (E) Neubau öffentliche Grünfläche und Ausgleichsfläche im Geltungsbereich des Bebauungsplans mit Grünordnung Nr. 2106 Hochmuttinger Straße (östlich), Herbergstraße (nördlich), Paul-Preuß-Straße (westlich) im 24. Stadtbezirk Feldmoching-Hasenbergl Bedarfs- und Konzeptgenehmigung
+- TOP 3.1.: Einrichtung einer Bewegungsinsel im Hasenbergl
+- TOP 3.2.: Kommunales Medizinisches Versorgungszentrum im Stadtbezirk 24
+- TOP 3.3.: Verkehrssichere Herstellung der Wege im nördlichen Bereich des Rangierbahnhofsgeländes zwischen Verlängerung Pappelallee und Feldbahnstraße
+- TOP 3.4.: Streetworker im 24. Stadtbezirk; Beschränkung des Zuständigkeitsbereiches mit der gesamten Stundenzahl auf den 24. Stadtbezirk
+- TOP 3.5.: Vorziehen der Fertigstellung des Gymnasiums auf dem Schulcampus Lerchenauer Straße
+- TOP 3.6.: Errichtung von vier Lademöglichkeiten für Elektrofahrzeuge in der Schittgablerstraße
+- TOP 3.7.: Maßnahmen gegen Fahrradrowdies in der Weitlstraße (aktueller Stand)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben (inkl. Baumfällungen):
+- TOP -: Hinweis: Die Bauunterlagen mit Plänen sind jeweils separat im Ordner "Sitzungsunterlagen" bei der Sitzung in Alfresco hinterlegt.
+- TOP 1.: Balsaminenstr. 23
+- TOP 2.: Dülferstr. 19 (Vorbescheid)
+- TOP 3.: Hederichstr. 2
+- TOP 4.: Himmelschlüsselstr. 13
+- TOP 5.: Karlsfelder Str. 13
+- TOP 6.: Reinachstr. 45 (Haus 1)
+- TOP 7.: Reinachstr. 45 (Haus 2)
+- TOP 8.: Reinachstr. 45 (Haus 3)
+- TOP 9.: Schleißheimer Str. 409
+- TOP 10.: Detmoldstr. 28
+- TOP 11.: Dülferstr. 18 (Vorbescheid)
+- TOP 12.: Ebereschenstr. 22
+- TOP 13.: Lerchenauer Str. 305 b
+- TOP 14.: Lilli-Kurowski-Str., Fl.Nr. 5422, Gem. Feldmoching (69 WE)
+- TOP 15.: Hochmuttinger Str., Fl.Nr. 5434, Gem. Feldmoching (Sonderbau)
+- TOP 16.: Marie-Juchacz-Str., Fl.Nr. 5421, Gem. Feldmoching (WA 4 - 74 WE)
+- TOP 17.: Marie-Juchacz-Str., Fl.Nr. 5419, Gem. Feldmoching (WA 3 - 87 WE)
+- TOP 18.: Weitlstr. 115
+- TOP 19.: Karlsfelder Str., Fl.Nr. 4057/2, Gem. Feldmoching - TEKTUR
+- TOP 5.2.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichem Grund
+- TOP 5.2.1.: European Championships Munich 2022 - Testival am Regattaparksee im August 2022
+- TOP 5.2.2.: Straßenfest der Anwohner Schlottwiesenweg am 29.07.2022, Schlottwiesenweg, Wendehammer
+- TOP 5.2.3.: ABIX Herbstfest am 17.09.2022, Weitlstr. 125
+- TOP 5.3.: Sonstige Anhörungen
+- TOP 5.3.1.: Anhörungsrecht für den Bezirksausschuss bei Großveranstaltungen
+- TOP 5.3.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung einer Schulbushaltestelle in der Irisstraße
+- TOP 5.3.3.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mit Radarsystem (TOPO-Boxen); Einsatz von TOPO-Boxen als städtische Leistung für Bezirksausschüsse
+- TOP 5.3.4.: Abfrage des Stadtteilzentrums im jeweiligen Stadtbezirk
+- TOP 5.3.5.: Erinnerungsverfahren zur Baustelle Am Blütenanger 93 - 157 (Gehwegsanierung)
+- TOP 5.3.6.: Anhörung zur Baumaßnahme; Projektname: Hochmuttinger Straße (B-Plan 2106), Projekt-Nr. 5744
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP -: Antwortschreiben
+- TOP 1.: Anpassung des Flächennutzungsplans im Bereich des Virginia-Depots
+- TOP 2.: Straßen-, Plätze- und Wegebenennungen für das Baugebiet an der Lerchenauer Straße sowie für das Baugebiet Ratold-/Raheinstraße
+- TOP 3.: Anforderung weiterer Auswertungsdaten zu der Pilotstudie Dialog-Displays
+- TOP 4.: Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 5.: Planfeststellung nach §§ 17, 17a FStrG i. V. m. Art. 72 ff. BayVwVfG für das Vorhaben A 99 - Sanierung Tunnel Allach u. Temporäre Seitenstreifenfreigabe AD München-Allach bis AD München-Feldmoching, beantragt von der Autobahndirektion Südbayern - Hier: Photovoltaik-Module
+- TOP -: Sonstige Unterrichtungen
+- TOP 6.: Anhörung zum Beschlussentwurf: Verkehrskonzept Münchner Norden - Verkehrliche Erreichbarkeit des Münchner Norden, Erarbeitung und Gegenüberstellung zweier Planfälle.... - Vorabstellungnahme des BA-Vorsitzenden -
+- TOP 7.: Anhörungen zu Veranstaltungen in städtischen Grünanlagen oder auf öffentlichem Grund: a) Theateraufführung foolpool am 07.07.2022 im Kulturzentrum 2411, Blodigstr. 4 b) Seefest am 02.07.2022 am Feldmochinger See c) Fit im Park der LHM am Feldmochinger Anger (südl. Spielplatz ABIX) ab 22.06.2022 bis 10.08.2022 - Vorabstellungnahmen des BA-Vorsitzenden -
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 8.: (U) 75 Jahre Bezirksausschüsse – Festakt / Informationskampagne Darstellung der personellen Mehrbedarfe
+- TOP 9.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 10.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 11.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/63 Ponkratzstraße (südlich), Lerchenstraße (westlich), Müllritterstraße (westlich), Drudhardstraße (westlich), Lerchenauer Straße (östlich), Joseph-Zintl-Straße (östlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 24 - Feldmoching-Hasenbergl
+- TOP 12.: (U) Bebauungsplan mit Grünordnung Nr. 2138 „Lerchenauer Straße“ der Landeshauptstadt München Ponkratzstraße (südlich), Lerchenstraße (westlich), Müllritterstraße (westlich), Drudhardstraße (westlich), Lerchenauer Straße (östlich), Joseph-Zintl-Straße (östlich); (Aufhebung übergeleiteter Bebauungspläne gemäß § 173 Abs. 3 BBauG sowie Teilbereich des Bebauungsplanes Nr. 1255) - Billigungsbeschluss- Stadtbezirk 24 - Feldmoching-Hasenbergl
+- TOP 13.: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 14.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 3.8.: Dringlichkeitsantrag: Alternative Planung für die Siedlung Ludwigsfeld
+- TOP 20.: Schleißheimer Str. 451
+- TOP 5.2.4.: Sportaktionstag Parkmeile am 24.07.2022, Weitlstr. 125 (Weitlwiese)
+- TOP 3.: Anträge
