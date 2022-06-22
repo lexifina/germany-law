@@ -1,0 +1,63 @@
+# Rat (19. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2022-06-22T18:01:00+02:00
+- Ende: 2022-06-22T21:22:00+02:00
+- Ort: Bürgerhalle, Spinnereistraße 20, 48599 Gronau, Saal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZe7cgHS7RLCWBVO0NhKoQTw
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5110
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQAnEKnIHsk9w-XvWZxTo-jmCWhFhF94T3zXtU3O4nL7/Bekanntmachung_Rat_22.06.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe45EvaBMqfBgF3MBZm6pPqrLMM073K8dUklq8Bz40TC/Oeffentliche_Niederschrift_Rat_22.06.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Amtseinführung und Verpflichtung neuer Ratsmitglieder
+- TOP 3.: Niederschrift vom 18.05.2022
+- TOP 4.: Klimaschutzkonzept für die Stadt Gronau - Einstimmig, 1 Enthaltungen
+- TOP 5.: Förderantrag für ein Anschlussvorhaben Klimaschutzmanagement - Einstimmig, 0 Enthaltungen
+- TOP 6.: Verlängerung des Projektes "Plan G" - Einstimmig, 0 Enthaltungen
+- TOP 7.: Weiterführung der ehemaligen BUT Schulsozialarbeit ab 2023 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Trägerschaft für die neue Kindertageseinrichtung "Hofstelle Markenfort" im Sozialraum Gronau-Ost - 34 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 9.: Jahresabschluss für das Abwasserwerk der Stadt Gronau (Westf.) Wirtschaftsjahr 2021 - 36 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 10.: Entwurf des Jahresabschlusses 2021 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 11.: Haushaltskonsolidierung - Optionen und konkrete Vorschläge - Einstimmig, 0 Enthaltungen
+- TOP 12.: Beteiligung an Fa. Bürgerwind Gronau Epe GmbH & Co. KG - Vereinbarung zur Übertragung des Beteiligungsangebots auf grogeno - Bürgerenergie Gronau eG - Einstimmig, 0 Enthaltungen
+- TOP 13.: Übernahme einer Bürgschaftsverpflichtung zugunsten der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH - Einstimmig, 0 Enthaltungen
+- TOP 14.: Sachstandsbericht Sporthallen Gasstrasse
+- TOP 14.1: Sachstandsbericht Sporthallen Gasstrasse - Einstimmig, 0 Enthaltungen
+- TOP 15.: Anpassung der Planung 2. Bauabschnitt Freianlagen Innenstadt im Bereich Mühlenplatz - 34 Jastimmen, 1 Neinstimmen, 3 Enthaltungen
+- TOP 16.: 110. Änderung des Flächennutzungsplans für den Bereich "Südliche Steinstraße - West", Stadtteil Gronau Vorhabenbezogener Bebauungsplan "Dienstleistungs-, Schulungs und Forschungszentrum Steinstraße“, Stadtteil Gronau 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 3. Beteiligung der Behörden gem. § 4 Abs. 1 BauGB - 25 Jastimmen, 10 Neinstimmen, 1 Enthaltungen
+- TOP 16.1: 110. Änderung des Flächennutzungsplans für den Bereich "Südliche Steinstraße - West", Stadtteil Gronau Vorhabenbezogener Bebauungsplan "Dienstleistungs-, Schulungs und Forschungszentrum Steinstraße“, Stadtteil Gronau Stellungnahme des Vorhabenträgers zur Ursprungsvorlage Nr. 289/2022
+- TOP 17.: Sachstand zur Ukraine-Flüchtlingssituation (Stand 15.06.2022)
+- TOP 18.: Ergebnis der Ausschreibung: Soziale Betreuung von geflüchteten Menschen in Gronau ab dem 01.07.2022
+- TOP 19.: Personal- und Organisationsänderungen im Zusammenhang mit der Fluchtbewegung aus der Ukraine - Einstimmig, 1 Enthaltungen
+- TOP 20.: Sachstand zur Corona-Pandemie (Stand 15.06.2022)
+- TOP 21.: Jubiläum der Städtepartnerschaft mit Mezöberény / Ungarn
+- TOP 22.: Jubiläum der Städtepartnerschaft mit Bromsgrove / Großbritannien
+- TOP 23.: Spenden resultierend aus anteiligen Gewinnabführungen der Sparkasse Westmünsterland - Einstimmig, 0 Enthaltungen
+- TOP 24.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP III.: Öffentlicher Teil
+- TOP 26.: Abberufung einer Prüferin sowie Bestellung eines Prüfers und einer Prüferin im Fachdienst Rechnungsprüfung - Einstimmig, 0 Enthaltungen
+- TOP 27.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 27.1: Glasfaserverträge (Bericht aus dem Aufsichtsrat der Stadtwerke)
+- TOP 28.: Mitteilungen der Verwaltung
+- TOP 28.1: Präsentation der studentischen Arbeiten zum BSG-Gelände, dem Euregio-Quartier und der Germania
+- TOP 28.2: Drilandmuseum
+- TOP 28.3: Termin Ältestenrat
+- TOP 28.4: Zinswende
+- TOP 29.: Anfragen
+- TOP 29.1: Segelverein Gronau (Anfrage von RM Doetkotte)
+- TOP 29.2: Pestalozzischule (Anfrage von RM von Borzcyskowski)
+- TOP 29.3: Euregiogesamtschule (Anfrage von RM von Borzcyskowski)
+- TOP 29.4: Ampelführung Spinnereistraße/Gildehauser Str. (Anfrage RM Bajorath)
+- TOP 29.5: Parkmöglichkeiten Herzogstraße (Anfrage RM Greitenevert)
+- TOP 29.6: Zinssatz (Anfrage von RM Bisso)
+- TOP 29.7: Tretbootverleih am Drilandsee (Anfrage von RM Bisso)
+- TOP 29.8: BSG-Gebäude (Anfrage von RM Stenau-van Wüllen)
+- TOP 29.9: Brennstoffforschung (Anfrage von RM Buchholz)
+- TOP 29.10: Verabschiedung von ausgeschiedenen Ratsmitgliedern (Anfrage von RM Buß)
