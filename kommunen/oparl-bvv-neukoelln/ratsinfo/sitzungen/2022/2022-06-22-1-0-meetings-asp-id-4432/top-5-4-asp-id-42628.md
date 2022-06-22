@@ -1,0 +1,8 @@
+# TOP 5.4: Zielvereinbarung zur Optimierung der Zusammenarbeit im Amtlichen Vermessungswesen und zur Qualitätssicherung von Kernprozessen des Amtlichen Vermessungswesens
+
+- Sitzung: 9. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2022-06-22)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=42628
+- Ergebnis: zur Kenntnis genommen (Beratungsfolge beendet)
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=42628
