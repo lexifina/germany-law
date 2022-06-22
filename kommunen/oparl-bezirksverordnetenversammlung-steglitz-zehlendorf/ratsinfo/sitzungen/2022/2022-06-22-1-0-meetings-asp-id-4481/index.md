@@ -1,0 +1,116 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2022-06-22T17:00:00+02:00
+- Ende: 2022-06-22T22:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4481
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4481
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 2.1: Initiative Strahlenfreie Schule - überwiesen
+- TOP 3: Anträge - erledigt
+- TOP 3.1: Moratorium zur Mobilfunkantenne am Turm der Arndt-Oberschule - überwiesen
+- TOP 3.2: Schüler schützen – keine 5G-Antenne auf dem Arndt-Gymnasium - in der BVV zurückgezogen
+- TOP 4: Geschäftliche Mitteilungen - erledigt
+- TOP 5: Kleine Anfragen - erledigt
+- TOP 5.1: Heizkraftwerk Lichterfelde - beantwortet
+- TOP 5.2: Peter-Frankenfeld-Schule - beantwortet
+- TOP 5.3: Hitzehilfe für Steglitz-Zehlendorf - beantwortet
+- TOP 5.4: Wie ist der Status quo beim Ferdinand-Markt in Lichterfelde-Ost? - beantwortet
+- TOP 5.5: Positionierung des Bezirksamts zu Windkraftanlagen - schriftlich beantwortet
+- TOP 5.6: Kein Platz mehr für radioaktiven Abfall am Forschungsreaktor - wie geht’s weiter? - schriftlich beantwortet
+- TOP 5.7: Wie weiter mit dem Müll um die Matthäuskirche? - schriftlich beantwortet
+- TOP 5.8: Papierlose Quittierung von Entleihen in den Bezirksbibliotheken - schriftlich beantwortet
+- TOP 5.9: Bleibt das Bezirksamt bei der Einschätzung zu einer möglichen LZA auf Steglitzer Damm in Höhe Buhrowstraße? - schriftlich beantwortet
+- TOP 5.10: Sperrung der Takustraße zwischen Arnimallee und Schwendener Straße/Radwegespur „Brauerstraße/Kranoldplatz“ - schriftlich beantwortet
+- TOP 6: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 6.1: Unterstützungsmöglichkeiten für Partnerstadt Charkiw - in der BVV abgelehnt
+- TOP 6.2: Steglitz-Zehlendorf zur Age-friendly City machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Sondermittel der BVV für den Städtepartnerschaftsverein Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Sondermittel der BVV für die Nachbarschaftsinitiative Paulinenplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.5: Zwischenstand zu den Empfehlungen und Maßnahmenvorschlägen zur Entwicklung der Seengebiete - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.6: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.7: Parlamentarische Ferien 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.8: Weitergeltung der GO der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.9: Freie und sichere Fußwege in der Finckensteinallee – auch für Menschen mit Mobilitätseinschränkungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.10: Klassenfahrten – nicht Klassenflüge! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.11: Endlich eine Ampel in der Argentinischen Allee/Hertha-Müller-Haus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.12: Barrierefreiheit für Sehbehinderte im öffentlichen Straßenland gewährleisten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.13: Tempo 30 in der Onkel-Tom-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.14: Altglas-Container Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.15: Bewässerungssäcke nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.16: Kostenlose Bereitstellung von Menstruationsartikeln in Schulen und Jugendfreizeiteinrichtungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.17: Transparente Bezirksamtsprotokolle - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.18: Bahnhofsvorplatz Lichterfelde-West: Gesamtkonzept unter Bürger:innenbeteiligung erarbeiten, Kiosk erhalten, Autoverkehr reduzieren - in der BVV abgelehnt
+- TOP 6.19: Keine Glascontainer direkt an Fahrradwegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.20: Sichere Querung der Spanischen Allee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.21: Fahrradampel (Lichtzeichenanlage) an der Kreuzung Teltower Damm/Machnower Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.22: Geschäftsstelle Kulturnetzwerk „KulturKorso“ beim Kulturamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.23: Lieferzonen Steglitzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.24: Kulturveranstaltungen im öffentlichen Raum fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.25: THW Lerbacher Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.26: Mit Verkehrsinsel die Schulwegsicherheit in der Crailsheimer Straße erhöhen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.27: Sanierung des Bahnhofsgebäudes Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.28: Verkehrsabfluss in Lichterfelde-Süd: S-Bahn-Züge der S25 und S26 verlängern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.29: Rosemeyerweg umbenennen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.30: Wismarer Straße: Fußgänger*innen- statt Warteampel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.31: Gedenken an die bewegte Geschichte des Hauses Ahornstraße 15 a - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.32: E-Lastenfahrrad-Richtlinie – Förderprogramm nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.33: Wir würdigen den Einsatz der ehrenamtlichen Hilfskräfte für geflüchtete Menschen – ein Sommerfest als Zeichen der Anerkennung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.34: Am Förderaufruf "Investive, kommunale Klimaschutz-Modellprojekte" teilnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.35: Erweiterung der Zahlungsmöglichkeiten in den Bürgerämtern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.37: Synchrongrün am Asternplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.38: Segregation der Sozialwohnungen im Neubaugebiet Lichterfelde-Süd vermeiden - in der BVV abgelehnt
+- TOP 6.39: Nutzung von digitalen Lösungen im Rahmen der Parkraumüberwachung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.40: Online-Anmeldung Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.41: E-Roller, die andere Verkehrsteilnehmende gefährden, entfernen und die verantwortlichen NutzerInnen mit Bußgeld belegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 7.1: Übersicht aller Sportmöglichkeiten im Bezirk online - überwiesen
+- TOP 7.2: Hitzehilfe für Steglitz-Zehlendorf - überwiesen
+- TOP 7.3: Mehr rollstuhlgerechte Wohnungen - überwiesen
+- TOP 7.4: Mehr Trinkbrunnen in Steglitz-Zehlendorf - überwiesen
+- TOP 7.5: Besetzung der Stelle des Flüchtlingskoordinators zügig umsetzen - überwiesen
+- TOP 7.6: Bürger*innentreffpunkt Lichterfelde-West beleben – für alle Generationen - überwiesen
+- TOP 7.7: Beteiligung auf den Weg bringen – beschlossenen Einwohnerantrag umsetzen - überwiesen
+- TOP 7.8: Gleichbehandlung – auch auf City-Toiletten! - überwiesen
+- TOP 7.9: Ausweitung der Parkraumbewirtschaftung auch in Steglitz-Zehlendorf - überwiesen
+- TOP 7.10: Endlich eine sichere und komfortable Lösung für den Radverkehr in der Mühlenstraße in Zehlendorf - überwiesen
+- TOP 7.11: Ein Radweg als Dooring-Zone: In der Goerzallee leben Radfahrer*innen gefährlich - überwiesen
+- TOP 7.12: Sichere Querung für Senior*innen - bezirksweit - überwiesen
+- TOP 7.13: Bienenfutterautomat in Steglitz-Zehlendorf aufstellen - überwiesen
+- TOP 7.14: Standorte für Altglasiglus - überwiesen
+- TOP 7.15: Städtebauliche Prüfung neuen Baulands - überwiesen
+- TOP 7.16: Bäderbuseinsatz mit Badesaison in Einklang bringen - überwiesen
+- TOP 7.17: Keine Straßenumbenennung gegen den Bürgerwillen - überwiesen
+- TOP 7.18: Übergang Frobenstraße - überwiesen
+- TOP 7.19: Inklusionsschaukeln - überwiesen
+- TOP 7.20: Energiekostenhilfe für Sportvereine - überwiesen
+- TOP 7.21: Bessere Müllentsorgung rund um den Kleinen Wannsee, Kleistdenkmal und Hundeauslaufgebiet Wannsee-Düppel bis zur Bismarckstraße - überwiesen
+- TOP 7.22: Städtepartnerschaft Berlin-Moskau aussetzen! - überwiesen
+- TOP 7.23: Runder Tisch für den Lärmschutz an der Stammbahn - überwiesen
+- TOP 8: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 8.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1.1: Eine Partnerschaft für Demokratie auch für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.2: Platz schaffen für Ukraine-Flüchtlinge - in der BVV abgelehnt
+- TOP 8.1.3: Umsetzung des Berliner Modells der kooperativen Baulandentwicklung beim Neubaugebiet Lichterfelde-Süd - in der BVV abgelehnt
+- TOP 9: Dringlichkeiten - erledigt
+- TOP 9.1: Dringende Große Anfragen - erledigt
+- TOP 9.1.1: Massenschlägerei im Sommerbad am Insulaner - beantwortet
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Bürgermeisterin, Bürgermeisterin, gib uns unsere Millionen wieder! - beantwortet
+- TOP 11: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 11.1: Missbilligung der Amtsführung der Bezirksbürgermeisterin mit einem Schaden von 2,7 Millionen € für den Bezirk - in der BVV abgelehnt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Steig in Erinnerung an das Ehepaar Muthesius in Nikolassee benennen - vertagt
+- TOP 12.2: Muthesius-Steig - vertagt
+- TOP 13: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 13.1: Position des Bezirksamts zur Umsetzung des MobG im Bezirk Steglitz-Zehlendorf klarstellen - vertagt
+- TOP 13.2: Mut und Hoffnung: Friedenstauben-Fahne neben Ukraine-Fahne hissen - vertagt
