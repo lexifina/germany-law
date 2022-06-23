@@ -17,7 +17,7 @@
 | § 10 | Kein Neuerwerb von Rechten |
 | § 11 | Verarbeitung personenbezogener Daten |
 | § 11a | Vermittlerregister |
-| § 11b | Bewacherregister |
+| § 11b | Bewacherregister; Verordnungsermächtigung |
 | § 11c | Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraums bei reglementierten Berufen |
 | § 12 | Insolvenzverfahren und Restrukturierungssachen |
 | § 13 | Erprobungsklausel |
@@ -207,7 +207,7 @@
 | § 155a | Versagung der Auskunft zu Zwecken des Zeugenschutzes |
 | § 156 | Übergangsregelungen zu den §§ 34d und 34e |
 | § 157 | Übergangsregelungen zu den §§ 34c und 34f |
-| § 158 | Übergangsregelung zu § 14 |
+| § 158 | Übergangsregelung zu § 11b; Probebetrieb |
 | § 159 | Übergangsregelung zu § 34a |
 | § 160 | Übergangsregelungen zu den §§ 34c und 34i |
 | § 161 | Übergangsregelung zu § 34c |
