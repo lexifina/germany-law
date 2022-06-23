@@ -1,0 +1,52 @@
+# 39. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-06-23T16:00:00+02:00
+- Ende: 2022-06-23T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11322
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11322
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00619282.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Tagesordnungspunkte ohne Debatte
+- TOP 4: PolVO Alkoholkonsumverbot „Schiefe Ecke“ - Ablehnung
+- TOP 5: PolVO Alkoholabgabeverbot Äußere Neustadt - Ablehnung
+- TOP 6: Anmietung von Räumlichkeiten zur Unterbringung des Schulverwaltungsamtes - Vertagung
+- TOP 7: Nutzungs- und Betreiberkonzept Bürgerhaus Prohlis - Zustimmung
+- TOP 8: Aktionsplan Integration 2022 bis 2026 - Zustimmung
+- TOP 9: Fußverkehrsstrategie der Landeshauptstadt Dresden - Zustimmung
+- TOP 10: Beteiligung an den Kosten der Internationalen Praxis in den Jahren 2023 und 2024 mit bis zu 50.000 EUR jährlich - Zustimmung
+- TOP 11: Änderung der Satzung der Landeshauptstadt Dresden über die Ausübung von Straßenkunst (Satzung Straßenkunst) - Vertagung nach 22 Uhr
+- TOP 12: Fortschreibung der investiven Finanzplanung 2022 durch Umverteilung des Mittelabflusses ausgewählter Projekte auf die Jahre 2023 bis 2025 - Vertagung nach 22 Uhr
+- TOP 13: Bebauungsplan Nr. 3066, Dresden-Nickern Nr. 5, Neuer Kaufpark Nickern - Zustimmung
+- TOP 14: Errichtung von temporären, mobilen Raumeinheiten zur Kapazitätserweiterung für Gymnasium Johannstadt am Standort 101. Oberschule, Pfotenhauerstr. 42, 01307 Dresden - punktweise Zustimmung
+- TOP 15: Vergabe von Wohnbauflächen an Dresdner Familien mit niedrigen und mittleren Einkommen (Einheimischen-Modell) - Vertagung durch Einreicher
+- TOP 16: Elbradweg sicher für alle - Fußgänger besser schützen - Vertagung durch Einreicher
+- TOP 17: Dresdner Bericht über die Lebensverhältnisse in den Stadtteilen (Gleichwertigkeitsbericht) - Vertagung nach 22 Uhr
+- TOP 18: Ermittlung der Zulässigkeit und Notwendigkeit von Milieuschutzsatzungen in Dresden - Vertagung
+- TOP 19: Keine Kürzungen bei Bus und Bahn. Gutachterirrsinn beenden. Dresdner Verkehrsbetriebe stärken! - Vertagung durch Einreicher
+- TOP 20: Einrichtung einer „Nachtbürgermeisterin“ bzw. eines „Nachtbürgermeisters“ - punktweise Abstimmung
+- TOP 21: Teilhabe am sozialen und kulturellen Leben verbessern - Vertagung nach 22 Uhr
+- TOP 22: Untersuchung Population Kleine Hufeisennase Standort Waldschlößchenbrücke - Vertagung nach 22 Uhr
+- TOP 23: Vor dem Schaden klug sein: Aufarbeitung des Stromausfalls in Dresden im September 2021 und Wege zur Prävention - Vertagung nach 22 Uhr
+- TOP 24: Inhaltliche Korrektur der Stelentexte an den Gedenkstätten für die Opfer der Bombenangriffe auf Dresden im Februar 1945 - Vertagung durch Einreicher
+- TOP 25: Starke Region im Herzen Europas – interkommunale Zusammenarbeit der Landeshauptstadt Dresden mit dem Umland voranbringen - Vertagung nach 22 Uhr
+- TOP 26: Energiepreisexplosion entgegensteuern – Heizen darf nicht zu Armut führen - Vertagung nach 22 Uhr
+- TOP 27: Beteiligung des Stadtbezirksbeirats bei der Auswahl der Stadtbezirksamtsleiterin - Vertagung nach 22 Uhr
+- TOP 28: Aktive Maßnahmen zur Verhinderung von Energiearmut in einkommensschwachen Privathaushalten - Vertagung nach 22 Uhr
+- TOP 29: Entwicklungskonzeption für den Stadtbezirk Neustadt - Vertagung nach 22 Uhr
+- TOP 30: Komplementäre und integrative Medizin entwickeln – Attraktivität des Städtischen Klinikums stärken - Vertagung nach 22 Uhr
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung nach 22 Uhr
+- TOP 34: Für eine neue Kultur des Planens und Gestaltens von Dresdner Schulhöfen - Vertagung nach 22 Uhr
+- TOP 35: Völkerverständigung und friedliches Zusammenleben stärken –Zusammenarbeit mit der Partnerstadt St. Petersburg ausbauen und Menschen miteinander verbinden - Vertagung nach 22 Uhr
+- TOP 36: EILANTRAG: Spritpreisexplosion entgegensteuern. Einsatzbereitschaft der Freiwilligen Feuerwehr erhaltet. Änderung Feuerwehrsatzung: hier Entschädigungsrichtlinie - Vertagung nach 22 Uhr
+- TOP 37: Ausreichung des Bildungstickets an die Teilnehmer:innen der Straßenschule der Treberhilfe Dresden e.V. - Vertagung nach 22 Uhr
