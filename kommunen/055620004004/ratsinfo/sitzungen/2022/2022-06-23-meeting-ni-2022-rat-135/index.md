@@ -1,0 +1,74 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2022-06-23T17:00:00+02:00
+- Ende: 2022-06-23T21:05:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-RAT-135
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-RAT-135
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2022-RAT-135
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-RAT-135
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-RAT-135
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Beschlusskontrolle über die Durchführung von Ratsbeschlüssen
+- TOP 3: Einführung der Ehrenamtskarte NRW - einstimmig angenommen
+- TOP 3.1: Antrag der FDP-Fraktion vom 30.05.2022_Beteiligung der Stadt an der Castropolis-Ehrenamtskarte - mehrheitlich abgelehnt
+- TOP 4: Nebentätigkeiten des Hauptverwaltungsbeamten im Jahr 2021; Vorlage gem. § 17 Abs. 2. Korruptionsbekämpfungsgesetz
+- TOP 5: Ernennung des Leiters und eines stellvertretenden Leiters der freiwilligen Feuerwehr der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 6: Satzung über die Erhebung von Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 7: Kostenfreies Parken für Elektrofahrzeuge in der Innenstadt - mehrheitlich angenommen
+- TOP 8: Bebauungsplan Nr. 227 "Gewerbepark Erin/ Herner Straße" hier: 1) Weiterführung des Verfahrens unter der Planbezeichnung "Gewerbepark Erin/ Herner Straße" 2) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB 3) Entscheidung über die Änderungen und Ergänzungen 4) Satzungsbeschluss nach § 10 Abs. 1 BauGB - einstimmig angenommen
+- TOP 9: Außerplanmäßige Bereitstellung einer Verpflichtungsermächtigung gemäß § 85 GO NRW für eine Erstattungsverpflichtung an den EUV - einstimmig angenommen
+- TOP 10: Aufhebung der Gebührensatzung der Volkshochschule der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 11: Erlass einer Entgeltordnung der Volkshochschule der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 12: Aufhebung der Honorarordnung der Satzung für die Volkshochschule der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 13: Erlass einer Honorarordnung der Volkshochschule der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 14: Antrag der FDP-Fraktion vom 30.05.2022_Anbringung Zusatzbeschilderung "ausgenommen Schulferien" bei Tempo-30-Zonen vor Schulen - mehrheitlich abgelehnt
+- TOP 14.1: Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90 Die GRÜNEN vom 15.06.2022_Ergaenzungsantrag KOA_Initiative_Lebenswerte_Städte - mehrheitlich angenommen
+- TOP 15: Antrag der FDP-Fraktion vom 30.05.2022_Prüfung auf Einrichtung neuer Fußgängerüberwege - mehrheitlich abgelehnt
+- TOP 16: Antrag der CDU-Fraktion vom 31.05.2022_Taubenplage Westring/ Autobahnbrücke BAB42
+- TOP 17: Antrag der Die FRAKTION-Fraktion vom 02.06.2022_Aufhebung des Fütterungsverbots von Tauben und Errichtung betreuter Taubenschläge - mehrheitlich abgelehnt
+- TOP 18: Antrag der FDP-Fraktion vom 30.05.2022_Antrag zum Bahnübergang Westring / Bladenhorst
+- TOP 19: Antrag der CDU-Fraktion vom 30.05.2022_Schulbescheinigungen für Kindergeldanspruch Volljähriger - mehrheitlich abgelehnt
+- TOP 20: Antrag der CDU-Fraktion vom 31.05.2022_Antrag Hausordnung in Asylunterkünften
+- TOP 21: Antrag der CDU-Fraktion vom 31.05.2022_Antrag Bescheidtexte und Zinsen im Bereich Migration und Obdachlosenhilfe
+- TOP 22: Antrag der FDP-Fraktion vom 27.05.22_Ausbau der Straßenbeleuchtung zwischen Schwerin und Frohlinde - einstimmig angenommen
+- TOP 23: Antrag der FDP-Fraktion vom 30.05.2022_Bericht zum aktuellen Stand des Dachflächenkatasters
+- TOP 24: Antrag der FDP-Fraktion vom 30.05.2022_Antrag_Victorstrasse
+- TOP 25: Sachstandsbericht zur Errichtung von Fahrradabstellanlagen und Beantragung von Mittel im Rahmen der Billigkeitsrichtlinie - einstimmig angenommen
+- TOP 26: ISEK Merklinde - Begegnungszentrum - einstimmig angenommen
+- TOP 27: Sanierung Altstadtring - mehrheitlich angenommen
+- TOP 28: Bebauungsplan Nr. 264 "Unterspredey/ In der Recke" hier: Beschluss einer Veränderungssperre nach §§ 14 und 16 BauGB - mehrheitlich angenommen
+- TOP 29: Antrag der CDU-Fraktion vom 29.05.2022_Integration App-System für Ladesäulen
+- TOP 30: Antrag der CDU-Fraktion vom 29.05.2022_Prüfauftrag Schnellladestationen für Elektromobilität - einstimmig angenommen
+- TOP 31: Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90/Die Grünen vom 30.05.2022_Castrop-Rauxeler Klimapakt - mehrheitlich angenommen
+- TOP 31.1: Gemeinsamer Antrag der CDU- und FDP-Fraktion vom 12.06.2022_Gegenantrag zum Klimapakt - mehrheitlich abgelehnt
+- TOP 32: Antrag der FDP_Fraktion vom 09.03.2022 _"Transparenz und Bürgerbeteiligung durch regelmäßig stattfindende Informationsveranstaltungen zu aktuellen Projekten der Digitalisierung" - mehrheitlich abgelehnt
+- TOP 33: Antrag der SPD_Fraktion und der Fraktion Bündnis90/Die Grünen vom 09.03.2022 _"Erarbeitung eines Digitalisierungskonzeptes" - mehrheitlich angenommen
+- TOP 34: Teilnahme am Vestischen Digitalpakt "SmartVest" - einstimmig angenommen
+- TOP 35: Benennung eines Mitgliedes des Ausschusses für Generation und Inklusion in den Bürgerbudgetbeirat - einstimmig angenommen
+- TOP 36: Umbesetzung des Jugendhilfeausschusses - einstimmig angenommen
+- TOP 37: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW Mittelbereitstellung für die Maßnahme "Neubau Quertrakt Fridtjof-Nansen-Realschule" - einstimmig angenommen
+- TOP 38: Neubau Quertrakt an der Fridtjof-Nansen-Realschule Bereitstellung von weiteren außerplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Buchungsstelle 0321006 03013 211502 ALT 732 (Neubau Quertrakt FNR) - einstimmig angenommen
+- TOP 39: Antrag Bündnis 90 / Die Grünen vom 16.05.2022_Ausschussumbesetzung - einstimmig angenommen
+- TOP 40: Antrag der CDU-Fraktion vom 30.05.2022_Mitgliedschaft der Stadt Castrop-Rauxel im Riga-Komitee - einstimmig angenommen
+- TOP 41: Antrag der CDU-Fraktion vom 30.05.2022_Umbesetzung Integrationsrat - einstimmig angenommen
+- TOP 42: Antrag der CDU-Fraktion vom 30.05.2022_Digitale Sitzungen
+- TOP 43: Antrag der Fraktion Die FRAKTION vom 02.06.2022_ Weniger Biertitten in Badeanstalten - mehrheitlich abgelehnt
+- TOP 44: Resolution CDU Fraktion vom 10.06.2022_Pandemie_Krieg - einstimmig angenommen
+- TOP 45: Antrag Fraktion DIE LINKE vom 07.06.2022_Ausschussumbesetzung JHA - einstimmig angenommen
+- TOP 46: Antrag SPD Fraktion vom 31.05.2022_Ausschussumbesetzung - einstimmig angenommen
+- TOP 47: Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum Stichtag 30.05.2022
+- TOP 48: Beantragung einer Mittelübertragung in Höhe von 72.671,76 € über die bereits bereitgestellten Mittel in Höhe von 116.382,52 €, somit insgesamt 189.054,28 € - einstimmig angenommen
+- TOP 49: Anfragen der Ratsmitglieder
+- TOP 50: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
