@@ -1,0 +1,7 @@
+# TOP 5: Bericht der Behindertenbeauftragten
+
+- Sitzung: Sitzung der Stadtarbeitsgemeinschaft Behindertenpolitik (2022-06-23)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/349446
+- Ergebnis: Kenntnis genommen
