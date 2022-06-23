@@ -1,0 +1,99 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-06-23T14:07:00+02:00
+- Ende: 2022-06-23T19:21:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22219
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22219
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 23.06.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00453470.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 23.06.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00453470.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 23.06.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00453470.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 07.04.2022 (SI-RAT/003/2022) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Taschen- und Schmuckdiebstähle sowie sexuelle Belästigung in der Altstadt am 16.06.2022 - schriftlich beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: dreijähriges Mädchen in einem geparkten PKW in der Nacht vom 18. zum 19.06.2022 - schriftlich beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Einsatz eines Tasers durch einen Polizisten gegenüber einem kampfmessertragenden Mann in der Altstadt am 19. Juni 2022 - schriftlich beantwortet
+- TOP 3.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Begrapschen der vier helfenden Frauen durch einen Mann am 18.06.2022 - schriftlich beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Schließung des Stahlröhren-Werks von Vallourec in Düsseldorf - schriftlich beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: TÜV, Fahrschulen und Auswirkungen von zu wenigen Prüfungsterminen - schriftlich beantwortet
+- TOP 4.3: Anfrage der FDP-Ratsfraktion: Nachhaltigkeit der Förderung von Lastenrädern - schriftlich beantwortet
+- TOP 4.4: Anfrage der FDP-Ratsfraktion: Ferienangebote für ukrainische Flüchtlingskinder und durch die Pandemie benachteiligte Kinder und Jugendliche - schriftlich beantwortet
+- TOP 4.5: Anfrage der SPD-Ratsfraktion: Zukunft der Unterführung am Bahnhof Gerresheim - schriftlich beantwortet
+- TOP 4.6: Anfrage der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU: Internationalisierung der städtischen Webseite - schriftlich beantwortet
+- TOP 4.7: Anfrage der Ratsfraktion DIE LINKE: Energiesperren verhindern – Energiekostenfonds vorbereiten - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfraktion DIE LINKE: Mögliche Einnahmen durch eine „Bettensteuer“ - schriftlich beantwortet
+- TOP 4.9: Anfrage der SPD-Ratsfraktion: Hilfe für Vallourec-Beschäftige - Mehr als trügerische Hoffnung? - schriftlich beantwortet
+- TOP 4.10: Anfrage des Ratsherrn Lemmer: stark steigende Gas- und Strompreise und deren Auswirkungen für Bezieher von Arbeitslosengeld II - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Lemmer: Senkungen von Abgaben und Gebühren für Düsseldorfer Arbeitnehmer, Unternehmer und Mieter zum 1.1.2023 - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Born: Unentgeltliches Mittagessen für alle Schüler:innen an städtischen Schulen - schriftlich beantwortet
+- TOP 4.13: Anfrage der Ratsfrau Fobbe: Unsichere Perspektive für das Glasmacherviertel - Was unternimmt der Oberbürgermeister? - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission TVG - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 10: Deutscher Evangelischer Kirchentag in Düsseldorf 2027 - mehrheitlich beschlossen
+- TOP 10.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/231/2022 - mehrheitlich abgelehnt
+- TOP 10.2: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/231/2022 - mehrheitlich abgelehnt
+- TOP 11: Bereitstellung von überplanmäßigen Haushaltsmitteln zur Finanzierung der Verkehrstechnik im 3. u. 4. Quartal 2022 - mehrheitlich beschlossen
+- TOP 12: Bereitstellung von überplanmäßigen Haushaltsmitteln zur Finanzierung der Ukraine-Hilfe - einstimmig beschlossen
+- TOP 13: Entwicklung der Halbinsel Kesselstraße - mehrheitlich beschlossen
+- TOP 14: Stand der Wahrung rechtlicher Mittel gegen das Gemeindefinanzierungsgesetz 2022 (GFG2022) auf Basis des Ratsbeschlusses HFA/043/2021 - zur Kenntnis genommen
+- TOP 15: Kenntnisnahme des Jahresabschlusses 2021 der Stadtsparkasse Düsseldorf sowie Entlastung der Sparkassenorgane für das Jahr 2021 - mehrheitlich beschlossen
+- TOP 16: Förderprogramm Infrarotheizstrahler
+- TOP 16.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage AUS/006/2022 - mehrheitlich beschlossen
+- TOP 17: Umstellung der CO2-Bilanzierung - einstimmig beschlossen
+- TOP 18: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf: Richtliniennovelle 2022 - mehrheitlich beschlossen
+- TOP 19: Satzung zur Änderung der Satzung zur Nutzung des Ehrenhofes vom 03. Januar 2007 - einstimmig beschlossen
+- TOP 20: Änderung der Satzung für das Jugendamt der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 21: Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen für die Betreuung von Kindern in Tageseinrichtungen, in Tagespflege und im Rahmen der Offenen Ganztagsschule im Primarbereich vom 09. Juli 2012 in der Fassung vom 16.09.2021 - einstimmig beschlossen
+- TOP 22: Bilker Straße 15, Schumann-Haus, Instandsetzung und Umbau zum Museum, 3. Änderungsbeschluss - mehrheitlich beschlossen
+- TOP 23: Bilker Straße 15. Schumann-Haus, Errichtung und Einrichtung eines Schumann-Museums sowie Ausstellungsausstattung, 1. Änderungsbeschluss - mehrheitlich beschlossen
+- TOP 24: Besetzung des Preisgerichts zur Verleihung des Heine-Preises - mehrheitlich beschlossen
+- TOP 25: Berufung in die Ankaufskommission Düsseldorf - einstimmig beschlossen
+- TOP 26: Radleitroute West-Ost von Hansaallee/Böhlerstraße (Heerdt/Lörick) bis Neusser Tor (Gerresheim) - mehrheitlich beschlossen
+- TOP 27: Handlungsfelder Nachhaltigkeit der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 27.1: Ergänzungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD, DIE LINKE und Die PARTEI-Klima-Fraktion zur Vorlage RAT/173/2022 - mehrheitlich beschlossen
+- TOP 28: Aufsichtsrat der Stadtwerke Düsseldorf AG - Neuwahl - - mehrheitlich beschlossen
+- TOP 29: Konsortialausschuss der Stadtwerke Düsseldorf -Neuwahl- - mehrheitlich beschlossen
+- TOP 30: Kooperationsausschuss der Stadtwerke Düsseldorf -Neuwahl- - mehrheitlich beschlossen
+- TOP 31: Wiederbestellung eines Mitgliedes des Umlegungsausschusses - einstimmig beschlossen
+- TOP 32: Ersatzwahl eines stellvertretenden Mitgliedes der im Bereich des Jugendamtes wirkenden und anerkannten Träger der freien Jugendhilfe in den Jugendhilfeausschuss - einstimmig beschlossen
+- TOP 33: Benennung von stellvertretenden Mitgliedern des Verwaltungsausschusses der Agentur für Arbeit Düsseldorf - mehrheitlich beschlossen
+- TOP 34: Umbesetzung von Ausschüssen und sonstigen Gremien - zurückgezogen
+- TOP 35: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 36: Bestellung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 37: Änderung der Entgeltordnung für die Entleerung, Reinigung und Kontrolle von Fettabscheideranlagen zum Schutz der öffentlichen Abwasserbeseitigung in der Landeshauptstadt Düsseldorf - Beschluss - - einstimmig beschlossen
+- TOP 38: Otto-Petersen-Straße/Heinrichstraße, Hauptsammler (Kanalrenovierung) (I-2020319012) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 39: Schöne Aussicht (I-2020414005) -Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 40: Vorstandswahl Deichverband "Neue Deichschau Heerdt" (NDH) für die Amtszeit 01.04.2022 bis 31.03.2028 - Beschluss - - einstimmig beschlossen
+- TOP 41: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Bau einer Dreifachsporthalle für das Annette-von-Droste-Hülshoff-Gymnasium, Bruckner-straße 19, 40593 Düsseldorf“ - einstimmig beschlossen
+- TOP 42: Umbenennung der Alfred-Adler-Schule - einstimmig beschlossen
+- TOP 43: Umwandlung vom erweiterten gebundenen Ganztag auf gebundenen Ganztag an den Hauptschulen GHS Bernburger Straße und KHS Itterstraße - einstimmig beschlossen
+- TOP 44: Antrag aus der Bezirksvertretung 3: Beantwortung von Anfragen aus Bezirksvertretungen (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN, CDU) - zurückgestellt
+- TOP 44.1: mündlicher Änderungsantrag der Ratsfraktionen von SPD, BÜNDNIS 90/DIE GRÜNEN und CDU - einstimmig beschlossen
+- TOP 45: Anträge
+- TOP 45.1: Antrag der FDP-Ratsfraktion: Prüfauftrag zur Aufwertung des Bertha-von-Suttner-Platzes - mehrheitlich abgelehnt
+- TOP 45.2: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Deich-Rückverlegung Himmelgeister Rheinbogen - verwiesen
+- TOP 45.2.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/263/2022 - verwiesen
+- TOP 45.3: Antrag der Ratsfraktion DIE LINKE: Mehr Vergünstigungen für Düsselpassinhaber:innen - verwiesen
+- TOP 45.4: Antrag der Ratsfraktion DIE LINKE: Flatrate für Bus und Bahn nach dem 9-Euro-Ticket - mehrheitlich abgelehnt
+- TOP 45.5: Antrag der Ratsfraktion DIE LINKE: Aspekte der Cannabis-Legalisierung - Durchführung einer Fachtagung - mehrheitlich abgelehnt
+- TOP 45.6: Antrag der Ratsfraktion DIE LINKE: Resolution „Entlastung für die Beschäftigten an den Unikliniken“ - mehrheitlich abgelehnt
+- TOP 45.7: Antrag der SPD-Ratsfraktion: Erhalt des Industriestandortes Rath langfristig sichern
+- TOP 45.7.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/266/2022 - einstimmig beschlossen
+- TOP 45.8: Antrag der SPD-Ratsfraktion: Navigator für Schwimmkurse entwickeln - verwiesen
+- TOP 45.9: Antrag der SPD-Ratsfraktion: Tarifverträge für bisher tariflose Tochterunternehmen - mehrheitlich abgelehnt
+- TOP 45.10: Antrag der SPD-Ratsfraktion: Die Münstertherme zeitnah wiedereröffnen - mehrheitlich abgelehnt
+- TOP 45.10.1: Ergänzungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/269/2022
+- TOP 46: Bericht aus dem Nachhaltigkeits-Beirat - zur Kenntnis genommen
+- TOP 47: Kommission nach § 32 b Luftverkehrsgesetz - Ersatzwahl - - einstimmig beschlossen
