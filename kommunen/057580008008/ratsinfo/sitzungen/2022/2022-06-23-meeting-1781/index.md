@@ -1,0 +1,51 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Enger
+- Beginn: 2022-06-23T18:00:00+02:00
+- Ende: 2022-06-23T19:30:00+02:00
+- Ort: Städtische Realschule, Ringstraße 75, 32130 Enger, Aula
+- Status: 
+- Gremium: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://enger.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcpFpmwogU0KY-bz4sh2mnM
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1781
+- Quelle: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV0Z9r65mu8cEbA8FNFbzkIDioJQJft5GB9FXGezdJnd/Bekanntmachung_Rat_23.06.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYmKDUhsKIJmjfB1EUkiUD1_T1JIuRFPDJodZEy7Jq7s/Oeffentliche_Niederschrift_Rat_23.06.2022.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP 1.: Bestimmung eines Ratsmitgliedes zur Mitunterzeichnung der Niederschrift
+- TOP 2.: Niederschrift über die öffentliche Sitzung am 26.04.2022.
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Mitteilungen
+- TOP 5.: Bericht der Verwaltung
+- TOP 6.: Ersatzwahlen zu sonstigen Gremien - Einstimmig
+- TOP 7.: Vergabe von Strom- und Gaslieferverträgen ab dem 01.01.2023 hier: Genehmigung eines Dringlichkeitsbeschlusses - Einstimmig
+- TOP 8.: Vorlagen des Haupt-und Finanzausschusses
+- TOP 8.1: Erwerb von zwei Elektrofahrzeugen für den Rathausdienstbetrieb - Einstimmig
+- TOP 9.: Vorlagen des Ausschusses für öffentliche Sicherheit, Ordnung und Soziales
+- TOP 9.1: Erweiterung der Umkleiden im Feuerwehrgerätehaus Dreyen - Einstimmig
+- TOP 10.: Vorlagen des Ausschusses für Schule, Jugend und Sport
+- TOP 10.1: 2. Satzung zur Änderung der Satzung der Widukindstadt Enger über die Erhebung von Elternbeiträgen zur Finanzierung außerunterrichtlicher Angebote im Rahmen der Offenen Ganztagsschule an den städtischen Grundschulen (OGS-Elternbeitragssatzung) - Einstimmig
+- TOP 10.2: Beendigung des Bonusprogramms "Urlaubsgeld statt Busfahrkarte" - Einstimmig
+- TOP 10.3: Bündelungsgymnasium ab dem Schuljahr 2023/2024 - Einstimmig
+- TOP 11.: Vorlagen des Ausschusses für Stadtplanung und Infrastruktur
+- TOP 11.1: Aufstellungsbeschluss für den Bebauungsplan Nr. 95 "Vorsteherweg" und die 10. Teiländerung des Flächennutzungsplanes im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - Einstimmig
+- TOP 12.: Vorlagen des Betriebsausschusses
+- TOP 12.1: Feststellung des Jahresabschlusses 2021 und des Lageberichtes der Wirtschaftsbetriebe Stadt Enger - Einstimmig
+- TOP 12.2: Gründung der Gesellschaft "Westfalen Weser Mobilität" als Tochtergesellschaft der Westfalen Weser Beteiligung GmbH - Einstimmig
+- TOP 12.3: Aktualisierung der Satzung "Abwasserbeseitigung der Stadt Enger" - Einstimmig
+- TOP 12.4: Aktualisierung der Satzung "Entsorgung des Inhaltes von Grundstücksent- wässerungsanlagen" - Einstimmig
+- TOP 13.: Vorlagen des Ausschusses für Kultur, Tourismus und Stadtmarketing
+- TOP 13.1: Änderung der Benutzungs- und Entgeltordnung für die Stadtbücherei - Einstimmig
+- TOP 14.: Vorlagen des Ausschusses für Stadtplanung und Infrastruktur
+- TOP 14.1: ISEK “Ortskern Enger 2025+“ hier: Erneuerung der Förderrichtlinie der Stadt Enger über die Gewährung von Zuschüssen zur Förderung privater Maßnahmen zur Stadtentwicklung und Stadterneuerung - Einstimmig
+- TOP 15.: Vorlagen des Umweltausschusses
+- TOP 15.1: Richtlinie der Stadt Enger zur Förderung von Solarenergie - 27 Ja-Stimme(n), 0 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 15.2: 4. Änderungssatzung zur Satzung zum Schutz des Baumbestandes in der Widukindstadt Enger vom 05. November 1987 - Einstimmig
+- TOP 15.3: Umsetzung des integrierten Klimaschutzkonzeptes und Einführung eines Klimaschutzcontrollings - Einstimmig
+- TOP 16.: Schriftliche Anfragen
+- TOP 17.: Mündliche Anfragen
+- TOP 18.: Verschiedenes
+- TOP 19.: Beschlussfassung über die Behandlung der Punkte 20 bis 27 in nichtöffentlicher Sitzung
