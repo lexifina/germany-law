@@ -1,0 +1,88 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-06-24T16:00:00+02:00
+- Ende: 2022-06-24T21:44:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5937
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5937
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 24.06.2022_Teil III http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00167365.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 24.06.2022_Teil III http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00167365.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 24.06.2022_Teil III http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00167365.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 5: Handwerks- und Kleinbetriebe in der Nordstadt: Konzept zur Vitalisierung - mehrheitlich zugestimmt
+- TOP -: Bauausschuss
+- TOP 6: Bestellung eines neuen Betriebsleiters für das Tiefbaumanagement Neuss - einstimmig zugestimmt
+- TOP 7: Kapellenweg, Bushaltestelle Elvekum: Barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Ausschuss für Soziales, Inklusion und demografische Entwicklung
+- TOP 8: Rederecht für stellvertretende Mitglieder im Inklusionsbeirat - mehrheitlich zugestimmt
+- TOP 9: Konzeption "Digital Mobil im Alter" - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 10: Zukünftige Gestaltung der Neusser Innenstadt - Entwurf eines Leitbildes - einstimmig zugestimmt
+- TOP 11: Parkraumbewirtschaftungskonzept - Anpassung der Parkgebühren im öffentlichen Straßenraum und in den Parkhäusern
+- TOP 12: Ergänzung des Flächennutzungsplans - einstimmig zugestimmt
+- TOP 13: Beteiligung der Stadt Neuss am Projekt Raumortpraxis - mehrheitlich zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 14: Neubau Feuerwache Hoisten – Entwurfsplanung (LPH3) - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 15: Änderung der Satzung der Musikschule - einstimmig zugestimmt
+- TOP 16: Entwicklung der Schulsozialarbeit - einstimmig zugestimmt
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 17: Am Hochofen, Heerdterbuschstraße: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+- TOP 18: Blindeisenweg - Grundhafte Sanierung - einstimmig zugestimmt
+- TOP 19: Am Sporthafen, Grimlinghauser Brücke: Flankierende bauliche Maßnahmen zur Errichtung einer Fahrradstraße - abgesetzt
+- TOP -: Jugendhilfeausschuss
+- TOP 20: Verabschiedung des 4.Kinder- und Jugendförderplans der Stadt Neuss - einstimmig zugestimmt
+- TOP 21: Spielraumplanung: Ausbauplanung Kinderspielplatz Grupellopark/ Nievenheimer Straße-Norf - einstimmig zugestimmt
+- TOP 22: Fachplanung Kindertagesbetreuung hier: Bedarfsplan Kindertagesbetreuung 2022/2023ff - einstimmig zugestimmt
+- TOP -: Kulturausschuss
+- TOP 23: Rückerwerb des Gemäldes „La Promenade. Le square des Batignolles" von Édouard Vuillard für die Sammlung des CSMN - mehrheitlich zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 24: Kostenfreies Straßenbahnfahren in der Neusser Innenstadt - mehrheitlich zugestimmt
+- TOP 25: Änderung der Satzung zur Wahrung der Belange von Menschen mit Behinderungen und chronischen Erkrankungen in der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 26: Änderung der Geschäftsordnung für den Inklusionsbeirat - mehrheitlich zugestimmt
+- TOP -: Anträge
+- TOP 27: Antrag der Fraktionen DIE LINKE / Die PARTEI betr.: Konsequenzen der Fraktionsänderungen (...)
+- TOP 28: Antrag der AfD-Fraktion betr.: Hilfe und Erhöhung der Unterbringungskapazitäten für ukrainische Kriegsflüchtlinge - mehrheitlich abgelehnt
+- TOP 29: Antrag der AfD-Fraktion betr.: Sektorale Impfpflicht in Gesundheits- und Pflegeeinrichtungen - abgesetzt
+- TOP 30: Antrag der AfD-Fraktion betr.: Informationen über Zuwendungen an Neusser Vereine, Stiftungen u. Ä. - verwiesen
+- TOP 31: Antrag der CDU-Fraktion betr.: Zuständigkeit der Bezirksausschüsse zur Benennung bisher unbenannter Wege und Plätze - mehrheitlich abgelehnt
+- TOP 32: Antrag der CDU-Fraktion betr.: Bau von weiteren Allwetterplätzen - mehrheitlich abgelehnt
+- TOP 33: Antrag der CDU-Fraktion betr.: Gut für Klima, Geldbeutel und Handwerk - Ausweitung der Energieberatung in Neuss - einstimmig zugestimmt
+- TOP 33.1: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Barrierefreier Ausbau des Vereinsheimes der Bezirkssportanlage in Grefrath
+- TOP 33.2: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Prüfung der Einführung eines Mehrweg-Pfandsystems - einstimmig zugestimmt
+- TOP 33.3: Antrag der Fraktion Die Linke/Die Partei betr.: Kostenloser ÖPNV am Schützenfestwochenende - beraten ohne Abstimmung
+- TOP 33.4: Antrag der Fraktion Die Linke/Die Partei betr.: Bierpreisbremse für das Schützenfest - mehrheitlich abgelehnt
+- TOP -: Anfragen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 38: Teilnahme an dem Landesmodellprogramm „Inklusion vor Ort – Das Programm für die modellhafte Förderung inklusiver Sozialräume in Nordrhein-Westfalen“ - zur Kenntnis genommen
+- TOP 39: Zum Zörr - Grundhafte Erneuerung der Stichstraße: Bericht über die (virtuelle) verbindliche Anliegerversammlung - zur Kenntnis genommen
+- TOP 40: Wiesenstraße: Bericht über die (virtuelle) verbindliche Anliegerversammlung - zur Kenntnis genommen
+- TOP 41: Hebbelstraße: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - Bericht über die verbindliche Anliegerversammlung - zur Kenntnis genommen
+- TOP 42: Starkregenvorsorge und Hochwasserschutz an der Erft sowie deren Nebengewässer - zur Kenntnis genommen
+- TOP 43: Umsetzungsstrategie Digitalisierung - zur Kenntnis genommen
+- TOP 44: Standort des Löschzuges 19 (Furth) - zur Kenntnis genommen
+- TOP 44.1: Kooperation mit der Feuerwehrschule des Kreises Mettmann - zur Kenntnis genommen
+- TOP 45: Bericht zur Hilfe für Geflüchtete in Neuss - zur Kenntnis genommen
+- TOP 46: Bericht zur Bewältigung der Corona-Krise - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
