@@ -1,0 +1,86 @@
+# 6. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2022-06-24T10:00:00+02:00
+- Ende: 2022-06-24T13:15:00+02:00
+- Ort: ChorForum Essen, Fischerstraße 2-4, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2022-VV-53
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2022-VV-53
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2022-VV-53
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-VV-53
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-VV-53
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Einführung und Verpflichtung neuer Mitglieder der Verbandsversammlung
+- TOP 1.3: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 1.3.1: Umbesetzung in Gremien und Verbandsräten
+- TOP 1.3.2: Umbesetzungen in den Organen der Beteiligungsgesellschaften
+- TOP 2: Resolutionen
+- TOP 2.1: Resolution: Radprofessur in der Wissensmetropole Ruhr
+- TOP 2.2: Resolution: Vallourec
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Weitere Schritte Aufstellung Regionalplan Ruhr
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Ruhrwind Herten GmbH
+- TOP 8.2: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2021
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.1: Umsetzungskonzept Regionales Radwegenetz in der Metropole Ruhr Hier: Endbericht
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Regionale Biodiversitätsstrategie für das Ruhrgebiet
+- TOP 11.1.1: Änderungsantrag der Koalition zur Drucksache 14/0596: Regionale Biodiversitätsstrategie für die Metropole Ruhr
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 15.1: Überörtliche Prüfung des Regionalverbandes Ruhr durch die Gemeindeprüfungsanstalt für das Land Nordrhein-Westfalen (gpaNRW) - Bericht der gpaNRW über die überörtliche Prüfung des RVR und Stellungnahme der Regionaldirektorin gemäß § 105 Abs. 6 und 7 GO NRW
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Strategie und Ziele der RVR-Familie
+- TOP 16.1.1: Ersetzungsantrag Änderungsantrag Strategie und Ziele der RVR-Familie
+- TOP 16.1.2: Änderungsantrag zu DS Nr. 14/0421, Strategie und Ziele der RVR-Familie
+- TOP 16.1.3: Änderungsantrag Strategie und Ziele der RVR-Familie
+- TOP 16.1.4: Begleitantrag der RVR-Koalition: Strategie und Ziele der RVR-Familie
+- TOP 16.2: Stellenplan 2022 RVR
+- TOP 16.2.1: Fragen zur Beschlussvorlage 14/0566 Stellenplan 2022 RVR
+- TOP 16.3: Änderung der Zuständigkeitsordnung
+- TOP 16.3.1: Änderung der Zuständigkeitsordnung
+- TOP 16.4: Änderung der Geschäftsordnung
+- TOP 16.4.1: Änderungsantrag der FDP-Fraktion
+- TOP 16.5: NKF-Gesamtabschluss zum 31.12.2019
+- TOP 16.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.7: Bericht über die Prüfung des Gesamtabschlusses 2018. Bestätigung des Gesamtabschlusses 2018 und Entlastung der Regionaldirektorin Karola Geiß-Netthöfel für die Zeit vom 01.01.2018 - 31.12.2018
+- TOP 17: Fraktionsanträge
+- TOP 17.1: Offene Planstellen beim Radwegebau in der Metropole Ruhr
+- TOP 17.1.1: Ersetzungsantrag der Koalitionsfraktionen SPD und CDU zu DS 14/0586 / Planstellen beim Radwegebau
+- TOP 17.2: Klimaneutrale Metropole Ruhr
+- TOP 17.2.1: Klimaneutrale Metropole Ruhr - Stand der Entwicklung der Szenarien im Rahmen der Masterplanentwicklung und Möglichkeiten zur Beschleunigung
+- TOP 17.3: Perspektiven und Ausbau der Erneuerbaren Energien
+- TOP 17.4: Geschlechtergerechte Sprache in Ausschreibungen des RVR
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfrage der Alternativen Gruppe Barrierefreiheit RVR RuhrGrün
+- TOP 18.2: Genehmigung der Festsetzung des Umlagesatzes für das Haushaltsjahr 2022 durch das Ministerium für Heimat, Kommunales, Bau und Gleichstellung des Landes Nordrhein-Westfalen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 20.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 20.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 20.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP -: Tischvorlagen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
