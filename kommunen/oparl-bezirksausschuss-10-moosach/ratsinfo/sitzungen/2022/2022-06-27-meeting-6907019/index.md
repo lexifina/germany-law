@@ -1,0 +1,90 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-06-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6907019
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6907019
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Geschwindigkeitsmaßnahme in der Donauwörther Straße; Einrichtung einer nächtlichen Tempo30-Zone
+- TOP 2.2.: Deutlichere Erkennbarkeit von Tempo30-Zonen im Wohngebiet östlich der Dachauer Straße
+- TOP 2.3.: (begrenztes) Halte- und Parkverbot um Einmündebereiche oder einseitiges Park- und Halteverbot in der gesamten Donauwörther Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP -: Hinweis: Die Bauunterlagen mit Plänen sind jeweils separat im Ordner "Sitzungsunterlagen" bei der Sitzung in Alfresco hinterlegt.
+- TOP 1.: Triebstr. 18
+- TOP 2.: Seydlitzstr. 3
+- TOP 3.: Triebstr. 11a
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.3.3.1.: Neugestaltung der Gehwegunterführung am Moosacher S-Bahnhof (eingeholte Angebote)
+- TOP 3.3.3.2.: Kriterien zur Beurteilung von Bauvorhaben aus klimatischer Sicht
+- TOP 3.3.3.3.: Energetische Sanierung und Aufstockung Pelkovenstr. 70 (Antrag UA)
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Bitte um Vorschläge von Bürger*innen bzgl. notwendiger Neuanlagen, Erneuerungen und Erweiterungen von (Lasten-) Fahrradabstellanlagen
+- TOP 4.1.2.: Moosach als Pilotbezirk für den Test einer Einführung der sog. "Gelben Tonne" berücksichtigen
+- TOP 4.1.3.: Weiteres Vorgehen bzgl. Situation auf brachliegendem Grundstück Meißener Straße
+- TOP 4.1.4.: Anfrage: Bebauungspläne in der Hartmannshofener Siedlung auf dem Grundstück der ehemaligen Heimgärten
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) + (U) Verkehrssicherheit Moosach; Einmündung Netzerstaße/Allacher Straße für Radfahrer*innen und Fußgänger*innen sicherer machen Empfehlung Nr. 20-26 / E 00382 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 07.10.2021
+- TOP 5.2.: (E) Stadtbezirksbudget Caritas München-Freising e.V., Caritas München West, GSA Moosach Aktion MVV/MVG - Fahrkarten für Moosacher Bürgerinnen in einer Notlage von 01.07.22 - 30.06.2023 901,80€; Az. 0262.0-10-0294
+- TOP 5.3.: (E) Stadtbezirksbudget REGSAM, Trägerverein für regionale soziale Arbeit e.V. 24. Moosacher Stadtteilkulturtage vom 25.06 - 03.07.2022 4.000,00€; Az. 0262.0-10-0286
+- TOP 5.4.: (E) Stadtbezirksbudget Initiative Moosacher Bilderwelten Moosacher Bilderwelten vom 07.06.22 - 31.10.22 2.000,00€; Az. 0262.0-10-0290
+- TOP 5.5.: (E) Stadtbezirksbudget Mieter- und Eigentümergemeinschaft Olympia-Pressestadt e.V. Kinder- und Sommerfest 50 Jahre Olympia-Pressestadt am 16.07.2022 von 11 bis 18 Uhr 1.539,28€; Az. 0262.0-10-0295
+- TOP 5.6.: (E) Stadtbezirksbudget Kinder- und Jugendtreff Mooskito Sommerferienprogramm 2022 vom 01.08.-10.09.2022 6.000,00 € / Az. 0262.0-10-0293
+- TOP 5.7.: (E) Stadtbezirksbudget Caritas Fachstelle für pflegende Angehörige in München West Aufbau und Etablierung eines Anbieters haushaltsnaher Dienstleistungen im münchner Westen von Oktober bis Dezember 2022 4.367,75 € / Az. 0262.0-10-0291
+- TOP 5.8.: (E) Stadtbezirksbudget TSV Moosach-Hartmannshofen Moosach Cup 2022 + Sommerfest vom 9. bis 11.9.2022 5.162,82€; Az. 0262.0-10-0296
+- TOP 6.: Anhörungen
+- TOP 6.1.: Benennung bei Stadtquartieren
+- TOP 6.2.: Anhörungsrecht für den Bezirksausschuss bei Großveranstaltungen
+- TOP 6.3.: Funktion "Migrations-/Integrationsbeauftragte in der BA-Satzung verankern
+- TOP 6.4.: Standortbeschluss zur Unterbringung wohnungsloser Frauen mit Kindern; Neubau eines Flexiheims...
+- TOP 6.5.: Einsatz von TOPO-Boxen als städtische Leistung für Bezirksausschüsse
+- TOP 6.6.: Abfrage des Stadtteilzentrums im jeweiligen Stadtbezirk
+- TOP 6.7.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2022 bis 2026
+- TOP 6.8.: Einladung zur Stellungnahme für den "Stadtentwicklungsplan STEP 2049"
+- TOP 6.9.: Beschlussvorlage für Sportausschuss: Schützenkranz Moosach - Verlängerung Mietvertrag
+- TOP 6.10.: Neubildung des Mobilitätsreferats und Aufspaltung des Referates für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz; hier: notwendige Anpassungen in der Anlage 1 der BA-Satzung
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Instandsetzung des Fahrradweges an der Dachauer Straße 334 (vor Bushaltestelle "Eininger Straße") [BA-Antrag Nr. 20-26/B03648; Instandsetzung erfolgt im Zuge der Fahrbahnsanierung ab 07.06.22.]
+- TOP 7.2.: Kleinkinderspielplatz an der Feldmochinger- /Ecke Bingener Straße: Anbringung einer Nestschaukel [BA-Antrag Nr. 20-26/B03650; Anbringung wegen Bodenbeschaffenheit nicht möglich.]
+- TOP 7.3.: Erneuerung der Eisenbahnüberführung Dachauer Straße; hier: Nachfrage BA 10 vom 04.05.2022 [Verkehrskonzept und Postwurf für Anwohner erfolgen rechtzeitig vor Baubeginn.]
+- TOP 7.4.: Schutz der kleinen Grüninsel an der Parkbucht Treitschkestr. 7-13 vor Überfahren; hier: Lösungsvorschlag BA 10 vom 02.05.2022 [Die vorhandene Grüninsel soll entfernt und der Bordstein abgesenkt werden.]
+- TOP 7.5.: Ausweitung der Geschwindigkeitsbegrenzung (Tempo30) in der Untermenziger-/Gröbenzeller Straße stadteinwärts [Schreiben BA10 vom 23.02.2022; Ausweitung von Tempo30-Zonen sind rechtlich nicht möglich.]
+- TOP 7.6.: Verlagerung Abholpost von Moosach ins Olympische Dorf - Abholung in Moosach muss wieder möglich sein! [BA-Antrag Nr. 20-26/B03923; RAW hat auf unternehmerische Entscheidung der Post AG keinen Einfluß; Rückverlagerung aus betrieblichen Gründen nicht möglich.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Veranstaltungen in städt. Grünanlagen, auf öffentlichem Verkehrsgrund und/oder auf Privatgrund: 1. "Pflanzentauschbörse" auf dem Simmerleinsplatz am 07.05.2022 2. "Sommerfest" der Siedlung Hartmannshofen, Lechelstraße am 09.07.2022 3. "Sommerfest" der Arche München, Am Hartmannshofer Bächl 52 am 30.06.2022 4. "Borstei-Sommerfest", Franz-Marc-Straße am 23.07.2022 5. "Sponsorenlauf" der staat. Grundschule im Amphionpark/Wintrichring am 12.-13.07.2022 (-> jeweils Vorabzustimmung Vorsitzender gem. § 20 Abs. 1 BA-Satzung)
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Georg-Brauchle-Ring; Fertigstellung Zufahrt Busbetriebshof mit Lichtsignalanlage
+- TOP 8.3.: Unveränderte Fortführung eines Gaststättenbetriebes: 1. Feldmochinger Str. 8 2. Lechelstr. 35 3. Bunzlauer Str. 15 4. Georg-Brauchle-Ring 30
+- TOP 8.4.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 8.5.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 8.6.: (U) Sachstandsbericht zum Sportbauprogramm A. Erläuterung der Ausgangslage im Hinblick auf die Fortschreibung des Sportbauprogramms 1. Inhalt und Umfang des Sportbauprogramms 2. Berichtswesen zum Sportbauprogramm 3. Stadtratsbeschlüsse und gesetzliche Änderungen mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht B. Fortschreibung Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten sowie zum 1., 2. und 3. Maßnahmenpaket 3. Finanzierung 4. Ausblick auf das 4. Maßnahmenpaket 5. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 6. Geschlechtergerechtigkeit im Sportstättenbau C. Fortschreibung des Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 5. Geschlechtergerechtigkeit im Sportstättenbau D. Fortschreibung Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau E. Beteiligungen und Anhörungen
+- TOP 8.7.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/68 Ehemalige Bahntrasse - Pressezentrum Olympiapark Endgültiger Beschluss Stadtbezirk 10 Moosach
+- TOP 8.8.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 8.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10.: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 8.11.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 8.12.: (U) 75 Jahre Bezirksausschüsse – Festakt / Informationskampagne Darstellung der personellen Mehrbedarfe
+- TOP 8.13.: Mitteilung über ein Grundstücksgeschäft: - nicht-öffentlich - Am Neubruch / Nähe Ludwigsfelder Straße (Kauf)
+- TOP 8.14.: Vorkaufsrechtsverfahren nach dem BauGB: - nicht-öffentlich - 1. Prochintalstraße (Einleitung) 2. Bingener Straße (Einleitung)
+- TOP 8.15.: Mobilfunk: - nicht-öffentlich - Georg-Brauchle-Ring (Suchkreis, Errichtung einer Hochfrequenzanlage)
+- TOP 5.9.: (E) Stadtbezirksbudget Mieter- und Eigentümergemeinschaft Olympia-Pressestadt e.V. Graffitiprojekte am 25. und 30.07.2022 3.546,20 € / Az. 0262.0-10-0292
+- TOP 5.10.: (E) Stadtbezirksbudget Initiative „Moosacher Barocksommer“ Moosacher Barocksommer vom 09.07. - 27.08.2022 6.800,00 € / Az. 0262.0-10-0298
+- TOP 6.11.: Entwurf Sitzungsvorlage: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren (Sitzungsvorlage Nr. 20-26/ V 06175)
+- TOP 6.12.: Veranstaltung in städt. Grünanlagen: Simmerleinplatz Sommerfest "100 Jahre Siedlerverein Moosach" am 07.08.2022
+- TOP 8.16.: Anhörung zum Entwurf der Sitzungsvorlage Nr. 20-26/ V 06594: Verkehrskonzept Münchner Norden (-> Vorabstellungnahme Vorsitzender gem. § 20 Abs. 1 BA-Satzung)
+- TOP 4.: Anträge
