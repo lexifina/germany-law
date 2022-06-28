@@ -1,0 +1,98 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-06-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6810922
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6810922
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung am 31.05.2022
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Einberufung des Ferienausschusses für die Sitzung am 30.08.2022
+- TOP 2.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Erika-Köth-Straße und einer Teilstrecke der August-Everding-Straße Sitzungsvorlage Nr. 20-26 / V 06749 (FF UA städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung)
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Berg-am-Laim-Str. 145, Abbruch eines Fabrikationsgebäudes und Neubau eines Wohn- und Gewerbegebäudes über bestehender Tiefgarage sowie teilweisen Umbau / Teilnutzungsänderung des Vordergebäudes - VORBESCHEID
+- TOP 3.1.2.: Bänke am Inzeller Weg - Sachstandsbericht - Vorschläge für eine weitere Verwendung im Stadtbezirk durch den Bezirksausschuss 14
+- TOP 3.1.3.: Zentrales Silvesterfeuerwerk für den Bezirk; Antrag SPD-Fraktion
+- TOP 3.1.4.: Wertstofftonne für Berg am Laim, Antrag FDP
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: „Aufwertung Ostpark ‚Fit für die Zukunft‘“: Anregungen aus Berg am Laim; Antrag CSU Fraktion (vertagt aus Sitzung 05/22)
+- TOP 3.2.2.: Planfeststellung nach § Allgemeines Eisenbahngesetz (AEG) i.V.m. § 73 Verwaltungsverfahrensgesetz (VwVfG) für das Vorhaben: PFA 3 Ost der 2. Stammstrecke München Bahn-km 107,853 bis 110,711 der Strecke 5547 Bf München Laim - München Leuchtenbergring Bft in der Landeshauptstadt München“ 1. Planänderung - Anhörungsverfahren durch das Referat für Stadtplanung und Bauordnung -
+- TOP 3.2.3.: verkehrsrechtliche Anordnungen, hier: St.-Veit-Straße und Gerlosstraße ( neue Grundschule)
+- TOP 3.2.4.: Antrag: Vorfahrt für den Fuß- und Radverkehr in Baumkirchen Mitte I; Antrag Fraktion Die Grünen
+- TOP 3.2.5.: Antrag: Vorfahrt für den Fuß- und Radverkehr in Baumkirchen Mitte II, Antrag Fraktion Die Grünen
+- TOP 3.2.6.: Antrag: Sicherer Einfädelung von Fahrradverkehr in die Baumkirchner- und St-Veit-Straße; Antrag Fraktion Die Grünen
+- TOP 3.2.7.: Antrag: Tramgleise in Berg am Laim begrünen, Antrag Fraktion Die Grünen
+- TOP 3.2.8.: Maikäferplatz für Ramersdorf - Flächen für einen Wochenmarkt bei der Neuordnung der Flächen im Umfeld der Straßenkreuzung Bad-Schachener-Str. /Hechtseestr. /Hofangerstraße Münchner Wochen- und Bauernmärkte BA-Antrag Nr. 20-26 / B 02312 des BA 16 Ramersdorf-Perlach - Mitteilung der Münchner Markthallen bezüglich der Zusagen durch Marktbeschicker*innen und Anhörung der BA 14 Berg am Laim und 16 Ramersdorf-Perlach zum weiteren Vorgehen -
+- TOP 3.2.9.: Freischankflächen entlang des Hachinger Bachs, Antrag FDP
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Ergänzung des Programms der MVHS; Aufnahme der Themen Bauleitplanung, Baurecht, Rechte der Anwohner*innen etc. in das Programm der MVHS; Empfehlung Nr. 20-26 / E 00152 der Bürgerversammlung des Stadtbezirks 14, Berg am Laim vom 14.07.2021 - Anhörung durch das Kulturreferat zum Beschlussentwurf -
+- TOP 3.3.2.: 12 bezirksübergreifende Spielaktionen für Kinder von CultureClouds (ehem. Spielen in der Stadt) e.V. hier: Straße. Oase; im Freien überwiegend auf öffentlichen Plätzen, vereinzelt in städt. Grünanlagen ab August bis Ende Okt 2022 in den Bezirken 5, 7, 8, 9, 14, 16, 17, 18, 20, 22, 23, 25 - Anhörung durch das Kreisverwaltungsreferat -
+- TOP 3.3.3.: Kinderkrippe Klausenburg sucht Räumlichkeiten; Schreiben der Kinderkrippe an den Bezirksausschuss 14 mit der Bitte um Unterstützung
+- TOP 3.3.4.: Fassadenbemalung an der Grundschule Berg am Laim; Antrag CSU-Fraktion
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Anhörungsrecht für den Bezirksausschuss bei Großveranstaltungen
+- TOP 3.5.2.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz, Anhörung der Bezirksausschüsse zu notwendigen Anpassungen in der Anlage 1 der BA-Satzung „Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse“
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Berg-am-Laim-Str. 145; Abbruch eines Fabrikationsgebäudes und Neubau eines Wohn- und Gewerbegebäudes über bestehender Tiefgarage sowie teilweisen Umbau / Teilnutzungsänderung des Vordergebäudes - VORBESCHEID
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk in der Zeit vom 16.05.2022 bis 12.06.2022
+- TOP 4.1.2.: Mehr Parkbänke in Berg am Laim
+- TOP 4.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Sanierungsgebiet „Neuperlach Nord“ Sanierungsgebiet „Neuperlach Zentrum“ A) Vorbereitende Untersuchungen im Untersuchungsgebiet Neuperlach B) Beteiligung der Betroffenen und der öffentlichen Aufgabenträger C) Neuperlach: Fit für die Zukunft – Start der Sanierung und Durchführung der Sanierung in mehreren Phasen D) Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes „Neuperlach Nord“ E) Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes „Neuperlach Zentrum“ F) Organisatorische Erfordernisse der Städtebauförderung zur Stadtteilentwicklung G) Personalbedarf im Referat für Stadtplanung und Bauordnung H) Städtebauförderung, Kosten, Finanzierung Stadtbezirk 16 ‒ Ramersdorf - Perlach Sitzungsvorlagen Nr. 20-26 / V 03969
+- TOP 4.2.2.: Vorkaufsrechte der Stadt in Zukunft konsequent nutzen, Empfehlung Nr. 20-26 / E 00167 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 14.07.2021 Sitzungsvorlage Nr. 20-26 / V 06641
+- TOP 4.2.3.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 4.2.4.: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 4.2.5.: (U) Förderung von Solaranlagen auf Münchner Dächern Empfehlung Nr. 20-26 / E 00285 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 20.07.2021
+- TOP 4.2.6.: Bürgerschaftliche Projekte zur Verkehrswende Sitzungsvorlage Nr. 20-26 / V 06329
+- TOP 4.2.7.: Hansjakobstraße: - Verbindungsweg (westlich Schatzbogen) zur Truderinger Straße - Verbindungsweg am östl. Ende Hansjakobstraße zum Schatzbogen; Gehwege – Freigabe für Zweirichtungs-Radverkehr - verkehrsrechtliche Anordnung durch das Mobilitätsreferat -
+- TOP 4.2.8.: August-Everding-Straße - nördlicher Bogen; dauerhafte Erstbeschilderung (Einbahnregelung, Tempo 30, Haltverbote) - verkehrsrechtliche Anordnung durch das Mobilitätsreferat -
+- TOP 4.2.9.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mit Radarsystem (TOPO-Boxen) - Unterrichtung durch das Mobilitätsreferat -
+- TOP 4.2.10.: Satzung zur Änderung der "Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München" (Parkgebührenordnung) Sitzungsvorlage Nr. 20-26 / V 06146
+- TOP 4.2.11.: Räumung und Streuung der Hachinger-Bach-Straße
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: (U) Sachstandsbericht zum Sportbauprogramm A. Erläuterung der Ausgangslage im Hinblick auf die Fortschreibung des Sportbauprogramms 1. Inhalt und Umfang des Sportbauprogramms 2. Berichtswesen zum Sportbauprogramm 3. Stadtratsbeschlüsse und gesetzliche Änderungen mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht B. Fortschreibung Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten sowie zum 1., 2. und 3. Maßnahmenpaket 3. Finanzierung 4. Ausblick auf das 4. Maßnahmenpaket 5. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 6. Geschlechtergerechtigkeit im Sportstättenbau C. Fortschreibung des Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 5. Geschlechtergerechtigkeit im Sportstättenbau D. Fortschreibung Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau E. Beteiligungen und Anhörungen
+- TOP 4.3.2.: Anhörungsverfahren zur Änderung der Volksschulorganisation in der Landeshauptstadt München Sprengeländerung der Grundschulen Sitzungsvorlage Nr. 20-26 / V 06085
+- TOP 4.3.3.: Anhörungsverfahren zur Änderung der Förderschulorganisation in der Landeshauptstadt München; Sprengeländerung bzw. -errichtung der Förderzentren Sitzungsvorlagen Nr. 20-26 / V 06089
+- TOP 4.3.4.: Veranstaltung in einer städtischen Grünanlage; Hier: Piusplatz - "Spielaktion des FreizeitSport in Kooperation mit dem Bildungslokal im Stadtbezirk" vom 09.06.2022 – 11.06.2022 - Zustimmung gemäß § 13 Abs. 2 BA-Satzung i.V.m. § 20 BA-Satzung vorab -
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: 75 Jahre Bezirksausschüsse - Festakt / Informationskampagne Darstellung der personellen Mehrbedarfe Sitzungsvorlage Nr. 20-26 / V 06429
+- TOP 4.5.2.: Antrag: Änderung der BA-Satzung, Migrations-/Integrationsbeauftragte* in BA-Satzung verankern - Zwischennachricht -
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.1.1.: Am Dienstag, den 21.06.2022, um 19.15 Uhr, im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid).
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.2.1.: Am Montag, den 20.06.2022, um 19.15 Uhr, im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.3.1.: Am Dienstag, den 21.06.2022, um 18.00 Uhr, im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid).
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.4.1.: Am Mittwoch, den 23.06.2022, um 18.30 Uhr, voraussichtlich im Technischen Rathaus (Baureferat), Raum 0.413/0.415 (hybrid).
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.1.5.1.: Am Montag, den 20.06.2022, um 18.30 Uhr, im Technischen Rathaus (Baureferat), Raum 0.409.
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 5.3.1.: Sitzungstermine des BA 14 und Termin der Bürgerversammlung im 14. Stadtbezirk im Jahr 2023 - Vorschlag -
+- TOP 3.3.5.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren Sitzungsvorlage Nr. 20-26 / V 06175 - Anhörung des Referates für Bildung und Sport zum Beschlussentwurf - (Nachtrag)
+- TOP 3.3.6.: ESV München Ost e.V. 1. Neuerrichtung eines Kunstrasenplatzes inkl. Flutlichtanlage und Ballfangzäune, eines Betriebs- und Nebengebäudes mit Sanitär- und Umkleidebereichen sowie Neuordnung der Außenanlagen auf dem städtischen Grundstück an der Thomas-Hauser-Straße Förderung der Baumaßnahme nach den Sportförderrichtlinien der Landeshauptstadt München 2. Abschluss eines Erbbaurechtsvertrages über das städtische Grundstück mit der Flurnummer 481/0, Gemarkung Berg am Laim an der Thomas-Hauser-Straße gemäß den Konditionen der Sportförderrichtlinien der Landeshauptstadt München Sitzungsvorlage Nr. 20-26 / V 06763 - Anhörung durch das Referat für Bildung und Sport zum Beschlussentwurf - (Nachtrag)
+- TOP 3.3.7.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Grünanlage Bad-Kreuther-Str. (Nord) Kindertheater Maikäfertreff Fr 08.07.2022, 16-18 Uhr; PAX 150 mit Aufbauten und Musik - Anhörung durch das Kreisverwaltungsreferat - (Nachtrag)
+- TOP 3.3.8.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Behrpark, Berlingerweg 1, 81673 München – „Sommerfest Elterninitiative Ali Baba“ am 23.07.2022 - Anhörung durch das Kreisverwaltungsreferat - (Nachtrag)
