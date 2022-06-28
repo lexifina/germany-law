@@ -1,0 +1,159 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-06-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6849474
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6849474
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: 30-er Zonen im Stadtgebiet
+- TOP 6.2.: Antrag zur Ertüchtigung vorhandener Fahrradstraßen in München
+- TOP 6.3.: wenig getan in Sendling-westpark
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) + (U) Erhalt der direkten Verbindung der im Stadtbezirk Sendling-Westpark gelegenen U-Bahnhaltestellen zum Marienplatz auch nach Errichtung der U9 Empfehlung Nr. 14-20 / E 03084 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 19.11.2019
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Ladezone für Fa. Getir
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Mutheki - Musik-Theater-Kinder e.V. Monacorona Konzertreihe 2022 vom 19.05. - 04.06.2022 6.081,60 Euro, Az.: 0262.0-7-0376
+- TOP 10.2.: (E) Stadtbezirksbudget Initiativ Gruppe "Sojus" Aktiv, gemeinsam Natur und Kultur erleben. Unterstützung im Alltag von Juni 2022 - Mai 2023 5.000,00 Euro, Az.: 0262.0-7-0375
+- TOP 10.3.: (E) Stadtbezirksbudget Feierwerk e.V. Dschungelpalast Sommerfest für die ganze Familie am 17.07.2022 von 13:00 - 19:00 Uhr 2.000,00€; Az. 0262.0-7-0377
+- TOP 10.4.: (E) Stadtbezirksbudget Feierwerk e.V. Sommerferienprogramm im Westpark vom 15.08. - 19.08. und 22.08. - 26.08. 1.950,00€; Az. 0262.0-7-0378
+- TOP 11.: Anträge
+- TOP 11.1.: Direktwahl des Migrationsbeirats
+- TOP 11.2.: Reduzierung des Ausweichverkehrs in der Garmischer Straße an der Tunneloberfläche
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Johann-Clance-Str.
+- TOP 15.2.: Bauvorhaben Hirsch-Gereuth-Str.
+- TOP 15.3.: Bauvorhaben Hirsch-Gereuth-Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Luise-Kiesselbach-Platz, CSU-Bürgerfest
+- TOP 16.2.: Nachbarschaftsfest Reulandstr.
+- TOP 16.3.: Luise-Kiesselbach-Platz, Sommerfest des Maibaumverein Sendling-Westpark.
+- TOP 16.4.: Luise-Kiesselbach-Platz, Gottesdienst im Rahmen der Fronleichnamsprozession
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, Theatron, ars musica präsentiert Jazz und Weltmusik
+- TOP 17.2.: Westpark, Seebühne, Kinderkonzert
+- TOP 17.3.: Westpark, Theatron, Schulfest für einen gespendeten Baum
+- TOP 17.4.: Westpark, Wasserspielplatz, Ferienprogramm des Feierwerk e.V.
+- TOP 17.5.: Westpark, Theatron, Tango Romantico
+- TOP 18.: Baureferat
+- TOP 18.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 7 Sendling - Westpark Widmungserweiterung einer Teilstrecke der Kürnbergstraße
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Anhörungrecht bei Großveranstaltungen
+- TOP 20.2.: Neubildung des MOR und Aufspaltung des RKU, Anhörung der BAs zu notwendigen Anpassung
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Genehmigungsantrag Straße_Oase, CultureClouds
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 27.1.: Änderung der Förderschulorganisation
+- TOP 27.2.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Baukosten
+- TOP 33.2.: Fahrradabstellplätze Hinterbärenbadstr.
+- TOP 33.3.: Jahresbericht
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 35.1.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Veranstaltung Rio-Artistik auf dem Luise-Kiesselbach-Platz
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Fahrradstellplätze in der Jean-Paul-Richter-Straße
+- TOP 40.2.: Haltverbot Ecke Säuling- Kreuzeckstraße
+- TOP 40.3.: Fürstenrieder Straße/Ammerseestraße und Leitplatte
+- TOP 40.4.: Beschlussvertagung Geschwindigkeitsreduzierung in der Heckenstallerstraße
+- TOP 40.5.: Gegenläufiger Radverkehr an der Buswendeschleife Waldfriedhofstraße
+- TOP 40.6.: Einsatz von TOPO-Boxen als städtische Leistung für Bezirksausschüsse
+- TOP 40.7.: Einsatz von Drohnen im Westpark für kommerzielle Zwecke
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Beratungen durch das Bauzentrum
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Fortführung Hinterbärenbadstr.
+- TOP 53.2.: Bescheid, Westpark, Theatron, MonaCorona Konzerte
+- TOP 53.3.: Bescheid, Luise-Kiesselbach-Platz, Rio Artistik
+- TOP 53.4.: Bescheid, Westpark, Theatron, Shakespeares Theatre, mehrere Termine
+- TOP 53.5.: Bescheid, Westpark, Westteil, Teamstaffel-Laufveranstaltung
+- TOP 53.6.: Bescheid, Westpark, große Zirkuswiese, Zirkuslust
+- TOP 53.7.: Bescheid, Westpark, Seebühne, Kino, Mond und Sterne
+- TOP 53.8.: Bescheid, Westpark, kleine Zirkuswiese, ars musica - offene Bühne
+- TOP 53.9.: Bescheid, Westpark, Seebühne, Musikalisches Weinfest.
+- TOP 53.10.: Bescheid, Westpark, Ostteil, 5 Gottesdienste im Freien
+- TOP 53.11.: Bescheid, Straßenfest in der Johann-Houis-Str.
+- TOP 53.12.: Bescheid, Straßenfest in der Riesserseestraße
+- TOP 53.13.: Bescheid, Westpark, Parkplatz beim Wirtshaus am Rosengarten
+- TOP 53.14.: Genehmigung Gottesdienst LuKi
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Fürstenrieder Ecke Andreas Vöst
+- TOP 56.2.: DG K11-Die Neuen Fälle
+- TOP 56.3.: DG Westpark - Black China
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Unterrichtung Eukenstr.
+- TOP 62.2.: Unterrichtung Wessobrunner Str.
+- TOP 62.3.: Unterrichtung Fuggerstr.
+- TOP 62.4.: Unterrichtung Albert-Rosshaupter-Str.
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Strom-Projekt Ortlerstraße
+- TOP 63.2.: Protokoll Kinder-und Jugend
+- TOP 63.3.: Protokoll Mieterbeirat
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Abgeschlossenheitsbescheinigungen
+- TOP 10.5.: (E) Stadtbezirksbudget Die Murmeltiere e.V. Anschaffung von Geräten zur sportlichen und naturkundlichen Förderung der Kinder 871,00 Euro, Az.: 0262.0-7-0379
+- TOP 10.6.: (E) Stadtbezirksbudget Initiative "Kunstprojekt Werdenfels" Künstlerische Gestaltung des Trafohäuschens am Wessobrunner Platz vom 20. - 27.06.2022 14.118,15 Euro, Az.: 0262.0-7-0380
+- TOP 9.2.: Sondernutzung Alb.-Roßhaupter-Str.
+- TOP 10.7.: (E) Stadtbezirksbudget Initiative "Herbstfest" Herbstfest am 15.09.2022 900,00 Euro, Az.: 0262.0-7-0382
+- TOP 10.8.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 31.10. - 04.11.2022 5.207,00 Euro, Az.: 0262.0-7-0381
