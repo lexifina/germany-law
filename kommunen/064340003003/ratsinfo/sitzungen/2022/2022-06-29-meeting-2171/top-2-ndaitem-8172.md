@@ -1,0 +1,6 @@
+# TOP 2: Eröffnung und Begrüßung durch den Vorsitzenden der Gemeindevertretung
+
+- Sitzung: Gemeindevertretung - Sondersitzung - (12. Sitzung) (2022-06-29)
+- Körperschaft: Gemeinde Glashütten
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/agendaitem/8172
