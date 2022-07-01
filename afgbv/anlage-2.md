@@ -1,0 +1,17 @@
+# Anlage 2 Datenspeicherung
+
+Während des Betriebs sind bei den in § 1g Absatz 2 des Straßenverkehrsgesetzes genannten Anlässen im Kraftfahrzeug mit autonomer Fahrfunktion folgende Daten zu erfassen.
+| Daten |  | Beispiel Dateiformat |
+| 1. | Fahrzeugidentifizierungsnummer |  | Alphanummerische Zeichen [A-Z; 0-9] Beispiel: AAAAAA654398GFRDE |
+| 2. | Positionsdaten |  | Breiten- und Längengrad [±ddd.ddddd, Angabe in ± Graden (°) und Dezimalgraden, 5 Nachkommastellen] Höhenangaben in Meter Ausgabe im Globalen Positionsbestimmungssystem – Austauschformat als Abfolge von Punkten, in denen eine Änderung der Fortbewegungsrichtung erfolgt; Angabe des (Karten-)Bezugssystems. |
+| 3. | Anzahl und Zeiten der Nutzung sowie der Aktivierung/Deaktivierung der autonomen Funktion |  | Datum (Jahr:Monat:Tag), Zeit (Stunde:Minute:Sekunde), Beispiel: 2019-07-16, 05:25:12 |
+| 4. | Anzahl und Zeit der Freigabe von alternativen Fahrmanöver |  | Anzahl, Einzelzeiten (Stunde:Minute:Sekunde) |
+| 5. | Systemüberwachungsdaten (Beginn/ Ende) samt Softwarestand |  | Alphanummerische Zeichen [A-Z; 0-9] samt Erklärung Beispiel: P0601 Motorsteuergerät – Speicher Prüfsummenfehler |
+| 6. | Umwelt- und Wetterbedingungen |  | Temperatur/°C, Helligkeit/Beleuchtungsstärke/lux, Stellung des Scheibenwischers an/aus |
+| 7. | Vernetzung |  | Vernetzungsparameter wie beispielsweise Übertragungslatenz und verfügbare Bandbreite |
+| 8. | Name der aktivierten/deaktivierten passiven und aktiven Sicherheitssysteme, Zustand, auslösende Instanz (System oder extern) |  | Name des Systems, Zustand, Instanz Beispiel: Notbremssystem, aktiv, Systemfunktionsfähigkeit |
+| 9. | Fahrzeugbeschleunigung in Längs- und Querrichtung |  | Nummerische Werte in Meter pro Sekunde zum Quadrat |
+| 10. | Geschwindigkeit |  | Nummerischer Wert in Meter pro Sekunde |
+| 11. | Status der lichttechnischen Einrichtungen |  | Beispiel: Blinken an/aus Tagfahrlicht an/aus |
+| 12. | Spannungsversorgung des autonomen Kraftfahrzeugs |  | Nummerischer Wert in Volt |
+| 13. | Von extern an das Fahrzeug gesendete Befehle und Informationen |  | Gesendetes Format der Befehle sowie Metadaten zu Informationen: Dateigröße, Dateiformat, Quelle, Ziel, Übertragungszeit |

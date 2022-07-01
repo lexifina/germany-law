@@ -1,0 +1,25 @@
+# Anlage 3 Dokumentationspflichten des Herstellers
+
+1. Funktionale Beschreibung
+  Ziel der funktionalen Beschreibung ist es, die technischen Grundlagen der Funktionen des Kraftfahrzeugs und die nötigen Bedingungen des sicheren Betriebs sowie die Umsetzung der Vorgaben des Datenschutzes und der Datensicherheit darzulegen. Die Systematik der funktionalen Beschreibung muss dem Stand der Technik entsprechen. Dies gilt als erfüllt, wenn die Vorgaben der ISO 26262-3:2018-12 Straßenfahrzeuge – Funktionale Sicherheit – Teil 3: Konzeptphase eingehalten werden. Die funktionale Beschreibung muss die folgenden Themen behandeln:
+  1.1 Betriebsbereich des Kraftahrzeugs mit autonomer Fahrfunktion (zum Beispiel Personenbeförderung im Verkehr zwischen festgelegten Stationen),
+  1.2 Technische Beschreibung (Blockschaltbilder, Schnittstellen zu anderen Fahrzeugsystemen),
+  1.3 Beschreibung der geforderten Funktionen des Kraftfahrzeugs und der Systemzustände (zum Beispiel Fahrt mit aktivierter autonomer Funktion, sonstige Fahrmodi, risikominimaler Zustand),
+  1.4 Zum reibungslosen Betrieb nötige Umweltbedingungen (zum Beispiel Sichtbedingungen, Wetterbedingungen, Fahrbahnzustand),
+  1.5 Normative oder prozedurale Anforderungen an den Betrieb (zum Beispiel Arbeits- und Gesundheitsschutz, interne Freigabeprozesse, digitales Rollen- und Rechtekonzept),
+  1.6 Systematik der Interaktion mit anderen Verkehrsteilnehmenden (zum Beispiel Reaktion auf nicht eindeutiges Verhalten, Warnzeichen, Handzeichen),
+  1.7 Anforderungen an die Verkehrsinfrastruktur zum reibungslosen Betrieb (zum Beispiel Funksignale von Schildern oder Ampeln) und
+  1.8 Umsetzung und Gewährleistung der Vorgaben zum Datenschutz und der Datensicherheit.
+2. Betriebshandbuch
+  Mit dem Ziel, den sicheren Betrieb des Kraftfahrzeugs mit autonomer Fahrfunktion zu gewährleisten, soll das Betriebshandbuch die Bedienung, Wartung, Gesamtprüfung, Diagnose des Kraftfahrzeugs und die dem Datenschutz und der Datensicherheit dienenden Parameter detailliert darstellen. Zum Inhalt des Betriebshandbuches gehören mindestens folgende Punkte:
+  2.1 Ein Rollen-Rechte-Pflichten-Konzept für die zum Betrieb nötigen Tätigkeiten,
+  2.2 Definition der erforderlichen Kompetenzen zur Ausübung der zum Betrieb nötigen Tätigkeiten,
+  2.3 Umfang, Ablauf, Zeitpunkte und Intervalle von Wartungsmaßnahmen,
+  2.4 Sicherheitshinweise im Sinne der Beachtung von Grenzwerten für die technischen Funktionen,
+  2.5 Entstörungs- oder Sicherheitsmaßnahmen, die im Falle einer Störung des Betriebs zu ergreifen sind,
+  2.6 Dokumente für Wartungs- und Reparaturmaßnahmen inklusive der nötigen Vorlagen,
+  2.7 Darstellung der dem Datenschutz und der Datensicherheit dienenden Funktionalitäten.
+3. Sicherheitskonzept
+  Die Dokumentation des Sicherheitskonzepts nach Anlage 1 Nummer 7.2 soll die Prüfung der funktionalen Sicherheit ermöglichen.
+4. Sicherheit im Bereich der Informationstechnologie
+  Die Dokumentation muss die Prüfung der Sicherheit im Bereich der Informationstechnologie ermöglichen und eine detaillierte Beschreibung in Bezug auf die Gewährleistung des Datenschutzes und der Datensicherheit enthalten, insbesondere hinsichtlich der Beachtung der Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679.

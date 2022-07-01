@@ -1,0 +1,53 @@
+# Anlage (zu § 17 Absatz 1)Ausfüllhinweise für den Fragebogen gemäß § 17 Absatz 1
+
+Im nachfolgend aufgeführten Fragebogen sind folgende Abkürzungen für die Prüfungsfeststellungen in der Spalte „Feststellung“ zu verwenden:
+–: Die Vorschrift ist nicht einschlägig.
+0: Die rechtlichen Vorgaben wurden im gesamten Berichtszeitraum eingehalten.
+1: Bei der Einhaltung der rechtlichen Vorgaben ist ein Mangel aufgetreten, der bis zum Ende des Prüfungszeitraums beseitigt wurde.
+2: Bei der Einhaltung der rechtlichen Vorgaben ist ein Mangel aufgetreten, der nicht beseitigt werden kann.
+3: Bei der Einhaltung der rechtlichen Vorgaben ist ein behebbarer Mangel aufgetreten, der bis zum Ende des Prüfungszeitraums nicht beseitigt wurde.
+4: Bei der Überprüfung der Einhaltung der rechtlichen Vorgaben wurden sonstige Erkenntnisse gewonnen, die sich auf die fehlende oder nicht vollständige Berücksichtigung der durch die Europäische Wertpapier- und Marktaufsichtsbehörde (ESMA) vorgenommenen und veröffentlichten Auslegung beziehen, ohne dass zugleich ein Mangel bei der Einhaltung der rechtlichen Vorgaben aufgetreten ist.
+Tritt ein Mangel auf, der bereits bei der letzten Prüfung vorgelegen hat, ist dieser mit dem Symbol * zu kennzeichnen.
+Fragebogen gemäß § 17 Absatz 1 SchwarmfdPV
+Schwarmfinanzierungsdienstleister:
+Berichtszeitraum:
+Prüfungszeitraum:
+Prüfungsstichtag:
+Prüfungsfeststellungen:
+| Nr. | Vorschrift | Prüfungsgebiet | Feststellung | Fundstelle (Prüfungsbericht) |
+| Pflichten nach der Verordnung (EU) 2020/1503 |
+| 1 | Artikel 3Abs. 1 | Niederlassung in Union |  |  |
+| 2 | Artikel 3Abs. 2 | Ehrliches, redliches und professionelles Erbringen der Schwarmfinanzierungsdienstleistungen im bestmöglichen Kundeninteresse |  |  |
+| 3 | Artikel 3Abs. 3 | Verbot von Vorteilen für die Weiterleitung von Kundenaufträgen zu bestimmten Schwarmfinanzierungsangeboten |  |  |
+| 4 | Artikel 3Abs. 4 und 5 | Vorschläge für bestimmte Schwarmfinanzierungsprojekte |  |  |
+| 5 | Artikel 3Abs. 6 | Einsatz von Zweckgesellschaften |  |  |
+| 6 | Artikel 4 | Geschäftsleitung |  |  |
+| 7 | Artikel 5 | Sorgfältige Prüfung |  |  |
+| 8 | Artikel 6 | Kreditportfolioverwaltung |  |  |
+| 9 | Artikel 7 | Beschwerdebearbeitung |  |  |
+| 10 | Artikel 8 | Interessenkonflikte |  |  |
+| 11 | Artikel 9 | Auslagerung |  |  |
+| 12 | Artikel 10 | Erbringung von Dienstleistungen zur Verwahrung des Kundenvermögens und von Zahlungsdiensten |  |  |
+| 13 | Artikel 11 | Aufsichtliche Kapitalanforderungen |  |  |
+| 14 | Artikel 15Abs. 3 | Anzeige wesentlicher Änderungen |  |  |
+| 15 | Artikel 16Abs. 1 und 3 | Berichterstattung |  |  |
+| 16 | Artikel 18Abs. 1 und 4 | Grenzüberschreitende Dienstleistungserbringung |  |  |
+| 17 | Artikel 19 | Kundeninformationen |  |  |
+| 18 | Artikel 20 | Ausfallquoten |  |  |
+| 19 | Artikel 21 | Geeignetheit |  |  |
+| 20 | Artikel 22Abs. 2 bis 7 | Vorvertragliche Bedenkzeit |  |  |
+| 21 | Artikel 23Abs. 1 bis 4,6 bis 9 und11 bis 16 | Anlagebasisinformationsblatt |  |  |
+| 22 | Artikel 24Abs. 1 bis 4und 6 bis 8 | Anlagebasisinformationsblatt auf Ebene der Plattform |  |  |
+| 23 | Artikel 25 | Forum |  |  |
+| 24 | Artikel 26 | Aufzeichnungen |  |  |
+| 25 | Artikel 27Abs. 1 bis 3 | Marketingmitteilungen |  |  |
+| 26 | Anhang I | Inhalte Anlagebasisinformationsblatt |  |  |
+| 27 | Anhang II | Kundeneinstufung |  |  |
+| Grenzüberschreitende Dienstleistung |
+| 28 | Wurden im Berichtszeitraum grenzüberschreitende Schwarmfinanzierungsdienstleistungen erbracht? | ja/nein: |  |
+| Sonstiges |
+| 29 | § 32f Abs. 5WpHG | Durch die Bundesanstalt festgelegte Prüfungsschwerpunkte | ja/nein: |  |
+|  | Erläuterungen zu Nummer 29: |
+| 30 | Weitere Feststellungen, die für die Beurteilung der Ordnungsmäßigkeit der erbrachten Schwarmfinanzierungsdienstleistungen von Bedeutung und nicht durch die Nummern 1 bis 29 abgedeckt sind | ja/nein: |  |
+|  | Erläuterungen zu Nummer 30: |
+| 31 | Kurze Beschreibung der identifizierten Mängel und der Vorschriften, gegen die ein Verstoß vorliegt, insbesondere unter Berücksichtigung der seitens der Bundesanstalt für Finanzdienstleistungsaufsicht und der ESMA vorgenommenen und veröffentlichten Normauslegung: |
