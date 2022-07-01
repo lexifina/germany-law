@@ -1,0 +1,10 @@
+# § 4a Zertifizierung durch Prüfungsorganisationen
+(1) Spielhallen sind vor Betriebsbeginn durch die spielhallenbetreibende Person zertifizieren zu lassen. Die Zertifizierung erfolgt ausschließlich durch nach Absatz 3 akkreditierte Prüforganisationen. Für eine Spielhalle darf ein Zertifikat nur erteilt werden, wenn die antragstellende Person oder bei wiederholter Zertifizierung die spielhallenbetreibende Person gewährleistet, dass
+1. ein Sozialkonzept, welches die Mindestvoraussetzungen des § 6 Absatz 2 des Glücksspielstaatsvertrags 2021 erfüllt, entwickelt und umgesetzt wird,
+2. sie oder eine mit der Leitung der Spielhalle beauftragte Person die Sachkundeprüfung nach § 4b bestanden hat,
+3. das Personal gemäß § 4 Absatz 1 Nummer 2 in der Früherkennung problematischen und pathologischen Spielverhaltens fachkundig geschult ist,
+4. mindestens eine Person vor Ort in der Spielhalle die Aufsicht führt und
+5. die Spielenden durch entsprechendes Informationsmaterial auf die Möglichkeit zu einer mündlich oder schriftlich zu beantragenden Selbstsperre hingewiesen werden und das Informationsmaterial den Spielenden in der Spielhalle leicht zugänglich ist.
+(2) Die Zertifizierung nach Absatz 1 ist in regelmäßigen Abständen, mindestens alle zwei Jahre, zu wiederholen. Die spielhallenbetreibende Person hat nach jeder Zertifizierung das erteilte Zertifikat unverzüglich der zuständigen Behörde vorzulegen. Wird ein nach Absatz 1 erteiltes Zertifikat entzogen, so hat die Prüforganisation dies der zuständigen Behörde unverzüglich mitzuteilen.
+(3) Prüforganisationen sind zur Erteilung von Zertifikaten nach Absatz 1 berechtigt, wenn sie hinsichtlich der zur Beurteilung der dort genannten Kriterien erforderlichen Sachkunde und ihrer organisatorischen, personellen und finanziellen Unabhängigkeit von spielhallenbetreibenden und automatenaufstellenden Personen sowie deren Interessenverbänden durch die Deutsche Akkreditierungsstelle gemäß ISO/IEC 17065 akkreditiert sind.
+(4) Die Zertifizierung lässt die Befugnisse der zuständigen Behörde unberührt.
