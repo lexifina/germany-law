@@ -10,6 +10,11 @@ Gebühren des Bundes
 | 111.1.1 |  | einer EG-Typgenehmigung (Einphasen-Typgenehmigung und gemischte Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für Fahrzeugtypen ohne Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien | 785,00 bis 4 853,00 |
 | 111.2 |  | einer Allgemeinen Betriebserlaubnis (ABE) oder amtlichen Bauartgenehmigung (ABG) für Fahrzeugteiletypen sowie einer Erlaubnis oder Genehmigung für selbstständige technische Einheiten, Autorisierung sowie nach Anlagen zur StVZO; je Erlaubnis- oder Genehmigungssachverhalt | 404,00 bis 537,00 |
 | 111.2.1 |  | von Genehmigungen nach ECE-Regelung Nummer 90 für unterschiedliche Bremsbelag-Einheiten mit gleichem Reibmaterial | Gebühr nach Gebührennummer 111.2 (einmalig) zzgl. 22,00 Euro für jede weitere Folgegenehmigung |
+| 111.3 |  | einer Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion | 8 925,00 bis 89 240,00 |
+| 111.4 |  | einer Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer Fahrfunktion | 8 925,00 bis 89 240,00 |
+| 111.5 |  | einer Genehmigung einer nachträglichen Aktivierung einer autonomen Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person | 49,00 bis 129,00 |
+| 111.6 |  | einer Genehmigung einer nachträglichen Aktivierung einer automatisierten Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person | 49,00 bis 129,00 |
+| 111.7 |  | einer Erprobungsgenehmigung für automatisierte Fahrfunktionen nach Personal- und Sachaufwand je Stunde und Person | 49,00 bis 129,00 |
 | 112 |  | Erteilung eines Nachtrags |  |
 | 112.1 |  | zu einer Allgemeinen Betriebserlaubnis (ABE) oder EG-Typgenehmigung für Fahrzeugtypen |  |
 | 112.1.1 |  | ohne Gutachten | 169,00 bis 179,00 |
@@ -19,6 +24,11 @@ Gebühren des Bundes
 | 112.2.1 |  | ohne Gutachten | 125,00 bis 135,00 |
 | 112.2.2 |  | mit Gutachten | 251,00 bis 266,00 |
 | 112.3 |  | Erteilung von Nachträgen ohne Gutachten für mehrere Erlaubnisse oder Genehmigungen gleichzeitig auf Grund desselben Sachverhalts | Gebühr nach Gebührennummer 112.1 bzw. 112.2 (einmalig) zzgl. 22,00 Euro für jeden weiteren Folgenachtrag |
+| 112.4 |  | zur Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion | 4 462,50 bis 44 620,00 |
+| 112.5 |  | zur Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer Fahrfunktion | 4 462,50 bis 44 620,00 |
+| 112.6 |  | einer Genehmigung einer nachträglichen Aktivierung einer autonomen Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person | 49,00 bis 129,00 |
+| 112.7 |  | einer Genehmigung einer nachträglichen Aktivierung einer automatisierten Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person | 49,00 bis 129,00 |
+| 112.8 |  | einer Erprobungsgenehmigung für automatisierte Fahrfunktionen nach Personal- und Sachaufwand je Stunde und Person | 49,00 bis 129,00 |
 | 113 |  | Erteilung einer Unbedenklichkeitserklärung bei nachträglichen Änderungen genehmigter Fahrzeug- und Fahrzeugteiletypen | die Hälfte der jeweiligen Gebühr nach den Gebührennummern 112.1.1 bis 112.2.2 |
 | 114 |  | Nachprüfung der Übereinstimmung der Produktion auf Grund einer durch das Kraftfahrt-Bundesamt erteilten Erlaubnis oder Genehmigung, wenn |  |
 | 114.1 |  | ein Verstoß gegen Meldepflichten festgestellt wird | 141,00 |
@@ -358,6 +368,10 @@ Gebühren der Behörden im Landesbereich
 | 398 |  | Androhung der Anordnung der im 2. Abschnitt genannten Maßnahmen, soweit bei den einzelnen Gebührennummern die Androhung nicht bereits selbst genannt ist | 10,20 |
 | 399 |  | Für andere als die in diesem Abschnitt aufgeführten Maßnahmen können Gebühren nach den Sätzen für vergleichbare Maßnahmen oder, soweit solche nicht bewertet sind, nach dem Zeitaufwand mit 12,80 Euro je angefangene Viertelstunde Arbeitszeit erhoben werden. |  |
 | 400 |  | Zurückweisung eines Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung | Gebühr in Höhe der Gebühr für die beantragte oder angefochtene Amtshandlung, mindestens jedoch 25,60 Euro; bei gebührenfreien angefochtenen Amtshandlungen 25,60 Euro. Von der Festsetzung einer Gebühr ist abzusehen, soweit durch die Rücknahme des Widerspruchs das Verfahren besonders rasch und mit geringem Verwaltungsaufwand abgeschlossen werden kann, wenn dies der Billigkeit nicht widerspricht. |
+|  | H. | Autonome-Fahrzeuge-Genehmigungs- und-Betriebs-Verordnung (AFGBV) |  |
+| 400a |  | Genehmigung des festgelegten Betriebsbereichs für Kraftfahrzeuge mit autonomer Fahrfunktion |  |
+| 400a.1 |  | Prüfung eines Antrags zur Genehmigung eines festgelegten Betriebsbereichs für den Einsatz von Kraftfahrzeugen mit autonomer Fahrfunktion nach § 8 AFGBV einschließlich Begehung des Betriebsbereichs, Sachverhaltsaufklärung, Abstimmung mit zu beteiligenden Dritten, Prüfung der zugrundeliegenden Betriebserlaubnis des Kraftfahrzeugs mit autonomer Fahrfunktion sowie Entscheidung über den Antrag hinsichtlich Erteilung, Änderung, Verlängerung, Ablehnung oder Aufhebung, einschließlich Eintragung | 790,60 bis 79 060,00 |
+| 400a.2 |  | Begutachtung und Prüfung von Nachträgen für einen festgelegten Betriebsbereich für bereits genehmigte festgelegte Betriebsbereiche sowie Nachprüfung der Erfüllung der Voraussetzungen der Genehmigung eines genehmigten festgelegten Betriebsbereichs nach Personal- und Sachaufwand je Stunde und Person | 49,00 bis 129,00 |
 3. Abschnitt
 Gebühren der amtlich anerkannten Sachverständigen
 und Prüfer für den Kraftfahrzeugverkehr, der Prüfstellen nach der Fahrzeugteileverordnung
