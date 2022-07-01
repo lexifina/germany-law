@@ -8,9 +8,7 @@ Geltungsbereich
 - [§ 1 Steuerbare Umsätze](0001.md)
 - [§ 1a Innergemeinschaftlicher Erwerb](0001a.md)
 - [§ 1b Innergemeinschaftlicher Erwerb neuer Fahrzeuge](0001b.md)
-- [§ 1c Innergemeinschaftlicher Erwerb durch diplomatische Missionen,
-zwischenstaatliche Einrichtungen und Streitkräfte der
-Vertragsparteien des Nordatlantikvertrags](0001c.md)
+- [§ 1c Innergemeinschaftlicher Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Vertragsparteien des Nordatlantikvertrags](0001c.md)
 - [§ 2 Unternehmer, Unternehmen](0002.md)
 - [§ 2a Fahrzeuglieferer](0002a.md)
 - [§ 2b Juristische Personen des öffentlichen Rechts](0002b.md)

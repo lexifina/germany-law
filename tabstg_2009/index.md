@@ -6,6 +6,7 @@
 
 - [§ 1 Steuergebiet, Steuergegenstand](0001.md)
 - [§ 1a Erhitzter Tabak, Wasserpfeifentabak](0001a.md)
+- [§ 1b Substitute für Tabakwaren](0001b.md)
 - [§ 2 Steuertarif](0002.md)
 - [§ 3 Bemessungsgrundlagen](0003.md)
 - [§ 4 Sonstige Begriffsbestimmungen](0004.md)

@@ -89,6 +89,7 @@
 - [§ 48c Durchleitungsgebot](0048c.md)
 - [§ 49 Stornohaftung](0049.md)
 - [§ 50 Entgelt bei der Vermittlung substitutiver Krankenversicherungsverträge](0050.md)
+- [§ 50a Entgelt bei der Vermittlung von Restschuldversicherungen](0050a.md)
 - [§ 51 Beschwerden über Versicherungsvermittler](0051.md)
 
 #### Abschnitt 6 Verhinderung von Geldwäsche und von Terrorismusfinanzierung

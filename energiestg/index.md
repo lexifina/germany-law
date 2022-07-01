@@ -29,7 +29,7 @@ und Erdgas
 - [§ 9d Beförderungen (Allgemeines)](0009d.md)
 - [§ 10 Beförderungen im Steuergebiet](0010.md)
 - [§ 11 Beförderungen aus anderen und in andere Mitgliedstaaten](0011.md)
-- [§ 12 (weggefallen)](0012.md)
+- [§ 12 Weitergabe von Energieerzeugnissen durch Begünstigte](0012.md)
 - [§ 13 Ausfuhr](0013.md)
 - [§ 14 Unregelmäßigkeiten während der Beförderung](0014.md)
 
@@ -103,7 +103,8 @@ Gasöl](0048.md)
 - [§ 55 Steuerentlastung für Unternehmen in Sonderfällen](0055.md)
 - [§ 56 Steuerentlastung für den Öffentlichen Personennahverkehr](0056.md)
 - [§ 57 Steuerentlastung für Betriebe der Land- und Forstwirtschaft](0057.md)
-- [§ 58 (weggefallen)](0058.md)
+- [§ 58 Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)](0058.md)
+- [§ 58a Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)](0058a.md)
 - [§ 59 Steuervergütung für Diplomatenbenzin und -dieselkraftstoff](0059.md)
 - [§ 60 Steuerentlastung bei Zahlungsausfall](0060.md)
 

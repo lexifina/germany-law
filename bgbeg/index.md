@@ -887,6 +887,9 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 #### Art 229
 
 
+#### Art 229
+
+
 ## Sechster Teil Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 
 
@@ -1115,7 +1118,19 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 ## Siebter Teil Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten
 
 
-#### Art 238 (weggefallen)
+#### Art 238 Datenverarbeitung und Auskunftspflichten für qualifizierte Mietspiegel
+
+
+#### Art 238
+
+
+#### Art 238
+
+
+#### Art 238
+
+
+#### Art 238
 
 
 #### Art 239 Länderöffnungsklausel

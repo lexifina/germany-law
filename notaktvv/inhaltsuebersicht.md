@@ -50,7 +50,6 @@ Urkundensammlung, Sondersammlung
 | § 37 | Sondersammlung |
 | § 38 | Sonderbestimmungen für Verfügungen von Todes wegen |
 | § 39 | Behandlung nach Ablauf der Aufbewahrungsfrist für die Urkundensammlung |
-| § 39a | Übergangsvorschrift |
 Abschnitt 6
 Nebenakten
 | § 40 | Nebenakten |

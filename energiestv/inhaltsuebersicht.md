@@ -66,11 +66,11 @@
 | Zu den §§ 8, 9, 9a, 14, 15, 16, 22 und 23 des Gesetzes |
 |  |  |
 | § 23a | Steueranmeldung |
-|  |
+|  |  |
 | Zu den §§ 8, 9, 9a, 14, 15, 16, 17, 18, 18a, 20, 21, 22, 23, 30, 33, 34, 36, 37, 39, 40, 42, 43 und 44 des Gesetzes und § 61 Absatz 4 |
 |  |  |
 | § 23b | Überprüfung der Steueranmeldung |
-|  |  |
+|  |
 | Zu § 9 des Gesetzes |
 |  |  |
 | § 24 | Herstellung außerhalb eines Herstellungsbetriebs |
@@ -147,12 +147,11 @@
 | § 47 | Vermischungen in Kennzeichnungs- und anderen Betrieben |
 | § 48 | Vermischungen bei der Abgabe aus Transportmitteln |
 | § 49 | Spülvorgänge und sonstige Vermischungen, Steueranmeldung |
-| § 49a | Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung |
-| § 49b | Nachweise für die Vorversteuerung |
 |  |
 | Zu § 23 des Gesetzes |
 |  |  |
-| § 49a | Abgabe von sonstigen Energieerzeugnissen |
+| § 49a | Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung |
+| § 49b | Nachweise für die Vorversteuerung |
 | § 50 | Anzeige |
 | § 51 | Pflichten, Steueraufsicht |
 |  |
@@ -298,6 +297,14 @@
 |  |  |
 | § 103 | Steuerentlastung für Betriebe der Land- und Forstwirtschaft |
 |  |
+| Zu § 58 des Gesetzes |
+|  |  |
+| § 103a | Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO) |
+|  |  |
+| Zu § 58a des Gesetzes |
+|  |  |
+| § 103b | Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP) |
+|  |  |
 | Zu § 59 des Gesetzes |
 |  |  |
 | § 104 | Steuervergütung für Diplomatenbenzin und -dieselkraftstoff |
@@ -306,9 +313,9 @@
 |  |  |
 | § 105 | (weggefallen) |
 |  |
-| Zu § 66 Absatz 1 Nummer 18 des Gesetzes |
+| Zu § 66 Absatz 1 Nummer 18 des Gesetzes (weggefallen) |
 |  |
-| § 105a | Steuerentlastung für ausländische Streitkräfte und Hauptquartiere |
+| § 105a | (weggefallen) |
 |  |
 | Zu den §§ 61 und 66 Abs. 1 Nr. 16 des Gesetzes |
 |  |  |

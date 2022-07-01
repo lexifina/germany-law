@@ -55,7 +55,6 @@
 - [§ 37 Sondersammlung](0037.md)
 - [§ 38 Sonderbestimmungen für Verfügungen von Todes wegen](0038.md)
 - [§ 39 Behandlung nach Ablauf der Aufbewahrungsfrist für die Urkundensammlung](0039.md)
-- [§ 39a Übergangsvorschrift](0039a.md)
 
 ## Abschnitt 6 Nebenakten
 

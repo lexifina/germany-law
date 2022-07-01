@@ -11,6 +11,7 @@
 
 - [§ 2 Stückgewicht](0002.md)
 - [§ 3 Steuerzeichen](0003.md)
+- [§ 3 Steuerzeichen](0003-2.md)
 
 ## Abschnitt 3 Zu den §§ 5 und 6 des Gesetzes
 

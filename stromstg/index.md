@@ -13,6 +13,8 @@
 - [§ 9a Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren](0009a.md)
 - [§ 9b Steuerentlastung für Unternehmen](0009b.md)
 - [§ 9c Steuerentlastung für den Öffentlichen Personennahverkehr](0009c.md)
+- [§ 9d Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)](0009d.md)
+- [§ 9e Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)](0009e.md)
 - [§ 10 Erlass, Erstattung oder Vergütung in Sonderfällen](0010.md)
 - [§ 10a Datenaustausch](0010a.md)
 - [§ 11 Ermächtigungen](0011.md)

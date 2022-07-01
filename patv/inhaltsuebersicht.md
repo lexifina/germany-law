@@ -1,4 +1,4 @@
-# Inhaltsverzeichnis
+# Inhaltsübersicht
 
 | Abschnitt 1 |
 |  | Allgemeines |
@@ -14,7 +14,9 @@
 | § 8 | Nichtnennung des Erfinders; Änderungen der Erfindernennung |
 | § 9 | Patentansprüche |
 | § 10 | Beschreibung |
-| § 11 | Beschreibung von Nukleotid- und Aminosäuresequenzen |
+| § 11 | Darstellung von Nukleotid- und Aminosäuresequenzen; Sequenzprotokolle |
+| § 11a | Einreichung des Sequenzprotokolls als elektronisches Dokument; sprachbezogene Anforderungen an Sequenzprotokolle |
+| § 11b | Geänderte und nachgereichte Sequenzprotokolle |
 | § 12 | Zeichnungen |
 | § 13 | Zusammenfassung |
 | § 14 | Fremdsprachige Dokumente |
@@ -34,5 +36,5 @@
 | § 22 | Übergangsregelung |
 | § 23 | Inkrafttreten; Außerkrafttreten |
 | Anlagen |
-| Anlage 1 (zu § 11 Abs. 1 Satz 2) | Standards für die Einreichung von Sequenzprotokollen |
+| Anlage 1 | (weggefallen) |
 | Anlage 2 (zu § 12) | Standards für die Einreichung von Zeichnungen |

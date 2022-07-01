@@ -57,6 +57,12 @@
 | § 17d | Steuerentlastung für den Öffentlichen Personennahverkehr, Allgemeines |
 | § 17e | Steuerentlastung für den Öffentlichen Personennahverkehr, Nachweise |
 |  |  |
+| Zu § 9d des Gesetzes |
+| § 17f | Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO) |
+|  |  |
+| Zu § 9e des Gesetzes |
+| § 17g | Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP) |
+|  |  |
 | Zu § 10 des Gesetzes |
 | § 18 | Begriffsbestimmungen zu § 10 des Gesetzes |
 | § 19 | Erlass, Erstattung oder Vergütung der Steuer in Sonderfällen |

@@ -24,7 +24,7 @@ Steueraussetzung
 | § 9d | Beförderungen (Allgemeines) |
 | § 10 | Beförderungen im Steuergebiet |
 | § 11 | Beförderungen aus anderen und in andere Mitgliedstaaten |
-| § 12 | (weggefallen) |
+| § 12 | Weitergabe von Energieerzeugnissen durch Begünstigte |
 | § 13 | Ausfuhr |
 | § 14 | Unregelmäßigkeiten während der Beförderung |
 Abschnitt 2
@@ -90,7 +90,8 @@ Steuerentlastung
 | § 55 | Steuerentlastung für Unternehmen in Sonderfällen |
 | § 56 | Steuerentlastung für den Öffentlichen Personennahverkehr |
 | § 57 | Steuerentlastung für Betriebe der Land- und Forstwirtschaft |
-| § 58 | (weggefallen) |
+| § 58 | Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO) |
+| § 58a | Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP) |
 | § 59 | Steuervergütung für Diplomatenbenzin und -dieselkraftstoff |
 | § 60 | Steuerentlastung bei Zahlungsausfall |
 Kapitel 6

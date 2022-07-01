@@ -445,8 +445,9 @@ erbrachter Leistung](0281.md)
 
 ##### Kapitel 4 Abweichende Vereinbarungen und Beweislast
 
-- [§ 312k Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen](0312k.md)
-- [§ 312l Abweichende Vereinbarungen und Beweislast](0312l.md)
+- [§ 312k Kündigung von Verbraucherverträgen im elektronischen Geschäftsverkehr](0312k.md)
+- [§ 312l Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen](0312l.md)
+- [§ 312m Abweichende Vereinbarungen und Beweislast](0312m.md)
 
 ##### Untertitel 3 Anpassung und Beendigung von Verträgen
 
@@ -913,7 +914,7 @@ erbrachter Leistung](0281.md)
 - [§ 558 Mieterhöhung bis zur ortsüblichen Vergleichsmiete](0558.md)
 - [§ 558a Form und Begründung der Mieterhöhung](0558a.md)
 - [§ 558b Zustimmung zur Mieterhöhung](0558b.md)
-- [§ 558c Mietspiegel](0558c.md)
+- [§ 558c Mietspiegel; Verordnungsermächtigung](0558c.md)
 - [§ 558d Qualifizierter Mietspiegel](0558d.md)
 - [§ 558e Mietdatenbank](0558e.md)
 - [§ 559 Mieterhöhung nach Modernisierungsmaßnahmen](0559.md)

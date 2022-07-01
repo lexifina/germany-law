@@ -301,6 +301,14 @@
 
 - [§ 103 Steuerentlastung für Betriebe der Land- und Forstwirtschaft](0103.md)
 
+### - Zu § 58 des Gesetzes
+
+- [§ 103a Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)](0103a.md)
+
+### - Zu § 58a des Gesetzes
+
+- [§ 103b Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik(GSVP)](0103b.md)
+
 ### - Zu § 59 des Gesetzes
 
 - [§ 104 Steuervergütung für Diplomatenbenzin und -dieselkraftstoff](0104.md)
@@ -309,9 +317,9 @@
 
 - [§ 105 (weggefallen)](0105.md)
 
-### - Zu § 66 Absatz 1 Nummer 18 des Gesetzes
+### - (weggefallen)
 
-- [§ 105a Steuerentlastung für ausländische Streitkräfte und Hauptquartiere](0105a.md)
+- [§ 105a (weggefallen)](0105a.md)
 
 ### - Zu den §§ 61 und 66 Abs. 1 Nr. 16 des Gesetzes
 

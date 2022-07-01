@@ -1,7 +1,7 @@
 # Verordnung zum Verfahren in Patentsachen vor dem Deutschen Patent- und Markenamt
 
 - [Eingangsformel](eingangsformel.md)
-- [Inhaltsverzeichnis](inhaltsverzeichnis.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeines
 
@@ -18,7 +18,9 @@
 - [§ 8 Nichtnennung des Erfinders; Änderungen der Erfindernennung](0008.md)
 - [§ 9 Patentansprüche](0009.md)
 - [§ 10 Beschreibung](0010.md)
-- [§ 11 Beschreibung von Nukleotid- und Aminosäuresequenzen](0011.md)
+- [§ 11 Darstellung von Nukleotid-und Aminosäuresequenzen; Sequenzprotokolle](0011.md)
+- [§ 11a Einreichung des Sequenzprotokolls als elektronisches Dokument; sprach- bezogene Anforderungen an Sequenzprotokolle](0011a.md)
+- [§ 11b Geänderte und nachgereichte Sequenzprotokolle](0011b.md)
 - [§ 12 Zeichnungen](0012.md)
 - [§ 13 Zusammenfassung](0013.md)
 - [§ 14 Fremdsprachige Dokumente](0014.md)
@@ -40,5 +42,5 @@
 
 - [§ 22 Übergangsregelung](0022.md)
 - [§ 23 Inkrafttreten; Außerkrafttreten](0023.md)
-- [Anlage 1 (zu § 11 Abs. 1 Satz 2) Standards für die Einreichung von Sequenzprotokollen](anlage-1.md)
+- [Anlage 1 (weggefallen)](anlage-1.md)
 - [Anlage 2 (zu § 12)Standards für die Einreichung von Zeichnungen](anlage-2.md)

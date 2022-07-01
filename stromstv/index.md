@@ -67,6 +67,14 @@
 - [§ 17d Steuerentlastung für den Öffentlichen Personennahverkehr, Allgemeines](0017d.md)
 - [§ 17e Steuerentlastung für den Öffentlichen Personennahverkehr, Nachweise](0017e.md)
 
+## - Zu § 9d des Gesetzes
+
+- [§ 17f Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)](0017f.md)
+
+## - Zu § 9e des Gesetzes
+
+- [§ 17g Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)](0017g.md)
+
 ## - zu § 10 des Gesetzes
 
 - [§ 18 Begriffsbestimmungen zu § 10 des Gesetzes](0018.md)

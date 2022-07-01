@@ -34,75 +34,58 @@
 | 312 041 | – bei Lizenzbereitschaftserklärung |  |
 |  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 35 |
 | 312 042 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 050 | für das 5. Patentjahr . . . . . . . . . . | 90 |
-| 312 051 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 45 |
+| 312 050 | für das 5. Patentjahr . . . . . . . . . . | 100 |
+| 312 051 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 50 |
 | 312 052 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 060 | für das 6. Patentjahr . . . . . . . . . . | 130 |
-| 312 061 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 65 |
+| 312 060 | für das 6. Patentjahr . . . . . . . . . . | 150 |
+| 312 061 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 75 |
 | 312 062 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 070 | für das 7. Patentjahr . . . . . . . . . . | 180 |
-| 312 071 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 90 |
+| 312 070 | für das 7. Patentjahr . . . . . . . . . . | 210 |
+| 312 071 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 105 |
 | 312 072 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 080 | für das 8. Patentjahr . . . . . . . . . . | 240 |
-| 312 081 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 120 |
+| 312 080 | für das 8. Patentjahr . . . . . . . . . . | 280 |
+| 312 081 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 140 |
 | 312 082 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 090 | für das 9. Patentjahr . . . . . . . . . . | 290 |
-| 312 091 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 145 |
+| 312 090 | für das 9. Patentjahr . . . . . . . . . . | 350 |
+| 312 091 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 175 |
 | 312 092 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 100 | für das 10. Patentjahr . . . . . . . . . . | 350 |
-| 312 101 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 175 |
+| 312 100 | für das 10. Patentjahr . . . . . . . . . . | 430 |
+| 312 101 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 215 |
 | 312 102 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 110 | für das 11. Patentjahr . . . . . . . . . . | 470 |
-| 312 111 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 235 |
+| 312 110 | für das 11. Patentjahr . . . . . . . . . . | 540 |
+| 312 111 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 270 |
 | 312 112 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 120 | für das 12. Patentjahr . . . . . . . . . . | 620 |
-| 312 121 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 310 |
+| 312 120 | für das 12. Patentjahr . . . . . . . . . . | 680 |
+| 312 121 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 340 |
 | 312 122 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 130 | für das 13. Patentjahr . . . . . . . . . . | 760 |
-| 312 131 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 380 |
+| 312 130 | für das 13. Patentjahr . . . . . . . . . . | 830 |
+| 312 131 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 415 |
 | 312 132 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 140 | für das 14. Patentjahr . . . . . . . . . . | 910 |
-| 312 141 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 455 |
+| 312 140 | für das 14. Patentjahr . . . . . . . . . . | 980 |
+| 312 141 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 490 |
 | 312 142 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 150 | für das 15. Patentjahr . . . . . . . . . . | 1 060 |
-| 312 151 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 530 |
+| 312 150 | für das 15. Patentjahr . . . . . . . . . . | 1 130 |
+| 312 151 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 565 |
 | 312 152 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 160 | für das 16. Patentjahr . . . . . . . . . . | 1 230 |
-| 312 161 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) | 615 |
-| 312 162 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) | 50 |
-| 312 170 | für das 17. Patentjahr | 1 410 |
-| 312 171 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 705 |
+| 312 160 | für das 16. Patentjahr . . . . . . . . . . | 1 310 |
+| 312 161 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 655 |
+| 312 162 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
+| 312 170 | für das 17. Patentjahr . . . . . . . . . . | 1 490 |
+| 312 171 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 745 |
 | 312 172 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 180 | für das 18. Patentjahr . . . . . . . . . . | 1 590 |
-| 312 181 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 795 |
+| 312 180 | für das 18. Patentjahr . . . . . . . . . . | 1 670 |
+| 312 181 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 835 |
 | 312 182 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 190 | für das 19. Patentjahr . . . . . . . . . . | 1 760 |
-| 312 191 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 880 |
+| 312 190 | für das 19. Patentjahr . . . . . . . . . . | 1 840 |
+| 312 191 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 920 |
 | 312 192 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-| 312 200 | für das 20. Patentjahr | 1 940 |
-| 312 201 | – bei Lizenzbereitschaftserklärung |  |
-|  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 970 |
+| 312 200 | für das 20. Patentjahr . . . . . . . . . . | 2 030 |
+| 312 201 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 1 015 |
 | 312 202 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
 |  | Zahlung der 3. bis 5. Jahresgebühr bei Fälligkeit der 3. Jahresgebühr: |  |
-| 312 205 | Die Gebühren 312 030 bis 312 050 ermäßigen sich auf . . . . . . . . . . | 200 |
-| 312 206 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 100 |
+| 312 205 | Die Gebühren 312 030 bis 312 050 ermäßigen sich auf . . . . . . . . . . | 210 |
+| 312 206 | – bei Lizenzbereitschaftserklärung (§ 23 Abs. 1 PatG) . . . . . . . . . . | 105 |
 | 312 207 | – Verspätungszuschlag (§ 7 Abs. 1 Satz 2) . . . . . . . . . . | 50 |
-|  | Jahresgebühren gemäß § 16a PatG |  |
 | 312 210 | für das 1. Jahr des ergänzenden Schutzes . . . . . . . . . . | 2 920 |
 | 312 211 | – bei Lizenzbereitschaftserklärung |  |
 |  | (§ 23 Abs. 1 PatG) . . . . . . . . . . | 1 460 |
