@@ -1,7 +1,4 @@
-# Anlage (zu § 4)
-
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Justizfachangestellten/zur Justizfachangestellten
+# Anlage (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Justizfachangestellten/zur Justizfachangestellten
 
 (Fundstelle: BGBl. I 1998, 198 - 202)
 | Lfd. Nr. | Teil des Ausbildungsberufsbildes | zu vermittelnde Fertigkeiten und Kenntnisse | zeitliche Richtwerte in Wochen im Ausbildungsjahr |
@@ -30,6 +27,6 @@ Justizfachangestellten/zur Justizfachangestellten
 | 9 | Fallbezogene Rechtsanwendung in Verfahren der freiwilligen Gerichtsbarkeit(§ 3 Nr. 9) |  |  |  |  |
 | 9.1 | Grundbuch(§ 3 Nr. 9.1) | in Verfahren des Grundbuchamtes mitwirken, insbesonderea)Eintragungen in das Grundbuch vornehmenb)Einsicht in Grundbuch und Eigentümerkartei gewährenc)Anträge präsentieren |  | 15 |  |
 | 9.2 | Nachlaß(§ 3 Nr. 9.2) | in Verfahren vor dem Nachlaßgericht mitwirken, insbesonderea)letztwillige Verfügungen verwahrenb)letztwillige Verfügungen zur Eröffnung entgegennehmen |  |  | 10 |
-| 9.3 | Vormundschaftsgerichtliche Angelegenheiten, Betreuung(§ 3 Nr. 9.3) | in Verfahren vor dem Vormundschaftsgericht und in Betreuungsverfahren, insbesondere bei Anträgen auf Bestellung eines Betreuers, mitwirken |  |  | 12 |
+| 9.3 | Vormundschaftsrechtliche Angelegenheiten, Betreuung(§ 3 Nr. 9.3) | in Verfahren vor dem Familiengericht und in Betreuungsverfahren, insbesondere bei Anträgen auf Bestellung eines Betreuers, mitwirken |  |  | 12 |
 | 9.4 | Öffentliche Register(§ 3 Nr. 9.4) | in Registerverfahren mitwirken, insbesonderea)Eintragungen in die Register vornehmenb)Veröffentlichungen veranlassen |  |  | 13 |
 | *)Insbesondere im Zusammenhang mit den laufenden Nummern 7.1 und 8 zu vermitteln; können auch in Verbindung mit den laufenden Nummern 7.2 bis 7.4 und der laufenden Nummer 9 vertieft werden. |

@@ -1,5 +1,4 @@
-# Verordnung über die Berufsausbildung
-zum Justizfachangestellten/zur Justizfachangestellten
+# Verordnung über die Berufsausbildung zum Justizfachangestellten/zur Justizfachangestellten
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
@@ -13,7 +12,4 @@ zum Justizfachangestellten/zur Justizfachangestellten
 - [§ 9 Aufhebung von Vorschriften](0009.md)
 - [§ 10 Übergangsregelung](0010.md)
 - [§ 11 Inkrafttreten](0011.md)
-- [Anlage (zu § 4)
-
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Justizfachangestellten/zur Justizfachangestellten](anlage.md)
+- [Anlage (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Justizfachangestellten/zur Justizfachangestellten](anlage.md)

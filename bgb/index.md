@@ -311,6 +311,7 @@ Selbstverteidigung, Selbsthilfe
 - [§ 238 Hypotheken, Grund- und Rentenschulden](0238.md)
 - [§ 239 Bürge](0239.md)
 - [§ 240 Ergänzungspflicht](0240.md)
+- [§ 240a Verordnungsermächtigung](0240a.md)
 
 ## Buch 2 Recht der Schuldverhältnisse
 

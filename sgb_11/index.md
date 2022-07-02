@@ -394,7 +394,7 @@ zum Schutz der Pflegebedürftigen
 - [§ 148 Beratungsbesuche nach § 37](0148.md)
 - [§ 149 Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung](0149.md)
 - [§ 150 Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige](0150.md)
-- [§ 150a Sonderleistung während der Coronavirus-SARS-CoV-2-Pandemie](0150a.md)
+- [§ 150a Pflegebonus zur Anerkennung der besonderen Leistungen in der Coronavirus-SARS-CoV-2-Pandemie](0150a.md)
 - [§ 150b Nichtanrechnung von Arbeitstagen mit Bezug von Pflegeunterstützungsgeld, Betriebshilfe oder Kostenerstattung gemäß § 150 Absatz 5d](0150b.md)
 - [§ 151 Qualitätsprüfungen nach § 114](0151.md)
 - [§ 152 Verordnungsermächtigung](0152.md)

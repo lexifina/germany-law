@@ -390,7 +390,7 @@
 | § 148 | Beratungsbesuche nach § 37 |
 | § 149 | Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung |
 | § 150 | Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige |
-| § 150a | Sonderleistung während der Coronavirus-SARS-CoV-2-Pandemie |
+| § 150a | Pflegebonus zur Anerkennung der besonderen Leistungen in der Coronavirus-SARS-CoV-2-Pandemie |
 | § 151 | Qualitätsprüfungen nach § 114 |
 | § 152 | Verordnungsermächtigung |
 | § 153 | Erstattung pandemiebedingter Kosten durch den Bund; Verordnungsermächtigung |

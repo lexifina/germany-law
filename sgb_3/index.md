@@ -718,3 +718,4 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 450 Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung](0450.md)
 - [§ 451 Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze](0451.md)
 - [§ 453 Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze](0453.md)
+- [§ 454 Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung](0454.md)
