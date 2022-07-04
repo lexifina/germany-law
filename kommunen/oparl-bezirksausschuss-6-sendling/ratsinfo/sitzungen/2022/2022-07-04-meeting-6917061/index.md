@@ -1,0 +1,114 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-07-04T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6917061
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6917061
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Erhöhung der Attraktivität des Viertels
+- TOP 2.2.: LKW-Verkehr in der Oberländerstraße
+- TOP 2.3.: Obst- und Gemüsestand in der Alramstraße
+- TOP 2.4.: Behinderung des Verkehrs durch LKWs in der Schäftlarn- und Urbanstraße
+- TOP 2.5.: Mülleimer und Hundekotbeutelspender in München
+- TOP 2.6.: Baumhaus im Neuhofener Park
+- TOP 2.7.: Verkehrsaufkommen in der Esswurmstraße
+- TOP 2.8.: Holzgeländer im Neuhofener Park erneuern
+- TOP 2.9.: Schienenersatzverkehrslage U3 und U6 Implerstraße
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Fallstraße 38
+- TOP 4.2.2.: Bauvorhaben Implerstraße 25
+- TOP 4.2.3.: Sitzungsvorlage zum Bau einer Mehrgenerationenanlage Meindlstraße 14a
+- TOP 4.2.4.: 2. Stammstrecke PFA 3 Ost - Planfeststellungsverfahren - 1. Planänderung
+- TOP 4.2.5.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 4.2.6.: Baumfällung Bruderhofstraße 6
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Bauvorhaben Implerstraße 17 Bescheid
+- TOP 4.3.3.: Durchführung von nächtlichen Mäharbeiten des Straßenbegleitgrüns
+- TOP 4.3.4.: 4. Maßnahmenpaket des Sportbauprogrammes
+- TOP 4.3.5.: Anfrage zum ehemaligen REWE-Supermarkt an der Aberlestraße Antwort
+- TOP 4.3.6.: Eisenbahnüberführung Lindwurmstraße Erwiderung der DB AG
+- TOP 4.3.7.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 4.3.8.: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 4.3.9.: (U) Schulbauoffensive 2013-2030 Sachstandsbericht zu den Schul- und Kita-Bauprogrammen; Umsetzung der Haushaltssicherung A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Stadtratsbeschlüsse mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluierung des Bauunterhalts F Behandlung von Anträgen und Empfehlungen sowie einer Anfrage G Petition zur Grundschule an der Pfarrer-Grimm-Straße H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Umwandlung von Parkplätzen in Fahrradabstellplätzen Valleystraße
+- TOP 5.2.2.: Straßenfest der Sendlinger Kulturschmiede in der Daiserstraße am 30.07.2022
+- TOP 5.2.3.: Parklet in der Thalkirchner Straße, Ecke Kochelseestraße
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Fahrbahnsanierung in der Schmied-Kochel-Straße
+- TOP 5.3.2.: Fahrradständer in der Meindlstraße
+- TOP 5.3.3.: Verbindung Grünanlage – Rampe am Kidlerplatz
+- TOP 5.3.4.: Auf- und Abladeplatz in der Pfeuferstr 33 Antwort
+- TOP 5.3.5.: Bauarbeiten U3 und U6: Attraktive Alternativen anbieten
+- TOP 5.3.6.: Haltestelle Implerstraße, Bus 132 Richtung Forstenrieder Park
+- TOP 5.3.7.: Verkehrsaufsichtliche Erlaubnis Radlkofer Straße und weitere
+- TOP 5.3.8.: Einsatz von TOPO-Boxen als städtische Leistung
+- TOP 5.3.9.: Verkehrsrechtliche Anordnung Einrichtung einer zweiten Haltestelle in der Lagerhausstraße
+- TOP 5.3.10.: Verkehr im ehemaligen Philip-Morris-Gelände Antwort
+- TOP 5.3.11.: (U) Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kunst- und Kulturverein Kulturbox e.V. Konzertreihe Designliga vom 22. - 24.07.2022 5.000,00 Euro, Az.: 0262.0-6-0378
+- TOP 6.1.2.: (E) Stadtbezirksbudget BIKU e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball in Sendling vom 01.09. - 31.12.2022 2.320,00 Euro, Az.: 0262.0-6-0374
+- TOP 6.1.3.: (E) Stadtbezirksbudget MobilSpiel e.V. Kicklusion - Der Anstoss zum Miteinander am 11./12. und 18./19.07.2022 1.730,00 Euro, Az.: 0262.0-6-0381
+- TOP 6.1.4.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling Konzerte im Rahmen des Münchner-Orgelsommers vom 16.07. - 27.08.2022 1.500,00 Euro, Az.: 0262.0-6-0380
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiative Schöttlsommer Schöttlsommer 2022 vom 15.06. - 30.09.2022 1.600,00 Euro, Az.: 0262.0-6-0384
+- TOP 6.1.6.: (E) Stadtbezirksbudget Initiative "Prometheus Returns" Prometheus Returns - A god gone astray vom 08. - 14.08.2022 2.770,00 Euro, Az.: 0262.0-6-0385
+- TOP 6.1.7.: (E) Stadtbezirksbudget Initiative "Parklet" Parklet in der Thalkirchner Straße Ecke Kochelseestraße vom 04.06 - 29.10.2022 650,00€; Az. 0262.0-6-0379
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Anschaffung von Spielgeräten für den Kinderkreis Sendling e.V.
+- TOP 6.2.2.: Anhörungsrecht für den Bezirksausschuss bei Großveranstaltungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise
+- TOP 6.3.2.: Mädchen an den Ball! Antwort auf Anfrage des BA
+- TOP 6.3.3.: Änderung der Förderschulorganisation in der Landeshauptsadt München Anhörungsverfahren der Regierung von Oberbayern zur Kenntnisnahme
+- TOP 6.3.4.: Kinder- und Jugendforum Protokoll
+- TOP 6.3.5.: Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Bestellung einer Städtischen Leistung zur Finanzierung von Ferienpässen für Einrichtungen im Stadtbezirk Sendling [SPD+Die Grünen]
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Kinderkreis Sendling Sucher nach einer Turnhalle
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung La Tabie
+- TOP 8.3.2.: Anfrage zu Wasser- und Raumtemperaturen im Südbad
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Neubildung des Mobilitätsreferats, Aufspaltung des Referats für Gesundheit und Umwelt
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 6.1.8.: (E) Stadtbezirksbudget Evangelisches Hilfswerk gGmbH Sommerfest Teestube "komm" am 05.08.2022 149,89 Euro, Az.: 0262.0-6-0386
+- TOP 6.1.9.: (E) Stadtbezirksbudget vox nova e.V. Konzertreihe "Nordlichter" am 22./23.10.2022 1.500,00 Euro, Az.: 0262.0-6-0387
+- TOP 6.1.10.: (E) Stadtbezirksbudget K.U.D. Soko e.V. München Kulturprojekt PianoSummer vom 22. - 24.07.2022 5.000,00 Euro, Az.: 0262.0-6-0382
