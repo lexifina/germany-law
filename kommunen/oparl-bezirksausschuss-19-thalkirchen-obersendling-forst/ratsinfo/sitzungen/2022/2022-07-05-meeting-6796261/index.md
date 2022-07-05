@@ -1,0 +1,68 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-07-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796261
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796261
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 31.05.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (Antrag) Ergebnisse Workshop Forstenried
+- TOP 2.4.: (A) Satzungsänderung: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz
+- TOP 2.5.: Stadtentwicklungsplan 2040 – Beteiligung der Bezirksausschüsse – Verfahren
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Initiative "Filmsalon" Filmsalon im Bootshaus vom 01.08. bis 31.12.2022 375,00 €; Az. 0262.0-19-0416
+- TOP 3.3.: (Antrag) Finanzierung von Kinderstadtteilplänen - Solln
+- TOP 3.4.: (E) Stadtbezirksbudget Verein „Muckis im Herzen“ Präventionsprojekt „Muckis im Herzen“ vom 15.09.2022 – 25.07.2023 19.536,00 € / Az. 0262.0-19-0418
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Hinweise auf nächstliegende Wertstoffinseln
+- TOP 4.4.: (A) Einrichtung einer Wertstoffinsel Höhe Schaffhauser Str. 8
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Verlegung der Bushaltestelle Josephinenstraße (Buslinie 135)
+- TOP 5.2.: (Antrag) Verkehrssicherheit Kistlerhofstraße
+- TOP 5.3.: (E) Sondernutzungserlaubnis: Umwandlung Corona-Freischankfläche Schäftlarnstraße
+- TOP 5.4.: (U) Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mit Radarsystem (TOPO-Boxen)
+- TOP 5.5.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19 Thalkirchen – Obersendling – Forstenried – Fürstenried - Solln Widmungserweiterung einer Teilstrecke des Begasweges
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Gefahrenbeschilderung Radverkehr Knotestraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 5.7.: Verkehr im Viertel Am Südpark
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Winsauerstraße 7
+- TOP 6.2.2: Seeshaupter Straße 4
+- TOP 6.2.3: Hanfelder Straße 33
+- TOP 6.2.4: Isarwinkel 4
+- TOP 6.2.5: Baierbrunner Straße 54 (T)
+- TOP 6.3.: (A) Beschlussentwurf: Bebauungsplan mit Grünordnung Am Isarkanal (westlich), Tierparkstraße (nördlich), Schäftlarnstraße (östlich) (Änderung des Bebauungsplanes Nr. 756); Sitzungsvorlage Nr. 20-26 / V 05997
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Dirtbike-Anlage an der Herterichstraße sanieren
+- TOP 7.1.2: Mobiler Container für Jugendliche im Hermann-von-Siemens-Sportpark
+- TOP 7.2.: (A) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren; Sitzungsvorlage Nr. 20-26 / V 06175
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Isarschwimmen an der Floßlände am 17.09.2022
+- TOP 8.3.: (U) Gaststättenfortführung: Waakirchner Straße
+- TOP 8.4.: (A) Satzungsänderung: Anhörungsrecht für Bezirksausschüsse bei Großveranstaltungen
+- TOP 8.5.: (A) Veranstaltung: Grünanlage Herterichstraße / Oliverstraße, "Gottesdienst unter freiem Himmel" am 07.08.2022
+- TOP 9: Verschiedenes
+- TOP 8.6.: (U) Gaststättenfortführung: Drygalski-Allee 118
+- TOP 3.5.: (E) Maibaumverein Solln e.V.: Aufstellen des neuen Maibaums: Ergänzungsantrag
