@@ -935,10 +935,11 @@ von Leistungsdaten, Datentransparenz
 - [§ 360 Elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen](0360.md)
 - [§ 361 Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur](0361.md)
 
-#### Siebter Titel Nutzung der Telematikinfrastruktur durch weitere Kostenträger
+#### Siebter Titel Nutzung der Telematikinfrastruktur durch weitere Kostenträger und durch das Zentrale Vorsorgeregister
 
 - [§ 362 Nutzung von elektronischen Gesundheitskarten oder digitalen Identitäten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte der Bundespolizei oder für Soldaten der Bundeswehr](0362.md)
 - [§ 362a Nutzung der elektronischen Gesundheitskarte bei Krankenbehandlung der Sozialen Entschädigung nach dem Vierzehnten Buch](0362a.md)
+- [§ 362b Nutzung der Telematikinfrastruktur durch das Zentrale Vorsorgeregister](0362b.md)
 
 #### Achter Titel Verfügbarkeit von Daten aus Anwendungen der Telematikinfrastruktur für Forschungszwecke
 
