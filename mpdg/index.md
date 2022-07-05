@@ -177,7 +177,9 @@
 ## Kapitel 10 Übergangsbestimmungen
 
 - [§ 96 Übergangsvorschrift aus Anlass von Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745](0096.md)
+- [§ 96a Übergangsvorschrift aus Anlass von Artikel 113 Absatz 3 Buchstabe a der Verordnung (EU) 2017/746](0096a.md)
 - [§ 97 Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745](0097.md)
+- [§ 97a Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 30 der Verordnung (EU) 2017/746](0097a.md)
 - [§ 98 Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte](0098.md)
 - [§ 99 Sonstige Übergangsregelungen für Medizinprodukte und deren Zubehör](0099.md)
 - [§ 100 Sonstige Übergangsregelungen für In-vitro-Diagnostika und deren Zubehör](0100.md)

@@ -173,7 +173,9 @@ Straf- und Bußgeldvorschriften
 Kapitel 10
 Übergangsbestimmungen
 | § 96 | Übergangsvorschrift aus Anlass von Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745 |
+| § 96a | Übergangsvorschrift aus Anlass von Artikel 113 Absatz 3 Buchstabe a der Verordnung (EU) 2017/746 |
 | § 97 | Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745 |
+| § 97a | Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 30 der Verordnung (EU) 2017/746 |
 | § 98 | Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte |
 | § 99 | Sonstige Übergangsregelungen für Medizinprodukte und deren Zubehör |
 | § 100 | Sonstige Übergangsregelungen für In-vitro-Diagnostika und deren Zubehör |
