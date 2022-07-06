@@ -1286,20 +1286,19 @@ Vollstreckung von Schiedssprüchen
 ## Buch 11 Justizielle Zusammenarbeit in der Europäischen Union
 
 
-### Abschnitt 1 Zustellung nach der Verordnung (EG) Nr. 1393/2007
+### Abschnitt 1 Zustellung nach der Verordnung (EU) 2020/1784
 
-- [§ 1067 Zustellung durch diplomatische oder konsularische Vertretungen](1067.md)
-- [§ 1068 Zustellung durch die Post](1068.md)
-- [§ 1069 Zuständigkeiten; Verordnungsermächtigungen](1069.md)
-- [§ 1070 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen](1070.md)
-- [§ 1071 (weggefallen)](1071.md)
+- [§ 1067 Zustellung durch Auslandsvertretungen](1067.md)
+- [§ 1068 Elektronische Zustellung](1068.md)
+- [§ 1069 Zuständigkeiten nach der Verordnung (EU) 2020/1784; Verordnungsermächtigungen](1069.md)
+- [§ 1070 Sprache eingehender Anträge, Bescheinigungen und Mitteilungen](1070.md)
+- [§ 1071 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen](1071.md)
 
-### Abschnitt 2 Beweisaufnahme nach der Verordnung
-(EG) Nr. 1206/2001
+### Abschnitt 2 Beweisaufnahme nach der Verordnung (EU) 2020/1783
 
 - [§ 1072 Beweisaufnahme in den Mitgliedstaaten der Europäischen Union](1072.md)
 - [§ 1073 Teilnahmerechte](1073.md)
-- [§ 1074 Zuständigkeiten nach der Verordnung (EG) Nr. 1206/2001](1074.md)
+- [§ 1074 Zuständigkeiten nach der Verordnung (EU) 2020/1783; Verordnungsermächtigung](1074.md)
 - [§ 1075 Sprache eingehender Ersuchen](1075.md)
 
 ### Abschnitt 3 Prozesskostenhilfe nach der Richtlinie

@@ -1260,18 +1260,18 @@
 | Justizielle Zusammenarbeit in der Europäischen Union |
 |  |
 | Abschnitt 1 |
-| Zustellung nach der Verordnung (EG) Nr. 1393/2007 |
-| § 1067 | Zustellung durch diplomatische oder konsularische Vertretungen |
-| § 1068 | Zustellung durch die Post |
-| § 1069 | Zuständigkeiten; Verordnungsermächtigungen |
-| § 1070 | Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen |
-| § 1071 | (weggefallen) |
+| Zustellung nach der Verordnung (EU) 2020/1784 |
+| § 1067 | Zustellung durch Auslandsvertretungen |
+| § 1068 | Elektronische Zustellung |
+| § 1069 | Zuständigkeiten nach der Verordnung (EU) 2020/1784; Verordnungsermächtigungen |
+| § 1070 | Sprache eingehender Anträge, Bescheinigungen und Mitteilungen |
+| § 1071 | Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen |
 |  |
 | Abschnitt 2 |
-| Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001 |
+| Beweisaufnahme nach der Verordnung (EU) 2020/1783 |
 | § 1072 | Beweisaufnahme in den Mitgliedstaaten der Europäischen Union |
 | § 1073 | Teilnahmerechte |
-| § 1074 | Zuständigkeiten nach der Verordnung (EG) Nr. 1206/2001 |
+| § 1074 | Zuständigkeiten nach der Verordnung (EU) 2020/1783; Verordnungsermächtigung |
 | § 1075 | Sprache eingehender Ersuchen |
 |  |
 | Abschnitt 3 |
