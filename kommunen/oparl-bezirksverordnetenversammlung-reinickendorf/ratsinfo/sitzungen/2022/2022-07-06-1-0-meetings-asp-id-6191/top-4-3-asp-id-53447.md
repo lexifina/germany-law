@@ -1,0 +1,8 @@
+# TOP 4.3: Projekt "Kunst-Bauwagen"
+
+- Sitzung: 10. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf (2022-07-06)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=53447
+- Ergebnis: in der BVV zurückgezogen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=53447
