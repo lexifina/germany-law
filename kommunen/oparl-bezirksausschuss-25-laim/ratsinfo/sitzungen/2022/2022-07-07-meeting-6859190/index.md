@@ -1,0 +1,81 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-07-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6859190
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6859190
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Agricolastraße
+- TOP 1.2.2.: Wandlung Pkw-Stellplatz Ludwig-Richter-Str. 17
+- TOP 2: Anträge
+- TOP 2.1.: Radwegsituation in der Elsenheimerstraße klar und verkehrssicher gestalten
+- TOP 2.2.: Pläne für das Areal der Fürstenrieder Schule und Einplanung des zweiten ASZ
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.05.22: STEP 2040
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 24.05.22: Abfrage des Stadtteilzentrums im jeweiligen Stadtbezirk
+- TOP 4.4.: Schreiben Referat für Bildung und Sport vom 14.06.22: Entwurf Beschlussvorlage Fortschreibung der Münchner Schulentwicklungsplanung Grundschulen, Mittelschulen und Förderzentren
+- TOP 4.5.: Schreiben Direktorium vom 09.06.22: Neubildung des Mobilitätsreferates und Aufspaltung des Referates für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz
+- TOP 4.6.: Schreiben Direktorium vom 01.06.22: Anhörungsrecht für den Bezirksausschuss bei Großveranstaltungen
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Berchemstr. 91, Gemarkung: Laim, Fl.Nr.: 370/17 Neubau eines Mehrfamilienhauses (3WE) mit Tiefgarage/TEKTUR
+- TOP 5.2.: Reutterstr. 61, Fl.Nr.: 214/0 Erweiterung und Umbau eines Mehrfamilienhauses
+- TOP 5.3.: Reutterstr. 61, Fl.Nr.: 214/0 Neubau eines Dreifamilienhauses mit Dreifach-Parker
+- TOP 5.4.: Baudererstr. 20, Gemarkung Paing, Fl.Nr.: 1575/165 Abbruch des Bestands bis zum Keller, Neubau eines Hauses in Holzbauweise sowie eines Anbaus, der Kellerboden wird vertieft
+- TOP 5.5.: Agnes-Bernauer-Str. 101, Gemarkung: Laim, Fl.Nr.: 2/14 Erweiterung eines denkmalgeschützten Gebäudes - Vorbescheid
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 02.06.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 20.05.22: Informationsschreiben 02/2022, Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen
+- TOP 8.2.: Schreiben Direktorium vom 23.05.22: Antwort an Bürger bzgl. Anfrage Stadtbezirksbudget
+- TOP 8.3.: Schreiben Referat für Arbeit und Wirtschaft vom 30.05.22: Schließung EDEKA Express-Filiale Agnes-Bernauer-Str. 51
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.05.22: Fällungsantrag Joergstr. 35 und 39
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.05.22: Fällungsantrag Gutzkowstr. 1
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.05.22: Fällungsantrag Högerstr. 4-4a
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.05.22: Fällungsantrag Agricolastr. 99d
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.05.22: Fällungsantrag Aindorferstr. 57
+- TOP 8.9.: Bautenliste 09.05.-15.05.22: A) Erstantragsverfahren 1. Rechpacherstr. 46 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Berchemstr. 91
+- TOP 8.10.: Bautenliste 16.05.-22.05.22: A) Erstantragsverfahren 1. Flantinstr. 13 2. Högerstr. 2 3. Gotthardstr. 118
+- TOP 8.11.: Bautenliste 23.05.-29.05.22: A) Erstantragsverfahren 1. Inderstorferstr. 78 2. Elsenheimerstr. 6
+- TOP 8.12.: Bautenliste 06.06.-12.06.22: A) Erstantragsverfahren 1. Viebigpl. 8 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Friedenheimer Str. 104 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Baudererstr. 20
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.05.22: Fällung Rushaimerstr. 11
+- TOP 8.14.: Schreiben Referat für Bildung und Sport vom 17.05.22: Dienststellenverständigung Sporthalle GS Von-der-Pfordten-Str. 80
+- TOP 8.15.: Schreiben Referat für Bildung und Sport vom 02.06.22: Dienststellenverständigung Haus für Kinder Hans-Thonauer-Str. 10
+- TOP 8.16.: Schreiben Elternbeirat GS Schrobenhausener Straße vom 20.05.22: Protokoll Videotermin vom 19.11.21
+- TOP 8.17.: Schreiben BA 7 Sendling-Westpark vom 07.06.22: Bildungscampus am Westpark
+- TOP 8.18.: Schreiben Polizeiinspektion 41 vom 18.05.22: U-Bahn-Baustelle und Schulweg der Grundschüler Von-der-Pfordten-Schule
+- TOP 8.19.: Schreiben Kreisverwaltungsreferat vom 19.05.22: Spielfest Regsam auf dem Hogenbergplatz am 22.07.22 Hier: Eilentscheidung
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 09.06.22: Information zur Auswirkung der beschlossenen Sparmaßnahmen Keine Maßnahmen zu Lasten der Sicherheit der Bevölkerung im Münchner Westen
+- TOP 8.21.: Schreiben Kreisverwaltungsreferat vom 09.06.22: Olympia-Friedensfest am 10.07.22, Schrobenhausener Str. 1 Hier: Eilentscheidung, kein Einwand
+- TOP 8.22.: Schreiben Kreisverwaltungsreferat vom 23.05.22: Neuantrag Gaststätte Lussos Feinkost
+- TOP 8.23.: Schreiben Stadtkämmerei vom 07.06.22: Mehrjahresinvestitionsprogramm 2022-2026
+- TOP 8.24.: Schreiben Stadtkämmerei vom 08.06.22: Mehrjahresinvestitionsplan 2021-2025
+- TOP 8.25.: Schreiben Mobilitätsreferat vom 02.06.22: Einsatz von TOPO-Boxen als städtische Leistung für Bezirksausschüsse
+- TOP 8.26.: Schreiben Kommunalreferat vom 25.05.22: Fristverlängerung BA-Antrag Nr. 03469, Feuerwache Laim in der Landsberger Str. 332 zügig umsetzen
+- TOP 8.27.: Schreiben Baureferat vom 01.06.22: Hundetütenspender am Willibaldplatz
+- TOP 8.28.: Schreiben AWM vom 30.05.22: Wertstoffinsel München Laim
+- TOP 8.29.: Schreiben Sozialreferat vom 08.06.22: Zweckentfremdung von Wohnraum, Geyerspergerstr.
+- TOP 8.30.: Schreiben Sozialreferat vom 08.06.22: Münchner Stiftungsverwaltung - Zahlen, Daten , Fakten
+- TOP 8.31.: Schreiben MVG vom 21.06.22: Information über Schienenschleifarbeiten auf den Linien U2-Nord und U5-Nord
+- TOP 8.32.: Schreiben Münchner Kinder- und Jugendforum vom 20.05.22: Protokoll 75. Kinder- und Jugendforum
+- TOP 8.33.: Beschluss der Vollversammlung vom 18.05.22: (U) Sachstandsbericht zum Sportbauprogramm A. Erläuterung der Ausgangslage im Hinblick auf die Fortschreibung des Sportbauprogramms 1. Inhalt und Umfang des Sportbauprogramms 2. Berichtswesen zum Sportbauprogramm 3. Stadtratsbeschlüsse und gesetzliche Änderungen mit Auswirkungen auf die Bauprogramme seit dem letzten Bericht B. Fortschreibung Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten sowie zum 1., 2. und 3. Maßnahmenpaket 3. Finanzierung 4. Ausblick auf das 4. Maßnahmenpaket 5. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 6. Geschlechtergerechtigkeit im Sportstättenbau C. Fortschreibung des Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau 5. Geschlechtergerechtigkeit im Sportstättenbau D. Fortschreibung Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Projektliste 2022 2. Bericht zu den lfd. Projekten 3. Finanzierung 4. Anwendbarkeit des Leitfadens für inklusionsorientierten Sportstättenbau E. Beteiligungen und Anhörungen
+- TOP 8.34.: Beschluss des Verwaltungs- und Personalausschusses vom 01.06.22: (U) 75 Jahre Bezirksausschüsse – Festakt / Informationskampagne Darstellung der personellen Mehrbedarfe
+- TOP 8.35.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.36.: Beschluss des Mobilitätsausschusses vom 01.06.22: (U) Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 8.37.: Beschluss des Bildungsausschusses des Stadtrates vom 25.05.22: (U) Anhörungsverfahren zur Änderung der Förderschulorganisation in der Landeshauptstadt München; Sprengeländerung bzw. -errichtung der Förderzentren - Förderzentrum mit Schwerpunkt geistige Entwicklung an der Fehwiesenstraße - Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung an der Klenzestraße
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.38.: Edekafiliale Agnes-Bernauer-Straße, Dankschreiben Kenntnisnahme
+- TOP 9.39.: Schließung Edeka Agnes-Bernauer-Straße Kenntnisnahme und Information an Bürger über aktuellen Sachstand.
+- TOP 9.40.: Antrag zur Ertüchtigung vorhandener Fahrradstraßen in München Weiterleitung Mobilitätsreferat
+- TOP 9.41.: Glasfasererschließung für Laim-West Kenntnisnahme
+- TOP 1.2: Bürgerpost an den BA
