@@ -3,7 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gegenstand der Rechtsverordnung](0001.md)
 - [§ 2 Zusammenarbeit mit dem Nationalen Zugangspunkt; Erfüllungsgehilfe](0002.md)
-- [§ 3 Datenformate](0003.md)
+- [§ 3 Datenformate; Feststellung der tatsächlichen oder prognostizierten Auslastung im Linienverkehr](0003.md)
 - [§ 4 Allgemeine Anforderungen an die Datenbereitstellung zur Gewährleistung eines funktionsfähigen Datenabrufs](0004.md)
 - [§ 5 Datenweitergabe](0005.md)
 - [§ 6 Registrierung von Dritten](0006.md)

@@ -39,6 +39,7 @@
 | § 20 | Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe |
 | § 20a | Immunitätsnachweis gegen COVID-19 |
 | § 20b | Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 |
+| § 20c | Durchführung von Grippeschutzimpfungen |
 | § 21 | Impfstoffe |
 | § 22 | Impf-, Genesenen- und Testdokumentation |
 | § 22a | Impf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung |

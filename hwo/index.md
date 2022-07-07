@@ -273,6 +273,4 @@ zulassungspflichtigen Handwerk
 - [Anlage C zu dem Gesetz zur Ordnung des Handwerks
 (Handwerksordnung)](anlage-c.md)
 - [Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes, in der Lehrlingsrolle sowie im Sachverständigenwesen](anlage-d.md)
-- [Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
-
-(BGBl. II 1990, 889, 998)](anhang-ev.md)
+- [Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III(BGBl. II 1990, 889, 998)](anhang-ev.md)

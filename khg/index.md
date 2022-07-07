@@ -54,6 +54,7 @@
 - [§ 26b Kostentragung für durch den Bund beschaffte Arzneimittel mit dem Wirkstoff Remdesivir](0026b.md)
 - [§ 26c Kostenerstattung für durch den Bund beschaffte Produkte](0026c.md)
 - [§ 26d Erweiterte Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie](0026d.md)
+- [§ 26e Erneute Sonderleistung an Pflegefachkräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie](0026e.md)
 
 ## 5. Abschnitt Sonstige Vorschriften
 
