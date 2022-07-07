@@ -1,0 +1,107 @@
+# 9. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-07-07T16:30:00+02:00
+- Ende: 2022-07-07T21:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6308
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6308
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=382779
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - im Ausschuss abgelehnt
+- TOP 6.1: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten im Ausschuss für Arbeit, Soziales, Gesundheit, Teilhabe und Inklusion - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-07 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1: Zwischenberichte - im Ausschuss abgelehnt
+- TOP 8.1.1: Hinweisschild Ortsteil Adlershof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Wintersicherung Bärenquell - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Radweg Köpenicker Landstraße instand setzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Entgeltfreies WLAN in öffentlichen Einrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Pilotprojekt "Bürohunde" auch im Bezirksamt Treptow-Köpenick durchführen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.6: Einkaufsmöglichkeit im Allende 1 aufrechterhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Parksituation in der Straße "Am Falkenberg" verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Dialog-Displays vorrangig vor Schulen und Kindertagesstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Linksabbiegen in die Bahnhofstraße wieder aus zwei Spuren ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Stau Wendenschloßstraße / Müggelheimer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Kurzzeitparkplätze vor dem Friedhof in Bohnsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Lärmschutzwand am Hafen Britz Ost - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Badestelle im Spreepark - überwiesen
+- TOP 8.2.8: Endlich geltendes Recht umsetzen – Baustellenumleitungen /-hinweise für Radfahrende im Bezirk schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Kein Parken vor Straßenbäumen in der Coloniaallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.10: Clean-up-Aktionen für den Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Sondermittel für die "Kulturelle Arbeitsgemeinschaft Oberschöneweide (KAOS) e. V." (SM 22-09) - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Nach Inkrafttreten der Streichung von § 219a StGB Informationen über Schwangerschaftsabbrüche bereitstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Sondermittel für den Verein "Kommunale Ökumene Treptow-Köpenick e. V." (SM 22-12) - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Sondermittel für den Förderverein "KIEZ KLUB Johannisthal e. V." (SM 22-03) - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sondermittel für den Verein "Bürgerinitiative FRI" (SM 22-14) - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Sondermittel für den Förderverein "KIEZKLUB Bohnsdorf e. V." (SM 22-15) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Umfeldverträglicher Weiterbau des 17. Abschnitts der Autobahn A 100 - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Errichtung eines Fuß- und Radweges entlang des Königsheideweges - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Querungshilfe Müggelheimer Damm auf der Höhe von ALDI / NORMA in Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sicherheit und Regeln in Alt-Treptow – alle müssen an einen Tisch - mit Änderungen in der BVV beschlossen
+- TOP 11.6: Verkehrssicherheit in der Wilhelminenhofstraße (Höhe Rathenauhallen) in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: WLAN in Sporthallen - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Partizipative Verfahren beim Radverkehr etablieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Verkehrssicherheit am Ortseingang Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Jugendoffiziere der Bundeswehr in die Schulen in Treptow-Köpenick einbinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Entwurf der Schulentwicklungsplanung für die Jahre 2022 bis 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Radfahrverbot in Grün- und Erholungsanlagen kenntlich machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Geh- und Radweg an der Salvador-Allende-Straße 89-91 instand setzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Änderung der Integrierten Sportentwicklungsplanung für den Bezirk Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Renaturierung LSG Neue Wiesen - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: 10-Minutentakt der Tram-Linie 68 ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Galeriestandort Johannisthal erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Schul- und Sportstättensanierungsprogramm transparent entscheiden - ohne Änderungen in der BVV beschlossen
+- TOP 11.19: Sanierung der Feierhalle auf dem Friedhof Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Kostenfreie Menstruationsartikel in Treptow-Köpenick zur Verfügung stellen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Bebauungsplan 9-7 ("Spreepark"), Ortsteil Plänterwald, hier: Ergebnis der Abwägung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange - überwiesen
+- TOP 12.3: Bund-Länder-Förderprogramm "Sozialer Zusammenhalt" – Beschluss zum Integrierten Handlungs- und Entwicklungskonzept (IHEK) 2022 für die Förderkulisse Kosmosviertel im Bezirk Treptow-Köpenick - überwiesen
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Beteiligung an der Entwicklung des ehemaligen Güterbahnhofs Köpenick ermöglichen und transparenter gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Planung zur grundhaften Instandsetzung der Salvador-Allende-Straße zwischen Wendenschloßstraße und Pablo-Neruda-Straße zeitnah aufnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Brückenschlag des Mauerweges am Heidekampgraben über den Britzer Verbindungskanal - überwiesen
+- TOP 13.4: Herrichtung eines asphaltierten Weges für Fußgänger und Radverkehr am Weg am Kleingarten - überwiesen
+- TOP 13.5: Bauern-Wochenmärkte in Treptow-Köpenick - überwiesen
+- TOP 13.6: Fläche vom "Blütenmosaik" im Landschaftspark Johannisthal sinnvoller nutzen - überwiesen
+- TOP 13.7: Baumschule Späth - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Queeres Jugendangebot - überwiesen
+- TOP 13.9: Busparkplatz für den Modellpark - überwiesen
+- TOP 13.10: Mehr Erholungsräume und Treffpunkte im Stadtraum durch Parklets - überwiesen
+- TOP 13.11: Tempo-30-Bereich auf der Treskowallee deutlicher kenntlich machen - überwiesen
+- TOP 13.12: Soziale und verkehrliche Infrastruktur in Plänterwald verbessern - überwiesen
+- TOP 13.13: Sicherstellung des Marktbetriebs am S-Bahn- und zukünftigen Regionalbahnhof Köpenick - überwiesen
+- TOP 13.14: Bezahlbares Kitaessen in der Krise sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.15: Resolution - Volksentscheid "Deutsche Wohnen & Co enteignen" respektieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.16: Auszubildende und Berufseinsteiger /-innen als Pioniere für nachhaltige Entwicklung ausbilden - überwiesen
+- TOP 13.17: Sondergenehmigungen für erweiterte Schankvorgärten für die Gastronomie verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 13.18: Einrichtung einer Fußgängerampel an der Kreuzung Michael-Brückner-Straße Ecke Britzer Straße / Fennstraße - überwiesen
+- TOP 13.19: Bau einer Radverkehrsanlage in der Rummelsburger Landstraße - überwiesen
+- TOP 13.20: Affenpocken-Impfung im öffentlichen Gesundheitsdienst ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 13.21: Rekommunalisierung des Pfortendienstes und der Gebäudereinigung - überwiesen
+- TOP 13.22: Schulwegsicherheit endlich grundlegend und ganzheitlich verbessern - überwiesen
+- TOP 13.23: Herrichtung eines Weges für Fußgänger und Radverkehr zur Unterquerung der Stelling-Janitzky-Brücke - überwiesen
+- TOP 13.24: Kiezkassen angemessen bewerben - überwiesen
+- TOP 13.25: Kostenlose Toiletten für alle - überwiesen
+- TOP 13.26: Sportanlagen wirklich inklusiv bauen - überwiesen
+- TOP 13.27: Gefährliche Ampelschaltung - überwiesen
+- TOP 13.28: Weiterbildungsangebote zur Sicherung der pädagogischen Aufsicht schaffen - überwiesen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Wieviel Verdichtung verträgt Altglienicke? - vertagt
