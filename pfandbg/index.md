@@ -7,6 +7,7 @@
 - [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 2 Erlaubnis](0002.md)
 - [§ 3 Aufsicht; Auskunfts- und Vorlageverlangen](0003.md)
+- [§ 3a Zusammenarbeit mit Stellen im Europäischen Wirtschaftsraum](0003a.md)
 
 ## Abschnitt 2 Allgemeine Vorschriften über die
 Pfandbriefemission
@@ -84,10 +85,12 @@ Pfandbriefgeschäft
 - [§ 38 Strafvorschriften](0038.md)
 - [§ 39 Bußgeldvorschriften](0039.md)
 - [§ 40 Verwaltungsbehörde](0040.md)
+- [§ 40a Bekanntmachung von Maßnahmen und Mitteilungen in Strafsachen](0040a.md)
 
 ## Abschnitt 7 Schlussvorschriften
 
-- [§ 41 Bezeichnungsschutz](0041.md)
+- [§ 41 Bezeichnungsschutz Pfandbrief](0041.md)
+- [§ 41a Bezeichnungsschutz Europäische gedeckte Schuldverschreibung](0041a.md)
 - [§ 42 Erlaubnis für bestehende Pfandbriefbanken](0042.md)
 - [§ 43 Erlaubnis für Hypothekenbanken](0043.md)
 - [§ 44 (weggefallen)](0044.md)
@@ -102,3 +105,4 @@ Pfandbriefgeschäft
 Schiffsbankgesetzes](0052.md)
 - [§ 53 Übergangsvorschrift zum CRD IV-Umsetzungsgesetz](0053.md)
 - [§ 54 Übergangsvorschrift zum BRRD-Umsetzungsgesetz](0054.md)
+- [§ 55 Übergangsvorschrift zum CBD-Umsetzungsgesetz](0055.md)

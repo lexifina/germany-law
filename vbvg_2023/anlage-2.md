@@ -1,3 +1,0 @@
-# Anlage (zukünftig in Kraft)
-
-

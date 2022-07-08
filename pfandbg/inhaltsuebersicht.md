@@ -5,6 +5,7 @@
 | § 1 | Begriffsbestimmungen |
 | § 2 | Erlaubnis |
 | § 3 | Aufsicht; Auskunfts- und Vorlageverlangen |
+| § 3a | Zusammenarbeit mit Stellen im Europäischen Wirtschaftsraum |
 | Abschnitt 2 |
 |  | Allgemeine Vorschriften über die Pfandbriefemission |
 | § 4 | Deckungskongruenz; Anordnung erhöhter Mindestdeckungsanforderungen |
@@ -73,7 +74,9 @@
 | § 40 | Verwaltungsbehörde |
 | Abschnitt 7 |
 |  | Schlussvorschriften |
-| § 41 | Bezeichnungsschutz |
+| § 40a | Bekanntmachung von Maßnahmen und Mitteilungen in Strafsachen |
+| § 41 | Bezeichnungsschutz Pfandbrief |
+| § 41a | Bezeichnungsschutz Europäische gedeckte Schuldverschreibung |
 | § 42 | Erlaubnis für bestehende Pfandbriefbanken |
 | § 43 | Erlaubnis für Hypothekenbanken |
 | § 44 | (weggefallen) |
@@ -87,3 +90,4 @@
 | § 52 | Fortgeltende Bestimmungen des Gesetzes zur Änderung und Ergänzung des Schiffsbankgesetzes |
 | § 53 | Übergangsvorschrift zum CRD IV-Umsetzungsgesetz |
 | § 54 | Übergangsvorschrift zum BRRD-Umsetzungsgesetz |
+| § 55 | Übergangsvorschrift zum CBD-Umsetzungsgesetz |

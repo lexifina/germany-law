@@ -1,55 +1,32 @@
 # Inhaltsübersicht
 
 Abschnitt 1
-Betreuungsbehörde
+(zukünftig in Kraft)
 Titel 1
-Allgemeine Vorschriften
-| § 1 | Sachliche Zuständigkeit und Durchführung überörtlicher Aufgaben |
-| § 2 | Örtliche Zuständigkeit |
-| § 3 | Fachkräfte |
-| § 4 | Verarbeitung personenbezogener Daten durch die Behörde |
+(zukünftig in Kraft)
+| §§ 1 bis 4 | (zukünftig in Kraft) |
 Titel 2
-Aufgaben der örtlichen Behörde
-| § 5 | Informations- und Beratungspflichten |
-| § 6 | Förderungsaufgaben |
-| § 7 | Öffentliche Beglaubigung; Verordnungsermächtigung |
-| § 8 | Beratungs- und Unterstützungsangebot, Vermittlung geeigneter Hilfen und erweiterte Unterstützung |
-| § 9 | Mitteilungen an das Betreuungsgericht und die Stammbehörde |
-| § 10 | Mitteilung an Betreuungsvereine |
-| § 11 | Aufgaben im gerichtlichen Verfahren |
-| § 12 | Betreuervorschlag |
-| § 13 | Weitere Aufgaben |
+(zukünftig in Kraft)
+| §§ 5 bis 13 | (zukünftig in Kraft) |
 Abschnitt 2
-Anerkannte Betreuungsvereine
-| § 14 | Anerkennung |
-| § 15 | Aufgaben kraft Gesetzes |
-| § 16 | Aufgaben kraft gerichtlicher Bestellung |
-| § 17 | Finanzielle Ausstattung |
-| § 18 | Verarbeitung personenbezogener Daten durch den Verein |
+(zukünftig in Kraft)
+| §§ 14 bis 18 | (zukünftig in Kraft) |
 Abschnitt 3
-Rechtliche Betreuer
+(zukünftig in Kraft)
 Titel 1
-Allgemeine Vorschriften
-| § 19 | Begriffsbestimmung |
-| § 20 | Verarbeitung personenbezogener Daten durch den Betreuer |
+(zukünftig in Kraft)
+| §§ 19 u. 20 | (zukünftig in Kraft) |
 Titel 2
-Ehrenamtliche Betreuer
-| § 21 | Voraussetzung für eine ehrenamtliche Tätigkeit |
-| § 22 | Abschluss einer Vereinbarung über Begleitung und Unterstützung |
+(zukünftig in Kraft)
+| §§ 21 u. 22 | (zukünftig in Kraft) |
 Titel 3
-Berufliche Betreuer
+(zukünftig in Kraft)
 | § 23 | Registrierungsvoraussetzungen; Verordnungsermächtigung |
 | § 24 | Registrierungsverfahren; Verordnungsermächtigung |
-| § 25 | Mitteilungs- und Nachweispflichten beruflicher Betreuer |
-| § 26 | Umgang mit den für die Registrierung relevanten Daten |
-| § 27 | Widerruf, Rücknahme und Löschung der Registrierung |
-| § 28 | Wechsel des Sitzes oder Wohnsitzes |
-| § 29 | Fortbildung |
-| § 30 | Leistungen an berufliche Betreuer |
+| §§ 25 bis 30 | (zukünftig in Kraft) |
 Abschnitt 4
-Offenbarungsbefugnisse
-für Geheimnisträger
-| § 31 | Beratung und Übermittlung von Informationen durch Geheimnisträger bei Gefährdung von Betreuten |
+(zukünftig in Kraft)
+| § 31 | (zukünftig in Kraft) |
 Abschnitt 5
-Übergangsvorschriften
-| § 32 | Registrierung von bereits tätigen beruflichen Betreuern; vorläufige Registrierung |
+(zukünftig in Kraft)
+| § 32 | (zukünftig in Kraft) |
