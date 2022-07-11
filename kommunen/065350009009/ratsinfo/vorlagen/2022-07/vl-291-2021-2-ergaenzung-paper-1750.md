@@ -1,0 +1,24 @@
+# Antrag der Fraktion Bürgerforum auf Neufassung der Entschädigungssatzung der Stadt Homberg (Ohm)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-291/2021 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-07-11
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZZcetWYeIv6cZ6Ri4QTMrMM
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/1750
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag der Fraktion Bürgerforum auf Neufassung der Entschädigungssatzung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXdezjbXlFIUN8B6TIAnfRKPj4sOMeTjcVp4CiBLfFrs/Beschlussvorlage_VL-291-2021_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag Neufassung der Entschädigungssatzung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU6wJRDomEg8Q2Pzxjp_yrXYU91-3jSvu3dB5wNdq4Sb/Antrag_Neufassung_der_Entschaedigungssatzung_der_Stadt_Homberg_-Ohm-.pdf
+- Anlage: Beschlussvorlage (Entschädigungssatzung Homberg) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaL1mP7cSaknpTxeDtvhY2CHwGieuEaTN-4wQ0wF3GVR/Entschaedigungssatzung_Homberg.pdf
+- Anlage: Beschlussvorlage (Muster HSGB) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTBI0bKNQg7LwqxtrVhG26Dcg31-8DZHoaYH7cStkK0V/Muster_HSGB.pdf
+- Anlage: Beschlussvorlage (Entschädigungssatzung Alsfeld) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcPO85cxaoROfj8BqfLIPQNZtujzH_k5KHS0ka3F453x/Entschaedigungssatzung_Alsfeld.pdf
+- Anlage: Beschlussvorlage (Entschädigungssatzung Gemünden) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRQnyEAzAfv4G4tjl_1xDXqxi-ppJSCdSu9B1sQe7suH/Entschaedigungssatzung_Gemuenden.pdf
+- Anlage: Beschlussvorlage (Entschädigungssatzung Kirtorf) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVHQukFxTTJgy6hdcLOCmXqVHYOtVi29fRJZaaQst1dl/Entschaedigungssatzung_Kirtorf.pdf
+- Anlage: Beschlussvorlage (Entschädigungssatzung Lauterbach) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfn8jYVlaDbCFlyov57wmWOyiYNF3_Tbm9JqfNO8cYGa/Entschaedigungssatzung_Lauterbach.pdf
+- Anlage: Beschlussvorlage (Entschädigungssatzung Mücke) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWOoG7ixMhgssal6w2n7PAWsdY2AQPppDMspUf9e8wc0/Entschaedigungssatzung_Muecke.pdf
+- Anlage: Beschlussvorlage (Kommentarauszug zu § 27 HGO Praxis Kommunalverwaltung) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQff9ZbqS1F5Mzld_k3gzOwkXAmFFwlW7YwZFf3_rHY0/Kommentarauszug_zu_--_27_HGO_Praxis_Kommunalverwaltung.pdf
+- Anlage: Beschlussvorlage (Eildienst 12 aus 2019 hessenweite Umfrage) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWyUdIRlrXqoBGgg2V8k55PH7zTJWiT0SMLVTK8AE9Ul/Eildienst_12_aus_2019_hessenweite_Umfrage.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/842 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/843 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/888 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1010 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
