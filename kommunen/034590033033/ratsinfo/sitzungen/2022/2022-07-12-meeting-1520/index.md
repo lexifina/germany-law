@@ -1,0 +1,73 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2022-07-12T17:30:00+02:00
+- Ende: 2022-07-12T19:00:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQqmKU-BIcOmF5gNVz9eW7Q
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1520
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZev2llQWddoMRW0ZQAEtAqMhE5z6td4jSuNIkHVt2s4V/Bekanntmachung_Rat_12.07.2022.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXknAqJj1tYbSMQDWJbUz6DtM7vSqFoch44e9QekLYKb/Oeffentliches_Beschlussprotokoll_Rat_12.07.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 10.03.2022
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Einstellung und Berufung der Gleichstellungsbeauftragten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Informationsfreiheitssatzung der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.3: Fahrradleasing für die Mitarbeitenden der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.4: Beteiligung an der Windpark Belm-Haltern GmbH & Co. KG - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 4.5: Erhöhung der Kapitalrücklage der Gemeindewerke Wallenhorst GmbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.6: Antrag der CDU-Fraktion auf Ermittlung von öffentlichen Pflanzflächen für Bäume - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.7: Antrag der CDW/W-Fraktion auf Prüfung einer Tiny/Micro-Haus-Siedlung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.8: Antrag der CDW/W-Fraktion auf Bezuschussung von Ladeboxen (Wallboxen) in der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.9: Antrag der Fraktion Bündnis 90 / Die Grünen auf Sauberkeit auf Gehwegen und sonstigen öffentlichen Flächen der Gemeinde - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11: Antrag der Fraktion Bündnis 90 / Die Grünen auf Interessentenermittlung für die Aufbringung von Photovoltaik-Anlagen auf allen Gebäuden der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.12: Antrag der Fraktion Bündnis 90 / Die Grünen auf Photovoltaik-Freiflächenanlagen auf gemeindeeigenen Grundstücken - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.13: Antrag der FDP-Fraktion auf Neuausrichtung des Förderprogramms „Klimaschutzmaßnahmen“ der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Kindertagesstätten
+- TOP 5.1: Gründung eines Kirchengemeindeverbands Kindertagesstätten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Finanzierung Bundesfreiwilligendienst / Freiwilliges Soziales Jahr - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.3: Einrichtung einer vierten Kindergartengruppe im Johanneshaus für den Kindergarten St. Johannes - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Vereine und Bürgerengagement
+- TOP 6.1: Antrag des Bürgerbusvereins Wallenhorst-Wersen e.V. auf Erhöhung des Betriebskostenzuschusses für das Jahr 2022 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 7.1: Brandschutzbedarfsplan - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Verkehrsangelegenheiten
+- TOP 8.1: Antrag der CDU-Fraktion auf Verbesserung der Verkehrssicherheit auf der Straße ´Boerskamp´ zwischen Lechtingen und Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Sportangelegenheiten
+- TOP 9.1: Zuschuss für die Erneuerung des Daches des Tennisgebäudes auf der Tennisanlage Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: Zuschuss für den Neubau einer Tribünenanlage mit Geschäftsstelle und Imbissstand auf dem Sportgelände Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Zuschuss für den Neubau eines Kabinentraktes auf dem Sportgelände Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.4: Neufassung der Richtlinien zur Bezuschussung von Gebäudemaßnahmen und sonstiger Anlagen in den Sportzentren der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Straßenbau
+- TOP 10.1: Radweg Hollage und Halen: Planung des zweiten Bauabschnitts zwischen ´Dörnter Weg´ und Kreisverkehr ´Fürstenauer Weg´ - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 11.: Umwelt- und Energieangelegenheiten
+- TOP 11.1: Gewässerentwicklungsplan „Nette“ – Flächenerwerb im Zusammenhang mit Kompensationsmaßnahmen zur Verbesserung des ökologischen Zustands der Nette - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Nachrüstung von Folien zum Schutz vor Vogelschlag an Bushaltestellen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 12.1: Kriterien für die Vergabe des ehemaligen Spielplatzgrundstückes „Feuerbachstraße“ in Wallenhorst-Rulle - mehrheitlich mit 22 Ja-Stimme(n), 8 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 12.2: ISEK und VU im Ortskern von Hollage hier: Bericht über die vorgebrachten Stellungnahmen im Beteiligungsverfahren; Zustimmung zum Ergebnis der Vorbereitenden Untersuchungen (VU) gem. § 141 BauGB und zum Integrierten Städtebaulichen Entwicklungskonzept (ISEK) mit den Bestandteilen: Kosten-und Maßnahmenübersicht, Erneuerungskonzept und Vorschlag zur Abgrenzung des Sanierungsgebietes; Beauftragung der Anmeldung in die Städtebauförderung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.3: Benennung der Straßen in den Baugebieten „Zwischen Ziegeleistraße und Fiesteler Straße“ und „Westlich Stadtweg“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.4: Erbbaurechtsvertrag für den Neubau der Kindertagesstätte "St. Johannes" in Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.5: Antrag der CDU Fraktion auf Fortschreibung des Einzelhandelskonzeptes - mehrheitlich mit 22 Ja-Stimme(n), 8 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 13.: Kämmereiangelegenheiten
+- TOP 13.1: Konsolidierter Gesamtabschluss für das Haushaltsjahr 2019 - Prüfung des Gesamtabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des konsolidierten Gesamtabschlusses 2019 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.2: Genehmigungen der Annahmen von Zuwendungen (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.3: Genehmigung einer Zuwendung (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Anfragen und Anregungen
+- TOP 14.1: Zeitrahmen beim Gewässerentwicklungsplan "Nette"
+- TOP 14.2: Busverbindung von Rulle zum Hauptbahnhof Osnabrück
+- TOP 14.3: Verlauf des Radweges Hollage-Halen
+- TOP 14.4: Kreisverkehrsplatz Fürstenauer Weg/Pielagestraße/Maschweg
+- TOP 14.5: Behandlung von Anträgen der Fraktionen
+- TOP 14.6: Austausch eines Verkehrsschildes in Lechtingen
+- TOP 14.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8: Klage der FDP-Fraktion gegen das Ausschussbesetzungsverfahren im Rat
