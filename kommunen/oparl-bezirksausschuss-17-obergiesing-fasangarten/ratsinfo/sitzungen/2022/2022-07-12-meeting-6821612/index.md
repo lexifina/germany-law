@@ -1,0 +1,146 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2022-07-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6821612
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6821612
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1.: Vorstellung des Bauvorhabens eines neuen Hospiz in der Weinbauernstraße durch eine Vertreterin des Hospizvereins
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Entsiegelung des Ella-Lingens-Platzes, Bürgeranliegen (FF UA Arbeit + Wirtschaft)
+- TOP 2.1.2.2.: Antrag für Entsiegelung und Schatten am Ella-Lingens-Platz und den überbreiten Wegen rund um das Agfa-Gebiet, Bürgeranliegen (FF UA Arbeit + Wirtschaft)
+- TOP 2.1.2.3.: Antrag: Tegernseer Landstraße von einer Asphaltwüste in einen Lebensraum umwandeln; Bürgeranliegen (FF UA MuV) vertagt aus Plenumssitzung 06-22
+- TOP 2.1.2.4.: Antrag: Sperrung Giesinger Berg für den MIV; Bürgeranliegen (FF UA MuV) vertagt aus Plenumssitzung 06-22
+- TOP 2.1.2.5.: Radweg in Einbahnbereich der Cincinnatistraße ermöglichen, Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.6.: Querungsstelle Deisenhofener Straße Ecke Perlacher Straße, Poller zur Absicherung, Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.7.: Kindergarten Larifari e.V. sucht Räumlichkeiten, Bürgeranliegen (FF UA FSA)
+- TOP 2.1.2.8.: Sicht- und Lärmschutzvegetation Fasangartenstraße; Bürgeranliegen (FF UA Bau)
+- TOP 2.1.2.9.: Behinderung durch E-Scooter in der Weißenseestr. 1, Bürgeranliegen (FF UA MuV)
+- TOP 2.1.2.10.: Überprüfung der geplanten Baumneupflanzung im Bereich St.Martin-Straße/Zugspitzstraße, Bürgeranliegen (FF UA Umwelt + UA MuV)
+- TOP 2.1.2.11.: Kirschbäume im Bereich St.Martin-Straße/Zugspitzstraße (FF UA Umwelt)
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Baumschutz (Einzelfälle und Bauvorhaben)
+- TOP 3.1.1.: Martin-Luther-Str. - Erweiterung eines ehemaligen Verkaufscontainers und Überdachung mit Holzdeck im Außenbereich und Aufstellen eines WC-Bauwagen; Nutzungsänderung zu Gastronomie (Martin-Luther-Str. / Tegernseer Landstr.) - hier: Baumschutz -
+- TOP 3.1.2.: Fasangartenstr. 101
+- TOP 3.1.3.: Feuerbachstr. 19
+- TOP 3.1.4.: Tegernseer Landstr. 83, Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID (vertagt aus Sitzung 06-22) (hier: Baumschutz)
+- TOP 3.1.5.: Hermelinweg 3
+- TOP 3.1.6.: Chiemgaustr. 66 - 104, Fällgenehmigung - Unterrichtung -
+- TOP 3.1.7.: Scharfreiter Str. 2, Fällgenehmigung - Unterrichtung -
+- TOP 3.1.8.: Schwanseestr. 10 - Neubau eines Rückgebäudes, Dachaufstockung und Umbau der Vordegebäude mit Wohnungen und einem Studentenwohnheim sowie Errichtung einer Tiefgarage - hier: Baumschutz -
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget Kreislaufschränke München e.V. Giesinger Perle: Aufstellen von Kreislaufschränken ab Sommer/Herbst 2022 3.000,00€; Az. 0262.0-17-0346 (FF UA FSA)
+- TOP 5.1.2.: (E) Stadtbezirksbudget Initiative "Take over 2" Take over 2 von Juli - Oktober 2022 2.750,00€; Az. 0262.0-17-0347 (FF UA Kultur)
+- TOP 5.1.3.: (E) Stadtbezirksbudget Poesieboten e.V. Aller Welts Poesie am 7.7.2022 620,00€; Az. 0262.0-17-0348 (FF UA Kultur)
+- TOP 5.1.4.: (E) Stadtbezirksbudget Kooperative Grossstadt eG OpenQ-22 vom 08.07.-18.09.2022 6.000,00 € / Az. 0262.0-17-0349 (FF UA Kultur)
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.3.1.: Martin-Luther-Str. - Erweiterung eines ehemaligen Verkaufscontainers und Überdachung mit Holzdeck im Außenbereich und Aufstellen eines WC-Bauwagen; Nutzungsänderung zu Gastronomie (Martin-Luther-Str. / Tegernseer Landstr.)
+- TOP 6.1.3.2.: Tegernseer Landstr. 83 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 6.1.3.3.: Schwanseestr. 10 - Neubau eines Rückgebäudes, Dachaufstockung und Umbau der Vordegebäude mit Wohnungen und einem Studentenwohnheim sowie Errichtung einer Tiefgarage
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung, BA-Unterrichtung, Wohnraum: Rotwandstr. 12, 3. OG rechts
+- TOP 6.1.4.2.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 06.06.-12.06. und 13.06.-19.06.2022
+- TOP 6.1.4.3.: Städtischer Wohnungsbau im Rahmen des Kommunalen Wohnraumförderungsprogramms - Antwort Kommunalreferat -
+- TOP 6.1.4.4.: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 6.1.4.5.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 6.1.5: Anträge
+- TOP 6.1.6: Sonstiges
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.3.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren - Anhörung -
+- TOP 6.2.3.2.: Tanzaufführung im Rahmen des Sommerfestes der Grundschule Ichostr. am 8.7.22 von 15.00-15.30 Uhr (Ersatztermin 15.7.2022) und 7.7.22 um 8.30-9.30 Uhr (Generalprobe) - Anhörung durch das Kreisverwaltungsreferat, Frist 04.07.2022 -
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Änderung der Förderschulorganisation in der LHSt München; Sprengeländerung bzw. -errichtung von Förderzentren Beschluss des Bildungsausschusses des Stadtrats vom 25.05.2022, Sitzungsvorlagen Nr. 20-26 / V 06089
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) + (U) Synchronisierung Fußgänger- / Radfahrerampeln Werinherstraße / Plecherstraße Empfehlung Nr. 20-26 / E 00451 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am am 26.10.2021
+- TOP 6.3.2.2.: Barrierefreier Ausbau der Bushaltestelle Valeppstraße
+- TOP 6.3.2.3.: Standortgenehmigung für Parkscheinautomaten in den Lizenzgebieten - Giesing Bahnhof - Walchenseeplatz (Erweiterung)
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mit Radarsystem (TOPO-Boxen) - Unterrichtung durch das Mobilitätsreferat -
+- TOP 6.3.4.2.: Sicherheitsaspekt - S-Bahn Station St. Martins Platz
+- TOP 6.3.4.3.: Rückblick und Beantwortung der Chat-Fragen - Runder Tisch mit den E-Tretroller Anbietern vom 23.03.2022
+- TOP 6.3.4.4.: (U) Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Toilettenanlage am Walchenseeplatz
+- TOP 6.4.4.2.: Antwortschreiben BA-Antrag Nr. 20-26/ B 03575 "Einrichtung von Wochenmärkten in Giesing-Fasanengarten" (siehe auch UA lokale Wirtschaft)
+- TOP 6.4.4.3.: Nachpflanzung gefällter Bäume im 17. Stadtbezirk
+- TOP 6.4.5: Anträge
+- TOP 6.4.5.1.: mündlich gestellter Antrag aus Sitzung vom 14.06.2022: Der BA17 möge beschließen, dass auf das Mähen des Straßenbegleitgrün in diesem Jahr verzichtet wird. (vertagt in UA Umwelt)
+- TOP 6.4.6: Sonstiges
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: OPEN - Q Auftakt Veranstaltung vom 08.07.-10.07.2022 am St- Quirin Platz - Anhörung durch das Kreisverwaltungsreferat, Frist 30.06.2022 -
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Toilette im Zwischengeschoss der U-Bahn Giesinger Bahnhof betriebsfähig und der Öffentlichkeit zugänglich machen
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Einrichtung von Wochenmärkten in Giesing-Fasangarten
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Anhörungsrecht für den Bezirksausschuss bei Großveranstaltungen
+- TOP 7.2.2.: Neubildung des Mobilitätsreferats und Aufspaltung des Referats für Gesundheit und Umwelt in das Gesundheitsreferat sowie das Referat für Klima- und Umweltschutz
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: Nachträge: 6.2.3.3: Spielaktion am 02.08.22 im Weißenseespark
+- TOP 6.2.3.3.: Spielaktion am 02.08.22 im Weißenseespark - Anhörung durch das Kreisverwaltungsreferat; Frist: 22.07.2022 -
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
