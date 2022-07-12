@@ -1,0 +1,7 @@
+# TOP 6.: Aufhebung Sperrvermerk
+
+- Sitzung: Haupt - und Finanzausschuss (17. Sitzung) (2022-07-12)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/7191
+- Ergebnis: 1 Ja-Stimme(n), 7 Gegenstimme(n), 1 Stimmenthaltung(en)
