@@ -17,5 +17,4 @@ Härteausgleich nach dem Energiesicherungsgesetz
 - [§ 13 Rückzahlungsbescheid](0013.md)
 - [§ 14](0014.md)
 - [§ 15 Verjährung](0015.md)
-- [§ 16 Berlin-Klausel](0016.md)
-- [§ 17 Inkrafttreten](0017.md)
+- [§ 16 Inkrafttreten](0016.md)

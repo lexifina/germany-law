@@ -224,6 +224,16 @@
 | Sicherheit und Zuverlässigkeit der Energieversorgung |
 | § 49 | Anforderungen an Energieanlagen, Verordnungsermächtigung |
 | § 50 | Vorratshaltung zur Sicherung der Energieversorgung |
+| § 50a | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve; Verordnungsermächtigung |
+| § 50b | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Pflicht zur Betriebsbereitschaft und Brennstoffbevorratung für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve |
+| § 50c | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Ende der befristeten Teilnahme am Strommarkt und ergänzende Regelungen zur Kostenerstattung |
+| § 50d | (zukünftig in Kraft) |
+| § 50e | Verordnungsermächtigung zu Maßnahmen zur Ausweitung des Stromerzeugungsangebots und Festlegungskompetenz der Bundesnetzagentur |
+| § 50f | Verordnungsermächtigung für Maßnahmen zur Reduzierung der Gasverstromung zur reaktiven und befristeten Gaseinsparung |
+| § 50g | Flexibilisierung der Gasbelieferung |
+| § 50h | Vertragsanalyse der Gaslieferanten für Letztverbraucher |
+| § 50i | Verhältnis zum Energiesicherungsgesetz |
+| § 50j | Evaluierung der Maßnahmen nach den §§ 50a bis 50h |
 | § 51 | Monitoring der Versorgungssicherheit |
 | § 51a | Monitoring des Lastmanagements |
 | § 52 | Meldepflichten bei Versorgungsstörungen |
@@ -369,4 +379,5 @@
 | § 118b | (weggefallen) |
 | § 119 | Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“ |
 | § 120 | Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung |
+| § 121 | Außerkrafttreten der §§ 50a bis 50c und 50e bis 50j |
 | Anlage (zu § 13g) | Berechnung der Vergütung |

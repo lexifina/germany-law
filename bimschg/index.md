@@ -58,6 +58,13 @@
 - [§ 30 Kosten der Messungen und sicherheitstechnischen Prüfungen](0030.md)
 - [§ 31 Auskunftspflichten des Betreibers](0031.md)
 
+### Vierter Abschnitt Brennstoffwechsel bei einer Mangellage
+
+- [§ 31a Abweichungen nach Artikel 30 Absatz 5 der Richtlinie 2010/75/EU](0031a.md)
+- [§ 31b Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU](0031b.md)
+- [§ 31c Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193](0031c.md)
+- [§ 31d Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193](0031d.md)
+
 ## Dritter Teil Beschaffenheit von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen; Treibhausgasminderung bei Kraftstoffen
 
 
