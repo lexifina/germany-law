@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft über die Zuständigkeit für Ordnungswidrigkeiten nach dem Geologiedatengesetz (Geologiedaten-Ordnungswidrigkeiten-Zuständigkeitsverordnung – GeolOWiZuVO)
+Vom 24. Juni 2022
+Auf Grund des § 36 Absatz 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) in Verbindung mit § 16 Nummer 1 der Ordnungswidrigkeiten-Zuständigkeitsverordnung vom 16. Juni 2014 (SächsGVBl. S. 342) verordnet das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft:
