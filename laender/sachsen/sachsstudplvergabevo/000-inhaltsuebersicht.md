@@ -60,6 +60,3 @@ Anlage 1 Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium
 Anlage 2 Ermittlung der Durchschnittsnote
 Anlage 3 Ermittlung der Punktzahl der Hochschulzugangsberechtigung
 Anlage 4 Ermittlung des Prozentrangs
-Anlage 5 Berechnung der Punktwerte
-Anlage 6 Anerkannte Berufsausbildungen und -tätigkeiten
-Anlage 7 Anerkannte praktische Tätigkeiten und außerschulische Leistungen sowie Qualifikationen
