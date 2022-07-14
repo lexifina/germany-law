@@ -1,0 +1,21 @@
+# Baugebiet "Am Silberbach", Erschließungskosten, Einwurfs- und Zuteilungswerte, städtebaulicher Vertrag
+
+- Körperschaft: Gemeinde Glashütten
+- Drucksache/Vorlage: 340/GV/XIX
+- Art: Beschluss-Vorlage
+- Datum: 2022-07-14
+- Ratsinformationssystem: https://rim.ekom21.de/glashuetten/vorgang/?__=UGhVM0hpd2NXNFdFcExjZYlAZpYR_XNQH_b4lt5HLw4
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/paper/3440
+- Quelle: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschluss-Vorlage (Baugebiet "Am Silberbach", Erschließungskosten, Einwurfs- und Zuteilungswerte, städtebaulicher Vertrag) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdvk4gTKpmMfPcznW_BlplsIycu47O-Hi1QPCrbVV8Un/Beschluss-Vorlage_340-GV-XIX.pdf
+- Anlage: Beschluss-Vorlage (Städteb Vereinbarung Am Silberbach final) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcY7Sl4WQR4ZOerkfxU6tBxEhJ03xsHrZG74LDhgD52g/Staedteb_Vereinbarung_Am_Silberbach_final.pdf
+- Anlage: Beschluss-Vorlage (Erschließungskostenkalkulation) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZF8Klxw7sYXWAMls_sKa-8YJeTDZJO45PTlZGGeYdy4/Erschliessungskostenkalkulation.pdf
+- Anlage: Beschluss-Vorlage (Verteilung_Kosten_BA1_BA2) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZab3XwXhCWCip-zP66ARJadsCXktRPv5MP-1t4rG8XhI/Verteilung_Kosten_BA1_BA2.pdf
+- Anlage: Beschluss-Vorlage (Verteilung_Kosten_HB Schlossborn) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ2GEIxpvnxVuZzk8weEdpdsU9ZJm7Ov-FFlQPa7tUok/Verteilung_Kosten_HB_Schlossborn.pdf
+- Anlage: Beschluss-Vorlage (Kostenberechnung DF-P_IGMBH-1 .BA) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfyIcLW07j65b0LCft_Ldi-nP4OLRZqOwDHwsTpoEXWc/Kostenberechnung_DF-P_IGMBH-1_.BA.pdf
+- Anlage: Beschluss-Vorlage (Umlegungsberechnung  Schloßborn 13.06.22) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZF_3nxPSi8PI9I3IENCBMcvsoMfGwyTY-FwO9CTiZAg/Umlegungsberechnung__Schlossborn_13.06.22.pdf
+- Anlage: Beschluss-Vorlage (Energiekonzept Gemeinde Glashütten_Umsetzung_Sicherheitskoste.._) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZff4OAHpmucAol2cOYZd9pDLp9qu7xsKv8XZmlaOc2Gm/Energiekonzept_Gemeinde_Glashuetten_Umsetzung_Sicherheitskoste.._.pdf
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1911 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1920 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-4
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1929 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/3-17
