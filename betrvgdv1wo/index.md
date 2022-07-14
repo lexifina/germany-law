@@ -1,5 +1,4 @@
 # Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes
-(Wahlordnung - WO)
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
