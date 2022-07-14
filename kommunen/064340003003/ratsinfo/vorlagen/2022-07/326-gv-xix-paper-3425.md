@@ -1,0 +1,22 @@
+# Baugebiet “Am Silberbach“ Erschließungsvertrag
+
+- Körperschaft: Gemeinde Glashütten
+- Drucksache/Vorlage: 326/GV/XIX
+- Art: Beschluss-Vorlage
+- Datum: 2022-07-14
+- Ratsinformationssystem: https://rim.ekom21.de/glashuetten/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfTFA5hIkMfEF6HSY1TBFsY
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/paper/3425
+- Quelle: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschluss-Vorlage (Baugebiet “Am Silberbach“ Erschließungsvertrag) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfeWKae0lPEGWJVMLfDUHorJ-EljIRVDZhxgrw-4fkdJ/Beschluss-Vorlage_326-GV-XIX.pdf
+- Anlage: Beschluss-Vorlage (Anlage 1.0.0; ÖR-Vertrag zur Erschließung_Reinfassung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZewbTqB2pUpVom_jISo1hb_LL9y3Y2wobyzXZJklMcPq/Anlage_1.0.0-_OeR-Vertrag_zur_Erschliessung_Reinfassung.pdf
+- Anlage: Beschluss-Vorlage (Anlage 1.1.0; Lageplan zum Erschließungsvertrag) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbmYsyMfXjYNb02LFT7vDUzLhNcByKUyL75B7hnUFJow/Anlage_1.1.0-_Lageplan_zum_Erschliessungsvertrag.pdf
+- Anlage: Beschluss-Vorlage (Anlage 1.2.0; Grundstücksliste_Am Silberbach_final_Geschwärzt) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY8fXgaErUkLgYu2CB38bxRIBpgnzE2kpKBE41w6mqwO/Anlage_1.2.0-_Grundstuecksliste_Am_Silberbach_final_Geschwaerzt.pdf
+- Anlage: Beschluss-Vorlage (Anlage 1.3.0; bis 1.5.1;  Abwasser, Trinkwass, Entwurf Staßen und Wege) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeeTlqDKMm2vZQVFVhLS23g3X6JXImzgtHUMn9yeFIFT/Anlage_1.3.0-_bis_1.5.1-__Abwasser-_Trinkwass-_Entwurf_Stassen_und_Wege.pdf
+- Anlage: Beschluss-Vorlage (Anlage 1.5.2; Entwurf Straßen und Wege Baustrasse) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVoIRY1RVqi8ETm89I99nhp0wgoF312y4803x0qlm-A0/Anlage_1.5.2-_Entwurf_Strassen_und_Wege_Baustrasse.pdf
+- Anlage: Beschluss-Vorlage (Anlage 1.5.3; Entwurf Staßen und Wege Ringstraße) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfiPZN3FUeUXMBhAGuME2B_Lv2jok6dRZCK_Gk5CeLT6/Anlage_1.5.3-_Entwurf_Stassen_und_Wege_Ringstrasse.pdf
+- Anlage: Beschluss-Vorlage (Anlage 1.6.0; Ausgleichsmaßnahmen_Lageplan) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYWk8sa0-rSzGO5sK7KeaxrJj6htefDVjEWEltwA81rE/Anlage_1.6.0-_Ausgleichsmassnahmen_Lageplan.pdf
+- Anlage: Beschluss-Vorlage (Anlage 2.0.0; Erschließungsvorvertrag) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYcV1bbCiTJEsLBoZZvUqmVu8dehP0cQzRyOtMmcByvB/Anlage_2.0.0-_Erschliessungsvorvertrag.pdf
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1911 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1920 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-4
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1929 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/3-17
