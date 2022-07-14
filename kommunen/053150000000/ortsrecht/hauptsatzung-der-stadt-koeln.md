@@ -2,14 +2,14 @@
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
 - Datum: 2022-07-14 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_05072022-28.pdf
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_05072022-29.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
-in der Fassung der 28. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 5. Juli 2022
+in der Fassung der 29. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 5. Juli 2022
 
 - ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255, 2020, S. 1, S. 1647, S. 1648, 2021, S. 30, S. 134, 2022, S. 226 –
 - Öffentliche Bekanntmachung vom 14. Juli 2022 -
@@ -284,7 +284,7 @@ VI. Finanzielle Entschädigungen für Mandatsträgerinnen/Mandatsträger
 § 25 Allgemeine Aufwandsentschädigungen (§ 45 Absätze 3 bis 6, § 27 Abs. 7 GO)
 (1) Unabhängig von einem Anspruch auf Ersatz des Verdienstausfalles nach § 24 Hauptsatzung erhalten Ratsmitglieder eine Aufwandsentschädigung. Sie besteht aus einem monatlichen Pauschalbetrag und einem Sitzungsgeld. Ratsmitglieder erhalten ein Sitzungsgeld für die Teilnahme an jeder Rats- und Ausschusssitzung sowie jährlich höchstens 150 von einer Fraktion anberaumten Sitzungen.
 (2) Mitglieder der Bezirksvertretungen erhalten unabhängig vom Anspruch auf Ersatz des Verdienstausfalles als Aufwandsentschädigung einen monatlichen Pauschalbetrag.
-(3) Ausschussmitglieder, die nicht dem Rat angehören, erhalten für die Teilnahme an Ausschusssitzungen und jährlich höchstens 60 von einer Fraktion anberaumten Sitzungen ein Sitzungsgeld.
+(3) Ausschussmitglieder, die nicht dem Rat angehören, erhalten für die Teilnahme an Ausschusssitzungen und jährlich höchstens 80 von einer Fraktion anberaumten Sitzungen ein Sitzungsgeld.
 (4) Mitglieder des Integrationsrates erhalten neben dem Ersatz des Verdienstausfalles ein Sitzungsgeld für die Teilnahme an den Sitzungen des Integrationsrates sowie an den zur Vorbereitung dieser Sitzungen erforderlichen Facharbeitskreisen. Die/der Vorsitzende des Integrationsrates oder ein anderes von dort benanntes Mitglied erhalten außerdem für die Teilnahme an Sitzungen gemäß § 27 Abs. 8 Satz 3 GO NRW ein Sitzungsgeld.
 Seite 18 von 23
 
