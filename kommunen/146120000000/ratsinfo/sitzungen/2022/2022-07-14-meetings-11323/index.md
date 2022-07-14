@@ -1,0 +1,73 @@
+# 40. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-07-14T16:00:00+02:00
+- Ende: 2022-07-14T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11323
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11323
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00623437.pdf
+- Ergebnisprotokoll: Korrektur Niederschrift öffentlich TOP 24_mU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00644897.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Aktuelle Stunde zum Thema "Wohnen muss bezahlbar sein. Mietpreise bremsen." - erledigt
+- TOP 3: Aktuelle Stunde: Versorgungssicherheit von DREWAG und SachsenEnergie durch Erneuerbare Energien wiederherstellen - Raus aus Putins Gas - Vertagung durch Einreicher
+- TOP 4: Neubesetzung des Umlegungsausschusses - Einigung
+- TOP 5: Besetzung des Aufsichtsrates der Stadtentwässerung Dresden GmbH - Vertagung
+- TOP 6: Umbesetzung im Wohnbeirat/Beirat Wohnen - Einigung
+- TOP 7: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Loschwitz der Landeshauptstadt Dresden - Zustimmung
+- TOP 8: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 9: Anmietung von Räumlichkeiten zur Unterbringung des Schulverwaltungsamtes - punktweise Abstimmung
+- TOP 10: Absichtserklärung zwischen Vonovia SE und der Landeshauptstadt Dresden über die langfristige Zusammenarbeit zur Wohnstandortentwicklung Dresden 2030+ - Zustimmung mit Ergänzung
+- TOP 11: Aufhebung der Satzung der Landeshauptstadt Dresden über die förmliche Festlegung des städtebaulichen Entwicklungsbereiches „Dresden E 1, Dresden-Nickern“ - Zustimmung
+- TOP 12: Gewährung einer einmaligen Sonderzahlung aufgrund der Coronakrise für Studierende mit einem Ausbildungsvertrag mit der Landeshauptstadt Dresden - Zustimmung
+- TOP 13: Fortschreibung der investiven Finanzplanung 2022 durch Umverteilung des Mittelabflusses ausgewählter Projekte auf die Jahre 2023 bis 2025 - Zustimmung
+- TOP 14: Vergabe der Planung und Durchführung des Schulbauvorhabens 49. Grundschule „Bernhard August von Lindenau“ | Bernhardstraße 80 in 01187 Dresden – Neubau Einfeld-Sporthalle, Sanierung Bestands-sporthalle und Erneuerung Freiflächen an die STESAD GmbH - Zustimmung
+- TOP 15: Vergabe der Planung und Errichtung des Schulbauvorhabens Gymnasium Linkselbisch-Ost (LEO) als vierzügiges Gymnasium an die STESAD GmbH - Zustimmung
+- TOP 16: Errichtung einer Zweifeldsporthalle für die 33. Grundschule, Schilfweg 3 in 01237 Dresden - Zustimmung
+- TOP 17: Veränderung des Sondervermögens des Eigenbetriebes Städtisches Klinikum Dresden für das Wirtschaftsjahr 2022 - Grundstücke Schäferstraße - Zustimmung
+- TOP 18: Strategisches Flächenerwerbs- und Entwicklungskonzept - Zustimmung
+- TOP 19: Änderung der Verordnung der Landeshauptstadt Dresden über Parkgebühren (Parkgebührenverordnung) - Zustimmung
+- TOP 20: Ergebnisse der gesamtstädtischen Voruntersuchung (Screening) zum Erfordernis von Detailuntersuchungen für die Ausweisung sozialer Erhaltungssatzungen - punktweise Zustimmung
+- TOP 21: Einführung von Sharingleitlinien Mobilität und Änderung der Sondernutzungssatzung der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 22: Baumaßnahme: Ersatzneubau Stadtteilhaus Johannstadt am Standort Pfeifferhannsstraße, 01307 Dresden - Zustimmung
+- TOP 23: Veränderungssperre für Bebauungsplan Nr. 3062, Dresden-Klotzsche Nr. 18, Flughafenstraße - Zustimmung
+- TOP 24: Änderung der Satzung der Landeshauptstadt Dresden über die Ausübung von Straßenkunst (Satzung Straßenkunst) - punktweise Abstimmung
+- TOP 25: Vorhabenbezogener Bebauungsplan Nr. 6010, Dresden-Friedrichstadt, Ehemaliges Ostravorwerk - Zustimmung
+- TOP 26: Annahme einer Geld- und Leistungszuwendung der Kaufpark Nickern GmbH & Co. KG für gemeinnützige Zwecke - Zustimmung
+- TOP 27: Verwendung von Fördermitteln aus dem Konjunkturprogramm „Nachhaltig aus der Krise“ des SMEKUL für die Maßnahme „Vegetationskonzept mit integriertem Speicher- u. Bewässerungskonzept für den Südpark" in den Haushalt des A67 - Zustimmung
+- TOP 28: E-Petition „Neue Bürgermeister - freie Auswahl statt geheimer Absprachen" - Vertagung durch Einreicher
+- TOP 29: Vergabe von Wohnbauflächen an Dresdner Familien mit niedrigen und mittleren Einkommen (Einheimischen-Modell) - Ablehnung
+- TOP 30: Elbradweg sicher für alle - Fußgänger besser schützen - Vertagung durch Einreicher
+- TOP 31: Dresdner Bericht über die Lebensverhältnisse in den Stadtteilen (Gleichwertigkeitsbericht) - Vertagung durch Einreicher
+- TOP 32: Ermittlung der Zulässigkeit und Notwendigkeit von Milieuschutzsatzungen in Dresden - Ablehnung
+- TOP 33: Modellprojekt zur legalen Abgabe von Cannabis - punktweise Ablehnung
+- TOP 34: Sicher zur Schule mit dem Fahrrad oder zu Fuß - Vertagung
+- TOP 35: Teilhabe am sozialen und kulturellen Leben verbessern - Vertagung durch Einreicher
+- TOP 36: Untersuchung Population Kleine Hufeisennase Standort Waldschlößchenbrücke - Ablehnung
+- TOP 37: Vor dem Schaden klug sein: Aufarbeitung des Stromausfalls in Dresden im September 2021 und Wege zur Prävention - Vertagung durch Einreicher
+- TOP 38: Inhaltliche Korrektur der Stelentexte an den Gedenkstätten für die Opfer der Bombenangriffe auf Dresden im Februar 1945 - Ablehnung
+- TOP 39: Starke Region im Herzen Europas – interkommunale Zusammenarbeit der Landeshauptstadt Dresden mit dem Umland voranbringen - Vertagung durch Einreicher
+- TOP 40: Stadt der kurzen Wege - Vertagung durch Einreicher
+- TOP 41: Entwicklungsstrategie 2035 - Vertagung durch Einreicher
+- TOP 42: Energiepreisexplosion entgegensteuern – Heizen darf nicht zu Armut führen - Ablehnung
+- TOP 43: Beteiligung des Stadtbezirksbeirats bei der Auswahl der Stadtbezirksamtsleiterin - Ersetzung
+- TOP 44: Aktive Maßnahmen zur Verhinderung von Energiearmut in einkommensschwachen Privathaushalten - Ablehnung
+- TOP 45: Entwicklungskonzeption für den Stadtbezirk Neustadt - Vertagung nach 22 Uhr
+- TOP 46: Komplementäre und integrative Medizin entwickeln – Attraktivität des Städtischen Klinikums stärken - Ablehnung
+- TOP 47: Mit integrierter Bildungsplanung die Situation von Kinder in benachteiligten Stadtteilen nachhaltig verbessern – Damit alle Kinder in ganz Dresden eine gute Bildung erfahren - Vertagung nach 22 Uhr
+- TOP 48: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49: Hans-Jürgen Dörner ehren – „Lennéstraße“ in „Dixie-Dörner-Straße“ umbenennen - Vertagung durch Einreicher
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung durch Einreicher
+- TOP 52: Für eine neue Kultur des Planens und Gestaltens von Dresdner Schulhöfen - punktweise Abstimmung
+- TOP 53: Völkerverständigung und friedliches Zusammenleben stärken –Zusammenarbeit mit der Partnerstadt St. Petersburg ausbauen und Menschen miteinander verbinden - Vertagung nach 22 Uhr
+- TOP 54: EILANTRAG: Spritpreisexplosion entgegensteuern. Einsatzbereitschaft der Freiwilligen Feuerwehr erhaltet. Änderung Feuerwehrsatzung: hier Entschädigungsrichtlinie - Vertagung nach 22 Uhr
+- TOP 55: Ausreichung des Bildungstickets an die Teilnehmer:innen der Straßenschule der Treberhilfe Dresden e.V. - Zustimmung
+- TOP 56: Mehr Blühwiesen für Dresden - Vertagung nach 22 Uhr
+- TOP 59: Vergabenummer: 2021-GB113-00027 Dienstleistungskonzession für die Organisation und Durchführung des Dresdner Stadtfestes in den Jahren 2023 bis 2025 (2027) - Vertagung nach 22 Uhr
