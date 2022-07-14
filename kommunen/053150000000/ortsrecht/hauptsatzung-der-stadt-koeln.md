@@ -1,18 +1,18 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2022-04-13 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_04042022.pdf
+- Datum: 2022-07-14 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_05072022-28.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
-in der Fassung der 27. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 4. April 2022
+in der Fassung der 28. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 5. Juli 2022
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255, 2020, S. 1, S. 1647, S. 1648, 2021, S. 30, S. 134 –
-- Öffentliche Bekanntmachung vom 13.04.2022 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255, 2020, S. 1, S. 1647, S. 1648, 2021, S. 30, S. 134, 2022, S. 226 –
+- Öffentliche Bekanntmachung vom 14. Juli 2022 -
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften § 12b Jugend- und Kinderfreundlichkeit
 II. Bürgerbeteiligung § 13 Unterrichtung der Einwohnerinnen und Einwohner über allgemein bedeutsame Angelegenheiten § 14 Anregungen und Beschwerden § 15 Einwohnerantrag § 16 Bürgerbegehren, Bürgerentscheid, Ratsbürgerentscheid
@@ -97,7 +97,7 @@ c) Grundvermögen innerhalb des Gebietes der Stadt Köln;
 d) Beteiligungen an Unternehmen;
 e) ausgeübter Beruf - bei Unselbständigen: Angabe des Arbeitgebers/Dienstherrn und Art der Beschäftigung; - bei Selbständigen: Angabe der Art der Tätigkeit; - bei mehreren ausgeübten Berufen: Angabe des Schwerpunktes der beruflichen Tätigkeit;
 f) Beraterverträge;
-g) die Mitgliedschaft in Aufsichträten und anderen Kontrollgremien im Sinne des § 125 Abs. 1 Satz 3 AktG;
+g) die Mitgliedschaft in Aufsichtsräten und anderen Kontrollgremien im Sinne des § 125 Abs. 1 Satz 3 AktG;
 h) die Mitgliedschaft in Organen von verselbständigten Aufgabenbereichen in öffentlich-rechtlicher oder privatrechtlicher Form der in § 1 Abs. 1 und 2 Landesorganisationsgesetz genannten Behörden und Einrichtungen;
 i) die Mitgliedschaft in Organen sonstiger privatwirtschaftlicher Unternehmen;
 j) die Funktionen in Vereinen oder vergleichbaren Gremien.
@@ -241,8 +241,7 @@ Seite 14 von 23
 (1) Der Integrationsrat der Stadt Köln besteht aus 33 Mitgliedern. Die Mitglieder werden vom Rat zu einem Drittel nach dem für die Ausschüsse geltenden Verfahren aus seiner Mitte bestellt, zu zwei Dritteln nach den Bestimmungen des § 27 Gemeindeordnung (GO) für die Dauer der Wahlzeit des Rates nach Listen oder als Einzelbewerberinnen/Einzelbewerber gewählt.
 (2) Nähere Einzelheiten über die Durchführung der Wahl regelt die Wahlordnung für die Wahl des Integrationsrates.
 (3) Die/der Vorsitzende und seine fünf Stellvertreterinnen/Stellvertreter werden von allen Mitgliedern aus der Mitte des Integrationsrates gewählt.
-(4) Für die Verwaltung nimmt die Oberbürgermeisterin/der Oberbürgermeister oder die/der zuständige Fachbeigeordnete und/oder die Leitung des Kommunalen Integrationszentrums an den Sitzungen des Integrationsrates teil.
-Daneben können im Einzelfall Vertreterinnen/Vertreter der Arbeiterwohlfahrt, des Arbeitgeberverbandes, der Agentur für Arbeit Köln, des Caritasverbandes, des Deutschen Gewerkschaftsbundes, des Deutschen Paritätischen Wohlfahrtsverbandes, des Diakonischen Werkes, des Fördervereins Kölner Flüchtlingsrat e.V. und der Seniorenvertretung der Stadt Köln als Sachverständige zu den Beratungen hinzugezogen werden.
+(4) Für die Verwaltung nehmen die Oberbürgermeisterin / der Oberbürgermeister und/ oder die Leitung des Amtes für Integration und Vielfalt und/ oder die Leitung des Kommunalen Integrationszentrums an den Sitzungen des Integrationsrates teil. Daneben können im Einzelfall Vertreterinnen / Vertreter der Arbeiterwohlfahrt, des Arbeitgeberverbandes, der Agentur für Arbeit Köln, des Caritasverbandes, des Deutschen Gewerkschaftsbundes, des Deutschen Paritätischen Wohlfahrtsverbandes, des Diakonischen Werkes, des Kölner Flüchtlingsrat e.V., der Seniorenvertretung der Stadt Köln und des Runden Tisches für Integration als Sachverständige zu den Beratungen hinzugezogen werden.
 (5) Die Geschäftsordnung des Rates gilt auch für den Integrationsrat. Es gelten die Befugnisse gemäß § 27 Abs. 8 und 9 der GO. Der Integrationsrat regelt seine inneren Angelegenheiten sowie Abweichungen von der Geschäftsordnung des Rates durch eine eigene Geschäftsordnung. Diese ist vom Rat zu genehmigen.
 (6) Der Integrationsrat kann sich mit allen Angelegenheiten der Gemeinde, insbesondere wenn sie die Interessen der Kölner Migrantinnen und Migranten als solche betreffen, befassen und Vorschläge und Anregungen machen.
 Der Integrationsrat ist in allen wichtigen Angelegenheiten, die die Interessen der Kölner Migrantinnen und Migranten als solche betreffen, zu informieren und vor der Beschlussfassung durch den Rat zu beteiligen.
@@ -257,7 +256,7 @@ Seite 15 von 23
 werden dem Integrationsrat Mittel im städtischen Haushalt zugewiesen, die von der Geschäftsstelle verwaltet werden. Die Einzelheiten regelt ein Ratsbeschluss.
 (9) Der Integrationsrat erhält die Möglichkeit einer eigenständigen Öffentlichkeitsarbeit.
 (10) Der Integrationsrat kann dem Rat je ein Mitglied als sachkundige Einwohnerin/sachkundigen Einwohner gemäß § 58 Abs. 4 GO sowie ein Mitglied als stellvertretende sachkundige Einwohnerin/stellvertretenden sachkundigen Einwohner in die Fachausschüsse vorschlagen.
-(11) Der Integrationsrat wird bei der Besetzung der Stelle der Geschäftsführung des Integrationsrates, sowie bei der Besetzung der Leitung des Interkulturellen Referates der Stadt Köln frühzeitig informiert und hat die Möglichkeit, vor der Entscheidungsfindung eine Stellungnahme abzugeben.
+(11) Der Integrationsrat wird bei der Besetzung der Stelle der Geschäftsführung des Integrationsrates, sowie bei der Besetzung der Leitung des Kommunalen Integrationszentrums der Stadt Köln frühzeitig informiert und hat die Möglichkeit, vor der Entscheidungsfindung eine Stellungnahme abzugeben.
 (12) Darüber hinaus kann der Rat dem Integrationsrat weitere Kompetenzen in Angelegenheiten, die die Interessen der Migrantinnen und Migranten als solche berühren, zuweisen.
 § 23 Seniorenvertretung und Arbeitsgemeinschaften Seniorenpolitik
 (1) Bei der Stadt Köln wird eine Seniorenvertretung gebildet. Die Seniorenvertretung der Stadt Köln wird entsprechend den Regelungen der jeweils gültigen Wahlordnung gewählt.
