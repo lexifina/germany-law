@@ -151,9 +151,13 @@
 - [§ 82 Festsetzung der Vergütung](0082.md)
 - [§ 83 Vergütung in besonderen Fällen](0083.md)
 
-### Kapitel 4 (zukünftig in Kraft)
+### Kapitel 4 Öffentliche Restrukturierungssachen
 
-- [(XXXX) §§ 84 bis 88 (zukünftig in Kraft)](xxxx-84-bis-88.md)
+- [§ 84 Antrag und erste Entscheidung](0084.md)
+- [§ 85 Besondere Bestimmungen](0085.md)
+- [§ 86 Öffentliche Bekanntmachung; Verordnungsermächtigung](0086.md)
+- [§ 87 Restrukturierungsforum; Verordnungsermächtigung](0087.md)
+- [§ 88 Anwendbarkeit des Artikels 102c des Einführungsgesetzes zur Insolvenzordnung](0088.md)
 
 ### Kapitel 5 Anfechtungs- und Haftungsrecht
 
