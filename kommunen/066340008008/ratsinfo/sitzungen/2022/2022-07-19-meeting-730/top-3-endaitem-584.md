@@ -1,0 +1,7 @@
+# TOP 3.: Beratung und Beschlussfassung über den Erwerb der Kindertagesstätte "Kleine Grashüpfer" von dem Ev. Luth. Gertrudenstift e.V., Baunatal
+
+- Sitzung: Gemeindevertretung der Gemeinde Guxhagen (14. Sitzung) (2022-07-19)
+- Körperschaft: Gemeinde Guxhagen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/guxhagen/webservice/oparl/v1.1/body/1/agendaitem/584
+- Ergebnis: 23 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
