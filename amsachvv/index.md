@@ -7,6 +7,4 @@
 - [§ 4](0004.md)
 - [§ 5](0005.md)
 - [§ 6](0006.md)
-- [§ 7 (weggefallen)](0007.md)
-- [§ 8](0008.md)
 - [Schlußformel](schlussformel.md)

@@ -36,7 +36,7 @@ Verordnung (EU) 2015/2283, Durchführungsverordnung (EU) 2018/456
 Abschnitt 13
 Verordnung (EG) Nr. 396/2005
 Abschnitt 14
-Arzneimittelgesetz (AMG)
+Tierarzneimittelgesetz (TAMG), Verordnung (EU) 2019/6
 Abschnitt 15
 Tiergesundheitsgesetz (TierGesG), Tierimpfstoff-Verordnung (TierImpfStV)
 Abschnitt 16
@@ -317,25 +317,55 @@ Verordnung (EG) Nr. 396/2005
 | 3 | Ermäßigung und Befreiung von Gebühren und Auslagen dieses Abschnitts (1) Die nach der Nummer 1 zu erhebenden Gebühren sind auf Antrag des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr zu ermäßigen, wenn ein öffentliches Interesse an der Zulassung oder der Erweiterung der Zulassung des Pflanzenschutzmittels oder des Wirkstoffs besteht und ein angemessener wirtschaftlicher Nutzen für den Antragsteller nicht zu erwarten ist. Von der Erhebung der in Satz 1 genannten Gebühren ist auf Antrag des Gebührenschuldners abzusehen, wenn ein öffentliches Interesse an der Erweiterung der Zulassung des Pflanzenschutzmittels oder des Wirkstoffs besteht und kein oder nur ein besonders geringer wirtschaftlicher Nutzen für den Antragsteller zu erwarten ist. Wenn die individuell zurechenbare öffentliche Leistung nach Satz 2 gebührenfrei ist, werden Auslagen nicht erhoben. (2) Ein öffentliches Interesse nach Absatz 1 liegt in der Regel vor, wenn das Pflanzenschutzmittel oder der Wirkstoff 1.für die Schließung von Bekämpfungslücken erforderlich ist,2.zur Verwendung im ökologischen Landbau geeignet ist,3.für die Bekämpfung eines Schadorganismus auf einer Fläche, die für die Allgemeinheit bestimmt ist, erforderlich ist, um a)eine weitere öffentliche Nutzung der Fläche zu ermöglichen oder |
 |  | b)wertvolle Pflanzenbestände zu erhaltenoder4.ein Pflanzenschutzmittel oder ein Wirkstoff mit geringem Risiko im Sinne des Artikels 22 oder des Artikels 47 der Verordnung (EG) Nr. 1107/2009 ist. (3) Bei der Bemessung des wirtschaftlichen Nutzens im Sinne des Absatz 1 ist die Gewinnerwartung des Gebührenschuldners unter Berücksichtigung aller maßgeblichen Umstände zu beurteilen. Dabei sind, je nach Art der behördlichen Leistung als gemeinsame oder einzelne Kriterien, insbesondere der Anbauumfang der betroffenen Kultur, das Gefährdungspotenzial eines Schaderregers, die Wahrscheinlichkeit des Auftretens des Schadorganismus, der zu erwartende Marktanteil des Pflanzenschutzmittels oder des Wirkstoffs und der Entwicklungsaufwand zu berücksichtigen. Kein oder ein nur besonders geringer wirtschaftlicher Nutzen nach Absatz 1 liegt vor, wenn kein oder nur ein sehr geringer Gewinn zu erwarten ist. |
 Abschnitt 14
-Arzneimittelgesetz (AMG)
+Tierarzneimittelgesetz (TAMG), Verordnung (EU) 2019/6
+Unterabschnitt 1
+Gebühren des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren oder Auslagen in Euro |
-| 1 | Bewertung von Berichten nach § 63h Absatz 5 AMG und Überprüfungen nach § 62 Absatz 6 und § 63h Absatz 6 AMG in Verbindung mit § 62 Absatz 6 AMG |  |
-| 1.1 | Berichtsbewertung im nationalen Verfahren |  |
-| 1.1.1 | innerhalb von zehn Jahren nach erstmaliger Zulassung des Arzneistoffes in Deutschland | 1 200 |
-| 1.1.2 | später als zehn Jahre nach erstmaliger Zulassung des Arzneistoffes in Deutschland | 680 |
-| 1.2 | Berichtsbewertung im Verfahren der gegenseitigen Anerkennung (MRP) oder im dezentralisierten Verfahren gemäß § 25b Absatz 3 AMG |  |
-| 1.2.1 | mit Deutschland als Referenzmitgliedstaat (RMS) |  |
-| 1.2.1.1 | innerhalb von zehn Jahren nach erstmaliger Zulassung des Arzneistoffes in Deutschland | 4 000 |
-| 1.2.1.2 | später als zehn Jahre nach erstmaliger Zulassung des Arzneistoffes in Deutschland | 1 200 |
-| 1.2.2 | mit Deutschland als betroffenem Mitgliedstaat (CMS) |  |
-| 1.2.2.1 | innerhalb von zehn Jahren nach erstmaliger Zulassung des Arzneistoffes in Deutschland | 1 200 |
-| 1.2.2.2 | später als zehn Jahre nach erstmaliger Zulassung des Arzneistoffes in Deutschland | 680 |
-| 1.3 | Werden gleichzeitig identische periodische Berichte nach den Gebührennummern 1.1 und 1.2 vorgelegt und bewertet, entsteht die Gebühr nach den Gebührennummern 1.1 oder 1.2 nur einmal. Für jeden weiteren identischen periodischen Bericht reduziert sich die Gebühr auf | 350 |
-| 1.4 | Überprüfung der Sammlung und Auswertung von Arzneimittelrisiken und die Koordinierung notwendiger Maßnahmen nach § 62 Absatz 6 AMG, je nach Personal- und Sachaufwand | 920 bis 22 500 |
-| 2 | Prüfung von Anzeigen nach § 67 Absatz 6 Satz 1 in Verbindung mit Absatz 6 Satz 14 AMG | 280 |
-| 3 | Festlegung einer angemessenen Wartezeit nach § 59 Absatz 2 Satz 2 AMG |  |
-| 3.1 | für ein Arzneimittel mit einem Stoff, der nicht der Einstufung nach Artikel 14 Absatz 2 Buchstabe a, b oder c der Verordnung (EG) Nr. 470/2009 entspricht | 4 300 |
-| 3.2 | für ein Arzneimittel mit einem Stoff, der der Einstufung nach Artikel 14 Absatz 2 Buchstabe a, b oder c der Verordnung (EG) Nr. 470/2009 entspricht | 1 800 |
+| 1 | Festlegung oder Änderung der Verkaufsabgrenzung |  |
+| 1.1 | Einstufung gemäß Artikel 34 der Verordnung (EU) 2019/6 oder § 24 TAMG bzw. Kategorisierung gemäß § 41 Absatz 1 TAMG | 100 bis 400 |
+| 1.2 | Änderung der Einstufung gemäß Artikel 34 der Verordnung (EU) 2019/6 oder gemäß § 24 TAMG bzw. der Kategorisierung gemäß § 41 Absatz 2 TAMG | 470 |
+| 2 | Genehmigung von Anträgen zur Durchführung einer klinischen Prüfung und einer Rückstandsprüfung gemäß Artikel 9 der Verordnung (EU) 2019/6 und § 10 Absatz 1 TAMG | 380 bis 4 300 |
+| 3 | Pharmakovigilanz |  |
+| 3.1 | Inspektion des Pharmakovigilanz-Systems gemäß Artikel 126 Absatz 3 der Verordnung (EU) 2019/6 und Inspektion der Pharmakovigilanz-Stammdokumentation gemäß Artikel 126 Absatz 4 der Verordnung (EU) 2019/6 | nach Zeitaufwand |
+| 3.2 | Inspektion nach Nummer 3.1 betreffend Heimtierarzneimittel, die gemäß § 4 TAMG von der Zulassungspflicht freigestellt sind | nach Zeitaufwand bis höchstens 390 |
+| 3.3 | Maßnahmen gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6 |  |
+| 3.3.1 | Prüfung und Bewertung weiterer Pharmakovigilanz-Daten über Artikel 73 Absatz 2 der Verordnung (EU) 2019/6 hinaus gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6 | 790 |
+| 3.3.2 | Prüfung und Bewertung von Studien zur Überwachung nach dem Inverkehrbringen (Post-Marketing-Studien) gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6 und Artikel 15 der Durchführungsverordnung (EU) 2021/1280 | 1 200 |
+| 4 | Genehmigung des Parallelhandels mit einem Tierarzneimittel gemäß Artikel 102 der Verordnung (EU) 2019/6 | nach Zeitaufwand |
+Unterabschnitt 2
+Gebühren des Paul-Ehrlich-Instituts
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren oder Auslagen in Euro |
+| 1 | Klinische Prüfungen |  |
+| 1.1 | Genehmigung gemäß Artikel 9 der Verordnung (EU) 2019/6 und § 10 Absatz 1 TAMG |  |
+| 1.1.1 | bei einer klinischen Prüfung mit einem nicht zugelassenen Tierarzneimittel | 500 bis 2 000 |
+| 1.1.2 | bei einer klinischen Prüfung mit einem zugelassenen Tierarzneimittel | 500 bis 2 000 |
+| 1.1.3 | für folgende Produktgruppen: a)Tierarzneimittel für neuartige Therapien und monoklonale Antikörper im Bereich Immuntherapieb)immunologische Tierarzneimittel im Anwendungsbereich des TAMG undc)Tierallergene | die in Nummer 1.1.1 oder Nummer 1.1.2 vorgesehene Gebühr |
+| 1.2 | Bearbeitung genehmigungspflichtiger Änderungen | 50 bis 250 |
+| 1.3 | Bearbeitung sonstiger von Nummer 1.2 nicht erfasster Änderungen je betroffene klinische Prüfung | 50 bis 250 |
+| 1.4 | Anordnung des Ruhens der Genehmigung | nach Zeitaufwand |
+| 2 | Pharmakovigilanz |  |
+| 2.1 | Inspektion des Pharmakovigilanz-Systems gemäß Artikel 126 Absatz 3 der Verordnung (EU) 2019/6 und Inspektion der Pharmakovigilanz-Stammdokumentation gemäß Artikel 126 Absatz 4 der Verordnung (EU) 2019/6 | 2 500 bis 20 000 |
+| 2.2 | Maßnahmen gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6 |  |
+| 2.2.1 | Prüfung und Bewertung weiterer Pharmakovigilanz-Daten über Artikel 73 Absatz 2 der Verordnung (EU) 2019/6 hinaus gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6 | nach Zeitaufwand |
+| 2.2.2 | Prüfung und Bewertung einer Studie zur Überwachung nach dem Inverkehrbringen (Post-Marketing-Studien) gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6 und Artikel 15 der Durchführungsverordnung (EU) 2021/1280 | nach Zeitaufwand |
+| 2.3 | Anordnung geeigneter Maßnahmen nach Artikel 129 der Verordnung (EU) 2019/6 gemäß Artikel 81 Absatz 6 der Verordnung (EU) 2019/6 | nach Zeitaufwand |
+| 3 | Genehmigung des Parallelhandels mit einem Tierarzneimittel gemäß Artikel 102 der Verordnung (EU) 2019/6 | 1 500 |
+| 4 | Nachweis der Produktqualität, Chargenprüfung |  |
+| 4.1 | Durchführung einer dokumentenbasierten Prüfung gemäß Artikel 128 Absatz 1 in Verbindung mit Artikel 127 der Verordnung (EU) 2019/6 | 210 |
+| 4.2 | Durchführung einer experimentellen Prüfung gemäß Artikel 128 Absatz 3 der Verordnung (EU) 2019/6 in Verbindung mit Absatz 6 der Verordnung (EU) 2019/6 zusätzlich zur Gebühr nach Nummer 4.1 | nach Zeitaufwand |
+| 4.3 | Durchführung einer experimentellen Prüfung, wenn das Prüfmuster bereits vor Antragstellung eingereicht wird (sog. Paralleltestung), aber im Nachgang keine Chargenfreigabe beantragt wird | die in Nummer 4.2 vorgesehene Gebühr |
+| 4. 4 | Anerkennung der Prüfergebnisse der zuständigen Stelle eines anderen Mitgliedstaates gemäß Artikel 128 Absatz 7 der Verordnung (EU) 2019/6 | 170 |
+| 4.5 | bei parallel gehandelten Tierarzneimitteln | 120 |
+| 4.6 | Erteilung eines EU-Zertifikates als Official Medicinal Control Laboratory (OMCL) gemäß Artikel 128 Absatz 7 der Verordnung (EU) 2019/6 | die in Nummer 4.1 oder Nummer 4.2 vorgesehene Gebühr |
+| 4.6.1 | wenn die beantragte Charge bereits durch das Paul-Ehrlich-Institut freigegeben wurde | 160 |
+| 4.6.2 | wenn es sich um eine Charge handelt, die sich von einer ersten Charge, die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für die bereits ein EU-Zertifikat erteilt wurde, nur durch die Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die Bezeichnung des Mittels unterscheidet | 160 |
+| 4.7 | Überprüfung der Verfahren gemäß Artikel 128 Absatz 10 der Verordnung (EU) 2019/6 | nach Zeitaufwand |
+| 4.8 | die nach Nummer 4.1 zu erhebende Gebühr ist auf Antrag des Gebührenschuldners zu ermäßigen |  |
+| 4.8.1 | wenn für die beantragte Charge bereits ein EU-Zertifikat durch das Paul-Ehrlich-Institut erteilt wurde | 160 |
+| 4.8.2 | wenn es sich um eine Charge handelt, die sich von einer ersten Charge, die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für die bereits ein EU-Zertifikat erteilt wurde, nur durch die Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die Bezeichnung des Mittels unterscheidet | 160 |
+| 4.9 | die nach Nummer 4.2 zu erhebende Gebühr ist auf Antrag des Gebührenschuldners zu ermäßigen |  |
+| 4.9.1 | wenn für die beantragte Charge bereits ein EU-Zertifikat durch das Paul-Ehrlich-Institut erteilt wurde | 160 |
+| 4.9.2 | wenn es sich um eine Charge handelt, die sich von einer ersten Charge, die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für die bereits ein EU-Zertifikat erteilt wurde, nur durch die Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die Bezeichnung des Mittels unterscheidet | 160 |
 Abschnitt 15
 Tiergesundheitsgesetz (TierGesG) und Tierimpfstoff-Verordnung (TierImpfStV)
 Unterabschnitt 1
@@ -401,100 +431,138 @@ Tieren und Erzeugnissen von Tieren, die zur Einfuhr oder Ausfuhr bestimmt sind
 | 7.12 | Nukleinsäurecharakterisierung | 270 |
 | 8 | Ermäßigung und Befreiung von Gebühren und Auslagen dieses Abschnitts Die nach den Nummern 1 und 4 zu erhebenden Gebühren sind auf Antrag des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr zu ermäßigen, soweit ein öffentliches Interesse an dem Inverkehrbringen des In-vitro-Diagnostikums aufgrund des Anwendungsgebietes besteht. Ein öffentliches Interesse an dem Inverkehrbringen ist in der Regel dann gegeben, wenn kein zugelassenes In-vitro-Diagnostikum zum Nachweis eines Tierseuchenerregers zur Verfügung steht. |
 Unterabschnitt 2
-Gebühren für
-individuell zurechenbare
-öffentliche Leistungen des Paul-Ehrlich-Instituts
-im Hinblick auf Mittel, die zur Anwendung am Tier bestimmt sind
+Gebühren des Paul-Ehrlich-Instituts
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren oder Auslagen in Euro |
-| 1 | Nationale Zulassung eines immunologischen Tierarzneimittels nach § 23 TierImpfStV |  |
-| 1.1 | Zulassung eines immunologischen Tierarzneimittels | 6 000 bis 20 000 |
-| 1.2 | Zulassung eines parallel importierten immunologischen Tierarzneimittels | 1 500 |
-| 1.3 | Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung | 1 500 bis 5 000 |
-| 2 | Zulassung eines immunologischen Tierarzneimittels im Verfahren der gegenseitigen Anerkennung (MRP) nach § 24 Absatz 2 TierImpfStV in Verbindung mit Artikel 32 Absatz 2 der Richtlinie 2001/82/EG |  |
-| 2.1 | für die Durchführung des Verfahrens, wenn Deutschland Referenzmitgliedstaat (RMS) ist | 1 500 bis 12 000 |
-| 2.2 | wenn Deutschland RMS ist und das Verfahren für einen weiter hinzukommenden Mitgliedstaat betreut (Repeat Use Verfahren) | 500 bis 7 000 |
-| 2.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist und die Zulassung auf der Grundlage des Beurteilungsberichts eines anderen Mitgliedstaates ergeht | 1 500 bis 13 000 |
-| 2.4 | Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung |  |
-| 2.4.1 | Durchführung des Verfahrens, wenn Deutschland Referenzmitgliedstaat (RMS) ist | 1 500 bis 6 000 |
-| 2.4.2 | Durchführung des Verfahrens, wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 500 bis 3 000 |
-| 3 | Zulassung eines immunologischen Tierarzneimittels im dezentralisierten Verfahren (DCP) nach § 24 Absatz 3 TierImpfStV in Verbindung mit Artikel 32 Absatz 3 der Richtlinie 2001/82/EG |  |
-| 3.1 | für die Durchführung des Verfahrens, wenn Deutschland Referenzmitgliedstaat (RMS) ist | 10 000 bis 40 000 |
-| 3.2 | wenn Deutschland RMS ist und das Verfahren für zusätzliche Mitgliedstaaten betreut (Repeat Use Verfahren) | 500 bis 7 000 |
+| 1 | Nationale Zulassung |  |
+| 1.1 | Zulassung eines immunologischen Tierarzneimittels gemäß Artikel 5 Absatz 1 der Verordnung (EU) 2019/6 in Verbindung mit den Artikeln 46 und 47 der Verordnung (EU) 2019/6 | 6 000 bis 20 000 |
+| 1.2 | Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung gemäß Artikel 19 der Verordnung (EU) 2019/6 | nach Zeitaufwand bis maximal 17 500 |
+| 1.3 | Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung gemäß Artikel 21 der Verordnung (EU) 2019/6 | 1 500 bis 5 000 |
+| 1.4 | Zulassung eines immunologischen Tierarzneimittels für einen begrenzten Markt (Limited Market) gemäß Artikel 23 der Verordnung (EU) 2019/6 | 4 500 bis 15 000 |
+| 1.5 | Zulassung eines immunologischen Tierarzneimittels unter außergewöhnlichen Umständen (Exceptional Circumstances) gemäß Artikel 25 der Verordnung (EU) 2019/6 | 3 500 bis 14 000 |
+| 2 | Zulassung eines immunologischen Tierarzneimittels im Verfahren der gegenseitigen Anerkennung (MRP) gemäß Artikel 5 Absatz 1 in Verbindung mit Kapitel III Abschnitt 4 und 5 der Verordnung (EU) 2019/6 |  |
+| 2.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung des Verfahrens | 1 500 bis 12 000 |
+| 2.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 7 000 |
+| 2.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 1 500 bis 13 000 |
+| 2.4 | Zulassung eines immunologischen Tierarzneimittels für einen begrenzten Markt (Limited Market) gemäß Artikel 23 der Verordnung (EU) 2019/6 |  |
+| 2.4.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung des Verfahrens | 1 500 bis 12 000 |
+| 2.4.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 7 000 |
+| 2.4.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 3 000 bis 10 000 |
+| 2.5 | Zulassung eines immunologischen Tierarzneimittels unter außergewöhnlichen Umständen (Exceptional Circumstances) gemäß Artikel 25 der Verordnung (EU) 2019/6 |  |
+| 2.5.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung des Verfahrens | 1 500 bis 12 000 |
+| 2.5.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 7 000 |
+| 2.5.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 2 000 bis 10 000 |
+| 2.6 | Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung gemäß Artikel 19 der Verordnung (EU) 2019/6 |  |
+| 2.6.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung des Verfahrens | 1 500 bis 12 000 |
+| 2.6.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 7 000 |
+| 2.6.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 3 500 bis 13 000 |
+| 2.7 | Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung gemäß Artikel 21 der Verordnung (EU) 2019/6 |  |
+| 2.7.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung des Verfahrens | 1 500 bis 6 000 |
+| 2.7.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 2 000 |
+| 2.7.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 500 bis 3 000 |
+| 2.8 | die Gebühr nach den Nummern 2.1 bis 2.7 erhöht sich bei Durchführung des Verfahrens gemäß Artikel 54 der Verordnung (EU) 2019/6 |  |
+| 2.8.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist | nach Zeitaufwand |
+| 2.8.2 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | nach Zeitaufwand |
+| 3 | Zulassung eines immunologischen Tierarzneimittels im dezentralisierten Verfahren (DCP) gemäß Artikel 5 Absatz 1 in Verbindung mit Kapitel III Abschnitt 3 und 5 der Verordnung (EU) 2019/6 |  |
+| 3.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist | 10 000 bis 40 000 |
+| 3.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 7 000 |
 | 3.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 5 000 bis 18 000 |
-| 3.4 | Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung |  |
-| 3.4.1 | Durchführung des Verfahrens, wenn Deutschland Referenzmitgliedstaat (RMS) ist | 1 500 bis 6 000 |
-| 3.4.2 | Durchführung des Verfahrens, wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 500 bis 3 000 |
-| 4 | Maßnahmen bei Gefahr in Verzug nach § 11 Absatz 4 TierGesG |  |
-| 4.1 | Vorläufige Zulassung eines immunbiologischen Tierarzneimittels | 4 500 bis 15 000 |
-| 4.2 | Endgültige Zulassung desselben Tierarzneimittels nach Erteilung einer vorläufigen Zulassung | nach Bearbeitungsaufwand, jedoch nicht höher als die in Nummer 1.1 vorgesehene Gebühr |
-| 5 | Verlängerung der Zulassung eines immunologische Tierarzneimittels nach § 26 Absatz 1 TierImpfStV oder im Verfahren der gegenseitigen Anerkennung |  |
-| 5.1 | Verlängerung bei einem nur in Deutschland zugelassenen immunologischen Tierarzneimittels | 1 900 |
-| 5.2 | Verlängerung im MRP oder DCP wenn Deutschland Referenzmitgliedstaat ist | 3 100 |
-| 5.3 | Verlängerung im MRP oder DCP wenn Deutschland betroffener Mitgliedstaat ist | 1 800 |
-| 5.4 | wenn Deutschland im MRP oder DCP als Referenzmitgliedstaat ein Verlängerungsverfahren für zusätzliche Mitgliedsstaaten betreut und keine nationale Verlängerung mehr erforderlich ist | 1 500 bis 3 000 |
-| 5.5 | Erteilung einer Ausnahmeerlaubnis vom Erlöschen der Zulassung aus Gründen des Gesundheitsschutzes nach § 25 Absatz 1 Satz 3 TierImpfStV | 100 |
-| 6 | Bearbeitung von Anzeigen zur Änderung einer Zulassung nach der Verordnung (EG) Nr. 1234/2008 |  |
-| 6.1 | bei einer größeren Änderung im Sinne des Artikels 2 Nummer 3 der Verordnung (EG) Nr. 1234/2008 – Typ II-Änderung –, |  |
-| 6.1.1 | wenn das immunologische Tierarzneimittel nur in Deutschland zugelassen ist | 2 200 |
-| 6.1.2 | wenn Deutschland Referenzmitgliedstaat ist | 4 000 |
-| 6.1.3 | wenn Deutschland betroffener Mitgliedstaat ist | 1 800 |
-| 6.2 | bei einer geringfügigen Änderung im Sinne des Artikels 2 Nummer 5 der Verordnung (EG) Nr. 1234/2008 – Typ IB Änderung – |  |
-| 6.2.1 | wenn das immunologische Tierarzneimittel nur in Deutschland zugelassen ist | 800 |
-| 6.2.2 | bei MRP oder DCP-Zulassung, wenn Deutschland Referenzmitgliedstaat ist | 1 300 |
-| 6.2.3 | bei MRP oder DCP-Zulassung, wenn Deutschland betroffener Mitgliedstaat ist | 700 |
-| 6.3 | bei einer geringfügigen Änderung im Sinne des Artikels 2 Nummer 2 der Verordnung (EG) Nr. 1234/2008 – Typ IA Änderung –, |  |
-| 6.3.1 | wenn das immunologische Tierarzneimittel nur Deutschland zugelassen ist | 360 |
-| 6.3.2 | bei MRP oder DCP-Zulassung, wenn die Bundesrepublik Deutschland Referenzmitgliedstaat ist | 490 |
-| 6.3.3 | bei MRP oder DCP-Zulassung, wenn Deutschland betroffener Mitgliedstaat ist | 430 |
-| 6.4 | bei einer Erweiterung der Zulassung im Sinne des Artikels 2 Nummer 4 in Verbindung mit Anhang I der Verordnung (EG) Nr. 1234/2008 |  |
-| 6.4.1 | wenn das immunologische Tierarzneimittel nur in Deutschland zugelassen ist | 1 500 bis 5 000 |
-| 6.4.2 | bei MRP oder DCP-Zulassung, wenn die Bundesrepublik Deutschland Referenzmitgliedstaat ist | 4 500 bis 8 000 |
-| 6.4.3 | bei MRP oder DCP-Zulassung, wenn die Bundesrepublik Deutschland betroffener Mitgliedstaat ist | 1 000 bis 4 000 |
-| 6.5 | Wenn bei einem immunologischen Tierarzneimittel mehrere Änderungen nach den Nummern 6.1 bis 6.4 gleichzeitig beantragt oder mitgeteilt werden und dadurch ein wesentlich geringerer Aufwand entsteht |  |
-| 6.5.1 | für diejenige Änderung, für die nach den Nummern 6.1 bis 6.4 die höchste Gebühr vorgesehen ist | die in Nummer 6.1 bis 6.4 vorgesehene Gebühr |
-| 6.5.2 | für jede weitere Änderung | ein Viertel bis drei Viertel der jeweils in Nummer 6.1 bis 6.4 vorgesehenen Gebühr |
-| 6.6 | Wenn für mehrere immunologische Tierarzneimittel eines pharmazeutischen Unternehmers inhaltlich gleiche Änderungen nach den Nummern 6.1 bis 6.3 beantragt oder mitgeteilt werden |  |
-| 6.6.1 | für diejenige Änderung, für die nach den Nummern 6.1 bis 6.3 die höchste Gebühr vorgesehen ist | die in Nummer 6.1 bis 6.3 vorgesehene Gebühr |
-| 6.6.2 | für jede weitere Änderung | ein Viertel bis drei Viertel der jeweils in Nummer 6.1 bis 6.3 vorgesehenen Gebühr |
-| 6.7 | Wenn eine Änderung nach den Nummern 6.1 bis 6.4 eine Änderung der Zulassung in Bezug auf die Kennzeichnung oder die Packungsbeilage nach sich zieht, wird für diese Änderung keine Gebühr erhoben. |  |
-| 6.8 | Wenn die Übertragung einer Zulassung mitgeteilt wird | 100 |
-| 6.8.1 | für die Übertragung jeder weiteren Zulassung, soweit sie gleichzeitig beantragt wurde | 50 |
-| 7 | Ausnahmegenehmigung (sog. Feldversuchsgenehmigungen) nach § 11 Absatz 5 TierGesG |  |
-| 7.1 | nach § 11 Absatz 5 Nummer 1 TierGesG | 500 bis 2 000 |
-| 7.2 | nach § 11 Absatz 5 Nummer 2 TierGesG | 500 bis 2 000 |
-| 7.3 | Wenn der Antragsteller für denselben Versuch nach § 11 Absatz 5 Nummer 1 und 2 TierGesG die Einbeziehung weiterer Betriebe beantragt, pro Antrag | 250 |
-| 7.4 | Wenn der Antragsteller für denselben Versuch nach § 11 Absatz 5 Nummer 1 und 2 TierGesG die Verwendung einer weiteren Charge des zu prüfenden immunologischen Tierarzneimittels beantragt, je Charge | 230 |
-| 7.4.1 | Bei Verwendung bereits durch das PEI freigegebener Chargen, je Charge | 50 |
-| 8 | Bearbeitung eines regelmäßigen, aktualisierten Berichts über die Unbedenklichkeit des immunologischen Tierarzneimittels (PSUR) nach § 30 Absatz 6 Nummer 2 TierImpfStV |  |
-| 8.1 | wenn das immunologische Tierarzneimittel nur in Deutschland zugelassen ist | 850 |
-| 8.2 | bei MRP- oder DCP-Zulassung, wenn Deutschland Referenzmitgliedstaat ist | 2 200 |
-| 8.3 | bei MRP- oder DCP-Zulassung, wenn Deutschland betroffener Mitgliedstaat ist | 1 200 |
-| 9 | Überprüfung der Einhaltung der Vorschriften über die Sammlung und Auswertung von Daten zu unerwünschten Wirkungen von immunologischen Tierarzneimitteln nach § 24 Absatz 11 TierGesG (Pharmakovigilanzinspektionen) | 2 500 bis 20 000 |
-| 10 | Bearbeitung von Auflagen |  |
-| 10.1 | nachträgliche Anordnung oder Änderung einer Auflage nach § 23 Absatz 4 Satz 3 TierImpfStV | 1 000 bis 15 000 |
-| 10.2 | Überprüfung der Erfüllung einer im Rahmen eines durchgeführten Zulassungs- oder Änderungsverfahrens oder nachträglich angeordneten Auflage | 1 000 bis 15 000 |
-| 11 | Staatliche Chargenfreigabe nach § 32 TierImpfStV |  |
-| 11.1 | aufgrund der Prüfung der eingereichten Unterlagen (dokumentenbasierte Prüfung) |  |
-| 11.1.1 | für monovalente Impfstoffe, Seren, Immunmodulatoren, Tuberkuline und sonstige immunologische Tierarzneimittel | 210 |
-| 11.1.2 | für Impfstoffe mit 2-3 Komponenten | 210 |
-| 11.1.3 | für Impfstoffe mit 4-6 Komponenten | 250 |
-| 11.1.4 | für Impfstoffe mit 7 und mehr Komponenten | 260 |
-| 11.2 | Unter Durchführung experimenteller Prüfungen, soweit der Umfang dieser Prüfungen nach § 33 Absatz 2 Satz 2 TierImpfStV beschränkt ist, zusätzlich zu der Gebühr nach Nummer 11.1 |  |
-| 11.2.1 | je In-vitro-Test | 1 100 |
-| 11.2.2 | je In-vivo-Test | 2 500 |
-| 11.3 | aufgrund der Durchführung der nach § 33 Absatz 2 Satz 1 TierImpfStV vorgesehenen Untersuchungen | 500 bis zu der für eine Zulassung nach Nummer 1 jeweils vorgesehenen Gebühr |
-| 11.4 | aufgrund der Prüfergebnisse der zuständigen Stelle eines anderen Mitgliedstaats nach § 32 Absatz 4 Satz 2 TierImpfStV | 170 |
-| 11.5 | soweit für die beantragte Charge bereits ein EU-Zertifikat oder ein Chargenfreigabebescheid durch das Paul-Ehrlich-Institut erteilt wurde | 160 |
-| 11.6 | soweit mit dem Antrag auf Chargenfreigabe eines Kombinationsimpfstoffes für eine oder mehrere Komponenten ein EU-Zertifikat oder Chargenfreigabebescheid vorgelegt wurde, aber damit nicht alle Komponenten des Impfstoffs abdeckt werden | zusätzlich zu der Gebühr nach Nummer 11.4 oder 11.5 sind die Gebühren nach Nummer 11.1 oder 11.2 hinzuzuaddieren, die sich aus dem Umfang der Prüfung der zusätzlichen Komponenten ergeben |
-| 11.7 | wenn mehrere Chargen gleichzeitig freigegeben werden, die sich voneinander nur in der Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die Bezeichnung des Mittels unterscheiden |  |
-| 11.7.1 | für die erste Charge | die in Nummer 11.1 bis 11.3 vorgesehene Gebühr |
-| 11.7.2 | für jede weitere Charge | 150 |
-| 11.8 | für experimentelle Prüfungen einer Charge, soweit das Prüfmuster bereits vor Antragstellung eingereicht (sog. Paralleltestung), aber im Nachgang keine staatliche Chargenprüfung beschieden wird | die in Nummer 11.2.1 bis 11.2.2 vorgesehene Gebühr |
-| 11.9 | Erteilung eines sog. EU-Zertifikats als Official Medicinal Control Laboratory (OMCL) | die in Nummer 11.1 und 11.2 vorgesehene Gebühr |
-| 11.9.1 | soweit es sich um eine Charge handelt, die bereits durch das Paul-Ehrlich-Institut freigegeben wurde | 170 |
-| 11.10 | bei parallelimportierten oder –vertriebenen Arzneimitteln | 120 |
-| 12 | Beratungen zu den Verfahren nach TierGesG und TierImpfStV außerhalb eines laufenden Verwaltungsverfahrens – auch telefonisch – und deren Vor- und Nachbereitung sowie nicht einfache schriftliche Auskünfte je Mitarbeiter pro Stunde | 97 |
-| 13 | Zu den Gebühren dieses Abschnitts werden die Kosten für Bescheinigungen und Zweitschriften als Auslagen erhoben. | 50 je Ausfertigung |
+| 3.4 | Zulassung eines immunologischen Tierarzneimittels für einen begrenzten Markt (Limited Market) gemäß Artikel 23 der Verordnung (EU) 2019/6 |  |
+| 3.4.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist | 8 500 bis 25 000 |
+| 3.4.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 7 000 |
+| 3.4.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 3 500 bis 13 000 |
+| 3.5 | Zulassung eines immunologischen Tierarzneimittels unter außergewöhnlichen Umständen (Exceptional Circumstances) gemäß Artikel 25 der Verordnung (EU) 2019/6 |  |
+| 3.5.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist | 7 500 bis 24 000 |
+| 3.5.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 7 000 |
+| 3.5.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 2 500 bis 12 000 |
+| 3.6 | Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung gemäß Artikel 19 der Verordnung (EU) 2019/6 |  |
+| 3.6.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist | nach Zeitaufwand bis maximal 29 500 |
+| 3.6.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 7 000 |
+| 3.6.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 3 500 bis 13 000 |
+| 3.7 | Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung gemäß Artikel 21 der Verordnung (EU) 2019/6 |  |
+| 3.7.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist | 1 500 bis 6 000 |
+| 3.7.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter hinzukommenden Mitgliedstaat durchführt | 500 bis 2 000 |
+| 3.7.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 500 bis 3 000 |
+| 3.8 | bei einer erneuten Überprüfung des Bewertungsberichts auf Ersuchen des Antragstellers gemäß Artikel 50 der Verordnung (EU) 2019/6 zusätzlich zur Gebühr nach den Nummern 3.1, 3.4.1, 3.5.1, 3.6.1 oder 3.6.2 | nach Zeitaufwand |
+| 3.9 | Erhöhung der Gebühr nach den Nummern 3.1 bis 3.8 bei Durchführung des Verfahrens gemäß Artikel 54 der Verordnung (EU) 2019/6 |  |
+| 3.9.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist | nach Zeitaufwand |
+| 3.9.2 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | nach Zeitaufwand |
+| 4 | Bearbeitung der Änderung einer Zulassung |  |
+| 4.1 | bei einer Änderung, die eine Bewertung erfordert, gemäß den Artikeln 62 und 67 der Verordnung (EU) 2019/6 |  |
+| 4.1.1 | wenn das immunologische Tierarzneimittel nur in Deutschland zugelassen ist | 800 bis 5 000 |
+| 4.1.2 | wenn Deutschland Referenzmitgliedstaat (RMS) ist | 1 300 bis 8 000 |
+| 4.1.3 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 700 bis 4 000 |
+| 4.2 | bei einer Änderung, die keine Bewertung erfordert, gemäß den Artikeln 60 und 61 der Verordnung (EU) 2019/6 | 360 bis 1 300 |
+| 4.3 | wenn bei einem immunologischen Tierarzneimittel mehrere Änderungen nach Nummer 4.1 gleichzeitig beantragt werden und dadurch ein wesentlich geringerer Aufwand entsteht |  |
+| 4.3.1 | für diejenige Änderung, für die nach Nummer 4.1 die höchste Gebühr vorgesehen ist | die in Nummer 4.1 vorgesehene Gebühr |
+| 4.3.2 | für jede weitere Änderung | ein Viertel bis drei Viertel der in Nummer 4.1 vorgesehenen Gebühr |
+| 4.4 | wenn für mehrere immunologische Tierarzneimittel eines pharmazeutischen Unternehmers inhaltlich gleiche Änderungen nach Nummer 4.1 beantragt werden |  |
+| 4.4.1 | für diejenige Änderung, für die nach Nummer 4.1 die höchste Gebühr vorgesehen ist | die in Nummer 4.1 vorgesehene Gebühr |
+| 4.4.2 | für jede weitere Änderung | ein Viertel bis drei Viertel der in Nummer 4.1 vorgesehenen Gebühr |
+| 4.5 | Übertragung einer Zulassung auf einen anderen pharmazeutischen Unternehmer |  |
+| 4.5.1 | für die Übertragung einer Zulassung | 100 |
+| 4.5.2 | für die Übertragung jeder weiteren Zulassung, wenn sie gleichzeitig mitgeteilt wird | 50 |
+| 4.6 | Erhöhung der Gebühr nach den Nummern 4.1, 4.3 und 4.4 bei Durchführung des Verfahrens gemäß Artikel 54 der Verordnung (EU) 2019/6 |  |
+| 4.6.1 | wenn Deutschland Referenzmitgliedstaat (RMS) ist | nach Zeitaufwand |
+| 4.6.2 | wenn Deutschland betroffener Mitgliedstaat (CMS) ist | nach Zeitaufwand |
+| 5 | weitere individuell zurechenbare Leistungen im Zusammenhang mit der Zulassung |  |
+| 5.1 | Verlängerung einer Zulassung für einen begrenzten Markt (Limited Market) gemäß Artikel 24 Absatz 5 der Verordnung (EU) 2019/6 oder einer Zulassung unter außergewöhnlichen Umständen (Exceptional Circumstances) gemäß Artikel 27 Absatz 5 der Verordnung (EU) 2019/6 |  |
+| 5.1.1 | wenn das immunologische Tierarzneimittel nur in Deutschland zugelassen ist | 1 900 |
+| 5.1.2 | bei MRP- oder DCP-Zulassung, wenn Deutschland Referenzmitgliedstaat (RMS) ist | 3 100 |
+| 5.1.3 | bei MRP- oder DCP-Zulassung, wenn Deutschland betroffener Mitgliedstaat (CMS) ist | 1 800 |
+| 5.2 | Erteilung einer unbefristet gültigen Zulassung gemäß Artikel 24 Absatz 6 der Verordnung (EU) 2019/6 oder Artikel 27 Absatz 6 der Verordnung (EU) 2019/6 |  |
+| 5.2.1 | wenn das immunologische Tierarzneimittel nur in Deutschland zugelassen ist | nach Zeitaufwand |
+| 5.2.2 | bei MRP- oder DCP-Zulassung, wenn Deutschland Referenzmitgliedstaat (RMS) ist | nach Zeitaufwand |
+| 5.2.3 | bei MRP- oder DCP-Zulassung, wenn Deutschland betroffener Mitgliedstaat (CMS) ist | nach Zeitaufwand |
+| 5.3 | Anordnung befristeter Sicherheitsbeschränkungen gemäß Artikel 129 Absatz 1 Buchstabe c der Verordnung (EU) 2019/6 | nach Zeitaufwand |
+| 5.4 | Anordnung des Ruhens der Zulassung oder Aufforderung zur Änderung der Zulassungsbedingungen gemäß Artikel 130 der Verordnung (EU) 2019/6(EU) 2019/6 | nach Zeitaufwand |
+| 6 | Genehmigung des Parallelhandels mit einem immunologischen Tierarzneimittel gemäß Artikel 102 Absatz 3 der Verordnung (EU) 2019/6 | 1 500 |
+| 7 | Klinische Prüfungen |  |
+| 7.1 | Genehmigung gemäß Artikel 9 der Verordnung (EU) 2019/6 |  |
+| 7.1.1 | bei einer klinischen Prüfung mit einem nicht zugelassenen immunologischen Tierarzneimittel | 500 bis 2 000 |
+| 7.1.2 | bei einer klinischen Prüfung mit einem zugelassenen immunologischen Tierarzneimittel | 500 bis 2 000 |
+| 7.2 | Bearbeitung genehmigungspflichtiger Änderungen | 50 bis 250 |
+| 7.3 | Bearbeitung sonstiger von Nummer 7.2 nicht erfasster Änderungen je betroffener klinischer Prüfung | 50 bis 250 |
+| 7.4 | Anordnung des Ruhens der Genehmigung | nach Zeitaufwand |
+| 8 | Pharmakovigilanz |  |
+| 8.1 | Inspektion des Pharmakovigilanz-Systems gemäß Artikel 126 Absatz 3 der Verordnung (EU) 2019/6 und Inspektion der Pharmakovigilanz-Stammdokumentation gemäß Artikel 126 Absatz 4 der Verordnung (EU) 2019/6 | 2 500 bis 20 000 |
+| 8.2 | Maßnahmen gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6 |  |
+| 8.2.1 | Prüfung und Bewertung weiterer Pharmakovigilanz-Daten über Artikel 73 Absatz 3 der Verordnung (EU) 2019/6 hinaus gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6 | nach Zeitaufwand |
+| 8.2.2 | Prüfung und Bewertung einer Studie zur Überwachung nach dem Inverkehrbringen (Post-Marketing-Studien) gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6 und Artikel 15 der Durchführungsverordnung (EU) 2019/6 | nach Zeitaufwand |
+| 8.3 | Anordnung geeigneter Maßnahmen nach den Artikeln 129 und 130 der Verordnung (EU) 2019/6 gemäß Artikel 81 Absatz 6 der Verordnung (EU) 2019/6 | nach Zeitaufwand |
+| 9 | Nachweis der Produktqualität, Chargenprüfung |  |
+| 9.1 | Durchführung einer dokumentenbasierten Prüfung gemäß Artikel 128 Absatz 1 in Verbindung mit Artikel 127 der Verordnung (EU) 2019/6 |  |
+| 9.1.1 | für monovalente Impfstoffe, Seren, Immunmodulatoren, Tuberkuline und sonstige immunologische Tierarzneimittel | 210 |
+| 9.1.2 | für Impfstoffe mit zwei bis drei Komponenten | 210 |
+| 9.1.3 | für Impfstoffe mit vier bis sechs Komponenten | 250 |
+| 9.1.4 | für Impfstoffe mit sieben und mehr Komponenten | 260 |
+| 9.2 | Durchführung einer experimentellen Prüfung gemäß Artikel 128 Absatz 3 in Verbindung mit Absatz 6 der Verordnung (EU) 2019/6 zusätzlich zur Gebühr nach Nummer 9.1 |  |
+| 9.2.1 | je In-vitro-Test | 1 100 |
+| 9.2.2 | je In-vivo-Test | 2 500 |
+| 9.3 | Durchführung einer experimentellen Prüfung gemäß Artikel 128 Absatz 3 in Verbindung mit Absatz 5 der Verordnung (EU) 2019/6 | 500 bis zu der für eine Zulassung nach Nummer 1 jeweils vorgesehenen Gebühr |
+| 9.4 | aufgrund der Prüfergebnisse der zuständigen Stelle eines anderen Mitgliedstaates gemäß Artikel 128 Absatz 7 der Verordnung (EU) 2019/6 | 170 |
+| 9.5 | bei parallel gehandelten Tierarzneimitteln | 120 |
+| 9.6 | Durchführung einer experimentellen Prüfung, wenn das Prüfmuster bereits vor Antragstellung eingereicht wird (sog. Paralleltestung), aber im Nachgang keine Chargenfreigabe beantragt wird | die in Nummer 9.2 vorgesehene Gebühr |
+| 9.7 | Überprüfung der Verfahren gemäß Artikel 128 Absatz 10 der Verordnung (EU) 2019/6 | nach Zeitaufwand |
+| 9.8 | Erteilung eines EU-Zertifikates als Official Medicinal Control Laboratory (OMCL) gemäß Artikel 128 Absatz 7 der Verordnung (EU) 2019/6 | die in Nummer 9.1 oder Nummer 9.2 vorgesehene Gebühr |
+| 9.8.1 | wenn die beantragte Charge bereits durch das Paul-Ehrlich-Institut freigegeben wurde | 160 |
+| 9.8.2 | wenn es sich um eine Charge handelt, die sich von einer ersten Charge, die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für die bereits ein EU-Zertifikat erteilt wurde, nur durch die Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die Bezeichnung des Mittels unterscheidet | 160 |
+| 9.9 | die nach Nummer 9.1 zu erhebende Gebühr ist auf Antrag des Gebührenschuldners zu ermäßigen |  |
+| 9.9.1 | wenn für die beantragte Charge bereits ein EU-Zertifikat durch das Paul-Ehrlich-Institut erteilt wurde | 160 |
+| 9.9.2 | wenn es sich um eine Charge handelt, die sich von einer ersten Charge, die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für die bereits ein EU-Zertifikat erteilt wurde, nur durch die Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die Bezeichnung des Mittels unterscheidet | 160 |
+| 9.9.3 | wenn mit dem Antrag auf Chargenfreigabe eines Kombinationsimpfstoffes für eine Komponente oder mehrere Komponenten ein EU-Zertifikat oder Chargenfreigabebescheid vorgelegt wurde, aber damit nicht alle Komponenten des Impfstoffs abdeckt werden | 160 bis 210 |
+| 9.10 | die nach Nummer 9.2 zu erhebende Gebühr ist auf Antrag des Gebührenschuldners zu ermäßigen, |  |
+| 9.10.1 | wenn für die beantragte Charge bereits ein EU-Zertifikat durch das Paul-Ehrlich-Institut erteilt wurde | 160 |
+| 9.10.2 | wenn es sich um eine Charge handelt, die sich von einer ersten Charge, die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für die bereits ein EU-Zertifikat erteilt wurde, nur durch die Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die Bezeichnung des Mittels unterscheidet | 160 |
+| 9.10.3 | wenn mit dem Antrag auf Chargenfreigabe eines Kombinationsimpfstoffes für eine Komponente oder mehrere Komponenten ein EU-Zertifikat oder Chargenfreigabebescheid vorgelegt wurde, aber damit nicht alle Komponenten des Impfstoffs abdeckt werden | 160 bis 210 |
+| 10 | sonstige individuell zurechenbare Amtshandlungen |  |
+| 10.1 | je Beratung zu den Verfahren nach der Verordnung (EU) 2019/6 des Tiergesundheitsgesetzes und der Tierimpfstoff-Verordnung außerhalb eines laufenden Verwaltungsverfahrens, auch telefonisch, einschließlich der Vor- und Nachbereitung der Beratung, je Beratung sowie jeweils für eine wissenschaftliche Stellungnahme, ein Gutachten oder eine nicht einfache schriftliche Auskunft | 200 bis 6 000 |
+| 10.2 | Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren oder ein Verfahren nach dem Informationsfreiheitsgesetz, dem Verbraucherinformationsgesetz oder dem Umweltinformationsgesetz anhängig | 25 bis 250 |
+| 10.3 | Bescheinigungen und Zweitschriften, auch einschließlich Siegeln, sofern ein amtliches Siegel nicht erforderlich ist, je Ausfertigung | 50 |
+| 10.4 | Entscheidung über einen Antrag auf Wiedereinsetzung in den vorigen Stand gemäß § 32 des Verwaltungsverfahrensgesetzes (VwVfG) | 250 |
+| 11 | Ermäßigungen |  |
+| 11.1 | Ermäßigung der Gebühren nach den Nummern 1 bis 4, 5.1, 5.2 und 7, wenn der Antragsteller substantiiert darlegt und belegt, dass er einen den Entwicklungs-, Herstellungs-, Zulassungs- oder Genehmigungskosten angemessenen wirtschaftlichen Nutzen nicht erwarten kann und dass an dem Inverkehrbringen des Arzneimittels aufgrund des Anwendungsgebietes ein öffentliches Interesse besteht | um 25 Prozent |
+| 11.2 | Ermäßigung der Gebühren nach den Nummern 1 bis 4, 5.1, 5.2 und 7, wenn zusätzlich zu den Voraussetzungen nach Nummer 11.1 die Anwendungsfälle selten sind oder die Zielgruppe, für die das Arzneimittel bestimmt ist, klein ist | um 50 Prozent |
+| 11.3 | Ermäßigung der Gebühren nach Nummer 7, wenn eine klinische Prüfung durchgeführt wird ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen. | um 25 Prozent |
 Abschnitt 16
 Saatgutverkehrsgesetz (SaatG) und Sortenschutzgesetz (SortG)
 Vorbemerkung

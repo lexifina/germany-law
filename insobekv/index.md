@@ -1,5 +1,4 @@
-# Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren
-im Internet
+# Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren und Restrukturierungssachen im Internet
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Grundsatz](0001.md)
