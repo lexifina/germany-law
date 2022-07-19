@@ -1,0 +1,141 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-07-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891402
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891402
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Antrag Lieferzeiten Rudi-Hierl-Platz
+- TOP 6.2.: Grundstücke in Erbpacht
+- TOP 6.3.: Ehemaliges Studentenwohnheim Paulinum für Geflüchtete schnellstmöglich zugänglich machen
+- TOP 6.4.: Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden – Leerstand Mehrfamilienhaus Gabelsbergerstr. 39
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Grünflächen z.B. im Alten Nordfriedhof
+- TOP 1.1.2.: GrünPatenKonzept Stadt München
+- TOP 1.1.3.: Anfrage mehr Grün im Arnulfpark
+- TOP 1.1.4.: Änderung des GrünPatenKonzept Stadt München
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Pilotprojekt nummerierte Parkbänke auch im Alten nördlichen Friedhof umsetzen
+- TOP 1.2.2.: Prüfung der Installation von Solarmodulen auf den Dächern der Schwindschule und der Schu-le an der Dachauer Straße
+- TOP 1.2.3.: Leerstand in der Amalienstr. 55
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 23 - 26
+- TOP 2.1.2.: WEB-Listen der LBK: KW 22 - 25
+- TOP 2.1.3.: entfällt
+- TOP 2.1.4.: Schellingstr. 18, Neubau eines Mehrfamilienhauses (10 WE) mit Mobilitätskonzept
+- TOP 2.1.5.: Steinheilstr.7, Umbau eines Hotels zu studentischem Wohnen
+- TOP 2.1.6.: Dachauer Str. 74, VORBESCHEID, Abbruch von Garagen und Neubau eines Büros und Wohngebäudes
+- TOP 2.1.7.: Nymphenburger Str. 67, Neubau eines Wohnhauses mit Tiefgarage, Abbruch eines Garagengebäudes
+- TOP 2.2: Budget
+- TOP 2.2.1.: (E) Stadtbezirksbudget Urbanes Wohnen, Natur Kultur-Werkstatt Verbesserung des Platzes Ecke Schelling - Luisenstraße vom 22.07. - 30.12.2022 1.350,00 Euro, Az.: 0262.0-3-0416
+- TOP 2.3: Budget
+- TOP 2.3.1.: (E) Stadtbezirksbudget Urbanes Wohnen, Natur Kultur-Werkstatt Aufwertung des Ferdinand-Miller-Platzes vom 22.07. - 30.12.2022 3.200,00 Euro, Az. 0262.0-3-0415
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Schellingstr. 18, beantragte Baumfällungen
+- TOP 3.1.2.: Stellungnahmeersuchen für: 9.41 Gen.verfahren BaumSchVO- Maillingerstr. 15
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag vom 17.06.2022 auf dem Grundstück Kaulbachstr. 36
+- TOP 3.2.2.: Fällungsantrag vom 15.06.2022 auf dem Grundstück Neureuther Str. 20
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Gentrifizierung Schönfeldviertel; Abriss Schönfeldstr. 14; Antwort des OB Reiter vom 08. Juni 2022 auf meine Anfrage vom 06. Mai 2022 z.K. Brief des OB als Antwort auf Bürgerschreiben
+- TOP 5.2.: Bescheid Vollzug der BaumschutzVO Adalbertstr. 55
+- TOP 5.3.: Eilentscheid Steinheilstr. 14, Aufstockung und Dachgeschossausbau, TEKTUR | Anhörungs-frist:08.07.2022
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: 2 Anträge w/Hundekot und Neugestaltung Platz Barerstr/Ecke Nordendstr.
+- TOP 1.1.2.: Mülleimer Georgenstr Ecke Schwarzmannstr
+- TOP 1.1.3.: Bürgeranliegen: Radwegzustand Görresstraße
+- TOP 1.1.4.: Anregung für weitere öffentliche Fahrradabstellanlagen
+- TOP 1.1.5.: Neureutherstraße - Eigentümerversammlung Fahrradparkplätze
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Verkehrskontrollen in der Theresienstraße und Gabelsbergerstraße verstärken – Fußgänger, insbesondere Mobilitätseingeschränkte und Menschen mit Kinderwägen schützen
+- TOP 1.2.2.: Nachfrage – Bearbeitung Antrag Trixispiegel für die Kreuzung Arcis-/Adalbertstraße
+- TOP 1.2.3.: Fahrbahnverengung Baustelle Türkenstraße 2022
+- TOP 1.2.4.: Verbesserung der Verkehrssicherheit an der Kreuzung Karl- /Blutenburg- / Pappenheimstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: BA-Anhörung Altstadtring Nordwest, Straßenumbau mit Neugestaltung der Freiflächen
+- TOP 2.1.2.: (E) + (U) Sicherer Fußgängerverkehr an der Baustelle in der Türkenstr. 52 Empfehlung Nr. 20-26 / E 00132 der Bürgerversammlung des Stadtbezirkes 03 – Maxvorstadt am 09.07.2021
+- TOP 2.1.3.: Erinnerungsverfahren Stiglmaierplatz Radweg
+- TOP 2.1.4.: Verkehrsrechtliche AO Adalbertstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: (E) Stadtbezirksbudget Lehrstuhl für Siedlungsstruktur und Verkehrsplanung, TU München Parklet für die Steinheilstraße vom 03.08. - 31.10.2022 3.500,00 Euro, Az.: 0262.0-3-0417
+- TOP 2.2.2.: Postkartenständer vor der Augustenstr. 45
+- TOP 2.2.3.: Schreiben des BA 4 an den BA 3 Einrichten einer Lastenradstation vor dem eigenleben
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: EC 2022 - Anhörungsverfahren für "SideEvents- Innenstadt"
+- TOP 2.4.2.: Info-VA auf öffentlichen Verkehrsgrund - Bayern-Tour 2022 der FDP-Fraktion am 01.08.2022, Veterinärstr. 13
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Eilentscheid: Anhörung § 29 StVO für Pfarrfest St. Benno am 09.07.22
+- TOP 3.2.: PFB im Verfahren "Integrierte Gesamtlösung Hauptbahnhof München"
+- TOP 3.3.: Absolutes Haltverbot in der Adalbertstr. zur Kenntnisnahme
+- TOP 3.4.: Information über Laufwegeerneuerungen auf der U1/U2 im Bereich Hauptbahnhof
+- TOP 3.5.: Antwort BI auf Bürgeranliegen zur Feiermeile und BiergartenVO
+- TOP 3.6.: SWM Baumaßnahme FK-Projekt Arnulfstraße - BA 03 (Allach - Untermenzing)
+- TOP 3.7.: Antwort MOR auf Bürger*innenanliegen Türkenstraße, Parken neben sog. Schanigärten
+- TOP 3.8.: Fahrradstellplätze in der Gaiglstraße 1 auf gegenüber
+- TOP 3.9.: Versetzung der Fahrradabstellanlage in der Türkenstraße 80
+- TOP 3.10.: Antwort KVR auf Bürger*innenanliegen Ihre Anfrage auf Abgleich Anwohnertiefgaragennut-zung Erzgiessereistr. 14/ Linprunstr. 18 und Ausgabe Lizenzen im Parklizenzgebiet St.-Benno-Viertel / Umgang mit gewerblichen Fahrzeugen im Bereich Bewohnerparken
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Beschmierte Schulmauer der Grundschule Dachauer Straße in der Heßstraße professionell gestalten
+- TOP 1.2.2.: Spielplätze verschönern in der Maxvorstadt - Maßnahmen am Spielplatz Königsplatz
+- TOP 1.2.3.: Spielplätze verschönern in der Maxvorstadt - Maßnahmen am Spielplatz Blutenburgstraße
+- TOP 1.2.4.: Durch den Einsatz des Demokratiemobils politische Teilhabe ermöglichen!
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Antwort auf Schreiben des BA3 zum Mehrjahresinvestitionsprogramm 2022-2026
+- TOP 4.2.: Antwort auf Rückmeldung zur Schul- und Kitabauoffensive – Beschlussvorlage des Bildungsausschusses vom 04.05.2022
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Inzinger & Pirron GbR Popup Sommerkino vom 15.07. - 06.08.2022 4.500,00 Euro, Az.: 0262.0-3-0414
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative U-Bahn-Galerie Flyer U-Bahn-Galerie vom 01.07.2022 - 31.06.2023 770,00 Euro, Az.: 0262.0-3-0413
+- TOP 2.3.: (E) Stadtbezirksbudget Deutsch-Japanische Gesellschaft in Bayern e.V. Japanfest 2022 am 17.07.2022 967,33 Euro, Az.: 0262.0-3-0408
+- TOP 2.4.: (E) Stadtbezirksbudget zb Media GmbH LETsDOK Dokumentarfilmetage vom 12. - 18.09.2022 2.200,00 Euro, Az.: 0262.0-3-0418
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.2.: Sitzungstermine für 2023
+- TOP 1.3.: Reservierung Oktoberfest
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 5.2.1.: Vorstellung der Oberflächengestaltung Altstadtring Nordwest
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 1.1.: Ferienausschuss im August 2022 Benennung der Mitglieder durch die Fraktionen Wahl der*des Ferienausschussvorsitzenden Vertretungsregelung
