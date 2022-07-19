@@ -1,0 +1,173 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2022-07-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6851113
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6851113
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.1.: Beschluss über die Amtsniederlegung und die Nachfolgeregelung
+- TOP 1.4.2.: Vereidigung der Nachrückerin
+- TOP 1.4.3.: Besetzung der Unterausschüsse
+- TOP 1.5: Beschluss über die Einrichtung eines Ferienausschusses
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Initiative „mehrzweckraum“ Lesung und Musik am 14.07.2022 469,50 € / Az. 0262.0-18-0299
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Familienkreis Hl. Familie e.V. Kultur im Kirchhof „Der Gott des Gemetzels“ am 29.10.2022 1.740,00 € / Az. 0262.0-18-0297
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Familienkreis Hl. Familie e.V. Kultur im Kirchhof „Open Jazz Night“ am 14.07.2022 2.555,00 € / Az. 0262.0-18-0296
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Familienkreis Hl. Familie e.V. Café Familientreff 2022 4.248,90 € / Az. 0262.0-18-0295
+- TOP 3.1.2.5.: (E) Stadtbezirksbudget Initiative „Halt 58“ Kunstprojekt am Halt 58 am 28.05.2022 1.000,00 € / Az. 0262.0-18-0301
+- TOP 3.1.2.6.: (E) Stadtbezirksbudget Initiative Lastenfahrrad Anschaffung eines Lastenfahrrades für 5 Kinder 2.608,70 € / Az. 0262.0-18-0302
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Zwischenbericht zum Filmprojekt: Von Ruinen zum Rock’n‘Roll - München nach 1945
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Streetballanlage Wörnbrunner Platz; Bürgeranliegen
+- TOP 3.2.3.2.: Fit im öffentlichen Raum – Sportboxen für Untergiesing und Harlaching; CSU-Antrag
+- TOP 3.2.3.3.: Zustand der Wiese am Säbener Platz nach dem Burschenfest; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Glättung der beiden Tischtennisplatten am Athener Platz
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Abdruck Ausnahmegenehmigung: Sommerfest der Wichtel Akademie am 25.06.2022 - Grünanlage Athener Platz
+- TOP 3.2.6.2.: Abdruck Ausnahmegenehmigung: Harlachinger Burschenfest 2022 vom 03.06. - 06.06.2022 - Grünanlage Festwiese an der Oberbibergerstr.
+- TOP 3.2.6.3.: Abdruck Ausnahmegenehmigung: Straßentheater PLAN B - Grünanlage Vollmarpark
+- TOP 3.2.6.4.: Abdruck Ausnahmegenehmigung: Sommerfest der Anwohner - Grün(steifen)anlage am Rondell der Steingadener Str.
+- TOP 3.2.6.5.: Eilentscheidung des BA-Vorsitzenden: Fromundstraßenfest des Kreisjugendrings am 15.07.2022
+- TOP 3.2.6.6.: Eilentscheidung des BA-Vorsitzenden: "OPEN - Q" Auftaktveranstaltung am 08.07.-10.07.2022 am St- Quirin Platz
+- TOP 3.2.6.7.: Eilentscheidung des BA-Vorsitzenden: Kulturspaziergang am 16.07.2022 - Grünanlagen am Laurinplatz
+- TOP 3.2.6.8.: Eilentscheidung des BA-Vorsitzenden: Wiedereröffnungsfeier der Boulderwand "Dicker Hans" am 10.07.2022 - Candidbrücke
+- TOP 3.2.6.9.: Abdruck Ausnahmegenehmigung: Sommerfest der Kinderwelt Harlaching am 25.06.2022 - Grünanlage an der Oberbiberger Str., Wiese neben dem Kindl Heim
+- TOP 3.2.6.10.: Abdruck der Erlaubnis: Flohmarkt des Kirschbaumkindergarten e.V. am 03.07.2022 am Hans-Mielich-Platz
+- TOP 3.2.6.11.: Abdruck Erlaubnis und Gestattung: "OPEN - Q Auftaktveranstaltung" vom 08.07.-10.07.2022 am St-Quirin Platz
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Gans Kreativ GmbH: Parkplatzbereitstellung bez. "Winterrausch" im Hexenhaus; Bürgeranliegen
+- TOP 3.3.3.2.: AKTIVE Bürgerbeteiligung bei künftigen baulichen Veränderungen im Bereich der Mobilität fördern; CSU-Antrag
+- TOP 3.3.3.3.: Behindertenstellplätze an allen S- und U-Bahnhaltestellen sowie großen Bus- und/oder Tramhaltestellen; Bürgeranliegen
+- TOP 3.3.3.4.: Prüfung und Ausweisung von Fahrradstraßen; Bürgeranliegen
+- TOP 3.3.3.5.: Dichtere Taktung der Buslinie 139 während der Bauarbeiten der Tramlinie 25 ermöglichen; Antrag der JU Harlaching
+- TOP 3.3.3.6.: Birkenau 10-12: Errichtung von Fahrradparkplätzen; Bürgeranliegen
+- TOP 3.3.3.7.: Transparenter Zaun zur Sicherheit des Radverkehrs an der Bäckermühle (Lohstraße); Bürgeranliegen
+- TOP 3.3.3.8.: Modernisierung und barrierefreier Ausbau der Haltestelle Stettner Straße (MVV-Regionalbus 220); SPD-Antrag
+- TOP 3.3.3.9.: Halteverbot vor der Tiefgarageneinfahrt Naupliastraße 108; Grünen-Antrag
+- TOP 3.3.3.10.: Verkehrssituation am Tierpark verbessern: „IsarTiger“ von U-Bahn Thalkirchen zu U-Bahn Mangfallplatz; Grünen-Antrag
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Abfrage des Stadtteilzentrums im jeweiligen Stadtbezirk
+- TOP 3.3.4.2.: Teutoburger Str. 8: Anfahrtszone für Krankentransporte
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Umprofilierung der St.-Magnus-Straße zwischen Tiroler Platz und Naupliastraße
+- TOP 3.3.5.2.: Fahrradabstellplätze an der Nordseite der Straße Wettersteinplatz nahe Ecke Reginfriedstraße schaffen
+- TOP 3.3.5.3.: Parkdruck in Untergiesing-Harlaching
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Information über Laufwege-Erneuerungen auf den Linien U1/U2
+- TOP 3.3.6.2.: Runder Tisch mit den E-Tretroller-Anbietern am 23.03.2022
+- TOP 3.3.6.3.: Reinigung der Straßenschilder rund um den Griechen- und den Athener Platz
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Verbesserung der Müllreinigung im Stadtbezirk
+- TOP 3.4.5.2.: Aufbewahrungsbox für Clean-Up-Gruppen
+- TOP 3.4.5.3.: St.-Magnus-Straße: Baumpflanzungen nach Radwegumbau
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Nächtliche Straßenbauarbeiten Humboldtstr. / Kreuzungsbereich Claude-Lorrain-Str. - Vollzug der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 3.4.6.2.: Nächtliche Schweiß- und Schleifarbeiten im Bereich Wettersteinplatz; Vollzug des Bundes-Immisisonsschutzgesetzes (BImSchG) und der Geräte-und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 3.4.6.3.: Gerhardstraße: Entfernung eines Gefahrenbaums
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: (U) Anhörungsverfahren zur Änderung der Förderschulorganisation in der Landeshauptstadt München; Sprengeländerung bzw. -errichtung der Förderzentren - Förderzentrum mit Schwerpunkt geistige Entwicklung an der Fehwiesenstraße - Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung an der Klenzestraße
+- TOP 3.5.6.2.: Aktuelle Versorgungssituation für Long-COVID-Patient*innen in München
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: Sondernutzungserlaubnis (Antrag für eine Freischankfläche): "Le Kitchen"
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Grünwalder Str. 114: Neubau der 60er Alm, Temporäre Genehmigung für 5 Jahre
+- TOP 3.6.4.1.2.: Bruggspergerstr. 48: Neubau eines Mehrfamilienhauses mit Tiefgarage (Tektur)
+- TOP 3.6.4.1.4.: Grünwalder Str. 14a: Neubau Seniorenwohnanlage Giesing - VORBESCHEID
+- TOP 3.6.4.1.5.: Kühbachstr. 9: Nutzungsänderung eines Büros zu Beratung mit Verwaltung im 2.OG (Kühbachstr. 9) sowie Nutzungsänderung eines Fitness-Studios zu Büro im 4. u. 5.OG (Pilgersheimer Str. 34-38)
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: SWM-Baumaßnahme: Strom-Projekt in der Schönstraße
+- TOP 3.6.6.2.: SWM-Baumaßnahme: Trinkwasser-Projekt in der Claude-Lorrain-Straße
+- TOP 3.6.6.3.: SWM-Baumaßnahme: Strom-Projekt in der Vintschgauer Straße
+- TOP 3.6.6.4.: Bevorstehende Kanalsanierungsmaßnahmen im Bezirk 18
+- TOP 3.6.6.5.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 3.6.6.6.: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 3.6.6.7.: Schmorellplatz 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6.6.8.: Aufstellungsbeschluss zur Änderung des Bebauungsplanes Nr. 756
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Virtuelle Tagungsmöglichkeiten für Unterausschüsse in Form von informellen Arbeitsgruppen ab 14.07.2022 nicht mehr möglich
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.4.1.: Anhörungen (Baumfällungen): - Athener Str. 28 - Naupliastr. 52 - Schönstr. 36 - Schönstr. 50 - Stadelbergstr. 3 - Tierparkstr. 30
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.4.1.3.: Sommerstr. 44: Dachgeschossausbau VGB, Einbau von Bädern im RGB, Neubau RGB - VORBESCHEID
