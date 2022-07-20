@@ -530,7 +530,7 @@ Lebens- und Geheimbereichs
 - [§ 218b Schwangerschaftsabbruch ohne ärztliche Feststellung; unrichtige ärztliche Feststellung](0218b.md)
 - [§ 218c Ärztliche Pflichtverletzung bei einem Schwangerschaftsabbruch](0218c.md)
 - [§ 219 Beratung der Schwangeren in einer Not- und Konfliktlage](0219.md)
-- [§ 219a Werbung für den Abbruch der Schwangerschaft](0219a.md)
+- [§ 219a (weggefallen)](0219a.md)
 - [§ 219b Inverkehrbringen von Mitteln zum Abbruch der Schwangerschaft](0219b.md)
 - [§ 219c (weggefallen)](0219c.md)
 - [§ 219d (weggefallen)](0219d.md)

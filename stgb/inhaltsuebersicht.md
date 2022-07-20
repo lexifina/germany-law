@@ -545,7 +545,7 @@
 |  | § 218b | Schwangerschaftsabbruch ohne ärztliche Feststellung; unrichtige ärztliche Feststellung |
 |  | § 218c | Ärztliche Pflichtverletzung bei einem Schwangerschaftsabbruch |
 |  | § 219 | Beratung der Schwangeren in einer Not- und Konfliktlage |
-|  | § 219a | Werbung für den Abbruch der Schwangerschaft |
+|  | § 219a | (weggefallen) |
 |  | § 219b | Inverkehrbringen von Mitteln zum Abbruch der Schwangerschaft |
 |  | §§ 220 | und 220a (weggefallen) |
 |  | § 221 | Aussetzung |
