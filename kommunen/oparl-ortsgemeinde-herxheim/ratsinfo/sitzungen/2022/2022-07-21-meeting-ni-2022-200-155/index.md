@@ -1,0 +1,55 @@
+# 29. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2022-07-21T18:30:00+02:00
+- Ende: 2022-07-21T21:15:00+02:00
+- Ort: Elmar-Weiller-Festhalle, großer Saal, Bonifatiusstraße 22, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2022-200-155
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2022-200-155
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2022-200-155
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-200-155
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-200-155
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Antrag zur Aufnahme in das Städtebauförderprogramm
+- TOP 3: Bebauungsplan 'Quartier Obere Hauptstraße 32-36 u. 45 II'
+- TOP 4: Bebauungsplan 'Obere Hauptstraße 107-117'
+- TOP 5: Bebauungsplan 'Süd-West, 5. Änderung'
+- TOP 6: Bebauungsplan 'Süd-West, 6. Änderung'
+- TOP 7: Bebauungsplan 'Panzergraben-Süd, Neuaufstellung'
+- TOP 8: Widmung von Gemeindestraßen
+- TOP 9: Stellungnahme zum Parkkonzept in der Hauptstraße in Hayna
+- TOP 10: Feststellung des Jahresabschlusses 2021 für das Altenzentrum St. Josef
+- TOP 11: Benutzungsordnung mit Benutzungsentgelten für das Waldstadion Herxheim
+- TOP 12: Änderung der Benutzungsordnung mit Benutzungsentgelten für die Mehrzweckhalle Hayna
+- TOP 13: Änderung der Benutzungsordnung mit Benutzungsentgelten für das Bürgerhaus Hayna
+- TOP 14: Breitbandausbau Zweckvereinbarung zur Übertragung von Aufgaben des Gigabitausbaus auf die Verbandsgemeinde
+- TOP 15: Durchführung des Bundesberggesetzes (BBergG) Hauptbetriebsplan für explorationsseismische Messungen
+- TOP 16: Neufestsetzung des Kaufpreises für Brennholz aus dem Gemeindewald
+- TOP 17: Erweiterung der Urnenstele auf dem Friedhof Herxheim
+- TOP 18: Umgestaltung des neuen Grabfeldes 'Mein letzter Garten' auf dem Friedhof Herxheim
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Mitteilungen und Anfragen
+- TOP 20.1: Bericht über den Stand des Haushaltsvollzugs zum 30.06.2022 (Zwischenbericht)
+- TOP 20.2: Mitteilungen und Anfragen Aufnahme eines weiteren Investitionsdarlehens in Höhe von 1.218.000 EUR zur Finanzierung der Maßnahme 'Umbau und Erweiterung des Altenzentrums St. Josef'
+- TOP 20.3: Mitteilungen und Anfragen; Stimmungsbild Geschwindigkeitsüberwachung
+- TOP 20.4: Mitteilungen und Anfragen; Kunst am Bau für die Kita Am Wingertsberg - Entscheidung Preisgericht
+- TOP 20.5: Mitteilungen und Anfragen; Sachstand Kita Am Wingertsberg
+- TOP 20.6: Mitteilungen und Anfragen; Sachstand zur Baumaßnahme Kita Am Wingertsberg
+- TOP 20.7: Mitteilungen und Anfragen; Information über erfolgte Auftragsvergaben
+- TOP 20.8: 
+- TOP 20.9: 
+- TOP 20.10: 
+- TOP 20.11: 
+- TOP 20.12: 
+- TOP 20.13: 
+- TOP 20.14: 
+- TOP 20.15: 
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
