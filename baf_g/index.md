@@ -28,7 +28,7 @@
 - [§ 14a Zusatzleistungen in Härtefällen](0014a.md)
 - [§ 14b Zusatzleistung für Auszubildende mit Kind (Kinderbetreuungszuschlag)](0014b.md)
 - [§ 15 Förderungsdauer](0015.md)
-- [§ 15a Förderungshöchstdauer](0015a.md)
+- [§ 15a Förderungshöchstdauer, Verordnungsermächtigung](0015a.md)
 - [§ 15b Aufnahme und Beendigung der Ausbildung](0015b.md)
 - [§ 16 Förderungsdauer im Ausland](0016.md)
 - [§ 17 Förderungsarten](0017.md)

@@ -2,7 +2,7 @@
 
 1. Funktionale Beschreibung
   Ziel der funktionalen Beschreibung ist es, die technischen Grundlagen der Funktionen des Kraftfahrzeugs und die nötigen Bedingungen des sicheren Betriebs sowie die Umsetzung der Vorgaben des Datenschutzes und der Datensicherheit darzulegen. Die Systematik der funktionalen Beschreibung muss dem Stand der Technik entsprechen. Dies gilt als erfüllt, wenn die Vorgaben der ISO 26262-3:2018-12 Straßenfahrzeuge – Funktionale Sicherheit – Teil 3: Konzeptphase eingehalten werden. Die funktionale Beschreibung muss die folgenden Themen behandeln:
-  1.1 Betriebsbereich des Kraftahrzeugs mit autonomer Fahrfunktion (zum Beispiel Personenbeförderung im Verkehr zwischen festgelegten Stationen),
+  1.1 Betriebsbereich des Kraftfahrzeugs mit autonomer Fahrfunktion (zum Beispiel Personenbeförderung im Verkehr zwischen festgelegten Stationen),
   1.2 Technische Beschreibung (Blockschaltbilder, Schnittstellen zu anderen Fahrzeugsystemen),
   1.3 Beschreibung der geforderten Funktionen des Kraftfahrzeugs und der Systemzustände (zum Beispiel Fahrt mit aktivierter autonomer Funktion, sonstige Fahrmodi, risikominimaler Zustand),
   1.4 Zum reibungslosen Betrieb nötige Umweltbedingungen (zum Beispiel Sichtbedingungen, Wetterbedingungen, Fahrbahnzustand),
