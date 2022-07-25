@@ -1,0 +1,60 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-07-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6907064
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6907064
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Benennung Beauftragte*r Wirtschaft (-> vertagt aus Sitzung am 27.06.2022)
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Beschilderung Radweg Dachauer Straße stadtauswärts nach Eisenbahnunterführung
+- TOP 2.2.: Einrichtung von Behindertenstellplätzen im Bereich Pelkovenstraße/ Ecke Dachauer Straße
+- TOP 2.3.: Ausweisung Allacher Straße (ab Kreuzung Untermenzinger Straße) zur Tempo30-Zone und Installationen von festen Blitzanlagen
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Dachauer Str. 334a - Vorbescheid
+- TOP 3.3.1.2.: Ernst-Platz-Str. 8 - Haus 1
+- TOP 3.3.1.3.: Ernst-Platz-Str. 8 - Haus 2
+- TOP 3.3.1.4.: Waldhornstr. 141
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.3.3.1.: Kriterien zur Beurteilung von Bauvorhaben aus klimatischer Sicht (Diskussionspapier) -> vertagt aus der Sitzung am 27.06.2022
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Radweg an der Dachauer - /Donauwoerther Straße als 2-Richtungsradweg kennzeichnen und einfärben
+- TOP 4.1.4.: Anfrage: Bebauungspläne in der Siedlung Hartmannshofen auf dem Grundstück der ehemaligen Heimgärten -> vertagt aus der Sitzung am 27.06.2022
+- TOP 4.1.2.: Öffentliche Widmung des Verbindungsweges zwischen Moosanger und der Saarlouiser Straße
+- TOP 4.1.3.: Sachstand Bebauung eines brachliegenden Grundstückes in der Hartmannshofer Straße
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Evangelisches Hilfswerk gGmbH Sommerfest Teestube „komm“ am 05.08.2022 149,89 € / Az. 0262.0-10-0299
+- TOP 5.2.: (E) Stadtbezirksbudget Siedlervereinigung Moosach-Eigenhaus e.V. 100 Jahre Siedlervereinigung Moosach-Eigenhaus e.V. am 06.08.2022 2.140,00 € / Az. 0262.0-10-0301
+- TOP 5.3.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst vom 28.07. - 31.12.2022 3.897,60 € / Az. 0262.0-10-0300
+- TOP 5.4.: (E) Stadtbezirksbudget Das aserbaidschanische Kulturzentrum in München e.V. Anschaffung eines E-Pianos für Klavierkurse 1.007,99 € / Az. 0262.0-10-0297
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Rama dama - Reinigung des Geländes am und um den ehemaligen S-Bahnhof Oberwiesenfeld [BA-Antrag Nr. 20-26/B03807; Zuständigkeit beim KOMR und BAUR gemeinsam; Auftrag erteilt]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Versammlung auf öffentlichem Verkehrsgrund: 1. Gedenkveranstaltung "Gedenken an das OEZ-Attentat" am 22.07.2022 (→ Vorabzustimmung Vorsitzender gem. § 20 Abs. 1 BA-Satzung)
+- TOP 8.2.: Verkehrskonzept Münchner Norden (Sitzungsvorlage Nr. 20-26/ V 06594) hier: Auszug "Hinweis/ Ergänzung vom 21.06.2022; Antwort MOR zu Stellungnahme BA10
+- TOP 8.3.: (U) Verkehrskonzept Münchner Norden Verkehrliche Erreichbarkeit des Münchner Norden Erarbeitung und Gegenüberstellung zweier Planfälle
+- TOP 8.4.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Netz AG Hier: Eisenbahnüberführung über die Dachauer Straße im 10. Stadtbezirk Moosach Projektkosten: 33.533.000 Euro (Kostenobergrenze) Anteil LHM: 22.397.000 Euro (darin enthalten: LHM-Anteil an den Folgekosten der Stadtwerke München GmbH in Höhe von 415.100 Euro) 1. Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaues der Eisenbahnüberführung Dachauer Straße durch die DB Netz AG 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2022 – 2026
+- TOP 8.5.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 8.6.: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 8.7.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2021 - 2025, Einzelplan 4 / Sozialbereich
+- TOP 8.8.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2021 - 2025 Einzelplan 4 / Jugendamtsbereich
+- TOP 8.9.: (U) Anhörungsverfahren zur Änderung der Förderschulorganisation in der Landeshauptstadt München; Sprengeländerung bzw. -errichtung der Förderzentren - Förderzentrum mit Schwerpunkt geistige Entwicklung an der Fehwiesenstraße - Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung an der Klenzestraße
+- TOP 4.1.5.: Zeitnahe Information über die konkrete Planung des Verkehrskonzeptes für die Baumaßnahmen an der Eisenbahnüberführung Dachauer Straße, 80992 München
+- TOP 6.1.: Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken
+- TOP 4.: Anträge
