@@ -1,0 +1,88 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-07-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6810982
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6810982
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 1.6.1.: - Umbesetzung in den Unterausschüssen - Benennung einer/eines neuen stellv. Vorsitzenden im UA Soziales
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Kreillerstr. 129; Neubau eines Wohngebäudes (26 WE) mit Tiefgarage
+- TOP 3.1.2.: Berlingerweg 1 - Überdachung der Tiefgarageneinfahrt
+- TOP 3.1.3.: Truderinger Straße 102 - Neubau eines MFH mit 11 WE und einer Tiefgarage
+- TOP 3.1.4.: Weitere Müllbehälter an der - St.-Veit-Straße / Ecke Hans-Jakob-Straße - Heinrich-Wieland-Straße / Ecke Kampenwandstraße - Grüner Markt / Behr Park Bürgeranliegen vom 07.07.22
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Antrag auf Fahrrad- oder Lastenradabstellplätze in der Hermann-Weinhauser-Straße; Anliegen eines Bürgers
+- TOP 3.2.2.: STEP 2040: Einladung zur Stellungnahme Gruppe Ost (Fristverlängerung bis 28.07.22 gewährt)
+- TOP 3.2.3.: Instandsetzung bzw. Wartung 2er Schwerbehindertenparkplätze vor Josephsburgstraße 8 mit besserer Überwachung dieser durch die Kommunale Parkraumüberwachung und Polizei; Bürgeranliegen vom 05.07.2022
+- TOP 3.2.4.: Hachinger Bach Straße als Fahrradstraße widmen; Bürgeranliegen
+- TOP 3.2.5.: Hinweisbeschilderung zur neuen Grundschule St.-Veit-Straße - Anhörung verkehrsrechtliche Anordnung; Zuleitung des MOR mit der Bitte um Stellungnahme
+- TOP 3.2.6.: „Aufwertung Ostpark ‚Fit für die Zukunft‘“: Anregungen aus Berg am Laim; Antrag CSU Fraktion
+- TOP 3.2.7.: Vorschlag zur Erhöhung der Verkehrssicherheit in Berg am Laim; Bürgeranliegen
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Gedenkveranstaltung zum Jahrestag des 9. November 1938 "Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn 2022"; Zuleitung der Arbeitsgruppe "Gedenken an den 9. November 1938" mit der Bitte um Rückmeldung bis 12.09.2022
+- TOP 3.3.2.: Grünanlage St.-Veit-Straße - Erneuerung der Tischtennisanlage; Bürgeranliegen
+- TOP 3.3.3.: Veranstaltung in einer städtischen Grünanlage; Hier: Bez. 14, Grünanlage an der Echardinger Kapelle (Echardingerstr. 50) „Gottesdienst im Freien“ am 10.07.2022; 40 PAX; Zuleitung des KVR mit der Bitte um Stellungnahme - Vorab-Zustimmung nach § 20 Abs. 1 Satz 2 der BA-Satzung durch den BA-Vorsitzenden erteilt
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Antrag auf Bestellung städtischer Leistungen: hier: Erläuterungsschilder für Straßen im Werksviertel - Anhörung durch das Kommunalreferat bezüglich Textvorschlägen und Kosten -
+- TOP 3.5.2.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Kindertage in 2022 2.550,00 € / Az. 0262.0-14-0330
+- TOP 3.5.3.: (E) Stadtbezirksbudget C.O.N. SONANZA e.V. - Chor-Orchester-Netzwerk in Deutschland “Te Deum“ vom 14.07. - 04.11.2022 7.500,00 € / Az. 0262.0-14-0331
+- TOP 3.5.4.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. Anschaffungen zur Verbesserung der Verpflegungsmöglichkeiten der Mannschaft und bei Veranstaltungen 710,98 € / Az. 0262.0-14-0332
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Truderinger Straße 102 - Neubau eines MFH mit 11 WE und einer Tiefgarage
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Liste der Bauvorhaben im 14. Stadtbezirk Berg am Laim in der Zeit vom 13.06.2022 bis 19.06.2022
+- TOP 4.1.2.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 4.1.3.: Transparenz beim Hachinger Bach
+- TOP 4.1.4.: Stromanschluss St.-Veit-Straße; Information der SWM
+- TOP 4.1.5.: Aufstellung von Mülleimern Schlüsselbergstraße / Berg-am-Laim-Straße; Informationsschreiben des Baureferates-Tiefbau zu einem Bürgeranliegen
+- TOP 4.1.6.: Bänke Inzeller Weg: Bänke entfernt - neuer Platz? Standortvorschlag Baureferat-Tiefbau - Zustimmung durch den BA-Vorsitzenden erteilt
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: (U) Satzung zur Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung – SoNuGebS -) sowie Novellierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL)
+- TOP 4.2.2.: (U) Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 4.2.3.: Schlechte Wege im Michaelianger
+- TOP 4.2.4.: Räumung und Streuung der Hachinger-Bach-Straße
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Abbau der Blauen Schule versus "Dorf" in der Hachinger-Bach-Straße - Antwortschreiben des Referates für Bildung und Sport auf Anfrage einer Bürgerin -
+- TOP 4.3.2.: Bezirkssportanlage an der Fehwiesenstraße / Campus-Ost: Hilfe für die ansässigen Sportvereine
+- TOP 4.3.3.: Sprengeländerung Grundschule Berg am Laim - Antwort der Regierung von Oberbayern und des RBS auf Anfrage einer Bürgerin -
+- TOP 4.3.4.: Fertigstellung Bildungseinrichtungen 2022 - Verzögerung einzelner Inbetriebnahmen; Information des RBS vom 30.06.2022
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Konfliktbereich Echardinger Str. 65; Schriftverkehr Bürgeranliegen und AKIM zur Information
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Mehrjahresinvestitionsprogramm 2022 - 2026 Weiterleitung der Stellungnahme des BA 14 an das Kommunalreferat sowie Kulturreferat
+- TOP 4.5.2.: Informationsschreiben BA 04 / 2022; Aufwandsentschädigung für virtuelle Tagungsmögllichkeiten für Unterausschüsse in Form von informellen Arbeitsgruppen, hier: doppeltes Sitzungsgeld für Vorsitzende bzw. schriftführende Person; Schreiben des Direktoriums, HA II-BA
+- TOP 4.5.3.: Informationsschreiben BA 03/2022; Durchführung des Sitzungsbetriebs bei den Unterausschüssen / Virtuelle Tagungsmöglichkeiten für Unterausschüsse in Form von informellen Arbeitsgruppen ab 14.07.2022 nicht mehr möglich; Schreiben des Direktoriums vom 04.07.2022
+- TOP 4.5.4.: Zwischenbericht zur weiteren Entwicklung unseres Zeitzeugen-Filmprojekts "Von Ruinen zum Rock´n´Roll - München ab 1945"; Rundschreiben an die Bezirksausschüsse
+- TOP 4.5.5.: Finanzierung von Familien- und Ferienpässen Bestellung städtischer Leistungen
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.4.1.: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.2.1.: Protokoll der Sitzung vom 28.06.2022
+- TOP 3.5.5.: Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken - Anhörung des Direktoriums bezüglich Satzung -
