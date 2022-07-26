@@ -1,3 +1,0 @@
-# I.
-
-Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654), der zuletzt durch Artikel 2 Nr. 4 Buchstabe b des Gesetzes vom 21. Juni 2002 (BGBl. I S. 2138) geändert worden ist, in Verbindung mit § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) wird dem Bundesverwaltungsamt die Befugnis übertragen, über Widersprüche gegen Verwaltungsakte sowie die Ablehnung eines Anspruchs in Angelegenheiten nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung zu entscheiden, soweit es für den Erlass des Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.

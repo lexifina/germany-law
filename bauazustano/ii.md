@@ -1,3 +1,0 @@
-# II.
-
-Nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) wird der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen mit Einverständnis des Bundesministeriums für Wirtschaft und Technologie die Vertretung des Dienstherrn bei verwaltungsgerichtlichen Verfahren der Beschäftigten der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin in Reisekosten-, Umzugskosten- und Trennungsgeldangelegenheiten sowie in Angelegenheiten nach der Bundesbeihilfeverordnung übertragen, soweit die Bundesnetzagentur nach dieser Anordnung zur Entscheidung über den Widerspruch befugt war. Das Bundesministerium für Arbeit und Soziales behält sich vor, im Einzelfall die Prozessvertretung selbst wahrzunehmen.

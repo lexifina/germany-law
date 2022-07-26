@@ -1,3 +1,0 @@
-# I.
-
-Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) wird der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen mit Einverständnis des Bundesministeriums für Wirtschaft und Technologie die Befugnis übertragen, über Widersprüche von Beschäftigten der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin gegen Verwaltungsakte sowie die Ablehnung eines Anspruchs in Reisekosten-, Umzugskosten- und Trennungsgeldangelegenheiten sowie in Angelegenheiten nach der Bundesbeihilfeverordnung zu entscheiden, soweit die Bundesnetzagentur für den Erlass des Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
