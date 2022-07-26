@@ -1,0 +1,165 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-07-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6849573
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6849573
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Überfüllte Wertstoffinseln
+- TOP 6.2.: Farchanter Straße
+- TOP 6.3.: Aufstellung Parkplätze Fahrräder Rewe
+- TOP 6.4.: Parksituation Johan-Clanze-Straße
+- TOP 6.5.: AstLaubhaufen im Klaiser-Weg
+- TOP 6.6.: BEK Jugendcafe Westpark
+- TOP 6.7.: Schneemannstraße Halteverbot
+- TOP 6.8.: Kurzparkzone für KiTa Denk mit! Konrad-Celtis-Straße
+- TOP 6.9.: Eis-Cafe Heckenstaller Park
+- TOP 6.10.: Schildbürgerstreich
+- TOP 6.11.: Johann-Clanze-Str - Parken im Grünstreifen
+- TOP 6.12.: Zebrastreifen_Hinterbärenbadstr
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 31.10. - 04.11.2022 5.207,00 Euro, Az.: 0262.0-7-0381
+- TOP 10.2.: (E) Stadtbezirksbudget Initiative "Tagesmutter" Anschaffung eines Vierlingskinderwagens 1.098,90 Euro, Az.: 0262.0-7-0383
+- TOP 10.3.: (E) Stadtbezirksbudget THETA e.V., Verein zur Förderung der freien Theater- und Tanzkultur in München Sommer-Brücke vom 10. - 27.08.2022 10.410,00 Euro, Az.: 0262.0-7-0385
+- TOP 11.: Anträge
+- TOP 11.1.: Der Fahrbahnbelag der Fernpaßstraße wird zwischen Krüner und Treffauerstraße sowie zwischen Treffauerstraße und Penzberger Straße endlich erneuert.
+- TOP 11.2.: Klima-Lotsinnen* für Sendling - Westpark
+- TOP 11.3.: Sofortmaßnahmen gegen falsches abstellen der E-Scooter
+- TOP 11.4.: Fahradständer an der U-Bahnstation Westendstraße
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1.: Info der KJB
+- TOP 13.2.: REGSAM - Runder Tisch zur Sozialraumentwicklung in Sendling-Westpark
+- TOP 13.3.: 3 BSA Siegenburger Str. 51 Runder Tisch vom 06.07.2022
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Hirsch-Gereuth-Str.
+- TOP 15.2.: Bauvorhaben Marbachstr.
+- TOP 15.3.: Bauvorhaben Schmuzerstraße
+- TOP 15.4.: Bauvorhaben Hansastr
+- TOP 15.5.: Bauvorhaben Aichacher Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, Rundhäuser, Märchenerzählungen für Kinder, im August
+- TOP 17.2.: Westpark, Theatron, Tango Romatice, Termine im August
+- TOP 17.3.: Westpark, Theatron, Einschulungsgottesdienst
+- TOP 17.4.: Anhörung, Westpark, große Zirkuswiese, Circus Leopoldini
+- TOP 18.: Baureferat
+- TOP 18.1.: Erinnerungsverfahren Schneefernstraße
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Parkraumbewirtschaftung im künftigen Gebiet des BA 07
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: STEP Präsentation BA
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Antwortschreiben Radabstellanlagen in der OetztalerStraße/Ecke Drachenseestraße
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Straßennamen-Erläuterungssschildern
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Änderung der Sondernutzungsrichtlinien Aufstellen privater Fahrradständer
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: RunderTisch E-Tretroller-Anbieter
+- TOP 40.2.: Sicher auf gemeinsamen Fuß- und Radwegen
+- TOP 40.3.: Fristverlängerung Private Lademöglichkeiten
+- TOP 40.4.: Sicher auf gemeinsamen Fuß- und Radwegen
+- TOP 40.5.: Verkehrsrechtliche Anordnung Margaretenunterführung
+- TOP 40.6.: Dialog-Displays Auswertung und weiteres Vorgehen
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Bildungscampus Westpark
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Beratung durch das Bauzentrum
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Stellungnahme des BA7 zu Anhörung Grundsanierung Haus St. Josef
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Stellungnahme des Bezirksausschusses 7 Sendling-Westpark zur Reform des Migrationsbeirats
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweis Unterstützung und Zusammenarbeit
+- TOP 51.2.: Verwendungsnachweis Monacorona
+- TOP 51.3.: Verwendungsnachweis Kulturlieferdienst
+- TOP 51.4.: Verwendungsnachweis Känguru-Projekt
+- TOP 51.5.: Verwendungsnachweis Luise-Kieselbach-Stiftung
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Genehmigung, Westpark, Theatron, Tango Romantico
+- TOP 53.2.: Bescheid, Westpark, kostenlose Führungen Nepalpagode
+- TOP 53.3.: Bescheid, Westpark, Theatron, Christliche Outdoor Gottesdienste
+- TOP 53.4.: Luise-Kiesselbach-Platz, CSU Bürgerfest
+- TOP 53.5.: Luise-Kiesselbach-Platz, Sommerfest des Maibaumvereins
+- TOP 53.6.: Bescheid, Westpark, Theatron, Open Stage Event
+- TOP 53.7.: Bescheid, Westpark, große Zirkuswiese, Circus Leopoldini
+- TOP 53.8.: unveränderte Fortführung Siegenburger Str.
+- TOP 53.9.: Bescheid, Westpark, Theatron, Konzert der städtischen Sing- und Musikschule
+- TOP 53.10.: Bescheid, Westpark, große Wiese West, Int. Fest der Kulturen
+- TOP 53.11.: Bescheid, Straßenfest, Schondorfer Straße
+- TOP 53.12.: Bescheid, Westpark, Theatron, Konzerte ars musica e.V.
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Anordnung Haltverbote Weilheimer Straße
+- TOP 56.2.: Vorfahrtregelung Albert-Roßhaupter-Str/WeilheimerStr
+- TOP 56.3.: Drehgenehmigung Westpark - Mehrwert Olympia 1972
+- TOP 56.4.: BernriederStr Halteverbot awm
+- TOP 56.5.: Baustelleneinrichtung Hansastr.
+- TOP 56.6.: Baustelleneinrichtung Distlhofweg
+- TOP 56.7.: Grundsatzbeschluss Abstellanlagen
+- TOP 56.8.: DG Südpark - Der Geburtstagsdieb
+- TOP 56.9.: Drehgenehmigung Grünanlage Georg-Freundorfer-Platz Spielplatz
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 57.1.: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 57.2.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Baumaßnahmen SWM
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Vorkaufsrecht Arnimstraße
+- TOP 65.2.: Geplante Erweiterung einer bestehenden ortsfesten Funkanlage in Ihrer Kommune
+- TOP 65.3.: Abgeschlossenheitsbescheinigungen
