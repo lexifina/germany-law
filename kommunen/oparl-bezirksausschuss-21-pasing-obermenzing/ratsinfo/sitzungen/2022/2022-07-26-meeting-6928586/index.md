@@ -1,0 +1,158 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2022-07-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6928586
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6928586
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA 21
+- TOP 2.2.1.: Lärmbelästigung durch Einsatzfahrzeuge (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 2.2.2.: Kreuzung Agnes-Bernauer-Straße, Weinbergerstraße, Am Knie, Gräfstraße (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 2.2.3.: Bürgerversammlung Obermenzing am 01.06.22 (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 2.2.4.: Erhaltung der Bezirkssportanlage Eichmannstraße (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 2.2.5.: Kreuzung Am Knie - Weinbergerstraße; Radwegführung
+- TOP 2.2.6.: Sonnenschutz Spielplätze im Neubaugebiet Paul-Gerhardt-Allee
+- TOP 2.2.7.: Fragen zur Verkehrsplanung in Pasing
+- TOP 2.2.8.: Wertstoffinsel Paosostraße - Beschwerde
+- TOP 2.2.9.: Fahrradwege und - unterstützung in Pasing Süd? Bitte um Erläuterung zu den (fehlenden) Maßnahmen
+- TOP 2.2.10.: Situation Am Knie
+- TOP 2.2.11.: Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn 2022
+- TOP 2.2.12.: Verlängerung der U-Bahn vom Laimer Platz zum Pasinger Bahnhof
+- TOP 2.2.13.: Wertstoffinsel Freseniusstraße / Fasanenstraße; Bitte um Säuberung
+- TOP 2.2.14.: Umwandlung Auto-Stellplätze in Radlstellplätze; Betzenweg
+- TOP 2.2.15.: Zuschussantrag zur Gestaltung Trafohäuschen Planegger Straße
+- TOP 3.: Bericht des UA Umwelt, Natur und Klimaschutz + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Adolf-Sandberg-Str. 4: 1 Birke
+- TOP 3.1.2.: Heinrich-Schütz-Weg 16: 1 Birke
+- TOP 3.1.3.: Agnes-Bernauer-Str. 176: 1 Birke
+- TOP 3.1.4.: Michael-Beer-Str. 9: 1 Birke
+- TOP 3.1.5.: Rubinsteinstr. 29-73: 3 Scheinzypressen
+- TOP 3.1.6.: Tannenweg 5: 2 Kiefern
+- TOP 3.1.7.: Prangerlstr. 1c: 1 Fichte
+- TOP 3.1.8.: Planegger Str. 20: Freiflächengestaltungsplan
+- TOP 3.1.9.: Engelbertstr. 11: 3 Eschen
+- TOP 3.1.10.: Am Klostergarten 9: 1 Esche
+- TOP 3.1.11.: Michael-Beer-Str. 14: 1 Douglasie
+- TOP 3.1.12.: Bäckerbauerstr. 3: 1 Fichte
+- TOP 3.1.13.: Benedikterstr. 13: 3 Fichten
+- TOP 3.1.14.: Hofbauernstr. 15: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.15.: Otto-Engl-Platz 20: 1 Fichte
+- TOP 3.1.16.: Jaspersallee 8: 1 Robinie
+- TOP 3.1.17.: Kaflerstr. 3: 1 Traubenkirsche
+- TOP 3.1.18.: Floßmannstr. 20: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.19.: Ernsbergerstr. 3: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.20.: Rißheimerstr. 12 a: 1 Esche
+- TOP 3.1.21.: Korfiz-Holm-Str. 13 a: 1 Tanne
+- TOP 3.1.22.: Badenburgstr. 8 a:1 Blaufichte
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: Anwesen in der Dachstraße
+- TOP 5.1.2.: Anwesen in der Schrämelstraße
+- TOP 6.: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 7.1.: Protokoll des Ortstermins vom 27.06.22 (Errichtung Boulderwand oder -block) (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 7.2.: Protokoll des Ortstermins vom 069.07.22 (Spielplatz Kremser Straße)
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beiräte
+- TOP 10.: Entscheidungen
+- TOP 11.: Anhörungen
+- TOP 11.1.: Soziale Infrastrukturversorgung und Standortsicherung für eine Einrichtung der Offenen Kinder- und Jugendarbeit im Neubaugebiet Dreillingsweg, Bebauungsplan mit Grünordnung Nr. 2175; Beschlussvorlage für den Kinder- und Jugendhilfeausschuss am 20.09.22 (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 11.2.: Planegger Str. 20: Umbau und Sanierung eines denkmalgeschützten Gebäudes mit Nutzungsänderung zum Wohnen und Büronutzung, Abbruch und Neubau des Anbaus zu Wohnzwecken, sowie Errichtung zweier Tiefgaragen und eines Solitärgebäudes (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 11.3.: Schrämelstr. 186: Neubau eines zusätzlichen Wohn- / Doppelhauses; Tektur: jetzt Neubau je einer Doppelhaushälfte mit Carport (DHH Ost + DHH West) (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 11.4.: Haidelweg, Pasing, Anordnung zweier Haltverbote; verkehrsrechtliche Anordnung
+- TOP 11.5.: Floßmannstr. 20: Neubau eines Einfamilienhauses
+- TOP 11.6.: Ernsbergerstr. 3: Umnutzung von Schulgebäude zu Bürogebäude mit Aufstockung
+- TOP 11.7.: Hofbauernstr. 15: Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage (8 Stpl.)
+- TOP 11.8.: Markierung Radschutzstreifen Aubinger Straße
+- TOP 12.: Anträge und Anfragen
+- TOP 12.1.: Bündnis 90 / Die Grünen, Antrag: Bau einer Brücke für den Fuß- und Radverkehr über die Würm zwischen Feichthof- und Bassermannstraße (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 12.2.: FW / ÖDP, Antrag: Baurecht innerhalb des mittleren Rings erhöhen - Gartenstädte erhalten (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 12.5.: Bündnis 90 / Die Grünen, Antrag: Anwendung des Niedrigenergiehausstandard zur energetischen Sanierung der Pasinger Fabrik
+- TOP 12.6.: Bündnis 90 / Die Grünen, Antrag: Prüfung der Umgestaltung des öffentlichen Raums im Rahmen geplanter Straßensanierungen
+- TOP 12.7.: Bündnis 90 / Die Grünen, Anfrage: Sachstand des Antrages „Sperrung und Umgestaltung der Engelbertstraße“
+- TOP 12.3.: Interfraktioneller Antrag: Eislauf allen Bürgerinnen und Bürgern ermöglichen – Öffnung des Eisstadion West am Wochenende
+- TOP 12.4.: Interfraktionelle Stellungnahme: Neubaugebiet Dreillingsweg – Soziale Infrastrukturversorgung und Standortsicherung für eine Einrichtung der Offenen Kinder- und Jugendarbeit
+- TOP 12.8.: SPD, Antrag: Pflanzung weiterer Kastanien in der Institutstraße
+- TOP 12.9.: SPD, Antrag: Baumpflanzungen zwischen Neubau Bäckerstr. 1 und Pasinger Arcaden
+- TOP 12.10.: SPD, Antrag: Reparatur des Fußballplatzes Haberlandstraße
+- TOP 13.: Unterrichtungen
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.1.: Vollversammlung vom 29.06.22: (U) Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 14.2.: Vollversammlung vom 29.06.22: (U) 75 Jahre Bezirksausschüsse – Festakt / Informationskampagne Darstellung der personellen Mehrbedarfe
+- TOP 14.3.: Ausschuss für Stadtplanung und Bauordnung vom 06.07.22: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 14.4.: Ausschuss für Stadtplanung und Bauordnung vom 06.07.22: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 14.5.: Bildungsausschuss vom 06.07.22: (U) Errichtung eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen im Baugebiet Paul-Gerhardt-Allee WA 1 im 21. Stadtbezirk - Pasing-Obermenzing Genehmigung des Nutzerbedarfsprogramms
+- TOP 14.6.: Mobilitätsausschuss vom 20.07.22: (U) Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 14.7.: Mobilitätsausschuss vom 20.07.22: (U) Grundsatzbeschluss Abstellanlagen, dauerhafte Betriebshöfe für U-Bahn, Tram und Bus der SWM / MVG 1. Vorstellung Standortsuche 2. Auswahl von Vorzugsstandorten 3. Beauftragung von städtebaulichen, verkehrlichen und baulichen Voruntersuchungen
+- TOP 14.8.: Mobilitätsausschuss vom 20.07.22: (U) Verkehrsplanung im Bereich Paul-Gerhardt-Allee • Ergebnisse der aktualisierten Machbarkeitsstudie „Tunnel Paul-Gerhardt-Allee“ • Nahmobilitätskonzept für den Bereich rund um das Neubaugebiet an der Paul-Gerhardt-Allee • Finanzierung S-Bahnhalt „München-Berduxstraße“ • Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung • Änderung des MIP 2023 - 2027 • Beschluss über die Finanzierung ab 2023
+- TOP 15.: Post an den BA
+- TOP 15.1: von der Stadtverwaltung
+- TOP 1.: Direktorium
+- TOP 1.1.: Stadtbezirksbudget; Zwischenbericht zum Projekt "München in den 1950er Jahren"
+- TOP 1.2.: Stadtbezirksbudget; Verwendungsnachweise für die Aktionen - Land der Kulturen, Wanderausstellung von Menschen mit Fluchterfahrung 14.03. - 15.03.22 - Kinder-Präventions-Training Mai 2022 - Internationale Wochen gegen Rassismus, Veranstaltungen im Nachbarschaftstreff Pasing - Installation im öffentlichen Raum Juni - August 2021 - Baumaßnahmen am Vereinshaus, Bayerische Philharmonie - Anschaffung und Ergänzung der Einsatzfahrzeuge und Training der Einsatzkräfte, BRK München Pasing
+- TOP 2.: Baureferat
+- TOP 2.1.: Kindersprechstunde am 20.05.22
+- TOP 2.2.: Kornbergerweg - Befestigung Verbindungsweg zur Orthstraße
+- TOP 2.3.: Verlängerung der U-Bahn vom Laimer Platz zum Pasinger Bahnhof
+- TOP 2.4.: Vorstellung Kleinkinderspielbereich Lucia-Popp-Bogen
+- TOP 2.5.: Befestigung der Dirtbike-Bahn im Landschaftspark West
+- TOP 3.: Mobilitätsreferat
+- TOP 3.1.: Machbarkeitsstudie „Pippinger Flur“ (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 3.2.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mit Radarsystem (TOPO-Boxen) (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 3.3.: Runder Tisch mit den E-Tretroller-Anbietern vom 23.03.22
+- TOP 3.4.: Parksituation Georg-Habel-Straße
+- TOP 3.5.: Anbindung des Neubaugebiets an der Paul-Gerhardt-Allee an das Münchner Radnetz
+- TOP 3.6.: Parkplatzsituation Alois-Wunder-Straße
+- TOP 3.7.: Neue Haltelinie Autospur (Geradeausfahrer) Höhe Bodenseeestr. 69 Richtung Aubing sowie Nachmarkierung der Leitlinien für Linksabbieger aus der Aubinger Straße
+- TOP 3.8.: Arbeiten im Straßenraum; Bodenseestraße zwischen Heimburgstraße und Lortzingstraße und Aubinger Straße zwischen Bodenseestraße und Haberlandstraße, Fahrbahnsanierung vom 04.07. - 24.07.22
+- TOP 3.9.: Drehgenehmigung Marsopstraße 8b, Kreuzungsbereich Chopinstraße (Vollsperre) am 05.08.22
+- TOP 4.: Referat für Stadtplanung und Bauordnung
+- TOP 4.1.: Grundlagenuntersuchung Pippinger Flur (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 4.2.: Vollzug der Baumschutzverordnung - Reginbaldstr. 15-17 - Betzenweg 72 - Rathochstr. 83
+- TOP 4.3.: Bauvorhaben Packenreiterstr. 1-1a
+- TOP 5.: Kreisverwaltungsreferat
+- TOP 5.1.: Vorbeugende Information der Bevölkerung über Hilfsmaßnahmen bei evtl. Notfallsituationen
+- TOP 6.: Sozialreferat
+- TOP 6.1.: Nachbarschaftstreff Paul-Gerhardt-Allee (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 6.2.: Entscheidung für den 6. Stadtbezirk Sendling als Einsatz-Stadtbezirk für das Beteiligungsprojekt "Ran an die Stadtteil-Koffer!" 2023
+- TOP 7.: Referat für Klima- und Umweltschutz
+- TOP 7.1.: Klimaneutralität im Stadtbezirk 21
+- TOP 15.2: Sonstige
+- TOP 15.2.1.: Regierung von Oberbayern: Kindersprechstunde am 20.05.22; Unterkunft Landsberger Str. 412 (Vertagung aus der BA-Sitzung am 05.07.22)
+- TOP 15.2.2.: Regionalmanagement München Südwest e.V.: Protokoll zum Workshop "Region ist Solidarität" am 06.07.22
+- TOP 15.2.3.: Migrationsbeirat: Reform des Migrationsbeirats; Stellungnahmen diverser Organisationen
+- TOP 15.2.4.: Seniorenbeirat: Sachstand zu diversen Anträgen
+- TOP 16.: Verschiedenes
+- TOP 1.: Termine
+- TOP 1.1.: - BA-Sitzung 13.09.22, 19.00 Uhr, Grundschule an der Grandlstr. 5 - BA-Sitzung 04.10.22, 19.00 Uhr, Grundschule an der Grandlstr. 5:
+- TOP 2.: Bereits weitergeleitete Anfragen, Anliegen etc.
+- TOP 2.2.16.: (N) - BIOTOPIA-Hilfsaktion für ukrainische geflüchtete Kinder
+- TOP 3.10.: (N) - Radweg Gleichmannstraße Nord-Süd
+- TOP 2.2.17.: (N) - Fahrbahnabsperrungen in Pasing, Lortzingstraße / Haberlandstraße
+- TOP 2.2.18.: (N) - Verkehrskonzept für den BA 23
+- TOP 2.2.19.: (N) - Verkehrssituation Radlfahrer Neu-Pasing
+- TOP 3.2.1.: (N) - Heinrich-Schütz-Weg 16: 1 Birke
+- TOP (N) 8.: Referat für Bildung und Sport
+- TOP (N) 8.1.: (N) - Haus für Kinder Pippinger Str.95 - Bring- und Holstellplätze
+- TOP 2.2.20.: (N) - Schule Grandlstr. 5
+- TOP 2.2.21.: (N) - GrünPatenKonzept Stadt München
+- TOP 2.2.22.: (N) - Bauprojekt Dr.-Blaich-Str. 6
+- TOP 2.2.23.: (N) - Straßenverkehr Richard-Tauber-Straße
+- TOP 2.2.24.: (N) - Holsystem mit Gelber Tonne jetzt auch in München sowie Erhalt der Menzinger Erdbeerwiese
+- TOP 2.2.25.: (N) - Erhalt der Menzinger Erdbeerwiese
+- TOP 11.9.: (N) - Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken
+- TOP 2.2.26.: (N) - Wertstoffinsel Paosostraße - Sperrmüllablagerungen
