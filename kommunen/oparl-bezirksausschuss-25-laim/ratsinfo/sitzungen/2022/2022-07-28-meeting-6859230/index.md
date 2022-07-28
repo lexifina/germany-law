@@ -1,0 +1,76 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-07-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6859230
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6859230
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.2.: Dauersperrmüllplatz in einer Wohnstraße in Laim
+- TOP 1.2.3.: Anliegen Seniorenbeirat
+- TOP 2: Anträge
+- TOP 2.1.: Barrierefreiheit gewährleisten - gekennzeichnete Flächen zur Abstellung von E-Roller
+- TOP 2.2.: Namensfindung für das Neubaugebiet an der Westend- und Zschokkestraße
+- TOP 2.3.: Parklizenzgebiet Laim
+- TOP 2.4.: Mehr Grün statt Teer: Entsiegelungen in Laim
+- TOP 2.5.: Unterstützung des SV Laim - Ausweichfläche während der Baumaßnahmen für die U5
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Jane Addams Zentrum e.V. Eröffnung des NBT samt Wohncafé und 10 Jahre Jubiläum Alte Heimat Arbeitskreis vom 18.07. - 31.07.2022 6.381,00 Euro, Az.: 0262.0-25-0274
+- TOP 3.2.: (E) + (U) Tempo 30 km/h für die Agnes-Bernauer-Straße Empfehlung Nr. 20-26 / E 00066 der Bürgerversammlung des 25. Stadtbezirkes – Laim am 24.06.2021
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 06.07.22: Bastel- und Spielaktion FAM Laim, Hogenbergplatz, 14.-23.09.22
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agnes-Bernauer-Straße 134, Gemarkung Laim, Fl.Nr.: 226/20 Umbau eines denkmalgeschützten Reihenhauses mit rückseitiger Erweiterung des Erdgeschosses - TEKTUR
+- TOP 5.2.: Agnes-Bernauer-Str. 112, Gemarkung: Laim, Fl.Nr.: 3/3 TEKTUR - Umbau und Sanierung eines Denkmalgeschützten Wohngebäudes mit 6 Stpl.
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 07.07.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 04.07.22: Informationsschreiben BA 03/2022 Durchführung des Sitzungsbetriebs bei den Unterausschüssen/ Virtuelle Tagungsmöglichkeiten für Unterausschüsse in Form von informellen Arbeitsgruppen ab 14.07.22 nicht mehr möglich
+- TOP 8.2.: Schreiben Direktorium vom 06.07.22: Informationsschreiben BA 04/2022: Durchführung des Sitzungsbetriebs bei den Unterausschüssen/Aufwandsentschädigung für virtuelle Tagungsmöglichkeiten für Unterausschüsse in Form von informellen Arbeitsgruppen hier: doppeltes Sitzungsgeld für Vorsitzende bzw. schriftführende Person
+- TOP 8.3.: Schreiben Baureferat vom 22.06.22: Straßenbauarbeiten in der Lanzstraße und Stadtlohner Straße
+- TOP 8.4.: Schreiben Baureferat vom 04.07.22: Straßenbelag Stadtlohner Straße
+- TOP 8.5.: Schreiben Sozialreferat vom 21.06.22: Zweckentfremdung von Wohnraum, Byecherstraße
+- TOP 8.6.: Schreiben Sozialreferat vom 23.06.22: Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk Laim
+- TOP 8.7.: Schreiben Sozialreferat vom 07.07.22: Information Entscheidung Ran an die Stadtteil-Koffer 2023
+- TOP 8.8.: Schreiben Markthallen München vom 28.06.22: Absage Bauernmarkt am Laimer Anger wegen Fischmarkt
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.06.22: Baudererstr. 20, Fl.Nr. 1575/165 Abbruch des Bestands bis zum Keller, Neubau eines Hauses in Holzbauweise sowie eines Anbaus der Kellerboden wird vertieft
+- TOP 8.10.: Bautenliste 20.06.-26.06.22: A) Erstantragsverfahren 1. Eringerstr. 36 2. Landsberger Str. 317 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Landsberger Str. 160
+- TOP 8.11.: Bautenliste 27.06.-03.07.22: A) Erstantragsverfahren 1. Riegerhofstr. 20 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Agnes-Bernauer-Str. 112
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.07.22: Fällung Gotthardstr. 125
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 29.06.22: Bettlerbanden und Alkoholiker in Laim
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 30.06.22: Am Laimer Anger, Kultursommer 2022 des Bürgertreff Laim e.V., Wochenenden 22.07.-21.08.22 Hier: Eilentscheidung
+- TOP 8.15.: Schreiben Referat für Bildung und Sport vom 24.06.22: Haus für Kinder Hans-Thonauer-Str. 10
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 23.05.22: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Geßlerstr. 21
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 29.06.22: Rückblick und Beantwortung der Chat-Fragen - Runder Tisch mit den E-Tretroller Anbietern am 23.03.22
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 04.07.22: Ortstermin Laimer Unterführung am 06.04.22
+- TOP 8.19.: Schreiben Referat für Arbeit und Wirtschaft vom 05.07.22: Glasfaserausbau in Laim - Zwischennachricht
+- TOP 8.20.: Schreiben SWM vom 04.07.22: Baumaßnahmen
+- TOP 8.21.: Schreiben FAK Mobilität vom 29.06.22: Rückblick und Beantwortung der Chat-Fragen - Runder Tisch mit den E-Tretroller Anbietern am 23.03.22
+- TOP 8.22.: Schreiben Migrationsbeirat vom 01.07.22: Stellungnahme Selbsthilfebeirats
+- TOP 8.23.: Schreiben Kreisjugendring München-Stadt vom 07.07.22: Stellungnahme zur Reformierung des Migrationsbeirats
+- TOP 8.24.: Schreiben München-Zeitreisen vom 03.07.22: Zwischenbericht
+- TOP 8.25.: Schreiben Direktorium: Verwendungsnachweise
+- TOP 8.26.: Beschluss der Vollversammlung des Stadtrates vom 29.06.22: (U) Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 8.27.: Beschluss des Kreisverwaltungsausschusses vom 17.05.22: (U) Satzung zur Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung – SoNuGebS -) sowie Novellierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL)
+- TOP 8.28.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.07.22: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 8.29.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.07.22: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.30.: Kita Alte Heimat (Nachfrage bei GEWOFAG und Bürgerinfo)
+- TOP 9.31.: Pilotprojekt - Fit im Quartier (Vertagung in UA Schule und Gesundheit mit Einbindung der Antragstellerin)
+- TOP 9.32.: Erneuerung der Fahrbahndecke Agricolastraße Bereich Agnes-Bernauer-Straße/Gotthardstraße (Schreiben an SWM und Info an Bürger)
+- TOP 9.33.: U-Bahn Baustelle und Schulweg der Grundschüler zur Von-der-Pfordten-Schule (Weiterleitung an Mobilitätsreferat und Bürgerinfo)
+- TOP 9.34.: Fischmarkt Laimer Anger (Bürgerinfo)
+- TOP 9.35.: Absage Bauernmarkt am Laimer Anger wegen eines Fischmarktes (Kenntnisnahme)
+- TOP 9.36.: Straßenbelag Stadtlohner Straße (Schreiben an Bürger)
+- TOP 9.37.: Straßenlaterne Perhamerstraße / Lutzstraße (Weiterleitung an Baureferat)
+- TOP 1.2: Bürgerpost an den BA
