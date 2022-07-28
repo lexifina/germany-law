@@ -70,6 +70,7 @@
 ## Abschnitt 5 Allgemeine Vorschriften
 
 - [§ 31 Zuständigkeit für die Durchführung](0031.md)
+- [§ 31a Aufsicht; Kostenerstattung](0031a.md)
 - [§ 32 Meldepflichten](0032.md)
 - [§ 33 Allgemeine Prüfungsrechte und Auskunftspflichten](0033.md)
 - [§ 34 Öffentlich-rechtliche Streitigkeiten](0034.md)

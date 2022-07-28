@@ -2,7 +2,7 @@
 
 Betriebsdaten
 I. Allgemeine Angaben im Zusammenhang mit Maßnahmen nach dem Marktorganisationsgesetz
-  1. Name und Vorname oder Firma,
+  1. Name und Vorname oder Name des Unternehmens, auch des Mutterunternehmens, des obersten Mutterunternehmens und der Tochterunternehmen,
   2. Name und Anschrift von Mitgliedern von Erzeugerorganisationen,
   3. Kurzbezeichnung des Betriebsgegenstands,
   4. Länderkennzeichen, Postleitzahl, Ort, Straße, Hausnummer,
@@ -26,8 +26,8 @@ II. Maßnahmespezifische Daten
   9. Produktionsdatum und Produktionsort der Marktordnungsware,
   10. Adresse und Zulassungsnummer des Lagerortes,
   11. Anzeige/Notifizierung der Durchführung oder der Absicht eines Maßnahme relevanten Handelns,
-  12. Umsatzsteuer-Identifikationsnummer (= Verbrauchssteuernummer),
-  13. Steuernummer, zuständiges Finanzamt,
+  12. Umsatzsteuer-Identifikationsnummer (= Verbrauchssteuernummer), auch des Mutterunternehmens, des obersten Mutterunternehmens und der Tochterunternehmen,
+  13. Steuernummer, zuständiges Finanzamt, Identifikationsmerkmal gemäß § 139a der Abgabenordnung, auch des Mutterunternehmens, des obersten Mutterunternehmens und der Tochterunternehmen,
   14. Zoll- bzw. EORI-Nummer,
   15. Nummer, Art, besondere Bedingungen und Angaben zu einer Lizenz sowie die Daten der Gültigkeit, Übermittlung, Teilung, Stornierung und Löschung einer Lizenz,
   16. Angaben zu Drittländern (Versendungsland, Ursprungsland und Bestimmungsland),
