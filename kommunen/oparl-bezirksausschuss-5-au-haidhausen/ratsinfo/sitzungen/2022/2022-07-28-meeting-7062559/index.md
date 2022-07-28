@@ -1,0 +1,157 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2022-07-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7062559
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7062559
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 5.1.: Eigene Ampelphase für Radverkehr an der Kreuzung Prinzregentenstraße/Vogelweideplatz
+- TOP 5.2.: Darstellende Kunst & Musik im öffentlichen Raum verstärkt ermöglichen und fördern!
+- TOP 5.3.: Übertragung der Verfügungsrechte über die Nutzung des Mariahilfplatzes auf den BA 05
+- TOP 5.4.: PFA 3 Ost der 2. S-Bahn-Stammstrecke München/1. Tektur
+- TOP 5.5.: Anzeige am Haidenauplatz verbessern
+- TOP 5.6.: Haltestellenoptimierung am Haidenauplatz vorziehen
+- TOP II.1.: (E) Stadtbezirksbudget Galerie arToxin Donhärl & Düren GbR Veranstaltungen für das Ausstellungsprojekt „WunderkammAA goes arToxin“ vom 13.-28.07.2022 2.700,00 € / Az. 0262.0-5-0407
+- TOP II.2.: (E) Stadtbezirksbudget Münchner Heldentheater e.V. “Jägerstätter“ vom 01.09. - 11.12.2022 5.999,00 € / Az. 0262.0-5-0410
+- TOP II.3.: (E) Stadtbezirksbudget Initiative „Smells of Coexistence“ “Smells of Coexistence – The bee of the heart“ von September bis 12.10.2022 2.500,00 € / Az. 0262.0-5-0409
+- TOP II.4.: (E) Stadtbezirksbudget Einstein gUG 10-jähriges Jubiläum Einstein Kultur vom 13.-16.10.2022 4.982,80 € / Az. 0262.0-5-0411
+- TOP II.7.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst vom 28.07. - 31.12.2022 3.897,60 € / Az. 0262.0-5-0413
+- TOP II.8.: (E) Stadtbezirksbudget Verein zur Förderung der Eigenarbeti HEi Tag der offenen Türe und 35 Jahre Haus der Eigenarbeit am 30.07.2022 4.330,00 € / Az. 0262.0-5-0415
+- TOP II.11.: (E) Stadtbezirksbudget Initiative „post-un“ Kunstausstellung „post-un“ 4.900,00 € / Az. 0262.0-5-0417
+- TOP 1.1.: (E) Stadtbezirksbudget ZAB e.V. 40-Jahr-Feier ZAB am 21.10.2022 1.250,00 € / Az. 0262.0-5-0414
+- TOP 1.2.: (E) Stadtbezirksbudget Evangelisches Hilfswerk gGmbH Sommerfest Teestube „komm“ am 05.08.2022 149,89 € / Az. 0262.0-5-0412
+- TOP 2.2.: (E) Regelmäßige Verkehrskontrollen auf Gehwegen
+- TOP 1.1.: (E) Stadtbezirksbudget rehab republic e.V. Die saubere Straße vom 01.-10.07.2022 5.400,00 € / Az. 0262.0-5-0398
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative „Kühlschrank“ Anschaffung eines Kühlschrankes für die Abgabestelle Haidhausen 392,69 € / Az. 0262.0-5-0421
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: UA Kultur, TOP 11: Stadtbezirksbudget; Initiative „post-un“; Kunstausstellung „post-un“ UA Soziales, TOP 1.4: Stadtbezirksbudget; Spielhaus e.V.; Küchen-Sanierung vom 02.09. - 02.11.2022 UA Soziales, TOP 4.3: Lärmende Personen Eduard-Schmid-Str UA Wirtschaft, TOP 2.6: Workshop Radeln mit Kindern am 28.08.2022 auf dem Regerplatz UA Wirtschaft, TOP 2.7: Radeln mit Kindern auf dem Bordeauxplatz am 12.09.2022 UA Wirtschaft, TOP 2.8: Enzis am Mariahilfplatz UA Wirtschaft, TOP 2.9: Kulturtage Haidhausen, 20.08. - 11.09.22, Weißenburger Platz UA Planung; TOP 2.14 - 2.19: Bauvorhaben UA Mobilität, TOP 2.4: Austausch einer Lichtsignalanlage (LSA)- Standort Reger-/ Welfenstr. UA Mobilität, TOP 2.5: Geschwindigkeitsbegrenzung auf 30km/h aus Lärmschutzgründen - Orleansstraße UA Klima: TOP 2.3.: Kühlschrank für Abgabestelle Haidhausen - Antrag Stadtbezirksbudget; dringlicher Vorratsbeschluss -
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt Juli 2022
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.5.: Temporäre Kunstaktion "Der Müllfisch" in der Grünanlage Ecke Reichenbachbrücke/Eduard-Schmid-Straße vom 11.07. bis 11.10.22; Unterrichtung des Kreisverwaltungsreferates
+- TOP II.6.: Denkmalschutzgerechte Restaurierung des Klohäuschens an der Preysing-/Kellerstraße
+- TOP II.9.: Unterrichtung: Zwischenbericht zur weiteren Entwicklung des Zeitzeugen-Filmprojekts "Von Ruinen zum Rock&#039;n&#039;Rolll - München ab 1945"
+- TOP II.10.: Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn 2022
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.3.: dazu: Schreiben Evangelisches Hilfswerk
+- TOP 1.4.: (E) Stadtbezirksbudget Spielhaus e.V. Küchen-Sanierung vom 02.09. - 02.11.2022 6.450,00 €/ Az. 0262.0-5-0418
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Spielplatzversorgung im Stadtteil
+- TOP 3.2.: Tischtennis und Schach am Schwester-Eubulina-Platz
+- TOP 3.3.: Reparatur Wasserpumpe Postwiese und Hypopark
+- TOP 3.4.: Entscheidung für den 6. Stadtbezirk Sendling als Einsatz-Stadtbezirk für das Beteiligungsprojekt "Ran an die Stadtteil-Koffer!" 2023
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Betrunkene am Basketballplatz an der Reichenbachbrücke
+- TOP 4.2.: Bevorstehende Schließung: Tellerrand Cafe in der VHS am Max Weber Platz
+- TOP 4.3.: Lärmende Personen Eduard-Schmid-Str
+- TOP 5.: Sonstiges
+- TOP 5.1.: Nachtrag: Auswertung von Felix Pinkow-Margerie zum Rathaus Clubbing am 25.06.22
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Genehmigung einer Freischankfläche: "Boazn", Karl-Müller-Weg 2
+- TOP 1.2.: Genehmigung einer Freischankfläche: "Loqma Churros", Humboldtstr. 23
+- TOP 2.: Anhörungen
+- TOP 2.1.: Alltagsradeln auf dem Bordeauxplatz am 30.07.2022 Anhörungsfrist: 15.07.2022, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.2.: Breisacher Str. - Errichtung einer Freischankfläche mit 13,68 m² (Breisacher Str. / Wörthstr. 39)
+- TOP 2.3.: Preysingstr. 69 - Errichtung einer Freischankfläche (32,25 m² / 42 Sitzpl.) >>Preysingstr. 69 / Wolfgangstr.<<
+- TOP 2.4.: Weißenburger Str. 2 - Errichtung einer Freischankfläche (160 m² / 140 Sitzplätze)
+- TOP 2.5.: Corneliusbrücke (Bastion): Verlängerung der Strandveranstaltung bis 21.08.2022; Frist 04.08.2022
+- TOP 2.6.: Workshop Radeln mit Kindern am 28.08.2022 auf dem Regerplatz
+- TOP 2.7.: Radeln mit Kindern auf dem Bordeauxplatz am 12.09.2022
+- TOP 2.8.: Enzis am Mariahilfplatz
+- TOP 2.9.: Kulturtage Haidhausen, 20.08. - 11.09.22, Weißenburger Platz
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Satzung zur Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung – SoNuGebS -) sowie Novellierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL)
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Dollmannstr. 17 - Austausch von Stahlträgern im KG
+- TOP 2.2.: Edlingerstr. 7 - Um- und Ausbau zweier Dachgeschosswohnungen zu Maisonette-Wohnungen im Hauptgebäude sowie einen Aufzugseinbau und Erweiterung der Balkone, Neubau der Überbauung Hofeinfahrt, Umbau des geneigten Daches zu einem Flachdach mit Dachterrasse des Hofanbaus mit Teilabbruch Anbau und Neubau eines Zweifamilienhauses als Rückgebäude - TEKTUR zu 1.23-2021-14519-21
+- TOP 2.3.: Edlingerstr. 9 - Neubau von zwei Dachgeschosswohnungen im Hauptgebäude und Neubau von Garagen und zwei Wohnungen als Rückgebäude. Umbau und Erweiterung des Anwesens Edlingerstr. 9 in 81543 München im Einzelnen: Aufstockung und Neubau von zwei Dachgeschosswohnungen in der 2. Ebene im Hauptgebäude (GKI 5), Abbruch der Rückseitig bestehenden Garagenbebauung, Neubau eines Rückgebäudes mit Garagen und zwei Wohnungen (GKL 2)
+- TOP 2.4.: Hochstr. 75 - Neubau einer Wohnanlage mit 184 WE und 1 MMM-Wohnung sowie einer 2-geschossigen Tiefgarage / "Hoch der Isar", Baugebiet 2(1) - TEKTUR zu 1.2-2019-21538-21 - hier: drittes Kühlgerät auf der Dachfläche Haus 8
+- TOP 2.5.: Innere Wiener Str. 18 - TEKTUR zu 1.2-2022-1536-21 - Umbau, Aufstockung und Neubau dreier Wohneinheiten im Innenhof
+- TOP 2.6.: Johannispl. 23 - Teilung einer Ladenwohnung zu einer Wohnung und Lieferservice
+- TOP 2.7.: Lilienstr. 54 - Anbau von Balkonen, Bereinigung der Bestandssituation bezüglich der Wohnungsaufteilung und Abschluss des Carports durch eine Außenwand - TEKTUR zu 1.23-2021-20329-21 - Hier: Wohnung 3.OG li., 2. Rettungsweg über eine einzügige Notleiteranlage Frist: 20.07.2022
+- TOP 2.8.: Orleanspl. 10 - Nutzungsänderung ohne Baumaßnahme von vier Versammlungsräumen mit vorgelagertem Flur zu einer Nutzungseinheit sowie Entfall des notwendigen Flurs
+- TOP 2.9.: Preysingstr. 6 - Dachausbau
+- TOP 2.10.: Sedanstr. 16 - Dachgeschossneubau eines denkmalgeschützten Bestandsgebäudes (VGB) mit 3 Wohneinheiten, Neuerrichtung der Dächer und Anbau eines Außenaufzuges - dazu Baumfällungen
+- TOP 2.11.: Kirchenstr. 92 - Neubau eines Townhouse (3 Varianten) - VORBESCHEID
+- TOP 2.12.: Kirchenstr. 7 - Nutzungsänderung von Garage in Lager, Flur und Verkaufsraum sowie Erweiterung der Ladenflächen im EG, Sanierung der Wohnungen im 1.-3. OG, Zusammenlegen der Wohnung im 1. OG, Instandsetzung des Daches - TEKTUR zu 1.23-2021-17595-21 - Hier: Erweiterung der Ladenfläche im EG zu Büroräume, Einbau einer Stahlbetondecke im Treppenhaus über 3.OG sowie Erneuerung eines Treppenlaufes vom 2.OG ins 3.OG
+- TOP 2.13.: Zeppelinstr. 75 - Nutzungsänderung: Trennung der Einheit 8 in 2 getrennte Einheiten mittels Entfernung der Verbindungstreppe
+- TOP 2.14.: Pariser Str. 38 - Umbau von 2 Bestandswohnungen im DG mit neuen Gauben und Loggien, Umbau und Nutzungsänderung EG der Ladeneinheit Reisebüro in ein Bistro
+- TOP 2.15.: Balanstr. 31 - Dachgeschossausbau eines Wohnhauses mit einer Maisonettewohnung, Herstellen von einem Dacheinschnitt für eine Dachterrasse sowie Anbau eines Personenaufzugs an der Innenhoffassade
+- TOP 2.17.: Einsteinstr. 96 - Neubau eines Wohnhauses (114 WE) mit Tiefgarage mit Mobilitätskonzept sowie Abbruch des Bestandsgebäudes (Einsteinstr. 96 / Lucile-Grahn-Str. 23)
+- TOP 2.18.: Lilienstr. 15 - Neubau eines Wohn- und Gewerbegebäudes (10 WE) und Gemeinschaftsraum sowie einer Gewerbeeinheit der DLRG, fünf Garagenstellplätzen und drei oberirdische Stellplätze (Variante 1 + 2) - VORBESCHEID
+- TOP 2.19.: Orleansstr. 89 - Abbruch und Neubau eines Wohn- und Geschäftshauses (17 WE) mit Laden und Tiefgarage - mit Mobilitätskonzept - VORBESCHEID
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.2.: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 3.3.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 3.4.: Erhaltungssatzungsgebiet Untere Au Nordost
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budgetantrag Drächslstraße
+- TOP 2.: Anhörungen
+- TOP 2.1.: Rüchblick und Beantwortung der Chat-Fragen - Runder Tisch mit den E-Tretroller Anbietern am 23.03.2022
+- TOP 2.3.: Einwohnerversammlung Spielstraße, Schneckenburger Straße; Beantragung einer eingenen BA-Veranstaltung mit einem Budget von 1000,- €
+- TOP 2.4.: Austausch einer Lichtsignalanlage (LSA)- Standort Reger-/ Welfenstr.
+- TOP 2.5.: Geschwindigkeitsbegrenzung auf 30km/h aus Lärmschutzgründen - Orleansstraße
+- TOP 2.6.: Ortstermin Lilienstraße (Busanbindung)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Erleichterung eines Zuganges zur Kirche St. Gabriel in der Versailler Straße
+- TOP 3.2.: Zwischennachricht zu offenen BA-Anträgen des Bezirksausschusses des 5. Stadtbezirkes Au-Haidhausen
+- TOP 3.3.: Einbahnstraßenregelung für die Franz-Prüller-Straße
+- TOP 3.4.: Aufstellen einer Sitzbank an der Bushaltestelle Ostbahnhof vor Lidl/ Post Antwortschreiben MVG zu einem Bürgeranliegen
+- TOP 3.5.: Schulwegsicherheit Franziskus Grundschule (Kirchliches Zentrum) – Update: März 2022/II Verweisung vom UA Soziales an den UA Mobilität aus der Sitzung vom 29.06.2022
+- TOP 3.6.: Mißbrauch Parklizenz ahnden / Anpassung der Parklizenzgebühr Antwort KVR zum Schreiben BA 5 vom 21.06.2022
+- TOP 3.7.: Entschärfung der Gefahrenstelle an der Kreuzung Langerstraße / Maria-Theresia-Straße
+- TOP 3.8.: Grundsatzbeschluss Abstellanlagen, dauerhafte Betriebshöfe für U-Bahn, Tram und Bus der SWM / MVG Sitzungsvorlage - Nr. 20-26 / V 06185
+- TOP 3.9.: Parksituation der Anlieger
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Haltverbot Entenbachstrasse
+- TOP 4.2.: Anregung VCD Neuordnung Trambahn
+- TOP 4.3.: Lothringer Straße für den gegenläufigen Radverkehr freigeben
+- TOP 4.4.: Beschwerde gegen den illegalen Radverkehr in der Leonhardstraße
+- TOP 4.5.: Suche nach Abstellplatz für E-Lastenfahrrad (genutzt zum Eisverkauf) und Lagermöglichkeit mit Stromanschluss
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Lothringer Str. 3: Fällung einer Weide
+- TOP 2.2.: Einsteinstr. 152: Fällung einer Pappel
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verbotsschilder zur Taubenfütterung
+- TOP 3.2.: Begrünung der Baumgräben in der Asamstraße und Albanistraße bis Entenbachstraße
+- TOP 3.3.: Prüfung eines Zuschusses oder Darlehens für Wohnungsgenossenschaften im Bereich des 5. Stadtbezirkes für die vom Stadtrat beschlossenen Klimaschutzprogramme
+- TOP 3.4.: Mariahilfplatz: Christbaumsammlung Januar / Februar 2023
+- TOP 3.5.: Abschluss Sanierungsmaßnahmen Orleansplatz
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Baumpflanzung und -vernichtung
+- TOP 4.2.: GrünPatenKonzept Stadt München
+- TOP 4.3.: Kuglerstraße: Nachhaltigkeit in München
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 2.16.: Balanstr. 31 - Nutzungsänderung , Aufstockung und Erweiterung einer im Innenhof liegenden Waschküche und Lager zu einem Wohngebäude mit Dachterrasse
