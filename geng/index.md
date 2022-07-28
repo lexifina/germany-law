@@ -67,6 +67,7 @@ Genossenschaft und ihrer Mitglieder
 - [§ 42 Prokura; Handlungsvollmacht](0042.md)
 - [§ 43 Generalversammlung; Stimmrecht der Mitglieder](0043.md)
 - [§ 43a Vertreterversammlung](0043a.md)
+- [§ 43b Formen der Generalversammlung](0043b.md)
 - [§ 44 Einberufung der Generalversammlung](0044.md)
 - [§ 45 Einberufung auf Verlangen einer Minderheit](0045.md)
 - [§ 46 Form und Frist der Einberufung](0046.md)

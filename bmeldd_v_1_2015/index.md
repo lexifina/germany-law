@@ -7,6 +7,7 @@
 - [§ 4 Automatisiertes Abrufverfahren zur Anmeldung](0004.md)
 - [§ 5 Organisation und Technik des automatisierten Abrufverfahrens zur Anmeldung](0005.md)
 - [§ 6 Rückmeldung](0006.md)
+- [§ 6 Rückmeldung](0006-2.md)
 - [§ 7 Auswertung der Rückmeldung](0007.md)
 - [§ 8 Fortschreibung der Daten](0008.md)
 - [§ 9 Inkrafttreten, Außerkrafttreten](0009.md)

@@ -65,7 +65,7 @@
 - [§ 40 Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung](0040.md)
 - [§ 41 Zweckbindung übermittelter Daten und Hinweise](0041.md)
 - [§ 42 Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften](0042.md)
-- [§ 43 Datenübermittlungen an die Suchdienste](0043.md)
+- [§ 43 (weggefallen)](0043.md)
 
 ### Unterabschnitt 2 Melderegisterauskunft
 

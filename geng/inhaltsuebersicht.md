@@ -65,6 +65,7 @@
 | § 42 | Prokura; Handlungsvollmacht |
 | § 43 | Generalversammlung; Stimmrecht der Mitglieder |
 | § 43a | Vertreterversammlung |
+| § 43b | Formen der Generalversammlung |
 | § 44 | Einberufung der Generalversammlung |
 | § 45 | Einberufung auf Verlangen einer Minderheit |
 | § 46 | Form und Frist der Einberufung |

@@ -177,6 +177,7 @@ auf die Gesellschaft
 ##### Erster Unterabschnitt Rechte der Hauptversammlung
 
 - [§ 118 Allgemeines](0118.md)
+- [§ 118a Virtuelle Hauptversammlung](0118a.md)
 - [§ 119 Rechte der Hauptversammlung](0119.md)
 - [§ 120 Entlastung](0120.md)
 - [§ 120a Votum zum Vergütungssystem und zum Vergütungsbericht](0120a.md)
@@ -199,6 +200,7 @@ Hauptversammlung
 
 - [§ 129 Geschäftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmzählung](0129.md)
 - [§ 130 Niederschrift](0130.md)
+- [§ 130a Stellungnahme- und Rederecht bei virtuellen Hauptversammlungen](0130a.md)
 - [§ 131 Auskunftsrecht des Aktionärs](0131.md)
 - [§ 132 Gerichtliche Entscheidung über das Auskunftsrecht](0132.md)
 

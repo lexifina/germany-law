@@ -58,7 +58,7 @@ Datenübermittlungen zwischen öffentlichen Stellen
 | § 40 | Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung |
 | § 41 | Zweckbindung übermittelter Daten und Hinweise |
 | § 42 | Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften |
-| § 43 | Datenübermittlungen an die Suchdienste |
+| § 43 | (weggefallen) |
 Unterabschnitt 2
 Melderegisterauskunft
 | § 44 | Einfache Melderegisterauskunft |
