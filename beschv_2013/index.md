@@ -44,6 +44,7 @@
 - [§ 23 Internationale Sportveranstaltungen](0023.md)
 - [§ 24 Schifffahrt- und Luftverkehr](0024.md)
 - [§ 24a Berufskraftfahrerinnen und Berufskraftfahrer](0024a.md)
+- [§ 24b Windenergieanlagen auf See und Offshore-Anbindungsleitungen](0024b.md)
 - [§ 25 Kultur und Unterhaltung](0025.md)
 - [§ 26 Beschäftigung bestimmter Staatsangehöriger](0026.md)
 - [§ 27 Grenzgängerbeschäftigung](0027.md)
