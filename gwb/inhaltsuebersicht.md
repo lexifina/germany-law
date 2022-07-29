@@ -401,4 +401,5 @@
 | Teil 6 |
 | Übergangs- und Schlussbestimmungen |
 |  |
-| § 186 | Übergangsbestimmungen |
+| § 186 | Anwendungsbestimmung zu § 47k |
+| § 187 | Übergangs- und Schlussbestimmungen |

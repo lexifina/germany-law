@@ -84,6 +84,9 @@
 - [§ 44 Vorschriften für besonders geschützte und bestimmte andere Tier- und Pflanzenarten](0044.md)
 - [§ 45 Ausnahmen; Ermächtigung zum Erlass von Rechtsverordnungen](0045.md)
 - [§ 45a Umgang mit dem Wolf](0045a.md)
+- [§ 45b Betrieb von Windenergieanlagen an Land](0045b.md)
+- [§ 45c Repowering von Windenergieanlagen an Land](0045c.md)
+- [§ 45d Nationale Artenhilfsprogramme](0045d.md)
 - [§ 46 Nachweispflicht](0046.md)
 - [§ 47 Einziehung und Beschlagnahme](0047.md)
 
@@ -143,4 +146,6 @@
 
 ## Kapitel 11 Übergangs- und Überleitungsvorschrift
 
-- [§ 74 Übergangs- und Überleitungsregelungen](0074.md)
+- [§ 74 Übergangs- und Überleitungsregelungen; Evaluierung](0074.md)
+- [Anlage 1 (zu § 45b Absatz 1 bis 5)](anlage-1.md)
+- [Anlage 2 (zu § 45b Absatz 6 und 9, zu § 45d Absatz 2)](anlage-2.md)

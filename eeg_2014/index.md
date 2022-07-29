@@ -5,7 +5,7 @@
 ## Teil 1 Allgemeine Bestimmungen
 
 - [§ 1 Zweck und Ziel des Gesetzes](0001.md)
-- [§ 2 Grundsätze des Gesetzes](0002.md)
+- [§ 2 Besondere Bedeutung der erneuerbaren Energien](0002.md)
 - [§ 3 Begriffsbestimmungen](0003.md)
 - [§ 4 Ausbaupfad](0004.md)
 - [§ 4a Strommengenpfad](0004a.md)
@@ -74,6 +74,8 @@
 - [§ 28a Ausschreibungsvolumen und Ausschreibungstermine für solare Strahlungsenergie](0028a.md)
 - [§ 28b Ausschreibungsvolumen und Ausschreibungstermine für Biomasse](0028b.md)
 - [§ 28c Ausschreibungsvolumen und Ausschreibungstermine für innovative Anlagenkonzepte](0028c.md)
+- [§ 28d Ausschreibungsvolumen und Gebotstermine für innovative Konzepte mit wasserstoffbasierter Stromspeicherung](0028d.md)
+- [§ 28e Ausschreibungsvolumen und Gebotstermine für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff](0028e.md)
 - [§ 29 Bekanntmachung](0029.md)
 - [§ 30 Anforderungen an Gebote](0030.md)
 - [§ 30a Ausschreibungsverfahren](0030a.md)
@@ -90,7 +92,7 @@
 - [§ 36a Sicherheiten für Windenergieanlagen an Land](0036a.md)
 - [§ 36b Höchstwert für Windenergieanlagen an Land](0036b.md)
 - [§ 36c Ausschluss von Geboten für Windenergieanlagen an Land](0036c.md)
-- [§ 36d Zuschlagsverfahren für Windenergieanlagen an Land](0036d.md)
+- [§ 36d (weggefallen)](0036d.md)
 - [§ 36e Erlöschen von Zuschlägen für Windenergieanlagen an Land](0036e.md)
 - [§ 36f Änderungen nach Erteilung des Zuschlags für Windenergieanlagen an Land](0036f.md)
 - [§ 36g Besondere Ausschreibungsbestimmungen für Bürgerenergiegesellschaften](0036g.md)
@@ -140,9 +142,12 @@
 - [§ 39l Höchstwert für Biomethananlagen](0039l.md)
 - [§ 39m Besondere Zahlungsbestimmungen für Biomethananlagen](0039m.md)
 
-#### Unterabschnitt 7 Innovationsausschreibungen
+#### Unterabschnitt 7 Ausschreibungen für innovative Konzepte
 
 - [§ 39n Innovationsausschreibungen](0039n.md)
+- [§ 39o Ausschreibungen für innovative Konzepte mit wasserstoffbasierter Stromspeicherung](0039o.md)
+- [§ 39p Ausschreibungen für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff](0039p.md)
+- [§ 39q Besondere Zahlungsbestimmungen für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff](0039q.md)
 
 ### Abschnitt 4 Gesetzliche Bestimmung der Zahlung
 
@@ -277,6 +282,8 @@
 - [§ 88b Verordnungsermächtigung zur Anschlussförderung von Güllekleinanlagen](0088b.md)
 - [§ 88c Verordnungsermächtigung zur Zielerreichung](0088c.md)
 - [§ 88d Verordnungsermächtigung zu Innovationsausschreibungen](0088d.md)
+- [§ 88e Verordnungsermächtigung zu den Ausschreibungen für innovative Konzepte mit wasserstoffbasierter Stromspeicherung](0088e.md)
+- [§ 88f Verordnungsermächtigung zu den Ausschreibungen für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff](0088f.md)
 - [§ 89 Verordnungsermächtigung zur Stromerzeugung aus Biomasse](0089.md)
 - [§ 90 Verordnungsermächtigung zu Nachhaltigkeitsanforderungen für Biomasse](0090.md)
 - [§ 91 Verordnungsermächtigung zum Ausgleichsmechanismus](0091.md)

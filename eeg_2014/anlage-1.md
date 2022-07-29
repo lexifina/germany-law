@@ -3,7 +3,7 @@
 | 1. | Begriffsbestimmungen |
 |  | Im Sinn dieser Anlage ist |
 |  | – | „MP“ die Höhe der Marktprämie nach § 23a in Cent pro Kilowattstunde, |
-|  | – | „AW“ der anzulegende Wert unter Berücksichtigung der §§ 19 bis 54 in Cent pro Kilowattstunde, |
+|  | – | „AW“ der anzulegende Wert unter Berücksichtigung der §§ 19 bis 54 in Cent pro Kilowattstunde, in den Fällen des § 23d ist dies der Gesamtwert für eine Anlage, |
 |  | – | „MW“ der jeweilige Monatsmarktwert in Cent pro Kilowattstunde, |
 |  | – | „JW“ der jeweilige Jahresmarktwert in Cent pro Kilowattstunde. |
 | 2. | Zeitlicher Anwendungsbereich |

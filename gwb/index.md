@@ -379,4 +379,5 @@
 
 ## Teil 6 Übergangs- und Schlussbestimmungen
 
-- [§ 186 Übergangsbestimmungen](0186.md)
+- [§ 186 Anwendungsbestimmung zu § 47k](0186.md)
+- [§ 187 Übergangs- und Schlussbestimmungen](0187.md)
