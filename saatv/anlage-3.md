@@ -23,7 +23,7 @@ Anforderungen an die Beschaffenheit des Saatgutes
 |  |  |  |  | Z-1 | 85 | 16 | 98 | 6 | 3 | 4 | 3 | 0 | 0 | 500 | - |
 |  |  |  |  | Z-2 | 80 | 16 | 98 | 10 | 7 | 7 | 3 | 0 | 0 | 500 | - |
 |  | 1.1.5 | Weichweizen, |  | B | 92 | 16 | 99 | 4 | 1 | 3 | 1 | 0 | 0 | 500 | - |
-|  |  | Hartweizen, Spelz |  | Z-1 | 92 | 16 | 98 | 6 | 3 | 4 | 3 | 0 | 0 | 500 | - |
+|  |  | Hartweizen, Spelz |  | Z-1 | 92 | 16 | 98 | 6 | 3 | 4 | 3 | 0 | 0 | 500 |  |
 |  |  |  |  | Z-2 | 85 | 16 | 98 | 10 | 7 | 7 | 3 | 0 | 0 | 500 | - |
 |  | 1.1.6 | Mais |  | B | 90 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 1 000 | - |
 |  |  |  |  | Z | 90 | 14 | 98 | 0 | 0 | 0 | 0 | 0 | 0 | 1 000 | - |
@@ -37,7 +37,7 @@ Anforderungen an die Beschaffenheit des Saatgutes
 | 1.2 | Saatgut von Getreide darf bei der Prüfung nach § 12 Abs. 1 Satz 2 keinen Besatz mit Flughafer in 3 kg aufweisen; die Größe der Probe ermäßigt sich auf 1 kg, wenn bei der Prüfung des Feldbestandes festgestellt worden ist, dass dieser frei von Flughafer ist. |
 | 1.3 | Gesundheitszustand |
 | 1.3.1 | Das Saatgut darf nicht von lebenden Schadinsekten oder lebenden Milben befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergeben hat. |
-| 1.3.2 | An Mutterkorn (Claviceps purpurea) dürfen 500 g Saatgut nicht mehr als folgende Stücke oder Bruchstücke enthalten: |
+| 1.3.2 | An Mutterkorn (Claviceps purpurea) dürfen in einer Probenmenge nach Nummer 1.1 Spalte 12 nicht mehr als folgende Stücke oder Bruchstücke enthalten sein: |
 | 1.3.2.1 | bei Basissaatgut | 1 |  |  |  |  |  |  |  |  |  |  |
 | 1.3.2.2 | bei Zertifiziertem Saatgut |  |  |  |  |  |  |  |  |  |  |  |
 | 1.3.2.2.1 | von Hybridsorten von Roggen | 4 |  |  |  |  |  |  |  |  |  |  |

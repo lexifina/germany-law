@@ -25,13 +25,14 @@
 | 2.2.3 | Candidatus Liberibacter solanacearum Liefting et al. (Zebra-Chip) | 0 | 0 | 0 | 0 |
 | 2.2.4 | Candidatus Phytoplasma solani Quaglino et al. (Stolbur) | 0 | 0 | 0 | 0 |
 | 2.2.5 | Ditylenchus destructor Thorne | 0 | 0 | 0 | 0 |
-| 2.2.6 | Rhizoctonia Pusteln (Wurzeltöterkrankheit, verursacht durch Thanatephorus cucumeris (A.B. Frank) Donk), sofern die Knollen auf mehr als 10 v. H. der Oberfläche befallen sind | 0 | 1,0 | 5,0 | 5,0 |
-| 2.2.7 | Pulverschorf (verursacht durch Spongospora subterranea (Wallr.) Lagerh.), sofern die Knollen auf mehr als 10 v. H. der Oberfläche befallen sind | 0 | 1,0 | 3,0 | 3,0 |
-| 2.2.8 | Stark geschrumpelte Knollen (ausgeprägter Turgeszenzverlust zum Zeitpunkt der Bonitur, u. a. verursacht durch Silberschorf) | 0 | 0,5 | 1,0 | 1,0 |
-| 2.2.9 | äußere Fehler (z. B. missgestaltete oder beschädigte Knollen) | 0 | 3,0 | 3,0 | 3,0 |
-| 2.2.10 | Gesamttoleranz für 2.2.1 bis 2.2.9 | 0 | 6,0 | 6,0 | 8,0 |
-| 2.2.11 | Anhaftende Erde und Fremdstoffe |  | 1,0 | 1,0 | 2,0 |
-Die in den Nummern 1.2 sowie 2.2.3 bis 2.2.7 aufgeführten Krankheiten sind RNQPs.
+| 2.2.6 | Potato spindle tuber viroid (PSTVd) | 0 | 0 | 0 | 0 |
+| 2.2.7 | Rhizoctonia Pusteln (Wurzeltöterkrankheit, verursacht durch Thanatephorus cucumeris (A.B. Frank) Donk), sofern die Knollen auf mehr als 10 v. H. der Oberfläche befallen sind | 0 | 1,0 | 5,0 | 5,0 |
+| 2.2.8 | Pulverschorf (verursacht durch Spongospora subterranea (Wallr.) Lagerh.), sofern die Knollen auf mehr als 10 v. H. der Oberfläche befallen sind | 0 | 1,0 | 3,0 | 3,0 |
+| 2.2.9 | Stark geschrumpelte Knollen (ausgeprägter Turgeszenzverlust zum Zeitpunkt der Bonitur, u. a. verursacht durch Silberschorf) | 0 | 0,5 | 1,0 | 1,0 |
+| 2.2.10 | äußere Fehler (z. B. missgestaltete oder beschädigte Knollen) | 0 | 3,0 | 3,0 | 3,0 |
+| 2.2.11 | Gesamttoleranz für 2.2.1 bis 2.2.10 | 0 | 6,0 | 6,0 | 8,0 |
+| 2.2.12 | Anhaftende Erde und Fremdstoffe |  | 1,0 | 1,0 | 2,0 |
+Die in den Nummern 1.2 sowie 2.2.3 bis 2.2.8 aufgeführten Krankheiten sind RNQPs.
 3 Sonstige Anforderungen
 3.1 Das Pflanzgut darf nicht mit keimhemmenden Mitteln behandelt oder zur Keimhemmung bestrahlt worden sein.
 3.2 Das Pflanzgut darf nicht geschnitten sein.

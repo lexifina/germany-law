@@ -10,10 +10,14 @@
 | 1.1.1.1.1 | nicht hinreichend sortenecht sind oder einer anderen Sorte derselben Art oder einer anderen Art, deren Pollen zu Fremdbefruchtung führen können, zugehören: |  |  |  |
 |  | bei Getreide außer Roggen | 5 | 15 | 30 |
 |  | bei Roggen | 5 | 15 |  |
-| 1.1.1.1.2 | im Falle von Hybridsorten hinsichtlich ihrer Erbkomponenten den bei der Zulassung der Sorte festgestellten Ausprägungen der wichtigen Merkmale nicht hinreichend entsprechen oder einer anderen Sorte, Hybridsorte oder Erbkomponente zugehören; | 5 | 15 |  |
-|  | handelt es sich bei den Erbkomponenten um eine |  |  |  |
-|  | a) CMS-Mutterlinie von Gerste, | 10 | 15 |  |
-|  | b) CMS-Einfachhybride als mütterliche Komponente von Gerste; | 10 | 30 |  |
+| 1.1.1.1.2 | im Fall von Hybridsorten hinsichtlich ihrer Erbkomponenten den bei der Zulassung der Sorte festgestellten Ausprägungen der wichtigen Merkmale nicht hinreichend entsprechen oder einer anderen Sorte, Hybridsorte oder Erbkomponente zugehören; | 5 | 15 |  |
+|  | handelt es sich bei den Erbkomponenten um |  |  |  |
+|  | a)eine CMS-Mutterlinie von Gerste, | 10 | 15 |  |
+|  | b)eine CMS-Einfachhybride als mütterliche Komponente von Gerste, |  | 30 |  |
+|  | c)eine CMS-Mutterlinie von Weichweizen, Hartweizen, Spelzweizen, | 10 | 15 |  |
+|  | d)eine CMS-Einfachhybride als mütterliche Komponente von Weichweizen, Hartweizen, Spelzweizen, |  | 30 |  |
+|  | e)einen Restorer von CMS-Hybridsorten von Weichweizen, Hartweizen und Spelzweizen, | 5 | 15 |  |
+|  | die Anforderungen an CMS-Hybridsorten von Weichweizen, Hartweizen und Spelzweizen gelten bis zum Ablauf des 31. August 2029; |  |  |  |
 |  | wird Zertifiziertes Saatgut einer Hybridsorte von Getreide in einer Mischung der mütterlichen und väterlichen Erbkomponente erzeugt, so gilt der Anteil der Pflanzen der väterlichen Erbkomponente nicht als Fremdbesatz |  |  |  |
 | 1.1.1.2 | Pflanzen anderer Getreidearten, die zur Samenbildung gelangen | 2 | 6 | 6 |
 | 1.1.1.3 | Pflanzen anderer Arten, deren Samen sich aus dem Saatgut nur schwer herausreinigen lassen, | 5 | 10 | 10 |
@@ -24,7 +28,7 @@
 |  |  |  |  |
 |  |  | Basissaatgut(Pflanzen) | Zertifiziertes Saatgut(Pflanzen) |
 | 1 | 2 | 3 |
-| 1.2.1.1 | Mutterkorn (Claviceps purpurea), soweit nicht nur der Rand des Feldbestandes befallen ist; gilt nicht für Hybridsorten von Roggen | 10 | 20 |
+| 1.2.1.1 | Mutterkorn (Claviceps purpurea), soweit nicht nur der Rand des Feldbestandes befallen ist; gilt nicht für Hybridsorten von Roggen sowie für CMS-Hybridsorten von Gerste, Weichweizen, Hartweizen, Spelzweizen, Triticale | 10 | 20 |
 | 1.2.1.2 | Weizensteinbrand (Tilletia caries), Roggenstängelbrand (Urocystis occulta), Haferflugbrand (Ustilago avenae), Gerstenhartbrand (Ustilago hordei), Gerstenflugbrand (Ustilago nuda) und Weizenflugbrand (Ustilago tritici) | 3 | 5 |
 | 1.2.1.3 | Zwergsteinbrand (Tilletia controversa) | 1 | 1 |
 1.2.2 Aus dem Feldbestand dürfen flugbrandkranke Pflanzen nicht entfernt worden sein.
@@ -41,7 +45,10 @@
 |  | c) | anderer Arten, deren Pollen zu Fremdbefruchtung führen können | 300 | 250 |
 | 1.3.1.2 | bei Wintergerste zu gleichzeitig Pollen abgebenden Feldbeständen von Wintergerstensorten mit anderer Zeiligkeit | 100 | 50 |
 | 1.3.1.3 | bei Hybridsorten von Getreide außer Weizen und Roggen zu Feldbeständen anderer Sorten oder Erbkomponenten derselben Art | 100 | 50 |
-| 1.3.1.3a | bei Hybridsorten von Weizen | 25 | 25 |
+| 1.3.1.3a | bei Hybridsorten von Weizen |  |  |
+|  | a)bei Hybridsorten, außer der männlich sterilen Mutterlinie von CMS-Hybridsorten | 25 | 25 |
+|  | b)bei der männlich sterilen Mutterlinie von CMS-Hybridsorten von Weichweizen, Hartweizen und Spelzweizen; | 300 | 25 |
+|  | die Anforderungen an CMS-Hybridsorten von Weichweizen, Hartweizen und Spelzweizen gelten bis zum Ablauf des 31. August 2029 |  |  |
 | 1.3.1.3b | bei Hybridsorten von Roggen zu Feldbeständen |  |  |
 |  | a) | anderer Sorten oder Erbkomponenten von Roggen, |  |  |
 |  | b) | derselben Erbkomponente, die einen über der Norm liegenden Besatz mit nicht hinreichend sortenechten Pflanzen aufweisen, und |  |  |
@@ -60,6 +67,10 @@
 1.4.3.1 muss bei der Erzeugung von Basissaatgut der mütterlichen Erbkomponente der Sterilitätsgrad der männlich sterilen Erbkomponente mindestens 99,7 v. H. betragen,
 1.4.3.2 muss bei der Erzeugung von Zertifiziertem Saatgut der Sterilitätsgrad der männlich sterilen Erbkomponente mindestens 99,5 v. H. betragen,
 1.4.3.3 wird der Sterilitätsgrad der männlich sterilen Erbkomponente in jedem Fall in der Nachprüfung festgestellt.
+1.4.4 Bis zum Ablauf des 31. August 2029 gilt bei CMS-Hybridsorten von Weichweizen, Hartweizen und Spelzweizen, dass
+1.4.4.1 bei der Erzeugung von Basissaatgut der mütterlichen Erbkomponente der Sterilitätsgrad der männlich sterilen Erbkomponente mindestens 99,7 v. H. betragen muss,
+1.4.4.2 bei der Erzeugung von Zertifiziertem Saatgut der Sterilitätsgrad der männlich sterilen Erbkomponente mindestens 99 v. H. betragen muss,
+1.4.4.3 der Sterilitätsgrad der männlich sterilen Erbkomponente in jedem Fall in der Nachprüfung festgestellt wird.
 2 Mais und Sorghum
 2.1 Fremdbesatz
 2.1.1 Der Anteil an Pflanzen, die nicht hinreichend sortenecht sind oder im Falle von Hybridsorten in ihren Erbkomponenten den bei Zulassung der Sorte festgestellten Ausprägungen der wichtigen Merkmale nicht hinreichend entsprechen, oder die einer anderen Sorte derselben Art oder bei Hybridsorten einer anderen Erbkomponente zugehören, darf im Durchschnitt der Auszählungen höchstens betragen:
@@ -158,8 +169,10 @@
 |  | a) männliche Komponente | 0,1 | 0,3 |
 | b) weibliche Komponente | 0,2 | 1,0 |
 4.1.4 Bei der Erzeugung von Basissaatgut einer Hybridsorte von Raps muss bei Verwendung einer männlich sterilen Erbkomponente die männliche Sterilität mindestens 99 v. H. und bei der Erzeugung von Zertifiziertem Saatgut mindestens 98 v. H. betragen.
-4.2 Gesundheitszustand 4.2.1
-  Der Anteil der Pflanzen, die von folgenden Krankheiten befallen sind, darf im Durchschnitt der Auszählungen je 150 qm Fläche höchstens betragen:
+| 4.2 | Gesundheitszustand |  |
+|  | Bei Lein darf der Anteil der Pflanzen, die von folgenden Krankheiten befallen sind, im Durchschnitt der Auszählungen je 150 qm Fläche höchstens betragen: |  |
+| 4.2.1 | Brennfleckenkrankheiten | 10 Pflanzen |
+| 4.2.2 | Welkekrankheiten | 10 Pflanzen |
 | 4.2.1.1 | Brennfleckenkrankheiten bei Lein | 10 Pflanzen |
 | 4.2.1.2 | Welkekrankheiten bei Lein | 10 Pflanzen |
 4.2.2 Der Feldbestand von Sojabohne darf nicht in größerem Ausmaß von Diaporthe phaseolorum var. caulivora oder var. sojae, Phialophora gregata, Phytophthora megasperma f. sp. glycinea oder Pseudomonas syringae pv. glycinea befallen sein.

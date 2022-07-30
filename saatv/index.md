@@ -26,6 +26,7 @@ des Saatgutes](0006.md)
 - [§ 15 Erneute Beschaffenheitsprüfung](0015.md)
 - [§ 16 Nachprüfung](0016.md)
 - [§ 17 Verfahren für die Nachprüfung durch Anbau](0017.md)
+- [§ 17a Anwendung biochemischer oder molekularer Techniken](0017a.md)
 - [§ 18 Rücknahme der Anerkennung](0018.md)
 
 ## Abschnitt 3 Standardsaatgut von Gemüse
