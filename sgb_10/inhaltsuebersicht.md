@@ -186,4 +186,3 @@
 | Viertes Kapitel |
 |  | Übergangs- und Schlussvorschriften |
 | § 120 | Übergangsregelung |
-| Anlage (zu § 78a) |
