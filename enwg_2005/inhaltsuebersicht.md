@@ -109,7 +109,7 @@
 | § 20a | Lieferantenwechsel |
 | § 21 | Bedingungen und Entgelte für den Netzzugang |
 | § 21a | Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Verordnungsermächtigung |
-| § 21b | (weggefallen) |
+| § 21b | Sondervorschriften für regulatorische Ansprüche und Verpflichtungen der Transportnetzbetreiber; Festlegungskompetenz |
 | § 21c | (weggefallen) |
 | § 21d | (weggefallen) |
 | § 21e | (weggefallen) |
@@ -124,7 +124,7 @@
 | § 23c | Veröffentlichungspflichten der Netzbetreiber |
 | § 23d | Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu den Energieversorgungsnetzen |
 | § 24 | Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zur Erbringung und Beschaffung von Ausgleichsleistungen; Verordnungsermächtigung |
-| § 24a | Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse |
+| § 24a | Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse; Festlegungskompetenz |
 | § 25 | Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen |
 | § 26 | Zugang zu LNG-Anlagen, vorgelagerten Rohrleitungsnetzen und Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas |
 | § 27 | Zugang zu den vorgelagerten Rohrleitungsnetzen |

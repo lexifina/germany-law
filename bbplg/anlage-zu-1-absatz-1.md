@@ -7,9 +7,9 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | 3 | Höchstspannungsleitung Brunsbüttel – Großgartach; Gleichstrom | A1, B, E |
 | 4 | Höchstspannungsleitung Wilster – Bergrheinfeld/West; Gleichstrom | A1, B, E |
 | 5 | Höchstspannungsleitung Wolmirstedt – Isar; Gleichstrom | A1, B, E |
-| 5a | Höchstspannungsleitung Klein Rogahn – Isar; Gleichstrom | A1, B, E |
+| 5a | Höchstspannungsleitung KleinRogahn/Stralendorf/Warsow/Holthusen/Schossin – Isar; Gleichstrom | A1, B, E |
 | mit den Bestandteilen |  |
-| – Klein Rogahn – Landkreis Börde |  |
+| – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Landkreis Börde |  |
 | – Landkreis Börde – Isar | G |
 | 6 | Höchstspannungsleitung Conneforde – Landkreis Cloppenburg – Merzen/Neuenkirchen; Drehstrom, Nennspannung 380 kV | F |
 | 7 | Höchstspannungsleitung Stade – Sottrum – Grafschaft Hoya – Landesbergen; Drehstrom Nennspannung 380 kV | F |
@@ -25,10 +25,10 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | – Maßnahme Husum – Klixbüll |  |
 | – Maßnahme Klixbüll – Grenze DK |  |
 | 9 | Höchstspannungsleitung Hamm-Uentrop – Kruckel; Drehstrom Nennspannung 380 kV | – |
-| 10 | Höchstspannungsleitung Wolmirstedt – Helmstedt – Wahle; Drehstrom Nennspannung 380 kV | A1 |
+| 10 | Höchstspannungsleitung Wolmirstedt – Helmstedt Ost – Wahle; Drehstrom Nennspannung 380 kV | A1 |
 | mit den Einzelmaßnahmen |  |
-| – Maßnahme Wolmirstedt – Helmstedt – Hattorf – Wahle |  |
-| – Maßnahme Wolmirstedt – Helmstedt – Landkreise Peine/Braunschweig/Salzgitter – Mehrum Nord |  |
+| – Maßnahme Wolmirstedt – Helmstedt Ost – Hattorf – Wahle |  |
+| – Maßnahme Wolmirstedt – Helmstedt Ost – Salzgitter |  |
 | 11 | Höchstspannungsleitung Bertikow – Pasewalk; Drehstrom Nennspannung 380 kV | A1 |
 | 12 | Höchstspannungsleitung Vieselbach – Eisenach – Mecklar; Drehstrom Nennspannung 380 kV | A1 |
 | 13 | Höchstspannungsleitung Pulgar – Vieselbach; Drehstrom Nennspannung 380 kV | A1 |
@@ -50,7 +50,7 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | – Maßnahme Großgartach – Kupferzell |  |
 | 21 | Höchstspannungsleitung Daxlanden – Kuppenheim – Bühl – Eichstetten; Drehstrom Nennspannung 380 kV | D |
 | 22 | Höchstspannungsleitung Großgartach – Endersbach; Drehstrom Nennspannung 380 kV | – |
-| 23 | Höchstspannungsleitung Herbertingen – Waldshut/Tiengen mit Abzweig Kreis Konstanz und Abzweig Beuren; Drehstrom Nennspannung 380 kV | – |
+| 23 | Höchstspannungsleitung Herbertingen – Waldshut-Tiengen – Waldshut-Tiengen/Weilheim mit Abzweig Pfullendorf/Wald und Abzweig Beuren; Drehstrom Nennspannung 380 kV | – |
 | 24 | Höchstspannungsleitung Punkt Rommelsbach – Herbertingen; Drehstrom Nennspannung 380 kV | – |
 | 25 | Höchstspannungsleitung Punkt Wullenstetten – Punkt Niederwangen; Drehstrom Nennspannung 380 kV | A1 |
 | 26 | Höchstspannungsleitung Bärwalde – Schmölln; Drehstrom Nennspannung 380 kV | – |
@@ -69,49 +69,59 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | 34 | Höchstspannungsleitung Emden Ost – Conneforde; Drehstrom Nennspannung 380 kV | F |
 | 35 | Höchstspannungsleitung Birkenfeld – Mast 115A; Drehstrom Nennspannung 380 kV | – |
 | 36 | (aufgehoben) |  |
-| 37 | Höchstspannungsleitung Emden Ost – Halbemond; Drehstrom Nennspannung 380 kV | – |
-| 38 | Höchstspannungsleitung Dollern – Elsfleth West; Drehstrom Nennspannung 380 kV | – |
+| 37 | (aufgehoben) | – |
+| 38 | Höchstspannungsleitung Dollern – Alfstedt – Hagen im Bremischen/Schwanewede – Elsfleth West; Drehstrom Nennspannung 380 kV | – |
 | 39 | Höchstspannungsleitung Güstrow – Parchim Süd – Perleberg – Stendal West – Wolmirstedt; Drehstrom Nennspannung 380 kV | – |
 | mit den Einzelmaßnahmen |  |
 | – Maßnahme Güstrow – Parchim Süd |  |
 | – Maßnahme Parchim Süd – Perleberg |  |
 | – Maßnahme Perleberg – Stendal West – Wolmirstedt |  |
 | 40 | Höchstspannungsleitung Punkt Neuravensburg – Bundesgrenze (AT); Drehstrom Nennspannung 380 kV | A2 |
-| 41 | Höchstspannungsleitung Raitersaich – Ludersheim – Sittling – Altheim; Drehstrom Nennspannung 380 kV | F |
+| 41 | Höchstspannungsleitung Raitersaich – Altdorf b. Nürnberg/Winkelhaid – Sittling – Altheim; Drehstrom Nennspannung 380 kV | F |
 | mit den Einzelmaßnahmen |  |
-| – Maßnahme Raitersaich – Ludersheim |  |
-| – Maßnahme Ludersheim – Sittling – Altheim |  |
-| 42 | Höchstspannungsleitung Kreis Segeberg – Lübeck – Siems – Göhl; Drehstrom Nennspannung 380 kV | F |
+| – Maßnahme Raitersaich – Altdorf b. Nürnberg/Winkelhaid |  |
+| – Maßnahme Altdorf b. Nürnberg/Winkelhaid – Sittling – Altheim |  |
+| 42 | Höchstspannungsleitung Kreis Segeberg – Lübeck – Siems mit Abzweig Ratekau – Göhl; Drehstrom Nennspannung 380 kV | F |
 | mit den Einzelmaßnahmen |  |
 | – Maßnahme Kreis Segeberg – Lübeck |  |
 | – Maßnahme Lübeck – Siems |  |
-| – Maßnahme Lübeck – Göhl |  |
+| – Maßnahme Abzweig Ratekau – Göhl |  |
 | 43 | Höchstspannungsleitung Borken – Mecklar; Drehstrom Nennspannung 380 kV | – |
 | 44 | Höchstspannungsleitung Schraplau/Obhausen – Wolkramshausen – Vieselbach; Drehstrom Nennspannung 380 kV | A1 |
 | 45 | Höchstspannungsleitung Borken – Twistetal; Drehstrom Nennspannung 380 kV | – |
 | 46 | Höchstspannungsleitung Redwitz – Landesgrenze Bayern/Thüringen (Punkt Tschirn); Drehstrom Nennspannung 380 kV | – |
 | 47 | Höchstspannungsleitung Oberbachern – Ottenhofen; Drehstrom Nennspannung 380 kV | – |
-| 48 | Höchstspannungsleitung Heide West – Polsum; Gleichstrom | A1, B, E |
+| 48 | Höchstspannungsleitung Heide West – Polsum; Gleichstrom | A1, B, E, H |
 | mit den Bestandteilen |  |
 | – Heide West – B 431 südlich Roßkopp (Wewelsfleth) |  |
 | – B 431 südlich Roßkopp (Wewelsfleth) – L 111 östlich Allwörden (Freiburg (Elbe)/Wischhafen) | G |
 | – L 111 östlich Allwörden (Freiburg (Elbe)/Wischhafen) – Polsum |  |
-| 49 | Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland – Hamm; Gleichstrom | A1, B, E |
+| 49 | Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland – Lippetal/Welver/Hamm; Gleichstrom | A1, B, E, H |
 | 50 | Höchstspannungsleitung Brunsbüttel – Büttel – Wilster West – Amt Geest und Marsch Südholstein; Drehstrom Nennspannung 380 kV | – |
-| 51 | Höchstspannungsleitung Hamburg Nord – Hamburg Ost – Krümmel; Drehstrom Nennspannung 380 kV | A1 |
-| 52 | Höchstspannungsleitung Güstrow – Bentwisch – Sanitz/Dettmannsdorf; Drehstrom Nennspannung 380 kV | – |
-| 53 | Höchstspannungsleitung Güstrow – Siedenbrünzow – Iven – Pasewalk Nord – Pasewalk; Drehstrom Nennspannung 380 kV | – |
+| 51 | Höchstspannungsleitung Hamburg Nord – Hamburg Ost – Ämter Büchen/Breitenfelde/Schwarzenbek-Land; Drehstrom Nennspannung 380 kV | A1 |
+|  | mit den Einzelmaßnahmen |  |
+|  | – Hamburg Nord – Hamburg Ost |  |
+|  | – Hamburg Ost – Ämter Büchen/Breitenfelde/Schwarzenbek-Land |  |
+| 52 | Höchstspannungsleitung Güstrow – Bentwisch – Sanitz/Gnewitz/Dettmannsdorf/Marlow; Drehstrom Nennspannung 380 kV | – |
+|  | mit den Einzelmaßnahmen |  |
+|  | – Güstrow – Bentwisch |  |
+|  | – Bentwisch – Sanitz/Gnewitz/Dettmannsdorf/Marlow |  |
+| 53 | Höchstspannungsleitung Güstrow – Siedenbrünzow –Iven/Krusenfelde/Krien/Spantekow/Werder/Bartow – Pasewalk Nord – Pasewalk;Drehstrom Nennspannung 380 kV | – |
 | 54 | Höchstspannungsleitung Conneforde – Unterweser; Drehstrom Nennspannung 380 kV | – |
 | 55 | Höchstspannungsleitung Elsfleth West – Ganderkesee mit Abzweig Niedervieland; Drehstrom Nennspannung 380 kV | A1 |
-| 56 | Höchstspannungsleitung Conneforde – Elsfleth West – Abzweig Blockland – Samtgemeinde Sottrum; Drehstrom Nennspannung 380 kV | – |
-| 57 | Höchstspannungsleitung Dollern – Grafschaft Hoya – Ovenstädt – Eickum – Bechterdissen; Drehstrom Nennspannung 380 kV | A1, G |
-| 58 | Höchstspannungsleitung Krümmel – Lüneburg – Stadorf – Wahle; Drehstrom Nennspannung 380 kV | A1, G |
-| 59 | Höchstspannungsleitung Landesbergen – Mehrum Nord; Drehstrom Nennspannung 380 kV | – |
-| 60 | Höchstspannungsleitung Siedenbrünzow – Güstrow – Putlitz Süd – Perleberg – Osterburg – Stendal West – Wolmirstedt – Schwanebeck – Klostermansfeld – Schraplau/Obhausen – Lauchstädt; Drehstrom Nennspannung 380 kV | A1 |
+| 56 | Höchstspannungsleitung Conneforde – Ovelgönne/Rastede/Wiefelstede/Westerstede – Elsfleth West – Bezirk Bremen-West/Lilienthal/Ritterhude – Samtgemeinde Sottrum; Drehstrom Nennspannung 380 kV | – |
+| 57 | Höchstspannungsleitung Dollern – Samtgemeinde Sottrum – Grafschaft Hoya – Ovenstädt – Eickum – Bechterdissen; Drehstrom Nennspannung 380 kV | – |
+| 58 | Höchstspannungsleitung Ämter Büchen/Breitenfelde/Schwarzenbek-Land –Lüneburg/Samtgemeinde Gellersen/Samtgemeinde Ilmenau – Stadorf – Wahle;Drehstrom Nennspannung 380 kV | – |
+| 59 | Höchstspannungsleitung Landesbergen – Lehrte – Mehrum Nord – Vechelde – Salzgitter; Drehstrom Nennspannung 380 kV | – |
+|  | mit den Einzelmaßnahmen |  |
+|  | – Landesbergen – Lehrte – Mehrum Nord |  |
+|  | – Mehrum Nord – Vechelde |  |
+|  | – Vechelde – Salzgitter |  |
+| 60 | Höchstspannungsleitung Siedenbrünzow – Güstrow – Putlitz Süd – Putlitz – Perleberg – Stendal West – Wolmirstedt – Schwanebeck/Huy – Klostermansfeld – Schraplau/Obhausen – Lauchstädt;Drehstrom Nennspannung 380 kV | A1 |
 | 61 | Höchstspannungsleitung Ragow – Streumen; Drehstrom Nennspannung 380 kV | A1 |
 | 62 | Höchstspannungsleitung Graustein – Bärwalde; Drehstrom Nennspannung 380 kV | – |
 | 63 | Höchstspannungsleitung Hanekenfähr – Gronau; Drehstrom Nennspannung 380 kV | A1 |
-| 64 | Höchstspannungsleitung Hattingen – Linde; Drehstrom Nennspannung 380 kV | – |
+| 64 | Höchstspannungsleitung Hattingen – Bezirk Ronsdorf (Wuppertal);Drehstrom Nennspannung 380 kV | – |
 | 65 | Höchstspannungsleitung Borken – Gießen Nord – Karben; Drehstrom Nennspannung 380 kV | – |
 | mit den Einzelmaßnahmen |  |
 | – Maßnahme Borken – Gießen Nord |  |
@@ -128,7 +138,10 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | – Wilhelmshaven/Landkreis Friesland – Fedderwarden |  |
 | – Wilhelmshaven/Landkreis Friesland – Conneforde |  |
 | 74 | Höchstspannungsleitung Punkt Blatzheim – Oberzier; Drehstrom Nennspannung 380 kV | – |
-| 75 | Höchstspannungsleitung Zukunft – Verlautenheide; Drehstrom Nennspannung 380 kV | – |
+| 75 | Höchstspannungsleitung Siersdorf – Zukunft/Verlautenheide – Zukunft – Verlautenheide; Drehstrom Nennspannung 380 kV | – |
+|  | mit den Einzelmaßnahmen |  |
+|  | – Siersdorf – Zukunft/Verlautenheide |  |
+|  | – Zukunft – Verlautenheide |  |
 | 76 | Höchstspannungsleitung Kriftel – Farbwerke Höchst-Süd; Drehstrom Nennspannung 380 kV | – |
 | 77 | Höchstspannungsleitung Isar – Altheim; Drehstrom Nennspannung 380 kV | F |
 | 78 | Höchstspannungsleitung Grenzkorridor II – Hanekenfähr (DolWin4); Gleichstrom | B, E |
@@ -141,6 +154,31 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | – Emden – Wietmarschen/Geeste | A2, G |
 | – Wietmarschen/Geeste – Hanekenfähr |  |
 | 80 | Höchstspannungsleitung Grenzkorridor V – Büttel (BorWin6); Gleichstrom | B |
+| 81 | Höchstspannungsleitung Hemmingstedt/Lieth/Lohe-Rickelshof/Wöhrden – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin; Gleichstrom | A1, B, E, H |
+| 82 | Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede – Bürstadt; Gleichstrom | A1, B, E, H |
+| 83 | Höchstspannungsleitung Sanitz/Gnewitz/Dettmannsdorf/Marlow – Schweden (Hansa PowerBridge II); Gleichstrom | B |
+| 84 | Höchstspannungsleitung Lübeck – Ämter Büchen/Breitenfelde/Schwarzenbek-Land; Drehstrom Nennspannung 380 kV | – |
+| 85 | Höchstspannungsleitung Güstrow – Wessin – Görries – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Ämter Büchen/Breitenfelde/Schwarzenbek-Land – Krümmel; Drehstrom Nennspannung 380 kV | A1, G |
+| 86 | Höchstspannungsleitung Emden Ost – Bundesgrenze (NL);Drehstrom Nennspannung 380 kV | A2 |
+| 87 | Höchstspannungsleitungen Netzausbau und Verstärkung Berlin; |  |
+|  | Drehstrom, Nennspannung 380 kV |  |
+|  | mit den Bestandteilen |  |
+|  | – Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide |  |
+|  | – Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-Kreuzberg (Berlin) | A1, F |
+|  | – Malchow – Bezirke Mitte/Reinickendorf (Berlin) – Reuter | A1, F |
+|  | – Reuter – Teufelsbruch | F |
+| 88 | Höchstspannungsleitung Landesbergen – Grohnde – Vörden – Würgassen – Sandershausen Ost – Bergshausen – Borken; Drehstrom Nennspannung 380 kV | A1 |
+| 89 | Höchstspannungsleitung Westerkappeln – Gersteinwerk;Drehstrom Nennspannung 380 kV | – |
+| 90 | Höchstspannungsleitung Gersteinwerk – Lippe – Mengede;Drehstrom Nennspannung 380 kV | – |
+| 91 | Höchstspannungsleitung Emscherbruch – Hüllen – Eiberg – Bochum – Hattingen;Drehstrom Nennspannung 380 kV | – |
+| 92 | Höchstspannungsleitung Walsum – Beeck; Drehstrom Nennspannung 380 kV | – |
+| 93 | Höchstspannungsleitung Lauchstädt – Leuna/Merseburg/Weißenfels – Pulgar;Drehstrom Nennspannung 380 kV | A1 |
+| 94 | Höchstspannungsleitung Sechtem – Ließem – Weißenthurm;Drehstrom Nennspannung 380 kV | A1 |
+| 95 | Höchstspannungsleitung Dahlem – Bundesgrenze (BE); Gleichstrom | B, E |
+| 96 | Höchstspannungsleitung Aschaffenburg – Urberach; Drehstrom Nennspannung 380 kV | A1 |
+| 97 | Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR);Drehstrom Nennspannung 380 kV | A2, G |
+| 98 | Höchstspannungsleitung Punkt Fraulautern – Saarwellingen/Saarlouis/Dillingen (Saar) – Diefflen; Drehstrom Nennspannung 380 kV | – |
+| 99 | Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH);Drehstrom Nennspannung 380 kV | A2, G |
 Kennzeichnung
 | A1 | = | Länderübergreifende Leitung im Sinne von § 2 Absatz 1 Satz 1 |
 | A2 | = | Grenzüberschreitende Leitung im Sinne von § 2 Absatz 1 Satz 2 |
