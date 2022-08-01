@@ -53,7 +53,7 @@ bis 4 | 10
 37 und 38 | 51
 39 und 40 | 52
 Der schulbezogene Anrechnungsumfang erhöht sich an Förderschulen je zugewiesener Leitungsstelle eines Fachbe-reichs um bis zu vier Anrechnungsstunden.
-3. Für Gymnasien, Abendgymnasien, Kollegs:
+3. Für Gymnasien, Abendgymnasien, Kollegs und Gemeinschaftsschulen:
 Gymnasien, Abendgymnasien, Kollegs
 Anzahl der Klassen | Anrechnungsstunden
 Anzahl der Klassen (ohne Vorbereitungsklassen) | Anrechnungsstunden
@@ -89,7 +89,7 @@ bis 4 | 20
 43 bis 47 | 61
 48 bis 54 | 62
 Ab 55 Klassen erhöht sich der Umfang für je angefangene weitere zehn Klassen um eine Anrechnungsstunde.
-Der schulbezogene Anrechnungsumfang erhöht sich an Gymnasien, Abendgymnasien und Kollegs je zugewiesener Leitungsstelle eines Fachbereichs um bis zu vier Anrechnungsstunden.
+Der schulbezogene Anrechnungsumfang erhöht sich an Gymnasien, Abendgymnasien, Kollegs und Gemeinschaftsschulen je zugewiesener Leitungsstelle eines Fachbereichs um bis zu vier Anrechnungsstunden.
 4. Für berufsbildende Schulen:
 berufsbildende Schulen
 Anzahl der Klassen | Anrechnungsstunden
@@ -127,5 +127,5 @@ bis 5 | 17
 48 bis 54 | 58
 Ab 55 Klassen erhöht sich der Umfang für je angefangene weitere zehn Klassen um eine Anrechnungsstunde.
 Der schulbezogene Anrechnungsumfang erhöht sich an berufsbildenden Schulen je zugewiesener Leitungsstelle eines Fachbereichs um bis zu sechs Anrechnungsstunden.
-Bei einem Beruflichen Gymnasium erhöht sich der schulbezogene Anrechnungsumfang für die Aufgabe der Schüler-beratung bei bis zu 200 Schülern um vier Anrechnungsstunden und bei über 200 Schülern um fünf Anrechnungsstunden.
-Für die Betreuung des fachpraktischen Unterrichts an der Fachoberschule und der berufspraktischen Ausbildung an der Berufsfachschule, die in Einrichtungen außerhalb der Schule stattfinden, erhöht sich der schulbezogene Anrechnungs-umfang für jede betreute Klasse um zwei Anrechnungsstunden. Für die Betreuung der Praktika von Schülern der Berufsfachschule und der Fachschule, die in Einrichtungen außerhalb der Schule stattfinden, erhöht sich der schulbezogene Anrechnungsumfang für jede betreute Klasse um zwei Anrechnungsstunden.
+Bei einem Beruflichen Gymnasium erhöht sich der schulbezogene Anrechnungsumfang für die Aufgabe der Schülerberatung bei bis zu 200 Schülerinnen und Schülern um vier Anrechnungsstunden und bei über 200 Schülerinnen und Schülern um fünf Anrechnungsstunden.
+Für die Betreuung des fachpraktischen Unterrichts an der Fachoberschule und der berufspraktischen Ausbildung an der Berufsfachschule, die in Einrichtungen außerhalb der Schule stattfinden, erhöht sich der schulbezogene Anrechnungs-umfang für jede betreute Klasse um zwei Anrechnungsstunden. Für die Betreuung der Praktika von Schülerinnen und Schülern der Berufsfachschule und der Fachschule, die in Einrichtungen außerhalb der Schule stattfinden, erhöht sich der schulbezogene Anrechnungsumfang für jede betreute Klasse um zwei Anrechnungsstunden.

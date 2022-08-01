@@ -1,11 +1,11 @@
 # Anlage 2 (zu § 4 Absatz 3 Nummer 2)
-Personenbezogener Anrechnungsumfang für Lehrbeauftragte im Vorbereitungsdienst und in der schulpraktischen Ausbildung für Seiteneinsteiger
-1. Hauptausbildungsleiter
-Für die Wahrnehmung der Aufgaben des Hauptausbildungsleiters werden neun Anrechnungsstunden und im Lehramt Sonderpädagogik sieben Anrechnungsstunden gewährt.
-2. Fachausbildungsleiter
-Für die Aufgaben des Fachausbildungsleiters ergibt sich in Abhängigkeit von der Größe der Fachgruppe folgender Anrechnungsumfang:
+Personenbezogener Anrechnungsumfang für Lehrbeauftragte im Vorbereitungsdienst und in der schulpraktischen Ausbildung für Seiteneinsteigerinnen und Seiteneinsteiger
+1. Hauptausbildungsleiterin und Hauptausbildungsleiter
+Für die Wahrnehmung der Aufgaben der Hauptausbildungsleiterin und des Hauptausbildungsleiters werden neun Anrechnungsstunden und im Lehramt Sonderpädagogik sieben Anrechnungsstunden gewährt.
+2. Fachausbildungsleiterin und Fachausbildungsleiter
+Für die Aufgaben der Fachausbildungsleiterin und des Fachausbildungsleiters ergibt sich in Abhängigkeit von der Größe der Fachgruppe folgender Anrechnungsumfang:
 a)
-Fachausbildungsleiter für das Lehramt an Grundschulen
+Fachausbildungsleiterin und Fachausbildungsleiter für das Lehramt an Grundschulen
 aa)
 für die Fächer Deutsch oder Mathematik
 Deutsch oder Mathematik
@@ -40,7 +40,7 @@ Personen pro Fachgruppe | Anrechnungsstunden
 9 | 12
 10 | 13
 b)
-Fachausbildungsleiter für das Lehramt an Oberschulen, an Gymnasien oder an berufsbildenden Schulen
+Fachausbildungsleiterin und Fachausbildungsleiter für das Lehramt an Oberschulen, an Gymnasien oder an berufsbildenden Schulen
 Fachausbildungsleiter für das Lehramt an Oberschulen, an Gymnasien oder an berufsbildenden Schulen
 Personen pro Fachgruppe | Anrechnungsstunden
 Personen pro Fachgruppe | Anrechnungsstunden
@@ -52,7 +52,7 @@ Personen pro Fachgruppe | Anrechnungsstunden
 8 | 10
 9 und 10 | 11
 c)
-Fachausbildungsleiter für das Lehramt Sonderpädagogik
+Fachausbildungsleiterin und Fachausbildungsleiter für das Lehramt Sonderpädagogik
 aa)
 für den ersten Förderschwerpunkt mit Unterrichtsbesuchen
 für den ersten Förderschwerpunkt mit Unterrichtsbesuchen
@@ -81,8 +81,8 @@ Personen pro Fachgruppe | Anrechnungsstunden
 10 | 13
 cc)
 für den zweiten Förderschwerpunkt ohne Unterrichtsbesuche
-Für die Wahrnehmung der Aufgaben des Fachausbildungsleiters für den zweiten Förderschwerpunkt werden zwei Anrechnungsstunden gewährt.
-3. Ausbilder für Schulrecht
-Für die Wahrnehmung der Aufgaben des Ausbilders für Schulrecht werden zwei Anrechnungsstunden gewährt.
+Für die Wahrnehmung der Aufgaben der Fachausbildungsleiterin und des Fachausbildungsleiters für den zweiten Förderschwerpunkt werden zwei Anrechnungsstunden gewährt.
+3. Ausbilderin und Ausbilder für Schulrecht
+Für die Wahrnehmung der Aufgaben der Ausbilderin und des Ausbilders für Schulrecht werden zwei Anrechnungsstunden gewährt.
 4. Erweitertes Mentorat
 Für die Wahrnehmung eines erweiterten Mentorats werden drei Anrechnungsstunden für Lehrbeauftragte und fünf Anrechnungsstunden für sonstige Lehrkräfte gewährt.
