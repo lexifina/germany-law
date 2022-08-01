@@ -57,6 +57,7 @@
 - [§ 30 Dienstantritt](0030.md)
 - [§ 31 Anreisekosten](0031.md)
 - [§ 32 Dienstleistungspflicht](0032.md)
+- [§ 32a Pflichtfortbildungen](0032a.md)
 - [§ 33 Dienstbescheinigung](0033.md)
 
 ### Unterabschnitt 2 Bordanwesenheit, Landgang, Gefahren für das Schiff

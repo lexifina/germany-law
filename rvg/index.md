@@ -72,7 +72,7 @@
 - [§ 38a Verfahren vor dem Europäischen Gerichtshof für Menschenrechte](0038a.md)
 - [§ 39 Von Amts wegen beigeordneter Rechtsanwalt](0039.md)
 - [§ 40 Als gemeinsamer Vertreter bestellter Rechtsanwalt](0040.md)
-- [§ 41 Prozesspfleger](0041.md)
+- [§ 41 Besonderer Vertreter](0041.md)
 - [§ 41a Vertreter des Musterklägers](0041a.md)
 
 ## Abschnitt 7 Straf- und Bußgeldsachen sowie bestimmte sonstige Verfahren

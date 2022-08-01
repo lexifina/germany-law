@@ -4,7 +4,7 @@ Abschnitt 1
 Allgemeine Bestimmungen
 | § 1 | Verzeichnisse |
 | § 2 | Akten |
-| § 3 | Urschriften, Ausfertigungen und Abschriften |
+| § 3 | Urschriften, Ausfertigungen, Abschriften und elektronische Urkunden |
 | § 4 | Form und Übergabe elektronischer Aufzeichnungen |
 | § 5 | Sicherheit elektronischer Aufzeichnungen |
 | § 6 | Technische und organisatorische Maßnahmen |

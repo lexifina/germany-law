@@ -12,5 +12,6 @@
 - [§ 8 Teil 2 der Gesellenprüfung](0008.md)
 - [§ 9 Gewichtungs- und Bestehensregelung](0009.md)
 - [§ 10 Bestehende Berufsausbildungsverhältnisse](0010.md)
+- [§ 10a Übergangsvorschrift](0010a.md)
 - [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
 - [Anlage (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin](anlage.md)

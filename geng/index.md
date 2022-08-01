@@ -214,7 +214,7 @@ Nachschusspflicht der Mitglieder
 ## Abschnitt 10 Schlussvorschriften
 
 - [§ 155 Altregister im Beitrittsgebiet](0155.md)
-- [§ 156 Anwendbarkeit von Vorschriften über das Handelsregister; Bekanntmachung von Eintragungen](0156.md)
+- [§ 156 Anwendbarkeit von Vorschriften über das Handelsregister; Bekanntmachung von Eintragungen, Registerbekanntmachungen](0156.md)
 - [§ 157 Anmeldungen zum Genossenschaftsregister](0157.md)
 - [§ 158 Ersatzweise Bekanntmachung](0158.md)
 - [§ 159 (weggefallen)](0159.md)
@@ -233,3 +233,4 @@ Nachschusspflicht der Mitglieder
 - [§ 172 Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte](0172.md)
 - [§ 173 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0173.md)
 - [§ 174 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst](0174.md)
+- [§ 175 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie](0175.md)

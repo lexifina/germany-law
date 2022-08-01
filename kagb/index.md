@@ -19,7 +19,7 @@
 - [§ 9 Zusammenarbeit mit anderen Stellen](0009.md)
 - [§ 10 Allgemeine Vorschriften für die Zusammenarbeit bei der Aufsicht](0010.md)
 - [§ 11 Besondere Vorschriften für die Zusammenarbeit bei grenzüberschreitender Verwaltung und grenzüberschreitendem Vertrieb von AIF](0011.md)
-- [§ 12 Meldungen der Bundesanstalt an die Europäische Kommission, an die europäischen Aufsichtsbehörden und an den Betreiber des Bundesanzeigers](0012.md)
+- [§ 12 Meldungen der Bundesanstalt an die Europäische Kommission, an die europäischen Aufsichtsbehörden und an die das Unternehmensregister führende Stelle](0012.md)
 - [§ 13 Informationsaustausch mit der Deutschen Bundesbank](0013.md)
 - [§ 14 Auskünfte und Prüfungen](0014.md)
 - [§ 15 Einschreiten gegen unerlaubte Investmentgeschäfte](0015.md)
@@ -625,3 +625,4 @@
 - [§ 361 Übergangsvorschriften zu § 5 Absatz 2 Satz 2 und 3](0361.md)
 - [§ 362 Übergangsvorschrift zum Fondsstandortgesetz](0362.md)
 - [§ 363 Übergangsvorschrift zum Gesetz zur weiteren Stärkung des Anlegerschutzes](0363.md)
+- [§ 364 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie](0364.md)

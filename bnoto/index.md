@@ -117,9 +117,10 @@
 
 ### Abschnitt 7 Allgemeine Vorschriften für das Verwaltungsverfahren
 
-- [§ 64a Anwendbarkeit des Verwaltungsverfahrensgesetzes; Übermittlung personenbezogener Informationen](0064a.md)
+- [§ 64a Anwendbarkeit der Verwaltungsverfahrensgesetze](0064a.md)
 - [§ 64b Bestellung eines Vertreters](0064b.md)
 - [§ 64c Ersetzung der Schriftform](0064c.md)
+- [§ 64d Übermittlung von Daten](0064d.md)
 
 ## Teil 2 Notarkammern und Bundesnotarkammer
 
@@ -133,6 +134,7 @@
 - [§ 69 Vorstand](0069.md)
 - [§ 69a Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen](0069a.md)
 - [§ 69b Abteilungen](0069b.md)
+- [§ 69c Vorzeitiges Ausscheiden eines Vorstandsmitglieds](0069c.md)
 - [§ 70 Präsident](0070.md)
 - [§ 71 Kammerversammlung](0071.md)
 - [§ 72 Regelung durch Satzung](0072.md)
@@ -204,7 +206,7 @@
 - [§ 107 Bestellung der richterlichen Mitglieder](0107.md)
 - [§ 108 Bestellung der notariellen Beisitzer](0108.md)
 - [§ 109 Anzuwendende Verfahrensvorschriften](0109.md)
-- [§ 110 Maßgebliches Verfahren](0110.md)
+- [§ 110 Verhältnis des Disziplinarverfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen](0110.md)
 - [§ 110a Tilgung](0110a.md)
 
 ### Abschnitt 3 Gerichtliches Verfahren in verwaltungsrechtlichen Notarsachen

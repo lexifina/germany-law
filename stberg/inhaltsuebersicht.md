@@ -15,6 +15,10 @@ Befugnis
 | § 3a | Befugnis zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen |
 | § 3b | Verzeichnis der nach § 3a zur vorübergehenden und gelegentlichen Hilfeleistung in Steuersachen befugten Personen |
 | § 3c | Befugnis juristischer Personen und Vereinigungen zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen |
+| § 3d | Partieller Zugang, Voraussetzungen und Antrag |
+| § 3e | Erlaubnis zum partiellen Zugang |
+| § 3f | Untersagung des partiellen Zugangs |
+| § 3g | Elektronisches Verzeichnis der partiell zugelassenen Personen |
 | § 4 | Befugnis zu beschränkter Hilfeleistung in Steuersachen |
 Dritter Unterabschnitt
 Verbot und Untersagung
@@ -26,7 +30,7 @@ Sonstige Vorschriften
 | § 8 | Werbung |
 | § 9 | Vergütung |
 | § 9a | Erfolgshonorar |
-| § 10 | Mitteilungen über Pflichtverletzungen und andere Informationen |
+| § 10 | Übermittlung von Daten |
 | § 10a | Mitteilung über den Ausgang eines Bußgeldverfahrens wegen unbefugter Hilfeleistung in Steuersachen |
 | § 10b | Vorwarnmechanismus |
 | § 11 | Verarbeitung personenbezogener Daten |
@@ -66,7 +70,7 @@ Zweiter Teil
 Steuerberaterordnung
 Erster Abschnitt
 Allgemeine Vorschriften
-| § 32 | Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften |
+| § 32 | Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften |
 | § 33 | Inhalt der Tätigkeit |
 | § 34 | Berufliche Niederlassung, weitere Beratungsstellen |
 Zweiter Abschnitt
@@ -96,17 +100,24 @@ Bestellung
 | § 48 | Wiederbestellung |
 Dritter Unterabschnitt
 Steuerberatungsgesellschaft
-| § 49 | Rechtsform der Gesellschaft, anerkennende Steuerberaterkammer, Gesellschaftsvertrag |
-| § 50 | Voraussetzungen für die Anerkennung |
-| § 50a | Kapitalbindung |
-| § 51 | Gebühren für die Anerkennung |
-| § 52 | Urkunde |
-| § 53 | Bezeichnung „Steuerberatungsgesellschaft“ |
-| § 54 | Erlöschen der Anerkennung |
-| § 55 | Rücknahme und Widerruf der Anerkennung |
+| § 49 | Berufsausübungsgesellschaften |
+| § 50 | Berufsausübungsgesellschaften mit Angehörigen anderer Berufe |
+| § 51 | Berufspflichten bei beruflicher Zusammenarbeit |
+| § 52 | Berufspflichten der Berufsausübungsgesellschaft |
+| § 53 | Anerkennung |
+| § 54 | Anerkennungsverfahren; Gebühr; Anzeigepflicht |
+| § 55 | Erlöschen, Rücknahme und Widerruf der Anerkennung; Abwickler |
+| § 55a | Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften |
+| § 55b | Geschäftsführungsorgane; Aufsichtsorgane |
+| § 55c | Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen |
+| § 55d | Vertretung vor Gerichten und Behörden |
+| § 55e | Berufliche Niederlassung der Berufsausübungsgesellschaft |
+| § 55f | Berufshaftpflichtversicherung |
+| § 55g | Steuerberatungsgesellschaft |
+| § 55h | Bürogemeinschaft |
 Dritter Abschnitt
 Rechte und Pflichten
-| § 56 | Weitere berufliche Zusammenschlüsse |
+| § 56 | (weggefallen) |
 | § 57 | Allgemeine Berufspflichten |
 | § 57a | Werbung |
 | § 58 | Tätigkeit als Angestellter |
@@ -126,7 +137,7 @@ Rechte und Pflichten
 | § 69 | Bestellung eines allgemeinen Vertreters |
 | § 70 | Bestellung eines Praxisabwicklers |
 | § 71 | Bestellung eines Praxistreuhänders |
-| § 72 | Steuerberatungsgesellschaften |
+| § 72 | (weggefallen) |
 Vierter Abschnitt
 Organisation des Berufs
 | § 73 | Steuerberaterkammer |
@@ -134,9 +145,15 @@ Organisation des Berufs
 | § 74a | Mitgliederakten |
 | § 75 | Gemeinsame Steuerberaterkammer |
 | § 76 | Aufgaben der Steuerberaterkammer |
-| § 77 | Vorstand |
+| § 76a | Eintragung in das Berufsregister |
+| § 76b | Löschung aus dem Berufsregister |
+| § 76c | Mitteilungspflichten; Einsicht in das Berufsregister |
+| § 76d | Weitere Eintragungen in das Berufsregister |
+| § 76e | Anzeigepflichten |
+| § 77 | Wahl des Vorstands |
 | § 77a | Abteilungen des Vorstandes |
 | § 77b | Ehrenamtliche Tätigkeit |
+| § 77c | Vorzeitiges Ausscheiden eines Vorstandsmitglieds |
 | § 78 | Satzung |
 | § 79 | Beiträge und Gebühren |
 | § 80 | Pflicht zum Erscheinen vor der Steuerberaterkammer |
@@ -149,6 +166,11 @@ Organisation des Berufs
 | § 86 | Aufgaben der Bundessteuerberaterkammer |
 | § 86a | Zusammensetzung und Arbeitsweise der Satzungsversammlung |
 | § 86b | Steuerberaterverzeichnis |
+| § 86c | Steuerberaterplattform |
+| § 86d | Besonderes elektronisches Steuerberaterpostfach |
+| § 86e | Besonderes elektronisches Steuerberaterpostfach für Berufsausübungsgesellschaften |
+| § 86f | Verordnungsermächtigung |
+| § 86g | Ersetzung der Schriftform |
 | § 87 | Beiträge zur Bundessteuerberaterkammer |
 | § 87a | Wirtschaftsplan, Rechnungslegung |
 | § 88 | Staatsaufsicht |
@@ -158,11 +180,13 @@ Erster Unterabschnitt
 Die berufsgerichtliche
 Ahndung von Pflichtverletzungen
 | § 89 | Ahndung einer Pflichtverletzung |
+| § 89a | Leitungspersonen |
+| § 89b | Rechtsnachfolger |
 | § 90 | Berufsgerichtliche Maßnahmen |
 | § 91 | Rüge und berufsgerichtliche Maßnahme |
 | § 92 | Anderweitige Ahndung |
-| § 93 | Verjährung der Verfolgung einer Pflichtverletzung |
-| § 94 | Vorschriften für Mitglieder der Steuerberaterkammer, die nicht Steuerberater oder Steuerbevollmächtigte sind |
+| § 93 | Verjährung von Pflichtverletzungen |
+| § 94 | (weggefallen) |
 Zweiter Unterabschnitt
 Die Gerichte
 | § 95 | Kammer für Steuerberater- und Steuerbevollmächtigtensachen beim Landgericht |
@@ -182,23 +206,29 @@ Allgemeines
 | § 105 | Vorschriften für das Verfahren |
 | § 106 | Keine Verhaftung des Steuerberaters oder Steuerbevollmächtigten |
 | § 107 | Verteidigung |
-| § 108 | Akteneinsicht des Steuerberaters oder Steuerbevollmächtigten |
+| § 108 | Akteneinsicht |
 | § 109 | Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren |
-| § 110 | Verhältnis des berufsgerichtlichen Verfahrens zu den Verfahren anderer Berufsgerichtsbarkeiten |
+| § 110 | Verhältnis des berufsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen |
 | § 111 | Aussetzung des berufsgerichtlichen Verfahrens |
+| § 111a | Berufsgerichtliches Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften |
+| § 111b | Vertretung von Berufsausübungsgesellschaften |
+| § 111c | Besonderer Vertreter |
+| § 111d | Verfahrenseintritt von Rechtsnachfolgern |
+| § 111e | Vernehmung des gesetzlichen Vertreters |
+| § 111f | Berufs- und Vertretungsverbot |
 Zweiter Teilabschnitt
 Das Verfahren im ersten Rechtszug
 | § 112 | Örtliche Zuständigkeit |
 | § 113 | Mitwirkung der Staatsanwaltschaft |
 | § 114 | Einleitung des berufsgerichtlichen Verfahrens |
 | § 115 | Gerichtliche Entscheidung über die Einleitung des Verfahrens |
-| § 116 | Antrag des Steuerberaters oder Steuerbevollmächtigten auf Einleitung des berufsgerichtlichen Verfahrens |
+| § 116 | Antrag des Mitglieds der Steuerberaterkammer auf Einleitung des berufsgerichtlichen Verfahrens |
 | § 117 | Inhalt der Anschuldigungsschrift |
 | § 118 | Entscheidung über die Eröffnung des Hauptverfahrens |
 | § 119 | Rechtskraftwirkung eines ablehnenden Beschlusses |
 | § 120 | Zustellung des Eröffnungsbeschlusses |
-| § 121 | Hauptverhandlung trotz Ausbleibens des Steuerberaters oder Steuerbevollmächtigten |
-| § 122 | Nichtöffentliche Hauptverhandlung |
+| § 121 | Hauptverhandlung trotz Ausbleibens des Mitglieds der Steuerberaterkammer |
+| § 122 | (weggefallen) |
 | § 123 | Beweisaufnahme durch einen ersuchten Richter |
 | § 124 | Verlesen von Protokollen |
 | § 125 | Entscheidung |
@@ -256,9 +286,11 @@ Sechster Abschnitt
 | § 157 | Übergangsvorschriften aus Anlass des Gesetzes zur Änderung von Vorschriften über die Tätigkeit der Steuerberater |
 | § 157a | Übergangsvorschriften anlässlich des Achten Gesetzes zur Änderung des Steuerberatungsgesetzes |
 | § 157b | Anwendungsvorschrift |
+| § 157d | Anwendungsvorschrift aus Anlass des Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe |
+| § 157e | Anwendungsvorschrift zur Steuerberaterplattform und zu den besonderen elektronischen Steuerberaterpostfächern |
 Siebenter Abschnitt
 Verordnungsermächtigung
-| § 158 | Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften |
+| § 158 | Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften |
 Dritter Teil
 Zwangsmittel, Ordnungswidrigkeiten
 Erster Abschnitt

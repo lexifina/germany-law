@@ -154,4 +154,5 @@
 | § 87 | Bußgeldvorschriften |
 | § 88 | Mitteilungen an die Abschlussprüferaufsichtsstelle |
 |  |
-| Anlage |
+| Anlage 1 (zu § 2 Absatz 1a) |
+| Anlage 2 (zu § 2 Absatz 3) |

@@ -167,7 +167,8 @@ Handwerkskammern, Innungsverbände
 - [§ 108 Abrechnung des Arbeitsentgelts](0108.md)
 - [§ 109 Zeugnis](0109.md)
 - [§ 110 Wettbewerbsverbot](0110.md)
-- [(XXXX) §§ 111 und 112 (weggefallen)](xxxx-111-und-112.md)
+- [§ 111 Pflichtfortbildungen](0111.md)
+- [§ 112 (weggefallen)](0112.md)
 - [(XXXX) §§ 113 bis 132a (weggefallen)](xxxx-113-bis-132a.md)
 
 ### II. Meistertitel

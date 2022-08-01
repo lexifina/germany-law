@@ -13,7 +13,7 @@
 - [§ 8 Registerakten](0008.md)
 - [§ 9 Registerordner](0009.md)
 - [§ 10 Einsichtnahme](0010.md)
-- [§ 11](0011.md)
+- [§ 11 Bereitstellung von Unternehmensdaten über das Europäische System der Registervernetzung](0011.md)
 
 ## II. Führung des Handelsregisters
 
@@ -31,27 +31,28 @@
 - [§ 21 Umschreibung eines Registerblatts](0021.md)
 - [§ 22 Gegenstandslosigkeit aller Eintragungen](0022.md)
 
-## III. Verfahren bei Anmeldung,
+## III. Verfahren bei Anmeldung, Eintragung und Registerbekanntmachungen
 
 - [§ 23](0023.md)
 - [§ 24](0024.md)
 - [§ 25](0025.md)
 - [§ 26 Änderung eingetragener Angaben](0026.md)
-- [§ 27 Vornahme der Eintragung, Wortlaut der Bekanntmachung](0027.md)
+- [§ 27 Vornahme der Eintragung](0027.md)
 - [§ 28 Elektronische Signatur](0028.md)
 - [§ 29](0029.md)
 - [§ 30](0030.md)
 - [§ 30a Ausdrucke](0030a.md)
 - [§ 31](0031.md)
-- [§ 32](0032.md)
-- [§ 33](0033.md)
-- [§ 34](0034.md)
+- [§ 32 Bereitstellung der Eintragung zum Abruf](0032.md)
+- [§ 33 Registerbekanntmachungen nach § 10 Absatz 3 des Handelsgesetzbuchs](0033.md)
+- [§ 34 (weggefallen)](0034.md)
 - [§ 34a Veröffentlichungen im Amtsblatt der Europäischen Union](0034a.md)
 - [§ 35](0035.md)
 - [§ 36](0036.md)
 - [§ 37 Mitteilungen an andere Stellen](0037.md)
 - [§ 38](0038.md)
 - [§ 38a](0038a.md)
+- [§ 38b Überprüfung ausländischer Registereintragungen über das Europäische System der Registervernetzung](0038b.md)
 
 ## IV. Sondervorschriften für die Abteilungen A und B
 
@@ -99,7 +100,7 @@ Registerblatts durch Umschreibung](0051.md)
 - [Schlußformel](schlussformel.md)
 - [Anlage 1 (weggefallen)](anlage-1.md)
 - [Anlage 2 (weggefallen)](anlage-2.md)
-- [Anlage 3 (zu § 33 Abs. 3)Muster für Bekanntmachungen](anlage-3.md)
+- [Anlage 3 (zu § 33 Absatz 5)Muster für Registerbekanntmachungen](anlage-3.md)
 - [Anlage 4 (zu § 50 Abs. 1)](anlage-4.md)
 - [Anlage 5 (zu § 50 Abs. 1)](anlage-5.md)
 - [Anlage 6 (zu § 50 Abs. 1)](anlage-6.md)

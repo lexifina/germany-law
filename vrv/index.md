@@ -19,7 +19,7 @@
 - [§ 11 Änderung und Löschung von Eintragungen](0011.md)
 - [§ 12 Berichtigung von Eintragungen](0012.md)
 - [§ 13 Bekanntgabe gegenüber den Beteiligten](0013.md)
-- [§ 14 Öffentliche Bekanntmachung der Ersteintragung](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 - [§ 15 Erreichbarkeit des Vereins](0015.md)
 - [§ 16 Einsicht in das Vereinsregister](0016.md)
 - [§ 17 Abschriften, Bescheinigungen und Zeugnisse](0017.md)

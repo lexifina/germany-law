@@ -138,10 +138,14 @@ Weitere Geschäfte
 | Vorbemerkung 5: Mit den Gebühren 5001 bis 5006 wird auch der Aufwand für die Prüfung und Aufbewahrung der genannten Unterlagen abgegolten. |
 |  | Entgegennahme |  |
 | 5000 | (weggefallen) |  |
-| 5001 | –der Bekanntmachung der Eröffnungsbilanz durch die Liquidatoren (§ 89 Satz 3 GenG) | 30,00 € |
+| 5001 | (weggefallen) |  |
 | 5002 | –der Liste der Gesellschafter (§ 40 GmbHG) | 30,00 € |
 | 5003 | –der Liste der Mitglieder des Aufsichtsrats einschließlich der Bekanntmachung über die Einreichung (§ 52 Abs. 3 Satz 2 GmbHG, § 106 AktG) | 40,00 € |
 | 5004 | –der Mitteilung über den alleinigen Aktionär (§ 42 AktG) | 40,00 € |
 | 5005 | –des Protokolls der Hauptversammlung (§ 130 Abs. 5 AktG) | 50,00 € |
 | 5006 | –von Verträgen, eines Verschmelzungsplans oder von entsprechenden Entwürfen nach dem UmwG | 50,00 € |
 | 5007 | Übertragung von Schriftstücken in ein elektronisches Dokument (§ 9 Abs. 2 HGB): für jede angefangene Seite Die Gebühr wird für die Dokumente jedes Registerblatts gesondert erhoben. Mit der Gebühr wird auch die einmalige elektronische Übermittlung der Dokumente an den Antragsteller abgegolten. | 2,00 € – mindestens 25,00 € |
+Teil 6
+Bereitstellung zum Abruf
+| Nr. | Gebührentatbestand | Gebührenbetrag |
+| 6000 | Bereitstellung von Registerdaten oder Dokumenten zum Abruf Die Gebühr entsteht neben jeder Gebühr für eine Eintragung nach den Teilen 1 bis 4 und neben jeder Gebühr für eine Entgegennahme nach Teil 5 gesondert. § 34 Abs. 5 GNotKG ist nicht anzuwenden. | 1/3 der für die Eintragung oderEntgegennahme bestimmten Gebühr |

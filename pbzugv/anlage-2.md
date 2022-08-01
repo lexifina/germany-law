@@ -1,6 +1,7 @@
 # Anlage 2 (zu § 2 Abs. 3)
 
-(Fundstelle: BGBl. I 2000, 856 - 858)
+(Fundstelle: BGBl. I 2000, 856 - 858;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Zusatzbescheinigung nach § 2 Abs. 3
 der Berufszugangsverordnung für den Straßenpersonenverkehr
 Das Unternehmen
@@ -29,7 +30,8 @@ Buchprüfers, Steuerberaters,
 Steuerbevollmächtigten, Fachanwalts
 für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
-oder Steuerberatungsgesellschaft
+oder Berufsausübungsgesellschaft
+im Sinne des Steuerberatungsgesetzes
 oder eines Kreditinstituts)
 3. Unbelastetes Privatvermögen des persönlich haftenden Unternehmers
 a) Grundstücke Verkehrswert
@@ -59,7 +61,8 @@ Buchprüfers, Steuerberaters,
 Steuerbevollmächtigten, Fachanwalts
 für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
-oder Steuerberatungsgesellschaft
+oder Berufsausübungsgesellschaft
+im Sinne des Steuerberatungsgesetzes
 oder eines Kreditinstituts)
 4. Zu Gunsten des Unternehmens beliehene Gegenstände des Privatvermögens
 der Gesellschafter:
@@ -89,5 +92,6 @@ Buchprüfers, Steuerberaters,
 Steuerbevollmächtigten, Fachanwalts
 für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
-oder Steuerberatungsgesellschaft
+oder Berufsausübungsgesellschaft
+im Sinne des Steuerberatungsgesetzes
 oder eines Kreditinstituts)

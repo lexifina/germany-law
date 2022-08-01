@@ -11,7 +11,7 @@
 - [§ 6 Prüfung durch die Abschlußprüfer](0006.md)
 - [§ 7 Prüfung durch den Aufsichtsrat](0007.md)
 - [§ 8 Feststellung des Jahresabschlusses](0008.md)
-- [§ 9 Offenlegung des Jahresabschlusses und des LageberichtsPrüfung durch den Betreiber des Bundesanzeigers](0009.md)
+- [§ 9 Offenlegung des Jahresabschlusses und des LageberichtsPrüfung durch die das Unternehmensregister führende Stelle](0009.md)
 - [§ 10 Nichtigkeit des Jahresabschlusses](0010.md)
 
 ## Zweiter Abschnitt Rechnungslegung von Konzernen

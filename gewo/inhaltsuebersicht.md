@@ -151,7 +151,8 @@
 | § 108 | Abrechnung des Arbeitsentgelts |
 | § 109 | Zeugnis |
 | § 110 | Wettbewerbsverbot |
-| §§ 111 bis 132a | (weggefallen) |
+| § 111 | Pflichtfortbildungen |
+| §§ 112 bis 132a | (weggefallen) |
 |  |
 | II. Meistertitel |
 | § 133 | Befugnis zur Führung des Baumeistertitels |

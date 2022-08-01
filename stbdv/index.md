@@ -49,7 +49,7 @@ Steuerbevollmächtigter
 - [§ 38 Wiederbestellung](0038.md)
 - [§ 39](0039.md)
 
-## Dritter Teil Anerkennung als Steuerberatungsgesellschaft
+## Dritter Teil Anerkennung als Berufsausübungsgesellschaft
 
 - [§ 40 Verfahren](0040.md)
 - [§ 41 Anerkennungsurkunde](0041.md)
@@ -61,16 +61,9 @@ der Bezeichnung "Landwirtschaftliche Buchstelle"
 - [§ 43 Sachkunde-Ausschuss](0043.md)
 - [§ 44 Verleihung, Verleihungsurkunde](0044.md)
 
-## Fünfter Teil Berufsregister
+## Fünfter Teil (weggefallen)
 
-- [§ 45 Registerführende Stelle](0045.md)
-- [§ 46 Eintragung](0046.md)
-- [§ 47 Löschung](0047.md)
-- [§ 48 Mitteilungspflichten](0048.md)
-- [§ 49 Vereine, Personenvereinigungen und Körperschaften,
-die zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle"
-befugt sind](0049.md)
-- [§ 50 Anzeigepflichten](0050.md)
+- [(XXXX) §§ 45 bis 50 (weggefallen)](xxxx-45-bis-50.md)
 
 ## Sechster Teil Berufshaftpflichtversicherung
 

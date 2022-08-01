@@ -70,7 +70,7 @@
 | § 38a | Verfahren vor dem Europäischen Gerichtshof für Menschenrechte |
 | § 39 | Von Amts wegen beigeordneter Rechtsanwalt |
 | § 40 | Als gemeinsamer Vertreter bestellter Rechtsanwalt |
-| § 41 | Prozesspfleger |
+| § 41 | Besonderer Vertreter |
 | § 41a | Vertreter des Musterklägers |
 |  |
 | Abschnitt 7 |

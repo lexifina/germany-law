@@ -61,6 +61,7 @@
 
 - [§ 23a Leistungsanspruch](0023a.md)
 - [§ 23b Verordnungsermächtigung](0023b.md)
+- [§ 23c Informationspflicht bei Anwerbung aus dem Ausland](0023c.md)
 
 ## Abschnitt 7 Schlussvorschriften
 

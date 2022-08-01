@@ -108,11 +108,9 @@
 - [§ 74 Zweite Wiederholung](0074.md)
 - [§ 75 Geltung weiterer Vorschriften](0075.md)
 
-## Teil 5 Übergangs- und Schlussbestimmungen
+## Teil 5 Übergangsbestimmungen
 
 - [§ 76 Übergangsbestimmungen zu Teil 1](0076.md)
-- [§ 77 Übergangsbestimmungen zu Teil 2](0077.md)
+- [§ 77 Übergangsvorschrift zu § 33](0077.md)
 - [§ 78 Übergangsbestimmungen zu Teil 3](0078.md)
-- [§ 79 Übergangsbestimmungen zu Teil 4](0079.md)
-- [§ 80 Inkrafttreten, Außerkrafttreten](0080.md)
 - [Schlussformel](schlussformel.md)

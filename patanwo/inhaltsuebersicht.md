@@ -7,8 +7,9 @@ Der Patentanwalt
 | § 2 | Beruf des Patentanwalts |
 | § 3 | Recht zur Beratung und Vertretung |
 | § 4 | Auftreten vor den Gerichten |
+| § 4a | Beiordnung von Patentanwälten bei Prozesskostenhilfe |
 Zweiter Teil
-Zulassung des Patentanwalts
+Zulassung und allgemeine Vorschriften
 Erster Abschnitt
 Zulassung zur Patentanwaltschaft
 Erster Unterabschnitt
@@ -19,6 +20,7 @@ Allgemeine Voraussetzungen
 | § 8 | Prüfung |
 | § 9 | Prüfungskommission |
 | § 10 | Zulassung zur Prüfung |
+| § 10a | Patentsachbearbeiter |
 | § 11 | Patentassessor |
 | § 12 | Ausbildungs- und Prüfungsordnung |
 Zweiter Unterabschnitt
@@ -26,7 +28,7 @@ Zulassung zur
 Patentanwaltschaft und Erlöschen der Zulassung
 | § 13 | Antrag auf Zulassung zur Patentanwaltschaft |
 | § 14 | Versagung der Zulassung |
-| §§ 15 und 16 (weggefallen) |
+| §§ 15 und 16 | (weggefallen) |
 | § 17 | Aussetzung des Zulassungsverfahrens |
 | § 18 | Zulassung |
 | § 19 | Vereidigung |
@@ -44,12 +46,12 @@ Kanzlei und Patentanwaltsverzeichnis
 | § 29 | Patentanwaltsverzeichnis, Verordnungsermächtigung |
 Zweiter Abschnitt
 Verwaltungsverfahren
-| § 30 | Ergänzende Anwendung des Verwaltungsverfahrensgesetzes |
+| § 30 | Ergänzende Anwendung der Verwaltungsverfahrensgesetze |
 | § 31 | Sachliche Zuständigkeit |
 | § 32 | Zustellung |
 | § 33 | Bestellung eines Vertreters im Verwaltungsverfahren |
-| § 34 | Ermittlung des Sachverhalts und Übermittlung personenbezogener Daten |
-| §§ 35 bis 38 (weggefallen) |
+| § 34 | Ermittlung des Sachverhalts und Übermittlung von Daten |
+| §§ 35 bis 38 | (weggefallen) |
 Dritter Teil
 Rechte und Pflichten des Patentanwalts
 und berufliche Zusammenarbeit der Patentanwälte
@@ -60,7 +62,7 @@ Allgemeines
 | § 39b | Werbung |
 | § 39c | Inanspruchnahme von Dienstleistungen |
 | § 40 | Mitteilung der Ablehnung eines Auftrags |
-| § 41 | Tätigkeitsverbote |
+| § 41 | Tätigkeitsverbote bei nichtpatentanwaltlicher Vorbefassung |
 | § 41a | Angestellte Patentanwälte und Syndikuspatentanwälte |
 | § 41b | Zulassung als Syndikuspatentanwalt |
 | § 41c | Erlöschen und Änderung der Zulassung als Syndikuspatentanwalt |
@@ -71,7 +73,7 @@ Allgemeines
 | § 43b | Erfolgshonorar |
 | § 44 | Handakten |
 | § 45 | Berufshaftpflichtversicherung |
-| § 45a | Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung |
+| § 45a | (weggefallen) |
 | § 45b | Vertragliche Begrenzung von Ersatzansprüchen |
 | § 46 | Bestellung einer Vertretung |
 | § 47 | Befugnisse der Vertretung |
@@ -80,21 +82,24 @@ Allgemeines
 | § 50 | Zwangsgeld bei Verletzung der besonderen Pflichten |
 | § 51 | Mitgliederakten |
 | § 52 | Ausbildung von Bewerberinnen und Bewerbern für die Patentanwaltschaft |
-| § 52a | Berufliche Zusammenarbeit |
-| § 52b | Satzungskompetenz |
+| § 52a | Satzungskompetenz |
 Zweiter Abschnitt
-Patentanwaltsgesellschaften
-| § 52c | Zulassung als Patentanwaltsgesellschaft und Beteiligung an beruflichen Zusammenschlüssen |
-| § 52d | Zulassungsvoraussetzungen |
-| § 52e | Gesellschafter |
-| § 52f | Geschäftsführung |
-| § 52g | Zulassungsverfahren |
-| § 52h | Erlöschen der Zulassung |
-| § 52i | Kanzlei |
-| § 52j | Berufshaftpflichtversicherung |
-| § 52k | Firma |
-| § 52l | Vertretung vor Gerichten und Behörden |
-| § 52m | Mitteilungspflichten, anwendbare Vorschriften und Verschwiegenheitspflicht |
+Berufliche Zusammenarbeit
+| § 52b | Berufsausübungsgesellschaften |
+| § 52c | Berufsausübungsgesellschaften mit Angehörigen anderer Berufe |
+| § 52d | Berufspflichten bei beruflicher Zusammenarbeit |
+| § 52e | Berufspflichten der Berufsausübungsgesellschaft |
+| § 52f | Zulassung |
+| § 52g | Zulassungsverfahren; Anzeigepflicht |
+| § 52h | Erlöschen, Rücknahme und Widerruf der Zulassung; Abwickler |
+| § 52i | Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften |
+| § 52j | Geschäftsführungsorgane; Aufsichtsorgane |
+| § 52k | Recht zur Beratung und Vertretung |
+| § 52l | Kanzlei der Berufsausübungsgesellschaft |
+| § 52m | Berufshaftpflichtversicherung |
+| § 52n | Mindestversicherungssumme und Jahreshöchstleistung |
+| § 52o | Patentanwaltsgesellschaft |
+| § 52p | Bürogemeinschaft |
 Vierter Teil
 Die Patentanwaltskammer
 Erster Abschnitt
@@ -110,7 +115,7 @@ Erster Unterabschnitt
 Vorstand
 | § 58 | Zusammensetzung des Vorstands |
 | § 59 | Voraussetzungen der Wählbarkeit |
-| § 60 | Ausschluss von der Wählbarkeit |
+| § 60 | Verlust der Wählbarkeit |
 | § 61 | Recht zur Ablehnung der Wahl |
 | § 62 | Wahlperiode |
 | § 63 | Vorzeitiges Ausscheiden eines Vorstandsmitglieds |
@@ -138,7 +143,7 @@ Kammerversammlung
 | § 81 | Wahlen und Beschlüsse der Kammerversammlung |
 | § 82 | Aufgaben der Kammerversammlung |
 | § 82a | Prüfung der Berufsordnung und der Satzung der Kammer |
-| §§ 83 und 84 (weggefallen) |
+| §§ 83 und 84 | (weggefallen) |
 Fünfter Teil
 Gerichte in
 Patentanwaltssachen und gerichtliches
@@ -172,22 +177,33 @@ verwaltungsrechtlichen Patentanwaltssachen
 Sechster Teil
 Berufsgerichtliche Ahndung von Pflichtverletzungen
 | § 95 | Ahndung einer Pflichtverletzung |
+| § 95a | Leitungspersonen |
+| § 95b | Rechtsnachfolger |
 | § 96 | Berufsgerichtliche Maßnahmen |
-| § 97 | Verjährung der Verfolgung einer Pflichtverletzung |
-| § 97a | Vorschriften für Geschäftsführer von Patentanwaltsgesellschaften |
+| § 97 | Verjährung von Pflichtverletzungen |
+| § 97a | Rüge und berufsgerichtliche Maßnahme |
+| § 97b | Anderweitige Ahndung |
 Siebenter Teil
 Berufsgerichtliches Verfahren
 Erster Abschnitt
 Allgemeines
+Erster Unterabschnitt
+Allgemeine Verfahrensregeln
 | § 98 | Vorschriften für das Verfahren und den Rechtsschutz bei überlangen Gerichtsverfahren |
 | § 99 | Keine Verhaftung des Patentanwalts |
 | § 100 | Verteidigung |
 | § 101 | Akteneinsicht des Patentanwalts |
 | § 102 | Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren |
-| § 102a | Verhältnis des berufsgerichtlichen Verfahrens zu Verfahren anderer Berufsgerichtsbarkeiten |
+| § 102a | Verhältnis des berufsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen |
 | § 102b | Aussetzung des berufsgerichtlichen Verfahrens |
-| § 103 | Rüge und berufsgerichtliche Maßnahme |
-| § 103a | Anderweitige Ahndung |
+Zweiter Unterabschnitt
+Berufsgerichtliches Verfahren
+gegen Berufsausübungsgesellschaften
+| § 103 | Berufsgerichtliches Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften |
+| § 103a | Vertretung von Berufsausübungsgesellschaften |
+| § 103b | Besonderer Vertreter |
+| § 103c | Verfahrenseintritt von Rechtsnachfolgern |
+| § 103d | Vernehmung des gesetzlichen Vertreters |
 Zweiter Abschnitt
 Verfahren im ersten Rechtszug
 Erster Unterabschnitt
@@ -199,15 +215,15 @@ Einleitung des berufsgerichtlichen Verfahrens
 | § 106 | Einleitung des berufsgerichtlichen Verfahrens |
 | § 107 | Gerichtliche Entscheidung über die Einleitung |
 | § 108 | Antrag des Patentanwalts auf Einleitung des berufsgerichtlichen Verfahrens |
-| §§ 109 bis 114 (weggefallen) |
+| §§ 109 bis 114 | (weggefallen) |
 | § 115 | Inhalt der Anschuldigungsschrift |
 | § 116 | Entscheidung über die Eröffnung des Hauptverfahrens |
 | § 117 | Rechtskraftwirkung eines ablehnenden Beschlusses |
 | § 118 | Zustellung des Eröffnungsbeschlusses |
 Dritter Unterabschnitt
 Hauptverhandlung
-| § 119 | Hauptverhandlung trotz Ausbleibens des Patentanwalts |
-| § 120 | Nichtöffentliche Hauptverhandlung |
+| § 119 | Hauptverhandlung trotz Ausbleibens des Mitglieds der Patentanwaltskammer |
+| § 120 | (weggefallen) |
 | § 121 | Beweisaufnahme durch einen ersuchten Richter |
 | § 122 | Verlesen von Protokollen |
 | § 123 | Entscheidung |
@@ -264,7 +280,7 @@ Anträgen auf Entscheidung des Landgerichts
 | § 150 | Kostenpflicht des Verurteilten |
 | § 150a | Kostenpflicht im Verfahren bei Anträgen auf Entscheidung des Landgerichts |
 | § 151 | Haftung der Patentanwaltskammer |
-| §§ 152 bis 154 (weggefallen) |
+| §§ 152 bis 154 | (weggefallen) |
 Neunter Teil
 Beratungs- und Vertretungsbefugnis
 des Patentassessors in ständigem Dienstverhältnis
@@ -272,9 +288,14 @@ des Patentassessors in ständigem Dienstverhältnis
 | § 155a | Tätigkeitsverbote bei weiterer Tätigkeit als Patentanwalt |
 | § 156 | Auftreten vor den Gerichten |
 Zehnter Teil
-Übergangs- und Schlussvorschriften
-| § 157 | Maßgaben nach dem Einigungsvertrag |
-| § 158 | Patentsachbearbeiter |
-| § 159 | Befreiung von der Tätigkeit bei einem Patentanwalt |
+Ausländische Patentanwaltsberufe
+und Berufsausübungsgesellschaften
+| § 157 | Ausländische Patentanwaltsberufe; Verordnungsermächtigung |
+| § 158 | Aufnahme in die Patentanwaltskammer und berufliche Stellung; Rücknahme und Widerruf |
+| § 159 | Ausländische Berufsausübungsgesellschaften |
+Elfter Teil
+Übergangs-und Schlussvorschriften
 | § 160 | Inhaber von Erlaubnisscheinen |
-| Anlage (zu § 146 Satz 1 und § 148 Satz 1) Gebührenverzeichnis |
+| § 161 | Maßgabe nach dem Einigungsvertrag |
+| § 162 | Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften |
+| Anlage(zu § 146 Satz 1 und § 148 Satz 1) | Gebührenverzeichnis |

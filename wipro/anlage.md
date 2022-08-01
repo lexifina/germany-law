@@ -65,8 +65,8 @@ vorläufigen Tätigkeits- oder Berufsverbots nach § 120 WPO
 | Verfahren vor dem Bundesgerichtshof |
 | Unterabschnitt 1 |
 | Revision |
-| 310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 107a Abs. 3 Satz 1 WPO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO .......... | 2,0 |
-| 311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 107a Abs. 3 Satz 1 WPO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
+| 310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 127 WPO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO .......... | 2,0 |
+| 311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 127 WPO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
 |  | Die Gebühr bemisst sich nach der Maßnahme, die Gegenstand des Verfahrens war. Maßgeblich ist die Maßnahme, für die die höchste Gebühr bestimmt ist. Die Gebühr entfällt, wenn die Revision vor Ablauf der Begründungsfrist zurückgenommen wird. |  |
 | Unterabschnitt 2 |
 | Beschwerde |

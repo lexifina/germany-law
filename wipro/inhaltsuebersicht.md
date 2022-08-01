@@ -137,7 +137,7 @@ Berufsaufsicht
 | § 68c | Ordnungsgeld |
 | § 69 | Bekanntmachung von Maßnahmen, Bußgeldentscheidungen und strafrechtlichen Verurteilungen |
 | § 69a | Anderweitige Ahndung |
-| § 70 | Verjährung der Verfolgung einer Pflichtverletzung |
+| § 70 | Verjährung von Pflichtverletzungen |
 | § 71 | Vorschriften für Mitglieder der Wirtschaftsprüferkammer, die nicht Wirtschaftsprüfer sind, und Wirtschaftsprüfungsgesellschaften |
 Sechster Teil
 Berufsgerichtsbarkeit
@@ -176,7 +176,7 @@ Verfahren im ersten Rechtszug
 | § 94 | Verlesung der berufsaufsichtlichen Entscheidung |
 | §§ 95bis 97 | (weggefallen) |
 | § 98 | Hauptverhandlung trotz Ausbleibens der Berufsangehörigen |
-| § 99 | Nichtöffentliche Hauptverhandlung |
+| § 99 | (weggefallen) |
 | § 100 | (weggefallen) |
 | § 101 | Beweisaufnahme durch einen ersuchten Richter |
 | § 102 | Verlesen von Protokollen |
@@ -213,13 +213,13 @@ Vorläufige Untersagung
 Vierter Abschnitt
 Kosten des
 berufsgerichtlichen Verfahrens;
-Vollstreckung der berufsgerichtlichen
+Vollstreckung der berufsaufsichtlichen
 Maßnahmen und der Kosten; Tilgung
 | § 122 | Gerichtskosten |
 | § 123 | (weggefallen) |
 | § 124 | Kostenpflicht |
 | § 125 | (weggefallen) |
-| § 126 | Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten |
+| § 126 | Vollstreckung der berufsaufsichtlichen Maßnahmen und der Kosten |
 | § 126a | Tilgung |
 Fünfter Abschnitt
 Anzuwendende Vorschriften

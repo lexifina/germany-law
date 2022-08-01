@@ -21,6 +21,10 @@ Steuersachen
 - [§ 3a Befugnis zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen](0003a.md)
 - [§ 3b Verzeichnis der nach § 3a zur vorübergehenden und gelegentlichen Hilfeleistung in Steuersachen befugten Personen](0003b.md)
 - [§ 3c Befugnis juristischer Personen und Vereinigungen zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen](0003c.md)
+- [§ 3d Partieller Zugang, Voraussetzungen und Antrag](0003d.md)
+- [§ 3e Erlaubnis zum partiellen Zugang](0003e.md)
+- [§ 3f Untersagung des partiellen Zugangs](0003f.md)
+- [§ 3g Elektronisches Verzeichnis der partiell zugelassenen Personen](0003g.md)
 - [§ 4 Befugnis zu beschränkter Hilfeleistung in Steuersachen](0004.md)
 
 #### Dritter Unterabschnitt Verbot und
@@ -36,7 +40,7 @@ Steuersachen](0006.md)
 - [§ 8 Werbung](0008.md)
 - [§ 9 Vergütung](0009.md)
 - [§ 9a Erfolgshonorar](0009a.md)
-- [§ 10 Mitteilungen über Pflichtverletzungen und andere Informationen](0010.md)
+- [§ 10 Übermittlung von Daten](0010.md)
 - [§ 10a Mitteilung über den Ausgang eines Bußgeldverfahrens wegen unbefugter Hilfeleistung in Steuersachen](0010a.md)
 - [§ 10b Vorwarnmechanismus](0010b.md)
 - [§ 11 Verarbeitung personenbezogener Daten](0011.md)
@@ -84,7 +88,7 @@ Steuersachen](0006.md)
 
 ### Erster Abschnitt Allgemeine Vorschriften
 
-- [§ 32 Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften](0032.md)
+- [§ 32 Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften](0032.md)
 - [§ 33 Inhalt der Tätigkeit](0033.md)
 - [§ 34 Berufliche Niederlassung, weitere Beratungsstellen](0034.md)
 
@@ -118,20 +122,27 @@ Voraussetzungen
 - [§ 47 Erlöschen der Befugnis zur Führung der Berufsbezeichnung](0047.md)
 - [§ 48 Wiederbestellung](0048.md)
 
-#### Dritter Unterabschnitt Steuerberatungsgesellschaft
+#### Dritter Unterabschnitt Berufsausübungsgesellschaften
 
-- [§ 49 Rechtsform der Gesellschaft, anerkennende Steuerberaterkammer, Gesellschaftsvertrag](0049.md)
-- [§ 50 Voraussetzungen für die Anerkennung](0050.md)
-- [§ 50a Kapitalbindung](0050a.md)
-- [§ 51 Gebühren für die Anerkennung](0051.md)
-- [§ 52 Urkunde](0052.md)
-- [§ 53 Bezeichnung "Steuerberatungsgesellschaft"](0053.md)
-- [§ 54 Erlöschen der Anerkennung](0054.md)
-- [§ 55 Rücknahme und Widerruf der Anerkennung](0055.md)
+- [§ 49 Berufsausübungsgesellschaften](0049.md)
+- [§ 50 Berufsausübungsgesellschaften mit Angehörigen anderer Berufe](0050.md)
+- [§ 51 Berufspflichten bei beruflicher Zusammenarbeit](0051.md)
+- [§ 52 Berufspflichten der Berufsausübungsgesellschaft](0052.md)
+- [§ 53 Anerkennung](0053.md)
+- [§ 54 Anerkennungsverfahren; Gebühr; Anzeigepflicht](0054.md)
+- [§ 55 Erlöschen, Rücknahme und Widerruf der Anerkennung; Abwickler](0055.md)
+- [§ 55a Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften](0055a.md)
+- [§ 55b Geschäftsführungsorgane; Aufsichtsorgane](0055b.md)
+- [§ 55c Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen](0055c.md)
+- [§ 55d Vertretung vor Gerichten und Behörden](0055d.md)
+- [§ 55e Berufliche Niederlassung der Berufsausübungsgesellschaft](0055e.md)
+- [§ 55f Berufshaftpflichtversicherung](0055f.md)
+- [§ 55g Steuerberatungsgesellschaft](0055g.md)
+- [§ 55h Bürogemeinschaft](0055h.md)
 
 ### Dritter Abschnitt Rechte und Pflichten
 
-- [§ 56 Weitere berufliche Zusammenschlüsse](0056.md)
+- [§ 56 (weggefallen)](0056.md)
 - [§ 57 Allgemeine Berufspflichten](0057.md)
 - [§ 57a Werbung](0057a.md)
 - [§ 58 Tätigkeit als Angestellter](0058.md)
@@ -152,7 +163,7 @@ Dienst- oder Amtsverhältnis](0059.md)
 - [§ 69 Bestellung eines allgemeinen Vertreters](0069.md)
 - [§ 70 Bestellung eines Praxisabwicklers](0070.md)
 - [§ 71 Bestellung eines Praxistreuhänders](0071.md)
-- [§ 72 Steuerberatungsgesellschaften](0072.md)
+- [§ 72 (weggefallen)](0072.md)
 
 ### Vierter Abschnitt Organisation des Berufs
 
@@ -161,9 +172,15 @@ Dienst- oder Amtsverhältnis](0059.md)
 - [§ 74a Mitgliederakten](0074a.md)
 - [§ 75 Gemeinsame Steuerberaterkammer](0075.md)
 - [§ 76 Aufgaben der Steuerberaterkammer](0076.md)
-- [§ 77 Vorstand](0077.md)
+- [§ 76a Eintragung in das Berufsregister](0076a.md)
+- [§ 76b Löschung aus dem Berufsregister](0076b.md)
+- [§ 76c Mitteilungspflichten; Einsicht in das Berufsregister](0076c.md)
+- [§ 76d Weitere Eintragungen in das Berufsregister](0076d.md)
+- [§ 76e Anzeigepflichten](0076e.md)
+- [§ 77 Wahl des Vorstands](0077.md)
 - [§ 77a Abteilungen des Vorstandes](0077a.md)
 - [§ 77b Ehrenamtliche Tätigkeit](0077b.md)
+- [§ 77c Vorzeitiges Ausscheiden eines Vorstandsmitglieds](0077c.md)
 - [§ 78 Satzung](0078.md)
 - [§ 79 Beiträge und Gebühren](0079.md)
 - [§ 80 Pflicht zum Erscheinen vor der Steuerberaterkammer](0080.md)
@@ -176,6 +193,11 @@ Dienst- oder Amtsverhältnis](0059.md)
 - [§ 86 Aufgaben der Bundessteuerberaterkammer](0086.md)
 - [§ 86a Zusammensetzung und Arbeitsweise der Satzungsversammlung](0086a.md)
 - [§ 86b Steuerberaterverzeichnis](0086b.md)
+- [§ 86c Steuerberaterplattform](0086c.md)
+- [§ 86d Besonderes elektronisches Steuerberaterpostfach](0086d.md)
+- [§ 86e Besonderes elektronisches Steuerberaterpostfach für Berufsausübungsgesellschaften](0086e.md)
+- [§ 86f Verordnungsermächtigung](0086f.md)
+- [§ 86g Ersetzung der Schriftform](0086g.md)
 - [§ 87 Beiträge zur Bundessteuerberaterkammer](0087.md)
 - [§ 87a Wirtschaftsplan, Rechnungslegung](0087a.md)
 - [§ 88 Staatsaufsicht](0088.md)
@@ -187,12 +209,13 @@ Dienst- oder Amtsverhältnis](0059.md)
 Ahndung von Pflichtverletzungen
 
 - [§ 89 Ahndung einer Pflichtverletzung](0089.md)
+- [§ 89a Leitungspersonen](0089a.md)
+- [§ 89b Rechtsnachfolger](0089b.md)
 - [§ 90 Berufsgerichtliche Maßnahmen](0090.md)
 - [§ 91 Rüge und berufsgerichtliche Maßnahme](0091.md)
 - [§ 92 Anderweitige Ahndung](0092.md)
-- [§ 93 Verjährung der Verfolgung einer Pflichtverletzung](0093.md)
-- [§ 94 Vorschriften für Mitglieder der Steuerberaterkammer, die nicht
-Steuerberater oder Steuerbevollmächtigte sind](0094.md)
+- [§ 93 Verjährung von Pflichtverletzungen](0093.md)
+- [§ 94 (weggefallen)](0094.md)
 
 #### Zweiter Unterabschnitt Die Gerichte
 
@@ -219,12 +242,16 @@ zur Ablehnung](0100.md)
 - [§ 105 Vorschriften für das Verfahren](0105.md)
 - [§ 106 Keine Verhaftung des Steuerberaters oder Steuerbevollmächtigten](0106.md)
 - [§ 107 Verteidigung](0107.md)
-- [§ 108 Akteneinsicht des Steuerberaters oder Steuerbevollmächtigten](0108.md)
-- [§ 109 Verhältnis des berufsgerichtlichen Verfahrens zum Straf-
-oder Bußgeldverfahren](0109.md)
-- [§ 110 Verhältnis des berufsgerichtlichen Verfahrens zu den
-Verfahren anderer Berufsgerichtsbarkeiten](0110.md)
+- [§ 108 Akteneinsicht](0108.md)
+- [§ 109 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren](0109.md)
+- [§ 110 Verhältnis des berufsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen](0110.md)
 - [§ 111 Aussetzung des berufsgerichtlichen Verfahrens](0111.md)
+- [§ 111a Berufsgerichtliches Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften](0111a.md)
+- [§ 111b Vertretung von Berufsausübungsgesellschaften](0111b.md)
+- [§ 111c Besonderer Vertreter](0111c.md)
+- [§ 111d Verfahrenseintritt von Rechtsnachfolgern](0111d.md)
+- [§ 111e Vernehmung des gesetzlichen Vertreters](0111e.md)
+- [§ 111f Berufs- und Vertretungsverbot](0111f.md)
 
 ##### Zweiter Teilabschnitt Das Verfahren im ersten Rechtszug
 
@@ -232,15 +259,13 @@ Verfahren anderer Berufsgerichtsbarkeiten](0110.md)
 - [§ 113 Mitwirkung der Staatsanwaltschaft](0113.md)
 - [§ 114 Einleitung des berufsgerichtlichen Verfahrens](0114.md)
 - [§ 115 Gerichtliche Entscheidung über die Einleitung des Verfahrens](0115.md)
-- [§ 116 Antrag des Steuerberaters oder Steuerbevollmächtigten auf
-Einleitung des berufsgerichtlichen Verfahrens](0116.md)
+- [§ 116 Antrag des Mitglieds der Steuerberaterkammer auf Einleitung des berufsgerichtlichen Verfahrens](0116.md)
 - [§ 117 Inhalt der Anschuldigungsschrift](0117.md)
 - [§ 118 Entscheidung über die Eröffnung des Hauptverfahrens](0118.md)
 - [§ 119 Rechtskraftwirkung eines ablehnenden Beschlusses](0119.md)
 - [§ 120 Zustellung des Eröffnungsbeschlusses](0120.md)
-- [§ 121 Hauptverhandlung trotz Ausbleibens des Steuerberaters oder
-Steuerbevollmächtigten](0121.md)
-- [§ 122 Nichtöffentliche Hauptverhandlung](0122.md)
+- [§ 121 Hauptverhandlung trotz Ausbleibens des Mitglieds der Steuerberaterkammer](0121.md)
+- [§ 122 (weggefallen)](0122.md)
 - [§ 123 Beweisaufnahme durch einen ersuchten Richter](0123.md)
 - [§ 124 Verlesen von Protokollen](0124.md)
 - [§ 125 Entscheidung](0125.md)
@@ -281,11 +306,9 @@ die Rüge. Die Vollstreckung der berufsgerichtlichen Maßnahmen
 und der Kosten. Die Tilgung.
 
 - [§ 146 Gerichtskosten](0146.md)
-- [§ 147 Kosten bei Anträgen auf Einleitung des berufsgerichtlichen
-Verfahrens](0147.md)
+- [§ 147 Kosten bei Anträgen auf Einleitung des berufsgerichtlichen Verfahrens](0147.md)
 - [§ 148 Kostenpflicht des Verurteilten](0148.md)
-- [§ 149 Kostenpflicht in dem Verfahren bei Anträgen auf
-berufsgerichtliche Entscheidung über die Rüge](0149.md)
+- [§ 149 Kostenpflicht in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge](0149.md)
 - [§ 150 Haftung der Steuerberaterkammer](0150.md)
 - [§ 151 Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten](0151.md)
 - [§ 152 Tilgung](0152.md)
@@ -304,10 +327,12 @@ Berufsgerichtsbarkeit anzuwendende Vorschriften
 - [§ 157a Übergangsvorschriften anlässlich des Achten Gesetzes zur Änderung des Steuerberatungsgesetzes](0157a.md)
 - [§ 157b Anwendungsvorschrift](0157b.md)
 - [§ 157c Anwendungsvorschrift zu § 36 Absatz 2](0157c.md)
+- [§ 157d Anwendungsvorschrift aus Anlass des Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe](0157d.md)
+- [§ 157e Anwendungsvorschrift zur Steuerberaterplattform und zu den besonderen elektronischen Steuerberaterpostfächern](0157e.md)
 
 ### Siebenter Abschnitt Verordnungsermächtigung
 
-- [§ 158 Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften](0158.md)
+- [§ 158 Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften](0158.md)
 
 ## Dritter Teil Zwangsmittel, Ordnungswidrigkeiten
 

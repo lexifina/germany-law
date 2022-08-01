@@ -8,8 +8,9 @@
 - [§ 2 Beruf des Patentanwalts](0002.md)
 - [§ 3 Recht zur Beratung und Vertretung](0003.md)
 - [§ 4 Auftreten vor den Gerichten](0004.md)
+- [§ 4a Beiordnung von Patentanwälten bei Prozesskostenhilfe](0004a.md)
 
-## Zweiter Teil Zulassung des Patentanwalts
+## Zweiter Teil Zulassung und allgemeine Vorschriften
 
 
 ### Erster Abschnitt Zulassung zur Patentanwaltschaft
@@ -23,6 +24,7 @@
 - [§ 8 Prüfung](0008.md)
 - [§ 9 Prüfungskommission](0009.md)
 - [§ 10 Zulassung zur Prüfung](0010.md)
+- [§ 10a Patentsachbearbeiter](0010a.md)
 - [§ 11 Patentassessor](0011.md)
 - [§ 12 Ausbildungs- und Prüfungsordnung](0012.md)
 
@@ -50,11 +52,11 @@
 
 ### Zweiter Abschnitt Verwaltungsverfahren
 
-- [§ 30 Ergänzende Anwendung des Verwaltungsverfahrensgesetzes](0030.md)
+- [§ 30 Ergänzende Anwendung der Verwaltungsverfahrensgesetze](0030.md)
 - [§ 31 Sachliche Zuständigkeit](0031.md)
 - [§ 32 Zustellung](0032.md)
 - [§ 33 Bestellung eines Vertreters im Verwaltungsverfahren](0033.md)
-- [§ 34 Ermittlung des Sachverhalts und Übermittlung personenbezogener Daten](0034.md)
+- [§ 34 Ermittlung des Sachverhalts und Übermittlung von Daten](0034.md)
 - [(XXXX) §§ 35 bis 38 (weggefallen)](xxxx-35-bis-38.md)
 
 ## Dritter Teil Rechte und Pflichten des Patentanwalts und berufliche Zusammenarbeit der Patentanwälte
@@ -67,7 +69,7 @@
 - [§ 39b Werbung](0039b.md)
 - [§ 39c Inanspruchnahme von Dienstleistungen](0039c.md)
 - [§ 40 Mitteilung der Ablehnung eines Auftrags](0040.md)
-- [§ 41 Tätigkeitsverbote](0041.md)
+- [§ 41 Tätigkeitsverbote bei nichtpatentanwaltlicher Vorbefassung](0041.md)
 - [§ 41a Angestellte Patentanwälte und Syndikuspatentanwälte](0041a.md)
 - [§ 41b Zulassung als Syndikuspatentanwalt](0041b.md)
 - [§ 41c Erlöschen und Änderung der Zulassung als Syndikuspatentanwalt](0041c.md)
@@ -78,7 +80,7 @@
 - [§ 43b Erfolgshonorar](0043b.md)
 - [§ 44 Handakten](0044.md)
 - [§ 45 Berufshaftpflichtversicherung](0045.md)
-- [§ 45a Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung](0045a.md)
+- [§ 45a (weggefallen)](0045a.md)
 - [§ 45b Vertragliche Begrenzung von Ersatzansprüchen](0045b.md)
 - [§ 46 Bestellung einer Vertretung](0046.md)
 - [§ 47 Befugnisse der Vertretung](0047.md)
@@ -87,22 +89,25 @@
 - [§ 50 Zwangsgeld bei Verletzung der besonderen Pflichten](0050.md)
 - [§ 51 Mitgliederakten](0051.md)
 - [§ 52 Ausbildung von Bewerberinnen und Bewerbern für die Patentanwaltschaft](0052.md)
-- [§ 52a Berufliche Zusammenarbeit](0052a.md)
-- [§ 52b Satzungskompetenz](0052b.md)
+- [§ 52a Satzungskompetenz](0052a.md)
 
-### Zweiter Abschnitt Patentanwaltsgesellschaften
+### Zweiter Abschnitt Berufliche Zusammenarbeit
 
-- [§ 52c Zulassung als Patentanwaltsgesellschaft und Beteiligung an beruflichen Zusammenschlüssen](0052c.md)
-- [§ 52d Zulassungsvoraussetzungen](0052d.md)
-- [§ 52e Gesellschafter](0052e.md)
-- [§ 52f Geschäftsführung](0052f.md)
-- [§ 52g Zulassungsverfahren](0052g.md)
-- [§ 52h Erlöschen der Zulassung](0052h.md)
-- [§ 52i Kanzlei](0052i.md)
-- [§ 52j Berufshaftpflichtversicherung](0052j.md)
-- [§ 52k Firma](0052k.md)
-- [§ 52l Vertretung vor Gerichten und Behörden](0052l.md)
-- [§ 52m Mitteilungspflichten, anwendbare Vorschriften und Verschwiegenheitspflicht](0052m.md)
+- [§ 52b Berufsausübungsgesellschaften](0052b.md)
+- [§ 52c Berufsausübungsgesellschaften mit Angehörigen anderer Berufe](0052c.md)
+- [§ 52d Berufspflichten bei beruflicher Zusammenarbeit](0052d.md)
+- [§ 52e Berufspflichten der Berufsausübungsgesellschaft](0052e.md)
+- [§ 52f Zulassung](0052f.md)
+- [§ 52g Zulassungsverfahren; Anzeigepflicht](0052g.md)
+- [§ 52h Erlöschen, Rücknahme und Widerruf der Zulassung; Abwickler](0052h.md)
+- [§ 52i Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften](0052i.md)
+- [§ 52j Geschäftsführungsorgane; Aufsichtsorgane](0052j.md)
+- [§ 52k Recht zur Beratung und Vertretung](0052k.md)
+- [§ 52l Kanzlei der Berufsausübungsgesellschaft](0052l.md)
+- [§ 52m Berufshaftpflichtversicherung](0052m.md)
+- [§ 52n Mindestversicherungssumme und Jahreshöchstleistung](0052n.md)
+- [§ 52o Patentanwaltsgesellschaft](0052o.md)
+- [§ 52p Bürogemeinschaft](0052p.md)
 
 ## Vierter Teil Die Patentanwaltskammer
 
@@ -122,7 +127,7 @@
 
 - [§ 58 Zusammensetzung des Vorstands](0058.md)
 - [§ 59 Voraussetzungen der Wählbarkeit](0059.md)
-- [§ 60 Ausschluss von der Wählbarkeit](0060.md)
+- [§ 60 Verlust der Wählbarkeit](0060.md)
 - [§ 61 Recht zur Ablehnung der Wahl](0061.md)
 - [§ 62 Wahlperiode](0062.md)
 - [§ 63 Vorzeitiges Ausscheiden eines Vorstandsmitglieds](0063.md)
@@ -185,24 +190,39 @@
 ## Sechster Teil Berufsgerichtliche Ahndung von Pflichtverletzungen
 
 - [§ 95 Ahndung einer Pflichtverletzung](0095.md)
+- [§ 95a Leitungspersonen](0095a.md)
+- [§ 95b Rechtsnachfolger](0095b.md)
 - [§ 96 Berufsgerichtliche Maßnahmen](0096.md)
-- [§ 97 Verjährung der Verfolgung einer Pflichtverletzung](0097.md)
-- [§ 97a Vorschriften für Geschäftsführer von Patentanwaltsgesellschaften](0097a.md)
+- [§ 97 Verjährung von Pflichtverletzungen](0097.md)
+- [§ 97a Rüge und berufsgerichtliche Maßnahme](0097a.md)
+- [§ 97b Anderweitige Ahndung](0097b.md)
 
 ## Siebenter Teil Berufsgerichtliches Verfahren
 
 
 ### Erster Abschnitt Allgemeines
 
+
+### Erster Abschnitt Allgemeines
+
+
+#### Erster Unterabschnitt Allgemeine Verfahrensregeln
+
 - [§ 98 Vorschriften für das Verfahren und den Rechtsschutz bei überlangen Gerichtsverfahren](0098.md)
 - [§ 99 Keine Verhaftung des Patentanwalts](0099.md)
 - [§ 100 Verteidigung](0100.md)
 - [§ 101 Akteneinsicht des Patentanwalts](0101.md)
 - [§ 102 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren](0102.md)
-- [§ 102a Verhältnis des berufsgerichtlichen Verfahrens zu Verfahren anderer Berufsgerichtsbarkeiten](0102a.md)
+- [§ 102a Verhältnis des berufsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen](0102a.md)
 - [§ 102b Aussetzung des berufsgerichtlichen Verfahrens](0102b.md)
-- [§ 103 Rüge und berufsgerichtliche Maßnahme](0103.md)
-- [§ 103a Anderweitige Ahndung](0103a.md)
+
+#### Zweiter Unterabschnitt Berufsgerichtliches Verfahren gegen Berufsausübungsgesellschaften
+
+- [§ 103 Berufsgerichtliches Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften](0103.md)
+- [§ 103a Vertretung von Berufsausübungsgesellschaften](0103a.md)
+- [§ 103b Besonderer Vertreter](0103b.md)
+- [§ 103c Verfahrenseintritt von Rechtsnachfolgern](0103c.md)
+- [§ 103d Vernehmung des gesetzlichen Vertreters](0103d.md)
 
 ### Zweiter Abschnitt Verfahren im ersten Rechtszug
 
@@ -225,8 +245,8 @@
 
 #### Dritter Unterabschnitt Hauptverhandlung
 
-- [§ 119 Hauptverhandlung trotz Ausbleibens des Patentanwalts](0119.md)
-- [§ 120 Nichtöffentliche Hauptverhandlung](0120.md)
+- [§ 119 Hauptverhandlung trotz Ausbleibens des Mitglieds der Patentanwaltskammer](0119.md)
+- [§ 120 (weggefallen)](0120.md)
 - [§ 121 Beweisaufnahme durch einen ersuchten Richter](0121.md)
 - [§ 122 Verlesen von Protokollen](0122.md)
 - [§ 123 Entscheidung](0123.md)
@@ -292,10 +312,15 @@
 - [§ 155a Tätigkeitsverbote bei weiterer Tätigkeit als Patentanwalt](0155a.md)
 - [§ 156 Auftreten vor den Gerichten](0156.md)
 
-## Zehnter Teil Übergangs- und Schlussvorschriften
+## Zehnter Teil Ausländische Patentanwaltsberufe und Berufsausübungsgesellschaften
 
-- [§ 157 Maßgaben nach dem Einigungsvertrag](0157.md)
-- [§ 158 Patentsachbearbeiter](0158.md)
-- [§ 159 Befreiung von der Tätigkeit bei einem Patentanwalt](0159.md)
+- [§ 157 Ausländische Patentanwaltsberufe; Verordnungsermächtigung](0157.md)
+- [§ 158 Aufnahme in die Patentanwaltskammer und berufliche Stellung; Rücknahme und Widerruf](0158.md)
+- [§ 159 Ausländische Berufsausübungsgesellschaften](0159.md)
 - [§ 160 Inhaber von Erlaubnisscheinen](0160.md)
+
+## Elfter Teil Übergangs- und Schlussvorschriften
+
+- [§ 161 Maßgabe nach dem Einigungsvertrag](0161.md)
+- [§ 162 Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften](0162.md)
 - [Anlage (zu § 146 Satz 1 und § 148 Satz 1)Gebührenverzeichnis](anlage.md)

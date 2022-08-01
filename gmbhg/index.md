@@ -146,4 +146,5 @@
 - [§ 86 Verletzung der Pflichten bei Abschlussprüfungen](0086.md)
 - [§ 87 Bußgeldvorschriften](0087.md)
 - [§ 88 Mitteilungen an die Abschlussprüferaufsichtsstelle](0088.md)
-- [Anlage (zu § 2 Abs. 1a)](anlage.md)
+- [Anlage 1 (zu § 2 Abs. 1a)](anlage-1.md)
+- [Anlage 2 (zu § 2 Absatz 3)](anlage-2.md)

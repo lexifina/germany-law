@@ -1,0 +1,6 @@
+# Art 88
+
+(1)
+§ 9c Absatz 1 bis 5 des Handelsgesetzbuchs in der ab dem 1. August 2022 geltenden Fassung ist erst ab dem 1. August 2023 anzuwenden.
+(2)
+§ 8b Absatz 2 Nummer 4, 9 und 13, Absatz 3 Satz 1, Absatz 4, § 9 Absatz 6 Satz 3 sowie die §§ 264, 325, 325a, 326, 327, 328, 329, 339, 340l, 340o, 341l und 341w des Handelsgesetzbuchs in der ab dem 1. August 2022 geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen sowie Unternehmensberichte für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung sind letztmals anzuwenden auf Rechnungslegungsunterlagen sowie Unternehmensberichte für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.

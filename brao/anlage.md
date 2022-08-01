@@ -12,7 +12,7 @@ Teil 1 Anwaltsgerichtliche Verfahren
   Abschnitt 3 Verfahren vor dem Bundesgerichtshof
     Unterabschnitt 1 Revision
     Unterabschnitt 2 Beschwerde
-    Unterabschnitt 3 Verfahren wegen eines bei dem Bundesgerichtshof zugelassenen Rechtsanwalts
+    Unterabschnitt 3 Verfahren wegen bei dem Bundesgerichtshof zugelassenen Rechtsanwälten oder Berufsausübungsgesellschaften
   Abschnitt 4 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör
 Teil 2 Gerichtliche Verfahren in verwaltungsrechtlichen Anwaltssachen
   Abschnitt 1 Erster Rechtszug
@@ -29,13 +29,13 @@ Anwaltsgerichtliche Verfahren
 | Nr. | Gebührentatbestand | Gebührenbetrag oder Satz der jeweiligen Gebühr 1110 bis 1112 |
 | Vorbemerkung 1: |
 | (1) Im anwaltsgerichtlichen Verfahren bemessen sich die Gerichtsgebühren vorbehaltlich des Absatzes 2 für alle Rechtszüge nach der rechtskräftig verhängten Maßnahme. |
-| (2) Wird ein Rechtsmittel oder ein Antrag auf anwaltsgerichtliche Entscheidung nur teilweise verworfen oder zurückgewiesen, so hat das Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, den Rechtsanwalt damit zu belasten. |
+| (2) Wird ein Rechtsmittel oder ein Antrag auf anwaltsgerichtliche Entscheidung nur teilweise verworfen oder zurückgewiesen, so hat das Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, das Mitglied der Rechtsanwaltskammer damit zu belasten. |
 | (3) Im Verfahren nach Wiederaufnahme werden die gleichen Gebühren wie für das wiederaufgenommene Verfahren erhoben. Wird jedoch nach Anordnung der Wiederaufnahme des Verfahrens das frühere Urteil aufgehoben, gilt für die Gebührenerhebung jeder Rechtszug des neuen Verfahrens mit dem jeweiligen Rechtszug des früheren Verfahrens zusammen als ein Rechtszug. Gebühren werden auch für Rechtszüge erhoben, die nur im früheren Verfahren stattgefunden haben. |
 | Abschnitt 1 Verfahren vor dem Anwaltsgericht |
 | Unterabschnitt 1 Anwaltsgerichtliches Verfahren erster Instanz |
 | 1110 | Verfahren mit Urteil bei Verhängung einer oder mehrerer der folgenden Maßnahmen:1. einer Warnung, 2. eines Verweises, 3. einer Geldbuße | 240,00 EUR |
-| 1111 | Verfahren mit Urteil bei Verhängung eines Vertretungs- und Beistandsverbots nach § 114 Abs. 1 Nr. 4 BRAO | 360,00 EUR |
-| 1112 | Verfahren mit Urteil bei Ausschließung aus der Rechtsanwaltschaft | 480,00 EUR |
+| 1111 | Verfahren mit Urteil bei Verhängung eines Vertretungs- oder Beistandsverbots nach § 114 Abs. 1 Nr. 4 oder Abs. 2 Nr. 4 BRAO | 360,00 EUR |
+| 1112 | Verfahren mit Urteil bei Ausschließung aus der Rechtsanwaltschaft oder Aberkennung der Rechtsdienstleistungsbefugnis | 480,00 EUR |
 | Unterabschnitt 2Antrag auf gerichtliche Entscheidung über die Rüge |
 | 1120 | Verfahren über den Antrag auf gerichtliche Entscheidung über die Rüge nach § 74a Abs. 1 BRAO:Der Antrag wird verworfen oder zurückgewiesen..... | 160,00 EUR |
 | Abschnitt 2 Verfahren vor dem Anwaltsgerichtshof |
@@ -46,20 +46,20 @@ Anwaltsgerichtliche Verfahren
 | Unterabschnitt 2Beschwerde |
 | 1220 | Verfahren über Beschwerden im anwaltsgerichtlichen Verfahren, die nicht nach anderen Vorschriften gebührenfrei sind: |  |
 |  | Die Beschwerde wird verworfen oder zurückgewiesen..... | 50,00 EUR |
-|  | Von dem Rechtsanwalt wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine anwaltsgerichtliche Maßnahme verhängt worden ist. |  |
+|  | Von dem Mitglied der Rechtsanwaltskammer wird eine Gebühr nur erhoben, wenn gegen es rechtskräftig eine anwaltsgerichtliche Maßnahme verhängt worden ist. |  |
 | Unterabschnitt 3Antrag auf gerichtliche Entscheidung über dieAndrohung oder die Festsetzung eines Zwangsgelds |
 | 1230 | Verfahren über den Antrag auf gerichtliche Entscheidung über die Androhung oder die Festsetzung eines Zwangsgelds nach § 57 Abs. 3 BRAO:Der Antrag wird verworfen oder zurückgewiesen..... | 200,00 EUR |
 |  |  |  |
 | Abschnitt 3 Verfahren vor dem Bundesgerichtshof |
 | Unterabschnitt 1 Revision |
-| 1310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 146 Abs. 3 Satz 1 BRAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 2,0 |
-| 1311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 146 Abs. 3 Satz 1 BRAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
+| 1310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 116 Abs. 1 Satz 2 BRAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 2,0 |
+| 1311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 116 Abs. 1 Satz 2 BRAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
 |  | Die Gebühr entfällt bei Zurücknahme der Revision vor Ablauf der Begründungsfrist. |  |
 | Unterabschnitt 2 Beschwerde |
 | 1320 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision:Die Beschwerde wird verworfen oder zurückgewiesen..... | 1,0 |
 | 1321 | Verfahren über sonstige Beschwerden im anwaltsgerichtlichen Verfahren, die nicht nach anderen Vorschriften gebührenfrei sind:Die Beschwerde wird verworfen oder zurückgewiesen..... | 50,00 EUR |
-|  | Von dem Rechtsanwalt wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine anwaltsgerichtliche Maßnahme verhängt worden ist. |  |
-| Unterabschnitt 3 Verfahren wegen eines bei dem Bundesgerichtshof zugelassenen Rechtsanwalts |
+|  | Von dem Mitglied der Rechtsanwaltskammer wird eine Gebühr nur erhoben, wenn gegen es rechtskräftig eine anwaltsgerichtliche Maßnahme verhängt worden ist. |  |
+| Unterabschnitt 3 Verfahren wegen bei dem Bundesgerichtshof zugelassenen Rechtsanwälten oder Berufsausübungsgesellschaften |
 | 1330 | Anwaltsgerichtliches Verfahren mit Urteil bei Verhängung einer Maßnahme | 1,5 |
 | 1331 | Verfahren über den Antrag auf gerichtliche Entscheidung über die Androhung oder die Festsetzung eines Zwangsgelds nach § 57 Abs. 3 i. V. m. § 163 Satz 2 BRAO:Der Antrag wird verworfen oder zurückgewiesen..... | 240,00 EUR |
 | 1332 | Verfahren über den Antrag auf gerichtliche Entscheidung über die Rüge nach § 74a Abs. 1 i. V. m. § 163 Satz 2 BRAO:Der Antrag wird verworfen oder zurückgewiesen | 240,00 EUR |

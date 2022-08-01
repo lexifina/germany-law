@@ -10,3 +10,4 @@
 - [§ 8 Übergangsvorschrift zum Gesetz zur Umsetzung der Vierten EU-Geldwäscherichtlinie, zur Ausführung der EU-Geldtransferverordnung und zur Neuorganisation der Zentralstelle für Finanztransaktionsuntersuchungen](0008.md)
 - [§ 9 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0009.md)
 - [§ 10 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst](0010.md)
+- [§ 11 Übergangsvorschriften zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie](0011.md)

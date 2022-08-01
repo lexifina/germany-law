@@ -10,5 +10,6 @@
 | § 8 | Teil 2 der Gesellenprüfung |
 | § 9 | Gewichtungs- und Bestehensregelung |
 | § 10 | Bestehende Berufsausbildungsverhältnisse |
+| § 10a | Übergangsvorschrift |
 | § 11 | Inkrafttreten, Außerkrafttreten |
 | Anlage: | Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin |

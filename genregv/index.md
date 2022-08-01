@@ -26,8 +26,7 @@
 - [§ 18 Vorstandsmitglieder, Prokuristen](0018.md)
 - [§ 19 (weggefallen)](0019.md)
 - [§ 20 Eintragung der Auflösung](0020.md)
-- [§ 21 Anmeldepflicht bei Beendigung der Liquidation und Eintragungen
-bei Insolvenz](0021.md)
+- [§ 21 Anmeldepflicht bei Beendigung der Liquidation und Eintragungen bei Insolvenz](0021.md)
 - [§ 21a (weggefallen)](0021a.md)
 - [§ 21b (weggefallen)](0021b.md)
 - [§ 22 Eintragung der Nichtigkeit der Genossenschaft](0022.md)

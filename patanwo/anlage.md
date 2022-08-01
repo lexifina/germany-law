@@ -36,7 +36,7 @@ Teil 1
 Berufsgerichtliches Verfahren
 | Nr. | Gebührentatbestand | Gebührenbetrag oder Satz der jeweiligen Gebühr 1110 und 1111 |
 | Vorbemerkung 1: |
-| (1)Im berufsgerichtlichen Verfahren bemessen sich die Gerichtsgebühren vorbehaltlich des Absatzes 2 für alle Rechtszüge nach der rechtskräftig verhängten Maßnahme.(2)Wird ein Rechtsmittel oder ein Antrag auf berufsgerichtliche Entscheidung nur teilweise verworfen oder zurückgewiesen, so hat das Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, den Patentanwalt damit zu belasten.(3)Im Verfahren nach Wiederaufnahme werden die gleichen Gebühren wie für das wiederaufgenommene Verfahren erhoben. Wird jedoch nach Anordnung der Wiederaufnahme des Verfahrens das frühere Urteil aufgehoben, gilt für die Gebührenerhebung jeder Rechtszug des neuen Verfahrens mit dem jeweiligen Rechtszug des früheren Verfahrens zusammen als ein Rechtszug. Gebühren werden auch für Rechtszüge erhoben, die nur im früheren Verfahren stattgefunden haben. |
+| (1)Im berufsgerichtlichen Verfahren bemessen sich die Gerichtsgebühren vorbehaltlich des Absatzes 2 für alle Rechtszüge nach der rechtskräftig verhängten Maßnahme.(2)Wird ein Rechtsmittel oder ein Antrag auf berufsgerichtliche Entscheidung nur teilweise verworfen oder zurückgewiesen, so hat das Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, das Mitglied der Patentanwaltskammer damit zu belasten.(3)Im Verfahren nach Wiederaufnahme werden die gleichen Gebühren wie für das wiederaufgenommene Verfahren erhoben. Wird jedoch nach Anordnung der Wiederaufnahme des Verfahrens das frühere Urteil aufgehoben, gilt für die Gebührenerhebung jeder Rechtszug des neuen Verfahrens mit dem jeweiligen Rechtszug des früheren Verfahrens zusammen als ein Rechtszug. Gebühren werden auch für Rechtszüge erhoben, die nur im früheren Verfahren stattgefunden haben. |
 |  |
 | Abschnitt 1 |
 | Verfahren vor dem Landgericht |
@@ -49,7 +49,7 @@ Berufsgerichtliches Verfahren
 | 2. eines Verweises, |  |
 | 3. einer Geldbuße | 240,00 EUR |
 |  |  |  |
-| 1111 | Verfahren mit Urteil bei Ausschließung aus der Patentanwaltschaft | 480,00 EUR |
+| 1111 | Verfahren mit Urteil bei Ausschließung aus der Patentanwaltschaft oder der Aberkennung der Befugnis zur Beratung und Vertretung nach § 3 | 480,00 EUR |
 |  |
 | Unterabschnitt 2 |
 | Antrag auf gerichtliche Entscheidungüber die Androhung oder die Festsetzung einesZwangsgelds oder über die Rüge |
@@ -73,7 +73,7 @@ Berufsgerichtliches Verfahren
 | Beschwerde |
 |  |  |  |
 | 1220 | Verfahren über Beschwerden im berufsgerichtlichen Verfahren, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen | 50,00 EUR |
-| Von dem Patentanwalt wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist. |  |
+| Von dem Mitglied der Patentanwaltskammer wird eine Gebühr nur erhoben, wenn gegen es rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist. |  |
 |  |
 | Abschnitt 3 |
 | Verfahren vor dem Bundesgerichtshof |
@@ -81,9 +81,9 @@ Berufsgerichtliches Verfahren
 | Unterabschnitt 1 |
 | Revision |
 |  |  |  |
-| 1310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 128 Abs. 3 Satz 1 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 2,0 |
+| 1310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 98 Abs. 1 Satz 2 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 2,0 |
 |  |  |  |
-| 1311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 128 Abs. 3 Satz 1 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
+| 1311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 98 Abs. 1 Satz 2 PAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
 | Die Gebühr entfällt bei Zurücknahme der Revision vor Ablauf der Begründungsfrist. |  |
 |  |
 | Unterabschnitt 2 |
@@ -92,7 +92,7 @@ Berufsgerichtliches Verfahren
 | 1320 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision: Die Beschwerde wird verworfen oder zurückgewiesen | 1,0 |
 |  |  |  |
 | 1321 | Verfahren über sonstige Beschwerden im berufsgerichtlichen Verfahren, die nicht nach anderen Vorschriften gebührenfrei sind: Die Beschwerde wird verworfen oder zurückgewiesen | 50,00 EUR |
-| Von dem Patentanwalt wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist. |  |
+| Von dem Mitglied der Patentanwaltskammer wird eine Gebühr nur erhoben, wenn gegen es rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist. |  |
 |  |
 | Abschnitt 4 |
 | Rüge wegen Verletzung des Anspruchsauf rechtliches Gehör |

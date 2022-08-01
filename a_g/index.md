@@ -18,7 +18,7 @@
 - [§ 11a Verordnungsermächtigung](0011a.md)
 - [§ 12 Rechtsbeziehungen zwischen Verleiher und Entleiher](0012.md)
 - [§ 13 Auskunftsanspruch des Leiharbeitnehmers](0013.md)
-- [§ 13a Informationspflicht des Entleihers über freie Arbeitsplätze](0013a.md)
+- [§ 13a Informationspflicht des Entleihers über freie Arbeitsplätze und Übernahmegesuch des Leiharbeitnehmers](0013a.md)
 - [§ 13b Zugang des Leiharbeitnehmers zu Gemeinschaftseinrichtungen oder -diensten](0013b.md)
 - [§ 14 Mitwirkungs- und Mitbestimmungsrechte](0014.md)
 - [§ 15 Ausländische Leiharbeitnehmer ohne Genehmigung](0015.md)

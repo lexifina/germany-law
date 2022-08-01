@@ -207,7 +207,7 @@
 | Abschnitt 10 |
 | Schlussvorschriften |
 | § 155 | Altregister im Beitrittsgebiet |
-| § 156 | Anwendbarkeit von Vorschriften über das Handelsregister; Bekanntmachung von Eintragungen |
+| § 156 | Anwendbarkeit von Vorschriften über das Handelsregister; Bekanntmachung von Eintragungen, Registerbekanntmachungen |
 | § 157 | Anmeldungen zum Genossenschaftsregister |
 | § 158 | Ersatzweise Bekanntmachung |
 | § 159 | (weggefallen) |
@@ -226,3 +226,4 @@
 | § 172 | Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte |
 | § 173 | Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz |
 | § 174 | Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst |
+| § 175 | Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie |

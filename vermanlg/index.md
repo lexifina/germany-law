@@ -52,7 +52,7 @@
 
 ## Abschnitt 3 Rechnungslegung und Prüfung
 
-- [§ 23 Erstellung und Bekanntmachung von Jahresberichten](0023.md)
+- [§ 23 Erstellung und Offenlegung von Jahresberichten](0023.md)
 - [§ 24 Inhalt von Jahresabschlüssen und Lageberichten](0024.md)
 - [§ 25 Prüfung und Bestätigung des Abschlussprüfers](0025.md)
 - [§ 26 Verkürzung der handelsrechtlichen Offenlegungsfrist](0026.md)

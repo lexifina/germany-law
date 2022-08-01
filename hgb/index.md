@@ -21,14 +21,16 @@
 - [§ 8b Unternehmensregister](0008b.md)
 - [§ 9 Einsichtnahme in das Handelsregister und das Unternehmensregister](0009.md)
 - [§ 9a Übertragung der Führung des Unternehmensregisters; Verordnungsermächtigung](0009a.md)
-- [§ 9b Europäisches System der Registervernetzung; Verordnungsermächtigung](0009b.md)
-- [§ 10 Bekanntmachung der Eintragungen](0010.md)
+- [§ 9b Europäisches System der Registervernetzung](0009b.md)
+- [§ 9c Informationsaustausch über disqualifizierte Personen über das Europäische System der Registervernetzung](0009c.md)
+- [§ 10 Bekanntmachung der Eintragungen; Registerbekanntmachungen](0010.md)
 - [§ 10a Anwendung der Verordnung (EU) 2016/679](0010a.md)
 - [§ 11 Offenlegung in der Amtssprache eines Mitgliedstaats der Europäischen 
 Union](0011.md)
 - [§ 12 Anmeldungen zur Eintragung und Einreichungen](0012.md)
 - [§ 13 Zweigniederlassungen von Unternehmen mit Sitz im Inland](0013.md)
-- [(XXXX) §§ 13a bis 13c (weggefallen)](xxxx-13a-bis-13c.md)
+- [§ 13a Europäische Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Inland](0013a.md)
+- [(XXXX) §§ 13b u. 13c (weggefallen)](xxxx-13b-u-13c.md)
 - [§ 13d Sitz oder Hauptniederlassung im Ausland](0013d.md)
 - [§ 13e Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland](0013e.md)
 - [§ 13f Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland](0013f.md)
@@ -484,7 +486,7 @@ internationalen Rechnungslegungsstandards
 - [§ 324 Prüfungsausschuss](0324.md)
 - [§ 324a Anwendung auf den Einzelabschluss nach § 325 Abs. 2a](0324a.md)
 
-#### Vierter Unterabschnitt Offenlegung. Prüfung durch den Betreiber des Bundesanzeigers
+#### Vierter Unterabschnitt Offenlegung. Prüfung durch die das Unternehmensregister führende Stelle
 
 - [§ 325 Offenlegung](0325.md)
 - [§ 325a Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland](0325a.md)
@@ -492,7 +494,7 @@ internationalen Rechnungslegungsstandards
 - [§ 327 Größenabhängige Erleichterungen für mittelgroße Kapitalgesellschaften bei der Offenlegung](0327.md)
 - [§ 327a Erleichterung für bestimmte kapitalmarktorientierte Kapitalgesellschaften](0327a.md)
 - [§ 328 Form, Format und Inhalt der Unterlagen bei der Offenlegung, Veröffentlichung und Vervielfältigung](0328.md)
-- [§ 329 Prüfungs- und Unterrichtungspflicht des Betreibers des Bundesanzeigers](0329.md)
+- [§ 329 Prüfungs- und Unterrichtungspflicht der das Unternehmensregister führenden Stelle](0329.md)
 
 #### Fünfter Unterabschnitt Verordnungsermächtigung für Formblätter und andere Vorschriften
 

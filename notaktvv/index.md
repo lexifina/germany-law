@@ -6,7 +6,7 @@
 
 - [§ 1 Verzeichnisse](0001.md)
 - [§ 2 Akten](0002.md)
-- [§ 3 Urschriften, Ausfertigungen und Abschriften](0003.md)
+- [§ 3 Urschriften, Ausfertigungen, Abschriften und elektronische Urkunden](0003.md)
 - [§ 4 Form und Übergabe elektronischer Aufzeichnungen](0004.md)
 - [§ 5 Sicherheit elektronischer Aufzeichnungen](0005.md)
 - [§ 6 Technische und organisatorische Maßnahmen](0006.md)

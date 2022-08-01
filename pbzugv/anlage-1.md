@@ -1,6 +1,7 @@
 # Anlage 1 (zu § 2 Abs. 2 Nr. 2)
 
-(Fundstelle: BGBl. I 2000, 855)
+(Fundstelle: BGBl. I 2000, 855;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Eigenkapitalbescheinigung nach § 2 Abs. 2 Nr. 2
 der Berufszugangsverordnung für den Straßenpersonenverkehr
 Das Unternehmen
@@ -29,5 +30,6 @@ Buchprüfers, Steuerberaters,
 Steuerbevollmächtigten, Fachanwalts
 für Steuerrecht, einer
 Wirtschaftsprüfungs-, Buchprüfungs-
-oder Steuerberatungsgesellschaft
+oder Berufsausübungsgesellschaft
+im Sinne des Steuerberatungsgesetzes
 oder eines Kreditinstituts)

@@ -213,7 +213,7 @@
 - [§ 118a Teilungssachen](0118a.md)
 - [§ 119 Entwurf](0119.md)
 - [§ 120 Beratung bei einer Haupt- oder Gesellschafterversammlung](0120.md)
-- [§ 121 Beglaubigung von Unterschriften oder Handzeichen](0121.md)
+- [§ 121 Beglaubigung von Unterschriften, Handzeichen oder qualifizierten elektronischen Signaturen](0121.md)
 - [§ 122 Rangbescheinigung](0122.md)
 - [§ 123 Gründungsprüfung](0123.md)
 - [§ 124 Verwahrung](0124.md)

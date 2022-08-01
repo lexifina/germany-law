@@ -152,7 +152,7 @@
 - [§ 68c Ordnungsgeld](0068c.md)
 - [§ 69 Bekanntmachung von Maßnahmen, Bußgeldentscheidungen und strafrechtlichen Verurteilungen](0069.md)
 - [§ 69a Anderweitige Ahndung](0069a.md)
-- [§ 70 Verjährung der Verfolgung einer Pflichtverletzung](0070.md)
+- [§ 70 Verjährung von Pflichtverletzungen](0070.md)
 - [§ 71 Vorschriften für Mitglieder der Wirtschaftsprüferkammer, die nicht Wirtschaftsprüfer sind, und Wirtschaftsprüfungsgesellschaften](0071.md)
 
 ## Sechster Teil Berufsgerichtsbarkeit
@@ -198,7 +198,7 @@
 - [§ 94 Verlesung der berufsaufsichtlichen Entscheidung](0094.md)
 - [(XXXX) §§ 95 bis 97 (weggefallen)](xxxx-95-bis-97.md)
 - [§ 98 Hauptverhandlung trotz Ausbleibens der Berufsangehörigen](0098.md)
-- [§ 99 Nichtöffentliche Hauptverhandlung](0099.md)
+- [§ 99 (weggefallen)](0099.md)
 - [§ 100 (weggefallen)](0100.md)
 - [§ 101 Beweisaufnahme durch einen ersuchten Richter](0101.md)
 - [§ 102 Verlesen von Protokollen](0102.md)
@@ -237,13 +237,13 @@
 
 - [§ 121a Voraussetzung des Verfahrens](0121a.md)
 
-### Vierter Abschnitt Kosten des berufsgerichtlichen Verfahrens; Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten; Tilgung
+### Vierter Abschnitt Kosten des berufsgerichtlichen Verfahrens; Vollstreckung der berufsaufsichtlichen Maßnahmen und der Kosten; Tilgung
 
 - [§ 122 Gerichtskosten](0122.md)
 - [§ 123 (weggefallen)](0123.md)
 - [§ 124 Kostenpflicht](0124.md)
 - [§ 125 (weggefallen)](0125.md)
-- [§ 126 Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten](0126.md)
+- [§ 126 Vollstreckung der berufsaufsichtlichen Maßnahmen und der Kosten](0126.md)
 - [§ 126a Tilgung](0126a.md)
 
 ### Fünfter Abschnitt Anzuwendende Vorschriften

@@ -81,7 +81,7 @@
 - [(XXXX) §§ 61 bis 63 (weggefallen)](xxxx-61-bis-63.md)
 - [§ 64 Inhalt der Vereinsregistereintragung](0064.md)
 - [§ 65 Namenszusatz](0065.md)
-- [§ 66 Bekanntmachung der Eintragung und Aufbewahrung von Dokumenten](0066.md)
+- [§ 66 Aufbewahrung von Dokumenten](0066.md)
 - [§ 67 Änderung des Vorstands](0067.md)
 - [§ 68 Vertrauensschutz durch Vereinsregister](0068.md)
 - [§ 69 Nachweis des Vereinsvorstands](0069.md)

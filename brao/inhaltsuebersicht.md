@@ -6,7 +6,7 @@ Der Rechtsanwalt
 | § 2 | Beruf des Rechtsanwalts |
 | § 3 | Recht zur Beratung und Vertretung |
 Zweiter Teil
-Zulassung des Rechtsanwalts
+Zulassung und allgemeine Vorschriften
 Erster Abschnitt
 Zulassung zur Rechtsanwaltschaft
 | § 4 | Zugang zum Beruf des Rechtsanwalts |
@@ -33,15 +33,16 @@ Kanzlei und Rechtsanwaltsverzeichnis
 | § 30 | Zustellungsbevollmächtigter |
 | § 31 | Verzeichnisse der Rechtsanwaltskammern und Gesamtverzeichnis der Bundesrechtsanwaltskammer |
 | § 31a | Besonderes elektronisches Anwaltspostfach |
-| § 31b | Europäisches Rechtsanwaltsverzeichnis |
-| § 31c | Verordnungsermächtigung |
+| § 31b | Besonderes elektronisches Anwaltspostfach für Berufsausübungsgesellschaften |
+| § 31c | Europäisches Rechtsanwaltsverzeichnis |
+| § 31d | Verordnungsermächtigung |
 Dritter Abschnitt
 Verwaltungsverfahren
-| § 32 | Ergänzende Anwendung des Verwaltungsverfahrensgesetzes |
+| § 32 | Ergänzende Anwendung der Verwaltungsverfahrensgesetze |
 | § 33 | Sachliche und örtliche Zuständigkeit |
 | § 34 | Zustellung |
 | § 35 | Bestellung eines Vertreters im Verwaltungsverfahren |
-| § 36 | Ermittlung des Sachverhalts und Übermittlung personenbezogener Daten |
+| § 36 | Ermittlung des Sachverhalts und Übermittlung von Daten |
 | § 37 | Ersetzung der Schriftform |
 | §§ 38 bis 42 (weggefallen) |
 Dritter Teil
@@ -55,8 +56,9 @@ Allgemeines
 | § 43c | Fachanwaltschaft |
 | § 43d | Darlegungs- und Informationspflichten bei Inkassodienstleistungen |
 | § 43e | Inanspruchnahme von Dienstleistungen |
+| § 43f | Kenntnisse im Berufsrecht |
 | § 44 | Mitteilung der Ablehnung eines Auftrags |
-| § 45 | Tätigkeitsverbote |
+| § 45 | Tätigkeitsverbote bei nichtanwaltlicher Vorbefassung |
 | § 46 | Angestellte Rechtsanwälte und Syndikusrechtsanwälte |
 | § 46a | Zulassung als Syndikusrechtsanwalt |
 | § 46b | Erlöschen und Änderung der Zulassung als Syndikusrechtsanwalt |
@@ -69,7 +71,6 @@ Allgemeines
 | § 49c | Einreichung von Schutzschriften |
 | § 50 | Handakten |
 | § 51 | Berufshaftpflichtversicherung |
-| § 51a | Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung |
 | § 52 | Vertragliche Begrenzung von Ersatzansprüchen |
 | § 53 | Bestellung einer Vertretung |
 | § 54 | Befugnisse der Vertretung |
@@ -78,21 +79,25 @@ Allgemeines
 | § 57 | Zwangsgeld bei Verletzung der besonderen Pflichten |
 | § 58 | Mitgliederakten |
 | § 59 | Ausbildung von Referendaren |
-| § 59a | Berufliche Zusammenarbeit |
-| § 59b | Satzungskompetenz |
+| § 59a | Satzungskompetenz |
 Zweiter Abschnitt
-Rechtsanwaltsgesellschaften
-| § 59c | Zulassung als Rechtsanwaltsgesellschaft und Beteiligung an beruflichen Zusammenschlüssen |
-| § 59d | Zulassungsvoraussetzungen |
-| § 59e | Gesellschafter |
-| § 59f | Geschäftsführung |
-| § 59g | Zulassungsverfahren |
-| § 59h | Erlöschen der Zulassung |
-| § 59i | Kanzlei |
-| § 59j | Berufshaftpflichtversicherung |
-| § 59k | Firma |
+Berufliche Zusammenarbeit
+| § 59b | Berufsausübungsgesellschaften |
+| § 59c | Berufsausübungsgesellschaften mit Angehörigen anderer Berufe |
+| § 59d | Berufspflichten bei beruflicher Zusammenarbeit |
+| § 59e | Berufspflichten der Berufsausübungsgesellschaft |
+| § 59f | Zulassung |
+| § 59g | Zulassungsverfahren; Anzeigepflicht |
+| § 59h | Erlöschen, Rücknahme und Widerruf der Zulassung; Abwickler |
+| § 59i | Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften |
+| § 59j | Geschäftsführungsorgane; Aufsichtsorgane |
+| § 59k | Rechtsdienstleistungsbefugnis |
 | § 59l | Vertretung vor Gerichten und Behörden |
-| § 59m | Mitteilungspflichten, anwendbare Vorschriften und Verschwiegenheitspflicht |
+| § 59m | Kanzlei der Berufsausübungsgesellschaft |
+| § 59n | Berufshaftpflichtversicherung |
+| § 59o | Mindestversicherungssumme und Jahreshöchstleistung |
+| § 59p | Rechtsanwaltsgesellschaft |
+| § 59q | Bürogemeinschaft |
 Vierter Teil
 Die Rechtsanwaltskammern
 Erster Abschnitt
@@ -107,7 +112,7 @@ Vorstand
 | § 63 | Zusammensetzung des Vorstandes |
 | § 64 | Wahlen zum Vorstand |
 | § 65 | Voraussetzungen der Wählbarkeit |
-| § 66 | Ausschluss von der Wählbarkeit |
+| § 66 | Verlust der Wählbarkeit |
 | § 67 | Recht zur Ablehnung der Wahl |
 | § 68 | Wahlperiode |
 | § 69 | Vorzeitiges Ausscheiden eines Vorstandsmitgliedes |
@@ -183,30 +188,40 @@ in verwaltungsrechtlichen Anwaltssachen
 Sechster Teil
 Anwaltsgerichtliche Ahndung von Pflichtverletzungen
 | § 113 | Ahndung einer Pflichtverletzung |
+| § 113a | Leitungspersonen |
+| § 113b | Rechtsnachfolger |
 | § 114 | Anwaltsgerichtliche Maßnahmen |
 | § 114a | Wirkungen des Vertretungsverbots und Zuwiderhandlungen |
-| § 115 | Verjährung der Verfolgung einer Pflichtverletzung |
+| § 115 | Verjährung von Pflichtverletzungen |
 | § 115a | Rüge und anwaltsgerichtliche Maßnahme |
 | § 115b | Anderweitige Ahndung |
-| § 115c | Vorschriften für Geschäftsführer von Rechtsanwaltsgesellschaften |
 Siebenter Teil
 Anwaltsgerichtliches Verfahren
 Erster Abschnitt
 Allgemeines
+Erster Unterabschnitt
+Allgemeine Verfahrensregeln
 | § 116 | Vorschriften für das Verfahren und den Rechtsschutz bei überlangen Gerichtsverfahren |
 | § 117 | Keine Verhaftung des Rechtsanwalts |
 | § 117a | Verteidigung |
 | § 117b | Akteneinsicht |
 | § 118 | Verhältnis des anwaltsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren |
-| § 118a | Verhältnis des anwaltsgerichtlichen Verfahrens zu Verfahren anderer Berufsgerichtsbarkeiten |
+| § 118a | Verhältnis des anwaltsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen |
 | § 118b | Aussetzung des anwaltsgerichtlichen Verfahrens |
+Zweiter Unterabschnitt
+Anwaltsgerichtliches Verfahren
+gegen Berufsausübungsgesellschaften
+| § 118c | Anwaltsgerichtliches Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften |
+| § 118d | Vertretung von Berufsausübungsgesellschaften |
+| § 118e | Besonderer Vertreter |
+| § 118f | Verfahrenseintritt von Rechtsnachfolgern |
+| § 118g | Vernehmung des gesetzlichen Vertreters |
 Zweiter Abschnitt
 Verfahren im ersten Rechtszug
 Erster Unterabschnitt
 Allgemeine Vorschriften
 | § 119 | Zuständigkeit |
 | § 120 | Mitwirkung der Staatsanwaltschaft |
-| § 120a | Gegenseitige Unterrichtung von Staatsanwaltschaft und Rechtsanwaltskammer |
 Zweiter Unterabschnitt
 Einleitung des Verfahrens
 | § 121 | Einleitung des anwaltsgerichtlichen Verfahrens |
@@ -219,8 +234,8 @@ Einleitung des Verfahrens
 | § 133 | Zustellung des Eröffnungsbeschlusses |
 Dritter Unterabschnitt
 Hauptverhandlung vor dem Anwaltsgericht
-| § 134 | Hauptverhandlung trotz Ausbleibens des Rechtsanwalts |
-| § 135 | Nichtöffentliche Hauptverhandlung |
+| § 134 | Hauptverhandlung trotz Ausbleibens des Mitglieds der Rechtsanwaltskammer |
+| § 135 | (weggefallen) |
 | § 136 | (weggefallen) |
 | § 137 | Beweisaufnahme durch einen beauftragten oder ersuchten Richter |
 | § 138 | Verlesen von Protokollen |
@@ -282,11 +297,19 @@ Rechtsanwalt bei dem Bundesgerichtshof
 | § 171 | (weggefallen) |
 Dritter Abschnitt
 Besondere Rechte und Pflichten
-der Rechtsanwälte bei dem Bundesgerichtshof
+Besondere Rechte und
+Pflichten und berufliche Zusammenarbeit
+der Rechtsanwälte beim Bundesgerichtshof
+Erster Unterabschnitt
+Besondere Rechte und Pflichten der
+Rechtsanwälte beim Bundesgerichtshof
 | § 172 | Beschränkung des Auftretens vor anderen Gerichten |
-| § 172a | Sozietät |
-| § 172b | Kanzlei |
+| § 172a | Kanzlei |
 | § 173 | Bestellung einer Vertretung und eines Abwicklers der Kanzlei |
+Zweiter Unterabschnitt
+Berufliche Zusammenarbeit
+der Rechtsanwälte beim Bundesgerichtshof
+| § 173a | Berufsausübungsgesellschaften von Rechtsanwälten beim Bundesgerichtshof |
 Vierter Abschnitt
 Die Rechtsanwaltskammer
 bei dem Bundesgerichtshof
@@ -359,13 +382,17 @@ Maßnahmen und Kosten sowie Tilgung
 | § 205 | Beitreibung der Kosten |
 | § 205a | Tilgung |
 Zwölfter Teil
-Anwälte aus anderen Staaten
-| § 206 | Niederlassung |
-| § 207 | Aufnahmeverfahren und berufliche Stellung |
+Ausländische
+Rechtsanwaltsberufe
+und Berufsausübungsgesellschaften
+| § 206 | Ausländische Rechtsanwaltsberufe; Verordnungsermächtigung |
+| § 207 | Aufnahme in die Rechtsanwaltskammer und berufliche Stellung; Rücknahme und Widerruf |
+| § 207a | Ausländische Berufsausübungsgesellschaften |
 Dreizehnter Teil
 Übergangs- und Schlussvorschriften
 | § 208 | Landesrechtliche Beschränkungen der Parteivertretung und Beistandschaft |
 | § 209 | Kammermitgliedschaft von Inhabern einer Erlaubnis nach dem Rechtsberatungsgesetz |
+| § 209a | Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften |
 | § 210 | Bestehenbleiben von Rechtsanwaltskammern |
 | § 211 | Befreiung von der Voraussetzung der Befähigung zum Richteramt |
 | Anlage (zu § 193 Satz 1 und § 195 Satz 1) Gebührenverzeichnis |

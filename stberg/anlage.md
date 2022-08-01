@@ -19,7 +19,7 @@
 |  |
 | Nr. | Gebührentatbestand | Gebührenbetrag oder Satz der jeweiligen Gebühr 110 bis 112 |
 | Vorbemerkung: |
-| (1)Im berufsgerichtlichen Verfahren bemessen sich die Gerichtsgebühren vorbehaltlich des Absatzes 2 für alle Rechtszüge nach der rechtskräftig verhängten Maßnahme.(2)Wird ein Rechtsmittel oder ein Antrag auf berufsgerichtliche Entscheidung nur teilweise verworfen oder zurückgewiesen, so hat das Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, den Steuerberater oder Steuerbevollmächtigten damit zu belasten.(3)Im Verfahren nach Wiederaufnahme werden die gleichen Gebühren wie für das wiederaufgenommene Verfahren erhoben. Wird jedoch nach Anordnung der Wiederaufnahme des Verfahrens das frühere Urteil aufgehoben, gilt für die Gebührenerhebung jeder Rechtszug des neuen Verfahrens mit dem jeweiligen Rechtszug des früheren Verfahrens zusammen als ein Rechtszug. Gebühren werden auch für Rechtszüge erhoben, die nur im früheren Verfahren stattgefunden haben. |
+| (1)Im berufsgerichtlichen Verfahren bemessen sich die Gerichtsgebühren vorbehaltlich des Absatzes 2 für alle Rechtszüge nach der rechtskräftig verhängten Maßnahme.(2)Wird ein Rechtsmittel oder ein Antrag auf berufsgerichtliche Entscheidung nur teilweise verworfen oder zurückgewiesen, so hat das Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, das Mitglied der Steuerberaterkammer damit zu belasten.(3)Im Verfahren nach Wiederaufnahme werden die gleichen Gebühren wie für das wiederaufgenommene Verfahren erhoben. Wird jedoch nach Anordnung der Wiederaufnahme des Verfahrens das frühere Urteil aufgehoben, gilt für die Gebührenerhebung jeder Rechtszug des neuen Verfahrens mit dem jeweiligen Rechtszug des früheren Verfahrens zusammen als ein Rechtszug. Gebühren werden auch für Rechtszüge erhoben, die nur im früheren Verfahren stattgefunden haben. |
 |  |
 | Abschnitt 1 |
 | Verfahren vor dem Landgericht |
@@ -28,7 +28,7 @@
 | Berufsgerichtliches Verfahren erster Instanz |
 |  |  |  |
 | 110 | Verfahren mit Urteil bei Verhängung einer oder mehrerer der folgenden Maßnahmen: 1.einer Warnung,2.eines Verweises,3.einer Geldbuße,4.eines befristeten Berufsverbots | 240,00 EUR |
-| 112 | Verfahren mit Urteil bei Ausschließung aus dem Beruf | 480,00 EUR |
+| 112 | Verfahren mit Urteil bei Ausschließung aus dem Beruf oder der Aberkennung der Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen | 480,00 EUR |
 |  |
 | Unterabschnitt 2 |
 | Antrag auf gerichtliche Entscheidung über die Rüge |
@@ -49,7 +49,7 @@
 | Beschwerde |
 |  |  |  |
 | 220 | Verfahren über Beschwerden im berufsgerichtlichenVerfahren, die nicht nach anderen Vorschriften gebührenfrei sind:Die Beschwerde wird verworfen oder zurückgewiesen | 50,00 EUR |
-|  | Von dem Steuerberater oder Steuerbevollmächtigten wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist. |  |
+|  | Von dem Mitglied der Steuerberaterkammer wird eine Gebühr nur erhoben, wenn gegen es rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist. |  |
 |  |
 | Abschnitt 3 |
 | Verfahren vor dem Bundesgerichtshof |
@@ -57,8 +57,8 @@
 | Unterabschnitt 1 |
 | Revision |
 |  |  |  |
-| 310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 130 Abs. 3 Satz 1 StBerG i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 2,0 |
-| 311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 130 Abs. 3 Satz 1 StBerG i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
+| 310 | Revisionsverfahren mit Urteil oder mit Beschluss nach § 153 StBerG i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 2,0 |
+| 311 | Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 153 StBerG i. V. m. § 349 Abs. 2 oder Abs. 4 StPO | 1,0 |
 |  | Die Gebühr entfällt bei Zurücknahme der Revision vor Ablauf der Begründungsfrist. |  |
 |  |
 | Unterabschnitt 2 |
@@ -66,7 +66,7 @@
 |  |  |  |
 | 320 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision:Die Beschwerde wird verworfen oder zurückgewiesen | 1,0 |
 | 321 | Verfahren über sonstige Beschwerden im berufsgerichtlichen Verfahren, die nicht nach anderen Vorschriften gebührenfrei sind:Die Beschwerde wird verworfen oder zurückgewiesen | 50,00 EUR |
-|  | Von dem Steuerberater oder Steuerbevollmächtigten wird eine Gebühr nur erhoben, wenn gegen ihn rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist. |  |
+|  | Von dem Mitglied der Steuerberaterkammer wird eine Gebühr nur erhoben, wenn gegen es rechtskräftig eine berufsgerichtliche Maßnahme verhängt worden ist. |  |
 |  |
 | Abschnitt 4 |
 | Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |

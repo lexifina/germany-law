@@ -110,9 +110,10 @@ vorläufige Amtsenthebung; Notariatsverwalter
 Abschnitt 7
 Allgemeine Vorschriften
 für das Verwaltungsverfahren
-| § 64a | Anwendbarkeit des Verwaltungsverfahrensgesetzes; Übermittlung personenbezogener Informationen |
+| § 64a | Anwendbarkeit der Verwaltungsverfahrensgesetze |
 | § 64b | Bestellung eines Vertreters |
 | § 64c | Ersetzung der Schriftform |
+| § 64d | Übermittlung von Daten |
 Teil 2
 Notarkammern und Bundesnotarkammer
 Abschnitt 1
@@ -124,6 +125,7 @@ Notarkammern
 | § 69 | Vorstand |
 | § 69a | Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen |
 | § 69b | Abteilungen |
+| § 69c | Vorzeitiges Ausscheiden eines Vorstandsmitglieds |
 | § 70 | Präsident |
 | § 71 | Kammerversammlung |
 | § 72 | Regelung durch Satzung |
@@ -193,7 +195,7 @@ Disziplinarverfahren
 | § 107 | Bestellung der richterlichen Mitglieder |
 | § 108 | Bestellung der notariellen Beisitzer |
 | § 109 | Anzuwendende Verfahrensvorschriften |
-| § 110 | Maßgebliches Verfahren |
+| § 110 | Verhältnis des Disziplinarverfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen |
 | § 110a | Tilgung |
 Abschnitt 3
 Gerichtliches Verfahren

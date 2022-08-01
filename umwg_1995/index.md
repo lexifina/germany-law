@@ -270,8 +270,7 @@ Vermögen eines Alleingesellschafters
 
 - [§ 135 Anzuwendende Vorschriften](0135.md)
 - [§ 136 Spaltungsplan](0136.md)
-- [§ 137 Anmeldung und Eintragung der neuen Rechtsträger
-und der Spaltung](0137.md)
+- [§ 137 Anmeldung und Eintragung der neuen Rechtsträger und der Spaltung](0137.md)
 
 ### Zweiter Teil Besondere Vorschriften
 
