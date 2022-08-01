@@ -1,0 +1,45 @@
+# Anlage 2 (zu § 11 Absatz 1)Inhalte des Prüfungsbereichs „Planen von Reisen“
+
+Die folgenden Prüfungselemente entsprechen den Elementen nach Anhang II Abschnitt IV Anlage 1 der Delegierten Richtlinie (EU) 2020/12 der Kommission vom 2. August 2019 zur Ergänzung der Richtlinie (EU) 2017/2397 des Europäischen Parlaments und des Rates in Bezug auf die Standards für Befähigungen und entsprechende Kenntnisse und Fertigkeiten, für praktische Prüfungen, für die Zulassung von Simulatoren und für die medizinische Tauglichkeit (ABl. L 6 vom 10.1.2020, S. 15).
+| Lfd. Nr. | Prüfungselemente | Kategorie I-II |
+| 1 | 2 | 3 |
+| 1 | auf europäischen Binnenwasserstraßen mit Schleusen und Schiffshebewerken gemäß den Frachtverträgen mit dem Spediteur navigieren | I |
+| 2 | die ökonomischen und ökologischen Aspekte des Fahrzeugbetriebs für eine effiziente und umweltfreundliche Nutzung des Fahrzeugs berücksichtigen | II |
+| 3 | den technischen Bauwerken und Profilen der Wasserstraßen Rechnung tragen und Vorsichtsmaßnahmen ergreifen | I |
+| 4 | eine sichere Besatzung des Fahrzeugs gemäß den anwendbaren Vorschriften sicherstellen | I |
+| 5 | für einen sicheren Zugang zum Fahrzeug sorgen | II |
+| 6 | die Grundsätze des Schiffsbaus in der Binnenschifffahrt beachten | II |
+| 7 | die Konstruktion von Fahrzeugen und ihr Verhalten im Wasser, insbesondere im Hinblick auf Stabilität und Festigkeit, unterscheiden | II |
+| 8 | die Bauteile des Fahrzeugs und die Schadenskontrolle und -analyse verstehen | II |
+| 9 | Maßnahmen zum Schutz der Wasserdichtigkeit des Fahrzeugs ergreifen | I |
+| 10 | die Funktionen der Fahrzeugausrüstung verstehen | II |
+| 11 | die speziellen Anforderungen bei der Beförderung von Ladung und Fahrgästen beachten | I |
+| 12 | die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Ladung verstehen | II |
+| 13 | Staupläne unter Berücksichtigung von Kenntnissen über das Laden von Ladungen und Ballastsysteme erstellen, um die Belastung des Schiffskörpers in annehmbaren Grenzen zu halten | I |
+| 14 | die Be- und Entladevorgänge im Hinblick auf eine sichere Beförderung kontrollieren | I |
+| 15 | verschiedene Güter und deren Eigenschaften unterscheiden, um ein sicheres Laden der Güter nach dem Stauplan zu überwachen und zu gewährleisten | II |
+| 16 | die Auswirkungen von Ladung und Ladevorgängen auf Trimmlage und Stabilität beachten | I |
+| 17 | die effektive Tonnage des Fahrzeugs überprüfen, Stabilitäts- und Trimmdiagramme sowie Geräte zur Festigkeitsberechnung, einschließlich automatischer datenbasierter Ausrüstung (ADB-Ausrüstung), zur Überprüfung von Stauplänen verwenden | I |
+| 18 | die einschlägigen nationalen, europäischen und internationalen Vorschriften, Codes und Standards für die Beförderung von Fahrgästen verstehen | II |
+| 19 | Sicherheitsübungen gemäß der Sicherheitsrolle organisieren und überwachen, um ein sicheres Verhalten in möglichen Gefahrensituationen zu gewährleisten | II |
+| 20 | mit Fahrgästen in Notsituationen kommunizieren | I |
+| 21 | eine Analyse der Gefahren an Bord bezüglich der Beschränkung des Zugangs für Fahrgäste festlegen und überwachen sowie ein wirksames Bordschutzsystem erstellen, um unbefugten Zutritt zu verhindern | II |
+| 22 | Berichte von Fahrgästen (d. h. über unvorhergesehene Ereignisse, Beleidigungen, Vandalismus) analysieren, um angemessen zu reagieren | II |
+| 23 | mögliche Schäden an elektrischen und elektronischen Geräten an Bord verhüten | II |
+| 24 | technische und interne Dokumentation auswerten | II |
+| 25 | ein sicheres Verhalten der Besatzungsmitglieder in Bezug auf die Verwendung von Werk- und Zusatzstoffen gewährleisten | II |
+| 26 | Arbeitsaufträge so festlegen, überwachen und kontrollieren, dass die Besatzungsmitglieder in der Lage sind, Wartungs- und Instandsetzungsarbeiten eigenständig durchzuführen | II |
+| 27 | Materialien und Werkzeug unter Berücksichtigung des Gesundheits- und Umweltschutzes kaufen und prüfen | II |
+| 28 | sicherstellen, dass Drähte und Seile den Angaben des Herstellers und ihrem Verwendungszweck entsprechend eingesetzt werden | II |
+| 29 | die nationale, europäische und internationale Sozialgesetzgebung anwenden | II |
+| 30 | ein striktes Alkohol- und Drogenverbot durchsetzen und bei Verstößen angemessen reagieren, Verantwortung übernehmen und die Folgen von Fehlverhalten aufzeigen | II |
+| 31 | die Beschaffung und Zubereitung von Mahlzeiten an Bord organisieren | II |
+| 32 | nationale und internationale Rechtsvorschriften anwenden und geeignete Maßnahmen für Gesundheitsschutz und Unfallverhütung ergreifen | II |
+| 33 | die Gültigkeit des Zeugnisses des Fahrzeugs und anderer für das Fahrzeug und dessen Betrieb relevanter Dokumente kontrollieren und überwachen | I |
+| 34 | die Sicherheitsvorschriften bei allen Arbeitsabläufen durch entsprechende Sicherheitsmaßnahmen einhalten, um Unfälle zu vermeiden | I |
+| 35 | alle für die Reinigung geschlossener Räume erforderlichen Sicherheitsmaßnahmen vor dem Öffnen, Betreten und Reinigen dieser Räume durch andere Personen kontrollieren und überwachen | II |
+| 36 | Rettungsmittel und die korrekte Anwendung persönlicher Schutzausrüstung kontrollieren | II |
+| 37 | Vorbereitungen für Rettungspläne für verschiedene Arten von Notfällen einleiten | II |
+| 38 | Vorsichtsmaßnahmen gegen Umweltverschmutzung ergreifen und entsprechende Ausrüstung verwenden | II |
+| 39 | die Umweltschutzgesetze anwenden | II |
+| 40 | Geräte und Materialien wirtschaftlich und umweltfreundlich einsetzen | II |

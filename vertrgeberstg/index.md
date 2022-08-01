@@ -1,0 +1,16 @@
+# Gesetz über die Erstattung von Gebühren der beigeordneten Vertretung in Patent-, Gebrauchsmuster-, Marken-, Design-, Topographieschutz- und Sortenschutzsachen
+
+- [§ 1 Gegenstand des Gesetzes](0001.md)
+- [§ 2 Gebührensatz](0002.md)
+- [§ 3 Patentsachen](0003.md)
+- [§ 4 Gebrauchsmustersachen](0004.md)
+- [§ 5 Markensachen](0005.md)
+- [§ 6 Designsachen](0006.md)
+- [§ 7 Topographieschutzsachen](0007.md)
+- [§ 8 Sortenschutzsachen](0008.md)
+- [§ 9 Gegenstand der Gebühren](0009.md)
+- [§ 10 Erledigung der Beiordnung](0010.md)
+- [§ 11 Vertretung bei bestimmten Terminen](0011.md)
+- [§ 12 Geltung des Rechtsanwaltsvergütungsgesetzes](0012.md)
+- [§ 13 Verfahren über die Erklärung der Nichtigkeit von Patenten und über Zwangslizenzen](0013.md)
+- [§ 14 Verfahren vor dem Bundesgerichtshof](0014.md)
