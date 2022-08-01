@@ -1,0 +1,106 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-08-01T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6917132
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6917132
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Grünfläche in der Oberländerstraße & Kunst in Sendling
+- TOP 2.2.: Park- und Verkehrssituation in der Steinerstraße/ Tölzerstraße/ Flößergasse
+- TOP 2.3.: Parksituation im Brudermühlviertel
+- TOP 2.4.: Mülltonnen am Anwesen Danklstraße 4
+- TOP 2.5.: Bank an der Implerstraße
+- TOP 2.6.: Fahrradständer an der Albert-Roßhaupter-Straße
+- TOP 2.7.: Tempo 30-Zone Lindenschmittstraße
+- TOP 2.8.: Widmung von Naturdenkmälern im Flaucher
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Vorstellung der neuen Zweiten Werkleiterin der Markthallen München
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Fallstraße 38
+- TOP 4.2.2.: 2. Stammstrecke PFA 3 Ost - Planfeststellungsverfahren - 1. Planänderung
+- TOP 4.2.3.: STEP 2040
+- TOP 4.2.4.: Baumfällung Thalkirchner Straße 127
+- TOP 4.2.5.: Einbau einer Buswartehalle mit Werbevitrine
+- TOP 4.2.6.: Bebauungsplan mit Grünordnung Nr.xxx Hans-Preißinger-Str. (westlich und nördlich), Schäftlarnstr. (östlich), Brudermühlstr. (südlich) (Teiländerung des Bebauungsplanes Nr. 1547)
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Aufstellung von Blumenkübel/ Hochbeete im Bereich Resi-Huber-Platz
+- TOP 4.3.3.: Regenwasserproblem Esswurm-/ Gaißacher Straße Antwort
+- TOP 4.3.4.: (U) Regionalzughalt Poccistraße – Planung eines ostseitigen Bahnsteigzugang
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Mehr Photovoltaik in Sendling Fristverlängerung
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Baustelleneinrichtung in der Plinganserstraße
+- TOP 5.3.2.: Sommerfest KiGa Flaucherfüchse Am Isarkanal/Hans-Preißinger-Straße
+- TOP 5.3.3.: Sommerfest KiGa Isarindianer Am Isarkanal/ Schäftlarnstraße
+- TOP 5.3.4.: RÜCKBLICK und Beantwortung der Chat-Fragen - Runder Tisch mit den E-Tretroller Anbieter am 23.03.2022
+- TOP 5.3.5.: absolutes Haltverbot im Bereich der Außenkurve Wackersberger Straße/ Arzbacher Straße (Wertstoff-Container-Stellplatz)
+- TOP 5.3.6.: Sommerfest am Resi-Huber-Platz
+- TOP 5.3.7.: Geländepraktikum LMU in den Isarauen - Flaucher
+- TOP 5.3.8.: Verkehrsrechtliche Anordnung Parklizenzgebiet Untersendling
+- TOP 5.3.9.: Straßenfest Sendlinger Kulturschmiede in der Daiserstraße
+- TOP 5.3.10.: Grundsatzbeschluss Abstellanlagen, dauerhafte Betriebshöfe für U-Bahn, Tram und Bus der SWM / MVG
+- TOP 5.3.11.: Parklet am Gotzinger Platz
+- TOP 5.3.12.: (U) Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 5.3.13.: Verkehrsrechtliche Anordnung Gebietsänderung Parklizenzgebiet Brudermühlviertel/ Thalkirchen
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Anfrage zur Einrichtung einer Teststelle am Herzog-Ernst-Platz
+- TOP 5.5.2.: Einrichtung der Senserstraße als Spielstraße
+- TOP 5.5.3.: „Achtung Kinder"-Schild für Fahradfahrer*innen vor der Gaißacher Turnhalle
+- TOP 5.5.4.: Kontrolle der 30er-Zone im Bereich Impler-/ Valleystraße/ Gotzinger Platz
+- TOP 5.5.5.: Einrichtung von Zebrastreifen am Gotzinger Platz
+- TOP 5.5.6.: Zebrastreifen und Verbesserung der Sichtachsen in der Aberlestraße und in der Alramstraße
+- TOP 5.5.7.: Blitzer im Bereich Impler-/ Valleystraße/ Gotzinger Platz vor den Schulen
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. Kinder- und Jugendfond "Lasst uns mal ran!" vom 11.07. - 31.12.2022 5.000,00 Euro, Az.: 0262.0-6-0383
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Sendling blüht auf" Bau eines Energierads in den Herbstferien 2022 2.500,00 Euro, Az.: 0262.0-6-0388
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung "Die verschwundene Arbeiterklasse" vom 10.11. - 15.12.2022 2.062,50 Euro, Az.: 0262.0-6-0389
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Abbau eines Spielgeräts am Dietramszeller Platz
+- TOP 7.3.2.: Obdachlose am Harras Antwort
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Weiter mit dem Projekt "Fair-Play", Erweiterung an anderen Schulen
+- TOP 7.5.2.: Einrichtung eines Fußballfeldes im SBZ
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Projekt "München in den 1950er Jahren"
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Darstellende Kunst & Musik im öffentlichen Raum ermöglichen und von Seiten der Landeshauptstadt München fördern [Bündnis 90/Die Grünen]
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Sendling als Pilotquartier für das Projekt „Zukunft gestalten im Quartier"
+- TOP 8.5.2.: Projektvorstellung „Living Library“ im Unterausschuss
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 6.1.4.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling 15. Sendlinger Orgelnacht am 21.10.2022 2.000,00 Euro, Az.: 0262.0-6-0390
+- TOP 9.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
