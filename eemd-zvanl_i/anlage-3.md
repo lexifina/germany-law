@@ -317,7 +317,8 @@ Der EETS-Anbieter benennt die verantwortlichen Ansprechpartner für die Durchfü
 Die in der Phase 1 verwendete Prüfumgebung besteht seitens des Mauterhebers aus der Testumgebung des EETS@BAG Systems und aus der Testumgebung des nationalen Mautbetreibers. Seitens des EETS-Anbieters besteht sie aus einem wirkbetriebsnahen Erprobungssystem oder seinem Wirkbetriebssystem.
 Die Systeme sind über die technischen Schnittstellen gekoppelt.
 Die folgende Abbildung veranschaulicht die verwendete Prüfumgebung:
-[Bild: banzat_2021_20211029v2_03.jpg]
+|  |
+| Abbildung 2: Testumgebung Phase 1 |
 1. Die Testumgebung des Mauterhebers repräsentiert das EETS-Teilsystem des Mauterhebers, und umfasst die Schnittstellenprüfumgebung des Mauterhebers und die Testumgebung für die Kompatibilitätstests des nationalen Betreibers.
 2. Die Schnittstellenprüfumgebung des Mauterhebers umfasst die folgenden wirksystem-identischen Schnittstellen vom EETS-Teilsystem des Mauterhebers zum Teilsystem des EETS-Anbieters:
   • Schnittstelle 001 „Blocklist/Sperrliste“
