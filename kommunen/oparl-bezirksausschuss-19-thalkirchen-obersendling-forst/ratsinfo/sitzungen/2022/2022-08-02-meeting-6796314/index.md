@@ -1,0 +1,82 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-08-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796314
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796314
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 05.07.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: Terminplanung BA-Sitzungen 2023
+- TOP 2.5.: (Antrag) Ergebnisse Workshop Forstenried
+- TOP 2.6.: (A) Stadtentwicklungsplan STEP 2040
+- TOP 2.7.: (Antrag) Virtuelle Unterausschusssitzungen weiter ermöglichen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Verein „Muckis im Herzen“ Präventionsprojekt „Muckis im Herzen“ vom 15.09.2022 – 25.07.2023 19.536,00 € / Az. 0262.0-19-0418
+- TOP 3.3.: (E) Stadtbezirksbudget Studienensemble München Südwest Pianistenclub Konzertabend mit Studienensemble-Eurythmie im Schuljahr 2022/23 2.152,00 € / Az. 0262.0-19-0417
+- TOP 3.4.: (Antrag) Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk 19
+- TOP 3.5.: (A) Erhöhung des Zuwendungsbetrags Stadtbezirksbudget Freunde des Ortskerns Forstenried e.V. kleines Dorffest am 3. Juli Von 1.100,00 € auf 3.120,00 €; Az. 0262.0-11-0452
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Beschlussentwurf: Förderung von Photovoltaikanlagen BV-Empfehlung Nr. 20-26 / E 00333; Sitzungsvorlage Nr. 20-26 / V 06938
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (Antrag) Verkehrssicherheit Kistlerhofstraße
+- TOP 5.3.: Verkehr im Viertel Am Südpark
+- TOP 5.4.: Ergebnisse des Runden Tisches mit E-Tretroller-Anbietern am 23.03.2022
+- TOP 5.5.: (Antrag) Verkehrsberuhigung Aidenbachstraße
+- TOP 5.6.: (Antrag) Parksituation Wilhelm-Leibl-Straße
+- TOP 5.7.: (Antrag) Dialog-Displays für den 19. Stadtbezirk
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.2: - abgesetzt -
+- TOP 6.2.4: Rupert-Mayer-Straße 45 und Koppstraße 2
+- TOP 6.2.5: Scheidegger Straße 11
+- TOP 6.2.6: Königswieser Straße 7
+- TOP 6.2.7: Buchhierlstraße 23 und 23a
+- TOP 6.2.12: Leutstettener Straße 30
+- TOP 6.2.13: Hofbrunnstraße 109 (T)
+- TOP 6.3.: (Antrag) Auskunft über geplante Wohnbebauung westlich der Drygalski-Allee
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Bestandsdefizite an Realschulplätzen im 19. Stadtbezirk lösen
+- TOP 7.2.: (Antrag) Kosten für die Sanierung des Containers an der GS Baierbrunner Straße darlegen
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 9: Verschiedenes
+- TOP 8.2.: - NACHTRAG - (A) Veranstaltung: Konzert Thalkirchner Platz am 19.08.2022
+- TOP 4.4.: - NACHTRAG - (Antrag) Wann öffnet das Maria-Einsiedel-Bad wieder?
+- TOP 6.4.: - NACHTRAG - (A) Satzungsänderung: Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken
+- TOP 4.1.1: Naturlehrpfad im Hermann-von-Siemens-Sportpark
+- TOP 5.1.1: Öffnung des Fahrradweges Ostseite Forstenrieder Allee Richtung Süden
+- TOP 7.1.2: Erweiterung und frühere Realisierung des Spielplatzes am Hermann-Hahn-Platz
+- TOP 5.8.: - NACHTRAG - (Antrag) Verzögerungen bei der Verlegung von Glasfaserkabeln
+- TOP 3.6.: - NACHTRAG - (E) Stadtbezirksbudget Lotse – Kinder + Jugendhilfe e.V. Mobiler Lotsenpunkt vom 01.09.2022 – 31.08.2023 15.614,51 € / Az. 0262.0-19-0419
+- TOP 3.7.: - NACHTRAG - (E) Stadtbezirksbudget Freunde des Forstenrieder Parks e.V. Dorffest Forstenried zum Tag des offenen Denkmals am 10. und 11.09.2022 450,00 € / Az. 0262.0-19-0423
+- TOP 5.9.: - NACHTRAG - (A) Veranstaltungsvorschläge Mobilitätsreferat - Mehr Rad im Viertel
+- TOP 2.8.: - NACHTRAG - (A) Bedarfsabfrage Hybridsitzungen
+- TOP 2.9.: - NACHTRAG - 75 Jahre Bezirksausschüsse
+- TOP 6.2.1: Gmunder Straße 7
+- TOP 6.2.3: Rugendasstraße 11
+- TOP 6.2.8: Stäblistraße 13
+- TOP 6.2.9: Stridbeckstraße 35
+- TOP 6.2.10: - abgesetzt -
+- TOP 6.2.11: - abgesetzt -
