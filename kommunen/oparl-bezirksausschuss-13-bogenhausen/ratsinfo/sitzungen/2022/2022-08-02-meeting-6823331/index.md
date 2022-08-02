@@ -1,0 +1,130 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2022-08-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6823331
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6823331
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 05.07.2022
+- TOP 1.3.2.: Sitzungskalender 2023
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Baumfällungen zu Bauvorhaben: Am Hierlbach Bülowstr. 10 Wehrlestr. 29 Neckarstr. 29 Oberföhringer Str. 131 Pienzenauerstr. 3
+- TOP 2.2.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.3.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Mobilitätspunkt an der S-Bahnstation Daglfing - Vorstellung durch das Mobilitätsreferat -
+- TOP 2.3.2.: Radwegplanung im Bereich der Max-Joseph-Brücke - Vorstellung durch das Baureferat -
+- TOP 2.3.3.: (E) + (U) Verlängerung der U4 Bahnstrecke Empfehlung Nr. 20-26 / E 00511 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 28.10.2021
+- TOP 2.3.4.: Ostpreußenstraße und Posener Platz 4: Einrichtung absolutes Haltverbot; Anhörung des Mobilitätsreferats
+- TOP 2.3.5.: Ismaninger Str. 69e: Einrichtung eines personenbezogenen Behindertenparkplatzes; Anhörung des Mobilitätsreferats
+- TOP 2.3.6.: Verbesserung der Verkehrssituation auf der Savitsstaße; Antrag der Fraktion CSU (vertagt aus der Plenumssitzung 07/22)
+- TOP 2.3.7.: Verlegung der Bushaltestelle Cosimabad (X30); Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.8.: Schaffung von zwei Ausweichstellen an der Aaröstraße für MVG Gelenkbusse; Antrag der CSU-Fraktion (vertagt aus der Plenumssitzung 07/22)
+- TOP 2.3.9.: Herstellung Querverbindung zur Glücksburger Straße; Bürgeranliegen (Bürgeranliegen nochmals aufgenommen, da das Anliegen aus der dritten E-Mail in der Sitzung am 05.07.22 nicht beantwortet wurde.)
+- TOP 2.3.10.: Sicherheitsgeländer vor der Grund- und Mittelschule an der Stuntzstraße; Bürgeranliegen
+- TOP 2.3.11.: Aussenbestuhlung Gaststätte Catwalk, Mauerkircherstr. 2: Errichtung einer Ladezone für Lkw-Anlieferungen auf Höhe Mauerkircherstr. 4; Anhörung des Kreisverwaltungsreferats
+- TOP 2.3.12.: Rappelhofstr.4-8: Anbringung einer Lärmschutzmauer; Bürgeranliegen
+- TOP 2.3.13.: Verbesserung der Fahrradinfrastruktur im Bezirk Bogenhausen; Bürgeranliegen
+- TOP 2.3.14.: Neuen Radweg zwischen Barlowstraße / Rambaldistraße anlegen; Bürgeranliegen - in Bezug auf die BV-Empfehlung 14-20 / E 02242 -
+- TOP 2.3.15.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.16.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget 13er Kultur Trägerverein e.V. Strukturelle Neuaufstellung des gesamten Vereins 2.800,00 € / Az. 0262.0-13-0322 - Vorstellung durch Antragsteller -
+- TOP 2.4.2.: (E) Stadtbezirksbudget Initiative "Sprachförderung" Sprachförderung für Kinder aus der Ukraine durch Pferde und kreative Medien vom 01.-05.08.2022 4.410,00 € / Az. 0262.0-13-0330 - Vorstellung durch Antragsteller -
+- TOP 2.4.3.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst vom 28.07. - 31.12.2022 3.897,60 € / Az. 0262.0-13-0329
+- TOP 2.4.4.: (E) Stadtbezirksbudget vox nova e.V. Nordlichter vom 22.-23.10.2022 1.500,00 € / Az. 0262.0-13-0331
+- TOP 2.4.5.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Regina-Ullmann-Straße Filmprojekt zum 50-jährigen Bestehen der Schule 1.000,00 € / Az. 0262.0-13-0327
+- TOP 2.4.6.: (E) Stadtbezirksbudget Kreislaufschränke München e.V. Kreislaufschrank Denning/Engelschalking ab Herbst 2022 4.200,00€; Az. 0262.0-13-0320
+- TOP 2.4.7.: (E) Stadtbezirksbudget Schützengesellschaft „Gemütlichkeit Daglfing“ e.V. Anschaffung von Sportgewehren und -pistolen 4.809,00 € / Az. 0262.0-13-0332
+- TOP 2.4.8.: Zuwendungsantrag für NordOstMagazin 2023 - Unterlagen folgen -
+- TOP 2.4.10.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.11.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Unterstützung der Kinderkrippe Klausenburg e.V. - Vorstellung durch Vertreter der Kinderkrippe -
+- TOP 2.5.2.: Lärmbelästigung durch die Nutzung des Sportplatzes der Ruth-Drexel-Schule - Nachfrage der Bürgerin zu dem BA-Antrag 20-26 / B 02846 -
+- TOP 2.5.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.4.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.2.: Errichtung eines rollstuhlgeeigneten Karussells; Antrag der CSU-Fraktion (vertagt aus Plenumssitzung 05.07.2022)
+- TOP 2.6.3.: Englschalkinger Anger – ein richtiger Name für das Grüne Band; Bürgeranliegen (vertagt aus Plenumssitzung 05.07.2022)
+- TOP 2.6.4.: Kostenübernahme Unterflurcontainer im Prinz-Eugen-Park im Rahmen der beschlossenen Zero-Waste-Initiative in Neubaugebieten; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.5.: Keine Wertstoffinsels in der Jörg-Hube-Straße; Bürgeranliegen (vertagt aus der Sitzung 12/21) - Ortstermin -
+- TOP 2.6.6.: Problematischer Zustand der Grün-Randstreifen entlang der Donaustraße; Bürgeranliegen
+- TOP 2.6.7.: Ausbau des Zamilasee im Zamilapark zu einem Badesee; Bürgeranliegen
+- TOP 2.6.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.9.: Verschiedenes, Termine
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn 2022; Schreiben der Arbeitsgruppe "Gedenken an den 9. November 1938“ und "Gegen Vergessen – Für Demokratie e.V., Regionale Arbeitsgruppe München"
+- TOP 2.7.2.: Entscheidung für den 6. Stadtbezirk Sendling als Einsatz-Stadtbezirk für das Beteiligungsprojekt „Ran an die Stadtteil-Koffer!“ 2023
+- TOP 2.7.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.4.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 5.1.: Lange Nacht der Feuerwehren am 24.09.2022 in der Muspillistraße; Anhörung des Kreisverwaltungsreferats
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Planungen für eine bedarfsgerechte, moderne Ausgestaltung der Spiel- und Freizeitflächen im Denninger Anger
+- TOP 6.2.: Basketballplatz Isabella-Braun-Weg
+- TOP 6.3.: Straßenmarkierung auf der Sternwartstraße anpassen
+- TOP 6.4.: Brücke zur sicheren Überquerung der Cosimastraße am Salzsenderweg
+- TOP 6.5.: Gefahrenpotential auf dem Rad- und Fußweg im Salzsenderweg
+- TOP 6.6.: Lücken in der Baumschutzverordnung schließen; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: (U) 75 Jahre Bezirksausschüsse – Festakt / Informationskampagne Darstellung der personellen Mehrbedarfe
+- TOP 7.2: Baureferat
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: (U) Tram-Neubaustrecke „Tram Nordtangente“ – Abschnitt Regina-Ullmann-Straße bis S-Bahnhof Johanneskirchen (Planfeststellungsabschnitt 3) und Verbesserung des anliegenden Straßenraums Trassierungsbeschluss
+- TOP 7.3.2.: (U) Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 7.3.3.: Ruth-Drexel-Straße (Prinz-Eugen-Park): Teilfertigstellung Wendehammer: Errichtung absolutes Haltverbot
+- TOP 7.3.4.: Südseite Grasbrunner Straße – Gewerbegebiet: Anordnung absolutes Haltverbot
+- TOP 7.3.5.: Aufhebung der Bücherbushaltestelle in der Bernheimerstraße; Bürgeranliegen
+- TOP 7.4: Kommunalreferat
+- TOP 7.4.1.: (E) Unterflurcontainer in Bogenhausen - Kostenübernahme BA-Antrags-Nr. 20-26 / B 00912 des Bezirksausschusses des Stadtbezirkes 13 - Bogenhausen vom 13.10.2020
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: (U) Satzung zur Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung – SoNuGebS -) sowie Novellierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL)
+- TOP 7.5.2.: Unterrichtung über Fortführung eines Gaststättenbetriebs: - Rennbahnstr. 35
+- TOP 7.5.3.: Informationsveranstaltung der SPD-Volt Fraktion „089 Vor Ort im Prinz-Eugen-Park“ am 22.07.2022 in der Eugen-Jochum-Straße/ Maria-Nindl-Platz - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Baumfällungen (Unterrichtungen): Ismaninger Str. 22 Muspillistr. 31 Burgauerstr. 75-75a Wesendonkstr. 30-32 Pachmayrpl. 10 Flemingstr. 150 Savitsstr. 12 St. Emmeram 34
+- TOP 7.7.2.: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 7.7.3.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 7.7.4.: (U) Vereinsgründung von "Stadt und Land München Ost e.V." (Zusatzname Ostallianz)
+- TOP 7.7.5.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2150 Richard-Strauss-Straße (östlich) Gemarkung Bogenhausen Flurstück Nrn. 214/17, 214/26, Teilfläche 225 (Teiländerung des rechtsverbindlichen Bebauungsplans Nr. 1325) - Satzungsbeschluss - Stadtbezirk 13 - Bogenhausen
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Unterrichtung über Zweckentfremdung: - Flemingstr. 38
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.11.1.: Mehrjahresinvestitionsprogramm 2022 - 2026 Weiterleitung der Stellungnahme des BA 13 an zuständige Referate
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.4.9.: (E) Stadtbezirksbudget Verein für Stadtteilkultur im Münchner Nordosten e.V. Festwoche 20 Jahre NordOstKultur vom 10.-18.09.2022 3.100,00 € / Az. 0262.0-13-0333
+- TOP 2.6.1.: Baumfällungen: Arabellastr. 33 Denninger Str. 35 Gellertstr. 22 Höslstr. 15 Höslstr. 18 Ismaninger Str. 154 Normannenpl. 2 Spilhofstr. 34 Freischützstr. 98 Arabellastr. 25
