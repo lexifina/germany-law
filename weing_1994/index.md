@@ -10,7 +10,6 @@
 - [§ 3 Weinanbaugebiet](0003.md)
 - [§ 3a Elektronische Kommunikation](0003a.md)
 - [§ 3b Stützungsprogramm](0003b.md)
-- [§ 3c (weggefallen)](0003c.md)
 
 ## 2. Abschnitt Anbauregeln
 
