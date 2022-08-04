@@ -48,13 +48,13 @@ Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereign
   Ist ZAbs ≤ Zum können die Abschaltungen zumutbar sein, sofern sie auch monetär zumutbar sind (Berechnung durch Nummer 2.3).
   Ist ZAbs > Zum gelten die Abschaltungen als unzumutbar und die Berechnungen ab Nummer 3 sind durchzuführen.
 2.3 Monetäre Zumutbarkeit der Maßnahmen
-  ZMo = P · VBH · ZAbs · AW · d + (IK – KAS)
+  | ZMo = P · VBH · ZAbs · AW · d + (IK – KAS) |
   Ergibt sich bei der Berechnung von (IK– KAS) ein Wert kleiner null, wird das Ergebnis der Subtraktion von (IK – KAS) mit null festgesetzt.
   Ist ZMo ≤ ZMV sind die Schutzmaßnahmen zumutbar und es erfolgt keine Zahlung in Artenhilfsprogramme.
   Ist ZMo > ZMV gelten die Schutzmaßnahmen als unzumutbar und die Berechnungen ab Nummer 3 sind durchzuführen.
 3. Berechnung des Basisschutzes in der artenschutzrechtlichen Ausnahme
 3.1 Maximal zulässiger monetärer Verlust im Basisschutz
-  BMV = P · VBH · BS · d · AW
+  | BMV = P · VBH · BS · d · AW |
 3.2 Prozentualer Anteil der Abschaltungen im Basisschutz
 [Bild: bgbl1_2022_j1362-1_0020.jpg]
 Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse angeordnet, ist (FlstMahd · Mahd) + (FlstErnte · Ernte) + (FlstPflügen · Pflügen) · h + (FlstAusn · h) bei der Berechnung aus der Formel zu streichen.
@@ -63,14 +63,14 @@ Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereign
   Ist BAbs > BS, sind die Maßnahmen unzulässig und müssen reduziert werden, bis BAbs ≤ BS.
   Ist BAbs ≤ BS, sind die Maßnahmen zulässig und werden bei der Berechnung der Zahlung in Artenhilfsprogramme (Nummer 4) berücksichtigt.
 3.3 Monetäre Kosten der Maßnahmen im Basisschutz
-  BMK = BAbs · P · VBH · AW · d + (IK – KAS)
+  | BMK = BAbs · P · VBH · AW · d + (IK – KAS) |
   Ergibt sich bei der Berechnung von (IK – KAS) ein Wert kleiner null, wird das Ergebnis der Subtraktion von IK – KAS mit null festgesetzt.
   Ist BMK > BMV sind die Maßnahmen unzulässig und müssen reduziert werden, bis BMK ≤ BMV.
   Ist BMK ≤ BMV sind die Maßnahmen zulässig und werden bei der Berechnung der Zahlung in Artenhilfsprogramme (Nummer 4) berücksichtigt.
 4. Berechnung der Zahlungen in Artenhilfsprogramme
 4.1 Berechnung des realen Energieertrags im vergangenen Kalenderjahr
-  Er = P · VBHr
+  | Er = P · VBHr |
 4.2 Berechnung des realen monetären Ertrags im vergangenen Kalenderjahr
-  Mr = Er · AW
+  | Mr = Er · AW |
 4.3 Berechnung der Höhe des zu zahlenden Beitrags in das Artenhilfsprogramm für das vergangene Kalenderjahr
-  [Bild: bgbl1_2022_j1362-1_0030.jpg]
+  |  |

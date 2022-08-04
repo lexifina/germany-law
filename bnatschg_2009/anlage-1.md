@@ -18,7 +18,8 @@
 | WeißstorchCiconia ciconia | 500 | 1 000 | 2 000 |
 | SumpfohreuleAsio flammeus | 500 | 1 000 | 2 500 |
 | Uhu1Bubo bubo | 500 | 1 000 | 2 500 |
-| * Abstände in Metern, gemessen vom Mastfußmittelpunkt1 Rohrweihe, Wiesenweihe und Uhu sind nur dann kollisionsgefährdet, wenn die Höhe der Rotorunterkante in Küstennähe (bis 100 Kilometer) weniger als 30 m, im weiteren Flachland weniger als 50 m oder in hügeligem Gelände weniger als 80 m beträgt. Dies gilt, mit Ausnahme der Rohrweihe, nicht für den Nahbereich. |
+| * Abstände in Metern, gemessen vom Mastfußmittelpunkt |
+| 1 Rohrweihe, Wiesenweihe und Uhu sind nur dann kollisionsgefährdet, wenn die Höhe der Rotorunterkante in Küstennähe (bis 100 Kilometer) weniger als 30 m, im weiteren Flachland weniger als 50 m oder in hügeligem Gelände weniger als 80 m beträgt. Dies gilt, mit Ausnahme der Rohrweihe, nicht für den Nahbereich. |
 | Abschnitt 2 |
 | Schutzmaßnahmen |
 Zur Vermeidung der Tötung oder Verletzung von Exemplaren europäischer Vogelarten nach Abschnitt 1 durch Windenergieanlagen sind insbesondere nachfolgend aufgeführte Schutzmaßnahmen fachlich anerkannt:
