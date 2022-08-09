@@ -1,0 +1,111 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2022-08-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6821738
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6821738
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Baumschutz (Einzelfälle und Bauvorhaben)
+- TOP 3.1.1.: Wikingerstr. 1
+- TOP 3.1.2.: Fasangartenstr. 138a - Neubau eines Einfamilienhauses und eines Doppelhauses (2 WE), Abbruch eines Einfamilienhauses (hier: Baumschutz)
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget 103er – Freizeittreff Obergiesing, KJR München-Stadt Theatertage 2022 vom 21.-25.11.2022 4.460,00 € / Az. 0262.0-17-0350 (FF UA Kultur)
+- TOP 5.1.2.: (E) Stadtbezirksbudget Initiative „Warenwechselstube“ Die Warenwechselstube – Parklet in der St-Martin-Straße 7 vom 01.08. - 01.11.2022 1.050,00 € / Az. 0262.0-17-0351 (FF UA Arbeit & Wirtschaft)
+- TOP 5.1.3.: (E) Stadtbezirksbudget Evangelische Kirchengemeinde München - Lutherkirche Orgelkonzert mit internationalen Organisten am 14.09.2022 350,00 € / Az. 0262.0-17-0352 (FF UA Kultur)
+- TOP 5.1.4.: (E) Stadtbezirksbudget SpVgg 1906 Haidhausen e.V. Trikotsätze, Trainingsbälle und Trainingsequipment für Juniorenabteilung 9.250,00 € / Az. 0262.0-17-0353 (FF UA Kultur)
+- TOP 5.1.5.: (E) Stadtbezirksbudget Initiative „Don Quichote“ Don Quichote, der Rosinante und die Frauen vom 07.11.2022 – 19.02.2023 3.087,00 € / Az. 0262.0-17-0355 (FF UA Kultur)
+- TOP 5.1.6.: (E) Stadtbezirksbudget Frauenverband Courage e.V. Frauen- und Familienfest am 17.07.2022 500,00 € / Az. 0262.0-17-0354 (FF UA FSA)
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.3.1.: Chiemgaustraße - Die (bestehende) Monofußanlage vor der Unterführung (Fahrtrichtung nach Westen) soll digitalisiert und um gute 2 qm (von 9 auf 11,34 m²) vergrößert werden. Der Bildwechsel soll im 10-Sek. Takt erfolgen Gibt es etwas dagegen einzuwenden?
+- TOP 6.1.3.2.: Fasangartenstr. 138a - Neubau eines Einfamilienhauses und eines Doppelhauses (2 WE), Abbruch eines Einfamilienhauses
+- TOP 6.1.5: Anträge
+- TOP 6.1.6: Sonstiges
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3: UA Mobilität und Verkehr
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Ausgewiesener Radweg beidseitig Am Nockherberg
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Trauchbergstraße / Forggenseestraße; Absolutes Haltverbot für die Müllabfuhr mit Zeitzusatz - Anhörung des Mobilitätsreferates -
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: (E) Dächer in Giesing mit Photovoltaik + Solarthermie
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Münchner Wochen- und Bauernmärkte - neuer Wochenmarktstandort am Ella-Lingens-Platz; Sondernutzungserlaubnis - Anhörung des Kommunalreferates -
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.1.1.: Entscheidung über Sondernutzungserlaubnis: Parklet St.-Martin-Str. 7 (FF UA MuV, UA Arbeit)
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken; Anhörung des Direktoriums (FF alle UA - keine Fristverlängerung möglich)
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.1.3.3.: Errichtung einer öffentlichen, freistehenden WC-Anlage / Walchenseepl. 1a
+- TOP 6.4.3.1.: Errichtung einer öffentlichen, freistehenden WC-Anlage / Walchenseepl. 1a (Dokumente vgl. TOP 6.1.3.3)
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
