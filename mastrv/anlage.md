@@ -17,7 +17,7 @@
 | *9 | bei Einheiten mit Inbetriebnahme vor dem 1. Juli 2017 |
 | *10 | ab einer Nettonennleistung von 10 MW |
 | *11 | ab einer Nettonennleistung von 100 kW |
-| *12 | bei Anschluss an Hoch- und Höchstspannung |
+| *12 | ab einer Nettonennleistung von 1 MW |
 | *13 | bei Pumpspeichern |
 | WI | Windenergie |
 | SO | solare Strahlungsenergie |
@@ -41,7 +41,7 @@ Zu erfassende Daten zu Marktakteuren und Behörden
 | I.1.7 | Geburtsdatum | R*4 | V*3 |  |
 | I.1.8 | Tätigkeitsbeginn | R*7 |  |  |
 | I.1.9 | Tätigkeitsende | R | V*3 |  |
-| I.1.10 | Betriebsnummer der Bundesnetzagentur | R | V*3 |  |
+| I.1.10 | Betriebsnummer der Bundesnetzagentur |  | V*3 |  |
 | I.1.11 | Marktpartneridentifikationsnummer | P | V*3 |  |
 | I.1.12 | ACER-Code | P | V*3 |  |
 | I.1.13 | Umsatzsteueridentifikationsnummer | P | V*3 |  |
@@ -71,8 +71,7 @@ Zu erfassende Daten zu Marktakteuren und Behörden
 | I.5.2.2.1 | Bezeichnung | P |  |  |
 | I.5.2.2.2 | Energy Identification Code für Gebiete (Y-EIC) | R |  |  |
 | I.5.2.2.3 | Regelzone | R |  |  |
-| I.5.3 Zusätzliche Daten zu Gasnetzbetreibern |
-| I.5.3.1 | Marktgebiet | R |  |  |
+| I.5.3 (weggefallen) |  |  |  |
 Tabelle II
 Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | Nr. | Datum | I | II | III | IV | V | Abweichungen bei Registrierungspflicht, Vertraulichkeit und Pflicht zur Netzbetreiberprüfung |
@@ -93,7 +92,7 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.1.1.11 | Inselbetriebsfähigkeit |  | P*12 |  | V*2 | NP |  |
 | II.1.1.12 | Präqualifikation Regelleistung |  | P*11 |  | V*2 |  |  |
 | II.1.1.13 | Fernsteuerbarkeit durch Netzbetreiber, Direktvermarkter und Dritte |  | P |  |  | NP | NP nur bei Fernsteuerbarkeit durch den Netzbetreiber |
-| II.1.1.14 | Art der Einspeisung |  | P |  |  |  |  |
+| II.1.1.14 | Art der Einspeisung |  | R |  |  | NP |  |
 | II.1.1.15 | Technologie der Stromerzeugung |  | R |  |  |  | WI: [I]: P, [II]: P. SO: /. BI: [I]: P. GS: [II]: P. SP: [I]: R |
 | II.1.1.16 | Energieträger | R | R |  |  | NP |  |
 | II.1.1.17 | Hauptbrennstoff | R | R |  |  |  | WI: [I]: /, [II]: /.SO: [I]: /, [II]: /.BI: [I]: /. |
@@ -104,7 +103,7 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.1.1.22 | vom Anschlussnetzbetreiber vergebene Identifikationsnummer |  | P |  |  |  |  |
 | II.1.1.23 | MaStR-Nummer des Anlagenbetreibers | A | A |  |  |  |  |
 | II.1.1.24 | Registrierungsdatum | A | A |  |  |  |  |
-| II.1.1.25 | Anlage nach dem EEG |  | R |  |  |  | VE: [II] |
+| II.1.1.25 | Anlage nach dem EEG |  | R |  |  | NP | VE: [II] |
 | II.1.1.26 | Datum des Betreiberwechsels |  |  |  |  |  | R bei Betreiberwechsel |
 | II.1.2 Zusätzliche Daten zu Genehmigungen (nur bei Projekten und Neueinheiten) |
 | II.1.2.1 | Art der Genehmigung | R | P |  |  |  |  |
@@ -119,7 +118,7 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.1.3.1 | Name des Kraftwerks | P*10 | P*10 |  |  |  |  |
 | II.1.3.2 | Name des Kraftwerksblocks | P*10 | P*10 |  |  |  |  |
 | II.1.3.3 | Datum des Baubeginns | P*10 |  |  |  |  |  |
-| II.1.3.4 | Steigerung der Nettonennleistung durch Kombibetrieb |  | P*11 |  |  | NP |  |
+| II.1.3.4 | Nettonennleistung im Kombibetrieb |  | P*11 |  |  | NP |  |
 | II.1.3.5 | MaStR-Nummern der SEE, die mit der SEE im Kombibetrieb verbunden sind |  | P*11 |  |  |  |  |
 | II.1.3.6 | weiterer Hauptbrennstoff |  | P |  |  |  |  |
 | II.1.3.7 | Datum des Beginns der gesetzlichen Hinderung an der Stilllegung (Netzreserve) |  | P*11 |  |  |  |  |
@@ -127,12 +126,12 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.1.3.9 | Datum des Beginns der vorläufigen oder endgültigen Stilllegung |  | P |  |  |  |  |
 | II.1.3.10 | Datum der Beendigung der vorläufigen Stilllegung |  | P |  |  |  |  |
 | II.1.3.11 | Verwendung als Notstromaggregat |  | R |  |  |  |  |
-| II.1.3.12 | KWK-Anlage |  | R |  |  |  |  |
+| II.1.3.12 | KWK-Anlage |  | R |  |  | NP |  |
 | II.1.4 Zusätzliche Daten zu Einheiten in Notstromaggregaten |
 | II.1.4.1 | Einsatzort |  | P |  |  |  |  |
 | II.1.5 Zusätzliche Daten zu Biomasse-Einheiten |
 | II.1.5.1 | Biomasseart (Brennstoff) |  | A |  |  | NP |  |
-| II.1.5.2 | KWK-Anlage |  |  |  |  |  |  |
+| II.1.5.2 | KWK-Anlage |  |  |  |  | NP |  |
 | II.1.6 Zusätzliche Daten Solareinheiten (ohne Solarthermie) |
 | II.1.6.1 Allgemeine Daten |
 | II.1.6.1.1 | Lage (Art des Errichtungsorts) | R | R |  |  | NP |  |
@@ -160,6 +159,7 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.1.7.1.6 | Hersteller |  | P |  |  | NP*8 |  |
 | II.1.7.1.7 | Typenbezeichnung |  | P |  |  |  |  |
 | II.1.7.1.8 | Rotorblattenteisungssystem |  | P |  |  |  |  |
+| II.1.7.1.9 | Einrichtung zur bedarfsgesteuerten Nachtkennzeichnung |  | P |  |  | NP |  |
 | II.1.7.2 Zusätzliche Daten zu Wind auf See |
 | II.1.7.2.1 | Nordsee oder Ostsee | R | R |  |  |  |  |
 | II.1.7.2.2 | Wassertiefe |  | P |  |  |  |  |
@@ -189,6 +189,7 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.2.1.3 | Inbetriebnahmedatum nach EEG |  | R |  |  | NP |  |
 | II.2.1.4 | Nummer aus Anlagenregister oder PV-Melderegister |  | P*9 |  |  |  |  |
 | II.2.1.5 | Registrierungsdatum | A | A | A |  |  |  |
+| II.2.1.6 | Betrieb durch eine Bürgerenergiegesellschaft nach § 22b EEG |  |  |  |  | NP | WI: [I]: P, [II]: P SO: [II]: P |
 | II.2.2 Zusätzliche Daten bei Teilnahme an Ausschreibung nach dem EEG |
 | II.2.2.1 | Zuschlagsnummer |  | P |  |  | NP |  |
 | II.2.2.2 | zugeordnete Gebotsmengen |  |  |  |  | NP | SO: [II],: P. |
@@ -223,8 +224,8 @@ Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 | II.3 Daten zu KWK-Anlagen |
 | II.3.1 Allgemeine Daten |
 | II.3.1.1 | thermische Nutzleistung |  | R |  |  |  |  |
-| II.3.1.2 | elektrische KWK-Leistung |  | R |  |  |  |  |
-| II.3.1.3 | Inbetriebnahmedatum |  | R |  |  |  |  |
+| II.3.1.2 | elektrische KWK-Leistung |  | R |  |  | NP |  |
+| II.3.1.3 | Inbetriebnahmedatum |  | R |  |  | NP |  |
 | II.3.1.4 | Registrierungsdatum | A | A | A |  |  |  |
 | II.3.2 Zusätzliche Angaben bei Teilnahme an Ausschreibung |
 | II.3.2.1 | Zuschlagsnummer |  | P |  |  |  |  |
@@ -237,17 +238,17 @@ Zu erfassende Daten zu Stromverbrauchseinheiten, Gaserzeugungs- und Gasverbrauch
 | III.1.2 | Standort der Einheit (Adresse oder Flurstücke) | R | R |  | V*1 | NP |  |
 | III.1.3 | Standort der Einheit (geografisch) |  | R |  | V*1 |  |  |
 | III.1.4 | geplantes Inbetriebnahmedatum | R |  |  |  |  |  |
-| III.1.5 | Inbetriebnahmedatum |  | R |  |  | NP |  |
-| III.1.6 | Datum der endgültigen Stilllegung |  |  | R |  | NP |  |
-| III.1.7 | Netzbetreiber |  | R |  |  | NP |  |
+| III.1.5 | Inbetriebnahmedatum |  | R |  |  |  |  |
+| III.1.6 | Datum der endgültigen Stilllegung |  |  | R |  |  |  |
+| III.1.7 | Netzbetreiber |  | R |  |  |  |  |
 | III.1.8 | vom Anschlussnetzbetreiber vergebene Identifikationsnummer |  | R |  |  |  |  |
 | III.1.9 | Registrierungsdatum | A | A | A |  |  |  |
 | III.1.10 | Datum des Betreiberwechsels |  |  |  |  |  | R bei Betreiberwechsel |
 | III.2 Daten zu Stromverbrauchseinheiten |  |
 | III.2.1 | Anzahl angeschlossener Stromverbrauchseinheiten > 50 MW |  | P |  |  |  |  |
 | III.2.2 | Einsatzverantwortlicher |  | P |  |  |  | wenn angeschlossene Stromverbrauchseinheiten > 50 MW vorhanden sind |
-| III.2.3 | Art der präqualifizierten Leistung zur Teilnahme als abschaltbare Last gemäß AbLaV |  | P |  |  |  |  |
-| III.2.4 | Anteil beeinflussbarer Last |  | P |  |  |  |  |
+| III.2.3 | (weggefallen) |  |  |  |  |  |  |
+| III.2.4 | (weggefallen) |  |  |  |  |  |  |
 | III.3 Daten zu Gaserzeugungseinheiten |  |
 | III.3.1 | Technologie | R | R |  |  | NP |  |
 | III.3.2 | Erzeugungsleistung | R | R |  |  | NP |  |
@@ -279,15 +280,16 @@ Stromverbrauchslokationen und technischen Gaserzeugungs- und Gasverbrauchslokati
 | V.2.1.1 | Spannungsebene | R |  |
 | V.2.1.2 | Bilanzierungsgebiet | R |  |
 | V.2.1.3 | Netzanschlusspunktbezeichnung | P |  |
+| V.2.1.4 | Status Netzanschlusspunkt | R |  |
 | V.2.2 Daten zu technischen Stromerzeugungslokationen |
 | V.2.2.1 | Nettoengpassleistung | P |  |
 | V.2.3 Daten zu technischen Stromverbrauchslokationen |
 | V.2.3.1 | Netzanschlusskapazität | P |  |
 | V.3 Daten zu technischen Gaslokationen |
 | V.3.1 Allgemeine Daten |
-| V.3.1.1 | Marktgebiet | R |  |
-| V.3.1.2 | Gasqualität am Netzanschluss | P |  |
-| V.3.1.3 | Netzanschlusspunktbezeichnung | P |  |
+| V.3.1.1 | Gasqualität am Netzanschluss | P |  |
+| V.3.1.2 | Netzanschlusspunktbezeichnung | P |  |
+| V.3.1.3 | Status Netzanschlusspunkt | R |  |
 | V.3.2 Daten zu technischen Gaserzeugungslokationen |
 | V.3.2.1 | maximale Einspeiseleistung | P |  |
 | V.3.3 Daten zu technischen Gasverbrauchslokationen |

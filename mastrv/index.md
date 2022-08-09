@@ -20,7 +20,7 @@
 - [§ 8 Registrierungsverfahren](0008.md)
 - [§ 9 Verarbeitung von Daten](0009.md)
 - [§ 10 Überprüfung und Änderung der gespeicherten Daten](0010.md)
-- [§ 11 Übernahme von Daten](0011.md)
+- [§ 11 (weggefallen)](0011.md)
 - [§ 12 (weggefallen)](0012.md)
 - [§ 13 Überprüfung gespeicherter Daten durch die Netzbetreiber](0013.md)
 - [§ 14 Daten zu technischen Lokationen](0014.md)
