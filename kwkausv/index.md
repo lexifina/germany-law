@@ -18,7 +18,7 @@
 - [§ 15 Bekanntgabe der Zuschläge](0015.md)
 - [§ 16 Entwertung von Zuschlägen](0016.md)
 - [§ 17 Zuordnung und Übertragung von Zuschlägen](0017.md)
-- [§ 18 Erlöschen von Zuschlägen](0018.md)
+- [§ 18 Erlöschen und Rückgabe von Zuschlägen](0018.md)
 - [§ 19 Höhe, Dauer und Voraussetzungen des Anspruchs auf Zuschlagszahlung](0019.md)
 - [§ 20 Mitteilungspflichten](0020.md)
 - [§ 21 Pönalen](0021.md)
@@ -29,3 +29,4 @@
 - [§ 26 Anwendung des Kraft-Wärme-Kopplungsgesetzes im Kooperationsstaat](0026.md)
 - [§ 27 Völkerrechtliche Vereinbarung](0027.md)
 - [§ 28 Evaluierung](0028.md)
+- [§ 29 Übergangsbestimmungen](0029.md)

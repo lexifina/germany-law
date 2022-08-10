@@ -91,4 +91,4 @@
 
 - [§ 52 Nutzungsbedingungen](0052.md)
 - [§ 53 Ausschluss des Widerspruchsverfahrens](0053.md)
-- [§ 54 Übergangsbestimmung](0054.md)
+- [§ 54 (weggefallen)](0054.md)
