@@ -168,8 +168,7 @@ Handwerkskammern, Innungsverbände
 - [§ 109 Zeugnis](0109.md)
 - [§ 110 Wettbewerbsverbot](0110.md)
 - [§ 111 Pflichtfortbildungen](0111.md)
-- [§ 112 (weggefallen)](0112.md)
-- [(XXXX) §§ 113 bis 132a (weggefallen)](xxxx-113-bis-132a.md)
+- [(XXXX) §§ 112 bis 132a (weggefallen)](xxxx-112-bis-132a.md)
 
 ### II. Meistertitel
 
