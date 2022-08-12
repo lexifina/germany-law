@@ -247,19 +247,15 @@
 ## Teil 5 Sondervorschriften für zentrale Gegenparteien
 
 - [§ 152a Anwendungsbereich](0152a.md)
-- [§ 152b (weggefallen)](0152b.md)
-- [§ 152c (weggefallen)](0152c.md)
-- [§ 152d (weggefallen)](0152d.md)
-- [§ 152e Erstellung und Aktualisierung von Abwicklungsplänen](0152e.md)
-- [§ 152f Abwicklungsfähigkeit, Abbau und Beseitigung von Abwicklungshindernissen; Verordnungsermächtigung](0152f.md)
-- [§ 152g Zwecke und Umfang der Bewertung; Unterlagen](0152g.md)
-- [§ 152h Anordnung von Abwicklungsmaßnahmen](0152h.md)
-- [§ 152i Zwecke der Instrumente der Vertragsbeendigung, der Minderung zu zahlender Gewinne und des zusätzlichen Barmittelabrufs](0152i.md)
-- [§ 152j Instrument der Vertragsbeendigung](0152j.md)
-- [§ 152k Instrument der Minderung zu zahlender Gewinne nichtausgefallener Clearingmitglieder](0152k.md)
-- [§ 152l Instrument des zusätzlichen Barmittelabrufs](0152l.md)
-- [§ 152m Schutzbestimmungen für Anteilsinhaber, Gläubiger und Clearingmitglieder](0152m.md)
-- [§ 152n Rechtsschutz](0152n.md)
+- [§ 152b Zuständigkeit](0152b.md)
+- [§ 152c Unabhängiger Prüfer](0152c.md)
+- [§ 152d Abwicklungsinstrumente, Anordnungsbefugnis](0152d.md)
+- [§ 152e Ausgleich des Differenzbetrags](0152e.md)
+- [§ 152f Inhalt der Abwicklungsanordnung](0152f.md)
+- [§ 152g Verfahrensvorschriften, Einlagensicherung, Sozialpläne](0152g.md)
+- [§ 152h Rechtsschutz](0152h.md)
+- [§ 152i Verordnungsermächtigung](0152i.md)
+- [§ 152j Besondere Befugnisse nach der Verordnung (EU) 2021/23](0152j.md)
 
 ## Teil 6 Grenzüberschreitende Gruppenabwicklung und Beziehungen zu Drittstaaten
 
@@ -304,6 +300,7 @@
 ## Teil 7 Bußgeldvorschriften
 
 - [§ 172 Bußgeldvorschriften](0172.md)
+- [§ 172a Bußgeldvorschriften zur Verordnung (EU) 2021/23](0172a.md)
 - [§ 173 Zuständige Verwaltungsbehörde](0173.md)
 - [§ 174 Vorübergehendes Tätigkeitsverbot; Bekanntmachung von Maßnahmen](0174.md)
 - [§ 175 Beteiligung der Abwicklungsbehörde und Mitteilungen in Strafsachen](0175.md)

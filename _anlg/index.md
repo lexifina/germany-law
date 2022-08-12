@@ -32,7 +32,7 @@
 
 - [§ 15 Grundlegende Anforderungen an Prüfstellen für die Zulassung als zugelassene Überwachungsstelle](0015.md)
 - [§ 16 Unabhängigkeit und Unparteilichkeit von zugelassenen Überwachungsstellen](0016.md)
-- [§ 17 Anforderungen an die mit Prüfungen von überwachungs- bedürftigen Anlagen beauftragten Personen](0017.md)
+- [§ 17 Anforderungen an die mit Prüfungen von überwachungsbedürftigen Anlagen beauftragten Personen](0017.md)
 
 ### Unterabschnitt 2 Einrichtung, Aufgaben und Befugnisse der Zulassungsbehörde
 

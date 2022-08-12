@@ -14,7 +14,7 @@ Die Warennummern dieses Kapitels dienen der statistischen Erfassung des Außenha
 | –Waren der Kapitel 1 bis 24 des Warenverzeichnisses | 9930 24 00 |
 | –Waren des Kapitels 27 des Warenverzeichnisses | 9930 27 00 |
 | –Waren anderer Kapitel (als der vorgenannten) | 9930 99 00 |
-| Betriebs‑ und Versorgungsgüter für Einrichtungen auf hoher See, z. B. Bohrinseln (nach § 22) | 9931 |
+| Betriebs- und Versorgungsgüter für Einrichtungen auf hoher See, z. B. Bohrinseln (nach § 22) | 9931 |
 | –Waren der Kapitel 1 bis 24 des Warenverzeichnisses | 9931 24 00 |
 | –Waren des Kapitels 27 des Warenverzeichnisses | 9931 27 00 |
 | –Waren anderer Kapitel (als der vorgenannten) | 9931 99 00 |
@@ -28,7 +28,7 @@ Die Warennummern dieses Kapitels dienen der statistischen Erfassung des Außenha
 | Warenbezeichnung | Warennummer |
 | Zusammenstellungen (Sortimente) von Warenmustern, ausgenommen solche der Warennummer 9990 63 00 | 9990 99 20 |
 | Diese Warennummer gilt für Zusammenstellungen (Sortimente) von Waren, die sich durch ihre Aufmachung, Beschaffenheit oder Menge als Muster darstellen und sich dadurch von Waren des üblichen Warenverkehrs unterscheiden. Für die einzelne Ware darf ein Wert von 500 € je Warennummer nicht überschritten werden. |  |
-| Zusammenstellungen (Sortimente) von Waren zum Errichten und Ausstatten von Messe‑ und Ausstellungsständen zur vorübergehenden oder nach vorübergehender Verwendung im Ausland | 9990 99 21 |
+| Zusammenstellungen (Sortimente) von Waren zum Errichten und Ausstatten von Messe- und Ausstellungsständen zur vorübergehenden oder nach vorübergehender Verwendung im Ausland | 9990 99 21 |
 | Hierher gehören nicht die auszustellenden Waren; diese sind unter den jeweils zutreffenden Warennummern anzumelden. |  |
 | Zusammenstellungen (Sortimente) von Montagewerkzeugen, Montagegeräten und Baugerätschaften zur vorübergehenden oder nach vorübergehender Verwendung im Ausland | 9990 99 22 |
 | Andere Zusammenstellungen (Sortimente) von Waren, die im Rahmen von zur Anmeldung zur Außenhandelsstatistik befreiten Warenverkehren exportiert werden. | 9990 99 30 |

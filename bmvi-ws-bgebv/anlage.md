@@ -303,9 +303,10 @@ Auslagen werden erhoben
 | 25 | Übertragung der Bootszeugnisse bei Veräußerung beziehungsweise Umschreibung des Bootszeugnisses |  | 38,40 – 234 |
 | 26 | Zulassung eines Seelotsenanwärters und Ausstellung eines Seelotsenanwärterausweises | § 8 Absatz 2 Satz 1 SeeLG § 15 Absatz 1 SeeLAuFV | 38,35 |
 | 27 | Erstprüfung eines Seelotsenanwärters für die Seelotsreviere | § 10 SeeLG | 193 |
+| 28 | Wiederholungsprüfung eines Seelotsanwärters für die Seelotsreviere | § 10 SeeLG | 181 |
 | 29 | Prüfung eines Bewerbers für die Tätigkeit eines Seelotsen über See oder auf Seeschifffahrtsstraßen außerhalb der Reviere | § 42 Absatz 2 SeeLG § 2 SeelotRevierV | 250 |
 | 30 | Bestallung eines Seelotsen und Ausstellung eines Seelotsenausweises zuzüglich der Gebühr nach Nummer 27 | §§ 11, 17 SeeLG § 15 Absatz 1 SeeLAuFV | 45,80 |
-| 31 | Erteilung der Erlaubnis zur Lotstätigkeit außerhalb der Reviere und Ausstellung eines Lotsenausweises für Überseelotsen bzw. Seelotsen auf Seeschifffahrtsstraßen außerhalb der Reviere zuzüglich der Gebühr nach Nummer 28 | §§ 11, 17 SeeLG § 4 SeelotRevierV | 38,35 |
+| 31 | Erteilung der Erlaubnis zur Lotstätigkeit außerhalb der Reviere und Ausstellung eines Lotsenausweises für Überseelotsen bzw. Seelotsen auf Seeschifffahrtsstraßen außerhalb der Reviere zuzüglich der Gebühr nach Nummer 29 | §§ 11, 17 SeeLG § 4 SeelotRevierV | 38,35 |
 | 32 | Ersatz eines Seelotsenanwärter- oder Seelotsenausweises oder des Lotsenausweises für Überseelotsen bzw. Seelotsen auf Seeschifffahrtsstraßen außerhalb der Reviere | § 15 Absatz 1 SeeLAuFV § 4 SeelotRevierV | 38,35 |
 | 33 | Befreiung von der Lotsenannahmepflicht in besonderen Fällen | § 12 Ems LV § 12 Weser/Jade-LV § 12 Elbe-LV § 16 NOK-LV § 14 WIROST-LV | 117 – 208 |
 | 34 | Ersatz einer Bescheinigung über die Befreiung von der Lotsenannahmepflicht | § 12 Ems LV § 12 Weser/Jade-LV § 12 Elbe-LV § 16 NOK-LV § 14 WIROST-LV | 83,60 |
@@ -336,7 +337,7 @@ Gebühren der Berufsgenossenschaft Verkehr Post-Logistik Telekommunikation
 für gebührenpflichtige Leistungen auf dem Gebiet der Schiffssicherheit
 Gebühren und Auslagen
 1. Gebührenbemessung
-  a) Für die Berechnung der Gebühren nach Zeitaufwand wird ein Stundensatz von 119,70 Euro angewendet.
+  a) Für die Berechnung der Gebühren nach Zeitaufwand wird ein Stundensatz von 119,70 Euro angewendet. Abweichend von Satz 1 werden für die Berechnung der Gebühren nach Zeitaufwand im Abschnitt III Bereich „A. Maritime Medizin“ die allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung nach Anlage 1 Teil A der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S. 130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021 (BGBl. I S. 204) geändert worden ist, angewendet.
   b) Hierbei umfasst die Dauer auch die Reisezeit, eine vom Gebührenschuldner verursachte Wartezeit sowie die Zeit für Vor- und Nachbereitung.
   c) Bei der Berechnung von Fahrtkosten und Reisezeit wird der dem jeweiligen Ort der erbrachten individuell zurechenbaren öffentlichen Leistung nächstliegende Dienstsitz der Dienststelle Schiffssicherheit der BG Verkehr zugrunde gelegt, es sei denn, die Leistung wurde auf Antrag des Gebührenschuldners von einem Bediensteten erbracht, dessen Dienstort nicht der dem Leistungsort nächstliegende ist.
   d) Wird die Gültigkeit eines Zeugnisses auf eine kürzere als die gesetzlich vorgesehene Dauer begrenzt, so wird die Gebühr für die Ausstellung des Zeugnisses anteilmäßig nach vollen Jahren erhoben.
@@ -442,15 +443,20 @@ Gebühren und Auslagen
 | 2610 | Genehmigungen und Prüfungen nach der Verordnung (EU) Nr. 1257/2013 und/oder nach dem Übereinkommen von Hongkong | nach Abschnitt 4a, § 23 Absatz 1 SeeUmwVerhV i. V. m. der Verordnung (EU) Nr. 1257/2013 oder dem Übereinkommen von Hongkong von 2009 über das sichere und umweltgerechte Recycling von Schiffen | nach Zeitaufwand |
 | III. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet des Seearbeitsrechts |
 | A. Maritime Medizin |
-| 3001 | Ausstellung des Seediensttauglichkeitszeugnisses, ggf. zuzüglich Gebühren nach Nummer 3002 oder Nummer 3003 | § 12 Absatz 3 SeeArbG i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG | 20,70 |
-| 3002 | Vorausgegangene gesundheitliche Untersuchung | § 4 Absatz 1, Anlage 2 Nummer 2 MariMedV i. V. m. § 12 Absatz 3 SeeArbG i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG | 70 – 130 |
-| 3003 | Vorausgegangene gesundheitliche Ergänzungsuntersuchung | § 4 Absatz 2 MariMedV i. V. m. § 12 Absatz 3 SeeArbG i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG | 70 – 130 |
-| 3004 | Zulassung medizinischer Wiederholungslehrgänge für Schiffsoffiziere | § 109 Absatz 1 Satz 6 SeeArbG i. V. m. § 16 Absatz 1 MariMedV | 3 195 |
-| 3005 | Verlängerung der Zulassung medizinischer Wiederholungslehrgänge für Schiffsoffiziere | § 109 Absatz 1 Seite 6 SeeArbG i. V. m. § 16 Absatz 4, § 1 MariMedV | 3 195 |
-| 3006 | Registrierung als Schiffsarzt | § 19 Absatz 2 MariMedV | 80,15 |
-| 3007 | Zulassung von Ärzten zur Durchführung von Seediensttauglichkeitsuntersuchungen | § 16 Absatz 1 SeeArbG | 2 503 |
-| 3008 | Verlängerung der Zulassung von Ärzten zur Durchführung von Seediensttauglichkeitsuntersuchungen | § 16 Absatz 1 SeeArbG i. V. m. § 10 MariMedV | 623 |
-| 3009 | Genehmigung zur Vornahme von Seediensttauglichkeitsuntersuchungen in einer weiteren Untersuchungsstelle | § 16 Absatz 1 SeeArbG | 978 |
+| 3001 | Ausstellung des Seediensttauglichkeitszeugnisses, ggf. zuzüglich Gebühren nach Nummer 3002 oder Nummer 3003 | § 12 Absatz 3 SeeArbG i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG | 19,65 |
+| 3002 | Vorausgegangene gesundheitliche Untersuchung | § 4 Absatz 1, Anlage 2 Nummer 2 MariMedV i. V. m. § 12 Absatz 3 SeeArbG i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG | 149 |
+| 3003 | Vorausgegangene gesundheitliche Ergänzungsuntersuchung | § 4 Absatz 2 MariMedV i. V. m. § 12 Absatz 3 SeeArbG i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG | 149 |
+| 3004 | Zulassung medizinischer Wiederholungslehrgänge für Schiffsoffiziere | § 109 Absatz 1 Satz 6 SeeArbG i. V. m. § 16 Absatz 1 MariMedV | 3 075 |
+| 3005 | Verlängerung der Zulassung medizinischer Wiederholungslehrgänge für Schiffsoffiziere | § 109 Absatz 1 Seite 6 SeeArbG i. V. m. § 16 Absatz 4, § 1 MariMedV | 3 075 |
+| 3006 | Registrierung als Schiffsarzt | § 19 Absatz 2 MariMedV | 78,10 |
+| 3007 | Zulassung von Ärzten zur Durchführung von Seediensttauglichkeitsuntersuchungen | § 16 Absatz 1 SeeArbG | 2 420 |
+| 3008 | Verlängerung der Zulassung von Ärzten zur Durchführung von Seediensttauglichkeitsuntersuchungen | § 16 Absatz 1 SeeArbG i. V. m. § 10 MariMedV | 595 |
+| 3009 | Genehmigung zur Vornahme von Seediensttauglichkeitsuntersuchungen in einer weiteren Untersuchungsstelle | § 16 Absatz 1 SeeArbG | 958 |
+| 3010 | Erweiterung der Zulassung von Ärzten zur Durchführung von Seelotseignungsuntersuchungen | § 8 SeeLG | 520 |
+| 3011 | Durchführung des psychologischen Eignungstests bei Seelotsenbewerberinnen und Seelotsenbewerbern und Feststellung des Ergebnisses | § 3 Absatz 2 SeeLotsEigV | 150 |
+| 3012 | Ausstellung des Seelotseignungszeugnisses, gegebenenfalls zuzüglich Gebühren nach Nummer 3013 | § 5 Absatz 1 Nummer 2 SeeLotsEigV | 16,70 |
+| 3013 | Vorausgegangene körperliche Untersuchung | § 5 Absatz 1 Nummer 2 SeeLotsEigV i. V. m. § 13 Absatz 2, 3 SeeLG | nach Zeitaufwand |
+| 3014 | Ungültigkeitserklärung eines Seediensttauglichkeitszeugnisses | § 14 Absatz 3 SeeArbG | 55,85 |
 | B. Überprüfung der Arbeits- und Lebensbedingungen nach dem Seearbeitsgesetz |
 | 3101 | Erteilung eines vorläufigen Seearbeitszeugnisses | § 131 Absatz 1 SeeArbG | 239 |
 | 3102 | Erteilung eines Seearbeitszeugnisses | § 130 Absatz 2 SeeArbG | 478 |
