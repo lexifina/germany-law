@@ -78,4 +78,4 @@ Teil 6 Schlussvorschriften
 § 65 Verarbeitung besonderer Kategorien personenbezogener Daten
 § 66 Übergangsbestimmungen
 § 67 Inkrafttreten, Außerkrafttreten
-Anlage | Vergütung für die Mitwirkung an den juristischen Prüfungen
+Anlage Vergütung für die Mitwirkung an den juristischen Prüfungen
