@@ -7,8 +7,6 @@
 - [§ 5 Abrufdaten für die Meldebescheinigung](0005.md)
 - [§ 6 Meldedatensatz zum Abruf](0006.md)
 - [§ 7 Abruf einer beschränkten Selbstauskunft aus dem Melderegister](0007.md)
-- [§ 7 Abruf einer beschränkten Selbstauskunft aus dem Melderegister](0007-2.md)
 - [§ 8 Abruf, Eintragung oder Löschung der Daten zu Übermittlungssperren](0008.md)
 - [§ 9 Elektronische Anmeldung](0009.md)
-- [§ 9 Elektronische Anmeldung](0009-2.md)
 - [§ 10 Meldebestätigung der elektronischen Anmeldung](0010.md)
