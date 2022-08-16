@@ -172,7 +172,7 @@
 ## XII. Abweichungen und Auslegung dieser Geschäftsordnung
 
 - [§ 126 Abweichungen von dieser Geschäftsordnung](0126.md)
-- [§ 126a Besondere Anwendung der Geschäftsordnung aufgrund der allgemeinen Beeinträchtigung durch COVID-19](0126a.md)
+- [§ 126a Digitale Ausschusssitzungen und Umlaufverfahren](0126a.md)
 - [§ 127 Auslegung dieser Geschäftsordnung](0127.md)
 - [§ 128 Rechte des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung](0128.md)
 - [Anlage 1 (weggefallen)](anlage-1.md)
