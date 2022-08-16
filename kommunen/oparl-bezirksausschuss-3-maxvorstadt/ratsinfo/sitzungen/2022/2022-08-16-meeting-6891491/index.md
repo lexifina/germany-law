@@ -1,0 +1,117 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-08-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891491
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891491
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Antrag auf Grüne Welle für den Fahrradverkehr in der Gabelsbergerstraße
+- TOP 6.2.: Situation und Rahmenbedingungen der Zwischennutzung in der Dachauer Str. 90
+- TOP 6.3.: Veranstaltungsrichtlinien für den Königsplatz modifizieren
+- TOP 6.4.: Nachfrage zu Veranstaltungsrichtlinien der LHM
+- TOP 6.5.: Umgestaltung und Aufwertung der Grünflächen Schnorrstraße/Adalbertstraße
+- TOP 6.6.: Umwandlung eines KFZ-Parkplatzes in eine Fahrradabstellfläche unter der westlichen TU-Brücke in der Theresienstraße
+- TOP 6.7.: Flächenversiegelung in öffentlichen Grünstreifen unterbinden – Fahrradabstellplätze nur mit versickerungsfähigem Belag zulassen
+- TOP 6.8.: Wertstoffmobil im Arnulfpark sowie im St.-Vinzenz-Viertel
+- TOP 6.9.: Baustelleneinrichtung Nymphenburger Straße 64 entfernen
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Bäume in der Klarastraße und der Karl- /Dachauerstr
+- TOP 1.1.2.: Nachbarschaftskonflikt
+- TOP 1.1.3.: Gentrifizierung Schönfeldviertel; Erhaltungssatzungsgebiet; Abriss Schönfeldstr. 14
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 27 - 30
+- TOP 2.1.2.: WEB-Liste der LBK: KW 26 - 30
+- TOP 2.1.3.: Ottostraße 9, Erweiterung Büro-/ Geschäftshaus: DG-Ausbau (VG), Aufstockung (RG), Erwei-terung Zwischenbau - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Schellingstr. 18 - beantragte Baumfällungen
+- TOP 3.1.2.: Robinie Maillingerstr. 15
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Protokoll der Kommission für Stadtgestaltung vom 10. Mai 2022
+- TOP 5.2.: Antwort auf Antrag des BA 13, "Klimaschutz konkret - "Klima-Ausschuss" in jedem Bezirksausschuss"
+- TOP 5.3.: entfällt
+- TOP 5.4.: (U) Einstellung der Arbeiten am Bebauungsplan Nr. 2140 Empfehlung Nr. 20-26 / E 00126 der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt am 09.07.2021
+- TOP 5.5.: Schellingstraße 110-116, TEKTUR, Bescheid
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Baustelle Karlstraße / fortwährende Behinderungen, Gefährdungen und Gehwegschäden
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort Barer-/ Gabelsbergerstr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Toiletten im öffentlichen Raum - Wechsel von Standort im BA9 zu BA3 neu (vertagt aus 7.22)
+- TOP 2.2.2.: Beschlussvorlage für BA 3 in der Sitzung 16.08.2022 hier Aufstellen von neuen Verkaufsein-richtungen (Postkartenständer) Türkenstr. 59
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Anschreiben bzgl. FSF des Wettbüros "Bet3000", Dachauer Str. 25
+- TOP 2.3.2.: Parkplatzfreischankfläche - Gaststätte ""Daya&#039;s Kitchen", Schellingstr. 44
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ottostr. Parkmarkierung
+- TOP 3.2.: Königsplatz | EC 2022 Aufbaubescheid "Klettern am KöPl vom 11.-21.08.2022
+- TOP 3.3.: SWM Baumaßnahme Strom-Projekt Oskar-von-Miller-Ring - BA 03 (Maxvorstadt)
+- TOP 3.4.: Sperrungen Altstadtringtunnel
+- TOP 3.5.: Vollzug des Bayerischen Straßen- und Wegegesetz (BayStrWG) hier Erlaubnis für ein Parklet Luisenstr. 45 Seite Steinheilstraße
+- TOP 3.6.: Abdruck VAO ART Von-der-Tann-Str. Löschwasserkammern
+- TOP 3.7.: entfällt
+- TOP 3.8.: Beteiligungssteuerung Juli 2022, Ziele 2023 für die P+R Park und Ride GmbH Sitzungsvorlage 20-26 / V 06756
+- TOP 3.9.: (U) Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 3.10.: Bau Radschnellweg Münchner Norden/ Anliegerinformation Baureferat
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Antrag Fitness-Station Arnulfpark
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Rücküberweisung für Gastro-APE St Markus
+- TOP 4.2.: Antwort Stadtkämmerei zu Schreiben des BA 3 zum Mehrjahresinvestitionsprogramms 2022-2026
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Eilentscheid: Temporäre Kunstaktion "Tony Cokes: Some Munich Moments 1937-1972", Königinstr., asap - 26.10.2022|
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Änderung der OB-Vollmacht gem. Art. 60 Abs. 2 Satz 2 GO; Genehmigung von Parklets und Stadtterrassen
+- TOP 1.2.: Informationen zu den geplanten Angeboten im Rahmen des 75jährigen Jubiläums der Be-zirksausschüsse
+- TOP 1.3.: Infoschreiben BA 06 / 2022 Hybridsitzungen Live-Stream; hier: Bedarfsabfrage mit der Bitte um Rückmeldung bis zum 13.09.2022
+- TOP 1.4.: Anhörung der Bezirksausschüsse nach §13 BA-Satzung/ Einhaltung der Anhörungsfrist
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.1.4.: Görresstr. 35, Dachgeschossausbau Vorder- und Rückgebäude und Anbau Balkone Vorder-gebäude, Stellungnahmeersuchen für: 1.23 BGV Art. 59
+- TOP 3.: Aktuelle Sachstandsberichte
