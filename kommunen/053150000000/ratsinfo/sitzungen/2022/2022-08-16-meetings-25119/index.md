@@ -1,0 +1,68 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-16T16:00:00+02:00
+- Ende: 2022-08-16T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25119
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25119
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Situation der Aufnahme von Geflüchteten in Köln
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Anfrage zur Abfallentsorgung an der Homarstraße - zurückgestellt
+- TOP -: Beantwortung AN 0263/2020 wilder Müll "Homarstraße in Kalk" - zurückgestellt
+- TOP 3.2: Anfrage: Einführung vegetarischer Tage in den Kantinen/Verpflegungseinrichtungen der Stadt Köln - zurückgestellt
+- TOP 3.3: Nachfrage zur Beantwortung der Anfrage "Sachstand herkunftssprachliche bilinguale Kitagruppen" - zurückgestellt
+- TOP 3.4: Anfrage zur Anwendung eines Urteils des europäischen Gerichtshofes zur Niederlassungserlaubnis - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage im Integrationsrat zu "Anwendung eines Urteils des europäischen Gerichtshofes zur Niederlassungserlaubnis" - Kenntnis genommen
+- TOP 3.5: Anfrage: Verloren gegangene Unterlagen bei der Ausländer:innenbehörde - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage im Integrationsrat zu "verlorengegangene Unterlagen im Ausländeramt" - Kenntnis genommen
+- TOP 3.6: Anfrage zum Verbleib von Finanzmitteln aus dem Integrationsbudget, hier: Gesundheitswegweiser für Migrant*innen - Kenntnis genommen
+- TOP -: Beantwortung zur Nachfrage zum Gesundheitswegweiser für Migrant*innen - Kenntnis genommen
+- TOP 3.7: Anfrage zu Angeboten in den Sozialpsychiatrischen Zentren in den Stadtbezirken / Stand der Interkulturellen Öffnung des Angebotes - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage des FachAK4 zur Sitzung des Integrationsrates am 10.05.2022 zu Angeboten in den Sozialpsychiatrischen Zentren in den Stadtbezirken - Stand der Interkulturellen Öffnung des Angebotes (AN/0798/2022) - Kenntnis genommen
+- TOP 3.8: Anfrage zum Status von Ukraine-Flüchtlingen aus Drittstaaten - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates zum Status von Ukraine-Flüchtlingen aus Drittstaaten (AN/0880/2022) - Kenntnis genommen
+- TOP 3.9: Anfrage zur Überlastung der Ausländerbehörden u. a. Ämter und Abteilungen der Stadtverwaltung – Rechts-kreiswechsel der Geflüchteten aus der Ukraine in die Grundsicherung - zurückgestellt
+- TOP 3.10: Anfrage zur Erreichbarkeit der Kölner Ausländerbehörde und Kontaktdaten der Sachbearbeitung - zurückgestellt
+- TOP 3.11: Anfrage - ÖPNV für Alle? - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage - ÖPNV für Alle? - Kenntnis genommen
+- TOP 4: Aktuelle Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 4.1: Diskriminierung bei der Wohnungssuche – was kann die Stadt tun? - zurückgestellt
+- TOP 4.2: Anfrage zum Verfahrensablauf für die Beantragung des Chancen-Aufenthaltsrechts - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Evaluation der kommunalen Seniorenprogramme der Stadt Köln - Kenntnis genommen
+- TOP 5.2: Jahresbericht Auszugsmanagement 2021 - Kenntnis genommen
+- TOP 5.3: Fertigstellung und Umsetzungsbeginn Förderkonzept Kulturelle Teilhabe - Kenntnis genommen
+- TOP 5.4: Zielbild des Ausländeramtes - Kenntnis genommen
+- TOP 5.5: Beantwortung einer Anfrage zu Unterbringung und Angebote für geflüchtete Frauen - Kenntnis genommen
+- TOP 5.6: Beantwortung einer Anfrage zu Geflüchtete Frauen, Kinder und queere Menschen aus der Ukraine - Kenntnis genommen
+- TOP 5.7: Platzgestaltung Keupstraße - Kenntnis genommen
+- TOP 5.8: Bericht über die Entwicklung von Ausreisen und Rückführungen 2021 - Kenntnis genommen
+- TOP 5.9: Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 5.10: Jahresbericht 2021 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.11: 1. Quartalsbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.12: Aufgabe des Standortes am Südstadion als kommunale Erstaufnahme - Kenntnis genommen
+- TOP 5.13: Herrichtung des ehemaligen Baumarkt-Geländes an der Friedrich-Naumann-Straße 2 in Köln-Porz-Eil als Unterbringungseinrichtung für Geflüchtete - Kenntnis genommen
+- TOP 5.14: Ausländeramt als Willkommensbehörde umgestalten - Kenntnis genommen
+- TOP 5.15: Veranstaltung zum Kölner Tag der Menschen mit Behinderung am 12.09.2022 zum Thema Gesundheit - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag Sicherstellung des Kinderwohls bei aufenthaltsbeendenden Maßnahmen der Ausländerbehörde - Alternative beschlossen
+- TOP 6.1.1: Änderungsantrag zu TOP 6.1 - Sicherstellung des Kinderwohls bei aufenthaltsbeenden Maßnahmen der Ausländerbehörde - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Besetzungsänderung in der Ausländerrechtlichen Beratungskommission - ungeändert beschlossen
+- TOP 8.2: Maßnahmen der Kulturentwicklungsplanung: Leitbild für kulturelle Teilhabe und Vielfalt - ungeändert beschlossen
+- TOP 8.3: Verwendung von Mitteln aus dem politischen Veränderungsnachweis zum Haushaltsjahr 2022: "Schiffspatenschaft für das Rettungs-Schiff "Alan Kurdi" des sea eye e.V." - ungeändert beschlossen
+- TOP 8.4: Verteilung der Restmittel zur Förderung von antirassistischen und rassismuskritischen Projekten - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
