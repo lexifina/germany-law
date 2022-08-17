@@ -130,7 +130,7 @@ Berechnung, Kapitalisierung
   |  |
   Durch Erweiterung des untenstehenden ersten Summanden mit qᵐ – 1 können die kapitalisierten Erhaltungskosten für die Erneuerungskosten (Ee) in den Anteil der kapitalisierten Kosten der nächsten Erneuerung (E ⁿäe), die erste Erneuerung nach der Ablösungsvereinbarung,
   |  |
-  und den Anteil der kapitalisierten Kosten für die weiteren Erneuerungen
+  und den Anteil der kapitalisierten Kosten für die weiteren Erneuerungen (E ʷᵉⁱe)
   |  |
   aufgegliedert werden. Für die Aufwendungen der weiteren Erneuerungen steht nach n Jahren, also zum Zeitpunkt der ersten Erneuerung nach der Ablösungsvereinbarung, mathematisch ausgedrückt durch die Multiplikation der Gleichung mit qⁿ, ein Betrag von
   |  |
