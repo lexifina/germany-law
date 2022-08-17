@@ -1,0 +1,57 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-17T14:00:00+02:00
+- Ende: 2022-08-17T15:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21968
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21968
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Digitales Sitzungspaket (Stand: 05.08.2022) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00456098.pdf
+- Ergebnisprotokoll: Digitales Sitzungspaket (Stand: 05.08.2022) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00456098.pdf
+- Wortprotokoll: Digitales Sitzungspaket (Stand: 05.08.2022) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00456098.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung vom 01.06.2022 - einstimmig beschlossen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der Ratsfraktionen von BÜNDNIS 90/DIE GRÜNEN und CDU - hier: Klimaanpassung in Kitas - beantwortet
+- TOP 3.2: Anfrage der Ratsfraktion DIE LINKE. - hier: Fachkräftemangel bei Schulbegleitungen - beantwortet
+- TOP 3.3: Anfrage der Ratsfraktion SPD - hier: Schulsozialarbeit für Schulverweigerer:innen nach dem Rather Modell an Berufskollegs - beantwortet
+- TOP 3.4: Anfrage der FDP-Ratsfraktion - hier: Onlinezugänge von Verwaltungsleistungen im Jugendamt der Stadt Düsseldorf - beantwortet
+- TOP 3.5: Anfrage der FDP-Ratsfraktion - hier: Gemeinsames digitales Lernen zwischen Jung und Alt - beantwortet
+- TOP 4: Anträge
+- TOP 4.1: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN - hier: Konzepterstellung stadtteilbezogene Kinderpartizipation - abweichend beschlossen
+- TOP 5: Fachübergreifende Vorlagen
+- TOP 5.1: Personal im Jugendamt gewinnen, entwickeln und binden - Maßnahmenkatalog zur Personalgewinnung - Umsetzung des Ratsauftrages - zur Kenntnis genommen
+- TOP 5.2: Bildung für nachhaltige Entwicklung - zur Kenntnis genommen
+- TOP 6: Tageseinrichtungen für Kinder
+- TOP 6.1: Bildung für nachhaltige Entwicklung in Kitas - zur Kenntnis genommen
+- TOP 6.2: Weiterführung des Projektes Kinderbetreuung U3 als Instrument der Arbeitspolitik - einstimmig beschlossen
+- TOP 6.3: Bedarf nach deutlich ausgeweiteten Öffnungszeiten in der Kinderbetreuung - zur Kenntnis genommen
+- TOP 6.4: Betreuungsangebot für ukrainische Kinder im V24 - zur Kenntnis genommen
+- TOP 7: Präventionsketten Düsseldorf
+- TOP 7.1: Düsseldorfer Präventionsketten: Maßnahmen zur Minderung der Folgen von Kinderarmut (Armutsfonds) - Weitere geplante Maßnahmen für 2022 - einstimmig beschlossen
+- TOP 8: Jugendförderung
+- TOP 8.1: Neubau der Einrichtung „Haus der Jugend“ Lacombletstraße 10, Düsseldorf - zur Kenntnis genommen
+- TOP 8.2: Einrichtung eines Sleep In / Notschlafstelle in Düsseldorf-Flingern, Flurstraße 47 - zur Kenntnis genommen
+- TOP 8.3: Sachstand zur Aufstockung der Schulsozialarbeit - hier: Personelle Ausstattung der Berufskollegs in der Stadt Düsseldorf - zur Kenntnis genommen
+- TOP 8.4: Ausstattung von Düsseldorfer Schulen mit zusätzlichen Ressourcen in der Schulsozialarbeit - hier: 42 Vollzeitstellen zum 01.01.2023 - einstimmig beschlossen
+- TOP 8.5: Ergänzende Informationen zum Thema: Prüfung von Standorten für eine „Hall of Fame" - hier: Ergebnis zur Befragung der Bezirkspolitiker*innen - zur Kenntnis genommen
+- TOP 9: Gebäudeangelegenheiten
+- TOP 9.1: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Neubau Kita Ulenbergstraße“ - Empfehlung einstimmig beschlossen
+- TOP 10: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder
+- TOP 10.1: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita An St. Swidbert 70 - einstimmig beschlossen
+- TOP 10.2: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Ellerstraße 191 - einstimmig beschlossen
+- TOP 10.3: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Ria-Thiele-Straße 48 - einstimmig beschlossen
+- TOP 10.4: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Professor-Dessauer-Weg 10 - einstimmig beschlossen
+- TOP 10.5: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Ludwig-Beck-Straße 11 - einstimmig beschlossen
+- TOP 10.6: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Im Kleinen Winkel 11 - einstimmig beschlossen
+- TOP 10.7: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Liststraße 2 - einstimmig beschlossen
+- TOP 10.8: Investitionskostenzuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Gerresheimer Landstraße 75 - einstimmig beschlossen
+- TOP 11: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII
+- TOP 11.1: Unbefristete Verlängerung der Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: Kindertagesstätte „L’ile aux doudous - die Kuscheltierinsel gGmbH" - einstimmig beschlossen
+- TOP 11.2: Unbefristete Verlängerung der Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII – hier: Kindertagesstätte „MaDi gGmbH" - einstimmig beschlossen
