@@ -1,0 +1,6 @@
+# TOP 6: Ausschussempfehlungen an andere Ausschüsse
+
+- Sitzung: 12. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren (2022-08-18)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/353993
