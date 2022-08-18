@@ -7,7 +7,6 @@
 - [§ 1 Meldebehörden](0001.md)
 - [§ 2 Aufgaben und Befugnisse der Meldebehörden](0002.md)
 - [§ 3 Speicherung von Daten](0003.md)
-- [§ 3 Speicherung von Daten](0003-2.md)
 - [§ 4 Ordnungsmerkmale](0004.md)
 - [§ 5 Zweckbindung der Daten](0005.md)
 - [§ 6 Richtigkeit und Vollständigkeit des Melderegisters](0006.md)
