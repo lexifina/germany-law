@@ -1,0 +1,60 @@
+# 11. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-18T17:00:00+02:00
+- Ende: 2022-08-18T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25300
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25300
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Einwohnerinnen und Einwohner
+- TOP -: Bestellung einer stellvertretenden Schriftführung
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Die Gasversorgung der Kölner Wirtschaft - Kenntnis genommen
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Beantwortung einer mündlichen Nachfrage der CDU-Fraktion - RM Roß-Belkner - betr.: "KfW-Förderung" (0525/2022) - Kenntnis genommen
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Weiteres Vorgehen zum Projekt Räumliches Entwicklungskonzept Liebigquartier - Kenntnis genommen
+- TOP 6.2: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ohne Votum in nachfolgende Gremien
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Ergebnisse der Bevölkerungsumfrage zur Corona-Krise in Köln 2021 - Kenntnis genommen
+- TOP 11.2: Kölner Statistische Nachrichten – 10/2022 Arbeitsmarkt Köln - Rückblick 2021, bisherige Entwicklung und Ausblick 2022 - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 14.1: Anhaltend starke Nachfrage nach Laborflächen am Standort Köln - Kenntnis genommen
+- TOP 15: Mitteilungen
+- TOP 15.1: Sachstand Planungsfortschritt Wasserstoff-Pipeline AN/0266/2022 - Kenntnis genommen
+- TOP 15.2: Kooperation Köln und rechtsrheinische Nachbarn (K&RN) - Kenntnis genommen
+- TOP 15.3: Agglomerationsprogramm Region Köln/Bonn - Kenntnis genommen
+- TOP 15.4: Verlängerung des Förderzeitraumes für das Kompetenzzentrum Frau und Beruf Region Köln (Competentia NRW) bis zum 31.10.2022 - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Mittelfreigabe aus der Kulturförderabgabe zwecks Förderung von Projekten der Kreativwirtschaft 2022 - ungeändert beschlossen
+- TOP 16.2: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Th - zurückgestellt
+- TOP 16.3: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Eb - zurückgestellt
+- TOP 16.4: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen - zurückgestellt
+- TOP 16.5: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Ha - zurückgestellt
+- TOP 16.6: Zweite Ordnungsbehördliche Verordnung für das Jahr 2022 über das Offenhalten von Verkaufsstellen an Sonntagen - ohne Votum in nachfolgende Gremien
+- TOP 17: Mündliche Anfragen
+- TOP 17.1: Kulturförderabgabe 2021
+- TOP 17.2: Sachstand Konsultationskreis Gestaltungshandbuch
+- TOP 17.3: Bericht Flughafen Köln/Bonn
+- TOP 17.4: Sachstand "Nacht- und Abendmärkte"
+- TOP 17.5: Auswirkungen der Preissteigerung von Baustoffen bei Neubauprojekten
