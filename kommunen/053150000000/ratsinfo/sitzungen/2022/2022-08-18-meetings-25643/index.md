@@ -1,0 +1,68 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-18T17:00:00+02:00
+- Ende: 2022-08-18T19:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25643
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25643
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00888585.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00888585.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00888585.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - "Uns Bürger*innen stinkt´s" Aktenzeichen 66/22 B - abgelehnt (in der Vorberatung)
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage der Fraktion Bündnis 90 / Die Grünen - hier: - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer Anfrage der CDU-Fraktion - hier: Kreuzung Donatusstraße / Im Gewerbegebiet Pesch - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage der CDU-Fraktion - hier: Fehlender Reitweg aufgrund der verzögerten Bauarbeiten an der Merkenicher Rheinbrücke - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer Anfrage der Fraktion Bündnis 90 / Die Grünen - hier: Saisonale Ampelschaltung am P8 des Fühlinger Sees - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer Anfrage der Fraktion Die Linke und Lilo Heinrich - hier: ÖPNV-Anbindung Veranstaltungen am Fühlinger See - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der Fraktion Die Linke und Lilo Heinrich betreffend ÖPNV-Anbindung Veranstaltungen am Fühlinger See
+- TOP 7.2.2: Anfrage der CDU-Fraktion betreffend Nichtfunktionierender Springbrunnen auf dem Pariser Platz
+- TOP 7.2.3: Anfrage der SPD-Fraktion betreffend Chlorgas in Worringen
+- TOP 7.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.5: Anfrage der SPD-Fraktion betreffend Fahrradwege im Stadtbezirk Chorweiler
+- TOP 7.2.6: Anfrage der CDU-Fraktion betreffend Prüfung von Potentialflächen für Windkrafträder und Solaralanlagen im Stadtgebiet Köln - Kenntnis genommen
+- TOP 7.2.7: Auswirkung der Energieeinsparungen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Antrag der SPD-Fraktion betreffend die Errichtung eines Zebrastreifens bzw. einer Lichtsignalanlage im Bereich Johannesstraße/Mengenicher Straße - ungeändert beschlossen
+- TOP 8.2.2: Antrag der SPD-Fraktion betreffend Errichtung eines Fußgängerüberwegs dem Pescher Weg/Longericher Straße - geändert beschlossen
+- TOP 8.2.3: Antrag der SPD-Fraktion betreffend die Errichtung eines Taubenschlags - geändert beschlossen
+- TOP 8.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Korrektur der Niederschrift zur Sitzung der Bezirksvertretung Chorweiler am 04.11.2021 - ungeändert beschlossen
+- TOP 9.1.2: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.1.3: Besetzung der Stelle Leitung des Bürgeramtes Chorweiler - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 61520/02 Arbeitstitel: Donatusstraße in Köln-Pesch - zurückgestellt
+- TOP 9.2.2: Aktualisierung des Förderprogramms "Dritte Orte" - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Flächenbericht 2021 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2021 - Kenntnis genommen
+- TOP 10.2.2: Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 10.2.3: Situation GGS Amandusstraße - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Beantwortung einer mündlichen Anfrage der CDU-Fraktion - hier: Förderung des ÖPNV im Kölner Norden - Kenntnis genommen
+- TOP 11.1.2: Baulärm Kopenhagener Straße in Chorweiler - Kenntnis genommen
+- TOP 11.1.3: Sanierung Weichselring - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
