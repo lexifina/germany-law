@@ -1,0 +1,90 @@
+# 12. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-18T15:40:00+02:00
+- Ende: 2022-08-18T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25120
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25120
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Mündlicher Bericht des Dezernenten - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3: Veranstaltung zum Kölner Tag der Menschen mit Behinderung am 12.09.2022 zum Thema Gesundheit - Kenntnis genommen
+- TOP 2.4: Beantwortung: Teilhabe verbessern mit Förderprogramm: „Inklusion vor Ort – Das Programm für die modellhafte Förderung inklusiver Sozialräume in Nordrhein-Westfalen“ - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der FDP Fraktion: Mini-Alarmanlagen für Obdachlose - geändert beschlossen
+- TOP 3.2: Inflation und steigende Energiekosten: Energiehilfsfonds schnell umsetzen und weitere Maßnahmen gegen Energiearmut einleiten - endgültig abgelehnt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Förderung von Frauenvereinen im Sozialbereich 2022 - ungeändert beschlossen
+- TOP 4.2: Pilotprojekt „Teilhabe Leben – Abbau von Barrieren in der Kölner Kommunalpolitik" - ungeändert beschlossen
+- TOP 4.3: Verwendung von Mitteln aus dem politischen Veränderungsnachweis zum Haushaltsjahr 2022: "Schiffspatenschaft für das Rettungs-Schiff "Alan Kurdi" des sea eye e.V." - ungeändert beschlossen
+- TOP 4.4: Förderprogramm "Lebenswerte Veedel - Bürger*innen- und Sozialraumorientierung in Köln" - zurückgestellt
+- TOP 4.5: Förderung von Selbsthilfegruppen im Sozialbereich 2022 - ungeändert beschlossen
+- TOP 4.6: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - ungeändert beschlossen
+- TOP 4.7: Bürgerzentrum Alte Feuerwache - Baubeschluss zur Ertüchtigung Innenhof, Einrichtung Stadtteil-/Holzwerkstatt, Optimierung Entwässerungs-/Kanalanlage - ohne Votum in nachfolgende Gremien
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ohne Votum in nachfolgende Gremien
+- TOP 5.2: Wahl der Mitglieder für den Beirat der Justizvollzugsanstalt Köln - ohne Votum in nachfolgende Gremien
+- TOP 5.3: Aktualisierung des Förderprogramms "Dritte Orte" - ungeändert beschlossen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: 35. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.2: Unterbringung und Angebote für geflüchtete Frauen - Kenntnis genommen
+- TOP 9.3: Jahresbericht Auszugsmanagement 2021 - Kenntnis genommen
+- TOP 9.4: Jahresbericht 2021 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.5: 1. Quartalsbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.6: Aufgabe des Standortes am Südstadion als kommunale Erstaufnahme - Kenntnis genommen
+- TOP 9.7: Herrichtung des ehemaligen Baumarkt-Geländes an der Friedrich-Naumann-Straße 2 in Köln-Porz-Eil als Unterbringungseinrichtung für Geflüchtete - Kenntnis genommen
+- TOP 9.8: Bericht über die Entwicklung von Ausreisen und Rückführungen 2021 - Kenntnis genommen
+- TOP 9.9: Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 9.10: Ausländeramt als Willkommensbehörde umgestalten - Kenntnis genommen
+- TOP 9.11: Reserveplätze zur Unterbringung Geflüchteter sowie aktuelle Situation zur Zielsetzung der Steigerung der Unterbringung in abgeschlossenen Wohneinheiten von 5% jährlich - zurückgestellt
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Beantwortung: Situation 1. Frauenhaus - Kenntnis genommen
+- TOP 10.1.2: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates zum Status von Ukraine-Flüchtlingen aus Drittstaaten (AN/0880/2022) - Kenntnis genommen
+- TOP 10.1.3: Beantwortung der Anfrage Versorgung Coronakranker in Altenpflegeheimen (AN/0808/2022) - Kenntnis genommen
+- TOP 10.1.4: Beantwortung: Sachstandsbericht „Starke Veedel – Starkes Köln“, Vorlagen-Nr. 1114/2022 hier: Mündliche Anfrage in der Sitzung am 12.05.2022 - Sache ist erledigt
+- TOP -: Sachstandsbericht "Starke Veedel - Starkes Köln", Vorlagen-Nr. 1114/2022, hier: Mündliche Anfrage aus der Sitzung am 12.05.2022 - Kenntnis genommen
+- TOP 10.1.5: Anfrage: Zeitnahe Ausstellung von Fiktionsbescheinigungen als Voraussetzung für den Grundsicherungsbezug von Geflüchteten aus der Ukraine - zurückgestellt
+- TOP 10.1.6: Anfrage: Armut in Köln: Köln-Pass nötiger denn je - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD Fraktion zu Armut in Köln: Köln-Pass nötiger denn je (AN /1015/2022) - Kenntnis genommen
+- TOP 10.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage: Sinti Siedlung „Auf dem Ginsterberg" - Sache ist erledigt
+- TOP -: Beantwortung: Sinti Siedlung „Auf dem Ginsterberg" - Kenntnis genommen
+- TOP 10.2.2: Anfrage: Überlastung der Ausländerbehörden u. a. Ämter und Abteilungen der Stadtverwaltung – Rechts-kreiswechsel der Geflüchteten aus der Ukraine in die Grundsicherung - zurückgestellt
+- TOP 10.2.3: Anfrage: 86 unbegleitete minderjährige Ausländer (UMA) in Köln spurlos verschwunden - zurückgestellt
+- TOP 10.2.4: Anfrage: Armut in Köln: Wie ist die Lage bei der Kölner Tafel? - Sache ist erledigt
+- TOP -: Beantwortung: Armut in Köln: Wie ist die Lage bei der Kölner Tafel? (AN/1300/2022) - Kenntnis genommen
+- TOP 10.2.5: Armut in Köln: Obdach- und Wohnungslosigkeit 2022 – Winterhilfe und Hitzeschutz - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Jahresbericht 2021 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 12.2: Verlängerung des Förderzeitraumes für das Kompetenzzentrum Frau und Beruf Region Köln (Competentia NRW) bis zum 31.10.2022 - Kenntnis genommen
+- TOP 12.3: Evaluation der kommunalen Seniorenprogramme der Stadt Köln - zurückgestellt
+- TOP 12.4: Einmalige Einschulungsbeihilfe für Schulanfänger*innen zum Schuljahr 2022/2023 - Kenntnis genommen
+- TOP 12.5: Fertigstellung und Umsetzungsbeginn Förderkonzept Kulturelle Teilhabe - Kenntnis genommen
+- TOP 12.6: Projekt "ARTOTHEK TRIFFT FINKENBERG" - Kenntnis genommen
+- TOP 12.7: Verbraucherberatungsstelle Köln: Jahresbericht 2021 - Kenntnis genommen
+- TOP 12.8: Verbraucherberatung im Quartier: Jahresbericht 2021 - Kenntnis genommen
+- TOP 12.9: Ergebnisse der Bevölkerungsumfrage zur Corona-Krise in Köln 2021 - Kenntnis genommen
+- TOP 12.10: Zielbild des Ausländeramtes - Kenntnis genommen
+- TOP 12.11: Kölner Statistische Nachrichten – 10/2022 Arbeitsmarkt Köln - Rückblick 2021, bisherige Entwicklung und Ausblick 2022 - Kenntnis genommen
+- TOP 12.12: Zweiter Sachstandsbericht der Arbeitsgruppe Kölnberg - Kenntnis genommen
+- TOP 12.13: Beantwortung der Anfrage der SPD-Fraktion betreffend „Plätze mit besonderem Handlungsbedarf: Trotz Eröffnung des Drogenkonsumraums mehr statt weniger Probleme am Neumarkt“, AN/1286/2022 - Kenntnis genommen
+- TOP 12.14: Medizinische Versorgung wohnungsloser Menschen in Köln - Jahresbericht 2021 - Kenntnis genommen
+- TOP 12.15: Stand Drogenhilfeangebot mit Konsumraum im Gesundheitsamt - Kenntnis genommen
+- TOP 12.16: Entlastungen bei der Steigerung - Kenntnis genommen
