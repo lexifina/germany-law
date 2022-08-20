@@ -103,7 +103,7 @@ Im Folgenden werden Test- und Validierungsmethoden definiert, anhand derer die E
       Der Fahrstreifenwechsel vorausfahrender oder nachfolgender Fahrzeuge, der von einem benachbarten Fahrstreifen in den eigenen Fahrstreifen oder aus ihm heraus in einen benachbarten Fahrstreifen erfolgt, wird erkannt und bei der Fahraufgabe entsprechend berücksichtigt.
     10.2.5 Kollisionsvermeidung mit in gleicher Richtung fahrenden Fahrzeugen
       Kollisionen mit in gleicher Richtung fahrenden, in den eigenen Fahrstreifen eindringenden Verkehrsteilnehmenden sind innerhalb der durch folgende Ungleichung bestimmten Bedingungen zu vermeiden. Die Ungleichung ist nur gültig für vor dem Kraftfahrzeug mit autonomer Fahrfunktion einscherende Verkehrsteilnehmende, und nur dann, wenn die einscherenden Verkehrsteilnehmer mindestens 0,72 Sekunden vor dem Eindringen sichtbar waren:
-      [Bild: bgbl1_2022_j0986-1_0010.jpg]
+      |  |  |  |
       Folgend werden die Parameter der voranstehenden Ungleichung spezifiziert:
       | TTCSpurwechsel | Zeit bis zum Aufprall (TTC) zum Zeitpunkt des Eindringens in den Fahrstreifen des Kraftfahrzeugs mit autonomer Fahrfunktion in Sekunden. Als Eindringen wird ein Überschreiten der Außenkante des Fahrsteifens um mehr als 30 Zentimeter gewertet. |  |
       | νrel | Relativgeschwindigkeit in Meter pro Sekunde [m/s]. Positiv für Annäherung des Kraftfahrzeugs mit autonomer Fahrfunktion an einen einscherenden Verkehrsteilnehmenden, der sich langsamer fortbewegt. |  |

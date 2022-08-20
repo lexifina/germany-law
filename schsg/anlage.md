@@ -104,6 +104,12 @@ I.2/1 Zu Kapitel II-1 der Anlage zu SOLAS (Bauart - Bauweise, Unterteilung und S
   - Änderung von 2017 (MSC.422(98))
     Angenommen am 15. Juni 2015
     (VkBl. 2017 S. 1186)
+  - Änderung von 2019 (MSC.458(101))
+    Angenommen am 14. Juni 2019
+    (VkBl. 2020 S. 339)
+  - Änderung von 2020 (MSC.475(102))
+    Angenommen am 11. November 2020
+    (VkBl. 2022 S. 245)
   Zu Regel II-1/3-2:
   a) Leistungsanforderung für Schutzanstriche für eigens für die Aufnahme von Seewasser vorgesehene Ballasttanks auf Schiffen aller Art sowie Doppelhüllenräume von Massengutschiffen (MSC.215(82))
     Angenommen am 8. Dezember 2006
@@ -191,12 +197,18 @@ I.2/2 Zu Kapitel II-2 der Anlage zu SOLAS (Bauart der Schiffe - Brandschutz, Feu
     - Änderung von 2014 (MSC.367(93))
       Angenommen am 22. Mai 2014
       (VkBl. 2015 S. 330)
-    - Änderung von 2016 (MSC.404(96))
+    - Änderung von 2016 (MSC.403(96))
       Angenommen am 19. Mai 2016
       (VkBl. 2016 S. 875)
     - Änderung von 2016 (MSC.410(97))
       Angenommen am 25. November 2016
       (VkBl. 2017 S. 770)
+      Änderung von 2019 (MSC.457(101))
+      Angenommen am 14. Juni 2019
+      (VkBl. 2020 S. 338)
+      Änderung von 2021 (MSC.484(103))
+      Angenommen am 13. Mai 2021
+      (VkBl. 2022 S. 413)
   Zu Regeln 4, 11 und 20:
   Internationaler Code für die Sicherheit von Schiffen, die Gase oder andere Brennstoffe mit niedrigem Flammpunkt verwenden (IGF-Code) (MSC.391(95))
   Angenommen am 11. Juni 2015
@@ -204,6 +216,12 @@ I.2/2 Zu Kapitel II-2 der Anlage zu SOLAS (Bauart der Schiffe - Brandschutz, Feu
   - Änderung von 2017 (MSC.422(98))
     Angenommen am 15. Juni 2017
     (VkBl. 2017 S. 1186)
+  - Änderung von 2019 (MSC.458(101))
+    Angenommen am 14. Juni 2019
+    (VkBl. 2020 S. 339)
+  - Änderung von 2020 (MSC.475(102))
+    Angenommen am 11. November 2020
+    (VkBl. 2022 S. 245)
   Zu Regel 18:
   Standards für Hubschraubereinrichtungen an Bord (Entschl. A.855(20))
   Angenommen am 27. November 1997
@@ -233,10 +251,19 @@ I.3 Zu Kapitel III der Anlage zu SOLAS (Rettungsmittel und -vorrichtungen):
   - Änderung von 2017 (MSC.425(98))
     Angenommen am 15. Juni 2017
     (VkBl. 2018 S. 112)
+  - Änderung von 2019 (MSC.459(101))
+    Angenommen am 13. Juni 2019
+    (VkBl. 2020 S. 486)
+  - Änderung von 2021 (MSC.485(103))
+    Angenommen am 13. Mai 2021
+    (VkBl. 2022 S. 414)
   Zu Regel 4 (in Verbindung mit Regel 1.2.2.7 des LSA-Codes):
   Gebrauch und Anbringung von retroreflektierendem Material an Rettungsmitteln (Entschl.A.658(16))
   Angenommen am 19. Oktober 1989
   (VkBl. 1998 S. 892, Anlagenband B 8119)
+  - Änderung von 2020 (MSC.481(102))
+    Angenommen am 9. November 2020
+    (VkBl. 2022 S. 386)
   Zu Regel 9.2.3:
   Symbole für Rettungsmittel und -vorrichtungen (Entschl.A.760(18))
   Angenommen am 4. November 1993
@@ -275,6 +302,15 @@ I.6 Zu Kapitel VI der Anlage zu SOLAS (Beförderung von Ladung):
   - Änderung von 2015 (MSC.393(95))
     Angenommen am 11. Juni 2015
     (VkBl. 2015 S. 789)
+  - Änderung von 2015 (MSC.1/Rundschreiben 1453/Rev.1
+    vom 12. Juni 2015)
+    (VkBl. 2015 S. 735)
+  - Änderung von 2015 (MSC.1/Rundschreiben 1454/Rev.1
+    vom 9. Juli 2013)
+    (VkBl. 2016 S. 23)
+  - Änderung von 2019 (MSC.462(101))
+    Angenommen am 13. Juni 2019
+    (VkBl. 2020 S. 852)
   - Änderung von 2017 (MSC.426(98))
     Angenommen am 15. Juni 2017
     (VkBl. 2017 S. 1096)
@@ -325,6 +361,9 @@ I.7 Zu Kapitel VII der Anlage zu SOLAS (Beförderung gefährlicher Güter):
   - Änderung von 2018 (MSC.440(99))
     Angenommen am 24. Mai 2018
     (VkBl. 2019 S. 249)
+  - Änderung von 2019 (MSC.460(101))
+    Angenommen am 14. Juni 2019
+    (VkBl. 2020 S. 807 und Sonderband C 8026)
   Zu Regel 11:
   Internationaler Code für den Bau und die Ausrüstung von Schiffen zur Beförderung verflüssigter Gase als Massengut (IGC-Code) (MSC.5(48))
   Angenommen am 17. Juni 1983
@@ -349,6 +388,9 @@ I.7 Zu Kapitel VII der Anlage zu SOLAS (Beförderung gefährlicher Güter):
   - Änderung von 2018 (MSC.441(99))
     Angenommen am 24. Mai 2018
     (VkBl. 2019 S. 265)
+  - Änderung von 2020 (MSC.476(102))
+    Angenommen am 11. November 2020
+    (VkBl. 2022 S. 246)
   Zu Regel 14:
   Internationaler Code für die sichere Beförderung von verpackten bestrahlten Kernbrennstoffen, Plutonium und hochradioaktiven Abfällen mit Seeschiffen (INF-Code) (MSC.88(71))
   Angenommen am 27. Mai 1999
@@ -440,6 +482,12 @@ I.11/1 Zu Kapitel XI-1 der Anlage zu SOLAS (Besondere Maßnahmen zur Erhöhung d
   - Änderung 2016 (MSC.412(97))
     Angenommen am 25. November 2016
     (VkBl. 2017 S. 145)
+  - Änderung 2019 (MSC.461(101))
+    Angenommen am 13. Juni 2019
+    (VkBl. 2020 S. 852)
+  - Änderung 2021 (MSC.483(103))
+    Angenommen am 13. Mai 2021
+    (VkBl. 2022 S. 412)
   Zu Regel 3:
   Regelwerk über die IMO-Schiffsidentifizierungsnummer (Entschl.A.600(15))
   Angenommen am 19. November 1987
@@ -611,6 +659,10 @@ II.0.35 Änderungen vom Mai 2019
   MEPC.315(74), MEPC.316(74))
   Angenommen am 17. Mai 2019
   (BGBl. 2021 II S. 90)
+II.0.36 Änderungen vom November 2020
+  (Entschließung MEPC.324(75))
+  Angenommen am 20. November 2020
+  (BGBl. 2022 II S. 155)
 II.1 Zu Anlage I:
   Zu Regel 1:
   Festlegung des Datums, an dem die Änderungen von Regel 1 Absatz 11 der Anlage I von MARPOL hinsichtlich des Sondergebiets der Gewässer vor der Südküste Südafrikas in Kraft treten (Entschließung MEPC.167(56))
@@ -636,9 +688,10 @@ II.1 Zu Anlage I:
   Neufassung der Richtlinien und Spezifikationen für Überwachungs- und Kontrollsysteme für das Einleiten von Öl für Öltankschiffe (Entschließung MEPC.108(49))
   Angenommen am 18. Juli 2003
   (VkBl. 2004 S. 672)
-  Änderungen von 2013 an der Neufassung der Richtlinien und Spezifikationen für Überwachungs- und Kontrollsysteme für das Einleiten von Öl für Öltankschiffe (Entschließung MEPC.108(49) und MEPC.240(65))
-  Angenommen am 17. Mai 2013
-  (VkBl. 2018 S. 817)
+  - Änderungen von 2013 an der Neufassung der Richtlinien und Spezifikationen für Überwachungs- und Kontrollsysteme für das Einleiten von Öl für Öltankschiffe (Entschließung MEPC.108(49))
+    (Entschließung MEPC.240(65))
+    Angenommen am 17. Mai 2013
+    (VkBl. 2018 S. 817)
   Zu Regel 47 Absatz 2:
   Die auf die Umweltaspekte gerichteten Bestimmungen der Einleitung und von Teil II-A Kapitel 1 des Internationalen Codes für Schiffe, die in Polargewässern verkehren (Polar Code) (Entschließung MEPC.264(68))
   Angenommen am 15. Mai 2015
@@ -863,6 +916,10 @@ IX.0.1 Änderungen vom April 2018
   MEPC.297(72) und MEPC.299(72))
   Angenommen am 13. April 2018
   (BGBl. 2020 II S. 401)
+IX.0.2 Änderungen vom November 2020
+  (Entschließung MEPC.325(75))
+  Angenommen am 20. November 2020
+  (BGBl. 2022 II S. 155)
 IX.1 Zur Anlage:
   Zu Regel B-3:
   Bestimmung der Besichtigung, auf die in Regel B-3 des Ballastwasser-Übereinkommens, in ihrer jeweils gültigen Fassung, verwiesen wird
@@ -908,10 +965,10 @@ VI. Bezogen auf die Wasserstraßen der Zonen 1 und 2 (nach Kapitel 1 im Anhang d
 C. Internationale Richtlinien und Standards, die bestimmten in Abschnitt A genannten Regeln und Normen zugrunde gelegt werden müssen:
 I. Zu der Anlage zu SOLAS:
 I.1.1 Zu den Regeln II-1/2.28 und II-1/3-10:
-  Richtlinien für die Prüfung der Konformität mit den Zielorientierten Schiffbaunormen für Massengutschiffe und Öltankschiffe
-  Entschließung MSC.296(87)
-  Angenommen am 20. Mai 2010
-  (VkBl. 2013 S. 153)
+  Überarbeitete Richtlinien für die Prüfung der Konformität mit den Zielorientierten Schiffbaunormen für Massengutschiffe und Öltankschiffe
+  (Entschließung MSC.454(100))
+  Angenommen am 7. Dezember 2018
+  (VkBl. 2020 S. 227)
 I.1.2 Zu Regel II-1/4:
   Änderung von 2017 (MSC.429(98))
   Angenommen am 9. Juni 2017
@@ -979,6 +1036,12 @@ I.3.1 Zu Regel III/4:
   - Änderung von 2017 (MSC.427(98))
     Angenommen am 15. Juni 2017
     (VkBl. 2018 S. 113)
+  - Änderung von 2019 (MSC.472(101))
+    Angenommen am 14. Juni 2019
+    (VkBl. 2021 S. 437)
+  - Änderung von 2021 (MSC.488(103))
+    Angenommen am 13. Mai 2021
+    (VkBl. 2022 S. 415)
 I.3.3 Zu Regel III/20:
   Empfehlung über die Bedingungen für die Zulassung von Wartungsstationen für aufblasbare Rettungsflöße (Entschließung A.761(18))
   Angenommen am 4. November 1993
@@ -1001,9 +1064,17 @@ I.4.1 Zu Regel V/15 (hinsichtlich der anzuwendenden Mindestanforderungen):
   b) Leistungsanforderungen für die Darstellung navigationsbezogener Informationen auf den Anzeigevorrichtungen von Schiffsnavigationsanlagen (Entschl. MSC.191(79))
     Angenommen am 6. Dezember 2004
     (VkBl. 2005 S. 713)
+    - geändert durch
+      Entschließung MSC.466(101)
+      Angenommen am 14. Juni 2019
+      (VkBl. 2020 S. 490)
   c) Leistungsanforderungen für integrierte Navigationssysteme (INS) (Entschl. MSC.252(83))
     Angenommen am 8. Oktober 2007
     (VkBl. 2011 S. 155)
+    - geändert durch
+      Entschließung MSC.452(99)
+      Angenommen am 24. Mai 2018
+      (VkBl. 2020 S. 337)
 1.4.2 Zu Regel V/18:
   Leistungsanforderungen für elektronische Neigungsmesser (Entschl. MSC.363(92))
   Angenommen am 14. Juni 2013
@@ -1018,9 +1089,17 @@ I.4.3 Zu Regel V/19:
   b) Leistungsanforderungen für die Darstellung navigationsbezogener Informationen auf den Anzeigevorrichtungen von Schiffsnavigationsanlagen (Entschl. MSC.191(79))
     Angenommen am 6. Dezember 2004
     (VkBl. 2005 S. 713)
+    - geändert durch
+      Entschließung MSC.466(101)
+      Angenommen am 14. Juni 2019
+      (VkBl. 2020 S. 490)
   c) Leistungsanforderungen für integrierte Navigationssysteme (INS) (Entschl. MSC.252(83))
     Angenommen am 8. Oktober 2007
     (VkBl. 2011 S. 155)
+    – geändert durch
+      Entschließung MSC.452(99)
+      Angenommen am 24. Mai 2018
+      (VkBl. 2020 S. 337)
 I.4.4 Zu Regel V/23:
   Lotsenversetzeinrichtungen (Entschl.A.889(21))
   Angenommen am 25. November 1999
@@ -1240,10 +1319,14 @@ II.5 Zu Anlage VI:
   (Entschließung MEPC.308(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
   Angenommen am 26. Oktober 2018
   (VkBl. 2020 S. 663; 2021 S. 186)
-  – Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
-    (Entschließung MEPC.308(73) und (MEPC.322(74))
+  - Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.308(73)) (MEPC.322(74))
     Angenommen am 17. Mai 2019
     (VkBl. 2020 S. 692)
+  - Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.332(76))
+    Angenommen am 17. Juni 2021
+    (VkBl. 2022 S. 285)
   Vorläufige Richtlinie für die Berechnung des Koeffizienten für die Abnahme der Schiffsgeschwindigkeit bei repräsentativen Seebedingungen fw zur versuchsweisen Anwendung
   (MEPC.1/Rundschreiben 796)
   Vom 12. Oktober 2012
@@ -1252,6 +1335,16 @@ II.5 Zu Anlage VI:
   (MEPC.1/Rundschreiben 815)
   Vom 17. Juni 2013
   (VkBl. 2021 S. 125)
+  Zu Regel 20 Absatz 3:
+  Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.308(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
+  Angenommen am 26. Oktober 2018
+  (VkBl. 2020 S. 663, VkBl. 2021 S. 186)
+  - Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.308(73)) (MEPC.322(74))
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 692)
+  - Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung MEPC.332(76))
+    Angenommen am 17. Juni 2021
+    (VkBl. 2022 S. 285)
   Zu Regel 21:
   a) Richtlinien über die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI)
     (Entschließung MEPC.215(63), korrigiert durch MEPC 63/23/Add.1/Corr.1)
@@ -1351,7 +1444,7 @@ VI.2 Zur Anlage:
   Angenommen am 22. Juli 2005
   (VkBl. 2011 S. 136)
   Zu Regel B-1:
-  Richtlinien für die Ballastwasser-Behandlung und die Erstellung von Ballastwasser-Behandlungsplänen (G4) (MEPC.127(53))
+  Richtlinien für die Ballastwasser-Behandlung und die Erstellung von Ballastwasser-Behandlungsplänen (G4) MEPC.127(53), korrigiert durch MEPC 53/24/Add.1/Corr.1)
   Angenommen am 22. Juli 2005
   (VkBl. 2010 S. 188)
   Zu Regel B–4.2:
@@ -1362,7 +1455,7 @@ VI.2 Zur Anlage:
   Richtlinien für zusätzliche Maßnahmen im Zusammenhang mit der Behandlung von Ballastwasser einschließlich Notfallsituationen (G13) (MEPC.161(56))
   Angenommen am 13. Juli 2007
   (VkBl. 2011 S. 271)
-  Zu Regel D–3.1:
+  Zu Regel D-3.1:
   Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen (G8)
   MEPC.125(53), korrigiert durch MEPC 53/24/Add.1/Corr.1)
   Angenommen am 22. Juli 2005
@@ -1380,6 +1473,10 @@ VI.2 Zur Anlage:
   Richtlinien für die Zulassung und Beaufsichtigung von Prototypen von Ballastwasser-Aufbereitungstechnologieprogrammen (G10) (Entschließung MEPC.140(54))
   Angenommen am 24. März 2006
   (VkBl. 2011 S. 555)
+  Zu Regel E-1:
+  Leitlinien von 2020 für Inbetriebnahmeprüfungen von Ballastwasser-Behandlungssystemen (BWM.2/ Rundschreiben 70/Rev.1)
+  Angenommen am 9. Dezember 2020
+  (VkBl. 2022 S. 283)
   Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen (G8)
   (MEPC.174(58))
   Angenommen am 10. Oktober 2008
@@ -1515,6 +1612,9 @@ E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare an
     (BAnz. 1988 S. 4439)
     - Änderungen von 1997 (MSC/Rundschreiben 812 vom 16. Juni 1997)
       (VkBl. 1998 S. 892, Anlagenband B 8119)
+    - Änderung von 2020 (MSC.479(102))
+      Angenommen am 11. November 2020
+      (VkBl. 2022 S. 247)
   6. Richtlinien zur Beschaffung und Darstellung von Manövrierinformationen auf Seeschiffen (Entschl.A.601(15))
     Angenommen am 19. November 1987
     (VkBl. 1989 S. 296)
@@ -1611,8 +1711,8 @@ E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare an
     Entschließung MSC.302(87)
     Angenommen am 17. Mai 2010
     (VkBl. 2012 S. 829)
-  33. MEPC.2/Rundschreiben 18 „Vorläufige Einstufung Flüssiger Stoffe“ vom 17. Dezember 2010
-    (VkBl. 2013 S. 125)
+  33. MEPC.2/Rundschreiben 27 „Vorläufige Einstufung Flüssiger Stoffe“
+    (VkBl. 2022 S. 5)
   34. Entschließung A.1050(27) „Überarbeitete Empfehlungen zum Begehen geschlossener Räume an Bord von Schiffen“
     Angenommen am 30. November 2011
     (VkBl. 2013 S. 782)
