@@ -1,0 +1,60 @@
+# 12. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-22T15:15:00+02:00
+- Ende: 2022-08-22T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25121
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25121
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung neuer sachkundige Einwohner*innen bzw. stellvertretende sachkundige Einwohner*innen - Sache ist erledigt
+- TOP -: Bericht zur aktuellen Lage der Ukraine-Geflüchteten - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 3.1, AN/2014/2021, „Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln“ auf der Sitzung des Ausschusses für Schule und Weiterbildung am 22.8.2022 - endgültig zurückgezogen
+- TOP -: Zur Entwicklung des Helene-Weber-Platzes als zukünftigen Gesamtschulstandort - zurückgestellt
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Unzureichende Anzahl Schulplätze - zurückgestellt
+- TOP 4.2: Verschiedene Aspekte der Inklusionsentwicklung an Kölner Schulen - zurückgestellt
+- TOP 4.3: Schuleingangsuntersuchungen - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: AN/2171/2021 Rheinische Musikschule Musikschulentwicklungsplan - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0354/2022 zu Anteilen der von festangestellten Mitarbeitenden und von freien Mitarbeitenden der Rheinischen Musikschule erteilten Unterschritseinheiten - Kenntnis genommen
+- TOP 5.2: Sachstand zu einem Interimsstandort für die Europaschule - mündliche Anfrage von RM Aengenvoort aus der Sitzung vom 16.05.2022 - Kenntnis genommen
+- TOP 5.3: Programm "Verrückt? Na und!" Beantwortung der Anfrage von RM Seeck (SPD) aus der Sitzung des Ausschusses Schule und Weiterbildung vom 16.05.2022 - Kenntnis genommen
+- TOP 5.4: Beantwortung mündlicher Anfragen aus der Sitzung des Ausschusses Schule und Weiterbildung vom 02.06.2022 zum TOP 6.1; betr. Schulversorgung im Entwicklungsgebiet Rondorf Nord-West in Köln-Rondorf - Kenntnis genommen
+- TOP 5.5: Beantwortung Nachfragen TOP 5.10 zu der Anfrage der CDU Fraktion zu 1299/2022 (Schulbudget für die Selbstverwaltung) vom 16.05.2022 - Kenntnis genommen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Empfehlungen
+- TOP 6.1: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Zügigkeitserweiterung der Janusz-Korczak-Schule am Altenberger Kreuz 14, 51105 Köln zum Schuljahr 2023/24 bei gleichzeitiger Bildung eines Teilstandortes in der Siegburger Str. 445 in 51105 Köln-Poll - ungeändert empfohlen
+- TOP 6.3: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Gebäudes für ein Gymnasium (S I 3-zügig, S II 5-zügig) mit drei Sportübungseinheiten in Köln-Nippes - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Sanierung der Schulaula am Berufskolleg 4, Zugweg 48, 50677 Köln - Baubeschluss - ungeändert empfohlen
+- TOP 6.5: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: "Roddergasse" in Köln - Humboldt / Gremberg - geändert beschlossen
+- TOP 6.6: Einrichtung des neuen Bildungsganges "Fachkraft Küche" am Berufskolleg Ehrenfeld (BK 20) zum Schuljahr 2022/2023 - ungeändert empfohlen
+- TOP 6.7: Generalinstandsetzung der Schulgebäude des Berufskollegs Ulrepforte, Gebäudetrakt B und A mit Unterrichtsräumen, Verwaltungsbereich und Aula am Standort Ulrichgasse 1-3 in 50676 Köln - Bau- und Einrichtungsbeschluss - ungeändert empfohlen
+- TOP 6.8: Gründung der Kölner Schulbaugesellschaft mbH - ohne Votum in nachfolgende Gremien
+- TOP 7: Entscheidungen
+- TOP 7.1: Beauftragung eines Musikschulentwicklungsplans - Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - zurückgestellt
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Mitteilung zur digitalen Schulinfrastruktur - Kenntnis genommen
+- TOP 8.2: Interimsstandort Venloer Wall - zu AN/1051/2022 - Kenntnis genommen
+- TOP 8.3: „Wenn Schule wirklich Priorität haben soll..." Einleitung eines Planungs- und Bauverfahrens zur Errichtung eines Schulinterimsbaus für eine neue Gesamtschule auf der Vogelsanger Straße - zu AN/0711/2022 und AN/0750/2022 - Kenntnis genommen
+- TOP 8.4: Teilhabe verbessern mit Förderprogramm: „Inklusion vor Ort – Das Programm für die modellhafte Förderung inklusiver Sozialräume in Nordrhein-Westfalen“ - Kenntnis genommen
+- TOP 8.5: Einmalige Einschulungsbeihilfe für Schulanfänger*innen zum Schuljahr 2022/2023 - Kenntnis genommen
+- TOP 8.6: Mitteilung zur Kostenerhöhung gem. § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 bei der Generalsanierung der Sportanlage Hardtgenbuscher Kirchweg in Köln-Ostheim - Kenntnis genommen
+- TOP 8.7: Schulwegsicherung - Kenntnis genommen
+- TOP 8.8: 35. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.9: Situation GGS Amandusstraße - Kenntnis genommen
+- TOP 8.10: Verzögerte Inbetriebnahmen von Schulgebäuden zum Schuljahresstart 2022/23 - Kenntnis genommen
+- TOP 8.11: Rechtsanspruch auf einen Platz in einer Offenen Ganztagsschule ab dem Schuljahr 2026/2027 - Kenntnis genommen
+- TOP 8.12: Sachstand Anmeldeverfahren an weiterführenden Schulen - Kenntnis genommen
+- TOP 8.13: Selbstverständlich unterschiedlich: Aktionsplan der Stadt Köln zur Akzeptanz von sexueller und geschlechtlicher Vielfalt - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
