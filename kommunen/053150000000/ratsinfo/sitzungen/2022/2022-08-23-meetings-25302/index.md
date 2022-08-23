@@ -1,0 +1,75 @@
+# 16. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-23T16:10:00+02:00
+- Ende: 2022-08-23T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25302
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25302
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohner*innen
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Planungsbeschluss für die Umgestaltung der Kalker Hauptstraße zwischen Rolshover Straße und Kapellenstraße und Durchführung einer Öffentlichkeitsbeteiligung - im ersten Durchgang verwiesen
+- TOP 2.1.1: Planungsbeschluss für die Umgestaltung der Kalker Hauptstraße - im ersten Durchgang verwiesen
+- TOP 2.2: Sperrung Kitschburger Straße - im ersten Durchgang verwiesen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße im Stadtbezirk Porz zwischen den Knotenpunkten Kölner Str./Berliner Str./Helenenstr. und Hauptstr./Friedrich-Ebert-Ufer - zurückgestellt
+- TOP 3.1.1: Änderungsantrag zu Ö 3.2 „Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße im Stadtbezirk Porz zwischen den Knotenpunkten Kölner Str./Berliner Str./Helenenstr. und Hauptstr./Friedrich-Ebert-Ufer“ - zurückgestellt
+- TOP 3.2: Beschluss einer Trasse für die RadPendlerRoute 2 (Bergisch Gladbach – Köln) - zurückgestellt
+- TOP 3.3: Taktverdichtung der Buslinie 505 (RSVG) - Fahrplanwechsel 2022 - ungeändert beschlossen
+- TOP 3.4: Nachhaltige Urbane Mobilitätsplanung (Sustainable Urban Mobility Plan - SUMP): - ungeändert beschlossen
+- TOP 3.5: Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - im ersten Durchgang verwiesen
+- TOP 3.5.1: Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - im ersten Durchgang verwiesen
+- TOP 3.5.2: Änderungsantrag zu TOP 3.5 - Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - im ersten Durchgang verwiesen
+- TOP 3.6: Verwendung der Stellplatzablösemittel - ungeändert beschlossen
+- TOP 3.7: Trasse RadPendlerRoute 4 (Troisdorf/Niederkassel – Köln - Alternative beschlossen
+- TOP 3.8: Planungsbeschluss: Verkehrliche und gestalterische Optimierung der Aachener Straße in Braunsfeld - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Bedarfsfeststellungs- und Planungsbeschluss zur Neugestaltung des Gürtels einschließlich barrierefreiem Ausbau von 10 Stadtbahnhaltestellen der Linie 13 zwischen Venloer Straße/Gürtel und Berrenrather Straße/Gürtel - im ersten Durchgang verwiesen
+- TOP 4.2: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - mit Änderungen empfohlen
+- TOP 4.3: Baubeschluss für die Sanierung der Hafenbrücke in Köln-Mülheim - ungeändert empfohlen
+- TOP 4.4: Ergänzung des Stadtbahnvertrages - Stadtbahnanbindung Mülheimer Süden - ungeändert empfohlen
+- TOP 4.5: 21. Satzung zur Änderung der Satzung der Stadt Köln vom 29. Juni 2001 über die Erhebung eines Erschließungsbeitrages - ungeändert empfohlen
+- TOP 4.6: 283. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.7: Erweiterung des neuen Busbetriebshofs Köln Ost in Porz - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Rheinpendel - Sache ist erledigt
+- TOP 5.1.2: E-Lade-Möglichkeiten in Parkhäusern und Tiefgaragen - Sache ist erledigt
+- TOP 5.1.3: Anfrage zu verbesserter Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - Sache ist erledigt
+- TOP 5.1.4: Aus-/Neubau Rodenkirchener Brücke und der Autobahn A4 vom Kreuz Gremberg bis Köln-Süd - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Südliche Verlängerung der Linie 13 ins Rechtsrheinische - Sache ist erledigt
+- TOP 5.2.2: Umsetzung des Lärmaktionsplans - zurückgestellt
+- TOP 5.2.3: Bedarf an Parkmöglichkeiten in den verschiedenen Bewohnerparkzonen - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Neue Buslinie von Bergisch Gladbach nach Thielenbruch - Sache ist erledigt
+- TOP 6.2: Beschlüsse im Rahmen der Ost-West-Achse - Sache ist erledigt
+- TOP 6.3: Schulwegsicherung - Sache ist erledigt
+- TOP 6.4: Ampelschaltungen an Straßenbahnhaltestellen - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Ein neu definiertes Grundnetz für den Motorisierten Individualverkehr - Kenntnis genommen
+- TOP 7.2.2: StadtBahn Süd - Risikoanalyse Trinkwassserschutz; Verzögerung im Planungsablauf (Vorlagen-Nr. 0811/2022) - Kenntnis genommen
+- TOP 7.2.3: Offenlage nach § 3 Absatz 2 BauGB des Bebauungsplan-Entwurfes Nr. 68439/03, Arbeitstitel: Deutzer Hafen – Teilplan Infrastruktur in Köln-Deutz - Kenntnis genommen
+- TOP 7.2.4: Stadtradeln 2022 - Kenntnis genommen
+- TOP 7.2.5: Fahrplanwechsel 2022 - TaxiBus-Linie 186 - Kenntnis genommen
+- TOP 7.2.6: Kooperation Köln und rechtsrheinische Nachbarn (K&RN) - Kenntnis genommen
+- TOP 7.2.7: Rücknahme der Verlängerung Linie 193 - Kenntnis genommen
+- TOP 7.2.8: Fahrplanwechsel 2022 - TaxiBus-Linie 194 - Kenntnis genommen
+- TOP 7.2.9: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 7.2.10: Gesamtinstandsetzung Mülheimer Brücke - Abruch südliche rechtsrheinische Rampe - KVB-Sperrpause - Kenntnis genommen
+- TOP 7.2.11: Temporäre Reduzierung im Busangebot der KVB in und nach den Sommerferien 2022 - Kenntnis genommen
+- TOP 7.2.12: Qualitätsbericht 2021 der KVB gemäß öffentlichem Dienstleistungsauftrag - zurückgestellt
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Plaungsleitfaden für die RadPendlerRouten - Sache ist erledigt
+- TOP 8.2: Anschlussticket für das auslaufende 9-€-Ticket - Sache ist erledigt
+- TOP 8.3: Fördermittel für die Machbarkeitsstudie zum Rheinpendel - zur weiteren Bearbeitung in die Verwaltung überwiesen
