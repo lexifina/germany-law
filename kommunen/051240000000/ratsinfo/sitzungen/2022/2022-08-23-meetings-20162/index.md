@@ -1,0 +1,54 @@
+# öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-08-23T16:03:00+02:00
+- Ende: 2022-08-23T18:38:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20162
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20162
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil Stand: 16.08.2022 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00295935.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00297167.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Geschäftsführung des Ausschusses für Verkehr - ungeändert beschlossen
+- TOP 2: Überprüfung von Strukturen und Abläufen im Ressort Straßen und Verkehr - ungeändert beschlossen
+- TOP 3: Projekt Elberfeld 2030 (ISEK und Fernwärme)
+- TOP 4: Abgesetzt. Von der Verwaltung zurückgezogen. Aktueller Sachstand zu dem Projekt Südsteg - mündlicher Bericht: Herr Beigeordneter Meyer -
+- TOP 5: ÖPNV in Wuppertal: Aktuelle Situation
+- TOP 6: Bericht zur Sitzung der Unfallkommission am 10.08.2022 - Entgegennahme ohne Beschluss
+- TOP 7: Umsetzung Talachsenradweg: Fortführung der Maßnahmen zur Verbesserung der Nahmobilität in den Straßen Unterdörnen 3. Bauabschnitt hier: Änderung der Streaßenraumgestaltung - ungeändert beschlossen
+- TOP 8: 2. Aktualisierung des Haushaltsplan-Entwurfes 2022/2023 - zur Beratung und Entscheidung verwiesen
+- TOP 9: Bushaltestellen „Loher Straße“ an der Friedrich-Engels-Allee - abgelehnt
+- TOP 10: Zustand der Blombachtalbrücke Landesstraße 419 - Entgegennahme ohne Beschluss
+- TOP 11: Einrichtung einer neuen Bushaltestelle und zusätzlicher Parkmöglichkeiten an der Schönebecker Straße - abgelehnt
+- TOP 12: Errichtung eines Fahrgastunterstandes der Firma Flix-Bus - Berliner Straße gegenüber Hausnummer 209 - ungeändert beschlossen
+- TOP 13: Einrichtung einer Tempo-30 Strecke vor der Tageseinrichtung für Kinder in der Staubenthaler Straße - Entgegennahme ohne Beschluss
+- TOP 14: Uellendahler Straße - Fahrbahn- und Gehwegausbau beim III. und IV. BA. - ungeändert beschlossen
+- TOP 15: Verbesserung der ÖPNV-Anbindung der Bergischen Universität - Entgegennahme ohne Beschluss
+- TOP 16: Bestandsanalyse zum gesamtstädtischen Mobilitätskonzept - Entgegennahme ohne Beschluss
+- TOP 17: Umbau der Hatzfeldtrasse zwischen der Straße Zum Alten Zollhaus und der Nordbahntrasse - ungeändert beschlossen
+- TOP 18: Längerfristiger Ausfall des Wupper-Lippe-Express (RE 49) - Entgegennahme ohne Beschluss
+- TOP 18.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Längerfristiger Ausfall des Wupper-Lippe-Express (RE 49)" vom 04.08.2022 (VO/ - Entgegennahme ohne Beschluss
+- TOP 19: Busausfälle bei den WSW - Entgegennahme ohne Beschluss
+- TOP 19.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Busausfälle bei den WSW" vom 05.08.2022 (VO/0858/22) - Entgegennahme ohne Beschluss
+- TOP 20: Sachstand des Projektes "Digitales Parkleitmanagement" (Teilprojekt des Green-City-Plans) - Entgegennahme ohne Beschluss
+- TOP 21: Verbesserung der Lichtsignalanlagen-Steuerung (Anbindung Kleeblatt / Bergische Universität Wuppertal) - Entgegennahme ohne Beschluss
+- TOP 22: Kommunikation der DB Regio - Entgegennahme ohne Beschluss
+- TOP 22.1: Antwort auf die Große Anfrage der CDU-Fraktion "Kommunikation der DB Regio" vom 15.08.2022 (VO/0932/22) - Entgegennahme ohne Beschluss
+- TOP 23: Ladeinfrastruktur für E-Mobilität - Entgegennahme ohne Beschluss
+- TOP 23.1: Antwort auf die Große Anfrage der FDP-Fraktion "Ladeinfrastruktur für E-Mobilität" vom 16.08.2022 (VO/0950/22) - Entgegennahme ohne Beschluss
+- TOP 24: Ladeinfrastruktur für E-Mobilität ausbauen - zur Beratung und Entscheidung verwiesen
+- TOP 25: Anregung gemäß § 24 GO NRW - Hünefeldstraße - Aufbringung von Fahrrad-Piktogrammen - geändert beschlossen
+- TOP 25.1: Anregung gemäß § 24 GO NRW - Hünefeldstraße - Aufbringung von Fahrrad-Piktogrammen - Ergänzung - Entgegennahme ohne Beschluss
+- TOP 26: Anregung gemäß § 24 GO NRW - Sicherer Radverkehr auf den Südhöhen - ungeändert beschlossen
+- TOP 27: Abgesetzt. Vorberatung nicht abgeschlossen. Anregung gemäß § 24 GO NRW - Tempo 30 (versuchsweise) für Hünefeldstraße/Hardtufer
+- TOP 28: Abgesetzt. Vorberatung nicht abgeschlossen. Anregung gemäß § 24 GO NRW - Uellendahler Straße - Rücknahme Gehwegparken
+- TOP 29: Abgesetzt. Vorberatung nicht abgeschlossen. Anregung gemäß § 24 GO NRW - Hofkamp - Rücknahme Gehwegparken
+- TOP 30: Anregung gemäß § 24 GO NRW - Erarbeitung eines Verkehrskonzeptes für den ruhenden Verkehr - ungeändert beschlossen
+- TOP 31: Anregung gemäß § 24 GO NRW - Sofortige Verbesserung der Sicherheit des Fußverkehrs am Wall - ungeändert beschlossen
+- TOP 32: Anregung gemäß § 24 GO NRW - Entfernung Beschilderung Einfahrt Wall - ungeändert beschlossen
+- TOP 33: Anregung gemäß § 24 GO NRW - Endgültige Herstellung des Kreisverkehrs Neuenteich - ungeändert beschlossen
