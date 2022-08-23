@@ -1,3 +1,3 @@
-# Art 1a (weggefallen)
+# Art 1a Vorschriften über die Schiffsuntersuchung
 
-
+§ 1.08 Nummer 3, § 4.07 Nummer 1 Satz 2 Buchstabe b zweiter Spiegelstrich sowie die Anlage 13 Satz 1 zweiter Spiegelstrich und Nummer 2.2 der Tabelle der Rheinschifffahrtspolizeiverordnung – Anlage zu dieser Verordnung – sowie die nach Artikel 2 Absatz 2 erlassenen Rechtsverordnungen sind mit der Maßgabe anzuwenden, dass sich die Angabe „Rheinschiffsuntersuchungsordnung“ auf die in § 1 Absatz 8 der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398, 2032), die durch Artikel 7 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, bezeichneten Vorschriften in der jeweils geltenden und anzuwendenden Fassung bezieht.

@@ -2,8 +2,7 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [Art 1 Anwendungsbereich](art-1.md)
-- [Art 1a (weggefallen)](art-1a.md)
-- [Art 1a Vorschriften über die Schiffsuntersuchung](art-1a-2.md)
+- [Art 1a Vorschriften über die Schiffsuntersuchung](art-1a.md)
 - [Art 2 Zuständige Behörden](art-2.md)
 - [Art 3 Fahrzeuge des öffentlichen Dienstes](art-3.md)
 - [Art 4 Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetz](art-4.md)

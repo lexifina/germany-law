@@ -70,7 +70,7 @@ Dunganfall bei der Haltung landwirtschaftlicher Nutztiere in t/Tier bzw. m³/Tie
 | 59. | von 8 bis 28 kg LM | starkN-/P-reduziert |
 | 60. | Jungsauenaufzucht | 28 bis 115 kg LM; 180 kg Zuwachsje Platz p.a. | Standardfutter | 0,5 | 0,69 | 0,9 | 0,3 |
 | 61. | N-/P-reduziert |
-| 62. | Jungsauen-eingliederung | 95 bis 135 kg LM; 240 kg Zuwachsje Platz p.a. | Standardfutter | 1,0 | 0,93 | 1,25 | 0,5 |
+| 62. | Jungsaueneingliederung | 95 bis 135 kg LM; 240 kg Zuwachsje Platz p.a. | Standardfutter | 1,0 | 0,93 | 1,25 | 0,5 |
 | 63. | N-/P-reduziert |
 | 64. | Schweinemast; von 28bis 118 kg LM | 700 g Tageszunahme;210 kg Zuwachs | Standardfutter | 0,5 | 0,54 | 0,75 | 0,3 |
 | 65. | N-/P-reduziert |
