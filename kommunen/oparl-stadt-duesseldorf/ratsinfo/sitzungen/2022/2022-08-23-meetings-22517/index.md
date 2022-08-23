@@ -1,0 +1,91 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-23T17:00:00+02:00
+- Ende: 2022-08-23T18:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22517
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22517
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00456524.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00456524.pdf
+- Wortprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00456524.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 21. Juni 2022 - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Weihnachtsmarkt auf dem Klemensplatz im Jahre 2022 - einstimmig beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2022 (Liste B), städtische Kindertageseinrichtung Weißdornstraße 14a - einstimmig beschlossen
+- TOP 15: Zuschuss an den Verein TG Nord Düsseldorf e.V. - einstimmig beschlossen
+- TOP 16: Sitzungstermine der Bezirksvertretung 5 im Jahr 2023 - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 17: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 18: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 19: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 20: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 21: "Viele Projekte stecken in der Warteschleife" - Wie lange kann noch gewartet werden? - beantwortet
+- TOP 22: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 23: Weg nach den Hingbenden - Wie kann das Parken geordnet und die Sicherheit erhöht werden?
+- TOP 24: Radweg vom Kreisverkehr Angermunder Straße - beantwortet
+- TOP 25: Unerklärliche Baumrodungen und weitere Bebauungen am Leuchtenberger Kirchweg - beantwortet
+- TOP 26: Leuchtenberger Kirchweg 53 - Baugenehmigungen, Dringlichkeit und Rodungen der Bäume? - beantwortet
+- TOP 27: Verwaltungsverfahren Neubauprojekt „Kaiservillen Kaiserswerth“ - beantwortet
+- TOP 28: Anwohnerparken im Stadtbezirk 5 - beantwortet
+- TOP 29: Aufstellung von Absperrpfosten und eines Zauns im Treppenbereich zur Kirche St. Remigius in Wittlaer
+- TOP 30: Verkehrsanbindung zwischen Ratingen und dem Düsseldorfer Norden
+- TOP 31: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr?
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Privatisierung des Ordnungs- und Sicherheitsdienstes
+- TOP 34: Nutzungsänderung und Neubebauung des ehemaligen Marienkrankenhauses in Kaiserswerth - beantwortet
+- TOP 35: Wo ist Platz für Jugendliche im Stadtbezirk 5? - beantwortet
+- TOP 36: Änderungen der Straßen "An der Bausenheide" und "An den Vier Winden" - beantwortet
+- TOP 37: Park & Ride-Parkmöglichkeit Froschenteich - beantwortet
+- TOP 38: Planungen und städtebauliche Entwicklungen im Gebietsbereich zwischen Stockum (Stockumer Kirchstraße/Rotterdamer Straße/Lohauser Deich) und der Ortslage Lohausen (Lohauser Deich/Heiligenweg/Niederrheinstraße)
+- TOP 39: Unzuverlässigkeit und häufiger Ausfall der U79 - Sieht so die Mobilitätswende im Düsseldorfer Norden aus?
+- TOP 40: Grünordnungsplan 2025 "rheinverbunden" - beantwortet
+- TOP 41: Baum-, Wasser- und Landschaftsschutz beim Neubau Am Mühlenkamp 15
+- TOP 42: Besorgte Eltern in Kaiserswerth - beantwortet
+- TOP 43: Manga-Messe - beantwortet
+- TOP 44: Angermunder Baggersee - beantwortet
+- TOP 45: Bänke Lantz'scher Park und Beschilderungen Bürgerbüro sowie Polizei in Kaiserswerth - beantwortet
+- TOP 46: Sicherheit für Pferd und Reiter am Leuchtenberger Kirchweg herstellen
+- TOP 47: Ergänzung Toilettenkonzept - öffentlliche Toilette für den historischen Ortskern Kaiserswerth. Welche Möglichkeiten bieten sich rund um die Klemensbrücke? - beantwortet
+- TOP 48: Energetische Sanierungsmaßnahmen im Stadtbezirk 5 - beantwortet
+- TOP -: Neue Anfragen
+- TOP 49: Sind 1.000 oder mehr Wohnungen nördlich der Kalkumer Schlossallee geplant? - beantwortet
+- TOP 50: Erhöhung der Bodenwerte nördlich Kalkumer Schlossallee infolge eines städtebaulichen Wettbewerbes? - beantwortet
+- TOP 51: Geschwindigkeitsmessung Kreuzung Nagelsweg/Neusser Weg
+- TOP 52: Angermunder Baggersee
+- TOP 53: Erweiterung Grundschule Kaiserswerth
+- TOP 54: Lärmverhinderung durch Turbinentestung am Flughafen - beantwortet
+- TOP 55: Wo sind die Parkplätze auf der Arnheimer Straße geblieben?
+- TOP 56: Kinderspielplatz Hoppengarten
+- TOP -: Anträge
+- TOP 57: Verbesserung Radwegesicherheit im Abschnitt Lilienthalstraße/Überführung A44 - einstimmig beschlossen
+- TOP 58: Boule-Bahn(en) für Kaiserswerther Bürgerinnen und Bürger - abweichend beschlossen
+- TOP 59: Verkehrssicherheit im verkehrsberuhigten Bereich der Fliednerstraße gewährleisten und Ausweitung prüfen - mehrheitlich beschlossen
+- TOP 60: Ampelschaltung am Freiligrathplatz wieder bedarfsgerecht schalten - mehrheitlich beschlossen
+- TOP 61: Einberufung einer Bürger*innenversammlung zum Austausch über den geplanten Mehrgenerationencampus nörlich der Kalkumer Schlossallee - abweichend beschlossen
+- TOP 62: Sicherung der Bushaltestelle und des Fußgängerüberweges an der Bockumer Straße/Kalkstraße - einstimmig beschlossen
+- TOP 63: Sanierung der Bockumer Straße - mehrheitlich beschlossen
+- TOP 64: Erweiterung - Verlängerung der Spielstraße Neusser Weg bis zur Einmündung Am Gentenberg - einstimmig beschlossen
+- TOP 65: Restauration der noch vorhandenen Kunstwerke bzw. deren Sockel im Lantz´schen Park - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 66: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 67: Verschiedenes
+- TOP 68: An Sankt Swidbert/Niederrheinstraße, Feuerwache der freiwilligen Feuerwehr Kaiserswerth, Neubau - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 69: "Stadtbaumkonzept für Düsseldorf (4. Pflanzperiode)" - zur Kenntnis genommen
