@@ -1,0 +1,63 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Barmen
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-08-23T18:00:00+02:00
+- Ende: 2022-08-23T19:50:00+02:00
+- Ort: Rathaus, 1. Etage, 1. Sitzungszimmer, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20318
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20318
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00295937.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Bebauungsplan 1281 - Barmer Bogen Siegesstr. - - ungeändert beschlossen
+- TOP 4: Flächennutzungsplanänderung 148 - Barmer Bogen Siegesstr. - - ungeändert beschlossen
+- TOP 5: Bürgerantrag gemäß § 24 GO NRW - Tempo 30 (versuchsweise) für Hünefeldstraße/Hardtufer - ungeändert beschlossen
+- TOP 6: Anfragen
+- TOP 6.1: Große Anfrage der Fraktion Bündnis 90/Die Grünen - Verwendung der GfG-Mittel - Entgegennahme ohne Beschluss
+- TOP 6.2: Große Anfrage der Fraktion Bündnis 90/Die Grünen - Nachfolgenutzung STAPLES-Markt an der Höhne und Schuhhaus KLAUSER - Entgegennahme ohne Beschluss
+- TOP 6.3: Große Anfrage der SPD-Fraktion - Absperrpfosten Buchenstraße - Entgegennahme ohne Beschluss
+- TOP 6.3.1: Beantwortung der Anfrage "Absperrpfosten in der Buchenstraße 51"
+- TOP 6.4: Große Anfrage der SPD-Fraktion - abgesägte Bäume auf dem Rott - Entgegennahme ohne Beschluss
+- TOP 6.4.1: Große Anfrage der SPD-Fraktion - abgesägte Bäume auf dem Rott - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 6.5: Große Anfrage der CDU-Fraktion - Sachstand Schlüsselprojekt 2022 - Entgegennahme ohne Beschluss
+- TOP 6.5.1: Schlüsselprojekte des Oberbürgermeisters
+- TOP 6.6: Große Anfrage der Fraktion Bündnis 90/Die Grünen - Trinkwasserbrunnen - Entgegennahme ohne Beschluss
+- TOP 6.6.1: Antwort auf die Große Anfrage der Fraktion Bündnis 90/Die Grünen-Aufstellung von öffentlichen Trinkwasserbrunnnen in Barmen - Entgegennahme ohne Beschluss
+- TOP 6.7: Carnaper Platz - Quartiersparkplatz
+- TOP 7: Anträge
+- TOP 7.1: Radabstellanlage Höhne / Rolingswerth (vor Café Moritz) - Antrag der Fraktion BÜndnis 90/Die Grünen - ungeändert beschlossen
+- TOP 7.2: Verkehrssituation in der Appellstraße - Antrag der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 7.3: Verbesserung der Verkehrssicherheit für den Radverkehr in der Straße Heubruch - Antrag der Fraktion BÜndnis 90/Die Grünen - ungeändert beschlossen
+- TOP 7.3.1: Antwort auf den Antrag der Grünen VO/0823/22 - Verbesserung der Verkehrssicherheit durch zusätzliche Markierung von einer Schleuse für Radfahrer im Heubruch
+- TOP 7.4: Durchfahrverbot Böhler Weg - Antrag der Fraktion Bündnis 90/Die Grünen - geändert beschlossen
+- TOP 7.5: Prüfauftrag: Verbesserung der Verkehrssicherheit für den Radverkehr in der Westkotter Straße - ungeändert beschlossen
+- TOP 7.6: Pflegezustand Öffentlicher Weg Hohenstein / Loher Straße - Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 7.7: Änderung der Verkehrsführung auf der Hatzfelder Straße in Höhe der Einmündung Raukamp - in der Sache erledigt
+- TOP 7.8: Ruhender Verkehr Auf dem Brahm 41 bis 71 - Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 7.9: Namensgebung für einen Platz in der Siedlung Bergfrieden - Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 7.10: Verwendung der freien Mittel
+- TOP 7.11: Verwendung der GfG-Mittel - Wegeverbreiterung vor den Häusern Auf dem Brahm 41 bis 71 - Antrag der CDU-Fraktion - abgelehnt
+- TOP 7.12: Verwendung der GfG-Mittel - Baumscheibe, neue Sitzgelegenheit uind Informations- bzw. Gedenktafel auf dem zentralen Platz der Siedlung "Begrfrieden" - Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 7.13: Verwendung der GfG-Mittel - Brunnen Toelleturm - Antrag der CDU-Fraktion - zurückgestellt
+- TOP 7.14: Verwendung der GfG-Mittel - KSP Rott - Antrag R 103 - ungeändert beschlossen
+- TOP 8: Straßenbauprogramm im Stadtbezirk Barmen - Operatives Bauprogramm - ungeändert beschlossen
+- TOP 9: Umbau der Hatzfeldtrasse zwischen der Straße Zum Alten Zollhaus und der Nordbahntrasse - ungeändert beschlossen
+- TOP 10: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2022 - ungeändert beschlossen
+- TOP 11: Ergebnisse des Prüfauftrags Zulassung von Regenwasserversickerung auf Grundstücken unter ökonomischen und ökologischen Gesichtspunkten - ungeändert beschlossen
+- TOP 12: 2. Aktualisierung des Haushaltsplan-Entwurfes 2022/2023 - ungeändert beschlossen
+- TOP 13: Umsetzung Talachsenradweg: Fortführung der Maßnahmen zur Verbesserung der Nahmobilität in den Straßen Unterdörnen 3. Bauabschnitt hier: Änderung des Straßenquerschnitts - ungeändert beschlossen
+- TOP 14: Verstetigung der Durchführung von Bürgerbudgets - ungeändert beschlossen
+- TOP 15: Gewährung eines Zuschusses an den Hockeyclub Gold-Weiss Wuppertal 1920 e. V. zur Erneuerung des Hockeyspielfeldes (Kunstrasen) auf der Vereinsanlage, Winchenbachstr. - ungeändert beschlossen
+- TOP 16: Sofortprogramm Werth - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 17: Sofortprogramm Werth - Konzept zur Verwendung der Restmittel - ungeändert beschlossen
+- TOP 18: Fußweg Oberbergische Straße - Rückmeldung der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 19: Potenzialflächenkataster und TopicMap „Potenzialflächen-Online“ - Entgegennahme ohne Beschluss
+- TOP 20: Neuerrichtung eines "Regionalen Trainingszentrums der Polizei Buschland" - Entgegennahme ohne Beschluss
+- TOP 21: Abschlussbericht der Taskforce Hochwasser und Klimaresilienz - Entgegennahme ohne Beschluss
+- TOP 22: Durchführungsbeschluss zur Ertüchtigung der Remise und Kannegießerschen Fabrik - Entgegennahme ohne Beschluss
