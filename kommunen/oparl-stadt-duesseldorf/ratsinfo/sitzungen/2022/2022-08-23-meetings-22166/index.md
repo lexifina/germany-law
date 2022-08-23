@@ -1,0 +1,53 @@
+# Bauausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-23T15:00:00+02:00
+- Ende: 2022-08-23T16:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/17
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22166
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22166
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BAU 23.08.2022 Sitzungspaket_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00456909.pdf
+- Ergebnisprotokoll: BAU 23.08.2022 Sitzungspaket_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00456909.pdf
+- Wortprotokoll: BAU 23.08.2022 Sitzungspaket_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00456909.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über den öffentlichen Teil der Sondersitzung vom 07.04.2022 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 22.03.2022 - einstimmig beschlossen
+- TOP 3.3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 03.05.2022 - einstimmig beschlossen
+- TOP 4: Anfragen, Anträge und eilige Informationen
+- TOP 4.1: Anfragen
+- TOP 4.1.1: Perspektiven für einen besseren Hochwasserschutz an der ungeteilten Düssel - Anfrage der SPD-Ratsfraktion - - schriftlich beantwortet
+- TOP 4.2: Anträge
+- TOP 4.2.1: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Deich-Rückverlegung Himmelgeister Rheinbogen - zurückgezogen
+- TOP 4.2.2: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/263/2022 - zurückgezogen
+- TOP 5: Höherweg 101, KFZ-Zulassungsstelle – Umbau der Flächen im Erdgeschoss - Ausführungs- und Finanzierungsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 6: Willi-Becker-Allee 7, Bürogebäude, Vollständige Umstellung der Innenbeleuchtung - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 7: Quadenhofstraße 151, Friedhof Gerresheim, Gesamtsanierung der Unteren Kapelle - Änderungsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 8: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Neubau Kita Ulenbergstraße" - Empfehlung einstimmig beschlossen
+- TOP 9: Beschlussvorlage Erweiterungsneubau (Mensa, Küche, Gymnastikhalle) u. Umbau Bestand (Lehrerzimmer, Umkleiden, Bistro) des Geschwister-Scholl-Gymnasiums/Redinghovenstraße 41 und der Hulda-Pankok-Gesamtschule/Brinckmannstraße 16 - Empfehlung einstimmig beschlossen
+- TOP 10: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für den Erweiterungsneubau der Martin-Luther Grundschule an der Gotenstraße 20. - Empfehlung einstimmig beschlossen
+- TOP 11: Grabbeplatz 4, Kunsthalle - Erneuerung der Wärmeversorgung, Heizungsverteilung und Regelungstechnik -Änderungsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 12: Deutsche Oper am Rhein - Opernhaus der Zukunft - Durchführung des städtebaulichen Ideenwettbewerbs und Umsetzung der 2. Phase der Öffentlichkeitsbeteiligung - passieren lassen
+- TOP 13: Deutsche Oper am Rhein - Opernhaus der Zukunft - passieren lassen
+- TOP 14: Deutsche Oper am Rhein - Opernhaus der Zukunft - passieren lassen
+- TOP 14.1: An Sankt Swidbert/Niederrheinstraße, Feuerwache der freiwilligen Feuerwehr Kaiserswerth, Neubau - Ausführungs- und Finanzierungsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 14.2: Stockumer Höfe 180 – Betriebsgebäude, Neubau einer Photovoltaikanlage - Ausführungs- und Finanzierungsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 15: Controllingbericht des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf zur finanzwirtschaftlichen Lage zum I.-II. Quartal 2022 - Information - - zur Kenntnis genommen
+- TOP 16: Urdenbacher Acker, Sanierung (I-2030713022) - Bedarfsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 17: Lohauser Deich, Sanierung Alter Rheindüker (I-2020322016) - Bedarfsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 18: Karolingerstraße 65-81 (Kanalerneuerung) (I-2020318020) - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 19: Schöne Aussicht (Strukturverbesserung) (I-2020414005) - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 20: Klärwerk-Süd, Nachklärung, Erneuerung Maschinen- und Elektrotechnik (I-8030619003) - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 21: Zweite Änderung des Ausführungs- und Finanzierungsbeschlusses für das Projekt "Klärwerk-Nord, Zuleitung alte Eindicker" (I-8030607002) - einstimmig beschlossen
+- TOP 22: Änderung des Ausführungs- und Finanzierungsbeschlusses für das Projekt KW Süd "Sanierung Instandhaltung HDPE-Rohrleitungen" (I-8030616005) - Beschluss - - einstimmig beschlossen
+- TOP 23: Weitere Vorgehensweise in Bezug auf das Urteil des Oberverwaltungsgericht NRW (OVG NRW) zum Thema Abwassergebühren 9 A 1019/20 vom 17.05.2022 - Information - - zur Kenntnis genommen
+- TOP 24: Hochwasserschutzmaßnahme „Schließung der Deichlücke in der Ortslage Himmelgeist, Eindeichung Himmelgeist Bereich 1 – Schlossmeierhof“ Vorlaufende Rodungen - Information - - zur Kenntnis genommen
+- TOP 25: Hochwasserschutzmaßnahme „Schließung der Deichlücke in der Ortslage Himmelgeist, Eindeichung Himmelgeist Bereich 2 - Direkte Ortslage“ Vorlaufende Rodungen - Information - - zur Kenntnis genommen
+- TOP 26: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/Die Grünen (BAU/014/2022) und Ergänzungsantrag der SPD Ratsfraktion (BAU/015/2022) aus der Sitzung des Bauausschusses vom 07.06.2022 - Information - - zur Kenntnis genommen
