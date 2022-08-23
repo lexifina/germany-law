@@ -1,0 +1,59 @@
+# 7. Sitzung des Ausschusses für Wirtschaft und Beteiligungen
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2022-08-23T10:00:00+02:00
+- Ende: 2022-08-23T12:05:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2022-AWB-6
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2022-AWB-6
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-AWB-6
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-AWB-6
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung des öffentlichen Teils der Niederschrift der Sitzung vom 17.05.2022
+- TOP 3: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Sachstandsbericht
+- TOP 4: Angelegenheiten des Bereiches Umwelt - Sachstandsbericht zum IHK Revierparks 2020
+- TOP 5: Angelegenheiten des Bereiches Planung
+- TOP 5.1: Masterplan Mittelstand und Handwerk Hier: Sachstand und weiteres Vorgehen
+- TOP 5.2: Entwicklungs- und Vermarktungskonzept Regionale Kooperationsstandorte
+- TOP 6: Angelegenheiten der Freizeitgesellschaften
+- TOP 6.1: Angelegenheiten der Freizeitgesellschaften - Bericht über die Ergebnisentwicklung zum 30.06.2022
+- TOP 6.2: Angelegenheiten der Freizeitgesellschaften Abrechnung der Corona-bedingten Sonderzuschüsse 2021
+- TOP 6.3: Angelegenheiten der Freizeitgesellschaften - Überplanmäßige Mittelbereitstellung 2022
+- TOP 6.4: Freizeitschwerpunkt Glörtalsperre GmbH - Finanzierung der Sanierung der Zufahrtstraße zur K10
+- TOP 7: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung der Gesellschaftsverträge der RZR II Herten GmbH sowie der LAMBDA Gesellschaft für Gastechnik mbH
+- TOP 8: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021
+- TOP 8.1: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Business Metropole Ruhr GmbH
+- TOP 8.2: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Ruhr Tourismus GmbH
+- TOP 8.3: AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 8.3.1: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - AGR GmbH
+- TOP 8.3.2: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss
+- TOP 8.4: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Kultur Ruhr GmbH
+- TOP 8.5: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - IGA Metropole Ruhr 2027 gGmbH
+- TOP 8.6: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Freizeitgesellschaft Metropole Ruhr mbH und ihre Betriebsstätten
+- TOP 8.7: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Revierpark Gysenberg Herne GmbH
+- TOP 8.8: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Revierpark Wischlingen GmbH
+- TOP 8.9: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Freizeitzentrum Xanten GmbH
+- TOP 8.10: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Maximilianpark Hamm GmbH
+- TOP 8.11: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Betreibergesellschaft Silbersee II Haltern am See mbH
+- TOP 8.12: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 8.13: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Umweltzentrum Westfalen GmbH
+- TOP 8.14: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - TouristikEisenbahnRuhrgebiet GmbH
+- TOP 9: Manifesta 16 Ruhr gGmbH
+- TOP 9.1: Manifesta 16 Ruhr gGmbH - Sachdarstellung zur Manifesta 16 und Bestellung von Vertreter*innen in den Aufsichtsrat
+- TOP 9.2: Antwort der Verwaltung - Zum Ergänzungsantrag zu Drucksache Nr. 14/0321-1 Manifesta 2026 – Beschluss zur Gründung der Durchführungsgesellschaft 'Manifesta 16 Ruhr gGmbH' Ergänzungen zur Vertragsgestaltung
+- TOP 10: Anträge
+- TOP 11: Anfragen und Mitteilungen
+- TOP 11.1: Anfragen
+- TOP 11.1.1: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Abwanderung von Hochschulabsolvent*innen aus der Metropole Ruhr
+- TOP 11.2: Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
