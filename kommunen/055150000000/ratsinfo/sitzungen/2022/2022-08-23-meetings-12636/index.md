@@ -1,0 +1,51 @@
+# 15. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-08-23T17:04:00+02:00
+- Ende: 2022-08-23T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/93
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12636
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12636
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00512957.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 der Gemeindeordnung Nordrhein-Westfalen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: AnS/0016/2022 - Sicherheit im Stadtbezirk Südost gewährleisten" - mdl. Bericht
+- TOP 3.2: Vorstellung des VSE Team Kompass - Streetwork - mdl. Bericht
+- TOP 3.3: Vorstellung des neuen Teams im Jugendzentrum Bahnhof Wolbeck
+- TOP 3.4: V/0341/2022, Projekt DaRkSeit - Datenbasierte Bewertung der Resilienz kommunaler Straßeninfrastruktur - mdl. Bericht
+- TOP 4: Anhörungen
+- TOP 4.1: LOOPmünster - Zwischenbericht und betriebliche Anpassungen - einstimmig geändert beschlossen
+- TOP 4.2: Verbesserungen im Nachtbusnetz - Fahrplanmaßnahmen der Stadtwerke Münster GmbH zum 17.10.2022 - einstimmig beschlossen
+- TOP 4.3: Grundschule York - mehrheitlich beschlossen
+- TOP 4.4: Wohnbaulandentwicklung bis zum Jahr 2030 – Fortschreibung des Baulandprogramms - einstimmig geändert beschlossen
+- TOP 4.5: Satzung gemäß § 34 BauGB für den Bereich "Angelmodde - Hiltruper Straße / Westlich Am Sandbach" - einstimmig beschlossen
+- TOP 4.6: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung Zum Kaiserbusch, im Stadtteil Angelmodde, Bezirk Südost - einstimmig beschlossen
+- TOP 4.7: Kommunale Sportförderung: Zuschüsse für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 5: Entscheidungen
+- TOP 5.1: - Baubeschluss Ersatzbrückenbauwerk BW 0400416 - Hofkamp über die Werse - - einstimmig beschlossen
+- TOP 5.2: Sanierung der Spielplätze Middelkamp und Vogelrohrsheide im Stadtbezirk Münster-Südost im Haushaltsjahr 2022 - Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 5.3: Gewährung von Zuschüssen an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Südost für das 1. Halbjahr 2022 - einstimmig beschlossen
+- TOP 6: Fristgerecht eingegangene Anträge
+- TOP 6.1: Gemeinsamer Ortstermin für sichere Linienführung der Buslinie 18 in Wolbeck-Nord - einstimmig beschlossen
+- TOP 7: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 7.1: Im Entwicklungskonzept bereits beschlossene Fahrbahnverengung jetzt umsetzen - eingebracht
+- TOP 7.2: Informationsveranstaltung für Bewohner östlich Albersloher Weg im Bereich des Loddenbach - eingebracht
+- TOP 7.3: Sicherheit im Stadtbezirk Münster Südost gewährleisten - zur Kenntnis genommen
+- TOP 7.4: Verlauf der Veloroute zugunsten des Baumbestandes ändern - eingebracht
+- TOP 7.5: Alternative Linienführung der Buslinie 18 in Wolbeck-Nord - eingebracht
+- TOP 7.6: Ampelschaltung Gremmdendorfer Weg, Höhe Villa Kahmann - eingebracht
+- TOP 7.7: Kreisverkehr Gremmendorfer Weg /Angelmodder Weg (Höhe Ehrenmal) - eingebracht
+- TOP 7.8: Zebrastreifen Angelmodder Weg - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 8.1: Sicherheit und Ordnung in der Waldsiedlung gewährleisten - zur Kenntnis genommen
+- TOP 8.2: Fußgänger- und Radwegeverbindung Angelstraße -Gasthaus Hoffschulte - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 10: Verschiedenes
