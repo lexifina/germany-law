@@ -1,0 +1,104 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2022-08-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6845825
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6845825
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Senior*innennachmittag im Rahmen des Stadtteilfestes im Petuelpark
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein der Städtischen Hermann-Frieb-Realschule München e.V. Mediatorenseminar vom 28. - 30.09.2022 710,00 Euro, Az.: 0262.0-4-0406
+- TOP 2.2.: (E) Stadtbezirksbudget Eltern Kind Zentrum Schwabing e.V. Angebote für ukrainische Kinder Minikindergarten & Spielgruppen vom 01.09. - 22.12.2022 4.920,00 Euro, Az.: 0262.0-4-0407
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Sperrung eines Spielgeräts (Barrierefreies Karussell) im Petuelpark
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Frei-Otto-Straße: Interimsstandort der Straßenreinigung (befristet auf 5 Jahre)
+- TOP 2.2.: Angererstr. 7d: Nutzungsänderung von einer Postfiliale zu einem Auslieferungslager für Lebensmittel (Gorillas-Warehouse)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Rückmeldung der LBK zur BA-Stellungnahme Vorbescheid Farinellistraße 8-12
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Mieterbeirat der LHM: Protokoll der Sitzung vom 25.07.2022
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Einrichtung eines Fußgängerüberweges in der Infanteriestraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Fahrradabstellmöglichkeiten in der Agnes-/ Ecke Schleißheimer Straße
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze, Hiltenspergerstraße 66
+- TOP 3.2.2.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze, Clemensstraße 48
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Reparatur der Fernwärmeleitung im Bereich Zentnerstr. 23-27
+- TOP 3.3.2.: Stromprojekt Fallmerayerstraße
+- TOP 3.3.3.: Stromprojekt Agnesstraße (Infoflyer der Stadtwerke München)
+- TOP 3.3.4.: Trinkwasserprojekt Georgenstraße (Infoflyer der Stadtwerke München)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Meldeplattform Radverkehr (Präsentation aus der Informationsveranstaltung vom 18.07.2022)
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Winzererstr. 43: Antrag auf Fällung von 4 Bergahornbäumen
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Aufstellung von vier Sitzbänken in der Infanteriestraße (s. TOP E 1.1 05/22) Baureferat bittet um Standortvorschläge des BA
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Blühstreifen rund um den neu gestalteten Platz am Kriegerdenkmal
+- TOP 3.1.2.: Regelmäßige Reinigung des ungemähten Grünstreifens vor der Petra-Kelly-Straße 5
+- TOP 3.1.3.: Hecken und Sträucher statt Metallbügel
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Verlängerung der Ausnahmegenehmigung für eine Baustelleneinrichtung (Stromüberspannung mit 4 Masten) in der Grünanlage an der Degenfeldstraße
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: a) Eisdiele "Mochaccino", Lerchenauer Straße 14: Genehmigung einer Kleinstfreischankfläche b) Eisdiele "Mochaccino", Lerchenauer Straße 14: Ausdehnung einer Kleinstfläche über die Betriebsgrenze hinaus (April bis Oktober) c) „Be Thai Style“, Herzogstr. 44: Ausdehnung der bestehenden Freischankfläche
+- TOP 2.2.2.: Einweihung eines Erinnerungszeichens am 20.10.2022 in der Tengstr. 32
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Containeraufstellung (Corona-Testung) am Hohenzollernplatz 1
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Abschlussfilm „Samet“ am 28.08.2022 in der Borschtallee 30
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: „Yoko Sushi“, Isabellastr. 47
+- TOP 3.4.2.: „HA Veggie Restaurant" (ehem. Basic Buffet&Restaurant), Herzogstr. 129
+- TOP 3.4.3.: "Lucky Pizza am Nordbad", Schleißheimer Str. 125
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Versammlung Falun Gong am 20.08.2022 auf dem Hohenzollernplatz
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken (Anhörung zu einem Antrag des Bezirksausschusses 16 Ramersdorf-Perlach)
+- TOP G.2.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen: Hybridsitzungen / Livestream Information zum aktuellen Sachstand und Bedarfsabfrage (Fristende: 13.09.2022)
+- TOP G.3.: Entscheidungsrecht der Bezirksausschüsse bei der Genehmigung von Parklets und Stadtterrassen (Information über Änderung der OB-Vollmacht)
+- TOP H: Termine
