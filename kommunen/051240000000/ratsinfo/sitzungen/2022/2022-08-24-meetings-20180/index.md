@@ -1,0 +1,60 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-08-24T19:00:00+02:00
+- Ende: 2022-08-24T21:28:00+02:00
+- Ort: Bergische VHS Wuppertal, Auer Schulstr. 20, 42103 Wuppertal, Raum B 131
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20180
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20180
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00296099.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00297199.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Beirates der Menschen mit Behinderung
+- TOP 2: Bericht des Jugendrates
+- TOP 3: Controllingliste der Beschlüsse der Bezirksvertretung
+- TOP 4: Bürgerantrag gem. § 24 GO NRW: Verlegung des Taxenstandes auf den Neumarkt - ungeändert beschlossen
+- TOP 5: Bürgerantrag gem. § 24 GO NRW - Taxenstand Döppersberg - ungeändert beschlossen
+- TOP 6: Bürgerantrag gem. § 24 GO NRW Autofreier Gehweg in der Oberstraße - geändert beschlossen
+- TOP 6.1: Bürgerantrag gem. § 24 GO NRW Autofreier Gehweg in der Oberstraße - Ergänzung - geändert beschlossen
+- TOP 7: Bürgerantrag gem. § 24 GO NRW: Hofkamp - Rücknahme Gehwegparken - ungeändert beschlossen
+- TOP 8: Vorstellung Bauvorhaben "Neubau Bürogebäude "Eiland", Fr.-Engels-Allee 47
+- TOP 9: Umbau Cotton Factory, Uellendahler Str. 27+29
+- TOP 10: Veranstaltung "Elberfelder Cocktail" - geändert beschlossen
+- TOP 10.1: Öffentliches WIEGEN auf dem Laurentiusplatz für eine Boxveranstaltung am 10.09.2022 in der Uni-Halle - ungeändert beschlossen
+- TOP 11: Parkraummarkierung Röntgenweg 10 - ungeändert beschlossen
+- TOP 12: Straßenbauprogramm im Stadtbezirk Elberfeld - Operatives Bauprogramm - ungeändert beschlossen
+- TOP 13: Verbesserung der Aufenthaltsqualität im Bereich des Laurentiusplatzes - ungeändert beschlossen
+- TOP 14: Ergebnisse des Prüfauftrags Zulassung von Regenwasserversickerung auf Grundstücken unter ökonomischen und ökologischen Gesichtspunkten - ungeändert beschlossen
+- TOP 15: Verstetigung der Durchführung von Bürgerbudgets - ungeändert beschlossen
+- TOP 16: Bebauungsplan 1268 - Karlstraße - - ungeändert beschlossen
+- TOP 17: Standortverlagerung der Abendrealschule Am Ölberg - ungeändert beschlossen
+- TOP 18: Neugestaltung der Parkanlage Deweerthscher Garten – ISEK Innenstadt Elberfeld - ungeändert beschlossen
+- TOP 19: Verkehrssichere Anpassung der Radverkehrsführung Hofkamp - ungeändert beschlossen
+- TOP 20: Sozialer Zusammenhalt Elberfelder Nordstadt/ Arrenberg (Bereich Mirker Quartier): Neugestaltung der Freiflächen der ehem. Gold-Zack-Fabrik (Projekt der Montag STiftung Urbane Räume, Wiesenstraße 118/120) - ungeändert beschlossen
+- TOP 21: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2022 - ungeändert beschlossen
+- TOP 22: Abschlussbericht der Taskforce Hochwasser und Klimaresilienz - Entgegennahme ohne Beschluss
+- TOP 23: Sachstandsbericht zu den Problemimmobilien im Stadtbezirk Elberfeld - Entgegennahme ohne Beschluss
+- TOP 24: Parkhaus Kasionogarten - Entgegennahme ohne Beschluss
+- TOP 25: Wettbewerb für eine künstlerische Kommentierung der „Pallas Athene“ von Arno Breker am Wilhelm-Dörpfeld-Gymnasium - geändert beschlossen
+- TOP 26: Anträge
+- TOP 26.1: Sanierung der Städt. Gesamtschule Else Lasker-Schüler - Antrag von Bündnis90/ Die Grünen - geändert beschlossen
+- TOP 26.2: Markierung und Parksituation am südlichen Ende der Fahrradstraße Friedrichstraße - Antrag von Bündnis90/ Die Grünen - ungeändert beschlossen
+- TOP 26.3: Sicherheit und Ordnung im Luisenviertel - Antrag der SPD - vertagen
+- TOP 26.4: Fahrradstr. (Neue Friedrichstr.) an der Wiesenstr. Vorfahrt gewähren - Gemeinsamer Antrag von SPD und Bündnis90/ Die Grünen - ungeändert beschlossen
+- TOP 27: Anfragen
+- TOP 27.1: Große Anfrage von Bündnis90/ Die Grünen - Verwendung der GFG-Mittel
+- TOP 27.2: Große Anfrage der SPD-Fraktion - Trinkwasserspender in Elberfeld
+- TOP 27.2.1: Antwort auf die Große Anfrage der SPD-Fraktion -Trinkwasserspender in Elberfeld - Entgegennahme ohne Beschluss
+- TOP 27.3: Große Anfrage der SPD-Fraktion Energiewende in hochverdichteten Quartieren
+- TOP 27.3.1: Beantwortung Große Anfrage der SPD-Fraktion Energiewende in hochverdichteten Quartieren vom 13.05.2022 (VO/0556/22) - Entgegennahme ohne Beschluss
+- TOP 27.4: Große Anfrage der SPD-Fraktion zum Autofreien Laurentiusplatz
+- TOP 28: GFG-Mittel
+- TOP 28.1: Fahrradabstellplätze Else-Lasker-Schüler-Gesamtschule
+- TOP 29: Freie Mittel
+- TOP 29.1: Antrag Wuppertaler Kinder- und Jugendtheater e.V.
+- TOP 29.2: Antrag Konzertchor Wuppertal e.V.
