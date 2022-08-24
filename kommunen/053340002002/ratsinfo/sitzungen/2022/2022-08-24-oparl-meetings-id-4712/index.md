@@ -1,0 +1,62 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2022-08-24T17:00:00+02:00
+- Ende: 2022-08-24T19:57:00+02:00
+- Ort: Geschwister-Scholl-Gymnasium
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4712
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4712
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung von Niederschriften über Sitzungen des Rates der Stadt:
+- TOP 3.1: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 16.02.2022 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3.2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 30.03.2022 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3.3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 08.06.2022 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Neuaufstellung des Regionalplanes für den Regierungsbezirk Kölnhier: Vorstellung des Planentwurfes der Bezirksregierung Köln und der Stellungnahme der Stadt Aachen - ungeändert beschlossen
+- TOP 5: Festlegung Stadtumbaugebiet Beverau gemäß § 171b Abs 1 BauGB - ungeändert beschlossen
+- TOP 6: IKSK-Fortschreibung- Erstellung einer gesamtstädtischen Wärmeplanung - ungeändert beschlossen
+- TOP 7: Fortschreibung Straßen-und Wegekonzept Stand Mai 2022 - ungeändert beschlossen
+- TOP 8: Preissteigerung von Baumaterialien - Verlängerung der befristeten Preisgleitklausel - ungeändert beschlossen
+- TOP 9: Umgang mit Mikroapartments - ungeändert beschlossen
+- TOP 10: Bildung eines Notfallverbundes für die Archive in der StädteRegion Aachen - ungeändert beschlossen
+- TOP 11: Jahresabschluss für den Kulturbetrieb für das Jahr 2021 - ungeändert beschlossen
+- TOP 12: Beirat bei der Justizvollzugsanstalt Aachen - ungeändert beschlossen
+- TOP 13: Bestellung des Mitgliedes des Aufsichtsrates der Grenzüberschreitendes Gewerbegebiet Aachen-Heerlen N.V. - GOB N.V. und der Avantis Services N.V. - ungeändert beschlossen
+- TOP 14: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 14.1: Umbesetzungsantrag der Fraktion DIE Zukunft vom 21.06.2022 - ungeändert beschlossen
+- TOP 14.2: Umbesetzung von Ausschüssen und anderen Gremienhier: Entsendung der Mitglieder des Seniorenrates der Stadt Aachen - ungeändert beschlossen
+- TOP 14.3: Umbesetzungsantrag der FDP-Fraktion vom 16.08.2022 - ungeändert beschlossen
+- TOP 14.4: Umbesetzungsantrag der GRÜNE-Fraktion vom 21.08.2022 - ungeändert beschlossen
+- TOP 15: Anfragen:
+- TOP 15.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 15.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 16: Ratsanträge - zur Kenntnis genommen
+- TOP 17: Mitteilungen der Verwaltung
+- TOP 18: Genehmigung der Dringlichkeitsentscheidung vom 11.08.2022 - Ersatzneubau der Brücke Turmstraße über Gleise der DB Netz AG und der Geschwister-Scholl-Str; hier: zusätzlicher Neubau des Widerlagers Nord (Seite Audimax) - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
