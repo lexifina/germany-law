@@ -1,0 +1,23 @@
+# Neuaufstellung des Regionalplanes für den Regierungsbezirk Kölnhier: Vorstellung des Planentwurfes der Bezirksregierung Köln und der Stellungnahme der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/0410/WP18
+- Art: Entscheidungsvorlage
+- Datum: 2022-08-24
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=25217
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=25217
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=473212&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4829 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4831 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4943 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4838 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=105
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4942 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4930 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=31
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4830 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4832 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4833 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4826 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4712 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4828 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=19
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=5, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=12, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=17, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=76, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=49, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=43, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=44, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=45, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=46, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=47, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=48
