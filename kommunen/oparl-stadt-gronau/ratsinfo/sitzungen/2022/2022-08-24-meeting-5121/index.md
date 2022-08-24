@@ -1,0 +1,66 @@
+# Rat (20. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2022-08-24T18:00:00+02:00
+- Ende: 2022-08-24T20:15:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfmcFN4XpP1esuRKGLMNXTs
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5121
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRAo7Ap9o8d_ucfudNkgpDcj7uT9Rjr0qJb9-Mz0Avno/Bekanntmachung_Rat_24.08.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSsA1pdDeUovoU5VzKYFNFdEVQbI4zkO7uyINeQaGUzm/Oeffentliche_Niederschrift_Rat_24.08.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 18.05.2022
+- TOP 4.: Niederschrift vom 22.06.2022
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der FDP-Fraktion vom 05.12.2021; „Bauen mit Holz – Ergänzung der Abschreibungstabelle“ - Einstimmig, 0 Enthaltungen
+- TOP 5.2: Antrag der Fraktionen Grüne, GAL/Linke, UWG vom 13.06.2022; Gronau – ein sicherer Hafen für Flüchtende - 21 Jastimmen, 21 Neinstimmen, 0 Enthaltungen
+- TOP 5.3: Antrag der Fraktion pro:Bürgerschaft vom 20.07.2022; Bitte um Berichterstattung
+- TOP 5.4: Antrag der FDP-Fraktion vom 12.08.2022; Beitritt zur d-NRW AöR - Einstimmig, 0 Enthaltungen
+- TOP 6.: Benennung einer neuen Straße im Geltungsbereich des Bebauungsplanes Nr. 196 "Nördlich der Iltisstraße" - 33 Jastimmen, 6 Neinstimmen, 3 Enthaltungen
+- TOP 7.: Innenstadtentwicklung Gronau Tausch der Bauabschnitte 3 und 4 - 38 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 8.: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses und Gesamtlageberichts für das Haushaltsjahr 2021 - 39 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 9.: Aufbau und kontinuierlicher Betrieb eines Energiemanagements - 28 Jastimmen, 11 Neinstimmen, 3 Enthaltungen
+- TOP 10.: Priorisierung der Bebauungspläne
+- TOP 11.: Vorhabenbezogener Bebauungsplan Hotel Dinkellager Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 207 "Nieland", 4. Änderung, Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der betroffenen Öffentlichkeit gem. § 13 Abs. 2 Nr. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - 39 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahres 2021 Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 14.: Wirtschaftsplan 2023 der Zentralen Bau- und Umweltdienste - Einstimmig, 2 Enthaltungen
+- TOP 15.: Budgetbericht für das II. Quartal 2022
+- TOP 16.: 3. Änderungssatzung zur Satzung über die Erhebung einer Vergnügungssteuer in der Stadt Gronau (Westf.) vom 30.10.2013 (i.d.F. vom 09.11.2017) - Einstimmig, 0 Enthaltungen
+- TOP 17.: Modifizierung der Schuldenbremse der Stadt Gronau - Einstimmig, 4 Enthaltungen
+- TOP 18.: Bewertung der Stelle "Integrationsmanagement"
+- TOP 19.: Sachstand zur Ukraine-Flüchtingssituation (Stand 17.08.2022)
+- TOP 20.: Sachstand zur Corona-Pandemie (Sachstand 17.08.2022)
+- TOP 21.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bedarf von Containeranlagen für Kitas - Einstimmig, 0 Enthaltungen
+- TOP 23.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 23.1: Mitteilung aus der Stadtwerke Gronau GmbH (RM Rövekamp)
+- TOP 24.: Mitteilungen der Verwaltung
+- TOP 24.1: Fertigstellung, Inbetriebnahme, Eröffnung der Feuer- und Rettungswache
+- TOP 24.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24.3: Suche und Auswahl eines Standortes für ein Endlager für hochradioaktive Abfälle
+- TOP 25.: Anfragen
+- TOP 25.1: Warmlaufen von Zügen in den Morgenstunden (Anfrage von RM Bieber)
+- TOP 25.2: Sachstand Flüchtlingssituation (Anfrage von RM Hüsing-Hackfort)
+- TOP 25.3: Archäologische Grabungen (Anfrage von RM Bohn)
+- TOP 25.4: Pflasterung in der Neustraße (Anfrage von RM Gabbe)
+- TOP 25.5: Reinigung Neustraße und Brunnen (Anfrage RM Gabbe)
+- TOP 25.6: Wohnmobilstellplätze in Epe (Anfrage von RM Krefter)
+- TOP 25.7: Baumaßnahme Kardinal-von-Galen-Ring/Ahauser Straße (Anfrage von RM Doetkotte)
+- TOP 25.8: Schulhof Gesamtschule Gronau (Anfrage von RM von Borczyskowski)
+- TOP 25.9: Krisenstab i.S. Energiesparmaßnahmen (Anfrage von RM von Borczyskowski)
+- TOP 25.10: Energetische Reduktionsmaßnahmen (Anfrage von RM Wagner)
+- TOP 25.11: Reinigung Kurt-Schumacher-Platz (Anfrage von RM Buskase)
+- TOP 25.12: Bahnhof Epe (Anfrage von RM Buskase)
+- TOP 25.13: Verfahrensstand Umgehungsstraße (K59n) in Epe (Anfrage von RM Krause)
+- TOP 25.14: Zukunft des G-Mobil (Anfrage von RM Buchholz)
+- TOP 25.15: Tag der offenen Tür an der neuen Feuer- und Rettungswache (Anfrage von RM Buß)
+- TOP 25.16: Klimabäume für die Pflanzsaison 2022/23 (Anfrage von RM Buchholz)
