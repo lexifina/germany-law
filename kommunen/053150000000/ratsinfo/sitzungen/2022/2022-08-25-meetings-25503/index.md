@@ -1,0 +1,97 @@
+# 14. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-25T16:00:00+02:00
+- Ende: 2022-08-25T20:40:00+02:00
+- Ort: Quäker Nachbarschaftsheim e.V. Norbert- Burger-Bürgerzentrum, Großer Saal Kreutzerstr. 5-9 50672 Köln Gäste melden sich bitte unbedingt vorab bei der Schriftführung Frau Andrea Brohl per Mail unter andrea.brohl@stadt-koeln.de an.
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25503
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25503
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Erklärung des Bezirksbürgermeisters zur Benennung des Platzes an der Brüderstraße nach Dirk Bach
+- TOP 1.2: Einwohnerfrage: Umsetzungsstand Fahrradstraße Lindenstraße bis Neumarkt (zur Sitzung 02.06.2022)
+- TOP 1.3: Zukünftige Situation der Außengastronomie zwischen Brabanter und Moltkestr. an der Aachener-Straße, auf Antrag Bezirksbürgermeister, Grüne, SPD, Die Linke
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Haushaltsplan 2023/2024 hier: Veranschlagung der bezirksorientierten Mittel 2023/2024 gem. § 37 Abs. 3 der Gemeindeordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 3.2: Genehmigung der Dringlichkeitsentscheidung- Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2022 - ungeändert beschlossen
+- TOP 3.3: Nutzung Chlodwigplatz - Infomobil des Deutschen Bundestages - ungeändert beschlossen
+- TOP 3.4: Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - ungeändert beschlossen
+- TOP 3.4.1: Änderungsantrag der CDU - Fraktion zu TOP Ö.3.4 (Vorlage-Nr. 2264/2032), Antrag CDU - endgültig abgelehnt
+- TOP 3.5: Aktualisierung des Förderprogramms "Dritte Orte" - ungeändert beschlossen
+- TOP 3.6: Sanierung der Schulaula am Berufskolleg 4, Zugweg 48, 50677 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 3.7: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Th - ungeändert beschlossen
+- TOP 3.8: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Eb - ungeändert beschlossen
+- TOP 3.9: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen - ungeändert beschlossen
+- TOP 3.10: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Ha - ungeändert beschlossen
+- TOP 3.11: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 3.12: Ergänzung des Stadtbahnvertrages - Stadtbahnanbindung Mülheimer Süden - ungeändert beschlossen
+- TOP 3.13: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das Jahr 2022 - ungeändert beschlossen
+- TOP 3.14: Ausweitung der Bewohnerreservierung im Bewohnerparkgebiet Deutz I - ungeändert beschlossen
+- TOP 3.15: 283. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.16: Erweiterter Planungsbeschluss über die Umgestaltung Ehrenstraße - ungeändert beschlossen
+- TOP 3.16.1: Änderungsantrag zu 2381/2022, Erweiterter Planungsbeschluss über die Umgestaltung Ehrenstraße, Antrag CDU - endgültig abgelehnt
+- TOP 3.17: Römisch-Germanisches Museum - Weiterplanungsbeschluss zur Sanierung und Baubeschluss für vorgezogene notwendige Maßnahmen - ungeändert beschlossen
+- TOP 3.18: Beratung des Haushaltsplan-Entwurfs 2023/2024 einschließlich der Finanzplanung bis 2027 und der sonstigen Anlagen - geändert beschlossen
+- TOP 3.18.1: 1. Änderungsantrag zum Haushalt TOP 3.18, gem. Änderungsantrag Grüne, SPD, Die Linke, Die Partei und Klimafreunde - ungeändert beschlossen
+- TOP 3.18.2: 2. Änderungsantrag zum Haushalt TOP 3.18, gem. Änderungsantrag Grüne, SPD, Die Linke, Die Partei und KlimaFreunde - ungeändert beschlossen
+- TOP 3.19: Teilaufhebung der Bebauungspläne 6644 Nd 1/16 (674253/16), 67454/09 und 67454/10 Arbeitstitel: Historische Mitte in Köln-Altstadt/Nord Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschlus - ungeändert beschlossen
+- TOP 3.20: Bürgerzentrum Alte Feuerwache - Baubeschluss zur Ertüchtigung Innenhof, Einrichtung Stadtteil-/Holzwerkstatt, Optimierung Entwässerungs-/Kanalanlage - ungeändert beschlossen
+- TOP 3.21: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, Teil II - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: „Waidmarkt“ Aktenzeichen 33/22 B - Temporäre Platzgestaltung Waidmarkt Nord (nördlich Baustelle Gleiswechselbauwerk) - zurückgestellt
+- TOP 4.2: Bürgereingabe nach § 24 GO – „Ausverkauf des Deutzer Hafens stoppen“ - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Mehr umsteigefreie Busverbindungen zum Hauptbahnhof, Antrag FDP - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Zurückweisung der Mitteilung 2211/2022 und Anrufung des Hauptausschusses nach § 44 GO, gem. Antrag Grüne, Die Linke, FDP und Die Partei - geändert beschlossen
+- TOP 5.2.1.1: Stellungnahme zum Antrag der Fraktionen Bündnis 90/Die Grünen, Die Linke. und Mitgliedern der BV 1 Nüsser (FDP) und Kader (Die Partei) betreffend "Zurückweisung der Mitteilung 2211/2022 und Anrufung des Hauptausschusses nach § 44 GO" (AN/1354/2022) - Kenntnis genommen
+- TOP 5.2.2: Erhalt / Neubelebung am Yitzhak Rabin-Platz, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.3: Mehr Bürgerbeteiligung beim Verkehrsversuch Deutzer Freiheit, Antrag CDU - geändert beschlossen
+- TOP 5.2.4: Erhalt der Außengastronomie auf der Aachener Str., Antrag FDP - geändert beschlossen
+- TOP 5.2.4.1: Dringlichkeitsantrag auf Neufassung durch Ergänzung der Vorlage AN/0763/2022 (Ersetzungsantrag zu AN/1302/2022), Antrag CDU - zurückgestellt
+- TOP 5.2.5: Ausweichflächen an den Karnevalstagen, gem. Antrag Grüne, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.6: Antrag nach § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen zu Tempo 30 zur Reduzierung verkehrsbedingten Lärms auf den Hotspots gem. Lärmaktionsplan, insb. auf dem Gotenring und der Justinianstraße, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.7: Neuorganisation Fahrrad- und eScooter-Parken in der Alteburger Straße, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.8: Erzähl Bänke, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.9: Neugestaltung Quartermarkt, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.10: Aufhebung der Uhrzeitbeschränkung von Behindertenparkplätzen, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.11: Antrag auf Neufassung durch Ergänzung der Vorlage AN/2625/2021, Dringlichkeitsantrag CDU - endgültig abgelehnt
+- TOP 5.2.12: Dringlichkeitsantrag Beschilderung Historischer Park Deutz, Antrag CDU - Übergang zum nächsten Tagesordnungspunkt
+- TOP 5.2.13: Konsultationskreis Außengastronomie - Moratorium für einzelne Maßnahmen der Verwaltung, Dringlichkeitsantrag Grüne - geändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Zustände der KVB-Haltestellen in der Innenstadt
+- TOP 6.1.1.1: Zustände der KVB-Haltestellen in der Innenstadt
+- TOP 6.1.2: Parksituation in Deutz, Anfrage CDU
+- TOP 6.1.2.1: Parksituation in Deutz
+- TOP 6.1.3: Gestaltung des Historischen Parks Deutz, Anfrage CDU - zurückgestellt
+- TOP 6.1.4: Neugestaltung Maternuskirchplatz - Sachstandsanfrage, Anfrage Grüne
+- TOP 6.1.4.1: Neugestaltung Maternuskirchplatz
+- TOP 6.1.5: Beantwortung der mündlichen Anfrage aus der BV1 vom 02.06.2022
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Grünflächenwachstum im Vergleich zum Einwohnerwachstum im Stadtbezirk Innenstadt, Anfrage Grüne
+- TOP 6.2.1.1: Beantwortung - Grünflächenwachstum im Vergleich zum Einwohnerwachstum im Stadtbezirk Innenstadt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Benennung des Platzes an der Brüderstraße - Kenntnis genommen
+- TOP 9.2: Beschlüsse im Rahmen der Ost-West-Achse - Kenntnis genommen
+- TOP 9.3: Flächenbericht 2021 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2021 - Kenntnis genommen
+- TOP 9.4: Einwohneranfrage Autostraße Kalkberg (Mülheimer Süden Östlicher Ringschluss) - Kenntnis genommen
+- TOP 9.5: 227. Änderung des Flächennutzungsplanes im Stadtbezirk 1, Arbeitstitel: Deutzer Hafen in Köln-Deutz Hier: Mitteilung über die Offenlage nach §3 Abs. 2 BauGB - Kenntnis genommen
+- TOP 9.6: Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 9.7: Sachstandsbericht - Kenntnis genommen
+- TOP 9.8: Sachstandsbericht "Gotland" - Kenntnis genommen
+- TOP 9.9: Qualitätsbericht 2021 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 9.10: Deutzer Hafen - Nachhaltigkeitshandbuch - Kenntnis genommen
+- TOP 9.11: Rheinboulevard Köln-Deutz - Freilegung und Integration archäologische Funde, hier: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 - Kenntnis genommen
+- TOP 9.12: Umsetzungsstand Fahrradstraße Lindenstraße bis Neumarkt - Kenntnis genommen
+- TOP 9.13: Städtebaugroßprojekt Parkstadt Süd; Eröffnung des Pionierparks am 22. September 2022 - Kenntnis genommen
