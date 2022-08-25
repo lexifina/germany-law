@@ -1,0 +1,88 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-25T18:00:00+02:00
+- Ende: 2022-08-25T19:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22426
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22426
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 2. NachtragsTO Bezirksvertretung 8 am 25.08.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00458362.pdf
+- Ergebnisprotokoll: 2. NachtragsTO Bezirksvertretung 8 am 25.08.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00458362.pdf
+- Wortprotokoll: 2. NachtragsTO Bezirksvertretung 8 am 25.08.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00458362.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 11.08.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 09.06.2022 - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 7: Zuschuss an den Reit- und Pony-Club Düsseldorf e.V. - einstimmig beschlossen
+- TOP 8: Zuschuss an den Düsseldorfer Sportverein 04 Lierenfeld e.V. - einstimmig beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 im Jahre 2022 - einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Parkraumbewirtschaftung im öffentlichen Raum – Vennhauser Allee/Bebelstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 13: Energieberatung im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 14: Energiesparmaßnahmen im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 15: Kanalbaumaßnahme Bunzlauer Weg (Anfrage SPD-Fraktion) - beantwortet
+- TOP 16: Nahversorgung in der Siedlung Tannenhof (Anfrage SPD-Fraktion) - beantwortet
+- TOP 17: Zeitplanung von Radverkehrsmaßnahmen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Rathelbeckstraße 287 - Gehwegbereich (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Beantwortung von Anfragen der Bezirksvertretung 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 20: Bürgersaal Eller (Anfrage SPD-Fraktion) - beantwortet
+- TOP 21: Energiesparen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 22: Bewässerung der Bäume im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 23: Verkehrssituation An der Schützenwiese (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 24: Radweg-Markierung Düssel-Brücke Karlsruher Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Radweg Weinheimer Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Werstener Feld 203 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Südliche Düssel - 2. Bauabschnitt / vorgezogene Pappelfällungen - zur Kenntnis genommen
+- TOP 28: Dynamische Fahrgastinformation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 29: Toilettenanlagen Bürgerpark Am Stufstock und Nachbarschaftspark Eller-Lierenfeld - zur Kenntnis genommen
+- TOP 30: Bio-Hochbeete an städtischen Einrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 31: Heidelberger Straße - Stichstraße am Skaterpark - zur Kenntnis genommen
+- TOP 32: Dillenburger Weg zwischen Sturmstraße und Braunfelsweg - zur Kenntnis genommen
+- TOP 33: Zugang Schlosspark Heidelberger Straße / In der Elb - zur Kenntnis genommen
+- TOP 34: Lärmschutz an der DB-Strecke in Eller - zur Kenntnis genommen
+- TOP 35: Erfurter Weg - zur Kenntnis genommen
+- TOP 36: Kanaldimensionierung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: Nutzung Gebäude Reisholzer Straße 36 - zur Kenntnis genommen
+- TOP 38: Fläche Gubener Straße / Höherhofstraße - zur Kenntnis genommen
+- TOP 39: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Lärmschutz A 46 - zur Kenntnis genommen
+- TOP 41: Vorgarten Rathaus Eller - zur Kenntnis genommen
+- TOP 42: Gertrudisplatz - Polleranlage - zur Kenntnis genommen
+- TOP 43: Machbarkeitsstudie 100-Meter-Brücke - zur Kenntnis genommen
+- TOP 44: Aufstellung von nachhaltigen Hundekotbeutelspendern im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: Grundstück Reisholzer Straße/Am Hackenbruch - zur Kenntnis genommen
+- TOP 46: Radverkehrsführung Kreuzung Vennhauser Allee/ Rothenbergstraße/ Glashüttenstraße - zur Kenntnis genommen
+- TOP 47: Überplanung Reichenbacher Weg zwischen Neusalzer Weg und Eller Kamp - zur Kenntnis genommen
+- TOP 48: Knotenpunkt Rathelbeckstraße / Rothenbergstraße - zur Kenntnis genommen
+- TOP 49: Radweg Schlesische Straße - zur Kenntnis genommen
+- TOP 50: Verkehrswende in Eller - zur Kenntnis genommen
+- TOP 51: Alt-Eller - zur Kenntnis genommen
+- TOP 52: Sturmstraße zwischen Sodener Weg und Dillenburger Weg - zur Kenntnis genommen
+- TOP 53: Verkehrssituation Sturmstraße und Marburger Straße - zur Kenntnis genommen
+- TOP 54: Stadtbaumkonzept für Düsseldorf ( 4. Pflanzperiode) - zur Kenntnis genommen
+- TOP 55: Verkehrsvorhaben Gubener Straße - zur Kenntnis genommen
+- TOP 56: Erneuerung der DB-Eisenbahnüberführungen Rosmarinstraße und Ronsdorfer Straße - zur Kenntnis genommen
+- TOP 57: Zentrenmanagement Gumbertstraße - zur Kenntnis genommen
+- TOP 58: Leerstand „Hammer Markt“ Königsberger Straße - zur Kenntnis genommen
+- TOP 59: Sturmstraße zwischen Sodener Weg und Wetzlarer Weg - zur Kenntnis genommen
+- TOP 60: Denkmalschutz Gebäude Vennhauser Allee 226 - zur Kenntnis genommen
+- TOP 61: Verkehrskonzept Unterbach - zur Kenntnis genommen
+- TOP 62: Bauzaun Gebäude Reisholzer Straße 36 - zur Kenntnis genommen
+- TOP 63: Fahrradbügel im Bereich Gertrudisplatz und Gumbertstraße - zur Kenntnis genommen
+- TOP 64: Stadtbezirk 8 – Zonen für Tempo 30 und Tempo 40 - zur Kenntnis genommen
+- TOP 65: Energieberatung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 66: Energiesparen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 67: Baugenehmigungen - Ersatzpflanzungen - zur Kenntnis genommen
+- TOP 68: Gebäude Gumbertstraße 172 - zur Kenntnis genommen
+- TOP 69: Nutzungsabsichten ehemaliges Lager 61 nebst westlichem Werksgelände und verkehrlichen Auswirkungen auf den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 70: Parkraumbewirtschaftung im öffentlichen Raum – Vennhauser Allee/Bebelstraße - zur Kenntnis genommen
+- TOP 71: Energiesparmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
