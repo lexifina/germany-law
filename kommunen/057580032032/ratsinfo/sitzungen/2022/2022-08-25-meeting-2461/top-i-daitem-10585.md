@@ -1,0 +1,6 @@
+# TOP I.: Öffentliche Sitzung
+
+- Sitzung: Ausschuss für Brandschutz, Bau- und Immobilienmanagement (6. Sitzung) (2022-08-25)
+- Körperschaft: Stadt Spenge
+- Öffentlich: ja
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/10585
