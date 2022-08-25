@@ -1,0 +1,75 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-25T16:00:00+02:00
+- Ende: 2022-08-25T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25306
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25306
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Einholung eines Stimmungsbildes zur Möglichkeit eines Livestreams der Sitzungen des Ausschusses Klima, Umwelt und Grün
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Gemeinsame Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend Invasive Wildgänse in Köln - Sache ist erledigt
+- TOP 1.1.1: Beantwortung der Anfrage gem. §4 der Geschäftsordnung des Rates betreffend Invasive Wildgänse in Köln - Kenntnis genommen
+- TOP 1.2: Gemeinsame Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend Zusätzliche Reinigungsleistungen in der Open-Air-Saison - zurückgestellt
+- TOP 1.3: Gemeinsame Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend Neubewertung von Energiesparmaßnahmen im öffentlichen Raum - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.3.1: Neubewertung von Energiemaßnahmen im öffentlichen Raum, Anfrage aus der Sitzung am 19.05.2022, hier TOP 1 .4 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.4: Anfrage der Fraktion Die Linke betreffend Ausstiegspfad aus Erdgas - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.4.1: Ausstiegspfad aus Erdgas - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.5: Anfrage der Fraktion Die Linke betreffend Veränderte Herkunft der Steinkohle für das HKW Rostock in Folge des Kohleembargos gegen Russland - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.5.1: Veränderte Herkunft der Steinkohle für das HKW Rostock in Folge des Kohleembargos gegen Russland hier: Beantwortung der Anfrage - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Naturschutzgebiet Oberer Mutzbach Der Antrag der FDP-Fraktion wurde unter TOP 4.2.1 behandelt - endgültig zurückgezogen
+- TOP 2.2: Antrag der SPD-Fraktion betreffend Umstellung auf Wärmepumpenversorgung bei Wohnungseigentümergemeinschaften forcieren - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Abriss von vier Sozialhäusern und Neubau von zwei Gebäuden zur öffentlich rechtlichen Unterbringung obdachloser oder von Obdachlosigkeit bedrohter Personen in konventioneller Bauweise sowie Abriss einer Kindertagesstätte und Neubau einer Kindertagess - ohne Votum in nachfolgende Gremien
+- TOP 4.1.2: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ohne Votum in nachfolgende Gremien
+- TOP 4.1.3: Kleingartenordnung Köln - ungeändert empfohlen
+- TOP 4.1.4: Neuwahl eines ordentlichen Mitgliedes für den Naturschutzbeirat bei der Unteren Naturschutzbehörde - ungeändert empfohlen
+- TOP 4.1.5: Sperrung Kitschburger Straße - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Konzept zur Neuausweisung und Erweiterung einzelner Naturschutzgebiete in Köln - geändert beschlossen
+- TOP -: Naturschutzgebiet Oberer Mutzbach - endgültig zurückgezogen
+- TOP 4.2.1.1: Änderungsantrag zu Vorlage 0862/2022 - geändert beschlossen
+- TOP 4.2.2: PFC-Belastung - Kölner Süden - ungeändert beschlossen
+- TOP 4.2.2.1: PFC-Belastung Kölner Süden - Kenntnis genommen
+- TOP 4.2.3: Gestaltungsplanung zur Erweiterung der Kooperationsgrabfeldes "Bestattungsgärten Köln" auf dem Kölner Nordfriedhof - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Stadtklima-/Stadtverschönerungsprogramm 2022 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2022 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.3: Stadtklima-Stadtverschönerungsprogramm 2022 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.4: Stadtradeln 2022 - Kenntnis genommen
+- TOP 7.5: Agglomerationsprogramm Region Köln/Bonn - Kenntnis genommen
+- TOP 7.6: Kooperation Köln und rechtsrheinische Nachbarn (K&RN) - Kenntnis genommen
+- TOP 7.7: Verbraucherberatungsstelle Köln: Jahresbericht 2021 - Kenntnis genommen
+- TOP 7.8: Verbraucherberatung im Quartier: Jahresbericht 2021 - Kenntnis genommen
+- TOP 7.9: Gutachten Holzkohlegrillanlagen - Betriebe in der Weidengasse - Kenntnis genommen
+- TOP 7.10: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 7.11: Bericht über die Entwicklung des Ausbaus der Erneuerbaren Energien im Bereich der RheinEnergie AG - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.12: Entlastungen bei der Steigerung - Kenntnis genommen
+- TOP 7.13: Rheinboulevard Köln-Deutz - Freilegung und Integration archäologische Funde, hier: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 - Kenntnis genommen
+- TOP 7.14: Stadtklima-/Stadtverschönerungsprogramm 2022 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 7.15: Sachstand Kölner Stadttauben-Modell - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.16: Sachstand Nutzung landwirtschaftlicher Flächen und Kriterien zur Verpachtung "Urbane Landwirtschaft in Köln" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.17: Städtebaugroßprojekt Parkstadt Süd; Eröffnung des Pionierparks am 22. September 2022 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.18: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 29. Juli 2022 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung zur Anfrage v. 20.01.2022, Session-Nr. 4269/2021 - Ausschluss von Steingärten - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
