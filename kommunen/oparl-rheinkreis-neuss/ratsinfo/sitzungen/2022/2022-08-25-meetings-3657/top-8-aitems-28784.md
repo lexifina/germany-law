@@ -1,0 +1,6 @@
+# TOP 8: Bericht aus den Gremien des VRR und der KMN
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Mobilitätsausschusses (2022-08-25)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/28784
