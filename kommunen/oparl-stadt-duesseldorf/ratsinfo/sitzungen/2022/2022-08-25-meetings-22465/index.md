@@ -1,0 +1,51 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-25T15:05:00+02:00
+- Ende: 2022-08-25T16:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22465
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22465
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Kulturausschuss Tagesordnung 25.08.2022 (1. Nachtrag) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457315.pdf
+- Ergebnisprotokoll: Kulturausschuss Tagesordnung 25.08.2022 (1. Nachtrag) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457315.pdf
+- Wortprotokoll: Kulturausschuss Tagesordnung 25.08.2022 (1. Nachtrag) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457315.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Bestellung der Schriftführung für den Kulturausschuss - einstimmig beschlossen
+- TOP 3: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 4: Genehmigung der Niederschriften
+- TOP 4.1: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses vom 17.02.2022 - einstimmig beschlossen
+- TOP 4.2: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses vom 24.03.2022 - einstimmig beschlossen
+- TOP 4.3: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses vom 05.05.2022 - einstimmig beschlossen
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsfraktion FDP: Denkmalschutz-Sonderprogramm des Bundes - zur Kenntnis genommen
+- TOP 5.2: Anfrage der Ratsfraktion FDP: Beschilderung für das Forum Freies Theater - zur Kenntnis genommen
+- TOP 6: Anträge
+- TOP 6.1: Antrag der Ratsfraktion DIE LINKE: Konzept zur Nutzung von Freiflächen für Kulturevents - abweichend beschlossen
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Deutsche Oper am Rhein - Opernhaus der Zukunft - Durchführung des städtebaulichen Ideenwettbewerbs und Umsetzung der 2. Phase der Öffentlichkeitsbeteiligung - passieren lassen
+- TOP 7.2: Deutsche Oper am Rhein - Opernhaus der Zukunft, Einrichtung eines Projektbeirates und dessen zugehörige Mitglieder - passieren lassen
+- TOP 7.3: Deutsche Oper am Rhein - Opernhaus der Zukunft, Mehrkosten bis zur Standortentscheidung - passieren lassen
+- TOP 7.4: Grabbeplatz 4, Kunsthalle - Erneuerung der Wärmeversorgung, Heizungsverteilung und Regelungstechnik -Änderungsbeschluss - einstimmig beschlossen
+- TOP 7.5: Kulturentwicklungsplan KEP: Kulturamt der Zukunft - zur Kenntnis genommen
+- TOP 7.6: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur der Landeshauptstadt Düsseldorf 2022 - einstimmig beschlossen
+- TOP 7.7: Düsseldorfer Jahrbuch 92 (2022) - einstimmig beschlossen
+- TOP 7.8: Förderung Buchprojekt "50 Jahre Freies Theater in Düsseldorf" - einstimmig beschlossen
+- TOP 7.9: Beirat für kulturelle Bildung - Sitzung am 11.08.2022 - Für die Förderung empfohlene Projekte - einstimmig beschlossen
+- TOP 7.10: NRW-Landesprogramm Kultur und Schule - Schuljahr 2022/23 - zur Kenntnis genommen
+- TOP 7.11: Aktualisiertes Entwicklungskonzept zur Sonntagsöffnung von Stadtbüchereien - zur Kenntnis genommen
+- TOP 7.12: Kunst am Bau Wettbewerb - Thomas-Edison-Realschule - einstimmig beschlossen
+- TOP 7.13: Nutzung der Tonhalle zu ermäßigten Konditionen - einstimmig beschlossen
+- TOP 7.14: Mahn- und Gedenkstätte - Ausstellungsprogramm 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 7.15: Stadtmuseum - Ausstellungsprogramm 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 7.16: Heinrich-Heine-Institut - Ausstellungsprogramm 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 7.17: Goethe-Museum - Ausstellungsprogramm 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 7.18: HETJENS - Deutsches Keramikmuseum - Ausstellungsprogramm 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 7.19: SchifffahrtMuseum - Ausstellungsprogramm 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 7.20: Internetseite mit Informationen zur Umsetzung nachhaltiger Veranstaltungen - zur Kenntnis genommen
+- TOP 7.21: Verschiedenes - zur Kenntnis genommen
