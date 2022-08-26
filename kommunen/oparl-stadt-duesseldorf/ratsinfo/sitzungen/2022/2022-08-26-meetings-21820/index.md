@@ -1,0 +1,91 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-26T16:00:00+02:00
+- Ende: 2022-08-26T18:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21820
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21820
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Einladung 2. Nachtrag 26.08.2022; Stand 25.08.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00458385.pdf
+- Ergebnisprotokoll: BV9 Einladung 2. Nachtrag 26.08.2022; Stand 25.08.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00458385.pdf
+- Wortprotokoll: BV9 Einladung 2. Nachtrag 26.08.2022; Stand 25.08.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00458385.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 06.05.2022 und 10.06.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Vorstellung Kinder- und Jugendförderplan 2021-2025
+- TOP 6: Rhein-Ruhr-Express (RRX) - Aktueller Stand und Bericht zur Dialogveranstaltung vom 10.06.2022
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Dritte Anpassung des Friedhofsentwicklungskonzeptes im Bereich des Friedhofs Itter - Empfehlung mehrheitlich beschlossen
+- TOP 7.5: Hochwasserschutzmaßnahme „Schließung der Deichlücke in der Ortslage Himmelgeist, Eindeichung Himmelgeist Bereich 1 – Schlossmeierhof“ Vorlaufende Rodungen - Information - - zur Kenntnis genommen
+- TOP 7.6: Hochwasserschutzmaßnahme „Schließung der Deichlücke in der Ortslage Himmelgeist, Eindeichung Himmelgeist Bereich 2 - Direkte Ortslage“ Vorlaufende Rodungen - Information - - zur Kenntnis genommen
+- TOP 7.7: Sachstand zum Gebiet des D.Port / Reisholzer Hafens - zur Kenntnis genommen
+- TOP 7.8: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2022 - einstimmig beschlossen
+- TOP 7.9: Zuschuss an den Verein Lauftreff Düsseldorf-Süd e.V. - einstimmig beschlossen
+- TOP 7.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste C - einstimmig beschlossen
+- TOP 7.11: Plan Nr. 09/031 - Südlich Hildener Straße - Empfehlung einstimmig beschlossen
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.13: Stadtbaumkonzept für Düsseldorf ( 4. Pflanzperiode) - zur Kenntnis genommen
+- TOP 8: Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Kleinspielfeld am „Lauftreff-Süd“ Paulsmühlenstraße - Anfrage der Fraktion Bündnis 90/ Die Grünen - beantwortet
+- TOP 9: Aktuelle Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anträge
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.6: Taktverdichtung Stadtbahnnetz - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 10.7: Sachstandsbericht Energiesparen - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 10.8: Fahrradabstellanlage an der Burscheider Straße - Antrag von Dr. Michael Wolter; SPD - einstimmig beschlossen
+- TOP 10.9: Mobilstationen für die Benrather Rochade - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 10.10: Sachstand Umbau der Gleisanlagen und der Haltestellen im Bereich des „Kamper Acker“ in Holthausen - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 10.11: Planung „Benrather Schloßufer“ - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 10.12: Sachstand Planung „Umfeld Bahnhof Benrath“ - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 10.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.15: Radfahrsituation im Kreuzungsbereich Am Alten Rhein/ Urdenbacher Dorfstr. - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 10.16: Fischtreppe Benrather Schloßufer - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 11: Verfügungsmittel
+- TOP 11.1: Chorverband Düsseldorf e.V. - Kultur Zuschuss 2022 - einstimmig beschlossen
+- TOP 11.2: Allgemeiner Bürgerverein Urdenbach e. V. - 100 jähriges Jubiläum - einstimmig beschlossen
+- TOP 11.3: St. Hubertus-Schützenbruderschaft e. V. Itter - Sanierungsmaßnahmen und energetische Verbesserungen - einstimmig beschlossen
+- TOP 11.4: Theodor-Litt-Realschule - Coolnesstraining der Jahrgangsstufe 5 - 2022 - einstimmig beschlossen
+- TOP 11.5: Ernst-Lange-Haus - Diakonie Düsseldorf - Stadtteilfest "kumm' erus" - einstimmig beschlossen
+- TOP 11.6: "Tom de Toys" - Live-Literatur-Performance Lesung: "Poesiepandemie: Lyrik Lebt weiter" in der Stadtteilbibliothek Wersten - einstimmig beschlossen
+- TOP 11.7: Heimatgemeinschaft Groß-Benrath e.V. - Sommerfest 2022 - einstimmig beschlossen
+- TOP 11.8: KGS St. Apollinaris, Itterstraße - Schulobst und -gemüse im Sinne des gesunden Frühstücks - einstimmig beschlossen
+- TOP 12: Informationsvorlagen
+- TOP 12.1: Lärmbelästigung durch Straßenschäden auf der Bonner Straße - Beschluss der Bezirksvertretung 9 vom 18,03.2022; BV9/057/2022 - zur Kenntnis genommen
+- TOP 12.2: Radverkehr Benrather Schloßufer - Beschluss der Bezirksvertretung 9 vom 18.03.2022; BV9/059/2022 - zur Kenntnis genommen
+- TOP 12.3: Mittelstreifen Hildener Straße, Vorlage BV9/046/2022 - Beschluss der Bezirksvertretung 9 vom 10.06.2022; BV9/128/2022 - zur Kenntnis genommen
+- TOP 12.4: Kreisverkehr Koblenzer Straße/ Südallee - Beschluss der Bezirksvertretung 9 vom 06.05.2022; BV9/102/2022 - zur Kenntnis genommen
+- TOP 12.5: Installation von Fahrrad-Reparatur-Stationen im Stadtbezirk 9 - Beschluss der Bezirksvertretung 9 vom 18.03.2022; BV9/056/2022 - zur Kenntnis genommen
+- TOP 12.6: Sicherung der Kreuzung Süllenstraße/ Bamberger Straße - Beschluss der Bezirksvertretung 9 vom 28.01.2022; BV9/019/2022 - zur Kenntnis genommen
+- TOP 12.7: Parkplatzsituation Am Steinebrück - Beschluss der Bezirksvertretung 9 vom 10.06.2022; BV/140/2022 - zur Kenntnis genommen
+- TOP 12.8: Schulwegsicherung Am Bärenkamp 15-17 - Nachtrag zur Informationsvorlage vom 26.11.2021; BV9/297/2021 - zur Kenntnis genommen
+- TOP 12.9: Knotenpunkt-Wegweisung - Beschluss der Bezirksvertretung 9 vom 28.01.2022; BV9/016/2022 - zur Kenntnis genommen
+- TOP 12.10: Verkehrshelfer am Zebrastreifen Werstener Feld Ecke Opladener Straße - Beschluss der Bezirksvertretung 9 vom 10.06.2022; BV9/134/2022 - zur Kenntnis genommen
+- TOP 12.11: Ruhender Verkehr Himmelgeister Landstraße - Beschluss der Bezirksvertretung 9 vom 10.06.2022; BV9 139/2022 - zur Kenntnis genommen
+- TOP 12.12: Sonnenschutz auf dem Spielplatz An der Ziegelei - Beschluss der Bezirksvertretung 9 vom 10.06.2022; BV9/136/2022 - zur Kenntnis genommen
