@@ -1,0 +1,79 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-26T14:00:00+02:00
+- Ende: 2022-08-26T17:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21835
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21835
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457043.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457043.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457043.pdf
+
+## Tagesordnung
+
+- TOP 1: Wahl der 2. stellvertretenden Bezirksbürgermeisterin beziehungsweise des 2. stellvertretenden Bezirksbürgermeisters
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 10.06.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Königsallee 21,23 - Teilabbruch des Gebäudes - vertagt
+- TOP 5.4: Weihnachtsmarkt auf der Nordstraße vom 17.11.2022 bis 23.12.2022 - einstimmig beschlossen
+- TOP 5.5: Weihnachtsmarkt auf dem Münsterplatz vom 17.11.2022 bis 30.12.2022 - einstimmig beschlossen
+- TOP 5.6: Initialisierung einer verpflichtenden Immobilien- und Standortgemeinschaft (ISG) im Bereich der Graf-Adolf-Straße gefördert durch das Sofortprogramm des Landes NRW - zur Kenntnis genommen
+- TOP 5.7: Berichtswesen Bezirksvertretung 1 - 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 5.8: 01/025 Hans-Böckler-Straße 39 - Städtebaulich-architektonischer Wettbewerb - Empfehlung einstimmig beschlossen
+- TOP 5.9: Bebauungsplanverfahren Nr. 01/017 - Kennedydamm 55 - Empfehlung mehrheitlich abgelehnt
+- TOP 5.10: Ausführungssbeschluss Platz- und Freiraumplanung Heinrich-Heine-Platz - Empfehlung mehrheitlich beschlossen
+- TOP 5.11: Stadtbaumkonzept für Düsseldorf ( 4. Pflanzperiode) - zur Kenntnis genommen
+- TOP 5.12: Deutsche Oper am Rhein - Opernhaus der Zukunft - zur Kenntnis genommen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Ausreichend Platz für Rad- und Fußverkehr während Veranstaltungen auf dem Burgplatz - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 6.2: Gebäude Poststraße 18 - Anfrage der FDP-Fraktion - beantwortet
+- TOP 6.3: Baumaßnahmen ehemaliges Telekomgebäude Moltkestraße 23 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 6.4: Radwegeführung Kreuzstraße Ecke Steinstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 6.5: Wartung der denkmalgeschützten Gaslaternen - Anfrage der SPD-Fraktion - beantwortet
+- TOP 7: Anfragen
+- TOP 7.1: Begrünungskonzept für die Schadowstraße (Bereich zwischen Berliner Allee und Jacobistraße) - Anfrage der FDP-Fraktion
+- TOP 7.2: Reinigungsintervalle der AWISTA auf der Schadowstraße (Bereich zwischen Berliner Allee und Jacobistraße) - Anfrage der FDP-Fraktion - beantwortet
+- TOP 7.3: Archiv des Goethemuseums (Anton- und Katharina-Kippenberg-Stifung) - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 7.4: Dauerhafte Verkehrsberuhigung und Aufwertung der Mühlenstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- TOP 8: Anträge
+- TOP 8.1: Antrag auf mindestens je zwei Baumpflanzungen in Wagnerstraße und Liebigstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.2: Bericht zur Umsetzung der Parkanlage mit Spielflächen im Schlösser-Areal am alten Schlachthof mit der Bitte um die Errichtung eines Spielplatzes - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.3: Rasenpflege / -schnitt im Berty-Albrecht-Park, Maurice-Ravel-Park und an den Rheinwiesen - überfraktioneller Antrag - zurückgestellt
+- TOP 8.4: Bücherschrank auf dem Maria-und-Josef-Otten-Platz - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.5: Schutz von Baumscheiben auf der Worringer Straße durch mehr Fahrradabstellanlagen - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.6: Energie-Sparprogramm der Landeshauptstadt Düsseldorf - Hier: Vorstellung der Maßnahmen des Krisenstabes - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.7: Tempo 10 für Radfahrer auf der Schadowstraße im Bereich zwischen Berliner Allee und Jacobistraße - Antrag der FDP-Fraktion - zurückgezogen
+- TOP 8.8: Verkehrssituation Toulouser Allee – Zufahrtsstraße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8.9: Versetzung der Fahrradständer an der Hafenstraße 4 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 9.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 9.2: Aufhebung der Einbahnstraßenregelung für Radfahrer*innen an der Louise-Dumont-Straße; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/078/2022 - zur Kenntnis genommen
+- TOP 9.3: Entfernen der Graffiti an der Cecilienallee 1; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/127/2022 - zur Kenntnis genommen
+- TOP 9.4: Reinigen und Beseitigen von Wildwuchs an der Mariensäule; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/040/2022 - zur Kenntnis genommen
+- TOP 9.5: Ausstattung der Bolzplätze mit Basketballkörben; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/131/2022 - zur Kenntnis genommen
+- TOP 9.6: Mögliche Ladestationen für Elektrofahrzeuge (Inselstraße / Uerdinger Straße); Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/125/2022 - zur Kenntnis genommen
+- TOP 9.7: Verlegung des Straßenrand-Parkens an der Klosterstraße, Ecke Charlottenstraße; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/052/2022 - zur Kenntnis genommen
+- TOP 9.8: Verbesserung der (Verkehrs-)sicherheit an der Schirmerstraße, Beuthelstraße, Schinkelstraße und Wielandstraße; Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/079/2022 - zur Kenntnis genommen
+- TOP 9.9: Zebrastreifen auf der Oederallee; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/081/2022 - zur Kenntnis genommen
+- TOP 9.10: Behebung loser Pflastersteine auf der Kaiserswerther Straße; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/129/2022 - zur Kenntnis genommen
+- TOP 9.11: Reparaturstationen für Fahrräder; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/130/2022 - zur Kenntnis genommen
+- TOP 9.12: Fahrradständer Ecke Schirmer-/Schinkelstraße; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/137/2022 - zur Kenntnis genommen
+- TOP 9.13: Verlängerung der Fußgängerzone Berger Allee; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/132/2022 - zur Kenntnis genommen
+- TOP 9.14: Fortführung des Radweges auf der Benrather Straße in Richtung Königsallee mit Hilfe einer Leipziger Kombispur; Beschluss der Bezirksvertretung 1 vom 23.08.2022; BV1/104/2022 - zur Kenntnis genommen
+- TOP 9.15: Deutliche Kennzeichnung des Radweges auf der Prinz-Georg Straße/Ecke Moltkestraße; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/136/2022 - zur Kenntnis genommen
+- TOP 9.16: Einbahnstraßenregelung Tannenstraße; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/072/2022 - zur Kenntnis genommen
+- TOP 9.17: Einbahnstraßenregelung auf der Bülowstraße; Beschluss der Bezirksvertretung 1 vom 26.11.2021; BV1/259/2021 - zur Kenntnis genommen
+- TOP 9.18: Instandsetzung und ggf. Ersatz der maroden Skateranlagen im Bezirk 1; Beschluss der Bezirksvertretung 1 vom 30.04.2021; BV1/094/2021 - zur Kenntnis genommen
+- TOP 9.19: Oststraße Hausnummer 119 bis Ecke Bismarckstraße - Einrichtung einer Lieferzone und Aufstellung einer Fahrradabstellanlage; Beschluss der Bezirksvertretung 1 vom 13.05.2022; BV1/103/2022 - zur Kenntnis genommen
+- TOP 9.20: Verbesserung der Beleuchtung des Gedenksteins für die alte Synagoge; Beschluss der Bezirksvertretung 1 vom 24.01.2020; BV1/032/2020 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf - einstimmig beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an TheaterLabor TraumGesicht e.V. - einstimmig beschlossen
