@@ -443,11 +443,11 @@ erbrachter Leistung](0281.md)
 
 - [§ 312i Allgemeine Pflichten im elektronischen Geschäftsverkehr](0312i.md)
 - [§ 312j Besondere Pflichten im elektronischen Geschäftsverkehr gegenüber Verbrauchern](0312j.md)
+- [§ 312k Kündigung von Verbraucherverträgen im elektronischen Geschäftsverkehr](0312k.md)
+- [§ 312l Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen](0312l.md)
 
 ##### Kapitel 4 Abweichende Vereinbarungen und Beweislast
 
-- [§ 312k Kündigung von Verbraucherverträgen im elektronischen Geschäftsverkehr](0312k.md)
-- [§ 312l Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen](0312l.md)
 - [§ 312m Abweichende Vereinbarungen und Beweislast](0312m.md)
 
 ##### Untertitel 3 Anpassung und Beendigung von Verträgen
