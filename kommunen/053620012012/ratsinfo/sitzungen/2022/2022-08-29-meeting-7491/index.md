@@ -1,0 +1,57 @@
+# Rat (12. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-08-29T18:02:00+02:00
+- Ende: 2022-08-29T21:50:00+02:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQp5CCEIiwLHNZUSUJ0Vm3o
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7491
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTZ7DwT9Xq7DYhbdHtvL1jRTVmLOpk-IDQaudOYUrJBK/Bekanntmachung_Rat_29.08.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS4QkxwF5g7oJNzUWwCTA4ey7xKA93kXJfHqABpkqRpt/Oeffentliche_Niederschrift_Rat_29.08.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Nichtöffentliche Sitzung
+- TOP 1.: Stellenausschreibungsverfahren Technische/r Beigeordnete/r Bezug: Vorlagen-Nr.: 369/2022, HA 15.08.2022
+- TOP 2.: Nutzungs- und Entgeltordnung für die Versammlungsstätte Galerie am Schloss - (kein Text vorhanden)
+- TOP 3.: Mitteilungen
+- TOP 4.: Anfragen
+- TOP B): Öffentliche Sitzung
+- TOP 5.: Einführung und Verpflichtung eines neuen Ratsmitgliedes hier: Michael Rosemeyer (Grüne)
+- TOP 6.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 7.: Niederschrift vom 13.06.2022
+- TOP 8.: Verleihung der Ehrenplakette der Stadt Brühl - (kein Text vorhanden)
+- TOP 9.: Audio-Live-Stream der Sitzungen des Rates der Stadt Brühl
+- TOP 10.: Kultur- und Festivalprogramm 2023 - (kein Text vorhanden)
+- TOP 11.: Nutzungs- und Entgeltordnung Clemens August-Forum - (kein Text vorhanden)
+- TOP 12.: Ordnung für das Sponsoring der Stadt Brühl und ihrer Einrichtungen (Sponsoringordnung) - (kein Text vorhanden)
+- TOP 13.: Wiederaufbauplan nach Naturkatastrophe Juli 2021 - (kein Text vorhanden)
+- TOP 14.: Annahme und Verwendung eines Vermächtnisses - (kein Text vorhanden)
+- TOP 15.: Berichtspflicht zu den Aufwendungen und Erträgen bezüglich der Aufnahme und Unterbringung von Kriegsvertriebenen aus der Ukraine
+- TOP 16.: 1. Zwischenbericht zur Haushaltslage 2022 zum 30.06.2022 mit Prognose zum 31.12.2022
+- TOP 17.: Größenabhängige Befreiung von der Aufstellung des Gesamtabschlusses für das Jahr 2021 gem. § 116a GO NRW - (kein Text vorhanden)
+- TOP 18.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 18.1: Rathaus B -Terminplanung und überplanmäßige Mittelbereitstellung Bezug: Rathaus B -Budget- und Terminplananpassungen, Vorlagen- Nr.: 460/2021, HA 04.10.2021 - (kein Text vorhanden)
+- TOP 18.2: Überplanmäßige Mittelbereitstellung für die Errichtung zweier Containerklassen an der Pestalozzischule - (kein Text vorhanden)
+- TOP 18.3: Überplanmäßige Mittelbereitstellung für die Herrichtung Flüchtlingsunterkünfte - (kein Text vorhanden)
+- TOP 18.4: Kindertagesbetreuung in Einrichtungen hier: Finanzierung der Erweiterung der evangelischen Kindertagesstätte Rodderweg; Erhöhung des Zuschussbetrages wegen Kostensteigerung - (kein Text vorhanden)
+- TOP 19.: Mitgliedschaft im Bundesverband GebäudeGrün e.V. (BuGG) - (kein Text vorhanden)
+- TOP 20.: Gesellschafterversammlung Stadtwerke hier: Beschluss über den Jahresabschluss 2021 der Stadtwerke, des Konzerns (Stadt-werke und Gebausie zusammen) und der Stadtwerke Brühl Verkehrs GmbH (SWBV) - (kein Text vorhanden)
+- TOP 21.: Anträge
+- TOP 21.1: Einführung des digitalen Bürgerbeteiligungstools „openDemokratie“ Bezug: Antrag der AfD-Fraktion vom 26.07.2022
+- TOP 21.1.1: Einführung des digitalen Bürgerbeteiligungstools „openDemokratie“ Bezug: Antrag der AfD-Fraktion vom 26.07.2022; Vorlage 364/2022
+- TOP 22.: Umbesetzung in Ausschüssen
+- TOP 22.1: Umbesetzung in Ausschüssen Bezug: Antrag der Grünen-Fraktion vom 05.08.2022 - (kein Text vorhanden)
+- TOP 22.2: Umbesetzung in Ausschüssen Bezug: Antrag der CDU-Fraktion vom 21.08.2022 - (kein Text vorhanden)
+- TOP 23.: Mitteilungen
+- TOP 24.: Anfragen
+- TOP 24.1: Kiesgrube Brühl-Schwadorf
+- TOP 24.2: Bahnhofsvorplatz
+- TOP 24.3: Verschiedene Arbeitskreise
+- TOP 24.4: Rathaus-Neubau
+- TOP 24.5: Digitalisierung Bürgerdienste
+- TOP 24.6: Verunreinigung durch Hundekot
+- TOP 24.7: Frauenförderprojekt
