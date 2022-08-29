@@ -1,0 +1,83 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-29T17:05:00+02:00
+- Ende: 2022-08-29T21:50:00+02:00
+- Ort: Aula - Gymnasium Rodenkirchen  Sürther Str. 55 50996 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25485
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25485
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: TOP B Durchführung einer Aktuellen Stunde: mögliche Umgestaltung der Vorgebirgstraße - Grundlagen, Gemeinsamer Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Baustellenverkehr im Zusammenhang mit dem Abriss und Neubau des Bezirksrathauses in Köln-Rodenkirchen - zur Anfrage der FDP-Fraktion AN/1167/2022 - Kenntnis genommen
+- TOP 7.1.2: Starkregenereignisse: Konsequenzen bei zukünftigen Bebauungen und Bauleitplanverfahren, Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0405/2022) aus der Sitzung am 07.03.2022 - Kenntnis genommen
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.4: Vandalismus an Schulen im Stadtbezirk Köln-Rodenkirchen, Beantwortung der Anfrage der FDP-Fraktion aus der Sitzung am 02.05.2022 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Angebot an Schulplätzen in Eingangsklassen an Grundschulen und weiterführenden Schulen im Stadtbezirk Köln-Rodenkirchen zum Schuljahr 2022/2023, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Baumfehlstellen Gottesweg, Anfrage der Fraktion Bündnis 90/Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Fassadenbegrünung, Anfrage der Fraktion Bündnis 90/Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Neupflanzungen von Bäumen auf dem Kalscheurer Weg, Anfrage der Fraktion Bündnis 90/Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Sachstand Umgestaltung Spielplatz Zum Hedelsberg / Im Salzgrund in Weiß, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Auswirkung der Energieeinsparungen im Stadtbezirk Rodenkirchen, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Verkauf von städtischen Grundstücken neben der Bonner Str. 536-540, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Einhalten der Reaktionszeiten der Rettungsdienste und Rettungsdienstbedarfsplan, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3: Unbeantwortete Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Nutzungen des Maternusplatzes und des Marktplatzes in Sürth 2023, Gemeinsamer Antrag aller Fraktionen - ungeändert beschlossen
+- TOP 8.1.2: Durchgehende Nord-Süd-Fahrradverbindung zwischen Schönhauser Straße und Militärring über Schillerstraße, Goethestraße und Schillingsrotter Weg, Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.3: Streetballfläche Merlinweg Rondorf, Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion - Sache ist erledigt
+- TOP 8.1.3.1: Streetballfläche Merlinweg Rondorf, Modifizierter gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.4: Rodenkirchen Hauptstraße: Teilw. Einrichtung einer Einbahnstraße mit Fahrradspur; Antrag der Fraktion Bündnis 90/Die Grünen - geändert beschlossen
+- TOP 8.1.4.1: Zusatzantrag zu TOP 8.1.4 – Teilw. Einrichtung einer Einbahnstraße mit Fahrradspur - geändert beschlossen
+- TOP 8.1.4.2: Rodenkirchen Hauptstraße: Teilw. Einrichtung einer Einbahnstraße mit Fahrradspur - endgültig abgelehnt
+- TOP 8.1.5: Erhöhung der Verkehrssicherheit Zaunhofstraße zwischen Immendorf und Meschenich, Antrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 8.1.6: Hinweisschilder zum Friedhof Trenkebergstraße in Köln-Meschenich, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Sürther Leinpfad, Sanierung der Lindemauer: Rückbau-Verzicht, Gemeinsamer Antrag aller Fraktionen - ungeändert beschlossen
+- TOP 8.2.1.1: Stellungnahme der Stadtentwässerungsbetriebe Köln, AöR zu AN/1336/2022 - Kenntnis genommen
+- TOP 8.2.2: Radpendlerroute Köln Bonn, Antrag der Fraktion Bündnis 90/Die Grünen - ungeändert empfohlen
+- TOP 8.2.3: Anbringung von Standortnummern an Mülleimern im öffentlichen Raum für ein sauberes Straßenbild im Stadtbezirk Köln-Rodenkirchen, Antrag der FDP-Fraktion - mit Änderungen empfohlen
+- TOP 8.2.3.1: Zusatzantrag zu TOP 8.2.3 – Anbringung von Standortnummern an Mülleimern im öffentlichen Raum für ein sauberes Straßenbild im Stadtbezirk Köln-Rodenkirchen - Sache ist erledigt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planung der Änderung der Verkehrsführung in der Cäsarstraße und Schillerstraße in Bayenthal, Einrichtung einer Einbahnstraße - geändert beschlossen
+- TOP 9.1.1.1: Geplante Änderung der Verkehrsführung in der Cäsarstraße und Schillerstraße in Bayenthal - geändert beschlossen
+- TOP 9.1.2: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.1.3: Temporäre Änderung der Verkehrsführung auf der Sürther Feldallee - geändert beschlossen
+- TOP 9.1.4: Beratung der Haushaltsplan-Entwurfs 2023/2024 einschließlich der Finanzplanung bis 2027 und der sonstigen Anlagen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Parkgebührenregelung an E-Ladesäulen - ungeändert empfohlen
+- TOP 9.2.2: Aktualisierung des Förderprogramms "Dritte Orte" - ungeändert empfohlen
+- TOP 9.2.3: Beschluss über die Einleitung betreffend die vereinfachte Änderung des Bebauungsplanes Nummer 6439.02; - ungeändert empfohlen
+- TOP 9.2.4: 283. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.2: Stellungnahme zum Antrag gem. § 3 der Geschäftsordnung des Rates zur Neufassung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - Kenntnis genommen
+- TOP 10.2.3: Flächenbericht 2021 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2021 - Kenntnis genommen
+- TOP 10.2.4: Kennzeichnung und Bürgerinformation an Ausgleichsflächen im Bezirk Rodenkirchen - Kenntnis genommen
+- TOP 10.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.6: Beteiligung der Öffentlichkeit gemäß § 3 Absatz 1 BauGB in Verbindung mit § 13 Absatz 2 BauGB nach Modell 1; Städtebauliches Planungskonzept zur Änderung des Bebauungsplanes Nummer 69370/02Arbeitstitel: Kiesgrubenweg in Köln-Hahnwald, 1. Änderung - Kenntnis genommen
+- TOP 10.2.7: Zweiter Sachstandsbericht der Arbeitsgruppe Kölnberg - Kenntnis genommen
+- TOP 10.2.8: Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 10.2.9: Bürgerbeteiligung zu einer möglichen Umgestaltung der Vorgebirgstraße in Zollstock - Kenntnis genommen
+- TOP 10.2.10: Qualitätsbericht 2021 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.11: Städtebaugroßprojekt Parkstadt Süd; Eröffnung des Pionierparks am 22. September 2022 - Kenntnis genommen
+- TOP 10.2.12: Sachstand zum Bezirksrathaus Rodenkirchen, Stand 1. August 2022 - Kenntnis genommen
+- TOP 10.2.13: Neupflanzungen von Bäumen auf dem Kalscheurer Weg - Kenntnis genommen
