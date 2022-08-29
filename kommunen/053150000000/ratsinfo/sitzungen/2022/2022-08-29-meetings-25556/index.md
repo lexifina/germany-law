@@ -1,0 +1,83 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-29T16:00:00+02:00
+- Ende: 2022-08-29T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25556
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25556
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde Verkehrsschilder Aachener Straße
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Umgestaltung Friedrich-Schmidt-Straße (Az.: 02-1600-54-22) - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Masterplan Grüngürtel Impuls 2012 - Kenntnis genommen
+- TOP 7.1.2: Kriterien für die Genehmigung von Außengastronomie an der Dürener Straße AN/0917/2022 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Außengastronomie Dürener Straße - Kenntnis genommen
+- TOP 7.2.2: Anfrage Saarstraße - zurückgestellt
+- TOP 7.2.3: Anfrage Gymnasium Zusestraße - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: E-Ladestation Am Mertenshof/Auf der Aspel - ungeändert beschlossen
+- TOP 8.1.2: Bebauungsplan für Stüttgenweg 2 - ungeändert beschlossen
+- TOP 8.1.3: Karneval auf der Uniwiese - ungeändert beschlossen
+- TOP 8.1.4: Abstellzonen für Leihfahrzeuge - ungeändert beschlossen
+- TOP 8.1.5: Fahrradabstellplätze Lechenicher Straße - ungeändert beschlossen
+- TOP 8.1.6: Benennung Gymnasium Aachener Straße - ungeändert beschlossen
+- TOP 8.1.7: "Fussfall"-Bilderstöcke (Marienbilder) in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.8: Konradstraße-Änderung der Fahrtrichtung - ungeändert beschlossen
+- TOP 8.1.9: Ampelscheiben für Alle - ungeändert beschlossen
+- TOP 8.1.10: Fußgängerfreundliche Ampel Widdersdorfer Straße / Vitalisstraße - ungeändert beschlossen
+- TOP 8.1.11: Fußgängerfreundliche Signalanlagen - ungeändert beschlossen
+- TOP 8.1.12: Verbesserung der Verkehrssituation an der Kreuzung Sülzburgstr. und Berrentaher Str. - ungeändert beschlossen
+- TOP 8.1.13: Halteverbotszone Vitalisstraße - endgültig zurückgezogen
+- TOP 8.1.13.1: Ersetzungsantrag zu 8.1.13 - geändert beschlossen
+- TOP 8.1.13.2: Ergänzungsantrag zu 8.1.13 - ungeändert beschlossen
+- TOP 8.1.14: Antrag über Bewilligung der bezirksorientierten Mittel 2022 - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: -Genehmigung DE-Ordnungsbehördliche Verordnung für das Jahr 2022 über das Offfenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9.1.2: zus. Hundefreilaufflächen in Widdersdorf und Müngersdorf - ungeändert beschlossen
+- TOP 9.1.3: Beschluss über die Verwendung der bezirksbezogenen Haushaltsmittel gem. §37 Abs. 3 GO NRW für das Haushaltsjahr 2023/2024 der Bezirksvertretung Lin-denthal. - ungeändert beschlossen
+- TOP 9.1.4: Beratung der Haushaltsplan-Entwurfs 2023/2024 einschließlich der Finanzplanung bis 2027 und der sonstigen Anlagen - geändert beschlossen
+- TOP 9.1.4.1: Ergänzungsantrag zu 9.1.4 - ungeändert beschlossen
+- TOP 9.1.5: Mitgliedsbeitrag für Städte-Partnerschafts-Club e.V. Castle Point – Diepenbeek – Igny – Köln - Stadtbezirk 3. - ungeändert beschlossen
+- TOP 9.1.6: Nachbesetzungen im Rahmenplanungsbeirat - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Verschoben nach TOP 11.3.4. , Beschluss wurde in Mitteilung umgewandelt
+- TOP 9.2.2: Aktualisierung des Förderprogramms "Dritte Orte" - ungeändert beschlossen
+- TOP 9.2.3: Bedarfsfeststellungs- und Planungsbeschluss zur Neugestaltung des Gürtels einschließlich barrierefreiem Ausbau von 10 Stadtbahnhaltestellen der Linie 13 zwischen Venloer Straße/Gürtel und Berrenrather Straße/Gürtel - geändert beschlossen
+- TOP 9.2.4: Zweite Ordnungsbehördliche Verordnung für das Jahr 2022 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9.2.5: Sperrung Kitschburger Straße - ungeändert beschlossen
+- TOP 9.2.6: Planungsbeschluss: Verkehrliche und gestalterische Optimierung der Aachener Straße in Braunsfeld - zurückgestellt
+- TOP 9.2.6.1: Ergänzungsantrag zu 9.2.6 - zurückgestellt
+- TOP 9.2.7: -TOP entfernt-
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Flächenbericht 2021 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2021 - Kenntnis genommen
+- TOP 11.1.2: Sportentwicklungsplanung: Kinder- und Jugendsportförderung - Kenntnis genommen
+- TOP 11.1.3: Fahrplanwechsel 2022 - Vorzeitige Verschwenkung der Buslinie 149 zur Anbindung des Gymnasiums Zusestraße ab August 2022 - Kenntnis genommen
+- TOP 11.1.4: Qualitätsbericht 2021 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 11.3.2: Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 11.3.3: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) vorhabenbezogener Bebauungsplan-Entwurf Nummer 63457/03; Arbeitstitel: Wohnbebauung Alsdorfer Straße in Köln-Braunsfeld/-Ehrenfeld - Kenntnis genommen
+- TOP 11.3.4: Stellungnahme zum Antrag gem. § 3 der Geschäftsordnung des Rates zur Neufassung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - Kenntnis genommen
+- TOP 11.3.5: Städtebaugroßprojekt Parkstadt Süd; Eröffnung des Pionierparks am 22. September 2022 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
