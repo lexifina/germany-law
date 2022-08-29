@@ -1,0 +1,71 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-29T17:00:00+02:00
+- Ende: 2022-08-29T17:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25124
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25124
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: VI. Mentoring-Projekt der Stadt Köln für Frauen und Männer in Teilzeit - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Finanzmittel Europa und Internationales - ungeändert beschlossen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer Anfrage nach § 4 Geschäftsordnung - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage betreffend "Einfache Sprache als Verwaltungsstandard" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates zum Status von Ukraine-Flüchtlingen aus Drittstaaten (AN/0880/2022) - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage betreffend "Karnevalsgeschehen am Zülpicher Platz" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer mündlichen Anfrage betreffend "Silvesterfeuerwerk 2021/2022" - Kenntnis genommen
+- TOP 3.6: Beantwortung einer Anfrage (AN 0732/2022) der SPD-Fraktion betreffend "Umsetzung der Whistleblower-Richtlinie" - Kenntnis genommen
+- TOP 3.7: Beantwortung einer mündlichen Anfrage betreffend "Gewerbebetrieben in Köln seit 2019 entwickelt." - zurückgestellt
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Stellungnahme zum Antrag gem. § 3 der Geschäftsordnung des Rates zur Neufassung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - Kenntnis genommen
+- TOP 4.2: Patenschaft für Korvette KÖLN - Kenntnis genommen
+- TOP 4.3: Beauftragung von externen Kanzleien/ Bericht und Richtlinie zur Beschaffung von Rechtsanwaltsdienstleistungen - Kenntnis genommen
+- TOP 4.4: Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 4.5: Zweiter Sachstandsbericht der Arbeitsgruppe Kölnberg - Kenntnis genommen
+- TOP 4.6: Sachstand „Science meets City“-Symposium - Kenntnis genommen
+- TOP 4.7: Bericht über die Entwicklung von Ausreisen und Rückführungen 2021 - Kenntnis genommen
+- TOP 4.8: Weihnachtsmärkte in Köln - Kenntnis genommen
+- TOP 4.9: Zielbild des Ausländeramtes - Kenntnis genommen
+- TOP 4.10: Mitteilung zur Vorlage 1098/2022 (Ordnungsbehördliche Verordnung für das Jahr 2022 über das Offenhalten von Verkaufsstellen an Sonntagen) - Kenntnis genommen
+- TOP 4.11: Transparenzbericht 2017-2022 zur Verwaltungsreform #wirfürdiestadt - Kenntnis genommen
+- TOP 4.12: Ausländeramt als Willkommensbehörde umgestalten - Kenntnis genommen
+- TOP 4.13: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 4.14: Beantwortung der Anfrage der SPD-Fraktion betreffend „Plätze mit besonderem Handlungsbedarf: Trotz Eröffnung des Drogenkonsumraums mehr statt weniger Probleme am Neumarkt“, AN/1286/2022 - Kenntnis genommen
+- TOP 4.15: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 26. Juli 2022 - Kenntnis genommen
+- TOP 4.16: Bericht Delegationsreise nach Rio de Janeiro anlässlich des zehnjährigen Jubiläums der Städte- und Klimapartnerschaft - Kenntnis genommen
+- TOP 4.17: Stabsstelle Events, Film und Fernsehen - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1.1: Anfrage der Fraktion DIE FRAKTION betreffend "Reversible Haarnadeln" - zurückgestellt
+- TOP 6.1.2: Anfrage der SPD-Fraktion bereffend "Überlastung der Ausländerbehörden u. a. Ämter und Abteilungen der Stadtverwaltung – Rechts-kreiswechsel der Geflüchteten aus der Ukraine in die Grundsicherung" - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der SPD-Fraktion betreffend "Personalsituation beim Amt für öffentliche Ordnung". - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/1325/2022 der SPD-Fraktion Zur Personalsituation beim Amt für öffentliche Ordnung - zurückgestellt
+- TOP 6.2.2: Anfrage der SPD-Fraktion betreffend "Neue Kampagne für friedliche Fußballfeste – ein Reinfall?" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage "Neue Kampagne für friedliche Fussballfeste - ein Reinfall?". - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das Jahr 2022 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Umverteilung der Förderung für 0,5 Vollzeitstellen im Programm "Bleibeperspektiven in Köln" - ungeändert beschlossen
+- TOP 10.3: Besetzungsänderung in der Ausländerrechtlichen Beratungskommission - ungeändert beschlossen
+- TOP 10.4: Zweite Ordnungsbehördliche Verordnung für das Jahr 2022 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 10.5: Umsetzung einer Maßnahme des Kulturentwicklungplans: Arbeitskreis Gedächtnis der Stadt - ungeändert beschlossen
+- TOP 10.6: 4. Satzung zur Änderung der Hundesteuersatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.7: Befristete kommunale Fortführung des Kompetenzzentrums Frau und Beruf Region Köln - endgültig zurückgezogen
+- TOP 10.8: Sperrung Kitschburger Straße - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 11.1: Bedarfsfeststellung der Sprach- und Integrationsmittlung im Welcome Center Cologne durch die Firma Bikip gGmbH - ungeändert beschlossen
+- TOP 11.2: GFG 2022: Erhebung einer Klage gegen den Festsetzungsbescheid für die Zahlung der Landschaftsumlage des Haushaltsjahres 2022 als erforderliche Rechtshandlung im Vorfeld der Kommunalverfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2022 - ungeändert beschlossen
+- TOP 11.3: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2022 - ungeändert beschlossen
