@@ -1,0 +1,78 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-08-30T16:00:00+02:00
+- Ende: 2022-08-30T18:15:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20242
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20242
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (1) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00296373.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00298213.pdf
+
+## Tagesordnung
+
+- TOP -: Vorgezogene Schwerpunkte
+- TOP 1: Angelegenheiten des Gebäudemanagement
+- TOP 1.1: Wirtschaftsplan des Gebäudemanagements 2022 - ungeändert beschlossen
+- TOP 1.2: Restrukturierung des GMW - Entgegennahme ohne Beschluss
+- TOP 2: Haushaltsplanangelegenheiten
+- TOP 2.1: Aktuelle Haushaltsentwicklung der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.2: Folgen der vorläufigen Haushaltsführung 2022 - Entgegennahme ohne Beschluss
+- TOP 2.3: Finco-Berichte zum 30.06. und 31.07.2022 - Entgegennahme ohne Beschluss
+- TOP 2.4: Aktualisierung der Energiekosten - Entgegennahme ohne Beschluss
+- TOP 3: Projekt Elberfeld 2030 (ISEK und Fernwärme) - Entgegennahme ohne Beschluss
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 4: Jahresabschlüsse
+- TOP 4.1: Jahresabschluss 2020 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 4.2: Jahresabschluss 2021 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 4.2.1: Entlastung des Aufsichtsrats der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 4.3: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 4.4: Jahresabschluss 2021 Wendepunkt - Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 4.5: Jahresabschluss 2021 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 4.5.1: Jahresabschluss 2021: Entlastung der Mitglieder des Verwaltungsrates der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 4.6: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 5: Wirtschaftspläne
+- TOP 5.1: Wirtschaftsplan 2022 der Wendepunkt - Wuppertaler Krisendienst gGmbH
+- TOP 6: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 6.1: Altfahrzeugverwertung des Eigenbetrieb Straßenreinigung Wuppertal (ESW) - abgesetzt
+- TOP 6.2: Abberufung und Bestellung der Betriebsleitung APH - ungeändert beschlossen
+- TOP 6.3: Benennung des Wirtschaftsprüfers für die Jahresabschlüsse 2021 und 2022 der APH Service GmbH - ungeändert beschlossen
+- TOP 6.4: Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal und Konzern GWG - Bestellung des Wirtschaftsprüfers 2022 - ungeändert beschlossen
+- TOP 6.5: Abberufung der künstlerischen Geschäftsführerin der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 6.6: Neubauvorhaben Klingelholl - abgesetzt
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil B- Allgemeine Angelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Überprüfung der Vergaberegelungen und –prozesse - Entgegennahme ohne Beschluss
+- TOP 8.2: Bericht zur Umsetzung des Strategischen Ausbildungskonzeptes - Entgegennahme ohne Beschluss
+- TOP 8.3: Mögliche Schaffung eines Schulungszentrums zur Erhöhung der Zahl an Ausbildungsplätzen - Entgegennahme ohne Beschluss
+- TOP 8.4: Prüfung weiterer Klimaschutzmaßnahmen im Projekt Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 8.5: Sachstandsbericht Standortverlagerung des Stadtarchivs - Entgegennahme ohne Beschluss
+- TOP 8.6: Abschlussbericht der Taskforce Hochwasser und Klimaresilienz - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Ergebnisse des Prüfauftrags Zulassung von Regenwasserversickerung auf Grundstücken unter ökonomischen und ökologischen Gesichtspunkten - ungeändert beschlossen
+- TOP 9.2: Stadion am Zoo - Planung und Einbau einer Rasenheizung im Zusammenhang mit der Erneuerung des Spielfeldes und der Altlastensicherung - ungeändert beschlossen
+- TOP 9.3: Verstetigung der Durchführung von Bürgerbudgets - ungeändert beschlossen
+- TOP 9.4: Neugestaltung der Parkanlage Deweerthscher Garten – ISEK Innenstadt Elberfeld - ungeändert beschlossen
+- TOP 9.5: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2022 für die Einrichtungen Obere Lichtenplatzer Straße, Am Diek, Hölkesöhde und Herichhauser Straße - ungeändert beschlossen
+- TOP 9.6: Durchführungsbeschluss zur Ertüchtigung der Remise und Kannegießerschen Fabrik - ungeändert beschlossen
+- TOP 9.7: Umwandlung der Rechtsform des NRW Kultursekretariats in einen Zweckverband - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil C -weitere Haushaltsangelegenheiten
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Umsetzung des Haushaltssanierungsplans 2012 - 2021 zum 31.12.2021 - Entgegennahme ohne Beschluss
+- TOP 11.2: Stand der Investitions- und Kassenkredite zum 30.06.2022 - Entgegennahme ohne Beschluss
+- TOP 11.3: Sachstand Sanierung Schwebebahnhof Döppersberg - Entgegennahme ohne Beschluss
+- TOP 11.4: Mehrkosten Sanierung Schloss Burg a/d Wupper - Entgegennahme ohne Beschluss
+- TOP 11.5: Städtischer Haushalt: Kosten und Wiederaufbauhilfe nach dem Starkregen im Juli 2021 - Entgegennahme ohne Beschluss
+- TOP 11.5.1: Beantwortung der Großen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN „Städtischer Haushalt: Kosten und Wiederaufbauhilfe nach dem Starkregen im Juli 2021“ - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 12.1: Anschaffung von 15 Notstromaggregaten 304 (Projekt "Leuchttürme") - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 14: Berichtsvorlagen
+- TOP 15: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 16: Berichte und Mitteilungen
