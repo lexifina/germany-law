@@ -1,0 +1,163 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-08-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6849672
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6849672
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Interims-Jugendtreff Garmischer Str.
+- TOP 6.2.: Zusätzliche Geschwindigkeitswarnung - Zone 30 - Arnimstraße
+- TOP 6.3.: Mülleimer Bodeneherstr.
+- TOP 6.4.: Parkplatzsituation Sendling-Westpark
+- TOP 6.5.: Ampelanlage Ortlerstraße/Hansastraße; Problemstelle für Fußgänger und Fahrradfahrer
+- TOP 6.6.: Nächtliche Ruhestörung in der Marbachstraße durch Güterverkehr
+- TOP 6.7.: Sanierung der Wasserleitung in der Kleingartenanlage SW 83
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Benennung der Unterausschussbesetzung durch die Fraktion B90/Grüne
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Initiative "Tagesmutter" Anschaffung eines Vierlingskinderwagens 1.098,90 Euro, Az.: 0262.0-7-0383
+- TOP 10.2.: (E) Stadtbezirksbudget Hasting Zentrum für Tanz & Tanztheater Tanztheater-Projekt "What&#039;s going on" vom 12.10.2022 - 08.02.2023 4.460,00 Euro, Az.: 0262.0-7-0386
+- TOP 10.3.: (E) Stadtbezirksbudget Alten- und Service-Zentrum Westpark Wandbemalung Terrassenbegrenzung vom 13.09. - 28.10.2022 5.535,00 Euro, Az.: 0262.0-7-0387
+- TOP 10.4.: (E) Stadtbezirksbudget Elterninitiative Mittagsinsel e.V. Raumbereitstellung für die Mittagsbetreuung vom 01.08.2022 - 31.01.2023 4.500,00 Euro, Az.: 0262.0-7-0384
+- TOP 10.5.: (E) Stadtbezirksbudget Pfiffikus Lern- & Hausaufgabenhilfe Stipendien für ukrainische Schüler und Pfiffikuskinder im Schuljahr 2022/23 2.208,00 Euro, Az.: 0262.0-7-0388
+- TOP 11.: Anträge
+- TOP 11.1.: Neue E-Busse werden auf den Linien 51 und 151 eingesetzt
+- TOP 11.2.: Die Südparkallee wird in voller Länge als „Fahrradstraße“ gewidmet
+- TOP 11.3.: Ersatz der Sitzbank auf dem Rundhügel im Westpark Ostteil
+- TOP 11.4.: Verbesserung der Wasserqualität der Seen im Westpark
+- TOP 11.5.: Grüne Abbiegepfeile für Radfahrer*innen
+- TOP 11.6.: Dialogdisplays in Sendling-Westpark
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1.: Bericht des Vorsitzenden
+- TOP 13.2.: Protokoll der öffentlichen Sitzung des Mieterbeirates am 25.07.2022
+- TOP 13.3.: Bericht des Seniorenbeauftragten im August 2022
+- TOP 13.4.: Pilotprojekt Quartiersansatz Klimaschutz
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Marbachstraße
+- TOP 15.2.: Bauvorhaben Breitbrunner Str.
+- TOP 15.3.: Bauvorhaben Hundertpfundweg
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Verlängerung, Westpark, Seebühne, Kino, Mond und Sterne
+- TOP 17.2.: Westpark, Wiese im Westteil, Tanzproduktion Distant Pulse Here
+- TOP 17.3.: Westpark, Wasserspielplatz, Freilicht-Theater Der Herr der Fliegen
+- TOP 17.4.: Westpark, kleine Zirkuswiese, Marionettentheater
+- TOP 17.5.: Westpark, kleine Zirkuswiese, Puppenbühne Wunder vom 01.09. - 11.09.2022
+- TOP 18.: Baureferat
+- TOP 18.1.: Westendstr., Brücke A96 - Radwegführung südliche Seite auf Höhe Gerti-Spies-Str.; Zweirichtungsradweg
+- TOP 18.2.: Ohlstadter Str.; Bauschadenwiederherstellung, Gehwegsanierung
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: BA-Satzung Bauleitplanung
+- TOP 20.2.: Infoschreiben Hybridsitzungen Live-Stream
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Mobilitätspunkt am Partnachplatz
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: Stadtentwicklungskonzept Perspektive München
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Fristverlängerung Radabstellanlagen im Parkstreifen neben dem Baumgraben
+- TOP 33.2.: Fristverlängerung Radabstellanlagen für Sendling-Westpark
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 35.1.: Informationen zu den geplanten Angeboten im Rahmen des 75jährigen Jubiläums der Bezirksausschüsse
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Sachstandsbericht Kulturbürgerhaus Sendling-Westpark / Laim
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Meldelisten Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Präsentationen Informationsveranstaltung Meldeplattform Radverkehr
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Ablehnung Fällung Bielitzer Str.
+- TOP 45.2.: Fällung Gefahrenbaum Garmischer Straße
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Kunstprojekt Werdenfels; künstlerische Gestaltung des Trafos am Wessobrunner Platz
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Beginn der Sanierungsarbeiten an Rad- und Fußwegen im Westpark
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: 75JahreBA - Save the Date
+- TOP 51.2.: Infoschreiben Anhörungsfristen
+- TOP 51.3.: Genehmigung von Parkletts und Stadtterrassen
+- TOP 51.4.: Informationsschreiben Stadtbezirksbudget – Abruf städtischer Leistungen
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Vorkaufsrecht nach dem BauGB, Arnimstraße
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Partnachplatz, Workshop Radeln mit Kindern
+- TOP 53.2.: Bescheid, Westpark, Wasserspielplatz, Feierwerk -Sommerferienprogramm
+- TOP 53.3.: Bescheid, Westpark, Rundhäuser, Erzählveranstaltungen für Kinder
+- TOP 53.4.: Bescheid, Luise-Kiesselbach-Platz, Sommerfest des Maibaumvereins
+- TOP 53.5.: Bescheid, Westpark, Nachbarschaftsfest Reulandstr.
+- TOP 53.6.: Bescheid, Westpark, Theatron, Einschulungsgottesdienst
+- TOP 53.7.: Sondernutzungserlaubnis für Straße.Oase, mobile Kunst-Spielaktionen für Kinder und Jugendliche auf öffentl. Straßen und Plätzen
+- TOP 53.8.: Bescheid, Westpark, Wiese im Westteil, Tanzproduktion "Distant Pulse Here"
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: VA Fürstenrieder Str., Waldfriedhof
+- TOP 56.2.: VA Margaretenstraße, Unterführung S-Bahn Haltestelle
+- TOP 56.3.: Drehgenehmigung Siegenburger Straße 40, Vollsperrung am 06.09.2022
+- TOP 56.4.: Drehgenehmigung Westpark am 18.08.2022
+- TOP 56.5.: Drehgenehmigung Westpark mit Drohne am 25.08.2022
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Antwort Klimaschutz konkret; Klima-Ausschuss in jedem Bezirksausschuss
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Fällgenehmigung Hirsch-Gereuth-Str.
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Unterrichtung Abbruch Hammersbacher Str.
+- TOP 62.2.: Modernisierung Konrad-Celtis-Str.
+- TOP 62.3.: Unterrichtung Abbruch Marbachstraße
+- TOP 62.4.: Modernisierung Krüner Straße
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Sachbericht Dschungelpalast Sommerfest 2022
+- TOP 63.2.: SWM Nachhaltigkeitsbericht
+- TOP 63.3.: Baumaßnahme Strom-Projekt - BV Rüdesheimer Straße/Tübinger Straße
+- TOP 63.4.: Sitzungstermine BA7 2023
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 10.6.: (E) Stadtbezirksbudget MTV München Mittagsbetreuung für Grundschule an der Werdenfeldstraße 01.10.2022-31.05.2023 9.997,15 € / AZ: 0262.0-07-0389
