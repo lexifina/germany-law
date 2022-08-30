@@ -1,0 +1,59 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-30T17:00:00+02:00
+- Ende: 2022-08-30T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22232
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22232
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket öffentlich 30.08.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457395.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket öffentlich 30.08.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457395.pdf
+- Wortprotokoll: digitales Sitzungspaket öffentlich 30.08.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457395.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 16.08.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der öffentlichen Niederschrift vom 21.06.2022 - einstimmig beschlossen
+- TOP 3.1: Genehmigung der öffentlichen Niederschrift vom 24.05.2022 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Unterführung des Bahnhofs Gerresheim - mündliche Berichterstattung durch Herrn Beigeordneten Kral - - zur Kenntnis genommen
+- TOP 4.2: Änderungsbeschluss zum Projekt Personenunterführung Bahnhof Düsseldorf-Gerresheim - Empfehlung einstimmig abgelehnt
+- TOP 4.3: Ergebnisse der Machbarkeitsstudien zur Erschließung der Bergischen Kaserne - Empfehlung einstimmig beschlossen
+- TOP 4.4: Zuschuss an den Düsseldorfer Turnverein von 1847 e.V. - einstimmig beschlossen
+- TOP 4.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2022 - einstimmig beschlossen
+- TOP 4.6: Verwendung von Haushaltsmitteln - mehrheitlich beschlossen
+- TOP 4.7: Plan Nr. 07/016 - Glasmacherviertel - Satzung über ein besonderes Vorkaufsrecht - - Empfehlung einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Spielfläche in der Straße „Am Gartenkamp“ - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.2: Einschränkung Parken nur für PKW auf der Halleschen Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.3: Abstellmöglichkeiten für Fahrräder in der Dörpfeldstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Erhalt der Kastanie im Bauvorhaben Ludenberger Straße 62 – 68 - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 5.7: Spielplatz an der Josef-Neuberger-Str. 36 - 42 - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.8: Sachstandsbericht zum Dernbuschweg - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Parkraumdruck im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.3: Verkehrsführung während Baustelle „Haltestelle Pöhlenweg“ über Rennbahnstraße und Fahneburgstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 6.4: Funktion der Bedarfsampeln auf der Benderstraße für Fußgänger*innen und Radfahrer*innen - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 6.5: Grundsätzliche Öffnung der Einbahnstraßen für Radverkehr gegen die vorgeschriebene Fahrtrichtung - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Straßenausbaumaßnahmen im Stadtbezirk 7 - Anfrage der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - zur Kenntnis genommen
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Weiteres Vorgehen der Gleisbauarbeiten am Gerresheimer S-Bahnhof - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.2: Evaluation der Naturschutzsicherung durch Baumstämme „Am Quellenbusch“ - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlage
+- TOP 8.1: Sitzungstermine der Bezirksvertretung 7 im Jahr 2023 - zur Kenntnis genommen
+- TOP 8.2: Markierung des Radweges am Staufenplatz - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.3: Baumscheiben im Bezirk reaktivieren - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.4: Sitzbank an der Düssel - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.5: Elektrostation Alter Markt - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.6: Umbau Umlaufschranken - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.7: Stadtbaumkonzept für Düsseldorf (4. Pflanzperiode) - zur Kenntnis genommen
