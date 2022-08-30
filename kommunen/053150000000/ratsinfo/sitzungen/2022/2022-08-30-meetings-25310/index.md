@@ -1,0 +1,64 @@
+# 12. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-30T15:36:00+02:00
+- Ende: 2022-08-30T18:59:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25310
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25310
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Sofortige Maßnahmen zur Stärkung der Kunst und Kulturszene; Vergünstigte Tickets in Köln einführen - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Beauftragung eines Musikschulentwicklungsplans - Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.1 - Beauftragung eines Musikschulentwicklungsplans - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu TOP 4.1 - Beauftragung eines Musikschulentwicklungsplans - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktionen: Bündnis90/Die Grünen; CDU; Volt und FDP - geändert beschlossen
+- TOP 4.2: Maßnahmen der Kulturentwicklungsplanung: Leitbild für kulturelle Teilhabe und Vielfalt - ungeändert beschlossen
+- TOP 4.3: Umsetzung einer Maßnahme des Kulturentwicklungplans: Arbeitskreis Gedächtnis der Stadt - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Umsetzung einer Maßnahme des Kulturentwicklungplans: Entwicklung eines Handlungskonzeptes Kreativräume in der Stadtentwicklung - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Kulturförderabgabe 2020 - audience development für/im Museum Schnütgen hier: Mittelfreigabe - ungeändert beschlossen
+- TOP 4.6: Römisch-Germanisches Museum - Weiterplanungsbeschluss zur Sanierung und Baubeschluss für vorgezogene notwendige Maßnahmen - ohne Votum in nachfolgende Gremien
+- TOP 4.7: Zuschussgewährung für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.8: Konzept Kommunaler Fonds Kulturelle Bildung - ungeändert beschlossen
+- TOP 4.9: Verstetigung der Sonntagsöffnung in der Zentralbibliothek der Stadtbibliothek Köln - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Verwendung der Mittel aus dem Sonderausstellungsetat 2022, 1. Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Freigabe und Vergabe von Fördermitteln in der Sparte Musik - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen - Kenntnis genommen
+- TOP 8.2: Sachstandsbericht 2021/22 der Kulturentwicklungsplanung - Kenntnis genommen
+- TOP 8.3: Verlagerung der Bibliotheksaktivitäten der minibib Kalk in die modernisierte Stadtteilbibliothek Kalk - Kenntnis genommen
+- TOP 8.4: Mitteilung zum Antrag des Integrationsrates vom 08.02.2022 zur Berücksichtigung der Kölner Migrationsgeschichte bei der Neukonzeption des Kölnischen Stadtmuseums - Kenntnis genommen
+- TOP 8.5: Stabsstelle Events, Film und Fernsehen - Kenntnis genommen
+- TOP 8.6: Sachstandsbericht zum Projekt "Relocating a Structure" - Kenntnis genommen
+- TOP 8.7: Optimierung der musealen Depots, Fortscheibung - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 25. August 2022 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 24. August 2022 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 9. August 2022 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der mündlichen Anfrage der Fraktion der CDU: Sachstandsbericht Hahnentorburg - Kenntnis genommen
+- TOP 10.2: Beantwortung der mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen: Förderkonzept Kulturelle Teilhabe - Kenntnis genommen
+- TOP 10.3: Beantwortung der mündlichen Anfrage: Jahresberichte Museen - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktion der FDP: Interim Stadtmuseum - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der FDP Fraktion zu den Verzögerungen der Eröffnung der Dauerausstellung des Kölnischen Stadtmuseums im Interim Haus Sauer - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Fraktionen der CDU & VOLT: Kulturticket zur Unterstützung der Kunst- und Kulturszene - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der Fraktion der SPD: Klubstiftung nach Hamburger Vorbild – ein Konzept für die Kulturstadt Köln? - Kenntnis genommen
+- TOP 11.4: Schriftliche Anfrage der Fraktion der SPD: Mehr als nur eine Zwischenlösung.... Museums-INTERIMS attraktiver gestalten! - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Beantwortung der mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen: Ateliersituation - Kenntnis genommen
+- TOP 12.2: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Konsolidierung 2023/24
+- TOP 12.3: Mündliche Anfrage der Fraktion der SPD vom 05.04.2022 (AN/0739/2022): Kulturmarketing-Kampagne
+- TOP 12.4: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Open-Air Südbrücke
+- TOP 12.5: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Evaluationsbericht Open-Air Projekte
