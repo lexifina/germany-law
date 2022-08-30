@@ -1,0 +1,75 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-30T17:00:00+02:00
+- Ende: 2022-08-30T22:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22416
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22416
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457835.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457835.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457835.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von Mitgliedern der Bezirksvertretung 3
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 14.06.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Austausch mit Oberbürgermeister Dr. Stephan Keller - zur Kenntnis genommen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Sanierungsgebiet Am Steinberg - Satzung über die Aufhebung der Satzung über die förmliche Festlegung des Sanierungsgebietes „Gebietsprogramm zur Wohnumfeldverbesserung in den Stadtteilen Bilk, Flingern, Stadtmitte (GPWE)“ - Empfehlung mehrheitlich beschlossen
+- TOP 6.2: Sanierungsgebiet Am Steinberg - Empfehlung einstimmig beschlossen
+- TOP 6.3: 03/040 Südlich Auf'm Hennekamp - Städtebaulicher Wettbewerb - Empfehlung einstimmig beschlossen
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verwaltungsvorlagen und -berichte
+- TOP 7.1: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Neubau Kita Ulenbergstraße" - Empfehlung mehrheitlich beschlossen
+- TOP 7.2: Beschlussvorlage Erweiterungsneubau (Mensa, Küche, Gymnastikhalle) u. Umbau Bestand (Lehrerzimmer, Umkleiden, Bistro) des Geschwister-Scholl-Gymnasiums/Redinghovenstraße 41 und der Hulda-Pankok-Gesamtschule/Brinckmannstraße 16 - Empfehlung einstimmig beschlossen
+- TOP 7.3: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für den Erweiterungsneubau der Martin-Luther Grundschule an der Gotenstraße 20. - Empfehlung einstimmig beschlossen
+- TOP 7.4: Auf'm Tetelberg - Erneuerung Öffentliche Beleuchtung - einstimmig beschlossen
+- TOP 7.5: Volmerswerther Straße 260 - 322 – Erneuerung Öffentliche Beleuchtung - abweichend beschlossen
+- TOP 8: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 8.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2022 - einstimmig beschlossen
+- TOP 8.2: Genehmigung einer Dringlichkeitsentscheidung nach § 36 Abs. 5 Satz 2 GO NRW – Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2022 - einstimmig beschlossen
+- TOP 8.3: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2022 - einstimmig beschlossen
+- TOP 8.4: Bezirklicher Bauunterhaltung - Haushaltsjahr 2022 Stadtbezirk 3 - Liste A Schulen - abweichend beschlossen
+- TOP 9: Anfragen
+- TOP 9.1: Anfragen aus vorherigen Sitzungen
+- TOP 9.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 9.1.2: Radweg Fleher Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 9.1.3: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 9.1.4: Unfallzahlen zu ZweiradfahrerInnen (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 9.1.5: Neugestaltung des südlichen Kirchplatzes - Kinderspielplatz hinter der Kirche (Anfrage CDU-Fraktion) - vertagt
+- TOP 9.1.6: Umbau und Steuerung der Lichtzeichenanlage am Fuß- und Radweg im Kreuzungsbereich Düssel- und Neusser Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 9.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Aktuelle Anfragen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3: Baucontainer Neusser Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 9.2.4: Fahrradfreundlicher Ausbau des nordwestlichen und zentralen Bereiches der Kreuzung Witzelstr./Moorenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 9.2.5: Verschmutzungen am Paradiesstrand, Rheinufer (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 9.2.6: Litfaßsäulen (Anfrage SPD) - vertagt
+- TOP 10: Anträge
+- TOP 10.1: Schulwegsicherung Kreuzungen Witzelstr./Moorenstr. und Schloßmannstr./Strümpelstr. (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 10.2: Überquerung Moorenstr. im Kreuzungsbreich Fabriciusstr.(Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 10.3: Einrichtung Velogleis auf der Brunnenstraße (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - abweichend beschlossen
+- TOP 10.4: Einbahnstraßenregelung auf der Zimmerstraße (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - abweichend beschlossen
+- TOP 10.5: Wasseranschluss auf dem Platz „De Blääk“ (Antrag CDU, BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Temporäre WC-Anlage am Spielplatz Sternwartpark einrichten - zur Kenntnis genommen
+- TOP 11.2: Wochenmärkte - zur Kenntnis genommen
+- TOP 11.3: Überbrückungsnutzung der drei Florabars im Jahr 2022 und 2023 - zur Kenntnis genommen
+- TOP 11.4: Nahverkehrsplan – Verlängerung der Wehrhahn-Linie Richtung Süden - zur Kenntnis genommen
+- TOP 11.5: Initialisierung einer verpflichtenden Immobilien- und Standortgemeinschaft (ISG) im Bereich der Graf-Adolf-Straße gefördert durch das Sofortprogramm des Landes NRW - zur Kenntnis genommen
+- TOP 11.6: Arabische Straßenschilder - zur Kenntnis genommen
+- TOP 11.7: Anpassung der Ampelschaltung am Südring - zur Kenntnis genommen
+- TOP 11.8: Beschlusskontrolle - vertagt
+- TOP 11.9: Stadtbaumkonzept für Düsseldorf ( 4. Pflanzperiode) - zur Kenntnis genommen
+- TOP 11.10: Sicherheit für Schülerinnen und Schüler – Einrichtung einer verkehrsberuhigten Zone vor der Grundschule Kronprinzenstraße - zur Kenntnis genommen
+- TOP 12: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 13: Mitteilungen des Bezirksbürgermeisters
