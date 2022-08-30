@@ -1,0 +1,68 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-08-30T14:05:00+02:00
+- Ende: 2022-08-30T16:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25881
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25881
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Süße Zitronen e.V." - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Akademie für Resilienz und Traumaberatung - A.R.T. e.V." - geändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung des Spielplatzes Am Rolshover Hof in Köln-Poll - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Mitgliederwechsel im Jugendhilfeausschuss, hier: Kölner Jugendring e.V. - ungeändert beschlossen
+- TOP 4.2: Neuwahl eines stellvertrend beratenden JHA-Mitglieds, hier Arbeitskreis für das ausländische Kind e.V. - ungeändert beschlossen
+- TOP 4.3: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ungeändert beschlossen
+- TOP 4.4: Aktionsplan zur Folgezertifizierung der Stadt Köln als „Kinderfreundliche Kommune“ - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Sicherstellung des Kinderwohls bei aufenthaltsbeendenden Maßnahmen der Ausländerbehörde - geändert beschlossen
+- TOP -: Stellungnahme zum Dringlichkeitsantrag der Fraktionen SPD und Die Linke betreffend "Sicherstellung des Kindeswohls bei aufenthaltsbeendenden Maßnahmen der Ausländerbehörde" - Kenntnis genommen
+- TOP 5.2.2: Präventionsmaßnahme gegen die Verbreitung von Darstellungen sexualisierter Gewalt an Kindern und Jugendlichen - geändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: OGS Plätze - Kenntnis genommen
+- TOP -: Siehe TOP 8.5.5: Rechtsanspruch auf ganztägige Betreuung ab dem Schuljahr 2026/2027
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Förderung Sprach-Kitas - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage 1479/2022 gem. § 4 der Geschäftsordnung des Rates Förderung Sprach Kitas - Kenntnis genommen
+- TOP 6.2.2: Anfrage Aktueller Stand Sanierung historische Festungsanlage „Fort X“ - zurückgestellt
+- TOP 6.2.3: Konsolidierung 2023/24 im Jugendbereich - Kenntnis genommen
+- TOP -: Konsolidierung 2023/24 im Jugendbereich - Kenntnis genommen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung einer mündlichen Anfrage zum Sozialraum in Bilderstöckchen - Kenntnis genommen
+- TOP 7.1.2: Aus- und Weiterbildungen im Kita-Bereich, Anfrage aus der Sitzung am 31.05.2022 - Kenntnis genommen
+- TOP 7.1.3: Sachstandsbericht „Starke Veedel – Starkes Köln“, Vorlagen-Nr. 1114/2022 - Kenntnis genommen
+- TOP 7.1.4: Sportentwicklungsplanung - Kinder- und Jugendförderung "Inklusionsampel" - zurückgestellt
+- TOP 7.1.5: Beantwortung der mündlichen Anfrage aus der JHA-Sitzung vom 31.05.2022 zu Kindertagespflegpersonen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Mitteilung zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 1. Halbjahr 2022 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Weltkindertag 2022 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Einmalige Einschulungsbeihilfe für Schulanfänger*innen zum Schuljahr 2022/2023 - Kenntnis genommen
+- TOP 8.5.2: 35. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.3: Beantwortung einer Anfrage der Fraktionen Bündnis 90/GRÜNE, CDU und Volt vom 01.03.2022 für die Sitzung des Ausschusses für die Gleichttellung von Frauen und Männern - Kenntnis genommen
+- TOP 8.5.4: Beantwortung einer Anfrage nach § 4 Geschäftsordnung - Kenntnis genommen
+- TOP 8.5.5: Rechtsanspruch auf ganztägige Betreuung ab dem Schuljahr 2026/2027 - Kenntnis genommen
