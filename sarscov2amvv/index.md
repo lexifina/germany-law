@@ -6,6 +6,8 @@
 - [§ 2 Ausnahmen vom Apothekengesetz und von der Apothekenbetriebsordnung](0002.md)
 - [§ 3 Weitere Ausnahmen von der Apothekenbetriebsordnung](0003.md)
 - [§ 4 Ergänzungen der Arzneimittelpreisverordnung](0004.md)
+- [§ 4a Vergütung von Leistungen im Zusammenhang mit der Abgabe von antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen](0004a.md)
+- [§ 4b Abrechnung von Leistungen im Zusammenhang mit der Abgabe von antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen, Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds und für die Refinanzierung aus Bundesmitteln](0004b.md)
 - [§ 5 Ausnahmen vom Betäubungsmittelgesetz](0005.md)
 - [§ 6 Ausnahmen von der Betäubungsmittel-Verschreibungsverordnung](0006.md)
 - [§ 7 (weggefallen)](0007.md)
