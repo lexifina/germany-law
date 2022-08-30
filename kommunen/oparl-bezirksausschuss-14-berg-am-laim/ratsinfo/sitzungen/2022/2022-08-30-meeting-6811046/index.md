@@ -1,0 +1,74 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-08-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6811046
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6811046
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 26.07.2022
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: "Indian Grocery Store", Berg-am-Laim Str. 73
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Friedenstr. 16 - Errichtung einer Schallschutzeinhausung als LKW-Zu- und Ausfahrt auf der Nordostseite und Errichtung einer privaten Verkehrsanlage auf der Südwestseite als Zu- und Abfahrt für den Kundenverkehr
+- TOP 3.1.2.: Blombergstr. 33 - Neubau von zwei Hausgruppen, bestehend aus drei durch eine doppelschalige Kommunwand getrennte Häuser sowie zwei durch eine doppelschlige Kommunwand getrennte Häuser mit dazugehörige 5 Carports
+- TOP 3.1.3.: St.-Veit-Str. 87 - Neubau von zwei Mehrfamilienhäusern (10 WE) mit Tiefgarage (10 Stpl.)
+- TOP 3.1.4.: Friedenstr. 24 - Neubau eines Bürogebäudes - iCampus im Werksviertel - Teilprojekt i4 -
+- TOP 3.1.5.: Halfinger Str. 26 - Anbau einer Haushälfte an ein Zweifamilienhaus, Umbau der best. Doppelgarage zum Carport
+- TOP 3.1.6.: Traunstr. 1a - Neubau eines Doppelhauses
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Verkehrsproblematik Mühldorf- / Ecke Ampfingstraße (Radfahren auf dem Gehweg); Bürgeranliegen vom 12.07.22
+- TOP 3.2.2.: Innsbrucker Ring 15: Einrichtung einer Ladezone
+- TOP 3.2.3.: Einrichtung einer Schulbushaltestelle in der Hermann-Weinhauser-Straße für den Schülerverkehr zum ESV München-Ost e.V. Sportzentrum
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung in einer städtischen Grünanlage: Spielaktion des FreizeitSport in Kooperation mit dem Bildungslokal am Piusplatz vom 10.-11.09.2022
+- TOP 3.3.2.: Veranstaltung in einer städtischen Grünanlage: Grünanlage an der Echardinger Kapelle (Echardingerstr. 50) - „Ökum. Gottesdienst der Kirchengemeinde Sophie Scholl und der Pfarrei St. Michael Berg am Laim“ am 01.10.2022
+- TOP 3.3.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: Straßenfest Berg am Laim in der Baumkirchner Str./ Grüner Markt am 11.09.2022
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. Straßenfest Baumkirchner Straße am 11.09.2022 3.124,05 € / Az. 0262.0-14-0333
+- TOP 3.5.2.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. 40 Jahre Bürgerkreis – Jubiläumskatalog Künstlergilde 1.195,85 € / Az. 0262.0-14-0334
+- TOP 3.5.3.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. Große Herbstausstellung der Künstlergilde vom 11.-20.11.2022 1.272,35 €/ Az. 0262.0-14-0335
+- TOP 3.5.4.: Antrag auf Übernahme aus dem BA-eigenen Budget: Gedenkveranstaltung für deportierte Juden im Altenheim St. Michael in Höhe von 650 €
+- TOP 3.5.5.: Hybridsitzungen / Live-Stream; Bedarfsabfrage
+- TOP 3.5.6.: Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken - Anhörung des Direktoriums bezüglich Satzung -
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Friedenstr. 16 - Errichtung einer Schallschutzeinhausung als LKW-Zu- und Ausfahrt auf der Nordostseite und Errichtung einer privaten Verkehrsanlage auf der Südwestseite als Zu- und Abfahrt für den Kundenverkehr
+- TOP 3.6.2.: Blombergstr. 33 - Neubau von zwei Hausgruppen, bestehend aus drei durch eine doppelschalige Kommunwand getrennte Häuser sowie zwei durch eine doppelschlige Kommunwand getrennte Häuser mit dazugehörige 5 Carports
+- TOP 3.6.3.: Ringbergstr. 4
+- TOP 3.6.4.: Freilassinger Str. 23a
+- TOP 3.6.5.: Friedenstr. 24 - Neubau eines Bürogebäudes - iCampus im Werksviertel - Teilprojekt i4 -
+- TOP 3.6.6.: Halfinger Str. 26 - Anbau einer Haushälfte an ein Zweifamilienhaus, Umbau der best. Doppelgarage zum Carport
+- TOP 3.6.7.: Traunstr. 1a - Neubau eines Doppelhauses
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.7.: Rofanstr. 34 - Neubau 2 Mehrfamilienhäuser mit je 5 WE und eine Tiefgarage mit 10 STPL, Abbruch Bestand
+- TOP 3.6.8.: Rofanstr. 34 - Neubau 2 Mehrfamilienhäuser mit je 5 WE und eine Tiefgarage mit 10 STPL, Abbruch Bestand
