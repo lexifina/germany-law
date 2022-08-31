@@ -1,0 +1,89 @@
+# 10. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2022-08-31T17:00:00+02:00
+- Ende: 2022-08-31T21:45:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6674
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6674
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=406598
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - (offen)
+- TOP 3.1: Beseitigung des Bauzaunes auf dem Schulhof der Kiepert-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.2: Zuschuss für Lehrmittel für Willkommensklassen für Schüler:innen aus der Ukraine - ohne Änderungen in der BVV beschlossen
+- TOP 3.3: Ausstattung des Askanischen-Gymnasiums mit Tablets - ohne Änderungen in der BVV beschlossen
+- TOP 4: je eine Priorität pro Fraktion - im Ausschuss abgelehnt
+- TOP 4.1: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz "Gegen den Umbau der Handjerystraße in eine mehrspurige Fahrrad-Vorfahrtstraße: Sicherheit aller Verkehrsteilnehmer vorrangig!" - in der BVV abgelehnt
+- TOP 4.2: Gräberfelder für Bestattungen nach muslimischem Ritus zur Verfügung stellen - in der BVV abgelehnt
+- TOP 4.3: Nördlichen Grazer Damm und westlichen Vorarlberger Damm besser an den ÖPNV anbinden - ohne Änderungen in der BVV beschlossen
+- TOP 4.4: Nach dem Aus für das Bad am Ankogelweg - Ist die Neue Mitte Tempelhof durch den Senat abgesichert? - beantwortet
+- TOP 4.5: Auswirkungen von Energiearmut für Menschen im Bezirk - beantwortet
+- TOP 4.6: Evaluation Potse - beantwortet
+- TOP 4.7: Bemühungen zum Rückbau der A103 unverzüglich beenden - überwiesen
+- TOP 5: Vorlagen des Vorstehers - im Ausschuss abgelehnt
+- TOP 5.1: Seniorenfreizeitstätten mit freiem WLAN ausstatten - überwiesen
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 6.1: Wahl der Sozialkommissionen / Sonderkommissions-Mitglieder (Ehrenamtliche) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Vorhabenbezogener Bebauungsplan 7-97 VE für eine Teilfläche des Grundstücks Rathausstraße 1/Ullsteinstraße 184/194 im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - überwiesen
+- TOP 7: Protokollgenehmigung - im Ausschuss abgelehnt
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Anträge - im Ausschuss abgelehnt
+- TOP 9.1: Haus am Kleistpark retten - überwiesen
+- TOP 9.2: Eine Informationstafel für Cäcilie Petersen und das Haus Salem in Lichtenrade - überwiesen
+- TOP 9.3: Toleranter und weltoffener Arbeitgeber Verwaltung – zeig Dich! - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Planungen für das „Haus der Jugend“ zeitnah vorlegen - überwiesen
+- TOP 9.5: Sophie Scholl ohne Weiße Rose - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Abstellmöglichkeiten für Lastenfahrräder - überwiesen
+- TOP 9.7: Direkten Zugang zum Ersatzbahnsteig am Bahnhof Lichtenrade ermöglichen – TÜR AUFSCHLIESSEN! - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Beibehaltung des 9 Euro-Tickets für Sozialleistungsbezieher:innen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Antworten auf Große, Mündliche und Kleine Anfragen sichtbar machen - überwiesen
+- TOP 9.10: Zwanzig Minuten Wartezeit ohne Sitzgelegenheit und Wetterschutz - Wartehäuschen an Bushaltestelle Bahnhofstraße 25/26 einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Kampagne RÜCKSICHT STATT BLAULICHT - #miteinanderfüreinander auch in Tempelhof-Schöneberg - überwiesen
+- TOP 9.12: Angemessene Lebensmittelversorgung in Kindergärten sicherstellen - überwiesen
+- TOP 9.13: Bezirkliche Einrichtungen in offiziellen Verlautbarungen des Bezirks richtig benennen - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Kostenfreie Nasen-Mund-Masken und Corona-Tests für Transferleistungsbezieher:innen - überwiesen
+- TOP 10: Große Anfragen - im Ausschuss abgelehnt
+- TOP 10.1: Gemeinsame Landesplanung - neue Perspektiven für Tempelhof-Schöneberg? - schriftlich beantwortet
+- TOP 10.2: Trinkwasserversorgung im Bezirk - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Mobile Polizeiwache für den Kurfürsten– und Nollendorfkiez - vertagt
+- TOP 11.2: Keine Fahrradstraße ohne Bürgerbeteiligung – Kritik der Bürger am Wegfall von Parkplätzen ernstnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Haus am Kleistpark aufblühen lassen - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Erinnerungen an den „Candy Bomber“ wachhalten - überwiesen
+- TOP 11.5: Frauen haben Vorrang: Straße 40 in Lichtenrade nach Ottilie Ehlers-Kollwitz benennen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Unterstützung der „Potse“ sofort einstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Ombudsstelle für Tempelhof-Schöneberg einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Einrichtung eines Energieschuldenfonds - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Corona-Sommerhilfe für Obdachlose in Tempelhof-Schöneberg jetzt auf den Weg bringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Volksfest Maientage einen Platz auf dem Tempelhofer Feld bereitstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Mitteilungen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 12.1: Handjerystraße soll Fahrradstraße werden - überwiesen
+- TOP 12.2: Freies Internet in Tempelhof-Schöneberg - überwiesen
+- TOP 12.3: Geographisches Informationssystem für Tempelhof-Schöneberg etablieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Fahrradstraße Handjerystraße - überwiesen
+- TOP 12.5: Mieterinnen und Mieter bei An- oder Ummeldung über die Regelungen der Mietpreisbremse informieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.6: Frauenbeirat in Tempelhof-Schöneberg gründen - Ergänzung Aufruf Frauen*beirat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.7: Freifläche vor dem Feld-Theater kulturell nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.8: Seniorenfreizeitstätten mit freiem WLAN ausstatten - überwiesen
+- TOP 12.9: Frauen haben Vorrang – Straße 229 nach Ingrid Rabe benennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.10: Neuauflage des Wohnungsneubauberichts für den Bezirk Tempelhof-Schöneberg - überwiesen
+- TOP 12.11: Letzte kriegsbedingte Baulücke am Tauentzien schließen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.12: Jugendverkehrsschule im nördlichen Teil des Bezirks erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.13: Mobiles Bürgeramt nach Marienfelde Süd bringen - überwiesen
+- TOP 12.14: Integriertes Handlungs- und Entwicklungskonzept IHEK 2022 - QM Nahariyastraße - überwiesen
+- TOP 12.15: Integriertes Handlungs- und Entwicklungskonzept IHEK 2022 - QM Germaniagarten - überwiesen
+- TOP 12.16: Beschluss über die Aufhebung des „Beschluss über die Aufstellung einer Erhaltungsverordnung“ gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs vom 10. November 2020 für das Gebiet „Friedenau“ - überwiesen
+- TOP 12.17: Beschluss der Rahmenstrategie Stadtteilarbeit im Bezirk Tempelhof-Schöneberg - überwiesen
+- TOP 12.18: Integriertes Handlungskonzept für den Handlungsraum 13b (PLR Nahariyastraße) - überwiesen
+- TOP 12.19: Aktueller Stand Kooperationsvereinbarung DB zum Bahnhof Südkreuz, Kommunikationsstrukturen aufbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.20: Beschluss über den sich aus der Abwägung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange und der Beteiligung der Öffentlichkeit sowie der erneuten eingeschränkten Beteiligung ergebenden Bebauungsplanentwurf 7-95 für die Grundstücke Röblingstraße 90/162, Attilastraße 46-59 sowie die Flurstücke 127, 130, 133 und 135 der Flur 9 im Bezirk Tempelhof-Schöneberg, Ortsteil Tempelhof und Planreifeerklärung gemäß § 33 Absatz 1 BauGB - überwiesen
+- TOP 13: Termin der nächsten Sitzung - im Ausschuss abgelehnt
