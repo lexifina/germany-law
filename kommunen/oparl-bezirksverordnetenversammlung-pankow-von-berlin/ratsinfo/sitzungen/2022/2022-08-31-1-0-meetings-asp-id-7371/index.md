@@ -1,0 +1,122 @@
+# 8. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2022-08-31T17:30:00+02:00
+- Ende: 2022-08-31T21:45:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7371
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7371
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 1.8: Nachweis der im Haushaltsjahr 2021 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen (VE) - überwiesen
+- TOP 1.9: Ergänzungsplan zum Doppelhaushalt 2022/2023 für den Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Wahl eines Mitgliedes in den Vorstand der Albert-Schweitzer-Stiftung -Wohnen & Betreuen gemäß § 4 Absatz 1 (f) - gewählt
+- TOP 1.11: Berufung eines beratenden Mitglieds im Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die IX. Wahlperiode - gewählt
+- TOP 1.12: Wahl der Patientenfürsprecherinnen und Patientenfürsprecher für die Krankenhäuser des Bezirkes Pankow für die IX. Wahlperiode - gewählt
+- TOP 1.13: Naturschutzgebiet Moorlinsen ausweisen und Lückenschluss Landschaftsschutzgebiet Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Impffortschritt in Pankow steigern – Impflotsenprogramm starten! - in der BVV abgelehnt
+- TOP 1.15: Pilotprojekt „Pankower Tausendfüßler“ – Laufbusse für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Pankows City Toiletten: Kostenfreie Nutzung für alle Geschlechter! - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Verkehrsberuhigung der Hauptstraße (zurückversetzt) in Rosenthal - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Raus aus den Wohngebieten – Schleichwege für LKWs endlich konsequent unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Erich-Weinert-Straße zügig als Fahrradstraße einrichten und ausweisen - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Queere Projekte auf der Bezirksamts-Webseite vorstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Barrierefreiheit auf Friedhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Sozialamt in Krisenzeiten unterstützen – angemessene Personalaufstockung sofort! - überwiesen
+- TOP 1.23: Hitzeresistente Infrastruktur aufbauen – vulnerable Gruppen schützen - überwiesen
+- TOP 1.24: Trinkbrunnen in Pankower Grünanlagen aufstellen - überwiesen
+- TOP 1.25: Ein dringend benötigtes Sportfeld für den Paul-Zobel-Sportplatz - überwiesen
+- TOP 1.26: Nicht grün, aber auch nicht Anders: Die Fortsetzung der autofahrerfeindlichen Verkehrspolitik im Bezirk Pankow beenden – Parkplätze in der Grellstraße erhalten! - in der BVV abgelehnt
+- TOP 1.27: Köpfchen statt Kohle (und Gas!) – die Zweite - überwiesen
+- TOP 1.28: Mehr Platz für Fußgänger:innen in der Stargarder Straße - überwiesen
+- TOP 1.29: Schadensersatz in der Botanischen Anlage Blankenfelde - überwiesen
+- TOP 1.30: Zur Erleichterung aller – Standortkonzept für öffentliche Toilettenanlagen - überwiesen
+- TOP 1.31: Kommunikationstafeln für Schulhöfe – inklusive Kommunikation möglich machen! - überwiesen
+- TOP 1.32: Mehr als nur Selbstzweck und auch noch legal: Mobilitätsscanner für Pankows Straßen - überwiesen
+- TOP 1.33: Verkehrssicherheit für Kinder in der Uhlandstraße - überwiesen
+- TOP 1.34: Umbenennung des „Botanischen Volksparkes Pankow-Blankenfelde“ - überwiesen
+- TOP 1.35: Lücken in der Parkraumbewirtschaftung innerhalb des S-Bahnrings schließen - überwiesen
+- TOP 1.36: Das Bundesprogramm „Sprachkitas“ muss erhalten bleiben - überwiesen
+- TOP 1.37: Denkmalschutz für die Reste der Rieselfeldbewirtschaftung - überwiesen
+- TOP 1.38: Nach der Streichung des § 219a StGB - Informationen für Pankower Ärztinnen und Ärzte sowie Beratungsstellen über Schwangerschaftsabbrüche bereitstellen - überwiesen
+- TOP 1.39: Neuzuschnitt des LSG „Blankenfelde“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Sicherheit und Hygiene auf dem Kulturbrauerei-Gelände - überwiesen
+- TOP 1.41: Mehr Sicherheit an der Kreuzung Karower Chaussee und Robert-Rössle-Straße/Wolfgang-Heinz-Straße - überwiesen
+- TOP 1.42: Sichtbarkeit der Vielfalt in der Öffentlichkeitsarbeit des Bezirksamtes ausbauen! - überwiesen
+- TOP 1.43: Frauengesundheitsbericht fortschreiben – Frauengesundheit ernst nehmen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.44: Keine Pinselsanierung für den Fußgängertunnel S-Bahnhof Greifswalder Straße - überwiesen
+- TOP 1.45: Achtung Fußgänger – mehr Sicherheit beim Wechsel des öffentlichen Verkehrsmittels! - ohne Änderungen in der BVV beschlossen
+- TOP 1.46: Mehr Verkehrssicherheit an der Kreuzung Dietzgenstraße/Blankenburger Straße - überwiesen
+- TOP 1.47: Erinnern an den Aufstand am 17. Juni! - ohne Änderungen in der BVV beschlossen
+- TOP 1.48: Begrünung statt Pollerwüste: Mittelstreifen in der Grellstraße wieder begrünen - ohne Änderungen in der BVV beschlossen
+- TOP 1.49: Liegenschaften für Ladeinfrastruktur mit dem FlächenTOOL melden und bei Privatpersonen und Investoren bekannt machen! - überwiesen
+- TOP 1.50: Einbahnstraße Amalienstraße für Radfahrende in Gegenrichtung öffnen - überwiesen
+- TOP 1.51: Bürger*innen bei der Verkehrswende mitnehmen - Sprechstunde einrichten! - überwiesen
+- TOP 1.52: Fördermittel aus dem Bundesprogramm „Anpassung urbaner Räume an den Klimawandel“ zur überfälligen Sanierung des Volksparks Prenzlauer Berg beantragen - ohne Änderungen in der BVV beschlossen
+- TOP 1.53: Radfahrer schützen – Unfälle in Buch vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 1.54: Überweisung der Drucksache IX-0222 in den Kinder- und Jugendhilfeausschuss - mit Änderungen in der BVV beschlossen
+- TOP 1.55: Blut- und Plasmaspende in Pankow unterstützen - Unterstützer des Weltblutspendetags werden! - überwiesen
+- TOP 1.56: Ampeln für die Kreuzung Pasewalker Straße, Bahnhofsstraße, Rosenthaler Straße - überwiesen
+- TOP 1.57: Beschilderung der Brücken nach dem MLC-Standard in Pankow einführen! - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Verkehrssicherheit an der Klecksgrundschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Langfristige Sicherung der Kleingartenanlagen im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Conrad-Blenkle Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: „Kurze Beine - kurze Wege“ auch für Erstklässler im Gebiet Alter Schlachthof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Mobi-Hubs für Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Umgestaltung der Piazza in Karow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Sichere Querung des Lindenberger Weges in Berlin-Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Querungssicherheit Ecke Bucher Chaussee/ Hofzeichendamm erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Querungssicherheit Blankenburger Chaussee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Tourismuskonzept Pankow 18+ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Funktionierende Nachbarschaften schützen und das Miteinander von familienfreundlicher Gastronomie und einem Spielplatz dauerhaft ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Buswartehalle in Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Mobilitätsgesetz umsetzen – Sicheren Radverkehr auf der Berliner Allee ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Beschichtung der Fahrradspuren in der Greifswalder Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Fußgängerüberweg zum Eingang des Botanischen Volksparks Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Fußgängerüberweg auf der Blankenfelder Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Bänke in Pankow schnell reparieren und neue Bänke aufstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Machbarkeitsstudie für die Klimastraße Hagenauer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Fußgänger:innenüberweg in der Damerowstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Mobilitätsgesetz umsetzen – temporäre Querungshilfen einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Mehr Fördermittel für Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Gertrud-Classen-Platz zur Kiez-Oase entwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Verkehrssicherheit an der Kreuzung Trelleborger Str. / Schonensche Str. herstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Wochenmarkt wiederbeleben – Zentrum Niederschönhausen aufwerten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Fahrradreparatursäulen für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Einen für Radfahrer geeigneten Belag über die Heinersdorfer Brücke herstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Keine Sondernutzungserlaubnis für Online-Lieferdienste - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Verkehrssicherheit an der Tram-Haltestelle Albertinenstraße sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Schutz der Grünflächen am Rosenthaler Anger - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Besonderes Vorkaufsrecht prüfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Corona-Folgen für Pankower Betriebe abmildern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Abstellmöglichkeiten für Fahrräder an Pankower Parks - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.33: Klare Kante für Protected Bike Lanes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Legale Wände für Graffiti-Kunst - Hall of Fame an der Mendelssohnstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Projekteinheit Radwege auch für Pankow nutzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.36: Beteiligung der BVV bei der Erarbeitung von Ziel- und Projektvereinbarungen im Rahmen der Verbesserung der gesamtstädtischen Steuerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Schlaganfall-Einsatzfahrzeuge (StEMo) auch nach 2023 sichern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.38: Potentialstudie zur gewerblichen Verdichtung und städtebaulichen Aufwertung im Gewerbegebiet Storkower Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Machbarkeitsuntersuchung und Nutzungskonzept Standort Wilhelmsruher Tor - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.40: Benennung der Mitglieder der Interessenvertretungen der Menschen mit Behinderung (MdB) für den Bezirksbeirat für Menschen mit Behinderung für die IX. Wahlperiode - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.41: Machbarkeitsstudie zu Potenzialflächen im Gewerbegebiet Treseburger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.42: Förderprogramm „Nachhaltige Erneuerung“ - Fördergebiet Buch - Fördergebiet Greifswalder Straße Förderprogramm „Lebendige Zentren und Quartiere“ - Fördergebiet Langhansstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.43: Bildung steuerlicher Unter-Organisationseinheiten (UOE) gemäß § 18 Abs. 4f Umsatz-steuergesetz (UStG) zur Umsetzung der Umsatzbesteuerung nach § 2b UStG ab 01.01.2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.44: Benennung der Straße 6 im Ortsteil Buch in „Rosa-Coutelle-Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.45: Aufteilung der Mittel zur Umsetzung des Aktionsprogramms „Saubere Berlin“: Für eine attraktive, saubere und lebenswerte Hauptstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.46: Benennung der Straße 5 im Ortsteil Buch in „Ilse-Krause-Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.47: Benennung der Straße 7 im Ortsteil Buch in „Rose-Scheuer-Karpin-Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.48: Aufteilung der Mittel für die ehrenamtliche Arbeit zur Verbesserung der öffentlichen Infrastruktur (FEIN-Einzelmaßnahmen) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
