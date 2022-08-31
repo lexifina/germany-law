@@ -1,0 +1,115 @@
+# 10. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-08-31T17:00:00+02:00
+- Ende: 2022-08-31T22:35:00+02:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4433
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4433
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Mit Erlaubnis der BVV Neukölln eigene Regentonne aufstellen im kleinem Akazienwaldteil, mit Wasser befüllt zur animierten Jung-Bäume Bewässerung - schriftlich beantwortet
+- TOP 1.2: Schulsanierung - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Notstand im Klinikum Neukölln – der Senat muss sofort handeln - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Änderung der Stellvertretung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als stellvertretendes Mitglied des Widerspruchsbeirates - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Sozialausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Niederlegung eines Mandats als Bezirksverordneter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.5: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.6: Abschluss der Ergänzungsvereinbarung zur Übergangszielvereinbarung zu Transfersteuerung, Qualitätsmanagement und Fach- und Finanzmonitoring in den Ämtern für Soziales für das Jahr 2022 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Nachwahl eines ordentlichen Mitgliedes des Widerspruchsbeirates nach dem SGB IX und SGB XII - gewählt
+- TOP 7.2: Wahl von Bürgerdeputierten in den Ausschuss für Partizipation und Integration - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Brunnen Lipschitzallee defekt? - beantwortet
+- TOP 8.2: Leerstand im Schulgebäude Leinestraße - wie lange noch? - beantwortet
+- TOP 8.3: Standortsuche „Neuköllner Maientage" - beantwortet
+- TOP 8.4: Gesundheitsgefährdende Zustände durch Personalmangel im Klinikum Neukölln? - beantwortet
+- TOP 8.5: Stand der Dinge: Maientage 2023 - beantwortet
+- TOP 8.6: Was unternimmt das Bezirksamt zum Erhalt der Maientage? - beantwortet
+- TOP 8.7: Soziale Träger in Not - beantwortet
+- TOP 8.8: Getränkehandel - schriftlich beantwortet
+- TOP 8.9: Warnsirenen in und für Neukölln - schriftlich beantwortet
+- TOP 8.10: Zukunft oder Ende des neuen Migrationsbeirats Neukölln durch die neue Integrationsbeauftragte? - schriftlich beantwortet
+- TOP 8.11: Abstellen von E-Rollern und Leihfahrrädern in Neukölln - schriftlich beantwortet
+- TOP 8.12: Schwerer Rad-Unfall im Carl-Weder-Park (Bendastraße) - schriftlich beantwortet
+- TOP 8.13: Sprach-Kitas am Ende - schriftlich beantwortet
+- TOP 8.14: Schulplatzmangel durch mangelnde Investitionsplanung? - schriftlich beantwortet
+- TOP 8.15: Pizzagate im Gesundheitsamt Neukölln - nichtöffentliche Beantwortung- - schriftlich beantwortet
+- TOP 8.16: Starke Abgasbelastung durch laufende Dieselmotoren/Diesellokomotiven an der Siegfriedstraße - schriftlich beantwortet
+- TOP 8.17: Baustelle Stubenrauchstraße / Ehrenpreisweg - schriftlich beantwortet
+- TOP 8.18: Anita-Berber-Park - schriftlich beantwortet
+- TOP 8.19: Was unternimmt das Bezirksamt gegen Voyeurismus? - schriftlich beantwortet
+- TOP 8.20: Energiesparen und Gesundheitsschutz in den Klassenräumen im Winter - ist Neukölln vorbereitet? - schriftlich beantwortet
+- TOP 8.21: Clan-Villa in Alt-Buckow - schriftlich beantwortet
+- TOP 8.22: Baufortschritt Leonardo-da-Vinci-Gymnasium - schriftlich beantwortet
+- TOP 8.23: Vorbereitende Maßnahmen U8 - schriftlich beantwortet
+- TOP 8.24: Rixdorfer Weihnachtsmarkt 2022? - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Mülleimer mit Tierschutz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Ehemaliges C&A Gebäude werbefrei - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Neue Stuben für die Obdachlosenhilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Tätigkeitsmöglichkeiten für Langzeitarbeitslose ausweiten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Obdachlose im Bezirk nicht vergessen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Partizipation Schwarzer Menschen im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Duschmobil für obdachlose Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Wie viel Geld versickert in der Hasenheide? - schriftlich beantwortet
+- TOP 11.2: Sprachstandserhebungen in Neukölln - beantwortet
+- TOP 11.3: Programm „Saubere Stadt“ - schriftlich beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Maientage für Neukölln erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Eichhörnchenbrücke Dammweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sanierung der Schulsportbäder der Schillingschule und der Schule am Bienwaldring sicher stellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Energetische Gebäudesanierung voranbringen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Supermarkt - Mehrgeschossiger Wiederaufbau Marienfelder Chaussee 144 - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Sonntagsreden Taten folgen lassen – Eigenes Büro für die Seniorenvertretung Neukölln - in der BVV zurückgezogen
+- TOP 12.7: Abschaffung des Berliner Hunderegisters - in der BVV abgelehnt
+- TOP 12.8: European Energy Award (eea) QMS für kommunale Energieeffizienz - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Tempo 30 vor dem S-Bahnhof Köllnische Heide - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Nebenstraßen für Radverkehr attraktiver machen – aus Kopfstein mach Asphalt - in der BVV abgelehnt
+- TOP 12.11: Schulwegsicherheit auf der Karl-Marx-Straße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Lieferzone zu Lieferzeiten in der Sonnenallee 144-146 - in der BVV abgelehnt
+- TOP 12.13: Ausbau des Radverkehrs auf Kosten der Sicherheit - in der BVV abgelehnt
+- TOP 12.14: Sichere Überquerung Teupitzer Straße / Kiehlufer für Fußgänger:innen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Der Berliner Luftbrücke angemessen gedenken - in der BVV zurückgezogen
+- TOP 12.16: Parke nicht auf unseren Wegen - in der BVV abgelehnt
+- TOP 12.17: Gegen die Vermüllung des öffentlichen Raumes - in der BVV abgelehnt
+- TOP 12.18: Upcycling unterstützen - Verlosung von Schrottfahrrädern - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Wie bereitet sich Neukölln auf die Energiekrise vor? - beantwortet
+- TOP 13.2: Energiesparmaßnahmen im Bezirk - beantwortet
+- TOP 13.3: Explodierende Energiekosten: Strom- und Gassperren verhindern - beantwortet
+- TOP 13.4: Showdown im Gesundheitsamt – Warum musste Amtsarzt Herr S. wirklich gehen? - vertagt
+- TOP 13.5: Plant das Bezirksamt Wärmeräume für Senior:innen? - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: BVG – Senat soll Verschlechterung bei den Buslinien (in Neukölln) zurücknehmen - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Hitzeschutz auf Spielplätzen - überwiesen
+- TOP 15.3: Konsequent sein: Hasenheide einzäunen - überwiesen
+- TOP 15.4: Explodierende Energiekosten: Beratungsangebote für Einsparpotentiale bei Haushaltsenergie bewerben - überwiesen
+- TOP 15.5: Neukölln braucht das Wasserwerk Johannisthal – Neukölln mit genügend Wasser versorgen und das Grundwasser im Blumenviertel absenken! - überwiesen
+- TOP 15.6: Internationale Schule mit Sprachschwerpunkt Arabisch - überwiesen
+- TOP 15.7: Verkehrslärm reduzieren und Sicherheit erhöhen - überwiesen
+- TOP 15.8: Explodierende Energiekosten: Darlehen für Austausch von Kühl- bzw. Gefriergeräten - überwiesen
+- TOP 15.9: Ladeinfrastruktur für eFahrzeuge schaffen - überwiesen
+- TOP 15.10: Erneuerung der Zebrastreifen in Alt Rudow - überwiesen
+- TOP 15.11: Mehr Transparenz für die Trägerversammlung des Jobcenter Neukölln - überwiesen
+- TOP 15.12: Alte Gehweg-Radwege smart sanieren - Entsiegelung mitdenken - überwiesen
+- TOP 15.13: Tempo 30 im Ortolanweg sichtbarer machen - überwiesen
+- TOP 15.14: Veranstaltungskalender für Seniorinnen und Senioren schneller drucken und ausliefern! - überwiesen
+- TOP 15.15: Übergang zwischen Kölner Damm und Wildmeisterdamm - überwiesen
+- TOP 15.16: Grünstreifen entlang des Teltowkanals aufwerten - überwiesen
+- TOP 15.17: Bürger*innenhaushalt der Bezirke im Landesbeteiligungshaushalt berücksichtigen - überwiesen
