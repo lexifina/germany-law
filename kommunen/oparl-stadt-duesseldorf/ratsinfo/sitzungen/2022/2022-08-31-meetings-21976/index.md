@@ -1,0 +1,74 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-31T17:00:00+02:00
+- Ende: 2022-08-31T18:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21976
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21976
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket Ö 2022-08-31 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00459374.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket Ö 2022-08-31 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00459374.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket Ö 2022-08-31 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00459374.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung neues Mitglied der Bezirksvertretung 6
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung vom 15. Juni 2022 - einstimmig beschlossen
+- TOP 4: Vortrag Kriminalitätsstatistik im Stadtbezirk 6
+- TOP 5: Vorstellung Umbau des Bürgerbüros Münsterstraße 508
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 10: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen
+- TOP 14: Anfrage der SPD-Fraktion: Zeitfenster der Umsetzung von beschlossenen Maßnahmen der Bezirksvertretung 6
+- TOP 15: Anfrage von Florian Ries (Fraktion Bündnis 90/Die Grünen): Ausstehendes Prüfungsergebnis einer Verkehrsberuhigung auf dem Cloppenburger Weg
+- TOP 16: Anfrage der Fraktion BÜ90/Die Grünen: Nachfrage zum Anliegen Vernachlässigung von Bausubstanz und Missachtung des Hochwasserschutzes in der Vonovia-Siedlung Mintarder Weg - schriftlich beantwortet
+- TOP 17: Anfrage der Fraktion BÜ90/Die Grünen: Münsterstraße - mögliche Lösungen für das Zuparken von Geh- und Radweg durch Lieferverkehre
+- TOP 18: Anfrage des Ratsherrn Mielczarek (BÜ90/Die Grünen): Bedarf nach einem Bolzplatz in Lichtenbroich
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Anfrage der Fraktion Bündnis 90/Die Grünen: Bewässerung von Jungbäumen im Bereich der Straßenbahn-Wendeschleife, östliches Ende Westfalenstraße
+- TOP -: Anträge
+- TOP 21: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines Fahrradschutzstreifens auf dem Thewissenweg - abweichend beschlossen
+- TOP 22: Änderungsantrag der CDU-Fraktion zur Vorlage BV6/092/2022 - Errichtung eines in beide Fahrtrichtungen befahrbaren Fahrradweges auf dem Thewissenweg - mehrheitlich beschlossen
+- TOP 23: Antrag der Fraktion BÜ90/Die Grünen: Zaunkönigweg: Wohnnutzung ermöglichen, verträgliche Stadtplanung für unseren Bezirk einleiten - vertagt
+- TOP 24: Antrag der SPD-Fraktion: Fahrradschutzstreifen Eckener Straße - vertagt
+- TOP 25: Antrag der CDU-Fraktion und der FDP-Fraktion: Nutzungskonzept für den Rather Schützenplatz - einstimmig beschlossen
+- TOP 26: Antrag der CDU-Fraktion: Optische Aufwertung der S-Bahnbrücke am Haltepunkt Rath Mitte - einstimmig beschlossen
+- TOP 27: Antrag der Fraktion BÜ90/Die Grünen: Überfällige Aufwertung im Bereich Bunker Rather Kreuzweg - vertagt
+- TOP 28: Antrag der Fraktion BÜ90/Die Grünen: Handwerk statt neue Büros - Bebauungsplan Vorentwurf Großmarkt - mehrheitlich abgelehnt
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Antrag der SPD-Fraktion: Papiercontainer Unterrath - vertagt
+- TOP 31: Antrag der Fraktion BÜ90/GRÜ: Einrichtung von Fahrradabstellplätzen im Bereich der Unterrather Straße / östlicher Klinkenplatz - abweichend beschlossen
+- TOP 32: Antrag der Fraktion BÜ90/Die Grünen: Freigabe des Fußweges vor den Häusern Heinrichstraße 25 - 31 (Ludwig-Beck-Straße bis Heinrichstraße) für Radfahrer*innen bei Einrichtung einer "Fahrrad frei"-Beschilderung - vertagt
+- TOP 33: Antrag der Fraktion BÜ90/Die Grünen: Regelwidriges und verkehrsgefährdendes Halten von Kfz auf Herchenbachstraße und Eugen-Richter-Straße - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 34: Zuschussvergabe 2022 Antrag des Jugendamtes Düsseldorf, Kinder- und Jugendfreizeiteinrichtung Ammerweg - Wandgestaltung Parkplatz Ammerweg - einstimmig beschlossen
+- TOP 35: Zuschuss an den Allgemeinen Rather Turnverein 1877/90 Düsseldorf e.V. - einstimmig beschlossen
+- TOP 36: Zuschussvergabe 2022 Antrag der St. Seb. Schützenbruderschaft e.V. Düsseldorf-Unterrath - "Jung und Alt gemeinsam" - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 37: Hilfe für die Westfalenstraße aus dem Förderprogramm zur Stärkung der Innenstädte - Vorlage BV6/043/2022 - zur Kenntnis genommen
+- TOP 38: Engstelle auf dem Gehweg vor dem Haus Rather Broich 153 - Vorlage BV6/076/2021 - zur Kenntnis genommen
+- TOP 39: Umwandlung des Park & Ride Parkplatzes am nördlichen Ende der Westfalenstraße in einen Anwohnerparkplatz - Vorlage BV6/069/2022 - zur Kenntnis genommen
+- TOP 40: Förderung Dritter 2021 - Budget "ökologische Maßnahmen" - Vorlagen BV6/065/2021 und BV6/224/2021 - zur Kenntnis genommen
+- TOP 41: Aufstellung einer Tischtennisplatte auf dem Spielplatz Reitzenstein (Am Holunderbusch/Haselnussweg) - zur Kenntnis genommen
+- TOP 42: Aufstellen von Tischtennisplatten an diversen Standorten - Vorlage BV6/131/2022 - zur Kenntnis genommen
+- TOP 43: Stadtbaumkonzept für Düsseldorf (4. Pflanzperiode) - zur Kenntnis genommen
+- TOP 44: Zuschuss 2022 - Förderkreis Mahn - und Gedenkstätte - einstimmig beschlossen
+- TOP 45: Aufstellung von Fahrradständern im Bereich Dickhausweg am Einkaufszentrum in Lichtenbroich - Vorlage BV6/163/2021 - zur Kenntnis genommen
+- TOP 46: Instandsetzung Radweg zwischen Bochumer Straße und Theodorstraße - Vorlage BV6/091/2022 - zur Kenntnis genommen
+- TOP 47: Maßnahmen zur Einhaltung der Tempo 30 Regelung auf der Wilhelm-Raabe-Straße - Vorlage BV6/120/2022 - zur Kenntnis genommen
+- TOP 48: Prüfung einer Busverbindung zwischen Unterrath und Mörsenbroich im Rahmen der Aufstellung des Nahverkehrsplans - Vorlage BV6/123/2022 - zur Kenntnis genommen
+- TOP 49: Einrichtung von Tempo 30 auf dem gesamten Volkardeyer Weg - Vorlage BV6/138/2021 - zur Kenntnis genommen
+- TOP 50: Fehlende Bänke an Haltestellen der Buslinie 729 - Vorlage BV6/016/2022 - zur Kenntnis genommen
+- TOP 51: Tempo 30 auf der Deikerstraße zwischen Carl-Sonnenschein-Straße und Am Hain - Vorlage BV6/044/2022 - zur Kenntnis genommen
+- TOP 52: Kurzzeitparkplätze vor der neuen Postfiliale an der Kalkumer Straße 104 - Vorlage BV6/074/2022 - zur Kenntnis genommen
