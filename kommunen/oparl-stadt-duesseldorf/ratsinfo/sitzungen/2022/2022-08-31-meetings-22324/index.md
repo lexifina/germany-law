@@ -1,0 +1,54 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-08-31T15:00:00+02:00
+- Ende: 2022-08-31T17:48:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22324
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22324
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket 31.08.2022 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457736.pdf
+- Ergebnisprotokoll: Sitzungspaket 31.08.2022 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457736.pdf
+- Wortprotokoll: Sitzungspaket 31.08.2022 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00457736.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/004/2022 vom 18.05.2022 - einstimmig beschlossen
+- TOP 3: Vorstellung der Planungen zum Umbau am Heerdterhof-Garten - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bauvorhaben St. Anna Niederkassel - Stand des Verfahrens, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 6: Flächensparendes Bauen an der Oberlöricker Straße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7: Ablösebeträge entsprechend Stellplatzabgabeverordnung für das linksrheinische Düsseldorf nutzen, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 8: Schafs-Kadaver am Rheinufer, Anfrage des Bezirksvertreters Alexander Schmitt - zur Kenntnis genommen
+- TOP 9: Rheinkirmes 2022: Beschwerde von Anwohnern und mangelnde Präsenz durch das Ordnungsamt, Anfrage des Bezirksvertreters Alexander Schmitt
+- TOP 10: Optischer Eindruck unseres Stadtbezirks, Anfrage der FDP-Fraktion
+- TOP 11: Anregungen aus der Bevölkerung ernst nehmen – Rahmenbedingungen der „Größten Kirmes am Rhein" weiterentwickeln, Anfrage der CDU-Fraktion
+- TOP 12: Verkehrsumfahrung optimieren - Anwohnerinnen und Anwohner vor Umleitungsverkehr schützen, Anfrage der CDU-Fraktion
+- TOP 13: Braune Tonne im linksrheinischen Düsseldorf, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 14: Parken von LKW und Zugmaschine auf dem Niederkasseler Lohweg, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 15: Prozessstruktur Beteiligung Nahverkehrsplanung - zur Kenntnis genommen
+- TOP 16: Zuschuss an die Tennisgemeinschaft Lörick e.V. - einstimmig beschlossen
+- TOP 17: Natur- und sozialverträgliche Lösungen zur Ausübung des Freizeitradsports für den Bereich Dirtbike - zur Kenntnis genommen
+- TOP 18: Zuschuss aus Mitteln der Bezirksvertretung 4 im Jahre 2022 - einstimmig beschlossen
+- TOP 19: Ausweichparkplätze im Stadtbezirk 4 dringend gesucht, Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 20: Anwohnerbelastung durch Besucher der Rheimkirmes wirksam senken!, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 21: Nachhaltig die Parkraumqualität durch Quartiersgarage verbessern!, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 22: Sitzgelegenheit an der Bushaltestelle Barbarossaplatz schaffen, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 23: Fahrradstraße auf der Schorlemerstraße zwischen Quirinstraße und Niederkasseler Kirchweg, Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 24: Gestaltungsbeleuchtung am Heerdter Dreieck ausschalten, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 25: Sitzbank für Hundeauslaufplatz im Rheinpark Heerdt, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 26: Aufstellung von Hundekotbeutelspendern und Abfallbehältern auf beiden Seiten der Niederkasseler Schützenfestwiese sowie unterhalb der Theodor-Heuss-Brücke - zur Kenntnis genommen
+- TOP 27: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Rheinallee 145 - Beseitigung eines Mehrfamilienhauses - einstimmig beschlossen
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Entsorgung von "Schrotträdern", Anfrage der Bezirksvertreterin Claudia Drossel - zur Kenntnis genommen
+- TOP 32: Stadtbaumkonzept für Düsseldorf (4. Pflanzperiode) - zur Kenntnis genommen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Parkraum schaffen durch Quartiersgaragen, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 35: Poller zur Verkehrsentlastung im Greifweg - zur Kenntnis genommen
+- TOP 36: Bereitstellung von Stellplätzen für Lastenfahrräder - zur Kenntnis genommen
+- TOP 37: Getränkehandel Benediktusstraße, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE - zur Kenntnis genommen
