@@ -1460,6 +1460,14 @@ VI.2 Zur Anlage:
   MEPC.125(53), korrigiert durch MEPC 53/24/Add.1/Corr.1)
   Angenommen am 22. Juli 2005
   (VkBl. 2021 S. 152)
+  Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen (G8)
+  (MEPC.174(58))
+  Angenommen am 10. Oktober 2008
+  (VkBl. 2011 S. 180, Berichtigung der Bekanntmachung VkBl. 2011 S. 650)
+  Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen (G8) 2016
+  (MEPC.279(70))
+  Angenommen am 28. Oktober 2016
+  (VkBl. 2019 S. 364)
   Zu Regel D-3.2:
   Verfahren für die Zulassung von Ballastwasser-Behandlungssystemen, die aktive Substanzen verwenden (G9)
   (Entschließung MEPC.126(53), korrigiert durch MEPC 53/24/Add.1/Corr.1)
@@ -1477,14 +1485,6 @@ VI.2 Zur Anlage:
   Leitlinien von 2020 für Inbetriebnahmeprüfungen von Ballastwasser-Behandlungssystemen (BWM.2/ Rundschreiben 70/Rev.1)
   Angenommen am 9. Dezember 2020
   (VkBl. 2022 S. 283)
-  Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen (G8)
-  (MEPC.174(58))
-  Angenommen am 10. Oktober 2008
-  (VkBl. 2011 S. 180, Berichtigung der Bekanntmachung VkBl. 2011 S. 650)
-  Richtlinien für die Zulassung von Ballastwasser-Behandlungssystemen (G8) 2016
-  (MEPC.279(70))
-  Angenommen am 28. Oktober 2016
-  (VkBl. 2019 S. 364)
 D. Rechtsakte der Europäischen Gemeinschaften und der Europäischen Union:
 – Die Änderungshistorie der in diesem Abschnitt genannten Rechtsvorschriften des Gemeinschafts- und Unionsrechts ist über das Internet unter www.eur-lex.europa.eu abrufbar. –
   1. Bezogen auf die Wasserstraßen der Zonen 1 und 2 (Anhang I Kapitel 1 der nachfolgenden Richtlinie):
