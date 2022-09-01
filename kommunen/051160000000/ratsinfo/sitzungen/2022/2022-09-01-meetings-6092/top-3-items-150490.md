@@ -1,0 +1,8 @@
+# TOP 3: Vorstellung und Bericht über die Flughafengesellschaft Mönchengladbach GmbH (FMG)
+
+- Sitzung: Ausschuss für Finanzen, Beteiligungen und Wirtschaft (2022-09-01)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/150490
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/32293
