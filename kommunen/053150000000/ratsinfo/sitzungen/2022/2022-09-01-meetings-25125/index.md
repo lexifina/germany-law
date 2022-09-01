@@ -1,0 +1,92 @@
+# 12. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-09-01T15:03:00+02:00
+- Ende: 2022-09-01T18:37:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25125
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25125
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung der Anfrage des beratenden Mitglieds Jörg Beste aus der Sitzung des Stadtentwicklungsausschusses vom 07.04.2022 betr. Gesamtentwicklung Mülheimer Süden – Einbindung in das Konzept des Wasser-busses - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Anfrage der VOLT Fraktion TO Ö 19, StEA 07.04.2022 - Kenntnis genommen
+- TOP 1.3: Beantwortung mündlicher Anfragen aus der Sitzung des Stadtentwicklungsausschusses vom 02.06.2022 zum TOP 5.3 - Kenntnis genommen
+- TOP 1.4: Beantwortung einer Anfrage (AN/1104/2022) gemäß § 4 der Geschäftsordnung des Rates zum städtebaulichen Planungskonzept Hochpunkt Siegburger Straße bzw. städtebauliches Planungskonzept Deutzer Hafen in Köln Deutz. - Kenntnis genommen
+- TOP 1.5: Sichtbare Vorrichtungen auf dem Dach des Roten Hauses - Kenntnis genommen
+- TOP 1.6: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN im Kölner Rat, CDU-Fraktion im Rat der Stadt Köln, Volt-Fraktion im Rat der Stadt Köln, AN/1081/2022 Rechtliche Möglichkeiten zur Umsetzung von stadtentwicklungspolitischen Zielen - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen aus früheren Sitzungen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Deutzer Hafen – Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme - zurückgestellt
+- TOP 2.2.2: Volle Aufmerksamkeit für die Entwicklung des Deutzer Hafen und volle Transparenz der anstehenden Entscheidungen - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: Antrag zu einem Hochhaus-Moratorium - zurückgestellt
+- TOP 3.2: Monitoring Stadtentwicklung öffentlich abrufbar machen - Sache ist erledigt
+- TOP -: Stellungnahme zu einem Antrag der LINKE (AN/0974/2022) : Monitoring Stadtentwicklung öffentlich abrufbar machen - Kenntnis genommen
+- TOP 3.3: Umwidmung des Parkplatzes zwischen römischer Stadtmauer, Zeughaus und Regierungspräsidium - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Live-Stream der Sitzungen des Stadtentwicklungsausschusses - zurückgestellt
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ungeändert beschlossen
+- TOP 6.3: Gestaltungsbeirat der Stadt Köln; Anpassung der Geschäftsordnung des Gestaltungsbeirates - zurückgestellt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 234. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes; Arbeitstitel: "Quartiersentwicklung Simonskaul in Köln-Weidenpesch und Aufhebung der Verlängerung der Äußeren Kanalstraße - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nummer 6250/04; Arbeitstitel: Gewerbe- und Medienpark in Köln-Ossendorf, 7. Änderung Motorworld Bürogebäude und Autohaus - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP -: Änderungsantrag zu TOP 10.1 - Gewerbe- und Medienpark Köln-Ossendorf - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan), Arbeitstitel: "Oranienstraße" in Köln-Höhenberg - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.2 - "Oranienstraße" in Köln-Höhenberg - geändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung betreffend die vereinfachte Änderung des Bebauungsplanes Nummer 6439.02; - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.4 - Subbelrather Straße 387-407 - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: "Roddergasse" in Köln - Humboldt / Gremberg - geändert beschlossen
+- TOP 10.6: Leitlinien für die Durchführung eines Qualifizierungsverfahrens zur Erweiterung der DEVK- Zentrale auf dem Gelände des derzeitigen Zoo-Parkhauses in Form eines Bürohochhauses in Köln-Riehl – verfahrensleitender Beschluss - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) Arbeitstitel: Weinsbergstraße/Innere Kanalstraße in Köln-Ehrenfeld - zurückgestellt
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 61520/02 Arbeitstitel: Donatusstraße in Köln-Pesch - ohne Votum in nachfolgende Gremien
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr. 61483/02; Arbeitstitel: Seeadlerweg in Köln-Vogelsang - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: 1. Änderung des Bebauungsplanes Nummer 63459/02 mit dem Arbeitstitel „Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung“ Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vor - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Teilaufhebung der Bebauungspläne 6644 Nd 1/16 (674253/16), 67454/09 und 67454/10 Arbeitstitel: Historische Mitte in Köln-Altstadt/Nord Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschlus - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Eb - ungeändert beschlossen
+- TOP 15.2: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen - ungeändert beschlossen
+- TOP 15.3: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Th - ungeändert beschlossen
+- TOP 15.4: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Ha - ungeändert beschlossen
+- TOP -: Präsentation der Verwaltung zu den Tagesordnungspunkten TO Ö 15. -15.4 - Kenntnis genommen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: 227. Änderung des Flächennutzungsplanes im Stadtbezirk 1, Arbeitstitel: Deutzer Hafen in Köln-Deutz Hier: Mitteilung über die Offenlage nach §3 Abs. 2 BauGB - Kenntnis genommen
+- TOP 17.2: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) vorhabenbezogener Bebauungsplan-Entwurf Nummer 63457/03; Arbeitstitel: Wohnbebauung Alsdorfer Straße in Köln-Braunsfeld/-Ehrenfeld - Kenntnis genommen
+- TOP 17.3: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) des vorhabenbezogenen Bebauungsplan-Entwurf 63454/03, Arbeitstitel: Scheidtweilerstraße 44 – 48 in Köln-Braunsfeld - Kenntnis genommen
+- TOP 17.4: Betreff: Offenlage nach § 3 Abs. 2 Baugesetzbuch (BauGB); vorhabenbezogener Bebau-ungsplan Nr. 71356/02 und Vorhaben- und Erschließungsplan;Arbeitstitel: "An der Mühle" in Köln-Porz-Langel - Kenntnis genommen
+- TOP 17.5: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); Bebauungsplan-Entwurf Nummer 59569/05; Arbeitstitel: Südlich Baptiststraße in Köln-Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 17.6: Bevölkerungsentwicklung 2021 - Rückgang der Bevölkerungszahl durch sinkende Zuzüge - zurückgestellt
+- TOP 17.7: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) vorhabenbezogener Bebauungsplan Nummer 66509/10 Arbeitstitel: Simonskaul in Köln-Weidenpesch
+- TOP 18: Mitteilungen
+- TOP 18.1: Sachstand „Science meets City“-Symposium - Kenntnis genommen
+- TOP 18.2: Kölner Statistische Nachrichten 7/2022 – Auswertung der Bautätigkeitsstatistik 2021 - Kenntnis genommen
+- TOP 18.3: Bebauungsplan 69460.07 "Euroforum Nord" in Köln-Mülheim Sachstand Projektentwicklung - Kenntnis genommen
+- TOP 18.4: Agglomerationsprogramm Region Köln/Bonn - Kenntnis genommen
+- TOP 18.5: Kooperation Köln und rechtsrheinische Nachbarn (K&RN) - Kenntnis genommen
+- TOP 18.6: Evaluation der Sozialen Erhaltungssatzung Stegerwaldsiedlung - Kenntnis genommen
+- TOP 18.7: Beteiligung der Öffentlichkeit gemäß § 3 Absatz 1 BauGB in Verbindung mit § 13 Absatz 2 BauGB nach Modell 1; Städtebauliches Planungskonzept zur Änderung des Bebauungsplanes Nummer 69370/02Arbeitstitel: Kiesgrubenweg in Köln-Hahnwald, 1. Änderung - Kenntnis genommen
+- TOP 18.8: Veröffentlichung der Änderung der Umsetzungsanweisung des Kooperativen Baulandmodells Köln (Beschlussvorlage Nr. 4229/2021) auf den Internetseiten der Stadt Köln mit redaktioneller Änderung und Klarstellung. - Kenntnis genommen
+- TOP 18.9: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 18.10: Deutzer Hafen - Nachhaltigkeitshandbuch - Kenntnis genommen
+- TOP 18.11: Regionalplanneuaufstellung, hier: Stellungnahme der Stadt Köln zum Regionalplanentwurf Köln eingereicht - Kenntnis genommen
+- TOP 18.12: Städtebaugroßprojekt Parkstadt Süd; Eröffnung des Pionierparks am 22. September 2022 - Kenntnis genommen
+- TOP 18.13: Konzept für die Höhenentwicklung zukünftiger Bauvorhaben für den Bereich der "Inneren Stadt" - zurückgestellt
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
