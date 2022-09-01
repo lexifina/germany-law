@@ -1,0 +1,69 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2022-09-01T17:05:00+02:00
+- Ende: 2022-09-01T20:20:00+02:00
+- Ort: Stadthalle, Europaplatz 10, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-RAT-136
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-RAT-136
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2022-RAT-136
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-RAT-136
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-RAT-136
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Gebäudeensemble Forum Stadtmittelpunkt sowie ISEK Stadtmittelpunkt - Weiterentwicklung der Maßnahme "Rathaus der Bürgerschaft" (vormals "BürgerRatHaus") sowie Antrag zum Städtebauförderprogramm 2023
+- TOP 3: Ausrufen der "Alarmstufe Gas" - einstimmig angenommen
+- TOP 3.1: Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90 / Die GRÜNEN vom 22.08.2022 zur Initiierung eines "Energie Dialog" mit den Trägern sozialer Angebote in Castrop-Rauxel - einstimmig angenommen
+- TOP 3.2: Antrag der FDP-Fraktion vom 22.08.2022_Beteiligung aller Ratsfraktionen an den Beratungen des Krisenstabes
+- TOP 4: Hauptsatzung (2. Änderung) der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 5: Beteiligungsbericht 2019 - einstimmig angenommen
+- TOP 6: Entwurf des Jahresabschlusses zum 31.12.2020 - einstimmig angenommen
+- TOP 7: Inanspruchnahme der "Größenabhängigen Befreiungen" von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2021 (§ 116a GO NRW) - einstimmig angenommen
+- TOP 8: Umsetzung der Förderprogramme aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm "Gute Schule 2020" des Landes - einstimmig angenommen
+- TOP 9: Zusätzliche Mittelbereitstellungen für den Betrieb operativen Betrieb des Corona-Testzentrums am Stadtmittelpunkt in Castrop-Rauxel in den Monaten Januar bis Mai 2022 - einstimmig angenommen
+- TOP 10: Außerplanmäßige Mittelbereitstellung gemäß § 83 GO im Haushaltsjahr 2022 in Höhe von insgesamt 99.252 EUR bei dem Kostenträger 211101 (Grundschulen) aus der Fachbezogenen Pauschale für die Haushaltsjahre 2021 und 2022 zum Abbau von Lernrückständen (Umsetzung der Bund-Länder-Vereinbarung "Aktionsprogramm Aufholen nach Corona für Kinder und Jugendliche" NRW) - einstimmig angenommen
+- TOP 11: Bereitstellung von überplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Kontierung 5315000/50200/610101 (Zuschüsse an verbundene Unternehmen) über 170.000 EUR - einstimmig angenommen
+- TOP 12: Bericht über die finanziellen Auswirkungen der Maßnahmen zur Aufnahme und Unterbringung von anlässlich des Krieges in der Ukraine eingereisten Personen zum Stichtag 30.06.2022 (§ 6 KommunalhaushaltsrechtsanwendungsVO UA-Schutzsuchendenaufnahme) - einstimmig angenommen
+- TOP 13: Neue öffentlich-rechtliche Vereinbarung "Schule Oberwiese" in Waltrop - einstimmig angenommen
+- TOP 14: ISEK Merklinde - Antrag Städtebauförderprogramm 2023 - Planungsreife investiver Maßnahmen - einstimmig angenommen
+- TOP 15: Übertragung der Erschließung zum BPlan 186a (Südlich der Johannesstraße) - einstimmig angenommen
+- TOP 16: Übertragung der Erschließung zum BPlan 246 (Kraftwerk Knepper) - einstimmig angenommen
+- TOP 17: Zusätzliche Mittelbereitstellung bei der Kontierung 5241000/50670/550101 (Unterhaltung der Grundstücke und baulichen Anlagen) für die Vollentschlammung des Gondelteiches - einstimmig angenommen
+- TOP 18: Aufhebung des Ratsbeschlusses vom 27.02.2020: Möglichkeiten erweiterter Servicezeiten im Bürgerbüro der Stadt Castrop-Rauxel (Sitzungsvorlage 2020/001) - einstimmig angenommen
+- TOP 19: Antrag der FWI-Fraktion vom 08.08.2022_Einfahrsperre für Kraftfahrzeuge
+- TOP 20: Bebauungsplan Nr. 254 "Nördliche Bahnhofstraße" hier: Beschluss einer Veränderungssperre nach §§ 14 und 16 BauGB - einstimmig angenommen
+- TOP 21: Satzung der Stadt Castrop-Rauxel über die Begrünung von bebauten Grundstücken und Gebäuden (Begrünungssatzung) hier: Satzungsbeschluss
+- TOP 21.1: Satzung der Stadt Castrop-Rauxel über die Begrünung von bebauten Grundstücken und Gebäuden (Begrünungssatzung) hier: Satzungsbeschluss - mehrheitlich angenommen
+- TOP 22: Anfrage der DIE LINKE-Fraktion vom 08.08.2022 _ Bebauung neben dem Amtsgericht an der Bahnhofstraße
+- TOP 23: Anfrage der Fraktion DIE LINKE vom 05.08.2022 _ Altlastenverdachtsflächen im Bebauungsplan Nr. 261 "Sport-, Spiel- und Bewegungspark am Hallenbad" Castrop-Rauxel
+- TOP 24: Richtlinie für die Sonderförderung zum Rückbau von Schottergärten auf dem Gebiet der Stadt Castrop-Rauxel hier: Beschluss der Förderrichtlinie - einstimmig angenommen
+- TOP 25: Antrag der Fraktion DIE LINKE vom 08.08.2022_Prüfauftrag Altstadtpflaster
+- TOP 26: Antrag der Fraktion FWI vom 09.08.2022 _ Zaunanlage am Friedhof in Ickern - einstimmig angenommen
+- TOP 27: Entwicklungspfad Erneuerbare Energien in Castrop-Rauxel Statusbericht der AG Gebäude & Energie des Klimabeirates
+- TOP 28: Umsetzungskonzept zum Nahmobilitätskonzept - mehrheitlich angenommen
+- TOP 29: Prüfauftrag der CDU-Fraktion vom 07.08.2022 _ Fahrradstraße Alemannenstraße - einstimmig angenommen
+- TOP 30: 2. Änderung zur Entgeltordnung vom 01.09.2022 zur Entgeltordnung für die Nutzung der Sportplätze, Sporthallen, Turnhallen und Bäder durch Vereine und sonstige Nutzergruppen vom 01.01.2013 - einstimmig angenommen
+- TOP 31: Antrag der Fraktionen SPD und Bündnis 90/ Die GRÜNEN vom 08.08.2022 _ Der IGA 2027 mit dem Emscherland einen Zugang schaffen - mehrheitlich angenommen
+- TOP 32: Antrag der CDU-Fraktion vom 07.08.2022 _ Antrag Konzeptentwicklung "Nacht der Ausbildung" - einstimmig angenommen
+- TOP 33: MitmachStadt
+- TOP 34: Beschlusskontrolle über die Durchführung von Ratsbeschlüssen
+- TOP 35: Änderung zur Geschäftsordnung (11.) für den Rat der Stadt Castrop-Rauxel und seine Ausschüsse - einstimmig angenommen
+- TOP 36: Antrag CDU Fraktion vom 09.08.2022_ Gendersprache - einstimmig angenommen
+- TOP 37: Antrag CDU Fraktion vom 17.08.2022_ Jugendbudget - einstimmig angenommen
+- TOP 38: Antrag der FWI Fraktion vom 09.08.2022_Ausschussumbesetzungen - einstimmig angenommen
+- TOP 39: Antrag Fraktion DIE LINKE vom 16.08.2022_Ausschussumbesetzung AKU - einstimmig angenommen
+- TOP 40: Antrag Ratsmitglied Notburga Henke vom 16.08.2022_Rain Carbon Germany GmbH_Informationen zum Schutz der Bevölkerung
+- TOP 41: Zusätzlicher investiver Mittelbedarf für die Aufnahme ukrainischer Kriegsflüchtlinge - einstimmig angenommen
+- TOP 42: Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum Stichtag 30.07.2022
+- TOP 43: Bereitstellung von überplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Kontierung 5235000/50200/610101 (Erstattungen an verbundene Unternehmen) über 70.000 € - einstimmig angenommen
+- TOP 44: Antrag der CDU-Fraktion vom 31.08.2022_Resolution Energie - mehrheitlich abgelehnt
+- TOP 45: Antrag der CDU-Fraktion vom 31.08.2022_Umbesetzung im Ausschuss für Wirtschaftsentwicklung und Digitalisierung - einstimmig angenommen
+- TOP 46: Anfragen der Ratsmitglieder
+- TOP 47: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
