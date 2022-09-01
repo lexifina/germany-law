@@ -1,0 +1,91 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-09-01T18:40:00+02:00
+- Ende: 2022-09-01T20:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2899
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2899
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Verpflichtung eines neuen Ratsmitgliedes
+- TOP 3: Eintragung in das Goldene Buch der Stadt Grevenbroich
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 4.1: Genehmigung einer Dringlichkeitsentscheidung Änderung StV TST - einstimmig beschlossen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Finanzzwischenbericht zum 30.06.2022 - Kenntnisnahme
+- TOP 7: Sachstandsbericht Sanierungsplan zum 30.06.2022 - Kenntnisnahme
+- TOP 8: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung im ersten Halbjahr 2022 - Kenntnisnahme
+- TOP 9: Bericht zum 30.06.2022 ukrainische Flüchtlinge - Kenntnisnahme
+- TOP 10: Halbjahresbericht über wichtige Gesellschafterbeschlüsse und Vorgänge in beteiligten Unternehmen 2021 2. Halbjahr - Kenntnisnahme
+- TOP 11: Befreiung von der Aufstellung des Gesamtabschlusses 2021 - einstimmig beschlossen
+- TOP 12: Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 13: Fraktionszuwendungen - einstimmig beschlossen
+- TOP 14: Flüchtlingsaufnahme durch die Kommune - Kenntnisnahme
+- TOP 15: Nutzung von Unterbringungsmöglichkeiten für Flüchtlinge in Dormagen im Wege der Amtshilfe - Kenntnisnahme
+- TOP 16: Entscheidung über Beratungspunkte aus der Sitzung des Schulausschusses
+- TOP 16.1: Errichtung einer dritten Gesamtschule - mehrheitlich beschlossen
+- TOP 16.2: Sukzessive Auflösung der Diedrich-Uhlhorn-Realschule - mehrheitlich beschlossen
+- TOP 16.3: Festlegung einer dauerhaften 5-Zügigkeit des Pascal-Gymnasiums - einstimmig beschlossen
+- TOP 16.4: Einführung einer einkommensabhängigen OGS-Beitragssatzung - mehrheitlich beschlossen
+- TOP 17: Entscheidung über einen Beratungspunkt aus der Sitzung des Rechnungsprüfungsausschusses
+- TOP 17.1: Feststellung des Jahresabschlusses der Stadt Grevenbroich zum 31.12.2020, Behandlung des Jahresüberschusses und Entlastung des Bürgermeisters - einstimmig beschlossen
+- TOP 18: G 221 - Städtebaulicher Vertrag - einstimmig beschlossen
+- TOP 19: G 221 Satzungsbeschluss - einstimmig beschlossen
+- TOP 20: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 20.1: 32. FNP Änd. - Beschluss gem. § 6 BauGB - mehrheitlich beschlossen
+- TOP 20.2: G 234 Aufstellung - einstimmig beschlossen
+- TOP 20.3: 39. FNP Änd. - Aufstellung - einstimmig beschlossen
+- TOP 20.4: F 29 ern. Aufstellung - mehrheitlich beschlossen
+- TOP 20.5: Aufstellung 1. vereinf. Änd. der 8. Änd. G 46 § 13 - einstimmig beschlossen
+- TOP 20.6: Erlass VS 1. vereinf. Änd. der 8. Änd. G 46 - einstimmig beschlossen
+- TOP 20.7: G 224 - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 20.8: Kapitalerhöhung der landeseigenen Gesellschaft NRW.URBAN Kommunale Entwicklung GmbH - einstimmig beschlossen
+- TOP 20.9: Grevenbroich schließt sich der Städtetagsinitiative "Lebenswerte Städte durch angemessene Geschwindigkeiten" an (Antrag Nr.: 29/2022) - mehrheitlich beschlossen
+- TOP 21: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 21.1: Beantwortung der Anfrage: Wahlhelferinnen und Wahlhelfer zur Landtagswahl am 15. Mai 2022 in der Stadt Grevenbroich (Anfrage Nr.: 39/2022)
+- TOP 22: Schriftliche Anträge
+- TOP 22.1: Anträge der SPD-Fraktion
+- TOP 22.1.1: Umbesetzung (Antrag Nr.: 63/2022) - einstimmig beschlossen
+- TOP 22.1.2: Energieberatung ausbauen (Antrag Nr.: 64/2022) - einstimmig beschlossen
+- TOP 22.2: Anträge der CDU-Fraktion
+- TOP 22.2.1: Breitbandversorgung/flächendeckende Glasfaserleitung (Antrag Nr.: 50/2022) - einstimmig beschlossen
+- TOP 22.2.2: Mobilitätsplattform "PENDLA" (Antrag Nr.: 51/2022) - einstimmig beschlossen
+- TOP 22.2.3: Ansprechpartner für Immobilieneigentümer (Antrag Nr.: 67/2022) - einstimmig beschlossen
+- TOP 22.2.4: Zukünftige Parksituation in Langwaden durch die Baumaßnahme Fläche "Bäckerei Erschfeld" (Antrag Nr.: 68/2022)
+- TOP 22.2.5: Vermehrte Verkehrsüberwachung durch "Blitzer" in Hülchrath (Antrag Nr.: 69/2022) - einstimmig beschlossen
+- TOP 22.2.6: Gewerbe-/Industrieflächen im Grevenbroicher Süden (Antrag Nr.: 70/2022) - einstimmig beschlossen
+- TOP 22.2.7: Antrag auf Umbesetzung in Gremien Dritter, hier Aero-Club Grevenbroich-Neuss e.V.; Aufsichtsrat (Antrag Nr.: 71/2022) - einstimmig beschlossen
+- TOP 22.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 22.3.1: Auflösung und Neubildung von Ausschüssen (Antrag Nr.: 54/2022)
+- TOP 22.3.2: Auflösung und Neubildung von Ausschüssen - einstimmig beschlossen
+- TOP 22.3.3: Prüfen eines Naturgruppenkonzeptes zur Schaffung von zusätzlichen Kindergartenplätzen (Antrag Nr.: 61/2022) - einstimmig beschlossen
+- TOP 22.4: Anträge der FDP-Fraktion
+- TOP 22.4.1: Grundsteuer darf nicht zur Steuererhöhungsspirale werden (Antrag Nr.:38/2022) - mehrheitlich abgelehnt
+- TOP 22.4.2: Faires Anmeldeverfahren sicherstellen - Gleichzeitiges Anmeldeverfahren für die weiterführenden Schulen für das Schuljahr 2023/24 (Antrag Nr.: 62/2022)
+- TOP 22.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 22.5.1: Prüfauftrag Photovoltaik auf Parkflächen (Antrag Nr.: 59/2022) - einstimmig beschlossen
+- TOP 22.6: Anträge der UWG-Fraktion
+- TOP 22.6.1: Dienstleistungen des Bürgerbüros der Stadt Grevenbroich - Terminvereinbarungen (Antrag Nr.: 53/2022)
+- TOP 22.6.2: Ausschussumbesetzung (Antrag Nr.: 55/2022) - einstimmig beschlossen
+- TOP 22.6.3: Ausschussumbesetzung (Antrag Nr.: 56/2022) - einstimmig beschlossen
+- TOP 22.6.4: Auftragsvergaben/Ausgaben für externe Gutachten in den Jahren 2020 bis Juni 2022 (Antrag Nr.: 58/2022) - einstimmig beschlossen
+- TOP 22.6.5: Energiebericht der Stadt Grevenbroich (Antrag Nr.: 60/2022)
+- TOP 23: Gemeinschaftsanträge
+- TOP 23.1: Attraktivität der Ehrenamtskarte steigern (Antrag Nr.: 65/2022) - einstimmig beschlossen
+- TOP 23.2: Sozialtarif für Strom und Gas (Antrag Nr.: 66/2022) - einstimmig beschlossen
+- TOP 24: Schriftliche Anfragen
+- TOP 24.1: Anfragen der SPD-Fraktion
+- TOP 24.2: Anfragen der CDU-Fraktion
+- TOP 24.2.1: Anfrage: Errichtung Ortseingangsschild "Herzlich Willkommen" in Neuenhausen (Anfrage Nr.: 52/2022)
+- TOP 24.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 24.4: Anfragen der FDP-Fraktion
+- TOP 24.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 24.6: Anfragen der UWG-Fraktion
+- TOP 25: Stellenausschreibung Beigeordneter - einstimmig beschlossen
+- TOP 26: Mitteilungen des Bürgermeisters
