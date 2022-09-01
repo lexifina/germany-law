@@ -1,8 +1,8 @@
 # VwV Notardienstordnung Vollzitat: VwV Notardienstordnung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19463.1
+- Datum: 2022-09-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19463.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2022
+01.09.2022
 bis
-31.08.2022
+31.05.2023
 
 VwV Notardienstordnung
 
@@ -140,7 +140,9 @@ sich die Tätigkeit oder Bevollmächtigung auf dieselbe Angelegenheit bezog oder
 das Ergebnis der Prüfungen in der zu dem Amtsgeschäft geführten Nebenakte festgehalten wird.
 
 
-(3) Die Notarin oder der Notar hat durch eine Bescheinigung der Herstellerin oder des Herstellers des Systems zur Konflikterkennung zu belegen, dass das System zur Prüfung der in Satz 1 Nummer 1 genannten Voraussetzungen geeignet ist. Bei einem Wechsel des Systems oder des Anbieters hat die Notarin oder der Notar die weitere Verwendbarkeit der vorhandenen Dokumente sicherzustellen. Der Aufsichtsbehörde ist auf Anforderung Einblick in die Gesamtheit der vom System zur Prüfung herangezogenen Informationen zu gewähren.
+(3) Die Notarin oder der Notar hat durch eine Bescheinigung der Herstellerin, des Herstellers, der
+
+Vertreiberin oder des Vertreibers des Systems zur Konflikterkennung zu belegen, dass das System zur Prüfung der in Satz 1 Nummer 1 genannten Voraussetzungen geeignet ist. Bei einem Wechsel des Systems oder des Anbieters hat die Notarin oder der Notar die weitere Verwendbarkeit der vorhandenen Dokumente sicherzustellen. Der Aufsichtsbehörde ist auf Anforderung Einblick in die Gesamtheit der vom System zur Prüfung herangezogenen Informationen zu gewähren.
 
 
 § 7
@@ -165,7 +167,7 @@ Unter Nummer 1 sind alle in das Urkundenverzeichnis eingetragenen Beurkundungen 
 
 3.
 
-Unter Nummer 1 Buchstabe a sind alle Beglaubigungen von Unterschriften oder Handzeichen aufzunehmen, wobei in Beglaubigungen mit Anfertigung eines Urkundenentwurfs und ohne Anfertigung eines Urkundenentwurfs aufzugliedern ist; Urkundenentwürfe sind nur dann aufzunehmen, wenn die Notarin oder der Notar Unterschriften oder Handzeichen darunter beglaubigt hat.
+Unter Nummer 1 Buchstabe a sind alle Beglaubigungen von Unterschriften, Handzeichen oder qualifizierten elektronischen Signaturen aufzunehmen, wobei in Beglaubigungen mit Anfertigung eines Urkundenentwurfs und ohne Anfertigung eines Urkundenentwurfs aufzugliedern ist; Urkundenentwürfe sind nur dann aufzunehmen, wenn die Notarin oder der Notar Unterschriften, Handzeichen oder qualifizierten elektronischen Signaturen des Entwurfs beglaubigt hat.
 
 
 4.
@@ -290,7 +292,9 @@ zur Führung von Akten und Verzeichnissen
 Software-Herstellerbescheinigungen
 
 
-(1) Werden die Nebenakten elektronisch geführt, ist durch eine Bescheinigung der Herstellerin oder des Herstellers der eingesetzten Software zu belegen, dass die nach § 43 Absatz 1 NotAktVV erforderlichen Voraussetzungen eingehalten sind und die Möglichkeit zur Herstellung eines Repräsentats nach § 43 Absatz 2 NotAktVV jederzeit gegeben ist.
+(1) Werden die Nebenakten elektronisch geführt, ist durch eine Bescheinigung der Herstellerin, des Herstellers, der Vertreiberin
+
+oder des Vertreibers der eingesetzten Software zu belegen, dass die nach § 43 Absatz 1 NotAktVV erforderlichen Voraussetzungen eingehalten sind und die Möglichkeit zur Herstellung eines Repräsentats nach § 43 Absatz 2 NotAktVV jederzeit gegeben ist.
 
 
 (2) Wird die Führung des Urkundenverzeichnisses, des Verwahrungsverzeichnisses oder der elektronischen Urkundensammlung durch eine nicht von der Bundesnotarkammer oder in deren Auftrag bereitgestellte Software unterstützt, ist durch eine Bescheinigung der Herstellerin oder des Herstellers der eingesetzten Software zu belegen, dass nur die von der Bundesnotarkammer zur Datenübernahme bereitgestellten Schnittstellen verwendet werden und deren Anbindung entsprechend den Vorgaben der Bundesnotarkammer umgesetzt ist.
@@ -333,7 +337,7 @@ in anderen (zum Beispiel elektrografischen oder elektrofotografischen) Verfahren
 Formblätter, die in den genannten Druck- oder Kopierverfahren hergestellt worden sind.
 
 
-(2) Bei Unterschriftsbeglaubigungen, für Abschlussvermerke in Niederschriften, für Vermerke über die Beglaubigung von Abschriften sowie für Ausfertigungsvermerke ist der Gebrauch von Stempeln unter Verwendung von schwarzer oder dunkelblauer Stempelfarbe zulässig, die den Prüfanforderungen in Anlehnung an ISO 12757-2 oder ISO 14145-2 entspricht.
+(2) Der Gebrauch von Stempeln ist unter Verwendung von schwarzer oder dunkelblauer Stempelfarbe zulässig, die den Prüfanforderungen in Anlehnung an ISO 12757-2 oder ISO 14145-2 entspricht.
 
 
 (3) Vordrucke, die der Notarin oder dem Notar von Beteiligten zur Verfügung gestellt werden, müssen den Anforderungen der NotAktVV und dieser Dienstordnung an die Herstellung von Urschriften genügen. Insbesondere dürfen sie keine auf Urheberinnen oder Urheber des Vordrucks hinweisenden individuellen Gestaltungsmerkmale (Namensschriftzug, Firmenlogo, Signet, Fußzeile mit Firmendaten und Ähnliches) aufweisen. Urheberinnen oder Urheber sollen am Rand des Vordruckes angegeben werden. Dies gilt nicht bei Beglaubigungen ohne Entwurf.
@@ -343,13 +347,13 @@ Formblätter, die in den genannten Druck- oder Kopierverfahren hergestellt worde
 Übertragung der Papierdokumente in die elektronische Form
 
 
-Die Notarin oder der Notar hat zu belegen, dass bei der Übertragung der Papierdokumente in die elektronische Form zur Einstellung in das Elektronische Urkundenarchiv geeignete Vorkehrungen im Sinne des § 56 Absatz 1 Satz 1 BeurkG getroffen werden. Soll durch Verwendung der Muster-Verfahrensdokumentation der Bundesnotarkammer nachgewiesen werden, dass geeignete Vorkehrungen nach dem Stand der Technik im Sinne des § 56 Absatz 1 Satz 1 BeurkG getroffen wurden, muss die Notarin oder der Notar durch eine Bescheinigung der Herstellerin oder des Herstellers belegen, dass die eingesetzte Hard- und Software den im Rahmen der Muster-Verfahrensdokumentation gestellten Anforderungen genügt.
+Die Notarin oder der Notar hat zu belegen, dass bei der Übertragung der Papierdokumente in die elektronische Form zur Einstellung in das Elektronische Urkundenarchiv geeignete Vorkehrungen im Sinne des § 56 Absatz 1 Satz 1 BeurkG getroffen werden. Soll durch Verwendung der Muster-Verfahrensdokumentation der Bundesnotarkammer nachgewiesen werden, dass geeignete Vorkehrungen nach dem Stand der Technik im Sinne des § 56 Absatz 1 Satz 1 BeurkG getroffen wurden, muss die Notarin oder der Notar durch eine Bescheinigung der Herstellerin, des Herstellers, der Vertreiberin  oder des Vertreibers des Scangeräts belegen, dass die eingesetzte Hard- und Software den im Rahmen der Muster-Verfahrensdokumentation gestellten Anforderungen genügt.
 
 § 14
-Heften und Siegeln von Urkunden
+Verbinden, Beifügen und Siegeln
 
 
-(1) Beim Heften von Urkunden (§ 44 BeurkG) sollen Heftfäden in Landesfarben verwendet werden.
+(1) Beim Verbinden mehrerer Blätter zu einer Urkunde (§ 44 BeurkG) soll eine Schnur in Landesfarben verwendet werden.
 
 (2) Unterlagen, die der Urkunde nur beigefügt und mit dieser verwahrt werden, aber nicht nach § 44 BeurkG verbunden werden müssen, können auch angeklebt werden. Mit Urkunden, die in Papierform nicht länger als 30 Jahre aufbewahrt werden müssen, können Unterlagen im Sinne des Satzes 1 auch durch Heftklammern verbunden werden. Unterlagen im Sinne des Satzes 1 können in die Ausfertigungen und Abschriften der Haupturkunde aufgenommen werden.
 
@@ -550,7 +554,7 @@ Nachweise für die Vertretungsberechtigung (§ 12 BeurkG);
 
 5.
 
-Beurkundungen außerhalb des Amtsbereichs oder Amtsbezirks (§§ 10a, 11 BNotO);  
+Beurkundungen außerhalb des Amtsbereichs oder Amtsbezirks (§§ 10a, 11 BNotO) einschließlich der Beachtung der örtlichen  Beschränkung der Urkundstätigkeiten mittels Videokommunikation;  
 
 6.
 
@@ -606,7 +610,7 @@ Beachtung der Vermittlungs- und Gewährleistungsverbote (§ 14 Absatz 4 BNotO);
 
 18.
 
-Einhaltung der Urkundsgewährungspflicht (§ 15 Absatz 1 Satz 1 BNotO);  
+Einhaltung der Urkundsgewährungspflicht (§ 15 Absatz 1 Satz 1 BNotO) einschließlich der Amtspflicht  zur Vornahme von Urkundstätigkeiten mittels Videokommunikation;  
 
 19.
 
@@ -685,9 +689,9 @@ Fsn-Nr.: 302-V21.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2022
+Fassung gültig ab:  1. September 2022
 
-Fassung gültig bis: 31. August 2022
+Fassung gültig bis: 31. Mai 2023
 
 Drucken/Speichern
 
@@ -714,7 +718,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19463.1
+https://www.revosax.sachsen.de/vorschrift/19463.2
 Stand vom
 18.11.2026
 
