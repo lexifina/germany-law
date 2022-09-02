@@ -1,8 +1,8 @@
 # Förderrichtlinie Weltoffenes Sachsen Vollzitat: Förderrichtlinie Weltoffenes Sachsen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-04-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19550.1
+- Datum: 2022-09-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19550.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.04.2022
+02.09.2022
 bis
-01.09.2022
+30.06.2023
 
 Förderrichtlinie Weltoffenes Sachsen
 
@@ -312,7 +312,7 @@ Verfahren
 
 1.
 
-Der Antrag auf Gewährung einer Zuwendung ist bis zum 30. Juni des laufenden Jahres für das Folgejahr (Beginn des Bewilligungszeitraums 1. Januar) einzureichen.
+Der Antrag auf Gewährung einer Zuwendung ist bis zum 30. Juni des laufenden Jahres für das Folgejahr (Beginn des Bewilligungszeitraums 1. Januar) einzureichen. Abweichend von Satz 1 können im Jahr 2022 Anträge zusätzlich bis zum 30. September 2022 eingereicht werden.
 
 2.
 
@@ -522,9 +522,9 @@ Fsn-Nr.: 5571-V22.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. April 2022
+Fassung gültig ab:  2. September 2022
 
-Fassung gültig bis:  1. September 2022
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -549,7 +549,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19550.1
+https://www.revosax.sachsen.de/vorschrift/19550.2
 Stand vom
 18.11.2026
 
