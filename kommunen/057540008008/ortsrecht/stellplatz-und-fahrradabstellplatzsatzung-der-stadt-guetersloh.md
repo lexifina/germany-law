@@ -1,15 +1,17 @@
 # Stellplatz- und Fahrradabstellplatzsatzung der Stadt Gütersloh
 
 - Gemeinde: Stadt Gütersloh (ARS 057540008008)
-- Datum: 2021-10-08 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.guetersloh.de/de-wAssets/docs/ortsrecht/Endfassung-Satzung-mit-Anlagen.pdf
+- Datum: 2022-09-02 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.guetersloh.de/de-wAssets/docs/ortsrecht/Stellplatzsatzung.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Stellplatz- und Fahrradabstellplatzsatzung der Stadt Gütersloh vom 08.10.2021
-Der Rat der Stadt Gütersloh hat in seiner Sitzung am 08.10.2021 aufgrund der §§ 7 und 41 Abs. 1 Satz 2 Buchstabe f der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 202) zuletzt geändert durch Gesetz vom 29. September 2020 (GV. NRW. S. 916) und der §§ 48 Abs. 1 und 89 Abs. 1 Nr. 4 und 5 der Bauordnung für das Land Nordrhein-Westfalen vom 21. Juli 2018 (GV. NRW. S. 421) zuletzt geändert durch Art. 1 des Gesetzes vom 30.06.2021 (GV. NRW. S. 882) die folgende Satzung beschlossen:
+in der Fassung der 1. Nachtragssatzung vom 02.09.2022
+- Lesefassung -
+Der Rat der Stadt Gütersloh hat in seinen Sitzungen am 02.09.2022 aufgrund der §§ 7 und 41 Abs. 1 Satz 2 Buchstabe f der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 202) zuletzt geändert durch Art. 1 des Gesetzes vom 13. April 2022 (GV. NRW. S. 202) und der §§ 48 Abs. 1 und 89 Abs. 1 Nr. 4 und 5 der Bauordnung für das Land Nordrhein-Westfalen vom 21. Juli 2018 (GV. NRW. S. 421) zuletzt geändert durch Art. 3 des Gesetzes vom 14. September 2021 (GV. NRW. S. 1086) die 1. Nachtragssatzung zur Stellplatz- und Fahrradabstellplatzsatzung der Stadt Gütersloh vom 08.10.2021 beschlossen:
 §1
 Geltungsbereich
 Diese Satzung gilt für das Gebiet der Stadt Gütersloh. Regelungen in Bebauungsplänen oder sonstigen Satzungen, die von Regelungen dieser Satzung abweichen, bleiben unberührt.
@@ -19,8 +21,9 @@ Herstellungspflicht und Begriffe
 (2) Notwendige Stellplätze können in Form von befestigten Freiflächen, überdachten Stellplätzen oder Garagen nachgewiesen werden.
 (3) Eine von einem Kraftfahrzeug befahrbare Fläche zwischen Garage oder Carport und der öffentlichen Verkehrsfläche wird unter folgenden Bedingungen als notwendiger Stellplatz anerkannt: a) die Garage oder der Carport müssen mindestens 5,00 m von der Straßenbegrenzungslinie der öffentlichen Verkehrsfläche (Grenze der Straßenparzelle) entfernt sein und b) die Stellplätze müssen derselben Wohneinheit zugeordnet sein. c) Bei Gebäuden mit mindestens 4 Wohneinheiten ist maximal 1 „gefangener Stellplatz“ je Wohneinheit zulässig.
 (4) Von den notwendigen Stellplätzen sind 3%, bei Wohngebäuden mit Wohnungen nach § 49 Abs. 1 BauO NRW 2018 mindestens 1 Stellplatz, für Menschen mit Behinderungen auf dem Baugrundstück entsprechend zu kennzeichnen und barrierefrei herzustellen. Wird die Anlage erfahrungsgemäß von einer größeren Zahl von Menschen mit Behinderung besucht, ist die Anzahl dieser Stellplätze unter Berücksichtigung der besonderen Art der Anlage zu erhöhen. Weitergehende Anforderungen nach § 50 BauO NRW 2018 bleiben unberührt.
-(5) Werden Anlagen nach Absatz 1 geändert oder ändert sich ihre Nutzung, so sind notwendige Stellplätze in solcher Anzahl, Größe und Beschaffenheit herzustellen, dass sie die infolge der Änderung zusätzlich zu erwartenden Kraftfahrzeuge und Fahrräder (Mehrbedarf) aufnehmen können. Beträgt der Mehrbedarf weniger als vier Stellplätze, sind abweichend von Satz 1 keine notwendigen Stellplätze für den Mehrbedarf herzustellen.
+(5) Werden Anlagen nach Absatz 1 geändert oder ändert sich ihre Nutzung, so sind notwendige Stellplätze in solcher Anzahl, Größe und Beschaffenheit herzustellen, dass
 
+sie die infolge der Änderung zusätzlich zu erwartenden Kraftfahrzeuge und Fahrräder (Mehrbedarf) aufnehmen können. Beträgt der Mehrbedarf weniger als vier Stellplätze, sind abweichend von Satz 1 keine notwendigen Stellplätze für den Mehrbedarf herzustellen.
 §3 Anzahl der notwendigen Stellplätze und Fahrradabstellplätze
 (1) Der Nachweis der notwendigen Stellplätze und Fahrradabstellplätze obliegt der Bauherrschaft. Grundsätzlich ist die Zahl der erforderlichen Stellplätze und Fahrradabstellplätze im Einzelfall zu ermitteln.
 (2) Die Anzahl der notwendigen Stellplätze und Fahrradabstellplätze ergibt sich aus der Anlage 1 zu dieser Satzung und den nachfolgenden Regelungen.
@@ -29,31 +32,31 @@ Herstellungspflicht und Begriffe
 (5) Die Anzahl der notwendigen Stellplätze und Fahrradabstellplätze ist im Übrigen für jede Fläche mit unterschiedlichen Nutzungsarten differenziert nach den jeweiligen Nutzungsarten einzeln zu berechnen. Die Dezimalwerte sind mit einer Stelle hinter dem Komma zu addieren. Die abschließende Summe ist kaufmännisch auf- oder abzurunden.
 (6) Bei der Ermittlung der notwendigen Stellplätze für Kraftfahrzeuge ist von dem Einstellplatzbedarf für zweispurige Personenkraftwagen auszugehen. Einstellplätze für Lastkraftwagen und Omnibusse sind bei den Anlagen mit einem entsprechenden An- oder Auslieferverkehr oder speziellem Besucherverkehr zusätzlich nachzuweisen. Sind nach Satz 2 Omnibusstellplätze nachzuweisen, werden diese bis zu einem Drittel des notwendigen Stellplatzbedarfes für Kraftfahrzeuge auf diese Anzahl angerechnet. Dabei entspricht ein Omnibus-Stellplatz vier notwendigen Stellplätzen für Kraftfahrzeuge.
 (7) Ergibt sich bei der Division von „Bezugsgröße : Anzahl der Stellplätze“ einer einheitlichen Nutzung ein Dezimalwert, so ist dieser kaufmännisch auf- oder abzurunden.
-(8) Steht die Gesamtzahl der nach § 3 Abs. 2 herzustellenden notwendigen Stellplätze für Kraftfahrzeuge und / oder Fahrräder in einem offensichtlichen Missverhältnis zum tatsächlichen Bedarf, so kann die sich aus der Einzelermittlung ergebende Anzahl der notwendigen Stellplätze auf Antrag unter entsprechender Begründung erhöht oder ermäßigt werden.
+(8) Steht die Gesamtzahl der nach § 3 Abs. 2 herzustellenden notwendigen Stellplätze für Kraftfahrzeuge und / oder Fahrräder in einem offensichtlichen Missverhältnis zum tatsächlichen Bedarf, so kann die sich aus der Einzelermittlung ergebende Anzahl der notwendigen Stellplätze erhöht oder ermäßigt werden.
 (9) Werden in einem vor Inkrafttreten dieser Satzung fertiggestellten Gebäude in Folge einer Nutzungsänderung oder durch den Ausbau oder Neubau des Dachgeschosses erstmalig oder zusätzliche Wohnungen / Wohnräume geschaffen, so brauchen notwendige Stellplätze und / oder Fahrradabstellplätze nicht hergestellt zu werden, soweit die Herstellung auf dem Grundstück nicht oder nur unter großen Schwierigkeiten möglich ist.
 §4 Reduzierung der Anzahl der notwendigen Stellplätze
-(1) Bedingt durch eine gute Anbindung an den öffentlichen Personennahverkehr (ÖPNV) kann die Anzahl der notwendigen Stellplätze reduziert werden. Von einer guten Anbindung an den ÖPNV ist in der Regel auszugehen, wenn - das Baugrundstück im Geltungsbereich der Satzung über die Ablösung von Stellplätzen der Stadt Gütersloh vom 08.02.2019 liegt (Anlage 2) oder - in weniger als 200 m Laufwegeentfernung vom Grundstück eine barrierefrei ausgebaute ÖPNV-Haltestelle vorhanden ist, die montags bis freitags zwischen 06.00 Uhr
+(1) Bedingt durch eine gute Anbindung an den öffentlichen Personennahverkehr (ÖPNV) kann die Anzahl der notwendigen Stellplätze reduziert werden. Von einer guten Anbindung an den ÖPNV ist in der Regel auszugehen, wenn - das Baugrundstück im Geltungsbereich der Satzung über die Ablösung von Stellplätzen der Stadt Gütersloh vom 08.02.2019 liegt (Anlage 2) und
 
-und 18.00 Uhr von mindestens einer Linie des ÖPNV in zeitlichem Abstand von 30 Minuten angefahren wird. In diesen Fällen kann die Anzahl der notwendigen Stellplätze um bis zu 30% gemindert werden.
+- in weniger als 200 m Laufwegeentfernung vom Grundstück eine barrierefrei ausgebaute ÖPNV-Haltestelle vorhanden ist, die montags bis freitags zwischen 06.00 Uhr und 18.00 Uhr von mindestens einer Linie des ÖPNV in zeitlichem Abstand von 30 Minuten angefahren wird.
+In diesen Fällen kann die Anzahl der notwendigen Stellplätze um bis zu 30% gemindert werden.
 (2) Für die Anlegung von nicht dauerhaft überdachten Freischankflächen, Biergärten und Außenflächen gastronomischer Betriebe als Ergänzung bestehender oder neu zu genehmigender gewerblicher Nutzungen werden keine zusätzlichen Stellplätze gefordert. Als nicht dauerhaft überdacht in diesem Sinne gelten auch Arkaden und vorhandene Überdachungen und Balkone sowie bewegliche Markisen und Schirme.
 (3) Bei Neubebauung von Grundstücken und Nutzungsänderungen im Bestand im Geltungsbereich der Ablösesatzung der Stadt Gütersloh vom 08.02.2009 (Anlage 2) erfolgt eine Anrechnung von Stellplätzen der Bestandsgebäude. Dabei wird die Zahl der für das Bestandsgebäude ehemals nachgewiesenen Stellplätze für Kraftfahrzeuge auf den für das Neubauvorhaben bzw. die Nutzungsänderung zu erbringenden Stellplatznachweis angerechnet. Liegt ein Stellplatznachweis für das Bestandsgebäude nicht vor, sind die anrechenbaren Stellplätze nach der Anlage zu Nr. 51.11 der Verwaltungsvorschrift zur BauO NRW 2000 vom 12.10.2000 (MBl. NRW S. 1432) nach den jeweiligen Mittelwerten der Tabelle rechnerisch zu ermitteln und für das Neubauvorhaben bzw. die Nutzungsänderung anzurechnen.
-(4) Bis zu 25 % der notwendigen Stellplätze können durch Schaffung von zusätzlichen Fahrradabstellplätzen auf dem Baugrundstück ersetzt werden. Dabei sind für einen Stellplatz 4 Fahrradabstellplätze herzustellen.
+(4) Bis zu 25 % der notwendigen Stellplätze können durch Schaffung von zusätzlichen Fahrradabstellplätzen auf dem Baugrundstück ersetzt werden. Dabei sind für einen Stellplatz 4 Fahrradabstellplätze herzustellen. Bei Anwendung dieser Substitutionsregelung ist jedoch mindestens 1 Stellplatz je Wohneinheit nachzuweisen. Die Substitutionsregelung ist nicht anwendbar für Bauvorhaben nach Nr. 1.5 der Anlage 1 der Stellplatz- und Fahrradabstellplatzsatzung.
 §5 Anforderungen an Standort, Größe und Beschaffenheit von Stellplätzen und
 Fahrradabstellplätzen
 (1) Stellplätze und Fahrradabstellplätze sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert wird, herzustellen und dauerhaft zu unterhalten. Zumutbar ist eine fußläufige Entfernung notwendiger Stellplätze zum Baugrundstück von maximal 500 m, bei Wohnungsbauvorhaben von maximal 300 m. Bei notwendigen Fahrradabstellplätzen darf die Entfernung zum Baugrundstück maximal 100 m betragen. Der Laufweg wird jeweils von den äußeren Parzellengrenzen der Grundstücke gemessen. Wenn Gründe des Verkehrs dies erfordern, kann im Einzelfall bestimmt werden, dass Stellplätze auf dem Baugrundstück oder auf einem anderen Grundstück herzustellen sind. Behindertenparkplätze sind grundsätzlich auf dem Baugrundstück anzulegen und können auch grundsätzlich nicht abgelöst werden.
 (2) Stellplätze müssen so angeordnet und ausgeführt werden, dass ihre Benutzung die Gesundheit nicht schädigt und Lärm oder Gerüche das Arbeiten und Wohnen, die Ruhe und die Erholung in der Umgebung nicht über das zumutbare Maß hinaus stören. Die Anlegung und Nutzung von Stellplätzen unterhalb einer für die Erreichbarkeit mit Rettungsgeräten der Feuerwehr nach § 33 Abs. 2 Satz 2 BauO NRW vorgesehenen Stelle (z.B. Rettungswegfenster) ist unzulässig. Notwendige Stellplätze müssen so angeordnet werden, dass sie die Anlage von Kinderspielplätzen nach § 8 BauO NRW 2018 nicht verhindern oder deren Benutzbarkeit (z. B. durch Abgase) beeinträchtigen. Notwendige Stellplätze, Garagen und Fahrradabstellplätze dürfen nicht zweckentfremdet werden. Die Nutzung von Stellplätzen und Garagen zum Abstellen von Fahrrädern oder Fahrradanhängern gilt nicht als zweckfremde Nutzung. § 139 Abs. 5 der SBauVO bleibt unberührt.
-(3) Für die Ermittlung der Größe der herzustellenden Stellplätze, deren Anordnung auf dem jeweiligen Grundstück sowie die Anordnung und Herstellung der notwendigen Zufahrten sind die Vorschriften der Sonderbauverordnung NRW vom 2. Dezember 2016 – SBauVO (GV. NRW. 2017 S. 1) in der jeweils geltenden Fassung anzuwenden sowie die DIN 18040-1 gemäß Anlage A 4.2/2 der Verwaltungsvorschrift Technische Baubestimmungen
 
-NRW (VV TB BRW), soweit in dieser Satzung keine zusätzlichen Anforderungen gestellt werden. Werden in der SBauVO - Teil 5 Garagen – bzw. der VV TB NRW hinsichtlich der Größe der Stellplätze, der Ausmaße der Fahrgassen, der Zu- und Abfahrten sowie der Gestaltung von Rampen höhere Anforderungen gestellt oder größere Maße gefordert, gehen diese den Regelungen dieser Satzung als höherrangiges Recht vor.
+(3) Für die Ermittlung der Größe der herzustellenden Stellplätze, deren Anordnung auf dem jeweiligen Grundstück sowie die Anordnung und Herstellung der notwendigen Zufahrten sind die Vorschriften der Sonderbauverordnung NRW vom 2. Dezember 2016 – SBauVO (GV. NRW. 2017 S. 1) in der jeweils geltenden Fassung anzuwenden sowie die DIN 18040-1 gemäß Anlage A 4.2/2 der Verwaltungsvorschrift Technische Baubestimmungen NRW (VV TB BRW), soweit in dieser Satzung keine zusätzlichen Anforderungen gestellt werden. Werden in der SBauVO - Teil 5 Garagen – bzw. der VV TB NRW hinsichtlich der Größe der Stellplätze, der Ausmaße der Fahrgassen, der Zu- und Abfahrten sowie der Gestaltung von Rampen höhere Anforderungen gestellt oder größere Maße gefordert, gehen diese den Regelungen dieser Satzung als höherrangiges Recht vor.
 (4) Nicht überdachte Stellplätze sind so herzustellen, zu befestigen und zu markieren, dass sie ganzjährig benutzbar sind. Werden auf einem Baugrundstück mehr als 5 zusammenhängende Stellplätze geschaffen, ist pro 4 angefangene Stellplätze mindestens ein geeigneter, standortgerechter Laubbaum (Hochstamm) mit einem Stammumfang der Sortierung 16/18 zu pflanzen. Es sind sowohl heimische Arten (wie z.B. Hainbuche, Feldahorn) als auch nicht-heimische (wie Hopfenbuche, Rotahorn, Zürgelbaum u. a.) möglich. Die Pflanzfläche muss je Baum eine Mindestgröße von 10 m² haben; bei einer Mindestbreite von 2 m. Die Stellplatzanlage ist mit einer umlaufenden standortgerechten Laubhecke der Arten Rotbuche, Hainbuche, Liguster, Feldahorn oder Eibe einzufrieden. Der Pflanzstreifen dieser Einfriedung muss mindestens 0,80 m breit sein. Alle Anpflanzungen sind dauerhaft anzulegen und zu unterhalten. Pflanzverluste sind spätestens innerhalb der nächsten Pflanzperiode zu ersetzen.
 (5) Die Vorschriften des Gesetzes zum Aufbau einer gebäudeintegrierten Lade- und Leitungsinfrastruktur für Elektromobilität (Gebäude-Elektromobilitätsinfrastruktur-Gesetz – GEIG vom 18. März 2021 (BGBl. I S. 354), in der jeweils geltenden Fassung, sind bei der Herstellung notwendiger Stellplätze zu beachten und anzuwenden.
 (6) Fahrradabstellplätze müssen a) von der öffentlichen Verkehrsfläche aus ebenerdig oder über begehbare Rampen / Aufzüge verkehrssicher und leicht erreichbar sein, b) einen sicheren Stand und die Sicherung gegen Diebstahl (z.B. durch Anlehnbügel) ermöglichen, c) einzeln leicht zugänglich sein, d) eine Fläche von mindestens 1,5 m² je Fahrrad zuzüglich der jeweils notwendigen Verkehrs- und Rangierflächen haben e) je 10 notwendige Abstellplätze für Fahrräder ist ein Abstellplatz mit einer Fläche von 3,00 m² für Lastenräder / Kinderanhänger / bzw. bei entsprechendem Bedarf für motorisierte Zweiräder vorzuhalten.
 §6 Anforderungen an Zufahrten und an die Anordnung der Garagen und überdachten
 Stellplätze auf dem Baugrundstück
 (1) Geschlossene Garagen müssen in Senkrechtaufstellung zur öffentlichen Verkehrsfläche einen Abstand von 3,00 m zur Grenze der Straßenparzelle einhalten. Überdachte Einstellplätze in Senkrechtaufstellung müssen einen Abstand von 1,50 m zur Grenze der Straßenparzelle einhalten. Der Abstand bemisst sich bei letzteren Anlagen von der der Straße zugewandten Außenkante der Überdachung. Bei Parallelerrichtung beider vorgenannter Anlagen zur öffentlichen Straße genügt ein Abstand von 1,00 m zur Straßenparzelle, der mit einer standortheimischen Laubhecke der Arten Rotbuche, Hainbuche, Liguster, Feldahorn oder Eibe zu bepflanzen ist. Die Anpflanzung ist dauerhaft anzulegen und zu unterhalten. Pflanzverluste sind spätestens innerhalb der nächsten Pflanzperiode zu ersetzen.
-(2) Je Baugrundstück ist die Stellplatzanlage über eine Zufahrt in maximal 3,00 m Breite – bei Hochbordanlagen bis zu 2,00 m je Seite zusätzlich für die Übergangssteine – zu erschließen. Bei gewerblich genutzten Baugrundstücken mit Lkw Zu- und Abgangsverkehr ist eine Breite je nachgewiesener benötigter Schleppkurve von 7,00 m bis zu 17,00 m möglich. Die Senkrechtaufstellung von Stellplätzen in großer Anzahl (mehr als 2 Stellplätze) und in breiter Front zur öffentlichen Verkehrsfläche ist unzulässig. Eine weitere oder verbreiterte Zufahrt ist nur in Ausnahmefällen genehmigungsfähig
+(2) Je Baugrundstück ist die Stellplatzanlage über eine Zufahrt in maximal 3,00 m Breite – bei Hochbordanlagen bis zu 2,00 m je Seite zusätzlich für die Übergangssteine – zu
 
-(z. B.: Ecklage des Grundstücks, Mehrfacherschließung durch öffentliche Straßen, Bebauung des Grundstücks mit mehreren selbständigen oder aneinander gebauten Gebäuden, überlange Grundstücksfront zur öffentlichen Straße von mehr als 35 m). Durch die Anlegung oder Änderung von Zufahrten darf der öffentliche Straßenraum nicht beeinträchtigt werden. Eine Beeinträchtigung ist insbesondere gegeben, wenn für die Maßnahme Straßenbäume gefällt oder öffentliche Pflanz- und Grünflächen beseitigt werden müssen, Stellplatzflächen oder Einrichtungen des öffentlichen Personennahverkehrs im öffentlichen Verkehrsraum nicht mehr genutzt werden können oder Möglichkeiten zur Aufstellung von Verkehrszeichen, Straßenbeleuchtung o. ä. entfallen.
+erschließen. Bei gewerblich genutzten Baugrundstücken mit Lkw Zu- und Abgangsverkehr ist eine Breite je nachgewiesener benötigter Schleppkurve von 7,00 m bis zu 17,00 m möglich. Die Senkrechtaufstellung von Stellplätzen in großer Anzahl (mehr als 2 Stellplätze) und in breiter Front zur öffentlichen Verkehrsfläche ist unzulässig. Eine weitere oder verbreiterte Zufahrt ist nur in Ausnahmefällen genehmigungsfähig (z. B.: Ecklage des Grundstücks, Mehrfacherschließung durch öffentliche Straßen, Bebauung des Grundstücks mit mehreren selbständigen oder aneinander gebauten Gebäuden, überlange Grundstücksfront zur öffentlichen Straße von mehr als 35 m). Durch die Anlegung oder Änderung von Zufahrten darf der öffentliche Straßenraum nicht beeinträchtigt werden. Eine Beeinträchtigung ist insbesondere gegeben, wenn für die Maßnahme Straßenbäume gefällt oder öffentliche Pflanz- und Grünflächen beseitigt werden müssen, Stellplatzflächen oder Einrichtungen des öffentlichen Personennahverkehrs im öffentlichen Verkehrsraum nicht mehr genutzt werden können oder Möglichkeiten zur Aufstellung von Verkehrszeichen, Straßenbeleuchtung o. ä. entfallen.
 (3) Das anfallende Niederschlagswasser der Zufahrt und der Stellplatzanlage darf grundsätzlich nicht oberirdisch auf die öffentliche Verkehrsfläche abgeleitet werden. Entweder ist eine Entwässerungsrinne oder ein Hofeinlauf mit einem unterirdischen Anschluss an den städtischen Regenwasserkanal herzustellen. Alternativ kann das Niederschlagswasser auf dem Grundstück oberirdisch versickert werden. (z.B. flache Mulde, Grünfläche oder Beet) Eine unterirdische Versickerung (Drainage etc.) ist nicht zulässig.
 (4) Zufahrtsänderungen und Neuanlegungen von Zufahrten im öffentlichen Verkehrsraum sowie Baustellenzufahrten für Neubauten und Abbrüche sind gesondert bei der Stadt Gütersloh zu beantragen.
 §7 Abweichungen
@@ -66,13 +69,13 @@ Ordnungswidrig im Sinne des § 86 Abs. 1 Nummer 20 BauO NRW 2018 handelt, wer
 vorsieht und 5. entgegen § 6 Abs. 1 die Begrünung nicht anlegt und erhält.
 Die Ordnungswidrigkeit kann nach § 86 Abs. 3 BauO NRW 2018 mit einer Geldbuße bis zu 500.000,00 € geahndet werden.
 §9 Übergangsvorschriften
-(1) Auf Bauvorhaben, deren bauaufsichtliche Verfahren bereits vor dem Zeitpunkt des Inkrafttretens dieser Satzung abgeschlossen sind, sind die Bestimmungen dieser Satzung nur insoweit anzuwenden, als dass sie die günstigere Regelung enthalten.
 
-(2) Die vor Inkrafttreten dieser Satzung bei der Bauaufsichtsbehörde eingeleiteten Verfahren sind nach den zum Zeitpunkt der Antragstellung geltenden Vorschriften fortzuführen und abzuschließen. Die Vorschriften dieser Satzung sind nur insoweit anzuwenden, als sie für die Bauherrschaft eine günstigere Regelung enthalten als das bisher geltende Recht.
-§ 10 Inkrafttreten
-Diese Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.
+Die vor Inkrafttreten dieser Satzung bei der Bauaufsichtsbehörde eingeleiteten Verfahren sind nach den zum Zeitpunkt der Antragstellung geltenden Vorschriften fortzuführen und abzuschließen. Die Vorschriften dieser Satzung sind nur insoweit anzuwenden, als sie für die Bauherrschaft eine günstigere Regelung enthalten als das bisher geltende Recht.
+§ 10 Inkrafttreten Diese Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.
+Die Satzung wurde im Amtsblatt der Stadt Gütersloh am 16.09.2022 öffentlich bekannt gemacht.
 
 Anlage 1 zur Stellplatz- und Fahrradabstellplatzsatzung der Stadt Gütersloh vom 08.10.2021
+in der Fassung der 1. Nachtragssatzung vom 02.09.2022
 
 Nr. Nutzungsart
 
@@ -82,9 +85,13 @@ für Pkw
 
 für Fahrräder
 
+Anteil der Besucher in v.H.
+
 1 Wohngebäude, Boardinghäuser und Wohnheime
 
-1.1 Wohnungen bis 50 m² 1 Stellplatz je Wohnein- 1 Abstellplatz je
+1.1 Wohnungen bis 60 m² 1 Stellplatz je Wohnein- 1 Abstellplatz je
+
+-
 
 Wohnfläche
 
@@ -92,9 +99,11 @@ heit
 
 Wohneinheit
 
-1.2 Wohnungen mit 51 – 90 1,3 Stellplätze je
+1.2 Wohnungen mit 61 –100 1,3 Stellplätze je
 
 1,5 Abstellplätze je
+
+-
 
 m² Wohnfläche
 
@@ -102,21 +111,23 @@ Wohneinheit
 
 Wohneinheit
 
-1.3 Wohnungen mit 91 –
-
-1,5 Stellplätze je
+1.3 Wohnungen mit 101 – 1,5 Stellplätze je
 
 2,0 Abstellplätze je
 
-130 m² Wohnfläche
+-
+
+140 m² Wohnfläche
 
 Wohneinheit
 
 Wohneinheit
 
-1.4 Wohnungen ab 131 m² 2 Stellplätze je
+1.4 Wohnungen ab 141 m² 2 Stellplätze je
 
 2,5 Abstellplätze je
+
+-
 
 Wohnfläche
 
@@ -124,15 +135,39 @@ Wohneinheit
 
 Wohneinheit
 
-1.5 Kinder- und Jugend-
+1.5 Öffentlich geförderte
+
+0,5 Stellplätze je
+
+Die Anzahl der Abstell-
+
+Wohnungen in Gebäu- Wohneinheit, der Anteil plätze berechnen sich
+
+den des sozialen Woh-
+
+der Kfz-Stellplätze für
+
+entsprechend Nr. 1.1 bis
+
+nungsbaus ab Gebäude- Menschen mit Behinde- 1.4
+
+klasse 3
+
+rungen bliebt unberührt
+
+1.6 Kinder- und Jugend-
 
 1 Stellplatz je 8 Betten 1 Abstellplatz je 2 Bet-
+
+10%
 
 wohnheime
 
 ten
 
-1.6 Pflegeeinrichtungen, Se- 1 Stellplatz je 8 Betten 1 Abstellplatz je 18 Bet-
+1.7 Pflegeeinrichtungen, Se- 1 Stellplatz je 8 Betten 1 Abstellplatz je 18 Bet-
+
+10%
 
 niorenwohnheime,
 
@@ -148,7 +183,9 @@ plätze
 
 gen
 
-1.7 Unterkünfte/Wohnheime 1 Stellplatz je 2 Betten 1 Abstellplatz je Bett
+1.8 Unterkünfte/Wohnheime 1 Stellplatz je 2 Betten 1 Abstellplatz je Bett
+
+10%
 
 für Arbeitnehmer und
 
@@ -158,9 +195,11 @@ der Zweibettzimmerbe-
 
 legung
 
-1.8 Boardinghäuser und Un- 1 Stellplatz je 2
+1.9 Boardinghäuser und Un- 1 Stellplatz je 2
 
 1 Abstellplatz je
+
+10%
 
 terkünfte/Wohnheime
 
@@ -180,6 +219,8 @@ mentnutzung
 
 1 Abstellplatz je 35 m²
 
+10%
+
 gebäude allgemein
 
 Nutzfläche
@@ -189,6 +230,8 @@ Nutzfläche
 2.2 Räume mit erheblichen 1 Stellplatz je 25 m²
 
 1 Abstellplatz je 25 m²
+
+75%
 
 Besucher/innenverkehr Nutzfläche, jedoch min- Nutzfläche, jedoch min-
 
@@ -210,6 +253,8 @@ büros o. ä.)
 
 1 Abstellplatz je 40 m²
 
+75%
+
 m² Verkaufsfläche
 
 Verkaufsfläche, jedoch Verkaufsfläche
@@ -221,6 +266,8 @@ mindestens 2 Stellplätze
 1 Stellplatz je 20 m²
 
 1 Abstellplatz je 50 m²
+
+75%
 
 mehr als 800 m² Ver-
 
@@ -234,6 +281,8 @@ kaufsfläche
 
 1 Abstellplatz je 150 m²
 
+75%
+
 ßen Ausstellungsflächen Verkaufsfläche
 
 Verkaufsfläche
@@ -244,9 +293,18 @@ und Gartencenter, Mö-
 
 bel- und Warenhäuser)
 
-4 Versammlungsstätten außer Sportstätten, Kirchen
+4 4.1 4.2 5 5.1
+5.2
+5.3
+5.4
+5.5 5.6 5.7
+5.8 5.9 5.10 6 6.1
+6.2 6.3
+6.4 6.5 6.6 6.7 7
 
-4.1 Versammlungsstätten
+Versammlungsstätten außer Sportstätten, Kirchen
+
+Versammlungsstätten
 
 1 Stellplatz je 8 Sitz-
 
@@ -256,7 +314,7 @@ plätze
 
 plätze
 
-4.2 Kirchen und andere
+Kirchen und andere
 
 1 Stellplatz je 20 Plätze 1 Abstellplatz je 25
 
@@ -265,34 +323,6 @@ Räume, die der Religi-
 Plätze
 
 onsausübung dienen
-
-Anteil der Besucher in v.H.
--
-10% 10%
-10%
-10%
-10% 75%
-75% 75% 75%
-90% 90%
-
-Nr. 5 5.1
-5.2
-5.3
-5.4
-5.5 5.6 5.7
-5.8 5.9 5.10 6 6.1
-6.2 6.3
-6.4 6.5 6.6 6.7 7 7.1
-
-Nutzungsart
-
-Zahl der Stell-
-
-Zahl der Abstell-
-
-plätze für Pkw
-
-plätze für Fahrräder
 
 Sportstätten
 
@@ -468,9 +498,7 @@ Jugendherbergen
 
 ten
 
-Spiel- und Automaten-
-
-1 Stellplatz je 20 m²
+Spiel- und Automaten- 1 Stellplatz je 20 m²
 
 1 Abstellplatz je 18 m²
 
@@ -496,19 +524,7 @@ jedoch 3 Abstellplätze
 
 Krankenhäuser und Kliniken
 
-Universitätskliniken und 1 Stellplatz je 2 Betten, 1 Abstellplatz je 15 Bet-
-
-ähnliche Lehrkranken-
-
-zusätzlich Abstellplätze ten, zusätzlich Abstell-
-
-häuser
-
-nach 2.2
-
-plätze nach 2.2
-
-Anteil der Besucher in v. H.
+90% 90%
 -
 -
 -
@@ -520,8 +536,22 @@ plätze, 25 % für Ab-
 stellplätze
 90% 75%
 -
-50% für Stellplätze
-20% für Abstellplätze
+
+7.1 Universitätskliniken und 1 Stellplatz je 2 Betten, 1 Abstellplatz je 15 Bet- 50% für Stell-
+
+ähnliche Lehrkranken-
+
+zusätzlich Abstellplätze ten, zusätzlich Abstell-
+
+plätze 20% für Abstell-
+
+häuser
+
+nach 2.2
+
+plätze nach 2.2
+
+plätze
 
 7.2 Krankenhäuser, Kliniken 1 Stellplatz je 4 Betten, 1 Abstellplatz je 25 Bet- 60% für Stell-
 
@@ -556,18 +586,6 @@ plätze
 2 Stellplätze
 
 2 Abstellplätze
-
-Nr. Nutzungsart
-
-Zahl der Stellplätze Zahl der Abstell-
-
-für Pkw
-
-plätze für Fahrrä-
-
-Anteil der Besucher in v. H.
-
-der
 
 8.2 Grundschulen
 
@@ -668,7 +686,7 @@ Museen, Galerien und andere künstlerische Ausstellungsgebäude
 10% für Abstellplätze
 90% 90% 80%
 
-Anlage 2 zur Stellplatz- und Fahrradabstellplatzsatzung der Stadt Gütersloh vom 08.10.2021
+Anlage 2 zur Stellplatz- und Fahhradabstellplatzsatzung der Stadt Gütersloh vom 08.10.2021
 SATZUNG
 über die Ablösung von Stellplätzen der Stadt Gütersloh vom 08.02.2019
 Der Rat der Stadt Gütersloh hat in seiner Sitzung am 08.02 .2019 aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), zuletzt geändert durch Gesetz vom 23. Januar 2018 (GV. NRW. S. 90), und des § 89 Abs. 1 Nr. 4 der Bauordnung für das Land Nordrhein-Westfalen vom 21.07.2018 (GV. NRW. S. 421) folgende Satzung beschlossen:
