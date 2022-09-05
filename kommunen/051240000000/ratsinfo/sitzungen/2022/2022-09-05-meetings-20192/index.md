@@ -1,0 +1,108 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-09-05T16:00:00+02:00
+- Ende: 2022-09-05T20:15:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20192
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20192
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00297152.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00298014.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung von neuen Stadtverordneten
+- TOP 2: Fragestunde
+- TOP 2.1: Schlüsselprojekte des Oberbürgermeisters - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Schlüsselprojekte des Oberbürgermeisters - Entgegennahme ohne Beschluss
+- TOP 2.2: Förderung durch Miet- und Betriebskosten(zuschüsse) 2021 durch das Kulturbüro Wuppertal - vertagen
+- TOP 2.3: Wuppertal-Pass - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Wuppertal-Pass - Entgegennahme ohne Beschluss
+- TOP 2.4: Baumaßnahmen und Fertigstellung der Fahrradstraße „Neue Friedrichstraße“ - vertagen
+- TOP 2.5: Umsetzung des beschlossenen Antrages VO/0098/22 / des modifizierten Ergänzungsantrages VO/0151/22 (Einrichtung einer Begegnungs- und Erinnerungsstätte zu Ehren der Leistungen der Gastarbeiterinnen und Gastarbeiter) / Kommission Kultur des Erinnerns - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Einrichtung einer Begegnungs- und Erinnerungsstätte zu Ehren der Leistungen der Gastarbeiterinnen und Gastarbeiter - Entgegennahme ohne Beschluss
+- TOP 2.6: Konzept Lieferverkehre mit Elektrofahrzeugen - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Konzept Lieferverkehre mit Elektrofahrzeugen - Entgegennahme ohne Beschluss
+- TOP 2.7: Auswirkungen steigender Energiekosten - vertagen
+- TOP 2.7.1: Auswirkungen steigender Energiekosten - vertagen
+- TOP 2.8: Schadhafter Fußweg In der Beek - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Schadhafter Fußweg In der Beek Antwort auf die Große Anfrage der Fraktion Die Linke vom 23.08.2022 - Entgegennahme ohne Beschluss
+- TOP 2.9: Energiearmut - Entgegennahme ohne Beschluss
+- TOP 2.9.1: Energiearmut - Entgegennahme ohne Beschluss
+- TOP 2.10: Abarbeitung Ratsaufträge - Entgegennahme ohne Beschluss
+- TOP 2.10.1: Abarbeitung von Ratsaufträgen - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anregung gemäß § 24 GO NRW - Beschilderung Gemeinsamer Geh- und Radweg Bahnstraße Ecke Natrather Straße
+- TOP 3.2: Anregung gemäß § 24 GO NRW - Stärkung des ÖPNV am Döppersberg
+- TOP 3.3: Anregung gemäß § 24 GO NRW - Sicherung des Verkehrsflusses am Neumarkt (Fußgängerzone)
+- TOP 3.4: Anregung gemäß § 24 GO NRW - Einrichtung von zwei Tempo 30-Strecken auf der Lüttringhauser Straße sowie Versetzung einer Lichtsignal-Anlage
+- TOP 3.5: Anregung gemäß § 24 GO NRW - Rücknahme halbachsiges Gehwegparken in Barmen
+- TOP 3.6: Anregung gemäß § 24 GO NRW - Entbindung der Fernwärmepreise vom Gaspreis
+- TOP 3.7: Anregung gemäß § 24 GO NRW - Tempo 30 Kohlfurther Brücke, Wahlert, Am Jacobsberg
+- TOP 3.8: Anregung gemäß § 24 GO NRW - Einrichtung eines ständigen BUGA-Bürgerrates
+- TOP 4: Anträge
+- TOP 4.1: Regionale Landwirtschaft auf der Kleinen Höhe stärken - Nutzungsverträge verlängern - zurückgezogen
+- TOP 4.2: Änderungsantrag zu VO/0653/22 - Regionale Landwirtschaft auf der Kleinen Höhe stärken - Nutzungsverträge verlängern - geändert beschlossen
+- TOP 4.3: Niederschlagswasserversickerung auf privaten Grundstücken – Anschluss- und Benutzerzwang prüfen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.4: Kleinkläranlagen: Erarbeitung einer Außenbereichssatzung
+- TOP 4.5: Gewässerrandstreifen - zur Vorberatung verwiesen
+- TOP 4.6: Sportentwicklungsplan - geändert beschlossen
+- TOP 4.7: Kampagne für mehr Artenschutz in Haus- und Kleingärten und für weniger versiegelte Flächen - ungeändert beschlossen
+- TOP 4.8: Ladeinfrastruktur für E-Mobilität ausbauen - ungeändert beschlossen
+- TOP 4.9: Zukünftige Heizungen in städtischen Gebäuden - zur Vorberatung verwiesen
+- TOP 4.10: Antragsrecht Einzelstadtverordnete - abgelehnt
+- TOP 4.11: Seniorenbeirat mit mehr Kompetenzen ausstatten - zur Vorberatung verwiesen
+- TOP 4.12: Resolution Steigende Energiepreise - Soziale Ungerechtigkeiten abfedern - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Resolution Erhöhung des Regelsatzes/Wohngeld/Bafög - abgelehnt
+- TOP 5.1.1: Änderungsantrag zu VO/0661/22, Resolution Erhöhung des Regelsatzes/Wohngeld/ Bafög - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Örtliche Planung einschließlich verbindliche Pflegebedarfsplanung 01.10.2022-30.09.2025 für die Stadt Wuppertal gem. § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Finco-Berichte zum 30.06. und 31.07.2022 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2021 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan des Gebäudemanagements 2022 - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2021 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2021: Entlastung der Mitglieder des Verwaltungsrates der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.6: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2022 für die Einrichtungen Obere Lichtenplatzer Straße, Am Diek, Hölkesöhde und Herichhauser Straße - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 815A - Oberheidter Straße / Häuschen - - ungeändert beschlossen
+- TOP 9.2: Zielbeschluss zur Wohnbauflächenentwicklung Oberdüsseler Weg / Nevigeser Straße („Nissen-Gelände“) - Erweiterung des Plangebietes - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1239- Sportplatz Nevigeser Straße - 1. Änderung des Bebauungsplanes - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Stadion am Zoo - Planung und Einbau einer Rasenheizung im Zusammenhang mit der Erneuerung des Spielfeldes und der Altlastensicherung - ungeändert beschlossen
+- TOP 10.2: Neugestaltung der Parkanlage Deweerthscher Garten – ISEK Innenstadt Elberfeld - ungeändert beschlossen
+- TOP 10.3: Durchführungsbeschluss zur Ertüchtigung der Remise und Kannegießerschen Fabrik - geändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Quartalsbericht II/2022 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.2: Standortverlagerung der Abendrealschule Am Ölberg - ungeändert beschlossen
+- TOP 11.3: Abschluss einer öffentlich-rechtlichen Vereinbarung über Brandschutz und Hilfeleistung mit der Stadt Wülfrath - ungeändert beschlossen
+- TOP 11.4: Verstetigung der Durchführung von Bürgerbudgets - ungeändert beschlossen
+- TOP 11.5: Ergebnisse des Prüfauftrags Zulassung von Regenwasserversickerung auf Grundstücken unter ökonomischen und ökologischen Gesichtspunkten - ungeändert beschlossen
+- TOP 11.6: Abschlussbericht der Taskforce Hochwasser und Klimaresilienz - Entgegennahme ohne Beschluss
+- TOP 11.7: Abberufung und Bestellung der Betriebsleitung Alten- und Altenpflegeheime - ungeändert beschlossen
+- TOP 11.8: „KlikKS - Klimaschutz in kleinen Kommunen und Stadtteilen durch ehrenamtliche Klimaschutzpat:innen“ - Initiierung des Projekts von NRW.Energy4Climate in Wuppertal - ungeändert beschlossen
+- TOP 11.9: Sozialer Zusammenhalt Elberfelder Nordstadt/ Arrenberg (Bereich Mirker Quartier): Neugestaltung der Freiflächen der ehem. Gold-Zack-Fabrik (Projekt der Montag STiftung Urbane Räume, Wiesenstraße 118/120) - ungeändert beschlossen
+- TOP 11.10: Anschaffung von 15 Notstromaggregaten durch den Stadtbetrieb Feuerwehr (Projekt "Leuchttürme") - ungeändert beschlossen
+- TOP 11.11: Taubenhaus am Döppersberg - Bericht der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 11.12: Umwandlung der Rechtsform des NRW Kultursekretariats in einen Zweckverband
+- TOP 11.13: Sachstand öffentliche WC-Anlage im Wupperpark Ost - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Besetzung des Aufsichtsrates der WSW Energie & Wasser AG - geändert beschlossen
+- TOP 12.2: Besetzung des Beirats Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.3: Vorschlag des Fördervereins zur Umbesetzung in der Ratskommission zur Begleitung und Steuerung des Projektes Pina Bausch Zentrum - ungeändert beschlossen
+- TOP 12.4: Bestellung der Mitglieder des Klimabeirates - ungeändert beschlossen
+- TOP 12.5: Umbesetzung im Verwaltungsrat der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 12.6: Bildung der Auswahlkommission zur Steuerung der Nachbesetzung(en) im Verwaltungsvorstand (nur Rat) - geändert beschlossen
+- TOP 12.7: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - Benennung der Delegierten der Stadt Wuppertal - geändert beschlossen
+- TOP 12.8: Gremienumbesetzungen im und durch den Beirat der Menschen mit Behinderung - ungeändert beschlossen
+- TOP 12.9: Neubestellung des Beirates bei der Justizvollzugsanstalt Wuppertal-Vohwinkel - geändert beschlossen
+- TOP 12.10: Neubestellung des Beirates bei der Justizvollzugsanstalt Wuppertal-Ronsdorf - geändert beschlossen
+- TOP 12.11: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.12: Gremienbesetzung / Benennung - ungeändert beschlossen
