@@ -1,0 +1,93 @@
+# 17. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-09-05T17:00:00+02:00
+- Ende: 2022-09-05T19:54:00+02:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal, Erdgeschoss, Seiteneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25365
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25365
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Parkregelung Fahrradstraßen (Az.: 02-1600-239-21) - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.3: Anfrage der SPD-Fraktion, betr.: Künftige Nutzung des ehemaligen Sportgeländes der Peter-Lustig-Schule - Sache ist erledigt
+- TOP 6.3.1: Künftige Nutzung des ehemaligen Sportgeländes der Peter-Lustig-Schule - zur Anfrage AN/1012/2022 der SPD-Fraktion - Kenntnis genommen
+- TOP 6.4: Anfrage der CDU-Fraktion, betr.: Kurdisches Islamisches Zentrum unter der Adresse Vogelsanger Str. 348 d , 50827 Köln - Sache ist erledigt
+- TOP 6.5: Anfrage der CDU-Fraktion, betr.: Bebauung am Goldammerweg in Köln Vogelsang - zurückgestellt
+- TOP 6.6: Anfrage der SPD-Fraktion, betr.: Kita und Grundschule Butzweilerhof - Sache ist erledigt
+- TOP 6.6.1: Beantwortung der Anfrage AN/1203/2022 vom 20.06.2022 - Kenntnis genommen
+- TOP 6.7: Anfrage der SPD-Fraktion, betr.: Sachstand Konzeptvergabe Alpenerstraße 4-6 - Sache ist erledigt
+- TOP 6.7.1: Beantwortung einer Anfrage der SPD-Fraktion (AN/1243/2022), betr.: Sachstand Konzeptvergabe Alpenerstraße 4 - 6 - Kenntnis genommen
+- TOP 6.8: Anfrage der CDU-Fraktion, betr.: Elektronische Anzeige Stadtbahnhaltestelle Rochus Platz - Sache ist erledigt
+- TOP 6.8.1: Installation von elektronischen Anzeigetafeln an der Stadtbahnhaltestelle Rochus Platz - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.1: Beantwortung einer Anfrage von Bezirksvertreterin Schroeder (Klima Freunde), betr.: Kontrollen des Überholabstands im Bezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.2: Anfrage der SPD-Fraktion: Genehmigungsverfahren zum Bauvorhaben Vogelsanger Straße 406 - Sache ist erledigt
+- TOP 7.2.1: Genehmigungsverfahren zum Bauvorhaben Vogelsanger Straße 406 - Kenntnis genommen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Anfrage der CDU-Fraktion, betr.: Kein Geld mehr für Sprachbildung - Sache ist erledigt
+- TOP 7.4.1: Beantwortung der Anfrage 1467/2022 gem. § 4 der Geschäftsordnung des Rates Bundesprogramm Sprach-Kitas - Kenntnis genommen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrsversuch Herkulesstraße - zurückgestellt
+- TOP 7.7: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Gefährliche Verkehrssituation an der Weinsbergstraße - zurückgestellt
+- TOP 7.8: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Anfrage: Zigarettenstummel achtlos weggeworfen – sinnvolle Lösungen für den Bezirk - zurückgestellt
+- TOP 7.9: Anfrage der SPD-Fraktion, betr.: Umsetzung von BV Beschlüssen zum Konzept einer Schulstraße - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Ergänzungsantrag der SPD-Fraktion zu TOP 8.1, betr.: Umgestaltung Gerhard-Wilczek-Platz - geändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Öffnung des Durchgangs Mechternstraße / Kwatapark - zurückgestellt
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Einrichtung einer Sperrzone für den Individualverkehr im Straßenabschnitt der VenloerStraße „Am Rochus Platz“ und der Venloer Straße 601 –603 in Ehrenfeld hier: Bickendorf - endgültig abgelehnt
+- TOP 8.4: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Photovoltaik-Anlage auf dem Ossendorfbad - ungeändert beschlossen
+- TOP 8.5: Antrag der CDU-Fraktion, betr.: Verkehrsversuch Venloer Straße - zurückgestellt
+- TOP 8.6: Antrag der CDU-Fraktion, betr.: Abschaltung der Lichtsignalanlagen ( Ampeln) in Ehrenfeld - ungeändert beschlossen
+- TOP 8.7: Antrag der CDU-Fraktion, betr.: Beschilderung Ersatzgehweg / Ecke Vogelsangerstraße / Wilhelm-Mauser-Straße - ungeändert beschlossen
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Entscheidungen
+- TOP 9.1: Verkehrliche Maßnahmen zur Schulwegerschließung am Schulstandort Wasseramselweg in Köln-Vogelsang - geändert beschlossen
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Beratung des Haushaltsplan-Entwurfs 2023/2024 einschließlich der Finanzplanung bis 2027 und der sonstigen Anlagen - Anregungen der Bezirksvertretung Ehrenfeld gem. § 37 Abs. 4 GO NRW - geändert beschlossen
+- TOP 9.2.1: Gemeinsamer Ergänzungsantrag aller Fraktionen und der Einzelvertreter*innen Schroeder, Pöttgen, Scholz zu TOP 9.2 - ungeändert beschlossen
+- TOP 9.3: Haushaltsplan-Entwurf 2023/2024 Hier: Aufteilung der bezirksorientierten Mittel gem.§ 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.4: Genehmigung einer Dringlichkeitsentscheidung, betr.: Vergabe der bezirklichen Finanzmittel gemäß § 37 Absatz 3 GO - ungeändert beschlossen
+- TOP 9.5: Baubeschluss für die Generalinstandsetzung der Feltenstraße in Köln-Bickendorf sowie Freigabe einer Verpflichtungsermächtigung - zurückgestellt
+- TOP 9.6: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.7: Vierte Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO 2022 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Franz-Geuer-Straße Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteili-gung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsp - geändert beschlossen
+- TOP 10.1.1: Änderungsantrag der SPD-Fraktion zu TOP 10.1 - endgültig zurückgezogen
+- TOP 10.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.3: Änderungsantrag der SPD-Fraktion zu TOP 10.1 - ungeändert beschlossen
+- TOP 10.2: Bedarfsfeststellungs- und Planungsbeschluss zur Neugestaltung des Gürtels einschließlich barrierefreiem Ausbau von 10 Stadtbahnhaltestellen der Linie 13 zwischen Venloer Straße/Gürtel und Berrenrather Straße/Gürtel - geändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nummer 6250/04; Arbeitstitel: Gewerbe- und Medienpark in Köln-Ossendorf, 7. Änderung Motorworld Bürogebäude und Autohaus - geändert beschlossen
+- TOP 10.3.1: Änderungsantrag der SPD-Fraktion zu TOP 10.3 - geändert beschlossen
+- TOP 10.4: Aktualisierung des Förderprogramms "Dritte Orte" - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.6: Vermarktung Alpenerstraße 4 - 6 in Köln-Ehrenfeld, Bewertungskriterien der Konzeptausschreibung - DIE VORLAGE WURDE VON DER VERWALTUNG VON DER TAGESORDNUNG GENOMMEN
+- TOP 10.7: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr. 61483/02; Arbeitstitel: Seeadlerweg in Köln-Vogelsang - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Flächenbericht 2021 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2021 - Kenntnis genommen
+- TOP 12.2: Stellungnahme zum Antrag gem. § 3 der Geschäftsordnung des Rates zur Neufassung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - Kenntnis genommen
+- TOP 12.3: Klimafreundliche Außengastronomie in Ehrenfeld - Kenntnis genommen
+- TOP 12.4: Auswertung zu der Bürgerbeteiligung am 13.09.2021 zur Straßenplanung Takustraße - Kenntnis genommen
+- TOP 12.5: Sachstandsmitteilung Bewegungsparcours Buschpark - Kenntnis genommen
+- TOP 12.6: Sporthallen Everhardstraße - zur mündlichen Anfrage von Bezirksvertreterin Detjen (Fraktion Die Linke/DIE PARTEI) vom 20.06.2022 - Kenntnis genommen
+- TOP 12.7: Sicherer Schulweg für die Heliosschule - Kenntnis genommen
+- TOP 12.8: Qualitätsbericht 2021 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 12.9: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) vorhabenbezogener Bebauungsplan-Entwurf Nummer 63457/03; Arbeitstitel: Wohnbebauung Alsdorfer Straße in Köln-Braunsfeld/-Ehrenfeld - Kenntnis genommen
+- TOP 13: mündliche Anfragen
