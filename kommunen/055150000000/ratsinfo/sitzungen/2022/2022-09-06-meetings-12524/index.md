@@ -1,0 +1,63 @@
+# 10. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-09-06T17:00:00+02:00
+- Ende: 2022-09-06T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12524
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12524
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00514018.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 09.06.2022
+- TOP 4: Eingänge/Mitteilungen
+- TOP 4.1: Mitteilungen zu Arbeitsaufträgen aus vorherigen Sitzungen
+- TOP 4.2: Sonstige Mitteilungen
+- TOP 5: Standortentwicklungsstrategie 2030+
+- TOP 6: Wohnen
+- TOP 6.1: Wohnbaulandentwicklung bis zum Jahr 2030 – Fortschreibung des Baulandprogramms - von der Tagesordnung abgesetzt
+- TOP 6.2: Wohnraumschutzsatzung für die Stadt Münster - einstimmig beschlossen
+- TOP 7: Liegenschaften
+- TOP 7.1: Städtische Baugrundstücke in dem Baugebiet "Kinderhaus - Langebusch / Westhoffstraße" Vermarktungskonzept und Übertragung von Grundstücken an die Wohn + Stadtbau GmbH - einstimmig geändert beschlossen
+- TOP 8: Finanzen
+- TOP 8.1: Neubau des Stadthauses 4: klimaneutral, digital, nachhaltig: Moratorium - ohne Beschlussfassung geschoben
+- TOP 8.2: Stadtwerke Münster GmbH: Gründung der Glasfaser Münster GmbH - einstimmig beschlossen
+- TOP 8.3: Jahresabschluss 2021 der Wohn + Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 8.4: Jahresabschluss 2021 der GML Gewerbepark Münster-Loddenheide GmbH - einstimmig beschlossen
+- TOP 8.5: Jahresabschluss 2021 der KonvOY GmbH (KonvOY) - einstimmig beschlossen
+- TOP 8.6: NRW.URBAN Kommunale Entwicklung GmbH: Jahresabschluss 2021; Bestellung des Abschlussprüfers für den Jahresabschluss 2022 - einstimmig beschlossen
+- TOP 8.7: NRW.URBAN Kommunale Entwicklung GmbH: Anpassungen des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 8.8: Post EEG-Anlagen und Fracking-Gas: Bericht der Stadtwerke Münster GmbH zum Status Quo im 3. Quartal 2022 - zur Kenntnis genommen
+- TOP 8.9: Erwerb eines Geschäftsanteils an der BREKO Einkaufsgemeinschaft eG durch die Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 8.10: Jahresabschluss 2021 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - einstimmig beschlossen
+- TOP 8.11: KonvOY GmbH:Novellierung des Gesellschaftsvertrages, der Geschäftsordnung für den Aufsichtsrat und der Geschäftsordnung für die Geschäftsführung - mehrheitlich beschlossen
+- TOP 8.12: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023 - Vorlage eingebracht
+- TOP 8.13: Zwischenbericht Haushalt 2022 -Ukraine- - zur Kenntnis genommen
+- TOP 8.14: Neuregelung der Vergütung der Mitglieder im Aufsichtsrat der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 8.15: Entwurf des Jahresabschlusses zum 31.12.2021 der Stadt Münster - einstimmig beschlossen
+- TOP 8.16: Solidaritätspartnerschaft mit einer Stadt in der Ukraine - einstimmig beschlossen
+- TOP 8.17: Breitbandausbau im Stadtgebiet Münster - Umstellung auf das zukunftsfähige und nachhaltige Materialkonzept des BMVI - einstimmig beschlossen
+- TOP 8.18: Gründung einer Trägergemeinschaft zur Einführung eines Telenotarztsystems - einstimmig beschlossen
+- TOP 8.19: Kommunaler Digitalpakt : Ertüchtigung der IT-Infrastruktur der Schulen, die nicht im Förderprogramm Digital Pakt Schule berücksichtigt wurden - von der Tagesordnung abgesetzt
+- TOP 8.20: Errichtungsbeschluss: Errichtung einer 2-Gruppen-Kindertageseinrichtung für die Elterninitiative Regenbogenkinder e.V. im Wohnbereich Rumphorst, Bezirk Mitte - einstimmig beschlossen
+- TOP 8.21: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung Zum Kaiserbusch, im Stadtteil Angelmodde, Bezirk Südost - einstimmig beschlossen
+- TOP 8.22: Überleitung der außerunterrichtlichen Angebote (OGS) der Davertschule Amelsbüren - einstimmig beschlossen
+- TOP 8.23: Überleitung der außerunterrichtlichen Angebote (OGS) der Grundschule Sprakel - einstimmig beschlossen
+- TOP 8.24: Umsetzung des Landeskinderschutzgesetzes NRW - einstimmig beschlossen
+- TOP 8.25: Beschluss zum Ausbau des städtischen Stadions an der Hammer Straße: Ausschreibung eines Totalübernehmers, Betriebs- und Finanzierungsmodell - einstimmig geändert beschlossen
+- TOP 8.26: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung im Rahmen der Planungen im städtischen Stadion an der Hammer Straße - einstimmig beschlossen
+- TOP 8.27: Ludgerusschule Hiltrup, Ausbau zur festgelegten 4-Zügigkeit - Baubeschluss - - einstimmig beschlossen
+- TOP 8.28: Erweiterung des Wilhelm Hittorf Gymnasiums, Prinz-Eugen-Straße 27, 48151 Münster - einstimmig beschlossen
+- TOP 8.29: Grundschule York - einstimmig beschlossen
+- TOP 8.30: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 8.31: Green Bond
+- TOP 9: Wirtschaft
+- TOP 9.1: Einrichtung einer zentralen Bündelungsstelle zum Themenkomplex Wasserstoff im Stadtkonzern Münster - einstimmig beschlossen
+- TOP 9.1.1: Einrichtung einer zentralen Bündelungsstelle zum Themenkomplex Wasserstoff im Stadtkonzern Münster
+- TOP 10: Verschiedenes
