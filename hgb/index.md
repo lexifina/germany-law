@@ -525,7 +525,7 @@ internationalen Rechnungslegungsstandards
 ### Dritter Abschnitt Ergänzende Vorschriften
 für eingetragene Genossenschaften
 
-- [§ 336](0336.md)
+- [§ 336 Pflicht zur Aufstellung von Jahresabschluß und Lagebericht](0336.md)
 - [§ 337 Vorschriften zur Bilanz](0337.md)
 - [§ 338 Vorschriften zum Anhang](0338.md)
 - [§ 339 Offenlegung](0339.md)
