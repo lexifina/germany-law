@@ -1,0 +1,51 @@
+# Ausschuss für Planung, Stadtentwicklung und Mobilität
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-09-06T17:00:00+02:00
+- Ende: 2022-09-06T20:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/223
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5944
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5944
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket TOP 20 Anlagen 1-5 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00169843.pdf
+- Ergebnisprotokoll: Sitzungspaket TOP 20 Anlagen 1-5 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00169843.pdf
+- Wortprotokoll: Sitzungspaket TOP 20 Anlagen 1-5 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00169843.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 1.1: Verpflichtung einer sachkundigen Bürgerin
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Bestellung eines stellvertretenden Schriftführers für den Ausschuss für Planung, Stadtentwicklung und Mobilität der Stadt Neuss
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 5: 1. Änderung des Flächennutzungsplanes - Hammfeld II (West), Fahrradfachmarkt - - mehrheitlich zugestimmt
+- TOP 6: Bebauungsplan Nr. 120/23 - Weckhoven, Weckhovener Straße / Am Tennisplatz (Kita) - - einstimmig zugestimmt
+- TOP 7: Bebauungsplan Nr. 473/1 - Hoisten, Schluchenhausstraße (Kreisverkehr) - einstimmig zugestimmt
+- TOP 8: Bebauungsplan Nr. 508 - Furth, Geulenstraße (Bushaltestelle mit Mobilstation) - mehrheitlich zugestimmt
+- TOP 9: Umgestaltung des Knotenpunktes Rheinfährstraße/ Macherscheider Straße nach Erneuerung der Ver- und Entsorgungsleitungen - vertagt
+- TOP 10: Umgestaltung der Erftstraße nach Kanalbau - Gestaltvorgaben aufgrund der Erhaltungssatzung - abgesetzt
+- TOP 11: ISEK Bahnhofsumfeld - Anmeldung von Einzelmaßnahmen des Freiraumkonzeptes zum Städtebauförderungsprogramm 2023 - einstimmig zugestimmt
+- TOP 12: Radschnellweg Neuss-Düsseldorf-Langenfeld (RS 5): Planungsbeschluss für den Neusser Abschnitt zwischen den Knotenpunkten Hammer Landstraße/ Industriestraße und Stresemannallee/ Schanzenstraße (bis zur Zuständigkeitsgrenze Landesbetrieb Straßen NRW) - einstimmig zugestimmt
+- TOP 13: Regionetzwerk rund um Düsseldorf - Aufnahme der Stadt Neuss - einstimmig zugestimmt
+- TOP 14: Einbindung Gestaltungsbeirat in die Landesgartenschau - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP -: Anträge
+- TOP 15: Antrag der Fraktionen von SPD, BÜNDNIS 90/DIE GRÜNEN und UWG/FW – Aktiv für Neuss betr.: Weitere Flächen für die Errichtung von Windrädern prüfen - mehrheitlich beschlossen
+- TOP 15.1: Antrag der CDU betr.: Radverkehr und ÖPNV besser verknüpfen - Radabstellmöglichkeiten an allen Haltestellen schaffen
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 16: Umgang mit privaten Anträgen auf – kleinflächige – Bebauungsplanänderungen (Bebauungsplan) - zur Kenntnis genommen
+- TOP 17: Windenergieanlagen – Planungen der Stadt Grevenbroich und Situation in Neuss - zur Kenntnis genommen
+- TOP 18: Sachstand Wendersplatz - zur Kenntnis genommen
+- TOP 19: „Schöner ankommen in NRW“ - Sachstand und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 20: Bebauungsplan Nr. 456 - Rheintorstraße / Düsseldorfer Straße Sachstand - zur Kenntnis genommen
+- TOP 21: Mitteilung der Verwaltung über den Sachstand zur E-Ladeinfrastruktur in Neuss - zur Kenntnis genommen
+- TOP 22: Überblick zu geplanten Maßnahmen zur Steigerung der Nutzung von Bus, Bahn und Fahrrad - zur Kenntnis genommen
+- TOP 23: Neubau von Wohn- und Gewerbegebäuden mit Tiefgarage Am Krausenbaum 50 a anstelle des bisher gewerblich genutzten Grundstückes - zur Kenntnis genommen
+- TOP 24: Sachstand LAGA Neuss 2026 - zur Kenntnis genommen
+- TOP 25: Einwohner*innenfragestunde
