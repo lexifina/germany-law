@@ -1,0 +1,62 @@
+# 14. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-09-07T16:04:00+02:00
+- Ende: 2022-09-07T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12540
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12540
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00513568.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2022) - einstimmig beschlossen
+- TOP 3: Förderung von Stadterneuerungsprojekten - Sachstand 2022 und Anträge 2023 - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Neubau des Stadthauses 4: klimaneutral, digital, nachhaltig: Moratorium - ohne Beschlussfassung geschoben
+- TOP 5: Beschluss zum Ausbau des städtischen Stadions an der Hammer Straße: Ausschreibung eines Totalübernehmers, Betriebs- und Finanzierungsmodell - ohne Beschlussfassung geschoben
+- TOP 5.1: Beschluss zum Ausbau des städtischen Stadions an der Hammer Straße: Ausschreibung eines Totalübernehmers, Betriebs- und Finanzierungsmodell
+- TOP 6: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung im Rahmen der Planungen im städtischen Stadion an der Hammer Straße - einstimmig beschlossen
+- TOP 7: Wohnraumschutzsatzung für die Stadt Münster - einstimmig beschlossen
+- TOP 8: Solidaritätspartnerschaft mit einer Stadt in der Ukraine - einstimmig beschlossen
+- TOP 9: Breitbandausbau im Stadtgebiet Münster - Umstellung auf das zukunftsfähige und nachhaltige Materialkonzept des BMVI - einstimmig beschlossen
+- TOP 10: Gründung einer Trägergemeinschaft zur Einführung eines Telenotarztsystems - einstimmig beschlossen
+- TOP 11: Entwurf des Jahresabschlusses zum 31.12.2021 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Zwischenbericht Haushalt 2022 -Ukraine- - zur Kenntnis genommen
+- TOP 13: pol. Arbeitskreis "ökosoziale Vergaben" - mehrheitlich geändert beschlossen
+- TOP 14: NRW.URBAN Kommunale Entwicklung GmbH: Anpassungen des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 15: Stadtwerke Münster GmbH: Gründung der Glasfaser Münster GmbH - einstimmig beschlossen
+- TOP 16: Erwerb eines Geschäftsanteils an der BREKO Einkaufsgemeinschaft eG durch die Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 17: Neuregelung der Vergütung der Mitglieder im Aufsichtsrat der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 18: KonvOY GmbH:Novellierung des Gesellschaftsvertrages, der Geschäftsordnung für den Aufsichtsrat und der Geschäftsordnung für die Geschäftsführung - mehrheitlich beschlossen
+- TOP 19: Einrichtung einer zentralen Bündelungsstelle zum Themenkomplex Wasserstoff im Stadtkonzern Münster - einstimmig beschlossen
+- TOP 19.1: Einrichtung einer zentralen Bündelungsstelle zum Themenkomplex Wasserstoff im Stadtkonzern Münster
+- TOP 20: Wohnbaulandentwicklung bis zum Jahr 2030 – Fortschreibung des Baulandprogramms - von der Tagesordnung abgesetzt
+- TOP 21: Verbesserungen im Nachtbusnetz - Fahrplanmaßnahmen der Stadtwerke Münster GmbH zum 17.10.2022 - einstimmig beschlossen
+- TOP 22: Nachhaltig | vor Ort | vernetzt - Eckpunkte der Weiterbildungsstrategie vhs 2030 - ohne Beschlussfassung geschoben
+- TOP 23: Errichtung des Bildungsgangs ,,Fachkraft Küche" am Adolph-Kolping-Berufskolleg - einstimmig beschlossen
+- TOP 24: Überleitung der außerunterrichtlichen Angebote (OGS) der Davertschule Amelsbüren - einstimmig beschlossen
+- TOP 25: Überleitung der außerunterrichtlichen Angebote (OGS) der Grundschule Sprakel - einstimmig beschlossen
+- TOP 26: Umsetzung des Landeskinderschutzgesetzes NRW - einstimmig beschlossen
+- TOP 27: Errichtungsbeschluss: Errichtung einer 2-Gruppen-Kindertageseinrichtung für die Elterninitiative Regenbogenkinder e.V. im Wohnbereich Rumphorst, Bezirk Mitte - einstimmig beschlossen
+- TOP 28: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung Zum Kaiserbusch, im Stadtteil Angelmodde, Bezirk Südost - einstimmig beschlossen
+- TOP 29: Umwandlung der bisherigen Rechtsform des NRW KULTURsekretariats in einen Zweckverband - einstimmig beschlossen
+- TOP 30: Neubau eines Feuerwehrhauses für den Löschzug Nienberge der Feuerwehr Münster - einstimmig beschlossen
+- TOP 31: Erweiterung des Wilhelm Hittorf Gymnasiums, Prinz-Eugen-Straße 27, 48151 Münster - einstimmig beschlossen
+- TOP 32: Grundschule York - einstimmig beschlossen
+- TOP 33: Teilnahmeantrag für das Bundesförderprogramm "Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur" - einstimmig beschlossen
+- TOP 34: Städtische Baugrundstücke in dem Baugebiet "Kinderhaus - Langebusch / Westhoffstraße" Vermarktungskonzept und Übertragung von Grundstücken an die Wohn + Stadtbau GmbH - ohne Beschlussfassung geschoben
+- TOP 35: Ludgerusschule Hiltrup, Ausbau zur festgelegten 4-Zügigkeit - Baubeschluss - - einstimmig beschlossen
+- TOP 36: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 37: Bauleitplanung
+- TOP 37.1: Stadtbezirk Hiltrup
+- TOP 37.1.1: Satzung gemäß § 34 BauGB für den Bereich "Angelmodde - Hiltruper Straße / Westlich Am Sandbach" - einstimmig beschlossen
+- TOP 38: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt - einstimmig beschlossen
+- TOP 38.1: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt
+- TOP 39: LOOPmünster - Zwischenbericht und betriebliche Anpassungen - ohne Beschlussfassung geschoben
+- TOP 40: Verschiedenes
