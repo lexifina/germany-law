@@ -1,0 +1,58 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2022-09-07T17:00:00+02:00
+- Ende: 2022-09-07T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6081
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6081
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00210111.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00210111.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00210111.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 11. Sitzung des Hauptausschusses vom 08.06.2022 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Mündlicher Bericht zur Energiekrise - Kenntnisnahme
+- TOP 2.1: Bericht zum Umgang mit der Energiekrise im Blick auf die kommenden Wintermonate - Ohne Abstimmung
+- TOP 2.2: Fraktionsantrag zu TOP 2 - Mündlicher Bericht zur Energiekrise - An den Rat verwiesen
+- TOP 3: Bericht zum Fraktionsantrag zur Prüfung der Städtischen Beteiligungen im Rahmen der Gesamtstrategie - Kenntnisnahme
+- TOP 4: Winterdienst auf Radwegen - Einstimmiger Beschluss
+- TOP 5: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2021 und Verwendung des Überschusses - Einstimmiger Beschluss
+- TOP 6: Entlastung der Sparkassenorgane für das Geschäftsjahr 2021 - Einstimmiger Beschluss
+- TOP 7: Einbringung von Geschäftsanteilen der NEW Re GmbH in die ENNI Energie und Umwelt Niederrhein GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 8: Beteiligung an der NEW AG - Einstimmiger Beschluss
+- TOP 9: Erster Nachtrag zu Hundesteuersatzung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 10: Finanzbericht gem. KommunalhaushaltsrechtsanwendungsVO UA-Schutzsuchendenaufnahme - Kenntnisnahme
+- TOP 11: Vierter Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Mönchengladbach (Abfallsatzung-AbfS) - Kenntnisnahme
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2022 (2. Nachweisung) - Kenntnisnahme
+- TOP 13: Organisation Rettungsdienst durch Berufsfeuerwehr und Hilfsorganisationen als Leistungserbringer - Kenntnisnahme
+- TOP 14: Erweiterung und Neubau von Rettungswachen - Einstimmiger Beschluss
+- TOP 15: Projekt Bildungsfuchs - Förderung von neueingewanderten Grundschulkindern - Einstimmiger Beschluss
+- TOP 16: Leistungsvereinbarung Brennpunktprojekt - Einstimmiger Beschluss
+- TOP 17: Vertragsverlängerung mit der Verbraucherzentrale - Einstimmiger Beschluss
+- TOP 18: Ausbauplanung der Kindertageseinrichtungen bis zum Kindergartenjahr 2025/2026 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 19: Erster Nachtrag zur Satzung der Stadt Mönchengladbach über die Benutzung der städtischen Übergangsunterkünfte - Einstimmiger Beschluss
+- TOP 20: Jugendbildungscafé und Aktionsraum in der Rheydter Innenstadt - Einstimmiger Beschluss
+- TOP 21: Leistungsvereinbarung mit der Diakonisches Werk gGmbH über die sozialpädagogische Begleitung Jugendlicher und junger Erwachsener in den beiden Mönchengladbacher Fahrradstationen - Einstimmiger Beschluss
+- TOP 22: Bildung eines Seniorenrates für die Stadt Mönchengladbach hier: Siebenundzwanzigster Nachtrag zur Hauptsatzung der Stadt Mönchengladbach, Satzung für den Seniorenrat der Stadt Mönchengladbach und Wahlordnung für die Wahl der stimmberechtigten Mitglie - An den Rat verwiesen
+- TOP 23: Kommunale Bedarfsplanung für die Stadt Mönchengladbach gemäß § 7 Abs. 6 APG NRW - Einstimmiger Beschluss
+- TOP 24: Ausbau der Flüchtlingsunterkünfte der Stadt Mönchengladbach aus Anlass des Ukrainekrieges - Einstimmiger Beschluss
+- TOP 25: 3. Runde des Lärmaktionsplans der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 25.1: Ergänzungsantrag zur Beratungsvorlage 1405/x – 3. Runde des Lärmaktionsplanes der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 26: Verlagerung des Busverkehrs von der Hindenburgstraße auf die Achse Steinmetzstraße / Viersener Straße - Einstimmiger Beschluss
+- TOP 27: Einlage eines Grundstücks "Knopsstraße 47" in die GWSG - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Jahresabschluss 2021 des Gebäudemanagement Mönchengladbach (GMMG) - Von Verwaltung zurückgezogen
+- TOP 29: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend – Beschluss zur Aktualisierung des Integrierten Handlungs- und Entwicklungskonzepts Gladbach und Westend - Mit Stimmenmehrheit beschlossen
+- TOP 29.1: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend – Beschluss zur Aktualisierung des Integrierten Handlungs- und Entwicklungskonzepts Gladbach und Westend - zur Beratungsvorlage Nr. 1655/X - Mit Stimmenmehrheit beschlossen
+- TOP 30: Integriertes Handlungs- und Entwicklungskonzept (IHEK) für den Stadtteil Wickrath-Mitte – Beschluss des Konzeptes - Einstimmiger Beschluss
+- TOP 31: Dienstreise von Mitgliedern des Ausschusses für Planung, Bauen und Stadtentwicklung, der Bezirksvertretung Süd und der Bezirksvertretung Nord - hier: Genehmigung einer Dringlichkeitsentscheidung nach § 60 Absatz 3 Satz 2 GO NRW - Einstimmiger Beschluss
+- TOP 32: Situation an der Wohnanlage Zur Burgmühle 33 in 41199 Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Lebenswerte Innenstädte. Autofreie Innenstadt Rheydt - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Tischvorlage zu Ö2 1586/X im Rat - An den Rat verwiesen
+- TOP 35: Gewerbeflächenansiedlung und Entsiegelung; Hier: Gemeinsamer Fraktionsantrag von SPD, BÜNDNIS 90/DIE GRÜNEN und FDP vom 15.08.2022 - Mit Stimmenmehrheit beschlossen
+- TOP 36: Anfragen und Mitteilungen
+- TOP 36.1: Anfrage von RH Schultz (DIE LINKE)
