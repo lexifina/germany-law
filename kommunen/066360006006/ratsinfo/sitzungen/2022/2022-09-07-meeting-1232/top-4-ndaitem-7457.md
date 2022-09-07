@@ -1,0 +1,6 @@
+# TOP 4.: Kreisfreiwilligentag am 24.09.2022
+
+- Sitzung: Ortsbeirat Hessisch Lichtenau (10. Sitzung) (2022-09-07)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/7457
