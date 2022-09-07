@@ -1,0 +1,89 @@
+# 12. Sitzung (Einbringung Haushalt 2023)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-09-07T16:24:00+02:00
+- Ende: 2022-09-07T20:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12507
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12507
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00514373.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Klimaneutralität am Beispiel der Wärmepumpen als Beitrag zur Energiewende
+- TOP 1.2: Wildtierversorgung
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 8.1: Hilfen beim Umzug - Wohnungstausch und Wohnungstauschportal - verwiesen
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 11: Entwurf der Haushaltssatzung der Stadt Münster für das Jahr 2023 - einstimmig beschlossen
+- TOP 12: Neubau des Stadthauses 4: klimaneutral, digital, nachhaltig: Moratorium - einstimmig geändert beschlossen
+- TOP 13: Beschluss zum Ausbau des städtischen Stadions an der Hammer Straße: Ausschreibung eines Totalübernehmers, Betriebs- und Finanzierungsmodell - einstimmig geändert beschlossen
+- TOP 13.1: Beschluss zum Ausbau des städtischen Stadions an der Hammer Straße: Ausschreibung eines Totalübernehmers, Betriebs- und Finanzierungsmodell
+- TOP 14: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung im Rahmen der Planungen im städtischen Stadion an der Hammer Straße - mehrheitlich beschlossen
+- TOP 15: Wohnraumschutzsatzung für die Stadt Münster - einstimmig beschlossen
+- TOP 16: Solidaritätspartnerschaft mit einer Stadt in der Ukraine - mehrheitlich beschlossen
+- TOP 17: Breitbandausbau im Stadtgebiet Münster - Umstellung auf das zukunftsfähige und nachhaltige Materialkonzept des BMVI - einstimmig beschlossen
+- TOP 18: Gründung einer Trägergemeinschaft zur Einführung eines Telenotarztsystems - einstimmig beschlossen
+- TOP 19: Entwurf des Jahresabschlusses zum 31.12.2021 der Stadt Münster - einstimmig beschlossen
+- TOP 20: Zwischenbericht Haushalt 2022 -Ukraine- - zur Kenntnis genommen
+- TOP 21: pol. Arbeitskreis "ökosoziale Vergaben" - mehrheitlich geändert beschlossen
+- TOP 22: NRW.URBAN Kommunale Entwicklung GmbH: Anpassungen des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 23: Stadtwerke Münster GmbH: Gründung der Glasfaser Münster GmbH - einstimmig beschlossen
+- TOP 24: Erwerb eines Geschäftsanteils an der BREKO Einkaufsgemeinschaft eG durch die Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 25: Neuregelung der Vergütung der Mitglieder im Aufsichtsrat der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 26: KonvOY GmbH:Novellierung des Gesellschaftsvertrages, der Geschäftsordnung für den Aufsichtsrat und der Geschäftsordnung für die Geschäftsführung - mehrheitlich beschlossen
+- TOP 27: Einrichtung einer zentralen Bündelungsstelle zum Themenkomplex Wasserstoff im Stadtkonzern Münster - einstimmig beschlossen
+- TOP 27.1: Einrichtung einer zentralen Bündelungsstelle zum Themenkomplex Wasserstoff im Stadtkonzern Münster
+- TOP 28: Wohnbaulandentwicklung bis zum Jahr 2030 – Fortschreibung des Baulandprogramms - von der Tagesordnung abgesetzt
+- TOP 29: Verbesserungen im Nachtbusnetz - Fahrplanmaßnahmen der Stadtwerke Münster GmbH zum 17.10.2022 - einstimmig beschlossen
+- TOP 30: Nachhaltig | vor Ort | vernetzt - Eckpunkte der Weiterbildungsstrategie vhs 2030 - mehrheitlich geändert beschlossen
+- TOP 31: Errichtung des Bildungsgangs ,,Fachkraft Küche" am Adolph-Kolping-Berufskolleg - einstimmig beschlossen
+- TOP 32: Überleitung der außerunterrichtlichen Angebote (OGS) der Davertschule Amelsbüren - einstimmig beschlossen
+- TOP 33: Überleitung der außerunterrichtlichen Angebote (OGS) der Grundschule Sprakel - einstimmig beschlossen
+- TOP 34: Umsetzung des Landeskinderschutzgesetzes NRW - einstimmig beschlossen
+- TOP 35: Errichtungsbeschluss: Errichtung einer 2-Gruppen-Kindertageseinrichtung für die Elterninitiative Regenbogenkinder e.V. im Wohnbereich Rumphorst, Bezirk Mitte - mehrheitlich beschlossen
+- TOP 36: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung Zum Kaiserbusch, im Stadtteil Angelmodde, Bezirk Südost - mehrheitlich beschlossen
+- TOP 37: Umwandlung der bisherigen Rechtsform des NRW KULTURsekretariats in einen Zweckverband - einstimmig beschlossen
+- TOP 38: Neubau eines Feuerwehrhauses für den Löschzug Nienberge der Feuerwehr Münster - einstimmig beschlossen
+- TOP 39: Erweiterung des Wilhelm Hittorf Gymnasiums, Prinz-Eugen-Straße 27, 48151 Münster - einstimmig beschlossen
+- TOP 40: Grundschule York - einstimmig beschlossen
+- TOP 41: Teilnahmeantrag für das Bundesförderprogramm "Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur" - einstimmig beschlossen
+- TOP 42: Städtische Baugrundstücke in dem Baugebiet "Kinderhaus - Langebusch / Westhoffstraße" Vermarktungskonzept und Übertragung von Grundstücken an die Wohn + Stadtbau GmbH - mehrheitlich geändert beschlossen
+- TOP 43: Ludgerusschule Hiltrup, Ausbau zur festgelegten 4-Zügigkeit - Baubeschluss - - einstimmig beschlossen
+- TOP 44: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 45: Bauleitplanung
+- TOP 45.1: Stadtbezirk Münster-Hiltrup
+- TOP 45.1.1: Satzung gemäß § 34 BauGB für den Bereich "Angelmodde - Hiltruper Straße / Westlich Am Sandbach" - einstimmig beschlossen
+- TOP 46: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 46.1: Sicher zum Schulschwimmen - einstimmig beschlossen
+- TOP 46.2: Auffangnetz für Spitzenverdiener:innen - mehrheitlich abgelehnt
+- TOP 47: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 47.1: Umzug des Johann-Conrad-Schlaun-Gymnasiums nach Gremmendorf/Angelmodde jetzt auf den Weg bringen - verwiesen
+- TOP 47.2: Heute schon Fahrradparken bequem am Hauptbahnhof Münster ermöglichen und gleichzeitig Aufenthaltsqualität und Sicherheit für alle am Bremer Platz schaffen - verwiesen
+- TOP 47.3: Modern und innovativ: Ein Homeoffice-Konzept für Münster - verwiesen
+- TOP 47.4: Stadthaus 4: Standards und Kosten reduzieren - verwiesen
+- TOP 47.5: Ein digitales Wohnungstauschportal für Senioren und Familien - verwiesen
+- TOP 47.6: Ein Chief Digital Officer (CDO) für die Stadtverwaltung - verwiesen
+- TOP 47.7: Gelmer stärken und Infrastruktur mitentwickeln - verwiesen
+- TOP 47.8: Effizienz in Bauen und Mobilität steigern – Synergien zwischen WBI und Stadtwerken nutzen - verwiesen
+- TOP 47.9: Verkehrsberuhigung Rieselfelder - Vogelschutzgebiet Europareservat Rieselfelder dauerhaft schützen - verwiesen
+- TOP 48: Nachfolge im Beirat für Stadtgestaltung - einstimmig beschlossen
+- TOP 48.1: Nachfolge im Beirat für Stadtgestaltung
+- TOP 49: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt - einstimmig beschlossen
+- TOP 49.1: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt
+- TOP 50: Besetzungen und Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 50.1: Besetzungen und Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 51: LOOPmünster - Zwischenbericht und betriebliche Anpassungen - mehrheitlich geändert beschlossen
+- TOP 52: Verschiedenes
