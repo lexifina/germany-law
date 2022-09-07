@@ -1,0 +1,8 @@
+# TOP 8: Bericht über die Schuldnerberatung in der Stadt Neuss
+
+- Sitzung: Ausschuss für Soziales, Inklusion und demografische Entwicklung (2022-09-07)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/201029
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/32110
