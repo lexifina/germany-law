@@ -1,0 +1,107 @@
+# 10. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-09-08T16:30:00+02:00
+- Ende: 2022-09-08T20:15:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6309
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6309
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=385589
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - im Ausschuss abgelehnt
+- TOP 6.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 3 - gewählt
+- TOP 6.2: Berufung eines beratenden und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - schriftlich beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-08 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - (offen)
+- TOP 8.1: Zwischenberichte - im Ausschuss abgelehnt
+- TOP 8.1.1: Umbau S-Bahnhof Schöneweide - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Wochenmärkte in Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Sicherung von Flächen für Kitas, Schulen und andere Gemeinbedarfe - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Sichere Querung der Südostallee (Ecke Im Brombeerwinkel) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Schloßplatz Köpenick instand setzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.6: Wohnungsbaugenossenschaften auf dem Güterbahnhofgelände Köpenick berücksichtigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.7: Weitere Querungsmöglichkeit auf der Neuen Krugallee errichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.8: Bedarfsampel Grünauer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.9: Sicheres Radfahren entlang der Bundesstraße B96a - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.10: Radweg in der Waltersdorfer Straße in Bohnsdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.11: Standortkonferenz Schöneweide - Zwischenbilanz und Perspektiven - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.12: Parchwitzer Straße in Bohnsdorf grundhaft erneuern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.13: Verlängerung der Grünphase für Fußgänger /-innen und Radfahrende an der Ampelanlage Oberspreestraße / Spindlersfelder Straße (Brücke) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.14: Schotter- und Steingärten bei Bebauungen verhindern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.15: Verkehrskonzept für den 1. FC Union - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.16: Straßenbahnverbindung Wendenschloß nach Adlershof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.17: Neueinrichtung der Stelle eines Mobilitätsmanagers (m/w/d) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.18: Einrichtung von Parkzonen bzw. Parkraumbewirtschaftungszonen im Rahmen der kommunalen Nachhaltigkeitsstrategie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.19: Neue Realitäten anerkennen - Digitale Sitzungen der BVV im Bezirksverwaltungsgesetz ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.20: Sanierung der Feierhalle auf dem Friedhof Altglienicke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.21: Beteiligung an der Entwicklung des ehemaligen Güterbahnhofs Köpenick ermöglichen und transparenter gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.22: "Affenpocken" bekämpfen – zeitnah Pockenimpfungen im öffentlichen Gesundheitsdienst ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Tempo 30 in der Karl-Kunger-Straße zwischen Wildenbruchstraße und Krüllsstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Änderung der Taktzeiten der Buslinie 165 während der Bauarbeiten am Bahnhof Schöneweide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Berliner Mobilitätsgesetz bereits jetzt berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Brückensanierungen in Treptow-Köpenick zügig voranbringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Trauerfeier für Verstorbene ohne Angehörige - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Beleuchtungslücke in der Dahlwitzer Landstraße und Mühlenstraße schließen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Verkehrssicherheit an der Kreuzung Elsenstraße / Ecke Heidelberger Straße erhöhen - überwiesen
+- TOP 8.2.8: Komplettumzug der Hochschule für Technik und Wirtschaft unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Seddinwall - überwiesen
+- TOP 8.2.10: Sondermittel für den Verein "Schutzhülle e. V." (SM 20-20) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.11: Lösung für den Radweg auf dem Hegemeisterweg in Rahnsdorf endlich herbeiführen - überwiesen
+- TOP 8.2.12: Temporäre Lösung für Schausteller /-innen suchen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.13: Tausch- und Sperrmüllmärkte in Treptow-Köpenick ermöglichen - überwiesen
+- TOP 8.2.14: Innovationspark Wuhlheide (IPW) stärken und weiterentwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.15: Innovationspark Wuhlheide unterstützen und voranbringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.16: Gleisüberfahrt auf dem Adlergestell in Schmöckwitz - überwiesen
+- TOP 8.2.17: M 65 – Mit dem Metrobus von Köpenick über Treptow in die City - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.18: Regengärten für Treptow-Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.19: Verkehrssicherheit an der Lohmühlenstraße verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.20: Konzept- und Maßnahmeplan für künftige Einschulungsuntersuchungen vorlegen - überwiesen
+- TOP 8.2.21: Raumsituation im Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.22: Zweites BVG-Wartehäuschen am S-Bhf. Grünau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.23: Familieninteressen in der BVV vertreten – Kinderbetreuung fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.24: Beseitigung der Absenkung der Straße Zur Fähre nahe Bauersee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.25: Wenn der Postmann gar nicht klingelt – Grundversorgung mit postalischen Leistungen im Südosten sicherstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.26: Zusätzliche Öffnungszeiten in den Bürgerämtern – Maßnahmen der Soforthilfe verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.27: Einkaufsmöglichkeit im Allende 1 aufrechterhalten - überwiesen
+- TOP 8.2.28: Baumschule Späth - überwiesen
+- TOP 8.2.29: Kostenfreie Menstruationsartikel in Treptow-Köpenick zur Verfügung stellen - überwiesen
+- TOP 9: Nachfragen zu Großen Anfragen - (offen)
+- TOP 9.1: Wieviel Verdichtung verträgt Altglienicke? - schriftlich beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Sitzungsterminplan 2023 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Farbschmierereien im öffentlichen Raum konsequent beseitigen und ahnden - überwiesen
+- TOP 11.2: Schutz gegen Vandalismus im Spreetunnel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Konzept für ein bürgerfreundliches Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Mehrsprachigkeit von der Kita an! - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Kiezkassen angemessen bewerben - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Kostenlose Toiletten für alle - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Regelmäßige Jagdausstellungen im Köpenicker Schloss - vertagt
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Ergebnis der Überprüfung der Bezirksverordneten auf Mitarbeit beim Ministerium für Staatssicherheit der DDR - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Die BVV verurteilt Sachbeschädigungen durch Hakenkreuze in Niederschöneweide - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Jugendfreizeiteinrichtung in Adlershof sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Umgang mit Straßen- und Platznamen mit antisemitischen Bezügen in Treptow-Köpenick - überwiesen
+- TOP 13.4: Neue Bushaltehaltestelle an der Straße "Am Seegraben" für die Linie 163 - überwiesen
+- TOP 13.5: Transparenz bei Nachtflügen am BER - überwiesen
+- TOP 13.6: Fußgängerüberweg Kosmosviertel Altglienicke - überwiesen
+- TOP 13.7: Einmalzahlungen zum sozialen Ausgleich - mit Änderungen in der BVV beschlossen
+- TOP 13.8: Jugendfreizeitzentrum 2.0 im Mellowpark errichten - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Wochenmarkt Adlershof am aktuellen Standort unterstützen - überwiesen
+- TOP 13.10: Neue Straßenbahnhaltestelle an der Regattastraße für die Linie 68 - überwiesen
+- TOP 13.11: Bessere ÖPNV-Anbindung des Flughafens BER und des Fachmarktzentrums Waltersdorf durch Taktverdichtung der Buslinie 263 - überwiesen
+- TOP 13.12: Energiesparprojekte in Schulen initiieren - erste Pilotprojekte auf den Weg bringen - überwiesen
+- TOP 13.13: Städtepartnerschaft mit Luxemburg - überwiesen
+- TOP 14: Große Anfragen - (offen)
