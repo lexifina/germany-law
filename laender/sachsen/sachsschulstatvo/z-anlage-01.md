@@ -1,6 +1,6 @@
 # Anlage 1 (zu § 1 Absatz 1)
 Daten
-Abschnitt 1: Daten zu Lehrern und pädagogischen Fachkräften im Unterricht
+Abschnitt 1: Daten zu Lehrkräften und pädagogischen Fachkräften im Unterricht
 – Schulart
 – Geschlecht
 – Geburtsjahr
@@ -14,13 +14,13 @@ Abschnitt 1: Daten zu Lehrern und pädagogischen Fachkräften im Unterricht
 – erteilter Unterricht an der Einsatzschule
 – Zugangsart
 – Abgangsart
-Abschnitt 2: Daten zu Schülern
+Abschnitt 2: Daten zu Schülerinnen und Schülern
 – Schulart
 – Geschlecht
 – Geburtsjahr
 – Klassenstufe, Jahrgangsstufe, Schulbesuchsstufe
 – Art der Ersteinschulung
-– Schüler, deren Herkunftssprache nicht oder nicht ausschließlich Deutsch ist
+– Schülerinnen und Schüler, deren Herkunftssprache nicht oder nicht ausschließlich Deutsch ist
 – Staatsangehörigkeit
 – schulische Herkunft: im Vorjahr besuchte Schulart, im Vorjahr besuchte Klassenstufe, Jahrgangsstufe, Schulbesuchsstufe
 – Art der Wiederholung
@@ -32,14 +32,14 @@ Abschnitt 2: Daten zu Schülern
 – angestrebter Abschluss oder Beruf
 – Fachrichtung
 – Stellung im Beruf (mit beziehungsweise ohne Ausbildungsvertrag)
-Abschnitt 3: Daten zu Abgängern und Absolventen
+Abschnitt 3: Daten zu Abgängerinnen und Abgängern sowie Absolventinnen und Absolventen
 – Schulart
 – Art des Abschlusses
 – Klassenstufe, Jahrgangsstufe, Schulbesuchsstufe
 – Schulfremdenprüfung
 – Geschlecht
 – Geburtsjahr
-– Abgänger und Absolventen, deren Herkunftssprache nicht oder nicht ausschließlich Deutsch ist
+– Abgängerinnen und Abgänger sowie Absolventinnen und Absolventen, deren Herkunftssprache nicht oder nicht ausschließlich Deutsch ist
 – Staatsangehörigkeit
 – Zeitform des Unterrichts
 – Fachrichtung
