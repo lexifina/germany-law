@@ -1,4 +1,4 @@
-# Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
+# Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
 
 - [Eingangsformel](eingangsformel.md)
 
