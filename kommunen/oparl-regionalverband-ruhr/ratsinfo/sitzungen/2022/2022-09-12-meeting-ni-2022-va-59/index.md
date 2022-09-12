@@ -1,0 +1,98 @@
+# 7. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2022-09-12T10:05:00+02:00
+- Ende: 2022-09-12T12:25:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2022-VA-59
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2022-VA-59
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-VA-59
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-VA-59
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Aktuelles
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 4.1: Regionalplan Ruhr für das Verbandsgebiet des Regionalverbands Ruhr Beschluss zur dritten Beteiligung
+- TOP 4.2: 
+- TOP 4.3: 7. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Teilabschnitt Oberbereich Dortmund - westlicher Teil - zur Änderung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) mit bergbaulicher Zweckbindung in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Hamm sowie Änderung des textlichen Ziels 12 (2) - Feststellungsbeschluss -
+- TOP 4.4: Änderungsverfahren 03a BO des Regionalen Flächennutzungsplans (RFNP) der Planungsgemeinschaft Städteregion Ruhr Einvernehmensherstellung nach § 41 Abs. 3 LPlG
+- TOP 4.5: Zielabweichungsverfahren nach § 6 Abs. 2 ROG i.V.m. § 16 LPlG NRW vom Regionalplan für den Regierungsbezirk Arnsberg, Teilabschnitt Oberbereich Dortmund - westlicher Teil - auf dem Gebiet der Stadt Werne, ehemaliges Zechengelände
+- TOP 4.6: 90. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) auf dem Gebiet der Stadt Duisburg (Alt-Homberg) Veranlassung der Bekanntmachung
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 6.1: Antrag der AfD im Ruhrparlament zur Neuaufstellung des Regionalplans Ruhr, Abschluss des Verfahrens der Zweiten Anhörung
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.2: Mitteilungen
+- TOP 7.2.1: Entwicklungs- und Vermarktungskonzept Regionale Kooperationsstandorte
+- TOP 7.2.2: Ersetungsantrag der Fraktion Die Linke Entwicklungs- und Vermarktungskonzept Regionale Kooperationsstandorte - Ansprüche an die städtebauliche Qualität
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Business Metropole Ruhr GmbH
+- TOP 8.2: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 8.3: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Revierpark Gysenberg Herne GmbH
+- TOP 8.4: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Ruhr Tourismus GmbH
+- TOP 8.5: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - AGR GmbH
+- TOP 8.6: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Kultur Ruhr GmbH
+- TOP 8.7: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Maximilianpark Hamm GmbH
+- TOP 8.8: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Umweltzentrum Westfalen GmbH
+- TOP 8.9: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Betreibergesellschaft Silbersee II Haltern am See mbH
+- TOP 8.10: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Freizeitzentrum Xanten GmbH
+- TOP 8.11: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - TouristikEisenbahnRuhrgebiet GmbH
+- TOP 8.12: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - IGA Metropole Ruhr 2027 gGmbH
+- TOP 8.13: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Revierpark Wischlingen GmbH
+- TOP 8.14: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2021 - Freizeitgesellschaft Metropole Ruhr mbH und ihre Betriebsstätten
+- TOP 8.15: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung der Gesellschaftsverträge der RZR II Herten GmbH sowie der LAMBDA Gesellschaft für Gastechnik mbH
+- TOP 8.16: Angelegenheiten der Freizeitgesellschaften - Überplanmäßige Mittelbereitstellung 2022
+- TOP 8.17: Masterplan Mittelstand und Handwerk Hier: Sachstand und weiteres Vorgehen
+- TOP 8.18: Freizeitschwerpunkt Glörtalsperre GmbH - Finanzierung der Sanierung der Zufahrtstraße zur K10
+- TOP 8.19: Manifesta 16 Ruhr gGmbH
+- TOP 8.19.1: Antwort der Verwaltung - Zum Ergänzungsantrag zu Drucksache Nr. 14/0321-1 Manifesta 2026 – Beschluss zur Gründung der Durchführungsgesellschaft 'Manifesta 16 Ruhr gGmbH' Ergänzungen zur Vertragsgestaltung
+- TOP 8.19.2: Manifesta 16 Ruhr gGmbH - Sachdarstellung zur Manifesta 16 und Bestellung von Vertreter*innen in den Aufsichtsrat
+- TOP 8.19.3: PLATZHALTER: Manifesta 16 Ruhr gGmbH - Bestellung einer Gründungsgeschäftsführung
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 9.2: Freizeit- und Tourismuskonzept für die Metropole Ruhr Hier: Entwurf Endbericht und weiteres Vorgehen
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Charta Grüne Infrastruktur
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 12.1: Aktueller Planungsstand Ruhr Games 2023 und Anpassung des Projektbudgets
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 13.1: Veranstaltung 'Digital Health in der Metropole Ruhr', Bericht und Perspektive
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Dienstanweisung für die Finanzbuchhaltung beim Regionalverband Ruhr
+- TOP 16.2: Projekt- und Finanzberichtswesen zum 31.05.2022
+- TOP 16.3: Beschluss über die Behandlung des Jahresüberschusses 2020
+- TOP 16.4: Bekanntgabe der in der Zeit vom 01.01.2022 - 30.06.2022 für das Haushalts-jahr 2022 genehmigten Haushaltsüberschreitung
+- TOP 16.5: Einbringung des Haushaltsplans 2023
+- TOP 16.6: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haus-haltsjahr 2023
+- TOP 17: Fraktionsanträge
+- TOP 17.1: Quo vadis Queer in der Metropole Ruhr
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Anfrage der SPD im Ruhrparlament zu Haushaltsmitteln 2021 und 2022
+- TOP 18.1.1.1: Antwort auf die Anfrage der SPD-Fraktion zu Haushaltsmitteln 2021 und 2022
+- TOP 18.1.2: Anfrage der SPD im Ruhrparlament: Energiesparen beim RVR und seinen Tochtergesellschaften
+- TOP 18.1.3: RVR-seitige Übernahme von kommunalen Eigenanteilen für Bau- und Sanierungsprojekte
+- TOP 18.1.4: Antwort der Verwaltung auf die Anfrage der CDU - Sachstand WEA Halde Mottbruch
+- TOP 18.1.5: Strategieprozess FMR GmbH
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 20.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2.1: nicht öffentlicher Tagesordnungspunkt
