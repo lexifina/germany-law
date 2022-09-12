@@ -1,0 +1,103 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-09-12T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6917211
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6917211
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Vermüllung durch Elektroroller im Bereich Gasteig HP8
+- TOP 2.2.: Hecke an der Zufahrt der Plinganserschule/ Einfahrt Meindlstraße
+- TOP 2.3.: Hundeauslaufflächen und Hundekot
+- TOP 2.4.: Lärmbeschwerde am Gasteig HP8
+- TOP 2.5.: Parksituation in der Kidlerstraße
+- TOP 2.6.: Schallschutzwand auf der Ostseite der Bahnbrücke Bauernbräuweg-Schöttlstraße und Aufstellung von Mülleimer
+- TOP 2.7.: Radweg am Harras Diverse Anliegen
+- TOP 2.8.: Altglascontainernutzung in der Lipowskystraße
+- TOP 2.9.: GWG-Wohnanlage an der Karwendelstraße
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: Generalsanierung des Kindergartens "Kinderkreis Sendling" Bitte um Aufhebung des BA-Beschlusses im Bezug auf die Sitzungsvorlage Nr. 20-26 / V 05671
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Lindwurmstraße 124
+- TOP 4.2.2.: Einrichtung einer Wertstoffinsel auf dem Kidlerplatz Frist bis Ende der Kalenderwoche 38
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Anfrage des BA 13 - Bogenhausen Klimaschutz konkret - Klima-Ausschuss
+- TOP 4.3.3.: Holzgeländer im Neuhofener Park erneuern Antwort
+- TOP 4.3.4.: Baumentfernung auf der Stemmerwiese
+- TOP 4.3.5.: Kanaldeckel in der Esswurmstraße
+- TOP 4.3.6.: Müll im öffentlichen Raum Antwort
+- TOP 4.3.7.: Anfrage über Rauchverbot in den Neuhofener Anlagen Antwort
+- TOP 4.3.8.: BNE Vision 2030 Dokumentation
+- TOP 4.3.9.: Biogasanlage in Sendling
+- TOP 4.3.10.: Neubau eines Sportgebäudes mit Vereinsgaststätte und Modernisierung der Freisportanlage an der städtischen Sportanlage Wackersberger Straße 49
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Feuerwerksverbot am Flaucher [Die Grünen]
+- TOP 4.4.2.: Treppe an der Oberländerstraße [SPD]
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Durchsetzung von Geschwindigkeitsbegrenzungen Empfehlung Nr. 20-26 / E 00425 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021 Einhaltung von Tempo-30 in Sendling Empfehlung Nr. 20-26 / E 00427 der Bürgerversammlung des Stadtbezirkes 06 – Sendling am 12.10.2021
+- TOP 5.1.2.: (E) + (U) Verkehrsprobleme und Abgase am Gasteig HP8 Empfehlung Nr. 20-26 / E 00428 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Demokratiemobil KJR München-Stadt am Resi-Huber-Platz am 21.10.2022
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Übersichtlichkeit an der Kreuzung Meindlstraße/ Margaretenstraße/ Margaretenplatz/ An der Stemmerwiese erhöhen
+- TOP 5.3.2.: Schulwegsicherheit an der Kreuzung Margarethenstraße/ Ecke Meindlstraße Antwort
+- TOP 5.3.3.: Verkehrsrechtliche Anordnung Margaretenstraße (Unterführung S-Bahn Haltestelle); Zeichen 101 StVO (Gefahrstelle) mit Zusatzzeichen 1000-32 StVO (Radverkehr kreuzt von links und rechts), Zeichen 136-10 StVO (Kinder)
+- TOP 5.3.4.: Meldeplattform Radverkehr
+- TOP 5.3.5.: Oktoberfest 2022 - Verkehrsregelungen - Neuer Internetauftritt
+- TOP 5.3.6.: Plinganserstraße - Protected Bikelane
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Fahrradabstellanlagen im Bereich der Karwendelstr., Dudenstr. und Sylvensteinstraße [Die Grünen]
+- TOP 5.4.2.: Gestaltung der Hans-Preißinger-Straße im Bereich Gasteig HP8 Antrag Das [Die Grünen+SPD]
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kunst in Sendling e.V. Offene Ateliers Kunst in Sendling vom 07. - 09.10.2022 3.910,00 Euro, Az.: 0262.0-6-0391
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Livemusik" Livemusik Schöttlstraße vom 13.09. - 13.10.2022 712,50 Euro, Az.: 0262.0-6-0394
+- TOP 6.1.3.: (E) Stadtbezirksbudget Green City e.V. Miteinander Stadt gestalten - Interaktive Messe und Workshops vom 01.09.2022 - 31.08.2023 2.500,00 Euro, Az.: 0262.0-6-0392
+- TOP 6.1.4.: (E) Stadtbezirksbudget Initiative "Encantada" Livekonzert am 31.07.2022 250,00 Euro, Az.: 0262.0-6-0393
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiativgruppe e.V., Abteilung IG-Feuerwache Projekt "Fairplay" vom 04.10.2022 - 28.07.2023 2.883,00 Euro, Az.: 0262.0-6-0397
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kizztalk Dance Academy GbR Gratis Tanzangebote für Menschen mit Migrationshintergrund aus Sendling vom 01.10.2022 - 30.09.2023 3.320,00 Euro, Az.: 0262.0-6-0396
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Änderung der OB-Vollmacht gemäß Art. 60 Abs. 2 S. 2 GO; Genehmigung von Parklets und Stadtterrassen
+- TOP 6.3.2.: Schreiben des OB an die Referate Einhaltung der Anhörungsfristen
+- TOP 6.3.3.: Kicklusion Kurzbericht
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Keine Umwandlung von Bezirksportanlagen (BSA) in Freizeitanlagen Keine Streichung von Platzwartstellen auf den städtischen Bezirkssportanlagen (BSA) Keine weitere Aufgabenverlagerung auf die Ehrenamtlichen der Vereine
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.1.1.: Terminkalender des Bezirksausschusses im Jahr 2023
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen / Hybridsitzungen / Livestream hier: Information aktueller Sachstand / Bedarfsabfrage
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 7.2.1.: Bestellung einer städtischen Leistung zur Finanzierung von Ferienpässen für Einrichtungen im Stadtbezirk Sendling
+- TOP 6.1.7.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K.d.ö.R. “Demokratie im Einsatz – Demokratiemobil München“ am 21.10.2022 770,00 € / 0262.0-6-0398
