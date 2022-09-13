@@ -1,0 +1,6 @@
+# TOP 6.: Freiwilligentag in Uengsterode am 17.09.22
+
+- Sitzung: Ortsbeirat Uengsterode (2. Sitzung) (2022-09-13)
+- Körperschaft: Stadt Großalmerode
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/grossalmerode/webservice/oparl/v1.1/body/1/agendaitem/4789
