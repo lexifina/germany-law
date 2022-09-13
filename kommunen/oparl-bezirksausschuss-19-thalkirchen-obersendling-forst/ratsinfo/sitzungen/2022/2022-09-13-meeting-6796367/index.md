@@ -1,0 +1,95 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-09-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796367
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796367
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 02.08.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget GLGL München e.V. Erstellung einer barrierefreien Homepage von September bis Dezember 2022 989,20 € / Az. 0262.0-19-0427
+- TOP 3.3.: (E) Stadtbezirksbudget MobilSpiel e.V. Kicklusion – Der Anstoß zum Miteinander im Oktober und November 2022 2.720,00 € / Az. 0262.0-19-0425
+- TOP 3.4.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Aroma-Pflege im Evangelischen Pflegezentrum Sendling 443,66 € / Az. 0262.0-19-0420
+- TOP 3.5.: (E) Stadtbezirksbudget Katholische Kirchenstiftung St. Karl Borromäus, Kindergarten St. Johann Baptist Sonnensegel für den Garten des Kindergartens 17.750,00 €/ Az. 0262.0-19-0424
+- TOP 3.6.: (E) Stadtbezirksbudget Evangelischer Verein München-Solln e.V. Weiterführung der Hausaufgabenhilfe für Kinder an der Samberger Grundschule vom 19.09.2022 bis 27.07.2023 8.530,00 € / Az. 0262.0-19-0426
+- TOP 3.7.: (E) Stadtbezirksbudget Kath. Öffentliche Bücherei St. Johann Baptist Solln Anschaffung von Büchern und Bestandsaktualisierung vom 01.09-15.10.2022 450,00 € / AZ: 0262.0-19-0428
+- TOP 3.8.: (E) Stadtbezirksbudget Imkerverein München und Umgebung e.V. "Erneuerung und Anschaffung" 1.422,35 € / AZ: 0262.0-19-0429
+- TOP 3.9.: (Antrag) Anschubfinanzierung der Spielgeräte für Kleinkinder am Spielplatz Schuchstraße
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Energiesparen und Insektenschutz: Baudenkmäler kürzer beleuchten
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Verzögerungen bei der Verlegung von Glasfaserkabeln im 19. Stadtbezirk
+- TOP 5.2.: (Antrag) Ergebnisse Workshop Forstenried: Überdachung Bushaltestelle „Forstenried“
+- TOP 5.3.: (Antrag) Ergebnisse Workshop Forstenried: Shared Space im Dorfkern
+- TOP 5.4.: (Antrag) Radweg an der Südostseite der BAB 95 verbreitern
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Ausweisung Zweirichtungsradweg und Anbringung Zeichen „Vorfahrt gewähren!“ Gmunder Straße
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Haltverbot Einfädelung Radverkehr Rohrauerstraße
+- TOP 5.7.: (E) Projektplanung: Querungshilfe Maria-Einsiedel-Straße
+- TOP 5.8.: (A) Verkehrsrechtliche Anordnung: Sicht-Haltverbot Rupert-Mayer-Straße
+- TOP 5.9.: (U) Verkehrsrechtliche Anordnung: Aufhebung Radwegebenutzungspflicht Pognerstraße
+- TOP 5.10.: (Antrag) Ausweitung Parkzeiten Behindertenparkplatz Drygalski-Allee und Gulbranssonstraße
+- TOP 5.11.: Verkehrssituation Possenhofener Straße
+- TOP 5.12.: (Antrag) Zeitplan Neubau Tram Westtangente
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Sollner Straße 44 (VB)
+- TOP 6.2.2: Buchhierlstraße 23
+- TOP 6.2.3: Stäblistraße 13
+- TOP 6.2.5: Leutstettener Straße 30
+- TOP 6.2.6: Am Isarkanal 36
+- TOP 6.2.10: Gmunder Straße 33 (VB)
+- TOP 6.2.11: Wolfratshauser Straße 230
+- TOP 6.2.12: Stockdorfer Straße 12 (VB)
+- TOP 6.2.13: Reismühlenstraße 47 (T)
+- TOP 6.2.15: Hofbrunnstraße 75 (T)
+- TOP 6.2.16: Karl-Haider-Straße 14 (VB)
+- TOP 6.2.17: Am Lehwinkel 3
+- TOP 6.2.19: Wolfratshauser Straße 214 (VB)
+- TOP 6.3.: (Antrag) Ergebnisse Workshop Forstenried: Dorfanger im Dorfkern
+- TOP 6.4.: (Antrag) Ergebnisse Workshop Forstenried: Ensembleschutz Dorfkern
+- TOP 6.5.: (Antrag) Ergebnisse Workshop Forstenried: Sicherung des Dorfkerns
+- TOP 6.6.: (A) Fortschreibung Stadtentwicklungskonzeption „Perspektive München“
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Erhalt des Kindergartens Lollipop
+- TOP 7.1.2: Sachstand alternativer Räumlichkeiten für den Kindergarten Lollipop
+- TOP 7.1.3: Weiteres Gymnasium im Stadtbezirk 19 notwendig
+- TOP 7.2.: (E) Projektplanung: Sanierung und Aufwertung Spielplatz Allescher Straße
+- TOP 7.3.: (Antrag) Anschubfinanzierung der Spielgeräte für Kleinkinder am Spielplatz Schuchstraße
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Ergebnisse Workshop Forstenried: Hinweisschilder auf historische Gebäude
+- TOP 8.3.: (U) Neuerrichtung Gaststättenbetrieb: Geretsrieder Straße
+- TOP 8.4.: (A) Veranstaltung: 66. Münchner Kanuslalom am 17. und 18.09.2022
+- TOP 8.5.: (A) Veranstaltung: Theater Spielplatz Silvrettaweg am 01.10.2022
+- TOP 8.6.: (A) Veranstaltung: Info-Veranstaltung Fahrradstraßen Thalkirchner Platz am 11.10.2022
+- TOP 8.7.: (A) Veranstaltung: Pedelec-Training Sportplätze Floßlände am 01.10.2022
+- TOP 8.8.: (A) Veranstaltung: Theater Grünanlage Begasweg/Plattlinger Straße am 16.10.2022
+- TOP 9: Verschiedenes
+- TOP 7.4.: - NACHTRAG - (Antrag) Sanierungsarbeiten im Pavillon der GS an der Baierbrunner Straße wegen Schimmelbefall während der Unterrichtszeit
+- TOP 6.2.4: Stridbeckstraße 35
+- TOP 6.2.7: Machtlfinger Straße 28
+- TOP 6.2.8: Hofbrunnstraße Flurnummer 465/4
+- TOP 6.2.9: Sperlstraße 1a (T)
+- TOP 6.2.14: Herterichstraße 24
+- TOP 6.2.18: Oppenrieder Straße 23
