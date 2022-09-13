@@ -1,4 +1,4 @@
-# Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
+# Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
 
 - [Eingangsformel](eingangsformel.md)
 
