@@ -9,8 +9,3 @@
 - [§ 7 Elektronische Erfassung und Meldung](0007.md)
 - [§ 8 Datenschutz](0008.md)
 - [§ 9 Sonderregelung für den Bundesnachrichtendienst](0009.md)
-- [Anlage 1 (weggefallen)](anlage-1.md)
-- [Anlage 2 (weggefallen)](anlage-2.md)
-- [Anlage 3 (weggefallen)](anlage-3.md)
-- [Anlage 4 (weggefallen)](anlage-4.md)
-- [Anlage 5 (weggefallen)](anlage-5.md)
