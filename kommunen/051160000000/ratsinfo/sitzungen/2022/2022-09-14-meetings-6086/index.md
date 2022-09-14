@@ -1,0 +1,70 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2022-09-14T15:00:00+02:00
+- Ende: 2022-09-14T19:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6086
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6086
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00210809.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00210809.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00210809.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 2. Sitzung des Rates vom 16.12.2020 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Niederschrift über die 3. Sitzung des Rates vom 25.03.2021 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 3: Niederschrift über die 12. Sitzung des Rates vom 15.06.2022 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 4: Mündlicher Bericht zur Energiekrise - Kenntnisnahme
+- TOP 4.1: Bericht zum Umgang mit der Energiekrise im Blick auf die kommenden Wintermonate - Mit Stimmenmehrheit abgelehnt
+- TOP 4.2: Fraktionsantrag zu TOP 2 - Mündlicher Bericht zur Energiekrise - Mit Stimmenmehrheit abgelehnt
+- TOP 5: Wiederwahl der Beigeordneten Dörte Schall - Mit Stimmenmehrheit beschlossen
+- TOP 6: Bericht zum Fraktionsantrag zur Prüfung der Städtischen Beteiligungen im Rahmen der Gesamtstrategie - Kenntnisnahme
+- TOP 7: Bildung eines Seniorenrates für die Stadt Mönchengladbach hier: Siebenundzwanzigster Nachtrag zur Hauptsatzung der Stadt Mönchengladbach, Satzung für den Seniorenrat der Stadt Mönchengladbach und Wahlordnung für die Wahl der stimmberechtigten Mitglie - Mit Stimmenmehrheit beschlossen
+- TOP 7.1: Änderungsantrag Vorlage Bildung Senior*innenrat 1716/X; hier: Liste Verbände - Mit Stimmenmehrheit abgelehnt
+- TOP 7.2: Änderungsantrag Vorlage Bildung Senior*innenrat 1716/X; hier: Wahlordnung - Mit Stimmenmehrheit abgelehnt
+- TOP 8: Vierter Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Mönchengladbach (Abfallsatzung-AbfS) - Kenntnisnahme
+- TOP 9: Winterdienst auf Radwegen - Einstimmiger Beschluss
+- TOP 10: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2021 und Verwendung des Überschusses - Einstimmiger Beschluss
+- TOP 11: Entlastung der Sparkassenorgane für das Geschäftsjahr 2021 - Einstimmiger Beschluss
+- TOP 12: Einbringung von Geschäftsanteilen der NEW Re GmbH in die ENNI Energie und Umwelt Niederrhein GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 13: Beteiligung an der NEW AG - Einstimmiger Beschluss
+- TOP 14: Erster Nachtrag zu Hundesteuersatzung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 15: Finanzbericht gem. KommunalhaushaltsrechtsanwendungsVO UA-Schutzsuchendenaufnahme - Kenntnisnahme
+- TOP 16: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2022 (2. Nachweisung) - Kenntnisnahme
+- TOP 17: Genehmigung der Wiederbestellung eines Vorstandsmitgliedes der Stadtsparkasse Mönchengladbach - Einstimmiger Beschluss
+- TOP 18: Erweiterung und Neubau von Rettungswachen - Einstimmiger Beschluss
+- TOP 19: Projekt Bildungsfuchs - Förderung von neueingewanderten Grundschulkindern - Einstimmiger Beschluss
+- TOP 20: Leistungsvereinbarung Brennpunktprojekt - Einstimmiger Beschluss
+- TOP 21: Vertragsverlängerung mit der Verbraucherzentrale - Einstimmiger Beschluss
+- TOP 22: Ausbauplanung der Kindertageseinrichtungen bis zum Kindergartenjahr 2025/2026 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 23: Erster Nachtrag zur Satzung der Stadt Mönchengladbach über die Benutzung der städtischen Übergangsunterkünfte - Einstimmiger Beschluss
+- TOP 24: Jugendbildungscafé und Aktionsraum in der Rheydter Innenstadt - Einstimmiger Beschluss
+- TOP 25: Leistungsvereinbarung mit der Diakonisches Werk gGmbH über die sozialpädagogische Begleitung Jugendlicher und junger Erwachsener in den beiden Mönchengladbacher Fahrradstationen - Einstimmiger Beschluss
+- TOP 26: Kommunale Bedarfsplanung für die Stadt Mönchengladbach gemäß § 7 Abs. 6 APG NRW - Einstimmiger Beschluss
+- TOP 27: Ausbau der Flüchtlingsunterkünfte der Stadt Mönchengladbach aus Anlass des Ukrainekrieges - Einstimmiger Beschluss
+- TOP 28: 3. Runde des Lärmaktionsplans der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 28.1: Ergänzungsantrag zur Beratungsvorlage 1405/x – 3. Runde des Lärmaktionsplanes der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 29: Verlagerung des Busverkehrs von der Hindenburgstraße auf die Achse Steinmetzstraße / Viersener Straße - Mit Stimmenmehrheit beschlossen
+- TOP 30: Einlage eines Grundstücks "Knopsstraße 47" in die GWSG - Einstimmiger Beschluss
+- TOP 31: Verbandsversammlung des Niersverbandes; Ersatzwahl für ein vorzeitig ausgeschiedenes Mitglied - Einstimmiger Beschluss
+- TOP 32: Verbandsausschuss des Netteverbandes; Ersatzwahl für ein vorzeitig ausgeschiedenes stellvertretendes Mitglied - Einstimmiger Beschluss
+- TOP 33: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend – Beschluss zur Aktualisierung des Integrierten Handlungs- und Entwicklungskonzepts Gladbach und Westend - Mit Stimmenmehrheit beschlossen
+- TOP 33.1: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend – Beschluss zur Aktualisierung des Integrierten Handlungs- und Entwicklungskonzepts Gladbach und Westend - zur Beratungsvorlage Nr. 1655/X - Mit Stimmenmehrheit beschlossen
+- TOP 34: Integriertes Handlungs- und Entwicklungskonzept (IHEK) für den Stadtteil Wickrath-Mitte – Beschluss des Konzeptes - Einstimmiger Beschluss
+- TOP 35: Situation an der Wohnanlage Zur Burgmühle 33 in 41199 Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Tischvorlage zu Ö2 1586/X im Rat - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 37: Lebenswerte Innenstädte. Autofreie Innenstadt Rheydt - Mit Stimmenmehrheit abgelehnt
+- TOP 38: Gewerbeflächenansiedlung und Entsiegelung; Hier: Gemeinsamer Fraktionsantrag von SPD, BÜNDNIS 90/DIE GRÜNEN und FDP vom 15.08.2022 - Getrennte Abstimmung (s. Niederschrift)
+- TOP 39: Umbesetzung von Gremien; - Einstimmiger Beschluss
+- TOP 40: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 41: Umbesetzung von Gremien; - Einstimmiger Beschluss
+- TOP 42: Umbesetzung der Härtefallkommission; - Einstimmiger Beschluss
+- TOP 43: Ausgabenbestätigung durch politische Gremien bei erheblichen Preissteigerungen; - Mit Stimmenmehrheit abgelehnt
+- TOP 44: Umbesetzung von Gremien; - Einstimmiger Beschluss
+- TOP 45: Umbesetzung von Ausschüssen; - Mit Stimmenmehrheit beschlossen
+- TOP 46: Anfragen und Mitteilungen
+- TOP 46.1: Anfrage von RH Fegers zur Beratungsvorlage Nr. 1338/X - Mittelfristige Maßnahmenplanung GMMG Anlage Maßnahmensteckbrief
