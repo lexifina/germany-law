@@ -1,0 +1,56 @@
+# Rat (14. Sitzung)
+
+- Körperschaft: Gemeinde Steinhagen
+- Beginn: 2022-09-14T17:38:00+02:00
+- Ende: 2022-09-14T19:40:00+02:00
+- Ort: Schulzentrum Steinhagen, Laukshof 10, 33803 Steinhagen, Aula
+- Status: 
+- Gremium: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWJY8PZjjsXvzDm_KEDRtbc
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/3749
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY3HNOD-L1DO2aNS8palqfZzz-ui1FZYV5J_iO-sQCYX/Einladung_Rat_14.09.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZtLOawIVwPzxqUKHe9JZRhxrN9NSsEIHWcvdz12STGN/Oeffentliche_Niederschrift_Rat_14.09.2022.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner nach § 18 der Geschäftsordnung
+- TOP 2.: Bericht der Bürgermeisterin gemäß § 55 Abs.1 Gemeindeordnung NRW
+- TOP 3.: Änderung der Beschränkung der Richtlinie der Gemeinde Steinhagen zur Förderung von Sanierungsgutachten für Wohngebäude im Bestand - Bürgerantrag vom 12.07.2022 -
+- TOP 4.: Grundstückstausch des Gewerbegebietes Waldbadstraße 88 / Detert-Langenbrede in der nächsten Bauausschuss-Sitzung beraten - Bürgerantrag der Klägergemeinschaft Waldbadstraße vom 23.08.2022 -
+- TOP 5.: Aufstellung eines festen Geschwindigkeitsanzeigedisplays an der Amshausener Straße - anonymer Finanzierer vorhanden - Bürgerantrag der Initiative BÜRGER MIT WIRKUNG, Koordination Dr. Birgit Lutzer vom 06.09.2022 -
+- TOP 6.: Plätze für Jugendliche und junge Erwachsene - Antrag der Ratsfraktion UWG/Die Partei vom 20.06.2022 -
+- TOP 7.: Geschwindigkeitsmessungen an der Langen Straße sowie an der Mühlenstraße - Antrag der Ratsfraktion UWG/Die Partei vom 20.06.2022 -
+- TOP 8.: Nachhaltige Gestaltung kommunaler (Parkplatz-) Flächen zur Stärkung der Kommune gegen die Folgen des Klimawandels - Antrag der CDU-Ratsfraktion vom 08.08.2022 / erhalten am 31.08.2022 -
+- TOP 9.: Ausweitung des öffentlichen Trinkwasser-Angebots - Antrag der SPD-Ratsfraktion vom 10.08.2022 -
+- TOP 10.: Kostenlose Menstruationsartikel an den weiterführenden Schulen in Steinhagen und den gemeindlichen Gebäuden - Antrag der SPD-Ratsfraktion vom 23.08.2022 -
+- TOP 11.: Mitfahrer-Parkplatz an der A33-Auffahrt - Antrag der CDU-Ratsfraktion vom 23.08.2022 -
+- TOP 12.: Überprüfung zur Aufrechterhaltung der öffentlichen Sicherheit in den Nachtstunden - Antrag der Ratsfraktion UWG/Die Partei vom 30.08.2022 -
+- TOP 13.: Schaffung eines Naturlehrpfades in der Patthorst - Antrag der Ratsfraktion UWG/Die Partei vom 30.08.2022 -
+- TOP 14.: Versetzung Geschwindigkeitszeichen Lange Straße und Erneuerung Fahrbahnmarkierung 30 Lange Straße - Antrag der Ratsfraktion UWG/Die Partei vom 31.08.2022 -
+- TOP 15.: Dauerhafte Vierzügigkeit in der Realschule - Antrag der CDU-Ratsfraktion vom 31.08.2022 / erhalten am 07.09.2022 -
+- TOP 16.: Bring- und Abholsituation Schulzentrum - Antrag der Ratsfraktion UWG/Die Partei vom 01.09.2022 -
+- TOP 17.: Nutzung von Regenwasser auf dem Gebiet der Gemeinde Steinhagen prüfen - Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 06.09.2022 -
+- TOP 18.: Die Verwaltung wird beauftragt, Leitlinien für die Planungen im Bereich Verkehr und ÖPNV zu erarbeiten - Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 06.09.2022 -
+- TOP 19.: Vortrag zu dem Thema „Gemeinwohlökonomie (GWÖ)“
+- TOP 20.: Erneuerung der Lüftungsanlage in der Sporthalle Brockhagen - Bereitstellung überplanmäßiger Haushaltsmittel – hier: Genehmigung der Entscheidung des Haupt- und Finanzausschusses anstelle des Rates nach § 60 Abs. 1 Satz 1 GO NRW (Dringlichkeitsentscheidung) vom 24.08.2022 - Abstimmungsergebnis:Einstimmig
+- TOP 21.: Zuschussantrag der Sportvereinigung Steinhagen e.V. für den Parkplatz und die Außenanlagen des Hörmann Sportzentrums Vorstellung der angepassten Planung - Abstimmungsergebnis:Einstimmig abgesetzt bei einer Enthaltung
+- TOP 22.: Antrag der AWO Kreisverband Gütersloh e.V. auf Erhöhung der Fachkraftstunden mit 0,25 Stellenanteil im Bereich der offenen Kinder- und Jugendarbeit im Jugendzentrum „Checkpoint“ im Rahmen des Kinder- und Jugendförderplan des Kreises Gütersloh - Abstimmungsergebnis:Einstimmig bei einer Enthaltung 
+- TOP 23.: Integriertes Handlungskonzept der Gemeinde Steinhagen hier: Beschlussfassung zur Erweiterung des Integrierten Handlungskonzepts mit der neuen Maßnahme „Städtebauliche Mehrfachbeauftragung zur Erzielung von Planungsideen für das Areal Südlich Fivizzanoplatz“ - Abstimmungsergebnis:Einstimmig
+- TOP 24.: Schlussbesprechung des Prüfungsberichtes und Beschlussfassung über den Jahresabschluss für das Wirtschaftsjahr 2021 des Abwasserbetriebs der Gemeinde Steinhagen - Abstimmungsergebnis:Einstimmig
+- TOP 25.: Entscheidung in der Gesellschafterversammlung der Gemeindewerke Steinhagen GmbH 1. Feststellung des Jahresabschlusses 2021 2. Ergebnisverwendung 3. Entlastung der Aufsichtsratsmitglieder - Abstimmungsergebnis:zu Nr. 1: Einstimmigzu Nr. 2: 20 Ja-Stimmen               13 Nein-Stimmen                 0 Enthaltungen zu Nr. 3: Einstimmig                (ohne Mitwirkung der Aufsichtsratsmitglieder)
+- TOP 26.: Beschlussfassung über den Jahresabschluss der Gemeinde Steinhagen zum 31.12.2021 - Abstimmungsergebnis:zu Nr. 1: Einstimmigzu Nr. 2: Einstimmigzu Nr. 3: Einstimmig                (ohne Mitwirkung der Bürgermeisterin)
+- TOP 27.: Größenabhängige Befreiung zur Aufstellung eines Gesamtabschlusses gemäß § 116a Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) - Abstimmungsergebnis:30 Ja-Stimmen  3 Enthaltungen 
+- TOP 28.: Bericht über die Erträge, Aufwendungen, Einzahlungen und Auszahlungen im Zusammenhang mit der Aufnahme und Unterbringung von geflüchteten Menschen aus der Ukraine
+- TOP 29.: Energieeinsparung in der Gemeinde Steinhagen - Abstimmungsergebnis:32 Ja-Stimmen  1 Nein-Stimme  0 Enthaltungen 
+- TOP 30.: Anfragen und Mitteilungen
+- TOP 30.1: Möglichkeiten zur Verdrängung des Jakobskreuzkrauts auf öffentlichen Flächen - Anfrage der CDU-Ratsfraktion vom 08.08.2022 / erhalten am 31.08.2022 -
+- TOP 30.2: Vorbeugende Maßnahmen bzgl. der akuten Waldbrandgefahr im Gemeindegebiet - Anfrage der SPD-Ratsfraktion vom 23.08.2022 -
+- TOP 30.3: Anfragen an die Verwaltung - Anfrage der Ratsfraktion UWG/Die Partei vom 30.08.2022 -
+- TOP B.: Nichtöffentliche Sitzung
+- TOP 31.: Bericht der Bürgermeisterin gemäß § 55 Abs.1 Gemeindeordnung NRW
+- TOP 32.: Ausübung des gemeindlichen Vorkaufsrechtes im Sanierungsgebiet "Ortskern-Steinhagen" - Abstimmungsergebnis:Einstimmig
+- TOP 33.: Grundstücksangelegenheiten - Abstimmungsergebnis:zu a) Keine Abstimmungzu b) Einstimmigzu c) Einstimmig
+- TOP 34.: Beschaffung eines HLF 20 für die Freiwillige Feuerwehr Steinhagen, Löschzug Steinhagen - Abstimmungsergebnis:Einstimmig
+- TOP 35.: Anfragen und Mitteilungen
