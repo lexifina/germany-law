@@ -1,0 +1,144 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2022-09-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6815545
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6815545
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.1.: Schwimmschulen / Schwimmlernmöglichkeiten
+- TOP 2.1.2.: Aufstellung von Bankautomaten
+- TOP 2.1.3.: Paul-Ottmann-Zentrum, Ruhebänke, Belechtung, Toiletten
+- TOP 2.1.4.: Umnutzung in Arbeiterwohnheime, z.B. Streitbergstr. 82
+- TOP 2.1.5.: Bauvorhaben Bergson Kunstkraftwerk
+- TOP 2.1.6.: Wave-Spielpatz in der Grünanlage an der Fritz-Bauer-Straße; Spielplatzordnung
+- TOP 2.1.7.: Buslinien in der Pretzfelderstraße
+- TOP 2.1.8.: N - Aubinger Bahntunnel für die Zukunft
+- TOP 2.1.9.: N - Anregung zum Nachdenken der Verkehrsprobleme in Aubing - Lochhausen
+- TOP 2.1.10.: N - Neuigkeiten Schulbus Langwied
+- TOP 2.1.11.: N - Kräheneckstr. 14: Antrag Verkehrsrechtliche Anordnung
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Industriestr. 76 - Ehrenbürgstr. 2c - Langwieder Hauptstr. 61 - Erlbachstr. 41 - Reußensteinstr. 10 - Dickensstr. 3a - Bodenseestr. 299d N - Taubertalstr. 20
+- TOP 3.1.2.: Baumfällungen zu Bauvorhaben: - Kronwinkler Str. 51 - Denkenhofstr. 10-10a - Mettnauer Str. 24 - Hallstätter Straße N - Johannes-Tanner-Str. 7
+- TOP 3.1.3.: Verkehrssicherheit für eine Blaufichte in der Schöngeisinger Str. 10, Schr. Referat für Stadtplanung und Bauordnung vom 25.08.22
+- TOP 4.: Anträge
+- TOP 4.1.: Anbindung Bergson-Kunstkraftwerk an den S-Bahnhof Langwied (Robert Brenner)
+- TOP 4.2.: Präsenzroboter für die langzeiterkrankten Kinder in den Schulen im 22.Stadtbezirk (Leopold Arning)
+- TOP 4.3.: Kombimüllbehälter für mehr Sauberkeit in Lochhausen (Fraktion Bündnis 90/Die Grünen)
+- TOP 4.4.: Unterführung in Lochhausen - Wann ist mit einer Entscheidung zu rechnen? (Fraktion Bündnis 90/Die Grünen)
+- TOP 4.5.: Die städtische Wohnbaugesellschaft soll auch finanziell in die Lage versetzt werden, dass sie ihre EG-Bereiche in Freiham auch einer gewerbliche Nutzung zur Verfügung stellt. (Fraktion Bündnis 90/Die Grünen)
+- TOP 4.6.: Gewerbegebiet Rupert-Bodner-Straße - Wie ist der Stand zur neuen Straße von der Bergsonunterführung entlang der Waschanlage der DB zur Unterführung Rupert-Bodner-Straße? (Fraktion Bündnis 90/Die Grünen)
+- TOP 4.7.: Verbot Zufahrt für Kraftfahrzeuge zu den Böhmerweihern (Fraktion Bündnis 90/Die Grünen)
+- TOP 4.8.: Finanzierung Grünzug L (Interfraktioneller Antrag)
+- TOP 4.9.: Finanzierung Außenstelle NS-Dokumentationszentrum Ehrenbürgstraße (Interfraktioneller Antrag)
+- TOP 4.10.: Finanzierung Präventionskette Freiham (Interfraktioneller Antrag)
+- TOP 4.11.: Finanzierung Ausbau Stadtteilmanagement Freiham (Interfraktioneller Antrag)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget Förderverein 1000 Jahre Urkunde Aubing e.V. Festakt 200 Jahre Erste Schule Aubing am 11.09.2022 950,00 Euro, Az.: 0262.0-22-0200 - Der Antrag wurde vom Antragsteller zurückgezogen -
+- TOP 5.2.: Entscheidung gem. Vollmacht des Oberbürgermeisters über die Projektplanung: Aufwertung der Grünfläche am Bolzplatz Aubinger Lohe
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Veranstaltung im Freien auf öffentlichem Verkehrsgrund und Grünanlage inkl. Spielplatz "Wave", hier: Hedwig-Kämpfer-Str. und der Grünanlage gegenüber am 20.09.22 von 14.00-18.00 Uhr, Anhörung KVR vom 11.08.22 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.1.1.2.: Veranstaltung im Freien auf Privatgrund (Herbstfest Festwiese) und auf öffentlichen Grund (Festzug und Standkonzert Sperre und Halteverbote): 31. Aubinger Herbstfest mit Festzug am Belandwiesenweg vom 01.09. - 04.09.22, Anhörung KVR vom 22.08.22) (Vorabzustimmung durch stv. BA-Vorsitzenden)
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: Errichtung eines öffentlichen Hallenbades im Stadtteil Freiham im 22. Stadtbezirk, Schr. Ref. f. Arbeit u. Wirtschaft vom 02.08.22
+- TOP 6.1.2.2.: Errichtung eines offenen Bücherschranks Lochhausen, "Platz der Begegnung", Schr. KVR vom 05.08.22 und N Anhörung KVR vom 06.09.22
+- TOP 6.2: UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Versorgung Lochhausen/Langwied mit Bankautomaten, Schr. Referat für Arbeit und Wirtschaft vom 19.08.22
+- TOP 6.2.2.2.: Aktualisierte Übersicht der Unterkünfte für Geflüchtete und Wohnungslose Juni 2022, Schr. Sozialreferat vom 30.08.22
+- TOP 6.2.2.3.: N - Instandsetzung der Stockschießanlage in Lochhausen mit Skateplatz, Schr. Baureferat vom 31.08.22
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung, hier: - Eichelhäherstr. 60, Einrichtung eines personenbezogenen Behindertenparkplatzes, Anhörung Mobilitätsreferat vom 04.08.22
+- TOP 6.3.1.2.: Erinnerungsverfahren: Mundesgasse / Langwieder Bach Grenzherstellung (Am Langwieder Bach bis zur Schwemmstr.), Anhörung Baureferat vom 10.08.22 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.3.1.3.: Erinnerungsverfahren: Görbelmoosstr. beidseitige Gehwegsanierung zwischen Solnhofener Str. und Schwojerstr., Anhörung Baureferat vom 12.08.22 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.3.1.4.: Plangenehmigungsverfahren: Lärmsanierung München West II an bestehenden Schienenwegen des Bundes, München-Pasing Knoten, Anhörung Referat für Stadtplanung und Bauordnung vom 31.08.22
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Anfrage: Verkehrsplanung für den 22. Stadtbezirk - Wie werden die Umlandgemeinden in die Planungen mit einbezogen, Schr. Mobilitätsreferat vom 09.08.22
+- TOP 6.3.2.2.: Verkehrsrechtliche Anordnung, hier: - Kleiberweg / Margot-Hielscher-Str., Vorfahrtsregelung, Schr. Mobilitätsreferat vom 08.08.22 - Linienbusverkehre der MVG; Änderungen zum Schuljahresbeginn am 13.09.22, Schr. Mobilitätsreferat vom 04.08.22
+- TOP 6.3.2.3.: Verkehrsrechtliche Erlaubnis, hier: - Verkehrsplanung Brunhamstraße vom 05.08.-31.08.22, Schr. Mobilitätsreferat vom 04.08.22
+- TOP 6.3.2.4.: Lastenradstation an den S-Bahnstationen Lochhausen, Langwied und Freiham, Schr. Mobilitätsreferat vom 02.08.22 (vertagt aus 08/22)
+- TOP 6.3.2.5.: Rad- und Fußweg Bergsonstraße (S-Bf. Langwied), Schr. Mobilitätsreferat vom 09.08.22
+- TOP 6.3.2.6.: Fußgängerüberweg Beerencafe, Schr. Baureferat vom 10.08.22
+- TOP 6.3.2.7.: Potentialanalyse Radverbindung Gräfelfing, Lochham - Freiham-Süd, Schr. 3. Bgm Gräfelfing vom 13.08.22
+- TOP 6.3.2.8.: Baustelleneinrichtung und Baustellenzufahrt bei Anton-Böck-Str. / Hans-Steinkohl-Str. vom 15.08.-14.10.22, Schr. Mobilitätsreferat vom 12.08.22
+- TOP 6.3.2.9.: Auswirkungen von verkehrlichen Maßnahmen auf den 22. Stadtbezirk, Schr. Mobilitätsreferat vom 17.08.22
+- TOP 6.3.2.10.: Wildenrother Straße, Schr. Mobilitätsreferat vom 18.08.22
+- TOP 6.3.2.11.: Sofortprogramm zur Beschaffung von S-Bahnzügen zur Verbesserung der Verkehrssituation im Münchner Westen, Schr. Mobilitätsreferat vom 14.07.22
+- TOP 6.3.2.12.: Errichtung von Fahrradständern, MVG-Fahrradstation und Sharing-Angeboten auf Aufseßer Platz, Vorschläge zur Umsetzung der Münchner Bevölkerungsbefragung zur Stadtentwicklung 2021, Schr. Mobilitätsreferat vom 23.05.22
+- TOP 6.3.2.13.: Wegesicherheit I und II, Schr. Baureferat vom 17.08.22
+- TOP 6.3.2.14.: Verwahrlosung Belandwiesenweg, Schr. Baureferat vom 22.08.22
+- TOP 6.3.2.15.: Mobilitätspunkte im BA 22, Schr. Mobilitätsreferat vom 24.08.22
+- TOP 6.3.2.16.: Fuß- und Radwegverbindung von der Bergsonstraße zum Krautgartenweg, Schr. Mobilitätsreferat vom 18.07.22
+- TOP 6.3.2.17.: N - Verkehrsrechtliche Anordnung: Verlängerung Altenburgstraße, Barrierefreier Ausbau Bushaltestelle, Schr. Mobilitätsreferat vom 07.09.22
+- TOP 6.3.2.18.: N - Fahrplankästen und Aushänge der Linie 157 im Bereich der Aubing-Ost-Straße und Hellensteinstraße, Schr. MVG vom 02.09.22
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Beteiligung der Bezirksausschüsse zum Stadtentwicklungskonzept Perspektive München, Anhörung Planungsreferat vom 09.08.22
+- TOP 6.4.1.2.: (N) - Wiesentfelser Str. 68-70, Neubau eines Nahversorgungszentrums mit Dienstleistung, Familien- und Kindertageszentrum und zusätzlicher Wohnnutzung und Tiefgarage - mit Mobilitätskonzept, Anhörung Planungsreferat vom 05.08.22 (vertagt aus 08/22)
+- TOP 6.4.1.3.: Mettnauer Str. 24, Neubau 2er Doppelhäuser mit Doppelparkergaragen (Haus A, B, C, D), Anhörung Planungsreferat vom 18.08.22
+- TOP 6.4.1.4.: Hallstätter Straße, Neubau eines Zweifamilienhauses mit Garagen, Anhörung Planungsreferat vom 18.08.22
+- TOP 6.4.1.5.: Siedlungsschwerpunkt Freiham, Freiham Nord - Angerflächen, Bebauungsplan mit Grünordnung Nr. 2068 im 22. Stadtbezirk, Anhörung Baureferat vom 26.08.22
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Quote der Gasversorgung im 22. Stadtbezirk, Schr. Ref. f. Arbeit u. Wirtschaft vom 12.08.22
+- TOP 6.4.2.2.: Beleuchtung Vorplatz Edeka Colmdorfstraße, Schr. Baureferat vom 08.08.22
+- TOP 6.4.2.3.: Bauanträge im 22. Stadtbezirk: 001.08.-07.08.22, 08.08.-14.08.22, 15.08.-22.08.22, 22.08.-28.08.22, N 29.08.-04.09.22
+- TOP 6.4.2.4.: Kippen-Kronkorkenvermüllung am Lußsee, Schr. Baureferat vom 19.08.22
+- TOP 6.4.2.5.: Verbesserungen bei den Recyclingcontainern (Abfallwirtschaftsbetrieb München, 24.08.22)
+- TOP 6.4.2.6.: Stadtwerke Baumaßnahmen Strom-Projekt: - Freiham Nord WA 15 - Hans-Dietrich-Genscher-Straße - Streitbergstr. 31
+- TOP 6.4.2.7.: Baumaßnahmen der Stadtwerke - Stichtag: 12.08.-26.08.22
+- TOP 6.4.2.8.: N - Bewerbung zum Pilotprojekt "Gelbe Tonne" im 22. Stadtbezirk, Schr. Kommunalreferat vom 24.08.22
+- TOP 6.4.2.9.: N - Langzeitmessung der elektromagnetischen Immissionen im Bpl. 2107 Osterangerstraße durch die 110-KV Bahnfreileitung, Schr. Referat für Klima- und Umweltschutz vom 02.09.22
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Wolfsberger Str., Schr. Sozialreferat vom 10.08.22 - Walter-Brecht-Str., Schr. Sozialreferat vom 11.08.22 - Schwojerstr., Schr. Sozialreferat vom 11.08.22
+- TOP 8.2.: Unveränderte Fortführung der Gaststätte: "Arena Sportsbar" ehemals "Zum Stöckl", Limesstr. 112, Schr. KVR vom 30.08.22
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1: Vollversammlung vom 02.02.22
+- TOP 9.1.1.: (U) Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat
+- TOP 9.2: Vollversammlung vom 27.07.22
+- TOP 9.2.1.: (U) PERSPEKTIVE MÜNCHEN: Langfristige Siedlungsentwicklung, Strukturkonzept Mühlangerstraße/Langwied - Teilanpassung „Dreilingsweg“ Stadtbezirk 21 Pasing – Obermenzing Stadtbezirk 22 Aubing – Lochhausen – Langwied
+- TOP 9.2.2.: (U) Grundsatzbeschluss Abstellanlagen, dauerhafte Betriebshöfe für U-Bahn, Tram und Bus der SWM / MVG 1. Vorstellung Standortsuche 2. Auswahl von Vorzugsstandorten 3. Beauftragung von städtebaulichen, verkehrlichen und baulichen Voruntersuchungen
+- TOP 9.3: Vollversammlung vom 29.06.22
+- TOP 9.3.1.: (U) Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 9.4: Mobilitätsausschuss vom 20.07.22
+- TOP 9.4.1.: (U) Dialog-Displays in München, Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 9.5: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.03.22:
+- TOP 9.5.1.: (U) Errichtung eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen im Baugebiet Freiham WA 16 an der Aubinger Allee 19, 22. Stadtbezirk - Aubing-Lochhausen-Langwied Genehmigung des Nutzerbedarfsprogramms
+- TOP 9.6: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.03.22:
+- TOP 9.6.1.: (U) Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen an der Margot-Hielscher-Straße 7 im 22. Stadtbezirk Aubing-Lochhausen-Langwied Genehmigung des Nutzerbedarfsprogramms
+- TOP 9.7: Beschluss des Kommunalausschusses vom 31.05.22:
+- TOP 9.7.1.: (U) Errichtung eines Neubaus für die offene Einrichtung für Jugendliche Freizeitstätte "AWO`s Fredl" in der Bodenseestr. 186/188 Flurstück 330 und 330/1 Gemarkung Pasing, 22. Stadtbezirk Aubing-Lochhausen-Langwied Ausführungsgenehmigung, Fortschreibung des Mehrjahresinvestitions- programms 2022-2026
+- TOP 9.8: N - Beschluss des Kinder- und Jugendhilfeausschusses vom 20.09.22:
+- TOP 9.8.1.: (U) Soziale Infrastrukturversorgung und Standortsicherung für eine Einrichtung der Offenen Kinder- und Jugendarbeit im Neubaugebiet Dreilingsweg Bebauungsplan mit Grünordnung Nr. 2175 1. Zustimmung zur Planung 2. Genehmigung der gemeldeten Flächenbedarfe 3. Standort- und Flächensicherung 4. Kenntnisnahme des einstweiligen Nutzer*innenbedarfsprogramms 21. Stadtbezirk Pasing-Obermenzing 22. Stadtbezirk Aubing-Lochhausen-Langwied
+- TOP 9.8.2.: (U) Die Auswirkungen der Pandemie dämpfen, Maßnahmen des Sozialreferats/Stadtjugendamt für Kinder, Jugendliche und deren Familien Streetwork II - Zusätzliche Stellen für Streetwork in Freiham BA-Antrags - Nr. 20-26 / B 03755 ......................
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 10.1.: Terminvorschläge für die BA-Sitzungen 2023
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 19.10.22 um 19.00 Uhr im Schulcampus Freiham, Helmut-Schmidt-Allee 41 (Eingang Süd) Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 05.09.22 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 06.09.22 um 18.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 07.09.22 um 19 Uhr im Bildungslokal Paul-Ottmann-Zentrum – UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 08.09.22, Sitzungsort und Uhrzeit werden noch bekannt gegeben
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.12.: N - Neues Bauvorhaben in der Bodenseestraße neben der Hausnummer 298e
+- TOP 2.1.13.: N - Schlechter Zustand des Geländes nahe dem Langwieder- und Lußsee ("Tipi-Platz")
+- TOP 2.1.14.: N - Abstellen von E-Roller am Aubinger Kriegerdenkmal
+- TOP 2.1.15.: N - Senkung des Bereichs zwischen den Toren am nördlichen Eingang zum Aubinger Friedhof und Dauerbeparkung Parkplatz Mitte und Süd
+- TOP 2.1.16.: Baustelle am Aubinger Friedhof - fehlende Bautafel
+- TOP 4.12.: Schulwegsicherheit in Freiham herstellen (Interfraktioneller Dringlichskeitsantrag)
+- TOP 2.1.17.: Ansaat einer Wildblumenwiese östlich des Aufseßer Platzes
+- TOP 3.1: Baumschutzbeauftragte
