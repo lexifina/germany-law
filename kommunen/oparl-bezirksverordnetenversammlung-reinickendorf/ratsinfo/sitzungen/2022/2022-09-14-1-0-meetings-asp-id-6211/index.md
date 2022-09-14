@@ -1,0 +1,162 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2022-09-14T17:00:00+02:00
+- Ende: 2022-09-14T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6211
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6211
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 2.1: Neue Realitäten anerkennen - Digitale Sitzungen der BVV im Bezirksverwaltungsgesetz ermöglichen - vertagt
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Wässerung der Straßenbäume in Reinickendorf - beantwortet
+- TOP 3.2: Instandsetzung mit Inbetriebnahme der elektronischen 2 Hinweisanzeigen auf Tempo 30 - Standort Schildower Str. Ecke Parkstr und ggü. Hermsdorfer Damm-Spielplatz - beantwortet
+- TOP 3.3: Zusätzliche Sitzbänke in Reinickendorf - beantwortet
+- TOP 3.4: Fahren mit E-Scootern - beantwortet
+- TOP 3.5: Erprobung von Modalfiltern im Waldseeviertel - beantwortet
+- TOP 3.6: Fertiggestellte Fußgängerzone in Tegel nicht klimagerecht - beantwortet
+- TOP 3.7: Stattgefundene Gartenparty "1. Rosenfest am Rosenanger" in einer geschützten Grünanlage - schriftlich beantwortet
+- TOP 3.8: Bereitstellung von Wohnungen bei akut drohender Obdachlosigkeit - schriftlich beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 11. Sitzung der BVV am 14.09.2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Umgang mit gestiegenen Corona-Zahlen in Reinickendorf - beantwortet
+- TOP 5.2: Gehweg Ulmenstraße - beantwortet
+- TOP 5.3: Marode Steganlage - beantwortet
+- TOP 5.4: Energiesparen im anstehenden Winter im Bezirksamt Reinickendorf - beantwortet
+- TOP 5.5: Hitzeschutz für wohnungslose und obdachlose Menschen im Bezirk - beantwortet
+- TOP 5.6: Umsetzungsstand der Drucksache 1895/XX - beantwortet
+- TOP 5.7: Bauarbeiten Schmitzweg, Heiligental und Brodersenstraße - beantwortet
+- TOP 5.8: Sicheres Alt-Tegel - beantwortet
+- TOP 5.9: Zusätzliche Flüchtlingsunterkunft - beantwortet
+- TOP 5.10: Zukunft der zuwendungsgeförderten Projekte im Bezirk - beantwortet
+- TOP 5.11: Aktueller Sachstand zur bezirklichen Open Data Strategie - beantwortet
+- TOP 5.12: Großbaustelle Quartier Märkisches Viertel - beantwortet
+- TOP 5.13: Wärmestuben in Reinickendorf? - beantwortet
+- TOP 5.14: Unbesetzte Stellen - beantwortet
+- TOP 5.15: Toilettenanlagen in Reinickendorf betriebsbereit? - schriftlich beantwortet
+- TOP 5.16: Mittelinsel Packereigraben - schriftlich beantwortet
+- TOP 5.17: Runder Tisch Waldseeviertel - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Aktuelle Haushaltssituation (Große Anfrage) - beantwortet
+- TOP 6.2: Wie energieeffizient werden die Reinickendorfer Dienstgebäude beheizt? (Große Anfrage) - vertagt
+- TOP 6.3: Sichere Energieversorgung in Reinickendorf (Große Anfrage) - vertagt
+- TOP 6.4: Spielplatz in Heiligensee (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.5: Rollbergesiedlung kinder- und familienfreundlicher gestalten (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.6: Sanierung der Toiletten im Ernst-Reuter-Saal (Beschlussempfehlung) - ohne Änderungen in der BVV beschlossen
+- TOP 6.7: Keine Gewalt gegen Dienstkräfte der Verwaltungs- und der Ordnungsbehörden (Resolution) - vertagt
+- TOP 7: Feststellungen - (offen)
+- TOP 7.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Radverkehr in Reinickendorf- sicher, komfortabel und ideologiefrei II - vertagt
+- TOP 8.2: Orientierungshilfe für Autofahrer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Naturschutzgebiet am Flughafensee und in der Tegeler Stadtheide ausweisen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Wartenummernaufruf des Bürgeramtes im Rathaus Reinickendorf zukunftsgerecht gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Bürgerfreundliche Verwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Work-Life-Balance im Bezirksamt: Kindertagesstätte für die Beschäftigten des Bezirksamts Reinickendorf - vertagt
+- TOP 8.7: Warme Beleuchtung an der Greenwichpromenade in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Wildschutzzaun am Andornsteig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: "Progress-Pride-Flagge" am 17.05.2022 hissen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Aktionstag für ehrenamtliche Einsatz- und Rettungskräfte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.11: Gedenkveranstaltung beim Rathaus anl. 80. Jahrestag Massaker von Lidice - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Schutz der Reinickendorfer Natur - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Wahl der Patientenfürsprechenden für die Kliniken im Bezirk Reinickendorf - überwiesen
+- TOP 10.2: Beschluss über den Bebauungsplanentwurf 12-53 vom 01.10.2018 mit Deckblatt vom 31.05.2021 für die Grundstücke Emmentaler Straße 90/100A, Friedrich-Wilhelm-Straße 78-87 und Residenzstraße 130-137 sowie Teilflächen der Emmentaler Straße und Resi-denzstraße und einen Abschnitt der Friedrich-Wilhelm-Straße im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 10.3: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Mehr E-Ladesäulen für Reinickendorf! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Erarbeitung eines Konzeptes zur Anpassung Reinickendorfs an den Klimawandel - vertagt
+- TOP 11.3: Instandsetzung Gehweg Titiseestraße - erledigt
+- TOP 11.4: Stärkung von nichtdeutschen Erstsprachen (Muttersprachen) in der Grundschule - vertagt
+- TOP 11.5: Erneuerung der Flaggen am Tegeler Hafen - erledigt
+- TOP 11.6: Arbeitsgruppe "Fahrradnebenroutennetz" einrichten - vertagt
+- TOP 11.7: Geschwindigkeitskontrollen "Im Fischgrund" - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Findling Dianastraße Ecke Waidmannsluster Damm wieder herrichten - in der BVV abgelehnt
+- TOP 11.9: Jubiläumsfeierlichkeiten 775 Jahre Lübars im Sommer 2022 - vertagt
+- TOP 11.10: Klimaschutzvorbehalt - vertagt
+- TOP 11.11: Solarenergieziel in Reinickendorf zügig umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: BücherboXX in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Allgemeinen Ordnungsdienst (AOD) sachgerecht ausstatten - in der BVV abgelehnt
+- TOP 11.14: Sauberes Reinickendorf / Rückführung herrenloser Einkaufswagen ausweiten - vertagt
+- TOP 11.15: Bei Modernisierung der S-Bahnhöfe Frohnau und Waidmannslust die Bahnsteigdächer mindestens für Sechswagenzuglänge vorsehen - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Förderkonzept für Grundschüler - vertagt
+- TOP 11.17: Übergang Alt-Tegel/Treskowstraße barrierefrei machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Historische Informationsstele Franz Neumann - ohne Änderungen in der BVV beschlossen
+- TOP 11.19: Förderung von Street-Art in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Mehr Verkehrssicherheit am Borsigdamm in Tegel I - Kurve entschärfen - vertagt
+- TOP 11.21: Mülleimer am Elchdamm - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Mehr Verkehrssicherheit durch Fahrbahnmarkierungen an der Kreuzung Ollenhauerstraße / Humboldtstraße bzw. Ollenhauerstraße / Auguste-Viktoria-Allee sowie auf den angrenzenden Straßen - vertagt
+- TOP 11.23: Mehr Verkehrssicherheit für Fußgänger am Zebrastreifen in der Bernauer Straße in Tegel - erledigt
+- TOP 11.24: Unterbringungsmöglichkeiten für Geflüchtete ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 11.25: Tierquälerei am Schäfersee bekämpfen - in der BVV abgelehnt
+- TOP 11.26: Stärkung der Eigenverantwortlichkeit und Flexibilität der Schulen dauerhaft sichern - in der BVV abgelehnt
+- TOP 11.27: Förderung eines Solarenergie-Clusters in der Urban-Tech-Republic - ohne Änderungen in der BVV beschlossen
+- TOP 11.28: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2020 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.29: Bewilligung von Sondermitteln der BVV für das Jahr 2022 - Ländlicher Reiterverein Tegel e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.30: Bewilligung von Sondermitteln der BVV für das Jahr 2022 - Euro-Schulen Berlin Brandenburg GmbH - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.31: Bewilligung von Sondermitteln der BVV für das Jahr 2022 - Förderverein der Gartenarbeitsschule Reinickendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.32: Bewilligung von Sondermitteln der BVV für das Jahr 2022 - Kulturcoaching gUG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Instandsetzung Radweg Alt-Heiligensee - überwiesen
+- TOP 13.2: Tiny Forest für Reinickendorf - überwiesen
+- TOP 13.3: Reinickendorf als Pilotbezirk für stationäres Stadttaubenmanagement - überwiesen
+- TOP 13.4: Schul- und Kitawegsicherung am Waidmannsluster Damm - überwiesen
+- TOP 13.5: Taubenschlag in Tegel wiedererrichten - überwiesen
+- TOP 13.6: Anpassung der Parkplatzkapazitäten für PKW im Bereich der Cité Foch - überwiesen
+- TOP 13.7: Pilotprojekt "Bürohunde" im Bezirksamt Reinickendorf umsetzen - überwiesen
+- TOP 13.8: SimRa: Sicherheit im Radverkehr - überwiesen
+- TOP 13.9: Die Reinickendorfer Seniorenvertretung finanziell stärken - überwiesen
+- TOP 13.10: Parkplatzbeleuchtung an der Quickborner Straße 105 - überwiesen
+- TOP 13.11: Geschwindigkeitsanzeige am Waldsee reparieren - überwiesen
+- TOP 13.12: Energie Einsparmöglichkeiten in den öffentlichen Gebäuden Reinickendorfs - überwiesen
+- TOP 13.13: LSBTIQ-Fahnen im Bezirk Reinickendorf - überwiesen
+- TOP 13.14: Fußgängerzone Gorkistraße - Mehr Begrünung im neuen Tegel-Quartier - überwiesen
+- TOP 13.15: Barrierefreiheit im Bezirksamt bei Aufzugsausfällen - überwiesen
+- TOP 13.16: Verkehrssicherheit in der Schildower Straße wieder herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.17: Sportbox - überwiesen
+- TOP 13.18: Verkehrssicherheit in der Alten Schildower Straße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 13.19: Urbane Plätze für Jugendliche - überwiesen
+- TOP 13.20: Fußgängerzone Gorkistraße - Sitzmöglichkeiten zum Verweilen errichten - überwiesen
+- TOP 13.21: Sichere Kitawege in Reinickendorf - überwiesen
+- TOP 13.22: Fußgängerzone Gorkistraße - Errichtung eines Bodenleitsystems für Menschen mit Sehbehinderung - überwiesen
+- TOP 13.23: Neuen Kreisverkehr in Heiligensee standortgerecht, ressourcenschonend und trockenverträglich bepflanzen - überwiesen
+- TOP 13.24: Bartoszewski-Ausstellung nach Reinickendorf holen und im Rathaus ermöglichen - überwiesen
+- TOP 13.25: Frühzeitige Förderung von Führungskräften im Bezirksamt - überwiesen
+- TOP 13.26: Barrierefreiheit am S-Bahnhof Hermsdorf fördern - überwiesen
+- TOP 13.27: Instandsetzung und Pflege der Reinickendorfer Radwege Nr. 1 - 6 - überwiesen
+- TOP 13.28: Selbstverpressende Solar-Mülleimer für Reinickendorf - überwiesen
+- TOP 13.29: Fußgängerzone Gorkistraße - Mülleimer mit integriertem Aschenbecher und Pfandring aufstellen - überwiesen
+- TOP 13.30: Fußgängerzone Gorkistraße - Felsenbrunnen wieder in Betrieb nehmen - überwiesen
+- TOP 13.31: Fußgängerzone Gorkistraße - Außenbereich für die Tegeler Markthalle schaffen - überwiesen
+- TOP 13.32: Eindeutige Beschilderung für Fußgänger und Radfahrer entlang der Greenwichpromenade - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Ertüchtigung von Brandschutzgräben und -schneisen - überwiesen
+- TOP 14.2: Nachnutzung TXL -Bedarfe für den organisierten Sport I - überwiesen
+- TOP 14.3: Keine Verschiebung der Schulbauoffensive - überwiesen
+- TOP 14.4: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm / Martin-Luther-Straße - überwiesen
+- TOP 14.5: Daten aus Dialogdisplays der Öffentlichkeit zur Verfügung stellen - überwiesen
+- TOP 14.6: Mehr Sicherheit in Häusern der städtischen Wohnungsbaugesellschaften - überwiesen
+- TOP 14.7: Ausfahrten durch gestrichelte Wartelinie an der Holzhauser Straße erleichtern - überwiesen
+- TOP 14.8: Nachnutzung TXL -Bedarfe für den organisierten Sport II - überwiesen
+- TOP 14.9: Zebrastreifen für den Waldsee-Spielplatz errichten - überwiesen
+- TOP 14.10: Projekt Laternen-Ladesäulen in Reinickendorf etablieren - überwiesen
+- TOP 14.11: Klimaschutz in sozialer Verantwortung - überwiesen
+- TOP 14.12: Fußgängerzone Gorkistraße - Überdachung und Sitzplätze für die Bushaltestelle Buddestraße - überwiesen
+- TOP 14.13: Wiederaufstellung eines Mülleimers auf dem Lübarser Dorfanger - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Behindertenparkplatz bei Nahkauf im Ortsteil Konradshöhe etablieren - überwiesen
+- TOP 14.15: Ehrenamtliche Patientenfürsprecher auch in Pflegeheimen einsetzen - überwiesen
+- TOP 14.16: Zusätzliche Fahrradständer vor EDEKA am Falkenplatz aufstellen - überwiesen
+- TOP 14.17: Stipendien- und Förderprogramme sichtbarer machen - überwiesen
+- TOP 14.18: Praktikumsbörse - überwiesen
+- TOP 15: Wahl eines stellv. Schriftführers / einer stellv. Schriftführerin in den Vorstand der BVV - in der BVV abgelehnt
