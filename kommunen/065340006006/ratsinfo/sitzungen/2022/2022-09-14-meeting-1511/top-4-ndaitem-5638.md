@@ -1,0 +1,6 @@
+# TOP 4: Möglichkeit von Wiesengräbern für Urnenbestattungen auf dem Friedhof Reddehausen
+
+- Sitzung: Ortsbeirat Reddehausen (9. Sitzung) (2022-09-14)
+- Körperschaft: Gemeinde Cölbe
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/agendaitem/5638
