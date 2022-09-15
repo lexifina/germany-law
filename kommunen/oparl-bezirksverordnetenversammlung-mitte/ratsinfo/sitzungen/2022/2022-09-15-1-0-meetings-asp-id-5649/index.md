@@ -1,0 +1,143 @@
+# 11. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2022-09-15T17:30:00+02:00
+- Ende: 2022-09-15T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5649
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5649
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=541022
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Nachfragen zum Zustand der Köpenicker Straße
+- TOP 2.2: Drohende Wohnungslosigkeit
+- TOP 2.3: Baumfällung für Tiefgarage
+- TOP 2.4: Hundeauslauf im Sprengelkiez
+- TOP 2.5: ÖPNV und Nahversorgung Sprengelkiez
+- TOP 2.6: Hunde in den Rehbergen
+- TOP 2.7: Nachfragen zum Grundstück Afrikanische Straße 13
+- TOP 3: Feststellen von Dringlichkeiten
+- TOP 4: Mitteilungen
+- TOP 4.1: des Vorstandes
+- TOP 4.2: der Fraktionen
+- TOP 4.3: der Ausschüsse
+- TOP 4.4: des Bezirksamtes
+- TOP 5: Konsenslisten
+- TOP 5.1: Genehmigung der im Haushaltsjahr 2021 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen
+- TOP 5.2: Festsetzung der Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt für das Gebiet „Erste Erweiterung Friedrichstadt“ im Bezirk Mitte von Berlin gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB
+- TOP 5.3: Außengastronomie auf Parkbuchten dauerhaft möglich machen
+- TOP 5.4: Gedenktafel für die Opfer und den Widerstand gegen das NS-Regime auf dem Friedhof an der Seestraße (II)
+- TOP 5.5: Verbesserung der Barrierefreiheit in Schule und Jugendeinrichtungen
+- TOP 5.6: Neues Gedenken für die ersten Opfer der Novemberrevolution 1918
+- TOP 5.7: Aufgabenprofil der Koordinierungsstelle für Umweltbildung
+- TOP 5.8: Mehr bürgerschaftliche Begrünung des öffentlichen Straßenlandes ermöglichen
+- TOP 5.9: Naturlehrpfad im Volkspark Rehberge
+- TOP 5.10: „Toilette für alle“ für unser Schul-Umwelt-Zentrum
+- TOP 5.11: Fördermittel des Bundes aus dem Klima- und Transformationsfonds für Mitte nutzen, den öffentlichen Raum klimafreundlich, klimaresilient und lebenswert umgestalten!
+- TOP 5.12: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet „Badstraße“ im Bezirk Mitte von Berlin
+- TOP 5.13: über die Fortschreibung des Integrierten Städtebaulichen Entwicklungskonzepts für das Fördergebiet Luisenstadt (Mitte) - ISEK 2021
+- TOP 5.14: Anna-Lindh-Schule: Chance nutzen und endlich neubauen!
+- TOP 5.15: Aus-/Fortbildungen zur Erfüllung der AV Aufsicht
+- TOP 5.16: Energiesparen auf Kosten von Kindern und Familien
+- TOP 5.17: Sport- und Bewegungstage
+- TOP 5.18: Waisenbrücke
+- TOP 5.19: Digitale Anmeldung von (Sport-) Großveranstaltungen ermöglichen
+- TOP 5.20: Bezirkliche Klimaschutzziele im öffentlichen Gebäudebestand zügig umsetzen, Energiekosten senken, Energieunabhängigkeit für Mitte beschleunigen!
+- TOP 5.21: Städtepartnerschaften mit der Ukraine, Georgien und Moldau aufbauen
+- TOP 5.22: Von Pankow Lernen – Die Situation weiblicher und diverser Solo-Selbständiger in der Pandemie sichtbar machen
+- TOP 5.23: Programm „Neustart Wirtschaft“: Wirtschaft fördern und Ungleichbehandlung beenden
+- TOP 5.24: Gedenken an die „Zerstörte Vielfalt“ in der Feldzeugmeisterstraße zeigen
+- TOP 5.25: Bericht zu Verlusten im Produkthaushalt sowie den Strategien und Maßnahmen des Bezirksamtes
+- TOP 5.26: Die Chance auf eine moderne Verwaltung in Mitte nutzen – zügig E-Government-Gesetz umsetzen!
+- TOP 5.27: Langfristige Perspektive für die Wilde 17
+- TOP 5.28: Räumungsmoratorium für Köpi-Wagenplatz
+- TOP 5.29: „Köpi“ & Wagenplatz retten
+- TOP 5.30: Umzugshilfe für das Haus der Weisheit
+- TOP 5.31: „Charta der Rücksicht“ für 2022 fortentwickeln!
+- TOP 5.32: Interessenbekundungsverfahren Café Leo ist nicht rechtskonform und muss wiederholt werden
+- TOP 5.33: Das Bezirksamt muss sich seiner Verantwortung gegenüber dem Haus der Weisheit stellen
+- TOP 5.34: Das Haus der Weisheit räumt die Rathenower Straße 16, obwohl es nicht in die Lehrter Straße 60 einziehen kann. Das Bezirksamt muss helfen, sonst droht die Moscheegemeinde zugrunde zu gehen
+- TOP 5.35: Planung der Sicherstellung von Hallenzeiten für 2022/ 2023 jetzt schon beginnen
+- TOP 5.36: Zweckentfremdung transparent machen!
+- TOP 5.37: Mehr Anerkennung fürs Ehrenamt – Aufwandsentschädigung für ehrenamtlich Tätige im Bezirk
+- TOP 5.38: Streichung der pauschalen Minderausgaben des Bezirkshaushaltes Berlin Mitte
+- TOP 5.39: Gute Arbeit als integrierte Arbeitslinie im BA Mitte
+- TOP 5.40: Honorarmittel für Sprachmittlung "Ukrainisch-Deutsch"
+- TOP 5.41: Bürger:innenbeteiligung zur Bebauung der Kiezgärten im Soldiner Kiez umsetzen
+- TOP 5.42: Sperrmülltage, mehr davon!
+- TOP 5.43: Beschluss über die Änderung der Grenzen der räumlichen Geltungsbereiche der in Aufstellung befindlichen Bebauungspläne 1-82b, 1-82c, 1-82e, 1-82f, 1-83a und 1-105, Teilung des Geltungsbereiches 1-82e und Erweiterung des Geltungsbereiches für den in Aufstellung befindlichen Bebauungsplan 1-82eb
+- TOP 5.44: Integrierte Handlungs- und Entwicklungskonzepte (IHEKs) der Quartiersmanagementgebiete – Fortschreibung 2022
+- TOP 5.45: Beschluss über die Neuordnung der Bebauungsplanverfahren im Böttgerblock, gelegen im Bezirk Mitte, Ortsteil Gesundbrunnen, durch: Beschluss über die Einstellung der Bebauungsplanverfahren III-218 und III-219, Beschluss über die Aufstellung der Bebauungsplanverfahren 1-115 „Böttgerstr./Bastianstr.“, 1-116 „Böttgerstr. 15/17“ und 1-117 „Böttgerstr./Hochstr.“ sowie die Durchführung der frühzeitigen Öffentlichkeits- und der Behördenbeteiligungen gemäß § 3 Abs. 1 und § 4 Abs. 1 und 2 BauGB
+- TOP 5.46: Vermögensübertragung des Grundstücks Schulstraße 97, 13347 Berlin vom Finanzver-mögen in das Fachvermögen Schule
+- TOP 5.47: Gewährung von Fördermitteln für Freiwilliges Engagement in Nachbarschaften (FEIN) - Einzelmaßnahmen im Bezirk Mitte für das Jahr 2022
+- TOP 5.48: Zielsystem für das Kalenderjahr 2022 – Bericht über das Erreichen der Ziele (Erfolgs-kontrolle) zum 30. April 2022
+- TOP 5.49: Fortschreibung Konzept zur Umsetzung der Leitlinien für Bürgerbeteiligung
+- TOP 5.50: Einstellung des Bebauungsplanverfahrens I-2 für das Grundstück Rückerstraße 2 im Bezirk Mitte, Ortsteil Mitte
+- TOP 5.51: Einstellung des Bebauungsplanverfahrens III-190 für das Gebiet zwischen Stettiner Straße, Osloer Straße, Grüntaler Straße und Bellermannstraße im Bezirk Mitte, Ortsteil Wedding
+- TOP 6: Thematische Stunde
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Ende der E-Scooter-Falschpark-Plage in Sicht?
+- TOP 7.2: Russischer Panzer unter den Linden
+- TOP 7.3: Parkplätze zu Wüsten?
+- TOP 7.4: Wie werden die Qualitätssicherung und die Einhaltung der Mindeststandards in ASOG-Unterkünften sichergestellt?
+- TOP 7.5: Sport in Grünanlagen und Sportentwicklungsplan
+- TOP 7.6: Ist der oder die Sachverständige zur Erstellung eines barrierefreien Konzepts für die Rathäuser, Ämter und andere Einrichtungen im Bezirk beauftragt?
+- TOP 7.7: Querparkfläche ohne ausreichende Kennzeichnung in der Hussitenstr.
+- TOP 7.8: Dauer von Stellenbesetzungsverfahren in Mitte
+- TOP 7.9: Kostensteigerungen in der Jugendhilfe
+- TOP 7.10: Geschwindigkeitskontrollen im Bezirk Mitte
+- TOP 7.11: Kampagne Hai-Alarm am Plötzensee
+- TOP 7.12: „Gemeinsam für unseren Bezirksbürgermeister“
+- TOP 8: Dringlichkeitsanfragen
+- TOP 9: Große Anfragen
+- TOP 9.1: Große Anfrage Schulbauoffensive
+- TOP 9.2: Alkoholverbot kassiert – erneute Pleite vor Gericht
+- TOP 9.3: Schimmelbefall und Heizdrosselung in Schulen
+- TOP 9.4: Wie geht das Bezirksamt gegen Schimmel in öffentlichen Gebäuden vor?
+- TOP 9.5: Wie geht es weiter mit dem Himmelbeet?
+- TOP 9.6: Warum wird die Planung dringend zusätzlich benötigter Schulplätze für Kinder mit Schwer-punkt geistige Entwicklung eingestellt?
+- TOP 9.7: Noch immer nix los in Sachen Nahversorgung am Ackerplatz!?
+- TOP 9.8: Kiezblöcke und Radverkehrsnetz ohne Bürgerbeteiligung?
+- TOP 9.9: Spreeradweg - aktuelle Bürgerinformationen finden nicht statt!
+- TOP 9.10: Wohnbebauung Bernauer Straße 26 und 34
+- TOP 9.11: Energiesparen nur im Eisstadion?
+- TOP 9.12: Wird Kindeswohlgefährdung ausreichend beachtet?
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 10.1: über Wahl der Bürgerdeputierten des Ausschusses für Integration gem. § 32 Bezirksverwaltungsgesetz
+- TOP 11: Vorlagen zur Beschlussfassung
+- TOP 11.1: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet „Müllerstraße Nord“ im Bezirk Mitte von Berlin
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung
+- TOP 13: Dringlichkeitsanträge
+- TOP 13.1: Gleichstellung junger Menschen in der stationären Jugendhilfe
+- TOP 13.2: Unterstützung des Netzwerkes Technologieparks Humboldthain e.V.
+- TOP 13.3: SGA soll Konzert genehmigen!
+- TOP 14: Anträge
+- TOP 14.1: Mitspracherecht von Anwohner*innen und Mitarbeiter*innen zum Karstadt am Leopoldplatz!
+- TOP 14.2: Spreeradweg
+- TOP 14.3: Anna-Lindh-Schule in den neuen Räumlichkeiten bestmöglich unterstützen
+- TOP 14.4: Größere Mülleimer und eine ausgeschilderte Durchwegung auf dem Gelände des Stadtschlosses Moabit
+- TOP 14.5: Sozialer Notdienst für Mitte!
+- TOP 14.6: Parkraumbewirtschaftungszonen auf den Prüfstand!
+- TOP 14.7: Kiezblock Nördliche Luisenstadt – KEIN RECHT AUF SCHLEICHWEG
+- TOP 14.8: Energieeinsparungen für den Winter 22/23 umsetzen, Zusammenhalt im Bezirk stärken
+- TOP 15: Entschließungen
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen
+- TOP 16.1: Mehr Graffiti-Sprühflächen für Mitte – Geduldete Hall of Fames am Nordbahnhof dauerhaft legalisieren und für die Allgemeinheit zugänglich machen!
+- TOP 16.2: Flächendeckende Parkraumbewirtschaftung in Mitte — auch im Wedding!
+- TOP 16.3: Mehr Freiheit für Fuß- und Radverkehr im Gartenstraßenkiez – motorisierten Durchgangsverkehr verhindern!
+- TOP 16.4: Aufwertung Ernst Friedrich Promenade und des angrenzenden Spielplatzes
+- TOP 16.5: Unterstützung für Classroom for Ukraine
+- TOP 16.6: Schulwegsicherheit in der Singerstraße erhöhen
+- TOP 16.7: Wildbienen auf der Catcherwiese – alternative Sportflächen in den Rehbergen dringend ge-sucht!
+- TOP 16.8: Kein zusätzliches Quer- und Schrägparken mehr einrichten
+- TOP 16.9: Inklusion beginnt auf dem Spielplatz
+- TOP 16.10: Jetzt aber: Spielplatzpat*innen für Mitte
+- TOP 17: Vorlagen zur Kenntnisnahme
+- TOP 17.1: Ein fester, dauerhafter Standort für Fixpunkt am Leopoldplatz!
+- TOP 17.2: Wedding: Rathausvorplatz für alle II
