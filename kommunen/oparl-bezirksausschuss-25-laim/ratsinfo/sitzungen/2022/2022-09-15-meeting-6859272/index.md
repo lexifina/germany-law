@@ -1,0 +1,107 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6859272
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6859272
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Ausländische Bettlerbanden Anton-Hammel-Straße/Landsberger Str. 187 hier: Eingeschränktes Haltverbot
+- TOP 1.2.2.: Öffentliche Grillstationen in München
+- TOP 1.2.3.: Verkehrsspiegel Ecke Lautensackstraße/Agnes-Bernauer-Str. stadtauswärts
+- TOP 1.2.4.: Neugestaltung Gotthardstraße / U 5-Verlängerung
+- TOP 2: Anträge
+- TOP 2.1.: Unterstützung des SV Laim - Ausweichfläche während der Baumaßnahmen für die U5
+- TOP 2.2.: Mehr Grün statt Teer: Entsiegelungen in Laim
+- TOP 2.3.: Photovoltaik auf Bahnsteigdächern
+- TOP 2.4.: Oberflächengestaltung Gotthardstraße
+- TOP 2.5.: Überquellende Müllbehälter am Laimer Anger
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Infoschreiben BA 06 / 2022 Hybridsitzungen/Live Stream hier: Bedarfsabfrage
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 18.07.22: Perhamerstr. 49, KITA-Anfahrtszone
+- TOP 4.4.: Schreiben Mobilitätsreferat vom 22.08.22: Verkehrsrechtliche Anhörung Schulbushaltestelle Von-der-Pfordten-Straße
+- TOP 4.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.08.2022 und 23.08.22: Beteiligung der Bezirksausschüsse zum Stadtentwicklungskonzept Perspektive München
+- TOP 4.6.: Schreiben Baureferat vom 03.08.22: Protokoll Ortstermin zur Umgestaltung der Grünanlage mit Spielplatz am Laimer Platz
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 24.08.22: Flohmarkt Drachenburg e.V. am Spielplatz Laimer Platz am 15.10.22 (Ersatztermin 22.10.22)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Eringerstraße 36 Anbau an ein Reihenmittelhaus
+- TOP 5.2.: Landsberger Straße 317 Nutzungsänderung von Blumengeschäft zum Burger-Verkauf ohne Alkohol ohne bauliche Veränderung
+- TOP 5.3.: Landsberger Straße 160-162 Neubau eines Hotels mit Tiefgarage - TEKTUR zu 1.111-2017-4464-23
+- TOP 6: Sonstiges
+- TOP 6.1.: Konzept Grünpaten
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 28.07.22
+- TOP 7.2.: Protokoll UA Schule und Gesundheit vom 13.07.22
+- TOP 7.3.: Protokoll UA Bau vom 28.07.22
+- TOP 7.4.: Protokoll UA Kultur vom 27.07.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 18.07.22: Informationsschreiben BA 05/22 Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist
+- TOP 8.2.: Schreiben Direktorium vom 01.08.22: Informationsschreiben BA 07/22: Stadtbezirksbudget - Abruf städtischer Leistungen
+- TOP 8.3.: Schreiben Direktorium vom 22.07.22: Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken Hier: Eilentscheidung
+- TOP 8.4.: Schreiben Baureferat vom 12.07.22: Grünfläche hinter Wertstoffinsel Ecke Siglstraße
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 18.07.22: Verlagerung sondernutzungs- und gaststättenrechtliche Betreuung des Stadtbezirkes 25 zur BI Süd
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 14.07.22: Unveränderte Fortführung Gaststätte Lounge Boss Bar
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 19.07.22: Dauersperrmüllplatz in einer Wohnstraße in Laim in der Maria-Birnbaum-Str./ Ecke Friedenheimerstraße
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 21.07.22: Fortführung Gaststätte You Loft, Landsberger Str. 163
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 26.07.22: Anhörung Figurentheater im Theaterzelt vom 27.10.-06.11.22 Am Laimer Anger Hier: Eiltenscheidung
+- TOP 8.10.: Schreiben CultureClouds vom 20.07.22 und Schreiben Kreisverwaltungreferat vom 03.08.22: Genehmigung Projekt Strasse.Oase
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 04.08.22: Anhörung Am Laimer Anger Festival der Marionetten 13.09.-23.09.22 Hier: Eilentscheidung
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 08.08.22: Anhörung Theater vor der Haustür - PLAN H, Laimer Anger 06.10.22 Hier: Eilentscheidung
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 23.08.22: Unveränderte Fortführung der Gaststätte "Dalma und August"
+- TOP 8.14.: Bautenliste 04.07.-10.07.22: A) Erstantragsverfahren 1. Willibaldstr. 41
+- TOP 8.15.: Bautenliste 25.07.-31.07.22: A) Erstantragsverfahren 1. Fürstenrieder Str. 8 2. Landsberger str. 317 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Diesterwegstr. 4 2. Landsberger Str. 350 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agnes-Bernauer-Str. 98
+- TOP 8.16.: Bautenliste 01.08.22-07.08.22: A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Hans-Thonauer-Str. 5
+- TOP 8.17.: Bautenliste 08.08.-14.08.22: A) Erstantragsverfahren 1. Camerloherstr. 205 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Elsenheimerstr. 31 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Reutterstr. 47
+- TOP 8.18.: Bautenliste 15.08.-21.08.22: A) Erstantragsverfahren 1. Riegerhofstraße 3 2. Friedrich-von-Pauli-Str. 17
+- TOP 8.19.: Schreiben Referat für Stadtplanung und Bauordung vom 26.07.22: Planänderungsbeschluss
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.08.22: Willibaldstraße 3 - 3b - Gefahrenbaumfällung und Ersatzpflanzungsbescheid
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.08.22: Fällung Camerloherstr. 139
+- TOP 8.22.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.08.22: Fällung Haunerstr. 11
+- TOP 8.23.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.08.22: Ilmmünsterstr. 32b, Fl.Nr. 355/47, Gemarkung Laim Energetische Sanierung, zwei neue Gauben, Erweiterung EG und Stellplatz auf einem Grundstück eines Einfamilienhauses
+- TOP 8.24.: Schreiben Mobilitätsreferat vom 14.07.22, 01.08.22 und 23.08.22: Genehmigung Vollsperre Dreharbeiten Karibou
+- TOP 8.25.: Schreiben Mobilitätsreferat vom 20.07.22: Sperrung Laimer Unterführung vom 22.08.-04.10.22
+- TOP 8.26.: Schreiben Mobilitätsreferat vom 15.07.22: Gotthardstr. zwischen Von-der-Pfordten-Str. und Mitterfeldstr. 24, Spartenverlegung für Verlängerung der U5
+- TOP 8.27.: Schreiben Mobilitätsreferat vom 21.07.22: Einrichtung einer Fahrrad-Servicestation am Laimer Platz
+- TOP 8.28.: Schreiben Mobilitätsreferat vom 25.07.22: Präsentationen Informationsveranstaltung Meldeplattform
+- TOP 8.29.: Schreiben Mobilitätsreferat vom 29.07.22: Gotthardstraße - Verlängerung U5 - Änderung der verkehrsrechtlichen Anordnung
+- TOP 8.30.: Schreiben Mobilitätsreferat vom 27.06.2022: Shared Mobility – Carsharing Plätze am S-Bahnhof in Laim schaffen
+- TOP 8.31.: Schreiben Migrationsbeirat vom 25.07.22: Kinder- und Jugendbefragung im Sport vom Referat für Bildung und Sport
+- TOP 8.32.: Schreiben Sozialreferat vom 20.07.22: Genehmigung Zweckentfremdung von Wohnraum, Westendstraße
+- TOP 8.33.: Schreiben Sozialreferat vom 19.07.22: Genehmigung Zweckentfremdung von Wohnraum, Aindorferstraße
+- TOP 8.34.: Schreiben Sozialreferat vom 01.08.22: Genehmigung Zweckentfremdung von Wohnraum, Flantinstr.
+- TOP 8.35.: Schreiben Stadtwerke München vom 20.07.22: Spartenverlegung Agricolastraße Bereich Agnes-Bernauer-Straße/Gotthardstraße
+- TOP 8.36.: Schreiben Mieterbeirat vom 09.08.2022: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 25.07.2022
+- TOP 8.37.: Schreiben Referat für Bildung und Sport vom 12.08.22: Partizipation mit Kindern ernst nehmen! Verbesserung im Pausenhof Droste-Hülshoff GS
+- TOP 8.38.: Schreiben Referat für Bildung und Sport vom 18.08.22: Sicherung Bilder in der Camerloher Straße Ergänzende Stellungnahme
+- TOP 8.39.: Schreiben Referat für Klima- und Umweltschutz vom 13.05.2022: Begrünung der Schulen in der Droste-Hülshoff-Straße
+- TOP 8.40.: Schreiben Referat für Klima- und Umweltschutz vom 02.08.22: Antwort Antrag BA 13: Einbindung von Bezirksausschüssen in die Erstellung von Quartierskonzepten
+- TOP 8.41.: Schreiben Referat für Arbeit und Wirtschaft vom 02.08.2022: Beantwortung des Teilantrages Öffentliches Schwimmbad für Freiham
+- TOP 8.42.: Schreiben Referat für Arbeit und Wirtschaft vom 18.08.22: Glasfaserausbau in Laim
+- TOP 8.43.: Schreiben Telekom vom 05.08.22: FTTH Ausbau Telekom
+- TOP 8.44.: Schreiben Stadtwerke München vom 01.08.22: SWM Nachhaltigkeitsbericht 2021
+- TOP 8.45.: Schreiben Polizei PI 41 vom 11.08.2022: Anfrage zum Ergebnis der Polizeiaktion verbotswidriges Parken auf dem Gehweg in der Joergstraße
+- TOP 8.46.: Schreiben PI 41 vom 10.08.22: Zugeparkter Fahrradweg Agnes-Bernauer-Straße /Fürstenrieder Straße
+- TOP 8.47.: Schreiben BNE Vision vom 22.08.22: BNE Vision 2030
+- TOP 8.48.: Beschluss der Vollversammlung vom 27.07.2022: (U) Grundsatzbeschluss Abstellanlagen, dauerhafte Betriebshöfe für U-Bahn, Tram und Bus der SWM / MVG 1. Vorstellung Standortsuche 2. Auswahl von Vorzugsstandorten 3. Beauftragung von städtebaulichen, verkehrlichen und baulichen Voruntersuchungen
+- TOP 8.49.: Beschluss der Vollversammlung vom 15.12.2021: (U) Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing 1. Projektgenehmigung 2. Ausführungsgenehmigung Baulos 1 3. Änderung des Mehrjahresinvestitionsprogrammes 2021 - 2025 4. Zusätzlicher Personalbedarf
+- TOP 8.50.: Beschluss des Mobilitätsausschusses vom 20.07.22: (U) Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 8.51.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.22: (U) Internationale Bauausstellung (IBA) Metropolregion München A. Bekanntgabe des Memorandums zur IBA – Räume der Mobilität B. Vorschlag für das weitere Vorgehen
+- TOP 8.52.: Beschluss der Vollversammlung des Stadtrates vom 29.06.2022: (U) Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 8.53.: Beschluss der Vollversammlung des Stadtrates vom 02.02.2022: (U) Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.54.: Erneuerung der Fahrbahndecke Agricolastraße Bereich Agnes-Bernauer-Straße/Gotthardstraße (Weitergabe an Baureferat)
+- TOP 9.55.: Lärmbelästigung Landsberger Str. 314 (Weiterleitung an Bezirksinspektion/KVR und Bürgerinfo)
+- TOP 9.56.: Straßenreinigung, Müllcontainer, Parkpflege (Weiterleitung an Baureferat und Remondis)
+- TOP 9.57.: Lärm durch Spielhalle (Weiterleitung an Bezirksinspektion/KVR)
+- TOP 9.58.: Lärmbelästigung Landsberger Str. 214 (Weiterleitung an Bezirksinspektion/KVR)
+- TOP 9.59.: Beeinträchtigung durch E-Scooter und Lieferverkehr (Bürgerinfo)
+- TOP 1.2: Bürgerpost an den BA
