@@ -1,0 +1,7 @@
+# TOP 3.: Änderung des Flächennutzungsplans im Bereich des vorhabenbezogenen Bebauungsplans Usseln „Auf der Höhe“- Abwägungs- und Satzungsbeschluss
+
+- Sitzung: Gemeindevertretung (11. Sitzung) (2022-09-15)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/2057
+- Ergebnis: (kein Text vorhanden)
