@@ -1,0 +1,94 @@
+# 42. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-09-15T16:00:00+02:00
+- Ende: 2022-09-15T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11326
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11326
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00633393.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 2: Bericht des Oberbürgermeisters - Einbringung des Haushaltsentwurfes 2023/2024 - erledigt
+- TOP 2.1: Haushaltssatzung 2023/2024 und Wirtschaftspläne der Eigenbetriebe 2023/2024 - erledigt
+- TOP 3: Wahl des/der Beigeordneten für den Geschäftskreis Finanzen, Personal und Recht - Vertagung
+- TOP 4: Wahl des/der Beigeordneten für den Geschäftskreis Ordnung und Sicherheit - Vertagung
+- TOP 5: Wahl des/der Beigeordneten für den Geschäftskreis Kultur und Tourismus - Vertagung
+- TOP 6: Wahl des/der Beigeordneten für den Geschäftskreis Arbeit, Soziales, Gesundheit und Wohnen - Vertagung
+- TOP 7: Wahl des/der Beigeordneten für den Geschäftskreis Umwelt und Kommunalwirtschaft - Vertagung
+- TOP 8: Bestellung des Fachbediensteten für das Finanzwesen gemäß § 62 SächsGemO - Zustimmung
+- TOP 9: Besetzung des Aufsichtsrates der Stadtentwässerung Dresden GmbH - gewählt
+- TOP 10: Besetzung des Aufsichtsrates der WiD Wohnen in Dresden GmbH & Co. KG - Benennungsverfahren - Einigung konnte nicht erzielt werden
+- TOP 11: Besetzung des Aufsichtsrates der Stadtreinigung Dresden GmbH - Benennungsverfahren - Einigung konnte nicht erzielt werden
+- TOP 12: Umbesetzung von Ausschüssen
+- TOP 12.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit - Einigung
+- TOP 12.2: Ausschuss für Finanzen - Einigung
+- TOP 12.3: Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Einigung
+- TOP 12.4: Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Einigung
+- TOP 12.5: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Einigung
+- TOP 12.6: Ausschuss für Soziales und Wohnen - Einigung
+- TOP 12.7: Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum) - Einigung
+- TOP 12.8: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Einigung
+- TOP 12.9: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 12.10: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 12.11: Ausschuss für Petitionen und Bürgerbeteiligung - Einigung
+- TOP 13: Aktuelle Stunde: Versorgungssicherheit von DREWAG und SachsenEnergie durch Erneuerbare Energien wiederherstellen - Raus aus Putins Gas - erledigt
+- TOP 14: Fragestunde der Stadträtinnen und Stadträte (1 Runde)
+- TOP 14.1: Mittelverwendung der WiD
+- TOP 14.2: Finanzielle Untersetzung von Stadtratsbeschlüssen im kommenden Haushaltsplan
+- TOP 14.3: Gasumlage bei der SachsenEnergie
+- TOP 14.4: Granulatproblem bei den Kunstrasenplätzen in Cotta & Zschachwitz
+- TOP 14.5: Energiepreisentwicklung
+- TOP 14.6: Bürgerbeteiligung bei der Errichtung sogenannter Mobi-Punkte
+- TOP 14.7: Terminvergabe in den Bürgerbüros
+- TOP 14.8: Verwahrlosung des Bereichs Neustädter Markt, Hauptstraße und Augustusbrücke
+- TOP 15: Tagesordnungspunkte ohne Debatte
+- TOP 16: EFRE-Förderung 2021 bis 2027 Gebietsbezogene integrierte Handlungskonzepte (GIHK) EFRE 2021 bis 2027 in Verbindung mit der Bewerbung der Landeshauptstadt Dresden um Fördermittel des Europäischen Fonds für Regionale Entwicklung (EFRE) - punktweise Abstimmung
+- TOP 17: Dresdens biologische Vielfalt erhalten, fördern und erleben - Zustimmung mit Ergänzung
+- TOP 18: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2022/2023 - Zustimmung mit Ergänzung
+- TOP 19: Errichtung von temporären, mobilen Raumeinheiten zur Kapazitätserweiterung für Gymnasium Johannstadt am Standort 101. Oberschule, Pfotenhauer Str. 42, 01307 Dresden - Zustimmung
+- TOP 20: Jahresabschluss 2021 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 21: Jahresabschluss 2021 des Eigenbetriebes Heinrich-Schütz-Konservatorium der Landeshauptstadt Dresden - Zustimmung
+- TOP 22: Jahresabschluss 2021 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 23: Jahresabschluss 2021 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 24: Jahresabschluss 2021 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 25: Jahresabschluss 2021 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 26: Jahresabschluss 2021 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 27: Vergabenummer: 2021-GB113-00029 Neubau beider Schulgebäude für das Bertolt-Brecht-Gymnasium Dresden, Lortzingstraße 1, 01307 Dresden, Objektplanung Gebäude gem. §§ 34 ff. HOAI, Lph 2-9, stufenweise Beauftragung - Zustimmung
+- TOP 28: Vergabenummer: 2022-GB113-00001 Fachplanung Tragwerksplanung gem. §§ 51 ff. HOAI 2021 LPH 2-6 (+ Ingenieurtechnische Kontrollen) für den Neubau beider Schulgebäude für das Bertolt-Brecht-Gymnasium Dresden, Lortzingstraße 1, 01307 DD, stufenweise Be. - Zustimmung
+- TOP 29: Vergabenummer: 2022-GB113-00003 Objektplanung Freianlagen gem. §§ 39 ff. HOAI, LPH 2-9 für den Neubau beider Schulgebäude für das Bertolt-Brecht-Gymnasium Dresden, Lortzingstraße 1, 01307 DD, stufenweise Beauftragung - Zustimmung
+- TOP 30: Vergabenummer: 2022-GB113-00004 Fachplanung Technische Ausrüstung HLS (ALG 1-3) gem. §§ 55 ff. HOAI, LPH 2-3 und 5-9 für den Neubau beider Schulgebäude für das Bertolt-Brecht-Gymnasium Dresden, Lortzingstraße 1, 01307 Dresden, stufenweise Beauftrag. - Zustimmung
+- TOP 31: Vergabenummer: 2022-GB113-00005 Fachplanung Technische Ausrüstung ELT (ALG 4-6) gem. §§ 55 ff. HOAI, LPH 2-3 und 5-9 für den Neubau beider Schulgebäude für das Bertolt-Brecht-Gymnasium Dresden, Lortzingstraße 1, 01307 Dresden, stufenweise Beauftrag. - Zustimmung
+- TOP 32: Vergabenummer: 2021-GB113-00027 Dienstleistungskonzession für die Organisation und Durchführung des Dresdner Stadtfestes in den Jahren 2023 bis 2025 (2027) - Zustimmung
+- TOP 33: Neubau Verwaltungszentrum (VWZ01) – Mittelbereitstellung zur Beauftragung der Option „Großküche" durch die KID und Festlegung der Metallfassadenfarbe - punktweise Abstimmung mit Änderung
+- TOP 34: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen für das Wirtschaftsjahr 2020 - Zustimmung
+- TOP 35: Neufassung der Richtlinie zur Gewährung des Dresden-Passes - Zustimmung
+- TOP 36: Aufbau eines ganzheitlichen Verkehrsmanagementsystems der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 37: E-Petition "Keine Erhöhung der Elternbeiträge für die Betreuung von Kindern in Dresden" - Vertagung durch Einreicher
+- TOP 38: E-Petition „Neue Bürgermeister - freie Auswahl statt geheimer Absprachen" - Zustimmung - Petition nicht abgeholfen
+- TOP 39: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Verweisung
+- TOP 40: Elbradweg sicher für alle - Fußgänger besser schützen - Vertagung nach 22 Uhr
+- TOP 41: Dresdner Bericht über die Lebensverhältnisse in den Stadtteilen (Gleichwertigkeitsbericht) - Vertagung nach 22 Uhr
+- TOP 42: Teilhabe am sozialen und kulturellen Leben verbessern - Vertagung nach 22 Uhr
+- TOP 43: Vor dem Schaden klug sein: Aufarbeitung des Stromausfalls in Dresden im September 2021 und Wege zur Prävention - Vertagung nach 22 Uhr
+- TOP 44: Starke Region im Herzen Europas – interkommunale Zusammenarbeit der Landeshauptstadt Dresden mit dem Umland voranbringen - Vertagung nach 22 Uhr
+- TOP 45: Stadt der kurzen Wege - Vertagung nach 22 Uhr
+- TOP 46: Entwicklungsstrategie 2035 - Vertagung nach 22 Uhr
+- TOP 47: Entwicklungskonzeption für den Stadtbezirk Neustadt - Vertagung nach 22 Uhr
+- TOP 48: Mit integrierter Bildungsplanung die Situation von Kinder in benachteiligten Stadtteilen nachhaltig verbessern – Damit alle Kinder in ganz Dresden eine gute Bildung erfahren - Vertagung nach 22 Uhr
+- TOP 49: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50: Hans-Jürgen Dörner ehren – „Lennéstraße“ in „Dixie-Dörner-Straße“ umbenennen - Vertagung durch Einreicher
+- TOP 51: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 52: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung durch Einreicher
+- TOP 53: Völkerverständigung und friedliches Zusammenleben stärken –Zusammenarbeit mit der Partnerstadt St. Petersburg ausbauen und Menschen miteinander verbinden - Vertagung nach 22 Uhr
+- TOP 54: EILANTRAG: Spritpreisexplosion entgegensteuern. Einsatzbereitschaft der Freiwilligen Feuerwehr erhaltet. Änderung Feuerwehrsatzung: hier Entschädigungsrichtlinie - Vertagung nach 22 Uhr
+- TOP 55: Mehr Blühwiesen für Dresden - Vertagung nach 22 Uhr
+- TOP 56: EILANTRAG: Erhalt des Gondelboots-Verleihs auf dem Carolasee im Großen Garten - Vertagung nach 22 Uhr
+- TOP 57: EILANTRAG: Stellplatzkompensation für die wegfallenden Parkplätze in der Karl-Marx-Straße in Klotzsche sicherstellen - Anwohner informieren - Maßnahme auf den Prüfstand stellen - Vertagung nach 22 Uhr
+- TOP 58: Kompensation wegfallender Parkplätze entlang der Karl-Marx-Straße in Dresden Klotzsche - Vertagung nach 22 Uhr
+- TOP 60: Haushaltsvollzug 2022 - Finanzzwischenbericht/Zwischenberichte der Eigenbetriebe 2022 - erledigt
