@@ -1,0 +1,25 @@
+# Beratung und Beschlussfassung über den Ausbau der innerstädtischen Radwegeverbindungen - Vorstellung der Entwurfsplanung
+
+- Körperschaft: Stadt Spenge
+- Drucksache/Vorlage: 90/2022 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-09-15
+- Ratsinformationssystem: https://spenge.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZYYeXfwod0p37oU4JqSlr2U
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2529
+- Quelle: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beratung und Beschlussfassung über den Ausbau der innerstädtischen Radwegeverbindungen - Vorstellung der Entwurfsplanung) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZy_26Lnm_0DP75Mcw8R4eD13AIUlyEwFUOZ3UqeWqJ2/Beschlussvorlage_90-2022_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Präsentation BVIA_Radwegeverbindungen Spenge) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeCj347ZGRGgAlomgoCArUqi7air3OiwqOsB73LSCbHr/Praesentation_BVIA_Radwegeverbindungen_Spenge.pdf
+- Anlage: Beschlussvorlage (4.1_Lageplan) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeXgtqLQeDaofa4u5ug5L5uKkbDQMUsnn7sS3TFL3Qi4/4.1_Lageplan.pdf
+- Anlage: Beschlussvorlage (4.2_Lageplan) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZOSYTaAsVGdBI_nQtwQ9WnZj_-6-Ui54AVaPxu-GV4_/4.2_Lageplan.pdf
+- Anlage: Beschlussvorlage (4.3_Lageplan) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbzstUwf5FSxmawa7717-HCehPXaxJ1Zcd1AKCQcqAsT/4.3_Lageplan.pdf
+- Anlage: Beschlussvorlage (4.4_Lageplan) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaUO1s-NRz_cs9O1HLnTE5HW6tOprGMVdPob0rZt_K0B/4.4_Lageplan.pdf
+- Anlage: Beschlussvorlage (4.5_Lageplan) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfirxSCaYDdYFt832z7X-xBwsKcATLg5r0eoHl-gIXcR/4.5_Lageplan.pdf
+- Anlage: Beschlussvorlage (5.1_Regelquerschnitt) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTU3FVb1xfLecRA_Q5MTVCkN6xedngsD7d1Bc5kcDvUX/5.1_Regelquerschnitt.pdf
+- Anlage: Beschlussvorlage (5.2_Regelquerschnitt) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSv6ygmlSxPOSYzF5nFf7t4FN53W7kWTEoMw_fIB-9Cz/5.2_Regelquerschnitt.pdf
+- Anlage: Beschlussvorlage (5.3_Regelquerschnitt) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR26cfW1ZOI59nC6jaJZ_kEppogbEz63wY1KiNp52cm4/5.3_Regelquerschnitt.pdf
+- Anlage: Beschlussvorlage (Freiramplanung 1) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUekQaOQ0Rihkzou4PKrfPebO5kjyVAtG6oYA6YKChYb/Freiramplanung_1.pdf
+- Anlage: Beschlussvorlage (Freiramplanung 2) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcnGBfQx41f-6zCy-ikJN8DQo2m78I3WkW613aC4k7Ax/Freiramplanung_2.pdf
+- Anlage: Beschlussvorlage (Freiramplanung 3) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQqjbwy9Hes4m87Jlu5J4nmnBlBJxnAauvySjzzOrENr/Freiramplanung_3.pdf
+- Anlage: Beschlussvorlage (Freiramplanung 4) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQSKfDEWgtlUrS8YppAY9xJJSMtIoScyIK4gy_LjdkpM/Freiramplanung_4.pdf
+- Anlage: Beschlussvorlage (Tabelle Bäume) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc_ME2qxq-dH8P4soSMq6TO5MZoBM_1LN8FYWq4rGTFS/Tabelle_Baeume.pdf
+- Beratung:  https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2464 https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-11
