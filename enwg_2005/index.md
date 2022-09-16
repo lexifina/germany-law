@@ -224,7 +224,7 @@
 
 ## Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung
 
-- [§ 49 Anforderungen an Energieanlagen](0049.md)
+- [§ 49 Anforderungen an Energieanlagen; Verordnungsermächtigung](0049.md)
 - [§ 50 Vorratshaltung zur Sicherung der Energieversorgung](0050.md)
 - [§ 50a Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve; Verordnungsermächtigung](0050a.md)
 - [§ 50b Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Pflicht zur Betriebsbereitschaft und Brennstoffbevorratung für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve](0050b.md)
