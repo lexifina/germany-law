@@ -1,8 +1,8 @@
 # ESF-Richtlinie Unternehmensgründungen aus der Wissenschaft Vollzitat: ESF-Richtlinie Unternehmensgründungen aus der Wissenschaft
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-09-18 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18845.1
+- Datum: 2022-09-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18845.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-18.09.2020
+16.09.2022
 bis
-15.09.2022
+29.09.2022
 
 ESF-Richtlinie Unternehmensgründungen aus der Wissenschaft
 
@@ -39,328 +39,7 @@ Zuwendungszweck/Rechtsgrundlagen
 Es gelten die Bestimmungen der EFRE/ESF-Rahmenrichtlinie vom 6. März 2020 (SächsABl. S. 234).
 
 B.
-Förderung von Gründerinitiativen
-der Hochschulen und Forschungseinrichtungen im Freistaat Sachsen („Gründerinitiativen“)
-
-I.
-Gegenstand der Förderung
-
-1.
-
-Gefördert werden Vorhaben zur Unterstützung von Unternehmensgründungen aus der Wissenschaft („Gründerinitiativen“). Die Gründerinitiativen sollen dazu beitragen, dass an Hochschulen und Forschungseinrichtungen im Freistaat Sachsen eine Kultur der Selbstständigkeit, der Eigeninitiative und des unternehmerischen Denkens etabliert beziehungsweise weiterentwickelt werden kann. Dazu gehören der Austausch und die Verzahnung sowohl mit den gegebenenfalls bestehenden Initiativen und Angeboten an der jeweiligen Hochschule und Forschungseinrichtung als auch die Zusammenarbeit mit weiteren gründungsunterstützenden Einrichtungen und Initiativen (wie zum Beispiel futureSAX) im Bereich der Wirtschaftsförderung sowie mit Unternehmen.
-
-2.
-
-Gefördert werden Gründerinitiativen von Hochschulen sowie von Forschungseinrichtungen, deren Aktivitäten den folgenden Themenbereichen zugeordnet werden können:
-
-
-a)
-
-Generierung und Umsetzung von Ideen für Unternehmensgründungen aus Hochschul- und/oder Forschungseinrichtungen, insbesondere durch:
-
-
-aa)
-
-Umsetzung und Weiterentwicklung von Ideenwettbewerben und Businessplankollegs,
-
-
-bb)
-
-Ideenwerkstätten, insbesondere auch unter Beteiligung von Forschungseinrichtungen.
-
-
-b)
-
-Begleitende Beratung und Unterstützung von Gründungsvorhaben aus Hochschul- und/oder Forschungseinrichtungen, insbesondere durch:
-
-
-aa)
-
-Aufbau spezifischer Beratungsangebote auch unter Einbeziehung markt- und technologiefeldbezogener Expertise (zum Beispiel Technologiegründerzentren und -agenturen, Patentinformationszentren, Patentverwertungs­agenturen, Business Angels),
-
-
-bb)
-
-Technologie-Screening und -Scouting, um die wirtschaftliche Verwertung von Forschungsergebnissen zu verstärken (zum Beispiel durch das Aufspüren von innovativen, wirtschaftlich verwertbaren Ideen),
-
-
-cc)
-
-Geschäftsmodellentwicklung durch Gründerteams auch in Zusammenarbeit mit bestehenden Unternehmen,
-
-
-dd)
-
-Aufbau einzelner spezifischer Beratungsangebote unter Berücksichtigung des Grundsatzes Gleichstellung von Männern und Frauen,
-
-
-ee)
-
-Aufbau einzelner spezifischer Beratungsangebote unter dem Gesichtspunkt der nachhaltigen Entwicklung sowie Erhaltung und Schutz der Umwelt und der Ressourceneffizienz.
-
-
-c)
-
-Entwicklung und Umsetzung von Qualifizierungsmaßnahmen für unternehmerische Selbstständigkeit, insbesondere durch:
-
-
-aa)
-
-Aus- und Weiterbildungsangebote für Studierende, Absolventen und wissenschaftliche Mitarbeiter, insbesondere der wirtschafts-, natur- und ingenieurwissenschaftlichen Fachrichtungen,
-
-
-bb)
-
-Interdisziplinäre Gründerkollegs, die einen Beitrag zur Teambildung und/oder -ergänzung von marktfähigen Gründerteams liefern,
-
-
-cc)
-
-Prüfung und Herausbildung des Persönlichkeitsprofils als Unternehmensgründer.
-
-
-d)
-
-Sensibilisierung und Motivierung potentieller Gründer, insbesondere durch:
-
-
-aa)
-
-Veranstaltungen mit erfolgreichen unternehmerischen Persönlichkeiten,
-
-
-bb)
-
-Erfahrungsaustausch mit Gründern,
-
-
-cc)
-
-Aktivierung der Alumni-Netzwerke zur Motivation und Begleitung potentieller Gründer.
-
-3.
-
-Die Gründerinitiativen sollen besonders folgende Zielgruppen und Partner ansprechen:
-
-
-a)
-
-natur- und ingenieurwissenschaftliche Fachbereiche sowie andere Fachbereiche,
-
-
-b)
-
-Partner aus der Wirtschaft wie zum Beispiel Existenzgründer und Unternehmer.
-
-4.
-
-Studien, Konzeptentwicklungen und wissenschaftliche Analysen sind in diesem Vorhabensbereich förderfähig, wenn sie einem der folgenden Bereiche zugeordnet werden können:
-
-
-a)
-
-Vorbereitung, wissenschaftliche Begleitung oder wissenschaftliche Analysen von aus dem ESF mitfinanzierten Vorhaben,
-
-
-b)
-
-Entwicklung von methodischen sowie inhaltlichen Konzepten für aus dem ESF mitfinanzierte Vorhaben.
-
-
-II.
-Zuwendungsempfänger
-
-1.
-
-Zuwendungsempfänger sind sächsische Hochschulen sowie außeruniversitäre Forschungseinrichtungen, besonders Einrichtungen der Max-Planck- und Fraunhofer-Gesellschaft, der Leibniz- und der Hermann-von-Helmholtz-Gemeinschaft, soweit sie für die im Rahmen dieser Richtlinie finanzierten Vorhaben nichtwirtschaftliche Tätigkeiten gemäß Nummer 19 des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation (ABl. C 198 vom 27.6.2014, S. 1) ausüben, soweit diese Vorhaben nicht zu den Pflichtaufgaben der Antragsteller gehören und sofern nicht andere Mittel zur Sicherstellung der Gesamt­finanzierung zur Verfügung stehen. Die zugewiesenen Fördermittel sind von den staatlichen Haushaltsmitteln getrennt zu halten, indem entweder ein eigenes Vorhabenskonto eröffnet oder ein eigener Kostenträger innerhalb des Haushalts eingerichtet wird. Die Antragsberechtigten können für Teilleistungen Unteraufträge vergeben.
-
-2.
-
-Zielgruppe der Gründerinitiativen sind in erster Linie Studierende, Absolventen (bis zu zehn Jahre nach Abschluss des Studiums), das wissenschaftliche Personal der Hochschulen und/oder Forschungseinrichtungen (bis zu zehn Jahre nach Abschluss der Tätigkeit an der Hochschule oder Forschungseinrichtung) und Promovenden (bis zu zehn Jahre nach Abschluss der Promotion) als potenzielle Gründer mit Haupt- oder Nebenwohnsitz im Freistaat Sachsen. Auch Studierende und Absolventen von Berufsakademien (bis zu zehn Jahre nach Abschluss des Studiums) mit Haupt- oder Nebenwohnsitz im Freistaat Sachsen zählen zur Zielgruppe. Die Unterstützungsleistungen der Gründerinitiativen für die Teilnehmer insbesondere in den Aktivitätenfeldern Großbuchstabe B Ziffer I Nummer 2 Buchstabe b bis d sind begrenzt bis zum Zeitpunkt der Vorlage eines Businessplans durch den/die Gründungswilligen.
-
-3.
-
-Eine Zuwendung auf Grundlage dieser Richtlinie wird nur gewährt, wenn das geförderte Vorhaben das mit dieser Richtlinie beabsichtigte beschäftigungspolitische Ziel, namentlich die Förderung von Unternehmergeist und arbeitsplatzschaffenden Unternehmensgründungen im Freistaat Sachsen, verfolgt und eine erfolgreiche Durchführung erwarten lässt.
-
-
-III.
-Zuwendungsvoraussetzungen
-
-1.
-
-Die Vorhaben sind grundsätzlich modular aufzubauen. Sie müssen Angebote in den unter Großbuchstabe B Ziffer I Nummer 2 Buchstabe a bis d genannten Modulen umfassen.
-
-2.
-
-Darüber hinaus können neue, innovative Module auch unabhängig von einer Beantragung nach Großbuchstabe B Ziffer III Nummer 1 einzeln beantragt werden, die eigenständige, abgeschlossene Einheiten bilden. Der Schwerpunkt muss dabei auf spezielle gründungsrelevante Fragestellungen gelegt und neue Lösungsansätze müssen erprobt werden. Unter diesen Modulen sind insbesondere praxisorientierte Elemente zu verstehen.
-
-3.
-
-Der Umfang der einzelnen Module ist durch die Gründerinitiativen zu bestimmen. Aufbau und Umfang des Vorhabens sowie der Bedarf sind im Antrag zu begründen. Das Modul gemäß Großbuchstabe B Ziffer I Nummer 2 Buchstabe b soll mindestens ein Drittel des Gesamtvorhabens (gemessen an den durchgeführten Veranstaltungen) darstellen.
-
-4.
-
-Im Rahmen der Vorhaben soll ein praxisorientierter Erfahrungsaustausch mit unternehmerisch tätigen Personen erfolgen und der Auf- und Ausbau von Kontakten mit anderen Institutionen der Gründungsunterstützung wie beispielsweise kommunalen Existenzgründungsbüros und Kammern stattfinden.
-
-5.
-
-Eine Förderung nach dieser Richtlinie ist neben der Förderung im Rahmen von Exist Gründungskultur des Bundes (oder vergleichbares Nachfolgeprogramm) ausgeschlossen. Sofern Exist Gründungskultur nur einzelne Elemente oder Module fördert, ist eine Förderung nach dieser Richtlinie für diese Elemente oder Module ausgeschlossen.
-
-6.
-
-Die geplanten Maßnahmen müssen begründet und die Vorhabensorganisation klar von gegebenenfalls bereits bestehenden anderen gründungsbezogenen Aktivitäten der jeweiligen Hochschule (zum Beispiel Angebote von Gründungslehrstühlen) abgegrenzt werden. Es können nur Veranstaltungen gefördert werden, die zusätzlich zum vorhandenen Lehrangebot der Hochschulen durchgeführt werden.
-
-7.
-
-Die Förderung umfasst sowohl Gruppen- als auch Einzelbetreuungsmaßnahmen und Unterstützungsleistungen der Gründerinitiativen bis zur Vorlage eines Businessplans durch den/die Gründungswilligen.
-
-8.
-
-Die Zuwendungsempfänger sind in angemessenen Zeitabständen zur Vorlage von Berichten verpflichtet. Die Berichte müssen die von der Bewilligungsstelle geforderten Angaben enthalten und nach der von der Bewilligungsstelle vorgegebenen Struktur und Form aufgebaut sein.
-
-
-IV.
-Art, Umfang und Höhe der Zuwendung
-
-1.
-
-Die Förderung erfolgt als Anteilsfinanzierung. Bei einer Vorhabenslaufzeit von bis zu drei Jahren beträgt die Förderung grundsätzlich bis zu 65 Prozent der zuwendungsfähigen Ausgaben. Bei Folgeanträgen beträgt die Förderung grundsätzlich bis zu 50 Prozent der zuwendungsfähigen Ausgaben. Im Einzelfall kann die Bewilligungsbehörde in Abstimmung mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr bei Erst- wie auch bei Folgeanträgen eine höhere Förderung bewilligen.
-
-2.
-
-Bei neuen Modulen (vergleiche Großbuchstabe B Ziffer III Nummer 2), die bei einer Vorhabenslaufzeit von bis zu drei Jahren einzeln zu beantragen sind, beträgt die Förderung grundsätzlich bis zu 90 Prozent der zuwendungsfähigen Ausgaben, bei Folgeanträgen grundsätzlich bis zu 70 Prozent.
-
-
-Im Einzelfall kann die Bewilligungsbehörde in Abstimmung mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr bei Erst- wie auch bei Folgeanträgen eine höhere Förderung bewilligen.
-
-3.
-
-Bei Verbundvorhaben mehrerer Hochschulen und/oder Forschungseinrichtungen können die Personalausgaben je nach Bedarf auf die jeweiligen Partner unterschiedlich verteilt werden – sie sind jedoch getrennt auszuweisen. Förderfähig sind die Personalausgaben in Höhe der geltenden Tarifverträge für diejenigen Personen, die die Gründerinitiative durchführen einschließlich Vorhabensmanagement. Das Personalkonzept und die Angemessenheit der vorgesehenen Personalausgaben sind im Antrag (bei Verbundprojekten gesondert für jede Hochschule beziehungsweise Forschungseinrichtung) näher darzulegen und ausführlich zu begründen.
-
-
-Förderfähig sind auch Kosten für Weiterbildungsmaßnahmen der Mitarbeiter insbesondere Entrepreneurial Education und Methodenkompetenz des Gründungsmanagements, soweit diese für die Umsetzung des Projekts erforderlich sind. Diese sind bei Vollzeitkräften auf fünf Arbeitstage pro Jahr und maximal drei Prozent der Personalausgaben (der Projektmitarbeiter ohne Verwaltungskräfte) beschränkt.
-
-4.
-
-Folgende Ausgaben beziehungsweise Kosten können als Pauschale erstattet werden:
-
-
-a)
-
-Personalausgaben je Einsatzstunde (standardisierte Einheitskosten),
-
-
-b)
-
-Reise- und Dienstreiseausgaben auf Basis geeigneter Bezugseinheiten (standardisierte Einheitskosten).
-
-5.
-
-Angaben zur Höhe der Pauschale sind der Internetseite der Bewilligungsstelle zu entnehmen.
-
-
-V.
-Verfahren
-
-1.
-
-Antragsverfahren
-
-
-Die Antragstellung erfolgt auf elektronischem Weg über das Internet-Portal www.esf-in-sachsen.de bei der Sächsischen Aufbaubank (SAB). Anträge für eine Förderung ab 2014 sind bis 30. September 2014 bei der SAB einzureichen. Im Übrigen sind Vorhabensvorschläge jeweils zum 15. März eines Jahres einzureichen, letztmalig zum 15. März 2020. Bei Antragstellung ab dem 31. Oktober 2019 ist das Vorhaben auf einen Bewilligungszeitraum bis maximal 31. Oktober 2022 zu begrenzen. Bewilligungen erfolgen semesterbezogen. Der Antrag muss das Vorliegen der unter Großbuchstabe B Ziffer V Nummer 2 genannten Auswahlkriterien – bei Verbundprojekten je Hochschule beziehungsweise Forschungseinrichtung – darlegen. Antragsteller, die öffentlich grundfinanzierte Hochschulen oder Einrichtungen sind, haben mit Antragstellung eine Erklärung abzugeben, aus der hervorgeht, dass die beantragten Fördermittel nur für Vorhaben genutzt werden, die über den durch die öffentliche Hand grundfinanzierten Bereich hinausgehen.
-
-
-Die Fördermittel sind nur für zusätzliche oder ergänzende Vorhaben einzusetzen. Bei Antragstellung durch eine Forschungseinrichtung hat der Antragsteller anzugeben, ob er sowohl nicht-wirtschaftliche als auch wirtschaftliche Tätigkeiten ausübt.
-
-
-Sofern dies zutrifft, muss er mit der Antragstellung eine Erklärung abgeben, aus der hervorgeht, dass die Forschungseinrichtung all ihre wirtschaftlichen und nicht-wirtschaftlichen Tätigkeiten in Bezug auf Kosten und Finanzierung trennt und bestätigen, dass damit eine Quersubventionierung wirtschaftlicher Tätigkeitsbereiche der Forschungseinrichtung ausgeschlossen ist.
-
-2.
-
-Bewilligungsverfahren
-
-
-Die Auswahl der Vorhaben erfolgt nach den folgenden fachlichen Kriterien:
-
-
-a)
-
-Nachhaltigkeit des Vorhabens (Verankerung der Gründerinitiativen an der Hochschule beziehungsweise Forschungseinrichtung; Einbindung in die Transferstrategie – bei Verbundprojekten je Hochschule –; Einbindung der Hochschulleitung; Erhöhung der jeweiligen Gründerquote),
-
-
-b)
-
-Vernetzung mit anderen Hochschulen und/oder Forschungseinrichtungen (bei Verbundvorhaben),
-
-
-c)
-
-Vernetzung mit Technologietransfer- und Patentverwertungseinrichtungen,
-
-
-d)
-
-Vernetzung mit anderen Gründerunterstützern und Zugang zu weiterführenden Förderprogrammen (zum Beispiel Exist-Programme des Bundes),
-
-
-e)
-
-Art und Weise der Beratung, Beratungskonzept,
-
-
-f)
-
-Praxisorientierung der Veranstaltungen,
-
-
-g)
-
-Art und Weise der Qualitätssicherung,
-
-
-h)
-
-Kommunikationskonzept zur Steigerung des Bekanntheitsgrads der Initiative in der Öffentlichkeit.
-
-3.
-
-Anforderungs-, Auszahlungs- und Verwendungsnachweisverfahren
-
-
-a)
-
-Die Förderung über Pauschalen wird im Sächsischen Amtsblatt veröffentlicht.
-
-
-b)
-
-Bei der Förderung über Pauschalen sind folgende Nachweise zur Berechnungsgrundlage der Pauschalen zu erbringen:
-
-
-aa)
-
-Bei Personalpauschalen (standardisierte Einheitskosten) sind die geleisteten Einsatzstunden im Vorhaben nachzuweisen.
-
-
-bb)
-
-Bei Fahrtkostenpauschalen (standardisierte Einheitskosten) sind die angefallenen Bezugseinheiten im Vorhaben nachzuweisen.
-
-
-c)
-
-Angaben zu Art und Form der Nachweise sind der Internetseite der Bewilligungsstelle zu entnehmen.
-
-
-d)
-
-Abweichend von Nummer 6.1 NBest-SF wird bestimmt, dass der Verwendungsnachweis spätestens drei Monate nach Ende des Bewilligungszeitraums bei der Bewilligungsstelle einzureichen ist.
-
-
-e)
-
-Die Bewilligungsstelle ist zur Einbehaltung einer Schlussrate berechtigt, die erst nach Prüfung des Verwendungsnachweises ausgezahlt wird.
-
+(außer Kraft)1
 
 C.
 Förderung der Gründung junger innovativer Unternehmen aus der Wissenschaft durch Gewährung von Stipendien
@@ -619,9 +298,9 @@ Fsn-Nr.: 552-V20.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 18. September 2020
+Fassung gültig ab: 16. September 2022
 
-Fassung gültig bis: 15. September 2022
+Fassung gültig bis: 29. September 2022
 
 Drucken/Speichern
 
@@ -646,7 +325,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18845.1
+https://www.revosax.sachsen.de/vorschrift/18845.2
 Stand vom
 18.11.2026
 
