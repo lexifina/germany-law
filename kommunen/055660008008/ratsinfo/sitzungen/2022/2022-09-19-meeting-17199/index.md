@@ -1,0 +1,67 @@
+# Haupt-, Finanz- und Steuerungsausschuss (122. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2022-09-19T19:25:00+02:00
+- Ende: 2022-09-19T22:04:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRRaOpcyuQqU1PFlhhv_x9s
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17199
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZekpAWRy4QMXm_w0yu7feTyp7If6eqT8KO7pYf0qGqi3/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_19.09.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSoy02JrjZva3Vx3LZ1JSJVzBg0_orrxmbyuVwGjrPw8/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_19.09.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 09.06.2022
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Situationslage Energie - Impulsvortrag durch die Stadtwerke Emsdetten GmbH
+- TOP 4.: Maßnahmen zur Energieeinsparung - Einstimmig
+- TOP 5.: Zukunftsprozess EMSDETTEN_2038: Informationen zum aktuellen Stand - Zur Kenntnis genommen
+- TOP 6.: Modifizierung der Repräsentationsrichtlinien der Stadt Emsdetten - Einstimmig
+- TOP 7.: Abrechnung Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung 2021 - Zur Kenntnis genommen
+- TOP 8.: Finanzangelegenheiten
+- TOP 8.1: Jahresabschluss 2021 - bestätigter Entwurf - Einstimmig
+- TOP 8.2: Befreiung von der Pflicht der Aufstellung eines Gesamtabschlusses 2021 - Einstimmig
+- TOP 8.3: Bericht über Erträge und Aufwendungen von anlässlich des Krieges in der Ukraine eingereisten Personen - Zur Kenntnis genommen
+- TOP 8.4: Managementbericht zum 15.08.2022 - Einstimmig
+- TOP 9.: Jahresabschluss des Abwasserwerk zum 31.12.2021 - Einstimmig
+- TOP 10.: Bericht zum Fördermanagement - Zur Kenntnis genommen
+- TOP 11.: Information zu Projektabschlüssen in Förderprojekten - Zur Kenntnis genommen
+- TOP 12.: Maßnahmen aus dem Sofortprogramm Innenstadt - Förderbaustein "Schaffung von Innenstadt-Qualitäten" - Einstimmig
+- TOP 13.: Stadtwerke Emsdetten GmbH
+- TOP 13.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2021 und Gewinnverwendung - Einstimmig
+- TOP 13.2: Übernahme einer Bürgschaft zugunsten der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 13.3: Änderung der Firmierung TKRZ Stadtwerke GmbH (voher: tkrz Stadtwerke GmbH) - Einstimmig
+- TOP 14.: VerbundSparkasse Emsdetten - Ochtrup
+- TOP 14.1: Vereinigung der Verbundsparkasse Emsdetten-Ochtrup und der Kreissparkasse Steinfurt - Abgesetzt
+- TOP 15.: Aussetzen der Sondernutzungsgebühren für Außengastronomie und Warenauslage an der Kirchtraße für das Jahr 2023 - Einstimmig
+- TOP 16.: Priorisierung von Projekten - Antrag der SPD-Fraktion vom 01.06.2022 - Zur Kenntnis genommen
+- TOP 17.: Einbau dezentraler Lüftungsgeräte in drei Schulen - Einstimmig
+- TOP 18.: Neubau Kita Silberweg - Vorstellung der Entwurfsplanung - Einstimmig
+- TOP 19.: Sanierung und Erweiterung der EMS-HALLE - Entwurfsvorstellung 1.BA - Ohne Abstimmung
+- TOP 19.1: Sanierung und Erweiterung der EMS-HALLE - Entwurfsvorstellung 1.BA - Einstimmig
+- TOP 20.: Sanierung und Erweiterung der EMS-HALLE - Entwurfsvorstellung 2.BA - Ohne Abstimmung
+- TOP 20.1: Sanierung und Erweiterung der EMS-HALLE - Entwurfsvorstellung 2.BA - 10 Ja-Stimme(n), 6 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 21.: Hof Deitmar Teil III - Vorstellung Entwurfsplanung - Einstimmig
+- TOP 22.: Umgestaltung des Sandufers - Beschluss der Entwurfsplanung - 9 Ja-Stimme(n), 4 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 23.: Marienstraße: Erneuerung des Mischwasserkanals - Zur Kenntnis genommen
+- TOP 24.: Erstellung eines Konzeptes für die Unterhaltung der städtischen Wirtschaftswege - Einstimmig
+- TOP 25.: Umsetzung der Potenzialstudie für die Kläranlage Emsdetten-Austum - Einstimmig
+- TOP 26.: Gründung einer Gesellschaft zur gemeinsamen Klärschlammverwertung im Kreis Steinfurt - Zur Kenntnis genommen
+- TOP 27.: Bebauungsplan
+- TOP 27.1: Bebauungsplan Nr. 17 A "Industriegebiet Süd" 20. Änderung, Nr. 17 B „Industriegebiet Süd“, 2. Änderung, Nr. 17 D „Industriegebiet Süd“, 6. Änderung und Nr. 17 E „Industriegebiet Süd“, 2. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 27.2: Bebauungsplan Nr. 66 B "Föhrendamm / Höfte" Teil A - Satzungsbeschluss - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 27.3: Bebauungsplan Nr. 39 "Engelnkamp“, 13. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 28.: Allgemeine Stadtentwicklungsplanung
+- TOP 28.1: Zukünftige Wärmeversorgung für das Bebauungsplangebiet Nr. 85 A "Silberweg West", 1. Änderung und Erweiterung - Einstimmig
+- TOP 29.: Allgemeine Umweltangelegenheiten
+- TOP 29.1: Ausbau von Photovoltaik-Anlagen auf städtischen Gebäuden - Einstimmig
+- TOP 29.2: Klimagerechte Stadtentwicklung: Verpflichtung zum Bau von Solaranlagen und begrünten Dächern in Bebauungsplänen und bei städtischen Verträgen - 12 Ja-Stimme(n), 4 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 29.3: Förderprogramm proKLIMA: Förderantrag und Bürgerantrag - 12 Ja-Stimme(n), 3 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 29.4: Änderung der Baumschutzsatzung - Einstimmig
+- TOP 30.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 30.1: Änderung der Satzung der Stadt Emsdetten über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in Offenen Ganztagsschulen (Elternbeitragssatzung) Hier: Änderung der Anlage 2 – Richtlinien zur Gewährung der Kindertagespflege - Einstimmig
+- TOP 31.: Verschiedenes
