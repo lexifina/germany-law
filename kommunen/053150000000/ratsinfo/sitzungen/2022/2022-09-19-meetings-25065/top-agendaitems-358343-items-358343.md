@@ -1,0 +1,8 @@
+# TOP -: Antwort der Verwaltung vom 19.09.2022
+
+- Sitzung: 14. Sitzung des Hauptausschusses (2022-09-19)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/358343
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/166611
