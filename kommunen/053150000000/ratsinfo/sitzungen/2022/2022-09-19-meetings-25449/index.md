@@ -1,0 +1,70 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-09-19T17:00:00+02:00
+- Ende: 2022-09-19T18:48:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25449
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25449
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Veränderung der Verkehrsführung Kopernikusstraße (Az.: 02-1600-214-20) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Situation einiger Liegenschaften in Holweide-Süd - Kenntnis genommen
+- TOP 7.2.2: KVB-Leihräder - Kenntnis genommen
+- TOP 7.2.3: Statistik und Gesundheit - Kenntnis genommen
+- TOP 7.2.4: Straßenreinigung Keupstraße - Kosten und Gebühren - Kenntnis genommen
+- TOP 7.2.5: Straßenreinigung Keupstraße - Reinigungskosten - Kenntnis genommen
+- TOP 7.2.6: Einsatz von stationären Blitzern im Bezirk Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.7: Einsatz von teilstationären und mobilen Blitzern im Bezirk Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.8: Umsetzung des Beschlusses des Betriebsausschusses der Gebäudewirtschaft vom 02.12.2019 auf allen städtischen Bestandsgebäuden mit geeigneten Dächern Photovoltaikanlagen zu errichten
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Freiparken für Handwerker - endgültig abgelehnt
+- TOP 8.1.2: Abstellzonen für E – Roller und andere Leihfahrzeuge einrichten - ungeändert beschlossen
+- TOP 8.1.3: Aufwertungsmaßnahmen am Holweider Marktplatz - ungeändert beschlossen
+- TOP 8.1.4: Steinpoller im Bereich des Durchgangs Kochwiesenstraße und Colonia Allee - endgültig abgelehnt
+- TOP 8.1.5: Austausch von Verkehrsschildern Merheimer Heide - ungeändert beschlossen
+- TOP 8.1.6: Fußgänger*innenampel an der Kreuzung Berliner Straße / Leuchterstraße in Dünnwald - ungeändert beschlossen
+- TOP 8.1.7: Wiedereinführung Bezirksbeigeordnete - ungeändert beschlossen
+- TOP 8.1.8: Teiloffenlegung der Strunde, Teilnahme durch den Klimafonds finanzieren - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Straßenbaumkonzept Mülheim - ungeändert beschlossen
+- TOP 9.1.2: Baubeschluss Alternierendes Parken und Radfahrstreifen auf „An der Walkmühle“ - ungeändert beschlossen
+- TOP 9.1.3: Beratung des Haushaltsplanentwurfs für den Haushalt 2023/ 2024; weitere Anregung - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Planungsbeschluss für die Generalsanierung der Bezirkssportanlage Thuleweg in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.2.2: Planungsbeschluss für die Generalsanierung der Sportanlage Rixdorfer Straße in Köln-Mülheim - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Vollsperrung Geh- und Radweg am rechtsrheinischen Uferweg - Kenntnis genommen
+- TOP 10.2.3.2: Gesamtinstandsetzung Mülheimer Brücke - Verkehrskonzept für die Sanierung der Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.4: Qualitätsbericht 2021 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.5: Stellungnahme zum Antrag gem. § 3 der Geschäftsordnung des Rates zur Neufassung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - Kenntnis genommen
+- TOP 10.2.6: Piccoloministraße in Köln-Holweide - Kenntnis genommen
+- TOP 10.2.7: Beantwortung der mündlichen Nachfrage zu Anfrage AN/0857/2022 „Umgang mit Eingaben der Bürgerinnen und Bürger", der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Mülheim vom 13.04.2022, 1563/2022 - Kenntnis genommen
+- TOP 10.2.8: Aktivierung von Bürgerengagement für mehr Sauberkeit und Lebensqualität – Ausweitung der Maßnahme „Hallo Nachbar, danke schön„ auf weitere Stadtquartiere - Kenntnis genommen
+- TOP 10.2.9: Ampelsteuerungen im Bezirk Mülheim - Kenntnis genommen
+- TOP 10.2.10: Unfallhäufungen des Jahres 2021 im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.11: 1. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2023/2024 - Kenntnis genommen
+- TOP 10.2.12: Barrierefreiheit am Bezirksrathaus Mülheim - zu AN/1324/2022 und 2400/2022 - Kenntnis genommen
+- TOP 10.2.13: Mitteilung zum Dringlichkeitsantrag AN/1448/2022 Teiloffenlegung der Strunde durch den Klima- und Transformationsfonds der Bundesregierung finanzieren - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
