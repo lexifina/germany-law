@@ -1,0 +1,64 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6907109
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6907109
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Wegeunterhalt des bahnnahen Geländes (Böschung Bahndamm) Verlängerung Jakob-Hagenbucher-Straße
+- TOP 2.2.: Anbringung eines Fußgängerüberwegs (Zebrastreifen) vor der Kita Dieselstr. 12
+- TOP 2.3.: Diverse Anliegen 1. Abbiegeproblem Ecke Wintrichring - Dachauer Straße 2. Verkehrssituation am Spielplatz Seydlitzplatz 3. Erhalt von Grün-Altbestand 4. Neubau am Seydlitzplatz (ehemalige Gärtnerei) - Art der Gestaltung
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Haylerstr. 32
+- TOP 3.3.1.2.: Osnabrücker Str. 24a
+- TOP 3.3.1.3.: Donauwörther Str. 29 - Vorbescheid
+- TOP 3.3.1.4.: Feldmochinger Str. 25 - Vorbescheid
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Mondscheinweg 25
+- TOP 3.3.2.2.: Hans-Beimler-Weg 29
+- TOP 3.3.2.3.: Zittauer Str. 18
+- TOP 3.3.2.4.: Bingener Str. 19
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.3.3.1.: BSL: Bestellung einer städt. Leistung: Neugestaltung der Gehwegunterführung am Moosacher S-Bahnhof; hier: Ablehnung, da nicht im Angebotsspektrum
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Besuch Demokratiemobil in Moosach
+- TOP 4.1.2.: Prüfung einer Sicherheitsanlage für Fußgänger*innen an der Pelkovenstraße Höhe St. Martins-Platz / Dresdnerstraße
+- TOP 4.1.3.: Anfrage: aktueller Bauzeitplan für die Fortsetzung der Abrissarbeiten in Bauabschnitt 1 der Siedlung Karlinger Straße
+- TOP 4.1.4.: Anfrage: Zukunft der Siedlung Hartmannshofen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Jugendfeuerwehr München-West / Abteilung Moosach Sommerfreizeit der Jugendfeuerwehr vom 21.-26.08.2022 2.237,50 € / Az. 0262.0-10-0302
+- TOP 5.2.: Entscheidung gemäß OB-Vollmacht: Freischankfläche Dachauer Str. 258
+- TOP 6.: Anhörungen
+- TOP 6.1.: Beschlussentwurf: "München gesund vor Ort" - Finanzierungsbeschluss
+- TOP 6.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: 1. Dachauer Straße, Höhe HsNr. 278: Einrichtung eines allg. Schwerbehindertenparkplatzes
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anfrage: Öffnung und Renaturierung des Reigersbaches [BA-Antrag Nr. 20-26/B03924; nicht aussichtsreich wegen Unwägbarkeiten einzelner erforderlichen Projektschritte (Stadtratbeschluss, teilweise nicht städtische Grundstücke....]
+- TOP 7.2.: Anfrage: Benennung Zeitplan zum Bauvorhaben "Siedlung an der Karlinger Straße" [BA-Antrag Nr. 20-26/B03925; Baubeginn Ende 2022, Fertigstellung Ende 2024, Mietereinzelberatungen, noch 2022 InfoVeranstaltung für BA geplant....]
+- TOP 7.3.: Moosach als Pilotbezirk für den Test einer Einführung der sog. "Gelben Tonne" berücksichtigen [BA-Antrag Nr. 20-26/B04145; Beginn Pilotversuch erst 2024, Auswahl Pilotgebiete noch nicht feststehend]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Änderung der OB-Vollmacht gemäß Art 60 Abs. 2 Satz 2 GO; Genehmigung von Parklets und Stadtterrassen
+- TOP 8.2.: Einbindung von Bezirksausschüssen in die Erstellung von Quartierskonzepten (Pilotphase: 2 Wege, um Quartiere hin zur Klimaneutralität zu transformieren)
+- TOP 8.3.: (U) Grundsatzbeschluss Abstellanlagen, dauerhafte Betriebshöfe für U-Bahn, Tram und Bus der SWM / MVG 1. Vorstellung Standortsuche 2. Auswahl von Vorzugsstandorten 3. Beauftragung von städtebaulichen, verkehrlichen und baulichen Voruntersuchungen
+- TOP 8.4.: (U) Standortbeschluss zur Unterbringung wohnungsloser Frauen mit ihren Kindern; Neubau eines Flexi-Heims Variante 1; Betrieb und Betreuung durch Horizont e.V. 10. Stadtbezirk - Moosach
+- TOP 8.5.: (U) Verfahrensbeschleunigung zur baulichen Umsetzung von Radentscheidmaßnahmen durch das Baureferat
+- TOP 8.6.: Mobilfunk: - nicht-öffentlich - 1. Feldmochinger Str. (Ausbau 5G, Erweiterung Telefonsäulen um Small-Cell-Antennen) 2. M-Nederling (Suchkreis, Errichtung einer Hochfrequenzanlage)
+- TOP 3.3.1.5.: Moosburger Str. 18
+- TOP 3.3.1.6.: Weidmannstr. 26
+- TOP 3.3.3.2.: Antrag/ Anfrage zu Finanzierung der Neugestaltung der Gehwegunterführung am Moosacher Bahnhof
+- TOP 6.3.: Beteiligung der Bezirksausschüsse zum Stadtentwicklungskonzept Perspektive München
+- TOP 4.: Anträge
