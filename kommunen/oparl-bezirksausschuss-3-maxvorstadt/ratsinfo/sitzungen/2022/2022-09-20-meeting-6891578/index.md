@@ -1,0 +1,139 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-09-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891578
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891578
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden – Teilleerstand Mehrfamilienhaus Steinheilstr. 1
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Spatenstraße stilllegen und zur Grünfläche umgestalten
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Prüfung der Installation von Solarmodulen auf den Dächern der Schwindschule und der Schule an der Dachauer Straße
+- TOP 1.2.2.: Budget für „Bürgerinnen und Bürger gestalten ihre Stadt“ aufstocken und Prozess beschleunigen
+- TOP 1.2.3.: Auskunft, ob eine Betriebsgenehmigung für eine Autowaschanlage im Innenhof eines Areals in der Dachauer Straße vorliegt
+- TOP 1.2.4.: Klimawandel: Errichtung von Trinkwasserbrunnen jetzt endlich umsetzen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 31 - 35
+- TOP 2.1.2.: WEB-Listen der LBK: KW 31 - 34
+- TOP 2.1.3.: Seidlstr.15, Neubau eines sechsgeschossigen Büro- und Laborgebäudes mit drei Untergeschossen und TG- VORBESCHEID
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Veterinärstr. 13, Fällung einer Pappel und Baumveränderungen an vier Pappeln
+- TOP 3.2.2.: Loristr. 11, Fällung von sechs Fichten
+- TOP 3.2.3.: Seidlstr.15 geplante Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Fällung eines Gefahrenbaumes in der Luisenstr. 29
+- TOP 5.2.: Antwort auf Bürgeranliegen: Anfrage Anpflanzung St. Benno-Kirche 07.08. 2022
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Verkehrssicherheit Sandstr./Ecke Kreittmayerstr.
+- TOP 1.1.2.: Lärmbelästigung durch Schanigärten
+- TOP 1.1.3.: Hundeverbot im Arnulfpark
+- TOP 1.1.4.: Lärmbelästigung Türken- und Schellingstraße
+- TOP 1.1.5.: Gehweg Türkenstraße zw. Gabelsberger- u. Theresienstraße: Freigabe für Radverkehr beenden
+- TOP 1.1.6.: Zusätzliche Fahrradabstellplätze und stationäre Luftpumpe in der Heßstraße
+- TOP 1.1.7.: Grüner Pfeil Görresstraße
+- TOP 1.1.8.: Änderung Kopfsteinpflaster auf Fußgehweg und Fahrradweg am US-Konsulat
+- TOP 1.1.9.: Mangelhafte Postzustellung in der Augustenstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Aufrechterhaltung der Pläne zum Bau der U-Bahnlinie U9
+- TOP 1.2.2.: Unverträglichkeit von Jugendschutz und Freischankflächen von Spielhallen
+- TOP 1.2.3.: Halteverbot an der Parkplatzfreischankfläche des Café Puck
+- TOP 1.2.4.: Schulwegsicherheit an der Adamstraße verbessern
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Bestellung von Dialog-Displays für die Maxvorstadt?
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Toiletten im öffentlichen Raum: Standort Spielplatz Blutenburgstraße
+- TOP 2.2.2.: Türkenstr. 55: Aufstellen einer neuen Verkaufseinrichtung
+- TOP 2.2.3.: Nordendstr. 18: Aufstellen einer neuen Verkaufseinrichtung (Kleiderstange)
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Beschlussvorlage BA 3 - Schanigarten für die Gaststätte "Mozzamo" ehemals "Cafe Alt-Schwabing", Schellingstr. 56
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Bez. 3, Feuerwerksanzeige am 01.01.2023 in 80333 München, Sophienstr. 28, Botanischer Garten
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 2.5.1.: Ortstermin Baustelle Türkenstraße 52-54 vom 14.09.2022
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Barer-Str. 58, Aufhebung persönlicher Behindertenstellplatz
+- TOP 3.2.: Bescheid zu Arnulfpark | Abdruck z.K. für ICF Kinder- und Familienprogramm am 31.07./18.09.
+- TOP 3.3.: Fahrradstellplätze in der Arcisstraße 21
+- TOP 3.4.: vAO Rudi-Hierl-Platz, Fußgängerzone mit Zusatz Radfahrer frei
+- TOP 3.5.: Anträge auf unveränderte Fortführung des Gaststättenbetriebs
+- TOP 3.6.: Verkehrsrechtliche Anordnung Lenbach- und Maximiliansplatz: Bauarbeiten Radschnellweg-verbindung Nord (Abschnitt 1)
+- TOP 3.7.: Verkehrsrechtliche Anordnung Tempo 30-Zone Deroy-, Tilly- und Pranckhstraße
+- TOP 3.8.: Verkehrsrechtliche Anordnung Protected Bike Lane Brienner Straße
+- TOP 3.9.: Trinkwasserprojekt Georgenstraße (Infoflyer der Stadtwerke)
+- TOP 3.10.: Verkehrsrechtliche Anordnung Altstadtringtunnel Phase 660
+- TOP 3.11.: Stromprojekt Lothstr. 26 (Infoflyer der Stadtwerke)
+- TOP 3.12.: Verkehrsrechtliche Anordnung Zeitänderung an der Bücherbushaltestelle Türkenstr. 68
+- TOP 3.13.: Eilentscheidungen der BA-Vorsitzenden: a) Zamanand / Corso Leopold am 10./11.09.2022 zwischen Odeonsplatz u. Münchner Freiheit b) Bauernmarktmeile am 25.09.2022 auf dem Odeonsplatz und in der Ludwigstraße c) Eröffnung der Klimawochen 2022 am 09.09.2022 auf dem Geschwister-Scholl-Platz d) München Marathon vom 09.10.2022 - Frist: 17.09.2022
+- TOP 3.14.: (U) Altstadtring Nordwest Sicherheitsnachrüstung Altstadtringtunnel Installierung der Monitoringsysteme Projektkosten (Ausführungskosten): 10.920.000 Euro Ausführungsgenehmigung
+- TOP 3.15.: Radschnellweg München Nord Beginn Bauarbeiten
+- TOP 3.16.: Verkehrsrechtliche Anordnung Georgenstr. 102-114 und ggü. - Verlängerung bis zum 16.09.
+- TOP 3.17.: Abdruck VAO Vollsperrung Kaulbachstr. zw. Veterinärstr. u. Schackstr.
+- TOP 3.18.: Sanierung Neue Pinakothek: Info zu Einschränkungen Theresienstraße
+- TOP 3.19.: Verkehrsaufsichtliche Anordnung Neue Pinakothek Vorphase
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Wasserspielplatz Königsplatz nicht zugänglich
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Freiwillige Feuerwehr München Abteilung Stadtmitte e.V. Anschaffung von Akku-Lüfter 7.107,00 Euro, Az.: 0262.0-3-0422
+- TOP 2.2.: (E) Stadtbezirksbudget Centro Cultural del Perú e.V. Deutschkurse für Grundwissen vom 07.10. - 25.11.2022 450,00 Euro, Az.: 0262.0-3-0419
+- TOP 2.3.: (E) Stadtbezirksbudget Centro Culturale del Perú e.V. Prävention der saisonalen Depression vom 05. - 26.10.2022 709,00 Euro, Az.: 0262.0-3-0420
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: AW: Bez. 03_Wittelsbacherplatz_Bescheid §29 StVO für den "Tag der Ersten Hilfe" am 10.09.2022
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "mards" Vernissage der Ausstellung "mards" am 09.09.2022 2.655,00 Euro, Az.: 0262.0-3-0421
+- TOP 2.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K.d.ö.R “Demokratie im Einsatz – Demokratiemobil München am 19.10.2022“ 770,00 € / 0262.0-3-0424
+- TOP 2.3.: Anfrage Projektförderung für das Projekt „Skulpturale Intervention von Clemens Behr am KUNSTLABOR2“ Gesamtzuschusshöhe: 25.000 Euro
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Antwort Neugestaltung Spielplatz Königsplatz- Zwischenstand
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Infoschreiben BA 06 / 2022 Hybridsitzungen Live-Stream; hier: Bedarfsabfrage mit der Bitte um Rückmeldung
+- TOP 1.2.: Eilentscheidung der BA-Vorsitzenden: Satzungsgemäße Rechte der Bezirksausschüsse bei der Vorbereitung der Bauleitplanung und der Festlegung von Planungszielen stärken
+- TOP 1.3.: Informationen zu den geplanten Angeboten im Rahmen des 75jährigen Jubiläums der Bezirksausschüsse - Bitte um Rückmeldung zur Gestaltung der BA-Stellwand
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.1.4.: Amalienstr. 53, Nutzungsänderung, Umbau und Erweiterung des Hotels „Lettl“ zu einem Studentenwohnheim mit 14 Einheiten, einer Wohnung und einer Gewerbeeinheit – TEKTUR
+- TOP 2.1.5.: 2.1.5 Genehmigungsverlängerungen (ohne Unterlagen) a) Kreittmayrstr. 1 - Vorbescheid: Umbau DG-Wohnungen VGB; Errichtung RGB b) Heßstr. 10: Neues Dachgeschoss mit 4 Wohnungen auf 2 Etagen u. Erhöhung Aufzug c) Schleißheimer Str. 90: Neubau Wohn- und Geschäftshaus mit Tiefgarage) d) Zieblandstr. 43
+- TOP 2.1.6.: 2.1.6 Kaulbachstr. 47, Abbruch eines Bestandsgebäudes und Neubau von Mietwohnungen - VORBESCHEID
+- TOP 3.1.1.: Erweiterung des Hauses des Kath. Männerfürsorgevereins München e.V., Schleißheimer Str. Bitte Stellungnahme zum Baumbestandsplan mit beiliegenden Sachverständigengutachten.
+- TOP 3.: Aktuelle Sachstandsberichte
