@@ -1,0 +1,60 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-09-20T15:00:00+02:00
+- Ende: 2022-09-20T17:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25129
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25129
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Situation der Aufnahme von Geflüchteten in Köln
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Anfrage zur Abfallentsorgung an der Homarstraße - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage AN 0263/2020 wilder Müll "Homarstraße in Kalk" - Sache ist erledigt
+- TOP 3.2: Nachfrage zur Beantwortung der Anfrage "Sachstand herkunftssprachliche bilinguale Kitagruppen" - Kenntnis genommen
+- TOP -: Beantwortung einer Nachfrage zur Beantwortung zu 3540/2021 "Sachstand herkunftssprachliche bilinguale Kitagruppen" - Kenntnis genommen
+- TOP 3.3: Überlastung der Ausländerbehörden u. a. Ämter und Abteilungen der Stadtverwaltung – Rechts-kreiswechsel der Geflüchteten aus der Ukraine in die Grundsicherung - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion zu "Überlastung der Ausländerbehörden u.a. Ämter und Abteilungen der Stadtverwaltung - Kenntnis genommen
+- TOP 3.4: Anfrage: Einführung vegetarischer Tage in den Kantinen/Verpflegungseinrichtungen der Stadt Köln - Sache ist erledigt
+- TOP 3.5: Diskriminierung bei der Wohnungssuche – was kann die Stadt tun? - zurückgestellt
+- TOP 3.6: Anfrage zum Verfahrensablauf für die Beantragung des Chancen-Aufenthaltsrechts - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage zu "Verfahrensablauf für Beantragung des Chancen-Aufenthaltsrecht" - Kenntnis genommen
+- TOP 3.7: Erreichbarkeit der Kölner Ausländerbehörde und Kontaktdaten der Sachbearbeitung - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage zu "Erreichbarkeit der Kölner Ausländerbehörde und Kontaktdaten der Sachbearbeitung" - Kenntnis genommen
+- TOP 3.8: Beantwortung der Anfrage zum Beitritt der Stadt Köln zur „Europäi-schen Charta für den Schutz der Menschenrechte in der Stadt (Anfrage gem. § 4 der Geschäftsordnung des Integrationsrates) AN 0414/2022 - Kenntnis genommen
+- TOP 3.9: Beantwortung einer mündlichen Anfrage zur Ethnischen Vielfalt bei der Bebilderung städtischer Publikationen - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 5: Mitteilungen
+- TOP 5.1: Kölner Statistische Nachrichten – 10/2022 Arbeitsmarkt Köln - Rückblick 2021, bisherige Entwicklung und Ausblick 2022 - Kenntnis genommen
+- TOP 5.2: 35. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.3: Weiterer Ausbau der Systematischen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 5.4: Mitteilung zum Antrag des Integrationsrates vom 08.02.2022 zur Berücksichtigung der Kölner Migrationsgeschichte bei der Neukonzeption des Kölnischen Stadtmuseums - Kenntnis genommen
+- TOP 5.5: Prävention von sexualisierter Gewalt - Beantwortung der Anfrage AN/0822/2022 - Kenntnis genommen
+- TOP 5.6: 1. Sitzung des Begleitgremiums zum kommunalen Kinder- und Jugendförderplans der Stadt Köln 2021-2025 - Kenntnis genommen
+- TOP 5.7: Stellungnahme zum Dringlichkeitsantrag der Fraktionen SPD und Die Linke betreffend "Sicherstellung des Kindeswohls bei aufenthaltsbeendenden Maßnahmen der Ausländerbehörde" - Kenntnis genommen
+- TOP 5.8: Bevölkerungsentwicklung 2021 - Rückgang der Bevölkerungszahl durch sinkende Zuzüge - Kenntnis genommen
+- TOP 5.9: Errichtung einer Unterkunft für Geflüchtete aus der Ukraine am Standort Alfred-Schütte-Allee 76 in 51105 Köln-Poll - Kenntnis genommen
+- TOP 5.10: Aktivitäten 2022 des House of Resources (HoR) in Köln und diesjährige Bundeskonferenz der Houses of Resources am 4.11.2022 - Kenntnis genommen
+- TOP 5.11: Mitteilung Sachstand Prozess der Qualitätsentwicklung Interkulturelle Zentren - Kenntnis genommen
+- TOP 5.12: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 5.13: 2. Quartalsbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - zurückgestellt
+- TOP 5.14: Konzept für Gewaltschutz in Unterbringungseinrichtungen für Geflüchtete der Stadt Köln - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Sicherstellung der Gleichbehandlung von geflüchteten Personen sowie konsequente Umsetzung des Gewaltschutzkonzeptes - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Beratung des Haushaltsplan-Entwurfs 2023/24 - ungeändert beschlossen
+- TOP -: Zusatzantrag zum Haushaltsplanentwurf 2023/24 - ungeändert beschlossen
+- TOP 8.1.1: 1. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2023/2024 - Kenntnis genommen
+- TOP 8.2: Verlängerung des Projektes "Guter Lebensabend NRW" - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
