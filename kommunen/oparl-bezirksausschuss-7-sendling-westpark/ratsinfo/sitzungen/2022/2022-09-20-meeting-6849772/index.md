@@ -1,0 +1,123 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-09-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6849772
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6849772
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Anträge
+- TOP 6.2.: Park- und Verkehrssituation gefährdet Rettungszufahrt zur Wohnanlage Drachenseestr.
+- TOP 6.3.: Bauvorhaben Quartierszentrum Waldfriedhof - Nachbar WEG Schongauerstraße
+- TOP 6.4.: Gefahrenstellen für Radler in Sendling
+- TOP 6.5.: Drachenseestraße Parksituation_Feuerwehr kam nicht durch
+- TOP 6.6.: gekieste Wege im Westpark
+- TOP 6.7.: Feuerwehr Zufahrt zur Drachenseestraße
+- TOP 6.8.: Quartiersplatz Distelhofweg
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) + (U) Geschwindigkeitsreduzierung in der Heckenstallerstr. Empfehlung Nr. 20-26 / E 00335 der Bürgerversammlung des Stadtbezirkes 07 – Sendling- Westpark am 11.10.2021 Erweiterung der Markierung in der Heckenstallerstraße Empfehlung Nr. 20-26 / E 00336 der Bürgerversammlung des Stadtbezirkes 07 – Sendling- Westpark am 11.10.2021
+- TOP 8.2.: (E) + (U) Tempo 30 Murnauerstraße nördlich Höglwörther Straße Empfehlung Nr. 20-26 / E 00367 der Bürgerversammlung des Stadtbezirkes 07 – Sendling-Westpark am 11.10.2021
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget MTV München Mittagsbetreuung für Grundschule an der Werdenfeldstraße 01.10.2022-31.05.2023 9.997,15 € / AZ: 0262.0-07-0389
+- TOP 10.2.: (E) Stadtbezirksbudget Feierwerk e.V. Interaktives Tanztheater "Über die Dinge" am 28.09.2022 500,00 € / AZ: 0262.0-07-0392
+- TOP 10.3.: (E) Stadtbezirksbudget Feierwerk e.V. Kinderkulturfestival "Dschungel" vom 29.10-06.11.2022 3.000 € / AZ: 0262.0-07-0391
+- TOP 10.4.: (E) Stadtbezirksbudget Pfarrgemeinderat St. Philippus "Konzert Double Drums" 2.045,40 € / AZ:0262.0-7-0393
+- TOP 11.: Anträge
+- TOP 11.1.: Mehr E-Ladestationen in Sendling-Westpark
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Konrad-Celtis-Str.-OReilly
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Marbachstraße
+- TOP 15.2.: Marbachstraße
+- TOP 15.3.: Marbachstraße
+- TOP 15.4.: Marbachstraße
+- TOP 15.5.: Marbachstraße
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Luise-Kiesselbach-Platz, Circus Roberto
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, Theatron, Konzert, Janke Bloch
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Land in Sonne I, Siegenburger.
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Albert-Roßhaupter-Straße, ggü Anwesen HsNr. 86, Anordnung eines Personenbezogenen Behindertenstellplatzes
+- TOP 25.2.: Abstimmung Parklizenzgebiete Stadtbezirk 7
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 28.1.: Finanzierungsbeschluss München gesund vor Ort
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: Beteiligung Stadtentwicklungskonzept Perspektive München
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Hansastraße Feuerwehrzufahrt
+- TOP 40.2.: Zwischenmitteilung Albert-Roßhaupter-Straße
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Bauvorhaben Aichacherstr.
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Zuschüsse Tagesmütter -väter
+- TOP 46.2.: Zwischenstand Interims Jugendtreff.
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Sachbericht Dschungelpalast Sommerferienprogramm
+- TOP 47.2.: Antwort FFW Sendling zur Drachenseestraße
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Westpark_Informationsveranstaltung zu aktuellen Gehölzpflegemaßnahmen Winter 2022_2023
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Sondernutzungserlaubnis für Straße.Oase, mobile Kunst-Spielaktionen für Kinder und Jugendliche
+- TOP 53.2.: Bescheid, Westpark, Theatron, Konzert Janke Bloch
+- TOP 53.3.: Bescheid, Westpark, kleine Zirkuswiese, Marionettentheater Maatz
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Hammersbacher Str._Vollsperre
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Zuständigkeiten Öffentlichkeitsarbeit Unterkünfte Geflüchtete und Wohnungslose im Amt für Wohnen und Migration für die Stadtbezirke
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Klimaschutz konkret - Klima-Ausschuss in jedem Bezirksausschuss; Bitte des BA 13
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
