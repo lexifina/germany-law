@@ -66,8 +66,7 @@
 
 - [§ 33 Gemeinschaftseinrichtungen](0033.md)
 - [§ 34 Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes](0034.md)
-- [§ 35 Belehrung für Personen in der Betreuung von Kindern
-und Jugendlichen](0035.md)
+- [§ 35 Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung](0035.md)
 - [§ 36 Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung](0036.md)
 
 ## 7. Abschnitt Wasser
@@ -117,7 +116,7 @@ Erlaubnis](0047.md)
 - [§ 56 Entschädigung](0056.md)
 - [§ 57 Verhältnis zur Sozialversicherung und zur Arbeitsförderung](0057.md)
 - [§ 58 Aufwendungserstattung](0058.md)
-- [§ 59 Sondervorschrift für Ausscheider](0059.md)
+- [§ 59 Arbeits- und sozialrechtliche Sondervorschriften](0059.md)
 - [§ 60 Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe](0060.md)
 - [§ 61 Gesundheitsschadensanerkennung](0061.md)
 - [§ 62 Heilbehandlung](0062.md)

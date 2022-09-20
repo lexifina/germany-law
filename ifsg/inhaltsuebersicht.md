@@ -65,7 +65,7 @@
 |  |
 | § 33 | Gemeinschaftseinrichtungen |
 | § 34 | Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes |
-| § 35 | Belehrung für Personen in der Betreuung von Kindern und Jugendlichen |
+| § 35 | Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung |
 | § 36 | Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung |
 |  |
 | 7. Abschnitt - Wasser |
@@ -111,7 +111,7 @@
 | § 56 | Entschädigung |
 | § 57 | Verhältnis zur Sozialversicherung und zur Arbeitsförderung |
 | § 58 | Aufwendungserstattung |
-| § 59 | Sondervorschrift für Ausscheider |
+| § 59 | Arbeits- und sozialrechtliche Sondervorschriften |
 | § 60 | Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe |
 | § 61 | Gesundheitsschadensanerkennung |
 | § 62 | Heilbehandlung |

@@ -396,6 +396,7 @@ zum Schutz der Pflegebedürftigen
 - [§ 150 Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige](0150.md)
 - [§ 150a Pflegebonus zur Anerkennung der besonderen Leistungen in der Coronavirus-SARS-CoV-2-Pandemie](0150a.md)
 - [§ 150b Nichtanrechnung von Arbeitstagen mit Bezug von Pflegeunterstützungsgeld, Betriebshilfe oder Kostenerstattung gemäß § 150 Absatz 5d](0150b.md)
+- [§ 150c Sonderleistungen für zugelassene voll- und teilstationäre Pflegeeinrichtungen zur Anerkennung und Umsetzung zusätzlicher Aufgaben nach § 35 Absatz 1 des Infektionsschutzgesetzes](0150c.md)
 - [§ 151 Qualitätsprüfungen nach § 114](0151.md)
 - [§ 152 Verordnungsermächtigung](0152.md)
 - [§ 153 Erstattung pandemiebedingter Kosten durch den Bund; Verordnungsermächtigung](0153.md)

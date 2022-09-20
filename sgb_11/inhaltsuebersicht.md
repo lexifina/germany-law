@@ -391,6 +391,8 @@
 | § 149 | Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung |
 | § 150 | Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige |
 | § 150a | Pflegebonus zur Anerkennung der besonderen Leistungen in der Coronavirus-SARS-CoV-2-Pandemie |
+| § 150b | Nichtanrechnung von Arbeitstagen mit Bezug von Pflegeunterstützungsgeld, Betriebshilfe oder Kostenerstattung gemäß § 150 Absatz 5d |
+| § 150c | Sonderleistungen für zugelassene voll- und teilstationäre Pflegeeinrichtungen zur Anerkennung und Umsetzung zusätzlicher Aufgaben nach § 35 Absatz 1 des Infektionsschutzgesetzes |
 | § 151 | Qualitätsprüfungen nach § 114 |
 | § 152 | Verordnungsermächtigung |
 | § 153 | Erstattung pandemiebedingter Kosten durch den Bund; Verordnungsermächtigung |
