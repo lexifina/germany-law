@@ -1,0 +1,6 @@
+# TOP 7.1: Bericht Anfrage Zehntscheune
+
+- Sitzung: Ortsbeirat Kronberg (9. Sitzung) (2022-09-20)
+- Körperschaft: Stadt Kronberg im Taunus
+- Öffentlich: ja
+- OParl: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/64215
