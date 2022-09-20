@@ -1,0 +1,87 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-09-20T16:00:00+02:00
+- Ende: 2022-09-20T20:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21937
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21937
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460282.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460282.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460282.pdf
+
+## Tagesordnung
+
+- TOP -: Austausch mit Herrn Oberbürgermeister Dr. Stephan Keller
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschriften SI-BV2/004/2022 vom 17.05.2022 und SI-BV2/005/2022 vom 21.06.2022
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Schlüterstraße 5- Nutzungsänderung von Muster- u. Lagerflächen in Großmarkt, Gastronomie und Schulungsräume - Empfehlung abweichend beschlossen
+- TOP 5: 02/021 Eduard-Schloemann-Straße - Städtebaulich-freiraumplanerischer Wettbewerb - Empfehlung abweichend beschlossen
+- TOP 6: Flächennutzungsplanänderung Nr. 209 - Südöstlich Werdener Straße - Empfehlung abweichend beschlossen
+- TOP 7: Bebauungsplan - Vorentwurf Nr. 02/018 - Werdener Str. - Erkrather Str. (ehem. B8-Center) - Empfehlung abweichend beschlossen
+- TOP 8: Workshop 02/20 - Stadtwerke Flingern - Empfehlung einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste B) - einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste A) - mehrheitlich beschlossen
+- TOP 12: Haushaltsplanentwurf 2023 - Bezirksbezogene Haushaltsansätze 2023 - zur Kenntnis genommen
+- TOP 12.1: Planungsmittel für die Landschaftsbrücke Moskauer Straße / Albertstraße - Haushaltsbegleitantrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 12.2: Toiletten Zoopark – Haushaltsbegleitantrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 12.3: Schillerplatz 2. Bauabschnitt – Haushaltsbegleitantrag der CDU-Fraktion - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 13: Quartiersgarage Ivo-Beucker-Straße - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 14: Quartiersgarage Sohnstraße - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 15: Geeignete Maßnahmen zur Verbesserung der Verkehrssicherheitslage für die Kinder und Eltern der Kindertagesstätte Albertstraße 43-45 - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 16: Unterstützung der Initiative FlingerPfad – Aufstellung einer weiteren Stele - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 17: Bezirksbezogene Bauunterhaltungsmittel für eine Stele - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 18: Zuwendung an die Bürgerinitiative Flingern zur Errichtung einer Stele aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 19: Klanginstallation „Der Mensch ist keine Fackel“ des Krux Kollektivs im Weltkunstzimmer - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 20: Zuschuss an die Brehmschule für das Präventionsstück "Mein Körper gehört mir“ aus bezirksbezogenen Haushaltsmitteln - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 21: Bezirksbezogene Haushaltsmittel für die Brehmschule - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 22: Förderung des Präventionsprogramms „Mein Körper gehört mir“ im Rahmen der Schulsozialarbeit an der Brehmschule aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 23: Ortsnahe Grundwasserverwendung - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 24: Tempo 30 auf der Fichtenstraße - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 25: Identifizierung weiterer Standorte für Neu- und Ersatzpflanzungen von Stadtbäumen im Stadtbezirk 2 - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 26: Konzept für Sanierung der Skateranlage im Stadtwerkepark - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 27: Paulusplatz - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 28: Bahnhaltestelle „Uhlandstraße“ der Linie 708 auf der Beethovenstraße stadtauswärts - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 29: Aufstellung eines Trinkwasserbrunnens im Stadt-Natur-Park Flingern - Antrag der Fraktion Bündnis 90/Die Grünen - vertagt
+- TOP 30: Sicherheitskonzept für das Drogenzentrum auf der Flurstraße - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 31: Rheinbahn-Haltestelle Flingern S-Bahnhof - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Fahrradweg Graf-Recke-Straße - Anfrage der FDP-Fraktion
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Kosten und Erlöse der Anwohnerparkausweiszonen - Anfrage der CDU-Fraktion
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 43: Spielangebote für Kinder mit körperlichen oder kognitiven Einschränkungenn - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 44: Weiterer Ausbau der Parkraumbewirtschaftung im Bezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: leerstehender früherer Brauereiausschank Im Tönnchen, Wetterstrasse 2/Ecke Lindenstrasse - Anfrage der CDU-Fraktion
+- TOP 47: leerstehende Immobilie Lindenstrasse 95/Ecke Ackerstrasse 111 - Anfrage der CDU-Fraktion
+- TOP -: Informationsvorlagen
+- TOP 48: Finanzierung von beschlossenen Sitzbänken aus bezirksbezogenen Bauunterhaltungsmitteln - Beschluss der Bezirksvertretung 2, Vorlage BV2/029/2022 - zur Kenntnis genommen
+- TOP 49: Verkehrsspiegel an der Fichtenstraße / Ecke Pinienstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/089/2022 - zur Kenntnis genommen
+- TOP 50: Brachfläche vor dem Gebäude Lindenstraße 267 (Ecke Grafenberger Allee / Engerstraße) - Beschluss der Bezirksvertretung 2, Vorlage BV2/065/2022 - zur Kenntnis genommen
+- TOP 51: Aufstellung von Hunde-Verbotsschildern auf der Spielwiese Hansa-Platz - Beschluss der Bezirksvertretung 2, Vorlage BV2/073/2022 - zur Kenntnis genommen
+- TOP 52: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 53: Stadtbaumkonzept für Düsseldorf (4, Pflanzperiode) - zur Kenntnis genommen
+- TOP 54: Erneuerung der DB Eisenbahnüberführungen Rosmarinstraße und Ronsdorfer Straße - Finanzierungsbeschluss - zur Kenntnis genommen
+- TOP 55: Sitzungstermine 2023 - zur Kenntnis genommen
+- TOP 56: Spielplatz-Homepage der Stadt Düsseldorf - Beschluss der Bezirksvertretung 2, Vorlage BV2/124/2022 - zur Kenntnis genommen
+- TOP 57: Blumenzwiebeln Hans-Sachs-Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/019/2022 - zur Kenntnis genommen
+- TOP 58: Vorstellung von Abstellmöglichkeiten für Lastenräder - Beschluss der Bezirksvertretung 2, Vorlage BV2/042/2020 - zur Kenntnis genommen
+- TOP 59: Sanierung des Hundeauslaufplatzes am Hansaplatz/Sybelstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/127/2022 - zur Kenntnis genommen
+- TOP 60: Pflanzenbeet Platane Zoopavillon - Beschluss der Bezirksvertretung 2, Vorlage BV2/081/2022 - zur Kenntnis genommen
+- TOP 61: Schlaglöcher vor Wartehäuschen Haltestelle Engerstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/061/2021 - zur Kenntnis genommen
