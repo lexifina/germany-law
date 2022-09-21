@@ -1,0 +1,82 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2022-09-21T17:00:00+02:00
+- Ende: 2022-09-21T20:45:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6675
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6675
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=408117
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - im Ausschuss abgelehnt
+- TOP 3.1: Mehr Spielplätze für 8- bis 12-Jährige - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.2: Kostenfreie Menstruationsprodukte auf Mädchentoiletten - ohne Änderungen in der BVV beschlossen
+- TOP 4: je eine Priorität pro Fraktion - (offen)
+- TOP 4.1: Umsetzungstand Haus der Teilhabe - beantwortet
+- TOP 4.2: Eine „La Panchina Rossa“ auch für Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen
+- TOP 4.3: Mittel für den Bau des Multifunktionsbades Mariendorf im Nachtragshaushalt bereitstellen - mit Änderungen in der BVV beschlossen
+- TOP 4.4: Netzwerk der Wärme unterstützen - überwiesen
+- TOP 4.5: Schutz für Kinder und Schüler sicherstellen - überwiesen
+- TOP 4.6: Katastrophenschutz-Leuchttürme installieren und in Betrieb nehmen - im Ausschuss abgelehnt
+- TOP 5: Vorlagen des Vorstehers - (offen)
+- TOP 5.1: Sitzungstermine sowie sitzungsfreie Zeit (Ferienzeit) der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin für das Jahr 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7: Protokollgenehmigung - (offen)
+- TOP 8: Mündliche Anfragen - erledigt
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Kreuzung Rixdorfer Straße/Alt-Mariendorf/Reißeckstraße sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Sprachförderung in Kitas erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Änderung § 58 der Geschäftsordnung – Angemessene Redezeiten für die Fraktionen bei Einwohneranträgen - in der BVV zurückgezogen
+- TOP 9.4: Tempelhof-Schöneberg sagt „NEIN“ zur Gewalt an Frauen und zeigt dies mit der landes- und bezirkseigenen Fahne - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Endlich mehr Trinkbrunnen im gesamten Bezirk errichten - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Neubau des Kultur- und Bürgerzentrums "Neue Mitte Tempelhof“ nicht verzögern! - überwiesen
+- TOP 9.7: Sonntagsöffnung im Advent sicherstellen - in der BVV abgelehnt
+- TOP 9.8: Wiederherstellung Straßenbeleuchtung Kulmer Str./Goebenstr. - überwiesen
+- TOP 9.9: Registerstelle sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Einrichtung von Wärmeräumen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Vollständige Übernahme der Wohnkosten bei Sozialleistungsbezieher:innen - überwiesen
+- TOP 9.12: Gefahrenstelle in der Rubensstraße beseitigen - überwiesen
+- TOP 9.13: Freier Zugang zu Menstruationsartikeln in Tempelhof-Schöneberg - in der BVV zurückgezogen
+- TOP 9.14: Initiativbewerbungen ermöglichen -Verfahren zu deren Nutzung sicherstellen - überwiesen
+- TOP 9.15: Pilatusweg endlich baulich verändern - überwiesen
+- TOP 9.16: Ein Frauengesundheitsbericht für Tempelhof-Schöneberg fortschreiben - überwiesen
+- TOP 9.17: Öffentliche Toiletten an der Apostel-Paulus-Kirche fördern - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Sport verbindet die Menschen über Grenzen und Kulturen – Städtepartnerschaften auch - überwiesen
+- TOP 9.19: Sanierung des Radweges in der Barnetstraße - überwiesen
+- TOP 9.20: Eine bessere Sichtbarkeit der Bezirke auf Berlin.de - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Bewohnerparkausweise für ALLE Anwohner*innen der Ullsteinstraße genehmigen - ohne Änderungen in der BVV beschlossen
+- TOP 9.22: In Tempelhof-Schöneberg gibt es keinen Raum für Antisemitismus - Tempelhof-Schöneberg wird Antisemitismus immer entschlossen entgegentreten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Trinkwasserversorgung im Bezirk - vertagt
+- TOP 10.2: Sprach-Kitas in Tempelhof-Schöneberg - vertagt
+- TOP 10.3: Bearbeitung von Mündlichen Anfragen der Bezirksverordneten - beantwortet
+- TOP 11: Beschlussempfehlungen - im Ausschuss abgelehnt
+- TOP 11.1: Aufarbeitung des sogenannten „Kentler-Experiments“ im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Mobile Polizeiwache für den Kurfürsten– und Nollendorfkiez - vertagt
+- TOP 11.3: Umsetzung des Berliner Straßengesetzes - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sichtbarmachen: Nord-Süd Grünzug nach Margarete Berent benennen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Der Berliner Luftbrücke angemessen gedenken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Graffitis am Sportplatz des DFB-Stützpunktes in der Monumentenstraße entfernen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Ein Ehrengrab für Frieda von Lipperheide - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Reparaturstationen für Fahrräder - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Erhalt der Ladesäulen am Tempelhofer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Gedenken an Romy Schneider wachhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Antworten auf Große, Mündliche und Kleine Anfragen sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Änderung der Geschäftsordnung der BVV Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Änderung der Geschäftsordnung (§39 GO BVV) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Mitteilungen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 12.1: Rathaus ohne Barrieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Bürger*innen über ihre Sportmöglichkeiten im Bezirk informieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Keine Kürzungen beim Verfügungsfonds für die Berliner Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Prüfkriterien für bauliche Maßnahmen in Milieuschutzgebieten Hier: Nachträglicher Einbau von Aufzügen und Fassadengleitern - überwiesen
+- TOP 12.5: Aufenthaltsbereicherung Lichtenrader Dorfteich - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.6: Alternative Spielplatzformen prüfen: Regenwasser, Klang-, Tast- und Geruchspielplatz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.7: Digitale Kompetenz von Senior*innen im Bezirk fördern - überwiesen
+- TOP 13: Termin der nächsten Sitzung - im Ausschuss abgelehnt
