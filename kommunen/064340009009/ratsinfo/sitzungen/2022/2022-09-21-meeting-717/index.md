@@ -1,0 +1,56 @@
+# Gemeindevertretung (11. Sitzung)
+
+- Körperschaft: Gemeinde Schmitten im Taunus
+- Beginn: 2022-09-21T19:35:00+02:00
+- Ende: 2022-09-21T21:20:00+02:00
+- Ort: Jahrtausendhalle Oberreifenberg, Königsteiner Straße 12, 61389 Schmitten im Taunus, Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://rim.ekom21.de/schmitten/tops/?__=UGhVM0hpd2NXNFdFcExjZazrrNYdCwdW_kTPJLWb7LE
+- OParl: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/meeting/717
+- Quelle: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeindevertretung) https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVYMN_31BTN2V3u3jUXKFGOjF03KGh_YeAYspkBQFJEI/Bekanntmachung_Gemeindevertretung_21.09.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeindevertretung) https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXrOmLuOlph2Sv7Jxxn8V5VI4LUikkMhJLPUx7RgaZgg/Oeffentliche_Niederschrift_Gemeindevertretung_21.09.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Mitteilungen
+- TOP 1.1: des Vorsitzenden der Gemeindevertretung
+- TOP 1.2: des Gemeindevorstandes
+- TOP 1.2.1: Zurückstellung der aufsichtsbehördlichen Genehmigung für die Haushaltssatzung und den Haushaltsplan für das Haushaltsjahr 2022
+- TOP 1.2.2: Sachstandsbericht Klimaschutz- & Klimaanpassung
+- TOP 1.2.3: Gasmangellage / Energiekrise
+- TOP 1.2.4: Sanierungsmaßnahmen Jahrtausendhalle
+- TOP 1.2.5: Ergebnisse Dorfentwicklung Umfrage & Jugenddialog
+- TOP 1.2.6: Sachstandsbericht der Wasserversorgung vom 16.09.2022
+- TOP 1.2.7: Aktuelle Forstbetriebsinfo Stand August 2022
+- TOP 1.2.8: Spielplatz-Erweiterung auf dem Feldbergplateau im Hochtaunus
+- TOP 1.3: zu schriftlich vorliegenden Anfragen
+- TOP 1.3.1: Anfrage der FWG-Fraktion betr. "Nachfragen zum Sachstandsbericht Kindergärten vom 06.07.2022
+- TOP 1.3.2: Anfrage der FWG-Fraktion betr. "Verkauf des Billardtisches im Jugendraum Schmitten"
+- TOP 1.3.3: Anfrage der FWG-Fraktion betr: "Auswirkung der allgemeinen Kostensteigerungen auf Anschaffungen und Investitionen"
+- TOP 1.3.4: Anfrage der FWG-Fraktion betr: "Betreuungskonzept für die geplante Kindertagesstätte in Oberreifenberg der accadis International School
+- TOP 1.3.5: Anfrage der FWG-Fraktion betr: "Neuanschaffung eines Löschfahrzeuges"
+- TOP 1.3.6: Anfrage der SPD-Fraktion betr. "Einsatz von Verkehrsspiegeln"
+- TOP 1.3.7: Anfrage der SPD-Fraktion betr. "Entwässerungssatzung - Inanspruchnahme § 27, Abs. 2 - Wasserzähler mit Fernablesung
+- TOP 1.3.8: Anfrage der SPD-Fraktion betr. "früherer Jugendraum am Schwimmbad"
+- TOP 1.3.9: Anfrage der SPD-Fraktion betr. "Schwimmbad - Verwertung des Wassers nach der Winterpause"
+- TOP 1.4: der Ausschüsse
+- TOP 1.5: aus den Verbänden
+- TOP 2.: Genehmigung des letzten Protokolls
+- TOP -: Teil B (Mit Aussprache)
+- TOP 3.: Beratung und Beschlussfassung über die 4. Fortschreibung des Feuerwehrbedarfs- und Entwicklungsplanes für die Freiwilligen Feuerwehren der Gemeinde Schmitten im Taunus - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Ergebnispräsentation über das Benchmarking Kommunalwald für das Jahr 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Projektbericht über die Besucherstromlenkung des Feldbergplateaus der Hochschule Heilbronn - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Bauleitplanung der Gemeinde Schmitten, Ortsteil Oberreifenberg Bebauungsplan „Talweg, Tannenwaldstraße, Fuchstanzstraße, Siegfriedstraße, Dillenbergstraße, 4.Änderung Aufstellungsbeschluss gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) sowie Beschluss zur Entwurfsoffenlage und zur Beteiligung der Behörden gemäß § 3 Abs. 2 und § 4 Abs. 2 BauGB - 21 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.: Beratung und Beschlussfassung über den Entwurf der Änderungsvereinbarung für das Bildungs- und Betreuungsangebot „Pakt für den Nachmittag“ an der Jürgen-Schumann-Schule. - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Neuausrichtung Jugendarbeit bzw. Angebot in Schmitten | Budgetplanungen 2023 - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Bauleitplanung der Gemeinde Schmitten. Ortsteil Brombach Bebauungsplan „Im Boden“; Folgekostenberechnung für die Herstellung und den Grundstückserwerb Parkplätze (siehe GVE-Beschluss vom 08.12.2021) - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Bauleitplanung der Gemeinde Schmitten. Ortsteil Brombach Bebauungsplan „Im Boden“; Aufstellungsbeschluss gemäß § 2 Abs. 1 i.V.m. § 13 b Baugesetzbuch (BauGB) (siehe GVE-Beschluss vom 08.12.2021, TOP 8, GVE Beschluss vom 11.12.2019, TOP 8)
+- TOP 11.: Erwerb des alten Mühlbachhauses, Hauptstraße 4, 61389 Schmitten-Niederreifenberg - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Antrag der FWG Fraktion betr. Arbeitsgemeinschaft "Nutzung von erneuerbaren Energiequellen in Schmitten" und Antrag der Koalition aus CDU/b-now und Bündnis 90 / Die Grünen betr. Teilnahme Schmittens am "Wattbewerb" - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Antrag der FWG Fraktion betr. "Verbesserung der Busanbindung des Ortsteils Arnoldshain" - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Antrag der Koalition aus CDU/b-now und Bündnis 90 / Die Grünen betr."Neubesetzung Stelle Klimamanager" - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Antrag der Koalition aus CDU/b-now und Bündnis 90 / Die Grünen betr."Schaffung von Biotop-Verbünden" - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Antrag der FWG Fraktion betr. "Änderung der Zisternensatzung der Gemeinde Schmitten" - Einstimmig, 0 Enthaltung(en)
