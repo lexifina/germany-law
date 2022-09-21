@@ -2,7 +2,7 @@
 
 - Gemeinde: Stadt Duisburg (ARS 051120000000)
 - Datum: 2022-09-21 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.duisburg.de/rathaus/rathausundpolitik/ortsrecht/S37.06-Luftrettungssatzung-01.07.2024.pdf
+- Quelle: https://www.duisburg.de/rathaus/rathausundpolitik/ortsrecht/S37.06-Luftrettungssatzung-01.10.2022.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -38,9 +38,9 @@ Ein Transport von Begleitpersonen findet nicht statt. Ausnahmen können durch de
 (1) Für Einsätze des Rettungshubschraubers werden Gebühren erhoben. Fehleinsätze werden als ansatzfähige Kosten aufgenommen.
 (2) Der Gebührenanspruch entsteht mit der Inbetriebnahme des Hubschraubers.
 (3) Der Gebührenanspruch entsteht auch, wenn tatsächlich kein Transport durchgeführt wird oder eine vorsätzliche grundlose Alarmierung vorliegt.
-§ 6 Gebührenmaßstab und Gebührenhöhe2
+§ 6 Gebührenmaßstab und Gebührenhöhe
 (1) Gebührenmaßstab ist die Dauer der Triebwerklaufzeit in Minuten von Beginn der Inbetriebnahme des Hubschraubers bis zur Wiederherstellung der Einsatzbereitschaft auf der Betriebsstation. Wird vor der Rückkehr des Hubschraubers zur Betriebsstation ein neuer Einsatzbefehl erteilt, so endet für den bisherigen und beginnt für den folgenden Einsatz abweichend von Satz 1 die Einsatzdauer mit der Erteilung des neuen Einsatzbefehls.
-(2) Die Gebühr pro Minute für sämtliche Leistungen gemäß § 2 dieser Satzung beträgt 117,58 Euro.
+(2) Die Gebühr pro Minute für sämtliche Leistungen gemäß § 2 dieser Satzung beträgt 95,30 Euro.
 § 7 Festsetzung und Fälligkeit
 Die Gebühren werden durch Bescheid der Stadt Duisburg als Kernträger der Trägergemeinschaft festgesetzt und sind innerhalb eines Monats nach Bekanntgabe des Gebührenbescheides zu entrichten.
 § 8 Gebührenschuldner
@@ -48,14 +48,7 @@ Die Gebühren werden durch Bescheid der Stadt Duisburg als Kernträger der Träg
 (2) Im Falle vorsätzlicher grundloser, insbesondere missbräuchlicher Bestellung ist der Besteller gebührenpflichtig.
 (3) Hat eine gesetzliche Krankenkasse oder ein anderer gesetzlicher Kostenträger für ein Mitglied ein Kostenanerkenntnis abgegeben oder steht die Mitgliedschaft der Benutzerin oder des Benutzers in einer gesetzlichen Krankenkasse oder bei einem anderen gesetzlichen Kostenträger fest, so steht es der Stadt Duisburg frei, die Gebühren von der Krankenkasse oder beim Kostenträger einzuziehen. Die Gebührenpflicht des Gebührenschuldners bleibt davon unberührt.
 (4) Mehrere Gebührenschuldner haften als Gesamtschuldner.
+§ 9 Inkrafttreten
+Diese Satzung tritt zum 01. des auf die Veröffentlichung folgenden Monats in Kraft. __________________________________________________________________________________ ¹Amtsblatt für die Stadt Duisburg Nr. 37 vom 30.09.2022, Seite 599-600
 
 2
-
-37.06
-
-Luftrettungssatzung
-
-§ 9 Inkrafttreten Diese Satzung tritt zum 01. des auf die Veröffentlichung folgenden Monats in Kraft.
-__________________________________________________________________________________ ¹Amtsblatt für die Stadt Duisburg Nr. 37 vom 30.09.2022, Seite 599-600 2Amtsblatt für die Stadt Duisburg Nr. 20 vom 28.06.2024, Seite 179
-
-3
