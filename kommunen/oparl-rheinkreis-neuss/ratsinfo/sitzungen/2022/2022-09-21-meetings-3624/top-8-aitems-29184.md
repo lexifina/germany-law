@@ -1,0 +1,7 @@
+# TOP 8: COVID-19: Aktuelle Situation im Rhein-Kreis Neuss
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kreisausschusses (2022-09-21)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/29184
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/consultations/11076
