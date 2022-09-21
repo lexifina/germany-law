@@ -1,0 +1,78 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-09-21T15:00:00+02:00
+- Ende: 2022-09-21T18:05:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21046
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21046
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00298283.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00298598.pdf
+
+## Tagesordnung
+
+- TOP 1: Haushalt 2022
+- TOP 1.1: Haushaltsreden
+- TOP 1.2: 2. Aktualisierung des Haushaltsplan-Entwurfes 2022/2023 - ungeändert beschlossen
+- TOP 1.3: Haushaltsplan 2022 - ungeändert beschlossen
+- TOP 1.4: Fraktionsanträge zum Haushalt
+- TOP 1.4.1: Beantragung von Finanzmitteln für den Gebäudebestand des Freibads Mirke - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.4.2: Haushaltsplan 2022 - abgelehnt
+- TOP 1.4.3: Haushaltsplanberatungen - ungeändert beschlossen
+- TOP 1.4.4: Änderungsantrag zu der Vorlage VO/0238/22 Finanzierung gesellschaftlicher Teilhabe der LSBT*I*QAP+-Community - abgelehnt
+- TOP 1.4.5: Änderungsantrag zu der Vorlage VO/0186/22 Finanzierung einer hauptamtlichen Stelle für Schlau Wuppertal e.V - abgelehnt
+- TOP 1.5: Weitere Anträge zum Haushalt
+- TOP 1.5.1: Antrag auf Finanzierung einer hauptamtlichen Stelle für SCHLAU Wuppertal e.V. - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.5.2: Haushaltsgesamtantrag der Arbeitsgemeinschaft der Freien Wohlfahrtspflege (AGFW) für 2022/23 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.5.3: Antrag der Arbeitsgemeinschaft der Freien Wohlfahrtspflege zur Finanzierung der Kindertagestätten im Jugendhilfeausschuss - abgelehnt
+- TOP 1.5.4: Antrag auf Übernahme des Eigenanteils für die Förderung der spezialisierten Beratung bei sexualisierter Gewalt gegen Kinder und Jugendliche in Wuppertal - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.5.5: Antrag des Inside:Out auf Finanzierung gesellschaftlicher Teilhabe der LSBT*I*QAP+-Community - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.5.6: Antrag der Forstbetriebsgemeinschaft Wuppertal auf Erhöhung des städtischen Zuschusses - abgelehnt
+- TOP 1.6: Verwaltungsvorlagen zum Haushalt
+- TOP 1.6.1: Zuschuss für die Sanierung des Daches des Gebäudes Kleiner Werth 50 der Wuppertaler Tafel e.V. - ungeändert beschlossen
+- TOP 1.6.2: Zuschuss an die WSW im Entwurf des Haushaltsplanes 2022 - ungeändert beschlossen
+- TOP 1.7: Empfehlungen der Bezirksvertretungen und Ratsgremien zum Entwurf des Haushaltsplans 2022
+- TOP 1.7.1: Empfehlungen der Bezirksvertretungen und Ratsgremien bis zum 25.08.2022 - Entgegennahme ohne Beschluss
+- TOP 1.7.2: Empfehlungen der Bezirksvertretungen und Ratsgremien ab 26.08.2022 bis 13.09.2022 - Entgegennahme ohne Beschluss
+- TOP 1.8: 1. Veränderungsnachweisung zum Haushaltsplanentwurf 2022 - ungeändert beschlossen
+- TOP 1.9: Veränderungen im Entwurf des Stellenplanes 2022 - ungeändert beschlossen
+- TOP 1.10: 2. Veränderungsnachweisung zum Haushaltsplanentwurf 2022 - ungeändert beschlossen
+- TOP 1.11: Haushaltssatzung 2022 - ungeändert beschlossen
+- TOP 2: Fragestunde
+- TOP 2.1: Förderung durch Miet- und Betriebskosten(zuschüsse) 2021 durch das Kulturbüro Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Förderung durch Miet- und Betriebskosten(zuschüsse) 2021 durch das Kulturbüro Wupperta - Antwort auf Anfrage - Entgegennahme ohne Beschluss
+- TOP 2.1.2: Förderung durch Miet- und Betriebskosten(zuschüsse) 2021 durch das Kulturbüro Wuppertal - Antwort auf große Anfrage
+- TOP 2.2: Baumaßnahmen und Fertigstellung der Fahrradstraße „Neue Friedrichstraße“ - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2: Neue Friedrichstraße - 2. Antwort zur Großen Ratsanfrage
+- TOP 2.3: Auswirkungen steigender Energiekosten - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Auswirkungen steigender Energiekosten - Entgegennahme ohne Beschluss
+- TOP 2.4: Angemeldete Projekte zum Bundesprogramm "Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur" - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf Anfrage: Angemeldete Projekte zum Bundesprogramm „Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur“ - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Verwaltungsvorstand - vertagen
+- TOP 4.2: Den Verwaltungsvorstand zukunftsfest weiterentwickeln - vertagen
+- TOP 4.3: Änderungsantrag zum Antrag mit der Vorlage VO/1068/22 Verwaltungsvorstand - vertagen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Mittel für den Integrationsausschuss - vertagen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Neustrukturierung der Wuppertal Marketing GmbH (WMG) - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubauvorhaben Klingelholl - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Ausrichtung der Bundesgartenschau (BUGA) 2031 – Abschluss des Durchführungsvertrages und des Gesellschaftsvertrages / Projektstruktur - geändert beschlossen
+- TOP 11.1.1: Änderungsantrag zu VO/1110/22 - Ausrichtung der Bundesgartenschau 2031 - zurückgezogen
+- TOP 11.2: Bundesgartenschau BUGA 2031 - Ressourcenplanung für das Haushaltsjahr 2022 - Entgegennahme ohne Beschluss
+- TOP 11.3: Weiterführung der Infrastrukturabgabe ab dem Jahr 2023
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.3: Bestellung des Vertreters der Stadt Wuppertal in den Aufsichtsräten der WSW GmbH, der WSW mobil, der AWG und des HELIOS Klinikums sowie in der Verbandsversammlung des VRR - ungeändert beschlossen
+- TOP 12.4: Umbesetzung Gremien - ungeändert beschlossen
