@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Verwaltungsrates
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-09-22T18:00:00+02:00
+- Ende: 2022-09-22T19:16:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2935
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2935
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 1.1: Bestellung eines Schriftführers für die 9. Sitzung - einstimmig beschlossen
+- TOP 2: Benennung einer Zweitunterzeichnerin / eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen
+- TOP 4: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege
+- TOP 4.1: Satzung der Stadtbetriebe Grevenbroich zum Schutz des Baumbestandes - mehrheitlich beschlossen
+- TOP 5: Einführung eines Baum- und Grünflächenkatasters - Kenntnisnahme
+- TOP 6: Energiebericht 2021 - Kenntnisnahme
+- TOP 7: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 7.1: Installation von Straßenbeleuchtung - einstimmig beschlossen
+- TOP 7.2: Fahrbahnmarkierungen im Kreuzungsbereich Frankenstraße/Am Leuchtenberg/Glockenstraße in Frimmersdorf - Kenntnisnahme
+- TOP 7.3: Errichtung einer Pilotfläche für Agri-PV - Kenntnisnahme
+- TOP 7.4: Sachstand digitaler Screens und Bushaltestellen mit ökologischen Dächern - einstimmig beschlossen
+- TOP 8: Schriftliche Anträge
+- TOP 8.1: Anträge der SPD-Fraktion
+- TOP 8.1.1: Mobilitätsmanagement - einstimmig beschlossen
+- TOP 8.1.2: Parken in Hülchrath - einstimmig beschlossen
+- TOP 8.2: Anträge der CDU-Fraktion
+- TOP 8.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 8.4: Anträge der FDP-Fraktion
+- TOP 8.4.1: Kostenlose Parkmöglichkeiten an der Schlossstraße - einstimmig beschlossen
+- TOP 8.4.2: Konzept zur Errichtung von öffentlichen Trinkwasserstationen endlich entwickeln - einstimmig beschlossen
+- TOP 8.4.3: Bürgerfreundliche Lösung für die Parksituation an der Theodor-Heuss-Straße finden - einstimmig beschlossen
+- TOP 8.4.4: Parksituation auf der Straße „Am Burghof“ in Kapellen verbessern - einstimmig beschlossen
+- TOP 8.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 8.5.1: Freischnitt der Uferkante „Am Kolk“ vor dem Alten Schloss und der Bahnstraße, Höhe Deutsche Bank - einstimmig beschlossen
+- TOP 8.6: Anträge der UWG-Fraktion
+- TOP 8.6.1: Verkehrssituation in Neukirchen - einstimmig beschlossen
+- TOP 8.6.2: Verkehrszeichen Vorfahrtstraße VZ 306 auf dem Radweg in Gustorf/Gindorf - einstimmig beschlossen
+- TOP 8.7: Gemeinschaftsanträge
+- TOP 8.7.1: Photovoltaik Ausbau des Betriebshofes - vertagt
+- TOP 8.7.2: City-Logistik-Konzept für Grevenbroich - einstimmig beschlossen
+- TOP 9: Schriftliche Anfragen
+- TOP 9.1: Befragung der Einwohner bzgl. der Standorte von Ladesäulen - Kenntnisnahme
+- TOP 10: Anfragen von Verwaltungsratsmitgliedern
+- TOP 11: Mitteilungen des Vorstandes
+- TOP 12: Mitteilungen des Verwaltungsratsvorsitzenden
