@@ -1,0 +1,53 @@
+# Gemeinderat (20. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2022-09-22T18:00:00+02:00
+- Ende: 2022-09-22T21:42:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfGZhqKLW2FXrW_JNZTIrAc
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1878
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRctzVLe4GmrKRo4pysX8aaF4_hby4J81emA69lDt8_i/Bekanntmachung_Gemeinderat_22.09.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZawEvtLimlv6rjdmO8RYksiRTSZQHYXqBvVvD39Met5W/Oeffentliche_Niederschrift_Gemeinderat_22.09.2022.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: 1. Änderung des Bebauungsplans 47 D - Geilenkirchener Straße - a.) Aufstellungsbeschluss gem. § 2 Abs. 1 BauGB i.V. § 13a BauGB b.) Beschluss gem. § 13a BauGB i.V.m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gem. § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 1. Änderung des Bebauungsplans 47 D - Geilenkirchener Straße - - Einstimmig, 1 Enthaltung(en)
+- TOP 4.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: indeland Tourismus e.V. – Sachstandsbericht und weitere Mitgliedschaft der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Anträge von Fraktionen
+- TOP 6.1: Antrag der SPD-Fraktion hier: Beantragung einer Förderung zur energetischen Sanierung bzw. eines Ersatzneubaus des Sportzentrums an der Schwanenstraße - Einstimmig, 1 Enthaltung(en)
+- TOP 6.2: Antrag der CDU-Fraktion hier: Resolution zur geplanten Gasumlage - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3: Antrag der SPD-Fraktion hier: Beantragung einer 100% Förderung für investive Kommunale Klimaschutz Modellprojekte – Errichtung einer zentralen Großwärmepumpe für die Gebäude in der Schwanenstraße - Einstimmig, 1 Enthaltung(en)
+- TOP 6.4: Antrag der SPD-Fraktion: hier: Bedarfsgerechter Ausbau der Kita-Plätze in der Gemeinde - Einstimmig, 0 Enthaltung(en)Sitzungsunterbrechung von 19:38 Uhr bis 19:49 Uhr zwecks Stoßlüftung des Sitzungssaals.
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses für das Jahr 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2: Beiträge zu Verbänden - Wirtschaftsplan 2023 der Entwicklungsgesellschaft Indeland GmbH (EwiG) - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3: Budgeterhöhung: Energetische Optimierung der Wärmeverteilung am Gebäudekomplex Turnhalle Aldenhoven - Einstimmig, 7 Enthaltung(en)
+- TOP 8.: Satzungen, Ortsrecht
+- TOP 8.1: Sanierungssatzung Zentralort Aldenhoven – Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Ausführung des Haushalts
+- TOP 10.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Zuschuss zur Finanzierung des Betriebs der Kleinschwimmhalle Siersdorf - 14 Ja-Stimme(n), 3 Nein-Stimme(n), 3 Stimmenthaltung(en)
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 3.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 3.1: Ertüchtigung der Lehr- und Unterrichtsküche in der Gesamtschule Aldenhoven-Linnich am Standort Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Beschaffung von Stromerzeugern zur Notstromversorgung der Anlaufstellen für die Bevölkerung sowie der Aufrechterhaltung der Gefahrenabwehr bei Gas- und Stommangellagen - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Gremienangelegenheiten
+- TOP 4.1: Gründung einer enwor-Netzgesellschaft und Verpachtung der Strom- und Gasnetze an die enwor-Netzgesellschaft - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Berichte aus den Gremien
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Grunderwerb zur Initiierung des CVM - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Grunderwerb von landwirtschaftlichen Parzellen - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Verschiedenes
