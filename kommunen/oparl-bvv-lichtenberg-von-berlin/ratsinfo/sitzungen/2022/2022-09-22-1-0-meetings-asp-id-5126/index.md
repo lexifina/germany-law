@@ -1,0 +1,98 @@
+# 10. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2022-09-22T17:00:00+02:00
+- Ende: 2022-09-22T22:00:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5126
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5126
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=345637
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Alkoholkonsum in Lichtenberg - vertagt
+- TOP 4.2: Erstellung von Kriterien zur Einrichtung von Hundefreilaufplätzen in Lichtenberg - vertagt
+- TOP 4.3: Einrichtung von Hundefreilaufplätzen im Mauritius Kiez - vertagt
+- TOP 4.4: SOS – Seepferdchen in Not: Ticketverkauf wieder vorrangig an den Bäder-Kassen ermöglichen - vertagt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Neue Mülleimer im Park der Wartenberger Feldmark - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Hinweise auf das stille Örtchen im Stadtpark Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Vergabeverfahren für das Unternehmensportal Lichtenberg - überwiesen
+- TOP 5.4: Lösungen für die Stellenbesetzung im RSD finden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Bezirkliches Ferienschwimmen auch in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Lösungen und Unterstützung für den Regionalen Sozialpädagogischen Dienst (RSD) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Sichere Querung der Konrad-Wolf-Straße für Kita- und Schulkinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Taubenpopulation kontrollieren - überwiesen
+- TOP 5.9: Feuerwerke zur Jahreswende - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.10: Umgestaltung des Bürgeramtes 4 (Alt-Hohenschönhausen) zum Ausbildungsbürgeramt - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.11: Veränderung und Neubildung von Einschulungsbereichen (ESB) an Grundschulen - überwiesen
+- TOP 5.12: Vergabe der Auszeichnung „Lichtenberger Unternehmen des Jahres 2022“ (Bezug: DS-Nr. 0079/VII und DS/1653/VIII) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.13: Bebauungsplan-Entwurf XVII-9-1 - Auswertung der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gemäß § 4 Absatz 2 BauGB sowie Teilung des Bebauungsplans; Arbeitstitel: BerlinCampusI - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Notfallplan für Stromausfälle - beantwortet
+- TOP 7.2: Konkrete Vorbereitung auf Stromausfälle - beantwortet
+- TOP 7.3: Umgang mit Stromausfällen durch das Bezirksamt - beantwortet
+- TOP 7.4: Stellungnahmen des Bezirksamts zum FNP-Verfahren Treskowallee/Trabrennbahn Karlshorst - beantwortet
+- TOP 7.5: Präventionsarbeit gegen rassistische, queerfeindliche Gewalt im Bezirk - beantwortet
+- TOP 7.6: Einsatz für Schulsanierungen - beantwortet
+- TOP 7.7: Auswirkung auf Bezirkshaushalt durch Einrichtung von Hundeauslaufplätzen - schriftlich beantwortet
+- TOP 7.8: LAF Unterkunft Grafenauerweg - schriftlich beantwortet
+- TOP 7.9: Gedenken an Eugeniu Botnari - schriftlich beantwortet
+- TOP 8: Fragestunde für Einwohnerinnen und Einwohner - beantwortet
+- TOP 9: Wahlen - (offen)
+- TOP 9.1: Wahl eines Bezirksamtsmitglieds - vertagt
+- TOP 9.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - in der BVV abgelehnt
+- TOP 10: Vorlage zur Beschlussfassung des Vorstandes - (offen)
+- TOP 10.1: Einwohnerantrag: Platz für Menschen statt Durchgangsverkehr - überwiesen
+- TOP 11: Prioritäten der Fraktionen - (offen)
+- TOP 11.1: Hecke am Tramgleis Landsberger Allee/ Zechliner Straße zurückschneiden - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Mehr Stellen und Räume für die Wohnungsämter, um die Bürger*innen schnellstmöglich weiter zu entlasten - überwiesen
+- TOP 11.3: Fahrradstraße für Hohenschönhausen I - ohne Änderungen in der BVV beschlossen
+- TOP 11.3.1: Fahrradstraßen für Hohenschönhausen II - ohne Änderungen in der BVV beschlossen
+- TOP 11.3.2: Fahrradstraße für Alt-Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 11.3.3: Fahrradstraßen für Rummelsburg/Weitlingkiez - überwiesen
+- TOP 11.3.4: Fahrradstraße für den Fennpfuhl - ohne Änderungen in der BVV beschlossen
+- TOP 11.3.5: Fahrradstraße für die Rummelsburger Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 11.3.6: Fahrradstraßen für Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 11.3.7: Fahrradstraße in der Hentigstraße und Cäsarstraße (Karlshorst) einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Quartier Gehrenseestraße/Wollenberger Straße, B-Plan 11-165 - beantwortet
+- TOP 12.2: Klimaschutz weiterentwickeln: Ein integriertes Konzept für Klimaschutz und Klimawandel - beantwortet
+- TOP 13: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 13.1: Einwohner*innenantrag: Kaskelkiez für Menschen statt Durchgangsverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Rahmenbedingungen für öffentliches Grillen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Wirtschaftsgebiet Herzbergstraße besser erschließen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Streckenbezogene Temporeduzierung zum Schutz vor Lärm - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Rathauspark - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: BVV Sondermittel für den Elterntreff mit Stadtteilmüttern in der Schule am Ostseekarree - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - erledigt
+- TOP 14.1: Queeres Beratungszentrum in Lichtenberg einrichten - überwiesen
+- TOP 14.2: Grüne Hauptwege in Lichtenberg ausbauen - überwiesen
+- TOP 14.3: Kartbahnbetrieb in Lichtenberg sichern - überwiesen
+- TOP 14.4: Register für Sportvereine - überwiesen
+- TOP 14.5: Kein Schulessen wegwerfen - überwiesen
+- TOP 14.6: Salzmannstraße 34 bauplanungsrechtlich als Schulstandort sichern - mit Änderungen in der BVV beschlossen
+- TOP 14.7: Des 70. Jahrestags des 17. Juni 1953 angemessen gedenken - überwiesen
+- TOP 14.8: Informationen und Hilfsangebote in verschiedenen Sprachen - überwiesen
+- TOP 14.9: Energiekostenhilfe für Sportvereine - mit Änderungen in der BVV beschlossen
+- TOP 14.10: Qualifikationsanerkennung unbürokratisch gestalten: Geflüchtete Lehrkräfte und pädagogische Fachkräfte in die Kindertagesbetreuung und das Bildungssystem schneller integrieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Fußgängerüberweg Margaretenhöhe - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Nicht radlos werden – Mehr Prävention gegen Fahrraddiebstahl am S+U Lichtenberg - überwiesen
+- TOP 14.13: Mehr Fahrradbügel auf der Lincolnstraße aufstellen - überwiesen
+- TOP 14.14: Hitze- und Kälteschutz in klare Zuständigkeit geben - überwiesen
+- TOP 14.15: A100: FNP-Änderung unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Kitaplätze zu 100 % finanzieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Verkehrssicherheit in Rummelsburg erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Regenbogenfamilienzentrum für Lichtenberg erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Berufung eines Klimabeirates und eines verwaltungsinternen Klimateams - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.5: Sicherheit für alle Verkehrsteilnehmer*innen auf der Treskowallee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16: Geschäftliche Mitteilungen und Vorlagen des Vorstandes - erledigt
