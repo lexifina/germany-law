@@ -1,0 +1,66 @@
+# 13. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-09-22T15:30:00+02:00
+- Ende: 2022-09-22T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25130
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25130
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführung - endgültig zurückgezogen
+- TOP -: Mündlicher Bericht des Dezernenten - Kenntnis genommen
+- TOP -: Mündlicher Bericht der Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.1.1: Beantwortung: Öffentlichkeitsbeteiligung und Möglichkeit der Teilhabe von Menschen mit Behinderung - Kenntnis genommen
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3: Aktivitäten 2022 des House of Resources (HoR) in Köln und diesjährige Bundeskonferenz der Houses of Resources am 4.11.2022 - Kenntnis genommen
+- TOP 2.4: Mitteilung Sachstand Prozess der Qualitätsentwicklung Interkulturelle Zentren - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Entwicklung eines kommunalen Wohnungs- und Obdachlosenberichts - zurückgestellt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - geändert beschlossen
+- TOP 4.2: Förderprogramm "Lebenswerte Veedel - Bürger*innen- und Sozialraumorientierung in Köln" - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.2 „ Förderprogramm Lebenswerte Veedel-Bürger*innen- und Sozialraumorientierung in Köln“ - ungeändert beschlossen
+- TOP 4.3: LSBTI-Förderprogramm: Freigabe und Verteilung der Mittel (1. Antragsphase 2022) - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Verlängerung des Projektes "Guter Lebensabend NRW" - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Reserveplätze zur Unterbringung Geflüchteter sowie aktuelle Situation zur Zielsetzung der Steigerung der Unterbringung in abgeschlossenen Wohneinheiten von 5% jährlich - Kenntnis genommen
+- TOP 9.2: Errichtung einer Unterkunft für Geflüchtete aus der Ukraine am Standort Alfred-Schütte-Allee 76 in 51105 Köln-Poll - Kenntnis genommen
+- TOP 9.3: 2. Quartalsbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.4: Gewaltschutzkonzept - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Anfrage der SPD Fraktion: Überlastung der Ausländerbehörden u. a. Ämter und Abteilungen der Stadtverwaltung – Rechtskreiswechsel der Geflüchteten aus der Ukraine in die Grundsicherung - Sache ist erledigt
+- TOP -: Beantwortung : "Überlastung der Ausländerbehörden u.a. Ämter und Abteilungen der Stadtverwaltung - Rechtskreiswechsel der Geflüchteten aus der Ukraine in die Grundsicherung" - Kenntnis genommen
+- TOP 10.1.2: Anfrage der Fraktion Die Linke: Zeitnahe Ausstellung von Fiktionsbescheinigungen als Voraussetzung für den Grundsicherungsbezug von Geflüchteten aus der Ukraine - zurückgestellt
+- TOP 10.1.3: Anfrage der Fraktion AfD: 86 unbegleitete minderjährige Ausländer (UMA) in Köln spurlos verschwunden - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1145/2022, 86 unbegleitete minderjährige Ausländer (UMA) in Köln spurlos verschwunden - Kenntnis genommen
+- TOP 10.1.4: Anfrage der Fraktionen SPD und Die Linke: Armut in Köln: Obdach- und Wohnungslosigkeit 2022 – Winterhilfe und Hitzeschutz - zurückgestellt
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage der Fraktionen SPD und Die Linke: Heizkostennachforderungen für Nichtleistungsempfänger - Sache ist erledigt
+- TOP -: Beantwortung: Heizkostennachforderungen für Nichtleistungsempfänger*innen (AN/1620/2022) - Kenntnis genommen
+- TOP 10.2.2: Anfrage der Fraktionen Grüne, CDU, Volt: Auflösung Gemeinschaftsunterkünfte - zurückgestellt
+- TOP 10.2.3: Anfrage der Fraktion AfD: Hilfe für Obdachlose in Köln - zurückgestellt
+- TOP 10.2.4: Anfrage der Fraktion AfD: Unterstützung von Sea Eye - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Evaluation der kommunalen Seniorenprogramme der Stadt Köln - Kenntnis genommen
+- TOP 12.2: Kölner Statistische Nachrichten 7/2022 – Auswertung der Bautätigkeitsstatistik 2021 - Kenntnis genommen
+- TOP 12.3: Bevölkerungsentwicklung 2021 - Rückgang der Bevölkerungszahl durch sinkende Zuzüge - Kenntnis genommen
+- TOP 12.4: Projekt "Zukunft Pflege Köln" - Sachstand - zurückgestellt
+- TOP 12.5: Sonderausgabe des Stadtmagazins KölnerLeben - Kenntnis genommen
+- TOP 12.6: Winterhilfe 2022/2023 und Hitzeschutz 2022 - Kenntnis genommen
+- TOP 12.7: Sachstand 3. Frauenhaus - Kenntnis genommen
