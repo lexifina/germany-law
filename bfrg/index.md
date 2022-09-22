@@ -1,5 +1,4 @@
-# Gesetz über die Errichtung eines Bundesinstitutes für
-Risikobewertung
+# Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung
 
 - [§ 1 Rechtsform, Name](0001.md)
 - [§ 2 Tätigkeiten](0002.md)

@@ -166,7 +166,7 @@ Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risi
     • Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
     • Querströmungen
   b) die hydromorphologischen Eigenschaften dieses Wasserstraßenabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über die örtlichen Gegebenheiten bezüglich Geschiebebewirtschaftung und nicht gekennzeichnete Fehltiefen und -breiten.
-Teil VII. Rhein – von Rhein-km 769,00 (Krefeld) bis Rhein-km 857,40 (Spyck´sche Fähre/Grenze zu den Niederlanden)
+Teil VII. Rhein – von Rhein-km 769,00 (Krefeld) bis Rhein-km 857,40 (Spyck'sche Fähre/Grenze zu den Niederlanden)
 Zusätzliche Befähigung
 Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
 1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.

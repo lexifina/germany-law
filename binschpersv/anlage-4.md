@@ -2,7 +2,7 @@
 
 Einführung
 Der untersuchende Arzt sollte bedenken, dass es nicht möglich ist, eine umfassende Liste von Tauglichkeitskriterien zu erstellen, die alle möglichen Gesundheitsstörungen sowie deren Verschiedenartigkeit bei Auftreten und Prognose abdeckt.
-Die Grundsätze, die dem in der Tabelle angewandten Ansatz zugrunde liegen, können häufig auf Gesundheitsstörungen übertragen werden, die nicht von dieser Tabelle abgedeckt werden. Die Tauglichkeitsentscheidungen bei Vorliegen einer Gesundheitsstörung hängen von einer sorgfältigen klinischen Beurteilung und Analyse ab, wobei bei jeder Tauglichkeitsententscheidung die folgenden Punkte zu berücksichtigen sind:
+Die Grundsätze, die dem in der Tabelle angewandten Ansatz zugrunde liegen, können häufig auf Gesundheitsstörungen übertragen werden, die nicht von dieser Tabelle abgedeckt werden. Die Tauglichkeitsentscheidungen bei Vorliegen einer Gesundheitsstörung hängen von einer sorgfältigen klinischen Beurteilung und Analyse ab, wobei bei jeder Tauglichkeitsentscheidung die folgenden Punkte zu berücksichtigen sind:
 1. Medizinische Tauglichkeit, die die körperliche und psychische Tauglichkeit umfasst, bedeutet, dass die an Bord eines Fahrzeugs auf Binnenwasserstraßen tätige Person nicht an einer Krankheit oder Behinderung leidet, aufgrund deren sie nicht in der Lage ist, die folgenden Tätigkeiten zu verrichten:
   a) die für den Betrieb des Fahrzeugs notwendigen Aufgaben auszuführen;
   b) die ihr zugewiesenen Aufgaben jederzeit zu erfüllen;

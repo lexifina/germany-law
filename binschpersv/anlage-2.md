@@ -7,6 +7,6 @@
   2.1 der Zufahrt zum Industriehafen Magdeburg (Elbe-km 332,75) und dem Rothenseer Verbindungskanal (Elbe-km 333,65) sowie
   2.2 der Hohnstorfer Brücke (Elbe-km 568,90) und der Einmündung des Elbeseitenkanals (Elbe-km 573,50)
 3. Rhein:
-  von Rhein-km 352,07 (Grenze zu Frankreich) bis Rhein-km 857,40 (Spyck´sche Fähre/Grenze zu den Niederlanden)
+  von Rhein-km 352,07 (Grenze zu Frankreich) bis Rhein-km 857,40 (Spyck'sche Fähre/Grenze zu den Niederlanden)
 4. Weser:
   von km 000,00 (Hann. Münden) bis km 204,47 (Minden)

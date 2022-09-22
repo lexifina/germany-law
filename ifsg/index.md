@@ -55,7 +55,6 @@
 - [§ 27 Gegenseitige Unterrichtung](0027.md)
 - [§ 28 Schutzmaßnahmen](0028.md)
 - [§ 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19)](0028a.md)
-- [§ 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epedemischer Lage von nationaler Tragweite](0028a-2.md)
 - [§ 28b Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19), Verordnungsermächtigung](0028b.md)
 - [§ 28c Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen](0028c.md)
 - [§ 29 Beobachtung](0029.md)
