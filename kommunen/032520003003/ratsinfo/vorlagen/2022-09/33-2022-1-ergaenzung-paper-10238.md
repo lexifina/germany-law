@@ -1,0 +1,30 @@
+# Antrag der Fraktion Bad Pyrmont INTAKT auf Errichtung eines Jugendzentrums in der Stadt Bad Pyrmont
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 33/2022 1. Ergänzung
+- Art: Antrag
+- Datum: 2022-09-22
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbBgs06AUK14DA-xuHa2GTo
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10238
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Antrag (Antrag der Fraktion Bad Pyrmont INTAKT auf Errichtung eines Jugendzentrums in der Stadt Bad Pyrmont) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc1FIWfB13keSHRWK9-pus9Df691lGq4qd1Lc-oDi64c/Antrag_33-2022_1._Ergaenzung.pdf
+- Anlage: Antrag (65 INTAKT - Jugendzentrum zur Vorlage 1/2021) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ1JDgI1dhHq6YMwUhK1OyxaZPsWlmJGKeqHhOTpAVn3/65_INTAKT_-_Jugendzentrum_zur_Vorlage_1-2021.pdf
+- Anlage: Antrag (Fragebogen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXfuaaVvqCDBqiI5VkqqiMV4VLiWSNtaTdxPRkeN0zQk/Fragebogen.pdf
+- Anlage: Antrag (jugendtreffpunkte-grundauswertung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVhhlmMF_ds4949x7ejbp52jMtUQzVwB9Awx8OmauQUQ/jugendtreffpunkte-grundauswertung.pdf
+- Anlage: Antrag (jugendtreffpunkte-12-14jährige ohne außerhalb) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQMqvry3Vwm4Oem6lyQfKj7XKjEn9GKYYLme65vk1hk1/jugendtreffpunkte-12-14jaehrige_ohne_ausserhalb.pdf
+- Anlage: Antrag (jugendtreffpunkte-15-16 Jahre) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQaSFDgGkMdU-TvYOVzssid6zLaYl67Ndu4ckUsLffJh/jugendtreffpunkte-15-16_Jahre.pdf
+- Anlage: Antrag (jugendtreffpunkte-17-18 Jahre) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYXQTvI6cnPrgw8HaSGkEaLCRBJ6bxNSSfNIViEQdTfy/jugendtreffpunkte-17-18_Jahre.pdf
+- Anlage: Antrag (jugendtreffpunkte-19-20 jährige) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZEoo3PP10xe-n-5dYBwGZdanf2QIys7OQFWvCm-FZGQ/jugendtreffpunkte-19-20_jaehrige.pdf
+- Anlage: Antrag (jugendtreffpunkte-divers) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWjFSIVxcDH38z8RB2w0NBZucMrg73dBts_uP6hKZbOX/jugendtreffpunkte-divers.pdf
+- Anlage: Antrag (Jugendtreffpunkte-männlich) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW1tAFrxoQblVCas4D2PHHsFCrWdUxtVeudCGLNQnFQ8/Jugendtreffpunkte-maennlich.pdf
+- Anlage: Antrag (jugendtreffpunkte-weiblich) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVUk2I9drQEYVrlxndGnsBAfoWOrFB19X_epMGZVOmEP/jugendtreffpunkte-weiblich.pdf
+- Anlage: Antrag (Jugendtreffpunkte Bad Pyrmont) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfM5hlqPu12HLiPYM8oGYihUOITDFFli8G7ap6uGPmx6/Jugendtreffpunkte_Bad_Pyrmont.pdf
+- Anlage: Antrag (Jugendtreffpunkte-Bergdörfer) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWGeeWnh9YVVhAOFEdJeCtqnpy6pY4nz8Hynz8h8Lwi1/Jugendtreffpunkte-Bergdoerfer.pdf
+- Anlage: Antrag (Jugendtreffpunkte-Hagen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZmldk-A3X0XXOtXKBSj0U_3fHmWiStSumn__gQaiHyD/Jugendtreffpunkte-Hagen.pdf
+- Anlage: Antrag (jugendtreffpunkte-Holzhausen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdo4Ea3iMgdMJ-sej5amQfkGwKo3_KP9oCEkhlrEBwYr/jugendtreffpunkte-Holzhausen.pdf
+- Anlage: Antrag (jugendtreffpunkte-Löwensen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUa7ImDYyTiTMtZkYQqqWijyKqF-agN94H0e2Mxeyo-I/jugendtreffpunkte-Loewensen.pdf
+- Anlage: Antrag (Jugendtreffpunkte-Thal) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY_uJ9LsjDg4vjQTNfgkPypEyYm9W2ImaNaaFGOjxfnZ/Jugendtreffpunkte-Thal.pdf
+- Anlage: Antrag (jugendtreffpunkte-grundauswertung 1) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd7HrxelXLFxnAc6cHYbw7MvOQlrxylVRP6KG0WynJ_Y/jugendtreffpunkte-grundauswertung_1.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20730 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-41
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20732 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-41
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-198
