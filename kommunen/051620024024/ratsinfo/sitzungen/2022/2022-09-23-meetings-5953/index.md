@@ -1,0 +1,101 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-09-23T16:00:00+02:00
+- Ende: 2022-09-23T22:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5953
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5953
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 23.09.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00171317.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 23.09.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00171317.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 23.09.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00171317.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Ausschuss für Soziales, Inklusion und demografische Entwicklung
+- TOP 5: Mietspiegelreformgesetz - einstimmig zugestimmt
+- TOP -: Betriebsausschuss GMN
+- TOP 6: Jahresabschluss zum 31.12.2021 sowie Lagebericht für das Wirtschaftsjahr 2021 des Gebäudemanagements der Stadt Neuss (GMN) - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VIII - Rosellen
+- TOP 7: Aufhebung der Vorkaufsrechtssatzung Nr. 14 "Am Schwarzen Graben" - Antrag des Bezirksausschusses VIII - Rosellen
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 8: Standentgeltentwicklung im Bereich Kirmessen und Märkte - Kostendeckungsgrad - mehrheitlich zugestimmt
+- TOP -: Finanzausschuss
+- TOP 9: Genehmigung von außerplanmäßigen Aufwendungen für die Landesgartenschau 2026 - einstimmig zugestimmt
+- TOP -: Rechnungsprüfungsausschuss
+- TOP 10: Überörtliche Prüfung der Bereiche Haushaltssteuerung, Beteiligungen, Hilfen zur Erziehung, Bauaufsicht und Verkehrsflächen 2021 - einstimmig zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 11: Weberstraße, Verbreiterung der Nebenanlagen im Zuge der Erneuerung des Eisenbahnüberführungsbauwerkes - einstimmig zugestimmt
+- TOP -: Bezirksausschuss IV - Holzheim
+- TOP 12: Standort des Löschzuges 17 - Holzheim - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 13: 1. Änderung des Flächennutzungsplanes - Hammfeld II (West), Fahrradfachmarkt - - einstimmig zugestimmt
+- TOP 14: Bebauungsplan Nr. 120/23 - Weckhoven, Weckhovener Straße / Am Tennisplatz (Kita) - - einstimmig zugestimmt
+- TOP 15: Bebauungsplan Nr 508 - Furth, Geulenstraße (Bushaltestelle mit Mobilstation) - einstimmig zugestimmt
+- TOP 16: ISEK Bahnhofsumfeld - Anmeldung von Einzelmaßnahmen des Freiraumkonzeptes zum Städtebauförderungsprogramm 2023 - einstimmig zugestimmt
+- TOP 17: Radschnellweg Neuss-Düsseldorf-Langenfeld (RS 5): Bestätigung der Linienführung bzw. des Planungskonzeptes im Abschnitt bis einschließlich des Knotenpunktes Hammer Landstraße / Langemarckstraße - einstimmig zugestimmt
+- TOP 18: Regionetzwerk rund um Düsseldorf - Aufnahme der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 19: Einbindung Gestaltungsbeirat in die Landesgartenschau - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 20: Feststellung des Jahresabschlusses der Städtischen Friedhöfe Neuss (SFN) zum 31.12.2021 - einstimmig zugestimmt
+- TOP 21: Änderung der Baumschutzsatzung - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 22: Zuschüsse Kassensysteme Mensen - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 23: Feststellung des Jahresabschlusses des Tiefbaumanagements der Stadt Neuss zum 31.12.2021 - einstimmig zugestimmt
+- TOP 24: Wiesenstraße: Erneuerung der Fahrbahn - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 25: Bebauungsplan Nr. 473/1 - Hoisten, Schluchenhausstraße (Kreisverkehr) - einstimmig zugestimmt
+- TOP 26: Bebauungsplan Nr. 456 - Rheintorstraße / Düsseldorfer Straße - einstimmig zugestimmt
+- TOP 27: Heimat-Preis 2022 - einstimmig zugestimmt
+- TOP 28: 17. Konferenz der Ratsmitglieder im Städtetag NRW am 07.12.2022 - einstimmig zugestimmt
+- TOP 29: Einbringung des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Jahr 2023 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 30: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Trinkwasserbrunnen für Neuss - mehrheitlich abgelehnt
+- TOP 31: Antrag der CDU-Fraktion betr.: Raser und Autoposer mit Lärmblitzern ausbremsen - verwiesen
+- TOP 32: Antrag der CDU-Fraktion betr.: Bau eines automatisierten Fahrradparkhauses auf dem Theodor-Heuss-Platz - beraten ohne Abstimmung
+- TOP 33: Antrag der CDU-Fraktion betr.: Luftschutzanlagen in Neuss - Zustand und mögliche Nutzung als Fahrradparkhäuser - mehrheitlich abgelehnt
+- TOP 34: Antrag der CDU-Fraktion betr.: Sachstand Bahnhofswache - verwiesen
+- TOP 35: Antrag der CDU-Fraktion betr.: Nach Neuaufstellung des Gebäudemanagements - Sanierungsstau an Schulen und Kitas endlich auflösen - verwiesen
+- TOP 36: Antrag der CDU-Fraktion betr.: Welche Rolle sollen die Bezirksausschüsse einnehmen? - verwiesen
+- TOP 37: Antrag der CDU-Fraktion betr.: Bau einer neuen Rheinbrücke - beraten ohne Abstimmung
+- TOP 38: Antrag der CDU-Fraktion betr.: Römisches Erbe endlich sichtbar und erlebbar machen - verwiesen
+- TOP 39: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Kreislaufwirtschaft bei Baustoffen - einstimmig zugestimmt
+- TOP 40: Antrag der CDU-Fraktion betr.: Energiekrise - Arbeitsplätze in Neuss sichern, Unternehmen unterstützen
+- TOP 41: Antrag der CDU-Fraktion betr.: Für Anwohner, Gäste und Gewerbetreibende - Straßbenmöblierung an der Sebastianusstraße und am Glockhammer anpassen, Attraktivität der Innenstadt erhöhen - mehrheitlich abgelehnt
+- TOP 42: Antrag der CDU-Fraktion betr.: Energiekrise II - Gemeinsam mit unseren sozialen Einrichtungen und Kita-Trägern durch die Energiekrise kommen - verwiesen
+- TOP 43: Antrag der CDU-Fraktion betr.: Für Bezahlbarer Wohnraum - Förderung des Landes beim Ankauf von Belegungsrechten prüfen - einstimmig zugestimmt
+- TOP 44: Antrag der CDU-Fraktion betr.: Chancengerechtigkeit und Integration nicht gefährden - Aus für Sprachkitas verhindern - mehrheitlich abgelehnt
+- TOP 44.1: Antrag der Linke / Tierschutz - Fraktion betr.: Kinder- und jugendgerechte Landesgartenschau Neuss - verwiesen
+- TOP 44.2: Antrag der Linke / Tierschutz - Fraktion betr.: Neuwahl der Ausschussbesetzungen der Ratsausschüsse - beraten ohne Abstimmung
+- TOP 44.3: Dringlichkeitsantrag der CDU-Fraktion betr.: Erneuter Brand auf dem Schrottplatz am Holzbüttgener Weg - Der Schrottplatz muss weg! - beraten ohne Abstimmung
+- TOP 44.4: Dringlichkeitsantrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Brand in der Umgebung des ehemaligen Schrottplatzes zwischen Neuss und Kaarst - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 47: Bericht über die Geschäftsvorfälle im Zusammenhang mit Schutzsuchenden aus der Ukraine - zur Kenntnis genommen
+- TOP 48: Blindeisenweg: Bericht über die (virtuelle) verbindliche Anliegerversammlung - zur Kenntnis genommen
+- TOP 49: Vorkaufsrechtsatzung 14 - Rosellen, Am Schwarzen Graben - zur Kenntnis genommen
+- TOP 50: Wirtschaftsplan GMNS GmbH - Eckpunkte zum Aufstellungsverfahren - zur Kenntnis genommen
+- TOP 51: 42. Internationaler Hansetag 2022 - zur Kenntnis genommen
+- TOP 52: Landesgartenschau Neuss 2026 und Verkehrsprojekte - zur Kenntnis genommen
+- TOP 53: Sitzungskalender des Rates und der Ausschüsse für das Jahr 2023 - zur Kenntnis genommen
+- TOP 54: Änderungen in der Organisation der Verwaltung - Geschäfts- und Dezernatsverteilungsplan zum 01.10.2022 - zur Kenntnis genommen
+- TOP 55: Bericht zur Hilfe für Geflüchtete in Neuss sowie zur aktuellen sozialen Lage - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
