@@ -1,0 +1,56 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-09-23T16:00:00+02:00
+- Ende: 2022-09-23T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21821
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21821
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 SItzung ö 23.09.2022_Stand 23.09.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00461315.pdf
+- Ergebnisprotokoll: BV9 SItzung ö 23.09.2022_Stand 23.09.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00461315.pdf
+- Wortprotokoll: BV9 SItzung ö 23.09.2022_Stand 23.09.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00461315.pdf
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 09.09.2022 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 26.08.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Maßnahmen zur Verkehrsverbesserung an den aufeinanderfolgenden Kreuzungen: 1) Einsiedel-/Rheinstahl-/Schimmelpfennigstr. und 2) Paulsmühlen-/Einsiedelstr./Am Wald - vertagt
+- TOP 5.2: Ankauf und Aufstellung des Kunstwerkes „Wächter“ von Anatol Herzberg - Vorlage der Bezirksverwaltungsstelle - - mehrheitlich beschlossen
+- TOP 5.3: Schöne Aussicht (Strukturverbesserung) (I-2020414005) - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 5.4: Sitzungstermine der Bezirksvertretung 9 im Jahr 2023 - zur Kenntnis genommen
+- TOP 5.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 , Liste A (Schulen) - einstimmig beschlossen
+- TOP 5.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Listen B - einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Anpassung der Bus- und Bahnverbindungen während der Ausbaumaßnahmen zum RXX - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Offenes Rathaus am 29.10.2022 - Bezirksvertretung 9 - einstimmig beschlossen
+- TOP 9.2: St.-Cäcilia-Schule - Zirkusprojekt "Manege frei! Circus in der Schule" - einstimmig beschlossen
+- TOP 9.3: Martinsfreunde Wersten e.V. - Martinstüten 2022 - einstimmig beschlossen
+- TOP 9.4: Bürgerhaus Reisholz - Kinder machen Kultur - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 11: Haushaltsberatung
+- TOP 11.1: WLAN in Bürgerhäusern - Haushaltsbegleitantrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 11.2: Baumstandorte Heubesstraße - Haushaltsbegleitantrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 11.3: Identifizierung weiterer Standorte für Neu- und Ersatzpflanzungen von Stadtbäumen und Büschen oder Hochbeeten im Stadtbezirk 9 - Haushaltsbegleitantrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 11.4: Trinkwasserbrunnen am Benrather Marktplatz - Haushaltsbegleitantrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
