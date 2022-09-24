@@ -103,6 +103,7 @@ des Grundgesetzes](0031.md)
 
 - [§ 36 Zuweisung der Vorlagen](0036.md)
 - [§ 37 Tagungsort, Öffentlichkeit, Anwesenheitsliste](0037.md)
+- [§ 37a Zulässigkeit von Ausschusssitzungen als Videokonferenz aus wichtigem Grund](0037a.md)
 - [§ 38 Einberufung, Leitung, Tagesordnung](0038.md)
 - [§ 39 Beratung](0039.md)
 

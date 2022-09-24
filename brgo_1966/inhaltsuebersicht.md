@@ -51,6 +51,7 @@
 | IV. Das Verfahren in den Ausschüssen |  |
 |  |  |  | Zuweisung der Vorlagen | § 36 |
 |  |  |  | Tagungsort, Öffentlichkeit, Anwesenheitsliste | § 37 |
+|  |  |  | Zulässigkeit von Ausschusssitzungen als Videokonferenz aus wichtigem Grund | § 37a |
 |  |  |  | Einberufung, Leitung, Tagesordnung | § 38 |
 |  |  |  | Beratung | § 39 |
 |  |  |  | Teilnahme und Fragerecht | § 40 |
