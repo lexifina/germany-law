@@ -175,7 +175,7 @@ Berechnung, Kapitalisierung
   Die verlängerte theoretische Nutzungsdauer berücksichtigt die vorzeitige Erneuerung der baulichen Anlage durch die Änderung des nicht erhaltungspflichtigen Beteiligten. Die verlängerte theoretische Nutzungsdauer ist zu ermitteln nach der Formel:
   mv = m ∙ 1,1
   Die verlängerte theoretische Nutzungsdauer ist auf volle Jahre kaufmännisch zu runden.
-  Wird durch die Änderung des nicht erhaltungspflichtigen Beteiligten eine vorgesehene Erneuerungsmaßnahme des Erhaltungspflichtigen zu einer Änderungsmaßnahme, so sind die Restnutzungsdauer der alten baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten baulichen Anlagealt mit der theoretischen Nutzungsdauer m nach Nummer 2.5 zu ermitteln.
+  Wird durch die Änderung des nicht erhaltungspflichtigen Beteiligten eine vorgesehene Erneuerungsmaßnahme des Erhaltungspflichtigen zu einer Änderungsmaßnahme, so sind die Restnutzungsdauer der alten baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten baulichen Anlage Ealt mit der theoretischen Nutzungsdauer m nach Nummer 2.5 zu ermitteln.
 2.7 Restnutzungsdauer
   Die Restnutzungsdauer n ist unabhängig vom tatsächlichen Zustand der baulichen Anlage stets die Anzahl der Jahre vom Zeitpunkt der Ablösung bis zur nächsten fälligen theoretischen Erneuerung. Nach Ablauf der theoretischen Nutzungsdauer ist die Restnutzungsdauer mit Null anzusetzen.
   Wird bei der Ermittlung der Erneuerungskosten nach Nummer 3.1 eine nach Unterbau und Überbau gegliederte Brücke im Fiktiventwurf beispielsweise durch ein Rahmenbauwerk ersetzt, so ist eine gemeinsame Restnutzungsdauer aus den Restnutzungsdauern von Unterbau und Überbau abzuleiten.
@@ -447,7 +447,7 @@ Bundeswasserstraßen und sonstigen schiffbaren Gewässern
 | 10.7.5.1 | aus Kunststoff | 30 | 0 |
 | 10.7.5.2 | aus Beton | 50 | 0 |
 | 10.7.6 | Induktionsschleifen | 7 | 0 |
-| 10.7.7 | Infrarotdetektoren | 15 | 0 |
+| 10.7.7 | Infrarotdetektoren | 15 | 1 |
 | 10.7.8 | Radardetektoren | 10 | 1 |
 | 10.7.9 | Videokameras | 10 | 2 |
 | 10.8 | Verkehrsbeeinflussungsanlagen | 15 | 6 |
