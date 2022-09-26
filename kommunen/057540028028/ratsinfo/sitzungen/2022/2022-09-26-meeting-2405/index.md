@@ -1,0 +1,57 @@
+# Rat der Stadt Rheda-Wiedenbrück (13. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2022-09-26T17:00:00+02:00
+- Ende: 2022-09-26T20:30:00+02:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRi-6v6AirvGbHu78s7eb8M
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2405
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUSNjBhyJwMlBFrREGIbAVlEqRp1mdnHOMt9VnF8_JRu/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_26.09.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIdDVnboAqSoWdqeTBEAM1ewnf-NIhk-VHWEENCB4r7/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_26.09.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 3: Erklärung von Ausschließungsgründen
+- TOP 4: Einführung und Verpflichtung des nachrückenden Ratsmitgliedes Elisabeth Frenser
+- TOP 5: Planungsstand zur Brüder-Grimm-Schule
+- TOP 6: Antrag des Kleingartenvereins Wiedenbrück e.V. auf Fördermittel für die Sanierung der Anlage - Einstimmig
+- TOP 7: Umbesetzungen in den Ausschüssen des Rates sowie in sonstigen Gremien - Einstimmig
+- TOP 7.1: Umbesetzungen in den Ausschüssen des Rates sowie in sonstigen Gremien - Einstimmig
+- TOP 8: Befreiung vom Gesamtabschluss nach § 116a Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) - Einstimmig
+- TOP 9: Jahresabschluss 2021: Einbringung des Entwurfes gem. § 95 GO NRW - Einstimmig
+- TOP 10: Betrieb Bauhof: Prüfung des Jahresabschlusses und des Lageberichtes zum 31.12.2021 einschließlich Entlastungen - Bericht der WIKOM AG, Essen - Einstimmig
+- TOP 11: EAW: Jahresabschlussbericht und Lagebericht zum 31.12.2021 - Einstimmig
+- TOP 12: EAW: Auswirkung des OVG-Urteils vom 17.05.2021 auf die Gebührenkalkulation - Einstimmig
+- TOP 13: EAW: Stellenplanänderung - zwei neue Ausbildungsstellen - Einstimmig
+- TOP 14: Überplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 010801 - Einstimmig
+- TOP 15: Finanzcontrolling - Managementbericht zum 31. August 2022 - Kenntnisnahme
+- TOP 16: Bericht finanzielle Auswirkung der Ukraine-Krise - Stichtag 30.06.2022 - Kenntnisnahme
+- TOP 17: Einbringung des Entwurfes der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2023 - Einstimmig
+- TOP 18: Jahresabschluss 2021: Einbringung des Entwurfes gem. § 95 GO NRW
+- TOP 19: Energetische Quartierskonzepte - 36 Ja-Stimme(n), 4 Enthaltung(en)
+- TOP 20: Förderprogramm „Aktiv für Klimaschutz in Rheda-Wiedenbrück“
+- TOP 20.1: Förderprogramm „Aktiv für Klimaschutz in Rheda-Wiedenbrück“ - 21 Ja-Stimme(n), 18 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 21: Teilnahme am Bundesprogramm "Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur“ - Einstimmig
+- TOP 22: Schule und digitale Bildung - Aktualisierung der Medienentwicklungsplanung (MEP) für die städtischen Schulen - Einstimmig
+- TOP 23: Änderung der Satzung über die Erhebung von Beiträgen nach § 8 KAG für straßenbauliche Maßnahmen der Stadt Rheda-Wiedenbrück (Straßenbaubeitragssatzung) - Einstimmig
+- TOP 24: Erlass einer Außenbereichssatzung im Bereich Wösteweg Beratung über die zur Offenlage eingegangenen Anregungen Satzungsbeschluss - Einstimmig
+- TOP 25: Erlass einer Außenbereichssatzung im Bereich der Wienickenstraße Beratung über die zur Offenlage eingegangenen Anregungen Satzungsbeschluss - Einstimmig
+- TOP 26: Bebauungsplan Nr. 422 "Wasserkampstraße / Hüfferstraße" Satzungsbeschluss - Einstimmig
+- TOP 27: Integriertes Stadtentwicklungskonzept „Historischer Stadtkern Wiedenbrück+“ - Einstimmig
+- TOP 28: Baulandrichtlinie für Rheda-Wiedenbrück - 39 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 29: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 30: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 31: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 32: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 33: Erklärung von Ausschließungsgründen
+- TOP 34: Vertragsangelegenheit - Einstimmig
+- TOP 35: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 36: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 37: Dringende Anfragen und Anregungen
