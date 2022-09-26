@@ -1,0 +1,59 @@
+# 13. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-09-26T15:07:00+02:00
+- Ende: 2022-09-26T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25131
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25131
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Vorgezogenes Interim: Gesamtschule Fitzmauricestraße - zurückgestellt
+- TOP -: A Gast- und Rederecht für Mitglieder*innen der Bezirksschüler*innenvertretung (BSV)
+- TOP -: Gast- und Rederecht für Vertreter*Innen den Bezirksschüler*innenvertretung (BSV) - ungeändert beschlossen
+- TOP -: B Bericht zur aktuellen Lage der Ukraine-Geflüchteten - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: „Mixed-Kampagne" zu den Themen „Gewalt an Männern“ und „Aufklärung für Jungen im Bereich Sexualität, Konfliktverhalten, Grenzwahrnehmung" - Kenntnis genommen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Sachstand zum Fertigstellungstermin bei den Heliosschulen - Kenntnis genommen
+- TOP 2.2: Neubau des Hölderlin-Gymnasiums an der Graf-Adolf-Straße - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln - zurückgestellt
+- TOP -: Zur Entwicklung des Helene-Weber-Platzes als zukünftigen Gesamtschulstandort - zurückgestellt
+- TOP 3.2: Schulbescheinigungen für volljährige Schüler*innen automatisch übermitteln - endgültig zurückgezogen
+- TOP -: Schulbescheinigung für volljährige Schüler*innen automatisch übermitteln - Kenntnis genommen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Schuleingangsuntersuchungen - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage zu Schuleingangsuntersuchungen (AN/1406/2022) für das Schuljahr 2022/23 - Kenntnis genommen
+- TOP 5.2: Unzureichende Anzahl Schulplätze - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1273/2022 - Unzureichende Schulplätze in Köln - Kenntnis genommen
+- TOP 5.3: Verschiedene Aspekte der Inklusionsentwicklung an Kölner Schulen - zurückgestellt
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Beantwortung einer Anfrage zur Energieversorgung der Schulgebäude im Winter; hier: Wasserqualität - Anfrage von SB Hauser aus der Sitzung vom 22.08.2022 - Kenntnis genommen
+- TOP 5.6: Beantwortung einer Anfrage: Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 5.7: Elternbroschüre Inklusive Bildung an Kölner (Grund-) Schulen - Kenntnis genommen
+- TOP 5.8: Beantwortung mündlicher Anfragen aus der Sitzung des Ausschusses Schule und Weiterbildung vom 22.08.2022 - Kenntnis genommen
+- TOP 5.9: Beantwortung einer Anfrage zum Positionspapier ‚Identität stärken - natürliche Mehrsprachigkeit fördern!‘1017/2022 - Kenntnis genommen
+- TOP 6: Empfehlungen (Beschlussorgan Rat oder andere Ausschüsse)
+- TOP 6.1: Konzept Kommunaler Fonds Kulturelle Bildung - ungeändert empfohlen
+- TOP 6.2: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung der erneuerten Mikrobiologieräume für das Berufskolleg16, Kartäuserwall 30, 50676 Köln im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltjahr 2022. - ungeändert empfohlen
+- TOP 6.3: Abbruch des Schulgebäudes der Gemeinschaftsgrundschule Antwerpener Straße 19-29, Köln-Neustadt/-Nord - ungeändert empfohlen
+- TOP 6.4: Errichtung eines Neubautraktes, Generalinstandsetzung und Neubau von sechs Sporthalleneinheiten für das Gymnasium Kreuzgasse, Vogelsanger Str. 1, 50672 Köln durch Totalunternehmen - Erweiterter Planungsbeschluss und Baubeschluss - ungeändert empfohlen
+- TOP 6.5: Schulrechtliche Errichtung einer Gesamtschule am Standort Helene-Weber-Platz im Stadtteil Neubrück zum Schuljahr 2023/24 bei gleichzeitiger auslaufender Schließung der Kurt-Tucholsky-Schule - zurückgestellt
+- TOP 7: Entscheidungen (Beschlussorgan Ausschuss Schule und Weiterbildung)
+- TOP 7.1: Beauftragung eines Musikschulentwicklungsplans - Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - geändert beschlossen
+- TOP 7.2: Anmeldung und Aufnahmeverfahren zu den weiterführenden Schulen der Sekundarstufe I in Köln zum Schuljahr 2023/24 - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 7.2, 3102/2022, „Anmeldung und Aufnahmeverfahren zu den weiterführenden Schulen der Sekundarstufe I in Köln zum Schuljahr 2023/24“ auf der Sitzung des Ausschusses für Schule und Weiterbildung am 26.9.2022 - endgültig zurückgezogen
+- TOP 7.3: Livestreaming der Sitzungen des Ausschusses Schule und Weiterbildung - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Sicherer Schulweg für die Heliosschule - Kenntnis genommen
+- TOP 8.2: 1. Sitzung des Begleitgremiums zum kommunalen Kinder- und Jugendförderplans der Stadt Köln 2021-2025 - Kenntnis genommen
+- TOP 8.3: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 8.4: Verbesserung der Verpflegungsqualität des Mittagessens an Kölner Schulen - Kenntnis genommen
+- TOP 8.5: Baulicher Zustand der Lehrschwimmbecken in Köln - zurückgestellt
+- TOP 9: Mündliche Anfragen
