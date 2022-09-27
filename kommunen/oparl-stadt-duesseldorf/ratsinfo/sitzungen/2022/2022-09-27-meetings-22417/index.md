@@ -1,0 +1,74 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-09-27T17:00:00+02:00
+- Ende: 2022-09-27T19:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22417
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22417
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00461064.pdf
+- Ergebnisprotokoll: 1. Nachtrag Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00461064.pdf
+- Wortprotokoll: 1. Nachtrag Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00461064.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 30.08.2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und -berichte
+- TOP 4.1: Weihnachtsmarkt auf dem Vorplatz der Düsseldorf Arcaden in Unterbilk im Jahre 2022 - einstimmig beschlossen
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 6.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2022 - abweichend beschlossen
+- TOP 7: Beratung Haushaltsentwurfs 2023 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2023 für den Stadtbezirk 3
+- TOP 7.1: Haushalt 2023: Verwendung der bezirksbezogenen Haushaltsmittel (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.2: Haushalt 2023: Abenteuerspielplatz im Stadtbezirk 03 (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.3: Haushalt 2023: Modernisierung von Fahrrad- und Scooter-/Rollerabstellanlagen an Schulen (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.4: Haushalt 2023: Verkehrskonzept Bachplätzchen (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.5: Haushalt 2023: Hitzeschutz an öffentlichen Plätzen und Spielplätzen (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.6: Haushalt 2023: Planungsmittel Umbau Karolingerplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.7: Haushalt 2023: Mintropplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.8: Haushalt 2023: Neugestaltung Kirchplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.9: Haushalt 2023: Überplanung Ortsumgehung Oberbilk (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.10: Haushalt 2023: Haushaltsmittel der BV3 - Mittelübertragung (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - abweichend beschlossen
+- TOP 7.11: Haushalt 2023: Sichere Schulwege (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.12: Haushalt 2023: Fahrradzone (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.2: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.3: Neugestaltung des südlichen Kirchplatzes - Kinderspielplatz hinter der Kirche (Anfrage CDU-Fraktion) - vertagt
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.7: Baucontainer Neusser Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.8: Fahrradfreundlicher Ausbau des nordwestlichen und zentralen Bereiches der Kreuzung Witzelstr./Moorenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.9: Verschmutzungen am Paradiesstrand, Rheinufer (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.10: Litfaßsäulen (Anfrage SPD) - vertagt
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.3: Wildnis-Treff für Kinder ab 8 Jahren im Stadtbezirk 3 (Anfrage SPD - Fraktion) - vertagt
+- TOP 8.2.4: Mobilitätsstationen (Anfrage SPD - Fraktion) - vertagt
+- TOP 9: Anträge
+- TOP 9.1: Abriss der Konstruktion - offene Terrasse auf der Heinz-Schmöle-Straße 10 (Antrag Fr. Blinova - AfD) - zurückgezogen
+- TOP 9.2: Bolzplätze (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 9.3: Aufenthaltsqualität verbessern an der Karolingerstraße zwischen Planeten- und Brunnenstraße durch Parkbänke (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 10.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 10.3: Angsträume beseitigen - Beleuchtung schaffen - zur Kenntnis genommen
+- TOP 10.4: Verbesserung der Überquerung über die Schmiedestraße - zur Kenntnis genommen
+- TOP 10.5: KITA Fahrradständer - Flügelstraße 21 - zur Kenntnis genommen
+- TOP 10.6: Sitzungstermine 2023 - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
