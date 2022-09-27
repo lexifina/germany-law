@@ -1,0 +1,58 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-09-27T17:00:00+02:00
+- Ende: 2022-09-27T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22233
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22233
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket 27.09.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460668.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket 27.09.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460668.pdf
+- Wortprotokoll: digitales Sitzungspaket 27.09.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460668.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 13.09.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2.1: Genehmigung der öffentlichen Niederschrift vom 30.08.2022 - einstimmig beschlossen
+- TOP 3: Haushaltsentwurf 2023 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2023 für den Stadtbezirk 7 - - einstimmig beschlossen
+- TOP 3.1: Haushalt 2023: Haushaltsantrag Planungsmittel für eine Barrierefreie Unterführung am Gerresheimer Bahnhof - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Erhaltungssatzung Nr. 07/009 - Dreifaltigkeitsstraße - Empfehlung einstimmig beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Quadenhofstraße 151, Friedhof Gerresheim, Gesamtsanierung der Unteren Kapelle - Änderungsbeschluss - - zur Kenntnis genommen
+- TOP 4.4: Weihnachtsmarkt auf dem Gerricusplatz im Jahre 2022 - einstimmig beschlossen
+- TOP 4.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, Liste A (Schulen), Haushalt 2022 - abweichend beschlossen
+- TOP 4.6: Verwendung von Haushaltsmitteln - abweichend beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Mehr Sicherheit für Radfahrende auf der Benderstraße - interfraktioneller Antrag - - einstimmig beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Sichere Querung der Straße: Nach den Mauresköthen/Zamenhofweg - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.4: Abstellmöglichkeiten für Fahrräder in der Dörpfeldstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Verkehrsführung während Baustelle „Haltestelle Pöhlenweg“ über Rennbahnstraße und Fahneburgstraße - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 6.3: Grundsätzliche Öffnung der Einbahnstraßen für Radverkehr gegen die vorgeschriebene Fahrtrichtung - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Weiteres Vorgehen der Gleisbauarbeiten am Gerresheimer S-Bahnhof - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 6.7: Bergische Landstraße zwischen den Straßen Am Bongard und Am Moschenhof - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Hochwasser-Schutzmauer Zweibrückenstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 8.2: Blühwiesen Synagogenweg/ Haltestelle Schönaustraße einrichten - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 8.3: Versenkbare Poller Fußgängerzone Gerresheim - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.4: Geräuschreduktion Gerricusplatz - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.5: Taktverdichtung der Buslinie 737 - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 8.6: Prozessstruktur Beteiligung Nahverkehrsplanung - Anregung der BV 7 zur Informationsvorlage OVA/067/2022 - - zur Kenntnis genommen
+- TOP 8.7: Hinweisschild Feuerwehr-Bewegungszone Pfeifferstraße - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.8: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.9: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
