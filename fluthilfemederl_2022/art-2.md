@@ -1,0 +1,6 @@
+# Art 2 Gestaltung
+
+(1)
+Das Ehrenzeichen hat die Form einer runden, silberfarbenen Medaille. Auf der Vorderseite ist der Bundesadler dargestellt. Der obere Teil der Vorderseite trägt die Angabe „Fluthilfe 2021“. Auf der Rückseite ist der Umriss der Bundesrepublik Deutschland abgebildet, darin zwei von Südwest und Nordost aufeinander gerichtete Hände. Der obere Teil der Rückseite trägt die Worte „Dank und Anerkennung“, der untere Teil der Rückseite die Worte „Bundesrepublik Deutschland“. Der dunkelblaue Mittelteil des Medaillenbandes ist beidseitig von den Bundesfarben schwarz-rot-gold eingefasst.
+(2)
+Die verkleinerte Form und der Bandsteg tragen die Farben des Medaillenbandes mit aufgesetzter verkleinerter Vorderseite der Medaille.

@@ -1,0 +1,4 @@
+# Art 1 Stiftung
+
+Als Dank und in Anerkennung für besonders aufopferungsvolle Hilfe bei der Rettung von Menschenleben, Abwehr von Gefahren und der Beseitigung von Schäden anlässlich der Hochwasserereignisse im Juli 2021 in der Bundesrepublik Deutschland stiften die Bundesministerin des Innern und für Heimat, die Bundesministerin der Verteidigung und der Bundesminister für Digitales und Verkehr für haupt- und ehrenamtliche Einsatzkräfte des Technischen Hilfswerkes, Angehörige der Bundespolizei, der Bundeswehr, des Bundeskriminalamtes, des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe, des Bundesamtes für Güterverkehr, der Bundesanstalt für Gewässerkunde und der Wasserstraßen- und Schifffahrtsverwaltung des Bundes sowie für Dritte aufgrund ihrer besonderen Verdienste in der Zusammenarbeit mit den Bundeskräften die
+Einsatzmedaille „Fluthilfe 2021“.
