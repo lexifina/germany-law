@@ -1,0 +1,110 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-09-27T17:00:00+02:00
+- Ende: 2022-09-27T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25644
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25644
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A- Prozessfortschritt von Anträgen und Anfragen der Bezirksvertretung Chorweiler
+- TOP -: B- Besetzung der Stelle Leitung des Bürgeramtes Chorweiler - ungeändert beschlossen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP -: Bürgereingabe gem. § 24 GO, betr.: Sanierung Weichselring (Az.: 02-1600-107-22) - geändert beschlossen
+- TOP -: Änderungsantrag zu "Bürgereingabe gem. § 24 GO, betr.: Sanierung Weichselring" - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Historischer Friedhof Esch
+- TOP 7.1.2: Installierung eines Wasser- und Stromanschlusses auf dem Platz in Auweiler
+- TOP 7.1.3: Sachstand Blumenbergsweg
+- TOP 7.1.4: Grünstreifen zwischen Liller Straße und Oxforder Passage / Eingang Hallenbad Chorweiler
+- TOP 7.1.5: Verkehrsführung auf dem Liverpooler Platz
+- TOP 7.1.6: Insel im Pescher See
+- TOP 7.1.7: Wochenmarkt Chorweiler
+- TOP 7.1.8: Raser auf der Brücke Mercatorstr/ Zubringer nach Pesch
+- TOP 7.1.9: SC Worringen
+- TOP 7.1.10: Anhäufungen von Sperrmüll auf öffentlichen Straßen im Kölner Norden
+- TOP 7.1.11: Alte Neusser Landstrasse 273 „Haus Worringen“ und zugehörige Liegenschaften in der Elkemannstrasse
+- TOP 7.1.12: Energiesicherheit für Fernwärme im Bezirk Chorweiler
+- TOP 7.1.13: Eröffnung Grundschule Volkhoven/Weiler
+- TOP 7.1.14: Regenerative Energie-Erzeugung im Bezirk Chorweiler
+- TOP 7.1.15: Parksituation am Asternweg in Seeberg
+- TOP 7.1.16: Kletterwand auf die Lyoner Passage an der Außenfassade am City Center
+- TOP 7.1.17: Straßen- und Wegekonzept 2022 bis 2026
+- TOP 7.1.18: Parkgelände Volkhoven/Weiler
+- TOP 7.1.19: Beschattung von Spielplätzen
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.20: Kataster für Ausgleichsflächen
+- TOP 7.1.21: Fehlende Beleuchtung auf der Neusser Landstraße in Fühlingen
+- TOP 7.1.22: Sicherheit der Brücken auf der Fritz-Wacker-Straße
+- TOP 7.1.23: Menstruationsartikel an Schulen im Bezirk
+- TOP 7.1.24: Spielplatz an der Merkenicher Ringstraße
+- TOP 7.1.25: Gewerbesteuer im Stadtbezirk Chorweiler
+- TOP -: Antwort der Verwaltung - als Tischvorlage - zurückgestellt
+- TOP 7.1.26: Nutzung des Schrottplatzes, Causemannstr Ecke Emdener Str.
+- TOP 7.1.27: Seilbahn im Kölner Norden
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.28: Klärschlammverbrennung
+- TOP 7.1.29: Heizungsausfall im städtischen Heinrich-Mann Gymnasium
+- TOP 7.1.30: Neubauprojekt ehemalige ev. Kirche Esch
+- TOP 7.1.31: Verwahrloste Grünfläche an der Johannes-Albers-Straße
+- TOP 7.1.32: Dächer des Einkaufszentrums Heimersdorf
+- TOP 7.1.33: Jobticket für Angestellte der Stadt Köln
+- TOP -: Antwort der Verwaltung Unter TOP N 12.1.1 - zurückgestellt
+- TOP 7.1.34: Unterbringung von Geflüchteten aus der Ukraine
+- TOP 7.1.35: Koordination der Autobahnbaustelle im Ortsteil Merkenich
+- TOP 7.1.36: Sachstandsanfrage zum Baugrundstückkataster für den Stadtbezirk Chorweiler
+- TOP 7.1.37: Umfahrungen der S-Bahn im Bezirk Chorweiler
+- TOP 7.1.38: Verteilung Corona Teststationen
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.39: Treppe am Merkenicher Damm Richtung Rheinauen und angrenzende Wegeführung in den Merkenicher Rheinauen unterhalb des Deiches
+- TOP 7.1.40: Einrichtung eines Grillplatzes bzw. einer Grillhütte in Köln-Langel
+- TOP 7.1.41: Veranstaltungsprogramm 2022 Fühlinger See
+- TOP 7.1.42: Sachstand Prüfung weiterer Fahrradverleihstationen
+- TOP 7.1.43: Freilaufende Rechtsabbieger im Stadtbezirk
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.44: Car-Sharing Angebote in Stadtbezirk Chorweiler
+- TOP 7.1.45: Nichtfunktionierender Springbrunnen auf dem Pariser Platz
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.46: Geschwindigkeitsüberschreitungen auf dem Weichselring
+- TOP 7.1.47: Fahrradwege im Stadtbezirk Chorweiler
+- TOP 7.1.48: Prüfung von Potentialflächen für Windkrafträder und Solaralanlagen im Stadtgebiet Köln
+- TOP 7.1.49: Fehlende Schulbau-Baumaßnahmen im Bezirk Chorweiler in der Haushaltsplanung 2023/24
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Durchfahrverbot Neusser Landstraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Geruchsbelästigung Auffangbecken/Randkanal in Pesch - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Nutzung öffentlicher Flächen im Stadtbezirk Chorweiler - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Baubeschluss für den Umbau und Signalisierung des Knotenpunktes Donatusstraße/Gewerbegebiet Pesch in Köln-Pesch - ungeändert beschlossen
+- TOP 9.2.2: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); Bebauungsplan-Entwurf Nummer 59569/05; Arbeitstitel: Südlich Baptiststraße in Köln-Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 10.2.2: Stellungnahme zum Antrag gem. § 3 der Geschäftsordnung des Rates zur Neufassung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - Kenntnis genommen
+- TOP 10.2.3: Verbraucherberatung im Quartier: Jahresbericht 2021 - Kenntnis genommen
+- TOP 10.2.4: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 10.2.5: 1. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2023/2024 - Kenntnis genommen
+- TOP 10.2.6: Erste Gespräche zur Abstimmung neuer Regelung für die Außengastronomie hier: Sachstand - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Anfrage der AfD-Fraktion- Sachstand der mündlichen Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
