@@ -1,0 +1,68 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-09-27T17:00:00+02:00
+- Ende: 2022-09-27T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22518
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22518
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460682.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460682.pdf
+- Wortprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460682.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 23. August 2022 - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Zuschuss an die Tennis-Sportgemeinschaft Blau-Weiss Düsseldorf e.V. - einstimmig beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2022 - Liste A) Schulen 2121101 / 52415500 - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen**
+- TOP 9: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 10: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 11: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 12: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 13: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 14: Weg nach den Hingbenden - Wie kann das Parken geordnet und die Sicherheit erhöht werden?
+- TOP 15: Aufstellung von Absperrpfosten und eines Zauns im Treppenbereich zur Kirche St. Remigius in Wittlaer
+- TOP 16: Verkehrsanbindung zwischen Ratingen und dem Düsseldorfer Norden
+- TOP 17: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr?
+- TOP 18: Privatisierung des Ordnungs- und Sicherheitsdienstes - beantwortet
+- TOP 19: Planungen und städtebauliche Entwicklungen im Gebietsbereich zwischen Stockum (Stockumer Kirchstraße/Rotterdamer Straße/Lohauser Deich) und der Ortslage Lohausen (Lohauser Deich/Heiligenweg/Niederrheinstraße) - beantwortet
+- TOP 20: Unzuverlässigkeit und häufiger Ausfall der U79 - Sieht so die Mobilitätswende im Düsseldorfer Norden aus? - beantwortet
+- TOP 21: Baum-, Wasser- und Landschaftsschutz beim Neubau Am Mühlenkamp 15 - beantwortet
+- TOP 22: Sicherheit für Pferd und Reiter am Leuchtenberger Kirchweg herstellen - beantwortet
+- TOP 23: Geschwindigkeitsmessung Kreuzung Nagelsweg/Neusser Weg
+- TOP 24: Erweiterung Grundschule Kaiserswerth - beantwortet
+- TOP 25: Wo sind die Parkplätze auf der Arnheimer Straße geblieben?
+- TOP 26: Kinderspielplatz Hoppengarten - beantwortet
+- TOP -: Neue Anfragen
+- TOP 27: Wann wird das Ballhaus im Nordpark umgebaut und saniert? - beantwortet
+- TOP 28: Radweg Kalkumer Schlossallee – Verbreiterung der südlichen Brückenrampen Bahnüberführung Forst Kalkum
+- TOP 29: Jugendliche im Stadtbezirk 5 - beantwortet
+- TOP 30: Abgrabungsverbot - beantwortet
+- TOP 31: Neubau der Feuerwache Kalkum
+- TOP 32: Aufstellung von Dixie Toiletten am Angermunder See
+- TOP 33: Wann wird jetzt endlich die Beleuchtung des Fuß- und Radweges auf dem Gerichtsschreiberweg installliert (erneute Anfrage)?
+- TOP 34: Sanierung und Instandsetzung der Straße und des Parkplatzes am Freiheitshagen - beantwortet
+- TOP 35: Den Spielplatz an der Bockumer Straße attraktiver gestalten.
+- TOP -: Anträge
+- TOP 36: Verkehrskonzept für die Bockumer Straße in Wittlaer - mehrheitlich abgelehnt
+- TOP 37: Erhöhung der Sicherheit für Fußgänger und Radfahrende auf der Einbrunger Straße - mehrheitlich abgelehnt
+- TOP 38: Sicherung des Rheinuferwegs in Höhe Wittlaer - abweichend beschlossen
+- TOP 39: Erstellung einer Machbarkeitsuntersuchung für eine Rampe zwischen dem Rheinuferweg und den Wegen Am Krienengarten/Am Damm - mehrheitlich abgelehnt
+- TOP 40: Masterplan Straßenbeleuchtung auf den Prüfstand stellen und weiterentwickeln! - mehrheitlich beschlossen
+- TOP 41: Lambertussee - Badeverbot konsequent durchsetzen! - einstimmig beschlossen
+- TOP 42: Tempo 30 Piktogramme in Lohausen - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 43: Beschlusskontrolle der Bezirksvertretung 5 im Jahr 2022 - zur Kenntnis genommen
+- TOP 44: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 45: Einbringung des Haushaltsplan 2023 (Entwurf) - Doppischer Produkthaushalt, Vorbericht und Anlagen sowie bezirksbezogene Haushaltsansätze*** - zur Kenntnis genommen
+- TOP 46: Verschiedenes
