@@ -1,0 +1,78 @@
+# 17. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-09-27T16:03:00+02:00
+- Ende: 2022-09-27T18:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25368
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25368
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Geschlechtergerechte Verkehrsplanung in Köln - Sache ist erledigt
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Einrichtung Busvorlaufbetrieb zur ÖPNV-Anbindung des Mülheimer Südens - endgültig abgelehnt
+- TOP 1.2: Einrichtung einer Direkt-Busverbindung zwischen Bergisch Gladbach und Thielenbruch - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Planungsbeschluss für die Umgestaltung der Kalker Hauptstraße zwischen Rolshover Straße und Kapellenstraße und Durchführung einer Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 2.1.1: Planungsbeschluss für die Umgestaltung der Kalker Hauptstraße - endgültig zurückgezogen
+- TOP 2.1.2: Änderungsantrag zu TOP 3.1 - Planungsbeschluss für die Umgestaltung der Kalker Hauptstraße - 1542/2022 - ungeändert beschlossen
+- TOP 2.2: Sperrung Kitschburger Straße - geändert beschlossen
+- TOP 2.2.1: Änderungsantrag zu TOP 2.2 - Sperrung Kitschburger Straße - ungeändert beschlossen
+- TOP 2.3: Einrichtung einer Buslinie auf der Inneren Kanalstraße - im ersten Durchgang verwiesen
+- TOP 2.3.1: Änderungsantrag zur Vorlage 1964/2022 - „Einrichtung einer Buslinie auf der Inneren Kanalstraße, hier: Beschlüsse der Bezirksvertretungen Innenstadt, Lindenthal, Eh-renfeld und Nippes“ - im ersten Durchgang verwiesen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße im Stadtbezirk Porz zwischen den Knotenpunkten Kölner Str./Berliner Str./Helenenstr. und Hauptstr./Friedrich-Ebert-Ufer - geändert beschlossen
+- TOP 3.1.1: Änderungsantrag zu Ö 3.2 „Planungsbeschluss zur Einrichtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße im Stadtbezirk Porz zwischen den Knotenpunkten Kölner Str./Berliner Str./Helenenstr. und Hauptstr./Friedrich-Ebert-Ufer“ - ungeändert beschlossen
+- TOP 3.1.2: Änderungsantrag zur Vorlage 3835/2021 - „Planungsbeschluss zur Ein-richtung von Radfahrstreifen auf der Kölner Straße und Hauptstraße im Stadtbezirk Porz zwischen den Knotenpunkten Kölner Str./Berliner Str./Helenenstr. und Hauptstr./Friedrich-Ebert - geändert beschlossen
+- TOP 3.2: Beschluss einer Trasse für die RadPendlerRoute 2 (Bergisch Gladbach – Köln) - zurückgestellt
+- TOP 3.3: Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - zurückgestellt
+- TOP 3.3.1: Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - zurückgestellt
+- TOP 3.3.2: Änderungsantrag zu TOP 3.5 - Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - zurückgestellt
+- TOP 3.3.3: Änderungsantrag zur Vorlage 2264/2022 - „Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung“ - zurückgestellt
+- TOP 3.4: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - im ersten Durchgang verwiesen
+- TOP 3.5: Baubeschluss für den Umbau und Signalisierung des Knotenpunktes Donatusstraße/Gewerbegebiet Pesch in Köln-Pesch - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 282. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.2: 283. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.3: Parkgebührenregelung an E-Ladesäulen - ungeändert empfohlen
+- TOP 4.4: Bedarfsfeststellungs- und Planungsbeschluss zur Neugestaltung des Gürtels einschließlich barrierefreiem Ausbau von 10 Stadtbahnhaltestellen der Linie 13 zwischen Venloer Straße/Gürtel und Berrenrather Straße/Gürtel - mit Änderungen empfohlen
+- TOP 4.4.1: Änderungsantrag zu TOP 4.4 - Bedarfsfeststellungs- und Planungsbeschluss zur Neugestaltung des Gürtel - ungeändert empfohlen
+- TOP 4.5: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Einrichtung eines Mikrodepots in Köln Deutz - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Baubeschluss für die Sanierung des Knotenpunktes Ostheimer Straße/Vingster Ring (inklusive Sanierung der Radverkehrsanlage) sowie einer Freigabe von investiven Auszahlungsermächtigungen bei der Finanzstelle 6601-1201-0-1008, Generalsanierung Radwege - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Bedarf an Parkmöglichkeiten in den verschiedenen Bewohnerparkzonen - Sache ist erledigt
+- TOP 5.1.2: Umsetzung des Lärmaktionsplans - zurückgestellt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Marktbereinigung durch überhöhte Gebühren - Sache ist erledigt
+- TOP 5.2.2: Trennung von Radverkehr und Kraftfahrzeugverkehr durch geschützte Radfahrstreifen (protected bike lane“) - Sache ist erledigt
+- TOP 5.2.3: Velosichere Schiene- Kein Sturz durch Querung - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Aus-/Neubau Rodenkirchener Brücke und der Autobahn A4 vom Kreuz Gremberg bis Köln-Süd - Sache ist erledigt
+- TOP 6.2: E-Lade-Möglichkeiten in Parkhäusern und Tiefgaragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.3: Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - Sache ist erledigt
+- TOP 6.4: Rheinpendel - Beantwortung der Anfrage AN/1027/2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.5: Südliche Verlängerung der Linie 13 ins Rechtsrheinische - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Qualitätsbericht 2021 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 7.2.2: Sachstand „Science meets City“-Symposium - Kenntnis genommen
+- TOP 7.2.3: Sicherer Schulweg für die Heliosschule - Kenntnis genommen
+- TOP 7.2.4: Modernisierung des Logistikforums - Kenntnis genommen
+- TOP 7.2.5: Deutzer Hafen - Nachhaltigkeitshandbuch - Kenntnis genommen
+- TOP 7.2.6: Einrichtung eines Bürgerrates im Bereich Mobilität - Kenntnis genommen
+- TOP 7.2.7: Öffentlichkeitsbeteiligung für die beiden neu geplanten Haltestellen Niehler Straße/Gürtel und Boltensternstraße/Gürtel der Stadtbahnlinie 13 - Kenntnis genommen
+- TOP 7.2.8: Öffentlichkeitsbeteiligung und Möglichkeit der Teilhabe von Menschen mit Behinderung
+- TOP 7.2.9: ÖPNV-Netzentwicklung - Sachstand 2022 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Digital X 2022 - Radwege Aachener Straße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Parkplatzproblematik für Handwerksbetriebe in der Innenstadt - Sache ist erledigt
+- TOP 8.3: Lastenräder - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.4: E-Scooter - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.5: Sanierung der Linie 9 in Sülz - zur weiteren Bearbeitung in die Verwaltung überwiesen
