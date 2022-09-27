@@ -1,0 +1,61 @@
+# 8. öffentliche Sitzung des Ausschusses für Verkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2022-09-27T17:05:00+02:00
+- Ende: 2022-09-27T19:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=86
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6355
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6355
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=425495
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Genehmigung der Niederschrift der 7. Sitzung vom 23.08.2022 - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Besprechungspunkte - erledigt
+- TOP 3.1: (Auf Antrag der AfD-Fraktion): Vorstellung und Diskussion der „Mobilitäts- und Verkehrskonzeption Karl-Bonhoeffer-Nervenklinik in Berlin" durch Vertreter*innen der Senatsverwaltung für Stadtentwicklung und Wohnen - erledigt
+- TOP 4: Beratung von Drucksachen - (offen)
+- TOP 4.1: Temporäres Halteverbot vor der Kita Havelmäuse - im Ausschuss abgelehnt
+- TOP 4.2: Anwohner im Schmitzweg, Brodersenstraße, Heiligenthal während der Baumaßnahmen unterstützen - im Ausschuss abgelehnt
+- TOP 4.3: Bushaltestellen vor Vandalismus schützen - im Ausschuss abgelehnt
+- TOP 4.4: Mehr Verkehrssicherheit am Borsigdamm in Tegel II - Bessere Beleuchtung - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.5: Sichere Wege im Tegeler Fließtal - im Ausschuss zurückgezogen
+- TOP 4.6: Rollbergesiedlung sicherer gestalten - im Ausschuss abgelehnt
+- TOP 4.7: Maßnahmen für mehr Verkehrssicherheit an der Kreuzung Hennigsdorfer Straße Ecke Schönbaumer Weg in Heiligensee - im Ausschuss abgelehnt
+- TOP 4.8: Barrierefreie Überquerung der Illerzeile in Tegel ermöglichen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.9: Beleuchtung rund um den S-Bahnhof Tegel - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.10: Zebrastreifen Reginhardstraße/Mittelbruchzeile - vertagt
+- TOP 4.11: 10-Minuten-Takt für die S25 - vertagt
+- TOP 4.12: i2030 für Reinickendorf - vertagt
+- TOP 4.13: Tempo 30 auf der Straße "Am Eichenhain" - vertagt
+- TOP 4.14: Sicher mit dem Fahrrad von Tegel nach Lübars I - vertagt
+- TOP 4.15: Sicher mit dem Fahrrad von Tegel nach Lübars II - vertagt
+- TOP 4.16: Radverkehrsanlagen Heiligenseestr. - vertagt
+- TOP 4.17: Sicher mit dem Fahrrad von Tegel nach Lübars III - vertagt
+- TOP 4.18: Mehr Sicherheit im Dunkeln auf dem Saalmannsteig - vertagt
+- TOP 4.19: Daten aus Dialogdisplays der Öffentlichkeit zur Verfügung stellen - vertagt
+- TOP 4.20: Warenanlieferung in Alt-Tegel neu organisieren - vertagt
+- TOP 4.21: Abordnung des Gehwegparkens auf der Burgfrauenstraße zurückstellen - vertagt
+- TOP 4.22: Kreuzung Waidmannsluster Damm/Ziekowstraße sicherer gestalten - vertagt
+- TOP 4.23: Anbindung an die Heidekrautbahn - vertagt
+- TOP 4.24: Das denkmalgeschützte Alt-Lübars umfahren! - vertagt
+- TOP 4.25: Radweg in der Humboldtstraße sanieren - vertagt
+- TOP 4.26: Elektrokleinbusse für Randortsteile einsetzen - vertagt
+- TOP 4.27: Burgfrauenstraße I - vertagt
+- TOP 4.28: Burgfrauenstraße II - vertagt
+- TOP 4.29: Umsteigepunkt U-Bahnhof Alt-Tegel barrierefrei umgestalten - vertagt
+- TOP 4.30: Verkehrssicherheit in der Schulzendorfer Straße wieder herstellen - vertagt
+- TOP 4.31: Verkehrsberuhigung im Öschelbronner Weg - vertagt
+- TOP 4.32: Hybrid-Oberleitungsbus zwischen Spandau und dem Schumacher Quartier - vertagt
+- TOP 4.33: SimRa: Sicherheit im Radverkehr - vertagt
+- TOP 4.34: Zebrastreifen für den Waldsee-Spielplatz errichten - vertagt
+- TOP 4.35: Projekt Laternen-Ladesäulen in Reinickendorf etablieren - vertagt
+- TOP 4.36: Geschwindigkeitsanzeige am Waldsee reparieren - vertagt
+- TOP 4.37: Fußgängerzone Gorkistraße - Überdachung und Sitzplätze für die Bushaltestelle Buddestraße - vertagt
+- TOP 4.38: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm / Martin-Luther-Straße - vertagt
+- TOP 4.39: Instandsetzung und Pflege der Reinickendorfer Radwege Nr. 1 - 6 - vertagt
+- TOP 5: Bericht aus dem Bezirksamt - erledigt
+- TOP 6: Verschiedenes - erledigt
