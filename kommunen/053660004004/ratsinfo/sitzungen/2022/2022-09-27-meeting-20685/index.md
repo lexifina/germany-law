@@ -1,0 +1,53 @@
+# Rat (16. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2022-09-27T18:00:00+02:00
+- Ende: 2022-09-27T20:03:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZKzzR0F213YS-KcyLTtFno
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20685
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX3qIvdi6R05N9oZ9rGSY2N2EvhMxalldD2FwBx51tCU/Bekanntmachung_Rat_27.09.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZYBE8JB16APC1oxxej4G2n9zyAEB_4Uco3COEkL-tlw/Oeffentliche_Niederschrift_Rat_27.09.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 21.06.2022 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Fraktionszuwendungen hier: Neufestsetzung - Beschluss s. RD-NR. 815-XI/Z-1.
+- TOP -: Fraktionszuwendungen hier: verschiedene Varianten für eine Neufestsetzung - Beschluss mit 4 Ja- und 24 Nein-Stimmen sowie 1 Enthaltung und damit abgelehnt:
+- TOP 5.: Namenserweiterung des Bildungs- und Sozialausschusses hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 12.09.2022 - Beschluss mit 5 Ja- und 23 Nein-Stimmen sowie 1 Enthaltung, womit Alternative A abgelehnt ist. Dies bedeutet, dass Alternative B bleibt.
+- TOP 6.: Jahresabschluss 2021 hier: Zuleitung des Entwurfs gem. § 95 Abs. 5 GO NRW - Einstimmiger Beschluss:
+- TOP 7.: ERE GmbH & Co. KG Hier: Genehmigung einer überplanmäßigen Leistung - Einstimmiger Beschluss:
+- TOP 8.: Defibrillatoren im öffentlichen Raum hier: Antrag der SPD-Fraktion 18.08.2022 - Beschluss s. RD-Nr. 257-XI/Z-3.
+- TOP -: Defibrillatoren im öffentlichen Raum hier: Empfehlungsbeschluss aus dem Bildungs- und Sozialausschuss vom 06.09.2022 - Einstimmiger Beschluss:
+- TOP 9.: Verwendung der Bundesmittel für Ukraine-Vertriebene hier: Auftragsermächtigung zur Beschaffung eines Fahrzeuges zur Sicherstellung der zweckentsprechenden Verwendung bis zum 31.12.2022 - Beschluss s. RD-Nr. 789-XI/Z-2.
+- TOP -: Verwendung der Bundesmittel für Ukraine-Vertriebene hier: Außerplanmäßige Ausgabe und Auftragsermächtigung zur Beschaffung eines Fahrzeuges - Einstimmiger Beschluss: 
+- TOP 10.: Verwendung der Bundesmittel für Ukraine-Vertriebene hier: Genehmigung einer außerplanmäßigen Leistung zur Beschaffung eines Transporters - Beschluss s. RD-Nr. 821-XI/Z-1.
+- TOP -: Verwendung der Bundesmittel für Ukraine-Vertriebene hier: Genehmigung einer außerplanmäßigen Leistung zur Beschaffung eines Transporters - Einstimmiger Beschluss:
+- TOP 11.: Tourist-Information der Zukunft in der Nordeifel hier: Bewerbung um Fördermittel durch den Kreis Euskirchen - Einstimmiger Beschluss:
+- TOP -: Tourist-Information der Zukunft in der Nordeifel hier: Bewerbung um Fördermittel durch den Kreis Euskirchen - Beschluss s. RD-Nr. 784-XI.
+- TOP 12.: Präsentation der Sonderausstellung "Zwangsarbeit im Kreis Euskirchen" hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 12.09.2022 - Einstimmiger Beschluss:
+- TOP 13.: Neufestsetzung der Ortsdurchfahrt Hilterscheider Straße in Bad Münstereifel-Ohlerath (K 55) - Einstimmiger Beschluss:
+- TOP 14.: Digitalisierung des Ableseverfahrens für die Wasserzähler - Beschluss s. RD-Nr. 783-XI/Z-1 im nichtöffentlichen Teil.
+- TOP 15.: Unterhaltung Fahrzeuge und Geräte hier: Genehmigung von überplanmäßigen Ausgaben - Einstimmiger Beschluss bei 3 Enthaltungen:
+- TOP -: Unterhaltung Fahrzeuge und Geräte (Betriebsstoffe) hier: Genehmigung von überplanmäßigen Ausgaben - Einstimmiger Beschluss bei 3 Enthaltungen:
+- TOP 16.: Grobkonzept zur ökologischen Umgestaltung des Schleidbachs im Schleidpark und Hochwasserschutz hier: Empfehlungsbeschluss aus dem Bau- und Feuerwehrausschuss - Einstimmiger Beschluss:
+- TOP 17.: Photovoltaikanlage auf dem Dach der Kindertagesstätte Arloff-Kirspenich hier: Ausschreibungsunterlagen - Einstimmiger Beschluss:
+- TOP 18.: Schülerbeförderungskosten hier: Wegfall der Teilfreifahrtberechtigung und Aufhebung der 100,00 €-Begrenzung bei der Abrechnung der Schülertickets durch die RVK - Einstimmiger Beschluss:
+- TOP 19.: Anfragen und Mitteilungen
+- TOP 19.1: Bericht zum 30.06.2022 im Rahmen des Finanzcontrollings
+- TOP 19.2: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Zeitplan der Fortschreibung und nächste Förderphase
+- TOP 19.3: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Bewilligungsbescheid Programmantrag 2022
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Bewilligungsbescheid Programmantrag 2022
+- TOP 19.4: Rückmeldung der Verwaltung aus den durchgeführten Workshops im Stadtgebiet hier: Anfrage der CDU-Fraktion vom 18.09.2022; 1. Teil - Workshopergebnisse zur Thematik Dorf- und Stadtentwicklung
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: hier: Kosten - Mehrheitlicher Beschluss mit 1 Nein-Stimme und 1 Enthaltung:
+- TOP 2.: Photovoltaikanlage auf dem Dach der Kindertagesstätte Arloff-Kirspenich hier: Bieterliste - Kein Beschluss erforderlich (Erneute Beratung und Beschlussfassung im Rat am 25.010.2022).
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 4.: Einladung zum Workshop am 28.10.2022 und zur Schulung am 29.10.2022
+- TOP 5.: Statusbericht zu den Sportplätzen im Stadtgebiet hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
