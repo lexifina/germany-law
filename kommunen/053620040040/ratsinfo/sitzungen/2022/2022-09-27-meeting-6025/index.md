@@ -1,0 +1,55 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2022-09-27T18:00:00+02:00
+- Ende: 2022-09-27T21:25:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZe258pIiUCRjDcT7vy7IR28
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6025
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYuWlrZS8m1TJYIQ2PDuEuD_ejOD0eEObmRhkncgw0N2/Einladung_Rat_27.09.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVvqGRh5ZCHMTLWzQI4g_pVRayHTBkDT7jI_QGjg9NKw/Oeffentliche_Niederschrift_Rat_27.09.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Einführung und Verpflichtung eines Ratsmitglieds
+- TOP 3.: Beschlussfassung über die Tagesordnung
+- TOP 4.: Einwohnerfragestunde
+- TOP 5.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 6.: Beschlusskontrolle
+- TOP 7.: Bericht der Gemeindeprüfungsanstalt NRW über die überörtliche Prüfung im Jahr 2021
+- TOP 7.1.: Überörtliche Prüfung der Stadt Wesseling durch die Gemeindeprüfungsanstalt NRW (gpaNRW) im Jahr 2021 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Gesamtabschluss 2017 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Befreiung von der Aufstellung der Gesamtabschlüsse 2018 bis 2022 - 33 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltungen
+- TOP 10.: Haushaltswirtschaft im Haushaltsjahr 2021 Bereitstellung über- und außerplanmäßiger Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 11.: Haushaltswirtschaft im Haushaltsjahr 2022 Bereitstellung über- und außerplanmäßiger Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 11.1.: Haushaltswirtschaft im Haushaltsjahr 2022 Bereitstellung über- und außerplanmäßiger Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 12.: Haushaltswirtschaft im Haushaltsjahr 2022 Dringlichkeitsentscheidung zur Bereitstellung einer überplanmäßigen Ausgabe - Einstimmig, 0 Enthaltungen
+- TOP 13.: Entsorgungsbetriebe Wesseling hier: Feststellung des Jahresabschlusses 2021 und Entscheidung über die Gewinnverwendung - Einstimmig, 0 Enthaltungen
+- TOP 14.: Anschlussvorhaben Klimaschutzmanagement - Einstimmig, 0 EnthaltungenHerr Verweyen nimmt wieder an der Sitzung teil.
+- TOP 15.: Einführung Kommunales Energiemanagement - Einstimmig, 0 Enthaltungen
+- TOP 16.: Energieeinsparpotenziale
+- TOP 17.: Standort für eine Wohneinrichtung für Geflüchtete - Einstimmig, 0 Enthaltungen
+- TOP 18.: Bestellung von weiteren allgemeinen Vertretern des Bürgermeisters gem. § 68 GO NRW bei Verhinderung des zur allgemeinen Vertretung bestellten Ersten Beigeordneten - Einstimmig, 0 Enthaltungen
+- TOP 19.: Genehmigung einer Dienstreise Hier: Dienstreise zur Jahrestagung für Mitglieder von Jugendhilfeausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 20.: Antrag der Fraktionen CDU, Bündnis 90/Die Grünen und WIR/FWW: Radpendlerroute zwischen Bonn und Köln - Einstimmig, 0 Enthaltungen
+- TOP 21.: Umbesetzung in Ausschüssen
+- TOP 21.1.: Antrag der FDP-Fraktion: Umbesetzungen in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 21.2.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Mitteilungen und Anfragen
+- TOP 22.1.: Rheinspange 553 Behördenbeteiligung zu den Ergebnissen der Umweltverträglichkeitsstudie hier: Stellungnahme der Stadt Wesseling
+- TOP 22.2.: Anfrage der Fraktion WIR/FWW: Sachstand Kerosinsee Wesseling
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Antrag der SPD-Fraktion: Verleihung der Ehrenbezeichnung "Altbürgermeister" - Einstimmig, 0 Enthaltungen
+- TOP 2.: Anerkennung von Dienstzeiten - Einstimmig, 0 EnthaltungenHerr Beigeordneter Neeser nimmt wieder an der Sitzung teil.
+- TOP 3.: Ernennung des stellvertretenden Leiters der Freiwilligen Feuerwehr der Stadt Wesseling - Einstimmig, 0 EnthaltungenHerr Koch nimmt wieder an der Sitzung teil. Frau Engels-Welter gratuliert ihm zur Ernennung.
+- TOP 4.: Beratung der Nominierung für den Integrationspreis der Stadt Wesseling 2022 - Einstimmig, 9 EnthaltungenPersönliche Erklärung von Herrn Meschwitz im Anschluss an die Abstimmung: Die Fraktion WIR/FWW hat sich bei der Abstimmung enthalten, da sie DITIB nicht unterstützen. Die bei den Projekten mitwirkenden Ehrenamtlichen haben den Pr
+- TOP 5.: Vergabe eines öffentlichen Dienstleistungsauftrages zur Erbringung von öffentlichen Personenverkehrsdienstleistungen durch die Stadtwerke Wesseling GmbH ab 01.01.2023 - 28 Ja-Stimmen, 6 Nein-Stimmen, 0 Enthaltungen
+- TOP 6.: Anteilserwerb der Stadt Wesseling an der NRW.URBAN Kommunale Entwicklung GmbH (NU KE) - Einstimmig, 0 Enthaltungen
+- TOP 7.: Mitteilungen und Anfragen
+- TOP 7.1.: Sachstand Verfahren Lube & Krings
+- TOP 8.: Presseveröffentlichungen
