@@ -1,0 +1,8 @@
+# TOP -: Geschlechtergerechte Verkehrsplanung in Köln
+
+- Sitzung: 17. Sitzung des Verkehrsausschusses (2022-09-27)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/358207
+- Ergebnis: Sache ist erledigt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/166833
