@@ -1,0 +1,76 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2022-09-28T17:00:00+02:00
+- Ende: 2022-09-28T19:38:00+02:00
+- Ort: Geschwister-Scholl-Gymnasium
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4713
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4713
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Wahl einer/eines Beigeordneten für das Dezernat Bildung, Jugend und Kultur (Dez IV) - ungeändert beschlossen
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 11.05.2022 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Umsetzung Integriertes Klimaschutzkonzept IKSK: Ausbau Solaranlagen (IKSK 2.1) - ungeändert beschlossen
+- TOP 5: Teilfortschreibung Nahverkehrsplan der Stadt Aachen: Leistungsangebot - ungeändert beschlossen
+- TOP 6: Ehrenamtsstipendien StädteRegion Aachen - ungeändert beschlossen
+- TOP 7: Änderung der Sportförderrichtlinien der Stadt Aachen - ungeändert beschlossen
+- TOP 8: Bebauungsplan - Reichsweg, Fa. Rheinnadel - im Bereich zwischen Düppelstraße und Reichsweg;hier: 1.Aufhebungsbeschluss A 1672.Aufhebungsbeschluss Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich zwischen Düppelstraße und Reichsweg - ungeändert beschlossen
+- TOP 9: Übersicht über die Übertragung von Ermächtigungen oberhalb der Wertgrenze vom Haushaltsjahr 2021 in das Haushaltsjahr 2022 - ungeändert beschlossen
+- TOP 10: Stellungnahme der Verwaltung zum Ratsantrag Nr. 245/18 "Gesellschaftszwecke städtischer Gesellschaften" - zurückgezogen
+- TOP 11: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 11.1: Kirchenumfeld St. Germanus;hier: Bereitstellung überplanmäßiger Mittel - ungeändert beschlossen
+- TOP 11.2: Jülicher Straße, Erneuerung der Busspur;hier: Bereitstellung überplanmäßiger Mittel und Ausführungsbeschluss - ungeändert beschlossen
+- TOP 11.3: Sonnenweg - Entwässerung: Hier: Bereitstellung überplanmäßiger Mittel - ungeändert beschlossen
+- TOP 11.4: Burghöhenweg - Erschließung: Hier: Bereitstellung überplanmäßiger Mittel - zurückgezogen
+- TOP 11.5: Überplanmäßige Mittelbereitstellung: KGS Beeckstraße: Vorstellen der Varianten und Planungsauftrag für den Erweiterungsbau - ungeändert beschlossen
+- TOP 11.6: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen,Haushaltsjahr 2022; Produkt 021503, Abwehr von Großschadensereignissen: Warnsystem Aachen, Beschaffung von Sirenen - ungeändert beschlossen
+- TOP 11.7: Umgestaltung des Spielplatzes Stettiner StraßeÜberplanmäßige Mittelbereitstellung oberhalb der Erheblichkeitsgrenze gemäß § 83 GO NRW - ungeändert beschlossen
+- TOP 12: Jahresabschluss Eurogress Aachen 2021 - ungeändert beschlossen
+- TOP 13: Entwurf Gesamtabschluss 2019 - ungeändert beschlossen
+- TOP 14: Benehmensherstellung für die differenzierte Regionsumlage 2023 - zur Kenntnis genommen
+- TOP 15: Sicherstellung der Bauberatung für Bürgerinnen und Bürgerhier: Tagesordnungsantrag der CDU-Fraktion vom 31.08.2022 für den Hauptausschuss - ungeändert beschlossen
+- TOP 16: Erstellung einer Gemeinwohl-Bilanz - das Städtische Gebäudemanagement als Pilot-Bereich der Stadtverwaltung - ungeändert beschlossen
+- TOP 17: Sanierung der Turnhalle Minoritenstraße - ungeändert beschlossen
+- TOP 18: Gestaltungsbeirat der Stadt Aachen – Neufassung der Geschäftsordnung - ungeändert beschlossen
+- TOP 19: Kunst im öffentlichen Raumhier: Hasenclever-Skulptur - ungeändert beschlossen
+- TOP 20: Umlegungsausschuss Wiederwahl von Mitgliedern - ungeändert beschlossen
+- TOP 21: Umbesetzungen in Ausschüssen und anderen Gremien
+- TOP 21.1: Umbesetzungsantrag der GRÜNE-Fraktion vom 22.09.2022 - ungeändert beschlossen
+- TOP 21.2: Umbesetzungsantrag der SPD-Fraktion vom 26.09.2022 - ungeändert beschlossen
+- TOP 21.3: Umbesetzungsantrag der CDU-Fraktion vom 27.09.2022 - ungeändert beschlossen
+- TOP 22: Anfragen:
+- TOP 22.1: Ratsanfragen - ungeändert beschlossen
+- TOP 22.2: Stellungnahmen der Verwaltung zur Ratsanfragen - zur Kenntnis genommen
+- TOP 23: Ratsanträge - zur Kenntnis genommen
+- TOP 24: Mitteilungen der Verwaltung
+- TOP 25: Änderung der Betriebssatzung Eurogress Aachen - ungeändert beschlossen
+- TOP 26: Pflanz-, Pflege- und Verbissschutzmaßnahmen im Aachener Wald - ungeändert beschlossen
+- TOP 27: Sportpark Soers | Masterplanhier: Grundsatzbeschluss und überplanmäßige Mittelbereitstellung - ungeändert beschlossen
+- TOP 28: Gebührenbefreiung Außengastronomie im 2. Halbjahr 2022Überplanmäßige Mittelbereitstellung - ungeändert beschlossen
+- TOP 29: Abbruch ehem. PolizeipräsidiumBereitstellung Finanzmittel als Anschubfinanzierung - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
+- TOP 14.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 14.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 14.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 15: nicht öffentlicher Tagesordnungspunkt
