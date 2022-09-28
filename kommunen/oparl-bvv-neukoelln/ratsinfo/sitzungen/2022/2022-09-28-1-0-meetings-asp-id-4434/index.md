@@ -1,0 +1,124 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-09-28T17:00:00+02:00
+- Ende: 2022-09-28T22:20:00+02:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4434
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4434
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Zeigen von Nationalfahnen - schriftlich beantwortet
+- TOP 1.2: Fehlende Nachtruhe in der Weserstraße - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Genehmigung der im Haushaltsjahr 2021 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Wirtschaftliche Schieflage der A. Group – Folgen für Neuköllner Mieter:innen - beantwortet
+- TOP 8.2: Lärmbelästigung durch illegale Nutzung von Außenflächen zum Ausschank - beantwortet
+- TOP 8.3: Personalsituation Sozialpsychiatrischer Dienst - beantwortet
+- TOP 8.4: Wenn die Miete aus dem Regelsatz bezahlt werden muss - beantwortet
+- TOP 8.5: Dauerbaustelle am U-Bahnhof Rathaus-Neukölln - beantwortet
+- TOP 8.6: Wer leitet das Neuköllner Gesundheitsamt? - beantwortet
+- TOP 8.7: Kälteplätze im Bezirk? - schriftlich beantwortet
+- TOP 8.8: Finanzierung der Kältehilfe ungewiss? - schriftlich beantwortet
+- TOP 8.9: Schulbaumaßnahmen - schriftlich beantwortet
+- TOP 8.10: Radweg Stubenrauchstraße - schriftlich beantwortet
+- TOP 8.11: Neue Polio-Ausbreitung in Neukölln durch Impfungen verhindern - schriftlich beantwortet
+- TOP 8.12: Mehr Sicherheit in der Hufeisensiedlung / Umsetzung Beschluss (Drs. 0313/XXI) - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Umwandlung von Park- in Begegnungsflächen vor dem Nachbarschaftstreff Schillerkiez - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Halteverbot - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Sportplatz der Fritz-Karsen-Schule schnellstmöglich wieder nutzbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Informationen über Schule in leichter Sprache - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Geschützte Räume in Schwimmbädern für trans und intersexuelle Menschen schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Kinderbücher in verschiedenen Sprachen für Flüchtlingskinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Makkabi-Games unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet "Reuterplatz" im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.7: Sportplatz der neuen Clayschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.8: Columbiabad erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.9: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet "Schillerpromenade" im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.10: Aufstellungsbeschlüsse und soziale Erhaltungssatzungen umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.11: Frauenschwimmen in der Halle des Kombibads Lipschitzallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.12: Gedenkort für Burak Bektas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.13: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Flughafenstraße / Donaustraße“ im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.14: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Rixdorf“ im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.15: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Körnerpark“ im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.16: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Silbersteinstraße / Glasower Straße“ im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.17: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Hertzbergplatz / Treptower Straße“ im Bezirk Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.18: Veränderungssperre XIV-24-1/31 für die Grundstücke mit der Lagebezeichnung Lahnstraße 33A, Naumburger Straße 33 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-24-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.19: Verlängerung der Veränderungssperre XIV-60/29 für die Grundstücke mit der Lagebezeichnung Buckower Damm 50 im Bezirk Neukölln, Ortsteil Britz im Geltungsbereich des Bebauungsplanentwurfes XIV-60 („Mohriner Allee / Buckower Damm“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.20: Bebauungsplan XIV-257a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.21: Schlichtungsstelle Jobcenter Neukölln einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.22: Beschäftigungsmöglichkeiten im Bezirksamt schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.23: Verordnung zur Änderung der Erhaltungsverordnung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Flughafenstraße / Donaustraße“ im Bezirk Neukölln von Berlin vom 14. Juli 2016 (GVBl. S. 468) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.24: Verordnung zur Änderung der Erhaltungsverordnung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Körnerpark“ im Bezirk Neukölln von Berlin vom 14. Juli 2016 (GVBl. S. 472) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.25: Förderung Theatergruppe "Die Sultaninen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Showdown im Gesundheitsamt – Warum musste Amtsarzt Herr S. wirklich gehen? -nichtöffentliche Beantwortung- - beantwortet
+- TOP 11.2: Plant das Bezirksamt Wärmeräume für Senior:innen? - beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Antrag auf Änderung der Geschäftsordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Die Senioren haben das Wort - in der BVV abgelehnt
+- TOP 12.3: Ein Spielstraßenmobil für Neukölln! - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Außerschulische Bildungsstätte - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Kinder- und Jugend - Ehrenamtsauszeichnung - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Katretter – jede Sekunde zählt bei medizinischen Notfällen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Explodierende Energiekosten: Darlehen für Austausch von Kühl- bzw. Gefriergeräten - in der BVV abgelehnt
+- TOP 12.8: Illegale Müllentsorgung rund um das Sportbad Britz - in der BVV abgelehnt
+- TOP 12.9: Lastenräder in der Gropiusstadt ausleihen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Berlin feuerwerksarm: Für Menschen, Tiere und Umwelt! - in der BVV abgelehnt
+- TOP 12.11: Regelmäßige Sperrmüll-Kieztage einführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Neuköllner Seniorenfreizeitstätten baulich in Schuss halten - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Behindertenfreizeitstätte Alt-Buckow - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Kostenlose Ausgabe von Menstruationsartikeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Fairtrade-Town: Mittelbeantragung zur Weiterführung der Fair-Trade-Arbeiten im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Sicherer Übergang an der Einmündung Einhornstraße /Dammweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Tempo 30 am Dammweg sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Martin-Wagner-Ring - in der BVV abgelehnt
+- TOP 12.19: Dem Fahrradverkehr eine „fließende“ Zufahrt zum Karl-Marx-Platz ermöglichen - in der BVV abgelehnt
+- TOP 12.20: Neukölln von Beginn an bei der Reaktivierung der Stammbahn mitdenken - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Schulwegsicherheit an der Oskar-Heinroth-Schule verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Fahrradbügel am „Falkplatz“ - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Tangential- und Radialrouten für den Radverkehr bekannter machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Verkehrslärm reduzieren und Sicherheit erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Erneuerung der Zebrastreifen in Alt Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Übergang zwischen Kölner Damm und Wildmeisterdamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Tempo 30 im Ortolanweg sichtbarer machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.28: Alte Gehweg-Radwege smart sanieren - Entsiegelung mitdenken - ohne Änderungen in der BVV beschlossen
+- TOP 12.29: Zentrum nördliche Sonnenallee - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Rekommunalisierung der Schulreinigung - Boykottiert das Bezirksamt weiterhin demokratisch gefällte Beschlüsse? - vertagt
+- TOP 13.2: Demokratie schützen – Ordnungsgemäße und rechtsstaatliche Organisation und Durchführung von Wahlen im Bezirk Neukölln - vertagt
+- TOP 13.3: Bearbeitungsrückstände in der Verwaltung - vertagt
+- TOP 13.4: Recht auf Sprachförderung umsetzen - vertagt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Neuköllner*innen müssen zügig von Wohngeldreform profitieren - überwiesen
+- TOP 15.2: Aussetzen der Städtepartnerschaft zwischen Neukölln und Puschkin - überwiesen
+- TOP 15.3: Missbilligung: Die BVV wurde von Stadträtin Blumenthal belogen! - vertagt
+- TOP 15.4: Kita-Belegungsrechte für benachteiligte Kinder sichern - überwiesen
+- TOP 15.5: Maientage in der Hasenheide erhalten - überwiesen
+- TOP 15.6: Muva auch für Neukölln - überwiesen
+- TOP 15.7: Schulspielplätze warten und sanieren - überwiesen
+- TOP 15.8: Saalestraße als Ost-West-Tangente nicht vernachlässigen - überwiesen
+- TOP 15.9: Pfortendienst rekommunalisieren - überwiesen
+- TOP 15.10: Unabhängige Sozialberatung Neukölln verstärken - überwiesen
+- TOP 15.11: Solidarität mit dem Saharauischen Befreiungskampf – saharauische Fahne vor dem Neuköllner Rathaus hissen - überwiesen
+- TOP 15.12: Wetzlar-Schule - Erneuerung Probengebäude für Musik- und Instrumentalunterricht - überwiesen
+- TOP 15.13: Kostenfreie Nutzung der City-Toiletten in Neukölln - überwiesen
+- TOP 15.14: Neuköllner Bildungseinrichtung "Jack" über 2022 hinaus erhalten - überwiesen
+- TOP 15.15: Heller Asphalt für den Klimaschutz - überwiesen
+- TOP 15.16: Zukunftswerkstatt Kultur Neukölln - überwiesen
