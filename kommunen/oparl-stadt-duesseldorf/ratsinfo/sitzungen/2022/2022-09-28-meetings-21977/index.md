@@ -1,0 +1,58 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-09-28T17:00:00+02:00
+- Ende: 2022-09-28T18:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21977
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21977
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2022-06-28 Ö inkl. Nachtrag 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00461495.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2022-06-28 Ö inkl. Nachtrag 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00461495.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2022-06-28 Ö inkl. Nachtrag 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00461495.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1.1: Verpflichtung eines neuen Mitgliedes der Bezirksvertretung 6
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung vom 31. August 2022 - einstimmig beschlossen
+- TOP -: Anfragen (wurden bereits versandt)
+- TOP 3: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen
+- TOP 6: Anfrage der SPD-Fraktion: Zeitfenster der Umsetzung von beschlossenen Maßnahmen der Bezirksvertretung 6
+- TOP 7: Anfrage von Florian Ries (Fraktion Bündnis 90/Die Grünen): Ausstehendes Prüfungsergebnis einer Verkehrsberuhigung auf dem Cloppenburger Weg
+- TOP 8: Anfrage der Fraktion BÜ90/Die Grünen: Münsterstraße - mögliche Lösungen für das Zuparken von Geh- und Radweg durch Lieferverkehre
+- TOP 9: Anfrage des Ratsherrn Mielczarek (BÜ90/Die Grünen): Bedarf nach einem Bolzplatz in Lichtenbroich - schriftlich beantwortet
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Anfrage der Fraktion Bündnis 90/Die Grünen: Bewässerung von Jungbäumen im Bereich der Straßenbahn-Wendeschleife, östliches Ende Westfalenstraße - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 12: Anfrage der Fraktion Bündnis90/Die Grünen: Stand der Prüfung auf Zweckentfremdung Kalkumer Straße 1 und 2 - schriftlich beantwortet
+- TOP -: Anträge (Beratungsbedarf - wurden bereits versandt)
+- TOP 13: Antrag der Fraktion BÜ90/Die Grünen: Zaunkönigweg: Wohnnutzung ermöglichen, verträgliche Stadtplanung für unseren Bezirk einleiten - mehrheitlich abgelehnt
+- TOP 14: Antrag der SPD-Fraktion: Fahrradschutzstreifen Eckener Straße - zurückgestellt
+- TOP 15: Antrag der Fraktion BÜ90/Die Grünen: Überfällige Aufwertung im Bereich Bunker Rather Kreuzweg - mehrheitlich abgelehnt
+- TOP 16: Antrag der SPD-Fraktion: Papiercontainer Unterrath - zurückgezogen
+- TOP 17: Antrag der Fraktion BÜ90/Die Grünen: Freigabe des Fußweges vor den Häusern Heinrichstraße 25 - 31 (Ludwig-Beck-Straße bis Heinrichstraße) für Radfahrer*innen bei Einrichtung einer "Fahrrad frei"-Beschilderung - mehrheitlich abgelehnt
+- TOP -: Verwaltungsvorlagen
+- TOP 18: Zuschussvergabe 2022 Antrag der Katholischen Grundschule Rather Kreuzweg - Zirkus-Projekt - einstimmig beschlossen
+- TOP 19: Zuschussvergabe 2022 Antrag der Joachim-Neander-Schule - Zirkusprojektwoche 2023 - einstimmig beschlossen
+- TOP 20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 6, Liste A (Schulen) - zurückgestellt
+- TOP -: Informationsvorlagen
+- TOP 21: Sitzungstermine der Bezirksvertretung 6 im Jahr 2023 - zur Kenntnis genommen
+- TOP 22: Förderschulstandort der Franz-Marc-Schule an der Herdecker Straße - Vorlage BV6/094/2022 - zur Kenntnis genommen
+- TOP 23: Maßnahmen zur Sicherstellung des Einhaltens der Geschwindigkeitsbegrenzung auf der Krahnenburgstraße - Vorlage BV6/035/2021 - zur Kenntnis genommen
+- TOP 24: Beratung der Entwürfe - des Doppischen Produkthaushalts für das Haushaltsjahr 2023 - des Vorberichts und der Anlagen für das Haushaltsjahr 2023 - der Bezirksbezogenen Haushaltsansätze 2023 - zur Kenntnis genommen
+- TOP 25: Zuschussvergabe 2022 Antrag der Gemeinschaftsgrundschule Max-Halbe-Straße - St. Martinsfeier und Laternenausstellung/Adventszeit und Weihnachtsfeier - einstimmig beschlossen
+- TOP 26: Zuschussvergabe 2022 Antrag des Fest- und Förderverein "Leetebrok" e.V. - Zuschuss St. Martin 2022/ - einstimmig beschlossen
+- TOP 27: Antrag der Fraktion Bündnis 90/Die Grünen: Haushalt 2023 - Sicherung der Fußquerung Beedstraße/Im Huferfeld - mehrheitlich abgelehnt
+- TOP 28: Antrag der Fraktion Bündnis 90/Die Grünen: Haushalt 2023 - Bereitstellung von Mitteln zur Einrichtung einer Querung auf dem Kieshecker Weg - mehrheitlich abgelehnt
+- TOP 29: Antrag der Fraktion Bündnis 90/Die Grünen: Haushalt 2023 - Bereitstellung von Mitteln zur Entsiegelung und Begrünung geeigneter Flächen im Bezirk 6 - mehrheitlich abgelehnt
+- TOP 30: Antrag der Fraktion Bündnis 90/Die Grünen: Haushalt 2023 - Bereitstellung von Mitteln zur klimatischen Optimierung des Klinkenplatzes - mehrheitlich abgelehnt
+- TOP 31: Antrag der SPD-Fraktion: Haushalt 2023 - Erweiterung der städtischen Gemeinschaftsgrundschule an der Krahnenburgstraße - mehrheitlich abgelehnt
+- TOP 32: Antrag der SPD-Fraktion: Haushalt 2023 - Außenkolumbarium Unterrather Friedhof - mehrheitlich abgelehnt
+- TOP 33: Antrag der SPD-Fraktion: Haushalt 2023 - Errichtung von Trinkwasserspendern im Stadtbezirk 6 - mehrheitlich abgelehnt
+- TOP 34: Bauunterhaltungsmittel 2022 - Teil B - sonstige städtische Einrichtungen - einstimmig beschlossen
+- TOP 35: Bauunterhaltungsmittel 2022 - Teil B - sonstige städtische Einrichtungen - einstimmig beschlossen
