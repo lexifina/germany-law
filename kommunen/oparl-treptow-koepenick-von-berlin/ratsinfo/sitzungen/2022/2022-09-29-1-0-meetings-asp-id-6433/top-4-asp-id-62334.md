@@ -1,0 +1,7 @@
+# TOP 4: Verschiedenes
+
+- Sitzung: 7. (ordentliche, öffentliche) Sitzung des Rechnungsprüfungsausschusses (2022-09-29)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=62334
+- Ergebnis: erledigt
