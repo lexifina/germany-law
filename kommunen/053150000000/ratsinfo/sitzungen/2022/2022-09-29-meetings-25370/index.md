@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-09-29T16:00:00+02:00
+- Ende: 2022-09-29T18:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25370
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25370
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: D Vortrag zum Thema Sicherheit der Wasserversorgung in Köln
+- TOP -: E Information von Herrn Beigeordneten Wolfgramm betreffend Überarbeitung der Förderrichtlinie Gebäudesanierung und Erneuerbare Energien – klimafreundliches Wohnen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Gemeinsame Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend Zusätzliche Reinigungsleistungen in der Open-Air-Saison - Sache ist erledigt
+- TOP 1.1.1: Beantwortung der Anfrage Zusätzliche Reinigungsleistungen in der Open-Air-Saison - Kenntnis genommen
+- TOP 1.2: Gemeinsame Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend Neubewertung von Energiesparmaßnahmen im öffentlichen Raum - Sache ist erledigt
+- TOP 1.2.1: Beantwortung der gemeinsamen Anfrage betreffend Neubewertung von Energiemaßnahmen im öffentlichen Raum, Anfrage aus der Sitzung am 19.05.2022, hier TOP 1 .4 - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Die Linke betreffend Ausstiegspfad aus Erdgas - Sache ist erledigt
+- TOP 1.3.1: Beantwortung der Anfrage betreffend Ausstiegspfad aus Erdgas - Kenntnis genommen
+- TOP 1.3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Anfrage der Fraktion Die Linke betreffend Veränderte Herkunft der Steinkohle für das HKW Rostock in Folge des Kohleembargos gegen Russland - Sache ist erledigt
+- TOP 1.4.1: Beantwortung der Anfrage betreffend Veränderte Herkunft der Steinkohle für das HKW Rostock in Folge des Kohleembargos gegen Russland - Kenntnis genommen
+- TOP 1.4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Anfrage der FDP-Fraktion betreffend Klimaschutzkooperation mit der TH Köln - zurückgestellt
+- TOP 1.6: Anfrage der Fraktion Die Fraktion betreffend Novellierung DSchG NRW: Öffnung für Photovoltaik trotz Denkmalschutz - zurückgestellt
+- TOP 1.7: Anfrage der Fraktion Die Linke betreffend Heizen in der Außengastronomie - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der SPD-Fraktion betreffend Umstellung auf Wärmepumpenversorgung bei Wohnungseigentümergemeinschaften forcieren - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Sachstand Kommunale Wärmeplanung - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Masterplan Stadtgrün - zurückgestellt
+- TOP 4.1.1.1: Änderungsantrag der Fraktion DIE FRAKTION zu 2279/2022 Masterplan Stadtgrün - zurückgestellt
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Bericht über die Entwicklung des Ausbaus der Erneuerbaren Energien im Bereich der RheinEnergie AG - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.1.1: Bericht über die Entwicklung des Ausbaus der Erneuerbaren Energien im Bereich der RheinEnergie AG - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2: Sachstand Kölner Stadttauben-Modell - Kenntnis genommen
+- TOP 7.3: Sachstand Nutzung landwirtschaftlicher Flächen und Kriterien zur Verpachtung "Urbane Landwirtschaft in Köln" - Kenntnis genommen
+- TOP 7.4: Städtebaugroßprojekt Parkstadt Süd; Eröffnung des Pionierparks am 22. September 2022 - Kenntnis genommen
+- TOP 7.5: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 29. Juli 2022 - Kenntnis genommen
+- TOP 7.5.1: aktualisierter Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 9. September 2022 - Kenntnis genommen
+- TOP 7.6: Deutzer Hafen - Nachhaltigkeitshandbuch - Kenntnis genommen
+- TOP 7.7: Stadtklima-/Stadtverschönerungsprogramm 2022 im Stadtbezirk Nippes:Errichtung eines Zaunes entlang der Grenze der Grünanlage Innerer Grüngürtel Alhambra und Merheimer Str. - Kenntnis genommen
+- TOP 7.8: Sachstandsbericht strategische Grünentwicklung - Kenntnis genommen
+- TOP 7.9: Zweiter Sachstandsbericht Essbare Stadt September 2022 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
