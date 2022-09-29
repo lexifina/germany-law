@@ -1,0 +1,52 @@
+# Rat (14. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2022-09-29T17:00:00+02:00
+- Ende: 2022-09-29T19:34:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZU8L-y2senFDNW3lmDLHMBo
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2420
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUqLfX2Fr80vWCme6_gX5YDmp1NCa6gwJMbzXzyaqD2d/Bekanntmachung_Rat_29.09.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcdx_LD5WH3Fr0QTA8i9YQwymEi5frbUvesxdnldOw5m/Oeffentliche_Niederschrift_Rat_29.09.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5.: Weiterführung des Tourismusverbandes Sieben e.V. - Einstimmig, 0 Enthaltungen
+- TOP 6.: Bericht über Aufwendungen und Erträge für die Aufnahme von Schutzsuchenden aus der Ukraine zum 30.06.2022 - Ohne Abstimmung
+- TOP 7.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2021 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Wahlrecht zur Aufstellung eines Gesamtabschlusses der Stadt Rahden zum 31.12.2021 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Sparkassenangelegenheiten; a) Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2021 b) Verteilung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 10.: Änderung der Satzung über die Errichtung, Unterhaltung und Benutzung des Übergangsheims Weher Straße 163, 32369 Rahden - Einstimmig, 0 Enthaltungen
+- TOP 11.: Änderung der Satzung für die Benutzung der städtischen Übergangswohnungen für Flüchtlinge und Obdachlose der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 12.: Satzung zur Regelung der Teilnahme von Schüler*innen am Offenen Ganztag an den Grundschulen der Stadt Rahden - 26 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 13.: Satzung zur Regelung der Teilnahme von Schüler*innen an alternativen Betreuungsformen in den Offenen Ganztagsgrundschulen der Stadt Rahden - 26 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 14.: Städtebauförderung 2023 hier: Antrag für die Städtebauförderung 2023 Multifunktionaler Erweiterungsbau Sekundarschule - Bauteil C Aula - Einstimmig, 0 Enthaltungen
+- TOP 15.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2021; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 16.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2021; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 17.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2021; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 18.: Hallenbad: Energieeinsparungen und Preisanpassung - Einstimmig, 0 Enthaltungen
+- TOP 19.: Energiesparmaßnahmen im Bereich Straßenbeleuchtung - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 21.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 21.1: Integriertes städtisches Entwicklungskonzept (ISEK) - Gestaltung des Schulhofes und der Außenanlagen der Grundschule Rahden hier: Genehmigung einer Dringlichkeitsentscheidung - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bekanntgabe der im II. Quartal 2022 erteilten Aufträge - Ohne Abstimmung
+- TOP 23.: Genehmigung des Beschlusses des Verwaltungsrates der Stadtsparkasse Rahden über die Wiederbestellung des Vorstandsvorsitzenden zum 1. Juni 2023 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Antrag auf Wirtschaftsförderung - Einstimmig, 0 Enthaltungen
+- TOP 25.: Antrag auf Wirtschaftsförderung - Einstimmig, 0 Enthaltungen
+- TOP 26.: Auftragsvergabe hier: Quartierskonzept und Machbarkeitsstudie „Ladeinfrastruktur für E-Mobilität“ - Einstimmig, 0 Enthaltungen
+- TOP 27.: Antrag auf Förderung der Ausbildung von Fachärztinnen und Fachärzten in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 28.: Grundstücksangelegenheiten
+- TOP 28.1: Veräußerung eines städtischen Grundstückes in der Ortschaft Varl - 20 Stimmen dafür, 4 dagegen, 3 Enthaltungen
+- TOP 28.2: Erwerb einer landwirtschaftlichen Ausgleichsfläche in der Ortschaft Rahden - 25 Stimmen dafür, 0 dagegen, 2 Enthaltungen
+- TOP 29.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29.1: Personelle Erweiterung des Aufgabenfeldes "Integration" - 25 Stimmen dafür, 2 dagegen, 0 Enthaltungen
+- TOP 30.: Bekanntgaben und Anfragen
