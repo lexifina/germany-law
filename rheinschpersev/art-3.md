@@ -11,7 +11,7 @@ Zuständige Behörde im Sinne des § 3.03 Nummer 1 Satz 2 Buchstabe a Satz 2 und
 (5)
 Zuständige Behörden im Sinne des § 3.06 Nummer 1 Satz 3, Nummer 3 Satz 1, Nummer 4 Buchstabe b und § 3.13 Nummer 1 Satz 4, Nummer 2 Satz 1 der Schiffspersonalverordnung-Rhein sind die Wasserstraßen- und Schifffahrtsämter. Im Falle des § 3.13 Nummer 1 Satz 4 ist auch die Generaldirektion Wasserstraßen und Schifffahrt zuständige Behörde.
 (6)
-Zuständige Behörde für die Typprüfung und Zulassung von Fahrtenschreibern im Sinne des § 3.10 Nummer 2 und 3 Satz 2 der Schiffspersonalverordnung-Rhein ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
+Zuständige Behörde für die Typprüfung und Zulassung von Fahrtenschreibern im Sinne des § 3.10 Nummer 2 und 3 Satz 2 der Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen und Schifffahrt.
 (7)
 Zuständige Behörde für
 1. die Anerkennung von Lehrgängen und Auffrischungslehrgängen zur Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff im Sinne der §§ 4a.03 und 4a.04 Nummer 2 Buchstabe b Satz 2, jeweils in Verbindung mit § 4a.05 Satz 2, § 4a.04 Nummer 2 Buchstabe b Satz 2 auch in Verbindung mit § 4a.03, der Schiffspersonalverordnung-Rhein,
@@ -46,6 +46,6 @@ Zuständige Behörde im Sinne des § 7.22 Nummer 1 bis 4 der Schiffspersonalvero
 (18)
 Zuständige Behörde für die Erteilung und den Entzug des Radarpatentes im Sinne des § 6.03 Nummer 2, § 8.05 Nummer 1 und § 8.06 Satz 1 der Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen und Schifffahrt. Diese ist auch zuständige Behörde im Sinne des § 8.02 Nummer 1, § 8.03 Nummer 1, § 8.04 Nummer 4 Satz 1 und des § 8.05 Nummer 4 Satz 2 der Schiffspersonalverordnung-Rhein. Abweichend von Satz 1 ist die Wasserschutzpolizei-Schule in Hamburg zuständige Behörde für den Entzug der von ihr vor dem 1. Januar 2003 ausgestellten Radarpatente.
 (19)
-Zuständige Behörde im Sinne des § 8.04 Nummer 2 der Schiffspersonalverordnung-Rhein für die Zulassung von Radarsimulatoren ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
+Zuständige Behörde im Sinne des § 8.04 Nummer 2 der Schiffspersonalverordnung-Rhein für die Zulassung von Radarsimulatoren ist die Generaldirektion Wasserstraßen und Schifffahrt.
 (20)
-Zuständige Behörde für die Anerkennung anderer Zeugnisse (§ 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein) ist das Bundesministerium für Verkehr und digitale Infrastruktur. Bescheinigungen der Wasserschutzpolizei-Schule in Hamburg über bestandene Prüfungen zum Erwerb des Radarpatentes gelten als anerkanntes Zeugnis im Sinne des § 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein.
+Zuständige Behörde für die Anerkennung anderer Zeugnisse (§ 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein) ist das Bundesministerium für Digitales und Verkehr. Bescheinigungen der Wasserschutzpolizei-Schule in Hamburg über bestandene Prüfungen zum Erwerb des Radarpatentes gelten als anerkanntes Zeugnis im Sinne des § 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein.

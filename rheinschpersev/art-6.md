@@ -27,9 +27,8 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 12. entgegen Artikel 5 Absatz 5 ein Fahrzeug führt.
 (4)
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig als Mitglied der Besatzung
-1. entgegen Artikel 5 Absatz 6 Nummer 1 seine Befähigung an Bord nicht nachweisen kann,
-2. entgegen Artikel 5 Absatz 6 Nummer 2 ein Schifferdienstbuch nicht oder nicht rechtzeitig vorlegt oder
-3. entgegen Artikel 5 Absatz 6 Nummer 4 eine dort genannte Tätigkeit aufnimmt.
+1. entgegen Artikel 5 Absatz 6 Nummer 1 seine Befähigung an Bord nicht nachweisen kann oder
+2. entgegen Artikel 5 Absatz 6 Nummer 4 eine dort genannte Tätigkeit aufnimmt.
 (5)
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig als Sachkundiger für Fahrgastschifffahrt entgegen Artikel 5 Absatz 7 einen Hinweis nicht, nicht richtig oder nicht rechtzeitig gibt.
 (6)

@@ -45,7 +45,7 @@ Dem Schiffsführer als Inhaber eines Rheinpatentes oder als Inhaber eines als gl
 (6)
 Jedes Mitglied der Besatzung
 1. muss seine Befähigung an Bord nach § 3.05 Nummer 1 Buchstabe b oder Nummer 2 der Schiffspersonalverordnung-Rhein nachweisen,
-2. muss das Schifferdienstbuch nach § 3.06 Nummer 4 Buchstabe b der Schiffspersonalverordnung-Rhein rechtzeitig vorlegen,
+2. (weggefallen),
 3. muss über Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff nach § 4a.01 Nummer 1 der Schiffspersonalverordnung-Rhein verfügen, wenn es auf einem Fahrzeug, das Flüssigerdgas (LNG) als Brennstoff nutzt, am Bunkervorgang beteiligt ist,
 4. darf seine Tätigkeit an Bord eines Fahrzeugs, das Flüssigerdgas (LNG) als Brennstoff nutzt, nach § 4a.01 Nummer 2 der Schiffspersonalverordnung-Rhein erst dann aufnehmen, nachdem es vom Schiffsführer in den Umgang mit Flüssigerdgas (LNG) als Brennstoff auf dem betreffenden Fahrzeug, insbesondere bezüglich des Bunkervorgangs, eingewiesen worden ist.
 (7)
