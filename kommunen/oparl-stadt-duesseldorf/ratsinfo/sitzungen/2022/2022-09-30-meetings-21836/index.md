@@ -1,0 +1,71 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-09-30T15:00:00+02:00
+- Ende: 2022-09-30T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21836
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21836
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460938.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460938.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00460938.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sondersitzung der Bezirksvertretung 1 vom 17.08.2022 - einstimmig beschlossen
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 26.08.2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 4.2: Mündlicher Bericht zum Energiesparkonzept Weihnachtsmarkt und Nachhaltigkeit bei der Verpackung im Schaustellergewerbe - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Königsallee 21,23 - Teilabbruch des Gebäudes - einstimmig beschlossen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 4.8: Barrierefreier Ausbau der Bussteige 1 und 5 der Haltestelle “Nordfriedhof“ und Fällung eines Straßenbaumes - einstimmig beschlossen
+- TOP 4.9: Nutzung des Ehrenhofes - zurückgezogen
+- TOP 4.10: Sitzungstermine der Bezirksvertretung 1 für das Jahr 2023 - zurückgezogen
+- TOP 4.10.1: Sitzungstermine der Bezirksvertretung 1 für das Jahr 2023 - zur Kenntnis genommen
+- TOP 4.11: Bereitstellung von Mitteln für den Jahresempfang 2023 - einstimmig beschlossen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2022 Liste A Schulen 2121101/ 52415100 - einstimmig beschlossen
+- TOP 4.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2022 - einstimmig beschlossen
+- TOP 4.14: Einbringung des Haushaltsplan 2023 (Entwurf) - Doppischer Produkthaushalt, Vorbericht und Anlagen sowie bezirksbezogene Haushaltsansätze - zur Kenntnis genommen
+- TOP 4.15: Erforderliche Erneuerung der Leuchten Rheinuferpromenade und Einbau von zwei Musterleuchten - zur Kenntnis genommen
+- TOP 4.16: Repräsentationsaufwendungen der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Dauerhafte Verkehrsberuhigung und Aufwertung der Mühlenstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - zur Kenntnis genommen
+- TOP 5.2: Grundstück Ecke Roßstraße / Hans Böckler Straße (Roßstraße 86) - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Organisation von Weihnachtsmarkt und Japantag durch D-Live - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Wasserspiel auf dem Grabbeplatz - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 6.3: Sondernutzungen auf der Schadowstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Fußweg auf der Thomasstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.2: Erneuerung des Altstadtpflasters - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Entfernung der Radwegmarkierung auf dem östlichen Gehweg entlang der Fischerstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.4: Sonnenschutz für den Spielplatz Klosterstraße, Bezug: Stellungnahme der Verwaltung vom 04.09.2020 (BV1/208/2020) - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.5: Schutz vor Vogelkot der unter einer Platane stehenden Sitzbank an der Ecke Immermannstraße/Oststr. 78 - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.6: MLP Covid-Testzentrum, Container vor Wilma Wunder auf dem Martin-Luther-Platz - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 7.7: Lärmschutz - Nächtliche Geschwindigkeitsbeschränkung auf der Jülicher Straße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.8: Rückbau der Goltsteinstraße nach Abschluss der Kanalbauarbeiten - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.9: Bauarbeiten im Stadtbezirk 1 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.10: Partyszene unterhalb der Franklinbrücke - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Antrag auf mindestens je zwei Baumpflanzungen in Wagnerstraße und Liebigstraße; Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/183/2022 - zur Kenntnis genommen
+- TOP 8.3: Bericht zur Umsetzung der Parkanlage mit Spielflächen im Schlösser-Areal am alten Schlachthof mit der Bitte um Errichtung eines Spielplatzes; Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/184/2022 - zur Kenntnis genommen
+- TOP 8.4: Sicherheit wiederherstellen, Roßstraße, Ecke An der Ulanenkaserne; Beschluss der Bezirksvertretung 1 vom 25.06.2021; BV1/141/2021 - zur Kenntnis genommen
+- TOP 8.5: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.6: Schutz von Baumscheiben auf der Worringer Straße durch mehr Fahrradabstellanlagen; Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/187/2022 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Mosaik e.V. - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt Marketing GmbH - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt-Armenküche e.V. - einstimmig beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Städtische Gemeinschaftsgrundschule Lennéstraße - einstimmig beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Heimatverein Derendorfer Jonges 1956 e.V. - einstimmig beschlossen
