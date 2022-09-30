@@ -24,8 +24,10 @@
 - [§ 13 Bereitschaftsdienst](0013.md)
 - [§ 14 Nachtdienst](0014.md)
 - [§ 15 Mehrarbeit](0015.md)
-- [§ 16 Gleitende Arbeitszeit](0016.md)
-- [§ 17 (weggefallen)](0017.md)
+- [§ 16 Gleitzeit](0016.md)
+- [§ 17 Langzeitkonten](0017.md)
+- [§ 17a Ansparen bei Langzeitkonten](0017a.md)
+- [§ 17b Zeitausgleich bei Langzeitkonten](0017b.md)
 - [§ 18 Automatisierte Zeiterfassung](0018.md)
 - [§ 19 Führungskräfte](0019.md)
 
@@ -34,9 +36,5 @@
 - [§ 20 Nichtanwendung des Abschnitts 2](0020.md)
 - [§ 21 Anordnung von Dienst](0021.md)
 - [§ 22 Umgang mit besonderen zeitlichen Belastungen](0022.md)
-- [§ 23 Ausgleich von Belastungen](0023.md)
-
-## Abschnitt 4 Schlussvorschriften
-
-- [§ 24 Inkrafttreten, Außerkrafttreten](0024.md)
+- [§ 23 Ausgleich besonderer zeitlicher Belastungen bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes](0023.md)
 - [Anlage (zu § 1 Absatz 2)](anlage.md)
