@@ -1,0 +1,4 @@
+# § 30b Experimentierklausel
+(1) Zur Erprobung neuer Versorgungskonzepte, die der Erhaltung oder Verbesserung der Wirtschaftlichkeit, Leistungsfähigkeit oder Qualitätsverbesserung des Rettungsdienstes dienen, kann der Senator für Inneres auf Antrag eines Trägers des Rettungsdienstes projektbasierte Vorhaben als Ausnahmen zu den in diesem Gesetz festgeschriebenen Vorgaben zulassen.
+(2) In dem Antrag ist darzulegen, zu welchem Zweck die Erprobung im Einzelnen dienen soll, von welchen Vorschriften Ausnahmen beantragt und welche Wirkungen erwartet werden. Der Antrag darf nur im Einvernehmen mit den Kostenträgern gestellt werden.
+(3) Die Ausnahme wird für höchstens zwei Jahre zugelassen. Die Zulassung der Ausnahme kann auf Antrag des Trägers des Rettungsdienstes um höchstens ein Jahr verlängert werden; Absatz 2 gilt entsprechend. Sie kann jederzeit widerrufen werden.

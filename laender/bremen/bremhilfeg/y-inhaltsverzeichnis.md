@@ -38,16 +38,20 @@ Kapitel 1 Allgemeine Vorschriften
 Kapitel 2 Durchführung des Rettungsdienstes
 § 26 | Luftrettung
 § 27 | Bodengebundener Rettungsdienst
-§ 28 | Rettungsmittelbedarfsplan
+§ 28 | Rettungsdienstbedarfsplan
 § 29 | Mitwirkung anderer Stellen
+§ 29a | Organisierte Erste Hilfe
 § 30 | Besetzung der Rettungsmittel
+§ 30a | Besetzung von Rettungsmitteln
+§ 30b | Experimentierklausel
 § 31 | Ärztliche Leitung Rettungsdienst
 § 32 | Fortbildung
-§ 33 | Qualitätsmanagement im Rettungsdienst
+§ 33 | Qualitätsmanagement und Dokumentation im Rettungsdienst
 Kapitel 3 Private Unternehmen
 § 34 | Betätigung im Krankentransport
-Kapitel 4 Regelungen für den Großschadensfall im Rettungsdienst
+Kapitel 4 Regelungen für den Massenanfall von Verletzten und Erkranken
 § 35 | Massenanfall verletzter oder erkrankter Personen, Schnell-Einsatz-Gruppen
+§ 35a | Schnelleinsatzgruppen
 § 36 | Leitende Notärztin, Leitender Notarzt, Organisatorische Leitung Rettungsdienst
 Teil 4 Katastrophenschutz
 Kapitel 1 Allgemeine Vorschriften

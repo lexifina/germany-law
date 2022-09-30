@@ -1,0 +1,10 @@
+# § 29a Organisierte Erste Hilfe
+(1) Organisierte Erste Hilfe ist die planmäßig und auf Dauer angelegte, von einer Organisation geleistete Erste Hilfe am Notfallort bis zum Eintreffen des Rettungsdienstes; organisierte Erste Hilfe ist kein Teil des Rettungsdienstes.
+(2) Die Rettungsdienstträger können mit Einrichtungen, die organisierte Erste Hilfe erbringen, Vereinbarungen abschließen. Diese Vereinbarungen dienen ausschließlich dem Zweck, die organisierte Erste Hilfe planbar und in fachlich gebotenem Maße zur Unterstützung des Rettungsdienstes einsetzbar zu machen. Es besteht kein Anspruch auf Verfügbarkeit der organisierten Ersten Hilfe.
+(3) In den Vereinbarungen nach Absatz 2 sind als Selbstbindung der Einrichtungen festzulegen:
+1. Der räumliche Einsatzbereich in Abhängigkeit von der maximalen Zeitspanne bis zum Erreichen des Einsatzortes,
+2. der fachliche Einsatzbereich,
+3. die Qualifikation der Einsatzkräfte,
+4. die Ausrüstung der Einsatzkräfte und
+5. eine Dokumentation und die Sicherstellung des Datenschutzes.
+Die organisierte Erste Hilfe wird von den Einsatzleitstellen nur auf der Grundlage und im Rahmen der Vereinbarung nach Satz 1 alarmiert.
