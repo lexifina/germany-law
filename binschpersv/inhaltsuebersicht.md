@@ -48,7 +48,7 @@ Betriebsebene und Maschinenpersonal
 | § 33 | Steuerleute |
 | § 34 | Maschinenkundige |
 | § 35 | Behördliche Befähigungsprüfung für die Betriebsebene |
-| § 36 | Nachweis der Ausbildung |
+| § 36 | (weggefallen) |
 Abschnitt 3
 Führungsebene
 | § 37 | Erwerb des Unionspatentes |
@@ -74,12 +74,13 @@ Sicherheitspersonal
 | § 52 | Durchführung der Prüfungen |
 Abschnitt 6
 Zulassung von
-Ausbildungsprogrammen
+Lehrgängen, Ausbildungsprogrammen
+und Weiterbildungsprogrammen
 | § 53 | Lehrgänge für die grundlegende Sicherheitsausbildung |
 | § 54 | Lehrgänge für Maschinenkundige |
-| § 55 | Ausbildungsprogramme für die Betriebs- und die Führungsebene |
-| § 56 | Voraussetzungen für die Zulassung von Ausbildungsprogrammen für Sachkundige |
-| § 57 | Verfahren zur Zulassung von Ausbildungsprogrammen für Sachkundige |
+| § 55 | Ausbildungsprogramme und Weiterbildungsprogramme |
+| § 56 | Voraussetzungen für die Zulassung von Lehrgängen für Sachkundige |
+| § 57 | Verfahren zur Zulassung von Lehrgängen |
 | § 58 | Lehrgänge für atemschutzgerättragende Personen |
 Kapitel 3
 Verfahren für die
@@ -94,7 +95,7 @@ sowie für das Maschinenpersonal
 | § 59 | Durchführung der behördlichen Befähigungsprüfung |
 | § 60 | Ausstellung des Schifferdienstbuches |
 | § 61 | Erteilung des Unionsbefähigungszeugnisses |
-| § 62 | Erteilung des Unionsbefähigungszeugnisses nach Abschluss eines zugelassenen Ausbildungsprogramms |
+| § 62 | Erteilung des Unionsbefähigungszeugnisses nach Abschluss eines zugelassenen Ausbildungsprogramms oder Weiterbildungsprogramms |
 | § 63 | Ablaufen und Verlängerung der Unionsbefähigungszeugnisse für die Einstiegsebene und die Betriebsebene |
 | § 64 | Befähigungszeugnis für Maschinenkundige |
 Abschnitt 2
@@ -131,7 +132,7 @@ Verfahren für das Sicherheitspersonal
 | § 88 | Ablaufen der Befähigungszeugnisse für atemschutzgerättragende Personen |
 Abschnitt 4
 Zulassung von Simulatoren
-| § 89 | Voraussetzungen für die Zulassung von Simulatoren |
+| § 89 | Voraussetzungen für die Zulassung und den Widerruf der Zulassung von Simulatoren |
 | § 90 | Zuständigkeit und Verfahren für die Zulassung von Simulatoren |
 Kapitel 4
 Überprüfung, Aussetzung und
@@ -193,13 +194,14 @@ Teil 7
 | § 135 | Gültigkeit der Nachweise der Befähigung für Ersthelfer und Ersthelferinnen und atemschutzgerättragende Personen |
 | § 136 | Geltung von Besatzungsdokumenten nach der Schiffspersonalverordnung-Rhein |
 | § 137 | Durchführung von Tauglichkeitsuntersuchungen und Verlängerung der Zulassung von Ärzten und Ärztinnen |
-| § 138 | Grundlegende Sicherheitsausbildung |
+| § 138 | (weggefallen) |
 | § 139 | Sicherheitspersonal auf Fahrgastschiffen |
 | § 140 | Anrechnung von Fahrzeiten |
-| § 141 | Anwendung der Verordnung |
-| Anlage 1(zu § 12 Absatz 1 Satz 1 Nummer 3) | Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist |
+| § 141 | Umtausch von Radarbescheinigungen |
+| § 142 | Befahren der Elbe |
+| Anlage 1(zu § 12 Absatz 1 Satz 1 Nummer 2) | Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist |
 | Anlage 2(zu § 16 Absatz 1 Satz 1 Nummer 2) | Binnenwasserstraßenabschnitte mit besonderen Risiken |
-| Anlage 3(zu § 17 Absatz 5 Nummer 1) | Bescheinigung Lehrgang atemschutzgerättragende Person |
+| Anlage 3(zu § 17 Absatz 6 Nummer 1) | Bescheinigung Lehrgang atemschutzgerättragende Person |
 | Anlage 4(zu § 20) | Medizinische Tauglichkeitskriterien bei Gesundheitsstörungen (allgemeine Tauglichkeit, Seh- und Hörvermögen) |
 | Anhang 1zu Anlage 4 | Relevante Kriterien in Bezug auf das Sehvermögen nach Diagnosecode H 00–59 |
 | Anhang 2zu Anlage 4 | Relevante Kriterien in Bezug auf das Hörvermögen nach Diagnosecode H 68–95 |
@@ -230,10 +232,10 @@ Teil 7
 | Anlage 24(zu § 78 Absatz 3 Nummer 2) | Muster Fährschifferzeugnis |
 | Anlage 25(zu § 78 Absatz 3 Nummer 3) | Muster Behördenschifferzeugnis |
 | Anlage 26(zu § 78 Absatz 3 Nummer 4) | Muster Sportschifferzeugnis |
-| Anlage 27(zu § 78 Absatz 3 Nummer 5) | Kleinschifferzeugnis |
+| Anlage 27(zu § 78 Absatz 3 Nummer 5) | Muster Kleinschifferzeugnis |
 | Anlage 28(zu § 79 Absatz 4 Nummer 1) | Muster für die besondere Berechtigung als gesonderte Karte bei amtlichem Berechtigungsschein |
 | Anlage 29(zu § 79 Absatz 4 Nummer 2) | Muster für besondere Berechtigung für Radar als gesonderte Karte bei Sportbootführerscheinen |
-| Anlage 30(zu § 89) | Technische und funktionale Anforderungen an Fahrsimulatoren und Radarsimulatoren in der Binnenschifffahrt |
+| Anlage 30(zu § 89 Absatz 1) | Technische und funktionale Anforderungen an Fahrsimulatoren und Radarsimulatoren in der Binnenschifffahrt |
 | Anlage 31(zu § 90 Absatz 2) | Standards für das behördliche Zulassungsverfahren für Fahrsimulatoren und Radarsimulatoren |
 | Anlage 32(zu § 137 Absatz 2) | Voraussetzungen für die Verlängerung der Ermächtigung von Ärzten und Ärztinnen |
-| Anlage 33(zu § 138) | Bescheinigung des Arbeitgebers über die grundlegende Sicherheitsausbildung |
+| Anlage 33(zu § 138) | (weggefallen) |

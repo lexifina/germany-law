@@ -117,6 +117,12 @@ des Verurteilten
 - [§ 57a Austausch von Registerinformationen mit Mitgliedstaaten der Europäischen Union](0057a.md)
 - [§ 58 Berücksichtigung von Verurteilungen](0058.md)
 
+### Achter Abschnitt Verarbeitung personenbezogener Daten zu den Zwecken der Verordnung (EU) 2019/816 und der Verordnung (EU) 2019/818
+
+- [§ 58a Ersuchen um Übermittlung personenbezogener Daten von ECRIS-TCN](0058a.md)
+- [§ 58b Austausch von personenbezogenen Daten zwischen der Registerbehörde und dem Bundeskriminalamt](0058b.md)
+- [§ 58c Ablauf der Speicherfrist in ECRIS-TCN](0058c.md)
+
 ## Dritter Teil Das Erziehungsregister
 
 - [§ 59 Führung des Erziehungsregisters](0059.md)

@@ -22,8 +22,8 @@ I. Rechtskenntnisse
   7. Detailkenntnisse der Fährenbetriebsverordnung
 II. Wasserstraßenkenntnisse
   1. Kenntnisse der beantragten Fährstrecke
-  2. Detailkenntnisse in den Seezeichen und den Betonnungssystemen
-  3. Grundkenntnisse in der Gezeitenlehre
+  2. Detailkenntnisse in den Seezeichen und den Betonnungssystemen*
+  3. Grundkenntnisse in der Gezeitenlehre*
 III. Berufskenntnisse
   1. Fähigkeiten, das Fahrzeug zu führen, insbesondere
     a) Vorgänge beim Steuern, Manövriereigenschaften
@@ -42,6 +42,7 @@ III. Berufskenntnisse
     d) Abfallbehandlung und Reinhaltung der Wasserstraßen
     e) Benachrichtigung von zuständigen Behörden
     f) Brandverhütung, Feuerlöschwesen
+*Nur zu verwenden, wenn sich die Fährschifferprüfung nach § 40 Absatz 2 Satz 2 auf eine Fährstelle in einer Binnenwasserstraße mit maritimem Charakter bezieht.
 Teil 2: Sportschifferzeugnis
 I. Rechtskenntnisse
   1. Detailkenntnisse aus den folgenden Kapiteln und Anlagen der Polizeiverordnungen:

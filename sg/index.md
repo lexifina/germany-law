@@ -10,6 +10,7 @@
 - [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 2 Dauer des Wehrdienstverhältnisses; Dienstzeitberechnung](0002.md)
 - [§ 3 Ernennungs- und Verwendungsgrundsätze](0003.md)
+- [§ 3a Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen](0003a.md)
 - [§ 4 Ernennung, Dienstgradbezeichnungen, Uniform](0004.md)
 - [§ 4a (weggefallen)](0004a.md)
 - [§ 5 Gnadenrecht](0005.md)
@@ -202,7 +203,7 @@ Verwaltungsakte nach dem Vierten Abschnitt
 - [§ 90 Organisationsgesetz](0090.md)
 - [§ 91 (weggefallen)](0091.md)
 - [§ 92 Übergangsvorschrift für die Laufbahnen](0092.md)
-- [§ 93 Zuständigkeit für den Erlass der Rechtsverordnungen](0093.md)
+- [§ 93 Verordnungsermächtigungen](0093.md)
 - [§ 94 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983
 (BGBl. I S. 179)](0094.md)
 - [§ 95 Übergangsvorschrift aus Anlass des Änderungsgesetzes

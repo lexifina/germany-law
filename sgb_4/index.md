@@ -23,7 +23,7 @@
 - [§ 7d Führung und Verwaltung von Wertguthaben](0007d.md)
 - [§ 7e Insolvenzschutz](0007e.md)
 - [§ 7f Übertragung von Wertguthaben](0007f.md)
-- [§ 8 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit](0008.md)
+- [§ 8 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit; Geringfügigkeitsgrenze](0008.md)
 - [§ 8a Geringfügige Beschäftigung in Privathaushalten](0008a.md)
 - [§ 9 Beschäftigungsort](0009.md)
 - [§ 10 Beschäftigungsort für besondere Personengruppen](0010.md)
@@ -289,6 +289,7 @@
 - [§ 131 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Testzentren](0131.md)
 - [§ 132 (weggefallen)](0132.md)
 - [§ 133 Übergangsvorschrift zur Besetzung der hauptamtlichen Vorstände und Geschäftsführungen der Versicherungsträger](0133.md)
+- [§ 134 Übergangsregelung zum Übergangsbereich](0134.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
 
 (BGBl. II 1990, 889, 1046)

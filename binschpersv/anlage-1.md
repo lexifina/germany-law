@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 12 Absatz 1 Satz 1 Nummer 3)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist
+# Anlage 1 (zu § 12 Absatz 1 Satz 1 Nummer 2)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist
 
 1. Kieler Förde
 2. Nord-Ostsee-Kanal

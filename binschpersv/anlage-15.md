@@ -72,7 +72,7 @@ Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risi
     nur einschiffig durchfahrbare Brücken
     (5)
     lokale Verkehrsregelungen
-Teil III. Rhein – von Rhein-km 352,07 (Grenze zu Frankreich) bis Rhein-km 425,00 (Mannheim)
+Teil III. Rhein – von Rhein-km 335,92 (Schleuse Iffezheim) bis Rhein-km 425,00 (Mannheim)
 Zusätzliche Befähigung
 Der Schiffsführer, der diesen Binnenwasserstraßenabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Binnenwasserstraßenabschnitts.
 1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.

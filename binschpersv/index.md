@@ -54,7 +54,7 @@
 - [§ 33 Steuerleute](0033.md)
 - [§ 34 Maschinenkundige](0034.md)
 - [§ 35 Behördliche Befähigungsprüfung für die Betriebsebene](0035.md)
-- [§ 36 Nachweis der Ausbildung](0036.md)
+- [§ 36 (weggefallen)](0036.md)
 
 #### Abschnitt 3 Führungsebene
 
@@ -81,13 +81,13 @@
 - [§ 51 Atemschutzgerättragende Personen](0051.md)
 - [§ 52 Durchführung der Prüfungen](0052.md)
 
-#### Abschnitt 6 Zulassung von Ausbildungsprogrammen
+#### Abschnitt 6 Zulassung von Lehrgängen, Ausbildungsprogrammen und Weiterbildungsprogrammen
 
 - [§ 53 Lehrgänge für die grundlegende Sicherheitsausbildung](0053.md)
 - [§ 54 Lehrgänge für Maschinenkundige](0054.md)
-- [§ 55 Ausbildungsprogramme für die Betriebs- und die Führungsebene](0055.md)
-- [§ 56 Voraussetzungen für die Zulassung von Ausbildungsprogrammen für Sachkundige](0056.md)
-- [§ 57 Verfahren zur Zulassung von Ausbildungsprogrammen für Sachkundige](0057.md)
+- [§ 55 Ausbildungsprogramme und Weiterbildungsprogramme](0055.md)
+- [§ 56 Voraussetzungen für die Zulassung von Lehrgängen für Sachkundige](0056.md)
+- [§ 57 Verfahren zur Zulassung von Lehrgängen für Sachkundige](0057.md)
 - [§ 58 Lehrgänge für atemschutzgerättragende Personen](0058.md)
 
 ### Kapitel 3 Verfahren für die Prüfung der Befähigung, die Erteilung von Befähigungszeugnissen und Ausstellung von Schifferdienstbüchern und ihre Gültigkeit und Verlängerung
@@ -98,7 +98,7 @@
 - [§ 59 Durchführung der behördlichen Befähigungsprüfung](0059.md)
 - [§ 60 Ausstellung des Schifferdienstbuches](0060.md)
 - [§ 61 Erteilung des Unionsbefähigungszeugnisses](0061.md)
-- [§ 62 Erteilung des Unionsbefähigungszeugnisses nach Abschluss eines zugelassenen Ausbildungsprogramms](0062.md)
+- [§ 62 Erteilung des Unionsbefähigungszeugnisses nach Abschluss eines zugelassenen Ausbildungsprogramms oder Weiterbildungsprogramms](0062.md)
 - [§ 63 Ablaufen und Verlängerung der Unionsbefähigungszeugnisse für die Einstiegsebene und die Betriebsebene](0063.md)
 - [§ 64 Befähigungszeugnis für Maschinenkundige](0064.md)
 
@@ -136,11 +136,11 @@
 - [§ 85 Erteilung des Unionsbefähigungszeugnisses für Sachkundige](0085.md)
 - [§ 86 Ablaufen und Verlängerung des Unionsbefähigungszeugnisses für Sachkundige für Flüssigerdgas](0086.md)
 - [§ 87 Ablaufen und Verlängerung des Unionsbefähigungszeugnisses für Sachkundige für die Fahrgastschifffahrt](0087.md)
-- [§ 88 Ablaufen der Befähigungszeugnisse für atemschutzgerättragende Personen](0088.md)
+- [§ 88 Ablaufen der Befähigungszeugnisse für atemschutzgerättragende Personen; Wiederholungslehrgang](0088.md)
 
 #### Abschnitt 4 Zulassung von Simulatoren
 
-- [§ 89 Voraussetzungen für die Zulassung von Simulatoren](0089.md)
+- [§ 89 Voraussetzungen für die Zulassung und den Widerruf der Zulassung von Simulatoren](0089.md)
 - [§ 90 Zuständigkeit und Verfahren für die Zulassung von Simulatoren](0090.md)
 
 ### Kapitel 4 Überprüfung, Aussetzung und Entzug von Befähigungszeugnissen
@@ -207,13 +207,14 @@
 - [§ 135 Gültigkeit der Nachweise der Befähigung für Ersthelfer und Ersthelferinnen und atemschutzgerättragende Personen](0135.md)
 - [§ 136 Geltung von Besatzungsdokumenten nach der Schiffspersonalverordnung-Rhein](0136.md)
 - [§ 137 Durchführung von Tauglichkeitsuntersuchungen und Verlängerung der Zulassung von Ärzten und Ärztinnen](0137.md)
-- [§ 138 Grundlegende Sicherheitsausbildung](0138.md)
+- [§ 138 (weggefallen)](0138.md)
 - [§ 139 Sicherheitspersonal auf Fahrgastschiffen](0139.md)
-- [§ 140 Anrechnung von Fahrzeiten](0140.md)
-- [§ 141 Anwendung der Verordnung](0141.md)
-- [Anlage 1 (zu § 12 Absatz 1 Satz 1 Nummer 3)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist](anlage-1.md)
+- [§ 140 Anrechnung und Nachweis von Fahrzeiten](0140.md)
+- [§ 141 Umtausch von Radarbescheinigungen](0141.md)
+- [§ 142 Befahren der Elbe](0142.md)
+- [Anlage 1 (zu § 12 Absatz 1 Satz 1 Nummer 2)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist](anlage-1.md)
 - [Anlage 2 (zu § 16 Absatz 1 Satz 1 Nummer 2)Binnenwasserstraßenabschnitte mit besonderen Risiken](anlage-2.md)
-- [Anlage 3 (zu § 17 Absatz 5 Nummer 1)Bescheinigung Lehrgang atemschutzgerättragende Person](anlage-3.md)
+- [Anlage 3 (zu § 17 Absatz 6 Nummer 1)Bescheinigung Lehrgang atemschutzgerättragende Person](anlage-3.md)
 - [Anlage 4 (zu § 20)Medizinische Tauglichkeitskriterien bei Gesundheitsstörungen (allgemeine Tauglichkeit, Seh- und Hörvermögen)](anlage-4.md)
 - [Anhang 1 zu Anlage 4 Relevante Kriterien in Bezug auf das Sehvermögen nach Diagnosecode H 00–59](anhang-1-zu-anlage-4.md)
 - [Anhang 2 zu Anlage 4 Relevante Kriterien in Bezug auf das Hörvermögen nach Diagnosecode H 68–95](anhang-2-zu-anlage-4.md)
@@ -244,10 +245,9 @@
 - [Anlage 24 (zu § 78 Absatz 3 Nummer 2)Muster Fährschifferzeugnis](anlage-24.md)
 - [Anlage 25 (zu § 78 Absatz 3 Nummer 3)Muster Behördenschifferzeugnis](anlage-25.md)
 - [Anlage 26 (zu § 78 Absatz 3 Nummer 4)Muster Sportschifferzeugnis](anlage-26.md)
-- [Anlage 27 (zu § 78 Absatz 3 Nummer 5)Kleinschifferzeugnis](anlage-27.md)
+- [Anlage 27 (zu § 78 Absatz 3 Nummer 5)Muster Kleinschifferzeugnis](anlage-27.md)
 - [Anlage 28 (zu § 79 Absatz 4 Nummer 1)Muster für die besondere Berechtigung als gesonderte Karte bei amtlichem Berechtigungsschein](anlage-28.md)
 - [Anlage 29 (zu § 79 Absatz 4 Nummer 2)Muster für besondere Berechtigung für Radar als gesonderte Karte bei Sportbootführerscheinen](anlage-29.md)
-- [Anlage 30 (zu § 89)Technische und funktionale Anforderungen an Fahrsimulatoren und Radarsimulatoren in der Binnenschifffahrt](anlage-30.md)
+- [Anlage 30 (zu § 89 Absatz 1)Technische und funktionale Anforderungen an Fahrsimulatoren und Radarsimulatoren in der Binnenschifffahrt](anlage-30.md)
 - [Anlage 31 (zu § 90 Absatz 2)Standards für das behördliche Zulassungsverfahren für Fahrsimulatoren und Radarsimulatoren](anlage-31.md)
 - [Anlage 32 (zu § 137 Absatz 2)Voraussetzungen für die Verlängerung der Ermächtigung von Ärzten und Ärztinnen](anlage-32.md)
-- [Anlage 33 (zu § 138)Bescheinigung des Arbeitgebers über die grundlegende Sicherheitsausbildung](anlage-33.md)

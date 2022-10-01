@@ -1,4 +1,4 @@
-# Anlage 30 (zu § 89)Technische und funktionale Anforderungen an Fahrsimulatoren und Radarsimulatoren in der Binnenschifffahrt
+# Anlage 30 (zu § 89 Absatz 1)Technische und funktionale Anforderungen an Fahrsimulatoren und Radarsimulatoren in der Binnenschifffahrt
 
 | Nr. | Gegenstand | Qualitätsniveau der technischen Anforderungen | Testverfahren | Fahr- simu- lator | Radar- simu- lator |
 | 1. | Navigationsradaranlage für die Binnenschifffahrt | Am Simulator muss mindestens eine Navigationsradaranlage für die Binnenschifffahrt mit denselben Funktionalitäten wie eine typgenehmigte Navigationsradaranlage für die Binnenschifffahrt gemäß ES-TRIN installiert sein. | Es muss überprüft werden, ob die Anlage über dieselben Funktionalitäten wie eine typgenehmigte Navigationsradaranlage für die Binnenschifffahrt verfügt. | x | x |

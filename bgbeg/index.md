@@ -1136,7 +1136,7 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 #### Art 239 Länderöffnungsklausel
 
 
-#### Art 240 Vertragsrechtliche Regelungen aus Anlass der COVID-19-Pandemie
+#### Art 240 (weggefallen)
 
 
 #### Art 240

@@ -6,6 +6,7 @@
 | § 1 | Begriffsbestimmungen |
 | § 2 | Dauer des Wehrdienstverhältnisses; Dienstzeitberechnung |
 | § 3 | Ernennungs- und Verwendungsgrundsätze |
+| § 3a | Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen |
 | § 4 | Ernennung, Dienstgradbezeichnungen, Uniform |
 | § 4a | (weggefallen) |
 | § 5 | Gnadenrecht |
@@ -151,7 +152,7 @@
 | § 90 | Organisationsgesetz |
 | § 91 | (weggefallen) |
 | § 92 | Übergangsvorschrift für die Laufbahnen |
-| § 93 | Zuständigkeit für den Erlass von Rechtsverordnungen |
+| § 93 | Verordnungsermächtigungen |
 | § 94 | Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983 (BGBl. I S. 179) |
 | § 95 | Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 6. Dezember 1990 (BGBl. I S. 2588) |
 | § 96 | Übergangsvorschrift aus Anlass des Dienstrechtsneuordnungsgesetzes |

@@ -1,4 +1,4 @@
-# Anlage 3 (zu § 17 Absatz 5 Nummer 1)Bescheinigung Lehrgang atemschutzgerättragende Person
+# Anlage 3 (zu § 17 Absatz 6 Nummer 1)Bescheinigung Lehrgang atemschutzgerättragende Person
 
 Name des Anbieters des zugelassenen Lehrgangs
 Kennziffer der Zulassung (JJJJ-XXXXXX-VV)

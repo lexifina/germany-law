@@ -1,4 +1,4 @@
-# Anlage 27 (zu § 78 Absatz 3 Nummer 5)Kleinschifferzeugnis
+# Anlage 27 (zu § 78 Absatz 3 Nummer 5)Muster Kleinschifferzeugnis
 
 (Vorderseite)
 [Bild: bgbl1_2021_j4982-1_0070.jpg]

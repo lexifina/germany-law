@@ -26,4 +26,4 @@ Die untersuchte Person wurde hinsichtlich ihrer körperlichen und psychischen Ta
   ☐ 09 Beschränkte Aufgabe __________________________
 |  |  | Stempel |
 |  |  |  |
-| Unterschrift des Arztes/der Ärztin |  |  |
+| Datum, Unterschrift des Arztes/der Ärztin |  |  |
