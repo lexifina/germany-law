@@ -1,33 +1,34 @@
 # Anlage 1
 Anlage 1
 (zu § 38 Absatz 1 Satz 1 BremPPV)
-Tabelle der anrechenbaren Bauwerte je Kubikmeter Brutto-Rauminhalt Bezugsjahr 2010 = Indexzahl 1,000
-Gebäudeart | anrechenbare Bauwerte in € / m3 | 
-1. | Wohngebäude | 113
-2. | Wochenendhäuser | 99
-3. | Büro- und Verwaltungsgebäude, Banken und Arztpraxen | 152
-4. | Schulen | 144
-5. | Kindertageseinrichtungen | 129
-6. | Hotels, Pensionen und Heime bis jeweils 60 Betten, Gaststätten | 129
-7. | Hotels, Heime und Sanatorien mit jeweils mehr als 60 Betten | 150
-8. | Krankenhäuser | 168
-9. | Versammlungsstätten, wie Mehrzweckhallen, soweit nicht nach den Nummern 11 und 12, Theater, Kinos | 129
-10. | Hallenbäder | 139
-11. | eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt- und Lagergebäude in einfachen Rahmen- oder Stiel-Riegel-Konstruktionen und mit nicht mehr als 50 000 m3 Brutto-Rauminhalt sowie einfache Sporthallen und landwirtschaftliche Betriebsgebäude, soweit nicht nach Nummer 19 | 
-11.1 | bis 2 500 m3 Brutto-Rauminhalt | 55
-11.2 | der 2 500 m3 übersteigende Brutto-Rauminhalt bis 5 000 m3 | 46
-11.3 | der 5 000 m3 übersteigende Brutto-Rauminhalt | 38
-12. | konstruktiv andere eingeschossige Verkaufsstätten, Sportstätten | 85
-13. | konstruktiv andere eingeschossige Fabrik-, Werkstatt- und Lagergebäude | 76
-14. | mehrgeschossige Verkaufsstätten und Lagergebäude mit nicht mehr als 50 000 m3 Brutto-Rauminhalt | 115
-15. | mehrgeschossige Fabrik- und Werkstattgebäude mit nicht mehr als 50 000 m3 Brutto-Rauminhalt | 100
-16. | eingeschossige Garagen, ausgenommen offene Kleingaragen | 83
-17. | mehrgeschossige Mittel- und Großgaragen | 100
-18. | Tiefgaragen | 154
-19. | Schuppen, Kaltställe, offene Feldscheunen, offene Kleingaragen und ähnliche Gebäude | 40
+Tabelle der aktuellen anrechenbaren Bauwerte je Kubikmeter Brutto-Rauminhalt gültig ab 1. Oktober 2022 Bezugsjahr 2010 = Indexzahl 100
+Gebäudeart | aktuelle anrechenbare Bauwerte in € / m3 | 
+1. | Wohngebäude | 160
+2. | Wochenendhäuser | 140
+3. | Büro- und Verwaltungsgebäude, Banken und Arztpraxen | 216
+4. | Schulen | 204
+5. | Kindertageseinrichtungen | 183
+6. | Hotels, Pensionen und Heime bis jeweils 60 Betten, Gaststätten | 183
+7. | Hotels, Heime und Sanatorien mit jeweils mehr als 60 Betten | 213
+8. | Krankenhäuser | 238
+9. | Versammlungsstätten, wie Mehrzweckhallen, soweit nicht nach den Nummern 11 und 12, Theater, Kinos | 183
+10. | Hallenbäder | 197
+11. | eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt- und Lagergebäude in einfachen Rahmen- oder Stiel-Riegel-Konstruktionen sowie einfache Sporthallen und landwirtschaftliche Betriebsgebäude, soweit nicht nach Nummer 19 | 
+11.1 | bis 2 500 m3 Brutto-Rauminhalt | 78
+11.2 | der 2 500 m3 übersteigende Brutto-Rauminhalt bis 5 000 m3 | 65
+11.3 | der 5 000 m3 übersteigende Brutto-Rauminhalt bis 50 000 m3 | 54
+11.4 | der 50 000 m3 übersteigende Brutto-Rauminhalt | 27
+12. | konstruktiv andere eingeschossige Verkaufsstätten, Sportstätten | 121
+13. | konstruktiv andere eingeschossige Fabrik-, Werkstatt- und Lagergebäude | 108
+14. | mehrgeschossige Verkaufsstätten und Lagergebäude mit nicht mehr als 50 000 m3 Brutto-Rauminhalt | 163
+15. | mehrgeschossige Fabrik- und Werkstattgebäude mit nicht mehr als 50 000 m3 Brutto-Rauminhalt | 142
+16. | eingeschossige Garagen, ausgenommen offene Kleingaragen | 118
+17. | mehrgeschossige Mittel- und Großgaragen | 142
+18. | Tiefgaragen | 218
+19. | Schuppen, Kaltställe, offene Feldscheunen, offene Kleingaragen und ähnliche Gebäude | 57
 20. | Gewächshäuser | 
-20.1 | bis 1 500 m3 Brutto-Rauminhalt | 30
-20.2 | der 1 500 m3 übersteigende Brutto-Rauminhalt | 17
+20.1 | bis 1 500 m3 Brutto-Rauminhalt | 43
+20.2 | der 1 500 m3 übersteigende Brutto-Rauminhalt | 24
 Zuschläge auf die anrechenbaren Bauwerte:
 bei Gebäuden mit mehr als fünf Geschossen | 5 v. H.
 Hochhäuser und vergleichbar hohe Gebäude | 10 v. H.
