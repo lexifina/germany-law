@@ -1,0 +1,14 @@
+# Sitzung der RPG-Böfingen
+
+- Körperschaft: Stadt Ulm
+- Beginn: 2022-10-04T18:00:00+02:00
+- Ende: 2022-10-04T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://buergerinfo.ulm.de/oparl/bodies/0001/organizations/gr/96
+- Ratsinformationssystem: http://buergerinfo.ulm.de/oparl/bodies/0001/meetings/12586
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/meetings/12586
+- Quelle: https://buergerinfo.ulm.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
