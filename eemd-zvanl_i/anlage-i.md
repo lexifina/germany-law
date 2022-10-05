@@ -1,4 +1,4 @@
-# Anlage I (Prüfvereinbarung)
+# Anlage I Prüfvereinbarung
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 Prüfvereinbarung

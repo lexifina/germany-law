@@ -1,6 +1,6 @@
 # Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen
 
-- [Anlage I (Prüfvereinbarung)](anlage-i.md)
+- [Anlage I Prüfvereinbarung](anlage-i.md)
 - [§ 1 Gegenstand der Vereinbarung](0001.md)
 - [§ 2 Vertragsbestandteile](0002.md)
 - [§ 3 Ablauf des Prüfverfahrens](0003.md)
