@@ -15,7 +15,7 @@
 - [§ 5 Verbot der Beheizung von Gemeinschaftsflächen](0005.md)
 - [§ 6 Höchstwerte für die Lufttemperatur in Arbeitsräumen in öffentlichen Nichtwohngebäuden](0006.md)
 - [§ 7 Trinkwassererwärmungsanlagen in öffentlichen Nichtwohngebäuden](0007.md)
-- [§ 8 Beleuchtung von Gebäuden und Baudenkmälern](0008.md)
+- [§ 8 Beleuchtung von öffentlichen Nichtwohngebäuden und Baudenkmälern](0008.md)
 
 ## Titel 3 Maßnahmen zur Energieeinsparung in Unternehmen
 
