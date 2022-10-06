@@ -1,0 +1,58 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2022-10-06T17:30:00+02:00
+- Ende: 2022-10-06T19:14:00+02:00
+- Ort: Gymnastikhalle Wallenhorst, Fröbelstraße 2, 49134 Wallenhorst, Gymnastikhalle
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQzFB6rtWOy6amARbz4ICqc
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1528
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcDNSgxeyY9u3lyj5DqYHQqrvhOoEGzOZjwsSqs90tNJ/Bekanntmachung_Rat_06.10.2022.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWMcNs3YKlji3RQwl7cHGH4viR_LgaKwt4jfh5Nj3q17/Oeffentliches_Beschlussprotokoll_Rat_06.10.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 12.07.2022
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Busausfälle im Bereich der VOS Wallenhorst
+- TOP 3.2: Anfrage im Ausschuss Wirtschaft und Finanzen zur Knappheit von Chemikalien zur Abwasseraufbereitung in den Kläranlagen
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: 1. Änderung der Geschäftsordnung für den Rat, den Verwaltungsausschuss, die Ratsausschüsse und die Ausschüsse nach besonderen Rechtsvorschriften - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Neubesetzung des Ausschusses für Kindergärten, Schulen und Bildung hier: Schülervertreterinnen und -vertreter - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Satzungsrecht
+- TOP 5.1: 4. Änderung der Hauptsatzung der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Antrag der CDU-Fraktion auf Prüfung einer ukrainischen Städtepartnerschaft - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Antrag der CDW/W-Fraktion auf Bau eines weiteren Kreisverkehrsplatzes an der L109 in Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.3: Antrag der CDW/W-Fraktion auf Beitritt zur Initiative „Lebenswerte Städte durch angemessene Geschwindigkeiten“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.4: Antrag der CDW/W-Fraktion auf Schaffung einer Einkehrmöglichkeit mit einem gastronomischen Angebot (Pop-up-Biergarten) am Stichkanal - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Schulangelegenheiten
+- TOP 7.1: Anschaffung von Luftreinigungsgeräten für die Wallenhorster Schulen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Vorstellung der Vorentwurfsplanung für den Neubau der Mensa der Johannisschule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Sicherheit und Ordnung
+- TOP 8.1: 7. Änderung der "Satzung über die Gewährung von Aufwandsentschädigung und Auslagenersatz der Ehrenbeamten und sonstigen Funktionsträgerinnen und Funktionsträger in der Freiwilligen Feuerwehr der Gemeinde Wallenhorst" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: Neufassung der Verordnung über die Art und den Umfang der Straßenreinigung in der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.3: Neufassung der Satzung über die Reinigung der öffentlichen Straßen in der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.4: Vertrag mit der Ströer Deutsche Städte Medien GmbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Bauleitpläne
+- TOP 9.1: Bebauungsplan Nr. 284 „Östlich der Kleingartenkolonie“ mit Aufhebung des vorhabenbezogenen Bebauungsplanes Nr. 215 „An der Feldmühle“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Vermarktungskonzept Grundstück „Alte Feuerwache Rulle“ hier: Beschluss über die Durchführung eines zweistufigen Interessenbekundungsverfahrens als Vergabeverfahren nach Planentwürfen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.3: Umgang mit der Wohnform „Tiny-Haus“ im Gemeindegebiet Hier: Beschluss über den Antrag der CDW/W-Fraktion vom 11.04.2022 - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 10.4: Errichtung von Freiflächen-Photovoltaik-Anlagen auf gemeindeeigenen Flächen Hier: Antrag der Fraktion Bündnis 90 Die Grünen vom 03.05.2022 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Kämmereiangelegenheiten
+- TOP 11.1: Genehmigung der Annahme einer Zuwendung (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Haushaltswirtschaft für das Jahr 2023 hier: Einbringung der Haushaltssatzung und des Haushaltsplanes 2023
+- TOP 12.: Anfragen und Anregungen
+- TOP 12.1: Fahrradabstellplätze im Baugebiet „Westlich Stadtweg“
+- TOP 12.2: Reparatur eines Gullideckels auf der Bergstraße gegenüber des Kindergartens St. Johannes
+- TOP 12.3: Pfützenbildung an der Kreuzung Bergstraße/Uhlandstraße aufgrund der Aufpflasterung
+- TOP 12.4: Sachstand zum Radweg Hollage-Halen
+- TOP 12.5: Clean up-Day in der Gemeinde Wallenhorst
+- TOP 12.6: Nivellierung der Betonplatten auf dem Fahrradweg entlang des Pyer Kirchwegs
+- TOP 12.7: Sanierungsbedürftige Kreuzung In der Masch/Gruthügel
