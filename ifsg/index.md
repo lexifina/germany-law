@@ -54,7 +54,7 @@
 - [§ 26 Teilnahme des behandelnden Arztes](0026.md)
 - [§ 27 Gegenseitige Unterrichtung](0027.md)
 - [§ 28 Schutzmaßnahmen](0028.md)
-- [§ 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epedemischer Lage von nationaler Tragweite](0028a.md)
+- [§ 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite](0028a.md)
 - [§ 28b Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik](0028b.md)
 - [§ 28c Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen](0028c.md)
 - [§ 29 Beobachtung](0029.md)

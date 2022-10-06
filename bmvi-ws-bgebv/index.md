@@ -1,4 +1,4 @@
-# Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung
+# Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Erhebung von Gebühren und Auslagen](0001.md)
