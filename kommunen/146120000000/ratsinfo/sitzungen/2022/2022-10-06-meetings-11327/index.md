@@ -1,0 +1,78 @@
+# 43. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-10-06T16:00:00+02:00
+- Ende: 2022-10-06T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11327
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11327
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_mU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00639227.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 3: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 4: Ausschreibung der Stelle der/des Beigeordneten für Wirtschaft und Digitalisierung - erledigt
+- TOP 5: Wahl des/der Beigeordneten für den Geschäftskreis Finanzen, Personal und Recht - Vertagung
+- TOP 6: Wahl des/der Beigeordneten für den Geschäftskreis Ordnung und Sicherheit - Vertagung
+- TOP 7: Wahl des/der Beigeordneten für den Geschäftskreis Kultur und Tourismus - Vertagung
+- TOP 8: Wahl des/der Beigeordneten für den Geschäftskreis Arbeit, Soziales, Gesundheit und Wohnen - Vertagung
+- TOP 9: Wahl des/der Beigeordneten für den Geschäftskreis Umwelt und Kommunalwirtschaft - Vertagung
+- TOP 10: EILANTRAG: Anpassung der Anzahl der Mitglieder beschließender Ausschüsse - Verweisung
+- TOP 11: Umbesetzung im Jugendhilfeausschuss - Einigung
+- TOP 12: Fragestunde der Stadträtinnen und Stadträte (2 Runden)
+- TOP 12.1: Räume für Clubkultur und Musiker*innen
+- TOP 12.2: Steigende Flüchtlingszahlen und Kapazitäten der Landeshauptstadt Dresden
+- TOP 12.3: Wahrung der Öffentlichkeit von Straßen, Wegen und Plätzen
+- TOP 12.4: Personelle Sicherstellung Wohngeldbeantragung
+- TOP 12.5: Finanzierung der Sanierung des "Blauen Wunders"
+- TOP 12.6: Dresdens Reaktion auf das 3. Entlastungspaket der Bundesregierung
+- TOP 12.7: Fortschritt der Altmarkt-Sanierung
+- TOP 12.8: Energieeinsparungen der Stadt Dresden
+- TOP 12.9: Energiesicherheitsprogramm
+- TOP 12.10: Mittelbereitstellung für Kunstrasenplätze
+- TOP 12.11: Vorbereitungsstand Striezelmarkt
+- TOP 12.12: Psychosoziale Arbeit
+- TOP 12.13: Energiesparpläne der LH Dresden
+- TOP 12.14: Notfallfond der Stadt für die Energiekrise
+- TOP 12.15: Jüdisches Museum in Dresden
+- TOP 12.16: Einvernehmen des Oberbürgermeisters bei der Wahl der Beigeordneten
+- TOP 13: Tagesordnungspunkte ohne Debatte
+- TOP 14: Vertagungen aus der Sitzung vom 15.09.2022
+- TOP 14.1: Elbradweg sicher für alle - Fußgänger besser schützen - Ersetzung
+- TOP 14.2: Dresdner Bericht über die Lebensverhältnisse in den Stadtteilen (Gleichwertigkeitsbericht) - Ablehnung
+- TOP 14.3: Teilhabe am sozialen und kulturellen Leben verbessern - Zustimmung
+- TOP 14.4: Vor dem Schaden klug sein: Aufarbeitung des Stromausfalls in Dresden im September 2021 und Wege zur Prävention - punktweise Abstimmung
+- TOP 14.5: Starke Region im Herzen Europas – interkommunale Zusammenarbeit der Landeshauptstadt Dresden mit dem Umland voranbringen - Zustimmung mit Ergänzung
+- TOP 14.6: Stadt der kurzen Wege - Zustimmung
+- TOP 14.7: Entwicklungsstrategie 2035 - Zustimmung
+- TOP 14.8: Mit integrierter Bildungsplanung die Situation von Kinder in benachteiligten Stadtteilen nachhaltig verbessern – Damit alle Kinder in ganz Dresden eine gute Bildung erfahren - punktweise Abstimmung mit Ersetzung
+- TOP 14.9: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung durch Einreicher
+- TOP 14.10: Völkerverständigung und friedliches Zusammenleben stärken –Zusammenarbeit mit der Partnerstadt St. Petersburg ausbauen und Menschen miteinander verbinden - Ablehnung
+- TOP 14.11: EILANTRAG: Spritpreisexplosion entgegensteuern. Einsatzbereitschaft der Freiwilligen Feuerwehr erhaltet. Änderung Feuerwehrsatzung: hier Entschädigungsrichtlinie - Ablehnung
+- TOP 14.12: Mehr Blühwiesen für Dresden - Vertagung durch Einreicher
+- TOP 14.13: EILANTRAG: Erhalt des Gondelboots-Verleihs auf dem Carolasee im Großen Garten - Ablehnung
+- TOP 14.14: EILANTRAG: Stellplatzkompensation für die wegfallenden Parkplätze in der Karl-Marx-Straße in Klotzsche sicherstellen - Anwohner informieren - Maßnahme auf den Prüfstand stellen - Vertagung
+- TOP 14.15: Kompensation wegfallender Parkplätze entlang der Karl-Marx-Straße in Dresden Klotzsche - Vertagung
+- TOP 14.16: Entwicklungskonzeption für den Stadtbezirk Neustadt - Ersetzung
+- TOP 15: Finanzierung von Mehrkosten der Bauvorhaben der WiD Wohnen in Dresden GmbH & Co. KG - Zustimmung mit Ergänzung
+- TOP 16: Teilnahme am Projektaufruf 2022 zum Fördermittelvorhaben Bundesprogramm "Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur" - Zustimmung
+- TOP 17: Sanierung des östlichen Krachtbrunnens auf dem Neustädter Markt in Dresden - Vertagung nach 19 Uhr
+- TOP 18: Unverzügliche denkmalgerechte Sanierung der Kracht-Brunnen und des Umfelds auf dem Neustädter Markt - Vertagung nach 19 Uhr
+- TOP 19: Gewährung einer einmaligen außertariflichen Zahlung (Prämie) an die Beschäftigten des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden im Geschäftsjahr 2022 für ihre besonderen Leistungen während der Coronapandemie - Zustimmung
+- TOP 20: Keine Kürzungen bei Bus und Bahn. Gutachterirrsinn beenden. Dresdner Verkehrsbetriebe stärken! - Vertagung durch Einreicher
+- TOP 21: Wiedereinführung von Oberleitungsbussen in Dresden - Vertagung durch Einreicher
+- TOP 22: Starthilfe für Studierende, Auszubildende und Freiwilligendienstleistende - Vertagung durch Einreicher
+- TOP 23: Dresden für junge Menschen attraktiver machen: Clubkultur retten - Vertagung nach 19 Uhr
+- TOP 24: Messer, Weste, nackte Wampe – Kleiderordnung in die Geschäftsordnung des Stadtrates der Landeshauptstadt Dresden aufnehmen - Vertagung nach 19 Uhr
+- TOP 25: Einrichtung einer Beratungsstelle für Bürger bei Impfnebenwirkungen und Impffolgeschäden - Vertagung durch Einreicher
+- TOP 26: Evaluation bestehender MoBi-Punkte sowie Bürgerbeteiligung vor Errichtung neuer MoBi-Punkte - Ablehnung
+- TOP 27: Versorgungssicherheit in Dresden - Vertagung nach 19 Uhr
+- TOP 28: Bezahlbares Mittagessen für alle Kinder garantieren - Preise deckeln und längerfristig senken! - Zustimmung
+- TOP 29: EILANTRAG: Energiesperren und Energiearmut verhindern - punktweise Zustimmung
+- TOP 30: EILANTRAG: Spielbetrieb auf den Dresdner Sportplätzen gewährleisten – dringend notwendige Instandsetzungsmaßnahmen kurzfristig umsetzen - Vertagung
+- TOP 32: Eilentscheidung des Oberbürgermeisters zur Nutzung von Flächen der Messe Dresden GmbH für die Errichtung eines Ankunftszentrums für geflüchtete ukrainische Menschen. - zur Kenntnis genommen
