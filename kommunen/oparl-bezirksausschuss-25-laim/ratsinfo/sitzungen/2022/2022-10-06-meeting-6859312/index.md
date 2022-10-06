@@ -1,0 +1,58 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-10-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6859312
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6859312
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Laimer Wochenmarkt
+- TOP 1.2.2.: Einrichtung Behindertenparkplätze Nord-West-Ecke Wendeschleife Hufnagelstraße
+- TOP 1.2.3.: Fehlende Beleuchtung Rad- und Gehweg in der Senftenauerstraße
+- TOP 2: Anträge
+- TOP 2.1.: Information Planfeststellung Tram-Westtangente
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Initiative Weihnachtsaktion "Einkaufswertgutschein für bedürftige Familien und Senior*innen, Weihnachten 2022" 5.000,00 € / AZ.: 0262.0-25-0276
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Hans-Thonauer-Str. /Westendstraße Abgrabung der künstlichen Bodenverfüllung zur Altlastensanierung (Hans-Thonauer-Str. / Westendstraße)
+- TOP 5.2.: Guido-Schneble-Staße/Vosslerstraße Neubau von 5 Stadthäusern (Guido-Schneble-Str./Vosslerstr.)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 15.09.22
+- TOP 7.2.: Protokoll UA Schule und Gesundheit vom 07.09.22
+- TOP 7.3.: Protokoll UA Bau vom 15.09.22
+- TOP 8: Umlauf
+- TOP 8.1.: Erneuerung der Fahrbahndecke Agricolastraße Bereich Agnes-Bernauer-Straße/Gotthardstraße
+- TOP 8.2.: Straßenreinigung, Müllcontainer, Parkpflege
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.09.22: Programm Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln Hier: Informationsschreiben für Anträge 2023
+- TOP 8.4.: Bautenliste 22.08.22-28.08.22: A) Erstantragsverfahren 1. Gudio-Schneble-Str. 2. Hönlestr. 3. Fachnerstr. 18
+- TOP 8.5.: Bautenliste 29.08.22-04.09.22: A) Erstantragsverfahren 1. Fröbelplatz 12 2. Aindorferstr. 82 3. Agnes-Bernauer-Str. 72a B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Byecherstr. 11
+- TOP 8.6.: Schreiben Deutsche Bahn Netz AG vom 08.09.22: Protokoll 2. Stammstrecke Oberirdisch vom 23.02.22
+- TOP 8.7.: Schreiben Mobilitätsreferat vom 01.09.22: Antrag Zeitausdehnung der Haltezeiten an der Schulbushaltestelle GS Droste-Hüllsoff-Straße Hier: Eilentscheidung
+- TOP 8.8.: Schreiben Sozialreferat vom 29.08.22: Aktualisierte Übersicht Unterkünfte Juni 2022
+- TOP 8.9.: Schreiben Sozialreferat vom 02.09.22: Zuständigkeiten Öffentlichkeitsarbeit Unterkünfte
+- TOP 8.10.: Lärm durch Spielhalle
+- TOP 8.11.: Lärmbelästigung Landsberger Str. 314
+- TOP 8.12.: Schreiben Referat für Klima- und Umweltschutz vom 05.09.22: Ausnahmezulassung: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 02.09.22: U5 Gotthardstraße - Zwischenphase Sperrung Reutterstraße
+- TOP 8.14.: Schreiben SWM vom 12.09.22: Baumaßnahmen
+- TOP 8.15.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.07.22: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 8.16.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.22: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften
+- TOP 8.17.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.22: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 8.18.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.09.22: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 8.19.: Hinweis/Ergänzung zur Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.09.22: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 8.20.: Beschluss des Bildungsausschusses des Stadtrates vom 21.09.22: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.22: (U) Teilfortscheibung des Landesentwicklungsprogramms Bayern (LEP); Ergänzendes Beteiligungsverfahren; Stellungnahme der Landeshauptstadt München
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.22.: Wiesn-Reservierungen (Weiterleitung an RAW)
+- TOP 9.23.: Briefkasten Ecke Fürstenrieder Straße / Aindorferstraße (Weiterleitung an RAW)
+- TOP 1.2: Bürgerpost an den BA
