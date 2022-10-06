@@ -1,0 +1,92 @@
+# 11. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-10-06T16:30:00+02:00
+- Ende: 2022-10-06T20:10:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6310
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6310
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=388121
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Wahl einer Bürgerdeputierten für den Ausschuss für Partizipation und Integration - gewählt
+- TOP 7: Vertagte Tagesordnungspunkte - (offen)
+- TOP 7.1: Regelmäßige Jagdausstellungen im Köpenicker Schloss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Mitteilungen des Vorstehers Nr. IX-09 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - mit Änderungen in der BVV beschlossen
+- TOP 9.1: Zwischenberichte - (offen)
+- TOP 9.1.1: Uferweg in Oberschöneweide vervollständigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.2: Dialog zwischen Bezirksamt und Menschen mit Behinderungen fördern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.3: Kompetenz- und Koordinierungsstelle einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.4: 10-Minutentakt der Tram-Linie 68 ausweiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.2: Schlussberichte - (offen)
+- TOP 9.2.1: Sicher zur Schule kommen – Bürgersteig im Heidekampweg verbreitern - überwiesen
+- TOP 9.2.2: Bezirklichen Integrationsfonds erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.3: Hilfe für Geflüchtete aus der Ukraine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.4: Gemeinschaftsunterkunft Alfred-Randt-Straße - überwiesen
+- TOP 9.2.5: Pilotprojekt "Bürohunde" auch im Bezirksamt Treptow-Köpenick durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Sondermittel für den Verein "Köpenicker Kanusportclub e. V." (SM 22-11) - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Sondermittel für den "Förderverein Haus der Begegnung e. V." (SM 22-16) - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sondermittel für den Verein "Freunde der Emmy-Noether-Schule e. V." (SM 22-18) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Verkehrssicherheit an der Kreuzung Elsenstraße / Ecke Heidelberger Straße erhöhen - überwiesen
+- TOP 11.2: Seddinwall - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.3: Konzept- und Maßnahmeplan für künftige Einschulungsuntersuchungen vorlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.4: Badestelle im Spreepark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.5: Partnerstadt Cajamarca bei Neugestaltung des Umfelds des Bahnhofs Schöneweide und des Cajamarcaplatzes berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Taubenpopulation - Probleme eingestehen, Verantwortung zeigen - vertagt
+- TOP 11.7: Kiezblocks in Treptow-Köpenick ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Wiederaufbau KFC-Sportcasino - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Umsetzung der Skulptur "Gärtner" an den ursprünglichen Standort im Hasselwerder Park - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Kostenfreie Menstruationsartikel in Treptow-Köpenick zur Verfügung stellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.11: Bauern-Wochenmärkte in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Queeres Jugendangebot - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Sportanlagen wirklich inklusiv bauen - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Weiterbildungsangebote zur Sicherung der pädagogischen Aufsicht schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Neue Bushaltehaltestelle an der Straße "Am Seegraben" für die Linie 163 - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Transparenz bei Nachtflügen am BER - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Neue Straßenbahnhaltestelle an der Regattastraße für die Linie 68 - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Bessere ÖPNV-Anbindung des Flughafens BER und des Fachmarktzentrums Waltersdorf durch Taktverdichtung der Buslinie 263 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Jugendfreizeiteinrichtung für Grünau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.20: Gründung eines Jagd- und Forstmuseums Friedrichshagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.21: Auszubildende und Berufseinsteiger /-innen als Pioniere für nachhaltige Entwicklung ausbilden - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Energiesparprojekte in Schulen initiieren - erste Pilotprojekte auf den Weg bringen - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Städtepartnerschaft mit Luxemburg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Aufhebung des BA-Beschlusses "Zuständigkeit des Fachbereichs Stadtplanung für die Bearbeitung und Pflege der Daten zur Kleingartenentwicklungsplanung" im Bezirk Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Wiederherstellung der Geschäftszeile am Treptower Hafen unterstützen - überwiesen
+- TOP 13.2: Abfallbehälter Ecke Genovevastraße / Däumlingsweg einrichten - überwiesen
+- TOP 13.3: Neue DLRG-Rettungsstation in Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Wirtschaftsstandort Treptow-Köpenick stärken – Click and Collect-Konzepte unterstützen - überwiesen
+- TOP 13.5: Anwohnerparken Griechischer Platz Oberschöneweide - überwiesen
+- TOP 13.6: Sinnvoll ausgerichtete Parkbänke auf dem Spielplatz der Griechischen Allee in Oberschöneweide - überwiesen
+- TOP 13.7: Erinnerung an die Schöneweider Industriebahn "Der Bulle" - überwiesen
+- TOP 13.8: Dauerhafte Geschwindigkeitsüberwachung Am Treptower Park - überwiesen
+- TOP 13.9: Angebote der Obdachlosenhilfe in Treptow ausbauen - überwiesen
+- TOP 13.10: Platz am Kaisersteg barrierefrei umgestalten - überwiesen
+- TOP 13.11: Wartehäuschen-Aufstellung an der südlichen Seite der Rudower Chaussee - überwiesen
+- TOP 13.12: Straßenbeschilderung in der Altstadt Köpenick - überwiesen
+- TOP 13.13: Akkus von Elektroklein- und -kleinstfahrzeugen auch im Bezirksamt laden - überwiesen
+- TOP 13.14: Barrierefreien Trinkbrunnen auf dem Platz am Kaisersteg errichten - überwiesen
+- TOP 13.15: SportBox für Treptow-Köpenick - überwiesen
+- TOP 13.16: Aufklärung statt Verboten: Förderung wassersparender und umweltfreundlicher Privatgärten in Treptow-Köpenick - überwiesen
+- TOP 13.17: Informationsveranstaltungen zur neuen Grundsteuererklärung kurzfristig anbieten - überwiesen
+- TOP 13.18: Neubesetzung und Wiedereinberufung des Bezirksdenkmalrates - überwiesen
+- TOP 13.19: Bestellung eines Vertreters des" KulturerbeNetz.Berlin" als Mitglied des Bezirksdenkmalrates - überwiesen
+- TOP 13.20: Straßenbenennungen nach den beiden Rahnsdorfer Lebensrettern August Herrmann und Karl Lupe - überwiesen
+- TOP 13.21: Rettungsschirm für Sportvereine in Treptow-Köpenick - in der BVV abgelehnt
+- TOP 13.22: Sitzbänke an der Wildbienenwiese in Rahnsdorf instand setzen oder durch neue Bänke ersetzen! - überwiesen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Analphabetismus in Treptow-Köpenick - beantwortet
