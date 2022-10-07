@@ -1,8 +1,8 @@
 # Vollzitat: FRL Hilfen Land- und Forstwirtschaft
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-12-25 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18936.1
+- Datum: 2022-10-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18936.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-25.12.2020
+07.10.2022
 bis
-06.10.2022
+29.06.2023
 
 FRL Hilfen Land- und Forstwirtschaft
 
@@ -38,7 +38,7 @@ Rechtsgrundlagen, Zuwendungszweck
 
 1.
 
-Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in der jeweils geltenden Fassung, auf Antrag finanzielle Hilfen nach Maßgabe dieser Richtlinie.
+Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. Dezember 2021 (SächsABl. 2022 S. 2) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), in der jeweils geltenden Fassung, auf Antrag finanzielle Hilfen nach Maßgabe dieser Richtlinie.
 
 2.
 
@@ -93,7 +93,7 @@ Von einer Förderung ausgeschlossen sind Unternehmen, die einer Rückforderungsa
 
 7.
 
-Unternehmen in Schwierigkeiten1 sind von einer Gewährung von Beihilfen zum Ausgleich von Schäden infolge von Naturkatastrophen oder gleichzusetzenden widrigen Witterungsverhältnissen ausgeschlossen, es sei denn, die Schwierigkeiten sind auf das Schadensereignis zurückzuführen.
+Unternehmen in Schwierigkeiten1 sind von einer Gewährung von Beihilfen zum Ausgleich von Schäden infolge von Naturkatastrophen gleichzusetzenden widrigen Witterungsverhältnissen ausgeschlossen, es sei denn, die Schwierigkeiten sind auf das Schadensereignis zurückzuführen.
 
 8.
 
@@ -103,7 +103,7 @@ Ein Rechtsanspruch auf eine Förderung besteht nicht. Die Bewilligungsstelle ent
 II.
 Gegenstand der Förderung
 
-Gefördert werden Maßnahmen zur Beseitigung unmittelbarer Schäden, bei denen durch direkte Einwirkung der Schadensursache Gegenstände oder bauliche Anlagen gemäß § 2 Absatz 1 der Sächsischen Bauordnung in der Fassung der Bekanntmachung vom 11. Mai 2016 (SächsGVBl. S. 186), die zuletzt durch Artikel 2 des Gesetzes vom 11. Dezember 2018 (SächsGVBl. S. 706) geändert worden ist, in der jeweils geltenden Fassung, sowie land-, forst- und fischereiwirtschaftlich genutzte Flächen oder Wirtschaftswege beschädigt oder zerstört wurden oder verlorengingen. Gefördert werden ferner Einkommensminderungen, -verluste und Wiederherstellungskosten im Sinne von Ziffer V Nummer 3.
+Gefördert werden Maßnahmen zur Beseitigung unmittelbarer Schäden, bei denen durch direkte Einwirkung der Schadensursache Gegenstände oder bauliche Anlagen gemäß § 2 Absatz 1 der Sächsischen Bauordnung in der Fassung der Bekanntmachung vom 11. Mai 2016 (SächsGVBl. S. 186), die zuletzt durch das Gesetz vom 1. Juni 2022 (SächsGVBl. S. 366) geändert worden ist, in der jeweils geltenden Fassung, sowie land-, forst- und fischereiwirtschaftlich genutzte Flächen oder Wirtschaftswege beschädigt oder zerstört wurden oder verlorengingen. Gefördert werden ferner Einkommensminderungen, -verluste und Wiederherstellungskosten im Sinne von Ziffer V Nummer 3.
 
 III.
 Begünstigte
@@ -133,11 +133,11 @@ Eine Förderung ist ausgeschlossen, soweit die Kapitalbeteiligung der öffentlic
 
 3.
 
-Als Unternehmen der Forstwirtschaft gelten auch forstliche Zusammenschlüsse im Sinne des Bundeswaldgesetzes vom 2. Mai 1975 (BGBl. I S. 1037), das zuletzt durch Artikel 1 des Gesetzes vom 17. Januar 2017 (BGBl. I S. 75) geändert worden ist, in der jeweils geltenden Fassung, sowie private und körperschaftliche Waldbesitzer.
+Als Unternehmen der Forstwirtschaft gelten auch forstliche Zusammenschlüsse im Sinne des Bundeswaldgesetzes vom 2. Mai 1975 (BGBl. I S. 1037), das zuletzt durch Artikel 112 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung, sowie private und körperschaftliche Waldbesitzer.
 
 4.
 
-Nicht gefördert werden Personen, die Leistungen aufgrund des Gesetzes zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit vom 21. Februar 1989 (BGBl. I S. 233), das zuletzt durch Artikel 24 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2652) geändert worden ist, erhalten oder erhielten.
+Nicht gefördert werden Personen, die Leistungen aufgrund des Gesetzes zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit vom 21. Februar 1989 (BGBl. I S. 233), das zuletzt durch Artikel 87 des Gesetzes vom 20. August 2021 (BGBl. I S. 3932) geändert worden ist, erhalten oder erhielten.
 
 5.
 
@@ -179,7 +179,7 @@ Die Förderung bei Naturkatastrophen gemäß Ziffer IV Nummer 2 setzt die Bestä
 
 7.
 
-Nicht berücksichtigt werden Schäden an Gebäuden und baulichen Anlagen, die ohne eine erforderliche Genehmigung oder Anzeige des Bauvorhabens errichtet wurden, sowie im Falle eines Hochwasserereignisses in der Regel bei Gebäuden und baulichen Anlagen, die nach dem 20. Oktober 2004 in mit Rechtsverordnung oder gemäß gesetzlicher Festsetzung nach dem Sächsischen Wassergesetz vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 2 des Gesetzes vom 8. Juli 2016 (SächsGVBl. S. 287) geändert worden ist, in der jeweils geltenden Fassung, festgesetzten Überschwemmungsgebieten errichtet wurden, es sei denn, es handelte sich dabei um einen städtebaulich erwünschten Lückenschluss innerhalb historisch gewachsener Gemeindegebiete. Dies ist von der Gemeinde zu bestätigen.
+Nicht berücksichtigt werden Schäden an Gebäuden und baulichen Anlagen, die ohne eine erforderliche Genehmigung oder Anzeige des Bauvorhabens errichtet wurden, sowie im Falle eines Hochwasserereignisses in der Regel bei Gebäuden und baulichen Anlagen, die nach dem 20. Oktober 2004 in mit Rechtsverordnung oder gemäß gesetzlicher Festsetzung nach dem Sächsischen Wassergesetz vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 3 des Gesetzes vom 9. Februar 2022 (SächsGVBl. S. 144) geändert worden ist, in der jeweils geltenden Fassung, festgesetzten Überschwemmungsgebieten errichtet wurden, es sei denn, es handelte sich dabei um einen städtebaulich erwünschten Lückenschluss innerhalb historisch gewachsener Gemeindegebiete. Dies ist von der Gemeinde zu bestätigen.
 
 
 V.
@@ -210,10 +210,26 @@ b)
 Widrige Witterungsverhältnisse
 
 
-In der Landwirtschaft beträgt bei Naturkatastrophen gleichgestellten widrigen Witterungsverhältnissen die Bruttobeihilfeintensität der gewährten Zuwendung maximal 80 Prozent des Gesamtschadens. In der Forstwirtschaft sowie der Fischerei und Aquakultur können bis zu 100 Prozent der beihilfefähigen Kosten gewährt werden.
+aa)
+
+In der Landwirtschaft beträgt bei Naturkatastrophen gleichgestellten widrigen Witterungsverhältnissen außer bei Dürreereignissen die Bruttobeihilfeintensität der gewährten Zuwendung 80 Prozent des Gesamtschadens. In der Forstwirtschaft sowie der Fischerei und Aquakultur können bis zu 100 Prozent der beihilfefähigen Kosten gewährt werden.
+
+
+bb)
+
+In der Landwirtschaft kann bei Schäden infolge von Dürreereignissen eine Zuwendung in Höhe von 90 Prozent des nach Buchstabe aa ermittelten Betrages gewährt werden.
+
+
+Die Zuwendung erhöht sich auf 100 Prozent des nach Buchstabe aa ermittelten Betrages, nachdem die Begünstigten an einer einzelbetrieblichen Klimaanpassungsberatung teilgenommen haben.
+
+
+cc)
+
+Bei durch widrige Witterungsverhältnisse hervorgerufenen Schäden in der Landwirtschaft wird der nach Buchstabe aa berechnete Ausgleichsbetrag um 50 Prozent gekürzt, soweit das Unternehmen keine Versicherung abgeschlossen hat, die die häufigsten klimatischen Risiken und mindestens 50 Prozent der durchschnittlichen Jahreserzeugung oder der durchschnittlichen Jahreseinnahme des betroffenen Produktionsverfahrens abdeckt. Von der Kürzung kann abgesehen werden, wenn nachweislich für ein bestimmtes klimatisches Risiko kein beziehungsweise kein erschwinglicher Versicherungsschutz angeboten wurde.
 
 
 Bei durch Naturkatastrophen oder widrige Witterungsverhältnisse hervorgerufenen Schäden in der Landwirtschaft wird der berechnete Ausgleichsbetrag um 50 Prozent gekürzt, soweit das Unternehmen keine Versicherung abgeschlossen hat, die die häufigsten klimatischen Risiken und mindestens 50 Prozent der durchschnittlichen Jahreserzeugung oder der durchschnittlichen Jahreseinnahme des betroffenen Produktionsverfahrens abdeckt. Von der Kürzung kann abgesehen werden, wenn nachweislich für ein bestimmtes klimatisches Risiko kein beziehungsweise kein erschwinglicher Versicherungsschutz angeboten wurde.
+
 
 3.
 
@@ -269,7 +285,7 @@ Die Ausgaben für das nach Ziffer IV Nummer 5 erforderliche Gutachten sind zuwen
 
 e)
 
-Nicht zuwendungsfähig sind Schäden,
+Nicht zuwendungsfähig sind die Ausgaben für die Klimaanpassungsberatung nach Nummer 2 Buchstabe b, bb sowie Schäden,
 
 
 aa)
@@ -302,32 +318,45 @@ Sonstige allgemeine Zuwendungsbestimmungen
 
 1.
 
+Im Fall von Ziffer V Nummer 1 b Doppelbuchstabe bb gilt zudem:
+
+
+Gegenstand der einzelbetrieblichen Klimaanpassungsberatung ist die Eindämmung von Ernte-, Qualitäts- und Ertragsschäden durch geeignete betriebsspezifische Anpassungs- und Umstellungsmaßnahmen. Die Beratungsauflage ist innerhalb von sechs Monaten nach Zugang des Zuwendungsbescheides zu erfüllen und der bewilligenden Stelle das ausgefüllte strukturierte Beratungsprotokoll mit Qualifizierungsnachweis des Beraters vorzulegen. Bei Vorliegen triftiger Gründe ist auf Antrag bei der bewilligenden Stelle eine einmalige Verlängerung der Frist um sechs Monate zur Erfüllung der Auflage möglich. 
+
+
+Etwas Anderes gilt, sofern die Begünstigten eine vergleichbare Klimaanpassungsberatung innerhalb der letzten zwei Jahre vor Eintritt des Schadensereignisses in Anspruch genommen haben und der bewilligenden Stelle einen entsprechenden Nachweis darüber vorlegen können.
+
+
+Die notwendigen Inhalte für die Beratung, die Vorlage für das strukturierte Beratungsprotokoll sowie die Anforderungen an die Qualifikation der Berater wird unter https://lsnq.de/Hilfen veröffentlicht.
+
+2.
+
 Leistungen Dritter, insbesondere Spenden und Versicherungsleistungen, haben dem Grunde und der Höhe nach – auch bei nachträglichem Hinzutritt – Vorrang vor einer Förderung nach dieser Richtlinie. Insbesondere Versicherungsleistungen müssen vollständig in Anspruch genommen werden. Leistungen Dritter sowie aufgrund des außergewöhnlichen Ereignisses nicht entstandene Kosten sind vom Gesamtschaden abzuziehen.
 
 
 Die Begünstigten haben alle aufgrund des Schadensereignisses erhaltenen oder beantragten Zuwendungen, Zahlungen oder sonstigen geldwerten Leistungen und etwaige Versicherungszahlungen einschließlich zinsvergünstigter Darlehen offenzulegen.
 
-2.
+3.
 
 Eine Förderung nach dieser Richtlinie kann mit anderen Förderprogrammen des Landes, des Bundes oder der Europäischen Union ergänzt werden, sofern und soweit dies die Fördervorschriften der anderen Programme zulassen und die Gesamtsumme der Fördermittel sowie Mittel Dritter die Gesamtausgaben des Vorhabens nicht übersteigt. Handelt es sich bei der Zuwendung um eine staatliche Beihilfe im Sinne von Artikel 107 Absatz 1 AEUV, so darf die jeweils einschlägige zulässige Beihilfehöchstintensität nicht überschritten werden.
 
-3.
+4.
 
 Eine Unterstützung als De-minimis-Beihilfe kommt für solche Fälle in Betracht, die nicht in vollem Umfang den Regelungen der Nationalen Rahmenrichtlinie beziehungsweise der Rahmenrichtlinie für den Fischerei-/Aquakultursektor des Bundesministeriums für Ernährung und Landwirtschaft entsprechen.
 
-4.
+5.
 
 Im Falle von Einkommensminderungen nach Ziffer V Nummer 3 Buchstabe a, Bestandsschäden nach Ziffer V Nummer 3 Buchstabe b und Einkommensverlusten nach Ziffer V Nummer 3 Buchstabe c gilt das in Ziffer IV Nummer 5 genannte Gutachten als Nachweis der Ausgaben, im Gutachten enthaltene außergewöhnliche Aufwendungen (zum Beispiel Futterzukäufe) sind durch Einzelbelege nachzuweisen. Die Bewilligungsstelle behält sich eine Nachprüfung vor, inwieweit die im Gutachten geltend gemachten Einkommensminderungen, Bestandsschäden beziehungsweise Einkommensverluste tatsächlich eingetreten sind.
 
-5.
+6.
 
 Wiederaufbau- und Wiederbeschaffungsmaßnahmen sind nachhaltig, insbesondere unter Berücksichtigung der aktuellen Vorschriften für eine gleiche oder gleichwertige Konstruktion nach dem gegenwärtigen Stand der Technik, durchzuführen.
 
-6.
+7.
 
 Bauliche Maßnahmen zur Beseitigung von Hochwasserschäden sind so auszuführen, dass Schäden bei einem erneuten Hochwasserereignis reduziert oder vermieden werden. Technische Anlagen zur Energie- und Wärmeversorgung müssen im Rahmen der nachhaltigen Schadensbeseitigung entweder an einem hochwassersicheren Standort installiert oder so ausgeführt werden, dass die Anlage oder die besonders schadensgefährdeten Anlagenteile bei einem zukünftigen Hochwasserereignis innerhalb kurzer Zeit aus- und anschließend funktionsfähig wieder eingebaut werden können.
 
-7.
+8.
 
 Ist nach einem Hochwasserereignis wahrscheinlich, dass ein zukünftiges Hochwasser wiederkehrend erhebliche Schäden verursacht, werden auch Maßnahmen zum Wiederaufbau an anderer Stelle gefördert, ohne dass die Begünstigten in eine materiell bessere Lage versetzt werden, als sie sich vor dem Hochwasserereignis befunden haben. In diesem Fall wird die Zuwendung anhand des tatsächlich entstandenen Schadens bemessen.
 
@@ -355,11 +384,16 @@ Der vorzeitige förderunschädliche Vorhabensbeginn gemäß Nummer 1.4 der Verwa
 
 Eine früher gewährte Förderung desselben Vorhabens aus öffentlichen Mitteln schließt eine Förderung von Maßnahmen im Rahmen dieser Richtlinie nicht aus. Wurden bereits geförderte Vorhaben vor Fertigstellung des Vorhabens oder innerhalb der Zweckbindungsfrist ganz oder teilweise zerstört, soll bei der Ausübung des Ermessens gemäß Nummer 8.2.4 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung auf den Widerruf des Zuwendungsbescheides und die Rückforderung der Zuwendung verzichtet werden, soweit nicht ein Anspruch der Begünstigten auf Kompensationsleistungen gegenüber Dritten besteht. Es besteht eine Mitteilungspflicht der Begünstigten gegenüber der Bewilligungsstelle zu bereits geförderten Vorhaben, die vor Fertigstellung des Vorhabens oder innerhalb der Zweckbindungsfrist ganz oder teilweise zerstört wurden.
 
+
 6.
+
+Die Auszahlung der Zuwendung erfolgt nach Bestandskraft des Bewilligungsbescheides. Der nach Ziffer IV Nummer 2, Buchstabe b Doppelbuchstabe bb Unterabsatz 2 erhöhte Betrag der Zuwendung wird nach Vorlage der unter Ziffer VI Nummer 1 genannten Nachweise bei der Bewilligungsstelle ausgezahlt.
+
+7.
 
 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung, für die Einhaltung der Zweckbindung sowie die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten die Regelungen der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
 
-7.
+8.
 
 Das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft ist ermächtigt, die Einzelheiten zur Umsetzung der FRL Hilfen Land- und Forstwirtschaft, insbesondere die Regelungen zur Schadenserfassung, per Erlass zu regeln. Dieser Erlass ist auf den Internetseiten des Ministeriums zu veröffentlichen.
 
@@ -384,9 +418,9 @@ Fsn-Nr.: 5563-V20.7
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 25. Dezember 2020
+Fassung gültig ab:  7. Oktober 2022
 
-Fassung gültig bis:  6. Oktober 2022
+Fassung gültig bis: 29. Juni 2023
 
 Drucken/Speichern
 
@@ -411,7 +445,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18936.1
+https://www.revosax.sachsen.de/vorschrift/18936.2
 Stand vom
 18.11.2026
 
