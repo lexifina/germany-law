@@ -1,11 +1,11 @@
-# Anlage 2 (zu § 15 Absatz 1 Satz 1 Nummer 1)Von der verantwortlichen Gesundheitseinrichtung an die Registerstelle zu übermittelnde Daten
+# Anlage 2 (zu § 15 Absatz 2 Satz 1 Nummer 1)
 
 I. Allgemeine Angaben
   1. technische Daten der Meldung, insbesondere
     a) Datum und Zeit der Erstmeldung
     b) verwendete Meldesoftware und Version der Spezifikation der zu übermittelnden Daten
   2. Angaben zum Aufenthalt in der Gesundheitseinrichtung
-    a) bundeseinheitliches Kennzeichen der verantwortlichen Gesundheitseinrichtung nach § 293 des Fünften Buches Sozialgesetzbuch oder Objekt-Identifikator nach § 15 Absatz 2
+    a) das eindeutige Kennzeichen nach § 15 Absatz 1
     b) Art des Aufenthalts (ambulant, teilstationär, stationär)
     c) Datum der Aufnahme bei stationärem Aufenthalt, Datum der Behandlung bei ambulantem Aufenthalt
   3. Angaben zur Patientin oder zum Patienten
@@ -24,8 +24,8 @@ I. Allgemeine Angaben
     h) klassifizierter allgemeiner gesundheitlicher Zustand des Patienten
     i) intraoperative Maßnahmen
     j) simultane risikomodifizierende Prozeduren, die über eine alleinige Implantateinbringung oder -entfernung hinausgehen
-    k) bei Revision erhobene Befunde
-    l) Kodes aus dem Operationen- und Prozedurenschlüssel, die der implantatbezogenen Maßnahme zugeordnet worden sind, einschließlich möglicher Zusatzkodierungen
+    k) bei Revision und Explantation erhobene Befunde
+    l) Kodes aus dem Operationen- und Prozedurenschlüssel, die der implantatbezogenen Maßnahme zugeordnet worden sind, unter Angabe der Version einschließlich möglicher Zusatzkennzeichen
   5. Angaben zu Vorbehandlungen, die in direktem Zusammenhang mit dem durchgeführten Eingriff stehen
   6. Einzelangaben zu den Implantaten
     a) Implantattyp
@@ -38,7 +38,7 @@ I. Allgemeine Angaben
     h) bei Explantation und funktionslosem Verbleib des Implantats im Körper Datum der Implantation
   7. Angaben zur Entlassung
     a) Datum der Entlassung
-    b) Grund der Entlassung (zum Beispiel Abschluss der Behandlung, Verlegung in ein anderes Krankenhaus)
+    b) Grund der Entlassung bei stationärer Behandlung (zum Beispiel Abschluss der Behandlung, Verlegung in ein anderes Krankenhaus)
     c) implantatbezogene Entlassungsdiagnosen mit Haupt- und Nebendiagnosen unter Angabe der Lokalisation, auf die sich die Diagnosen beziehen, einschließlich Kodes aus der internationalen Klassifikation der Krankheiten unter Angabe der Version
 II. Besondere Angaben für Brustimplantate
   1. Angaben zur Patientin oder zum Patienten: Autoimmunerkrankungen
@@ -46,6 +46,7 @@ II. Besondere Angaben für Brustimplantate
     a) Lage des Implantats
     b) Verwendung azellulärer dermaler Matrices oder chirurgischer Netze mit
       – Hersteller
-      – dem Hersteller und dem Produkt eigener einmaliger Produktkennung nach dem UDI-System (UDI Device Identifier – UDI-DI) einschließlich Basis-UDI-DI und Katalog- oder Artikelnummer, Produktcode oder ähnlichen herstellereigenen Merkmalen
+      – dem Hersteller und dem Produkt eigener einmaliger Produktkennung nach dem UDI-System (UDI Device Identifier – UDI-DI) und Katalog- oder Artikelnummer, Produktcode oder ähnlichen herstellereigenen Merkmalen
       – Herstellungskennung nach dem UDI-System (UDI Production Identifier – UDI-PI) und herstellereigenen Identifikationsmerkmalen der Serie oder Charge
   3. Angaben zu den Implantaten (auch bei Explantation): Form, Oberfläche, Füllung und Volumen
+  4. Bei Explantation gegebenenfalls Art der Weiterbehandlung

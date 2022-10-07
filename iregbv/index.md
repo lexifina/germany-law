@@ -51,4 +51,4 @@
 
 - [§ 24 Inkrafttreten](0024.md)
 - [Anlage 1 (zu § 14)In der Produktdatenbank zu erfassende Produktdaten](anlage-1.md)
-- [Anlage 2 (zu § 15 Absatz 1 Satz 1 Nummer 1)Von der verantwortlichen Gesundheitseinrichtung an die Registerstelle zu übermittelnde Daten](anlage-2.md)
+- [Anlage 2 (zu § 15 Absatz 2 Satz 1 Nummer 1)](anlage-2.md)
