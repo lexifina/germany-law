@@ -203,9 +203,6 @@
 ### Erster Abschnitt Allgemeines
 
 
-### Erster Abschnitt Allgemeines
-
-
 #### Erster Unterabschnitt Allgemeine Verfahrensregeln
 
 - [§ 98 Vorschriften für das Verfahren und den Rechtsschutz bei überlangen Gerichtsverfahren](0098.md)
