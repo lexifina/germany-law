@@ -1,0 +1,89 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-10-10T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6917283
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6917283
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Erneuerung der Sitzbank an der Ecke Valley-/ Danklstraße
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Vorstellung des Partizipationsprojekts "Ran an die Stadtteil-Koffer!" Stadtbezirkseinsatz 2023 im 6. Stadtbezirk Sendling
+- TOP 3.2.: Vorstellung der neuen Mitarbeiterin des Direktoriums - Stadtbezirksbudget
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: Generalsanierung des Kindergartens "Kinderkreis Sendling" Bitte um Aufhebung des BA-Beschlusses im Bezug auf die Sitzungsvorlage Nr. 20-26 / V 05671
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Pfeuferstraße 44
+- TOP 4.2.3.: Bauvorhaben Plinganserstraße 5
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Baumpflanzungen an der Oberländerstraße
+- TOP 4.3.3.: Begrünungsmöglichkeiten in der Oberländerstraße Antwort
+- TOP 4.3.4.: Grünfläche in der Oberländerstraße Antwort
+- TOP 4.3.5.: Bürgerinnen und Bürger gestalten ihre Stadt
+- TOP 4.3.6.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 4.3.7.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich III/34 und Bebauungsplan mit Grünordnung Nr. 2180 Hans-Preißinger-Str. (westlich und nördlich), Schäftlarnstr. (östlich), Brudermühlstr. (südlich) (Teiländerung des Bebauungsplanes Nr. 1547) - Aufstellungsbeschluss - Stadtbezirk 06 - Sendling
+- TOP 4.3.8.: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften
+- TOP 4.3.9.: (U) Bau einer Mehrgenerationenanlage und eines Alten- und Service-Zentrums (ASZ) Meindlstraße 14 a Flurstück 9423/1, Gemarkung München Sektion V Stadtbezirk 6 Sendling
+- TOP 4.3.10.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Fahrradständer in der Albert-Roßhaupter-Straße
+- TOP 5.3.2.: Engstelle an einer Freischankfläche an der Albert-Roßhaupter-Straße
+- TOP 5.3.3.: Verkehrsrechtliche Anordnung Brudermühlstraße Süd-Fahrbahn Zweirichtungsradweg zwischen Schäftlarnstraße und Hans-Preißinger-Straße; Gefahrzeichen Höhe Bushaltestelle
+- TOP 5.3.4.: Ausnahmegenehmigung Grünanlage (ohneAnhörung) Martinszug KiGa Isarindianer Am Isarkanal/ Ecke Schäftlarnstraße - Isarauen am 11.11.2022
+- TOP 5.3.5.: Verlängerung des Frühlingsfestes
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative Kultur im Block "Hofkonzert im Rahmen von KULTUR IM BLOCK am 09.09.2022" 600,00 € / 0262.0-6-0400
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kulturblüten "Livemusik in der Backstube am 12. und 17,11.2022" 3.188,20 € / AZ: 0262.0-6-0399
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Förderung des Handballcampus München
+- TOP 6.3.2.: Verwendungsnachwerise
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Anhörung des Bezirksausschusses zu einer Freischankfläche Danklstraße 32
+- TOP 8.2.2.: Anhörung des Bezirksausschusses zu einer Freischankfläche Thalkirchner Straße 126
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Freischankfläche am Resi-Huber-Platz Antwort
+- TOP 8.3.2.: Gaststätte an der Georg-Hallmair-Straße 10 Nächtliche Ruhestörung Antwort
+- TOP 8.3.3.: Unveränderte Fortführung Amore Mio
+- TOP 8.3.4.: Unveränderte Fortführung Brückenstüberl
+- TOP 8.3.5.: Unveränderte Fortführung Yoko Sushi
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Ratsinformationssystem (RIS) – „Papierlose Bezirksausschussarbeit“ Einführung „RIS-Internet/ -Extranet“ für alle Bezirksausschussmitglieder Information zur Kooperationsplattform „Alfresco“
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 4.2.2.: Bauvorhaben Flößergasse 4a
+- TOP 4.2.4.: Bauvorhaben Berlepschstraße 8
