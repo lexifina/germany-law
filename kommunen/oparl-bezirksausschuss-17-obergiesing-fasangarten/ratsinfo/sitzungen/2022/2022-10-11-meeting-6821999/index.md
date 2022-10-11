@@ -1,0 +1,150 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2022-10-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6821999
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6821999
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Antrag zum Bau einer Fahrradabstellanlage vor der Hohenwaldeckstr. 31 - abgeänderter Antrag vom 10.09.2022 - - vertagt aus Plenumssitzung 13.09.2022 - (FF UA MuV)
+- TOP 2.1.2.2.: Ampelanlage Martin-Luther-Straße Ecke Weinbauernstrasse (FF UA MuV)
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Seniorenbeauftragte*r
+- TOP 3.8.: Mieterbeirat
+- TOP 3.9.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.9.1.: Marquartsteiner Str. 7a
+- TOP 3.9.2.: Untersbergstr. 3 - Sozialpastorales Zentrum Königin des Friedens - Neubau von Wohnungen, Pfarrzentrum und Kita (Untersberstr. 3-7 / Warngauerstr. 27-29) - VORBESCHEID
+- TOP 3.9.3.: Arzberger Str. 22 - Neubau eines Mehrfamilienhauses (11 WE) mit Tiefgarage (13 Stpl.)
+- TOP 4.: Anträge/Anfragen
+- TOP 4.1.: Wir holen uns die Straße zurück! Mehr Lebensraum für Mensch und Natur in der Werinherstraße schaffen - Antrag der Fraktionen B90 / Die Grünen und SPD - (FF UA Verkehr)
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl, Strasse. Oase. und Tanz. Die. Invasion in 2023 8.562,00 € / Az. 0262.0-17-0336 (FF UA Kultur) (vertagt aus Sitzung 05/22)
+- TOP 5.1.2.: (E) Stadtbezirksbudget München Volkshochschule, Stadtbereich Ost “Wir kommen wieder! Ein fröhlicher Abschied vom St.-Martins-Areal am 28.10.2022“ 2.100,00 € / AZ.: 0262.0-17-0365 (FF UA Kultur)
+- TOP 5.1.3.: (E) Stadtbezirksbudget Förderverein der Grundschule St.Martin-Straße e.V. Zirkus-Projekt 8 Wochen im Frühjahr 2023 1.750,00€; Az. 0262.0-17-0366 (FF UA FSA)
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Untersbergstr. 3 - Sozialpastorales Zentrum Königin des Friedens - Neubau von Wohnungen, Pfarrzentrum und Kita (Untersberstr. 3-7 / Warngauerstr. 27-29) - VORBESCHEID
+- TOP 6.1.3.2.: St.-Martins-Pl. 2 - Dachgeschossausbau im 6.OG zu 2 Wohneinheiten, Anbau eines Aufzugsschachtes, Anbau von Balkonen an Fassaden Ost/West/Süd/Nord
+- TOP 6.1.3.3.: Wirtstr. 24 - Neubau von 12 Wohnungen (Ersatzbau) und 4 Town- (Reihen-) häusern incl. 4-8 Stellplätzen - VORBESCHEID
+- TOP 6.1.3.4.: Tegernseer Landstr. 83 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID - vertagt aus Plenumssitzung 09/22 -
+- TOP 6.1.3.5.: Arzberger Str. 22 - Neubau eines Mehrfamilienhauses (11 WE) mit Tiefgarage (13 Stpl.)
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Baumaßnahmen der Stadtwerke München a) Stichtag: 26.08.2022 - 12.09.2022 b) Stichtag: 12.09.2022 - 26.09.2022
+- TOP 6.1.4.2.: (U) Teilfortscheibung des Landesentwicklungsprogramms Bayern (LEP); Ergänzendes Beteiligungsverfahren; Stellungnahme der Landeshauptstadt München
+- TOP 6.1.4.3.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 6.1.4.4.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 6.1.4.5.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 6.1.4.6.: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften
+- TOP 6.1.4.7.: Städtischer Wohnungsbau im Rahmen des Kommunalen Wohnraumförderprogramms; Aufschlüsselung Gesamtbelegung an der Münchberger Str. - Schreiben des Kommunalreferates aufgrund Stellungnahme BA 17 - TOP 6.1.4.3. / 07-22 -
+- TOP 6.1.4.8.: Meldelisten für Bauvorhaben im Stadtbezirk 17: a) 05.09.2022 - 11.09.2022 b) 12.09.2022 - 18.09.2022 - Unterrichtung des Referates für Stadtplanung und Bauordnung -
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Zuständigkeiten Öffentlichkeitsarbeit Unterkünfte Geflüchtete und Wohnungslose - Unterrichtung des Amtes für Wohnen und Migration -
+- TOP 6.2.4.2.: Kindergarten Larifari e.V. sucht Räumlichkeiten - Antwortschreiben RBS + Kommunalreferat -
+- TOP 6.2.4.3.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 6.2.4.4.: Ausfall Bücherbus - Versorgung südlich Chiemgaustraße
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Spureinfädelung Chiemgaustraße / Tegernseer Landstraße
+- TOP 6.3.4.2.: Mehr Fahrradabstellplätze am Ostfriedhof
+- TOP 6.3.4.3.: Rotwandstraße 28 Seite Walchenseeplatz; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze und Lastenradstellplätze (Pilotversuch)
+- TOP 6.3.4.4.: Giesinger Grünspitz (Martin-Luther-Straße, Ecke Tegernseer Landstraße) Verkehrsrechtliche Maßnahmen nach Umgestaltung
+- TOP 6.3.4.5.: Peter-Auzinger-Str.; Herstellung eines baulichen Radwegs und Rückbau des freilaufenden Rechtsabbiegers
+- TOP 6.3.4.6.: Kennzeichnung am General-Kalb-Weg
+- TOP 6.3.4.7.: Querungsstelle Deisenhofener Straße Ecke Perlacher Straße, Poller zur Absicherung
+- TOP 6.3.4.8.: Arbeiten im Straßenraum; Traunsteiner Str. + Alzrstr. (Verlegung einer Fernwärmeleitung); Vollsperre 10.10.2022 - 03.12.2022
+- TOP 6.3.4.9.: Die folgenden Strassen (abschnitte) werden in die sie umgebenden vorhandenen 30km-Zonen aufgenommen bzw. komplettieren diese – auch ggfs. aufgrund einer Einzelanordnung, wenn lt. StVO nicht anders möglich: Herzogstandstrasse zwischen Werinher- und Deisenhofener Strasse (ca. 50 m), Spixstrasse (ca 200 m), Wirtstrasse (ca. 150 m) Wo immer baulich möglich, wird der Eintritt in den 30km/h-Bereich durch eine sog. Torbogenbeschilderung signalisiert
+- TOP 6.3.4.10.: Information über Baustelle: Stromprojekt Arzberger Str. Baubeginn: 39. KW 2022 Ende: 44. KW 2022
+- TOP 6.3.5.: Anträge
+- TOP 6.3.5.1.: Überprüfung der Radabstellplätze TeLa 19
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.4.6.1.: Diskussion über evtl. Verschiebung des UA am 01.11.2022 (in Abstimmung mit dem UA Kultur)
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: "Das VerWunderLand" Straßentheater Kunstinstallation vom 19-21.11.2022 - Anhörung des Kreisverwaltungsreferates -
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.5.6.1.: Diskussion über evtl. Verschiebung des UA am 01.11.2022 (in Abstimmung mit dem UA Umwelt)
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7: Sonstige Fälle (FF alle UA)
+- TOP 7.1.: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2.: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3.: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: (U) Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im interkommunalen Dialog; Ergebnisbericht „Gespräche über Stand und Perspektiven interkommunaler Kooperation in der Region München“
+- TOP 7.3.2.: Info-Schreiben Förderung "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 7.3.3.: Ratsinformationssystem (RIS) – „Papierlose Bezirksausschussarbeit“ Einführung „RIS-Internet/ -Extranet“ für alle Bezirksausschussmitglieder Information zur Kooperationsplattform „Alfresco“
+- TOP 7.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.5.6.2.: Kriegerdenkmal an der Hl. Kreuzkirche; neuester Stand und Diuskussion wegen Kranzniederlegung
+- TOP 6.5.3.2.: "Free culture for free people" am 19.10.2022 - Anhörung des Kreisverwaltungsreferates - Frist 12.10.2022
+- TOP 1.2.1.: 6.5.3.2. "Free culture for free people" am 19.10.2022 - Anhörung des Kreisverwaltungsreferates - 6.5.6.2. Kriegerdenkmal an der Hl. Kreuzkirche; neuester Stand und Diskussion wegen Kranzniederlegung
+- TOP 6.4.4.1.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima Ein blauer Ordner 20-26 / E 00454 (BV-EMP) Klimaschutz für München bei Bauvorhaben / erster von zwei Klimaschutz-Anträgen Ein blauer Ordner 20-26 / E 00455 (BV-EMP) Klimaschutz für München bei Bauvorhaben / zweiter Klimaschutz-Antrag Das Dokument befindet sich unter TOP 6.1.4.5.
+- TOP 6.4.4.2.: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften Ein blauer Ordner 20-26 / E 00447 (BV-EMP) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften Das Dokument befindet sich unter TOP 6.1.4.6.
