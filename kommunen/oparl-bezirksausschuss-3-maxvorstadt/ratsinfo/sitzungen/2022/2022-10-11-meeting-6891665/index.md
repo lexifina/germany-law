@@ -1,0 +1,107 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-10-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891665
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891665
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Leerstand in der Amalienstr. 55
+- TOP 6.2.: Spielplätze verschönern in der Maxvorstadt - Maßnahmen am Spielplatz Königsplatz
+- TOP 6.3.: Spielplätze verschönern in der Maxvorstadt - Maßnahmen am Spielplatz Blutenburgstraße
+- TOP 6.4.: Leerstand Enhuber Straße
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Gentrifizierung Schönfeldviertel; Erhaltungssatzungsgebiet Bürger*innenanliegen vom 19.09.2022
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Leerstand in der Maxvorstadt: Nutzung ARRI Gebäude in der Türkenstraße
+- TOP 1.2.2.: Klimaschutz in der Maxvorstadt - Frühzeitige Information von Bauherrinnen und Bauherren zu ökologischen Verbesserungen bei Baumaßnahmen
+- TOP 1.2.3.: Teilleerstand Augustenstraße 59
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 36-38
+- TOP 2.1.2.: WEB-Listen der LBK: KW 35-36
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Bescheid Baumfällung Neureuther Straße
+- TOP 5.2.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume, Luisenstraße 29
+- TOP 5.3.: Wertstoffmobil im St. Vinzenz-Viertel - Brief der Polizeiinspektion
+- TOP 5.4.: Georgenstraße, Begrünung
+- TOP 5.5.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 5.6.: Antwort LBK auf Ablehnung einer Genehmigungsverlängerung
+- TOP 5.7.: Pinakothek Hauptphase
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Georgenstr. Projekt Fußweg/Bäume/Längsparken Bürger*innenanliegen vom 20.09.2022
+- TOP 1.1.2.: Baumaßnahme Georgenstraße / Kommunikation / Parksituation Bürger*innenanliegen vom 21.09.2022
+- TOP 1.1.3.: entfällt
+- TOP 1.1.4.: Vorschlag für neue Fahrradabstellanlagen in der Augustenstraße Bürger*innenanliegen vom 16.09.2022
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Beschlussvorlage Freischankfläche, Augustenstr. 11
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Aufhebung des Taxistandplatzes in der Ottostraße 4
+- TOP 3.2.: Eilentscheidungen der BA- Vorsitzenden: a) Eilt! Frist: 23.09.2022 Kunstaktion "#MakeUsVisible x denkFEmale" an 17 Standorten in München vom 30.09.-02.11.2022
+- TOP 3.3.: verkehrsrechtliche Anordnung a) Arbeiten im Straßenraum; Tunnelsanierung Altstadtringtunnel Phase 670 Altstadtringtunnel, Oskar-von-Miller-Ring, Von-der-Tann-Straße, Prinzregentenstraße b) Arbeiten im Straßenraum; Tunnelsanierung Altstadtringtunnel Phase 670 und 680 Altstadtringtunnel, Oskar-von-Miller-Ring, Von-der-Tann-Straße, Prinzregentenstraße c) Verkehrsrechtliche Anordnung - Georgenstraße zwischen Hiltenspergerstraße und Arcisstraße - Begrünung der Georgenstraße
+- TOP 3.4.: SWM Baumaßnahme a) Fernwärme-Projekt, Kaulbachstraße - BA 03 (Maxvorstadt) b) Strom-Projekt - Von-der-Thann-Straße - BA 3 (Maxvorstadt)
+- TOP 3.5.: Ferdinand-Miller-Platz 3 Einrichtung pers. Behindertenparkplatz Anordnung
+- TOP 3.6.: Benutzung Arnulfpark für Hunde Bürger*innenanliegen vom 30.08.2022 Das Bürger*innenanliegen wurde ebenfalls an den BA 9 gestellt
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Förderung des Handballcampus München
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren Sitzungsvorlage 20-26 / V 06175
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 26.09.2022 Stand der Dinge: Gestaltung der Fassade des Heizkraftwerks Theresienstraße 36
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget HIDALGO gGmbH HIDALGO Box-Salon im Rahmen des HIDALGO Festivals "Klassik Upcycled" 2022 am 07.10.2022 3.853,64 Euro, Az.: 0262.0-3-0423
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Zur Kenntnis - Demokratiemobil am 19.10.2022 im Maßmannpark, Stb. 3
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: RIS-W: Ratsinformationssystem – Papierlose Bezirksausschussarbeit
+- TOP F.2.: Kinder und Bürger*innenfest 2023
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.2.: (E) Stadtbezirksbudget Centro Cultural del Perú e.V. Deutschkurse für Grundwissen vom 07.10. - 25.11.2022 450,00 Euro, Az.: 0262.0-3-0419
+- TOP 2.3.: (E) Stadtbezirksbudget Centro Culturale del Perú e.V. Prävention der saisonalen Depression vom 05. - 26.10.2022 709,00 Euro, Az.: 0262.0-3-0420
+- TOP 2.4.: (E) Stadtbezirksbudget ASZ Maxvorstadt Bayerisches Rotes Kreuz Thementage Wohnen vom 18.10. - 03.11.2022 865,00 Euro, Az.: 0262.0-3-0425
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP F.3.: Beamer im BA Büro (vertagt aus 09.2022)
