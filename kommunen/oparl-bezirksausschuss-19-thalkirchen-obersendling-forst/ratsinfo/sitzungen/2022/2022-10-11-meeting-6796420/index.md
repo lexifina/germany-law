@@ -1,0 +1,65 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-10-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796420
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796420
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 13.09.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Kath. Kirchenstiftung St. Karl Borromäus, Kindergarten St. Johann Baptist Sonnensegel für den Garten des Kindergartens 17.750,00 €/ Az. 0262.0-19-0424
+- TOP 3.3.: (E) Stadtbezirksbudget Kath. Kirchenstiftung St. Johann Baptist München-Solln “… in memoriam – Konzert am 13.11.2022“ 2.873,39 € / AZ: 0262.0-19-0430
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Genehmigungsverfahren: Verlagerung und Neustrukturierung Straßenreinigungsstützpunkt Gmunder Straße 32
+- TOP 4.4.: (Antrag) Einführung der Gelben Tonne als Teil eines Wertstoff-Holsystems
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Antwortschreiben zur Anfrage des BA 19 zum Thema Querungshilfe Kistlerhofstraße Höhe Münsinger Straße
+- TOP 5.2.: (BV) Durchfahrtsmöglichkeit für Radfahrer*innen auf der Fraunbergstraße in Richtung Isar Empfehlung Nr. 20-26 / E 00327 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 14.10.2021
+- TOP 5.3.: (U) Verkehrsrechtliche Anordnung: Absolutes Haltverbot Rettungsweg Karl-Raupp-Straße
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Tempo 30 vor Kita Aidenbachstraße 105
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Tempo 30 vor Kita Aidenbachstraße 140
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Oppenrieder Straße 23
+- TOP 6.2.3: Alfred-Kubin-Weg 46
+- TOP 6.2.4: Oberbrunner Straße 20
+- TOP 6.2.5: Neurieder Straße 4 (T)
+- TOP 6.2.6: Jägerhuberstraße 9
+- TOP 6.2.7: Seeshaupter Straße 4 (T)
+- TOP 6.2.9: Springerstraße 3 (VB)
+- TOP 6.2.10: Bertelestraße 76
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Anfrage) Hinweisschilder auf historische Gebäude
+- TOP 8.3.: (U) Gaststättenfortführungen: Hofmannstraße
+- TOP 8.4.: (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 03.10. bis 02.11.2022
+- TOP 9: Verschiedenes
+- TOP 3.1.1: Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk 19
+- TOP 5.1.2: Ausweitung Parkzeiten Behindertenparkplatz Drygalski-Allee und Gulbranssonstraße
+- TOP 4.1.1: Wertstoffmobil-Halt im Stadtbezirk 19
+- TOP 7.2.: - NACHTRAG - (A) Schul- und Kitabauoffensive - 4. Schulbauprogramm und Kita-Bauprogramm 2022
+- TOP 6.2.2: Friedastraße 8
+- TOP 6.2.8: Wilbrechtstraße 52
+- TOP 6.2.11: Oberstdorfer Straße 25 (VB)
