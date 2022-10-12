@@ -1,29 +1,12 @@
-# Anlage 2 (zu § 12 Abs. 2)
+# Anlage 2 (zu § 12 Absatz 2)Maximalsätze für die Nutzungsdauer in Deutschland belegener baulicher Anlagen
 
-Erfahrungssätze für die Nutzungsdauer baulicher Anlagen
-
-Fundstelle des Originaltextes: BGBl. I 2006, 1183
-A) Wohnwirtschaftliche Nutzung (in Deutschland belegene Objekte):
+A) Wohnwirtschaftliche Nutzung:
   Wohnhäuser:
-  25 bis 80 Jahre
-B) Gewerbliche Nutzung (in Deutschland belegene Objekte):
-  a) Geschäfts- und Bürohäuser:
-    30 bis 60 Jahre
-  b) Warenhäuser, Einkaufszentren:
-    15 bis 50 Jahre
-  c) Hotels und Gaststätten:
-    15 bis 40 Jahre
-  d) Landwirtschaftlich genutzte Objekte:
-    15 bis 40 Jahre
-  e) Kliniken, Reha-Einrichtungen, Alten- und Pflegeheime:
-    15 bis 40 Jahre
-  f) Lagerhallen, Produktionsgebäude:
-    15 bis 40 Jahre
-  g) Freizeitimmobilien (z. B. Sportanlagen):
-    15 bis 30 Jahre
-  h) Parkhäuser:
-    15 bis 40 Jahre
-  i) SB- und Fachmärkte, Verbrauchermärkte:
-    10 bis 30 Jahre
-  j) Tankstellen:
-    10 bis 30 Jahre
+  80 Jahre
+B) Gewerbliche Nutzung:
+  a) Geschäftshäuser und Bürohäuser:
+    60 Jahre
+  b) Warenhäuser, Einkaufszentren, Hotels, landwirtschaftlich genutzte Objekte, Kliniken, Rehabilitationseinrichtungen, Pflegeheime, Lager- und Logistikimmobilien, Produktionsimmobilien und Parkhäuser:
+    40 Jahre
+  c) Freizeitimmobilien (zum Beispiel Sportanlagen), Selbstbedienungs- und Fachmärkte, Verbrauchermärkte und Tankstellen:
+    30 Jahre.

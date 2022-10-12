@@ -14,8 +14,7 @@
 Registerführung
 
 - [§ 6 Allgemeine Anforderungen](0006.md)
-- [§ 7 Technische und organisatorische Maßnahmen zur Gewährleistung von
-Datenschutz und Datensicherheit](0007.md)
+- [§ 7 Technische und organisatorische Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit](0007.md)
 
 ## Teil 3 Inhalt der Eintragungen
 
@@ -23,16 +22,15 @@ Datenschutz und Datensicherheit](0007.md)
 - [§ 9 Eintragung im Inland belegener Hypotheken und Grundschulden](0009.md)
 - [§ 10 Eintragung ausländischer Sicherungsrechte](0010.md)
 - [§ 11 Eintragung von Deckungswerten nach § 20 Abs. 1 des Pfandbriefgesetzes](0011.md)
-- [§ 12 Eintragung von Deckungswerten nach § 21 und § 26 Abs. 1 Nr. 1 des
-Pfandbriefgesetzes](0012.md)
-- [§ 12a Eintragung von Deckungswerten nach den §§ 26a und 26f Abs. 1 Nr. 1 des Pfandbriefgesetzes](0012a.md)
-- [§ 13 Eintragung von Ansprüchen aus Derivategeschäften](0013.md)
-- [§ 14 Eintragung von Deckungswerten nach § 4 Abs. 1 Satz 2, § 19 Abs. 1 Nr. 1 und 2, § 20 Abs. 2 Nr. 2 sowie § 26f Abs. 1 Nr. 2 und 3 des Pfandbriefgesetzes](0014.md)
+- [§ 12 Eintragung von Deckungswerten nach § 21 und § 26 Absatz 1 Satz 1 Nummer 1 des Pfandbriefgesetzes](0012.md)
+- [§ 12a Eintragung von Deckungswerten nach den §§ 26a und § 26f Absatz 1 Satz 1 Nummer 1 des Pfandbriefgesetzes](0012a.md)
+- [§ 13 Eintragung von Derivategeschäften](0013.md)
+- [§ 14 Eintragung von Deckungswerten der barwertigen sichernden Überdeckung sowie anderer weiterer Deckungswerte](0014.md)
 
 ## Teil 4 Aufzeichnungen und Bestätigungen nach § 5 Abs. 2 des
 Pfandbriefgesetzes
 
-- [§ 15 Form der Aufzeichnung und Übermittlung](0015.md)
+- [§ 15 Umfang der Aufzeichnung und Form der Übermittlung](0015.md)
 - [§ 16 Treuhänderbestätigung](0016.md)
 - [§ 17 Aufbewahrung durch die Bundesanstalt](0017.md)
 

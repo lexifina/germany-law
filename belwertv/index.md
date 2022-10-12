@@ -33,7 +33,7 @@
 - [§ 15 Bodenwert](0015.md)
 - [§ 16 Wert der baulichen Anlage](0016.md)
 - [§ 17 Wertminderung wegen Alters](0017.md)
-- [§ 18 Berücksichtigung sonstiger wertbeeinflussender Umstände](0018.md)
+- [§ 18 (weggefallen)](0018.md)
 
 ### Abschnitt 3 Vergleichswertverfahren
 
@@ -49,7 +49,7 @@
 
 ### Abschnitt 5 Im Ausland belegene Objekte
 
-- [§ 25 Beleihungen im Ausland](0025.md)
+- [§ 25 Besonderheiten bei Beleihungen im Ausland](0025.md)
 
 ### Abschnitt 6 Überprüfung der Beleihungswertermittlung
 
@@ -58,17 +58,8 @@
 ## Teil 4 Schlussvorschriften
 
 - [§ 27 Bezugsquelle der DIN-Norm](0027.md)
-- [§ 28 Inkrafttreten](0028.md)
-- [Anlage 1 (zu § 11 Abs. 2)
-
-Bandbreite der Einzelkostenansätze für die Ermittlung der 
-Bewirtschaftungskosten](anlage-1.md)
-- [Anlage 2 (zu § 12 Abs. 2)
-
-Erfahrungssätze für die Nutzungsdauer baulicher Anlagen](anlage-2.md)
-- [Anlage 3 (zu § 12 Abs. 4)
-
-Bandbreiten für Kapitalisierungszinssätze](anlage-3.md)
-- [Anlage 4 (zu § 12 Abs. 1)
-
-Vervielfältigertabelle](anlage-4.md)
+- [§ 28 Inkrafttreten, Übergangsvorschriften](0028.md)
+- [Anlage 1 (zu § 11 Absatz 2)Mindestsätze für die Einzelkostenansätze für die Ermittlung der Bewirtschaftungskosten](anlage-1.md)
+- [Anlage 2 (zu § 12 Absatz 2)Maximalsätze für die Nutzungsdauer in Deutschland belegener baulicher Anlagen](anlage-2.md)
+- [Anlage 3 (zu § 12 Absatz 4)Bei den Mindestkapitalisierungszinssätzen nach § 12 Absatz 4 für einzelne Nutzungsarten zu berücksichtigende Aufschläge](anlage-3.md)
+- [Anlage 4 (weggefallen)](anlage-4.md)
