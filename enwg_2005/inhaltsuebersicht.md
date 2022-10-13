@@ -223,6 +223,8 @@
 | Teil 6 |
 | Sicherheit und Zuverlässigkeit der Energieversorgung |
 | § 49 | Anforderungen an Energieanlagen, Verordnungsermächtigung |
+| § 49a | Elektromagnetische Beeinflussung |
+| § 49b | Temporäre Höherauslastung |
 | § 50 | Vorratshaltung zur Sicherung der Energieversorgung |
 | § 50a | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve; Verordnungsermächtigung |
 | § 50b | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Pflicht zur Betriebsbereitschaft und Brennstoffbevorratung für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve |
@@ -375,7 +377,7 @@
 | § 117a | Regelung bei Stromeinspeisung in geringem Umfang |
 | § 117b | Verwaltungsvorschriften |
 | § 118 | Übergangsregelungen |
-| § 118a | (weggefallen) |
+| § 118a | Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation |
 | § 118b | (weggefallen) |
 | § 119 | Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“ |
 | § 120 | Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung |

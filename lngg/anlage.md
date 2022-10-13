@@ -6,13 +6,13 @@
 | 1.2 | Anlage nach § 2 Absatz 1 Nr. 2 – Flüssigerdgas-Terminal (Standort: German LNG Terminal) |
 | 1.3 | Leitungen nach § 2 Absatz 1 Nr. 3 (Standort German LNG Terminal und Standort Hafen – Anschlusspunkt Gasleitungsnetz) |
 | 2. | Wilhelmshaven (Niedersachsen) |
-| 2.1 | Anlage nach § 2 Absatz 1 Nr. 1 – FSRU (Standort: Voslapper Groden) |
+| 2.1 | Anlage nach § 2 Absatz 1 Nr. 1 – FSRU (Standort: Voslapper Groden Nord 1) |
 | 2.2 | Anlage nach § 2 Absatz 1 Nr. 1 – FSRU (Standort: NWO Terminal) |
-| 2.3 | Anlage nach § 2 Absatz 1 Nr. 1 – FSRU (Standort: Jade-Weser-Port) |
+| 2.3 | Anlage nach § 2 Absatz 1 Nr. 1 – FSRU (Standort: Voslapper Groden Nord 2) |
 | 2.4 | Anlage nach § 2 Absatz 1 Nr. 2 – Flüssigerdgas-Terminal (Standort: Voslapper Groden) |
-| 2.5 | Leitungen nach § 2 Absatz 1 Nr. 3 (Standort Voslapper Groden – Anschlusspunkt Gasfernleitungsnetz) |
+| 2.5 | Leitungen nach § 2 Absatz 1 Nr. 3 (Standort Voslapper Groden Nord 1 und Nord 2 – Anschlusspunkt Gasfernleitungsnetz) |
 | 2.6 | Leitungen nach § 2 Absatz 1 Nr. 3 (Standort NWO Terminal – Anschlusspunkt Gasfernleitungsnetz) |
-| 2.7 | Leitungen nach § 2 Absatz 1 Nr. 3 (Standort Jade-Weser-Port – Anschlusspunkt Gasfernleistungsnetz) |
+| 2.7 | Leitung nach § 2 Absatz 1 Nr. 3 (mittelbare LNG-Anbindungsleitung Wilhelmshaven – Leer GWL) |
 | 3. | Stade/Bützfleth (Niedersachsen) |
 | 3.1 | Anlage nach § 2 Absatz 1 Nr. 1 – FSRU (Standort Hafen) |
 | 3.2 | Anlage nach § 2 Absatz 1 Nr. 2 – Flüssigerdgas-Terminal (Standort: Hanseatic Energy Hub) |
@@ -25,5 +25,5 @@
 | 5.2 | Anlage nach § 2 Absatz 1 Nr. 2 – Flüssigerdgas-Terminal (Standort Hafen) |
 | 5.3 | Leitungen nach § 2 Absatz 1 Nr. 3 an das Gasfernleitungsnetz |
 | 6. | Lubmin (Mecklenburg-Vorpommern) |
-| 6.1 | Anlage nach § 2 Absatz 1 Nr. 1 – FSRU |
-| 6.2 | Leitung nach § 2 Absatz 1 Nr. 3 an das Gasfernleitungsnetz |
+| 6.1 | Anlagen nach § 2 Absatz 1 Nr. 1 – FSRU |
+| 6.2 | Leitungen nach § 2 Absatz 1 Nr. 3 an das Gasfernleitungsnetz |

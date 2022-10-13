@@ -398,6 +398,7 @@ Schlussvorschriften
 | § 246a | Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete |
 | § 246b | Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie |
 | § 246c | Sonderregelungen für bestimmte mobile bauliche Anlagen und mobile Infrastruktureinrichtungen in von Hochwasserkatastrophen betroffenen Gemeinden |
+| § 246d | Sonderregelung für Biogasanlagen |
 | § 247 | Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland |
 | § 248 | Sonderregelung zur sparsamen und effizienten Nutzung von Energie |
 | § 249 | Sonderregelungen zur Windenergie |

@@ -44,8 +44,8 @@
 - [§ 24 Preisanpassungsrechte bei verminderten Gasimporten](0024.md)
 - [§ 25 Preisanpassungsmonitoring](0025.md)
 - [§ 26 Saldierte Preisanpassung; Verordnungsermächtigung](0026.md)
-- [§ 27 Beschränkung von Leistungsverweigerungsrechten aufgrund des Ausfalls kontrahierter Liefermengen](0027.md)
-- [§ 28 Ausgleich von Vermögensnachteilen](0028.md)
+- [§ 27 (weggefallen)](0027.md)
+- [§ 28 (weggefallen)](0028.md)
 
 ### Abschnitt 3 Stabilisierungsmaßnahmen
 
@@ -54,6 +54,7 @@
 ### Abschnitt 4 Präventive Maßnahmen zur Vermeidung eines Krisenfalls in der Energieversorgung
 
 - [§ 30 Präventive Maßnahmen zur Vermeidung eines Krisenfalls; Verordnungsermächtigung](0030.md)
+- [§ 30a Inbetriebnahme von überwachungsbedürftigen Anlagen zur Bewältigung einer Gasmangellage](0030a.md)
 
 ## Kapitel 3 Schlussbestimmungen
 

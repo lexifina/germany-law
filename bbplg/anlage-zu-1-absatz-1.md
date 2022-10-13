@@ -178,7 +178,7 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | 96 | Höchstspannungsleitung Aschaffenburg – Urberach; Drehstrom Nennspannung 380 kV | A1 |
 | 97 | Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR);Drehstrom Nennspannung 380 kV | A2, G |
 | 98 | Höchstspannungsleitung Punkt Fraulautern – Saarwellingen/Saarlouis/Dillingen (Saar) – Diefflen; Drehstrom Nennspannung 380 kV | – |
-| 99 | Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH);Drehstrom Nennspannung 380 kV | A2, G |
+| 99 | Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH);Drehstrom Nennspannung 380 kV |  |
 Kennzeichnung
 | A1 | = | Länderübergreifende Leitung im Sinne von § 2 Absatz 1 Satz 1 |
 | A2 | = | Grenzüberschreitende Leitung im Sinne von § 2 Absatz 1 Satz 2 |
