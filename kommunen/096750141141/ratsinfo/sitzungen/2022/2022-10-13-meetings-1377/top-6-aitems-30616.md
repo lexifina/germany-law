@@ -1,0 +1,8 @@
+# TOP 6: Vollzug Baugesetzbuch (BauGB); Vorhabenbezogener Bebauungsplan "9. Änderung und Erweiterung des Bebauungsplanes Spitaläcker"; Stadt Ochsenfurt; Beteiligung nach § 4 Abs. 2 BauGB
+
+- Sitzung: Sitzung des Bau- und Umweltausschusses (2022-10-13)
+- Körperschaft: Stadt Kitzingen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/agendaitems/30616
+- Ergebnis: beschlossen
+- Beratung: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/consultations/10395
