@@ -1,8 +1,8 @@
 # Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages – Erschließungsbeitragssatzung –
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2021-11-29 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/erschliessungsbeitragssatzung_22_11_2021.pdf
+- Datum: 2022-10-13 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/erschließungsbeitragssatzung__30_09_2022.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -11,10 +11,10 @@
 Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages
 – Erschließungsbeitragssatzung –
 vom 29. Juni 2001
-in der Fassung der 20. Satzung zur Änderung der Erschließungsbeitragssatzung vom 22. November 2021
-- Öffentliche Bekanntmachung vom 29. November 2021
+in der Fassung der 21. Satzung zur Änderung der Erschließungsbeitragssatzung vom 30. September 2022
+- Öffentliche Bekanntmachung vom 13. Oktober 2022
 
-Der Rat der Stadt Köln hat in seiner Sitzung am 09.11.2021 aufgrund des § 132 des Baugesetzbuches (BauGB) in der Fassung der Bekanntmachung vom 03.11.2017 (BGBl. I S. 3634) in Verbindung mit §§ 7 und 77 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (GV NRW S. 666/ SGV NRW 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
+Der Rat der Stadt Köln hat in seiner Sitzung am 08.09.2022 aufgrund des § 132 des Baugesetzbuches (BauGB) in der Fassung der Bekanntmachung vom 03.11.2017 (BGBl. I S. 3634) in Verbindung mit §§ 7 und 77 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (GV NRW S. 666/ SGV NRW 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
 §1 Gegenstand der Satzung
 Der Erschließungsbeitrag wird nach den Bestimmungen des BauGB und dieser Satzung erhoben.
 §2 Art und Umfang der Erschließungsanlagen
@@ -69,11 +69,9 @@ Nutzung bis zu einer Breite von
 
 24,00 m,
 
-wenn sie beidseitig anbaubar oder die erschlossenen Grundstücke
-
 Seite 1 von 7
 
-gewerblich nutzbar sind und bis zu einer Breite von wenn sie einseitig anbaubar oder die erschlossenen Grundstücke gewerblich nutzbar sind;
+wenn sie beidseitig anbaubar oder die erschlossenen Grundstücke gewerblich nutzbar sind und bis zu einer Breite von wenn sie einseitig anbaubar oder die erschlossenen Grundstücke gewerblich nutzbar sind;
 
 17,50 m,
 
@@ -145,19 +143,19 @@ Zum beitragsfähigen Aufwand gehören auch Fremdkapitalkosten. Sie sind nicht Be
 
 Einheitssatz für Erschließungsanlagen bzw. ihre Teileinrichtungen nach § 2 Abs. 1 Ziffer
 
-Herstellungszeitraum ab 01.01.2020 bis 31.12.2020
+Herstellungszeitraum ab 01.01.2021 bis 31.12.2021
 
 Euro/m²
 
-19 1 bis 4 Straßenbeleuchtung
+20 1 bis 4 Straßenbeleuchtung
 
 a) technische Leuchtstellen
 
-8,27
+9,38
 
 b) dekorative Leuchtstellen
 
-16,61
+18,21
 
 Die Verzeichnisse der Einheitssätze sind Bestandteil dieser Satzung.
 
@@ -171,11 +169,9 @@ Die Stadt trägt 10 % des beitragsfähigen Erschließungsaufwandes.
 
 (1) Der nach den §§ 1 bis 4 ermittelte Erschließungsaufwand wird auf die erschlossenen Grundstücke verteilt nach dem Verhältnis der Grundstücksflächen zueinander. Dabei wird die unterschiedliche Nutzung der erschlossenen Grundstücke nach Art und Maß berücksichtigt.
 
-Soweit als Maßstab der baulichen Nutzung das Vollgeschoss nach Maßgabe der folgenden Bestimmungen zugrunde zu legen ist, gilt als solches jedes Geschoss, dessen
-
 Seite 3 von 7
 
-Deckenoberkante im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragt und das eine Höhe von mindestens 2,30 m hat. Ein gegenüber den Außenwänden des Gebäudes zurückgesetztes oberstes Geschoss (Staffelgeschoss) ist nur dann ein Vollgeschoss, wenn es diese Höhe über mehr als zwei Drittel der Grundfläche des darunter liegenden Geschosses hat. Ein Geschoss mit geneigten Dachflächen ist ein Vollgeschoss, wenn es diese Höhe über mehr als drei Viertel seiner Grundfläche hat. Die Höhe der Geschosse wird von Oberkante Fußboden bis Oberkante Fußboden der darüberliegenden Decke, bei Geschossen mit Dachflächen bis Oberkante Dachhaut gemessen.
+Soweit als Maßstab der baulichen Nutzung das Vollgeschoss nach Maßgabe der folgenden Bestimmungen zugrunde zu legen ist, gilt als solches jedes Geschoss, dessen Deckenoberkante im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragt und das eine Höhe von mindestens 2,30 m hat. Ein gegenüber den Außenwänden des Gebäudes zurückgesetztes oberstes Geschoss (Staffelgeschoss) ist nur dann ein Vollgeschoss, wenn es diese Höhe über mehr als zwei Drittel der Grundfläche des darunter liegenden Geschosses hat. Ein Geschoss mit geneigten Dachflächen ist ein Vollgeschoss, wenn es diese Höhe über mehr als drei Viertel seiner Grundfläche hat. Die Höhe der Geschosse wird von Oberkante Fußboden bis Oberkante Fußboden der darüberliegenden Decke, bei Geschossen mit Dachflächen bis Oberkante Dachhaut gemessen.
 
 (2) Als Grundstücksfläche im Sinne des Absatzes 1 gilt bei Grundstücken innerhalb des Geltungsbereiches eines Bebauungsplanes, der Festsetzungen über Art und Maß der baulichen Nutzung trifft, die Fläche, die hinter der im Bebauungsplan festgesetzten Straßenbegrenzungslinie liegt und von der Erschließungsanlage erschlossen wird. Ist keine Straßenbegrenzungslinie festgesetzt, ist die tatsächliche Straßengrenze maßgebend.
 
@@ -204,11 +200,12 @@ h) Bei Grundstücken, deren Grundstücksflächen aufgrund ihrer besonderen Zweck
 
 (5) Für Grundstücke innerhalb des Geltungsbereiches eines Bebauungsplanes ergibt sich die Zahl der Vollgeschosse wie folgt:
 
-a) Ist die Zahl der Vollgeschosse festgesetzt, aus der höchstzulässigen Zahl der Vollgeschosse. Ist eine höhere Zahl von Vollgeschossen vorhanden, so ist diese zugrunde zu legen. Ist auch nur ein Vollgeschoss höher als 3,50 m, so ist je
 Seite 4 von 7
 
-angefangene 3,50 m der gesamten Höhe aller Vollgeschosse ein Vollgeschoss zu rechnen, mindestens jedoch die tatsächliche Zahl der Vollgeschosse.
-b) Ist die Zahl der Vollgeschosse nicht festgesetzt, jedoch die höchstzulässige Gebäudehöhe, gilt als Zahl der Vollgeschosse - in Gewerbegebieten, Industriegebieten und in Sondergebieten mit vergleichbarer Nutzung die festgesetzte Höhe geteilt durch 3,5 - in sonstigen Gebieten die festgesetzte Höhe geteilt durch 3,0.
+a) Ist die Zahl der Vollgeschosse festgesetzt, aus der höchstzulässigen Zahl der Vollgeschosse. Ist eine höhere Zahl von Vollgeschossen vorhanden, so ist diese zugrunde zu legen. Ist auch nur ein Vollgeschoss höher als 3,50 m, so ist je angefangene 3,50 m der gesamten Höhe aller Vollgeschosse ein Vollgeschoss zu rechnen, mindestens jedoch die tatsächliche Zahl der Vollgeschosse.
+b) Ist die Zahl der Vollgeschosse nicht festgesetzt, jedoch die höchstzulässige Gebäudehöhe, gilt als Zahl der Vollgeschosse
+- in Gewerbegebieten, Industriegebieten und in Sondergebieten mit vergleichbarer Nutzung die festgesetzte Höhe geteilt durch 3,5
+- in sonstigen Gebieten die festgesetzte Höhe geteilt durch 3,0.
 Ist die höchstzulässige Gebäudehöhe überschritten, wird die Zahl der Vollgeschosse aus der tatsächlichen Gebäudehöhe ermittelt. Bruchzahlen werden auf volle Zahlen auf- oder abgerundet.
 c) Sind nur Baumassenzahlen festgesetzt, gilt als Zahl der Vollgeschosse die Baumassenzahl geteilt durch 3,5. Ist eine größere Baumasse vorhanden, gilt als Zahl der Vollgeschosse die Baumasse geteilt durch die Grundstücksfläche geteilt durch 3,5. Bruchzahlen werden auf volle Zahlen auf- oder abgerundet.
 (6) Für Grundstücke außerhalb des Geltungsbereiches eines Bebauungsplanes oder für Grundstücke, für die ein Bebauungsplan die Zahl der Vollgeschosse, die Gebäudehöhe oder die Baumassenzahl nicht festsetzt, ergibt sich die Zahl der Vollgeschosse wie folgt:
@@ -220,9 +217,10 @@ e) Bei Grundstücken, auf denen nur Garagen oder Stellplätze zulässig oder vor
 (7) Zur Berücksichtigung der unterschiedlichen Art der Nutzung werden die nach Absatz 4 ermittelten Nutzungsfaktoren bei Erschließungsanlagen nach § 2 Absatz 1 Ziffern 1 bis 3 nach den folgenden Maßgaben erhöht:
 a) bei Grundstücken in durch Bebauungsplan festgesetzten Gewerbe-, Industrie-und Kerngebieten sowie in Sondergebieten mit vergleichbarer Nutzung um 0,5
 b) bei Grundstücken im Innenbereich, für die planungsrechtliche Festsetzungen über die Art der baulichen oder sonstigen Nutzung nicht bestehen, und die gewerblich, industriell oder in ähnlicher Weise (z.B. Grundstücke mit Büro-, Verwaltungs- Post-, Bahn-, Krankenhaus- oder Schulgebäuden) genutzt werden, um 0,5, wenn diese Nutzung in mindestens der Hälfte der Vollgeschosse überwiegt.
-(8) Bei Erschließungsanlagen nach § 2 Absatz 1 Ziffer 5 werden für Grundstücke in Gewerbe-, Industrie und Kerngebieten, in Sondergebieten mit vergleichbarer Nutzung sowie für Grundstücke, bei denen in mindestens der Hälfte der Vollgeschosse die Wohnnutzung nicht überwiegt, die nach Abs. 4 ermittelten Nutzungsfaktoren um 0,5 vermindert.
+(8) Bei Erschließungsanlagen nach § 2 Absatz 1 Ziffer 5 werden für Grundstücke in Gewerbe-, Industrie und Kerngebieten, in Sondergebieten mit vergleichbarer Nutzung
 Seite 5 von 7
 
+sowie für Grundstücke, bei denen in mindestens der Hälfte der Vollgeschosse die Wohnnutzung nicht überwiegt, die nach Abs. 4 ermittelten Nutzungsfaktoren um 0,5 vermindert.
 §6 Grundstücke an mehreren Erschließungsanlagen
 (1) Bei überwiegend Wohnzwecken dienenden Grundstücken, die von mehr als einer Erschließungsanlage der gleichen Art erschlossen werden, wird bei der Verteilung des Erschließungsaufwandes der nach § 5 ermittelte Verteilerwert (Produkt aus der Grundstücksfläche und dem Nutzungsfaktor) mit 75 % berücksichtigt.
 (2) Die Regelung des Absatzes 1 gilt nicht, wenn ein Erschließungsbeitrag nur für eine Erschließungsanlage erhoben wird und Beiträge für die erstmalige Herstellung weiterer Erschließungsanlagen weder nach dem geltenden Recht noch nach vergleichbaren früheren Rechtsvorschriften erhoben worden sind oder erhoben werden dürfen, es sei denn, dass die weiteren Erschließungsanlagen im Rahmen eines Erschließungsvertrages hergestellt worden sind.
@@ -235,34 +233,9 @@ Ein Rechtsanspruch auf Ablösung besteht nicht.
 • den Grunderwerb, • die Freilegung, • die Fahrbahn, • die Mischverkehrsfläche sowie für die Flächenbefestigung in
 Fußgängerbereichen und Verkehrsanlagen nach § 2 Abs. 1 Nr. 2, • den Radweg, • den Gehweg, • den kombinierten Geh-/Radweg, • die Parkfläche, • die Entwässerungseinrichtung. • die Beleuchtungseinrichtung, • die Grünanlage.
 (2) Die Entscheidung über die Kostenspaltung trifft der Rat oder der von diesem bestimmte Ausschuss.
-§9 Merkmale der endgültigen Herstellung der Erschließungsanlagen
-(1) Straßen, Wege und Plätze, mit Kraftfahrzeugen nicht befahrbare Verkehrsanlagen und Sammelstraßen sind endgültig hergestellt, wenn:
 Seite 6 von 7
 
-a) die Stadt Eigentümerin der Flächen für die Erschließungsanlagen ist und diese mit betriebsfertigen Entwässerungs- und Beleuchtungseinrichtungen ausgestattet sind und
-b) sie auf tragfähigem Unterbau mit einer Decke aus Asphalt, Beton, Platten, Pflaster oder einem ähnlichen Material neuzeitlicher Bauweise hergestellt (befestigt) sind.
-(2) Grünanlagen sind endgültig hergestellt, wenn:
-a) die Stadt Eigentümerin der Flächen für die Erschließungsanlagen ist und
-b) diese gärtnerisch gestaltet sind.
-§ 10 Immissionsschutzanlagen
-Bei Anlagen zum Schutz von Baugebieten gegen schädliche Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes werden die Art, der Umfang, die Merkmale der endgültigen Herstellung sowie die Verteilung des beitragsfähigen Erschließungsaufwandes durch Satzung im Einzelfall abweichend oder ergänzend geregelt.
-§ 11 Inkrafttreten
-Die Satzung tritt rückwirkend zum 01.01.2020 in Kraft.
-Vorstehende Satzung wird hiermit öffentlich bekannt gemacht.
-Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen hingewiesen.
-
-§ 7 Abs. 6 Satz 1 der Gemeindeordnung lautet:
-
-"Die Verletzung von Verfahrens- oder Formvorschriften dieses Gesetzes kann gegen Satzungen, sonstige ortsrechtliche Bestimmungen und Flächennutzungspläne nach Ablauf eines Jahres seit ihrer Verkündung nicht mehr geltend gemacht werden, es sei denn,
-
-a) eine vorgeschriebene Genehmigung fehlt oder ein vorgeschriebenes Anzeigeverfahren wurde nicht durchgeführt,
-b) die Satzung, die sonstige ortsrechtliche Bestimmung oder der Flächennutzungsplan ist nicht ordnungsgemäß öffentlich bekannt gemacht worden,
-c) der Bürgermeister hat den Ratsbeschluss vorher beanstandet
-oder
-d) der Form- oder Verfahrensmangel ist gegenüber der Gemeinde vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt."
-
-Köln, den 22.11.2021
-
-Henriette Reker Die Oberbürgermeisterin
-
+§9 Merkmale der endgültigen Herstellung der Erschließungsanlagen (1) Straßen, Wege und Plätze, mit Kraftfahrzeugen nicht befahrbare Verkehrsanlagen und Sammelstraßen sind endgültig hergestellt, wenn: a) die Stadt Eigentümerin der Flächen für die Erschließungsanlagen ist und diese mit betriebsfertigen Entwässerungs- und Beleuchtungseinrichtungen ausgestattet sind und b) sie auf tragfähigem Unterbau mit einer Decke aus Asphalt, Beton, Platten, Pflaster oder einem ähnlichen Material neuzeitlicher Bauweise hergestellt (befestigt) sind. (2) Grünanlagen sind endgültig hergestellt, wenn: a) die Stadt Eigentümerin der Flächen für die Erschließungsanlagen ist und b) diese gärtnerisch gestaltet sind.
+§ 10 Immissionsschutzanlagen Bei Anlagen zum Schutz von Baugebieten gegen schädliche Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes werden die Art, der Umfang, die Merkmale der endgültigen Herstellung sowie die Verteilung des beitragsfähigen Erschließungsaufwandes durch Satzung im Einzelfall abweichend oder ergänzend geregelt.
+§ 11 Inkrafttreten Die Satzung tritt rückwirkend zum 01.01.2021 in Kraft.
 Seite 7 von 7
