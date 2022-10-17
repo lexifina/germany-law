@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-10-17T17:05:00+02:00
+- Ende: 2022-10-17T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25450
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25450
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bericht der Sozialraumkoordination Buchheim/Holweide und Höhenhaus/Dünnwald
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO, betr.: Überprüfung, wie Umweltschutz und Naherholung besser in Einklang gebracht werden können (Az.: 116/22 B) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage der SPD-Fraktion: Aktuelle Schul- und Ganztagsentwicklung im Stadtteil Köln-Buchheim - Kenntnis genommen
+- TOP 7.1.2: Radikale Schnittmaßnahmen von Baum- und Strauchwerk im Bereich Bergischer Ring zwischen Danzierstraße und Bachstraße - Kenntnis genommen
+- TOP 7.1.3: Geplanter Abriss des Hochbunkers in Flittard; Beantwortung der Anfrage AN/2184/2021 - Kenntnis genommen
+- TOP 7.1.4: Kalkberg - Laufende Arbeiten und Kosten - Kenntnis genommen
+- TOP 7.1.5: Kalkberg - Gebäude - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Versorgungsinfrastruktur Senior*innen - Kenntnis genommen
+- TOP 7.2.2: Teiloffenlegung Strunde - Kenntnis genommen
+- TOP 7.2.3: Flächenfraß stoppen – Grundstücke von Lebensmittelsupermärkten effizienter nutzen - Kenntnis genommen
+- TOP 7.2.4: Erhalt des Krankenhauses Holweide als Krankenhaus der Regelversorgung - Kenntnis genommen
+- TOP 7.2.5: Kinderärztliche Versorgung im Bezirk Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.6: Einsatz von Biotonnen im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.6.1: Einsatz von Biotonnen im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.7: Werbung für Impfbereitschaft - Kenntnis genommen
+- TOP 7.2.8: Gebühren Straßenreinigung Keupstraße - Kenntnis genommen
+- TOP 7.2.8.1: Gebühren AWB Keupstraße - Kenntnis genommen
+- TOP 7.2.9: Gesundheit und Statistik - Kenntnis genommen
+- TOP 7.2.10: Situation ukrainischer Rentner im SB Mülheim - Kenntnis genommen
+- TOP 7.2.11: Sperrung der östlichen Steyler Straße in Holweide - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verkehrssicherheit auf dem Imbacher Weg in Höhenhaus - ungeändert beschlossen
+- TOP 8.1.2: Fahrradstraße Am Rosenmaar - endgültig abgelehnt
+- TOP 8.1.3: Herstellung einer sicheren Wegstrecke für zu Fuß Gehende entlang der Cottbusser Straße zwischen Schanzenstraße und Neurather Ring - ungeändert beschlossen
+- TOP 8.1.4: Aufbringen einer Radwegmarkierung und Absenkung der vorhandenen Wegstrecke beim Übergang auf die Fahrbahn im Bereich des Verkehrskreisels am Neurather Ring - ungeändert beschlossen
+- TOP 8.1.5: Anbringen eines Verkehrsspiegels im Bereich der Bahnunterführung Wasserwerkstraße / Thuleweg in Höhenhaus oder der Umsetzung einer entsprechenden Alternative zur Verbesserung der Sicherheit von Fußgänger*innen und Fahrradfahrer*innen - ungeändert beschlossen
+- TOP 8.1.6: Holweide - Verkehrssituation in und an der Steyler Straße - ungeändert beschlossen
+- TOP 8.1.7: Holweide - Aufwertung der Örtlichkeit rund um die Haltestellen Vischeringstraße - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2022; Vergabe von Restmitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 10.2.5: Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN im Kölner Rat, CDU-Fraktion im Rat der Stadt Köln, Volt-Fraktion im Rat der Stadt Köln, AN/1081/2022 Rechtliche Möglichkeiten zur Umsetzung von stadtentwicklungspolitischen Zielen - Kenntnis genommen
+- TOP 10.2.6: Aktivitäten 2022 des House of Resources (HoR) in Köln und diesjährige Bundeskonferenz der Houses of Resources am 4.11.2022 - Kenntnis genommen
+- TOP 10.2.7: Erste Gespräche zur Abstimmung neuer Regelung für die Außengastronomie hier: Sachstand - Kenntnis genommen
+- TOP 10.2.8: AN 1127/2022 ehemals AN 4305/2021 - Kenntnis genommen
+- TOP 10.2.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.10: Kreisverkehr Zeisbuschweg/Birkenweg - Baubeschluss - Kenntnis genommen
+- TOP 10.2.11: Schweidnitzer Straße in Köln Dünnwald - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
