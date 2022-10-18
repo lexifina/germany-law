@@ -1,0 +1,7 @@
+# TOP 6: Grevenbroich als attraktive Etappenstadt für Wohnmobile etablieren
+
+- Sitzung: Beirat Bauen (2022-10-18)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/138444
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/22481
