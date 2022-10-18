@@ -1,0 +1,69 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2022-10-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6875855
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6875855
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Missachtung der Einbahnregelung in der Holzapfelstrasse
+- TOP 4.2.: Zufahrtsberechtigung zur Tiefgarage Alter Messeplatz 6 während des Oktoberfests
+- TOP 4.3.: Verkehrsregelungen und Probleme rund um das Oktoberfest
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ridlerstraße 27
+- TOP 6.2.2.: Bauvorhaben Gollierstr. 34
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Verhinderung von Gentrifizierungsvorhaben – Schutz der Mieter*innen; Aufforderung über Stadtspitze an Gesetzgeber über Erhaltungssatzung Einflussnahme zum Schutz Empfehlung Nr. 20-26 / E 00529 vom 25.04.2022
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Oktoberfest 2022; Schluss- und Erfahrungsbericht
+- TOP 8.2.2.: Gedenkveranstaltungen zum 9. November 1938; Namenslesung am 09.11.2022 um 16:00 Uhr am Georg-Freundorfer-Platz
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Verlängerung der Wiesn 2023 bis zum 03.10.2023
+- TOP 8.3.2.: Oldtimer-Shuttle zur Langen Nacht der Museen am 15.10.2022
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Fahrbahnsanierung mit Vollsperre in der Theresienhöhe 15 bis 22
+- TOP 9.3.2.: Reparatur der Sitzgelegenheiten am Josef-Thurner-Platz
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Offenes Frauentreffen München Feministisches Fest 2.606,25 € / 0262.0-8-0328
+- TOP 10.1.2.: Verwendung von Budgetrestmitteln
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Einführung „RIS-Internet/ -Extranet“ für alle Bezirksausschussmitglieder; Information zur Kooperationsplattform „Alfresco“
+- TOP 12.3.2.: Digitaler Fachtag "Gesundheit vor Ort – Wie gelingt Gesundheitsförderung im Quartier"; online am Mittwoch, 16.11.2022, von 9:30 - 16:30 Uhr
+- TOP 12.3.3.: Vorstellung Rockband >ELSE 15
+- TOP 12.3.4.: Mosaik Jugendpreis – Mit Vielfalt gegen Rassismus
+- TOP 13: Protokoll und Umlauf
+- TOP 4.4.: Verkehrschaos während der Wiesn in der Schießstättstraße
+- TOP 9.2.1.: Verkehrssituation rund um die Westendstraße (Lidl etc.) und Ecke Trappentreustraße
+- TOP 9.3.3.: Aufhebung Behindertenparkplätze Tulbeckstr. 25 und Heimeranstraße 70
+- TOP 9.3.4.: Hans-Fischer-Straße (Nordseite) Regelung Radverkehr
+- TOP 11.1.: Anschaffung und Reparatur von Tischtennisplatten; Bestellung städtischer Leistung
