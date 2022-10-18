@@ -1,0 +1,142 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-10-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6849870
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6849870
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Antrag auf Einführung eines Wertstoff-Holsystems.
+- TOP 6.2.: Verkehrsberuhigung Konrad-Celtis-Straße
+- TOP 6.3.: Behindertenparkplätze
+- TOP 6.4.: Parkscheinautomaten in der Martin-Behaim-Straße
+- TOP 6.5.: Schulwegsicherheit Plingansersprengel.
+- TOP 6.6.: Standortsuche für Peppa Pig World of Play Indoor Spielcenterkonzept für München
+- TOP 6.7.: Parklizenzgebiet Passauerstraße
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) + (U) Roller auf den Bürgersteigen Empfehlung Nr. 20-26 / E 00328 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 11.10.2021
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Christbaumverkauf LKP
+- TOP 9.2.: Antrag auf Sondernutzung Strassenland für Anlieferung-Hansastraße
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Kizztalk Dance Academy GbR Gratis Tanzangebot für Menschen mit Migrationshintergrund aus Sendling am 01.11.2022-31.10.2023 4.964,80 € / AZ.: 0262.0-7-0395
+- TOP 10.2.: (E) Stadtbezirksbudget Erdlinge e.V. Beschaffung eines Krippenwagens für Ausflüge am 07.11.2022 798,00 € / AZ.: 0262.0-7-0397
+- TOP 11.: Anträge
+- TOP 11.1.: Anfrage Unterführung Haupteingang Waldfriedhof
+- TOP 11.2.: Einsatz von TOPO-Boxen
+- TOP 11.3.: Energiekrise und ärmere Haushalte
+- TOP 11.4.: Radweg Garmischer Straße
+- TOP 11.5.: Baumlehrpfad Heckenstallerpark
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Hirsch-Gereuth-Str.
+- TOP 15.2.: Bauvorhaben Höglwörther Str.
+- TOP 15.3.: Bauvorhaben Pollinger Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Antrag Corona-Testcontainer Partnachplatz
+- TOP 25.2.: Anfrage Testcontainer Klaiser Weg.
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 27.1.: Sportbauprogramm
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 35.1.: Umsetzung eines Öffentlichkeitsbeteiligungskonzeptes für die LHM
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Abschließendes Schreiben Straßennamen-Erläuterungsschildern
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Antrag zur Ertüchtigung vorhandener Fahrradstraßen in München
+- TOP 40.2.: Zebrastreifen Hinterbärenbadstraße
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Antw. Hinweisschilder für Toilettenanlagen BSA Surheimer Weg
+- TOP 43.: Referat für Gesundheit
+- TOP 43.1.: Zwischennachricht Elektrofahrzeug Waldfriedhof
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Sendlinger Spange
+- TOP 47.2.: Sendlinger Spange:Protokoll zur Abstimmung der Umweltplanung und des Verkehrskonzepts
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Gefahrenbaum Sonnenlängstr.
+- TOP 49.2.: Leistungsbilanz Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweis Schulverschönerung Mosaik
+- TOP 51.2.: Verwendungsnachweis Robotik Workshop
+- TOP 51.3.: Verwendungsnachweis Roller Fit Programm ADAC
+- TOP 51.4.: Verwendungsnachweis Turtle Kinderbus
+- TOP 51.5.: Verwendungsnachweis Volle Kanne Bewegungsfreude
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Luise-Kiesselbach-Platz, Circus Roberto
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Halteverbot Schneemannstraße
+- TOP 56.2.: Oetztaler Str-Fundbüro
+- TOP 56.3.: Drachenseestr-FeuerwehrZufahrt
+- TOP 56.4.: (U) Grundsatzbeschluss Abstellanlagen, dauerhafte Betriebshöfe für U-Bahn, Tram und Bus der SWM / MVG 1. Vorstellung Standortsuche 2. Auswahl von Vorzugsstandorten 3. Beauftragung von städtebaulichen, verkehrlichen und baulichen Voruntersuchungen
+- TOP 56.5.: (U) Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 58.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Info-Schreiben Förderung Bürgerinnen und Bürger gestalten ihre Stadt
+- TOP 61.2.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 61.3.: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften
+- TOP 61.4.: (U) Teilfortscheibung des Landesentwicklungsprogramms Bayern (LEP); Ergänzendes Beteiligungsverfahren; Stellungnahme der Landeshauptstadt München
+- TOP 61.5.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 61.6.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Unterrichtungen - Erhaltungssatzung
+- TOP 62.2.: Abbruch Marbachstr
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Ratsinformationssystem_Papierlose Bezirksausschussarbeit
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Abgeschlossenheitsbescheinigung
+- TOP 10.3.: (E) Stadtbezirksbudget München Zeitreise “Ruinenschleicher und Schachterleis-München nach 1945“ vom 01.05.2022-01.05.2023 750,00 € / AZ.: 0262.0-7-0396
+- TOP 45.1.: Parkmeile Südpark-Warnberger Riedel - Terminanfrage Projektvorstellung
+- TOP 42.2.: Informationsblatt RBS Kita
+- TOP 25.3.: Verkehrsrechtliche Anordnung Säuling-/Ecke Kreuzeckstraße
