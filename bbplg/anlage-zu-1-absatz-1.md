@@ -7,7 +7,7 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | 3 | Höchstspannungsleitung Brunsbüttel – Großgartach; Gleichstrom | A1, B, E |
 | 4 | Höchstspannungsleitung Wilster – Bergrheinfeld/West; Gleichstrom | A1, B, E |
 | 5 | Höchstspannungsleitung Wolmirstedt – Isar; Gleichstrom | A1, B, E |
-| 5a | Höchstspannungsleitung KleinRogahn/Stralendorf/Warsow/Holthusen/Schossin – Isar; Gleichstrom | A1, B, E |
+| 5a | Höchstspannungsleitung Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Isar; Gleichstrom | A1, B, E |
 | mit den Bestandteilen |  |
 | – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Landkreis Börde |  |
 | – Landkreis Börde – Isar | G |
@@ -168,17 +168,17 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 |  | – Malchow – Bezirke Mitte/Reinickendorf (Berlin) – Reuter | A1, F |
 |  | – Reuter – Teufelsbruch | F |
 | 88 | Höchstspannungsleitung Landesbergen – Grohnde – Vörden – Würgassen – Sandershausen Ost – Bergshausen – Borken; Drehstrom Nennspannung 380 kV | A1 |
-| 89 | Höchstspannungsleitung Westerkappeln – Gersteinwerk;Drehstrom Nennspannung 380 kV | – |
-| 90 | Höchstspannungsleitung Gersteinwerk – Lippe – Mengede;Drehstrom Nennspannung 380 kV | – |
-| 91 | Höchstspannungsleitung Emscherbruch – Hüllen – Eiberg – Bochum – Hattingen;Drehstrom Nennspannung 380 kV | – |
+| 89 | Höchstspannungsleitung Westerkappeln – Gersteinwerk; Drehstrom Nennspannung 380 kV | – |
+| 90 | Höchstspannungsleitung Gersteinwerk – Lippe – Mengede; Drehstrom Nennspannung 380 kV | – |
+| 91 | Höchstspannungsleitung Emscherbruch – Hüllen – Eiberg – Bochum – Hattingen; Drehstrom Nennspannung 380 kV | – |
 | 92 | Höchstspannungsleitung Walsum – Beeck; Drehstrom Nennspannung 380 kV | – |
-| 93 | Höchstspannungsleitung Lauchstädt – Leuna/Merseburg/Weißenfels – Pulgar;Drehstrom Nennspannung 380 kV | A1 |
-| 94 | Höchstspannungsleitung Sechtem – Ließem – Weißenthurm;Drehstrom Nennspannung 380 kV | A1 |
+| 93 | Höchstspannungsleitung Lauchstädt – Leuna/Merseburg/Weißenfels – Pulgar; Drehstrom Nennspannung 380 kV | A1 |
+| 94 | Höchstspannungsleitung Sechtem – Ließem – Weißenthurm; Drehstrom Nennspannung 380 kV | A1 |
 | 95 | Höchstspannungsleitung Dahlem – Bundesgrenze (BE); Gleichstrom | B, E |
 | 96 | Höchstspannungsleitung Aschaffenburg – Urberach; Drehstrom Nennspannung 380 kV | A1 |
-| 97 | Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR);Drehstrom Nennspannung 380 kV | A2, G |
+| 97 | Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR); Drehstrom Nennspannung 380 kV | A2, G |
 | 98 | Höchstspannungsleitung Punkt Fraulautern – Saarwellingen/Saarlouis/Dillingen (Saar) – Diefflen; Drehstrom Nennspannung 380 kV | – |
-| 99 | Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH);Drehstrom Nennspannung 380 kV |  |
+| 99 | Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH); Drehstrom Nennspannung 380 kV |  |
 Kennzeichnung
 | A1 | = | Länderübergreifende Leitung im Sinne von § 2 Absatz 1 Satz 1 |
 | A2 | = | Grenzüberschreitende Leitung im Sinne von § 2 Absatz 1 Satz 2 |
