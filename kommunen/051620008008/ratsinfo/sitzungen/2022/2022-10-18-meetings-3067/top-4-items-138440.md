@@ -1,0 +1,7 @@
+# TOP 4: Parkraumkonzept für das Bahnhofsviertel
+
+- Sitzung: Beirat Bauen (2022-10-18)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/138440
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/22450
