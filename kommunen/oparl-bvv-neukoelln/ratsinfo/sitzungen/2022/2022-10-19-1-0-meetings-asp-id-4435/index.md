@@ -1,0 +1,100 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-10-19T17:00:00+02:00
+- Ende: 2022-10-19T21:55:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4435
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4435
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Kindermitbestimmung, Drogen, Müll - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als ordentliches, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Vorzeitige Beendigung eines Mandats als stellvertretendes, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Zielvereinbarung zur Förderung der Freiwilligenagentur im Bezirk Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bezirkliche Kitaentwicklungsplanung - Jahresplanung 2022 - überwiesen
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl eines stellvertretenden Bürgerdeputierten in den Sportausschuss - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Grundschule am Koppelweg - beantwortet
+- TOP 8.2: Wann kommt die Jobcenter-Schlichtungsstelle? - beantwortet
+- TOP 8.3: Schulbau am Koppelweg - beantwortet
+- TOP 8.4: Miserables Ergebnis der Razzien am 14.10.2022 - 66.000 Einsatzstunden für 85 Anzeigen, davon 55 Ordnungswidrigkeiten - beantwortet
+- TOP 8.5: Leitung des Gesundheitsamtes? - schriftlich beantwortet
+- TOP 8.6: Fehlplanung von Baumaßnahmen? - schriftlich beantwortet
+- TOP 8.7: Gleichzeitige Sanierung von drei Parkhäusern durch Gropiuswohnen ohne Ersatzstellflächen für Mieter*innen - schriftlich beantwortet
+- TOP 8.8: Gebrauchtwagenhandel an Laternen - schriftlich beantwortet
+- TOP 8.9: Differenz zwischen anerkannten und tatsächlichen Kosten der Unterkunft von ALG-II-Empfangenden - schriftlich beantwortet
+- TOP 8.10: Sicherheitslage in der Hufeisensiedlung - schriftlich beantwortet
+- TOP 8.11: Fällung von Bäumen in der Waßmannsdorfer Chaussee - schriftlich beantwortet
+- TOP 8.12: Was tut das Bezirksamt gegen die Rattenplage in der Weißen Siedlung? - schriftlich beantwortet
+- TOP 8.13: Drucksachen aus vorangegangenen Legislaturperioden - schriftlich beantwortet
+- TOP 8.14: Covid-19-Inzidenz - schriftlich beantwortet
+- TOP 8.15: Neue Stellen für die Wohngeldbearbeitung frühzeitig ausschreiben - schriftlich beantwortet
+- TOP 8.16: Gewaltvorfälle in der Schule am Regenweiher - schriftlich beantwortet
+- TOP 8.17: Nazis raus aus dem Schwimmbad Columbiabad Neukölln - Angriff am 03.08.2022 - schriftlich beantwortet
+- TOP 8.18: Sozialpsychiatrischer Dienst – Keine Hilfe unter dieser Nummer! - schriftlich beantwortet
+- TOP 8.19: Vermessungsarbeiten Stubenrauch- und Kanalstraße - schriftlich beantwortet
+- TOP 8.20: Arbeitsplatzabbau durch Standortwechsel Neuköllner Industrie wegen hoher Energiepreise? - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Explodierende Energiekosten: Beratungsangebote für Einsparpotentiale bei Haushaltsenergie bewerben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Veranstaltungskalender für Seniorinnen und Senioren schneller drucken und ausliefern! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Keine Asylbewerberheime in Turn- / Sporthallen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Unterbringung von Geflüchteten in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Rekommunalisierung der Schulreinigung - Boykottiert das Bezirksamt weiterhin demokratisch gefällte Beschlüsse? - beantwortet
+- TOP 11.2: Demokratie schützen – Ordnungsgemäße und rechtsstaatliche Organisation und Durchführung von Wahlen im Bezirk Neukölln - beantwortet
+- TOP 11.3: Bearbeitungsrückstände in der Verwaltung - beantwortet
+- TOP 11.4: Recht auf Sprachförderung umsetzen - beantwortet
+- TOP 11.5: Missbilligung: Die BVV wurde von Stadträtin Blumenthal belogen! - in der BVV abgelehnt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Parken Köpenicker Straße - in der BVV abgelehnt
+- TOP 12.2: Eindeutige Vorfahrt für die Oderstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Entsiegelung: Kölner Damm Rückbau Endabschnitt - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Mehr Transparenz für die Trägerversammlung des Jobcenter Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Unabhängige Sozialberatung Neukölln verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Unterbringung der Geflüchteten aus der Ukraine - vertagt
+- TOP 13.2: Neuköllner Schulen in der Investitionsplanung - vertagt
+- TOP 13.3: Schwere Verfehlungen der Gesundheitsstadträtin Blumenthal - vertagt
+- TOP 13.4: Umsetzungsstand bei der Parkraumbewirtschaftung - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 14.1: Erledigt das Bezirksamt seine Hausaufgaben? - schriftlich beantwortet
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Finanzierung der Träger in der Kinder- und Jugendhilfe sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Klimaschutz lokal: Klimateam für das Neuköllner Bezirksamt - überwiesen
+- TOP 15.3: Zugang zu SARS-CoV-2 PCR Tests auch am Wochenende und an Feiertagen sicherstellen. - überwiesen
+- TOP 15.4: Öffentliche Trinkbrunnen für Neuköllner Kinderspielplätze - überwiesen
+- TOP 15.5: Notfallrettung für das Gesundheitsamt Neukölln - überwiesen
+- TOP 15.6: Gesundheitliche Versorgung für Corona positiv getestete wohnungslose/obdachlose Menschen - überwiesen
+- TOP 15.7: Partizipative Anlaufstelle Schulgebäude - überwiesen
+- TOP 15.8: Rücknahme der Reinigungsklasse in der Prierosser Straße - überwiesen
+- TOP 15.9: Fahrrad-Indoor-Parkplatz am S- und U-Bahnhof Hermannstraße - überwiesen
+- TOP 15.10: Campus-Bibliothek für alle - überwiesen
+- TOP 15.11: Mieterstromprojekte fördern! - überwiesen
+- TOP 15.12: Sichere Gehwege bei temporären Spielstraßen - überwiesen
+- TOP 15.13: Verbesserung der Kennzeichnung der Neckar-/Isarstraße als "Verkehrsberuhigter Bereich" - überwiesen
+- TOP 15.14: Elektronische Bürger*innenterminals für den Bezirk Neukölln - überwiesen
+- TOP 15.15: Failed State Neukölln: Wahlbeobachtung durch die OSZE - überwiesen
+- TOP 15.16: Finanzierung des Mitmach-Ladens sicherstellen - überwiesen
+- TOP 15.17: Energetische Sanierung öffentlicher Gebäude – Transparenzliste und Prüfung Abwärmenutzung - überwiesen
+- TOP 15.18: Würdevolle Gestaltung des Ottilie-Baader-Platzes - überwiesen
+- TOP 15.19: Sichtbeziehungen an der Tankstelle verbessern - überwiesen
+- TOP 15.20: Ausreichend Musikinstrumente - Neuanschaffung und Reparatur sicherstellen - überwiesen
+- TOP 15.21: Erweiterung Ganztagsgebäude Karl-Weise-Grundschule - überwiesen
+- TOP 15.22: RIAS-Gelände Wärmestrategie ohne fossile Verbrennung - überwiesen
+- TOP 15.23: RIAS-Gelände - Photovoltaik auf die Dächer - überwiesen
+- TOP 15.24: Verkehrskonzept für das Umfeld des RIAS-Gelände in Britz - überwiesen
