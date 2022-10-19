@@ -1,0 +1,91 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2022-10-19T17:00:00+02:00
+- Ende: 2022-10-19T21:35:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6676
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6676
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=409855
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - gegenstandslos
+- TOP 4: je eine Priorität pro Fraktion - gegenstandslos
+- TOP 4.1: Wiederholung der Wahlen - alles auf Anfang? - beantwortet
+- TOP 4.2: Wohngeldreform und die Auswirkungen auf die Arbeit des Bezirksamtes - beantwortet
+- TOP 4.3: Digitale Kompetenz von Seniorinnen und Senioren im Bezirk fördern - überwiesen
+- TOP 4.4: Durch Ausbildungsumlage, bezirkliche Ausbildungsbetriebe entlasten und die Anzahl der betrieblichen Ausbildungsplätze erhöhen - überwiesen
+- TOP 4.5: Bauliche Mängel an der Bruno – H. Bürgel - Schule beseitigen - überwiesen
+- TOP 4.6: Hat das Bezirksamt Notfallpläne für einen Blackout oder andere Katastrophenfälle? - beantwortet
+- TOP 5: Vorlagen des Vorstehers - (offen)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: des Bezirksamtes Tempelhof-Schöneberg von Berlin über den vorhabenbezogenen Bebauungsplan 7-98 VE für die Grundstücke Lichtenrader Damm 227, 229/241 und 243/251 im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade - überwiesen
+- TOP 7: Protokollgenehmigung - im Ausschuss abgelehnt
+- TOP 8: Mündliche Anfragen zur BVV - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Schulwegsicherung für die Neumarkschule - überwiesen
+- TOP 9.2: Beleuchtung des öffentlichen Raumes auch in Zeiten der Energiekrise gewährleisten - überwiesen
+- TOP 9.3: Die Haut vergisst nie – UV-Protektion auf Spielplätzen sicherstellen - überwiesen
+- TOP 9.4: Betrieb der Jugendverkehrsschule in Schöneberg dauerhaft gewährleisten - mit Änderungen in der BVV beschlossen
+- TOP 9.5: Wohngeldbeantragung in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Kinder vor Zwangsverheiratung schützen – Informationskampagne jetzt! - überwiesen
+- TOP 9.7: Bedarf an Grundschulplätzen an der Johanna-Eck-Schule abdecken! - überwiesen
+- TOP 9.8: Schilderwald bereinigen - in der BVV abgelehnt
+- TOP 9.9: Umrüstung fossil betriebener Heizanlagen in Bezirksimmobilien beschleunigen - überwiesen
+- TOP 9.10: Mieter*innen bei der An- oder Ummeldung über die Mietpreisbremse informieren - überwiesen
+- TOP 9.11: Öffentliche Toiletten auf Dauer kostenfrei - überwiesen
+- TOP 9.12: Anwohner vor Konzertveranstaltungen auf dem Tempelhofer Feld flächendeckender schützen - in der BVV abgelehnt
+- TOP 9.13: Menschen mit Einschränkungen den Zugang zum Wahllokal sicherstellen - überwiesen
+- TOP 9.14: Ein Schöneberger Friedenaktivist - Gedenktafel für Alfred Hermann Fried - überwiesen
+- TOP 9.15: Abfallbehälter auf dem Richard-von-Weizsäcker-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Platzbenennung nach Lucie Leydicke (II) - überwiesen
+- TOP 9.17: Jahresbericht der Registerstelle zurück auf die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Kreuzung Steinmetzstraße/Goebenstraße für Schulkinder sicher gestalten - überwiesen
+- TOP 9.19: Mehr Repräsentanz von Städtepartnerschaften - überwiesen
+- TOP 9.20: Yorckstraße zwischen der Brücke des Bahnhofs Yorckstraße, Großgörschenstraße und der Bautzener Straße trockenlegen - überwiesen
+- TOP 9.21: Sand für die Bruno-H.-Bürgel-Grundschule - überwiesen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Trinkwasserversorgung im Bezirk - schriftlich beantwortet
+- TOP 10.2: Sprach-Kitas in Tempelhof-Schöneberg - beantwortet
+- TOP 10.3: Bearbeitung von Mündlichen Anfragen der Bezirksverordneten - beantwortet
+- TOP 10.4: Tempelhof-Schöneberg vor einer möglichen Wiederholungswahl - vertagt
+- TOP 10.5: Wahlnachlese zum Wahltag 26.09.2021 im Bezirk Tempelhof-Schöneberg - schriftlich beantwortet
+- TOP 10.6: Stand der Vorbereitungen für die Kältehilfe 2022/2023 - vertagt
+- TOP 10.7: Werden bis zum 31. Dezember 2024 auf allen Dächern bezirklicher Immobilien Solaranlagen stehen? - schriftlich beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Mobile Polizeiwache für den Kurfürsten– und Nollendorfkiez - vertagt
+- TOP 11.2: Erinnerungen an den „Candy Bomber“ wachhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Tempelhof-Schöneberg braucht einen digitalen Regenbogen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Vorhabenbezogenen Bebauungsplan 7-93 VE für das Gelände zwischen Speyerer Straße, Martin-Luther-Straße und Barbarossastraße im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Erweiterte Öffnungszeiten bei den Bäder Betrieben - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Bei Neubaumaßnahmen benötigen wir mehr generationenübergreifendes Wohnen - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Gleiche Versorgungsstandards bei Bürgerämtern in den Bezirken Berlins! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Potenzial von Kleinwindkraftanlagen auf den Dächern von Tempelhof-Schöneberg ausnutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Haus am Kleistpark retten - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Seniorenfreizeitstätten mit freiem WLAN ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Vorhabenbezogener Bebauungsplan 7-97 VE für eine Teilfläche des Grundstücks Rathausstraße 1/Ullsteinstraße 184/194 im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Eine Informationstafel für Cäcilie Petersen und das Haus Salem in Lichtenrade - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Planungen für das „Haus der Jugend“ zeitnah vorlegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Abstellmöglichkeiten für Lastenfahrräder - vertagt
+- TOP 11.15: Beibehaltung des 9 Euro-Tickets für Sozialleistungsbezieher:innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Kampagne RÜCKSICHT STATT BLAULICHT - #miteinanderfüreinander auch in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Angemessene Lebensmittelversorgung in Kindergärten sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Kostenlose FFP2-Masken und Corona-Schnelltests für Bedürftige - ohne Änderungen in der BVV beschlossen
+- TOP 11.19: Wiederherstellung Straßenbeleuchtung Kulmer Str./Goebenstr. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.20: Initiativbewerbungen ermöglichen -Verfahren zu deren Nutzung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 3 / 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.22: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 10 / 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 12.1: Gemeinsame Geschäftsordnung für die Berliner Verwaltung aktualisieren - überwiesen
+- TOP 12.2: Unterstützungsangebote für vom Krieg Vertriebene - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Konsequente Datenerhebung und mehr Hausbesuche bei Räumungsklagen - überwiesen
+- TOP 12.4: Bezirkliche Einrichtungen in offiziellen Verlautbarungen des Bezirks richtig benennen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Park an der Gleditschstraße nach Ursula Mamlok benennen - überwiesen
+- TOP 12.6: Ein Ehrengrab für Frieda von Lipperheide - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
