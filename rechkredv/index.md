@@ -1,4 +1,4 @@
-# Verordnung über die Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute
+# Verordnung über die Rechnungslegung der Kreditinstitute, Finanzdienstleistungsinstitute und Wertpapierinstitute
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
