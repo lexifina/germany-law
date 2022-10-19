@@ -1,0 +1,122 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2022-10-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6945265
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6945265
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP II.1.: (E) Stadtbezirksbudget Initiative „In tha space“ In Tha Space am 30.09. und 01.10.2022 3.000,00 € / Az. 0262.0-5-0431
+- TOP II.2.: (E) Stadtbezirksbudget Initiative „Wasser für Blumen“ Wasser für Blumen am Locus in 2023 1.500,00 € / Az. 0262.0-5-0432
+- TOP 1.1.: (E) Sicherheitsmaßnahmen für die Postwiese
+- TOP 1.2.: (E) Stadtbezirksbudget Initiative Weihnachtsaktion Weihnachtsaktion im BA 5 5.000,00 € / Az. 0262.0-5-0434
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Sedan- Ecke Metzstraße - Gehwegparken verhindern
+- TOP 5.2.: Einwohnerversammlung für die Weißenburger Straße
+- TOP 5.3.: Radabstellmöglichkeiten für die Auer Dult
+- TOP 5.4.: Auer Dult familienfreundlicher machen – Sitzgelegenheiten für Kleinkinder
+- TOP 5.5.: Privates Carsharing erleichtern mit neuen Parkausweisregelung
+- TOP 5.6.: Raumplanung Gymnasien Schuljahr 2025/2026
+- TOP 5.7.: Dringlichkeitsantrag: Stadtteilrundgang „Verfolgung, Deportation, Widerstand“
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Einführung „RIS-Internet/ -Extranet“ für alle Bezirksausschussmitglieder, Information zur Kooperationsplattform „Alfresco“
+- TOP 6.2.2.: Infoblatt Oktober
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.3.: Abschlussbericht LOCUS
+- TOP II.4.: Prüfung der Voraussetzungen für die Gewährung eines Zuschusses aus dem Budget, hier: Kulturlieferdienst Antwort Direktorium zum Schreiben BA 5
+- TOP II.5.: Kunstaktion "#MakeUsVisible x denkFEmale" vom 30.09.-02.11.2022 (u.a. Max-Weber-Platz und Kolumbusplatz), Unterrichtung KVR
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Errichtung von weiteren Tischtennisplatten zwischen Reichenbachbrücke und dem Gartenbauamt in der Eduard-Schmid-Str. 36
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Zugang zu Sozialeinrichtungen auch unter "3G" gewährleisten
+- TOP 3.2.: Förderung für den Verein „Über den Tellerrand kochen“
+- TOP 3.3.: Parties an der Isar: Sperrung der Bereiche unter der Wittelsbacher- und Reichenbachbrücke zur Verhinderung des Musikhalls
+- TOP 3.4.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Verbleib der Enzis am Kolumbusplatz vertagt in der Sitzung am 21.09.2022
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Weißenburger Str. 39 - Errichtung einer Freischankfläche (6,5 m² / 4 Sitzpl.)
+- TOP 2.: Anhörungen
+- TOP 2.1.: Weißenburger Pl. 8 / Metzstr. 6 - Errichtung / Erweiterung einer Freischankfläche (jetzt: 100 m² / 75 Sitzpl.)
+- TOP 2.2.: Haidhauser Weihnachtsmarkt am Weißenburger Platz vom 22.11. bis 24.12.2022 Anhörungsfrist: 21.10.2022
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Wiener Platz 4 - Aufhebung Freischankflächenbetrieb
+- TOP 3.2.: (U) Strandveranstaltung an der Corneliusbrücke 2022 - Verlängerung
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Beschwerde über die Gaststätte WunderBar, Kirchenstr. 28
+- TOP 4.2.: Vorschläge zur Ergänzung des Kriterienkataloges zur Nutzung Mariahilfplatz
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Preysingpl. 3 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage - VORBESCHEID - mit Baumfällung - => dazu: Antrag: Vertreibung der MieterInnen Preysingpl. 3-7 verhindern
+- TOP 2.2.: Gallmayerstr. 9 - Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID - mit Baumfällung -
+- TOP 2.3.: Wiener Pl. 4 - Nutzungsänderung zu einer Gaststätte mit Freischankfläche
+- TOP 2.4.: Weißenburger Str. 44 - TEKTUR zu 1.23-2021-18003-21 - Umbau und Ausbau des Dachgeschosses, Errichtung eines Aussenaufzugs, Umbau 1 WE im DG, Ausbau Speicher DG zu 1 WE (VGB) - Hier: Errichtung eines Außenaufzuges
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 3.2.: (U) Teilfortscheibung des Landesentwicklungsprogramms Bayern (LEP); Ergänzendes Beteiligungsverfahren; Stellungnahme der Landeshauptstadt München
+- TOP 3.3.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 3.4.: Info-Schreiben Förderung "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 3.5.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 3.6.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Humboldtstraße, Abschluss Pilotversuch: Reduzierung der zulässigen Höchstgeschwindigkeit, Bitte um Übermittlung der Erfahrungen der örtlichen zuständigen Bezirksausschüsse BA5 und BA18 Fristverlängerung bis 20.10.2022
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Umwandlung zweier Kfz-Stellplätze in der Boosstraße in Fahrradstellplätze
+- TOP 3.2.: Zwei Lieferzonen am Michael-Huber-Weg
+- TOP 3.3.: (U) Entscheidungsvorschlag zur künftigen Raumaufteilung der Zeppelinstraße zwischen Rosenheimer Straße und Kreuzplätzchen (Stadtbezirk 5) Grundsatzbeschluss Verkehrsführung und Raumaufteilung
+- TOP 3.4.: Verkehrsrechtliche Anordnungen bzw. Erlaubnis: a) Lothringer Str. 16 und Kreuzungsbereich Pariser Straße; Verlängerung der Vollsperre wegen Fernwärmearbeiten vom 08.10.2022 bis 21.10.2022 b) Rosenheimer Str. / Am Gasteig; Trambaumaßnahme Phase 9 vom 21.09.-23.12.2022
+- TOP 3.5.: Nicht mehr genutzte Kfz-Spur als Radweg nutzen
+- TOP 3.6.: Information über Schienenschleifarbeiten auf der U1-Süd im Abschnitt Candidplatz - Mangfallplatz SEV von 23. bis 27. Oktober 2022 ab ca. 22.30 Uhr zwischen den U-Bahnhöfen Kolumbusplatz und Mangfallplatz
+- TOP 3.7.: Seeriederstraße 29: Terminankündigung Standortbegehung Ladesäule am 08.11.2022
+- TOP 3.8.: Mobilitätsreferat: Personalkapazitäten und Ansprechpartner
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Fahrradregelung am Weißenburger Platz
+- TOP 4.2.: Fahrradabstellmöglichkeit vor Anwesen Senftlstrasse 1a
+- TOP 4.3.: Parkmöglichkeit Ernst Reuter Straße 1 - Pflegeheim
+- TOP 4.4.: Erweiterung der Radwege in der Zeppelinstraße
+- TOP 4.5.: Radweg erweitern von der Ohlmüllerstraße bis Nockherberg / Fehlende Radabstellplätze am Ostbahnhof / Fehlende Radwege in der Orleansstraße Verweisung aus der Sitzung vom 21.09.2022, TOP 4
+- TOP 4.6.: Milchstraße 1-13 - Parkplätze längs statt quer? vertagt in der Sitzung am 21.09.2022
+- TOP 4.7.: Gefährliche Situationen durch Ampelschaltung Tram-Haltestelle Einsteinstraße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Anschaffung eines Kühlschranks für die Abgabestelle Haidhausen; Erhöhung des Zuschusses aus dem Budget um 71,40 € auf insgesamt 464,09 €
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Baumpflanzungen in der Oefelestraße; Antwort Baureferat zu einem Bürgeranliegen
+- TOP 3.2.: Umsetzung der bereits genehmigten Baumpflanzungen in der Sedanstr. 1 und Eggernstraße
+- TOP 3.3.: Fällgenehmigung: Frühlingsanlage Höhe Albanistr
+- TOP 3.4.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 3.5.: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften
+- TOP 4.: Bürgeranliegen
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 07.11.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 07.11.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 08.11.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 09.11.2022, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 09.11.2022, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 10.11.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Hybridsitzung statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 16.11.2022, 19.00 Uhr, Kath. Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Dienstag, 29.11.2022, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Bürgersprechstunde des Oberbürgermeisters am 24.11.2022 im Pestalozzi-Gymnasium, Eduard-Schmid-Str. 1
+- TOP 5.: Verschiedenes
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - A 5.7: Dringlichkeitsantrag: Stadtteilrundgang „Verfolgung, Deportation, Widerstand“ - UA Soziales, TOP 1.2: Stadtbezirksbudget, Initiative Weihnachtsaktion - UA Wirtschaft, TOP 2.2: Haidhauser Weihnachtsmarkt am Weißenburger Platz
