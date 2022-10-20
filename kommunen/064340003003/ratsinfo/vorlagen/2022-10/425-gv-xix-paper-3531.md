@@ -1,0 +1,31 @@
+# Waldwirtschaftsplan des Glashüttener Gemeindewaldes für das Forstwirtschaftsjahr 2023
+
+- Körperschaft: Gemeinde Glashütten
+- Drucksache/Vorlage: 425/GV/XIX
+- Art: Beschluss-Vorlage
+- Datum: 2022-10-20
+- Ratsinformationssystem: https://rim.ekom21.de/glashuetten/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQttCBw6T2D3lH4G7vwBROA
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/paper/3531
+- Quelle: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschluss-Vorlage (Waldwirtschaftsplan des Glashüttener Gemeindewaldes für das Forstwirtschaftsjahr 2023) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQApfupBRzqxZLV8WT0mQFTQvozUjuXlnqNFEL9IIjie/Beschluss-Vorlage_425-GV-XIX.pdf
+- Anlage: Beschluss-Vorlage (Waldwirtschaftsplan 2023) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYl9huqWL45DA35xnSmybv6REqGKFRwhjHh7LMmGHYsJ/Waldwirtschaftsplan_2023.pdf
+- Anlage: Beschluss-Vorlage (20220907_Glashütten_2019_2021_1) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZerT1s0YKMvgZbOsL2jM_xqN-KOuriiiFMs0FNnSL9iY/20220907_Glashuetten_2019_2021_1.pdf
+- Anlage: Beschluss-Vorlage (20220907_Glashütten_2019_2021_1 - Kopie) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY4Dz4DPB9sNBb5EX1kDUBqKgzYrhQhd4E-R2xp9ZBal/20220907_Glashuetten_2019_2021_1_-_Kopie.pdf
+- Anlage: Beschluss-Vorlage (20220907_Glashütten_2019_2021_1) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUZr_NwwpaGA6I2I0zv_XW_UETZ6H2dOdTqFatBOCQl7/20220907_Glashuetten_2019_2021_1.pdf
+- Anlage: Beschluss-Vorlage (Druck aller Planberichte (13-52-01).xlsm) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYntcPLSRO-X2-v8npfNaxtiS_30znMHV9MJcC77SUVe/Druck_aller_Planberichte_-13-52-01-.xlsm.pdf
+- Anlage: Beschluss-Vorlage (Druck aller Planberichte (13-52-01).xlsm) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTUBVH-IwlPhWt4gOM-75_1aUq6XLTc9rcAcYL8sNt3m/Druck_aller_Planberichte_-13-52-01-.xlsm.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTJxFnU38A7fE8GKrRz2N1JVhl7W0vkm76HvYQbiWuu1/download.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZrODCBZZtb7F83V048aLBRmSuAkrTF-UpLvd7AdftJW/download.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZv_D_LPXowkJoH6AAN4W7eVmSSBnEs4XNQJiwrFKPfX/download.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYTJzWtZaBt7D4qesVZReZlWNgcMIoXqIbP59UCangR_/download.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS0ol6rcrvVxU4aGZXCU43ueFGq0ailRhg99LrBG8nKa/download.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbgRUOqjE_9D5aoby-YvOl7xGaT5PAHPPKbNM65RLIM-/download.pdf
+- Anlage: Beschluss-Vorlage (K_11_Glashuetten_Erlaeuterungen_Wiplan_2023_Entwurf) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcSa5GX6XiBwZVVMSOTg7FQGPr1pRg5Mq6w-Z5R5Waio/K_11_Glashuetten_Erlaeuterungen_Wiplan_2023_Entwurf.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb3_8adyiTCFmyZPckG5ZAre44G62RT4dABbyU5UcOKS/download.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZec0PRbHkBQoHIBxY89PnWspo2x0CpoXuLhJSSmAqodO/download.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUfW4oKZ_La9nFQ7Pr79KnAgAtFNcoItHqKgvlLPzwJg/download.pdf
+- Anlage: Beschluss-Vorlage (download) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZNMmnaaR_PuZ0DXc69x0o-EL1P_dP7sBZc73EqQsKc9/download.pdf
+- Anlage: Beschluss-Vorlage (Waldbesitzartenkarte mit Abteilungen Gemeinde Glashütten) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeMMIEteJjkGDCX-g3dAQSQnlTR8zGOwr9ZdHi1eevdq/Waldbesitzartenkarte_mit_Abteilungen_Gemeinde_Glashuetten.pdf
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1913 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/1934 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/3-8
