@@ -54,7 +54,7 @@ Schlussbestimmungen
 | § 38 | Weitergeltung bestehender Fahrtauglichkeitsbescheinigungen |
 | § 39 | Normen |
 | § 40 | Überprüfung |
-| § 41 | Anordnungen vorübergehender Art |
+| § 41 | Rechtsverordnungen über Anordnungen vorübergehender Art |
 | Anhang I (zu § 1 Absatz 1 und§ 2 Absatz 1 Num-mer 1) | Liste der in die geografischen Zonen 1, 2, 3 und 4 eingeteilten Wasserstraßen der Bundesrepublik Deutschland |
 | Anhang II (zu § 1 Absatz 2 Num-mer 1, § 6 Absatz 8und § 31 Satz 1) | Nationale Sonderbestimmungen |
 | Anhang III (zu § 1 Absatz 2 Num-mer 1 und § 6 Absatz 3) | Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2 |
