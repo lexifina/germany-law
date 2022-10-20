@@ -1,0 +1,53 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-10-20T18:37:00+02:00
+- Ende: 2022-10-20T19:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2901
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2901
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Einbringung des Haushaltes 2023
+- TOP 4: Mittelbereitstellungen
+- TOP 5: Wahl eines/einer hauptamtlichen Beigeordneten
+- TOP 6: Änderung der Hauptsatzung (Ergänzung § 11 Abs.4) - einstimmig beschlossen
+- TOP 7: Wahl von Schiedspersonen für den Bezirk I (Stadtmitte, Südstadt, Gewerbegebiet-Ost, Laach und Elfgen), Bezirk II (Neuenhausen, Barrenstein und Allrath) sowie Bezirk VII (Kapellen, Neubrück, Gruissem, Hemmerden, Busch und Vierwinden) - einstimmig beschlossen
+- TOP 8: Barrierefreier Ausbau Bushaltestellen - einstimmig beschlossen
+- TOP 9: Förderung Sanierung kommunaler Einrichtungen für Sanierung Dreifachturnhalle Grevenbroich-Süd - einstimmig beschlossen
+- TOP 10: ISEK Flutgrabenquartier - Kenntnisnahme
+- TOP 11: ISEK Flutgrabenquartier - Benennung Lenkungsgruppe - einstimmig beschlossen
+- TOP 12: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 12.1: Umwandlung der RB 39 zur S-Bahn (Anfrage Nr.: 33/2022) - Kenntnisnahme
+- TOP 12.2: Weitere Beantwortung der Anfrage: Wahlhelferinnen und Wahlhelfer zur Landtagswahl am 15. Mai 2022 in der Stadt Grevenbroich (Anfrage Nr.: 39/2022) - Kenntnisnahme
+- TOP 12.3: Beantwortung der Anfrage Nr. 52/2022 der CDU-Fraktion: Errichtung Ortseingangsschild "Herzlich Willkommen" in Neuenhausen - Kenntnisnahme
+- TOP 12.4: Ansprechpartner für Immobilieneigentümer (Antrag Nr.: 67/2022) - Kenntnisnahme
+- TOP 13: Schriftliche Anträge
+- TOP 13.1: Anträge der SPD-Fraktion
+- TOP 13.2: Anträge der CDU-Fraktion
+- TOP 13.2.1: Energiekostenzuschüsse für Sportvereine (Antrag Nr. 78/2022) - einstimmig beschlossen
+- TOP 13.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 13.3.1: Umbesetzung (Antrag Nr.:77/2022) - einstimmig beschlossen
+- TOP 13.4: Anträge der FDP-Fraktion
+- TOP 13.4.1: Gleichzeitiges Anmeldeverfahren für die weiterführenden Schulen für das Schuljahr 2023/24 (Antrag Nr.:74/2022) - mehrheitlich abgelehnt
+- TOP 13.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 13.6: Anträge der UWG-Fraktion
+- TOP 13.6.1: Ausschussumbesetzung (Antrag Nr.:72/2022) - einstimmig beschlossen
+- TOP 14: Gemeinschaftsanträge
+- TOP 14.1: Fortschreibung des Einzelhandelsstandortkonzeptes ESK (Antrag Nr.:76/2022) - einstimmig beschlossen
+- TOP 15: Schriftliche Anfragen
+- TOP 15.1: Anfragen der SPD-Fraktion
+- TOP 15.2: Anfragen der CDU-Fraktion
+- TOP 15.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 15.4: Anfragen der FDP-Fraktion
+- TOP 15.4.1: Bundesverwaltungsgericht erklärt kommunale Wettbürosteuer für unzulässig - Auswirkungen für die Stadt Grevenbroich (Anfrage Nr.:73/2022)
+- TOP 15.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 15.5.1: Zaunanlage Käthe-Kollwitz-Gesamtschule (Anfrage Nr.:75/2022)
+- TOP 15.6: Anfragen der UWG-Fraktion
+- TOP 16: Mitteilungen des Bürgermeisters
