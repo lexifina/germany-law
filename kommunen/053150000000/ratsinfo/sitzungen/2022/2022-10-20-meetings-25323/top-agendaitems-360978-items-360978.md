@@ -1,0 +1,8 @@
+# TOP -: Beantwortung einer Anfrage der SPD-Fraktion vom 12.10.2022 "Erhebung von Sondernutzungsentgelten im Stadtbezirk Kalk" (AN/1778/2022)
+
+- Sitzung: 14. Sitzung der Bezirksvertretung Kalk (2022-10-20)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/360978
+- Ergebnis: zurückgestellt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/167775
