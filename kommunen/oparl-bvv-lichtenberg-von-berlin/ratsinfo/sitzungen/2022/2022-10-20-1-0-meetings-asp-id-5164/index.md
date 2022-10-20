@@ -1,0 +1,111 @@
+# 11. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2022-10-20T17:00:00+02:00
+- Ende: 2022-10-20T22:00:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5164
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5164
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=348099
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: BVV-Sondermittel für einen Laufsteg für MV Berolina e.V. - in der BVV zurückgezogen
+- TOP 4.2: Clusterung von Liegenschaften - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Schulneugründung einer Grundschule (11G39) am Standort Schleizer Str. 67 in 13055 Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Instrumente gegen den Ärztemangel entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Zisternen für Straßenbäume - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Aufzucht eigener Pflanzen fördern - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Wie weiter mit dem Verwaltungsgebäude des Gesundheitsamtes? - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Vorhabenbezogener Bebauungsplan 11-118 VE - Rechtskontrolle; Arbeitstitel: Landsberger Allee 341/343 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Wohnungsverkäufe transparent machen - Mieter*innen informieren! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Taskforce Einbürgerung - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Längere Ampelphasen für Fußgänger auf der Treskowallee in Karlshorst wegen der Änderung der Einzugsbereiche von Grundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Fußgängerüberweg in der Rüdigerstraße - überwiesen
+- TOP 5.12: Bezirkliche Position in Stadtentwicklungspläne einbringen - überwiesen
+- TOP 5.13: Freie Schulträger stärker unterstützen - überwiesen
+- TOP 5.14: Rollsportarten in der Sportentwicklungsplanung berücksichtigen - überwiesen
+- TOP 5.15: Öffentlichen Raum stärken: Abgebaute Bänke in der Ribnitzer Straße/Zingster Straße ersetzen - überwiesen
+- TOP 5.16: Barrierefreiheit für den Stadtplatz "Am Mühlengrund" - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Barrierefreiheit vor der Kita "kieke mal" dauerhaft zugängig machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Entsiegelung westlicher Vorplatz S-Bahnhof Wartenberg - überwiesen
+- TOP 5.19: Hinweisschilder auf öffentliche Toiletten auch auf dem westlichen Vorplatz am S-Bahnhof Wartenberg aufstellen - überwiesen
+- TOP 5.20: Aktualisierte und transparente Logistikplanung (Schulsanierung) - überwiesen
+- TOP 5.21: Sitzbänke für die Alfred-Kowalke-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Schulcampus Karlshorst - überwiesen
+- TOP 5.23: BVG-Rufbus "Muva" für den Norden Lichtenbergs - überwiesen
+- TOP 5.24: Brandschutz erhöhen - überwiesen
+- TOP 5.25: Verkehrssicherheit Kreuzung Landsberger Allee/Zechliner Straße erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.26: Bestattungsmöglichkeiten für "Sternenkinder" auf dem Zentralfriedhof Friedrichsfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.27: Buddhistische Grabstätte in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.28: Tempo 30 in der Skandinavischen Straße - überwiesen
+- TOP 5.29: Weitere Poller an Bordsteinkanten und "STOP"-Piktogramme auf der Fahrbahn - überwiesen
+- TOP 5.30: Festlegung von standardisierten Mindestanforderungen an Abgabeorte für Lebensmittel in Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.31: Bebauungsplan 11-9c – Festsetzung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.32: Jährliche Vergabe des Integrationspreises - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.33: Sitzungstermine der Bezirksverordnetenversammlung Lichtenberg von Berlin im Kalenderjahr 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Verschiebungen von Schulbau und Sanierung durch Senatseinsparungen - beantwortet
+- TOP 7.2: Information über Stellungnahmen zur FNP-Änderung an der Trabrennbahn - beantwortet
+- TOP 7.3: Stand der Umsetzung des Antrages Runder Tisch "Entwicklung rund um die Trabrennbahn Karlshorst" - beantwortet
+- TOP 7.4: Schule am Standort Blockdammweg - beantwortet
+- TOP 7.5: Netzwerk der Wärme - beantwortet
+- TOP 7.6: Planfeststellungsverfahren TVO - beantwortet
+- TOP 7.7: Geschlechtergerechtes Lichtenberg - schriftlich beantwortet
+- TOP 7.8: Rattenbefall Adam-Ries-Schule - schriftlich beantwortet
+- TOP 8: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8.1: Wohnanlage Ilsekiez - beantwortet
+- TOP 9: Prioritäten der Fraktionen - (offen)
+- TOP 9.1: Weitere Flächen für das Sportforum schaffen - überwiesen
+- TOP 9.2: Kinderladen im Kaskelkiez erhalten - überwiesen
+- TOP 9.3: Die Lichtenberger Schulen in der Not nicht alleine lassen - regelmäßige und qualitativ gute Reinigung sicherstellen - überwiesen
+- TOP 9.4: Ein Platz, der dem Gedenken würdig ist: Bahnhofsvorplatz endlich in Eugeniu-Botnari-Platz umbenennen! - überwiesen
+- TOP 9.5: Jährliche Information der Verordneten über die Kriminalitätsstatistik im Bezirk Lichtenberg: Kooperation zwischen Bezirk und zuständigen Senatsstellen sowie der Berliner Polizei eingehen - im Ausschuss abgelehnt
+- TOP 9.6: Planung zur schrittweisen Nachnutzung des HTW-Geländes konkretisieren - mit echter Bürgerbeteiligung - überwiesen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Alkoholkonsum in Lichtenberg - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung (s. TOP 5.2) - erledigt
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Nachweisung der im Haushaltsjahr 2020 für den Bezirk Lichtenberg zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Bezirkshaushaltsrechnung 2020 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Erstellung von Kriterien zur Einrichtung von Hundefreilaufplätzen in Lichtenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Einrichtung von Hundefreilaufplätzen im Mauritius Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 13: Geschäftliche Mitteilungen und Vorlagen des Vorstandes (s. auch TOP 5.33.) - erledigt
+- TOP 14: Vertagungen - (offen)
+- TOP 14.1: Für eine gemeinwohlorientierte Wohnungspolitik: Dauerhaft belegungsgebundenen Wohnraum schaffen - vertagt
+- TOP 14.2: Lichtenberg wird Schwammstadt: Flächen konsequent entsiegeln und Regenwasser ökologisch managen - vertagt
+- TOP 14.3: Mehr Aufenthaltsqualität in der Weitlingstraße: Parkplätze zu Sitzplätzen - vertagt
+- TOP 14.4: Lokale Gastronomie unterstützen, Kiezleben fördern - Schankvorgärten in Lichtenberg einrichten - vertagt
+- TOP 14.5: Gleichstellung von Geflüchteten bei der Studienplatzvergabe - vertagt
+- TOP 14.6: Haltestelle am Tierpark vor Vandalismus schützen - vertagt
+- TOP 14.7: Warme Aufenthaltsorte für die kalte Jahreszeit - vertagt
+- TOP 14.8: SOS – Seepferdchen in Not: Ticketverkauf wieder vorrangig an den Bäder-Kassen ermöglichen - vertagt
+- TOP 14.9: Verkehrswege am Schulcampus sicher und verlässlich gestalten - vertagt
+- TOP 14.10: Sicherheitsstreifen/Waldbrandschneise Biesenhorster Sand - vertagt
+- TOP 14.11: Verkehrliche Erschließung des Vorhabens Joachimsthaler Straße eingehend prüfen - vertagt
+- TOP 14.12: Potentiale der Geothermie für Lichtenberg nutzen - vertagt
+- TOP 14.13: Elektromobilität für Lichtenberg: Straßenlaternen zu Ladestationen ausrüsten - vertagt
+- TOP 14.14: Mehr Verkehrssicherheit und mehr Platz für den fließenden Verkehr auf der Lückstraße - vertagt
+- TOP 14.15: Für mehr Verkehrssicherheit: Gute Sichtbeziehungen vor der KITA in der Plonzstraße herstellen - vertagt
+- TOP 14.16: Geschlechtliche Vielfalt im "Bürgerhaushalt Lichtenberg" namentlich benennen - vertagt
+- TOP 14.17: Fahrradreparaturstationen für Lichtenberg - vertagt
+- TOP 14.18: Eine Evaluation der Aufstockung in der Seefelder Straße von der HOWOGE - vertagt
+- TOP 14.19: Keine Wohnungen privatisieren! - vertagt
+- TOP 14.20: Soziale Infrastruktur sicherstellen - vertagt
+- TOP 14.21: Namen für den westlichen Vorplatz am S-Bahnhof Wartenberg - vertagt
+- TOP 14.22: Die buddhistische Pagode muss bleiben! - vertagt
+- TOP 14.23: Zukunft der Pagode Hohenschönhausen/Marzahner Straße - vertagt
+- TOP 14.24: Feuerwerke zur Jahreswende - vertagt
+- TOP 14.25: Einwohner*innenantrag: Kaskelkiez für Menschen statt Durchgangsverkehr - vertagt
+- TOP 14.26: Wahl eines Bezirksamtsmitgliedes - vertagt
+- TOP 14.27: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
