@@ -1,5 +1,4 @@
-# Gesetz zu dem Übereinkommen vom 13. Februar 1946 über die Vorrechte und
-Immunitäten der Vereinten Nationen
+# Gesetz zu dem Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten der Vereinten Nationen
 
 - [Eingangsformel](eingangsformel.md)
 - [Art 1](art-1.md)
