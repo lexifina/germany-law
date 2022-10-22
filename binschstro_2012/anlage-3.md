@@ -125,7 +125,7 @@ I. Allgemeines
   |  |  | 55 |  |  |
   | § 3.26 | Fahrzeug, Schwimmkörper und schwimmende Anlage, dessen oder deren Anker die Schifffahrt gefährden kannNummer 4: Anker eines schwimmenden Gerätes |
   |  |  | 56 |  |  |
-  | § 3.27 | Fahrzeug der Überwachungsbehörden |
+  | § 3.27 | Fahrzeug der Überwachungsbehörden, der Feuerwehr, der Zollverwaltung, der Bundespolizei, des Bundeskriminalamtes, Wasserrettungsfahrzeug im Rettungseinsatz |
   |  |  | 57 |  |  |
   | § 3.28 | Fahrzeug, das Arbeiten in der Wasserstraße ausführt |
   | § 3.28a | Mehrzweckfahrzeug der Bundeswehr |

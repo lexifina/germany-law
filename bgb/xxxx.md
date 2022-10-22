@@ -1,3 +1,0 @@
-# (XXXX) §§ 2354 bis 2359
-
-(weggefallen)

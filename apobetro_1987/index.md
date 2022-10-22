@@ -19,7 +19,7 @@ Apotheken
 - [§ 6 Allgemeine Vorschriften über die Herstellung und Prüfung](0006.md)
 - [§ 7 Rezepturarzneimittel](0007.md)
 - [§ 8 Defekturarzneimittel](0008.md)
-- [XXXX §§ 9 u. 10 (weggefallen)](xxxx.md)
+- [(XXXX) §§ 9 und 10 (weggefallen)](xxxx-9-und-10.md)
 - [§ 11 Ausgangsstoffe](0011.md)
 - [§ 11a Tätigkeiten im Auftrag](0011a.md)
 - [§ 12 Prüfung der nicht in der Apotheke hergestellten Fertigarzneimittel und apothekenpflichtigen Medizinprodukte](0012.md)

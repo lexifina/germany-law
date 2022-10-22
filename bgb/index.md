@@ -3324,7 +3324,7 @@ getretenen Erben](2320.md)
 ### Abschnitt 8 Erbschein
 
 - [§ 2353 Zuständigkeit des Nachlassgerichts, Antrag](2353.md)
-- [(XXXX) §§ 2354 bis 2359](xxxx.md)
+- [(XXXX)§§ 2354 bis 2359 (weggefallen)](xxxx-2354-bis-2359.md)
 - [§ 2360 (weggefallen)](2360.md)
 - [§ 2361 Einziehung oder Kraftloserklärung des unrichtigen Erbscheins](2361.md)
 - [§ 2362 Herausgabe- und Auskunftsanspruch des wirklichen Erben](2362.md)

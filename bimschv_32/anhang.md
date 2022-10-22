@@ -49,7 +49,7 @@
 | 29 | Hydraulikaggregat | X |  |
 | 30 | Fugenschneider |  | X |
 | 31 | Müllverdichter, der Bauart nach ein Lader mit Schaufel (< 500 kw) | X |  |
-| 32 | Rasenmäher (mit Ausnahme von-land- und forstwirtschaftlichen Geräten-Mehrzweckgeräten, deren Hauptantrieb eine installierte Leistung vom mehr als 20 kW aufweist) | X |  |
+| 32 | Rasenmäher (mit Ausnahme von-land- und forstwirtschaftlichen Geräten-Mehrzweckgeräten, deren Hauptantrieb eine installierte Leistung von mehr als 20 kW aufweist) | X |  |
 | 33 | Rasentrimmer/Rasenkantenschneider | X |  |
 | 34 | Laubbläser |  | X |
 | 35 | Laubsammler |  | X |
