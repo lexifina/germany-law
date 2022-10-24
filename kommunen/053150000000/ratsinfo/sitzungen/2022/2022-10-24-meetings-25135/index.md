@@ -1,0 +1,69 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-10-24T17:00:00+02:00
+- Ende: 2022-10-24T18:23:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25135
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25135
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Aktuelle Stunde der Fraktionen SPD, Die LINKE, FDP betreffend "Privilegierte Partnerschaft mit Klagenfurt“ - Sache ist erledigt
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Jahresbericht 2021 - Gleichstellung von Frauen und Männern - Kenntnis genommen
+- TOP 1.2: Zweiter Jahresbericht zur Zertifizierung der Stadt Köln als familienfreundliches Unternehmen - Kenntnis genommen
+- TOP 1.3: Re-Zertifizierung als familienfreundliches Unternehmen über die berufundfamilie Service GmbH - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung der Anfrage AN/0822/2022 betreffend "Prävention von sexualisierter Gewalt." - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage betreffend "An-, Ab- und Ummmeldungen von Gewerbebetrieben in Köln." - Kenntnis genommen
+- TOP 3.3: Beantwortung der Anfrage AN/1325/2022 betreffend "Personalsituation beim Amt für öffentliche Ordnung". - Kenntnis genommen
+- TOP 3.4: Beantwortung der Anfrage AN/0991/2022 betreffend "Überlastung der Ausländerbehörden u.a. Ämter und Abteilungen der Stadtverwaltung - Rechtskreiswechsel der Geflüchteten aus der Ukraine in die Grundsicherung". - Kenntnis genommen
+- TOP 3.5: Beantwortung einer mündlichen Anfrage betreffen "Öffentlichkeitsbeteiligung und Möglichkeit der Teilhabe von Menschen mit Behinderung" - Kenntnis genommen
+- TOP 3.6: Beantwortung einer mündlichen Anfrage betreffen"Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten" - Kenntnis genommen
+- TOP 3.7: Beantwortung einer Anfrage AN/1645/2022 betreffend "Arbeitskräftemangel bei der Stadt: Aktuelle Personalsituation" - Kenntnis genommen
+- TOP 3.8: Beantwortung einer mündlichen Anfrage betreffend "Korvette Köln" - Kenntnis genommen
+- TOP 3.9: Grundsteuerzahlungen Häuser der Russischen Föderation (AN/1463/2022) - Kenntnis genommen
+- TOP 3.10: Beantwortung einer Anfrage betreffend "Qualifizierungsangebote Diskriminierungsfreies Handeln im Schulungsprogramm der Stadt Köln" - zurückgestellt
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 4.2: Ein Welcome-Desk Konzept für den Wirtschaftsstandort Köln - Kenntnis genommen
+- TOP 4.3: Ergebnis der Ausschreibung von Sicherheitsmaßnahmen zum 11.11. und Straßenkarneval im Rahmen des erhöhten Risikomanagements - Kenntnis genommen
+- TOP 4.4: Vierter Sachstandsbericht zur Umsetzung des Konzeptes zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Köln aus Oktober 2018 - Kenntnis genommen
+- TOP 4.5: Wettbürosteuer - Kenntnis genommen
+- TOP 4.6: Silvester-Event auf dem Roncalliplatz 2022 - Kenntnis genommen
+- TOP 4.7: Büropapier für den allgemeinen städtischen Bedarf - Kenntnis genommen
+- TOP 4.8: Personalbericht 2021 - zurückgestellt
+- TOP 4.9: Platzhalter (ursprüngliche Vorlage wird unter 1.3 diskutiert)
+- TOP 4.10: Sachstand zur Städtepartnerschaft mit einer Stadt in einem afrikanischen Land südlich der Sahara - Kenntnis genommen
+- TOP 4.11: Privilegierte Partnerschaft Köln-Klagenfurt - Kenntnis genommen
+- TOP 4.12: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: unveränderter Sachstand seit August 2022 - Kenntnis genommen
+- TOP 4.13: Evaluierung zur Einführung neuer persönlicher Schutzausrüstung beim Ordnungsdienst - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfragen aus vergangenen Sitzungen
+- TOP 6.1.1: Anfrage der Fraktion DIE FRAKTION betreffend "Reversible Haarnadeln".
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der FDP-Fraktion betreffend "Kreis der anspruchsberechtigten Wohngeldempfänger steigt deutlich – wie gut ist die Stadt Köln vorbereitet?"
+- TOP 6.2.2: Anfrage der FDP-Fraktion betreffend "Zahlungsmöglichkeiten in den Ämtern der Stadt Köln"
+- TOP 6.2.3: Anfrage der SPD-Fraktion betreffend "Fragen zum Heinz-Baum-Platz in Köln-Poll"
+- TOP 6.2.4: Anfrage der SPD-Fraktion betreffend "Sessionseröffnung am 11.11.2022 und zur Zukunft der Clearingstelle Gastronomie" - Übergang zum nächsten Tagesordnungspunkt
+- TOP 6.2.5: Beantwortung einer Anfrage der FDP-Fraktion im Rat der Stadt Köln zu Zahlungsmöglichkeiten in den städtischen Ämtern (AN/1773/2022) - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfragen der Fraktion Bündnis 90/Die Grünen betreffend "Zwischenbericht Ausländeramtes und Sensibilisierung des Ordnungsamtes"
+- TOP 8: Anträge
+- TOP 8.1: Dringlichkeitsantrag der SPD-Fraktion betreffend "Sicherstellung des Kinderwohls bei aufenthaltsbeendenden Maßnahmen der Ausländerbehörde" - ungeändert beschlossen
+- TOP 8.1.1: Stellungnahme zum Dringlichkeitsantrag der Fraktionen SPD und Die Linke betreffend "Sicherstellung des Kindeswohls bei aufenthaltsbeendenden Maßnahmen der Ausländerbehörde" - Kenntnis genommen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Brandschutzbedarfsplan der Stadt Köln 2022 - 2027 - zurückgestellt
+- TOP 10.2: 7. Satzung zur Änderung der Zweitwohnungssteuer der Stadt Köln - ungeändert beschlossen
+- TOP 10.3: Umsetzung des Tarifvertrages zur Entgeltumwandlung zum Zwecke des Leasings von Fahrrädern im kommunalen öffentlichen Dienst (TV-Fahrradleasing) - ungeändert beschlossen
+- TOP 10.4: 3. Satzung zur Änderung der Satzung zur Besteuerung des Spielvergnügens an Geldspielgeräten im Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 10.5: Ausweitung der sozialen Staffelung bei den Mitgliedsbeiträgen der Stadtbibliothek Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2023 - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
