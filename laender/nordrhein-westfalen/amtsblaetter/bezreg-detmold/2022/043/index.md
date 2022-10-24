@@ -1,0 +1,10 @@
+# Amtsblatt für den Regierungsbezirk Detmold 2022 Nr. 43 vom 24.10.2022
+
+- Herausgeber: Bezirksregierung Detmold
+- Ausgabe: 2022-10-24 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 43
+- Quelle: https://www.bezreg-detmold.nrw.de/system/files/media/document/file/1.12_amtsblatt_2022_nr_43.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+- Bekanntmachungen: 8 (je eine Datei)
+
+- Text: nicht übernommen - das Inhaltsverzeichnis nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
