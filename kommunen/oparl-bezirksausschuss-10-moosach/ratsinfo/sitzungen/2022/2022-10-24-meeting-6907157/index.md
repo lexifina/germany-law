@@ -1,0 +1,65 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-10-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6907157
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6907157
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Vorstellung des neuen REGSAM-Moderators
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Erhöhung der Verkehrssicherheit an der Bushaltestelle "Donauwörther Straße"
+- TOP 2.2.: Aufstellung von Hochbeeten vor dem Anwesen Franz-Fihl-Str. 4
+- TOP 2.3.: Verkehrssituation um das Schulzentrum Gerastr. 6
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Baubergerstr. 34
+- TOP 3.3.1.2.: Ehrenbreitsteiner Str. 32 - Vorbescheid
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Projektvorstellung "Zukunft gestalten im Quartier"
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage: Sachstand des Antrages zur Erweiterung des Geschäftsgebietes der Car-Sharing Anbieter
+- TOP 4.1.2.: Anfrage: Fernwärmeausbau in Moosach
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratiemobil München am 14.10.2022 770,00 € / Az. 0262.0-10-0304
+- TOP 5.2.: (E) Stadtbezirksbudget wohlBEDACHT – Wohnen für dementiell Erkrankte e.V. Demenzfreundlicher Garten vom 01.09. - 31.12.2022 4.940,39 € / Az. 0262.0-10-0305
+- TOP 5.3.: (E) Stadtbezirksbudget Soziale und kulturelle Organisation Omid Munich Journal – Das Magazin für Deutschland, Europa und die Welt 999,20 € / Az. 0262.0-10-0303
+- TOP 5.4.: (E) Stadtbezirksbudget Initiative „Percussion im Klassenzimmer“ Percussion im Klassenzimmer vom 13.10. - 22.12.2022 900,00 € / Az. 0262.0-10-0310
+- TOP 5.5.: (E) Stadtbezirksbudget Initiative „Neugestaltung“ Neugestaltung der Unterführung am Moosacher S-Bahnhof 14.226,50 € / Az. 0262.0-10-0309
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anfrage: Öffnung und Renaturierung des Reigersbaches (-> vertagt aus Sitzung am 19.09.2022, TOP 7.1)
+- TOP 6.2.: Beschlussvorlage: Schul- und Kitabauoffensive - 4. Schulbauprogramm 2022
+- TOP 6.3.: Veranstaltung auf städtischem Anwesen: Allacher Straße / Irma-Wenke-Straße Christbaumverkauf vom 03.12. bis 24.12.2022
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund: Franz-Marc-Straße; Nikolausfeier am 05.12.2022
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Veranstaltung auf einer Grünanlage: Karl-Lipp-Straße; Foolpool Straßentheater am 03.10.2022 (-> Vorabstellungnahme Vorsitzender gem. § 20 Abs. 1 BA-Satzung)
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebes: 1. Bunzlauer Platz 7 2. Dachauer Str. 264a
+- TOP 8.3.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Feldmochinger Straße 7 im 10. Stadtbezirk Moosach Leistung eines Baukostenzuschusses
+- TOP 8.4.: (U) Verkehrskonzept Münchner Norden Verkehrliche Erreichbarkeit des Münchner Norden Erarbeitung und Gegenüberstellung zweier Planfälle
+- TOP 8.5.: (U) Grundsatzbeschluss Abstellanlagen, dauerhafte Betriebshöfe für U-Bahn, Tram und Bus der SWM / MVG 1. Vorstellung Standortsuche 2. Auswahl von Vorzugsstandorten 3. Beauftragung von städtebaulichen, verkehrlichen und baulichen Voruntersuchungen
+- TOP 8.6.: (U) Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 8.7.: (U) Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 8.8.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 8.9.: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften
+- TOP 8.10.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 8.11.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 8.12.: (U) Teilfortscheibung des Landesentwicklungsprogramms Bayern (LEP); Ergänzendes Beteiligungsverfahren; Stellungnahme der Landeshauptstadt München
+- TOP 8.13.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 8.14.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 4.2.1.: Stadtbezirksbudget: Mittelbereitstellung – eigene Veranstaltungen; hier: Veranstaltungsreihe "Wir alle sind Moosach", Herbstreihe
+- TOP 6.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: eingeschränktes Haltverbot in der Merseburger Straße
+- TOP 4.: Anträge
