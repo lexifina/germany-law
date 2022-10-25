@@ -1,0 +1,64 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-10-25T17:00:00+02:00
+- Ende: 2022-10-25T19:37:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22519
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22519
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00463052.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00463052.pdf
+- Wortprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00463052.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 27. September 2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Angerausbau - Sanierungsmaßnahmen in Angermund, Abschnitt I von Gewässer-km 4,232 bis 8,375 - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Plan Nr. 05/018 - Städtebauliche Erhaltungssatzung - Engländersiedlung Lohausen - Empfehlung einstimmig beschlossen
+- TOP 9: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 10: Festsetzung einer neuen Ortsdurchfahrt (OD) an der B8 bei Kaiserswerth - zurückgezogen
+- TOP -: Anfragen aus vorherigen Sitzungen**
+- TOP 11: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 12: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums
+- TOP 13: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 14: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 15: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 16: Weg nach den Hingbenden - Wie kann das Parken geordnet und die Sicherheit erhöht werden?
+- TOP 17: Aufstellung von Absperrpfosten und eines Zauns im Treppenbereich zur Kirche St. Remigius in Wittlaer
+- TOP 18: Verkehrsanbindung zwischen Ratingen und dem Düsseldorfer Norden
+- TOP 19: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr?
+- TOP 20: Geschwindigkeitsmessung Kreuzung Nagelsweg/Neusser Weg
+- TOP 21: Wo sind die Parkplätze auf der Arnheimer Straße geblieben?
+- TOP 22: Radweg Kalkumer Schlossallee – Verbreiterung der südlichen Brückenrampen Bahnüberführung Forst Kalkum
+- TOP 23: Neubau der Feuerwache Kalkum - beantwortet
+- TOP 24: Aufstellung von Dixie Toiletten am Angermunder See - beantwortet
+- TOP 25: Wann wird jetzt endlich die Beleuchtung des Fuß- und Radweges auf dem Gerichtsschreiberweg installiert (erneute Anfrage)?
+- TOP 26: Den Spielplatz an der Bockumer Straße attraktiver gestalten. - beantwortet
+- TOP -: Neue Anfragen
+- TOP 27: Absperrgitter auf der Einbrunger Straße- Ecke Heinrich-Holtschneider-Weg
+- TOP 28: Sicherung der Verkehrspflicht am Kaiserswerther Markt - beantwortet
+- TOP 29: Wird das Klimaschutz Projekt mit einer Kübel Bepflanzung am Kaiserswerther Markt verlängert?
+- TOP 30: Brunnen am Klemensplatz
+- TOP 31: Einsatzzeiten und Einsatzorte Off-Road-Bus im Stadtbezirk 5 - beantwortet
+- TOP 32: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie
+- TOP 33: Verkehrskonzept für den Düsseldorfer Norden
+- TOP 34: Rheinuferweg Kaiserswerth - Alternativen für einen konfliktreduzierten Rad- und Fußweg
+- TOP -: Anträge
+- TOP 35: Geschwindigkeitsanzeigetafel (GAT) auf der Bockumer Straße und Kooperation mit der Rheinbahn zur Sicherheit an der Bushaltestelle Bockumer Straße - einstimmig beschlossen
+- TOP 36: Geschwindigkeitsanzeigetafel auf der Duisburger Landstraße - einstimmig beschlossen
+- TOP 37: Erhöhung der Sicherheit für Fußgänger und Radfahrende auf der Einbrunger Straße - Antrag 2.0 - abweichend beschlossen
+- TOP 38: Berichterstattung über Projekte im Stadtbezirk 5 aus dem Sonderprogramm „Klimaresilienz in Kommunen“ - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 39: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 40: Verschiedenes
+- TOP 41: Qualitätssicherndes Verfahren Nördlich Kalkumer Schlossallee – Öffentlichkeit endlich zeitnah, umfassend, transparent und permanent informieren! - mehrheitlich beschlossen
+- TOP 42: Dringende Verbesserungen beim PKW- und Busverkehrsfluss bei Großveranstaltungen und Messen - mehrheitlich beschlossen
