@@ -1,0 +1,6 @@
+# TOP 5: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Verkehr (2022-10-25)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/117512
