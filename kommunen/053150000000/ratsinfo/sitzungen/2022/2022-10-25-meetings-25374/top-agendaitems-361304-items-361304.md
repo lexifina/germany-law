@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 4.2 - Anderweitige Verwendung von Transferaufwendungen des Kulturamts, Haushaltsplan 2023/2024
+
+- Sitzung: 13. Sitzung des Ausschusses Kunst und Kultur (2022-10-25)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/361304
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/168053
