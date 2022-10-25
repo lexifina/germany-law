@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Ronsdorf
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-10-25T18:00:00+02:00
+- Ende: 2022-10-25T19:34:00+02:00
+- Ort: Ev. Kirchengemeinde Ronsdorf/Gemeindezentrum, Bandwirkerstr. 15, 42369 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/48
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20279
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20279
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00299238.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00300569.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht aus dem Wuppertaler Jugendrat
+- TOP 2: Bericht aus dem Beirat der Menschen mit Behinderung
+- TOP 3: Berichte und Mitteilungen
+- TOP 4: Controllingliste der Beschlüsse der Bezirksvertretung
+- TOP 5: Bürgerantrag gem. § 24 GO - Einrichtung einer Tempo 30-Strecke auf der Lüttringhauser Straße sowie Versetzung einer Lichtsignal-Anlage - ungeändert beschlossen
+- TOP 6: Bürgerantrag gem. § 24 GO NRW - Gehwegfreigabe Am Grünen Streifen / Boxbergstr. - abgelehnt
+- TOP 7: Fraktionsanträge und Große Anfragen
+- TOP 7.1: Fahrradstraße im Bereich An der Blutfinke - Große Anfrage der SPD-Fraktion vom 08.08.2022
+- TOP 7.1.1: Antwort der Verwaltung auf die Anfrage der SPD-Fraktion vom 08.08.2022 - Realisierung einer Fahrradstraße im Bereich der Blutfinke - Entgegennahme ohne Beschluss
+- TOP 7.2: Umsetzung des Ratsbeschlusses zu kostenlosen und freizugänglichen Menstruationsprodukten in den Toilettenräumen des Bürgerbüros Ronsdorf sowie in der öffentlichen Toilette am Bandwirkerplatz mit Anschaffung von entsprechenden Spendern - zurückgezogen
+- TOP 7.3: Anbringung von roten Fahrbahnmarkierungen an drei schulwegrelevanten Stellen im Stadtbezirk sowie Installation von Fahrbahnschwellen - ungeändert beschlossen
+- TOP 7.4: Verbesserung der Verkehrssicherheit an der Kreuzung In der Krim/Erbschlöer Straße - Prüfauftrag - ungeändert beschlossen
+- TOP 7.5: Errichtung einer Calisthenics-Sportanlage in Ronsdorf - Prüfauftrag - ungeändert beschlossen
+- TOP 7.6: Erneuerung von schlecht bzw. nicht lesbaren Straßen- und Hinweisschildern in Ronsdorf - ungeändert beschlossen
+- TOP 7.7: Erneuerung des Spiegelwappens des Stadtbezirks Ronsdorf im Ratssaal der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8: Einbahnstraßenfreigabe Ronsdorf - Kocherstraße - ungeändert beschlossen
+- TOP 9: Ausbau des südlich Teils der Holthauser Straße als Mischverkehrsfläche in Verbindung Versorgungsleitungsarbeiten der WSW AG - ungeändert beschlossen
+- TOP 10: Neugestaltung des Kinderspielplatzes (KSP) und des Bolzplatzes Mohrhennsfeld - ungeändert beschlossen
+- TOP 11: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2022 - ungeändert beschlossen
+- TOP 12: Information über anstehende Baugenehmigungsverfahren - Entgegennahme ohne Beschluss
+- TOP 13: Fällung von Einzelbäumen - Auslichtung von Grünanlagen 2022/23 - Entgegennahme ohne Beschluss
+- TOP 14: Veranstaltungen im Stadtbezirk
+- TOP 14.1: - Antrag des Ronsdorfer Heimat- und Bürgervereins auf Durchführung des 23, Ronsdorfer Liefersacks am 16./17.06.2023
+- TOP 15: Gewährung von freien Mitteln
+- TOP 15.1: - Antrag der SSG Ronsdorf e.V. auf Gewährung eines Zuschusses zur Anschaffung von Sportgeräten
+- TOP 15.2: - Antrag der städt. GGS Engelbert-Wüster-Weg auf Gewährung eines Zuschusses zur Anschaffung von digitalen Unterrichtsmitteln
+- TOP 15.3: - Antrag von Wir in Ronsdorf e.V. auf Gewährung eines Zuschusses zur Instandhaltung/Erneuerung von Elektranten und deren Anschlüssen auf dem Bandwirkerplatz
+- TOP 15.4: - Antrag des Fördervereins der GS Ferdinand-Lassalle-Straße auf Gewährung eines Zuschusses zur Unterstützung des Sozialprojektes Educate
+- TOP 15.5: - Antrag des Ronsdorfer Heimat- und Bürgervereins auf Gewährung eines Zuschusses zur Anschaffung eines Weihnachtsbaumes für den Bandwirkerplatz und
+- TOP 15.6: - Antrag des BTV Ronsdorf-Graben und der DT Ronsdorf auf Gewährung eines Zuschusses für die Anschaffung eines Schwimmbad-Gitterregalwagens
+- TOP 16: Gewährung von GFG-Mitteln
+- TOP 16.1: Bereitstellung von GFG-Mitteln zur Installation einer Sitzbank im Bereich Dorner Weg/Baur - vertagen
+- TOP 16.2: Bereitstellung von GFG-Mitteln zur Beleuchtung und Begrünung des Treppenaufgangs von der Staasstraße zur Lutherkirche - ungeändert beschlossen
+- TOP 16.3: Bereitstellung von GFG-Mitteln zur Installation von Trinkwasserspendern in Ronsdorf - geändert beschlossen
+- TOP 16.4: Antrag des Fördervereins an der Gesamtschule Ronsdorf e.V. auf Gewährung von GFG-Mitteln zur Anschaffung von 10 Fahrradboxen
+- TOP 17: Anfragen und Anregungen an die Verwaltung
