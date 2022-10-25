@@ -1,0 +1,110 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-10-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6811163
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6811163
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 27.09.2022
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Beschleunigung zum Verfahren der Freilegung des Hachinger Bachs (1) Flugblatt mit einem Planauszug zur Freilegung des Hachinger Bachs herausgeben (2) Presseerklärung rechtzeitig vor einer Bürgerversammlung zum Fortschritt des Hachinger Bachs herausgegeben (3)
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Trainsjochstr. 6 - Neubau eines Einfamilien- und eines Mehrfamilienhauses (10 WE) mit Tiefgarage
+- TOP 3.1.2.: Levelingstr. 10 - Neubau eines gewerblich genutzten Gebäudes mit Tiefgarage
+- TOP 3.1.3.: Grafinger Str. 28 - Abgrabung zur Grundstücksaufbereitung / freiwillige Altlastensanierung, Errichtung eines punktuellen, temporären Verbaus mittels Trägerbohlen
+- TOP 3.1.4.: Ampfingstr. 33 - Neubau Parkhaus P1 - TEKTUR zu 1.2-2010-31594-32 - Hier: Neue Überdachung eines Parkhauses mit Photovoltaikmodulen sowie eine neue Fassade Parkhaus mit Photovoltaikelementen
+- TOP 3.1.5.: DB Regio AG – S-Bahn München; Neubau eines Schulungsgebäudes in München Steinhausen, Planfeststellungsverfahren nach § 18 AEG - Anhörung des Referates für Stadtplanung und Bauordnung, Fristverlängerung bis 26.10.2022 -
+- TOP 3.1.6.: Erneute Informationsveranstaltung Bebauungsplan Truderinger Acker - Beschlussentwurf - Anhörung des Referats für Stadtplanung und Bauordnung -
+- TOP 3.1.7.: Mögliche „temporäre“ Krautgärten für Berg am Laim?; Antrag CSU-Fraktion - vertagt aus der Sitzung 09/22 -
+- TOP 3.1.8.: Sachstand zur Prüfung der Denkmaleigenschaft für das Waßnerhaus/Josephshäusl und das Benifiziatenhaus; Antrag der CSU-Fraktion
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Riedgaustraße 11-13 - temporäre Einrichtung eines personenbezogenen Behindertenparkplatzes - Anhörung des Mobilitätsreferats, Frist bis 01.11.2022 -
+- TOP 3.2.2.: Kurvenbereich Isareckstraße 29 / Annabrunner Straße - Haltverbot für AWM - Anhörung des Mobilitätsreferats, Frist bis 31.10.2022 -
+- TOP 3.2.3.: Ludwig-Jung-Str. - Anhörung zum Erinnerungsverfahren - Anhörung des Baureferats, Frist bis 26.10.2022 -
+- TOP 3.2.4.: Parksituation beim Park in der Hermann-Weinhauser-Straße; Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: Ausbau der Tram-Haltestelle Kreillerstraße; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Verkehrssicherheit für Fußgänger am Eingang der U-Bahn Innsbrucker Ring; Anliegen aus der Bürgerschaft - vertagt aus der Sitzung 09/22 -
+- TOP 3.2.7.: Kennzeichnung der Ausfahrt des Radweges in der Pertisaustraße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 3.2.8.: Behindertenparkplatz in der Kreillerstraße; Antrag der CSU-Fraktion
+- TOP 3.2.9.: Dieselfahrverbot - Auswirkungen auf Berg am Laim?; Antrag der CSU-Fraktion
+- TOP 3.2.10.: "Zickzack - Linie" vor der Tiefgaragen-Ein- und Ausfahrt der Neumarkterstraße 82-84c - Anliegen aus der Bürgerschaft -
+- TOP 3.2.11.: Sturmiusweg 18: Neueinrichtung eines persönlichen Behindertenstellplatz - Anhörung des Mobilitätsreferates -
+- TOP 3.2.12.: Parksituation von Leihscooter; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Beschlussentwurf "Schul- und Kitabauoffensive - 4. Schulbauprogramm und Kita-Bauprogramm 2022"; Anhörung des Referats für Bildung und Sport
+- TOP 3.3.2.: Sachstand zur Sanierung des Berg am Laimer Kreuzwegs; Antrag der CSU-Fraktion
+- TOP 3.3.3.: Regelmäßige Aktualisierung des Dienstleistungsfinders für Sportanlagen der Landeshauptstadt München; Antrag der CSU-Fraktion
+- TOP 3.3.4.: Zeitplan für die Grundschule an der St.-Veit-Straße 46; Antrag der CSU-Fraktion
+- TOP 3.3.5.: Raumsuche für den Jugendtreff BaLI
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Zuwendungen aus dem Stadtbezirksbudget der Bezirksausschüsse Antrag Evang.-Luth. Kirchengemeinde Sophie Scholl: Erhörung des Zuschussbeitrags - Kindertage 2022
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Kastanie in der Gammelsdorferstraße; Anliegen aus der Bürgerschaft - vertagt aus der Sitzung 09/22 -
+- TOP 3.6.2.: Hansjakobstr. 119
+- TOP 3.6.3.: Mutschellestr. 34
+- TOP 3.6.4.: Trainsjochstr. 6 - Neubau eines Einfamilien- und eines Mehrfamilienhauses (10 WE) mit Tiefgarage
+- TOP 3.6.5.: Anne-Frank-Anger 1
+- TOP 3.6.6.: Levelingstr. 10 - Neubau eines gewerblich genutzten Gebäudes mit Tiefgarage
+- TOP 3.6.7.: Grafinger Str. 28 - Abgrabung zur Grundstücksaufbereitung / freiwillige Altlastensanierung, Errichtung eines punktuellen, temporären Verbaus mittels Trägerbohlen
+- TOP 3.6.8.: Hochriesstr. 7a
+- TOP 3.6.9.: Heubergstr. 15a
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Listen der Bauvorhaben im 14. Stadtbezirk Berg am Laim in der Zeit vom 05.09.2022 bis 10.10.2022
+- TOP 4.1.2.: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften
+- TOP 4.1.3.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 4.1.4.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 4.1.5.: Zentrales Silvesterfeuerwerk für den Bezirk - Antwortschreiben -
+- TOP 4.1.6.: (U) Ergänzung des Programms der MVHS Aufnahme der Themen Bauleitplanung, Baurecht, Rechte der Anwohner*innen etc. in das Programm der MVHS Empfehlung Nr. 20-26 / E 00152 der Bürgerversammlung des Stadtbezirks 14, Berg am Laim vom 14.07.2021
+- TOP 4.1.7.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 4.1.8.: Photovoltaikanlage auf dem Dach der Grundschule in der St.-Veit-Straße - Antwortschreiben auf BV-Anfrage -
+- TOP 4.1.9.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 4.1.10.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 4.1.11.: Errichtung eines Trinkwasserbrunnens in der Maikäfersiedlung - Bürgeranliegen, das an den OB gerichtet ist -
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: (U) Teilfortscheibung des Landesentwicklungsprogramms Bayern (LEP); Ergänzendes Beteiligungsverfahren; Stellungnahme der Landeshauptstadt München
+- TOP 4.2.2.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 4.2.3.: Verkehrsrechtliche Anordnungen: - Halfinger Straße Westteil, Durchfahrtsperre zur Erprobung - Gerlosstraße, Einrichtung einer Anfahrtszone für den Hol- und Bringverkehr (Grundschule St.-Veit-Straße) - Hermann-Weinhauser-Straße - Einrichtung einer Schulbushaltestelle - St.-Veit-Straße, streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen
+- TOP 4.2.4.: Ausnahmegenehmigung Verein Kreislaufschränke
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 4.3.2.: Dienststellenverständigung für den Neubau einer Grundschule im Werksviertel an der Haager Straße 14-18
+- TOP 4.3.3.: Kinderkrippe Klausenburg sucht Räumlichkeiten - Antwortschreiben -
+- TOP 4.3.4.: Dienststellenverständigung Grundschule St-Veit-Str. 46
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Sachstandsauskunft zu BA-Antrag Nr. 20-26 / B 03053 "Anpassung des Bolzplatzes an der Kreillerstraße 21 an die Bedürfnisse der Jugendlichen"
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Info-Schreiben zum Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt – Bürgerbeteiligung in den Stadtvierteln
+- TOP 4.5.2.: Antrag auf Bestellung städtischer Leistungen: hier: Erläuterungsschilder für Straßen im Werksviertel - Antwortschreiben -
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume am Michaeli-Gymnasium
+- TOP 4.6.2.: Ringbergstr. 4; Fällbescheid
+- TOP 4.6.3.: Schweppermannstr. 6; Fällbescheid
+- TOP 4.6.4.: Josephsburgstr. 150a; Fällbescheid
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.6.10.: Pachemstr. 2
+- TOP 3.6.11.: Buchsteinstr. 4
