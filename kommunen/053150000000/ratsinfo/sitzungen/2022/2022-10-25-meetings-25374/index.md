@@ -1,0 +1,63 @@
+# 13. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-10-25T15:36:00+02:00
+- Ende: 2022-10-25T18:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25374
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25374
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktion der SPD: Sofortige Maßnahmen zur Stärkung der Kunst und Kulturszene; Vergünstigte Tickets in Köln einführen - zurückgestellt
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Freigabe Mittel Mietkostenzuschüsse - ungeändert beschlossen
+- TOP 4.2: Anderweitige Verwendung von Transferaufwendungen des Kulturamts, Haushaltsplan 2023/2024 - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen SPD, FDP & DIE LINKE - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.2 - Anderweitige Verwendung von Transferaufwendungen des Kulturamts, Haushaltsplan 2023/2024 - geändert beschlossen
+- TOP 4.3: Ausweitung der sozialen Staffelung bei den Mitgliedsbeiträgen der Stadtbibliothek Köln - zurückgestellt
+- TOP 4.4: Zuschuss Förderverein Römische Stadtmauer Köln e. V. und Freigabe Kulturförderabgabe 2022 - Bauliche Maßnahmen für die Sanierung und Erhaltung sowie Ergänzung von Denkmälern - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Freigabe Zuschuss für den Verein "Die Große von 1823" im Rahmen des Jubiläums "200 Jahre Kölner Karneval" - ungeändert beschlossen
+- TOP 4.6: Freigabe Zuschuss für den Verein "Lyskircher Junge e. V." im Rahmen des Jubiläums "200 Jahre Kölner Karneval“ - ungeändert beschlossen
+- TOP 4.7: Freigabe Kulturförderabgabe, Zuschuss für das "Jubiläum Kölner Karneval" für die Roten Funken - ungeändert beschlossen
+- TOP 4.8: Freigabe Kulturförderabgabe, Zuschuss für das "Jubiläum Kölner Karneval" für die Hellige Knäächte un Mägde - ungeändert beschlossen
+- TOP 4.9: Freigabe Kulturförderabgabe, Zuschuss für das "Jubiläumsjahr Kölner Karneval" für die Gemeinnützige Gesellschaft des Kölner Karnevals mbH (Festkomitee) - ungeändert beschlossen
+- TOP 4.10: Freigabe von Mitteln der Kulturförderabgabe „Geerbte Denkmäler“ für die Förderung des Entlastungsbauwerks für das Baudenkmal Ulrepforte - ungeändert beschlossen
+- TOP 4.11: Vergabe der Konzeptionsförderung in der Sparte Theater, Haushaltsjahre 2023-2026 - ungeändert beschlossen
+- TOP 4.12: Freigabe von Mitteln der Kulturförderabgabe „Jubiläum Kölner Karneval“ für die Förderung des Entlastungsbauwerks für das Baudenkmal Ulrepforte - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Optimierung der musealen Depots, Fortschreibung - Kenntnis genommen
+- TOP 8.2: Aktivitäten 2022 des House of Resources (HoR) in Köln und diesjährige Bundeskonferenz der Houses of Resources am 4.11.2022 - Kenntnis genommen
+- TOP 8.3: Liste der Großbauprojekte - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 26. September 2022 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 12. Oktober 2022 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 20. Oktober 2022 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer Anfrage 0742/2022 - Kenntnis genommen
+- TOP 10.2: Beantwortung einer mündlichen Anfrage von Bündnis 90/Die Grünen: Evaluationsbericht Open-Air Projekte - Kenntnis genommen
+- TOP 10.3: Beantwortung einer Anfrage der SPD-Fraktion: Klubstiftung nach Hamburger Vorbild – ein Konzept für die Kulturstadt Köln? - Kenntnis genommen
+- TOP 10.4: Beantwortung einer Anfrage der Bündnispartner AN/1134/2022: Fördermittelakquise und Drittmittel im Kulturamt - Kenntnis genommen
+- TOP 10.5: Beantwortung einer Anfrage der Fraktion der SPD: Museums-Interims - Kenntnis genommen
+- TOP 10.6: Beantwortung einer schriftlichen Anfrage der Fraktion der SPD (AN/0739/2022): Kulturmarketing - Kenntnis genommen
+- TOP 10.7: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen im KuK vom 30.08.2022 zur Konsolidierung des Haushalts 2023/24 im Bereich Kunst und Kultur - endgültig zurückgezogen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktion der FDP: Heizkosten in städtischen Museen - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Fraktion der SPD: Museale (Frei-)Räume interdisziplinär nutzen - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der Fraktion der SPD: Sachstand Simultanhalle - Kenntnis genommen
+- TOP 11.4: Schriftliche Anfrage der Bündnispartner: Diversität in den städtischen kulturellen Institutionen - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion der SPD: Heinrich Böll und Karl Marx im Stadtbild
+- TOP 12.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.3: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Nachnutzungskonzept Zeughaus
+- TOP 12.4: Mündliche Anfrage der Fraktion VOLT: Kulturticket
