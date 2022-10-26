@@ -458,8 +458,8 @@ Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
 | 9. | Lagerung, Be- und Entladen von Stoffen und Gemischen |  |  |
 | 9.1 | Anlagen, die der Lagerung von Stoffen oder Gemischen, die bei einer Temperatur von 293,15 Kelvin und einem Standarddruck von 101,3 Kilopascal vollständig gasförmig vorliegen und dabei einen Explosionsbereich in Luft haben (entzündbare Gase), in Behältern oder von Erzeugnissen, die diese Stoffe oder Gemische z. B. als Treibmittel oder Brenngas enthalten, dienen, ausgenommen Erdgasröhrenspeicher und Anlagen, die von Nummer 9.3 erfasst werden, |  |  |
 | 9.1.1 | soweit es sich nicht ausschließlich um Einzelbehältnisse mit einem Volumen von jeweils nicht mehr als 1 000 Kubikzentimeter handelt, mit einem Fassungsvermögen von |  |  |
-| 9.1.1.1 | 30 Tonnen oder mehr, | G |  |
-| 9.1.1.2 | 3 Tonnen bis weniger als 30 Tonnen, | V |  |
+| 9.1.1.1 | 50 Tonnen oder mehr, | G |  |
+| 9.1.1.2 | 3 Tonnen bis weniger als 50 Tonnen, | V |  |
 | 9.1.2 | soweit es sich ausschließlich um Einzelbehältnisse mit einem Volumen von jeweils nicht mehr als 1 000 Kubikzentimeter handelt, mit einem Fassungsvermögen entzündbarer Gase von 30 Tonnen oder mehr; | V |  |
 | 9.2 | Anlagen, die der Lagerung von Flüssigkeiten dienen, ausgenommen Anlagen, die von Nummer 9.3 erfasst werden, mit einem Fassungsvermögen von |  |  |
 | 9.2.1 | 10 000 Tonnen oder mehr, soweit die Flüssigkeiten einen Flammpunkt von 373,15 Kelvin oder weniger haben, | G |  |

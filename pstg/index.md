@@ -1,6 +1,5 @@
 # Personenstandsgesetz
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Kapitel 1 Allgemeine Bestimmungen
 
@@ -13,10 +12,8 @@
 - [§ 4 Sicherungsregister](0004.md)
 - [§ 5 Fortführung der Personenstandsregister](0005.md)
 - [§ 6 Aktenführung](0006.md)
-- [§ 7 Aufbewahrung](0007.md)
 - [§ 8 Verlust eines Personenstandsregisters](0008.md)
 - [§ 9 Beurkundungsgrundlagen](0009.md)
-- [§ 10 Auskunfts- und Nachweispflicht](0010.md)
 
 ## Kapitel 3 Eheschließung
 
@@ -27,11 +24,9 @@
 - [§ 12 Anmeldung der Eheschließung](0012.md)
 - [§ 13 Prüfung der Ehevoraussetzungen](0013.md)
 - [§ 14 Eheschließung](0014.md)
-- [§ 15 Eintragung in das Eheregister](0015.md)
 
 ### Abschnitt 2 Fortführung des Eheregisters
 
-- [§ 16 Fortführung](0016.md)
 
 ## Kapitel 4 Lebenspartnerschaft
 
@@ -43,10 +38,7 @@
 
 ### Abschnitt 1 Anzeige und Beurkundung
 
-- [§ 18 Anzeige](0018.md)
-- [§ 19 Anzeige durch Personen](0019.md)
 - [§ 20 Anzeige durch Einrichtungen](0020.md)
-- [§ 21 Eintragung in das Geburtenregister](0021.md)
 
 ### Abschnitt 2 Besonderheiten
 
@@ -58,17 +50,13 @@
 
 ### Abschnitt 3 Fortführung des Geburtenregisters
 
-- [§ 27 Feststellung und Änderung des Personenstandes, sonstige Fortführung](0027.md)
 
 ## Kapitel 6 Sterbefall
 
 
 ### Abschnitt 1 Anzeige und Beurkundung
 
-- [§ 28 Anzeige](0028.md)
-- [§ 29 Anzeige durch Personen](0029.md)
 - [§ 30 Anzeige durch Einrichtungen und Behörden](0030.md)
-- [§ 31 Eintragung in das Sterberegister](0031.md)
 
 ### Abschnitt 2 Fortführung des Sterberegisters;
 Todeserklärungen
@@ -87,7 +75,6 @@ Beurkundungsfälle
 - [§ 36 Geburten und Sterbefälle im Ausland](0036.md)
 - [§ 37 Geburten und Sterbefälle auf Seeschiffen](0037.md)
 - [§ 38 Sterbefälle in ehemaligen Konzentrationslagern](0038.md)
-- [§ 39 Ehefähigkeitszeugnis](0039.md)
 - [§ 40 Zweifel über örtliche Zuständigkeit für Beurkundung](0040.md)
 
 ### Abschnitt 2 Familienrechtliche Beurkundungen
@@ -106,7 +93,6 @@ Beurkundungsfälle
 ### Abschnitt 1 Berichtigungen ohne Mitwirkung des Gerichts
 
 - [§ 46 Änderung einer Anzeige](0046.md)
-- [§ 47 Berichtigung nach Abschluss der Beurkundung](0047.md)
 
 ### Abschnitt 2 Gerichtliches Verfahren
 
@@ -125,11 +111,6 @@ Personenstandsregister
 
 - [§ 54 Beweiskraft der Personenstandsregister und -urkunden](0054.md)
 - [§ 55 Personenstandsurkunden](0055.md)
-- [§ 56 Allgemeine Vorschriften für die Ausstellung von Personenstandsurkunden](0056.md)
-- [§ 57 Eheurkunde](0057.md)
-- [§ 58 Lebenspartnerschaftsurkunde](0058.md)
-- [§ 59 Geburtsurkunde](0059.md)
-- [§ 60 Sterbeurkunde](0060.md)
 
 ### Abschnitt 2 Benutzung der Personenstandsregister
 
@@ -137,10 +118,7 @@ Personenstandsregister
 - [§ 62 Urkundenerteilung, Auskunft, Einsicht](0062.md)
 - [§ 63 Benutzung in besonderen Fällen](0063.md)
 - [§ 64 Sperrvermerke](0064.md)
-- [§ 65 Benutzung durch Behörden und Gerichte](0065.md)
 - [§ 66 Benutzung für wissenschaftliche Zwecke](0066.md)
-- [§ 67 Einrichtung zentraler Register](0067.md)
-- [§ 68 Mitteilungen an Behörden und Gerichte von Amts wegen](0068.md)
 - [§ 68a Rechte der betroffenen Person](0068a.md)
 
 ## Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten
@@ -152,13 +130,10 @@ Personenstandsregister
 
 ## Kapitel 11 Verordnungsermächtigungen
 
-- [§ 73 Ermächtigungen zum Erlass von Rechtsverordnungen](0073.md)
 - [§ 74 Rechtsverordnungen der Landesregierungen](0074.md)
 
 ## Kapitel 12 Übergangsvorschriften
 
-- [§ 75 Übergangsbeurkundung](0075.md)
-- [§ 76 Fortführung, Benutzung und Aufbewahrung der Altregister](0076.md)
 - [§ 77 Fortführung, Aufbewahrung und Benutzung der Familienbücher](0077.md)
 - [§ 78 (weggefallen)](0078.md)
 - [§ 79 Altfallregelung](0079.md)

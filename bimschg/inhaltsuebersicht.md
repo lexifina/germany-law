@@ -25,7 +25,7 @@ Genehmigungsbedürftige Anlagen
 | § 15 | Änderung genehmigungsbedürftiger Anlagen |
 | § 16 | Wesentliche Änderung genehmigungsbedürftiger Anlagen |
 | § 16a | Störfallrelevante Änderung genehmigungsbedürftiger Anlagen |
-| § 16b | Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien |
+| § 16b | Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien, Sondervorschriften für Windenergieanlagen |
 | § 17 | Nachträgliche Anordnungen |
 | § 18 | Erlöschen der Genehmigung |
 | § 19 | Vereinfachtes Verfahren |
@@ -58,6 +58,9 @@ Brennstoffwechsel bei einer Mangellage
 | § 31b | Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU |
 | § 31c | Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193 |
 | § 31d | Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193 |
+| §§ 31e bis 31j | (zukünftig in Kraft) |
+| § 31k | Abweichungen von Vorgaben zu nächtlichen Geräuschwerten und zur Vermeidung von Schattenwurf bei Windenergieanlagen |
+| § 31l | Übergangsregelungen zu den §§ 31e bis 31k |
 Dritter Teil
 Beschaffenheit von Anlagen,
 Stoffen, Erzeugnissen, Brennstoffen,

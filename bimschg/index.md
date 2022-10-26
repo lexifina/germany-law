@@ -29,7 +29,7 @@
 - [§ 15 Änderung genehmigungsbedürftiger Anlagen](0015.md)
 - [§ 16 Wesentliche Änderung genehmigungsbedürftiger Anlagen](0016.md)
 - [§ 16a Störfallrelevante Änderung genehmigungsbedürftiger Anlagen](0016a.md)
-- [§ 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien](0016b.md)
+- [§ 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien, Sondervorschriften für Windenergieanlagen](0016b.md)
 - [§ 17 Nachträgliche Anordnungen](0017.md)
 - [§ 18 Erlöschen der Genehmigung](0018.md)
 - [§ 19 Vereinfachtes Verfahren](0019.md)
@@ -64,6 +64,9 @@
 - [§ 31b Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU](0031b.md)
 - [§ 31c Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193](0031c.md)
 - [§ 31d Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193](0031d.md)
+- [(XXXX) §§ 31e bis 31j (zukünftig in Kraft)](xxxx-31e-bis-31j.md)
+- [§ 31k Abweichungen von Vorgaben zu nächtlichen Geräuschwerten und zur Vermeidung von Schattenwurf bei Windenergieanlagen](0031k.md)
+- [§ 31l Übergangsregelungen zu den §§ 31e bis 31k](0031l.md)
 
 ## Dritter Teil Beschaffenheit von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen; Treibhausgasminderung bei Kraftstoffen
 
