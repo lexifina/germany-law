@@ -1,0 +1,53 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-10-26T17:00:00+02:00
+- Ende: 2022-10-26T20:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23482
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23482
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00463504.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00463504.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00463504.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 16.03.2022 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 27.04.2022 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Reduzierung der Konzessionen für das Taxi-Gewerbe -Anfrage der FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN „Digitale Darstellung aller Radverkehrsmaßnahmen“ - einstimmig beschlossen
+- TOP 5.2: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN "Parkraummanagement für die Förderung einer umweltfreundlichen Mobilität sozial gerecht weiterentwickeln" - mehrheitlich beschlossen
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 8: Jahresbericht der Geschäftsstelle der Kunstkommission 2021/2022 - zur Kenntnis genommen
+- TOP 9: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 10: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 11: Ergebnisse der Machbarkeitsstudien zur Erschließung der Bergischen Kaserne - einstimmig beschlossen
+- TOP 12: Erfahrungsbericht zur Pilotanwendung "Handyladeeinrichtungen in Fahrgastunterständen - zur Kenntnis genommen
+- TOP 13: Änderungsbeschluss zum Projekt Personenunterführung Bahnhof Düsseldorf-Gerresheim
+- TOP 13.1: Mündlicher Antrag der Ratsfraktion Bündnis 90/Die Grünen auf Nichtbefassung der Vorlage OVA/106/2022 - einstimmig beschlossen
+- TOP 14: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen im Stadtbezirk 3 - einstimmig beschlossen
+- TOP 15: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen im Stadtbezirk 5 - einstimmig beschlossen
+- TOP 16: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h vor sensiblen Einrichtungen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 17: Haushaltsanträge
+- TOP 17.1: Haushaltsantrag der SPD-Ratsfraktion: Budget für die/ den Fußverkehrsbeauftragte:n einführen - mehrheitlich abgelehnt
+- TOP 17.2: Haushaltsantrag der SPD-Ratsfraktion: Budget für den Radwegebau erhöhen - mehrheitlich abgelehnt
+- TOP 17.3: Haushaltsantrag der SPD-Ratsfraktion: Mittel für die Unterführung Gerresheim bereitstellen - mehrheitlich abgelehnt
+- TOP 17.4: Haushaltsbegleitantrag der SPD-Ratsfraktion: Ergänzung des ÖPNV-Netzes durch Tangenten - mehrheitlich abgelehnt
+- TOP 17.5: Haushaltsbegleitantrag der SPD-Ratsfraktion: Verkehrsüberwachung für Rad- und Fußwege intensivieren - mehrheitlich abgelehnt
+- TOP 18: Haushaltsplanentwurf des Ordnungsamtes für das Jahr 2023 - mehrheitlich beschlossen
+- TOP 19: Haushaltsplanentwurf des Amtes für Brücken-, Tunnel- und Stadtbahnbau für das Jahr 2023 - mehrheitlich beschlossen
+- TOP 20: Haushaltsplanentwurf des Amtes für Verkehrsmanagement für das Jahr 2023 - mehrheitlich beschlossen
+- TOP 21: Sitzungstermine des Ordnungs- und Verkehrsausschusses im Jahre 2023 - zur Kenntnis genommen
+- TOP 22: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - zur Kenntnis genommen
+- TOP 23: Umstufung der L293 zur Kreisstraße und der Münchener Straße zur L353 - einstimmig beschlossen
+- TOP 24: Sachstand Projekt ÖPNV-Beschleunigung an Lichtsignalanlagen - zur Kenntnis genommen
