@@ -101,7 +101,7 @@
 
 - [§ 57 (weggefallen)](0057.md)
 - [§ 58 Ordnungswidrigkeiten](0058.md)
-- [§ 59 (weggefallen)](0059.md)
+- [§ 59 Verordnungsermächtigung für Fälle bundesweiter Notlagen](0059.md)
 - [§ 60 Opfer politischer Verfolgung durch SED-Unrecht](0060.md)
 - [§ 61 Förderung von Ausländerinnen und Ausländern mit einer Aufenthaltserlaubnis oder einer entsprechenden Fiktionsbescheinigung](0061.md)
 - [§ 62 (weggefallen)](0062.md)
