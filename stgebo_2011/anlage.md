@@ -136,6 +136,12 @@ Gebühren des Bundes
 | 182 |  | Digitale Zertifikate und Verschlüsselungsdienstleistungen |  |
 | 182.1 |  | Zuteilung eines Zertifikats für eine Fahrzeugeinheit als eine Komponente des digitalen Kontrollgeräts | 1,20 |
 | 182.2 |  | Zuteilung eines kryptographischen Schlüssels für einen Weg- und Geschwindigkeitsgeber als eine Komponente des digitalen Kontrollgeräts | 0,65 |
+|  | 9. | Maßnahmen des Fernstraßen-Bundesamts oder der auf Grund des Infrastrukturgesellschaftserrichtungsgesetzes beliehenen Gesellschaft privaten Rechts |  |
+| 183 |  | Anordnung nach § 45 Absatz 6 StVO über Maßnahmen der Unternehmer an Arbeitsstellen | 45,00 bis 1 070,00 |
+| 184 |  | Entscheidung über eine Erlaubnis nach § 29 Absatz 2 StVO für Veranstaltungen, die ausschließlich auf den mit Zeichen 330.1 und 330.2 gekennzeichneten Autobahnen in der Baulast des Bundes stattfinden (§ 44a Abs. 1 Satz 3 StVO) | 45,00 bis 1 070,00 |
+|  |  | bei größeren Veranstaltungen mit außergewöhnlich hohem Verwaltungsaufwand | 1 070,00 bis 3 207,00 |
+| 185 |  | Entscheidung über eine Ausnahme von einer Vorschrift der StVO nach § 46 Absatz 2a StVO je Ausnahmetatbestand und je Fahrzeug/Person Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl betroffener Fahrzeuge/Personen bzw. gleichartiger Fälle kann unter Berücksichtigung des geringeren Verwaltungsaufwandes eine verminderte Gesamtgebühr berechnet werden; dabei darf die Untergrenze des Gebührenrahmens von 45,00 Euro je Fahrzeug/Person und je Ausnahmetatbestand nicht unterschritten werden. | 45,00 bis 1 070,00 |
+| 186 |  | Zurückweisung eines Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung Von der Festsetzung einer Gebühr ist abzusehen, soweit durch die Rücknahme des Widerspruchs das Verfahren besonders rasch und mit geringem Verwaltungsaufwand abgeschlossen werden kann, wenn dies der Billigkeit nicht widerspricht. | Gebühr in Höhe der Gebühr fürdie beantragte oder angefochtene Amtshandlung, mindestensjedoch 180,00 Euro; beigebührenfreien angefochtenen Amtshandlungen 180,00 Euro. |
 |  | B. | Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs |  |
 | 198 |  | Für Maßnahmen außerhalb der Dienststelle, je Amtsperson | 102,00 bis 3 068,00 |
 | 199 |  | Für andere als die in diesem Abschnitt aufgeführten Maßnahmen nach Personal- und Sachaufwand je Stunde und Person | 15,30 bis 61,40 |
