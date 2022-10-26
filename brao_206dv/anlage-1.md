@@ -22,6 +22,7 @@
 | – in Kanada: | Barrister, Solicitor |
 | – in Kasachstan: | Aдвокат, Advokat, Qorğauşy |
 | – in Kolumbien: | Abogado |
+| – in der Demokratischen Republik Kongo: | Avocat |
 | – in der Republik Korea: | Byeonhosa, Lawyer |
 | – in Malaysia: | Peguambela&Peguamcara,Advocate and Solicitor |
 | – in Marokko: | Mohamin |
