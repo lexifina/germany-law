@@ -1,0 +1,82 @@
+# 13. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-10-26T16:18:00+02:00
+- Ende: 2022-10-26T20:23:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12511
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12511
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00516608.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 10: Anregungen des Jugendrates
+- TOP 11: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 12: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2019 - einstimmig beschlossen
+- TOP 13: Aktualisierung der Richtlinie zum Förderprogramm "Klimafreundliche Wohngebäude für Münster" - mehrheitlich beschlossen
+- TOP 13.1: Aktualisierung der Richtlinie zum Förderprogramm "Klimafreundliche Wohngebäude für Münster"
+- TOP 14: Selbstbestimmt und diskriminierungsfrei in unserer Stadt leben können – ein „Aktionsplan LSBTIQ*“ für Münster - zur Kenntnis genommen
+- TOP 15: LSBTIQ* Sichtbarkeit / Regenbogenfarben im Stadtbild - mehrheitlich beschlossen
+- TOP 15.1: LSBTIQ* Sichtbarkeit / Regenbogenfarben im Stadtbild
+- TOP 16: Bericht zum Pilotprojekt "Bereitstellung kostenloser Hygieneartikel" - zur Kenntnis genommen
+- TOP 17: Nutzungsperspektiven der Tiefengeothermie für eine klimaneutrale Wärmeversorgung in Münster - einstimmig beschlossen
+- TOP 18: Weiterentwicklung der digitalen Gremienarbeit - einstimmig beschlossen
+- TOP 19: Ziele zur kommunalen Steuerung - Vorlage eingebracht
+- TOP 20: Vergütung von Praktika - einstimmig beschlossen
+- TOP 21: Antrag an den Rat Nr. A-R/0091/2021 "Investitionsprogramm realistischer gestalten" - Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen/GAL, der SPD-Fraktion und der Ratsgruppe VOLT im Rat der Stadt Münster - einstimmig beschlossen
+- TOP 22: Westfälische Bauindustrie (WBI): Novellierung des Gesellschaftsvertrages - mehrheitlich beschlossen
+- TOP 23: Anpassung des Gesellschaftsvertrags und der Geschäftsordnung für die Geschäftsführung der Wirtschaftsförderung Münster GmbH (WFM) - mehrheitlich beschlossen
+- TOP 24: Überplanmäßige Mittelbereitstellung im Haushaltsjahr 2022 - einstimmig beschlossen
+- TOP 25: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023 - von der Tagesordnung abgesetzt
+- TOP 26: Betrauungsakt der Stadt Münster für die Wohn- und Stadtbau GmbH, Steinfurter Str. 60, 48149 Münster als Käuferin eines Grundstücks der KonvOY GmbH - einstimmig beschlossen
+- TOP 27: Wohnbaulandentwicklung bis zum Jahr 2030 – Fortschreibung des Baulandprogramms - mehrheitlich geändert beschlossen
+- TOP 28: Richtlinie der Stadt Münster zur Verwendung der Mittel gem. § 11 Abs. 2 ÖPNVG NRW - einstimmig beschlossen
+- TOP 29: Innenstadt stärken: MikroKiez Martiniviertel, Förderantrag und Planungen zum Landeswettbewerb Zukunft StadtRaum - mehrheitlich beschlossen
+- TOP 30: Urbanes Grün als Ressource für Mensch und Umwelt (A-R/0034/2021) - einstimmig geändert beschlossen
+- TOP 31: Verfahrensstand zum Ausbau des städtischen Stadions an der Hammer Straße – Einsetzbares Budget und Reihenfolge der Module sowie Berücksichtigung von Preis und Wirtschaftlichkeit im TÜ-Verfahren - zur Kenntnis genommen
+- TOP 32: Neuregelung der Nutzungs- und Eigentumsverhältnisse der Buchbinderwerkstatt im Adolph-Kolping-Berufskolleg - einstimmig beschlossen
+- TOP 33: Kommunaler Digitalpakt : Ertüchtigung der IT-Infrastruktur der Schulen, die nicht im Förderprogramm Digital Pakt Schule berücksichtigt wurden - einstimmig beschlossen
+- TOP 34: Absichtserklärung zur Verlagerung des Johann-Conrad-Schlaun Gymnasiums nach Angelmodde - einstimmig beschlossen
+- TOP 35: Anpassung der Entgeltordnungen des Kap.8 im Bürgerhaus Kinderhaus und des Begegnungszentrums Meerwiese in Coerde an neue steuerrechtliche Rahmenbedingungen. - einstimmig beschlossen
+- TOP 36: Umnutzung einer Flüchtlingseinrichtung zu einer Wohnungsloseneinrichtung an der Marie-Curie-Straße 3 - 3e im Stadtteil Hiltrup - einstimmig beschlossen
+- TOP 37: Bericht des Stadtarchivs zu den Plänen für die Einweihung der Informations-Stele am Train-Denkmal und zur Aufarbeitung der kolonialen Geschichte der Stadt - zur Kenntnis genommen
+- TOP 38: Kommunaler Pflegebedarfsplan 2022-2025 - einstimmig beschlossen
+- TOP 39: Landschaftsplan Roxeler Riedel - Änderung Bereichsfestsetzungen - mehrheitlich beschlossen
+- TOP 40: Sanierung Prinzipalmarkt 5 - Baubeschluss - einstimmig beschlossen
+- TOP 41: Bauleitplanung
+- TOP 41.1: Stadtbezirk Münster-Mitte
+- TOP 41.1.1: 104. FNP-Änderung - Klosterareal Pluggendorf - Abschließender Beschluss - einstimmig beschlossen
+- TOP 41.2: Stadtbezirk Münster-West
+- TOP 41.2.1: Bebauungsplan Nr. 621 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 42: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 42.1: Zwischennutzung des Gasometers - mehrheitlich beschlossen
+- TOP 42.2: Kommunaler Maßnahmenplan zur Verhinderung von Energiearmut - mehrheitlich geändert beschlossen
+- TOP 42.3: Resolution des Rates der Stadt Münster Nachhaltige Finanzierung für die Münsterland S-Bahn sicherstellen - einstimmig beschlossen
+- TOP 43: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 43.1: Sammelboxen für Pfandflaschen neben Mülleimern installieren - verwiesen
+- TOP 43.2: Den Bäderbetrieb endlich mit mehr Kundenorientierung weiterentwickeln - verwiesen
+- TOP 43.3: Wohlige Wärme aus der Tiefe – unerschöpflich und klimaneutral - Münster wird Stadt der Tiefen Geothermie - verwiesen
+- TOP 43.4: Mehr Aufenthaltsqualität am Alten Steinweg - verwiesen
+- TOP 43.5: Parkplatzflächen auf dem Messegelände für die Energiegewinnung nutzen – ein Solar Carport installieren - verwiesen
+- TOP 43.6: Raumsituation des Drogenhilfezentrums INDRO e.V. im Quartier Bremer Platz deutlich verbessern - Prüfauftrag - verwiesen
+- TOP 43.7: Fachkräfte für Münster – ein International Professionals Office einrichten - verwiesen
+- TOP 43.8: Controlling bezüglich Kosten für Bau und Anmietung verbessern - verwiesen
+- TOP 43.9: Pilotprojekt Ausbildungswerkstatt – Ausbildung im Konzern Stadt Münster stärken und Mitarbeitende entlasten - verwiesen
+- TOP 43.10: Die Zukunft der Wärme liegt in den Erneuerbaren Energien: Fernwärmesatzung für eine sichere und klimaneutrale Energieversorgung in Münster - verwiesen
+- TOP 44: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 44.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 45: Bestellung von Vertretungen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes IV Havixbeck-Roxel sowie den Ausschuss des Wasser- und Bodenverbandes Münster-Südost - einstimmig geändert beschlossen
+- TOP 46: Verschiedenes
