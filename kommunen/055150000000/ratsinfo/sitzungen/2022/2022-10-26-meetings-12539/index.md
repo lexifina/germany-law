@@ -1,0 +1,55 @@
+# 15. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-10-26T16:04:00+02:00
+- Ende: 2022-10-26T20:21:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12539
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12539
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00517124.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Bearbeitungsstand Ratsanträge - 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 3: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2019 - einstimmig beschlossen
+- TOP 4: Aktualisierung der Richtlinie zum Förderprogramm "Klimafreundliche Wohngebäude für Münster" - einstimmig beschlossen
+- TOP 4.1: Aktualisierung der Richtlinie zum Förderprogramm "Klimafreundliche Wohngebäude für Münster"
+- TOP 5: Selbstbestimmt und diskriminierungsfrei in unserer Stadt leben können – ein „Aktionsplan LSBTIQ*“ für Münster - zur Kenntnis genommen
+- TOP 6: LSBTIQ* Sichtbarkeit / Regenbogenfarben im Stadtbild - einstimmig beschlossen
+- TOP 6.1: LSBTIQ* Sichtbarkeit / Regenbogenfarben im Stadtbild
+- TOP 7: Bericht zum Pilotprojekt "Bereitstellung kostenloser Hygieneartikel" - zur Kenntnis genommen
+- TOP 8: Nutzungsperspektiven der Tiefengeothermie für eine klimaneutrale Wärmeversorgung in Münster - ohne Beschlussfassung geschoben
+- TOP 9: Weiterentwicklung der digitalen Gremienarbeit - einstimmig beschlossen
+- TOP 10: Vergütung von Praktika - einstimmig beschlossen
+- TOP 11: Antrag an den Rat Nr. A-R/0091/2021 "Investitionsprogramm realistischer gestalten" - Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen/GAL, der SPD-Fraktion und der Ratsgruppe VOLT im Rat der Stadt Münster - einstimmig beschlossen
+- TOP 12: Westfälische Bauindustrie (WBI): Novellierung des Gesellschaftsvertrages - ohne Beschlussfassung geschoben
+- TOP 13: Anpassung des Gesellschaftsvertrags und der Geschäftsordnung für die Geschäftsführung der Wirtschaftsförderung Münster GmbH (WFM) - ohne Beschlussfassung geschoben
+- TOP 14: Überplanmäßige Mittelbereitstellung im Haushaltsjahr 2022 - einstimmig beschlossen
+- TOP 15: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023 - von der Tagesordnung abgesetzt
+- TOP 16: Betrauungsakt der Stadt Münster für die Wohn- und Stadtbau GmbH, Steinfurter Str. 60, 48149 Münster als Käuferin eines Grundstücks der KonvOY GmbH - einstimmig beschlossen
+- TOP 17: Wohnbaulandentwicklung bis zum Jahr 2030 – Fortschreibung des Baulandprogramms - ohne Beschlussfassung geschoben
+- TOP 18: Richtlinie der Stadt Münster zur Verwendung der Mittel gem. § 11 Abs. 2 ÖPNVG NRW - einstimmig beschlossen
+- TOP 19: Innenstadt stärken: MikroKiez Martiniviertel, Förderantrag und Planungen zum Landeswettbewerb Zukunft StadtRaum - ohne Beschlussfassung geschoben
+- TOP 20: Urbanes Grün als Ressource für Mensch und Umwelt (A-R/0034/2021) - einstimmig beschlossen
+- TOP 21: Verfahrensstand zum Ausbau des städtischen Stadions an der Hammer Straße – Einsetzbares Budget und Reihenfolge der Module sowie Berücksichtigung von Preis und Wirtschaftlichkeit im TÜ-Verfahren - zur Kenntnis genommen
+- TOP 22: Neuregelung der Nutzungs- und Eigentumsverhältnisse der Buchbinderwerkstatt im Adolph-Kolping-Berufskolleg - ohne Beschlussfassung geschoben
+- TOP 23: Kommunaler Digitalpakt : Ertüchtigung der IT-Infrastruktur der Schulen, die nicht im Förderprogramm Digital Pakt Schule berücksichtigt wurden - einstimmig beschlossen
+- TOP 24: Absichtserklärung zur Verlagerung des Johann-Conrad-Schlaun Gymnasiums nach Angelmodde - ohne Beschlussfassung geschoben
+- TOP 25: Anpassung der Entgeltordnungen des Kap.8 im Bürgerhaus Kinderhaus und des Begegnungszentrums Meerwiese in Coerde an neue steuerrechtliche Rahmenbedingungen. - einstimmig beschlossen
+- TOP 26: Umnutzung einer Flüchtlingseinrichtung zu einer Wohnungsloseneinrichtung an der Marie-Curie-Straße 3 - 3e im Stadtteil Hiltrup - einstimmig beschlossen
+- TOP 27: Bericht des Stadtarchivs zu den Plänen für die Einweihung der Informations-Stele am Train-Denkmal und zur Aufarbeitung der kolonialen Geschichte der Stadt - zur Kenntnis genommen
+- TOP 28: Kommunaler Pflegebedarfsplan 2022-2025 - einstimmig beschlossen
+- TOP 29: Landschaftsplan Roxeler Riedel - Änderung Bereichsfestsetzungen - einstimmig beschlossen
+- TOP 30: Sanierung Prinzipalmarkt 5 - Baubeschluss - einstimmig beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Mitte
+- TOP 31.1.1: 104. FNP-Änderung - Klosterareal Pluggendorf - Abschließender Beschluss - einstimmig beschlossen
+- TOP 31.2: Stadtbezirk West
+- TOP 31.2.1: Bebauungsplan Nr. 621 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 32: Verschiedenes
