@@ -1,0 +1,8 @@
+# TOP 3.3: Würdiges Gedenken des 17. Juni 1953
+
+- Sitzung: 7. öffentliche Sitzung des Ausschusses für Bildung und Kultur (2022-10-26)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=96678
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=96678
