@@ -1,0 +1,56 @@
+# 24. Sitzung des Kreistages Märkisch-Oderland
+
+- Körperschaft: Landkreis Märkisch-Oderland
+- Beginn: 2022-10-26T17:00:00+02:00
+- Ende: 2022-10-26T19:55:00+02:00
+- Ort: Erich-Weinert-Straße 13, 15306 Seelow
+- Status: 
+- Gremium: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://ratsinfo-online.net/landkreis-mol-bi/to010.asp?SILFDNR=1582
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/meetings.asp?id=1582
+- Quelle: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/download.asp?dtyp=105&id=98975
+- Ergebnisprotokoll: Niederschrift https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/download.asp?dtyp=110&id=100338
+
+## Tagesordnung
+
+- TOP 1: Zur Geschäftsordnung
+- TOP 1.1: Begrüßung und Eröffnung
+- TOP 1.2: Prüfung der Ordnungsmäßigkeit der Ladung
+- TOP 1.3: Entscheidung über Einwendungen gegen die Niederschrift (Öffentlicher Teil) der 23. Sitzung vom 07.09.2022
+- TOP 1.4: Feststellung der Tagesordnung
+- TOP 1.5: Feststellung von Ausschließungsgründen gem. § 22 BbgKVerf
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anfragen der Kreistagsabgeordneten
+- TOP 4: Information des Landrates zur aktuellen Situation im Landkreis
+- TOP 5: Information zu unerheblichen über- und außerplanmäßigen Aufwendungen und Auszahlungen 2022 des Landkreises Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 6: Bericht zur Situation in der Landwirtschaft im Landkreis Märkisch-Oderland im Jahr 2021 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 7: Beratung und Beschlussfassung zum Jahresabschluss des Entsorgungsbetriebes Märkisch-Oderland für das Geschäftsjahr 2021 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 8: Beratung und Beschlussfassung zur Entlastung der Werkleiterin des Entsorgungsbetriebes Märkisch-Oderland für das Geschäftsjahr 2021 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 9: Beratung und Beschlussfassung zur Bestellung eines Wirtschaftsprüfers zum Jahresabschluss des Entsorgungsbetriebes Märkisch-Oderland für das Geschäftsjahr 2022 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 10: Beratung und Beschlussfassung zur Vergabe der Leistung "Hochwertige Verwertung von Bioabfall aus dem Landkreis Märkisch-Oderland ab 01.04.2025" <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 11: Beratung und Beschlussfassung zur Bewilligung einer erheblichen außerplanmäßigen Auszahlung für den Erwerb eines Kommandowagens für die Brandschutzeinheit des Landkreises Märkisch-Oderland für das Haushaltsjahr 2022 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 12: Beratung und Beschlussfassung zur Gewährung eines Ausgleichs für VBB-Mindereinnahmen für 2021 und für gestiegene Kraftstoffpreise an die Märkisch-Oderland Bus GmbH (mobus) zur Sicherung des Systems ÖPNV <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 13: Beratung und Beschlussfassung zur Gewährung eines Ausgleichs für gestiegene Kraftstoffpreise an die Barnimer Busgesellschaft mbH (BBG) zur Sicherung des Systems ÖPNV <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 14: Beratung und Beschlussfassung zum Verkehrsvertrag mit der Strausberger Eisenbahn GmbH (STE) für die Jahre 2023-2031 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 15: Beratung und Beschlussfassung über die Änderung der Taxentarife im Landkreis Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 16: Beratung und Beschlussfassung zur Bewilligung einer außerplanmäßigen Verpflichtungsermächtigung für den Neubau Gymnasium Strausberg II im Landkreis Märkisch-Oderland für das Haushaltsjahr 2022 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 17: Beratung und Beschlussfassung zur Auftragsvergabe der Architektenleistungen Freianlagen für den Neubau Gymnasium Strausberg, Wriezener Straße 9, 15344 Strausberg <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 18: Beratung und Beschlussfassung zur Auftragsvergabe der Architektenleistungen Gebäude und Innenräume für den Neubau Gymnasium Strausberg, Wriezener Straße 9, 15344 Strausberg <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 19: Beratung und Beschlussfassung zur Errichtung einer Förderschule in Altlandsberg in Trägerschaft des Landkreises Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 20: Erörterung und Beschlussfassung zur Erhöhung des Essengeldes in der Kindertagespflege <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 21: Antrag zum Abschluss einer Öffentlich-Rechtlichen Vereinbarung zwischen den Landkreisen Märkisch-Oderland, Barnim, Oder-Spree und der kreisfreien Stadt Frankfurt (Oder) zum KFZ-Zulassungswesen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: FDP-Fraktion)</span>
+- TOP 22: Beratung zum Thema Wasserstrategie des Landkreises auf Antrag der Fraktion Bürndnis 90/Die Grünen-Pro Zukunft <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis90/Die Grünen-Pro Zukunft)</span>
+- TOP 23: Beratung und Beschlussfassung zur Beanstandung des Beschlusses über die Richtlinie zur Verhandlung und Festsetzung von Fachleistungsstundensätzen für ambulante Leistungen nach § 27 SGB VIII i.V.m. §30 und §31 SGB VIII und zur Abrechnung ambulanter Leistungen im Landkreis Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 24: Beratung und Beschlussfassung zur Beanstandung des Beschlusses über die Richtlinie zur Verhandlung und Festsetzung von Fachleistungsstundensätzen für ambulante Leistungen für junge Volljährige nach §§ 41 und 41a i.V.m. 30 SGB VIII und zur Abrechnungdieser Leistungen im Landkreis Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 25: Antrag zur Beratung und Beschlussfassung zum Thema Schadstoffeinträge in die Oder <span style="color: #888a85" title="Zusatzinfo">(Einreicher: AfD-Fraktion)</span>
+- TOP 26: Antrag zur Beratung und Beschlussfassung zum Thema Trinkwasserversorgungsbericht Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: AfD-Fraktion)</span>
+- TOP 27: Abberufung und Berufung eines sachkundigen Einwohners im Bildungsausschuss <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span>
+- TOP 28: Beratung und Beschlussfassung zur Berufung eines sachkundigen Einwohners in den Wirtschaftsausschuss <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span>
+- TOP 29: Wahl eines neuen Mitglieds im Jugendhilfeausschuss mit beschließender Stimme <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis90/Die Grünen-Pro Zukunft)</span>
+- TOP 30: Beratung und Beschlussfassung zur Bewilligung einer erheblichen überplanmäßigen Auszahlung für den Ausbau der digitalen Infrastruktur (Breitbandausbau) des Landkreises Märkisch-Oderland für das Haushaltsjahr 2022 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 31: Informationen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
