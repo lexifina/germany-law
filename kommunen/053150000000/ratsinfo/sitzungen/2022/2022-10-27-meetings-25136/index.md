@@ -1,0 +1,72 @@
+# 13. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-10-27T15:08:00+02:00
+- Ende: 2022-10-27T18:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25136
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25136
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer Anfrage 0742/2022 - Kenntnis genommen
+- TOP 1.2: Beantwortung der Anfrage Die Fraktion betr.: Begleitgremium Parkstadt-Süd - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen aus früheren Sitzungen
+- TOP 2.1.1: Volle Aufmerksamkeit für die Entwicklung des Deutzer Hafen und volle Transparenz der anstehenden Entscheidungen - Kenntnis genommen
+- TOP -: Beantwortung AN 1512/2022 - Kenntnis genommen
+- TOP 2.1.2: Deutzer Hafen – Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme - zurückgestellt
+- TOP 2.2: Aktuelle Anfragen
+- TOP 3: Anträge
+- TOP 3.1: Umwidmung des Parkplatzes zwischen römischer Stadtmauer, Zeughaus und Regierungspräsidium - zurückgestellt
+- TOP 3.2: Baugenehmigungs- und Wohnungsfertigstellungbericht - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren gemäß §§ 18 ff Allgemeines Eisenbahngesetz (AEG) für den Neubau eines südlichen Zuführungsgleises zur Abstellanlage der DB in Köln-Nippes - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Live-Stream der Sitzungen des Stadtentwicklungsausschusses - zurückgestellt
+- TOP 6.2: Gestaltungsbeirat der Stadt Köln; Anpassung der Geschäftsordnung des Gestaltungsbeirates - geändert beschlossen
+- TOP -: Gestaltungsbeirat der Stadt Köln: Anpassung der Geschäftsordnung - ungeändert beschlossen
+- TOP 6.3: Verlängerung des Durchführungszeitraumes für Sanierungsmaßnahmen im Geltungsbereich der Sanierungssatzung 'Rheinboulevard beiderseits des Rheins mit Umfeld Bahnhof Köln Messe/Deutz' - ungeändert beschlossen
+- TOP 6.4: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Franz-Geuer-Straße Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsp - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nummer 6250/04; Arbeitstitel: Gewerbe- und Medienpark in Köln-Ossendorf, 7. Änderung Motorworld Bürogebäude und Autohaus - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 10.1 - Gewerbe- und Medienpark Köln-Ossendorf - zurückgestellt
+- TOP 10.2: Städtebauliches Planungskonzept "Dorotheenstraße" in Köln-Porz Anhörung zur Unterrichtung der Öffentlichkeit, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.4: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Einrichtung eines Mikrodepots in Köln Deutz - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) gemäß § 12 Baugesetzbuch (BauGB) in Verbindung mit § 13b BauGB Arbeitstitel: "Am Bilderstöckchen" in Köln-Bilderstöckchen - geändert beschlossen
+- TOP -: Top 10.5 Am Bilderstöckchen 3166/2022 - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Städtebauliches Planungskonzept Deutzer Hafen in Köln-Deutz; - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 18: Mitteilungen
+- TOP 18.1: Öffentlichkeitsbeteiligung und Möglichkeit der Teilhabe von Menschen mit Behinderung - Kenntnis genommen
+- TOP 18.2: Erste Gespräche zur Abstimmung neuer Regelung für die Außengastronomie hier: Sachstand - Kenntnis genommen
+- TOP 18.3: Häuser der Russischen Föderation - Handlungsmöglichkeiten der Stadt Köln - Kenntnis genommen
+- TOP 18.4: Stellungnahme zum Änderungsantrag AN/1266/2022 - Kenntnis genommen
+- TOP 18.5: Bevölkerungsentwicklung 2021 - Rückgang der Bevölkerungszahl durch sinkende Zuzüge - Kenntnis genommen
+- TOP 18.6: Autonomes Zentrum - Sachstandsbericht über den Dialog zur Alternativstandortfrage - Kenntnis genommen
+- TOP 18.7: Deutzer Hafen Hier: 1. Sitzung des Begleitgremiums; Ergebnisprotokoll - Kenntnis genommen
+- TOP 18.8: Erster Evaluationsbericht Audit „Generationengerechtes Wohnen im Quartier“ in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 18.9: Liste der Großbauprojekte - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.10: Regionalplanneuaufstellung, hier: Stellungnahmen der interkommunalen Kooperationen Kölns - Kenntnis genommen
+- TOP 18.11: Niederschriften des Begleitgremiums Parkstadt Süd vom 12.09.2019, 25.06.2020 und 08.06.2021 - Kenntnis genommen
+- TOP 18.12: Bebauungsplanverfahren "Linder Höhe" in Köln-Porz: Verfahren aufgegeben wegen Lärmproblematik - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.13: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel" - Kenntnis genommen
+- TOP 18.14: Hallen Kalk – der Osthof: - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
