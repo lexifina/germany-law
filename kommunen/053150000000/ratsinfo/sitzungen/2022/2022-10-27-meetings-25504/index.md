@@ -1,0 +1,88 @@
+# 15. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-10-27T16:00:00+02:00
+- Ende: 2022-10-27T22:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25504
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25504
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktuelle Stunde: Sachstand unseres Beschlusses/DA zum Kwartier Latäng vom 26.09.2022 und Stand Vorbereitung/Planung 11.11.2022, Antrag Grüne, FDP, Die Partei
+- TOP 1.2: Aktuelle Stunde: Ist Gotland noch zu retten?, Antrag Bezirksbürgermeister
+- TOP 1.3: Information Sachstand Geruchsgutachten Weidengasse
+- TOP 1.4: Vorstellung Campus Kartause, Projektvorstellung
+- TOP 1.5: Aktuelle Stunde: Fällung von sechs Bäumen auf der Kragplatte sowie aktueller Sachstand zum Abbruch und Ersatzneubau der Kragplatte, Antrag Bezirksbürgermeister
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Errichtung eines Neubautraktes, Generalinstandsetzung und Neubau von sechs Sporthalleneinheiten für das Gymnasium Kreuzgasse, Vogelsanger Str. 1, 50672 Köln durch Totalunternehmen - Erweiterter Planungsbeschluss und Baubeschluss - geändert beschlossen
+- TOP 3.2: Abbruch des Schulgebäudes der Gemeinschaftsgrundschule Antwerpener Straße 19-29, Köln-Neustadt/-Nord - geändert beschlossen
+- TOP 3.3: Vergabe Stadtklima und Stadtverschönerungsmittel 2022 im Stadtbezirk Innenstadt, Teil II - ungeändert beschlossen
+- TOP 3.4: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Einrichtung eines Mikrodepots in Köln Deutz - ungeändert beschlossen
+- TOP 3.5: Einrichtung einer Buslinie auf der Inneren Kanalstraße - geändert beschlossen
+- TOP 3.5.1: ÄA zu 1964/2022 - Einrichtung einer Buslinie auf der Inneren Kanalstraße, gem. Änderungsantrag Grüne, SPD, FDP, KlimaFreunde und Die Partei
+- TOP 3.6: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - geändert beschlossen
+- TOP 3.6.1: ÄA zu 2441/2022 / Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027, Änderungsantrag Grüne
+- TOP 3.7: Städtebauliches Planungskonzept Deutzer Hafen in Köln-Deutz; - geändert beschlossen
+- TOP 3.8: Sanierung und Neugestaltung Spielplatz und Grünzug Otto Gerig Straße in Deutz - ungeändert beschlossen
+- TOP 3.9: Baubeschluss für den barrierefreien Umbau der Bushaltestelle Ubierring auf der KVB-Linie 133 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 3.9.1: ÄA zu 3128/2022 "Baubeschluss für den barrierefreien Umbau der Bushaltestelle Ubierring auf der KVB-Linie 133 im Stadtbezirk Innenstadt, Änderungsantrag Grüne, Die Linke, KlimaFreunde, Die Partei
+- TOP 3.10: Verlängerung des Durchführungszeitraumes für Sanierungsmaßnahmen im Geltungsbereich der Sanierungssatzung 'Rheinboulevard beiderseits des Rheins mit Umfeld Bahnhof Köln Messe/Deutz' - ungeändert beschlossen
+- TOP 3.11: Förderprogramm "Dritte Orte" - 3. Genehmigung für die Förderphase 2022 ff. - ungeändert beschlossen
+- TOP 3.12: Weihnachtsmarkt auf dem Chlodwigpplatz 2022 - ungeändert beschlossen
+- TOP 3.13: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2023 - ungeändert beschlossen
+- TOP 3.14: Anpassung Nutzungskonzept für die zentralen Innenstadtplätze für den Zeitraum 01.01. - 31.12.2023 - zurückgestellt
+- TOP 3.15: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, 2022 Teil III - ungeändert beschlossen
+- TOP 3.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: „Waidmarkt“ Aktenzeichen 33/22 B - Temporäre Platzgestaltung Waidmarkt Nord (nördlich Baustelle Gleiswechselbauwerk) - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe nach § 24 GO – „Ausverkauf des Deutzer Hafens stoppen“ - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Fahrradrampe Severinsbrücke (Az.: 02-1600-122-22) - zurückgestellt
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr. Abschaffung aufgesetztes Parken und Öffnung für den Radverkehr in Gegenrichtung Agrippastraße zwischen Krummer Büchel und Hohe Pforte (Az.: 02-1600-75-22) - geändert beschlossen
+- TOP 4.5: Bürgereingabe nach § 24 GO NRW– "Klimawandel Deutz – Entsiegelung der Deutzer Werft" Aktenzeichen 115/22 B - geändert beschlossen
+- TOP 4.5.1: Änderungsantrag zur Vorlage 2625/2022 - Bürgereingabe Deutzer Werft, Änderungsantrag Grüne
+- TOP 4.6: Bürgereingabe nach § 24 GO - Deutzer Freiheit - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Mehr umsteigefreie Busverbindungen zum Hauptbahnhof, Antrag FDP - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Einrichtung von Abstellzonen für Mietfahrzeuge, Antrag Grüne - geändert beschlossen
+- TOP 5.2.2: Aufstellen von Schachtischen im Inneren Grüngürtel, gem. Antrag B90/Grüne, CDU, SPD, Die Linke, FDP, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP 5.2.3: Verlängerung von Lieferzeiten auf dem Alter Markt, Antrag FDP - ungeändert beschlossen
+- TOP 5.2.4: Radfahrstreifen auf der Siegburger Straße, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.5: AWB-Betriebshof Alteburger Straße: Fahrten durch stark bewohnte Gebiete vermeiden, gem. Antrag SPD, CDU und Die Linke - Sache ist erledigt
+- TOP 5.2.6: Zusätzliches Fahrradparken in Deutz, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.7: Anbringen eines versenkbaren Pollers an der Apostelnkirche, gem. Antrag B90/Grüne, CDU, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.8: Prüfantrag zu verfügbaren Städtebaufördermittel, gem. Antrag B90/Grüne, CDU, SPD, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.9: Reduzierung der versiegelten Flächen am Venloer Wall/Grüngürtel, Dringlichkeitsantrag Grüne, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Gestaltung des Historischen Parks Deutz, Anfrage CDU - Sache ist erledigt
+- TOP 6.1.1.1: Beantwortung der Anfrage - Gestaltung des Historischen Park Deutz, Anfrage der CDU - Kenntnis genommen
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Stand Interessensbekundungsverfahren Fort X, Anfrage Grüne - Sache ist erledigt
+- TOP 6.2.1.1: Beantwortung der Anfrage von der Fraktion Bündnis 90/Die Grünen betreffend der Interessenbekundungen zum Fort X am Neusser Wall (AN 1693/2022) - Kenntnis genommen
+- TOP 6.2.2: Ruhestörung in der Rubensstraße, Anfrage SPD - zurückgestellt
+- TOP 6.2.3: Sachstand Verkehrsberuhigende Maßnahmen in der Südstadt: Eburonenstraße / Maternusstraße, Anfrage Grüne - zurückgestellt
+- TOP 6.2.4: Bildungslandschaft Altstadt Nord - Renovierungsarbeiten, Anfrage CDU - zurückgestellt
+- TOP 6.2.5: Historische Wasserpumpe auf dem Alter Markt; Anfrage CDU - zurückgestellt
+- TOP 6.2.6: Anfrage zu Waffenverbotszonen, Anfrage FDP - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 9.2: Aktivitäten 2022 des House of Resources (HoR) in Köln und diesjährige Bundeskonferenz der Houses of Resources am 4.11.2022 - Kenntnis genommen
+- TOP 9.3: Stellungnahme zum Antrag gem. § 3 der Geschäftsordnung des Rates zur Neufassung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - Kenntnis genommen
+- TOP 9.4: Generalsanierung der Bastei - Kenntnis genommen
+- TOP 9.5: 1. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2023/2024 - Kenntnis genommen
+- TOP 9.6: Erste Gespräche zur Abstimmung neuer Regelung für die Außengastronomie hier: Sachstand - Kenntnis genommen
+- TOP 9.7: 20. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 9.8: Sachstandsbericht - Kenntnis genommen
+- TOP 9.9: Deutzer Hafen Hier: 1. Sitzung des Begleitgremiums; Ergebnisprotokoll - Kenntnis genommen
+- TOP 9.10: Einrichtung einer Fahrradstraße im Pantaleonswall (Abschnitt zwischen Am Weidenbach und Am Trutzenberg) - Kenntnis genommen
+- TOP 9.11: Liste der Großbauprojekte - Kenntnis genommen
