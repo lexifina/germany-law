@@ -1,0 +1,7 @@
+# TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Sitzung der Stadtarbeitsgemeinschaft Seniorenpolitik (2022-10-28)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/362367
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
