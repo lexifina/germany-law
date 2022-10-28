@@ -8,4 +8,4 @@
 - [§ 5 Ausschluss der Haftung](0005.md)
 - [§ 6 Übertragung der Befugnis zum Erlass von Rechtsverordnungen](0006.md)
 - [§ 7 Inkrafttreten, Außerkrafttreten](0007.md)
-- [Anlage (zu § 1 Absatz 1 und § 6)Energiekorridor-Netz](anlage.md)
+- [Anlage 1 (zu § 1 Absatz 1 und § 6)Energiekorridor-Netz](anlage-1.md)
