@@ -53,12 +53,18 @@ und Immissionen, sicherheitstechnische Prüfungen
 | § 30 | Kosten der Messungen und sicherheitstechnischen Prüfungen |
 | § 31 | Auskunftspflichten des Betreibers |
 Vierter Abschnitt
-Brennstoffwechsel bei einer Mangellage
+Sonderregelungen zur
+Bewältigung einer Gasmangellage
 | § 31a | Abweichungen nach Artikel 30 Absatz 5 der Richtlinie 2010/75/EU |
 | § 31b | Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU |
 | § 31c | Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193 |
 | § 31d | Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193 |
-| §§ 31e bis 31j | (zukünftig in Kraft) |
+| § 31e | Zulassung vorzeitigen Beginns bei einer Gasmangellage |
+| § 31f | Beteiligung der Öffentlichkeit in Genehmigungsverfahren |
+| § 31g | Entbehrlichkeit einer Änderungsanzeige oder Änderungsgenehmigung |
+| § 31h | Abweichungen von der Vierten Verordnung zum Bundes-Immissionsschutzgesetz |
+| § 31i | Abweichungen von der Technischen Anleitung zur Reinhaltung der Luft |
+| § 31j | Überschreitung von Immissionsrichtwerten der Technischen Anleitung zum Schutz gegen Lärm |
 | § 31k | Abweichungen von Vorgaben zu nächtlichen Geräuschwerten und zur Vermeidung von Schattenwurf bei Windenergieanlagen |
 | § 31l | Übergangsregelungen zu den §§ 31e bis 31k |
 Dritter Teil
