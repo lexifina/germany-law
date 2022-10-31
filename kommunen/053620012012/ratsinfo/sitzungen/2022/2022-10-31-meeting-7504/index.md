@@ -1,0 +1,83 @@
+# Rat (14. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-10-31T17:02:00+01:00
+- Ende: 2022-11-01T22:54:00+01:00
+- Ort: Max-Ernst-Gymnasium, Rodderweg 66, 50321 Brühl, Aula
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZW3_HxnqcUPxTrlxyPfFewQ
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7504
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQmrF5LdDGy8FIw7RJqxi1bs9r3OHQI81JSQkwOGEp5u/Bekanntmachung_Rat_31.10.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRTo9bBl26S6D1-ebIb601AIA-yCfKZ0bgJS-VE3wGEe/Oeffentliche_Niederschrift_Rat_31.10.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Neubau Feuerwache I
+- TOP 1.2: Neubau Feuerwache II
+- TOP 1.3: Neubau Feuerwache III
+- TOP 1.4: Neubau Feuerwache IV
+- TOP 1.5: Neubau Feuerwache V
+- TOP 1.6: Neubau Feuerwache VI
+- TOP 1.7: Neubau Feuerwache VII
+- TOP 1.8: Neubau Feuerwache VIII
+- TOP 1.9: Neubau Feuerwache IX
+- TOP 1.10: Neubau Feuerwache X
+- TOP 1.11: Neubau Feuerwache XI
+- TOP 1.12: Neubau Feuerwache XII
+- TOP 1.13: Neubau Feuerwache XIII
+- TOP 1.14: Neubau Feuerwache XIV
+- TOP 1.15: Neubau Feuerwache XV
+- TOP 2.: Niederschrift vom 29.08.2022
+- TOP 3.: Niederschrift vom 19.09.2022
+- TOP 4.: Neubau Feuerwache Freigabe der Leistungsphase 2 -Vorplanung- Bezug: Vorlagen-Nr.: 376/2022; HA 15.08.2022 - (kein Text vorhanden)
+- TOP 4.1: Neubau Feuerwache Freigabe der Leistungsphase 2 -Vorplanung- Hier: Kostenschätzung Bezug: Vorlagen-Nr. 464/2022
+- TOP 5.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2023 - (kein Text vorhanden)
+- TOP 6.: Ausschreibung der Stelle einer/eines Beigeordneten - (kein Text vorhanden)
+- TOP 7.: Job-Ticket-Ausgabe in 2023 - (kein Text vorhanden)
+- TOP 8.: Beteiligungsverfahren der Beitragspflichtigen gemäß § 8a Abs. 4 Kommunalabgabengesetz NRW zum geplanten Einbau einer Regenwasserbehandlungsanlage in der Straße Theismühle – Absehen von der verbindlichen Anliegerversammlung - (kein Text vorhanden)
+- TOP 9.: Richtlinie der Stadt Brühl über die Vergabe eines Zuschusses zur Aufwertung privater Gebäude- und Freiflächen im Rahmen der Umsetzung des ISEK Brühl-Innendstadt 2.0 - (kein Text vorhanden)
+- TOP 10.: Bebauungsplan 04.24 „Grundstück südlich Parkstraße 20“ -Aufstellungsbeschluss- - (kein Text vorhanden)
+- TOP 11.: Folgenutzungskonzept des ehemaligen Friedhofs Brühl-Kierberg - Antrag SPD-Fraktion und Fraktion Bündnis90 / Die Grünen zu Erweiterung der Fläche für Spielbereich - - (kein Text vorhanden)
+- TOP 12.: Öffentlich-rechtliche Vereinbarung zwischen dem Rhein-Erft-Kreis und den kreisangehörigen Kommunen zur Abrechnung der Krankenhilfekosten nach §§ 2, 4 Asylbewerberleistungsgesetz (AsylbLG) - (kein Text vorhanden)
+- TOP 13.: Berichtspflicht zu den Aufwendungen und Erträgen bezüglich der Aufnahme und Unterbringung von Kriegsvertriebenen aus der Ukraine zum Stand 30.09.2022
+- TOP 14.: 1. Änderungssatzung zur Stellplatzsatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 15.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 15.1: Überplanmäßige Mittelbereitstellung für Bauunterhaltungskonto Gebäudemanagement - (kein Text vorhanden)
+- TOP 15.2: Apl. Mittelbereitstellung für Herrichtung Flüchtlingsunterkunft Wingertsberg 32 Bezug: Rat 29.08.2022 - (kein Text vorhanden)
+- TOP 16.: Bestellung von Vertretern der Stadt in besonderen Einrichtungen
+- TOP 16.1: Bestellung von Vertretungen der Stadt in besonderen Einrichtungen hier: Umbesetzungen in Stiftungsrat und Vorstand der "Stiftung Max Ernst" - (kein Text vorhanden)
+- TOP 16.2: Bestellung von Vertretungen der Stadt Brühl in besonderen Einrichtungen hier: Umbesetzung Zweckverband Volkshochschule Rhein/Erft -Verbandsversammlung - (kein Text vorhanden)
+- TOP 16.3: Wahl eines neuen Verbandsvorstehers in der Verbandsversammlung des Palmersdorfer Bachverbandes - (kein Text vorhanden)
+- TOP 17.: Gesetz zur Einführung digitaler Sitzungen für kommunale Gremien und zur Änderung kommunalrechtlicher Vorschriften
+- TOP 18.: Sachkunde und Fortbildung von Gremienmitgliedern gemäß zu § 113 Abs. 6 GO
+- TOP 19.: Anträge
+- TOP 19.1: Offensive für regenerative Energien für Brühl Bezug: Gemeinsamer Antrag der Fraktionen SPD und Grüne vom 13.10.2022 - (kein Text vorhanden)
+- TOP 20.: Umbesetzung in Ausschüssen
+- TOP 20.1: Umbesetzung in Ausschüssen Bezug: Antrag der AfD-Fraktion vom 28.09.2022 - (kein Text vorhanden)
+- TOP 20.2: Umbesetzung im Schulausschuss Hier: Vertretung der Stadtschulpflegschaft - (kein Text vorhanden)
+- TOP 20.3: Umbesetzung im Sozialausschuss hier: mündlicher Antrag der Grünen-Fraktion
+- TOP 20.4: Umbesetzung im Sportausschuss und im Sozialausschuss Bezug: Antrag der SPD-Fraktion vom 31.10.2022
+- TOP 20.5: Umbesetzung im Sportausschuss Bezug: Mündlicher Antrag der CDU-Fraktion
+- TOP 21.: Mitteilungen
+- TOP 22.: Anfragen
+- TOP 22.1: Meldesysteme im Katastrophenfall Bezug: Anfrage der AfD-Fraktion vom 05.10.2022
+- TOP 22.1.1: Meldesysteme Katastrophenfall Bezug: Anfrage von der AfD-Fraktion vom 05.10.2022 zur Ratssitzung am 31.10.2022, Vorlagen-Nr.: 475/2022
+- TOP 22.2: Verkehrssituation Kreisverkehr Brühl-Süd
+- TOP 22.3: Gesamtschule Brühl
+- TOP 22.4: Interaktiver Haushalt 2023
+- TOP 22.5: Beschädigung Gedenktafel
+- TOP 22.6: Integrationsrat
+- TOP 22.7: Bodengutachten
+- TOP B): Nichtöffentliche Sitzung
+- TOP 23.: Organisatorische und personelle Änderungen im Zusammenhang mit der Auflösung des Stadtservicebetriebes -AÖR- und der Rückführung in die Stadtverwaltung zum 01.01.2023 sowie die Änderung des Geschäftskreises des Dezernates I - (kein Text vorhanden)
+- TOP 24.: Darlehensgewährung an Stadtwerke Brühl GmbH
+- TOP 24.1: Darlehensgewährung an Stadtwerke Brühl GmbH und Gebausie - (kein Text vorhanden)
+- TOP 25.: Liquiditätskreditgewährung an Stadtwerke Brühl GmbH
+- TOP 25.1: Liquiditätskreditgewährung an Stadtwerke Brühl GmbH und Gebausie - (kein Text vorhanden)
+- TOP 26.: Bericht über die 162. Sitzung des Aufsichtsrates der REVG mbH am 23.06.2022
+- TOP 27.: Mitteilungen
+- TOP 28.: Anfragen
