@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse Dolmetscher und Übersetzer
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-03-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19546.1
+- Datum: 2022-11-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19546.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.03.2022
+01.11.2022
 bis
-31.10.2022
+03.04.2025
 
 VwV Zeugnisse Dolmetscher und Übersetzer
 
@@ -202,9 +202,9 @@ Fsn-Nr.: 304-V22.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. März 2022
+Fassung gültig ab:  1. November 2022
 
-Fassung gültig bis: 31. Oktober 2022
+Fassung gültig bis:  3. April 2025
 
 Drucken/Speichern
 
@@ -231,7 +231,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19546.1
+https://www.revosax.sachsen.de/vorschrift/19546.2
 Stand vom
 18.11.2026
 
