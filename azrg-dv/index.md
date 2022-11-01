@@ -12,7 +12,7 @@
 
 - [§ 4 Allgemeine Regelungen](0004.md)
 - [§ 5 Verfahren der Datenübermittlung](0005.md)
-- [§ 6 Begründungstexte](0006.md)
+- [§ 6 Dokumente](0006.md)
 - [§ 7 Übermittlungssperren](0007.md)
 
 ## Abschnitt 3 Datenübermittlung durch die Registerbehörde

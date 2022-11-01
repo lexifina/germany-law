@@ -27,6 +27,8 @@ Allgemeiner Datenbestand
 | Geschäftszeichen der Registerbehörde (AZR-Nummer) |  | – Zuspeicherung durch die Registerbehörde | – wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes – |
 | § 3 Absatz 4 Nummer 2 | (3) |  |  |  | §§ 5, 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, § 21 des AZR- Gesetzes |
 | Geschäftszeichen der Registerbehörde (AZR-Nummer) |  | – Zuspeicherung durch die Registerbehörde | – nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
+| § 3 Absatz 1 Nummer 10 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 des AZR-Gesetzes |
+| Geschäftszeichen des Bundesverwaltungsamtes (BVA-Verfahrensnummer) | (1) | (5) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | –Ausländerbehörden |
 | A | A1*) | B**) | C | D |
 | 3 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
@@ -39,7 +41,8 @@ Allgemeiner Datenbestand
 | e) | Geburtsdatum | (7) |  |
 | f) | Geburtsort, -land und -bezirk | (7) |  |
 | g) | Geschlecht | (7) |  |
-| h) | Staatsangehörigkeiten | (7) |  |
+| h) | Doktorgrad | (7) |  |
+| i) | Staatsangehörigkeiten | (7) |  |
 |  |
 | § 3 Absatz 4 Nummer 4 | (2) | – wie vorstehend – | § 6 Absatz 1 Nummer 1 bis 5 und Absatz 3 des AZR-Gesetzes |  |
 | Grundpersonalien | – die zu Personenkreis (1) in Spalte C Nummer I genannten Stellen– alle öffentlichen Stellen für die Einstellung von Suchvermerken | - wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes |
@@ -51,38 +54,40 @@ Allgemeiner Datenbestand
 | A | A1*) | B**) | C | D |
 | 3a | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 2 Nummer 4 bis 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 zu Buchstabe c bis f und h bis i | (1) |  |  | §§ 14, 15, 17, 17a, 18a bis 18e, 23, 23a, 24 des AZR-Gesetzes |
-| a) | begleitende minderjährige Kinder und Jugendliche, Elternteile, Ehegatten und Lebenspartner – Familienname – Vornamen | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis j–Aufnahmeeinrichtungen–die für die Unterbrin- gung in Gemeinschaftsunterkünften und die für den öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe k bis l–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstabe a bis j–Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a bis j–Bundesamt für Migra- tion und Flüchtlinge zu Spalte A Buchstabe a bis j– Meldebehörden zu Spalte A Buchstabe c | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivoll- zugsbehörden des Bundes und der Länder–Bundesamt für Migra- tion und Flüchtlinge–Staatsanwaltschaften–Statistisches Bundesamt zu Spalte A Buchstabe a (pseudonymisiertes Geschäftszeichen der Eltern von begleiteten Minderjährigen) und j–sonstige öffentliche Stellen zu Spalte A Buchstabe c, bei Ausländern nach § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1 nur bis zum unanfechtbaren Abschluss des Asylverfahrens–Zollkriminalamt zu Spalte A Buchstabe c, e bis ka–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes zu Spalte A Buchstabe a, c, e bis j–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe c–die für die Durchfüh- rung der Grundsicherung für Arbeitsuchende zuständigen Stellen zu Spalte A Buchstabe a, c, e bis j–Träger der Sozialhilfe zu Spalte A Buchstabe a, c, e bis l–für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen zu Spalte A Buchstabe a, c, e bis l– Meldebehörden zu Spalte A Buchstabe c–für den öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe a, c, e, f, k, ka und l–Jugendämter zu Spalte A Buchstabe a, c, e bis l–Gerichte zu Spalte A Buchstabe c–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
+| § 3 Absatz 2 Nummer 4 bis 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 zu Buchstabe c bis f und h bis i | (1) |  |  | §§ 15, 17, 18a bis 18d, 23, 24, 24a des AZR-Gesetzes |
+| a) | begleitende minderjährige Kinder und Jugendliche, Elternteile, Ehegatten und Lebenspartner – Familienname – Vornamen | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis j–Aufnahmeeinrichtungen–die für die Unterbringung in Gemeinschaftsunterkünften und die für den öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe k bis m–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden zu Spalte A Buchstabe a bis h und j–Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a bis h und j–Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a bis h und j– die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen zu Spalte A Buchstabe i | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivoll- zugsbehörden des Bundes und der Länder–Bundesamt für Migra- tion und Flüchtlinge–Staatsanwaltschaften–Statistisches Bundesamt zu Spalte A Buchstabe a (pseudonymisiertes Geschäftszeichen der Eltern von begleiteten Minderjährigen) und j–Zollkriminalamt zu Spalte A Buchstabe d bis h und j bis l–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes zu Spalte A Buchstabe a, d bis h und j–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständige Stellen zu Spalte A Buchstabe a, d bis h und j–Träger der Sozialhilfe zu Spalte A Buchstabe a, d bis h und j bis m–für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen zu Spalte A Buchstabe a, d bis m–die für den öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe a, d, e, k bis m–Jugendämter zu Spalte A Buchstabe a, d bis m–Bundesamt für Migration und Flüchtlinge zur Aufgabenerfüllung nach § 24a des AZR-Gesetzes zu Spalte A Buchstabe a, b, d bis h und j |
 | b) | Staat, aus dem die Einreise unmittelbar in das Bundesgebiet erfolgt ist | (7) |
-| c) | Anschrift im Bundesgebiet | (7) |
-| d) | Angaben über die Verteilung nach § 15a des Aufenthaltsgesetzes | (7) |
-| e) | Telefonnummern | (7) |
-| f) | E-Mail-Adressen | (7) |
-| g) | zuständige Aufnahmeeinrichtung | (7) |
-| h) | zuständige Ausländerbehörde | (7) |
-| i) | zuständiges Bundesland | (7) |
+|  |  |  |
+| c) | Angaben über die Verteilung nach § 15a des Aufenthaltsgesetzes | (7) |
+| d) | Telefonnummern | (7) |
+| e) | E-Mail-Adressen | (7) |
+| f) | zuständige Aufnahmeeinrichtung | (7) |
+| g) | zuständige Ausländerbehörde | (7) |
+| h) | zuständiges Bundesland | (7) |
+| i) | die für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stelle | (7) |
 | j) | Jugendamt der vorläufigen Inobhutnahme und endgültig zuständiges Jugendamt | (7) |
 | k) | Durchführung der Gesundheitsuntersuchung nach § 62 Absatz 1 des Asylgesetzes – Ort – Datum Durchführung der Untersuchung auf Vorliegen einer ansteckungsfähigen Lungentuberkulose nach § 36 Absatz 4 oder 5 des Infektionsschutzgesetzes – Ort – Datum | (7) |
-| ka) | die Feststellung, dass keine medizinischen Bedenken gegen die Aufnahme in eine Einrichtung der gemeinschaftlichen Unterbringung bestehen |  | (7) |
-| l) | Durchführung von Impfungen – Art – Ort – Datum |  | (7) |
+| l) | die Feststellung, dass keine medizinischen Bedenken gegen die Aufnahme in eine Einrichtung der gemeinschaftlichen Unterbringung bestehen |  | (7) |
+| m) | Durchführung von Impfungen – Art – Ort – Datum |  | (7) |
 | A | A1*) | B**) | C | D |
 | 4 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 5 | (1) |  |  |  | §§ 5, 14 bis 19, 21, 23, 23a, 24a des AZR-Gesetzes |
-| Weitere Personalien |  | I)– Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis i – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe a, b, d und f – in der Rechtsverord- nung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a, b, d und f – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a bis i – ermittlungsführende Polizeibehörden zu Spalte A Buchstabe a, b und d – Staatsanwaltschaften zu Spalte A Buchstabe a, b und d – Gerichte zu Spalte A Buchstabe a, b und d – Verfassungsschutzbe- hörden des Bundes und der Länder zu Spalte A Buchstabe a, b und dII)– Bundeskriminalamt zu Spalte A Buchstabe a, b und d – Landeskriminalämter zu Spalte A Buchstabe a, b und d – Zollkriminalamt zu Spalte A Buchstabe a, b und d – sonstige Polizeivoll- zugsbehörden der Länder zu Spalte A Buchstabe a, b und d – Staatsangehörigkeitsbehörden zu Spalte A Buchstabe a, b und d – in Angelegenheiten der Vertriebenen, Aussiedler und Spätaussiedler zuständige Stellen zu Spalte A Buchstabe a, b und d – Bundesnachrichtendienst zu Spalte A Buchstabe a, b und d – Militärischer Ab- schirmdienst zu Spalte A Buchstabe a, b und d – alle öffentlichen Stel- len für die Einstellung von Suchvermerken zu Spalte A Buchstabe a, b und d | I)– Ausländerbehörden zu Spalte A Buchstabe a bis i – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes zu Spalte A Buchstabe a bis i – Bundesamt für Migra- tion und Flüchtlinge zu Spalte A Buchstabe a bis i – Bundespolizei zu Spalte A Buchstabe a bis i – andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstabe a bis i – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind zu Spalte A Buchstabe a bis i – sonstige Polizeivoll- zugsbehörden der Länder zu Spalte A Buchstabe a bis i – deutsche Auslands- vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren zu Spalte A Buchstabe a bis i– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes– Träger der Deutschen Rentenversicherung zu Spalte A Buchstabe a bis d– Zollkriminalamt zu Spalte A Buchstabe fII)für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden zu Spalte A Buchstabe a bis i – Bundeskriminalamt zu Spalte A Buchstabe a bis i – Landeskriminalämter zu Spalte A Buchstabe a bis i – Staatsanwaltschaften zu Spalte A Buchstabe a bis i – Gerichte zu Spalte A Buchstabe a bis i – Bundesamt für Justiz zu Spalte A Buchstabe a, b und d – Zollkriminalamt zu Spalte A Buchstabe a bis d – Behörden der Zollver- waltung zu Spalte A Buchstabe a bis d und f– Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes zu Spalte A Buchstabe a bis fBundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe a bis d– die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen zu Spalte A Buchstabe a bis f– die für den öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe a bis d und f– die Jugendämter zu Spalte A Buchstabe a bis d und f – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen zu Spalte A Buchstabe a bis f und h – Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe c – Statistisches Bundes- amt zu Spalte A Buchstabe e und i – alle übrigen öffent- lichen Stellen zu Spalte A Buchstabe c– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
+| § 3 Absatz 1 Nummer 5 und 5b | (1) |  |  |  | §§ 5, 14 bis 19, 21, 23, 23a, 24a des AZR-Gesetzes |
+| Weitere Personalien |  | I.–Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe a, b, d, f und g–in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a, b, d, f und g–Bundesamt für Migration und Flüchtlinge–ermittlungsführende Polizeibehörden zu Spalte A Buchstabe a, b und d–Staatsanwaltschaften zu Spalte A Buchstabe a, b und d–Gerichte zu Spalte A Buchstabe a, b und d–Verfassungsschutzbehörden des Bundes und der Länder zu Spalte A Buchstabe a, b und d–RegistermodernisierungsbehördeII.–Bundeskriminalamt zu Spalte A Buchstabe a, b, d und g–Landeskriminalämter zu Spalte A Buchstabe a, b, d und g–Zollkriminalamt zu Spalte A Buchstabe a, b, d und g–sonstige Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a, b, d und g–Staatsangehörigkeitsbehörden zu Spalte A Buchstabe a, b und d–in Angelegenheiten der Vertriebenen, Aussiedler und Spätaussiedler zuständige Stellen zu Spalte A Buchstabe a, b und d–Bundesnachrichtendienst zu Spalte A Buchstabe a, b und d–Militärischer Abschirmdienst zu Spalte A Buchstabe a, b und d–alle öffentlichen Stellen für die Einstellung von Suchvermerken zu Spalte A Buchstabe a, b und d | I.–Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizeivollzugsbehörden der Länder–deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren–Träger der Deutschen Rentenversicherung zu Spalte A Buchstabe a bis d–Registermodernisierungsbehörde zur Aufgabenerfüllung nach § 6a des AZR-Gesetzes zu Spalte A Buchstabe cII.für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–Staatsanwaltschaften–Gerichte–Bundesamt für Justiz zu Spalte A Buchstabe a, b und d–Zollkriminalamt zu Spalte A Buchstabe a bis d, f und g–Behörden der Zollverwaltung zu Spalte A Buchstabe a bis d, f und g–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes zu Spalte A Buchstabe a bis g–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe a bis d–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen zu Spalte A Buchstabe a bis g–die für den öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe a bis d, f und g–die Jugendämter zu Spalte A Buchstabe a bis d, f und g–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen zu Spalte A Buchstabe a bis g und i–Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe c–Statistisches Bundesamt zu Spalte A Buchstabe e und i–alle übrigen öffentlichen Stellen zu Spalte A Buchstabe c–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes zu Spalte A Buchstabe a bis d, f und g |
 | a) | abweichende Namensschreibweisen – Familienname – Geburtsname – Vorname | (7) |
 | b) | andere Namen – Genanntname – Künstlername – Ordensname – nicht definierter Name | (7) |
 | c) | frühere Namen* | (7) |
 | d) | Aliaspersonalien – Familienname – Geburtsname – Vornamen – Geburtsdatum – Geburtsort und -bezirk – Geschlecht – Staatsangehörig- keiten | (7) |
 | e) | Familienstand | (7) |
-| f) | Angaben zum Ausweisdokument – Dokumentenart ● Reisepass ● Passersatzpapier ● sonstiges Reisedokument – Seriennummer – gültig bis – ausstellender Staat – aufbewahrende Stelle – geprüft ● durch ● am – Ergebnis der Prüfung ● Vordruck entspricht Vergleichsmaterial, Manipulation nicht festgestellt ● ge-/verfälscht ● nicht abschließend bewertbar – Zuordnung zu ● Grundpersonalien ● Aliaspersonalie Name | (7) |
-| g) | letzter Wohnort im Herkunftsland | (7) |
-| h) | freiwillig gemachte Angaben zur Religionszugehörigkeit | (7) |
-| i) | Staatsangehörigkeiten des Ehegatten oder des Lebenspartners | (7) |
-| § 3 Absatz 4 Nummer 5 | (2) | – wie vorstehend – | – die zu Personenkreis (1) in Spalte C Nummer I genannten Stellen – alle öffentlichen Stellen für die Einstellung von Suchvermerken zu Spalte A Buchstabe a, b und d | – wie vorstehend – |
+| f) | Angaben zum Ausweisdokument – Dokumentenart ● Reisepass ● Identitätskarte (ID Card)/Personalausweis ● Passersatzpapier ● sonstiges Reisedokument – Seriennummer – gültig bis – ausstellender Staat – ausstellende Behörde – aufbewahrende Stelle – geprüft ● durch ● am – Ergebnis der Prüfung ● Vordruck entspricht Vergleichsmaterial, Manipulation nicht festgestellt ● ge-/verfälscht ● nicht abschließend bewertbar – Zuordnung zu ● Grundpersonalien ● Aliaspersonalie Name | (7) |
+| g) | ausländische Personenidentitätsnummer | (7) |
+| h) | letzter Wohnort im Herkunftsland | (7) |
+| i) | freiwillig gemachte Angaben zur Religionszugehörigkeit | (7) |
+| j) | Staatsangehörigkeiten des Ehegatten oder des Lebenspartners | (7) |
+| § 3 Absatz 4 Nummer 5 | (2) | – wie vorstehend – | – die zu Personenkreis (1) in Spalte C Nummer I genannten Stellen – alle öffentlichen Stellen für die Einstellung von Suchvermerken zu Spalte A Buchstabe a, b und d | – wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes |
 | Weitere Personalien |
 | – wie vorstehend – |
-| § 3 Absatz 4 Nummer 5 | (3) | – wie vorstehend – | – nur die zu Personenkreis (1) in Spalte C Nummer I genannten Stellen | §§ 5, 15 Absatz 1 Satz 1 Nummer 1 und 6, §§ 21, 23 des AZR-Gesetzeszur Durchführung ausländer- oder asylrechtlicher Aufgaben: – die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen – Statistisches Bundesamt zu Spalte A Buchstabe e und i |
+| § 3 Absatz 4 Nummer 5 | (3) | – wie vorstehend – | – nur die zu Personenkreis (1) in Spalte C Nummer I genannten Stellen | §§ 5, 15 Absatz 1 Satz 1 Nummer 1 und 6, §§ 21, 23 des AZR-Gesetzeszur Durchführung ausländer- oder asylrechtlicher Aufgaben:–die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen–Statistisches Bundesamt zu Spalte A Buchstabe e und i |
 | Weitere Personalien |
 | – wie vorstehend – |
 |  |
@@ -100,6 +105,14 @@ Allgemeiner Datenbestand
 | a) | Fingerabdruckdaten einschließlich Referenznummer |  | (7) |
 | b) | Größe |  | (7) |
 | c) | Augenfarbe | (1) | (7) |
+| A | A1*) | B**) | C | D |
+| 5b | Personenkreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§§ 6, 6a des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
+| Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
+| § 3 Absatz 1 Nummer 5c und 5d |  |  |  | §§ 14, 15, 16, 17, 18a, 18b, 18c, 18d, 18e, 19, 23, 23a, 24a des AZR-Gesetzes |
+| Anschrift im Bundesgebiet |  |  | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Meldebehörden | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen–Bundesamt für Migration und Flüchtlinge–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–Bundeskriminalamt–Landeskrimnalämter–Sonstige Polizeivollzugsbehörden des Bundes und der Länder–Staatsanwaltschaften–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Gerichte zu Spalte A Buchstabe a–Zollkriminalamt zu Spalte A Buchstabe a–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen zu Spalte A Buchstabe a–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes zu Spalte A Buchstabe a–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe a |
+| a)gegenwärtige Anschrifteingezogen am |  | (5) |
+| b)frühere Anschriftenausgezogen am | (1) | (5) | –Aufnahmeeinrichtungen zu Spalte A Buchstabe a–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstabe a–Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a–Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a–Registermodernisierungsbehörde |
+|  |  |  |  | –die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen zu Spalte A Buchstabe a–für den öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe a–Jugendämter zu Spalte A Buchstabe a–Meldebehörden zu Spalte A Buchstabe a–Registermodernisierungsbehörde zur Aufgabenerfüllung nach § 6a des AZR-Gesetzes–Statistisches Bundesamt zu Spalte A Buchstabe a–Staatsangehörigkeits- und Vertriebenenbehörden–sonstige öffentliche Stellen zu Spalte A Buchstabe a, bei Ausländern nach § 2 Absatz 1a Nummer 2 und 3 sowie bei Ausländern nach § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1 nur bis zum unanfechtbaren Abschluss des Asylverfahrens |
 | A | A1*) | B**) | C | D |
 | 6 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
@@ -120,14 +133,14 @@ Allgemeiner Datenbestand
 | Zuzug/Fortzug | – wie vorstehend – | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivollzugsbehörden der Länder – Bundesagentur für Arbeit – Behörden anderer Staaten, über- oder zwischenstaatliche Stellen – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – Statistisches Bundesamt |
 | – wie vorstehend ohne Buchstabe h – |
 | A | A1*) | B**) | C | D |
-| 6a | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
+| 6a | Personenkreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 6 | (1) |  | –Übermittlung durch Ausländerbehörden–die mit der Förderung der Ausreisen betrauten öffentlichen Stellen zu Spalte A Buchstabe a bis b–Bundespolizei und andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstabe c bis d | § 15 AZRG–Ausländerbehörden–Bundesamt für Migra- tion und Flüchtlinge–oberste Bundes- und Landesbehörden |
-| Zur Förderung der Ausreise und Reintegration |  |
-| a) | Art der Ausreise und Reintegrationsförderung durch –Bundesmittel (auch Kofinanzierung durch europäische Mittel)–Landes- und/oder Kommunalmittel unter Bundesbeteiligung–Landes- und/oder Kommunalmitteln ohne Bundesbeteiligung–durch sonstige Mittel (programmunabhängig)–ohne Förderungentschieden am entschieden durch Aktenzeichen | (5) |
-| b) | Zielstaat | (5) |
-| c) | Ausreisestaat | (5) |
-| d) | Ausreisenachweis –Art–am | (5) |
+| § 3 Absatz 1 Nummer 6 |  |  |  | § 15 des AZR-Gesetzes |
+| Zur Förderung der freiwilligen Ausreise und Reintegration |  |  | –Übermittlung durch Ausländerbehörden | –Ausländerbehörden–Bundesamt für Migration und Flüchtlinge |
+| a)Art der Ausreiseförderung durch –Bundesmittel (auch Kofinanzierung durch europäische Mittel)–Landes- und/oder Kommunalmittel unter Bundesbeteiligung (auch Kofinanzierung durch europäische Mittel)–Landes- und/oder Kommunalmittel ohne Bundesbeteiligung (auch Kofinanzierung durch europäische Mittel)–durch sonstige öffentliche Mittel (programmunabhängig; auch [Ko-]Finanzierung durch europäische Mittel)entschieden amentschieden durchAktenzeichenZielstaat der FördermaßnahmeAusreise am | (1) | (5) | –die mit der Förderung der Ausreisen und der Förderung der Reintegration betrauten öffentlichen Stellen zu Spalte A Buchstabe a bis b–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstabe c | –oberste Bundes- und Landesbehörden–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstabe c |
+| b)Art der Reintegrationsförderung durch –Bundesmittel (auch Kofinanzierung durch europäische Mittel)–Landes- und/oder Kommunalmittel unter Bundesbeteiligung (auch Kofinanzierung durch europäische Mittel)–Landes- und/oder Kommunalmittel ohne Bundesbeteiligung (auch Kofinanzierung durch europäische Mittel)–durch sonstige öffentliche Mittel (programmunabhängig; auch [Ko-]Finanzierung durch europäische Mittel) |  | (5) |  |  |
+| entschieden amentschieden durchAktenzeichenZielstaat der FördermaßnahmeAusreise am |  |  |  |  |
+| c)Ausreisenachweis –Art–Ausreise am–Ausreisestaat–Zielstaat der Ausreise |  | (5) |  |  |
 | A | A1*) | B**) | C | D |
 | 7 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
@@ -142,22 +155,28 @@ Allgemeiner Datenbestand
 | a) | Asylgesuch geäußert am | (5) |
 | b) | Asylantrag gestellt am | (1) |
 | c) | Asylantrag erneut gestellt am | (1) |
-| d) | Asylantrag abgelehnt am | (3) |
+| d) | Asylantrag abgelehnt am |  |
+|  | aa) noch nicht unanfechtbar | (2) |
+|  | bb) unanfechtbar seit | (6) |
 | e) | als Asylberechtigter anerkannt am | (3) |
+|  | bestandskräftig seit |
 | f) | Anerkennung widerrufen/zurückgenommen am | (3) |
 | g) | Anerkennung erloschen am | (5) |
-| h) | Asylverfahren eingestellt am | (3) |
+| h) | Asylverfahren eingestellt am |  |
+|  | aa) noch nicht unanfechtbar | (2) |
+|  | bb) unanfechtbar seit | (6) |
 | i) | Asylverfahren auf andere Weise erledigt am | (6) |
 | j) | Flüchtlingseigenschaft nach § 3 Absatz 4 AsylG zuerkannt am | (3) |
+|  | bestandskräftig seit |
 | k) | Flüchtlingseigenschaft widerrufen/zurückgenommen am | (3) |
 | l) | Flüchtlingseigenschaft erloschen am | (5) |
 | m) | subsidiärer Schutz nach § 4 Absatz 1 AsylG gewährt am | (3) |
+|  | bestandskräftig seit |
 | n) | subsidiärer Schutz nach § 4 Absatz 1 AsylG widerrufen/zurückgenommen am | (3) |
 | o) | Abschiebungsverbote nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthG | (3) |
 |  | festgestellt am |
-|  | für den Zielstaat/die Zielstaaten |
-| p) | Abschiebungsverbote nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthG | (3) |
-|  | widerrufen/zurückgenommen am |
+|  | für den Zielstaat/die Zielstaaten bestandskräftig seit |
+| p) | Abschiebungsverbote nach § 60 Absatz 5 oder Absatz 7 Satz 1 AufenthGwiderrufen/zurückgenommen am | (3) |
 | q) | Asylantrag vor Einreise gestellt am | (1) |
 | r) | Asylantrag vor Einreise erneut gestellt am | (1) |
 | s) | Asylantrag vor Einreise abgelehnt am | (1) |
@@ -195,11 +214,12 @@ Allgemeiner Datenbestand
 | A | A1*) | B**) | C | D |
 | 8a | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 2 Nummer 3 in Verbindung mit § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1 | (1) |  |  | §§ 15, 17, 17a, 18a bis 18e, 23 des AZR-Gesetzes |
-| Bescheinigung über die Meldung als Asylsuchender gemäß § 63a des Asylgesetzes | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen–Bundesamt für Migra- tion und Flüchtlinge | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–Polizeivollzugsbehörden der Länder–Bundesamt für Migra- tion und Flüchtlinge–Träger der Sozialhilfe zu Spalte A Buchstabe a–für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen zu Spalte A Buchstabe a–Bundesagentur für Arbeit zu Spalte A Buchstabe a–die für die Durchfüh- rung der Grundsicherung für Arbeitsuchende zuständigen Stellen zu Spalte A Buchstabe a–für den öffentlichen Gesundheitsdienst zuständige Behörden–Jugendämter–Statistisches Bundesamt zu Spalte A Buchstabe a bis c–Zollkriminalamt–Bundeskriminalamt–Landeskriminalämter–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässig-keitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden– Meldebehörden–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
-| a) | Seriennummer (AKN-Nummer) |  |
-| b) | Ausstellungsdatum |  |
-| c) | Gültigkeitsdauer |  |
+| § 3 Absatz 2 Nummer 3 in Verbindung mit § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1 | (1) |  |  | §§ 15, 17, 17a, 18e, 23 des AZR-Gesetzes |
+| Bescheinigung über die Meldung als Asylsuchender gemäß § 63a des Asylgesetzes | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen–Bundesamt für Migrationund Flüchtlinge | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–Polizeivollzugsbehörden der Länder–Bundesamt für Migra- tion und Flüchtlinge–Statistisches Bundesamt–Zollkriminalamt–Bundeskriminalamt–Landeskriminalämter–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässig-keitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden– Meldebehörden–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
+| a) | Ausstellungsdatum |  |
+|  |
+| b) | Gültigkeitsdauer |  |
+|  |  |  |
 | A | A1*) | B**) | C | D |
 | 8b | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
@@ -207,148 +227,71 @@ Allgemeiner Datenbestand
 | a) | unerlaubt eingereist | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–mit grenzpolizeilichen Aufgaben betraute Behörden–Aufnahmeeinrichtungen–Bundeskriminalamt–Landeskriminalämter–Zollkriminalamt–sonstige Polizeivoll- zugsbehörden der Länder | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migra- tion und Flüchtlinge–Bundespolizei–andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivoll- zugsbehörden der Länder–Staatsanwaltschaften–Statistisches Bundesamt–deutsche Auslandsver- tretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
 | b) | unerlaubt aufhältig seit | (7) |
 | A | A1*) | B**) | C | D |
-| 9 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
+| 9 (Teil I) | Personenkreis | Zeitpunkt der Übermittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a, 24a des AZR-Gesetzes |
-| Aufenthaltsstatus |  |  | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)–Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren–Statistisches Bundesamt zu Spalte A Buchstabe a bis g, i bis l–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des GeldwäschegesetzesII)–für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zu- ständige atomrecht- liche Genehmigungs- und Aufsichtsbehör- den–Bundeskriminalamt–Landeskriminalämter–sonstige Polizei- vollzugsbehörden–Staatsanwaltschaften–Gerichte–Behörden der Zollverwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe a bis g, m bis p und x bis y–die für die Grund- sicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt |
-| a) | vom Erfordernis eines Aufenthaltstitels befreit |  | (5) |
-| b) | Erteilung/Verlängerung des Aufenthaltstitels abgelehnt am |  | (3) |
-| c) | Aufenthaltstitel zurückgenommen am widerrufen am erloschen am |  | (3) |
-| d) | heimatloser Ausländer |  | (6) |
-| e) | Antrag auf einen Aufenthaltstitel gestellt am |  | (1)* |
-| f) | Antrag auf Verlängerung eines Aufenthaltstitels gestellt am |  | (1)* |
-| g) | Bescheinigung über die Wirkung der Antragstellung (Fiktionsbescheinigung) ausgestellt am |  | (7) |
-| h) | Nummer des Aufenthaltstitels |  | (7) |
-| i) | Entscheidungen der Bundesagentur für Arbeit über die Zustimmung zur Beschäftigung |  |  |  |
-|  | aa) | Zustimmung der Bundesagentur für Arbeit erteilt am befristet bis räumlich beschränkt auf Arbeitgeberbindung/ keine Arbeitgeberbindung weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen |  | (5)* |  |
-|  | bb) | Zustimmung der Bundesagentur für Arbeit versagt am |  | (5)* |  |
-| j) | Nebenbestimmungen zur Erwerbstätigkeit |  |  |  |
-|  | aa) | Selbständige Tätigkeit erlaubt am befristet bis weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen | (1) | (2)* |  |
-|  | bb) | Beschäftigung erlaubt am befristet bis räumlich beschränkt auf Arbeitgeberbindung/ keine Arbeitgeberbindung weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen |  | (2)* |  |
-| k) | zustimmungsfreie Beschäftigung bis festgestellt am |  | (2)* |  |
-| l) | zustimmungsfreie Beschäftigung aufgrund Vorbeschäftigungszeiten oder längeren Aufenthalts festgestellt am |  | (2) |  |
-| m) | Aufenthaltstitel erteilt nach Einreise in das Bundesgebiet mit |  | (5)* |  |
-|  | aa) | Visum nach § 17 Absatz 1 AufenthG |  | (5)* |  |
-|  |  | am |  |  |  |
-|  | bb) | Visum nach § 17 Absatz 2 AufenthG |  | (5)* |  |
-|  |  | am |  |  |  |
-|  | cc) | Visum nach § 20 Absatz 1 AufenthG |  | (5)* |  |
-|  |  | am |  |  |  |
-|  | dd) | Visum nach § 20 Absatz 2 AufenthG |  | (5)* |  |
-|  |  | am |  |  |  |
-|  | ee) | einem im Verfahren nach § 81aAufenthG erteilten Visum |  | (5)* |  |
-|  |  | am |  |  |  |
-| n) | Einreise und Aufenthalt nach § 16c AufenthG |  |  | –Ausländerbehörden zu Spalte A Buchstaben n bis p jeweils die Ziffern aa–Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstaben n bis p jeweils die Ziffern bb |
-|  | aa) | Ablehnung am |  | (2) |
-|  | bb) | Bescheinigung |  | (2) |
-|  | ausgestellt am |  |  |
-|  | gültig bis |  |  |
-| o) | Einreise und Aufenthalt nach § 19a Absatz 1 AufenthG |  |  |
-|  | aa) | Ablehnung am |  | (2)* |
-|  | bb) | Bescheinigung |  | (2)* |
-|  | ausgestellt am |  |  |
-|  | gültig bis |  |  |  |
-| p) | Einreise und Aufenthalt nach § 18e Absatz 1 AufenthG |  |  |  |
-|  | aa) | Ablehnung am |  | (2)* |  |
-|  | bb) | Bescheinigung |  | (2)* |  |
-|  | ausgestellt am |  |  |  |
-|  | gültig bis |  |  |  |
-| q) | Räumliche Beschränkung nach § 12 Absatz 2 Satz 2 AufenthG |  | (7) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe q bis w |
-|  | Land |  |  |
-|  | Ort |  |  |
-|  | erteilt am |  |  |
-|  | befristet bis |  |  |
-|  | geändert am |  |  |
-| r) | Wohnsitzauflage nach § 12 Absatz 2 Satz 2 AufenthG |  | (7) |
-|  | Land |  |  |
-|  | Ort |  |  |
-|  | erteilt am |  |  |
-|  | befristet bis |  |  |
-|  | geändert am |  |  |
-| s) | Wohnsitzregelung nach |  |  |
-|  | § 12a Absatz 1 Satz 1 AufenthG |  | (7) |
-|  | Land |  |  |
-|  | kraft Gesetzes entstanden am |  |  |
-|  | erlischt am |  |  |
-|  | § 12a Absatz 2 Satz 1 AufenthG |  | (7) |
-|  | Ort oder Landkreis |  |  |
-|  | erteilt am |  |  |
-|  | befristet bis |  |  |
-|  | geändert am |  |  |
-|  | § 12a Absatz 3 AufenthG |  | (7) |
-|  | Ort oder Landkreis |  |  |
-|  | erteilt am |  |  |
-|  | befristet bis |  |  |
-|  | geändert am |  |  |
-|  | § 12a Absatz 4 Satz 1 AufenthG |  | (7) |
-|  | Ort, an dem der Wohnsitz nicht genommen werden darf |  |  |
-|  | erteilt am |  |  |
-|  | befristet bis |  |  |
-|  | geändert am |  |  |
-| t) | Wohnsitzverpflichtung nach |  |  |
-|  | § 24 Absatz 5 Satz 2 AufenthG (auch in Verbindung mit § 23 Absatz 3 und § 23 Absatz 4 Satz 2 AufenthG) |  | (7) |
-|  | Ort |  |  |
-|  | kraft Gesetzes entstanden am |  |  |
-|  | erlischt |  |  |
-| u) | Wohnsitzverpflichtung nach |  |  |
-|  | § 46 Absatz 1 AufenthG |  | (7) |
-|  | Ort |  |  |
-|  | erteilt am |  |  |
-|  | befristet bis |  |  |
-|  | geändert am |  |  |
-| v) | Räumliche Beschränkung nach |  |  |
-|  | § 61 Absatz 1 Satz 1 AufenthG |  | (7) |
-|  | Land |  |  |
-|  | kraft Gesetzes entstanden am |  |  |
-|  | erlischt am |  |  |
-|  | § 61 Absatz 1a Satz 1 AufenthG |  | (7) |
-|  | Bezirk |  |  |
-|  | kraft Gesetzes entstanden am |  |  |
-|  | erlischt am |  |  |
-|  | § 61 Absatz 1c Satz 1 AufenthG |  | (7) |
-|  | Land oder Bezirk |  |  |
-|  | erteilt am |  |
-|  | befristet bis |  |
-|  | geändert am |  |
-|  | § 61 Absatz 1c Satz 2 AufenthG | (7) |
-|  | Bezirk |  |
-|  | erteilt am |  |
-|  | befristet bis |  |
-|  | geändert am |  |
-| w) | Wohnsitzauflage nach |  |
-|  | § 61 Absatz 1d Satz 1 AufenthG | (7) |
-|  | Ort |  |
-|  | kraft Gesetzes entstanden am |  |
-|  | erlischt am |  |
-| q) | Einreise und Aufenthalt nach § 30 Absatz 5 AufenthG (Ehegattennachzug zu kurzfristig mobilen Forschern) | (2)* | –Ausländerbehördenzu Spalte A Buchstaben n bis r jeweils die Ziffern aa |
-|  | aa) | Ablehnung am |
-|  | bb) | Bescheinigung |
-|  |  | ausgestellt am |
-|  |  | gültig bis |
-| r) | § 32 Absatz 5 AufenthG (Kindesnachzug zu kurzfristig mobilen Forschern) | (2)* | –Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstaben n bis r |
-|  | aa) | Ablehnung am |
-|  | bb) | Bescheinigung |
-|  |  | ausgestellt am |
-|  |  | gültig bis |
-| § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und 4 |  |  |  |  |
-| Aufenthaltsstatus | (2) | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
-|  | – wie vorstehend Spalte A Buchstabe a bis c, e bis h – |
-| § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und 4 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
-| Aufenthaltsstatus | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personen- kreis (1) in Spalte D Nummer I genannten Stellen |
-|  | – wie vorstehend Spalte A Buchstabe a bis c, e bis h – |
+| Aufenthaltsstatus a)Vom Erfordernis eines Aufenthaltstitels befreit |  | (5) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstaben d und e | I)–Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren–Statistisches Bundesamt zu Spalte A Buchstabe a bis j |
+| b)Erteilung/Verlängerung des Aufenthaltstitelsabgelehnt am aa)noch nicht unanfechtbarbb)unanfechtbar seit |  | (2) (6) |
+| c)Aufenthaltstitelzurückgenommen amwiderrufen amerloschen am |  | (3) |
+| d)Grenzübertrittsbescheinigungausgestellt amgültig bisausstellende Behörde |  | (2) |
+| e)Anlaufbescheinigungausgestellt amgültig bisausstellende Behörde | (1) | (2) |
+| f)Betretenserlaubnis nach § 11 Absatz 8 AufenthGerteilt amfür die Dauer von … bis … |  | (2) |
+| g)heimatloser Ausländer |  | (6) |
+| h)Antrag auf einen Aufenthaltstitelgestellt am |  | (1)* |
+| i)Antrag auf Verlängerung eines Aufenthaltstitelsgestellt am |  | (1)* |  | II.–Für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–Sonstige Polizeivollzugsbehörden–Staatsanwaltschaften–Gerichte–Behörden der Zollverwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe a bis j–Die für die Grund-sicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
+| j)Bescheinigung über die Wirkung der Antragstellung (Fiktionsbescheinigung)ausgestellt amgültig biseingezogen amerloschen am |  | (7) |  |
+| k)Nummer des Aufenthaltstitels |  | (7) |  |
+| § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und 4 |  | –wie vorstehend – | –wie vorstehend – | –wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes – |
+| Aufenthaltsstatus –wie vorstehend Spalte A Buchstabe a bis c, h bis k – | (2) |
+| § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und 4 |  | –wie vorstehend – | –wie vorstehend – | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
+| Aufenthaltsstatus –wie vorstehend Spalte A Buchstabe a bis c, h bis k – | (3) | –nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
+* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
+| A | A1*) | B**) | C | D |
+| 9 (Teil II) | Personenkreis | Zeitpunkt der Übermittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
+| Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
+| § 3 Absatz 1 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a, 24a des AZR-Gesetzes |
+| a)Entscheidungen der Bundesagentur für Arbeit über die Zustimmung zur Beschäftigung aa)Zustimmung der Bundesagentur für Arbeiterteilt ambefristet bisräumlich beschränkt aufArbeitgeberbindung/keine ArbeitgeberbindungWeitere Nebenbestimmungen/keine weiteren Nebenbestimmungenbb)Zustimmung der Bundesagentur für Arbeit versagt am | (1) | (7) (5)* (5)* | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstaben a bis e, f bis j jeweils die Ziffern aa und Buchstaben k bis p–Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstaben f bis j jeweils die Ziffern bb | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes |
+| b)Nebenbestimmungen zur Erwerbstätigkeit aa)Selbständige Tätigkeiterlaubt ambefristet bisweitere Nebenbestimmungen/keine weiteren Nebenbestimmungenbb)Beschäftigungerlaubt ambefristet bisräumlich beschränkt aufArbeitgeberbindung/keine Arbeitgeberbindungweitere Nebenbestimmungen/keine weiteren Nebenbestimmungen |  | (2)* (2)* |  | –deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren–Statistisches Bundesamt zu Spalte A Buchstabe a bis d–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes zu Spalte A Buchstaben e bis q–Für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–Sonstige Polizeivollzugsbehörden–Staatsanwaltschaften–Gerichte–Behörden der Zollverwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe e bis j–Die für die Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung |
+| c)zustimmungsfreie Beschäftigung bisfestgestellt am |  | (2)* |  |
+| d)zustimmungsfreie Beschäftigung aufgrund Vorbeschäftigungszeiten oder längeren Aufenthaltsfestgestellt am |  | (2) |  |
+| e)Aufenthaltstitel erteilt nach Einreise in das Bundesgebiet mit aa)Visum nach § 17 Absatz 1 AufenthGambb)Visum nach § 17 Absatz 2 AufenthGamcc)Visum nach § 20 Absatz 1 AufenthGamdd)Visum nach § 20 Absatz 2 AufenthGam |  | (5)* (5)* (5)* (5)*(5)* |  |
+| ee)einem im Verfahren nach § 81a AufenthG erteilten Visumam |  | (5)* |  | –Staatsangehörigkeits-behörden–Zollkriminalamt |
+| f)Einreise und Aufent-halt nach § 16c AufenthG aa)Ablehnung ambb)Bescheinigungausgestellt amgültig bis |  | (2) (2) |  |  |
+| g)Einreise und Aufent-halt nach § 19a Absatz 1 AufenthG aa)Ablehnung ambb)Bescheinigungausgestellt amgültig bis |  | (2)* (2)* |  |  |
+| h)Einreise und Aufent-halt nach § 18e Absatz 1 AufenthG aa)Ablehnung ambb)Bescheinigungausgestellt amgültig bis |  | (2)* (2)* |  |  |
+| i)Einreise und Aufent-halt nach § 30 Absatz 5 AufenthG (Ehegattennachzug zu kurzfristig mobilen Forschern) aa)Ablehnung ambb)Bescheinigungausgestellt amgültig bis |  | (2)* (2)* |  |  |
+| j)Einreise und Aufent-halt nach § 32 Absatz 5 AufenthG (Kindesnachzug zu kurzfristig mobilen Forschern)aa)Ablehnung ambb)Bescheinigungausgestellt amgültig bis |  | (2)* (2) |  |  |
+| k)Räumliche Beschränkung nach § 12 Absatz 2 Satz 2 AufenthG |  | (7) |  |  |
+| LandOrterteilt ambefristet bisgeändert am |  |  |  |  |
+| l)Wohnsitzauflage nach § 12 Absatz 2 Satz 2 AufenthGLandOrterteilt ambefristet bisgeändert am |  | (7) |  |  |
+| m)Wohnsitzregelung nach aa)§ 12a Absatz 1 Satz 1 AufenthGLandkraft Gesetzes entstanden amerlischt ambb)§ 12a Absatz 2 Satz 1 AufenthGOrt oder Landkreiserteilt ambefristet bisgeändert amcc)§ 12a Absatz 3 AufenthGOrt oder Landkreiserteilt ambefristet bisgeändert amdd)§ 12a Absatz 4 Satz 1 AufenthGOrt, an dem der Wohnsitz nicht genommen werden darferteilt ambefristet bisgeändert am |  | (7) (7) (7) (7) |  |  |
+| n)Wohnsitzverpflichtung nach§ 24 Absatz 5 Satz 2 AufenthG (auch in Verbindung mit § 23 Absatz 3 und § 23 Absatz 4 Satz 2 AufenthG) |  | (7) |  |  |
+| Ortkraft Gesetzes entstanden amerlischt |  |  |  |  |
+| o)Wohnsitzverpflichtung nach§ 46 Absatz 1 AufenthGOrterteilt ambefristet bisgeändert am |  | (7) |  |  |
+| p)Räumliche Beschränkung nach aa)§ 61 Absatz 1 Satz 1 AufenthGLandkraft Gesetzes entstanden amerlischt ambb)§ 61 Absatz 1a Satz 1 AufenthGBezirkkraft Gesetzes entstanden amerlischt amcc)§ 61 Absatz 1c Satz 1 AufenthGLand oder Bezirkerteilt ambefristet bisgeändert amdd)§ 61 Absatz 1c Satz 2 AufenthGBezirkerteilt ambefristet bisgeändert am |  | (7) (7) (7) (7) |  |  |
+| q)Wohnsitzauflage nach§ 61 Absatz 1d Satz 1 AufenthGOrtkraft Gesetzes entstanden amerlischt am |  | (7) |  |  |
 * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 | A | A1*) | B**) | C | D |
 | 9a | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 3 in Verbindung mit § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1 |  |  |  | §§ 15, 17a, 18a, 18b, 23, 24a des AZR-Gesetzes |
-| Daten zur Durchführung von Integrationsmaßnahmen und zum Zwecke der Arbeits- und Ausbildungsvermittlung | (1) |  | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen zu Spalte A Buchstabe a bis e–Bundesamt für Migra- tion und Flüchtlinge–Bundesagentur für Arbeit–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen–Bundespolizei und andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivoll- zugsbehörden des Bundes und der Länder–Bundesamt für Migra- tion und Flüchtlinge–Bundesagentur für Arbeit–Träger der Sozialhilfe–für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Behörden der Zoll- verwaltung–Staatsanwaltschaften–Statistisches Bundesamt–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–für die Zuverlässigkeits- überprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
+| § 3 Absatz 1 Nummer 9 sowie § 3 Absatz 3 in Verbindung mit § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1 und 3 |  |  |  | §§ 15, 18a, 18b, 23, 24a des AZR-Gesetzes |
+| Daten zur Durchführung von Integrationsmaßnahmen, zur Aufgabenerfüllung nach den §§ 43 bis 44a des Aufenthaltsgesetzes und zum Zweck der Arbeits- und Ausbildungsvermittlung | (1) |  | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis h–Aufnahmeeinrichtungen zu Spalte A Buchstabe a bis e–Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe f bis g und j–Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen zu Spalte A Buchstabe a bis e und j | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Aufnahmeeinrichtungen zu Spalte A Buchstabe a bis f Doppelbuchstabe aa Buchstabe g und j–Bundespolizei und andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivoll- zugsbehörden des Bundes und der Länder–Bundesamt für Migra- tion und Flüchtlinge–Bundesagentur für Arbeit–Träger der Sozialhilfe–für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Statistisches Bundesamt zu Spalte A Buchstabe a bis g und j–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind |
 | a) | Schulbildung | (7) |
 | b) | Studium | (7) |
 | c) | Ausbildung | (7) |
 | d) | Beruf | (7) |
 | e) | Sprachkenntnisse | (7) |
-| f) | Teilnahme an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes | (7) |
-| g) | Teilnahme an einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes | (7) |
+| f) | Berechtigung und Verpflichtung zur Teilnahme an einem Integrationskurs nach den §§ 43 bis 44a AufenthG | (7) |
+|  | aa) Berechtigung oder Verpflichtung |  |
+|  | bb) Erteilungszeitpunkt |  |
+|  | cc) Erteilende Stelle |  |
+| g) | Teilnahme an einem Integrationskurs nach den §§ 43 bis 44a AufenthG | (7) |
+|  | aa) Kursart |  |
+|  | bb) Kursbeginn |  |
+|  | cc) Kursabschlussnicht erfolgreicherfolgreich |  |
+| h) | gemeldete Fehlzeiten | (7) |
+| i) | Hinweis nach § 44a Absatz 3 Satz 1 AufenthG | (7) |
+| j) | Teilnahme an einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a AufenthG | (7) |
 | A | A1*) | B**) | C | D |
 | 9b | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 |  |
@@ -694,39 +637,48 @@ Allgemeiner Datenbestand
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 | e) | besondere Aufenthaltsrechte nach |  |  |
-|  | aa) | § 7 Absatz 1 Satz 3 AufenthG (sonstige begründete Fälle) erteilt am |  | (2)* |
+|  | aa) | § 6 Absatz 3 AufenthG (Nationales Visum) |  | (5)* |
+|  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | bb) | § 25 Absatz 4a AufenthG (Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach den §§ 232 bis 233a des Strafgesetzbuchs wurden) erteilt am |  | (2)* |
+|  | bb) | § 7 Absatz 1 Satz 3 AufenthG (sonstige begründete Fälle) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | cc) | § 25 Absatz 4b AufenthG (Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach § 10 Absatz 1 oder § 11 Absatz 1 Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 15a des Arbeitnehmerüberlassungsgesetzes sind) erteilt am |  | (2)* |
+|  | cc) | § 25 Absatz 4a AufenthG (Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach den §§ 232 bis 233a des Strafgesetzbuchs wurden) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | dd) | § 31 Absatz 1, 2, 4 AufenthG (eigenständiges Ehegattenaufenthaltsrecht) erteilt am |  | (2)* |
+|  | dd) | § 25 Absatz 4b AufenthG (Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach § 10 Absatz 1 oder § 11 Absatz 1 Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 15a des Arbeitnehmerüberlassungsgesetzes sind) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | ee) | § 34 Absatz 2 AufenthG (eigenständiges Aufenthaltsrecht von Kindern) erteilt am |  | (2)* |
+|  | ee) | § 31 Absatz 1, 2, 4 AufenthG (eigenständiges Ehegattenaufenthaltsrecht) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | ff) | § 37 Absatz 1 AufenthG (Wiederkehr) erteilt am |  | (2)* |
+|  | ff) | § 34 Absatz 2 AufenthG (eigenständiges Aufenthaltsrecht von Kindern) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | gg) | § 37 Absatz 5 AufenthG (Wiederkehr Rentner) erteilt am |  | (2)* |
+|  | gg) | § 37 Absatz 1 AufenthG (Wiederkehr) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | hh) | § 38 Absatz 1 Nummer 2, Absatz 2 und 5 AufenthG (ehemaliger Deutscher) erteilt am |  | (2)* |
+|  | hh) | § 37 Absatz 5 AufenthG (Wiederkehr Rentner) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | ii) | § 38a AufenthG (langfristig Aufenthaltsberechtigter in [Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates]) erteilt am |  | (2)* |
+|  | ii) | § 38 Absatz 1 Nummer 2, Absatz 2 und 5 AufenthG (ehemaliger Deutscher) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | jj) | § 104a Absatz 1 Satz 1 AufenthG (Aufenthaltserlaubnis auf Probe) erteilt am |  | (2)* |
+|  | jj) | § 38a AufenthG (langfristig Aufenthaltsberechtigter in [Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates]) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | kk) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 1 Satz 2 AufenthG (Altfallregelung) erteilt am |  | (2)* |
+|  | kk) | § 104a Absatz 1 Satz 1 AufenthG (Aufenthaltserlaubnis auf Probe) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | ll) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 1 AufenthG (Altfallregelung für volljährige Kinder von Geduldeten) erteilt am |  | (2)* |
+|  | ll) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 1 Satz 2 AufenthG (Altfallregelung) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | mm) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 2 AufenthG (Altfallregelung für unbegleitete Flüchtlinge) erteilt am |  | (2)* |
+|  | mm) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 1 AufenthG (Altfallregelung für volljährige Kinder von Geduldeten) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | nn) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104b AufenthG (integrierte Kinder von Geduldeten) erteilt am |  | (2)* |
+|  | nn) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 2 AufenthG (Altfallregelung für unbegleitete Flüchtlinge) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | oo) | § 4 Absatz 2 AufenthG (Assoziationsrecht EWG/Türkei) erteilt am |  | (2)* |
+|  | oo) | § 23 Absatz 1 Satz 1 in Verbindung mit § 104b AufenthG (integrierte Kinder von Geduldeten) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | pp) | dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte Schweizerische Bürger erteilt am |  | (2)* |
+|  | pp) | Artikel 20 AEUV (Unionsrechtliches Aufenthaltsrecht sui generis eines drittstaatsangehörigen Elternteils eines deutschen Kindes) |  | (2) |
+|  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | qq) | dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern erteilt am |  | (2)* |
+|  | qq) | Artikel 20 und 21 AEUV (Unionsrechtliches Aufenthaltsrecht sui generis eines drittstaatsangehörigen Elternteils eines Kindes mit Unionsbürgerschaft) |  | (2) |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | rr) | § 4 Absatz 2 AufenthG (Assoziationsrecht EWG/Türkei) erteilt am |  | (2)* |
+|  |  | befristet bis |  |  |
+|  | ss) | dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte Schweizerische Bürger erteilt am |  | (2)* |
+|  |  | befristet bis |  |  |
+|  | tt) | dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  |  |
 | Aufenthaltserlaubnis | (2) | – wie vorstehend – | – wie vorstehend – | – wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes – |
@@ -773,22 +725,22 @@ Allgemeiner Datenbestand
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23ades AZR-Gesetzes |
 | Aufenthaltsrechte nach dem FreizügG/EU |  |  |  |  |
-| a) | Aufenthaltskarte nach § 5 Absatz 1 FreizügG/EU (Angehörige von EU-/EWR-Bürgern) ausgestellt amgültig bis | (1) | (2)* | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)–Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizeivollzugsbehörden der Länder–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren–Statistisches BundesamtII)–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes–Staatsanwaltschaften–Gerichte–Behörden der Zollverwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
-| b) | Daueraufenthaltskarte nach § 5 Absatz 5 Satz 2 FreizügG/EU (Angehörige von EU-/EWR-Bürgern) ausgestellt amgültig bis | (2)* |
-| c) | Aufenthaltskarte nach § 5 Absatz 7 Satz 1 FreizügG/EU (nahestehende Personen von EU-Bürgern) ausgestellt amgültig bis | (2)* |
+| a) | Aufenthaltskarte nach § 5 Absatz 1 FreizügG/EU (Angehörige von EU-/EWR-Bürgern)ausgestellt amgültig bis | (1) | (2)* | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)–Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizeivollzugsbehörden der Länder–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren–Statistisches BundesamtII)–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes–Staatsanwaltschaften–Gerichte–Behörden der Zollverwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes |
+| b) | Daueraufenthaltskarte nach § 5 Absatz 5 Satz 2 FreizügG/EU (Angehörige von EU-/EWR-Bürgern)ausgestellt amgültig bis | (2)* |
+| c) | Aufenthaltskarte nach § 5 Absatz 7 Satz 1 FreizügG/EU (nahestehende Personen von EU-Bürgern)ausgestellt amgültig bis | (2)* |
 | d) | Daueraufenthaltskarte nach § 5 Absatz 7 Satz 3 FreizügG/EU (nahestehende Personen von EU-Bürgern)ausgestellt amgültig bis | (2)* |
-| e) | Aufenthaltsdokument-GB nach § 16 Absatz 2 Satz 1 FreizügigG/EU (britische Staatsangehörige und ihre Familienangehörigen nach Artikel 18 Absatz 4 des Austrittsabkommens) ausgestellt amgültig bis | (2)* |
-| f) | Aufenthaltsdokument für Grenzgänger-GB nach § 16 Absatz 3 FreizügigG/EU (britische Staatsangehörige nach Teil Zwei Titel II Kapitel 2 des Austrittsabkommens) ausgestellt amgültig bis | (2)* |
+| e) | Aufenthaltsdokument-GB nach § 16 Absatz 2 Satz 1 FreizügigG/EU (britische Staatsangehörige und ihre Familienangehörigen nach Artikel 18 Absatz 4 des Austrittsabkommens)ausgestellt amgültig bis | (2)* |
+| f) | Aufenthaltsdokument für Grenzgänger-GB nach § 16 Absatz 3 FreizügigG/EU (britische Staatsangehörige nach Teil Zwei Titel II Kapitel 2 des Austrittsabkommens)ausgestellt amgültig bis | (2)* |
 |  |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
 | Aufenthaltsrechte nach dem FreizügG/EU |  |  |  |  |
-| Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger ausgestellt amgültig bis | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
+| Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürgererteilt am | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
 * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 | A | A1*) | B**) | C | D |
 | 13 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 und § 3 Absatz 1 Nummer 8 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 21, 23 des AZR-Gesetzes |
-| Ausweisung und Hinweis auf Begründungstext |  |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis r – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe s | I)– Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreiten- den Verkehrs beauf- tragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vor- schriften als eigener Aufgabe betraut sind – sonstige Polizeivoll- zugsbehörden – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes – deutsche Auslands- vertretungen, das Bundesamt für Auswärtige Angelegenheiten und an- dere öffentliche Stellen im Visaverfahren – Statistisches Bundes- amt zu Spalte A Buchstabe a bis r – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des GeldwäschegesetzesII)– für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicher- heitsgesetzes zustän- dige Luftsicherheits- behörden und für die Zuverlässigkeitsüber- prüfung nach § 12b des Atomgesetzes zu- ständige atomrecht- liche Genehmigungs- und Aufsichtsbehör- den – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte– Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Träger der Deutschen Rentenversicherung – Zollkriminalamt |
+| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes |
+| Ausweisung |  |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)– Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreiten- den Verkehrs beauf- tragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vor- schriften als eigener Aufgabe betraut sind – sonstige Polizeivoll- zugsbehörden – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes – deutsche Auslands- vertretungen, das Bundesamt für Auswärtige Angelegenheiten und an- dere öffentliche Stellen im Visaverfahren – Statistisches BundesamtII)– für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicher- heitsgesetzes zustän- dige Luftsicherheits- behörden und für die Zuverlässigkeitsüber- prüfung nach § 12b des Atomgesetzes zu- ständige atomrecht- liche Genehmigungs- und Aufsichtsbehör- den – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes– Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Zollkriminalamt |
 | a) | Ausweisungsverfügung erlassen am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung sofort vollziehbar seit |  | (3) |
 | b) | Ausweisungsverfügung erlassen am Wirkung unbefristet sofort vollziehbar seit |  | (3) |
 | c) | Ausweisungsverfügung erlassen am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung noch nicht vollziehbar | (1) | (3) |
@@ -808,63 +760,67 @@ Allgemeiner Datenbestand
 | q) | § 6 Absatz 1 FreizügG/EU (Verlust des Rechts auf Einreise und Aufenthalt) festgestellt am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung noch nicht vollziehbar |  | (3) |
 | r) | § 6 Absatz 1 FreizügG/EU (Verlust des Rechts auf Einreise und Aufenthalt) festgestellt am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung sofort vollziehbar seit |  | (3) |
 | s) | § 6 Absatz 1 FreizügG/EU (Verlust des Rechts auf Einreise und Aufenthalt) festgestellt am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung unanfechtbar seit |  | (3) |
-| t) | Begründungstext liegt vor |  |  |
-| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und § 3 Absatz 4 Nummer 8 |  |  |  |  |
-| Ausweisung und Hinweis auf Begründungstext | (2) | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
-| – wie vorstehend Spalte A Buchstabe g, i, j, l bis n und q bis s – |  |  |  |  |
-| – wie vorstehend Spalte A Buchstabe g bis s – | – Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes |
-| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und § 3 Absatz 4 Nummer 8 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
-| Ausweisung und Hinweis auf Begründungstext – wie vorstehend Spalte A Buchstabe h, k, o, p und s – | (3) | – wie vorstehend – | – wie vorstehend – | zur Durchführung ausländer- oder asylrechtlicher Aufgaben: – nur die zu Personen- kreis (1) in Spalte D Nummer I genannten Stellen |
+| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  |  |
+| Ausweisung | (2) | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
+| – wie vorstehend Spalte A Buchstabe h, j, k, m bis r und s – |  |  |  |  |
+| – wie vorstehend Spalte A Buchstabe h bis s – | – Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes |
+| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
+| Ausweisung – wie vorstehend Spalte A Buchstabe i, l, p und q – | (3) | – wie vorstehend – | – wie vorstehend – | zur Durchführung ausländer- oder asylrechtlicher Aufgaben: – nur die zu Personen- kreis (1) in Spalte D Nummer I genannten Stellen |
 | A | A1*) | B**) | C | D |
 | 14 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 und § 3 Absatz 1 Nummer 8 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes |
-| Abschiebung (mit Ausnahme der Abschiebung im Sinne des § 71 Absatz 3 Nummer 1a und 1b AufenthG) und Hinweis auf Begründungstext |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis i – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c und d – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe j | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivollzugsbehörden – Bundesagentur für Arbeit – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren– für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Statistisches Bundesamt zu Spalte A Buchstabe a bis i – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – Zollkriminalamt |
+| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes |
+| Abschiebung (mit Ausnahme der Abschiebung im Sinne des § 71 Absatz 3 Nummer 1a und 1b AufenthG) |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c und e | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivollzugsbehörden – Bundesagentur für Arbeit – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren– für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Statistisches Bundesamt zu Spalte A Buchstabe a bis i – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – Zollkriminalamt |
 | a) | Frist zur freiwilligen Ausreise gesetzt amzugestellt amFrist bis | (3) |
 | b) | Ausreisepflicht vollziehbar seit |  |
-| c) | Abschiebung angedroht am | (3) |
-| d) | Abschiebung angeordnet am | (3) |
-| e) | Abschiebung angedroht und angeordnet am | (3) |
-| f) | Abschiebungsanordnung gemäß § 58a AufenthG erlassen am | (3) |
+| c) | Abschiebung angedroht am |  |
+|  | aa) noch nicht vollziehbar | (2) |
+|  | bb) vollziehbar seit | (3) |
+| d) | Abschiebung angeordnet am |  |
+|  | aa) noch nicht vollziehbar | (2) |
+|  | bb) vollziehbar seit | (3) |
+| e) | Abschiebungsanordnung gemäß § 34a AsylGerlassen am |  |
+|  | aa) noch nicht vollziehbar | (2) |
+|  | bb) vollziehbar seit | (3) |
+| f) | Abschiebungsanordnung gemäß § 58a AufenthG erlassen am |  |
+|  | aa) noch nicht vollziehbar | (2) |
+|  | bb) vollziehbar seit | (3) |
 | g) | Abschiebung aufgrund Ausweisung vollzogen am | (4) |
 | h) | Abschiebung vollzogen am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Abschiebung | (4) |  |
 | i) | Abschiebung vollzogen am Wirkung unbefristet | (4) |
-| j) | Begründungstext liegt vor zu den Buchstaben e bis h |  |
-| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und § 3 Absatz 4 Nummer 8 | (2) | – wie vorstehend – |  |  |  |  |
-| Abschiebung (mit Ausnahme der Abschiebung im Sinne des § 71 Absatz 3 Nummer 1a und 1b AufenthG) und Hinweis auf Begründungstext | – wie vorstehend – | – wie vorstehend – |
+| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (2) | – wie vorstehend – |  |  |  |  |
+| Abschiebung (mit Ausnahme der Abschiebung im Sinne des § 71 Absatz 3 Nummer 1a und 1b AufenthG) | – wie vorstehend – | – wie vorstehend – |
 | – wie vorstehend ohne die Buchstaben e und f |
 | A | A1*) | B**) | C | D |
 | 14a | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Satz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 und § 3 Satz 1 Nummer 8 | (1) |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18g, 21, 23 des AZR-Gesetzes |
-| Einreise- und Aufenthaltsverbot und Hinweis auf Begründungstext |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis d – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c bis e – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe f |  | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – Träger der Deutschen Rentenversicherung – Zollkriminalamt |
-| a) | nach § 11 Absatz 1 und 2 AufenthG wegen Ausweisung, Zurückschiebung oder Abschiebung angeordnet am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausweisung/Zurückschiebung/Abschiebung |  |  |
+| § 3 Satz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 | (1) |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 21, 23 des AZR-Gesetzes |
+| Einreise- und Aufenthaltsverbot |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c bis e |  | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – Zollkriminalamt |
+| a) | nach § 11 Absatz 1 und 2 AufenthG wegen Ausweisung, Zurückschiebung oder Abschiebung angeordnet am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausweisung/Zurückschiebung/Abschiebung | (2) |  |
 | b) | nach § 11 Absatz 6 AufenthG wegen erheblicher und schuldhafter Überschreitung der Frist zur freiwilligen Ausreise angeordnet am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung | (2) |  |
-| c) | nach § 11 Absatz 7 Satz 1 Nummer 1 AufenthG bei bestandskräftig als offensichtlich unbegründet abgelehntem Asylantrag nach § 29a Absatz 1 AsylG angeordnet am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung |  | (2) |  |  | – sonstige Polizeivollzugsbehörden – Bundesagentur für Arbeit – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – für die Zuverlässigkeitsüberprüfung zuständige Luftsicherheitsbehörden nach § 7 des Luftsicherheitsgesetzes und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen– die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Statistisches Bundesamt zu Spalte A Buchstabe a bis e |
+| c) | nach § 11 Absatz 7 Satz 1 Nummer 1 AufenthG bei bestandskräftig als offensichtlich unbegründet abgelehntem Asylantrag nach § 29a Absatz 1 AsylG angeordnet am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung |  | (2) |  |  | – sonstige Polizeivollzugsbehörden – Bundesagentur für Arbeit – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – für die Zuverlässigkeitsüberprüfung zuständige Luftsicherheitsbehörden nach § 7 des Luftsicherheitsgesetzes und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen– die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Statistisches Bundesamt zu Spalte A Buchstabe a bis f |
 | d) | nach § 11 Absatz 7 Satz 1 Nummer 2 AufenthG nach wiederholt abgelehntem Asylfolge- oder -zweitantrag angeordnet am Wirkung befristet für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung |  | (2) |  |
-| e) | nach § 11 Absatz 9 AufenthG wegen Einreise- und Aufenthaltsverbot – Frist des Einreise- und Aufenthaltsverbots durch Wiedereinreise gehemmt am– Für die Dauer von |  |  |  |  |  |
-| f) | Begründungstext liegt vor |  |  |  |  |
+| e) | nach § 11 Absatz 9 AufenthG wegen Einreise- und Aufenthaltsverbot – Frist des Einreise- und Aufenthaltsverbots durch Wiedereinreise gehemmt am– Für die Dauer von |  | (2) |  |  |  |
 | A | A1*) | B**) | C | D |
 | 15 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 und § 3 Absatz 1 Nummer 8 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes |
-| Einschränkung/Untersagung der politischen Betätigung und Hinweis auf Begründungstext |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis d | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei |
+| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes |
+| Einschränkung/Untersagung der politischen Betätigung |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis d | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei |
 | a) | politische Betätigung eingeschränkt am Wirkung befristet bis | (3) |
-| b) | politische Betätigung eingeschränkt am Wirkung unbefristet |  | (3) | – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe e | – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivollzugsbehörden – Bundesagentur für Arbeit – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollverwaltung– Bundesagentur für Arbeit – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – Zollkriminalamt |
+| b) | politische Betätigung eingeschränkt am Wirkung unbefristet |  | (3) |  | – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivollzugsbehörden – Bundesagentur für Arbeit – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollverwaltung– Bundesagentur für Arbeit – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – Zollkriminalamt |
 | c) | politische Betätigung untersagt am Wirkung befristet bis | (3) |
 | d) | politische Betätigung untersagt am Wirkung unbefristet | (3) |
-| e) | Begründungstext liegt vor |  |
+|  |  |  |
 | A | A1*) | B**) | C | D |
 | 16 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 und § 3 Absatz 1 Nummer 8 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21 des AZR-Gesetzes |
-| Überwachungsmaßnahmen bei ausgewiesenen Ausländern nach § 56 AufenthG |  |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis d – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe e | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migra- tion und Flüchtlinge – Bundespolizei – andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivoll- zugsbehörden – Bundesagentur für Arbeit – deutsche Auslands- vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes– für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollver- waltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Zollkriminalamt |
+| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21 des AZR-Gesetzes |
+| Überwachungsmaßnahmen bei ausgewiesenen Ausländern nach § 56 AufenthG |  |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis d | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migra- tion und Flüchtlinge – Bundespolizei – andere mit der polizei- lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivoll- zugsbehörden – Bundesagentur für Arbeit – deutsche Auslands- vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes– für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollver- waltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Zollkriminalamt |
 | a) | Aufenthalt nach § 56 Absatz 2 AufenthG beschränkt auf Bezirk der Ausländerbehörde … |  | (2) |
 | b) | abweichende Regelung hinsichtlich der Aufenthaltsbeschränkung nach § 56 Absatz 2 AufenthG angeordnet am |  | (2) |
 | c) | Verpflichtung hinsichtlich Wohnung nach § 56 Absatz 3 AufenthG angeordnet am |  | (2) |
 | d) | Kontaktverbot hinsichtlich Personen nach § 56 Absatz 4 AufenthG angeordnet am |  | (2) |
 | e) | Nutzungsverbot hinsichtlich Kommunikationsmittel nach § 56 Absatz 4 AufenthG angeordnet am |  | (2) |
-| f) | Begründungstext liegt vor |  | (2) |
 | A | A1*) | B**) | C | D |
 | 17 | Personenkreis | Zeitpunkt der Übermittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
@@ -916,27 +872,29 @@ Allgemeiner Datenbestand
 | A | A1*) | B**) | C | D |
 | 20 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 und § 3 Absatz 1 Nummer 8 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23, 24a des AZR-Gesetzes |
-| Zurückweisung, Zurückschiebung und Abschiebung im Sinne des § 71 Absatz 3 Nummer 1a und 1b AufenthG und Hinweis auf Begründungstext |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe d und e – mit grenzpolizeilichen Aufgaben betraute Behörden – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe h | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivollzugsbehörden – Bundesagentur für Arbeit – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Statistisches Bundesamt – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – Zollkriminalamt |
+| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 | (1) |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23, 24a des AZR-Gesetzes |
+| Zurückweisung, Zurückschiebung und Abschiebung im Sinne des § 71 Absatz 3 Nummer 1 bis 1b AufenthG |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe d bis g – mit grenzpolizeilichen Aufgaben betraute Behörden – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – sonstige Polizeivollzugsbehörden – Bundesagentur für Arbeit – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – Staatsanwaltschaften – Gerichte – Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – Jugendämter – Statistisches Bundesamt – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes – Zollkriminalamt |
 | a) | zurückgewiesen am | (4) |
-| b) | Ausreiseaufforderung vom Frist bis | (2) |
-| c) | Abschiebung angedroht am | (3) |
+| b) | Ausreiseaufforderung vom Frist bis |  |
+|  | aa) noch nicht unanfechtbar | (2) |
+|  | bb) unanfechtbar seit | (6) |
+| c) | Abschiebung angedroht am |  |
+|  | aa) noch nicht vollziehbar | (2) |
+|  | bb) vollziehbar seit | (3) |
 | d) | zurückgeschoben am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Zurückschiebung | (4) |
 | e) | zurückgeschoben am Wirkung unbefristet | (4) |
 | f) | abgeschoben am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Abschiebung | (4) |
 | g) | abgeschoben am Wirkung unbefristet | (4) |
-| h) | Begründungstexte liegen vor zu den Buchstaben f und g |  |
-| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und § 3 Absatz 4 Nummer 8 | (2) |  |  |  |  |  |
-| Zurückweisung, Zurückschiebung und Abschiebung im Sinne des § 71 Absatz 3 Nummer 1a und 1b AufenthG und Hinweis auf Begründungstext | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
+| § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (2) |  |  |  |  |  |
+| Zurückweisung, Zurückschiebung und Abschiebung im Sinne des § 71 Absatz 3 Nummer 1 bis 1b AufenthG und Hinweis auf Begründungstext | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
 | – wie vorstehend – |
 | A | A1*) | B**) | C | D |
 | 21 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
-| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 4 und § 3 Absatz 1 Nummer 8 | (1) |  |  |  | §§ 15, 16, 21, 24a des AZR-Gesetzes |
-| Einreisebedenken und Hinweis auf Begründungstext |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a und b – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe a und b – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a und b – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe c | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt |
+| § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 4 | (1) |  |  |  | §§ 15, 16, 21, 24a des AZR-Gesetzes |
+| Einreisebedenken |  | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a und b – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe a und b – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a und b | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren – für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt |
 | a) | Einreisebedenken seit Wirkung befristet bis | (5) |
 | b) | Einreisebedenken seit Wirkung unbefristet | (5) |
-| c) | Begründungstext liegt vor |  |
 |  |  |  |  | – Landeskriminalämter – sonstige Polizeivollzugsbehörden – Staatsanwaltschaften – Gerichte |
 | A | A1*) | B**) | C | D |
 | 22 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
@@ -958,7 +916,7 @@ Allgemeiner Datenbestand
 | b) | Ausschreibung zur Aufenthaltsermittlung | (6) |
 | c) | Ausschreibung zur Inobhutnahme oder Ingewahrsamnahme | (6) |
 | d) | ausschreibende Stelle |  |
-|  |  |  |  |  | II)– für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes – Staatsanwaltschaften – Gerichte – Zollkriminalamt – Behörden der Zollver- waltung |
+|  |  |  |  |  | II)– für die Zuverlässig- keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – Bundeskriminalamt – Landeskriminalämter – sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes – Staatsanwaltschaften – Gerichte – Zollkriminalamt – Behörden der Zollverwaltung |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 6 | (2) | – wie vorstehend – | § 6 Absatz 1 Nummer 1 bis 5 und Absatz 3 des AZR-Gesetzes |  |
 | Ausschreibung zur Festnahme oder Aufenthaltsermittlung | – die zu Personenkreis (1) in Spalte C Nummer I genannten Stellen – ermittlungsführende Polizeibehörden | – wie vorstehend – |
 | – wie vorstehend Spalte A Buchstabe a, b und d – |
@@ -1043,10 +1001,10 @@ Allgemeiner Datenbestand
 |  |  |  |  | – ermittlungsführende Polizeibehörde – Verfassungsschutzbehörden des Bundes und der Länder | – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – sonstige Polizeivollzugsbehörden der Länder – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind |
 |  |  |  |  |  | –Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes |
 | A | A1*) | B**) | C | D |
-| 32 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 4 Absatz 2 Satz 2 des AZR-Gesetzes in Verbindung mit § 51 Absatz 1 und 5 des Bundesmeldegesetzes; § 6 Absatz 2 Nummer 1 und 2 des AZR-Gesetzes in Verbindung mit § 7 Absatz 4 der AZRG-Durchführungsverordnung) | Übermittlung/Weitergabe an folgende Stellen |
+| 32 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 4 Absatz 2 Satz 2 des AZR-Gesetzes in Verbindung mit § 51 Absatz 1 und 5 des Bundesmeldegesetzes; § 6 Absatz 2 Nummer 1, 5 und 7 in Verbindung mit § 7 Absatz 4 der AZRG-Durchführungsverordnung) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 4 des AZR-Gesetzes) |
-| § 4 Absatz 1 Satz 1, Absatz 2 Satz 1, 3 | (1)/(2)/ (3) |  |  |  | §§ 4, 14 bis 19, 21, 23, 24a, 25, 26 des AZR-Gesetzes – sofern die gesperrten Daten übermittelt werden – |
-| – Übermittlungssperre | (6) | sofern nicht die Registerbehörde selbst entscheidet– die für das Asylverfahren zuständige Organisationseinheit im Bundesamt für Migration und Flüchtlinge– Ausländerbehörden– Polizeibehörden des Bundes und der Länder als Zeugenschutzdienststellen | – alle öffentlichen Stellen– nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen– Behörden anderer Staaten, über- oder zwischenstaatliche Stellen |
+| § 4 Absatz 1 Satz 1, Absatz 2 Satz 1, 3, 4 und 6 | (1)/(2)/ (3) |  |  |  | §§ 4, 14 bis 19, 21, 23, 24a, 25, 26 des AZR-Gesetzes – sofern die gesperrten Daten übermittelt werden – |
+| – Übermittlungssperre | (6) | sofern nicht die Registerbehörde selbst entscheidet– die für das Asylverfahren zuständige Organisationseinheit im Bundesamt für Migration und Flüchtlinge– Ausländerbehörden– Meldebehörden– Polizeibehörden des Bundes und der Länder als Zeugenschutzdienststellen | – alle öffentlichen Stellen– nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen– Behörden anderer Staaten, über- oder zwischenstaatliche Stellen |
 | A | A1*) | B**) | C | D |
 | 33 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 5 des AZR-Gesetzes) |
@@ -1083,10 +1041,11 @@ Visadatei
 | c) | Vornamen | (7) |
 | d) | Schreibweise derNamen nachdeutschem Recht | (7) |
 | e) | Geburtsdatum | (7) |
-| f) | Geburtsort, -bezirk | (7) |  |  |
+| f) | Geburtsort, und -land, -bezirk | (7) |  |  |
 | g) | Geschlecht | (7) |  |  |
-| h) | Weitere Personalien gemäß Abschnitt INr. 4 Spalte A | (7) |  |  |
-| i) | Staatsangehörigkeiten | (7) |  |  |
+| h) | Doktorgrad | (7) |  |  |
+| i) | Weitere Personalien gemäß Abschnitt INr. 4 Spalte A | (7) |  |  |
+| j) | Staatsangehörigkeiten | (7) |  |  |
 | § 29 Abs. 1 Nr. 4 |  |  |  |
 | – Lichtbild | (7) |  |  |
 | § 29 Abs. 1 Nr. 5 |  |  |  |
@@ -1140,15 +1099,13 @@ Visadatei
 | § 37 Abs. 2 Satz 1 |  |  |  |
 | – Sperrvermerk | (6) | – Zuspeicherung durch dieRegisterbehörde | – alle Stellen |
 Abschnitt III
-Begründungstexte
+Dokumentenablage
 | A | B**) | C | D |
-| 37 | Zeitpunkt der Über- mittlung | Übersendende Stellen (§ 6 Absatz 5 des AZR-Gesetzes in Verbindung mit § 6 Absatz 1 der AZRG-DV) | Übermittlung an folgende Stellen (§ 10 Absatz 1a, § 10 Absatz 6 des AZR-Gesetzes |
-| Bezeichnung der Sachverhalte, zu denen Begründungstexte zu übersenden sind (§ 6 Absatz 5 des AZR-Gesetzes) |
-| a) | Ausweisung/Verlust des Rechts auf Einreise und Aufenthalt/Überwachungsmaßnahmen bei Ausweisungen siehe Abschnitt I Nummer 13 Spalte A Buchstabe a bis r sowie Nummer 16 Spalte A Buchstabe a bis e | siehe § 6 Absatz 1der AZRG-DV | – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen – mit grenzpolizeilichen Aufgaben betraute Behörden – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde | – Ausländerbehörden – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes – Bundesamt für Migration und Flüchtlinge – Bundespolizei – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden – für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind – Bundeskriminalamt – Landeskriminalämter – sonstige Polizeivollzugsbehörden – Staatsanwaltschaften – Gerichte – Bundesagentur für Arbeit und Behörden der Zollverwaltung – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren hinsichtlich freizügigkeitsberechtigter Unionsbürger: – mit ausländer- oder asylrechtlichen Aufgaben betraute Behörden nur zur Durchführung solcher Aufgaben |
-| b) | Abschiebung siehe Abschnitt I Nummer 14 Spalte A Buchstabe e bis h sowie Nummer 20 Spalte A Buchstabe f und g |
-| c) | Einreise- und Aufenthaltsverbot siehe Nummer 14a Spalte A Buch- stabe a bis c |
-| d) | politische Betätigung eingeschränkt oder untersagt siehe Abschnitt I Nummer 15 Spalte A Buchstabe a bis d |
-| e) | Einreisebedenken siehe Abschnitt I Nummer 21 Spalte A Buchstabe a und b |
+| 37 | Zeitpunkt der Über- mittlung | Übermittelnde Stellen | Übermittlung an folgende Stellen (§ 10 Absatz 1a, § 10 Absatz 6 des AZR-Gesetzes) |
+| Bezeichnung der Sachverhalte, zu denen Dokumente zu übermitteln sind (§ 6 Absatz 5 des AZR-Gesetzes) |
+| a)Entscheidungen des Bundesamtes für Migration und Flüchtlinge über Anerkennung, Ablehnung oder Aufhebung des Schutzstatus zu den Tabellen 8 (Teil I), 14, 14a im Abschnitt Ib)aufenthaltsrechtliche Entscheidungen, die eine vollziehbare Ausreisepflicht begründen zu den Tabellen 13, 14, 14a, 16, 20 im Abschnitt Ic)Gerichtliche Entscheidungen in asyl- oder aufenthaltsrechtlichen Verfahren zu den Tabellen 8 (Teil I), 13, 14 im Abschnitt Id)Einschränkung oder Untersagung der politischen Betätigung zu Tabelle 15 im Abschnitt I | Siehe § 6 der AZRG-DV | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen–Bundesamt für Migration und Flüchtlinge–mit grenzpolizeilichen Aufgaben betraute Behörden–in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde | –Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–Bundeskriminalamt–Landeskriminalämter–sonstige Polizeivollzugsbehörden |
+| e)Verlust des Rechts auf Einreise und Aufenthalt nach dem FreizügG/EU zu Tabellen 13 und 16 im Abschnitt If)Einreisebedenken zu Tabelle 21 im Abschnitt Ig)Ausweis- oder Identifikationsdokumente zu Tabelle 4 im Abschnitt I |  |  | –Staatsanwaltschaften–Gerichte–Bundesagentur für Arbeit–Behörden der Zollverwaltung–Träger der Sozialhilfe–für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren–Zollkriminalamt zu Spalte A Buchstabe b, d, e und g–die Zentralstelle für Finanztransaktionsuntersuchungen zu Spalte A Buchstaben a bis e und g |
+|  |  |  | hinsichtlich freizügigkeitsberechtigter Unionsbürger: –mit ausländer- oder asylrechtlichen Aufgaben betraute Behörden nur zur Durchführung solcher Aufgaben |
 *) Es bedeuten:
   (1)
   = Ausländer, die keine Unionsbürger sind,

@@ -19,6 +19,7 @@
 |  | § 6 | Übermittelnde Stellen, Inhalt der Datenübermittlung |
 |  | § 7 | Übermittlung und Veränderung von Daten im Wege der Direkteingabe |
 |  | § 8 | Verantwortung für den Registerinhalt, Datenpflege |
+|  | § 8a | Datenabgleich |
 |  | § 9 | Aufzeichnungspflicht bei Speicherung |
 |  |
 |  | Abschnitt 3 |
@@ -32,6 +33,7 @@
 |  | § 13 | Aufzeichnungspflicht bei Datenübermittlung |
 |  | § 14 | Datenübermittlung an alle öffentlichen Stellen |
 |  | § 15 | Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz |
+|  | § 15a | Automatisierte Datenübermittlung an Ausländerbehörden und das Bundesamt für Migration und Flüchtlinge |
 |  | § 16 | Datenübermittlung an Gerichte |
 |  | § 17 | Datenübermittlung an das Zollkriminalamt |
 |  | § 17a | Datenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen |

@@ -133,8 +133,8 @@
 | § 64 | Sperrvermerke |
 | § 65 | Benutzung durch Behörden und Gerichte |
 | § 66 | Benutzung für wissenschaftliche Zwecke |
-| § 67 | Einrichtung zentraler Register |
-| § 68 | Mitteilungen an Behörden und Gerichte von Amts wegen |
+| § 67 | Zentrale Register |
+| § 68 | Datenaustausch zwischen Standesämtern, Behörden und Gerichten |
 | § 68a | Rechte der betroffenen Person |
 |  |
 | Kapitel 10 |

@@ -74,7 +74,7 @@
 - [§ 43 Sterbefälle in ehemaligen deutschen Konzentrationslagern](0043.md)
 - [§ 44 Sterbefälle von Angehörigen der ehemaligen deutschen Wehrmacht](0044.md)
 - [§ 45 Angleichung von Namen](0045.md)
-- [§ 46 Bescheinigung über Erklärungen zur Namensführung](0046.md)
+- [§ 46 Familienrechtliche Erklärungen](0046.md)
 
 ## Kapitel 8 Berichtigungen
 
@@ -111,7 +111,7 @@
 
 ## Kapitel 10 Übergangs- und Schlussvorschriften
 
-- [§ 65 Übergangsbeurkundungen](0065.md)
+- [§ 65 (weggefallen)](0065.md)
 - [§ 66 Fortführung von Altregistern](0066.md)
 - [§ 67 Fortführung des Familienbuchs als Heiratseintrag](0067.md)
 - [§ 68 Fortführung des Heiratseintrags](0068.md)
@@ -129,9 +129,13 @@
 - [Anlage 4 (zu den §§ 11, 19, 48, 65)](anlage-4.md)
 - [Anlage 5 (zu den §§ 11, 19, 48, 65)](anlage-5.md)
 - [Anlage 6 (zu den §§ 48, 70)](anlage-6.md)
+- [Anlage 6 E (zu den §§ 48, 55, 70)](anlage-6-e.md)
 - [Anlage 7 (zu den §§ 48, 70)](anlage-7.md)
+- [Anlage 7 E (zu den §§ 48, 55, 70)](anlage-7-e.md)
 - [Anlage 8 (zu den §§ 48, 70)](anlage-8.md)
+- [Anlage 8 E (zu den §§ 48, 55, 70)](anlage-8-e.md)
 - [Anlage 9 (zu den §§ 48, 70)](anlage-9.md)
+- [Anlage 9 E (zu den §§ 48, 70)](anlage-9-e.md)
 - [Anlage 10 (zu § 29)](anlage-10.md)
 - [Anlage 11 (zu § 31 Absatz 2)](anlage-11.md)
 - [Anlage 12 (zu § 34)](anlage-12.md)
