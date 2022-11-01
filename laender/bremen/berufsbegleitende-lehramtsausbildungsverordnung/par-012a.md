@@ -1,4 +1,0 @@
-# § 12a Prüfungsersatzleistungen
-(1) Können wegen Maßnahmen des Infektionsschutzes im Zusammenhang mit der Ausbreitung des Coronavirus SARS-CoV-2 im Verlauf des Schuljahres 2020/2021 unterrichtspraktische Prüfungen in schulischen Lerngruppen nach § 12 Absatz 3 und 4 nicht oder nicht im geforderten Mindestumfang durchgeführt werden, sind Prüfungsersatzleistungen zu erbringen. Die Prüfungsersatzleistungen müssen geeignet sein, die inhaltlichen Prüfungsanforderungen nach § 7 Absatz 4 des Bremischen Ausbildungsgesetzes für Lehrämter an die zu ersetzenden Prüfungsteile im Rahmen der staatlichen Prüfung angemessen abzubilden.
-(2) Die Durchführung der Prüfungsersatzleistungen für die unterrichtspraktischen Prüfungen nach Absatz 1 ist sicherzustellen.
-(3) Die Senatorin für Kinder und Bildung trifft die Entscheidungen über die je nach Dauer der Maßnahmen des Infektionsschutzes erforderlichen Prüfungsersatzleistungen nach Absatz 1.
