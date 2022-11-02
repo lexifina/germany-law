@@ -1,0 +1,53 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-11-02T16:04:00+01:00
+- Ende: 2022-11-02T17:10:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20243
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20243
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 24.10.2022 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00299747.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00302790.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2021 APH Service GmbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Gründung der Bundesgartenschau Wuppertal 2031 gGmbH - ungeändert beschlossen
+- TOP 3.2: Bestellung von Mitgliedern des Aufsichtsrates der Wuppertal Marketing GmbH (WMG) - zur Beratung und Entscheidung verwiesen
+- TOP 3.3: Bestellung einer stellvertretenden Betriebsleiterin - ungeändert beschlossen
+- TOP 3.4: Neufassung des Gesellschaftsvertrages der APH Service GmbH - ungeändert beschlossen
+- TOP 3.5: Neufassung der Betriebssatzung APH - ungeändert beschlossen
+- TOP 3.6: Status Bau Klingelholl - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Restrukturierung des GMW- Zwischenbericht über das Investitionsvorhabenprogramm des GMW - Entgegennahme ohne Beschluss
+- TOP 5.2: Bericht zum Urteil des Bundesverwaltungsgerichtes zur Unzulässigkeit der Wettbürosteuer - Entgegennahme ohne Beschluss
+- TOP 5.3: Information zur Bürgschaft Schlossbauverein Burg a/d Wupper e.V. - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Mehrkosten investiver Maßnahmen 2022 - ungeändert beschlossen
+- TOP 6.2: Durchführung Neugestaltung Werth neuer Finanzrahmen - ungeändert beschlossen
+- TOP 6.3: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen - ungeändert beschlossen
+- TOP 6.4: Aussetzung der Erhebung von Sondernutzungsgebühren für die Wuppertaler Weihnachtsmärkte - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Finco-Berichte zum 31.08. und 30.09.2022 - Entgegennahme ohne Beschluss
+- TOP 8.2: Stand der Investitions- und Kassenkredite zum 30.09.2022 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2021 - ungeändert beschlossen
+- TOP 9.2: Weiterführung der Infrastrukturabgabe ab dem Jahr 2023 - zur Beratung und Entscheidung verwiesen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser (WAW) für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 12.1.1: Entlastung der Betriebsleitung des WAW für das Jahr 2020 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
