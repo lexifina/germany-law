@@ -1,0 +1,51 @@
+# Ausschuss für Planung, Stadtentwicklung und Mobilität
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-11-02T17:00:00+01:00
+- Ende: 2022-11-02T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/223
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5961
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5961
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket TOP 10 - 17 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00173490.pdf
+- Ergebnisprotokoll: Sitzungspaket TOP 10 - 17 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00173490.pdf
+- Wortprotokoll: Sitzungspaket TOP 10 - 17 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00173490.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 1.1: Ergänzung der Niederschrift vom 06.09.2022
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Einwohner*innenfragestunde
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Umgestaltung der Erftstraße nach Kanalbau - Gestaltvorgaben aufgrund der Erhaltungssatzung - abgesetzt
+- TOP 5: Bebauungsplan Nr. 109/7 - Vogelsang, Römerstraße/ Am Haus Vogelsang - - einstimmig zugestimmt
+- TOP 6: Errichtung von weiteren Mobilstationen im Neusser Stadtgebiet - einstimmig zugestimmt
+- TOP 7: Beschluss über Eckpunkte und vorgezogene Maßnahmen des Mobilitätsentwicklungskonzeptes (MEK) - einstimmig zugestimmt
+- TOP 8: Umbau der Further Straße zwischen Wolberostraße und Bahnhofsunterführung sowie die Schaffung einer durchgängigen Gehwegverbindung entlang der Wolberostraße zwischen Adolfstraße und Further Straße im Zuge der Quartiersentwicklung für das ehemalige Bau - einstimmig zugestimmt
+- TOP 9: Einführung von On-Demand-Verkehren im Neusser Stadtgebiet - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 10: Beschluss über die Haushaltsaufstellung des Dezernates 6 für den Bereich Planung und Mobilität für das Jahr 2023 - einstimmig zugestimmt
+- TOP 10.1: Beschluss über die Bereitstellung von Haushaltsmitteln des Dezernates 6 für das Haushaltsjahr 2023 - mehrheitlich beschlossen
+- TOP -: Anträge
+- TOP 11: Antrag der FRaktion JETZT! betr.: Betonbrücke über Nordkanal - Antrag auf Eintragung in die Denkmalliste der Stadt Neuss - vertagt
+- TOP 12: Antrag der CDU betr.: Bau einer neuen Rheinbrücke - mehrheitlich abgelehnt
+- TOP 12.1: Antrag der CDU betr.: Verbesserung der Markierungen auf der Drususallee - weitere Impulse aus der Bürgerschaft - einstimmig zugestimmt
+- TOP 12.2: Antrag der CDU betr.: Was passiert mit dem Ladenzentrum Holzheimer Weg / Moselstraße? - einstimmig zugestimmt
+- TOP 12.3: Antrag der CDU betr.: Sachstandsbericht Halte-Punkt-Johanna-Etienne Krankenhaus - beraten ohne Abstimmung
+- TOP 12.4: Antrag Die PARTEI / DIE LINKE betr.: Verkehrssituation an der Vellbrüggener Straße - einstimmig zugestimmt
+- TOP 12.5: Antrag der Fraktionen von SPD, BÜNDNIS 90/DIE GRÜNEN und UWG/FW – Aktiv für Neuss betr.: Stärkung des Radverkehrs: einheitliche Gestaltung von Radwegen & mehr Fahrkomfort - mehrheitlich beschlossen
+- TOP 12.6: Antrag der Fraktionen von SPD, BÜNDNIS 90/DIE GRÜNEN und UWG/FW – Aktiv für Neuss betr.: Kamillianerpark: Verlängerung des Schutzstatus als geschützter Landschaftsbestandteil - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP 12.7: Anfrage des s. B. Babel betr.: Durchsetzung sicherer Führungen des Fuß- und Radverkehrs an Baustellen im Straßenverkehr - zur Kenntnis genommen
+- TOP 12.8: Anfrage der Stv. Goldkamp betr.: Bebauungsplanverfahren Nr. 473 - Hoisten; Schluchenhausstraße - zur Kenntnis genommen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 13: Entwicklung des Wohnungsbaus in Neuss - zur Kenntnis genommen
+- TOP 14: Aktualisierung des Gutachtens zum bezahlbaren Wohnraum - Sachstand Flächenbewertung - zur Kenntnis genommen
+- TOP 15: Sachstandsbericht zur Realisierung eines Mikro-Depots in Neuss - zur Kenntnis genommen
+- TOP 16: Windenergieanlagen - Bericht zum Urteil - zur Kenntnis genommen
+- TOP 17: Bericht über die Arbeit der Unfallkommission - zur Kenntnis genommen
+- TOP 18: Einwohner*innenfragestunde
