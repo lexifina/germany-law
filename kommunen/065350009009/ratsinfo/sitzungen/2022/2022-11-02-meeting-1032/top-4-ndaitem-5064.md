@@ -1,0 +1,7 @@
+# TOP 4.: Anfrage des Stadtverordneten Bernd Reiß - Anschaffung digitaler Sirenensteuergeräte
+
+- Sitzung: Stadtverordnetenversammlung der Stadt Homberg (Ohm) (25. Sitzung) (2022-11-02)
+- Körperschaft: Stadt Homberg (Ohm)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/agendaitem/5064
+- Beratung: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/consultation/3474
