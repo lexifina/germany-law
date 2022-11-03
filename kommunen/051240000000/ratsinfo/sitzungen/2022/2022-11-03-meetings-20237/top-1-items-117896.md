@@ -1,0 +1,8 @@
+# TOP 1: Druckkosten Kulturbericht
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Kultur (2022-11-03)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/117896
+- Ergebnis: geändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/54397
