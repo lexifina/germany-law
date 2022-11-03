@@ -1,0 +1,123 @@
+# 16. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-03T17:30:00+01:00
+- Ende: 2022-11-03T21:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25458
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25458
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Verkehrsbeschränkende Maßnahmen bzw. Lärmgutachten im Stadtbezirk Nippes - zurückgestellt
+- TOP 1.2: Unfall auf der Jesuitengasse - zurückgestellt
+- TOP 1.3: Umgestaltung des Johannes-Giesberts-Parks - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, Zebrastreifen nördlich des Kreuzungspunktes Sebastianstraße/Hillesheimstraße sowie südöstliche und nordöstliche Abpollerung (Az.: 02-1600-114-22) - geändert beschlossen
+- TOP -: Bürgereingabe gem. § 24 GO, Zebrastreifen nördlich des Kreuzungspunktes Sebastianstraße/Hillesheimstraße sowie südöstliche und nordöstliche Abpollerung (Az.: 02-1600-114-22) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr. Grethenstraße (Az.: 02-1600-20-22) - zurückgestellt
+- TOP 2.3: Bürgereingabe nach § 24 GO NRW - Verschönerung eines Platzes zwischen Altleinigenweg und Ebernburgweg", AZ.: 68/22 - Kenntnis genommen
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Fahrradparken Sechzigviertel (Az.: 02-1600-48-22) - geändert beschlossen
+- TOP -: Bürgereingabe gem. § 24 GO, betr.: Fahrradparken Sechzigviertel (Az.: 02-1600-48-22) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Carsharingplätze im Stadtbezirk Nippes und speziell in der Nibelungensiedlung in Mauenheim - Kenntnis genommen
+- TOP -: Carsharingplätze im Stadtbezirk Nippes und speziell in der Nibelungensiedlung in Mauenheim - Kenntnis genommen
+- TOP 7.1.2: Sachstand Künstlermarkt auf dem Schillplatz (AN/1034/2016) - zurückgestellt
+- TOP 7.1.3: Wiederherstellung des Leihradangebots in Nippes - Kenntnis genommen
+- TOP -: Wiederherstellung des Leihradangebots in Nippes - Kenntnis genommen
+- TOP 7.1.4: Fahrradparken - zurückgestellt
+- TOP -: Fahrradparken - Kenntnis genommen
+- TOP 7.1.5: Kreisverkehr Äußere Kanalstraße/Escher Straße/Robert-Perthel-Straße - Kenntnis genommen
+- TOP -: Kreisverkehr Äußere Kanalstraße/Escher Straße/Robert-Perthel-Straße - Kenntnis genommen
+- TOP 7.1.6: Tempo 30 auf der Kempener Straße - zurückgestellt
+- TOP 7.1.7: Abriss Riehler Kiosk Stammheimer Straße - zurückgestellt
+- TOP 7.1.8: Rattenpopulation im Bereich Erzberger Platz und Schillplatz in Nippes - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD zur Rattenpopulation im Bereich Erzberger Platz und Schillplatz in Nippes - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Öffnung der Adam-Wrede-Straße in Nippes für den Radverkehr in Gegenrichtung - zurückgestellt
+- TOP 7.2.2: Seilbahn - zurückgestellt
+- TOP 7.2.3: Ehemalige Tankstelle Riehler Straße - Kenntnis genommen
+- TOP -: Ehemalige Tankstelle Riehler Straße, Anfrage der SPD zur Sitzung am 03.11.2022 (AN/1896/2022) - Kenntnis genommen
+- TOP 7.2.4: Verkehrskonzept Simonskaul - zurückgestellt
+- TOP 7.2.5: Prognose zur Entwicklung der Bevölkerungszahl - Stadtbezirksweise - Kenntnis genommen
+- TOP -: AN/1901/2022, Prognose zur Entwicklung der Bevölkerungzahl - Stadtbezirksweise - Kenntnis genommen
+- TOP 7.2.6: Altablagerungen Simonskaul - Kenntnis genommen
+- TOP -: Altablagerung Simonskaul - Kenntnis genommen
+- TOP 7.2.7: Akute Gefährdungssituation GGS Halfengasse nähe KVB-Straße, Merkenicher Straße 313 - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Pionierstraße und Hittorfstraße priorisieren bei der Öffnung der Einbahnstraßen für Fahrradverkehr in Gegenrichtung - geändert beschlossen
+- TOP -: Pionierstraße und Hittorfstraße priorisieren bei der Öffnung von Einbahnstraßen für Fahrradverkehr in Gegenrichtung - Sache ist erledigt
+- TOP 8.1.2: Fahrradverkehr Promenade Niehler Damm - zurückgestellt
+- TOP -: Fahrradverkehr Promenade Niehler Damm - zurückgestellt
+- TOP 8.1.3: Aufhebung veralteter Beschlüsse - geändert beschlossen
+- TOP -: Aufhebung veralteter Beschlüsse - Sache ist erledigt
+- TOP 8.1.4: Bänke am Niehler Rheinufer erhöhen - endgültig abgelehnt
+- TOP -: Bänke am Niehler Rheinufer erhöhen - endgültig abgelehnt
+- TOP 8.1.5: Sanierung des Fuß- und Radweges Henner-Berzau-Weg im Toni-Steingass-Park - geändert beschlossen
+- TOP -: Sanierung des Fuß- und Radweges Henner-Berzau-Weg im Toni-Steingass-Park - ungeändert beschlossen
+- TOP 8.1.6: Tag des Guten Lebens - ungeändert beschlossen
+- TOP -: Tag des Guten Lebens - endgültig abgelehnt
+- TOP 8.1.7: Überflüssige Ampeln im Stadtbezirk abschalten - ungeändert beschlossen
+- TOP 8.1.8: ÖPNV in Nippes verbessern - Taktverdichtung der Linie 13 zeitnah umsetzen - zurückgestellt
+- TOP 8.1.9: Riehler Tal sanieren - ungeändert beschlossen
+- TOP 8.1.10: Einsetzung einer Arbeitsgruppe für ein Logo für den Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Abgrenzungskatalog zur Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 8.2.2: Beschlossene Einsparungen zurücknehmen - Sozialraum Bilderstöckchen stärken - ungeändert beschlossen
+- TOP 8.2.3: Härtefallfond für sozialer Träger - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Sperrung der Straße Simonskaul für den motorisierten Verkehr durch Verkehrszeichen 260 - ungeändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an den Niehler Bürgerverein e.V. - endgültig abgelehnt
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an das Blasorchester MC Kapelle Köln-Niehl e.V. - geändert beschlossen
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an den Bürgerverein Köln-Longerich e.V. - endgültig abgelehnt
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an Über den Tellerrand kochen e.V. - geändert beschlossen
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an Engel & Esel-Produktionen - ungeändert beschlossen
+- TOP 9.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an die Turnerschaft Mauenheim 1921 e.V. - endgültig abgelehnt
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an das SeniorenNetzwerk Nippes - ungeändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an die Initiative Nippeser Edelweißpiraten - ungeändert beschlossen
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an Für Nippes e.V. - geändert beschlossen
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an Christina Bacher - geändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an Zug um Zug e.V. - ungeändert beschlossen
+- TOP 9.1.14: Umgestaltung Johannes-Giesberts-Park - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) gemäß § 12 Baugesetzbuch (BauGB) in Verbindung mit § 13b BauGB Arbeitstitel: "Am Bilderstöckchen" in Köln-Bilderstöckchen - geändert beschlossen
+- TOP 9.2.2: Einrichtung einer Buslinie auf der Inneren Kanalstraße - geändert beschlossen
+- TOP -: Einrichtung einer Buslinie auf der Inneren Kanalstraße - ungeändert beschlossen
+- TOP 9.2.3: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - geändert beschlossen
+- TOP -: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - ungeändert beschlossen
+- TOP 9.2.4: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP -: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.1.1: Zwischenbericht zur Errichtung des Faber-Kunstwerks auf dem Platz an der Naumannstraße
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Öffentlichkeitsbeteiligung für den "SportPark" in Weidenpesch innerhalb der Bezirkssportanlage Scheibenstraße - Kenntnis genommen
+- TOP 10.2.2: Öffentlichkeitsbeteiligung für die beiden neu geplanten Haltestellen Niehler Straße/Gürtel und Boltensternstraße/Gürtel der Stadtbahnlinie 13 - Kenntnis genommen
+- TOP 10.2.3: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) vorhabenbezogener Bebauungsplan Nummer 66509/10 Arbeitstitel: Simonskaul in Köln-Weidenpesch - zurückgestellt
+- TOP 10.2.4: 20. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.5: Aktivitäten 2022 des House of Resources (HoR) in Köln und diesjährige Bundeskonferenz der Houses of Resources am 4.11.2022 - Kenntnis genommen
+- TOP 10.2.6: Neue Grundschule Friedrich-Karl-Straße - Kenntnis genommen
+- TOP 10.2.7: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 10.2.8: Erste Gespräche zur Abstimmung neuer Regelung für die Außengastronomie hier: Sachstand - Kenntnis genommen
+- TOP 10.2.9: 1. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2023/2024 - Kenntnis genommen
+- TOP 10.2.10: Nachfragen zur Neufassung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - Kenntnis genommen
+- TOP 10.2.11: Erster Evaluationsbericht Audit „Generationengerechtes Wohnen im Quartier“ in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 10.2.12: Gesamtinstandsetzung Mülheimer Brücke - Verkehrskonzept für die Sanierung der Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.14: Antrag auf Baugenehmigung im Rahmen der Nachverdichtung für 6 Wohngebäude mit 69 Wohnungen und 60 Stellplätzen in der Tiefgarage. - Kenntnis genommen
+- TOP 10.2.15: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 10.2.16: Umgestaltung der Jesuitengasse zwischen Amboßstraße und Schmiedegasse in Köln-Weidenpesch - Kenntnis genommen
+- TOP 10.2.17: Baulicher Zustand der Lehrschwimmbecken in Köln - Kenntnis genommen
+- TOP 10.2.18: Auswertung der Öffentlichkeitsbeteiligung zur Umgestaltung Neusser Straße zwischen Niehler Kirchweg und Kempener Straße - zurückgestellt
