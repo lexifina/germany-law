@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung des Protokolls vom 08.09.2022
+
+- Sitzung: 7. öffentliche Sitzung des Ausschusses für Soziales, Pflege, Arbeit, Senior*innen (2022-11-03)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=96776
+- Ergebnis: erledigt
