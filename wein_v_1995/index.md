@@ -52,7 +52,6 @@ des Weingesetzes)](0017.md)
 - [§ 20 Begleitpapier, Hektarertrag(zu § 30 Satz 1 Nr. 2 des Weingesetzes)](0020.md)
 - [§ 21 Ergänzende Vorschriften für den Versand von Teilmengen(zu § 30 Satz 1 Nr. 2 des Weingesetzes)](0021.md)
 - [§ 22 Kontrollvorschriften(zu § 30 Satz 1 Nr. 2 des Weingesetzes)](0022.md)
-- [§ 22 Kontrollvorschriften(zu § 30 Satz 1 Nr. 2 des Weingesetzes)](0022-2.md)
 - [§ 23 Begleitpapier, Ermächtigungen (zu § 30 Satz 1 Nummer 2 i. V. m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)](0023.md)
 - [§ 24 Begleitpapier, ergänzende Vorschrift(zu § 30 Satz 1 Nr. 2 des Weingesetzes)](0024.md)
 
@@ -100,7 +99,6 @@ Abs. 1 Satz 1 und 2 Nr. 6 des Weingesetzes)](0033.md)
 
 - [§ 39 Straftaten](0039.md)
 - [§ 40 Ordnungswidrigkeiten](0040.md)
-- [§ 40 Ordnungswidrigkeiten](0040-2.md)
 
 ## Abschnitt 8 Schlussbestimmungen
 

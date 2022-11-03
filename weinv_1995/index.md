@@ -1,7 +1,6 @@
 # Weinverordnung
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
-- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Abschnitt 1 Weinanbaugebiet
 
@@ -13,11 +12,9 @@
 
 - [§ 3 Formular für Anträge auf Genehmigung einer Neuanpflanzung(zu § 7c Absatz 2 des Weingesetzes)](0003.md)
 - [§ 4 Nachweis des Vorliegens von Prioritätskriterien(zu § 7c Absatz 2 des Weingesetzes)](0004.md)
-- [§ 4a Nachweis der Lage im Anbaugebiet oder im Landweingebiet (zu § 7c Absatz 2 des Weingesetzes)](0004a.md)
-- [§ 4a (weggefallen)](0004a-2.md)
+- [§ 4a (weggefallen)](0004a.md)
 - [§ 5 Härtefallregelung für Neuanpflanzungen(zu § 7c Absatz 3 des Weingesetzes)](0005.md)
-- [§ 6 Erzeugnisse aus Versuchsanbau (zu § 7e Absatz 2 Satz 2 und § 7f des Weingesetzes)](0006.md)
-- [§ 6 Erzeugnisse aus Versuchsanbau(zu § 7e Absatz 2 Satz 2 und § 7f des Weingesetzes)](0006-2.md)
+- [§ 6 Erzeugnisse aus Versuchsanbau(zu § 7e Absatz 2 Satz 2 und § 7f des Weingesetzes)](0006.md)
 - [(XXXX) §§ 7 bis 7a (weggefallen)](xxxx-7-bis-7a.md)
 - [§ 8 Umstrukturierung und Umstellung*%(zu § 3b Absatz 3 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)](0008.md)
 - [§ 9](0009.md)
@@ -27,27 +24,21 @@
 ## Abschnitt 3 Verarbeitung
 
 - [§ 11 Behandlungsverfahren und Behandlungsstoffe(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)](0011.md)
-- [§ 11 Behandlungsverfahren und Behandlungsstoffe(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)](0011-2.md)
-- [§ 12 Reinheitsanforderungen(zu § 13 Absatz 3 Nummer 1 und 2 des Weingesetzes)](0012.md)
-- [§ 12 (weggefallen)](0012-2.md)
+- [§ 12 (weggefallen)](0012.md)
 - [§ 13 Behandlungsverfahren und Gehalt an Stoffen(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)](0013.md)
-- [§ 13 Behandlungsverfahren und Gehalt an Stoffen(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)](0013-2.md)
 - [§ 13a (weggefallen)](0013a.md)
 - [§ 14 Hygienische Anforderungen*%(zu § 16 Absatz 3 Nummer 1 des Weingesetzes)](0014.md)
 - [§ 15 Erhöhung des natürlichen Alkoholgehaltes(zu § 15 Nummer 1, 3 bis 5 des Weingesetzes)](0015.md)
-- [§ 15 Erhöhung des natürlichen Alkoholgehaltes(zu § 15 Nummer 1, 3 bis 5 des Weingesetzes)](0015-2.md)
 - [§ 16 Süßung(zu § 15 Nummer 2 und 3, § 22 Absatz 2 Nummer 1 des Weingesetzes)](0016.md)
 - [§ 16a (weggefallen)](0016a.md)
-- [§ 17 Umrechnung von Oechslegraden in Volumenprozent Alkohol(zu § 15 Nummer 7 des Weingesetzes)](0017.md)
-- [§ 17 (weggefallen)](0017-2.md)
+- [§ 17 (weggefallen)](0017.md)
 - [§ 18 Weitere Verarbeitungsregeln(zu § 15 Nummer 3 und § 16 Absatz 2 des Weingesetzes)](0018.md)
 
 ## Abschnitt 4 Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A., Qualitätslikörwein b.A. oder Landwein
 
 - [§ 19 Herstellen von Qualitätswein, Prädikatswein, Sekt b. A., Qualitätsperlwein b. A. oder Qualitätslikörwein b. A. außerhalb des bestimmten Anbaugebietes(zu § 17 Absatz 2 Nummer 1 des Weingesetzes)](0019.md)
 - [§ 20 Herstellen von Landwein außerhalb des Landweingebietes(zu § 22 Absatz 2 Nummer 2 des Weingesetzes)](0020.md)
-- [§ 20a Vorübergehende Änderung einer Produktspezifikation (zu § 22c Absatz 9 Satz 3 des Weingesetzes)](0020a.md)
-- [§ 20a Vorübergehende Änderung einer Produktspezifikation(zu § 22c Absatz 9 Satz 3 des Weingesetzes)](0020a-2.md)
+- [§ 20a Vorübergehende Änderung einer Produktspezifikation(zu § 22c Absatz 9 Satz 3 des Weingesetzes)](0020a.md)
 - [§ 21 Qualitätsprüfung(zu § 21 Absatz 1 Nummer 1 i.V.m. § 54 Absatz 1 des Weingesetzes)](0021.md)
 - [§ 22 Antrag auf Erteilung einer Prüfungsnummer(zu § 21 Absatz 1 Nummer 1 und 3 des Weingesetzes)](0022.md)
 - [§ 23 Untersuchungsbefund (zu § 21 Absatz 1 Nummer 3 i.V.m. § 54 Absatz 1 des Weingesetzes)](0023.md)
@@ -62,7 +53,6 @@
 
 - [§ 29 Eintragung von Lagen und Bereichen(zu § 23 Absatz 3 des Weingesetzes)](0029.md)
 - [§ 30 Auszeichnungen und ähnliche Angaben(zu § 24 Absatz 2 i. V. m. § 54 Absatz 1 des Weingesetzes)](0030.md)
-- [§ 30 Auszeichnungen und ähnliche Angaben(zu § 24 Absatz 2 i. V. m. § 54 Absatz 1 des Weingesetzes)](0030-2.md)
 - [§ 31 Wein für religiöse Zwecke(zu § 24 Absatz 2 des Weingesetzes)](0031.md)
 - [§ 32 Angabe von Weinarten; Reifeangaben(zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 und 3 Nummer 5 des Weingesetzes)](0032.md)
 - [§ 32a Classic (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)](0032a.md)
@@ -79,7 +69,6 @@
 - [§ 35 (weggefallen)](0035.md)
 - [§ 36 Vorgeschriebene Angaben(zu § 24 Absatz 2 des Weingesetzes)](0036.md)
 - [§ 37 Zugelassene und verbotene Angaben(zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)](0037.md)
-- [§ 37 Zugelassene und verbotene Angaben(zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)](0037-2.md)
 - [§ 38 Angaben zum Betrieb und zur Abfüllung(zu § 24 Absatz 2 des Weingesetzes)](0038.md)
 - [§ 39 Geografische Angaben(zu § 24 Absatz 2 und 3 Nummer 4 und 5 in Verbindung mit § 54 Absatz 1 des Weingesetzes)](0039.md)
 - [§ 39 Geografische Angaben(zu § 24 Absatz 2 und 3 Nummer 4 und 5 in Verbindung mit § 54 Absatz 1 des Weingesetzes)](0039-2.md)
@@ -104,7 +93,6 @@
 ## Abschnitt 6 Straftaten und Ordnungswidrigkeiten
 
 - [§ 52 Straftaten](0052.md)
-- [§ 52 Straftaten](0052-2.md)
 - [§ 53 Ordnungswidrigkeiten](0053.md)
 
 ## Abschnitt 7 Schlussbestimmungen
@@ -115,13 +103,11 @@
 - [Anlage 2 (weggefallen)](anlage-2.md)
 - [Anlage 3 (weggefallen)](anlage-3.md)
 - [Anlage 4 (weggefallen)](anlage-4.md)
-- [Anlage 5 (zu § 12)Reinheitsanforderungen](anlage-5.md)
-- [Anlage 5 (weggefallen)](anlage-5-2.md)
+- [Anlage 5 (weggefallen)](anlage-5.md)
 - [Anlage 6 (weggefallen)](anlage-6.md)
 - [Anlage 7 (zu § 13 Absatz 1)Gehalt an Stoffen](anlage-7.md)
 - [Anlage 7a (zu § 13 Absatz 2) Stoffe](anlage-7a.md)
-- [Anlage 8 (zu § 17)Tabelle zur Ermittlung des natürlichen Alkoholgehalts in Volumenprozent aus dem Oechslegrad](anlage-8.md)
-- [Anlage 8 (weggefallen)](anlage-8-2.md)
+- [Anlage 8 (weggefallen)](anlage-8.md)
 - [Anlage 9 (zu § 22 Absatz 1 und § 24 Absatz 1) Prüfungsantrag/Sinnenprüfung](anlage-9.md)
 - [Anlage 10 (zu § 22 Absatz 5 und § 23 Absatz 1)Untersuchungsbefund](anlage-10.md)
 - [Anlage 11 (zu § 26 Absatz 2 und § 45 Absatz 2)Abkürzungen der Bundesländer bei der Angabe von Kennziffern](anlage-11.md)

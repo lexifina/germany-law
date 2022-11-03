@@ -9,7 +9,7 @@
 | Anbauregeln |
 | § 3 | Formular für Anträge auf Genehmigung einer Neuanpflanzung |
 | § 4 | Nachweis des Vorliegens von Prioritätskriterien |
-| § 4a | Nachweis der Lage im Anbaugebiet oder im Landweingebiet |
+| § 4a | (weggefallen) |
 | § 5 | Härtefallregelung für Neuanpflanzungen |
 | § 6 | Erzeugnisse aus Versuchsanbau |
 | § 7 | (weggefallen) |
@@ -21,14 +21,14 @@
 | Abschnitt 3 |
 | Verarbeitung |
 | § 11 | Behandlungsverfahren und Behandlungsstoffe |
-| § 12 | Reinheitsanforderungen |
+| § 12 | (weggefallen) |
 | § 13 | Behandlungsverfahren und Gehalt an Stoffen |
 | § 13a | (weggefallen) |
 | § 14 | Hygienische Anforderungen |
 | § 15 | Erhöhung des natürlichen Alkoholgehalts |
 | § 16 | Süßung |
 | § 16a | (weggefallen) |
-| § 17 | Umrechnung von Oechslegraden in Volumenprozent Alkohol |
+| § 17 | (weggefallen) |
 | § 18 | Weitere Verarbeitungsregeln |
 | Abschnitt 4 |
 | Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A., Qualitätslikörwein b.A. oder Landwein |
@@ -75,7 +75,7 @@
 | § 46 | Angabe des Alkoholgehalts bei weinhaltigen Getränken, aromatisiertem Wein, aromatisierten weinhaltigen Getränken und aromatisierten weinhaltigen Cocktails |
 | § 46a | Zusatzstoffangaben; Angabe bei erhöhtem Koffeingehalt |
 | § 46b | Zutaten, die allergische oder andere Unverträglichkeitsreaktionen auslösen können |
-| § 47 | Alkoholfreier und alkoholreduzierter Wein |
+| § 47 | Schäumende Getränke aus entalkoholisiertem Wein, teilweise entalkoholisiertem Wein und Wein |
 | § 48 | (weggefallen) |
 | § 49 | Art der Aufmachung |
 | § 50 | Angabe des Loses |
