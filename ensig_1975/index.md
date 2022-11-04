@@ -58,4 +58,5 @@
 
 ## Kapitel 3 Schlussbestimmungen
 
-- [§ 31 Inkrafttreten](0031.md)
+- [§ 31 Besteuerung](0031.md)
+- [§ 32 Inkrafttreten](0032.md)
