@@ -1,0 +1,61 @@
+# Anlage 13 (zu § 58 Absatz 1 und Absatz 2)Beurteilung der Leistungen im Grundstudium für den gehobenen Steuerverwaltungsdienst
+
+|  |  |  |
+| Bildungseinrichtung |  |  |
+Beurteilung der Leistungen
+| von |  |  |  |
+|  | Dienst- oder Amtsbezeichnung |  | Vor- und Familienname |
+|  |  |  |
+| Finanzamt |  |  |
+im Grundstudium
+|  |  |  |  |  |  |  |  |  |
+|  | Fach*1 | Notenpunktzahl |  |
+|  | I. | Durchschnittsnotenpunktzahl der Leistungen bis zur Zwischenprüfung (Anlage 12) |  |  | (1) |  |  |  |
+|  | II. | Studienleistungen im Grundstudium nach der Zwischenprüfung bis zu den Abschlussklausuren |  |  |  |  |  |  |
+|  |  | Abgabenrecht |  |  |  |  |  |  |
+|  |  | Bewertungsrecht und Vermögensbesteuerung |  |  |  |  |  |  |
+|  |  | Steuern vom Einkommen und Ertrag |  |  |  |  |  |  |
+|  |  | Umsatzsteuer |  |  |  |  |  |  |
+|  |  | Bilanzsteuerrecht, Betriebliches Rechnungswesen und Außenprüfung |  |  |  |  |  |  |
+|  |  | Besteuerung der Gesellschaften |  |  |  |  |  |  |
+|  |  | Privatrecht |  |  |  |  |  |  |
+|  |  | Öffentliches Recht |  |  |  |  |  |  |
+|  |  | Wirtschaftswissenschaften |  |  |  |  |  |  |
+|  |  | Informations- und Wissensmanagement |  |  |  |  |  |  |
+|  |  | Arbeits- und Selbstorganisation sowie Verwaltungsmanagement*2 |  |  |  |  |  |  |
+|  |  | Sozialwissenschaftliche Grundlagen des Verwaltungshandelns*2 |  |  |  |  |  |  |
+|  |  | Summe der Notenpunktzahlen |  |  |  |  |  |  |
+|  |  | Durchschnittsnotenpunktzahl (§ 12 Abs. 3 StBAPO) |  |  | (2) |  |  |  |
+|  |  | Summe der Durchschnittsnotenpunktzahlen 2 x 4 |  |  |  |  | (A) |  |
+|  |  |  |  |  | (1 + 2) x 4 2 |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Fach*1 | Notenpunktzahl |  |
+|  | III. | Abschlussklausuren |  |  |  |  |  |  |
+|  |  | Abgabenrecht |  |  |  |  |  |  |
+|  |  | Umsatzsteuer |  |  |  |  |  |  |
+|  |  | Steuern von Einkommen und Ertrag |  |  |  |  |  |  |
+|  |  | Bilanzsteuerrecht, Betriebliches Rechnungswesen und Außenprüfung |  |  |  |  |  |  |
+|  |  | Privatrecht oder Privatrecht in Kombination mit Öffentlichem Recht*3 |  |  |  |  |  |  |
+|  |  | Summe der Notenpunktzahlen |  |  |  |  |  |  |
+|  |  | Durchschnittsnotenpunktzahl (§ 12 Abs. 3 StBAPO) |  |  | (3) |  |  |  |
+|  |  | Durchschnittsnotenpunktzahl x 3 |  |  |  |  | (B) |  |
+|  |  |  |  |  | (3) x 3 |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Summe |  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  | A + B |  |
+|  | Summe : 7 |  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  | (A + B ) : 7 |  |
+|  | Studiennote Grundstudium (analog § 12 Abs. 3 StBAPO) |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+Hinweise:
+| *1: | Sofern Teilgebiete der nachstehenden Fächer zu einem Fach zusammengefasst werden, kann dieses Fach beurteilt werden. |
+| *2: | Die Leistungen in den Fächern „Arbeits- und Selbstorganisation sowie Verwaltungsmanagement“ und „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ werden zusammen bewertet (Summe der Einzelleistungen : 2). |
+| *3: | Sofern Teilgebiete der Fächer Privatrecht und Öffentliches Recht zu einem Fach zusammengefasst werden, kann dieses Fach beurteilt werden. |
+|  |  | Kenntnis genommen: |
+|  |  |  |
+| Ort, Datum |  | Ort, Datum |
+|  |  |  |
+| Leitung der Bildungseinrichtung/des Fachbereichs |  | Vor- und Familienname der beurteilten Person |
