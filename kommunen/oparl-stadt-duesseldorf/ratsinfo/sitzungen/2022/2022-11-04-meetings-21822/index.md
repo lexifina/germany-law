@@ -1,0 +1,75 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-04T16:00:00+01:00
+- Ende: 2022-11-04T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21822
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21822
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung ö 04.11.2022, Stand 03.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465520.pdf
+- Ergebnisprotokoll: BV9 Sitzung ö 04.11.2022, Stand 03.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465520.pdf
+- Wortprotokoll: BV9 Sitzung ö 04.11.2022, Stand 03.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465520.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 23.09.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Zulassung einer Vertretung des Behindertenrates - einstimmig beschlossen
+- TOP 5.2: Renaturierung Itter-Verlauf im Bereich des Schlossparkes Benrath - mündlicher Vortrag
+- TOP 5.3: Maßnahmen zur Verkehrsverbesserung an den aufeinanderfolgenden Kreuzungen: 1) Einsiedel-/Rheinstahl-/Schimmelpfennigstr. und 2) Paulsmühlen-/Einsiedelstr./Am Wald - mehrheitlich beschlossen
+- TOP 5.3.1: Maßnahmen zur Verkehrsverbesserung an den aufeinanderfolgenden Kreuzungen; BV9/123/2022 Beantwortung der Prüfaufträge und Fragen aus der Sitzung der BV9 am 23.09.2022 - zur Kenntnis genommen
+- TOP 5.4: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 5.5: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - Empfehlung mehrheitlich beschlossen
+- TOP 5.6: Bebauungsplan-Entwurf Nr. 09/011 - Östlich Kölner Landstraße - - Empfehlung mehrheitlich beschlossen
+- TOP 5.7: Flemingweg – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 5.8: Heiligenhauser Straße – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - vertagt
+- TOP 5.9: Bruchhausenstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 5.10: Bayreuther Straße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 5.11: Kulmer Straße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - vertagt
+- TOP 5.12: Marbacher Straße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - vertagt
+- TOP 5.13: Stephanstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 5.14: Trödelmärkte auf dem Schützenplatz Spangerstraße im 1. Halbjahr 2023 - einstimmig beschlossen
+- TOP 5.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 5.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Fußgängerüberwege Paulsmühlenstraße - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 8.3: Nutzung stillgelegter IDR-Gleistrassen, Quartiersentwicklung Benrodestraße/ Marbacher Straße - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Quartiersgarage Telleringstraße - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Henri-Dunant-Schule - Schulprojektwoche "Zirkus" - einstimmig beschlossen
+- TOP 9.2: Martinsfreunde Benrath Mitte - Martinszug 2022 - einstimmig beschlossen
+- TOP 9.3: St.-Elisabeth-Schule - Martinszug 2022 - einstimmig beschlossen
+- TOP 9.4: Martinsfreunde Hassels - Martinszug 2022 - einstimmig beschlossen
+- TOP 9.5: Kirchengemeinde St. Hubertus Itter - Karnevalsumzug 2023 - einstimmig beschlossen
+- TOP 9.6: Diakonie Düsseldorf-Seniorengerechtes Quartier Urdenbach - Adventsaktion 2022 - einstimmig beschlossen
+- TOP 9.7: Heimatverein Holthausen/Itter/Himmelgeist e.V. - Martinszug 2022 - zurückgezogen
+- TOP 9.8: ASB Region Düsseldorf e.V. zentrum plus Holthausen - Adventsingen auf dem Kamper Acker 2022 - einstimmig beschlossen
+- TOP 9.9: Chor und Band Neue Wege - 50. Jubiläum - einstimmig beschlossen
+- TOP 9.10: KGS Einsiedelstraße - Martinsfest 2022 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Installation von Fahrrad-Reparatur-Stationen im Stadtbezirk 9 - Beschluss der Bezirksvertretung 9 vom 18.03.2022; BV9/056/2022 - zur Kenntnis genommen
+- TOP 10.2: Fischtreppe Benrather Schlossufer - Beschluss der Bezirksvertretung 9 vom 26.08.2022; BV9/186/2022 - zur Kenntnis genommen
+- TOP 10.3: Sachstandsbericht Energiesparen - Beschluss der Bezirksvertretung 9 am 26.08.2022; BV9/176/2022 - zur Kenntnis genommen
