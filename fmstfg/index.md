@@ -37,7 +37,7 @@
 - [§ 9 Kreditermächtigung](0009.md)
 - [§ 10 Bedingungen für Stabilisierungsmaßnahmen; Verordnungsermächtigung](0010.md)
 - [§ 10a Parlamentarische Kontrolle](0010a.md)
-- [§ 11 Jahresrechnung und parlamentarische Unterrichtung](0011.md)
+- [§ 11 Haushalts- und Vermögensrechnung und parlamentarische Unterrichtung](0011.md)
 - [§ 12 Verwaltungskosten](0012.md)
 - [§ 13 Befristung und Länderbeteiligung](0013.md)
 
@@ -70,7 +70,17 @@
 - [§ 25 Voraussetzungen und Bedingungen für Stabilisierungsmaßnahmen; Verordnungsermächtigung](0025.md)
 - [§ 26 Befristung; Verordnungsermächtigung](0026.md)
 
-### Teil 3 Besteuerung
+### Teil 3 Abfederung der Folgen der Energiekrise
+
+- [§ 26a Maßnahmen; Verordnungsermächtigung](0026a.md)
+- [§ 26b Kreditermächtigung zur Finanzierung von Maßnahmen nach § 26a](0026b.md)
+- [§ 26c Wirtschaftsplan und Haushaltsrecht](0026c.md)
+- [§ 26d Rechnungslegung](0026d.md)
+- [§ 26e Berichtspflichten; Parlamentarische Kontrolle](0026e.md)
+- [§ 26f Verwaltungskosten](0026f.md)
+- [§ 26g Befristung](0026g.md)
+
+### Teil 4 Besteuerung
 
 - [§ 27 Steuern](0027.md)
 - [§ 28 Anwendungsvorschrift für § 27](0028.md)
@@ -80,3 +90,4 @@
 - [§ 29 Sofortige Vollziehbarkeit](0029.md)
 - [§ 30 Rechtsweg](0030.md)
 - [§ 31 Verkündung von Rechtsverordnungen](0031.md)
+- [Anlage Wirtschaftsplan des Wirtschaftsstabilisierungsfonds Abschnitt 2 Teil 3: Abfederung der Folgen der Energiekrise](anlage.md)

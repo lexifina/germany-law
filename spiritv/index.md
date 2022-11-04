@@ -12,7 +12,6 @@
 - [§ 7 (weggefallen)](0007.md)
 - [§ 8 Zuckerung von bestimmten Spirituosen](0008.md)
 - [§ 9 Spirituosen mit geografischen Bezugnahmen](0009.md)
-- [§ 9a (weggefallen)](0009a.md)
 
 ## Zweiter Abschnitt Weinähnliche, perlweinähnliche und schaumweinähnliche Getränke und
 hieraus weiterverarbeitete alkoholhaltige Getränke
@@ -34,4 +33,3 @@ Bewertungsschema für Deutschen Weinbrand](anlage-2.md)
 - [Anlage 3 (zu § 5 Abs. 3 Nr. 1)
 
 Abkürzungen der Bundesländer](anlage-3.md)
-- [Anlage 4 (weggefallen)](anlage-4.md)
