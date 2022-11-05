@@ -22,4 +22,5 @@ Abschnitt 4: Waldbehörden
 Abschnitt 5: Ordnungswidrigkeiten, Schlussvorschriften
 § 16 | Ordnungswidrigkeiten
 § 17 | Ausnahmen und Befreiungen
-§ 18 | In-Kraft-Treten/Außer-Kraft-Treten
+§ 18 | Maßnahmen der unteren Waldbehörden
+§ 19 | In-Kraft-Treten / Außer-Kraft-Treten
