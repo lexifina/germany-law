@@ -1,0 +1,96 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-11-07T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6917355
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6917355
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Blumenkübel in der Schöttlstraße
+- TOP 2.2.: Müllberg am Harras
+- TOP 2.3.: Historische Grabsteine im Sendlinger Friedhof
+- TOP 2.4.: Lastwagenstopp in der Valleystraße
+- TOP 2.5.: Baustelle Wackersberger Straße 59
+- TOP 2.6.: Parkraummanagement während der Wiesn
+- TOP 2.7.: Schmied-Kochel-Straße: Fahrradstraße, Begrünung, Parken
+- TOP 2.8.: Eingeschränktes Haltverbot Implerstraße 23-29
+- TOP 2.9.: Gefährliche Straßensituation für Fahrradfahrer*innen
+- TOP 2.10.: Sitzbank auf dem Quartiersplatz Theresienhöhe
+- TOP 2.11.: Unfall wegen des Zustands des Radweges an der Plinganserstraße
+- TOP 2.12.: Weg für die Müllabfuhr in der Schöttlstraße frei machen
+- TOP 2.13.: Fahrradabstellplätze an der Lipowskystraße 23
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Boulebahn am Gotzinger Platz Antwort
+- TOP 4.3.3.: Mitteilung über Entfernung eines Gefahrenbaums am Margaretenplatz
+- TOP 4.3.4.: Lärmbeschwerde wegen Baustelle an der Reutberger Straße 10 Antwort
+- TOP 4.3.5.: Widmung von Naturdenkmälern im Flaucher Antwort
+- TOP 4.3.6.: Erhöhung der Attraktivität unseres Viertels Antwort
+- TOP 4.3.7.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: REWE-Park entmüllen und endlich in eine Grünanlage umwandeln [SPD]
+- TOP 4.4.2.: Bank am Sendlinger Kirchplatz renovieren [Seniorenvertretung]
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verbesserungsvorschläge für Sendling Antwort
+- TOP 5.3.2.: Verkehrrechtliche Anordnung Aberlestraße, Alramstraße, Danklstraße Verlegung einer 110 kV-Leitung
+- TOP 5.3.3.: Bestätigung Veranstaltung auf öffentlichem Grund (OHNE Anhörung): Martinszug städt. KiGa am 10.11.2022
+- TOP 5.3.4.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Regionalzughalt Poccistraße auch für S-Bahnen ermöglichen [SPD]
+- TOP 5.4.2.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mithilfe einer TOPO-Box in der Valleystraße vor den Schulen am Gotzinger Platz – Bestellung einer Städtischen Leistung [Die Grünen]
+- TOP 5.4.3.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mithilfe einer TOPO-Box vor der Schule an der Implerstraße – Bestellung einer Städtischen Leistung [Die Grünen]
+- TOP 5.4.4.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mithilfe einer TOPO-Box vor der Grundschule an der Pfeuferstraße - Bestellung einer Städtischen Leistung [Die Grünen]
+- TOP 5.4.5.: Fahrradabstellanlagen im Bereich südlich Brudermühlstraße [Die Grünen]
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 6 vom 01.01.2023 -31.12.2023 7.500,00€; Az. 0262.0-6-0401
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Kirchenmusik St. Margaret - Orgelfest Bericht
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: Freie Lastenräder am Harras Vertagung aus Mai 2022
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Antrag aus der Kinder- und Jugendversammlung vom 01.07.2022 Einrichtung eines Fußballfeldes im SBZ
+- TOP 7.3.2.: Mögliche Sprengeländerung von der GS Gotzinger Platz zur GS Implerstraße zum Schuljahr 2023/24
+- TOP 7.3.3.: Antrag aus der Kinder- und Jugendversammlung vom 01.07.2022 Weiter mit dem Projekt "Fair-Play", Erweiterung an anderen Schulen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Anhörung des Bezirksausschusses zu einer Freischankfläche Thalkirchner Straße 126
+- TOP 8.2.2.: Oktoberfest 2022 Schluss- und Erfahrungsbericht
+- TOP 8.2.3.: Sendlinger Weihnachtsmarkt Am Harras vom 21.11. bis 23.12.2022
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Darstellende Kunst & Musik im öffentlichen Raum ermöglichen und von Seiten der Landeshauptstadt München fördern
+- TOP 8.3.2.: Rückfragen des BAs zur Anhörung bezüglich des Sendlinger Christkindlmarktes Antwort
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 6.1.2.: (E) Stadtbezirksbudget Naturkindergarten Isarindianer e.V. “Erneuerung der Überdachung des Bauwagen-Vorplatzes vom 01.06-31.06.2023“ 6.497,70 € / AZ: 0262.0-6-0402
