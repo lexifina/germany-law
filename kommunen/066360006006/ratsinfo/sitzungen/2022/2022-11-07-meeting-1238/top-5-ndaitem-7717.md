@@ -1,0 +1,6 @@
+# TOP 5.: Verschiedenes
+
+- Sitzung: Ortsbeirat Friedrichsbrück (9. Sitzung) (2022-11-07)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/7717
