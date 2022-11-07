@@ -1,0 +1,96 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-07T17:05:00+01:00
+- Ende: 2022-11-07T21:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25486
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25486
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: TOP A Durchführung einer Aktuellen Stunde: Starkregenereignisse - Konzept für ein Starkregenrisiko-Management, Gemeinsamer Antrag aller Fraktionen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Sitzmöbel/Bank am Höninger Platz, Köln - Zollstock (Az.: 02-1600-103-22) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Auswirkung der Energieeinsparungen im Stadtbezirk Rodenkirchen, Beantwortung der Anfrage der SPD-Fraktion (AN/1368/2022) aus der Sitzung am 29.08.2022 - Kenntnis genommen
+- TOP 7.1.2: Durchgangsverkehr Sinziger Straße und Heidekaul - Kenntnis genommen
+- TOP 7.1.3: Absenkung von Gehwegen im Bezirk Rodenkirchen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Linienführung der Nord-Süd-Stadtbahn, 4. Baustufe, durch das Wasserschutzgebiet am Verteilerkreis Bonner Straße/Militärring und am Autobahnkreuz Köln-Süd., Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.1.1: Linienführung der StadtBahnSüd durch die Wasserschutzzone am Verteilerkreis und am Autobahnkreuz Köln-Süd, Anfrage der SPD-Fraktion der Bezirksvertretung Köln-Rodenkirchen für die Sitzung am 07.11.2022 (AN/1641/2022) - Kenntnis genommen
+- TOP 7.2.2: Entwicklung Kfz-Zulassungszahlen im Stadtbezirk Rodenkirchen, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2.1: Beantwortung Anfrage AN/1777/2022 - Entwicklung von Kfz-Zulassungszahlen im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 7.2.3: Umsetzung des Beschlusses auf Entschärfung des Gefahrenbereichs der Einmündung der Berzdorfer Straße in die Immendorfer Hauptstraße in Köln-Immendorf - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Sachstand Neugestaltung Spielplatz Alteburger Straße in Köln-Bayenthal, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Sachstand Ortsumgehung Meschenich, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Absolutes Halteverbot auf der Vorgebirgsstraße durch Fahrradspur, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3: Unbeantwortete Anfragen
+- TOP 7.3.1: Baustellen-Verkehr für den Abriss und den Neubau des Bezirksrathauses K-Rodenkirchen, Unbeantwortete gemeinsame Anfrage (AN/1577/2017) der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion aus der Sitzung 13.11.2017 (Zwischeninfo Mitteilung 3772-20 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.2: Bahnhof Sürth: Vorplatz, Planung und Umsetzung Unbeantwortete gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion (AN/1337/2019) aus der Sitzung vom 11.11.2019 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.3: Bahnhof Sürth, Vorplatz: Stand des Gestaltungskonzeptes; Unbeantwortete gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion (AN/1576/2021) aus der Sitzung am 06.09.2021 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.4: Einrichtung eines Fahrradstreifens auf dem Bayenthalgürtel in Köln-Marienburg, Unbeantwortete Anfrage der SPD-Fraktion (AN/0361/2022) aus der Sitzung am 07.03.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.5: Baumfällungen 2021 - Stadtbezirk Rodenkirchen, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0107/2022) aus der Sitzung am 31.01.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.6: Zollstocker Weg: Entsiegelung, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung am 02.05.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.7: Situation auf dem Friedhof Steinneuerhof in Rondorf, Unbeantwortete Anfrage der CDU-Fraktion aus der Sitzung am 02.05.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.8: Umgang mit Plastikabfall auf städtischen Grünanlagen, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/1165/2022) aus der Sitzung am 13.06.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.9: Verbreiterung des Leinpfades (Euroveloroute 15) in Rodenkirchen, Unbeantwortete Anfrage der CDU-Fraktion (AN/1178/2022) aus der Sitzung am 13.06.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.10: Angebot an Schulplätzen in Eingangsklassen an Grundschulen und weiterführenden Schulen im Stadtbezirk Köln-Rodenkirchen zum Schuljahr 2022/2023,Unbeantwortete Anfrage der FDP-Fraktion (AN/1315/2022) aus der Sitzung am 29.08.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.11: Baumfehlstellen Gottesweg, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/1362/2022) aus der Sitzung am 29.08.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.12: Fassadenbegrünung, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/1363/2022) aus der Sitzung am 29.08.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.13: Sachstand Umgestaltung Spielplatz Zum Hedelsberg / Im Salzgrund in Weiß, Unbeantwortete Anfrage der SPD-Fraktion (AN/1367/2022) aus der Sitzung am 29.08.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.14: Verkauf von städtischen Grundstücken neben der Bonner Str. 536-540, Unbeantwortete Anfrage der SPD-Fraktion (AN/1369/2022) aus der Sitzung am 29.08.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.15: Einhalten der Reaktionszeiten der Rettungsdienste und Rettungsdienstbedarfsplan, Unbeantwortete Anfrage der CDU-Fraktion (AN/1460/2022) aus der Sitzung am 29.08.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.15.1: Einhalten der Reaktionszeiten der Rettungsdienste und Rettungsdienstbedarfsplan - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Schulwegsicherung Hammerschmidtstraße, Antrag der Fraktion Bündnis 90/Die Grünen - geändert beschlossen
+- TOP -: Ergänzungsantrag der CDU-Fraktion - Sache ist erledigt
+- TOP 8.1.2: Aufrechterhaltung der Attraktivität des Gewerbegebietes Claudiusstraße in Immendorf, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.3: Verschönerung Vorgebirgspark – Tischtennisplatz und Wiese, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.4: Umgestaltung der Unterführung unter der BAB 555 in der Radewegeverbindung zwischen Köln-Marienburg und Köln-Raderthal, Antrag der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.1.5: Baumscheiben Hebbelstraße Köln Bayenthal, Antrag der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP -: Ergänzungsantrag der CDU-Fraktion - endgültig abgelehnt
+- TOP 8.1.6: Verbesserung der Barrierefreiheit; Bürgersteigabsenkung im Stadtbezirk Rodenkirchen, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.7: Fahrradstellplätze Höninger Weg 290-294 in Köln-Zollstock, Antrag der SPD-Fraktion mit Beitritt der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 8.1.8: Darstellung von Situationen und Örtlichkeiten als Ursache für die Überschreitung von Schutzzielfristen bei Einsatzfahrten der Feuerwehr im Stadtbezirk Köln-Rodenkirchen, Antrag der FDP-Fraktion - zurückgestellt
+- TOP 8.1.9: Mitfahrbank in Köln-Immendorf, Antrag der SPD-Fraktion mit Beitritt der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion und der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.10: Shell: umfangreiche Baumfällungen auf dem Werksgelände in Godorf - Bericht, Gemeinsamer Dringlichkeitsantrag aller Fraktionen - Sache ist erledigt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Wohnungsbauflächen im Stadtbezirk Rodenkirchen, Antrag der SPD-Fraktion - ungeändert empfohlen
+- TOP 8.2.2: Wiedereinführung der Bezirksbeigeordneten, Antrag der FDP-Fraktion - zurückgestellt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Gestaltungsbeirat der Stadt Köln, Benennung eines Mitgliedes der Bezirksvertretung Rodenkirchen zur Teilnahme an den Sitzungen des Gestaltungsbeirates für 2022 - 2025 - geändert beschlossen
+- TOP 9.1.2: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Rodenkirchen - Förderprogramm - ungeändert beschlossen
+- TOP 9.1.3: Vergabe der bezirksorientierten Mittel für das Jahr 2022 im Stadtbezirk Rodenkirchen - 2. Runde - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Satzung über die Erhebung eines Erschließungsbeitrages für die erstmalige Herstellung der Immissionsschutzanlage Lärmschutzwand Josef-Kallscheuer-Straße entlang der Industriestraße und der Wattignystraße von Unter Buschweg bis Rodderweg in Köln-Sürth - zurückgestellt
+- TOP 9.2.2: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - ungeändert empfohlen
+- TOP 9.2.3: Förderprogramm "Dritte Orte" - 3. Genehmigung für die Förderphase 2022 ff. - ungeändert empfohlen
+- TOP 9.2.4: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 10.2.2: Aktivitäten 2022 des House of Resources (HoR) in Köln und diesjährige Bundeskonferenz der Houses of Resources am 4.11.2022 - Kenntnis genommen
+- TOP 10.2.3: 1. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2023/2024 - Kenntnis genommen
+- TOP 10.2.4: Erhöhung der Verkehrssicherheit Zaunhofstraße zwischen Immendorf und Meschenich - Kenntnis genommen
+- TOP 10.2.5: Planungsrechtlicher Vorbescheid (Bebauungsgenehmigung) für das Grundstück Immendorfer Straße 45 in Köln Godorf zur Errichtung von 9 Einfamilienhäusern. - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Kostenerhöhung Generalsanierung der Sportanlage Zaunhofstraße in Köln-Meschenich - Kenntnis genommen
+- TOP 10.2.7: Erste Gespräche zur Abstimmung neuer Regelung für die Außengastronomie hier: Sachstand - Kenntnis genommen
+- TOP 10.2.8: Planung der Änderung der Verkehrsführung in der Cäsarstraße und Schillerstraße in Bayenthal - Kenntnis genommen
+- TOP 10.2.9: 20. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.10: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 10.2.11: Niederschriften des Begleitgremiums Parkstadt Süd vom 12.09.2019, 25.06.2020 und 08.06.2021 - Kenntnis genommen
+- TOP 10.2.12: Baustellenverkehr im Zusammenhang mit dem Abriss und Neubau des Bezirksrathauses in Köln-Rodenkirchen - Nachfrage der FDP-Fraktion aus der Sitzung vom 29.08.2022 zu 1910/2022 - Kenntnis genommen
+- TOP 10.2.13: Baulicher Zustand der Lehrschwimmbecken in Köln - Kenntnis genommen
