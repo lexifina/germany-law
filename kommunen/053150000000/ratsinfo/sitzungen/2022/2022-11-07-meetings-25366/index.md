@@ -1,0 +1,80 @@
+# 18. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-07T17:00:00+01:00
+- Ende: 2022-11-07T19:00:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal Nebeneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25366
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25366
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Radfahrstreifen Nattermannallee (Az.: 02-1600-30-22) - ungeändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.3: Anfrage der CDU-Fraktion, betr.: Bebauung am Goldammerweg in Köln Vogelsang - zurückgestellt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrsversuch Herkulesstraße - zurückgestellt
+- TOP 6.5.1: Verkehrsversuch Herkulesstraße - zurückgestellt
+- TOP 6.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Gefährliche Verkehrssituation an der Weinsbergstraße - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Anfrage: Zigarettenstummel achtlos weggeworfen – sinnvolle Lösungen für den Bezirk - zurückgestellt
+- TOP 6.7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Zigarettenstummel achtlos weggeworfen – sinnvolle Lösungen für den Bezirk (AN/1541/2022) - zurückgestellt
+- TOP 6.8: Anfrage der SPD-Fraktion, betr.: Umsetzung von BV Beschlüssen zum Konzept einer Schulstraße - Sache ist erledigt
+- TOP 6.8.1: Beantwortung einer Anfrage der SPD-Fraktion, TOP 6.8, Anfrage der SPD-Fraktion, betr.: Umsetzung von BV Beschlüssen zum Konzept einer Schulstraße - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Interim für die neu zu bauende Gesamtschule Ossendorf - zurückgestellt
+- TOP 7.2: Anfrage der SPD-Fraktion: Bauvorhaben Vogelsanger Straße 406 - zurückgestellt
+- TOP 7.3: Anfrage der SPD-Fraktion; Sachstand B-Plan Heliosgelände - zurückgestellt
+- TOP 7.4: Anfrage der SPD-Fraktion: Umgang mit Baumpatenschaften im Stadtbezirk Ehrenfeld - Sache ist erledigt
+- TOP 7.4.1: Beantwortung einer Anfrage der SPD-Fraktion zum Umgang mit Baumpatenschaften im Stadtbezirk Ehrenfeld - AN/1933/2022 - Kenntnis genommen
+- TOP 7.5: Anfrage der CDU-Fraktion: Gebetsruf des Muezzin der Zentralmoschee im Stadtbezirk EHRENFELD - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktionen Bündnis 90/Die Grünen, der SPD-Fraktion, der LINKE/die Partei, der CDU-Fraktion, Fr. Schroeder, Fr. Pöttgen und Hr. Scholz: Instandsetzung des Bolzplatzes auf dem Spielplatz Schönsteinstraße - zurückgestellt
+- TOP 8.2: Antrag der CDU-Fraktion, betr.: Verkehrsversuch Venloer Straße - zurückgestellt
+- TOP 8.3: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, der SPD-Fraktion, der Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (KLIMA FREUNDE), Fr. Pöttgen (FDP): Schulwegsicherung über die Weinsbergstraße - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion, betr.: Öffnung des Durchgangs Mechternstraße / Kwatapark - zurückgestellt
+- TOP 8.5: Antrag der CDU-Fraktion: Erneuerung des Ortseingangsschildes Köln Vogelsang - ungeändert beschlossen
+- TOP 8.6: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, der SPD-Fraktion, der Fraktion Die Linke/DIE PARTEI, der CDU-Fraktion und Einzelmandatsträgerin Marlis Pöttgen (FDP): Verkehrsmaßnamen vor der Kita in der Schönsteinstraße - geändert beschlossen
+- TOP 8.7: Antrag der Fraktion BÜNDNIS 90/Die Grünen: Mehr Straßenbäume für Ehrenfeld - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion: Behindertenparkplatz auf dem Vogelsanger Markt - ungeändert beschlossen
+- TOP 8.9: Antrag der Einelmandatsträgerin Marlis Pöttgen (FDP): Wiedereinführung der Bezirksbeigeordneten - zurückgestellt
+- TOP 8.10: Antrag der SPD-Fraktion: Mobilitätsstation für Vogelsang - geändert beschlossen
+- TOP 8.11: Antrag der SPD-Fraktion: Leitfaden zur Stadtverschönerung im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 9: Entscheidungen
+- TOP 9.1: Baubeschluss für die Generalinstandsetzung der Feltenstraße in Köln-Bickendorf sowie Freigabe einer Verpflichtungsermächtigung - zurückgestellt
+- TOP 9.2: Umsetzung des Straßenbaumkonzeptes BA2
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Satzung über die abweichende Herstellung der Erschließungsanlage Silbermöwenweg von Seeadlerweg bis Kolkrabenweg in Köln-Vogelsang - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Errichtung eines Neubautraktes, Generalinstandsetzung und Neubau von sechs Sporthalleneinheiten für das Gymnasium Kreuzgasse, Vogelsanger Str. 1, 50672 Köln durch Totalunternehmen - Erweiterter Planungsbeschluss und Baubeschluss - geändert beschlossen
+- TOP 10.3: Einrichtung einer Buslinie auf der Inneren Kanalstraße - geändert beschlossen
+- TOP 10.3.1: Gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen, der Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Hr. Scholz (GUT) zu TOP 10.3 - ungeändert beschlossen
+- TOP 10.4: Planungsbeschluss für die Generalsanierung der Sportanlage Rochusstraße, Platz 1 in Köln-Ossendorf - ungeändert beschlossen
+- TOP 10.5: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - ungeändert beschlossen
+- TOP 10.6: Förderprogramm "Dritte Orte" - 3. Genehmigung für die Förderphase 2022 ff. - ungeändert beschlossen
+- TOP 10.7: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 10.8: Vermarktung Alpenerstraße 4 - 6 in Köln-Ehrenfeld, Bewertungskriterien der Konzeptausschreibung - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Aktivitäten 2022 des House of Resources (HoR) in Köln und diesjährige Bundeskonferenz der Houses of Resources am 4.11.2022 - Kenntnis genommen
+- TOP 12.2: Sachstand zum Fertigstellungstermin bei den Heliosschulen - Kenntnis genommen
+- TOP 12.3: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 12.4: 1. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2023/2024 - Kenntnis genommen
+- TOP 12.5: Erste Gespräche zur Abstimmung neuer Regelung für die Außengastronomie hier: Sachstand - Kenntnis genommen
+- TOP 12.6: 20. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12.6.1: 20. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln (2076/2022) - Kenntnis genommen
+- TOP 12.7: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 12.8: Bürgereingabe nach § 24 GO NRW - Fitnessparcours auf dem Spielplatz "Am Brunnenweg" in Köln-Bickendorf, Az.: 98/22 - Kenntnis genommen
+- TOP 12.9: Bürgereingabe nach § 24 GO NRW - Am Nußbaumer Pfad/Frohnhof Straße/Sandweg, Az.: 35/22 - Kenntnis genommen
+- TOP 12.10: Sporthallen Everhardstraße - aktueller Sachstand - Kenntnis genommen
+- TOP 12.11: Baulicher Zustand der Lehrschwimmbecken in Köln - Kenntnis genommen
+- TOP 12.12: Bürger*inneneingabe zum Konzeptvergabeverfahren der städtischen Liegenschaft Alpenerstr. 4-6 in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 13: mündliche Anfragen
