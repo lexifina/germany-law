@@ -1,0 +1,93 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-07T16:00:00+01:00
+- Ende: 2022-11-07T17:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25557
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25557
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO - "Neuzuschnitt Hundefreilauffläche im Beethovenpark" Aktenzeichen - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Neue Anfragen
+- TOP 7.1.1: Zuständigkeiten bei der Reinigung und dem Einhalten der Verkehrssicherungspflicht des öffentlichen Raumes - zurückgestellt
+- TOP 7.1.2: Masterplan Grüngürtel Impuls 2012 - Infrastruktur - zurückgestellt
+- TOP 7.1.3: Liegehalle Freiluga - zurückgestellt
+- TOP 7.1.4: Gesamtschulen – Verbleib der abgelehnten Schülerinnen und Schüler - zurückgestellt
+- TOP 7.2: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Baumscheibenschutz (auf beiden Seiten) im Bereich der Aachener Straße von ca. Klüttenbahn bis Maarweg - ungeändert beschlossen
+- TOP 8.1.2: Errichtung eines überdachten Buskaps an der Haltestelle WIENER WEG in Junkersdorf (Linien 136 und 143) - ungeändert beschlossen
+- TOP 8.1.3: Einrichtung einer Bushaltestelle (Linie 143) Erich-Deuser-Straße, Junkersdorf - ungeändert beschlossen
+- TOP 8.1.4: Wohnbebauung Alsdorfer Straße Braunsfeld/Ehrenfeld - ungeändert beschlossen
+- TOP 8.1.5: Verkehrserhebung Weyertal - ungeändert beschlossen
+- TOP 8.1.6: Unterbinden des Parkens auf den Grünstreifen entlang der Straße Am Gleueler Bach in Köln Lindenthal sowie Wiederherstellung des Grünstreifens an dieser Stelle - zurückgestellt
+- TOP 8.1.7: Bebauungsplan Friedrich-Engels-Straße 3 - 5 - ungeändert beschlossen
+- TOP 8.1.8: Fußgängerüberwege Bachemer Straße - ungeändert beschlossen
+- TOP 8.1.9: Verbesserungen Bewohnerparken Pauliviertel - zurückgestellt
+- TOP 8.1.10: Anpassung Genehmigungspraxis für Parklets im Kölner Stadtgebiet - ungeändert beschlossen
+- TOP 8.1.11: Zuständigkeiten der BV 3 - endgültig zurückgezogen
+- TOP 8.1.11.1: Ersetzungsantrag zu 8.1.11 - endgültig zurückgezogen
+- TOP 8.1.11.2: erneuter Ersetzungsantrag zu TOP 8.1.11 - ungeändert beschlossen
+- TOP 8.1.12: Vincenzpark Köln Lövenich - endgültig zurückgezogen
+- TOP 8.1.12.1: Ersetzungsantrag zu TOP 8.1.12 - ungeändert beschlossen
+- TOP 8.1.13: Regulieren des Parkens und Schaffung von Barrierefreiheit auf den Gehwegen auf der Lessingstraße in Köln Weiden - geändert beschlossen
+- TOP 8.1.14: Querung Widdersdorfer Hauptstr. - geändert beschlossen
+- TOP 8.1.15: Prüfung von Maßnahmen zur Verkehrsberuhigung in der Eckertstraße - ungeändert beschlossen
+- TOP 8.1.16: Tempo 30 /Salzburger Weg - ungeändert beschlossen
+- TOP 8.1.17: Verbesserung der Verkehrssicherheit am Lortzingplatz - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Errichtung eines Fußgängerüberwegs inkl. der Optimierung der Haltestellen vor dem Sportplatz des SV Weiden - ungeändert beschlossen
+- TOP 9.1.2: Errichtung eines "Offenen Bücherschrankes" - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Einrichtung einer Buslinie auf der Inneren Kanalstraße - geändert beschlossen
+- TOP 9.2.1.1: Ersetzungsantrag zu TOP 9.2.1 - ungeändert beschlossen
+- TOP 9.2.2: Planungsbeschluss: Verkehrliche und gestalterische Optimierung der Aachener Straße in Braunsfeld - geändert beschlossen
+- TOP 9.2.2.1: Ergänzungsantrag zu TOP 9.2.2 - geändert beschlossen
+- TOP 9.2.3: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - ungeändert beschlossen
+- TOP 9.2.4: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 9.2.5: Förderprogramm "Dritte Orte" - 3. Genehmigung für die Förderphase 2022 ff. - ungeändert beschlossen
+- TOP 9.2.6: Stadtklima-/Stadtverschönerungsprogramm 2022 im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2: Sonstige Mitteilungen
+- TOP 11.2.1: 1. Veränderungsnachweis "Verwaltung" zum Entwurf des Haushaltsplans 2023/2024 - Kenntnis genommen
+- TOP 11.2.2: Erste Gespräche zur Abstimmung neuer Regelung für die Außengastronomie hier: Sachstand - Kenntnis genommen
+- TOP 11.2.3: Häuser der Russischen Föderation - Handlungsmöglichkeiten der Stadt Köln - Kenntnis genommen
+- TOP 11.2.4: Erweiterung des Bewohnerparkgebiets Lindenthal-Süd-I um die Stellplätze in der Universitätsstraße zwischen Enrique-Schmidt-Cuadra-Weg und Wilhelm-Waldeyer-Straße - Kenntnis genommen
+- TOP 11.2.5: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) des vorhabenbezogenen Bebauungsplan-Entwurf 63454/03, Arbeitstitel: Scheidtweilerstraße 44 – 48 in Köln-Braunsfeld - Kenntnis genommen
+- TOP 11.2.6: Generalsanierung und Verkehrsberuhigung der Eupener Straße/Eschweilerstraße/Max-Wallraf-Straße in Köln-Braunsfeld - Kenntnis genommen
+- TOP 11.2.7: Errichtung: Evolutionsweg - Kenntnis genommen
+- TOP 11.2.8: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 11.2.9: Bürgereingabe nach § 24 GO NRW vom 01.08.2022- „Einführung des Bewohnerparkens im Pauliviertel", Az. 138/22 - Kenntnis genommen
+- TOP 11.2.10: Baulicher Zustand der Lehrschwimmbecken in Köln - Kenntnis genommen
+- TOP 11.3: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.4: Nachfragen zu früheren Anfragen
+- TOP 11.5: Regelmäßige Sachstandsberichte
+- TOP 11.5.1: Angebote und Projekte des Interkulturellen Dienstes der Stadt Köln - Kenntnis genommen
+- TOP 11.5.2: Aktivitäten 2022 des House of Resources (HoR) in Köln und diesjährige Bundeskonferenz der Houses of Resources am 4.11.2022 - Kenntnis genommen
+- TOP 11.5.3: 20. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12: Noch nicht beantwortete Anfragen
+- TOP 12.1: Planungsstand Skatepark Widdersdorf - zurückgestellt
+- TOP 12.2: Anfrage Gymnasium Zusestraße - zurückgestellt
+- TOP 12.3: Barrierefreie WBS-Wohnungen - zurückgestellt
+- TOP 12.4: Anfrage Erhaltungssatzung Müngersdorf - zurückgestellt
+- TOP 12.5: Barrierefreie Umgestaltung von Fuß- und Radwegbrücken - zurückgestellt
+- TOP 12.6: Anfrage Saarstraße - zurückgestellt
+- TOP 12.7: Projekte zur Wasserwende - zurückgestellt
+- TOP 12.8: Baugenehmigung VIKZ - Kenntnis genommen
