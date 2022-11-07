@@ -1,0 +1,8 @@
+# TOP 8: Einwendungen gegen den Entwurf der Haushaltssatzung 2023/2024 gemäß § 76 SächsGemO
+
+- Sitzung: 38. Sitzung des Ortschaftsrates Schönfeld-Weißig (2022-11-07)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/174491
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/54836
