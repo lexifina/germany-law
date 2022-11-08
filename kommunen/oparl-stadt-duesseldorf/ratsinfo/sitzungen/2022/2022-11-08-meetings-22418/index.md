@@ -1,0 +1,80 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-08T17:00:00+01:00
+- Ende: 2022-11-08T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22418
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22418
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465300.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465300.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465300.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 27.09.2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Bau- und Planungsangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.13: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 4.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - Empfehlung einstimmig beschlossen
+- TOP 5.2: Fußgängerbrücke über die Hafeneinfahrt, BW 8039 - Ertüchtigung zur weiteren Nutzung durch Radfahrende - Ausführungs- und Finanzierungsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 5.3: Auf’m Hennekamp – Radverkehrsführung Himmelgeister Straße bis Mecumstraße -Ausführungs- und Finanzierungsbeschluss- - Empfehlung abweichend beschlossen
+- TOP 5.4: Ulenbergstraße – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 5.5: Hammer Dorfstraße – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 5.6: Volmerswerther Straße 1-49 und Martinstraße 1-10 – Erneuerung Öffentliche Beleuchtung: Rückbau Gas und Neubau Strom - einstimmig beschlossen
+- TOP 5.7: Jahnstraße – Erneuerung Öffentliche Beleuchtung: Rückbau Gas und Neubau Strom - einstimmig beschlossen
+- TOP 5.8: Aachener Straße – Erneuerung Öffentliche Beleuchtung: Rückbau Gas und Neubau Strom - einstimmig beschlossen
+- TOP 5.9: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Sternwartschule, Im Dahlacker 15, Erhöhung der Zügigkeit um einen Zug zu einer dreizügigen Grundschule (1. Bauabschnitt OGS-Gebäude) - zur Kenntnis genommen
+- TOP 5.10: Benennung Platz der Kinderrechte - einstimmig beschlossen
+- TOP 6: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 6.1: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorheringen Sitzungen
+- TOP 7.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 7.1.2: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.3: Neugestaltung des südlichen Kirchplatzes - Kinderspielplatz hinter der Kirche (Anfrage CDU-Fraktion) - vertagt
+- TOP 7.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.8: Baucontainer Neusser Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 7.1.9: Fahrradfreundlicher Ausbau des nordwestlichen und zentralen Bereiches der Kreuzung Witzelstr./Moorenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.1.10: Verschmutzungen am Paradiesstrand, Rheinufer (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 7.1.11: Litfaßsäulen (Anfrage SPD) - zur Kenntnis genommen
+- TOP 7.1.12: Wildnis-Treff für Kinder ab 8 Jahren im Stadtbezirk 3 (Anfrage SPD - Fraktion) - vertagt
+- TOP 7.1.13: Mobilitätsstationen (Anfrage SPD - Fraktion) - vertagt
+- TOP 7.2: Aktuelle Anfragen
+- TOP 7.2.1: Talstraße 111 (Anfrage SPD-Fraktion) - vertagt
+- TOP 7.2.2: Bilker Kirche (Anfrage SPD-Fraktion) - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Provisorische Sicherung Überleitung Radweg Merowingerstraße (FR Süd) und Umsetzung der Maßnahme Merowingerstraße (Antrag CDU-Fraktion) - einstimmig beschlossen
+- TOP 8.2: Ulenbergpark (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - abweichend beschlossen
+- TOP 8.3: Fitnessanlage im Sonnenpark (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 8.4: Mobilitätstation Friedensplätzchen (BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 8.5: Änderung eines Halteverbots in eine Feuerwehrzufahrt (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - abweichend beschlossen
+- TOP 8.6: Maßnahmen zur Verbesserung des Radverkehrs im Stadtbezirk 3 (Antrag CDU-Fraktion) - abweichend beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Neugestaltung der Fischerhausterrasse im Ständehauspark - zur Kenntnis genommen
+- TOP 9.2: Florensstraße - Einrichtung Kfz-Begegnungszone zur Schulwegsicherung - zur Kenntnis genommen
+- TOP 9.3: Neue Bürgerbeteiligung Kirchplatz - zur Kenntnis genommen
+- TOP 9.4: Überquerung Moorenstr. Im Kreuzungsbereich Fabriciusstr. - zur Kenntnis genommen
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
