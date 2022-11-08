@@ -1,7 +1,7 @@
 # Anlage 1 (zu § 8 Absatz 1, § 18 Absatz 5 und § 20 Absatz 1)Emissionsgrenzwerte für Schwermetalle und krebserzeugende Stoffe
 
 Für die in den Buchstaben a bis d genannten Schwermetalle und krebserzeugenden Stoffe gelten folgende Emissionsgrenzwerte:
-a) | Cadmium und seine Verbindungen, angegeben als Cadmium, Thallium und seine Verbindungen, angegeben als Thallium, | 0,05 mg/m3, |
+a) | Cadmium und seine Verbindungen, angegeben als Cadmium, Thallium und seine Verbindungen, angegeben als Thallium, | , |
   aa) in kohlegefeuerten abfallmitverbrennenden Großfeuerungsanlagen mit einer Feuerungswärmeleistung von
     aaa) | 50 MW bis weniger | insgesamt |
       | als 300 MW: | 0,012 mg/m³, |

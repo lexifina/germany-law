@@ -1,6 +1,6 @@
 # Anlage 4 (zu § 15 Absatz 1, § 16 Absatz 1 und § 17 Absatz 5)Anforderungen an die kontinuierlichen Messeinrichtungen und die Validierung der Messergebnisse
 
-1. Der Wert des Konfidenzintervalls von 95 Prozent eines einzelnen Messergebnisses darf an der für den Tagesmittelwert festgelegten Emissionsbegrenzung die folgenden Prozentsätze dieser Emissionsbegrenzung nicht überschreiten:
+1. Der Wert des Konfidenzintervalls von 95 Prozent eines einzelnen Messergebnisses darf an der für den Jahresmittelwert festgelegten Emissionsbegrenzung die folgenden Prozentsätze dieser Emissionsbegrenzung nicht überschreiten:
   a) | Kohlenmonoxid | 10 Prozent, |
   b) | Schwefeldioxid | 20 Prozent, |
   c) | Stickstoffoxid | 20 Prozent, |
