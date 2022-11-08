@@ -1,0 +1,7 @@
+# TOP 1: Anerkennung der Tagesordnung
+
+- Sitzung: Bezirksvertretung 3 (2022-11-08)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/327200
+- Ergebnis: einstimmig beschlossen
