@@ -1,0 +1,155 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2022-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6822125
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6822125
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 1.4.: Mitgliederwechsel / Vereidigung / Wahl / Umbesetzung
+- TOP 1.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.2.: Neuwahl: - Unterausschussvorsitzende*r Familie, Soziales, Ausbildung - Kassierer*in
+- TOP 1.4.3.: Umbesetzung der Unterausschüsse durch die Fraktion SPD
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Sicherer Radweg in Obergiesing (FF UA MuV)
+- TOP 2.1.2.2.: Traunsteiner Str. Verkehrsproblematik (FF UA MuV)
+- TOP 2.1.2.3.: Änderung der Ampelschaltung für mehr Sicherheit von Fußgängern und Radfahrern an Kreuzung Candid-/Tegernseer Landstraße (FF UA MuV)
+- TOP 2.1.2.4.: Antrag an BA17: Bereitstellung von Ferienpässen 2022/2023 (FF UA FSA)
+- TOP 2.1.2.5.: General-Kalb-Weg - Gelände Cincinattischule / Baumschutz / Biotopschutz (FF UA Umwelt)
+- TOP 2.1.2.6.: Umgestaltung Werinherstr. (FF UA MuV)
+- TOP 2.1.2.7.: Baustellen Arzberger-,Schwarzenbacher,-Waldmünchner-, Tirschenreuther Str. (FF UA MuV)
+- TOP 2.1.2.8.: Überprüfung der geplanten Baumneupflanzung im Bereich St.Martin-Straße/Zugspitzstraße, Bürgeranliegen (FF UA Umwelt)
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Seniorenbeauftragte*r
+- TOP 3.8.: Mieterbeirat
+- TOP 3.9.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.9.1.: Leifstr. 1
+- TOP 3.9.2.: Hohenschwangaustr. 15 - Neubau eines Mehrfamilienhauses mit (11 WE) und Tiefgarage (FF UA BPW)
+- TOP 3.9.3.: Fasangartenstr. 138a - TEKTUR zu - 1.2-2022-9629-33 - Neubau eines Einfamilienhauses und eines Doppelhauses (2 WE), Abbruch eines Einfamilienhauses (Änderungsantrag, Zuleitung wegen beantragter Baumfällungen)
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Balanstraße Theateraufführung „Wunderbuch“ von Ende Januar bis Mitte Februar 2023 356,00 € / Az. 0262.0-17-0368 (FF UA FSA)
+- TOP 5.1.2.: (E) Stadtbezirksbudget Initiative „Fotoausstellung“ Fotoausstellung im Kulturzentrum Giesinger Bahnhof vom 10.01. - 31.01.2023 1.000,00 € / Az. 0262.0-17-0367 (FF UA Kultur)
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Unterrichtung zu den Budgetbeschlüssen der letzten Sitzung (11.10.2022): TOP 5.1. PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl, Strasse. Oase. und Tanz. Die. Invasion in 2023 TOP 5.3. Förderverein der Grundschule St.Martin-Straße e.V. Zirkus-Projekt 8 Wochen im Frühjahr 2023 Beide Beschlüsse hatten die Maßgabe der Gewährung aus dem Budget 2023. Laut Rückmeldung aus dem Stadtbezirksbudget ist dies nicht möglich. Eine Beschlussfassung in 2022 hat eine Gewährung aus dem Budget 2022 zur Folge. Aus diesem Grund, werden die Beschlüsse nicht vollzogen. In Rücksprache mit der Vorsitzenden wurden die Anträge auf die Tagesordnung Januar 2023 erneut aufgenommen. Dort ist eine erneute Beschlussfassung notwendig. (FF alle UA)
+- TOP 5.4.2.: Unterstützung eines Familienfestes in der Pöllatinsel Integration von Migranten/Geflüchteten und Giesinger Familien mit Kindern und kleinem Geldbeutel - Brief vom Frauenverband Courage an den BA 17 - (FF UA FSA)
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Hohenschwangaustr. 15 - Neubau eines Mehrfamilienhauses mit (11 WE) und Tiefgarage (betrifft auch Baumschutz)
+- TOP 6.1.3.2.: Stopp des Wohnungsbaugebietes Münchberger Str. Empfehlung Nr. 20-26 / E 00704 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 14.07.2022 - Anhörung zum Beschlussentwurf Sitzungsvorlage Nr. 20-26 / V 07787 -
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 6.1.4.2.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 6.1.4.3.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 6.1.4.4.: Flächennutzungsplan Münchberger Straße; - Antwortschreiben des Referates für Stadtplanung und Bauordnung an Bürgerin zur Kenntnis - (betrifft TOP 2.1.2.2 aus Sitzung 09/2022)
+- TOP 6.1.4.5.: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften
+- TOP 6.1.4.6.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 6.1.4.7.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 6.1.4.8.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 6.1.4.9.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 6.1.4.10.: Baumaßnahmen der Stadtwerke München a) Stichtag: 03.10.22-09.10.22 b) Stichtag: 10.10.22-16.10.22 c) Stichtag: 17.10.22-20.10.22
+- TOP 6.1.4.11.: Beschlussentwurf: Mikroklimaökologisches Gutachten Hachinger Tal Teil A: Ergebnisvorstellung Teil B: Bürgerversammlungsempfehlungen und Bezirksausschussanträge Sitzungsvorlage Nr. 20-26 / V 07119 - Stellungnahme / Eilentscheid der Vorsitzenden -
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: 18 Jetzt Feedback und Ergebnisse der BA-Beteiligung - Mitteilung aus dem KJS UA des BA 2 -
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) + (U) Bedarfsampel Stadelheimer Straße besser sichern Empfehlung Nr. 20-26 / E 00449 der Bürgerversammlung des Stadtbezirkes Nr. 17 Obergiesing- Fasangarten, Bezirksteil Obergiesing am 26.10.2021
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: verkehrsrechtliche Anordnung: Perlacher Str._Bauminsel
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Kanalsanierungsmaßnahmen Obergiesing und Fasangarten - Mitteilung der MSE -
+- TOP 6.3.4.2.: Trauchbergstraße / Forggenseestraße; Absolutes Haltverbot für die Müllabfuhr mit Zeitzusatz
+- TOP 6.3.4.3.: Antrag Vermeidung von Schleichverkehr Feldmüllersiedlung - Nachtrag vom 19.10.2022 -
+- TOP 6.3.4.4.: Parklizenzgebiete in Giesing a) Giesinger Bahnhof b) Walchenseeplatz
+- TOP 6.3.4.5.: Anliegerinformation: Werinherstraße; Umbau zw. Schlierseestraße und Ungsteiner Straße; Fahrbahnsanierung zw. Ungsteiner Straße und Pfälzer-Wald-Straße;
+- TOP 6.3.5.: Anträge
+- TOP 6.3.5.1.: Bearbeitungsstand von BA-Vorgängen
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Biotop im Weißenseepark
+- TOP 6.4.4.3.: Baumnachpflanzungen an öffentl. Standorten des 17. Stadtbezirks durch die Stadt
+- TOP 6.4.4.4.: (U) Verstetigung, Weiterentwicklung und Neukonzeption von „München – gesund vor Ort“ für Stadtteile mit besonderen gesundheitlichen Herausforderungen Produkt 33414200 Gesundheitsvorsorge Beschluss über die Finanzierung ab 2023 (Eckdatenbeschluss Haushalt 2023 Nr. 39)
+- TOP 6.4.4.6.: Urban Gardening in der Zugspitzstraße/Kooperative Kleinstgarten
+- TOP 6.4.4.7.: Sicht- und Lärmschutzvegetation Fasangartenstr.; hier: Prüfung des Lärmschutzwalls - Antwortschreiben zu 2.1.2.8. / 07/22 -
+- TOP 6.4.4.8.: Beschlussentwurf: Mikroklimaökologisches Gutachten Hachinger Tal Teil A: Ergebnisvorstellung Teil B: Bürgerversammlungsempfehlungen und Bezirksausschussanträge Sitzungsvorlage Nr. 20-26 / V 07119 Stellungnahme / Eilentscheid der Vorsitzenden (Dokumente unter TOP 6.1.4.11.)
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Veranstaltungsgenehmigung: Giesinger Migrationstage am 17.10.2022 - Eilentscheidung der Vorsitzenden -
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Neuerrichtung eines Gaststättenbetriebes: Eintrachtstr. 1
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Wahl des Migrationsbeirates München am 19. März 2023 Aufruf zur Abgabe von Wahlvorschlägen im Zeitraum 28.11.2022 bis 09.01.2023 - Mitteilung über den Migrationsbeirat der Landeshauptstadt München -
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: Nachträge: TOP 6.3.2.2. U-Bahn Station St.-Quirin-Platz – überdachte Fahrradabstellanlage
+- TOP 6.3.2.2.: U-Bahn Station St.-Quirin-Platz – überdachte Fahrradabstellanlage
+- TOP 6.4.4.2.: (U) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften Ein blauer Ordner 20-26 / E 00447 (BV-EMP) Mehr Grün in der Stadt und bei den Städtischen Wohnungsgesellschaften (Dokumente unter TOP 6.1.4.5)
+- TOP 6.4.4.5.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima Ein blauer Ordner 20-26 / E 00454 (BV-EMP) Klimaschutz für München bei Bauvorhaben / erster von zwei Klimaschutz-Anträgen Ein blauer Ordner 20-26 / E 00455 (BV-EMP) Klimaschutz für München bei Bauvorhaben / zweiter Klimaschutz-Antrag (Dokumente unter TOP 6.1.4.7.)
