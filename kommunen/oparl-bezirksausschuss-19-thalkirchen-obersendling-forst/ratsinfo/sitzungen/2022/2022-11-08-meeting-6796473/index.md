@@ -1,0 +1,69 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-11-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796473
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796473
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 11.10.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Auswirkungen der 8. Fortschreibung des Luftreinhalteplans München auf den 19. Stadtbezirk
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur “Mädchen an den Ball! Vom 01.01.2023-31.12.2023“ 7.980,00 €/ AZ: 0262.0-19-0431
+- TOP 3.3.: (Antrag) Eröffnungsfeier für den neuen Bürgersaal
+- TOP 3.4.: (E) Stadtbezirksbudget Forstenrieder Sport-Club e.V "discover movement" (Eltern-Kind-Turnen) und "relight your body" (SeniorInnen Gymnastik) ab 06.12.2022 1.357,60,00€; Az. 0262.0-19-0433
+- TOP 3.5.: (Antrag) Minderung Betrag Eigenanteil Stadtteilfest Obersendling
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Offene Fragen zur Schließung des Maria-Einsiedel-Bades
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Erweiterung E-Ladesäulenstandort Alfred-Schmidt-Straße 34
+- TOP 5.3.: (Antrag) Markierung Fußgängerübergang Fraunbergstraße
+- TOP 5.4.: (Antrag) Postfiliale für Solln und Großhesselohe
+- TOP 5.5.: (Antrag) Abstellen von E-Scootern, Mietfahrrädern und E-Mietmotorrollern im Stadtbezirk
+- TOP 5.6.: (U) Verkehrsrechtliche Anordnung: Parken in markierten Bereichen Immenstadter Straße
+- TOP 5.7.: (A) Sommerstraßen 2023
+- TOP 5.8.: (Antrag) Parkplatzsituation Fahrräder Thalkirchner Platz
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Auskunft über geplante Wohnbebauung westlich der Drygalski-Allee
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Oppenrieder Straße 23
+- TOP 6.2.3: Jägerhuberstraße 9
+- TOP 6.2.4: Parkmeisterstraße 5
+- TOP 6.2.5: Rietschelstraße 4
+- TOP 6.2.6: Pfeilweg 7
+- TOP 6.2.7: Sollner Straße 59
+- TOP 6.2.8: Hofbrunnstraße Flurnummer 465/4
+- TOP 6.2.9: Baierbrunner Straße 21
+- TOP 6.2.10: Mindelheimer Straße 1
+- TOP 6.2.11: Oppenrieder Straße 22
+- TOP 6.2.12: Forstenrieder Allee 129 (VB)
+- TOP 6.3.: (Antrag) Umstrukturierung beim Straßenreinigungsstützpunkt Gmunder Straße 32
+- TOP 6.4.: (Antrag) Auskunft über geplante Wohnbebauung Muttenthalerstraße
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Sanierungsmaßnahmen Bezirkssportanlage Graubündener Straße
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 9: Verschiedenes
+- TOP 3.1.1: Bestellung einer städtischen Leistung: Anschubfinanzierung der Spielgeräte für Kleinkinder am Spielplatz Schuchstraße
+- TOP 6.2.13: - NACHTRAG - Fellererplatz 2
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 6.2.2: Friedastraße 8
