@@ -1,0 +1,123 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891753
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891753
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Baumpaten für die Maxvorstadt
+- TOP 6.2.: Darstellende Kunst & Musik im öffentlichen Raum ermöglichen und fördern!
+- TOP 6.3.: Keine Belegung von Grün- und öffentliche Flächen in der Innenstadt für die IAA und andere Messen
+- TOP 6.4.: Antrag Radwegsicherheit Nymphenburger-Lori-Lothstraße- Sandstraße Linprun neu
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: "Verdichtung" mit "Entgrünung"
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Leerstand Mehrfamilienhaus Schellingstr. 124 Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden
+- TOP 1.2.2.: Hitzestudie bei Bauvorhaben
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 39 - 42
+- TOP 2.1.2.: WEB-Listen der LBK: KW 37 - 42
+- TOP 2.1.3.: Gabelsbergerstr.99, Errichtung einer Wohneinheit im DG, von 5 Dachgauben, von 4 Dachein-schnitten, von einem RWA-Fenster je TRH und innenhofseitig einer Fluchtleiteranlage für das 3. und 4. Stockwerk
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag auf dem Grundstück Deroystraße
+- TOP 3.2.2.: Fällungsantrag auf dem Grundstück Theresienstraße 120
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Antrag Baumpaten BA 3 - Schreiben BA 23 Allach-Untermenzing
+- TOP 5.3.: Alter Nördlicher Friedhof - Rasenmahd Antwort auf Bürger*innenanliegen
+- TOP 5.4.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 5.5.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Begrünung zwischen Hiltensperger- und Arcisstraße
+- TOP 1.1.2.: Anfrage Schulweg
+- TOP 1.1.3.: Öffentlicher Raum
+- TOP 1.1.4.: Müllproblem Kunstareal
+- TOP 1.1.5.: Bürger Anliegen_über den Alten Botanischen Garten
+- TOP 1.1.6.: Abgleich Anwohnertiefgaragennutzung Erzgiessereistr. 14/ Linprunstr. 18 und Ausgabe Lizenzen im Parklizenzgebiet St.-Benno-Viertel / Umgang mit gewerblichen Fahr-zeugen im Bereich Bewohnerparken
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Halteverbotszone Ecke Rottmann-/Schleißheimer Str. besser kennzeichnen
+- TOP 1.2.2.: Sicherheit der Schülerinnen und Schüler im Umfeld des Luisengymnasiums gewährleisten – Erhöhte Bestreifung des „Alten Botanischen Gartens“ durch die Polizei und den KAD
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anhörungsverfahren für Haltverbote in der Tengstraße - Bezirk 3
+- TOP 2.1.2.: Anhörung: Loristraße - Errichtung eines absoluten Haltverbots
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Beschlussvorlage BA 3 - Erweiterung einer Sondernutzung Augustenstr. 45
+- TOP 2.2.2.: Umzug Teststelle Stiglmaierplatz
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Antrag auf FSF Barer Str.48
+- TOP 2.3.2.: Antrag auf Erteilung einer Freischankfläche Kreittmayrstr. 5
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Eilentscheidungen der Vorsitzenden a) Eilantrag Sondernutzung Sonnenfinsternis 2022-10-25 b) Eilantrag Mittelalterlicher Weihnachtsmarkt auf dem Wittelsbacherplatz vom 21.11. - 23.12.2022
+- TOP 3.2.: verkehrsrechtliche Anordnung Tillystraße - Änderung Einbahnregelung
+- TOP 3.3.: Information über Schienenschleifarbeiten auf der U1- Nord im Abschnitt Stiglmaierplatz - Olympia-Einkaufszentrum
+- TOP 3.4.: SWM Baumaßnahme Strom-Projekt - BV Nymphenburger Straße
+- TOP 3.5.: Budgetantrag zurückgezogen – 2.000 € wird wieder dem BA 3 gutgeschrieben Stadtverbesserungs e.V. Intervention Arcisstraße am 28.05.2022
+- TOP 3.6.: Antwort zu Bürgeranliegen unter C 1.1. 4 von der Bayerischen Staatsgemäldesammlung
+- TOP 3.7.: SWM Baumaßnahme Fernwärmeprojekt Schellingstraße
+- TOP 3.8.: Antwort auf Bürger*innenanliegen- Fitness-Station im Arnulfpark
+- TOP 3.9.: Baustelleneinrichtung Grünanlage Arnulfpark
+- TOP 3.10.: (U) Altstadtring Nordwest Straßenumbau mit Neugestaltung der Freiflächen Oskar-von-Miller-Ring, Von-der-Tann-Straße und Ludwigstraße nach Tunnelsanierung im 3. Stadtbezirk Maxvorstadt 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes
+- TOP 3.11.: Bescheid Türkenstr. 71, Nutzungsänderung
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Hitzeschutz am Spielplatz Josephsplatz
+- TOP 1.2.2.: Hitzeschutz am Spielplatz Arnulfpark
+- TOP 1.2.3.: Budgetreservierung – Bedürftige Familien bei Mitgliedsbeiträgen in Vereinen etc. unterstützen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 3 Maxvorstadt vom 01.01. - 31.12.2023 7.680,00 Euro, Az.: 0262.0-3-0428
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Fassade Königsplatz" Künstlerische Gestaltung der Fassade am Königsplatz vom 01.11. - 31.12.2022 4.432,50 Euro, Az.: 0262.0-3-0427
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Organisation Bürger*innenfest Maxvorstadt 2023
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.1.4.: Wittelsbacherpl. 2, Erweiterung einer Freischankfläche um 43,79 m² (gesamt: 119,8 m² / 78 Sitzpl.)
+- TOP 2.1.5.: Zieblandstr. 5, Neubau eines Vorder- und Rückgebäudes (17 WE) und Tiefgarage - mit Mobili-tätskonzept
+- TOP 2.1.6.: Nymphenburger Str. 67, Neubau eines Wohnhauses mit Tiefgarage, Abbruch eines Garagen-gebäudes
+- TOP 2.1.7.: Nymphenburger Str. 23, Nutzungsänderung eines Büros (Kanzlei) zu einer Ferienwohnung für gewerbliche Kurzzeitvermietung
+- TOP 2.1.8.: Augustenstr.33 a, Aufstockung und Nutzungsänderung eines Gewerbegebäudes in ein Wohn- und Geschäftshaus
+- TOP 5.2.: Eilentscheidungen: a) Luisenstr. 22, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage - TEKTUR zu 1.2-2019-28576-22 - hier: Korrektur der straßenseitigen Grundstücksgrenze | 05.11.2022 b) Königinstr. 47, Dachgeschossumbau, -Teilabbruch & - Neubau mit einer neuen Wohneinheit und Nutzungsänderung 1.OG von Praxis zu Wohnen und Zusammenlegung von Wohnungen im EG und UG mit Anbau eines Balkons c) Linprunstr. 37, Dachgeschossausbau mit 4 Wohnungen
+- TOP 3.: Aktuelle Sachstandsberichte
