@@ -1,0 +1,7 @@
+# TOP 7: European Energy Award / Energiepolitisches Arbeitsprogramm (EPAP) a. Bericht Bezirksamt (ca. 10 Minuten) b. Fragen und Diskussion
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Ausschusses für Klimaschutz, Grünanlagen, Spielplätze, Umwelt und Natur (2022-11-08)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=53939
+- Ergebnis: erledigt
