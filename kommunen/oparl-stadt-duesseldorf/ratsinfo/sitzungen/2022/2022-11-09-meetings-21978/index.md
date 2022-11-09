@@ -1,0 +1,91 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-09T17:00:00+01:00
+- Ende: 2022-11-09T21:38:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21978
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21978
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket 2022-11-09 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00466498.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket 2022-11-09 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00466498.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket 2022-11-09 Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00466498.pdf
+
+## Tagesordnung
+
+- TOP -: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung vom 28. September 2022 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 5: Bebauungsplan-Entwurf Nr. 06/020 - Beiderseits Vogelsanger Weg - Empfehlung einstimmig beschlossen
+- TOP 6: Städtebaulicher Wettbewerb Nr. 06/021 - Münsterstraße 304-306 - Empfehlung abweichend beschlossen
+- TOP 7: Umgestaltung Dreiecksfläche Scheffelstraße -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 8: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - Empfehlung abweichend beschlossen
+- TOP 9: Stadtbahnstrecke U81/3. Bauabschnitt, Flughafen Terminal – Flughafen Bahnhof - Empfehlung einstimmig beschlossen
+- TOP 10: Teil-Umbenennung des Einbrunger Weg in Dorothea-Habedank-Straße - Empfehlung einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen
+- TOP 15: Anfrage der SPD-Fraktion: Zeitfenster der Umsetzung von beschlossenen Maßnahmen der Bezirksvertretung 6
+- TOP 16: Anfrage von Florian Ries (Fraktion Bündnis 90/Die Grünen): Ausstehendes Prüfungsergebnis einer Verkehrsberuhigung auf dem Cloppenburger Weg
+- TOP 17: Anfrage der Fraktion BÜ90/Die Grünen: Münsterstraße - mögliche Lösungen für das Zuparken von Geh- und Radweg durch Lieferverkehre
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 19: Anfrage der FDP-Fraktion: Kosten für die Bearbeitung von Anfragen und Anträgen
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Anfrage der FDP-Fraktion: Containeranlage auf der Sankt-Franziskus-Straße - schriftlich beantwortet
+- TOP 22: Anfrage der SPD-Fraktion: Pollerstandort
+- TOP 23: Anfrage der Fraktion BÜ90/Die Grünen: Wiederinstandsetzung des Bolzplatzes Mintarder Weg
+- TOP 24: Anfrage der Fraktion BÜ90/Die Grünen: Einrichtung einer Querung auf dem Kieshecker Weg
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Anfrage des Ratsherrn Mielczarek (BÜ90/Die Grünen): Rückbau der geschotterten Einbuchtungen Am Bauenhaus
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Anfrage des Ratsherrn Mielczarek (BÜ90/Die Grünen): Fertigstellung der Straße "Zur alten Kaserne" in der Gartenstadt Reitzenstein
+- TOP -: Antrag (wurde bereits übersandt)
+- TOP 29: Antrag der SPD-Fraktion: Fahrradschutzstreifen Eckener Straße - mehrheitlich beschlossen
+- TOP -: Anträge
+- TOP 30: Änderungsantrag der CDU-Fraktion und der FDP-Fraktion zur Vorlage BV6/114/2022 - Fahrradschutzstreifen Eckener Straße - einstimmig beschlossen
+- TOP 31: Interfraktioneller Antrag: Abkühlung des Klinkenplatzes in Unterrath - einstimmig beschlossen
+- TOP 32: Interfraktioneller Antrag: Klimaresiliente und attraktive Westfalenstraße - einstimmig beschlossen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Antrag der FDP-Fraktion: Verkehrssituation Heinefeldplatz - abweichend beschlossen
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Antrag der SPD-Fraktion: Anwohnerparkgebühren - zurückgezogen
+- TOP 37: Antrag der SPD-Fraktion: Verkehrsberuhigung Krahnenburgstraße - einstimmig beschlossen
+- TOP 38: Antrag der SPD-Fraktion: Parkverbot Lichtenbroicher Weg - mehrheitlich abgelehnt
+- TOP 39: Antrag der SPD-Fraktion: Außenkolumbarium Unterrather Friedhof - abweichend beschlossen
+- TOP 40: Antrag der CDU-Fraktion: Errichtung von Sharing-Stationen/Mobilitätsstationen - abweichend beschlossen
+- TOP 41: Antrag der CDU-Fraktion und der FDP-Fraktion: 1:1 Ausstattung der Sekundarstufe I des Friedrich-Rückert-Gymnasiums mit iPADS - abweichend beschlossen
+- TOP 42: Antrag der Fraktion BÜ90/Die Grünen: Gefährliche Ausfahrt am Mörsenbroicher Weg 28 - mehrheitlich abgelehnt
+- TOP 43: Antrag der Fraktion BÜ90/Die Grünen: Baumpflanzungen im Park am Kittelbach - abweichend beschlossen
+- TOP 44: Antrag der Fraktion BÜ90/Die Grünen: Anbringung von Bodenschwellen auf der Krahnenburgstraße zur Einhaltung der Geschwindigkeitsbegrenzung - mehrheitlich abgelehnt
+- TOP 45: Antrag der Fraktion BÜ90/Die Grünen: Sicherung des freilaufenden Rechtsabbiegers Nördlicher Zubringer/Vogelsanger Weg - mehrheitlich abgelehnt
+- TOP 46: Antrag der Fraktion BÜ90/Die Grünen: Fahrradabstellanlage Röhrenstraße - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 47: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 6, Liste A (Schulen) - einstimmig beschlossen
+- TOP 48: Bauunterhaltungsmittel 2022 - Teil B - sonstige städtische Einrichtungen - Weihnachtsbaum Hülsmeyerplatz - einstimmig beschlossen
+- TOP 49: Bauunterhaltungsmittel 2022 - Teil B - sonstige städtische Einrichtungen - Erneuerung Fahrbahnbelag - abweichend beschlossen
+- TOP 50: Zuschussvergabe 2022 Antrag des Einkaufs Trümpfe Unterrath e.V. - Aufstellung Weihnachtsbäume - abweichend beschlossen
+- TOP 51: Zuschussvergabe 2022 Antrag Bürgerverein Rath 1925 e.V. - Gemeinsames Frühstück der Schulen und Kindergärten zu St. Martin - einstimmig beschlossen
+- TOP 52: Zuschussvergabe 2022 - Antrag des St.Seb. Schützenverein Derendorf 1655 e.V. - Weihnachtsfeier für die älteren Mitglieder - einstimmig abgelehnt
+- TOP 53: Zuschussvergabe 2022 Antrag der KGS St.-Franziskus-Schule - St. Martin Umzug - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 54: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 55: Bedeutung der geplanten Unterschutzstellung des Kettelbachs für das Bauvorhaben Mintarder Weg - Vorlage BV6/011/2022 - zur Kenntnis genommen
+- TOP 56: Fußgängerüberweg Westfalenstraße - Vorlage BV6/023/2021 - zur Kenntnis genommen
+- TOP 57: Einrichtung eines verkehrsberuhigten Bereichs auf dem Cloppenburger Weg - Platz zum Spielen! - Vorlage BV6/089/2021 - zur Kenntnis genommen
+- TOP 58: Spielplatz Am Schorn/In der Nießdonk - Standort 9946 - Errichtung eines Spielgerätes für Schulkinder - Vorlage BV6/148/2022 - zur Kenntnis genommen
+- TOP 59: Einrichtung eines verkehrsberuhigten Bereichs in einem Teil der Straße "An der Golzheimer Heide" - Vorlage BV6/136/2021 - zur Kenntnis genommen
+- TOP 60: Kurvenlärm Unterrather Straße/Kalkumer Straße - Vorlage BV6/115/2022 - zur Kenntnis genommen
+- TOP 61: Bebauungsplan Nr. 06/027 - Nordöstlich Rather Kreuzweg - Aufstellung - abweichend beschlossen
+- TOP 62: Parken auf Gehwegen - Vorlage BV6/010/2022 - zur Kenntnis genommen
+- TOP 63: Einrichtung eines Schnullerbaumes auf dem Spielplatz Aaper Wald, Rather Steig, 40472 Düsseldorf - Vorlage BV6/102/2022 - zur Kenntnis genommen
+- TOP 64: Westfalenstraße Tempolimit - Vorlage BV6/022/2021 - zur Kenntnis genommen
+- TOP 65: Einrichtung eines Bewohner*innenparkgebietes in der Siedlung Scheffelstraße - Vorlage BV6/015/2022 - zur Kenntnis genommen
+- TOP 66: Zuschussvergabe 2022 Antrag des Fest- und Förderverein "Leetebrok" e.V. - einstimmig beschlossen
