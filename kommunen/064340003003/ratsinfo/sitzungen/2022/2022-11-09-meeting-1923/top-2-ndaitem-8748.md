@@ -1,0 +1,6 @@
+# TOP 2: Mitteilungen des Gemeindevorstandes
+
+- Sitzung: Ausschuss für Umwelt, Bau und Infrastruktur (12. Sitzung) (2022-11-09)
+- Körperschaft: Gemeinde Glashütten
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/agendaitem/8748
