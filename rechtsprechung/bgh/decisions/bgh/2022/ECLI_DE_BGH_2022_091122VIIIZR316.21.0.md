@@ -1,0 +1,481 @@
+---
+ecli: "ECLI:DE:BGH:2022:091122VIIIZR316.21.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-08"
+aktenzeichen: "VIII ZR 316/21"
+decided: "2022-11-09"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2022&Sort=1&Seite=91&nr=132200&anz=3168&pos=2731&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-08_NA_2022-11-09_VIII_ZR_316_21_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0555a.md", "germany/bund/acts/bgb/0555b.md", "germany/bund/acts/bgb/0559.md", "germany/bund/acts/bgb/0559a.md", "germany/bund/acts/bgb/0559b.md", "germany/bund/acts/bgb/0812.md", "germany/bund/acts/bgb/0814.md", "germany/bund/acts/bgb/0818.md", "germany/bund/acts/zpo/0562.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, VIII ZR 316/21 vom 2022-11-09
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                 IM NAMEN DES VOLKES
+
+                   VERSÄUMNISURTEIL
+VIII ZR 316/21                                 Verkündet am:
+                                               9. November 2022
+                                               Reiter,
+                                               Justizangestellte
+                                               als Urkundsbeamtin
+                                               der Geschäftsstelle
+                         in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2022:091122UVIIIZR316.21.0
+
+                                             -2-
+
+
+
+    Der VIII. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 9. November 2022 durch die Vorsitzende Richterin Dr. Fetzer, die Richter
+    Dr. Schneider und Kosziol sowie die Richterinnen Dr. Liebert und Wiegand
+
+
+    für Recht erkannt:
+
+
+           Auf die Revision der Beklagten wird das Urteil der 1. Zivilkammer
+           des Landgerichts Bremen vom 6. Oktober 2021 aufgehoben.
+
+           Die Sache wird zur erneuten Verhandlung und Entscheidung, auch
+           über die Kosten des Revisionsverfahrens, an das Berufungsgericht
+           zurückverwiesen.
+
+           Das Urteil ist vorläufig vollstreckbar.
+
+
+
+
+                                    Von Rechts wegen
+
+
+
+
+                                        Tatbestand:
+
+1          Die Klägerin ist Mieterin einer preisfreien Wohnung der Beklagten in Bremen.
+
+2          Im Anschluss an eine mit Schreiben vom 19. Oktober 2017 angekündigte
+    Modernisierung der Wohnung der Klägerin und des Gebäudes, in dem sich die
+    Wohnung befindet, teilte die Beklagte der Klägerin mit Schreiben vom 21. September 2018 mit, dass sich die monatlich zu zahlende Grundmiete infolge der
+
+                                              -3-
+
+
+
+    Modernisierungsmaßnahmen zum 1. Dezember 2018 von zuletzt 226,94 € um
+    117,88 € auf 344,82 € erhöhe. Dem Schreiben war eine als "Kostenzusammenstellung und Berechnung der Mieterhöhung" bezeichnete Anlage beigefügt, die
+    - weitgehend in tabellarischer Form - folgende Angaben enthält:
+
+         -     die einzelnen Modernisierungsmaßnahmen, getrennt nach denjenigen
+               Maßnahmen, die gemeinschaftlich genutzte Gebäudebereiche beziehungsweise alle Wohnungen gleichermaßen betreffen ("allgemeine Modernisierungsmaßnahmen", etwa Erneuerung von Hauseingangstür und
+               Treppenhausfenstern sowie Dämmung der Außenwände, des Dachs und
+               der Kellerdecken), und denjenigen Maßnahmen, die allein die Wohnung
+               der Klägerin betreffen (Erneuerung der Wohnungseingangstür, der Wohnungsfenster u.a.)
+         -     die hierfür jeweils angefallenen Gesamtkosten nebst separat ausgewiesenen Baunebenkosten, die von diesen Summen jeweils in Abzug zu
+               bringenden - gegebenenfalls im Einzelnen erläuterten - Instandhaltungskosten sowie den verbleibenden umlagefähigen Modernisierungskostenanteil
+         -     bei den allgemeinen Modernisierungsmaßnahmen den - anhand der
+               Wohnfläche der Wohnung der Klägerin (39,74 m²) im Verhältnis zu der
+               Gesamtwohnfläche (707,69 m²) ermittelten - auf die Klägerin entfallenden Modernisierungskostenanteil
+         -     eine Darstellung der Anrechnung von Tilgungszuschuss und Zinsermäßigung wegen der Inanspruchnahme eines Darlehens der Kreditanstalt
+               für Wiederaufbau (KfW) sowie
+         -     die sich daraus ergebende Berechnung der Mieterhöhung und den verlangten Betrag
+
+
+3            Die Klägerin bezahlte den verlangten Erhöhungsbetrag in der Folge; sie
+    hält die Mieterhöhungserklärung aber aus formellen Gründen für unwirksam.
+
+4            Mit der vorliegenden Klage hat die Klägerin die Feststellung, dass der Beklagten aus der Mieterhöhungserklärung ein Anspruch auf die Zahlung einer um
+    117,88 € erhöhten Miete ab Dezember 2018 nicht zustehe, und die Rückzahlung
+    der ab Dezember 2018 aus ihrer Sicht zu viel gezahlten Miete in Höhe von ins-
+
+                                          -4-
+
+
+
+    gesamt 1.414,56 € nebst Zinsen begehrt. Das Amtsgericht hat der Klage stattgegeben. Die dagegen gerichtete Berufung der Beklagten hat das Landgericht zurückgewiesen. Mit der vom Berufungsgericht zugelassenen Revision verfolgt die
+    Beklagte ihr Klageabweisungsbegehren weiter.
+
+
+
+
+                                Entscheidungsgründe:
+
+5           Die Revision hat Erfolg. Über das Rechtsmittel ist antragsgemäß durch
+    Versäumnisurteil zu entscheiden, da die Klägerin in der Revisionsverhandlung
+    trotz ordnungsgemäßer Ladung nicht anwaltlich vertreten war. Inhaltlich beruht
+    das Urteil jedoch nicht auf der Säumnis der Klägerin, sondern auf einer Sachprüfung.
+
+
+
+
+                                           I.
+
+6           Das Berufungsgericht hat zur Begründung seiner Entscheidung, soweit für
+    das Revisionsverfahren von Interesse, im Wesentlichen ausgeführt:
+
+7           Das Amtsgericht habe jedenfalls im Ergebnis zu Recht angenommen,
+    dass der Beklagten ein Anspruch auf Bezahlung einer erhöhten Miete ab dem
+    1. Dezember 2018 nicht zustehe, da die Mieterhöhungserklärung den formellen
+    Anforderungen des § 559b BGB nicht gerecht werde.
+
+8           Sinn und Zweck der in § 559b Abs. 1 Satz 2 BGB geregelten Pflichten des
+    Vermieters, die Erhöhung aufgrund der entstandenen Kosten zu berechnen und
+    entsprechend den Voraussetzungen der §§ 559, 559a BGB zu erläutern, sei es,
+    den Informationsvorsprung auf Vermieterseite abzubauen und dem Mieter die
+    Informationen zu geben, die er benötige, um "qualifiziert überprüfen zu können",
+
+                                           -5-
+
+
+
+     ob der Anspruch berechtigt sei. Die Vorschriften über die Berechnungs- und Erläuterungspflichten des Vermieters stellten damit das notwendige Gegengewicht
+     zu der dem Vermieter in Abweichung von den allgemeinen Grundsätzen des Vertragsrechts eingeräumten Möglichkeit dar, die Pflicht des Mieters zur Mietzahlung
+     durch einseitige Erklärung zu gestalten. Es sei daher mindestens die Angabe erforderlich, ob und in welchem Umfang Modernisierungs- und Instandsetzungsarbeiten durchgeführt worden seien und wie sich die Kosten auf die einzelnen Mieter verteilten.
+
+9           Die Erklärung müsse so ausgestaltet sein, dass dem Mieter eine überschlägige Prüfung des verlangten Mehrbetrags ohne besondere Kenntnisse auf
+     dem Gebiet der Rechnungsprüfung und ohne Einsicht in die Belege möglich sei.
+     Der Umfang der Erläuterungen hänge sowohl vom Umfang der durchgeführten
+     Arbeiten als auch davon ab, über welche Informationen der Mieter bereits verfüge. Höchste Anforderungen bestünden, soweit es sich um Maßnahmen außerhalb der Wohnung des Mieters handele, da dieser in einem solchen Fall den Umfang der Arbeiten und die hierdurch bewirkte Modernisierung am wenigsten beurteilen könne.
+
+10          In dem hier vorliegenden Fall einer umfangreichen Modernisierung, die
+     Maßnahmen umfasse, welche bereits für sich betrachtet Kosten in Höhe eines
+     sechsstelligen Betrags verursachten, sei eine Untergliederung der betreffenden
+     Kostenpositionen - etwa durch eine Aufschlüsselung nach den verschiedenen
+     Gewerken oder gegebenenfalls auch durch eine genauere Darlegung der einzelnen Rechnungspositionen - erforderlich, um die Nachvollziehbarkeit für den Mieter zu gewährleisten. Das gelte auch unter Berücksichtigung des Grundsatzes,
+     dass die Vorschriften über das Mieterhöhungsverfahren nicht in einer Weise ausgelegt werden dürften, die dem Vermieter die Verfolgung seiner Interessen unzumutbar erschwere.
+
+                                          -6-
+
+
+
+11         Gemessen daran genüge die hier zu beurteilende Mieterhöhungserklärung den formellen Anforderungen nicht. Die beigefügte "Darlegung der für die
+     Modernisierung angefallenen Kosten und Instandhaltungsanteile" enthalte zwar
+     eine Aufteilung der Gesamtkosten auf die verschiedenen Modernisierungsmaßnahmen, jedoch keine weitere Aufschlüsselung, aus der sich nachvollziehbar entnehmen ließe, in welchem Umfang die Maßnahmen der Instandsetzung beziehungsweise der Modernisierung zuzuordnen seien. Eine Untergliederung sei hier
+     angesichts des Umfangs der Arbeiten an einem mehrere Hausnummern umfassenden Objekt aber erforderlich gewesen. So fehle beispielsweise bei der Maßnahme "Wärmedämmung an den Außenwänden/Fassadenarbeiten" eine Differenzierung der angefallenen Gesamtkosten von 121.638,93 € nach den Kosten
+     für den Aufbau des Gerüsts, die Abtragung des alten Putzes, die Verkleidung mit
+     Dämmmaterial und weitere Einzelarbeiten. Dadurch sei es der Klägerin nicht
+     möglich, den jeweils (einzig) ausgewiesenen Gesamtbetrag für diese Maßnahmen auf seine Schlüssigkeit und Berechtigung im Hinblick auf etwa in ihm enthaltene, nicht umlagefähige Instandhaltungskosten zu überprüfen. Hierfür bedürfe es vielmehr der Angabe der in der Gesamtleistung enthaltenen "konkreten
+     Arbeitsabschnitte" sowie einer Untergliederung in "greifbare Einzelarbeiten".
+     Ausreichend nachvollziehbare Angaben über die den jeweiligen Maßnahmen immanenten Instandhaltungsanteile ergäben sich ebenso wenig aus den Schreiben
+     der Beklagten, mit denen sie die Baumaßnahmen angekündigt habe.
+
+12         Der Beklagten werde hierdurch auch nicht ein unzumutbarer Aufwand aufgebürdet. Sie habe schließlich ohnehin eine Trennung der Maßnahmen nach Modernisierungs- und Sanierungsanteil vorzunehmen und verfüge über entsprechend aufgeschlüsselte Rechnungen; andernfalls sei sie gehalten, die notwendigen Informationen bei den ausführenden Unternehmen einzuholen. Eine Untergliederung der durchgeführten Maßnahmen in die einzelnen Gewerke könne der
+
+                                           -7-
+
+
+
+     Beklagten hier insbesondere deshalb abverlangt werden, weil sie sich zur Erläuterung des angewandten Umlageschlüssels in Bezug auf die Kosten, welche für
+     die Arbeiten an den gemeinschaftlich genutzten Gebäudeteilen angefallen seien,
+     selbst auf den Begriff "Gesamtgewerke" bezogen habe.
+
+13         Eine andere Beurteilung ergebe sich auch nicht unter Berücksichtigung
+     der einschlägigen Rechtsprechung des Bundesgerichtshofs. Soweit es danach
+     in der Regel ausreichend sei, wenn der Vermieter den ersparten Instandsetzungsaufwand durch die Angabe einer Quote von den aufgewendeten Gesamtkosten nachvollziehbar darlege (BGH, Urteil vom 17. Dezember 2014 - VIII ZR
+     88/13), und es außerdem (nur) einen materiellen Fehler darstelle, wenn der Vermieter zu Unrecht einen Abzug für tatsächlich angefallene Instandhaltungskosten
+     nicht vornehme (BGH, Urteil vom 17. Juni 2020 - VIII ZR 81/19), sei Ausgangspunkt auch für diese Erwägungen stets, dass der Mieter - wie hier nicht - den
+     Kostenansatz in seiner Plausibilität nachvollziehen könne.
+
+14         Eine teilweise Wirksamkeit der Erhöhungserklärung komme im Streitfall
+     ebenfalls nicht in Betracht. Dabei könne unterstellt werden, dass die vom Bundesgerichtshof - für den Fall der Durchführung verschiedener, tatsächlich voneinander trennbarer Baumaßnahmen - aufgestellten Voraussetzungen für eine
+     Aufteilbarkeit der Erhöhungserklärung (BGH, Urteil vom 17. Juni 2020 - VIII ZR
+     81/19) vorlägen. Denn es fehle hier in Bezug auf jede einzelne Baumaßnahme
+     an der erforderlichen Untergliederung in ihre jeweiligen Einzelgewerke. Zudem
+     verbleibe es bei der fehlenden Nachvollziehbarkeit der im Rahmen der Erläuterung der "allgemeinen Modernisierungsmaßnahmen" aufgestellten Behauptung
+     der Beklagten, die "Gesamtgewerke" seien "für alle Wohnungen gleichermaßen
+     zutreffend". Dass auch die in der Kostenzusammenstellung ausgewiesenen Baunebenkosten nicht nachvollziehbar seien, folge im Übrigen schon daraus, dass
+     diese ausweislich der zugehörigen Erläuterung allein anhand des Volumens der
+
+                                            -8-
+
+
+
+     restlichen - ihrerseits nicht schlüssig dargelegten - Positionen ermittelt worden
+     seien.
+
+15            Schließlich sei die von der Beklagten begehrte Mieterhöhung auch nicht
+     etwa dadurch wirksam zwischen den Parteien vereinbart worden, dass die Klägerin die erhöhte Miete seit Dezember 2018 geleistet habe. Die Annahme einer
+     konkludenten Vereinbarung über eine Mieterhöhung durch entsprechende Zahlungen des Mieters setze nämlich voraus, dass die vorausgegangene Erklärung
+     des Vermieters auf die Zustimmung zu der Mieterhöhung gerichtet gewesen sei.
+     Daran fehle es im Fall eines unwirksamen einseitigen Erhöhungsverlangens aber
+     regelmäßig; im Wege der Umdeutung lasse sich ein anderes Ergebnis ebenfalls
+     nicht herbeiführen.
+
+16            So verhalte es sich auch im Streitfall. Denn die Erhöhungserklärung der
+     Beklagten sei nicht auf Zustimmung, sondern auf einseitige Änderung der Miete
+     gerichtet und zudem unwirksam gewesen. Folglich habe die Beklagte redlicherweise auch nicht damit rechnen dürfen, dass die Klägerin den geltend gemachten
+     Anspruch - durch entsprechende Zahlung - anerkenne.
+
+17            Da die Klägerin den Erhöhungsbetrag (117,88 €) ab Dezember 2018 demnach ohne Rechtsgrund an die Beklagte geleistet habe, stehe ihr gemäß § 812
+     Abs. 1 Satz 1 Alt. 1 BGB auch der geltend gemachte Rückzahlungsanspruch in
+     Höhe von 1.414,56 € nebst Zinsen zu. Diese Ansprüche seien weder nach
+     §§ 814, 818 Abs. 3 BGB noch wegen Verwirkung ausgeschlossen.
+
+
+
+
+                                             II.
+
+18            Diese Beurteilung hält rechtlicher Nachprüfung in entscheidenden Punkten nicht stand. Mit der vom Berufungsgericht gegebenen Begründung kann ein
+
+                                            -9-
+
+
+
+     Anspruch der Beklagten gemäß §§ 559 ff. BGB auf eine ab dem 1. Dezember
+     2018 um 117,88 € erhöhte Miete nicht - wie von der Klägerin im Wege einer negativen Feststellungsklage begehrt - verneint werden. Das Berufungsgericht hat
+     das Vorliegen der formellen Voraussetzungen der Mieterhöhungserklärung nach
+     § 559b Abs. 1 BGB rechtsfehlerhaft als nicht gegeben erachtet. Das bedeutet
+     zugleich, dass auch die Ansprüche der Klägerin auf Rückzahlung bereits geleisteter Erhöhungsbeträge gemäß § 812 Abs. 1 Satz 1 Alt. 1 BGB (in Höhe von
+     1.414,56 €) nebst Zinsen mit der vom Berufungsgericht gegebenen Begründung
+     nicht bejaht werden können.
+
+19         1. Nach § 559 Abs. 1 BGB in der hier gemäß Art. 229 § 49 EGBGB anzuwendenden bis zum 31. Dezember 2018 geltenden Fassung (im Folgenden: aF)
+     kann der Vermieter nach der Durchführung bestimmter Modernisierungsmaßnahmen im Sinne des § 555b BGB die jährliche Miete um 11 Prozent der für die
+     Wohnung aufgewendeten Kosten erhöhen; dabei gehören Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären, nicht zu den aufgewendeten
+     Kosten (§ 559 Abs. 2 BGB). Gemäß § 559b Abs. 1 BGB ist die Mieterhöhung
+     dem Mieter in Textform zu erklären, wobei die Erhöhung aufgrund der entstandenen Kosten zu berechnen und entsprechend den Voraussetzungen der § 559
+     BGB aF, § 559a BGB zu erläutern ist.
+
+20         a) Der Vermieter hat daher in der Erhöhungserklärung darzulegen, inwiefern die durchgeführten baulichen Maßnahmen den Gebrauchswert der Mietsache nachhaltig erhöhen, die allgemeinen Wohnverhältnisse auf Dauer verbessern oder eine nachhaltige Einsparung von Energie und Wasser bewirken (Senatsurteile vom 7. Januar 2004 - VIII ZR 156/03, NJW-RR 2004, 658 unter II 1 a
+     [zu § 3 Abs. 3 Satz 2 MHG]; vom 25. Januar 2006 - VIII ZR 47/05, NJW 2006,
+     1126 Rn. 9; vom 17. Dezember 2014 - VIII ZR 88/13, NJW 2015, 934 Rn. 27;
+     vom 20. Juli 2022 - VIII ZR 361/21, WuM 2022, 542 Rn. 17; Senatsbeschlüsse
+
+                                          - 10 -
+
+
+
+     vom 10. April 2002 - VIII ARZ 3/01 [Rechtsentscheid], BGHZ 150, 277, 281 [zu
+     § 3 Abs. 3 Satz 2 MHG]; vom 12. Juni 2018 - VIII ZR 121/17, WuM 2018, 723
+     Rn. 10). Da die Mieterhöhung automatisch nach kurzer Zeit wirksam wird (vgl.
+     § 559b Abs. 2 Satz 1 BGB), soll die Erläuterungspflicht unzumutbare Nachteile
+     für den in der Regel juristisch und wohnungswirtschaftlich nicht vorgebildeten
+     Mieter dadurch verhindern, dass dieser die Berechtigung der geforderten Mieterhöhung - je nach den Einzelfallumständen unter Zuziehung von sachkundigen
+     Personen - überprüfen kann (vgl. Senatsurteile vom 17. Dezember 2014 - VIII ZR
+     88/13, aaO, mwN; vom 20. Juli 2022 - VIII ZR 361/21, aaO; Senatsbeschlüsse
+     vom 10. April 2002 - VIII ARZ 3/01 [Rechtsentscheid], aaO [zu § 3 MHG]; vom
+     12. Juni 2018 - VIII ZR 121/17, aaO; vgl. auch BT-Drucks. 7/2011, S. 12). Dabei
+     sind in formeller Hinsicht allerdings keine überhöhten Anforderungen an die Mieterhöhungserklärung zu stellen. Vielmehr genügt es, wenn der Mieter den Grund
+     und den Umfang der Mieterhöhung anhand der Erläuterung als plausibel nachvollziehen kann (vgl. Senatsurteile vom 25. Januar 2006 - VIII ZR 47/05, aaO;
+     vom 17. Dezember 2014 - VIII ZR 88/13, aaO Rn. 28 mwN; vom 20. Juli 2022
+     - VIII ZR 361/21, aaO; Senatsbeschlüsse vom 10. April 2002 - VIII ARZ 3/01
+     [Rechtsentscheid], aaO S. 281 f. [zu § 3 MHG]; vom 12. Juni 2018 - VIII ZR
+     121/17, aaO).
+
+21         b) Erfüllt eine bauliche Veränderung die Kriterien sowohl einer von der Regelung des § 559 BGB erfassten Modernisierungsmaßnahme (§ 555b Nr. 1, 3, 4,
+     5 oder 6 BGB) als auch einer Erhaltungsmaßnahme im Sinne von § 555a Abs. 1
+     BGB (sogenannte modernisierende Instandsetzung), hat der Vermieter bei der
+     Ermittlung der umlagefähigen Kosten nach Maßgabe des § 559 Abs. 2 BGB eine
+     entsprechende Kürzung vorzunehmen (vgl. Senatsurteile vom 17. Juni 2020
+     - VIII ZR 81/19, WuM 2020, 493 Rn. 37; vom 17. Dezember 2014 - VIII ZR 88/13,
+     aaO Rn. 29). Aus der Mieterhöhungserklärung muss deshalb hervorgehen, in
+
+                                         - 11 -
+
+
+
+     welchem Umfang durch die durchgeführten Arbeiten Instandsetzungskosten erspart wurden. Da aber auch insoweit keine überhöhten Anforderungen an das
+     Begründungserfordernis zu stellen sind, bedarf es hierfür keiner umfassenden
+     Vergleichsrechnung zu den hypothetischen Kosten einer bloßen Instandsetzung.
+     Vielmehr ist es ausreichend, wenn der Vermieter den ersparten Instandsetzungsaufwand (zumindest) durch die Angabe einer Quote von den aufgewendeten Gesamtkosten nachvollziehbar darlegt (vgl. Senatsurteile vom 17. Dezember 2014
+     - VIII ZR 88/13, aaO Rn. 30 f. mwN; vom 20. Juli 2022 - VIII ZR 361/21, aaO
+     Rn. 18).
+
+22         2. Diesen Anforderungen wird die hier zu beurteilende Mieterhöhungserklärung gerecht. Insbesondere ist die Erhöhungserklärung entgegen der Auffassung des Berufungsgerichts nicht etwa deshalb in formeller Hinsicht unwirksam,
+     weil die Beklagte die für die verschiedenen Modernisierungsmaßnahmen jeweils
+     entstandenen Gesamtkosten nicht in einzelne Positionen untergliedert hat. Auch
+     im Übrigen erfüllt die Erhöhungserklärung die aufgezeigten formellen Voraussetzungen.
+
+23         a) Entgegen der Auffassung des Berufungsgerichts ist die Erhöhungserklärung nicht deswegen aus formellen Gründen unwirksam, weil die Beklagte die
+     für die verschiedenen durchgeführten - ausweislich der Erklärung der Modernisierung dienenden - Maßnahmen (Wärmedämmung an den Außenwänden, Kellerdecken und im Dachbereich sowie "hydraulischer Abgleich", Erneuerung der
+     Elektrosteigleitungen im Treppenhaus, Austausch der Treppenhausfenster, der
+     Hauseingangstür, der Wohnungsfenster und der Wohnungseingangstür durch
+     wärmegedämmte Bauteile sowie erstmalige Montage von Balkonsteckdosen) jeweils entstandenen Gesamtkosten im Rahmen der Kostenzusammenstellung
+     und Berechnung der Mieterhöhung nicht nach den einzelnen angefallenen Ge-
+
+                                          - 12 -
+
+
+
+     werken aufgeschlüsselt oder anderweitig (in "konkrete Arbeitsabschnitte" beziehungsweise "greifbare Einzelarbeiten") untergliedert hat. Mit dieser - bereits in
+     früheren Urteilen (LG Bremen, WuM 2020, 158; WuM 2019, 450; WuM 2018,
+     365) und auch von anderen Instanzgerichten (LG Berlin, ZMR 2021, 809 [nicht
+     rechtskräftig; beim Senat in der Revision anhängig]; LG Stuttgart, Urteil vom
+     29. Juli 2020 - 13 S 22/20 [n.v.]; LG Hamburg, ZMR 2020, 192; LG Potsdam,
+     WuM 2000, 553 [zu § 3 MHG]; LG Dresden, WuM 1998, 216 [zu § 3 MHG]) sowie
+     teilweise in der Literatur (Schmidt-Futterer/Börstinghaus, Mietrecht, 15. Aufl.,
+     § 559b BGB Rn. 16 ff.; auf den Bedarf im Einzelfall abstellend: BeckOK-BGB/
+     Schüller, Stand: 1. August 2022, § 559b Rn. 11; MünchKommBGB/Artz, 8. Aufl.,
+     § 559b Rn. 5) vertretenen - Auffassung überspannt das Berufungsgericht die formellen Anforderungen, die die Regelung des § 559b Abs. 1 BGB an eine Mieterhöhungserklärung stellt (wie hier im Ergebnis auch: LG Frankfurt am Main,
+     NJW-RR 2022, 592; LG Bonn, WuM 2021, 489; AG Münster, Urteil vom 19. April
+     2021 - 28 C 2287/20, BeckRS 2021, 15068). Eine solche Aufschlüsselung der
+     Kosten ist grundsätzlich weder erforderlich, wenn es sich um eine reine Modernisierungsmaßnahme handelt, noch wenn eine sogenannte modernisierende Instandsetzung vorgenommen wird (so bereits Senatsurteile vom 20. Juli 2022
+     - VIII ZR 361/21, WuM 2022, 542 Rn. 32, VIII ZR 337/21, juris Rn. 35, und VIII ZR
+     339/21, juris Rn. 33).
+
+24         aa) Der Senat hat bereits in den vorgenannten, jeweils einen Parallelfall
+     betreffenden Urteilen entschieden, dass weder der Wortlaut des § 559b Abs. 1
+     BGB noch der Sinn und Zweck dieser Vorschrift es gebieten, dass der Vermieter
+     in der Erhöhungserklärung die für verschiedene Modernisierungsmaßnahmen
+     angefallenen Gesamtkosten nach einzelnen Positionen aufschlüsselt. Zur Vermeidung von Wiederholungen wird auf die dortigen Ausführungen verwiesen (vgl.
+     etwa Senatsurteil vom 20. Juli 2022 - VIII ZR 361/21, aaO Rn. 33 - 49).
+
+                                           - 13 -
+
+
+
+25           Einer Ergänzung bedarf es hier nur insoweit, als das Berufungsgericht vorliegend nicht nur verkannt hat, dass mit einer Aufschlüsselung der entstandenen
+     Gesamtkosten nach Gewerken oder vergleichbaren Kriterien für den Mieter weder ein maßgeblicher Erkenntnisgewinn im Hinblick auf den in den Gesamtkosten
+     enthaltenen Anteil für Erhaltungsmaßnahmen noch ein anderweitiger zweckmäßiger Erkenntnisgewinn verbunden wäre (vgl. etwa Senatsurteil vom 20. Juli
+     2022 - VIII ZR 361/21, aaO Rn. 40 ff.), sondern es überdies - soweit es die Aufteilung der Gesamtkosten für die an den Außenwänden angebrachte Wärmedämmung nebst Fassadenarbeiten ausdrücklich für notwendig erachtet hat - offenbar die diesbezügliche, aus der Kostenaufstellung hervorgehende Erläuterung
+     der Beklagten übersehen hat. Danach hat die Beklagte die Höhe der insoweit
+     abzuziehenden Instandhaltungskosten auf der Grundlage eines dem Erhöhungsschreiben beigefügten Angebots eines Fachbetriebs für die (hypothetische)
+     Durchführung bloßer Erhaltungsmaßnahmen an der Außenfassade ermittelt, das
+     die hierfür erforderlichen einzelnen Leistungen im Einzelnen aufführt (u.a. Gerüstaufbau, vorhandene Putzschäden ausbessern, intakten Altanstrich prüfen
+     und reinigen, Außenflächen neu streichen, lasieren bzw. lackieren). Diese - nach
+     der oben bereits zitierten Senatsrechtsprechung (Senatsurteil vom 17. Dezember
+     2014 - VIII ZR 88/13, NJW 2015, 934 Rn. 30) grundsätzlich nicht einmal erforderliche - hypothetische Vergleichsrechnung erleichtert eine Überprüfung der Plausibilität des von der Beklagten berücksichtigten Instandhaltungsanteils zusätzlich.
+
+                                           - 14 -
+
+
+
+26         bb) Der Senat hat in den vorgenannten, jeweils einen Parallelfall betreffenden Urteilen ebenfalls bereits ausgeführt, dass die dargestellte Gesetzesauslegung auch der bisherigen gefestigten Rechtsprechung des Senats zu den formellen Anforderungen an die Erhöhungserklärung nach § 559b Abs. 1 BGB zugrunde liegt. Auch insoweit wird zur Vermeidung von Wiederholungen auf die
+     dortige Begründung verwiesen (vgl. etwa Senatsurteil vom 20. Juli 2022 - VIII ZR
+     361/21, WuM 2022, 542 Rn. 50 f.).
+
+27         cc) Nach alledem ist es ausreichend, wenn der Vermieter in der Erhöhungserklärung - wie hier geschehen - die für eine bestimmte Modernisierungsmaßnahme angefallenen Kosten als Gesamtsumme ausweist und einen seiner
+     Meinung nach in den Gesamtkosten enthaltenen Instandsetzungsanteil durch die
+     Angabe einer Quote oder - wie hier - eines bezifferten Betrags kenntlich macht.
+     Das gilt erst recht, wenn der Vermieter - wie hier - die Ermittlung der Höhe des
+     Instandsetzungsanteils zusätzlich erläutert. Für die im Streitfall getrennt angeführten, jeweils für mehrere Maßnahmen zusammengefassten Baunebenkosten
+     (Kosten für Architekten- und Ingenieurleistungen u.ä.) nebst - zusätzlich erläuterter - Bezifferung der darin jeweils enthaltenen Instandsetzungsanteile gilt nichts
+     anderes. Insbesondere begegnet es keinen Bedenken, dass die Beklagte die
+     Baunebenkosten nicht für jede Baumaßnahme einzeln, sondern gebündelt ausgewiesen hat. Denn diese Verfahrensweise ist mit Blick auf die Nachvollziehbarkeit der Kostenzusammenstellung zweckmäßig, da die Höhe der Baunebenkosten typischerweise von dem Gesamtvolumen der für sämtliche Maßnahmen zur
+     Modernisierung und Erhaltung eines Gebäudes angefallenen Kosten (sogenannte anrechenbare Kosten) abhängt.
+
+28         Die Frage, ob die von der Beklagten in Abzug gebrachten Beträge den
+     jeweiligen Instandsetzungsanteil - auch nach Maßgabe der in dem Senatsurteil
+     vom 17. Juni 2020 (VIII ZR 81/19, WuM 2020, 493 Rn. 41 ff.) entwickelten
+
+                                           - 15 -
+
+
+
+     Grundsätze - zutreffend abbilden, betrifft ebenso wie die Frage, ob die Beklagte
+     einen Teil der durchgeführten Baumaßnahmen zu Recht als reine Modernisierungsmaßnahmen angesehen und folglich von einem Abzug von Instandhaltungskosten abgesehen hat, ausschließlich die materielle Begründetheit der
+     Mieterhöhung nach § 559 Abs. 1 BGB aF, nicht aber die formellen Voraussetzungen für die Wirksamkeit einer solchen Mieterhöhung nach § 559b Abs. 1 BGB
+     (vgl. Senatsurteile vom 20. Juli 2022 - VIII ZR 361/21, WuM 2022, 542 Rn. 53;
+     vom 17. Juni 2020 - VIII ZR 81/19, aaO Rn. 27 mwN; Senatsbeschluss vom
+     25. September 2018 - VIII ZR 121/17, NZM 2018, 948 Rn. 3 mwN).
+
+29         b) Entgegen der Auffassung des Berufungsgerichts mangelt es der in der
+     Erhöhungserklärung enthaltenen Kostenzusammenstellung und darauf basierenden Berechnung der Mieterhöhung auch nicht deshalb an der erforderlichen
+     Nachvollziehbarkeit, weil die Beklagte die Kosten derjenigen Maßnahmen, die
+     sie der "allgemeinen Modernisierung" zugeordnet hat, mit der Begründung, es
+     handele sich hierbei um "Gesamtgewerke, die für alle Wohnungen gleichermaßen zutreffen", nach dem jeweiligen Anteil der Wohnfläche der Wohnung des
+     Mieters an der Gesamtwohnfläche der sanierten Gebäude auf die Mieter umgelegt hat. Denn aus dieser Angabe geht unmissverständlich hervor, dass es sich
+     hierbei - aus Sicht der Beklagten - um Maßnahmen handele, die keinen
+     (einzel-)wohnungsspezifischen Charakter aufweisen, weshalb eine Aufteilung
+     der Kosten nach Wohnfläche vorgenommen worden sei.
+
+30         Dass sich - wie das Amtsgericht angenommen und das Berufungsgericht
+     mangels Erheblichkeit für seine Entscheidung offengelassen hat - aus den genannten Angaben der angewandte Umlageschlüssel nicht ausreichend deutlich
+     erschließe, trifft ebenfalls nicht zu. Neben der Erläuterung, dass eine Aufteilung
+     "im Verhältnis der Gesamtwohnfläche zur jeweiligen Wohnungswohnfläche" erfolgt sei, weist die Kostenzusammenstellung nämlich auch die zugrunde gelegten
+
+                                            - 16 -
+
+
+
+     Flächen in Quadratmetern aus (Gesamtwohnfläche: 707,69 m²; Wohnungswohnfläche: 39,74 m²) und stellt damit - worauf die Revision zutreffend hinweist - die
+     für die rechnerische Nachvollziehbarkeit der Mieterhöhung notwendigen Parameter zur Verfügung (vgl. Senatsbeschluss vom 14. Februar 2012 - VIII ZR
+     207/11, WuM 2012, 405 Rn. 3 [zur Nachvollziehbarkeit eines flächenbezogenen
+     Verteilerschlüssels bei der Abrechnung von Betriebskosten]). Das ist entgegen
+     den vom Amtsgericht geäußerten Bedenken - deren Berechtigung das Berufungsgericht ebenfalls dahinstehen lassen hat - auch nicht deshalb anders zu
+     beurteilen, weil sich die betreffenden Gesamtkosten jeweils auf ("allgemeine")
+     Modernisierungsmaßnahmen an einem mehrere Hausnummern umfassenden
+     Objekt (hier: W.         straße 156, 158) beziehen. Dieser Umstand hat bei der
+     hier erfolgten flächenbezogenen Verteilung der Kosten in der Weise Berücksichtigung erfahren, dass der Berechnung - wie aus der Kostenzusammenstellung
+     der Beklagten entgegen der Auffassung des Amtsgerichts eindeutig und somit
+     nachvollziehbar hervorgeht - die Wohnfläche des gesamten Objekts (als Divisor)
+     zugrunde gelegt wurde.
+
+31         Auch hier gilt, dass die Frage, ob die auf diese Weise vorgenommene Kostenumlage sachlich gerechtfertigt ist, allein die materielle Begründetheit der Mieterhöhung, nicht aber deren formelle Voraussetzungen betrifft.
+
+32         c) Die Mieterhöhungserklärung der Beklagten enthält nach den rechtsfehlerfrei getroffenen Feststellungen des Berufungsgerichts auch alle übrigen nach
+     Maßgabe des § 559b Abs. 1 Satz 2 BGB erforderlichen Angaben, die die Klägerin benötigt, um den Grund und den Umfang der Mieterhöhung auf Plausibilität
+     überprüfen und entscheiden zu können, ob Bedarf für eine eingehendere Kontrolle - etwa durch Zuziehung juristisch oder bautechnisch sachkundiger Perso-
+
+                                          - 17 -
+
+
+
+     nen, durch Einholung weiterer Auskünfte beim Vermieter und/oder durch Einsichtnahme in die dem Vermieter vorliegenden Rechnungen und sonstigen Belege - besteht.
+
+
+
+
+                                            III.
+
+33         Nach alledem kann das angefochtene Urteil keinen Bestand haben; es ist
+     aufzuheben (§ 562 Abs. 1 ZPO). Die Sache ist, da es tatsächlicher Feststellungen zur materiellen Berechtigung der streitgegenständlichen Mieterhöhung bedarf, nicht entscheidungsreif und daher zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen (§ 563 Abs. 1 Satz 1 ZPO).
+
+34         Die Klage ist auf der Grundlage der bisher vom Berufungsgericht getroffenen Feststellungen nicht etwa - aus von der Frage des Vorliegens einer (auch
+     materiell) wirksamen Mieterhöhung nach §§ 559 ff. BGB unabhängigen Gründen - abweisungsreif.
+
+35         1. Insbesondere ist das von der Klägerin negierte Rechtsverhältnis (Anspruch der Beklagten auf die geforderte Mieterhöhung) nicht dadurch wirksam
+     zustande gekommen, dass die Klägerin im Anschluss an die Erhöhungserklärung
+     der Beklagten entsprechend erhöhte Mieten (vorbehaltlos) geleistet hat. Der Senat hat bereits in zweien der oben angeführten Urteile vom 20. Juli 2022 (VIII ZR
+     337/21 und VIII ZR 339/21) entschieden, dass dieser Umstand nach der - im hiesigen Streitfall inhaltsgleichen - revisionsrechtlich nicht zu beanstandenden und
+     von der Revision nicht angegriffenen Auslegung der maßgeblichen Willenserklärungen durch das Berufungsgericht weder auf das wirksame Zustandekommen
+     einer (zweiseitigen) Vereinbarung über die von der Beklagten geforderte Miet-
+
+                                             - 18 -
+
+
+
+     erhöhung schließen lässt noch die Klägerin mit ihrem Zahlungsverhalten die fragliche Schuld anerkannt hat. Zur Vermeidung von Wiederholungen wird auf die
+     dortigen Ausführungen verwiesen (vgl. Senatsurteile vom 20. Juli 2022 - VIII ZR
+     337/21, juris Rn. 62 f., und VIII ZR 339/21, juris Rn. 59 f.).
+
+36          2. Ebenso ist es revisionsrechtlich nicht zu beanstanden und wird von der
+     Revision auch nicht angegriffen, dass das Berufungsgericht den geltend gemachten Anspruch der Klägerin auf Rückzahlung der ihrerseits ab Dezember 2018
+     geleisteten Erhöhungsbeträge (§ 812 Abs. 1 Satz 1 Alt. 1 BGB) nicht bereits
+
+                                      - 19 -
+
+
+
+
+nach § 814 BGB oder nach § 818 Abs. 3 BGB als ausgeschlossen beziehungsweise als verwirkt erachtet hat. Das Berufungsgericht hat die jeweiligen Voraussetzungen dieser Ausschlusstatbestände im Ergebnis rechtsfehlerfrei verneint.
+
+
+
+
+                              Rechtsbehelfsbelehrung
+
+     Gegen dieses Versäumnisurteil steht der säumigen Partei der Einspruch zu.
+Dieser ist von einem bei dem Bundesgerichtshof zugelassenen Rechtsanwalt
+binnen einer Notfrist von zwei Wochen ab der Zustellung des Versäumnisurteils
+bei dem Bundesgerichtshof, Karlsruhe, durch Einreichung einer Einspruchsschrift einzulegen.
+
+
+Dr. Fetzer                         Dr. Schneider                        Kosziol
+
+                Dr. Liebert                            Wiegand
+
+Vorinstanzen:
+AG Bremen, Entscheidung vom 29.05.2020 - 9 C 512/19 -
+LG Bremen, Entscheidung vom 06.10.2021 - 1 S 111/20 -
