@@ -5,10 +5,11 @@
 ## Abschnitt 1 Allgemeines
 
 - [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 1a Hauptzollamt, örtliche Zuständigkeit](0001a.md)
 
 ## Abschnitt 2 Zu § 2 des Gesetzes
 
-- [§ 2 Alkoholgehalt, steuerbare Menge](0002.md)
+- [§ 2 Steuerbare Menge](0002.md)
 
 ## Abschnitt 3 Zu den §§ 4, 5 und 14 Absatz 3 des Gesetzes
 
@@ -16,11 +17,13 @@
 - [§ 4 Antrag auf Erlaubnis als Steuerlagerinhaber](0004.md)
 - [§ 5 Erteilung der Erlaubnis](0005.md)
 - [§ 6 Sicherheitsleistung](0006.md)
+- [§ 6a Überprüfung der Erlaubnis](0006a.md)
 - [§ 7 Änderung von Verhältnissen](0007.md)
 - [§ 8 Erlöschen und Fortbestand der Erlaubnis](0008.md)
 - [§ 9 Belegheft, Buchführung](0009.md)
 - [§ 10 Vollständige Zerstörung, unwiederbringlicher Verlust und Vernichtung](0010.md)
 - [§ 11 Bestandsaufnahme im Steuerlager](0011.md)
+- [§ 11a Amtliche Bescheinigung für unabhängige Hersteller](0011a.md)
 - [§ 12 Bierausschank im Steuerlager](0012.md)
 
 ## Abschnitt 4 Zu § 6 des Gesetzes
@@ -59,6 +62,7 @@
 ## Abschnitt 9 Zu den §§ 14 und 15 des Gesetzes
 
 - [§ 31 Steuererklärung, Steueranmeldung](0031.md)
+- [§ 31a Herstellung von Bier außerhalb eines Steuerlagers](0031a.md)
 
 ## Abschnitt 10 Zu § 156 Absatz 1 der Abgabenordnung
 
@@ -97,7 +101,7 @@
 
 ## Abschnitt 17 Zu § 24 des Gesetzes
 
-- [§ 42 Rückbier](0042.md)
+- [§ 42 Steuerentlastung im Steuergebiet](0042.md)
 
 ## Abschnitt 18 Zu § 25 des Gesetzes
 
