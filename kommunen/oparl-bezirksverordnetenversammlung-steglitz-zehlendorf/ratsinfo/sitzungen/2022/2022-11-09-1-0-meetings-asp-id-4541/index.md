@@ -1,0 +1,96 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2022-11-09T17:00:00+01:00
+- Ende: 2022-11-09T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4541
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4541
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Folgekosten nach Umbenennung von Straßennamen im Bezirk - beantwortet
+- TOP 3.2: Wann kommt die Aktualisierung des Schulentwicklungsplanes? - beantwortet
+- TOP 3.3: Warum geistert’s noch im Geisterhaus? - beantwortet
+- TOP 3.4: Situation im Standesamt Steglitz-Zehlendorf - beantwortet
+- TOP 3.5: Unbegleitete Jugendliche in elterliche Obhut überführen? - schriftlich beantwortet
+- TOP 3.6: Einwendungen zum B-Plan 6-30 Lichterfelde-Süd - vertagt
+- TOP 3.7: Maßnahmen für ein Angebot an Wärmestuben in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 3.8: Verwendung Stellen aus AG Ressourcensteuerung im Kulturamt - schriftlich beantwortet
+- TOP 3.9: Prävention von Wohnungslosigkeit - schriftlich beantwortet
+- TOP 3.10: Langanhaltender Wohnungsleerstand in der Köhlerstraße in Lichterfelde-West - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Ergänzungsplan Steglitz-Zehlendorf für das Haushaltsjahr 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Bebauungsplan 6-24 (Fischerhüttenstraße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Gedenktafel für Dr. Hugo Köster – Erster Bürgermeister des Bezirks Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Ein Livestream für die BVV – mit Priorität und ohne Zeitverzug umsetzen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Seniorengerechte Parkbänke - in der BVV abgelehnt
+- TOP 4.10: Regenwasserkonzept - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Zivilschutz prüfen und stärken - in der BVV abgelehnt
+- TOP 4.12: Neue Realitäten anerkennen - Digitale Sitzungen der BVV durch Änderung des Bezirksverwaltungsgesetzes ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Kinder- und Jugendparlament initiieren! - in der BVV abgelehnt
+- TOP 4.14: Beteiligung von Kindern und Jugendlichen in Steglitz-Zehlendorf stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Übersicht aller Sportmöglichkeiten im Bezirk online - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Hitzehilfe für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Eine kind- und jugendgerechte Präsentation des JHA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Einfahrt der Feuerwehr und anderer Rettungskräfte in die Marschnerstraße sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Lichterfelde-Süd – den Kindern gute Bedingungen! - im Ausschuss abgelehnt
+- TOP 4.20: Klare Kennzeichnung des Fahrradwegs am Alfred-Grenander-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Blinde und Sehbehinderte nicht vergessen – Blindenleitsysteme in öffentlichen Gebäuden umsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Gebärdendolmetscher für das Bürgeramt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Handeln anregen: Regenwassermanagement im privaten Bereich voranbringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Königsberger Straße: Zeiten für Busspur ausweiten – insbesondere auch für die Sicherheit und den Komfort von Radfahrer*innen - in der BVV abgelehnt
+- TOP 4.25: Straßenumbenennungen nur bei Rechtssicherheit - in der BVV abgelehnt
+- TOP 4.26: LZA 24/7 an der Osdorfer Straße, Höhe Hildburghauser Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Sicherheit für Fußgänger in der Klingsorstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Ladesäulen für die Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Bestands-Steganlagen im Bezirk für den Wassersport sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Schulwegsicherheit in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Beschluss endlich umsetzen - Gedenkstele für den Theater- und Kinopionier Karl Wolffsohn - überwiesen
+- TOP 5.2: Einrichtung einer Koordinierungsstelle gegen Kinderarmut - überwiesen
+- TOP 5.3: Massiven Wohnungsleerstand in Steglitz-Zehlendorf transparent erfassen und konsequent ahnden - überwiesen
+- TOP 5.4: „Gute Architektur ist dazu da, um genossen zu werden": Die BVV Steglitz-Zehlendorf korrigiert ihre Abrissentscheidung bezüglich des Mäusebunkers - überwiesen
+- TOP 5.5: Gartenarbeitsschule sichern! - überwiesen
+- TOP 5.6: Gefährliche Fahrspurverschwenkung Clayallee - überwiesen
+- TOP 5.7: Sitzbänke im Buschgrabenrundweg - überwiesen
+- TOP 5.8: Halteverbot Clayallee im Bereich der unzulässigen Busspur - überwiesen
+- TOP 5.9: Projekt SimRa - Sicherheit im Radverkehr fördern - überwiesen
+- TOP 5.10: Zielvereinbarung zur gesamtstädtischen Steuerung zur Stabilisierung des Bestandes von Bäumen in den Grünanlagen - überwiesen
+- TOP 5.11: Den Wochenmarkt auf dem Ludwig-Beck-Platz wiederbeleben - gesellig, regional und ökologisch einkaufen - überwiesen
+- TOP 5.12: Schrägparken in der Poschingerstraße - überwiesen
+- TOP 5.13: Ein queeres Jugendzentrum für den Süd-Westen Berlins und starke queere Jugendarbeit für Steglitz-Zehlendorf - überwiesen
+- TOP 5.14: Verlängerung der Wirksamkeit der Geschäftsordnung der BVV - überwiesen
+- TOP 5.15: Quarantänestationen für wohnungslose Menschen - überwiesen
+- TOP 5.16: Behindertenparkplätze in Lichterfelde-West ohne zeitliche Begrenzung - überwiesen
+- TOP 5.17: Sicherung der Kleingartenanlagen der Kleingartenvereinsgruppe Berlin-Steglitz-Ost e.V. - überwiesen
+- TOP 5.18: Denkmalgerechte Pflanzung und Verkehrssicherheit in Einklang bringen - überwiesen
+- TOP 5.19: Digitaler Erinnerungsort Steglitz-Zehlendorf - überwiesen
+- TOP 5.20: Wohnungslosigkeit frühzeitig verhindern - überwiesen
+- TOP 5.21: Bildungseinrichtung im Boulevard Berlin - überwiesen
+- TOP 5.22: Geschäftsordnung der BVV Steglitz-Zehlendorf - überwiesen
+- TOP 6: Dringlichkeiten - vertagt
+- TOP 6.1: Dringende Große Anfragen - (offen)
+- TOP 6.1.1: Bauliche Mängel im Rathaus Zehlendorf - vertagt
+- TOP 6.1.2: Baulicher Zustand des Rathauses Zehlendorf - vertagt
+- TOP 6.1.3: Offener Brief des Personalrats – Missstände im Rathaus Zehlendorf beseitigen - vertagt
+- TOP 7: Große Anfragen - vertagt
+- TOP 7.1: Seniorenbefragung ohne Ergebnis? - vertagt
+- TOP 7.2: Auswirkungen einer möglichen erneuten FFP2-Maskenpflicht auf Arbeitsorganisation und Personalstand - vertagt
+- TOP 8: Anträge - vertagt
+- TOP 8.1: Resolution: Für ein solidarisches Steglitz-Zehlendorf – Gegen vorsätzliche Gefährdung von Menschenleben - vertagt
+- TOP 9: Beschlussempfehlungen von Ausschüssen - vertagt
+- TOP 9.1: Beteiligung auf den Weg bringen – beschlossenen Einwohnerantrag umsetzen - vertagt
+- TOP 9.2: Gleichbehandlung – auch auf City-Toiletten! - vertagt
+- TOP 9.3: Neubaugebiet Lichterfelde-Süd – Platz für eine zweite Gemeinschaftsschule - vertagt
+- TOP 9.4: Transparente Informationen zur Schwangerschaftskonfliktberatung und Schwangerschaftsabbruch erstellen und veröffentlichen - vertagt
