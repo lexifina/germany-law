@@ -23,6 +23,7 @@
 - [§ 9 Belegheft, Buchführung](0009.md)
 - [§ 10 Vollständige Zerstörung, unwiederbringlicher Verlust und Vernichtung](0010.md)
 - [§ 11 Bestandsaufnahme im Steuerlager](0011.md)
+- [§ 11a Amtliche Bescheinigung für unabhängige Hersteller](0011a.md)
 
 ## Abschnitt 4 Zu § 6 des Gesetzes
 
@@ -118,6 +119,7 @@
 ## Abschnitt 21 Zu den §§ 29 und 31 des Gesetzes
 
 - [§ 43 Zwischenerzeugnisse](0043.md)
+- [§ 43a Amtliche Bescheinigung für unabhängige Hersteller](0043a.md)
 - [§ 44 Beförderungen zu privaten Zwecken](0044.md)
 - [§ 45 Herstellung von Zwischenerzeugnissen außerhalb eines Steuerlagers](0045.md)
 
@@ -125,6 +127,7 @@
 
 - [§ 46 Steuerlagerinhaber](0046.md)
 - [§ 47 Belegheft, Buchführung](0047.md)
+- [§ 47a Amtliche Bescheinigung für unabhängige Hersteller](0047a.md)
 - [§ 48 Registrierter Empfänger](0048.md)
 - [§ 49 Registrierter Versender](0049.md)
 - [§ 50 Verfahren für die Beförderung von Wein in andere, aus anderen und über andere Mitgliedstaaten](0050.md)

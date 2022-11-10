@@ -19,6 +19,7 @@
 - [§ 13 Fehlmengen im Steuerlager](0013.md)
 - [§ 14 Zwangsanfall](0014.md)
 - [§ 15 Aufnahme von Abfindungsalkohol](0015.md)
+- [§ 15a Amtliche Bescheinigung für unabhängige Hersteller](0015a.md)
 - [§ 16 Registrierter Empfänger](0016.md)
 - [§ 17 Registrierter Versender](0017.md)
 - [§ 18 Begünstigte, Ausstellen der Freistellungsbescheinigung](0018.md)
