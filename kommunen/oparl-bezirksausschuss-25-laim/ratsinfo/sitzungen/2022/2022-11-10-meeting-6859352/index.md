@@ -1,0 +1,96 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6859352
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6859352
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A): FTTH (Glasfaser bis zum Kunden) Ausbau Telekom
+- TOP B): Vorstellung Münchner Zero-Waste-Programm
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Gebäude Reutterstr. 33
+- TOP 1.2.2.: Hitzeschutz: Hitzeinseln auf der Fürstenrieder Straße Ecke Landsberger Straße und Agnes-Bernauer-Straße
+- TOP 1.2.3.: Siedlung Neufriedenheim
+- TOP 1.2.4.: Dank für Reinigung Briefkasten
+- TOP 1.2.5.: Vermüllung Laim und mangelhafte Beleuchtung Maxstadtstraße
+- TOP 1.2.6.: Abfalleimer in der Veit-Stoss-Straße und Fürstenrieder/Landsberger Straße
+- TOP 2: Anträge
+- TOP 2.1.: Sitzbänke Am Laimer Anger sowie am angrenzenden Spielplatz überholen und ggf. reparieren
+- TOP 2.2.: Barrierefreiheit gewährleisten - gekennzeichnete Abstellflächen für E-Tretroller und Sensibilisierung der Bevölkerung durch eine Kampagne
+- TOP 2.3.: Weißen Begrenzungsstreifen zwischen Rad- und Gehweg erneuern und neu aufbringen
+- TOP 2.4.: Antrag auf Genehmigung der zu erwartenden Kosten für 2 Adventskonzerte jeweils mit Nikolausbesuch
+- TOP 2.5.: Antrag auf Genehmigung der zu erwartenden Kosten für die Internale 2023
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Topolinos e.V. Verabschiedung der langjährigen Leitung am 15.10.2022 1.190,00€; Az. 0262.0-25-0275
+- TOP 3.2.: (E) Stadtbezirksbudget Bürgertreff Laim e.V. Sommerfest auf dem Laimer Anger im Juli/August 2023 39.000,00 Euro, Az.: 0262.0-25-0277
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Referat für Bildung und Sport vom 06.10.22: Kita-Bauprogramm 2022
+- TOP 4.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.10.22: Planfeststellungsverfahren Tram-Westtangente Tektur A
+- TOP 4.4.: Schreiben Direktorium vom 21.10.22: Zuwendung aus dem Stadtbezirksbudget Zuwendung an den Elternbeirat der GS an der Droste-Hülshoff-Str. 9 Maßnahme: "Unser Schulhof soll schöner werden"; Umwandlung in eine städtische Leistung
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Gatterburgstr. 8 Neubau eines Doppelhauses und einer Garage Haus 1
+- TOP 5.2.: Gatterburgstr. 8 Neubau eines Doppelhauses, eines Carports und einer Garage Haus 2
+- TOP 5.3.: Inderstorferstr. 36 Zusammenlegung von sechs Apartments zu zwei Wohnungen im Dachgeschoss sowie Errichtung von 16 Balkonen in einem Mehrfamilienhaus
+- TOP 5.4.: Stadtlohner Str. 5 Dachgeschossausbau mit Ausbau eines Dachspitzes (1 WE)
+- TOP 5.5.: Aindorferstr. 173 Neubau einer Doppelhaushälfte mit Garage
+- TOP 5.6.: Geyerspergerstr. 58 Neubau eines Wohnhauses (10 WE) mit Tiefgarage
+- TOP 6: Sonstiges
+- TOP 6.1.: BA-Sitzungstermine 2023
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 06.10.22
+- TOP 7.2.: Protokoll UA Mobilität vom 05.10.22
+- TOP 7.3.: Protokoll UA Kultur vom 15.09.22
+- TOP 7.4.: Protokoll UA Kultur vom 10.10.22
+- TOP 8: Umlauf
+- TOP 8.1.: Ratsinformationssystem (RIS) - "Papierlose Bezirksausschussarbeit" Einführung "RIS-Internet/ -Extranet" für alle Bezirksausschussmitglieder Information zur Kooperationsplattform "Alfresco" (IT-Referat, 20.09.22)
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 06.10.22: Christbaumverkauf in Grünanlage am Laimer Anger vom 23.11.-24.12.22 Hier: Eilentscheidung
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.10.22: Fällantrag Josef-Schick-Str. 37
+- TOP 8.4.: Bautenliste 12.09.-18.09.22: A) Erstantragsverfahren 1. Stadtlohnerstr 5 2. Gatterburgstr. 8 3.Aindorferstr. 173
+- TOP 8.5.: Bautenliste 19.09.-25.09.22: A) Erstantragsverfahren 1. Hönlestr. 36 2. Inderstorferstr. 36 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Eringerstr. 19
+- TOP 8.6.: Bautenliste 26.09.-02.10.22: A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Landsberger Str. 222
+- TOP 8.7.: Bautenliste 10.10.-16.10.22: A) Erstantragsverfahren 1.Geyerspergerstr. 58
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.09.22: Fällantrag Westendstr. 210
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.09.22: Fällantrag Camerloherstr. 187
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.09.22: Fällantrag Camerloherstr. 70
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.09.22: Fällantrag Berchemstr. 15
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.10.22: Fällantrag Camerloherstr. 171
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.10.22: Fällantrag Camerloherstr. 24-30
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.10.22: Stadtentwicklungsplan STEP 2040 - Beteiligung der Bezirksausschüsse
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.10.22: Denkmalschutz für Wohnblöcke an der Agnes-Bernauer-Straße
+- TOP 8.16.: Schreiben SWM vom 23.09.22_ Baumaßnahmen Fernwärmeprojekt Fürstenrieder Straße
+- TOP 8.17.: Schreiben Stadtwerke vom 10.10.22: Baumaßnahmen
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 30.09.22: U5 Gotthardstraße Antrag auf VAO Phase 150
+- TOP 8.19.: Schreiben Mobilitätsreferat vom 12.10.22: Änderung des Zeitzusatzes an der westlichen Schulbushaltestelle in der Droste-Hülshoff-Straße
+- TOP 8.20.: Schreiben Sozialreferat vom 11.10.22: Antrag auf Zweckentfremdung von Wohnraum, Gatterburgstr.
+- TOP 8.21.: Schreiben AKIM vom 19.10.22: Neue AKIM-ansprechpartnerin
+- TOP 8.22.: Schreiben Referat für Arbeit und Wirtschaft vom 06.10.22: Reinigung des Briefkastens Ecke Fürstenrieder Str./Aindorferstr.
+- TOP 8.23.: Schreiben Deutsche Bahn Netz AG vom 11.10.22: Protokolle Gesprächsforum 2. Stammstrecke "Oberirdisch West"
+- TOP 8.24.: Schreiben Christbaum-Import Wolf vom 02.10.22: Christbaumverkauf 2022
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.22: (U) Tiny Houses temporär ermöglichen Antrag Nr. 20-26 / A 00598 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt - Fraktion vom 29.10.2020, eingegangen am 30.10.2020 Kleinstgrundstücke für Tiny Houses und Mikro-Living nutzen Antrag Nr. 20-26 / A 01460 von der Stadtratsfraktion DIE LINKE. / Die PARTEI vom 18.05.2021, eingegangen am 19.05.2021
+- TOP 8.26.: Hinweis/Ergänzung zur Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.09.22: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 8.27.: Hinweis/Ergänzung zur Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.09.22: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.22: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.22: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.30.: Lärm durch Spielhalle (Weiterleitung an PI und KVR)
+- TOP 9.31.: Gehwegparken Thurneyssenstraße (Weiterleitung Mor und PI)
+- TOP 9.32.: SV Laim beansprucht Bolzplatz (Bürgerinfo)
+- TOP 9.33.: Parken in Viertel (Weiterleitung Mor und PI)
+- TOP 9.34.: Verkehrszeichen Rushaimerstr. 16 - Dreyerstr. 9 entfernen (Weiterleitung Mor)
+- TOP 9.35.: Erneuerung Fahrbahndecke Agricolastraße Bereich Agnes-Bernauer-Str./Valpichlerstr. (Weiterleitung Bau)
+- TOP 9.36.: Anwesen Camerloherstr. (Weiterleitung KVR und Bau)
+- TOP 9.37.: Alte Villa in Laim Neuburgerstraße (Weiterleitung Soz)
+- TOP 9.38.: E-Scooter und Radfahrer auf dem Gehweg (Weiterleitung Mor)
+- TOP 9.39.: E-Roller im Viertel (Weiterleitung Mor)
+- TOP 9.40.: Geschwindigkeitsübertretungen (Weiterleitung Mor)
+- TOP 9.41.: Geschwindigkeitsüberwachung (Weiterleitung Mor)
+- TOP 9.42.: Parken auf dem Gehsteig (Weiterleitung Mor und PI)
+- TOP 1.2: Bürgerpost an den BA
