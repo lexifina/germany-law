@@ -1,0 +1,99 @@
+# 21. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-10T14:36:00+01:00
+- Ende: 2022-11-10T18:44:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25059
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25059
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke., FDP, Volt und von RM Gabrysch (KLIMA FREUNDE) und RM Zimmermann (GUT Köln) betreffend "Aktuelle Stunde: Solidarisch in der Energiekrise" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke. Volt und RM Zimmermann (GUT Köln) betreffend "Stationäre Pflege in Köln zukunftssicher aufstellen" - ungeändert beschlossen
+- TOP 3.1.2: Antrag der FDP-Fraktion betreffend "Kölner Klima Bond" - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion - zurückgestellt
+- TOP 3.1.3: Antrag der AfD-Fraktion betreffend "Livestream attraktiver gestalten – Hörversion einrichten" - Sache ist erledigt
+- TOP 3.1.4: Antrag der Fraktion Die FRAKTION betreffend "Entzug des Koordinationsauftrag urbane Seilbahnen" - endgültig abgelehnt
+- TOP 3.1.5: Antrag der SPD-Fraktion betreffend "Energiekosten reduzieren – Klimaschutz voranbringen: Photovoltaikanlagen für von kulturellen, sozialen und Sportvereinen sowie Trägern genutzten Gebäuden" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD und Volt - ungeändert beschlossen
+- TOP 3.1.6: Antrag der Fraktion Die Linke. und von RM Gabrysch (KLIMA FREUNDE) betreffend "Nicht der Erhalt von Gebäudestrukturen ist erklärungsbedürftig, sondern ihr Abriss. Rat unterstützt das "Abriss-Moratorium"" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.7: Antrag der Fraktion Die FRAKTION betreffend "Kölschpreisbremse jetzt!" - endgültig abgelehnt
+- TOP 3.1.8: Antrag von RM Zimmermann (GUT Köln) betreffend "Ein Heinzel am Wörthersee" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag von RM Zimmermann (GUT Köln) - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.1.1: Benennung des Platzes vor dem Schauspielhaus ("kleiner Offenbachplatz") - zurückgestellt
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Th - ungeändert beschlossen
+- TOP 6.1.2: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Eb - ungeändert beschlossen
+- TOP 6.1.3: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen - ungeändert beschlossen
+- TOP 6.1.4: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln – Altstadt /Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen hier: Ha - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2023 - ungeändert beschlossen
+- TOP 6.2.2: 3. Satzung zur Änderung der Satzung zur Besteuerung des Spielvergnügens an Geldspielgeräten im Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 6.2.3: 7. Satzung zur Änderung der Zweitwohnungssteuer der Stadt Köln - ungeändert beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 6.4.1: Neufassung der Rechnungsprüfungsordnung der Stadt Köln (RPO) sowie Neufassung der Dienstanweisung für das Rechnungsprüfungsamt der Stadt Köln (DA RPA) - zurückgestellt
+- TOP 6.4.2: Gestaltungsbeirat der Stadt Köln; Anpassung der Geschäftsordnung des Gestaltungsbeirates - geändert beschlossen
+- TOP 7: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 7.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 KomHVO
+- TOP 7.2.1: Generalsanierung der Sportanlage Zaunhofstraße in Köln-Meschenich - Kenntnis genommen
+- TOP 7.2.2: Belastungen des städtischen Haushaltes im Zusammenhang mit Maßnahmen zur Aufnahme und Unterbringung von anlässlich des Krieges in der Ukraine eingereisten Personen - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Parkgebührenregelung an E-Ladesäulen - ungeändert beschlossen
+- TOP 10.2: Europäische Charta der Gleichstellung von Frauen und Männern auf lokaler Ebene - ungeändert beschlossen
+- TOP 10.3: Verlängerung des Projektes "Guter Lebensabend NRW" - ungeändert beschlossen
+- TOP 10.4: Familie-Ernst-Wendt-Stiftung - Wirtschaftsplan 2023 - ungeändert beschlossen
+- TOP 10.5: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Wirtschaftsplan 2023 - ungeändert beschlossen
+- TOP 10.6: Häfen und Güterverkehr Köln AG hier: Änderung von Gesellschaftsverträgen der CTS und DCH - ungeändert beschlossen
+- TOP 10.7: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2020 - Beteiligungsbericht 2020 - ungeändert beschlossen
+- TOP 10.8: Bedarfsfeststellungs- und Planungsbeschluss zur Neugestaltung des Gürtels einschließlich barrierefreiem Ausbau von 10 Stadtbahnhaltestellen der Linie 13 zwischen Venloer Straße/Gürtel und Berrenrather Straße/Gürtel - geändert beschlossen
+- TOP 10.9: Weitere Bestellung zum Betriebsleiter bei den Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.10: Vergabe der Konzeptionsförderung in der Sparte Theater, Haushaltsjahre 2023-2026 - ungeändert beschlossen
+- TOP 10.11: Kinderoper Köln – Verlängerung der Förderung durch das Programm „Neue Wege" - ungeändert beschlossen
+- TOP 10.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.13: Brandschutzbedarfsplan der Stadt Köln 2022 - 2027 - zurückgestellt
+- TOP 10.14: Benennung des Platzes vor dem Schauspielhaus ("kleiner Offenbachplatz")
+- TOP 10.15: Ergänzung des bestehenden Kooperationsvertrages zwischen der Gebäudewirtschaft der Stadt Köln und der Technischen Hochschule Köln (zu 3069/2015 und 1466/2019) - ungeändert beschlossen
+- TOP 10.16: Schulrechtliche Errichtung einer Gesamtschule am Standort Helene-Weber-Platz im Stadtteil Neubrück zum Schuljahr 2023/24 bei gleichzeitiger auslaufender Schließung der Kurt-Tucholsky-Schule - geändert beschlossen
+- TOP 10.17: Planungsbeschluss für die Generalsanierung der Sportanlage Rochusstraße, Platz 1 in Köln-Ossendorf - ungeändert beschlossen
+- TOP 10.18: Abbruch des Schulgebäudes der Gemeinschaftsgrundschule Antwerpener Straße 19-29, Köln-Neustadt/-Nord - ungeändert beschlossen
+- TOP 10.19: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Einrichtung eines Mikrodepots in Köln Deutz - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt - ungeändert beschlossen
+- TOP 10.20: Errichtung eines Neubautraktes, Generalinstandsetzung und Neubau von sechs Sporthalleneinheiten für das Gymnasium Kreuzgasse, Vogelsanger Str. 1, 50672 Köln durch Totalunternehmen - Erweiterter Planungsbeschluss und Baubeschluss - geändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 15: Weitere bauleitplanungsrechtliche Angelegenheiten
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 16.1: 282. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 16.2: 283. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 17: Gremienbesetzungen
+- TOP 17.1: Nachbesetzung Sachkundiger Einwohner*innen und Stellvertretungen auf Empfehlung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - ungeändert beschlossen
+- TOP 17.2: Bestellung der Vertretung der Stadt Köln zur Entsendung in die Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister (KDN) - ungeändert beschlossen
+- TOP 17.3: Wahl der Mitglieder für den Beirat der Justizvollzugsanstalt Köln - geändert beschlossen
+- TOP 17.4: Antrag der Fraktion Die FRAKTION betreffend "Umbenennung eines sachkundigen Einwohners" - ungeändert beschlossen
+- TOP 17.5: Antrag der Fraktion Die Linke. betreffend "Umbesetzung in städtischen Gremien" - ungeändert beschlossen
+- TOP 17.6: Antrag der AfD-Fraktion betreffend "Ausschussumbesetzungen" - ungeändert beschlossen
+- TOP 17.7: Antrag der CDU-Fraktion betreffend "Gremienbesetzung" - ungeändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 19: -
