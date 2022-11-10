@@ -1,0 +1,7 @@
+# TOP 6: Förderung von Angeboten der Träger der öffentlichen und freien Kinder- und Jugendhilfe im Rahmen des Aktionsprogramms 'Aufholen nach Corona für Kinder und Jugendliche' - Bericht zur Verwendung der Fördermittel
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2022-11-10)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2022-JHA-93%7Czt_1%7C1
+- Beschluss (Datei): Beschluss - Top 6 https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2022-JHA-93%7Czt_1%7C1
