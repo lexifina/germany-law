@@ -1,0 +1,6 @@
+# TOP 4: Sachstand Umrüstung Straßenbeleuchtung auf LED, mündliche Information
+
+- Sitzung: Sitzung des Bau- und Umweltausschusses (2022-11-10)
+- Körperschaft: Stadt Kitzingen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/agendaitems/30753
