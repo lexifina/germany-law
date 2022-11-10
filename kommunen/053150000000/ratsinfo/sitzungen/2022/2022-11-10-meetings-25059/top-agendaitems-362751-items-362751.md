@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD und Volt
+
+- Sitzung: 21. Sitzung des Rates (2022-11-10)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/362751
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/168633
