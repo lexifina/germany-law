@@ -1,0 +1,70 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-11-11T16:00:00+01:00
+- Ende: 2022-11-11T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5968
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5968
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 11.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00174472.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 11.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00174472.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 11.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00174472.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Integrationsausschuss
+- TOP 5: Änderung der Satzung zur Unterhaltung und Benutzung von Übergangsheimen für die Unterbringung von Aussiedlern und Geflüchteten - einstimmig zugestimmt
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 6: Feststellung des Jahresabschlusses 2021 der Liegenschaften und Vermessung Neuss (LVN) und Gewinnverwendungsbeschluss 2021 sowie Beschluss über die Entlastung der Betriebsleitung - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 7: Richtlinien zur Vergabe von Investitionsmitteln zur Schaffung von Plätzen für Kinder bis sechs Jahren in der Stadt Neuss - einstimmig zugestimmt
+- TOP 8: Spielraumplanung: Ausbauplanung Kinderspielplatzprogramm 2022/23 - einstimmig zugestimmt
+- TOP 9: Spielraumplanung: Ausbauplanung des Heimatspielplatzes an der Kölner Straße - einstimmig zugestimmt
+- TOP 10: Satzung zur Regelung der Förderung in Kindertagespflege und Erhebung von Elternbeiträgen in der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 11: 12. Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 12: Bebauungsplan Nr. 109/7 - Vogelsang, Römerstraße/ Am Haus Vogelsang - - einstimmig zugestimmt
+- TOP 13: Errichtung von weiteren Mobilstationen im Neusser Stadtgebiet - einstimmig zugestimmt
+- TOP 14: Beschluss über vorgezogene Maßnahmen des Mobilitätsentwicklungskonzeptes - mehrheitlich zugestimmt
+- TOP 15: Umbau der Further Straße zwischen Wolberostraße und Bahnhofsunterführung sowie die Schaffung einer durchgängigen Gehwegverbindung entlang der Wolberostraße zwischen Adolfstraße und Further Straße im Zuge der Quartiersentwicklung für das ehemalige Bau - einstimmig zugestimmt
+- TOP 16: Einführung von On-Demand-Verkehren im Neusser Stadtgebiet - einstimmig zugestimmt
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 17: Zum Zörr: Grundhafte Erneuerung der Stichstraße - einstimmig zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 18: Hammer Landstraße zwischen Derendorfweg und Schanzenstraße: Herstellung des Boulevards - einstimmig zugestimmt
+- TOP 19: Eselspfad, Bushaltestellenpaar "Neuer Friedhof": Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 20: Selikumer Weg: Bau einer Wendeanlage - einstimmig zugestimmt
+- TOP -: Bezirksausschuss III - Selikum, Reuschenberg, Weckhoven, Hoisten
+- TOP 21: Hochstadenstraße, Knotenpunkt Helpensteiner Kirchweg, Hoistener Schulweg: Umbau zur Erhöhung der Verkehrssicherheit - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 22: Gesamtabschluss-Entwurf 2020 - einstimmig zugestimmt
+- TOP 23: Nachbesetzung des Vorsitzes des Klimabeirates - einstimmig zugestimmt
+- TOP 24: Anhörung stellv. Leiter der Feuerwehr Neuss - einstimmig zugestimmt
+- TOP 24.1: Kommissionsreise nach Herzliya vom 27.11. - 01.12.2022 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 25: Antrag der AfD-Fraktion betr.: Vorsorgemaßnahmen für den Fall einer längerfristigen Unterbrechung der Gas- und/oder Stromversorgung - mehrheitlich abgelehnt
+- TOP 26: Antrag der AfD-Fraktion betr.: Konzept zur Einrichtung eines ehrenamtlichen Sicherheits- und Ordnungsdienstes - mehrheitlich abgelehnt
+- TOP 27: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Verwendung von Flüsterasphalt in der Stadt Neuss - verwiesen
+- TOP 28: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Schutzschirm für die Wahrnehmung kommunaler Aufgaben durch Einrichtungen und Träger - einstimmig zugestimmt
+- TOP 29: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Mehr Raum für den Radverkehr - gerechtere Nutzung der Verkehrsflächen - verwiesen
+- TOP 30: Antrag der Fraktion Linke / Tierschutz betr.: Bewässerungskonzept für das Groov'sche Loch/Feuchtbiotop im Reuschenberger Busch - verwiesen
+- TOP 31: Antrag der Fraktion Linke / Tierschutz betr.: Preisgleitklauseln / Inflation - mehrheitlich zugestimmt
+- TOP 31.1: Dringlichkeitsantrag der Fraktion Die PARTEI / DIE LINKE betr.: Kaufhof-Insolvenz: Standort Neuss sichern! - einstimmig zugestimmt
+- TOP 31.1.1: Dringlichkeitsantrag der CDU-Fraktion betr.: In der Adventszeit: Der Wochenmarkt muss vor das Rathaus - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP 31.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 32: Bericht zur Hilfe für Geflüchtete in Neuss - zur Kenntnis genommen
+- TOP 33: Bericht zur Energiekrise - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
