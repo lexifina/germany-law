@@ -190,7 +190,7 @@
 | § 61a | Überprüfung von Beitragszuschüssen |
 | § 62 | Dateisysteme der landwirtschaftlichen Sozialversicherung |
 | § 63 | Auskünfte der Deutschen Post AG |
-| § 64 | (weggefallen) |
+| § 64 | Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner |
 | § 65 | Verordnungsermächtigung |
 |  |
 | Viertes Kapitel |

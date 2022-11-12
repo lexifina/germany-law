@@ -715,7 +715,7 @@ Knappschaft-Bahn-See](0273.md)
 
 - [§ 274 Dateisysteme bei der Datenstelle hinsichtlich der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971](0274.md)
 - [§ 274a Verarbeitung von Sozialdaten im Zusammenhang mit dem Anpassungsgeld nach § 57 des Kohleverstromungsbeendigungsgesetzes](0274a.md)
-- [§ 274b](0274b.md)
+- [§ 274b Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner](0274b.md)
 
 ##### Dritter Titel Übergangsvorschriften zur Zuständigkeit der Rentenversicherungsträger
 
