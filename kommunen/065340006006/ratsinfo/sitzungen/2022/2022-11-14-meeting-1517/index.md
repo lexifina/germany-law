@@ -1,0 +1,27 @@
+# Ausschuss für Klimaschutz, Infrastruktur, Mobilität und Naturschutz (12. Sitzung)
+
+- Körperschaft: Gemeinde Cölbe
+- Beginn: 2022-11-14T18:00:00+01:00
+- Ende: 2022-11-14T20:20:00+01:00
+- Ort: Gemeindehalle Cölbe, Friedhofstraße 4, 35091 Cölbe, kleiner Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Ratsinformationssystem: https://rim.ekom21.de/coelbe/tops/?__=UGhVM0hpd2NXNFdFcExjZZBPhO-J05oma-nLOZ3y2Lo
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1517
+- Quelle: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Klimaschutz, Infrastruktur, Mobilität und Naturschutz) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX-fUjSzIXSn8SGYxLegbELEmCo5FR7aENyaBSAJYKzw/Oeffentliche_Niederschrift_Ausschuss_fuer_Klimaschutz-_Infrastruktur-_Mobilitaet_und_Naturschutz_14.11.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Beschlussfähigkeit, der form- und fristgerechten Ladung und der Tagesordnung, Einwendungen gegen die Niederschrift über die letzte Sitzung vom 04.10.2022
+- TOP 2: Berichte aus Vereinen und Verbänden
+- TOP 3: 2. Änderung des Flächennutzungsplans und Aufstellung eines Bebauungsplans Nr. 4.4 „Vorhabenbezogener Bebauungsplan - Solaracker Reddehausen -„ Ortsteil Reddehausen Hier: - Abwägung aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB sowie der Behörden nach § 4 Abs. 2 BauGB - Beschlussfassung über den Städtebaulichen Vertrag – und Durchführungsvertrag für die Aufstellung des Bebauungsplans Nr. 4.4 „Vorhabenbezogener Bebauungsplan - Solaracker Reddehausen - Satzungsbeschluss gem. § 10 BauGB für den Bebauungsplan Nr. 4.4 „Vorhabenbezogener Bebauungsplan - Solaracker Reddehausen -„ sowie - Feststellungsbeschluss zur 2. Änderung des Flächennutzungsplanes für den Geltungsbereich des Bebauungsplans Nr. 4.4 „Vorhabenbezogener Bebauungsplan - Solaracker Reddehausen -„ - 5 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 4: Änderung des Flächennutzungsplans und Aufstellung eines Bebauungsplans Nr. 1.17 „Vorhabenbezogener Bebauungsplan -Unterm Bornrain 2-“ Ortsteil Cölbe - 6 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 5: Gefahrenabwehrverordnung Trinkwassernotstand - 6 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 6: Bürgerwald (Antrag der SPD-Fraktion) - 6 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7: Cölber Baulandsatzung (Antrag der SPD-Fraktion) - 6 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8: Naherholung und Kurzzeittourismus (Antrag der CDU-Fraktion) - 6 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 9: Aufstellung eines Entsiegelungsprogramms für die Gemeinde Cölbe als Beitrag zu einer naturnahen Ent- und Bewässerung (Antrag der SPD-Fraktion) - 6 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10: Wasserinfiltration baumbestandener Verkehrsinseln in der Gemeinde (Antrag der SPD-Fraktion) - 6 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11: Dachflächenwasser sammeln (Antrag der SPD-Fraktion) - 6 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
