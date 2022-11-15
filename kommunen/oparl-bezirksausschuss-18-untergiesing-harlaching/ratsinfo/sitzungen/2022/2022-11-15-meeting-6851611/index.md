@@ -1,0 +1,170 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2022-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6851611
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6851611
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.3.: Neubesetzung der Unterausschüsse durch die SPD-Fraktion
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 18 vom 01.01.2023 -31.12.2023 10.500,00€; Az. 0262.0-18-0313
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Familienkreis Hl. Familie e.V. musikalische Lesung für Kinder "Piraten oder Seeräuber sterben nie" am 29.10.2022 1.690,00 € / Az. 0262.0-18-0297
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Initiative Mehrzweckraum “Lesung und Musik, Gunnar von Graubhart Lesung, Alicia Oscity Musik am 25.11.2022“ 207,00 € / AZ: 0262.0-18-0314
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: Fitnessgeräte am Hohen Weg; Bürgeranliegen
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Weitere Optimierung der Toilettensituation am städtischen Stadion an der Grünwalder Straße; SPD-Antrag
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Beschädigung der Mosaiktafeln: Antwort des TSV München von 1860 e.V.
+- TOP 3.2.6.2.: Genehmigung der "Aktionstage Migration – All in Giesing" am 14.10.2022
+- TOP 3.2.6.3.: Genehmigung des "Straßentheaters PLAN H" am 16.10.2022 am Hans-Mielich-Platz
+- TOP 3.2.6.4.: Genehmigung des Fests zum Umlegen des Maibaums am 22.10.2022 am Hans-Mielich-Platz:
+- TOP 3.2.6.5.: Eilentscheidung des BA-Vorsitzenden: "Eine Million Sterne 2022" - Lichteraktion mit 500 Kerzen der Caritas International am 12.11.2022 am Hans-Mielich-Platz
+- TOP 3.2.6.6.: Eilentscheidung des BA-Vorsitzenden: St. Martinsfeier mit Prozession - Biene Maja Kindergarten und Waldorfkiga am 10.11.2022 auf der Grünfläche nördlich der Karolinger Allee
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 18 Untergiesing-Harlaching Widmung einer Teilstrecke der Salierstraße
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: St. Magnusstraße: Rückbau auf zwei Fahrspuren; Bürgeranliegen
+- TOP 3.3.3.2.: Autobahn-Südring: Anschluß der Autobahnen von Salzburg, Garmisch und Lindau; Bürgeranliegen
+- TOP 3.3.3.3.: Ausbesserung des Straßenbelages auf dem Fußweg Höhe Lohstraße 10/8/6; Bürgeranliegen
+- TOP 3.3.3.4.: Bodenmarkierungen des Parkplatzes beim Anwesen Mondstr. 16; Bürgeranliegen
+- TOP 3.3.3.5.: Parkplatzsituation am Tierpark; Bürgeranliegen
+- TOP 3.3.3.6.: Verkehrssituation für Notarzteinsätze am Tierpark; Bürgeranliegen
+- TOP 3.3.3.7.: Errichtung eines Gehweges auf der Westseite der Straße Birkenleiten (zwischen Ludmillastraße und Halbigstraße); Grünen-Antrag
+- TOP 3.3.3.8.: Gehwegparken an der Kreuzung Hans-Mielich-Straße/Konradinstraße und Hans-Mielich-Straße/Jamnistzerstraße verhindern – Gehwegnasen umbauen; Grünen-Antrag
+- TOP 3.3.3.9.: eMobile im Tierpark für Menschen mit Behinderungen und Senioren - Angebot erweitern; Grünen-Antrag
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Errichtung einer Wasserstofftankstelle im 18. Stadtbezirk Untergiesing-Harlaching
+- TOP 3.3.5.2.: Durchfahrtsverbot für Kraftfahrzeuge über 25t für Straßen mit Basaltsteinpflaster
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Landfriedstraße: Umwandlung von Parkplätzen zu Fahrradstellplätzen
+- TOP 3.3.6.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Rotbuchenstr. 42
+- TOP 3.3.6.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Stilfser-Joch-Str. 17
+- TOP 3.3.6.4.: Vollsperre zur Fahrbahnsanierung im Zeitraum 07.11.-02.12.2022 in der Reichenhaller Str. zwischen St.-Zeno-Weg und Schorerstraße
+- TOP 3.3.6.5.: Vollsperre der Naupliastraße wegen Bushaltestellenumbau am Mangfallplatz
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Verschiebung der Umweltzone; Bürgeranliegen
+- TOP 3.4.3.2.: Adäquates Versorgungsnetz mit "Hundetoiletten"; Bürgeranliegen
+- TOP 3.4.3.3.: Pflanzung zweier Traubeneichen; Bürgeranliegen
+- TOP 3.4.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Tauben-Problem im Stadtbezirk
+- TOP 3.4.5.2.: Nutzungsidee Vertical Gardening im Raum Wettersteinplatz
+- TOP 3.4.5.3.: Grünstreifen in Höhe Geiselgasteig Straße 22 erneuern und begrünen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Greifensteinstr. 3
+- TOP 3.4.6.2.: Baumfällung in der Weyarner Str. 47
+- TOP 3.4.6.3.: Baumfällung in der Meraner Str. 4
+- TOP 3.4.6.4.: Ausnahmegenehmigung für einen Corona-Testcontainer am Laurinplatz; Vollzug der Grünanlagensatzung
+- TOP 3.4.6.5.: Baumfällung in der Geiselgasteigstr. 17
+- TOP 3.4.6.6.: Baumfällung in der Eichthalstr. 7
+- TOP 3.4.6.7.: Baumfällung in der Aretinstr. 29
+- TOP 3.4.6.8.: Baumfällung am Kreuzdornweg 4
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Sitzbänke am Vollmarpark
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Verstetigung, Weiterentwicklung und Neukonzeption von „München – gesund vor Ort“ für Stadtteile mit besonderen gesundheitlichen Herausforderungen Beschluss über die Finanzierung ab 2023 (Eckdatenbeschluss Haushalt 2023 Nr. 39) Angebote der Prävention erweitern – Angebot für Menschen mit Behinderungen schaffen Antrag Nr. 20-26 / A 02922 von der Stadtratsfraktion DIE LINKE./Die Partei vom 15.07.2022, eingegangen am 15.07.2022 Sitzungsvorlage Nr. 20-26 / V 07247
+- TOP 3.5.6.2.: Protokoll der öffentlichen Sitzung des Mieterbeirats
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: Entscheidung über eine Sondernutzungserlaubnis (Freischankfläche): Gaststätte "Bei Ingrid"
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Bauvorhaben Theodolindenstr. 2a; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Winterstr. 3: Abbruch einer Garage (6 Stpl.) und Neubau eines Einfamilienhauses mit 1 Stellplatz - Vorbescheid
+- TOP 3.6.4.1.2.: Theodolindenstr. 2a: Neubau zweier Hausgruppen mit jeweils 3 durch eine doppelschalige Kommunwand getrennte Häuser mit 2 Carports auf jeweils 2 Tiefparker
+- TOP 3.6.4.1.3.: Karolingerallee 3: Neubau eines weiteren Wohngebäudes in zweiter Reihe - Vorbescheid
+- TOP 3.6.4.1.4.: Miesbacher Platz 11: Neubau eines Doppelreihenhauses - Vorbescheid
+- TOP 3.6.4.1.5.: Candidstr. 3: Dachgeschossausbau mit Aufstockung sowie Balkonanbau
+- TOP 3.6.4.1.6.: Harthauser Str. 62: Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 3.6.4.1.7.: Harthauser Str. 64: Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Kein Verkauf des städtischen Grundstücks an der Harthauser Straße 94
+- TOP 3.6.5.2.: Prüfung von Effekten der "Gentrifizierung" auf Bauvorhaben im Stadtbezirk 18
+- TOP 3.6.5.3.: Anschluss der Menterschwaige an das Fernwärmenetz
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 3.6.6.2.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 3.6.6.3.: Bauvorhaben Sommerstr. 47: Nachträgliche Fällungserlaubnis für einen Baum
+- TOP 3.6.6.4.: SWM-Baumaßnahme: Netztrafostation am Perlacher Forst gegenüber Autharistr. 56
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.4.1.: Anhörungen zu Baumfällungen: - Am Perlacher Forst - Anemonenstr. 18 - Birkenleiten 29 - Gabriel-Max-Str. 64 - Griechenstr. 22 - Grünwalder Str. 181 - Harthauser Str. 40a - Harthauser Str. 48 - Hermine-Bland-Str. 1 - Lindenstr. 13b - Lorenzonistr. 11 - Prößlstr. 30 - Tierparkstr. 30
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
