@@ -1,0 +1,72 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2022-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6875906
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6875906
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Verkehrssituation während des Oktoberfestes 2022 - Bericht der Pi14
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Betrieb der Freischankfläche Geroltstr. Ecke Gollierstr.; Parkmöglichkeiten
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Trappentreustraße 17
+- TOP 6.2.2.: Bauvorhaben Heimeranstraße 68
+- TOP 6.2.3.: Schulbauvorhaben Schrenkstraße 6-8 / Westendstraße 66a-70a
+- TOP 6.2.4.: Bauvorhaben Gollierstraße 15
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Neue AKIM-Ansprechpartnerin
+- TOP 7.3.2.: Protokoll Mieterbeirat vom 24.10.2022
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Einladung zur digitalen Abschlussveranstaltung "Sommerstraße 2022" am 28.11.2022; Meldung der Sommerstraßen 2023
+- TOP 8.2.2.: Weihnachtsmarkt am Bavariapark von 21.11.2022 bis 23.12.2022
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Projektvorstellung kulturelle Zwischennutzungen im Rahmen des Förderprogramms EU-React
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Verkehrssituation rund um die Westendstraße (Lidl-/ dm-Parkplatz etc.) und Ecke Trappentreustraße
+- TOP 9.3.2.: Parkraummanagement im Parklizenzgebiet Theresienhöhe; Errichtung einer Liefer-/Ladezone
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Pfadfinder Stamm St. Rupert Anschaffung eines Anhängers für Sommer- und Pfingstlager 16.06 - 16.07.22 4.684,37€; Az. 0262.0-8-0321
+- TOP 10.1.2.: (E) Stadtbezirksbudget Spielen in der Stadt e.V. Zirkus Pumpernudl und Luftschloss & Pappburg 2023 5.708,00 € / Az. 0262.0-8-0314
+- TOP 10.1.3.: (E) Stadtbezirksbudget WunderkammAA Art Apothecary -Zukunftsrezepte vom 16.11-28.11.2022 2.420,00 € / AZ.: 0262.0-8-0329
+- TOP 10.1.4.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 8 vom 01.01.2023 -31.12.2023 3.840,00€; Az. 0262.0-8-0330
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 10.1.5.: (E) Stadtbezirksbudget Green City e.V. “Erweiterung des Gemeinschaftsgarten MK2 vom 01.01.2023-31.12.2023“ 3.918,00 € / AZ: 0262.0-8-0331
+- TOP 2.2.: Nachbesetzung der Unterausschüsse Kultur und Integration sowie Bauen, Planen, Wohnungsbau und Gewerbe durch die Fraktion DIE LINKE & ÖDP
+- TOP 2.3.: Benennung einer / eines Inklusions- / Behindertenbeauftragten
+- TOP 8.2.3.: REGSAM - Beteiligung am Inklusions-Adventskalender
+- TOP 8.3.2.: Kunst- und Kulturtage 2023
+- TOP 12.3.1.: Informationskampagne 75 Jahre Bezirksausschüsse
+- TOP 6.3.3.: Plangenehmigungsbescheid Neubau E-Check-Halle
