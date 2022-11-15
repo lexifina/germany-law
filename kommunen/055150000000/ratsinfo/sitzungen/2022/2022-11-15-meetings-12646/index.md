@@ -1,0 +1,51 @@
+# 17. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-11-15T17:10:00+01:00
+- Ende: 2022-11-15T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/93
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12646
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12646
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00518281.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 der Gemeindeordnung Nordrhein-Westfalen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: Vorstellung des Quartiersmanagers Wohn- und Stadtbau - mdl. Bericht
+- TOP 3.2: Leitungsarbeiten Albersloher Weg - mdl. Bericht
+- TOP 3.3: aktuelle Informationen zum Gasometer - Vergabeverfahren - mdl. Bericht
+- TOP 3.4: Satzung gemäß § 34 BauGB - öffentliche Auslegung - zur Kenntnis genommen
+- TOP 4: Anhörungen
+- TOP 4.1: Grundschulentwicklung in Wolbeck – Anpassung von Ratsbeschlüssen an aktuelle Entwicklungen, - mehrheitlich geändert beschlossen
+- TOP 4.2: Aufstockung der vorhandenen Fertigbauklassen am Standort 2 der Idaschule zum Schuljahr 2024/2025 - Errichtungsbeschluss - einstimmig beschlossen
+- TOP 4.3: Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster zum 01.01.2023 aufgrund der gesetzlich verpflichtenden Einführung der Umsatzbesteuerung - einstimmig beschlossen
+- TOP 4.4: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 4.5: Erweiterung des Schulzentrums Wolbeck, Von-Holte-Straße 56, 48167 Münster - einstimmig beschlossen
+- TOP 4.6: 3-Gruppen Kindertageseinrichtung York - mehrheitlich beschlossen
+- TOP 4.7: Sanierung Vereinssporthalle York - von der Tagesordnung abgesetzt
+- TOP 4.8: Finanzierung und weiteres Vorgehen bei Projekten der sozialen Infrastuktur im YORK-Quartier - einstimmig beschlossen
+- TOP 4.9: Konzeptvergabe Gasometer - einstimmig beschlossen
+- TOP 4.10: Konzeptvergabe Gasometer | Besetzung Auswahlgremium - einstimmig beschlossen
+- TOP 5: Entscheidungen
+- TOP 5.1: Wiederwahl der Schiedsperson für den Bezirk13 Münster-Angelmodde - einstimmig beschlossen
+- TOP 5.2: Wolbeck Nord 5. BA (B-Plan 415) - Bushaltestellen Middelerstraße - Planungs- und Baubeschluss Straßenbau - - von der Tagesordnung abgesetzt
+- TOP 5.3: Wallstraße - Umgestaltung des Straßenraums im Zuge der Kanalsanierung - einstimmig beschlossen
+- TOP 6: Etatberatung
+- TOP 6.1: Entscheidung über die Aufteilung der frei verfügbaren Haushaltsmittel der Bezirksvertretung Münster-Südost
+- TOP 6.2: Anhörung gemäß § 37 Abs. 4 GO NRW zum Entwurf des Haushaltsplans 2023 sowie Ergebnis- und Finanzplans bis 2026
+- TOP 7: Fristgerecht eingegangene Anträge
+- TOP 7.1: Umleitungskonzept Albersloher Weg - eingebracht
+- TOP 8: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 8.1: Systematische Fragen zum Evakuierungsfall des Schulzentrums Wolbeck am 08.09.2022 - eingebracht
+- TOP 9: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 9.1: Fahrradstraße Alter Postweg - Stellungnahme zur Kenntnis genommen
+- TOP 9.2: Verlauf der Veloroute zugunsten des Baumbestandes ändern - Stellungnahme zur Kenntnis genommen
+- TOP 9.3: Ampelschaltung Gremmdendorfer Weg, Höhe Villa Kahmann - Stellungnahme zur Kenntnis genommen
+- TOP 10: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 11: Verschiedenes
