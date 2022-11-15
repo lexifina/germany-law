@@ -389,6 +389,7 @@ pharmazeutischen Unternehmern
 - [§ 130b Vereinbarungen zwischen dem Spitzenverband Bund der Krankenkassen und pharmazeutischen Unternehmern über Erstattungsbeträge für Arzneimittel, Verordnungsermächtigung](0130b.md)
 - [§ 130c Verträge von Krankenkassen mit pharmazeutischen Unternehmern](0130c.md)
 - [§ 130d Preise für Arzneimittel zur Therapie von Gerinnungsstörungen bei Hämophilie](0130d.md)
+- [§ 130e Kombinationsabschlag](0130e.md)
 - [§ 131 Rahmenverträge mit pharmazeutischen Unternehmern](0131.md)
 - [§ 131a Ersatzansprüche der Krankenkassen](0131a.md)
 
@@ -721,6 +722,7 @@ Gesundheitsfonds
 - [§ 271a Sicherstellung der Einnahmen des Gesundheitsfonds](0271a.md)
 - [§ 272 Sonderregelungen für den Gesundheitsfonds im Jahr 2021](0272.md)
 - [§ 272a Sonderregelung für den Gesundheitsfonds im Jahr 2022](0272a.md)
+- [§ 272b Sonderregelungen für den Gesundheitsfonds im Jahr 2023, Aussetzung des Zusatzbeitragssatzanhebungsverbots für das Jahr 2023](0272b.md)
 - [§ 273 Sicherung der Datengrundlagen für den Risikostrukturausgleich](0273.md)
 
 ### Fünfter Abschnitt Prüfung der Krankenkassen und
@@ -1023,4 +1025,5 @@ von Leistungsdaten, Datentransparenz
 - [§ 415 Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung](0415.md)
 - [§ 416 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0416.md)
 - [§ 417 Versicherung nach § 9 für Ausländerinnen und Ausländer mit Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes oder mit entsprechender Fiktionsbescheinigung](0417.md)
+- [§ 418 Übergangsregelung zum Antragsverfahren zur Ausnahme vom Preismoratorium](0418.md)
 - [Anlage (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung](anlage.md)
