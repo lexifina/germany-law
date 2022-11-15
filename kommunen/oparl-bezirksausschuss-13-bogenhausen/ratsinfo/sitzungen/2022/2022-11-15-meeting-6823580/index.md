@@ -1,0 +1,137 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2022-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6823580
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6823580
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 11.10.2022
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Städtebauliche Entwicklung Cosimapark - Vorstellung durch die Architekten -
+- TOP 2.2.2.: Rückfrage zur Stellungnahme des BA 13 zum STEP 2040; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.3.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 2.2.4.: Baumfällung zu Bauvorhaben: Allensteiner Str. 2 Dirschauer Str. 4 Effnerstr. 109_Haus 1 Effnerstr. 109_Haus 2 Effnerstr. 109_Haus 3 Effnerstr. 109_Haus 4 Felix-Dahn-Str. 9 (Frist 16.11.2022) Gustav-Freytag-Str. 4 Kulmer Str. 7 Marienburger Str. 47 (Frist 16.11.2022) Mauerkircherstr. 50 Oberföhringer Str. 21 (Frist 16.11.2022) Pienzenauerstr. 128 Rößeler Str Schneidemühler Str. 12 (Frist 16.11.2022) Schnorr-von-Carolsfeld-Str. 2 Traberstr. 4 Zamilastr. 9 (Frist 16.11.2022)
+- TOP 2.2.5.: Marienburger Str. 47 - Neubau von zwei Wohnhäuser (3 WE und 2 WE) mit Tiefgarage (Frist 16.11.2022)
+- TOP 2.2.6.: Traberstr. 4 - Neubau von vier Stadthäusern sowie vier Carports
+- TOP 2.2.7.: Schneidemühler Str. 12 - Neubau von einem Mehrfamilienhaus (5WE) sowie von einem Parklift (2Stpl.), zwei Carports und einem Stellplatz (Frist 16.11.2022)
+- TOP 2.2.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.9.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Aufstellung eines Testcontainers am Herkomerplatz; Anhörung des Mobilitätsreferats
+- TOP 2.3.2.: Einrichtung einer Schulbushaltestelle in der Ruth-Drexel-Straße für den Schülerverkehr zur Schwimm- und Sporthalle Ruth-Drexel-Straße 2; Anhörung des Mobilitätsreferats
+- TOP 2.3.3.: Mehr Sicherheit an der Fußgängerampel bei der Tramhaltestelle Regina-Ullmann-Straße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.4.: Nette Fahrgast-Toilette für die geplante Tram-Endstation Johanneskirchen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.5.: Anbringung eines Verkehrsergänzungsschild "Anlieger frei" in der Klosestraße kommend von der Weltenburger Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.6.: Ausreichend Platz für den Radverkehr rund um den Friedensengel; Anliegen aus der Bürgerschaft
+- TOP 2.3.7.: Gefährliche Verkehrssituation am Zebrastreifen in der Rennbahnstraße/Ecke Schichtlstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.8.: Errichtung einer Treppen in der Kolbergerstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.9.: PKW-Parken in der Maria-Theresia-Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.10.: 1. Parksituation in der Mauerkircherstraße/Grüntal 2. Übergang über die Johanneskirchnerstraße zur Spilerhofstraße Anliegen aus der Bürgerschaft
+- TOP 2.3.11.: Optimierung der Ampelschaltung Denninger Straße / Weltenburger Straße und Vollmannstraße Hier: längere Grünphase für die Denninger Straße; Antrag der CSU-Fraktion
+- TOP 2.3.12.: Huuezziplatz - Schneeräumung und Räumpflicht; Anliegen aus der Bürgerschaft
+- TOP 2.3.13.: Aufstellung von Hinweisschildern für vorsichtiges Radfahren im Odin-/Cosimapark; Anliegen aus der Bürgerschaft
+- TOP 2.3.14.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.15.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: Schachturnier auf der Insel am Englischen Garten - geplanter Budgetantrag - Vorstellung durch den Antragsteller -
+- TOP 2.4.2.: (E) Stadtbezirksbudget 13er Kultur Trägerverein e.V. Strukturelle Neuaufstellung des gesamten Vereins 2.800,00 € / Az. 0262.0-13-0322 - vertagt aus der Sitzung 08/22 -
+- TOP 2.4.3.: (E) Stadtbezirksbudget Naturkindergarten Bogenhausen e.V. Anschaffung neuer Sonnenschirme 13.034,94 € / Az. 0262.0-13-0344
+- TOP 2.4.4.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e.V. GMU-Adventsdult am 19.11.2022 1.282,50 € / Az. 0262.0-13-0343
+- TOP 2.4.5.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 13 vom 01.01.2023 -31.12.2023 7.980,00€; Az. 0262.0-13-0345
+- TOP 2.4.6.: Errichtung eines rollstuhlgeeigneten Karussells
+- TOP 2.4.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.9.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Planung zur Modernisierung der Bezirkssportanlage Fritz-Lutz-Str. 23 - Terminplanung -
+- TOP 2.5.2.: Grundschulversorgung im 13. Stadtbezirk endlich erweitern; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.5.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.4.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Baumfällungen: Böhmerwaldpl. 7 Bülowstr. 22 Elektrastr. 5 Emin-Pascha-Str. 14 Lentnerweg 16 Mauerkircherstr. 129 Pienzenauerstr. 97 Scheinerstr. 7 Silvanastr. 1 Taimerhofstr. 21 Wacholderweg 1
+- TOP 2.6.2.: Moderne, öffentliche Toiletten endlich auch in Bogenhauser Grünanlagen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.3.: Grünflächenplanung Prinz-Eugen-Park: Anlage eines Bewegungsparcours; Ergänzungsantrag aus der Bürgerschaft
+- TOP 2.6.4.: Vorschlag zur Energiegewinnung aus Biogasanlagen - Anliegen aus dem BA 15 zur Kenntnis für den BA 13 -
+- TOP 2.6.5.: Erweiterung des Spielplatzes in der Alten Ziegelei um Outdoor Workout bzw. Crosstraining-Station; Anliegen aus der Bürgerschaft
+- TOP 2.6.6.: Beschwerden bzgl. Abfallcontainer in Odinstraße; Anliegen aus der Bürgerschaft
+- TOP 2.6.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.8.: Verschiedenes, Termine
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.2.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Schulwegplanungen für das neue Wilhelm-Hausenstein-Gymnasium
+- TOP 6.2.: Englschalkinger Anger – ein richtiger Name für das Grüne Band
+- TOP 6.3.: Rappelhofstr. 4 - 8: Anbringung einer Lärmschutzmauer
+- TOP 6.4.: Sicherheitsgeländer vor der Grund- und Mittelschule an der Stuntzstraße
+- TOP 6.5.: Folgen der Umleitung des Baches nach Trudering im Rahmen des DB Projektes „Daglfinger Kurve“ für die Wasserführung des Hüllgrabens im SEM Gebiet
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Sachbericht Stadtteilfest Bogenhausen 2022
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Leistungsbilanz des Baureferats (Abteilung Tiefbau und Gartenbau)
+- TOP 7.2.2.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Rößeler Str. 16: Einrichtung absolutes Haltverbot (Südseite)
+- TOP 7.3.2.: Ruth-Drexel-Straße (Prinz-Eugen-Park) Wendehammer: Einrichtung eingeschränktes Haltverbot
+- TOP 7.3.3.: Einrichtung einer Busspur in der Einsteinstraße zwischen Töginger Straße und Vogelweidestraße
+- TOP 7.3.4.: Wesendonkstraße (Innenkurve): Einrichtung absolutes Haltverbot
+- TOP 7.3.5.: Jörg-Hube-Straße 97 (Nordseite) – vierte Ausweichstelle: Anordnung absolutes Haltverbot
+- TOP 7.4: Kommunalreferat
+- TOP 7.4.1.: Energetische Sanierung Wohnhaus Kattowitzer Str. 25 für Azubi-Wohnen - Eilentscheidung des BA-Vorsitzenden -
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unveränderte Fortführung einer Gaststätte - Ismaninger Str. 108, “Da Baffo“ - Fritz-Meyer-Weg 55, Dimo´s
+- TOP 7.5.2.: Vollzug des Bundesjagdgesetzes (BJagdG) und des Bayerischen Jagdgesetzes (BayJG) hier: BA-Antrag Nr. 20-26 / B 04016 des Bezirksauschusses des Stadtbezirkes 15 – Trudering- Riem vom 19.05.2022 - für den BA 13 zur Kenntnis -
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 7.7.2.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 7.7.3.: Baumfällungen (Unterrichtungen): Burgauerstr. 57a - 57b Ebersberger Str. 8 Effnerstr. 99-101 Englschalkinger Str. 158 Freischützstr. 98-100, Johanneskirchner Str. 132-138 Fritz-Meyer-Weg 23-25b Klausenburger Straße 2-6 Warthestr. 1-7
+- TOP 7.7.4.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 7.7.5.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 7.7.6.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 7.7.7.: "Zweibahniger Ausbau des Föhringer Rings" - Planänderungsbeschluss
+- TOP 7.7.8.: Erwiderungen der DB auf die gesamtstädtischen Stellungnahmen der LHM zur 2. Stammstrecke zum PFA 3 Ost bzw. zur 1. Tektur des PFA 3 Ost
+- TOP 7.7.9.: (U) Teilfortscheibung des Landesentwicklungsprogramms Bayern (LEP); Ergänzendes Beteiligungsverfahren; Stellungnahme der Landeshauptstadt München
+- TOP 7.7.10.: Plangenehmigungsverfahren "Neubau eines Schulungsgebäudes in München Steinhausen"; Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: Umzug Helen-Keller-Realschule in Interimsquartier Oettingenstr. 78 - Dienststellenverständigung
+- TOP 7.8.2.: Info-Blatt zur Bürgerversammlung des Referates für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Vollzug der Zweckentfremdungssatzung: - Marienburger Str. 47
+- TOP 7.9.2.: Leistungsbilanz des Sozialreferates mit den Einrichtungen zur sozialen Versorgung im Stadtbezirk
+- TOP 7.9.3.: (U) Planung und Neueröffnung von Containerunterkünften zur Unterbringung Geflüchteter aus der Ukraine 22. Stadtbezirk - Aubing-Lochhausen-Langwied 13. Stadtbezirk - Bogenhausen
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: "Fahrverbot für Dieselautos" Antwort des Referats für Klima- und Umweltschutz auf ein Bürgeranliegen
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.4.7.: (E) Stadtbezirksbudget THW Förderverein München-Ost e.V. Beschaffung eines Lichtmastanhängers 17.500,00 € / Az. 0262.0-13-0346
