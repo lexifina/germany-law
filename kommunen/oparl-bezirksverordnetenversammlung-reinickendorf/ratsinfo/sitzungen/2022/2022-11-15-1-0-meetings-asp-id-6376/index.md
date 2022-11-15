@@ -1,0 +1,67 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf (Nachholtermin für die abgesagte Sitzung vom 12.10.2022)
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2022-11-15T17:00:00+01:00
+- Ende: 2022-11-15T18:36:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6376
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6376
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - erledigt
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten - (offen)
+- TOP 2.2: Konsensliste zur Beschlussfassung über die Dringlichkeiten - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Ausweisung für Windenergie - beantwortet
+- TOP 3.2: Parkläufer in Reinickendorf - beantwortet
+- TOP 3.3: Heizung im Fontanehaus - gegenstandslos
+- TOP 3.4: Verkehrsberuhigung im Waldseeviertel - vertagt
+- TOP 3.5: Verschobener Ausbau der Residenzstraße - beantwortet
+- TOP 3.6: "Schutz des Eigentums" durch Zwangsräumungen - beantwortet
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Umbau der Residenzstraße - beantwortet
+- TOP 4.2: Kältehilfe - beantwortet
+- TOP 4.3: Infopoint oder "point of no interest" - beantwortet
+- TOP 4.4: Baumaßnahme am Zeltinger Platz - beantwortet
+- TOP 4.5: Infrastrukturelle Folgeprobleme durch die Verschiebung des Umbaubeginns der Residenzstraße - beantwortet
+- TOP 4.6: Ökologisierung des Grünflächenamtes - beantwortet
+- TOP 4.7: Ersatzverkehr U6 - beantwortet
+- TOP 4.8: Roedernallee, zentrale Hauptverkehrsstraße für Wirtschafts- und Individualverkehr - beantwortet
+- TOP 4.9: Kein Platz mehr für Hunde in Berlin? - beantwortet
+- TOP 4.10: Spielhallen in Reinickendorf - beantwortet
+- TOP 4.11: Umgestaltung der Residenzstraße - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der 13. Sitzung vom 09.11.2022 - (offen)
+- TOP 5.1: Zeitnahe Einrichtung einer Koordinationsstelle zur Prävention von Kinder- und Familienarmut in Reinickendorf - vertagt
+- TOP 5.2: Schutz der Reinickendorfer Natur (Große Anfrage) - vertagt
+- TOP 5.3: Arbeitsgruppe "Fahrradnebenroutennetz" einrichten (Beschlussempfehlung) - vertagt
+- TOP 5.4: Jubiläumsfeierlichkeiten 775 Jahre Lübars im Sommer 2022 (Beschlussempfehlung) - vertagt
+- TOP 5.5: Klimaschutzvorbehalt (Beschlussempfehlung) - vertagt
+- TOP 5.6: Sauberes Reinickendorf / Rückführung herrenloser Einkaufswagen ausweiten (Beschlussempfehlung) - vertagt
+- TOP 5.7: Förderkonzept für Grundschüler (Beschlussempfehlung) - vertagt
+- TOP 5.8: Mehr Verkehrssicherheit am Borsigdamm in Tegel I - Kurve entschärfen (Beschlussempfehlung) - vertagt
+- TOP 5.9: Mehr Verkehrssicherheit durch Fahrbahnmarkierungen an der Kreuzung Ollenhauerstraße / Humboldtstraße bzw. Ollenhauerstraße / Auguste-Viktoria-Allee sowie auf den angrenzenden Straßen (Beschlussempfehlung) - vertagt
+- TOP 5.10: Südausgang am S-Bahnhof Frohnau (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 5.11: Stromausfall in Reinickendorf, wie geht es weiter? (Große Anfrage) - vertagt
+- TOP 5.12: Wohnungsneubau stärken, Spekulation bekämpfen (Beschlussempfehlung) - vertagt
+- TOP 5.13: Temporäres Halteverbot vor der Kita Havelmäuse (Beschlussempfehlung) - vertagt
+- TOP 5.14: Verlegung der öffentlichen Toilette auf Franz-Neumann-Platz (Beschlussempfehlung) - vertagt
+- TOP 5.15: Mehr öffentliche Toiletten in Reinickendorf errichten (Beschlussempfehlung) - vertagt
+- TOP 5.16: Verbot des Überholens einspuriger Fahrzeuge auf Abschnitt der Schulzendorfer Straße (Beschlussempfehlung) - vertagt
+- TOP 5.17: Mieterbeirat in der Rollberge Siedlung unterstützen (Beschlussempfehlung) - vertagt
+- TOP 5.18: Paracelsusbad um ein Außenschwimmbecken erweitern (Beschlussempfehlung) - vertagt
+- TOP 5.19: Sicher mit dem Fahrrad von Tegel nach Lübars I (Beschlussempfehlung) - vertagt
+- TOP 5.20: Sicher mit dem Fahrrad von Tegel nach Lübars II (Beschlussempfehlung) - vertagt
+- TOP 5.21: Öffentliche Toilette auf dem Falkenplatz in Konradshöhe (Beschlussempfehlung) - vertagt
+- TOP 5.22: Rechtssicheres Vorgehen gegen illegal aufgestellte Altkleider Container auf privatem Grund (Beschlussempfehlung) - vertagt
+- TOP 5.23: Erstellung einer Dunkelfeldstudie (Beschlussempfehlung) - vertagt
+- TOP 5.24: Missbilligung (Antrag) - vertagt
+- TOP 6: Wahl eines stellv. Schriftführers / einer stellv. Schriftführerin in den Vorstand der BVV - vertagt
+- TOP 7: Anträge - (offen)
+- TOP 7.1: Ersuchen: Einrichtung der Personalstelle einer/-s Beauftragten für Gute Arbeit in Reinickendorf im Jahr 2023 - überwiesen
+- TOP 8: Ersuchen - (offen)
+- TOP 8.1: Instandsetzung der Gartenanlage am Springbrunnen Ludolfingerplatz - ohne Änderungen in der BVV beschlossen
