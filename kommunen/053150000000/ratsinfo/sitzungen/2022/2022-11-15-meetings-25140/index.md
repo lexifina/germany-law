@@ -1,0 +1,61 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-15T15:00:00+01:00
+- Ende: 2022-11-15T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25140
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25140
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Situation der Aufnahme von Geflüchteten in Köln
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Beantwortung einer Anfrage zum Positionspapier ‚Identität stärken - natürliche Mehrsprachigkeit fördern!‘1017/2022 - Kenntnis genommen
+- TOP 3.2: Diskriminierung bei der Wohnungssuche – was kann die Stadt tun? - Kenntnis genommen
+- TOP -: Beantwortung Anfrage: Diskriminierung bei der Wohnungssuche – was kann die Stadt tun? - Kenntnis genommen
+- TOP 4: Aktuelle Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage zum Einbürgerungsverfahren - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage zum Einbürgerungsverfahren (AN/1916/2022) - zurückgestellt
+- TOP 4.2: Anfrage zum aktuellen Stand Ausländer:innenbehörde - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Liste GOL zu "Aktueller Stand Ausländer:innenbehörde" - Kenntnis genommen
+- TOP 4.3: Anfrage zum aktuellen Stand DOMID und Halle 71 - zurückgestellt
+- TOP 4.4: Anfrage zur Evaluation der kommunalen Seniorenprogramme der Stadt Köln – Mitteilung 1468/2022 - zurückgestellt
+- TOP 4.5: Nachfrage zu einer Beantwortung des Gesundheitsamtes zu Sozialpsychiatrischen Zentren - zurückgestellt
+- TOP 4.6: Anfrage zur Situation in der Ausländerbehörde: Rückstandsabbau und Vorbereitung Einbürgerung syrischer Geflüchteter - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Unterbringung von besonders vulnerablen Geflüchteten aus der Ukraine mit medizinisch bedingten besonderen Unterbringungsbedarfen - Kenntnis genommen
+- TOP 5.2: Stärkung des Auszugsmanagements - Kenntnis genommen
+- TOP 5.3: Ein Welcome-Desk Konzept für den Wirtschaftsstandort Köln - Kenntnis genommen
+- TOP 5.4: 2. Quartalsbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.5: Sachstandsbericht zur neuen Richtlinie: Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz (3187/2019) - Kenntnis genommen
+- TOP 5.6: Sachstandsbericht zur Förderung der Antirassismus-Arbeit 2020, erste Zuwendung (Vorlage 4360/2019) - Kenntnis genommen
+- TOP 5.7: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2022 - Kenntnis genommen
+- TOP 5.8: Neuaufstellung NRWeltoffen in Köln - Kenntnis genommen
+- TOP 5.9: Personalbericht 2021 - Kenntnis genommen
+- TOP 5.10: Qualifizierungsangebote Diskriminierungsfreies Handeln im Schulungsprogramm der Stadt Köln - Kenntnis genommen
+- TOP 5.11: Sachstand zu Planungen für die "Informationskampagne Wohngeld" - Kenntnis genommen
+- TOP 5.12: Förderung bilingualer Betreuungsmöglichkeiten - Beantwortung AN/1715/2022 - Kenntnis genommen
+- TOP 5.13: Kampagne zur Akzeptanz von queeren Menschen mit Migrations- und Fluchtgeschichte - Kenntnis genommen
+- TOP 5.14: Zweiter Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Kolmarer Str. 55 in 50769 Köln-Merkenich - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 8.2: Neubau einer Unterkunft für Geflüchtete in konventioneller Bauweise auf dem städtischen Grundstück Kuckucksweg 8, 50997 Köln-Godorf - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 8.3: Durchführung des EhAP Plus Projektes INKA - In Köln Ankommen - Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert beschlossen
+- TOP 8.4: Weiterführung des Projekts Brückenbauer* - ungeändert beschlossen
+- TOP 8.5: Freigabe der Mittel 2022 zur Unterstützung der Entwicklung des Ausländeramtes zur Willkommensbehörde - ungeändert beschlossen
+- TOP 8.6: Aktualisierte Bedarfsfeststellung Unterbringungsplätze Geflüchtete - ohne Votum in nachfolgende Gremien
+- TOP 8.7: Teilnahme am Landesprogramm „Kommunales Integrationsmanagement (KIM)“ - ungeändert beschlossen
+- TOP 8.8: Eigentumsübertragung von 92 Benin-Hofkunstwerken aus dem Rautenstrauch-Joest-Museum an die Bundesrepublik Nigeria - ungeändert beschlossen
+- TOP 8.9: Zusätzliche Landesmittel KOMM-AN NRW zur Förderung des ehrenamtlichen Engagements bei der Integration von neueingewanderten Menschen in den Kommunen - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
