@@ -1,0 +1,1 @@
+# Verordnung zur Bestimmung der Zentralstelle nach der Verordnung (EU) 2020/1784 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den Mitgliedstaaten vom 8. November 2022
