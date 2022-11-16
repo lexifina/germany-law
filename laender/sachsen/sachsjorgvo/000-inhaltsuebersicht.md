@@ -20,7 +20,8 @@ Unterabschnitt 3 Handels-, Gesellschafts-, Wettbewerbs- und Wertpapierrecht
 § 11 Wertpapiererwerbs- und Übernahmegesetz
 § 12 Kartellrecht
 § 13 Wettbewerbsstreitsachen
-Unterabschnitt 4 Gewerblicher Rechtsschutz und Urheberrecht
+Unterabschnitt 4 Schutz von Geschäftsgeheimnissen, gewerblicher Rechtsschutz und Urheberrecht
+§ 13a Streitsachen nach dem Gesetz zum Schutz von Geschäftsgeheimnissen
 § 14 Gewerblicher Rechtsschutz
 § 15 Urheberrechtsstreitsachen
 Unterabschnitt 5 Zwangsvollstreckungs- und Insolvenzrecht
@@ -46,9 +47,9 @@ Teil 3 Verwaltungsaufgaben
 § 29 Übertragbarkeit des Nießbrauchs bei juristischer Person oder rechtsfähiger Personengesellschaft
 § 29a Zuständigkeiten nach dem Rechtsdienstleistungs- und dem Geldwäschegesetz
 § 29b Zuständigkeiten nach dem Justizbeitreibungsgesetz
-§ 29c Disziplinargericht für Notare
+§ 29c Disziplinargericht für Notarinnen und Notare
 § 29d Zuständigkeiten auf dem Gebiet der Rechtshilfe in Zivilsachen
-§ 29e Gerichtsbarkeit der Steuerberater und Steuerbevollmächtigten.
+§ 29e Gerichtsbarkeit in Steuerberatungs- und Steuerbevollmächtigtensachen
 Teil 4 Verzeichnis über Gebühren in Justizverwaltungsangelegenheiten
 § 30 Gebührenverzeichnis
 Teil 5 Übergangs- und Schlussvorschriften
