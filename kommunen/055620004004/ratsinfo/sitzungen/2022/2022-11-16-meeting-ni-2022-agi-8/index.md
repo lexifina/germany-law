@@ -1,0 +1,27 @@
+# Sitzung des Ausschusses für Generationen und Inklusion
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2022-11-16T17:00:00+01:00
+- Ende: 2022-11-16T19:10:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-AGI-8
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-AGI-8
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2022-AGI-8
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Einwände gegen die Niederschrift der letzten Sitzung
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Aktuelle Berichte zu den Themen der Arbeitsgruppen sowie weitere Planung der Treffen - Arbeitsgruppe 'Generationen' - Arbeitsgruppe 'Inklusion' - Arbeitsgruppe 'Diversität / Vielfalt'
+- TOP 6: Antrag CDU Fraktion vom 09.08.2022_ Gendersprache
+- TOP 7: Antrag der FWI Fraktion auf Einführung der Aktion 'Nette Toilette'
+- TOP 8: Gemeinsamer Antrag SPD-Fraktion und Bündnis90 / Die Grünen vom 31.10.2022 auf Hitzeschutz für vulnerable Personen
+- TOP 9: Anfragen der Ausschussmitglieder
+- TOP 10: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
