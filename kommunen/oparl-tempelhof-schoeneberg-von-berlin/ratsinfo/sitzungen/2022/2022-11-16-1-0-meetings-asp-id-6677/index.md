@@ -1,0 +1,105 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2022-11-16T17:00:00+01:00
+- Ende: 2022-11-16T21:30:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6677
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=6677
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=411856
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - gegenstandslos
+- TOP 4: je eine Priorität pro Fraktion - erledigt
+- TOP 4.1: Kostenfreie Fahrt mit der Ehrenamtskarte ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 4.2: Stand der Vorbereitungen für die Kältehilfe 2022/2023 - beantwortet
+- TOP 4.3: Tempelhof-Schöneberg vor einer möglichen Wiederholungswahl - beantwortet
+- TOP 4.4: Haus der Jugend - ein Projekt rückt in die ferne Zukunft? - beantwortet
+- TOP 4.5: Bezirkliche Bauprojekte beschleunigen - überwiesen
+- TOP 4.6: Sozialer Wohnungsbau in Tempelhof-Schöneberg - beantwortet
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Soziale Erhaltungsverordnung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuches (BauGB) für das Gebiet "Wittenbergplatz" im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 6.2: Soziale Erhaltungsverordnung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuches (BauGB) für das Gebiet "Mariendorf" im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - überwiesen
+- TOP 7: Protokollgenehmigung - vertagt
+- TOP 8: Mündliche Anfragen zur BVV - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Queere Jugendarbeit in Tempelhof-Schöneberg endlich ausbauen - vertagt
+- TOP 9.3: Karstadt Tempelhof: Standort sichern – Arbeitsplätze erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Bauprojekt Beyrodtstraße: Moratorium zur Baumfällung – Wege zur einvernehmlichen Planung öffnen - vertagt
+- TOP 9.5: Wiederherstellung und Inbetriebnahme der Brunnenanlage ‚Fliegende Kraniche‘ - vertagt
+- TOP 9.6: Neue Leute braucht die Kunst - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Boelckestraße – Parkspur erhalten UND Radverkehrsbedingungen verbessern - überwiesen
+- TOP 9.8: Künftiger Wohngeld-Andrang zügig, auch durch Vorschuss, bei zu erwartender Zahlung, leisten - vertagt
+- TOP 9.9: Änderung §45 der Geschäftsordnung - Einwohnerfragestunde - überwiesen
+- TOP 9.10: Dem produzierenden Gewerbe Standorte schaffen – eine „GSG 2.0“ auf den Weg bringen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Entsiegelung rund um den Viktoria-Luise-Platz - überwiesen
+- TOP 9.12: Parkplatzmanagement 2.0: Ein Pilotprojekt für den Tempelhofer Damm - überwiesen
+- TOP 9.13: Gedenktafel für die Widerstandskämpferin in der NS-Zeit, Charlotte Uhrig, in der Wartburgstraße 4 - überwiesen
+- TOP 9.14: Informationsveranstaltungen zur neuen Grundsteuererklärung kurzfristig anbieten - im Ältestenrat zurückgezogen
+- TOP 9.15: Medienkompetenz entwickeln - Media.MakerSpace einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Platz für kostenfreie Außenfreizeitsportstätten - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Neues Gestaltungskonzept für den John-F.-Kennedy-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Motorisierte Paket- und sonstige Lieferdienste weg vom Gehweg bringen - überwiesen
+- TOP 9.19: Wahlausschüsse besser vorbereiten - vertagt
+- TOP 9.20: Fahrradabstellprogramm weiterführen - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Verkehrsberuhigung in der Halker Zeile - ohne Änderungen in der BVV beschlossen
+- TOP 9.22: Namensergänzung zur Aufwertung der Städtepartnerschaften - im Ältestenrat zurückgezogen
+- TOP 9.23: Partnerstädten eine Freude machen – ein Stück Tempelhof Schöneberg schenken - überwiesen
+- TOP 9.24: Aufarbeitung des Gedenksteines Bornhagenweg - ohne Änderungen in der BVV beschlossen
+- TOP 9.25: Radverkehr in der Dickhardtstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.26: Spielplätze im Bezirk beleuchten - überwiesen
+- TOP 9.27: Das Buch „Maison de Santé“ wieder verfügbar machen - überwiesen
+- TOP 9.28: Gesundheitliche Versorgung von Corona positiv getesteten obdachlosen und wohnungslosen Menschen gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 9.29: Baumkonzept für den Bezirk Tempelhof-Schöneberg erstellen - überwiesen
+- TOP 9.30: Patient*innen-Fürsprecher*innen am Gesundheitsausschuss regelmäßig beteiligen - überwiesen
+- TOP 9.31: Sicherer Fußverkehr geht nicht, wenn der Bürgersteig fehlt - ohne Änderungen in der BVV beschlossen
+- TOP 9.32: Beschlüsse zu Parkraumbewirtschaftungszonen: Die BVV hat das letzte Wort - vertagt
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Friedrich-Wilhelm-Platz an die Wand gefahren?! - vertagt
+- TOP 10.2: Wie steht es um die E-Mobility im Bezirk? - vertagt
+- TOP 10.3: Nachhaltige Gewerbeentwicklung im Industriegebiet Motzener Straße? - vertagt
+- TOP 11: Beschlussempfehlungen - im Ausschuss abgelehnt
+- TOP 11.1: Mobile Polizeiwache für den Kurfürsten– und Nollendorfkiez - vertagt
+- TOP 11.2: Abstellmöglichkeiten für Lastenfahrräder - vertagt
+- TOP 11.3: Ein queeres Jugendzentrum für den Südwesten Berlins - vertagt
+- TOP 11.4: Schutz für Kinder und Schüler sicherstellen - vertagt
+- TOP 11.5: Gefahrenstelle in der Rubensstraße beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Pilatusweg endlich baulich verändern - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Beleuchtung des öffentlichen Raumes auch in Zeiten der Energiekrise gewährleisten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Bauliche Mängel an der Bruno – H. Bürgel - Schule beseitigen - vertagt
+- TOP 11.9: Die Haut vergisst nie – UV-Protektion auf Spielplätzen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Ein Schöneberger Friedenaktivist - Gedenktafel für Alfred Hermann Fried - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sand für die Bruno-H.-Bürgel-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 4 / 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 6 / 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 7 / 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 8 / 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 13 / 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 14 / 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 15 / 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Benennung der gesamten Grünfläche an der Gleditschstraße nach Ursula Mamlok - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Erledigung offener Drucksachen aus der XX. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.21: des Bezirksamtes Tempelhof-Schöneberg von Berlin über den vorhabenbezogenen Bebauungsplan 7-98 VE für die Grundstücke Lichtenrader Damm 227, 229/241 und 243/251 im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 12.1: Kostenfreie Nutzung der Citytoiletten allen Geschlechtern ermöglichen - überwiesen
+- TOP 12.2: Gehwegüberfahrten Fußgänger-gerecht gestalten - überwiesen
+- TOP 12.3: Verkehr auf der B 96 während der anstehenden U6-Sanierungsarbeiten mit Augenmaß sortieren - überwiesen
+- TOP 12.4: Haus am Kleistpark aufblühen lassen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Jugendverkehrsschulen in Marienfelde und Lichtenrade etablieren - überwiesen
+- TOP 12.6: Ein Interimsbad für Tempelhof-Schöneberg - überwiesen
+- TOP 12.7: Tempelhof-Schöneberg als Modellbezirk für die kommunale Schulreinigung - überwiesen
+- TOP 12.8: Erinnerung an das Maison de Santé wachhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.9: Soziale Erhaltungsverordnung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuches (BauGB) für das Gebiet "Wittenbergplatz" im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 12.10: Soziale Erhaltungsverordnung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuches (BauGB) für das Gebiet "Mariendorf" im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
