@@ -1,0 +1,54 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-16T15:00:00+01:00
+- Ende: 2022-11-16T18:01:00+01:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22326
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22326
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465534.pdf
+- Ergebnisprotokoll: Sitzungspaket -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465534.pdf
+- Wortprotokoll: Sitzungspaket -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465534.pdf
+
+## Tagesordnung
+
+- TOP 1: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/006/2022 vom 28.09.2022 - einstimmig beschlossen
+- TOP 4: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 5: Bayerstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 6: Berzeliusstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 7: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - Empfehlung einstimmig beschlossen
+- TOP 8: Diesterwegstraße – Maßnahmen zur Schulwegsicherung - einstimmig beschlossen
+- TOP 9: Flächennutzungsplanänderung Nr. 208 - Hansaallee / Schwalmstraße - Empfehlung mehrheitlich beschlossen
+- TOP 10: Bebauungsplan-Vorentwurf Nr. 04/028 - Hansaallee/Schwalmstraße - Empfehlung mehrheitlich beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Sanierungskonzept für den Simon-Gatzweiler-Platz, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 13: Leerstand im Hochhaus am Heerdter Krankenkaus - was nun?, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 14: Naturerfahrungsraum Oberlöricker Straße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 15: Brückengeländer auf der Oberkasseler Brücke, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 16: Energetische Einsparmaßnahmen an öffentlichen Gebäuden im Stadtbezirk 4, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 17: Rückbau der Interimsabfahrt von der B7 Richtung Rheinkniebrücke fahrend zur Düsseldorfer Straße, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 18: Flutlichtanlage für das Jugendspielfeld vom CfR Links, Anfrage der SPD-Fraktion
+- TOP 19: (K)ein Bürgersaal im Hallenbad an der Pariser Straße?, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 20: Baumfällung einer gesunden Buche am Hintergelände "Leostraße 98", Anfrage der Bezirksvertreterin Claudia Drossel
+- TOP 21: Nutria / Biberratte eine Gefahr für den Heerdter Deich?, Anfrage des Bezirksvertreters Alexander Schmitt - zur Kenntnis genommen
+- TOP 22: Zuschuss aus Mitteln der Bezirksvertretung 4 im Jahre 2022 - einstimmig beschlossen
+- TOP 23: Stadtbahnstrecke U81/2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord – Handweiser vs. Brückenbaumaßnahmen im Zuge der A52/B7 - zur Kenntnis genommen
+- TOP 24: Trinkwasserspender für alle Schulen im linksrheinischen Düsseldorf, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 25: Zusagen einhalten, den Weg durch den Heerdterhof-Garten sofort öffnen, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 26: Freigabe einer Einbahnstraße für entgegengesetzten Radverkehr, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 27: Projekt Luegallee 2023 ergänzen!, Antrag des Bezirksvertreters Alexander Schmitt - mehrheitlich abgelehnt
+- TOP 28: Fahrradstellplätze Tannhäuserstraße Oberkassel - zur Kenntnis genommen
+- TOP 29: Sicherheit am linksrheinischen Rheinufer erhöhen - Badeunfälle im Rhein vermeiden! - zur Kenntnis genommen
+- TOP 30: Nachhaltig die Parkraumqualität durch Quartiersgarage verbessern! - zur Kenntnis genommen
+- TOP 31: Ausweichparkplätze im Stadtbezirk 4 dringend gesucht - zur Kenntnis genommen
+- TOP 32: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 33: Grüne Welle für die Fahrradhauptstadt linksrheinisch, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 34: Vorbereitung zur Erfüllung des Rechtsanspruchs auf ganztägige Betreuung in Grundschulen ab 2026, Anfrage des Bezirksvertreters Markus Loh - zur Kenntnis genommen
+- TOP 35: Wann wird der Untere Deichradweg endlich saniert?, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 36: Trinkbrunnen auf dem Nikolaus-Knopp-Platz installieren - zur Kenntnis genommen
+- TOP 37: Gestaltungsbeleuchtung am Heerdter Dreieck ausschalten - zur Kenntnis genommen
