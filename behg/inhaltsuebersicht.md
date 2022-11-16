@@ -23,7 +23,7 @@ Emissionszertifikate, Veräußerung und Register
 Abschnitt 5
 Gemeinsame Vorschriften
 | § 13 | Zuständigkeiten |
-| § 14 | Überwachung, Datenübermittlung |
+| § 14 | Überwachung, Datenübermittlung; Verordnungsermächtigung |
 | § 15 | Prüfstellen |
 | § 16 | Gebühren für individuell zurechenbare öffentliche Leistungen |
 | § 17 | Elektronische Kommunikation |
