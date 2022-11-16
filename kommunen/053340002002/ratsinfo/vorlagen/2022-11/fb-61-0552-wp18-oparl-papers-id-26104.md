@@ -1,0 +1,21 @@
+# Integriertes Stadtentwicklungskonzept Forst / Schönforst / Driescher Hof - Sachstand und weiteres Vorgehen
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/0552/WP18
+- Art: Kenntnisnahme
+- Datum: 2022-11-16
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=26104
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=26104
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=498803&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4894 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=19
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4889 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=10
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5155 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=31
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4895 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4884 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=15
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4891 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4883 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=107
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4893 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=16
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4720 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=3
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4954 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=3
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=12, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=17, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=32, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=31, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=76
