@@ -1,0 +1,57 @@
+# Rat (23. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2022-11-16T18:00:00+01:00
+- Ende: 2022-11-16T23:25:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWl3olye4zlTaYIYUEzAG9I
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5124
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYF6hUXDCa1kESNOtvv4cTCHDiAUI8TvfT_vKVZpkKeo/Bekanntmachung_Rat_16.11.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZchWwkHmnlVm24m9jPvK_OWI6iK-qfcZ2i6F26yIQapS/Oeffentliche_Niederschrift_Rat_16.11.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 28.09.2022
+- TOP 3.: Niederschrift vom 26.10.2022
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der UWG Fraktion: Angebote und Unterstützung für Allgemeine Sozialberatung in Gronau und Epe - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Antrag der SPD-Fraktion vom 25.10.2022; Transparenz der politischen Arbeit - 18 Jastimmen, 26 Neinstimmen, 0 Enthaltungen
+- TOP 4.3: Antrag der CDU-Fraktion vom 31.10.2022; Förderung Drilandsee Schwantretboot - 37 Jastimmen, 4 Neinstimmen, 3 Enthaltungen
+- TOP 5.: Letter of intent zwischen Gronau und Enschede - Einstimmig, 0 Enthaltungen
+- TOP 6.: Sportanlage "Eper Bülten" - Einstimmig, 1 Enthaltungen
+- TOP 7.: Einleitung eines VgV-Verfahrens für die Planungsleistungen zur Bebauung der Hertie Baugrube - 40 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 8.: Gründung Projektgesellschaft Stadtwerke Gronau Glasfaser GmbH Beitritt der SGG zum Verband der Anbieter von Telekommunikations- und Mehrwertdiensten (VATM) e.V. als assoziiertes Mitglied - Einstimmig, 0 Enthaltungen
+- TOP 9.: Jahresabschluss der Stadt Gronau (Westf.) für das Haushaltsjahr 2021 1. Prüfung durch den Rechnungsprüfungsausschuss 2. Feststellung durch den Rat - Einstimmig, 0 Enthaltungen
+- TOP 10.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2021 - Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltungen
+- TOP 11.: Budgetbericht für das III. Quartal 2022
+- TOP 12.: Einleitung des Benehmensverfahrens gem. § 55 Abs. 1 Kreisordnung NRW
+- TOP 12.1: Einleitung des Benehmensverfahrens gem. § 55 Abs. 1 Kreisordnung NRW - 40 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 13.: I. Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2023 II. Abwassergebührenkalkulation für das Jahr 2023 III. Erlass einer Änderungssatzung zur Beitrags- und Gebührensatzung zur Abwasserbeseitigungssatzung der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bedarf an weiteren Stellen im Stellenplan 2022 wegen der Auswirkungen des Wohngeld-Plus-Gesetzes - 42 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 15.: Systempartner der Genossenschaft "Kommunale Genossenschaft Gronauer Innenstadt eG"
+- TOP 16.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 16.1: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften
+- TOP 26 ö.T.: Übertragung der städt. Tiefgarage (nichtöff. Vorlage 634/2022)
+- TOP III.: Öffentlicher Teil
+- TOP 27 ö.T.: Tausch von Grundstücksflächen auf dem Germania-Gelände (nichtöff. Vorlage 617/2022)
+- TOP 28 ö.T.: Verkauf einer städt. Immobilie - ehem. Tennishalle am Brechter Weg (nichtöff. Vorlage 618/2022)
+- TOP 17.: Sachstand zur Ukraine-Flüchtlingssituation (Stand: 09.11.2022)
+- TOP 18.: Aktuelles zur Corona-Pandemie (Stand: 09.11.2022)
+- TOP 19.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 20.: Mitteilungen der Verwaltung
+- TOP 20.1: Energiekrise
+- TOP 20.2: Fördermittel für die energetische Sanierung der Realschule
+- TOP 21.: Anfragen
+- TOP 21.1: Gründung einer Genossenschaft (Anfrage von RM Gabbe)
+- TOP 21.2: Tagesordnung/TOPs auf Leinwand (Anfrage von RM Doetkotte)
+- TOP 21.3: Schadstoffgutachten altes Rathaus (Anfrage von RM Bügener)
+- TOP 21.4: Förderprogramm für Klimabäume (Anfrage von RM Buchholz)
+- TOP 21.5: Jugendparlament (Anfrage von RM Kernebeck)
+- TOP 21.6: Treffen zur Sicherheit in der Innenstadt (Anfrage von RM Kernebeck)
+- TOP 21.7: Mögliches Fehlverhalten in öffentlicher Beratung (Anfrage von RM Krause)
+- TOP 21.8: Schließung des Rathaus-Services (Anfrage von RM Doetkotte)
