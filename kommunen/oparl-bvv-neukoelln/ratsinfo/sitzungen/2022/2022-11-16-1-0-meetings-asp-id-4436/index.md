@@ -1,0 +1,123 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-11-16T17:00:00+01:00
+- Ende: 2022-11-16T22:39:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4436
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4436
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Schulreinigung - beantwortet
+- TOP 1.2: Sanierung Hasenheide - Entfernung Denkmal "Turnvater Jahn" - beantwortet
+- TOP 1.3: Städtepartnerschaft - beantwortet
+- TOP 1.4: Zustände am Sozialamt - beantwortet
+- TOP 1.5: E-Rollis und Vermüllung durch Hochzeitsparties - beantwortet
+- TOP 1.6: Wohngeld - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: 0596/XXI - Obdachlose und „Little Homes“ schützen - ohne Änderungen in der BVV beschlossen
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Einspruch gegen Ordnungsmaßnahme gemäß § 57 GO BVV - in der BVV abgelehnt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Failed District Neukölln: Nur eine funktionale Verwaltung ist in der Lage die Daseinsvorsorge der Menschen sicherzustellen - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Abschluss der Zielvereinbarung zwischen der Geschäftsführerin des Jobcenters Berlin-Neukölln, dem Vorsitzenden der Geschäftsführung der Agentur für Arbeit Berlin Süd und dem kommunalen Vertreter des Bezirksamtes Berlin-Neukölln für das Jahr 2022 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Ferienzeiten der BVV Neukölln von Berlin im Jahr 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2021 - überwiesen
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl von Mitgliedern des Ehrenamtlichen Dienstes in Sozialkommissionen bzw. Sondersozialkommissionen - gewählt
+- TOP 7.2: Wahl von ehrenamtlichen Mitgliedern des Milieuschutzbeirates - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Servicebüro für die Mieterinnen und Mieter schon lange geschlossen - beantwortet
+- TOP 8.2: Arbeitssuchende Mitarbeiter*innen im Schuldistanzteam - beantwortet
+- TOP 8.3: Chanukka 2022 in Neukölln - beantwortet
+- TOP 8.4: Aufstockung der Leistungsverträge im Bereich Jugendarbeit, Jugendsozialarbeit und Familienförderung - beantwortet
+- TOP 8.5: Sachbeschädigung an Kulturgütern durch Klimaterroristen in Berliner Museen - beantwortet
+- TOP 8.6: Antisemitismus-Vorfall im Kulturzentrum Oyoun - beantwortet
+- TOP 8.7: Plakat in der Sonnenallee 7 - beantwortet
+- TOP 8.8: Umsetzungsstand angemeldete Typensporthallen - beantwortet
+- TOP 8.9: „Der deutsche Imperialismus und die Palästina-Frage“ - beantwortet
+- TOP 8.10: Ramadan-Broschüre für Grundschulen? - beantwortet
+- TOP 8.11: Baugerüst in der Karl-Marx-Straße 170 - schriftlich beantwortet
+- TOP 8.12: Welche Rolle spielt Beteiligung in der Rekommunalisierungsplanung der Schulreinigung? - schriftlich beantwortet
+- TOP 8.13: Black-Out bei Katastrophen-Leuchttürmen in Neukölln? - schriftlich beantwortet
+- TOP 8.14: Mieter*innen aus der Nogatstraße ausgesperrt und alleingelassen - schriftlich beantwortet
+- TOP 8.15: Amt für Soziales in Neukölln dauerhaft überlastet! - schriftlich beantwortet
+- TOP 8.16: Schulessen an der Peter-Petersen-Schule - schriftlich beantwortet
+- TOP 8.17: Neuköllner Buddy Bär - schriftlich beantwortet
+- TOP 8.18: Denkmalschutz für Kriegsverbrecher? - schriftlich beantwortet
+- TOP 8.19: Finanzielle Unterstützung der 650 Jahrfeiern Rudow & Buckow - schriftlich beantwortet
+- TOP 8.20: Rekommunalisierung der Schulreinigung ermöglichen - schriftlich beantwortet
+- TOP 8.21: Stand der Einführung von Parkraumbewirtschaftung - schriftlich beantwortet
+- TOP 8.22: Polizei- und Feuerwehreinsätze im Bezirk Neukölln am Halloween-Abend - schriftlich beantwortet
+- TOP 8.23: Vergrößert die zweiwöchige Schließung des Sozialamts Neukölln die soziale Not? - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Energetische Sanierung bezirklicher Liegenschaften - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Neuköllner Bildungseinrichtung "Jack" über 2022 hinaus erhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Wohnraum sichern: Illegale Vermietung von Ferienwohnungen unterbinden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Beschlussempfehlung aus dem Ausschuss zu Bürgervorschlag # 62 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Gegen Altersarmut - Über Grundsicherung im Alter informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Ersatz für ausgefallene Einbürgerungsfeiern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Saubere Entsorgung sicherstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Tiny Houses - Win-Win für den Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.7: HEROES-Finanzierung sicherstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.8: Fairtrade-Town: Sichtbarkeit der bezirklichen Auszeichnung verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Unterbringung der Geflüchteten aus der Ukraine - beantwortet
+- TOP 11.2: Neuköllner Schulen in der Investitionsplanung - beantwortet
+- TOP 11.3: Schwere Verfehlungen der Gesundheitsstadträtin Blumenthal - vertagt
+- TOP 11.4: Umsetzungsstand bei der Parkraumbewirtschaftung - vertagt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Reinigung Rudower Fließ - in der BVV abgelehnt
+- TOP 12.2: Konsequent sein: Hasenheide einzäunen - in der BVV abgelehnt
+- TOP 12.3: Grünstreifen entlang des Teltowkanals aufwerten - in der BVV abgelehnt
+- TOP 12.4: Durchfahrt durch die Grünanlagen Lessing- und Thomashöhe für Radfahrende erlauben - vertagt
+- TOP 12.5: Heller Asphalt für den Klimaschutz - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Muva auch für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Neuköllner*innen müssen zügig von Wohngeldreform profitieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Fahrradbügel für das Stadion Britz-Süd - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Mittel für Müllentsorgung aus dem Aktionsprogramm „Saubere Stadt“ beantragen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Kippenbehälter für den Rathausplatz - in der BVV abgelehnt
+- TOP 12.11: Ladeinfrastruktur für eFahrzeuge schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Bürger*innenhaushalt der Bezirke im Landesbeteiligungshaushalt berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Aussetzen der Städtepartnerschaft zwischen Neukölln und Puschkin - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Kostenfreie Nutzung der City-Toiletten in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: „Missoir" - ein dringendes Bedürfnis - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Einsatzmöglichkeiten von Elektrowärmepumpen prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Maientage in der Hasenheide erhalten - vertagt
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Ergebnisse der Schließung des Sozialamtes - vertagt
+- TOP 13.2: Zwischenauswertung des Bürger*innenhaushalts 2022/2023 - vertagt
+- TOP 13.3: Auswirkungen der Umsetzung von § 2b Umsatzsteuergesetz (UstG) ab 01.01.2023 - vertagt
+- TOP 13.4: Hermannplatz für alle! Karstadtneubau der Signa Gruppe und Herrn R.B. verhindern! - vertagt
+- TOP 13.5: Berlin frisst sich weiter in die Fläche – wie steht es um die Entsiegelung der Bodenflächen im Bezirk Neukölln? - vertagt
+- TOP 13.6: Ende gut, gar nichts gut: Wie geht es weiter mit dem „Atrium“? - vertagt
+- TOP 13.7: Sauberkeit in Neukölln: Sauberkeit und Müllbeseitigung durch die BSR - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Fortsetzung des Radfahrstreifens auf der Werbellinstraße - überwiesen
+- TOP 15.2: Erstellung einer kommunalen Wärmeplanung für Neukölln - überwiesen
+- TOP 15.3: Verbesserung der ÖPNV Anbindung entlang der Gradestraße - überwiesen
+- TOP 15.4: Hermannplatz für alle! Karstadtneubau der Signa Gruppe und Herrn R.B. verhindern! - überwiesen
+- TOP 15.5: Ein Platz für Inge Meysel - überwiesen
+- TOP 15.6: Öffentliche Still- und Wickelmöglichkeiten für Väter und Mütter - überwiesen
+- TOP 15.7: Lieferparken in der Herrfurthstraße - überwiesen
+- TOP 15.8: Kurze Wege am Rixdorfer Brauhaus - überwiesen
+- TOP 15.9: Kein Parken am Übergang für Fußgänger in der Fritz-Erler-Allee - überwiesen
+- TOP 15.10: Recht auf Sprachförderung von Kindern im Vorschulalter sicherstellen - überwiesen
+- TOP 15.11: "Pfandringe" um Mülleimer - überwiesen
+- TOP 15.12: 10 Jahresfeier "Willkommen in Neukölln“ - überwiesen
+- TOP 15.13: Maßnahmen für Saalestraße als wichtige Ost-West-Tangente - überwiesen
+- TOP 15.14: Gedenktafel für Leo Jogiches - überwiesen
+- TOP 15.15: Antidiskriminierungsbeauftragte an Neuköllner Schulen - überwiesen
+- TOP 15.16: Neubau Hortgebäude Karlsgarten-Grundschule - überwiesen
+- TOP 15.17: Bürger*innenhaushalt überarbeiten - Beteiligung transparent gestalten! - überwiesen
+- TOP 15.18: Obdachlose und „Little Homes“ schützen - ohne Änderungen in der BVV beschlossen
