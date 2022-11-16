@@ -1,0 +1,1 @@
+# Verordnung zur Bestimmung der Zentralstelle nach der Verordnung (EU) 2020/1783 über die Zusammenarbeit zwischen den Gerichten der Mitgliedstaaten auf dem Gebiet der Beweisaufnahme in Zivil- oder Handelssachen vom 8. November 2022
