@@ -1,0 +1,133 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2022-11-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6945345
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6945345
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.1.: - UA Soziales, TOP 2.2: "St. Martins Laternenfest" am 11.11.2022 in den Frühlingsanlagen - UA Soziales, TOP 2.3: Orangene Bank gegen Gewalt an Frauen am Wiener Platz - UA Klima, TOP 4.4: Hochfrequenztöne im Bereich Innere Wiener Straße
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Fahrradstellplätze für die Breisacher Straße
+- TOP 5.2.: Klimaanpassung am westlichen Johannisplatz
+- TOP 5.3.: Johannisplatz - Trambetrieb stabilisieren
+- TOP 5.4.: Neue Verkehrsregeln kommunizieren
+- TOP 5.5.: Kuglerstraße: Verstetigung eines gelungenen Versuchs vertagt in der Sitzung am 15.12.2021
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt November
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative „Recherche - Regerstraße“ Recherche Regerstraße 18 1.500,00 € / Az. 0262.0-5-0428
+- TOP II.2.: (E) Stadtbezirksbudget Theater in der Au e.V. Theateraufführungen: DIE POLIZEI von Frank Sporkmann vom 10. -22.01.2023 899,00€; Az. 0262.0-5-0435
+- TOP II.3.: Darstellende Kunst & Musik im öffentlichen Raum verstärkt ermöglichen und fördern!
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kinderaktionen des AKA e.V. 2023 in den Grünanlagen Johannisplatz, Hypopark, Postwiese, Am Kegelhof, Tassiloplatz
+- TOP 2.2.: "St. Martins Laternenfest" am 11.11.2022 in den Frühlingsanlagen Anhörungsfrist: 08.11.2022, Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.3.: Orangene Bank gegen Gewalt an Frauen am Wiener Platz: Bitte um Freigabe
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Austausch von Spielgeräten im Hypopark und Am Neudeck
+- TOP 3.2.: 18 Jetzt Feedback und Ergebnisse der BA-Beteiligung
+- TOP 3.3.: Spielplatzversorgung im Stadtteil
+- TOP 4.: Bürgeranliegen
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Aufstellung eines Coronatestcontainers in der Falkenstr. 16
+- TOP 3.: Unterrichtungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Temporärer Widerruf der Freischankfläche Weißenburger Straße 8
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Hochstr. 8 - Umgestaltung Gastronomie Sudetendeutsches Museum - ART. 73 (Frist bis zum 06.11.2022)
+- TOP 2.2.: Regerstr. 52 - Nutzungsänderung einer Gewerbeeinheit (EG) zu einer Kindertagesstätte
+- TOP 2.3.: Steinstr. 42 - Umbau einer Gaststätte, Teil-Abbruch einer Garage sowie Errichtung eines Stellplatzes, Erwiterung eines Wirtsgartens und Neubau einer Abfalltonneneinhausung
+- TOP 2.4.: Nockherstr. 29 - Sanierung eines Denkmalgeschützten Herbergshauses, Abbruch und Neubau eines Hofhauses, Neubau verglaster Verbindungsbau (Nockherstr. 29 / Schmedererweg) (Frist bis zum 06.11.2022)
+- TOP 2.5.: Orleansstraße - Containerprovisoriums für die S-Bahn München, befristet auf die Dauer von 2 Jahren (Frist bis zum 06.11.2022)
+- TOP 2.6.: Hochstr. 41 - Dachgeschossausbau - TEKTUR zu 1.2-2021-3384-21
+- TOP 2.7.: Trogerstr. 32 - Brandschutzsanierung mit Nutzungsänderung
+- TOP 2.8.: Ismaninger Str. 22 - Gebäude 502, West, Fassade des Anbaus, Nordseite - Erneuerung der Pfosten-Riegel-Fassade im KG und 2.OG als Pfosten-Riegel-Fassade in Aluminium
+- TOP 2.9.: Rosenheimer Str. 1 - TEKTUR zu 1.1-2021-17739-21 - Gebäudesanierung (Müller`sches Volksbad)
+- TOP 2.10.: Jugendstr. 8 - TEKTUR zu 1.2-2021-24181-21 - Umbau Dachgeschosse mit Ausbau Spitzboden, Einbau Dachflächenfenster, Loggien und Dachgauben, statische Ertüchtigung Dachtragwerk und Geschossdecken, Neueindeckung mit Aufsparrendämmung, Nutzungsänderung von Büro zu Wohnen (Jugendstraße 10 - DG rechts)
+- TOP 2.11.: Kellerstr. 25 - Errichten eines Personenaufzugs sowie von Balkonen hofseitig, Ausbau 2.DG als zusätzliche Wohneinheit oder 1 Maisonette und 1 WE getrennt, Einbau einer Photovoltaikanlage auf einem Dach, Errichten von Dachterrassen hofseitig - VORBESCHEID
+- TOP 2.12.: Eduard-Schmid-Str. 1 - Verbesserung der Barrierefreiheit, Einbau eines Lasten- und Personenaufzuges, einer Lasten-Hydraulik-Hebebühne und zwei Stück Plattform-Treppenlifte zur Verbesserung der Barrierefreiheit mit Nutzungsänderung einzelner Räume
+- TOP 2.13.: Sedanstr. 22/ RGB - Anbringen von Notleitern im Innenhof für den 2. Rettungsweg - TEKTUR 1.2-2017-26886-21
+- TOP 2.14.: Weißenburger Str. 1 - Nutzungsänderung und Umbau einer ehem. Bankfiliale in eine Augenarztpraxis im EG und 1.OG des Geschäfts- und Wohnhauses, sowie Erneuerung des Eingangselements und der Schaufenster im EG
+- TOP 2.15.: Eggernstr. 6 - Nutzungsänderung: RGB EG - Spengler-, Installationswerkstatt und Garage zu Büro sowie Lager mit Garage zu Garage, VGB EG - Umkleide und Zugang Werkstatt zu Bad, Laden zu Küche sowie Anbau Geräteraum und 2. OG - Anbau Balkon Hofseite
+- TOP 2.16.: Regerstr. 34 - Neubau eines Wohnblocks (91 WE) mit Kindertagesstätte und Tiefgarage / Baugebiet 2 (2) ( jetzt Regerstr. 34-44) - TEKTUR zu 1.1-2020-1156-21
+- TOP 2.17.: Regerstr. 26 - Neubau des Sternenhauses mit 3 separaten Wohnungen ( jetzt Regerstr. 30-32) TEKTUR zu 1.1-2020-1159-21
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 3.2.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 3.3.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.4.: Rückantwort der LBK zu Stellungnahmen BA 5: - Ackerstr. 7
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Planungen Baustelle im Bereich Tram 25 im Februar 2023 - Vorstellung durch die MVG
+- TOP 0.2.: AQT - Vorstellung des Reallabors Untere Au
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Aufhebung der Geradeausfahrt für die Taxis am Haidenauplatz Empfehlung Nr. 14-20 / E 02476 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 26.02.2019
+- TOP 1.2.: Einwohnerversammlung zur möglichen Einrichtung einer Spielstraße Schneckenburger-/Kuglerstraße am 06.10.2022: Abstimmung über Protokoll und Anträge zusätzlich: Bürgeranliegen vom14.10.2022, Kompromissvorschlag zusätzlich: Bürgeranliegen vom 15.12.2021, vertagt in der Sitzung am 15.12.2021
+- TOP 1.3.: Verkehrssicherheit am Pestalozzigymnasium, weiteres Vorgehen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Digitale Abschlussveranstaltung Sommerstraße 2022 am 28.11.2022 / Meldung der Sommerstraßen 2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Maßnahmen gegen den illegalen Radverkehr in der Leonhardstraße
+- TOP 3.2.: Erleichterung eines Zuganges zur Kirche St. Gabriel in der Versailler Straße => dazu Ablehnung Ortstermin durch das Baureferat
+- TOP 3.3.: Fahrradstellplätze Asamstraße
+- TOP 3.4.: Baustelleneinrichtung im Hypopark; Verlängerung der Ausnahmegenehmigung vom 01.11.2022-31.10.2024
+- TOP 3.5.: 2. Stammstrecke PFA 3 Ost Antwort Planungsreferat zur Stellungnahme vom BA 5 am 01.07.2022
+- TOP 3.6.: Auszug aus der Erwiderungen der DB auf die gesamtstädtischen Stellungnahmen der LHM und die der BAs 5, 13, 14 und 15 zur 2. Stammstrecke zum PFA 3 Ost bzw. zur 1. Tektur des PFA 3 Ost
+- TOP 3.7.: Verkehrsrechtliche Anordnungen a) Einrichtung einer Busspur in der Grillparzerstraße zwischen Prinzregentenstraße und Einsteinstraße b) Parklizenzgebiet „Franzosenviertel“: Änderung des Zeitzusatzes für die Lieferzone Preysingstr. 42 c) Parklizenzgebiet „Regerplatz“: Aufhebung des angeordneten Gehwegparkens in der Hochstraße
+- TOP 3.8.: Sicherheit für Fahrradfahrer während der Sperrung der Unterführung Friedenstraße Schreiben BA 5 an die Deutsche Bahn
+- TOP 3.9.: Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV), Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn; Nächtliche Arbeiten im Bereich des Gleisdreiecks Milchstr./Wörthstr./Preysingstr./Metzgerstr. vom 01.11.-25.11.2022
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Änderung der Bodenmarkierung und Geschwindigkeitskontrollen in der Hochstraße
+- TOP 4.2.: Antrag zur Einbahnregelung in der Hochstraße
+- TOP 4.3.: Antrag zur Errichtung eines Fahrradwegs in der Hochstraße
+- TOP 4.4.: Mögliche Beeinträchtigungen des Verkehrsflusses durch den Neubau des MS-Zentrums
+- TOP 4.5.: Radwege in der Grillparzerstraße
+- TOP 4.6.: Erhebliche Beeinträchtigungen und Gefahren durch die neue Busspur in der Grillparzerstraße
+- TOP 4.7.: Möglichkeiten zur Verkehrsberuhigung der Elsässer Straße /Ecke Breisacher Straße
+- TOP 4.8.: Trambahnerneuerung Steinstraße
+- TOP 4.9.: Petition der Grundschule Bazeillesstraße: Kostenloses Parken / Kostenlose Parkplätze
+- TOP 4.10.: Rotmarkierung des Fahrradweges Ecke Regerstraße /Welfenstraße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Dächer des Bus- und Trambetriebshofs für PV nutzen
+- TOP 3.2.: (U) Klimaziele erreichen: Riesendachflächen der Trambahn-Depots in der Einsteinstraße und des dortigen AWM-Stützpunktes solarenergetisch nutzen Antrag Nr. 20-26 / A 02246 von Herrn Stadtrat Manuel Pretzl, Herrn Stadtrat Sebastian Schall und Herrn Stadtrat Jens Luther vom 17.12.2021
+- TOP 3.3.: Unterrichtung über entfernte Gefahrenbäume, hier: Grünanlage Gebsattelberg
+- TOP 3.4.: Baumbestand am Rosenheimer Platz (Platanen) Schreiben Baureferat zur Empfehlung Nr. 20-26 / E 00646 aus der Bürgerversammlung vom 31.05.2022
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Hitzeinsel auf der Rosenheimer Straße bzw vor der Stadtbibliothek im Motorama
+- TOP 4.2.: Schwammstadt - Wassermangel für Grünanlagen vorbeugen hier: Rückfrage des Antragstellers zum Antwortschreiben Baureferat
+- TOP 4.3.: Baumfällung Walter-Heerde Weg und Baumentwicklungskonzept
+- TOP 4.4.: Hochfrequenztöne im Bereich Innere Wiener Straße
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 05.12.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 05.12.2022, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Wirtschaft, 06.12.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 07.12.2022, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 07.12.2022, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 08.12.2022, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Hybridsitzung statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 14.12.2022, 19.00 Uhr, Kath. Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Dienstag, 29.11.2022, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Budget für eigene Veranstaltungen: Bergfest in 2023, Zuschuss i.H.v. 10.000 €
