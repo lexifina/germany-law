@@ -1,0 +1,154 @@
+# 13. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2022-11-17T17:30:00+01:00
+- Ende: 2022-11-17T23:00:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5716
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5716
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=544862
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Jugendverkehrsschulen
+- TOP 2.2: Arbeit der Stadtteil- und Betroffenenrvertretungen sowie Quartiersräte
+- TOP 2.3: Umbenennung der Zimmerstraße
+- TOP 3: Feststellen von Dringlichkeiten
+- TOP 4: Mitteilungen
+- TOP 4.1: des Vorstandes
+- TOP 4.2: der Fraktionen
+- TOP 4.3: der Ausschüsse
+- TOP 4.4: des Bezirksamtes
+- TOP 5: Konsenslisten
+- TOP 5.1: Kostenlose Corona-Tests in Mitte
+- TOP 5.2: Wilhelmstraße 56-59: Mitte für seine Bürger:innen zurück gewinnen!
+- TOP 5.3: Straße des 17. Juni nach historischem Vorbild entsiegeln
+- TOP 5.4: Verkehrssicherheit Turmstraße
+- TOP 5.5: Datenerfassung Gebäudeeffizienzklassen
+- TOP 5.6: Kiezhausmeister für den Bezirk Mitte!
+- TOP 5.7: Eine Gedenktafel für Jeanette Schwerin in der Neuen Schönhauser Straße 13
+- TOP 5.8: Protokolle
+- TOP 5.9: Sicherung des Rosengartens im Humboldthain
+- TOP 5.10: Fahrradstraße Linienstraße sicherer gestalten
+- TOP 5.11: Für Besucher*innen und Anwohner*innen: sozial- und umweltverträgliches Nutzungs-Konzept für James-Simon-Park erarbeiten und umsetzen
+- TOP 5.12: Ein Pilotprojekt für Rom*nja und Sinti*zze in Berlin
+- TOP 5.13: Sicherstellung von BVV-Sitzungen
+- TOP 5.14: Hansabibliothek - Ort der stillen Zusammenkunft und des Lesegenusses ermöglichen!
+- TOP 5.15: Café am Arkonaplatz ermöglichen
+- TOP 5.16: Foodsharing Angebote auf der Seite des Bezirksamtes sichtbar machen
+- TOP 5.17: Gesamtverkehrskonzept für den Bereich Friedrichstraße jetzt!
+- TOP 5.18: Erstellung eines dringlichen Wohnberechtigungsscheins bei drohender Wohnungslosigkeit
+- TOP 5.19: Östlichen Schillerpark aufwerten
+- TOP 5.20: Perleberger Straße zur 30er-Zone — Lärm- & Umweltbelastung reduzieren!
+- TOP 5.21: Dunkle Jahreszeit darf nicht zu Unsicherheit führen!
+- TOP 5.22: Personalsituation im Bezirksamt Mitte verbessern – Erprobungen auch für externe Bewerber*innen ermöglichen
+- TOP 5.23: Straßennamen-Erläuterungsschilder - Pohlstraße und Jagowstraße
+- TOP 5.24: Kinder vor Zwangsverheiratung schützen!
+- TOP 5.25: Kein Leerstand am Leo! Umbau von Galeria Karstadt am Leopoldplatz sozialverträglich gestalten
+- TOP 5.26: Sicheres Radfahren auf der Straße des 17. Juni
+- TOP 5.27: "Europa fängt in der Gemeinde an" - Bewerbung für Berlin Mitte auf den Weg bringen
+- TOP 5.28: Soziale Nachnutzung für derzeitige Räumlichkeiten des Familienzentrums Moabit Ost sichern
+- TOP 5.29: Jugendorte in Mitte stärken und ausbauen
+- TOP 5.30: Städtepartner*innenschaft Berlin-Mitte und Kyiw
+- TOP 5.31: Aufsicht und Begleitung des Busshuttles der Anna-Lindh-Schule einrichten
+- TOP 5.32: Verbesserung der Barrierefreiheit in Schule und Jugendeinrichtungen
+- TOP 5.33: Mehr bürgerschaftliche Begrünung des öffentlichen Straßenlandes ermöglichen
+- TOP 5.34: Naturlehrpfad im Volkspark Rehberge
+- TOP 5.35: „Toilette für alle“ für unser Schul-Umwelt-Zentrum
+- TOP 5.36: Keine Abwälzung der Mehrkosten infolge der "kleinen Pflegereform" auf Pflegebedürftige und Angehörige!
+- TOP 5.37: Gedenken an die „Zerstörte Vielfalt“ in der Feldzeugmeisterstraße zeigen
+- TOP 5.38: Bußgelder gegen herumliegende E-Roller!
+- TOP 5.39: Runder Tisch Krankenhäuser
+- TOP 5.40: Gesundheitsversorgung für alle Menschen in Mitte
+- TOP 5.41: Kiezblock Auguststraße – sichere Straßen ohne Durchgangsverkehr
+- TOP 5.42: Sicherer Straßenübergang am Spreeufer Paulstraße
+- TOP 5.43: Das Engelbecken als Zentrum der Luisenstadt zusammen mit Friedrichshain-Kreuzberg und den Ehrenamtlichen vor Ort erneuern und pflegen
+- TOP 5.44: Ungarnstraße zur Fahrradstraße machen — Sicherheit und Klimafreundlichkeit hat Vorfahrt!
+- TOP 5.45: Grünphasen der Ampelschaltungen in Mitte für den Fußverkehr verlängern
+- TOP 5.46: Bürgerbeteiligung im Sanierungsgebiet Badstraße / Pankstraße sicherstellen und Betroffenen- /Stadtteilvertretung wählen
+- TOP 5.47: Mehr Sicherheit und Komfort für Fußgänger:innen und Radfahrende in der Pohlstraße
+- TOP 5.48: Anwohner*innen schützen, Luftreinhaltung und Verkehrssicherheit in der Leipziger Straße sicherstellen!
+- TOP 5.49: Falsch parkende Fahrzeuge aus verkehrsberuhigten Straßen umsetzen
+- TOP 5.50: Gesundheitssystem in Mitte verbessern — Strukturen schaffen, Teilhabe ermöglichen, Ziele weiterentwickeln
+- TOP 5.51: Sicherheit am Spreekanalufer gewährleisten
+- TOP 5.52: Mülleimer für das Gebiet Karl-Marx-Allee II
+- TOP 5.53: Corona ist nicht vorbei! Pandemiebekämpfung im Herbst und Winter 2022/23 rechtzeitig planen
+- TOP 5.54: Mittelverteilung Integrationsfonds 2022
+- TOP 5.55: Mittelverteilung Integrtionsfonds 2023
+- TOP 5.56: Gestaltfibel Müllerstraße- Gestaltungsleitfaden für das Lebendige Zentrum Müllerstraße
+- TOP 6: Thematische Stunde
+- TOP 7: Beschlussempfehlungen aus den Ausschüssen
+- TOP 7.1: Kritische Infrastruktur– Karte für Straßenpumpen und Notwasserbrunnen in Mitte
+- TOP 7.2: Flächendeckende Parkraumbewirtschaftung in Mitte — auch im Wedding!
+- TOP 7.3: Der jüngsten Opfer des Aufstandes vom 17.Juni angemessen gedenken
+- TOP 7.4: Mehr Freiheit für Fuß- und Radverkehr im Gartenstraßenkiez – motorisierten Durchgangsverkehr verhindern!
+- TOP 7.5: Unterstützung für Classroom for Ukraine
+- TOP 7.6: Schulwegsicherheit in der Singerstraße erhöhen
+- TOP 7.7: Wildbienen auf der Catcherwiese – alternative Sportflächen in den Rehbergen dringend ge-sucht!
+- TOP 7.8: Kein zusätzliches Quer- und Schrägparken mehr einrichten
+- TOP 7.9: Schulbauoffensive für Mitte umsetzen, einen Umsetzungsstandort für die Erneuerung der Ernst-Reuter-Schule jetzt sichern!
+- TOP 7.10: Sanierung der Ernst-Reuter-Schule darf keine Beeinträchtigung für den Sport mit sich ziehen
+- TOP 7.11: Sträucher pflanzen, wo keine Straßenbäume nachgepflanzt werden können
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Umwidmung der Friedrichstraße – Wie ist der Planungsstand?
+- TOP 8.2: Informierung der betroffenen Bürger*innen über sozialrechtliche Ansprüche und deren Rechtsdurchsetzung im Zuge der Energiekrise
+- TOP 8.3: Bauarbeiten am Alexanderplatz und Folgen für die U-Bahn
+- TOP 8.4: Schutz vor häuslicher Gewalt
+- TOP 8.5: Kritische Infrastruktur Sanierung/Instandhaltung von Schwengelpum-pen/Notwasserbrunnen
+- TOP 8.6: Wartezeiten für Parkausweise
+- TOP 8.7: Denkmalschutz als zukunftsfähiger Multikplikator für Mitte?
+- TOP 8.8: Kollektive Verantwortungslosigkeit oder wo bleibt der Geschäftsbereich Zweckentfremdung im Bezirksamt?
+- TOP 8.9: Warme Schulen und Schutz vor Coronainfektionen
+- TOP 8.10: Keine Ausstellung von Urkunden durch das Standesamt?
+- TOP 8.11: „Netzwerk der Wärme“ in Mitte
+- TOP 8.12: Beteiligungsverfahren Umgestaltung Magdeburger Platz: Bezirksamt ignoriert BVV-Beschlüsse und Bewohner*inneninteressen!?
+- TOP 8.13: Streichung von Rücklagen der Schulen?
+- TOP 8.14: Sachstand Zentraler Festplatz?
+- TOP 8.15: Vereinsgründungen in Mitte zu Zeiten der Energie-Krise
+- TOP 8.16: Zweckentfremdung
+- TOP 9: Dringlichkeitsanfragen
+- TOP 9.1: Freigabe von Unterkünften in Mitte
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2021
+- TOP 10.2: Berufung eines stellvertretenden beratenden Mitglieds für die Position „erfahrene Frau in der Mädchenarbeit“ für den Jugendhilfeausschuss (JHA)
+- TOP 10.3: Sitzungskalender 2023
+- TOP 11: Dringlichkeitsanträge
+- TOP 11.1: Rechnungen der Anna-Lindh-Schule unverzüglich bezahlen!
+- TOP 12: Anträge
+- TOP 12.1: Parkraumbewirtschaftungszonen auf den Prüfstand!
+- TOP 12.2: Kiezblock Nördliche Luisenstadt – KEIN RECHT AUF SCHLEICHWEG
+- TOP 12.3: Energieeinsparungen für den Winter 22/23 umsetzen, Zusammenhalt im Bezirk stärken
+- TOP 12.4: Weihnachtsbeleuchtung in Mitte
+- TOP 12.5: Verbesserte Sicherheit für Fußgänger an der Querung Chaussee- / Ida-von Arnim-Straße
+- TOP 12.6: Ämterübergreifende Projektgruppe ‚Anna-Lindh-Schule‘ einsetzen
+- TOP 12.7: Keine Kürzungen bei den Schulsanierungen
+- TOP 12.8: Mitwirkung der Stadtteilvertretungen Müllerstraße “MenschMüller” in Gutachten- und Wettbewerbsverfahren zur Neuplanungen zur Entwicklung des Karstadt-Standortes Müllerstraße sicherstellen
+- TOP 12.9: Geplante modulare Unterkünfte für Geflüchtete an der Triftstraße umsetzen
+- TOP 12.10: Aktion gegen Krieg in der Ukraine nicht mehr behindern!
+- TOP 12.11: Runder Tisch Habersaathstraße
+- TOP 13: Große Anfragen
+- TOP 13.1: Nutzbarkeit von Sporthallen für den Schulbetrieb
+- TOP 13.2: Unterstützung von geflüchteten Menschen aus der Ukraine durch die Ämter Berlin Mitte
+- TOP 13.3: Wie ist der Baustand auf dem früheren Köpi-Wagenplatz?
+- TOP 13.4: Ausstattung des BVV-Büros und der Fraktionen
+- TOP 13.5: Flächen für kostenloses Sport- und Freizeitangebot
+- TOP 13.6: Unterbringung und Wohnen geflüchteter Menschen aus der Ukraine im Bezirk Mitte
+- TOP 13.7: Karstadt am Leopoldplatz – neue Lage?
+- TOP 13.8: Fahrradweg in der Siemensstraße
+- TOP 13.9: Energiesparplan in Mitte?
+- TOP 14: Vorlagen zur Beschlussfassung
+- TOP 15: Beschlussempfehlung zur Vorlage zur Beschlussfassung
+- TOP 16: Entschließungen
+- TOP 17: Vorlagen zur Kenntnisnahme
+- TOP 17.1: Ein fester, dauerhafter Standort für Fixpunkt am Leopoldplatz!
+- TOP 17.2: Wedding: Rathausvorplatz für alle II
+- TOP 17.3: Cafe Leo vollständig erhalten!
+- TOP 17.4: Basketballflächen beleuchten und gut ausstatten
+- TOP 17.5: Bootsverleih Düring am Plötzensee erhalten!
+- TOP 17.6: Geschäftsverteilung und Vertretungsregelungen des BA
+- TOP 17.7: Zielsystem für das Kalenderjahr 2022 – Bericht über das Erreichen der Ziele (Er-folgskontrolle) zum 31. August 2022
