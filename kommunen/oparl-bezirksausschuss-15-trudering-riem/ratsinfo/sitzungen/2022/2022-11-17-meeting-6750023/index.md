@@ -1,0 +1,178 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2022-11-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6750023
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6750023
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget Chorgemeinschaft St. Peter und Paul Trudering Novemberkonzert am 20.11.2022 2.101,25 € / Az. 0262.0-15-0439
+- TOP 2.1.2.: (E) Stadtbezirksbudget Miteinander Trudering e.V. Anschaffung Spielhaus 7.470,00 € / Az. 0262.0-15-0440
+- TOP 2.1.3.: (E) Stadtbezirksbudget GEVT e.V. Adventleuchten vom 25.11.2022 – 08.01.2023 3.480,58 € / Az. 0262.0-15-0441
+- TOP 2.1.4.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 15 vom 01.01.2023 -31.12.2023 7.980,00€; Az. 0262.0-15-0442
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Widmung einer Teilstrecke des Edinburghplatzes
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.1.1.: Bajuwarenpark: Lärmbelästigung der Anwohnerschaft durch die Veranstaltung "Theater vor der Haustür"
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Am Hochacker/Markgrafenstraße: Dauerparkende Wohnmobile und LKWs
+- TOP 3.2.2.: Michael-Seidl-Straße: Errichten einer Einbahnstraße / Durchfahrt nur für Anlieger
+- TOP 3.2.3.: Messestadt: Einführen von Besucherparkausweisen
+- TOP 3.2.4.: Tangastraße: Geschwindigkeitsbeschränkung auf Tempo 30
+- TOP 3.2.5.: Wasserburger Landstraße: Erschwertes Parken zwischen Reiserstraße und Friedenspromenade
+- TOP 3.2.6.: Feldbergstraße: Zusätzliche Straßenbeleuchtung auf Höhe der Schule
+- TOP 3.2.7.: Willy-Brandt-Allee: Aufstellung dauerhafter Blitzer
+- TOP 3.2.8.: Buslinie 139: Verdichtung des Fahrtakts
+- TOP 3.2.9.: Wasserburger Landstraße: Erhöhte Gefahr im Rad- und Fußgängerverkehr durch neue Parkbänke
+- TOP 3.2.10.: Trudering-Riem: Maßnahmen für mehr Sicherheit für Kinder im Straßenverkehr
+- TOP 3.2.11.: Galopperstraße: Einrichtung von Kurzzeitparkplätzen an der Kindertagesstätte
+- TOP 3.2.12.: Riem: Sanierung des S-Bahnhofs
+- TOP 3.2.13.: Riemer Park: Bitte um Abhilfe gegen zugeparkte Wiesen während der Bauma
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.4.1.: Truderinger Straße / Michael-Seidl-Straße: Schlechter Zustand des Grundstücks
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Umwandlung der Mittagsbetreuungen an Grundschulen in den Offenen Ganztag
+- TOP 3.5.2.: Trudering-Riem: Gynäkologische und geburtshilfliche Versorgung in München sicherstellen
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Selma-Lagerlöf-Straße: Entsiegelung des Gehwegs
+- TOP 3.6.2.: Arrondierung Kirchtrudering / Heltauer Straße: Anschluss der angrenzenden Straßenzüge an das Fernwärmenetz
+- TOP 3.6.3.: Verschiedene Fragen zur Geothermie und zum Fernwärmenetz im Stadtbezirk
+- TOP 3.6.4.: Magdalena-Schwarz-Straße: Installation eines Mülleimers und eines Beetschutzes am Urban-Gardening-Beet
+- TOP 3.6.5.: Bajuwarenpark: Einrichten einer Hundespielwiese
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Anwohnerparken in der Messestadt – es muss sich was ändern!
+- TOP 4.7.2.: Errichtung eines Fangzauns auf dem neu geschaffenen Streetballplatz für Jugendliche in der Messestadt
+- TOP 4.7.3.: Fernwärmeversorgung für Trudering-Riem ausbauen
+- TOP 4.7.4.: Zwei Basketballkörbe für jede Schule
+- TOP 4.7.5.: Experimente-Busse
+- TOP 4.7.6.: Fitnessstudio für Kinder
+- TOP 4.7.7.: Frei zugänglicher Hundetrainingsplatz
+- TOP 4.7.8.: Ein Kino für Trudering-Riem
+- TOP 4.7.9.: Spielplätze renovieren, ausbauen und sauber halten
+- TOP 4.7.10.: Größere Sportplätze
+- TOP 4.7.11.: Friedhofsparken ermöglichen – auch bei Großmessen
+- TOP 4.7.12.: Stadtsparkasse Waldtrudering: Wie könnte der Münzgeldautomat wieder zurückkommen?
+- TOP 4.7.13.: Welche aktuellen gewerblichen Planungen gibt es für das Gebiet am Rappenweg?
+- TOP 4.7.14.: Erinnerungs-Antrag: Truderinger-Riemer Fahrradoffensive Teil 2 – Zweirichtungs-Fuß-Radweg an der Friedenspromenade den Bedürfnissen der hohen Nutzungsfrequenz anpassen
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Lösungsvorschlag zum Thema "Taxistand und Kurzparker am Truderinger Bahnhof"
+- TOP 5.2.2.: MVG-Leistungsprogramm 2022: Zeit für überfällige Qualitätssicherung und -verbesserung
+- TOP 5.2.3.: Fahrradvorzugstrasse nach Süden / Fahrradunterführung Bahnhof Trudering
+- TOP 5.2.4.: Schneller Radweg aus dem Münchner Osten über den Landkreis München nach Ebersberg – Abschnitt Trudering
+- TOP 5.2.5.: Sanierung von Radwegen: I. Auswechseln des Kopfsteinpflasters II. Nachziehen der roten Markierungen
+- TOP 5.2.6.: Am Hochacker: Aufstellung der Schilder "Achtung Kinder" sowie vermehrte Geschwindigkeitskontrollen
+- TOP 5.2.7.: Trudering sattelt um - endlich moderne zeitgemäße und ausreichend große Fahrradabstellanlagen am Truderinger Bahnhof: Wohin mit den 850 Fahrrädern am Bahnhof Trudering Süd? – Mut zu einer Fahrrad-Tiefgarage als Münchner Pilotprojekt
+- TOP 5.2.8.: Antrag des BA 20: Gesamtstädtisches Konzept zum Thema „Gehwegparken“
+- TOP 5.2.9.: Verkehrssicherheit für den Fuß- und Radverkehr auf der Friedrich-Creuzer-Straße (FCS) und Schutz der Restflächen der Perlacher Heide in Einklang bringen
+- TOP 5.2.10.: Sparsame Flächennutzung für das Parken am Riemer Park und dem Kopfbau Ergänzungsantrag zu dem BA-Antrag Nr. 20-26 / B 02052
+- TOP 5.2.11.: Mehr Sicherheit und weniger Asphalt: Kreuzung Postweg/Florastraße/Kästlenstraße umgestalten
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Aufwertung des Truderinger Waldes im Münchner Osten mit Bänken, einem Barfußpfad oder etwas Ähnlichem
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Olof-Palme-Straße / Joseph-Wild-Straße: Vermietung städtischer Flächen für das Festival der Marionetten
+- TOP 7.1.2.: De-Gasperi-Bogen: Vermietung städtischer Flächen für den Christbaumverkauf
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Bajuwarenstraße: Geschwindigkeitsbegrenzung auf 30 km/h aus Lärmschutzgründen zwischen Zehnfeldstraße und Kreillerstraße/Wasserburger Landstraße
+- TOP 7.2.2.: Unnützstraße / Damaschkestraße: Einrichtung eines absoluten Haltverbots
+- TOP 7.2.3.: Felicitas-Füss-Straße: Eingeschränktes Haltverbot im verkehrsberuhigten Bereich
+- TOP 7.2.4.: Hugo-Weiss-Straße: Eingeschränktes Haltverbot im verkehrsberuhigten Bereich
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.3.1.: Rappenweg/Haar-Gronsdorf: Entwurf der Bekanntgabe des Strukturkonzepts
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Ankoglstr. 2 - Neubau zweier Wohngebäude mit Tiefgarage
+- TOP 7.4.2.: Phantasiestr. 2 - Voranfrage für ein Mehrstöckiges Gebäude mit Läden, Büros und Wohnungen mit Tiefgarage - VORBESCHEID
+- TOP 7.4.3.: Riemer Str. 362 - Neubau von 4 Mehrfamilienhäusern mit 35 Wohnungen und einer Tiefgarage mit 35 Stellpl. - VORBESCHEID
+- TOP 7.4.4.: Wasserburger Landstr. 171 - Nutzungsänderung: Einfamilien- zu Mehrfamilienhaus (6 WE)
+- TOP 7.4.5.: Truderinger Str. 225 - Neubau einer Ausstellungshalle mit Nutzung als Wettbüro
+- TOP 7.4.6.: Schwedensteinstr. 9 - Neubau 4 Reihenhäuser, Abbruch EFH
+- TOP 7.4.7.: Grundelstr. 7 - Neubau dreier Hauseinheiten mit Garage und Carport
+- TOP 7.4.8.: Martin-Kollar-Str. 1 - Nutzungsänderung einer Betriebskantine in ein Wettbüro
+- TOP 7.4.9.: Dualastr. 14b - Neubau von 2 Mehrfamilienhäusern sowie eines Doppelhauses mit gemeinsamer Tiefgarage
+- TOP 7.4.10.: Lohnrößlerweg 26 - Neubau eines Wohngebäudes (2 WE) mit 2 Garagen
+- TOP 7.4.11.: Vogesenstr. 31 - TEKTUR zu 1.2-2022-3342-32 - Neubau eines Dreifamilienwohnhauses
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Bajuwarenstr.16 Chammünster Str. 46 Groschenweg 12 Ingeborgstr. 31 Sansibarstr. 8 Sulzer-Belchen-Weg 22 Zehntfeldstr. 133
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Adelmannstr. 13 Ankoglstr. 2 Ankoglstr. 18 Bergerwaldstr. 28 Dualastr. 14b Frau-von-Uta-Str. 13 Günderodestr. 38 Heilwigstr. 12 Himalajastr. 56 Hippelstr. 11 Klothildenstr. 21 Maria-Montessori-Str. 11 Möwestr. 28 Pilatusstr. 6 Riemer Str. 337a Riemer Str. 362 Schwedensteinstr. 9 Solalindenstr. 87 Togostr. 27 Von-Erckert-Str. 45 Von-Erckert-Str. 48 Von-Erckert-Str. 65 Von-Heydebreck-Str. 18
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: Protokoll des Ortstermins zum Thema "Sanierung/Widmung Waldwege im 15. Stadtbezirk" am Beispiel "Hochacker" vom 27.09.2022
+- TOP 9.2.2.: Schließung des Stadtteilladens: Übernahme des BA-Schaukastens
+- TOP 9.2.3.: Schließung des Stadtteilladens: Übergabe der Seniorenpläne
+- TOP 9.2.4.: Daglfinger und Truderinger Kurve: Unstimmigkeiten bezüglich des Schutzes der Biodiversität Am Hüllgraben
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Weitere Verteilung der BAs in der BAG Ost
+- TOP 10.1.3.: Informationskampagne 75 Jahre Bezirksausschüsse
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Rothuberweg / Lehrer-Götz-Weg b) Schwablhofstraße
+- TOP 10.2.2.: Stockholmstraße: Sanierung der Busüberfahrten
+- TOP 10.2.3.: Erwiderungen der DB auf die gesamtstädtischen Stellungnahmen der LHM zur 2. Stammstrecke zum PFA 3 Ost bzw. zur 1. Tektur des PFA 3 Ost
+- TOP 10.2.4.: Daglfinger und Truderinger Kurve: Entwurfsvorstellung der Deutschen Bahn
+- TOP 10.2.5.: Am Hüllgraben: Arbeiten im Straßenraum Hier: Erschließung Bildungscampus Riem, Bauphase 9
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: (U) Interkommunales Strukturkonzept Rappenweg/Haar-Gronsdorf
+- TOP 10.3.2.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 10.3.3.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 10.3.4.: (U) Bebauungsplan mit Grünordnung Nr. 1728n Fünfter Bauabschnitt Messestadt Riem Kirchtrudering (östlich), Alter Riemer Friedhof (südlich), Riemer Park (westlich), Bahnlinie München – Rosenheim (nördlich) für den Teilbereich des Aufstellungsbeschlusses Nr. A1728 von 23.10.1991 und Aufstellungsbeschluss Nr. A1693 vom 18.07.1990 und Teiländerung des Bebauungsplanes Nr. 779 vom 28.03.1977 A) Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Wettbewerbs B) Weiteres Vorgehen Stadtbezirk 15 - Trudering-Riem
+- TOP 10.3.5.: (U) Teilfortscheibung des Landesentwicklungsprogramms Bayern (LEP); Ergänzendes Beteiligungsverfahren; Stellungnahme der Landeshauptstadt München
+- TOP 10.3.6.: (U) Änderung des Flächennutzungsplanes mit Integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1728g Schwablhofstraße (östlich), Riemer Park (südlich), Gemeinde Haar, Ortsteil Gronsdorf (westlich), Bahnlinie München – Rosenheim (nördlich), Mauerseglerstraße für den Teilbereich des Aufstellungsbeschlusses Nr. A1728 vom 23.10.1991 - Aufstellungsbeschluss - Stadtbezirk 15 – Trudering – Riem
+- TOP 10.3.7.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 10.3.8.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 10.3.9.: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 10.3.10.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 10.3.11.: Protokoll der öffentlichen Sitzung des Mieterbeirates am 24.10.2022
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Dompfaffweg b) Kilihofstraße c) Heilwigstraße d) Tangastraße e) Florastraße
+- TOP 10.4.2.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben a) Dompfaffweg
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Nutzungsänderung der Wohneinheit Tsingtauer Straße 54a zum Umbau in eine Kindertageseinrichtung Sitzungsvorlage Nr. 20-26 / V 06925
+- TOP 10.5.2.: Stolzhofstraße / Windbauerstraße: Sachstand zum geplanten Kinderspielplatz
+- TOP 10.5.3.: (U) Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Nutzungsänderung und Umbau der Wohneinheit Tsingtauer Straße 54a in eine Kindertageseinrichtung 15. Stadtbezirk - Trudering-Riem
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Präsentation des Gartenbaus zu "Stadtbäume im Klimawandel"
+- TOP 10.6.2.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 10.6.3.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 10.6.4.: (U) Mehr Sonnenprojekte der SWM Empfehlung Nr. 20-26 / E 00469 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 25.10.2021
+- TOP 10.6.5.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
