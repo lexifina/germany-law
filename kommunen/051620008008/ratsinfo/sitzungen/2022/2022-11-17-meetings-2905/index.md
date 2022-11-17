@@ -1,0 +1,68 @@
+# Hauptausschuss der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-11-17T10:14:00+01:00
+- Ende: 2022-11-17T13:54:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2905
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2905
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00133279.pdf
+- Ergebnisprotokoll: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00133279.pdf
+- Wortprotokoll: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00133279.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Vergleichsbericht 2021 - Ertrags- und Aufwandslage im kommunalen Vergleich
+- TOP 3: Bürgeranträge nach § 24 GO NRW
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Beantwortung von Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 6: Sonstige Anträge zur Tagesordnung
+- TOP 6.1: Anträge der SPD-Fraktion
+- TOP 6.1.1: Energieberatung ausbauen (Antrag Nr.: 64/2022)
+- TOP 6.2: Anträge der CDU-Fraktion
+- TOP 6.2.1: "Smart Home" System für öffentliche Gebäude einführen (Antrag Nr.:102/2022)
+- TOP 6.2.2: Aufbau der Parade-Bühnen zu den städtischen Schützenfesten (Antrag Nr.:104/2022)
+- TOP 6.2.3: Dreifach Turnhalle in Wevelinghoven als Mehrzweckhalle bauen (Antrag Nr.:98/2022)
+- TOP 6.2.4: Verzicht auf die Erhöhung des Grundsteuer-B-Hebesatzes (Antrag Nr.:99/2022)
+- TOP 6.3: Anträge der Fraktion Bündnis 90 / Die Grünen
+- TOP 6.3.1: Evaluierung eines Konzeptes für eine digitale Rathauszeitung (Antrag Nr.:91/2022)
+- TOP 6.4: Anträge der FDP-Fraktion
+- TOP 6.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 6.5.1: Sauberkeit im innerstädtischen Raum (Antrag Nr.:84/2022)
+- TOP 6.6: Anträge der UWG-Fraktion
+- TOP 6.6.1: Haushaltsentwurf 2023 - Hebesatz-Satzung (Antrag Nr.:88/2022)
+- TOP 6.7: Gemeinschaftsanträge
+- TOP 6.7.1: Gewinnausschüttung SEG (Antrag Nr.:81/2022)
+- TOP 7: Sonstige Anfragen zur Tagesordnung
+- TOP 7.1: Status des Inklusionskonzeptes (Anfrage Nr.:90/2022)
+- TOP 7.2: Status der interkommunalen Zusammenarbeit (Anfrage Nr.:92/2022)
+- TOP 8: Haushaltsangelegenheiten
+- TOP 8.1: Schriftliche Anfragen von Fraktionen für das Haushaltsjahr 2023
+- TOP 8.1.1: Fragen zum Haushaltsentwurf 2023 (Anfrage Nr.:85/2022)
+- TOP 8.1.1.1: Fragen zum Haushaltsentwurf 2023 (Anfrage Nr.:85/2022) - Kenntnisnahme
+- TOP 8.1.2: Haushaltsentwurf 2023 - Nutzung von Büroräumen unter Homeoffice-Bedingungen (Anfrage Nr.:87/2022)
+- TOP 8.2: Für das Haushaltsjahr 2023 haushaltsrelevante schriftliche Anträge von Fraktionen
+- TOP 8.2.1: Einrichtung von Trinkwassernotbrunnen/Notbrunnen im Stadtgebiet (Antrag Nr.:101/2022)
+- TOP 8.2.2: Ehrenamtsbeauftragter (Antrag Nr.:83/2022) - einstimmig beschlossen
+- TOP 8.2.3: Übertragung der nicht verbrauchten Geldmittel für das Inklusionskonzept in den Haushalt 2023 (Antrag Nr.:89/2022) - einstimmig beschlossen
+- TOP 8.2.4: Auswirkungen des geänderten anspruchsberechtigten Personenkreises des Wohngeldes auf Grevenbroich (Antrag Nr.:96/2022)
+- TOP 8.2.5: Sozialer Schutzschirm für Grevenbroich (Antrag Nr.:82/2022) - einstimmig beschlossen
+- TOP 8.2.6: Produkt 06022 Hilfe zur Erziehung Minderjähriger (Antrag Nr.:95/2022) - mehrheitlich abgelehnt
+- TOP 8.2.7: Energiekostenzuschüsse für Sportvereine (Antrag Nr. 78/2022)
+- TOP 8.2.8: Zuschuss für Energie- und Reinigungskosten von Vereinen (Modifiziert) (Antrag Nr.:97/2022) - einstimmig beschlossen
+- TOP 8.2.9: Öffentlich zugängliches Kleinspielfeld in Wevelinghoven als Ersatz für den wegfallenden Bolzplatz am Abenteuerspielplatz (Antrag Nr.:94/2022)
+- TOP 8.3: Haushalt 2023 - einstimmig beschlossen
+- TOP 9: Schwimmbad Neukirchen - einstimmig beschlossen
+- TOP 9.1: Hallenbad in Neukirchen (Antrag Nr.:80/2022)
+- TOP 9.2: Haushaltsentwurf 2023 - Bad in Neukirchen (Anfrage Nr.:86/2022)
+- TOP 9.2.1: Haushaltsentwurf 2023 - Bad in Neukirchen (Anfrage Nr.:86/2022) - Kenntnisnahme
+- TOP 9.3: Hallenbad in Neukirchen erhalten (Antrag Nr.:93/2022)
+- TOP 9.4: Prüfung der städtischen Übernahme des Schwimmbades in Neukirchen (Antrag Nr.:100/2022)
+- TOP 10: Standorte Unterkünfte und perspektivische Realisierungsmöglichkeiten - von der Tagesordnung abgesetzt
+- TOP 10.1: Standorte für temporäre/stationäre Unterkünfte zur perspektivischen Unterbringung von Asylbewerbern und Geflüchteten (Antrag Nr.:103/2022) - von der Tagesordnung abgesetzt
+- TOP 11: Ersatzkräfte in städtischen Kindertagesstätten bei mittelfristig auftretenden Vakanzen - Kenntnisnahme
+- TOP 12: Mitteilungen des Bürgermeisters
