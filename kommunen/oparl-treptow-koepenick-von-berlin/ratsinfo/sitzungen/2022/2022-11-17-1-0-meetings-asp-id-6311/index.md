@@ -1,0 +1,77 @@
+# 12. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-11-17T16:30:00+01:00
+- Ende: 2022-11-17T20:46:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6311
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6311
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=389878
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - im Ausschuss abgelehnt
+- TOP 7: Vertagte Tagesordnungspunkte - im Ausschuss abgelehnt
+- TOP 7.1: Taubenpopulation - Probleme eingestehen, Verantwortung zeigen - mit Änderungen in der BVV beschlossen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Mitteilungen des Vorstehers Nr. IX-10 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - (offen)
+- TOP 9.1: Zwischenberichte - (offen)
+- TOP 9.1.1: Treptow-Köpenick will den Weiterbau der Tangentialen Verbindung Ost (TVO) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.2: Schlussberichte - (offen)
+- TOP 9.2.1: Hundegärten für Treptow-Köpenick - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Vorhabenbezogener Bebauungsplan 9-55 VE ("Bruno-Taut-Straße") - Entwurf des vorhabenbezogenen Bebauungsplans 9-55 VE - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-55 VE - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Wirtschaftsflächenkonzept Treptow-Köpenick - überwiesen
+- TOP 10.3: Sondermittel für den Förderverein "KIEZKLUB Alte Schule e. V." (SM 22-19) - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Sondermittel für den Verein "KULTURspreePARK e. V." (SM 22-20) - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Sondermittel für den Verein "Theater OST" (SM 22-22) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Gemeinschaftsunterkunft Alfred-Randt-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Aufwertung Don-Ugoletti-Platz Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Pilotprojekt "Tiny Forests" - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Zustand der Kleingewässer im Bezirk verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Busparkplatz für den Modellpark - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Soziale und verkehrliche Infrastruktur in Plänterwald verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Wiederherstellung der Geschäftszeile am Treptower Hafen unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Erinnerung an die Schöneweider Industriebahn "Der Bulle" - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Dauerhafte Geschwindigkeitsüberwachung Am Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Angebote der Obdachlosenhilfe in Treptow ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Aufklärung statt Verboten: Förderung wassersparender und umweltfreundlicher Privatgärten in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Neubesetzung und Wiedereinberufung des Bezirksdenkmalrates - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Straßenbenennungen nach den beiden Rahnsdorfer Lebensrettern August Herrmann und Karl Lupe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Farbschmierereien im öffentlichen Raum konsequent beseitigen und ahnden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Änderung der Abteilung C 1 Partner-Ruhegemeinschaft in der Abteilung C 1 im Urnengrabsystem Landeseigener Friedhof Baumschulenweg, Kiefholzstr. 221-228 – 12437 Berlin, Bezirk Treptow-Köpenick von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Neueinrichten Urnen-Ruhegemeinschaft und Partner-Ruhegemeinschaft mit Namensnennung in der Abteilung C 2 auf dem landeseigenen Friedhof Baumschulenweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Neueinrichten Urnengemeinschaftsanlage anonym und mit Namensnennung in der Abteilung E 5, Landeseigener Friedhof Adlershof, Friedlander Str. 156 – 12489 Berlin, Bezirksamt Treptow-Köpenick von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Neueinrichtung Partner-Ruhegemeinschaft (Urnen) in der Abteilung E 11, Landeseigener Friedhof Adlershof, Friedlander Str. 156 – 12489 Berlin, Bezirk Treptow-Köpenick von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Vorrang für Gemeinschaftsschulen beibehalten und Zweiten Bildungsweg weiterhin ermöglichen - überwiesen
+- TOP 13.2: Nachtflugverbot am BER von 22 bis 6 Uhr - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Errichtung von Gedenkstelen zur Berliner Kolonialausstellung im Treptower Park - überwiesen
+- TOP 13.4: Neuer Bahnhof an der Ringbahn: S-Bahnhof Kiefholzstraße planen und umsetzen und Alt-Treptow und Plänterwald besser erschließen - überwiesen
+- TOP 13.5: Einrichtungsbezogene Impfpflicht nicht weiter priorisieren - überwiesen
+- TOP 13.6: Schild für den Platz "An der Kirche" in Baumschulenweg - überwiesen
+- TOP 13.7: Regionaler Entwicklungsfonds für die Flughafenregion Berlin-Brandenburg - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Hilfen bei Long-COVID- und Post-COVID-Syndrom - überwiesen
+- TOP 13.9: Mehr Kita- und Grundschulplätze für Treptow-Köpenick - überwiesen
+- TOP 13.10: Spielplätze für die Zukunft hitzebeständig umgestalten - überwiesen
+- TOP 13.11: Verlängerung der Buslinie 365 entlang der Straße An der Wuhlheide - überwiesen
+- TOP 13.12: Aufnahmestopp für Treptow-Köpenick - in der BVV abgelehnt
+- TOP 13.13: Deutschförderkurse für Kinder auch in Treptow-Köpenick - überwiesen
+- TOP 13.14: Klare Verkehrsführung für alle – Radfahrampel an der Kreuzung Michael-Brückner-Straße / Sterndamm installieren - überwiesen
+- TOP 13.15: Rollsportarten in der Sportentwicklungsplanung berücksichtigen - überwiesen
+- TOP 13.16: Bauzeitliche Verbesserung der Beleuchtung an der Wendeschleife am Sterndamm - überwiesen
+- TOP 13.17: Öffentlichkeitsarbeit des Bezirksamtes bedarfsorientierter gestalten - überwiesen
+- TOP 13.18: Ringlinie zwischen dem Krankenhaus Köpenick und Wendenschloß im Nahverkehrsplan 2024 - 2027 berücksichtigen - überwiesen
+- TOP 13.19: Musikschulen rechtzeitig planen: Ein Musikschulstandort in Friedrichshagen - überwiesen
+- TOP 13.20: Energiekosten bei Sportanlagen durch Photovoltaik senken - überwiesen
+- TOP 14: Große Anfragen - (offen)
