@@ -1,0 +1,8 @@
+# TOP 3: Vorstellung der Machbarkeitsstudie zum Oberflächenabdichtungssystem und möglicher Folgenutzungen auf der Kreismülldeponie Stockstadt
+
+- Sitzung: Sitzung des Ausschusses für Umwelt und Klimaschutz (2022-11-17)
+- Körperschaft: Landkreis Aschaffenburg
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/agendaitems/14727
+- Ergebnis: Abstimmungsergebnis:
+- Beratung: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/consultations/2460
