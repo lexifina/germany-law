@@ -1,0 +1,93 @@
+# 14. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-17T15:30:00+01:00
+- Ende: 2022-11-17T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25141
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25141
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Bestellung der Schriftführung für den Ausschuss Soziales, Seniorinnen und Senioren - ungeändert beschlossen
+- TOP -: B Mündlicher Bericht des Dezernenten - Kenntnis genommen
+- TOP -: C Mündlicher Bericht der Liga der Wohlfahrt Köln - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.1.1: Barrierefreiheit in Kölner Schwimmbädern - Kenntnis genommen
+- TOP 2.1.2: Antrag/Beschlussempfehlung zu neuem Niederflur Stadtbahnfahrzeug (Arbeitstitel NF12) Hier: nicht gegebene Barrierefreiheit im Modell Stand 28.07.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten - Kenntnis genommen
+- TOP 2.3: Sachstandsbericht zur Förderung der Antirassismus-Arbeit 2020, erste Zuwendung (Vorlage 4360/2019) - Kenntnis genommen
+- TOP 2.4: Sachstandsbericht zur neuen Richtlinie: Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz (3187/2019) - Kenntnis genommen
+- TOP 2.5: Neuaufstellung NRWeltoffen in Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Entwicklung eines kommunalen Wohnungs- und Obdachlosenberichts - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 3.1 „Entwicklung eines kommunalen Wohnungs- und Obdachlosenberichts“ (AN/1627/2022) - zurückgestellt
+- TOP 3.2: Köln-Pass automatisch auch an SGB-II-Leistungsberechtigte versenden - Sache ist erledigt
+- TOP -: TOP 3.2 Köln-Pass automatisch auch an SGB-II-Leistungsberechtigte versenden - ungeändert beschlossen
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Förderprogramm "Dritte Orte" - 3. Genehmigung für die Förderphase 2022 ff. - ungeändert beschlossen
+- TOP 4.2: Verwendung der Mittel aus dem politischen Veränderungsnachweis "Ergänzende Evaluation des Bundesteilhabegesetzes (BTHG) aus der Perspektive der Leistungsempfangenden und der gesetzlich Betreuenden“ 50.000€ für 2022 - ungeändert beschlossen
+- TOP 4.3: Zuschüsse aus dem Konzept "Wir im Quartier - Struktur- und Beschäftigungsförderung im Stadtviertel" hier: weitere Maßnahmebewilligung 2022 - ungeändert beschlossen
+- TOP 4.4: Durchführung einer Nachbarschaftskampagne "In der Krise gemeinsam stark für das soziale Für- und Miteinander in Köln" (Arbeitstitel) - ungeändert beschlossen
+- TOP 4.5: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - ungeändert beschlossen
+- TOP 4.6: LSBTI-Förderprogramm: Freigabe und Verteilung der Mittel (2. Antragsphase 2022) - ungeändert beschlossen
+- TOP 4.7: Mittelverwendung zur Stärkung der kommunalen Beratungsangebote in der Energiekrise - geändert beschlossen
+- TOP 4.8: Zusätzliche Landesmittel KOMM-AN NRW zur Förderung des ehrenamtlichen Engagements bei der Integration von neueingewanderten Menschen in den Kommunen - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Kolmarer Str. 55 in 50769 Köln-Merkenich - Baubeschluss - ungeändert empfohlen
+- TOP 5.2: Empfehlung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender zur Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender (StadtAG LST) - ungeändert empfohlen
+- TOP 5.3: Neubau einer Unterkunft für Geflüchtete in konventioneller Bauweise auf dem städtischen Grundstück Kuckucksweg 8, 50997 Köln-Godorf - Baubeschluss - ungeändert empfohlen
+- TOP 5.4: Durchführung des EhAP Plus Projektes INKA - In Köln Ankommen - Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert empfohlen
+- TOP 5.5: Hitzeaktionsplanung der Stadt Köln - ungeändert empfohlen
+- TOP 5.6: Aktualisierte Bedarfsfeststellung Unterbringungsplätze Geflüchtete - ungeändert empfohlen
+- TOP 5.7: Teilnahme am Landesprogramm „Kommunales Integrationsmanagement (KIM)“ - ungeändert empfohlen
+- TOP 5.8: Strukturerhaltende Maßnahme zur Sicherung der Bürgerhäuser/Bürgerzentren in freier Trägerschaft - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Stärkung des Auszugsmanagements - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Unterbringung von besonders vulnerablen Geflüchteten aus der Ukraine mit medizinisch bedingten besonderen Unterbringungsbedarfen - Kenntnis genommen
+- TOP 9.2: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2022 - Kenntnis genommen
+- TOP 9.3: Zweiter Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Beantwortung der mündlichen Anfrage aus der Sitzung des Gesundheitsausschusses vom 29.03.2022 zur Versorgung der Kölner Bevölkerung mit stationären Pflegeplätzen - zurückgestellt
+- TOP 10.1.2: Anfrage der Fraktionen Bündnis90/Die Grünen, CDU, Volt: Auflösung Gemeinschaftsunterkünfte - Sache ist erledigt
+- TOP -: Beantwortung: Auflösung Gemeinschaftskunterkünfte - Kenntnis genommen
+- TOP 10.1.3: Anfrage der Fraktion Die Linke: Zeitnahe Ausstellung von Fiktionsbescheinigungen als Voraussetzung für den Grundsicherungsbezug von Geflüchteten aus der Ukraine - zurückgestellt
+- TOP 10.1.4: Anfrage der Fraktionen SPD und Linke: Armut in Köln: Obdach- und Wohnungslosigkeit 2022 – Winterhilfe und Hitzeschutz - Sache ist erledigt
+- TOP -: Armut in Köln: Obdach- und Wohnungslosigkeit 2022 – Winterhilfe und Hitzeschutz - Kenntnis genommen
+- TOP 10.1.5: Anfrage der AfD-Fraktion: Unterstützung von Sea Eye - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1656/2022 der AfD-Fraktion zu Sea-Eye e.V. - Kenntnis genommen
+- TOP 10.1.6: Anfrage der AfD-Fraktion: Hilfe für Obdachlose in Köln - Sache ist erledigt
+- TOP -: Hilfe für Obdachlose in Köln - Kenntnis genommen
+- TOP 10.1.7: Anfrage der Seniorenvertretung zum Thema analoger Service: - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Seniorenvertretung zum Thema analoge Servicequalität - Kenntnis genommen
+- TOP 10.1.8: Anfrage der Seniorenvertretung zum Thema Pflegenotstand - zurückgestellt
+- TOP -: Anfrage der Seniorenvertretung zum "Pflegenotstand in der Stadt Köln" (AN/1727/2022) - zurückgestellt
+- TOP 10.1.9: Beantwortung Anfrage: Diskriminierung bei der Wohnungssuche – was kann die Stadt tun? - Kenntnis genommen
+- TOP 10.1.10: Schleuserskandal in Köln - zurückgestellt
+- TOP 10.1.11: Bevölkerungsentwicklung in Köln - zurückgestellt
+- TOP 10.1.12: Fragen zur Umsetzung des Bürgergeld-Gesetzes - zurückgestellt
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Anfrage der Seniorenvertreterin Dr. Köhler der Stadt Köln zu Beantwortungen der Verwaltung in der Sitzung der Stadt AG Seniorenpolitik vom 28.10.2022 - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Projekt "Zukunft Pflege Köln" - Sachstand - zurückgestellt
+- TOP 12.2: Liste der Großbauprojekte - zurückgestellt
+- TOP 12.3: Sachstand zu Planungen für die "Informationskampagne Wohngeld" - Kenntnis genommen
+- TOP 12.4: Freigabe der Mittel 2022 zur Unterstützung der Entwicklung des Ausländeramtes zur Willkommensbehörde - ungeändert empfohlen
+- TOP 12.5: Öffentlich geförderter Mietwohnungsbau - Kenntnis genommen
+- TOP 12.6: Kampagne zur Akzeptanz von queeren Menschen mit Migrations- und Fluchtgeschichte - Kenntnis genommen
+- TOP 12.7: Gestärkt älter werden. Miteinander. Füreinander. - Kenntnis genommen
+- TOP 12.8: Dritte Sachstandsmitteilung zu "Entlastungen bei der Steigerung der Energiepreise intensivieren" - zurückgestellt
+- TOP 12.9: Fortführung und Verstetigung der Maßnahmen im Rahmen des Maßnahmenplans "Humanitäre Hilfen für Menschen aus Staaten der EU-Osterweiterung" ab 2023 - zurückgestellt
+- TOP 12.10: Sachstand Förderung von anerkannten Betreuungsvereinen - zurückgestellt
+- TOP 12.11: Sachstand bezüglich der geplanten Strom- und Gassperren - zurückgestellt
