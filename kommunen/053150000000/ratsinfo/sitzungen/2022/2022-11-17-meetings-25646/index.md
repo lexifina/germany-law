@@ -1,0 +1,83 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-17T17:00:00+01:00
+- Ende: 2022-11-17T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25646
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25646
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - "Starkregen Kölner Norden" Aktenzeichen 32/22 B - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Straßen- und Wegekonzept 2022 bis 2026 - Kenntnis genommen
+- TOP -: Straßen- und Wegekonzept 2022 bis 2026 - Kenntnis genommen
+- TOP 7.1.2: Schülerzahlen zum Schuljahr 22/23 an der GGS Amandusstraße - Kenntnis genommen
+- TOP -: Anfrage AN/0159/2022 Schülerzahlen zum Schuljahr 22/23 an der GGS Amandusstraße - Kenntnis genommen
+- TOP 7.1.3: Etablierung einer Suchtberatungsstelle im Bezirk Chorweiler - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage "Etablierung einer Suchtberatungsstelle im Bezirk Chorweiler" AN/1992/2022 - Kenntnis genommen
+- TOP 7.1.4: Zukunftsperspektiven der Jugendeinrichtungen im Bezirk Chorweiler - zurückgestellt
+- TOP -: Zukunftsperspektiven der Jugendeinrichtungen im Bezirk Chorweiler AN/1833/2022 - zurückgestellt
+- TOP 7.2: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2.1: Einrichtung eines Grillplatzes bzw. einer Grillhütte in Köln-Langel
+- TOP 7.2.2: Verwahrloste Grünfläche an der Johannes-Albers-Straße
+- TOP 7.2.3: Energiesicherheit für Fernwärme im Bezirk Chorweiler
+- TOP 7.2.4: Absicherung des Brückeendes Toni-Welter-Straße / Volkhovener-Weg
+- TOP 7.2.5: Nutzung des Schrottplatzes, Causemannstr Ecke Emdener Str.
+- TOP 7.2.6: Eröffnung Grundschule Volkhoven/Weiler
+- TOP 7.2.7: Parkgelände Volkhoven/Weiler
+- TOP 7.2.8: Durchfahrverbot Neusser Landstraße
+- TOP 7.2.9: Sachstand Blumenbergsweg
+- TOP 7.2.10: Anhäufungen von Sperrmüll auf öffentlichen Straßen im Kölner Norden
+- TOP 7.2.11: Dächer des Einkaufszentrums Heimersdorf
+- TOP 7.2.12: Alte Neusser Landstrasse 273 „Haus Worringen“ und zugehörige Liegenschaften in der Elkemannstrasse.
+- TOP 7.2.13: Fahrrawege im Stadtbezirks Chorweiler
+- TOP 7.2.14: Veranstaltungsprogramm 2022 Fühlinger See
+- TOP 7.2.15: Installierung eines Wasser- und Stromanschlusses auf dem Platz in Auweiler
+- TOP 7.2.16: Raser auf der Brücke Mercatorstr/ Zubringer nach Pesch
+- TOP 7.2.17: Regenerative Energie-Erzeugung im Bezirk Chorweiler
+- TOP 7.2.18: Wochenmarkt Chorweiler
+- TOP 7.2.19: Insel im Pescher See
+- TOP 7.2.20: Kataster für Ausgleichsflächen
+- TOP 7.2.21: Fehlende Schulbau-Baumaßnahmen im Bezirk Chorweiler in der Haushaltsplanung 2023/24
+- TOP 7.2.22: Nutzung öffentlicher Flächen im Stadtbezirk Chorweiler
+- TOP 7.2.23: Sicherheit der Brücken auf der Fritz-Wacker-Straße
+- TOP 7.2.24: Sachstand Prüfung weiterer Fahrradverleihstationen
+- TOP 7.2.25: Grünstreifen zwischen Liller Straße und Oxforder Passage / Eingang Hallenbad Chorweiler
+- TOP 7.3: Neue Anfragen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Aufhebung eines Beschlusses aus der Sitzung der Bezirksvertretung Chorweiler vom 04.11.2021 - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 242. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 6, Köln-Chorweiler Hier: Anhörung der Bezirksvertretung BV 6 zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur 242. Änderung des Flächennutzung - ungeändert empfohlen
+- TOP 9.2.2: Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden Vorlagen-Nummer AN/0648/2022 - mit Änderungen empfohlen
+- TOP 9.2.2.1: Änderungsantrag zu TOP 9.2.2 - ungeändert empfohlen
+- TOP 9.2.3: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Kolmarer Str. 55 in 50769 Köln-Merkenich - Baubeschluss - mit Änderungen empfohlen
+- TOP 9.2.4: Städtebauliches Planungskonzept mit dem Arbeitstitel: „Hotelneubau am Freizeitbad Aqualand in Köln-Chorweiler“, Anhörung der Bezirksvertretung Chorweiler zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur - ungeändert beschlossen
+- TOP 9.2.5: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 9.2.6: Generalinstandsetzung Kindertagesstätte Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven - Weiterplanungsbeschluss - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baulicher Zustand der Lehrschwimmbecken in Köln
+- TOP 10.2.2: Weitere Planung der Kinder- und Jugendpartizipation in Köln
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
