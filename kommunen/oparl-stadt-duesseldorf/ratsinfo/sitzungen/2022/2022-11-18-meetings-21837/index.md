@@ -1,0 +1,88 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-18T14:00:00+01:00
+- Ende: 2022-11-18T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21837
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21837
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465827.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465827.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00465827.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung von Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift über die gemeinsame Sitzung des Ausschusses für Planung und Stadtentwicklung und der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 30.09.2022 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Bürgeranträge gemäß § 24 GO NRW
+- TOP 4.1: Beschilderung der Schadowstraße - mehrheitlich abgelehnt
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Vorstellung Citymanagement durch Frank Hermsen - zur Kenntnis genommen
+- TOP 5.2: Vorstellung Kulturamt der Zukunft und der Amtsleiterin des Kulturamtes Angélique Tracik - zur Kenntnis genommen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Sternstraße – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 5.5: Blücherstraße – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 5.6: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - Empfehlung einstimmig beschlossen
+- TOP 5.7: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2023 - Empfehlung abweichend beschlossen
+- TOP 5.8: Trödelmärkte auf dem Gelände des Großmarktes im 1. Halbjahr 2023 - einstimmig beschlossen
+- TOP 5.9: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2022 - abweichend beschlossen
+- TOP 5.10: Übertragung von Restmitteln aus den Budgetkonten 52415100 - 52416000 Liste B) des Jahres 2022 in das Haushaltsjahr 2023 - einstimmig beschlossen
+- TOP 5.11: Übertragung von Verfügungsmitteln des Jahres 2022 ins Haushaltsjahr 2023 - einstimmig beschlossen
+- TOP 5.12: Städtebaulicher Wettbewerb Nr. 01/025 - Hans-Böckler-Straße 39 - Empfehlung einstimmig beschlossen
+- TOP 5.13: Plan Nr. 01/028 - Schadowstraße - Satzung über ein besonderes Vorkaufsrecht - Empfehlung einstimmig beschlossen
+- TOP 5.14: Zulassung einer Vertretung des Behindertenrates - einstimmig beschlossen
+- TOP 5.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2022 - einstimmig beschlossen
+- TOP 5.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Sondernutzungen auf der Schadowstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 6.2: Lückenschluss im Radhauptnetz – 100 Meter Radfahrstreifen und Ausbau Knotenpunkt an der Eulerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - zur Kenntnis genommen
+- TOP 6.3: Begrünungskonzept für die Schadowstraße (Bereich zwischen Berliner Allee und Jacobistraße) - Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Leerstand Louise-Dumont-Straße 17 - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 7.2: Verkehrsführung Nordstraße, Ecke Venloer Straße und Duisburger Straße - Anfrage der SPD-Fraktion
+- TOP 7.3: Mülleimerverteilung im öffentlichen Raum in Stadtmitte - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Sachstandsbericht Worringerplatz - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7.6: Aalschocker im Alten Hafenbecken - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7.7: Straßenlaternen auf der Sternstraße - Anfrage der CDU-Fraktion
+- TOP 7.8: Baugerüst am Parkhaus Am Wehrhahn - Anfrage der CDU-Fraktion
+- TOP 8: Anträge
+- TOP 8.1: Kennzeichnung Elektroladesäulen - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.2: Lärmschutz auf der Venloer Straße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.3: Querungsschutz Kreuzung Nordstraße / Duisburger Straße / Venloer Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.4: Behinderungen auf dem Gehweg Ulmenstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.5: Ampelphase Fußgänger Oststraße/Immermannstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.6: Mülleimeraufstellung Kreuzung Marienstraße / Kreuzstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.7: Heinrich-Heine-Platz - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.8: Pultstelle zur Erläuterung der Geschichte des 39ziger Füsilier-Denkmals auf dem Reeser Platz - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.9: Zusatzschild zum neuen Straßenschild Erna-Scheffler-Straße - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 8.10: Fehlende Schilder auf der Kaiserswerther Straße - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 8.11: Sportanlage am Frankenplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.12: Ausschaltung der Ampel der Querstraßen zwischen 01:00-05:00 Uhr - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8.13: Geländer an der Düssel an der Prinz-Georg-Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.14: Wiederaufstellung der Uhr an der Nordstraße, Ecke Venloer Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.15: Umgestaltung des kleinen Platzes zwischen Nordstrasse, Venloerstrasse und Kaiserswerther Strasse - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 9: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 9.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 9.2: Energie-Sparprogramm der Landeshauptstadt Düsseldorf - Hier: Vorstellung der Maßnahmen des Krisenstabes; Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/175/2022 - zur Kenntnis genommen
+- TOP 9.3: Entfernung zweier Masten auf der Kasernenstraße; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/082/2022 - zur Kenntnis genommen
+- TOP 9.4: Schulwegsicherheit Essener Straße; Anfrage der Bezirksvertretung 1 vom 10.09.2021; BV1/182/2021 - zur Kenntnis genommen
+- TOP 9.5: Maßnahmen zur Einhaltung von Tempo 30 auf der Franklinstraße; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/050/2022 - zur Kenntnis genommen
+- TOP 9.6: Verkehrssituation Toulouser Allee - Zufahrtsstraße; Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/188/2022 - zur Kenntnis genommen
+- TOP 9.7: Fußgängerüberweg Tannenstraße; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/046/2022 - zur Kenntnis genommen
+- TOP 9.8: Ausstattung der Gedenkstätte Schinkelstraße; Beschluss der Bezirksvertretung 1 vom 28.06.2019; 171/157/2019 - zur Kenntnis genommen
+- TOP 9.9: Versetzung der Einbahnstraßenschilder an der Nordstraße, Ecke Schwerinstraße; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/128/2022 - zur Kenntnis genommen
+- TOP 9.10: Neugestaltung des Rochusmarkts; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/141/2022 - zur Kenntnis genommen
+- TOP 9.11: Entfernung der Radwegmarkierung auf dem östlichen Gehweg entlang der Fischerstraße, Beschluss der Bezirksvertretung 1 vom 30.09.2022; BV1/223/2022 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Mintropolis e.V. - einstimmig beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Förderverein der Paul-Klee-Grundschule - einstimmig beschlossen
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf 1655 e.V. - einstimmig beschlossen
+- TOP 10.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt-Armenküche e.V. - einstimmig beschlossen
+- TOP 10.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Katholischer Gefängnisverein Düsseldorf e.V. - einstimmig beschlossen
