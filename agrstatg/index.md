@@ -222,7 +222,7 @@
 ### Abschnitt 14 Düngemittelstatistik
 
 - [§ 88 Erhebungseinheiten](0088.md)
-- [§ 89 Erhebungsart, Periodizität, Merkmale](0089.md)
+- [§ 89 Erhebungsart, Periodizität](0089.md)
 - [§ 90 Erhebungsmerkmale und Berichtszeitraum](0090.md)
 
 ## Teil 3 Gemeinsame Vorschriften
