@@ -1,0 +1,75 @@
+# 14. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-21T15:00:00+01:00
+- Ende: 2022-11-21T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25147
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25147
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Bestellung einer neuen Schriftführung
+- TOP -: Bestellung der Schriftführung für den Ausschuss Schule und Weiterbildung - ungeändert beschlossen
+- TOP -: A. Rechtsanspruch auf Ganztagsbetreuung ab 2026, Präsentation, Amt für Schulentwicklung - Kenntnis genommen
+- TOP -: B. Ergebnisse der Kölner Elternbefragung 2022 „von 4 nach 5“ - Kenntnis genommen
+- TOP -: C. Bericht zur aktuellen Lage der Ukraine-Geflüchteten - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zum 10. Nachtrag - ungeändert empfohlen
+- TOP 2.2: Sanierung und Neubau der Turnhalle an der Gesamtschule Chorweiler - Anfrage von RM Aengenvoort aus der Sitzung vom 26.09.2022 (vormals TOP 5.10) - Kenntnis genommen
+- TOP 2.3: Helios-Gesamtschule; hier: Schulcontainer - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Vorgezogenes Interim: Gesamtschule Fitzmauricestraße - endgültig zurückgezogen
+- TOP -: AN/1659/2022 Vorgezogenes Interim: Gesamtschule Fitzmauricestraße - Kenntnis genommen
+- TOP 3.2: Baurunden an Schulen - geändert beschlossen
+- TOP -: Stellungnahme zum Antrag AN/1966/2022 der FDP-Fraktion aus der Sitzung des Ausschusses Schule und Weiterbildung am 21.11.2022 - Baurunden an Schulen - Kenntnis genommen
+- TOP -: AN/1966/2022 Baurunden an Schulen - ungeändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Fälschungssichere Schulbescheinigungen - Kenntnis genommen
+- TOP 4.2: RiSU - zurückgestellt
+- TOP 4.3: Aktueller Sachstand „Grünes Klassenzimmer“ am Berufskolleg Südstadt - zurückgestellt
+- TOP 4.4: Verkehrsanbindung der Internationalen Friedensschule Köln an neuem Standort Rudi-Conin-Straße - Kenntnis genommen
+- TOP 4.5: Evaluierung der Covid-Testungen an den Kölner Schulen sowie zukünftige Vorge-hensweise mit Tests bei erneuter Verschärfung der Coronamaßnahmen - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage zum Thema "Covid-Testungen an den Kölner Schulen" (AN/2030/2022) - Kenntnis genommen
+- TOP 4.6: Gewalt- und Amokprävention an Schulen in Köln - zurückgestellt
+- TOP 4.7: Kooperation zwischen LVR und Stadt Köln zur Realisierung inklusiver Bildung - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Beantwortung einer mündlichen Anfrage von Stefanie Ruffen aus der Sitzung des ASW vom 22.08.2022 zu Vorlage Nr. 0346/2022 - Kenntnis genommen
+- TOP 5.2: Beantwortung einer mündlichen Anfrage von RM Seeck betreffend "Baulicher Zustand des Gymnasiums Kreuzgasse, Vogelsanger Straße 1" - Kenntnis genommen
+- TOP 5.3: Verschiedene Aspekte der Inklusionsentwicklung an Kölner Schulen - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/1393/2022 Verschiedene Aspekte der Inklusionsentwicklung an Kölner Schulen - zurückgestellt
+- TOP 5.4: Errichtung eines Schulinterimbaus für eine neue Gesamtschule auf der Vogelsanger Straße - Nachfrage von RM Seeck aus dem Ausschuss Schule und Weiterbildung zu 1262/2022/1 - Kenntnis genommen
+- TOP 5.5: Fälschungssichere Schulbescheinigung; Anfrage AN/1733/2022 - Kenntnis genommen
+- TOP 5.6: Schulstandort Cäsarstraße in Bayenthal - Franziskusschule und Maria-Sybille-Merian-Schule - Kenntnis genommen
+- TOP 5.7: Beantwortung einer mündlichen Anfrage der FDP aus der Sitzung des Gesundheitsausschusses vom 23.08.2022 "Nachfrage nach Luftfiltern statt Lüften" - Kenntnis genommen
+- TOP 5.8: Schulformwechsel an Kölner Schulen und seine Folgen - zurückgestellt
+- TOP 5.9: Beschaffung iPads Lehrende an Grundschulen Beantwortung AN/1647/2022 - Kenntnis genommen
+- TOP 5.10: Sanierung und Neubau der Turnhalle an der Gesamtschule Chorweiler - Anfrage von RM Aengenvoort aus der Sitzung vom 26.09.2022 - Kenntnis genommen
+- TOP 6: Empfehlungen (Beschlussorgan Rat oder andere Ausschüsse)
+- TOP 6.1: Städtebauliches Planungskonzept "Dorotheenstraße" in Köln-Porz Anhörung zur Unterrichtung der Öffentlichkeit, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - ungeändert empfohlen
+- TOP 6.2: Generalinstandsetzung Kindertagesstätte Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven - Weiterplanungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 6.3: Weiterführung des Projekts Brückenbauer* - ungeändert empfohlen
+- TOP 6.4: Erweiterung des Bildungsganges Einjährige Berufsfachschule im Fachbereich Technik/ Naturwissenschaften am Hans-Böckler-Berufskolleg in Köln-Deutz zum Schuljahr 2023/24 - ungeändert empfohlen
+- TOP 7: Entscheidungen (Beschlussorgan Ausschuss Schule und Weiterbildung)
+- TOP 7.1: Planungsbeschluss_Mensa-Neubau GGS Merianstr. - ungeändert beschlossen
+- TOP 7.2: Anmeldeverfahren für die weiterführenden Schulen im Schuljahr 2023/24 - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Baulicher Zustand der Lehrschwimmbecken in Köln - zurückgestellt
+- TOP 8.2: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 8.3: Machbarkeitsstudie zum Neubau des Hölderlin-Gymnasiums an der Graf-Adolf-Straße - Kenntnis genommen
+- TOP 8.4: Konzept des Kooperativen Kinder- und Jugendbüros - Kenntnis genommen
+- TOP 8.5: Sportentwicklungsplanung: Sachstand intersektorale Zusammenarbeit bei Sporthallenprojekten - Kenntnis genommen
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Generalinstandsetzung der Schulgebäude des Berufskollegs Ulrepforte - Prüfergebnis zu Passivhausstandard, Photovoltaik und Dachbegrünung - Kenntnis genommen
+- TOP 8.8: Elternbefragung "von4nach5" 2022 - Kenntnis genommen
+- TOP 8.9: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2021/22 - zurückgestellt
+- TOP 8.10: Informationen zur Nutzung von iPads als Lehrer*innen-Endgeräte - Kenntnis genommen
+- TOP 8.11: Ferienschwimmkurse Sommer- und Herbstferien bzw. Schwimmlernprogramm - Kenntnis genommen
+- TOP 8.12: "Stärkungspakete" zum Ausbau der Schulplätze an Gymnasien und Gesamtschulen - Kenntnis genommen
+- TOP 8.13: Anmeldeverfahren Sekundarstufe I 2022-23 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
