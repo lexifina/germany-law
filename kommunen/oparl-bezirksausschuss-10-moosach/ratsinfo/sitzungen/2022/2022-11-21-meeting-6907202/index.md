@@ -1,0 +1,62 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-11-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6907202
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6907202
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Verparkung der Einfahrten zum Kirchenparkplatz von St. Mauritius in der Templestraße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Eckehartstr. 2
+- TOP 3.3.1.2.: Triebstr. 11a
+- TOP 3.3.1.3.: Kapellenäckerstr. 11
+- TOP 3.3.1.4.: Pelkovenstr. 47
+- TOP 3.3.1.5.: Allacher Straße (Schulbauoffensive)
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Allacher Str. 137
+- TOP 3.3.2.2.: Bärlauchweg 25
+- TOP 3.3.2.3.: Feichtmayrstr. 4
+- TOP 3.3.2.4.: Nanga-Parbat-Straße
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Künstlerische Zwischennutzung der leerstehenden Kioske im Zwischengeschoss der U-Bahn-Statioen "Westfriedhof" und "Moosach Bahnhof"
+- TOP 4.1.2.: Errichtung von Schließfächern am Moosacher Bahnhof
+- TOP 4.1.3.: Änderung der Vorfahrtsregelung in der Netzerstrasse nach Verlegung der Buslinie 51, Aufhebung der Bushaltestellen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Förderverein der Mittelschule München Moosach Ausbildung der Streitschlichter vom 10.-14.10.2022 890,00 € / Az. 0262.0-10-0307
+- TOP 5.2.: (E) Stadtbezirksbudget Initiative „Wandgestaltung“ Wandgestaltung der Unterführung am Willi-Gephardt-Ufer 2.200,00 € / Az. 0262.0-10-0308
+- TOP 5.3.: (E) Stadtbezirksbudget Moosacher Faschingsclub München e.V. Faschingssaison 2022/2023 vom 01.10.2022 – 31.03.2023 7.000,00 € / 0262.0-10-0306
+- TOP 5.4.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 am Sportplatz Olympia vom 01.01.2023 -31.12.2023 7.980,00€; Az. 0262.0-10-0312
+- TOP 5.5.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 am Sportplatz Amicita vom 01.01.2023 -31.12.2023 7.980,00€; Az. 0262.0-10-0311
+- TOP 5.6.: (E) Stadtbezirksbudget Soziale und kulturelle Organisation Omid Munich Journal – Das Magazin für Deutschland, Europa und die Welt 999,20 € / Az. 0262.0-10-0303
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anfrage: Öffnung und Renaturierung des Reigersbaches (-> Wiedervorlage aus der Sitzung am 24.10.2022)
+- TOP 6.2.: Austausch einer Lichtsignalanlage (LSA)- Standort Dachauer-/ Max-Born-Str.
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Linientausch der Trambahn-Linien 20 und 21 [BA-Antrag Nr. 20-26/B 02415; nicht ausreichend grosse Traktionszüge und zusätzliche Fahrzeugkapazität auf östlichem Linienast nicht nachfragegerecht.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: 1. Dachauer Str. 278: Errichtung allgemeiner Schwerbehindertenparkplatz
+- TOP 8.2.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 8.3.: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 8.4.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 8.5.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 8.6.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 8.7.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 8.8.: Mitteilung über ein Grundstücksgeschäft: - nicht-öffentlich - Feichtmayrstraße (Verkauf)
+- TOP 6.3.: Entwurf Beschlussvorlage: Regionale GesundheitsTreffs - Gesundheitsvorsorge in Freiham, Moosach und Neuperlach
+- TOP 4.: Anträge
