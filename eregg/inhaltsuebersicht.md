@@ -6,7 +6,6 @@ Allgemeine Bestimmungen
 | § 2 | Ausnahmen und Befreiungen von den Entflechtungsvorgaben |
 | § 2a | Ausnahmen und Befreiungen von den Entgelt- und Zuweisungsvorschriften für Eisenbahnanlagen |
 | § 2b | Ausnahmen und Befreiungen von den Entgelt- und Zuweisungsvorschriften für Serviceeinrichtungen |
-| § 2c | Ausnahme für Schienennetze ohne strategische Bedeutung |
 | § 3 | Ziele der Regulierung |
 | § 4 | Betriebs- und Geschäftsgeheimnisse |
 Kapitel 2
@@ -104,7 +103,6 @@ Regulierungsbehörde
 Kapitel 5
 Übergangsvorschriften
 | § 80 | Übergangsvorschriften |
-| § 81 | (weggefallen) |
 | Anlage 1 | Verzeichnis der Eisenbahnanlagen |
 | Anlage 2 | Für die Eisenbahnverkehrsunternehmen zu erbringende Leistungen |
 | Anlage 3 | Inhalt der Schienennetz-Nutzungsbedingungen |
