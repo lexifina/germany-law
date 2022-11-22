@@ -1,0 +1,8 @@
+# TOP 8: Die römischen Militärlager in Gnadental. Historisches Erbe der Neusser und Weltkulturerbe der UNESCO
+
+- Sitzung: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal (2022-11-22)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/205909
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/31157
