@@ -1,0 +1,59 @@
+# Ausschuss für Verkehr und Mobilität (10. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-11-22T18:00:00+01:00
+- Ende: 2022-11-22T21:15:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-261
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeHe-kkevkJjeph7E3cLyHc
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7509
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaF8oP70fWqWA4CShRV7H26nfKRD8jvbs36TnHs7mvXL/Bekanntmachung_Ausschuss_fuer_Verkehr_und_Mobilitaet_22.11.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVKmTiLk2JwAN6x6REExenM76LpjCk9b5mu-VnoxGCWq/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr_und_Mobilitaet_22.11.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 13.09.2022
+- TOP 2.: Haushaltssatzung 2023 hier: Entwurf Haushaltsplan 2023 Sachgebiet Verkehr und Mobilität im TEP 1207, 5403 und 5404 Bezug: Rat vom 31.10.2022, TOP 5
+- TOP 3.: Aufhebung Sperrvermerk zu Gunsten TEP 1207 - (kein Text vorhanden)
+- TOP 4.: Anregung nach § 24 GO NRW; hier: Verkehrssituation Bonnstraße, Bereich Brühl-Schwadorf Bezug: Antrag vom 09.09.2022
+- TOP 4.1: Verkehrssituation Bonnstraße, Bereich Brühl-Schwadorf Bezug: VL 431/2022 Anregung nach § 24 GO NRW; hier: Verkehrssituation Bonnstraße, Bereich Brühl-Schwadorf
+- TOP 5.: Bike- und Lastenrad-Sharing in Brühl - (kein Text vorhanden)
+- TOP 6.: Zweigleisiger Ausbau Linie 18 - Kostenübernahme Planungsleistungen - (kein Text vorhanden)
+- TOP 7.: EMW 2023 in Brühl und Verkehrsexperiment Belvedere-Parkplatz/Kölnstraße
+- TOP 8.: Rückbau Kreisverkehr Brühl-Ost Bezug: VL 139/2022 "Verkehrsoptimierung Brühl-Ost" - (kein Text vorhanden)
+- TOP 9.: Mitteilungen
+- TOP 9.1: Vorstellung neuer Mitarbeiter Abteilung 61/3
+- TOP 9.2: Rückmeldung der Autobahn GmbH zu Lärmuntersuchung
+- TOP 9.3: Sachstandsbericht Radwegeplanung an der B265
+- TOP 9.4: Update zu geplanten E-Scooter-Stationen
+- TOP 9.5: Einrichtung von Fahrradzählstellen geplant
+- TOP 9.6: Verbesserungsmaßnahmen an den Querungsstellen Daberger Weg und Mühlenbach für die Radroute Villebahn
+- TOP 9.7: Vorstellung Fahrradstraßenkonzept geplant
+- TOP 9.8: P & R Anlage in Schwadorf
+- TOP 9.9: Update zu den Projekten Schulstraße / Talstraße und Berliner Ring
+- TOP 9.10: Aktualisierung Stellplatzsatzung
+- TOP 9.11: Nachfrage zu On-Demand-System der REVG
+- TOP 9.12: Berichtspunkt der Stadtwerke im Verkehrsausschuss
+- TOP 9.13: Liste unerledigter Beschlüsse
+- TOP 10.: Anfragen
+- TOP 10.1: Intelligente Ampelschaltungen Bezug: Anfrage der AfD-Fraktion vom 13.10.2022
+- TOP 10.1.1: Intelligente Ampelschaltungen Bezug: VL 477/2022 Anfrage der AfD-Fraktion vom 13.10.2022
+- TOP 10.2: Langzeitparker vor dem Schwadorfer Friedhof
+- TOP 10.3: Fahrradwegeführung an der Baustelle K7
+- TOP 10.4: Nachfrage geplante Carsharing-Standorte in Badorf und Schwadorf
+- TOP 10.5: Sachstand Polleranlage in Brühl Mitte
+- TOP 10.6: Planungen zu Erweiterungen des ÖPNV-Angebotes an Sonntagen
+- TOP 10.7: Rückfrage zu geplanten Maßnahmen an der Gesamtschule
+- TOP 10.8: Nachfrage zu Beratungsfolge Vorlage Immendorfer Straße aus AfBUK
+- TOP 10.9: Rückfrage zu bewilligten Fördermitteln für Maßnahme an der Hedwig-Gries-Straße
+- TOP 10.10: Maßnahmen zu Talstraße / Schulstraße und Berliner Ring im Haushalt 2023
+- TOP 10.11: Nachfrage zu Sitzmöbel in der nördlichen Kölnstraße
+- TOP 10.12: Rückfrage zu Neugestaltung Pingsdorfer Straße
+- TOP 10.13: Rückfrage zu öffentlichen Ladestationen auf dem Belvedere
+- TOP 10.14: Möglichkeit einer Berichterstattung der Stadtwerke im nichtöffentlichen Sitzungsteil
+- TOP B): Nichtöffentliche Sitzung
+- TOP 11.: Mitteilungen
+- TOP 12.: Anfragen
