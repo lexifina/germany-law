@@ -1,0 +1,6 @@
+# TOP 7.: Weihnachtsbaum und Adventskranz im Dorfmittelpunkt
+
+- Sitzung: Ortsbeirat Retterode (6. Sitzung) (2022-11-22)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/7754
