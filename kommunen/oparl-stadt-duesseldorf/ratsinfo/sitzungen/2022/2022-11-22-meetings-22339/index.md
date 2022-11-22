@@ -1,0 +1,65 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-22T17:05:00+01:00
+- Ende: 2022-11-22T20:15:00+01:00
+- Ort: Sitzungssaal Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf Beginn: 17:00 Uhr
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22339
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22339
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00466998.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00466998.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00466998.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 4.3: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - Empfehlung abweichend beschlossen
+- TOP 4.4: "Garath 2.0 - Mauergestaltung im Zentrum" - zur Kenntnis genommen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 1. Halbjahr 2023 - einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Heimatverein Garather Jonges 1969 e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für das Kinderparlament Garath - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.9: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.10: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die GGS Neustrelitzer Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.11: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung des Garather Weihnachtsmarktes - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.12: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - vertagt
+- TOP 4.13: Übertragung der zum Jahresende 2022 nicht verausgabten Verfügungsmittel in das Jahr 2022 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.14: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - Empfehlung abweichend beschlossen
+- TOP 4.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - Haushalt 2022 - Liste A) Schulen 21 211 01 52416000 - einstimmig beschlossen
+- TOP 4.16: Bezirklicher Bauunterhalt - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Sonstige Gebäude, Haushalt 2022 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Wohnumfeldverbesserung im Burgviertel - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.2: Heizkraftwerk Garath - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Stellplatzverpflichtung Tedi-Markt, Ricarda-Huch-Straße 33 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Fehlende Informationen zu bedeutsamen Ereignissen im Bezirk - Gemeinsame Anfrage der SPD und CDU Fraktionen - - schriftlich beantwortet
+- TOP 6.2: Fehlende Antwort zur Anfrage BV10/105/2022 vom 30.8.2022 - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.3: Sachstand Grünordnungsplan II für den Stadtbezirk 10 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.4: Wärmeplanung im Stadtbezirk 10 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Informationen über bedeutsame Angelegenheiten im Bezirk 10 - Gemeinsamer Antrag der SPD und CDU Fraktionen - - einstimmig beschlossen
+- TOP 7.2: Einladung der Schulleiter des Koblenzer Gymnasiums und der Realschule Theodor-Litt-Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Vergabepraxis der städtischen Vergünstigungen - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 7.4: Kennzeichnung der neuen E-Ladeparkplätze - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Kurzfristige Optimierung des ÖPNV-Angebots - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.6: Barrierefreie kurze Verbindung zwischen Frankfurter Straße und Garather Schlossallee - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.7: Verbesserung alternativer Mobilitätsangebote im Quartier Wilhelm-Kreis-Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich abgelehnt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Austausch der kaputten Bank in der Ingeborg-Bachmann-Straße - Informationsvorlage zum Beschluss BV10/104/2022 vom 30.08.2022 - - zur Kenntnis genommen
+- TOP 8.2: Prüfung Quartiersgarage Reinhold-Schneider-Straße - Informationsvorlage zum Beschluss BV10/053/2022 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 8.3: Ersatzpflanzungen Ringstraße Garath-Südost - Informationsvorlage zum Beschluss BV10/134/2022 vom 27.09.2022 - - zur Kenntnis genommen
+- TOP 8.4: Beleuchtung des Fuß- und Radwegs an der Koblenzer Straße - Informationsvorlage zum Beschluss BV10/084/2022 vom 31.05.2022 - - zur Kenntnis genommen
+- TOP 8.5: Information der Verwaltung zur Attraktivierung des Nebenzentrums Garath Burgviertel (Südwest) - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.6: Ausbau Glasfaser- und Stromnetz in Hellerhof kombinieren - Informationsvorlage zum Beschluss BV10/116/2022 vom 30.08.2022 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
