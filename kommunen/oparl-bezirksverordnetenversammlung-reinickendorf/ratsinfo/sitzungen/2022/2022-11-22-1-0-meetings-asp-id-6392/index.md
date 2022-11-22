@@ -1,0 +1,53 @@
+# 10. öffentliche Sitzung des Ausschusses für Verkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2022-11-22T17:00:00+01:00
+- Ende: 2022-11-22T19:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=86
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6392
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6392
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=428850
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Genehmigung der Niederschrift der 8. Sitzung vom 27.09.2022 sowie der 9. Sitzung vom 29.09.2022 - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Besprechungspunkte - (offen)
+- TOP 3.1: Maßnahmen zur Senkung der Anzahl tödlicher Verkehrsunfälle in Reinickendorf, insbesondere im Bereich des Fuß- und Radverkehrs - erledigt
+- TOP 3.2: Sperrung der Straße R für Radfahrende und Mobilitätseingeschränkte - erledigt
+- TOP 4: Beratung von Drucksachen - (offen)
+- TOP 4.1: Tempo 30 in der Straße "Am Dachsbau" in Heiligensee - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.2: Warenanlieferung in Alt-Tegel neu organisieren - vertagt
+- TOP 4.3: Aufnahme in das Vorrangnetz des Radverkehrs - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.4: Sicher mit dem Fahrrad von Tegel nach Lübars III - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.5: Mehr Sicherheit im Dunkeln auf dem Saalmannsteig - mit Änderungen im Ausschuss beschlossen
+- TOP 4.6: Daten aus Dialogdisplays der Öffentlichkeit zur Verfügung stellen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.7: Abordnung des Gehwegparkens auf der Burgfrauenstraße zurückstellen - vertagt
+- TOP 4.8: Kreuzung Waidmannsluster Damm/Ziekowstraße sicherer gestalten - vertagt
+- TOP 4.9: Anbindung an die Heidekrautbahn - vertagt
+- TOP 4.10: Das denkmalgeschützte Alt-Lübars umfahren! - vertagt
+- TOP 4.11: Radweg in der Humboldtstraße sanieren - vertagt
+- TOP 4.12: Elektrokleinbusse für Randortsteile einsetzen - vertagt
+- TOP 4.13: Burgfrauenstraße I - vertagt
+- TOP 4.14: Burgfrauenstraße II - vertagt
+- TOP 4.15: Umsteigepunkt U-Bahnhof Alt-Tegel barrierefrei umgestalten - vertagt
+- TOP 4.16: Verkehrssicherheit in der Schulzendorfer Straße wieder herstellen - vertagt
+- TOP 4.17: Verkehrsberuhigung im Öschelbronner Weg - vertagt
+- TOP 4.18: Hybrid-Oberleitungsbus zwischen Spandau und dem Schumacher Quartier - vertagt
+- TOP 4.19: SimRa: Sicherheit im Radverkehr - vertagt
+- TOP 4.20: Zebrastreifen für den Waldsee-Spielplatz errichten - vertagt
+- TOP 4.21: Projekt Laternen-Ladesäulen in Reinickendorf etablieren - vertagt
+- TOP 4.22: Geschwindigkeitsanzeige am Waldsee reparieren - vertagt
+- TOP 4.23: Fußgängerzone Gorkistraße - Überdachung und Sitzplätze für die Bushaltestelle Buddestraße - vertagt
+- TOP 4.24: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm / Martin-Luther-Straße - vertagt
+- TOP 4.25: Instandsetzung und Pflege der Reinickendorfer Radwege Nr. 1 - 6 - vertagt
+- TOP 4.26: Verkehrsberuhigter Geschäftsbereich Heinsestraße - vertagt
+- TOP 4.27: Verkehrszählgeräte - vertagt
+- TOP 4.28: Anbindung des Schumacher Quartiers an den ÖPNV - vertagt
+- TOP 4.29: Vorratsbauwerk für U6-Abzweig zur UTR bei Neubebauung des Einkaufszentrums Der Clou berücksichtigen - vertagt
+- TOP 4.30: Durchquerungsmöglichkeiten für Flughafengebiet - vertagt
+- TOP 5: Bericht aus dem Bezirksamt - erledigt
+- TOP 6: Verschiedenes - erledigt
