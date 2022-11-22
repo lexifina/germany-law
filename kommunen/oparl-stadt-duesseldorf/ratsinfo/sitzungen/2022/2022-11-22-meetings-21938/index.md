@@ -1,0 +1,79 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-22T16:00:00+01:00
+- Ende: 2022-11-22T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21938
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21938
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1, Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00467709.pdf
+- Ergebnisprotokoll: 1, Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00467709.pdf
+- Wortprotokoll: 1, Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00467709.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift BV2/006/2022 vom 20.09.2022 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Fernwärmepumpstation Schillerplatz - mündliche Information - zur Kenntnis genommen
+- TOP 5: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - einstimmig beschlossen
+- TOP 6: Städtebaulicher Wettbewerb Nr. 02/017 - Sohnstraße 45 - Empfehlung abweichend beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Birkenstraße – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (ListeB) - einstimmig beschlossen
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste B) - einstimmig beschlossen
+- TOP 17: Neue Mikrofonanlage für den Sitzungssaal der Bezirksvertretung 2 - einstimmig beschlossen
+- TOP 18: Konzepterstellung Schulwegsituation Brehmschule durch ein externes Büro - mehrheitlich abgelehnt
+- TOP -: Anträge
+- TOP 19: Aufstellung eines Trinkwasserbrunnens im Stadt-Natur-Park Flingern - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Kurzzeitparken Rethelstraße - Antrag der FDP-Fraktion - zurückgezogen
+- TOP 22: Vorratsantrag Gewaltprävention an Grundschulen im Stadtbezirk - Antrag der Fraktion Bündnis 90 / Die Grünen - mehrheitlich beschlossen
+- TOP 23: Bezirksbezogene Haushaltsmittel für die städtische Gemeinschaftsgrundschule Flurstraße - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 24: Förderung der Präventionsstücke „Die große Nein-Tonne“ und „Mein Körper gehört mir“ an der GGS Flurstraße aus bezirksbezogenen Haushaltsmitteln - zurückgezogen
+- TOP 25: Zuschuss an die Städtische Gemeinschaftsgrundschule Flurstraße für die Präventionsstücke "Mein Körper gehört mir“ und „Die große Nein-Tonne“aus bezirksbezogenen Haushaltsmitteln - Antrag der Fraktion Bündnis 90 / Die Grünen - zurückgezogen
+- TOP 26: Übergänge Lindenstraße über Degerstraße - Antrag von Frai Dr. Müller-Klar - einstimmig beschlossen
+- TOP 27: Toilettenanlage für den Zoopark - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 28: Buddel-Löcher im Hundeauslaufplatz Hanielpark - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 29: Freigabe des Radweges in Fahrtrichtung Westen/stadteinwärts auf der südlichen Seite der Grafenberger Allee zwischen den Einmündungen der Engerstraße und der Lindenstraße - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 30: Herstellung der bislang fehlenden Fußgängerquerung mittels Zebrastreifen auf der nördlichen Luise-Rainer-Straße am Kreisverkehr, an dem Sie auf die Schlüterstraße trifft, inklusive der notwendigen Bordsteinabsenkungen.- Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 31: Erhöhung der pauschalen Zuwendung für die Durchführung von Martinszügen aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 37: Fahrradweg Graf-Recke-Straße - Anfrage der FDP-Fraktion
+- TOP 38: Kosten und Erlöse der Anwohnerparkausweiszonen - Anfrage der CDU-Fraktion
+- TOP 39: Spielangebote für Kinder mit körperlichen oder kognitiven Einschränkungenn - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 40: Weiterer Ausbau der Parkraumbewirtschaftung im Bezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42: leerstehender früherer Brauereiausschank Im Tönnchen, Wetterstrasse 2/Ecke Lindenstrasse - Anfrage der CDU-Fraktion
+- TOP 43: leerstehende Immobilie Lindenstrasse 95/Ecke Ackerstrasse 111 - Anfrage der CDU-Fraktion - beantwortet
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 44: Blumenkübel Hans-Sachs-Straße - Anfrage der FDP-Fraktion
+- TOP 45: Entwicklung der Artenvielfalt auf den Grünstreifen entlang der Heinrichstraße - Anfrage der Fraktion Bündnis 90 / Die Grünen
+- TOP 46: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47: Neubau einer Schulmensa für die Brehmschule - Anfrage der Fraktion Bündnis 90 / Die Grünen
+- TOP 48: Erfahrungswerte Anwohnerparken - Anfrage der CDU-Fraktion
+- TOP 49: Tote Fische in der Düssel im Zoopark - Anfrage der CDU-Fraktion - beantwortet
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlage
+- TOP 52: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 53: Umsetzung des Beschlusses BV2/075/2022 – Bänke gegen Einsamkeit - einstimmig beschlossen
+- TOP 54: Neue Quartiersgaragen für den Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/053/2022 - zur Kenntnis genommen
+- TOP 55: Bahnhaltestelle „Uhlandstraße“ der Linie 708 auf der Beethovenstraße stadtauswärts - Beschluss der Bezirksvertretung 2, Vorlage BV2/142/2022 - zur Kenntnis genommen
+- TOP 56: Installation von Fahrrad-Reparatur-Stationen im Bezirk 02 - Beschluss der Bezirksvertretung 2, Vorlage BV2/138/2021 - zur Kenntnis genommen
+- TOP 57: Öffentliche Grünanlage "Stadt-Wald : Wald-Stadt" - Albertstraße - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
