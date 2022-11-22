@@ -1,0 +1,89 @@
+# 18. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-22T16:05:00+01:00
+- Ende: 2022-11-22T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25382
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25382
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung einer Sachkundigen Einwohnerin - Sache ist erledigt
+- TOP -: Einstellung des Stadtbahnbetriebs in weiten Teilen der Innenstadt am 11.11.2022 – Verkehrssicherheitskonzept für Großereignisse - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Ausfall der Baureihe 2300 und Einstellung des U-Bahn-Verkehrs am 11.11.2022 - Sache ist erledigt
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Dem Heimweg im Dunkeln sichern-Frauen-Nacht-Taxis
+- TOP -: Den Heimweg im Dunkeln sichern-Frauen-Nacht-Taxis
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Kitschburger Straße International - endgültig abgelehnt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Trasse RadPendlerRoute 4 (Troisdorf/Niederkassel – Köln - geändert beschlossen
+- TOP 3.2: Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - geändert beschlossen
+- TOP 3.2.1: Änderungsantrag zur Vorlage 2264/2022 - „Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung“ - endgültig zurückgezogen
+- TOP 3.2.2: Änderungsantrag zu TOP 3.5 - Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - endgültig zurückgezogen
+- TOP 3.2.3: Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - endgültig zurückgezogen
+- TOP 3.2.4: Änderungsantrag der FRAKTION zu AN/1472/2022 - endgültig zurückgezogen
+- TOP 3.2.5: Änderungsantrag zu TOP 3.2 - Dauerhafte Sperrung der Deutzer Drehbrücke nach der Sanierung - ungeändert beschlossen
+- TOP 3.3: Planungsbeschluss: Verkehrliche und gestalterische Optimierung der Aachener Straße in Braunsfeld - zurückgestellt
+- TOP 3.4: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2023 - 2027 - geändert beschlossen
+- TOP 3.5: Bedarfsfeststellung zur Erweiterung des bestehenden Wartungs- und Pflegevertrages - ungeändert beschlossen
+- TOP 3.6: Bedarfsfeststellungsbeschluss zur Erneuerung und den Betrieb des Parkleitsystems Köln West/Stadion - ohne Votum in nachfolgende Gremien
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Satzung über die abweichende Herstellung der Erschließungsanlage Silbermöwenweg von Seeadlerweg bis Kolkrabenweg in Köln-Vogelsang - ungeändert empfohlen
+- TOP 4.2: Satzung über die Erhebung eines Erschließungsbeitrages für die erstmalige Herstellung der Immissionsschutzanlage Lärmschutzwand Josef-Kallscheuer-Straße entlang der Industriestraße und der Wattignystraße von Unter Buschweg bis Rodderweg in Köln-Sürth - zurückgestellt
+- TOP 4.3: 284. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.4: Strategie Klimaneutrales Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.4.1: Änderungsantrag „Strategie Klimaneutrales Köln“ - endgültig abgelehnt
+- TOP 4.5: Flächendeckendes Mobilstationsnetz - hier: weiteres Vorgehen - ungeändert beschlossen
+- TOP 4.6: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - zurückgestellt
+- TOP 4.7: Baubeschluss für den Neubau von vier stationären Verschlusseinrichtungen für den Hochwasserschutz von Stadtbahnanlagen in der Kölner Innenstadt - ungeändert empfohlen
+- TOP 4.8: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 68439/03 - zurückgestellt
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Umsetzung des Lärmaktionsplans - zurückgestellt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Rechtswidriges Bewohnerparken - Sache ist erledigt
+- TOP 5.2.2: Förderung von Quartiersgaragen durch das Land NRW - Sache ist erledigt
+- TOP 5.2.3: „Parkdruck” in Köln – tatsächliches Problem oder Datenlücke? - Sache ist erledigt
+- TOP 5.2.4: Zustand der KVB-Bahnen - Sache ist erledigt
+- TOP 5.2.5: Falschparker in Köln - Sache ist erledigt
+- TOP 5.2.6: Formfehler Förderantrag urbane Seilbahn - Sache ist erledigt
+- TOP 5.2.7: Gespräche mit E-Scooter - Anbietern - zurückgestellt
+- TOP 5.2.8: Temporäre Einschränkung des Fahrplanangebotes der KVB - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Rheinpendel - Beantragung von Fördermitteln - Sache ist erledigt
+- TOP 6.2: Parksituation in den verschiedenen Bewohnerparkzonen - zurückgestellt
+- TOP 6.3: Anfrage zur Lastenradförderung - Sache ist erledigt
+- TOP 6.4: Beantwortung der Anfrage AN/1649/2022 der Fraktion Die Linke betreffend "Geschlechtergerechte Verkehrsplanung in Köln" - zurückgestellt
+- TOP 6.5: Marktbereinigung durch überhöhte Gebühren - zurückgestellt
+- TOP 6.6: Velosichere Schiene- Kein Sturz durch Querung - Sache ist erledigt
+- TOP 6.7: Sanierung der Linie 9 in Sülz - Sache ist erledigt
+- TOP 6.8: Trennung von Radverkehr und Kraftfahrzeugverkehr durch geschützte Radfahrstreifen (protected bike lane„) - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Generalsanierung und Verkehrsberuhigung der Eupener Straße/Eschweilerstraße/Max-Wallraf-Straße in Köln-Braunsfeld - Kenntnis genommen
+- TOP 7.1.2: Umgestaltung der Jesuitengasse zwischen Amboßstraße und Schmiedegasse in Köln-Weidenpesch - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Unfallentwicklung, Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2021 im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 7.2.2: Änderungen zum Fahrplanwechsel 2022 (Fahrplanjahr 2023) - Kenntnis genommen
+- TOP 7.2.3: Sachstand beim Ausbau der Infrastruktur für Elektromobilität - Schwerpunkt Fast Charger - Kenntnis genommen
+- TOP 7.2.4: Liste der Großbauprojekte - zurückgestellt
+- TOP 7.2.5: Auswertung der Öffentlichkeitsbeteiligung zur Umgestaltung Neusser Straße zwischen Niehler Kirchweg und Kempener Straße - Kenntnis genommen
+- TOP 7.2.6: Sachstand zur Umsetzung des Ratsbeschlusses vom 10.12.2020 - Kenntnis genommen
+- TOP 7.2.7: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 7.2.8: StadtBahn Süd - Weitere Verzögerung im Planungsablauf im Zusammenhang mit der Gefährdungsbeurteilung Trinkwasser - Kenntnis genommen
+- TOP 7.2.9: Planfeststellungsbeschlüsse für die Erneuerung der Bauwerke D und E der Eisenbahnüberführung Deutz-Mülheimer Straße - Kenntnis genommen
+- TOP 7.2.10: Temporäre Reduzierung im Busangebot der KVB ab November 2022 - Kenntnis genommen
+- TOP 7.2.11: Gesamtinstandsetzung Mülheimer Brücke - Abbruch südliche Rechtsrheinische Rampe - Kenntnis genommen
+- TOP 7.2.12: Digitales Berichtswesen - Kenntnis genommen
+- TOP 7.2.13: Ein neu definiertes Grundnetz für den Motorisierten Individualverkehr - zurückgestellt
+- TOP 7.2.14: KVB – neues Niederflur Stadtbahnfahrzeug (Arbeitstitel NF12) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Temporäre protection auf Radfahrstreifen während der Weihnachtszeit - Sache ist erledigt
+- TOP 8.2: Ausbau Luxemburger Straße/Militärringstraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Deutschlandticket - Sache ist erledigt
