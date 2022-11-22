@@ -1,0 +1,51 @@
+# 8. Sitzung des Ausschusses für Wirtschaft und Beteiligungen
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2022-11-22T10:00:00+01:00
+- Ende: 2022-11-22T12:30:00+01:00
+- Ort: Fraunhofer-Einrichtung für Energ. und Geoth. IEG, Am Hochschulcampus 1, 44801 Bochum
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2022-AWB-7
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2022-AWB-7
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-AWB-7
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-AWB-7
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 3: Genehmigung des öffentlichen Teils der Niederschrift der Sitzung vom 23.08.2022
+- TOP 4: Vorstellung der Tätigkeiten des Fraunhofer Institutes - Energiewende in der Metropole Ruhr
+- TOP 5: Angelegenheiten der Business Metropole Ruhr GmbH - Anteilserhöhung Ruhr:HUB GmbH zum 31.12.2021
+- TOP 6: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Sachstandsbericht Projekte 'Unsere Gärten' / Prioritätenliste
+- TOP 7: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 7.1: Angelegenheiten der AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH - Public Corporate Governance Kodex des RVR - spezifische Regelungen für die AGR mbH
+- TOP 7.2: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Synchronisierung von Beteiligungsanteil und Ausschüttungsquote bei der Minegas
+- TOP 8: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr
+- TOP 8.1: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Regionale Europakampagne 2023/2024
+- TOP 8.2: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - EU-Förderung für die Metropole Ruhr 2014 - 2020
+- TOP -: Angelegenheiten des Bereiches Planung
+- TOP 9: Entwicklungs- und Vermarktungskonzept Regionale Kooperationsstandorte
+- TOP 10: Angelegenheit der Umweltzentrum Westfalen GmbH - Investitionen und Finanzierung der zukünftigen Entwicklung der Gesell-schaft (Maschinenhalle und Besucherzentrum)
+- TOP 11: Angelegenheiten der Freizeitgesellschaften
+- TOP 11.1: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH - Erhöhung des Gesellschafterzuschusses und Änderung der Gesellschafter-vereinbarung 2023
+- TOP 11.2: Freizeitgesellschaft Metropole Ruhr mbH
+- TOP 11.2.1: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Darlehensvertrag / Verbindlichkeiten gegen Gesellschafter 2021
+- TOP 11.2.2: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Gesellschaftervereinbarungen
+- TOP 11.2.3: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Gesellschaftsvertrag einschließlich Aufhebung des Betrauungsaktes
+- TOP 11.2.4: Angelegenheiten der Freizeitgesellschaften - Übernahme von Aufgaben des Rechnungswesens der Revierpark Gysenberg Herne GmbH durch die Freizeitgesellschaft Metropole Ruhr mbH
+- TOP 11.3: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Zuschuss- und Finanzierungsvertrag
+- TOP 11.4: Angelegenheiten der Freizeitgesellschaften - Sonderzuschüsse Corona und Energiekrise
+- TOP 12: Angelegenheiten der Kultur Ruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 13: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2021. Beschluss über die Ausgleichsrücklage. Entlastung des Betriebsausschusses RVR Ruhr Grün.
+- TOP 14: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2021
+- TOP 15: Haushalt 2023 - Haushalt 2023 für die Referate VL/Büro RDin - Verbandsleitung, 5 - Europäische und regionale Netzwerke Ruhr, 6 - Finanzmanagement sowie 16 - Allgemeine Finanzwirtschaft
+- TOP 16: Anträge
+- TOP 16.1: Angelegenheiten der Freizeitgesellschaften Hier: Kündigung der Beteiligung am Revierpark Wischlingen GmbH und Entwicklung eines Ausstiegsszenarios
+- TOP 17: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
