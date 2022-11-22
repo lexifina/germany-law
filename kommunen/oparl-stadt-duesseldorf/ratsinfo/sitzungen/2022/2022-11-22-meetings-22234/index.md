@@ -1,0 +1,65 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-22T17:00:00+01:00
+- Ende: 2022-11-22T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22234
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22234
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: digitales Sitzungspaket 22.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00466990.pdf
+- Ergebnisprotokoll: digitales Sitzungspaket 22.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00466990.pdf
+- Wortprotokoll: digitales Sitzungspaket 22.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00466990.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 08.11.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der öffentlichen Niederschrift vom 27.09.2022 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Flächennutzungsplanänderung Nr. 138 - Glasmacherviertel - Empfehlung einstimmig beschlossen
+- TOP 4.2: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - zur Kenntnis genommen
+- TOP 4.3: Zentrenmanagement Heyestraße-Süd - mündlicher Bericht - - einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - Empfehlung einstimmig beschlossen
+- TOP 4.6: Aufhebung der Maßnahme zur baulichen Erweiterung an der GHS Graf-Recke-Straße aus dem Beschluss SCHUA/025/2019 - Empfehlung einstimmig beschlossen
+- TOP 4.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2022 - einstimmig beschlossen
+- TOP 4.8: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Verhalten von Fahrradfahrern an kritischen Orten - einstimmig abgelehnt
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Mobile Geschwindigkeitskontrolle Torfbruchstraße - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tempo 30 Dreherstraße zwischen Bertastraße und Dreherstraße Nr. 169 - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Erweiterung der Tempo 30 Regelung auf der Heyestraße - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.7: Instandsetzung des Radwegs in der Verlängerung der Blanckertzstraße - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 5.8: Hydrologische Neubewertung der Bau- und Retentionsflächen Radeberger Straße / Am Quellenbusch - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 5.9: Elektronische Anzeigetafel für Knittkuhl installieren - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 5.10: Aufstellung eines Bebauungsplans Bergische Landstraße (Flurstück 350 bis 359) - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.11: Planung Bezirkssportanlage auf dem ehemaligen Lager 61, Nach den Mauresköthen - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.12: Einbahnstraße Pilgerweg - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.13: Verbesserung des Fahrradweges In der Flieth - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Grundsätzliche Öffnung der Einbahnstraßen für Radverkehr gegen die vorgeschriebene Fahrtrichtung - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Bauvorhaben Siedlerweg 2a - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 7.4: Aktueller Stand des Baugenehmigungsverfahren des Geländes „Villa Sohl“ - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.5: Umgestaltung Grünfläche Torfbruchstraße / Büdingenstraße / Nachtigallstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Nutzung leerstehender Ladenlokale im Rund, Grafenberger Allee 404 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Trimmgeräte Spielplatz /Grünzug Gutenberg Straße - Informationsvorlage zum Beschluss der BV 7 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 8.2: Schild "Grüner Pfeil nur für Radfahrende" an der Kreuzung Berta-/Dreherstraße - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.3: Einschränkung Parken nur für Pkw auf der Hallesche Straße - Informationsvorlage zum Beschluss der BV 7 vom 30.08.2022 - - zur Kenntnis genommen
+- TOP 8.4: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30 km/h vor sensiblen Einrichtungen - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.5: Öffnung der Fußgängerzone Flachsmarkt für den Radverkehr - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 8.6: Sachstandsbericht Mülldeponie Hubbelrath - Informationsvorlage zum Beschluss der BV7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.7: Dernbuschweg - Informationsvorlage zum Beschluss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 8.8: Sachstandsbericht Dernbuschweg - Informationsvorlage zum Beschluss der BV 7 vom 30.08.2022 - - zur Kenntnis genommen
