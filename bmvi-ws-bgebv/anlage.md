@@ -63,11 +63,11 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 1023 | Durchführung des praktischen Prüfungsteils an Bord einer Fähre | § 40 Absatz 3 BinSchPersV | 175 |
 | 1024 | Durchführung des praktischen Prüfungsteils an einem Simulator | § 40 Absatz 3 BinSchPersV | 175 |
 | 103 | Prüfungsverfahren für das Sportschifferzeugnis | § 18 Absatz 1 BinSchPatentV |  |
-| 1031 | Zulassung zur Prüfung | § 67 BinSchPersV | 82 |
-| 1032 | Durchführung des theoretischen Prüfungsteils | § 40 Absatz 2 BinSchPersV | 84 |
-| 1033 | Durchführung des praktischen Prüfungsteils an Bord eines Fahrzeugs | § 40 Absatz 3 BinSchPatentV | 160 |
+| 1031 | Zulassung zur Prüfung | § 67 BinSchPersV§ 7.11 RheinSchPersV | 82 |
+| 1032 | Durchführung des theoretischen Prüfungsteils | § 40 Absatz 2 BinSchPersV§ 7.12 Nummer 2 RheinSchPersV | 84 |
+| 1033 | Durchführung des praktischen Prüfungsteils an Bord eines Fahrzeugs | § 40 Absatz 3 BinSchPersV§ 7.12 Nummer 2 RheinSchPersV | 160 |
 | 1034 | Durchführung des praktischen Prüfungsteils an einem Simulator | § 40 Absatz 3 BinSchPersV | 160 |
-| 104 | Prüfungsverfahren für das Kleinschifferzeugnis | §§ 8.04, 8.05 i. V. m. § 6.03 Nummer 1 RheinSchPersV |  |
+| 104 | Prüfungsverfahren für das Kleinschifferzeugnis |  |  |
 | 1041 | Zulassung zur Prüfung | § 67 BinSchPersV | 82 |
 | 1042 | Durchführung des theoretischen Prüfungsteils | § 40 Absatz 5 Satz 1 BinSchPersV | 84 |
 | 1043 | Durchführung des theoretischen Prüfungsteils für das Führen von Fahrzeugen i. S. d. Richtlinie (EU) 2017/2397 | § 40 Absatz 5 Satz 3 | 163 |
@@ -93,10 +93,10 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 1077 | Erteilung oder Verlängerung eines Befähigungszeugnisses für Sachkundige für die Fahrgastschifffahrt (nur im elektronischen Format) | § 85 Absatz 2, § 87 Absatz 2 BinSchPersV | 89 |
 | 1078 | Erstellung oder Verlängerung eines Befähigungszeugnisses für Sachkundige für Flüssigerdgas (nur im elektronischen Format) | § 85 Absatz 1, § 87 Absatz 2 BinSchPersV | 89 |
 | 108 | Ausstellung eines Schifferdienstbuches oder Fahrtenheftes und Erteilung von Befähigungszeugnissen |  |  |
-| 1081 | Erstausstellung und Ausgabe eines Folgebuches ohne Eintragung eines Befähigungszeugnisses | §§ 60, 84, 123 Absatz 5 und 6, § 129 Absatz 5 Satz 2 BinSchPersV | 104 |
+| 1081 | Erstausstellung und Ausgabe eines Folgebuches ohne Eintragung eines neuen Befähigungszeugnisses | §§ 60, 84, 123 Absatz 5 und 6, § 129 Absatz 5 Satz 2 BinSchPersV | 104 |
 | 1082 | Erstausstellung eines Fahrtenheftes und Ausgabe eines Folgeheftes | § 7 Nummer 1 RheinLotsO | 66 |
-| 1083 | Validierung von Fahrzeiten ohne Eintragung eines Befähigungszeugnisses, je angefangene Seite | § 27 BinSchPersV § 7 Nummer 3 RheinLotsO | 1,50 mindestens aber 5 |
-| 1084 | Eintragung und Verlängerung eines Befähigungszeugnisses auf Einstiegsebene oder Betriebsebene oder des Maschinenpersonals | §§ 61, 62, 63 Absatz 2, §§ 64, 123 Absatz 5, § 129 Absatz 5 Satz 3 BinSchPersV | 27 |
+| 1083 | Validierung von Fahrzeiten ohne Eintragung eines Befähigungszeugnisses, je angefangene Seite | § 27 BinSchPersV§ 7 Nummer 3 RheinLotsO§ 3.06 Nummer 3 RheinSchPersV | 1,50 mindestens aber 5 |
+| 1084 | Eintragung und Verlängerung eines Befähigungszeugnisses auf Einstiegsebene oder Betriebsebene oder des Maschinenpersonals | §§ 61, 62, 63 Absatz 2, §§ 64, 123 Absatz 5, § 129 Absatz 5 Satz 3 BinSchPersV§ 3.06 Nummer 2 und 3 RheinSchPersV | 27 |
 | 109 | Umtausch alter Befähigungszeugnisse |  |  |
 | 1091 | Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen A, B oder C oder eines Rheinpatents in ein Unionspatent als Karte | § 129 Absatz 1 und 2 BinSchPersV | 129 |
 | 1092 | Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen A, B oder C oder eines Rheinpatents in ein Unionspatent im elektronischen Format | § 129 Absatz 1 und 2 BinSchPersV | 89 |
@@ -104,21 +104,22 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 1094 | Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse E in ein Sportschifferzeugnis nach BinSchPersV | § 129 Absatz 4 BinSchPersV | 129 |
 | 1095 | Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse F in ein Fährschifferzeugnis | § 129 Absatz 5 Satz 1 BinSchPersV | 129 |
 | 1096 | Umtausch eines bis zum 17.01.2022 nach der BinSchPatentV oder der Schiffspersonalverordnung-Rhein ausgegebenen Schifferdienstbuches in ein Schifferdienstbuch nach BinSchPersV | § 123 Absatz 5 und 6 BinSchPersV | 104 |
-| 1097 | Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine besondere Berechtigung für Radar als Karte, falls diese Leistung nicht mit einer Leistung nach den Nummern 1091, 1093 bis 1095 verbunden ist | § 131 Absatz 2 BinSchPersV | 129 |
-| 1098 | Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine besondere Berechtigung für Radar als elektronisches Dokument, falls diese Leistung nicht mit einer Leistung nach der Nummer 1092 verbunden ist | § 131 Absatz 2 BinSchPersV | 89 |
+| 1097 | Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine besondere Berechtigung für Radar als Karte, falls diese Leistung nicht mit einer Leistung nach den Nummern 1091, 1093 bis 1095 verbunden ist | § 131 Absatz 3 BinSchPersV | 129 |
+| 1098 | Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine besondere Berechtigung für Radar als elektronisches Dokument, falls diese Leistung nicht mit einer Leistung nach der Nummer 1092 verbunden ist | § 131 Absatz 3 BinSchPersV | 89 |
 | 110 | Änderungen von nach Nummern 107 bis 109 erteilten Befähigungszeugnissen |  |  |
-| 1101 | Anordnen des Beibringens eines Tauglichkeitsnachweises | § 21 Absatz 2, auch i. V. m. § 22 Absatz 2 Satz 3, § 22 Absatz 4, auch i. V. m. Absatz 5 BinSchPersV | 112 |
-| 1102 | Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen Beschränkungen als Karte | § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV | 150 |
-| 1103 | Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen Beschränkungen im elektronischen Format | § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV | 110 |
-| 1104 | Aussetzung oder Entzug eines Befähigungszeugnisses | §§ 91 – 94 BinSchPersV | 238 |
+| 1101 | Anordnen des Beibringens eines Tauglichkeitsnachweises | § 21 Absatz 2,auch i. V. m. § 22 Absatz 2 Satz 3, § 22 Absatz 4,auch i. V. m. Absatz 5 BinSchPersV | 112 |
+| 1102 | Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen Beschränkungen als Karte | § 21 Absatz 3 und 4,auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV | 150 |
+| 1103 | Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen Beschränkungen im elektronischen Format | § 21 Absatz 3 und 4,auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV | 110 |
+| 1104 | Aussetzung oder Entzug eines Befähigungszeugnisses | §§ 91 – 94 BinSchPersV§ 3.07 Nummer 2 Buchstabe b, §§ 7.20, 7.22 Nummer 1, 2 RheinSchPersV | 238 |
+| 1105 | Feststellung der Unzuverlässigkeit, falls diese Leistung nicht mit einer Leistung nach Nummer 1104 verbunden ist | § 98 Absatz 10 Satz 2 BinSchPersV | 238 |
 | 111 | Zulassung von Lehrgängen |  |  |
 | 1111 | Zulassung eines Basislehrgangs für Sachkundige für die Fahrgastschifffahrt | § 56 BinSchPersV | 275 – 545 |
 | 1112 | Zulassung eines Auffrischungslehrgangs für Sachkundige für die Fahrgastschifffahrt | § 56 BinSchPersV | 275 – 545 |
 | 1113 | Zulassung eines Lehrgangs für Sachkundige für Flüssigerdgas | § 56 BinSchPersV | 275 – 545 |
 | 1114 | Zulassung eines Lehrgangs grundlegende Sicherheitsausbildung | § 53 i. V. m. Anlage 21 BinSchPersV | 275 – 545 |
-| 1115 | Zulassung eines Lehrgangs Maschinenkundige | § 54 i. V. m. Anlage 22 BinSchPersV | 275 – 545 |
+| 1115 | (weggefallen) |  |  |
 | 1116 | Zulassung eines Lehrgangs atemschutzgerättragende Personen | § 58 i. V. m. Anlage 23 BinSchPersV | 275 – 545 |
-| 1117 | Zulassung eines Ausbildungsprogramms für die Betriebsebene | § 55 Absatz 1 BinSchPersV | 275 – 545 |
+| 1117 | (weggefallen) |  |  |
 | 112 | Zulassung von Simulatoren |  |  |
 | 1121 | Zulassung eines Fahrsimulators | § 89 i. V. m. Anlage 30 BinSchPersV | 5531 |
 | 1122 | Zulassung eines Radarsimulators | § 89 i. V. m. Anlage 30 BinSchPersV | 2777 |
@@ -205,7 +206,7 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 40321 | Erstantrag |  | 171 |
 | 40322 | Neuantrag |  | 85,50 |
 | 5. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit dem sonstigen Verhalten im Verkehr |
-| 501 | Zulassung von Fahrzeugen und Verbänden, die die festgesetzten Abmessungen oder Abladetiefen überschreiten | § 1.06 Nummer 2 BinSchStrO §§ 11.01, 11.02 RheinSchPV § 8.01 MoselSchPV § 9.05 DonauSchPV |  |
+| 501 | Zulassung von Fahrzeugen und Verbänden, die die festgesetzten Abmessungen oder Abladetiefen überschreiten | § 1.06 Nummer 2 BinSchStrO§ 9.06 Nummer 3 Buchstabe a, §§ 11.01, 11.02 RheinSchPV§ 8.01 MoselSchPV§ 8.01 MoselSchPV |  |
 | 5011 | für eine Reise |  | 74,40 |
 | 5012 | für ein Jahr oder mehrere Reisen |  | 148 |
 | 5013 | für mehrere Jahre |  | 297 |
@@ -490,8 +491,8 @@ auf dem Gebiet der Befähigungen in der Sportschifffahrt
 2. Auslagen und weitergehende Regelungen
   a) Für Prüfungen an der Mittelmeer- und Atlantikküste außerhalb Deutschlands werden zusätzlich Reisekosten als Auslage je Bewerber erhoben.
   b) Sind aus Gründen des Gesundheitsschutzes behördliche Hygiene- und Schutzmaßnahmen zu beachten, können die diesbezüglichen Mehraufwendungen in der tatsächlich entstandenen Höhe, jedoch lediglich bis maximal 9 Euro für die theoretische und bis maximal 10 Euro für die praktische Prüfung als Auslagen erhoben werden.
-  c) Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 14 Euro als Auslage erhoben.
-  d) Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 6 Euro als Auslage erhoben. Für Auslandszustellungen durch die Bundesdruckerei beläuft sich dieser Zuschlag auf 8,10 Euro. Für Auslandszustellungen nach dem Tabellenabschnitt 2 wird ein Zuschlag in Höhe von 1,60 Euro als Auslage erhoben.
+  c) Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 15 Euro als Auslage erhoben.
+  d) Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 7 Euro als Auslage erhoben. Für Auslandszustellungen nach dem Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein Zuschlag von 1,60 Euro als Auslage erhoben.
 3. Die Gebühr zur Zulassung zur Prüfung wird erneut erhoben, wenn der Bewerber den Prüfungsausschuss wechselt.
 | Nummer | Gegenstand | Rechtsgrundlage | Gebühr in Euro |
 | 1. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Sportbootführerscheinen |
@@ -504,27 +505,27 @@ auf dem Gebiet der Befähigungen in der Sportschifffahrt
 | 7 | Praktische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel oder Antriebsmaschine | § 8 Absatz 1 SpFV | 37,65 |
 | 8 | Praktische Prüfung zur Führung von Fahrzeugen auf Seeschifffahrtsstraßen | § 8 Absatz 1 SpFV | 44,50 |
 | 9 | Ergänzende praktische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel – am gleichen Tag | § 8 Absatz 1 und 3 SpFV | 18,40 |
-| 10 | Fahrerlaubnis | § 8 Absatz 8 SpFV | 25,40 |
-| 11 | Fahrerlaubnis ohne Prüfung | § 3 Absatz 5 bis 7, § 4 Absatz 5 bis 7 SpFV | 37,40 |
-| 12 | Nachträgliche Erteilung oder Streichung von Auflagen | § 6 Absatz 4 SpFV | 20,40 |
-| 13 | Ersatzausfertigung | § 11 SpFV | 37,40 |
+| 10 | Fahrerlaubnis | § 8 Absatz 8 SpFV | 27,20 |
+| 11 | Fahrerlaubnis ohne Prüfung | § 3 Absatz 5 bis 7,§ 4 Absatz 5 bis 7 SpFV | 39,20 |
+| 12 | Nachträgliche Erteilung oder Streichung von Auflagen | § 6 Absatz 4 SpFV | 22,20 |
+| 13 | Ersatzausfertigung | § 11 SpFV | 39,20 |
 | 14 | Vorläufige Fahrerlaubnis | § 8 Absatz 8 SpFV | 22,60 |
 | 2. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Sportküstenschifferscheinen (SKS), Sportseeschifferscheinen (SSS) und Sporthochseeschifferscheinen (SHS), Short Range Certificates (SRC), Long Range Certificates (LRC) und Befähigung Maschinist/Schiffer |
 | 1 | Zulassung zur Prüfung oder zur Feststellung der Befähigung SKS | § 5 SportSeeSchV | 20,80 |
 | 2 | Zulassung zur Prüfung oder zur Feststellung der Befähigung SSS/SHS | § 5 SportSeeSchV | 29,55 |
-| 3 | Zulassung zur Prüfung Funkbetriebszeugnis SRC/LRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 17,50 |
+| 3 | Zulassung zur Prüfung Funkbetriebszeugnis SRC/LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt B SchSV | 17,50 |
 | 4 | Abnahme der theoretischen Prüfung SSS/SHS | § 8 Absatz 1 und 5 SportSeeSchV | 139 |
 | 5 | Abnahme der theoretischen Prüfung in einem Einzelfach SSS/SHS | § 8 Absatz 1 und 5 SportSeeSchV | 92,35 |
 | 6 | Abnahme der theoretischen Prüfung SKS | § 8 Absatz 1 und 5 SportSeeSchV | 76,50 |
 | 7 | Abnahme der theoretischen Teilprüfung SKS | § 8 Absatz 1 und 5 SportSeeSchV | 49,95 |
-| 8 | Abnahme der theoretischen Prüfung Funkbetriebszeugnis SRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 34,60 |
-| 9 | Abnahme der praktischen Prüfung Funkbetriebszeugnis SRC und praktische Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines SRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 43,15 |
-| 10 | Abnahme der theoretischen Prüfung Funkbetriebszeugnis LRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 44,10 |
-| 11 | Abnahme der theoretischen Prüfung Funkbetriebszeugnis LRC als Ergänzungsprüfung (LRC ERG bei vorhandenem SRC oder gleichwertigem BFN) | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 27 |
-| 12 | Abnahme der praktischen Prüfung Funkbetriebszeugnis LRC und für die Abnahme der praktischen Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines LRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 85,40 |
-| 13 | Abnahme der praktischen Prüfung Funkbetriebszeugnis LRC als Ergänzungsprüfung (LRC ERG bei vorhandenem SRC oder gleichwertigem BFN) | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 56,85 |
-| 14 | Abnahme der theoretischen Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines SRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 30,50 |
-| 15 | Abnahme der theoretischen Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines LRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 38,60 |
+| 8 | Abnahme der theoretischen Prüfung Funkbetriebszeugnis SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt B SchSV | 34,60 |
+| 9 | Abnahme der praktischen Prüfung Funkbetriebszeugnis SRC und praktische Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt B SchSV | 43,15 |
+| 10 | Abnahme der theoretischen Prüfung Funkbetriebszeugnis LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt B SchSV | 44,10 |
+| 11 | Abnahme der theoretischen Prüfung Funkbetriebszeugnis LRC als Ergänzungsprüfung (LRC ERG bei vorhandenem SRC oder gleichwertigem BFN) | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt B SchSV | 27 |
+| 12 | Abnahme der praktischen Prüfung Funkbetriebszeugnis LRC undfür die Abnahme der praktischen Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines LRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt B SchSV | 85,40 |
+| 13 | Abnahme der praktischen Prüfung Funkbetriebszeugnis LRC alsErgänzungsprüfung (LRC ERG bei vorhandenem SRC oder gleichwertigem BFN) | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt B SchSV | 56,85 |
+| 14 | Abnahme der theoretischen Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt B SchSV | 30,50 |
+| 15 | Abnahme der theoretischen Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt B SchSV | 38,60 |
 | 16 | Abnahme der praktischen Prüfung SSS | § 8 Absatz 1 und 5 SportSeeSchV | 191 |
 | 17 | Abnahme der praktischen Prüfung SKS | § 8 Absatz 1 und 5 SportSeeSchV | 106 |
 | 18 | Feststellung der Befähigung als Schiffer | § 9 SportSeeSchV | 65,30 |
@@ -532,16 +533,16 @@ auf dem Gebiet der Befähigungen in der Sportschifffahrt
 | 20 | Ausstellung des SKS | § 3 Absatz 2 SportSeeSchV | 25,60 |
 | 21 | Ausstellung des SSS | § 3 Absatz 2 SportSeeSchV | 28,30 |
 | 22 | Ausstellung des SHS | § 3 Absatz 2 SportSeeSchV | 28,30 |
-| 23 | Ausstellung eines Funkbetriebszeugnisses SRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt C Nummer 1.2 SchSV | 24,65 |
-| 24 | Ausstellung eines Funkbetriebszeugnisses LRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt C Nummer 1.2 SchSV | 28,60 |
-| 25 | Vornahme einer Zusatzeintragung oder einer Ausnahme | § 10 Absatz 2 und 3, § 12 Absatz 4, § 11 Absatz 3 SportSeeSchV | 16,70 |
-| 26 | Ausstellung eines Befähigungsnachweises für Maschinisten | § 10 Absatz 4 i. V. m. § 12 Absatz 4 SportSeeSchV | 36,20 |
+| 23 | Ausstellung eines Funkbetriebszeugnisses SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 1.2 SchSV | 24,65 |
+| 24 | Ausstellung eines Funkbetriebszeugnisses LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 1.2 SchSV | 28,60 |
+| 25 | Vornahme einer Zusatzeintragung oder einer Ausnahme | § 10 Absatz 2 und 3, § 12 Absatz 4,§ 11 Absatz 3 SportSeeSchV | 16,70 |
+| 26 | Ausstellung eines Befähigungsnachweises für Maschinisten | § 10 Absatz 4i. V. m. § 12 Absatz 4 SportSeeSchV | 36,20 |
 | 27 | Ausstellung i. V. m. Auflagen | § 6 Absatz 4 SportSeeSchV | 18,25 |
 | 28 | Ausstellung einer Ersatzausfertigung oder einer Ersatzbescheinigung SKS | § 12 Absatz 1 und 2 SportSeeSchV | 42 |
-| 29 | Ausstellung einer Ersatzausfertigung oder einer Ersatzbescheinigung SSS/SHS | § 12 Absatz 1 und 2 SportSeeSchV | 44,70 |
-| 30 | Ausstellung einer Ersatzausfertigung SRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 43,15 |
-| 31 | Ausstellung einer Ersatzausfertigung LRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 46,10 |
+| 29 | Ausstellung einer Ersatzausfertigung oder einer ErsatzbescheinigungSSS/SHS | § 12 Absatz 1 und 2 SportSeeSchV | 44,70 |
+| 30 | Ausstellung einer Ersatzausfertigung SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 43,15 |
+| 31 | Ausstellung einer Ersatzausfertigung LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 46,10 |
 | 32 | Ausstellung SSS/SHS | § 12 Absatz 3 SportSeeSchV | 44,70 |
 | 33 | Ausstellung SKS | § 12 Absatz 4 SportSeeSchV | 42 |
-| 34 | Umschreibung SRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 43,15 |
-| 35 | Umschreibung LRC | § 13 Absatz 4a i. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 45,10 |
+| 34 | Umschreibung SRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 43,15 |
+| 35 | Umschreibung LRC | § 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV | 45,10 |
