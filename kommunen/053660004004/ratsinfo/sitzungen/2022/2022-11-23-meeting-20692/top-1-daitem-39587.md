@@ -1,0 +1,7 @@
+# TOP 1.: Städtische Eigenjagd Nr. 11 "Pfaffenbusch" hier: Vorstellung der Pirschbezirksinteressenten
+
+- Sitzung: Betriebsausschuss "Forstbetrieb" der Stadt Bad Münstereifel (8. Sitzung) (2022-11-23)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/39587
+- Ergebnis: Beschluss einstimmig angenommen
