@@ -1,0 +1,67 @@
+# Ausschuss für Bauen, Umwelt und Klimaschutz (10. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-11-24T18:01:00+01:00
+- Ende: 2022-11-24T21:10:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-292
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfLV-oKrbbyMhn4_dpTtxP4
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7510
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Bauen, Umwelt und Klimaschutz) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZafMJT_CVfoORczD6Een_iV2O-nLecTuiHdFsDpxNx6N/Bekanntmachung_Ausschuss_fuer_Bauen-_Umwelt_und_Klimaschutz_24.11.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Bauen, Umwelt und Klimaschutz) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVwoKG9atMpcsq9IPR47O9CGTx8DCng5g-3s8jNL1t7x/Oeffentliche_Niederschrift_Ausschuss_fuer_Bauen-_Umwelt_und_Klimaschutz_24.11.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 23.06.2022
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: PV-Potenzialanalyse - Vorstellung der Ergebnisse Bezug: HA vom 29.11.2021, TOP 2.1.1; HA vom 17.10.2022, Vorlagen-Nr. 474+480/2022 Referent: Herr B.Sc. Florian Demnitz, Öko-Zentrum NRW GmbH
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Anträge auf Baumfällungen Bezug: Baumfällanträge und Umweltkommission vom 27.10.2022 - (kein Text vorhanden)
+- TOP 6.: Bürgerpark Brühl-Ost - Vergabekriterien für Planungsleistungen - - (kein Text vorhanden)
+- TOP 7.: Haushaltssatzung 2023 hier: Entwurf des Haushaltsplan 2023 Sachgebiet Umwelt - TEP 5403 und 5601 Bezug: Rat vom 31.10.2022, TOP 5
+- TOP 8.: Haushaltssatzung 2023 TEP 5380 - Abwasser hier: Entwurf
+- TOP 9.: Haushaltssatzung 2023 TEP 5401 - Straßen hier: Entwurf
+- TOP 10.: Haushaltssatzung 2023 TEP 1207 - Verkehr hier: Entwurf
+- TOP 11.: Kanalerneuerung und Ausbau des Fuß- und Radwegs in der Römerstraße zwischen „Hauptstraße und Zum Sommersberg“ - (kein Text vorhanden)
+- TOP 12.: Straßenendausbau Immendorfer Straße - (kein Text vorhanden)
+- TOP 13.: Mitteilungen
+- TOP 13.1: Mitteilungen über aktuelle Baumaßnahmen
+- TOP 13.1.1: Theodor-Körner-Str. / Freiherr-vom-Stein-Str. Straßen- und Kanalbau
+- TOP 13.1.2: Am Hennebach Regenüberlauf
+- TOP 13.1.3: Alte Bonnstraße / Otto-Wels-Str. Kreisverkehr
+- TOP 13.1.4: Busstraße / Bf Brühl-Mitte: elektrohydraulische Poller
+- TOP 13.1.5: Uhlstr. / Franziskanerhof: Oberflächenschäden
+- TOP 13.1.6: Hedwig-Gries-Straße: Versickerungsmulde
+- TOP 13.1.7: Glasfaserausbau
+- TOP 13.1.8: Besitzbare / bespielbare Stadt
+- TOP 13.1.9: Bundesbahnhof: Rampe
+- TOP 13.1.10: Brücken
+- TOP 13.1.11: Pehler Feldchen: Erschließungen Dritter
+- TOP 13.1.12: Bonnstraße: Erschließungen Dritter
+- TOP 13.1.13: Weißer Straße: Erschließungen Dritter
+- TOP 13.1.14: Unter dem Dorf: Erschließungen Dritter
+- TOP 13.1.15: Alte Bonnstraße / Otto-Wels-Str.: Erschließungen Dritter
+- TOP 13.1.16: Ferdinand-Krausen-Weg (Gallbergsiedlung): Erschließungen Dritter
+- TOP 13.1.17: Euskirchener Str. 19-15: Erschließungen Dritter
+- TOP 13.1.18: Geildorfer Feld: Erschließungen Dritter
+- TOP 13.1.19: Südlich Sechtemer Str.: Erschließungen Dritter
+- TOP 13.1.20: Zum Sommersberg: Erschließungen Dritter
+- TOP 13.1.21: Geplante Baumfällungen
+- TOP 14.: Anfragen
+- TOP 14.1: Provisorische Zebrastreifen Bergerstraße
+- TOP 14.2: Schottergärten
+- TOP 14.3: Fassaden- und Dachbegrünungen
+- TOP 14.4: Windkraftanlagen
+- TOP 14.5: Urban Gardening
+- TOP 14.6: Klimaresilienz Stadtflora Bezug: Anfrage der AfD-Fraktion vom 12.10.2022
+- TOP 14.7: Kosten für illegale Müllentsorgung Bezug: Anfrage der AfD-Fraktion vom 12.10.2022
+- TOP 14.8: Sachstand zum ökologischen Grünflächenmanagement und zur „Essbare Stadt“ Bezug: Anfrage der Grünen-Fraktion vom 04.11.2022
+- TOP 14.9: Sachstand zur Einführung von Mehrwegpfandbechern Bezug: Anfrage der Grünen-Fraktion vom 04.11.2022
+- TOP B): Nichtöffentliche Sitzung
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen
+- TOP 16.1: Energieberatung
