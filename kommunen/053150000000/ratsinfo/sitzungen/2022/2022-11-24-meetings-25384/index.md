@@ -1,0 +1,77 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-24T16:53:00+01:00
+- Ende: 2022-11-24T18:30:00+01:00
+- Ort: Umweltbildungszentrum Heideportal Gut Leidenhausen e.V. Gut Leidenhausen 1, 51147 Köln INFEKTIONSSCHUTZ: Bitte beachten Sie die Hinweise zum Infektionsschutz bei Gremiensitzungen!
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25384
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25384
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Antrag der Fraktionen SPD, Die Linke und FDP betreffend Aktuelle Stunde: Müllberge und Wildpinkler am 11.11.2022 – Abfallvermeidungs- und Toilettenkonzept für Großereignisse
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der FDP-Fraktion betreffend Klimaschutzkooperation mit der TH Köln - zurückgestellt
+- TOP 1.1.1: Klimaschutzkooperation mit der TH Köln - zurückgestellt
+- TOP 1.2: Anfrage der Fraktion Die Fraktion betreffend Novellierung DSchG NRW: Öffnung für Photovoltaik trotz Denkmalschutz - Sache ist erledigt
+- TOP 1.2.1: Beantwortung einer Anfrage der Fraktion ‚Die FRAKTION‘ (AN/1689/2022) vom 23.09.2022 betreffend „Novellierung DSchG NRW: Öffnung für Photovoltaik trotz Denkmalschutz“ - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Die Linke betreffend Heizen in der Außengastronomie - Sache ist erledigt
+- TOP 1.3.1: Beantwortung der Anfrage Heizen in der Außengastronomie - Kenntnis genommen
+- TOP 1.4: Anfrage der Fraktion Die Fraktion betreffend NIKE Basketballcourt im inneren Grüngürtel - Sache ist erledigt
+- TOP 1.4.1: Beantwortung der Anfrage NIKE Basketballcourt im Inneren Grüngürtel - Kenntnis genommen
+- TOP 1.5: Anfrage der Fraktion Die Linke betreffend Erzeugung und Einsatz von Biogas durch die RheinEnergie AG - zurückgestellt
+- TOP 1.5.1: Beantwortung der Anfrage Erzeugung und Einsatz von Biogas durch die RheinEnergie AG - zurückgestellt
+- TOP 1.6: Anfrage der Fraktion Die Linke betreffend „Freiluft-Eishockey-Spiele“ und „Eislaufen für jedermann“ im Rhein-Energie-Stadion - zurückgestellt
+- TOP 1.7: Anfrage der Fraktionen Bündnis 90 / Die Grünen und CDU betreffend Pilzbefall bei Ahorn und Esche - Sache ist erledigt
+- TOP 1.7.1: Anfrage der Fraktionen Bündnis 90 / Die Grünen und CDU betreffend Pilzbefall bei Ahorn und Esche (AN/2125/2022) - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der SPD-Fraktion betreffend Umstellung auf Wärmepumpenversorgung bei Wohnungseigentümergemeinschaften forcieren - Sache ist erledigt
+- TOP 2.1.1: Gemeinsamer Änderungsantrag der Fraktionen von Bündnis 90 / Dei Grünen, CDU und Volt zu TOP 2.1 Antrag der SPD-Fraktion: - ungeändert beschlossen
+- TOP 2.1.2: Änderungsantrag der FDP-Fraktion betreffend Sharing Economy für das Klima - endgültig abgelehnt
+- TOP 2.2: Antrag der FDP-Fraktion betreffend Keine F-Gase in der Kölner Energiewende! - Sache ist erledigt
+- TOP 2.2.1: Ersetzungsantrag der FDP-Fraktion betreffend Keine SF6-Gase in der Kölner Energiewende! - zurückgestellt
+- TOP 2.3: Gemeinsamer Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt Klimaschutzpreis - geändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Strategie Klimaneutrales Köln - zurückgestellt
+- TOP 3.1.1: Änderungsantrag der AfD betreffend „Strategie Klimaneutrales Köln“ - zurückgestellt
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Masterplan Stadtgrün - ungeändert empfohlen
+- TOP 4.1.1.1: Änderungsantrag der Fraktion DIE FRAKTION zu 2279/2022 Masterplan Stadtgrün - endgültig abgelehnt
+- TOP 4.1.2: Kleingartenanlage Hoffnung e.V., Anlage Niehler Str. und Anlage Kretzer Str. Erneuerung des Wasserleitungsnetzes - ungeändert empfohlen
+- TOP 4.1.3: Rahmenvertrag über die Lieferung von Spielgeräten, Ersatzteilen und Zubehör - ungeändert empfohlen
+- TOP 4.1.4: Hitzeaktionsplanung der Stadt Köln - ungeändert empfohlen
+- TOP 4.1.5: Neufassung der Friedhofssatzung der Stadt Köln - ungeändert empfohlen
+- TOP 4.1.6: Mittelverwendung zur Stärkung der kommunalen Beratungsangebote in der Energiekrise - mit Änderungen empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Politischer VN 2022 - 100.000 € für die Maßnahme "Kosten Neues Naturschutzgebiet" - ungeändert beschlossen
+- TOP 4.2.2: Ergänzung des Beschlusses Essbare Stadt (3117/2019): Neu- und Ersatzpflanzungen - ungeändert beschlossen
+- TOP 4.2.3: Förderprogramm Umweltbildung: weitere Finanzierung durch Mittelumschichtung - ungeändert beschlossen
+- TOP 4.2.4: Ersatzbeschaffung von 2 LKW 18t mit Ladekran - ungeändert beschlossen
+- TOP 4.2.5: Ersatzbeschaffung von 1 LKW mit Ladekran für den Bereich Transport und 2 Standardschlepper - ungeändert beschlossen
+- TOP 4.2.6: Fortführung des Kölner Stadttauben-Modells - zurückgestellt
+- TOP 4.2.7: Krisenhilfe für die beiden Kölner Tierheime - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Bericht über die Entwicklung des Ausbaus der Erneuerbaren Energien im Bereich der RheinEnergie AG - zurückgestellt
+- TOP 7.1.1: Bericht über die Entwicklung des Ausbaus der Erneuerbaren Energien im Bereich der RheinEnergie AG - zurückgestellt
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2022 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.3: Vergabe Stadtklima und Stadtverschönerungsmittel 2022 im Stadtbezirk Innenstadt, Teil II - Kenntnis genommen
+- TOP 7.4: Bewirtschaftung des städtischen Waldes 2022/23 - Kenntnis genommen
+- TOP 7.5: Stadtklima und Stadtverschönerungsprogramm 2022 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 7.6: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 7.7: Bebauungsplanverfahren "Linder Höhe" in Köln-Porz: Verfahren aufgegeben wegen Lärmproblematik - Kenntnis genommen
+- TOP 7.8: METRO-KLIMA-LAB – ein interkommunales Projekt im Bundesprogramm zur "Anpassung urbaner Räume an den Klimawandel" - Kenntnis genommen
+- TOP 7.9: Sachstand zur Umsetzung des Ratsbeschlusses vom 10.12.2020 - zurückgestellt
+- TOP 7.10: Produktion von Trainingsvideos / Bewegungsanleitungen für die städtischen Bewegungsparcours - Kenntnis genommen
+- TOP 7.11: Dritte Sachstandsmitteilung zu "Entlastungen bei der Steigerung der Energiepreise intensivieren" - Kenntnis genommen
+- TOP 7.12: aktualisierter Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 9. November 2022 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 29.09.2022: Flutlicht am Aachener Weiher von Mildred Utku - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
