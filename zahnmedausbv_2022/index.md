@@ -21,7 +21,7 @@
 - [§ 11 Inhalt des Teiles 2](0011.md)
 - [§ 12 Prüfungsbereiche des Teiles 2](0012.md)
 - [§ 13 Prüfungsbereich „Assistieren bei und Dokumentieren von zahnärztlichen Maßnahmen“](0013.md)
-- [§ 14 Prüfungsbereich „Organisieren der Verwaltungs- prozesse und Abrechnen von Leistungen“](0014.md)
+- [§ 14 Prüfungsbereich „Organisieren der Verwaltungsprozesse und Abrechnen von Leistungen“](0014.md)
 - [§ 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“](0015.md)
 - [§ 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung](0016.md)
 - [§ 17 Mündliche Ergänzungsprüfung](0017.md)
