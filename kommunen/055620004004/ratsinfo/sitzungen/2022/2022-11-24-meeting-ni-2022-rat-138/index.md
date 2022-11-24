@@ -1,0 +1,54 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2022-11-24T17:00:00+01:00
+- Ende: 2022-11-24T19:57:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-RAT-138
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2022-RAT-138
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2022-RAT-138
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-RAT-138
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-RAT-138
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Ausrufen der "Alarmstufe Gas" Kommunale Handlungsoptionen - einstimmig angenommen
+- TOP 2.1: Anfrage der Ratsfraktion DIE LINKE vom 22.11.2022_Fragen zur Senkung des Energieverbrauches
+- TOP 2.2: Gemeinsamer Antrag CDU und FDP Ratsfraktion vom 24.11.2022_Antrag zu TOP 2 Ausrufen der "Alarmstufe Gas" Kommunale Handlungsoption
+- TOP 3: Bericht über die finanziellen Auswirkungen der Maßnahmen zur Aufnahme und Unterbringung von anlässlich des Krieges in der Ukraine eingereisten Personen zum Stichtag 30.09.2022 (§ 6 KommunalhaushaltsrechtsanwendungsVO UA-Schutzsuchendenaufnahme)
+- TOP 4: Betrieb eines kommunalen Corona-Testzentrums in Castrop-Rauxel
+- TOP 5: Antrag der CDU-Fraktion vom 30.10.2022_Antrag auf Nutzung von Self-Service-Terminal - einstimmig angenommen
+- TOP 6: Antrag der CDU-Fraktion vom 30.10.2022_Antrag auf Lärmmessung an der Pallasstraße/ Oststraße
+- TOP 7: Antrag der CDU-Fraktion vom 30.10.2022_Antrag Lärmblitzer - mehrheitlich abgelehnt
+- TOP 8: Gemeinsamer Antrag SPD-Fraktion und Bündnis90 / Die Grünen vom 31.10.2022 auf Hitzeschutz für vulnerable Personen - einstimmig angenommen
+- TOP 9: Änderung der Baumschutzsatzung
+- TOP 9.1: Ergänzung zur Sitzungvorlage 2022/283 zur Änderung der Satzung zum Schutz des Baumbestandes in der Stadt Castrop-Rauxel (Baumschutzsatzung) vom 12.03.1998 in der Fassung der 6. Änderungssatzung vom 29.11.2018 - mehrheitlich angenommen
+- TOP 10: Antrag der CDU-Fraktion vom 30.10.2022_Antrag zur Sanierung der Kabinen beim TuS Henrichenburg - einstimmig angenommen
+- TOP 11: 3. Änderung des Flächennutzungsplans der Stadt Castrop-Rauxel "Konversion ehemaliges Kraftwerk Knepper" (vormals: "Gewerbegebiet Knepper") hier: a) Umbenennung der Flächennutzungsplanänderung b) Entscheidung über die Stellungnahmen (Abwägung) c) Entscheidung über die redaktionellen Änderungen und Ergänzungen d) Feststellungsbeschluss des Plans und Billigung der Begründung mit Umweltbericht e) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde - einstimmig angenommen
+- TOP 12: Antrag der CDU-Fraktion vom 30.10.2022_Prüfauftrag EFRE-Programm NRW bzgl. Rathaus und anderer öffentlicher Gebäude - einstimmig angenommen
+- TOP 13: Antrag der CDU-Fraktion vom 26.10.2022_Prüfauftrag zu NRW.Energy4climate - einstimmig angenommen
+- TOP 14: Zweite Änderung der Verwaltungsgebührensatzung der Stadt Castrop-Rauxel
+- TOP 15: Verzicht der Stadt Castrop-Rauxel auf die anteiligen Schiedsamtsgebühren (Schiedsamtsgesetz NRW) - einstimmig angenommen
+- TOP 16: Beschlusskontrolle über die Durchführung von Ratsbeschlüssen
+- TOP 17: Teilnahme am Landes-Förderprogramm "Heimat. Zukunft. Nordrhein-Westfalen", hier: Einrichtung eines Heimat-Preises - einstimmig angenommen
+- TOP 18: Bericht der Gemeindeprüfungsanstalt NRW (gpa NRW) über die überörtliche Prüfung gemäß § 105 Gemeindeordnung NRW (GO NRW) im Jahr 2021 - mehrheitlich angenommen
+- TOP 19: Implementierung und dauerhafter Betrieb eines Energiemanagementssystems für die Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 20: Antrag der Fraktionen SPD und Bündnis 90 / Die Grünen vom 10.10.2022_ Würdigung Karl Ganser - einstimmig angenommen
+- TOP 21: Antrag RM Henke_Fraktionslos_ Übermittlung von Daten aus dem Melderegister vom 03.11.2022
+- TOP 22: Antrag der FDP - Fraktion vom 08.11.2022_ Ausschussumbesetzungen - einstimmig angenommen
+- TOP 23: Grundstücksgeschäfte der Entwicklungsgesellschaft Castrop-Rauxel GmbH (ECAS GmbH) - mehrheitlich angenommen
+- TOP 24: Antrag der Ratsfraktion Die FRAKTION vom 18.11.2022_Neuordnung der Zuständigkeiten der Beigeordneten der Stadt Castrop-Rauxel
+- TOP 25: Antrag Fraktion DIE LINKE vom 22.11.2022_Prüfauftrag: Nutzung einer Biogasanlage
+- TOP 26: Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum Stichtag 30.10.2022
+- TOP 27: Zusätzlicher investiver Mittelbedarf für die Aufnahme ukrainischer Flüchtlinge hier: Genehmigung der Dringlichkeitsentscheidung vom 07.11.2022 - einstimmig angenommen
+- TOP 28: Antrag der CDU-Fraktion vom 16.11.2022_Dringlichkeitsantrag für die Erstellung eines Konzeptes zur Realisierung einer Null-Toleranz-Stragie für die Auto-Tuning-Szene in Castrop-Rauxel - einstimmig angenommen
+- TOP 29: Neubau Quertrakt an der Fridtjof-Nansen-Realschule (FNR) Bereitstellung von weiteren außerplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei der Buchungsstelle 0321006 03013 211502 ALT 732 (Neubau Quertrakt FNR) - einstimmig angenommen
+- TOP 30: Anfragen der Ratsmitglieder
+- TOP 31: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
