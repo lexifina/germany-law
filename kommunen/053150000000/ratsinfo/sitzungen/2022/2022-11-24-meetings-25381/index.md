@@ -1,0 +1,63 @@
+# 13. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-24T17:00:00+01:00
+- Ende: 2022-11-24T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25381
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25381
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Wirtschaftliche Auswirkungen einer Sperrung der Deutzer Freiheit
+- TOP 1.2: Bericht zur allgemeinen Situation am Flughafen Köln/Bonn
+- TOP 1.3: Entwicklung des Arbeitsmarktes in Köln
+- TOP 1.4: Betreibereinschränkung Lanxess Arena
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung der Verwaltung unter TOP 15.4. - Kenntnis genommen
+- TOP 3.3: Beantwortung der mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Verwendung der Mittel aus der Kulturförderabgabe 2021" (TOP 17.1 - WiA 18.08.2022 und TOP 3.2 - WiA 22.09.2022) - Kenntnis genommen
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Mündliche Anfrage der SPD-Fraktion - Herr v. Geffen - betr.: "Werbung für den Tourismus in Köln" (1339/2022 - WiA 12.05.2022 und TOP 17.3 - WiA 22.09.2022)
+- TOP 3.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Anfrage der Fraktion Volt betr.: "Datenbasierte Evaluation der autofreien Zone Deutzer Freiheit" - zurückgestellt
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 5.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Überplanung von Gewerbegebieten (GE) und Industriegebieten (GI)" - ungeändert beschlossen
+- TOP 5.2: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Digitale Veedelsplattform zur Förderung des Einzelhandels in Köln" - geändert beschlossen
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 7.1: Regionalplanneuaufstellung, hier: Stellungnahmen der interkommunalen Kooperationen Kölns - Kenntnis genommen
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Positive Beschäftigungsentwicklung in der Kölner Medien- und IT-Branche setzt sich fort - Kenntnis genommen
+- TOP 11.2: Corona-Pandemie führt zu Beschäftigungsrückgang im Kölner Einzelhandel - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 13.1: Branchenforum Industrie: Auswirkungen von Gasnotlage und Strompreisentwicklung auf Kölns produzierende Unternehmen - Kenntnis genommen
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 14.1: Türkisches Biotechnologie-Unternehmen Monrol errichtet Produktionsstätte in Köln - Kenntnis genommen
+- TOP 14.2: Neue Strategie für die Entwicklung des Leitmarktes Kultur- und Kreativwirtschaft von KölnBusiness - Kenntnis genommen
+- TOP 15: Mitteilungen
+- TOP 15.1: Sachstand beim Ausbau der Infrastruktur für Elektromobilität - Schwerpunkt Fast Charger - Kenntnis genommen
+- TOP 15.2: Privilegierte Partnerschaft Köln-Klagenfurt - Kenntnis genommen
+- TOP 15.3: Hallen Kalk – der Osthof: - Kenntnis genommen
+- TOP 15.4: Erste Gespräche zur Abstimmung neuer Regelung für die Außengastronomie hier: Sachstand - Kenntnis genommen
+- TOP 15.5: Sachstand zur Umsetzung des Ratsbeschlusses vom 10.12.2020 - zurückgestellt
+- TOP 15.6: Autonomes Zentrum - Sachstandsbericht über den Dialog zur Alternativstandortfrage - Kenntnis genommen
+- TOP 15.7: Autonomes Zentrum - Beantwortung von Anfragen zum Standort in Köln-Kalk - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Anpassung Nutzungskonzept für die zentralen Innenstadtplätze für den Zeitraum 01.01. - 31.12.2023 - ohne Votum in nachfolgende Gremien
+- TOP 16.2: Strategie Klimaneutrales Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion AfD betr.:„Strategie Klimaneutrales Köln“ - ohne Votum in nachfolgende Gremien
+- TOP 17: Mündliche Anfragen
+- TOP 17.1: Regionalstudie zur Landwirtschaft
