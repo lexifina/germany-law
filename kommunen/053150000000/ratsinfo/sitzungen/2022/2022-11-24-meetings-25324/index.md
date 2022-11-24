@@ -1,0 +1,79 @@
+# 15. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-24T17:00:00+01:00
+- Ende: 2022-11-24T18:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25324
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25324
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Parkplatzmarkierung auf der Flehbachstraße in Köln-Brück - geändert beschlossen
+- TOP 7.2: Eine Achtsamkeitsoase für den Kalker Friedhof schaffen - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen vom 22.11.2022 zu: "Eine Achtsamkeitsoase im Stadtteil Kalk schaffen" - ungeändert beschlossen
+- TOP 7.3: Bänke für die Hundefreilauffläche Neubrück zur Entschärfung des Konfliktes zwischen Hundebesitzenden und Fahrradfahrenden - geändert beschlossen
+- TOP 7.4: Beteiligungsbüros in den Veedeln - zurückgestellt
+- TOP 7.5: Fit an der Gießener Straße/Antrag der Fraktion Bündnis 90/Die Grünen vom 11.11.2022 - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen vom 22.11.2022 zu: "Fit an der Gießener Straße" - geändert beschlossen
+- TOP 7.6: Ein Minimarkt der Möglichkeiten zum Weltfrauentag in Kalk - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen vom 22.11.2022 zu "Ein Minimarkt der Möglichkeiten zum Weltfrauentag in Kalk" - geändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Projektanträge im Rahmen des zweiten Antragsdurchlaufs des Verfügungsfonds für das Soziale-Stadt-Gebiet „Ostheim und Neubrück" - ungeändert beschlossen
+- TOP 8.1.2: Berufung der Kunstsachverständigen Vertreter für den Kunstbeirat, Ratsperiode 2020-2025 hier: Wahl des Stellvertreter/ der Stellvertreterin - ungeändert beschlossen
+- TOP 8.1.3: Vergabe von weiteren Teilen der bezirksorientierten Mittel für das Jahr 2022 - ungeändert beschlossen
+- TOP 8.1.4: Förderprogramm über die Vergabe bezirksorientierter Mittel 2023/2024 gemäß § 37 Abs. 3 GO NRW - ungeändert beschlossen
+- TOP 8.1.5: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Kalk 2022/2023 - hier:Förderprogramm - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 8.2.2: Baubeschluss für die Sanierung des Knotenpunktes Ostheimer Straße/Vingster Ring (inklusive Sanierung der Radverkehrsanlage) sowie einer Freigabe von investiven Auszahlungsermächtigungen bei der Finanzstelle 6601-1201-0-1008, Generalsanierung Radwege - geändert beschlossen
+- TOP 8.2.3: Einrichtung einer Buslinie auf der Inneren Kanalstraße - geändert beschlossen
+- TOP 8.2.4: 284. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - endgültig abgelehnt
+- TOP 8.2.5: Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der BV-Kalk vom 20.10.2022 (AN/1775/2022) "Ein Naturerfahrungsraum (NER) für Köln-Kalk" - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der BV-Kalk vom 20.10.2022 TOP 9.2.1 "Stadtbahnprojekt Neubrück" (AN/1714/2022) - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer mündl. Anfrage in der Sitzung der BV-Kalk vom 28.05.2020 TOP 9.3.2 "Mähen des Straßenbegleitgrüns im Stadtbezirk Kalk" - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer mündl. Anfrage in der Sitzung der BV-Kalk vom 20.10.2022TOP 9.3.2 "Realisierung Baumbepflanzungen unter dem Motto eines "Waldes für Köln" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Erhebung von Sondernutzungsentgelte im Stadtbezirk Kalk - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion vom 12.10.2022 "Erhebung von Sondernutzungsentgelten im Stadtbezirk Kalk" (AN/1778/2022) - Kenntnis genommen
+- TOP 9.2.2: Entwicklung der Grünflächen im Stadtteil Kall - Kenntnis genommen
+- TOP 9.2.3: Abschluss der Baumaßnahmen der Autobahn GmbH des Bundes zur Errichtung von Ersatzneubauten an der Eiler Straße in Köln Rath/Heumar - Kenntnis genommen
+- TOP 9.2.4: Erstellung einer barrierefreien Schräge neben der Treppe zwischen der KVB-Haltestelle Köln-Merheim und den drei Discountern - Kenntnis genommen
+- TOP 9.2.5: Befahrung der Steprathstraße in Köln-Kalk mit LKW über 7,5t/Anfrage der SPD-Fraktion vom 11.11.2022 - Kenntnis genommen
+- TOP 9.2.6: Videokameras auf der Kalker Hauptstraße - zurückgestellt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der BV-Kalk vom 24.11.2022 TOP 9.2.6 (AN/2001/2022) "Videokameras auf der Kalker Hauptstraße" - zurückgestellt
+- TOP 9.2.7: Neuer Bolzplatz Georgestraße in Neubrück/Anfrage der Fraktion Die LINKE. vom 17.11.2022 - Kenntnis genommen
+- TOP 9.2.8: Status Trinkwasserbrunnen/Anfrage der Fraktion Die LINKE. vom 17.11.2022 - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: 20. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Änderungen zum Fahrplanwechsel 2022 (Fahrplanjahr 2023) - Kenntnis genommen
+- TOP 10.2.3: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 10.2.4: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 10.2.5: Baulicher Zustand der Lehrschwimmbecken in Köln - Kenntnis genommen
+- TOP 10.2.6: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2022 - Kenntnis genommen
+- TOP 10.2.7: Hallen Kalk – der Osthof: - zurückgestellt
+- TOP 10.2.8: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote 2022 - Kenntnis genommen
+- TOP 10.2.9: Weitere Planung der Kinder- und Jugendpartizipation in Köln - Kenntnis genommen
+- TOP 10.2.10: Elternbefragung "von4nach5" 2022 - Kenntnis genommen
+- TOP 10.2.11: Zweiter Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 10.2.12: Autonomes Zentrum - Sachstandsbericht über den Dialog zur Alternativstandortfrage - Kenntnis genommen
+- TOP 10.2.13: Stellungnahme zu dem Antrag AN/1713/2022: der Fraktion Bündnis 90/Die Grünen vomm 20.10.2022 TOP 7.7: "FFP2/OP-Masken und Corona-Test-Kits für alle sozialen Kinder-, Jugend- und Sozialeinrichtungen im Stadtbezirk Kalk"
+- TOP 10.2.14: Autonomes Zentrum - Beantwortung von Anfragen zum Standort in Köln-Kalk - Kenntnis genommen
+- TOP -: Übersicht BV Anfragen Stand 24.11.2022
