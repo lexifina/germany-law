@@ -1,0 +1,58 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-24T18:00:00+01:00
+- Ende: 2022-11-24T20:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22428
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22428
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö vom 24.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00467219.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö vom 24.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00467219.pdf
+- Wortprotokoll: Sitzungspaket Ö vom 24.11.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00467219.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 10.11.2022 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 29.09.2022 - einstimmig beschlossen
+- TOP 4: Bebauungsplan-Entwurf Nr. 08/006 - Königsberger Straße/Tulpenweg - Empfehlung einstimmig beschlossen
+- TOP 5: Flächennutzungsplanänderung Nr. 194 - Königsberger Straße/Tulpenweg - Empfehlung einstimmig beschlossen
+- TOP 6: Bebauungsplan-Entwurf Nr. 08/002 - Nördlich Gerresheimer Landstraße (Ergänzendes Verfahren) - Empfehlung einstimmig beschlossen
+- TOP 7: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - Empfehlung abweichend beschlossen
+- TOP 7.1: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt")(Änderungsantrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beschlossen
+- TOP 8: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Erweiterung der Carl Sonnenschein Grundschule, Gerresheimer Landstraße 89, Erhöhung der Zügigkeit von ein auf zwei Züge“ - Empfehlung einstimmig beschlossen
+- TOP 9: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2023 - Empfehlung mehrheitlich beschlossen
+- TOP 10: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 1. Halbjahr 2023 - beschlossen
+- TOP 11: Calisthenics-Park am Unterbacher See - einstimmig beschlossen
+- TOP 12: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 13: Zuschüsse der Bezirksvertretung 8 im Jahr 2022 - einstimmig beschlossen
+- TOP 14: Demonstrationen in reinen Wohngebieten im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 15: Ampelvorrangschaltungen für die Rheinbahn im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Fassadenbegrünung an der GGS Bingener Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Kikweggraben (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Gestaltung von Fahrradstraßen (Anfrage SPD-Fraktion) - beantwortet
+- TOP 19: Gestaltung der renaturierten Düssel (Anfrage SPD-Fraktion) - beantwortet
+- TOP 20: Anemonenweg-Parksituation (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.1: Beauftragte/r gegen Rechtsextremismus (Änderungsantrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 22: Radfahrstreifen und Radfahrschutzstreifen Kuthsweg und Ronsdorfer Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 23: Machbarkeitsstudie Veloroute Düsseldorf-Wuppertal im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 24: Polleranlage Gertrudisplatz (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Kreuzung Auf'm Großenfeld/Gumbertstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 26: Barrierefreiheit der U75 in Eller (Antrag SPD-Fraktion) - mehrheitlich abgelehnt
+- TOP 27: Verschattung von Straßen und Plätzen im Stadtbezirk 8 (Antrag SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 27.1: Verschattung von Straßen und Plätzen im Stadtbezirk 8 (Änderungsantrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - zurückgezogen
+- TOP 28: Flächennutzungsplanänderung Nr. 138 - Glasmacherviertel - zur Kenntnis genommen
+- TOP 29: Sitzungstermine der Bezirksvertretung 8 im Jahre 2023 - zur Kenntnis genommen
+- TOP 30: Kanalneubau Akazienstraße / Ahornstraße / Am Strasserfeld in Düsseldorf-Unterbach - zur Kenntnis genommen
+- TOP 31: Jägerstraße/Festenbergstraße – Parkplatzverbindung - zur Kenntnis genommen
+- TOP 32: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 33: Anpassung der Bus- und Bahnverbindungen während der Ausbaumaßnahme zum RRX - zur Kenntnis genommen
+- TOP 34: Informationsvorlage der Verwaltung nach dem Hochwasser am 14.07 und 15.07.2021 - Bericht über den Sachstand zu den im Kapitel 13 identifizierten Maßnahmen und Optimierungsansätzen - - zur Kenntnis genommen
+- TOP 35: Renaturierung Südliche Düssel – 2.BA - zur Kenntnis genommen
+- TOP 36: Weinheimer Straße - Fahrradweg - zur Kenntnis genommen
+- TOP 37: Grünordnungsrahmenplan Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Regenrückhaltebecken Krippstrasse - Baumaßnahmen - zur Kenntnis genommen
