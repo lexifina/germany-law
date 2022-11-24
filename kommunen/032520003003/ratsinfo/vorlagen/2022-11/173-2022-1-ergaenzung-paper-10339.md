@@ -1,0 +1,22 @@
+# Zuschuss für Veranstaltungen des Staatsbades im Jahr 2022
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 173/2022 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-11-24
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZVOg5q-MjC91dCnSsWvr7xU
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10339
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Zuschuss für Veranstaltungen des Staatsbades im Jahr 2022) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeUTRmWVyCc3hQtjPfZi6k81kPVFQl3uEwuEqKMVt9fB/Beschlussvorlage_173-2022_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Zuschuss zu Veranstaltungen des Staatsbades 2022) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfrcpKdqqKxWHgKHn1SX_gZOmLRuvT6EGSwpEE3kN03n/Zuschuss_zu_Veranstaltungen_des_Staatsbades_2022.pdf
+- Anlage: Beschlussvorlage (Veranstaltungen Staatsbad 01 bis 06 2022) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVDVCvBoSk7akPpYQQQ3GlgeoKnLQU7N_TI3WnD0mOGQ/Veranstaltungen_Staatsbad_01_bis_06_2022.pdf
+- Anlage: Beschlussvorlage (Veranstaltungen Staatsbad 03 bis 06 2019) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWwTwqerZFtqTYke3ifbaPBPH8E6IcayF0MITC2EDIBX/Veranstaltungen_Staatsbad_03_bis_06_2019.pdf
+- Anlage: Beschlussvorlage (2022-07 - Veranstaltungen.JPG) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS0dZJ8S4IIPyUJhkodTmbtUcHcn3a9GZ8de7H3IFVug/2022-07_-_Veranstaltungen.JPG.pdf
+- Anlage: Beschlussvorlage (2022-08 - Veranstaltungen.JPG) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfqbDUXWE_q8PENjl7-RX41mMHYfbHLKXjg019Oy5lqG/2022-08_-_Veranstaltungen.JPG.pdf
+- Anlage: Beschlussvorlage (2022-09 - Veranstaltungen.JPG) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS8v-DcSY1gvm3Vrl3MyukfTNPDhF7LmiSO9bFnwExJq/2022-09_-_Veranstaltungen.JPG.pdf
+- Anlage: Beschlussvorlage (2019-07 - Veranstaltungen.JPG) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZehRgHVTFBsylseUB2rldZRSxb5ihZ8hAEBz43_SwOGT/2019-07_-_Veranstaltungen.JPG.pdf
+- Anlage: Beschlussvorlage (2019-08 - Veranstaltungen.JPG) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUTheQV7mI5mnuaIGLAMFtwjiIbW-Tmce8HKMZkmJR9A/2019-08_-_Veranstaltungen.JPG.pdf
+- Anlage: Beschlussvorlage (2022-09 - Veranstaltungen.JPG) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYWJdu1CC888EY9u-kXwi2ROPb7eMIyaZ09s-RpcD-N_/2022-09_-_Veranstaltungen.JPG.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20728 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20729 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-11
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-198
