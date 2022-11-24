@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag der Fraktion AfD betr.:„Strategie Klimaneutrales Köln“
+
+- Sitzung: 13. Sitzung des Wirtschaftsausschusses (2022-11-24)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/364183
+- Ergebnis: ohne Votum in nachfolgende Gremien
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/169292
