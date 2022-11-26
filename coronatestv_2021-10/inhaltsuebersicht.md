@@ -22,4 +22,4 @@
 | § 16 | Transparenz |
 | § 17 | Labordiagnostik durch Tierärzte |
 | § 18 | Übergangsvorschrift |
-| § 19 | Inkrafttreten, Außerkrafttreten |
+| § 19 | Außerkrafttreten |

@@ -24,4 +24,4 @@
 - [§ 16 Transparenz](0016.md)
 - [§ 17 Labordiagnostik durch Tierärzte](0017.md)
 - [§ 18 Übergangsvorschrift](0018.md)
-- [§ 19 Inkrafttreten, Außerkrafttreten](0019.md)
+- [§ 19 Außerkrafttreten](0019.md)

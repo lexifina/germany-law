@@ -11,4 +11,3 @@
 - [§ 7 Ausnahmen von der Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz](0007.md)
 - [§ 8 Ausnahmen von der GCP-Verordnung](0008.md)
 - [§ 9 Bereitstellung von persönlichen Schutzausrüstungen im Kontext der COVID-19-Bedrohung](0009.md)
-- [§ 10 Inkrafttreten, Außerkrafttreten](0010.md)
