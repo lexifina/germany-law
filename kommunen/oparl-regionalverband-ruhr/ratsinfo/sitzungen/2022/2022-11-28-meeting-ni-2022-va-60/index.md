@@ -1,0 +1,95 @@
+# 8. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2022-11-28T10:05:00+01:00
+- Ende: 2022-11-28T11:40:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2022-VA-60
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2022-VA-60
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-VA-60
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2022-VA-60
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Haushalt 2023
+- TOP 2.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2023
+- TOP 2.2: Verabschiedung des Haushaltsplans 2023
+- TOP 2.2.1: Änderungsanträge zum Haushalsplan 2023
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2023
+- TOP 3.2: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. EUR Gesamtkosten (Titel 777 12): Priorisierung der Maßnahmen für das Jahr 2023
+- TOP 3.3: Programm Radwegebau an bestehenden Landesstraßen (Titel 777 14) - Priorisierung für das Jahr 2023
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 4.1: Änderungsverfahren 44 MH des Regionalen Flächennutzungsplans (RFNP) der Planungsgemeinschaft Städteregion Ruhr Einvernehmensherstellung nach § 41 Abs. 3 LPlG
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.1.1: Wind-an-Land-Gesetz
+- TOP 7.1.1.1: Antwort auf die Anfrage der CDU-Fraktion Wind-an-Land-Gesetz
+- TOP 7.1.2: Antwort auf die Anfrage der AfD-Fraktion Auswirkungen des Wind-an-Land-Gesetzes auf das RP-Verfahren
+- TOP 7.1.3: Antwort auf die Anfrage der AfD-Fraktion Fragen zum Abgrabungsmonitoring DS 14/0696
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2021
+- TOP 8.2: Angelegenheiten der Business Metropole Ruhr GmbH - Anteilserhöhung Ruhr:HUB GmbH zum 31.12.2021
+- TOP 8.3: Angelegenheit der Umweltzentrum Westfalen GmbH - Investitionen und Finanzierung der zukünftigen Entwicklung der Gesell-schaft (Maschinenhalle und Besucherzentrum)
+- TOP 8.4: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Darlehensvertrag / Verbindlichkeiten gegen Gesellschafter 2021
+- TOP 8.5: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH - Erhöhung des Gesellschafterzuschusses und Änderung der Gesellschafter-vereinbarung 2023
+- TOP 8.6: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Zuschuss- und Finanzierungsvertrag
+- TOP 8.7: Angelegenheiten der Kultur Ruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.8: Angelegenheiten der AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH - Public Corporate Governance Kodex des RVR - spezifische Regelungen für die AGR mbH
+- TOP 8.9: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Gesellschaftervereinbarungen
+- TOP 8.10: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Gesellschaftsvertrag einschließlich Aufhebung des Betrauungsaktes
+- TOP 8.11: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Regionale Europakampagne 2023/2024
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Wanderlandschaft Metropole Ruhr
+- TOP 9.2: Entwicklungs- und Vermarktungskonzept Regionale Kooperationsstandorte
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.1: Ergebnispräsentation Regionales Freizeitmobilitätskonzept
+- TOP 10.2: Leitbild metropolengerechter ÖPNV
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Beschluss des Konzepts zum Prozessschutz
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 12.1: Kunst- und Kulturförderung - Projektförderung im Rahmen des Regionalen Kulturprogramms - Kulturregionen Hellweg, Niederrhein und Ruhrgebiet hier: Beratung und Beschlussfassung 2022
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 13.1: Einrichtung einer regionalen Koordinierungsstelle Digital Health
+- TOP 13.2: Ganztag - Beschluss zur Begleitung der Kommunen bei der Umsetzung des Rechtsanspruchs auf Ganztag
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 14.1: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2023
+- TOP 14.2: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2021. Beschluss über die Ausgleichsrücklage. Entlastung des Betriebsausschusses RVR Ruhr Grün.
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 15.1: Bericht des Referates Rechnungsprüfung des Regionalverbandes Ruhr über die Prüfung des Gesamtabschlusses 2019
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Änderung der Verbandsordnung hier: Erstattungsfähige Fraktionssitzungen; Aufwandsentschädigungen; Vorsitz Wahlprüfungsausschuss; Film- und Tonaufnahmen während der Verbandsversammlung
+- TOP 16.2: Überplanmäßige Mittelbereitstellung für diverse Projekte im Büro RDin
+- TOP 16.3: Entwurf des NKF-Gesamtabschlusses zum 31.12.2020
+- TOP 16.4: Projekt- und Finanzberichtswesen zum 31.08.2022
+- TOP 16.5: Bekanntgabe der in der Zeit vom 01.07.2022 - 31.10.2022 für das Haushaltsjahr 2022 genehmigten Haushaltsüberschreitungen
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 17.1: Investitionsbedarfe und Sachkosten der Bäderlandschaft der RVR-Familie
+- TOP 17.2: Erneuerbare Energien auf den Flächen des Regionalverbands Ruhr jetzt entfesseln!
+- TOP 17.3: Angelegenheiten der Freizeitgesellschaften Hier: Kündigung der Beteiligung am Revierpark Wischlingen GmbH und Entwicklung eines Ausstiegsszenarios
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort auf die Anfrage der CDU-Fraktion Strategieprozess FMR GmbH
+- TOP 18.1.2: Antwort auf die Anfrage der AfD-Fraktion Personalaufwuchs in der RVR-Verwaltung
+- TOP 18.1.3: Antwort auf die Anfrage der SPD-Fraktion Energiesparen beim RVR und seinen Tochtergesellschaften
+- TOP 18.1.4: IBA-Anschlussprojekt
+- TOP 18.2: Mitteilungen
+- TOP 18.2.1: Manifesta 16 Ruhr gGmbH - Bestellung einer Gründungsgeschäftsführung
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
