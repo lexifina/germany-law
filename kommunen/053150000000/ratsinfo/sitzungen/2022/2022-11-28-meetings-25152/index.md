@@ -1,0 +1,72 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-28T17:00:00+01:00
+- Ende: 2022-11-28T19:31:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25152
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25152
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde zum Sicherheitskonzept des Karnevalsauftakts am 11.11.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Auftakt Cross Mentoring Köln Düsseldorf - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - zurückgestellt
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer Anfrage betreffend "Diskriminierung bei der Wohnungssuche – was kann die Stadt tun?" - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage betreffend "Qualifizierungsangebote Diskriminierungsfreies Handeln im Schulungsprogramm der Stadt Köln" - zurückgestellt
+- TOP 3.3: Beantwortung einer mündlichen Anfrage betreffend "Rückfrage zum Zweiten Sachbstandsbericht der Arbeitsgruppe Kölnberg" - Kenntnis genommen
+- TOP 3.4: Beantwortung der Anfrage AN/2183/2022 - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Anfrage AN/2190/2022 der SPD-Fraktion betreffend "Maßnahme des Ordnungdienstes der Stadt Köln im Cinenova a, 20.11.2022) - zurückgestellt
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Personalbericht 2021 - Kenntnis genommen
+- TOP 4.2: -
+- TOP 4.3: Zweiter Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 4.4: Inklusionsbericht 2021 - Kenntnis genommen
+- TOP 4.5: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 16. November 2022 - Kenntnis genommen
+- TOP 4.6: Rückblick zur Sessionseröffnung am 11.11.2022 - Kenntnis genommen
+- TOP 4.7: Antrag/Beschlussempfehlung zu neues Niederflur Stadtbahnfahrzeug (Arbeitstitel NF12) Hier: nicht gegebene Barrierefreiheit im Modell Stand 28.07.2022 - Kenntnis genommen
+- TOP 4.8: Historisches Rathaus - Sachstand zur Sanierung des Hansasaals - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der FDP-Fraktion betreffend "Antikorruptionsrichtlinien der Stadt Köln" - zurückgestellt
+- TOP 6.2.2: Anfrage der FDP- Fraktion betreffend "Multifunktionales Kundenzentrum" - zurückgestellt
+- TOP 6.2.3: Anfrage der AfD betreffend "Kontrollen durch Polizei, Ordnungsamt und weitere städtische Behörden" - zurückgestellt
+- TOP 6.2.4: Anfrage der SPD- Fraktion betreffend "Wie kam es zur Untersagung der Filmvorführungen im Cinenova?" - Kenntnis genommen
+- TOP 6.2.5: Anfrage der Fraktion Die Linke betreffend "Löschung von Vorlagen in Session" - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Fraktion GUT betreffend "Ein Heinzel am Wörthersee"
+- TOP 8.1.1: Änderungsantrag der Fraktion GUT betreffend "Ein Heinzel am Wörthersee"
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2023 - ungeändert beschlossen
+- TOP 9.2: Anpassung Nutzungskonzept für die zentralen Innenstadtplätze für den Zeitraum 01.01. - 31.12.2023 - geändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Brandschutzbedarfsplan der Stadt Köln 2022 - 2027 - ungeändert beschlossen
+- TOP 10.2: Strategie Klimaneutrales Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag „Strategie Klimaneutrales Köln“ - ohne Votum in nachfolgende Gremien
+- TOP 10.3: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2021 - ungeändert beschlossen
+- TOP 10.4: Durchführung des EhAP Plus Projektes INKA - In Köln Ankommen - Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert beschlossen
+- TOP 10.5: Freigabe der Mittel 2022 zur Unterstützung der Entwicklung des Ausländeramtes zur Willkommensbehörde - ungeändert beschlossen
+- TOP 10.6: polisMOBILITY 2023 Bedarfsfeststellung - ungeändert beschlossen
+- TOP 10.7: Neufassung der Friedhofssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.8: Teilnahme am Landesprogramm „Kommunales Integrationsmanagement (KIM)“ - ungeändert beschlossen
+- TOP 10.9: Eigentumsübertragung von 92 Benin-Hofkunstwerken aus dem Rautenstrauch-Joest-Museum an die Bundesrepublik Nigeria - ohne Votum in nachfolgende Gremien
+- TOP 10.10: Änderung der Rettungsdienstsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.11: Änderung der Luftrettungssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.12: Digitalstrategie der Museen - ungeändert beschlossen
+- TOP 10.13: 15. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.14: Feststellung des Wirtschaftsplanes der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2023 - ungeändert beschlossen
+- TOP 10.15: Satzung über die Abfallentsorgung in der Stadt Köln 2023 - ohne Votum in nachfolgende Gremien
+- TOP 10.16: Satzung über die Abfallgebühren in der Stadt Köln 2023 - ohne Votum in nachfolgende Gremien
+- TOP 10.17: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln 2023 - ohne Votum in nachfolgende Gremien
+- TOP 10.18: Bedarfsfeststellungsbeschluss zur Vergabe von Leistungen für den Themenbereich Sicherheit im Rahmen der Vorbereitung und Durchführung der Fußball EM 2024 - ohne Votum in nachfolgende Gremien
+- TOP 10.19: Ausweitung der Umsatzsteuerpflicht der juristischen Personen des öffentlichen Rechts durch den neuen § 2b Umsatzsteuergesetz (UStG), Umsetzung in den Gebührensatzungen und Entgeltordnungen der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
