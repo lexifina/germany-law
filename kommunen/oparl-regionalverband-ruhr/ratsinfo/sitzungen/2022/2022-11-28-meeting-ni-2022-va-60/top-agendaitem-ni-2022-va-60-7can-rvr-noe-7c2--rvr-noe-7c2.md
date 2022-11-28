@@ -1,0 +1,6 @@
+# TOP -: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 8. Sitzung des Verbandsausschusses (2022-11-28)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2022-VA-60%7CAn-rvr-noe%7C2
