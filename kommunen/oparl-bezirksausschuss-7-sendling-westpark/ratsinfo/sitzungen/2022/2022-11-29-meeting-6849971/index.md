@@ -1,0 +1,226 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-11-29T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6849971
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6849971
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Fernpass-Grundschule; Bürgersteig vor dem Eingang verbreitern
+- TOP 6.2.: Große Veranstaltung der tamilischen Schule im BA im Westpark am 15. Januar 2023
+- TOP 6.3.: Vorschläge zum Tempolimit
+- TOP 6.4.: Parken Siegenburger Straße
+- TOP 6.5.: Sanierung Westpark
+- TOP 6.6.: Rücksichtslose Radlfahrer im Westpark
+- TOP 6.7.: Anliegen, Beschwerde,Antrag
+- TOP 6.8.: Stationäre Geschwindigkeitskontrolle A95
+- TOP 6.9.: 30ger Zone Höglwörtherstraße
+- TOP 6.10.: Unterbrechung der Nebelhornstr. am Pfrontener Platz
+- TOP 6.11.: Anfrage zur Nutzung einer Grünfläche in der Grüntenstraße
+- TOP 6.12.: Fitness Parcours Isarauen
+- TOP 6.13.: Drachenseestraße ZickZack Linien Mülltonnen
+- TOP 6.14.: Osteuropäische Bettler Stefan-Zweig Weg
+- TOP 6.15.: Drachensee-/Oetztaler St
+- TOP 6.16.: Mülleimer Pressburger Straße
+- TOP 6.17.: Verkehrszeichen.de
+- TOP 6.18.: Drachenseestraße 30 U Bahn
+- TOP 6.19.: Parkprobleme in Sendling-Westpark
+- TOP 6.20.: Beschwerde Heckenstallerpark
+- TOP 6.21.: Umkehrschleife Ebermayerstraße, absolutes Halteverbot anstelle von eingeschränktem Halteverbot
+- TOP 6.22.: Tempo 30 in der Johann-Clanze-Straße
+- TOP 6.23.: Große Veranstaltung der tamilischen Schule im BA Sendling Westpark
+- TOP 6.24.: Einschränkungen für Diesel-Fahrzeugrn auf dem Mittleren Ring
+- TOP 6.25.: Antrag Fahrradstraße Ortlerstraße
+- TOP 6.26.: Parkproblem Gottfried-Böhm-Ring
+- TOP 6.27.: überfüllte Container an den Wertstoffinseln
+- TOP 6.28.: Parkverbot in der Marbachstraße
+- TOP 6.29.: Verkehrsbelastung Passauerstraße
+- TOP 6.30.: Föderung Holzöfen
+- TOP 6.31.: Projekt Murnauer Straße
+- TOP 6.32.: Telefonnotiz Parken Gottfried-Böhm-Ring
+- TOP 6.33.: Telefonnotiz Wertstoffinsel Distlhofweg
+- TOP 6.34.: Siegenburger Straße
+- TOP 6.35.: Weihnachtsmarkt/Wintermarkt
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Martin-Behaim-Str_Herstellung provisorische Gehbahn und Fahrbahnsanierung
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 7 vom 01.01.2023 -31.12.2023 4.140,00€; Az. 0262.0-7-0398
+- TOP 10.2.: (E) Stadtbezirksbudget München Zeitreise “Ruinenschleicher und Schachterleis-München nach 1945“ vom 01.05.2022-01.05.2023 750,00 € / AZ.: 0262.0-7-0396
+- TOP 10.3.: (E) Stadtbezirksbudget Haus für Kinder Johann-Clanze-Straße “Walderfahrung mit der Waldpädagogin im Rahmen eines Waldprojektes“ 450,00 € / AZ: 0262.0-7-0394
+- TOP 10.4.: (E) Stadtbezirksbudget Initiative "Neujahrsempfang" Neujahrsempfang am 19.01.2023 750,00€; Az. 0262.0-7-0399
+- TOP 11.: Anträge
+- TOP 11.1.: Antrag Vorstellung Daheim-im-Viertel
+- TOP 11.2.: Radweg Waldfriedhofstr. I
+- TOP 11.3.: Radweg Waldfriedhofstr. II.
+- TOP 11.4.: Antrag Kinder und Jugendliche
+- TOP 11.5.: Tram-Westtangente -Antrag SWM
+- TOP 11.6.: Outdoor-Kicker-Wessobrunner Platz
+- TOP 11.7.: Austausch von BA-Schaukästen
+- TOP 11.8.: Fahrradabstellplätze Holzapfelkreuth
+- TOP 11.9.: Stationäre Geschwindigkeitskontrollen A95
+- TOP 11.10.: Neue Abfallbehälter für Westpark und Südpark/Sendlinger Wald
+- TOP 11.11.: Neue Parkbänke für den Westpark
+- TOP 11.12.: Fahrradzone im Bereich der Ortlerstraße
+- TOP 11.13.: Fahrradzone in der südlichen Werdenfelsstraße
+- TOP 11.14.: Gehweg am U-Bahn-Abgang Westpark / Krottenkopfstraße
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1.: 12.06a Beschluss zu PuG 2022-07 - Trampolin Marbachstr.
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1.: Antwort aus dem Bundestag zur Vereinfachug der Regeln für Tempo 30-Zonen
+- TOP 13.2.: Ratschbankerl am LKP
+- TOP 13.3.: Soz Herausforderungen
+- TOP 13.4.: 13.13 a Workshop Mobilität mit dem Unterausschuss Mobilität und Wirtschaft
+- TOP 13.5.: 13.13 b Protokoll Runder Tisch zu Soz. Hearusforderungen Sendling-Westpark 7
+- TOP 13.6.: 13.13 c Vortrag_rT_SB7
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Hansastraße-Gorilla
+- TOP 15.2.: Bauvorhaben Garmischer Str.
+- TOP 15.3.: Bauvorhaben Hansastraße
+- TOP 15.4.: Bauvorhaben Garmischer/Ecke Preßburgerstr.
+- TOP 15.5.: Bauvorhaben Andreas-Vöst-Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Laternenfest
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Winterzauber Gans am Wasser, vom 25.11. - 18.12.2022
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: Planfeststellungsverfahren Tram-Westtangente Tektur A
+- TOP 31.: Sozialreferat
+- TOP 31.1.: Negativattestes Zillertalstr.
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Fristverlängerung des BA 7 Radabstellanlagen an der U-Bahn-Station Westendstraße
+- TOP 33.2.: Bescheid Pollinger Str.
+- TOP 33.3.: Treppe Heimeranplatz/Josef-Rank-Weg und Sendlinger Spange
+- TOP 33.4.: Antw. Fahrbahnbelag Fernpaßstr./Treffauerstr erneuern
+- TOP 33.5.: Fristverlängerung Radabstellanlage an der Ecke Daxenberger-/Bodenehrstraße
+- TOP 33.6.: Fristverlängerung Radabstellanlage an der Ecke Drachensee
+- TOP 33.7.: Radabstellanlagen im Parkstreifen neben dem Baumgraben
+- TOP 33.8.: Antw. Ersatz der Sitzbank im Westpark Ostteil
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 34.1.: Kulturbürgerhaus SWP-Laim
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 39.2.: Albert-Roßhaupter-Str. -Bescheid Baumfällung
+- TOP 39.3.: Bauvorhaben Edelsbergstraße
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Ladeverkehr an der Drachensee_Alb.-Roßhaupter-Straße
+- TOP 40.2.: Ladezone Drachensee- /Albert-Roßhaupter-Str.
+- TOP 40.3.: Martin-Behaim-Straße
+- TOP 40.4.: Antwort Vorfahrtzeichen Margaretenstr.
+- TOP 40.5.: Antwortschreiben Beschilderung von Umgehungsrouten um den Westpark
+- TOP 40.6.: Verkehrsberuhigung Konrad-Celtis-Str Telefonnotiz MOR
+- TOP 40.7.: Ergebnisbericht Verkehrserhebung Westpark
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Antwortschreiben Klima-Lotsinnen
+- TOP 44.2.: Quartierskonzept Klimaschutz - Workshop Mobilität
+- TOP 44.3.: Nächtliche Ruhestörung durch Züge
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Interims Jugendtreff
+- TOP 46.2.: Belegung Unterkunft
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Austausch Runder Tisch Soziale Herausforderungen in Sendling-Westpark
+- TOP 47.2.: Planfeststellungsverfahren Tramnbahn-Westtangente
+- TOP 47.3.: Änderungen Stadtsparkasse in Sendling-Westpark
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Sanierung der Zufahrt und des Parkplatzes an der Inninger Straße
+- TOP 49.2.: Baumentfernung und Gehölzpflege
+- TOP 49.3.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweis Trafohäuschen Wessobrunner Platz
+- TOP 51.2.: Verwendungsnachweis Dschungelpalast
+- TOP 51.3.: Verwendungsnachweis Mittagsbetreuung
+- TOP 51.4.: Verwendungsnachweis Sommerferienprogramm
+- TOP 51.5.: Verwendungsnachweis Kindertheater
+- TOP 51.6.: Verwendungsnachweis Monacorona
+- TOP 51.7.: Verwendungsnachweis Kinderspielplatz
+- TOP 51.8.: Verwendungsnachweis Sportgeräte
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: unveränderte Fortführung
+- TOP 53.2.: Bescheid Laternenumzug des Kinderhaus Montessori
+- TOP 53.3.: Bescheid, Laternenfest
+- TOP 53.4.: Bescheid, Westpark, Winterzauber Gans am Wasser
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: verkehrsrechtliche Anordnung STOP und 30 Garmischer Str.
+- TOP 56.2.: Albert-Roßhaupter-Str.-Neueinrichtung pers. Behindertenparkplatz
+- TOP 56.3.: Euckenstr.-Aufhebung pers. Behindertenstellplatz
+- TOP 56.4.: Siegenburgerstr.-Neueinrichtung pers. Behindertenstellplatz
+- TOP 56.5.: Baustelleneinrichtung Hansastr.
+- TOP 56.6.: Containerburg Hansastr.
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Ausnahmezulassung
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Vorbescheid Johann-Clanze-Str.
+- TOP 61.2.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 61.3.: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 61.4.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 61.5.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 61.6.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 61.7.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Unterrichtung Erhaltungssatzungsanträge
+- TOP 62.2.: Unterrichtung Abbruch Pollingerstr.
+- TOP 62.3.: Erhaltungssatzung Fernpaßstr.
+- TOP 62.4.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Sachbericht Feierwerk Nachbarschaftstreff Interaktives Tanztheater
+- TOP 63.2.: Protokoll des Mieterbeirats 24.10.2022.
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Vorkaufsrecht Objekt Passsauerstraße/Johann-Clanze-Straße
+- TOP 65.2.: Abgeschlossenheitsbescheinigungen
+- TOP 10.5.: (E) Stadtbezirksbudget Helfer*innenkreis Hans-Thonauer- /Elsenheimerstr. /Hansastr. Jahresprogramm 2023 des Helfer*innenkreises vom 01.01. -31.12.2023 2.500,00€; Az. 0262.0-7-0400
+- TOP 6.36.: Gestaltung Eichendorfplatz-Spielplatz
+- TOP 22.1.: Mehrwöchige Nutzung der Grünanlagen und des öffentlichen Verkehrsgrunds, Richtlinien für Kultur- und Strandveranstaltungen
+- TOP 31.2.: Interim Jugendtref
