@@ -1,0 +1,68 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-11-29T17:00:00+01:00
+- Ende: 2022-11-29T20:18:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22520
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22520
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen TOP 1 - TOP 8 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00467520.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen TOP 1 - TOP 8 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00467520.pdf
+- Wortprotokoll: Sitzungsunterlagen TOP 1 - TOP 8 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00467520.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Kinder- und Jugendförderplan 2021 - 2025 - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - Empfehlung abweichend beschlossen
+- TOP 9: Stadtbahnstrecke U81/2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord – Handweiser vs. Brückenbaumaßnahmen im Zuge der A52/B7 - zur Kenntnis genommen
+- TOP 10: Stadtbahnstrecke U81/3. Bauabschnitt, Flughafen Terminal – Flughafen Bahnhof - Empfehlung einstimmig beschlossen
+- TOP 11: Städtebaulicher und freiraumplanerischer Wettbewerb Nr. 05/015 - Nördlich Kalkumer Schloßallee - - Empfehlung mehrheitlich beschlossen
+- TOP 12: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2023 - Empfehlung einstimmig beschlossen
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2022 - Liste A) Schulen 2121101 / 52415500 - einstimmig beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5, Förderung Dritter (Liste C) - Haushalt 2022, Umbau des Hochschießstands auf dem Schützenplatz Lohausen - einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2022 (Liste B) - einstimmig beschlossen
+- TOP 16: Haushaltsmittel 2022 - Zuschüsse und Zuwendungen (Liste D) - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 17: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5
+- TOP 18: Optimierung der Schulverkehre im direkten Umfeld der Toni-Turek-Realschule und des Max-Planck-Gymnasiums - beantwortet
+- TOP 19: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 20: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 21: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 22: Weg nach den Hingbenden - Wie kann das Parken geordnet und die Sicherheit erhöht werden? - beantwortet
+- TOP 23: Aufstellung von Absperrpfosten und eines Zauns im Treppenbereich zur Kirche St. Remigius in Wittlaer - beantwortet
+- TOP 24: Verkehrsanbindung zwischen Ratingen und dem Düsseldorfer Norden - beantwortet
+- TOP 25: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr?
+- TOP 26: Geschwindigkeitsmessung Kreuzung Nagelsweg/Neusser Weg
+- TOP 27: Wo sind die Parkplätze auf der Arnheimer Straße geblieben? - beantwortet
+- TOP 28: Radweg Kalkumer Schlossallee – Verbreiterung der südlichen Brückenrampen Bahnüberführung Forst Kalkum - beantwortet
+- TOP 29: Wann wird jetzt endlich die Beleuchtung des Fuß- und Radweges auf dem Gerichtsschreiberweg installiert (erneute Anfrage)? - beantwortet
+- TOP 30: Absperrgitter auf der Einbrunger Straße- Ecke Heinrich-Holtschneider-Weg - beantwortet
+- TOP 31: Wird das Klimaschutz Projekt mit einer Kübel Bepflanzung am Kaiserswerther Markt verlängert?
+- TOP 32: Brunnen am Klemensplatz - beantwortet
+- TOP 33: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie
+- TOP 34: Verkehrskonzept für den Düsseldorfer Norden
+- TOP 35: Rheinuferweg Kaiserswerth - Alternativen für einen konfliktreduzierten Rad- und Fußweg
+- TOP -: Neue Anfragen
+- TOP 36: Erhalt der Hecken in der Kleingartenanlage am Leuchtenberger Kirchweg 86
+- TOP 37: Bücherschrank Toni-Turek-Realschule
+- TOP 38: Beleuchtung auf der Straße Am Schwarzbach
+- TOP 39: Hochwasserschutzmauer - beantwortet
+- TOP 40: Tempo 30 Schild - beantwortet
+- TOP 41: Radweg auf der Arnheimer Straße/Niederrheinstraße - beantwortet
+- TOP -: Anträge
+- TOP 42: Planungskonzept für öffentliche Trinkbrunnen im Stadtbezirk 5 - zurückgezogen
+- TOP 43: Verkehrssicherheit auf dem Kaiserswerther Markt gewährleisten - lockere und fehlende Steine im Kopfsteinpflaster für Sicherheit von Radfahrern und Fußgängern austauschen und ersetzen! - zurückgezogen
+- TOP -: Informationsvorlagen
+- TOP 44: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 45: Verschiedenes
+- TOP 46: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - Empfehlung abweichend beschlossen
