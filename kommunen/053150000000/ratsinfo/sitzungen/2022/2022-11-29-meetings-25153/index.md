@@ -1,0 +1,76 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-29T14:05:00+01:00
+- Ende: 2022-11-29T16:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25153
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25153
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation vom Amt für Schulentwicklung zu Rechtsanspruch auf Ganztagsbetreuung
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Kulturzirkus Schäl Sick e.V., Verein für Kultur und Zirkuspädagogik Köln rechtsrheinisch" - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe; hier: "Louna Kitas gGmbH" - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Anwendung des § 55 Abs. 2, Satz 2 KiBiz für das Kitajahr 2023/24 - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Sanierung des NIKE Court, des Asphalttennisplatzes im Inneren Grüngürtel sowie des Asphaltplatzes an der Alfred-Schütte-Allee - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Mitgliederwechsel im Jugendhilfeausschuss, hier "Zurück in die Zukunft e.V." - ungeändert beschlossen
+- TOP 4.2: Rahmenvertrag über die Lieferung von Spielgeräten, Ersatzteilen und Zubehör - ungeändert beschlossen
+- TOP 4.3: Durchführung des EhAP Plus Projektes INKA - In Köln Ankommen - Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert beschlossen
+- TOP 4.4: Generalinstandsetzung Kindertagesstätte Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven - Weiterplanungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Teilnahme am Landesprogramm „Kommunales Integrationsmanagement (KIM)“ - ungeändert beschlossen
+- TOP 4.6: Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - geändert beschlossen
+- TOP 4.7: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - zurückgestellt
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Sachstand Kostenheranziehung für Pflege- und Heimkinder - Kenntnis genommen
+- TOP -: Beantwortung AN/1685/2022 Sachstand Kostenheranziehung für Pflege- und Heimkinder - Kenntnis genommen
+- TOP 6.1.2: Förderung von bilingualen Betreuungsmöglichkeiten - Kenntnis genommen
+- TOP -: Förderung bilingualer Betreuungsmöglichkeiten - Beantwortung AN/1715/2022 - Kenntnis genommen
+- TOP 6.1.3: Ausbau und Sicherstellung der Betreuung in der Bildungskette - Kenntnis genommen
+- TOP -: Beantwortung der AN/1839/2022 Ausbau und Sicherstellung der Betreuung in der Bildungskette - Kenntnis genommen
+- TOP 6.1.4: Beantwortung einer Anfrage der Sozialistischen Jugend -Die Falken- vom 24.08.2022 bezgl. aktueller Stand Sanierung historische Festungsanlage "Fort X" - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der Falken zu Schueler*innen-Protesten
+- TOP 6.2.2: Fördermittel für Kinder und Jugendliche aus Zuwanderer- und Flüchtlingsfamilien - zurückgestellt
+- TOP 6.2.3: Ausbau und Sachstand Spielplätze Bocklemünd-Mengenich - zurückgestellt
+- TOP 6.2.4: Umsetzung des Landeskinderschutzgesetzes - zurückgestellt
+- TOP 6.2.5: Städtepartnerschaften und Jugendaustausch - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Sportentwicklungsplanung - Kinder- und Jugendförderung "Inklusionsampel" - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer mündlichen Anfrage aus der Sitzung des Jugendhilfeausschusses am 30.08.2022 zum Thema "TIN-Jugendliche" - Kenntnis genommen
+- TOP 7.1.3: Kampagne der Landesmedienanstalt zu „safer-sexting“ - Kenntnis genommen
+- TOP 7.1.4: Präsentation zum 20. Statusbericht zum Ausbau der Kindertagesbetreuung - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Jugendhilfeausschuss - Ausschuss für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.1.2: Mitgliederwechsel im Jugendhilfeausschuss, hier: Jugendamtselternbeirat (JAEB) - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: plusKITA-Einrichtungen nach §§ 44 und 45 KiBiz - Halbjährliche Mitteilung - Kenntnis genommen
+- TOP 8.2.2: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2021/22 - Kenntnis genommen
+- TOP 8.2.3: Beantwortung der Volt-Anfrage AN/1515/2022 Finanzierung der U3-Betreuung in Köln - Kenntnis genommen
+- TOP 8.2.4: Bundesprogramm Sprach-Kitas 2022 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Auswertung Beschwerden über die Arbeit des ASD, des PKD, des GSD und im Bereich BE - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Kinderschutzentwicklungsplan - Kenntnis genommen
+- TOP 8.5.2: Kommunaler Fonds Kulturelle Bildung - Bestätigung der Juryempfehlungen für die 1. Förderrunde - Kenntnis genommen
