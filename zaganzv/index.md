@@ -8,7 +8,7 @@
 - [§ 5 Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Verringerung oder Aufgabe einer bedeutenden Beteiligung)](0005.md)
 - [§ 6 Vorlage von Unterlagen nach § 22 des Zahlungsdiensteaufsichtsgesetzes (Jahresabschluss, Lagebericht, Prüfungsbericht)](0006.md)
 - [§ 7 Angaben nach § 25 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes (Inanspruchnahme von Agenten)](0007.md)
-- [§ 8 Anzeigen nach § 26 Absatz 2 und § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes (Auslagerung)](0008.md)
+- [§ 8 Anzeigen nach § 26 Absatz 2 Satz 1 und Absatz 4 oder § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes (Wesentliche Auslagerungen)](0008.md)
 - [§ 9 Anzeigen nach § 38 Absatz 1 und 2 sowie § 25 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr, Inanspruchnahme von Agenten)](0009.md)
 - [§ 10 Anzeigen nach § 28 Absatz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes (Bestellung eines Geschäftsleiters)](0010.md)
 - [§ 10a Anzeigen nach § 28 Absatz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes (Ausscheiden eines Geschäftsleiters sowie Entziehung der Befugnis zur Einzelvertretung)](0010a.md)
