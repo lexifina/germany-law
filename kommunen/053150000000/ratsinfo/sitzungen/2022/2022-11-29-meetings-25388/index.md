@@ -1,0 +1,67 @@
+# 14. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-11-29T15:38:00+01:00
+- Ende: 2022-11-29T19:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25388
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25388
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktion der SPD: Sofortige Maßnahmen zur Stärkung der Kunst und Kulturszene; Vergünstigte Tickets in Köln einführen - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion der SPD - ungeändert beschlossen
+- TOP 3.2: Antrag der Fraktion der SPD: Kulturgut für Köln erhalten – die vier historischen Rathausteppiche retten! - verwiesen in nachfolgende Gremien
+- TOP 3.3: Antrag der Fraktionen Bündnis90/Die Grünen, CDU, SPD, DIE LINKE, FDP. VOLT: Lebendigen Kulturort ermöglichen - Zeughaus und Alte Wache für interimistische Nutzung der Freien Szene öffnen. - ungeändert beschlossen
+- TOP 3.4: Antrag der Bündnispartner Bündnis90/Die Grünen, CDU und Volt: Ausbau des digitalen Ticketings von Kunst- und Kultureinrichtungen - ungeändert beschlossen
+- TOP 3.5: Antrag der Bündnispartner Bündnis90/Die Grünen, CDU und Volt: Stadtraum, Stadtgeschichte und Museen digital verbinden - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Ausweitung der sozialen Staffelung bei den Mitgliedsbeiträgen der Stadtbibliothek Köln - ungeändert beschlossen
+- TOP 4.2: Haushaltsneutrale Umschichtung von Transferaufwendungen 2022 - ungeändert beschlossen
+- TOP 4.3: Eigentumsübertragung von 92 Benin-Hofkunstwerken aus dem Rautenstrauch-Joest-Museum an die Bundesrepublik Nigeria - ungeändert beschlossen
+- TOP 4.4: Digitalstrategie der Museen - ungeändert beschlossen
+- TOP 4.5: Verzicht auf die Ausübung des Vorkaufsrechts gemäß § 31 Nordrhein-westfälisches Denkmalschutzgesetz (DSchG NRW) zur Vermeidung unbilliger Härten ab 01.01.2023 - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Kommunaler Fonds Kulturelle Bildung - Bestätigung der Juryempfehlungen für die 1. Förderrunde - ungeändert beschlossen
+- TOP 4.7: Bedarfsfeststellung und Einleitung eines Vergabeverfahrens für Lizenzen von e-Books und e-Audios - ungeändert beschlossen
+- TOP 4.8: Mittelverwendung für die Sonderausstellung zur 200-jährigen Geschichte des Kölner Karnevals - ungeändert beschlossen
+- TOP 4.9: Verlängerung der institutionellen Förderung für das WEEK-END Fest 2023 bis 2025 - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Verwendung der Mittel aus dem Sonderausstellungsetat des Museum Ludwig 2023 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Liste der Großbauprojekte - zurückgestellt
+- TOP 8.2: Hallen Kalk – der Osthof: - Kenntnis genommen
+- TOP 8.3: Reallabor Westspitze - Kenntnis genommen
+- TOP 8.4: "Runder Tisch Inklusion und Museum" des Museumsdienstes Köln - Kenntnis genommen
+- TOP 8.5: Neuwahl Fachbeirat Kulturelle Teilhabe - Kenntnis genommen
+- TOP 8.6: Sonderausstellung des Museum für Angewandte Kunst Köln (MAKK) - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 22. November 2022 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 17. November 2022 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 16. November 2022 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen im KuK vom 30.08.2022 - Kenntnis genommen
+- TOP 10.2: Beantwortung einer mündlichen Anfrage der Fraktion der SPD: Sachstand "Simultanhalle" - zurückgestellt
+- TOP 11: Schriftliche Anfragen - Kenntnis genommen
+- TOP 11.1: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU und Volt: Chancengleichheit in Kunst und Kultur - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU und Volt: Förderprogramm KulturInvest Bau 2022 - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der Fraktion der SPD: Veräußerung historischer Gegenstände - verwiesen in nachfolgende Gremien
+- TOP -: Beantwortung der Anfrage - verwiesen in nachfolgende Gremien
+- TOP 11.4: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU und Volt: Restaurierung und Versetzung der Aktionsplastik „Ruhender Verkehr“ von Wolf Vostell - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage: Restaurierung und Versetzung der Aktionsplastik "Ruhender Verkehr" von Wolf Vostell - Kenntnis genommen
+- TOP 11.5: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU und Volt: Das Kölner Rathausglockenspiel revitalisieren! - Kenntnis genommen
+- TOP 11.6: Schriftliche Anfrage der Fraktion der FDP: Wie sicher sind unsere Kunstwerke? - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion Die Linke: Historische Mitte
+- TOP 12.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.3: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Optimierung der musealen Depots, Fortschreibung
+- TOP 12.4: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Sachstandsberichte über Projekte
+- TOP 12.5: Mündliche Anfrage der Fraktion der CDU: Haus Fühlingen
+- TOP 16.1: Schenkung einer Werkauswahl aus der Sammlung von Kasper König an das Museum Ludwig - ungeändert beschlossen
