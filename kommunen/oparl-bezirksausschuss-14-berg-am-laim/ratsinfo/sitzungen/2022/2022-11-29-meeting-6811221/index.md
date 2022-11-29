@@ -1,0 +1,122 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-11-29T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6811221
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6811221
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 27.09.2022
+- TOP 1.2.2.: Protokoll der Sitzung vom 25.10.2022
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Blombergstr. 21 - Neubau eines Mehrfamilienhauses und Neubau eines Einfamilienhauses mit gemeinsamer Tiefgarage
+- TOP 3.1.2.: Josef-Ritz-Weg 17 - Dachgeschossneubau und Nutzungsänderung von Speicher zu 6 Wohneinheiten
+- TOP 3.1.3.: Gratlspitzstr. 49 - Neubau eines Zweifamilienhauses mit 2 Carports
+- TOP 3.1.4.: Klimaanpassung vor Ort I: Fassadenbegrünung an städtischen Gebäuden in Berg am Laim – Ergebnis der Potentialanalysen und Umsetzungsfahrplan; Antrag der CSU-Fraktion
+- TOP 3.1.5.: Klimaanpassung vor Ort II: Berg am Laimer Schulhöfe entsiegeln und begrünen; Antrag der CSU-Fraktion
+- TOP 3.1.6.: Klimaanpassung vor Ort III: Dachbegrünung und Photovoltaikanlagen im Einklang – Änderung der Gestaltungs- und Begrünungssatzung
+- TOP 3.1.7.: Klimaanpassung vor Ort IV: Baumstandortvorschläge des Bezirksausschusses: Welche wurden/werden gepflanzt und wann?
+- TOP 3.1.8.: Calisthenics-Anlage am Rahel-Straus-Weg: Beleuchtung in den Abendstunden; Anliegen aus der Bürgerschaft
+- TOP 3.1.9.: Errichtung eines Trinkwasserbrunnens in der Maikäfersiedlung - Bürgeranliegen, das an den OB gerichtet ist -
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: St.-Veit-Straße: Ausweisung eines Zweirichtungsradwegs - Anhörung des Mobilitätsreferats, Frist: 05.12.2022 -
+- TOP 3.2.2.: Verkehrssituation im Verbindungsstück zwischen Ampfingstraße und Mittlerer Ring ordnen; Antrag der CSU-Fraktion
+- TOP 3.2.3.: Änderung der Ampelschaltung an der Kreuzung Ampfingstaße / Berg-am-Laim-Straße; Anliegen aus der Bürgerschaft
+- TOP 3.2.4.: Parksituation an der Josephsburgstraße / Baumkirchner Straße; Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: Roßsteinstraße: Einrichtung einer Einbahnstraße in nördlicher Richtung; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Kreuzung Innsbrucker Ring / Grafinger Straße: Änderung der Ampelschaltung; Anliegen aus der Bürgerschaft
+- TOP 3.2.7.: Hanne-Hiob-Straße: Aufstellung weiterer Fahrradabstellanlagen; Anliegen aus der Bürgerschaft
+- TOP 3.2.8.: Werksviertel Mitte: Benennung des Bahnbogens - Anhörung durch das Werksviertel Mitte -
+- TOP 3.2.9.: Grünpfeil für den Radverkehr in Berg am Laim; Antrag der Grünen-Fraktion
+- TOP 3.2.10.: Hermann-Weinhauser-Straße / Neumarkter Straße: Kontinuierliche Missachtung des absoluten Haltverbots; Anliegen aus der Bürgerschaft
+- TOP 3.2.11.: Verkehrssicherheit an der neuen Grundschule an der St.-Veit-Straße: - Maßnahmen gegen Pfützenbildung und Verschlammung des Weges - Schließen von Lücken in der Beleuchtung - Sicherstellen, dass eine Schneeräumung stattfindet und gestreut wird; Anliegen aus der Bürgerschaft
+- TOP 3.2.12.: Zeitlich begrenztes Parkverbot an der Kreuzung St.-Veit-Straße / Kreillerstraße von 7.00 – 9.00 Uhr an Werktagen; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung in einer städtischen Grünanlage: Grünanlage an der Echardinger Kapelle – Freiluft-Gottesdienst zum 2. Weihnachtsfeiertag, Evang.-Luth.Kirchenggemeinde Sophie Scholl am 26.12.2022 - Anhörung des Kreisverwaltungsreferats, Frist: 16.12.2022 -
+- TOP 3.3.2.: Erneuerung des Streetball-/Basketball-Platzes im Michaelianger/Mehr Basketballplätze im Stadtviertel; Antrag der FW/ÖDP-Fraktion
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Kinderaktionen des AKA e.V.
+- TOP 3.4.2.: Bereitstellung von ausreichend Streetwork-Planstellen für Berg am Laim; Antrag der CSU-Fraktion
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 14 vom 01.01.2023 -31.12.2023 7.980,00€; Az. 0262.0-14-0343
+- TOP 3.5.2.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl München St. Martinsumzug mit Anspiel und Martinsfeuer am 13.11.2022 825,00 € / Az. 0262.0-14-0342
+- TOP 3.5.3.: (E) Stadtbezirksbudget Elterninitiative „Die Bunten Knöpfe e.V.“ Integration und Sozialtraining mit kreativen Medien im Schuljahr 2022/23 2.448,00 € / Az. 0262.0-14-0341
+- TOP 3.5.4.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. Anschaffung einer Nebelmaschine zur Simulation von Brandrauch bei Übungen 839,25€; Az. 0262.0-14-0344
+- TOP 3.5.5.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. Anschaffung einer Übungspuppe Kleinkind 411,75€; Az. 0262.0-14-0345
+- TOP 3.5.6.: (E) Stadtbezirksbudget FC Phönix München „Ertüchtigung der Rasenplätze und Reparatur des Traktors“ vom 05.11.2022 – 01.09.2023 33.013,01 € / AZ.: 0262.0-14-0339
+- TOP 3.5.7.: Schaukasten in Baumkirchen Mitte; Antrag der Grünen-Fraktion
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Kreillerstr. 134c
+- TOP 3.6.2.: Josef-Ritz-Weg 17 - Dachgeschossneubau und Nutzungsänderung von Speicher zu 6 Wohneinheiten
+- TOP 3.6.3.: Blombergstr. 21 - Neubau eines Mehrfamilienhauses und Neubau eines Einfamilienhauses mit gemeinsamer Tiefgarage
+- TOP 3.6.4.: Praschlerstr. 62
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Listen der Bauvorhaben im 14. Stadtbezirk Berg am Laim in der Zeit vom 03.10.2022 bis 13.11.2022
+- TOP 4.1.2.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2021 – 31.07.2022
+- TOP 4.1.3.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 4.1.4.: (U) Auswirkungen von Bauvorhaben auf das Münchner Kleinklima
+- TOP 4.1.5.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 4.1.6.: Weitere Müllbehälter an der - St.-Veit-Straße / Ecke Hans-Jakob-Straße - Heinrich-Wieland-Straße / Ecke Kampenwandstraße - Grüner Markt / Behr Park - Antwortschreiben -
+- TOP 4.1.7.: Plangenehmigungsverfahren "Neubau eines Schulungsgebäudes in München Steinhausen"; Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP 4.1.8.: Zweckentfremdung von Wohnraum: a) Ringbergstr. 23 b) Mutschellestr. 19 c) Trainsjochstr. 6 d) Plankensteinstr. 8
+- TOP 4.1.9.: Ideenwettbewerb für den Knoten Bad-Schachener-Straße/Hechtseestraße/Heinrich-Wieland-Straße/St.-Michael-Straße/Hofangerstraße
+- TOP 4.1.10.: (U) Bebauungsplan mit Grünordnung Nr. 2127 Truderinger Straße (südlich), Westlich der Roßsteinstraße, Östlich des Schwanhildenwegs - Satzungsbeschluss - Stadtbezirk 14 – Berg am Laim
+- TOP 4.1.11.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich VI/35 Truderinger Straße (südlich), Roßsteinstraße (westlich), Schwanhildenweg (östlich) Endgültiger Beschluss Stadtbezirk 14 Berg am Laim
+- TOP 4.1.12.: (U) Erneute Informationsveranstaltung Bebauungsplan Truderinger Acker Stadtbezirk 14 Berg am Laim
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Vorfahrt für den Fuß- und Radverkehr in Baumkirchen Mitte I - Antwortschreiben -
+- TOP 4.2.2.: Vorfahrt für den Fuß- und Radverkehr in Baumkirchen Mitte II - Antwortschreiben -
+- TOP 4.2.3.: Sicherer Einfädelung von Fahrradverkehr in die Baumkirchner- und St-Veit-Straße - Antwortschreiben -
+- TOP 4.2.4.: Haager Straße: Anfahrtszone für Busse der Förderschule
+- TOP 4.2.5.: Innsbrucker Ring 15: Einrichten einer Ladezone
+- TOP 4.2.6.: Verkehrsproblematik Mühldorf- / Ecke Ampfingstraße (Radfahren auf dem Gehweg) - Antwortschreiben -
+- TOP 4.2.7.: Parksituation von Leihscooter
+- TOP 4.2.8.: "Zickzack - Linie" vor der Tiefgaragen-Ein- und Ausfahrt der Neumarkterstraße 82-84c - Anliegen aus der Bürgerschaft -
+- TOP 4.2.9.: Räumung und Streuung der Hachinger-Bach-Straße - Antwortschreiben -
+- TOP 4.2.10.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 4.2.11.: (U) Teilfortscheibung des Landesentwicklungsprogramms Bayern (LEP); Ergänzendes Beteiligungsverfahren; Stellungnahme der Landeshauptstadt München
+- TOP 4.2.12.: (U) Bürger*innenrat zum Stadtentwicklungsplan 2040
+- TOP 4.2.13.: (U) Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Gutachterliche Stellungnahme zum Erhaltungssatzungsrecht der Landeshauptstadt München
+- TOP 4.2.14.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2021
+- TOP 4.2.15.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 4.2.16.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 4.2.17.: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 4.2.18.: Erwiderungen der DB auf die gesamtstädtischen Stellungnahmen der LHM zur 2. Stammstrecke zum PFA 3 Ost bzw. zur 1. Tektur des PFA 3 Ost
+- TOP 4.2.19.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 4.2.20.: (U) „Nachhaltige Wohnkonzepte, lebenswerte Quartiere - Ehrenpreis für guten Wohnungsbau 2023“ Zustimmung zur Durchführung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Bezirkssportanlage an der Fehwiesenstraße / Campus-Ost: Hilfe für die ansässigen Sportvereine - Antwortschreiben -
+- TOP 4.3.2.: Werksviertel-Mitte: Knödelplatz und Speicherstraße – „Der zauberhafte Weihnachtsmarkt“ vom 02.12. bis 11.12.2022 - Anhörung des Kreisverwaltungsreferats, Vorabstellungnahme des BA-Vorsitzenden -
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Eigenhausstr. 18; Fällbescheid
+- TOP 4.6.2.: Heubergstr. 15a; Fällbescheid
+- TOP 4.6.3.: Höhenstadter Straße 9-31 - Überprüfung des Ahornbaums auf Pilzbefall
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 4.1.13.: Grundstücksvereinbarungen für den Hachinger Bach voranbringen
