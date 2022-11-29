@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 34 Absatz 3 auch in Verbindung mit § 237 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes, von denen § 34 Absatz 3 durch Artikel 7 Nummer 3 des Gesetzes vom 3. Juni 2021 (BGBl. I S. 1534) eingefügt worden ist, in Verbindung mit § 1a Nummer 1 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), der zuletzt durch Artikel 1 Nummer 1 der Verordnung vom 22. Dezember 2021 (BGBl. I S. 5256) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:

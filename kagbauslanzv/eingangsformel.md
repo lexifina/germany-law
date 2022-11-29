@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 36 Absatz 11 Satz 1 und 4 des Kapitalanlagegesetzbuchs vom 4. Juli 2013 (BGBl. I S. 1981) in Verbindung mit § 1 Nummer 3a der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. I 2003 S. 3), von denen § 36 Absatz 11 durch Artikel 8 Nummer 3 Buchstabe e des Gesetzes vom 3. Juni 2021 (BGBl. I S. 1534) eingefügt und § 1 Nummer 3a zuletzt durch Artikel 1 Nummer 1 der Verordnung vom 22. Dezember 2021 (BGBl. I S. 5255) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
