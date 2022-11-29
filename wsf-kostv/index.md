@@ -6,7 +6,7 @@
 - [§ 3 Kostenfestsetzung und Kosteneinziehung](0003.md)
 - [§ 4 Umfang der zu erstattenden Kosten; Kostenpauschale](0004.md)
 - [§ 5 Fälligkeit](0005.md)
-- [§ 6 Vorschusszahlung und Sicherheitsleistung](0006.md)
+- [§ 6 Vorschuss- und Abschlagszahlung, Sicherheitsleistung](0006.md)
 - [§ 7 Festsetzungsverjährung](0007.md)
 - [§ 8 Zahlungsverjährung](0008.md)
 - [§ 9 Unterbrechung der Zahlungsverjährung](0009.md)
