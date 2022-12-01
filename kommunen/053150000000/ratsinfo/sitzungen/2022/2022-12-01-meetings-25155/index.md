@@ -1,0 +1,85 @@
+# 14. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-12-01T15:07:00+01:00
+- Ende: 2022-12-01T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25155
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25155
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen und der Fraktion DIE LINKE betreffend "Bebauungsplanverfahren "Linder Höhe" in Köln-Porz: Verfahren aufgegeben wegen Lärmproblematik - Kenntnis genommen
+- TOP 1.2: Autonomes Zentrum - Beantwortung von Anfragen zum Standort in Köln-Kalk - Kenntnis genommen
+- TOP 1.3: Beantwortung einer mündlichen Anfrage aus der Sitzung des Stadtentwicklungsausschusses vom 27.10.2022 unter TOP 18.7 betreffend der Mitteilung „Deutzer Hafen- 1. Sitzung des Begleitgremiums; Ergebnisprotokoll“ - Kenntnis genommen
+- TOP 1.4: TOP 6.4 -Vorlage Fragen der CDU-Fraktion- Vorlage 1538/2020/1 - SteA 27.12.2022 - Kenntnis genommen
+- TOP 1.5: Beantwortung einer Anfrage der Fraktion Die Linke und der SPD-Fraktion betreffend "Häuser der Russischen Föderation -Handlungsmöglichkeiten der Stadt Köln" - Kenntnis genommen
+- TOP 1.6: Beantwortung einer Anfrage der Fraktion Die Linke betreffend der Mitteilung "Deutzer Hafen – Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme" (1724/2022) - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen aus früheren Sitzungen
+- TOP 2.1.1: Deutzer Hafen – Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion Die Linke betreffend "Deutzer Hafen – Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme" - Kenntnis genommen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 3: Anträge
+- TOP 3.1: Umwidmung des Parkplatzes zwischen römischer Stadtmauer, Zeughaus und Regierungspräsidium - Sache ist erledigt
+- TOP 3.2: Baugenehmigungs- und Wohnungsfertigstellungbericht - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden Vorlagen-Nummer AN/0648/2022 - zurückgestellt
+- TOP 5.2: Beschluss zum Umgang mit der Wohnungsbaupotenzialfläche "Gierather Straße in Köln-Dellbrück" betreffend des Beschlusses der Bezirksvertretung Mülheim vom 25.10.2021 zur Vorlage 3408/2021 - ungeändert beschlossen
+- TOP 5.3: Live-Stream der Sitzungen des Stadtentwicklungsausschusses - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Masterplan Stadtgrün - zurückgestellt
+- TOP -: Änderungsantrag zu 2279/2022 Masterplan Stadtgrün - Grünflächen rechtssicher schützen - zurückgestellt
+- TOP 6.2: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 6.3: Strategie Klimaneutrales Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag „Strategie Klimaneutrales Köln“ - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Baubeschluss für den Neubau von vier stationären Verschlusseinrichtungen für den Hochwasserschutz von Stadtbahnanlagen in der Kölner Innenstadt - ungeändert beschlossen
+- TOP 6.5: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 68439/03 - zurückgestellt
+- TOP 6.6: Förderung kommunale Nachhaltigkeit Köln - ungeändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept mit dem Arbeitstitel: „Hotelneubau am Freizeitbad Aqualand in Köln-Chorweiler“, Anhörung der Bezirksvertretung Chorweiler zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur - ungeändert beschlossen
+- TOP -: TOP 9.1 – Hotelneubau am Freizeitbad Aqualand in Köln-Chorweiler (3546/2022) - Sache ist erledigt
+- TOP 9.2: Städtebauliches Planungskonzept "Dorotheenstraße" in Köln-Porz Anhörung zur Unterrichtung der Öffentlichkeit, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - Sache ist erledigt
+- TOP 9.3: 242. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 6, Köln-Chorweiler Hier: Anhörung der Bezirksvertretung BV 6 zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur 242. Änderung des Flächennutzung - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nummer 6250/04; Arbeitstitel: Gewerbe- und Medienpark in Köln-Ossendorf, 7. Änderung Motorworld Bürogebäude und Autohaus - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.1 - Gewerbe- und Medienpark Köln-Ossendorf - Sache ist erledigt
+- TOP -: Änderungsantrag zum Änderungsantrag zu TOP 10.1 Gewerbe- und Medienpark in Köln-Ossendorf, 7. Änderung Motorworld Bürogebäude und Autohaus (AN/1571/2022) - Sache ist erledigt
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) gemäß § 12 Baugesetzbuch (BauGB) in Verbindung mit § 13b BauGB Arbeitstitel: "Am Bilderstöckchen" in Köln-Bilderstöckchen - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Venloer Straße / Nördlich Arnoldshof in Köln-Bocklemünd/Mengenich - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) gemäß § 12 Baugesetzbuch (BauGB) in Verbindung mit § 13b BauGB Arbeitstitel: "Am Bilderstöckchen" in Köln-Bilderstöckchen - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Hochpunkt im Lindgens-Areal, Mülheimer Süden - geändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 18: Mitteilungen
+- TOP 18.1: Stadtraumforschung im Domumfeld - Kenntnis genommen
+- TOP -: Kurzpräsentation - Kenntnis genommen
+- TOP 18.2: Hallen Kalk – der Osthof: - Kenntnis genommen
+- TOP 18.3: Öffentlich geförderter Mietwohnungsbau - Kenntnis genommen
+- TOP 18.4: Planfeststellungsbeschlüsse für die Erneuerung der Bauwerke D und E der Eisenbahnüberführung Deutz-Mülheimer Straße - Kenntnis genommen
+- TOP 18.5: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 18.6: Bebauungsplanverfahren "Linder Höhe" in Köln-Porz: Verfahren aufgegeben wegen Lärmproblematik - Kenntnis genommen
+- TOP 18.7: Bürgereingabe nach § 24 GO – „Ausverkauf des Deutzer Hafens stoppen“, Aktenzeichen 193/21 B - Kenntnis genommen
+- TOP 18.8: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 18.9: Aktualisierung des Monitoring Stadtentwicklung Köln: Indikatoren für 2021 ab sofort verfügbar - Kenntnis genommen
+- TOP 18.10: Ergebnis des städtebaulichen Wettbewerbsverfahrens "Neubau Justizzentrum Köln“ in Köln-Sülz - Kenntnis genommen
+- TOP 18.11: Nachhaltigkeitsbericht der Stadt Köln 2022 - Kenntnis genommen
+- TOP 18.12: Ergebnis des Realisierungswettbewerbs nach RPW 2013 für das Vorhaben "Hotelneubau am Freizeitbad Aqualand in Köln-Chorweiler" - Kenntnis genommen
+- TOP 18.13: Antrag der Bezirksvertretung Lindenthal (3) vom 07.11.2022 betreffend "Bebauungsplan Friedrich-Engels-Str. 3-5 - Kenntnis genommen
+- TOP 18.14: Abschlussbericht der Maßnahme „Büro für Quartiersmanagement und Aktivierung“ im Sozial-raum „Porz-Ost, Finkenberg, Gremberghoven und Eil“ - Kenntnis genommen
+- TOP 18.15: Einzelhandelsansiedlung im Geltungsbereich des Bebauungsplans Nr. 61520/02 „Donatusstraße“ - Kenntnis genommen
+- TOP 18.16: Leitbild für die Handelslagen Hohe Str./Schildergasse und Umfeld in der Innenstadt - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
