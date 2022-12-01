@@ -48,7 +48,7 @@
 |  | Abschnitt I: Allgemeines |
 |  |
 | § 3.01 | Begriffsbestimmungen und Anwendungen |
-| § 3.02 | Lichter und Signalleuchten |
+| § 3.02 | Lichter |
 | § 3.03 | Flaggen, Tafeln und Wimpel |
 | § 3.04 | Zylinder, Bälle und Kegel |
 | § 3.05 | Verbotene oder ausnahmsweise zugelassene Lichter und Sichtzeichen |
@@ -84,7 +84,7 @@
 |  | Abschnitt III: Sonstige Bezeichnung |
 |  |
 | § 3.27 | Bezeichnung der Fahrzeuge der Überwachungsbehörden |
-| § 3.28 | Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen |
+| § 3.28 | Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten im Fahrwasser ausführen |
 | § 3.29 | Schutz gegen Wellenschlag |
 | § 3.30 | Notzeichen |
 | § 3.31 | Hinweis auf das Verbot, das Fahrzeug zu betreten |

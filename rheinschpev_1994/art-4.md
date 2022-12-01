@@ -8,12 +8,14 @@ zuwiderhandelt.
 (2)
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Rheinschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich oder fahrlässig
 1. entgegen § 1.02 Nr. 1 Satz 1 ein Fahrzeug oder einen Schwimmkörper oder entgegen § 1.02 Nr. 2 Satz 1 einen Verband führt, ohne hierfür geeignet zu sein,
+1a. entgegen § 1.03 Nummer 1 Satz 1 einer Anweisung nicht Folge leistet,
 2. entgegen § 1.03 Nr. 2 eine Anweisung des Schiffsführers nicht befolgt,
-2a. entgegen § 1.03 Nr. 4 Satz 2 vorübergehend den Kurs oder die Geschwindigkeit eines Fahrzeugs bestimmt, obwohl sich eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper befindet,
+2a. entgegen § 1.03 Nummer 4 Satz 2, auch in Verbindung mit Satz 3, Dienst verrichtet,
 2b. entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt,
 2c. entgegen § 1.09 Nr. 3 Satz 1 nicht in der Lage ist, alle Weisungen oder Informationen zu geben oder zu empfangen,
 3. entgegen § 1.13 Nr. 1 Schiffahrtszeichen zum Festmachen oder Verholen benutzt, beschädigt oder unbrauchbar macht,
 4. entgegen § 1.15 Nr. 1 feste Gegenstände oder Flüssigkeiten in die Wasserstraße einbringt oder einleitet,
+4a. entgegen § 1.17 Nummer 1 Satz 2 nicht an Bord und nicht in der Nähe der Unfallstelle bleibt,
 5. ohne Erlaubnis nach § 1.23 eine dort genannte Veranstaltung durchführt oder durchführen läßt,
 6. entgegen § 3.29 Nr. 2 Satz 1 von der Bezeichnung nach § 3.29 Nr. 1 Gebrauch macht,
 7. entgegen § 4.01 Nr. 3 Schallzeichen von einem Fahrzeug gibt, auf dem sich der Führer des Verbandes nicht befindet,
@@ -88,7 +90,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 1. entgegen § 1.02 Nr. 4 während der Fahrt oder des Betriebes nicht an Bord ist,
 2. entgegen § 1.02 Nr. 5 Satz 3 erster Halbsatz, auch in Verbindung mit Satz 4, eine Anweisung des Schiffsführers des Verbandes nicht befolgt,
 2a. entgegen § 1.02 Nr. 7 Satz 2 ein Fahrzeug führt, obwohl sich eine Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, im Körper befindet,
-2b. anordnet oder zuläßt, daß entgegen § 1.03 Nr. 4 Satz 2 jemand vorübergehend den Kurs oder die Geschwindigkeit des Fahrzeugs bestimmt, obwohl er eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper hat,
+2b. anordnet oder zulässt, dass entgegen § 1.03 Nummer 4 Satz 2, auch in Verbindung mit Satz 3 Dienst verrichtet wird,
 3. entgegen § 1.04 Buchstabe a bis c die gebotenen Vorsichtsmaßregeln nicht trifft und dadurch das Leben eines anderen gefährdet, ein Fahrzeug, einen Schwimmkörper, das Ufer, ein Regelungsbauwerk oder eine dort genannte Anlage beschädigt oder die Schiffahrt behindert,
 4. entgegen § 1.06 ein Fahrzeug oder einen Verband führt, dessen Länge, Breite, Höhe oder Tiefgang nicht den Gegebenheiten der Wasserstraße oder der Anlagen angepaßt ist,
 5. ein Fahrzeug führt, dessen Ladung entgegen § 1.07 Nummer 4 die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet,
@@ -108,7 +110,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 10. ein Fahrzeug führt, dessen aufgeholter Anker entgegen § 1.12 Nr. 2 unter den Boden oder den Kiel reicht,
 11. entgegen § 1.12 Nr. 3 Satz 1 oder Nr. 4, § 1.13 Nr. 2 oder 3, § 1.14, § 1.15 Nr. 2, § 1.17 Nr. 1 Satz 1 oder Nr. 3, § 8.09 Nr. 8 oder entgegen § 15.03 Nummer 3 eine Benachrichtigung nicht oder nicht rechtzeitig vornimmt,
 12. entgegen § 1.16 Nr. 1 bei Unfällen nicht alle verfügbaren Mittel aufbietet oder entgegen § 1.16 Nr. 2 nicht oder nicht rechtzeitig Hilfe leistet,
-13. entgegen § 1.17 Nr. 1 Satz 2 nicht an Bord oder in der Nähe der Unfallstelle bleibt,
+13. (weggefallen)
 14. entgegen § 1.17 Nr. 2 nicht oder nicht rechtzeitig für eine Wahrschau sorgt,
 15. entgegen § 1.18 Nr. 1 oder 2 eine Maßnahme nicht trifft,
 16. einer vollziehbaren Anordnung nach § 1.19 Satz 1, auch in Verbindung mit Satz 2, zuwiderhandelt,
@@ -117,7 +119,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 19. einer vollziehbaren Anordnung vorübergehender Art nach § 1.22 Nr. 1 zuwiderhandelt,
 20. ein Fahrzeug führt, das entgegen §§ 2.01, 2.02 Nummer 2 oder § 2.06 nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet ist oder an dem entgegen § 2.04 Nummer 1 Satz 1 oder Nummer 2 Satz 1 Einsenkungsmarken oder Tiefgangsanzeiger nicht angebracht sind,
 21. ein Binnenschiff führt, das entgegen § 2.03 nicht geeicht ist oder ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
-22. einer Vorschrift des § 3.02 Nummer 1, 2 Satz 1 oder Nummer 3 zweiter Halbsatz über Lichter oder Signalleuchten zuwiderhandelt,
+22. einer Vorschrift des § 3.02 Nummer 1 bis 3 oder 4 zweiter Halbsatz zuwiderhandelt,
 23. einer Vorschrift des § 3.03 Nr. 1, 2 oder 3 zweiter Halbsatz, § 3.31 Nr. 1 Satz 3 oder § 3.32 Nr. 1 Satz 3 über Flaggen, Tafeln oder Wimpel oder des § 3.04 Nr. 2, 3 oder Nr. 4 Satz 2 über Zylinder, Bälle oder Kegel zuwiderhandelt,
 24. ein Fahrzeug, einen Verband, ein schwimmendes Gerät, einen Schwimmkörper, eine schwimmende Anlage, ein Fischereigerät oder einen Anker
   a) bei Nacht während des Stilliegens nach § 3.20 Nr. 1 Satz 1 oder Nr. 2, §§ 3.21, 3.22, 3.23, 3.24 Satz 1 oder 2 erster Halbsatz, § 3.25 Nr. 1 Satz 1 Buchstabe a bis d oder Satz 2, Nr. 2, § 3.26 oder
@@ -171,10 +173,6 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 43. einer Vorschrift über die Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG) nach § 15.07 Nummer 2 bis 9 zuwiderhandelt,
 44. entgegen § 15.08 Nummer 1 bei der Restentladung oder bei der Abgabe oder Annahme von Abfällen aus dem Ladungsbereich die dort genannten Vorschriften nicht einhält.
 (5)
-Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Rheinschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich oder fahrlässig als Mitglied der Besatzung
-1. entgegen § 1.03 Nr. 1 Satz 1 einer Anweisung des Schiffsführers nicht Folge leistet oder
-2. entgegen § 1.17 Nr. 1 Satz 2 nicht an Bord oder in der Nähe der Unfallstelle bleibt.
-(6)
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Rheinschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich oder fahrlässig als Eigentümer oder Ausrüster
 1. anordnet oder zuläßt, daß
   a) entgegen § 1.02 Nr. 1 Satz 1 ein Fahrzeug oder ein Schwimmkörper unter der Führung einer hierfür nicht geeigneten Person steht,
@@ -202,7 +200,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
   i) das entgegen § 2.03 nicht geeicht ist,
   j) an dem entgegen § 2.04 Nr. 1 Satz 1 Einsenkungsmarken oder entgegen § 2.04 Nr. 2 Satz 1 Tiefgangsanzeiger nicht angebracht sind,
   k) dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
-  l) dessen Lichter entgegen § 3.02 Nr. 1 nicht von allen Seiten sichtbar sind oder ein gleichmäßiges, ununterbrochenes Licht nicht werfen oder entgegen § 3.02 Nr. 2 nicht den dort genannten Vorschriften entsprechen oder dessen Nachtbezeichnung entgegen § 3.02 Nr. 3 zweiter Halbsatz nicht die vorgeschriebene Tragweite hat,
+  l) dessen Lichter oder Signalleuchten nicht den Vorschriften des § 3.02 Nummer 1 bis 3 oder 4 zweiter Halbsatz entsprechen,
   m) das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen Schallgerät ausgerüstet ist,
   n) das entgegen § 4.05 Nummer 4 Satz 1 nicht mit einer Sprechfunkanlage für die dort genannten Verkehrskreise ausgerüstet ist oder dessen Sprechfunkanlage entgegen § 4.05 Nummer 4 Satz 2 nicht die gleichzeitige Hörbereitschaft auf zwei Verkehrskreisen gewährleistet,
   o) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgerüstet ist,

@@ -17,10 +17,10 @@
 - [§ 8 Mitwirkung von Vereinigungen](0008.md)
 - [§ 9 Vorbereitung des Vollzugs](0009.md)
 - [§ 10 Auskünfte, Datenerhebung und -übermittlung](0010.md)
-- [§ 11 Entschädigung](0011.md)
+- [§ 11 Entschädigung; Verordnungsermächtigung](0011.md)
 - [§ 11a Entschädigung für enteignete Gasspeichermengen](0011a.md)
 - [§ 12 Härteausgleich](0012.md)
-- [§ 13 Entschädigung für Solidaritätsmaßnahmen für Erdgas](0013.md)
+- [§ 13 (weggefallen)](0013.md)
 - [§ 14 Bekanntgabe und Zustellung](0014.md)
 - [§ 15 Zuwiderhandlungen](0015.md)
 - [§ 16 Zuständige Verwaltungsbehörde bei Zuwiderhandlungen](0016.md)
@@ -38,6 +38,7 @@
 - [§ 21 Entschädigung](0021.md)
 - [§ 22 Rechtsschutz](0022.md)
 - [§ 23 Verordnungsermächtigung](0023.md)
+- [§ 23a Enteignung von beweglichen Sachen und Zugang zu Unterlagen](0023a.md)
 
 ### Abschnitt 2 Preisanpassungsrechte
 
