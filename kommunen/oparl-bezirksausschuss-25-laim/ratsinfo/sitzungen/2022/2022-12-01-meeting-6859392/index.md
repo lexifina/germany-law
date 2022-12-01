@@ -1,0 +1,81 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2022-12-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6859392
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6859392
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A): Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A).1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B): Vorstellung Münchner Zero-Waste-Programm
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Finanzielle Förderung von Mittagsbetreuungen in München
+- TOP 2: Anträge
+- TOP 2.1.: Unterausschuss Mobilität: Entschärfung Situation Radweg Agnes-Bernauer-Str./Ecke Fürstenrieder Str.
+- TOP 2.2.: Fraktion Die Grünen: Photovoltaik auf öffentlichen Gebäuden
+- TOP 2.3.: CSU-Fraktion und SPD-Fraktion: Erhalt der Uhr am Laimer Bahnhof
+- TOP 2.4.: SPD-Fraktion: Einrichtung von Ladezonen für Lieferverkehr
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget wohlBEDACHT - Wohnen für dementiell Erkrankte e.V. Zick-Zack Treppenverbauung für die Nachtpflegeeinrichtung für Demenzkranke vom 20.10. - 31.12.2022 5.500,00 Euro, Az.: 0262.0-25-0279
+- TOP 3.2.: (E) Stadtbezirksbudget SV München-Laim e.V. Anschaffung von Mini-Fußballtoren im November/Dezember 2022 1.545,14 Euro, Az.: 0262.0-25-0281
+- TOP 3.3.: (E) Stadtbezirksbudget Förderverein der Grundschule Von-der-Pfordten-Straße in München-Laim e.V. Schulprojekt zur Prävention von Gewalt: Gewaltfrei Lernen vom 08. - 12.05.2023 4.025,28 Euro, Az.: 0262.0-25-0282
+- TOP 3.4.: (E) Stadtbezirksbudget Helfer*innenkreis Hans-Thonauer- / Elsenheimerstraße / Hansastraße Jahresprogramm 2023 vom 01.01. - 31.12.2023 2.500,00 Euro, Az.: 0262.0-25-0283
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.10.22: Planfeststellungsverfahren Tram-Westtangente Tektur A
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 27.10.22: Änderung des Zeitzusatzes an der westlichen und östlichen Schulbushaltestelle in der Droste-Hülshoff-Straße
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 16.11.22: Mehrwöchige Nutzung der Grünanlagen und des öffentlichen Verkehrsgrunds, Richtlinien für Kultur- und Strandveranstaltungen
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Berchemstr. 25 Neubau eines oder zweier Wohngebäude (2 Var.) - VORBESCHEID
+- TOP 5.2.: Friedenheimer Str. 106 Neubau eines Mehrfamilienhauses (3 WE) sowie Änderung eines Bestandsgebäudes (v.a. Einbau einer Dachgaube)
+- TOP 5.3.: Reutterstr. 61 Anbau von 3 Wohneinheiten und eines Dreifachparkers an ein Dreifamilienhaus
+- TOP 6: Sonstiges
+- TOP 6.1.: Ab 2023 Eintragung UA-Termine in Alfresco-Kalender durch UA-Vorsitzende
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 10.11.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.11.22: Agnes-Bernauer-Str. 112, Fl.Nr. 3/3, Gemarkung Laim Genehmigungsbescheid
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.11.22: Laimer Schlössl
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.11.22: Fällungsgenehmigung Aindorferstr. 10
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.10.22: Fällungsgenehmigung Valpichlerstr. 92-94
+- TOP 8.6.: Bautenliste 17.10.22-23.10.22: A) Erstantragsverfahren 1. Fürstenrieder Str. 5
+- TOP 8.7.: Bautenliste 31.10.22-06.11.22: A) Erstantragsverfahren 1. Fürstenrieder Str. 81 2. Camerloherstr. 119 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agricolastr. 93 2. Vosslerstr. 9
+- TOP 8.8.: Bautenliste 07.11.22-13.11.22: A) Erstantragsverfahren 1. Reutterstr. 61 2. Friedenheimer Str. 106
+- TOP 8.9.: Schreiben Baureferat vom 09.11.22: Mehr Grün statt Teer: Entsiegelungen in Laim
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 04.11.22: E-Roller im Viertel
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 04.11.22: Rad- und E-Scooter Verkehr von Rapotostraße bis Kreuzung Lautensackstraße
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 07.11.22: Perhamerstr. 49, Kita-Anfahrtszone
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 27.10.22: Arbeiten im Straßenraum Gotthardstr. zwischen Von-der-Pfordten-Str. und Mitterfeldstr. 24
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 5.10.22: Tramgleise in Laim begrünen
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 28.10.22: Hufnagelstraße; Bürgerantrag auf Einrichtung eines oder mehrerer Behindertenparkplätze
+- TOP 8.16.: Schreiben Mieterbeirat vom 30.10.22: Protokoll öffentl. Sitzung vom 24.10.22
+- TOP 8.17.: Schreiben Sozialreferat vom 02.11.22: Vollzug der Erhaltungssatzung "Agnes-Bernauer-Str." hier: Friedenheimer Str.
+- TOP 8.18.: Schreiben Sozialreferat vom 10.11.22: Gebäude Reutterstr.
+- TOP 8.19.: Schreiben Sozialreferat vom 09.11.22: Alte Villa in Laim
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.11.22: Alte Villa in Laim
+- TOP 8.21.: Schreiben Referat für Klima- und Umweltschutz vom 07.11.22: Ausnahmezulassung Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet
+- TOP 8.22.: Schreiben Kreisverwaltungsreferat vom 07.11.22: Antrag auf unveränderte Fortführung von "AloraKitchen"
+- TOP 8.23.: Schreiben Direktorium: Verwendungsnachweise
+- TOP 8.24.: Schreiben Haustechnik vom 10.11.22: Bundesregierung darf Förderung für Holzfeuerungen nicht abschaffen
+- TOP 8.25.: Beschluss des Sozialausschusses vom 17.11.22: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 8.26.: Beschluss der Vollversammlung vom 26.10.22: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.22: (U) „Nachhaltige Wohnkonzepte, lebenswerte Quartiere - Ehrenpreis für guten Wohnungsbau 2023“ Zustimmung zur Durchführung
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.22: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.22: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2153 Riegerhofstraße (westlich), Gotthardstraße (nördlich), Sportanlage Riegerhofstraße (östlich), Lukas-Schule (südlich) - Schulerweiterungsbau mit unterirdischer Dreifachsporthalle - (Teiländerung des vorhabenbezogenen Bebauungsplans mit Grünordnung Nr. 2001) - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Stadtbezirk 25 Laim
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.22: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 8.31.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung in gemeinsamen Ausschuss für Stadtplanung und Bauordnung mit dem Sozialausschuss, Kommunalausschuss und Ausschuss für Klima- und Umweltschutz vom 09.11.22: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung gemeinsam mit dem Sozialausschuss, Kommunalausschuss und Ausschuss für Klima- und Umweltschutz vom 09.11.22: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 8.33.: Beschluss des Bauausschusses vom 08.11.22: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.34.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.35.: Überprüfung dauerhafter Sperrung Von-der-Pfordten-Straße (Schreiben an Bürgerin)
+- TOP 9.36.: Parkstreifen Willibaldstraße (Vertagung in den UA Mobilität)
+- TOP 1.2: Bürgerpost an den BA
+- TOP 8.5.: Bautenliste 24.10.22-30.10.22: A) Erstantragsverfahren 1. Camerloherstr.
