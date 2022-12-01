@@ -1,0 +1,63 @@
+# Ausschuss für Finanzen, Beteiligungen und Wirtschaft
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2022-12-01T17:00:00+01:00
+- Ende: 2022-12-01T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6093
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6093
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00213900.pdf
+- Ergebnisprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00213900.pdf
+- Wortprotokoll: öffentliches Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00213900.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 11. Sitzung des Ausschusses für Finanzen, Beteiligungen und Wirtschaft vom 01.09.2022 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Bericht über die Prüfung des Jahresabschlusses zum 31.12.2021 - Einstimmiger Beschluss
+- TOP 3: Jahresabschluss 2021 - Beschluss über die Verwendung des Jahresergebnisses 2021 gemäß § 96 GO - Einstimmiger Beschluss
+- TOP 4: Abgabe einer Erklärung zum Ende der Option zu § 2b UStG zum 01.01.2023 - Einstimmiger Beschluss
+- TOP 5: Umwandlung des Gemeindegliedervermögens "Dycker-Schelsener Bruch" - Einstimmiger Beschluss
+- TOP 6: Siebter Nachtrag zur Satzung über die Erhebung von Gebühren für den Rettungsdienst der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 7: Leistungsvereinbarungen über das Angebot eines "Tagestreffs" für Personen mit besonderen sozialen Schwierigkeiten nach §§ 67 ff. Sozialgesetzbuch Zwölftes Buch (SGB XII) mit dem Verein Wohlfahrt e. V. und dem Katholischen Verein für soziale Dienste - Einstimmiger Beschluss
+- TOP 8: Kanlbenutzungsgebührensatzung - Einstimmiger Beschluss
+- TOP 9: Entwurf des Haushaltes 2023; Haushaltssatzung einschließlich Anlagen - Mit Stimmenmehrheit beschlossen
+- TOP 9.1: Stellenplan 2023 - Mit Stimmenmehrheit beschlossen
+- TOP 9.2: Wirtschaftsplan des Gebäudemanagement Mönchengladbach (gmmg) für das Jahr 2023 - Einstimmiger Beschluss
+- TOP 9.3: Wirtschaftsplan der eigenbetriebsähnlichen Einrichtung Rathaus der Zukunft mg+ gemäß § 13 I der Betriebssatzung für das Wirtschaftsjahr 2023 - Mit Stimmenmehrheit beschlossen
+- TOP 9.4: Haushaltsberatung - hier: Ermächtigungsübertragung Förderung Frauenfußball (bzw. Sport für Frauen) Fraktionsantrag Die Linke vom 26.10.2022 - Vom Antragsteller zurückgezogen
+- TOP 9.5: Haushaltsberatungen - hier: Einführung einer Citytax („Bettensteuer„) Fraktionsantrag Die Linke vom 26.10.2022 - Mit Stimmenmehrheit abgelehnt
+- TOP 9.6: Beratung des Entwurfs des Haushaltes 2023 Antrag der SPD-Ratsfraktion, Fraktion Bündnis 90/Die Grünen, FDP-Ratsfraktion vom 15.11.2022 - Mit Stimmenmehrheit beschlossen
+- TOP 9.7: Geschäftsordnungsantrag der CDU-Fraktion hinsichtlich der Änderung von Ansätzen im Haushalt - Mit Stimmenmehrheit abgelehnt
+- TOP 9.8: Beratung des Entwurfs des Haushaltes 2023 - Mit Stimmenmehrheit beschlossen
+- TOP 10: Finanzbericht gem. Kommunalhaushaltsrechtsanwendungsverordnung Ukraine-Schutzsuchendenaufnahme - Kenntnisnahme
+- TOP 11: Anpassung der Satzung der NEW AG - Einstimmiger Beschluss
+- TOP 12: Anpassung des Gesellschaftsvertrages der NEW Niederrhein Energie und Wasser GmbH - Einstimmiger Beschluss
+- TOP 13: Anpassung des Gesellschaftsvertrages der NEW Smart City GmbH - Einstimmiger Beschluss
+- TOP 14: Beteiligung der NEW Kommunalholding GmbH über die NEW AG und die NEW Smart City an der Stadtentflater GmbH, der Stadtentfalter Holding GmbH, der Stadtentfalter Erkrath GmbH und der Stadtentfalter Quartiere GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 15: Beteiligung der NEW Kommunalholding GmbH über die NEW AG und die NEW Smart City GmbH an der Stadtentfalter Jüchen GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 16: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2022 (3. Nachweisung) - Kenntnisnahme
+- TOP 17: Bereitstellung überplanmäßiger Haushaltsmittel in Höhe von 6.900.000 € im Bereich "Hilfe zur Erziehung" - Einstimmiger Beschluss
+- TOP 18: 4. Fortschreibung Digitalisierungsstrategie - Kenntnisnahme
+- TOP 19: Sechster Nachtrag zur Ordnung für die Benutzung von stadtbezirksbezogenen Einrichtungen - Einstimmiger Beschluss
+- TOP 20: Erster Nachtrag zur Satzung über die Erhebung von Kostenersatz und Gebühren für Leistungen der Feuerwehr der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 21: Vorsorgemaßnahmen für den Fall eines großflächigen Stromausfalls im Stadtgebiet Mönchengladbach - Einstimmiger Beschluss
+- TOP 22: Tarif für die Benutzung von Sportanlagen und für die besondere Benutzung von Schulen der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 23: Anpassung der Leistungsvereinbarung mit der "Arbeitsgemeinschaft Schuldenberatung der Freien Wohlfahrtsverbände e.V." über das Angebot Schuldnerberatung - Einstimmiger Beschluss
+- TOP 24: Teilnahme am Bundesprogramm „Demokratie leben!“ mit dem Projekt „You(r) MG – Partnerschaft für Demokratie" - Kenntnisnahme
+- TOP 25: Fortführung des Angebotes PAENZ – Potenziale nutzen an Grundschulen - Einstimmiger Beschluss
+- TOP 26: Verlängerung der Leistungsvereinbarung mit dem Verein Rollbrett Union e.V. zum Betrieb einer Skatehalle und zu Angeboten an der Skateanlage am Platz der Republik - Einstimmiger Beschluss
+- TOP 27: Jahresabschluss 2021 des Gebäudemanagement Mönchengladbach (GMMG) - Einstimmiger Beschluss
+- TOP 28: Neuorganisation des Energiemanagements innerhalb des gmmg/ Aufbau und dauerhafter Betrieb eines Energiemanagementsystems (EMS) durch das gmmg - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 29: Regulierung der E-Scooter Abstellmöglichkeiten - In den nächsten Ratszug geschoben
+- TOP 30: Errichtung einer 7. Gesamtschule - Mit Stimmenmehrheit beschlossen
+- TOP 31: Erlass der Sondernutzungsgebühren für Tische und Stühle, Warenauslagen sowie den Ambulanten Straßenhandel für das Jahr 2022 (01.01.-31.12.) Fraktionsantrag der SPD-Ratsfraktion, Fraktion Bündnis 90/Die Grünen und der FDP-Ratsfraktion vom 21.11.22 - Einstimmiger Beschluss
+- TOP 32: Innenstadtentwicklung: Fortführung Stadtlabore - hier: Fraktionsantrag der SPD-Ratsfraktion, Fraktion Bündnis 90/Die Grünen und der FDP-Ratsfraktion vom 21.11.22 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 33: Berichtsvorlage 1850/X: Beratung des Entwurfs des Haushaltes 2023; hier: Bündnisantrag: Gestalten des digitalen Wandels - Siehe Niederschrift
+- TOP 34: Zuschuss Tierschutz Mönchengladbach e.V. - Hier: Antrag der SPD-Ratsfraktion, Fraktion Bündnis90/Die Grünen und der FDP-Ratsfraktion vom 21.11.2022 - Einstimmiger Beschluss
+- TOP 35: Zuwendung aus dem Quartiersbudget für das Arbeitslosenzentrum e.V. Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 36: Anfragen und Mitteilungen - Siehe Niederschrift
+- TOP 36.1: Anfragen: CDU-Fraktion - hier: Fragenkatalog zum WohngeldPlus - Siehe Niederschrift
+- TOP 36.2: Mitteilung des Kämmerers zur Landschaftsverbandsumlage - Siehe Niederschrift
