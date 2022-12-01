@@ -1,0 +1,82 @@
+# 16. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-12-01T16:07:00+01:00
+- Ende: 2022-12-01T21:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25563
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25563
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktuelle Stunde BAN, Antrag Die Linke und CDU - wurde zurückgezogen
+- TOP 1.2: Aktuelle Stunde Nachlese 11.11. // Kwartier Latäng/ Zülpicher Straße, Antrag Grüne
+- TOP 1.3: Aktuelle Stunde Autofreie Deutzer Freiheit, Antrag CDU
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ungeändert beschlossen
+- TOP 3.2: Anpassung Nutzungskonzept für die zentralen Innenstadtplätze für den Zeitraum 01.01. - 31.12.2023 - geändert beschlossen
+- TOP 3.3: MITTEILUNG - Planfeststellungsbeschlüsse für die Erneuerung der Bauwerke D und E der Eisenbahnüberführung Deutz-Mülheimer Straße
+- TOP 3.4: Baubeschluss für den Neubau von vier stationären Verschlusseinrichtungen für den Hochwasserschutz von Stadtbahnanlagen in der Kölner Innenstadt - ungeändert beschlossen
+- TOP 3.5: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, Teil III - ungeändert beschlossen
+- TOP 3.6: Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ungeändert beschlossen
+- TOP 3.7: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 68439/03 - geändert beschlossen
+- TOP 3.7.1: Einbahnstraßen im Quartier - ÄA zu 'Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 68439/03', Änderungsantrag Grüne zu 3195/2022 - geändert beschlossen
+- TOP 3.8: Sanierung des NIKE Court, des Asphalttennisplatzes im Inneren Grüngürtel sowie des Asphaltplatzes an der Alfred-Schütte-Allee - geändert beschlossen
+- TOP 3.8.1: Änderungsantrag zu Beschlussvorlage 2890/2022, Die Partei - geändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Fahrradrampe Severinsbrücke (Az.: 02-1600-122-22) - zurückgestellt
+- TOP 4.2: Bürgereingabe nach § 24 GO - Verkehrsversuch Deutzer Freiheit (Az. 186/22) - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Mehr umsteigefreie Busverbindungen zum Hauptbahnhof, Antrag FDP - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Genehmigung des Dringlichkeitsantrags: Kulturgut für Köln erhalten – die vier historischen Rathausteppiche retten!, gem. Dringlichkeitsantrag Grüne, CDU, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.1.1: Kulturgut für Köln erhalten – die vier historischen Rathausteppiche ret-ten!, Antrag SPD- für den KUK - mit Änderungen empfohlen
+- TOP 5.2.2: Schutz von Geh- und Radweg Aachener Straße / Ecke Moltkestraße, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.3: Toilettenanlage im Klingelpützpark, Antrag SPD - geändert beschlossen
+- TOP 5.2.4: Größere Mülleimer an intensiv genutzten Orten, insb. Uniwiese, Deutzer Werft, Römerpark, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.5: Neues Konzept für den öffentlichen Raum und eine resiliente Stadt in der Altstadt Nord, gem. Antrag Grüne, Die Linke, KlimaFreunde und Die Partei - zurückgestellt
+- TOP 5.2.6: Anpassung Beschilderung und Ladezonen Apostelnstraße / Gertrudenstraße, gem. Antrag, Grüne, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.7: Aufstellung einer Sozialen Erhaltungssatzung gemäß für das Gebiet Griechenmarktviertel, gem. Antrag Grüne, CDU, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.8: Ertüchtigung der Brückengeländer zweier Fuß- und Radbrücken (Alarichstraße, Wissener Weg) sowie die Modernisierung der Fahrradschienen an den Treppenwerken der Südbrücke, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.9: Wiedereinführung der Bezirksbeigeordneten, gem. Antrag FDP,SPD und Die Linke - endgültig abgelehnt
+- TOP 5.2.10: Mehr Sichtbarkeit und alternative Querung der Baustelle Gleiswechselbauwerks am Waidmarkt, Verbesserung der Umleitung, Antrag Grüne - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Ruhestörung in der Rubensstraße, Anfrage SPD - zurückgestellt
+- TOP 6.1.2: Sachstand Verkehrsberuhigende Maßnahmen in der Südstadt: Eburonenstraße / Maternusstraße, Anfrage Grüne - zurückgestellt
+- TOP 6.1.3: Bildungslandschaft Altstadt Nord - Renovierungsarbeiten, Anfrag CDU - zurückgestellt
+- TOP 6.1.4: Historische Wasserpumpe auf dem Alter Markt; Anfrage CDU - zurückgestellt
+- TOP 6.1.5: Anfrage zu Waffenverbotszonen, Anfrage FDP
+- TOP 6.1.5.1: Anfrage zu Waffenverbotszonen
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Regeln für Gehwegbreiten, gem. Anfrage Die Linke und KlimaFreund - zurückgestellt
+- TOP 6.2.2: Erhaltungssatzung Neustadt Süd-West, Anfrage Die Linke
+- TOP 6.2.2.1: Beantwortung der Anfrage der Fraktion DIE LINKE „Erhaltungssatzung Neustadt Süd-West“, AN/1969/2022
+- TOP 6.2.3: Ersatzfreiheitsstrafen aufgrund des Fahrens ohne Fahrscheins, Anfrage Grüne - zurückgestellt
+- TOP 6.2.4: Veräußerung historischer Gegenstände, Anfrage SPD im KUK
+- TOP 6.2.4.1: Beantwortung der Anfrage AN/2196/2022
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Stadtraumforschung im Domumfeld - Kenntnis genommen
+- TOP 9.2: Baulicher Zustand der Lehrschwimmbecken in Köln - Kenntnis genommen
+- TOP 9.3: Änderungen zum Fahrplanwechsel 2022 (Fahrplanjahr 2023) - Kenntnis genommen
+- TOP 9.4: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 9.5: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2022 - Kenntnis genommen
+- TOP 9.6: Weitere Planung der Kinder- und Jugendpartizipation in Köln - Kenntnis genommen
+- TOP 9.7: Sachstandsbericht zum Interimsschulstandort Venloer Wall - zu AN/1176/2022, Dringlichkeitsantrag, Venloer Wall, Die Linke - Kenntnis genommen
+- TOP 9.8: Elternbefragung "von4nach5" 2022 - Kenntnis genommen
+- TOP 9.9: Zweiter Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 9.10: Bürgereingabe nach § 24 GO NRW - Verkehrsführung Altenberger Straße, Az.: 80/22 - Kenntnis genommen
+- TOP 9.11: Entfall der Busparkplätze zwischen Bastei und Zoobrücke - Kenntnis genommen
+- TOP 9.12: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 9.13: MITTEILUNG - Planfeststellungsbeschlüsse für die Erneuerung der Bauwerke D und E der Eisenbahnüberführung Deutz-Mülheimer Straße - Kenntnis genommen
+- TOP 9.14: Rückblick zur Sessionseröffnung am 11.11.2022 - Kenntnis genommen
+- TOP 9.15: Leitbild für die Handelslagen Hohe Str./Schildergasse und Umfeld in der Innenstadt - Kenntnis genommen
+- TOP 9.16: Einrichtung einer Einbahnstraße und Neuordnung des Parkens in der Eburonenstraße - Kenntnis genommen
