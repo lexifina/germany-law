@@ -1,6 +1,5 @@
 # Besoldungsgruppe B 5
 Besoldungsgruppe B 5
-Landesschulrätin, Landesschulrat
 Polizeipräsidentin, Polizeipräsident
 Rektorin der Universität1), Rektor der Universität1)
 Senatsdirektorin, Senatsdirektor

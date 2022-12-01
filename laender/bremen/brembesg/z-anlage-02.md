@@ -1,17 +1,17 @@
 # Anlage 2 - Besoldungsordnung B
 Anlage 2
+Gültig ab 1. Dezember 2022
 Besoldungsordnung B
 Grundgehaltssätze (Monatsbeträge in Euro)
-Gültig ab 01. Januar 2021
 Besoldungsgruppe | 
-B 1 | 6.743,70
-B 2 | 7.823,86
-B 3 | 8.281,19
-B 4 | 8.760,13
-B 5 | 9.309,60
-B 6 | 9.828,53
-B 7 | 10.333,31
-B 8 | 10.859,38
-B 9 | 11.512,61
-B 10 | 13.541,12
-B 11 | 14.063,93
+B 1 | 6.932,52
+B 2 | 8.042,93
+B 3 | 8.513,06
+B 4 | 9.005,41
+B 5 | 9.570,27
+B 6 | 10.103,73
+B 7 | 10.622,64
+B 8 | 11.163,44
+B 9 | 11.834,96
+B 10 | 13.920,27
+B 11 | 14.457,72

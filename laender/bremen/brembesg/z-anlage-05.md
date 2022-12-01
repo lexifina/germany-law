@@ -1,20 +1,22 @@
-# Anlage 5 - Familienzuschlag
+# Anlage 5 - 1. Familienzuschlag
 Anlage 5
-Familienzuschlag
+Gültig ab 1. Dezember 2022
+1. Familienzuschlag
 (Monatsbeträge in Euro)
-Gültig ab 01. Januar 2021
  | Stufe 1 | Stufe 2
  | (§ 35 Abs. 1 BremBesG) | (§ 35 Abs. 2 BremBesG)
-Besoldungsgruppen A 3 bis A 8 | 138,48 | 262,81
-übrige Besoldungsgruppen | 145,44 | 269,77
-Bei mehr als einem Kind erhöht sich der Familienzuschlag |  | 
-für das zweite zu berücksichtigende Kind um | 124,33 | 
-für das dritte und jedes weitere zu berücksichtigende Kind um | 387,38 | 
-Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5 |  | 
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind |  | 
-in den Besoldungsgruppen A 3 bis A 5 um je | 5,11 | 
-ab Stufe 3 für jedes weitere zu berücksichtigende Kind |  | 
-in der Besoldungsgruppe A 3 um je |  | 25,56
-in der Besoldungsgruppe A 4 um je |  | 20,45
-in der Besoldungsgruppe A 5 um je |  | 15,34
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. |  | 
+Besoldungsgruppen A 5 bis A 8 | 142,36 | 370,17
+übrige Besoldungsgruppen | 149,52 | 377,33
+Bei mehr als einem Kind erhöht sich der Familienzuschlag | 
+für das zweite zu berücksichtigende Kind um | 227,81
+für das dritte zu berücksichtigende Kind um | 523,23
+für das vierte und jedes weitere zu berücksichtigende Kind um | 503,23
+Erhöhungsbeträge für die Besoldungsgruppe A 5 | 
+Der Familienzuschlag der Stufe 2 erhöht sich | 
+für das erste zu berücksichtigende Kind um | 5,11
+ab Stufe 3 für jedes weitere zu berücksichtigende Kind um | 15,34
+2. Familienergänzungszuschlag (§ 35a BremBesG) (Monatsbeträge in Euro)
+Für das erste zu berücksichtigende Kind | 205,00
+Für das zweite zu berücksichtigende Kind | 205,00
+Für das dritte zu berücksichtigende Kind | 255,00
+Für das vierte und jedes weitere zu berücksichtigende Kind | 215,00

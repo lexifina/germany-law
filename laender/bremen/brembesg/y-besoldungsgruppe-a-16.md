@@ -1,6 +1,5 @@
 # Besoldungsgruppe A 16
 Besoldungsgruppe A 16
-Direktorin der Kataster- und Vermessungsverwaltung, Direktor der Kataster- und Vermessungsverwaltung
 Direktorin des Landesinstituts für Schule, Direktor des Landesinstituts für Schule
 Direktorin der Verwaltungsschule, Direktor der Verwaltungsschule
 Leitende Akademische Direktorin, Leitender Akademischer Direktor

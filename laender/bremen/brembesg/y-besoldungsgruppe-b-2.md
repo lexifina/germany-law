@@ -1,5 +1,7 @@
 # Besoldungsgruppe B 2
 Besoldungsgruppe B 2
+Direktorin des Instituts für Qualitätsentwicklung im Land Bremen, Direktor des Instituts für Qualitätsentwicklung im Land Bremen
+Direktorin des Landesamtes Geoinformation Bremen, Direktor des Landesamtes Geoinformation Bremen
 Direktorin der Staats- und Universitätsbibliothek, Direktor der Staats- und Universitätsbibliothek
 Landesbehindertenbeauftragte, Landesbehindertenbeauftragter
 Leitende Branddirektorin, Leitender Branddirektor

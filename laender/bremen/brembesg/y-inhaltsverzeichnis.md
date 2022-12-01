@@ -43,6 +43,7 @@ Unterabschnitt 4 Vorschriften für Richterinnen und Richter sowie Staatsanwälti
 Abschnitt 3 Familienzuschlag
 § 34 | Grundlage des Familienzuschlages
 § 35 | Stufen des Familienzuschlages
+§ 35a | Familienergänzungszuschlag
 § 36 | Änderung des Familienzuschlages
 Abschnitt 4 Zulagen, Vergütungen
 § 37 | Amtszulagen
@@ -94,6 +95,6 @@ Abschnitt 9 Übergangsvorschriften
 § 76 | Übergangsvorschrift aus Anlass des Professorenbesoldungsreformgesetzes 2002 und zur Vergabe und Ruhegehaltfähigkeit von Funktions-Leistungsbezügen
 § 77 | Übergangsvorschrift aus Anlass der Neuregelung der Auslandsbesoldung
 § 78 | Übergangsvorschrift aus Anlass der Neuregelung von Ausgleichszulagen
-§ 79 | (weggefallen)
+§ 79 | Übergangsvorschrift zur Überleitung von Beamtinnen und Beamten in ein Amt der Besoldungsgruppe A 5
 § 80 | Übergangsvorschrift aus Anlass der Neuregelung der Besoldung bei begrenzter Dienstfähigkeit
 § 81 | Übergangsvorschrift aus Anlass der Neuregelung der Bemessung des Grundgehalts in den Besoldungsordnungen A und R

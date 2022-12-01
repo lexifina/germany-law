@@ -142,6 +142,7 @@ Chefärztin7) , Chefarzt7)
 Direktorin einer Gesamtschule, Direktor einer Gesamtschule
 - mit mehr als 1 000 Schülerinnen und Schülern -
 - mit Oberstufe -
+Direktorin der Kataster- und Vermessungsverwaltung, Direktor der Kataster- und Vermessungsverwaltung
 Direktorin einer Oberschule, Direktor einer Oberschule
 - als Leiterin oder als Leiter
 einer Oberschule im Aufbau mit
