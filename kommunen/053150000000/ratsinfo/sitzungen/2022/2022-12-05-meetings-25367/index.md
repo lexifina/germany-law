@@ -1,0 +1,86 @@
+# 19. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-12-05T17:00:00+01:00
+- Ende: 2022-12-05T20:40:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal, Nebeneingang Erdgeschoss, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25367
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25367
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 1.1: Antrag der SPD-Fraktion auf Durchführung einer Aktuellen Stunde, betr.: Aktuelle Maßnahmen im Rahmen des Verkehrsversuchs Venloer Straße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.3: Anfrage der CDU-Fraktion, betr.: Bebauung am Goldammerweg in Köln Vogelsang - Sache ist erledigt
+- TOP -: Beantwortung vgl. TOP 20.1 im nichtöffentlichen Teil
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrsversuch Herkulesstraße - Sache ist erledigt
+- TOP 6.5.1: Verkehrsversuch Herkulesstraße - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Gefährliche Verkehrssituation an der Weinsbergstraße - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Anfrage: Zigarettenstummel achtlos weggeworfen – sinnvolle Lösungen für den Bezirk - Sache ist erledigt
+- TOP 6.7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Zigarettenstummel achtlos weggeworfen – sinnvolle Lösungen für den Bezirk (AN/1541/2022) - Kenntnis genommen
+- TOP 6.8: Anfrage der SPD-Fraktion, betr.: Interim für die neu zu bauende Gesamtschule Ossendorf - Sache ist erledigt
+- TOP 6.8.1: Beantwortung einer Anfrage der SPD-Fraktion, betr.: Interim für die neu zu bauende Gesamtschule Ossendorf - Kenntnis genommen
+- TOP 6.9: Anfrage der SPD-Fraktion: Bauvorhaben Vogelsanger Straße 406 - Sache ist erledigt
+- TOP 6.9.1: Bauvorhaben Vogelsanger Str. 406 - Kenntnis genommen
+- TOP 6.10: Anfrage der SPD-Fraktion; Sachstand B-Plan Heliosgelände - zurückgestellt
+- TOP 6.11: Anfrage der CDU-Fraktion: Gebetsruf des Muezzin der Zentralmoschee im Stadtbezirk EHRENFELD - Sache ist erledigt
+- TOP 6.11.1: Beantwortung einer Anfrage der CDU-Fraktion zum Gebetsruf des Muezzin der Zentralmoschee im Stadtbezirk Ehrenfeld – AN/1939/2022 - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Aufstockpotenziale für bezahlbares Wohnen im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 7.3: Anfrage der SPD-Fraktion: Wirksamkeit des Aufstellungsbeschlusses über die Aufstellung einer Sozialen Erhaltungssatzung für Ehrenfeld-Ost. - Sache ist erledigt
+- TOP -: Beantwortung vgl. TOP 20.2 im nichtöffentlichen Teil
+- TOP 7.4: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktionen Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARETI, CDU-Fraktion, Fr. Schroeder (KF), Fr. Pöttgen und Hr. Scholz: Instandsetzung des Bolzplatzes auf dem Spielplatz Schönsteinstraße - zurückgestellt
+- TOP 8.2: Antrag der Fraktion BÜNDNIS 90 / Die Grünen: Prüfauftrag Glascontainer Alpenerplatz - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion, betr.: Öffnung des Durchgangs Mechternstraße / Kwatapark - ungeändert beschlossen
+- TOP 8.4: Antrag der CDU-Fraktion, betr.: Verkehrsversuch Venloer Straße - endgültig zurückgezogen
+- TOP 8.4.1: Änderungsantrag der CDU-Fraktion zum TOP 8.4 - endgültig zurückgezogen
+- TOP 8.5: Antrag der Einzelmandatsträgerin Marlis Pöttgen (FDP): Wiedereinführung der Bezirksbeigeordneten - geändert beschlossen
+- TOP 8.5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Antrag von Elke Schroeder (KLIMA FREUNDE) betr.: Hinweisschilder „Parken und Halten auf Radschutzstreifen und Radwegen“ - zurückgestellt
+- TOP 8.7: Antrag der SPD-Fraktion: Leitfaden zur Stadtverschönerung im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion: Stellungnahme des LVR zum Ehrenfelder Kugelgasbehälter - geändert beschlossen
+- TOP 8.8.1: Änderungsantrag der CDU-Fraktion zum TOP 8.8 - Sache ist erledigt
+- TOP 9: Entscheidungen
+- TOP 9.1: Baubeschluss für die Generalinstandsetzung der Feltenstraße in Köln-Bickendorf sowie Freigabe einer Verpflichtungsermächtigung - geändert beschlossen
+- TOP 9.1.1: Änderungsantrag der Fraktion BÜNDNIS 90 / die Grünen zum TOP 9.1 - geändert beschlossen
+- TOP 9.2: Genehmigung einer Dringlichkeitsentscheidung: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Ehrenfeld 2022/2023 - Förderprogramm - ungeändert beschlossen
+- TOP 9.3: Förderprogramm über die Vergabe bezirksorientierter Mittel 2023/2024 gemäß § 37 Abs. 3 GO NRW - ungeändert beschlossen
+- TOP 9.4: Genehmigung einer Dringlichkeitsentscheidung, betr.: Vergabe der bezirklichen Finanzmittel gem. § 37 (3) GO - ungeändert beschlossen
+- TOP 9.5: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Ehrenfeld 2022/2023 - Mittelvergabe - ungeändert beschlossen
+- TOP 9.6: Umsetzung des Straßenbaumkonzeptes BA2 - ungeändert beschlossen
+- TOP 9.7: Fünfte Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO 2022 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ungeändert beschlossen
+- TOP 10.2: Vermarktung Alpenerstraße 4 - 6 in Köln-Ehrenfeld, Bewertungskriterien der Konzeptausschreibung - geändert beschlossen
+- TOP 10.2.1: Änderungsantrag der CDU-Fraktion zum TOP 10.2 - endgültig abgelehnt
+- TOP 10.3: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld und über die Empfehlungen zur Überarbeitung des Ergebnisses des städtebaulichen und freiraumplanerischen Wettbewerbs Max Becker-Areal - zurückgestellt
+- TOP 10.3.1: Änderungsantrag der CDU-Fraktion zum TOP 10.3 - zurückgestellt
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Venloer Straße / Nördlich Arnoldshof in Köln-Bocklemünd/Mengenich - zurückgestellt
+- TOP 10.5: Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - geändert beschlossen
+- TOP 10.5.1: Änderungsantrag der CDU-Fraktion zum TOP 10.5 - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Änderungen zum Fahrplanwechsel 2022 (Fahrplanjahr 2023) - Kenntnis genommen
+- TOP 12.2: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 12.3: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2022 - Kenntnis genommen
+- TOP 12.4: Weitere Planung der Kinder- und Jugendpartizipation in Köln - Kenntnis genommen
+- TOP 12.5: Inbetriebnahme/Eröffnung der Brücke über die Weinsbergstraße - Kenntnis genommen
+- TOP 12.6: Zweiter Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 12.7: Elternbefragung "von4nach5" 2022 - Kenntnis genommen
+- TOP 12.8: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 12.9: Strategie Klimaneutrales Köln - Kenntnis genommen
+- TOP 13: mündliche Anfragen
