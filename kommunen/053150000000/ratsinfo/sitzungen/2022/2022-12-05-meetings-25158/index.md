@@ -1,0 +1,91 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-12-05T14:35:00+01:00
+- Ende: 2022-12-05T15:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25158
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25158
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Liste der Großbauprojekte - zurückgestellt
+- TOP 2.3: Sachstand zu Planungen für die "Informationskampagne Wohngeld" - Kenntnis genommen
+- TOP 2.4: Öffentlich geförderter Mietwohnungsbau - Kenntnis genommen
+- TOP 2.5: Zweiter Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 2.6: Auswirkungen der Steuerschätzung aus Oktober 2022 und der Modellrechnung für das Gemeindefinanzierungsgesetz (GFG) 2023 - Kenntnis genommen
+- TOP 2.7: Aufteilung der Mittel des Strukturförderfonds sowie allgemeiner Verfahrensstand - Kenntnis genommen
+- TOP 2.8: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 2.9: Beantwortung einer mündlichen Anfrage von Herrn RM Joisten aus der Sitzung des Finanzausschusses vom 31.10.2022 zum Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31. August 2022 (Vorlagen-Nr. 3162/2022) - Kenntnis genommen
+- TOP 2.10: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31. Oktober 2022 - Kenntnis genommen
+- TOP 2.11: Benehmensverfahren zur Absenkung der Landschaftsumlage - Kenntnis genommen
+- TOP 2.12: Nachhaltigkeitsbericht der Stadt Köln 2022 - zurückgestellt
+- TOP 2.13: Sachstand zur Implementierung eines Cash Pools - Kenntnis genommen
+- TOP 2.14: Vergütungsbericht 2021 - Kenntnis genommen
+- TOP 2.15: Konzeptionelle Überlegungen zur Ausgabe von Green Bonds durch die Stadt Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Finanzierung der U3-Betreuung in Köln - Kenntnis genommen
+- TOP 4.1.1: Beantwortung der Volt-Anfrage AN/1515/2022 Finanzierung der U3-Betreuung in Köln - Kenntnis genommen
+- TOP 4.2: Sachstand Kostenheranziehung für Pflege- und Heimkinder - Kenntnis genommen
+- TOP 4.2.1: Beantwortung AN/1685/2022 Sachstand Kostenheranziehung für Pflege- und Heimkinder - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Umgestaltung der Jesuitengasse zwischen Amboßstraße und Schmiedegasse in Köln-Weidenpesch - Kenntnis genommen
+- TOP 6.2.2: Generalsanierung und Verkehrsberuhigung der Eupener Straße/Eschweilerstraße/Max-Wallraf-Straße in Köln-Braunsfeld - Kenntnis genommen
+- TOP 6.3: Kommunalinvestitionsförderungsgesetz, Kapitel 1 und 2, Sachstandsmitteilung - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Kleingartenanlage Hoffnung e.V., Anlage Niehler Str. und Anlage Kretzer Str. Erneuerung des Wasserleitungsnetzes - ungeändert beschlossen
+- TOP 7.2: Ersatzbeschaffung von 1 LKW mit Ladekran für den Bereich Transport und 2 Standardschlepper - ungeändert beschlossen
+- TOP 7.3: Ersatzbeschaffung von 2 LKW 18t mit Ladekran - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßiger Aufwand im Teilergebnisplan 0212 Brand- und Bevölkerungsschutz, Rettungsdienst - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Generalinstandsetzung Kindertagesstätte Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven - Weiterplanungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Neubau einer Unterkunft für Geflüchtete in konventioneller Bauweise auf dem städtischen Grundstück Kuckucksweg 8, 50997 Köln-Godorf - Baubeschluss - ungeändert beschlossen
+- TOP 10.3: Brandschutzbedarfsplan der Stadt Köln 2022 - 2027 - ungeändert beschlossen
+- TOP 10.4: Baubeschluss für die Sanierung des Knotenpunktes Ostheimer Straße/Vingster Ring (inklusive Sanierung der Radverkehrsanlage) sowie einer Freigabe von investiven Auszahlungsermächtigungen bei der Finanzstelle 6601-1201-0-1008, Generalsanierung Radwege - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Kolmarer Str. 55 in 50769 Köln-Merkenich - Baubeschluss - ungeändert beschlossen
+- TOP 10.6: Hitzeaktionsplanung der Stadt Köln - ungeändert beschlossen
+- TOP 10.7: Weiterführung des Projekts Brückenbauer* - ungeändert beschlossen
+- TOP 10.8: Ausweitung der sozialen Staffelung bei den Mitgliedsbeiträgen der Stadtbibliothek Köln - ungeändert beschlossen
+- TOP 10.9: Stadtklima-/Stadtverschönerungsprogramm 2022 im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 10.10: Strategie Klimaneutrales Köln - ungeändert beschlossen
+- TOP 10.11: Stadtklima und Stadtverschönerungsprogramm 2022 im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 10.12: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2021 - ungeändert beschlossen
+- TOP 10.13: Durchführung des EhAP Plus Projektes INKA - In Köln Ankommen - Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert beschlossen
+- TOP 10.14: Bedarfsfeststellungsbeschluss zur Erneuerung des Parkleitsystems Köln West/Stadion - ungeändert beschlossen
+- TOP 10.15: Politischer Veränderungsnachweis Haushaltsplan 2022 „Masterplan Sauberkeit“, hier Mittelfreigabe - ungeändert beschlossen
+- TOP 10.16: Flächendeckendes Mobilstationsnetz - hier: weiteres Vorgehen - ungeändert beschlossen
+- TOP 10.17: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - zurückgestellt
+- TOP 10.18: Teilnahme am Landesprogramm „Kommunales Integrationsmanagement (KIM)“ - ungeändert beschlossen
+- TOP 10.19: Aktualisierte Bedarfsfeststellung Unterbringungsplätze Geflüchtete - ungeändert beschlossen
+- TOP 10.20: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln 2021 - ungeändert beschlossen
+- TOP 10.21: Eigentumsübertragung von 92 Benin-Hofkunstwerken aus dem Rautenstrauch-Joest-Museum an die Bundesrepublik Nigeria - ungeändert beschlossen
+- TOP 10.22: Strukturerhaltende Maßnahme zur Sicherung der Bürgerhäuser/Bürgerzentren in freier Trägerschaft - ungeändert beschlossen
+- TOP 10.23: Änderung der Rettungsdienstsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.24: Änderung der Luftrettungssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.25: Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ohne Votum in nachfolgende Gremien
+- TOP 10.26: Feststellung des Wirtschaftsplanes der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2023 - ungeändert beschlossen
+- TOP 10.27: 15. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.28: Stadtklima-Stadtverschönerungsprogramm 2022 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 10.29: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln 2023 - ungeändert beschlossen
+- TOP 10.30: Satzung über die Abfallgebühren in der Stadt Köln 2023 - ungeändert beschlossen
+- TOP 10.31: Mittelverwendung für die Sonderausstellung zur 200-jährigen Geschichte des Kölner Karnevals - ungeändert beschlossen
+- TOP 10.32: Feststellung des Wirtschaftsplanes der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2023 - ungeändert beschlossen
+- TOP 10.33: Bedarfsfeststellungsbeschluss zur Vergabe von Leistungen für den Themenbereich Sicherheit im Rahmen der Vorbereitung und Durchführung der Fußball EM 2024 - ungeändert beschlossen
+- TOP 10.34: Ausweitung der Umsatzsteuerpflicht der juristischen Personen des öffentlichen Rechts durch den neuen § 2b Umsatzsteuergesetz (UStG), Umsetzung in den Gebührensatzungen und Entgeltordnungen der Stadt Köln - ungeändert beschlossen
+- TOP 10.35: Zuschussgewährung Stromsparcheck der Caritas (Fortführung bis 31.12.2024) - ungeändert beschlossen
+- TOP 10.36: Zusätzliche Zuschüsse zu den Betriebskosten von Kindertageseinrichtungen ab 01.08.2022 - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
