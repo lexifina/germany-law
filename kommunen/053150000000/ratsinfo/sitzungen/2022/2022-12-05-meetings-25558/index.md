@@ -1,0 +1,95 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-12-05T16:00:00+01:00
+- Ende: 2022-12-05T17:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25558
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25558
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde zum Thema Innerer Grüngürtel/Uniwiesen an Karneval
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO – „Trampelpfad am Melatenfriedhof zur Grünfläche umwandeln" Az. 50/22 S - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung der Anfrage AN/1804/2021 aus der Sitzung der Bezirksvertretung vom 28.08.2021 Teilnutzung der Schulgarage als Quartiersgarage in Müngersdorf - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Linien 7 und 1 - zurückgestellt
+- TOP 7.2.2: Lindenburger Allee - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Dach- und Fassadenbegrünung und Ausstattung mit einer Photovoltaik-Anlage Schulzentrum Weiden - endgültig zurückgezogen
+- TOP 8.1.1.1: Ersetzungsantrag zu 8.1.1 - ungeändert beschlossen
+- TOP 8.1.2: Einsatz von neuen Niederflurfahrzeugen auf der Linie 1 - ungeändert beschlossen
+- TOP 8.1.3: Benennung eines Weges im Landschaftspark Belvedere - ungeändert beschlossen
+- TOP 8.1.4: Freigabe weiterer Einbahnstraßen für den Radverkehr - ungeändert beschlossen
+- TOP 8.1.5: Bahnübergänge: Äußerer Grüngürtel/Stadtwald - ungeändert beschlossen
+- TOP 8.1.6: Schutz spielender Kinder an der Radroute „Auf der Aspel“, Köln Widdersdorf - endgültig zurückgezogen
+- TOP 8.1.6.1: Ersetzungsantrag zu 8.1.6 - ungeändert beschlossen
+- TOP 8.1.7: Verkehrskonzept Robert-Koch-Str. und umliegende Straßen - ungeändert beschlossen
+- TOP 8.1.8: Urbanes Mischgebiet Melatengürtel / Oskar-Jäger-Straße - zurückgestellt
+- TOP 8.1.9: Wiedereinführung der Bezirksbeigeordneten - ungeändert beschlossen
+- TOP 8.1.10: Einführung einer zeitlich beschränkten „Tempo 30“-Zone im Bereich des Städtischen - endgültig zurückgezogen
+- TOP 8.1.10.1: Ersetzungsantrag zu 8.1.10 - ungeändert beschlossen
+- TOP 8.1.11: Einrichtung eines Fußgängerüberwegs im Bereich des Städtischen Gymnasiums Zusestraße - endgültig zurückgezogen
+- TOP 8.1.12: Prüfung einer Fassadenbegrünung an der Südseite des Gymnasiums an der Aachener Straße in Köln-Müngersdorf - endgültig zurückgezogen
+- TOP 8.1.12.1: Ersetzungsantrag zu 8.1.12 - ungeändert beschlossen
+- TOP 8.1.13: Wesentlich schnellere Optimierung der Sportplätze am Georg-Büchner-Gymnasium in Köln Weiden - endgültig zurückgezogen
+- TOP 8.1.13.1: Ersetzungsantrag zu 8.1.13 - ungeändert beschlossen
+- TOP 8.1.14: Entwicklung von Handlungsmöglichkeiten für die in russischem Staatseigentum stehenden Liegenschaften in der Classen-Kappelmann-Strasse 47 und in der Aachener Straße 240/244. - ungeändert beschlossen
+- TOP 8.1.15: Unterbinden des Parkens auf den Grünstreifen entlang der Straße Am Gleueler Bach in Köln Lindenthal sowie Wiederherstellung des Grünstreifens an dieser Stelle - endgültig zurückgezogen
+- TOP 8.1.15.1: Ersetzungsantrag zu 8.1.15 - zurückgestellt
+- TOP 8.1.16: Zuweisung bezirksorientierter Mittel - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - geändert beschlossen
+- TOP 9.2.1.1: Ergänzungsantrag zu 9.2.1 - ungeändert beschlossen
+- TOP 9.2.2: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld und über die Empfehlungen zur Überarbeitung des Ergebnisses des städtebaulichen und freiraumplanerischen Wettbewerbs Max Becker-Areal - zurückgestellt
+- TOP 9.2.3: Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2022 - Kenntnis genommen
+- TOP 11.1.2: Zweiter Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 11.1.3: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Regulierung des Parkens auf der Lessingstraße in Köln-Weiden - Kenntnis genommen
+- TOP 11.2.2: Antrag der Bezirksvertretung Lindenthal (3) vom 07.11.2022 betreffend "Bebauungsplan Friedrich-Engels-Str. 3-5 - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Änderungen zum Fahrplanwechsel 2022 (Fahrplanjahr 2023) - Kenntnis genommen
+- TOP 11.3.2: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 11.3.3: Elternbefragung "von4nach5" 2022 - Kenntnis genommen
+- TOP 11.3.4: Weitere Planung der Kinder- und Jugendpartizipation in Köln - Kenntnis genommen
+- TOP 11.3.5: Beantwortung der Anfrage: AN/1871/2022, Gesamtschulen – Verbleib der abgelehnten Schülerinnen und Schüler - Kenntnis genommen
+- TOP 11.3.6: Ergebnis des städtebaulichen Wettbewerbsverfahrens "Neubau Justizzentrum Köln“ in Köln-Sülz - Kenntnis genommen
+- TOP 11.3.7: Rückblick zur Sessionseröffnung am 11.11.2022 - Kenntnis genommen
+- TOP 11.3.8: Strategie Klimaneutrales Köln - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen
+- TOP 12.1: Baumfällungen - zurückgestellt
+- TOP 12.2: Umgestaltung Kirchplatz Lövenich - zurückgestellt
+- TOP 12.3: Barrierefreie Umgestaltung von Fuß- und Radwegbrücken - zurückgestellt
+- TOP 12.4: Parksituation Einsatzfahrzeuge Franz-Kremer-Stadion - zurückgestellt
+- TOP 12.5: Projekte zur Wasserwende - zurückgestellt
+- TOP 12.6: Anfrage Erhaltungssatzung Müngersdorf - zurückgestellt
+- TOP 12.7: Anfrage Saarstraße - zurückgestellt
+- TOP 12.8: Anfrage Gymnasium Zusestraße - zurückgestellt
+- TOP 12.9: Zuständigkeiten bei der Reinigung und dem Einhalten der Verkehrssicherungspflicht des öffentlichen Raumes - zurückgestellt
+- TOP 12.10: Gesamtschulen – Verbleib der abgelehnten Schülerinnen und Schüler - Sache ist erledigt
+- TOP 12.11: Liegehalle Freiluga - zurückgestellt
+- TOP 12.12: Masterplan Grüngürtel Impuls 2012 - Infrastruktur - zurückgestellt
+- TOP 12.13: Barrierefreie WBS-Wohnungen - zurückgestellt
+- TOP 12.14: Planungsstand Skatepark Widdersdorf - zurückgestellt
