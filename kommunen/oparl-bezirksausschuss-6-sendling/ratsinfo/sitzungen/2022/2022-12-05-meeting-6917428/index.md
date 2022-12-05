@@ -1,0 +1,107 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2022-12-05T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6917428
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6917428
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Sitzbank auf dem Quartiersplatz Theresienhöhe
+- TOP 2.2.: Fahrradabstellplätze an der Lipowskystraße 23
+- TOP 2.3.: Müll vor dem Anwesen Plinganserstr 5a
+- TOP 2.4.: Bezirkssportanlage bzw. Kletterzentrum Thalkirchner Straße 209
+- TOP 2.5.: Verbotsschild für Taubenfütterung auf dem Resi-Huber-Platz
+- TOP 2.6.: Umsetzung einer im Mai zugestimmte Anordnung in der Flößergasse
+- TOP 2.7.: Unberechtigtes Fahrradfahren auf dem Gehsteig
+- TOP 2.8.: Baustelleneinrichtung an der Ecke Karwendel-/ Albert-Roßhaupter-Straße
+- TOP 3.: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Meindlstraße 5
+- TOP 4.2.2.: Baumfällung Spitzwegstraße 1
+- TOP 4.2.3.: Baumfällung Esswurmstraße 12
+- TOP 4.2.4.: Hundepoller an der Grünanlage an der Fallstraße
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Größere Einwurföffnungen der Müllbehälter Antwort
+- TOP 4.3.3.: Hecke an der Zufahrt der Plinganserschule/ Einfahrt Meindlstraße Antwort
+- TOP 4.3.4.: Hundeauslaufflächen und Hundekot Antwort
+- TOP 4.3.5.: GWG Wohnanlage an der Karwendelstraße Modernisierungs- und Neubaumaßnahmen Antwort
+- TOP 4.3.6.: Aufstellung von Mülleimern Antwort
+- TOP 4.3.7.: Plakate an der Stemmerwiese Antwort
+- TOP 4.3.8.: Unterrichtung über Eingriffe in Gehölzbestand
+- TOP 4.3.9.: Toi Toi-Toilette am Boden Antwort
+- TOP 4.3.10.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 4.3.11.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 4.3.12.: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 4.3.13.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 4.3.14.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 4.3.15.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 4.3.16.: Baumfällungen an der Daiserstraße
+- TOP 4.3.17.: Probeschürfungen Am Isarkanal
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Bürgeranfrage zum Parklizenzgebiet Mittersendling Antwort
+- TOP 5.3.2.: Antrag aus der Kinder- und Jugendversammlung vom 01.07.2022 „Achtung Kinder"-Schild für Fahradfahrer*innen vor der Gaißacher Turnhalle
+- TOP 5.3.3.: Antrag aus der Kinder- und Jugendversammlung vom 01.07.2022 Kontrolle der 30er-Zone im Bereich Impler-/ Valleystraße/ Gotzinger Platz
+- TOP 5.3.4.: Antrag aus der Kinder- und Jugendversammlung vom 01.07.2022 Einrichtung von Zebrastreifen am Gotzinger Platz
+- TOP 5.3.5.: Antrag aus der Kinder- und Jugendversammlung vom 01.07.2022 Zebrastreifen und Verbesserung der Sichtachsen in der Aberlestraße und in der Alramstraße
+- TOP 5.3.6.: Antrag aus der Kinder- und Jugendversammlung vom 01.07.2022 Blitzer im Bereich Impler-/ Valleystraße/ Gotzinger Platz vor den Schulen
+- TOP 5.3.7.: Verkehrsrechtliche Anordnung Bleyerstraße Parklizenzgebiet „Brudermühlviertel“ Anpassung der Parklizenz-Beschilderung
+- TOP 5.3.8.: Fahrradständer vor einer Pizzeria Antwort
+- TOP 5.3.9.: Situation am Margaretenplatz/S-Bahn-Unterführung durch bauliche Maßnahmen lösen
+- TOP 5.3.10.: Fahrradabstellanlagen Fallstraße – Schmied-Kochel-Straße
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Bestellung städtischer Leistungen zur Umwandlung von Parkplätzen zu Baumstandorten in der Oberländerstraße in Sendling [Die Grünen]
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kultur & Spielraum e.V./ Münchner Kinder- und Jugendforum “Abschlussveranstaltung und Ausstellung „Ran an die Stadtkoffer!“ in Sendling vom 15.06.2023-31.07.2023" 6.000,00 €/ AZ: 0262.0-6-0403
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.4.1.: Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen [BA-Vorstand]
+- TOP 6.4.2.: Kinder- und Jugendanträge schneller bearbeiten [Die Grünen]
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: Freie Lastenräder am Harras Vertagung aus Mai 2022
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Offener Brief einer Mittagsbetreuung an den Oberbürgermeister
+- TOP 7.3.2.: Obdachloser am Harras Antwort
+- TOP 7.3.3.: Protokoll der Informationsveranstaltung zum Stadtteilprojekt "Ran an die Stadtteil-Koffer!“ & Antragsschluss „Lasst uns mal ran!“
+- TOP 7.3.4.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Antrag auf die Erweiterung der Fußgängerampel an der Grundschule Pfeuferstraße [UA Soziales]
+- TOP 7.4.2.: Antrag auf weitere Fahrradstellplätze vor der Grundschule Pfeuferstraße [UA Soziales]
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Weihnachtsmarkt am Harras vom 22.11. bis 23.12.2022 Bescheid
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Antrag auf städtische Leistungen für runde Tischtennis Platte [Die Grünen]
+- TOP 8.4.2.: Bestellung Städtischer Leistungen für Umbaumaßnahmen der Mädchenumkleide des FFC Wackers [Die Grünen]
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 6.1.2.: (E) Stadtbezirksbudget Lastenradl München e.V. Noch ein Freies Lastenradl für Sendling vom 01.03.2023 -28.02.2024 8.500,00€; Az. 0262.0-0404
