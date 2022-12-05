@@ -1,0 +1,52 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-12-05T15:00:00+01:00
+- Ende: 2022-12-05T15:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21930
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21930
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00469665.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00469665.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00469665.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 07.11.2022 - einstimmig beschlossen
+- TOP 3: Änderungsordnung der Entgeltordnung für freiwillige Hilfeleistungen und Leistungen des vorbeugenden Brandschutzes der Feuerwehr der Landeshauptstadt Düsseldorf vom 24.10.2016 - Empfehlung einstimmig beschlossen
+- TOP 4: Öffentliche Grünanlage "Stadt-Wald : Wald-Stadt" - Albertstraße - Ausführungs- und Finanzierungsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 5: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - Empfehlung einstimmig beschlossen
+- TOP 6: Bebauungsplan-Entwurf Nr. 06/020 - Beiderseits Vogelsanger Weg - Empfehlung mehrheitlich beschlossen
+- TOP 7: Flächennutzungsplanänderung Nr. 138 - Glasmacherviertel - Empfehlung einstimmig beschlossen
+- TOP 8: Bebauungsplan-Entwurf Nr. 09/011 - Östlich Kölner Landstraße - - Empfehlung mehrheitlich beschlossen
+- TOP 9: Bebauungsplan-Entwurf Nr. 08/006 - Königsberger Straße/Tulpenweg - Empfehlung mehrheitlich beschlossen
+- TOP 10: Städtebaulicher und freiraumplanerischer Wettbewerb Nr. 05/015 - Nördlich Kalkumer Schloßallee - - Empfehlung mehrheitlich beschlossen
+- TOP 11: Flächennutzungsplanänderung Nr. 194 - Königsberger Straße/Tulpenweg - Empfehlung mehrheitlich beschlossen
+- TOP 12: Plan Nr. 01/028 - Schadowstraße - Satzung über ein besonderes Vorkaufsrecht - Empfehlung einstimmig beschlossen
+- TOP 13: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - passieren lassen
+- TOP 14: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2023 - passieren lassen
+- TOP 15: Fußgängerbrücke über die Hafeneinfahrt, BW 8039 - Ertüchtigung zur weiteren Nutzung durch Radfahrende - Ausführungs- und Finanzierungsbeschluss - Empfehlung mehrheitlich beschlossen
+- TOP 16: Stadtbahnstrecke U81/3. Bauabschnitt, Flughafen Terminal – Flughafen Bahnhof - Empfehlung mehrheitlich beschlossen
+- TOP 17: Auf’m Hennekamp – Radverkehrsführung Himmelgeister Straße bis Mecumstraße -Ausführungs- und Finanzierungsbeschluss- - Empfehlung mehrheitlich beschlossen
+- TOP 18: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Erweiterung der Carl Sonnenschein Grundschule, Gerresheimer Landstraße 89, Erhöhung der Zügigkeit von ein auf zwei Züge“ - Empfehlung einstimmig beschlossen
+- TOP 19: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau eines 4-zügigen Gymnasiums mit Sporthalle des Luisen-Gymnasiums am Standort Völklinger Straße" - Empfehlung einstimmig beschlossen
+- TOP 20: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses für das Projekt "Rückertstraße 6, Friedrich-Rückert-Gymnasium und das Weiterbildungskolleg der Stadt Düsseldorf - Abendgymnasium-,Erweiterung und Sanierung aufgrund Erhöhung der Zügigkeit - Empfehlung einstimmig beschlossen
+- TOP 21: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses des Projektes "Erweiterungsneubau Am Massenberger Kamp 45" - Empfehlung einstimmig beschlossen
+- TOP 22: Erhöhung der Zügigkeit des Max-Planck-Gymnasiums von 4 auf 5 - Empfehlung einstimmig beschlossen
+- TOP 23: Aufhebung der Maßnahme zur baulichen Erweiterung an der GHS Graf-Recke-Straße aus dem Beschluss SCHUA/025/2019 - Empfehlung einstimmig beschlossen
+- TOP 24: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2023 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 25: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2022-2026 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 26: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2023 bis 31.12.2023 - Beschluss - - Empfehlung mehrheitlich beschlossen
+- TOP 27: Jahresabschluss zum 31.12.2021 und Lagebericht für das Wirtschaftsjahr 2021 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD) - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 28: D.Live GmbH & Co. KG - Betrauung einer städtischen Beteiligungsgesellschaft mit gemeinnützigen Aufgaben - Ergänzung - - Empfehlung mehrheitlich beschlossen
+- TOP 29: Beschluss über das Jahresergebnis 2021 - passieren lassen
+- TOP 30: Etatberatungen - passieren lassen
+- TOP 30.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2023 mit Anlagen - passieren lassen
+- TOP 30.2: Veränderungsverzeichnis zum Haushaltsplan-Entwurf 2023 ff. - passieren lassen
+- TOP 30.3: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2023 mit Anlagen - passieren lassen
+- TOP 30.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2023 - passieren lassen
+- TOP 31: Neuregelung der Umsatzbesteuerung juristischer Personen des öffentlichen Rechts; Widerruf der Optionsregelung ab 01.01.2023
