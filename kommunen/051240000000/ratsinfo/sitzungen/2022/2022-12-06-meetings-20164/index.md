@@ -1,0 +1,54 @@
+# öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-12-06T16:05:00+01:00
+- Ende: 2022-12-06T19:07:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20164
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20164
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Stand: 29.11.2022 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00302841.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00303446.pdf
+
+## Tagesordnung
+
+- TOP 1: Rettungswege im Stadtgebiet
+- TOP 2: Rettungswege sollen frei bleiben – Antrag der Fraktionen von SPD, CDU, FDP und DIE LINKE vom 29.11.2022 - ungeändert beschlossen
+- TOP 2.1: Änderungsantrag zur Drucksache VO/1469/22 "Rettungswege sollen frei bleiben“ - abgelehnt
+- TOP 3: ÖPNV in Wuppertal: Aktuelle Situation
+- TOP 4: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand - abgesetzt
+- TOP 5: Freigabe von Einbahnstraßen für den gegenläufigen Radverkehr Heckinghausen - ungeändert beschlossen
+- TOP 6: Optimierung der Radverkehrsanbindung vom Hauptbahnhof zur Bergischen Universität Wuppertal - ungeändert beschlossen
+- TOP 6.1: Ergänzungsantrag zur Drucksache „Optimierung der Radverkehrsanbindung vom Hauptbahnhof zur Bergischen Universität Wuppertal“ (VO/0542/22) - ungeändert beschlossen
+- TOP 7: Radabstellanlage Lenneper Straße - ungeändert beschlossen
+- TOP 8: Machbarkeitsuntersuchung für eine Veloroute Wuppertal - Ennepe-Ruhr-Kreis - Hagen - ungeändert beschlossen
+- TOP 9: Talachsenradweg – Fahrradstraße Hünefeldstraße – Entwicklung der westlichen und östlichen Abschnitte - Entgegennahme ohne Beschluss
+- TOP 10: Radweg entlang der L 74 zwischen Buchenhofen und Wanderparkplatz Müngsten - geändert beschlossen
+- TOP 11: Landesstraße L 411 / Windfoche - Entgegennahme ohne Beschluss
+- TOP 11.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Landesstraße L 411 / Windfoche" vom 15.11.2022 (VO/1372/22) - Entgegennahme ohne Beschluss
+- TOP 12: Bericht über die Möglichkeiten des barrierefreien Haltestellenausbaus innerhalb eines halben Jahres
+- TOP 13: Barrierefreier Ausbau der Haltestellen Gildenstraße, Grundstraße und Güterbahnhof - ungeändert beschlossen
+- TOP 14: Gegen die Kürzung der Buslinie 617 - vertagen
+- TOP 15: Fußweg Oberbergische Straße - Rückmeldung der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 16: Verbesserung der Querung Dr.-Werner-Jackstädt-Weg an der Straße Bracken - ungeändert beschlossen
+- TOP 17: Gefahrloses Überqueren der Erbschlöer Straße im Bereich Otto-Hahn-Straße - Prüfauftrag Errichtung einer Ampel - ungeändert beschlossen
+- TOP 18: Verbesserung der Verkehrssicherheit an der Kreuzung In der Krim/Erbschlöer Straße - Prüfauftrag - ungeändert beschlossen
+- TOP 19: Ausbau und Signalisierung Einmündung Loher Straße / Friedrich-Engels-Allee - geändert beschlossen
+- TOP 20: Sanierung der Mauer am Briller Kreuz Hochstraße / Briller Straße - ungeändert beschlossen
+- TOP 21: Sanierung der Gewölbe- und Portalflächen am Westkotter Viadukt - ungeändert beschlossen
+- TOP 22: Gesamtstädtisches Mobilitätskonzept - finales Zielkonzept - ungeändert beschlossen
+- TOP 23: Elektromobilitätskonzept für die Stadt Wuppertal, Lieferverkehr mit Elektrofahrzeugen in den beiden Innenstadtbereichen, Verlängerung der Pilotphase - ungeändert beschlossen
+- TOP 24: Möglichkeiten und Einsatzgrenzen für das Laden von E-Fahrzeugen an Straßenlaternen und Pollern - Entgegennahme ohne Beschluss
+- TOP 24.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Möglichkeiten und Einsatzgrenzen für das Laden von E-Fahrzeugen an Straßenlaternen und Pollern" vom 29.11.2022 - Entgegennahme ohne Beschluss
+- TOP 25: Bebauungsplan Nr. 815A - Herstellung von Erschließungsanlagen durch einen Dritten - ungeändert beschlossen
+- TOP 26: Planfeststellungsbeschluss für die Erneuerung des Tunnels Rauenthal - Entgegennahme ohne Beschluss
+- TOP 27: 2. Satzung zur Änderung u. Verlängerung der Satzung vom 19.12.2012 über die Festlegung der Immobilien- und Standortgemeinschaft Barmen-Werth sowie über die Erhebung von Abgaben zur Finanzierung von standortbezogenen Maßnahmen innerhalb dieses Gebiets - ungeändert beschlossen
+- TOP 28: Bericht zum Sachstand der Novellierung der Straßenverkehrsordnung - Entgegennahme ohne Beschluss
+- TOP 29: Anregung gemäß § 24 GO NRW - Tempo 30 (versuchsweise) für Hünefeldstraße/Hardtufer - ungeändert beschlossen
+- TOP 30: Anregung gemäß § 24 GO NRW - Tempo 30 Erbschlöer Straße, Staubenthaler Straße - ungeändert beschlossen
+- TOP 31: Anregung gemäß § 24 GO NRW - Einrichtung einer Tempo 30-Strecke auf der Lüttringhauser Straße sowie Versetzung einer Lichtsignal-Anlage - ungeändert beschlossen
+- TOP 32: Anregung gemäß § 24 GO NRW - Uellendahler Straße - Rücknahme Gehwegparken - ungeändert beschlossen
+- TOP 33: Anregung gemäß § 24 GO NRW - Rücknahme halbachsiges bzw. vollachsiges Gehwegparken in Barmen - ungeändert beschlossen
+- TOP 34: Anregung gemäß § 24 GO NRW - Durchführung eines Lärmgutachtens einschließlich einer Langfristmessung im Bereich der Kohlstraße - ungeändert beschlossen
