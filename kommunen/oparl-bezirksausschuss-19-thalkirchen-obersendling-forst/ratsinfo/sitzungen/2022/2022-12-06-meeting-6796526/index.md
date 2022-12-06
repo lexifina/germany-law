@@ -1,0 +1,59 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2022-12-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6796526
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6796526
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 08.11.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Andreas Gospel Singers Beschaffung von Mikrofonen inkl. Ständer und Kabel für Auftritte vom 01.01.2023 bis 31.12.2023 1.411,93 €; Az. 0262.0-19-0434
+- TOP 3.3.: Mehrjahresinvestitionsprogramm 2022 - 2026
+- TOP 3.4.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling “Rythmik vom 01.02.2023 – 31.01.2024“ 1.350,00 € / AZ: 0262.0-19-0436
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Sommerstraßen 2023
+- TOP 5.3.: Parken auf Gehwegen im 19. Stadtbezirk
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Rietschelstr. 4
+- TOP 6.2.2: Baierbrunner Str. 21
+- TOP 6.2.3: Mindelheimer Str. 1
+- TOP 6.2.4: Pfeilweg 2
+- TOP 6.2.5: Rudolf-Wilke-Weg 24
+- TOP 6.2.6: Berner Str. 29 (T)
+- TOP 6.2.7: Spindlerstr. 17
+- TOP 6.2.8: Schäftlarnstr. 135
+- TOP 6.2.9: Münchner Str. 6
+- TOP 6.2.10: - abgesetzt -
+- TOP 6.2.11: Münsinger Str. 26
+- TOP 6.2.12: - abgesetzt -
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Forstenrieder Volkslauf am 25.03.2023
+- TOP 8.3.: (U) Vermietung städtisches Grundstück an der Forstenrieder Allee vom 01.12.2022 bis 23.12.2022
+- TOP 8.4.: (U) Stadtratsbeschluss: Mehrwöchige Nutzung der Grünanlagen und des öffentlichen Verkehrsgrunds, Richtlinien für Kultur- und Strandveranstaltungen; Sitzungsvorlage Nr. 20-26 / V 07848
+- TOP 9: Verschiedenes
