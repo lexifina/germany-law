@@ -365,7 +365,7 @@
 | Evaluierung, Schlussvorschriften |
 | § 112 | Evaluierungsbericht |
 | § 112a | Bericht der Bundesnetzagentur zur Einführung einer Anreizregulierung |
-| § 112b | Berichte des Bundesministeriums für Wirtschaft und Energie sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung |
+| § 112b | Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung |
 | § 113 | Laufende Wegenutzungsverträge |
 | § 113a | Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen |
 | § 113b | Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas der Fernleitungsnetzbetreiber |

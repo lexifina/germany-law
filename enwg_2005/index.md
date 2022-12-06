@@ -367,7 +367,7 @@
 
 - [§ 112 Evaluierungsbericht](0112.md)
 - [§ 112a Bericht der Bundesnetzagentur zur Einführung einer Anreizregulierung](0112a.md)
-- [§ 112b Berichte des Bundesministeriums für Wirtschaft und Energie sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung](0112b.md)
+- [§ 112b Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung](0112b.md)
 - [§ 113 Laufende Wegenutzungsverträge](0113.md)
 - [§ 113a Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen](0113a.md)
 - [§ 113b Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas der Fernleitungsnetzbetreiber](0113b.md)
