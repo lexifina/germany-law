@@ -1,0 +1,84 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2022-12-06T17:00:00+01:00
+- Ende: 2022-12-06T18:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25647
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/25647
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Zukunftsperspektiven der Jugendeinrichtungen im Bezirk Chorweiler
+- TOP -: Zukunftsperspektiven der Jugendeinrichtungen im Bezirk Chorweiler AN/1833/2022
+- TOP 7.1.2: Wochenmarkt Chorweiler - zurückgestellt
+- TOP -: Wochenmarkt auf dem Liverpooler Platz - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: Energiesicherheit für Fernwärme im Bezirk Chorweiler
+- TOP 7.3.2: Grünstreifen zwischen Liller Straße und Oxforder Passage / Eingang Hallenbad Chorweiler
+- TOP 7.3.3: Fehlende Schulbau-Baumaßnahmen im Bezirk Chorweiler in der Haushaltsplanung 2023/24
+- TOP 7.3.4: Parkgelände Volkhoven/Weiler
+- TOP 7.3.5: Fahrradwege im Stadtbezirks Chorweiler
+- TOP 7.3.6: Dächer des Einkaufszentrums Heimersdorf
+- TOP 7.3.7: Absicherung des Brückenendes Toni-Welter-Straße / Volkhovener-Weg
+- TOP 7.3.8: Alte Neusser Landstrasse 273 „Haus Worringen“ und zugehörige Liegenschaften in der Elkemannstrasse.
+- TOP 7.3.9: Sachstand Blumenbergsweg
+- TOP 7.3.10: Sicherheit der Brücken auf der Fritz-Wacker-Straße
+- TOP 7.3.11: Einrichtung eines Grillplatzes bzw. einer Grillhütte in Köln-Langel
+- TOP 7.3.12: Raser auf der Brücke Mercatorstr/ Zubringer nach Pesch
+- TOP 7.3.13: Installierung eines Wasser- und Stromanschlusses auf dem Platz in Auweiler
+- TOP 7.3.14: Nutzung des Schrottplatzes, Causemannstr Ecke Emdener Str.
+- TOP 7.3.15: Anhäufungen von Sperrmüll auf öffentlichen Straßen im Kölner Norden
+- TOP 7.3.16: Kataster für Ausgleichsflächen
+- TOP 7.3.17: Durchfahrverbot Neusser Landstraße
+- TOP 7.3.18: Nutzung öffentlicher Flächen im Stadtbezirk Chorweiler
+- TOP 7.3.19: Eröffnung Grundschule Volkhoven/Weiler
+- TOP 7.3.20: Veranstaltungsprogramm 2022 Fühlinger See
+- TOP 7.3.21: Sachstand Prüfung weiterer Fahrradverleihstationen
+- TOP 7.3.22: Insel im Pescher See
+- TOP 7.3.23: Verwahrloste Grünfläche an der Johannes-Albers-Straße
+- TOP 7.3.24: Regenerative Energie-Erzeugung im Bezirk Chorweiler
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Aufstellung Seitenlinien-Radar Chorbuschstr./Johannes-Prassel-Str. und Orrer Str./Amselweg - ungeändert beschlossen
+- TOP 8.2.2: Realisierung des Spielplatzes an der Merkenicher Ringstraße - ungeändert beschlossen
+- TOP 8.2.3: Neugestaltung Neusser Landstraße in Köln-Worringen - geändert beschlossen
+- TOP 8.2.4: Interfraktionelles Gespräch zu Zukunftsperspektiven der Jugendeinrichtungen im Bezirk - ungeändert beschlossen
+- TOP 8.2.5: Antrag auf Sondersitzung - endgültig abgelehnt
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Sanierung des Handwerkerhofs nach einem Feuchteschaden - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - zurückgestellt
+- TOP 9.2.2: 284. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.3: Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - mit Änderungen empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Änderungen zum Fahrplanwechsel 2022 (Fahrplanjahr 2023)
+- TOP 10.2.2: Passierbare Umlaufsperren
+- TOP 10.2.3: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2022
+- TOP 10.2.4: Elternbefragung "von4nach5" 2022
+- TOP 10.2.5: Zweiter Sachstandsbericht zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten
+- TOP 10.2.6: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050
+- TOP 10.2.7: Ergebnis des Realisierungswettbewerbs nach RPW 2013 für das Vorhaben "Hotelneubau am Freizeitbad Aqualand in Köln-Chorweiler"
+- TOP 10.2.8: Einzelhandelsansiedlung im Geltungsbereich des Bebauungsplans Nr. 61520/02 „Donatusstraße“
+- TOP 10.2.9: Strategie Klimaneutrales Köln - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
