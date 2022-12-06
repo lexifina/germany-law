@@ -1,0 +1,142 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2022-12-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6891847
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6891847
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Pilotprojekt nummerierte Parkbänke auch im Alten nördlichen Friedhof umsetzen
+- TOP 6.2.: Verbesserung der Verkehrssicherheit an der Kreuzung Karl- /Blutenburg- / Pappenheimstraße
+- TOP 6.3.: Darstellende Kunst & Musik im öffentlichen Raum ermöglichen und fördern!
+- TOP 6.4.: Unverträglichkeit von Jugendschutz und Freischankflächen von Spielhallen
+- TOP 5.2: Vorstellungen
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: Fraktionsübergreifende Coronagruppe
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Tiermedizin Königinstraße Bürger*innenanliegen vom 02.11.2022
+- TOP 1.1.2.: Bäume in der Theresienstraße Bürger*innenanliegen vom 16.11.2022
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Auskunft über den aktuellen Stand der Bearbeitung von Leerstands-Meldungen Antrag Bündnis 90/Die Grünen vom 17.11.2022
+- TOP 1.2.2.: Umwandlung der Grünfläche entlang der Luisenstraße / Zieblandstraße in eine Blumenwiese Antrag Bündnis 90/Die Grünen vom 21.11.2022
+- TOP 1.2.3.: Reinigung der Sitzbänke auf der Grünfläche Schelling-, Luisen- und der Zieblandstraße und Aufstellung eines Hundetütenspender auf der kleineren Grünfläche an der Schelling-/Luisenstraße Antrag des BAs vom 21.11.2022
+- TOP 1.2.4.: Klimakonzept bei Bauvorhaben fordern Antrag SPD und Die Grünen vom 22.11.2022
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 43-46
+- TOP 2.1.2.: WEB-Listen der LBK: KW 41-45
+- TOP 2.1.3.: Nordendstr. 19, Energetische Sanierung mit Erneuerung einer Balkonanlage
+- TOP 2.1.4.: Schwindstr. 9, Neubau eines Büro- und Wohngebäudes – VORBESCHEID
+- TOP 2.1.5.: Schellingstr. 15, Nutzungsänderung Gewerbe EG Rechts, Bestand Kleingewerbe Planung Gaststätte
+- TOP 2.1.6.: Augustenstr. 45, Neubau Rückgebäude und rückwärtige Seitengebäude, Erstellung von 3 Gewerbeeinheiten, 2 Lagereinheiten und 3 Geschosswohnungen mit Terrassen, davon eine Maisonettewohnung, Veränderung der Freiflächen und Erstellung von 8 PKW-Stellplätzen
+- TOP 2.1.7.: Luisenstr. 22, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage - TEKTUR (Korrektur der straßenseitigen Grundstücksgrenze)
+- TOP 2.1.8.: Schellingstr. 18, Neubau Vorder- und Rückgebäude - VORBESCHEID (2 Var.) - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Schellingstr. 80, Fällungsantrag vom 26.10.2022 auf dem Grundstück
+- TOP 3.1.2.: Sandstr. 33, Fällungsantrag vom 25.10.2022 auf dem Grundstück
+- TOP 3.1.3.: Akademiestr. 2, Fällungsantrag vom 18.11.2022 auf dem Grundstück
+- TOP 3.1.4.: Lothstr.16, Generalsanierung und Umbau eines Kindergartens sowie Errichten eines Anbaus (St. Benno), Stellungnahme zu Baumfällungen │23.12.22
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Luisenstr. 29: Fällung Gefahrenbaum – Notmaßnahme
+- TOP 5.2.: Antwort Referentin SozRef Schiwy auf Bürgeranliegen – Gentrifizierung Schönfeldviertel
+- TOP 5.3.: Antwort Bürger mit Schreiben unter B 5.2
+- TOP 5.4.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 5.5.: Bescheid Heßstr. 49
+- TOP 5.6.: Bescheid Zieblandstr. 46
+- TOP 5.7.: Ratsentscheid zur Hochhausgrenze Sitzungsvorlage 20-26 / V 05686
+- TOP 5.8.: Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung Sitzungsvorlage 20-26 / V 02397
+- TOP 5.9.: 47. Städtischer Fassadenwettbewerb Sitzungsvorlage 20-26 / V 07206
+- TOP 5.10.: Wohnen ohne Lärm Sitzungsvorlage 20-26 / V 06982
+- TOP 5.11.: Wohnungsmarkt München Expert*innenbefragung 2022 Sitzungsvorlage 20-26 / V 07892
+- TOP 5.12.: Wohnungspolitisches Handlungsprogramm Sitzungsvorlage 20-26 / V 07705
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Kosten für Parkausweis (Gewerbe) Bürger*innenanliegen vom 02.11.2022
+- TOP 1.1.2.: Anfrage bzgl. Lärmbelästigungen im Bereich Barerstraße / Zieblandstraße Bürger*innenanliegen vom 02.11.2022
+- TOP 1.1.3.: Tram Station Deroystraße Bürger*innenanliegen vom 02.11.2022
+- TOP 1.1.4.: Fahrräder und Motorräder auf den Gehsteigen an der Kreuzung Schelling- / Winzererstrasse Bürger*innenanliegen vom 14.11.2022
+- TOP 1.1.5.: Ruhestörung durch Gastronomie Bürger*innenanliegen vom 19.11.2022
+- TOP 1.1.6.: Begrünung zwischen Hiltensperger- und Arcisstraße, Markierung und parkende PkWs Bürger*innenanliegen vom 21.11.2022
+- TOP 1.1.7.: Fahrradstraße Tengstraße- Richtung Hohenzollernplatz Bürger*innenanliegen vom 11.11.2022
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag CSU vom 22.11.2022 Befestigung des Walter-Klingenbeck-Weg
+- TOP 1.2.2.: Antrag CSU vom 22.11.2022 Prüfung der Videoüberwachung im „Alten Botanischen Garten“
+- TOP 1.2.3.: Antrag CSU vom 22.11.2022 Ortstermin mit der Polizei und den zuständigen Referaten im „Alten Botanischen Garten“
+- TOP 1.2.4.: Antrag CSU vom 22.11.2022 Mauer der Schwindschule umgehend von Graffitis reinigen, um weitere Schäden zu verhindern!
+- TOP 1.2.5.: Antrag CSU vom 22.11.2022 Anlieferungszeiten bei den „Gorillas“ kontrollieren
+- TOP 1.2.6.: Antrag CSU vom 22.11.2022 Mauer der Schwindschule (in der Schellingstraße) durch begrünten Zaun und Hecken erset-zen!
+- TOP 1.2.7.: Antrag CSU vom 22.11.2022 „Gorilla“ Auslieferer in der Gabelsbergerstraße kontrollieren
+- TOP 1.2.8.: Antrag CSU vom 22.11.2022 Intelligente Lichtmasten im Walter-Klingenbeck-Weg
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: (E) Präsentation des aktuellen Planungsstandes der Oberflächengestaltung am westlichen Ende des Altstadtringtunnels
+- TOP 2.2.2.: Anhörung Plangenehmigungsverfahren “Instandsetzung Treppenanlage TH 89 und TH 90 Station 4237 am Karlsplatz in München“
+- TOP 2.2.3.: Erinnerungsverfahren zum BV Schleißheimer Straße zw. Rottmann- u. Theresienstraße
+- TOP 2.2.4.: Türkenstraße 11, Antrag für Sitzgelegenheit
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Neuantrag für eine fassadenseitige Freischankfläche, Dachauer Straße 13
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Antwort der Verwaltung- Anregung für weitere öffentliche Fahrradabstellanlagen
+- TOP 3.2.: Arbeiten im Straßenraum, Reparatur Fernwärmeleitung, Lothstr. 64
+- TOP 3.3.: Änderung der Verkehrsrechtliche Anordnung für die Begrünung der Georgenstr. - vorgezogene Vollsperrung zw. Hiltensperger- und Adelheidstr.
+- TOP 3.4.: Baustelleneinrichtung Grünanlage Arnulfpark
+- TOP 3.5.: Benutzung Arnulfpark für Hunde
+- TOP 3.6.: Ratschbankerl für München Sitzungsvorlage 20-26 / V 07499
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1.: Scheinwerfer am Bolzplatz an der Tengstraße
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget TSC Maxvorstadt e.V. Unterstützung beim Auf- und Ausbau des Kindertrainings durch Trainer vom 01.01. - 31.12.2023 6.201,00 Euro, Az.: 0262.0-3-0430
+- TOP 2.2.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Blutenburgstraße e.V. Deutsch- und Lernunterstützung benachteiligter Kinder der Blutenburgschule vom 01.01.2023 -31.07.2023 3.000,00€; Az. 0262.0-3-0429
+- TOP 2.3.: (E) Stadtbezirksbudget Handballcampus München gGmbH Kinder von 3 - 12 Jahre für Bewegung begeistern vom 06.02. - 27.07.2023 9.600,00 Euro, Az.: 0262.0-3-0431
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Bescheid – Bez.3- Luisenstr. 7 (Luisengymnasium)- Erinnerungszeichen
+- TOP 4.2.: Mehrjahresinvestitionsprogramm für 2022-2026
+- TOP 4.3.: Antwort Gartenbau auf Bürgeranliegen Fitnessstation im Arnulfpark
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Hochschule für Musik und Theater für externe Besucher geschlossen Bürger*innenanliegen vom 10.11.2022
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag SPD vom 22.11.2022 Baulücke in der Erika-Mann-Straße für Streetart zur Verfügung stellen
+- TOP 1.2.2.: Antrag SPD vom 22.11.2022 Höhlenmalerei in der Maxvorstadt
+- TOP 1.2.3.: Antrag SPD vom 22.11.2022 Trafohaus am Spielplatz Alter Nördlicher Friedhof gestalten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Organisation Bürger*innenfest Maxvorstadt 2023 (vertagt aus 11.2022)
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
