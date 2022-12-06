@@ -1,0 +1,6 @@
+# TOP 3: Information zu Kitzinger Veranstaltungen 2023
+
+- Sitzung: Sitzung des Haupt-, Finanz- und Kulturausschusses (2022-12-06)
+- Körperschaft: Stadt Kitzingen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/agendaitems/30954
