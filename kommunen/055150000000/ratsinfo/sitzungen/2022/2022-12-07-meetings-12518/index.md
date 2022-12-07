@@ -1,0 +1,63 @@
+# 12. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-12-07T17:00:00+01:00
+- Ende: 2022-12-07T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12518
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12518
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00520261.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 25.10.2022
+- TOP 4: Eingänge/Mitteilungen
+- TOP 4.1: Sachstandsbericht zur Wohngeldreform
+- TOP 4.2: Sonstige Mitteilungen
+- TOP 5: Wohnen
+- TOP 6: Liegenschaften
+- TOP 7: Finanzen
+- TOP 7.1: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023 - einstimmig geändert beschlossen
+- TOP 7.1.1: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023
+- TOP 7.2: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 7.3: Abschlussbericht Green Bond - zur Kenntnis genommen
+- TOP 7.4: Zwischenbericht Haushalt 2022 -Ukraine- 3. Quartal - zur Kenntnis genommen
+- TOP 7.5: Bestellung des Abschlussprüfers für den Jahresabschluss 2022 der KonvOY GmbH - einstimmig beschlossen
+- TOP 7.6: Ausgleich des coronabedingten Schadens bei der FMO Flughafen Münster/Osnabrück GmbH für das Jahr 2023 - mehrheitlich beschlossen
+- TOP 7.7: Stadtwerke Münster GmbH: Novellierung des Gesellschaftsvertrages der Westfälische Bauindustrie (WBI) - mehrheitlich beschlossen
+- TOP 7.8: KonvOY GmbH: Erhöhung der konzerninternen Kreditlinie - einstimmig beschlossen
+- TOP 7.9: Ziele zur kommunalen Steuerung - mehrheitlich geändert beschlossen
+- TOP 7.10: Fortschreibung des Bedarfsplanes für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 7.11: Satzung zur Änderung der Satzung der Stadt Münster über Sondernutzungen an öffentlichen Straßen und des Gebührentarifs vom 29.06.2012 in der Fassung der 3. Änderungssatzung vom 20.12.2021 - einstimmig beschlossen
+- TOP 7.12: Entgeltordnung für Förderangebote der Schulpsychologischen Beratungsstelle der Stadt Münster - einstimmig beschlossen
+- TOP 7.13: Neuausrichtung der Offenen Ganztagsschulen - zur Kenntnis genommen
+- TOP 7.14: Realisierung von Schulbauvorhaben durch die Bauwerke Münster GmbH - ohne Beschlussfassung geschoben
+- TOP 7.15: Grundschulentwicklung in Wolbeck – Anpassung von Ratsbeschlüssen an aktuelle Entwicklungen, - ohne Beschlussfassung geschoben
+- TOP 7.16: Erweiterung der Mosaik-Schule zur Vierzügigkeit - Grundsatz-,Errichtungs- und Baubeschluss sowie Aufhebung des Beschlusses zum Neubau der Grundschule Oxford - einstimmig beschlossen
+- TOP 7.17: Aufstockung der vorhandenen Fertigbauklassen am Standort 2 der Idaschule zum Schuljahr 2024/2025, Errichtungsbeschluss - einstimmig beschlossen
+- TOP 7.18: Errichtungsbeschluss: Neubau einer 3-Gruppen-Kindertageseinrichtung (Block B 11) im Plangebiet Klosterareal Pluggendorf im Wohnbereich Pluggendorf im Bezirk Mitte - einstimmig beschlossen
+- TOP 7.19: Errichtungsbeschluss: Neubau einer 3-Gruppen-Kindertageseinrichtung (Block C 14) im Plangebiet Klosterareal Pluggendorf im Wohnbereich Pluggendorf im Bezirk Mitte - einstimmig beschlossen
+- TOP 7.20: Trägerschaft der betrieblichen Kindertageseinrichtung des Universitätsklinikum Münster - einstimmig beschlossen
+- TOP 7.21: Gewährung einer Beihilfe an den SC Preußen Münster im Jahr 2022 für den Betrieb des Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP 7.22: Finanzierung und weiteres Vorgehen bei Projekten der sozialen Infrastuktur im YORK-Quartier - einstimmig geändert beschlossen
+- TOP 7.23: Sanierung Vereinssporthalle York - einstimmig beschlossen
+- TOP 7.24: Erweiterung Wilhelm-Hittorf-Gymnasium - einstimmig beschlossen
+- TOP 7.25: Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster zum 01.01.2023 aufgrund der gesetzlich verpflichtenden Einführung der Umsatzbesteuerung - zurückgezogen
+- TOP 7.26: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 7.27: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2023 - einstimmig beschlossen
+- TOP 7.28: Abfallgebühren 2023 - einstimmig beschlossen
+- TOP 7.29: Straßenreinigungsgebühren 2023 - einstimmig beschlossen
+- TOP 8: Wirtschaft
+- TOP 8.1: Zukunftsstrategie für den Kongressstandort Münster - einstimmig geändert beschlossen
+- TOP 8.2: Wirtschaftsplan 2023 von Münster Marketing - einstimmig beschlossen
+- TOP 8.3: Wirtschaftsplan 2023 der citeq - einstimmig beschlossen
+- TOP 8.4: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2023 - einstimmig beschlossen
+- TOP 9: Beratung des Haushaltsplanes 2023 (inkl. des Stellenplanes 2023) sowie der mittelfristigen Ergebnis- und Finanzplanung bis 2026
+- TOP 9.1: Beratungen als Fachausschuss und als Vorberatungsgremium für den Rat
+- TOP 9.2: Haushaltsplan der Stadt Münster für das Haushaltsjahr 2023 - mehrheitlich geändert beschlossen
+- TOP 10: Verschiedenes
