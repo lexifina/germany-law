@@ -41,7 +41,5 @@ ohne Zahlungsvorgang](0006.md)
 ## Sechster Abschnitt Übergangs- und Schlußvorschriften
 
 - [§ 20 Ausnahmeregelungen zur Aktivierung und Bewertung](0020.md)
-- [§ 20a Übergangsvorschriften zur Ersten Verordnung zur Änderung der Sozialversicherungs-Rechnungsverordnung](0020a.md)
-- [§ 20b Anwendungsbestimmung](0020b.md)
 - [§ 21 Inkrafttreten, Außerkrafttreten](0021.md)
 - [Schlußformel](schlussformel.md)
