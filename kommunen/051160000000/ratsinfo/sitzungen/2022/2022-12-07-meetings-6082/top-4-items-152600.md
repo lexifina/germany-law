@@ -1,0 +1,8 @@
+# TOP 4: Siebter Nachtrag zur Satzung über die Erhebung von Gebühren für den Rettungsdienst der Stadt Mönchengladbach
+
+- Sitzung: Hauptausschuss (2022-12-07)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/152600
+- Ergebnis: Ohne Abstimmung
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/32680
