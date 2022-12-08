@@ -1,0 +1,51 @@
+# Ausschuss für Mobilität, Umwelt und Klimaschutz (14. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2022-12-08T18:00:00+01:00
+- Ende: 2022-12-08T22:30:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZamhbcXPgEwj4XZ8SbA3alM
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5165
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Mobilität, Umwelt und Klimaschutz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbLKn1LgG0QJacfPjvLLAgXWoxiUnX-8k8dqy-jhPbUz/Oeffentliche_Niederschrift_Ausschuss_fuer_Mobilitaet-_Umwelt_und_Klimaschutz_08.12.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 07.09.2022
+- TOP 3.: Niederschrift vom 25.10.2022
+- TOP 4.: Ostumgehung Epe Ergebnisse des Verkehrsmodells Antrag der Fraktion pro:Bürgerschaft und Bürgeranträge zur Ostumgehung Artenschutz/Ergebnisse der Amphibienkartierung 2022 - Einstimmig, 0 Enthaltungen
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der UWG-Fraktion vom 14.10.2022; Herabsetzen der Höchstgeschwindigkeit am Wackengoorweg - Einstimmig, 0 Enthaltungen
+- TOP 5.2: Antrag der Fraktion pro:Bürgerschaft vom 02.11.2022; Nachjustierung Fahrradstraße Am Buddenbrook - 13 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 5.3: Antrag der Fraktion pro:Bürgerschaft "Gebt den Kindern den Schulweg zurück" - Einstimmig, 0 Enthaltungen
+- TOP 5.4: Antrag der Fraktion pro:Bürgerschaft vom 21.11.2022; Standorterhaltung der ZBU und des Wertstoffhofes - Einstimmig, 0 Enthaltungen
+- TOP 5.5: Antrag der FDP-Fraktion vom 25.11.2022: "Kommunale Wärmeplanung für Gronau und Epe" - Einstimmig, 0 Enthaltungen
+- TOP 5.6: Antrag der Fraktion GAL/Die Linke Dreiräder auf Radwegen - Einstimmig, 0 Enthaltungen
+- TOP 5.7: Antrag der Fraktion GAL/Die Linke Prüfung der Verwertung von kommunalem Laub zur Energiegewinnung - Einstimmig, 0 Enthaltungen
+- TOP 6.: Endbericht der Forschungskooperation zum Geomonitoring im Kavernenfeld
+- TOP 7.: Mobilitätskonzept Gronau 2035 - 3 Jastimmen, 8 Neinstimmen, 2 Enthaltungen
+- TOP 8.: Bürgerförderprogramm für Klimaschutzmaßnahmen - Einstimmig, 0 Enthaltungen
+- TOP 9.: Erstellung einer kommunalen Wärmeplanung
+- TOP 10.: Mitgliedschaft in der AGFS - Einstimmig, 0 Enthaltungen
+- TOP 11.: Durchführung der Straßenreinigung mit der Großkehrmaschine ab dem 01.01.2024 - Einstimmig, 2 Enthaltungen
+- TOP 12.: Straßenbauprogramm für die Jahre 2023/ 2024/ 2025 - Einstimmig, 1 Enthaltungen
+- TOP 13.: Fortschreibung der Prioritätenliste für den Endausbau von Straßen in Gronau und Epe
+- TOP 14.: Fortschreibung Straßen- und Wegekonzept gem. § 8 a Abs. 1 KAG NRW - Einstimmig, 1 Enthaltungen
+- TOP 15.: Straßen- und Kanalbaumaßnahme „Klosterstiege“ - Einstimmig, 1 Enthaltungen
+- TOP 16.: Umbau des Knotens Steinfurter Straße (L566) / Marie-Curie-Straße/ Borgwardstraße zur Errichtung einer Lichtsignalanlage. - Einstimmig, 0 Enthaltungen
+- TOP 17.: Herstellung einer Stichstraße südl. der Benzstraße - Einstimmig, 0 Enthaltungen
+- TOP 18.: Benennung einer neuen Straße im Geltungsbereich des Bebauungsplanes Nr. 173 "Brookstraße Nordwest" - Einstimmig, 2 Enthaltungen
+- TOP 19.: Widmung von Verkehrsflächen im Bereich der Stadt Gronau (Westf.) für den öffentlichen Verkehr - Einstimmig, 0 Enthaltungen
+- TOP 20.: Baumfällungen Winter 2022/2023 4. Quartal
+- TOP 21.: Mitteilungen der Verwaltung
+- TOP 21.1: Förderantrag G-Mobil
+- TOP 21.2: Aktueller Stand Bahnhof Epe
+- TOP 21.3: Sachstand Umsetzung Föderprogramm "Spar mit Solar"
+- TOP 22.: Anfragen
+- TOP 22.1: Kopfweide
+- TOP 22.2: Alfertring
+- TOP 22.3: Hundewiese
