@@ -1,0 +1,84 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-12-08T18:37:00+01:00
+- Ende: 2022-12-08T21:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2902
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2902
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00135604.pdf
+- Ergebnisprotokoll: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00135604.pdf
+- Wortprotokoll: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00135604.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Ernennung des Brandrats Reiner Gärtke zum stellvertretenden Leiter der Freiwilligen Feuerwehr der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 4: Mittelbereitstellungen
+- TOP 5: Bekanntmachung über- und außerplanmäßige Leistungen bis Oktober 2022 - Kenntnisnahme
+- TOP 6: Gebührenbedarfsberechnung und 23. Änderung der Abfallgebührensatzung 2023 - einstimmig beschlossen
+- TOP 7: Änderung der Hauptsatzung (Anpassung des § 8 Abs. 1) - Kenntnisnahme
+- TOP 8: Bericht zum 30.09.2022 ukrainische Flüchtlinge - Kenntnisnahme
+- TOP 9: Entscheidung über Beratungspunkte aus der Sitzung des Jugendhilfeausschusses vom 08.11.2022
+- TOP 9.1: Rahmenvereinbarung KiTa Coens Galerie / Vorläufergruppe - einstimmig beschlossen
+- TOP 9.2: Rahmenvereinbarung Kita Wupperstraße/ Vorläufergruppen - einstimmig beschlossen
+- TOP 10: Entscheidung über Beratungspunkte aus der Sitzung des Hauptausschusses vom 17.11.2022
+- TOP 10.1: Zuschussgewährung zur Bewältigung von steigenden Energiekosten - einstimmig beschlossen
+- TOP 10.2: Standorte Unterkünfte und perspektivische Realisierungsmöglichkeiten
+- TOP 10.2.1: Standorte Unterkünfte und perspektivische Realisierungsmöglichkeiten - mehrheitlich beschlossen
+- TOP 10.3: Auswirkungen des geänderten anspruchsberechtigten Personenkreises des Wohngeldes auf Grevenbroich (Antrag Nr.:96/2022)
+- TOP -: Auswirkungen des geänderten anspruchsberechtigten Personenkreises des Wohngeldes auf Grevenbroich (Antrag Nr.:96/2022) - einstimmig beschlossen
+- TOP 11: Entscheidung über Beratungspunkte aus der Sitzung des Betriebsausschusses für Abwasseranlagen vom 30.11.2022
+- TOP 11.1: Gebührenkalkulation 2023
+- TOP 11.2: Wirtschaftsplan 2023
+- TOP 12: Entscheidung über Beratungspunkte aus der Sitzung des Feuerschutzausschusses vom 01.12.2022
+- TOP 12.1: Neubau Lager- und Funktionshalle - einstimmig beschlossen
+- TOP 12.2: Aufwandsentschädigung Freiwillige Feuerwehr - einstimmig beschlossen
+- TOP 13: Entscheidung über einen Beratungspunkt aus der Sitzung des Ausschusses für Kultur, Volkshochschule, Freizeit und Ehrenamt vom 07.12.2022
+- TOP 13.1: Erhöhung der Kursgebühren und Dozentenhonorare der Volkshochschule zum 1. Halbjahr 2023 - einstimmig beschlossen
+- TOP 14: Haushalt 2023
+- TOP 14.1: Reden der Fraktionsvorsitzenden
+- TOP 14.2: Haushalt 2023 - mehrheitlich beschlossen
+- TOP 15: Zuleitung des Entwurfs des Jahresabschlusses 2021 und seiner Anlagen an den Rat - einstimmig beschlossen
+- TOP 16: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 16.1: G 229 Satzungsbeschluss - einstimmig beschlossen
+- TOP 16.2: 40. FNP Änd. Schrieverspfad Nord Aufstellung und frühz. B.Bet. - einstimmig beschlossen
+- TOP 16.3: 41. FNP Änd. Schrieverspfad Süd - Aufstellung und frühz. B.Bet. - einstimmig beschlossen
+- TOP 16.4: H 20 ern. Aufstellung - einstimmig beschlossen
+- TOP 16.5: G 228 Wevelinghovener Straße - Aufstellung und frühz. B.Bet. - einstimmig beschlossen
+- TOP 17: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 17.1: Vermehrte Verkehrsüberwachung durch "Blitzer" in Hülchrath (Antrag Nr.: 69/2022) - Kenntnisnahme
+- TOP 17.2: Zaunanlage Käthe-Kollwitz-Gesamtschule (Anfrage Nr.:75/2022) - Kenntnisnahme
+- TOP 17.3: Auftragsvergaben/Ausgaben für externe Gutachten in den Jahren 2020 bis Juni 2022 (Antrag Nr.: 58/2022) - Kenntnisnahme
+- TOP 17.4: Bundesverwaltungsgericht erklärt kommunale Wettbürosteuer für unzulässig - Auswirkungen für die Stadt Grevenbroich (Anfrage Nr.:73/2022) - Kenntnisnahme
+- TOP 18: Schriftliche Anträge
+- TOP 18.1: Anträge der SPD-Fraktion
+- TOP 18.1.1: Umbesetzung (Antrag Nr. 106/2022) - einstimmig beschlossen
+- TOP 18.2: Anträge der CDU-Fraktion
+- TOP 18.2.1: Ermittlung des zukünftigen Raumbedarfs der Grundschule Kapellen (Antrag Nr. 111/2022) - einstimmig beschlossen
+- TOP 18.2.2: Bau einer Mensa an die GGS Kapellen-Hemmerden (Antrag Nr. 112/2022) - einstimmig beschlossen
+- TOP 18.2.3: Errichtung von Kinderbänken neben Sitzbänken im Innenstadtbereich (Antrag Nr. 113/2022) - einstimmig beschlossen
+- TOP 18.2.4: Dreifach Turnhalle in Wevelinghoven als Mehrzweckhalle bauen (Antrag Nr. 114/2022)
+- TOP 18.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 18.3.1: Umbesetzungen (Antrag Nr. 109/2022) - einstimmig beschlossen
+- TOP 18.4: Anträge der FDP-Fraktion
+- TOP 18.4.1: Ökumenische Einsegnungsfeier/Tag der offenen Tür der neuen Feuerwache (Antrag Nr.:105/2022) - einstimmig beschlossen
+- TOP 18.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 18.6: Anträge der UWG-Fraktion
+- TOP 19: Gemeinschaftsanträge
+- TOP 19.1: Ausrücke- und Alarmfahrzeiten Hilfsfrist 1 (Antrag Nr. 107/2022) - einstimmig beschlossen
+- TOP 19.2: Beschleunigung Klimaschutzkonzept (Antrag Nr. 108/2022) - einstimmig beschlossen
+- TOP 19.3: Personalausstattung der städtischen Kindertagesstätten (Antrag Nr. 110/2022) - einstimmig beschlossen
+- TOP 20: Schriftliche Anfragen
+- TOP 20.1: Anfragen der SPD-Fraktion
+- TOP 20.2: Anfragen der CDU-Fraktion
+- TOP 20.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 20.4: Anfragen der FDP-Fraktion
+- TOP 20.4.1: Auswirkungen des Wegfalls der Telefon-Stelen in Grevenbroich (Anfrage Nr.:79/2022)
+- TOP 20.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 20.6: Anfragen der UWG-Fraktion
+- TOP 21: Mitteilungen des Bürgermeisters
