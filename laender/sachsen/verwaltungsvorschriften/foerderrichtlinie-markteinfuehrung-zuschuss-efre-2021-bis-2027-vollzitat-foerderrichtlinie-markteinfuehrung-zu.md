@@ -1,8 +1,8 @@
 # Förderrichtlinie Markteinführung Zuschuss EFRE 2021 bis 2027 Vollzitat: Förderrichtlinie Markteinführung Zuschuss EFRE 2021 bis 2027
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-10-21 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19737.1
+- Datum: 2022-12-09 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19737.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-21.10.2022
+09.12.2022
 bis
-08.12.2022
+15.02.2024
 
 Förderrichtlinie Markteinführung Zuschuss EFRE 2021 bis 2027
 
@@ -443,7 +443,7 @@ Diese Förderrichtlinie tritt am Tag nach der Veröffentlichung in Kraft.
 
 8.2
 
-Gleichzeitig tritt Teil B Ziffer II Nummer 1 der Mittelstandsrichtlinie vom 23. März 2020 (SächsABl. S. 398), die zuletzt durch die Richtlinie vom 30. August 2022 (SächsABl. S. 1119) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 28. November 2021 (SächsABl. SDr. S. S 224) außer Kraft.
+Gleichzeitig treten die Regelungen bezogen auf den Markteinführungszuschuss im Teil B II.1 der Mittelstandsrichtlinie vom 23. März 2020 (SächsABl. S. 398), die zuletzt durch die Richtlinie vom 30. August 2022 (SächsABl. S. 1119) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 28. November 2021 (SächsABl. SDr. S. S 224), außer Kraft.
 
 
 Dresden, den 5. Oktober 2022
@@ -624,9 +624,9 @@ Fsn-Nr.: 552-V22.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 21. Oktober 2022
+Fassung gültig ab:  9. Dezember 2022
 
-Fassung gültig bis:  8. Dezember 2022
+Fassung gültig bis: 15. Februar 2024
 
 Drucken/Speichern
 
@@ -651,7 +651,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19737.1
+https://www.revosax.sachsen.de/vorschrift/19737.2
 Stand vom
 18.11.2026
 
