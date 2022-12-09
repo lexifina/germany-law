@@ -1,0 +1,72 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-12-09T16:00:00+01:00
+- Ende: 2022-12-09T17:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21823
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21823
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung ö 09.12.2022, Stand 07.12.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00470112.pdf
+- Ergebnisprotokoll: BV9 Sitzung ö 09.12.2022, Stand 07.12.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00470112.pdf
+- Wortprotokoll: BV9 Sitzung ö 09.12.2022, Stand 07.12.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00470112.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 04.11.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Heiligenhauser Straße – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 5.3: Kulmer Straße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 5.4: Marbacher Straße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 5.5: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - Empfehlung mehrheitlich beschlossen
+- TOP 5.6: Genehmigung einer Dringlichkeitsentscheidung nach § 36 Abs. 5 Satz 2 GO NRW zur Vorlage BV9/254/2022 „Benrather Weihnachtsdörfchen – Änderung der Öffnungszeiten" - einstimmig beschlossen
+- TOP 5.6.1: Benrather Weihnachtsdörfchen – Änderung der Öffnungszeiten - einstimmig beschlossen
+- TOP 5.7: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2023 - Empfehlung einstimmig beschlossen
+- TOP 5.8: Handwerkermarkt in Urdenbach im Jahre 2023 - einstimmig beschlossen
+- TOP 5.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A (Schulen) - einstimmig beschlossen
+- TOP 5.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Einrichtung einer Einbahnstraße für die Langenfelder Straße bis zur Küppersteger Straße in Wersten - abweichend beschlossen
+- TOP 8.3: „Drop-Off“-Zonen für die GGS Selma-Lagerlöf-Schule und der KGS Hermann-Gmeiner-Schule - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 8.4: Fernwärmeanschluss für die Schulneubauten im Rahmen der Benrather Rochade - Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 9: Verfügungsmittel
+- TOP 9.1: St.-Sebastianus-Schützenbruderschaft von 1641 D.-Himmelgeist e.V. - Weihnachtsbaum 2022 - einstimmig beschlossen
+- TOP 9.2: Allgemeiner Bürgerverein Urdenbach e. V. - Weihnachtsbaum auf dem Josef-Kürten-Platz 2022 - einstimmig beschlossen
+- TOP 9.3: Aktionsgemeinschaft Benrath e. V. - Weihnachtsbeleuchtung 2022 - einstimmig beschlossen
+- TOP 9.4: Caritasverband Düsseldorf e.V. zentrum plus Wersten - Kulturcafé in Kooperation mit der Stadtbücherei Wersten - einstimmig beschlossen
+- TOP 9.5: Diakonie Düsseldorf zentrum plus - Konzert "Beethovens Beste - Vier Frauen für Ludwig" - einstimmig beschlossen
+- TOP 9.6: KGS Christophorus-Schule - Präventionsprogramme "Die große Nein-Tonne" und "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 9.7: Turnerbund Hassels 1925 e.V. Düsseldorf - Digitalisierung (Homepagegestaltung) - einstimmig beschlossen
+- TOP 9.8: Werstener Jonges e.V. - Mobiliar - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Anpassung der Bus und Bahnverbindungen während der Ausbaumaßnahmen zum RRX - Beschluss der Bezirksvertretung 9 vom 23.09.2022; BV9/207/2022 - zur Kenntnis genommen
+- TOP 10.2: Fuß- und Radwege Itter-Himmelgeist - Beschluss der Bezirksvertretung 9 vom 23.09. 2022; BV9/200/2022 - zur Kenntnis genommen
+- TOP 10.3: Klare Regelungen für Hundebesitzer; Hundeauslaufwiese - Nachtrag zur Informationsvorlage vom 07.05.2021; BV9/115/2021 - zur Kenntnis genommen
+- TOP 10.4: Beschlusskontrolle der Bezirksvertretung 9 - 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 10.5: Kinderspielplatz Schlosspark Benrath - Kinderbeteiligung - zur Kenntnis genommen
+- TOP 10.6: Taktverdichtung Stadtbahnnetz - Beschluss der Bezirksvertretung 9 vom 26.08.2022; BV9/169/2022 - zur Kenntnis genommen
+- TOP 10.7: Mobilstationen für die Benrather Rochade - Beschluss der Bezirksvertretung vom 26.08.2022; BV9/179/2022 - zur Kenntnis genommen
+- TOP 10.8: Sachstand Umbau der Gleisanlagen und der Haltestellen im Bereich des „Kamper Acker“ in Holthausen - Beschluss der Bezirksvertretung vom 26.08.2022: BV9/180/2022 - zur Kenntnis genommen
+- TOP 10.9: Radfahrsituation im Kreuzungsbereich Am Alten Rhein/ Urdenbacher Dorfstr. - Beschluss der Bezirksvertretung 9 vom 26.08.2022; BV9/185/2022 - zur Kenntnis genommen
+- TOP 10.10: Parken an den Grundschulen Melanchthonstraße - Beschluss der Bezirksvertretung 9 vom 23.09.2022: BV9/212/2022 - zur Kenntnis genommen
+- TOP 10.11: Planfreie Querung Münchener Straße - Beschluss der Bezirksvertretung 9 vom 06.05.2022; BV9/101/2022 - zur Kenntnis genommen
+- TOP 10.12: Bewohnerparken Benrath - Beschluss der Bezirksvertretung 9 vom 28.01.2022; BV9/029/2022 - zur Kenntnis genommen
+- TOP 10.13: Bevorrechtigung für den die Bahlenstraße querenden Rad- und Fußverkehr - Beschluss der Bezirksvertretung 9 vom 28.01.2022; BV9/015/2022 - zur Kenntnis genommen
+- TOP 10.14: Fußgängerüberweg Telleringstraße - Beschluss der Bezirksvertretung 9 vom 10.06.2022; BV9/135/2022 - zur Kenntnis genommen
+- TOP 10.15: Radweg Hildener Straße - Beschluss der Bezirksvertretung 9 vom 26.08.2022; BV9/183/2022 - zur Kenntnis genommen
