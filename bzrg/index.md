@@ -115,6 +115,7 @@ des Verurteilten
 - [§ 56b Speicherung zum Zweck der Auskunftserteilung an Mitgliedstaaten der Europäischen Union](0056b.md)
 - [§ 57 Auskunft an ausländische sowie über- und zwischenstaatliche Stellen](0057.md)
 - [§ 57a Austausch von Registerinformationen mit Mitgliedstaaten der Europäischen Union](0057a.md)
+- [§ 57b Speicherung und Austausch von Registerinformationen im Zusammenhang mit einem Partnerstaat](0057b.md)
 - [§ 58 Berücksichtigung von Verurteilungen](0058.md)
 
 ### Achter Abschnitt Verarbeitung personenbezogener Daten zu den Zwecken der Verordnung (EU) 2019/816 und der Verordnung (EU) 2019/818

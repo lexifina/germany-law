@@ -71,7 +71,7 @@
 | 7. Abschnitt - Wasser |
 |  |
 | § 37 | Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung |
-| § 38 | Erlass von Rechtsverordnungen |
+| § 38 | Verordnungsermächtigung |
 | § 39 | Untersuchungen, Maßnahmen der zuständigen Behörde |
 | § 40 | Aufgaben des Umweltbundesamtes |
 | § 41 | Abwasser |
