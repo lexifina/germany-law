@@ -1,6 +1,7 @@
-# Anlage 8 (zu § 5 Abs. 1 Nr. 2, § 5e Abs. 1 Satz 1 Nr. 2 AnzV)PVGSI
+# Anlage 8 (zu § 5 Abs. 1 Nr. 2, § 5e Abs. 1 Satz 1 Nr. 2 AnzV)PVGSIECB-CONFIDENTIAL
 
 PVGSI
+ECB-CONFIDENTIAL
 Personelle Veränderungen
 bei den Geschäftsleitern von Instituten und bei Personen, die die Geschäfte
 einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen

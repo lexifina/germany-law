@@ -1,6 +1,7 @@
-# Anlage 11 (zu § 5b Abs. 5 AnzV)PVFP
+# Anlage 11 (zu § 5b Abs. 5 AnzV)PVFPECB-CONFIDENTIAL
 
 PVFP
+ECB-CONFIDENTIAL
 | Anlage 2 zur Anzeige | □ nach § 24 Abs. 1 Nr. 1 KWG | □ nach § 24 Abs. 1 Nr. 15 KWG | vom: |  |
 |  | □ nach § 24 Abs. 3a Satz 1 Nr. 1 oder Satz 5 KWG | □ nach § 24 Abs. 3a Satz 1 Nr. 4 oder Satz 5 KWG |  |  |
 |  |  |  |

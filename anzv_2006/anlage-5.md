@@ -14,12 +14,12 @@ Passivische Beteiligungsanzeige
 2. Anlass der Anzeige (Nur auszufüllen bei der Abgabe einer Einzelanzeige)
 | □ Erwerb | □ Veränderung | □ Aufgabe |  |
 3. Anteilseigner
-| □ CRR-Kreditinstitut (§ 1 Abs. 3d Satz 1 KWG) | □ Wertpapierhandelsunternehmen (§ 1 Abs. 3d Satz 4 KWG) | □ E-Geld-Institut (§ 1a Abs. 1 Nr. 5 ZAG) |
-| □ sonstiges Kreditinstitut (§ 1 Abs. 1 KWG) | □ sonstiges Finanzdienstleistungsinstitut (§ 1 Abs. 1a KWG) | □ Kapitalverwaltungsgesellschaft (§ 17 KAGB) |
-| □ Finanzunternehmen (§ 1 Abs. 3 KWG) | □ Anbieter von Nebendienstleistungen (Art. 4 Abs. 1 Nr. 18 CRR) | □ Finanzholding-Gesellschaft (Art. 4 Abs. 1 Nr. 20 CRR) |
-| □ gemischte Finanzholding-Gesellschaft (Art. 4 Abs. 1 Nr. 21 CRR) | □ Erstversicherungsunternehmen (§ 7 Nr. 33 Alt. 1 VAG) | □ Rückversicherungsunternehmen (§ 7 Nr. 33 Alt. 2 VAG) |
-| □ Versicherungs-Holdinggesellschaft (§ 7 Nr. 31 VAG) | □ Zahlungsinstitut (§ 1 Abs. 1 Nr. 5 ZAG) | □ sonstiges Unternehmen |
-| □ sonstiger Anteilseigner |  |  |
+| ⃞ CRR-Kreditinstitut (§ 1 Abs. 3d Satz 1 KWG) | ⃞ Wertpapierinstitut (§ 2 Abs. 1 WpIG) | ⃞ E-Geld-Institut (§ 1 Abs. 2 Satz 1 Nr. 1 ZAG) |
+| ⃞ sonstiges Kreditinstitut (§ 1 Abs. 1 KWG) | ⃞ Finanzdienstleistungsinstitut (§ 1 Abs. 1a KWG) | ⃞ Kapitalverwaldungsgesellschaft (§ 17 KAGB) |
+| ⃞ Finanzinstitut (Art. 4 Abs. 1 Nr. 26 CRR) | ⃞ Finanzunternehmen (§ 1 Abs. 3 KWG) | ⃞ Anbieter von Nebendienstleistungen (Art. 4 Abs. 1 Nr. 18 CRR) |
+| ⃞ Finanzholding-Gesellschaft (Art. 4 Abs. 1 Nr. 20 CRR) | ⃞ gemischte Finanzholding-Gesellschaft (Art. 4 Abs. 1 Nr. 21 CRR) | ⃞ Versicherungsunternehmen (§ 7 Nr. 33 VAG) |
+| ⃞ Versicherungsunternehmen eines Drittstaats (§ 7 Nr. 34 VAG) | ⃞ Versicherungs-Holdinggesellschaft (§ 7 Nr. 31 VAG) | ⃞ Zahlungsinstitut (§ 1 Abs. 1 Satz 1 Nr. 1 ZAG) |
+| ⃞ sonstiges Unternehmen | ⃞ sonstiger Anteilseigner |  |
 |  |  |  |  |  |  |  |
 | Name/Firma und Rechtsform des Anteilseigners (lt. Registereintragung)/Geburtsdatum bei natürlichen Personen |  | Identnummer (falls bekannt) |
 |  |  |  |  |  |  |  |

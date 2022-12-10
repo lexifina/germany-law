@@ -1,6 +1,7 @@
-# Anlage 12 (zu § 10a Nr. 2, § 11 Abs. 1 Nr. 2 AnzV)NTSI
+# Anlage 12 (zu § 10a Nr. 2, § 11 Abs. 1 Nr. 2 AnzV)NTSIECB-CONFIDENTIAL
 
 NTSI
+ECB-CONFIDENTIAL
 Nebentätigkeiten von Geschäftsleitern
 eines Instituts und Personen, die die Geschäfte einer
 Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen

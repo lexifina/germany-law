@@ -1,6 +1,7 @@
-# Anlage 10 (zu § 5b Abs. 4 AnzV)PVFU
+# Anlage 10 (zu § 5b Abs. 4 AnzV)PVFUECB-CONFIDENTIAL
 
 PVFU
+ECB-CONFIDENTIAL
 | Anlage 1 zur Anzeige | □ nach § 24 Abs. 1 Nr. 1 KWG | □ nach § 24 Abs. 1 Nr. 15 KWG | vom: |  |
 |  | □ nach § 24 Abs. 3a Satz 1 Nr. 1 oder Satz 5 KWG | □ nach § 24 Abs. 3a Satz 1 Nr. 4 oder Satz 5 KWG |  |  |
 |  |  |  |
@@ -65,7 +66,7 @@ Zu 1. Angaben zur Tätigkeit:
 Zu c: Informationen zur Bestellung der Person:
 – In der Regel handelt es sich bei den Verträgen der Geschäftsleiter um Dienstverträge. Soweit eine andere Vertragsgestaltung vorliegt, ist „Sonstiges“ zu wählen und entsprechend zu erläutern.
 – Für ein Mitglied eines Verwaltungs- oder Aufsichtsorgans, das kein Arbeitnehmervertreter nach den jeweiligen Mitbestimmungsgesetzen ist, ist regelmäßig die Option „Sonstiges“ auszuwählen. Bei dieser Option sollten weitere Erläuterungen (z. B. geborenes Mitglied, Vertreter/in des Anteilseigners) gegeben werden.
-– Die nach dem KWG vorgeschriebenen Anzeigen sind unverzüglich zu erstatten. Die Bundesanstalt geht regelmäßig davon aus, dass eine Anzeige nicht mehr unverzüglich erfolgt ist, sobald ein Zeitraum von vier Wochen nach Entscheidung des zuständigen Organs überschritten ist.
+– Die nach dem KWG vorgeschriebenen Anzeigen sind unverzüglich zu erstatten. Die Bundesanstalt geht regelmäßig davon aus, dass eine Anzeige nicht mehr unverzüglich erfolgt ist, sobald ein Zeitraum von zwei Wochen nach Entscheidung des zuständigen Organs überschritten ist.
 Zu Erklärung des beaufsichtigten Unternehmens:
 – Zur Erstattung der Anzeige nach § 24 Abs. 1 Nr. 1, § 24 Abs. 1 Nr. 15, § 24 Abs. 3a Satz 1 Nr. 1, Satz 5, § 24 Abs. 3a Satz 1 Nr. 4, Satz 5 KWG ist das beaufsichtigte Unternehmen verpflichtet. Die Abgabe der Erklärungen des beaufsichtigten Unternehmens kann, unbeschadet der Vertretungsbefugnis nach außen durch das für die Bestellung der angezeigten Person berechtigte Organ erfolgen.
 – Eine wesentliche Änderung ist eine Änderung, die sich auf die fachliche Qualifikation, Zuverlässigkeit oder ausreichende zeitliche Verfügbarkeit der angezeigten Person auswirken kann. Soweit die Änderung nicht in Erfüllung der Anzeigepflichten nach dem KWG gemeldet wird (z. B. die Annahme eines weiteren Mandats), erfolgt die Information grundsätzlich durch das beaufsichtigte Unternehmen.
