@@ -1,0 +1,56 @@
+# Rat der Stadt Rheda-Wiedenbrück (14. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2022-12-12T17:00:00+01:00
+- Ende: 2022-12-12T20:12:00+01:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfqGdKfCN4n8Dz6Ydrz8BSI
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2406
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZafP0PwUV9j55NRTWfu2_Jqn9PzIhXTukXAHZqdD3dGo/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_12.12.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRTRXlyjBNSVRLQSLH20tYeK0FEKAlhlI5Iwvgo6izO3/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_12.12.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Verfahrensweise zur Behandlung von Fraktionsanträgen - Antragsvorlagen
+- TOP 4.1: Verfahrensweise zur Behandlung von Fraktionsanträgen - Antragsvorlagen - 41 Ja-Stimme(n), 7 Nein-Stimme(n)
+- TOP 5: Ergänzung des Schulausschusses um Elternvertreter*innen der Grundschulen und der weiterführenden Schulen - 46 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 6: Besetzung der Einigungsstelle nach § 67 des Landespersonalvertretungsgesetzes für das Land Nordrhein-Westfalen (LPVG NRW) - Einstimmig
+- TOP 7: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen für November 2021 bis Juni 2022 für das Haushaltsjahr 2021 und Januar 2022 bis September 2022 für das Haushaltsjahr 2022 - Kenntnisnahme
+- TOP 8: Außerplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 080201
+- TOP 8.1: Außerplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 080201 - 37 Ja-Stimme(n), 10 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 9: Überplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 140101 Energetische Quartierskonzepte - 45 Ja-Stimme(n), 3 Enthaltung(en)
+- TOP 10: Bericht finanzielle Auswirkung der Ukraine-Krise - Stichtag 30. September 2022 - Kenntnisnahme
+- TOP 11: Neukalkulation der Abfallentsorgungsgebühren und Änderung der Satzung über die Abfallentsorgung und Abfallentsorgungsgebühren - 42 Ja-Stimme(n), 6 Nein-Stimme(n)
+- TOP 12: Rettungsdienstgebührenkalkulation mit 6. Änderung der Satzung über die Erhebung von Gebühren für die Benutzung des Rettungsdienstes vom 18.12.2002
+- TOP 13: EAW: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasserleitungen
+- TOP 14: EAW: Wirtschaftsplan des Eigenbetriebes Abwasser für das Wirtschaftsjahr 2022
+- TOP 15: Betrieb Bauhof: Wirtschaftsplan des Betriebes Bauhof für das Wirtschaftsjahr 2023 - Einstimmig
+- TOP 16: Abschließende Beratung und Beschlussfassung zur Haushaltssatzung 2023
+- TOP 16.1: Abschließende Beratung und Beschlussfassung zur Haushaltssatzung 2023
+- TOP 17: Jahresabschluss zum 31.12.2020; Feststellung und Entlastung des Bürgermeisters - Einstimmig
+- TOP 18: Beitritt zur KoPart NRW - 43 Ja-Stimme(n), 5 Nein-Stimme(n)
+- TOP 19: Ausgestaltung der hauptamtlichen Feuer- und Rettungswache
+- TOP 20: Verkehrskonzept Innenstadt Rheda - 43 Ja-Stimme(n), 5 Nein-Stimme(n)
+- TOP 21: ISEK Innenstadt Rheda | geplante Nicht-Umsetzung der Maßnahme A 11.2 und Umschichtung der gewährten Fördermittel
+- TOP 22: ISEK Innenstadt Rheda | Sachstandsbericht und Ergebnis der Evaluation und des Monitorings – hier: Maßnahmenstreichungen
+- TOP 23: Merschweg (zw. „An der Wegböhne“ und „Am Frankenbrink“) - Beschluss des Ausbauplans (Bauprogramm) - Einstimmig
+- TOP 24: Hermann-Löns-Weg Beschluss des Ausbauplans (Bauprogramm) - Einstimmig
+- TOP 25: Hauptstraße (K 1) zw. Emsweg und Blumenweg/Nordring Beschluss des Ausbauplans (Bauprogramm) - 43 Ja-Stimme(n), 5 Nein-Stimme(n)
+- TOP 26: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 27: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 28: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 29: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 30: Erklärung von Ausschließungsgründen
+- TOP 31: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 31.1: Vertragsangelegenheit
+- TOP 32: EAW: Klärschlammkooperation OWL - Einstimmig
+- TOP 33: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 34: Dringende Anfragen und Anregungen
