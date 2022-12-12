@@ -1,0 +1,66 @@
+# Haupt-, Finanz- und Steuerungsausschuss (124. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2022-12-12T17:01:00+01:00
+- Ende: 2022-12-12T20:43:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaBmXDYkmwJn2e1phn4Jhv8
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17221
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX4jxjCx6bmdJpLRucekpWtN6gJ5Qju3F9qtvK7ogyca/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_12.12.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR7HqO6daHUPgGvd2o-8qJWHPyxV1qALj2yUC8Kw2ZaA/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_12.12.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 20.10.2022
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Beitritt zum Europäischen Netzwerk "Europa fängt in der Gemeinde an" und Wahl eines Mitgliedes der Vertretung zum Mitglied des Netzwerkes - Einstimmig
+- TOP 4.: Finanzangelegenheiten
+- TOP 4.1: Feststellung des Jahresabschlusses 2021, Entlastung des Bürgermeisters - Einstimmig
+- TOP 4.2: Beteiligungsbericht 2021 - Einstimmig
+- TOP 4.3: Bericht über Erträge und Aufwendungen von anlässlich des Krieges in der Ukraine eingereisten Personen - Zur Kenntnis genommen
+- TOP 4.4: Managementbericht zum 31.10.2022 - Einstimmig
+- TOP 4.5: Verlängerung der Ausübung der Übergangsfrist nach § 27 Abs. 22 a UStG - Einstimmig
+- TOP 4.6: Strategische Ausrichtung des zentralen Fördermanagements - Einstimmig
+- TOP 5.: Stadtwerke Emsdetten GmbH
+- TOP 5.1: Vertreter in der Gesellschafterversammlung der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 6.: Satzungsrecht
+- TOP 6.1: III. Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 20.12.2017 - Einstimmig
+- TOP 6.2: XI. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 6.3: XVI. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 7.: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2023 - Ohne Abstimmung
+- TOP 7.1: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2023 - Einstimmig
+- TOP 7.2: Änderung der Anlage 1 zur Satzung der Stadt Emsdetten über die Erhebung von Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Gewässergebührensatzung (GGS) - Einstimmig
+- TOP 8.: Stellplatzsatzung der Stadt Emsdetten - Ohne Abstimmung
+- TOP 8.1: Stellplatzsatzung der Stadt Emsdetten - Einstimmig
+- TOP 9.: Vergabekriterien für städtische Wohnbaugrundstücke - Einstimmig
+- TOP 10.: Verwaltungsorganisation
+- TOP 10.1: Organisation der Gebäudereinigung - Zur Kenntnis genommen
+- TOP 11.: Kommunale Wärmeplanung - Einstimmig
+- TOP 12.: Antrag Fraktion DIE GRÜNEN vom 04.03.2022: Geschwindigkeitsmessung in kommunaler Eigenverantwortung - Aufnahme einer interkommunalen Kooperation - Ohne Abstimmung
+- TOP 13.: Neubau Baubetriebshof - Informationen zum Stand des Projektes - Zur Kenntnis genommen
+- TOP 14.: Erweiterung der Feuer- und Rettungswache - Vorstellung der Vorentwurfsplanung - 13 Ja-Stimme(n), 1 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 15.: Sanierung und Erweiterung der EMS-HALLE - Weiteres Vorgehen - Einstimmig
+- TOP 16.: Aufhängung von bunten Regenschirmen in der Innenstadt - 13 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 17.: Allgemeine Stadtentwicklungsplanung
+- TOP 17.1: Beschluss des Integrierten Mobilitätskonzeptes der Stadt Emsdetten - Einstimmig
+- TOP 18.: Privaterschließungs- und städtebauliche Verträge
+- TOP 18.1: Städtebaulicher Vertrag für den Bereich des B-Plans Nr. 66 B Teil A "Föhrendamm / Höfte", Planstraße Igelweg - Einstimmig
+- TOP 19.: Allgemeine Umweltangelegenheiten
+- TOP 19.1: Entsiegelung und Rückbau von Schottergärten als weiterer Förderbaustein für proKLIMA - 9 Ja-Stimme(n), 6 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 20.: Stroetmanns Fabrik e.V. - temporäre vertragliche Regelung zum Umgang mit Defiziten/Überschüssen während der Bauphase - Einstimmig
+- TOP 21.: Schulangelegenheiten
+- TOP 21.1: Bildung der Grundschuleingangsklassen für das Schuljahr 2023/2024 - Einstimmig
+- TOP 21.2: Schulentwicklungsplan 2022 - Einstimmig
+- TOP 22.: „Medienkompetenz an Schule lernen“ – Ein Angebot des Caritasverbandes Emsdetten-Greven an Emsdettener Schulen - Einstimmig
+- TOP 23.: Anpassung der „Richtlinien zur Förderung der Kinder- und Jugendarbeit sowie der außerschulischen Jugend- und Familienbildung und Erholung in Emsdetten“ - Einstimmig
+- TOP 24.: Antrag des Caritasverbandes Emsdetten-Greven auf weitere Förderung der Arbeit des KadeCa und der psychosozialen Beratungsstelle - Einstimmig
+- TOP 25.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2023 - Einstimmig
+- TOP 26.: Stellenplan
+- TOP 26.1: Stellenplan 2023 - 10 Ja-Stimme(n), 6 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 27.: Etat/Budget
+- TOP 27.1: Entwurf Haushaltssatzung und Haushaltsplan 2023 - 10 Ja-Stimme(n), 0 Gegenstimme(n), 6 Enthaltung(en)
+- TOP 28.: Verschiedenes
