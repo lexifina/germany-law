@@ -1,0 +1,60 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-12-13T16:00:00+01:00
+- Ende: 2022-12-13T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21939
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/21939
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00469816.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00469816.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00469816.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 3: Glasfaserausbau in Düsseltal und Flingern-Nord - mündlicher Bericht - zur Kenntnis genommen
+- TOP 4: Bebauungsplan-Entwurf Nr. 02/005 - Grafental Ost - Empfehlung mehrheitlich beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Bruchstraße zwischen Schwab- und Lichtstraße: streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit - mehrheitlich beschlossen
+- TOP 9: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - Empfehlung mehrheitlich beschlossen
+- TOP 10: Zuschuss an den Eisenbahner-Sportverein 1926 Düsseldorf e.V. - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 11: Haarnadel-Fahrradständer im Stadtbezirk 2 - Antrag der Fraktion Bündnis 90 / DieGrünen - mehrheitlich beschlossen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Betreuter Taubenschlag Krahestraße / Ecke Mettmanner Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 14: Restmittel aus bezirksbezogenen Bauunterhaltungsmitteln sowie aus bezirksbezogenen Haushaltsmitteln inklusive Rückflüssen aus günstigeren Abrechnungen und nicht verausgabten bewilligten Mitteln aus dem Jahr 2022 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 15: Finanzielle Mittel für die Aktualisierung von Planung und Kostenschätzung für den zweiten Bauabschnitt Schillerplatz aus Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 16: Piktogramm für den Radweg vor dem Uhrenturm Grafenberger Allee - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 17: Beleuchtung Ahnfeldstraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 23: Fahrradweg Graf-Recke-Straße - Anfrage der FDP-Fraktion
+- TOP 24: Kosten und Erlöse der Anwohnerparkausweiszonen - Anfrage der CDU-Fraktion
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: leerstehender früherer Brauereiausschank Im Tönnchen, Wetterstrasse 2/Ecke Lindenstrasse - Anfrage der CDU-Fraktion
+- TOP 27: Blumenkübel Hans-Sachs-Straße - Anfrage der FDP-Fraktion - beantwortet
+- TOP 28: Entwicklung der Artenvielfalt auf den Grünstreifen entlang der Heinrichstraße - Anfrage der Fraktion Bündnis 90 / Die Grünen - beantwortet
+- TOP 29: Neubau einer Schulmensa für die Brehmschule - Anfrage der Fraktion Bündnis 90 / Die Grünen - beantwortet
+- TOP 30: Erfahrungswerte Anwohnerparken - Anfrage der CDU-Fraktion
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 32: Treppenabgang Moschee - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Nachfolge der Betreiber des Uhrenturms - Anfrage der CDU-Fraktion
+- TOP -: Informationsvorlagen
+- TOP 36: Blumenwiesen statt Steingärten - Vorstellung der Vorgartensatzung für den Stadtbezirk 2 vor dem Hintergrund der gesamtstädtischen Vorgartensatzung - Beschluss der Bezirksvertretung 2, Vorlage BV2/0 - zur Kenntnis genommen
+- TOP 37: Quartiersgarage Sohnstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/140/2022 - zur Kenntnis genommen
+- TOP 38: Bunte Bänke für Toleranz und Sichtbarkeit - Beschluss der Bezirksvertretung 2, Vorlage BV2/047/2022 - zur Kenntnis genommen
