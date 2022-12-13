@@ -1,0 +1,80 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-12-13T16:00:00+01:00
+- Ende: 2022-12-13T17:40:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20244
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/20244
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (05.12.2022) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00303193.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00304328.pdf
+
+## Tagesordnung
+
+- TOP 1: Restrukturierung des GMWs: Präsentation der Unternehmensberatung zum Untersuchungsgegenstand - Entgegennahme ohne Beschluss
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss 2021 KIJU - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 2.2: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2021/2022 - ungeändert beschlossen
+- TOP 2.2.1: Entlastung des Aufsichtsrates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2021/2022 - ungeändert beschlossen
+- TOP 2.3: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 2.4: Jahresabschluss der Lokalfunk Beteiligungsgesellschaft mbH für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 2.5: Jahresabschluss 2021 der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 2.5.1: Jahresabschluss 2021 - Entlastung des Aufsichtsrates der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - vertagen
+- TOP 2.6: Jahresabschluss 2021 Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan GMW 2023 - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan 2023 KIJU - ungeändert beschlossen
+- TOP 3.3: Wirtschaftsplan 2023 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 3.4: Wirtschaftsplan 2023 und mittelfristige Ergebnis- und Finanzplanung der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 3.5: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 3.6: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 3.7: Wirtschaftsplan 2023 der Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 4.1: Notstromaggregat für Radio Wuppertal am Standort Moritzstr. 14 - Entgegennahme ohne Beschluss
+- TOP 4.2: Abberufung und Bestellung der stellvertretenden Betriebsleitung GMW - ungeändert beschlossen
+- TOP 4.3: Schließung der Alten- und Altenpflegeeinrichtung "Olipla" in der St.-Anna-Klinik - ungeändert beschlossen
+- TOP 4.4: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab - ungeändert beschlossen
+- TOP 4.5: Änderung der Betriebssatzung für den Eigenbetrieb Straßenreinigung Wuppertal (ESW), Verringerung des Stammkapitals - ungeändert beschlossen
+- TOP 4.6: Restrukturierung des GMW: Erweiterung der Beauftragung der Unternehmensberatung – Antrag der CDU-Fraktion vom 16.11.2022 - ungeändert beschlossen
+- TOP 4.7: Bestellung eines Abschlussprüfers für die Geschäftsjahre 2022 - 2026 der Historische Stadthalle Wuppertal Service GmbH - ungeändert beschlossen
+- TOP 4.8: Auflösung der Delphin Vermögensverwaltung GmbH & Co. KG und der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 4.9: Neue Effizienz gemeinnützige GmbH - Gesellschafterversammlung - ungeändert beschlossen
+- TOP 5: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 6: Berichtsvorlagen
+- TOP 6.1: Aufhebungsvereinbarung der öffentlich-rechtlichen Vereinbarung zwischen den Städten Wuppertal und Remscheid zur Übernahme der Verwaltung der Wohnungsbau- und Arbeitgeberdarlehen der Stadt Remscheid durch die Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: Neuausrichtung des Fördermanagements - Entgegennahme ohne Beschluss
+- TOP 6.3: Sachstandsbericht Standortverlagerung des Stadtarchivs - Entgegennahme ohne Beschluss
+- TOP 7: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 7.1: Bundesgartenschau Wuppertal 2031 gGmbH - Besetzung des Aufsichtsrates und Bestellung der Geschäftsführung der Gesellschaft - vertagen
+- TOP 7.2: Sicherung der Elefantenhaltung im Grünen Zoo Wuppertal - vertagen
+- TOP 7.3: Grüner Zoo Wuppertal - Förderprogramm CO2-neutrale Energieversorgung –– COZ(W)OO - ungeändert beschlossen
+- TOP 7.4: Übertragung von Grundstücken - ungeändert beschlossen
+- TOP 7.5: Neubau des Betriebshofs Giebel 46 - ungeändert beschlossen
+- TOP 7.6: Sanierung der Gewölbe- und Portalflächen am Westkotter Viadukt - ungeändert beschlossen
+- TOP 7.7: Umwandlung der Rechtsform des NRW Kultursekretariats in einen Zweckverband - ungeändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 9: Berichtsvorlagen
+- TOP 9.1: Finco-Bericht zum 31.10.2022 - Entgegennahme ohne Beschluss
+- TOP 10: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 10.1: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 10.2: Zusätzlicher Mittelbedarf im Bereich der Portokosten und der Wartungskosten sowie Mehrkosten für das zweite Rechenzentrum - ungeändert beschlossen
+- TOP 10.3: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und der Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - ungeändert beschlossen
+- TOP 10.4: Vierte Satzung zur Änderung der Hundesteuersatzung der Stadt Wuppertal vom 16.12.2008 - ungeändert beschlossen
+- TOP 10.5: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2023 - ungeändert beschlossen
+- TOP 10.6: Gebührensatzung zur Abfallwirtschaft 2023 - ungeändert beschlossen
+- TOP 11: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes Wasser und Abwasser (WAW) für das III. Quartal 2022 - Entgegennahme ohne Beschluss
+- TOP 13: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13.1: 2. Satzung zur Änderung der Satzung über die Abwasserbeseitigung in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13.2: 10. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13.3: 16. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 14: Berichte und Mitteilungen
