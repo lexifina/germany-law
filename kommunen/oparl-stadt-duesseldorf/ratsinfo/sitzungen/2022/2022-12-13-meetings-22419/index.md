@@ -1,0 +1,64 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-12-13T16:00:00+01:00
+- Ende: 2022-12-13T18:29:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22419
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22419
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00469649.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00469649.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00469649.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Verwaltungsvorlagen und -berichte
+- TOP 3.1: Mindener Straße – Abbindung von der Werdener Straße, endgültige Entscheidung - Empfehlung mehrheitlich beschlossen
+- TOP 3.2: Neusser Straße zwischen Ernst-Gnoß-Straße und Lorettostraße; Reduzierung der zulässigen Höchstgeschwindigkeit auf 30 km/h aus Lärmschutzgründen - vertagt
+- TOP 3.3: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau eines 4-zügigen Gymnasiums mit Sporthalle des Luisen-Gymnasiums am Standort Völklinger Straße" - abweichend beschlossen
+- TOP 4: Bau- und Planungsangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 5.1: Bezirklicher Bauunterhaltung - Haushaltsjahr 2022 Stadtbezirk 3 - Liste A Schulen - einstimmig beschlossen
+- TOP 5.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2022 - abweichend beschlossen
+- TOP 5.3: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Anfragen aus vorherigen Sitzungen
+- TOP 6.1.1: Sachstand Freigabe aller Einbahnstraßen als Zweirichtungsradweg (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 6.1.2: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.3: Neugestaltung des südlichen Kirchplatzes - Kinderspielplatz hinter der Kirche (Anfrage CDU-Fraktion) - vertagt
+- TOP 6.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.7: Fahrradfreundlicher Ausbau des nordwestlichen und zentralen Bereiches der Kreuzung Witzelstr./Moorenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.1.8: Wildnis-Treff für Kinder ab 8 Jahren im Stadtbezirk 3 (Anfrage SPD - Fraktion) - vertagt
+- TOP 6.1.9: Mobilitätsstationen (Anfrage SPD - Fraktion) - zur Kenntnis genommen
+- TOP 6.1.10: Talstraße 111 (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 6.1.11: Bilker Kirche (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 6.2: Aktuelle Anfragen
+- TOP 6.2.1: Überprüfung der Möglichkeiten zur Verkehrsüberwachung an den Kreuzungen Südring/Fleher Straße und Südring/Volmerswerther Straße (Anfrage Herr van Bilsen - BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 6.2.2: Fahrradpiktogramme auf der Volmerswerther Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 6.2.3: WC-Anlage Kirchplatz (Anfrage - BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 6.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Austausch der LED-Beleuchtung am Aachener Platz von LED 4000 Kelvin in LED 3000 Kelvin dimmbar (Antrag CDU-Fraktion) - abweichend beschlossen
+- TOP 7.2: Tempo 30 vor sensiblen Einrichtungen (Antrag - BÜNDNIS 90/DIE GRÜNEN, SPD) - abweichend beschlossen
+- TOP 7.3: Beibehaltung des Lampenmast-& Leuchmittelstils im zuge der Neuerrichtung von LED-Leuchten als Ersatz der Gaslaternen an der Ulenbergstraße, Hammer Dorfstraße, Volmerswerther Straße, Martinstraße, Jahnstraße und Aachener Straße - zurückgezogen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Sicherer Gehweg Feuerbachstraße - zur Kenntnis genommen
+- TOP 8.2: Wasseranschluss auf dem Platz „De Blääk“ - zur Kenntnis genommen
+- TOP 8.3: Instandsetzung des Lessingplatzes - zur Kenntnis genommen
+- TOP 8.4: Provisorische Sicherung Überleitung Radweg Merowingerstraße (FR Süd) und Umsetzung der Maßnahme Merowingerstraße - zur Kenntnis genommen
+- TOP 8.5: MobilitätStation Friedensplätzchen - zur Kenntnis genommen
+- TOP 9: Mitteilungen des Bezirksbürgermeisters
