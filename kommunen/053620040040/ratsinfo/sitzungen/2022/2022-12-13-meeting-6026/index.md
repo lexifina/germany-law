@@ -1,0 +1,56 @@
+# Rat (12. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2022-12-13T17:00:00+01:00
+- Ende: 2022-12-13T18:35:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZe4FftAHFEYVqot21ewttxA
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6026
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYLXBUoRq3ask8wiUbtRlEy9BEvyYiK5UoLP89O95kmy/Einladung_Rat_13.12.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSbozTsbsQQD69_tr9saJxNAWoq8fxTkBpX-a1YbSBGi/Oeffentliche_Niederschrift_Rat_13.12.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einführung und Vereidigung des Bürgermeisters Ralph Manzke und Übernahme des Vorsitzes durch den Bürgermeister
+- TOP 4.: Einwohnerfragestunde
+- TOP 5.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 6.: Beschlusskontrolle
+- TOP 7.: Ergänzung der 1. Änderungssatzung zur Satzung zur Erhaltung und Pflege des Baumbestandes der Stadt Wesseling - 35 Ja-Stimmen, 1 Nein-StimmeHerr Koch nimmt an der Sitzung teil.
+- TOP 8.: Neufassung der Satzung über die Erhebung der Vergnügungssteuer in der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 9.: 1. Änderungssatzung über die Erhebung von Abfallentsorgungsgebühren in der Stadt Wesseling (Abfallgebührensatzung) - Einstimmig, 0 Enthaltungen
+- TOP 10.: 1. Änderungssatzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Wesseling (Straßenreinigungs- und Gebührensatzung) - Einstimmig, 0 Enthaltungen
+- TOP 11.: Aufhebung der Satzung der Stadt Wesseling zur Durchführung des Kinderbildungsgesetzes (KiBiz) - Einstimmig, 0 Enthaltungen
+- TOP 12.: Festlegung der Geschäftskreise der Beigeordneten - 35 Ja-Stimmen, 2 Nein-Stimmen
+- TOP 13.: Prüfung des Jahresabschlusses der Stadt Wesseling zum 31.12.2020 - Es erfolgt getrennte Abstimmung:a) bis c): Einstimmig, 0 Enthaltungen d): Einstimmig, 0 Enthaltungen (ohne Bürgermeister)
+- TOP 14.: Haushaltswirtschaft im Haushaltsjahr 2022 Bereitstellung über- und außerplanmäßiger Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 14.1.: Haushaltswirtschaft im Haushaltsjahr 2022 Bereitstellung über- und außerplanmäßiger Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 14.1.1.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Zuschuss Karnevalsumzug 2023 - Einstimmig, 0 Enthaltungen
+- TOP 15.: Entsorgungsbetriebe Wesseling hier: Wirtschaftsplan der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2023 - Einstimmig, 0 Enthaltungen
+- TOP 16.: 67. Änderung des Flächennutzungsplans "Gewerbepark Wesseling-Urfeld" hier: Feststellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: Öffentlich-rechtliche Vereinbarung - Einstimmig, 0 Enthaltungen
+- TOP 18.: Schulcampus Wesseling - Vergabeverfahren - Einstimmig, 1 Enthaltung
+- TOP 19.: Neugestaltung Schulcampus - Interimerstellung 1. Abschnitt - Einstimmig, 1 Enthaltung
+- TOP 20.: Bestellung und Entsendung von Vertretern der Stadt Wesseling in externe Gremien - Einstimmig, 0 Enthaltungen
+- TOP 21.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2021 - Einstimmig, 0 Enthaltungen
+- TOP 22.: Gesellschafterversammlung der Stadtentwicklungsgesellschaft Wesseling mbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2020 - Einstimmig, 0 Enthaltungen
+- TOP 23.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen 2023 - 20 Ja-Stimmen, 16 Nein-Stimmen, 1 Enthaltung
+- TOP 24.: Antrag der SPD-Fraktion zur Ergänzung der Hauptsatzung; Gewährung einer Aufwandsentschädigung für sämtliche Ausschussvorsitzende als Sitzungsgeld - Ja-Stimmen: Frau Braun, Herr Giertz, Herr Hermans, Herr Herrwegen, Frau Hoffmann, Herr Karl, Frau Knode-Stenzel, Herr Koch, Herr Kornmüller, Frau Kübbeler, Herr Latak, Frau Laubach, Frau Meiers, Herr Meschwitz, Herr Odabasi, Herr SchwarzNein-Stimmen:Frau 
+- TOP 25.: Anträge der Fraktion Bündnis90/Die Grünen: Umbesetzungen in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 26.: Antrag der FDP-Fraktion: Umbesetzungen in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 27.: Antrag der CDU-Fraktion: Neubesetzungen in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 28.: Mitteilungen und Anfragen
+- TOP 28.1.: Fortschreibung der mittelfristigen Ergebnis- und Finanzplanung 2024 - 2026
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Antrag der SPD-Fraktion: Verleihung der Ehrenbezeichnung "Altbürgermeister" - Einstimmig, 0 Enthaltungen
+- TOP 2.: Niederschlagung einer Forderung - Einstimmig, 0 Enthaltungen
+- TOP 3.: Niederschlagung einer Forderung - Einstimmig, 0 Enthaltungen
+- TOP 4.: Veräußerung städtische Teilfläche „Gleiwitzer Straße“ in Wesseling-Keldenich - Einstimmig, 0 Enthaltungen
+- TOP 5.: Genehmigung einer Dringlichkeitsentscheidung: Grunderwerb im Bereich „Eichholzer Busch“ in Bornheim-Sechtem - Einstimmig, 0 Enthaltungen
+- TOP 6.: Mitteilungen und Anfragen
+- TOP 7.: Presseveröffentlichungen
