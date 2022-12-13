@@ -1,0 +1,78 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2022-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6875969
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6875969
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Gefährliche Querung Ganghoferstraße / Anglerstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Geroltstraße 12
+- TOP 6.2.2.: Bauvorhaben Ligsalzstraße 37
+- TOP 6.2.3.: Bauvorhaben Georg-Freundorfer-Platz; Interimscontainer MKJZ
+- TOP 6.2.4.: Bauvorhaben Heimeranstraße 68
+- TOP 6.2.5.: Schulbauvorhaben Schrenkstraße 6-8 / Westendstraße 66a-70a
+- TOP 6.2.6.: Bauvorhaben Gollierstraße 35
+- TOP 6.2.7.: Bauvorhaben Schwanthalerstraße 120
+- TOP 6.2.8.: Bauvorhaben Schwanthalerstraße 151 / Tulbeckstraße 16
+- TOP 6.2.9.: Bauvorhaben Kazmairstraße 58
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Mehrwöchige Nutzung der Grünanlagen und des öffentlichen Verkehrsgrunds; Richtlinien für Kultur- und Strandveranstaltungen
+- TOP 8.3: Unterrichtungen
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) + (U) Zugang zum Schwanthaler Forum vor dem Eingang Schießstättstraße ermöglichen Empfehlung Nr. 20-26 / E 00527 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 25.04.2022
+- TOP 9.1.2.: Projektplanung Fußgängerüberquerung Schießstättstraße
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Personenbezogener Behindertenparkplatz Westendstraße 141
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Oktoberfest 2022; Verkehrssituation Anglerstraße
+- TOP 9.3.2.: Verlängerung SWM-Stromprojekt im Oda-Schaefer-Weg
+- TOP 9.3.3.: Errichtung einer beidseitigen Gehwegnase in der Westendstraße Einmündung Trappentreustraße (östlich der Trappentreustraße)
+- TOP 9.3.4.: Spielplatzsperrung am Georg-Freundorfer-Platz wegen Rattenbekämpfungsmaßnmahmen
+- TOP 9.3.5.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 9.3.6.: Mobilitätspunkte - Begehungsprotokoll vom 12.09.2022
+- TOP 9.3.7.: Lieferzone Ligsalzstraße
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Spielen in der Stadt e.V. Zirkus Pumpernudl und Luftschloss & Pappburg 2023 5.708,00 € / Az. 0262.0-8-0314
+- TOP 10.1.2.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 8 vom 01.01.2023 -31.12.2023 3.840,00€; Az. 0262.0-8-0330
+- TOP 10.1.3.: (E) Stadtbezirksbudget Helfer*innenkreis Hans-Thonauer- /Elsenheimerstr. /Hansastr. Jahresprogramm 2023 des Helfer*innenkreises vom 01.01. -31.12.2023 2.500,00€; Az. 0262.0-8-0332
+- TOP 10.1.4.: Anschaffung und Reparatur von Tischtennisplatten
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Angebot für einen Nachtspaziergang
+- TOP 12.3.2.: Umsetzung Öffentlichkeitsbeteiliungskonzept der Landeshauptstadt München; Protokoll der Veranstaltung vom 24.10.2022
+- TOP 12.3.3.: Mehrjahresinvestitionsprogramm 2022 - 2026
+- TOP 12.3.4.: Neue Plakatierungsverordnung für Wahlplakate in München erarbeiten; Empfehlung Nr. 20-26 / E 00528 der Bürgerversammlung des 8. Stadtbezirkes Schwanthalerhöhe am 25.04.2022
+- TOP 13: Protokoll und Umlauf
+- TOP 4.2.: Kontrolle und Durchsetzung der Haltverbotsregelung im Bereich der Baustelle Schwanthalerstraße 111-113
+- TOP 9.2.2.: Baumfällung Guldeinstraße 40 - 42
+- TOP 9.3.8.: Fällung von Gefahrenbäumen auf öffentlichen Grund
