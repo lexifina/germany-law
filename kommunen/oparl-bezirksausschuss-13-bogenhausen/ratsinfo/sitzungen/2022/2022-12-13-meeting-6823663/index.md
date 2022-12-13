@@ -1,0 +1,150 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2022-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6823663
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6823663
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 15.11.2022
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Bahnausbau Region München: Netzergänzende Maßnahme im Stadtbezirk Bogenhausen; Schreiben der DB
+- TOP 2.2.2.: Baumfällung zu Bauvorhaben: Allensteiner Str. 2 (vertagt aus der November-Sitzung) Berberstr. 6 Chamissostr Fritz-Meyer-Weg 1 Gotenstr. 3 Gustav-Freytag-Str. 4 (vertagt aus der November-Sitzung) Hoyerweg 32 Ortnitstr. 25 Osserstr. 28 Pienzenauerstr. 128 (vertagt aus der November-Sitzung) Rominter Str. 2 DHH 1 Rominter Str. 2 DHH 2 Rominter Str. 2 MFH und TG Rößeler Str. (vertagt aus der November-Sitzung) Titurelstr. 2 Wehrlestr. 29
+- TOP 2.2.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.4.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Prinzregentenstraße / Vogelweidestraße: Errichtung einer signalisierten Geh- und Radwegquerung - Entscheidung des BA 13 -
+- TOP 2.3.2.: Prinzregentenstraße, Vogelweidestraße - ("Der Bogen") - Entscheidung des BA 13 -
+- TOP 2.3.3.: (E) + (U) Halt des Busses X30 (Ostbahnhof-Arabellapark) an der Moselstraße Empfehlung Nr. 14-20 / E 02944 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 24.10.2019
+- TOP 2.3.4.: Lohengrin-/ Oberföhringer Str: Austausch einer Lichtsignalanlage (LSA); Anhörung des Mobilitätsreferats
+- TOP 2.3.5.: Steinhausener Straße/ Ecke Stuntzstr.: Änderung Haltverbot; Anhörung des Moblitätsreferats
+- TOP 2.3.6.: Europaplatz: Fahrbahnsanierung Vollausbau - Erinnerungsverfahren; Anhörung des Baureferats
+- TOP 2.3.7.: Werbebudgets der MVG und SWM massiv kürzen und Preise für Bürger dämpfen; Antrag der CSU-Fraktion
+- TOP 2.3.8.: Einrichtung von Abstellplätzen für E-Roller und Mietfahrräder; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.9.: Regelmäßige Reinigung der U-Bahnhöfe; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.10.: Dieselfahrverbot - Auswirkungen auf Bogenhausen?; Antrag der CSU-Fraktion
+- TOP 2.3.11.: Sofortige Rücknahme der Busspur in der Denninger Straße!; Antrag der CSU-Fraktion
+- TOP 2.3.12.: Eugen-Jochum-Straße 1 - 3: Antrag auf Fahrrad- oder Lastenradabstellplätze; Anliegen aus der Bürgerschaft
+- TOP 2.3.13.: Friedrich-Eckart-Str. (gegenüber der Bernatzkistr.): Fehlende Bordsteinabsenkung; Anliegen aus der Bürgerschaft
+- TOP 2.3.14.: Stuntzstr. 16 - 18b: Umwandlung der letzten Senkrechtparkplätze im Längstparkpätze; Anliegen aus der Bürgerschaft
+- TOP 2.3.15.: Ausreichend Platz für den Radverkehr rund um den Friedensengel; Anliegen aus der Bürgerschaft (vertagt aus der Sitzung 11/22)
+- TOP 2.3.16.: Aufstellung von Hinweisschildern für vorsichtiges Radfahren im Odin-/Cosimapark; Anliegen aus der Bürgerschaft (vertagt aus der Sitzung 11/22)
+- TOP 2.3.17.: Bessere Umsteigezeiten der Busverbindung Titurelstr.; Anliegen aus der Bürgerschaft
+- TOP 2.3.19.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Deutsche Lebens-Rettungs-Gesellschaft, Ortsverband München-Oberföhring e.V. Instandsetzung des Ganges und Vorraumes im Vereinsheim im Dezember 2022 2.520,15 Euro, Az.: 0262.0-13-0347
+- TOP 2.4.2.: Öffentliche Grünflächen mit Liegebänken attraktiver machen - Antwortschreiben, Bestellung städtischer Leistung -
+- TOP 2.4.3.: Installation von Sitzbänken an verschiedenen Standorten Klären und ggf. ergänzen weiterer Bankstandorte im Bezirk 13
+- TOP 2.3.18.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.8.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.4.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.2.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.2.: Klären und ggf. ergänzen weiterer Bankstandorte im Bezirk 13
+- TOP 2.6.3.: Installation von Sitzbänken an verschiedenen Standorten; Antrag der CSU-Fraktion vom 19.09.2018
+- TOP 2.6.4.: Städt. Grundstück Fl.Nr. 176/152: Brunnbachleite/Grüntal - weiteres Verfahren
+- TOP 2.6.5.: Öffentliche Grünflächen mit Liegebänken attraktiver machen - Bitte um Rückmeldung -
+- TOP 2.6.6.: Behandlungskosten für Wildtiere und verwilderte Haustiere; Antrag der CSU Fraktion
+- TOP 2.6.7.: Taubenabwehr ohne Verletzungsrisiken für Wildtiere; Antrag der CSU-Fraktion
+- TOP 2.6.8.: Winterquartiere für Igel; Antrag der CSU-Fraktion
+- TOP 2.6.9.: Daglfinger Str.: Störgeräusche während der Nacht; Anliegen aus der Bürgerschaft (vertagt aus der Sitzung 10/22)
+- TOP 2.5.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.11.: Verschiedenes, Termine
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Muspillistraße 8: Dienstbarkeit Aufbahrungsräume; Anhörung des Kommunalreferats
+- TOP 2.7.2.: Veranstaltung öffentlicher Verkehrsgrund: Faschingszug Gaudiwurm am 19.02.2023; Start: Kirchplatz Johanneskirchen; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.3.: Beschleunigung des Verfahrens zur Umbenennung von hochbelasteten Straßennamen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.7.4.: Sommerfest im 13. Stadtbezirk am 08.07.2023 - veranstaltet durch REGSAM - Beteiligung des BA 13? -
+- TOP 2.6.10.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.7.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Eichhörnchen schützen durch kostengünstige, einfache Maßnahmen
+- TOP 6.2.: NACHGEFRAGT E-Shuttle-Bus PEP
+- TOP 6.3.: Verlegung der Bushaltestelle Cosimabad (X30)
+- TOP 6.4.: Ampelschaltung Effnerplatz
+- TOP 6.5.: Vorschlag für den „Ausbau Ladeinfrastruktur Daglfing"
+- TOP 6.6.: Einsatz autonomer Shuttle-E-Busse im Prinz-Eugen-Park
+- TOP 6.7.: Aufstellung einiger Sitzbänke: Richard-Strauß-Str. Ostseite zwischen Stuntzstr. und Zaubzerstr. - Rückmeldung des Baureferats -
+- TOP 6.8.: Mehr Bäume auf dem Böhmerwaldplatz
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Eingegangene Verwendungsnachweise
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 7.2.2.: Huuezziplatz, Johanneskirchner Straße: Baumfällung vor der Kirche
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Kopernikusstr. 1
+- TOP 7.3.2.: Maria-Theresia-Straße (nördlich Siebertstraße bis Hausnummer 26): Widerruf des Pkw-Parkens aus Sicherheitsgründen
+- TOP 7.3.3.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 7.3.4.: Verbesserung der Fahrradinfrastruktur im Bezirk Bogenhausen; Bürgeranliegen - Antwort des Mobilitätsreferats -
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Mehrwöchige Nutzung der Grünanlagen und des öffentlichen Verkehrsgrunds, Richtlinien für Kultur- und Strandveranstaltungen - Eilentscheidung des BA-Vorsitzenden -
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 7.7.2.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 7.7.3.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 7.7.4.: (U) 47. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2021; Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertretung des Fachbereichs Fassaden/Stuck und Putze
+- TOP 7.7.5.: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 7.7.7.: (U) Ratsentscheid zur Hochhausgrenze
+- TOP 7.7.8.: (U) „Nachhaltige Wohnkonzepte, lebenswerte Quartiere - Ehrenpreis für guten Wohnungsbau 2023“ Zustimmung zur Durchführung
+- TOP 7.7.9.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 7.7.10.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 7.7.11.: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 7.7.12.: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 7.7.13.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 7.7.14.: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 7.7.15.: Ergebnisbericht zum STEP2040-Jugenddialog
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) SV Helios Daglfing e.V. Verlängerung des Mietvertrags über die Grundstücke Flst. 543 und 543/2, Gemarkung Daglfing an der Englschalkingerstr. 210, 81927 München
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 7.9.2.: Vollzug der Zweckentfremdungssatzung: - Allensteiner Str. 2 - Dirschauer Str. 29 - Effnerstr. 109
+- TOP 7.9.3.: (U) Folgen des Angriffskriegs auf die Ukraine Fortsetzung Rahmenfinanzierung ab 2023 – notwendige Sachkosten und Zuschüsse im Amt für Wohnen und Migration ........ Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms ........
+- TOP 7.9.4.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 7.9.5.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.9.6.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 7.9.7.: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.11.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2022– 2026
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.16.1.: (U) Verstetigung, Weiterentwicklung und Neukonzeption von „München – gesund vor Ort“ für Stadtteile mit besonderen gesundheitlichen Herausforderungen Produkt 33414200 Gesundheitsvorsorge Beschluss über die Finanzierung ab 2023 (Eckdatenbeschluss Haushalt 2023 Nr. 39)
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.6.1.: Baumfällungen: Beblostr. 1 Bernt-Notke-Weg 8 Buschingstr. 1 Buschingstr. 8 Buschingstr. 49 Cosimastr. 294 Denninger Str. 167 Donaustr. 4 Insterburger Str. 21 Ismaninger Str. 106 Johanneskirchner Str. 11a Kattowitzer Str. 72 Pienzenauerstr. 19a Pienzenauerstr. 31 Pienzenauerstr. 97 (vertagt aus der November-Sitzung) Röntgenstr. 1 Rosenkavalierpl. 8 Scheinerstr. 1 Tarnowitzer Str. 11
+- TOP 7.7.6.: Baumfällungen (Unterrichtungen): Dennerleinstr. 6 Emin-Pascha-Str. 14 Pienzenauerstr. 72 Savitsstr. 12 Scheinerstr. 7-7a Wacholderweg 1
+- TOP 2.4.4.: (E) Stadtbezirksbudget Turnerschaft Jahn München von 1887 e.V. Tag der offenen Tür und Eröffnungsfeier der neuen Dreifachsporthalle am 14.01.2023 2.150,66 € / Az. 0262.0-13-0351
+- TOP 2.4.5.: (E) Stadtbezirksbudget Stiftung Pfennigparade Inklusives Open-Air-Schachturnier am 16.07.2023 700,00 € / Az. 0262.0-13-0349
+- TOP 2.4.6.: (E) Stadtbezirksbudget Stiftung Pfennigparade Inklusives Sport- und Spielfest am 20.05.2023 3.959,00 € / Az. 0262.0-13-0350
+- TOP 2.7.5.: Nachlese 9.11. Dreieinigkeitskirche
+- TOP 2.7.6.: Weitere Themen aus der aktuellen Tagesordnung
