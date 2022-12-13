@@ -1,0 +1,72 @@
+# Rat (18. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2022-12-13T18:00:00+01:00
+- Ende: 2022-12-13T21:00:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZSqb6FMM3diJ8n2Z3HQqGw
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20695
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUy0QamE6Pksdxkwbl99lSAgpM38cJ4sMf31b1Hz8SbU/Bekanntmachung_Rat_13.12.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcKK3SdPOoZgtWAIIlVgfqIf_w51_SeN0XOLz86e739w/Oeffentliche_Niederschrift_Rat_13.12.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 27.09.2022 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 5.: Neubesetzung von Ausschüssen hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 29.11.2022 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 6.: Errichtung einer Pumptrack-Anlage auf dem ehemaligen Sportplatz Iversheim hier: Antrag der CDU-Fraktion vom 24.10.2022 - Einstimmiger Beschluss:
+- TOP 7.: Anpassung der Parksituation in Bad Münstereifel-Mahlberg im Bereich Breite Straße hier: Antrag der CDU-Fraktion vom 02.11.2022 - Einstimmiger Beschluss:
+- TOP 8.: Notfallpläne zur Energiemangellage - Beschluss s. RD-Nr. 904-XI/Z-1.
+- TOP -: Notfallpläne zur Energiemangellage hier: Antrag der CDU-Fraktion vom 21.11.2022 ; Maßnahmen für Katastrophenschutz bei mehrtägigem Stromausfall - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 9.: Schülerbeförderungskosten hier: Wegfall der Teilfreifahrtberechtigung und Aufhebung der 100,00 €-Begrenzung bei der Abrechnung der Schülertickets durch die RVK - Einstimmiger Beschluss:
+- TOP 10.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-)Standorte gemäß § 46 Abs. 3 SchulG NRW - Einstimmiger Beschluss:
+- TOP 11.: CarSharing hier: Fortführung des Projekts CarSharing - Beschluss mit 18 Ja- und 6 Nein-Stimmen, sowie 5 Enthaltungen:
+- TOP 12.: Bebauungsplan Nr. 11 "Nöthener Berg", 6. Änderung im beschleunigten Verfahren gemäß § 13a BauGB „Bebauungspläne der Innenentwicklung“ hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) zu den in den Verfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB erfolgen einstimmig ohne Mitwirkung des Stadtverordneten Thomas Bell, Die Linke, mit folgenden Ausnahmen: Nachbarkommunen, Be
+- TOP 13.: Städtisches Baugrundstück in Bad Münstereifel, Willy-Brandt-Straße; hier: Sachstandsbericht und neuer Grundsatzbeschluss - Einstimmiger Beschluss:
+- TOP 14.: Satzung der Stadt Bad Münstereifel über die Festsetzung der Hebesätze für die Realsteuern des Haushaltsjahres 2023 (Hebesatzsatzung) - Beschluss mit 23 Ja- und 6 Nein-Stimmen:
+- TOP 15.: 36. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigungssatzung in der Stadt Bad Münstereifel) vom 1012.1980 - Beschluss s. RD-Nr. 914-XI/Z-1.
+- TOP -: 36. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigungssatzung in der Stadt Bad Münstereifel) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 16.: 25. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung der Stadt Bad Münstereifel über die Abfallentsorgung in der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 17.: Satzung über die Aufhebung der Zweckbestimmung des Wirtschaftsweges Gemarkung Iversheim, Flur 1, Nr. 53 - Einstimmiger Beschluss:
+- TOP 18.: Satzung über die Aufhebung der Zweckbestimmung der Wirtschaftswege Gemarkung Effelsberg, Flur 7, Nr. 94, 103, 230 und Flur 11, Nr. 83 - Einstimmiger Beschluss:
+- TOP 19.: Entsorgungsgebühren Grundstücksentwässerungsanlagen 2023 hier: 17. Änderungssatzung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen und abflusslose Gruben) - Einstimmiger Beschluss:
+- TOP 20.: Abwassergebühren (Kanalbenutzungsgebühren) 2022 und 2023 hier: 44. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung - Einstimmiger Beschluss:
+- TOP 21.: Wassergebühren 2023 hier: 26. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung - Einstimmiger Beschluss:
+- TOP 22.: Feststellung Jahresabschluss zum 31.12.2021 des Eigenbetriebs Stadtwerke - Betriebszweig Wasser - Einstimmiger Beschluss:
+- TOP 23.: Feststellung Jahresabschluss zum 31.12.2021 des Eigenbetriebs Stadtwerke - Betriebszweig Abwasser - - Einstimmiger Beschluss:
+- TOP 24.: Entlastung für das Wirtschaftsjahr 2021 hier: Entlastung des Betriebsausschusses Stadtwerke durch den Rat - Einstimmiger Beschluss ohne Mitwirkung der Mitglieder des Betriebsausschusses „Stadtwerke Bad Münstereifel“:
+- TOP 25.: Erlass der Wirtschaftspläne 2023 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser hier: Feststellung - Einstimmiger Beschluss:
+- TOP 26.: Feststellung Jahresabschluss zum 31.12.2021 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 27.: Entlastung für das Wirtschaftsjahr 2021 hier: Entlastung des Betriebsausschuss Forstbetrieb durch den Rat - Einstimmiger Beschluss ohne Mitwirkung der Mitglieder des Betriebsausschusses „Forstbetrieb der Stadt Bad Münstereifel“:
+- TOP 28.: Erlass des Wirtschaftsplanes 2023 des Forstbetriebes der Stadt Bad Münstereifel hier: Feststellung - Einstimmiger Beschluss:
+- TOP 29.: Bericht des Klimaschutzmanagers Hier: Fortführung und Erweiterung der Stelle Klimaschutz - Beschluss mit 19 Ja- und 9 Nein-Stimmen sowie 1 Enthaltung:
+- TOP 30.: Tax Compliance und Beratungen zur Verlängerung der Optionsregelung zur Anwendung des § 2b Umsatzsteuergesetz - Einstimmiger Beschluss:
+- TOP 31.: Jahresabschluss 2021 hier: Zuleitung des Berichtes des Rechnungsprüfungsausschusses sowie die Feststellung des Jahresabschlusses 2021 und Entlastung gem. § 96 Abs. 1 GO NRW - Einstimmiger Beschluss:
+- TOP 32.: Förderung eines Hochwasserschutzkonzeptes hier: außerplanmäßige Ausgabe - Beschluss s. RD-Nr. 916-XI/Z-1.
+- TOP -: Förderung eines Hochwasserschutzkonzeptes hier: außerplanmäßige Ausgabe - Einstimmiger Beschluss:
+- TOP 33.: Reinigung städtischer Liegenschaften; hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 34.: Erlass der Haushaltssatzung für das Haushaltsjahr 2023 mit den gesetzlichen Anlagen hier: Einbringung der Entwürfe - Einstimmiger Beschluss:
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2023 mit den gesetzlichen Anlagen hier: Gesetzesänderung des Landtag Nordrhein-Westfalen zur Änderung des NKF-COVID-19-Isolierungsgesetzes (NKF-CIG) - Beschluss s. RD-Nr. 922-XI.
+- TOP 35.: Stellenplan für das Haushaltsjahr 2023 - Einstimmiger Beschluss:
+- TOP 36.: Anfragen und Mitteilungen
+- TOP 36.1: Vorstellung einer browserbasierten Darstellung der Bestandsaufnahme flutgeschädigter Gewässer, der Gewässerworkshops und weiterer gewässerrelevanten Informationen durch die Gewässerexperten
+- TOP 36.2: Regelung der Nachfolge für eine ausgeschiedene Stadtverordnete
+- TOP 36.3: Fortschrittsbericht Silent Rider
+- TOP 36.4: Unterbringungssituation Geflüchteter und Situation allgemein hier: aktueller Sachstand
+- TOP 36.5: Verbesserung der technischen Ausstattung im Rats- und Bürgersaal hier: Sachstand und mögliche Auswirkung auf die Anforderungen an die technische Ausstattung durch die Änderung der Gemeindeordnung NRW
+- TOP 36.6: Gedenktafel Rathaus
+- TOP 36.7: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das Jahr 2023
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Errichtung von Windenergieanlagen hier: Beschluss zum Abschluss eines Pachtvertrages - Einstimmiger Beschluss:
+- TOP 2.: Entwicklung des Schleidpark-Areals; hier: Projektauswahl - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 3.: L11 / L194, Straßenverkehrsplanung Kreisel Arloff; hier: Lückenschluss Radweg in Richtung Kalkar – Änderung der Streckenführung - Einstimmiger Beschluss mit 1 Enthaltung:
+- TOP 4.: Zeitvertrag Tiefbauleistungen im Stadtgebiet hier: Anfrage Preisanpassung - Einstimmiger Beschluss:
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Mitteilung über ein Kaufangebot für ein Grundstück in Bad Münstereifel
+- TOP 5.2: Verlegung Glasfaser in Arloff hier: Anfrage des Stadtverordneten Reiner Jansen, CDU-Fraktion
