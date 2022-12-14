@@ -1,0 +1,8 @@
+# TOP 1: Solidaritätspartnerschaft mit Winnyzja in der Ukraine
+
+- Sitzung: 14. Sitzung (Verabschiedung Haushalt 2023) (2022-12-14)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/235011
+- Ergebnis: einstimmig geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/81285
