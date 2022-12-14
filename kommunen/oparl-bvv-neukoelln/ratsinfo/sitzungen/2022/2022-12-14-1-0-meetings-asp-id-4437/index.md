@@ -1,0 +1,132 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2022-12-14T17:00:00+01:00
+- Ende: 2022-12-14T22:37:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4437
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4437
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Kapazitätsausbau von Horten - beantwortet
+- TOP 1.2: Öffentlicher Drogen Konsum in der Nachbarschaft, Fixpunkt Karl-Marx-Str. (Neukölln) - schriftlich beantwortet
+- TOP 1.3: Mittagessen Peter-Petersen-Schule - beantwortet
+- TOP 1.4: Oskar-Heinroth-Grundschule - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: Abwahlantrag gegen die Stadträtin für Ordnung - in der BVV abgelehnt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Verurteilung der völkerrechtswidrigen Angriffe des türkischen Staates auf Städte in Rojava - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Keine Gewalt gegen Personal und Verordnete im Rathaus – Pförtner durch Sicherheitspersonal schützen - in der BVV zurückgezogen
+- TOP 4.3: Direkte Demokratie ernst nehmen - Schluss mit der Sabotage demokratischer Prozesse - in der BVV zurückgezogen
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierter im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Abschluss der Zielvereinbarung zur gesamtstädtischen Steuerung „Stabilisierung des Bestandes an Straßenbäumen in bezirklicher Verwaltung“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bebauungsplan 8-52bba („Dörferblick - Gärtnereien“) - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Bebauungsplan XIV-132-1 („Juchaczweg / Zadekstraße“) - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Wahl - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Verbundseinsätze in Neukölln - beantwortet
+- TOP 8.2: Personalsituation im Sozialamt - beantwortet
+- TOP 8.3: Verbundeinsatz OA Nagel - beantwortet
+- TOP 8.4: Mariendorfer Weg: Mieter schützen, nicht Verdränger unterstützen! - beantwortet
+- TOP 8.5: Wieder Wahlchaos im Bezirksamt Neukölln? - schriftlich beantwortet
+- TOP 8.6: Brandschutzschauen in Neuköllner Pflegeeinrichtungen - beantwortet
+- TOP 8.7: Wahlwiederholung 12.02.2023 im Bezirk Neukölln - schriftlich beantwortet
+- TOP 8.8: „Alarmtag“ in Neukölln - schriftlich beantwortet
+- TOP 8.9: Neuköllner Eisstadion - schriftlich beantwortet
+- TOP 8.10: Vermieter Heimstaden lässt Neuköllner*innen in der Harzer Straße frieren - schriftlich beantwortet
+- TOP 8.11: Maientage - schriftlich beantwortet
+- TOP 8.12: Kitaplatzausbau gegen den Bedarf? - schriftlich beantwortet
+- TOP 8.13: Neuköllner Stadträtin lässt Mitarbeiter nicht an Clan-Razzia teilnehmen - schriftlich beantwortet
+- TOP 8.14: Sitzbänke - schriftlich beantwortet
+- TOP 8.15: Arbeitsfähigkeit des Klimaschutzbeauftragten? - schriftlich beantwortet
+- TOP 8.16: Zweckentfremdungsrechtliche Verwaltungsstreitsache - schriftlich beantwortet
+- TOP 8.17: Coronateststelle - schriftlich beantwortet
+- TOP 8.18: Verkehrssicherheit und Lärmbelästigung an der Endhaltestelle der Buslinie 377 - schriftlich beantwortet
+- TOP 8.19: Sozialamtsschließung - Kein Sozialamt unter dieser Nummer - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Gesundheitliche Versorgung für Corona positiv getestete wohnungslose/obdachlose Menschen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: ESTREL-Tower klimagerecht beheizen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Runde Ecke in der Pintschallee sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Streuobstwiese Rudow - Pflege gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Cargobike-Stellflächen in der Braunschweiger Straße 80 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Verbesserung des Busverkehrs entlang der Mohriner Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Schwere Verfehlungen der Gesundheitsstadträtin Blumenthal - beantwortet
+- TOP 11.2: Umsetzungsstand bei der Parkraumbewirtschaftung - schriftlich beantwortet
+- TOP 11.3: Durchfahrt durch die Grünanlagen Lessing- und Thomashöhe für Radfahrende erlauben - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Maientage in der Hasenheide erhalten - in der BVV abgelehnt
+- TOP 11.5: Ergebnisse der Schließung des Sozialamtes - beantwortet
+- TOP 11.6: Zwischenauswertung des Bürger*innenhaushalts 2022/2023 - vertagt
+- TOP 11.7: Auswirkungen der Umsetzung von § 2b Umsatzsteuergesetz (UstG) ab 01.01.2023 - schriftlich beantwortet
+- TOP 11.8: Hermannplatz für alle! Karstadtneubau der Signa Gruppe und Herrn R.B. verhindern! - vertagt
+- TOP 11.9: Berlin frisst sich weiter in die Fläche – wie steht es um die Entsiegelung der Bodenflächen im Bezirk Neukölln? - schriftlich beantwortet
+- TOP 11.10: Ende gut, gar nichts gut: Wie geht es weiter mit dem „Atrium“? - vertagt
+- TOP 11.11: Sauberkeit in Neukölln: Sauberkeit und Müllbeseitigung durch die BSR - schriftlich beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Sichtbeziehungen an der Tankstelle verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Fahrrad-Indoor-Parkplatz am S- und U-Bahnhof Hermannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Maßnahmen gegen das Befahren von Gehwegen mit Fahrrädern und Elektro-Rollern - vertagt
+- TOP 12.4: Verbesserung der Kennzeichnung der Neckar-/Isarstraße als "Verkehrsberuhigter Bereich" - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Rücknahme der Reinigungsklasse in der Prierosser Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Saalestraße als Ost-West-Tangente nicht vernachlässigen - in der BVV abgelehnt
+- TOP 12.7: Failed State Neukölln: Wahlbeobachtung durch die OSZE - vertagt
+- TOP 12.8: Mit gutem Beispiel voran: Lastkraftwagen des Bezirksamtes mit Abbiegeassistenten ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Pfortendienst rekommunalisieren - vertagt
+- TOP 12.10: Finanzierung des Mitmach-Ladens sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Öffentliche Iftar-Feier in Neukölln - vertagt
+- TOP 12.12: Sanierung Umlaufbahn und Leichtathletikanlagen Stadion Britz-Süd - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Zugang zu SARS-CoV-2 PCR Tests auch am Wochenende und an Feiertagen sicherstellen. - in der BVV abgelehnt
+- TOP 12.14: Notfallrettung für das Gesundheitsamt Neukölln - vertagt
+- TOP 12.15: Bezirkliche Kitaentwicklungsplanung - Jahresplanung 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Kein Gedenken an Kriegsverbrecher auf dem Friedhof Columbiadamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: AG Schulwegsicherheit - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Fortsetzung des Radfahrstreifens auf der Werbellinstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Verbesserung der ÖPNV Anbindung entlang der Gradestraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Kein Parken am Übergang für Fußgänger in der Fritz-Erler-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Maßnahmen für Saalestraße als wichtige Ost-West-Tangente - in der BVV abgelehnt
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Erinnerungs- und Gedenkkultur in Neukölln - vertagt
+- TOP 13.2: Umsetzungsstand des seit August 2019 kostenlosen Schulessens in Neukölln - vertagt
+- TOP 13.3: Datenschutzvergehen durch Stadträtin Blumenthal - vertagt
+- TOP 13.4: Studie belegt Unsinnigkeit der Shisha-Bar-Razzien: Zukunft der Gewerbeüberwachung in Neukölln - vertagt
+- TOP 13.5: Recht auf menschenwürdiges Wohnen für alle Neuköllnerinnen und Neuköllner! - vertagt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Berliner Fahrradverleihsystem auf ganz Neukölln erweitern - überwiesen
+- TOP 15.2: Re-Start Einbürgerungsfeiern - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Kippenfreies Buckow - überwiesen
+- TOP 15.4: Städtepartnerschaft mit einer Gemeinde in Rojava (Nordsyrien) - überwiesen
+- TOP 15.5: Bürger entlasten: keine Parkgebühren in Neukölln! - überwiesen
+- TOP 15.6: Failed District Neukölln. Brandschutz an Schulen und Kitas sicherstellen - überwiesen
+- TOP 15.7: Kita-Frühstück für Alle - überwiesen
+- TOP 15.8: Bauprojekt an der Ziegrastraße - sozial-ökologisch bauen und Neuköllner Gewerbe fördern - überwiesen
+- TOP 15.9: Hof der Alten Dorfschule Rudow Instand setzen - überwiesen
+- TOP 15.10: Umgestaltung des Jahn-Denkmals - überwiesen
+- TOP 15.11: Umbenennung Jahn-Sporthalle - überwiesen
+- TOP 15.12: Tempo 30 auf der Waltersdorfer Chaussee - überwiesen
+- TOP 15.13: Menschenwürdiges Wohnen. Zwangsverwaltung jetzt! - überwiesen
+- TOP 15.14: Radweg für Alt-Buckow - überwiesen
+- TOP 15.15: Busspur Waltersdorfer Chaussee - überwiesen
+- TOP 15.16: Keine Fahrräder auf Autoparkplätzen - überwiesen
+- TOP 15.17: Beauftragtenstelle für queeres Leben schaffen - überwiesen
+- TOP 15.18: Umsetzung Lärmgutachten Schillerkiez: Fortsetzung Grundlagenermittlung - überwiesen
+- TOP 15.19: Umsetzung Lärmgutachten Schillerkiez: Kommunikation - überwiesen
+- TOP 15.20: Zugang zu sozialen Einrichtungen auf dem Kindl-Gelände erleichtern - überwiesen
+- TOP 15.21: Wartungsverträge und Ersatzteilmanagement für öffentliche Gebäude des Bezirksamtes - überwiesen
+- TOP 15.22: Zugang zum Carl-Weder-Park gegen Unfälle absichern - überwiesen
+- TOP 15.23: Verweis in § 26 Abs. 6 GO der BVV streichen - überwiesen
+- TOP 15.24: Pförtner- und Wachdienst im Rathaus stärken – Verantwortung gegenüber Mitarbeitenden - überwiesen
+- TOP 15.25: Fahrrad-Wartetrittbretter mit Reflektoren kennzeichnen - überwiesen
+- TOP 15.26: Pflegestützpunkt für die Gropiusstadt - überwiesen
+- TOP 15.27: Regelung des Beitritts zu Drucksachen anderer Fraktionen - überwiesen
+- TOP 15.28: Verweis unter §7 Abs. 5 der Geschäftsordnung korrigieren - überwiesen
