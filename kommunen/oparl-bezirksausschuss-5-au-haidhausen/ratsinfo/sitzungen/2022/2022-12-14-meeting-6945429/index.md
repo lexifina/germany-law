@@ -1,0 +1,179 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2022-12-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6945429
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6945429
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Zuverlässigkeit des Wertstoffmobils sicherstellen
+- TOP 5.2.: Grundschulkinder-Ganztagsbetreuung mit Bibliothek untere Au
+- TOP 5.3.: Franziskaner Straße – Langsamfahrstelle beseitigen
+- TOP 5.4.: Jugendunterstände auf den Spielplätzen in Au-Haidhausen installieren
+- TOP 5.5.: Gasteig: Zwischennutzung auch für Künstler aus Au-Haidhausen ermöglichen
+- TOP 5.6.: Stadtsparkasse München – Die Bank unserer Stadt?
+- TOP 5.7.: Wertstoffcontainer an der Ecke Spicherenstraße / Elsässer Straße dazu: Schreiben Mobilitätsreferat: Schulweg sichern an der Spicherenstraße - Ortstermin 10.01.23
+- TOP 5.8.: Anschaffung eines barrierefreien Spielgerätes als Bestellung städtischer Leistung aus dem BA-Budget i.H.v. 45.000 €
+- TOP 5.9.: Einbahnregelung für Radfahrer*innen in der Lothringerstrasse aufheben
+- TOP 5.10.: Fahrradstellplätze Obere Au
+- TOP 5.11.: Kompensationen Kronepark klimafreundlicher nutzen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2022– 2026
+- TOP 6.2.2.: Infoblatt 12/22
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) + (U) Werkzeugbibliothek mit offener Werkstatt und anderen Zwsichennutzungen wie das Pixel im Gasteig verstetigen Empfehlung Nr. 20-26 / E 00648 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 31.05.2022
+- TOP II.2.: Darstellende Kunst & Musik im öffentlichen Raum verstärkt ermöglichen und fördern! vertagt in der Sitzung am 16.11.2022
+- TOP II.3.: Musikalische Gestaltung des Bezirksausschussfestes am 23.06.2023
+- TOP II.4.: Antrag zur Herstellung einer Außengalerie am "Locus"
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Erweiterung des Bezirksausschusses um 2 Plätze für 12 - 18 Jährige
+- TOP 1.2.: (E) Stadtbezirksbudget Kath. Männerfürsorgeverein München e.V. Gestaltung des Heiligen Abends am 24.12.2022 888,75 € / Az. 0262.0-5-0436
+- TOP 1.3.: (E) Stadtbezirksbudget Initiative „Wunderbuch“ Wunderbuch vom 02.05.2023 – 02.05.2024 3.700,00 € / Az. 0262.0-5-0437
+- TOP 1.4.: (E) Stadtbezirksbudget Initiative "Klassenfahrt der Mittelschule an der Hochstraße in München" Klassenfahrt der 6. Klasse vom 03. -07.07.2023 1.580,00€; 0262.0-5-0439
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kinderfest Cocuk Bayrami am 23.04.2023 auf der Postwiese
+- TOP 2.2.: Schulabschlussfest am 26.07.2023 auf der Postwiese
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Sportanlage und Hausmeisterhäuschen Grütznerstraße
+- TOP 3.2.: Anlaufstelle bei Diskriminierung und rechtem Hass an Münchner Schulen
+- TOP 3.3.: Reparatur des Zaunes am Auer Mühlbach gegenüber des Spielplatzes im Einfahrtsbereich zu Zellstr. 8; Schreiben BA 1 an Baureferat
+- TOP 3.4.: Lösung der Konflikte an der Isar nähe Reichenbachbrücke => dazu: Bürgerbeschwerde
+- TOP 3.5.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 3.6.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 3.7.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.8.: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 3.9.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.10.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2022 - 2026 Einzelplan 4 / Jugendamtsbereich
+- TOP 3.11.: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Pfadfinder Stamm Pegasus sucht dringend Räume
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Situation für Mobilitätseingeschränkte am S-Bahn-Haltepunkt Rosenheimer Platz
+- TOP IV.: UA Wirtschaft
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Vorstellung des Pilotprojekts "Nachhaltige Logistik in München mit Space Sharing" durch die SHQUARED GmbH
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative „Auer/Haidhauser Journal“ Auer/Haidhauser Journal von April 2023 bis Januar 2024 4.000,00 € / Az. 0262.0-5-0438
+- TOP 1.2.: zu TOP 1.1: Schreiben des Antragstellers
+- TOP 1.3.: Finanzierung Workshop Mariahilfplatz
+- TOP 1.4.: Genehmigung einer Freischankfläche: Cafe Faber, Zeppelinstr. 5
+- TOP 2.: Anhörungen
+- TOP 2.1.: Rosenheimer Str. 10: Errichtung einer Freischankfläche (23,5 m² / 50 Sitzpl.)
+- TOP 2.2.: "Mehrwöchige Nutzung der Grünanlagen und des öffentlichen Verkehrsgrunds, Richtlinien für Kultur- und Strandveranstaltungen"; Anhörungsfrist: 22.11.2022, Fristverlängerung bis 15.12.2022 beantragt
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Übertragung der Verfügungsrechte über die Nutzung des Mariahilfplatzes auf den BA 05 Zwischenmitteilung und Fristverlängerung bis 31.12.2023
+- TOP 3.2.: Bespielung von Dachterrassen im Werksviertel und ihre Auswirkung nach Haidhausen (Anfrage)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Dietls Gemüsestand am Pariser Platz
+- TOP 4.2.: Situation für Mobilitätseingeschränkte am S-Bahn-Haltepunkt Rosenheimer Platz
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Edlingerstr. 10 - Einbau Dachgauben in ein Mehrfamilienhaus
+- TOP 2.2.: Weißenburger Str. 16 - Abbruch und Neubau (RGB) eines Wohn- und Geschäftshauses mit Tiefgarage mit 14 Stellplätze und Erhalt der straßenseitigen Bestandsfassade - TEKTUR zu 1.2-2021-2119-21 (Frist bis zum 03.12.2022)
+- TOP 2.3.: Sommerstr. 13 - Renovierung und Modernisierung des Bestandsgebäudes, Abbruch und Errichten eines Dachstuhls sowie Dachgeschossausbau mit Einbau von Gauben, einer Dachterrasse und Dachflächenfenstern, Verschmelzung eines Dachgeschosses mit Wohnung (10) im 5.OG, Einbau einer Treppenraumwand und eines Entrauchungsschachtes im 5.OG und DG, Anbau einer Aufzugsanlage und Bau einer Photovoltaikanlage auf der hofseitigen Dachfläche
+- TOP 2.4.: Wörthstr. 26 - Anbringen eines Balkons
+- TOP 2.5.: Pariser Str. 25 - Nutzungsänderung von Atelierräumen (ehemals Schreinerei) sowie eines Spänelagers im EG und UG zu Büroräume, Umbau und Modernisierung der Wohnungen vom 1.OG-3.OG (DG), Anbau einer Balkonanlage vom 1.OG-3.OG (DG)
+- TOP 2.6.: Innere Wiener Str. 18 - TEKTUR zu 1.2-2022-15407-21 / Aufstockung und Dachgeschossausbau am Rückgebäude
+- TOP 2.7.: Falkenstr. 17 - Neubau eines Vorder-, Mittel-, Seiten- und Rückgebäudes und Errichtung einer Tiefgarage - VORBESCHEID / GENEHMIGUNGSVERLÄNGERUNG -
+- TOP 2.8.: Ismaninger Str. 22 - Gebäude 503, Ost, 2.OG, Station D2A, Bildung einer Nutzungseinheit, Schaffung eines 2. Rettungsweges (Übergang zu Gebäude 557)
+- TOP 2.9.: Einsteinstr. 179 - Neubau eines Dachgeschosses auf best. Gebäude
+- TOP 2.10.: Wörthstr. 28 - Neubau eines Aufzugs
+- TOP 2.11.: Wörthstr. 20 - Dachgeschossausbau und Umbau (2 WE) im Vordergebäude
+- TOP 2.12.: Hochstr. 75 - Neubau einer Wohnanlage mit 184 WE (jetzt: 175) und 1 MMM-Wohnung sowie einer 2-geschossigen Tiefgarage / "Hoch der Isar", Baugebiet 2(1) - TEKTUR zu 1.2-2019-21538-21
+- TOP 2.13.: Plangenehmigung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben “Instandsetzung Treppenanlage TH 01 München Rosenheimer Platz“
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 3.2.: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 3.3.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 3.4.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 3.5.: (U) Teilbebauungsplan mit Grünordnung Nr. 1956c Haidenauplatz (nordöstlich und südwestlich), Bahnlinie München - Rosenheim (nordwestlich) zwischen Leuchtenbergring und Ostbahnhof (Teiländerung des Bebauungsplanes Nr. 491) A) Fortschreibung des Aufstellungsbeschlusses Nr. 1956 vom 28.07.2004 und der Erweiterung des Aufstellungsbeschlusses vom 20.02.2008; Aufstellung des Teilbebauungsplans mit Grünordnung Nr. 1956c B) Vorbereitung und Durchführung eines Planungswettbewerbs Stadtbezirk 5 – Au-Haidhausen
+- TOP 3.6.: (U) 47. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2021; Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertretung des Fachbereichs Fassaden/Stuck und Putze
+- TOP 3.7.: (U) „Nachhaltige Wohnkonzepte, lebenswerte Quartiere - Ehrenpreis für guten Wohnungsbau 2023“ Zustimmung zur Durchführung
+- TOP 3.8.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 3.9.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 3.10.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 3.11.: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 3.12.: Vollzug der Erhaltungssatzung "Haidhausen", Mitteilung des Sozialreferates zum Vorbescheid Kellerstr. 25
+- TOP 3.13.: Hochstr. 71 - ABBRUCH z. Antrag: Neubau eines Mehrfamilienhauses (15 WE) in der Hochstr. 71 + 73 mit Anschluss an die Tiefgarage des Nachbarn Hochstraße 75 - Unterrichtung -
+- TOP 3.14.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Einbahnstraße Balanstraße Teil 2
+- TOP 2.: Anhörungen
+- TOP 2.1.: Johannisplatz 12: Bessere Radlständer und evtl. Bäume
+- TOP 2.2.: Fahrbahnsanierung Vollausbau Europaplatz; Erinnerungsverfahren
+- TOP 2.3.: Standortbegehung für Elektro-Ladesäulen vom 08.11.2022; Bestätigung der Zustimmung zum Standort
+- TOP 2.4.: Zellstraße, Bewohnerbevorrechtigung des Parklizenzgebietes „Franzosenviertel“
+- TOP 2.5.: Einrichtung einer Ladezone in der Wörthstraße (Nordseite) zwischen Breisacher Straße und Orleansplatz zur Verbesserung des Linienverkehrs der Trambahnlinie 21
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fahrradstellplatzsituation am Tassilopark
+- TOP 3.2.: Optimierung des Verfahrens für baustellenbedingte Haltverbote
+- TOP 3.3.: Anzeige am Haidenauplatz verbessern
+- TOP 3.4.: Verlängerung Radweg Ohlmüllerstraße; Mitteilung Mobilitätsreferat
+- TOP 3.5.: Verschlechterung der Situation in der Welfenstraße durch den Gorillas-Laden Antwort Baureferat zum Schreiben BA 5
+- TOP 3.6.: Verkehrskontrollen am Genoveva-Schauer-Platz
+- TOP 3.7.: Sedan- Ecke Metzstraße - Gehwegparken verhindern
+- TOP 3.8.: Entschärfung der Gefahrensituation am Radweg Karl-Müller-Weg
+- TOP 3.9.: Fußgängerübergang Auerfeldstraße östlich Sieboldstraße, Antwort Baureferat
+- TOP 3.10.: Sicherheit für Fahrradfahrer während der Sperrung der Unterführung Friedenstraße Antwort Deutsche Bahn zum Schreiben BA 5
+- TOP 3.11.: Jahresvorschau 2023 - Baustellen im Bereich der MVG - U-Bahn und Tram
+- TOP 3.12.: Verkehrsrechtliche Anordnungen a) Ismaninger Straße: Anordnung einer Haltverbotszone in der Ismaninger Straße (Westseite) zwischen Bogen- und Langerstraße zur Verbesserung des Linienverkehrs der Trambahnlinie 17 b) Prinzregentenstraße: zwischen Europaplatz und Ismaninger Straße von 30.11.-08.12.2022 wegen Radwegsanierung c) Rosenheimer Str./Am Gasteig: vom 16.11.2022 bis 28.04.2023 wegen Trambaumaßnahme d) Gravelottestr. 12: Haltverbot zur freien Anfahrt für die Feuerwehrfahrzeuge
+- TOP 3.13.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 3.14.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Hochgefährlicher Weg am Giesinger Berg
+- TOP 4.2.: Anregungen und Fragen zum Verkehr in Au-Haidhausen
+- TOP 4.3.: Kellerstraße wieder zur Einbahnstraße
+- TOP 4.4.: Fußgängerübergang in der Falkenstraße / Albanistraße zwischen Wohnheim Entenbach und ReWe-Markt
+- TOP 4.5.: 2. S-Bahn Stammstrecke, Verbindungstunnel unter dem Ostbahnhof vertagt in der Sitzung am 16.11.2022, Teilnahme GVG angefragt
+- TOP 4.6.: Sperrung der Preysingstraße für den Durchgangsverkehr vertagt in der Sitzung am 16.11.2022
+- TOP 4.7.: Verkehrsbelastung der Straßen im Franzosenviertel durch die Fußgängerzone Weißenburger Straße
+- TOP 4.8.: Lärmbelästigung der Anwohner der Rosenheimer Straße durch Hupen
+- TOP 4.9.: Busspur in der Grillparzerstraße (von Prinzregenten- in Richtung Einsteinstraße)
+- TOP 4.10.: Plakatständer Rosenheimer Platz/Weissenburger Straße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Ernst-Reuter-Str. 4 und Bothestr. 5: Fällung mehrerer Hainbuchen
+- TOP 2.2.: LSG Isarauen / Hochstraße: Fällung mehrerer Bäume
+- TOP 2.3.: Einsteinstr. 114_Fällung mehrerer Ahorne
+- TOP 2.4.: zu TOP 2.1 - 2.3: Erläuterung der Baumfällungen durch die Stadtwerke
+- TOP 2.5.: Regerstr. 20_Fällung einer Platane
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Unterrichtung über Gefahrenbaumfällungen im Januar/Februar 2023 im 5. Stadtbezirk
+- TOP 3.2.: Mülleinsammlung in der Prinzregentenstraße zwischen Ismaninger Straße und Prinzregentenplatz ab 05:30 Uhr; Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP 3.3.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 3.4.: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Einsatz von Laubbläsern bei der Strassenreinigung
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 16.01.2023, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 16.01.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Wirtschaft, 17.01.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 18.01.2023, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 18.01.2023, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 19.01.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Hybridsitzung statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 25.01.2023, 19.00 Uhr, AWO, Gravelottestr. 6 BA-Vorstand, Dienstag, 10.01.2023, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP II.5.: (E) Stadtbezirksbudget Initiative „Außengalerie“ Außengalerie am Locus vom 01.01. - 31.12.2023 8.000,00 € / Az. 0262.0-5-0443
+- TOP 4.11.: Winter-Schaufenster für Projekts MCube aqt an der Entenbach-/Schlotthauerstraße
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - zu TOP A 7: Schreiben Mobilitätsreferat: Schulweg sichern an der Spicherenstraße - Ortstermin 10.01.23 - UA Kultur, TOP 3: Musikalische Gestaltung des Bezirksausschussfestes am 23.06.2023 - UA Kultur, TOP 4: Antrag zur Herstellung einer Außengalerie am "Locus" - UA Soziales, TOP 5.1 UND UA Wirtschaft, TOP 4.2: Situation für Mobilitätseingeschränkte am S-Bahn-Haltepunkt Rosenheimer Platz - UA Wirtschaft, TOP 4.1: Dietls Gemüsestand am Pariser Platz - UA Planung, TOP 2.13: Plangenehmigung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben “Instandsetzung Treppenanlage TH 01 München Rosenheimer Platz“ - UA Mobilität, TOP 2.4: Zellstraße, Bewohnerbevorrechtigung des Parklizenzgebietes „Franzosenviertel“ - UA Mobilität, TOP 2.5: Einrichtung einer Ladezone in der Wörthstraße (Nordseite) zwischen Breisacher Straße und Orleansplatz zur Verbesserung des Linienverkehrs der Trambahnlinie 21 - UA Mobilität, TOP 4.9: Busspur in der Grillparzerstraße - UA Mobilität, TOP 4.10: Plakatständer Rosenheimer Platz
