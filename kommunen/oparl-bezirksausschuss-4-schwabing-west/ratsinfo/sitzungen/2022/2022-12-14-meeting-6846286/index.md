@@ -1,0 +1,122 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2022-12-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6846286
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6846286
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP 6.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2022-2026
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudet mobil und sicher e.V. Sozialraumkarte vom 16.12.2022 - 31.03.2022 5.800,00 Euro, Az.: 0262.0-4-0419
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 3.3.2.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.3.3.: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 3.3.4.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Kraepelinstr. 14: Umnutzung eines ehemaligen Schwesternwohnheims als Wohn-, Bürogebäude und als Tagesklinik
+- TOP 2.2.: Schleißheimer Str. 79: Sanierung der bestehenden Wohnungen (Bäder), Umnutzung der Ladeneinheit zu Wohneinheiten, Austausch von 3 Fensterelementen und einem Türelement im Erdgeschoss, Nachrüstung Aufzugsanlage
+- TOP 2.3.: Ausweitung des Erhaltungssatzungsgebietes Hohenzollernplatz (Anhörung zu einer Beschlussvorlage für den Stadtrat – Empfehlung Nr. 20-26/ E 00801 aus der Bürgerversammlung am 14.09.2022)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 3.2.2.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Parkplätze vor dem Gebäude Karl-Theodor-Str. 85
+- TOP 1.2.: Seniorenvertreter: Umbau/Nachrüstung der Ampelanlage Parzival-/Isoldenstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 4 Schwabing-West Widmung der Gesamtstrecke der Günter-Behnisch-Straße, der Gesamtstrecke der Frei-Otto-Straße und der Gesamtstrecke der Fritz-Schuster-Straße
+- TOP 2.2.: (E) Einebnung des Radwegs in der Karl-Theodor- Straße und Absenkung der Bordsteine
+- TOP 2.3.: (E) Konsequenter Umgang mit Falschparkern
+- TOP 2.4.: (E) Konsequentes Vorgehen bei Verstößen gegen absolute Halteverbote
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Beidseitige Haltverbote in der Heßstraße (Antwort des Mobilitätsreferats auf BA-Anfrage D 3.2.1 10/22)
+- TOP 3.1.2.: Querungsmöglichkeit über die Hohenzollernstraße auf Höhe Fallmerayerstraße (Antwort des Mobilitätsreferats auf weitergeleitetes Bürger*innenanliegen D 1.1 04/22)
+- TOP 3.1.3.: Zusätzliche Fahrradabstellmöglichkeiten am Kurfürstenplatz (Antwort des Baureferats auf weitergeleitetes Bürger*innenanliegen TOP D 1.6 06/21)
+- TOP 3.1.4.: Fahrradstraße Clemensstraße (Zwischennachricht des Mobilitätsreferats auf Nachfrage eines Bürgers)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Vollsperrung der Georgenstraße zwischen Arcis- und Hiltenspergerstraße vom 01.12. bis 23.12.2022
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Kanalsanierungsmaßnahme Altstadt-Lehel, Isarvorstadt, Maxvorstadt und Schwabing West
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 3.4.2.: Vorhaltemaßnahme (VHM) für die U9 Entlastungsspange a) Ausgangslage, Nachforderungen der Deutschen Bahn und Forderungen / Verhandlungsposition des Freistaats Bayern, Weitere Kostenrisiken, Vorschlag zum weiteren Vorgehen b) Finanzierung Änderung des Mehrjahresinvestitionsprogrammes 2022 bis 2026 Anmeldungen zum Haushalt 2024 ff.
+- TOP 3.4.3.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 3.4.4.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 3.4.5.: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Umwandlung von 3 Parkplätzen vor Karl-Theodor-Str. 85 (Antwort des Baureferats Tiefbau auf Anfrage Nr. 20-26/Q 00179 aus der Bürgerversammlung vom 14.09.2022)
+- TOP 3.5.2.: Jahresvorschau 2023 – Baustellen im Bereich der MVG (U-Bahn und Tram)
+- TOP 3.5.3.: 8. Fortschreibung Luftreinhalteplan München (Präsentation aus der Informationsveranstaltung am 22.11.2022)
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Rektorin der Grundschule Bayernplatz: Verbindungsweg zwischen den Schulgebäuden im Bayernpark befestigen
+- TOP 1.2.: Fraktionsübergreifender Antrag: Temporäre Beschattung des Stadtplatzes am Ackermannbogen in der Sommerzeit
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: (E) Baumpflanzungen in der Herzogstraße zwischen Schleißheimer Straße und Winzererstraße
+- TOP 2.1.2.: Rümannstr. 60: Antrag auf Fällung einer Schwedischen Mehlbeere
+- TOP 2.1.3.: Zentnerstr. 47: Antrag auf Fällung einer Esche
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Meldung Sommerstraßen 2023? (vertagt aus 11/22)
+- TOP 2.2.2.: (E) Bessere Beleuchtung des viel begangenen Fußwegs zwischen Elisabeth-Kohn-Straße und Rosa-Aschenbrenner-Bogen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Baumpflanzungen in der Unertlstraße (Antwort des Baureferats Tiefbau auf weitergeleitetes Bürger*innenanliegen TOP E 1.3 09/22)
+- TOP 3.1.2.: Schwammstadt-Prinzip. Potentiale ausschöpfen. Grüne und blaue Infrastruktur stärken und ausbauen
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Bevorstehende Entfernung von Gefahrenbäumen an Straßen und in öffentlichen Grünflächen (Informationsschreiben des Baureferats Gartenbau)
+- TOP 3.2.2.: Mainzer Str. 26: Fällungsgenehmigung für einen Spitzahorn
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 3.3.2.: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 20. - 24.02.2023 4.807,00 Euro, Az.: 0262.0-4-0421
+- TOP 2.1.2.: Kreativlabor stärken (Anhörung zu einer Beschlussvorlage für den Stadtrat)
+- TOP 2.2: Wirtschaft
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Studierendenfilm „Gastrogötter“ am 07.12.2022 u.a. Kaiserstr. 71, Hohenzollernstr. 64, Georgenstr. 56 und Herzogstr. 44
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Solidaritätskundgebung gegen ungerechtfertigte Kündigung durch die Stiftung Bayerischer Gedenkstätten am 09.12.2022 um 9.30 Uhr, Winzererstr. 109
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Berufung einer/eines stellvertretenden Vorsitzenden für den Unterausschuss Soziales und Bildung
+- TOP G.2.: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP H: Termine
+- TOP 2.2.: (E) Stadtbezirksbudget Elternbeirat des Gisela Gymnasiums Kunst am Bau vom 09.01.2023 - März 2023 2.250,00 Euro, Az.: 0262.0-4-0423
+- TOP 2.3.: (E) Stadtbezirksbudget Freiwillige Feuerwehr München Abteilung Stadtmitte e.V. Mobile Aus- und Fortbildung und Lichtinsel vom 01.02. - 30.06.2023 11.550,00 Euro, Az.: 0262.0-4-0425
