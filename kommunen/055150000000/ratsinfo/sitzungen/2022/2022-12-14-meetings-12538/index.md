@@ -1,0 +1,83 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-12-14T16:02:00+01:00
+- Ende: 2022-12-14T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12538
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12538
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00520227.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (institutionelle Förderung 2023 - einstimmig beschlossen
+- TOP 3: Gestaltungskonzept Hamburger Tunnel und Zugänge - mehrheitlich beschlossen
+- TOP 4: Weseler Straße Spinne und Mobilstation – von Boeselagerstraße bis Franz-Hitze-Straße - Baubeschluss Straßenbau und Kanalbau - - von der Tagesordnung abgesetzt
+- TOP 5: Sachstandsbericht zur weiteren Entwicklung der Verkehrsachse Weseler Straße - von der Tagesordnung abgesetzt
+- TOP 6: Gewährung einer Beihilfe an den SC Preußen Münster im Jahr 2022 für den Betrieb des Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen im Rahmen der Etatberatungen
+- TOP 7: Fortschreibung des Bedarfsplanes für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 8: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 8.1: Satzung zur Änderung der Satzung der Stadt Münster über Sondernutzungen an öffentlichen Straßen und des Gebührentarifs vom 29.06.2012 in der Fassung der 3. Änderungssatzung vom 20.12.2021 - ohne Beschlussfassung geschoben
+- TOP 8.2: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - einstimmig beschlossen
+- TOP 8.3: Entgeltordnung für Förderangebote der Schulpsychologischen Beratungsstelle der Stadt Münster - einstimmig beschlossen
+- TOP 8.4: Abfallgebühren 2023 - einstimmig beschlossen
+- TOP 8.5: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2023 - einstimmig beschlossen
+- TOP 8.6: Straßenreinigungsgebühren 2023 - einstimmig beschlossen
+- TOP 9: Wirtschaftspläne von Gesellschaften
+- TOP 9.1: Wirtschaftsplan 2023 der citeq - einstimmig beschlossen
+- TOP 9.2: Wirtschaftsplan 2023 von Münster Marketing - einstimmig beschlossen
+- TOP 9.3: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2023 - einstimmig beschlossen
+- TOP 9.4: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 10: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023 - einstimmig beschlossen
+- TOP 10.1: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023
+- TOP 10.2: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023
+- TOP 11: Ausgleich des coronabedingten Schadens bei der FMO Flughafen Münster/Osnabrück GmbH für das Jahr 2023 - mehrheitlich beschlossen
+- TOP 12: Reihenfolge der Module beim Ausbau des städtischen Stadions an der Hammer Straße auf Basis des verfügbaren Budgets - einstimmig beschlossen
+- TOP 13: Aufstockung der vorhandenen Fertigbauklassen am Standort 2 der Idaschule zum Schuljahr 2024/2025, Errichtungsbeschluss - einstimmig beschlossen
+- TOP 14: Grundschulentwicklung in Wolbeck – Anpassung von Ratsbeschlüssen an aktuelle Entwicklungen, - ohne Beschlussfassung geschoben
+- TOP 15: Erweiterung der Mosaik-Schule zur Vierzügigkeit - Grundsatz-,Errichtungs- und Baubeschluss sowie Aufhebung des Beschlusses zum Neubau der Grundschule Oxford - einstimmig beschlossen
+- TOP 16: Kindertageseinrichtungen
+- TOP 16.1: Errichtungsbeschluss: Neubau einer 3-Gruppen-Kindertageseinrichtung (Block C 14) im Plangebiet Klosterareal Pluggendorf im Wohnbereich Pluggendorf im Bezirk Mitte - einstimmig beschlossen
+- TOP 16.2: Errichtungsbeschluss: Neubau einer 3-Gruppen-Kindertageseinrichtung (Block B 11) im Plangebiet Klosterareal Pluggendorf im Wohnbereich Pluggendorf im Bezirk Mitte - einstimmig beschlossen
+- TOP 16.3: Trägerschaft der betrieblichen Kindertageseinrichtung des Universitätsklinikum Münster - ohne Beschlussfassung geschoben
+- TOP 16.4: Neubau einer 5-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen Oxford-Kaserne im Stadtteil Gievenbeck - einstimmig beschlossen
+- TOP 16.5: 3-Gruppen Kindertageseinrichtung York - einstimmig beschlossen
+- TOP 17: Pakt für den Öffentlichen Gesundheitsdienst – Förderung einer weiteren Personalverstärkung im Gesundheits- und Veterinäramt - einstimmig beschlossen
+- TOP 18: Erweiterung Wilhelm-Hittorf-Gymnasium - einstimmig beschlossen
+- TOP 19: Erweiterung des Schulzentrums Wolbeck, Von-Holte-Straße 56, 48167 Münster - ohne Beschlussfassung geschoben
+- TOP 20: Finanzierung und weiteres Vorgehen bei Projekten der sozialen Infrastuktur im YORK-Quartier - einstimmig beschlossen
+- TOP 20.1: Finanzierung und weiteres Vorgehen bei Projekten der sozialen Infrastuktur im YORK-Quartier
+- TOP 21: Sanierung Vereinssporthalle York - ohne Beschlussfassung geschoben
+- TOP 22: Haushaltssatzung 2023 - ohne Beschlussfassung geschoben
+- TOP -: Vorberatung von sonstigen Ratsentscheidungen
+- TOP 23: Solidaritätspartnerschaft mit Winnyzja in der Ukraine - einstimmig beschlossen
+- TOP 24: Zwischenbericht Haushalt 2022 -Ukraine- 3. Quartal - zur Kenntnis genommen
+- TOP 25: Ziele zur kommunalen Steuerung - ohne Beschlussfassung geschoben
+- TOP 26: Abschlussbericht Green Bond - zur Kenntnis genommen
+- TOP 27: Einstellung des goCard-Abos / Kündigung der Verträge mit den Verkehrsträgern RVM, Westfalenbus und Stadtwerke Münster - von der Tagesordnung abgesetzt
+- TOP 28: Stadtwerke Münster GmbH: Novellierung des Gesellschaftsvertrages der Westfälische Bauindustrie (WBI) - ohne Beschlussfassung geschoben
+- TOP 29: KonvOY GmbH: Erhöhung der konzerninternen Kreditlinie - einstimmig beschlossen
+- TOP 30: Bestätigung des Ratsbeschlusses zum Betrauungsakt der Stadt Münster für die Wohn- und Stadtbau GmbH, Steinfurter Str. 60, 48149 Münster als Käuferin eines Grundstücks der KonvOY GmbH - einstimmig beschlossen
+- TOP 31: Zukunftsstrategie für den Kongressstandort Münster - ohne Beschlussfassung geschoben
+- TOP 32: Konzeptvergabe Gasometer - ohne Beschlussfassung geschoben
+- TOP 32.1: Konzeptvergabe Gasometer
+- TOP 33: Konzeptvergabe Gasometer | Besetzung Auswahlgremium - einstimmig beschlossen
+- TOP 33.1: Konzeptvergabe Gasometer | Besetzung Auswahlgremium
+- TOP 34: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen und Schülern in die städtischen Schulen (vgl. § 46 Schulgesetz NRW)" - einstimmig beschlossen
+- TOP 35: Realisierung von Schulbauvorhaben durch die Bauwerke Münster GmbH - ohne Beschlussfassung geschoben
+- TOP 36: Mittelbereitstellung zur Weiterführung der Profilierung des kulturellen Markenkernes sowie zur einmaligen Aufstockung der Betriebsmittel des Bürgerhaus Bennohaus - einstimmig beschlossen
+- TOP 37: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 38: Erweiterung Schulzentrum Hiltrup - einstimmig beschlossen
+- TOP 39: Bauleitplanung
+- TOP 39.1: Stadtbezirk Mitte
+- TOP 39.1.1: Bebauungsplan Nr. 612 - Klosterareal Pluggendorf - Satzungsbeschluss - einstimmig beschlossen
+- TOP 39.2: Stadtbezirk West
+- TOP 39.2.1: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 375 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 39.2.2: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 147: II. Westtangente (Kardinal-von-Galen-Ring / Roxeler Straße) im Bereich Coesfelder Kreuz / Domagkstraße / Rishon-Le-Zion-Ring - ohne Beschlussfassung geschoben
+- TOP 40: Verschiedenes
