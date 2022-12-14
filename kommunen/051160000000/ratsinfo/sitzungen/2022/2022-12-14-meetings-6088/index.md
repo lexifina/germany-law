@@ -1,0 +1,77 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2022-12-14T15:00:00+01:00
+- Ende: 2022-12-14T17:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6088
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6088
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00214055.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00214055.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00214055.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 14. Sitzung des Rates vom 19.10.2022 - öffentlicher Teil -
+- TOP 2: 4. Bericht zum Rats-TV - Attraktivierung Rats-TV; hier: Prüfauftrag des Rates vom 06.04.2022 - Kenntnisnahme
+- TOP 3: Bericht über die Prüfung des Jahresabschlusses zum 31.12.2021 - Einstimmiger Beschluss
+- TOP 4: Jahresabschluss 2021 - Beschluss über die Verwendung des Jahresergebnisses 2021 gemäß § 96 GO - Einstimmiger Beschluss
+- TOP 5: Siebter Nachtrag zur Satzung über die Erhebung von Gebühren für den Rettungsdienst der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 6: Leistungsvereinbarungen über das Angebot eines "Tagestreffs" für Personen mit besonderen sozialen Schwierigkeiten nach §§ 67 ff. Sozialgesetzbuch Zwölftes Buch (SGB XII) mit dem Verein Wohlfahrt e. V. und dem Katholischen Verein für soziale Dienste - Einstimmiger Beschluss
+- TOP 7: Kanlbenutzungsgebührensatzung - Einstimmiger Beschluss
+- TOP 8: Wirtschaftsplan 2023 der mags AöR - Mit Stimmenmehrheit beschlossen
+- TOP 9: Stellenplan 2023 - Mit Stimmenmehrheit beschlossen
+- TOP 10: Entwurf des Haushaltes 2023; Haushaltssatzung einschließlich Anlagen - Mit Stimmenmehrheit beschlossen
+- TOP 10.1: Wirtschaftsplan des Gebäudemanagement Mönchengladbach (gmmg) für das Jahr 2023 - Einstimmiger Beschluss
+- TOP 10.2: Wirtschaftsplan der eigenbetriebsähnlichen Einrichtung Rathaus der Zukunft mg+ gemäß § 13 I der Betriebssatzung für das Wirtschaftsjahr 2023 - Mit Stimmenmehrheit beschlossen
+- TOP 11: Verordnung zum Schutz freilaufender Katzen (Katzenschutzverordnung) - Abweichende Beschlussempfehlung
+- TOP 12: Umwandlung des Gemeindegliedervermögens "Dycker-Schelsener Bruch" - Mit Stimmenmehrheit beschlossen
+- TOP 13: Anpassung der Satzung der NEW AG - Einstimmiger Beschluss
+- TOP 14: Anpassung des Gesellschaftsvertrages der NEW Niederrhein Energie und Wasser GmbH - Einstimmiger Beschluss
+- TOP 15: Anpassung des Gesellschaftsvertrages der NEW Smart City GmbH - Einstimmiger Beschluss
+- TOP 16: Beteiligung der NEW Kommunalholding GmbH über die NEW AG und die NEW Smart City an der Stadtentfalter GmbH, der Stadtentfalter Holding GmbH, der Stadtentfalter Erkrath GmbH und der Stadtentfalter Quartiere GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 17: Beteiligung der NEW Kommunalholding GmbH über die NEW AG und die NEW Smart City GmbH an der Stadtentfalter Jüchen GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 18: Finanzbericht gem. Kommunalhaushaltsrechtsanwendungsverordnung Ukraine-Schutzsuchendenaufnahme - Kenntnisnahme
+- TOP 19: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2022 (3. Nachweisung) - Kenntnisnahme
+- TOP 20: Bereitstellung überplanmäßiger Haushaltsmittel in Höhe von 6.900.000 € im Bereich "Hilfe zur Erziehung" - Einstimmiger Beschluss
+- TOP 21: Abgabe einer Erklärung zum Ende der Option zu § 2b UStG zum 01.01.2023 - Einstimmiger Beschluss
+- TOP 22: Sechster Nachtrag zur Satzung über die Erhebung von Gebühren für die Abfallentsorgung in der Stadt Mönchengladbach (Abfallgebührensatzung-AbfGS) - Kenntnisnahme
+- TOP 23: Dritter Nachtrag zur Satzung für die Friedhöfe in der Stadt Mönchengladbach - Kenntnisnahme
+- TOP 24: Sechster Nachtrag zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Mönchengladbach (Straßenreinigungs- und Gebührensatzung) - Kenntnisnahme
+- TOP 25: Benennung von einer/m Vertreter/in und ggf. Stellvertreter/in für die Mitgliederversammlungen des Vereins zur Förderung der Abfallwirtschaft - Region Rhein-Wupper e.V. - Siehe Niederschrift
+- TOP 26: Sechster Nachtrag zur Ordnung für die Benutzung von stadtbezirksbezogenen Einrichtungen - Einstimmiger Beschluss
+- TOP 27: Vorsorgemaßnahmen für den Fall eines großflächigen Stromausfalls im Stadtgebiet Mönchengladbach - Abweichende Beschlussempfehlung
+- TOP 28: Erster Nachtrag zur Satzung über die Erhebung von Kostenersatz und Gebühren für Leistungen der Feuerwehr der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 29: 4. Fortschreibung Digitalisierungsstrategie - Kenntnisnahme
+- TOP 30: Schulentwicklungsplan 8 - Primarstufe - Mit Stimmenmehrheit beschlossen
+- TOP 30.1: Antrag zu TOP Schulentwicklungsplan 8-Primarstufe der SPD Fraktion, der Fraktion Bündnis 90/Die Grünen und der FDP Fraktion im Rat der Stadt MÖLnchengladbach - Abweichende Beschlussempfehlung
+- TOP 31: Verabschiedung Sportentwicklungsplan 2023-2027 - Mit Stimmenmehrheit beschlossen
+- TOP 31.1: Antrag zu den Beratungsvorlagen 1875/X: Verabschiedung Sportentwicklungsplan 2023-2027 und 1852/X: Verabschiedung Schulentwicklungsplan 8 - Primarstufe 2023-2027 - Einstimmiger Beschluss
+- TOP 32: Tarif für die Benutzung von Sportanlagen und für die besondere Benutzung von Schulen der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 33: Anpassung der Leistungsvereinbarung mit der "Arbeitsgemeinschaft Schuldenberatung der Freien Wohlfahrtsverbände e.V." über das Angebot Schuldnerberatung - Einstimmiger Beschluss
+- TOP 34: Teilnahme am Bundesprogramm „Demokratie leben!“ mit dem Projekt „You(r) MG – Partnerschaft für Demokratie" - Kenntnisnahme
+- TOP 35: Fortführung des Angebotes PAENZ – Potenziale nutzen an Grundschulen - Einstimmiger Beschluss
+- TOP 36: Verlängerung der Leistungsvereinbarung mit dem Verein Rollbrett Union e.V. zum Betrieb einer Skatehalle und zu Angeboten an der Skateanlage am Platz der Republik - Einstimmiger Beschluss
+- TOP 37: Jahresabschluss 2021 des Gebäudemanagement Mönchengladbach (GMMG) - Einstimmiger Beschluss
+- TOP 38: Neuorganisation des Energiemanagements innerhalb des gmmg/ Aufbau und dauerhafter Betrieb eines Energiemanagementsystems (EMS) durch das gmmg - Einstimmiger Beschluss
+- TOP 39: Verzicht Vorkaufsrecht § 31 Denkmalschutzgesetz NRW - Einstimmiger Beschluss
+- TOP 40: Schaffung Grillzonen - Ohne Abstimmung
+- TOP 40.1: Schaffung Grillzonen - Mit Stimmenmehrheit beschlossen
+- TOP 41: Errichtung einer 7. Gesamtschule - Mit Stimmenmehrheit beschlossen
+- TOP 42: Zuwendung aus dem Quartiersbudget für das Arbeitslosenzentrum e.V. Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 43: Einrichtung eines Online-Katasters für Räume und Freiflächen zur kulturellen Nutzung - Abweichende Beschlussempfehlung
+- TOP 44: Erlass der Sondernutzungsgebühren für Tische und Stühle, Warenauslagen sowie den Ambulanten Straßenhandel für das Jahr 2022 (01.01.-31.12.) - Einstimmiger Beschluss
+- TOP 45: Innenstadtentwicklung: Fortführung Stadtlabore - hier: Fraktionsantrag der SPD-Ratsfraktion, Fraktion Bündnis 90/Die Grünen und der FDP-Ratsfraktion vom 21.11.22 - Mit Stimmenmehrheit beschlossen
+- TOP 46: Zuschuss Tierschutz Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 47: Umbesetzung des Freizeit-, Sport- und Bäderausschusses - Einstimmiger Beschluss
+- TOP 48: Nachwahl: hier: Stadtsparkasse Mönchengladbach; Antrag der SPD-Ratsfraktion vom 29.11.2022 - Siehe Niederschrift
+- TOP 49: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion Bündnis 90/die Grünen vom 01.12.2022 - Einstimmiger Beschluss
+- TOP 50: Umbesetzung von Gremien; hier: Antrag der SPD-Ratsfraktion vom 04.12.2022 - Einstimmiger Beschluss
+- TOP 50.1: Umbesetzung von Gremien; hier: Antrag der CDU-Ratsfraktion vom 2.12.2022 - Einstimmiger Beschluss
+- TOP 51: Anfragen und Mitteilungen
+- TOP 51.1: Anfrage von RH Roeske (CDU) zur Baulandauswertung im GIS
+- TOP 51.2: Anfrage von RH Löffler (SPD) zur baulichen Umsetzung des Rettungsdienstbedarfsplanes
+- TOP 51.3: Anfrage inkl. Antwort von RF Koczelnik (SPD) zum Catering bei den Ratssitzungen
