@@ -1,6 +1,9 @@
 # Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
+- [Inhaltsübersicht](inhaltsuebersicht-2.md)
+- [Inhaltsübersicht](inhaltsuebersicht-3.md)
+- [Inhaltsübersicht](inhaltsuebersicht-4.md)
 
 ## 1. Abschnitt Allgemeine Vorschriften
 
@@ -9,12 +12,13 @@
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Prävention durch Aufklärung](0003.md)
 
-## 2. Abschnitt Koordinierung und epidemische Lage von nationaler Tragweite
+## 2. Abschnitt Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
 
 - [§ 4 Aufgaben des Robert Koch-Institutes](0004.md)
 - [§ 5 Epidemische Lage von nationaler Tragweite](0005.md)
 - [§ 5a Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung](0005a.md)
 - [§ 5b Schutzmasken in der Nationalen Reserve Gesundheitsschutz](0005b.md)
+- [§ 5c Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten](0005c.md)
 
 ## 3. Abschnitt Überwachung
 

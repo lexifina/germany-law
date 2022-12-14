@@ -7,12 +7,13 @@
 | § 2 | Begriffsbestimmungen |
 | § 3 | Prävention durch Aufklärung |
 |  |
-| 2. Abschnitt - Koordinierung und epidemische Lage von nationaler Tragweite |
+| 2. Abschnitt – Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen |
 |  |
 | § 4 | Aufgaben des Robert Koch-Instituts |
 | § 5 | Epidemische Lage von nationaler Tragweite |
 | § 5a | Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung |
 | § 5b | Schutzmasken in der Nationalen Reserve Gesundheitsschutz |
+| § 5c | Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten |
 |  |
 | 3. Abschnitt - Überwachung |
 |  |
