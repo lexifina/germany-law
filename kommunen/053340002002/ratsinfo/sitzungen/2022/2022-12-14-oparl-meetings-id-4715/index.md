@@ -1,0 +1,82 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2022-12-14T17:00:00+01:00
+- Ende: 2022-12-14T20:13:00+01:00
+- Ort: Geschwister-Scholl-Gymnasium
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4715
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4715
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 6: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 28.09.2022 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 7: Solidaritätspartnerschaft Ukraine - ungeändert beschlossen
+- TOP 8: Bürgerbefragung und Ratsbürgerentscheid über die Drittnutzerfinanzierung im ÖPNV - Ratsantrag Nr. 285/18 der CDU-Fraktion - zur Kenntnis genommen
+- TOP 9: Entwurf Jahresabschluss 2021 der Stadt Aachen - ungeändert beschlossen
+- TOP 10: European Energy Award - Vorbereitung der externen Zertifizierung 2023 Energiepolitisches Arbeitsprogramm 2023-2026 - ungeändert beschlossen
+- TOP 11: Bewohnerparken „U“ (Körnerstraße) Hier: Einrichtung der Zone „U“ mit zeitgleicher Zonenerweiterung„J1“ und “W“ - ungeändert beschlossen
+- TOP 12: Anpassung der Gebühren für die Erteilung von Bewohnerparkausweisen und der Tarife für das Straßenrandparken Hier: Beiträge im Kontext der Mobilitätswende - geändert beschlossen
+- TOP 13: Bebauungsplan - Philipsstraße / Lilienthalweg -hier: 1. Aufstellungsbeschluss2. Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich Philipsstraße / Lilienthalweg - zurückgezogen
+- TOP 14: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich Eisenbahnweg / Brandenburgweg - ungeändert beschlossen
+- TOP 15: Kommunales ArbeitsmarkförderungsprogrammFörderhöhe für das Haushaltsjahr 2023Ratsantrag der Fraktion der Grünen der Stadt Aachen vom 01.04.2019 „Arbeitsmarktintegrationsmaßnahmen in gemeinnützigen Einrichtungen“ - zurückgezogen
+- TOP 16: 6. Nachtrag zur Satzung der Stadt Aachen über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung) - ungeändert beschlossen
+- TOP 17: 22. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 18: 25. Nachtrag zur Gebührensatzung zur Entwässerungssatzung der Stadt Aachen Hier: notwendige Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 19: Änderung der Marktstandgebührensatzung
+- TOP 19.1: Änderung der Marktstandgebührensatzung - ungeändert beschlossen
+- TOP 20: 7. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12.12.2018 - ungeändert beschlossen
+- TOP 21: Wirtschaftsplan 2023 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen - ungeändert beschlossen
+- TOP 22: Friedhofsgebühren der Stadt Aachen - Gebührenbedarfsberechnung 2023 - ungeändert beschlossen
+- TOP 23: Abfallgebühren der Stadt Aachen - Gebührenbedarfsberechnung 2023 - ungeändert beschlossen
+- TOP 24: 6. Änderungssatzung zur Abfallgebührensatzung der Stadt Aachen vom 10.12.2008 - ungeändert beschlossen
+- TOP 25: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2021 - ungeändert beschlossen
+- TOP 26: Wirtschaftsplan 2023 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 27: Entwurf Wirtschaftsplan 2023 der Volkshochschule Aachen einschließlich mittelfristige Ergebnis- und Finanzplanung 2023 bis 2027. - ungeändert beschlossen
+- TOP 28: Jahresabschluss zum 31.12.2021 und Lagebericht 2021 Volkshochschule Aachen - ungeändert beschlossen
+- TOP 29: Wirtschaftsplan Eurogress Aachen 2023 - ungeändert beschlossen
+- TOP 29.1: Wirtschaftsplan Eurogress Aachen 2023 - ungeändert beschlossen
+- TOP 30: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2023 - ungeändert beschlossen
+- TOP 31: Schenkung von 30 historischen Taufkleidchen an die Städtische Sammlung - ungeändert beschlossen
+- TOP 32: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 32.1: Lothringerstraße zwischen Wilhelmstraße und Oppenhofallee;Ausbau zur Fahrradstraße im Vorfeld zur Regionetz-Erneuerung der Leitungstrassen für Kanal, Fernwärme und sonstigen Versorgungsträgernhier: Ausführungsbeschluss und Bereitstellung überplanmäßiger Mittel - ungeändert beschlossen
+- TOP 32.2: Turmstraße, Ersatzneubau der Brückehier: Finanzbedarf - Sachstand und überplanmäßige Mittel - ungeändert beschlossen
+- TOP 32.3: Umsetzung des Radentscheid Aachen: Umgestaltung des Knotens Bastei zur Verbesserung der Sicherheit für den Radverkehr (Ausführungsbeschluss) - ungeändert beschlossen
+- TOP 32.4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2022; Produkt 021501, Brandbekämpfung: Beschaffung Rüstwagen - ungeändert beschlossen
+- TOP 32.5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2022; Produkt 021501, Brandbekämpfung: Aufrüstung Unimog - ungeändert beschlossen
+- TOP 33: Öffentlich-rechtliche Vereinbarung über die Wahrnehmung der Aufgabe der IT-Prüfung nach § 104 Abs. 1 Nr. 3 GO NRW durch die Stadt Aachen - ungeändert beschlossen
+- TOP 34: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 34.1: Umbesetzungsantrag der GRÜNE-Fraktion vom 13.12.2022 - ungeändert beschlossen
+- TOP 34.2: Umbesetzungsantrag der Fraktion DIE LINKE vom 13.12.2022 - ungeändert beschlossen
+- TOP 34.3: Umbesetzungsantrag der Fraktion DIE Zukunft vom 13.12.2022 - ungeändert beschlossen
+- TOP 35: Anfragen:
+- TOP 35.1: Ratsanfragen - ungeändert beschlossen
+- TOP 35.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 36: Ratsanträge - zur Kenntnis genommen
+- TOP 37: Mitteilungen der Verwaltung
+- TOP 38: Benennung von Straßen und Plätzen - Beschluss der Bezirksvertretung Aachen-Mitte vom 19.10.2022 - ungeändert beschlossen
+- TOP 39: Erhöhung des Taxentarifs - zur Kenntnis genommen
+- TOP 40: Preissteigerung von Baumaterialien - Verlängerung der befristeten Preisgleitklausel - ungeändert beschlossen
+- TOP 41: Continental: Standortentwicklung - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
