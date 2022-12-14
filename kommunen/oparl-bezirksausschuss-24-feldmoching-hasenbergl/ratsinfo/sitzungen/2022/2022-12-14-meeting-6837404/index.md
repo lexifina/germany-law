@@ -1,0 +1,92 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2022-12-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6837404
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6837404
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 1.1.: Benennung Beauftragte*r gg. Rechtsextremismus (-> vertagt aus der Sitzung am 16.11.2022)
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 24 Feldmoching-Hasenbergl vom 01.03. - 31.10.2023 5.530,00 Euro, Az.: 0262.0-24-0426
+- TOP 3.1.: Antrag auf eine "Sommerstraße" Ebereschenstraße (Abschnitt zwischen Lerchenauer- und Waldmeisterstraße)
+- TOP 4.: Die Bürgerinnen und Bürger des 24. Stadtbezirkes haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben (inkl. Baumfällungen)
+- TOP 5.1.1.: Eberhartstr. 11
+- TOP 5.1.2.: Lerchenauer Str. 165
+- TOP 5.1.3.: Reigersbachstr. 22
+- TOP 5.1.4.: Schneeglöckchenstr. 130
+- TOP 5.1.5.: Feldmochinger Str. 352
+- TOP 5.1.6.: Kaiserhölzlstr. 41g
+- TOP 5.1.7.: Dülferstr. 75
+- TOP 5.1.8.: Mochostr. 12
+- TOP 5.1.9.: Schaarschmidtstr. 36
+- TOP 5.1.10.: Lassallestr. 95 (-> Wiedervorlage aus Sitzung am 16.11.2022)
+- TOP 5.1.11.: Waldrebenstr. 10
+- TOP 5.1.12.: Lerchenauer Str. 149
+- TOP 5.1.13.: Knospenstr. 4a
+- TOP 5.1.14.: Weißdornstr. 4
+- TOP 5.1.15.: Karlsfelder Straße (Sportbetriebsgebäude)
+- TOP 5.1.16.: Adlerfarnstr. 28
+- TOP 5.2.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichem Grund
+- TOP 5.3.: Sonstige Anhörungen
+- TOP 5.3.1.: Planfeststellung nach § 18 Allg. Eisenbahngesetz (AEG) für das Vorhaben: Neubau zweier Eisenbahnüberführungen Feldmoching / Fasanerie - 1. Tektur
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP -: Antwortschreiben
+- TOP 1.: Ausgleichsflächen im 24. Stadtbezirk
+- TOP 2.: Antrag aus der Kinder- und Jugendversammlung am 01.07.2022: Maßnahmen zur Verbesserung des Spiel- und Bolzplatzes in der Grünanlage zwischen Gundermann- und Weitlstraße
+- TOP -: Sonstige Unterrichtungen
+- TOP 3.: Ferchenbachstraße zwischen Auf den Schrederwiesen und Haus-Nr. 5: Errichtung einer Ausweichstelle als Interimslösung
+- TOP 4.: verkehrsrechtliche Anordnung nach § 45 StVO: Verlegung des Fußgängerüberweges in der Kristallstraße
+- TOP 5.: Aktueller Planungssachstand des Beherbungsbetriebes in der Karlsfelder Str. 25
+- TOP 6.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2022-2026 (Selektion Stadtbezirk 24)
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 7.: Finanzierungsbeschluss: Verstetigung, Weiterentwicklung und Neukonzeption von "München-gesund vor Ort"" (Sitzungsvorlage nr. 20-26/ V 07247)
+- TOP 8.: Verkehrskonzept Münchner Norden - Verkehrslenkende Maßnahmen - Vergabebeschluss
+- TOP 9.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 10.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 11.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 12.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 13.: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 14.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 15.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 16.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 17.: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 18.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/59 Raheinstraße (südlich und westlich), Ratoldstraße (westlich), Lerchenstraße (nördlich), Bahnlinie München-Regensburg (östlich) Endgültiger Beschluss Stadtbezirk 24 Feldmoching – Hasenbergl
+- TOP 19.: A) Bebauungsplan mit Grünordnung Nr. 2108a Raheinstraße (südlich und westlich), Ratoldstraße (westlich), Lerchenstraße (nördlich), Bahnlinie München-Regensburg (östlich), (Teilverdrängung der Bebauungspläne Nrn. 36c, 825 und 1119) - Satzungsbeschluss - B) Ausführungen zur Umsetzung des Verkehrskonzeptes, insbesondere nicht-ursächliche Kosten Ausbau Dülferstraße Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 20.: (U) A) Stadtentwicklung im Münchner Norden (Feldmoching - Ludwigsfeld) - Ideenwerkstatt mit Öffentlichkeitsbeteiligung als kooperativer Baustein im Planungsprozess - Stadtbezirk 24 Feldmoching-Hasenbergl B) Antrag
+- TOP 21.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 22.: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 23.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 24.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 25.: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 26.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 27.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 28.: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 29.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzender
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.2.: (E) Stadtbezirksbudget FC Fasanerie-Nord e.V. Anschaffung von Sportausstattung 1.125,00 Euro, Az.: 0262.0-24-0430
+- TOP 2.3.: (E) Stadtbezirksbudget Gesamtverein Feldmoching e.V. Dorffasching 2023 am 19.02.2023 5.137,50 Euro, Az.: 0262.0-24-0431
+- TOP 3.2.: Vorlage des Plans zur Kampfmittelräumung au dem Gelände des "Eggarten" im 24. Stadtbezirk
+- TOP 3.3.: Geordnete und sichere Überleitung des Radwegs auf die Fahrbahnen von Franz-Fackler-Straße und Max-Wönner-Straße, 80995 München
+- TOP 3.4.: Anschaffung von Defibrillatoren aus dem BA-Budget 2022
+- TOP 3.5.: Aufklärung zum Bevölkerungsschutz und zur Katastrophenhilfe für den BA24
+- TOP 5.1.17.: Glockenbecher Str. 26
+- TOP 5.1.18.: Schleißheimer Str. 465 (Änderungsantrag)
+- TOP 3.: Anträge
