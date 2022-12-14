@@ -1,0 +1,7 @@
+# TOP 31.5: Weihnachtsmarkt Gronau; Barrierefreiheit (Anfrage RM Dzietko)
+
+- Sitzung: Rat (24. Sitzung) (2022-12-14)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/57765
+- Beschluss (Datei): Infotext (Weihnachtsmarkt Gronau; Barrierefreiheit (Anfrage RM Dzietko)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfFsZt8b8nL3UdT68-4pEHoULg6UnqVFecHGBDIF4Fpo/Infotext_TOP_31.5_-oeffentlich-_Rat_14.12.2022.pdf
