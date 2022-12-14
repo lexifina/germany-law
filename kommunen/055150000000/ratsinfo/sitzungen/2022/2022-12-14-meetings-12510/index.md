@@ -1,0 +1,112 @@
+# 14. Sitzung (Verabschiedung Haushalt 2023)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2022-12-14T16:30:00+01:00
+- Ende: 2022-12-14T21:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12510
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12510
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich_korrigierte_Fassung https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00521782.pdf
+
+## Tagesordnung
+
+- TOP 1: Solidaritätspartnerschaft mit Winnyzja in der Ukraine - einstimmig geändert beschlossen
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Musik-Campus - Moratorium
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 10: Anregungen des Jugendrates
+- TOP 11: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 12: Antrag von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 12.1: Verurteilung der Gewalt und der Unterdrückung von Freiheitsrechten im Iran - einstimmig beschlossen
+- TOP -: Beratungen zum Haushalt 2023 - Reden der Vorsitzenden der Fraktionen, der Gruppe und des Einzelmitgliedes
+- TOP 13: Haushaltssatzung 2023 - mehrheitlich beschlossen
+- TOP 14: Fortschreibung des Bedarfsplanes für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 15: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 15.1: Satzung zur Änderung der Satzung der Stadt Münster über Sondernutzungen an öffentlichen Straßen und des Gebührentarifs vom 29.06.2012 in der Fassung der 3. Änderungssatzung vom 20.12.2021 - mehrheitlich beschlossen
+- TOP 15.2: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 15.3: Entgeltordnung für Förderangebote der Schulpsychologischen Beratungsstelle der Stadt Münster - einstimmig beschlossen
+- TOP 15.4: Abfallgebühren 2023 - einstimmig beschlossen
+- TOP 15.5: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2023 - einstimmig beschlossen
+- TOP 15.6: Straßenreinigungsgebühren 2023 - einstimmig beschlossen
+- TOP 16: Wirtschaftspläne von Gesellschaften
+- TOP 16.1: Wirtschaftsplan 2023 der citeq - einstimmig beschlossen
+- TOP 16.2: Wirtschaftsplan 2023 von Münster Marketing - mehrheitlich beschlossen
+- TOP 16.3: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2023 - einstimmig beschlossen
+- TOP 16.4: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 17: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023 - einstimmig beschlossen
+- TOP 17.1: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023
+- TOP 17.2: Verfahren zur Gewährung von Zuschüssen im Haushaltsplanentwurf 2023
+- TOP 18: Ausgleich des coronabedingten Schadens bei der FMO Flughafen Münster/Osnabrück GmbH für das Jahr 2023 - mehrheitlich beschlossen
+- TOP 19: Reihenfolge der Module beim Ausbau des städtischen Stadions an der Hammer Straße auf Basis des verfügbaren Budgets - mehrheitlich beschlossen
+- TOP 20: Aufstockung der vorhandenen Fertigbauklassen am Standort 2 der Idaschule zum Schuljahr 2024/2025, Errichtungsbeschluss - einstimmig beschlossen
+- TOP 21: Grundschulentwicklung in Wolbeck – Anpassung von Ratsbeschlüssen an aktuelle Entwicklungen, - mehrheitlich geändert beschlossen
+- TOP 22: Erweiterung der Mosaik-Schule zur Vierzügigkeit - Grundsatz-,Errichtungs- und Baubeschluss sowie Aufhebung des Beschlusses zum Neubau der Grundschule Oxford - einstimmig beschlossen
+- TOP 23: Kindertageseinrichtungen
+- TOP 23.1: Errichtungsbeschluss: Neubau einer 3-Gruppen-Kindertageseinrichtung (Block B 11) im Plangebiet Klosterareal Pluggendorf im Wohnbereich Pluggendorf im Bezirk Mitte - mehrheitlich beschlossen
+- TOP 23.2: Errichtungsbeschluss: Neubau einer 3-Gruppen-Kindertageseinrichtung (Block C 14) im Plangebiet Klosterareal Pluggendorf im Wohnbereich Pluggendorf im Bezirk Mitte - mehrheitlich beschlossen
+- TOP 23.3: Trägerschaft der betrieblichen Kindertageseinrichtung des Universitätsklinikum Münster - mehrheitlich beschlossen
+- TOP 23.4: Neubau einer 5-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen Oxford-Kaserne im Stadtteil Gievenbeck - mehrheitlich beschlossen
+- TOP 23.5: 3-Gruppen Kindertageseinrichtung York - mehrheitlich beschlossen
+- TOP 24: Pakt für den Öffentlichen Gesundheitsdienst – Förderung einer weiteren Personalverstärkung im Gesundheits- und Veterinäramt - einstimmig beschlossen
+- TOP 25: Erweiterung Wilhelm-Hittorf-Gymnasium - einstimmig beschlossen
+- TOP 26: Erweiterung des Schulzentrums Wolbeck, Von-Holte-Straße 56, 48167 Münster - einstimmig beschlossen
+- TOP 27: Finanzierung und weiteres Vorgehen bei Projekten der sozialen Infrastuktur im YORK-Quartier - einstimmig beschlossen
+- TOP 27.1: Finanzierung und weiteres Vorgehen bei Projekten der sozialen Infrastuktur im YORK-Quartier
+- TOP 28: Sanierung Vereinssporthalle York - mehrheitlich beschlossen
+- TOP -: Sonstige Ratsentscheidungen
+- TOP 29: Wiederwahl des Beigeordneten Thomas Paal - mehrheitlich beschlossen
+- TOP 30: Ziele zur kommunalen Steuerung - mehrheitlich geändert beschlossen
+- TOP 31: Zwischenbericht Haushalt 2022 -Ukraine- 3. Quartal - einstimmig beschlossen
+- TOP 32: Abschlussbericht Green Bond - einstimmig beschlossen
+- TOP 33: KonvOY GmbH: Erhöhung der konzerninternen Kreditlinie - einstimmig beschlossen
+- TOP 34: Stadtwerke Münster GmbH: Novellierung des Gesellschaftsvertrages der Westfälische Bauindustrie (WBI) - mehrheitlich beschlossen
+- TOP 35: Bestätigung des Ratsbeschlusses zum Betrauungsakt der Stadt Münster für die Wohn- und Stadtbau GmbH, Steinfurter Str. 60, 48149 Münster als Käuferin eines Grundstücks der KonvOY GmbH - einstimmig beschlossen
+- TOP 36: Zukunftsstrategie für den Kongressstandort Münster - einstimmig geändert beschlossen
+- TOP 37: Konzeptvergabe Gasometer - mehrheitlich beschlossen
+- TOP 37.1: Konzeptvergabe Gasometer
+- TOP 38: Konzeptvergabe Gasometer | Besetzung Auswahlgremium - einstimmig beschlossen
+- TOP 38.1: Konzeptvergabe Gasometer | Besetzung Auswahlgremium
+- TOP 39: Einstellung des goCard-Abos / Kündigung der Verträge mit den Verkehrsträgern RVM, Westfalenbus und Stadtwerke Münster - von der Tagesordnung abgesetzt
+- TOP 40: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen und Schülern in die städtischen Schulen (vgl. § 46 Schulgesetz NRW)" - einstimmig beschlossen
+- TOP 41: Realisierung von Schulbauvorhaben durch die Bauwerke Münster GmbH - mehrheitlich geändert beschlossen
+- TOP 42: Mittelbereitstellung zur Weiterführung der Profilierung des kulturellen Markenkernes sowie zur einmaligen Aufstockung der Betriebsmittel des Bürgerhaus Bennohaus - einstimmig beschlossen
+- TOP 43: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 44: Erweiterung Schulzentrum Hiltrup - einstimmig beschlossen
+- TOP 45: Bauleitplanung
+- TOP 45.1: Stadtbezirk Münster-Mitte
+- TOP 45.1.1: Bebauungsplan Nr. 612 - Klosterareal Pluggendorf - Satzungsbeschluss - einstimmig beschlossen
+- TOP 45.2: Stadtbezirk Münster-West
+- TOP 45.2.1: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 375 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 45.2.2: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 147: II. Westtangente (Kardinal-von-Galen-Ring / Roxeler Straße) im Bereich Coesfelder Kreuz / Domagkstraße / Rishon-Le-Zion-Ring - einstimmig beschlossen
+- TOP 46: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 46.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 47: Besetzung von frei werdenden Positionen im Beirat für Stadtgestaltung - einstimmig beschlossen
+- TOP 48: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 48.1: Wolbeck Ortskernumgestaltung jetzt! Durchführung eines einjährigen Verkehrsversuchs zur nachhaltigen Verkehrsberuhigung im historischen Ortskern - einstimmig beschlossen
+- TOP 48.2: NOTwendig: Konzepte und Kriterien für eine Notbetreuung in Münsters Kitas und OGS - mehrheitlich beschlossen
+- TOP 48.3: Bauen und Mobilität im Stadtkonzern konzentriert verankern - mehrheitlich beschlossen
+- TOP 48.4: Moratorium Eschstrasse - mehrheitlich beschlossen
+- TOP 48.5: Domplatz und Pferdegasse aufwerten-mehr Aufenthalts- und Lebensqualität für die Innenstadt - mehrheitlich beschlossen
+- TOP 48.6: Änderung der Geschäftsordnung für den Rat, seine Ausschüsse und die Bezirksvertretungen der Stadt Münster - verwiesen
+- TOP 49: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 49.1: Verbinden, Vernetzen, gemeinsam fahren –eine Mitfahr-App für die Stadtregion - verwiesen
+- TOP 49.2: „Nightsport“-Angebote möglich machen - verwiesen
+- TOP 49.3: Dem Sportinternat Münster eine Perspektive geben – Talente mit Zukunft fördern - verwiesen
+- TOP 49.4: Berufskollegs vollständig ins digitale Zeitalter bringen! - verwiesen
+- TOP 49.5: Servatiiplatz als Urbanen Ort weiterentwickeln - verwiesen
+- TOP 49.6: Zukunft Albersloher Weg – so viel Bahn, Bus und Rad wie möglich und so viel Auto wie nötig - verwiesen
+- TOP 49.7: Schrotträder entfernen, Radabstellplätze verfügbar machen - verwiesen
+- TOP 49.8: Spielplätze inklusiv und barrierefrei gestalten - gemeinsames Spielen für Kinder mit und ohne Behinderung ermöglichen und fördern - verwiesen
+- TOP 49.9: Teilhabe am Arbeitsmarkt verbessern - Beschäftigungsquote von Menschen mit Behinderung bei der städtischen Verwaltung deutlich erhöhen - verwiesen
+- TOP 49.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50: Verschiedenes
