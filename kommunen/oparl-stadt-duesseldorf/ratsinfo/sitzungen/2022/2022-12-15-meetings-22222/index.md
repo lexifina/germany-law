@@ -1,0 +1,74 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2022-12-15T09:08:00+01:00
+- Ende: 2022-12-15T20:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22222
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/22222
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 15.12.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00470293.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 15.12.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00470293.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 15.12.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00470293.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: kostenlose Eintrittskarten für Kommunalpolitik bei MTV - schriftlich beantwortet
+- TOP 3.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: großzügiger Umgang mit Steuergeldern für politische Fraktionssitzungen - schriftlich beantwortet
+- TOP 3.3: Anfrage des Ratsherrn Lemmer: angespannt-problematische Situation in der Versorgung erkrankter Kinder und Jugendlicher in Düsseldorf - schriftlich beantwortet
+- TOP 3.4: Anfrage des Ratsherrn Lemmer: Wohngeldberechtigte in Düsseldorf ab dem 1. Januar 2023 - schriftlich beantwortet
+- TOP 3.5: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Gullydeckel-Diebstähle - Stadt wird bestohlen - Tatenloser OB? - schriftlich beantwortet
+- TOP 3.6: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Stummer OB Keller - Keine Reaktion auf Bürgerprotest - schriftlich beantwortet
+- TOP 3.7: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Irres Angebot an Fortuna - Düsseldorfs Stadtdirektor bietet die Arena zum Kauf an (Überschrift RP 08.12.2022) - schriftlich beantwortet
+- TOP 3.8: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Erst ehren - dann ausschließen! 86jährige Schwanenmutter muss über Zaun klettern - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Neubau TVG - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Kunstpalast - zur Kenntnis genommen
+- TOP 6: Bericht zur Energieversorgung (mündlicher Bericht) - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung (mündlicher Bericht) - zur Kenntnis genommen
+- TOP 8: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2021 - Feststellung des Jahresabschlusses und Entlastung des Oberbürgermeisters - - einstimmig beschlossen
+- TOP 9: Beschluss über das Jahresergebnis 2021 - einstimmig beschlossen
+- TOP 10: Änderungsordnung der Entgeltordnung für freiwillige Hilfeleistungen und Leistungen des vorbeugenden Brandschutzes der Feuerwehr der Landeshauptstadt Düsseldorf vom 24.10.2016 - einstimmig beschlossen
+- TOP 11: Öffentliche Grünanlage "Stadt-Wald : Wald-Stadt" - Albertstraße - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 12: Raumwerk D - Ein städtebauliches Entwicklungskonzept für die Zukunft Düsseldorfs - abweichend beschlossen
+- TOP 13: Bebauungsplan-Entwurf Nr. 06/020 - Beiderseits Vogelsanger Weg - mehrheitlich beschlossen
+- TOP 14: Flächennutzungsplanänderung Nr. 138 - Glasmacherviertel - einstimmig beschlossen
+- TOP 15: Bebauungsplan-Entwurf Nr. 09/011 - Östlich Kölner Landstraße - - mehrheitlich beschlossen
+- TOP 16: Bebauungsplan-Entwurf Nr. 08/006 - Königsberger Straße/Tulpenweg - mehrheitlich beschlossen
+- TOP 17: Flächennutzungsplanänderung Nr. 194 - Königsberger Straße/Tulpenweg - mehrheitlich beschlossen
+- TOP 18: Städtebaulicher und freiraumplanerischer Wettbewerb Nr. 05/015 - Nördlich Kalkumer Schloßallee - - mehrheitlich beschlossen
+- TOP 19: Plan Nr. 01/028 - Schadowstraße - Satzung über ein besonderes Vorkaufsrecht - einstimmig beschlossen
+- TOP 20: 2. Änderungssatzung zur Satzung zur Wahrung der Belange von Menschen mit Behinderung - einstimmig beschlossen
+- TOP 21: Entsendung von Mitgliedern des Behindertenrates als sachkundige Einwohnerinnen/Einwohner in die Ratsausschüsse - einstimmig beschlossen
+- TOP 22: D.LIVE GmbH & Co. KG - Betrauung einer städtischen Beteiligungsgesellschaft mit gemeinnützigen Aufgaben - Ergänzung - - mehrheitlich beschlossen
+- TOP 23: Öffnungszeiten der Zentralbibliothek im Gebäude KAP 1 - einstimmig beschlossen
+- TOP 24: Preisträgerinnen des Bernd-und-Hilla-Becher-Preises 2022 - zur Kenntnis genommen
+- TOP 25: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - einstimmig beschlossen
+- TOP 25.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage OVA/116/2022/1 - abweichend beschlossen
+- TOP 26: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2023 - mehrheitlich beschlossen
+- TOP 27: Fußgängerbrücke über die Hafeneinfahrt, BW 8039 - Ertüchtigung zur weiteren Nutzung durch Radfahrende - Ausführungs- und Finanzierungsbeschluss - mehrheitlich beschlossen
+- TOP 28: Stadtbahnstrecke U81/3. Bauabschnitt, Flughafen Terminal – Flughafen Bahnhof - mehrheitlich beschlossen
+- TOP 29: Zweite Änderung des Ausführungs- und Finanzierungsbeschlusses für das Projekt Stadtbahn U81, 1. Bauabschnitt Freiligrathplatz – Flughafen Terminal - mehrheitlich beschlossen
+- TOP 30: Auf’m Hennekamp – Radverkehrsführung Himmelgeister Straße bis Mecumstraße -Ausführungs- und Finanzierungsbeschluss- - mehrheitlich beschlossen
+- TOP 31: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Erweiterung der Carl Sonnenschein Grundschule, Gerresheimer Landstraße 89, Erhöhung der Zügigkeit von ein auf zwei Züge“ - einstimmig beschlossen
+- TOP 32: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau eines 4-zügigen Gymnasiums mit Sporthalle des Luisen-Gymnasiums am Standort Völklinger Straße" - einstimmig beschlossen
+- TOP 33: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses für das Projekt "Rückertstraße 6, Friedrich-Rückert-Gymnasium und das Weiterbildungskolleg der Stadt Düsseldorf - Abendgymnasium-,Erweiterung und Sanierung aufgrund Erhöhung der Zügigkeit - einstimmig beschlossen
+- TOP 34: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses des Projektes "Erweiterungsneubau Am Massenberger Kamp 45" - einstimmig beschlossen
+- TOP 35: Erhöhung der Zügigkeit des Max-Planck-Gymnasiums von 4 auf 5 - einstimmig beschlossen
+- TOP 36: Aufhebung der Maßnahme zur baulichen Erweiterung an der GHS Graf-Recke-Straße aus dem Beschluss SCHUA/025/2019 - einstimmig beschlossen
+- TOP 37: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2023 - Beschluss - - einstimmig beschlossen
+- TOP 38: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2022-2026 - Beschluss - - einstimmig beschlossen
+- TOP 39: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2023 bis 31.12.2023 - Beschluss - - mehrheitlich beschlossen
+- TOP 40: Jahresabschluss zum 31.12.2021 und Lagebericht für das Wirtschaftsjahr 2021 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD) - Beschluss - - einstimmig beschlossen
+- TOP 41: Aufsichtsrat der Düsseldorfer Künstleratelier GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 42: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 43: Etatberatung
+- TOP 43.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2023 mit Anlagen - mehrheitlich beschlossen
+- TOP 43.2: Veränderungsverzeichnis zum Haushaltsplan-Entwurf 2023 ff. - mehrheitlich beschlossen
+- TOP 43.3: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2023 mit Anlagen - mehrheitlich beschlossen
+- TOP 43.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2023 - mehrheitlich beschlossen
+- TOP 44: Bericht aus der Kleinen Kommission Smart City - zur Kenntnis genommen
