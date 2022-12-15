@@ -1,0 +1,6 @@
+# TOP 4.2: Gemeinsame Veranstaltung aller Ortsvereine
+
+- Sitzung: Ortsbeirat Niederlemp (6. Sitzung/18.WP) (2022-12-15)
+- Körperschaft: Gemeinde Ehringshausen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/agendaitem/5087
