@@ -1,0 +1,75 @@
+# Rat (143. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2022-12-15T17:00:00+01:00
+- Ende: 2022-12-15T20:05:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQw15zdWQK3Sd-WCD7yyid4
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17222
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXfz4FAihqPQj2Mf7ejzR90aUFCLssFUztNJo92DBljh/Bekanntmachung_Rat_15.12.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTlVf-Trznn7aA9qLuXZ9S0OFvDdIOQO0thHRG2vLtmK/Oeffentliche_Niederschrift_Rat_15.12.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 23.11.2022
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Verpflichtung und Einführung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 5.: Bestellung einer Schriftführung - Einstimmig
+- TOP 6.: Umbesetzung von Gremien - Ohne Abstimmung
+- TOP 6.1: Umbesetzung von Gremien - Einstimmig
+- TOP 7.: Öffentlicher Personennahverkehr (ÖPNV)
+- TOP 7.1: Resolution des Rates der Stadt Emsdetten: Nachhaltige Finanzierung für die Münsterland S-Bahn sicherstellen - Einstimmig
+- TOP 8.: Beitritt zum Europäischen Netzwerk "Europa fängt in der Gemeinde an" und Wahl eines Mitgliedes der Vertretung zum Mitglied des Netzwerkes - Einstimmig
+- TOP 9.: Finanzangelegenheiten
+- TOP 9.1: Feststellung des Jahresabschlusses 2021, Entlastung des Bürgermeisters - Einstimmig
+- TOP 9.2: Beteiligungsbericht 2021 - Einstimmig
+- TOP 9.3: Bericht über Erträge und Aufwendungen von anlässlich des Krieges in der Ukraine eingereisten Personen - Zur Kenntnis genommen
+- TOP 9.4: Verlängerung der Ausübung der Übergangsfrist nach § 27 Abs. 22 a UStG - Einstimmig
+- TOP 9.5: Strategische Ausrichtung des zentralen Fördermanagements - Einstimmig
+- TOP 10.: Stadtwerke Emsdetten GmbH
+- TOP 10.1: Vertreter in der Gesellschafterversammlung der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 11.: Satzungsrecht
+- TOP 11.1: III. Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 20.12.2017 - Einstimmig
+- TOP 11.2: XI. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 11.3: XVI. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - 38 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.4: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2023 - Ohne Abstimmung
+- TOP 11.4.1: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2023 - 38 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.5: Änderung der Anlage 1 zur Satzung der Stadt Emsdetten über die Erhebung von Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Gewässergebührensatzung (GGS) - Einstimmig
+- TOP 11.6: Stellplatzsatzung der Stadt Emsdetten - Ohne Abstimmung
+- TOP 11.6.1: Stellplatzsatzung der Stadt Emsdetten - Einstimmig
+- TOP 12.: Vergabekriterien für städtische Wohnbaugrundstücke - Einstimmig
+- TOP 13.: Verwaltungsorganisation
+- TOP 13.1: Organisation der Gebäudereinigung - Zur Kenntnis genommen
+- TOP 14.: Kommunale Wärmeplanung - Einstimmig
+- TOP 15.: Antrag Fraktion DIE GRÜNEN vom 04.03.2022: Geschwindigkeitsmessung in kommunaler Eigenverantwortung - Aufnahme einer interkommunalen Kooperation - Ohne Abstimmung
+- TOP 16.: Neubau Baubetriebshof - Informationen zum Stand des Projektes - Zur Kenntnis genommen
+- TOP 17.: Erweiterung der Feuer- und Rettungswache - Vorstellung der Vorentwurfsplanung - 37 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 18.: Sanierung und Erweiterung der EMS-HALLE - Weiteres Vorgehen - Einstimmig
+- TOP 19.: Erstellung eines Konzeptes zur tierschutzgerechten Regulierung des Bestandes an Tauben im Bereich der Innenstadt - 21 Ja-Stimme(n), 17 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 20.: Aufhängung von bunten Regenschirmen in der Innenstadt - 30 Ja-Stimme(n), 7 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 21.: Allgemeine Stadtentwicklungsplanung
+- TOP 21.1: Beschluss des Integrierten Mobilitätskonzeptes der Stadt Emsdetten - Einstimmig
+- TOP 22.: Privaterschließungs- und städtebauliche Verträge
+- TOP 22.1: Städtebaulicher Vertrag für den Bereich des B-Plans Nr. 66 B Teil A "Föhrendamm / Höfte", Planstraße Igelweg - Einstimmig
+- TOP 23.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 23.1: Straßen- und Wegekonzept gemäß § 8a KAG NRW - Einstimmig
+- TOP 24.: Allgemeine Umweltangelegenheiten
+- TOP 24.1: Entsiegelung und Rückbau von Schottergärten als weiterer Förderbaustein für proKLIMA - 21 Ja-Stimme(n), 16 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 25.: Stroetmanns Fabrik e.V. - temporäre vertragliche Regelung zum Umgang mit Defiziten/Überschüssen während der Bauphase - Einstimmig
+- TOP 26.: Schulangelegenheiten
+- TOP 26.1: Bildung der Grundschuleingangsklassen für das Schuljahr 2023/2024 - Einstimmig
+- TOP 26.2: Schulentwicklungsplan 2022 - Einstimmig
+- TOP 27.: „Medienkompetenz an Schule lernen“ – Ein Angebot des Caritasverbandes Emsdetten-Greven an Emsdettener Schulen - Einstimmig
+- TOP 28.: Anpassung der „Richtlinien zur Förderung der Kinder- und Jugendarbeit sowie der außerschulischen Jugend- und Familienbildung und Erholung in Emsdetten“ - Einstimmig
+- TOP 29.: Antrag des Caritasverbandes Emsdetten-Greven auf weitere Förderung der Arbeit des KadeCa und der psychosozialen Beratungsstelle - Einstimmig
+- TOP 30.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2023 - 38 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 31.: Stellenplan
+- TOP 31.1: Stellenplan 2023 - 21 Ja-Stimme(n), 18 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 32.: Etat / Budget
+- TOP 33.: Haushaltssatzung und Haushaltsplan 2023 - 21 Ja-Stimme(n), 18 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 34.: Verschiedenes
