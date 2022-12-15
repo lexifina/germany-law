@@ -1,0 +1,61 @@
+# öffentliche/nicht öffentliche Sitzung des Verwaltungsrates
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2022-12-15T18:12:00+01:00
+- Ende: 2022-12-15T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2936
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2936
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 1.1: Antrag zur Tagesordnung - einstimmig beschlossen
+- TOP 2: Benennung einer Zweitunterzeichnerin / eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen vom 18.10. und 30.11.2022
+- TOP 3.1: Parkraumkonzept für das Bahnhofsviertel - mehrheitlich beschlossen
+- TOP 3.2: Umgestaltung Karl-Oberbach-Straße
+- TOP 3.3: City-Logistik-Konzept für Grevenbroich - einstimmig beschlossen
+- TOP 3.4: Satzung der Stadtbetriebe Grevenbroich AöR über den Winterdienst - einstimmig beschlossen
+- TOP 3.5: Verkehrssituation auf der Straße „Erftgraben“, Grevenbroich-Kapellen
+- TOP 4: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege vom 24.11.2022
+- TOP 4.1: Instandsetzung der Wege am Ufer des Neurather Sees - einstimmig beschlossen
+- TOP 4.2: 1. Änderung der Satzung der Stadtbetriebe Grevenbroich (AöR) über die Erhebung von Friedhofsgebühren - einstimmig beschlossen
+- TOP 4.3: Errichtung von Kolumbarien auf städtischen Friedhöfen - einstimmig beschlossen
+- TOP 4.4: Anlegung eines zusätzlichen Urnenwahlgrabfeldes auf dem Friedhof Wevelinghoven - einstimmig beschlossen
+- TOP 5: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 5.1: Konzept „Kommunales Energiemanagement – intelligent, effizient, nachhaltig" - Kenntnisnahme
+- TOP 5.2: Mobilitätsmanagement - einstimmig beschlossen
+- TOP 5.3: Konzept zur Errichtung von öffentlichen Trinkwasserstationen endlich entwickeln - einstimmig beschlossen
+- TOP 5.4: Energiebericht 2021 - Anfrage aus der Verwaltungsrtassitzung vom 22.09.2022 - Kenntnisnahme
+- TOP 6: Schriftliche Anträge
+- TOP 6.1: Anträge der SPD-Fraktion
+- TOP 6.1.1: Erlebnisflächen Neurather See - einstimmig beschlossen
+- TOP 6.2: Anträge der CDU-Fraktion
+- TOP 6.2.1: Das Ausleuchten von Angsträumen sicherstellen - einstimmig beschlossen
+- TOP 6.2.2: Aufbau der Parade-Bühnen zu den städtischen Schützenfesten - einstimmig beschlossen
+- TOP 6.2.3: Einrichtung von Frauenparkplätzen an der Sportanlage „Am Türling“ - einstimmig beschlossen
+- TOP 6.2.4: „Smart Home“ System für öffentliche Gebäude einführen - einstimmig beschlossen
+- TOP 6.2.5: „Sport- u. Gesundheitsförderung auch in Krisenzeiten“ – Schwimmbadnutzung mit einer Wassertemperatur von ca. 32 Grad - einstimmig beschlossen
+- TOP 6.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 6.3.1: Bericht zur Entwicklung der Eigenversorgung mit Strom durch Photovoltaik - einstimmig beschlossen
+- TOP 6.4: Anträge der FDP-Fraktion
+- TOP 6.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 6.5.1: Ortstermin Weg entlang der Käthe-Kollwitz Gesamtschule - einstimmig beschlossen
+- TOP 6.5.2: Parkverbot und Eingrenzung am Platz der Deutschen Einheit - einstimmig beschlossen
+- TOP 6.6: Anträge der UWG-Fraktion
+- TOP 6.7: Gemeinschaftsanträge
+- TOP 6.7.1: Entlastende Maßnahmen für die Talstraße in Kapellen - einstimmig beschlossen
+- TOP 7: Schriftliche Anfragen
+- TOP 7.1: Vergabe von IT Aufträgen - einstimmig beschlossen
+- TOP 7.2: Schrankenanlage Elsbachtunnel - einstimmig beschlossen
+- TOP 8: Wirtschaftsplan 2023 Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 9: Anfragen von Verwaltungsratsmitgliedern
+- TOP 10: Mitteilungen des Vorstandes
+- TOP 11: Mitteilungen des Verwaltungsratsvorsitzenden
+- TOP 12: Gemeinschaftsanträge
+- TOP 12.1: Photovoltaik Ausbau des Betriebshofes - Kenntnisnahme
+- TOP 13: Sachstand § 2 b Umsatzsteuer - Kenntnisnahme
