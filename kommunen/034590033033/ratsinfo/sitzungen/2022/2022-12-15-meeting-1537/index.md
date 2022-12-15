@@ -1,0 +1,68 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2022-12-15T17:30:00+01:00
+- Ende: 2022-12-15T20:13:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZU47xeBbZ0SxXa6IzavqkX0
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1537
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWz7sl11KhyW1CUeYNQzOEkNmTuoLSHBv_jnwJCFnr2i/Bekanntmachung_Rat_15.12.2022.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVDicb5P28e7R45Cn-Ybmz2Za_4VTyCp2Jd2vZQT6VIY/Oeffentliches_Beschlussprotokoll_Rat_15.12.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 06.10.2022
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Entsendung eines Ausschussmitgliedes und einer persönlichen Vertretung zum Verbandsausschuss des Unterhaltungsverbandes Nr. 96 "Hase-Bever" in Osnabrück - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 4.5: Mitteilung von anzeigepflichtigen Nebentätigkeiten des Hauptverwaltungsbeamten gemäß § 81 Abs. 5 Nds. Kommunalverfassungsgesetz (NKomVG)
+- TOP 4.6: Antrag der CDU-Fraktion auf Verbesserung der Verkehrssicherheit an der Kreuzung Große Straße / Franksmannstraße in Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.7: Antrag der SPD-Fraktion auf Prüfung der Wärmeversorgung von Feuerwehrhaus und Bauhof mittels der Hackschnitzelheizung der Tischlerei Lahrmann - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.8: Antrag der CDU-Fraktion auf Überprüfung der Verkehrssituation an der Herderstraße - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.9: Prüfung einer ukrainischen Städtepartnerschaft - mehrheitlich mit 27 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 5.: Satzungsrecht
+- TOP 5.1: Neufassung der Satzung über die Sondernutzungsgebühren - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Neufassung der Sondernutzungssatzung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Jugendangelegenheiten
+- TOP 6.1: Anpassung der Richtlinien zur Förderung von Vereinen, Verbänden und Institutionen auf die Corona-Pandemie - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Antrag der Andreaskirchengemeinde Wallenhorst auf Bezuschussung von Umbau und Ausstattung der Jugendräume - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Kindertagesstätten
+- TOP 7.1: Finanzierung der Kinderbetreuung im Landkreis Osnabrück hier: 1. Änderungsvereinbarung zur öffentlich-rechtlichen Vereinbarung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Schulangelegenheiten
+- TOP 8.1: Einführung von einheitlichen Standards zur Berechnung der Stundenkontingente der Mensa-Ausgabekräfte sowie der Aufsichtskräfte für die Gemeindeesser in den Wallenhorster Grundschulen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Sportangelegenheiten
+- TOP 9.1: Erneuerung der Laufbahn auf dem Sportgelände Wallenhorst - mehrheitlich mit 13 Ja-Stimme(n), 20 Gegenstimme(n), 1 Stimmenthaltung(en) abgelehnt:
+- TOP 10.: Verkehrsangelegenheiten
+- TOP 10.1: Initiative "Lebenswerte Städte durch angemessene Geschwindigkeiten" - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 11.: Straßenbau
+- TOP 11.1: Radweg Hollage und Halen: Führung des Radverkehrs zwischen ´Dörnter Weg´ und Kreisverkehr ´Fürstenauer Weg´ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Umsetzung des Radverkehrskonzeptes der Gemeinde Wallenhorst hier: Ausbau des Radweges am ´Haster Berg´ zwischen der Einmündung ´Wellenkamp´ und der Nette - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Umwelt- und Energieangelegenheiten
+- TOP 12.1: Sauberkeit auf Gehwegen und sonstigen öffentlichen Flächen der Gemeinde - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.2: Antrag der CDU-Fraktion auf Ermittlung von öffentlichen Pflanzflächen für Bäume - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.3: Antrag der FDP-Fraktion auf Neuausrichtung des Förderprogramms "Klimaschutzmaßnahmen" der Gemeinde Wallenhorst - mehrheitlich mit 30 Ja-Stimme(n), 3 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 12.4: Antrag der CDW-Fraktion auf Bezuschussung von Ladeboxen (Wallboxen) in der Gemeinde Wallenhorst - mehrheitlich mit 26 Ja-Stimme(n), 7 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 12.5: Fortführung des Klimaschutzprojektes an den Wallenhorster Schulen und Kindergärten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 13.1: Umgang mit der Wohnform „Tiny-Haus“ im Gemeindegebiet Hier: Beschluss über den Antrag der CDW/W-Fraktion vom 11.04.2022 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.2: Beschluss städtebaulicher Rahmenplan zur „Grünen Wiese“ - mehrheitlich mit 29 Ja-Stimme(n), 2 Gegenstimme(n), 3 Stimmenthaltung(en) gefasst:
+- TOP 13.3: Erneuerung der Pumpstation mit Gebäude an der Hansastraße auf dem Gelände der ehemaligen Kläranlage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Kämmereiangelegenheiten
+- TOP 14.1: Konsolidierter Gesamtabschluss für das Haushaltsjahr 2020 - Prüfung des Gesamtabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des konsolidierten Gesamtabschlusses 2020 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.2: Über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen für das Haushaltsjahr 2021 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.3: Jahresabschluss für das Haushaltsjahr 2021 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des Jahresabschlusses 2021 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.4: Beratung und Entscheidung über die Entlastung des Bürgermeisters für das Haushaltsjahr 2021 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.5: Übernahme einer Bürgschaft zu Gunsten des TUS Eintracht Rulle e.V. - einstimmig, mit 3 Enthaltung(en) gefasst:
+- TOP 14.6: Erlass einer Hebesatzsatzung - mehrheitlich mit 31 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 14.7: Haushaltswirtschaft für das Jahr 2023 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - mehrheitlich mit 31 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 14.8: Genehmigungen der Annahmen von Zuwendungen (Entscheidungen Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.: Anfragen und Anregungen
+- TOP 15.1: Sperrung der Egbersstraße und Fiesteler Straße aufgrund der Bauarbeiten auf der Schützenwiese (ehemals Strößner)
