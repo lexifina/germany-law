@@ -1,0 +1,149 @@
+# 14. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2022-12-15T17:30:00+01:00
+- Ende: 2022-12-15T23:00:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5741
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5741
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=547758
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Hundeplätze im Wedding
+- TOP 2.2: Nachfragen zum Verkauf von Hinterhäusern in der Alten Schönhauser Straße 26
+- TOP 3: Feststellen von Dringlichkeiten
+- TOP 4: Mitteilungen
+- TOP 4.1: des Vorstandes
+- TOP 4.2: der Fraktionen
+- TOP 4.3: der Ausschüsse
+- TOP 4.4: des Bezirksamtes
+- TOP 5: Konsenslisten
+- TOP 5.1: Mitwirkung der Stadtteilvertretungen Müllerstraße “MenschMüller” in Gutachten- und Wettbewerbsverfahren zur Neuplanungen zur Entwicklung des Karstadt-Standortes Müllerstraße sicherstellen
+- TOP 5.2: Geplante modulare Unterkünfte für Geflüchtete an der Triftstraße umsetzen
+- TOP 5.3: Rechnungen der Anna-Lindh-Schule unverzüglich bezahlen!
+- TOP 5.4: Situation von Sprachfördergruppen verbessern!
+- TOP 5.5: Mehr seniorengerechte Sitzbänke im öffentlichen Raum
+- TOP 5.6: Eine Zone für den Fußverkehr am Hackeschen Markt
+- TOP 5.7: Straßen- oder Platzbenennung nach Peter Fechter
+- TOP 5.8: Baumspenden für Mitte dauerhaft ermöglichen
+- TOP 5.9: Bastion im Schillerpark
+- TOP 5.10: Sichere Fußquerung Unter den Linden
+- TOP 5.11: UV-Schutz auf Spielplätzen sicherstellen
+- TOP 5.12: Ein dichtes „Netzwerk der Wärme“ knüpfen
+- TOP 5.13: Ausstellungsarbeit in den Gebäuden Rathaus Mitte – gute Realität
+- TOP 5.14: Forderung nach einer Gedenktafel im Fritz-Schloß-Park / Poststadion
+- TOP 5.15: Verkehrskonzept für die Teileinziehung Friedrichstraße
+- TOP 5.16: Stadtteil-Gesundheitszentrum in Mitte
+- TOP 5.17: Eine Gedenktafel für Ella Trebe in der Togostr. 78
+- TOP 5.18: Kostenloses Parken für behinderte Menschen
+- TOP 5.19: Wartezeiten offenlegen
+- TOP 5.20: Verbesserungen der Aufenthaltsqualität am Hansaplatz
+- TOP 5.21: Energiewende im Gebäudesektor, aber richtig!
+- TOP 5.22: Verkehrssicherheit erhöhen - Mehr Geschwindigkeitskontrollen durchführen
+- TOP 5.23: Klarheit und Transparenz für Ehrenamtliche in Quartiersräten und Stadtteilvertretungen im Bezirk Mitte
+- TOP 5.24: Fahrradständer schneller von Schrotträdern befreien
+- TOP 5.25: Kulturkataster für Mitte zur Identifikation schützenswerter Kultureinrichtungen und zur niedrigschwelligen Sichtbarkeit
+- TOP 5.26: Sichere Schulwege in Mitte!
+- TOP 5.27: Mehr Verkehrssicherheit vor Grundschulen im Gesundbrunnen
+- TOP 5.28: Teileinziehung Checkpoint Charlie – südliche Friedrichstraße verkehrssicher gestalten, öffentlichen Raum aufwerten
+- TOP 5.29: Wettbewerb Karstadt am Leo - junge Architekturbüros fördern, Ideenpool erweitern
+- TOP 5.30: Tempolimit 30 auf der Bachstraße
+- TOP 5.31: Wahl von Schiedspersonen für die Schiedsamtsbezirke Mitte 5, 7, 10
+- TOP 5.32: Wahl von Patient:innenfürsprecher:innen
+- TOP 5.33: Weniger Wahlkampf, mehr Sacharbeit in den Gremien!
+- TOP 5.34: Informieren über John Rabe auch in Mitte
+- TOP 5.35: Einrichtung eines deutsch-französischen SESB-Zweiges am Diesterweg-Gymnasium
+- TOP 5.36: Außengastronomie auf Parkbuchten dauerhaft möglich machen
+- TOP 5.37: Testprojekt "Pop-Up-Markt"
+- TOP 5.38: 17. Juni 2023
+- TOP 5.39: Angemessenes Gedenken an Wilfrid Israel ermöglichen
+- TOP 5.40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.41: Wilhelmstraße 56-59: Mitte für seine Bürger:innen zurück gewinnen!
+- TOP 5.42: Keine Hitzeinseln in Mitte – Mehr Bäume am Humboldtforum
+- TOP 5.43: Mittelstreifen der Karl-Marx-Allee anders bepflanzen
+- TOP 5.44: Datenerfassung Gebäudeeffizienzklassen
+- TOP 5.45: Eine Gedenktafel für Jeanette Schwerin in der Neuen Schönhauser Straße 13
+- TOP 5.46: Foodsharing Angebote auf der Seite des Bezirksamtes sichtbar machen
+- TOP 5.47: Erstellung eines dringlichen Wohnberechtigungsscheins bei drohender Wohnungslosigkeit
+- TOP 5.48: Straßennamen-Erläuterungsschilder - Pohlstraße und Jagowstraße
+- TOP 5.49: Kinder vor Zwangsverheiratung schützen!
+- TOP 5.50: Kein Leerstand am Leo! Umbau von Galeria Karstadt am Leopoldplatz sozialverträglich gestalten
+- TOP 5.51: "Europa fängt in der Gemeinde an" - Bewerbung für Berlin Mitte auf den Weg bringen
+- TOP 5.52: Soziale Nachnutzung für derzeitige Räumlichkeiten des Familienzentrums Moabit Ost sichern
+- TOP 5.53: Menschenwürdiger Wohnraum statt jahrelanger Notunterkunft
+- TOP 5.54: Mehrbedarfe für Essen bei Sozialhilfeempfangenden nicht ablehnen!
+- TOP 5.55: Sozialer Notdienst für Mitte!
+- TOP 5.56: Zielsystem für das Kalenderjahr 2022 – Bericht über das Erreichen der Ziele (Er-folgskontrolle) zum 31. August 2022
+- TOP 5.57: Vorschläge zur Bestellung des Vertreters/der Vertreterin sowie deren Stellvertreter/in als Mitglied für die Trägerversammlung des Jobcenter Berlin Mitte.
+- TOP 5.58: Verkehrsüberwachungskräfte verstetigen
+- TOP 6: Thematische Stunde
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Barrierefreiheit der Wahllokale im Bezirk Mitte
+- TOP 7.2: Schwimmen im Kombibad Seestraße
+- TOP 7.3: Fischt AirBnB in Mitte immer noch im Trüben?
+- TOP 7.4: Instagram mit Kindern?
+- TOP 7.5: Wie geht es weiter mit dem Warmen Otto?
+- TOP 7.6: Notwendige Sanierungen im Einkaufszentrum Hansaplatz
+- TOP 7.7: Stehen die Finanzen für das Außenbecken?
+- TOP 7.8: Haus der Statistik
+- TOP 7.9: Mehr Platz für Verkehr statt bessere Aufenthaltsqualität in der alten Mitte?
+- TOP 7.10: Was hat sich getan in den Jugendverkehrsschulen?
+- TOP 7.11: Laute Kunst an der Neuen Nationalgalerie
+- TOP 7.12: NETZWERK DER WÄRME IN MITTE
+- TOP 7.13: Nordlichter
+- TOP 7.14: Gewalt an Schulen
+- TOP 8: Verleihung des Integrationspreises 2021
+- TOP 9: Dringlichkeitsanfragen
+- TOP 9.1: Wie geht es weiter mit dem Sprengelhaus?
+- TOP 9.2: Straßenumbenennung und ihre Folgen
+- TOP 10: Große Anfragen
+- TOP 10.1: Kostenloses Abstellen von Zweirädern auf Parkplätzen?
+- TOP 10.2: Situation(saussicht) in den Ämtern von Berlin Mitte
+- TOP 10.3: Alle Zeichen auf Grün - Radverkehrspolitik aus einem Guss oder Ankündigungspolitik?
+- TOP 10.4: Transparenz über die Zusammenarbeit des Bezirksamtes mit dem Multimilliardär René Benko
+- TOP 10.5: Friedrichstraße – am Bedürfnis der Gewerbetreibenden vorbei durchgesetzt!
+- TOP 10.6: Vorbereitung des Bezirksamts auf die Wahlwiederholung
+- TOP 10.7: Effektive Bürger*innenämter
+- TOP 10.8: Das Landesantidiskriminierungsgesetz (LADG) mit Leben füllen - Was macht Mitte?
+- TOP 10.9: Zentraler Festplatz: Was ist geplant?
+- TOP 10.10: Friedensstatue – Ausnahmegenehmigung als Dauereinrichtung
+- TOP 10.11: Fahrradparkhaus am Hauptbahnhof“
+- TOP 10.12: Transparenz zum Campus Berlin Decks für Anwohner*innen des Sprengelkiezes schaffen
+- TOP 10.13: Parkgebührenpflicht ausnahmslos?
+- TOP 10.14: Regeln für Presse- und Öffentlichkeitsarbeit im Bezirksamt?
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 11.1: Feststellung einer außergewöhnlichen Notlage
+- TOP 12: Vorlagen zur Beschlussfassung
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung
+- TOP 13.1: Sitzungskalender 2023
+- TOP 14: Dringlichkeitsanträge
+- TOP 14.1: Bustransfer muss alle mitnehmen
+- TOP 15: Anträge
+- TOP 15.1: Keine Kürzungen bei den Schulsanierungen
+- TOP 15.2: Aktion gegen Krieg in der Ukraine nicht mehr behindern!
+- TOP 15.3: Runder Tisch Habersaathstraße
+- TOP 15.4: Protokolle
+- TOP 15.5: Sicherstellung von BVV-Sitzungen
+- TOP 15.6: Gewerbekontrollen diskriminierungsfrei und rechtsstaatlich durchführen
+- TOP 15.7: Habersaathstraße 40-48 rekommunalisieren und bezahlbaren Wohnraum erhalten!
+- TOP 16: Entschließungen
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen
+- TOP 17.1: Ermessens-Leitfaden erweitern
+- TOP 17.2: Auflösung des Zeltlagers im Geschichtspark des ehemaligen Zellengefängnisses Moabit
+- TOP 17.3: Für ein Rathaus der Zukunft ohne Wenn und Aber
+- TOP 17.4: Für Besucher*innen und Anwohner*innen: sozial- und umweltverträgliches Nutzungs-Konzept für James-Simon-Park erarbeiten und umsetzen
+- TOP 18: Vorlagen zur Kenntnisnahme
+- TOP 18.1: Ein fester, dauerhafter Standort für Fixpunkt am Leopoldplatz!
+- TOP 18.2: Wedding: Rathausvorplatz für alle II
+- TOP 18.3: Cafe Leo vollständig erhalten!
+- TOP 18.4: Strandbad Plötzensee – mehr als nur ein Freibad – weitere Nutzungsmöglichkeiten ermöglichen
+- TOP 18.5: Basketballflächen beleuchten und gut ausstatten
+- TOP 18.6: Bootsverleih Düring am Plötzensee erhalten!
+- TOP 18.7: Bürger*innenbeteiligungskonzept für Neuplanungen zur Entwicklung des Karstadt-Standortes Müllerstraße erarbeiten um Mitspracherecht von Anwohner*innen und Mitarbeiter*innen zum Karstadt am Leopoldplatz zu gewährleisten!
+- TOP 18.8: Geschäftsverteilung und Vertretungsregelungen des BA
