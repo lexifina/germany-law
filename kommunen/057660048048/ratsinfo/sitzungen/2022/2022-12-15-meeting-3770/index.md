@@ -1,0 +1,51 @@
+# Rat (13. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2022-12-15T18:30:00+01:00
+- Ende: 2022-12-15T19:35:00+01:00
+- Ort: Schulzentrum (Bildungscampus), Schulstr. 27a, 33818 Leopoldshöhe, Aula-/Mensagebäude im Schulzentrum
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSwGEYA1mLLuUXdDhmm0E7M
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3770
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYLVFHPHC6B6_jM9EMfVDdV88yhESxI8PP9cxR5-Fe42/Bekanntmachung_Rat_15.12.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS2Bpmy49WZPWQYHYx7E2dJ19HXd4ZeL_084KKVevSEp/Oeffentliche_Niederschrift_Rat_15.12.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 2.: Anfragen der Ratsmitglieder
+- TOP 3.: Informationen des Bürgermeisters
+- TOP 4.: Berichte der gemeindlichen Vertreter/Vertreterinnen aus den Verbänden und sonstigen Gremien
+- TOP 5.: Aufstockung der Stunden für die Gleichstellungsstelle um 15 Stunden auf 30 Stunden - - 18 Ja-Stimme(n), 16 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 6.: Änderung der Hauptsatzung der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 7.: Bestellung eines allgemeinen Vertreters / einer allgemeinen Vertreterin des Bürgermeisters gem. § 68 Abs. 1 S. 4 GO NRW - - 28 Ja-Stimme(n), 1 Nein-Stimme(n), 5 Enthaltung(en) -
+- TOP 8.: Stellenplan 2022/2023 hier: - Änderung des Stellenplans 2023 Teil A: Beamtinnen und Beamte - Änderung der Stellenübersicht 2023 Teil A: Aufteilung nach der Haushaltsgliederung – Beamtinnen und Beamte - - einstimmig -
+- TOP 9.: Bildung einer Einigungsstelle gem. § 67 des Landespersonalvertretungsgesetzes NRW (LPVG NRW) - - einstimmig -
+- TOP 10.: Sportförderrichtlinien hier: Antrag des Sportkegelvereines Greste e.V. - - einstimmig -
+- TOP 11.: Rahmenplanung Brunsheide: städtebauliche Entwicklung hier: Parkierungsanlagen / Quartiersgaragen: Standort, Ausgestaltung und Auswirkung auf die Anzahl der Wohneinheiten - - einstimmig -
+- TOP 12.: Bebauungsplan Nr. 06/07 „Zentrum Süd“ im Bereich der Neuen Straße, Hauptstraße, Schuckenteichweg im Ortsteil Leopoldshöhe hier: - Beratung und Beschluss über die eingegangenen Stellungnahmen der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange gem. § 3 Abs.2 und § 4 Abs. 2BauGB - Satzungsempfehlung an den Rat - Abgesetzt
+- TOP 13.: Neubau Spielplatz Heinrichstraße hier: Neuausschreibung auf Basis einer aktualisierten Planung und Zustimmung zur außerplanmäßigen Auszahlung gem. § 83 GO NRW in Höhe von 34.000 EUR - - 29 Ja-Stimme(n), 0 Nein-Stimme(n), 5 Enthaltung(en) -
+- TOP 14.: Bericht nach § 6 KommunalhaushaltsrechtsanwendungsVO UA–Schutzsuchendenaufnahme (30.09.2022)
+- TOP 15.: Ortsrecht
+- TOP 15.1: Kalkulation der Abfallentsorgungsgebühren und Anpassung der Gebührensatzung für das Jahr 2023 - - einstimmig -
+- TOP 15.2: Gebührenkalkulation Wasser 2023 und Änderung der Beitrags- und Gebührensatzung zur Wasserversorgung der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 15.3: Gebührenkalkulation Abwasser 2023 und 1. Änderung der Satzung über die Erhebung von Kanalanschlussbeiträgen und Abwassergebühren - - einstimmig -
+- TOP 15.4: Gebührenkalkulation Abwasser 2023 und 1. Änderung der Satzung über die Erhebung von Kanalanschlussbeiträgen und Abwassergebühren
+- TOP 16.: Wirtschaftspläne
+- TOP 16.1: Feststellung des Wirtschaftsplanes des WWL für das Wirtschaftsjahr 2023 - - einstimmig -
+- TOP 16.2: Feststellung des Wirtschaftsplanes des AWL für das Wirtschaftsjahr 2023 - - einstimmig -
+- TOP 16.3: Feststellung des Wirtschaftsplanes des AWL für das Wirtschaftsjahr 2023
+- TOP 17.: Jahresabschlüsse
+- TOP 17.1: Jahresabschluss der Gemeinde Leopoldshöhe 2021 - - einstimmig -
+- TOP 17.2: Jahresabschluss LIL für das Wirtschaftsjahr 2021 - - einstimmig -
+- TOP 17.3: Jahresabschluss WWL für das Wirtschaftsjahr 2021 - - einstimmig -
+- TOP 17.4: Jahresabschluss AWL für das Wirtschaftsjahr 2021 - - einstimmig -
+- TOP 17.5: Jahresabschluss KGL für das Wirtschaftsjahr 2021 - - einstimmig -
+- TOP 17.6: Jahresabschlüsse 2020 und 2021, hier: Übersicht über- und außerplanmäßige Aufwendungen und Auszahlungen 2020 und 2021
+- TOP 17.7: Jahresabschluss 2022; hier: Information über eine außerplanmäßigen Auszahlung
+- TOP 17.8: Befreiung vom Gesamtabschluss für das Haushaltsjahr 2020 Aufhebung Beschluss DS 89/2020 und erneute Beschlussfassung - - einstimmig -
+- TOP 17.9: Befreiung vom Gesamtabschluss für das Haushaltsjahr 2021 Aufhebung Beschluss DS 60/2021 und erneute Beschlussfassung - - einstimmig -
+- TOP 18.: Antrag der SPD Fraktion auf Ausschussumbesetzung
