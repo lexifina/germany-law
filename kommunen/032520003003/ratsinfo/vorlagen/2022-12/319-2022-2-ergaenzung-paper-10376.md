@@ -1,0 +1,36 @@
+# Haushaltssatzung und Haushaltsplan der Stadt Bad Pyrmont für das Haushaltsjahr 2023 - Anträge zum Haushalt -
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 319/2022 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2022-12-15
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfRWZPtQlugBrffvzYUcc68
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10376
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Haushaltsplan der Stadt Bad Pyrmont für das Haushaltsjahr 2023
+- Anträge zum Haushalt -) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSvr7Kns11tEgfYcQxjN8_q5d11lLER0t2T9BOSeBE6A/Beschlussvorlage_319-2022_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Informationstafeln) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf9z8vwz6p-JNsKSlA5KZDL99l0jZzmdY1mbli1g1Xo0/Antrag_INTAKT_Informationstafeln.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Mannschaftswagen Feuerwehr) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVzaZSIb-Gwbsrg623ffKdNGK9CWQ9tqbknfOA54sBf0/Antrag_INTAKT_Mannschaftswagen_Feuerwehr.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Regenwassermanagement) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYCv5BwPqgxVD0Kmc0yG88mlCSZ4Rh0RtZ57gcvAniAn/Antrag_INTAKT_Regenwassermanagement.pdf
+- Anlage: Beschlussvorlage (Antrag OV Gemeindeverbindungsweg) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcQyU7zaJySMqi9WrAHnmB5XNqSC58i6Ck3XmdBu0uBd/Antrag_OV_Gemeindeverbindungsweg.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Straßenbau) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcpMhvgpGEfJM5XOiIHTvFrjgZrEJzcL44inJyAvTrKX/Antrag_INTAKT_Strassenbau.pdf
+- Anlage: Beschlussvorlage (Antrag OR Löwensen Kinderspielplatz) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT9PqJ5zjMZilvWqIpqFq26LhkYFJvT5nwrkCFDnCXcn/Antrag_OR_Loewensen_Kinderspielplatz.pdf
+- Anlage: Beschlussvorlage (Antrag OR Löwensen Friedhof) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUZWv_2wvoeWcldbrsAYsnDt6t7bY3YFFqfDDO7SVRQj/Antrag_OR_Loewensen_Friedhof.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP vom 28.11.2022) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRwtWzZ3FN0EadtoeAUQH_tEIOUBPibzj76wnO6y2N-O/Antrag_CDU_Kueppers_FDP_vom_28.11.2022.pdf
+- Anlage: Beschlussvorlage (Antrag SPD WIR Kommunale Wärmeplanung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcLm8nBehwPoxyETV7HY40kyb0DVbqdo2UZn7Zo9_40j/Antrag_SPD_WIR_Kommunale_Waermeplanung.pdf
+- Anlage: Beschlussvorlage (Antrag SPD WIR Einrichtung einer Stabsstelle) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc_AJrjn3pGr_Wu3CP3Y6YHEjNNWFb5V8pNKzH3K8Wb0/Antrag_SPD_WIR_Einrichtung_einer_Stabsstelle.pdf
+- Anlage: Beschlussvorlage (Antrag SPD WIR Ganztagsbetreuung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfSvEEWcalgjXiJW5piO3SUlkm03SP3-gOIru50inCel/Antrag_SPD_WIR_Ganztagsbetreuung.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Radwegekonzept) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSETGsTLUwPGXr-YMB2VQIkJsfEcmetCNnYcn4HnMYwe/Antrag_INTAKT_Radwegekonzept.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Westfassade Kindergarten) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUB_dziqWo9bi8agKYRh8rIt0b--v0vRoN5_oQlC0YGk/Antrag_INTAKT_Westfassade_Kindergarten.pdf
+- Anlage: Beschlussvorlage (Antrag Bündnis 90 Die Grünen Die Linke Radverkehrskonzept) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTuduz09RM62envHW4lZA_eJinlt6N6arTdSmcP1SZFP/Antrag_Buendnis_90_Die_Gruenen_Die_Linke_Radverkehrskonzept.pdf
+- Anlage: Beschlussvorlage (Antrag Bündnis 90 Die Grünen Die Linke Sanierungsfahrpläne) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTBTFEF0V7yuoCg9-FjXaPqLuKLcwiFlbGjv06bH2zcs/Antrag_Buendnis_90_Die_Gruenen_Die_Linke_Sanierungsfahrplaene.pdf
+- Anlage: Beschlussvorlage (Antrag Bündnis 90 Die Grünen Die Linke Kompensation Baumfällungen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaeio65tRp0juJxgzaThu7Gj-csrU2uj5tSGm3f7Lw3-/Antrag_Buendnis_90_Die_Gruenen_Die_Linke_Kompensation_Baumfaellungen.pdf
+- Anlage: Beschlussvorlage (Antrag Gruppe CDU Küppers FDP Videoüberwachung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc3nvsgogIf10orQkgPDEWFHubNxkEqDxX8sa8D6-LGP/Antrag_Gruppe_CDU_Kueppers_FDP_Videoueberwachung.pdf
+- Anlage: Beschlussvorlage (Antrag SDP WIR Elektronisches Terminanmeldesystem) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWXSVGnH_bqwtz-2_xWkeFiZv1QdCtMYJqwuxDEUQpAI/Antrag_SDP_WIR_Elektronisches_Terminanmeldesystem.pdf
+- Anlage: Beschlussvorlage (Antrag SPD WIR Geh- und Fahrradweg Südstraße) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVqC8hsefSOgeBvtiCmf9NThCQ3YC0ANMcyps564HrYf/Antrag_SPD_WIR_Geh-_und_Fahrradweg_Suedstrasse.pdf
+- Anlage: Beschlussvorlage (Antrag SPD WIR Ausbau Imm.-Kant-Straße) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeWuBa0JYDVvd6--pLAX9Vq18r7-Lnct2aH_UJ0te1iG/Antrag_SPD_WIR_Ausbau_Imm.-Kant-Strasse.pdf
+- Anlage: Beschlussvorlage (Antrag SPD WIR Sanierung Treppe Rathausstraße 7) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSBBQGhDe2Kr6MYi-ZGQY-z2ijPI2HIeXBAojclaXKiB/Antrag_SPD_WIR_Sanierung_Treppe_Rathausstrasse_7.pdf
+- Anlage: Beschlussvorlage (Email von Bad Pyrmont INTAKT Feuerwehrmannschaftswagen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYgMusoaPV8Hyv9PZhHcC_Q8yFASwRZx4TgcJKojuXKr/Email_von_Bad_Pyrmont_INTAKT_Feuerwehrmannschaftswagen.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20742 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20700 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
