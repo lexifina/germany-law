@@ -1,0 +1,95 @@
+# 45. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2022-12-15T16:00:00+01:00
+- Ende: 2022-12-15T22:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/11329
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/11329
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_oU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00652846.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 3: Aktuelle Stunde zum Thema „Flüchtlingskarawane überrollt Dresden“ - erledigt
+- TOP 4: Resolution des Dresdner Stadtrates für ein Flüchtlingsmoratorium - Ablehnung
+- TOP 5: Fragerunde (1 Runde) - erledigt
+- TOP 6: Einwendungen gegen den Entwurf der Haushaltssatzung 2023/2024 gemäß § 76 SächsGemO - Zustimmung
+- TOP 7: Haushaltssatzung 2023/2024 und Wirtschaftspläne der Eigenbetriebe 2023/2024 - Zustimmung
+- TOP 8: Anpassungen des Parkraummanagements, der Tarife und der Organisation des ÖPNV als Beitrag zur Sicherung des ÖPNV in der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 9: Satzung zur Änderung Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 10: Errichtung einer Pumptrack-Anlage im Dresdner Westen - Umsetzung der Petition P0037/20 - Zustimmung
+- TOP 11: Fortsetzung der Maßnahmen zur Belebung der Innenstadt im Rahmen der Sondernutzungssatzungen für das Jahr 2023 - punktweise Zustimmung mit Änderung
+- TOP 12: Abschluss einer Verständigungsvereinbarung zum Abwasserentsorgungsvertrag (AEV) zwischen der Landeshauptstadt Dresden und der Stadtentwässerung Dresden GmbH - Zustimmung
+- TOP 13: Vergabe Planung/Errichtung Schulbauvorhaben „Berufliches Schulzentrum für Agrarwirtschaft u. Ernährung Dresden, Schulstandort Altroßthal, Altroßthal 1, 01169 Dresden, Neubau Einfeldsporthalle“ an die STESAD GmbH auf Grundlage der Bedarfsplanung 1.0 - Zustimmung
+- TOP 14: Neufassung der Rettungsdienstgebührensatzung der Landeshauptstadt Dresden ab 1. Januar 2023 - Zustimmung mit Änderung
+- TOP 15: Satzung der Landeshauptstadt Dresden über die Feuerwehr (Feuerwehrsatzung) - Zustimmung mit Änderung
+- TOP 16: Entscheidung über die Zulässigkeit des Bürgerbegehrens DresdenZero: Klimaneutralität für Dresden bis 2035 - punktweise Zustimmung mit Änderung
+- TOP 17: Entgeltfreie Angebote für Kinder und Jugendliche in kommunalen Kultureinrichtungen - Zustimmung
+- TOP 18: Instandsetzung Stauffenbergallee von Rudolf-Leonhard-Straße bis Hammerweg - Zustimmung
+- TOP 19: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Vertagung
+- TOP 20: Wahl des/der Beigeordneten für den Geschäftskreis Arbeit, Soziales, Gesundheit und Wohnen - Vertagung
+- TOP 21: Wahl des/der Beigeordneten für den Geschäftskreis Ordnung und Sicherheit - Vertagung
+- TOP 22: Wahl des/der Beigeordneten für den Geschäftskreis Finanzen, Personal und Recht - Vertagung
+- TOP 23: Wahl des/der Beigeordneten für den Geschäftskreis Umwelt und Kommunalwirtschaft - Vertagung
+- TOP 24: Wahl des/der Beigeordneten für den Geschäftskreis Kultur und Tourismus - Vertagung
+- TOP 25: EILANTRAG: Anpassung der Anzahl der Mitglieder beschließender Ausschüsse - Ersetzung - punktweise Abstimmung
+- TOP 25.1: Umbesetzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit - Vertagung
+- TOP 25.2: Umbesetzung des Ausschusses für Finanzen - Vertagung
+- TOP 25.3: Umbesetzung des Ausschusses für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Einigung
+- TOP 25.4: Umbesetzung des Ausschusses für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Vertagung
+- TOP 25.5: Umbesetzung des Ausschusses für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Vertagung
+- TOP 25.6: Umbesetzung des Ausschusses für Soziales und Wohnen - Einigung
+- TOP 25.7: Umbesetzung des Ausschusses für Gesundheit (Eigenbetrieb Städtisches Klinikum) - Einigung
+- TOP 25.8: Umbesetzung des Ausschusses für Sport (Eigenbetrieb Sportstätten) - Vertagung
+- TOP 25.9: Umbesetzung des Ausschusses für Wirtschaftsförderung - Einigung
+- TOP 25.10: Umbesetzung des Ausschusses für Umwelt und Kommunalwirtschaft (Eigenbetrieb friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Vertagung
+- TOP 25.11: Umbesetzung des Ausschusses für Petitionen und Bürgerbeteiligung - Vertagung
+- TOP 26: Wahl einer sachkundigen Einwohnerin bzw. eines sachkundigen Einwohners in den Ausschuss für Soziales und Wohnen - gewählt
+- TOP 27: Umbesetzung im Jugendhilfeausschuss - Einigung
+- TOP 28: Nachbesetzung im Seniorenbeirat gemäß § 25 Abs. 4 Hauptsatzung - Einigung
+- TOP 29: Umbesetzung im Wohnbeirat - Einigung
+- TOP 30: Tagesordnungspunkte ohne Debatte
+- TOP 31: Ausrichtung der Bundesgartenschau 2033 in der Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 32: Erwerb von Flurstücken in den Gemarkungen Dobritz, Laubegast und Leuben - Zustimmung
+- TOP 33: Fortschreibung Personalentwicklungskonzept der Stadtverwaltung Dresden - Zustimmung
+- TOP 34: Bestellung eines Wirtschaftsprüfers für die Jahresabschlüsse 2022 bis 2024 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 35: Ausreichung eines Trägerdarlehens an den Eigenbetrieb Sportstätten Dresden zur Finanzierung der Mehrkosten für den Um- und Ausbau des Heinz-Steyer-Stadions - Zustimmung
+- TOP 36: Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (FFRL Stadtbezirke) unter Abänderung des Beschlusses V2524/18 vom 13. Dezember 2018 - Zustimmung mit Änderung
+- TOP 37: Bestätigung der Fachförderrichtlinien der Ortschaften 2022 - Zustimmung
+- TOP 38: Weiterentwicklung der AG 13. Februar zu einem Beirat für Erinnerungskultur - Zustimmung
+- TOP 39: Bestätigung der Vision und der Handlungsfelder der Tourismusstrategie für die Landeshauptstadt Dresden und Umsetzung der Maßnahmen - Zustimmung
+- TOP 40: Bebauungsplan Nr. 3046, Dresden-Hellerau Nr. 15, Rähnitz Nord - Zustimmung
+- TOP 41: Vorhabenbezogener Bebauungsplan Nr. 6052, Dresden-Altstadt I, NetWorkHub Wiener Platz West - Zustimmung
+- TOP 42: Entwurf zur Gestaltung und Aufwertung der innerstädtischen Freiräume im „Grünen Bogen“ - Zustimmung
+- TOP 43: Bebauungsplan Nr. 398.C, Dresden-Strehlen Nr. 8, Wissenschaftsstandort Dresden-Ost, Teilbereich 1.C - Zustimmung
+- TOP 44: Leitziele für Mobilität in Dresden 2035+ - Zustimmung
+- TOP 45: Vertagungen aus der Sitzung vom 24./25.11.2022
+- TOP 45.1: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung durch Einreicher
+- TOP 45.2: Keine Kürzungen bei Bus und Bahn. Gutachterirrsinn beenden. Dresdner Verkehrsbetriebe stärken! - Vertagung nach 22 Uhr
+- TOP 45.3: Wiedereinführung von Oberleitungsbussen in Dresden - Vertagung durch Einreicher
+- TOP 45.4: Starthilfe für Studierende, Auszubildende und Freiwilligendienstleistende - Vertagung durch Einreicher
+- TOP 45.5: Dresden für junge Menschen attraktiver machen: Clubkultur retten - Vertagung nach 22 Uhr
+- TOP 45.6: Messer, Weste, nackte Wampe – Kleiderordnung in die Geschäftsordnung des Stadtrates der Landeshauptstadt Dresden aufnehmen - Vertagung durch Einreicher
+- TOP 45.7: Einrichtung einer Beratungsstelle für Bürger bei Impfnebenwirkungen und Impffolgeschäden - Vertagung nach 22 Uhr
+- TOP 45.8: Versorgungssicherheit in Dresden - Vertagung nach 22 Uhr
+- TOP 45.9: EILANTRAG: Spielbetrieb auf den Dresdner Sportplätzen gewährleisten – dringend notwendige Instandsetzungsmaßnahmen kurzfristig umsetzen - zurückgezogen
+- TOP 45.10: Ein Toilettenkonzept für Dresden - Zustimmung mit Änderung
+- TOP 45.11: Ein Platz der Kinderrechte für Dresden - Vertagung nach 22 Uhr
+- TOP 45.12: Keine Fahrpreiserhöhung 2023 - Vertagung nach 22 Uhr
+- TOP 45.13: Entscheidung über die zukünftige Höhe der Nahverkehrstarife im Verkehrsverbund Oberelbe abgestimmt auf Beschluss zu Vorlage V1883/22 - zurückgezogen
+- TOP 46: Neuordnung der Fahrspuren auf der Güntzstraße im Kreuzungsbereich zur Pillnitzer Straße und Striesener Straße - Vertagung durch Einreicher
+- TOP 47: Tempo 30 als Regelhöchstgeschwindigkeit in einem Stadtgebiet erproben – für mehr Sicherheit, weniger Lärm und bessere Luft - Vertagung nach 22 Uhr
+- TOP 48: Schaffung einer öffentlichen Naturschutz-, Grün- und Sportfläche statt eines Parkplatzes auf dem „DREWAG-Gelände“ (Marta-Fraenkel-Straße) - Zustimmung
+- TOP 49: Sicher zur Schule mit dem Fahrrad oder zu Fuß - Vertagung nach 22 Uhr
+- TOP 50: Umwandlung Gaußstraße in verkehrsberuhigte Zone - Vertagung durch Einreicher
+- TOP 51: Modellversuch kostenfreies Parken bei Veranstaltungen und an ausgewählten Wochenenden - Vertagung durch Einreicher
+- TOP 52: Umplanung Magdeburger Straße: Zwei MIV-Spuren reichen - Straßen für Alle durch rationale Verkehrsplanung - Vertagung nach 22 Uhr
+- TOP 53: Sanierung der Stauffenbergallee West - Vertagung nach 22 Uhr
+- TOP 54: Sanierung der Königsbrücker Straße zwischen Albertplatz und Stauffenbergallee – Maßnahmen zur Beschleunigung der Planfeststellung und zur Realisierung - Vertagung durch Einreicher
+- TOP 55: Die Subventionierung öffentlicher Parkplätze beenden - Für eine Gleichbehandlung aller Mobilitätsformen sorgen! - Vertagung
+- TOP 56: Prämie für Beschäftigte im Gesundheitsamt für ihre besonderen Leistungen während der Corona-Pandemie 2020/21/22 - Vertagung durch Einreicher
