@@ -1,0 +1,110 @@
+# 13. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2022-12-15T16:30:00+01:00
+- Ende: 2022-12-15T19:44:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6312
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6312
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=392183
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - vertagt
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Abberufung eines beratenden und eines stellvertretenden beratenden Mitgliedes sowie Berufung eines beratenden Mitgliedes und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - gewählt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-11 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Benennung der neu angelegten Erschließungsstraße Richtung Spree sowie der Haltestelle "Schnellerstr. 135" nach Hans Otto Obrikat - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Umgestaltung des Gesamtensembles aus Bohnsdorfer Dorfanger und Dorfkirche - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Waldweg zwischen S-Bahnhof Hirschgarten und dem Waldburgweg fahrradfreundlich ertüchtigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Verkehrssicherheit vor der Müggelheimer Grundschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Verkehrssicherheit am Ortseingang Müggelheim - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.6: Beteiligung an der Entwicklung des ehemaligen Güterbahnhofs Köpenick ermöglichen und transparenter gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.7: Neue Bushaltehaltestelle an der Straße "Am Seegraben" für die Linie 163 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Grünauer Schleife in die Investitionsplanung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Sichere Überquerung der Bruno-Taut-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Radweg Oberspreestraße an die Fahrbahn einschwenken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Radwegeschäden beseitigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Umbenennung bzw. Benennung einer Straße in Bohnsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Sanierung Radweg Müggelheimer Straße zwischen Wendenschloßstraße und dem Köllnischen Platz - überwiesen
+- TOP 8.2.7: Verkehrssicherheit am Müggelschlößchenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.8: Tempo 30 auf dem östlichen Müggelseedamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Japanische Kirschbäume zur Deutschen Einheit an der Lohmühlenbrücke nachpflanzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.10: Wegsanierung am Landwehrkanal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.11: Bessere Sicht für Fußgängerinnen und Fußgänger durch Fahrradabstellanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.12: Bedarfsampel in der Oberspreestraße installieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.13: Gehwegmarkierung in der Lindenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.14: Reparatur der Parkbänke in der Wuhlheide (Eichgestell) in Oberschöneweide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.15: Mahd im Sommer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.16: Benennung des Bahnhofsvorplatzes am S-Bhf. Wilhelmshagen nach Dagobert Wiesmüller - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.17: Klimaprojekt für Alt-Treptow und den Schmollerplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.18: Ausbau von Zisternen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.20: Verlängerung der Grünphase für Fußgänger /-innen und Radfahrende an der Ampelanlage Oberspreestraße / Spindlersfelder Straße (Brücke) - überwiesen
+- TOP 8.2.21: Sanierung des Straßenbereiches Lahmertstraße / Walchenseestraße in Grünau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.22: Sondergenehmigungen für erweiterte Schankvorgärten für die Gastronomie verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.23: Kostenlose Toiletten für alle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Planreifeerklärung für den vorhabenbezogenen Bebauungsplan 9-56 VE ("Anne-Frank-Straße") - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Aufhebung der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung für das Gebiet Niederschöneweide und Neuerlass der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung für das Gebiet Niederschöneweide mit neuem Geltungsbereich - überwiesen
+- TOP 9.3: Aufhebung der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung für das Gebiet Oberschöneweide und Neuerlass der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung für das Gebiet Oberschöneweide mit neuem Geltungsbereich - überwiesen
+- TOP 9.4: Gründung eines Gymnasiums am Standort Kiefholzstr. 274, 12437 Berlin - überwiesen
+- TOP 9.5: Bezirkshaushaltsrechnung 2021 - überwiesen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Verkehrssicherheit am Heidemühler Weg Ecke Dornbrunner Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Müggelseedamm für Radfahrende sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Einkaufsmöglichkeit im Allende 1 aufrechterhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Plexiglasscheiben in BVG-Wartehäuschen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Baumschule Späth - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Brückenschlag des Mauerweges am Heidekampgraben über den Britzer Verbindungskanal - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Wirtschaftsflächenkonzept Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Neuer Bahnhof an der Ringbahn: S-Bahnhof Kiefholzstraße planen und umsetzen und Alt-Treptow und Plänterwald besser erschließen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Hilfen bei Long-COVID- und Post-COVID-Syndrom - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Mehr Kita- und Grundschulplätze für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Verlängerung der Buslinie 365 entlang der Straße An der Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Klare Verkehrsführung für alle – Radfahrampel an der Kreuzung Michael-Brückner-Straße / Sterndamm installieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Rollsportarten in der Sportentwicklungsplanung berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Bauzeitliche Verbesserung der Beleuchtung an der Wendeschleife am Sterndamm - in der BVV zurückgezogen
+- TOP 10.15: Ringlinie zwischen dem Krankenhaus Köpenick und Wendenschloß im Nahverkehrsplan 2024 - 2027 berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Musikschulen rechtzeitig planen: Ein Musikschulstandort in Friedrichshagen - in der BVV abgelehnt
+- TOP 10.17: Ausweitung des Angebotes rein pflanzlicher Speisen auf Veranstaltungen des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Räume für das zu etablierende Familienservicebüro Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Informationsveranstaltungen zur neuen Grundsteuererklärung kurzfristig anbieten - in der BVV abgelehnt
+- TOP 10.20: Energiekosten bei Sportanlagen durch Photovoltaik senken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan 9-78 B ("Gewerbequartier BAE"), Ortsteil Oberschöneweide - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Radwegeplanung auf dem Sterndamm anregen - überwiesen
+- TOP 12.2: Benennung eines Wegs in der Wuhlheide nach Hildegard Schneider - überwiesen
+- TOP 12.3: Das Kinderschutzsiegel des Landessportbundes für unsere Vereine - überwiesen
+- TOP 12.4: Erinnerung an den ehemaligen Flugplatz Johannisthal - überwiesen
+- TOP 12.5: Zeitweiliger Ausschuss "Alternative Wohnprojekte" - überwiesen
+- TOP 12.6: Busspur Bahnhof Schöneweide vor Kreuzung einsetzen - überwiesen
+- TOP 12.7: Apps für psychische Gesundheit im Bezirk - überwiesen
+- TOP 12.8: Bezirkliche Schwangerschafts- und Schwangerschaftskonfliktberatung nach § 219 StGB - überwiesen
+- TOP 12.9: Sportanlage Wendenschloßstraße 182 - überwiesen
+- TOP 12.10: Moratorium bis zum 12. Februar 2023 für die Kiezkassen - im Ältestenrat zurückgezogen
+- TOP 12.11: Ein regelmäßiger Wochenmarkt für Johannisthal - überwiesen
+- TOP 12.12: Elcknerplatz für Fußgänger sicher machen - überwiesen
+- TOP 12.13: Realisierung von zwei angeordneten Fußgängerüberwegen - vertagt
+- TOP 12.14: Unterstützung der standortungebundenen Kinder- und Jugendarbeit in Treptow-Köpenick - überwiesen
+- TOP 12.15: Bezirkliche Stillambulanz und Stillhotline - überwiesen
+- TOP 12.16: Einrichtung einer Buslinie in der Kiefholzstraße - überwiesen
+- TOP 12.17: Zwei autarke Toiletten für Treptow-Köpenick - überwiesen
+- TOP 12.18: Mehr Mittel zur Förderung der psychischen Gesundheit im Bezirk - überwiesen
+- TOP 12.19: Gefahren an den Kreuzungen des Mauerwegs entschärfen - überwiesen
+- TOP 12.20: Heinrich-Reinhardt-Platz und Georg-Süßenguth-Platz in Baumschulenweg - überwiesen
+- TOP 12.21: Querungshilfe für Fußgänger Kiefholzstraße / Puderstraße - überwiesen
+- TOP 12.22: Bewusstsein für Einsatz- und Ordnungskräfte in der Bevölkerung stärken - überwiesen
+- TOP 12.23: Gesicht zeigen für die Demokratie in Treptow-Köpenick: Maskenzwang abschaffen! - überwiesen
+- TOP 13: Große Anfragen - (offen)
