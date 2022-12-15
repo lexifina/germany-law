@@ -1,0 +1,54 @@
+# Rat (16. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2022-12-15T17:00:00+01:00
+- Ende: 2022-12-15T18:59:00+01:00
+- Ort: Ludewigs-Landhaus, Barler Straße 17, 32369 Rahden, Ludewigs-Landhaus
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSoCWyqZZyniEtfRKiD5PwQ
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2429
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeg1dirjopgrCLkuOqJK-1xh_mvGw4-21cdqKlhHoyRa/Bekanntmachung_Rat_15.12.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeNVmMzNZlTC3aiowIrNP4bgJkUGsmGpEj2YZ97oxo9K/Oeffentliche_Niederschrift_Rat_15.12.2022.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Verpflichtung und Einführung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 5.: Personelle Veränderungen in einzelnen Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 6.: Entwurf der Haushaltssatzung 2023 mit Haushaltsplan und Anlagen - Ohne Abstimmung
+- TOP 7.: Bericht über Aufwendungen und Erträge für die Aufnahme von Schutzsuchenden aus der Ukraine zum 30.09.2022 - Ohne Abstimmung
+- TOP 8.: Ausrüstungsprogramm der Freiwilligen Feuerwehr der Stadt Rahden für das Jahr 2023 (Finanzplan) - Einstimmig, 0 Enthaltungen
+- TOP 9.: Beschaffung, Wartung und Reparatur von persönlichen und sächlichen Ausrüstungsgegenständen im Jahr 2023 für die Freiwillige Feuerwehr und Jugendfeuerwehr der Stadt Rahden (Ergebnisplan) - Einstimmig, 0 Enthaltungen
+- TOP 10.: Satzung über die Erhebung von Gebühren für die Durchführung der Brandverhütungsschau in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 11.: Beschaffung eines Mehrzweckfahrzeugs (MZF) für die Löschgruppe Varl-Sielhorst - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bestellung eines stellvertretenden Leiters der Freiwilligen Feuerwehr der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bildung von Eingangsklassen im Schuljahr 2023/24 und Verteilung auf die Grundschulen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 14.: Energiesparmaßnahmen im Bereich Straßenbeleuchtung hier: Evaluierung bisheriger Umsetzungen - 18 Stimmen dafür, 7 dagegen, 0 Enthaltungen
+- TOP 14.1: Anhebung der Wassertemperatur im Hallenbad
+- TOP 15.: Antrag der CDU-Fraktion Rahden zur Hallenbadbeleuchtung - Einstimmig, 0 Enthaltungen
+- TOP 16.: Antrag der CDU-Fraktion Rahden zum Ausbau von Radwegen - Einstimmig, 0 Enthaltungen
+- TOP 17.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2023 - Einstimmig, 0 Enthaltungen
+- TOP 18.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2023 - Einstimmig, 0 Enthaltungen
+- TOP 19.: Erlass einer 7. Änderungssatzung der Betrags- und Gebührensatzung zur Wasserversorgungssatzung der Stadt Rahden vom 30.06.2005 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2023 - Einstimmig, 0 Enthaltungen
+- TOP 21.: Neuaufstellung des Regionalplanes OWL für den Regierungsbezirk Detmold; hier: Beschlussfassung der Stadt Rahden zu den Ausgleichsvorschlägen der Bezirksregierung Detmold - 22 Stimmen dafür, 2 dagegen, 1 Enthaltungen
+- TOP 22.: Aufstellung des Bebauungsplanes Nr. 102 "Kleinendorf – 2. Erweiterung Holunderweg" zur Ausweisung einer Wohnbaufläche in der Ortschaft Kleinendorf hier: Beratung und Beschlussfassung über die Aufstellung des Bebauungsplanes im Verfahren gem. § 13b i.V.m. § 13a Baugesetzbuch (BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 23.: Aufstellung des Bebauungsplanes Nr. 105 "Sielhorst – 2. Erweiterung Dr.-Grote-Weg" zur Ausweisung einer Wohnbaufläche in der Ortschaft Sielhorst hier: Beratung und Beschlussfassung über die Aufstellung des Bebauungsplanes im Verfahren gem. § 13b i.V.m. § 13a Baugesetzbuch (BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 24.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 25.: Antrag auf finanzielle Hilfen für die Museumseisenbahn - 23 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 26.: Vertragsangelegenheiten Stadtfest - 14 Stimmen dafür, 12 dagegen, 0 Enthaltungen
+- TOP 27.: Abgabenangelegenheiten - Ohne Abstimmung
+- TOP 28.: Antrag auf Förderung der Ausbildung von Fachärztinnen und Fachärzten in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 29.: Antrag auf Wirtschaftsförderung - Einstimmig, 0 Enthaltungen
+- TOP 30.: Antrag auf Wirtschaftsförderung - Einstimmig, 0 Enthaltungen
+- TOP 31.: Antrag auf Wirtschaftsförderung - Einstimmig, 0 Enthaltungen
+- TOP 32.: Angelegenheiten der Wirtschaftsförderung - Einstimmig, 0 Enthaltungen
+- TOP 33.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34.: Bekanntgaben und Anfragen
