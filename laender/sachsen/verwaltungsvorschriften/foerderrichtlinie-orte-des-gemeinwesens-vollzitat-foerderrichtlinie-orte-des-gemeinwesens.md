@@ -1,8 +1,8 @@
 # Förderrichtlinie Orte des Gemeinwesens Vollzitat: Förderrichtlinie Orte des Gemeinwesens
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-07-09 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19219.1
+- Datum: 2022-12-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19219.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-09.07.2021
+16.12.2022
 bis
-15.12.2022
+30.06.2023
 
 Förderrichtlinie Orte des Gemeinwesens
 
@@ -41,7 +41,7 @@ Zuwendungszweck, Rechtsgrundlagen
 
 1.
 
-Der Freistaat Sachsen gewährt nach den §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in den jeweils geltenden Fassungen und nach Maßgabe dieser Richtlinie Zuwendungen zur Förderung des sozialen Miteinanders im Freistaat Sachsen und der demokratischen Kultur im lokalen Gemeinwesen.
+Der Freistaat Sachsen gewährt nach den §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. Dezember 2021 (SächsABl. 2022 S. 2) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), in den jeweils geltenden Fassungen und nach Maßgabe dieser Richtlinie Zuwendungen zur Förderung des sozialen Miteinanders im Freistaat Sachsen und der demokratischen Kultur im lokalen Gemeinwesen.
 
 2.
 
@@ -191,7 +191,7 @@ Im Vorfeld der Antragstellung ist ein Interessenbekundungsverfahren durchzuführ
 
 3.
 
-Die Interessenbekundung muss zu einem bestimmten Stichtag erfolgen, auf den mindestens einen Monat zuvor im Sächsischen Amtsblatt hingewiesen wurde. Die Auswahlkritierien werden mit dem Aufruf zur Interessenbekundung bekannt gemacht.
+Die Interessenbekundung muss zu einem bestimmten Stichtag erfolgen, auf den mindestens einen Monat zuvor im Sächsischen Amtsblatt hingewiesen wurde. Die Auswahlkriterien werden mit dem Aufruf zur Interessenbekundung bekannt gemacht.
 
 4.
 
@@ -310,7 +310,7 @@ Investitionen können gefördert werden, wenn sie zur Gestaltung eines Ortes der
 
 5.
 
-Der Eigenanteil im Projekt kann durch projektbezogene unbare Leistungen des Zuwendungsempfängers erbracht werden. Diese können als Arbeitsleistungen in Form von unbezahlten freiwilligen Arbeitsstunden erfolgen; die Stundenbewertung entspricht der Höhe des jeweils gültigen Mindestlohns gemäß § 1 Absatz 2 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt durch Artikel 2 Absatz 1 des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1657) geändert worden ist. Der Wert der unbaren Leistungen darf 5 000 Euro pro Maßnahme und Zuwendungsempfänger nicht übersteigen. Der Wert der unbaren Leistungen muss im Einzelnen in der Antragsstellung und im Verwendungsnachweisverfahren dargestellt werden.
+Der Eigenanteil im Projekt kann durch projektbezogene unbare Leistungen des Zuwendungsempfängers erbracht werden. Diese können als Arbeitsleistungen in Form von unbezahlten freiwilligen Arbeitsstunden erfolgen; die Stundenbewertung entspricht der Höhe des jeweils gültigen Mindestlohns gemäß § 1 Absatz 2 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt durch Artikel 1 des Gesetzes vom 28. Juni 2022 (BGBl. I S. 969) geändert worden ist. Der Wert der unbaren Leistungen darf 5 000 Euro pro Maßnahme und Zuwendungsempfänger nicht übersteigen. Der Wert der unbaren Leistungen muss im Einzelnen in der Antragsstellung und im Verwendungsnachweisverfahren dargestellt werden.
 
 
 VI.
@@ -318,7 +318,7 @@ Verfahren
 
 1.
 
-Bewilligungsbehörde ist das Sächsische Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung.
+Bewilligungsbehörde ist die Sächsische Aufbaubank – Förderbank.
 
 2.
 
@@ -326,19 +326,19 @@ Im Vorfeld der Antragstellung ist ein Interessenbekundungsverfahren durchzuführ
 
 3.
 
-Die Interessenbekundung muss zu einem bestimmten Stichtag erfolgen, auf den mindestens einen Monat zuvor im Sächsischen Amtsblatt hingewiesen wurde. Die Auswahlkritierien werden mit dem Aufruf zur Interessenbekundung bekannt gemacht.
+Die Interessenbekundung muss zu einem bestimmten Stichtag erfolgen, auf den mindestens einen Monat zuvor im Sächsischen Amtsblatt hingewiesen wurde. Die Auswahlkriterien werden mit dem Aufruf zur Interessenbekundung bekannt gemacht.
 
 4.
 
-Die Bewilligungsbehörde überprüft sowohl die Eignung der interessierten Träger als auch die Eignung der von ihnen vorgelegten Konzepte im Hinblick auf den Zuwendungszweck. Hält sie die Eignung eines Trägers und seines Konzeptes für gegeben, fordert sie ihn auf, einen Förderantrag zu stellen.
+Die Bewilligungsbehörde nimmt eine zuwendungsrechtliche und formale Prüfung der eingegangenen Konzepte vor und leitet diese an das Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung weiter, das sowohl die Eignung der interessierten Träger als auch die Eignung der von ihnen vorgelegten Konzepte im Hinblick auf den Zuwendungszweck überprüft.
 
 5.
 
-Die Bewilligungsbehörde hat vor Aufforderung zur Antragstellung die Stellungnahme eines Beirates einzuholen.
+Das Sächsische Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung hat im Rahmen seiner fachlichen Prüfung die Stellungnahme eines Beirates einzuholen. Das Ergebnis der fachlichen Prüfung wird der Bewilligungsbehörde übermittelt. Ist die Eignung eines Trägers und seines Konzeptes gegeben, fordert die Bewilligungsbehörde ihn auf, einen Förderantrag zu stellen. Die Bewilligungsbehörde kann nur im Einvernehmen mit dem Sächsischen Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung zur Antragstellung auffordern.
 
 6.
 
-Der Beirat wird von der Bewilligungsbehörde berufen und hat ausschließlich beratende Funktion. Seine Mitglieder sind persönlich und fachlich unabhängig tätig. Sie werden nicht als Repräsentantinnen oder Repräsentanten von bestimmten Institutionen berufen, sondern allein wegen ihrer Sachkunde. Gleichwohl soll der Beirat in seiner Zusammensetzung eine große Bandbreite von Bereichen widerspiegeln, die für den Fördergegenstand relevant sind. Es sollen insbesondere Fachleute aus Landesbehörden oder Kommunalverwaltungen, der politischen Bildung, der Wissenschaft und der Zivilgesellschaft berufen werden.
+Der Beirat wird vom Sächsischen Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung berufen und hat ausschließlich beratende Funktion. Seine Mitglieder sind persönlich und fachlich unabhängig tätig. Sie werden nicht als Repräsentantinnen oder Repräsentanten von bestimmten Institutionen berufen, sondern allein wegen ihrer Sachkunde. Gleichwohl soll der Beirat in seiner Zusammensetzung eine große Bandbreite von Bereichen widerspiegeln, die für den Fördergegenstand relevant sind. Es sollen insbesondere Fachleute aus Landesbehörden oder Kommunalverwaltungen, der politischen Bildung, der Wissenschaft und der Zivilgesellschaft berufen werden.
 
 7.
 
@@ -368,9 +368,9 @@ Fsn-Nr.: 5500-V21.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  9. Juli 2021
+Fassung gültig ab: 16. Dezember 2022
 
-Fassung gültig bis: 15. Dezember 2022
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -395,7 +395,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19219.1
+https://www.revosax.sachsen.de/vorschrift/19219.2
 Stand vom
 18.11.2026
 
