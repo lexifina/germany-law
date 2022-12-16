@@ -1,0 +1,84 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2022-12-16T16:00:00+01:00
+- Ende: 2022-12-16T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5985
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/5985
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 16.12.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00177352.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 16.12.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00177352.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 16.12.2022 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00177352.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Sportausschuss
+- TOP 5: Sanierung Nebengebäude Nordparkbad / Ringerzentrum - einstimmig zugestimmt
+- TOP -: Ausschuss für Soziales, Inklusion und demografische Entwicklung
+- TOP 6: Besetzung von Fachausschüssen des Rates der Stadt Neuss mit beratenden Mitgliedern des Inklusionsbeirats - einstimmig zugestimmt
+- TOP 7: Neue Richtlinien zur Förderung niederschwelliger Angebote der Seniorenbegegnungsarbeit in der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 8: Integriertes Klimaschutzkonzept (IKK) der Stadt Neuss: Fortschreibung 11/2022 - mehrheitlich zugestimmt
+- TOP 9: Wirtschaftsplan 2023 für die Städtischen Friedhöfe Neuss (SFN) - einstimmig zugestimmt
+- TOP 10: Festsetzung der Gebühren für die Städtischen Friedhöfe Neuss ab 2023 - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VIII - Rosellen
+- TOP 11: Richterstraße: Herstellung von Parkplätzen - einstimmig zugestimmt
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 12: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2023 - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 13: Schulorganisatorische Maßnahmen hier: Bildung eines befristeten Teilstandortes der Karl-Kreiner-Schule - einstimmig zugestimmt
+- TOP 14: Anträge Berufsförderung an Neusser Schulen 2023/24 - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 15: Am Blankenwasser, Bushaltestellenpaar "Blindeisenweg": Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 16: Wirtschaftsplan 2023 für das Tiefbaumanagement der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 17: Straßen- und Wegekonzept 2023 der Stadt Neuss - einstimmig zugestimmt
+- TOP 18: Dauerhafte Abstützung der Hochwasserschutzwand an der Rennbahn - einstimmig zugestimmt
+- TOP -: Kulturausschuss
+- TOP 19: Rechtsformänderung des NRW Kultursekretariats - einstimmig zugestimmt
+- TOP -: Finanzausschuss
+- TOP 20: Genehmigung außerplanmäßiger Auszahlungen bzw. überplanmäßiger Aufwendungen und Auszahlungen im Rahmen der Neustrukturierung der städtischen Gebäudewirtschaft - einstimmig zugestimmt
+- TOP 20.1: Anpassung des Haushaltsansatzes im Bereich "Behandlung von Fundtieren" - einstimmig zugestimmt
+- TOP 21: Änderung der Gebührenordnung der Musikschule der Stadt Neuss zum 1.10.2023 - einstimmig zugestimmt
+- TOP 22: Beantragung einer halben Bibliothekarstelle zur Wiederherstellung der Förderfähigkeit der Stadtbibliothek durch das Land NRW - entfällt - - abgesetzt
+- TOP 23: Bezahlbarer Wohnraum - Förderung des Landes NRW für den Ankauf von Belegungsrechten - mehrheitlich zugestimmt
+- TOP 24: Einrichtung eines weiteren Lotsenpunktes in Neuss-Norf - einstimmig zugestimmt
+- TOP 25: Festsetzung von Gebühren 2023 für den Bereich "Abfallentsorgung“ - mehrheitlich zugestimmt
+- TOP 26: Beratung des Haushaltsplan-Entwurfes 2023 - verwiesen
+- TOP 26.1: Anpassung der Zuschüsse zum Geschäftsbedarf der im Rat vertretenen Fraktionen - verwiesen
+- TOP 26.2: Erhöhung der Vergnügungssteuer - verwiesen
+- TOP 26.3: Erhöhung der Hundesteuer - verwiesen
+- TOP 27: Beratung der mittelfristigen Ergebnisplanung 2022 - 2026 - verwiesen
+- TOP 28: Beratung des Investitionsprogramms (investive Finanzplanung) 2022 - 2026 - verwiesen
+- TOP 29: Erlass einer Hebesatzsatzung für das Jahr 2023 - verwiesen
+- TOP 30: Erlass einer Haushaltssatzung für die Stadt Neuss - verwiesen
+- TOP -: Rechnungsprüfungsausschuss
+- TOP 31: Prüfung des Gesamtabschlusses 2020 - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 32: Leitlinien zur Bürgerbeteiligung - einstimmig zugestimmt
+- TOP 33: Bestätigung der Vorkaufsrechtsatzung 14 – Rosellen, Am Schwarzen Graben – - einstimmig zugestimmt
+- TOP 34: Wahl/Wiederwahl einer Schiedsperson/einer stellvertretenden Schiedsperson - einstimmig zugestimmt
+- TOP 35: Jahresabschluss 2021 - einstimmig zugestimmt
+- TOP 35.1: Erstellung einer kommunalen Wärmeplanung – Förderprogramm - einstimmig zugestimmt
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP -: Anfragen
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 38: Bezirksausschüsse: Evaluation und Ausblick - verwiesen
+- TOP 39: Am Kivitzbusch - Straßenwiederherstellung nach Kanalbau und punktuelle Maßnahmen: Bericht über die verbindliche Anliegerversammlung am 07.09.2022 - zur Kenntnis genommen
+- TOP 40: Kenntnisnahme von über- und außerplanmäßigen Aufwendungen und Auszahlungen, die der Kämmerer vom IV. Quartal 2021 bis III. Quartals 2022 genehmigt hat - zur Kenntnis genommen
+- TOP 40.1: Bericht des Antikorrutionsbeauftragten - zur Kenntnis genommen
+- TOP 41: Bericht über die Geschäftsvorfälle im Zusammenhang mit Schutzsuchenden aus der Ukraine - zur Kenntnis genommen
+- TOP 42: Bericht zur Hilfe für Geflüchtete in Neuss - zur Kenntnis genommen
+- TOP 43: Bericht zur Energiekrise - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
