@@ -7,36 +7,36 @@
 ### Abschnitt 1 Anwendungsbereich
 
 - [§ 1 Anwendungsbereich](0001.md)
-- [§ 2 (zukünftig in Kraft)](0002.md)
-- [§ 3 (zukünftig in Kraft)](0003.md)
+- [§ 2 Anwendbare Rechtsvorschriften](0002.md)
+- [§ 3 Integriertes Verwaltungs- und Kontrollsystem](0003.md)
 
-### Abschnitt 2 (zukünftig in Kraft)
+### Abschnitt 2 Kommunikation
 
-- [§ 4 (zukünftig in Kraft)](0004.md)
+- [§ 4 Kommunikation zwischen zuständiger Behörde und Betriebsinhaber](0004.md)
 
-## Kapitel 2 (zukünftig in Kraft)
+## Kapitel 2 Antrag
 
-- [§ 5 (zukünftig in Kraft)](0005.md)
-- [§ 6 (zukünftig in Kraft)](0006.md)
-- [§ 7 (zukünftig in Kraft)](0007.md)
-- [§ 8 (zukünftig in Kraft)](0008.md)
+- [§ 5 Sammelantrag](0005.md)
+- [§ 6 Fristen](0006.md)
+- [§ 7 Betriebsnummer](0007.md)
+- [§ 8 Mitwirkungspflichten des Betriebsinhabers](0008.md)
 
-## Kapitel 3 (zukünftig in Kraft)
+## Kapitel 3 Kontrollverfahren
 
-- [§ 9 (zukünftig in Kraft)](0009.md)
-- [§ 10 (zukünftig in Kraft)](0010.md)
+- [§ 9 Kontrollsystem](0009.md)
+- [§ 10 Kontrollstichproben](0010.md)
 
-## Kapitel 4 (zukünftig in Kraft)
+## Kapitel 4 Entscheidungsverfahren
 
-- [§ 11 (zukünftig in Kraft)](0011.md)
-- [§ 12 (zukünftig in Kraft)](0012.md)
-- [§ 13 (zukünftig in Kraft)](0013.md)
-- [§ 14 (zukünftig in Kraft)](0014.md)
-- [§ 15 (zukünftig in Kraft)](0015.md)
+- [§ 11 Kürzungen, Sanktionen und Ausschlüsse](0011.md)
+- [§ 12 Aufrechnung](0012.md)
+- [§ 13 Obergrenzen](0013.md)
+- [§ 14 Ausnahmen](0014.md)
+- [§ 15 Antragsablehnung bei Verhinderung der Kontrolle](0015.md)
 
-## Kapitel 5 (zukünftig in Kraft)
+## Kapitel 5 Datenaustausch
 
-- [§ 16 (zukünftig in Kraft)](0016.md)
+- [§ 16 Befugnis zur Übermittlung von Daten](0016.md)
 
 ## Kapitel 6 Verordnungsermächtigung
 
