@@ -1,1 +1,1 @@
-# Gesetz über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten (PsychKG) vom 19. Dezember 2000
+# Bremisches Gesetz über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten (BremPsychKG) vom 13. Dezember 2022
