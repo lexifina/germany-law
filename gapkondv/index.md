@@ -26,7 +26,7 @@
 
 - [§ 11 Gebietskulisse](0011.md)
 - [§ 12 Anbau von Paludikulturen](0012.md)
-- [§ 13 Überprüfung der fachrechtlichen Genehmigung für die Neuanlage, Erneuerung oder Vertiefung von Anlagen zur Entwässerung](0013.md)
+- [§ 13 Überprüfung der Genehmigung der erstmaligen oder vertieften Entwässerung landwirtschaftlicher Flächen](0013.md)
 
 ### Abschnitt 3 Weitere GLÖZ-Standards
 
@@ -83,3 +83,5 @@
 - [Anlage 2 (zu § 11)Bodentypen und Legendeneinheiten nach aktueller deutscher Bodensystematik und daran angelehnten Kartenwerken](anlage-2.md)
 - [Anlage 3 (zu § 16)Bestimmung der potenziellen Erosionsgefährdung durch Wasser](anlage-3.md)
 - [Anlage 4 (zu § 16)Bestimmung der potenziellen Erosionsgefährdung durch Wind](anlage-4.md)
+- [Anlage 5 (zu § 17)Frühe Sommerkulturen](anlage-5.md)
+- [Anlage 6 (zu § 17)Klassenzeichen für Bodenarten für schwere Böden](anlage-6.md)

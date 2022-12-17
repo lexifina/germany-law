@@ -21,7 +21,7 @@ Mindestschutz von
 Feuchtgebieten und Mooren
 | § 11 | Gebietskulisse |
 | § 12 | Anbau von Paludikulturen |
-| § 13 | Überprüfung der fachrechtlichen Genehmigung für die Neuanlage, Erneuerung oder Vertiefung von Anlagen zur Entwässerung |
+| § 13 | Überprüfung der Genehmigung zur erstmaligen oder vertieften Entwässerung landwirtschaftlicher Flächen |
 Abschnitt 3
 Weitere GLÖZ-Standards
 | § 14 | Verbot des Abbrennens von Stoppelfeldern |
@@ -71,3 +71,5 @@ Schlussbestimmungen
 | Anlage 2 | Bodentypen und Legendeneinheiten nach aktueller deutscher Bodensystematik und daran angelehnten Kartenwerken |
 | Anlage 3 | Bestimmung der potenziellen Erosionsgefährdung durch Wasser |
 | Anlage 4 | Bestimmung der potenziellen Erosionsgefährdung durch Wind |
+| Anlage 5 | Frühe Sommerkulturen |
+| Anlage 6 | Klassenzeichen für Bodenarten für schwere Böden |
