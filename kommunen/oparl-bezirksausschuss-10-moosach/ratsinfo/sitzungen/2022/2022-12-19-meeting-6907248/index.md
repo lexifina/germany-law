@@ -1,0 +1,84 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2022-12-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6907248
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6907248
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Standortsuche für Waldorfkindergarten "Gänseblümchen"
+- TOP 2.2.: 1. Ausweisung von Anliegerparkplätzen für Ecke Naumburger Straße (Spielstraße) - im Abschnitt zwischen Dresdner- und Leipziger Straße 2. Verbot für das Abstellen von LKW´s und Camp-Mobilen in der Leipziger- und Merseburger Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Pelkovenstr. 148
+- TOP 3.3.1.2.: Eggmühler Str. 42 (Abbruch)
+- TOP 3.3.1.3.: Eggmühlerstr. 42
+- TOP 3.3.1.4.: Gärtnerstraße
+- TOP 3.3.1.5.: Perlgrasweg
+- TOP 3.3.1.6.: Donauwörther Str. 29 - Vorbescheid
+- TOP 3.3.1.7.: Feldmochinger Straße - Vorbescheid
+- TOP 3.3.1.8.: Meggendorferstr. 44
+- TOP 3.3.1.9.: Karlinger Str. 52
+- TOP 3.3.1.10.: Bauberger Str. 11
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Änderung Verkehrsführung Kreuzung Dachauer Straße - Wintrichring - Georg-Brauchle-Ring stadteinwärts (in den Georg-Brauchle-Ring)
+- TOP 4.1.2.: Haltverbot an der Ausfahrt der Tiefgarage der Grundschule Amphionpark
+- TOP 4.1.3.: Anfrage: Zustand der Straßengullys und der sich darunter befindenden Kanalisation an der Kreuzung Walter-Flex-Straße / Dietrichstraße in Moosach. Warum kommt es bei Starkregen zu massiven Überschwemmungen im Kreuzungsbereich?
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 am Sportplatz Olympia vom 01.01.2023 -31.12.2023 7.980,00€; Az. 0262.0-10-0312 (-> vertagt aus Sitzung am 21.11.2022)
+- TOP 5.2.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 am Sportplatz Amicita vom 01.01.2023 -31.12.2023 7.980,00€; Az. 0262.0-10-0311 (-> vertagt aus Sitzung am 21.11.2022)
+- TOP 5.3.: (E) Stadtbezirksbudget AG Buhlstraße e.V., Freizeitstätte boomerang Naturerlebnistage, Sozialkompetenztraining vom 11. - 14.04.2023 2.559,98 Euro, Az.: 0262.0-10-0314
+- TOP 5.4.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Mehr Medienkompetenz am 06. /07.02.2023 913,80€; Az. 0262.0-10-0313
+- TOP 6.: Anhörungen
+- TOP 6.1.: Beschlussentwurf: Bebauungsplan mit Grünordnung Nr. 2165; Bingener Straße (westlich, Thorner Straße (östlich), zwischen Rangierbahnhof München-Nord und Torgauer Straße sowie Triebstraße Botanikum: Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Wettbewerbs; Beschluss zum weiteren Vorgehen
+- TOP 6.2.: Vollzug des Bundesimmissionsschutzgesetzes (BImSchG): Antrag auf Genehmigung der bestehenden Panzerteststrecke (Ergänzung, Modifizierung; Fa. Krauss-Maffei)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Weiteres Vorgehen bzgl. Situation auf brachliegendem Grundstück Meißener Straße [BA-Antrag Nr. 20-26/B 04146; bauaufsichtliches Verfahren wird weiterbetrieben.]
+- TOP 7.2.: Zeitnahe Information über die konkrete Planung des Verkehrskonzeptes für die Baumaßnahmen an der Eisenbahnüberführung Dachauer Straße [BA-Antrag Nr. 20-26/B 04255; Baubeginn ca. April 2024; Umleitungskonzept durch BAUR liegt vor. Evtl. Modifizierungen entscheiden sich mit einzelnen Bauphasen. Infoveranstaltungen in Verantwortung des Bauherren; Radschnellverbindung wurde in Planungen berücksichtigt; Arbeitsbeginn Sanierung Allacher Tunnel voraussichtlich 2028, Wechselwirkungen werden nicht erwartet.]
+- TOP 7.3.: Anfrage: Statistik Hebammenversorgung in Moosach [BA-Antrag Nr. 20-26/B 03326; angespannte Versorgungssituation; ausgewertete Fragebögen ergaben (nur bedingt verlässlich), dass 15 Hebammen in Moosach eine häusliche Nachsorge anbieten.]
+- TOP 7.4.: Öffentliche Widmung des Verbindungsweges zwischen Moosanger und der Saarlouiser Straße [BA-Antrag Nr. 20-26/B 04253; keine Umsetzung der Widmung, da Verbindungsfunktion nicht bestätigt werden kann.]
+- TOP 7.5.: Anbindung der Wohnanlage Gubestr. 6, 6a, 8 ...an die Fernheizung [BV-Anfrage Nr. 20-26/ Q 00219; über die Hausverwaltung Antrag möglich].
+- TOP 7.6.: Wann wird das Winter-Dantebad wieder eröffnet? [BV-Anfrage Nr. 20-26/Q 00220; kein Winterbetrieb 2022/23 wegen Energiesparmaßnahmen; städt. Hallenbäder nutzbar.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Finanzierungsbeschluss: Verstetigung, Weiterentwicklung und Neukonzeption von "München-gesund vor Ort"" (Sitzungsvorlage nr. 20-26/ V 07247)
+- TOP 8.2.: Entwurf des Mehrjahresinvestionsprogramms für die Jahre 2022-2026; hier: Selektion Stadtbezirk 10
+- TOP 8.3.: Unveränderte Fortführung eines Gaststättenbetriebes: 1. Dresdner Str. 1 2. Dachauer Str. 469 3. Hanauer Str. 68
+- TOP 8.4.: Neuerrichtung eines Gaststättenbetriebes: Bunzlauer Platz 1
+- TOP 8.5.: (U) Verkehrskonzept Münchner Norden Verkehrslenkende Maßnahmen Vergabebeschluss
+- TOP 8.6.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 8.7.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 8.8.: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.9.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 8.10.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 8.11.: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 8.12.: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 8.13.: (U) 47. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2021; Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertretung des Fachbereichs Fassaden/Stuck und Putze
+- TOP 8.14.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 8.15.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 8.16.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.17.: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 8.18.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 8.19.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.20.: Mitteilung über ein Grundstücksgeschäft: - nicht-öffentlich - 1. Untermenzinger-/Margarete-Steiff-Straße (Kauf) 2. Gube-/ Karlinger Straße (Verkauf, Sacheinlage)
+- TOP 8.21.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - Abensbergstraße
+- TOP 4.1.4.: Erweiterung des E-Ladesäulennetzes
+- TOP 6.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Welzenbachstraße: Einrichtung eines Verkehrshelferüberganges
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund: St.-Martins-Platz „Moosach Narrisch“, Straßenfasching am 11.02.2023
+- TOP 6.5.: Veranstaltung in städtischen Grünanlagen: Simmerleinplatz Wintergrillen am 04.02.2023 und Pflanzentauschbörse am 06.05.2023
+- TOP 4.: Anträge
