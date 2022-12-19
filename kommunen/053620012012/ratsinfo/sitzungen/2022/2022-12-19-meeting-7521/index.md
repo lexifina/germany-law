@@ -1,0 +1,77 @@
+# Rat (15. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2022-12-19T17:05:00+01:00
+- Ende: 2022-12-19T21:18:00+01:00
+- Ort: Clemens August-Forum, Clemens-August-Str. 33a, 50321 Brühl, Mehrzweckhalle
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfkIfiwS6dHzMVnW15OQs_M
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7521
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRAKyqp79KFZ2eRV36AQRgA7O2K17U6Tx3AgZEb708by/Bekanntmachung_Rat_19.12.2022.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYFFvkFnrTrkK00tBY-s5eJRC-DMHl4uOOnNHWC9hrKa/Oeffentliche_Niederschrift_Rat_19.12.2022.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Schließung Belvedere I
+- TOP 1.2: Neubau Feuerwache I
+- TOP 1.3: Neubau Rathaus
+- TOP 1.4: Schließung Belvedere II
+- TOP 1.5: Bebauung Brühl-Vochem
+- TOP 1.6: Schließung Belvedere III
+- TOP 1.7: Öffentliche Bekanntmachungen/Amtsblatt
+- TOP 1.8: Neubau Feuerwache II
+- TOP 1.9: Flächennutzungsplan
+- TOP 2.: Niederschrift vom 19.09.2022
+- TOP 3.: Niederschrift vom 31.10.2022
+- TOP 4.: Haushalt 2023
+- TOP 4.1: Haushaltssatzung 2023 hier: Stellenplan und Stellenübersichten nach der Haushaltsgliederung
+- TOP 4.1.1: Haushaltssatzung 2023 hier: Stellenplan und Stellenübersichten nach der Haushaltsgliederung
+- TOP 4.2: Erlass der Haushaltssatzung 2023 Rat 31.10.22 u. HA 21.11.22, 28.11.22, 05.12.22 - (kein Text vorhanden)
+- TOP 5.: Organisatorische Änderungen im Zusammenhang mit der Auflösung des Stadtservicebetriebes -AÖR- und der Rückführung in die Stadtverwaltung zum 01.01.2023 sowie die Änderung des Geschäftskreises des Dezernates I - (kein Text vorhanden)
+- TOP 6.: Fortführung Prüfauftrag / Strukturanalyse Kunst- und Musikschule - (kein Text vorhanden)
+- TOP 7.: Kindertagesbetreuung
+- TOP 7.1: Bundesprogramm "Kita-Einstieg - Brücken bauen in frühe Bildung" hier: Weiterfinanzierung des bis 31.12.2022 durch die Projektgelder finanzierten Begegnungs- und Beratungsortes „Mein Lieblingsplatz“ in der Uhlstraße 53 Bezug: Vorlage 285/2022, JHA 23.06.2022 - (kein Text vorhanden)
+- TOP 7.2: Kindertagesbetreuung in Einrichtungen hier: Finanzierung der Instandhaltungs– und Renovierungskosten des Gebäudes der Kindertagesstätte Brühler Ströpp und Übernahme eines Teils des Trägeranteils aus den Kindpauschalen nach dem Kinderbildungsgesetz für die Kindertagesstätten Brühler Ströpp und Schwadorfer Ströpp Bezug: Beschluss JHA am 23.06.2022 zu Vorlagen-Nr. 306/2022 - (kein Text vorhanden)
+- TOP 7.3: Kindertagesbetreuung in Einrichtungen hier: Übernahme eines Teils des Trägeranteils aus den Kindpauschalen nach dem Kinderbildungsgesetz (KiBiz) für die Kindertagesstätte KiKu Kinderland - (kein Text vorhanden)
+- TOP 8.: Satzungen
+- TOP 8.1: Neufassung der Satzung über die Benutzung der Stadtbibliothek Brühl und Gebührenordnung - (kein Text vorhanden)
+- TOP 8.2: Erlass der Satzungen der AöR als Satzungen der Stadt Brühl - (kein Text vorhanden)
+- TOP 8.3: Preisverleihung Max Ernst-Stipendium 2023; hier: Terminverlagerung - (kein Text vorhanden)
+- TOP 9.: Seniorenbeirat Bezug: Vorlage 330/2022 - (kein Text vorhanden)
+- TOP 10.: Bebauungspläne und Flächennutzungsplan
+- TOP 10.1: Bebauungsplan 01.21 „Comesstraße 14 und 16, ehemalige Post" - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 10.2: Bebauungsplan 11.11 „Zum Herrengarten / St.-Albert-Straße“ - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 10.3: 58. Änderung des Flächennutzungsplanes (Bebauungsplan 02.10 „Östlich Römerstraße, An der Lessingstraße“) - Erneuter Abwägungs- und Feststellungsbeschluss - - (kein Text vorhanden)
+- TOP 11.: Abwassergebührenkalkulation 2023 12. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Brühl
+- TOP 11.1: Abwassergebührenkalkulation 2022 und 2023 12. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Brühl Bezug: Vorlagen-Nr. 594/2022 - (kein Text vorhanden)
+- TOP 12.: 1. Aufhebung des Ratsbeschlusses zur Prüfung des Gesamtabschlusses 2016 2. Größenabhängige Befreiung von der Aufstellung geprüfter Gesamtabschlüsse für die Jahre 2016 bis 2018 gemäß § 116a GO NRW - (kein Text vorhanden)
+- TOP 13.: Konferenz der Bürgermeisterinnen und Bürgermeister des REK hier: Stellungnahme zum Kreishaushalt
+- TOP 14.: Prüfung des Jahresabschlusses zum 31.12.2021 - (kein Text vorhanden)
+- TOP 15.: Gesellschafterversammlung Gebausie - hier Wirtschaftsplan 2023 - (kein Text vorhanden)
+- TOP 16.: Gesellschafterversammlung Stadtwerke Brühl GmbH hier: Wirtschaftsplan 2023 - (kein Text vorhanden)
+- TOP 17.: Stadtwerke Brühl Verkehrs-GmbH hier: Wirtschaftsplan 2023 - (kein Text vorhanden)
+- TOP 18.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 18.1: Interlokale Verkehre - Aufwanddeckungsfehlbeträge (ADF) hier: Ist-Daten 2021 - (kein Text vorhanden)
+- TOP 19.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 19.1: Dringlichkeitsentscheidung über eine überplanmäßige Auszahlung von Zuwendungen des Landes NRW für das OGS Helferprogramm - Aufholen nach Corona; Verlängerung des Programms bis zum 31.12.2022 - (kein Text vorhanden)
+- TOP 20.: Anträge
+- TOP 21.: Umbesetzung in Ausschüssen
+- TOP 21.1: Umbesetzung im Schulausschuss hier: Stellvertretung der Gesamtschule - (kein Text vorhanden)
+- TOP 21.2: Umbesetzung in Ausschüssen hier: mündlicher Antrag der SPD-Fraktion
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen
+- TOP 23.1: Bürgerdialog Mobilität 2035 Bezug: Anfrage der AfD-Fraktion vom 01.12.2022
+- TOP 23.1.1: Bürgerdialog Mobilität 2035 Bezug: Anfrage der AfD-Fraktion vom 01.12.2022, Vorlagen-Nr. 611/2022
+- TOP 23.2: Bestand und Entwicklung von Kleingartenanlagen und nicht Kleingartenanlagen (u.a. Grabeland) nach dem Bundeskleingartengesetz (BKleingG) in der Stadt Brühl Bezug: Anfrage von Ratsherrn Eckhard Riedel vom 03.12.2022 - (kein Text vorhanden)
+- TOP 23.3: Sporthalle Berufskolleg
+- TOP 23.4: Stellenausschreibung
+- TOP 23.5: Sperrung Otto-Wels-Straße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 24.: Bestellung eines stellvertretenden Leiters der Freiwilligen Feuerwehr - (kein Text vorhanden)
+- TOP 25.: Darlehensgewährung an Gebausie - (kein Text vorhanden)
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen
