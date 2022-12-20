@@ -1,8 +1,8 @@
 # Förderrichtlinie Kinderbetreuungsfinanzierung Bund Vollzitat: Förderrichtlinie Kinderbetreuungsfinanzierung Bund
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-08-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18887.2
+- Datum: 2022-12-20 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18887.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.08.2021
+20.12.2022
 bis
-19.12.2022
+29.06.2023
 
 Förderrichtlinie Kinderbetreuungsfinanzierung Bund
 
@@ -40,6 +40,7 @@ Zuwendungszweck, Rechtsgrundlagen
 
 
 In den Jahren 2020 und 2021 gewährt der Bund den Ländern im Rahmen des Konjunktur- und Krisenbewältigungspakets zur Bewältigung der Folgen der Corona-Pandemie Finanzhilfen nach Artikel 104b des Grundgesetzes aus dem Bundessondervermögen „Kinderbetreuungsausbau“. Zur Umsetzung dieses Programms gewährt der Freistaat Sachsen im Rahmen seiner Zuständigkeit nach § 82 des Achten Buches Sozialgesetzbuch – Kinder und Jugendhilfe – in der Fassung der Bekanntmachung vom 11. September 2012 (BGBl. I S. 2022), das zuletzt durch Artikel 8 Absatz 4 des Gesetzes vom 16. Juni 2021 (BGBl. I S. 1810) geändert worden ist, in der jeweils geltenden Fassung, und auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, und nach dem Gesetz über Finanzhilfen des Bundes zum Ausbau der Tagesbetreuung für Kinder vom 10. Dezember 2008 (BGBl. I S. 2403, 2407), das zuletzt durch Artikel 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2020) geändert worden ist, in der jeweils geltenden Fassung, Zuwendungen nach Maßgabe dieser Förderrichtlinie.
+
 
 2.
 
@@ -471,7 +472,7 @@ Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nac
 VIII.
 Inkrafttreten und Außerkrafttreten
 
-Diese Förderrichtlinie tritt mit ihrer Unterzeichnung in Kraft und am 1. Januar 2023 außer Kraft.
+Diese Förderrichtlinie tritt mit ihrer Unterzeichnung in Kraft und am 30. Juni 2023 außer Kraft.
 
 Dresden, den 8. Oktober 2020
 
@@ -488,9 +489,9 @@ Fsn-Nr.: 5581-V20.4
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. August 2021
+Fassung gültig ab: 20. Dezember 2022
 
-Fassung gültig bis: 19. Dezember 2022
+Fassung gültig bis: 29. Juni 2023
 
 Drucken/Speichern
 
@@ -515,7 +516,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18887.2
+https://www.revosax.sachsen.de/vorschrift/18887.3
 Stand vom
 18.11.2026
 
