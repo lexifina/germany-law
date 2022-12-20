@@ -1,0 +1,86 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2022-12-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6811279
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6811279
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 29.11.2022
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der „August-Everding-Straße“
+- TOP 2.2.: Projektplangenehmigung der Straßenbaumaßnahme „Hermann-Weinhauser-Straße – Nachbegrünung“ - Entscheidung des BA 14 -
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Münchner Wochenmärkte - Standort Baumkirchner Platz - Stellenplan während der Bauphase; Anhörung der Markthallen München
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Nachtspaziergang - Bitte um Rückmeldung; Schreiben des Baureferats
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget AKA -Aktiv für interKulturellen Austausch e.V. Formularservice für Ramersdorf und Berg am Laim vom 01.01 -31.12.2023 2.466,50€; Az. 0262.0-14-0346
+- TOP 3.5.2.: (E) Stadtbezirksbudget Förderkreis der Grundschule Grafingerstr. 71 diverse Projekte vom 07.01. -31.07.2023 3.190,00€; Az. 0262.0-14-0347
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Listen der Bauvorhaben im 14. Stadtbezirk Berg am Laim in der Zeit vom 21.11.2022 bis 04.12.2022
+- TOP 4.1.2.: (U) Erneute Informationsveranstaltung Bebauungsplan Truderinger Acker Stadtbezirk 14 Berg am Laim
+- TOP 4.1.3.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 4.1.4.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 4.1.5.: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 4.1.6.: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 4.1.7.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 4.1.8.: (U) In-House-Vergabe (Bauträgerauswahl) Werksviertel (Bebauungsplan mit grünordnung Nr. 2061) Baufeld WA 1 an die GWG München 14. Stadtbezirk Berg am Laim
+- TOP 4.1.9.: Zweckentfremdung von Wohnraum: - Rofanstr. 34 - Gratlspitzstr. 49
+- TOP 4.1.10.: Ausnahmezulassung: Jahresgenehmigung für Reinigungsarbeiten an oberirdischen Verkehrsanlagen; Unterrichtung des Referats für Klima- und Umweltschutz
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Mehrwöchige Nutzung der Grünanlagen und des öffentlichen Verkehrsgrunds, Richtlinien für Kultur- und Strandveranstaltungen - Beschlussentwurf; Anhörung des Kreisverwaltungsreferats - Eilentscheidung des BA-Vorsitzenden -
+- TOP 4.2.2.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2.1 Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Balanstraße durch die DB Netz AG 2.2 Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2.3 Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2022 – 2026
+- TOP 4.2.3.: Stromanschluss / Beleuchtung für die Echardinger Kapelle - Antwortschreiben -
+- TOP 4.2.4.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 4.2.5.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Josephsburgstr. 5
+- TOP 4.2.6.: Ausbau der Tram-Haltestelle Kreillerstraße; Anliegen aus der Bürgerschaft - Antwort der MVG -
+- TOP 4.2.7.: Verkehrssituation um Michaeligymnasium; Antwort des Mobilitätsreferats
+- TOP 4.2.8.: Isareckstraße 29 / Annabrunner Straße (Kurvenbereich): Absolutes Haltverbot für AWM mit Zeitzusatz
+- TOP 4.2.9.: St.-Veit-Straße südl. Kreillerstraße: Einrichtung eines absoluten Haltverbots
+- TOP 4.2.10.: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 4.2.11.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 4.2.12.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 4.2.13.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich VI/35 Truderinger Straße (südlich), Roßsteinstraße (westlich), Schwanhildenweg (östlich) Endgültiger Beschluss Stadtbezirk 14 Berg am Laim
+- TOP 4.2.14.: (U) Bebauungsplan mit Grünordnung Nr. 2127 Truderinger Straße (südlich), Westlich der Roßsteinstraße, Östlich des Schwanhildenwegs - Satzungsbeschluss - Stadtbezirk 14 – Berg am Laim
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.4.2.: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 4.4.3.: Geflüchtetenunterkunft an der Hachinger-Bach-Straße im Winter sinnvoll nutzen
+- TOP 4.4.4.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.4.5.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Eingegangene Verwendungsnachweise: - Condrobs e.V. - Förderverein THW München Ost - Bürgerkreis Berg am Laim e.V. - Open-Air-Konzerte
+- TOP 4.5.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2022– 2026 Unterrichtung der Stadtkämmerei
+- TOP 4.5.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.5.3.: (E) Stadtbezirksbudget FC Phönix München „Ertüchtigung der Rasenplätze und Reparatur des Traktors“ vom 05.11.2022 – 01.09.2023 33.013,01 € / AZ.: 0262.0-14-0339
+- TOP 3.1.1.: Hachinger-Bach-Str. - Unterbringung von Flüchtlingen - Vorhaben zur vorrübergehenden Unterbringung von 430 Flüchtlingen in Leichtbauhallen - befristet bis 31.12.2023; Frist 13.01.2023 (Fristverlängerung nicht genehmigt)
