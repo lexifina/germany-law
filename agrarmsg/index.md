@@ -84,6 +84,11 @@
 - [§ 51 Wiederaufnahmeverfahren gegen den Bußgeldbescheid](0051.md)
 - [§ 52 Gerichtliche Entscheidungen bei der Vollstreckung](0052.md)
 
+##### Unterabschnitt 3 Gemeinsame Bestimmungen für das gerichtliche Verfahren
+
+- [§ 52a Zuständiger Senat bei dem Oberlandesgericht](0052a.md)
+- [§ 52b Zuständiger Senat beim Bundesgerichtshof](0052b.md)
+
 ### Kapitel 2 Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen
 
 - [§ 53 Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen; Verordnungsermächtigung](0053.md)
