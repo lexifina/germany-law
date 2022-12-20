@@ -168,3 +168,4 @@ Abschnitt 11 Übergangs- und Schlussvorschriften
 § 130b | Übergangsregelung für Anträge auf Ruhestandsaufschub im Schuldienst
 § 131 | Entpflichtung
 § 132 | Übergangsvorschriften für Beamtinnen und Beamte an Hochschulen
+§ 133 | Übergangsvorschrift für dienstliche Beurteilungen
