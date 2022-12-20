@@ -1,0 +1,134 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2022-12-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/6850069
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/6850069
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Frage zu Weihnachtsmarkt am Luki
+- TOP 6.2.: Passauerstraße
+- TOP 6.3.: Dauerärger wegen Taubendreck in der Unterführung Albert-Roßhaupter-Straße
+- TOP 6.4.: Parklizenzgebiet München Sendling Westpark
+- TOP 6.5.: Zusätzliche Spiegel für mehr Sicherheit
+- TOP 6.6.: Fahrradständer Drachensee/Oetztalerstr.
+- TOP 6.7.: Anliegen Werdenfelsstr. Sendling Westpark
+- TOP 6.8.: Gehwegparken Fr-Hebbel/Jean-Paul-Richter-Str
+- TOP 6.9.: Radarkontrolle
+- TOP 6.10.: Bürgeranfrage 40 Jahrfeier Westpark
+- TOP 6.11.: Dauerärger wegen Taubendreck in der Unterführung Albert-Roßhaupter-Straße
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Kleingartenverein SW 83 e.V. “Brandsanierung des Vereinheims Nestroygarten: Dämmung des Daches“ 15.865,22 €/ AZ: 0262.0-7-0401
+- TOP 11.: Anträge
+- TOP 11.1.: Lastenrad
+- TOP 11.2.: 40 Jahre Westpark
+- TOP 11.3.: Antrag_SuK_medizinischeVersorgung
+- TOP 11.4.: Tempo50 LKB-Tunnel
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Hansastr.
+- TOP 15.2.: Wesserbrunner Str.
+- TOP 15.3.: Hermann-von-Sicher Str.
+- TOP 15.4.: Hermann-von-Sicher Str.
+- TOP 15.5.: Hermann-von-Sicher Str.
+- TOP 15.6.: Bauvorhaben Gerty-Spies-Str.
+- TOP 15.7.: Bauvorhaben Farchanter Str.
+- TOP 15.8.: Bauvorhaben Fernpaßstr.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Radabstellanlagen im Parkstreifen-Baumgraben
+- TOP 33.2.: Radabstellanlagen für SendlingWestpark
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 35.1.: Bürgersprechstunde
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 39.2.: Bescheid Habacher Str.
+- TOP 39.3.: Bescheid Heiterwanger Str.
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Sachstand Fahrradstraße Ortlerstraße
+- TOP 40.2.: Mobilitäts- und E-Ladestationen in Sendling-Westpark
+- TOP 40.3.: Mehr E-Ladestationen in Sendling/Westpark
+- TOP 40.4.: Umkehrschleife Ebermayerstraße, absolutes Halteverbot anstelle von eingeschränktem Halteverbot
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: TWT Fragen und Antworten zum Radverkehr im Umfeld des Waldfriedhofs
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Umsetzung Öffentlichkeitsbeteiliungskonzept der LHM
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Vorkaufsrecht Objekt Passsauerstraße/Johann-Clanze-Straße
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Weihnachtsmarkt, Luise-Kiesselbach-Platz
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Waldfriedhofstr./Parkstandsmarkierung
+- TOP 56.2.: Neubau einer Lichtsignalanlage Standort Garmischer/Kohlgruber Str.
+- TOP 56.3.: Haushalt 2023 des Mobilitätsreferats - Produkte - Umsetzung des Eckdatenbeschlusses - Teilergebnis- und Teilfinanzhaushalt - inflationsbedingte Preissteigerungsrate - Haushaltskonsolidierung - Innovationsfonds
+- TOP 56.4.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 56.5.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 56.6.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Unterrichtung über Modernisierungsmaßnahmen baugenehmigungsfrei_Ohlstadter Str.und Euckenstr.
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Sachbericht Dschungel-Festival 2022 im Feierwerk Dschungelpalast
+- TOP 63.2.: Flyer Strom-Projekt Rüdesheimer
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Neubau einer Sende- und Empfangsanlage für mobiles Breitband
+- TOP 10.2.: (E) Stadtbezirksbudget Elterninitiative Mittagsinsel e.V. “Raumbereitstellung Freie Christengemeinde München e.V. für die Mittagsbetreuung vom 01.02.2023-31.07.2023“ 4.500,00 € / AZ: 0262.0-7-0403
+- TOP 9.1.: Antwortschr. Beantragung einer städt. Leistung Abfallbehälter
+- TOP 9.2.: Beantragung einer städt. Leistung - Austausch von Sitzbänken
+- TOP 10.3.: (E) Stadtbezirksbudget MTV München von 1879 e.V. “Hochsprungmatte vom 01.03.2023-30.08.2023“ 4.300,00 € / AZ: 0262.0-7-0402
+- TOP 18.1.: Parkscheinautomaten-Standorte für die Parklizenzgebiete Eichendorffplatz, Nördliche Passauerstraße, Partnachplatz und Südliche Hansastraße
