@@ -1,0 +1,153 @@
+---
+ecli: "ECLI:DE:BGH:2022:201222KZR8.21.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Kartellsenat"
+aktenzeichen: "KZR 8/21"
+decided: "2022-12-20"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2022&Sort=1&Seite=104&nr=132388&anz=3168&pos=3146&Blank=1.pdf"
+corpus_doc_id: "BGH_Kartellsenat_NA_2022-12-20_NA_KZR_8_21_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/grundgesetz/artikel/101.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/zpo/0148.md", "germany/bund/acts/zpo/0321a.md"]
+---
+
+# Bundesgerichtshof, KZR 8/21 vom 2022-12-20
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+
+                        BESCHLUSS
+KZR 8/21
+
+                               vom
+
+                        20. Dezember 2022
+
+                        in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2022:201222BKZR8.21.0
+
+                                             -2-
+
+
+
+    Der Kartellsenat des Bundesgerichtshofs hat am 20. Dezember 2022 durch den
+    Vorsitzenden Richter Prof. Dr. Kirchhoff, die Richterin Dr. Roloff, den Richter
+    Dr. Tolkmitt sowie die Richterinnen Dr. Rombach und Dr. Holzinger
+
+    beschlossen:
+
+
+          Die Anhörungsrüge gegen das Urteil des Senats vom 8. Februar 2022 wird auf Kosten der Beklagten zurückgewiesen.
+
+
+
+
+                                         Gründe:
+
+1         I.       Die Klägerin hat von der Beklagten Rückzahlung von Infrastrukturentgelten verlangt. Das Landgericht hat die Beklagte antragsgemäß verurteilt.
+    Die dagegen gerichtete Berufung der Beklagten hat das Berufungsgericht zurückgewiesen. Die Revision der Beklagten hat der Senat zurückgewiesen (BGH,
+    Urteil vom 8. Februar 2022 - KZR 8/21, juris). Die Beklagte macht geltend, der
+    Senat habe ihren Anspruch auf rechtliches Gehör und das Recht auf den gesetzlichen Richter verletzt. Sie hat beantragt, das Verfahren fortzusetzen. Die Klägerin ist dem entgegengetreten.
+
+2         II.      Die gemäß § 321a ZPO zulässige Anhörungsrüge ist unbegründet.
+    Das angefochtene Urteil verletzt weder den Anspruch der Beklagten auf rechtliches Gehör nach Art. 103 Abs. 1 GG noch ihr Recht auf den gesetzlichen Richter
+    aus Art. 101 Abs. 1 Satz 2 GG. Der Senat hat bei seiner Entscheidung den Vortrag der Beklagten vollumfänglich zur Kenntnis genommen, geprüft und erwogen,
+    aber nicht für durchgreifend gehalten.
+
+3         1.       Es bestand kein Anlass, das Verfahren nach § 148 ZPO auszusetzen, um ein Vorabentscheidungsersuchen an den Gerichtshof der Europäischen
+
+                                          -3-
+
+
+
+    Union zu richten oder um die Entscheidung des Gerichtshofs in der Rechtssache
+    C- 721/20 über das Vorabentscheidungsersuchen des Kammergerichts abzuwarten. Das hat der Senat mit Verweis auf seine gefestigte und ausführlich begründete Rechtsprechung auch unter Berücksichtigung des genannten Vorabentscheidungsersuchens     begründet    (BGH,   Urteile   vom   29. Oktober   2019
+    - KZR 39/19, WuW 2020, 209 Rn. 20 ff. - Trassenentgelte; vom 1. September 2020 - KZR 12/15, N&R 2021, 56 Rn. 18 f. - Stationspreissystem II; vom
+    22. Juni 2021 - KZR 72/15, WuW 2021, 709 Rn. 11 ff. - Stationspreissystem III;
+    vom 21. September 2021 - KZR 88/20, WRP 2022, 65 Rn. 20 ff. - Trassenentgelte II). Darauf wird verwiesen. Das Verfahren der Anhörungsrüge dient nicht
+    dazu, die Senatsentscheidung nochmals inhaltlich zur Überprüfung zu stellen
+    oder einer Partei die Möglichkeit zu eröffnen, mit dem Bundesgerichtshof nach
+    dessen Entscheidung ihren gegenteiligen Rechtsstandpunkt zu diskutieren (vgl.
+    BGH, Beschlüsse vom 18. Dezember 2014 - I ZR 228/12, juris Rn. 10, vom
+    28. Juni 2022 - EnVR 17/20, juris Rn. 2).
+
+4         Es ist lediglich erneut darauf hinzuweisen, dass nach der in Bezug genommenen Rechtsprechung des Bundesgerichtshofs auch dann, wenn sich aus der
+    Richtlinie 2001/14/EG des Europäischen Parlaments und des Rates vom
+    26. Februar 2001 über die Zuweisung von Fahrwegkapazität der Eisenbahn, die
+    Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die
+    Sicherheitsbescheinigung besondere Zulässigkeitsvoraussetzungen für die Erhebung und Sachprüfung einer Schadensersatzklage wegen Missbrauchs der
+    marktbeherrschenden Stellung eines Eisenbahninfrastrukturunternehmens ableiten lassen sollten, es jedenfalls an einer entsprechenden Umsetzung durch den
+    nationalen Gesetzgeber fehlte und ein solches Umsetzungsdefizit auch nicht
+    dadurch geheilt werden könnte, dass die Zivilgerichte die maßgeblichen anspruchsbegründenden oder -vernichtenden Normen unangewendet lassen
+
+                                           -4-
+
+
+
+    (BGH, WuW 2020, 209 Rn. 38 ff. - Trassenentgelte; WuW 2021, 119, 38 ff. - Stationspreissystem II, WuW 2021, 709 Rn. 16 ff. - Stationspreissystem III, mit Verweis auf EuGH, Urteile vom 16. Juni 2005 - C-105/03, Slg. 2005, I-5285 Rn. 47
+    - Pupino; vom 8. Mai 2019 - C-486/18, NZA 2019, 1131 Rn. 38 - Praxair MRC;
+    vom 11. September 2019 - C-143/18, WM 2019, 1919 Rn. 38 - Romano; BVerfG,
+    Beschluss vom 26. September 2011 - 2 BvR 2216/06, NJW 2012, 669, 670; BGH,
+    Urteil vom 15. Oktober 2019 - XI ZR 759/17, WM 2019, 2164 Rn. 22; Beschluss
+    vom 31. März 2020 - XI ZR 198/19, ZIP 2020, 865 Rn. 12; Urteil vom 18. November 2020 - VIII ZR 78/20, NJW 2021, 1008 Rn. 26; BVerfG, NJW 2012, 669, 670;
+    BGH, Urteile vom 7. Mai 2014 - IV ZR 76/11, BGHZ 201, 101 Rn. 20; vom 28. Juni
+    2017 - IV ZR 440/14, BGHZ 215, 126 Rn. 24; vom 26. März 2019 - II ZR 244/17,
+    BGHZ 221, 325 Rn. 21; s.a. BGH, WRP 2022, 65 Rn. 21 - Trassenentgelte II).
+    Ein effektiver gerichtlicher Rechtsschutz wäre nicht gewährleistet, wenn die Eisenbahnverkehrsunternehmen bei der Durchsetzung ihrer Ansprüche verfahrensrechtliche Voraussetzungen beachten müssten, die weder zum Zeitpunkt der
+    Anspruchsentstehung noch zum Zeitpunkt der gerichtlichen Geltendmachung gesetzlich bestimmt und damit für die Berechtigten erkennbar waren (BGH, WuW
+    2020, 209 Rn. 39 - Trassenentgelte).
+
+5         Daran vermag das Urteil des Gerichtshofs der Europäischen Union vom
+    27. Oktober 2022 zur Auslegung von Art. 30 der Richtlinie 2001/14/EG (C-721/20,
+    juris - DB Station & Services) nichts zu ändern. Daher kann der Richtlinie, anders
+    als die Beklagte geltend macht, auch keine unmittelbar wirkende Prozessvoraussetzung entnommen werden. Ungeachtet dessen war die Bundesnetzagentur bereits mit vergleichbaren wie den hier in Rede stehenden, die Regionalfaktoren
+    betreffenden Schienennetznutzungsbedingungen befasst und hat durch Bescheid vom 5. März 2010 - wenn auch nicht bestandskräftig - festgestellt, dass
+    die Erhebung der Regionalfaktoren gegen Vorschriften des Allgemeinen Eisenbahngesetzes verstieß (dazu BGH, Urteil vom 5. April 2022 - KZR 84/20, WRP
+
+                                          -5-
+
+
+
+    2022, 870 Rn. 22 ff. - Regionalfaktoren II). An dieser Rechtsauffassung hat die
+    Bundesnetzagentur in der mündlichen Verhandlung vor dem Senat ausdrücklich
+    festgehalten (BGH, Urteil vom 8. Februar 2022 - KZR 8/21, juris Rn. 40, 44).
+
+6         2.     Der Senat hat das Vorbringen der Beklagten zu den verfassungsrechtlichen Aufgabenzuweisungen und einer etwaigen daraus resultierenden
+    Rechtfertigung des beanstandeten Preisverhaltens, auch im Hinblick auf etwaige
+    Streckenstillegungen, berücksichtigt. Er hat es jedoch nicht für durchgreifend erachtet (BGH, Urteil vom 8. Februar 2022 - KZR 8/21, juris Rn. 42, 46).
+
+7         3.     Schließlich hat der Senat auch das Vorbringen der Beklagten zu der
+    Frage, ob es sich bei den gezahlten Infrastrukturentgelten um einen "Durchlaufposten" handelt, zur Kenntnis genommen, gewürdigt und erwogen, aber ebenfalls nicht für durchgreifend erachtet. Mit der Revisionsbegründung hat die Beklagte zwar allgemein geltend gemacht, dass davon auszugehen sei, dass es
+    sich bei den Infrastrukturentgelten um einen durchlaufenden Posten bei der Klägerin handele, die Klägerin dies weder substantiiert bestritten noch Beweis für
+    ihre Gegenbehauptung angeboten habe und zu Ansprüchen der Aufgabenträger
+    und deren Geltendmachung nichts vorgetragen sei. Damit hat sie die Feststellung des Berufungsgerichts, es könne nicht davon ausgegangen werden, dass
+    die öffentliche Aufgaben der Daseinsvorsorge wahrnehmenden Aufgabenträger
+    in einem Verkehrsdurchführungsvertrag mit der Beklagten (gemeint: der Klägerin) verpflichtet werden sollten, der Klägerin Entgeltzuschläge als Kosten der Infrastruktur auch dann zu erstatten, wenn insoweit gar keine wirksame Zahlungsverpflichtung der Klägerin bestand, weder in der Sache beanstandet noch in
+    verfahrensrechtlicher Hinsicht mit der nach § 551 Abs. 3 Nr. 2 Buchst. b ZPO
+    hinreichenden Genauigkeit und Bestimmtheit (BGH, Urteil vom 8. Juli 1954
+    - IV ZR 67/54, BGHZ 14, 205, 209) angegriffen. Soweit die Beklagte geltend
+    macht, zu Ansprüchen der Aufgabenträger und deren Geltendmachung sei nichts
+
+                                     -6-
+
+
+
+vorgetragen, übergeht sie, dass die Klägerin nach den nicht mit einem Tatbestandsberichtigungsantrag angegriffenen Feststellungen des Berufungsgerichts
+vorgetragen hat, es könne der Fall eintreten, dass sich der Aufgabenträger weigere, Infrastrukturkosten zu übernehmen; die Regionalisierungsmittel dienten
+nicht dazu, rechtswidrige und rechtsmissbräuchliche Infrastrukturentgelte zugunsten der Beklagten auszugleichen. Auf dieser Grundlage durfte das Berufungsgericht davon ausgehen, dass sich die Klägerin der Gefahr von Rückforderungsansprüchen ausgesetzt sehen könnte. Die Revisionsbegründung hat übergangenen Vortrag dahin, die Klägerin sei berechtigt gewesen, rechtswidrige oder
+rechtsmissbräuchliche Infrastrukturkosten dauerhaft zu behalten, nicht aufgezeigt.
+
+Kirchhoff                               Roloff                         Tolkmitt
+
+                    Rombach                               Holzinger
+
+
+
+
+Vorinstanzen:
+LG Leipzig, Entscheidung vom 14.08.2015 - 1 HKO 3444/13 -
+OLG Dresden, Entscheidung vom 13.01.2021 - U 8/15 Kart -
