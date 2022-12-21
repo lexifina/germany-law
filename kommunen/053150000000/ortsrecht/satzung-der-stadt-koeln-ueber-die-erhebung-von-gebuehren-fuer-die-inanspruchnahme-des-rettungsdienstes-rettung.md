@@ -1,24 +1,25 @@
 # Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungsdienstes (Rettungsdienstsatzung)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2021-12-21 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/rettungsdienstsatzung_18_12_2021.pdf
+- Datum: 2022-12-21 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/rettungsdienstsatzung_vom_16.12._2022.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungsdienstes (Rettungsdienstsatzung) vom 18. Dezember 2021
--Öffentliche Bekanntmachung vom 21. Dezember 2021
-Der Rat der Stadt Köln hat in seiner Sitzung vom 14.12.2021 aufgrund der §§ 2, 3, 6, 13 und 14 des Gesetzes über den Rettungsdienst sowie die Notfallrettung und den Krankentransport durch Unternehmer (RettG NRW) vom 24.11.1992 (SGV NRW 215), der §§ 1, 2, 4 und 6 des Kommunalabgabengesetzes für das Land NordrheinWestfalen (KAG NRW) vom 21.10.1969 (SGV NRW 610) und der §§ 7, 41 und 77 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) vom 14.07.1994 (SGV NRW 2023) – jeweils in der bei Erlass dieser Satzung geltenden Fassung – diese Satzung beschlossen:
+Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungsdienstes (Rettungsdienstsatzung)
+vom 16. Dezember 2022
+- ABl StK 2023, S. 12
+- Öffentliche Bekanntmachung vom 21. Dezember 2022
+Der Rat der Stadt Köln hat in seiner Sitzung vom 08.12.2022 aufgrund der §§ 2, 3, 6, 13 und 14 des Gesetzes über den Rettungsdienst sowie die Notfallrettung und den Krankentransport durch Unternehmer (RettG NRW) vom 24.11.1992 (SGV NRW 215), der §§ 1, 2, 4 und 6 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG NRW) vom 21.10.1969 (SGV NRW 610) und der §§ 7, 41 und 77 der Gemeindeordnung für das Land NordrheinWestfalen (GO NRW) vom 14.07.1994 (SGV NRW 2023) – jeweils in der bei Erlass dieser Satzung geltenden Fassung – diese Satzung beschlossen:
 § 1 Umfang und Aufgaben des Rettungsdienstes
 (1) Die Stadt Köln unterhält einen Rettungsdienst im Sinne des Gesetzes über den Rettungsdienst sowie die Notfallrettung und den Krankentransport durch Unternehmer (RettG NRW) vom 24.11.1992.
-(2) Aufgabe des Rettungsdienstes ist es (§ 2 RettG NRW) • bei Notfallpatientinnen und Notfallpatienten lebensrettende Maßnahmen am Notfallort durchzuführen, deren Transportfähigkeit herzustellen und sie unter Aufrechterhaltung der Transportfähigkeit und Vermeidung weiterer Schäden in ein für die weitere Versorgung geeignetes Krankenhaus oder in Diagnoseund geeignete Behandlungseinrichtungen zu befördern (Notfallrettung), • Kranken, Verletzten oder sonstigen hilfsbedürftigen Personen, die keine Notfallpatienten sind, fachgerechte Hilfe zu leisten und sie unter Betreuung durch qualifiziertes Personal zu befördern (Krankentransport), • eine größere Anzahl Verletzter oder Kranker bei außergewöhnlichen Schadensereignissen zu versorgen.
+(2) Aufgabe des Rettungsdienstes ist es (§ 2 RettG NRW) − bei Notfallpatientinnen und Notfallpatienten lebensrettende Maßnahmen am Notfallort durchzuführen, deren Transportfähigkeit herzustellen und sie unter Aufrechterhaltung der Transportfähigkeit und Vermeidung weiterer Schäden in ein für die weitere Versorgung geeignetes Krankenhaus oder in Diagnose- und geeignete Behandlungseinrichtungen zu befördern (Notfallrettung), − Kranken, Verletzten oder sonstigen hilfsbedürftigen Personen, die keine Notfallpatienten sind, fachgerechte Hilfe zu leisten und sie unter Betreuung durch qualifiziertes Personal zu befördern (Krankentransport), − eine größere Anzahl Verletzter oder Kranker bei außergewöhnlichen Schadensereignissen zu versorgen.
 (3) Notfallpatientinnen und Notfallpatienten haben Vorrang.
 (4) Die Bestimmungen dieser Satzung bezüglich der Durchführung von Krankentransporten gelten nur für die Fälle, in denen die Stadt Köln aufgrund ihrer Sicherstellungsverpflichtung gemäß § 6 Abs. 1 Satz 1 RettG NRW Krankentransporte selbst durchführt.
 § 2 Einsatzgrundsätze
-(1) Die Entscheidung über den Einsatz von Krankenkraftwagen (Rettungswagen oder Krankentransportwagen) und Notarzteinsatzfahrzeugen trifft die Leitstelle für den Rettungsdienst entsprechend der Anforderung der Bestellerin oder des Bestellers und nach pflichtgemäßer Prüfung.
-Seite 1 von 7
+(1) Die Entscheidung über den Einsatz von Krankenkraftwagen (Rettungswagen, NotfallKrankentransportwagen oder Krankentransportwagen) und Notarzteinsatzfahrzeugen trifft die Leitstelle für den Rettungsdienst entsprechend der Anforderung der Bestellerin oder des Bestellers und nach pflichtgemäßer Prüfung. Seite 1 von 7
 
 (2) Die Benutzerin oder der Benutzer eines Krankenkraftwagens hat keinen Anspruch darauf, dass der von ihr / ihm benutzte Wagen für einen eventuell notwendigen weiteren Transport für sie / ihn bereitgehalten wird.
 (3) Die Fahrzeugführerin oder der Fahrzeugführer des Krankenkraftwagens bestimmt die Wegstrecke bei Einsatzfahrten unter Berücksichtigung der jeweils herrschenden Verkehrsverhältnisse selbst.
@@ -31,128 +32,98 @@ Seite 1 von 7
 (3) Gebühren werden auch erhoben für: 1. Wartezeiten eines Krankenkraftwagens, 2. das vorsorgliche bestellte Bereithalten eines Krankenkraftwagens und / oder einer Notärztin oder eines Notarztes, 3. den Einsatz eines bestellten Krankenkraftwagens ohne Benutzung, wenn der Einsatz auf missbräuchlichem Verhalten der Verursacherin oder des Verursachers beruht, 4. eine vorsätzliche grundlose Alarmierung, 5. Materialtransporte.
 § 5 Gebührenanspruch und Gebührenschuldner
 (1) Der Gebührenanspruch entsteht mit der Ausfahrt des Fahrzeuges aus der Rettungswache bzw. dem Beginn der Bereitstellung.
-Seite 2 von 7
-
 (2) Gebührenschuldner ist die Person, die die Leistung des Rettungsdienstes in Anspruch nimmt oder bestellt hat. Mehrere Gebührenschuldner haften als Gesamtschuldner.
-(3) Hat eine gesetzliche Krankenkasse oder ein anderer gesetzlicher Kostenträger für ein Mitglied ein Kostenanerkenntnis abgegeben oder steht die Mitgliedschaft der oder des Transportierten in einer gesetzlichen Krankenkasse oder bei einem anderen gesetzlichen Kostenträger fest, so steht es der Stadt Köln frei, die Gebühren von der Krankenkasse oder beim Kostenträger einzuziehen. Die Gebührenpflicht des Gebührenschuldners bleibt davon unberührt.
+(3) Hat eine gesetzliche Krankenkasse oder ein anderer gesetzlicher Kostenträger für ein Mitglied ein Kostenanerkenntnis abgegeben oder steht die Mitgliedschaft der oder des Transportierten Seite 2 von 7
+
+in einer gesetzlichen Krankenkasse oder bei einem anderen gesetzlichen Kostenträger fest, so steht es der Stadt Köln frei, die Gebühren von der Krankenkasse oder beim Kostenträger einzuziehen. Die Gebührenpflicht des Gebührenschuldners bleibt davon unberührt.
 § 6 Festsetzung und Fälligkeit der Gebühren
 (1) Die Gebühren werden von der Oberbürgermeisterin bzw. vom Oberbürgermeister der Stadt Köln – Berufsfeuerwehr, Amt für Feuerschutz, Rettungsdienst und Bevölkerungsschutz – in einem den Gebührenschuldnern bzw. in den Fällen des § 5 Abs. 3 den Krankenkassen oder anderen Kostenträgern zu erteilenden Gebührenbescheid festgesetzt.
 (2) Die Gebühren werden innerhalb eines Monats nach Zugang des Gebührenbescheides beim Gebührenschuldner bzw. bei der Krankenkasse oder einem anderen Kostenträger fällig.
 § 7 Berechnung der Gebühren
-(1) Für den Transport eines Patienten innerhalb des Stadtgebietes werden Gebühren gemäß Ziff. 1.1 des Gebührentarifs erhoben.
+(1) Für den Transport einer Patientin oder eines Patienten innerhalb des Stadtgebietes werden Gebühren gemäß Ziff. 1.1 des Gebührentarifs erhoben.
 (2) Bei Transporten über die Grenze des Stadtgebietes hinaus wird zusätzlich zu den Gebühren gemäß Abs. 1 eine Gebühr für die außerhalb des Kölner Stadtgebietes zurückgelegten Kilometer gemäß Ziff. 1.2 des Gebührentarifs erhoben.
-(3) Bei gleichzeitiger Beförderung mehrerer Patienten in einem Fahrzeug erhöhen sich die Gebühren gemäß Ziff. 1.1 des Gebührentarifs um 50 %. Die erhöhten Gebühren zzgl. der Gebühren gemäß Ziff. 1.2 des Gebührentarifs werden von den beförderten Patienten anteilig gemäß Ziff. 1.3 bzw. 1.4 des Gebührentarifs erhoben.
+(3) Bei gleichzeitiger Beförderung mehrerer Patientinnen oder Patienten in einem Fahrzeug erhöhen sich die Gebühren gemäß Ziff. 1.1 des Gebührentarifs um 50 %. Die erhöhten Gebühren zzgl. der Gebühren gemäß Ziff. 1.2 des Gebührentarifs werden von den beförderten Patientinnen oder Patienten anteilig gemäß Ziff. 1.3 bzw. 1.4 des Gebührentarifs erhoben.
 (4) Für Wartezeiten (z.B. im Krankenhaus) wird für jede angefangene Viertelstunde der Wartezeit ein Viertel der Gebühr gemäß Ziff. 1.1 des Gebührentarifs erhoben. Die erste Viertelstunde ist gebührenfrei.
 (5) Berechnungsgrundlage für das vorsorgliche bestellte Bereithalten eines Krankenkraftwagens (z.B. für Veranstaltungen oder Personenschutz) ist die Dauer der Bereitstellung, bei Bereitstellung außerhalb einer Rettungswache die Dauer der Abwesenheit von der Rettungswache. Als Mindestgebühr wird eine volle Gebühr gemäß Ziff. 1.1 des Gebührentarifs für eine Bereitstellungszeit von maximal einer Stunde erhoben. Für jede weitere angefangene Viertelstunde der Bereitstellungszeit wird ein Viertel der Gebühr gemäß Ziff. 1.1 des Gebührentarifs erhoben.
-Seite 3 von 7
-
 (6) Für den Einsatz eines Krankenkraftwagens ohne Benutzung wird die volle Gebühr gemäß Ziff. 1 des Gebührentarifs berechnet, wenn der Einsatz auf missbräuchlichem Verhalten der Verursacherin oder des Verursachers beruht.
 (7) Für eine vorsätzliche grundlose Alarmierung wird die volle Gebühr gemäß Ziff. 1 des Gebührentarifs berechnet.
+Seite 3 von 7
+
 § 8 Notarztgebühren
-(1) Bei Einsatz einer Notärztin oder eines Notarztes (notärztliche Untersuchung, Behandlung oder Versorgung / Transportbegleitung eines Patienten) innerhalb des Stadtgebietes werden für die Inanspruchnahme (Notärztin / Notarzt, Fahrerin / Fahrer des Notarzteinsatzfahrzeuges und Notarzteinsatzfahrzeug) Gebühren gemäß Ziff. 2.1 des Gebührentarifs erhoben. Bei Einsatz einer Notärztin oder eines Notarztes ohne Notarzteinsatzfahrzeug wird die halbe Gebühr gemäß Ziff. 2.1 des Gebührentarifs erhoben.
+(1) Bei Einsatz einer Notärztin oder eines Notarztes (notärztliche Untersuchung, Behandlung oder Versorgung / Transportbegleitung einer Patientin oder eines Patienten) innerhalb des Stadtgebietes werden für die Inanspruchnahme (Notärztin / Notarzt, Fahrerin / Fahrer des Notarzteinsatzfahrzeuges und Notarzteinsatzfahrzeug) Gebühren gemäß Ziff. 2.1 des Gebührentarifs erhoben. Bei Einsatz einer Notärztin oder eines Notarztes ohne Notarzteinsatzfahrzeug wird die halbe Gebühr gemäß Ziff. 2.1 des Gebührentarifs erhoben.
 (2) Bei Einsätzen über die Grenze des Stadtgebietes hinaus wird zusätzlich zu den Gebühren gemäß Abs. 1 eine Gebühr für die außerhalb des Kölner Stadtgebietes zurückgelegten Kilometer gemäß Ziff. 2.3 des Gebührentarifs erhoben.
-(3) Werden mehrere Patienten an einer Einsatzstelle notärztlich untersucht oder bei ihrem Transport von einer Notärztin oder einem Notarzt begleitet, so erhöhen sich die Gebühren gemäß Ziff. 2.1 bzw. 2.2 des Gebührentarifs um 50 %. Die erhöhten Gebühren zzgl. der Gebühren gemäß Ziff. 2.3 des Gebührentarifs werden von den untersuchten bzw. beförderten Patienten anteilig gemäß Ziff. 2.4 bzw. 2.5 des Gebührentarifs erhoben.
-(4) Die Gebühr gemäß Ziff. 2 des Gebührentarifs wird ebenfalls erhoben bei der notärztlichen Begleitung von Patienten, die in ein anderes Krankenhaus oder in eine sonstige medizinische Einrichtung transportiert werden müssen (Notarzt-Begleitfahrten).
+(3) Werden mehrere Patientinnen oder Patienten an einer Einsatzstelle notärztlich untersucht oder bei ihrem Transport von einer Notärztin oder einem Notarzt begleitet, so erhöhen sich die Gebühren gemäß Ziff. 2.1 bzw. 2.2 des Gebührentarifs um 50 %. Die erhöhten Gebühren zzgl. der Gebühren gemäß Ziff. 2.3 des Gebührentarifs werden von den untersuchten bzw. beförderten Patientinnen oder Patienten anteilig gemäß Ziff. 2.4 bzw. 2.5 des Gebührentarifs erhoben.
+(4) Die Gebühr gemäß Ziff. 2 des Gebührentarifs wird ebenfalls erhoben bei der notärztlichen Begleitung von Patientinnen oder Patienten, die in ein anderes Krankenhaus oder in eine sonstige medizinische Einrichtung transportiert werden müssen (Notarzt-Begleitfahrten).
 (5) Die Gebühr gemäß Ziff. 2 des Gebührentarifs wird zusätzlich zu den Transportgebühren erhoben.
 (6) Berechnungsgrundlage für das vorsorgliche bestellte Bereithalten einer Notärztin oder eines Notarztes (z.B. für Veranstaltungen oder Personenschutz) ist die Dauer der Bereitstellung, bei Bereitstellung außerhalb einer Rettungswache die Dauer der Abwesenheit von der Rettungswache. Als Mindestgebühr wird eine volle Gebühr gemäß Ziff. 2.1 des Gebührentarifs für eine Bereitstellungszeit von maximal einer Stunde erhoben. Für jede weitere angefangene Viertelstunde der Bereitstellungszeit wird ein Viertel der Gebühr gemäß Ziff. 2.1 des Gebührentarifs erhoben.
 (7) Für eine vorsätzliche grundlose Alarmierung wird die volle Gebühr gemäß Ziff. 2 des Gebührentarifs berechnet.
+§ 9 Materialtransporte
+(1) Soweit die Einsatzsituation im Rettungsdienst es zulässt, werden vom Rettungsdienst der Stadt Köln auch Arzneimittel, Blutprodukte, Organe und ähnliche Güter befördert (Materialtransporte).
+(2) Für Materialtransporte wird die volle Gebühr gemäß Ziff. 1 des Gebührentarifs berechnet.
 Seite 4 von 7
 
-§ 9 Materialtransporte (1) Soweit die Einsatzsituation im Rettungsdienst es zulässt, werden vom Rettungsdienst der Stadt Köln auch Arzneimittel, Blutprodukte, Organe und ähnliche Güter befördert (Materialtransporte). (2) Für Materialtransporte wird die volle Gebühr gemäß Ziff. 1 des Gebührentarifs berechnet. § 10 Sicherheitsleistung (1) Bei Transporten über die Stadtgrenze hinaus kann eine angemessene Sicherheitsleistung (z.B. Vorschuss oder Kostenanerkenntnis der Krankenkasse oder eines anderen Kostenträgers bzw. des Auftraggebers) für die Transportkosten verlangt werden. (2) Wenn vor Beginn eines Krankentransportes keine ärztliche Transportverordnung vorgelegt wird, kann ein angemessener Vorschuss oder eine andere Sicherheitsleistung für die Transportkosten verlangt werden.
-§ 11 Inkrafttreten (1) Diese Satzung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft. (2) Gleichzeitig tritt die Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungsdienstes (Rettungsdienstsatzung) vom 24.05.2019 (in Kraft getreten am 30.05.2019) außer Kraft.
+§ 10 Sicherheitsleistung (1) Bei Transporten über die Stadtgrenze hinaus kann eine angemessene Sicherheitsleistung
+(z.B. Vorschuss oder Kostenanerkenntnis der Krankenkasse oder eines anderen Kostenträgers bzw. des Auftraggebers) für die Transportkosten verlangt werden. (2) Wenn vor Beginn eines Krankentransportes keine ärztliche Transportverordnung vorgelegt wird, kann ein angemessener Vorschuss oder eine andere Sicherheitsleistung für die Transportkosten verlangt werden.
+§ 11 Inkrafttreten (1) Diese Satzung tritt am Tag nach ihrer öffentlichen Bekanntmachung in Kraft. (2) Gleichzeitig tritt die Satzung der Stadt Köln über die Erhebung von Gebühren für die
+Inanspruchnahme des Rettungsdienstes (Rettungsdienstsatzung) vom 18.12.2021 (in Kraft getreten am 22.12.2021) außer Kraft.
 Seite 5 von 7
 
-Gebührentarif zur Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungsdienstes (Rettungsdienstsatzung) vom 18. Dezember 2021
+Gebührentarif
+zur Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme des Rettungsdienstes (Rettungsdienstsatzung)
+vom 16. Dezember 2022
 
 1. Gebühren für Transporte
-1.1 mit Krankenkraftwagen innerhalb des Stadtgebietes bei Transport eines Patienten
+1.1 mit Krankenkraftwagen innerhalb des Stadtgebietes bei Transport einer Patientin oder eines Patienten
 1.2 mit Krankenkraftwagen außerhalb des Stadtgebietes je außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich zu Ziff. 1.1
-1.3 mit Krankenkraftwagen bei gleichzeitigem Transport von zwei Patienten in einem Fahrzeug
-je Patient je Patient und außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
-1.4 mit Krankenkraftwagen bei gleichzeitigem Transport von mehr als zwei Patienten in einem Fahrzeug
-je Patient je Patient und außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
+1.3 mit Krankenkraftwagen bei gleichzeitigem Transport von zwei Patientinnen oder Patienten in einem Fahrzeug
+je Patient*in je Patient*in und außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
+1.4 mit Krankenkraftwagen bei gleichzeitigem Transport von mehr als zwei Patientinnen oder Patienten in einem Fahrzeug
+je Patient*in je Patient*in und außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
 2. Gebühren für notärztliche Leistungen
 2.1 Einsatz einer Notärztin oder eines Notarztes mit Notarzteinsatzfahrzeug innerhalb des Stadtgebietes
 2.2 Einsatz einer Notärztin oder eines Notarztes ohne Notarzteinsatzfahrzeug innerhalb des Stadtgebietes
 2.3 Einsatz einer Notärztin oder eines Notarztes mit Notarzteinsatzfahrzeug außerhalb des Stadtgebietes je außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich zu Ziff. 2.1
-2.4 Einsatz einer Notärztin oder eines Notarztes bei Tätigwerden für zwei Patienten
-mit Notarzteinsatzfahrzeug je Patient mit Notarzteinsatzfahrzeug je Patient und außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
-ohne Notarzteinsatzfahrzeug je Patient
+2.4 Einsatz einer Notärztin oder eines Notarztes bei Tätigwerden für zwei Patientinnen oder Patienten
+mit Notarzteinsatzfahrzeug je Patient*in mit Notarzteinsatzfahrzeug je Patient*in und außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
+ohne Notarzteinsatzfahrzeug je Patient*in
 
-480,00 € 7,60 €
-360,00 € 3,80 €
-240,00 € 2,50 €
-599,00 € 299,50 €
-7,40 €
-449,25 € 3,70 €
-224,60 €
+609,00 € 9,00 €
+456,75 € 4,50 €
+304,50 € 3,00 €
+590,00 € 295,00 €
+6,70 €
+442,50 € 3,35 €
+221,25 € Seite 6 von 7
 
-Seite 6 von 7
-
-2.5 Einsatz einer Notärztin oder eines Notarztes bei Tätigwerden für mehr als zwei Patienten
-
-mit Notarzteinsatzfahrzeug je Patient mit Notarzteinsatzfahrzeug je Patient und außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
-
-299,50 € 2,45 €
-
-ohne Notarzteinsatzfahrzeug je Patient
-
-149,75 €
-
+2.5 Einsatz einer Notärztin oder eines Notarztes bei Tätigwerden für mehr als zwei Patientinnen oder Patienten
+mit Notarzteinsatzfahrzeug je Patient*in mit Notarzteinsatzfahrzeug je Patient*in und außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
+ohne Notarzteinsatzfahrzeug je Patient*in
 3. Wartezeiten eines Krankenkraftwagens nach 15 Minuten für jede weitere angefangene Viertelstunde
-
-149,75 €
-
 4. Vorsorgliches bestelltes Bereithalten eines Krankenkraftwagens
-
 4.1 Mindestgebühr für maximal eine Stunde Bereitstellungszeit
-
-480,00 €
-
 4.2 für jede weitere angefangene Viertelstunde
-
-120,00 €
-
 5. Vorsorgliches bestelltes Bereithalten einer Notärztin oder eines Notarztes
-
 5.1 Mindestgebühr für maximal eine Stunde Bereitstellungszeit
-
-599,00 €
-
 5.2 für jede weitere angefangene Viertelstunde
-
-149,75 €
-
 6. Materialtransport
-
-480,00 €
-
 je außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
-
-7,60 €
-
 7. Einsatz eines Krankenkraftwagens ohne Benutzung, wenn der Einsatz auf missbräuchlichem Verhalten beruht
-
-480,00 €
-
 je außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
 
-7,60 €
+295,00 € 2,20 €
+147,50 € 152,25 €
+609,00 € 152,25 €
+590,00 € 147,50 € 609,00 €
+9,00 € 609,00 €
+9,00 €
 
 8. Vorsätzliche grundlose Alarmierung
-
 eines Krankenkraftwagens je außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
+einer Notärztin oder eines Notarztes mit Notarzteinsatzfahrzeug je außerhalb des Stadtgebietes zurückgelegtem Kilometer zusätzlich
+einer Notärztin oder eines Notarztes ohne Notarzteinsatzfahrzeug
 
-480,00 € 7,60 €
-
-einer Notärztin oder eines Notarztes mit Notarzteinsatzfahrzeug 599,00 €
-
-je außerhalb des Stadtgebietes
-
-7,40 €
-
-zurückgelegtem Kilometer zusätzlich
-
-einer Notärztin oder eines Notarztes ohne Notarzteinsatzfahrzeug 299,50 €
+609,00 € 9,00 €
+590,00 € 6,70 €
+295,00 €
 
 Seite 7 von 7
