@@ -1,0 +1,7 @@
+# TOP 2: Bestätigung des Protokolls der letzten Sitzung vom 16.11.2022
+
+- Sitzung: 11. Sitzung in der IX. Wahlperiode des Ausschusses Eingaben/Beschwerden und Bürger:innendienste (2022-12-21)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=60816
+- Ergebnis: erledigt
