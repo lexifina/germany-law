@@ -1,8 +1,8 @@
 # Satzung der Stadt Köln über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straße -Sondernutzungssatzung
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2022-06-27 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/satzung_über_erlaubnisse_und_gebühren_für_sondernutzungen_an_öffentlichen_straßen_vom_27._juni_2022.pdf
+- Datum: 2022-12-21 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/sondernutzungssatzung_21_12_2022.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -11,7 +11,9 @@
 Satzung der Stadt Köln über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straße -Sondernutzungssatzung-
 vom 13. Februar 1998
 in der Fassung der 6. Satzung zur Änderung der Sondernutzungssatzung vom 14. Juni 2022
-- Öffentliche Bekanntmachung vom 27. Juni 2022 Der Rat hat in seiner Sitzung am 29.01.1998 aufgrund der §§ 18, 19 und 19a des Straßen- und Wegegesetzes des Landes Nordrhein-Westfalen (StrWG NW) in der Fassung der Bekanntmachung vom 23. September 1995 (GV. NW. 1995 S. 1028, 1996 S. 141 und 1996 S. 216), des § 8 Abs. 1 und 3 des Bundesfernstraßengesetzes (FStrG) in der Fassung der Bekanntmachung vom 19. April 1994 (BGBl. I S. 854) in Verbindung mit §§ 7 und 76 Absatz 1 der Gemeindeordnung für das Land NordrheinWestfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NW. S. 666/SGV. NW. 2023) - jeweils in der bei Erlass dieser Satzung gültigen Fassung diese Satzung beschlossen:
+- ABI StK 2022, S. 208, 2023, S. 12 -
+- Öffentliche Bekanntmachung vom 27. Juni 2022, 21. Dezember 2022 -
+Der Rat hat in seiner Sitzung am 29.01.1998 aufgrund der §§ 18, 19 und 19a des Straßen- und Wegegesetzes des Landes Nordrhein-Westfalen (StrWG NW) in der Fassung der Bekanntmachung vom 23. September 1995 (GV. NW. 1995 S. 1028, 1996 S. 141 und 1996 S. 216), des § 8 Abs. 1 und 3 des Bundesfernstraßengesetzes (FStrG) in der Fassung der Bekanntmachung vom 19. April 1994 (BGBl. I S. 854) in Verbindung mit §§ 7 und 76 Absatz 1 der Gemeindeordnung für das Land NordrheinWestfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NW. S. 666/SGV. NW. 2023) - jeweils in der bei Erlass dieser Satzung gültigen Fassung diese Satzung beschlossen:
 § 1 Sachlicher Geltungsbereich
 (1) Diese Satzung gilt für alle Gemeinde-, Kreisstraßen und sonstigen öffentlichen Straßen im Sinne des § 3 Abs. 5 StrWG NW sowie für die Ortsdurchfahrten im Zuge der Bundes- und Landesstraßen im Gebiet der Stadt Köln.
 (2) Zu den Straßen des Abs. 1 gehören die in § 2 Abs. 2 StrWG NW sowie die in § 1 Abs. 4 FStrG genannten Bestandteile des Straßenkörpers, der Luftraum über dem Straßenkörper, das Zubehör und die Nebenanlagen.
@@ -53,7 +55,10 @@ Die Erlaubnis wird auf Zeit - längstens für drei Jahre - oder auf Widerruf ert
 (5) Sondernutzungsgebühren werden nicht erhoben für Sondernutzungen, die überwiegend gemeinnützigen, mildtätigen, religiösen, kirchlichen, wissenschaftlichen, politischen oder ideellen Zwecken dienen bzw. überwiegend im öffentli-
 Seite 3 von 9
 
-chen Interesse liegen. Im Einzelfall kann auf die Erhebung von Sondernutzungsgebühren teilweise verzichtet werden, wenn ein Teil der Sondernutzung im überwiegenden öffentlichen Interesse liegt. (6) Das Recht der Stadt Köln, nach § 18 Abs. 3 StrWG NW bzw. § 8 Abs. 2a FStrG Kostenersatz sowie Vorschüsse und Sicherheiten zu verlangen, wird durch die nach dem Tarif bestehende Gebührenpflicht oder Gebührenfreiheit für Sondernutzungen nicht berührt. (7) Neben den Sondernutzungsgebühren werden Verwaltungsgebühren nach der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln erhoben.
+chen Interesse liegen. Im Einzelfall kann auf die Erhebung von Sondernutzungsgebühren teilweise verzichtet werden, wenn ein Teil der Sondernutzung im überwiegenden öffentlichen Interesse liegt.
+(6) Das Recht der Stadt Köln, nach § 18 Abs. 3 StrWG NW bzw. § 8 Abs. 2a FStrG Kostenersatz sowie Vorschüsse und Sicherheiten zu verlangen, wird durch die nach dem Tarif bestehende Gebührenpflicht oder Gebührenfreiheit für Sondernutzungen nicht berührt.
+(7) Neben den Sondernutzungsgebühren werden Verwaltungsgebühren nach der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln erhoben.
+(8) Bei den im Gebührentarif aufgeführten Beträgen handelt es sich um Nettobeträge (ohne Umsatzsteuer). Soweit Leistungen von der Stadt Köln als Unternehmerin erbracht werden, erhöhen sich die Gebühren um den Betrag, der nach dem Umsatzsteuergesetz in der jeweils geltenden Fassung als Umsatzsteuer zu entrichten ist. Die Erhöhung ist Teil der Gebühr.
 § 10 Gebührenschuldner
 (1) Gebührenschuldner sind:
 a) der Antragsteller, b) der Erlaubnisnehmer, c) derjenige, der die Sondernutzung ausübt, d) derjenige, der durch die Sondernutzung unmittelbar begünstigt wird.
@@ -63,10 +68,9 @@ a) der Antragsteller, b) der Erlaubnisnehmer, c) derjenige, der die Sondernutzun
 a) mit der Erteilung der Sondernutzungserlaubnis, b) bei nicht genehmigter Sondernutzung mit dem Beginn der Nutzung.
 (2) Die Gebühren für die erteilte Sondernutzungserlaubnis werden mit der Bekanntgabe des Gebührenbescheids an den Gebührenschuldner fällig. Der Gebührenbescheid kann einen späteren Zeitpunkt für die Fälligkeit bestimmen.
 (3) Nicht genehmigte Sondernutzungen unterliegen der Gebührenpflicht vom Tage der Ausübung an und ohne Rücksicht darauf, ob für die Sondernutzung nachträglich eine Erlaubnis nach dieser Satzung erteilt wird. Die Gebühr wird durch Gebührenbescheid erhoben.
-(4) Die Gebühren können in geeigneten Fällen gleichzeitig mit der Erteilung der Sondernutzungserlaubnis durch Postnachnahme eingezogen werden. Das gilt insbesondere in den Fällen nach Absatz 2 für die einmalige bzw. erstmalige Gebühr.
 Seite 4 von 9
 
-§ 12 Stundung und Erlass
+(4) Die Gebühren können in geeigneten Fällen gleichzeitig mit der Erteilung der Sondernutzungserlaubnis durch Postnachnahme eingezogen werden. Das gilt insbesondere in den Fällen nach Absatz 2 für die einmalige bzw. erstmalige Gebühr. § 12 Stundung und Erlass
 Stundung und Erlass der Gebühren richten sich nach den Vorschriften des Kommunalabgabengesetzes NW.
 § 13 Gebührenerstattung
 Wird die Sondernutzung aufgegeben oder die Erlaubnis widerrufen, so werden auf Antrag die im Voraus entrichteten Sondernutzungsgebühren anteilig erstattet. § 9 Abs. 3 gilt entsprechend. Der Antrag ist innerhalb von 3 Monaten nach Beendigung der Sondernutzung zu stellen. Beträge unter 12,50 Euro werden nicht erstattet.
@@ -292,7 +296,9 @@ m2/Monat
 
 1,65
 
-12 Aufstellen von LKW für Zuschauer am Rosenmontag Seite 7 von 9
+Seite 7 von 9
+
+12 Aufstellen von LKW für Zuschauer am Rosenmontag Seite 8 von 9
 
 TarifNr. Art der Sondernutzung
 
@@ -384,6 +390,8 @@ ab der 2. Woche
 
 Volksfeste, Kirmessen, Zirkusgastspiele
 
+Seite 9 von 9
+
 Stück/Monat
 
 12,90
@@ -399,8 +407,6 @@ Stück/Monat
 m2/Tag m2/Tag m2/ Woche
 
 1,20 - 1,45 0,60 - 0,75 0,15 - 1,20
-
-Seite 8 von 9
 
 TarifNr. Art der Sondernutzung
 
@@ -471,4 +477,4 @@ für Elektroautos)
 
 Stellplatz/Monat 30,00 bis 120,00
 
-Seite 9 von 9
+Seite 10 von
