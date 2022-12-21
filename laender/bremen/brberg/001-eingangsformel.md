@@ -1,2 +1,2 @@
 # Eingangsformel
-Nachstehend werden folgende von der Bürgerschaft (Landtag) und dem Senat beschlossene Vorschriften verkündet:
+Nachstehend werden folgende von Bürgerschaft (Landtag), Stadtbürgerschaft, Senat und Senatoren je für ihren Zuständigkeitsbereich beschlossene Vorschriften verkündet:
