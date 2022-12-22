@@ -34,12 +34,14 @@
 | - | APICA (SDB-001, 2NE1) | N-(Adamantan-1-yl)-1-pentyl-1H-indol-3-carboxamid |
 | - | BB-22 (QUCHIC) | Chinolin-8-yl[1-(cyclohexylmethyl)-1H-indol-3-carboxylat] |
 | - | Benzylpiperazin (BZP) | 1-Benzylpiperazin |
+| - | Brorphin | 1-{1-[1-(4-Bromphenyl)ethyl]piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-on |
 | - | Buphedron | 2-(Methylamino)-1-phenylbutan-1-on |
 | Butalbital | - | 5-Allyl-5-isobutylbarbitursäure |
 | - | Butobarbital | 5-Butyl-5-ethylpyrimidin-2,4,6(1H,3H,5H)-trion |
 | - | Butylon | 1-(Benzo[d][1,3]dioxol-5-yl)-2-(methylamino)butan-1-on |
 | - | Butyrfentanyl (Butyrylfentanyl) | N-Phenyl-N-[1-(2-phenylethyl) piperidin-4-yl]butanamid |
 | Cetobemidon | Ketobemidon | 1-[4-(3-Hydroxyphenyl)-1-methyl-4-piperidyl]propan-1-on |
+| - | 3-Chlormethcathinon (3-CMC, Clophedron) | 1-(3-Chlorphenyl)-2-methylaminopropan-1-on |
 | - | meta-Chlorphenylpiperazin (m-CPP) | 1-(3-Chlorphenyl)piperazin |
 | - | 5Cl-AKB-48 (5C-AKB-48, AKB-48Cl, 5CI-APINACA, 5C-APINACA) | N-(Adamantan-1-yl)-1-(5-chlorpentyl)-1H-indazol-3-carboxamid |
 | - | 5Cl-JWH-018 (JWH-018 N-(5-Chlorpentyl)- Analogon) | [1-(5-Chlorpentyl)-1H-indol-3-yl] (naphthalin-1-yl)methanon |
@@ -90,6 +92,7 @@
 | - | 5F-AB-PINACA(5-Fluor-AB-PINACA) | N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluorpentyl)-1H-indazol-3-carboxamid |
 | - | 5F-ADB(5F-MDMB-PINACA) | Methyl{2-[1-(5-fluorpentyl)-1H-indazol-3-carboxamid]-3,3-dimethylbutanoat} |
 | - | 5F-AMB(5-Fluor-AMB) | Methyl{2-[1-(5-fluorpentyl)-1H-indazol-3-carboxamido]-3-methylbutanoat} |
+| - | Eutylon (N-Ethylnorbutylon, bk-EBDB) | 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-on |
 | - | FDU-PB-22 | Naphthalin-1-yl{1[(4-fluorphenyl)methyl]-1H-indol-3-carboxylat} |
 | Fencamfamin | - | N-Ethyl-3-phenylbicyclo[2.2.1]heptan-2-amin |
 | - | Flephedron (4-Fluormethcathinon, 4-FMC) | 1-(4-Fluorphenyl)-2-(methylamino)propan-1-on |
@@ -155,6 +158,7 @@
 | - | Methylon (3,4-Methylendioxy-N-methcathinon, MDMC) | 1-(Benzo[d][1,3]dioxol-5-yl)-2-(methylamino)propan-1-on |
 | (RS;SR)-Methylphenidat | - | Methyl[(RS;SR)(phenyl)(2-piperidyl)acetat] |
 | Methyprylon | - | 3,3-Diethyl-5-methylpiperidin-2,4-dion |
+| - | Metonitazen | N,N-Diethyl-2-{2-[(4-methoxyphenyl)methyl]-5-nitro-1H- benzimidazol-1-yl}ethan-1-amin |
 | - | MMB-2201 (5F-AMB-PICA, 5F-MMB-PICA) | Methyl{2-[1-(5-fluorpentyl)-1H-indol- 3-carboxamido]-3-methylbutanoat} |
 | - | Mohnstrohkonzentrat(das bei der Verarbeitung von Pflanzen und Pflanzenteilen der Art Papaver somniferum zur Konzentrierung der Alkaloide anfallende Material) | - |
 | - | Moramid-Zwischenprodukt (Premoramid) | 3-Methyl-4-morpholino-2,2-diphenylbutansäure |
