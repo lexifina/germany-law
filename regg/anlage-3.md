@@ -1,4 +1,4 @@
-# Anlage 3 (zu § 5 Absatz 11 und 12) Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2020 bis einschließlich 2031
+# Anlage 3 (zu § 5 Absatz 11 und 12)Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2020 bis einschließlich 2031
 
 | Land/EUR | 2020 | 2021 | 2022 | 2023 |
 | BW | 16 695 219,51 | 34 262 686,83 | 35 170 728,36 | 53 787 593,11 |

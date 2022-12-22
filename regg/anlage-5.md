@@ -1,4 +1,4 @@
-# Anlage 5 (zu § 6 Absatz 2) Verwendungsnachweis
+# Anlage 5 (zu § 6 Absatz 2)Verwendungsnachweis
 
 | Nachweis über die Verwendung der Regionalisierungsmittel |
 | für das Bundesland | im Jahr: |

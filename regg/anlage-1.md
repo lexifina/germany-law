@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 5 Absatz 4 und 9) Verteilung der Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031
+# Anlage 1 (zu § 5 Absatz 4 und 9)Verteilung der Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031
 
 | Land/EUR | 2016 | 2017 | 2018 | 2019 |
 | BW | 850 696 000,00 | 881 775 312,00 | 913 706 144,32 | 946 500 791,40 |

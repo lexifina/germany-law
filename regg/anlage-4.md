@@ -1,4 +1,4 @@
-# Anlage 4 (zu § 5 Absatz 13 und 14) Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2022 bis einschließlich 2031
+# Anlage 4 (zu § 5 Absatz 13 und 14)Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2022 bis einschließlich 2031
 
 | Land/EUR | 2022 | 2023 | 2024 | 2025 | 2026 |
 | BW | 114 135 609,76 | 118 532 400,00 | 123 090 275,61 | 127 816 010,67 | 132 500 387,40 |
