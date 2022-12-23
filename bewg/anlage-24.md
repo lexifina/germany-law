@@ -1,4 +1,4 @@
-# Anlage 24 (zu § 190 Absatz 1 Satz 4 und Absatz 3)Ermittlung des Gebäuderegelherstellungswerts
+# Anlage 24 (zu § 190 Absatz 1 Satz 3 und Absatz 2 und Anlage 23)Regelherstellungskosten
 
 I. Begriff der Brutto-Grundfläche (BGF)
 1. Die BGF ist die Summe der bezogen auf die jeweilige Gebäudeart marktüblich nutzbaren Grundflächen aller Grundrissebenen eines Bauwerks. In Anlehnung an die DIN 277-1:2005-02 sind bei den Grundflächen folgende Bereiche zu unterscheiden:

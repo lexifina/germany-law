@@ -3,7 +3,7 @@
 - [§ 1 Anordnung als Bundesstatistik](0001.md)
 - [§ 2 Erhebungsmerkmale und Periodizität](0002.md)
 - [§ 2a Statistische Aufbereitung von Daten aus der Einkommensbesteuerung](0002a.md)
-- [§ 2b Statistische Aufbereitung von Daten aus der Körperschaft- und Gewerbesteuer](0002b.md)
+- [§ 2b Statistische Aufbereitung von Daten aus der Umsatz-, Körperschaft- und Gewerbesteuer](0002b.md)
 - [§ 2c Zusammenführung von Einzelangaben](0002c.md)
 - [§ 3 (weggefallen)](0003.md)
 - [§ 4 Kindergeldstatistik](0004.md)

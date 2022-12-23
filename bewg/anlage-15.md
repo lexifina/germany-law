@@ -15,6 +15,6 @@
 | Baumartengruppe Kiefer | I. Ertragsklasse und besser | 26 | 5,40 | Anlage 15a |
 | II. Ertragsklasse | 11 |
 | III. Ertragsklasse und schlechter | 11 |
-| übrige Fläche der forstwirtschaftlichen Nutzung |  | 11 | 5,40 | Anlage 15a |
+| übrige Fläche der forstwirtschaftlichen Nutzung |  | 11 | 5,40 |  |
 |  |
 |  |

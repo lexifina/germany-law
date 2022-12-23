@@ -1,9 +1,21 @@
-# Anlage 23 (zu § 187 Abs. 2 Satz 2)Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent der Jahresmiete oder üblichen Miete (ohne Betriebskosten)
+# Anlage 23 (zu § 187 Absatz 2 und 3)Bewirtschaftungskosten
 
-| Restnutzungsdauer | Grundstücksart |
-| 1 | 2 | 3 | 4 |
-| Mietwohngrundstück | gemischt genutztes Grundstück mit einem gewerblichen Anteil von bis zu 50% (berechnet nach der Wohn- bzw. Nutzfläche) | gemischt genutztes Grundstück mit einem gewerblichen Anteil von mehr als 50% (berechnet nach der Wohn- bzw. Nutzfläche) | Geschäftsgrundstück |
-| ≥ 60 Jahre | 21 | 21 | 18 |
-| 40 bis 59 Jahre | 23 | 22 | 20 |
-| 20 bis 39 Jahre | 27 | 24 | 22 |
-| < 20 Jahre | 29 | 26 | 23 |
+| I. | Bewirtschaftungskosten für Wohnnutzung |
+| 1. | Verwaltungskosten (Basiswerte) |
+| jährlich je Wohnung | 230 Euro |
+| jährlich je Garage oder ähnlichen Einstellplatz | 30 Euro |
+| 2. | Instandhaltungskosten (Basiswerte) |
+| jährlich je Quadratmeter Wohnfläche | 9 Euro |
+| jährlich je Garage oder ähnlichen Einstellplatz | 68 Euro |
+| 3. | Mietausfallwagnis |
+| jährlicher Rohertrag | 2 Prozent |
+| II. | Bewirtschaftungskosten für gewerbliche Nutzung |
+| 1. | Verwaltungskosten |
+| jährlicher Rohertrag | 3 Prozent |
+| 2. | Instandhaltungskosten |
+| jährlich je Quadratmeter Nutzfläche (alle Gebäudearten der Anlage 24, Teil II., mit Ausnahme der nachfolgend genannten Gebäudearten) | 100 Prozent der Instandhaltungskosten je Quadratmeter Wohnfläche gemäß Nummer I.2 |
+| jährlich je Quadratmeter Nutzfläche (Gebäudeart 13 der Anlage 24, Teil II.) | 50 Prozent der Instandhaltungskosten je Quadratmeter Wohnfläche gemäß Nummer I.2 |
+| jährlich je Quadratmeter Nutzfläche (Gebäudearten 15 bis 16 und 18 der Anlage 24, Teil II.) | 30 Prozent der Instandhaltungskosten je Quadratmeter Wohnfläche gemäß Nummer I.2 |
+| 3. | Mietausfallwagnis |
+| jährlicher Rohertrag | 4 Prozent |
+Die Anpassung der Basiswerte nach den Nummern I.1 und I.2 erfolgt jährlich mit dem Prozentsatz, um den sich der vom Statistischen Bundesamt festgestellte Verbraucherpreisindex für Deutschland für den Monat Oktober 2001 gegenüber demjenigen für den Monat Oktober des Jahres, das dem Stichtag der Ermittlung des Liegenschaftszinssatzes vorausgeht, erhöht oder verringert hat. Die Werte für die Instandhaltungskosten pro Quadratmeter sind auf eine Nachkommastelle und bei den Instandhaltungskosten pro Garage oder ähnlichem Einstellplatz sowie bei Verwaltungskosten kaufmännisch auf volle Euro zu runden.

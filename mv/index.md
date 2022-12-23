@@ -28,6 +28,7 @@ Flurbereinigungsgesetz](0005.md)
 ## 4. Teil Besondere Vorschriften
 
 - [§ 13 Mitteilungen über Billigkeitsleistungen des Bundes und der Länder anlässlich der Corona-Krise](0013.md)
+- [§ 13a Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm](0013a.md)
 - [§ 14 Mitteilung von Zahlungen der Kassenärztlichen Vereinigungen an die Anbieter von Leistungen nach der Coronavirus-Testverordnung](0014.md)
 - [§ 15 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen und Hochwasserkatastrophe im Juli 2021](0015.md)
 - [Schlußformel](schlussformel.md)

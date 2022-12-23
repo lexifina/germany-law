@@ -1,8 +1,8 @@
 # Anlage 39 (zu § 254) Ermittlung des Rohertrags
 
-I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche**
+I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche
   (Wertverhältnisse/Stand: 1. Januar 2022)
-  | Land | Gebäudeart | Wohnfläche | Baujahr des Gebäudes |
+  | Land | Gebäudeart | Wohnfläche (je Wohnung) | Baujahr des Gebäudes |
   | bis 1948 | 1949 bis 1978 | 1979 bis 1990 | 1991 bis 2000 | ab 2001 |
   | Baden-Württemberg | Einfamilienhaus | unter 60 m2 | 7,13 | 6,88 | 7,01 | 8,73 | 9,40 |
   | von 60 m2 bis unter 100 m2 | 6,24 | 6,41 | 6,62 | 7,58 | 7,51 |
@@ -157,4 +157,4 @@ II. Mietniveaustufen
   | Mietniveaustufe 5 | + 20,0 % |
   | Mietniveaustufe 6 | + 30,0 % |
   | Mietniveaustufe 7 | + 40,0 % |
-  Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung.
+  Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung; nicht aufgeführte Gemeinden sind der Mietniveaustufe 3 zuzuordnen.

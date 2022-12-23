@@ -1,4 +1,4 @@
-# Anlage 21 (zu § 185 Abs. 3 Satz 1, § 193 Abs. 3 Satz 2, § 194 Abs. 3 Satz 3 und § 195 Abs. 2 Satz 2 und Abs. 3 Satz 3)Vervielfältiger
+# Anlage 21 (zu § 185 Absatz 3 Satz 1, § 193 Absatz 4 Satz 1, § 194 Absatz 5 Satz 1 und § 195 Absatz 3 Satz 1 und Absatz 7 Satz 1)Vervielfältiger
 
 | Restnutzungsdauer; Restlaufzeit des Erbbaurechts bzw. des Nutzungsrechts (in Jahren) | Zinssatz |
 | 3 % | 3,5 % | 4 % | 4,5 % | 5 % | 5,5 % | 6 % | 6,5 % | 7 % | 7,5 % | 8 % |

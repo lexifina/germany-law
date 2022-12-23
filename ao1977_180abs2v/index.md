@@ -8,8 +8,7 @@
 - [§ 5 Verfahrensbeteiligte](0005.md)
 - [§ 6 Bekanntgabe](0006.md)
 - [§ 7 Außenprüfung](0007.md)
-- [§ 8 Feststellungsgegenstand beim Übergang zur
-Liebhaberei](0008.md)
+- [§ 8 Feststellungsgegenstand beim Übergang zur Liebhaberei](0008.md)
 - [§ 9 Feststellungsgegenstand bei Einsatz von Versicherungen auf den Erlebens- oder Todesfall zu Finanzierungszwecken](0009.md)
 - [§ 10 (weggefallen)](0010.md)
 - [Schlußformel](schlussformel.md)

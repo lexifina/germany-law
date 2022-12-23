@@ -374,7 +374,14 @@
 - [§ 119 Steuerpflicht](0119.md)
 - [§ 120 Anwendung der Abgabenordnung](0120.md)
 - [§ 121 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung](0121.md)
-- [§ 122 Nichtberücksichtigung als Einkommen bei Sozialleistungen](0122.md)
+- [§ 122 Nichtberücksichtigung als Einkommen bei Sozialleistungen, Unpfändbarkeit](0122.md)
+
+## XVI. Besteuerung der Gas-/Wärmepreisbremse
+
+- [§ 123 Grundsatz der Besteuerung](0123.md)
+- [§ 124 Einstieg und Milderungszone](0124.md)
+- [§ 125 Zufluss und Besteuerung](0125.md)
+- [§ 126 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung](0126.md)
 - [Anlage 1 (zu § 4d Absatz 1)Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen](anlage-1.md)
 - [Anlage 1a (zu § 13a)Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen](anlage-1a.md)
 - [Anlage 2 (zu § 43b) Gesellschaften im Sinne der Richtlinie Nr. 2011/96/EU](anlage-2.md)
