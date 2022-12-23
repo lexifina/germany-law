@@ -25,7 +25,7 @@ Abschnitt 2 Zentrales Vergabeverfahren
 § 20 Vorwegzulassung
 § 21 Teilstudienplätze
 § 22 Bescheide
-§ 23 Übergangsregelungen für das Zentrale Vergabeverfahren
+§ 23 Übergangsregelung für das Zentrale Vergabeverfahren
 § 24 Bewerbungsfristen bei Anträgen auf Zulassung außerhalb der festgesetzten Zulassungszahlen
 Kapitel 3 Studienplatzvergabe im Örtlichen Vergabeverfahren
 Abschnitt 1 Allgemeine Vorschriften
