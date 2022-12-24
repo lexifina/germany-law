@@ -400,5 +400,9 @@ zum Schutz der Pflegebedürftigen
 - [§ 151 Qualitätsprüfungen nach § 114](0151.md)
 - [§ 152 Verordnungsermächtigung](0152.md)
 - [§ 153 Erstattung pandemiebedingter Kosten durch den Bund; Verordnungsermächtigung](0153.md)
+
+### Abschnitt 4 Maßnahmen zum Ausgleich außergewöhnlicher Kostenentwicklungen
+
+- [§ 154 Ergänzungshilfen für stationäre Pflegeeinrichtungen zum Ausgleich steigender Preise für Erdgas, Wärme und Strom](0154.md)
 - [Anlage 1 (zu § 15)Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul](anlage-1.md)
 - [Anlage 2 (zu § 15) Bewertungssystematik (Summe der Punkte und gewichtete Punkte)Schweregrad der Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten im Modul](anlage-2.md)

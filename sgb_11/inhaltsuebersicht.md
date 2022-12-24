@@ -396,5 +396,8 @@
 | § 151 | Qualitätsprüfungen nach § 114 |
 | § 152 | Verordnungsermächtigung |
 | § 153 | Erstattung pandemiebedingter Kosten durch den Bund; Verordnungsermächtigung |
+| Vierter Abschnitt |
+| Maßnahmen zumAusgleich außergewöhnlicher Kostenentwicklungen |
+| § 154 | Ergänzungshilfen für stationäre Pflegeeinrichtungen zum Ausgleich steigender Preise für Erdgas, Wärme und Strom |
 Anlage 1 (zu § 15) Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul
 Anlage 2 (zu § 15) Bewertungssystematik (Summe der Punkte und gewichtete Punkte)
