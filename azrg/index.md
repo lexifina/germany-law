@@ -41,6 +41,7 @@ werden
 - [§ 16 Datenübermittlung an Gerichte](0016.md)
 - [§ 17 Datenübermittlung an das Zollkriminalamt](0017.md)
 - [§ 17a Datenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen](0017a.md)
+- [§ 17b Datenübermittlung an die Zentralstelle für Sanktionsdurchsetzung](0017b.md)
 - [§ 18 Datenübermittlung an die Bundesagentur für Arbeit und die Behörden der Zollverwaltung](0018.md)
 - [§ 18a Datenübermittlung an die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen](0018a.md)
 - [§ 18b Datenübermittlung an die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen](0018b.md)

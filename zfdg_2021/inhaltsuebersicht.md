@@ -25,6 +25,7 @@ Datenverarbeitung durch die Zentralstelle
 | § 12 | Daten zu anderen Personen |
 | § 13 | Daten zur Beobachtung bestimmter Verkehre |
 | § 14 | Daten für Zwecke der Ausschreibung |
+| § 14a | Daten für Zwecke der Ausschreibung zur Ermittlungsanfrage oder zur verdeckten Kontrolle |
 | § 15 | Zollfahndungsinformationssystem |
 | § 16 | Unterrichtung der Zentralstelle |
 | § 17 | Speicherung von DNA-Identifizierungsmustern zur Erkennung von DNA-Trugspuren |
@@ -57,6 +58,7 @@ die Behörden des Zollfahndungsdienstes
 | § 31 | Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen |
 | § 32 | Daten zu anderen Personen |
 | § 33 | Daten für Zwecke der Ausschreibung |
+| § 33a | Daten für Zwecke der Ausschreibung zur Ermittlungsanfrage oder zur verdeckten Kontrolle |
 | § 34 | Aufzeichnung eingehender Telefonanrufe |
 | § 35 | Daten aus Strafverfahren |
 | § 36 | Abgleich personenbezogener Daten |
