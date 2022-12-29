@@ -24,7 +24,7 @@
 - [§ 13 Entscheidung zu den förderungsfähigen Vorhaben](0013.md)
 - [§ 14 Auswertung der Wirkungen der Förderung](0014.md)
 - [§ 14a Krankenhauszukunftsfonds](0014a.md)
-- [§ 14b Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung](0014b.md)
+- [§ 14b Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung und Begleitforschung für die digitale Transformation im Rahmen des Krankenhauszukunftsfonds](0014b.md)
 - [§ 15 Beteiligung an Schließungskosten](0015.md)
 
 ## 3. Abschnitt Vorschriften über Krankenhauspflegesätze

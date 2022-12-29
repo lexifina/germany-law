@@ -53,6 +53,8 @@
 - [§ 31 Datenschutzrechtliche Verantwortung im polizeilichen Informationsverbund](0031.md)
 - [§ 32 Unterrichtung der Zentralstelle](0032.md)
 - [§ 33 Ausschreibungen bei der Zusammenarbeit im internationalen Bereich](0033.md)
+- [§ 33a (zukünftig in Kraft)](0033a.md)
+- [§ 33b (zukünftig in Kraft)](0033b.md)
 
 ## Abschnitt 4 Befugnisse im Rahmen der Strafverfolgung
 
@@ -72,7 +74,7 @@
 - [§ 44 Vorladung](0044.md)
 - [§ 45 Besondere Mittel der Datenerhebung](0045.md)
 - [§ 46 Besondere Bestimmungen über den Einsatz technischer Mittel in oder aus Wohnungen](0046.md)
-- [§ 47 Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle](0047.md)
+- [§ 47 Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle](0047.md)
 - [§ 48 Rasterfahndung](0048.md)
 - [§ 49 Verdeckter Eingriff in informationstechnische Systeme](0049.md)
 - [§ 50 Postbeschlagnahme und Auskunftsverlangen](0050.md)
@@ -94,7 +96,7 @@
 - [§ 63 Allgemeine Befugnisse](0063.md)
 - [§ 63a Bestandsdatenauskunft](0063a.md)
 - [§ 64 Besondere Mittel der Datenerhebung](0064.md)
-- [§ 65 Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle](0065.md)
+- [§ 65 Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle](0065.md)
 
 ## Abschnitt 7 Zeugenschutz
 

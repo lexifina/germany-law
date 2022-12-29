@@ -2,7 +2,7 @@
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Errichtung, Zweck, Sitz](0001.md)
-- [§ 2 Aufgaben](0002.md)
+- [§ 2 Aufgaben; Rechtsverordnungsermächtigung](0002.md)
 - [§ 2a Begriffsbestimmungen](0002a.md)
 - [§ 3 Organe](0003.md)
 - [§ 4 Präsidentin oder Präsident](0004.md)

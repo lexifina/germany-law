@@ -61,7 +61,7 @@ Beendigung der Braunkohleverstromung
 | § 44 | Entschädigung für die Stilllegung von Braunkohleanlagen |
 | § 45 | Auszahlungsmodalitäten |
 | § 46 | Ausschluss Kohleersatzbonus |
-| § 47 | Überprüfung der vorzeitigen Stilllegung |
+| § 47 | Überprüfung der vorzeitigen Stilllegung; Weiterbetrieb und Reserve |
 | § 48 | Energiepolitische und energiewirtschaftliche Notwendigkeit des Tagebaus Garzweiler II |
 | § 49 | Ermächtigung der Bundesregierung zum Abschluss eines öffentlich-rechtlichen Vertrags |
 | § 50 | Zeitlich gestreckte Stilllegung |

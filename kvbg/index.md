@@ -62,7 +62,7 @@
 - [§ 44 Entschädigung für die Stilllegung von Braunkohleanlagen](0044.md)
 - [§ 45 Auszahlungsmodalitäten](0045.md)
 - [§ 46 Ausschluss Kohleersatzbonus](0046.md)
-- [§ 47 Überprüfung der vorzeitigen Stilllegung](0047.md)
+- [§ 47 Überprüfung der vorzeitigen Stilllegung; Weiterbetrieb und Reserve](0047.md)
 - [§ 48 Energiepolitische und energiewirtschaftliche Notwendigkeit des Tagebaus Garzweiler II](0048.md)
 - [§ 49 Ermächtigung der Bundesregierung zum Abschluss eines öffentlich-rechtlichen Vertrags](0049.md)
 - [§ 50 Zeitlich gestreckte Stilllegung](0050.md)

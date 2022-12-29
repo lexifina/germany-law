@@ -30,6 +30,7 @@
 - [§ 12a (weggefallen)](0012a.md)
 - [§ 13 Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung](0013.md)
 - [§ 14 Elektronisches Melde- und Informationssystem; Verordnungsermächtigung](0014.md)
+- [§ 14a Interoperabilität; Verordnungsermächtigung](0014a.md)
 - [§ 15 Anpassung der Meldepflicht an die epidemische Lage](0015.md)
 - [§ 15a Durchführung der infektionshygienischen und hygienischen Überwachung](0015a.md)
 
