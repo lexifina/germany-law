@@ -1,12 +1,12 @@
 # Inhaltsübersicht
 Abschnitt 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
-§ 2 Oberste Dienstbehörde, Dienstvorgesetzter, Vorgesetzter
+§ 2 Oberste Dienstbehörde, Dienstvorgesetzte, Vorgesetzte
 Abschnitt 2 Beamtenverhältnis
 § 3 Allgemeine laufbahnrechtliche Voraussetzungen für die Berufung in das Beamtenverhältnis
 § 4 Persönliche Voraussetzungen
-§ 5 Beamte auf Zeit
-§ 6 Ehrenbeamte
+§ 5 Beamtinnen und Beamte auf Zeit
+§ 6 Ehrenbeamtinnen und Ehrenbeamte
 § 7 Altersgrenzen für die Berufung
 § 8 Übertragung eines Amtes mit leitender Funktion im Beamtenverhältnis auf Probe
 § 9 Beendigung des Amtes mit leitender Funktion im Beamtenverhältnis auf Probe
@@ -22,7 +22,7 @@ Abschnitt 3 Laufbahnen
 § 18 Vorbereitungsdienst
 § 19 Im Bereich eines anderen Dienstherrn erworbene Laufbahnbefähigung
 § 20 Erwerb der Laufbahnbefähigung aufgrund im Ausland erworbener Berufsqualifikationen
-§ 21 Andere Bewerber
+§ 21 Andere Bewerberinnen und Bewerber
 § 22 Laufbahnwechsel
 § 23 Fortbildung
 § 24 Personalentwicklung
@@ -37,9 +37,9 @@ Abschnitt 4 Abordnung und Versetzung sowie Umbildung von Körperschaften
 § 32 Versetzung
 § 33 Landesinterne Umbildung von Körperschaften
 § 34 Rechtsfolgen der Umbildung
-§ 35 Rechtsstellung der Beamten
+§ 35 Rechtsstellung der Beamtinnen und Beamten
 § 36 Genehmigungsvorbehalt für Ernennungen
-§ 37 Rechtsstellung der Versorgungsempfänger
+§ 37 Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger
 § 38 Landesübergreifende Umbildung von Körperschaften
 § 39 Zuständigkeiten
 Abschnitt 5 Beendigung des Beamtenverhältnisses
@@ -59,11 +59,11 @@ Unterabschnitt 2 Ruhestand
 § 51 Versetzung in den Ruhestand auf Antrag
 § 52 Versetzung in den Ruhestand ohne Antrag, Vermeidung drohender Dienstunfähigkeit
 § 53 Verfahren bei Wiederherstellung der Dienstfähigkeit
-§ 54 Versetzung eines Beamten auf Probe in den Ruhestand
+§ 54 Versetzung einer Beamtin oder eines Beamten auf Probe in den Ruhestand
 § 55 Zuständigkeit
 § 56 Beginn des Ruhestands bei Versetzungen
 Unterabschnitt 3 Einstweiliger Ruhestand
-§ 57 Politische Beamte
+§ 57 Politische Beamtinnen und Beamte
 § 58 Beginn des einstweiligen Ruhestands
 § 59 Fristen bei landesübergreifender Umbildung von Körperschaften und bei Umbildung und Auflösung von Behörden
 Unterabschnitt 4 Verlust der Beamtenrechte
@@ -73,7 +73,7 @@ Unterabschnitt 4 Verlust der Beamtenrechte
 Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis
 Unterabschnitt 1 Allgemeine Pflichten und Rechte
 § 63 Diensteid
-§ 64 Verantwortung für Amtshandlungen von Vollzugsbeamten
+§ 64 Verantwortung für Amtshandlungen von Vollzugsbeamtinnen und Vollzugsbeamten
 § 65 Beamtenrechtliche Folgen der Ausübung eines Mandats
 § 66 Unparteilichkeit bei Amtshandlungen
 § 67 Verbot der Führung der Dienstgeschäfte
@@ -84,7 +84,7 @@ Unterabschnitt 1 Allgemeine Pflichten und Rechte
 § 72 Wohnort
 § 73 Aufenthalt in der Nähe des Dienstorts
 § 74 Dienstkleidung
-§ 75 Dienstvergehen von Ruhestandsbeamten
+§ 75 Dienstvergehen von Ruhestandsbeamtinnen und Ruhestandsbeamten
 § 76 Verjährung von Schadenersatzansprüchen
 § 77 Mutterschutz, Elternzeit, Pflegezeit
 § 78 Arbeitsschutz
@@ -127,7 +127,7 @@ Unterabschnitt 4 Personalaktenrecht
 § 111 Führung der Personalakte und Verarbeitung personenbezogener Daten
 § 112 Beihilfeakten
 § 113 Anhörung
-§ 114 Auskunft an den betroffenen Beamten
+§ 114 Auskunft an die betroffenen Beamtinnen und Beamten
 § 115 Übermittlung und Auskunft an nicht betroffene Personen
 § 116 Vernichtung von Unterlagen
 § 117 Aufbewahrung
@@ -162,25 +162,25 @@ Unterabschnitt 1 Laufbahnen der Fachrichtung Polizei
 § 139 Eintritt in den Ruhestand
 Unterabschnitt 2 Andere Beamtengruppen
 § 140 Wissenschaftliches und künstlerisches Personal an Hochschulen
-§ 141 Beamte des Landesamtes für Verfassungsschutz
-§ 142 Beamte der Laufbahnen der Fachrichtung Agrar- und Forstverwaltung
-§ 143 Beamte des Justizvollzugsdienstes und des Justizwachtmeisterdienstes in der Fachrichtung Justiz
-§ 143a Beamte der Fachrichtung Allgemeine Verwaltung im Vollzugsdienst einer Abschiebungshaft- und Ausreisegewahrsamseinrichtung
-§ 144 Beamte der Laufbahnen der Fachrichtung Feuerwehr
-§ 144a Beamte der Laufbahn der Fachrichtung Bildung und Kultur mit dem fachlichen Schwerpunkt Bildungsdienst
-Abschnitt 11 Kommunale Wahlbeamte
+§ 141 Beamtinnen und Beamte des Landesamtes für Verfassungsschutz
+§ 142 Beamtinnen und Beamte der Laufbahnen der Fachrichtung Agrar- und Forstverwaltung
+§ 143 Beamtinnen und Beamte des Justizvollzugsdienstes und des Justizwachtmeisterdienstes in der Fachrichtung Justiz
+§ 143a Beamtinnen und Beamte der Fachrichtung Allgemeine Verwaltung im Vollzugsdienst einer Abschiebungshaft- und Ausreisegewahrsamseinrichtung
+§ 144 Beamtinnen und Beamte der Laufbahnen der Fachrichtung Feuerwehr
+§ 144a Beamtinnen und Beamte der Laufbahn der Fachrichtung Bildung und Kultur mit dem fachlichen Schwerpunkt Bildungsdienst
+Abschnitt 11 Kommunale Wahlbeamtinnen und Wahlbeamte
 § 145 Anwendungsbereich
-§ 146 Dienstherr, Oberste Dienstbehörde, Dienstvorgesetzter, Zuständigkeiten
-§ 147 Hauptamtliche Bürgermeister
-§ 148 Ehrenamtliche Bürgermeister
-§ 149 Übernahme von Bürgermeistern bei Gebietsänderung
+§ 146 Dienstherr, oberste Dienstbehörde, Dienstvorgesetzte, Zuständigkeiten
+§ 147 Hauptamtliche Bürgermeisterinnen und Bürgermeister
+§ 148 Ehrenamtliche Bürgermeisterinnen und Bürgermeister
+§ 149 Übernahme von Bürgermeisterinnen und Bürgermeistern bei Gebietsänderung
 § 150 Beigeordnete
-§ 151 Landräte
+§ 151 Landrätinnen und Landräte
 § 152 Verbandsvorsitzende
-§ 153 Ortsvorsteher
-§ 154 Amtsverweser
+§ 153 Ortsvorsteherinnen und Ortsvorsteher
+§ 154 Amtsverweserinnen und Amtsverweser
 § 155 Aufwandsentschädigungen, Nebentätigkeiten
-§ 155a Aufwandsentschädigung für ehrenamtliche Bürgermeister und Ortsvorsteher
+§ 155a Aufwandsentschädigung für ehrenamtliche Bürgermeisterinnen und Bürgermeister sowie Ortsvorsteherinnen und Ortsvorsteher
 § 155b Ehrensold
 Abschnitt 12 Übergangs- und Schlussvorschriften
 § 156 Übergangsregelung zur Anhebung der Altersgrenzen
