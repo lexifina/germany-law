@@ -55,7 +55,10 @@ an Wertpapierbörsen
 - [§ 27 Zulassung zum Skontroführer](0027.md)
 - [§ 28 Pflichten des Skontroführers](0028.md)
 - [§ 29 Verteilung der Skontren](0029.md)
-- [§ 30 (weggefallen)](0030.md)
+
+## Abschnitt 3a Unzuverlässigkeit von sanktionierten Personen
+
+- [§ 30 Unzuverlässigkeit von sanktionierten Personen](0030.md)
 - [§ 31 (weggefallen)](0031.md)
 
 ## Abschnitt 4 Zulassung von Wertpapieren zum Börsenhandel

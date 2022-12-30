@@ -54,8 +54,12 @@
 | § 27 | Zulassung zum Skontroführer |
 | § 28 | Pflichten des Skontroführers |
 | § 29 | Verteilung der Skontren |
-| § 30 | Vorhandelstransparenz bei Aktien und Aktien vertretenden Zertifikaten |
-| § 31 | Nachhandelstransparenz bei Aktien und Aktien vertretenden Zertifikaten |
+|  |
+| Abschnitt 3a |
+| Unzuverlässigkeit von sanktionierten Personen |
+|  |
+| § 30 | Unzuverlässigkeit von sanktionierten Personen |
+| § 31 | (weggefallen) |
 |  |
 | Abschnitt 4 |
 | Zulassung von Wertpapieren zum Börsenhandel |

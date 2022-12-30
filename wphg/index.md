@@ -6,6 +6,7 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 2a Unzuverlässigkeit von sanktionierten Personen](0002a.md)
 - [§ 3 Ausnahmen; Verordnungsermächtigung](0003.md)
 - [§ 4 Wahl des Herkunftsstaates; Verordnungsermächtigung](0004.md)
 - [§ 5 Veröffentlichung des Herkunftsstaates; Verordnungsermächtigung](0005.md)
