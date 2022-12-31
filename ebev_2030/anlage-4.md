@@ -1,0 +1,22 @@
+# Anlage 4 (zu § 5 Absatz 4, § 7 Absatz 3 und 4, § 15 Absatz 1)Methoden zur Ermittlung der Berechnungsfaktoren
+
+Teil 1 Methoden zur Ermittlung der Berechnungsfaktoren nach § 7 Absatz 3
+Für die Ermittlung der Berechnungsfaktoren für Brennstoffe nach Anlage 1 Satz 1 des Brennstoffemissionshandelsgesetzes kann der Verantwortliche zwischen den nachfolgenden Methoden wählen:
+1. Ermittlung auf Grundlage von Festwerten, die von der zuständigen Behörde zu diesem Zweck veröffentlicht werden. Sofern keine Festwerte nach Satz 1 veröffentlicht wurden, können Festwerte aus den IPCC Guidelines 2006 in der jeweils geltenden Fassung verwendet werden. Sofern die IPCC Guidelines 2006 für einen Brennstoff keinen Festwert enthalten, können Literaturwerte nach vorheriger Abstimmung mit der zuständigen Behörde verwendet werden.
+2. Ermittlung auf Grundlage von individueller repräsentativer Probenahme und Analyse nach den Regeln der Technik. Dabei muss die in Teil 3 aufgeführte Mindesthäufigkeit der Analysen eingehalten werden.
+3. Ermittlung auf Grundlage von individuellen Berechnungsfaktoren, die auf Basis historischer Analysen abgeleitet werden. Die Eignung der historischen Analysen ist hinsichtlich der Repräsentativität für den betreffenden Brennstoff sowie für deren statistische Gültigkeit für zukünftige Lieferchargen nachzuweisen.
+Teil 2 Methoden zur Ermittlung der Berechnungsfaktoren nach § 7 Absatz 4
+Für die Ermittlung der Berechnungsfaktoren für Brennstoffe nach Anlage 1 Satz 2 des Brennstoffemissionshandelsgesetzes kann der Verantwortliche zwischen den nachfolgenden Methoden wählen:
+1. Ermittlung auf Grundlage von individuellen Festwerten je Entsorger oder Abfalltyp, die auf Basis historischer Analysen abgeleitet werden, sofern nachgewiesen werden kann, dass diese Werte repräsentativ für künftige Chargen desselben Entsorgers oder Abfalltyps sind. Der Nachweis ist durch eine jährliche Kontrollanalyse zu belegen. Hierbei muss die Kontrollanalyse innerhalb der Unsicherheit des Festwerts liegen. Der Festwert ergibt sich aus dem Mittelwert der in der Vergangenheit durchgeführten Analysen. Die maximal zulässige Standardunsicherheit des Mittelwerts darf bezogen auf das Konfidenzintervall von 95 % den Wert von 5 % nicht überschreiten.
+2. Ermittlung auf Grundlage von individueller repräsentativer Probenahme und Analyse nach den Regeln der Technik. Dabei muss die in Teil 3 aufgeführte Mindesthäufigkeit der Analysen eingehalten werden.
+3. Ermittlung auf Grundlage von mit der zuständigen Behörde vereinbarten Literaturwerten, einschließlich von der zuständigen Behörde veröffentlichter Festwerte.
+Die Ermittlung individueller Festwerte und repräsentative Probenahmen können auch durch Dritte durchgeführt werden, sofern die Ermittlung und die Probenahme die oben genannten Bedingungen erfüllen.
+Teil 3 Analysenfrequenz
+Eine repräsentative Probenahme und Analyse liegt vor, wenn entweder die in der Tabelle Mindesthäufigkeit aufgeführte Mindesthäufigkeit der Analysen eingehalten wird oder die relative Standardabweichung des jährlichen Mittelwerts der Analysen kleiner als 1,5 % ist.
+Tabelle Mindesthäufigkeit
+| Brennstoff | Mindesthäufigkeit der Analysen |
+| gasförmige Kohlenwasserstoffe | mindestens einmal täglich – nach geeigneten Verfahren zu unterschiedlichen Tageszeiten |
+| Kohle | mindestens je 20 000 Tonnen Brennstoff, jedoch mindestens sechsmal jährlich oder je Liefercharge |
+| unbehandelte feste Abfälle | mindestens je 5 000 Tonnen Abfall, jedoch mindestens viermal jährlich oder je Liefercharge |
+| flüssige Abfälle, vorbehandelte feste Abfälle | mindestens je 10 000 Tonnen Abfall, jedoch mindestens viermal jährlich oder je Liefercharge |
+| andere Brennstoffe | mindestens je 10 000 Tonnen Brennstoff, jedoch mindestens viermal jährlich oder je Liefercharge |
