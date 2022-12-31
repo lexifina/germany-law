@@ -90,9 +90,7 @@
   konfektionierte Stromkabel
   HDMI-, Audio- und Videokabel
   Schmelzsicherungen
-  Bekleidung mit elektrischen Funktionen
   elektrische Zigaretten
-  elektronische Antriebe für Möbel
   Bekleidung mit elektrischen Funktionen (z.B. Heiz-, Massage- oder Leuchtfunktionen)
   Schuhe mit Leuchtfunktionen
   beleuchtete Fliesen
