@@ -1,1 +1,1 @@
-# Gesetz zur Ausführung des Betreuungsgesetzes vom 18. Februar 1992
+# Gesetz zur Ausführung des Betreuungsrechts (Bremisches Betreuungsrechtsausführungsgesetz - BremBtRAG) vom 13. Dezember 2022
