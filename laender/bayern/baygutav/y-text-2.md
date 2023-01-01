@@ -1,0 +1,2 @@
+1. § 199 Abs. 2 des Baugesetzbuchs (BauGB) in der Fassung der Bekanntmachung vom 23. September 2004 (BGBl I S. 2414) erlässt die Bayerische Staatsregierung die §§ 1 bis 15 und den § 17,
+2. Art. 21 Abs. 1 Satz 1 des Kostengesetzes vom 20. Februar 1998 (GVBl S. 43, BayRS 2013-1-1-F), zuletzt geändert durch Art. 21 des Gesetzes vom 24. Dezember 2002 (GVBl S. 937), erlässt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen die §§ 16 und 17
