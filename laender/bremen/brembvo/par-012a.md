@@ -1,8 +1,10 @@
-# § 12a Eigenbehalt
-(1) Die beihilfefähigen Aufwendungen mindern sich bei einem Bemessungssatz (§ 12) ab
-50 vom Hundert um 100 Euro
-60 vom Hundert um 80 Euro
-70 vom Hundert um 70 Euro
-je Kalenderjahr. Maßgebend ist der am 1. Januar des Kalenderjahres der Antragstellung bestehende Bemessungssatz. Änderungen, die rückwirkend zu einem vom Stichtag des jeweiligen Kalenderjahres abweichenden Bemessungssatz führen, bleiben unberücksichtigt. Die Minderung ist nicht bei Aufwendungen wegen dauernder Pflegebedürftigkeit (§ 4a) vorzunehmen.
-(2) Bei Mitgliedern von Krankenkassen im Sinne des § 4 Absatz 2 des Fünften Buches Sozialgesetzbuch entfällt der Eigenbehalt.
-(3) Absatz 1 Satz 1 gilt nicht für Beamtinnen und Beamte der Besoldungsgruppen A 5 bis einschließlich A 9 mit Anspruch auf Dienstbezüge sowie für Anwärterinnen und Anwärter mit Anspruch auf Anwärterbezüge, deren Einstiegsamt, in das die Anwärterin oder der Anwärter nach Abschluss des Vorbereitungsdienstes unmittelbar eintritt, in den Besoldungsgruppen A 5 bis einschließlich A 9 ausgebracht ist.
+# § 12a Selbstbehalt
+(1) Die Minderung der beihilfefähigen Aufwendungen (Selbstbehalt) erfolgt nach § 80 Absatz 6 des Bremischen Beamtengesetzes.
+(2) Der Selbstbehalt nach § 80 Absatz 6 des Bremischen Beamtengesetzes entfällt bei Aufwendungen von
+1. Mitgliedern von Krankenkassen im Sinne des § 4 Absatz 2 des Fünften Buches Sozialgesetzbuch,
+2. Heilfürsorgeberechtigten,
+3. Beamtinnen und Beamten der Besoldungsgruppen A 5 bis einschließlich A 9 mit Anspruch auf Dienstbezüge (§ 80 Absatz 6 Satz 3 des Bremischen Beamtengesetzes),
+4. Versorgungsempfängerinnen und Versorgungsempfängern, deren Versorgungsbezüge sich aus den Besoldungsgruppen A 5 bis einschließlich A 9 berechnen,
+5. Anwärterinnen und Anwärtern mit Anspruch auf Anwärterbezüge, deren Einstiegsamt in den Besoldungsgruppen A 6 bis einschließlich A 9 ausgebracht ist,
+6. berücksichtigungsfähigen Angehörigen der unter Nummer 3 bis 5 genannten Personen sowie
+7. andauernder Pflegebedürftigkeit nach § 4a.
