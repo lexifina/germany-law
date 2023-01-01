@@ -36,6 +36,7 @@
 § 27 Rechtsform und Organe
 § 28 Aufgaben der Landesanstalt
 § 28a Gründungen, Beteiligungen
+§ 28b Förderung lokaljournalistischer Angebote
 § 29 Versammlung der Landesanstalt
 § 30 Arbeitsweise und Aufgaben der Versammlung
 § 31 Medienrat
