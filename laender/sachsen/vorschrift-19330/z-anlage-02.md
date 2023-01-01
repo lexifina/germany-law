@@ -1,5 +1,5 @@
 # Anlage 2 (zu Anlage 1 laufende Nummer 17 Tarifstelle 1.2)
-Tabelle der durchschnittlichen Rohbauwerte Basisjahr 2015 = 1,00 (aktuelle Werte siehe Fußnote 1)
+Tabelle der durchschnittlichen Rohbauwerte Basisjahr 2015 = 1,00 (aktuelle Werte siehe Fußnote)
 Tabelle der durchschnittlichen Rohbauwerte
 Nummer | Gebäudeart | Rohbauwert
 Nummer | Gebäudeart | Rohbauwert EUR/m³
