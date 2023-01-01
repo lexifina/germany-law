@@ -1,5 +1,5 @@
 # Bekanntmachung der Neufassung des Sächsischen Finanzausgleichsgesetzes
-23. April 2021
+Vom 23. April 2021
 Aufgrund von Artikel 9 des Dritten Gesetzes zur Änderung des Gesetzes zu den Finanzbeziehungen zwischen dem Freistaat Sachsen und seinen Kommunen vom 31. März 2021 (SächsGVBl. S. 411) wird nachstehend der Wortlaut des Sächsischen Finanzausgleichsgesetzes in der ab 1. Januar 2021 geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
 1. das Gesetz über den Finanzausgleich mit den Gemeinden und Landkreisen im Freistaat Sachsen (Sächsisches Finanzausgleichsgesetz – SächsFAG) in der Fassung der Bekanntmachung vom 21. Januar 2013 (SächsGVBl. S. 95),
 2. den am 1. Januar 2015 in Kraft getretenen Artikel 1 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 364),
