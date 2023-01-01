@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der zuletzt durch Artikel 198 Nummer 1 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, dem Bundesministerium für Digitales und Verkehr und dem Bundesministerium für Wirtschaft und Klimaschutz in Verbindung mit § 1 Absatz 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176):
