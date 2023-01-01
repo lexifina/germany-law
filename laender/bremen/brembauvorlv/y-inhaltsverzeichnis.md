@@ -1,8 +1,8 @@
 # Inhaltsverzeichnis
 Inhaltsverzeichnis
 Teil 1 Allgemeines
-§ 1 | Begriff, Beschaffenheit
-§ 2 | Anzahl
+§ 1 | Begriff
+§ 2 | Einreichung von Anträgen, Anzeigen und Bauvorlagen
 Teil 2 Vorzulegende Bauvorlagen
 § 3 | Bauliche Anlagen
 § 4 | Werbeanlagen
@@ -23,4 +23,3 @@ Teil 5 Aufbewahrungspflicht
 Teil 6 Übergangs- und Schlussvorschriften
 § 16 | Übergangsvorschriften
 § 17 | Inkrafttreten, Außerkrafttreten
-Einzelansicht Seitenanfang

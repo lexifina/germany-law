@@ -1,1 +1,1 @@
-# Bremische Bauvorlagenverordnung (BremBauVorlV) vom 2. Mai 2019
+# Bremische Bauvorlagenverordnung (BremBauVorlV) vom 1. September 2022

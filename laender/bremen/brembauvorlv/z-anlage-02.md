@@ -12,5 +12,4 @@ Sind die nachfolgenden Kriterien ausnahmslos erfüllt, ist eine Prüfung des Sta
 7. Außergewöhnliche sowie dynamische Einwirkungen sind nicht vorhanden. Beanspruchungen aus Erdbeben müssen rechnerisch nicht verfolgt werden.
 8. Besondere Bauarten wie Spannbetonbau, Verbundbau, Leimholzbau und geschweißte Aluminiumkonstruktionen werden nicht angewendet.
 9. Allgemeine Rechenverfahren zur Bemessung von Bauteilen und Tragwerken unter Brandeinwirkung werden nicht angewendet.
-Erlässt die oberste Bauaufsichtsbehörde Anwendungshinweise (Erläuterungen) zur Konkretisierung der Kriterien, sind diese durch den Tragwerksplaner bei der Abgabe der Erklärung zu berücksichtigen.
-Einzelansicht Seitenanfang
+Erlässt die oberste Bauaufsichtsbehörde Anwendungshinweise (Erläuterungen) zur Konkretisierung der Kriterien, sind diese durch die Tragwerksplanerin oder den Tragwerksplaner bei der Abgabe der Erklärung zu berücksichtigen.
