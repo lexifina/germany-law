@@ -42,6 +42,7 @@ Teil 3 Vorbereitungsdienst
 § 34 Aufnahme in den Vorbereitungsdienst
 § 35 Ausbildungsbezüge im öffentlich-rechtlichen Ausbildungsverhältnis
 § 36 Gliederung des Vorbereitungsdienstes
+§ 36a Teilzeitausbildung
 § 37 Wahlstation
 § 38 Einführungslehrgänge, Arbeitsgemeinschaften und sonstige Lehrgänge
 § 39 Gastreferendarin oder Gastreferendar

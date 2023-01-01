@@ -5,41 +5,41 @@ Begutachtung ist die Überprüfung der Aufgabenentwürfe und Lösungshinweise au
 2. Staatliche Pflichtfachprüfung
 Die Vergütung der Mitwirkung an der staatlichen Pflichtfachprüfung beträgt für die
 a)
-Erstellung einer Prüfungsaufgabe mit Lösungshinweis 329 Euro,
+Erstellung einer Prüfungsaufgabe mit Lösungshinweis 434 Euro,
 b)
-Begutachtung einer Prüfungsaufgabe 82,50 Euro,
+Begutachtung einer Prüfungsaufgabe 87,50 Euro,
 c)
 inhaltliche und redaktionelle Überarbeitung einer Prüfungsaufgabe einschließlich des Lösungshinweises bis zu 50 Prozent der Vergütungssätze nach Buchstabe a,
 d)
-Bewertung von Prüfungsarbeiten in der Erst- oder Zweitkorrektur oder im Stichentscheid 14 Euro,
+Bewertung von Prüfungsarbeiten in der Erst- oder Zweitkorrektur oder im Stichentscheid 17,50 Euro,
 e)
-Abnahme von mündlichen Prüfungen je Prüfungsteilnehmerin und -teilnehmer 23,50 Euro,
+Abnahme von mündlichen Prüfungen je Prüfungsteilnehmerin und -teilnehmer 27 Euro,
 f)
-Stellungnahmen in Widerspruchs- und Klageverfahren 14 Euro.
+Stellungnahmen in Widerspruchs- und Klageverfahren 19 Euro.
 3. Zweite Juristische Staatsprüfung
 Die Vergütung der Mitwirkung an der Zweiten Juristischen Staatsprüfung beträgt für die
 a)
-Erstellung einer Prüfungsaufgabe mit Lösungshinweis 419 Euro,
+Erstellung einer Prüfungsaufgabe mit Lösungshinweis 524 Euro,
 b)
-Erstellung eines Aktenvortrages mit Lösungshinweis 85 Euro,
+Erstellung eines Aktenvortrages mit Lösungshinweis 126 Euro,
 c)
-Begutachtung einer Prüfungsaufgabe 165 Euro,
+Begutachtung einer Prüfungsaufgabe 175 Euro,
 d)
 inhaltliche und redaktionelle Überarbeitung einer Prüfungsaufgabe oder eines Aktenvortrages einschließlich des Lösungshinweises bis zu 50 Prozent der Vergütungssätze nach Buchstabe a für eine Prüfungsaufgabe und nach Buchstabe b für einen Aktenvortrag,
 e)
-Bewertung von Prüfungsarbeiten in der Erst- oder Zweitkorrektur oder im Stichentscheid 16,50 Euro,
+Bewertung von Prüfungsarbeiten in der Erst- oder Zweitkorrektur oder im Stichentscheid 21 Euro,
 f)
-Abnahme von mündlichen Prüfungen je Prüfungsteilnehmerin und -teilnehmer 33 Euro,
+Abnahme von mündlichen Prüfungen je Prüfungsteilnehmerin und -teilnehmer 36,50 Euro,
 g)
-Stellungnahmen in Widerspruchs- und Klageverfahren 16,50 Euro.
+Stellungnahmen in Widerspruchs- und Klageverfahren 19 Euro.
 4. Hilfstätigkeiten
-Die Vergütung von Hilfstätigkeiten bei den juristischen Prüfungen beträgt für die
+Die Vergütung von Hilfstätigkeiten bei den juristischen Prüfungen
 a)
-Prüfungsaufsicht je Zeitstunde 5,50 Euro,
+entspricht für die Prüfungsaufsicht je Stunde Bearbeitungszeit der Höhe des jeweils geltenden Mindestlohns gemäß § 1 Absatz 2 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348), das zuletzt durch Artikel 1 des Gesetzes vom 28. Juni 2022 (BGBl. I S. 969) geändert worden ist, in der jeweils geltenden Fassung,
 b)
-Prüfungsaushilfen je Prüfungstag 10 Euro.
+beträgt für die Prüfungsaushilfen je Prüfungstag 10 Euro.
 5. Sonstige Bestimmungen
 a)
-Durch die Vergütungen werden alle mit der Tätigkeit verbundenen allgemeinen Aufwendungen abgegolten.
+Für die aufgrund der Mitwirkung an den juristischen Prüfungen notwendigen Reisen werden Reisekosten erstattet wie bei Dienstreisen im Hauptamt entsprechend dem Sächsischen Reisekostengesetzes, auch in Verbindung mit der Verordnung des Sächsischen Staatsministeriums der Finanzen zur Anpassung der in § 5 des Sächsischen Reisekostengesetzes festgesetzten Beträge der Wegstreckenentschädigung vom 3. Juli 2013 (SächsGVBl. S. 566), in der jeweils geltenden Fassung.
 b)
-Die zur Wahrnehmung der Tätigkeiten notwendigen Reisen werden als Dienstreisen in entsprechender Anwendung der Vorschriften des Sächsischen Reisekostengesetzes entschädigt.
+Alle sonstigen mit der Tätigkeit verbundenen allgemeinen Aufwendungen werden mit der Vergütung abgegolten.
