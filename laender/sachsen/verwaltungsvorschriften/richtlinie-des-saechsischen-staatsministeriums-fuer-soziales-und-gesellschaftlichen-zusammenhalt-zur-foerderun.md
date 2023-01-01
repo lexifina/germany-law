@@ -1,8 +1,8 @@
 # Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur Förderung des Gesellschaftlichen Zusammenhalts Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhal
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-09-10 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19310.1
+- Datum: 2023-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19310.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-10.09.2021
+01.01.2023
 bis
-31.12.2022
+30.06.2023
 
 Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur
 
@@ -452,28 +452,28 @@ Für den Nachweis der zweckentsprechenden Verwendung der Zuwendung ist gemäß N
 
 
 III.
-Kontakt- und Informationsstelle für Selbsthilfe
+Engagement-Stiftung Sachsen
 
 1.
 
 Zuwendungszweck
 
 
-Ziel der Förderung ist die Stärkung der gesundheitsbezogenen und der allgemein sozialen Selbsthilfe im Freistaat Sachsen.
+Ziel der Förderung ist die Stärkung des bürgerschaftlichen Engagements im Freistaat Sachsen.
 
 2.
 
 Gegenstand der Förderung
 
 
-Gefördert wird eine landesweit wirkende Kontakt- und Informationsstelle.
+Gefördert wird die Umsetzung der satzungsmäßigen Aufgaben in den Leistungsfeldern Selbsthilfe, Freiwilligendienste und Ehrenamtsförderung.
 
 3.
 
 Zuwendungsempfänger
 
 
-Zuwendungsempfänger ist die im Benehmen mit der Landesarbeitsgemeinschaft der regionalen Selbsthilfekontaktstellen vom Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt bestimmte Stelle.
+Zuwendungsempfänger ist die Engagement-Stiftung Sachsen.
 
 4.
 
@@ -482,26 +482,26 @@ Zuwendungsvoraussetzungen
 
 a)
 
-Der Zuwendungsempfänger soll eine Unterstützung durch die gesetzlichen Krankenkassen beantragen. Finanzierungen durch die Krankenkassen sind als Drittmittel zu berücksichtigen.
+Der Zuwendungsempfänger muss einen Wirtschaftsplan vorlegen. Der Plan muss alle zu erwartenden Einnahmen und voraussichtlich zu leistenden Ausgaben sowie einen Organisations- und Stellenplan enthalten. Eine Übersicht über das Vermögen und die Schulden sowie über die voraussichtlich einzugehenden Verpflichtungen zu Lasten künftiger Jahre ist als Anlage beizufügen, soweit sich dies nicht schon aus den Bilanzen oder dem Wirtschaftsplan ergibt.
 
 
 b)
 
-Die Zuwendung erfolgt auf der Grundlage eines mit dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt abgestimmten Konzepts zur Stärkung und Weiterentwicklung der Selbsthilfe im Freistaat Sachsen. Der Antragsteller erklärt die erfolgte Abstimmung gegenüber der Bewilligungsstelle.
+Tätigkeitsbereich und Sitz des Zuwendungsempfängers müssen sich im Freistaat Sachsen befinden.
 
 5.
 
-Art, Umfang und Höhe der Zuwendung
+Art und Umfang, Höhe der Zuwendung
 
 
 a)
 
-Zuwendungsfähig sind Personal- und Sachausgaben. 
+Die Zuwendung wird im Rahmen einer institutionellen Förderung als Fehlbedarfsfinanzierung in Form eines Zuschusses gewährt. Der Zuschuss ist begrenzt auf die im maßgeblichen Förderjahr zweckentsprechend veranschlagten Haushaltsmittel.
 
 
 b)
 
-Die Zuwendung wird als Zuschuss im Rahmen einer Projektförderung als Anteilfinanzierung gewährt. Die Förderung beträgt bis zu 90 Prozent der zuwendungsfähigen Ausgaben. 
+Zuwendungsfähig sind alle Personal- und Sachausgaben, die zur Wahrnehmung der satzungsmäßigen Aufgaben des Zuwendungsempfängers notwendig sind und im Rahmen des vom Zuwendungsgeber gebilligten Wirtschaftsplans liegen. Das Wirtschaftsjahr ist das Haushaltsjahr.
 
 6.
 
@@ -510,12 +510,32 @@ Verfahren
 
 a)
 
-Der Antrag auf Gewährung einer Zuwendung ist bis zum 30. September des Vorjahres mit einem Jahreskonzept sowie einem Ausgaben- und Finanzierungsplan einzureichen.
+Der jährliche Antrag auf Gewährung einer Zuwendung ist bis zum 30. September für das Folgejahr bei der Bewilligungsstelle einzureichen.
 
 
 b)
 
-Der Zuwendungsempfänger legt bis zum 30. Juni des Folgejahres der Bewilligungsstelle gemäß Nummer 10 der Verwaltungsvorschrift zur § 44 der Sächsischen Haushaltsordnung einen Verwendungsnachweis gemäß Nummer 6 der ANBest-P vor.
+Dem Antrag sind beizufügen:
+
+
+–
+
+ein Wirtschaftsplan, der den direkten Vergleich zum Plansoll des laufenden Jahres sowie zum Ist des Vorjahres ermöglicht,
+
+
+–
+
+der Organisations- und Stellenplan für das Förderjahr einschließlich einer Gegenüberstellung zum laufenden Jahr,
+
+
+–
+
+ein Jahresarbeitsplan, welcher die wesentlichen Ziele für die Arbeit der Einrichtung im Förderjahr umfasst,
+
+
+–
+
+die aktuelle Satzung.
 
 
 B.
@@ -912,9 +932,9 @@ Fsn-Nr.: 5580-V21.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 10. September 2021
+Fassung gültig ab:  1. Januar 2023
 
-Fassung gültig bis: 31. Dezember 2022
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -939,7 +959,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19310.1
+https://www.revosax.sachsen.de/vorschrift/19310.2
 Stand vom
 18.11.2026
 
