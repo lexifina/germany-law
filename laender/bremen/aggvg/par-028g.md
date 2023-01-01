@@ -1,7 +1,8 @@
-# § 28g Bestätigungsvermerk der Übersetzung
-(1) Die Richtigkeit und Vollständigkeit von schriftlichen Sprachübertragungen ist durch die Übersetzerin oder den Übersetzer zu bestätigen. Der Bestätigungsvermerk lautet:
-„Die Richtigkeit und Vollständigkeit vorstehender Übersetzung aus der ... Sprache wird bescheinigt.
-Ort, Datum, Unterschrift
-Durch die Präsidentin des Landgerichts Bremen ermächtigte Übersetzerin oder ermächtigter Übersetzer für die ... Sprache.“
-(2) Der Bestätigungsvermerk ist auf die Übersetzung zu setzen und zu unterschreiben. Dabei ist kenntlich zu machen, wenn das übersetzte Dokument kein Original ist oder nur ein Teil des Dokumentes übersetzt wurde. Auf Auffälligkeiten des übersetzten Dokumentes, insbesondere unleserliche Worte, Änderungen oder Auslassungen soll hingewiesen werden, sofern sich dies nicht aus der Übersetzung ergibt. Die Bestätigung kann auch in elektronischer Form erteilt werden.
-(3) Die Absätze 1 und 2 gelten entsprechend, wenn eine zur Prüfung der Richtigkeit und Vollständigkeit vorgelegte Übersetzung eines anderen als richtig und vollständig bestätigt wird.
+# § 28g Bußgeldvorschriften
+(1) Ordnungswidrig handelt, wer sich unbefugt als
+1. „allgemein beeidigte Dolmetscherin für die Staatsanwaltschaften und die Notarinnen und Notare der Freien Hansestadt Bremen“ oder „allgemein beeidigter Dolmetscher für die Staatsanwaltschaften und die Notarinnen und Notare der Freien Hansestadt Bremen“,
+2. „allgemein beeidigte Gebärdensprachdolmetscherin für die Gerichte, die Staatsanwaltschaften und die Notarinnen und Notare der Freien Hansestadt Bremen“ oder „allgemein beeidigter Gebärdensprachdolmetscher für die Gerichte, die Staatsanwaltschaften und die Notarinnen und Notare der Freien Hansestadt Bremen“ oder
+3. „für die Gerichte, die Staatsanwaltschaften und die Notarinnen und Notare der Freien Hansestadt Bremen ermächtigte Übersetzerin“ oder „für die Gerichte, die Staatsanwaltschaften und die Notarinnen und Notare der Freien Hansestadt Bremen ermächtigter Übersetzer“
+nach § 28d bezeichnet oder eine Bezeichnung führt, die damit verwechselt werden kann.
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 und nach § 11 Absatz 1 des Gerichtsdolmetschergesetzes ist die Leitende Oberstaatsanwältin oder der Leitende Oberstaatsanwalt bei dem Landgericht Bremen.

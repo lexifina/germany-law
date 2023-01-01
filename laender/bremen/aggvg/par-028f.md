@@ -1,2 +1,2 @@
-# § 28f Bezeichnung
-Nach Aushändigung der Abschrift gemäß § 28e Absatz 3 ist die Dolmetscherin oder der Dolmetscher berechtigt, die Bezeichnung „Allgemein beeidigte Dolmetscherin oder beeidigter Dolmetscher für (Angabe der Sprache) für die Gerichte, die Staatsanwaltschaft und die Notarinnen und Notare der Freien Hansestadt Bremen“ zu führen. Die Übersetzerin oder der Übersetzer ist berechtigt, die Bezeichnung „Durch die Präsidentin des Landgerichts Bremen ermächtigte Übersetzerin oder Übersetzer für (Angabe der Sprache) für die Gerichte, die Staatsanwaltschaft und die Notarinnen und Notare der Freien Hansestadt Bremen“ zu führen.
+# § 28f Kosten
+Gebühren werden nach Nummer 4 des Gebührenverzeichnisses zum Bremischen Justizkostengesetz (Anlage zu § 1 Absatz 2) erhoben.

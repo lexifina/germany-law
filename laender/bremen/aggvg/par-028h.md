@@ -1,3 +1,2 @@
-# § 28h Zuständigkeit und Verfahren
-(1) Für die Aufgaben nach dem 6. Abschnitt ist die Präsidentin des Landgerichts Bremen zuständig.
-(2) Das Verfahren kann über eine einheitliche Stelle nach den §§ 71a bis 71e des Bremischen Verwaltungsverfahrensgesetzes abgewickelt werden, soweit es nicht die Eidesleistung und die Verpflichtung betrifft.
+# § 28h Übergangsbestimmung
+Für Dolmetscherinnen und Dolmetscher für staatsanwaltliche und notarielle Zwecke sowie für Übersetzerinnen und Übersetzer, die vor dem 1. Januar 2023 allgemein beeidigt oder ermächtigt worden sind, gilt die allgemeine Beeidigung oder Ermächtigung fort.

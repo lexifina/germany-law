@@ -1,5 +1,5 @@
-## 6. Abschnitt Dolmetscher und Übersetzer in justiziellen und notariellen Angelegenheiten
-# § 28a Dolmetscher und Übersetzer
-(1) Zur mündlichen und schriftlichen Sprachübertragung für gerichtliche, staatsanwaltliche und notarielle Zwecke werden für das Gebiet des Landes Bremen Dolmetscherinnen und Dolmetscher allgemein beeidigt (§ 189 Absatz 2 des Gerichtsverfassungsgesetzes) und Übersetzerinnen oder Übersetzer ermächtigt (§ 142 Absatz 3 der Zivilprozessordnung).
-(2) Die Tätigkeit der Dolmetscherinnen und Dolmetscher umfasst die mündliche Sprachübertragung, die der Übersetzerinnen und Übersetzer die schriftliche Sprachübertragung.
-(3) Sprache im Sinne dieses Gesetzes sind auch sonstige anerkannte Kommunikationstechniken, insbesondere die Gebärdensprache, die Blindenschrift, das Lorm- und das Fingeralphabet.
+## 6. Abschnitt Dolmetscherinnen und Dolmetscher für staatsanwaltliche und notarielle Zwecke; Übersetzerinnen und Übersetzer sowie Sprachübertragung in eine anerkannte Kommunikationstechnik in justiziellen und notariellen Angelegenheiten
+# § 28a Dolmetscherinnen und Dolmetscher, Übersetzerinnen und Übersetzer
+(1) Zur mündlichen Sprachübertragung für staatsanwaltliche und notarielle Zwecke können für das Gebiet des Landes Bremen Dolmetscherinnen und Dolmetscher nach diesem Gesetz allgemein beeidigt werden.
+(2) Zur schriftlichen Sprachübertragung für gerichtliche, staatsanwaltliche und notarielle Zwecke können für das Gebiet des Landes Bremen Übersetzerinnen und Übersetzer nach diesem Gesetz allgemein ermächtigt werden.
+(3) Zur Sprachübertragung in eine anerkannte Kommunikationstechnik, insbesondere die Gebärdensprache, die Blindenschrift oder das Lorm- und Fingeralphabet, können für das Gebiet des Landes Bremen Sprachmittlerinnen und Sprachmittler allgemein beeidigt oder ermächtigt werden. Zur Übertragung zwischen mündlicher Sprache und Gebärdensprache können Gebärdensprachdolmetscherinnen und Gebärdensprachdolmetscher auch für gerichtliche Zwecke nach diesem Gesetz für das Gebiet des Landes Bremen allgemein beeidigt werden.

@@ -1,4 +1,11 @@
-# § 28e Beeidigung, Ermächtigung, Verpflichtung
-(1) Zur allgemeinen Beeidigung haben Dolmetscherinnen und Dolmetscher einen Eid oder eine eidesgleiche Bekräftigung nach § 189 Absatz 1 des Gerichtsverfassungsgesetzes zu leisten. Die Eidesformel beinhaltet, dass die Dolmetscherin oder der Dolmetscher treu und gewissenhaft übersetzen werde, wenn sie oder er von einem Gericht oder der Staatsanwaltschaft der Freien Hansestadt Bremen berufen oder von einer Notarin oder einem Notar der Freien Hansestadt Bremen zugezogen wird. Die §§ 478, 480, 481, 483 und 484 der Zivilprozessordnung gelten entsprechend.
-(2) Dolmetscherinnen oder Dolmetscher und Übersetzerinnen und Übersetzer sind zur Geheimhaltung besonders zu verpflichten.
-(3) Über die Beeidigung, die Ermächtigung und die Verpflichtung ist eine Niederschrift zu fertigen. Die Dolmetscherin oder der Dolmetscher oder die Übersetzerin oder der Übersetzer erhält eine beglaubigte Abschrift der Niederschrift als Nachweis zur Vorlage bei Gerichten und Staatsanwaltschaften.
+# § 28e Bestätigungsvermerk der Übersetzung
+(1) Die Richtigkeit und Vollständigkeit von schriftlichen Sprachübertragungen ist durch die Übersetzerin oder den Übersetzer zu bestätigen. Der Bestätigungsvermerk lautet:
+„Die Richtigkeit und Vollständigkeit vorstehender Übersetzung aus der (Angabe der Sprache, für die die Person ermächtigt ist) Sprache wird bescheinigt.
+Ort, Datum, Unterschrift
+Für die Gerichte, Staatsanwaltschaften und Notarinnen und Notare der Freien Hansestadt Bremen ermächtigte Übersetzerin für die (Angabe der Sprache, für die sie ermächtigt ist) Sprache.“
+oder
+„Die Richtigkeit und Vollständigkeit vorstehender Übersetzung aus der (Angabe der Sprache, für die die Person ermächtigt ist) Sprache wird bescheinigt.
+Ort, Datum, Unterschrift
+Für die Gerichte, Staatsanwaltschaften und Notarinnen und Notare der Freien Hansestadt Bremen ermächtigter Übersetzer für die (Angabe der Sprache, für die er ermächtigt ist) Sprache.“
+(2) Der Bestätigungsvermerk ist auf die Übersetzung zu setzen und zu unterschreiben. Dabei ist kenntlich zu machen, wenn das übersetzte Dokument kein Original ist oder nur ein Teil des Dokumentes übersetzt wurde. Auf Auffälligkeiten des übersetzten Dokumentes, insbesondere unleserliche Worte, Änderungen oder Auslassungen soll hingewiesen werden, sofern sich dies nicht aus der Übersetzung ergibt. Die Bestätigung kann auch in elektronischer Form nach § 126a BGB erteilt werden.
+(3) Die Absätze 1 und 2 gelten entsprechend, wenn eine zur Prüfung der Richtigkeit und Vollständigkeit vorgelegte Übersetzung einer oder eines anderen als richtig und vollständig bestätigt wird.
