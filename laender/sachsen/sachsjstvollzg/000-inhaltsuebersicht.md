@@ -83,7 +83,6 @@ Teil 9 Sicherheit und Ordnung
 § 67 (aufgehoben)
 § 68 (aufgehoben)
 § 69 Maßnahmen zur Feststellung von Suchtmittelgebrauch
-§ 69a (aufgehoben)
 § 70 Festnahmerecht
 § 71 Besondere Sicherungsmaßnahmen
 § 72 (aufgehoben)
