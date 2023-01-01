@@ -1,0 +1,1 @@
+Auf Grund des Art. 11 des Bayerischen Besoldungsgesetzes (BayBesG) vom 5. August 2010 (GVBl S. 410, 764, BayRS 2032-1-1-F), geändert durch Art. 15 des Gesetzes vom 14. April 2011 (GVBl S. 150), erlässt das Bayerische Staatsministerium der Finanzen folgende Verordnung:
