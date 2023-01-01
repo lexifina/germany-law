@@ -34,10 +34,13 @@ Unterabschnitt 6 Besondere Sachgebiete
 § 20 Baulandsachen
 § 21 Berggrundbuch
 § 21a Abschiebungshaft, Ausreisegewahrsam und Überstellungshaft
+§ 21b Familiensachen
 Abschnitt 2 Straf- und Bußgeldsachen
 § 22 Zuständigkeit in Haftsachen
 § 23 Wirtschaftsstrafsachen
 § 24 Kollision und Mehrheit von Sonderzuständigkeiten
+§ 24a Rechtshilfe in Strafsachen
+§ 24b Zollfahndungssachen
 § 25 Bußgeldverfahren
 Abschnitt 3 Fachgerichtsbarkeiten
 § 26 Fachkammern bei den Sozialgerichten
