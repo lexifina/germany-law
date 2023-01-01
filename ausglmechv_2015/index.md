@@ -5,16 +5,13 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 
-## Abschnitt 2 EEG-Ausgleichsmechanismus
+## Abschnitt 2 Vermarktung von EEG-Strom
 
 - [§ 2 Vermarktung durch die Übertragungsnetzbetreiber](0002.md)
-- [§ 3 Ermittlung der EEG-Umlage](0003.md)
-- [§ 3a Ermittlung des Abzugs für Strom aus ausgeförderten Anlagen](0003a.md)
-- [§ 4 Beweislast](0004.md)
-- [§ 5 Veröffentlichung der EEG-Umlage](0005.md)
-- [§ 5a Veröffentlichung des Abzugs für Strom aus ausgeförderten Anlagen](0005a.md)
-- [§ 6 Veröffentlichung der EEG-Vorausschau](0006.md)
-- [§ 6a Weitere Transparenzpflicht](0006a.md)
+- [§ 3 Transparenz der Vermarktungstätigkeiten](0003.md)
+- [§ 4 Anreize zur bestmöglichen Vermarktung](0004.md)
+- [§ 5 Preislimitierung in Ausnahmefällen](0005.md)
+- [§ 6 (weggefallen)](0006.md)
 
 ## Abschnitt 3 Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien
 
@@ -34,21 +31,10 @@
 - [§ 12e Fälligkeit](0012e.md)
 - [§ 12f Verbot der Teilnahme an Ausschreibungen](0012f.md)
 - [§ 12g Evaluierung](0012g.md)
-
-## Abschnitt 3b Herstellung von Grünem Wasserstoff
-
-- [§ 12h Anwendungsbereich dieses Abschnitts](0012h.md)
-- [§ 12i Anforderungen an Grünen Wasserstoff](0012i.md)
-- [§ 12j Mitteilungspflichten](0012j.md)
-- [§ 12k Verringerung der EEG-Umlage bei Verstoß gegen Mitteilungspflichten](0012k.md)
-- [§ 12l Berichtspflichten](0012l.md)
+- [(XXXX) §§ 12h bis 12l (weggefallen)](xxxx-12h-bis-12l.md)
 
 ## Abschnitt 4 Übertragung von Verordnungsermächtigungen
 
-- [§ 13 Subdelegation an die Bundesnetzagentur](0013.md)
+- [§ 13 (weggefallen)](0013.md)
 - [§ 14 Subdelegation an das Umweltbundesamt](0014.md)
 - [§ 15 Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie](0015.md)
-
-## Abschnitt 5 Übergangsbestimmungen
-
-- [§ 16 Beihilferechtlicher Genehmigungsvorbehalt](0016.md)

@@ -187,7 +187,6 @@ Bundesoberbehörden und sonstige Bestimmungen
 - [§ 82 Allgemeine Verwaltungsvorschriften](0082.md)
 - [§ 83 Angleichung an das Recht der Europäischen Union](0083.md)
 - [§ 83a Rechtsverordnungen in bestimmten Fällen](0083a.md)
-- [§ 83b Verkündung von Rechtsverordnungen](0083b.md)
 
 ## Sechzehnter Abschnitt Haftung für
 Arzneimittelschäden

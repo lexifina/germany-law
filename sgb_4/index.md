@@ -64,6 +64,7 @@
 - [§ 18l Identifikation weiterer Verfahrensbeteiligter in elektronischen Meldeverfahren](0018l.md)
 - [§ 18m Verarbeitung der Betriebsnummer](0018m.md)
 - [§ 18n Absendernummer](0018n.md)
+- [§ 18o Verarbeitung der Unternehmernummer](0018o.md)
 
 ## Zweiter Abschnitt Leistungen und Beiträge
 
@@ -253,7 +254,7 @@
 - [§ 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen](0107.md)
 - [§ 108 Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger](0108.md)
 - [§ 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0108a.md)
-- [§ 109 zukünftig in Kraft](0109.md)
+- [§ 109 Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber](0109.md)
 - [§ 110 (weggefallen)](0110.md)
 
 ## Neunter Abschnitt Aufbewahrung von Unterlagen
@@ -281,7 +282,8 @@
 - [§ 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen](0121.md)
 - [§ 123 Übergangsregelung zur Struktur der Einrichtungen](0123.md)
 - [§ 124 Übergangsregelung für das Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0124.md)
-- [§ 125 Pilotprojekt zur Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber](0125.md)
+- [§ 125 (weggefallen)](0125.md)
+- [§ 126 Verzicht auf die elektronisch unterstützte Prüfung bei den Arbeitgebern](0126.md)
 - [§ 127 Bericht über die Untersuchung zur strukturierten Übermittlung der Daten für die elektronisch unterstützte Prüfung bei den Arbeitgebern](0127.md)
 - [§ 128 Außerordentliche Hemmung der Verjährung](0128.md)
 - [§ 129 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023](0129.md)

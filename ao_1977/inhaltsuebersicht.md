@@ -292,6 +292,8 @@
 | § 146a | Ordnungsvorschrift für die Buchführung und für Aufzeichnungen mittels elektronischer Aufzeichnungssysteme; Verordnungsermächtigung |
 | § 146b | Kassen-Nachschau |
 | § 147 | Ordnungsvorschriften für die Aufbewahrung von Unterlagen |
+| § 147a | Vorschriften für die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger |
+| § 147b | Verordnungsermächtigung zur Vereinheitlichung von digitalen Schnittstellen |
 | § 148 | Bewilligung von Erleichterungen |
 |  |  |
 | 2. Unterabschnitt |
@@ -383,6 +385,7 @@
 | § 198 | Ausweispflicht, Beginn der Außenprüfung |
 | § 199 | Prüfungsgrundsätze |
 | § 200 | Mitwirkungspflichten des Steuerpflichtigen |
+| § 200a | Qualifiziertes Mitwirkungsverlangen |
 | § 201 | Schlussbesprechung |
 | § 202 | Inhalt und Bekanntgabe des Prüfungsberichts |
 | § 203 | Abgekürzte Außenprüfung |

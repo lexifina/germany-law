@@ -13,16 +13,16 @@ mir geleiteten
 ................................. in ..........................................
 (Name der Apotheke)
 regelmäßig abgeleistet.
-Die praktische Ausbildung ist - nicht *) - über die nach § 17 der
-Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische
-Assistentinnen und pharmazeutisch-technische Assistenten zulässigen
+Die praktische Ausbildung ist - nicht *) - über die nach § 13 des Gesetzes
+über den Beruf der pharmazeutisch-technischen Assistentin und des
+pharmazeutisch-technischen Assistenten zulässigen
 Fehlzeiten hinaus - um ... Tage *) - unterbrochen worden.
 Die praktische Ausbildung erstreckte sich auf die pharmazeutischen
 Tätigkeiten des Apothekenbetriebes, insbesondere auf die in der
-Anlage 1 Teil B der Ausbildungs- und Prüfungsverordnung für
+Anlage 1 Teil C der Ausbildungs- und Prüfungsverordnung für
 pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische
 Assistenten vorgeschriebenen Lerngebiete. Die im Tagebuch enthaltenen
-Arbeiten wurden von dem/der Praktikanten/in selbst ausgeführt und
+Arbeiten wurden von der oder dem Auszubildenden selbst ausgeführt und
 beschrieben.
 Ort, Datum
 ................., den .................. (Stempel der Apotheke)

@@ -84,7 +84,7 @@
 | § 50 | Parteifähigkeit |
 | § 51 | Prozessfähigkeit; gesetzliche Vertretung; Prozessführung |
 | § 52 | Umfang der Prozessfähigkeit |
-| § 53 | Prozessunfähigkeit bei Betreuung oder Pflegschaft |
+| § 53 | Prozessfähigkeit bei rechtlicher Betreuung |
 | § 54 | Besondere Ermächtigung zu Prozesshandlungen |
 | § 55 | Prozessfähigkeit von Ausländern |
 | § 56 | Prüfung von Amts wegen |
@@ -246,6 +246,7 @@
 | § 168 | Aufgaben der Geschäftsstelle |
 | § 169 | Bescheinigung des Zeitpunktes der Zustellung; Beglaubigung |
 | § 170 | Zustellung an Vertreter |
+| § 170a | Zustellung bei rechtlicher Betreuung |
 | § 171 | Zustellung an Bevollmächtigte |
 | § 172 | Zustellung an Prozessbevollmächtigte |
 | § 173 | Zustellung von elektronischen Dokumenten |

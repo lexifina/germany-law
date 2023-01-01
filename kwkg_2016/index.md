@@ -23,13 +23,13 @@
 - [§ 8a Ausschreibung der Zuschlagzahlung für KWK-Strom](0008a.md)
 - [§ 8b Ausschreibung der Förderung für innovative KWK-Systeme](0008b.md)
 - [§ 8c Ausschreibungsvolumen](0008c.md)
-- [§ 8d Zahlungsanspruch und Eigenversorgung](0008d.md)
 - [§ 9 Neue KWK-Anlagen mit einer elektrischen KWK-Leistung von bis zu 2 Kilowatt](0009.md)
 - [§ 10 Zulassung von neuen, modernisierten oder nachgerüsteten KWK-Anlagen](0010.md)
 - [§ 11 Überprüfung, Wirkung und Erlöschen der Zulassung](0011.md)
 - [§ 12 Vorbescheid für neue KWK-Anlagen mit einer elektrischen Leistung von mehr als 50 Megawatt](0012.md)
 - [§ 13 Zuschlagberechtigte bestehende KWK-Anlagen, Höhe des Zuschlags und Dauer der Zahlung](0013.md)
 - [§ 13a Registrierung von KWK-Anlagen](0013a.md)
+- [§ 13b Rückforderung](0013b.md)
 
 ## Abschnitt 3 Vorschriften zum Nachweis der Menge des eingespeisten KWK-Stroms und zur Übermittlung von Daten an das Statistische Bundesamt
 
@@ -52,19 +52,11 @@
 - [§ 24 Zulassung für den Neubau von Wärmespeichern, Vorbescheid](0024.md)
 - [§ 25 Kältespeicher](0025.md)
 
-## Abschnitt 6 Regelungen zur Umlage der Kosten
+## Abschnitt 6 Finanzierung und Begrenzung der Zuschlagszahlungen
 
-- [§ 26 KWKG-Umlage](0026.md)
-- [§ 26a Ermittlung der KWKG-Umlage](0026a.md)
-- [§ 26b Veröffentlichung der KWKG-Umlage](0026b.md)
-- [§ 26c Geringfügige Stromverbräuche Dritter und Messung und Schätzung](0026c.md)
-- [§ 27 Begrenzte KWKG-Umlage bei stromkostenintensiven Unternehmen](0027.md)
-- [§ 27a Begrenzte KWKG-Umlage bei Anlagen zur Verstromung von Kuppelgasen](0027a.md)
-- [§ 27b Begrenzte KWKG-Umlage bei Stromspeichern](0027b.md)
-- [§ 27c Begrenzte KWKG-Umlage bei Schienenbahnen](0027c.md)
-- [§ 27d Herstellung von Grünem Wasserstoff](0027d.md)
-- [§ 28 Belastungsausgleich](0028.md)
-- [§ 29 Begrenzung der Höhe der KWKG-Umlage und der Zuschlagzahlungen](0029.md)
+- [§ 26 Finanzierung der Zuschlagszahlungen](0026.md)
+- [§ 27 Begrenzung der Zuschlagszahlungen](0027.md)
+- [(XXXX) §§ 27a bis 29 (weggefallen)](xxxx-27a-bis-29.md)
 
 ## Abschnitt 7 Sonstige Vorschriften
 
@@ -72,7 +64,7 @@
 - [§ 31 Herkunftsnachweis für Strom aus hocheffizienter Kraft-Wärme-Kopplung](0031.md)
 - [§ 31a Weitere Aufgaben des Bundesamtes für Wirtschaft und Ausfuhrkontrolle](0031a.md)
 - [§ 31b Weitere Aufgaben der Bundesnetzagentur](0031b.md)
-- [§ 32 (weggefallen)](0032.md)
+- [§ 32 Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten](0032.md)
 - [§ 32a Clearingstelle](0032a.md)
 - [§ 33 Verordnungsermächtigungen](0033.md)
 - [§ 33a Verordnungsermächtigungen zur Ausschreibung der Zuschlagzahlungen für KWK-Anlagen](0033a.md)
@@ -83,6 +75,6 @@
 
 - [§ 34 Evaluierungen](0034.md)
 - [§ 35 Übergangsbestimmungen](0035.md)
-- [§ 36 Übergangsbestimmungen zur Begrenzung der KWKG-Umlage](0036.md)
-- [§ 37 Übergangsbestimmungen zur Berechnung der KWKG-Umlage und zum Belastungsausgleich](0037.md)
+- [§ 36 (weggefallen)](0036.md)
+- [§ 37 (weggefallen)](0037.md)
 - [Anlage (zu den §§ 7b und 7d)(weggefallen)](anlage.md)

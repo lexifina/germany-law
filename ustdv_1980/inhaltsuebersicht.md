@@ -149,8 +149,7 @@
 |  |
 | Zu § 23 des Gesetzes |
 |  |  |
-| § 69 | Festsetzung allgemeiner Durchschnittssätze |
-| § 70 | Umfang der Durchschnittssätze |
+| §§ 69 und 70 | (weggefallen) |
 |  |
 | Zu § 24 Abs. 4 des Gesetzes |
 |  |  |
@@ -171,10 +170,3 @@
 | § 75 | Berlin-Klausel (weggefallen) |
 | § 76 | (Inkrafttreten) |
 |  |
-| Anlage(zu den §§ 69 und 70) |
-|  |
-| Abschnitt A |
-| Durchschnittssätze für die Berechnung sämtlicher Vorsteuerbeträge (§ 70 Abs. 1) |
-|  |
-| Abschnitt B |
-| Durchschnittssätze für die Berechnung eines Teils der Vorsteuerbeträge (§ 70 Abs. 2) |

@@ -47,7 +47,7 @@
 - [§ 22a Förderung in Tageseinrichtungen](0022a.md)
 - [§ 23 Förderung in Kindertagespflege](0023.md)
 - [§ 24 Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege](0024.md)
-- [§ 24a (weggefallen)](0024a.md)
+- [§ 24a Bericht zum Ausbaustand der ganztägigen Bildungs- und Betreuungsangebote für Grundschulkinder](0024a.md)
 - [§ 25 Unterstützung selbst organisierter Förderung von Kindern](0025.md)
 - [§ 26 Landesrechtsvorbehalt](0026.md)
 
@@ -122,13 +122,13 @@
 ### Vierter Abschnitt Beistandschaft, Pflegschaft und Vormundschaft für Kinder und Jugendliche, Auskunft über Nichtabgabe von Sorgeerklärungen
 
 - [§ 52a Beratung und Unterstützung bei Vaterschaftsfeststellung und Geltendmachung von Unterhaltsansprüchen](0052a.md)
-- [§ 53 Beratung und Unterstützung von Pflegern und Vormündern](0053.md)
-- [§ 54 Erlaubnis zur Übernahme von Vereinsvormundschaften](0054.md)
-- [§ 55 Beistandschaft, Amtspflegschaft und Amtsvormundschaft](0055.md)
-- [§ 56 Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft](0056.md)
-- [§ 57 Mitteilungspflicht des Jugendamts](0057.md)
-- [§ 58 Gegenvormundschaft des Jugendamts](0058.md)
-- [§ 58a Auskunft über Alleinsorge aus dem Sorgeregister](0058a.md)
+- [§ 53 Mitwirkung bei der Auswahl von Vormündern und Pflegern durch das Familiengericht](0053.md)
+- [§ 53a Beratung und Unterstützung von Vormündern und Pflegern](0053a.md)
+- [§ 54 Anerkennung als Vormundschaftsverein](0054.md)
+- [§ 55 Beistandschaft, Pflegschaft und Vormundschaft des Jugendamts](0055.md)
+- [§ 56 Führung der Beistandschaft, der Pflegschaft und der Vormundschaft durch das Jugendamt](0056.md)
+- [§ 57 Mitteilungspflichten des Jugendamts](0057.md)
+- [§ 58 Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister](0058.md)
 
 ### Fünfter Abschnitt Beurkundung, vollstreckbare Urkunden
 
@@ -213,7 +213,7 @@
 - [§ 87 Örtliche Zuständigkeit für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen](0087.md)
 - [§ 87a Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung](0087a.md)
 - [§ 87b Örtliche Zuständigkeit für die Mitwirkung in gerichtlichen Verfahren](0087b.md)
-- [§ 87c Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die schriftliche Auskunft nach § 58a](0087c.md)
+- [§ 87c Örtliche Zuständigkeit für die Beistandschaft, die Pflegschaft, die Vormundschaft und die schriftliche Auskunft nach § 58](0087c.md)
 - [§ 87d Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen](0087d.md)
 - [§ 87e Örtliche Zuständigkeit für Beurkundung und Beglaubigung](0087e.md)
 

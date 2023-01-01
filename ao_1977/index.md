@@ -318,6 +318,7 @@ Aufzeichnungen
 - [§ 146b Kassen-Nachschau](0146b.md)
 - [§ 147 Ordnungsvorschriften für die Aufbewahrung von Unterlagen](0147.md)
 - [§ 147a Vorschriften für die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger](0147a.md)
+- [§ 147b Verordnungsermächtigung zur Vereinheitlichung von digitalen Schnittstellen](0147b.md)
 - [§ 148 Bewilligung von Erleichterungen](0148.md)
 
 #### 2. Unterabschnitt Steuererklärungen
@@ -425,6 +426,7 @@ von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
 - [§ 198 Ausweispflicht, Beginn der Außenprüfung](0198.md)
 - [§ 199 Prüfungsgrundsätze](0199.md)
 - [§ 200 Mitwirkungspflichten des Steuerpflichtigen](0200.md)
+- [§ 200a Qualifiziertes Mitwirkungsverlangen](0200a.md)
 - [§ 201 Schlussbesprechung](0201.md)
 - [§ 202 Inhalt und Bekanntgabe des Prüfungsberichts](0202.md)
 - [§ 203 Abgekürzte Außenprüfung](0203.md)

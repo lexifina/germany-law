@@ -122,6 +122,6 @@
 - [§ 70 Rechtsverordnungen in bestimmten Fällen](0070.md)
 - [§ 71 Beteiligung der Öffentlichkeit](0071.md)
 - [§ 72 Außenverkehr](0072.md)
-- [§ 73 Verkündung von Rechtsverordnungen](0073.md)
+- [§ 73 (weggefallen)](0073.md)
 - [§ 74 Geltungsbereich bestimmter Vorschriften](0074.md)
 - [§ 75 Übergangsregelungen](0075.md)

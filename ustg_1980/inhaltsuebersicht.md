@@ -71,7 +71,7 @@
 |  | § 22e | Untersagung der Fiskalvertretung |
 |  | § 22f | Besondere Pflichten für Betreiber einer elektronischen Schnittstelle |
 | VI. | Sonderregelungen |
-|  | § 23 | Allgemeine Durchschnittssätze |
+|  | § 23 | (weggefallen) |
 |  | § 23a | Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes |
 |  | § 24 | Durchschnittssätze für land- und forstwirtschaftliche Betriebe |
 |  | § 25 | Besteuerung von Reiseleistungen |

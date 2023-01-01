@@ -7,6 +7,7 @@
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Kreislaufwirtschaft von Klärschlamm, Klärschlammgemisch und Klärschlammkompost](0003.md)
+- [§ 3a Berichtspflichten; Phosphoruntersuchungen](0003a.md)
 
 ## Teil 2 Anforderungen an die Verwertung von Klärschlamm, Klärschlammgemisch und Klärschlammkompost auf und in Böden
 

@@ -16,6 +16,6 @@
 - [§ 14 Bußgeldvorschriften](0014.md)
 - [§ 15 Abgabenaufkommen](0015.md)
 - [§ 16 Beginn der Abgabenerhebung](0016.md)
-- [§ 17 Verkündung von Rechtsverordnungen](0017.md)
+- [§ 17 (weggefallen)](0017.md)
 - [§ 18 Evaluierung](0018.md)
 - [Anlage (zu § 8) Abgabensätze](anlage-zu-8.md)

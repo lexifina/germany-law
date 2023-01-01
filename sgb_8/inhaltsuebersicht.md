@@ -47,6 +47,7 @@
 | § 22a | Förderung in Tageseinrichtungen |
 | § 23 | Förderung in Kindertagespflege |
 | § 24 | Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege |
+| § 24a | Bericht zum Ausbaustand der ganztägigen Bildungs- und Betreuungsangebote für Grundschulkinder |
 | § 25 | Unterstützung selbst organisierter Förderung von Kindern |
 | § 26 | Landesrechtsvorbehalt |
 |  |  |
@@ -131,12 +132,13 @@
 | für Kinder und Jugendliche, Auskunft über |
 | Nichtabgabe von Sorgeerklärungen |
 | § 52a | Beratung und Unterstützung bei Vaterschaftsfeststellung und Geltendmachung von Unterhaltsansprüchen |
-| § 53 | Beratung und Unterstützung von Pflegern und Vormündern |
-| § 54 | Erlaubnis zur Übernahme von Vereinsvormundschaften |
-| § 55 | Beistandschaft, Amtspflegschaft und Amtsvormundschaft |
-| § 56 | Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft |
-| § 57 | Mitteilungspflicht des Jugendamts |
-| § 58 | Gegenvormundschaft des Jugendamts |
+| § 53 | Mitwirkung bei der Auswahl von Vormündern und Pflegern durch das Familiengericht |
+| § 53a | Beratung und Unterstützung von Vormündern und Pflegern |
+| § 54 | Anerkennung als Vormundschaftsverein |
+| § 55 | Beistandschaft, Pflegschaft und Vormundschaft des Jugendamts |
+| § 56 | Führung der Beistandschaft, der Pflegschaft und der Vormundschaft durch das Jugendamt |
+| § 57 | Mitteilungspflichten des Jugendamts |
+| § 58 | Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister |
 | § 58a | Auskunft über Alleinsorge aus dem Sorgeregister |
 |  |  |
 | Fünfter Abschnitt |
@@ -226,7 +228,7 @@
 | § 87 | Örtliche Zuständigkeit für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen |
 | § 87a | Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung |
 | § 87b | Örtliche Zuständigkeit für die Mitwirkung in gerichtlichen Verfahren |
-| § 87c | Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die schriftliche Auskunft nach § 58a |
+| § 87c | Örtliche Zuständigkeit für die Beistandschaft, die Pflegschaft, die Vormundschaft und die schriftliche Auskunft nach § 58 |
 | § 87d | Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen |
 | § 87e | Örtliche Zuständigkeit für Beurkundung und Beglaubigung |
 |  |  |

@@ -1,114 +1,122 @@
 # Inhaltsübersicht
 
 Teil 1
-(zukünftig in Kraft)
-| § 1 | (zukünftig in Kraft) |
-| § 2 | (zukünftig in Kraft) |
-| § 3 | (zukünftig in Kraft) |
-| § 4 | (zukünftig in Kraft) |
+Erlaubnis zum
+Führen der Berufsbezeichnung
+| § 1 | Erlaubnis zum Führen der Berufsbezeichnung |
+| § 2 | Rücknahme der Erlaubnis |
+| § 3 | Widerruf der Erlaubnis |
+| § 4 | Ruhen der Erlaubnis |
 Teil 2
-(zukünftig in Kraft)
-| § 5 | (zukünftig in Kraft) |
-| § 6 | (zukünftig in Kraft) |
+Vorbehaltene Tätigkeiten
+| § 5 | Vorbehaltene Tätigkeiten für Medizinische Technologinnen und Medizinische Technologen |
+| § 6 | Ausnahmen von den vorbehaltenen Tätigkeiten |
 Teil 3
-(zukünftig in Kraft)
+Ausbildung
+und Ausbildungsverhältnis
 Abschnitt 1
-(zukünftig in Kraft)
-| § 7 | (zukünftig in Kraft) |
+Allgemeines
+| § 7 | Nichtanwendung des Berufsbildungsgesetzes |
 Abschnitt 2
-(zukünftig in Kraft)
-| § 8 | (zukünftig in Kraft) |
-| § 9 | (zukünftig in Kraft) |
-| § 10 | (zukünftig in Kraft) |
-| § 11 | (zukünftig in Kraft) |
-| § 12 | (zukünftig in Kraft) |
+Ziele der Ausbildung
+| § 8 | Allgemeines Ausbildungsziel |
+| § 9 | Berufsspezifisches Ausbildungsziel für Medizinische Technologinnen für Laboratoriumsanalytik und Medizinische Technologen für Laboratoriumsanalytik |
+| § 10 | Berufsspezifisches Ausbildungsziel für Medizinische Technologinnen für Radiologie und Medizinische Technologen für Radiologie |
+| § 11 | Berufsspezifisches Ausbildungsziel für Medizinische Technologinnen für Funktionsdiagnostik und Medizinische Technologen für Funktionsdiagnostik |
+| § 12 | Berufsspezifisches Ausbildungsziel für Medizinische Technologinnen für Veterinärmedizin und Medizinische Technologen für Veterinärmedizin |
 Abschnitt 3
-(zukünftig in Kraft)
-| § 13 | (zukünftig in Kraft) |
-| § 14 | (zukünftig in Kraft) |
-| § 15 | (zukünftig in Kraft) |
-| § 16 | (zukünftig in Kraft) |
-| § 17 | (zukünftig in Kraft) |
-| § 18 | (zukünftig in Kraft) |
-| § 19 | (zukünftig in Kraft) |
-| § 20 | (zukünftig in Kraft) |
-| § 21 | (zukünftig in Kraft) |
-| § 22 | (zukünftig in Kraft) |
-| § 23 | (zukünftig in Kraft) |
-| § 24 | (zukünftig in Kraft) |
-| § 25 | (zukünftig in Kraft) |
+Ausbildung
+| § 13 | Dauer und Struktur der Ausbildung |
+| § 14 | Voraussetzungen für den Zugang zur Ausbildung |
+| § 15 | Anrechnung gleichwertiger Ausbildungen |
+| § 16 | Anrechnung von Fehlzeiten |
+| § 17 | Verlängerung der Ausbildungsdauer |
+| § 18 | Mindestanforderungen an Schulen |
+| § 19 | Praktische Ausbildung |
+| § 20 | Praxisanleitung |
+| § 21 | Träger der praktischen Ausbildung |
+| § 22 | Aufgaben und Gesamtverantwortung der Schule |
+| § 23 | Praxisbegleitung |
+| § 24 | Schulinternes Curriculum und Ausbildungsplan |
+| § 25 | Staatliche Prüfung |
 Abschnitt 4
-(zukünftig in Kraft)
-| § 26 | (zukünftig in Kraft) |
-| § 27 | (zukünftig in Kraft) |
-| § 28 | (zukünftig in Kraft) |
-| § 29 | (zukünftig in Kraft) |
-| § 30 | (zukünftig in Kraft) |
-| § 31 | (zukünftig in Kraft) |
-| § 32 | (zukünftig in Kraft) |
-| § 33 | (zukünftig in Kraft) |
-| § 34 | (zukünftig in Kraft) |
-| § 35 | (zukünftig in Kraft) |
-| § 36 | (zukünftig in Kraft) |
-| § 37 | (zukünftig in Kraft) |
-| § 38 | (zukünftig in Kraft) |
-| § 39 | (zukünftig in Kraft) |
-| § 40 | (zukünftig in Kraft) |
-| § 41 | (zukünftig in Kraft) |
+Ausbildungsverhältnis
+| § 26 | Ausbildungsvertrag |
+| § 27 | Inhalt des Ausbildungsvertrages |
+| § 28 | Wirksamkeit des Ausbildungsvertrages |
+| § 29 | Vertragsschluss bei Minderjährigen |
+| § 30 | Anwendbares Recht |
+| § 31 | Pflichten des Trägers der praktischen Ausbildung |
+| § 32 | Arbeitnehmereigenschaft der auszubildenden Person |
+| § 33 | Pflichten der auszubildenden Person |
+| § 34 | Ausbildungsvergütung |
+| § 35 | Überstunden |
+| § 36 | Probezeit |
+| § 37 | Ende des Ausbildungsverhältnisses |
+| § 38 | Beendigung des Ausbildungsvertrages durch Kündigung |
+| § 39 | Wirksamkeit der Kündigung |
+| § 40 | Beschäftigung im Anschluss an das Ausbildungsverhältnis |
+| § 41 | Nichtigkeit von Vereinbarungen |
 Teil 4
-(zukünftig in Kraft)
+Anerkennung von
+Berufsqualifikationen
 Abschnitt 1
-(zukünftig in Kraft)
-| § 42 | (zukünftig in Kraft) |
-| § 43 | (zukünftig in Kraft) |
-| § 44 | (zukünftig in Kraft) |
-| § 45 | (zukünftig in Kraft) |
+Allgemeine Vorschriften
+| § 42 | Begriffsbestimmungen |
+| § 43 | Nichtanwendung des Berufsqualifikationsfeststellungsgesetzes |
+| § 44 | Prüfungsreihenfolge |
+| § 45 | Bescheid über die Feststellung der Gleichwertigkeit der Berufsqualifikation |
 Abschnitt 2
-(zukünftig in Kraft)
-| § 46 | (zukünftig in Kraft) |
-| § 47 | (zukünftig in Kraft) |
-| § 48 | (zukünftig in Kraft) |
-| § 49 | (zukünftig in Kraft) |
-| § 50 | (zukünftig in Kraft) |
-| § 51 | (zukünftig in Kraft) |
-| § 52 | (zukünftig in Kraft) |
+Besondere Vorschriften
+| § 46 | Anerkennung von außerhalb des Geltungsbereichs dieses Gesetzes erworbenen Berufsqualifikationen |
+| § 47 | Wesentliche Unterschiede |
+| § 48 | Ausgleich wesentlicher Unterschiede durch Berufserfahrung oder lebenslanges Lernen |
+| § 49 | Anpassungsmaßnahmen |
+| § 50 | Eignungsprüfung oder Anpassungslehrgang |
+| § 51 | Kenntnisprüfung oder Anpassungslehrgang |
+| § 52 | Europäischer Berufsausweis |
 Abschnitt 3
-(zukünftig in Kraft)
-| § 53 | (zukünftig in Kraft) |
+Partielle Berufsausübung
+| § 53 | Erlaubnis zur partiellen Berufsausübung |
 Teil 5
-(zukünftig in Kraft)
+Erbringen von Dienstleistungen
 Abschnitt 1
-(zukünftig in Kraft)
-| § 54 | (zukünftig in Kraft) |
-| § 55 | (zukünftig in Kraft) |
-| § 56 | (zukünftig in Kraft) |
-| § 57 | (zukünftig in Kraft) |
-| § 58 | (zukünftig in Kraft) |
-| § 59 | (zukünftig in Kraft) |
+Erbringung von
+Dienstleistungen im Geltungsbereich dieses Gesetzes
+| § 54 | Dienstleistungserbringung |
+| § 55 | Meldung der Dienstleistungserbringung |
+| § 56 | Berechtigung zur Dienstleistungserbringung |
+| § 57 | Zur Dienstleistungserbringung berechtigende Berufsqualifikation |
+| § 58 | Entscheidung über die Berechtigung zur Dienstleistungserbringung |
+| § 59 | Rechte und Pflichten der dienstleistungserbringenden Person |
 Abschnitt 2
-(zukünftig in Kraft)
-| § 60 | (zukünftig in Kraft) |
+Dienstleistungserbringung
+in anderen Mitgliedstaaten,
+in anderen Vertragsstaaten oder in gleichgestellten Staaten
+| § 60 | Bescheinigung der zuständigen Behörde |
 Teil 6
-(zukünftig in Kraft)
-| § 61 | (zukünftig in Kraft) |
-| § 62 | (zukünftig in Kraft) |
-| § 63 | (zukünftig in Kraft) |
-| § 64 | (zukünftig in Kraft) |
-| § 65 | (zukünftig in Kraft) |
-| § 66 | (zukünftig in Kraft) |
-| § 67 | (zukünftig in Kraft) |
-| § 68 | (zukünftig in Kraft) |
+Zuständigkeiten
+und Aufgaben der Behörden
+| § 61 | Zuständige Behörde |
+| § 62 | Gemeinsame Einrichtungen |
+| § 63 | Unterrichtungs- und Überprüfungspflichten |
+| § 64 | Warnmitteilung durch die zuständige Behörde |
+| § 65 | Unterrichtung über Änderungen |
+| § 66 | Löschung einer Warnmitteilung |
+| § 67 | Unterrichtung über gefälschte Berufsqualifikationsnachweise |
+| § 68 | Verwaltungszusammenarbeit bei Dienstleistungserbringung |
 Teil 7
 Verordnungsermächtigung
 | § 69 | Ermächtigung zum Erlass einer Ausbildungs- und Prüfungsverordnung |
 Teil 8
-(zukünftig in Kraft)
-| § 70 | (zukünftig in Kraft) |
+Bußgeldvorschriften
+| § 70 | Bußgeldvorschriften |
 Teil 9
-(zukünftig in Kraft)
-| § 71 | (zukünftig in Kraft) |
-| § 72 | (zukünftig in Kraft) |
-| § 73 | (zukünftig in Kraft) |
-| § 74 | (zukünftig in Kraft) |
-| § 75 | (zukünftig in Kraft) |
-| § 76 | (zukünftig in Kraft) |
+Übergangs- und
+Schlussvorschriften
+| § 71 | Fortgelten der Erlaubnis zum Führen der Berufsbezeichnung |
+| § 72 | Fortgelten der Bestätigung zur partiellen Berufsausübung |
+| § 73 | Abschluss begonnener Ausbildungen |
+| § 74 | Weitergeltung der staatlichen Anerkennung von Schulen und Bestandsschutz |
+| § 75 | Übergangsvorschrift für die Anerkennung ausländischer Berufsqualifikationen |
+| § 76 | Finanzierung von Ausbildungskosten; Kooperationsvereinbarungen |

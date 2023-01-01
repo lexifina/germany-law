@@ -1,13 +1,12 @@
-# Anlage (zu § 1 Absatz 3)Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2020
+# Anlage (zu § 1 Absatz 3)Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2023
 
 Soweit die zu einem Kreis gehörenden Gemeinden in den Tabellen nicht gesondert aufgeführt sind, gilt die Mietenstufe des Kreises für diese Gemeinden.
-Zu Grunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2016 und 31. Dezember 2017 einschließlich der bis zum 31. März 2018 erfolgten rückwirkenden Bewilligungen.
-Relevanter Gebietsstand ist der 31. März 2018, der für die 10 000-Einwohner-Schwelle relevante Stichtag der Bevölkerung ist der 30. September 2017.
+Zu Grunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2019 und 31. Dezember 2020 einschließlich der bis zum 31. März 2021 erfolgten rückwirkenden Bewilligungen.
+Relevanter Gebietsstand ist der 31. März 2021, der für die 10 000-Einwohner-Schwelle relevante Stichtag der Bevölkerung ist der 30. September 2020.
 Land:Baden-Württemberg
 | Gemeinde | Mietenstufe |
 | Aalen, Stadt | III |
 | Achern, Stadt | II |
-| Aichtal, Stadt | IV |
 | Albstadt, Stadt | II |
 | Altensteig, Stadt | II |
 | Ammerbuch | IV |
@@ -16,25 +15,25 @@ Land:Baden-Württemberg
 | Aulendorf, Stadt | II |
 | Backnang, Stadt | IV |
 | Bad Dürrheim, Stadt | III |
-| Bad Friedrichshall, Stadt | III |
+| Bad Friedrichshall, Stadt | IV |
 | Bad Krozingen, Stadt | V |
 | Bad Mergentheim, Stadt | III |
 | Bad Rappenau, Stadt | III |
 | Bad Säckingen, Stadt | IV |
 | Bad Saulgau, Stadt | II |
-| Bad Schönborn | III |
-| Bad Urach, Stadt | III |
-| Bad Waldsee, Stadt | III |
-| Bad Wurzach, Stadt | I |
+| Bad Urach, Stadt | IV |
+| Bad Waldsee, Stadt | II |
+| Bad Wildbad, Stadt | II |
+| Bad Wurzach, Stadt | II |
 | Baden-Baden, Stadt | IV |
-| Baiersbronn | I |
-| Balingen, Stadt | III |
-| Besigheim, Stadt | IV |
+| Baiersbronn | II |
+| Balingen, Stadt | II |
+| Besigheim, Stadt | V |
 | Biberach an der Riß, Stadt | III |
 | Bietigheim-Bissingen, Stadt | V |
 | Birkenfeld | III |
-| Blaubeuren, Stadt | II |
-| Blaustein, Stadt | IV |
+| Blaubeuren, Stadt | III |
+| Blaustein, Stadt | V |
 | Blumberg, Stadt | I |
 | Böblingen, Stadt | VI |
 | Bopfingen, Stadt | II |
@@ -43,67 +42,64 @@ Land:Baden-Württemberg
 | Bretten, Stadt | III |
 | Bretzfeld | II |
 | Bruchsal, Stadt | III |
-| Brühl | IV |
-| Buchen (Odenwald), Stadt | I |
+| Brühl | III |
+| Buchen (Odenwald), Stadt | II |
 | Bühl, Stadt | III |
 | Burladingen, Stadt | I |
-| Calw, Stadt | III |
+| Calw, Stadt | IV |
 | Crailsheim, Stadt | II |
 | Denkendorf | V |
 | Denzlingen | IV |
 | Ditzingen, Stadt | V |
 | Donaueschingen, Stadt | II |
 | Donzdorf, Stadt | II |
-| Dossenheim | VI |
-| Durmersheim | III |
+| Dossenheim | V |
+| Durmersheim | IV |
 | Eberbach, Stadt | II |
 | Ebersbach an der Fils, Stadt | IV |
-| Edingen-Neckarhausen | IV |
-| Eggenstein-Leopoldshafen | IV |
+| Edingen-Neckarhausen | III |
 | Ehingen (Donau), Stadt | III |
-| Eislingen/Fils, Stadt | III |
 | Ellwangen (Jagst), Stadt | III |
 | Emmendingen, Stadt | IV |
-| Engen, Stadt | II |
-| Eningen unter Achalm | III |
+| Endingen am Kaiserstuhl, Stadt | III |
+| Engen, Stadt | III |
+| Eningen unter Achalm | IV |
 | Eppelheim, Stadt | V |
-| Eppingen, Stadt | II |
+| Eppingen, Stadt | III |
 | Erbach, Stadt | III |
 | Esslingen am Neckar, Stadt | V |
 | Ettenheim, Stadt | II |
 | Ettlingen, Stadt | IV |
 | Fellbach, Stadt | V |
 | Filderstadt, Stadt | V |
-| Freiberg am Neckar, Stadt | V |
+| Freiberg am Neckar, Stadt | VI |
 | Freiburg im Breisgau, Stadt | VI |
 | Freudenstadt, Stadt | III |
 | Friedrichshafen, Stadt | V |
 | Friesenheim | II |
+| Gärtringen | IV |
 | Gaggenau, Stadt | III |
 | Gaildorf, Stadt | II |
-| Gärtringen | V |
-| Geislingen an der Steige, Stadt | II |
-| Gengenbach, Stadt | II |
+| Geislingen an der Steige, Stadt | III |
+| Gengenbach, Stadt | III |
 | Gerlingen, Stadt | VI |
 | Gernsbach, Stadt | III |
-| Gerstetten | II |
+| Gerstetten | I |
 | Giengen an der Brenz, Stadt | II |
 | Göppingen, Stadt | III |
 | Gottmadingen | III |
 | Graben-Neudorf | III |
 | Grenzach-Wyhlen | V |
-| Gundelfingen | VI |
+| Gundelfingen | V |
 | Haigerloch, Stadt | I |
-| Hechingen, Stadt | III |
 | Heddesheim | III |
 | Heidelberg, Stadt | V |
-| Heidenheim an der Brenz, Stadt | III |
 | Heilbronn, Stadt | IV |
-| Hemsbach, Stadt | IV |
-| Herbolzheim, Stadt | II |
-| Herbrechtingen, Stadt | I |
+| Hemsbach, Stadt | III |
+| Herbolzheim, Stadt | III |
+| Herbrechtingen, Stadt | II |
 | Herrenberg, Stadt | V |
-| Hockenheim, Stadt | IV |
+| Hockenheim, Stadt | III |
 | Holzgerlingen, Stadt | VI |
 | Horb am Neckar, Stadt | II |
 | Isny im Allgäu, Stadt | III |
@@ -111,85 +107,83 @@ Land:Baden-Württemberg
 | Karlsdorf-Neuthard | III |
 | Karlsruhe, Stadt | IV |
 | Kehl, Stadt | III |
-| Kenzingen, Stadt | II |
+| Kenzingen, Stadt | IV |
 | Kernen im Remstal | V |
 | Ketsch | IV |
 | Kirchheim unter Teck, Stadt | V |
-| Köngen | V |
-| Konstanz, Stadt | V |
-| Korb | IV |
+| Korb | V |
+| Königsbach-Stein | II |
+| Konstanz, Universitätsstadt | V |
 | Korntal-Münchingen, Stadt | VI |
-| Kornwestheim, Stadt | V |
-| Kraichtal, Stadt | II |
-| Künzelsau, Stadt | II |
-| Ladenburg, Stadt | III |
-| Lahr/Schwarzwald, Stadt | II |
-| Laichingen, Stadt | II |
+| Kornwestheim, Stadt | VI |
+| Kraichtal, Stadt | I |
+| Künzelsau, Stadt | III |
+| Ladenburg, Stadt | IV |
+| Lahr/Schwarzwald, Stadt | III |
+| Laichingen, Stadt | III |
 | Langenau, Stadt | III |
 | Lauda-Königshofen, Stadt | I |
-| Lauffen am Neckar, Stadt | IV |
 | Laupheim, Stadt | III |
-| Leimen, Stadt | V |
+| Leimen, Stadt | IV |
 | Leinfelden-Echterdingen, Stadt | VI |
-| Leingarten | IV |
+| Leingarten, Stadt | IV |
 | Leonberg, Stadt | VI |
-| Leutenbach | III |
+| Leutenbach | IV |
 | Leutkirch im Allgäu, Stadt | II |
-| Linkenheim-Hochstetten | II |
+| Linkenheim-Hochstetten | III |
 | Lorch, Stadt | III |
-| Lörrach, Stadt | IV |
-| Ludwigsburg, Stadt | V |
+| Lörrach, Stadt | V |
+| Ludwigsburg, Stadt | VI |
 | Malsch | III |
-| Mannheim, Stadt | V |
+| Mannheim, Universitätsstadt | V |
 | Marbach am Neckar, Stadt | V |
-| Markdorf, Stadt | IV |
+| Markdorf, Stadt | V |
 | Markgröningen, Stadt | IV |
 | Meckenbeuren | IV |
-| Meßstetten, Stadt | I |
-| Metzingen, Stadt | IV |
+| Meßstetten, Stadt | II |
+| Metzingen, Stadt | V |
 | Möglingen | V |
-| Mosbach, Stadt | III |
 | Mössingen, Stadt | IV |
+| Mosbach, Stadt | III |
 | Mühlacker, Stadt | III |
 | Müllheim, Stadt | IV |
 | Münsingen, Stadt | II |
 | Murrhardt, Stadt | II |
 | Nagold, Stadt | IV |
-| Neckargemünd, Stadt | IV |
-| Neckarsulm, Stadt | III |
-| Neuenburg am Rhein, Stadt | IV |
+| Neckargemünd, Stadt | III |
+| Neckarsulm, Stadt | IV |
+| Neuenburg am Rhein, Stadt | V |
+| Neuenstadt am Kocher, Stadt | II |
 | Neuhausen auf den Fildern | V |
 | Niefern-Öschelbronn | III |
 | Nürtingen, Stadt | IV |
 | Nußloch | V |
-| Oberderdingen | II |
+| Oberderdingen | III |
 | Oberkirch, Stadt | II |
-| Oberndorf am Neckar, Stadt | I |
+| Oberndorf am Neckar, Stadt | II |
 | Obersulm | III |
-| Öhringen, Stadt | III |
+| Öhringen, Stadt | IV |
 | Östringen, Stadt | II |
 | Offenburg, Stadt | III |
-| Oftersheim | III |
+| Oftersheim | IV |
 | Ostfildern, Stadt | V |
 | Pfinztal | III |
 | Pforzheim, Stadt | IV |
 | Pfullendorf, Stadt | II |
 | Pfullingen, Stadt | IV |
-| Philippsburg, Stadt | II |
-| Plankstadt | III |
-| Plochingen, Stadt | IV |
+| Phillipsburg, Stadt | II |
+| Plochingen, Stadt | V |
 | Radolfzell am Bodensee, Stadt | IV |
 | Rastatt, Stadt | III |
 | Ravensburg, Stadt | V |
 | Remchingen | II |
 | Remseck am Neckar, Stadt | V |
 | Remshalden | III |
-| Renningen, Stadt | VI |
+| Renningen, Stadt | V |
 | Reutlingen, Stadt | IV |
-| Rheinau, Stadt | I |
 | Rheinfelden (Baden), Stadt | IV |
-| Rheinstetten, Stadt | IV |
-| Riedlingen, Stadt | I |
+| Rheinau, Stadt | II |
+| Riedlingen, Stadt | II |
 | Rielasingen-Worblingen | IV |
 | Rottenburg am Neckar, Stadt | IV |
 | Rottweil, Stadt | III |
@@ -198,144 +192,138 @@ Land:Baden-Württemberg
 | Sachsenheim, Stadt | IV |
 | Salem | III |
 | Sandhausen | IV |
-| Sankt Georgen i. Schwarzw., Stadt | II |
+| St. Georgen i. Schwarzwald, Stadt | II |
 | Sankt Leon-Rot | III |
-| Schönaich | IV |
 | Schopfheim, Stadt | III |
 | Schorndorf, Stadt | IV |
-| Schramberg, Stadt | I |
-| Schriesheim, Stadt | IV |
+| Schönaich | IV |
+| Schramberg, Stadt | II |
 | Schwäbisch Gmünd, Stadt | III |
-| Schwäbisch Hall, Stadt | II |
+| Schwäbisch Hall, Stadt | III |
 | Schwaigern, Stadt | III |
 | Schwetzingen, Stadt | IV |
-| Schwieberdingen | V |
+| Schwieberdingen | VI |
 | Sigmaringen, Stadt | II |
-| Sindelfingen, Stadt | V |
+| Sindelfingen, Stadt | IV |
 | Singen (Hohentwiel), Stadt | IV |
 | Sinsheim, Stadt | III |
-| Sinzheim | II |
 | Spaichingen, Stadt | III |
-| Steinen | V |
-| Steinheim an der Murr, Stadt | III |
-| Stockach, Stadt | III |
+| Steinheim an der Murr, Stadt | IV |
+| Stockach, Stadt | II |
 | Straubenhardt | II |
 | Stutensee, Stadt | III |
 | Stuttgart, Landeshauptstadt | VI |
-| Sulz am Neckar, Stadt | I |
 | Süßen, Stadt | III |
-| Tamm | V |
+| Sulz am Neckar, Stadt | II |
+| Tamm | VI |
 | Tauberbischofsheim, Stadt | I |
 | Teningen | III |
-| Tettnang, Stadt | IV |
+| Tettnang, Stadt | V |
 | Titisee-Neustadt, Stadt | II |
-| Trossingen, Stadt | III |
-| Tübingen, Stadt | VII |
-| Tuttlingen, Stadt | III |
-| Überlingen, Stadt | IV |
+| Tübingen, Universitätsstadt | VII |
 | Ubstadt-Weiher | III |
+| Überlingen, Stadt | IV |
 | Uhingen, Stadt | III |
-| Ulm, Stadt | IV |
+| Ulm, Universitätsstadt | IV |
 | Vaihingen an der Enz, Stadt | III |
 | Villingen-Schwenningen, Stadt | III |
-| Waghäusel, Stadt | II |
+| Waghäusel, Stadt | III |
 | Waiblingen, Stadt | V |
 | Waldbronn | IV |
-| Waldkirch, Stadt | III |
 | Waldshut-Tiengen, Stadt | III |
-| Walldorf, Stadt | V |
+| Walldorf, Stadt | IV |
 | Walldürn, Stadt | I |
 | Wangen im Allgäu, Stadt | III |
-| Wehr, Stadt | III |
 | Weil am Rhein, Stadt | V |
 | Weil der Stadt, Stadt | V |
-| Weilheim an der Teck, Stadt | IV |
-| Weingarten (Baden) | III |
+| Weilheim an der Teck, Stadt | III |
+| Weil im Schönbuch | VI |
+| Weingarten, Baden | III |
 | Weingarten, Stadt | V |
-| Weinheim, Stadt | IV |
-| Weinsberg, Stadt | III |
+| Weinsberg, Stadt | IV |
 | Weinstadt, Stadt | V |
 | Welzheim, Stadt | III |
-| Wendlingen am Neckar, Stadt | V |
+| Wendlingen am Neckar, Stadt | IV |
 | Wernau (Neckar), Stadt | V |
 | Wertheim, Stadt | II |
-| Wiesloch, Stadt | V |
+| Wiesloch, Stadt | IV |
 | Wildberg, Stadt | II |
 | Winnenden, Stadt | V |
 | Kreis | Mietenstufe |
 | Alb-Donau-Kreis | II |
-| Biberach | I |
-| Böblingen | IV |
+| Biberach | II |
 | Bodenseekreis | IV |
-| Breisgau-Hochschwarzwald | III |
+| Böblingen | V |
+| Breisgau-Hochschwarzwald | IV |
 | Calw | II |
 | Emmendingen | II |
-| Enzkreis | II |
-| Esslingen | III |
+| Enzkreis | III |
+| Esslingen | IV |
 | Freudenstadt | I |
 | Göppingen | II |
-| Heidenheim | I |
-| Heilbronn | II |
+| Heidenheim | II |
+| Heilbronn | III |
 | Hohenlohekreis | I |
 | Karlsruhe | II |
-| Konstanz | II |
+| Konstanz | III |
 | Lörrach | III |
 | Ludwigsburg | IV |
 | Main-Tauber-Kreis | I |
 | Neckar-Odenwald-Kreis | I |
-| Ortenaukreis | I |
+| Ortenaukreis | II |
 | Ostalbkreis | II |
 | Rastatt | II |
 | Ravensburg | II |
-| Rems-Murr-Kreis | II |
-| Reutlingen | II |
+| Rems-Murr-Kreis | III |
+| Reutlingen | III |
 | Rhein-Neckar-Kreis | II |
 | Rottweil | I |
 | Schwäbisch-Hall | I |
 | Schwarzwald-Baar-Kreis | II |
 | Sigmaringen | I |
 | Tübingen | IV |
-| Tuttlingen | I |
+| Tuttlingen | II |
 | Waldshut | II |
 | Zollernalbkreis | I |
 Land:Bayern
 | Gemeinde | Mietenstufe |
-| Abensberg, Stadt | II |
+| Abensberg, Stadt | III |
 | Aichach, Stadt | III |
 | Altdorf, Markt | III |
-| Altdorf bei Nürnberg, Stadt | III |
+| Altdorf bei Nürnberg, Stadt | II |
 | Altötting, Stadt | II |
 | Altusried, Markt | I |
-| Alzenau, Stadt | II |
+| Alzenau i. Ufr., Stadt | II |
 | Amberg, Stadt | II |
-| Ansbach, Stadt | II |
+| Ansbach, Stadt | III |
 | Aschaffenburg, Stadt | IV |
-| Augsburg, Stadt | IV |
+| Augsburg, Stadt | V |
 | Bad Abbach, Markt | III |
-| Bad Aibling, Stadt | IV |
-| Bad Kissingen, Stadt | I |
+| Bad Aibling, Stadt | V |
+| Bad Kissingen, Stadt | II |
 | Bad Neustadt a. d. Saale, Stadt | I |
-| Bad Reichenhall, Stadt | IV |
+| Bad Reichenhall, Stadt | III |
 | Bad Staffelstein, Stadt | I |
 | Bad Tölz, Stadt | V |
-| Bad Windsheim, Stadt | I |
-| Bad Wörishofen, Stadt | II |
+| Bad Windsheim, Stadt | II |
+| Bad Wörishofen, Stadt | III |
 | Bamberg, Stadt | III |
 | Bayreuth, Stadt | III |
 | Bobingen, Stadt | IV |
-| Bogen, Stadt | I |
+| Bogen | II |
 | Bruckmühl, Markt | IV |
-| Buchloe, Stadt | II |
+| Buchloe, Stadt | IV |
+| Burgau, Stadt | II |
 | Burghausen, Stadt | III |
-| Burgkirchen a. d. Alz | II |
+| Burgkirchen a. d. Alz | I |
 | Burglengenfeld, Stadt | II |
-| Burgthann | I |
-| Cadolzburg, Markt | II |
+| Burgthann | III |
+| Cadolzburg, Markt | III |
 | Cham, Stadt | I |
 | Coburg, Stadt | II |
 | Dachau, Stadt | VII |
 | Deggendorf, Stadt | II |
-| Diedorf, Markt | III |
+| Diedorf, Markt | IV |
 | Dießen a. Ammersee, Markt | V |
 | Dillingen a. d. Donau, Stadt | II |
 | Dingolfing, Stadt | II |
@@ -349,30 +337,31 @@ Land:Bayern
 | Eichenau | VII |
 | Eichstätt, Stadt | III |
 | Erding, Stadt | VI |
-| Ergolding, Markt | III |
+| Ergolding, Markt | IV |
 | Erlangen, Stadt | IV |
 | Erlenbach am Main, Stadt | II |
 | Essenbach, Markt | II |
 | Feldkirchen-Westerham | V |
 | Feucht, Markt | IV |
 | Feuchtwangen, Stadt | II |
-| Forchheim, Stadt | II |
-| Freilassing, Stadt | IV |
-| Freising, Stadt | VI |
+| Forchheim, Stadt | III |
+| Freilassing, Stadt | III |
+| Freising, Stadt | VII |
 | Friedberg, Stadt | III |
 | Fürstenfeldbruck, Stadt | VII |
 | Fürth, Stadt | IV |
 | Füssen, Stadt | III |
-| Gaimersheim, Markt | IV |
-| Garching bei München, Stadt | VI |
+| Gaimersheim, Markt | V |
+| Garching bei München, Stadt | VII |
 | Garmisch-Partenkirchen, Markt | VI |
-| Gauting | VII |
-| Geisenfeld, Stadt | II |
+| Gauting | VI |
+| Geisenfeld, Stadt | III |
 | Gemünden am Main, Stadt | I |
 | Geretsried, Stadt | IV |
 | Germering, Stadt | VII |
 | Gersthofen, Stadt | III |
 | Gilching | VII |
+| Goldbach, Markt | III |
 | Gräfelfing | VII |
 | Grafing bei München, Stadt | VII |
 | Gröbenzell | VII |
@@ -388,149 +377,151 @@ Land:Bayern
 | Herrsching a. Ammersee | V |
 | Hersbruck, Stadt | III |
 | Herzogenaurach, Stadt | IV |
-| Hilpoltstein, Stadt | I |
-| Hirschaid, Markt | II |
-| Höchstadt a. d. Aisch, Stadt | II |
-| Hof, Stadt | I |
+| Hilpoltstein, Stadt | II |
+| Hirschaid, Markt | I |
+| Höchstadt a. d. Aisch, Stadt | III |
 | Höhenkirchen-Siegertsbrunn | VII |
-| Holzkirchen, Markt | IV |
 | Hösbach, Markt | II |
-| Illertissen, Stadt | II |
+| Hof, Stadt | I |
+| Holzkirchen, Markt | VI |
+| Illertissen, Stadt | III |
 | Immenstadt i. Allgäu, Stadt | III |
-| Ingolstadt, Stadt | IV |
-| Ismaning | VII |
+| Ingolstadt | V |
+| Ismaning | VI |
 | Karlsfeld | VII |
-| Karlstadt, Stadt | I |
+| Karlstadt, Stadt | II |
 | Kaufbeuren, Stadt | III |
-| Kaufering, Markt | III |
-| Kelheim, Stadt | II |
+| Kaufering, Markt | IV |
+| Kelheim, Stadt | III |
 | Kempten (Allgäu), Stadt | IV |
-| Kirchheim bei München | VII |
-| Kirchseeon, Markt | VII |
+| Kirchheim bei München | VI |
+| Kirchseeon, Markt | VI |
 | Kissing | IV |
 | Kitzingen, Stadt | II |
-| Kolbermoor, Stadt | IV |
 | Königsbrunn, Stadt | IV |
+| Kolbermoor, Stadt | IV |
 | Kronach, Stadt | II |
 | Krumbach (Schwaben), Stadt | II |
 | Kulmbach, Stadt | I |
 | Landau an der Isar, Stadt | I |
-| Landsberg a. Lech, Stadt | V |
+| Landsberg a. Lech, Stadt | VI |
 | Landshut, Stadt | IV |
-| Langenzenn, Stadt | II |
+| Langenzenn, Stadt | III |
 | Lappersdorf, Markt | III |
 | Lauf a. d. Pegnitz, Stadt | IV |
-| Lauingen (Donau), Stadt | I |
+| Lauingen (Donau), Stadt | II |
 | Lenggries | III |
 | Lichtenfels, Stadt | I |
 | Lindau (Bodensee), Stadt | V |
 | Lindenberg i. Allgäu, Stadt | III |
 | Lohr am Main, Stadt | II |
-| Mainburg, Stadt | II |
+| Mainburg, Stadt | III |
 | Maisach | VI |
 | Manching, Markt | V |
-| Markt Indersdorf, Markt | V |
+| Markt Indersdorf, Markt | VI |
 | Markt Schwaben, Markt | VII |
-| Marktheidenfeld, Stadt | I |
-| Marktoberdorf, Stadt | II |
+| Marktheidenfeld, Stadt | II |
+| Marktoberdorf, Stadt | III |
 | Marktredwitz, Stadt | I |
 | Maxhütte-Haidhof, Stadt | II |
-| Meitingen, Markt | II |
+| Meitingen, Markt | III |
 | Memmingen, Stadt | III |
 | Mering, Markt | IV |
-| Miesbach, Stadt | V |
-| Mindelheim, Stadt | II |
+| Miesbach, Stadt | IV |
+| Mindelheim, Stadt | III |
 | Mömbris, Markt | I |
-| Moosburg an der Isar, Stadt | V |
-| Mühldorf am Inn, Stadt | II |
+| Moosburg an der Isar, Stadt | VI |
+| Mühldorf am Inn, Stadt | III |
 | Münchberg, Stadt | I |
-| München, Landeshauptstadt | VII |
-| Murnau am Staffelsee, Markt | V |
+| München | VII |
+| Murnau am Staffelsee, Markt | VI |
 | Neubiberg | VII |
-| Neuburg an der Donau, Stadt | III |
+| Neuburg an der Donau, Stadt | IV |
 | Neufahrn bei Freising | VII |
-| Neumarkt i. d. OPf., Stadt | III |
+| Neumarkt i. d. Oberpfalz, Stadt | III |
 | Neusäß, Stadt | IV |
-| Neustadt an der Aisch, Stadt | I |
+| Neustadt an der Aisch, Stadt | II |
 | Neustadt an der Donau, Stadt | II |
 | Neustadt bei Coburg, Stadt | I |
 | Neutraubling, Stadt | IV |
-| Neu-Ulm, Stadt | IV |
+| Neu-Ulm, Stadt | V |
 | Nördlingen, Stadt | II |
 | Nürnberg, Stadt | V |
-| Oberasbach, Stadt | III |
+| Oberasbach, Stadt | IV |
 | Oberhaching | VII |
 | Oberschleißheim | VII |
 | Ochsenfurt, Stadt | II |
-| Olching, Stadt | VI |
+| Olching | VII |
 | Osterhofen, Stadt | I |
 | Ottobrunn | VII |
 | Passau, Stadt | III |
-| Pegnitz, Stadt | I |
+| Pegnitz, Stadt | II |
 | Peißenberg, Markt | IV |
-| Peiting, Markt | II |
+| Peiting, Markt | III |
 | Penzberg, Stadt | IV |
 | Pfaffenhofen a. d. Ilm, Stadt | IV |
-| Pfarrkirchen, Stadt | I |
+| Pfarrkirchen, Stadt | II |
 | Planegg | VII |
 | Plattling, Stadt | II |
 | Pocking, Stadt | I |
-| Poing | VII |
+| Poing | VI |
 | Prien am Chiemsee, Markt | IV |
-| Puchheim, Stadt | VII |
-| Raubling | IV |
+| Puchheim | VII |
+| Raubling | III |
 | Regen, Stadt | I |
 | Regensburg, Stadt | V |
 | Regenstauf, Markt | II |
-| Rödental, Stadt | I |
 | Roding, Stadt | I |
-| Rosenheim, Stadt | V |
-| Roth, Stadt | II |
+| Rödental, Stadt | I |
 | Röthenbach a. d. Pegnitz, Stadt | III |
+| Rosenheim | V |
+| Roßtal, Markt | II |
+| Roth, Stadt | II |
 | Rothenburg ob der Tauber, Stadt | I |
-| Schongau, Stadt | IV |
+| Schongau, Stadt | III |
 | Schrobenhausen, Stadt | II |
 | Schwabach, Stadt | III |
 | Schwabmünchen, Stadt | III |
-| Schwandorf, Stadt | I |
+| Schwandorf, Stadt | II |
 | Schweinfurt, Stadt | II |
 | Selb, Stadt | I |
 | Senden, Stadt | IV |
+| Simbach a. Inn, Stadt | I |
 | Sonthofen, Stadt | III |
-| Stadtbergen, Stadt | III |
+| Stadtbergen, Markt | IV |
 | Starnberg, Stadt | VII |
 | Stein, Stadt | IV |
-| Stephanskirchen | V |
+| Stephanskirchen | IV |
 | Straubing, Stadt | II |
 | Sulzbach-Rosenberg, Stadt | I |
-| Taufkirchen | III |
-| Taufkirchen (Vils) | III |
-| Traunreut, Stadt | II |
+| Taufkirchen | II |
+| Taufkirchen (Vils) | V |
+| Traunreut, Stadt | III |
 | Traunstein, Stadt | III |
 | Treuchtlingen, Stadt | I |
 | Trostberg, Stadt | II |
 | Unterföhring | VII |
 | Unterhaching | VII |
-| Unterschleißheim, Stadt | VII |
+| Unterschleißheim | VII |
 | Vaterstetten | VII |
 | Vilsbiburg, Stadt | II |
 | Vilshofen a. d. Donau, Stadt | I |
-| Vöhringen, Stadt | III |
+| Vöhringen, Stadt | IV |
 | Waldkirchen, Stadt | I |
 | Waldkraiburg, Stadt | II |
 | Wasserburg am Inn, Stadt | IV |
 | Weiden i. d. Oberpfalz, Stadt | I |
-| Weilheim i. OB, Stadt | IV |
+| Weilheim i. OB, Stadt | V |
 | Weißenburg i. Bayern, Stadt | I |
-| Weißenhorn, Stadt | II |
+| Weißenhorn, Stadt | III |
 | Wendelstein, Markt | IV |
 | Werneck, Markt | I |
 | Wolfratshausen, Stadt | VI |
-| Wolnzach, Markt | II |
+| Wolnzach, Markt | III |
 | Würzburg, Stadt | IV |
-| Zirndorf, Stadt | II |
+| Zirndorf, Stadt | III |
 | Kreis | Mietenstufe |
-| Aichach-Friedberg | II |
+| Aichach-Friedberg | III |
 | Altötting | I |
 | Amberg-Sulzbach | I |
 | Ansbach | I |
@@ -549,16 +540,16 @@ Land:Bayern
 | Dingolfing-Landau | I |
 | Donau-Ries | I |
 | Ebersberg | VI |
-| Eichstätt | I |
+| Eichstätt | III |
 | Erding | IV |
 | Erlangen-Höchstadt | III |
 | Forchheim | I |
 | Freising | IV |
 | Freyung-Grafenau | I |
+| Fürth | II |
 | Fürstenfeldbruck | VI |
-| Fürth | III |
 | Garmisch-Partenkirchen | IV |
-| Günzburg | II |
+| Günzburg | I |
 | Haßberge | I |
 | Hof | I |
 | Kelheim | I |
@@ -566,7 +557,7 @@ Land:Bayern
 | Kronach | I |
 | Kulmbach | I |
 | Landsberg a. Lech | III |
-| Landshut | I |
+| Landshut | II |
 | Lichtenfels | I |
 | Lindau (Bodensee) | II |
 | Main-Spessart | I |
@@ -574,11 +565,11 @@ Land:Bayern
 | Miltenberg | I |
 | Mühldorf a. Inn | I |
 | München | VII |
-| Neuburg-Schrobenhausen | I |
+| Neuburg-Schrobenhausen | II |
 | Neumarkt i. d. Oberpfalz | I |
-| Neustadt a. d. Waldnaab | I |
 | Neustadt/Aisch-Bad Windsheim | I |
-| Neu-Ulm | II |
+| Neustadt a. d. Waldnaab | I |
+| Neu-Ulm | III |
 | Nürnberger Land | II |
 | Oberallgäu | II |
 | Ostallgäu | I |
@@ -587,76 +578,78 @@ Land:Bayern
 | Regen | I |
 | Regensburg | II |
 | Rhön-Grabfeld | I |
-| Rosenheim | III |
-| Roth | I |
+| Rosenheim | IV |
+| Roth | II |
 | Rottal-Inn | I |
 | Schwandorf | I |
 | Schweinfurt | I |
-| Starnberg | VI |
+| Starnberg | V |
 | Straubing-Bogen | I |
 | Tirschenreuth | I |
 | Traunstein | II |
 | Unterallgäu | I |
 | Weilheim-Schongau | III |
 | Weißenburg-Gunzenhausen | I |
-| Wunsiedel im Fichtelgebirge | I |
 | Würzburg | II |
-Land: Berlin
+| Wunsiedel im Fichtelgebirge | I |
+Land:Berlin
 | Gemeinde | Mietenstufe |
 | Berlin, Stadt | IV |
-Land: Brandenburg
+Land:Brandenburg
 | Gemeinde | Mietenstufe |
-| Ahrensfelde | III |
+| Ahrensfelde-Blumberg | II |
 | Angermünde, Stadt | II |
-| Bad Belzig, Stadt | II |
 | Bad Freienwalde (Oder), Stadt | I |
-| Beelitz, Stadt | III |
+| Beelitz, Stadt | II |
+| Bad Belzig | II |
 | Bernau bei Berlin, Stadt | III |
 | Blankenfelde-Mahlow | IV |
 | Brandenburg a. d. Havel, Stadt | II |
-| Brieselang | V |
+| Brieselang | IV |
 | Cottbus, Stadt | II |
+| Dallgow-Döberitz | V |
 | Eberswalde, Stadt | III |
-| Eisenhüttenstadt, Stadt | III |
-| Erkner, Stadt | III |
+| Eisenhüttenstadt, Stadt | II |
+| Erkner, Stadt | IV |
 | Falkensee, Stadt | IV |
 | Finsterwalde, Stadt | II |
 | Forst (Lausitz), Stadt | I |
 | Frankfurt (Oder), Stadt | II |
 | Fredersdorf-Vogelsdorf | IV |
 | Fürstenwalde/Spree, Stadt | II |
-| Glienicke/Nordbahn | V |
-| Guben, Stadt | II |
+| Glienicke/Nordbahn | VI |
+| Guben, Stadt | I |
 | Hennigsdorf, Stadt | III |
-| Hohen Neuendorf, Stadt | IV |
+| Hohen Neuendorf | IV |
 | Hoppegarten | V |
 | Jüterbog, Stadt | I |
-| Kleinmachnow | IV |
-| Kloster Lehnin | II |
+| Kleinmachnow | V |
+| Kloster Lehnin | III |
 | Königs Wusterhausen, Stadt | III |
-| Lauchhammer, Stadt | II |
+| Lauchhammer, Stadt | I |
 | Lübben/Spreewald, Stadt | II |
 | Lübbenau/Spreewald, Stadt | I |
 | Luckenwalde, Stadt | II |
 | Ludwigsfelde, Stadt | III |
 | Michendorf | V |
-| Mühlenbecker Land | IV |
+| Mühlenbecker Land | III |
 | Nauen, Stadt | III |
-| Neuenhagen bei Berlin | IV |
+| Neuenhagen bei Berlin | III |
 | Neuruppin, Stadt | II |
 | Oberkrämer | III |
 | Oranienburg, Stadt | III |
 | Panketal | IV |
 | Perleberg, Stadt | I |
 | Petershagen/Eggersdorf | III |
-| Potsdam, Landeshauptstadt | IV |
+| Potsdam, Stadt | IV |
 | Prenzlau, Stadt | II |
 | Pritzwalk, Stadt | I |
 | Rangsdorf | III |
-| Rathenow, Stadt | II |
+| Rathenow, Stadt | I |
 | Rüdersdorf bei Berlin | II |
-| Schönefeld | III |
-| Schöneiche bei Berlin | III |
+| Schöneiche bei Berlin | IV |
+| Schönefeld | IV |
+| Schorfheide | II |
 | Schwedt/Oder, Stadt | II |
 | Schwielowsee | IV |
 | Senftenberg, Stadt | II |
@@ -665,262 +658,262 @@ Land: Brandenburg
 | Strausberg, Stadt | II |
 | Teltow, Stadt | IV |
 | Templin, Stadt | II |
-| Velten, Stadt | II |
-| Wandlitz | III |
-| Werder (Havel), Stadt | III |
-| Wildau, Stadt | IV |
-| Wittenberge, Stadt | I |
+| Velten, Stadt | III |
+| Wandlitz | IV |
 | Wittstock/Dosse, Stadt | I |
+| Werder (Havel), Stadt | IV |
+| Wildau | IV |
+| Wittenberge, Stadt | I |
 | Zehdenick, Stadt | I |
 | Zeuthen | III |
-| Zossen, Stadt | II |
+| Zossen | II |
 | Kreis | Mietenstufe |
 | Barnim | II |
 | Dahme-Spreewald | II |
 | Elbe-Elster | I |
 | Havelland | II |
 | Märkisch-Oderland | I |
-| Oberhavel | II |
+| Oberhavel | I |
 | Oberspreewald-Lausitz | I |
-| Oder-Spree | II |
+| Oder-Spree | III |
 | Ostprignitz-Ruppin | I |
 | Potsdam-Mittelmark | II |
 | Prignitz | I |
 | Spree-Neiße | I |
-| Teltow-Fläming | II |
+| Teltow-Fläming | I |
 | Uckermark | I |
-Land: Bremen
+Land:Bremen
 | Gemeinde | Mietenstufe |
 | Bremen, Stadt | IV |
 | Bremerhaven | II |
-Land: Hamburg
+Land:Hamburg
 | Gemeinde | Mietenstufe |
-| Hamburg, Stadt | VI |
-Land: Hessen
+| Hamburg, Freie und Hansestadt | VI |
+Land:Hessen
 | Gemeinde | Mietenstufe |
 | Alsfeld, Stadt | I |
-| Altenstadt | III |
-| Bad Arolsen, Stadt | I |
-| Aßlar, Stadt | II |
+| Altenstadt | II |
+| Arolsen, Stadt | I |
+| Asslar, Stadt | III |
 | Babenhausen, Stadt | III |
 | Bad Camberg, Stadt | II |
-| Bad Hersfeld, Stadt | I |
-| Bad Homburg v.d. Höhe, Stadt | VI |
-| Bad Nauheim, Stadt | IV |
-| Bad Schwalbach, Stadt | III |
-| Bad Soden am Taunus, Stadt | VII |
-| Bad Soden-Salmünster, Stadt | I |
-| Bad Vilbel, Stadt | V |
+| Bad Hersfeld, Kreisstadt | I |
+| Bad Homburg v.d. Höhe, Stadt | VII |
+| Bad Nauheim, Stadt | V |
+| Bad Orb, Stadt | III |
+| Bad Schwalbach, Kreisstadt | IV |
+| Bad Soden am Taunus, Stadt | VI |
+| Bad Soden-Salmünster, Stadt | II |
+| Bad Vilbel, Stadt | VI |
 | Bad Wildungen, Stadt | I |
-| Baunatal, Stadt | II |
+| Baunatal, Stadt | III |
 | Bebra, Stadt | I |
-| Bensheim, Stadt | III |
-| Biebertal | II |
+| Bensheim, Stadt | IV |
 | Biedenkopf, Stadt | I |
+| Biebertal | III |
 | Bischofsheim | IV |
 | Borken (Hessen), Stadt | I |
-| Braunfels, Stadt | II |
+| Braunfels, Stadt | III |
 | Bruchköbel, Stadt | III |
-| Büdingen, Stadt | I |
+| Büdingen, Stadt | II |
 | Bürstadt, Stadt | II |
-| Buseck | II |
 | Büttelborn | IV |
-| Butzbach, Stadt | II |
+| Buseck | II |
+| Butzbach, Stadt | III |
 | Darmstadt, Stadt | VI |
 | Dautphetal | I |
-| Dieburg, Stadt | IV |
+| Dieburg, Stadt | V |
 | Dietzenbach, Stadt | VI |
 | Dillenburg, Stadt | II |
-| Dreieich, Stadt | V |
-| Egelsbach | VI |
+| Dreieich, Stadt | VI |
+| Egelsbach | IV |
 | Eichenzell | I |
 | Eltville am Rhein, Stadt | V |
 | Eppstein, Stadt | V |
-| Erbach, Stadt | III |
-| Erlensee, Stadt | IV |
+| Erbach, Kreisstadt | III |
+| Erlensee | IV |
 | Eschborn, Stadt | VI |
-| Eschenburg | I |
-| Eschwege, Stadt | I |
+| Eschwege, Kreisstadt | I |
 | Felsberg, Stadt | I |
-| Flörsheim am Main, Stadt | V |
+| Flörsheim am Main, Stadt | VI |
 | Frankenberg (Eder), Stadt | I |
 | Frankfurt am Main, Stadt | VI |
-| Freigericht | II |
+| Freigericht | III |
 | Friedberg (Hessen), Stadt | IV |
-| Friedrichsdorf, Stadt | V |
+| Friedrichsdorf, Stadt | VI |
 | Fritzlar, Stadt | I |
+| Fürth | II |
 | Fulda, Stadt | II |
-| Fuldatal | II |
-| Fürth | I |
+| Fuldatal | I |
 | Geisenheim, Stadt | IV |
-| Gelnhausen, Stadt | III |
-| Gernsheim, Stadt | III |
-| Gießen, Stadt | IV |
-| Ginsheim-Gustavsburg, Stadt | IV |
+| Gelnhausen, Stadt | IV |
+| Gernsheim | III |
+| Giessen, Universitätsstadt | V |
+| Ginsheim-Gustavsburg | IV |
 | Gladenbach, Stadt | II |
 | Griesheim, Stadt | V |
 | Groß-Gerau, Stadt | V |
-| Groß-Umstadt, Stadt | IV |
+| Groß-Umstadt, Stadt | III |
 | Groß-Zimmern | IV |
 | Grünberg, Stadt | I |
 | Gründau | II |
-| Hadamar, Stadt | II |
+| Hadamar, Stadt | I |
 | Haiger, Stadt | I |
 | Hainburg | III |
-| Hanau, Stadt | IV |
+| Hanau, Stadt | V |
 | Hattersheim am Main, Stadt | VI |
-| Heppenheim (Bergstraße), Stadt | III |
+| Heppenheim (Bergstr.), Stadt | III |
 | Herborn, Stadt | II |
 | Hessisch Lichtenau, Stadt | I |
-| Heusenstamm, Stadt | V |
+| Heusenstamm, Stadt | VI |
 | Hochheim am Main, Stadt | V |
-| Höchst i. Odw. | II |
+| Höchst i. Odenwald | III |
 | Hofgeismar, Stadt | I |
 | Hofheim am Taunus, Stadt | V |
 | Homberg (Efze), Stadt | I |
 | Hünfeld, Stadt | I |
-| Hungen, Stadt | I |
-| Hünstetten | I |
+| Hünstetten | II |
 | Hüttenberg | II |
+| Hungen, Stadt | II |
 | Idstein, Stadt | III |
 | Karben, Stadt | IV |
 | Kassel, Stadt | III |
 | Kaufungen | II |
 | Kelkheim (Taunus), Stadt | VI |
 | Kelsterbach, Stadt | IV |
-| Kirchhain, Stadt | II |
-| Königstein im Taunus, Stadt | V |
+| Kirchhain, Stadt | I |
+| Königstein im Taunus, Stadt | VII |
 | Korbach, Stadt | I |
-| Kriftel | VI |
-| Kronberg im Taunus, Stadt | V |
+| Kriftel | V |
+| Kronberg im Taunus, Stadt | VI |
 | Künzell | II |
-| Lampertheim, Stadt | II |
+| Lampertheim, Stadt | III |
 | Langen (Hessen), Stadt | VI |
 | Langenselbold, Stadt | III |
 | Langgöns | II |
 | Lauterbach (Hessen), Stadt | I |
 | Lich, Stadt | II |
-| Limburg a. d. Lahn, Stadt | II |
+| Limburg an der Lahn, Stadt | II |
 | Linden, Stadt | III |
 | Lohfelden | II |
-| Lollar, Stadt | II |
-| Lorsch, Stadt | IV |
+| Lollar | III |
+| Lorsch, Stadt | III |
 | Maintal, Stadt | V |
-| Marburg, Stadt | IV |
+| Marburg, Stadt | V |
 | Melsungen, Stadt | I |
-| Michelstadt, Stadt | II |
-| Mörlenbach | II |
+| Michelstadt, Stadt | III |
 | Mörfelden-Walldorf, Stadt | V |
+| Moerlenbach | II |
 | Mühlheim am Main, Stadt | V |
-| Mühltal | V |
-| Münster (Hessen) | IV |
-| Nauheim | III |
-| Neu-Anspach, Stadt | IV |
+| Mühltal | VI |
+| Münster | IV |
+| Nauheim | IV |
+| Neu-Anspach | IV |
 | Neuhof | I |
 | Neu-Isenburg, Stadt | VI |
-| Nidda, Stadt | I |
+| Neustadt | I |
+| Nidda, Stadt | II |
 | Nidderau, Stadt | III |
 | Niedernhausen | IV |
 | Niestetal | II |
-| Ober-Ramstadt, Stadt | IV |
-| Obertshausen, Stadt | IV |
+| Ober-Ramstadt, Stadt | V |
+| Obertshausen, Stadt | V |
 | Oberursel (Taunus), Stadt | VI |
-| Oberzent, Stadt | I |
+| Oberzent | I |
 | Oestrich-Winkel, Stadt | IV |
 | Offenbach am Main, Stadt | VI |
-| Petersberg | I |
+| Petersberg | II |
 | Pfungstadt, Stadt | IV |
 | Pohlheim, Stadt | II |
-| Raunheim, Stadt | VI |
-| Reinheim, Stadt | III |
+| Raunheim, Stadt | VII |
+| Reinheim, Stadt | IV |
 | Reiskirchen | II |
-| Riedstadt, Stadt | IV |
-| Rodenbach | IV |
-| Rödermark, Stadt | IV |
+| Riedstadt | IV |
+| Rodenbach | III |
 | Rodgau, Stadt | V |
-| Rosbach v. d. Höhe, Stadt | III |
-| Roßdorf | IV |
+| Rödermark, Stadt | V |
+| Rosbach v. d. Höhe, Stadt | IV |
+| Rossdorf | V |
 | Rotenburg a. d. Fulda, Stadt | I |
-| Rüsselsheim am Main, Stadt | V |
+| Rüsselsheim, Stadt | V |
 | Schauenburg | I |
 | Schlüchtern, Stadt | II |
 | Schöneck | IV |
 | Schotten, Stadt | I |
-| Schwalbach am Taunus, Stadt | V |
+| Schwalbach am Taunus, Stadt | VI |
 | Schwalmstadt, Stadt | I |
-| Seeheim-Jugenheim | V |
-| Seligenstadt, Stadt | IV |
-| Solms, Stadt | II |
+| Seeheim-Jugenheim | IV |
+| Seligenstadt, Stadt | III |
+| Solms, Stadt | I |
 | Stadtallendorf, Stadt | II |
-| Steinau an der Straße, Stadt | I |
-| Steinbach (Taunus), Stadt | V |
+| Steinau an der Straße, Stadt | II |
+| Steinbach (Taunus) | IV |
 | Taunusstein, Stadt | IV |
-| Trebur | IV |
+| Trebur | V |
 | Usingen, Stadt | IV |
 | Vellmar, Stadt | II |
 | Viernheim, Stadt | III |
 | Wächtersbach, Stadt | II |
-| Wald-Michelbach | II |
+| Wald-Michelbach | I |
 | Weilburg, Stadt | I |
 | Weiterstadt, Stadt | V |
 | Wettenberg | III |
 | Wetzlar, Stadt | III |
-| Wiesbaden, Landeshauptstadt | VI |
+| Wiesbaden, Landeshaupstadt | VI |
 | Witzenhausen, Stadt | I |
 | Wolfhagen, Stadt | I |
 | Kreis | Mietenstufe |
 | Bergstraße | II |
 | Darmstadt-Dieburg | IV |
 | Fulda | I |
-| Gießen | II |
-| Groß-Gerau | III |
+| Giessen | II |
+| Groß-Gerau | IV |
 | Hersfeld-Rotenburg | I |
 | Hochtaunuskreis | IV |
 | Kassel | I |
 | Lahn-Dill-Kreis | I |
 | Limburg-Weilburg | I |
 | Main-Kinzig-Kreis | II |
-| Main-Taunus-Kreis | VI |
+| Main-Taunus-Kreis | VII |
 | Marburg-Biedenkopf | I |
 | Odenwaldkreis | II |
-| Offenbach | IV |
-| Rheingau-Taunus-Kreis | II |
+| Offenbach | III |
+| Rheingau-Taunus-Kreis | III |
 | Schwalm-Eder-Kreis | I |
 | Vogelsbergkreis | I |
 | Waldeck-Frankenberg | I |
 | Werra-Meißner-Kreis | I |
-| Wetteraukreis | I |
-Land: Mecklenburg-Vorpommern
+| Wetteraukreis | II |
+Land:Mecklenburg-Vorpommern
 | Gemeinde | Mietenstufe |
 | Anklam, Stadt | II |
 | Bad Doberan, Stadt | III |
 | Bergen auf Rügen, Stadt | II |
 | Boizenburg/Elbe, Stadt | II |
-| Demmin, Stadt | II |
+| Demmin, Stadt | I |
 | Greifswald, Stadt | III |
 | Grevesmühlen, Stadt | II |
 | Güstrow, Stadt | II |
-| Hagenow, Stadt | II |
-| Ludwigslust, Stadt | II |
+| Hagenow, Stadt | I |
+| Ludwigslust, Stadt | I |
 | Neubrandenburg, Stadt | II |
 | Neustrelitz, Stadt | II |
 | Parchim, Stadt | II |
-| Pasewalk, Stadt | I |
 | Ribnitz-Damgarten, Stadt | II |
-| Rostock, Stadt | IV |
-| Schwerin, Landeshauptstadt | III |
-| Stralsund, Stadt | III |
-| Waren (Müritz), Stadt | III |
+| Rostock, Hansestadt | III |
+| Schwerin, Landeshauptstadt | II |
+| Stralsund, Stadt | II |
+| Waren (Müritz), Stadt | II |
 | Wismar, Stadt | III |
-| Wolgast, Stadt | III |
+| Wolgast, Stadt | II |
 | Kreis | Mietenstufe |
-| Landkreis Rostock | II |
-| Ludwigslust-Parchim | I |
 | Mecklenburgische Seenplatte | I |
-| Nordwestmecklenburg | II |
-| Vorpommern-Greifswald | II |
+| Landkreis Rostock | II |
 | Vorpommern-Rügen | II |
-Land: Niedersachsen
+| Nordwestmecklenburg | II |
+| Vorpommern-Greifswald | I |
+| Ludwigslust-Parchim | I |
+Land:Niedersachsen
 | Gemeinde | Mietenstufe |
 | Achim, Stadt | III |
 | Adendorf | IV |
@@ -935,37 +928,38 @@ Land: Niedersachsen
 | Bad Iburg, Stadt | II |
 | Bad Lauterberg im Harz, Stadt | I |
 | Bad Münder am Deister, Stadt | I |
-| Bad Nenndorf, Stadt | II |
+| Bad Nenndorf | II |
 | Bad Pyrmont, Stadt | I |
 | Bad Salzdetfurth, Stadt | II |
 | Bad Zwischenahn | II |
 | Barsinghausen, Stadt | II |
 | Barßel | I |
-| Bassum, Stadt | I |
-| Belm | I |
+| Bassum, Stadt | II |
+| Belm | II |
 | Bergen, Stadt | I |
 | Beverstedt | I |
 | Bissendorf | I |
 | Bohmte | I |
-| Bovenden, Flecken | II |
+| Bovenden, Flecken | III |
 | Brake (Unterweser), Stadt | II |
 | Bramsche, Stadt | I |
 | Braunschweig, Stadt | IV |
 | Bremervörde, Stadt | II |
 | Buchholz i. d. Nordheide, Stadt | VI |
-| Bückeburg, Stadt | II |
+| Bückeburg, Stadt | I |
 | Burgdorf, Stadt | III |
-| Burgwedel, Stadt | V |
+| Burgwedel | III |
 | Buxtehude, Stadt | V |
 | Celle, Stadt | III |
-| Clausthal-Zellerfeld, Stadt | I |
+| Clausthal-Zellerfeld | I |
 | Cloppenburg, Stadt | II |
-| Cremlingen | III |
+| Cremlingen | II |
 | Cuxhaven, Stadt | II |
 | Damme, Stadt | I |
 | Delmenhorst, Stadt | III |
 | Diepholz, Stadt | I |
 | Dinklage, Stadt | I |
+| Dissen am Teutoburger Wald | II |
 | Drochtersen | II |
 | Duderstadt, Stadt | I |
 | Edemissen | II |
@@ -975,7 +969,7 @@ Land: Niedersachsen
 | Emsbueren | I |
 | Emstek | I |
 | Friedeburg | I |
-| Friedland | I |
+| Friedland | II |
 | Friesoythe, Stadt | I |
 | Ganderkesee | II |
 | Garbsen, Stadt | IV |
@@ -985,17 +979,15 @@ Land: Niedersachsen
 | Gehrden, Stadt | III |
 | Georgsmarienhütte, Stadt | II |
 | Gifhorn, Stadt | III |
-| Goldenstedt | I |
 | Goslar, Stadt | II |
 | Göttingen, Stadt | IV |
 | Gronau (Leine), Stadt | I |
-| Großefehn | I |
-| Großenkneten | II |
-| Hagen am Teutoburger Wald | I |
+| Grossefehn | I |
+| Grossenkneten | II |
 | Hagen im Bremischen | I |
-| Hambühren | II |
+| Hagen am Teutoburger Wald | I |
+| Hambühren | I |
 | Hameln, Stadt | II |
-| Hann. Münden, Stadt | I |
 | Hannover, Landeshauptstadt | V |
 | Haren (Ems), Stadt | I |
 | Harsefeld, Flecken | III |
@@ -1003,8 +995,8 @@ Land: Niedersachsen
 | Hasbergen | II |
 | Haselünne, Stadt | I |
 | Hatten | II |
-| Helmstedt, Stadt | II |
-| Hemmingen, Stadt | IV |
+| Helmstedt, Stadt | I |
+| Hemmingen | IV |
 | Herzberg am Harz, Stadt | I |
 | Hessisch Oldendorf, Stadt | I |
 | Hildesheim, Stadt | III |
@@ -1012,71 +1004,72 @@ Land: Niedersachsen
 | Holzminden, Stadt | I |
 | Hude (Oldenburg) | I |
 | Ihlow | I |
-| Ilsede | I |
-| Isernhagen | IV |
-| Jever, Stadt | II |
+| Ilsede | II |
+| Isernhagen | III |
+| Jever, Stadt | I |
 | Jork | IV |
-| Kirchlinteln | I |
 | Königslutter am Elm, Stadt | II |
 | Krummhörn | I |
 | Laatzen, Stadt | IV |
 | Langelsheim, Stadt | I |
 | Langenhagen, Stadt | IV |
-| Langwedel, Flecken | I |
+| Langwedel, Flecken | II |
 | Leer (Ostfriesland), Stadt | II |
-| Lehre | II |
+| Lehre | III |
 | Lehrte, Stadt | III |
 | Lengede | II |
 | Lilienthal | III |
 | Lingen (Ems), Stadt | I |
-| Lohne (Oldenburg), Stadt | I |
+| Lohne (Oldenburg), Stadt | II |
 | Löningen, Stadt | I |
 | Loxstedt | I |
-| Lüneburg, Stadt | V |
+| Lüneburg, Stadt | IV |
 | Melle, Stadt | I |
 | Meppen, Stadt | I |
 | Moormerland | I |
+| Hann. Münden, Stadt | I |
 | Munster, Stadt | II |
-| Neu Wulmstorf | V |
+| Neuenhaus, Stadt | I |
+| Neu Wulmstorf | VI |
 | Neustadt am Rübenberge, Stadt | II |
 | Nienburg (Weser), Stadt | II |
 | Norden, Stadt | II |
 | Nordenham, Stadt | II |
 | Nordhorn, Stadt | II |
-| Nordstemmen | I |
+| Nordstemmen | II |
 | Northeim, Stadt | II |
 | Oldenburg (Oldenburg), Stadt | IV |
-| Osnabrück, Stadt | III |
+| Osnabrück, Stadt | IV |
 | Osterholz-Scharmbeck, Stadt | II |
 | Osterode am Harz, Stadt | I |
 | Ostrhauderfehn | I |
 | Ottersberg, Flecken | II |
-| Oyten | II |
+| Oyten | III |
 | Papenburg, Stadt | I |
 | Pattensen, Stadt | III |
 | Peine, Stadt | III |
-| Quakenbrück, Stadt | I |
+| Quakenbrück, Stadt | II |
 | Rastede | II |
 | Rehburg-Loccum, Stadt | I |
 | Rhauderfehn | I |
 | Rinteln, Stadt | I |
-| Ritterhude | II |
+| Ritterhude | III |
 | Ronnenberg, Stadt | IV |
 | Rosdorf | III |
 | Rosengarten | IV |
-| Rotenburg (Wümme), Stadt | III |
+| Rotenburg (Wümme), Stadt | II |
 | Salzgitter, Stadt | II |
 | Sarstedt, Stadt | II |
-| Sassenburg | II |
+| Sassenburg | I |
 | Saterland | I |
-| Scheessel | I |
+| Scheeßel | I |
 | Schiffdorf | I |
 | Schneverdingen, Stadt | II |
 | Schöningen, Stadt | I |
-| Schortens, Stadt | I |
+| Schortens | I |
 | Schüttorf, Stadt | I |
 | Schwanewede | II |
-| Seelze, Stadt | IV |
+| Seelze, Stadt | III |
 | Seesen, Stadt | I |
 | Seevetal | V |
 | Sehnde, Stadt | III |
@@ -1085,8 +1078,8 @@ Land: Niedersachsen
 | Stade, Stadt | IV |
 | Stadthagen, Stadt | II |
 | Steinfeld (Oldenburg) | I |
-| Stelle | V |
-| Stuhr | III |
+| Stelle | IV |
+| Stuhr | II |
 | Südbrookmerland | I |
 | Südheide | I |
 | Sulingen, Stadt | II |
@@ -1098,7 +1091,7 @@ Land: Niedersachsen
 | Uplengen | I |
 | Uslar, Stadt | I |
 | Varel, Stadt | I |
-| Vechelde | III |
+| Vechelde | I |
 | Vechta, Stadt | II |
 | Verden (Aller), Stadt | II |
 | Wallenhorst | I |
@@ -1108,12 +1101,12 @@ Land: Niedersachsen
 | Weener, Stadt | I |
 | Wendeburg | I |
 | Wennigsen (Deister) | II |
-| Werlte, Stadt | I |
+| Werlte | I |
 | Westerstede, Stadt | I |
 | Westoverledingen | I |
 | Weyhe | III |
 | Wiefelstede | II |
-| Wiesmoor, Stadt | I |
+| Wiesmoor | I |
 | Wietmarschen | I |
 | Wildeshausen, Stadt | II |
 | Wilhelmshaven, Stadt | II |
@@ -1122,9 +1115,9 @@ Land: Niedersachsen
 | Wittingen, Stadt | I |
 | Wittmund, Stadt | I |
 | Wolfenbüttel, Stadt | III |
-| Wolfsburg, Stadt | IV |
-| Wunstorf, Stadt | II |
 | Wurster Nordseeküste | I |
+| Wolfsburg, Stadt | IV |
+| Wunstorf, Stadt | III |
 | Zetel | I |
 | Zeven, Stadt | II |
 | Kreis | Mietenstufe |
@@ -1136,12 +1129,11 @@ Land: Niedersachsen
 | Emsland | I |
 | Friesland | I |
 | Gifhorn | I |
-| Goslar | I |
 | Göttingen | I |
+| Goslar | I |
 | Grafschaft Bentheim | I |
 | Hameln-Pyrmont | I |
 | Harburg | III |
-| Heidekreis | I |
 | Helmstedt | I |
 | Hildesheim | I |
 | Holzminden | I |
@@ -1156,6 +1148,7 @@ Land: Niedersachsen
 | Peine | I |
 | Rotenburg (Wümme) | I |
 | Schaumburg | I |
+| Soltau-Fallingbostel (Heidekreis) | I |
 | Stade | II |
 | Uelzen | I |
 | Vechta | I |
@@ -1163,19 +1156,19 @@ Land: Niedersachsen
 | Wesermarsch | I |
 | Wittmund | I |
 | Wolfenbüttel | I |
-Land: Nordrhein-Westfalen
+Land:Nordrhein-Westfalen
 | Gemeinde | Mietenstufe |
 | Aachen, Stadt | IV |
 | Ahaus, Stadt | II |
 | Ahlen, Stadt | II |
 | Aldenhoven | III |
 | Alfter | IV |
-| Alpen | II |
+| Alpen | III |
 | Alsdorf, Stadt | II |
 | Altena, Stadt | I |
 | Altenberge | II |
 | Anröchte | I |
-| Arnsberg, Stadt | II |
+| Arnsberg, Stadt | I |
 | Ascheberg | II |
 | Attendorn, Stadt | II |
 | Bad Berleburg, Stadt | I |
@@ -1191,7 +1184,7 @@ Land: Nordrhein-Westfalen
 | Baesweiler, Stadt | II |
 | Balve, Stadt | I |
 | Beckum, Stadt | II |
-| Bedburg, Stadt | III |
+| Bedburg, Stadt | II |
 | Bedburg-Hau | II |
 | Bergheim, Stadt | III |
 | Bergisch-Gladbach, Stadt | V |
@@ -1200,7 +1193,7 @@ Land: Nordrhein-Westfalen
 | Bestwig | I |
 | Beverungen, Stadt | I |
 | Bielefeld, Stadt | III |
-| Billerbeck, Stadt | I |
+| Billerbeck, Stadt | II |
 | Blomberg, Stadt | I |
 | Bocholt, Stadt | III |
 | Bochum, Stadt | III |
@@ -1214,9 +1207,9 @@ Land: Nordrhein-Westfalen
 | Brilon, Stadt | I |
 | Brüggen | II |
 | Brühl, Stadt | V |
-| Bünde, Stadt | II |
-| Burbach | II |
+| Bünde, Stadt | I |
 | Büren, Stadt | I |
+| Burbach | II |
 | Burscheid, Stadt | IV |
 | Castrop-Rauxel, Stadt | III |
 | Coesfeld, Stadt | II |
@@ -1225,53 +1218,53 @@ Land: Nordrhein-Westfalen
 | Detmold, Stadt | II |
 | Dinslaken, Stadt | III |
 | Dormagen, Stadt | IV |
-| Dorsten, Stadt | III |
+| Dorsten, Stadt | II |
 | Dortmund, Stadt | III |
 | Drensteinfurt, Stadt | II |
 | Drolshagen, Stadt | II |
-| Duisburg, Stadt | III |
 | Dülmen, Stadt | II |
-| Düren, Stadt | III |
-| Düsseldorf, Landeshauptstadt | VI |
+| Düren, Stadt | II |
+| Düsseldorf, Stadt | VI |
+| Duisburg, Stadt | III |
 | Eitorf | II |
-| Elsdorf, Stadt | III |
+| Elsdorf | III |
 | Emmerich am Rhein, Stadt | II |
 | Emsdetten, Stadt | II |
 | Engelskirchen | III |
-| Enger, Stadt | II |
+| Enger, Widukindstadt | I |
 | Ennepetal, Stadt | III |
 | Ennigerloh, Stadt | I |
 | Ense | I |
-| Erftstadt, Stadt | IV |
+| Erftstadt, Stadt | III |
 | Erkelenz, Stadt | II |
 | Erkrath, Stadt | IV |
 | Erwitte, Stadt | I |
 | Eschweiler, Stadt | III |
 | Espelkamp, Stadt | II |
-| Essen, Stadt | IV |
+| Essen, Stadt | III |
 | Euskirchen, Stadt | III |
 | Extertal | I |
 | Finnentrop | I |
-| Frechen, Stadt | V |
+| Frechen, Stadt | IV |
 | Freudenberg, Stadt | II |
-| Fröndenberg, Stadt | II |
-| Gangelt | I |
+| Fröndenberg/Ruhr, Stadt | II |
+| Gangelt | II |
 | Geilenkirchen, Stadt | II |
-| Geldern, Stadt | III |
+| Geldern, Stadt | II |
 | Gelsenkirchen, Stadt | II |
 | Gescher, Stadt | II |
-| Geseke, Stadt | II |
-| Gevelsberg, Stadt | III |
+| Geseke, Stadt | I |
+| Gevelsberg, Stadt | II |
 | Gladbeck, Stadt | II |
 | Goch, Stadt | II |
-| Grefrath | III |
-| Greven, Stadt | III |
-| Grevenbroich, Stadt | IV |
+| Grefrath, Sport- und Freizeitgemeinde | II |
+| Greven, Stadt | II |
+| Grevenbroich, Stadt | III |
 | Gronau (Westfalen), Stadt | II |
-| Gummersbach, Stadt | II |
 | Gütersloh, Stadt | III |
+| Gummersbach, Stadt | II |
 | Haan, Stadt | IV |
-| Hagen, Stadt | III |
+| Hagen, Stadt | II |
 | Halle (Westfalen), Stadt | II |
 | Haltern am See, Stadt | III |
 | Halver, Stadt | III |
@@ -1287,29 +1280,29 @@ Land: Nordrhein-Westfalen
 | Herdecke, Stadt | III |
 | Herford, Stadt | II |
 | Herne, Stadt | II |
-| Herten, Stadt | III |
+| Herten, Stadt | II |
 | Herzebrock-Clarholz | II |
 | Herzogenrath, Stadt | III |
 | Hiddenhausen | II |
 | Hilchenbach, Stadt | II |
 | Hilden, Stadt | V |
 | Hille | I |
+| Hörstel, Stadt | I |
+| Hövelhof, Sennegemeinde | I |
+| Höxter, Stadt | I |
 | Holzwickede | III |
 | Horn-Bad Meinberg, Stadt | I |
-| Hörstel, Stadt | I |
-| Hövelhof | I |
-| Höxter, Stadt | I |
 | Hückelhoven, Stadt | II |
 | Hückeswagen, Stadt | III |
 | Hüllhorst | I |
-| Hünxe | III |
+| Hünxe | II |
 | Hürth, Stadt | V |
 | Ibbenbüren, Stadt | II |
-| Iserlohn, Stadt | III |
-| Isselburg, Stadt | II |
+| Iserlohn, Stadt | II |
+| Isselburg, Stadt | I |
 | Issum | II |
 | Jüchen | III |
-| Jülich, Stadt | III |
+| Jülich, Stadt | II |
 | Kaarst, Stadt | V |
 | Kalkar, Stadt | II |
 | Kall | II |
@@ -1318,7 +1311,7 @@ Land: Nordrhein-Westfalen
 | Kamp-Lintfort, Stadt | III |
 | Kempen, Stadt | III |
 | Kerken | II |
-| Kerpen, Stadt | IV |
+| Kerpen, Kolpingstadt | IV |
 | Kevelaer, Stadt | II |
 | Kierspe, Stadt | II |
 | Kirchhundem | I |
@@ -1332,24 +1325,24 @@ Land: Nordrhein-Westfalen
 | Kreuzau | II |
 | Kreuztal, Stadt | II |
 | Kürten | III |
-| Lage, Stadt | II |
+| Lage, Stadt | I |
 | Langenfeld (Rheinland), Stadt | IV |
-| Langerwehe | II |
+| Langerwehe | I |
 | Leichlingen (Rheinland), Stadt | IV |
 | Lemgo, Stadt | II |
-| Lengerich, Stadt | I |
+| Lengerich, Stadt | II |
 | Lennestadt, Stadt | II |
 | Leopoldshöhe | II |
 | Leverkusen, Stadt | IV |
 | Lichtenau, Stadt | I |
-| Lindlar | III |
+| Lindlar | II |
 | Linnich, Stadt | II |
 | Lippetal | I |
 | Lippstadt, Stadt | II |
-| Lohmar, Stadt | IV |
 | Löhne, Stadt | II |
+| Lohmar, Stadt | IV |
 | Lotte | II |
-| Lübbecke, Stadt | II |
+| Lübbecke, Stadt | I |
 | Lüdenscheid, Stadt | III |
 | Lüdinghausen, Stadt | II |
 | Lünen, Stadt | III |
@@ -1365,18 +1358,18 @@ Land: Nordrhein-Westfalen
 | Mettingen | I |
 | Mettmann, Stadt | IV |
 | Minden, Stadt | II |
-| Moers, Stadt | III |
 | Möhnesee | I |
 | Mönchengladbach, Stadt | III |
-| Monheim am Rhein, Stadt | V |
-| Monschau, Stadt | I |
+| Moers, Stadt | III |
+| Monheim am Rhein, Stadt | VI |
+| Monschau, Stadt | II |
 | Morsbach | I |
-| Much | II |
+| Much | III |
 | Mülheim an der Ruhr, Stadt | IV |
-| Münster, Stadt | V |
-| Netphen, Stadt | II |
+| Münster, Stadt | IV |
+| Netphen | II |
 | Nettetal, Stadt | II |
-| Neuenkirchen | II |
+| Neuenkirchen | I |
 | Neuenrade, Stadt | II |
 | Neukirchen-Vluyn, Stadt | III |
 | Neunkirchen | II |
@@ -1385,28 +1378,28 @@ Land: Nordrhein-Westfalen
 | Niederkassel, Stadt | IV |
 | Niederkrüchten | II |
 | Niederzier | II |
-| Nörvenich | III |
+| Nörvenich | II |
 | Nottuln | II |
 | Nümbrecht | II |
-| Oberhausen, Stadt | III |
+| Oberhausen, Stadt | II |
 | Ochtrup, Stadt | I |
-| Odenthal | IV |
+| Odenthal | III |
 | Oelde, Stadt | I |
-| Oer-Erkenschwick, Stadt | III |
+| Oer-Erkenschwick, Stadt | II |
 | Oerlinghausen, Stadt | II |
 | Olfen, Stadt | II |
-| Olpe, Stadt | III |
+| Olpe, Stadt | II |
 | Olsberg, Stadt | I |
 | Ostbevern | II |
 | Overath | IV |
 | Paderborn, Stadt | II |
 | Petershagen, Stadt | I |
-| Plettenberg, Stadt | II |
+| Plettenberg, Stadt | I |
 | Porta Westfalica, Stadt | I |
-| Preussisch Oldendorf, Stadt | I |
+| Preußisch Oldendorf, Stadt | I |
 | Pulheim, Stadt | V |
-| Radevormwald, Stadt | III |
-| Raesfeld | II |
+| Radevormwald, Stadt auf der Höhe | III |
+| Raesfeld | I |
 | Rahden, Stadt | I |
 | Ratingen, Stadt | V |
 | Recke | I |
@@ -1417,35 +1410,35 @@ Land: Nordrhein-Westfalen
 | Remscheid, Stadt | III |
 | Rheda-Wiedenbrück, Stadt | III |
 | Rhede, Stadt | II |
-| Rheinbach, Stadt | IV |
+| Rheinbach, Stadt | III |
 | Rheinberg, Stadt | III |
 | Rheine, Stadt | II |
-| Rietberg, Stadt | II |
-| Rommerskirchen | III |
+| Rietberg, Stadt | I |
+| Rösrath | V |
+| Rommerskirchen | IV |
 | Rosendahl | I |
-| Rösrath, Stadt | V |
 | Ruppichteroth | II |
 | Rüthen, Stadt | I |
 | Salzkotten, Stadt | I |
 | Sankt Augustin, Stadt | IV |
 | Sassenberg, Stadt | II |
 | Schalksmühle | II |
-| Schermbeck | III |
+| Schermbeck | II |
 | Schleiden, Stadt | I |
 | Schloß Holte-Stukenbrock | II |
 | Schmallenberg, Stadt | I |
 | Schwalmtal | II |
 | Schwelm, Stadt | III |
-| Schwerte, Stadt | III |
+| Schwerte, Hansestadt a. d. Ruhr | III |
 | Selfkant | II |
-| Selm, Stadt | III |
+| Selm, Stadt | II |
 | Senden | II |
 | Sendenhorst, Stadt | II |
-| Siegburg, Stadt | V |
-| Siegen, Stadt | III |
+| Siegburg, Stadt | IV |
+| Siegen, Universitätsstadt | III |
 | Simmerath | II |
 | Soest, Stadt | II |
-| Solingen, Stadt | IV |
+| Solingen, Klingenstadt | III |
 | Spenge, Stadt | I |
 | Sprockhövel, Stadt | III |
 | Stadtlohn, Stadt | II |
@@ -1453,7 +1446,7 @@ Land: Nordrhein-Westfalen
 | Steinhagen | II |
 | Steinheim, Stadt | I |
 | Stemwede | I |
-| Stolberg (Rheinland), Stadt | III |
+| Stolberg (Rheinland), Kupferstadt | III |
 | Straelen, Stadt | II |
 | Sundern (Sauerland), Stadt | I |
 | Swisttal | III |
@@ -1463,8 +1456,8 @@ Land: Nordrhein-Westfalen
 | Übach-Palenberg, Stadt | II |
 | Unna, Stadt | III |
 | Velbert, Stadt | III |
-| Velen, Stadt | I |
-| Verl, Stadt | II |
+| Velen | I |
+| Verl | II |
 | Versmold, Stadt | I |
 | Viersen, Stadt | III |
 | Vlotho, Stadt | I |
@@ -1473,21 +1466,21 @@ Land: Nordrhein-Westfalen
 | Wachtberg | IV |
 | Wadersloh | I |
 | Waldbröl, Stadt | II |
-| Waltrop, Stadt | III |
-| Warburg, Stadt | I |
+| Waltrop, Stadt | II |
+| Warburg, Hansestadt | I |
 | Warendorf, Stadt | II |
 | Warstein, Stadt | I |
 | Wassenberg, Stadt | II |
 | Weeze | II |
-| Wegberg, Stadt | III |
+| Wegberg, Stadt | II |
 | Weilerswist | III |
-| Welver | II |
+| Welver | I |
 | Wenden | I |
-| Werdohl, Stadt | II |
+| Werdohl, Stadt | I |
 | Werl, Stadt | II |
 | Wermelskirchen, Stadt | III |
 | Werne, Stadt | II |
-| Werther (Westf.), Stadt | II |
+| Werther (Westf.), Stadt | I |
 | Wesel, Stadt | III |
 | Wesseling, Stadt | IV |
 | Westerkappeln | I |
@@ -1496,20 +1489,21 @@ Land: Nordrhein-Westfalen
 | Wiehl, Stadt | II |
 | Willich, Stadt | IV |
 | Wilnsdorf | I |
-| Windeck | II |
+| Windeck | I |
 | Winterberg, Stadt | I |
 | Wipperfürth, Stadt | II |
 | Witten, Stadt | III |
 | Wülfrath, Stadt | III |
-| Wuppertal, Stadt | III |
 | Würselen, Stadt | III |
+| Wuppertal, Stadt | III |
 | Xanten, Stadt | III |
 | Zülpich, Stadt | II |
 | Kreis | Mietenstufe |
+| Städteregion Aachen | II |
 | Borken | I |
-| Coesfeld | II |
+| Coesfeld | I |
 | Düren | II |
-| Ennepe-Ruhr-Kreis | III |
+| Ennepe-Ruhr-Kreis | II |
 | Euskirchen | I |
 | Gütersloh | II |
 | Heinsberg | I |
@@ -1521,11 +1515,10 @@ Land: Nordrhein-Westfalen
 | Märkischer Kreis | II |
 | Paderborn | I |
 | Siegen-Wittgenstein | I |
-| Städteregion Aachen | II |
 | Steinfurt | I |
 | Warendorf | I |
 | Wesel | II |
-Land: Rheinland-Pfalz
+Land:Rheinland-Pfalz
 | Gemeinde | Mietenstufe |
 | Alzey, Stadt | III |
 | Andernach, Stadt | II |
@@ -1536,33 +1529,34 @@ Land: Rheinland-Pfalz
 | Betzdorf, Stadt | I |
 | Bingen am Rhein, Stadt | III |
 | Bitburg, Stadt | II |
-| Bobenheim-Roxheim | III |
-| Böhl-Iggelheim | II |
+| Bobenheim-Roxheim | II |
+| Böhl-Iggelheim | III |
 | Boppard, Stadt | I |
 | Diez, Stadt | II |
 | Frankenthal (Pfalz), Stadt | III |
 | Germersheim, Stadt | III |
 | Grafschaft | II |
-| Grünstadt, Stadt | III |
-| Haßloch | III |
-| Herxheim bei Landau/Pfalz | III |
+| Grünstadt, Stadt | II |
+| Hassloch | II |
+| Herxheim b. Landau/Pfalz | II |
 | Idar-Oberstein, Stadt | I |
 | Ingelheim am Rhein, Stadt | IV |
 | Kaiserslautern, Stadt | II |
 | Koblenz, Stadt | III |
 | Konz, Stadt | II |
 | Lahnstein, Stadt | II |
-| Landau in der Pfalz, Stadt | III |
+| Landau i. d. Pfalz, Stadt | III |
 | Limburgerhof | III |
 | Ludwigshafen am Rhein, Stadt | IV |
-| Mainz, Landeshauptstadt | VI |
+| Mainz, Stadt | VI |
 | Mayen, Stadt | II |
 | Montabaur, Stadt | II |
 | Morbach | I |
 | Mülheim-Kärlich, Stadt | I |
-| Mutterstadt | III |
-| Neustadt (a. d. Weinstr.), Stadt | II |
+| Mutterstadt | II |
+| Neustadt (a. d. Weinstr.), Stadt | III |
 | Neuwied, Stadt | II |
+| Nieder-Olm, Stadt | IV |
 | Pirmasens, Stadt | I |
 | Remagen, Stadt | III |
 | Schifferstadt, Stadt | III |
@@ -1570,8 +1564,8 @@ Land: Rheinland-Pfalz
 | Speyer, Stadt | III |
 | Trier, Stadt | III |
 | Wittlich, Stadt | II |
-| Worms, Stadt | III |
 | Wörth am Rhein, Stadt | III |
+| Worms, Stadt | III |
 | Zweibrücken, Stadt | I |
 | Kreis | Mietenstufe |
 | Ahrweiler | I |
@@ -1580,54 +1574,52 @@ Land: Rheinland-Pfalz
 | Bad Dürkheim | II |
 | Bad Kreuznach | I |
 | Bernkastel-Wittlich | I |
-| Birkenfeld, Nationalparklandkreis | I |
-| Eifelkreis Bitburg-Prüm | I |
+| Birkenfeld | I |
+| Bitburg-Prüm | I |
 | Cochem-Zell | I |
+| Vulkaneifel | I |
 | Donnersbergkreis | I |
 | Germersheim | II |
 | Kaiserslautern | I |
 | Kusel | I |
+| Rhein-Pfalz-Kreis | III |
 | Mainz-Bingen | III |
 | Mayen-Koblenz | I |
 | Neuwied | I |
+| Südwestpfalz | I |
 | Rhein-Hunsrück-Kreis | I |
 | Rhein-Lahn-Kreis | I |
-| Rhein-Pfalz-Kreis | III |
 | Südliche Weinstraße | II |
-| Südwestpfalz | I |
 | Trier-Saarburg | I |
-| Vulkaneifel | I |
 | Westerwaldkreis | I |
-Land: Saarland
+Land:Saarland
 | Gemeinde | Mietenstufe |
 | Beckingen | I |
 | Bexbach, Stadt | I |
-| Blieskastel, Stadt | II |
+| Blieskastel, Stadt | I |
 | Dillingen/Saar, Stadt | II |
 | Eppelborn | I |
-| Friedrichsthal, Stadt | I |
 | Heusweiler | II |
-| Homburg, Stadt | III |
+| Homburg, Stadt | II |
 | Illingen | I |
-| Kirkel | IV |
+| Kirkel | II |
 | Kleinblittersdorf | II |
 | Lebach, Stadt | I |
 | Losheim am See | I |
 | Mandelbachtal | I |
-| Marpingen | I |
-| Merzig, Stadt | II |
+| Merzig, Kreisstadt | II |
 | Mettlach | I |
-| Neunkirchen, Stadt | II |
+| Neunkirchen, Stadt | I |
 | Ottweiler, Stadt | I |
-| Püttlingen, Stadt | III |
+| Püttlingen, Stadt | I |
 | Quierschied | I |
-| Rehlingen-Siersburg | I |
+| Rehlingen-Siersburg | II |
 | Riegelsberg | II |
 | Saarbrücken, Landeshauptstadt | III |
 | Saarlouis, Stadt | II |
 | Saarwellingen | I |
 | Sankt Ingbert, Stadt | II |
-| Sankt Wendel, Stadt | II |
+| Sankt Wendel, Stadt | I |
 | Schiffweiler | I |
 | Schmelz | I |
 | Schwalbach | II |
@@ -1637,70 +1629,70 @@ Land: Saarland
 | Überherrn | II |
 | Völklingen, Stadt | II |
 | Wadern, Stadt | I |
-| Wadgassen | I |
+| Wadgassen | II |
 | Kreis | Mietenstufe |
-| Neunkirchen | II |
-| Merzig-Wadern | II |
-| Regionalverband Saarbrücken | I |
+| Merzig-Wadern | I |
+| Neunkirchen | I |
 | Saarlouis | I |
-| Saarpfalz-Kreis | I |
+| Saar-Pfalz-Kreis | I |
 | Sankt Wendel | I |
-Land: Sachsen
+| Regionalverband Saarbrücken | I |
+Land:Sachsen
 | Gemeinde | Mietenstufe |
 | Annaberg-Buchholz, Stadt | I |
-| Aue, Stadt | I |
+| Aue-Bad Schlema | I |
 | Auerbach/Vogtl., Stadt | I |
 | Bannewitz | III |
-| Bautzen, Stadt | II |
+| Bautzen, Stadt | I |
 | Bischofswerda, Stadt | II |
-| Borna, Stadt | II |
+| Borna, Stadt | I |
 | Burgstädt, Stadt | I |
-| Chemnitz, Stadt | II |
-| Coswig, Stadt | III |
+| Chemnitz, Stadt | I |
+| Coswig, Stadt | II |
 | Crimmitschau, Stadt | I |
 | Delitzsch, Stadt | II |
-| Dippoldiswalde, Stadt | II |
+| Dippoldiswalde, Stadt | I |
 | Döbeln, Stadt | I |
-| Dresden, Landeshauptstadt | III |
+| Dresden, Stadt | III |
 | Ebersbach-Neugersdorf, Stadt | I |
 | Eilenburg, Stadt | II |
-| Flöha, Stadt | II |
-| Frankenberg, Stadt | I |
+| Flöha, Stadt | I |
+| Frankenberg/Sachsen, Stadt | I |
 | Freiberg, Stadt | II |
 | Freital, Stadt | II |
-| Frohburg, Stadt | II |
+| Frohburg | I |
 | Glauchau, Stadt | II |
 | Görlitz, Stadt | I |
-| Grimma, Stadt | II |
+| Grimma, Stadt | I |
 | Großenhain, Stadt | I |
 | Heidenau, Stadt | II |
-| Hohenstein-Ernstthal, Stadt | II |
-| Hoyerswerda, Stadt | II |
-| Kamenz, Stadt | II |
-| Klipphausen | I |
+| Hohenstein-Ernstthal | I |
+| Hoyerswerda, Stadt | I |
+| Kamenz, Stadt | I |
+| Klipphausen | II |
 | Leipzig, Stadt | II |
 | Lichtenstein/Sa., Stadt | I |
-| Limbach-Oberfrohna, Stadt | II |
+| Limbach-Oberfrohna, Stadt | I |
 | Löbau, Stadt | I |
 | Marienberg, Stadt | I |
 | Markkleeberg, Stadt | III |
 | Markranstädt, Stadt | II |
 | Meerane, Stadt | I |
 | Meißen, Stadt | II |
-| Mittweida, Stadt | II |
+| Mittweida, Stadt | I |
 | Mülsen | I |
-| Neustadt in Sachsen, Stadt | II |
+| Neustadt i. Sa., Stadt | I |
 | Nossen, Stadt | I |
-| Oelsnitz/Erzgeb., Stadt | I |
 | Oelsnitz/Vogtland, Stadt | I |
+| Oelsnitz/Erzgeb., Stadt | I |
 | Olbernhau, Stadt | I |
 | Oschatz, Stadt | II |
 | Pirna, Stadt | II |
 | Plauen, Stadt | I |
 | Radeberg, Stadt | II |
-| Radebeul, Stadt | III |
+| Radebeul, Stadt | II |
 | Reichenbach/Vogtl., Stadt | I |
-| Riesa, Stadt | II |
+| Riesa, Stadt | I |
 | Schkeuditz, Stadt | II |
 | Schneeberg, Stadt | I |
 | Schwarzenberg/Erzgeb., Stadt | I |
@@ -1708,117 +1700,117 @@ Land: Sachsen
 | Taucha, Stadt | III |
 | Torgau, Stadt | I |
 | Weinböhla | II |
-| Weißwasser/O.L., Stadt | II |
+| Weißwasser/O.L., Stadt | I |
 | Werdau, Stadt | I |
 | Wilsdruff, Stadt | II |
 | Wurzen, Stadt | I |
 | Zittau, Stadt | I |
-| Zwickau, Stadt | II |
+| Zwickau, Stadt | I |
 | Zwönitz, Stadt | I |
 | Kreis | Mietenstufe |
-| Bautzen | I |
 | Erzgebirgskreis | I |
-| Görlitz | I |
-| Leipzig | II |
-| Meißen | I |
 | Mittelsachsen | I |
-| Nordsachsen | I |
-| Sächsische Schweiz-Osterzgebirge | I |
 | Vogtlandkreis | I |
 | Zwickau | I |
-Land: Sachsen-Anhalt
+| Bautzen | I |
+| Görlitz | I |
+| Meißen | I |
+| Sächsische Schweiz - Osterzgebirge | I |
+| Leipzig | I |
+| Nordsachsen | I |
+Land:Sachsen-Anhalt
 | Gemeinde | Mietenstufe |
 | Aschersleben, Stadt | II |
-| Bad Dürrenberg, Stadt | II |
-| Bernburg (Saale), Stadt | II |
+| Bad Dürrenberg, Stadt | III |
+| Bernburg (Saale), Stadt | III |
 | Bitterfeld-Wolfen, Stadt | III |
 | Blankenburg (Harz), Stadt | I |
 | Braunsbedra, Stadt | II |
 | Burg, Stadt | II |
 | Coswig (Anhalt), Stadt | I |
 | Dessau-Roßlau, Stadt | III |
-| Eisleben, Lutherstadt | II |
-| Gardelegen, Stadt | I |
+| Eisleben, Lutherstadt | III |
+| Gardelegen, Hansestadt | II |
 | Genthin, Stadt | II |
-| Gommern, Stadt | I |
+| Gommern, Stadt | II |
 | Gräfenhainichen, Stadt | II |
 | Halberstadt, Stadt | II |
-| Haldensleben, Stadt | II |
+| Haldensleben, Stadt | III |
 | Halle (Saale), Stadt | III |
-| Hettstedt, Stadt | II |
+| Hettstedt, Stadt | III |
 | Hohe Börde | II |
 | Jessen (Elster), Stadt | II |
-| Klötze, Stadt | I |
 | Köthen (Anhalt), Stadt | III |
-| Landsberg, Stadt | I |
-| Leuna, Stadt | II |
+| Landsberg, Stadt | II |
+| Leuna, Stadt | III |
 | Magdeburg, Landeshauptstadt | III |
 | Merseburg, Stadt | III |
 | Möckern, Stadt | I |
 | Muldestausee | II |
 | Naumburg (Saale), Stadt | III |
-| Oberharz am Brocken, Stadt | II |
-| Oebisfelde-Weferlingen, Stadt | II |
+| Oberharz am Brocken | II |
+| Oebisfelde-Weferlingen | III |
 | Oschersleben (Bode), Stadt | II |
 | Osterwieck, Stadt | I |
 | Quedlinburg, Stadt | II |
 | Querfurt, Stadt | II |
 | Salzatal | II |
-| Salzwedel, Stadt | II |
-| Sandersdorf-Brehna, Stadt | II |
-| Sangerhausen, Stadt | II |
+| Salzwedel, Hansestadt | II |
+| Sandersdorf-Brehna | III |
+| Sangerhausen, Stadt | III |
 | Schkopau | III |
-| Schönebeck (Elbe), Stadt | II |
+| Schönebeck (Elbe), Stadt | III |
 | Staßfurt, Stadt | II |
-| Stendal, Stadt | II |
-| Südliches Anhalt, Stadt | I |
-| Tangerhütte, Stadt | II |
+| Stendal, Hansestadt | II |
+| Südliches Anhalt, Stadt | II |
+| Tangerhütte, Stadt | III |
 | Tangermünde, Stadt | II |
 | Teutschenthal | II |
 | Thale, Stadt | II |
 | Wanzleben-Börde, Stadt | II |
-| Weißenfels, Stadt | II |
-| Wernigerode, Stadt | II |
-| Wittenberg, Lutherstadt | II |
+| Weißenfels, Stadt | III |
+| Wernigerode, Stadt | III |
+| Wittenberg, Lutherstadt | III |
 | Wolmirstedt, Stadt | II |
 | Zeitz, Stadt | II |
 | Zerbst/Anhalt, Stadt | II |
 | Kreis | Mietenstufe |
-| Altmarkkreis-Salzwedel | I |
 | Anhalt-Bitterfeld | II |
-| Börde | I |
-| Burgenlandkreis | I |
-| Harz | I |
-| Jerichower Land | II |
-| Mansfeld-Südharz | I |
-| Saalekreis | II |
 | Salzlandkreis | II |
-| Stendal | I |
-| Wittenberg | I |
-Land: Schleswig-Holstein
+| Wittenberg | II |
+| Burgenlandkreis | II |
+| Mansfeld-Südharz | II |
+| Saalekreis | II |
+| Börde | II |
+| Jerichower Land | II |
+| Stendal | II |
+| Harz | I |
+| Altmarkkreis-Salzwedel | I |
+Land:Schleswig-Holstein
 | Gemeinde | Mietenstufe |
-| Ahrensburg, Stadt | VII |
+| Ahrensburg, Stadt | VI |
+| Altenholz | IV |
 | Bad Bramstedt, Stadt | III |
 | Bad Oldesloe, Stadt | IV |
-| Bad Schwartau, Stadt | V |
+| Bad Schwartau, Stadt | IV |
 | Bad Segeberg, Stadt | IV |
-| Bargteheide, Stadt | V |
-| Barmstedt, Stadt | IV |
-| Barsbüttel | VII |
-| Brunsbüttel, Stadt | II |
-| Büdelsdorf, Stadt | II |
+| Bargteheide, Stadt | VI |
+| Barmstedt | IV |
+| Barsbüttel | VI |
+| Brunsbüttel, Stadt | I |
+| Büdelsdorf | III |
 | Eckernförde, Stadt | IV |
 | Elmshorn, Stadt | IV |
-| Eutin, Stadt | IV |
-| Fehmarn, Stadt | III |
+| Eutin, Stadt | III |
 | Flensburg, Stadt | III |
+| Fehmarn, Stadt | III |
 | Geesthacht, Stadt | V |
 | Glinde, Stadt | V |
-| Glückstadt, Stadt | III |
+| Glückstadt, Stadt | II |
 | Halstenbek | VI |
-| Handewitt | I |
+| Handewitt | II |
 | Harrislee | III |
-| Heide, Stadt | III |
+| Heide, Stadt | II |
 | Henstedt-Ulzburg | V |
 | Husum, Stadt | III |
 | Itzehoe, Stadt | III |
@@ -1831,65 +1823,66 @@ Land: Schleswig-Holstein
 | Mölln, Stadt | III |
 | Neumünster, Stadt | III |
 | Neustadt in Holstein, Stadt | III |
-| Niebüll, Stadt | II |
+| Niebüll | II |
 | Norderstedt, Stadt | VI |
 | Pinneberg, Stadt | V |
-| Preetz, Stadt | III |
+| Preetz, Stadt | IV |
 | Quickborn, Stadt | V |
 | Ratekau | IV |
 | Ratzeburg, Stadt | III |
-| Reinbek, Stadt | V |
-| Rellingen | V |
+| Reinbek, Stadt | VI |
+| Rellingen | VI |
 | Rendsburg, Stadt | III |
 | Scharbeutz | IV |
 | Schenefeld, Stadt | VII |
 | Schleswig, Stadt | III |
+| Schwentinental | V |
 | Schwarzenbek, Stadt | IV |
-| Schwentinental, Stadt | IV |
 | Stockelsdorf | IV |
-| Sylt | VI |
-| Tornesch, Stadt | V |
+| Sylt | V |
+| Tornesch | V |
 | Uetersen, Stadt | IV |
 | Wedel, Stadt | VI |
-| Wentorf bei Hamburg | V |
+| Wentorf bei Hamburg | VI |
 | Kreis | Mietenstufe |
 | Dithmarschen | I |
-| Herzogtum Lauenburg | III |
-| Nordfriesland | II |
+| Herzogtum Lauenburg | II |
+| Nordfriesland | I |
 | Ostholstein | III |
-| Pinneberg | III |
+| Pinneberg | IV |
 | Plön | III |
 | Rendsburg-Eckernförde | II |
 | Schleswig-Flensburg | I |
-| Segeberg | III |
+| Segeberg | II |
 | Steinburg | II |
 | Stormarn | IV |
-Land: Thüringen
 | Gemeinde | Mietenstufe |
-| Altenburg, Stadt | II |
-| Apolda, Stadt | II |
+| Altenburg, Stadt | I |
+| Apolda, Stadt | I |
 | Arnstadt, Stadt | II |
+| Bad Frankenhausen/Kyff | I |
+| Bad Salzungen, Stadt | I |
 | Bad Langensalza, Stadt | I |
-| Bad Salzungen, Stadt | II |
+| Bleicherode, Stadt | I |
 | Eisenach, Stadt | II |
 | Eisenberg, Stadt | I |
-| Erfurt, Landeshauptstadt | III |
+| Erfurt, Stadt | III |
 | Gera, Stadt | I |
 | Gotha, Stadt | II |
 | Greiz, Stadt | I |
 | Heilbad Heiligenstadt, Stadt | II |
 | Hildburghausen, Stadt | I |
 | Ilmenau, Stadt | II |
-| Jena, Stadt | IV |
-| Leinefelde-Worbis, Stadt | I |
+| Jena, Stadt | III |
+| Leinefelde-Worbis | I |
 | Meiningen, Stadt | II |
-| Meuselwitz, Stadt | II |
 | Mühlhausen/Thüringen, Stadt | I |
 | Nordhausen, Stadt | II |
 | Pößneck, Stadt | II |
 | Rudolstadt, Stadt | II |
 | Saalfeld/Saale, Stadt | II |
-| Schmalkalden, Stadt | II |
+| Schleusingen, Stadt | II |
+| Schmalkalden, Kurort, Stadt | I |
 | Schmölln, Stadt | I |
 | Sömmerda, Stadt | II |
 | Sondershausen, Stadt | II |
@@ -1898,26 +1891,25 @@ Land: Thüringen
 | Waltershausen, Stadt | I |
 | Weimar, Stadt | III |
 | Zella-Mehlis, Stadt | II |
-| Zeulenroda-Triebes, Stadt | I |
+| Zeulenroda Triebes, Stadt | I |
+Land:Thüringen
 | Kreis | Mietenstufe |
-| Altenburger Land | I |
 | Eichsfeld | I |
+| Nordhausen | I |
+| Wartburgkreis | I |
+| Unstrut-Hainich-Kreis | I |
+| Kyffhäuserkreis | I |
+| Schmalkalden-Meiningen | I |
 | Gotha | I |
-| Greiz | I |
+| Sömmerda | I |
 | Hildburghausen | I |
 | Ilm-Kreis | I |
-| Kyffhäuserkreis | I |
-| Nordhausen | I |
-| Saale-Holzland-Kreis | II |
-| Saale-Orla-Kreis | I |
-| Saalfeld-Rudolstadt | II |
-| Schmalkalden-Meiningen | I |
-| Sömmerda | I |
+| Weimarer Land | II |
 | Sonneberg | I |
-| Unstrut-Hainich-Kreis | I |
-| Wartburgkreis | I |
-| Weimarer Land | I |
-|  |  |
-| Gemeinsame Mietenstufe |  |
-|  | Mietenstufe |
-| Inseln ohne Festlandanschluss (§ 12 Absatz 4a Satz 1 und 2 des Wohngeldgesetzes) | V |
+| Saalfeld-Rudolstadt | I |
+| Saale-Holzland-Kreis | I |
+| Saale-Orla-Kreis | I |
+| Greiz | I |
+| Altenburger Land | I |
+| Gemeinsame Mietenstufe: | Mietenstufe |
+| Inseln ohne Festlandanschluss | V |

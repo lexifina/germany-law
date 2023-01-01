@@ -11,4 +11,4 @@
 - [§ 9 Elektronische Datenübermittlung](0009.md)
 - [§ 10 Verordnungsermächtigung](0010.md)
 - [§ 11 Rechtsweg](0011.md)
-- [§ 12 Anwendungsbestimmungen; Verkündung von Rechtsverordnungen](0012.md)
+- [§ 12 Anwendungsbestimmungen](0012.md)

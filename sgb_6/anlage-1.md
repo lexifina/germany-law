@@ -139,7 +139,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 18 | 38 212 |  |
 | 19 | 39 301 |  |
 | 20 | 39 167 |  |
-| 21 |  | 41 541*) |
+| 21 | 40 463 |  |
 | 22 |  | 38 901*) |
+| 23 |  | 43 142*) |
 -----
 *) vorläufiges Durchschnittsentgelt i. S. des § 69 Abs. 2 Nr. 2.

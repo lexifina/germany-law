@@ -16,9 +16,19 @@ Assistenten vor dem staatlichen Prüfungsausschuß bei der
 ..................................... in ......................................
 bestanden.
 Sie/Er hat folgende Prüfungsnoten erhalten:
-1. im schriftlichen Teil der Prüfung "..............."
-2. im mündlichen Teil der Prüfung "..............."
-3. im praktischen Teil der Prüfung "..............."
+Arzneimittelkunde, einschließlich Information und Beratung
+sowie Nutzung digitaler Technologien "..............."
+Allgemeine und pharmazeutische Chemie "..............."
+Galenik "..............."
+Botanik, Drogenkunde und Phytopharmaka "..............."
+Gefahrstoff- und Umweltschutzkunde "..............."
+Grundlagen des Gesundheitswesens, pharmazeutische Berufs-
+und Gesetzeskunde "..............."
+Medizinproduktekunde, einschließlich Information und
+Beratung sowie Nutzung digitaler Technologien "..............."
+Chemisch-pharmazeutische Übungen "..............."
+Übungen zur Drogenkunde "..............."
+Galenische Übungen "..............."
 Ort, Datum
 ..................., den ............................. (Siegel)
 ......................................................

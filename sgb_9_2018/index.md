@@ -163,7 +163,7 @@
 
 ### Kapitel 2 Grundsätze der Leistungen
 
-- [§ 99 Leistungsberechtigung, Verordnungsermächtigung](0099.md)
+- [§ 99 Leistungsberechtigter Personenkreis](0099.md)
 - [§ 100 Eingliederungshilfe für Ausländer](0100.md)
 - [§ 101 Eingliederungshilfe für Deutsche im Ausland](0101.md)
 - [§ 102 Leistungen der Eingliederungshilfe](0102.md)

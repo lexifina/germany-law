@@ -48,7 +48,7 @@ Landesfinanzbehörden
 - [§ 18a (weggefallen)](0018a.md)
 - [§ 19 Mitwirkung des Bundeszentralamtes für Steuern an Außenprüfungen](0019.md)
 - [§ 20 Einsatz von automatischen Einrichtungen](0020.md)
-- [§ 20a Druckdienstleistungen für Bundesfinanzbehörden](0020a.md)
+- [§ 20a Druckdienstleistungen für Bundes- oder Landesfinanzbehörden](0020a.md)
 - [§ 21 Auskunfts- und Teilnahmerechte](0021.md)
 - [§ 21a Allgemeine Verfahrensgrundsätze](0021a.md)
 

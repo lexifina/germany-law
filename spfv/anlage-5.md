@@ -6,4 +6,7 @@ Das Sportboot muss neben dem Bewerber und dem Bootsführer, der im Besitz der er
 3. nicht mit den Gegenständen ausgerüstet ist, die für die in der Prüfung auszuführenden Manöver erforderlich sind.
 Auf dem Prüfungsboot muss für jede an Bord befindliche Person eine Rettungsweste vorhanden sein.
 Für die Prüfung zum Erwerb des Sportbootführerscheins mit dem Geltungsbereich Seeschifffahrtsstraßen muss auf dem Prüfungsboot ein Kompass vorhanden sein.
-Bei Prüfungen zum Führen von Sportbooten mit Antriebsmaschine muss das Prüfungsboot mit einer Antriebsmaschine ausgestattet sein, die eine Nutzleistung von mehr als 11,03 kW besitzt. Dies gilt auch für Prüfungen, die auf dem Rhein durchgeführt werden.
+Bei Prüfungen zum Führen von Sportbooten mit Antriebsmaschine muss das Prüfungsboot mit einer Antriebsmaschine ausgestattet sein, die eine Nutzleistung von mehr als
+a) 11,03 Kilowatt bei Verwendung eines Verbrennungsmotors,
+b) 7,5 Kilowatt in der Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011 bei Verwendung eines Elektromotors
+besitzt. Dies gilt auch für Prüfungen, die auf dem Rhein durchgeführt werden.

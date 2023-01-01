@@ -244,7 +244,7 @@
 
 - [§ 162 Anlagebedingungen](0162.md)
 - [§ 163 Genehmigung der Anlagebedingungen](0163.md)
-- [§ 164 Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen](0164.md)
+- [§ 164 Erstellung von Verkaufsprospekt, Basisinformationsblatt und wesentlichen Anlegerinformationen](0164.md)
 - [§ 165 Mindestangaben im Verkaufsprospekt](0165.md)
 - [§ 166 Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen; Verordnungsermächtigung](0166.md)
 - [§ 167 Information mittels eines dauerhaften Datenträgers](0167.md)
@@ -388,9 +388,9 @@
 - [§ 265 Leerverkäufe](0265.md)
 - [§ 266 Anlagebedingungen](0266.md)
 - [§ 267 Genehmigung der Anlagebedingungen](0267.md)
-- [§ 268 Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen](0268.md)
+- [§ 268 Erstellung von Verkaufsprospekt und Basisinformationsblatt](0268.md)
 - [§ 269 Mindestangaben im Verkaufsprospekt](0269.md)
-- [§ 270 Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen](0270.md)
+- [§ 270 (weggefallen)](0270.md)
 - [§ 271 Bewertung, Bewertungsverfahren, Bewerter](0271.md)
 - [§ 272 Häufigkeit der Bewertung und Berechnung; Offenlegung](0272.md)
 
@@ -483,7 +483,7 @@
 - [§ 298 Veröffentlichungspflichten und laufende Informationspflichten für EU-OGAW](0298.md)
 - [§ 299 Veröffentlichungspflichten und laufende Informationspflichten für EU-AIF und ausländische AIF](0299.md)
 - [§ 300 Zusätzliche Informationspflichten bei AIF](0300.md)
-- [§ 301 Sonstige Veröffentlichungspflichten](0301.md)
+- [§ 301 (weggefallen)](0301.md)
 - [§ 302 Werbung](0302.md)
 - [§ 303 Maßgebliche Sprachfassung](0303.md)
 - [§ 304 Kostenvorausbelastung](0304.md)
@@ -521,7 +521,7 @@
 
 - [§ 316 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von inländischen Publikums-AIF im Inland](0316.md)
 - [§ 317 Zulässigkeit des Vertriebs von EU-AIF oder von ausländischen AIF an Privatanleger](0317.md)
-- [§ 318 Verkaufsprospekt und wesentliche Anlegerinformationen beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger](0318.md)
+- [§ 318 Verkaufsprospekt beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger](0318.md)
 - [§ 319 Vertretung der Gesellschaft, Gerichtsstand beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger](0319.md)
 - [§ 320 Anzeigepflicht beim beabsichtigten Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger im Inland](0320.md)
 

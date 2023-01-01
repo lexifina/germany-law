@@ -19,3 +19,4 @@
 - [§ 17 Weitere Stichprobenerhebungen](0017.md)
 - [§ 18 Experimentierklausel](0018.md)
 - [§ 19 Verordnungsermächtigung](0019.md)
+- [§ 20 Übergangsregelung](0020.md)

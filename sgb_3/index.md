@@ -18,7 +18,7 @@
 - [§ 9 Ortsnahe Leistungserbringung](0009.md)
 - [§ 9a Zusammenarbeit mit den für die Wahrnehmung der Aufgaben der Grundsicherung für Arbeitsuchende zuständigen gemeinsamen Einrichtungen und zugelassenen kommunalen Trägern](0009a.md)
 - [§ 10 (weggefallen)](0010.md)
-- [§ 11 Eingliederungsbilanz](0011.md)
+- [§ 11 (weggefallen)](0011.md)
 
 ### Zweiter Abschnitt Berechtigte
 
@@ -445,7 +445,7 @@ Berichterstattung
 - [§ 312 Arbeitsbescheinigung](0312.md)
 - [§ 312a Arbeitsbescheinigung für Zwecke des über- und zwischenstaatlichen Rechts](0312a.md)
 - [§ 313 Nebeneinkommensbescheinigung](0313.md)
-- [§ 313a Elektronische Bescheinigung](0313a.md)
+- [§ 313a Bescheinigungsverfahren](0313a.md)
 - [§ 314 Insolvenzgeldbescheinigung](0314.md)
 
 #### Dritter Unterabschnitt Auskunftspflichten
@@ -671,9 +671,10 @@ und zeitweilige Aufgaben
 - [§ 421 Förderung der Teilnahme an Sprachkursen](0421.md)
 - [§ 421a Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen](0421a.md)
 - [§ 421b Erprobung einer zentralen Servicestelle für anerkennungssuchende Fachkräfte im Ausland](0421b.md)
-- [§ 421c Vorübergehende Sonderregelungen im Zusammenhang mit Kurzarbeit](0421c.md)
+- [§ 421c Vorübergehende Sonderregelung im Zusammenhang mit Kurzarbeit](0421c.md)
 - [§ 421d Vorübergehende Sonderregelungen zum Arbeitslosengeld](0421d.md)
 - [§ 421e Vorübergehende Sonderregelungen im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union](0421e.md)
+- [§ 421f Übermittlung von Daten zum Bezug von Kurzarbeitergeld](0421f.md)
 
 ### Dritter Abschnitt Grundsätze bei Rechtsänderungen
 
@@ -688,7 +689,7 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 426 (weggefallen)](0426.md)
 - [§ 427 (weggefallen)](0427.md)
 - [§ 427a Gleichstellung von Mutterschaftszeiten](0427a.md)
-- [§ 428 Arbeitslosengeld unter erleichterten Voraussetzungen](0428.md)
+- [§ 428 (weggefallen)](0428.md)
 - [§ 429](0429.md)
 - [§ 430 Sonstige Entgeltersatzleistungen](0430.md)
 - [§ 431 (weggefallen)](0431.md)

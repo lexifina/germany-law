@@ -62,7 +62,7 @@ Sonstige Amtspflichten des Notars
 | § 29 | Werbeverbot |
 | § 30 | Ausbildungspflicht |
 | § 31 | Verhalten des Notars |
-| § 32 | Bezug von Gesetzes- und Amtsblättern |
+| § 32 | (weggefallen) |
 | § 33 | Elektronische Signatur |
 | § 34 | Meldepflichten |
 Abschnitt 4a

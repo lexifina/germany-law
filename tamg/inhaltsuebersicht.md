@@ -113,15 +113,17 @@ Packungsbeilage, Packungsgrößen und Preise
 | § 53 | Verordnungsermächtigungen zur Regelung der Kennzeichnung, der Packungsbeilage, der Packungsgrößen und der Preise |
 Unterabschnitt 5
 Vorschriften zur Verringerung
-der Behandlung mit antibakteriell wirksamen Stoffen
-| § 54 | Mitteilungen über Tierhaltungen |
-| § 55 | Mitteilungen über Arzneimittelverwendung |
-| § 56 | Ermittlung der Therapiehäufigkeit |
-| § 57 | Verringerung der Behandlung mit antibakteriell wirksamen Stoffen |
-| § 58 | Verordnungsermächtigungen zur Regelung der Verringerung der Behandlung mit antimikrobiell wirksamen Stoffen |
+der Behandlung mit antibiotisch
+wirksamen Arzneimitteln und zu tierärztlichen
+Mitteilungen über die Arzneimittelverwendung
+| § 54 | Nutzungsarten |
+| § 55 | Mitteilungen über Tierhaltungen |
+| § 56 | Tierärztliche Mitteilungen über Arzneimittelverwendung |
+| § 57 | Ermittlung der Therapiehäufigkeit |
+| § 58 | Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln |
 | § 59 | Verarbeitung und Übermittlung von Daten |
-| § 60 | Verordnungsermächtigung zur Regelung weiterer Einschränkungen bestimmter antimikrobieller Wirkstoffe |
-| § 61 | Resistenzmonitoring |
+| § 60 | Resistenzmonitoring |
+| § 61 | Verordnungsermächtigungen |
 Unterabschnitt 6
 Sicherung und Kontrolle der Qualität
 | § 62 | Verordnungsermächtigung zur Regelung von Betriebsverordnungen |
@@ -159,7 +161,7 @@ Sonstige Durchführungsbestimmungen
 | § 83 | Allgemeine Verwaltungsvorschriften |
 | § 84 | Verordnungsermächtigung zur Angleichung an das Recht der Europäischen Union |
 | § 85 | Verordnungsermächtigung zur Anpassung an Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union |
-| § 86 | Verkündung von Rechtsverordnungen |
+| § 86 | (weggefallen) |
 Abschnitt 5
 Straf- und Bußgeldvorschriften
 | § 87 | Strafvorschriften |
@@ -171,4 +173,7 @@ Abschnitt 6
 Übergangsvorschriften
 | § 92 | Übergangsvorschriften aus Anlass des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften |
 | § 93 | Weitere Anwendung von Vorschriften |
-| Anlage | Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten |
+| § 94 | Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten über antibiotisch wirksame Arzneimittel |
+| § 95 | Evaluierung |
+| Anlage 1 | Einteilung der Nutzungsarten |
+| Anlage 2 | Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten |

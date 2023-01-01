@@ -180,7 +180,6 @@
 | § 82 | Allgemeine Verwaltungsvorschriften |
 | § 83 | Angleichung an das Recht der Europäischen Union |
 | § 83a | Rechtsverordnungen in bestimmten Fällen |
-| § 83b | Verkündung von Rechtsverordnungen |
 |  |
 | Sechzehnter Abschnitt |
 | Haftung für Arzneimittelschäden |

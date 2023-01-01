@@ -49,6 +49,7 @@
 - [§ 28 Übertragung von Herkunftsnachweisen](0028.md)
 - [§ 29 Übertragung und Rückbuchung von Regionalnachweisen](0029.md)
 - [§ 30 Verwendung und Entwertung von Herkunftsnachweisen](0030.md)
+- [§ 30a Gekoppelte Lieferung von Herkunftsnachweisen](0030a.md)
 - [§ 31 Verwendung und Entwertung von Regionalnachweisen, Ausweisung in der Stromkennzeichnung](0031.md)
 - [§ 32 Löschung von Herkunftsnachweisen](0032.md)
 - [§ 33 Löschung von Regionalnachweisen](0033.md)

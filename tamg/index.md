@@ -115,16 +115,16 @@
 
 - [§ 53 Verordnungsermächtigungen zur Regelung der Kennzeichnung, der Packungsbeilage, der Packungsgrößen und der Preise](0053.md)
 
-### Unterabschnitt 5 Vorschriften zur Verringerung der Behandlung mit antibakteriell wirksamen Stoffen
+### Unterabschnitt 5 Vorschriften zur Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln und zu tierärztlichen Mitteilungen über die Arzneimittelverwendung
 
-- [§ 54 Mitteilungen über Tierhaltungen](0054.md)
-- [§ 55 Mitteilungen über Arzneimittelverwendung](0055.md)
-- [§ 56 Ermittlung der Therapiehäufigkeit](0056.md)
-- [§ 57 Verringerung der Behandlung mit antibakteriell wirksamen Stoffen](0057.md)
-- [§ 58 Verordnungsermächtigungen zur Regelung der Verringerung der Behandlung mit antimikrobiell wirksamen Stoffen](0058.md)
+- [§ 54 Nutzungsarten](0054.md)
+- [§ 55 Mitteilungen über Tierhaltungen](0055.md)
+- [§ 56 Tierärztliche Mitteilungen über Arzneimittelverwendung](0056.md)
+- [§ 57 Ermittlung der Therapiehäufigkeit](0057.md)
+- [§ 58 Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln](0058.md)
 - [§ 59 Verarbeitung und Übermittlung von Daten](0059.md)
-- [§ 60 Verordnungsermächtigung zur Regelung weiterer Einschränkungen bestimmter antimikrobieller Wirkstoffe](0060.md)
-- [§ 61 Resistenzmonitoring](0061.md)
+- [§ 60 Resistenzmonitoring](0060.md)
+- [§ 61 Verordnungsermächtigungen](0061.md)
 
 ### Unterabschnitt 6 Sicherung und Kontrolle der Qualität
 
@@ -167,7 +167,7 @@
 - [§ 83 Allgemeine Verwaltungsvorschriften](0083.md)
 - [§ 84 Verordnungsermächtigung zur Angleichung an das Recht der Europäischen Union](0084.md)
 - [§ 85 Verordnungsermächtigung zur Anpassung an Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union](0085.md)
-- [§ 86 Verkündung von Rechtsverordnungen](0086.md)
+- [§ 86 (weggefallen)](0086.md)
 
 ## Abschnitt 5 Straf- und Bußgeldvorschriften
 
@@ -181,4 +181,7 @@
 
 - [§ 92 Übergangsvorschriften aus Anlass des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften](0092.md)
 - [§ 93 Weitere Anwendung von Vorschriften](0093.md)
-- [Anlage (zu § 56 Absatz 2 Satz 2)Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten](anlage.md)
+- [§ 94 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln](0094.md)
+- [§ 95 Evaluierung](0095.md)
+- [Anlage 1 (zu §§ 54, 55 Absatz 1 und § 56 Absatz 1)Einteilung der Nutzungsarten](anlage-1.md)
+- [Anlage 2 (zu § 57 Absatz 3 Satz 3)Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten](anlage-2.md)

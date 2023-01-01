@@ -113,7 +113,7 @@
 
 - [§ 53 Rechtsverordnungen zur Durchführung des Gemeinschaftsrechts oder Unionsrechts](0053.md)
 - [§ 54 Übertragung von Ermächtigungen](0054.md)
-- [§ 55 Verkündung von Rechtsverordnungen](0055.md)
+- [§ 55 (weggefallen)](0055.md)
 - [§ 56 Übergangsregelungen](0056.md)
 - [§ 57 Fortbestehen anderer Vorschriften](0057.md)
 - [§ 57a Ermächtigung zur Aufhebung von Rechtsvorschriften](0057a.md)

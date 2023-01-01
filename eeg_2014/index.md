@@ -4,7 +4,8 @@
 
 ## Teil 1 Allgemeine Bestimmungen
 
-- [§ 1 Zweck und Ziel des Gesetzes](0001.md)
+- [§ 1 Ziel des Gesetzes](0001.md)
+- [§ 1a Zeitliche Transformation](0001a.md)
 - [§ 2 Besondere Bedeutung der erneuerbaren Energien](0002.md)
 - [§ 3 Begriffsbestimmungen](0003.md)
 - [§ 4 Ausbaupfad](0004.md)
@@ -54,28 +55,29 @@
 
 - [§ 22 Wettbewerbliche Ermittlung der Marktprämie](0022.md)
 - [§ 22a Pilotwindenergieanlagen an Land](0022a.md)
+- [§ 22b Bürgerenergiegesellschaften](0022b.md)
 - [§ 23 Allgemeine Bestimmungen zur Höhe der Zahlung](0023.md)
 - [§ 23a Besondere Bestimmung zur Höhe der Marktprämie](0023a.md)
-- [§ 23b Besondere Bestimmungen zur Einspeisevergütung bei ausgeförderten Anlagen](0023b.md)
-- [§ 23c Besondere Bestimmung zum Mieterstromzuschlag](0023c.md)
-- [§ 23d Anteilige Zahlung](0023d.md)
+- [§ 23b Besondere Bestimmung zur Einspeisevergütung bei ausgeförderten Anlagen](0023b.md)
+- [§ 23c Anteilige Zahlung](0023c.md)
 - [§ 24 Zahlungsansprüche für Strom aus mehreren Anlagen](0024.md)
 - [§ 25 Beginn, Dauer und Beendigung des Anspruchs](0025.md)
 - [§ 26 Abschläge und Fälligkeit](0026.md)
 - [§ 27 Aufrechnung](0027.md)
-- [§ 27a Zahlungsanspruch und Eigenversorgung](0027a.md)
 
 ### Abschnitt 3 Ausschreibungen
 
 
 #### Unterabschnitt 1 Allgemeine Ausschreibungsbestimmungen
 
-- [§ 28 Ausschreibungsvolumen und Ausschreibungstermine für Windenergie an Land](0028.md)
-- [§ 28a Ausschreibungsvolumen und Ausschreibungstermine für solare Strahlungsenergie](0028a.md)
-- [§ 28b Ausschreibungsvolumen und Ausschreibungstermine für Biomasse](0028b.md)
-- [§ 28c Ausschreibungsvolumen und Ausschreibungstermine für innovative Anlagenkonzepte](0028c.md)
-- [§ 28d Ausschreibungsvolumen und Gebotstermine für innovative Konzepte mit wasserstoffbasierter Stromspeicherung](0028d.md)
-- [§ 28e Ausschreibungsvolumen und Gebotstermine für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff](0028e.md)
+- [§ 28 Ausschreibungsvolumen und Gebotstermine für Windenergie an Land](0028.md)
+- [§ 28a Ausschreibungsvolumen und Gebotstermine für Solaranlagen des ersten Segments](0028a.md)
+- [§ 28b Ausschreibungsvolumen und Gebotstermine für Solaranlagen des zweiten Segments](0028b.md)
+- [§ 28c Ausschreibungsvolumen und Gebotstermine für Biomasse](0028c.md)
+- [§ 28d Ausschreibungsvolumen und Gebotstermine für Biomethananlagen](0028d.md)
+- [§ 28e Ausschreibungsvolumen und Gebotstermine für Innovationsausschreibungen](0028e.md)
+- [§ 28f Ausschreibungsvolumen und Gebotstermine für innovative Konzepte mit wasserstoffbasierter Stromspeicherung](0028f.md)
+- [§ 28g Ausschreibungsvolumen und Gebotstermine für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff](0028g.md)
 - [§ 29 Bekanntmachung](0029.md)
 - [§ 30 Anforderungen an Gebote](0030.md)
 - [§ 30a Ausschreibungsverfahren](0030a.md)
@@ -83,6 +85,7 @@
 - [§ 32 Zuschlagsverfahren](0032.md)
 - [§ 33 Ausschluss von Geboten](0033.md)
 - [§ 34 Ausschluss von Bietern](0034.md)
+- [§ 34a Unionsfremde Bieter](0034a.md)
 - [§ 35 Bekanntgabe der Zuschläge und anzulegender Wert](0035.md)
 - [§ 35a Entwertung von Zuschlägen](0035a.md)
 
@@ -95,7 +98,7 @@
 - [§ 36d (weggefallen)](0036d.md)
 - [§ 36e Erlöschen von Zuschlägen für Windenergieanlagen an Land](0036e.md)
 - [§ 36f Änderungen nach Erteilung des Zuschlags für Windenergieanlagen an Land](0036f.md)
-- [§ 36g Besondere Ausschreibungsbestimmungen für Bürgerenergiegesellschaften](0036g.md)
+- [§ 36g (weggefallen)](0036g.md)
 - [§ 36h Anzulegender Wert für Windenergieanlagen an Land](0036h.md)
 - [§ 36i Dauer des Zahlungsanspruchs für Windenergieanlagen an Land](0036i.md)
 - [§ 36j Zusatzgebote](0036j.md)
@@ -119,7 +122,7 @@
 - [§ 38e Höchstwert für Solaranlagen des zweiten Segments](0038e.md)
 - [§ 38f Zuschläge für Solaranlagen des zweiten Segments](0038f.md)
 - [§ 38g Dauer des Zahlungsanspruchs für Solaranlagen des zweiten Segments](0038g.md)
-- [§ 38h (weggefallen)](0038h.md)
+- [§ 38h Anzulegender Wert für Solaranlagen des zweiten Segments](0038h.md)
 - [§ 38i (weggefallen)](0038i.md)
 
 #### Unterabschnitt 5 Ausschreibungen für Biomasseanlagen
@@ -138,7 +141,7 @@
 #### Unterabschnitt 6 Ausschreibungen für Biomethananlagen
 
 - [§ 39j Anwendbarkeit des Unterabschnitts 5](0039j.md)
-- [§ 39k Gebote für Biomethananlagen in der Südregion](0039k.md)
+- [§ 39k Gebote für Biomethananlagen](0039k.md)
 - [§ 39l Höchstwert für Biomethananlagen](0039l.md)
 - [§ 39m Besondere Zahlungsbestimmungen für Biomethananlagen](0039m.md)
 
@@ -179,7 +182,7 @@
 
 - [§ 51 Verringerung des Zahlungsanspruchs bei negativen Preisen](0051.md)
 - [§ 51a Verlängerung des Vergütungszeitraums bei negativen Preisen](0051a.md)
-- [§ 52 Verringerung des Zahlungsanspruchs bei Pflichtverstößen](0052.md)
+- [§ 52 Zahlungen bei Pflichtverstößen](0052.md)
 - [§ 53 Verringerung der Einspeisevergütung](0053.md)
 - [§ 53a (weggefallen)](0053a.md)
 - [§ 53b Verringerung des Zahlungsanspruchs bei Regionalnachweisen](0053b.md)
@@ -188,52 +191,24 @@
 - [§ 54a (weggefallen)](0054a.md)
 - [§ 55 Pönalen](0055.md)
 - [§ 55a Erstattung von Sicherheiten](0055a.md)
+- [§ 55b Rückforderung](0055b.md)
 
-## Teil 4 Ausgleichsmechanismus
-
-
-### Abschnitt 1 Bundesweiter Ausgleich
+## Teil 4 Weitergabe und Vermarktung des Stroms aus erneuerbaren Energien
 
 - [§ 56 Weitergabe an den Übertragungsnetzbetreiber](0056.md)
-- [§ 57 Ausgleich zwischen Netzbetreibern und Übertragungsnetzbetreibern](0057.md)
-- [§ 58 Ausgleich zwischen den Übertragungsnetzbetreibern](0058.md)
-- [§ 59 Vermarktung durch die Übertragungsnetzbetreiber](0059.md)
-- [§ 60 EEG-Umlage für Elektrizitätsversorgungsunternehmen](0060.md)
-- [§ 60a EEG-Umlage für stromkostenintensive Unternehmen](0060a.md)
-- [§ 61 EEG-Umlage für Letztverbraucher und Eigenversorger](0061.md)
-- [§ 61a Entfallen der EEG-Umlage](0061a.md)
-- [§ 61b Verringerung der EEG-Umlage bei Anlagen](0061b.md)
-- [§ 61c Verringerung der EEG-Umlage bei hocheffizienten KWK-Anlagen](0061c.md)
-- [§ 61d Verringerung der EEG-Umlage bei hocheffizienten neueren KWK-Anlagen](0061d.md)
-- [§ 61e Verringerung der EEG-Umlage bei Bestandsanlagen](0061e.md)
-- [§ 61f Verringerung der EEG-Umlage bei älteren Bestandsanlagen](0061f.md)
-- [§ 61g Verringerung der EEG-Umlage bei Ersetzung von Bestandsanlagen](0061g.md)
-- [§ 61h Rechtsnachfolge bei Bestandsanlagen](0061h.md)
-- [§ 61i Entfallen und Verringerung der EEG-Umlage bei Verstoß gegen Mitteilungspflichten](0061i.md)
-- [§ 61j Erhebung der EEG-Umlage bei Eigenversorgung und sonstigem Letztverbrauch](0061j.md)
-- [§ 61k Pflichten der Netzbetreiber bei der Erhebung der EEG-Umlage](0061k.md)
-- [§ 61l Ausnahmen von der Pflicht zur Zahlung der EEG-Umlage](0061l.md)
-- [§ 62 Nachträgliche Korrekturen](0062.md)
-- [§ 62a Geringfügige Stromverbräuche Dritter](0062a.md)
-- [§ 62b Messung und Schätzung](0062b.md)
-
-### Abschnitt 2 Besondere Ausgleichsregelung
-
-- [§ 63 Grundsatz](0063.md)
-- [§ 64 Stromkostenintensive Unternehmen](0064.md)
-- [§ 64a Herstellung von Wasserstoff in stromkostenintensiven Unternehmen](0064a.md)
-- [§ 65 Schienenbahnen](0065.md)
-- [§ 65a Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr](0065a.md)
-- [§ 65b Landstromanlagen](0065b.md)
-- [§ 66 Antragstellung und Entscheidungswirkung](0066.md)
-- [§ 67 Umwandlung von Unternehmen](0067.md)
-- [§ 68 Rücknahme der Entscheidung, Auskunft, Betretungsrecht](0068.md)
-- [§ 69 Mitwirkungs- und Auskunftspflicht](0069.md)
-- [§ 69a Mitteilungspflicht der Behörden der Zollverwaltung](0069a.md)
-
-### Abschnitt 3 Grüner Wasserstoff
-
-- [§ 69b Herstellung von Grünem Wasserstoff](0069b.md)
+- [§ 57 Vermarktung durch die Übertragungsnetzbetreiber](0057.md)
+- [§ 58 Weitere Bestimmungen](0058.md)
+- [§ 59 (weggefallen)](0059.md)
+- [§ 60 (weggefallen)](0060.md)
+- [§ 61 (weggefallen)](0061.md)
+- [§ 62 (weggefallen)](0062.md)
+- [§ 63 (weggefallen)](0063.md)
+- [§ 64 (weggefallen)](0064.md)
+- [§ 65 (weggefallen)](0065.md)
+- [§ 66 (weggefallen)](0066.md)
+- [§ 67 (weggefallen)](0067.md)
+- [§ 68 (weggefallen)](0068.md)
+- [§ 69 (weggefallen)](0069.md)
 
 ## Teil 5 Transparenz
 
@@ -244,15 +219,14 @@
 - [§ 71 Anlagenbetreiber](0071.md)
 - [§ 72 Netzbetreiber](0072.md)
 - [§ 73 Übertragungsnetzbetreiber](0073.md)
-- [§ 74 Elektrizitätsversorgungsunternehmen](0074.md)
-- [§ 74a Letztverbraucher und Eigenversorger](0074a.md)
-- [§ 75 Testierung](0075.md)
+- [§ 74 Vorausschau des weiteren Ausbaus](0074.md)
+- [§ 75 (weggefallen)](0075.md)
 - [§ 76 Information der Bundesnetzagentur](0076.md)
 - [§ 77 Information der Öffentlichkeit](0077.md)
 
 ### Abschnitt 2 Stromkennzeichnung und Doppelvermarktungsverbot
 
-- [§ 78 Stromkennzeichnung entsprechend der EEG-Umlage](0078.md)
+- [§ 78 (weggefallen)](0078.md)
 - [§ 79 Herkunftsnachweise](0079.md)
 - [§ 79a Regionalnachweise](0079a.md)
 - [§ 80 Doppelvermarktungsverbot](0080.md)
@@ -269,8 +243,9 @@
 - [§ 85 Aufgaben der Bundesnetzagentur](0085.md)
 - [§ 85a Festlegung zu den Höchstwerten bei Ausschreibungen](0085a.md)
 - [§ 85b Auskunftsrecht und Datenübermittlung](0085b.md)
+- [§ 85c Festlegung zu den besonderen Solaranlagen](0085c.md)
 - [§ 86 Bußgeldvorschriften](0086.md)
-- [§ 87 (weggefallen)](0087.md)
+- [§ 87 Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten](0087.md)
 
 ## Teil 7 Verordnungsermächtigungen, Berichte, Übergangsbestimmungen
 
@@ -289,7 +264,7 @@
 - [§ 91 Verordnungsermächtigung zum Ausgleichsmechanismus](0091.md)
 - [§ 92 Verordnungsermächtigung zu Herkunftsnachweisen und Regionalnachweisen](0092.md)
 - [§ 93 Verordnungsermächtigung zu Anforderungen an Grünen Wasserstoff](0093.md)
-- [§ 94 Verordnungsermächtigungen zur Besonderen Ausgleichsregelung](0094.md)
+- [§ 94 (weggefallen)](0094.md)
 - [§ 95 Weitere Verordnungsermächtigungen](0095.md)
 - [§ 96 Gemeinsame Bestimmungen](0096.md)
 
@@ -298,18 +273,15 @@
 - [§ 97 Kooperationsausschuss](0097.md)
 - [§ 98 Jährliches Monitoring zur Zielerreichung](0098.md)
 - [§ 99 Erfahrungsbericht](0099.md)
-- [§ 99a Funknavigationsbericht](0099a.md)
+- [§ 99a Fortschrittsbericht Windenergie an Land](0099a.md)
+- [§ 99b Bericht zur Bürgerenergie](0099b.md)
 
-### Abschnitt 3 Übergangsbestimmungen
+### Abschnitt 3 Schlussbestimmungen
 
-- [§ 100 Allgemeine Übergangsbestimmungen](0100.md)
-- [§ 101 Anschlussförderung für Altholz-Anlagen](0101.md)
-- [§ 102 Anschlussförderung für Grubengas](0102.md)
-- [§ 103 Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung](0103.md)
-- [§ 104 Weitere Übergangsbestimmungen](0104.md)
-- [§ 105 Beihilferechtlicher Genehmigungsvorbehalt](0105.md)
+- [§ 100 Übergangsbestimmungen](0100.md)
+- [§ 101 Beihilferechtlicher Genehmigungsvorbehalt](0101.md)
 - [Anlage 1 (zu § 23a)Höhe der Marktprämie](anlage-1.md)
 - [Anlage 2 (zu § 36h)Referenzertrag](anlage-2.md)
 - [Anlage 3 (zu § 50b)Voraussetzungen und Höhe der Flexibilitätsprämie](anlage-3.md)
-- [Anlage 4 (zu den §§ 64, 103)Stromkosten- oder handelsintensive Branchen](anlage-4.md)
+- [Anlage 4 (weggefallen)](anlage-4.md)
 - [Anlage 5 (zu § 3 Nummer 43c)Südregion](anlage-5.md)

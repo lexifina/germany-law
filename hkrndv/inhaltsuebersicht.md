@@ -45,6 +45,7 @@ von Herkunftsnachweisen und Regionalnachweisen
 | § 28 | Übertragung von Herkunftsnachweisen |
 | § 29 | Übertragung und Rückbuchung von Regionalnachweisen |
 | § 30 | Verwendung und Entwertung von Herkunftsnachweisen |
+| § 30a | Gekoppelte Lieferung von Herkunftsnachweisen |
 | § 31 | Verwendung und Entwertung von Regionalnachweisen, Ausweisung in der Stromkennzeichnung |
 | § 32 | Löschung von Herkunftsnachweisen |
 | § 33 | Löschung von Regionalnachweisen |

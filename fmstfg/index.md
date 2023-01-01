@@ -89,5 +89,4 @@
 
 - [§ 29 Sofortige Vollziehbarkeit](0029.md)
 - [§ 30 Rechtsweg](0030.md)
-- [§ 31 Verkündung von Rechtsverordnungen](0031.md)
 - [Anlage Wirtschaftsplan des Wirtschaftsstabilisierungsfonds Abschnitt 2 Teil 3: Abfederung der Folgen der Energiekrise](anlage.md)

@@ -11,14 +11,13 @@
 | § 6a | Entscheidungsfrist, Genehmigungsfiktion |
 | § 6b | Verfahren über eine einheitliche Stelle, Europäischer Berufsausweis, Verordnungsermächtigung |
 | § 6c | Informationspflichten für Dienstleistungserbringer |
-| § 7 | Aufhebung von Rechten und Abgaben |
-| § 8 | Ablösung von Rechten |
-| § 9 | Streitigkeiten über Aufhebung oder Ablösung von Rechten |
-| § 10 | Kein Neuerwerb von Rechten |
-| § 11 | Verarbeitung personenbezogener Daten |
+| § 7 | Mitteilungspflicht bei Gewerben mit Zuverlässigkeitsüberprüfung |
+| §§ 8 bis 10 | (weggefallen) |
+| § 11 | Verarbeitung personenbezogener Daten; Verordnungsermächtigung |
 | § 11a | Vermittlerregister |
 | § 11b | Bewacherregister; Verordnungsermächtigung |
 | § 11c | Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraums bei reglementierten Berufen |
+| § 11d | Zusammenarbeit der Behörden |
 | § 12 | Insolvenzverfahren und Restrukturierungssachen |
 | § 13 | Erprobungsklausel |
 | § 13a | Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen in reglementierten Berufen |
@@ -30,8 +29,7 @@
 | I. Allgemeine Erfordernisse |
 | § 14 | Anzeigepflicht; Verordnungsermächtigung |
 | § 15 | Empfangsbescheinigung, Betrieb ohne Zulassung |
-| § 15a | (weggefallen) |
-| § 15b | (weggefallen) |
+| §§ 15a und 15b | (weggefallen) |
 |  |
 | II. Erfordernis besonderer Überwachung oder Genehmigung |
 |  | A. Anlagen, die einer besonderen Überwachung bedürfen |
@@ -40,14 +38,12 @@
 |  | B. Gewerbetreibende, die einer besonderen Genehmigung bedürfen |
 | § 29 | Auskunft und Nachschau |
 | § 30 | Privatkrankenanstalten |
-| § 30a | (weggefallen) |
-| § 30b | (weggefallen) |
-| § 30c | (weggefallen) |
+| §§ 30a bis 30c | (weggefallen) |
 | § 31 | Bewachungsgewerbe auf Seeschiffen; Verordnungsermächtigung |
 | § 32 | Regelung der Sachkundeprüfung, Aufgabenauswahlausschüsse |
 | § 33 | (weggefallen) |
 | § 33a | Schaustellungen von Personen |
-| § 33b | Tanzlustbarkeiten |
+| § 33b | (weggefallen) |
 | § 33c | Spielgeräte mit Gewinnmöglichkeit |
 | § 33d | Andere Spiele mit Gewinnmöglichkeit |
 | § 33e | Bauartzulassung und Unbedenklichkeitsbescheinigung |
@@ -72,22 +68,19 @@
 | § 36a | Öffentliche Bestellung von Sachverständigen mit Qualifikationen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum |
 | § 37 | (weggefallen) |
 | § 38 | Überwachungsbedürftige Gewerbe |
-| § 39 | (weggefallen) |
-| § 39a | (weggefallen) |
-| § 40 | (weggefallen) |
+| §§ 39 bis 40 | (weggefallen) |
 |  |
 | III. Umfang, Ausübung und Verlust der Gewerbebefugnisse |
-| § 41 | Beschäftigung von Arbeitnehmern |
+| § 41 | (weggefallen) |
 | §§ 41a bis 44a | (weggefallen) |
 | § 45 | Stellvertreter |
 | § 46 | Fortführung des Gewerbes |
 | § 47 | Stellvertretung in besonderen Fällen |
-| § 48 | Übertragung von Realgewerbeberechtigungen |
+| § 48 | (weggefallen) |
 | § 49 | Erlöschen von Erlaubnissen |
 | § 50 | (weggefallen) |
 | § 51 | Untersagung wegen überwiegender Nachteile und Gefahren |
-| § 52 | Übergangsregelung |
-| §§ 53 bis 54 | (weggefallen) |
+| §§ 52 bis 54 | (weggefallen) |
 |  |
 | Titel III |
 | Reisegewerbe |
@@ -183,6 +176,7 @@
 | § 148 | Strafbare Verletzung gewerberechtlicher Vorschriften |
 | § 148a | Strafbare Verletzung von Prüferpflichten |
 | § 148b | Fahrlässige Hehlerei von Edelmetallen und Edelsteinen |
+| § 148c | Einziehung |
 |  |
 | Titel XI |
 | Gewerbezentralregister |
@@ -211,4 +205,4 @@
 | § 158 | Übergangsregelung zu § 11b; Probebetrieb |
 | § 159 | Übergangsregelung zu § 34a |
 | § 160 | Übergangsregelungen zu den §§ 34c und 34i |
-| § 161 | Übergangsregelung zu § 34c |
+| § 161 | Übergangsregelung zu § 14 Absatz 4 |

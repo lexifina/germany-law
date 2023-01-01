@@ -287,7 +287,7 @@
 
 - [§ 149 Gebühren](0149.md)
 - [§ 150 Zurverfügungstellen von Gesetzen und Rechtsverordnungen, Einstellen von Kopien und Unterlagen in ein elektronisches Informationssystem](0150.md)
-- [§ 151 Verkündung von Rechtsverordnungen](0151.md)
+- [§ 151 (weggefallen)](0151.md)
 
 ### Unterabschnitt 3 Übergangsregelungen
 

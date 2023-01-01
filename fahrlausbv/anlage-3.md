@@ -14,7 +14,7 @@
 | 1.3 | Der Fahrlehreranwärter | Aufgaben, Pflichten und Rechte des Fahrlehreranwärters |
 | Verantwortung des Fahrlehreranwärters gegenüber |
 | – | den ihm anvertrauten Personen, |
-| – | den Fahrschülern (§ 6 FahrlG), |
+| – | den Fahrschülern (§ 12 FahrlG), |
 | – | den Dienst- und Ausbildungsanweisungen des Inhabers der Fahrschule, der für die verantwortliche Leitung der Fahrschule bestellten Person und des Ausbildungsfahrlehrers |
 | 2 | Teilnahme am theoretischen und praktischen Unterricht sowie an der praktischen Prüfung |  |
 | 2.1 | Theoretischer Unterricht |  |

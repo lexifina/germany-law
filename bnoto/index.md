@@ -68,7 +68,7 @@
 - [§ 29 Werbeverbot](0029.md)
 - [§ 30 Ausbildungspflicht](0030.md)
 - [§ 31 Verhalten des Notars](0031.md)
-- [§ 32 Bezug von Gesetzes- und Amtsblättern](0032.md)
+- [§ 32 (weggefallen)](0032.md)
 - [§ 33 Elektronische Signatur](0033.md)
 - [§ 34 Meldepflichten](0034.md)
 

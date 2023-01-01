@@ -1,62 +1,77 @@
-# Anlage 2 (zu § 7 Absatz 2 Nummer 4, § 10 Absatz 1 Satz 2)Ärztliches Zeugnis
+# Anlage 2 (zu § 7 Absatz 2 Nummer 4 und § 10 Absatz 1 Satz 2)Medizinische Tauglichkeitskriterien bei Gesundheitsstörungen (allgemeine Tauglichkeit, Seh- und Hörvermögen)
 
-für Bewerberinnen und Bewerber
-um den Sportbootführerschein/für Prüferinnen und Prüfer in der Sportschifffahrt*
-(* Nichtzutreffendes bitte streichen)
-Die/der durch Reisepass oder Personalausweis ausgewiesene
-Vorname: ____________ Name: __________
-geboren am: __________ in: ___________
-wurde heute auf die Tauglichkeit zur Führung eines Sportbootes auf den See- und Binnenschifffahrtsstraßen untersucht.
-I. Sehvermögen
-1. Sehschärfe
-Die Prüfung der Sehschärfe erfolgt durch einen Arzt oder Augenoptiker nach DIN 58220. Die Sehschärfe muss ohne oder mit Sehhilfe (Brille, Kontaktlinsen) mindestens 0,7 auf dem einen und 0,5 auf dem anderen Auge betragen. Werden diese Werte nur mit Sehhilfe erreicht, muss die Sehschärfe ohne Sehhilfe für jedes Auge mindestens 0,1 betragen. Ist die Sehschärfe beider Augen zusammen besser als die jedes einzelnen Auges, kann der Wert der Sehschärfe beider Augen zusammen als der Wert des Auges mit der besseren Sehschärfe angesetzt werden.
-| Die Sehschärfe ist ohne Sehhilfe ausreichend (tauglich) | ⃞ |
-| Die Sehschärfe ist nur mit Sehhilfe ausreichend (bedingt tauglich) | ⃞ |
-| Die Sehschärfe ist ohne und mit Sehhilfe nicht ausreichend (untauglich) | ⃞ |
-2. Farbunterscheidungsvermögen
-Das Farbunterscheidungsvermögen ist als ausreichend anzusehen, wenn der Untersuchte den Farnsworth-Panel-D-15-Test oder einen anerkannten Farbtafeltest besteht. Farbfiltersehhilfen sind unzulässig. In Zweifelsfällen muss die Prüfung mit dem Anomaloskop oder einem anderen anerkannten gleichwertigen Test durchgeführt werden. Ergibt die Untersuchung mit dem Anomaloskop oder einem anderen anerkannten gleichwertigen Test keine Farbentüchtigkeit (normale Trichromasie mit einem Anomalquotienten zwischen 0,7 und 1,4), so ist nur eine Grünschwäche (Deuteranomalie) mit einem Anomalquotienten zwischen 1,4 und 6,0) zulässig. Anerkannte Farbtafeltests sind:
-a) Ishihara nach den Tafeln 12 bis 14,
-b) Stilling/Velhagen,
-c) Boström,
-d) HRR (Ergebnis mindestens „leicht“),
-e) TMC (Ergebnis mindestens „second degree“),
-f) Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“).
-| Das Farbunterscheidungsvermögen ist | ⃞ ausreichend (tauglich) | ⃞ nicht ausreichend (untauglich), |
-der Anomalquotient beträgt _____,_____.
-|  |
-| (Ggf. Ort, Datum, Stempel mit Anschrift und Unterschrift der amtlich anerkannten Sehteststelle) |
-II. Hörvermögen
-Das erforderliche Hörvermögen ist vorhanden, wenn Sprache mit oder ohne Hörhilfe in gewöhnlicher Lautstärke aus 3 Metern Entfernung mit dem jeweils dem Sprecher zugewandten Ohr und aus 5 Metern Entfernung mit beiden Ohren zugleich verstanden wird oder mindestens mit dem besseren Ohr mit oder ohne Hörhilfe Sprache in gewöhnlicher Lautstärke aus 5 Metern Entfernung verstanden wird.
-| Das Hörvermögen ist ohne Hörhilfe | ausreichend (tauglich) | ⃞ |
-| Das Hörvermögen ist nur mit Hörhilfe | ausreichend (bedingt tauglich) | ⃞ |
-| Das Hörvermögen ist ohne und mit Hörhilfe nicht ausreichend (untauglich) | ⃞ |
-|  |
-| (Ggf. Ort, Datum, Stempel mit Anschrift und Unterschrift des Hörgeräteakustikbetriebes) |
-– bitte wenden –
-III. Sonstige die Tauglichkeit beeinträchtigende Befunde
-Auch das Vorhandensein sonstiger körperlicher Mängel oder Krankheiten (Beispiele vgl. unten *) kann die Tauglichkeit zum Führen eines Sportbootes einschränken oder ausschließen.
-Die/der Untersuchte ist zum Führen eines Sportbootes
-| ⃞ tauglich |
-| ⃞ untauglich |
-| ⃞ bedingt tauglich |
-| Bei bedingter Tauglichkeit kommt/kommen aus ärztlicher Sicht folgende Auflage/n in Betracht: |
-| ⃞ Sehhilfe |
-| ⃞ Hörhilfe |
-| Sonstige Auflage/(n): ____________________________________________________________________________________________________________________________________________________________ |
-| ___________________________ (Ort, Datum) | __________________________________________________________ (Stempel mit Anschrift und Unterschrift der Ärztin/des Arztes) |
-* Körperliche und geistige Mängel
-Anzeichen für Krankheiten oder körperliche Mängel, die die Untersuchte/den Untersuchten als Schiffsführer ungeeignet erscheinen lassen, können sein:
-– Anfallsleiden jeglicher Ursache
-– Krankheiten jeglicher Ursache, die mit Bewusstseins- und/oder Gleichgewichtsstörungen einhergehen
-– Erkrankungen oder Schäden des zentralen Nervensystems mit wesentlichen Funktionsstörungen, insbesondere organische Krankheiten des Gehirns oder des Rückenmarks und deren Folgezustände, funktionelle Störungen nach Schädel- oder Hirnverletzungen, Hirndurchblutungsstörungen
-– Störungen oder erhebliche Beeinträchtigungen der zentralnervösen Belastbarkeit und/oder der Vigilanz
-– Gemüts- und/oder Geisteskrankheiten, auch außerhalb eines akuten Schubes
-– Diabetes mellitus mit nicht regulierbaren, erheblichen Schwankungen der Blutzuckerwerte
-– erhebliche Störung der Drüsen mit innerer Sekretion, insbesondere der Schilddrüse, der Epithelkörperchen oder der Nebennieren
-– schwere Erkrankungen der blutbildenden Systeme
-– Bronchialasthma mit Anfällen
-– Erkrankungen und/oder Veränderungen des Herzens und/oder des Kreislaufes mit Einschränkungen der Leistungs- bzw. Regulationsfähigkeit, Blutdruckveränderungen stärkeren Grades, Zustand nach Herzinfarkt mit erheblicher Reinfarktgefährdung
-– Neigung zu Gallen- oder Nierenkoliken
-– Missbildungen von Gliedmaßen oder Teilverlust von Gliedmaßen mit Beeinträchtigung der Greiffähigkeit und/oder der Stand- bzw. Gangsicherheit
-– Erkrankungen bzw. Unfallfolgen, die zu erheblicher Einschränkung der Beweglichkeit oder zum Verlust oder zur Herabsetzung der groben Kraft eines für die Durchführung der Tätigkeit wichtigen Gliedes führen
-– chronischer Alkoholmissbrauch bzw. Alkoholkrankheit, Betäubungsmittelsucht und/oder andere Suchtformen.
+Einführung
+Der untersuchende Arzt soll bedenken, dass es nicht möglich ist, eine umfassende Liste von Tauglichkeitskriterien zu erstellen, die alle möglichen Gesundheitsstörungen sowie deren Verschiedenartigkeiten in Bezug auf Auftreten und Prognose abdeckt.
+Die Grundsätze, die bei dem hier angewandten Ansatz zugrunde liegen, können häufig auf Gesundheitsstörungen übertragen werden, die nicht von der untenstehenden Auflistung abgedeckt werden. Die Tauglichkeitsentscheidungen bei Vorliegen einer Gesundheitsstörung hängen von einer sorgfältigen, klinischen Beurteilung und Analyse ab, wobei bei jeder Tauglichkeitsentscheidung die folgenden Punkte zu berücksichtigen sind:
+1. Medizinische Tauglichkeit, die die körperliche und psychische Tauglichkeit umfasst, bedeutet, dass die an Bord eines Fahrzeugs tätige Person nicht an einer Krankheit oder Behinderung leidet, aufgrund derer sie nicht in der Lage ist, die für den Betrieb des Sportboots notwendigen Aufgaben jederzeit ausführen zu können und die Umgebung korrekt wahrzunehmen.
+2. Die in der Tabelle in Teil 1 aufgeführten Gesundheitsstörungen sind übliche Beispiele für Gesundheitsstörungen, die zu einer Untauglichkeit führen können. Sie sind als Anhaltspunkte für Mediziner gedacht und ersetzen nicht eine fundierte ärztliche Beurteilung des Einzelfalls. Tauglichkeitsentscheidungen beruhen auf der Feststellung der Gesundheitsstörung und der Beurteilung sonstiger pathologischer Merkmale, die sich der untersuchenden Person zeigen.
+  In den Teilen 2 und 3 finden sich jeweils die relevanten Tauglichkeitsanforderungen für das erforderliche Hör- und Sehvermögen (ICD-10-Codes H 00-59 und H 68-95); diese können auch von einer Stelle nach § 6 Absatz 2 Satz 2 dem Arzt bestätigt werden.
+3. In der Tabelle in Teil 1 sind zu üblichen Gesundheitsstörungen Kriterien zur Orientierung angegeben, die zu einer Untauglichkeit führen können. Auch führt die Tabelle Kriterien an, die trotz der Gesundheitsstörung einer Tauglichkeit nicht entgegenstehen. Kann die medizinische Tauglichkeit nicht in vollem Umfang nachgewiesen werden, können Risikominderungsmaßnahmen und Beschränkungen zur Gewährleistung einer gleichwertigen Sicherheit der Schifffahrt auferlegt werden. Einige Risikominderungsmaßnahmen und Beschränkungen sind ebenfalls in der Tabelle genannt.
+  In den Teilen 2 und 3 sind neben den Anforderungen an das Seh- und Hörvermögen potentielle Risikominderungsmaßnahmen und Beschränkungen vorgegeben.
+4. Das Ergebnis der Tauglichkeitsuntersuchung ist unter Verwendung der Muster in Anhang 1 oder 2 dieser Anlage festzuhalten; weitere Angaben sind zu unterlassen.
+Teil 1
+Orientierungskriterien zur Beurteilung der Tauglichkeit
+Die Tabelle ist wie folgt aufgebaut:
+Spalte 1: Internationale Klassifikation der Krankheiten der WHO – 10. Revision (ICD-10); die Codes werden als Hilfe für die Analyse und insbesondere für die internationale Sammlung und Aufbereitung der Daten angeführt;
+Spalte 2: der allgemeine Name der Krankheit oder einer Gruppe von Krankheiten;
+Spalte 3: die medizinischen Tauglichkeitskriterien, die zu folgender Entscheidung führen: untauglich;
+Spalte 4: die medizinischen Tauglichkeitskriterien, die zu folgender Entscheidung führen: tauglich.
+Anzeichen für Krankheiten oder körperliche Mängel, die die Untersuchte oder den Untersuchten zum Führen eines Sportbootes als ungeeignet oder trotzdem geeignet oder beschränkt geeignet erscheinen lassen, können sein:
+| Code | Gesundheitsstörung Begründung der eventuellen Unvereinbarkeit | Unvereinbarkeit | Vereinbarkeit |
+| A 00-B99 (allgemein) | Infektionen Persönliche Einschränkungen | Bei fortbestehendem Risiko für rezidivierende Beeinträchtigungen oder wiederholte Infektionen | Keine Symptome, die das sichere Handeln beeinträchtigen Beschränkung 04 kann angezeigt sein |
+| D 50-89 nicht separat gelistet | Bluterkrankungen Unterschiedliche Blutungsneigung, mögliche Einschränkung der Belastbarkeit | Chronische Gerinnungsstörung | Beurteilung des Einzelfalls Beschränkung 04 kann angezeigt sein |
+| E 00-90 | Endokrine und Stoffwechselerkrankungen |  |  |
+| E 10 | Diabetes mellitus mit Insulin behandelt | Bei unzureichend kontrollierter Stoffwechselsituation oder fehlender TherapieadhärenzHypoglykämie in der Vorgeschichte oder fehlende HypoglykämiewahrnehmungBeeinträchtigung durch Komplikationen des Diabetes | Wenn Zustand stabil ist und keine Beeinträchtigungen durch Komplikationen vorliegen: ggf. tauglich mit einer zeitlichen Befristung von maximal 5 Jahren Beschränkung 04 kann angezeigt sein |
+| E 11-14 | Diabetes mellitus – nicht mit Insulin behandelt andere Medikation Progression hin zur Insulinbedürftigkeit/ -therapie, erhöhte Wahrscheinlichkeit für Komplikationen, die das Sehvermögen, das Nervensystem und das Herz-Kreislauf-System betreffen |  | Wenn Zustand stabil ist und keine Beeinträchtigungen durch Komplikationen vorliegen: ggf. tauglich mit einer zeitlichen Befristung von maximal 5 Jahren Beschränkung 04 kann angezeigt sein |
+| E 65-68 | Übergewicht/abnormales Körpergewicht – Über- oder Unterschreitung Risiko zu verunfallen sowie eingeschränkte Beweglichkeit und Belastbarkeit für die Ausführung von Routine- und Notfallaufgaben | Sicherheitsrelevante Aufgaben können nicht wahrgenommen werden | Anforderungen der sicherheitsrelevanten Pflichten können erfüllt werden Beschränkung 07 kann angezeigt sein |
+| E 00-90 nicht separat gelistet | Sonstige Endokrine und Stoffwechselerkrankungen erhebliche Störung der Drüsen mit innerer Sekretion, insbesondere der Schilddrüse, der Epithelkörperchen oder der Nebennieren | Bei fortbestehender Einschränkung, Notwendigkeit häufiger Anpassungen der Medikation oder erhöhter Wahrscheinlichkeit schwerer Komplikationen | Anforderungen der sicherheitsrelevanten Pflichten können erfüllt werden Beschränkung 07 kann angezeigt sein |
+| F 00-99 | Psychische, kognitive und Verhaltensstörungen |  |  |
+| F 10 | Alkoholmissbrauch (Abhängigkeit) Verhaltensauffälligkeiten, Rezidive, Unfälle | Wenn fortbestehend oder wenn Begleiterkrankungen bestehen, die sich aller Wahrscheinlichkeit nach auftreten werden | Bei Abstinenz: drei aufeinanderfolgende Jahre lang: tauglich mit einer zeitlichen Befristung von einem Jahr mit den Beschränkungen 04 Danach tauglich für einen Zeitraum von drei Jahren mit den Beschränkungen 04 und 05 Danach tauglich ohne Beschränkungen für aufeinanderfolgende Zeiträume von zwei, drei und fünf Jahren ohne Rückfall und ohne Begleiterkrankungen, wenn bei einem Bluttest am Ende jedes Zeitraums keine mit dem Missbrauch zusammenhängenden Auffälligkeiten festgestellt werden |
+| F 11-19 | Drogenabhängigkeit/anhaltender Substanzmissbrauch Rezidive, Unfälle, Verhaltensauffälligkeiten; schließt sowohl illegalen Drogenkonsum als auch Abhängigkeit von verschriebenen Medikamenten ein | Wenn fortbestehend oder wenn Begleiterkrankungen bestehen, die sich aller Wahrscheinlichkeit nach verschlechtern oder auftreten werden | Bei Abstinenz: drei aufeinanderfolgende Jahre lang: tauglich mit einer zeitlichen Befristung von einem Jahr mit der Beschränkung 04 Danach tauglich für einen Zeitraum von drei Jahren mit der Beschränkung 04 Danach tauglich ohne Beschränkungen für aufeinanderfolgende Zeiträume von zwei, drei und fünf Jahren ohne Rückfall und ohne Begleiterkrankungen, wenn bei einem Bluttest am Ende jedes Zeitraums keine mit dem Missbrauch zusammenhängende Auffälligkeiten festgestellt werden |
+| F 20-31 | Psychosen (akute) -organisch, schizophren oder andere Kategorien der ICD-Liste zugehörig. Bipolare Störungen (manisch-depressiv) Rezidive, die zu Veränderung der Wahrnehmung und des Denkens, zu Unfällen sowie auffälligem und riskantem Verhalten führen können | Nach einer einzigen Episode mit auslösenden Faktoren: bis drei Monate nach der Erstdiagnose Nach einer einzigen Episode ohne auslösende Faktoren oder mehr als einer Episode mit oder ohne auslösende Faktoren: bis zwei Jahre nach der letzten Episode Fortbestehende Wahrscheinlichkeit eines Rezidivs: Tauglichkeit nicht erfüllt | Wenn die Behandlung eingehalten wird und keine Nebenwirkungen der Medikation bestehen: tauglich, ggf. mit Beschränkung 04 Beschränkung nach 05 kann angezeigt sein Wenn während eines Zeitraums von zwei Jahren kein Rückfall aufgetreten ist und keine Medikation erforderlich war: tauglich, wenn ein Facharzt feststellt, dass die Ursache eindeutig als vorübergehend identifizierbar und ein Rückfall sehr unwahrscheinlich ist |
+| F 32-38 | Affektive Störungen Schwere Angstzustände, Depressionen oder jede andere psychische Störung, die die Leistung beeinträchtigen kann, Rezidiv, eingeschränkte Leistungsfähigkeit, insbesondere in Notfällen; Gefährdung des Fahrzeugs oder Dritter oder Selbstgefährdung kann nicht ausgeschlossen werden | Persistierende oder rezidivierende Symptome, die zu Beeinträchtigungen führen | Nach vollständiger Genesung und nach umfassender Beurteilung des Einzelfalls Wenn während eines Zeitraums von zwei Jahren kein Rückfall aufgetreten ist und keine Medikation erforderlich war: tauglich, wenn der Facharzt festgestellt hat, dass die Ursache eindeutig als vorübergehend identifizierbar und ein Rückfall sehr unwahrscheinlich ist Ggf. zeitliche Befristung: fünf Jahre Beschränkungen 04 und/oder 07 können angezeigt sein |
+| F 00-99 nicht separat gelistet | Andere Störungen z. B. Persönlichkeitsstörungen, Aufmerksamkeitsstörungen (ADHS), Entwicklungsstörungen (z. B. Autismus) | Sofern die Einschätzung besteht, dass sicherheitsrelevante Konsequenzen auftreten können | Sofern keine negativen Auswirkungen zu erwarten sind und eine Gefährdung ausgeschlossen werden kann |
+| G 00-99 | Krankheiten des Nervensystems |  |  |
+| G 40-41 | Epilepsie, Erkrankungen oder Schäden des zentralen Nervensystems mit wesentlichen Funktionsstörungen, insbesondere organische Krankheiten des Gehirns oder des Rückenmarks und deren Folgezustände, funktionelle Störungen nach Schädel- oder Hirnverletzungen, Hirndurchblutungsstörungen | Für die Dauer der Abklärung und ein Jahr nach dem letzten Anfall Wiederholte Anfälle, keine Kontrolle durch Medikation | Beurteilung des Einzelfalls auf der Grundlage der Anforderungen der Routine- und Notfallaufgaben, unter Berücksichtigung neurologisch- psychiatrischer fachärztlicher Empfehlung Ein Jahr nach dem Anfall, bei stabiler Medikation: tauglich, ggf. mit Beschränkung 04 Tauglich ohne Beschränkungen, sofern anfallsfrei und keine Einnahme von Medikamenten in den letzten zehn Jahren |
+| G 43 | Migräne, Anfälle mit einhergehender starker Beeinträchtigung des Allgemeinzustands | Häufige Anfälle, die zu starken Leistungseinschränkungen führen | Mit Beschränkung, sofern keine leistungseinschränkenden Auswirkungen zu erwarten sind |
+| G 47 | Schlafapnoe, Narkolepsie | Behandlung erfolglos oder wird nicht eingehalten | Wenn der Facharzt bestätigt, dass die Behandlung mindestens zwei Jahren vollständig kontrolliert wurde: tauglich, ggf. mit Beschränkung 04 |
+| G 00-99 nicht separat gelistet | Sonstige Erkrankungen des Nervensystems, z. B. Multiple Sklerose, Parkinson-Krankheit Rezidive/Progression, Einschränkungen von Muskelkraft, Gleichgewichtssinn, Koordination und Beweglichkeit | Wenn die Person nicht in der Lage ist die physischen Leistungsanforderungen zu erfüllen | Beurteilung des Einzelfalls auf der Grundlage der Anforderungen der Routine- und Notfallaufgaben, unter Berücksichtigung neurologisch- psychiatrischer fachärztlicher Empfehlungen |
+| H 00-99 | Erkrankungen der Augen und Ohren |  |  |
+| H 00-59 | Augenerkrankungen: fortschreitend oder wiederholt (z. B. Glaukom, Makulapathien, diabetische Retinopathie, Retinitis pigmentosa etc.) | Unfähigkeit, den einschlägigen Anforderungen an das Sehvermögen zu genügen | Sehr geringe Wahrscheinlichkeit, dass eine Verschlechterung in dem Maße eintritt, dass die Anforderungen an das Sehvermögen nicht mehr erfüllt werden Beschränkung 04 kann angezeigt sein |
+| H 68-95 | Krankheiten des Ohres: fortschreitend (z. B. Otosklerose) | Unfähigkeit, den einschlägigen Anforderungen an das Hörvermögen zu genügen | Sehr geringe Wahrscheinlichkeit, dass eine Verschlechterung in dem Maße eintritt, dass die Anforderungen an das Hörvermögen nicht mehr erfüllt werden Beschränkung 04 kann angezeigt sein |
+| H 81 | Ménière-Krankheiten und andere Formen von chronischem oder rezidivierendem stark beeinträchtigendem Schwindel | Häufige Anfälle, die zu starken Leistungseinschränkungen führen | Beurteilung des Einzelfalls Sehr geringe Wahrscheinlichkeit von Beeinträchtigungen auf Fahrzeugen |
+| I 00-99 nicht separat gelistet | Erkrankungen und/oder Veränderungen des Herzens und/oder des Kreislaufes mit Einschränkungen der Leistungs- bzw. Regulationsfähigkeit | Wenn die körperliche Belastbarkeit eingeschränkt ist oder Episoden mit starker Einschränkung der Leistungsfähigkeit auftreten oder bei Behandlung mit Antikoagulantien oder wenn auf Dauer eine erhöhte Wahrscheinlichkeit für das Auftreten einer Beeinträchtigung besteht | Beurteilung des Einzelfalls auf der Grundlage des Rates eines Kardiologen |
+| J 45-46 | Bronchialasthma mit Anfällen | Bei vorhersehbarem Risiko für das plötzliche Auftreten lebensbedrohlicher Asthmaanfälle oder mit der Vorgeschichte eines schlecht kontrollierten Asthmas, d. h. mit häufigen Behandlungen im Krankenhaus in der Vergangenheit | Beurteilung des Einzelfalls auf Grundlage des Rates eines Pneumologen |
+| K 00-99 nicht separat gelistet | Neigung zu Gallen- oder Nierenkoliken | Rezidivierende oder persistierende leistungsbeeinträchtigende Symptome | Beurteilung des Einzelfalls durch einen Facharzt Sehr geringe Wahrscheinlichkeit eines plötzlichen Auftretens einer Gallen- oder Nierenkolik |
+| Y 83.4 Z 97.1 | Missbildungen von Gliedmaßen oder Teilverlust von Gliedmaßen mit Beeinträchtigung der Greiffähigkeit und/oder der Stand- bzw. Gangsicherheit Einschränkungen der Mobilität mit Auswirkungen auf die Routine- und Notfallaufgaben | Wenn wesentliche Routinen nicht wahrgenommen werden können | Beurteilung des Einzelfalls durch einen Facharzt Beschränkung 03 kann angezeigt sein |
+|  | Sonstige Gesundheitsstörungen/medizinische Auffälligkeiten, die gegen eine Tauglichkeit sprechen könnten | Zur Beurteilung können Empfehlungen für ähnliche Krankheitsbilder genutzt werden Zu berücksichtigen sind eine erhöhte Wahrscheinlichkeit für das plötzliche Auftreten von Handlungsunfähigkeit, für das Auftreten von Rezidiven oder Progression der Erkrankung sowie Einschränkungen bei der Durchführung von Routine- und Notfallaufgaben. In Zweifelsfällen sollte der Rat von spezialisierten Ärzten eingeholt werden oder eine Beschränkung der Tauglichkeit oder der Verweis an einen Gutachter in Erwägung gezogen werden | Zur Beurteilung können Empfehlungen für ähnliche Krankheitsbilder genutzt werden Zu berücksichtigen sind eine erhöhte Wahrscheinlichkeit für das plötzliche Auftreten von Handlungsunfähigkeit, für das Auftreten von Rezidiven oder Progression der Erkrankung sowie Einschränkungen bei der Durchführung von Routine- und Notfallaufgaben. In Zweifelsfällen sollte der Rat von spezialisierten Ärzten eingeholt werden oder eine Beschränkung der Tauglichkeit oder der Verweis an einen Gutachter in Erwägung gezogen werden |
+Teil 2
+Relevante Kriterien in Bezug auf das Sehvermögen nach Diagnosecode H 00-59
+Mindestkriterien in Bezug auf das Sehvermögen
+1. Tagessehschärfe
+  Die Prüfung der Sehschärfe in der Ferne erfolgt durch einen Arzt oder Augenoptiker nach DIN 58220 Ausgabe September 2013.
+  Die Sehschärfe auf beiden Augen gemeinsam oder auf dem besseren Auge muss mit oder ohne Sehhilfe größer oder gleich 0,8 sein. Einäugiges Sehen ist erlaubt.
+  Offenkundiges Doppelsehen (Motilität), das nicht korrigiert werden kann, ist nicht erlaubt. Bei Einäugigkeit: normale Beweglichkeit des funktionstüchtigen Auges.
+  Beschränkung 01 kann angezeigt sein.
+2. Dämmerungssehvermögen:
+  Zu testen bei Glaukom, Netzhauterkrankungen oder Medientrübungen (z. B. Katarakt). Kontrastsehen bei 0,032 cd/m2 ohne Blendung; Testergebnis 1:2,7 oder besser, mit dem Mesotest überprüft.
+3. Gesichtsfeld:
+  Liegen anamnestische Hinweise auf Gesichtsfeldausfälle beispielsweise durch Vorerkrankungen oder Unfälle vor, ist es erforderlich das horizontale Gesichtsfeld daraufhin zu überprüfen, dass mindestens ein Auge den Sehschärfen-Standard erfüllt und den Sektor des nicht sehenden Auges tüchtig kompensiert.
+  Bei Glaukom oder Netzhautdystrophie oder wenn bei der Erstuntersuchung Anomalien erkannt werden, ist ein formeller Test durch einen Augenarzt erforderlich.
+4. Farbunterscheidungsvermögen
+  Das Farbunterscheidungsvermögen ist als ausreichend anzusehen, wenn der Bewerber den Test mittels 24 Ishihara-Farbtafeln mit maximal zwei Fehlern besteht. Alternativ kann einer der unten genannten, anerkannten alternativen Tests durchgeführt werden.
+  Im Zweifelsfall ist eine Prüfung mit dem Anomaloskop durchzuführen. Der mit dem Anomaloskop gemessene Anomal-Quotient muss zwischen 0,7 und 1,4 liegen und somit auf eine normale Trichromasie hindeuten. Ergibt die Untersuchung mit dem Anomaloskop oder einem anderen anerkannten gleichwertigen Test keine Farbentüchtigkeit, so ist eine Grünschwäche (Deuteranomalie) mit einem Anomalquotienten zwischen 1,4 und 6,0 zulässig.
+  Anerkannte, zu den Ishihara-Farbtafeln alternative Tests sind:
+  a) Velhagen/Broschmann (Ergebnis mit maximal zwei Fehlern);
+  b) Kuchenbecker-Broschmann (maximal zwei Fehler);
+  c) HRR (Ergebnis mindestens „leicht“);
+  d) TMC (Ergebnis mindestens „second degree“);
+  e) Holmer-Wright B (Ergebnis höchstens 8 Fehler bei „small“);
+  f) Farnsworth-Panel-D-15-Test (mindestens zu erreichendes Ergebnis: maximal eine diametrale Überschneidung im Diagramm der Anordnung der Farben);
+  g) Colour Assessment and Diagnostic Test (CAD) (Ergebnis mit maximal vier CAD-Einheiten).
+  Der Gebrauch von Filtergläsern als Sehhilfen für das Farbunterscheidungsvermögen, z. B. getönte Kontaktlinsen und Brille, ist nicht zulässig.
+Teil 3
+Relevante Kriterien in Bezug auf das Hörvermögen nach Diagnosecode H 68-95
+Mindestkriterien in Bezug auf das Hörvermögen
+Das Hörvermögen ist als ausreichend anzusehen, wenn Sprache mit oder ohne Hörhilfe in gewöhnlicher Lautstärke aus 3 Metern Entfernung mit dem jeweils dem Sprecher zugewandten Ohr und aus 5 Metern Entfernung mit beiden Ohren zugleich verstanden wird oder mindestens mit dem besseren Ohr mit oder ohne Hörhilfe Sprache in gewöhnlicher Lautstärke aus 5 Meter Entfernung verstanden wird.
+Beschränkung 02 kann angezeigt sein.

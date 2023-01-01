@@ -39,6 +39,6 @@ Abschnitt 5
 Schlussbestimmungen
 | § 27 | Verordnungsermächtigung |
 | § 28 | Bußgeldvorschriften |
-| § 29 | Verkündung von Rechtsverordnungen |
+| § 29 | (weggefallen) |
 | § 30 | Übergangsvorschriften |
 | Anlage | Liste über die Zuordnung der Stadt- und Landkreise zum städtischen oder ländlichen Raum |

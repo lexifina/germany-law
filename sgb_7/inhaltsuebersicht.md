@@ -234,6 +234,8 @@
 | § 134 | Zuständigkeit bei Berufskrankheiten |
 | § 135 | Versicherung nach mehreren Vorschriften |
 | § 136 | Bescheid über die Zuständigkeit, Begriff des Unternehmers |
+| § 136a | Unternehmernummer |
+| § 136b | Verarbeitung zu Zwecken des Unternehmensbasisdatenregisters |
 | § 137 | Wirkung von Zuständigkeitsänderungen |
 | § 138 | Unterrichtung der Versicherten |
 | § 139 | Vorläufige Zuständigkeit |
@@ -255,7 +257,7 @@
 | § 147 | Aufstellung und Änderung der Dienstordnung |
 | § 147a | Dienstbezüge der Geschäftsführer der gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau |
 | § 148 | Dienstrechtliche Vorschriften der Unfallversicherung Bund und Bahn |
-| § 149 | (weggefallen) |
+| § 149 | Dienstrechtliche Vorschriften für die gewerblichen Berufsgenossenschaften |
 | § 149a | (weggefallen) |
 |  |
 | Sechstes Kapitel |
@@ -290,11 +292,11 @@
 | § 166 | Auskunftspflicht der Unternehmer und Beitragsüberwachung |
 | § 167 | Beitragsberechnung |
 | § 168 | Beitragsbescheid |
-| § 169 | (weggefallen) |
+| § 169 | Erhebung von Säumniszuschlägen |
 | § 170 | Beitragszahlung an einen anderen Unfallversicherungsträger |
 |  |  |  |  |  | Fünfter Unterabschnitt |
 |  |  |  |  |  |  | Betriebsmittel, Rücklage und Verwaltungsvermögen |
-| § 171 | Mittel der Unfallversicherungsträger |
+| § 171 | (weggefallen) |
 | § 172 | Betriebsmittel |
 | § 172a | Rücklage |
 | § 172b | Verwaltungsvermögen |

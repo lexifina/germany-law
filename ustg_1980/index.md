@@ -87,7 +87,7 @@ Gegenständen](0004b.md)
 
 ## Sechster Abschnitt Sonderregelungen
 
-- [§ 23 Allgemeine Durchschnittsätze](0023.md)
+- [§ 23 (weggefallen)](0023.md)
 - [§ 23a Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes](0023a.md)
 - [§ 24 Durchschnittssätze für land- und forstwirtschaftliche Betriebe](0024.md)
 - [§ 25 Besteuerung von Reiseleistungen](0025.md)

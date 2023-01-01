@@ -1,4 +1,4 @@
-# Anlage 6 (zu § 7 Abs. 2 Satz 2)
+# Anlage 6 (zu § 7 Absatz 2 Satz 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2362 )
 Der Vorsitzende

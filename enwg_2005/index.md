@@ -77,7 +77,7 @@
 - [§ 13j Festlegungskompetenzen](0013j.md)
 - [§ 13k (weggefallen)](0013k.md)
 - [§ 14 Aufgaben der Betreiber von Elektrizitätsverteilernetzen](0014.md)
-- [§ 14a Steuerbare Verbrauchseinrichtungen in Niederspannung; Verordnungsermächtigung](0014a.md)
+- [§ 14a Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen](0014a.md)
 - [§ 14b Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung](0014b.md)
 - [§ 14c Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz](0014c.md)
 - [§ 14d Netzausbaupläne, Verordnungsermächtigung; Festlegungskompetenz](0014d.md)

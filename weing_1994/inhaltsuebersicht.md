@@ -102,7 +102,7 @@
 | 11.AbschnittSchlussbestimmungen |
 | § 53 | Rechtsverordnungen zur Durchführung des Gemeinschaftsrechts oder Unionsrecht |
 | § 54 | Übertragung von Ermächtigungen |
-| § 55 | Verkündung von Rechtsverordnungen |
+| § 55 | (weggefallen) |
 | § 56 | Übergangsregelungen |
 | § 57 | Fortbestehen anderer Vorschriften |
 | § 57a | Ermächtigung zur Aufhebung von Rechtsvorschriften |

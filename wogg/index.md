@@ -27,7 +27,7 @@
 - [§ 9 Miete](0009.md)
 - [§ 10 Belastung](0010.md)
 - [§ 11 Zu berücksichtigende Miete und Belastung](0011.md)
-- [§ 12 Höchstbeträge für Miete und Belastung, Beträge zur Entlastung bei den Heizkosten](0012.md)
+- [§ 12 Höchstbeträge für Miete und Belastung sowie Entlastung bei den Heizkosten und die Klimakomponente](0012.md)
 
 ### Kapitel 4 Einkommen
 
@@ -55,10 +55,12 @@
 - [§ 24 Wohngeldbehörde und Entscheidung](0024.md)
 - [§ 25 Bewilligungszeitraum](0025.md)
 - [§ 26 Zahlung des Wohngeldes](0026.md)
+- [§ 26a Vorläufige Zahlung des Wohngeldes](0026a.md)
 - [§ 27 Änderung des Wohngeldes](0027.md)
 - [§ 28 Unwirksamkeit des Bewilligungsbescheides und Wegfall des Wohngeldanspruchs](0028.md)
 - [§ 29 Haftung, Aufrechnung, Verrechnung und vorläufige Zahlungseinstellung](0029.md)
 - [§ 30 Rücküberweisung und Erstattung im Todesfall](0030.md)
+- [§ 30a Bagatellgrenze bei Rückforderungen](0030a.md)
 - [§ 31 Rücknahme eines rechtswidrigen nicht begünstigenden Wohngeldbescheides](0031.md)
 
 ## Teil 5 Kostentragung und Datenabgleich
@@ -86,6 +88,7 @@
 - [§ 42a Übergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur Änderung des Wohnraumförderungsgesetzes](0042a.md)
 - [§ 42b Übergangsregelung aus Anlass des Gesetzes zur Stärkung des Wohngeldes](0042b.md)
 - [§ 42c Übergangsregelung aus Anlass des Gesetzes zur Entlastung bei den Heizkosten im Wohngeld im Kontext der CO2-Bepreisung](0042c.md)
+- [§ 42d Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes](0042d.md)
 - [§ 43 Fortschreibung des Wohngeldes](0043.md)
 - [§ 44 Übergangsregelung bei Fortschreibung des Wohngeldes](0044.md)
 - [Anlage 1 (zu § 12 Absatz 1)](anlage-1.md)

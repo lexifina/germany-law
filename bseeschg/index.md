@@ -37,7 +37,7 @@
 - [§ 20](0020.md)
 - [§ 21](0021.md)
 - [§ 22](0022.md)
-- [§ 22a](0022a.md)
+- [§ 22a (weggefallen)](0022a.md)
 - [§ 22b](0022b.md)
 - [§ 23 (Inkrafttreten, Außerkrafttreten)](0023.md)
 - [Anlage (zu § 15 Absatz 1 Nummer 4 und 5, Absatz 4 und 5)](anlage.md)

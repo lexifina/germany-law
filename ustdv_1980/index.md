@@ -156,8 +156,8 @@ für land- und forstwirtschaftliche Betriebe](0067.md)
 
 ## - Zu § 23 des Gesetzes
 
-- [§ 69 Festsetzung allgemeiner Durchschnittssätze](0069.md)
-- [§ 70 Umfang der Durchschnittssätze](0070.md)
+- [§ 69 (weggefallen)](0069.md)
+- [§ 70 (weggefallen)](0070.md)
 
 ## - Zu § 24 Abs. 4 des Gesetzes
 
@@ -178,4 +178,4 @@ forstwirtschaftliche Betriebe](0071.md)
 - [§ 74a Übergangsvorschriften](0074a.md)
 - [§ 75 Berlin-Klausel](0075.md)
 - [§ 76](0076.md)
-- [Anlage (zu den §§ 69 und 70)](anlage.md)
+- [Anlage (weggefallen)](anlage.md)

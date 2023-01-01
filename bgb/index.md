@@ -2152,7 +2152,7 @@ Todeserklärung
 - [§ 1355 Ehename](1355.md)
 - [§ 1356 Haushaltsführung, Erwerbstätigkeit](1356.md)
 - [§ 1357 Geschäfte zur Deckung des Lebensbedarfs](1357.md)
-- [§ 1358](1358.md)
+- [§ 1358 Gegenseitige Vertretung von Ehegatten in Angelegenheiten der Gesundheitssorge](1358.md)
 - [§ 1359 Umfang der Sorgfaltspflicht](1359.md)
 - [§ 1360 Verpflichtung zum Familienunterhalt](1360.md)
 - [§ 1360a Umfang der Unterhaltspflicht](1360a.md)
@@ -2206,7 +2206,7 @@ Todeserklärung
 - [§ 1409 Beschränkung der Vertragsfreiheit](1409.md)
 - [§ 1410 Form](1410.md)
 - [§ 1411 Eheverträge Betreuter](1411.md)
-- [§ 1412 Wirkung gegenüber Dritten](1412.md)
+- [§ 1412 Wirkungen gegenüber Dritten](1412.md)
 - [§ 1413 Widerruf der Überlassung der Vermögensverwaltung](1413.md)
 
 ##### Kapitel 2 Gütertrennung
@@ -2242,7 +2242,7 @@ Todeserklärung
 - [§ 1433 Fortsetzung eines Rechtsstreits](1433.md)
 - [§ 1434 Ungerechtfertigte Bereicherung des Gesamtguts](1434.md)
 - [§ 1435 Pflichten des Verwalters](1435.md)
-- [§ 1436 Verwalter unter Betreuung](1436.md)
+- [§ 1436 Verwaltung durch einen Betreuer](1436.md)
 - [§ 1437 Gesamtgutsverbindlichkeiten; persönliche Haftung](1437.md)
 - [§ 1438 Haftung des Gesamtguts](1438.md)
 - [§ 1439 Keine Haftung bei Erwerb einer Erbschaft](1439.md)
@@ -2341,14 +2341,9 @@ des Gesamtguts durch die Ehegatten
 - [§ 1519 Vereinbarung durch Ehevertrag](1519.md)
 - [(XXXX) §§ 1520 bis 1557 (weggefallen)](xxxx-1520-bis-1557.md)
 
-##### Untertitel 3 Güterrechtsregister
+##### Untertitel 3 (weggefallen)
 
-- [§ 1558 Zuständiges Registergericht](1558.md)
-- [§ 1559 Verlegung des gewöhnlichen Aufenthalts](1559.md)
-- [§ 1560 Antrag auf Eintragung](1560.md)
-- [§ 1561 Antragserfordernisse](1561.md)
-- [§ 1562 Öffentliche Bekanntmachung](1562.md)
-- [§ 1563 Registereinsicht; Anwendung der Verordnung (EU) 2016/679 im Registerverfahren](1563.md)
+- [(XXXX) §§ 1558 bis 1563 (weggefallen)](xxxx-1558-bis-1563.md)
 
 #### Titel 7 Scheidung der Ehe
 
@@ -2524,9 +2519,9 @@ der Eltern](1628.md)
 - [§ 1640 Vermögensverzeichnis](1640.md)
 - [§ 1641 Schenkungsverbot](1641.md)
 - [§ 1642 Anlegung von Geld](1642.md)
-- [§ 1643 Genehmigungspflichtige Rechtsgeschäfte](1643.md)
-- [§ 1644 Überlassung von Vermögensgegenständen an das Kind](1644.md)
-- [§ 1645 Neues Erwerbsgeschäft](1645.md)
+- [§ 1643 Genehmigungsbedürftige Rechtsgeschäfte](1643.md)
+- [§ 1644 Ergänzende Vorschriften für genehmigungsbedürftige Rechtsgeschäfte](1644.md)
+- [§ 1645 Anzeigepflicht für Erwerbsgeschäfte](1645.md)
 - [§ 1646 Erwerb mit Mitteln des Kindes](1646.md)
 - [§ 1647](1647.md)
 - [§ 1648 Ersatz von Aufwendungen](1648.md)
@@ -2542,7 +2537,7 @@ der Eltern](1628.md)
 - [§ 1672 (weggefallen)](1672.md)
 - [§ 1673 Ruhen der elterlichen Sorge bei rechtlichem Hindernis](1673.md)
 - [§ 1674 Ruhen der elterlichen Sorge bei tatsächlichem Hindernis](1674.md)
-- [§ 1674a Ruhen der elterlichen Sorge der Mutter für ein vertraulich geborenes Kind](1674a.md)
+- [§ 1674a Ruhen der elterlichen Sorge für ein vertraulich geborenes Kind](1674a.md)
 - [§ 1675 Wirkung des Ruhens](1675.md)
 - [§ 1676](1676.md)
 - [§ 1677 Beendigung der Sorge durch Todeserklärung](1677.md)
@@ -2624,8 +2619,7 @@ der elterlichen Sorge](1698a.md)
 - [§ 1771 Aufhebung des Annahmeverhältnisses](1771.md)
 - [§ 1772 Annahme mit den Wirkungen der Minderjährigenannahme](1772.md)
 
-### Abschnitt 3 Vormundschaft, Rechtliche
-Betreuung, Pflegschaft
+### Abschnitt 3 Vormundschaft, Pflegschaft für Minderjährige, rechtliche Betreuung, sonstige Pflegschaft
 
 
 #### Titel 1 Vormundschaft
@@ -2633,176 +2627,207 @@ Betreuung, Pflegschaft
 
 ##### Untertitel 1 Begründung der Vormundschaft
 
-- [§ 1773 Voraussetzungen](1773.md)
-- [§ 1774 Anordnung von Amts wegen](1774.md)
+
+##### Kapitel 1 Bestellte Vormundschaft
+
+
+##### Unterkapitel 1 Allgemeine Vorschriften
+
+- [§ 1773 Voraussetzungen der Vormundschaft; Bestellung des Vormunds](1773.md)
+- [§ 1774 Vormund](1774.md)
 - [§ 1775 Mehrere Vormünder](1775.md)
-- [§ 1776 Benennungsrecht der Eltern](1776.md)
-- [§ 1777 Voraussetzungen des Benennungsrechts](1777.md)
-- [§ 1778 Übergehen des benannten Vormunds](1778.md)
-- [§ 1779 Auswahl durch das Familiengericht](1779.md)
-- [§ 1780 Unfähigkeit zur Vormundschaft](1780.md)
-- [§ 1781 Untauglichkeit zur Vormundschaft](1781.md)
-- [§ 1782 Ausschluss durch die Eltern](1782.md)
-- [§ 1783](1783.md)
-- [§ 1784 Beamter oder Religionsdiener als Vormund](1784.md)
-- [§ 1785 Übernahmepflicht](1785.md)
-- [§ 1786 Ablehnungsrecht](1786.md)
-- [§ 1787 Folgen der unbegründeten Ablehnung](1787.md)
-- [§ 1788 Zwangsgeld](1788.md)
-- [§ 1789 Bestellung durch das Familiengericht](1789.md)
-- [§ 1790 Bestellung unter Vorbehalt](1790.md)
-- [§ 1791 Bestallungsurkunde](1791.md)
-- [§ 1791a Vereinsvormundschaft](1791a.md)
-- [§ 1791b Bestellte Amtsvormundschaft des Jugendamts](1791b.md)
-- [§ 1791c Gesetzliche Amtsvormundschaft des Jugendamts](1791c.md)
-- [§ 1792 Gegenvormund](1792.md)
+- [§ 1776 Zusätzlicher Pfleger](1776.md)
+- [§ 1777 Übertragung von Sorgeangelegenheiten auf die Pflegeperson als Pfleger](1777.md)
+
+##### Unterkapitel 2 Auswahl des Vormunds
+
+- [§ 1778 Auswahl des Vormunds durch das Familiengericht](1778.md)
+- [§ 1779 Eignung der Person; Vorrang des ehrenamtlichen Vormunds](1779.md)
+- [§ 1780 Berücksichtigung der beruflichen Belastung des Berufs- und Vereinsvormunds](1780.md)
+- [§ 1781 Bestellung eines vorläufigen Vormunds](1781.md)
+- [§ 1782 Benennung und Ausschluss als Vormund durch die Eltern](1782.md)
+- [§ 1783 Übergehen der benannten Person](1783.md)
+- [§ 1784 Ausschlussgründe](1784.md)
+- [§ 1785 Übernahmepflicht; weitere Bestellungsvoraussetzungen](1785.md)
+
+##### Kapitel 2 Gesetzliche Amtsvormundschaft
+
+- [§ 1786 Amtsvormundschaft bei Fehlen eines sorgeberechtigten Elternteils](1786.md)
+- [§ 1787 Amtsvormundschaft bei vertraulicher Geburt](1787.md)
 
 ##### Untertitel 2 Führung der Vormundschaft
 
-- [§ 1793 Aufgaben des Vormunds, Haftung des Mündels](1793.md)
-- [§ 1794 Beschränkung durch Pflegschaft](1794.md)
-- [§ 1795 Ausschluss der Vertretungsmacht](1795.md)
-- [§ 1796 Entziehung der Vertretungsmacht](1796.md)
-- [§ 1797 Mehrere Vormünder](1797.md)
-- [§ 1798 Meinungsverschiedenheiten](1798.md)
-- [§ 1799 Pflichten und Rechte des Gegenvormunds](1799.md)
-- [§ 1800 Umfang der Personensorge](1800.md)
-- [§ 1801 Religiöse Erziehung](1801.md)
-- [§ 1802 Vermögensverzeichnis](1802.md)
-- [§ 1803 Vermögensverwaltung bei Erbschaft oder Schenkung](1803.md)
-- [§ 1804 Schenkungen des Vormunds](1804.md)
-- [§ 1805 Verwendung für den Vormund](1805.md)
-- [§ 1806 Anlegung von Mündelgeld](1806.md)
-- [§ 1807 Art der Anlegung](1807.md)
-- [§ 1808](1808.md)
-- [§ 1809 Anlegung mit Sperrvermerk](1809.md)
-- [§ 1810 Mitwirkung von Gegenvormund oder Familiengericht](1810.md)
-- [§ 1811 Andere Anlegung](1811.md)
-- [§ 1812 Verfügungen über Forderungen und Wertpapiere](1812.md)
-- [§ 1813 Genehmigungsfreie Geschäfte](1813.md)
-- [§ 1814 Hinterlegung von Inhaberpapieren](1814.md)
-- [§ 1815 Umschreibung und Umwandlung von Inhaberpapieren](1815.md)
-- [§ 1816 Sperrung von Buchforderungen](1816.md)
-- [§ 1817 Befreiung](1817.md)
-- [§ 1818 Anordnung der Hinterlegung](1818.md)
-- [§ 1819 Genehmigung bei Hinterlegung](1819.md)
-- [§ 1820 Genehmigung nach Umschreibung und Umwandlung](1820.md)
-- [§ 1821 Genehmigung für Geschäfte über Grundstücke, Schiffe oder Schiffsbauwerke](1821.md)
-- [§ 1822 Genehmigung für sonstige Geschäfte](1822.md)
-- [§ 1823 Genehmigung bei einem Erwerbsgeschäft des Mündels](1823.md)
-- [§ 1824 Genehmigung für die Überlassung von Gegenständen an den Mündel](1824.md)
-- [§ 1825 Allgemeine Ermächtigung](1825.md)
-- [§ 1826 Anhörung des Gegenvormunds vor Erteilung der Genehmigung](1826.md)
-- [§ 1827](1827.md)
-- [§ 1828 Erklärung der Genehmigung](1828.md)
-- [§ 1829 Nachträgliche Genehmigung](1829.md)
-- [§ 1830 Widerrufsrecht des Geschäftspartners](1830.md)
-- [§ 1831 Einseitiges Rechtsgeschäft ohne Genehmigung](1831.md)
-- [§ 1832 Genehmigung des Gegenvormunds](1832.md)
-- [§ 1833 Haftung des Vormunds](1833.md)
-- [§ 1834 Verzinsungspflicht](1834.md)
-- [§ 1835 Aufwendungsersatz](1835.md)
-- [§ 1835a Aufwandsentschädigung](1835a.md)
-- [§ 1836 Vergütung des Vormunds](1836.md)
-- [(XXXX) §§ 1836a und 1836b (weggefallen)](xxxx-1836a-und-1836b.md)
-- [§ 1836c Einzusetzende Mittel des Mündels](1836c.md)
-- [§ 1836d Mittellosigkeit des Mündels](1836d.md)
-- [§ 1836e Gesetzlicher Forderungsübergang](1836e.md)
 
-##### Untertitel 3 Fürsorge und Aufsicht des Familiengerichts
+##### Kapitel 1 Allgemeine Vorschriften
 
-- [§ 1837 Beratung und Aufsicht](1837.md)
-- [§ 1838](1838.md)
-- [§ 1839 Auskunftspflicht des Vormunds](1839.md)
-- [§ 1840 Bericht und Rechnungslegung](1840.md)
-- [§ 1841 Inhalt der Rechnungslegung](1841.md)
-- [§ 1842 Mitwirkung des Gegenvormunds](1842.md)
-- [§ 1843 Prüfung durch das Familiengericht](1843.md)
-- [§ 1844](1844.md)
-- [§ 1845 (weggefallen)](1845.md)
-- [§ 1846 Einstweilige Maßregeln des Familiengerichts](1846.md)
-- [§ 1847 Anhörung der Angehörigen](1847.md)
-- [§ 1848](1848.md)
+- [§ 1788 Rechte des Mündels](1788.md)
+- [§ 1789 Sorge des Vormunds; Vertretung und Haftung des Mündels](1789.md)
+- [§ 1790 Amtsführung des Vormunds; Auskunftspflicht](1790.md)
+- [§ 1791 Aufnahme des Mündels in den Haushalt des Vormunds](1791.md)
+- [§ 1792 Gemeinschaftliche Führung der Vormundschaft, Zusammenarbeit von Vormund und Pfleger](1792.md)
+- [§ 1793 Entscheidung bei Meinungsverschiedenheiten](1793.md)
+- [§ 1794 Haftung des Vormunds](1794.md)
 
-##### Untertitel 4 Mitwirkung des Jugendamts
+##### Kapitel 2 Personensorge
 
-- [(XXXX) §§ 1849 und 1850 (weggefallen)](xxxx-1849-und-1850.md)
-- [§ 1851 Mitteilungspflichten](1851.md)
+- [§ 1795 Gegenstand der Personensorge; Genehmigungspflichten](1795.md)
+- [§ 1796 Verhältnis zwischen Vormund und Pflegeperson](1796.md)
+- [§ 1797 Entscheidungsbefugnis der Pflegeperson](1797.md)
 
-##### Untertitel 5 Befreite Vormundschaft
+##### Kapitel 3 Vermögenssorge
 
-- [§ 1852 Befreiung durch den Vater](1852.md)
-- [§ 1853 Befreiung von Hinterlegung und Sperrung](1853.md)
-- [§ 1854 Befreiung von der Rechnungslegungspflicht](1854.md)
-- [§ 1855 Befreiung durch die Mutter](1855.md)
-- [§ 1856 Voraussetzungen der Befreiung](1856.md)
-- [§ 1857 Aufhebung der Befreiung durch das Familiengericht](1857.md)
-- [§ 1857a Befreiung des Jugendamts und des Vereins](1857a.md)
-- [(XXXX) §§ 1858 bis 1881 (weggefallen)](xxxx-1858-bis-1881.md)
+- [§ 1798 Grundsätze und Pflichten des Vormunds in der Vermögenssorge](1798.md)
+- [§ 1799 Genehmigungsbedürftige Rechtsgeschäfte](1799.md)
+- [§ 1800 Erteilung der Genehmigung](1800.md)
+- [§ 1801 Befreite Vormundschaft](1801.md)
 
-##### Untertitel 6 Beendigung der Vormundschaft
+##### Untertitel 3 Beratung und Aufsicht durch das Familiengericht
 
-- [§ 1882 Wegfall der Voraussetzungen](1882.md)
-- [§ 1883](1883.md)
-- [§ 1884 Verschollenheit und Todeserklärung des Mündels](1884.md)
-- [§ 1885](1885.md)
-- [§ 1886 Entlassung des Einzelvormunds](1886.md)
-- [§ 1887 Entlassung des Jugendamts oder Vereins](1887.md)
-- [§ 1888 Entlassung von Beamten und Religionsdienern](1888.md)
-- [§ 1889 Entlassung auf eigenen Antrag](1889.md)
-- [§ 1890 Vermögensherausgabe und Rechnungslegung](1890.md)
-- [§ 1891 Mitwirkung des Gegenvormunds](1891.md)
-- [§ 1892 Rechnungsprüfung und -anerkennung](1892.md)
-- [§ 1893 Fortführung der Geschäfte nach Beendigung der Vormundschaft, Rückgabe von Urkunden](1893.md)
-- [§ 1894 Anzeige bei Tod des Vormunds](1894.md)
-- [§ 1895 Amtsende des Gegenvormunds](1895.md)
+- [§ 1802 Allgemeine Vorschriften](1802.md)
+- [§ 1803 Persönliche Anhörung; Besprechung mit dem Mündel](1803.md)
 
-#### Titel 2 Rechtliche Betreuung
+##### Untertitel 4 Beendigung der Vormundschaft
 
-- [§ 1896 Voraussetzungen](1896.md)
-- [§ 1897 Bestellung einer natürlichen Person](1897.md)
-- [§ 1898 Übernahmepflicht](1898.md)
-- [§ 1899 Mehrere Betreuer](1899.md)
-- [§ 1900 Betreuung durch Verein oder Behörde](1900.md)
-- [§ 1901 Umfang der Betreuung, Pflichten des Betreuers](1901.md)
-- [§ 1901a Patientenverfügung](1901a.md)
-- [§ 1901b Gespräch zur Feststellung des Patientenwillens](1901b.md)
-- [§ 1901c Schriftliche Betreuungswünsche, Vorsorgevollmacht](1901c.md)
-- [§ 1902 Vertretung des Betreuten](1902.md)
-- [§ 1903 Einwilligungsvorbehalt](1903.md)
-- [§ 1904 Genehmigung des Betreuungsgerichts bei ärztlichen Maßnahmen](1904.md)
-- [§ 1905 Sterilisation](1905.md)
-- [§ 1906 Genehmigung des Betreuungsgerichts bei freiheitsentziehender Unterbringung und bei freiheitsentziehenden Maßnahmen](1906.md)
-- [§ 1906a Genehmigung des Betreuungsgerichts bei ärztlichen Zwangsmaßnahmen](1906a.md)
-- [§ 1907 Genehmigung des Betreuungsgerichts bei der Aufgabe der Mietwohnung](1907.md)
-- [§ 1908 Genehmigung des Betreuungsgerichts bei der Ausstattung](1908.md)
-- [§ 1908a Vorsorgliche Betreuerbestellung und Anordnung des
-Einwilligungsvorbehalts für Minderjährige](1908a.md)
-- [§ 1908b Entlassung des Betreuers](1908b.md)
-- [§ 1908c Bestellung eines neuen Betreuers](1908c.md)
-- [§ 1908d Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt](1908d.md)
-- [§ 1908e](1908e.md)
-- [§ 1908f Anerkennung als Betreuungsverein](1908f.md)
-- [§ 1908g Behördenbetreuer](1908g.md)
-- [§ 1908h](1908h.md)
-- [§ 1908i Entsprechend anwendbare Vorschriften](1908i.md)
-- [§ 1908k](1908k.md)
+- [§ 1804 Entlassung des Vormunds](1804.md)
+- [§ 1805 Bestellung eines neuen Vormunds](1805.md)
+- [§ 1806 Ende der Vormundschaft](1806.md)
+- [§ 1807 Vermögensherausgabe, Schlussrechnungslegung und Fortführung der Geschäfte](1807.md)
 
-#### Titel 3 Pflegschaft
+##### Untertitel 5 Vergütung und Aufwendungsersatz
 
-- [§ 1909 Ergänzungspflegschaft](1909.md)
-- [§ 1910](1910.md)
-- [§ 1911 Abwesenheitspflegschaft](1911.md)
-- [§ 1912 Pflegschaft für eine Leibesfrucht](1912.md)
-- [§ 1913 Pflegschaft für unbekannte Beteiligte](1913.md)
-- [§ 1914 Pflegschaft für gesammeltes Vermögen](1914.md)
-- [§ 1915 Anwendung des Vormundschaftsrechts](1915.md)
-- [§ 1916 Berufung als Ergänzungspfleger](1916.md)
-- [§ 1917 Ernennung des Ergänzungspflegers durch Erblasser und Dritte](1917.md)
-- [§ 1918 Ende der Pflegschaft kraft Gesetzes](1918.md)
-- [§ 1919 Aufhebung der Pflegschaft bei Wegfall des Grundes](1919.md)
-- [§ 1920](1920.md)
-- [§ 1921 Aufhebung der Abwesenheitspflegschaft](1921.md)
+- [§ 1808 Vergütung und Aufwendungsersatz](1808.md)
+
+#### Titel 2 Pflegschaft für Minderjährige
+
+- [§ 1809 Ergänzungspflegschaft](1809.md)
+- [§ 1810 Pflegschaft für ein ungeborenes Kind](1810.md)
+- [§ 1811 Zuwendungspflegschaft](1811.md)
+- [§ 1812 Aufhebung und Ende der Pflegschaft](1812.md)
+- [§ 1813 Anwendung des Vormundschaftsrechts](1813.md)
+
+#### Titel 3 Rechtliche Betreuung
+
+
+##### Untertitel 1 Betreuerbestellung
+
+- [§ 1814 Voraussetzungen](1814.md)
+- [§ 1815 Umfang der Betreuung](1815.md)
+- [§ 1816 Eignung und Auswahl des Betreuers; Berücksichtigung der Wünsche des Volljährigen](1816.md)
+- [§ 1817 Mehrere Betreuer; Verhinderungsbetreuer; Ergänzungsbetreuer](1817.md)
+- [§ 1818 Betreuung durch Betreuungsverein oder Betreuungsbehörde](1818.md)
+- [§ 1819 Übernahmepflicht; weitere Bestellungsvoraussetzungen](1819.md)
+- [§ 1820 Vorsorgevollmacht und Kontrollbetreuung](1820.md)
+
+##### Untertitel 2 Führung der Betreuung
+
+
+##### Kapitel 1 Allgemeine Vorschriften
+
+- [§ 1821 Pflichten des Betreuers; Wünsche des Betreuten](1821.md)
+- [§ 1822 Auskunftspflicht gegenüber nahestehenden Angehörigen](1822.md)
+- [§ 1823 Vertretungsmacht des Betreuers](1823.md)
+- [§ 1824 Ausschluss der Vertretungsmacht](1824.md)
+- [§ 1825 Einwilligungsvorbehalt](1825.md)
+- [§ 1826 Haftung des Betreuers](1826.md)
+
+##### Kapitel 2 Personenangelegenheiten
+
+- [§ 1827 Patientenverfügung; Behandlungswünsche oder mutmaßlicher Wille des Betreuten](1827.md)
+- [§ 1828 Gespräch zur Feststellung des Patientenwillens](1828.md)
+- [§ 1829 Genehmigung des Betreuungsgerichts bei ärztlichen Maßnahmen](1829.md)
+- [§ 1830 Sterilisation](1830.md)
+- [§ 1831 Freiheitsentziehende Unterbringung und freiheitsentziehende Maßnahmen](1831.md)
+- [§ 1832 Ärztliche Zwangsmaßnahmen](1832.md)
+- [§ 1833 Aufgabe von Wohnraum des Betreuten](1833.md)
+- [§ 1834 Bestimmung des Umgangs und des Aufenthalts des Betreuten](1834.md)
+
+##### Kapitel 3 Vermögensangelegenheiten
+
+
+##### Unterkapitel 1 Allgemeine Vorschriften
+
+- [§ 1835 Vermögensverzeichnis](1835.md)
+- [§ 1836 Trennungsgebot; Verwendung des Vermögens für den Betreuer](1836.md)
+- [§ 1837 Vermögensverwaltung durch den Betreuer bei Erbschaft und Schenkung](1837.md)
+
+##### Unterkapitel 2 Verwaltung von Geld, Wertpapieren und Wertgegenständen
+
+- [§ 1838 Pflichten des Betreuers in Vermögensangelegenheiten](1838.md)
+- [§ 1839 Bereithaltung von Verfügungsgeld](1839.md)
+- [§ 1840 Bargeldloser Zahlungsverkehr](1840.md)
+- [§ 1841 Anlagepflicht](1841.md)
+- [§ 1842 Voraussetzungen für das Kreditinstitut](1842.md)
+- [§ 1843 Depotverwahrung und Hinterlegung von Wertpapieren](1843.md)
+- [§ 1844 Hinterlegung von Wertgegenständen auf Anordnung des Betreuungsgerichts](1844.md)
+- [§ 1845 Sperrvereinbarung](1845.md)
+
+##### Unterkapitel 3 Anzeigepflichten
+
+- [§ 1846 Anzeigepflichten bei der Geld- und Vermögensverwaltung](1846.md)
+- [§ 1847 Anzeigepflicht für Erwerbsgeschäfte](1847.md)
+
+##### Unterkapitel 4 Genehmigungsbedürftige Rechtsgeschäfte
+
+- [§ 1848 Genehmigung einer anderen Anlegung von Geld](1848.md)
+- [§ 1849 Genehmigung bei Verfügung über Rechte und Wertpapiere](1849.md)
+- [§ 1850 Genehmigung für Rechtsgeschäfte über Grundstücke und Schiffe](1850.md)
+- [§ 1851 Genehmigung für erbrechtliche Rechtsgeschäfte](1851.md)
+- [§ 1852 Genehmigung für handels- und gesellschaftsrechtliche Rechtsgeschäfte](1852.md)
+- [§ 1853 Genehmigung bei Verträgen über wiederkehrende Leistungen](1853.md)
+- [§ 1854 Genehmigung für sonstige Rechtsgeschäfte](1854.md)
+
+##### Unterkapitel 5 Genehmigungserklärung
+
+- [§ 1855 Erklärung der Genehmigung](1855.md)
+- [§ 1856 Nachträgliche Genehmigung](1856.md)
+- [§ 1857 Widerrufsrecht des Vertragspartners](1857.md)
+- [§ 1858 Einseitiges Rechtsgeschäft](1858.md)
+
+##### Unterkapitel 6 Befreiungen
+
+- [§ 1859 Gesetzliche Befreiungen](1859.md)
+- [§ 1860 Befreiungen auf Anordnung des Gerichts](1860.md)
+
+##### Untertitel 3 Beratung und Aufsicht durch das Betreuungsgericht
+
+- [§ 1861 Beratung; Verpflichtung des Betreuers](1861.md)
+- [§ 1862 Aufsicht durch das Betreuungsgericht](1862.md)
+- [§ 1863 Berichte über die persönlichen Verhältnisse des Betreuten](1863.md)
+- [§ 1864 Auskunfts- und Mitteilungspflichten des Betreuers](1864.md)
+- [§ 1865 Rechnungslegung](1865.md)
+- [§ 1866 Prüfung der Rechnung durch das Betreuungsgericht](1866.md)
+- [§ 1867 Einstweilige Maßnahmen des Betreuungsgerichts](1867.md)
+
+##### Untertitel 4 Beendigung, Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt
+
+- [§ 1868 Entlassung des Betreuers](1868.md)
+- [§ 1869 Bestellung eines neuen Betreuers](1869.md)
+- [§ 1870 Ende der Betreuung](1870.md)
+- [§ 1871 Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt](1871.md)
+- [§ 1872 Herausgabe von Vermögen und Unterlagen; Schlussrechnungslegung](1872.md)
+- [§ 1873 Rechnungsprüfung](1873.md)
+- [§ 1874 Besorgung der Angelegenheiten des Betreuten nach Beendigung der Betreuung](1874.md)
+
+##### Untertitel 5 Vergütung und Aufwendungsersatz
+
+- [§ 1875 Vergütung und Aufwendungsersatz](1875.md)
+- [§ 1876 Vergütung](1876.md)
+- [§ 1877 Aufwendungsersatz](1877.md)
+- [§ 1878 Aufwandspauschale](1878.md)
+- [§ 1879 Zahlung aus der Staatskasse](1879.md)
+- [§ 1880 Mittellosigkeit des Betreuten](1880.md)
+- [§ 1881 Gesetzlicher Forderungsübergang](1881.md)
+
+#### Titel 4 Sonstige Pflegschaft
+
+- [§ 1882 Pflegschaft für unbekannte Beteiligte](1882.md)
+- [§ 1883 Pflegschaft für gesammeltes Vermögen](1883.md)
+- [§ 1884 Abwesenheitspflegschaft](1884.md)
+- [§ 1885 Bestellung des sonstigen Pflegers](1885.md)
+- [§ 1886 Aufhebung der Pflegschaft](1886.md)
+- [§ 1887 Ende der Pflegschaft kraft Gesetzes](1887.md)
+- [§ 1888 Anwendung des Betreuungsrechts](1888.md)
+- [(XXXX) §§ 1889 bis 1921 (weggefallen)](xxxx-1889-bis-1921.md)
 
 ## Buch 5 Erbrecht
 

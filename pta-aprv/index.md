@@ -8,8 +8,9 @@
 - [§ 2 Staatliche Prüfung](0002.md)
 - [§ 3 Prüfungsausschuß](0003.md)
 - [§ 4 Zulassung zur Prüfung](0004.md)
+- [§ 4a Nachteilsausgleich](0004a.md)
 - [§ 5 Niederschrift](0005.md)
-- [§ 6 Benotung](0006.md)
+- [§ 6 (weggefallen)](0006.md)
 - [§ 7 Bestehen und Wiederholung der Prüfung](0007.md)
 - [§ 8 Rücktritt von der Prüfung](0008.md)
 - [§ 9 Versäumnisfolgen](0009.md)
@@ -28,30 +29,33 @@ Ausbildung zu pharmazeutisch-technischen Assistenten
 
 - [§ 15 Apothekenpraxis](0015.md)
 
-## Abschnitt 4 Anrechnungs- und Anerkennungsvorschriften
+## Abschnitt 4 Grundsätze und Systematik der Notenbildung
 
-- [§ 16 Anrechnungsfähige Ausbildungszeiten und Prüfungen](0016.md)
-- [§ 17 Fehlzeiten](0017.md)
+- [§ 15a Benotung](0015a.md)
+- [§ 15b Vornoten](0015b.md)
+- [§ 15c Prüfungsnoten](0015c.md)
+- [§ 15d Gesamtnote](0015d.md)
+- [(XXXX) §§ 16 und 17 (weggefallen)](xxxx-16-und-17.md)
 
-## Abschnitt 4a Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem Mitglied staat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Drittstaat
+## Abschnitt 5 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem Mitglied staat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Drittstaat
 
 - [§ 18 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben](0018.md)
 - [§ 18a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum](0018a.md)
 - [§ 18b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat](0018b.md)
 - [§ 18c Fristen, Bescheide, Durchführungsbestimmungen](0018c.md)
 
-## Abschnitt 5 Übergangs- und Schlußvorschriften
+## Abschnitt 6 Übergangs- und Schlußvorschriften
 
 - [§ 19 Übergangsvorschriften](0019.md)
 - [§ 20 Inkrafttreten, Außerkrafttreten](0020.md)
 - [Schlußformel](schlussformel.md)
-- [Anlage 1 (zu § 1 Abs. 2 Satz 1)](anlage-1.md)
-- [Anlage 2 (zu § 1 Abs. 2 Satz 2)](anlage-2.md)
+- [Anlage 1 (zu § 1 Absatz 2 Satz 1 und 3 und Absatz 4 Satz 1)](anlage-1.md)
+- [Anlage 2 (zu § 1 Absatz 2 Satz 4)](anlage-2.md)
 - [Anlage 3 (zu § 1 Abs. 3 Satz 3)](anlage-3.md)
 - [Anlage 4 (zu § 1 Abs. 4 Satz 5)](anlage-4.md)
 - [Anlage 5 (zu § 7 Abs. 2 Satz 1)](anlage-5.md)
-- [Anlage 6 (zu § 7 Abs. 2 Satz 2)](anlage-6.md)
-- [Anlage 7 (zu § 7 Abs. 3 Satz 3)](anlage-7.md)
+- [Anlage 6 (zu § 7 Absatz 2 Satz 3)](anlage-6.md)
+- [Anlage 7 (zu § 15d Absatz 4)](anlage-7.md)
 - [Anlage 7a (zu § 18a Absatz 2)](anlage-7a.md)
 - [Anlage 7b (zu § 18a Absatz 3)](anlage-7b.md)
 - [Anlage 8 (zu § 18b Absatz 2)](anlage-8.md)

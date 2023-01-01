@@ -131,8 +131,8 @@ Ordentliche Gerichtsbarkeit und Staatsanwaltschaften
 |  |  | b) | Handelsregisterakten | 10 Jahre |  |
 | 1114.2 | PR | a) | Partnerschaftsregister | dauernd |  |
 |  |  | b) | Partnerschaftsregisterakten | 10 Jahre |  |
-| 1114.3 | GR | a) | Güterrechtsregister | 130 Jahre |  |
-|  |  | b) | die zum Güterrechtsregister gehörenden Akten | 70 Jahre vom Zeitpunkt der Eintragung an |  |
+| 1114.3 | GR | a) | Güterrechtsregister | 130 Jahre, längstens bis zum 31. Dezember 2037 |  |
+|  |  | b) | die zum Güterrechtsregister gehörenden Akten | 70 Jahre vom Zeitpunkt der Eintragung an, längstens bis zum 31. Dezember 2037 |  |
 | 1114.4 | VR | a) | Vereinsregister | dauernd |  |  |
 |  |  | b) | die zum Vereinsregister gehörenden Akten | 10 Jahre |  |  |
 | 1114.5 | GnR | a) | Genossenschaftsregister | dauernd |  |  |

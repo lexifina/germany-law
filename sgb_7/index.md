@@ -269,6 +269,8 @@ Personen](0109.md)
 - [§ 134 Zuständigkeit bei Berufskrankheiten](0134.md)
 - [§ 135 Versicherung nach mehreren Vorschriften](0135.md)
 - [§ 136 Bescheid über die Zuständigkeit, Begriff des Unternehmers](0136.md)
+- [§ 136a Unternehmernummer](0136a.md)
+- [§ 136b Verarbeitung zu Zwecken des Unternehmensbasisdatenregisters](0136b.md)
 - [§ 137 Wirkung von Zuständigkeitsänderungen](0137.md)
 - [§ 138 Unterrichtung der Versicherten](0138.md)
 - [§ 139 Vorläufige Zuständigkeit](0139.md)
@@ -289,7 +291,7 @@ Personen](0109.md)
 - [§ 147 Aufstellung und Änderung der Dienstordnung](0147.md)
 - [§ 147a Dienstbezüge der Geschäftsführer der gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau](0147a.md)
 - [§ 148 Dienstrechtliche Vorschriften für die Unfallversicherung Bund und Bahn](0148.md)
-- [§ 149 (weggefallen)](0149.md)
+- [§ 149 Dienstrechtliche Vorschriften für die gewerblichen Berufsgenossenschaften](0149.md)
 
 ## Sechstes Kapitel Aufbringung der Mittel
 
@@ -329,12 +331,12 @@ Arbeitsentgelt](0156.md)
 - [§ 166 Auskunftspflicht der Unternehmer und Beitragsüberwachung](0166.md)
 - [§ 167 Beitragsberechnung](0167.md)
 - [§ 168 Beitragsbescheid](0168.md)
-- [§ 169 (weggefallen)](0169.md)
+- [§ 169 Erhebung von Säumniszuschlägen](0169.md)
 - [§ 170 Beitragszahlung an einen anderen Unfallversicherungsträger](0170.md)
 
 #### Fünfter Unterabschnitt Betriebsmittel, Rücklage und Verwaltungsvermögen
 
-- [§ 171 Mittel der Unfallversicherungsträger](0171.md)
+- [§ 171 (weggefallen)](0171.md)
 - [§ 172 Betriebsmittel](0172.md)
 - [§ 172a Rücklage](0172a.md)
 - [§ 172b Verwaltungsvermögen](0172b.md)

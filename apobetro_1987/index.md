@@ -55,7 +55,7 @@ Krankenhausapotheken
 
 - [§ 34 Patientenindividuelles Stellen oder Verblistern von Arzneimitteln](0034.md)
 - [§ 35 Herstellung von Arzneimitteln zur parenteralen Anwendung](0035.md)
-- [§ 35a Vorbereitung und Durchführung von Grippeschutzimpfungen durch öffentliche Apotheken](0035a.md)
+- [§ 35a Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken](0035a.md)
 - [§ 35b (weggefallen)](0035b.md)
 
 ## Fünfter Abschnitt Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen

@@ -18,8 +18,8 @@
 | § 8 | Leistungen |
 | § 9 | Sozialhilfe nach der Besonderheit des Einzelfalles |
 | § 10 | Leistungsformen |
-| § 11 | Beratung und Unterstützung, Aktivierung |
-| § 12 | Leistungsabsprache |
+| § 11 | Beratung und Unterstützung |
+| § 12 | Vorbereitung für die Aufnahme einer Tätigkeit und Vereinbarung |
 | § 13 | Leistungen für Einrichtungen, Vorrang anderer Leistungen |
 | § 14 | (weggefallen) |
 | § 15 | Vorbeugende und nachgehende Leistungen |
@@ -69,7 +69,8 @@
 |  | Vierter Abschnitt |
 |  | Bedarfe für Unterkunft und Heizung |
 | § 35 | Bedarfe für Unterkunft und Heizung |
-| § 35a | Satzung |
+| § 35a | Aufwendungen für Instandhaltung und Reparatur, Aufwendungen bei Wohnungswechsel, Direktzahlung |
+| § 35b | Satzung |
 | § 36 | Sonstige Hilfen zur Sicherung der Unterkunft |
 |  |
 |  | Fünfter Abschnitt |
@@ -81,7 +82,7 @@
 |  | Sechster Abschnitt |
 |  | Einschränkung von Leistungsberechtigung und -umfang |
 | § 39 | Vermutung der Bedarfsdeckung |
-| § 39a | Einschränkung der Leistung |
+| § 39a | (weggefallen) |
 |  |
 |  | Siebter Abschnitt |
 |  | Verordnungsermächtigung |
@@ -307,19 +308,19 @@
 | Sechzehntes Kapitel |
 | Übergangs- und Schlussbestimmungen |
 | § 130 | Übergangsregelung für ambulant Betreute |
-| § 131 | Übergangsregelung für die Statistik über Einnahmen und Ausgaben nach dem Vierten Kapitel |
+| § 131 | Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes |
 | § 132 | Übergangsregelung zur Sozialhilfegewährung für Deutsche im Ausland |
 | § 133 | Übergangsregelung für besondere Hilfen an Deutsche nach Artikel 116 Abs. 1 des Grundgesetzes |
 | § 133a | Übergangsregelung für Hilfeempfänger in Einrichtungen |
 | § 133b | Übergangsregelung zu Bedarfen für Unterkunft und Heizung |
-| § 134 | Übergangsregelung für die Fortschreibung der Regelbedarfsstufe 6 |
+| § 134 | Fortschreibung der Regelbedarfsstufen zum 1. Januar 2023 |
 | § 135 | Übergangsregelung aus Anlass des Zweiten Rechtsbereinigungsgesetzes |
 | § 136 | Erstattung des Barbetrags durch den Bund in den Jahren 2017 bis 2019 |
 | § 136a | Erstattung des Barbetrages durch den Bund ab dem Jahr 2020 |
 | § 137 | Überleitung in Pflegegrade zum 1. Januar 2017 |
 | § 138 | Übergangsregelung für Pflegebedürftige aus Anlass des Dritten Pflegestärkungsgesetzes |
 | § 139 | Übergangsregelung für Bedarfe für Unterkunft und Heizung ab dem Jahr 2020 |
-| § 140 | Übergangsregelung zur Verhinderung einer Zahlungslücke |
+| § 140 | Übergangsregelung für die Bedarfe für Unterkunft während der Karenzzeit |
 | § 141 | Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung |
 | § 142 | Übergangsregelung für die gemeinschaftliche Mittagsverpflegung für Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung |
 | § 143 | Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten |

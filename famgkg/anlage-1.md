@@ -110,7 +110,7 @@ Gebühren
 |  | Die Gebühr entsteht nicht, soweit die Sprungrechtsbeschwerde zugelassen wird. |  |
 | Hauptabschnitt 3Hauptsacheverfahren in selbständigen Familiensachender freiwilligen Gerichtsbarkeit |
 | Abschnitt 1Kindschaftssachen |
-| Vorbemerkung 1.3.1: (1) Keine Gebühren werden erhoben für 1. die Pflegschaft für eine Leibesfrucht, 2. Kindschaftssachen nach § 151 Nr. 6 und 7 FamFG und 3. ein Verfahren, das Aufgaben nach dem Jugendgerichtsgesetz betrifft. (2) Von dem Minderjährigen werden Gebühren nach diesem Abschnitt nur erhoben, wenn zum Zeitpunkt der Fälligkeit der jeweiligen Gebühr sein Vermögen nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet. |
+| Vorbemerkung 1.3.1: (1) Keine Gebühren werden erhoben für 1. die Pflegschaft für ein bereits gezeugtes Kind, 2. Kindschaftssachen nach § 151 Nr. 6 und 7 FamFG und 3. ein Verfahren, das Aufgaben nach dem Jugendgerichtsgesetz betrifft. (2) Von dem Minderjährigen werden Gebühren nach diesem Abschnitt nur erhoben, wenn zum Zeitpunkt der Fälligkeit der jeweiligen Gebühr sein Vermögen nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet. |
 | Unterabschnitt 1Verfahren vor dem Familiengericht |
 | 1310 | Verfahren im Allgemeinen …....... | 0,5 |
 |  | (1) Die Gebühr entsteht nicht für Verfahren, 1.die in den Rahmen einer Vormundschaft oder Pflegschaft fallen,2.für die die Gebühr 1313 entsteht oder3.die mit der Anordnung einer Pflegschaft enden. (2) Für die Umgangspflegschaft werden neben der Gebühr für das Verfahren, in dem diese angeordnet wird, keine besonderen Gebühren erhoben. |  |
@@ -249,7 +249,7 @@ Auslagen
 | 2012 | Beträge, die ausländischen Behörden, Einrichtungen oder Personen im Ausland zustehen, sowie Kosten des Rechtshilfeverkehrs mit dem Ausland .......... | in voller Höhe |
 |  | Die Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind. |  |
 | 2013 | An den Verfahrensbeistand zu zahlende Beträge .......... | in voller Höhe |
-|  | Die Beträge werden von dem Minderjährigen nur nach Maßgabe des § 1836c BGB erhoben. |  |
+|  | Die Beträge werden von dem Minderjährigen nur nach Maßgabe des § 1808 Abs. 2 Satz 1 und des § 1880 Abs. 2 BGB erhoben. |  |
 | 2014 | An den Umgangspfleger sowie an Verfahrenspfleger nach § 9 Abs. 5 FamFG, § 57 ZPO zu zahlende Beträge .......... | in voller Höhe |
 | 2015 | Pauschale für die Inanspruchnahme von Videokonferenzverbindung:je Verfahren für jede angefangene halbe Stunde .......... | 15,00 € |
 | 2016 | Umsatzsteuer auf die KostenDies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben bleibt. | in voller Höhe |

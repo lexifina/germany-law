@@ -10,6 +10,6 @@ Gesellschaftsmitteln
 - [§ 7 Anteilsrechte an ausländischen Gesellschaften](0007.md)
 - [§ 8](0008.md)
 - [§ 8a Schlußvorschriften](0008a.md)
-- [§ 9 Anwendung im Land Berlin](0009.md)
+- [§ 9 (weggefallen)](0009.md)
 - [§ 10 Anwendungszeitraum](0010.md)
 - [§ 11 Inkrafttreten](0011.md)

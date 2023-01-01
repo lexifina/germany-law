@@ -7,12 +7,15 @@
 - [§ 1 Anwendungsbereich und anzuwendendes Recht](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Zuständigkeit und Prüfungsbefugnisse](0003.md)
+- [§ 3a Automatisierter Abruf von Kontoinformationen](0003a.md)
 
 ## Abschnitt 2 Übermittlung von Informationen auf Ersuchen
 
 - [§ 4 Ersuchen von anderen Mitgliedstaaten](0004.md)
 - [§ 5 Fristen](0005.md)
 - [§ 6 Ersuchen an andere Mitgliedstaaten](0006.md)
+- [§ 6a Voraussichtliche Erheblichkeit](0006a.md)
+- [§ 6b Gruppenersuchen](0006b.md)
 
 ## Abschnitt 3 Weitere Übermittlung von Informationen
 
@@ -35,5 +38,6 @@
 - [§ 17 Standardformblätter und Kommunikationsmittel](0017.md)
 - [§ 18 Informationsübermittlung an Drittstaaten](0018.md)
 - [§ 19 Datenschutz und Zweckbestimmung](0019.md)
+- [§ 19a Verletzung des Schutzes personenbezogener Daten](0019a.md)
 - [§ 20 Statistiken und Bewertungen](0020.md)
 - [§ 21 Übergangsvorschriften](0021.md)

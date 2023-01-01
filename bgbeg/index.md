@@ -34,7 +34,7 @@
 #### Zweiter Abschnitt Recht der natürlichen Personen und der Rechtsgeschäfte
 
 
-##### Art 7 Rechtsfähigkeit und Geschäftsfähigkeit
+##### Art 7 Rechts- und Geschäftsfähigkeit
 
 
 ##### Art 8 Gewillkürte Stellvertretung
@@ -61,7 +61,7 @@
 ##### Art 14 Allgemeine Ehewirkungen
 
 
-##### Art 15 (weggefallen)
+##### Art 15 Gegenseitige Vertretung von Ehegatten
 
 
 ##### Art 16 (weggefallen)
@@ -705,6 +705,9 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 
 
 #### Art 229 Weitere Überleitungsvorschriften
+
+
+#### Art 229
 
 
 #### Art 229

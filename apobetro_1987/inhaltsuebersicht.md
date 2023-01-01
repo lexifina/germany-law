@@ -47,7 +47,7 @@
 |  | Sondervorschriften |
 | § 34 | Patientenindividuelles Stellen oder Verblistern von Arzneimitteln |
 | § 35 | Herstellung von Arzneimitteln zur parenteralen Anwendung |
-| § 35a | Vorbereitung und Durchführung von Grippeschutzimpfungen durch öffentliche Apotheken |
+| § 35a | Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken |
 | Fünfter Abschnitt |
 |  | Ordnungswidrigkeiten, Übergangs- und Schlussvorschriften |
 | § 36 | Ordnungswidrigkeiten |

@@ -21,9 +21,7 @@
 - [§ 9 Besondere Mitteilungspflicht der Familienkasse](0009.md)
 - [§ 10 Besondere Mitteilungspflichten des Anbieters](0010.md)
 - [§ 11 Anbieterwechsel](0011.md)
-- [§ 12 Besondere
-Mitteilungspflichten der
-zentralen Stelle gegenüber dem Anbieter](0012.md)
+- [§ 12 Besondere Mitteilungspflichten der zentralen Stelle gegenüber dem Anbieter](0012.md)
 - [§ 13 Anzeigepflichten des Zulageberechtigten](0013.md)
 
 ### Unterabschnitt 2 Ermittlung, Festsetzung, Auszahlung, Rückforderung und Rückzahlung der Zulagen

@@ -72,7 +72,7 @@ Teil 2
 | Honorar- gruppe | Gegenstand medizinischer oder psychologischer Gutachten | Stundensatz (Euro) |
 | M 1 | Einfache gutachtliche Beurteilungen ohne Kausalitätsfeststellungen, insbesondere | 80 |
 |  | 1. | in Gebührenrechtsfragen, |  |
-|  | 2. | zur Verlängerung einer Betreuung oder zur Überprüfung eines angeordneten Einwilligungsvorbehalts nach § 1903 des Bürgerlichen Gesetzbuchs, |  |
+|  | 2. | zur Verlängerung einer Betreuung oder zur Überprüfung eines angeordneten Einwilligungsvorbehalts nach § 1825 des Bürgerlichen Gesetzbuchs, |  |
 |  | 3. | zur Minderung der Erwerbsfähigkeit nach einer Monoverletzung. |  |
 | M 2 | Beschreibende (Ist-Zustands-)Begutachtung nach standardisiertem Schema ohne Erörterung spezieller Kausalzusammenhänge mit einfacher medizinischer Verlaufsprognose und mit durchschnittlichem Schwierigkeitsgrad, insbesondere Gutachten | 90 |
 |  | 1. | in Verfahren nach dem Neunten Buch Sozialgesetzbuch, |  |
@@ -80,7 +80,7 @@ Teil 2
 |  | 3. | zu rechtsmedizinischen und toxikologischen Fragestellungen im Zusammenhang mit der Feststellung einer Beeinträchtigung der Fahrtüchtigkeit durch Alkohol, Drogen, Medikamente oder Krankheiten, |  |
 |  | 4. | zu spurenkundlichen oder rechtsmedizinischen Fragestellungen mit Befunderhebungen (z. B. bei Verletzungen und anderen Unfallfolgen), |  |
 |  | 5. | zu einfachen Fragestellungen zur Schuldfähigkeit ohne besondere Schwierigkeiten der Persönlichkeitsdiagnostik, |  |
-|  | 6. | zur Einrichtung oder Aufhebung einer Betreuung oder zur Anordnung oder Aufhebung eines Einwilligungsvorbehalts nach § 1903 des Bürgerlichen Gesetzbuchs, |  |
+|  | 6. | zur Einrichtung oder Aufhebung einer Betreuung oder zur Anordnung oder Aufhebung eines Einwilligungsvorbehalts nach § 1825 des Bürgerlichen Gesetzbuchs, |  |
 |  | 7. | zu Unterhaltsstreitigkeiten aufgrund einer Erwerbsminderung oder Berufsunfähigkeit, |  |
 |  | 8. | zu neurologisch-psychologischen Fragestellungen in Verfahren nach der Fahrerlaubnis-Verordnung, |  |
 |  | 9. | zur Haft-, Verhandlungs- oder Vernehmungsfähigkeit. |  |
@@ -97,7 +97,7 @@ Teil 2
 |  | 10. | in Unterbringungsverfahren, |  |
 |  | 11. | zur Fortdauer der Unterbringung im Maßregelvollzug über zehn Jahre hinaus, |  |
 |  | 12. | zur Anordnung der Sicherungsverwahrung oder zur Prognose von Untergebrachten in der Sicherungsverwahrung, |  |
-|  | 13. | in Verfahren nach den §§ 1904 und 1905 des Bürgerlichen Gesetzbuchs, |  |
+|  | 13. | in Verfahren nach den §§ 1829 und 1830 des Bürgerlichen Gesetzbuchs, |  |
 |  | 14. | in Verfahren nach dem Transplantationsgesetz, |  |
 |  | 15. | in Verfahren zur Regelung von Sorge- oder Umgangsrechten, |  |
 |  | 16. | zu Fragestellungen der Hilfe zur Erziehung, |  |

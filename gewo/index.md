@@ -13,14 +13,15 @@
 - [§ 6a Entscheidungsfrist, Genehmigungsfiktion](0006a.md)
 - [§ 6b Verfahren über eine einheitliche Stelle Europäischer Berufsausweis; Verordnungsermächtigung](0006b.md)
 - [§ 6c Informationspflichten für Dienstleistungserbringer](0006c.md)
-- [§ 7 Aufhebung von Rechten und Abgaben](0007.md)
-- [§ 8 Ablösung von Rechten](0008.md)
-- [§ 9 Streitigkeiten über Aufhebung oder Ablösung von Rechten](0009.md)
-- [§ 10 Kein Neuerwerb von Rechten](0010.md)
-- [§ 11 Verarbeitung personenbezogener Daten](0011.md)
+- [§ 7 Mitteilungspflicht bei Gewerben mit Zuverlässigkeitsüberprüfung](0007.md)
+- [§ 8 (weggefallen)](0008.md)
+- [§ 9 (weggefallen)](0009.md)
+- [§ 10 (weggefallen)](0010.md)
+- [§ 11 Verarbeitung personenbezogener Daten; Verordnungsermächtigung](0011.md)
 - [§ 11a Vermittlerregister](0011a.md)
 - [§ 11b Bewacherregister; Verordnungsermächtigung](0011b.md)
 - [§ 11c Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraumes bei reglementierten Berufen](0011c.md)
+- [§ 11d Zusammenarbeit der Behörden](0011d.md)
 - [§ 12 Insolvenzverfahren und Restrukturierungssachen](0012.md)
 - [§ 13 Erprobungsklausel](0013.md)
 - [§ 13a Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen in reglementierten Berufen](0013a.md)
@@ -56,7 +57,7 @@ Genehmigung bedürfen
 - [§ 32 Regelung der Sachkundeprüfung, Aufgabenauswahlausschüsse](0032.md)
 - [§ 33 (weggefallen)](0033.md)
 - [§ 33a Schaustellungen von Personen](0033a.md)
-- [§ 33b Tanzlustbarkeiten](0033b.md)
+- [§ 33b (weggefallen)](0033b.md)
 - [§ 33c Spielgeräte mit Gewinnmöglichkeit](0033c.md)
 - [§ 33d Andere Spiele mit Gewinnmöglichkeit](0033d.md)
 - [§ 33e Bauartzulassung und Unbedenklichkeitsbescheinigung](0033e.md)
@@ -88,18 +89,18 @@ Genehmigung bedürfen
 ### III. Umfang, Ausübung und Verlust der
 Gewerbebefugnisse
 
-- [§ 41 Beschäftigung von Arbeitnehmern](0041.md)
+- [§ 41 (weggefallen)](0041.md)
 - [(XXXX) §§ 41a und 41b (weggefallen)](xxxx-41a-und-41b.md)
 - [§ 42 (weggefallen)](0042.md)
 - [(XXXX) §§ 42a bis 44a (weggefallen)](xxxx-42a-bis-44a.md)
 - [§ 45 Stellvertreter](0045.md)
 - [§ 46 Fortführung des Gewerbes](0046.md)
 - [§ 47 Stellvertretung in besonderen Fällen](0047.md)
-- [§ 48 Übertragung von Realgewerbeberechtigungen](0048.md)
+- [§ 48 (weggefallen)](0048.md)
 - [§ 49 Erlöschen von Erlaubnissen](0049.md)
 - [§ 50](0050.md)
 - [§ 51 Untersagung wegen überwiegender Nachteile und Gefahren](0051.md)
-- [§ 52 Übergangsregelung](0052.md)
+- [§ 52 (weggefallen)](0052.md)
 - [(XXXX) §§ 53 bis 54 (weggefallen)](xxxx-53-bis-54.md)
 
 ## Titel III Reisegewerbe
@@ -205,6 +206,7 @@ Handwerkskammern, Innungsverbände
 - [§ 148 Strafbare Verletzung gewerberechtlicher Vorschriften](0148.md)
 - [§ 148a Strafbare Verletzung von Prüferpflichten](0148a.md)
 - [§ 148b Fahrlässige Hehlerei von Edelmetallen und Edelsteinen](0148b.md)
+- [§ 148c Einziehung](0148c.md)
 
 ## Titel XI Gewerbezentralregister
 
@@ -234,5 +236,5 @@ Handwerkskammern, Innungsverbände
 - [§ 158 Übergangsregelung zu § 11b; Probebetrieb](0158.md)
 - [§ 159 Übergangsregelung zu § 34a](0159.md)
 - [§ 160 Übergangsregelungen zu den §§ 34c und 34i](0160.md)
-- [§ 161 Übergangsregelung zu § 34c Absatz 1 Satz 1 Nummer 4](0161.md)
+- [§ 161 Übergangsregelung zu § 14 Absatz 4](0161.md)
 - [(XXXX) Anlage 1 bis 3 (weggefallen)](xxxx-anlage-1-bis-3.md)

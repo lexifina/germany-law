@@ -44,6 +44,6 @@
 
 - [§ 27 Verordnungsermächtigung](0027.md)
 - [§ 28 Bußgeldvorschriften](0028.md)
-- [§ 29 Verkündung von Rechtsverordnungen](0029.md)
+- [§ 29 (weggefallen)](0029.md)
 - [§ 30 Übergangsvorschriften](0030.md)
 - [Anlage (zu § 1 Absatz 3 Nummer 2)Liste über die Zuordnung der Stadt- und Landkreise zum städtischen oder ländlichen Raum](anlage.md)

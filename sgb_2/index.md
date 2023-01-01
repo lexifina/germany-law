@@ -60,9 +60,9 @@
 
 #### Unterabschnitt 1 Leistungsanspruch
 
-- [§ 19 Arbeitslosengeld II, Sozialgeld und Leistungen für Bildung und Teilhabe](0019.md)
+- [§ 19 Bürgergeld und Leistungen für Bildung und Teilhabe](0019.md)
 
-#### Unterabschnitt 2 Arbeitslosengeld II und Sozialgeld
+#### Unterabschnitt 2 Bürgergeld
 
 - [§ 20 Regelbedarf zur Sicherung des Lebensunterhalts](0020.md)
 - [§ 21 Mehrbedarfe](0021.md)
@@ -70,7 +70,7 @@
 - [§ 22a Satzungsermächtigung](0022a.md)
 - [§ 22b Inhalt der Satzung](0022b.md)
 - [§ 22c Datenerhebung, -auswertung und -überprüfung](0022c.md)
-- [§ 23 Besonderheiten beim Sozialgeld](0023.md)
+- [§ 23 Besonderheiten beim Bürgergeld für nicht erwerbsfähige Leistungsberechtigte](0023.md)
 
 #### Unterabschnitt 3 Abweichende Leistungserbringung und weitere Leistungen
 
@@ -85,7 +85,7 @@
 - [§ 29 Erbringung der Leistungen für Bildung und Teilhabe](0029.md)
 - [§ 30 Berechtigte Selbsthilfe](0030.md)
 
-#### Unterabschnitt 5 Sanktionen
+#### Unterabschnitt 5 Leistungsminderungen
 
 - [§ 31 Pflichtverletzungen](0031.md)
 - [§ 31a Rechtsfolgen bei Pflichtverletzungen](0031a.md)
@@ -160,7 +160,7 @@
 
 - [§ 53 Statistik und Übermittlung statistischer Daten](0053.md)
 - [§ 53a Arbeitslose](0053a.md)
-- [§ 54 Eingliederungsbilanz](0054.md)
+- [§ 54 (weggfallen)](0054.md)
 - [§ 55 Wirkungsforschung](0055.md)
 
 ## Kapitel 8 Mitwirkungspflichten
@@ -185,7 +185,7 @@
 
 ## Kapitel 11 Übergangs- und Schlussvorschriften
 
-- [§ 65 Allgemeine Übergangsvorschriften](0065.md)
+- [§ 65 Übergangsregelungen aus Anlass des Zwölften Gesetzes zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes](0065.md)
 - [§ 65a (weggefallen)](0065a.md)
 - [§ 65b (weggefallen)](0065b.md)
 - [§ 65c (weggefallen)](0065c.md)
@@ -193,7 +193,7 @@
 - [§ 65e Übergangsregelung zur Aufrechnung](0065e.md)
 - [§ 66 Rechtsänderungen bei Leistungen zur Eingliederung in Arbeit](0066.md)
 - [§ 67 Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung](0067.md)
-- [§ 68 Regelungen zu Bedarfen für Bildung aus Anlass der COVID-19-Pandemie](0068.md)
+- [§ 68 (weggefallen)](0068.md)
 - [§ 69 Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten](0069.md)
 - [§ 70 Einmalzahlung aus Anlass der COVID-19-Pandemie](0070.md)
 - [§ 71 Kinderfreizeitbonus und weitere Regelung aus Anlass der COVID-19-Pandemie](0071.md)
@@ -202,11 +202,12 @@
 - [§ 74 Ansprüche von Ausländerinnen und Ausländern mit einer Fiktionsbescheinigung](0074.md)
 - [§ 75 (weggefallen)](0075.md)
 - [§ 76 Gesetz zur Weiterentwicklung der Organisation der Grundsicherung für Arbeitsuchende](0076.md)
-- [§ 77 Gesetz zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch](0077.md)
-- [§ 78 Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt](0078.md)
+- [§ 77 (weggefallen)](0077.md)
+- [§ 78 (weggefallen)](0078.md)
 - [§ 79 Achtes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch – Ergänzung personalrechtlicher Bestimmungen](0079.md)
-- [§ 80 Neuntes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch – Rechtsvereinfachung – sowie zur vorübergehenden Aussetzung der Insolvenzantragspflicht](0080.md)
-- [§ 81 Teilhabechancengesetz](0081.md)
+- [§ 80 (weggefallen)](0080.md)
+- [§ 81 (weggefallen)](0081.md)
 - [§ 82 Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung](0082.md)
 - [§ 83 Übergangsregelung aus Anlass des Gesetzes zur Ermittlung der Regelbedarfe und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie weiterer Gesetze](0083.md)
-- [§ 84 Übergangsregelung zu Rechtsfolgen bei Pflichtverletzungen und Meldeversäumnissen](0084.md)
+- [§ 84 (weggefallen)](0084.md)
+- [§ 85 Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes](0085.md)

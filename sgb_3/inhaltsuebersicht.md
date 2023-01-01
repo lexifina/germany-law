@@ -18,7 +18,7 @@
 | § 9 | Ortsnahe Leistungserbringung |
 | § 9a | Zusammenarbeit mit den für die Wahrnehmung der Aufgaben der Grundsicherung für Arbeitsuchende zuständigen gemeinsamen Einrichtungen und zugelassenen kommunalen Trägern |
 | § 10 | (weggefallen) |
-| § 11 | Eingliederungsbilanz |
+| § 11 | (weggefallen) |
 |  |  |
 | Zweiter Abschnitt |
 | Berechtigte |
@@ -438,7 +438,7 @@
 | § 312 | Arbeitsbescheinigung |
 | § 312a | Arbeitsbescheinigung für Zwecke des über- und zwischenstaatlichen Rechts |
 | § 313 | Nebeneinkommensbescheinigung |
-| § 313a | Elektronische Bescheinigung |
+| § 313a | Bescheinigungsverfahren |
 | § 314 | Insolvenzgeldbescheinigung |
 |  |  |
 | Dritter Unterabschnitt |
@@ -654,9 +654,10 @@
 | § 421 | Förderung der Teilnahme an Sprachkursen |
 | § 421a | Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen |
 | § 421b | Erprobung einer zentralen Servicestelle für anerkennungssuchende Fachkräfte im Ausland |
-| § 421c | Vorübergehende Sonderregelungen im Zusammenhang mit Kurzarbeit |
+| § 421c | Vorübergehende Sonderregelung im Zusammenhang mit Kurzarbeit |
 | § 421d | Vorübergehende Sonderregelungen zum Arbeitslosengeld |
 | § 421e | Vorübergehende Sonderregelungen im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union |
+| § 421f | Übermittlung von Daten zum Bezug von Kurzarbeitergeld |
 |  |  |
 | Dritter Abschnitt |
 | Grundsätze bei Rechtsänderungen |
@@ -669,7 +670,7 @@
 | § 426 | (weggefallen) |
 | § 427 | (weggefallen) |
 | § 427a | Gleichstellung von Mutterschaftszeiten |
-| § 428 | Arbeitslosengeld unter erleichterten Voraussetzungen |
+| § 428 | (weggefallen) |
 | § 429 | (weggefallen) |
 | § 430 | Sonstige Entgeltersatzleistungen |
 | § 431 | (weggefallen) |

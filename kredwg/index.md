@@ -60,6 +60,7 @@
 - [§ 10g Kapitalpuffer für anderweitig systemrelevante Institute](0010g.md)
 - [§ 10h Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute](0010h.md)
 - [§ 10i Kombinierte Kapitalpufferanforderung](0010i.md)
+- [§ 10j Anforderung an den Puffer der Verschuldungsquote](0010j.md)
 - [§ 11 Liquidität](0011.md)
 - [§ 12 Potentiell systemrelevante Institute](0012.md)
 - [§ 12a Begründung von Unternehmensbeziehungen](0012a.md)

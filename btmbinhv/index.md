@@ -8,6 +8,7 @@
 - [§ 5](0005.md)
 - [§ 6](0006.md)
 - [§ 7](0007.md)
-- [§ 8 (weggefallen)](0008.md)
+- [§ 8](0008.md)
 - [§ 9](0009.md)
 - [Schlußformel](schlussformel.md)
+- [Anlage Vorgaben für das elektronische Belegverfahren](anlage.md)

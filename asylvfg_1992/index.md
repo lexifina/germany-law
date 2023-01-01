@@ -32,7 +32,7 @@
 - [§ 9 Hoher Flüchtlingskommissar der Vereinten Nationen](0009.md)
 - [§ 10 Zustellungsvorschriften](0010.md)
 - [§ 11 Ausschluss des Widerspruchs](0011.md)
-- [§ 11a Vorübergehende Aussetzung von Entscheidungen](0011a.md)
+- [§ 11a (weggefallen)](0011a.md)
 
 ## Abschnitt 4 Asylverfahren
 
@@ -135,17 +135,17 @@
 - [§ 71 Folgeantrag](0071.md)
 - [§ 71a Zweitantrag](0071a.md)
 
-## Abschnitt 8 Erlöschen der Rechtsstellung
+## Abschnitt 8 Erlöschen, Widerruf und Rücknahme der Rechtsstellung
 
 - [§ 72 Erlöschen](0072.md)
-- [§ 73 Widerruf und Rücknahme der Asylberechtigung und der Flüchtlingseigenschaft](0073.md)
-- [§ 73a Ausländische Anerkennung als Flüchtling](0073a.md)
-- [§ 73b Widerruf und Rücknahme des subsidiären Schutzes](0073b.md)
-- [§ 73c Widerruf und Rücknahme von Abschiebungsverboten](0073c.md)
+- [§ 73 Widerrufs- und Rücknahmegründe](0073.md)
+- [§ 73a Gründe für einen Widerruf von Familienasyl und internationalem Schutz für Familienangehörige](0073a.md)
+- [§ 73b Widerrufs- und Rücknahmeverfahren](0073b.md)
+- [§ 73c Ausländische Anerkennung als Flüchtling](0073c.md)
 
 ## Abschnitt 9 Gerichtsverfahren
 
-- [§ 74 Klagefrist, Zurückweisung verspäteten Vorbringens](0074.md)
+- [§ 74 Klagefrist, Zurückweisung verspäteten Vorbringens, Verhandlung durch den abgelehnten Richter](0074.md)
 - [§ 75 Aufschiebende Wirkung der Klage](0075.md)
 - [§ 76 Einzelrichter](0076.md)
 - [§ 77 Entscheidung des Gerichts](0077.md)

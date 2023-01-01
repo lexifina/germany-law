@@ -20,8 +20,8 @@
 - [§ 8 Leistungen](0008.md)
 - [§ 9 Sozialhilfe nach der Besonderheit des Einzelfalles](0009.md)
 - [§ 10 Leistungsformen](0010.md)
-- [§ 11 Beratung und Unterstützung, Aktivierung](0011.md)
-- [§ 12 Leistungsabsprache](0012.md)
+- [§ 11 Beratung und Unterstützung](0011.md)
+- [§ 12 Vorbereitung für die Aufnahme einer Tätigkeit und Vereinbarung](0012.md)
 - [§ 13 Leistungen für Einrichtungen, Vorrang anderer Leistungen](0013.md)
 - [§ 14 (weggefallen)](0014.md)
 - [§ 15 Vorbeugende und nachgehende Leistungen](0015.md)
@@ -71,7 +71,8 @@
 ### Vierter Abschnitt Bedarfe für Unterkunft und Heizung
 
 - [§ 35 Bedarfe für Unterkunft und Heizung](0035.md)
-- [§ 35a Satzung](0035a.md)
+- [§ 35a Aufwendungen für Instandhaltung und Reparatur, Aufwendungen bei Wohnungswechsel, Direktzahlung](0035a.md)
+- [§ 35b Satzung](0035b.md)
 - [§ 36 Sonstige Hilfen zur Sicherung der Unterkunft](0036.md)
 
 ### Fünfter Abschnitt Gewährung von Darlehen
@@ -83,7 +84,6 @@
 ### Sechster Abschnitt Einschränkung von Leistungsberechtigung und -umfang
 
 - [§ 39 Vermutung der Bedarfsdeckung](0039.md)
-- [§ 39a Einschränkung der Leistung](0039a.md)
 
 ### Siebter Abschnitt Verordnungsermächtigung
 
@@ -307,20 +307,20 @@ der Sozialhilfe
 ## Sechzehntes Kapitel Übergangs- und Schlussbestimmungen
 
 - [§ 130 Übergangsregelung für ambulant Betreute](0130.md)
-- [§ 131 Übergangsregelung für die Statistik über Einnahmen und Ausgaben nach dem Vierten Kapitel](0131.md)
+- [§ 131 Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes](0131.md)
 - [§ 132 Übergangsregelung zur Sozialhilfegewährung für Deutsche im Ausland](0132.md)
 - [§ 133 Übergangsregelung für besondere Hilfen an Deutsche nach
 Artikel 116 Abs. 1 des Grundgesetzes](0133.md)
 - [§ 133a Übergangsregelung für Hilfeempfänger in Einrichtungen](0133a.md)
 - [§ 133b Übergangsregelung zu Bedarfen für Unterkunft und Heizung](0133b.md)
-- [§ 134 Übergangsregelung für die Fortschreibung der Regelbedarfsstufe 6](0134.md)
+- [§ 134 Fortschreibung der Regelbedarfsstufen zum 1. Januar 2023](0134.md)
 - [§ 135 Übergangsregelung aus Anlass des Zweiten Rechtsbereinigungsgesetzes](0135.md)
 - [§ 136 Erstattung des Barbetrags durch den Bund in den Jahren 2017 bis 2019](0136.md)
 - [§ 136a Erstattung des Barbetrags durch den Bund ab dem Jahr 2020](0136a.md)
 - [§ 137 Überleitung in Pflegegrade zum 1. Januar 2017](0137.md)
 - [§ 138 Übergangsregelung für Pflegebedürftige aus Anlass des Dritten Pflegestärkungsgesetzes](0138.md)
 - [§ 139 Übergangsregelung für Bedarfe für Unterkunft und Heizung ab dem Jahr 2020](0139.md)
-- [§ 140 Übergangsregelung zur Verhinderung einer Zahlungslücke](0140.md)
+- [§ 140 Übergangsregelung für die Bedarfe für Unterkunft während der Karenzzeit](0140.md)
 - [§ 141 Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung](0141.md)
 - [§ 142 Übergangsregelung für die gemeinschaftliche Mittagsverpflegung für Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung](0142.md)
 - [§ 143 Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten](0143.md)

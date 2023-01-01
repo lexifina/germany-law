@@ -64,7 +64,6 @@ Bundesflagge
 - [§ 22c (weggefallen)](0022c.md)
 - [§ 23](0023.md)
 - [§ 24](0024.md)
-- [§ 25](0025.md)
 - [Anlage (zu § 7 Absatz 2 Satz 1)](anlage.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
