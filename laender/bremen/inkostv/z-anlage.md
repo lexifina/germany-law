@@ -44,7 +44,7 @@ Nummer | Kostentatbestand | Kosten in EUR |
 111.10 | Einsicht in das Stiftungsverzeichnis nach § 15 Absatz 2 Satz 2 BremStiftG | gebührenfrei | gebührenfrei
 111.11 | Ausführliche, über allgemeine Hinweise und Informationen hinausgehende Beratung einer bereits gegründeten privaten Stiftung oder bei geplanter privatnützigen Stiftungsgründung. | 100 bis 5 000 | gebührenfrei
 112 | Namensänderungsrecht |  | 
-112.01 | Familiennamensänderung nach § 1 Gesetz über die Änderung von Familiennamen und Vornamen (NamÄndG) | 208 bis 1 378 | 
+112.01 | Familiennamensänderung nach § 1 Gesetz über die Änderung von Familiennamen und Vornamen (NamÄndG) oder Vornamensänderung nach § 11 NamÄndG | 208 bis 1 378 EUR | 
 114 | Glücksspiel |  | 
 114.0 | Veranstalten öffentlichen Glücksspiels |  | 
 114.01 | Erteilung der Erlaubnis zum Veranstalten einer öffentlichen Lotterie oder Ausspielung nach § 4 Absatz 1 Glücksspielstaatsvertrag 2021 (GlüStV 2021) i.V.m. §§ 3 f. Bremisches Glücksspielgesetz (BremGlüG) sofern nicht Nummer 114.02 Anwendung findet | 1,9 Promille des zugelassenen Spielkapitals abzüglich der Lotteriesteuer sofern diese erhoben wird, aufgerundet auf volle Euro | 
@@ -156,6 +156,7 @@ Nummer | Kostentatbestand | Kosten in EUR |
 121.09 | Erteilung oder Verlängerung einer Unbedenklichkeitsbescheinigung für Markt- und Meinungsforschungsinstitute | 156 | 
 121.10 | Meldebescheinigung aus der mikroverfilmten Kartei | 24 je Einwohner | 
 121.11 | Einfache Melderegisterauskunft nach §§ 44, 49 BMG zum Zwecke der Vermittlung einer Stammzellenspende | gebührenfrei | 
+121.12 | Schriftliche Datenübermittlungen nach § 34 Absatz 6 Satz 2 BMG i.V.m. § 34 Absatz 2 Satz 5 1. Alt. BMG | je Datenübermittlung/Auskunft 7,80 EUR | 
 122 | Sondernutzungen und allgemeine Ordnungsangelegenheiten |  | 
 122.01 | Verfügung nach den Vorschriften über Lärmbekämpfung | 43 bis 800 | 
 122.02 | Verfügung nach dem Gesetz über das Halten von Hunden nach § 2 Absatz 3 Satz 1, § 3 Absatz 4 Satz 2, § 4 Absatz 1 Satz 2, Absätze 4 bis 8 Gesetz über das Halten von Hunden (BremHundeHG) | 212 bis 720 | 
@@ -198,7 +199,9 @@ Nummer | Kostentatbestand | Kosten in EUR |
 132.03 | wenn die Gebührenbefreiung im Rahmen zwischenstaatlicher Vereinbarungen vorgesehen ist | gebührenfrei | 
 132.04 | Beschaffung eines Ehefähigkeitszeugnisses für eine Ausländerin oder einen Ausländer | 65 | 
 134 | Beurkundungsgrundlagen, Beurkundungen, Beglaubigungen und Bescheinigungen |  | 
-134.01 | Abnahme einer Versicherung an Eides statt nach § 9 Absatz 2 Satz 2, § 13 Absatz 2 PStG, § 2 Absatz 2 PStV | 31 | 
+134.01 | Abnahme einer Versicherung an Eides statt nach § 9 Absatz 2 Satz 2, § 13 Absatz 2 PStG, § 2 Absatz 2 PStV |  | 
+ | a) Versicherung an Eides Statt bei Hinzuziehung eines nicht gerichtlich vereidigten Dolmetschers gemäß § 2 Absatz 2 PStV | 30 EUR | 
+ | b) Versicherung an Eides Statt gemäß §§ 9 Absatz 2 Satz 2 und 13 Absatz 2 PStG | 30 EUR | 
 134.10 | Beurkundung |  | 
 134.11 | einer im Ausland geschlossenen Ehe nach § 34 Absatz 1 PStG | 101 | 
 134.12 | einer vor einer ermächtigten Person im Inland geschlossenen Ehe zwischen Ausländern nach § 34 Absatz 2 PStG | 101 | 
