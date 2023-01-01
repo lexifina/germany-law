@@ -1,8 +1,8 @@
 # Richtlinie Berufliche Bildung Vollzitat: Richtlinie Berufliche Bildung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19567.1
+- Datum: 2023-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19567.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.07.2022
+01.01.2023
 bis
-31.12.2022
+30.06.2023
 
 Richtlinie Berufliche Bildung
 
@@ -57,23 +57,23 @@ Gegenstand der Förderung
 
 Im Rahmen dieser Richtlinie werden folgende Vorhabenbereiche gefördert:
 
-
 1.
 
 Verbundausbildung;
 
-
 2.
 
-Überbetriebliche Ausbildungsmaßnahmen; 
-
+Überbetriebliche Lehrunterweisung im Handwerk;
 
 3.
 
-Meisterbonus;
-
+Überbetriebliche Ausbildung in der Land-, Forst- und Hauswirtschaft;
 
 4.
+
+Meisterbonus;
+
+5.
 
 Überbetriebliche Berufsbildungsstätten.
 
@@ -158,7 +158,7 @@ Für Lehrgänge der überbetrieblichen Lehrunterweisung im Handwerk haben die F�
 
 4.
 
-Art und Höhe der Zuwendung
+Art und Umfang, Höhe der Zuwendung
 
 
 a)
@@ -199,7 +199,7 @@ Der Antrag ist über die nach Berufsbildungsgesetz zuständige Stelle, die das V
 
 b)
 
-Der Zuwendungsempfänger wird verpflichtet, für jeden Verbundteilnehmenden bei dem Verbundpartner die Führung von Teilnahme-/ Lehrgangsbescheinigungen und deren Übergabe zu veranlassen. Darüber hinaus ist über alle Verbundteilnehmenden eine kumulierte Übersicht über die tatsächlich absolvierten Teilnehmerwochen als Abrechnungsgrundlage zu führen. Es dürfen maximal die im Zuwendungsbescheid bewilligten Teilnehmerwochen bezuschusst werden. Die kumulierte Übersicht ist durch Unterschrift der zeichnungsberechtigten Person des Zuwendungsempfängers zu bestätigen.
+Der Zuwendungsempfänger wird verpflichtet, für jeden Verbundteilnehmenden bei dem Verbundpartner die Führung von Teilnahme-/Lehrgangsbescheinigungen und deren Übergabe zu veranlassen. Darüber hinaus ist über alle Verbundteilnehmenden eine kumulierte Übersicht über die tatsächlich absolvierten Teilnehmerwochen als Abrechnungsgrundlage zu führen. Es dürfen maximal die im Zuwendungsbescheid bewilligten Teilnehmerwochen bezuschusst werden. Die kumulierte Übersicht ist durch Unterschrift der zeichnungsberechtigten Person des Zuwendungsempfängers zu bestätigen.
 
 
 Ein Muster zu Art und Form der Teilnahme-/Lehrgangsbescheinigungen und der kumulierten Übersicht sind der Internetseite der Bewilligungsstelle zu entnehmen.
@@ -225,7 +225,7 @@ Sonstige Zuwendungsbestimmungen
 Das Vorhaben ist die Durchführung der betrieblichen Ausbildung in Form einer Verbundausbildung. Abweichend von Nummer 1.4 Satz 1 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Vorhaben auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes geschlossen beziehungsweise mit der Verbundausbildung vor Antragstellung begonnen wurde. Der Antragsteller trägt das Risiko, die Zuwendung nicht, nicht in der beantragten Höhe oder nicht zu dem beantragten Zeitpunkt zu erhalten.
 
 II.
-Überbetriebliche Ausbildungsmaßnahmen
+Überbetriebliche Lehrunterweisung im Handwerk
 
 1.
 
@@ -262,7 +262,7 @@ Förderfähig für den Teilnehmenden sind nur Lehrgänge, die in zusammenhängen
 
 4.
 
-Art und Höhe der Zuwendung
+Art und Umfang, Höhe der Zuwendung
 
 
 a)
@@ -283,17 +283,17 @@ Die Höhe der Förderung für die Lehrgänge ergibt sich aus der Multiplikation 
 
 c)
 
-Soweit es sich um Ausbildungsberufe der Stufenausbildung Bau handelt und keine HPI-Durchschnittskostenpläne vorliegen, beträgt der Zuschuss 
+Soweit es sich um Ausbildungsberufe der Stufenausbildung Bau handelt und keine HPI-Durchschnittskostenpläne vorliegen, beträgt der Zuschuss
 
 
 –
 
-in der Grundstufe (1. Lehrjahr) 52 Euro je Teilnehmer und Lehrgangswoche 
+in der Grundstufe (1. Lehrjahr) 100 Euro je Teilnehmerin, Teilnehmer und Lehrgangswoche
 
 
 –
 
-in Fachstufe (ab 2. Lehrjahr) 32 Euro je Teilnehmer und Lehrgangswoche. 
+in Fachstufe (ab 2. Lehrjahr) 50 Euro je Teilnehmerin, Teilnehmer und Lehrgangswoche.
 
 
 Die Höhe der Förderung für die Lehrgänge ergibt sich aus Multiplikation des jeweils anzuwendenden Kostensatzes für Bauberufe mit der Anzahl der geplanten Teilnehmer und der Anzahl der vorgeschriebenen Lehrgangswochen.
@@ -301,7 +301,7 @@ Die Höhe der Förderung für die Lehrgänge ergibt sich aus Multiplikation des 
 
 d)
 
-Der Zuschuss für notwendige auswärtige Unterbringung beträgt für Bauberufe 31 Euro in der Grundstufe und 13 Euro in der Fachstufe, für alle übrigen Berufe 61 Euro in der Grundstufe und 25 Euro in der Fachstufe pro Lehrgangswoche und Teilnehmer.
+Der Zuschuss für notwendige auswärtige Unterbringung beträgt für Bauberufe 42 Euro in der Grundstufe und 21 Euro in der Fachstufe, für alle übrigen Berufe 120 Euro in der Grundstufe und 60 Euro in der Fachstufe je Teilnehmerin, Teilnehmer und Lehrgangswoche.
 
 
 Die Höhe der Förderung für die Unterbringung ergibt sich aus der Multiplikation des jeweils anzuwendenden Kostensatzes mit der Anzahl der geplanten Lehrgangswochen und geplanten Teilnehmer. 
@@ -345,7 +345,7 @@ Der Zuwendungsempfänger wird daher verpflichtet, zur Nachweisführung für jede
 Die kumulierte Übersicht ist durch Unterschrift der zeichnungsberechtigten Person des Zuwendungsempfängers zu bestätigen.
 
 
-Die erforderlichen Angaben und ein Muster zu Art und Form der Lehrgangs-/ Übernachtungsbescheinigungen und der kumulierten Übersicht sind der Internetseite der Bewilligungsstelle zu entnehmen.
+Die erforderlichen Angaben und ein Muster zu Art und Form der Lehrgangs-/Übernachtungsbescheinigungen und der kumulierten Übersicht sind der Internetseite der Bewilligungsstelle zu entnehmen.
 
 
 f)
@@ -360,6 +360,143 @@ Sonstige Zuwendungsbestimmungen
 Das Vorhaben ist die Durchführung der betrieblichen Ausbildung in Form der überbetrieblichen Lehrunterweisung. Abweichend von Nummer 1.4 Satz 2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Vorhaben auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes geschlossen beziehungsweise mit der überbetrieblichen Lehrunterweisung und gegebenenfalls notwendigen auswärtigen Unterbringung vor Antragstellung begonnen wurde. Der Antragsteller trägt das Risiko, die Zuwendung nicht, nicht in der beantragten Höhe oder nicht zu dem beantragten Zeitpunkt zu erhalten.
 
 III.
+Überbetriebliche Ausbildung in der Land-, Forst- und Hauswirtschaft
+
+1.
+
+Gegenstand der Förderung
+
+
+Überbetriebliche Ausbildung in den Ausbildungsberufen der Land-, Forst- und Hauswirtschaft (ÜbA) sowie in entsprechenden ausbildungsintegrierenden Studiengängen und die notwendige auswärtige Unterbringung der Teilnehmerinnen, Teilnehmer.
+
+2.
+
+Zuwendungsempfänger
+
+
+Zuwendungsempfänger sind natürliche oder juristische Personen oder Personenvereinigungen, die die überbetrieblichen Ausbildungsmaßnahmen durchführen.
+
+3.
+
+Zuwendungsvoraussetzungen
+
+
+a)
+
+Die Ausbildung wird in einem anerkannten Ausbildungsberuf nach dem Berufsbildungsgesetz in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), das zuletzt durch Artikel 2 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1174) geändert worden ist, oder auf Grundlage von Ausbildungsregelungen der zuständigen Stellen nach § 66 des Berufsbildungsgesetzes durchgeführt.
+
+
+b)
+
+Zum Zeitpunkt der Antragstellung muss der Nachweis der Eintragung des Ausbildungsvertrags in das Verzeichnis der Berufsausbildungsverhältnisse gemäß § 34 des Berufsbildungsgesetzes bei der nach dem Berufsbildungsgesetz zuständigen Stelle im Freistaat Sachsen vorliegen.
+
+
+c)
+
+Die geförderten Inhalte müssen Bestandteil der jeweiligen Ausbildungsordnung sein.
+
+
+d)
+
+Förderfähig für die Teilnehmerin, den Teilnehmer sind nur Lehrgänge, die in zusammenhängender Form ohne zeitliche Unterbrechung durchgeführt worden sind (Prinzip der Lehrgangskontinuität). Die Teilnehmerin, der Teilnehmer hat zu mindestens 80 Prozent die vorgeschriebenen Lehrgangstage besucht.
+
+4.
+
+Art und Umfang, Höhe der Zuwendung
+
+
+a)
+
+Die Zuwendung wird in Form eines Zuschusses als Festbetrag gewährt. Förderfähig sind Lehrgangs- und Unterbringungskosten.
+
+
+b)
+
+Grundlage für die Bemessung der Höhe des Zuschusses sind die ermittelten Pauschalen für die Lehrgangskosten.
+
+
+c)
+
+Für die Lehrgangskosten je Teilnehmerin, Teilnehmer und Lehrgang beträgt der Zuschuss:
+
+
+–
+
+für das Cluster 1 (Traktoren – nur Bedienberechtigung und Landtechnik/Druschfrüchte) 264 Euro,
+
+
+–
+
+für das Cluster 2 (Maschinen und Geräte II, Ökologischer Landbau, Grundlagen der Landtechnik) 386 Euro,
+
+
+–
+
+für das Cluster 3 (Bau- und Vegetationstechnik/Die Bausteine im Garten-, Landschafts- und Sportplatzbau, Erstellen von Belagsflächen, Bau und Bepflanzung einer Wasseranlage, Mauerbau und Natursteinbearbeitung) 498 Euro.
+
+
+Für die Lehrgangskosten je Teilnehmerin, Teilnehmer und Lehrgang an der Milchwirtschaftlichen Lehr- und Untersuchungsanstalt Oranienburg beträgt der Zuschuss:
+
+
+–
+
+für das Cluster 4 (Lehrgänge im Beruf – Milchwirtschaftliche/r Laborant/in) 1 731 Euro,
+
+
+–
+
+für das Cluster 5 (Lehrgänge im Beruf – Milchtechnologe/in) 2 181 Euro.
+
+
+Die Höhe der Förderung für die ÜbA-Lehrgänge ergibt sich aus der Multiplikation des jeweils anzuwendenden Kostensatzes mit der geplanten Anzahl der Teilnehmerinnen, Teilnehmer.
+
+
+d)
+
+Der Zuschuss für notwendige auswärtige Unterbringung beträgt 120 Euro je Teilnehmerin, Teilnehmer und Lehrgangswoche. Die Höhe der Förderung für die Unterbringung ergibt sich aus der Multiplikation des Kostensatzes mit der geplanten Anzahl der Lehrgangswochen und Teilnehmerinnen, Teilnehmer.
+
+5.
+
+Verfahren
+
+
+a)
+
+Anträge auf Gewährung eines ÜbA-Zuschusses sind über die nach dem Berufsbildungsgesetz zuständige Stelle einzureichen.
+
+
+b)
+
+Dem Antrag hat der Zuwendungsempfänger eine tabellarische Übersicht zu Grunde zu legen, die die Ermittlung des beantragten Gesamtzuschusses darstellt.
+
+
+c)
+
+Es werden nur von Teilnehmerinnen, Teilnehmern tatsächlich im vorgeschriebenen Umfang absolvierte Lehrgänge gefördert. Vor Auszahlung der Pauschalen für Lehrgangskosten ist vom Zuwendungsempfänger die Anzahl zuschussfähiger Teilnehmerinnen, Teilnehmer nachzuweisen.
+
+
+Eine auswärtige Unterbringung wird nur für bewilligte, tatsächlich absolvierte und als förderfähig anerkannte sowie nachgewiesene Lehrgangswochen gezahlt. Sofern ein Lehrgang nicht förderfähig ist, wird auch der Übernachtungszuschuss nicht anerkannt.
+
+
+Der Zuwendungsempfänger wird daher verpflichtet, zur Nachweisführung für jede Teilnehmerin, jeden Teilnehmer eine Lehrgangs- und Übernachtungsanwesenheitsliste sowie eine kumulierte Übersicht über alle absolvierten Lehrgangs- und Übernachtungsteilnahmen zu führen. Die kumulierte Übersicht ist durch Unterschrift der zeichnungsberechtigten Person des Zuwendungsempfängers zu bestätigen.
+
+
+Die erforderlichen Angaben und ein Muster zu Art und Form der kumulierten Übersicht sind der Internetseite der Bewilligungsstelle zu entnehmen.
+
+
+d)
+
+Der Verwendungsnachweis ist zum Vorhabensende innerhalb von sechs Monaten nach Ende des Bewilligungszeitraums bei der Bewilligungsstelle einzureichen. Ein Zwischennachweis ist nicht vorzulegen.
+
+6.
+
+Sonstige Zuwendungsbestimmungen
+
+
+Zuwendungen dürfen auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes vor Antragstellung geschlossen und mit der Ausbildung oder dem ausbildungsintegrierenden Studium begonnen wurde.
+
+
+IV.
 Meisterbonus
 
 1.
@@ -412,7 +549,7 @@ Die Absolventin oder der Absolvent darf für denselben Abschluss in einem andere
 
 4.
 
-Art und Höhe der Zuwendung
+Art und Umfang, Höhe der Zuwendung
 
 
 a)
@@ -422,7 +559,7 @@ Die Zuwendung wird in Form eines Zuschusses als Festbetrag gewährt.
 
 b)
 
-Die Zuwendung beträgt 1 000 Euro pro Absolventin/pro Absolvent. 
+Die Zuwendung beträgt 2 000 Euro je Absolventin/Absolvent.
 
 
 c)
@@ -446,7 +583,7 @@ Die Handwerkskammern und die Industrie- und Handelskammern tragen Sorge dafür, 
 
 c)
 
-Die Auszahlung an die Handwerkskammern und die Industrie- und Handelskammern erfolgt auf Antrag bei der SAB jeweils rechtzeitig vor der feierlichen Übergabe (Meisterfeiern) der Prämien an die Absolventinnen und Absolventen. Der Antrag enthält eine Liste mit der Anzahl der erfolgreichen Absolventinnen und Absolventen nach Fortbildungsabschlüssen.
+Die Auszahlung an die Handwerkskammern und die Industrie- und Handelskammern erfolgt auf Antrag bei der SAB jeweils in engem zeitlichen Zusammenhang mit der Übergabe der Prämien an die Absolventinnen und Absolventen. Der Antrag enthält eine Liste mit der Anzahl der erfolgreichen Absolventinnen und Absolventen nach Fortbildungsabschlüssen.
 
 
 d)
@@ -454,7 +591,7 @@ d)
 Der einfache Verwendungsnachweis ist zugelassen. Er besteht aus einem Sachbericht sowie einem zahlenmäßigen Nachweis, in dem der Erhalt und die Auszahlung der Zuwendung an die Absolventinnen oder Absolventen bestätigt werden. 
 
 
-IV.
+V.
 Überbetriebliche Berufsbildungsstätten (ÜBS)
 
 1.
@@ -501,7 +638,7 @@ Die SAB bewilligt den Landesanteil, nachdem der Bundesanteil bewilligt wurde.
 
 4.
 
-Art und Höhe der Zuwendung
+Art und Umfang, Höhe der Zuwendung
 
 
 a)
@@ -516,7 +653,7 @@ Zuwendungsfähig sind Investitionsausgaben, bei der Weiterentwicklung von ÜBS z
 
 c)
 
-Soweit es sich bei den Zuwendungen um staatliche Beihilfen im Sinne des Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. C 326 vom 26.10.2012, S. 47) handelt, werden diese nach Maßgabe und unter Einhaltung der Voraussetzungen der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2020/972 der Kommission vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist sowie deren Nachfolgebestimmungen, in der jeweils geltenden Fassung, gewährt. Zudem gelten die Ausführungen in der Anlage zur Richtlinie.
+Soweit es sich bei den Zuwendungen um staatliche Beihilfen im Sinne des Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. C 326 vom 26.10.2012, S. 47) handelt, werden diese nach Maßgabe und unter Einhaltung der Voraussetzungen der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021 (ABl. L 270 vom 29. Juli 2021, S. 39) geändert worden ist, sowie deren Nachfolgebestimmungen, in der jeweils geltenden Fassung, gewährt. Zudem gelten die Ausführungen in der Anlage zur Richtlinie.
 
 5.
 
@@ -542,7 +679,7 @@ Die SAB macht sich für den Verwendungsnachweis für den Landesanteil die Prüfe
 Teil C
 Inkrafttreten und Außerkrafttreten
 
-Diese Förderrichtlinie tritt am 1. Juli 2022 in Kraft und ist befristet bis zum 31. Januar 2023. Die Förderrichtlinie Meisterbonus vom 29. Juli 2019 (SächsABl. S. 1212) und der Teil B Ziffer III Nummer 1 der Mittelstandsrichtlinie vom 23. März 2020 (SächsABl. S. 398), die durch die Richtlinie vom 12. Mai 2021 (SächsABl. S. 644) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 28. November 2021 (SächsABl. SDr. S. S 224), treten zum 30. Juni 2022 außer Kraft.
+Diese Förderrichtlinie tritt am 1. Juli 2022 in Kraft. Die Förderrichtlinie Meisterbonus vom 29. Juli 2019 (SächsABl. S. 1212) und der Teil B Ziffer III Nummer 1 der Mittelstandsrichtlinie vom 23. März 2020 (SächsABl. S. 398), die durch die Richtlinie vom 12. Mai 2021 (SächsABl. S. 644) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 28. November 2021 (SächsABl. SDr. S. S 224), treten zum 30. Juni 2022 außer Kraft.
 
 Dresden, den 28. Februar 2022
 
@@ -641,9 +778,9 @@ Fsn-Nr.: 5573-V22.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Juli 2022
+Fassung gültig ab:  1. Januar 2023
 
-Fassung gültig bis: 31. Dezember 2022
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -668,7 +805,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19567.1
+https://www.revosax.sachsen.de/vorschrift/19567.2
 Stand vom
 18.11.2026
 
