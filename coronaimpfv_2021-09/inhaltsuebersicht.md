@@ -17,4 +17,4 @@
 | § 14 | Datenübermittlung zu Lagerbeständen |
 | § 15 | Evaluierung |
 | § 16 | Übergangsvorschriften |
-| § 17 | Inkrafttreten, Außerkrafttreten |
+| § 17 | Außerkrafttreten |

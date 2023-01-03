@@ -19,4 +19,4 @@
 - [§ 14 Datenübermittlung zu Lagerbeständen](0014.md)
 - [§ 15 Evaluierung](0015.md)
 - [§ 16 Übergangsvorschriften](0016.md)
-- [§ 17 Inkrafttreten, Außerkrafttreten](0017.md)
+- [§ 17 Außerkrafttreten](0017.md)

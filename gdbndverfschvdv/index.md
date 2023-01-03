@@ -137,5 +137,5 @@
 ## Teil 6 Schlussvorschriften
 
 - [§ 82 Qualitätsmanagement, Evaluation und Evaluationsordnung](0082.md)
-- [§ 83 Übergangsvorschriften für Studierende,die vor dem 1. Oktober 2018 mit dem Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst begonnen haben](0083.md)
-- [§ 84 Übergangsvorschriften für Studierende, die vor dem 1. Oktober 2018 mit dem Vorbereitungsdienst für den gehobenen Dienst im Verfassungsschutz des Bundes begonnen haben](0084.md)
+- [§ 83 (weggefallen)](0083.md)
+- [§ 84 (weggefallen)](0084.md)

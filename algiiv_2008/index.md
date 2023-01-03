@@ -1,4 +1,4 @@
-# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Arbeitslosengeld II/Sozialgeld
+# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Nicht als Einkommen zu berücksichtigende Einnahmen](0001.md)

@@ -25,7 +25,7 @@
 - [§ 19 Strafvorschriften](0019.md)
 - [§ 20 Außenvertretung](0020.md)
 - [§ 21 Regelungsbefugnisse der Länder](0021.md)
-- [§ 22 Verkündung von Rechtsverordnungen](0022.md)
+- [§ 22 (weggefallen)](0022.md)
 - [§ 22a Übergangs- und Anwendungsbestimmungen](0022a.md)
 - [§ 23 (Inkrafttreten, Außerkrafttreten)](0023.md)
 - [Anlage (zu § 2 Absatz 1)](anlage.md)
