@@ -16,7 +16,7 @@
 - [§ 11 Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds](0011.md)
 - [§ 12 Verfahren für die Finanzierung aus Bundesmitteln](0012.md)
 - [§ 13 Verfahren für die Zahlung von den privaten Krankenversicherungsunternehmen](0013.md)
-- [§ 14 Datenübermittlung zu Lagerbeständen](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 - [§ 15 Evaluierung](0015.md)
 - [§ 16 Übergangsvorschriften](0016.md)
 - [§ 17 Außerkrafttreten](0017.md)

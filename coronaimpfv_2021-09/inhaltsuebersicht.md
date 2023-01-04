@@ -14,7 +14,7 @@
 | § 11 | Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds |
 | § 12 | Verfahren für die Finanzierung aus Bundesmitteln |
 | § 13 | Verfahren für die Zahlung von den privaten Krankenversicherungsunternehmen |
-| § 14 | Datenübermittlung zu Lagerbeständen |
+| § 14 | (weggefallen) |
 | § 15 | Evaluierung |
 | § 16 | Übergangsvorschriften |
 | § 17 | Außerkrafttreten |

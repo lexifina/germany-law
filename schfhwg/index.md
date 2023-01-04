@@ -81,5 +81,5 @@
 
 - [§ 42 Übergangsregelungen für Bezirksschornsteinfegermeister](0042.md)
 - [§ 43 Ruhegeld wegen Versetzung in den Ruhestand](0043.md)
-- [§ 44 Verkündung von Rechtsverordnungen](0044.md)
+- [§ 44 (weggefallen)](0044.md)
 - [§ 45 Anwendungsbestimmungen](0045.md)

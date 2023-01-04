@@ -14,5 +14,4 @@
 - [§ 11 Aufsicht über die Geschäftsleitung](0011.md)
 - [§ 12 Bußgeldvorschriften](0012.md)
 - [§ 13 Übergangsbestimmungen](0013.md)
-- [§ 13a Verkündung von Rechtsverordnungen](0013a.md)
 - [§ 14 Inkrafttreten](0014.md)
