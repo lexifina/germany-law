@@ -16,6 +16,7 @@
 - [§ 9 Entschädigung im Falle des Widerrufs](0009.md)
 - [§ 10 Inhalt und Form der Genehmigung](0010.md)
 - [§ 11 Genehmigungsbehörden](0011.md)
+- [§ 11a Übermittlung von Informationen](0011a.md)
 
 ## Zweiter Abschnitt Überwachungs- und
 Ausnahmevorschriften

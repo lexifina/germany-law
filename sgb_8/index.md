@@ -280,4 +280,5 @@
 ## Elftes Kapitel Übergangs- und Schlussvorschriften
 
 - [§ 106 Einschränkung eines Grundrechts](0106.md)
-- [§ 107 Übergangsregelung](0107.md)
+- [§ 107 (zukünftig in Kraft)](0107.md)
+- [§ 108 Übergangsregelung](0108.md)

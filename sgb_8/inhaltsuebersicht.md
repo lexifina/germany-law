@@ -299,5 +299,6 @@
 | Elftes Kapitel |
 | Übergangs- und Schlussvorschriften |
 | § 106 | Einschränkung eines Grundrechts |
-| § 107 | Übergangsregelung |
+| § 107 | (zukünftig in Kraft) |
+| § 108 | Übergangsregelung |
 |  |  |

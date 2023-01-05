@@ -14,6 +14,7 @@
 |  |  | Entschädigung im Falle des Widerrufs | § 9 |
 |  |  | Inhalt und Form der Genehmigung | § 10 |
 |  |  | Genehmigungsbehörden | § 11 |
+|  |  | Übermittlung von Informationen | § 11a |
 |  | Zweiter Abschnitt |  |
 | Überwachungs- und Ausnahmevorschriften |  |
 |  |  | Pflichten im Verkehr mit Kriegswaffen | § 12 |

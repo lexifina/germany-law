@@ -37,12 +37,13 @@
   – ZMV der maximal zumutbare monetäre Verlust in Euro über 20 Jahre,
   – Zum der als Prozentwert im Verhältnis zum Jahresertrag ausgedrückte Schwellenwert, oberhalb dessen Verringerungen des Jahresertrages infolge der Anordnung von Schutzmaßnahmen als nicht mehr zumutbar gelten, und der mit 6 Prozent für einen Regelfall-Standort oder mit 8 Prozent für einen windreichen Standort festgelegt wird; die Zumutbarkeitsschwelle umfasst alle fachlich anerkannten Schutzmaßnahmen inklusive Fledermausabschaltungen.
 2. Berechnung der Zumutbarkeitsschwelle
-  Die Zumutbarkeitsschwelle für die Anordnung von Schutzmaßnahmen für Windenergieanlagen an Land nach § 45b Absatz 2 wird nach folgenden Formeln bestimmt, bei deren Berechnung auf zwei Nachkommastellen zu runden ist:
-2.1 Maximal zumutbarer Energieverlust
-  | ZEV = P · VBH · Zum · d |
+  Die Zumutbarkeitsschwelle für die Anordnung von Schutzmaßnahmen für Windenergieanlagen an Land nach § 45b Absatz 6 wird nach folgenden Formeln bestimmt, bei deren Berechnung auf zwei Nachkommastellen zu runden ist:
+2.1 Maximal zumutbarer monetärer Verlust
+  | ZMV = P · VBH · Zum · AW · d |
 2.2 Prozentualer Anteil der Abschaltungen
-[Bild: bgbl1_2022_j1362-1_0010.jpg]
-Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse angeordnet, ist (FlstMahd · Mahd) + (FlstErnte · Ernte) + (FlstPflügen · Pflügen) · h + (FlstAusn · h) bei der Berechnung aus der Formel zu streichen.
+Die Formel ZAbs wird wie folgt gefasst:
+[Bild: bgbl1_2022_j2240-1_0010.jpg]
+Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse angeordnet, ist ((FlstMahd · Mahd) + (FlstErnte · Ernte) + (FlstPflügen · Pflügen)) · h + (FlstAusn · h) bei der Berechnung aus der Formel zu streichen.
   Werden nur einzelne Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse (nur Mahd, nur Ernte oder nur Pflügen oder eine andere Kombination dieser drei Ereignisse) angeordnet, ist das nicht angeordnete Ereignis aus der Formel zu streichen, das heißt (FlstMahd · Mahd) oder (FlstErnte · Ernte) oder (FlstPflügen · Pflügen).
   Werden keine phänologischen Abschaltungen angeordnet, ist (Phäno · h) bei der Berechnung aus der Formel zu streichen.
   Ist ZAbs ≤ Zum können die Abschaltungen zumutbar sein, sofern sie auch monetär zumutbar sind (Berechnung durch Nummer 2.3).
@@ -56,8 +57,9 @@ Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereign
 3.1 Maximal zulässiger monetärer Verlust im Basisschutz
   | BMV = P · VBH · BS · d · AW |
 3.2 Prozentualer Anteil der Abschaltungen im Basisschutz
-[Bild: bgbl1_2022_j1362-1_0020.jpg]
-Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse angeordnet, ist (FlstMahd · Mahd) + (FlstErnte · Ernte) + (FlstPflügen · Pflügen) · h + (FlstAusn · h) bei der Berechnung aus der Formel zu streichen.
+Die Formel BAbs wird wie folgt gefasst:
+[Bild: bgbl1_2022_j2240-1_0020.jpg]
+Werden keine Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse angeordnet, ist ((FlstMahd · Mahd) + (FlstErnte · Ernte) + (FlstPflügen · Pflügen)) · h + (FlstAusn · h) bei der Berechnung aus der Formel zu streichen.
   Werden nur einzelne Abschaltungen auf Grund landwirtschaftlicher Bewirtschaftungsereignisse (nur Mahd, nur Ernte oder nur Pflügen oder eine andere Kombination dieser drei Ereignisse) angeordnet, ist das nicht angeordnete Ereignis aus der Formel zu streichen, das heißt (FlstMahd · Mahd) oder (FlstErnte · Ernte) oder (FlstPflügen · Pflügen).
   Werden keine phänologischen Abschaltungen angeordnet, ist (Phäno · h) bei der Berechnung aus der Formel zu streichen.
   Ist BAbs > BS, sind die Maßnahmen unzulässig und müssen reduziert werden, bis BAbs ≤ BS.

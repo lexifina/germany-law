@@ -160,7 +160,7 @@
 
 - [§ 53 Statistik und Übermittlung statistischer Daten](0053.md)
 - [§ 53a Arbeitslose](0053a.md)
-- [§ 54 (weggfallen)](0054.md)
+- [§ 54 (weggefallen)](0054.md)
 - [§ 55 Wirkungsforschung](0055.md)
 
 ## Kapitel 8 Mitwirkungspflichten
