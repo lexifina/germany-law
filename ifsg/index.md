@@ -1,7 +1,6 @@
 # Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
-- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## 1. Abschnitt Allgemeine Vorschriften
 
