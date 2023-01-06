@@ -1,8 +1,8 @@
 # Vollzitat: RL Landes-Technologieförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-01-14 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.5
+- Datum: 2023-01-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-14.01.2022
+06.01.2023
 bis
-05.01.2023
+30.06.2023
 
 RL Landes-Technologieförderung
 
@@ -1205,7 +1205,7 @@ III.
 Inkrafttreten
 
 
-Diese Richtlinie tritt am 1. Juli 2017 in Kraft und gilt bis zum 31. Dezember 2022. Gleichzeitig mit dem Inkrafttreten dieser Richtlinie tritt die Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr zur Gewährung einer Prämie zur Unterstützung der Beteiligung kleiner und mittlerer Unternehmen am Rahmenprogramm der Europäischen Union für Forschung und Innovation HORIZON 2020 (HORIZON-Prämie) vom 20. Januar 2015 (SächsABl. S. 188), enthalten in der Verwaltungsvorschrift vom 25. November 2015 (SächsABl. SDr. S. S 400), außer Kraft.
+Diese Richtlinie tritt am 1. Juli 2017 in Kraft und gilt bis zum 31. Dezember 2024. Gleichzeitig mit dem Inkrafttreten dieser Richtlinie tritt die Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr zur Gewährung einer Prämie zur Unterstützung der Beteiligung kleiner und mittlerer Unternehmen am Rahmenprogramm der Europäischen Union für Forschung und Innovation HORIZON 2020 (HORIZON-Prämie) vom 20. Januar 2015 (SächsABl. S. 188), enthalten in der Verwaltungsvorschrift vom 25. November 2015 (SächsABl. SDr. S. S 400), außer Kraft.
 
 
 Dresden, den 27. Juni 2017
@@ -1608,9 +1608,9 @@ Fsn-Nr.: 552-V17.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 14. Januar 2022
+Fassung gültig ab:  6. Januar 2023
 
-Fassung gültig bis:  5. Januar 2023
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -1635,7 +1635,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17309.5
+https://www.revosax.sachsen.de/vorschrift/17309.6
 Stand vom
 18.11.2026
 
