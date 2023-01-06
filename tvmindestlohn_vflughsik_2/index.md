@@ -1,4 +1,4 @@
-# Rechtsnormendes Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfenvom 28. März 2022
+# Rechtsnormendes Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 28. März 2022
 
 - [§ 1 Geltungsbereich](0001.md)
 - [§ 2 Entgeltstruktur](0002.md)

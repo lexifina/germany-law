@@ -6,3 +6,4 @@
 - [§ 3 Fahrkosten](0003.md)
 - [§ 4 Vergütung von Leistungen im Zusammenhang mit der Lagerung, Verteilung, Abgabe und Abholung der Arzneimittel mit monoklonalen Antikörpern sowie deren Abrechnung](0004.md)
 - [§ 5 Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds](0005.md)
+- [§ 6 Inkrafttreten, Außerkrafttreten](0006.md)
