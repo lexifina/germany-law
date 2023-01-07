@@ -71,7 +71,7 @@
 - [§ 38 Rechtsverordnungen und Anordnungsbefugnisse in bestimmten Fällen](0038.md)
 - [§ 39 Weitergehende Maßnahmen](0039.md)
 - [§ 39a Beschränkungen des Eigentums, Entschädigung und Ausgleich](0039a.md)
-- [§ 40 Verkündung von Rechtsverordnungen](0040.md)
+- [§ 40 (weggefallen)](0040.md)
 - [§ 41 Verhältnis zu anderen Vorschriften](0041.md)
 - [§ 42 (weggefallen)](0042.md)
 - [§ 43 Übergangsvorschriften](0043.md)
