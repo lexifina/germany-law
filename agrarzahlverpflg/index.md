@@ -5,5 +5,5 @@
 - [§ 3 Erhaltung von Dauergrünland nach Artikel 93 Absatz 3 der Verordnung (EU) Nr. 1306/2013](0003.md)
 - [§ 4 Ermächtigungen](0004.md)
 - [§ 5 Anwendung des Integrierten Verwaltungs- und Kontrollsystems](0005.md)
-- [§ 6 Verkündung von Rechtsverordnungen](0006.md)
+- [§ 6 (weggefallen)](0006.md)
 - [§ 7 Übergangsregelungen](0007.md)

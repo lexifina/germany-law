@@ -114,5 +114,5 @@
 - [§ 70 Unberührtheitsklausel](0070.md)
 - [§ 71 Besondere Vorschriften zur Bekämpfung der Reblaus](0071.md)
 - [§ 72 Eilverordnungen](0072.md)
-- [§ 73 Verkündung von Rechtsverordnungen](0073.md)
+- [§ 73 (weggefallen)](0073.md)
 - [§ 74 Übergangsvorschriften](0074.md)

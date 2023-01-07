@@ -35,4 +35,3 @@
 
 - [§ 16 Bußgeldvorschriften](0016.md)
 - [§ 17 Rechtsverordnungen in bestimmten Fällen](0017.md)
-- [§ 18 Verkündung von Rechtsverordnungen](0018.md)

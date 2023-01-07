@@ -5,5 +5,5 @@
 - [§ 2 Veröffentlichung](0002.md)
 - [§ 2a Datenverarbeitung](0002a.md)
 - [§ 3 Verordnungsermächtigungen](0003.md)
-- [§ 4 Verkündung von Rechtsverordnungen](0004.md)
+- [§ 4 (weggefallen)](0004.md)
 - [§ 5 Inkrafttreten](0005.md)

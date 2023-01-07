@@ -100,6 +100,6 @@
 
 - [§ 41 Rechtsverordnungen](0041.md)
 - [§ 42 Bestimmungen zum Verwaltungsverfahren](0042.md)
-- [§ 43 Verkündung von Rechtsverordnungen](0043.md)
+- [§ 43 (weggefallen)](0043.md)
 - [§ 44 Übergangsregelungen](0044.md)
 - [Anlage (zu § 34a Absatz 1 und § 34f Absatz 2)](anlage.md)

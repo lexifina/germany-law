@@ -48,5 +48,5 @@ Schlussvorschriften
 | § 26 | Übergangsvorschriften |
 | § 27 | Befreiung vom Preisbindungsverbot nach dem Gesetz gegen Wettbewerbsbeschränkungen |
 | § 28 | Verordnungsermächtigungen zur Aufhebung von Rechtsvorschriften und zur Anpassung an das Unionsrecht |
-| § 29 | Verkündung von Rechtsverordnungen |
+| § 29 | (weggefallen) |
 | § 30 | Außerkrafttreten |

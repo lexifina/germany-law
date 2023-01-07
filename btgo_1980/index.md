@@ -89,14 +89,14 @@
 - [§ 64 Verhandlungsgegenstände](0064.md)
 - [§ 65 Berichterstatterbenennung](0065.md)
 - [§ 66 Berichterstattung](0066.md)
-- [§ 67 Beschlußfähigkeit im Ausschuß](0067.md)
+- [§ 67 Beschlussfähigkeit und Abstimmungen im Ausschuss](0067.md)
 - [§ 68 Herbeirufung eines Mitgliedes der Bundesregierung zu den Ausschußsitzungen](0068.md)
-- [§ 69 Nichtöffentliche Ausschußsitzungen](0069.md)
-- [§ 69a Erweiterte öffentliche Ausschußberatungen](0069a.md)
-- [§ 70 Öffentliche Anhörungssitzungen](0070.md)
+- [§ 69 Öffentliche Ausschusssitzungen und Zutritt](0069.md)
+- [§ 69a Besondere Beteiligungsrechte Dritter](0069a.md)
+- [§ 70 Anhörungssitzungen](0070.md)
 - [§ 71 Antragstellung im Ausschuß, Schluß der Aussprache](0071.md)
 - [§ 72 Abstimmung außerhalb einer Sitzung](0072.md)
-- [§ 73 Ausschußprotokolle](0073.md)
+- [§ 73 Ausschussprotokolle](0073.md)
 - [§ 74 Anwendbarkeit der Bestimmungen der Geschäftsordnung](0074.md)
 
 ## VIII. Vorlagen und ihre Behandlung
@@ -172,7 +172,6 @@
 ## XII. Abweichungen und Auslegung dieser Geschäftsordnung
 
 - [§ 126 Abweichungen von dieser Geschäftsordnung](0126.md)
-- [§ 126a Digitale Ausschusssitzungen und Umlaufverfahren](0126a.md)
 - [§ 127 Auslegung dieser Geschäftsordnung](0127.md)
 - [§ 128 Rechte des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung](0128.md)
 - [Anlage 1 (weggefallen)](anlage-1.md)

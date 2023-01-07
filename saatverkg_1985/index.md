@@ -130,7 +130,6 @@ Bundessortenamtes
 
 - [§ 61 Durchführung von Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union](0061.md)
 - [§ 61a Sonderregelung für Rebenpflanzgut](0061a.md)
-- [§ 61b Verkündung von Rechtsverordnungen](0061b.md)
 - [§ 62 Übergangsvorschrift](0062.md)
 - [§ 62a](0062a.md)
 - [§ 63](0063.md)

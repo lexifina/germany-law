@@ -19,4 +19,3 @@
 - [§ 14 Bußgeldvorschriften](0014.md)
 - [§ 15 Begriffsbestimmungen](0015.md)
 - [§ 16 Übergangsvorschriften](0016.md)
-- [§ 17 Bekanntmachungen](0017.md)

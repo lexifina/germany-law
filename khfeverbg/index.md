@@ -25,6 +25,6 @@
 - [§ 7 Bußgeldvorschriften](0007.md)
 - [§ 8 Verordnungsermächtigungen](0008.md)
 - [§ 9 Gebühren und Auslagen](0009.md)
-- [§ 10 Verkündung von Rechtsverordnungen](0010.md)
+- [§ 10 (weggefallen)](0010.md)
 - [§ 11 Inkrafttreten](0011.md)
 - [Anlage (zu § 3 Absatz 1 Satz 2 Nummer 2)Anforderungen an die Haltung von Pelztieren](anlage.md)

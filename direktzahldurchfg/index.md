@@ -52,6 +52,6 @@
 
 - [§ 26 Weitere Ermächtigungen](0026.md)
 - [§ 27 Bundesanstalt für Landwirtschaft und Ernährung](0027.md)
-- [§ 28 Verkündung von Rechtsverordnungen](0028.md)
+- [§ 28 (weggefallen)](0028.md)
 - [§ 29 Inkrafttreten](0029.md)
 - [Anlage (zu § 9 Absatz 2, 4 und 5)](anlage.md)

@@ -31,5 +31,5 @@
 - [§ 12 Rechtsverordnungen in besonderen Fällen](0012.md)
 - [§ 13 Anhörung von Sachkennern](0013.md)
 - [§ 14 Geltung lebensmittelrechtlicher Vorschriften](0014.md)
-- [§ 15 Verkündung von Rechtsverordnungen](0015.md)
+- [§ 15 (weggefallen)](0015.md)
 - [§ 16 Inkrafttreten, abgelöste Vorschriften](0016.md)

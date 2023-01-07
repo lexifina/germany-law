@@ -50,5 +50,5 @@
 - [§ 26 Übergangsvorschriften](0026.md)
 - [§ 27 Befreiung vom Preisbindungsverbot nach dem Gesetz gegen Wettbewerbsbeschränkungen](0027.md)
 - [§ 28 Verordnungsermächtigungen zur Aufhebung von Rechtsvorschriften und zur Anpassung an das Unionsrecht](0028.md)
-- [§ 29 Verkündung von Rechtsverordnungen](0029.md)
+- [§ 29 (weggefallen)](0029.md)
 - [§ 30 Außerkrafttreten](0030.md)

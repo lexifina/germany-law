@@ -98,6 +98,6 @@
 - [§ 54 Überwachung; Mitteilungen; Verordnungsermächtigung](0054.md)
 - [§ 55 Bußgeldvorschriften](0055.md)
 - [§ 56 Rechtsverordnungen in besonderen Fällen](0056.md)
-- [§ 57 Verkündung von Rechtsverordnungen](0057.md)
+- [§ 57 (weggefallen)](0057.md)
 - [§ 58 Übergangsbestimmungen](0058.md)
 - [§ 59 Evaluierung der Regelungen über unlautere Handelspraktiken](0059.md)

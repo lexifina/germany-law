@@ -22,4 +22,3 @@
 - [§ 13 Datei über Befähigungszeugnisse und sonstige Befähigungsnachweise](0013.md)
 - [§ 14 Datei über Schifferdienstbücher](0014.md)
 - [§ 15 Allgemeine Verwaltungsvorschriften](0015.md)
-- [§ 16 Verkündung von Rechtsverordnungen](0016.md)

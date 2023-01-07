@@ -11,5 +11,4 @@
 - [§ 9 Weitere Verordnungsermächtigungen](0009.md)
 - [§ 10 Weitere Bestimmungen zum Verwaltungsverfahren](0010.md)
 - [§ 11 Bußgeldvorschriften](0011.md)
-- [§ 12 Verkündung von Rechtsverordnungen](0012.md)
 - [Anlage (zu § 4 Absatz 2)](anlage.md)
