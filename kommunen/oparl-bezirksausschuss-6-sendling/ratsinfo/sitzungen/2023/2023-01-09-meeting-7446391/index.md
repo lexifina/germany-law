@@ -1,0 +1,105 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-01-09T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7446391
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7446391
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Sitzbank auf dem Quartiersplatz Theresienhöhe
+- TOP 2.2.: Beschwerde bezüglich Verhalten von Besucher*innen der Stadtbibliothek Anliegen zur Kenntnisnahme
+- TOP 2.3.: Gefährliche Stelle für Radfahrerinnen in der Oberländerstraße/ Gotzinger Straße
+- TOP 2.4.: Fahrradabstellplätze an der Lipowskystraße 23
+- TOP 2.5.: Christkindlmarkt am Harras Bitte um Einflussnahme durch den BA
+- TOP 2.6.: Atelier in Sendling
+- TOP 2.7.: Kleine Fußgänger-Unterführung südlich des S-Bahn-Halt Mittersendling
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) Förderverfahren bei energetischer Sanierung beschleunigen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Lindenschmitstr.21
+- TOP 4.2.2.: Anhörung Beschlussvorlage "Hochhausstudie 2023"
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Bauvorhaben Berlepschstraße 8 Ablehnungsbescheid
+- TOP 4.3.3.: Information über Entfernung von Gefahrenbäumen
+- TOP 4.3.4.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 4.3.5.: Kunst am Bau Protokoll
+- TOP 4.3.6.: Wertstoffinseln an der Valleystraße Antwort
+- TOP 4.3.7.: Asphaltierung des Platzes an der Demleitner Straße Antwortr
+- TOP 4.3.8.: Meindlstr. 5
+- TOP 4.3.9.: Fahrradabstellanlage im Bereich Karwendelstr.
+- TOP 4.3.10.: Baumentfernung Straßenbegleitgrün
+- TOP 4.3.11.: Anfrage hinsichtlich der Ablehnung von Kompost-Toiletten Antwort
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Renovierung der Sitzbank an der Ecke Valley- / Dankl-Straße [Seniorenvertretung]
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Gotzinger Platz - Ortstermin zur Errichtung einer Interimsfläche zum Boulespielen
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Sicherung des Fußwegs an der Stemmerwiese
+- TOP 5.1.2.: (E) + (U) Verlegung des Radweges zwischen Alramstraße und Brudermühlstraße auf die Straße Empfehlung Nr. 20-26 / E 00424 der Bürgerversammlung des 06. Stadtbezirkes Sendling am 12.10.2021
+- TOP 5.1.3.: (E) Margaretenstraße - Verbesserung der Verkehrssicherheit
+- TOP 5.1.4.: Wiederherstellung und vollständige Erweiterung des Fahrradweges in der Tumblingerstraße
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Treppe an der Oberländerstraße
+- TOP 5.3.2.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 5.3.3.: Haushalt 2023 des Mobilitätsreferats - Produkte - Umsetzung des Eckdatenbeschlusses - Teilergebnis- und Teilfinanzhaushalt - inflationsbedingte Preissteigerungsrate - Haushaltskonsolidierung - Innovationsfonds
+- TOP 5.3.4.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 5.3.5.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 5.3.6.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 5.3.7.: Verkehrsrechtliche Anordnung Flößergasse – Unterführungsbereich zwischen Zech- und Heißstraße beidseitiges Pkw-Parken
+- TOP 5.3.8.: Kontrollen zur Einhaltung der Straßenverkehrsordnung Antwort
+- TOP 5.3.9.: Verkehrsrechtliche Anordnung Schäftlarnstraße Ostseite/ Ecke Brudermühlstraße (nördliche Fahrbahnseite); Wegweisende Beschilderung für Fußgänger Richtung Parkplatz Gasteig HP8, Ausweisung Verbot für Fußgänger
+- TOP 5.3.10.: Antrag aus der Kinder- und Jugendversammlung vom 01.07.2022 Einrichtung der Senserstraße als Spielstraße
+- TOP 5.3.11.: Plinganserstr. 60, Aufhebung pers. Behindertenstllplatz
+- TOP 5.3.12.: Fahrradstellplätze in Engelhardstraße 12
+- TOP 5.3.13.: Fahrradstellplätze in Engelhardstraße 12 auf gegenüber
+- TOP 5.3.14.: Anliegen bezüglich der Karwendelstraße Antwort
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Fahrradabstellanlagen im Bereich Lipowskystraße [Die Grünen]
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget animato münchner orchester e.V. Vorbereitung für das Konzert in der Himmelfahrtskirche in Sendling am 04.02.2023 1.352,00 €/ AZ: 0262.0-6-0406
+- TOP 6.1.2.: (E) Stadtbezirksbudget Sendlinger Kulturschmiede e.V. “Bilderfries vom 20.01.2023-01.09.2023“ 1.975,00 €/ AZ: 0262.0-6-0407
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Flora“ “Flora vom 15.02.2023-30.06.2023“ 4.000,00 € / AZ: 0262.0-6-0408
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Bericht Sommerfest 2022 Teestube "komm"
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Abschlussbericht Sommerstraßen 2022 Sommerstraßen 2023
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Times
+- TOP 8.3.2.: Gewerbliche Nutzung der Stemmerwiese Antwort
+- TOP 8.3.3.: Sendlinger Friedhof - historische Grabsteine Antwort
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 6.1.4.: (E) Stadtbezirksbudget ars musica e.V. “ars musica goes back in time 1923 – die Revue runnin wild vom 21.04.2023 – 23.04.2023“ 4.000,00 € / AZ: 0262.0-6-0412
