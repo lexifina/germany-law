@@ -1,0 +1,201 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2023-01-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7459876
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7459876
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA 21
+- TOP 2.2.1.: Agnes-Bernauer-Str. 181; Verlängerung Parkbereich nur für Pkw (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.2.: Sommerstraße 2023 Österreicherviertel – Steiermarkstraße, Pörtschacher Straße (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.3.: Landschaftspark West; Zweckentfremdung (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.4.: Ausfahrt vom Josef-Osterhuber-Platz (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.5.: Kaspar-Kerll-Straße - Raser und LKWs (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.6.: Umgestaltung, Aufwertung und Neubegründung von Grünflächen im Zuge der „Bürgerbeteiligung Österreicherviertel“ (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.7.: Neubaugebiet am Dreilingsweg: West-Ost-Durchfahrt für den MIV für Anlieger freigeben (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.8.: Resumee der Müllentfernung zwischen Paosostraße und Maria-Eich-Straße im Jahr 2022 (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.9.: LKW-Verkehr Bachmairstraße durch Umbau Karlsgymnasium (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.10.: Grund- und Mittelschule Peslmüllerstraße; Einladung zum Dialogabend am 09.02.23 (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 2.2.11.: Fischer-von-Erlach-Straße, Sanierung Tiefgarage
+- TOP 2.2.12.: Gefahrenstelle Zebrastreifen Menzinger Straße / Ecke Heerstraße an Bushaltestelle
+- TOP 2.2.13.: Beschilderung / Fussgänger-Übergang Hermine-von-Parish-Straße
+- TOP 2.2.14.: Verlängerung Tram 17
+- TOP 2.2.15.: Erstellung einer Potentialanalyse einer Bürgerwärme-Anlage
+- TOP 2.2.16.: Kaflerstraße - Vorschlag zur Verkehrsberuhigung
+- TOP 2.2.17.: Tempo 30 Pippinger Straße
+- TOP 2.2.18.: Wertstoffinseln - Standplatzes Freseniusstraße - Fasanenstraße
+- TOP 2.2.19.: Baugenehmigung für das Bauvorhaben Gottfried Kellerstraße: Neubau eines Studentenwohnheimes mit Einzelhandel und TG
+- TOP 2.2.20.: Müll Pasinger Promenade
+- TOP 2.2.21.: Schnee auf Radwegen zur Schule; Meyerbeerstraße, Offenbachstraße
+- TOP 2.2.22.: Freie Meinungsäußerung in München Pasing, Genehmigung auf von der DB verwalteten Aufenthalts- und Verkehrsflächen
+- TOP 2.2.23.: Widerspruch gegen Bauvorhaben Benedikterstraße
+- TOP 2.2.24.: Uferbefestigung Würm
+- TOP 3.: Bericht des UA Umwelt, Natur und Klimaschutz + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Göllheimer Str. 5: 1 Fichte
+- TOP 3.1.2.: Rubensstr. 19: 1 Fichte
+- TOP 3.1.3.: Thuillestr. 45: 3 Fichten
+- TOP 3.1.4.: Bergsonstr. 79: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.5.: Peslmüllerstr. 7: 1 Fichte
+- TOP 3.1.6.: Chopinstr. 7: 1 Fichte, 2 Eiben
+- TOP 3.1.7.: Freseniusstr. 84a: 2 Birken
+- TOP 3.1.8.: Faistenlohestr. 15: 1 Weißdorn
+- TOP 3.1.9.: Neufeldstr. 35: 1 Robinie
+- TOP 3.1.10.: Franz-Hauser-Weg 3: 2 Eschen, 1 Lärche
+- TOP 3.1.11.: Bergsonstr. 47: 1 Kiefer
+- TOP 3.1.12.: Ortolfstr. 15a: Baumbestandsplan
+- TOP 3.1.13.: Hofheimerstr. 2-10: 1 Ahorn
+- TOP 3.1.14.: Julius-Keis-Str. 19: 1 Fichte, 2 Nussbäume
+- TOP 3.1.15.: Falkweg 27: Baumbestandsplan (Haus 1 und 2)
+- TOP 3.1.16.: Agnes-Bernauer-Str. 239: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.17.: Seinsheimstr. 13: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.18.: Numbergerstr. 1: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.19.: Offenbachstr. 8: Baumbestandsplan
+- TOP 3.1.20.: Schladminger Str. 12: 1 Scheinzypresse
+- TOP 3.1.21.: Pembaurstr. 13a: 1 Blaufichte
+- TOP 3.1.22.: Fasanenstr. 17: 1 Robinie
+- TOP 3.1.23.: Seeholzenweg 4: Baumbestandsplan
+- TOP 3.1.24.: Verdistr. 100: Freiflächengestaltungsplan
+- TOP 3.1.25.: Faistenlohestr. 18: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.26.: Marschnerstr. 97-97b: 1 Bergahorn
+- TOP 3.1.27.: Benedikterstr. 4: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.28.: Lützowstr. 1: 1 Prunus ssp.
+- TOP 3.1.29.: Betzenweg 4: 1 Silberahorn, 1 Scheinzypresse
+- TOP 3.2: Gefahrenbäume
+- TOP 3.2.1.: Friedhof Pasing (Liste Baureferat vom 30.11.22)
+- TOP 3.2.2.: Diverse Grünflächen (Liste Baureferat vom 09.11.22)
+- TOP 4.: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 4.1.: Sondersitzung vom 12.12.22 (Pippinger Flur)
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 6.: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beirät*innen
+- TOP 10.: Entscheidungen
+- TOP 10.1.: (E) Stadtbezirksbudget Pasinger Fabrik GmbH Ist das Demokratie oder kann das weg? vom 02.11. - 06.11.2022 4.509,37 Euro, Az.: 0262.0-21-0349 (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 10.2.: (E) Stadtbezirksbudget Mittagsbetreuung der Grandlschule e.V. Anschaffung von Spielgeräten 22.491,00 Euro, Az.: 0262.0-21-0357 (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 10.3.: (E) Stadtbezirksbudget Förderverein der Grundschule Peslmüllerstraße e.V. Daumenkino / Bücher / Morf / Warnwesten 5.284,05 Euro, Az.: 0262.0-21-0362 (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 10.4.: (E) Stadtbezirksbudget Initiative "Quartierentwicklung Österreicher Viertel - Arbeitsgruppe Schwarzes Brett" Quartierentwicklung Österreicher Viertel - Arbeitsgruppe Schwarzes Brett vom 31.01. - 31.12.2023 700,00 Euro, Az.: 0262.0-21-0367
+- TOP 10.5.: (E) Stadtbezirksbudget Elternbeirat des Kindergartens St. Hildegard Anschaffung von Fahrzeugen und eines Spielhauses 4.031,25 Euro, Az.: 0262.0-21-0366
+- TOP 10.6.: (E) + (U) Abschaltung Ampelanlage Gräfstraße / Josef-Retzer-Straße nach Mitternacht Empfehlung Nr. 20-26 / E 00021 der Bürgerversammlung des Stadtbezirkes Nr. 21 Pasing-Obermenzing am 21.06.2021
+- TOP 11.: Anhörungen
+- TOP 11.1.: Pippinger Str. 95: Schulbauoffensive - Neubau Haus für Kinder mit 2 Krippen-, 3 Kindergarten- und 1 Hortgruppe sowie Schallschutzwand / Tektur (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 11.2.: Bergsonstr. 79: Neubau 2er Mehrfamilien- und 2er Doppelhäuser sowie eines Einfamilienhauses mit gemeinsamer Tiefgarage (Bergsonstr. 79 + 81 / Elly-Ney-Weg) (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 11.3.: Ortolfstr. 15a: Umbau und Erweiterung (vorher Terrasse + Balkon) einer Doppelhaushälfte mit Errichtung von 2 Gauben, Nutzungsänderung Speicherfläche zu Wohnraum
+- TOP 11.4.: Falkweg 27: Neubau eines Stadthauses mit Duplexparker (Haus 1)
+- TOP 11.5.: Falkweg 27: Neubau eines Stadthauses mit Duplexparker (Haus 2)
+- TOP 11.6.: Agnes-Bernauer-Str. 239: Umbau eines Tennenfeldes im Osten des Vereinsgeländes zu einem Kunstrasenplatz
+- TOP 11.7.: Seinsheimstr. 13: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 11.8.: Offenbachstr. 8: Abbruch einer Garage sowie Neubau eines Doppelhauses mit zwei Garagen / Vorbescheid
+- TOP 11.9.: Numbergerstr. 1: Abbruch Bestand, Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage (6 Stpl.)
+- TOP 11.10.: Schmiedwegerl 6: Nutzungsänderung (EG): IVF-Labor zu Interims-OP-Bereich
+- TOP 11.11.: Seeholzenweg 4: Abbruch des vorhandenen Wohnhauses inkl. Nebengebäude. Errichtung eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 11.12.: Verdistr. 100: Neubau dreier Wohnhäuser mit Tiefgarage - Änderungsantrag, jetzt: Neubau zweier Wohngebäude sowie eines Einfamilienhauses mit gemeinsamer Tiefgarage
+- TOP 11.13.: Faistenlohestr. 18: Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage (8 Stpl.), Abbruch Bestand
+- TOP 11.14.: Benedikterstr. 4: Änderungsantrag - Abbruch zweier Bestandsgebäude sowie Neubau (50 WE), eine Physiotherapiepraxis, gemeinschaftlich genutzte Flächen und Tiefgarage - mit Mobilitätskonzept (Benedikterstr. 4-8 / Georg-Jais-Str. 2-2a + 4-6 / Zacharias-Werner-Str. 11) jetzt: Neubau zweier genossenschaftlicher Wohngebäude (50 WE)
+- TOP 11.15.: Austausch einer Lichtsignalanlage (LSA) - Standort Georg-Habel-Straße / Anton-Pichler-Straße
+- TOP 11.16.: Hochhausstudie 2023; Einladung zum Infotermin am 16.01.23 sowie Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 11.17.: Verkehrssituation Packenreiterstraße
+- TOP 11.18.: Landsberger Str. 441: Errichtung einer Digital Board Anlage, als Wandanlage.
+- TOP 12.: Anträge und Anfragen
+- TOP 12.1.: SPD, Antrag: Regelmäßige Reinigung des Hochzeitshofes am Pasinger Rathaus (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 12.2.: CSU, Antrag: Die Polizeiinspektion 45 zukunftssicher ausbauen
+- TOP 12.3.: SPD, Antrag: Gesamtkonzept für die Sanierung der Pasinger Fabrik
+- TOP 12.4.: SPD, Antrag: Interimstandort der Pasinger Fabrik
+- TOP 13.: Unterrichtungen
+- TOP 13.1.: Unveränderte Fortführung - Gaststätte "Hofbräustüberl", Verdistr. 125
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.1.: Sozialausschuss vom 17.11.22: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 14.2.: Vollversammlung vom 30.11.22: Sportbauprogramm - Zwischenbericht Das Sportbauprogramm weiter vorantreiben Antrag Nr. 20-26 / A 03204 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt-Fraktion vom 28.19.2022 A Ausgangslage B Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. 2. Maßnahmenpaket, Standort Siegenburger Str. 51 2. 4. Maßnahmenpaket C Umsetzung des Leitfadens zum inklusionsorientierten Schulsportstättenbau bei den Projekten des Sportbauprogramms 1. Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 2. Teil 2 "Sportgroß- und Sonderprojekte" 3. Teil 3 "Förderung von Vereinsbaumaßnahmen" D Personal- und Sachmittelbedarf für die Umsetzung des Sportbauprogramms - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Personal- und Sachmittelbedarf im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarf im Baureferat E Beteiligungen und Anhörungen
+- TOP 14.3.: Vollversammlung vom 30.11.22: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 14.4.: Vollversammlung vom 30.11.22: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 14.5.: Bauausschuss vom 06.12.22: (U) Verlängerung der U-Bahn-Linie 5-West von Pasing nach Freiham im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Sachstand Vorplanung Gesamtstrecke 2. Projektgenehmigung Vorhaltemaßnahme Freiham-Zentrum 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2022 – 2026 4. Zusätzlicher Personalbedarf Die U-Bahn nach Freiham, Klarheit schaffen BA-Antrag Nr. 20-26 / B 04043 des Bezirksausschusses des Stadtbezirkes 22 Aubing - Lochhausen - Langwied vom 25.05.2022
+- TOP 14.6.: Ausschuss für Stadtplanung und Bauordnung vom 07.12.22: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 14.7.: Ausschuss für Stadtplanung und Bauordnung vom 07.12.22: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 14.8.: Ausschuss für Stadtplanung und Bauordnung vom 07.12.22: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 14.9.: Ausschuss für Stadtplanung und Bauordnung vom 07.12.22: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 14.10.: Ausschuss für Stadtplanung und Bauordnung vom 07.12.22: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 14.11.: Bildungsausschuss und Sportausschuss vom 07.12.22: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 14.12.: Ausschuss für Stadtplanung und Bauordnung, Sozialausschuss, Kommunalausschuss und Ausschuss für Klima- und Umweltschutz vom 07.12.22: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 14.13.: Kommunalausschuss vom 08.12.22: Mehrjahresinvestitionsprogramm 2022 - 2026 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 14.14.: Verwaltungs- und Personalausschuss vom 14.12.22: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP 15.: Post an den BA
+- TOP 15.1: von der Stadtverwaltung
+- TOP 1.: Direktorium, Stadtspitze
+- TOP 1.1.: Stadtbezirksbudget; Teilwiderruf des Zuschusses für das Projekt "Installation im öffentlichen Raum von Juni – August 2021“; Momentbühne e.V.
+- TOP 1.2.: Informationsschreiben BA 08 / 2022: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen / Hybridsitzungen / Livestream / Konferenztechnik / Hybridkoffer; hier: Beschluss der Sitzungsvorlage Nr. 20-26 / V 07926 durch den Stadtrat am 21.12.22
+- TOP 2.: Baureferat
+- TOP 2.1.: Boden im Calesthenic Park Pasing
+- TOP 2.2.: Entscheidung gem. Vollmacht d. Oberbürgermeisters v. 09.04.2018 über die Projektplanung; Landsberger Straße /Kremser Straße - signalisierte Fuß- und Radwegquerung
+- TOP 2.3.: Grünpatenkonzept München
+- TOP 2.4.: Bauprogramm Straßenunterhalt 2023 im Bereich BA 21 Pasing-Obermenzing
+- TOP 2.5.: Neubau Alten- und Servicezentrum Pasing, Bodenseestraße 4 b; Nutzung der öffentlichen Fläche
+- TOP 2.6.: Sachstand bzgl. Pumptrack bei den Froschweihern
+- TOP 2.7.: Anfrage bzgl. Aufwertung des öffentlichen Raums; Darstellung von Varianten mobiler Sitzmöglichkeiten
+- TOP 2.8.: Wiederaufstellung des Marienbrunnens am Pasinger Marienplatz
+- TOP 3.: Mobilitätsreferat
+- TOP 3.1.: Schieberampe Treppenanlage am Bahnhof Pasing / Josef-Felder-Straße
+- TOP 3.2.: Josef-Felder-Straße, Tempo 30
+- TOP 3.3.: Bürgerbeschwerde Fahrradstellplätze Pasing - Stellplätze für Räder und E-Scooter
+- TOP 3.4.: Bushaltestelle Rubensstraße (Linie 56)
+- TOP 3.5.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Gottfried-Keller-Str. 27
+- TOP 3.6.: Marsopstraße östlich Offenbachstraße (nördlich des Pasing-Nymphenburg-Kanals), Beschilderung eines gemeinsamen Geh- und Radwegs mit Zusatzzeichen "Zufahrt zu den Anwesen gestattet" sowie "Beide Richtungen"; verkehrsrechtliche Anordnung
+- TOP 3.7.: Baustellen in der Landsberger Straße
+- TOP 3.8.: Abschluss Sommerstraßen 2022 und Aufruf für 2023
+- TOP 3.9.: Antrag auf Haltverbot Höhe Rathochstr. 63b
+- TOP 3.10.: Umgestaltung der Kreuzung Paoso- / Avenariusstraße
+- TOP 4.: Referat für Stadtplanung und Bauordnung
+- TOP 4.1.: Bauvorhaben Schikanederstr. 1
+- TOP 4.2.: Vollzug der Baumschutzverordnung - Alte Allee 35 - Göllheimer Str. 5 - Betzenweg 27 - Samerhofstr. 27 - Feinhalsstr. 3
+- TOP 4.3.: Landschaftspark West; Zweckentfremdung
+- TOP 4.4.: Pläntschweg 72; Neubau eines Einfamilien- und eines Doppelhauses mit 2 Carports und einem Pkw-Stellplatz
+- TOP 4.5.: Bierbaumstr. 9: Neubau eines Mehrfamilienhauses (5 WE / EG, OG + Terassengeschoss) mit Tiefgarage
+- TOP 4.6.: Anwesen Fritz-Reuter-Str. 13
+- TOP 4.7.: Bauvorhaben Gottfried-Keller-Straße; Neubau eines Studentenwohnheims mit Einzelhandel und TG
+- TOP 5.: Referat für Arbeit und Wirtschaft, SWM, MVG
+- TOP 5.1.: Trafostation Planegger Str. 111 - Info-Tafel
+- TOP 5.2.: Baumaßnahmen der SWM; Stromprojekt Bauseweinallee
+- TOP 5.3.: Sauna Westbad - Herrentage
+- TOP 6.: Kreisverwaltungsreferat
+- TOP 6.1.: Aufstellung zweier Briefkästen im Neubaugebiet Paul-Gerhardt-Allee sowie Wiederaufstellung des Briefmarkenautomanten bei der Pasinger Post (Antrag Nr. 20-26 / B 04170 vom 15.11.22)
+- TOP 6.2.: Versammlungsanzeige "Kulturlieferdienst" für den 19.01.2023 (August-Exter-Straße)
+- TOP 7.: Referat für Klima- und Umweltschutz
+- TOP 7.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Betrieb von Müllsammelfahrzeugen
+- TOP 8.: Sozialreferat
+- TOP 8.1.: Situation Irmonherplatz
+- TOP 15.2: Sonstige
+- TOP 15.2.1.: BIKU e.V.: Mädchen an den Ball, Regelförderung (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 15.2.2.: Himmelfahrtskirche Pasing: erneute Anfrage Info- und Abstimmungstermin Neugestaltung Kirchenvorplatz (Vertagung aus der BA-Sitzung vom 06.12.22)
+- TOP 15.2.3.: Nachbarschaftstreff Pasing: Beschwerde Lärmbelästigung
+- TOP 15.2.4.: IG Zehentstadel e.V.: Nachbarschaftsbeschwerde
+- TOP 15.2.5.: Regionalmanagement München Süd West: - Aktuelles aus dem November 2022 - Protokoll Mitgliederversammlung - 4. Fachrunde Mobilität 30.11.22
+- TOP 15.2.6.: GEWOFAG: Concierge-Service Mitterfeldstraße
+- TOP 15.2.7.: Eisenbahn-Bundesamt: Beschwerde bzgl. Lärmbelästigungen durch nächtliche Arbeiten an der Bahnstrecke
+- TOP 16.: Verschiedenes
+- TOP 1.: Termine
+- TOP 2.: Bereits weitergeleitete Anfragen, Anliegen etc.
+- TOP 2.1.: Korrektur Straßenerläuterungsschild Pippinger Straße
+- TOP 2.2.25.: (N) - Einrichtung einer Spielstraße; Betzenweg, Zehentstadelweg
+- TOP 2.2.26.: (N) - Wertstoffinseln Paosostraße und Maria-Eich-Straße – Aufsichtspflicht des Referates für Klima- und Umweltschutz
+- TOP 2.2.27.: (N) - Vermüllung der Wertstoffinseln
+- TOP 2.2.28.: (N) - Silvester 2022
+- TOP 11.19.: (N) - Fischer-von-Erlach-Str. 9: Statische Instandsetzung mit Brandschutzertüchtigung und Instandsetzung der Dachabdichtung im Bereich der Dehnungsfugen bei der Tiefgarage zwischen den Wohngebäuden (Fischer-von-Erlach-Str. 9-19 / Mitterfeldstr. 3-9 / Mitterfeldstr. 15-19 / Kapruner Str. 22)
+- TOP 11.20.: (N) - Marschnerstr. 44: Modernisierung, Umbau und Anbau einer Einfamilienwohn-hausvilla mit Neubau einer Garage und Abbruch zweier Gauben
+- TOP 2.9.: (N) - Reinigung Pasinger Promenade
+- TOP 2.2.29.: (N) - Bebauungsplan 2175 - Dreilingsweg
+- TOP 4.2.: (N) - Sitzung vom 04.10.22 (Workshop Pasing Zentrum)
+- TOP 12.5.: (N) - Interfraktioneller Antrag: Schwärzungen bei Schreiben der Stadtverwaltung
+- TOP 12.6.: (N) - Interfraktioneller Antrag: Wettbewerb „Eingangsgebäude der DB Pasing Bahnhof Nordseite“
+- TOP 1.1.: - BA-Sitzung 07.02.23, 19.00 Uhr, Grundschule an der Grandlstr. 5 - BA-Sitzung 07.03.23, 19.00 Uhr, Grundschule an der Grandlstr. 5 - Faschingsempfang im Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, 08.02.23
