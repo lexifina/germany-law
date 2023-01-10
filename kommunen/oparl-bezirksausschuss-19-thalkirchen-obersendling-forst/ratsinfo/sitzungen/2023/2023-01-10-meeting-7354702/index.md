@@ -1,0 +1,69 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-01-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7354702
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7354702
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 06.12.2022
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Förderverein Bernerschule e.V.: “Cybermobbing, Cybergrooming am 24.01.2023“ 607,50 € / AZ: 0262.0-19-0438
+- TOP 3.3.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried: “Suchtprävention und Inklusion vom 01.03.2023 bis 30.11.2023" 3.187,50 € / AZ: 0262.0-19-0439
+- TOP 3.4.: (E) Stadtbezirksbudget NaturFreunde Deutschlands - Bezirk München e.V.: “Errichtung einer saisonalen Kunststoffeisstockbahn vom 01.12.2022 bis 28.02.2023“ 8.982,00 € / AZ: 0262.0-19-0440
+- TOP 3.5.: (E) Stadtbezirksbudget Kleingartenverein SW 58: “Erstellen eines Insektenhauses von 01.03.2023 bis 30.06.2023“ 794,58 € / AZ: 0262.0-19-0441
+- TOP 3.6.: (E) Stadtbezirksbudget Projekt SüdpART: “SüdpART – Die Münchner Naturkunst-Biennale vom 27.05.2023 bis 14.10.2023“ 2.000,00 € / AZ: 0262.0-19-0442
+- TOP 3.7.: - NACHTRAG - (E) Stadtbezirksbudget Eigenheimsiedlung München-Fürstenried, Graubündener Straße, Tessiner Straße und Thurgaustraße: “Sondervorhaben Spielplatzmöbelierung Spielgerät „Kleiner Drache“ vom 01.03.2023 bis 31.03.2023“ 8.122,20 € / AZ: 0262.0-19-0435
+- TOP 3.8.: - NACHTRAG - (E) Stadtbezirksbudget SFZ München Süd "Segeln als sozialpädagogisches Schulprojekt vom 17.07.2023 bis 20.07.2023" 3.355,86 € / AZ: 0262.0-19-0443
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Radweg an der Südostseite der BAB 95 verbreitern
+- TOP 5.2.: (A) Sommerstraßen 2023
+- TOP 5.3.: (A) Aufhebung Radwegbenutzungspflicht Kistlerhofstraße
+- TOP 5.4.: (A) Überprüfung der Auswirkungen einer Sperrung der Höglwörther Straße
+- TOP 5.5.: (E) Ahndung von Parken auf Gehwegen und im Kreuzungsbereich in der Goldbergstraße
+- TOP 5.6.: (E) Überwachung der Haltverbote vor der Herterichschule
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Spindlerstraße 17
+- TOP 6.2.2: Schäftlarnstraße 135
+- TOP 6.2.3: Münsinger Straße 26
+- TOP 6.2.4: Schusterstraße 10
+- TOP 6.2.5: Pössenbacherstraße 9
+- TOP 6.2.6: Appenzeller Straße 95a
+- TOP 6.2.7: Perchastraße 2
+- TOP 6.2.8: Appenzeller Straße 94a (VB)
+- TOP 6.2.9: Feldafinger Straße 1 (VB)
+- TOP 6.2.10: Kerschlacher Straße 6
+- TOP 6.2.11: Heilmaierstraße 14
+- TOP 6.2.12: Badstraße 11 (VB)
+- TOP 6.2.13: Friedastraße 15 (VB)
+- TOP 6.2.14: Boschetsrieder Straße 123 (VB)
+- TOP 6.2.15: Forst-Kasten-Allee Flurnummer 652/42
+- TOP 6.3.: (Antrag) Sicherstellung der Nahversorgung in der Umgebung des AEZ Fürstenried-West
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 9: Verschiedenes
+- TOP 3.9.: - NACHTRAG - (Antrag) Änderung der Stadtbezirksbudget-Richtlinien vom 01.10.2021
+- TOP 5.7.: - NACHTRAG - (Antrag) LH München tritt der Initiative "Lebenswerte Städte und Gemeinden" bei
