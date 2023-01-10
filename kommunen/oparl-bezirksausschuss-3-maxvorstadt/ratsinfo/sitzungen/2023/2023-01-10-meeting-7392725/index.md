@@ -1,0 +1,130 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-01-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7392725
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7392725
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Auskunft, ob eine Betriebsgenehmigung für eine Werkstatt im Innenhof eines Areals in der Dachauer Straße vorliegt
+- TOP 6.2.: Baustellenmanagement Linprunstraße
+- TOP 6.3.: Fahrbahnverengung Baustelle Türkenstraße 2022
+- TOP 6.4.: Stand der Dinge: Gestaltung der Fassade des Heizkraftwerks Theresienstraße 36
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Bebauungsplan Nymphenburger Str. 16
+- TOP 1.2.2.: Lagerung der abgebauten Kunstinstallation Clemens Behr Busbahnhof Olympiazentrum München
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 47-50
+- TOP 2.1.2.: WEB-Listen der LBK: KW 46-49
+- TOP 2.2: Anhörung
+- TOP 2.2.1.: Beschlussvorlage &#039;Konkretisierung der Konzeption „Freiraum M 2030“, Schlüsselprojekt Frei-raumquartierskonzept Innenstadt 1&#039; - Anhörung der Bezirksausschüsse BA1, 2, 3 und 5
+- TOP 2.3: Anhörung
+- TOP 2.3.1.: Anhörung zur Beschlussvorlage Hochhausstudie
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Von-der-Tann-Str. 3
+- TOP 3.1.2.: Arcisstr. 21
+- TOP 3.1.3.: Rambergerstr. 6
+- TOP 3.1.4.: Seidlstr. 15
+- TOP 3.1.5.: Deroystraße 4
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 5.2.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 5.3.: Perspektive München Integriertes Handlungsraumkonzept Münchner Innenstadt Zwischenbericht und Finanzierung städtebauliches Innenstadtmanagement
+- TOP 5.4.: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 5.5.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 5.6.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 5.7.: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 5.8.: Spatenstraße stilllegen und zur Grünfläche umgestalten, Antwort des Baureferats auf weitergeleitetes Bürger*innenanliegen, TOP B 1.1.1/09 2022
+- TOP 5.9.: Verlängerung des Vorbescheids Schellingstr. 25-27
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Parkplatzsituation Ottostraße 2
+- TOP 1.1.2.: Durchfahrt für Müllabfuhr in der Keuslinstraße unmöglich
+- TOP 1.1.3.: Anfrage wegen Fassadengestaltung in der Neureuther Straße 16
+- TOP 1.1.4.: Anbringung eines Sicherheitsspiegels auf der gegenüberliegenden Straßenseite der Ausfahrt Augustenstr. 45
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Öffentliche Toiletten am Königsplatz
+- TOP 1.2.2.: Fahrradservicestationen an Radschnellwegen mitplanen
+- TOP 1.2.3.: Fahrradstellplätze für Studierende / Richard-Wagner-Straße 1
+- TOP 1.2.4.: Anfrage an die LH München hier: Umbau der Kreuzung Pappenheim-, Spatenbräu- und Karlstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Sicherer Fußgängerverkehr an der Baustelle in der Türkenstr. 52 Empfehlung Nr. 20-26 / E 00132 der Bürgerversammlung des Stadtbezirkes 03 – Maxvorstadt am 09.07.2021 Neuabstimmung über die Sitzungsvorlage Nr. 20-26/ V 06753 (wurde im Juli 22 bereits be-handelt)
+- TOP 2.1.2.: Theresienstr. 71, Einrichtung eines eingeschränkten Haltverbots als Hol- und Bringzone für KiTa Am Sternenwinkel
+- TOP 2.1.3.: Theresienstr. 60, Eingeschränktes Haltverbot als Ladezone für Kunstauktionshaus
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: BA-Beschlussvorlage BA 3 - betrifft Christbaumverkaufsplatz (Ausweichplatz Königinstr.)
+- TOP 2.2.2.: Königinstr. 35a, Einrichtung pers. Behindertenparkplatz
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Begrünung zwischen Hiltensperger- und Arcisstraße, Markierungen und parkende PkWs
+- TOP 3.2.: Anordnung eines absoluten Haltverbots in der Barer Straße zwischen Otto- und Karlstraße zur Verbesserung des Linienverkehrs der Trambahnlinien 27 und 28
+- TOP 3.3.: Zweite Stammstrecke PFA 1, 3. Planänderung – Bauwasserableitung, Planfeststellungsbeschluss vom 22.11.2022
+- TOP 3.4.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 3.5.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 3.6.: Hundeverbot im Arnulfpark, Antwort des Baureferats auf weitergeleitetes Bür-ger*innenanliegen TOP C 1.1.3/09 2022
+- TOP 3.7.: Kanalsanierungsmaßnahme Altstadt-Lehel, Isarvorstadt, Maxvorstadt u. Schwabing West
+- TOP 3.8.: MB IV - VAO Vorabmaßnahme Görresstraße
+- TOP 3.9.: Eilentscheid WG: Bez. 3, Feuerwerksanzeige am 01.01.2023 in 80333 München, Sophienstr. 28, Charles Hotel
+- TOP 3.10.: Bescheid, Wittelsbacherpl. 1, Antrag auf Erweiterung der Freischankfläche für die Gaststätte "Koi"
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 4.2.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.3.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 4.4.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2022 - 2026 Einzelplan 4 / Jugendamtsbereich
+- TOP 4.5.: Antwort auf Bürger*innen-Anliegen, Wasserspielplatz Königsplatz nicht zugänglich
+- TOP 4.6.: Antwort auf Bürger*innen-Anliegen, Wasserspielplatz Königsplatz nicht zugänglich
+- TOP 4.7.: Maßmannpark, Mitteilung über Spielgerät
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Höhlenmalerei in der Maxvorstadt
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 05. - 09.06.2023 5.857,00 Euro, Az.: 0262.0-3-0436
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Soundtrack" Soundtrack für die Stadt 2023 vom 21.01. - 30.11.2023 2.975,00 Euro, Az.: 0262.0-3-0434
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: "Mehrwöchige Nutzung der Grünanlagen und des öffentlichen Verkehrsgrunds, Richtlinien für Kultur- und Strandveranstaltungen"
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.: Aktuelle Sachstandsberichte
