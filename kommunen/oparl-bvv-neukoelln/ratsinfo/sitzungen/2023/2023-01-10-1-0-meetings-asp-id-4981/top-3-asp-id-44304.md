@@ -1,0 +1,8 @@
+# TOP 3: Bauprojekt an der Ziegrastraße - sozial-ökologisch bauen und Neuköllner Gewerbe fördern
+
+- Sitzung: 10. öffentliche Sitzung des Ausschusses für Wirtschaft und Arbeit (2023-01-10)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=44304
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=44304
