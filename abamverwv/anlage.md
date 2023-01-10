@@ -1,0 +1,28 @@
+# Anlage (zu § 3)Ermittlung der Kennzahlen
+
+1. Für die Ermittlung der bundesweiten jährlichen Kennzahl 1 (Median) sind die Werte der betrieblichen halbjährlichen Therapiehäufigkeiten aufsteigend zu sortieren, da der Median anhand der Position des Wertes in den sortierten Werten zu definieren ist („Datenpunkt“). Der Median der betrieblichen halbjährlichen Therapiehäufigkeiten ist wie folgt zu berechnen:
+  a) Ermittlung der Anzahl der betrieblichen Therapiehäufigkeiten (n);
+  b) Berechnung des Medians bei
+    aa) gerader Anzahl betrieblicher halbjährlicher Therapiehäufigkeiten:
+      aaa) Ermittlung des oberen und unteren dem Median benachbarten Datenpunktes:
+        – der untere Datenpunkt ist der Quotient aus n / 2;
+        – der obere Datenpunkt ist die Summe des Quotienten aus n / 2 + 1;
+      bbb) die bundesweite jährliche Kennzahl 1 (Median) ist der Mittelwert aus den Werten des oberen und unteren Datenpunktes, also:
+        ((Wert unterer Datenpunkt) + (Wert oberer Datenpunkt)) / 2;
+    bb) ungerader Anzahl betrieblicher halbjährlicher Therapiehäufigkeiten (n):
+      aaa) Ermittlung des Datenpunktes:
+        Datenpunkt ist der Quotient aus: (n + 1) / 2;
+      bbb) die bundesweite jährliche Kennzahl 1 (Median) ist der Wert des ermittelten Datenpunktes.
+2. Für die Ermittlung der bundesweiten jährlichen Kennzahl 2 (drittes Quartil) sind die Werte der betrieblichen halbjährlichen Therapiehäufigkeiten der Größe nach aufsteigend zu sortieren. Das dritte Quartil der betrieblichen halbjährlichen Therapiehäufigkeiten ist wie folgt zu berechnen:
+  a) Ermittlung der Anzahl der betrieblichen Therapiehäufigkeiten (n);
+  b) Berechnung, wenn der Quotient aus n / 4
+    aa) keine ganze Zahl ist:
+      aaa) Ermittlung des Datenpunktes:
+        Datenpunkt ist das Produkt aus n x 0,75 aufgerundet auf die nächste ganze Zahl;
+      bbb) der Wert des so ermittelten Datenpunktes ist das 3. Quartil;
+    bb) eine ganze Zahl ist:
+      aaa) Ermittlung des oberen und unteren Datenpunktes:
+        – der untere Datenpunkt ist das Produkt aus n x 0,75;
+        – der obere Datenpunkt ergibt sich aus n x 0,75 + 1;
+      bbb) die bundesweite jährliche Kennzahl 2 (3. Quartil) ist der Mittelwert aus den Werten des oberen und unteren Datenpunktes, also:
+        ((Wert unterer Datenpunkt) + (Wert oberer Datenpunkt)) / 2.

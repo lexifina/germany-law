@@ -10,9 +10,10 @@
 
 ## Abschnitt 2 Pflichten von Einreisenden
 
-- [§ 3 Anmeldepflicht](0003.md)
+- [§ 3 (weggefallen)](0003.md)
 - [§ 4 Absonderungspflicht](0004.md)
 - [§ 5 Nachweispflicht](0005.md)
+- [§ 5a Testpflicht nach Einreise](0005a.md)
 - [§ 6 Ausnahmen](0006.md)
 - [§ 7 Vorlage- und Übermittlungspflichten](0007.md)
 
