@@ -1,0 +1,6 @@
+# TOP 5: Abstimmung zur weiteren Verfahrensweise in Sachen Wassermanagement und Trinkwasserversorgung in Märkisch-Oderland in den Ausschuss verwiesene Anträge und Beratungsgegenstände: - Wasserstrategie des Landkreises - Trinkwasserversorgungsbericht Märkisch-Oderland
+
+- Sitzung: 19. Sitzung des Ausschusses für Landwirtschaft, Umwelt und Verbraucherschutz (2023-01-10)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=21342
