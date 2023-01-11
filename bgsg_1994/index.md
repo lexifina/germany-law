@@ -57,6 +57,7 @@ Ansammlungen](0026.md)
 
 - [§ 29 Speicherung, Veränderung und Nutzung personenbezogener Daten](0029.md)
 - [§ 30 Ausschreibung zur Fahndung](0030.md)
+- [§ 30a Ausschreibung zur verdeckten Kontrolle, Ermittlungsanfrage oder gezielten Kontrolle](0030a.md)
 - [§ 31 Ausschreibung zur grenzpolizeilichen Beobachtung](0031.md)
 - [§ 31a Übermittlung von Fluggastdaten](0031a.md)
 - [§ 32 Übermittlung personenbezogener Daten](0032.md)

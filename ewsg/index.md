@@ -10,6 +10,7 @@
 - [§ 8 Antragsverfahren für die Vorauszahlung an Erdgaslieferanten](0008.md)
 - [§ 9 Antragsverfahren für den Erstattungsanspruch von Wärmeversorgungsunternehmen](0009.md)
 - [§ 10 Endabrechnung bei Lieferanten, Erstattungsanträge von Erdgaslieferanten und Nachprüfungsverfahren bei Lieferanten](0010.md)
+- [§ 10a Veröffentlichungs-, Berichts- und Aufbewahrungspflichten](0010a.md)
 - [§ 11 Sozialrechtliche Regelung](0011.md)
 - [§ 12 Unpfändbarkeit](0012.md)
 - [§ 13 Mitwirkung der Kreditinstitute](0013.md)

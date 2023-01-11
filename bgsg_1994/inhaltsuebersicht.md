@@ -48,6 +48,7 @@
 |  |  |  |  |  | Datenverarbeitung und Datennutzung |
 |  |  | § 29 | Speicherung, Veränderung und Nutzung personenbezogener Daten |
 |  |  | § 30 | Ausschreibung zur Fahndung |
+|  |  | § 30a | Ausschreibung zur verdeckten Kontrolle, Ermittlungsanfrage oder gezielten Kontrolle |
 |  |  | § 31 | Ausschreibung zur grenzpolizeilichen Beobachtung |
 |  |  | § 31a | Übermittlung von Fluggastdaten |
 |  |  | § 32 | Übermittlung personenbezogener Daten |

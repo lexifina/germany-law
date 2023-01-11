@@ -36,7 +36,7 @@
 
 - [§ 11 Übergangsgebührnisse](0011.md)
 - [§ 11a Ausgleichsbezüge](0011a.md)
-- [§ 11b Beitragszuschüsse zur Kranken- und Pflegeversicherung](0011b.md)
+- [§ 11b Beitragszuschüsse zur Kranken- und Pflegeversicherung sowie Beiträge an berufsständische Versorgungseinrichtungen](0011b.md)
 - [§ 12 Übergangsbeihilfe](0012.md)
 
 #### Unterabschnitt 4 Berufsförderung und Dienstzeitversorgung der Soldaten auf Zeit in besonderen Fällen
