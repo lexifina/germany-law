@@ -1,0 +1,112 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2023-01-11T17:00:00+01:00
+- Ende: 2023-01-11T22:05:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6415
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6415
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=431388
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Sanierung der Schildower Straße - beantwortet
+- TOP 3.2: Sanierungsmaßnahmen in der Schildower Str. - beantwortet
+- TOP 3.3: Umbau der Schildower Straße - beantwortet
+- TOP 3.4: Fläche am Nordgraben im Bezirk Reinickendorf - beantwortet
+- TOP 3.5: Ausbau der Schildower Straße - beantwortet
+- TOP 3.6: Geplante Fällung von Linden wegen Ausbau der Schildower Straße - in der BVV zurückgezogen
+- TOP 3.7: Schäferseepark - beantwortet
+- TOP 3.8: Natur am Schäfersee und Flughafensee - beantwortet
+- TOP 3.9: Sicherere Fußgängerquerung im Märkischen Viertel - beantwortet
+- TOP 3.10: Ergänzung des Verpackungsgesetzes - beantwortet
+- TOP 3.11: Entlassung von Patient*innen aus dem Krankenhaus des Maßregelvollzuges (KMV) - in der BVV zurückgezogen
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 16. Sitzung der BVV am 11.01.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Veranstaltung an der Schäfersee Grundschule - beantwortet
+- TOP 5.2: Jugendpolitischer Aschermittwoch in Reinickendorf - beantwortet
+- TOP 5.3: Bewertung vorzeitiger Plakatierung - beantwortet
+- TOP 5.4: Sicherheit an der Jean-Krämer-Schule - beantwortet
+- TOP 5.5: Jean-Krämer-Schule - beantwortet
+- TOP 5.6: Ausstehende Anbau-Genehmigung Café am See - beantwortet
+- TOP 5.7: Rede zum Turmblasen - beantwortet
+- TOP 5.8: Silvester-Turmblasen am Rathaus Reinickendorf - beantwortet
+- TOP 5.9: Housing first - beantwortet
+- TOP 5.10: Ordnungsamt im Einsatz? - schriftlich beantwortet
+- TOP 5.11: Wahlbenachrichtigungen - schriftlich beantwortet
+- TOP 5.12: Durchgangsverkehr Ruppiner Chaussee - schriftlich beantwortet
+- TOP 5.13: Einbürgerungsfeiern - schriftlich beantwortet
+- TOP 5.14: Effizienz des Ordnungsamtes - in der BVV zurückgezogen
+- TOP 5.15: Ergebnisse des Hunderegisters in Reinickendorf - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Südausgang am S-Bahnhof Frohnau (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Stromausfall in Reinickendorf, wie geht es weiter? (Große Anfrage) - beantwortet
+- TOP 6.3: Wohnungsneubau stärken, Spekulation bekämpfen (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.4: Temporäres Halteverbot vor der Kita Havelmäuse (Beschlussempfehlung) - überwiesen
+- TOP 6.5: Verlegung der öffentlichen Toilette auf Franz-Neumann-Platz (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.6: Mehr öffentliche Toiletten in Reinickendorf errichten (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.7: Verbot des Überholens einspuriger Fahrzeuge auf Abschnitt der Schulzendorfer Straße (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.8: Mieterbeirat in der Rollberge Siedlung unterstützen (Beschlussempfehlung) - vertagt
+- TOP 6.9: Paracelsusbad um ein Außenschwimmbecken erweitern (Beschlussempfehlung) - vertagt
+- TOP 6.10: Sicher mit dem Fahrrad von Tegel nach Lübars I (Beschlussempfehlung) - vertagt
+- TOP 6.11: Sicher mit dem Fahrrad von Tegel nach Lübars II (Beschlussempfehlung) - vertagt
+- TOP 6.12: Öffentliche Toilette auf dem Falkenplatz in Konradshöhe (Beschlussempfehlung) - ohne Änderungen in der BVV beschlossen
+- TOP 6.13: Rechtssicheres Vorgehen gegen illegal aufgestellte Altkleider Container auf privatem Grund (Beschlussempfehlung) - vertagt
+- TOP 6.14: Erstellung einer Dunkelfeldstudie (Beschlussempfehlung) - vertagt
+- TOP 6.15: Missbilligung (Antrag) - vertagt
+- TOP 6.16: Stärkung von nichtdeutschen Erstsprachen (Muttersprachen) in der Kita (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 6.17: Geruchsbelästigung durch Ginkgo-Bäume in der Berliner Straße in Tegel beenden (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 6.18: Die Beete der Greenwichpromenade sanieren - ein Aushängeschild Reinickendorfs erhalten (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 6.19: Ein Masterplan für das KaBoN-Gelände (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 6.20: Präventionsarbeit zu Suchtmitteln und Konsum in Reinickendorf (Große Anfrage) - vertagt
+- TOP 6.21: Stand Großer Verkehrsprojekte in Reinickendorf (Große Anfrage) - vertagt
+- TOP 6.22: Kinder- und Jugendschutz in Reinickendorf (Große Anfrage) - vertagt
+- TOP 6.23: Runder Tisch zur Elisabeth-Aue, Reinickendorf vor weiterer Verkehrsbelastung schützen (Beschlussempfehlung) - vertagt
+- TOP 6.24: Sicher mit dem Fahrrad von Tegel nach Lübars III (Beschlussempfehlung) - vertagt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Verkehrsberuhigung des Dorfkerns Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Asphaltierte Fußübergänge in Alt-Tegel - überwiesen
+- TOP 8.3: Hubschrauberstaffel zeitnah zum BER umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: TXL konsequent schließen: Anwohner:Innen entlasten und Steuerzahler:Innen nicht unnötig belasten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: BVG-Wartehäuschen am Diakoniezentrum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Zuverlässigen und ordnungsgemäßen Busverkehr in Reinickendorf unverzüglich sicherstellen. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Barrierefreiheit auf den Buslinien 124 und 133 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Auswertung der eingegangenen Stellungnahmen aus der erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange zum Bebauungsplanverfahren XX-277a für eine Fläche südlich des Packereigrabens - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Fahrradparkhaus am U-Bahnhof Kurt-Schumacher-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Wasserkran am Güterbahnhof Reinickendorf als technisches Denkmal bewahren - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Nachnutzung TXL -Bedarfe für den organisierten Sport I - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Nachnutzung TXL -Bedarfe für den organisierten Sport II - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Epensteinplatz gestalterisch aufwerten - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Milieuschutzgebiet in Reinickendorf-Ost zügig ausweiten! - vertagt
+- TOP 11.7: Bewohnerbeirat bzw. Fürsprecher in Reinickendorfer Pflegeeinrichtungen - mit Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Grundschule in Reinickendorf-Ost - ohne Änderungen in der BVV beschlossen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Barrierefreiheit bei der Buslinie 125 in der Quäkersiedlung unterstützen (I und II) - überwiesen
+- TOP 13.2: Spielplatz im Steinbergpark erneuern - überwiesen
+- TOP 13.3: Denkmalschutz "Alter Anstaltsfriedhof" KBoN - überwiesen
+- TOP 13.4: Herausragende Leistung im Bezirksamt endlich würdigen - überwiesen
+- TOP 13.5: Skaterpark im Märkischen Viertel ausbessern - überwiesen
+- TOP 13.6: Gemeinsam gegen Blutkrebs - überwiesen
+- TOP 13.7: Mehr Schwimmzeiten für die öffentliche Daseinsvorsorge - überwiesen
+- TOP 13.8: City-Trees für Reinickendorf - überwiesen
+- TOP 13.9: Gebärdendolmetscher*innen für Bürger- und Standesämter - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Barrierefreiheit bei der Buslinie 125 in der Quäkersiedlung unterstützen (III) - überwiesen
+- TOP 14.2: Nachhaltigen Tourismus in Reinickendorf stärken - überwiesen
+- TOP 14.3: Gewässerschutz in Reinickendorf forcieren - überwiesen
+- TOP 14.4: Schulbau in Zukunft aus nachhaltigen Baustoffen - überwiesen
+- TOP 14.5: Rufbus für Reinickendorf - überwiesen
+- TOP 14.6: Busse nach Scharfenberg für Fahrten nach Tegel nutzen - überwiesen
+- TOP 15: Wahl eines stellv. Schriftführers / einer stellv. Schriftführerin in den Vorstand der BVV - erledigt
