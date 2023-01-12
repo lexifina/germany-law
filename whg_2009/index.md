@@ -94,7 +94,7 @@
 
 ### Abschnitt 1 Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz
 
-- [§ 50 Öffentliche Wasserversorgung](0050.md)
+- [§ 50 Öffentliche Wasserversorgung; Ermächtigung zum Erlass von Rechtsverordnungen](0050.md)
 - [§ 51 Festsetzung von Wasserschutzgebieten](0051.md)
 - [§ 52 Besondere Anforderungen in Wasserschutzgebieten](0052.md)
 - [§ 53 Heilquellenschutz](0053.md)
