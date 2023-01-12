@@ -51,6 +51,7 @@
 - [§ 25c Überleitungsvorschrift aus Anlass der vierten Änderungsverordnung](0025c.md)
 - [§ 25d Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts](0025d.md)
 - [§ 25e Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland](0025e.md)
+- [§ 25f Überleitungsvorschrift aus Anlass des Gesetzes zur sofortigen Verbesserung der Rahmenbedingungen für die erneuerbaren Energien im Städtebaurecht](0025f.md)
 - [§ 26 (Berlin-Klausel)](0026.md)
 - [§ 26a Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands](0026a.md)
 - [§ 27 (Inkrafttreten)](0027.md)

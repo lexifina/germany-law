@@ -12,7 +12,7 @@ Nachstehende Pläne und Programme fallen nach § 1 Absatz 1 Nummer 2, § 2 Absat
 | 1.4 | Maßnahmenprogramme nach § 82 des Wasserhaushaltsgesetzes |
 | 1.5 | Raumordnungsplanungen nach § 13 des Raumordnungsgesetzes |
 | 1.6 | Raumordnungsplanungen des Bundes nach § 17 Absatz 1 und 2 des Raumordnungsgesetzes |
-| 1.7 | (weggefallen) |
+| 1.7 | Rechtsverordnungen nach § 249b Absatz 1 und 2 des Baugesetzbuchs |
 | 1.8 | Bauleitplanungen nach den §§ 6 und 10 des Baugesetzbuchs |
 | 1.9 | Maßnahmenprogramme nach § 45h des Wasserhaushaltsgesetzes |
 | 1.10 | Bundesbedarfspläne nach § 12e des Energiewirtschaftsgesetzes |

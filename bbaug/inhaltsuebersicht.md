@@ -402,6 +402,8 @@ Schlussvorschriften
 | § 247 | Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland |
 | § 248 | Sonderregelung zur sparsamen und effizienten Nutzung von Energie |
 | § 249 | Sonderregelungen zur Windenergie |
+| § 249a | Sonderregelung für Vorhaben zur Herstellung oder Speicherung von Wasserstoff aus erneuerbaren Energien |
+| § 249b | Verordnungsermächtigungen zum Ausbau der erneuerbaren Energien in Abbaubereichen des Braunkohletagebaus |
 | § 250 | Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten |
 | Anlage 1 | (zu § 2 Absatz 4 und den §§ 2a und 4c) |
 | Anlage 2 | (zu § 13a Absatz 1 Satz 2 Nummer 2) |

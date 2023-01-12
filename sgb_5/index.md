@@ -649,8 +649,7 @@ Beschäftigter](0230.md)
 - [§ 232a Beitragspflichtige Einnahmen der Bezieher von Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld](0232a.md)
 - [§ 232b Beitragspflichtige Einnahmen der Bezieher von Pflegeunterstützungsgeld](0232b.md)
 - [§ 233 Beitragspflichtige Einnahmen der Seeleute](0233.md)
-- [§ 234 Beitragspflichtige Einnahmen der Künstler und
-Publizisten](0234.md)
+- [§ 234 Beitragspflichtige Einnahmen der Künstler und Publizisten](0234.md)
 - [§ 235 Beitragspflichtige Einnahmen von Rehabilitanden, Jugendlichen und Menschen mit Behinderungen in Einrichtungen](0235.md)
 - [§ 236 Beitragspflichtige Einnahmen der Studenten und Praktikanten](0236.md)
 - [§ 237 Beitragspflichtige Einnahmen versicherungspflichtiger Rentner](0237.md)
@@ -699,7 +698,7 @@ Zivildienstleistende](0244.md)
 
 ### Dritter Abschnitt Verwendung und Verwaltung der Mittel
 
-- [§ 259 Mittel der Krankenkasse](0259.md)
+- [§ 259 (weggefallen)](0259.md)
 - [§ 260 Betriebsmittel](0260.md)
 - [§ 261 Rücklage](0261.md)
 - [§ 262 Gesamtrücklage](0262.md)
@@ -1025,5 +1024,6 @@ von Leistungsdaten, Datentransparenz
 - [§ 416 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0416.md)
 - [§ 417 Versicherung nach § 9 für Ausländerinnen und Ausländer mit Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes oder mit entsprechender Fiktionsbescheinigung](0417.md)
 - [§ 418 Übergangsregelung zum Antragsverfahren zur Ausnahme vom Preismoratorium](0418.md)
+- [§ 420 Übergangsregelung zur Novellierung der vermögensrechtlichen Vorschriften](0420.md)
 - [§ 421 Übergangsregelung zur Vergütung von pharmazeutischem Großhandel und von Apotheken für die Abgabe von COVID-19-Impfstoff](0421.md)
 - [Anlage (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung](anlage.md)
