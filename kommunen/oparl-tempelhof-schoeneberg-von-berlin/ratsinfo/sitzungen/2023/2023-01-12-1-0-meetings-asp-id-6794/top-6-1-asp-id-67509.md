@@ -1,0 +1,8 @@
+# TOP 6.1: Umweltverbund stärken - Bussonderspuren und auch Radspuren an der Hauptstraße und Rheinstraße einrichten
+
+- Sitzung: 11. öffentliche Sitzung des Ausschusses für Straßen und Verkehr (2023-01-12)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=67509
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=67509
