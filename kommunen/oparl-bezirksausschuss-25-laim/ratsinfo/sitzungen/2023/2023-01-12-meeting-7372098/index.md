@@ -1,0 +1,108 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372098
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372098
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A): Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A).1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B): Benennung Gleichstellungsbeauftragte/r
+- TOP C): Fraktion Die Grünen: Nachbesetzung im Unterausschuss Soziales und Schule/Gesundheit und neue Vertretungsregelung im UA Kultur, Schule und Gesundheit, Umwelt/Klima und Baumschutz
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Erweiterung Bücherschrank Laim
+- TOP 2: Anträge
+- TOP 2.1.: Beschilderung des Stadtbezirkes Laim ergänzen
+- TOP 2.2.: Taktverdichtung während der Mittagszeiten bei der Buslinie 168
+- TOP 2.3.: Radeln für die Christbaumbeleuchtung am Laimer Anger
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Faschingsclub Laim e.V. Laimer Faschingstreiben 2023 am 18.02.2023 3.726,25 Euro, Az.: 0262.0-25-0284
+- TOP 3.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Umgestaltung der Grünanlage am Laimer Platz im 25. Stadtbezirk Beschluss des Bezirksausschusses des 25. Stadtbezirkes Laim vom 12.01.2023
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Mobilitätsreferat vom 23.11.22: Kurzparkzone Perhamerstraße, westlich Fürstenrieder Straße
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 09.12.22: Abschlussbericht Sommerstraße 2022 und Aufruf für 2023
+- TOP 4.4.: Schreiben Referat für Bildung und Sport vom 16.12.22: Sicherung Bilder in der Camerloher Schule BA-Antrag Nr. 06188, Ergänzende Stellungnahme
+- TOP 4.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.12.22: Hochhausstudie 2023 (Gesamte Unterlagen in Alfresco unter Ordner Hochhausstudie zu finden)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Camerloherstr. 119 Neubau eines Mehrparteienhauses und eines Einfamilienhauses mit Tiefgarage
+- TOP 5.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.12.22: Berchemstr. 25, Fl.Nr. 352/50, Gemarkung Laim Neubau eines oder zweier Wohngebäude (2 Var.) - Vorbescheid
+- TOP 5.4.: Dringende Bitte um Prüfung Bauvorhaben Berchem-/Hörkherstr. Laim FlurNr. 352/50
+- TOP 5.5.: Friedenheimer Str. 106 Neubau eines Mehrfamilienhauses (3 WE) sowie Änderung eines Bestandsgebäudes (v.a. Einbau einer Dachgaube)
+- TOP 5.7.: Camerloherstr. Neubau eines Mehrfamilienhauses (16 WE) mit Tiefgarage (Camerloherstr. Fl.Nr. 171/3 / Stroblstr. Fl.Nr. 171/3)
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Referat für Bildung und Sport vom 13.12.22: Unterstützung des SV Laim - Ausweichfläche während der Baumaßnahmen für die U5
+- TOP 6.2.: SV Laim: Bolzplatz und Trainingszeit / Nachtrag zum Vororttermin
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 01.12.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 16.11.22: Umsetzung Öffentlichkeitsbeteiligungskonzept der LHM
+- TOP 8.2.: Schreiben Sozialreferat vom 21.11.22: Bestellung einer städtischen Leistung zur Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk Laim
+- TOP 8.3.: Schreiben Sozialreferat vom 21.11.22: Zweckentfremdung von Wohnraum, Geyerspergerstr.
+- TOP 8.4.: Schreiben GEWOFAG vom 29.11.22: Antwort: Mangelnde Beleuchtung Aindorfer/Maxstadtstraße
+- TOP 8.5.: Schreiben Seniorenbeirat Laim vom 29.11.22: Wertstoffinsel Hogenbergplatz / Valpichlerstraße
+- TOP 8.6.: Bautenliste 14.11.22-20.11.22: A) Erstantragsverfahren 1. Dichtlstr. 8 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agricolastr. 93 2. Vosslerstr. 9
+- TOP 8.7.: Bautenliste 21.11.22-27.11.22: A) Erstantragsverfahren 1. Camerloherstr. 145 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Hartelstr. 1 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agnes-Bernauer-Str. 98
+- TOP 8.8.: Bautenliste 28.11.22-04.12.22: A) Erstantragsverfahren 1. Willibaldstr. 103 2. Seehoferstr. 10a
+- TOP 8.9.: Bautenliste 05.12.22-11.12.22: A) Erstantragsverfahren 1. Inderstorferstr. 54
+- TOP 8.10.: Bautenlisten 12.12.-18.12.22: A) Erstantragsverfahren 1. Willibaldstr. 51b
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.11.22: Fällungsantrag Stadtlohner Str. 2
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.11.22: Aktueller Stand der Planung für den Landschaftspark München-West Anfrage Nr. Q 00186 aus der Bürgerversammlung des 25. Stadtbezirkes Laim am 18.10.2022
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.12.22: Landsberger Str. 332, Fl.Nr. 237/0, Gemarkung Laim Neubau einer Feuerwache mit Büros und Tiefgarage - Vorbescheid
+- TOP 8.14.: Schreiben Baureferat vom 22.11.22: Straßensanierung Agricolastr.
+- TOP 8.15.: Schreiben Baureferat vom 25.11.22: Sitzbänke Am Laimer Anger sowie am angrenzenden Spielplatz überholen und ggf. reparieren
+- TOP 8.16.: Schreiben Baureferat vom 21.11.22: Überquellende Müllbehälter am Laimer Anger
+- TOP 8.17.: Schreiben Baureferat vom 23.11.22: Fehlende Beleuchtung Rad- und Gehweg in der Senftenauerstraße
+- TOP 8.18.: Schreiben Baureferat vom 14.12.22: Zusätzliche Abfalleimer
+- TOP 8.19.: Schreiben Baureferat vom 04.11.22: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 8.20.: Schreiben Mobilitätsreferat vom 30.11.22: Verlegung der Schulbushaltestelle in die Von-der-Pfordten-Straße
+- TOP 8.21.: Schreiben Mobilitätsreferat vom 29.11.22: Haltverbot in der Hans-Thonauer-Str. als Busausweichstelle
+- TOP 8.22.: Schreiben Mobilitätsreferat vom 02.12.22: Jahresdrehgenehmigung Aktenzeichen XY
+- TOP 8.23.: Schreiben Mobilitätsreferat vom 13.12.22: Gehwegparken Thurneyssenstraße
+- TOP 8.24.: Schreiben Mobilitätsreferat vom 13.12.22: Gehwegparken Valpichlerstraße
+- TOP 8.25.: Schreiben Mobilitätsreferat vom 13.12.22: Gehwegparken Laim (rechtsseitig von der Fürstenrieder Straße)
+- TOP 8.26.: Schreiben Referat für Klima- und Umweltschutz vom 24.11.22: Informationsveranstaltung Luftreinhalteplanung vom 22.11.22
+- TOP 8.27.: Schreiben Referat für Klima- und Umweltschutz vom 24.11.22: Ausnahmezulassung Nachtarbeit wegen Unterhaltsmaßnahmen der Tram-Weichenanlage
+- TOP 8.28.: Schreiben Referat für Klima- und Umweltschutz vom 23.11.22: Ausnahmezulassung Reinigungsarbeiten U-Bahnhöfe
+- TOP 8.29.: Schreiben Referat für Klima- und Umweltschutz vom 07.12.22: Ausnahmezulassungen für nächtliche Reinigungsarbeiten der SWM
+- TOP 8.30.: Schreiben Referat für Klima- und Umweltschutz vom 19.12.22: Ausnahmezulassung Müllsammelfahrzeuge
+- TOP 8.31.: Schreiben Stadtkämmerei vom 21.11.22: Entwurf Mehrjahresinvestitionsprogramms für die Jahre 2022-2026
+- TOP 8.32.: Schreiben SWM vom 22.11.22: Jahresvorschau 2023 - Baustellen im Bereich der MVG
+- TOP 8.33.: Schreiben Verkehrspolizei Fürstenfeldbruck vom 02.12.22: Stellungnahme Geschwindigkeitsüberwachung A96
+- TOP 8.34.: Schreiben Kath. Siedlungswerk München GmbH vom 29.11.22: Wandlung Pkw-Stellplatz - Ludwig-Richter-Str. 17
+- TOP 8.35.: Beschluss der Vollversammlung des Stadtrates vom 30.11.22: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 8.36.: Beschluss des Bauausschusses vom 06.12.22: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 8.37.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.12.22: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.38.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.12.22: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 8.39.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.12.22: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 8.40.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.12.22: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.22: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.22: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 8.43.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.22: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 8.44.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.22: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 8.45.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung gemeinsam mit dem Sozialausschuss, dem Kommunalausschuss und dem Ausschuss für Klima- und Umweltschutz vom 07.12.22: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 8.46.: Beschluss des Bildungsausschusses und des Sportausschusses des Stadtrates in der gemeinsamen Sitzung vom 07.12.22: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.47.: Beschluss des Mobilitätsausschusses vom 14.12.22: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 8.48.: Beschluss des Mobilitätsausschusses vom 14.12.22: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 8.49.: Beschluss des Mobilitätsausschusses vom 14.12.22: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 8.50.: Beschluss des Mobilitätsausschusses gemeinsam mit dem Ausschuss für Arbeit und Wirtschaft vom 14.12.22: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 8.51.: Beschluss des Verwaltungs- und Personalausschusses vom 14.12.22: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP 8.52.: Beschluss des Gesundheitsausschusses vom 15.12.2022: Regionale GesundheitsTreffs – Gesundheitsvorsorge in Freiham, Moosach und Neuperlach Produkt 33414200 Gesundheitsvorsorge Änderung des MIP 2022 - 2026 Beschluss über die Finanzierung ab 2023 (Eckdatenbeschluss Haushalt 2023 Nr. 18)
+- TOP 8.53.: Beschluss des Kommunalausschusses vom 08.12.22: Mehrjahresinvestitionsprogramm 2022 - 2026 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 8.54.: Beschluss der Vollversammlung des Stadtrates vom 30.11.22: Sportbauprogramm - Zwischenbericht Das Sportbauprogramm weiter vorantreiben Antrag Nr. 20-26 / A 03204 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt-Fraktion vom 28.19.2022 A Ausgangslage B Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. 2. Maßnahmenpaket, Standort Siegenburger Str. 51 2. 4. Maßnahmenpaket C Umsetzung des Leitfadens zum inklusionsorientierten Schulsportstättenbau bei den Projekten des Sportbauprogramms 1. Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 2. Teil 2 "Sportgroß- und Sonderprojekte" 3. Teil 3 "Förderung von Vereinsbaumaßnahmen" D Personal- und Sachmittelbedarf für die Umsetzung des Sportbauprogramms - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Personal- und Sachmittelbedarf im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarf im Baureferat E Beteiligungen und Anhörungen
+- TOP 8.55.: Beschluss des Kulturausschusses vom 08.12.22: Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2022 – 2026 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Bahnhof Laim - Fußgängerunterführung (Weitergabe an Deutsch Bahn)
+- TOP 9.2.: Villa Flora - Vereinsaktivitäten (Weitergabe an BA 7 Sendling-Westpark)
+- TOP 9.3.: Einfärben der Radwege (Bürgerinfo)
+- TOP 9.4.: Schneeräumung Stroblstraße (Weitergabe an Baureferat)
+- TOP 1.2: Bürgerpost an den BA
+- TOP 5.2.: Berchemstr. 25 Neubau eines oder zweier Wohngebäude (2 Var.) - VORBESCHEID
+- TOP 5.6.: Reutterstr. 61 Anbau von 3 Wohneinheiten und eines Dreifachparkers an ein Dreifamilienhaus
