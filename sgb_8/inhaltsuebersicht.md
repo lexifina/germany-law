@@ -138,8 +138,7 @@
 | § 55 | Beistandschaft, Pflegschaft und Vormundschaft des Jugendamts |
 | § 56 | Führung der Beistandschaft, der Pflegschaft und der Vormundschaft durch das Jugendamt |
 | § 57 | Mitteilungspflichten des Jugendamts |
-| § 58 | Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister |
-| § 58a | Auskunft über Alleinsorge aus dem Sorgeregister |
+| § 58 | Auskunft über Alleinsorge aus dem Sorgeregister |
 |  |  |
 | Fünfter Abschnitt |
 | Beurkundung, vollstreckbare Urkunden |

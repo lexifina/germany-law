@@ -1,5 +1,6 @@
 # Gesetz zum Schutz der Kulturpflanzen
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeine Bestimmungen
 

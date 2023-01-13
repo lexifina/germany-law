@@ -53,9 +53,9 @@
 - [§ 18f Zulässigkeit der Verarbeitung](0018f.md)
 - [§ 18g Angabe der Versicherungsnummer](0018g.md)
 
-### Sechster Titel Sozialversicherungsausweis
+### Sechster Titel (weggefallen)
 
-- [§ 18h Ausstellung des Sozialversicherungsausweises](0018h.md)
+- [§ 18h (weggefallen)](0018h.md)
 
 ### Siebter Titel Betriebsnummer
 
@@ -195,10 +195,11 @@
 
 ### Vierter Titel Vermögen
 
-- [§ 80 Verwaltung der Mittel](0080.md)
+- [§ 80 Verwaltung der Mittel, Anlagegrundsätze](0080.md)
 - [§ 81 Betriebsmittel](0081.md)
 - [§ 82 Rücklage](0082.md)
-- [§ 83 Anlegung der Rücklage](0083.md)
+- [§ 82a Verwaltungsvermögen](0082a.md)
+- [§ 83 Anlegung der Mittel](0083.md)
 - [§ 84 Beleihung von Grundstücken](0084.md)
 - [§ 85 Genehmigungs- und anzeigepflichtige Vermögensanlagen](0085.md)
 - [§ 86 Ausnahmegenehmigung](0086.md)
@@ -274,17 +275,17 @@
 - [§ 114 Einkommen beim Zusammentreffen mit Renten wegen Todes](0114.md)
 - [§ 115 (weggefallen)](0115.md)
 - [§ 116 Übergangsregelungen für bestehende Wertguthaben](0116.md)
-- [§ 116a Übergangsregelung zur Beitragshaftung](0116a.md)
+- [§ 116a (weggefallen)](0116a.md)
 - [§ 117 Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner](0117.md)
 - [§ 118 Übergangsregelung für Tätigkeiten als Notärztin oder Notarzt im Rettungsdienst](0118.md)
 - [§ 119 (weggefallen)](0119.md)
-- [§ 120 Übergangsregelung zur Änderung der Wählbarkeitsvoraussetzungen](0120.md)
+- [§ 120 (weggefallen)](0120.md)
 - [§ 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen](0121.md)
-- [§ 123 Übergangsregelung zur Struktur der Einrichtungen](0123.md)
-- [§ 124 Übergangsregelung für das Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0124.md)
+- [§ 123 Übergangsregelung](0123.md)
+- [§ 124 (weggefallen)](0124.md)
 - [§ 125 (weggefallen)](0125.md)
 - [§ 126 Verzicht auf die elektronisch unterstützte Prüfung bei den Arbeitgebern](0126.md)
-- [§ 127 Bericht über die Untersuchung zur strukturierten Übermittlung der Daten für die elektronisch unterstützte Prüfung bei den Arbeitgebern](0127.md)
+- [§ 127 (weggefallen)](0127.md)
 - [§ 128 Außerordentliche Hemmung der Verjährung](0128.md)
 - [§ 129 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023](0129.md)
 - [§ 130 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Impfzentren](0130.md)
@@ -292,6 +293,7 @@
 - [§ 132 (weggefallen)](0132.md)
 - [§ 133 Übergangsvorschrift zur Besetzung der hauptamtlichen Vorstände und Geschäftsführungen der Versicherungsträger](0133.md)
 - [§ 134 Übergangsregelung zum Übergangsbereich](0134.md)
+- [§ 135 Bericht zur Einführung eines Betriebsstättenverzeichnisses](0135.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
 
 (BGBl. II 1990, 889, 1046)
