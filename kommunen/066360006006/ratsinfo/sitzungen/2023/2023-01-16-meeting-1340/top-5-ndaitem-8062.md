@@ -1,0 +1,6 @@
+# TOP 5.: Arbeitskreise a) Homepage b) Bürgerinitiative BI c) Friedhof d) 800-Jahrfeier e) Grillhütte
+
+- Sitzung: Ortsbeirat Quentel (9. Sitzung) (2023-01-16)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/8062
