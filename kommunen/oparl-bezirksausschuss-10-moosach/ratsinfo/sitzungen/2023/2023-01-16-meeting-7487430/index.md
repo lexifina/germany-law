@@ -1,0 +1,55 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7487430
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7487430
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen hier: Notwendige Beschlussfassung zu Hybridsitzungen
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Eggmühler Str. 33b - Vorbescheid
+- TOP 3.3.1.2.: Gaggenaystr. 22
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Aufstellung eines Mülleimers an der Pelkovenstraße, Ecke Riesstraße
+- TOP 4.1.2.: Errichtung zweier Bedarfsampeln für die Freiwillige Feuerwehr Moosach während der Zeit der Bauarbeiten im Fernwärmenetz
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Förderverein der Mittelschule München Moosach Wand-Graffiti im Eingangsbereich mit dem Schullogo 364,00 € / Az. 0262.0-10-0315
+- TOP 5.2.: (E) Stadtbezirksbudget Skibären München e.V. Skifahrten im Februar und März 2023 1.100,00 € / Az. 0262.0-10-0316
+- TOP 6.: Anhörungen
+- TOP 6.1.: Standortbestimmung der künftigen Parkscheinautomaten für das Parklizenz-Gebiet "Seydlitzplatz"
+- TOP 6.2.: Entwurf Beschlussvorlage: Perspektive München - Hochhausstudie 2023
+- TOP 6.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Gera-/Fodermayrstraße; Ausdehnung des absoluten Haltverbotes mit Zeitzusatz
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Emmy-Noether-Straße, Westseite; Errichtung absolute Haltverbote
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebes: Bunzlauer Str. 14
+- TOP 8.3.: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP 8.4.: (U) Verkehrskonzept Münchner Norden Verkehrslenkende Maßnahmen Vergabebeschluss
+- TOP 8.5.: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 8.6.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 8.7.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 8.8.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 8.9.: (U) Platz da für Mädchen* und junge Frauen* - Sicherheitsgefühl stärken „Platz da für Mädchen* und junge Frauen*“ Antrag Nr. 20-26 / A 03295 ... 3. Stadtbezirk Maxvorstadt 6. Stadtbezirk Sendling 7. Stadtbezirk Sendling-Westpark 10. Stadtbezirk Moosach 13. Stadtbezirk Bogenhausen 15. Stadtbezirk Trudering-Riem 17. Stadtbezirk Obergiesing–Fasangarten 20. Stadtbezirk Hadern 22. Stadtbezirk Aubing-Lochhausen-Langwied
+- TOP 8.10.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 8.11.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 8.12.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen; - nicht-öffentlich - Hybridsitzungen und Live-Stream ; Kostendarstellung ( -> Siehe TOP 8.3) (SV Nr. 20-26/V 07952)
+- TOP 8.13.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - Wichertstraße
+- TOP 3.3.1.3.: Paula-Ludwig-Weg
+- TOP 4.: Anträge
