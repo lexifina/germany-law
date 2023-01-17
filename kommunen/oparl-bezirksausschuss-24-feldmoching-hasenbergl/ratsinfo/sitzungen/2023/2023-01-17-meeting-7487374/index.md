@@ -1,0 +1,76 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2023-01-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7487374
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7487374
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 1.1.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen hier: Notwendige Beschlussfassung zu Hybridsitzungen
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Feldmoching e.V. Neubeschaffung einer Gefriertruhe 420,00 Euro, Az.: 0262.0-24-0429
+- TOP 2.2.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 30.10. - 03.11.2023 6.357,00 Euro, Az.: 0262.0-24-0433
+- TOP 2.3.: (E) Stadtbezirksbudget Deutsch Türkischer Freundschaftsverein München e.V. Internationales Kinderfest am 06.05.2023 2.886,71 Euro, Az.: 0262.0-24-0432
+- TOP 2.4.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02.2023 bis 31.12.2023 4.760,00 Euro; Az. 0262.0-24-0436
+- TOP 2.5.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 02.09.2023 1.500,00 Euro; Az. 0262.0-24-0435
+- TOP 3.1.: Bedenken gegen das Bauvorhaben Am Schnepfenweg
+- TOP 3.2.: Einrichtung eines absoluten Haltverbots von der Ecke Schroppenwiesenstraße/ Auf den Schrederwiesen einbiegend rechts ca. 30 m bis zu einer Firmeneinfahrt
+- TOP 3.3.: Ittlingerstraße zwischen Dülfer-straße und Leisewitzstraße: a) Anbringung zusätzlicher Parkverbotsschilder; b) Autofahrer ignorieren Anordnung Tempo30.
+- TOP 3.4.: Ausbau Ladestationen für E-Autos; hier vor Anwesen Schittgabler Str. 18-18c
+- TOP 3.5.: Errichtung von Sitzbänken entlang Feldmochinger Straße Richtung Oberschleißheim stadtauswärts
+- TOP 3.6.: Erhöhung der Mutterbodenschicht auf der Obstbaumwiese an der Eberwurzstraße
+- TOP 3.7.: Aufklärung zum Bevölkerungsschutz und zur Katastrophenhilfe für den BA24 (-> vertagt aus der Sitzung am 14.12.2022)
+- TOP 3.8.: Schulwegsichrrheit im Bereich Lerchenauer Straße/ Ponkratzstraße; nochmalige Prüfung der vorgeschlagenen Maßnahmen
+- TOP 3.9.: Verbesserung der Sicherheit der Schulpavillonanlage an der Einmündung Franz-Fackler-Straße/ Max-Wönner-Straße/ Lassallestraße
+- TOP 4.: Die Bürger*innen haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben (inkl. Baumfällungen)
+- TOP 5.1.1.: Max-Kustermann-Platz
+- TOP 5.1.2.: Leuchsstraße
+- TOP 5.1.3.: Lerchenauer Str. 333
+- TOP 5.1.4.: Grashofstr. 15
+- TOP 5.1.5.: Eberwurzstr. 28
+- TOP 5.2.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichem Grund
+- TOP 5.2.1.: "Feldmochinger Dorffasching" am19.02.2023; Feldmochinger Straße
+- TOP 5.3.: Sonstige Anhörungen
+- TOP 5.3.1.: Entwurf Beschlussvorlage: Perspektive München - Hochhausstudie 2023
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP -: Antwortschreiben
+- TOP 1.: Erweiterung des Interimsgymnasiums München-Feldmoching
+- TOP 2.: Gehwegsenkung Weitlstraße
+- TOP 3.: Fahrradständer am Goldschmiedplatz
+- TOP 4.: Erneute Bedarfsprüfung der Autobahnanbindung über die Schleißheimer Straße (BV-Anfrage Nr. 20-26/Q 00221)
+- TOP -: Sonstige Unterrichtungen
+- TOP 5.: Vorabstellungnahme Vorsitzender gemäß § 20 Abs. 1 BA-Satzung: Bauvorhaben Lassallestr. 95 (nach Sonder-Unterausschusssitzung am 15.12.2022)
+- TOP 6.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: Ferchenbachstraße (Südseite); Anbringung absolutes Haltverbot (auf Länge des befestigten Seitenstreifens - ca. 24 m)
+- TOP 7.: Planfeststellungsverfahren: "Neubau zweier Eisenbahnüberführungen Feldmoching / Fasanerie"...", hier gesamtstädtische Stellungnahme (-> siehe TOP 5.3.1 / 14.12.2022)
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 8.: (U) Barrierefreier Zugang zu den Münchner Seen - Badespaß für alle
+- TOP 9.: Verlängerung des Geschäftsbesorgungsvertrags der Olympia-Regatta-Anlage Oberschleißheim (LZM) mit der Olympiapark München GmbH (OMG)
+- TOP 10.: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 11.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 12.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 13.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 14.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 15.: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP 16.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen; - nicht-öffentlich - Hybridsitzungen und Live-Stream ; Kostendarstellung ( -> Siehe TOP 8.3) (SV Nr. 20-26/V 07952)
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.4.1.: Wiedervorlage: Antwortschreiben zum BA-Antrag Nr. 20-26/ B 04022: Ausgleichsflächen im 24. Stadtbezirk
+- TOP 7.5: BA-Vorsitzende*r
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 5.1.6.: Dülferstr. 76
+- TOP 5.3.2.: Erinnerungsverfahren (§ 6.1 AufgrO): Baustelle Feldmochinger Str. 419 - 435 (Fahrbahnsanierung)
+- TOP 3.: Anträge
