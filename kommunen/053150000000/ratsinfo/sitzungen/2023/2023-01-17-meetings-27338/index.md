@@ -1,0 +1,51 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-17T15:00:00+01:00
+- Ende: 2023-01-17T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27338
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27338
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 1.1: 'Integrationsbudget' - Verteilung der Finanzmittel in den Haushaltsjahren 2023 und 2024 - ungeändert beschlossen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Anfrage zum Einbürgerungsverfahren - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage zum Einbürgerungsverfahren (AN/1916/2022) - Kenntnis genommen
+- TOP 3.2: Anfrage zum aktuellen Stand DOMID und Halle 71 - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Grün offene Liste Migration (GOL) betreffend "Aktueller Stand DOMiD und Halle 71 (Anfrage AN/1984/2022) - Kenntnis genommen
+- TOP 3.3: Anfrage zur Situation in der Ausländerbehörde: Rückstandsabbau und Vorbereitung Einbürgerung syrischer Geflüchteter - zurückgestellt
+- TOP -: Situation der Ausländerbehörde AN/2015/2022 Beantwortung - zurückgestellt
+- TOP 3.4: Anfrage zur Evaluation der kommunalen Seniorenprogramme der Stadt Köln – Mitteilung 1468/2022 - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage zur Evaluation der kommunalen Seniorenprogramme der Stadt Köln - Kenntnis genommen
+- TOP 3.5: Nachfrage zu einer Beantwortung des Gesundheitsamtes zu Sozialpsychiatrischen Zentren - Kenntnis genommen
+- TOP -: AN/2017/2022, Nachfrage zu einer Beantwortung des Gesundheitsamtes zu Sozialpsychiatrischen Zentren - Kenntnis genommen
+- TOP 4: Aktuelle Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 5: Mitteilungen
+- TOP 5.1: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2021/22 - Kenntnis genommen
+- TOP 5.2: Bundesprogramm Sprach-Kitas 2022 - Kenntnis genommen
+- TOP 5.3: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 5.4: Resümee zum Bundesprogramm Kita-Einstieg in Köln - Kenntnis genommen
+- TOP 5.5: Welcome-Center für geflüchtete Menschen aus der Ukraine am Hauptbahnhof Köln - Kenntnis genommen
+- TOP 5.6: Berichte zur Situation Geflüchteter - zurückgestellt
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Verteilung der Mittel des Fördertopfes Antirassismus-/Antidiskriminierungsarbeit - Filmproduktion ‚Zeitzeug*innen der NSU-Anschläge in Köln - geändert beschlossen
+- TOP 6.2: Antrag zur Berücksichtigung der meistgesprochen Sprachen in den Kölner Museen - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 8.2: Verteilung der Fördermittel 2023 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 8.3: Verteilung rassismuskritischer Projektmittel 2023 - 1. Schritt - ungeändert beschlossen
+- TOP 8.4: Strukturförderfonds 2023 / 2024 - ungeändert beschlossen
+- TOP 8.5: Änderung der Richtlinie für die Anerkennung und Förderung der Interkulturellen Zentren – hier: Anlage 4 (Förderungshöhe) - ungeändert beschlossen
+- TOP 8.6: Verteilung der Mittel zur Förderung von anerkannten Interkulturellen Zentren für das Jahr 2023 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
