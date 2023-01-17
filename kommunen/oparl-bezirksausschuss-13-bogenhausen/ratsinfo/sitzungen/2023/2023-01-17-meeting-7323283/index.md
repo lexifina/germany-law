@@ -1,0 +1,153 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2023-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7323283
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7323283
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 13.12.2022
+- TOP 1.3.2.: Amtsniederlegung von Florian Braun
+- TOP 1.3.3.: Amtseinführung von Paula Sippl
+- TOP 1.3.4.: Umbesetzung in den Unterausschüssen
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Hochhausstudie 2023 - Beschlussentwurf - Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.2.: Burgauerstr. - Neubau von fünf Doppelhäusern und einem Einfamilienhaus mit Garagen und Stellplätzen - VORBESCHEID
+- TOP 2.2.3.: Gustav-Freytag-Str. 2 - Neubau einer Stadtvilla als Einfamilienhaus mit Tiefgarage
+- TOP 2.2.4.: Krenklstr. 30 - Neubau 3er zusammenhängender Einfamilienhäuser mit einem Carport und einem Doppelhaus mit einem Doppelparker
+- TOP 2.2.5.: Tucheler-Heide-Str. 1 - Neubau eines Mehrfamilienhauses (3 WE) mit Doppelparker (2 St.) und Carport (AZ: 1.23-2022-20501-31)
+- TOP 2.2.6.: Tucheler-Heide-Str. 1 - Neubau eines Einfamilienhauses mit Garage (AZ: 1.23-2022-20509-31)
+- TOP 2.2.7.: Baumfällung zu Bauvorhaben: Burgauerstr. Gustav-Freytag-Str. 2 Insterburger Str. 15a Krenklstr. 30 Kunihohstr. 7 Kurzmannweg 3 Tucheler-Heide-Str. 1 (AZ: 1.23-2022-20501-31) Tucheler-Heide-Str. 1 (AZ: 1.23-2022-20509-31)
+- TOP 2.2.8.: Städtebauliche Entwicklung Cosimapark Bitte um Stellungnahme vertagt in der Sitzung 12/22
+- TOP 2.2.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.10.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: (E) Einsetzen von Lärmradars um Motorenlärm in München zu prüfen
+- TOP 2.3.2.: Gebelestr.: Haltverbot für Pflegezufahrt zum Schulgelände Anhörung des Mobilitätsreferats
+- TOP 2.3.3.: Effner-/ Englschalkinger Str.: Austausch einer Lichtsignalanlage (LSA); Anhörung des Mobiliätsreferats
+- TOP 2.3.4.: Brodersenstraße 4-10: Erhöhte Fußgänger-Gefährdung; Anliegen aus der Bürgerschaft
+- TOP 2.3.5.: Rosenkavalierplatz: Überprüfung der Einbahnregelung; Anliegen aus der Bürgerschaft
+- TOP 2.3.6.: Vorschläge für das Projekt "Sommerstraße 2023"; Anhörung des Mobilitätsreferats
+- TOP 2.3.7.: Sicherer Rad-Schulweg vom neuen Wilhelm-Hausenstein-Gymnasium in Richtung Daglfing/Denning; Antrag der SPD-Fraktion
+- TOP 2.3.8.: Flemingstr. 10 - 48 sowie 86 - 118: Fahrbahnsanierung (Teilflächen); Anhörung des Baureferats
+- TOP 2.3.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.10.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.2.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Planungen für die Modernisierung und weitere Nutzung des aktuellen Gebäudes des WHG - Vorstellung durch Vertreter*innen des Referats für Bildung und Sport sowie Baureferat -
+- TOP 2.5.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.3.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Baumfällungen: Bürgerstr. 2 Ennemoserstr. 3 Flemingstr. 134 Flemingstr. 136 Gotenstr. 3 Kolbergerstr. 10 Stefan-George-Ring 2 (Stand 13.12.2022 wurden bereits als Gefahrenbäume gefällt) Effnerstr. 62 Normannenstr. 34a
+- TOP 2.6.2.: (E) Summton im Wohnhaus in der Masurenstraße
+- TOP 2.6.3.: Wimmerstr.: Errichtung eines Wertstoffcontainerstandortes; Anhörung des AWM
+- TOP 2.6.4.: Öffentliche Grünflächen mit Liegebänken attraktiver machen Bitte um Rückmeldung vertagt in der Sitzung 12/22
+- TOP 2.6.5.: Klären und ggf. ergänzen weiterer Bankstandorte im Bezirk 13
+- TOP 2.6.6.: Installation von Sitzbänken an verschiedenen Standorten; Antrag der CSU-Fraktion vom 19.09.2018
+- TOP 2.6.7.: Eichhörnchen schützen durch kostengünstige, einfache Maßnahmen - Antwortschreiben - vertagt in der Sitzung 12/22
+- TOP 2.6.8.: Grünanlage in der Jörg-Hube-Straße: Ausführung der ursprünglichen Planung und Entfernung des Containers; Anliegen aus der Bürgerschaft
+- TOP 2.6.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.10.: Verschiedenes, Termine
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Beschleunigung des Verfahrens zur Umbenennung von hochbelasteten Straßennamen; Antrag der Fraktion Bündnis90/DIE GRÜNEN vertagt in der Sitzung 12/22
+- TOP 2.7.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.3.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Wertstoffinsel an der Wimmerstraße einrichten
+- TOP 6.2.: Eigene Ampelphase für Radverkehr an der Kreuzung Prinzregentenstraße/Vogelweideplatz
+- TOP 6.3.: Gestaltungsvorschläge für die Grünfläche an der Walpurgisstraße
+- TOP 6.4.: Ausbau Elektromobilität
+- TOP 6.5.: Suche nach Fahrrad-Abstellflächen an der Ismaninger Str. 136 sowie gegenüber der Wehrlestraße 8 - Antwortschreiben des Baureferats -
+- TOP 6.6.: Überprüfung der Ampelschaltung an der Ampel Richard-Strauß-Straße/Donaustraße - Antwortschreiben des Mobilitätsreferats -
+- TOP 6.7.: Unterstützung der Kinderkrippe Klausenburg e.V.
+- TOP 6.8.: Anbringen eines Gehwegs auf der Nordseite der Denninger Straße vom Kreuzungsbereich (Ostpreußenstraße) bis zur Bushaltestelle Hermann-Gmeiner-Weg (stadteinwärts)
+- TOP 6.9.: Antwortschreiben zu den Anfragen aus der Bürgerversammlung vom 20.10.2022: - Vor- und Nachteile des Fahrradschnellwegs durch die Denninger Straße - Baumfällungen auf dem Grundstück zwischen Apenrader Str. und Glücksburger Str. - Status der SEM und der Tram-Trasse Johanneskirchen - Status der Fahrradverbindung zwischen Daglfing und Trudering - Flugblatt-Aktion zur Rücksichtnahme innerhalb der Nachbarschaft
+- TOP 6.10.: Vor-Ort-Termin Leichtbauhalle Kronstadter Str.
+- TOP 6.11.: Beschwerden bzgl. Abfallcontainer in Odinstraße
+- TOP 6.12.: BA-Antrag Nr. 20-26 / B 01697 Unterflurcontainer (UFC) Prinz-Eugen-Park: Einbauzusage durch städtische Finanzierung einhalten Abschließende Antwort des AWM
+- TOP 6.13.: Grünflächenplanung Prinz-Eugen-Park: Anlage eines Bewegungsparcours
+- TOP 6.14.: Errichtung eines rollstuhlgeeigneten Karussells
+- TOP 6.15.: Strukturkonzept für die öffentliche Ladeinfrastruktur der E-Mobilität in Bogenhausen BA-Antrag 20-26 / B 01346 - Rückmeldung des Mobilitätsreferats -
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP 7.1.2.: Informationsschreiben BA 08 / 2022: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen / Hybridsitzungen / Livestream / Konferenztechnik / Hybridkoffer hier: Beschluss der Sitzungsvorlage Nr. 20-26 / V 07926 durch den Stadtrat am 21.12.2022
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken - Unterrichtung des Baureferats -
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 7.3.2.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 7.3.3.: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 7.3.4.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 7.3.5.: Einrichtung einer Schulbushaltestelle in der Ruth-Drexel-Straße für den Schülerverkehr zur Schwimm-und Sporthalle Ruth-Drexel-Straße 27
+- TOP 7.3.6.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Brucknerstr. 22
+- TOP 7.3.7.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Cosiamstr. 158
+- TOP 7.3.8.: Barlowstr. 30 gegenüber: Widerruf des absoluten Haltverbots
+- TOP 7.3.9.: Anordnung eines Halteverbots in der Keplerstraße Ostseite nördlich der Mühlbauerstraße und südlich der Kopernikusstraße
+- TOP 7.3.10.: Anordnung von absoluten Haltverboten in der Possartstraße zwischen Kopernikusstraße und Sternwartstraße zur Gewährleistung eines reibungslosen Ablaufs des Linienverkehrs der Buslinien 54, 58 und 6
+- TOP 7.3.11.: Einrichtung einer Busspur in der Denninger Straße zwischen Arabellastraße und Richard-Strauss-Straße
+- TOP 7.3.12.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 7.3.13.: Jörg-Hube-Straße 103-115 (Wendehammer): Absolutes Haltverbot – Ergänzung Bayerisches Zusatzzeichen
+- TOP 7.3.14.: Normannenstraße – Höhe Normannenplatz (Grünanlage): Absolute Haltverbote vor Querungsstellen
+- TOP 7.4: Kommunalreferat
+- TOP 7.4.1.: Mehrjahresinvestitionsprogramm 2022 - 2026 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 7.4.2.: Salzstraße 33, 35, Nähe Salzstraße: Mitteilung über ein Gründstücksgeschäft
+- TOP 7.4.3.: Eilanfrage zum Glühweinfestival in Bogenhausen - Eilentscheidung des BA-Vorsitzenden -
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unterrichtung über unveränderte Fortführung der Gaststätte: "Hippocampus", Mühlbaurstr. 5, 81677 München
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Baumfällungen (Unterrichtungen): Beblostr. 1 - 15 Beblostr. 2 - 22 Buschingstr. 8 - 10 Buschingstr. 12 - 24 Ismaninger Str. 109 Kolbergerstr. 10 - 14, auf Höhe Haus Nr. 12 Pienzenauerstr. 97 Scheinerstr. 1 Stefan-George-Ring 2-8
+- TOP 7.7.2.: Traberstr. 4: Neubau von vier Stadthäusern sowie vier Carports Abdruck der Baugenehmigung
+- TOP 7.7.3.: A) Bebauungsplan mit Grünordnung Nr. 2183 Marienburger Straße (östlich), Memeler Straße (nördlich), Bahnstrecke Nr. 5560 (westlich) - Eckdaten- und Aufstellungsbeschluss - B) Durchführung eines städtebaulichen und landschaftsplanerischen Planungswettbewerbs C) Weiteres Vorgehen Stadtbezirk 13 Bogenhausen
+- TOP 7.7.4.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 7.7.5.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 7.7.6.: Mauerkircherstr. 50: Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage - Abdruck der Baugenehmigung -
+- TOP 7.7.7.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 7.7.8.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 7.7.9.: Urbanes Gärtnern in München StR-Anträge
+- TOP 7.7.10.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 7.7.11.: Stadtentwicklung im Münchner Nordosten - Finanzierungs- und Vergabebeschluss - Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering-Riem
+- TOP 7.7.12.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: Sportbauprogramm - Zwischenbericht Das Sportbauprogramm weiter vorantreiben Antrag Nr. 20-26 / A 03204 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt-Fraktion vom 28.19.2022 A Ausgangslage B Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. 2. Maßnahmenpaket, Standort Siegenburger Str. 51 2. 4. Maßnahmenpaket C Umsetzung des Leitfadens zum inklusionsorientierten Schulsportstättenbau bei den Projekten des Sportbauprogramms 1. Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 2. Teil 2 "Sportgroß- und Sonderprojekte" 3. Teil 3 "Förderung von Vereinsbaumaßnahmen" D Personal- und Sachmittelbedarf für die Umsetzung des Sportbauprogramms - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Personal- und Sachmittelbedarf im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarf im Baureferat E Beteiligungen und Anhörungen
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Vollzug der Zweckentfremdungssatzung: Gellertstr. 8 + 10 Schneidemühler Str. 12 Ortnitstr. 25 Höslstr. 7
+- TOP 7.9.2.: (U) Folgen des Angriffskriegs auf die Ukraine Fortsetzung Rahmenfinanzierung ab 2023 – notwendige Sachkosten und Zuschüsse im Amt für Wohnen und Migration ........ Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms ........
+- TOP 7.9.3.: (U) Platz da für Mädchen* und junge Frauen* - Sicherheitsgefühl stärken „Platz da für Mädchen* und junge Frauen*“ Antrag Nr. 20-26 / A 03295 ... 3. Stadtbezirk Maxvorstadt 6. Stadtbezirk Sendling 7. Stadtbezirk Sendling-Westpark 10. Stadtbezirk Moosach 13. Stadtbezirk Bogenhausen 15. Stadtbezirk Trudering-Riem 17. Stadtbezirk Obergiesing–Fasangarten 20. Stadtbezirk Hadern 22. Stadtbezirk Aubing-Lochhausen-Langwied
+- TOP 7.9.4.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.16.1.: Regionale GesundheitsTreffs – Gesundheitsvorsorge in Freiham, Moosach und Neuperlach Produkt 33414200 Gesundheitsvorsorge Änderung des MIP 2022 - 2026 Beschluss über die Finanzierung ab 2023 (Eckdatenbeschluss Haushalt 2023 Nr. 18)
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
