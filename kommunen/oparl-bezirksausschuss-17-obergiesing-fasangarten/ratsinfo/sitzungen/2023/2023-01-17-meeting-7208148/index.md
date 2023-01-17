@@ -1,0 +1,169 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2023-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7208148
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7208148
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 1.4: Bildung eines Wahlgremiums
+- TOP 1.5: Wahl der / des Vorsitzenden des UA Familie, Soziales, Ausbildung (vertagt aus der Sitzung am 08.11.2022)
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Einrichtung von Fahrradstellplätzen in der Gietlstraße und Untere Gras Straße; Bürgeranliegen vom 20.12.2022 (FF: UA MuV)
+- TOP 2.1.2.2.: Ortsbegehung Aignerstraße 23.12.2022; Bürgeranliegen (FF: UA MuV)
+- TOP 2.1.2.3.: Verlängerung der Grünphase der Ampel an der Kreuzung Tegernseer Landstraße / Ichostrasse um mindestens 12 Sekunden; Bürgeranliegen vom 04.01.2023 (FF: UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Seniorenbeauftragte*r
+- TOP 3.8.: Mieterbeirat
+- TOP 3.9.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.9.1.: Weißenseestr. 45 - Schulbauoffensive - Neubau einer 7-zügigen Grundschule mit 3-fach Sporthalle und Tiefgarage sowie eines 6-gruppigen Hauses für Kinder und eines 8-gruppigen Kindertageszentrums (Weißenseestr. 45 / Traunsteiner Str. 2-8); FF UA BPW - betrifft Baufall -
+- TOP 3.9.2.: Kistlerstr. 11 - Nutzungsänderung eines Bestandgebäudes (Kistlerstr. 11) sowie Neubau von Wohngebäude mit ergänzender gewerblicher Nutzung im EG (Weinbauernstr.) und Tiefgarage / Var. B - VORBESCHEID; FF UA BPW - betrifft Baufall -
+- TOP 3.9.3.: Kistlerstr. 11 - Nutzungsänderung eines Bestandgebäudes (Kistlerstr. 11) sowie Neubau von Wohngebäude mit ergänzender gewerblicher Nutzung im EG (Weinbauernstr.) und Tiefgarage / Var. A - VORBESCHEID; FF UA BPW - betrifft Baufall -
+- TOP 3.9.4.: Fasangartenstr. 157 - Neubau eines Doppelhauses mit insgesamt 2, 3 oder 4 Wohneinheiten - VORBESCHEID; FF UA BPW - betrifft Baufall -
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget Stiftung Kulturator Zeitkapsel vom 25.01. - 31.10.2023 10.186,00 € / Az. 0262.0-17-0371 (FF: UA Kultur)
+- TOP 5.1.2.: (E) Stadtbezirksbudget Foodsaving & More e.V. Anschaffung eines Kühlschrankes für den Fairteiler 5.444,83 € / Az. 0262.0-17-0372 (FF: UA FSA)
+- TOP 5.1.3.: (E) Stadtbezirksbudget PA/ Spielen in der Stadt e.V. Zirkus Pumpernudl, Strasse. Oase. und Tanz. Die. Invasion in 2023 8.562,00 € / Az. 0262.0-17-0336 (FF: UA Kultur)
+- TOP 5.1.4.: (E) Stadtbezirksbudget Förderverein der Grundschule St.Martin-Straße e.V. Zirkus-Projekt 8 Wochen im Frühjahr 2023 1.750,00€; Az. 0262.0-17-0366 (FF: UA FSA)
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.2.1.: Bestellung von Ferien- und Familienpässen als städtische Leistung für das Jahr 2022/2023
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Weißenseestr. 45 - Schulbauoffensive - Neubau einer 7-zügigen Grundschule mit 3-fach Sporthalle und Tiefgarage sowie eines 6-gruppigen Hauses für Kinder und eines 8-gruppigen Kindertageszentrums (Weißenseestr. 45 / Traunsteiner Str. 2-8); (Unterlagen wurden aufgrund der Datengröße auf Alfresco hinterlegt) -betrifft auch Baumschutz-
+- TOP 6.1.3.2.: Kistlerstr. 11 - Nutzungsänderung eines Bestandgebäudes (Kistlerstr. 11) sowie Neubau von Wohngebäude mit ergänzender gewerblicher Nutzung im EG (Weinbauernstr.) und Tiefgarage / Var. B - VORBESCHEID -betrifft auch Baumschutz-
+- TOP 6.1.3.3.: Kistlerstr. 11 - Nutzungsänderung eines Bestandgebäudes (Kistlerstr. 11) sowie Neubau von Wohngebäude mit ergänzender gewerblicher Nutzung im EG (Weinbauernstr.) und Tiefgarage / Var. A - VORBESCHEID -betrifft auch Baumschutz-
+- TOP 6.1.3.4.: Schwanseestr. 22 - Neubau einer Wohnanlage (89 WE) mit Tiefgarage (120 Stpl.)
+- TOP 6.1.3.5.: Deisenhofener Str. 74 - Nutzungsänderung eines Teils des Verwaltungsgebäudes zu einer Kindertagesstätte mit Kindergarten und Kinderkrippe (Deisenhofener Str. 74-76 / Fockensteinstr. 1) Frist läuft am 15.01.2023 ab; keine Fristverlängerung möglich
+- TOP 6.1.3.6.: Fasangartenstr. 157 - Neubau eines Doppelhauses mit insgesamt 2, 3 oder 4 Wohneinheiten - VORBESCHEID -betrifft auch Baumschutz-
+- TOP 6.1.3.7.: Wirtstr. 24 - Neubau von 11 Wohnungen (Ersatzbau) und 4 Town- (Reihen-) häusern incl. Tiefgarage - VORBESCHEID
+- TOP 6.1.3.8.: Anhörung Hochhausstudie 2023 sowie Einladung zum Online-Informationstermin am 16.01.2023
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk vom 28.11.-04.12., 05.12.-11.12., 12.12.-18.12.2022, 19.12.2022-25.12.2022
+- TOP 6.1.4.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Anwesen Fasangartenstraße; Unterrichtung vom 09.12.2022
+- TOP 6.1.4.3.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße" Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse hier: Zugspitzstr. 4
+- TOP 6.1.4.4.: Vollzug der Erhaltungssatzung "Scharfreiterplatz" Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse hier: Hohenschwangauplatz 21
+- TOP 6.1.4.5.: (U) Stopp des Wohnungsbaugebietes Münchberger Str. Empfehlung Nr. 20-26 / E 00704 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 14.07.2022 Stadtbezirk 17 Obergiesing-Fasangarten
+- TOP 6.1.4.6.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.3.1.: Umzug der Städtischen Elly-Heuss-Realschule an den Schulstandort Bildungscampus Riem, Anhörungsfrist: 12.01.2023
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: (U) Platz da für Mädchen* und junge Frauen* - Sicherheitsgefühl stärken „Platz da für Mädchen* und junge Frauen*“ Antrag Nr. 20-26 / A 03295 ... 3. Stadtbezirk Maxvorstadt 6. Stadtbezirk Sendling 7. Stadtbezirk Sendling-Westpark 10. Stadtbezirk Moosach 13. Stadtbezirk Bogenhausen 15. Stadtbezirk Trudering-Riem 17. Stadtbezirk Obergiesing–Fasangarten 20. Stadtbezirk Hadern 22. Stadtbezirk Aubing-Lochhausen-Langwied
+- TOP 6.2.4.2.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.2.6.1.: Mobbingprävention an Giesinger Schulen
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Verlagerung Parkplätze Aignerstraße 26 / 45; Bürgeranliegen vom 23.11.2022 (verwiesen aus der Sitzung vom 13.12.2022 - Ortstermin)
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) + (U) Einbahnstraße: Raintaler Str. Empfehlung Nr. 20-26 / E 00707 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing-Fasangarten am 14.07.2022
+- TOP 6.3.2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 17 Obergiesing - Fasangarten Einziehung der gewidmeten Teilstrecke der Warthofstraße
+- TOP 6.3.2.3.: (E) + (U) Querungshilfe Schwarzenbach Straße über Balanstraße hin zur Kronacher Straße Empfehlung Nr. 20-26 / E 00711 der Bürgerversammlung des 17. Stadtbezirkes – Obergiesing-Fasangarten vom 14.07.2022
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Einrichtung einer neuen Haltestellenposition am Giesinger Bahnhof
+- TOP 6.3.3.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Minnewitstr. 8
+- TOP 6.3.3.3.: Abschluss Sommerstraße 2022 und Aufruf für 2023
+- TOP 6.3.3.4.: Erinnerungsverfahren Aignerstr. 26, Sanierung des Fahrbahnbelages von 01.04.2023 bis 01.11.2023
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Vorhaltemaßnahme (VHM) für die U9 Entlastungsspange a) Ausgangslage, Nachforderungen der Deutschen Bahn und Forderungen / Verhandlungsposition des Freistaats Bayern, Weitere Kostenrisiken, Vorschlag zum weiteren Vorgehen b) Finanzierung Änderung des Mehrjahresinvestitionsprogrammes 2022 bis 2026 Anmeldungen zum Haushalt 2024 ff.
+- TOP 6.3.4.2.: Sicherheit der Kinder im Bereich der Haltestelle "Kiefernstraße"
+- TOP 6.3.4.3.: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 6.3.4.4.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 6.3.4.5.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 6.3.4.6.: Feuerwehrzufahrten am „Giesinger Zugspitzplätzchen“, verkehrsrechtliche Anordnung
+- TOP 6.3.4.7.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 6.3.4.8.: Hochgefährlicher Weg am Giesinger Berg; Antrag BA 5 Au-Haidhausen vom 14.12.2022
+- TOP 6.3.4.9.: Schwanseestraße - Aufhebung der Radwegbenutzungspflicht; Antwort Mobilitätsreferat
+- TOP 6.3.4.10.: Neue Einbahnregelung Aignerstraße/Gietlstraße; ergänzende Beschilderung; Information des MOR
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung; Umgestaltung des Giesinger Grünspitzes im 17. Stadtbezirk Obergiesing-Fasangarten
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Nachfrage zu Zerr-Eichen am Zugspitzplatz; Anfrage des BA 17 aus der Sitzung vom 13.12.2022; Antwortschreiben Bau-G mit der Bitte um Rückmeldung zum Ergebnis der Abstimmung
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen im 17. Stadtbezirk
+- TOP 6.4.4.2.: Verstetigung, Weiterentwicklung und Neukonzeption von „München – gesund vor Ort“; Antwortschreiben Gesundheitsreferat
+- TOP 6.4.4.3.: General-Kalb-Weg - Gelände Cincinattischule / Baumschutz / Biotopschutz; Zwischenmitteilung Referat für Bildung und Sport sowie Antwortschreiben des Referates vom 28.12.2022
+- TOP 6.4.4.4.: Regionale GesundheitsTreffs – Gesundheitsvorsorge in Freiham, Moosach und Neuperlach Produkt 33414200 Gesundheitsvorsorge Änderung des MIP 2022 - 2026 Beschluss über die Finanzierung ab 2023 (Eckdatenbeschluss Haushalt 2023 Nr. 18)
+- TOP 6.4.4.5.: Mehr Mülleimer auf dem Ella-Lingens-Platz
+- TOP 6.4.4.6.: Fällungsantrag auf dem Grundstück Perlacher Forst
+- TOP 6.4.4.7.: Entfernte Bäume der Spielstraße Münchberger Straße - E 00462; Antwort des Baureferates-Gartenbau zur Bürgeranfrage vom 09.12.2022
+- TOP 6.4.4.8.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für den vorzeitigen Einsatz von Müllsammelfahrzeugen im Stadtgebiet München
+- TOP 6.4.4.9.: Urbanes Gärtnern in München StR-Anträge
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Sportbauprogramm - Zwischenbericht Das Sportbauprogramm weiter vorantreiben Antrag Nr. 20-26 / A 03204 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt-Fraktion vom 28.19.2022 A Ausgangslage B Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. 2. Maßnahmenpaket, Standort Siegenburger Str. 51 2. 4. Maßnahmenpaket C Umsetzung des Leitfadens zum inklusionsorientierten Schulsportstättenbau bei den Projekten des Sportbauprogramms 1. Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 2. Teil 2 "Sportgroß- und Sonderprojekte" 3. Teil 3 "Förderung von Vereinsbaumaßnahmen" D Personal- und Sachmittelbedarf für die Umsetzung des Sportbauprogramms - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Personal- und Sachmittelbedarf im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarf im Baureferat E Beteiligungen und Anhörungen
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Tegernseer Landstr. - WH 2444 (SID 101161) - Umrüstung 1 digitale Werbevitrine - innen digital / außen statisch (Änderung)
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Keine Schließung der Sparkassenfiliale Chiemgaustr./Schwanseestraße
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP 7.3.2.: Mehrjahresinvestitionsprogramm 2022 - 2026 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 7.3.3.: Ratsinformationssystem (RIS) – „Papierlose Bezirksausschussarbeit“ Einführung „RIS-Internet/ -Extranet“ für alle Bezirksausschussmitglieder Information zur Kooperationsplattform „Alfresco“ Antwortschreiben RIT
+- TOP 7.3.4.: Informationsschreiben BA 08 / 2022: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen / Hybridsitzungen / Livestream / Konferenztechnik / Hybridkoffer hier: Beschluss der Sitzungsvorlage Nr. 20-26 / V 07926 durch den Stadtrat am 21.12.2022
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
