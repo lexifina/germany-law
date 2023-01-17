@@ -30,3 +30,14 @@ Nummer | Gericht
 26. | Arbeitsgericht Bautzen
 27. | Arbeitsgericht Dresden
 28. | Arbeitsgericht Zwickau
+29. | Amtsgericht Chemnitz
+30. | Amtsgericht Freiberg
+31. | Amtsgericht Bautzen
+32. | Amtsgericht Hoyerswerda
+33. | Amtsgericht Kamenz
+34. | Amtsgericht Görlitz
+35. | Amtsgericht Weißwasser
+36. | Amtsgericht Zittau
+37. | Amtsgericht Aue-Bad Schlema
+38. | Amtsgericht Döbeln
+39. | Amtsgericht Marienberg
