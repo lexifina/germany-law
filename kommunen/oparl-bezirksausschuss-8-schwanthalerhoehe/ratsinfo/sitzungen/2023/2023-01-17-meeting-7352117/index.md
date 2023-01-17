@@ -1,0 +1,68 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352117
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352117
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 2.1.: Benennung einer / eines Inklusions- / Behindertenbeauftragten
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Errichtung eines PopUp-Biergartens
+- TOP 4.2.: Fahrradabstellmöglichkeiten Schießstättstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Hochhausstudie 2023
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Erlass des Nutzungsentgelts für die Raumnutzung der Hausaufgabenbetreuung an der Grundschule an der Bergmannstraße 36
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Abschluss Sommerstraße 2022; Anmeldung für 2023
+- TOP 8.3: Unterrichtungen
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) + (U) Änderung / Verkleinerung der Parkplatz-Schilder Kazmair- / Ligsalzstraße Empfehlung Nr. 20-26 / E 00530 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 25.04.2022
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Ersatzpflanzungen / Entsiegelung / Sitzbänke Schneckenplatz; Antwortschreiben
+- TOP 9.3.2.: BUND Naturschutz in Bayern e.V.; Baumbilanz München 2021
+- TOP 9.3.3.: Durchsetzung absolutes Halteverbot Schwanthalerstraße 111/113
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Initiative „Soundtrack“ “Soundtrack für die Stadt 2023 vom 21.01.2023-30.11.2023“ 2.975,00 € / AZ: 0262.0-8-0334
+- TOP 10.1.2.: (E) Stadtbezirksbudget Initiative „Druckgrafik“ “Ausstellung: Künstlerische Druckgrafik vom 11.03.2023-31.03.2023“ 3.920,00 € / AZ: 0262.0-8-0335
+- TOP 10.1.3.: (E) Stadtbezirksbudget Initiative „Mieter*innen-Stammtisch“ “Mieter*innen-Stammtisch am 26.01.2023“ 200,00 € / AZ: 0262.0-8-0336
+- TOP 10.1.4.: (E) Stadtbezirksbudget Hidalgo gGmbH “Street Art Song (im Rahmen des Kunstlied – Festivals HIDALGO) am 02.09.2023“ 1.500,00 € / AZ: 0262.0-8-0337
+- TOP 10.1.5.: (E) Stadtbezirksbudget Isarlust e.V. “Kulturlieferdienst vom 06.02.2023 – 31.12.2023“ 4.760,00 € / AZ: 0262.0-8-0338
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Anschaffung und Reparatur von Tischtennisplatten
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Sitzungsbetrieb Bezirksausschüsse; Hybridsitzungen / Livestream / Konferenztechnik / Hybridkoffer
+- TOP 13: Protokoll und Umlauf
+- TOP 2.2.: Benennung einer / eines Beauftragten für REGSAM
+- TOP 3.1.: Vorstellung der Arbeit der GIMA sowie der Stiftung "Daheim im Viertel"
+- TOP 6.2.2.: Bauvorhaben Schwanthalerstraße 115
+- TOP 10.3.2.: Haushaltsbeschluss; Kürzung des Stadtbezirksbudgets 2023
+- TOP 4.3.: Vorstellung Projektskizze Sommerexperiment Kazmairstraße
