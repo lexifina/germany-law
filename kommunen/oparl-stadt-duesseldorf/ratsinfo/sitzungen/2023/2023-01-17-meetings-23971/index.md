@@ -1,0 +1,65 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-01-17T17:00:00+01:00
+- Ende: 2023-01-17T22:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23971
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23971
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrag Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472120.pdf
+- Ergebnisprotokoll: Nachtrag Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472120.pdf
+- Wortprotokoll: Nachtrag Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472120.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von Mitgliedern der Bezirksvertretung 3
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift
+- TOP 4.1: Genehmigung der Niederschrift der öffentliche Sitzung vom 08.11.2022 - abweichend beschlossen
+- TOP 5: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 6: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren in Nordrhein-Westfalen / Sachstandsbericht zum Zentrenmanagement Friedrichstraße - zur Kenntnis genommen
+- TOP 7: Bau- und Planungsangelegenheiten
+- TOP 7.1: Bebauungsplan Nr. 03/043 - Königsallee 106 (1. Änderung B-Plan Nr. 5476/090) - einstimmig beschlossen
+- TOP 7.2: Städtebaulicher Wettbewerb Nr. 03/040 - Südlich Auf'm Hennekamp - mehrheitlich beschlossen
+- TOP 8: Verwaltungsvorlagen und -berichte
+- TOP 8.1: Neuwahl einer Schiedsperson - vertagt
+- TOP 8.2: Neusser Straße zwischen Ernst-Gnoß-Straße und Lorettostraße; Reduzierung der zulässigen Höchstgeschwindigkeit auf 30 km/h aus Lärmschutzgründen - mehrheitlich beschlossen
+- TOP 8.3: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - Empfehlung abweichend beschlossen
+- TOP 8.4: Errichtung von acht mietbaren Fahrradsammelschließanlagen in urbanen Wohnquartieren in Bilk, Friedrichstadt, Flingern-Nord, Düsseltal und Oberkassel - Empfehlung abweichend beschlossen
+- TOP 8.5: Erweiterung MobilitätStation Friedensplätzchen - einstimmig beschlossen
+- TOP 8.6: Kommunale Sozialberichterstattung Düsseldorf. Lebenssituation Kinder, Jugendliche und Familien – Monitoring 2015 bis 2020 - vertagt
+- TOP 8.7: Bericht über den Kunst-am-Bau-Wettbewerb Joseph-Beuys-Gesamtschule - zur Kenntnis genommen
+- TOP 8.8: Umbau des Kreuzungsbereiches Hütten- / Gustav-Poensgen- / Kirchfeldstraße - abweichend beschlossen
+- TOP 9: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 9.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - einstimmig beschlossen
+- TOP 9.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 10: Anfragen
+- TOP 10.1: Anfragen aus vorherigen Sitzungen
+- TOP 10.1.1: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 10.1.2: Neugestaltung des südlichen Kirchplatzes - Kinderspielplatz hinter der Kirche (Anfrage CDU-Fraktion) - zur Kenntnis genommen
+- TOP 10.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.5: Fahrradfreundlicher Ausbau des nordwestlichen und zentralen Bereiches der Kreuzung Witzelstr./Moorenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 10.1.6: Wildnis-Treff für Kinder ab 8 Jahren im Stadtbezirk 3 (Anfrage SPD - Fraktion) - zur Kenntnis genommen
+- TOP 10.1.7: Überprüfung der Möglichkeiten zur Verkehrsüberwachung an den Kreuzungen Südring/Fleher Straße und Südring/Volmerswerther Straße (Anfrage Herr van Bilsen - BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 10.1.8: Fahrradpiktogramme auf der Volmerswerther Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 10.1.9: WC-Anlage Kirchplatz (Anfrage - BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 10.1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Aktuelle Anfragen
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.3: Unterstützung der Brause am bisherigen Standort (Anfrage SPD - Fraktion) - vertagt
+- TOP 11: Anträge
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Auffindbarkeit Mobilstation Kirchplatz erhöhen (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 11.3: Aufwertung Quartier Mintropplatz mit der Harkort-, Mintrop-, Scheuren-, Pionier,- Aders- und Luisenstraße (Antrag SPD, BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 12: Informationsvorlagen
+- TOP 12.1: Ulenbergpark - zur Kenntnis genommen
+- TOP 12.2: Aufenthaltsqualität verbessern an der Karolingerstraße zwischen Planeten- und Brunnenstraße durch Parkbänke - zur Kenntnis genommen
+- TOP 12.3: Fitnessanlage im Sonnenpark - zur Kenntnis genommen
+- TOP 12.4: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 13: Mitteilungen des Bezirksbürgermeisters
