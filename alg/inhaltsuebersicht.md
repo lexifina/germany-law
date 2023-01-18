@@ -92,7 +92,7 @@
 |  |
 | § 27 | Zusammentreffen von Renten |
 | § 27a | Renten wegen Erwerbsminderung und Hinzuverdienst |
-| § 27b | Vorzeitige Altersrente und Hinzuverdienst |
+| § 27b | (weggefallen) |
 | § 28 | Einkommensanrechnung auf Renten wegen Todes |
 | § 29 | Reihenfolge bei der Anwendung von Berechnungsvorschriften |
 |  |
@@ -360,7 +360,7 @@
 | § 104a | Rentenartfaktor |
 | § 104b | Zuschlag bei Witwenrenten und Witwerrenten |
 | § 105 | Verordnungsermächtigung |
-| § 105a | Widerspruch und Klage gegen die Veränderung des Zahlbetrags der Rente zum 1. April 2004 |
+| § 105a | (weggefallen) |
 |  |
 | Fünfter Unterabschnitt |
 | Zusammentreffen von Renten mit Einkommen |
@@ -392,20 +392,20 @@
 | Zehnter Unterabschnitt |
 | Organisation und Datenschutz |
 |  |
-| § 111 | Zuständige Versicherungsträger |
+| § 111 | (weggefallen) |
 | § 112 | Versicherungskonto |
 |  |
 | Elfter Unterabschnitt |
 | Finanzierung |
 |  |
-| § 113 | Lagebericht |
+| § 113 | (weggefallen) |
 | § 114 | Beitragshöhe |
 | § 115 | Beitragstragung |
 | § 116 | Wiederauffüllung geminderter angleichungsdynamischer Anrechte |
 | § 117 | Beitragserstattung |
-| § 117a | Ausgaben für Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe |
+| § 117a | (weggefallen) |
 | § 118 | Aufrechnung mit Beitragsentlastungen |
-| § 119 | Überführung der Betriebsmittel |
+| § 119 | (weggefallen) |
 | § 119a | (weggefallen) |
 | § 120 | Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet |
 |  |

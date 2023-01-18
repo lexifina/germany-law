@@ -88,7 +88,7 @@ mit Einkommen
 
 - [§ 27 Zusammentreffen von Renten](0027.md)
 - [§ 27a Rente wegen Erwerbsminderung und Hinzuverdienst](0027a.md)
-- [§ 27b Vorzeitige Altersrente und Hinzuverdienst](0027b.md)
+- [§ 27b (weggefallen)](0027b.md)
 - [§ 28 Einkommensanrechnung auf Renten wegen Todes](0028.md)
 - [§ 29 Reihenfolge bei der Anwendung von Berechnungsvorschriften](0029.md)
 
@@ -339,8 +339,7 @@ für einzelne Renten
 - [§ 104a Rentenartfaktor](0104a.md)
 - [§ 104b Zuschlag bei Witwenrenten und Witwerrenten](0104b.md)
 - [§ 105 Verordnungsermächtigung](0105.md)
-- [§ 105a Widerspruch und Klage gegen die Veränderung
-des Zahlbetrags der Rente zum 1. April 2004](0105a.md)
+- [§ 105a (weggefallen)](0105a.md)
 
 #### Fünfter Unterabschnitt Zusammentreffen von
 Renten mit Einkommen
@@ -373,19 +372,19 @@ des Unternehmens der Landwirtschaft](0109.md)
 #### Zehnter Unterabschnitt Organisation und
 Datenschutz
 
-- [§ 111 Zuständige Versicherungsträger](0111.md)
+- [§ 111 (weggefallen)](0111.md)
 - [§ 112 Versicherungskonto](0112.md)
 
 #### Elfter Unterabschnitt Finanzierung
 
-- [§ 113 Lagebericht](0113.md)
+- [§ 113 (weggefallen)](0113.md)
 - [§ 114 Beitragshöhe](0114.md)
 - [§ 115 Beitragstragung](0115.md)
 - [§ 116 Wiederauffüllung geminderter angleichungsdynamischer Anrechte](0116.md)
 - [§ 117 Beitragserstattung](0117.md)
-- [§ 117a Ausgaben für Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe](0117a.md)
+- [§ 117a (weggefallen)](0117a.md)
 - [§ 118 Aufrechnung mit Beitragsentlastungen](0118.md)
-- [§ 119 Überführung der Betriebsmittel](0119.md)
+- [§ 119 (weggefallen)](0119.md)
 - [§ 119a (weggefallen)](0119a.md)
 - [§ 120 Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet](0120.md)
 

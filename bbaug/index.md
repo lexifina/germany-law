@@ -444,7 +444,6 @@
 - [§ 247 Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland](0247.md)
 - [§ 248 Sonderregelung zur sparsamen und effizienten Nutzung von Energie](0248.md)
 - [§ 249 Sonderregelungen zur Windenergie](0249.md)
-- [§ 249 Sonderregelungen für Windenergieanlagen an Land](0249-2.md)
 - [§ 249a Sonderregelung für Vorhaben zur Herstellung oder Speicherung von Wasserstoff aus erneuerbaren Energien](0249a.md)
 - [§ 249b Verordnungsermächtigungen zum Ausbau der erneuerbaren Energien in Abbaubereichen des Braunkohletagebaus](0249b.md)
 - [§ 250 Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten](0250.md)

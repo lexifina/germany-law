@@ -1,3 +1,3 @@
 # B.
 
-Für bis zum 31. Dezember 2015 anhängig werdende Verfahren bleibt es bei der bisherigen Senatszuständigkeit.
+Im Verfassungsbeschwerdeverfahren bestimmt sich der maßgebliche Rechtsbereich anhand des Verfahrensgegenstands des dem angegriffenen Hoheitsakt zugrundeliegenden Ausgangsverfahrens, es sei denn, der Schwerpunkt liegt erkennbar auf einem Rechtsgebiet, das dem anderen Senat zugewiesen ist.
