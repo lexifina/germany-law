@@ -1,0 +1,73 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2023-01-18T17:00:00+01:00
+- Ende: 2023-01-18T21:45:00+01:00
+- Ort: Aula , Beuckestraße 27-29
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4582
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4582
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Warum hat das Bezirksamt das traditionelle Turmblasen zu Weihnachten 2022 vom Turm des Arndt-Gymnasiums verhindert? - beantwortet
+- TOP 3.2: Stand des Sportentwicklungsplanes für Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Demokratisches Mitwirkungsrecht von Anwohnern in Altersresidenzen - beantwortet
+- TOP 3.4: Silvester 2022/23 in Steglitz-Zehlendorf - beantwortet
+- TOP 3.5: Wie steht es um die offene Mieter:innen-Beratung im Bezirk? - beantwortet
+- TOP 3.6: Bestattungen auf städtischen Friedhöfen - beantwortet
+- TOP 3.7: Schulgarten Kopernikus-Oberschule - schriftlich beantwortet
+- TOP 3.8: Sichere Querung der Grunewaldstraße für Gehbehinderte - schriftlich beantwortet
+- TOP 3.9: Standortmanagement Kranoldkiez – wem nutzt es? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - im Ausschuss abgelehnt
+- TOP 4.1: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Runder Tisch für den Lärmschutz an der Stammbahn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Modernisierung WC-Anlage und Imbissbetrieb am Wannseeanleger/Ronnebypromenade - in der BVV abgelehnt
+- TOP 4.5: Modellprojekt Smarte Straßenbeleuchtung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Aufwertung des Kleinkinderspielplatzes am Asternplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Eine "Panchina Rossa" für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Sitzbänke im Buschgrabenrundweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Digitaler Erinnerungsort Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Schul- und Sportstandort Osteweg 53 nach Bedarfsanalyse sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Auswirkungen einer möglichen erneuten FFP2-Maskenpflicht auf Arbeitsorganisation und Personalstand - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2021 - überwiesen
+- TOP 5.2: Abbiegeassistenten für bezirkliche LKW nachrüsten - überwiesen
+- TOP 5.3: Fußgängerampel Clayallee Gesundheitszentrum - überwiesen
+- TOP 5.4: Wohnortnahe Bank-Filialen erhalten - überwiesen
+- TOP 5.5: Aufforstung von Straßenbäumen aus dem Ausgleichsfond der Ersatzmaßnahmen gefällter Bäume - überwiesen
+- TOP 5.6: Ehrenamtskarte - überwiesen
+- TOP 5.7: KAT RETTER App - überwiesen
+- TOP 5.8: Hilfe für Kinderarztpraxen - überwiesen
+- TOP 5.9: Sichere Querung der Schildhornstraße für die Dunant-Schule - überwiesen
+- TOP 5.10: Check für Personalbedarf in Bezirksamtsvorlagen für Umsetzung von BVV-Beschlüssen - überwiesen
+- TOP 5.11: Sogenannte „Pfandringe“ an öffentliche Mülleimer - überwiesen
+- TOP 5.12: Post- und Finanzdienstleistungen wohnortnah erhalten! - überwiesen
+- TOP 5.13: Reparaturstationen - überwiesen
+- TOP 5.14: BVG-Rufbusse auch für Zehlendorf–Süd - überwiesen
+- TOP 5.15: Schlaglochmeldung - überwiesen
+- TOP 5.16: Solaranlage auf dem Dach der Schweizerhof-Grundschule - überwiesen
+- TOP 5.17: Städtepartnerschaften sichtbar machen - überwiesen
+- TOP 5.18: Bussonderstreifen Teltower Damm - überwiesen
+- TOP 5.19: Einrichtung ständiges Wahlamt in Steglitz-Zehlendorf - überwiesen
+- TOP 5.20: Energiewende im Bezirk: Photovoltaikanlage auf dem Dach der Schweizerhof-Grundschule - überwiesen
+- TOP 5.21: Nachnutzung des Mäusebunkers: ein neuer Sozial-Raum für Steglitz-Zehlendorf! - überwiesen
+- TOP 5.22: Sichere Fahrradbügel vor jeder Jugendfreizeiteinrichtung in Steglitz-Zehlendorf - überwiesen
+- TOP 5.23: Hilfen absichern, Träger der Wohnungslosenhilfe unterstützen - überwiesen
+- TOP 5.24: Zebrastreifen Teltower Damm/Sonnenhaus - überwiesen
+- TOP 5.25: Barrierefreiheit und Klimaschutz beim Milieuschutz nicht außer Acht lassen - überwiesen
+- TOP 5.26: Unter den Eichen: Schnellere Busse, weniger Stau – der Umwelt zu liebe - überwiesen
+- TOP 5.27: Tempo 30 Garystraße - überwiesen
+- TOP 5.28: Mangelhafte Verkehrsanbindung von Wohnquartieren in Zehlendorf-Süd durch Rufbusse beseitigen - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Haushaltsführung der Bezirksbürgermeisterin Schellenberg oder: Seid verschwunden, Millionen? - beantwortet
+- TOP 6.2: Digitalisierung an Schulen im Bezirk - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Landschaftspark Glienicke - in der BVV abgelehnt
+- TOP 7.2: Kultur- und/oder Bildungseinrichtung im Boulevard Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
