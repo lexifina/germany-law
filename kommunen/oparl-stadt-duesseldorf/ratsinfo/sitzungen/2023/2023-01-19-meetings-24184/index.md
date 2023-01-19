@@ -1,0 +1,53 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-01-19T18:00:00+01:00
+- Ende: 2023-01-19T20:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24184
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24184
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö vom 19.01.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472062.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö vom 19.01.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472062.pdf
+- Wortprotokoll: Sitzungspaket Ö vom 19.01.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472062.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 05.01.2023 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 24.11.2022 - einstimmig beschlossen
+- TOP 4: Zentrenmanagement Gumbertstraße - Bericht der Verwaltung
+- TOP 5: Machbarkeitsstudie Veloroute zwischen Düsseldorf und Wuppertal – Abschluss und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 6: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - Empfehlung abweichend beschlossen
+- TOP 6.1: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge (Änderungsantrag CDU-Fraktion) - beschlossen
+- TOP 7: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2023 - einstimmig beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2023 - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Grundstücke Sodener Weg und Sturmstraße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 13: Verkehrsplanung An der Schützenwiese/Königsberger Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 14: Wassertretanlage im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 15: E-Ladepunkt in Unterbach (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 16: "Düsseldorf pflanzt Zukunft" - Ein Planungskonzept zur Schaffung neuer Baumstandorte - zur Kenntnis genommen
+- TOP 17: Kommunale Sozialberichterstattung Düsseldorf. Lebenssituation Kinder, Jugendliche und Familien – Monitoring 2015 bis 2020 - zur Kenntnis genommen
+- TOP 18: Beschilderung Am Zaulsbusch - zur Kenntnis genommen
+- TOP 19: Verkehrssituation An der Schützenwiese - zur Kenntnis genommen
+- TOP 20: Fortschreibung des Straßen- und Wegekonzept 2023-2027 - zur Kenntnis genommen
+- TOP 21: Gestaltung der renaturierten Düssel - zur Kenntnis genommen
+- TOP 22: Winterfällungen 2022 - zur Kenntnis genommen
+- TOP 23: Anemonenweg - zur Kenntnis genommen
+- TOP 24: Auf'm Großenfeld / Einmündung Gumbertstraße - zur Kenntnis genommen
+- TOP 25: Fassadenbegrünung Schule GGS Bingener Weg - zur Kenntnis genommen
+- TOP 26: Kindertagesstätte Offenbacher Weg 43 - zur Kenntnis genommen
+- TOP 27: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - zur Kenntnis genommen
+- TOP 28: Veloroute Düsseldorf-Wuppertal / Machbarkeitsstudie Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 29: Gertrudisplatz - Polleranlage - zur Kenntnis genommen
+- TOP 30: Gestaltung von Fahrradstraßen - zur Kenntnis genommen
+- TOP 31: Radfahrstreifen und Radschutzstreifen Kuthsweg und Ronsdorfer Straße - zur Kenntnis genommen
+- TOP 32: Radwegmarkierung Düssel-Brücke Karlsruher Straße - zur Kenntnis genommen
+- TOP 33: Beauftragte/r gegen Rechtsextremismus im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Ampelvorrangschaltungen für die Rheinbahn im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Einführung eines On Demand-Angebots im ÖPNV im Düsseldorfer Osten - zur Kenntnis genommen
