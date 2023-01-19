@@ -158,7 +158,7 @@ Abgabeverfahren
 - [§ 55](0055.md)
 - [§ 56](0056.md)
 - [§ 56a](0056a.md)
-- [§ 56b](0056b.md)
+- [§ 56b (weggefallen)](0056b.md)
 - [§ 57](0057.md)
 - [(XXXX) §§ 57a bis 60 (weggefallen)](xxxx-57a-bis-60.md)
 - [§ 61](0061.md)
