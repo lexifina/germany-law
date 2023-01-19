@@ -1,0 +1,80 @@
+# 15. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-19T15:30:00+01:00
+- Ende: 2023-01-19T18:30:00+01:00
+- Ort: Stadthaus Deutz, Raum 16F43 (Westgebäude, Riegel F, 16 Etage, Raum 43), Willy-Brandt-Platz 2, 50679 Köln. Beachten Sie bitte die aktuell geltenden Hygienehinweise. Bitte melden Sie sich im Vorfeld der Sitzung bei der Schriftführung an.
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27341
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27341
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Mündlicher Bericht des Dezernenten
+- TOP -: B Mündlicher Bericht der Liga der Wohlfahrt Köln
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Entwicklung eines kommunalen Wohnungs- und Obdachlosenberichts - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 3.1 „Entwicklung eines kommunalen Wohnungs- und Obdachlosenberichts“ (AN/1627/2022) - zurückgestellt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Förderung Frauenberatungsstelle Paula e.V. - ungeändert beschlossen
+- TOP 4.2: Verteilung der Globalmittel 2023 an die Wohlfahrtsverbände - ungeändert beschlossen
+- TOP 4.3: Zuschüsse aus dem Konzept "Wir im Quartier - Struktur- und Beschäftigungsförderung im Stadtviertel" hier: Maßnahmebewilligungen 2023 und 2024 - ungeändert beschlossen
+- TOP 4.4: Antrag des Integrationsrates zur Sicherstellung der Gleichbehandlung von geflüchteten Personen sowie konsequente Umsetzung des Gewaltschutzkonzeptes - zurückgestellt
+- TOP 4.5: Verteilung der Fördermittel 2023 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 4.6: Förderprogramm "BOREA - Beratung und Orientierung für erwerbs- und arbeitslose Menschen" - ungeändert beschlossen
+- TOP 4.7: Strukturförderfonds 2023 / 2024 - geändert beschlossen
+- TOP -: Änderungsantrag zu Vorlage 4259/2022, Strukturförderfonds 2023 / 2024 - endgültig zurückgezogen
+- TOP 4.8: Förderprogramm zur Stärkung der Beratungsstrukturen im Rahmen der Energiekrise - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Änderung der Richtlinie für die Anerkennung und Förderung der Interkulturellen Zentren – hier: Anlage 4 (Förderungshöhe) - ungeändert empfohlen
+- TOP 5.2: 'Integrationsbudget' - Verteilung der Finanzmittel in den Haushaltsjahren 2023 und 2024 - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Welcome-Center für geflüchtete Menschen aus der Ukraine am Hauptbahnhof Köln - Kenntnis genommen
+- TOP 9.2: Berichte zur Situation Geflüchteter - zurückgestellt
+- TOP 9.3: 3. Quartalsbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - zurückgestellt
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Mündliche Anfrage aus der Sitzung des Gesundheitsausschusses vom 29.03.2022 zur Versorgung der Kölner Bevölkerung mit stationären Pflegeplätzen - Kenntnis genommen
+- TOP -: Nachfrage der Seniorenvertretung zu Vorlage 1620/2022
+- TOP 10.1.2: Fragen zur Umsetzung des Bürgergeld-Gesetzes - Sache ist erledigt
+- TOP -: Anfrage der SPD-Fraktion zur Umsetzung des Bürgergeld-Gesetzes (AN/2033/2022) - Kenntnis genommen
+- TOP 10.1.3: Beantwortung der AN/1839/2022 Ausbau und Sicherstellung der Betreuung in der Bildungskette - Kenntnis genommen
+- TOP 10.1.4: Zeitnahe Ausstellung von Fiktionsbescheinigungen als Voraussetzung für den Grundsicherungsbezug von Geflüchteten aus der Ukraine - zurückgestellt
+- TOP 10.1.5: Anfrage der Seniorenvertretung zum Thema Pflegenotstand - Sache ist erledigt
+- TOP -: Anfrage der Seniorenvertretung zum "Pflegenotstand in der Stadt Köln" (AN/1727/2022) - Kenntnis genommen
+- TOP 10.1.6: Anfrage der Seniorenvertreterin Dr. Köhler der Stadt Köln zu Beantwortungen der Verwaltung in der Sitzung der Stadt AG Seniorenpolitik vom 28.10.2022 - zurückgestellt
+- TOP 10.1.7: Schleuserskandal in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der AfD-Fraktion zu "Schleuserskandal in Köln" - Kenntnis genommen
+- TOP 10.1.8: Bevölkerungsentwicklung in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der AfD-Fraktion zur Bevölkerungsentwicklung in Köln (AN/2028/2022) - Kenntnis genommen
+- TOP 10.1.9: Anregung der Seniorenvertretung zu AN/1928/2022 "Stationäre Pflege in Köln zukunftssicher aufstellen" - zurückgestellt
+- TOP 10.1.10: Beantwortung der Anfrage zur Evaluation der kommunalen Seniorenprogramme der Stadt Köln - Kenntnis genommen
+- TOP 10.1.11: Beantwortung der Nachfrage zu TOP 9.4 Gewaltschutzkonzept aus der Sitzung vom 22.09.2022 - zurückgestellt
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Stadt kassiert einstweilige Anordnung durch das Verwaltungsgericht - zurückgestellt
+- TOP 10.2.2: Räumung eines Obdachlosenlagers in Köln-Kalk am 08.12.2022 - zurückgestellt
+- TOP 10.2.3: Berichtswesen Wohnungslose/Obdachlose Menschen - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Nachhaltigkeitsbericht der Stadt Köln 2022 - Kenntnis genommen
+- TOP 12.2: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 12.3: Sachstand Förderung von anerkannten Betreuungsvereinen - endgültig zurückgezogen
+- TOP 12.4: Projekt "Zukunft Pflege Köln" - Sachstand - endgültig zurückgezogen
+- TOP 12.5: Inklusionsbericht 2021 - Kenntnis genommen
+- TOP 12.6: Sachstand bezüglich der geplanten Strom- und Gassperren - Kenntnis genommen
+- TOP 12.7: Liste der Großbauprojekte - Kenntnis genommen
+- TOP -: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 12.8: Dritte Sachstandsmitteilung zu "Entlastungen bei der Steigerung der Energiepreise intensivieren" - Kenntnis genommen
+- TOP 12.9: Gemeinwohlbilanzierung - Kenntnis genommen
+- TOP 12.10: Verkehrs- und Logistikbranche erweist sich in der Coronapandemie insgesamt als robust - Kenntnis genommen
+- TOP 12.11: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - zurückgestellt
