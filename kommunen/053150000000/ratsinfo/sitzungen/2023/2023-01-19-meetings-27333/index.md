@@ -1,0 +1,52 @@
+# 14. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-19T17:02:00+01:00
+- Ende: 2023-01-19T19:10:00+01:00
+- Ort: Hauptverwaltung Rheinenergie Konferenzzentrum 2.OG Raum 13/2020 und 2030 Parkgürtel 24 50823 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27333
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27333
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung der Schriftführung - ungeändert beschlossen
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Präsentation der Häfen und Güterverkehr Köln AG – Masterplan für innovatives Industrie- und Logistikareal FUSION COLOGNE
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Mündliche Anfrage der SPD-Fraktion - Herr v. Geffen - betr.: "Werbung für den Tourismus in Köln" (1339/2022 - WiA 12.05.2022 und TOP 17.3 - WiA 22.09.2022)
+- TOP 3.1.1: Beantwortung der Anfrage - KölnTourismus GmbH; "Werbung für den Tourismus in Köln" - Kenntnis genommen
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Anfrage der Fraktion Volt betr.: "Datenbasierte Evaluation der autofreien Zone Deutzer Freiheit" (TOP 4.1 - WiA 24.11.2022) - zurückgestellt
+- TOP 3.3.1: Datenbasierte Evaluation der autofreien Zone Deutzer Freiheit - zurückgestellt
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.1: Regionalstudie zur Landwirtschaft - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ungeändert beschlossen
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 7.1: Leitbild für die Handelslagen Hohe Str./Schildergasse und Umfeld in der Innenstadt - Kenntnis genommen
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 11.2: Verkehrs- und Logistikbranche erweist sich in der Coronapandemie insgesamt als robust - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftsrelevante Angelegenheiten städtischer Unternehmen
+- TOP 15: Mitteilungen
+- TOP 15.1: Sachstand zur Umsetzung des Ratsbeschlusses vom 10.12.2020 - zurückgestellt
+- TOP 15.2: Beantwortung einer Anfrage der Fraktion ‚Die FRAKTION‘ (AN/1689/2022) vom 23.09.2022 betreffend „Novellierung DSchG NRW: Öffnung für Photovoltaik trotz Denkmalschutz“ - Kenntnis genommen
+- TOP 15.3: Nachhaltigkeitsbericht der Stadt Köln 2022 - Kenntnis genommen
+- TOP 15.4: Mittelübertragung "Co-Working-Angebote und Inkubatoren für Gaming-Unternehmen “ - Kenntnis genommen
+- TOP 15.5: Gemeinwohlbilanzierung - Kenntnis genommen
+- TOP 15.6: Durchführung einer europaweiten Markterkundung - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 16.2: Ordnungsbehördliche Verordnung für das Jahr 2023 über das Offenhalten von Verkaufsstellen an Sonntagen - ohne Votum in nachfolgende Gremien
+- TOP 17: Mündliche Anfragen
