@@ -1,0 +1,128 @@
+# 15. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2023-01-19T17:30:00+01:00
+- Ende: 2023-01-19T23:00:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5775
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5775
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=549808
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Nachfragen zum IBV Café Leo - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - (offen)
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - (offen)
+- TOP 5.1: Energetische Sanierungsmaßnahmen bezirkseigener Liegenschaften - überwiesen
+- TOP 5.2: Teilhabe von Menschen mit Behinderungen im Bezirk stärken - überwiesen
+- TOP 5.3: Kopfsteinpflaster barrierefrei gestalten - überwiesen
+- TOP 5.4: Veränderung der geplanten Kürzungen für das Haushaltsjahr 2023 - überwiesen
+- TOP 5.5: Schlossplatz begrünen - überwiesen
+- TOP 5.6: Sanierung der Sanitäranlagen für die Leo Lionni Grundschule zügig umsetzen - überwiesen
+- TOP 5.7: Mieterinnen und Mieter beim Kampf gegen schikanöse Sanierungspraktiken unterstützen - überwiesen
+- TOP 5.8: Inschrift in der Schlosskuppel bewahren! - überwiesen
+- TOP 5.9: Bedarfe unterschiedlicher Zielgruppen bei der Versorgung wohnungsloser Menschen berücksichtigen - überwiesen
+- TOP 5.10: Orte der Demokratie - überwiesen
+- TOP 5.11: Zweckentfremdung von Wohnraum in Mitte und Berlin transparent darstellen! - überwiesen
+- TOP 5.12: Einweihung Golda-Meir-Steg – mit Bevölkerung - überwiesen
+- TOP 5.13: Ehrenämter der bezirklichen Gremien stärken - überwiesen
+- TOP 5.14: Blumenkübel statt Straßenbaken - überwiesen
+- TOP 5.15: Förderung einer Kultur der Wertschätzung von Vielfalt und Antidiskriminierung - überwiesen
+- TOP 5.16: Gedenktag 2. August auch als bezirklichen Gedenktag - überwiesen
+- TOP 5.17: Tischtennisplatten für den Klara-Franke-Quartiersplatz - überwiesen
+- TOP 5.18: Mehr Mülleimer in Grünanlagen - überwiesen
+- TOP 5.19: Ohne Pflanzen keine Zukunft – Urbanes Grün durch Landschaftspläne schützen! - überwiesen
+- TOP 5.20: Ladeverkehr und Radverkehr in der Prinzenallee und Wollankstraße trennen - überwiesen
+- TOP 5.21: Räumung von Schrotträdern verstetigen! - überwiesen
+- TOP 5.22: Kein Parken mehr auf der Swinemünder Brücke - überwiesen
+- TOP 5.23: Erholung und Kultur am Plötzensee sichern! - überwiesen
+- TOP 5.24: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2021 - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.25: „Gleichberechtigter und diskriminerungsfreier Zugang zu Hilfestrukturen für Rom*ja aus der Ukraine“ - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.26: Aufgabenprofil der Koordinierungsstelle für Umweltbildung - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.27: Wiederholung der Wahl gut vorbereiten - mit Änderungen in der BVV beschlossen
+- TOP 5.28: Zusätzliche Entsiegelungen beim Bau der Radschnellverbindungen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: Sitzbänke an der Ecke Köpenicker Straße/Heinrich-Heine Straße aufstellen - mit Änderungen in der BVV beschlossen
+- TOP 5.30: Öffnung Durchgang Bhf. Gesundbrunnen zw. Fußgängerbrücke und Ausgang Nord-Ost - ohne Änderungen in der BVV beschlossen
+- TOP 5.31: Fußgängerdurchweg einsehbar machen und Baustellenabgrenzungen anpassen - gegenstandslos
+- TOP 5.32: Straße des 17. Juni nach historischem Vorbild entsiegeln - in der BVV abgelehnt
+- TOP 5.33: Verkehrssicherheit Turmstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.34: Rechnungen der Anna-Lindh-Schule unverzüglich bezahlen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.35: Situation von Sprachfördergruppen verbessern! - ohne Änderungen in der BVV beschlossen
+- TOP 5.36: Straßen- oder Platzbenennung nach Peter Fechter - ohne Änderungen in der BVV beschlossen
+- TOP 5.37: Ein dichtes „Netzwerk der Wärme“ knüpfen - ohne Änderungen in der BVV beschlossen
+- TOP 5.38: Ausstellungsarbeit in den Gebäuden Rathaus Mitte – gute Realität - ohne Änderungen in der BVV beschlossen
+- TOP 5.39: Forderung nach einer Gedenktafel im Fritz-Schloß-Park / Poststadion - mit Änderungen in der BVV beschlossen
+- TOP 5.40: Kostenloses Parken für behinderte Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 5.41: Waisenbrücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.42: Strandbad Plötzensee – mehr als nur ein Freibad – weitere Nutzungsmöglichkeiten ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.43: Vollständige und zeitnahe Informierung zum Einbürgerungsverfahren aller daran interessierten Bürger*innen durch das Einbürgerungsamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.44: Gleichstellung junger Menschen in der stationären Jugendhilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.45: Geschäftsverteilung und Vertretungsregelungen des BA - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.46: Feststellung des überwiegenden öffentlichen Interesses am Abriss und Neubau der Anna-Lindh-Grundschule, Guineastr. 17, 13351 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.47: Umsetzung von Energiesparmaßnahmen nach Senatsvorlage S 740/ 2022 (Anlage 2) zur Einsparung von mindestens 10% des Gesamtenergieverbrauchs. Mit dem Ziel der Vermeidung einer Gasmangellage, teilweisen Kompensation von Energiepreis-steigerungen und des Klimaschutzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.48: Beschluss über die Aufstellung des Bebauungsplans III-233-1 (Quartier am Humboldthain) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Thematische Stunde - (offen)
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Energetische Sanierungen in sozialen Erhaltungsgebieten sozial verträglich voranbringen - beantwortet
+- TOP 7.2: Demokratiefördernde Angebote und Programme durch das Bezirksamt - beantwortet
+- TOP 7.3: Gewerbliche Prostitution Kurfürstenkiez - schriftlich beantwortet
+- TOP 7.4: Umgang mit Masken im Rahmen der Corona-Basisschutzmaßnahmen - schriftlich beantwortet
+- TOP 7.5: Bargeldlose Parkscheinautomaten – weitere Erschwernisse für Autofahrer? - schriftlich beantwortet
+- TOP 7.6: Bezirklicher Sanierungsfahrplan - schriftlich beantwortet
+- TOP 7.7: Städtebauliche Erhaltungsgebiete versus städtebaulicher Klimaschutz - schriftlich beantwortet
+- TOP 7.8: Spielplatz am Humbolthain verkauft? - schriftlich beantwortet
+- TOP 7.9: Wettbüros statt Spielhallen? - schriftlich beantwortet
+- TOP 7.10: Die Anerkennung der Scheidung - schriftlich beantwortet
+- TOP 7.11: Sommerstraßen - schriftlich beantwortet
+- TOP 7.12: Entwicklung der Anzahl und Dauer von Baustelleneinrichtungen in Mitte - schriftlich beantwortet
+- TOP 7.13: Baulicher Zustand des (ehemaligen) Café-Gebäudes im Volkspark Rehberge - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Leerstand und baulicher Zustand des Hauses Jagowstraße 35 - beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Graffiti-Kunst für alle in Mitte? - beantwortet
+- TOP 9.2: Wofür musste das Café Leo weichen – welche Angebote finden aktuell auf dem Leopoldplatz statt? - beantwortet
+- TOP 9.3: Fischerpinte – Wieso missachtet das Bezirksamt den Willen der BVV? - schriftlich beantwortet
+- TOP 9.4: Illegale Plakate zum Fahrzeugankauf im Mitte – Was unternimmt das Bezirksamt? - schriftlich beantwortet
+- TOP 9.5: Aufstockung der Schulgebäude im Bezirk - schriftlich beantwortet
+- TOP 9.6: Drogenberatung im Bauwagen als Dauerzustand? - schriftlich beantwortet
+- TOP 9.7: Teileinziehungsverfahren Friedrichstraße? - schriftlich beantwortet
+- TOP 9.8: Schutz von Familien und Jugendlichen im Tiergarten - schriftlich beantwortet
+- TOP 9.9: Ladeinfrastruktur für E-Mobilität im Bezirk - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Die Beratungsstelle der „Neuen Chance“ in der Habersaathstraße weiter finanzieren - mit Änderungen in der BVV beschlossen
+- TOP 13.2: Eis für alle! - gegenstandslos
+- TOP 13.3: Spielplatz am Humboldthain erhalten! - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ein Jahr Mühlenstube - Evaluierung durchführen - überwiesen
+- TOP 14.2: Schulhof mit Bewegungsmöglichkeiten - überwiesen
+- TOP 14.3: Radwege an der Straße des 17. Juni sanieren! - überwiesen
+- TOP 14.4: Neue Anstrengungen zu besserer Integration der „Berliner Kinder“ - in der BVV abgelehnt
+- TOP 14.5: Parkdruck im Afrikanischen Viertel verringern! - in der BVV abgelehnt
+- TOP 14.6: Fahrradkontrollen systematisch durchführen und dokumentieren! - in der BVV abgelehnt
+- TOP 14.7: Fischerpinte soll eine Fischerpinte bleiben! - überwiesen
+- TOP 15: Entschließungen - (offen)
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Fahrplan zur Erreichung des Ziels Parkplätze zu Parks - ohne Änderungen in der BVV beschlossen
+- TOP 16.2: Für Besucher*innen und Anwohner*innen: sozial- und umweltverträgliches Nutzungs-Konzept für James-Simon-Park erarbeiten und umsetzen - mit Änderungen in der BVV beschlossen
+- TOP 16.3: Café am Arkonaplatz ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 16.4: Klarheit und Transparenz für Ehrenamtliche in Quartiersräten und Stadtteilvertretungen im Bezirk Mitte - gegenstandslos
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Ein fester, dauerhafter Standort für Fixpunkt am Leopoldplatz! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.2: Wedding: Rathausvorplatz für alle II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Cafe Leo vollständig erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Basketballflächen beleuchten und gut ausstatten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.5: Bootsverleih Düring am Plötzensee erhalten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.6: Bürger*innenbeteiligungskonzept für Neuplanungen zur Entwicklung des Karstadt-Standortes Müllerstraße erarbeiten um Mitspracherecht von Anwohner*innen und Mitarbeiter*innen zum Karstadt am Leopoldplatz zu gewährleisten! - mit Zwischenbericht zur Kenntnis genommen
