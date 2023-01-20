@@ -81,7 +81,7 @@ zur medizinischen Rehabilitation und bei sonstigen Leistungen
 Voraussetzungen für einen Rentenanspruch
 
 - [§ 33 Rentenarten](0033.md)
-- [§ 34 Voraussetzungen für einen Rentenanspruch und Hinzuverdienstgrenze](0034.md)
+- [§ 34 Voraussetzungen für einen Rentenanspruch](0034.md)
 
 #### Zweiter Unterabschnitt Anspruchsvoraussetzungen
 für einzelne Renten
@@ -534,7 +534,7 @@ und Finanzausgleich
 - [§ 218](0218.md)
 - [§ 219 Finanzverbund in der allgemeinen Rentenversicherung](0219.md)
 - [§ 220 Aufwendungen für Leistungen zur Teilhabe, Verwaltung und Verfahren](0220.md)
-- [§ 221 Ausgaben für das Anlagevermögen](0221.md)
+- [§ 221 Ausgaben für das Verwaltungsvermögen](0221.md)
 - [§ 222 Ermächtigung](0222.md)
 
 #### Dritter Unterabschnitt Erstattungen
@@ -775,6 +775,7 @@ Beitrittsgebiet](0279a.md)
 - [§ 286e Ausweis für Arbeit und Sozialversicherung](0286e.md)
 - [§ 286f Erstattung zu Unrecht gezahlter Pflichtbeiträge an die berufsständische Versorgungseinrichtung](0286f.md)
 - [§ 286g Erstattung von nach dem 21. Juli 2009 gezahlten freiwilligen Beiträgen](0286g.md)
+- [§ 286h Erstattung zu Unrecht gezahlter Beiträge für Bezieher von Übergangsgebührnissen](0286h.md)
 
 ##### Vierter Titel Berechnungsgrundlagen
 
