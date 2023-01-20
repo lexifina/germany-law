@@ -1,8 +1,8 @@
 # Förderrichtlinie Ländliche Entwicklung Vollzitat: Förderrichtlinie Ländliche Entwicklung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-11-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14205.6
+- Datum: 2023-01-20 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/14205.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-05.11.2021
+20.01.2023
 bis
-19.01.2023
+30.06.2023
 
 Förderrichtlinie Ländliche Entwicklung
 
@@ -53,12 +53,12 @@ dieser Richtlinie,
 
 c)
 
-der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), und 
+der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. Dezember 2021 (SächsABl. 2022 S. 2) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), und 
 
 
 d)
 
-des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 15 Absatz 1 des Gesetzes vom 4. Mai 2021 (BGBl. I S. 882) geändert worden ist,
+des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154 geändert worden ist,
 
 
 e)
@@ -84,7 +84,7 @@ Nachfolgebestimmungen in der jeweils geltenden Fassung gewährt:
 
 –
 
-Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2021/452 der Kommission vom 15. März 2021 (ABl. L 89 vom 16.3.2021, S. 1) geändert worden ist,
+Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist,
 
 
 –
@@ -106,8 +106,6 @@ Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anw
 
 Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8), die zuletzt durch die Verordnung (EU) Nr. 2020/1474 der Kommission vom 13. Oktober 2020 (ABl. L 337 vom 13.10.2020, S. 1) geändert worden ist.
 
-
-Bei Maßnahmen des Breitbandausbaus findet ausschließlich Artikel 52 der Verordnung (EU) Nr. 651/2014 Anwendung.
 
 3.
 
@@ -163,124 +161,16 @@ Ländliche Neuordnung nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanp
 a)
 
 Fördergegenstände
-Maßnahmen im Rahmen der Ländlichen Neuordnung nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, in der jeweils geltenden Fassung, und dem Landwirtschaftsanpassungsgesetz in der Fassung der Bekanntmachung vom 3. Juli 1991 (BGBl. I S. 1418), das zuletzt durch Artikel 40 des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2586) geändert worden ist, in der jeweils geltenden Fassung. Förderfähig sind Aufwendungen für die Bodenordnung und die Gestaltung des ländlichen Raumes in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz (Nummer 5.2.1 Buchstabe a des GAK-Rahmenplans) sowie Maßnahmen der Dorfentwicklung nach Nummer 3.2.1 Buchstabe b, h und k des GAK-Rahmenplans, die in direktem Zusammenhang mit einer gemeinschaftlichen Anlage nach § 39 des Flurbereinigungsgesetzes stehen beziehungsweise für die Bodenordnung zwingend erforderlich sind. Innerörtliche Straßen und Wege sowie innerörtliche Pflanzmaßnahmen sind als Dorfentwicklungsmaßnahmen auch ohne einen direkten Zusammenhang mit einer gemeinschaftlichen Anlage der Teilnehmergemeinschaft förderfähig.
+Maßnahmen im Rahmen der Ländlichen Neuordnung nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, in der jeweils geltenden Fassung, und dem Landwirtschaftsanpassungsgesetz in der Fassung der Bekanntmachung vom 3. Juli 1991 (BGBl. I S. 1418), das zuletzt durch Artikel 136 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung. Förderfähig sind Aufwendungen für die Bodenordnung und die Gestaltung des ländlichen Raumes in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz (Nummer 5.2.1 Buchstabe a des GAK-Rahmenplans) sowie Maßnahmen der Dorfentwicklung nach Nummer 3.2.1 Buchstabe b, h und k des GAK-Rahmenplans, die in direktem Zusammenhang mit einer gemeinschaftlichen Anlage nach § 39 des Flurbereinigungsgesetzes stehen beziehungsweise für die Bodenordnung zwingend erforderlich sind. Innerörtliche Straßen und Wege sowie innerörtliche Pflanzmaßnahmen sind als Dorfentwicklungsmaßnahmen auch ohne einen direkten Zusammenhang mit einer gemeinschaftlichen Anlage der Teilnehmergemeinschaft förderfähig.  
+
 
 b)
 
-Nicht förderfähig sind:
-
-
-aa) 
-
-–
-
-Zinsen mit Ausnahme zur Zwischenfinanzierung des Landzwischenerwerbs,
-
-
-–
-
-Bau- und Erschließungsmaßnahmen in Neubau-, Gewerbe- und Industriegebieten,
-
-
-–
-
-Landkauf mit Ausnahme des Landzwischenerwerbs in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz,  					
-
-
-–
-
-Kauf von Lebendinventar,
-
-
-–
-
-Planungsarbeiten, die gesetzlich vorgeschrieben sind,
-
-
-–
-
-Leistungen der öffentlichen Verwaltung,
-
-
-–
-
-laufender Betrieb,
-
-
-–
-
-Unterhaltung,
-
-
-–
-
-Ausgaben im Zusammenhang mit Plänen nach dem Baugesetzbuch,  					
-
-
-–
-
-eigene Arbeitsleistungen der Zuwendungsempfänger bei Dorfentwicklungsmaßnahmen.
-
-
-bb)
-
-Von der Förderung sind ausgeschlossen, sofern die Maßnahmen nicht im Einvernehmen mit der zuständigen Naturschutzbehörde durchgeführt werden:
-
-
-–
-
-Entwässerung von Ackerland, Grünland oder Ödland,
-
-
-–
-
-Umwandlung von Grünland und Ödland in Ackerland,
-
-
-–
-
-Beschleunigung des Wasserabflusses,
-
-
-–
-
-Bodenmelioration,
-
-
-–
-
-Beseitigung von Landschaftselementen wie Tümpel, Hecken, Gehölzgruppen oder Wegraine.
+Es gelten die Förderausschlüsse für die jeweilige Maßnahme des GAK-Rahmenplanes.
 
 2.
 
-Verbesserung der Breitbandversorgung in ländlichen Gebieten
-
-
-a)
-
-Fördergegenstände (Nummer 6.2.1 des GAKRahmenplans)
-
-
-aa)
-
-Förderung der Wirtschaftlichkeitslücke,
-
-
-bb)
-
-Förderung der Verlegung von Leerrohren,
-
-
-cc)
-
-Vorbereitung und Begleitung.
-
-
-b)
-
-Nicht förderfähig sind:
-
-Leistungen der öffentlichen Verwaltung.
+(aufgehoben)
 
 3.
 
@@ -342,9 +232,7 @@ Gefördert werden sollen Vorhaben für spezifische Bedarfe der ländlichen Entwi
 
 b)
 
-Nicht förderfähig sind:
-
-Es gelten die Förderausschlüsse des GAKRahmenplans.
+Es gelten die Förderausschlüsse für die jeweilige Maßnahme des GAK-Rahmenplanes.
 
 
 III.
@@ -356,7 +244,7 @@ Für Maßnahmen nach Ziffer II Nummer 1 sind Teilnehmergemeinschaften, deren Zus
 
 2.
 
-Für Maßnahmen nach Ziffer II Nummer 2 sind Gemeinden und Gemeindeverbände zuwendungsberechtigt.
+(aufgehoben)
 
 3.
 
@@ -397,16 +285,7 @@ umlagewirksame Tätigkeiten eines Verbandes nach § 26a ff. Flurbereinigungsgese
 Alle unmittelbar dem Zuwendungszweck dienenden Ausgaben, einschließlich der für Maßnahmen gemäß Nummer 1, sind förderfähig. Spezielle Ausschlüsse und Anrechnungsvorschriften für Eigenleistungen (Nummer 5.4.9 des GAK-Rahmenplans) sind zu beachten. Das Staatsministerium für Regionalentwicklung regelt die Einzelheiten.
 
 
-Zu Ziffer II Nummer 2:
-
-1.
-
-Bei Maßnahmen nach Ziffer II Nummer 2 sind die Vorgaben der Nummern 6.5 und 6.6 des GAK Rahmenplans einzuhalten.
-
-2.
-
-Vorhaben nach dieser Richtlinie, die gleichzeitig den Zielen integrierter regionaler Entwicklungsstrategien wie LEADER-Entwicklungsstrategien (LES) sowie Städtebaulichen Entwicklungskonzepten (SEKO) in den jeweils geltenden Fassungen dienen, werden vorrangig gefördert.
-
+Zu Ziffer II Nummer 2: (aufgehoben)
 
 V.
 Art und Umfang, Höhe der Zuwendungen
@@ -526,14 +405,15 @@ Der Fördersatz für Verfahren der Weinbergsflurbereinigung beträgt 65 Prozent.
 
 e)
 
-Der Fördersatz in Verfahren mit besonderer ökologischer Zielsetzung oder in Verfahren mit hoher Bedeutung für die Erhaltung der Kulturlandschaft kann im Einvernehmen mit dem Staatsministerium für Regionalentwicklung auf 80 Prozent erhöht werden.
+Der Fördersatz in Verfahren mit besonderer ökologischer Zielsetzung oder in Verfahren mit hoher Bedeutung für den Klimaschutz, die Klimafolgenanpassung oder den Erhalt der Kulturlandschaft kann im Einvernehmen mit dem Staatsministerium für Regionalentwicklung auf 80 Prozent erhöht werden.
 
 
 f)
 
 
-Soweit sich eine Baumaßnahme in Verfahren nach dem Flurbereinigungsgesetz auch auf den Innenbereich nach §§ 30, 34 des Baugesetzbuches in der Fassung der Bekanntmachung vom 3. November 2017 (BGBl. I S. 3634), das zuletzt durch Artikel 2 des Gesetzes vom 8. August 2020 (BGBl. I S. 1728) geändert worden ist, in der jeweils geltenden Fassung, erstreckt, beträgt der Fördersatz für den innerörtlichen Teil 65 Prozent der dort anfallenden zuwendungsfähigen Ausgaben.
-Für innerörtliche Wasserbau- sowie Pflanzmaßnahmen als gemeinschaftliche Anlage nach § 39 des Flurbereinigungsgesetzes gilt der entsprechende Fördersatz nach Nummer 2 Buchstabe a bis e.
+Soweit sich eine Baumaßnahme in Verfahren nach dem Flurbereinigungsgesetz auch auf den Innenbereich nach §§ 30, 34 des Baugesetzbuches in der Fassung der Bekanntmachung vom 3. November 2017 (BGBl. I S. 3634), das zuletzt durch Artikel 9 des Gesetzes vom 10. September 2021 (BGBl. I S. 4147) geändert worden ist, in der jeweils geltenden Fassung, erstreckt, beträgt der Fördersatz für den innerörtlichen Teil 65 Prozent der dort anfallenden zuwendungsfähigen Ausgaben.
+Für innerörtliche Wasserbau- sowie Pflanzmaßnahmen als gemeinschaftliche Anlage nach § 39 des Flurbereinigungsgesetzes gilt der entsprechende Fördersatz nach Nummer 2 Buchstabe a bis e.  
+
 
 g)
 
@@ -568,15 +448,13 @@ Beiträge der Beteiligten nach § 10 Flurbereinigungsgesetz und § 56 Absatz 2 L
 Landankäufe im Rahmen des Landzwischenerwerbs sind bis zu 10 Prozent der zuschussfähigen Gesamtausgaben des betreffenden Vorhabens förderfähig.
 
 
-Zu Ziffer II Nummer 2:
-
-Für die Finanzierung der Maßnahmen beträgt der Fördersatz 90 Prozent.
+Zu Ziffer II Nummer 2: (aufgehoben)
 
 Zu Ziffer II Nummer 3:
 
 Der Fördersatz richtet sich nach den Vorgaben des Staatsministeriums für Regionalentwicklung. Die Regelungen des GAK-Rahmenplans zu den Förderhöchstsätzen sowie die im Einzelfall einschlägige Beihilfehöchstintensität sind einzuhalten.
 
-Zu Ziffer II Nummer 1 bis 3:
+Zu Ziffer II Nummer 1 und 3:
 
 Das Sächsische Staatsministerium für Regionalentwicklung ist berechtigt im Wege des Erlasses gemäß Nummer 2.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, Nummer 2.1 Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK) Festbeträge auf Basis von Standardkosten und gemäß Nummer 2.3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, Nummer 2.3 Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK) Kostenpauschalen, insbesondere Pauschalen für Personalausgaben, festzulegen, im Einvernehmen mit dem Sächsischen Staatsministerium der Finanzen.
 
@@ -600,7 +478,7 @@ veräußert oder nicht mehr dem Zuwendungszweck entsprechend verwendet werden.
 
 Pflanzungen sind im Rahmen dieser Richtlinie hinsichtlich der Zweckbindung baulichen Anlagen gleichgestellt. Im Flurbereinigungsplan nach § 58 Flurbereinigungsgesetz oder in der Schlussfeststellung nach § 149 Flurbereinigungsgesetz sind Regelungen vorzusehen, mit denen die Sicherung der Zweckbindung durch den Empfänger der Anlage gewährleistet wird.
 
-Zu Ziffer  II Nummer 3:
+Zu Ziffer II Nummer 3:
 
 Die Förderung erfolgt unter dem Vorbehalt des Widerrufs für den Fall, dass die geförderten
 
@@ -632,7 +510,7 @@ Der räumliche Geltungsbereich für Maßnahmen nach Ziffer II Nummer 1 richtet s
 
 b)
 
-Maßnahmen nach Ziffer II Nummer 2 und 3 sind in Orten und deren Gemarkungen bis 5 000 Einwohner in LEADER-Gebieten förderfähig. Förderfähige Orte im Sinne dieser Richtlinie sind städtebaulich eigenständige Teile einer Gemeinde, welche in die Liste der förderfähigen Orte aufgenommen wurden (Gebietskulisse: http://www.smul.sachsen.de/foerderung/richtlinie-laendliche-entwicklung-rl-le-2014-4939.html.
+Maßnahmen nach Ziffer II Nummer 3 sind in Orten und deren Gemarkungen bis 5 000 Einwohner in LEADER-Gebieten förderfähig. Förderfähige Orte im Sinne dieser Richtlinie sind städtebaulich eigenständige Teile einer Gemeinde, welche in die Liste der förderfähigen Orte aufgenommen wurden (Gebietskulisse: http://www.smul.sachsen.de/foerderung/richtlinie-laendliche-entwicklung-rl-le-2014-4939.html.
 
 
 Maßgeblich für die Aufnahme in die Liste der förderfähigen Orte ist die Einwohnerzahl zum 30. Juni 2013. Die Liste der Förderfähigkeit behält ihre Gültigkeit für den Geltungszeitraum dieser Richtlinie.
@@ -642,7 +520,20 @@ Den räumlichen Geltungsbereich für Maßnahmen nach Ziffer II Nummer 3 regelt d
 
 c)
 
-Investitionen in bauliche Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten liegen, sind grundsätzlich nicht förderfähig. Im besonderen Ausnahmefall kann eine Förderung erfolgen, wenn für das Vorhaben eine Genehmigung oder Zustimmung der zuständigen unteren Wasserbehörde vorgelegt wird. Zur Information, ob die (geplante) bauliche Anlage in einem Überschwemmungsgebiet (HQ100) liegt, kann das Geoportal Sachsenatlas unter dem folgenden Link https://www.umwelt.sachsen.de/umwelt/infosysteme/lhwz/karten-und-geodaten.html genutzt werden. Dieser Förderausschluss gilt nicht für Verfahren der Ländlichen Neuordnung. Werden in Flurbereinigungsverfahren Wegebaumaßnahmen innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten durchgeführt, sind diese förderfähig, sofern dabei die Belange der Hochwasservorsorge beachtet werden. 
+Nicht gefördert werden: 
+
+
+–
+
+Investitionen in die Errichtung oder Erweiterung baulicher Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten nach § 76 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 12 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1237) geändert worden ist, liegen. Im besonderen Ausnahmefall kann eine Förderung im Einzelfall erfolgen, wenn das Vorhaben von der zuständigen unteren Wasserbehörde (zum Beispiel nach § 74 Absatz 2 des Sächsischen Wassergesetzes vom 12. Juli 2013 [SächsGVBl. S. 503], das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 [SächsGVBl. S. 705] geändert worden ist) genehmigt wurde oder diese bei durch andere Behörden genehmigten Vorhaben der Förderung zustimmt.
+
+
+–
+
+Investitionen in die Errichtung oder Erweiterung baulicher Anlagen in Hochwasserentstehungsgebieten, soweit diese nach § 78d Absatz 4 des Wasserhaushaltsgesetzes beziehungsweise § 76 Absatz 3 des Sächsischen Wassergesetzes genehmigungspflichtig sind und durch die zuständige Wasserbehörde nicht genehmigt wurden oder diese bei durch andere Behörden genehmigten Vorhaben der Förderung nicht zustimmt.
+
+
+Dieser Förderausschluss gilt nicht für Verfahren der Ländlichen Neuordnung. Werden in Flurbereinigungsverfahren Wegebaumaßnahmen innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten durchgeführt, sind diese förderfähig, sofern dabei die Belange der Hochwasservorsorge beachtet werden.
 
 2.
 
@@ -674,10 +565,6 @@ Diese Richtlinie tritt am 20. Dezember 2014 in Kraft.
 Gleichzeitig tritt die Förderrichtlinie Integrierte Ländliche Entwicklung vom 29. Dezember 2011 (SächsABl. 2012 S. 761), die zuletzt durch Richtlinie vom 20. Oktober 2014 (SächsABl. S. 1336) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 11. Dezember 2013 (SächsABl. SDr. S. S 923), außer Kraft.
 
 
-Die Regelungen in Ziffer II Nummer 2, in Ziffer III Nummer 2, in Ziffer IV „Zu Ziffer II Nr. 2“ und in Ziffer V „Zu Ziffer II Nummer 2“ treten mit Wirkung zum 31. Dezember
-
-2019 außer Kraft.
-
 Dresden, den 15. Dezember 2014
 
 Der Staatsminister für Umwelt und Landwirtschaft
@@ -693,9 +580,9 @@ Fsn-Nr.: 5563-V15.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  5. November 2021
+Fassung gültig ab: 20. Januar 2023
 
-Fassung gültig bis: 19. Januar 2023
+Fassung gültig bis: 30. Juni 2023
 
 Drucken/Speichern
 
@@ -720,7 +607,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14205.6
+https://www.revosax.sachsen.de/vorschrift/14205.7
 Stand vom
 18.11.2026
 
