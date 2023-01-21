@@ -8,6 +8,7 @@
 |  | Vergütung der Krankenhausleistungen |
 | § 3 | Grundlagen |
 | § 4 | Vereinbarung eines Erlösbudgets |
+| § 4a | Ermittlung eines Erlösvolumens für die Versorgung von Kindern und Jugendlichen |
 | § 5 | Vereinbarung und Abrechnung von Zu- und Abschlägen |
 | § 6 | Vereinbarung sonstiger Entgelte |
 | Abschnitt 3 |

@@ -83,6 +83,7 @@
 - [§ 23a Einmalig gezahltes Arbeitsentgelt als beitragspflichtige Einnahmen](0023a.md)
 - [§ 23b Beitragspflichtige Einnahmen bei flexiblen Arbeitszeitregelungen](0023b.md)
 - [§ 23c Sonstige nicht beitragspflichtige Einnahmen](0023c.md)
+- [§ 23d Abgeltung von abgeleiteten Entgeltguthaben bei Beendigung oder Ruhen des Beschäftigungsverhältnisses](0023d.md)
 - [§ 24 Säumniszuschlag](0024.md)
 - [§ 25 Verjährung](0025.md)
 - [§ 26 Beanstandung und Erstattung zu Unrecht entrichteter Beiträge](0026.md)

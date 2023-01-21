@@ -12,6 +12,7 @@ Krankenhausleistungen
 
 - [§ 3 Grundlagen](0003.md)
 - [§ 4 Vereinbarung eines Erlösbudgets](0004.md)
+- [§ 4a Ermittlung eines Erlösvolumens für die Versorgung von Kindern und Jugendlichen](0004a.md)
 - [§ 5 Vereinbarung und Abrechnung von Zu- und Abschlägen](0005.md)
 - [§ 6 Vereinbarung sonstiger Entgelte](0006.md)
 - [§ 6a Vereinbarung eines Pflegebudgets](0006a.md)
