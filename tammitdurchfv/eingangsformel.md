@@ -1,3 +1,0 @@
-# Eingangsformel
-
-Auf Grund des § 58e Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 2 und Satz 3 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 12. Dezember 2005 (BGBl. I S. 3394), der durch Artikel 1 Nummer 7 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3813; 2014 I S. 272) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Gesundheit:
