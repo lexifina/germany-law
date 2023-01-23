@@ -1,0 +1,6 @@
+# TOP 4.: Verschiedenes
+
+- Sitzung: Haupt- und Finanzausschuss (13. Sitzung) (2023-01-23)
+- Körperschaft: Stadt Homberg (Ohm)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/agendaitem/5312
