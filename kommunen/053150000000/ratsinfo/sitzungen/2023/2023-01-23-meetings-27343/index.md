@@ -1,0 +1,76 @@
+# 15. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-23T15:05:00+01:00
+- Ende: 2023-01-23T18:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27343
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27343
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bericht zur aktuellen Lage der Ukraine-Geflüchteten - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Aktueller Sachstand „Grünes Klassenzimmer“ am Berufskolleg Südstadt" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 08.12.2022 - Kenntnis genommen
+- TOP 2.2: Baulicher Zustand der Lehrschwimmbecken in Köln - Kenntnis genommen
+- TOP 2.3: Mitteilung zur Kostenerhöhung gem. § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 bei der Generalsanierung der Sportanlage Humboldtstraße (südlicher Platz) in Köln-Porz - Kenntnis genommen
+- TOP 2.4: Sanierung und Neubau der Turnhalle an der Gesamtschule Chorweiler - Anfrage von RM Aengenvoort aus der Sitzung vom 26.09.2022 - Kenntnis genommen
+- TOP 2.5: Schulgebäude Alter Militärring 96 - Anfrage der SPD-Fraktion aus der Sitzung vom 26.09.2022 - Kenntnis genommen
+- TOP 2.6: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 2.7: Baulicher Zustand der Lehrschwimmbecken in Köln - Nachfrage von RM Hölzing aus der Sitzung vom 21.11.2022 - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der Fraktionen SPD und Die Linke betreffend "Projekt zur mentalen Gesundheit von Schülerinnen und Schülern" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, DIE LINKE, FDP, Volt betreffend "Fördertopf mentale Gesundheit an Schulen" - ungeändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion Die Linke betreffend "Schulformwechsel, Ab- und Aufschulen in Köln und seine Folgen" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 16.01.2023 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4.2: Anfrage der Fraktion FDP betreffend "Berufskollegs" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktion Die Fraktion betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 4.4: Besetzung der Schulsekretariate - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 19.01.2023 - Kenntnis genommen
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion Die Linke betreffend "Kooperation zwischen LVR und Stadt Köln zur Realisierung inklusiver Bildung" - zurückgestellt
+- TOP 5.2: Anfrage der Fraktion Die Linke betreffend "Verschiedene Aspekte der Inklusionsentwicklung an Kölner Schulen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 10.11.2022 - Kenntnis genommen
+- TOP 5.3: Anfrage der FDP betreffend "RiSU" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 17.01.2023 - Kenntnis genommen
+- TOP 5.4: Anfrage der Fraktion SPD betreffend "Gewalt- und Amokprävention an Schulen in Köln" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 17.01.2023 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - zurückgestellt
+- TOP 6.2: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Gebäudes zur Erweiterung des Berufskolleg Ehrenfeld einschließlich 3-fach Sporthalle in Köln Ehrenfeld - ungeändert empfohlen
+- TOP 6.3: Generalinstandsetzung Kindertagesstätte Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven - Weiterplanungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Weitere Förderung des Vereins zur Förderung abschlussbezogener Jugend- und Erwachsenenbildung e.V. (VfJ e.V.) im Rahmen einer Festbetragsfinanzierung für die Jahre 2023 und 2024 - ungeändert empfohlen
+- TOP 6.5: Erweiterung des Bildungsgangs "Einjährige Berufsfachschule Typ 2" im Schwerpunkt Metalltechnik des Berufskollegs Porz (BK 10) zum Schuljahr 2023/24 - ungeändert empfohlen
+- TOP 6.6: Aufstellung und Einrichtung des für das Gymnasium Rochusstraße 145 bereits bestellten Modulbaus am Standort Eitorfer Straße zur Nutzung durch das Berufskolleg 10 und entsprechende Freigabe von investiven Auszahlungsermächtigungen - ungeändert empfohlen
+- TOP 6.7: Schulrechtliche Änderung der Schule Thymianweg (FSL) in Köln-Höhenhaus durch Schließung des Teilstandortes Berliner Str. 36, 51149 Köln bei gleichzeitiger Errichtung einer neuen Förderschule Lernen am Standort Berliner Straße in Köln- Westhoven - ohne Votum in nachfolgende Gremien
+- TOP 6.8: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung des Neubaus und der Einfachturnhalle für die Grundschule Alfons-Nowak-Str. 2, 50859 Köln-Junkersdorf im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2023 - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 7.1: Beschluss über die Kommunale Klassenrichtzahl und die Zahl der Eingangsklassen der Kölner Grundschulen in städtischer Trägerschaft und die Festlegung der Schulplätze in diesen Klassen für das Schuljahr 2023/24 - ungeändert beschlossen
+- TOP 7.2: Bedarfsfeststellung zur Errichtung von Unterrichtsräumen durch Umbau des B-Traktes und zur Ausstattung der Räume am Hildegard-von-Bingen-Gymnasium, Leybergstraße 1, 50939 Köln-Sülz - unter Vorbehalt beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Kommunaler Fonds Kulturelle Bildung - Bestätigung der Juryempfehlungen für die 1. Förderrunde - Kenntnis genommen
+- TOP 8.2: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 8.3: Nachhaltigkeitsbericht der Stadt Köln 2022 - Kenntnis genommen
+- TOP 8.4: Neues VHS-Programm: "Vielfalt" als Jahresthema - Kenntnis genommen
+- TOP 8.5: Beantwortung der AN/1839/2022 Ausbau und Sicherstellung der Betreuung in der Bildungskette - Kenntnis genommen
+- TOP 8.6: Kooperation der Rheinischen Musikschule mit der Carl von Ossietzky Gesamtschule - Kenntnis genommen
+- TOP 8.7: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2021/22 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.8: Sponsoringrichtlinie - Kenntnis genommen
+- TOP 8.9: Berichte zur Situation Geflüchteter - Kenntnis genommen
+- TOP 8.10: Zwischenbilanzierung der Gesamtstrategie „Kölner Kinder stärken!“ zur Prävention von Kinder-, Jugend- und Familienarmut und Ausblick auf die strategische Weiterentwicklung in 2023 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.11: Beantwortung der mündlichen Anfrage der Stadtschulpflegschaft- Konzept zur Energieaufrechterhaltung im Falle eines Blackouts an Schulen - Kenntnis genommen
+- TOP 8.12: Mitteilung zu DE 4030/2022 - schulrechtliche Änderung mehrerer Gymnasien ab den Schuljahren 2023/24 und 2024/25 - Kenntnis genommen
+- TOP 8.13: Anmeldeverfahren der weiterführenden Schulen - Kenntnis genommen
+- TOP 8.14: Rahmenkonzept Familiengrundschulzentren und Entwicklungsperspektiven - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.15: Fehlende Turnhalle/Ausfall von Sportunterricht der Schüler*innen der Freinet- Schule-Köln, Gereonswall 57, 50670 Köln - Kenntnis genommen
+- TOP 8.16: Abweichung/Reduzierung vom Raumprogramm bei Schulbauten - Kenntnis genommen
+- TOP 8.17: Sportsituation an der Heinrich-Böll-Gesamtschule, Merianstr. 11, 50765 Köln-Chorweiler - Kenntnis genommen
+- TOP 8.18: Nutzung der Containeranlage Am Wassermann 30 - 34, 50829 Köln durch die Gesamtschule Helios - Kenntnis genommen
+- TOP 8.19: Beantwortung einer mündlichen Anfrage aus einer früheren Sitzung - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
