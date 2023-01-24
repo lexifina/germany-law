@@ -1,0 +1,67 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-01-24T16:00:00+01:00
+- Ende: 2023-01-24T19:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24192
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24192
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472670.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472670.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472670.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften SI-BV2/007/2022 vom 22.11.2022 und SI-BV2/008/2022 vom 13.12.2022 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Kunst am Bau; Wettbewerb Gymnasium Heinzelmännchenweg - mündlicher Bericht - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Errichtung von acht mietbaren Fahrradsammelschließanlagen in urbanen Wohnquartieren in Bilk, Friedrichstadt, Flingern-Nord, Düsseltal und Oberkassel - mehrheitlich beschlossen
+- TOP 7: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses das Projekt "Karl-Müller-Straße 25 – Brehmschule – Errichtung von zwei Klassencontainern und Neubau einer Mensa" - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 8: Zuwendungsantrag Kleingartenverein Düsseldorf e.V. - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 9: Bezirksbezogene Haushaltsmittel für die Erneuerung der Toilettenanlage des Kleingartenvereins "Düsseldorf" e.V. - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 10: Zuwendungsantrag Bolzplatzhelden - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 11: Förderung des Projekts Bolzplatzhelden der Bürgerstiftung Düsseldorf aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 12: Fahrradständer für den Bereich Heinrichstraße, Brehmstraße und Grunerstraße - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 13: Zusätzliche Fahrradstellplätze auf der Rethelstraße - Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich beschlossen
+- TOP 14: Aufstellung von 3-4 Bänken vor der Arbeitsagentur an der Grafenberger Allee 300 - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Protokolle der Jahresgespräche zwischen den Schulleitern und dem Schulträger - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 19: Hecke als Sichtschutz im öffentlichen Straßenbgleitgrün vor dem DRK-Seniorenzentrum Grafenberger Allee - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 25: Fahrradweg Graf-Recke-Straße - Anfrage der FDP-Fraktion
+- TOP 26: Kosten und Erlöse der Anwohnerparkausweiszonen - Anfrage der CDU-Fraktion
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: leerstehender früherer Brauereiausschank Im Tönnchen, Wetterstrasse 2/Ecke Lindenstrasse - Anfrage der CDU-Fraktion
+- TOP 29: Erfahrungswerte Anwohnerparken - Anfrage der CDU-Fraktion
+- TOP 30: Treppenabgang Moschee - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Nachfolge der Betreiber des Uhrenturms - Anfrage der CDU-Fraktion - beantwortet
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 34: Erneuerung des Brückengeländers entlang der Düssel an der Kühlwetterstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 35: Umsetzbarkeit einer Geschwindigkeitsbegrenzung auf 30 km/h für die gesamte Rethelstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Aufstellung beschlossener Sitzbänke - Anfrage der CDU-Fraktion
+- TOP -: Informationsvorlagen
+- TOP 38: Kommunale Sozialberichterstattung Düsseldorf. Lebenssituation Kinder, Jugendliche und Familien – Monitoring 2015 bis 2020 - zur Kenntnis genommen
+- TOP 39: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 40: Toilettenanlage für den Zoopark - Beschluss der Bezirksvertretung 2, Vorlage BV2/197/2022 - zur Kenntnis genommen
+- TOP 41: Ortsnahe Grundwasserverwendung - Beschluss der Bezirksvertretung 2, Vorlage BV2/148/2022 - zur Kenntnis genommen
+- TOP 42: Konzept für Sanierung der Skateranlage im Stadtwerkepark - Beschluss der Bezirksvertretung 2, Vorlage BV2/152/2022 - zur Kenntnis genommen
+- TOP 43: Beleuchtung Weg an der Düssel - Beschluss der Bezirksvertretung 2, Vorlage BV2/174/2021 - zur Kenntnis genommen
+- TOP 44: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 45: Toilettenanlage für den Zoopark - Beschlussvorlage - einstimmig beschlossen
