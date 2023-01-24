@@ -1,0 +1,82 @@
+# 20. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-24T16:03:00+01:00
+- Ende: 2023-01-24T18:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27334
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27334
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Prüfauftrag – Bedarf an Kontrollen an der Haltestelle Neumarkt - endgültig abgelehnt
+- TOP 1.2: Beschleunigung der ÖPNV-Netzentwicklung - zurückgestellt
+- TOP 1.2.1: Ergänzungsantrag zu TOP 1.2 – Antrag der FDP-Fraktion „Beschleunigung ÖPNV-Netzentwicklung“ (AN/0027/2023) - zurückgestellt
+- TOP 1.3: Anbindung der Hohenzollernbrücke an die Rheinuferpromenade - ungeändert beschlossen
+- TOP 1.4: Begleitende Kommunikation der Verkehrsversuche - zurückgestellt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Einrichtung einer Buslinie auf der Inneren Kanalstraße - geändert beschlossen
+- TOP 2.1.1: Änderungsantrag zur Vorlage 1964/2022 - „Einrichtung einer Buslinie auf der Inneren Kanalstraße, hier: Beschlüsse der Bezirksvertretungen Innenstadt, Lindenthal, Eh-renfeld und Nippes“ - Sache ist erledigt
+- TOP 2.1.2: Änderungsantrag zu Top 2.1, Einrichtung einer Buslinie auf der Inneren Kanalstraße - ungeändert beschlossen
+- TOP 2.1.3: Änderungsantrag der FDP-Fraktion zu TOP 2.1 - endgültig abgelehnt
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Planungsbeschluss: Verkehrliche und gestalterische Optimierung der Aachener Straße in Braunsfeld - geändert beschlossen
+- TOP 3.1.1: Änderungsantrag zur TOP 3.1 - Planungsbeschluss: Verkehrliche und gestalterische Optimierung der Aachener Straß - 2431/2022 - ungeändert beschlossen
+- TOP 3.2: Planungsbeschluss für die Umgestaltung der Neusser Straße zwischen Niehler Kirchweg und Kempener Straße - im ersten Durchgang verwiesen
+- TOP 3.2.1: Änderungsantrag der FDP-Fraktion zu TOP 3.2 - zurückgestellt
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - zurückgestellt
+- TOP 4.2: 284. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.3: Baubeschluss für die Durchführung der Brandschutzsanierung der unterirdischen Stadtbahnhaltestelle Hans-Böckler-Platz / Bf. West - ungeändert empfohlen
+- TOP 4.4: Baubeschluss für den Ersatzneubau der Brücke Frankfurter Straße (B 8) über die B 55a - im ersten Durchgang verwiesen
+- TOP 4.5: Satzung über die Erhebung eines Erschließungsbeitrages für die erstmalige Herstellung der Immissionsschutzanlage Lärmschutzwand Josef-Kallscheuer-Straße entlang der Industriestraße und der Wattignystraße von Unter Buschweg bis Rodderweg in Köln-Sürth - ungeändert empfohlen
+- TOP 4.6: Satzung über die abweichende Herstellung der Erschließungsanlage Kölnstraße von Am Feldrain bis Haus-Nr. 51 einschließlich in Köln-Sürth - ungeändert empfohlen
+- TOP 4.7: Bedarfsfeststellungsbeschluss zur Aufstellung von 10 weiteren Variotafeln sowie Freigabe einer Auszahlungsermächtigung für das Haushaltsjahr 2023 - ohne Votum in nachfolgende Gremien
+- TOP 4.8: 285. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.9: Förderprojekt 'Dasselbe in Grün' - aus grauer wird grüne Infrastruktur - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Umsetzung des Lärmaktionsplans - Sache ist erledigt
+- TOP 5.1.2: Gespräche mit E-Scooter - Anbietern - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Öffentliche E-Bike Ladepunkte - zurückgestellt
+- TOP 5.2.2: Mobilitätswende 2030: Herausforderungen für die KVB - Sache ist erledigt
+- TOP 5.2.3: Ausbau Park+Ride und Bike+Ride - Sache ist erledigt
+- TOP 5.2.4: Emissionsärmerer Wirtschaftsverkehr - Frachtgüter auch innerstädtisch auf die Schiene - Sache ist erledigt
+- TOP 5.2.5: Ausbau der S-Bahn-Strecke S16 im Rahmen der Bebauungsplanungen des Deutzer Hafens - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Beantwortung der Anfrage AN/1649/2022 der Fraktion Die Linke betreffend "Geschlechtergerechte Verkehrsplanung in Köln" - Sache ist erledigt
+- TOP 6.2: Parksituation in den verschiedenen Bewohnerparkzonen - Sache ist erledigt
+- TOP 6.3: Marktbereinigung durch überhöhte Gebühren - Sache ist erledigt
+- TOP 6.4: Falschparker in Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.5: Routen für den Schwerlastverkehr - Sache ist erledigt
+- TOP 6.6: Rheinpendel - Beantwortung der Anfrage AN - Sache ist erledigt
+- TOP 6.7: Rechtswidriges Bewohnerparken - Sache ist erledigt
+- TOP 6.8: Parkdruck in Köln - zurückgestellt
+- TOP 6.9: Zustand der KVB-Bahnen - Sache ist erledigt
+- TOP 6.10: Temporäre Einschränkung des Fahrplanangebotes der KVB - Sache ist erledigt
+- TOP 6.11: Förderung von Quartiersgaragen durch das Land NRW - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Liste der Großbauprojekte - Sache ist erledigt
+- TOP 7.2.1.1: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - zurückgestellt
+- TOP 7.2.2: Ein neu definiertes Grundnetz für den Motorisierten Individualverkehr - Kenntnis genommen
+- TOP 7.2.3: Umsetzung eines Verkehrskonzepts für die Venloer Straße im Abschnitt zwischen Kamekestraße und Hans-Böckler-Platz im Rahmen der Brandschutzsanierung - Kenntnis genommen
+- TOP 7.2.4: Bürger*innenbefragung zum Verkehrsverhalten - Kenntnis genommen
+- TOP 7.2.5: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 7.2.6: Nachhaltigkeitsbericht der Stadt Köln 2022 - Kenntnis genommen
+- TOP 7.2.7: 3. Baustufe Nord-Süd Stadtbahn - Projektstand im Dezember 2022 - Kenntnis genommen
+- TOP 7.2.8: Bürgereingabe nach § 24 GO– „Informationsaufbereitung zum Prüfprozess urbaner Seilbahnen in Köln“ Aktenzeichen 143/22 B - Kenntnis genommen
+- TOP 7.2.9: ÖPNV-Gesamtbericht der Stadt Köln gemäß Art. 7 Abs. 1 Verordnung (EG) 1370/2007, geändert durch Verordnung (EU) 2016/2338 - Kenntnis genommen
+- TOP 7.2.10: Radverkehrskonzept Innenstadt - Kölner Ringe - Kenntnis genommen
+- TOP 7.2.11: Radverkehrskonzept Innenstadt - Kölner Ringe - Kenntnis genommen
+- TOP 7.2.12: Baubeschluss für den Neubau von Verschlusseinrichtungen für den Hochwasserschutz - Mündliche Anfragen - Kenntnis genommen
+- TOP 7.2.13: Temporäre Fahrplananpassungen beim Stadtbahnangebot der KVB - Kenntnis genommen
+- TOP 7.2.14: Digitale Werkzeuge für die Verkehrswende - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
