@@ -1,0 +1,8 @@
+# TOP 6: Beschlusskontrolle 2. Halbjahr 2022
+
+- Sitzung: Ausschuss für Gleichstellung (2023-01-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/331744
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/121389
