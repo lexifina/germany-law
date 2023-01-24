@@ -1,0 +1,188 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2023-01-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7281713
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7281713
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) Eiskaffee Gelateria Roma - Dom-Pedro-Straße 6
+- TOP 3.1.2.: (E) + (U) Temporäres Umwandeln von Auto-Parkplätzen in Fahrradparkplätze in der Volkartstraße Empfehlung Nr. 20-26 / E 03153 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 28.11.2019
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: FREIE WÄHLER und CSU-Fraktion: Antrag - Elektronische Anzeigen von Abfahrtszeiten an den Abgängen zu den Zwischengeschossen der U-Bahnhöfe Rotkreuzplatz und Westfriedhof - vertagt aus 12/2022 -
+- TOP 3.2.2.: Grünen-Fraktion: Antrag - Neue, autofreie Nutzung der Straße am Grünwaldpark - vertagt aus 12/2022 -
+- TOP 3.2.3.: Grünen-Fraktion: Antrag - Radroutenkarte zur Beteiligung der Bürgerschaft - vertagt aus 12/2022 -
+- TOP 3.2.4.: CSU-Fraktion: Antrag - Grundlagenermittlung für das geplante Parklizenzgebiet Gern Erneute Erhebung der Parkplatzauslastung
+- TOP 3.2.5.: Grünen-Fraktion: Antrag - Öffentlicher Mobilitätspunkt in der GEWOFAG Tiefgarage Washingtonstraße
+- TOP 3.2.6.: BA 9: Antrag - Fahrradstellplätze für die Bürger_innen in Neuhausen-Nymphenburg (Paket 4)
+- TOP 3.2.7.: Grünen-Fraktion: Antrag - Schulwegsicherheit Grundschule Margarethe-Danzi-Straße - 2. Versuch
+- TOP 3.2.8.: Totalausfall des Winterdienstes auf Münchner Radwegen / Unfallgefahr für Radfahrende aufgrund nicht-geräumter Fahrrad-Hauptroute
+- TOP 3.2.9.: Parklizenz - Teuerung 2022
+- TOP 3.2.10.: Fehlende Tempo-30-Zone im Bereich - Kreuzung Menzinger Straße / Wintrichring und am - Übergang Nederlinger Straße / Baldurstraße
+- TOP 3.2.11.: Antrag auf einen Zebrastreifen an der Ecke Triva- / Heideckstraße beim Lokal "Dalmacija"
+- TOP 3.2.12.: Antrag auf Errichtung einer Kurzparkzone in der Aiblingerstraße
+- TOP 3.2.13.: Antrag Parkplatz Hirschgarten
+- TOP 3.3: Anhörungen
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Antrag auf Errichtung einer Lieferzone in der Donnersbergerstraße - Ecke Schlörstraße - Bürgeranliegen an den BA 9 aus 10/2022 - Antwortschreiben des MOR mit Hinweis bezüglich der Errichtung von Pfosten auf Gehwegen -
+- TOP 3.4.2.: Gefahrenstelle durch unklaren Straßenbelag - Bürgeranliegen an den BA 9 aus 11/2022 - Antwortschreiben des MOR -
+- TOP 3.4.3.: Querungshilfe Nymphenburgerstraße / Gümbelstraße - Bürgeranliegen an den BA 9 aus 11/2022 - Antwortschreiben des MOR -
+- TOP 3.4.4.: Verkehrssituation am Winthirplatz - Busanfahrt Jugendherberge und Gestaltung Renatastraße - vertagt aus 12/2022 -
+- TOP 3.4.5.: Frühzeitige Information der MVG-Fahrgäste bei Störungen von Rolltreppen und Aufzügen
+- TOP 3.4.6.: Anhörungsverfahren zur Tektur A PFA 1 - Planfeststellungsverfahren Neubau der Straßenbahnstrecke Tram Westtangente in München Antwortschreiben des PLAN + Abdruck der gesamtstädtischen Stellungnahme zur Kenntnis - Bezug: TOP 3.3.5 aus der Sitzung vom 15.11.2022 -
+- TOP 3.4.7.: Sommerstraßen 2021 auch in Stadtbezirken ermöglichen die 2020 eine Sommerstraße hatten
+- TOP 3.4.8.: Baustelle Rupprechtstraße - Gabrielenstraße - Bürgeranliegen an den BA 9 aus 12/2022 - Antwortschreiben des MOR -
+- TOP 3.4.9.: Fuß- und Radverkehr in der "Laimer Röhre": Verlegung der Fahrradständer, Trennung Fuß- und Radweg, Abstellverbot für Fahrräder im nördlichen Teil Sitzungsvorlage Nr. 20-26 / V 07066 - Rückmeldung des BAU mit Weiterleitung an das MOR -
+- TOP 3.4.10.: Parklizenzausweis für Besucher - Ablehnung eines beantragten Bewohnerparkausweises für das Parklizenzgebiet Apostelblöcke - Bürgeranliegen an den BA 9 aus 12/2022 - Antwort des KVR -
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 3.5.2.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 3.5.3.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 3.5.4.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 3.5.5.: Situation an der Schulstraße - Tempo-30-Zone - Antwortschreiben des MOR auf ein Bürgeranliegen an das Büro des Oberbürgermeisters zur Kenntnis -
+- TOP 3.5.6.: Dom-Pedro-Platz Verkehrsrechtliche Anordnung - Anordnung eines Halteverbots zur Kenntnisnahme
+- TOP 3.5.7.: Vollzug des Bundes-Immissionsschutzgesetzes und der Geräte- und Maschinenlärmschutzverordnung - Ausnahmezulassung - Jahresgenehmigung 2023 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 3.5.8.: Vollzug der Grünanlagensatzung vom 15.06.2012 - Baustelleneinrichtung Waisenhausstraße - Ausnahmegenehmigung durch das MOR
+- TOP 3.5.9.: (U) Verkehrskonzept Münchner Norden Verkehrslenkende Maßnahmen Vergabebeschluss
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 3.6.2.: Benennung Nachfolger*in Ansprechpartner*in MOR
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.1.1.: (E) Umgestaltung des Therese-Danner-Platzes
+- TOP 4.1.2.: (E) Verschiebung des Spielplatzes Nymphenburg Süd zur Schaffung durchgehender Radwege
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Aufzug Friedenheimer Brücke
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Tizianstraße 131 Neubau eines Mehrfamilienhauses mit Tiefgarage - Änderungsantrag zu 1.2-2022-8192-22
+- TOP 4.3.2.: Tizianplatz 6 Sanierung und Aufstockung eines Einfamilienhauses mit Garage
+- TOP 4.3.3.: Waisenhausstraße 34 Umbau eines bestehenden Wohngebäudes sowie Errichtung eines Erweiterungsanbaus mit zusätzlichen 2 Wohnungen und 2 Garagen - VORBESCHEID
+- TOP 4.3.4.: Nördliche Auffahrtsallee 1 Umbau und Nutzungsänderung einer Gewerbeeinheit in eine Maisonettenwohnung (KG, EG) Errichtung eines Duplexparkers und eines Außenstellplatzes
+- TOP 4.3.5.: Anhörung des BA 9 - Widmung einer Teilstrecke der Heßstraße Beschlussentwurf - Sitzungsvorlage Nr. 20-26 / V 08538 - Anhörung des BA 9 Neuhausen-Nymphenburg mit Frist zur Abgabe der Stellungnahme bis zum 25.01.2023 -
+- TOP 4.3.6.: Entwurf einer Beschlussvorlage des PLAN - "Hochhausstudie 2023" - Anhörung des BA 9 Neuhausen-Nymphenburg mit Frist zur Abgabe der Stellungnahme bis zum 10.02.2023 -
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Wie und wann weiter bei Biotopia? - Stellungnahme des Staatlichen Bauamts München 1 auf das Antwortschreiben des PLAN -
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 4.5.2.: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 4.5.3.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 4.5.4.: 2. Stammstrecke PFA 1 - 3. Planänderung - Bauwasserableitung - Planfeststellungsbeschluss vom 22.11.2022 - Online-Einsichtnahmemöglichkeit in die planfestgestellten Unterlagen im Zeitraum vom 14.12.-27.12.2022 -
+- TOP 4.5.5.: Bauvorhaben Malsenstraße 52 - Information des PLAN zur Kenntnisnahme
+- TOP 4.5.6.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 4.5.7.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 4.5.8.: Urbanes Gärtnern in München StR-Anträge
+- TOP 4.5.9.: Bauvorhaben - Walhallastraße 13 - Nymphenburger Straße 84-86 (Bruckmanngelände) - Nymphenburger Straße 88 - Klarastraße 11 - Schlagintweitstraße 9 - Unterrichtung über die obigen Stellungnahmeersuchen an PLAN -
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Vorstellung der Allianz für München im Bezirksausschuss 9 Neuhausen-Nymphenburg
+- TOP 4.6.2.: Öffentlichkeitsarbeit des UA
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Silvester-Knallerei
+- TOP 5.2.2.: Sachstand: Containerstandort Wertachplatz
+- TOP 5.2.3.: Grünen-Fraktion: Antrag - Wertstoffinsel optimiert leeren
+- TOP 5.2.4.: Ein Tannenbaum für den Rotkreuzplatz
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Rolandstraße 6 - Dachauer Straße 128 (vertagt aus 12/2022) - Hirschgartenallee 35-37 b - Bernabeistraße 4 - Zamboninistraße 31 - Pfänderstraße 27 - Pfänderstraße 29 - Franz-Schrank-Straße 9-11 - Amperstraße 10 - Trivastraße 30 - Landshuter Allee 17 - Lierstraße 20 a
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Baumpflanzungen in der Romanstraße - Bürgeranliegen an den BA 9 - Nachricht des MOR -
+- TOP 5.4.2.: Bäumen bei anhaltender Trockenheit helfen
+- TOP 5.4.3.: Lichtbelästigung - Bitte um Reduzierung der Strahlwerte der Leuchtreklame einer nahegelegenen Sportsbar und Shisha-Bar - Bürgeranliegen an den BA 9 aus 11/2022 - Antwortschreiben des KVR und Rückmeldung der Bürgerin -
+- TOP 5.4.4.: Aktion "Finde die Lücke für deinen Baum" - Rückmeldung des BAU
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 5.5.2.: Vollzug des Bundes-Immissionssschutzgesetzes und der Geräte- und Maschinenlärmschutzverordnung - Ausnahmezulassung für den vorzeitigen Einsatz von Müllsammelfahrzeugen im Stadtgebiet München für das Jahr 2023
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget GOROD / GIK e.V. - Gesellschaft für Integration und Kultur WESELKA Atelier - Keramik Workshop für Kinder und Jugendliche mit Fluchterfahrung 4.500,00 Euro; Az: 0262.0-9-0620
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kontrapunkt gGmbH - Jugend Kunst Kultur "die h.alle / RepairCafe&Atelier" offene Repairwerkstatt vom 21.01. - 17.12.2023 10.000,00 Euro, Az.: 0262.0-9-0613
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Ausbildungsplatzbörse 2023 - Budget-Antrag zur Verwendung von Mitteln aus dem BA-Budget "Eigene Veranstaltungen"
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Mehrjahresinvestitionsprogramm 2022 - 2026 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 6.5.2.: Information an den BA 9 zum Beherbergungsbetrieb Dachauer Straße 112-112 a - Abverlegung und Sanierung
+- TOP 6.5.3.: Vollzug der Erhaltungssatzung "Neuhausen" Arnulfstraße 146 - Vollzug der Erhaltungssatzung "Ebenau" Leonrodstraße 55 + 55 B
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Wohnen im Viertel - Vorstellung des Projekts "Stupfstraße" durch die GEWOFAG
+- TOP 6.6.2.: Orte mobile Kunst-Spiel-Aktionen 2023
+- TOP 6.6.3.: Bericht der Beauftragten
+- TOP 6.6.4.: Öffentlichkeitsarbeit des UA
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1.: Besichtigung der neuen Räumlichkeiten der "Freien Bühne München"
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget AWO Begegnungszentrum am Reinmarplatz Kultur am Reinmarplatz "Rauhnacht-Sagen" Lesung mit viel Musik mit Autor Karlheinz am 10.12.2022 800,00€; Az. 0262.0-9-0609 - vertagt aus 12/2022 -
+- TOP 7.1.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02.2023 bis 31.12.2023 4.760,00 Euro; Az. 0262.0-9-0619
+- TOP 7.1.3.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 02.09.2023 1.500,00 Euro, Az.: 0262.0-9-0618
+- TOP 7.1.4.: (E) Stadtbezirksbudget Init. "Afro Rap" Afro Rap am 10.11.2022 3.840,00€; Az. 0262.0-9-0601 - Achtung: laut Änderungsvorlage: Höhe des beantragten Zuschusses nunmehr: 3.840,00€ -
+- TOP 7.1.5.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse Antrag des Vereins KUD Soko München e.V. für das Projekt Klassik-Ethno mit Bojana und Nikola Pekovic & The Art Family - Rückmeldung an das DIR bezüglich der Geltendmachung der Kosten in Höhe von 13.483,97 € Bezug: TOP 7.1.4. aus 09/2022 -
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Freigabe Rückwand Wertstoffhof für Street Art
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Räume FBM durch andere NutzerInnen ermöglichen UA Sitzung in den neuen Räumen anfragen - vertagt aus 11/2022 -
+- TOP 7.6.2.: Gestaltung der Mauer am Kreativquartier entlang der Schwere-Reiter-Straße Anschreiben des BA 9 (Bezug: TOP 7.6.5 aus 11/2022) - Stellungnahme des KT-KuK
+- TOP 7.6.3.: Öffentlichkeitsarbeit des UA
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget ESV München e.V. Ganztagesbetreuungs-Pilotprojekt von Januar 2023 bis Juli 2023 1.104,34 Euro; Az. 0262.0-9-0616
+- TOP 8.1.2.: (E) Stadtbezirksbudget Schulverein Ernst Adam e.V. Aufführung einer deutschen Bearbeitung des Musiktheaters "Twilight of the Beggars" von James Olsen an den Nymphenburger Schulen von 01.02. bis 16.07.2023 4.950,00 Euro, Az.: 0262.0-9-0614
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Suche nach geeigneten Räumlichkeiten für die heilpädagogische Arbeit bei DOMUS am Christoph-Rapparini-Bogen
+- TOP 8.2.2.: Frage / Impuls zum geschlossenen Dantebad
+- TOP 8.2.3.: Förderproblematik Kindergarten Zipfelmützen e.V.
+- TOP 8.2.4.: FDP-Fraktion: Antrag - Einbindung der Vereine in Ganztagsbetreuungsangebote
+- TOP 8.2.5.: SPD-Fraktion: Antrag - Preisreduzierte Saunatage für Familien in den SWM-Bädern ab 2023
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: "Fit im Park" 2022 auch im Grünwaldpark
+- TOP 8.4.2.: Öffnungsmöglichkeiten Dantebad im Winter
+- TOP 8.4.3.: (E) Stadtbezirksbudget Kindergarten Kinderschiff e.V. Grünes Nest im Urbanen Raum. Mitmachbaustelle für ein neuen Kinderschiff-Garten vom 30.05. -10.06.2022 5.000,00€; Az. 0262.0-9-0565 Sitzungsvorlage Nr. 20-26 / V 08233 - Rückmeldung der Budgetabteilung des DIR auf Nachfrage des BA -
+- TOP 8.4.4.: Antrag: Mehr Kinderschwimmkurse in den öffentlichen Hallenbädern
+- TOP 8.4.5.: Antrag: Eislaufflächen im Winter 2022/23
+- TOP 8.4.6.: Perioden-Hygiene-Produkte kostenfrei an weiterführenden Schulen zur Verfügung stellen
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.5.2.: Sportbauprogramm - Zwischenbericht Das Sportbauprogramm weiter vorantreiben Antrag Nr. 20-26 / A 03204 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt-Fraktion vom 28.19.2022 A Ausgangslage B Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. 2. Maßnahmenpaket, Standort Siegenburger Str. 51 2. 4. Maßnahmenpaket C Umsetzung des Leitfadens zum inklusionsorientierten Schulsportstättenbau bei den Projekten des Sportbauprogramms 1. Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 2. Teil 2 "Sportgroß- und Sonderprojekte" 3. Teil 3 "Förderung von Vereinsbaumaßnahmen" D Personal- und Sachmittelbedarf für die Umsetzung des Sportbauprogramms - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Personal- und Sachmittelbedarf im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarf im Baureferat E Beteiligungen und Anhörungen
+- TOP 8.5.3.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2017 bis 2021 - Landesmittel Kindertageseinrichtungen sonstiger Träger; Haus für Kinder an der Menzinger Straße 13 im 9. Stadtbezirk Neuhausen-Nymphenburg Leistung eines Baukostenzuschusses
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.1.1.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen hier: Notwendige Beschlussfassung zu Hybridsitzungen
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Grünen-Fraktion: Antrag - Bezirksausschüsse auf muenchen.de finden
+- TOP 9.3: Anhörungen
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Verbotszone Pyrotechnik mit ausschließlicher Knallwirkung für den Zeitraum 02.01.-30.12. eines jeden Jahres sowie am 31.12.2022 und am 01.01.2023 jeweils von 0.00 Uhr bis 24.00 Uhr - Allgemeinverfügung des KVR zur Kenntnisnahme -
+- TOP 9.5.2.: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP 9.5.3.: Anhörung Veranstaltung in einer Grünanlage - Wannda e.V. Silvesterparty am 31.12.2022 auf dem Theaterfestivalgelände - Stellungnahme des BA 9 - Bescheid mit Auflagen - Gestattung mit Auflagen
+- TOP 9.6: Verschiedenes
+- TOP 9.6.1.: Konstituierung Arbeitskreis Jahresempfang
+- TOP 10.: Nichtöffentliche Sitzung
+- TOP 3.6.3.: (N) Präsentation / Ansprache Martin Züchner zu der Ergebnispräsentation des "Referats für Stadtverbesserung" bezüglich der Aktion in der Volkartstraße
+- TOP 3.6.4.: (N) Diskussion zu dem TO Punkt 4.3.5. aus dem UA Bau, der die verkehrliche Widmung eines neuen Teils der Heßstraße betrifft
+- TOP 3.6.5.: (N) Projekt "Saisonale Stadträume - Sommerstraßen und Parklets" - Aufruf "Sommerstraße 2023" durch das MOR
+- TOP 4.3.7.: (N) Kapschstraße 4 Schulbauoffensive - IHKM Adolf-Weber-Gymnasium (AWG) energetische Sanierung mit Erweiterungsbau, Erweiterung um 4 Klassenräume mit Lehrerzimmer und Konferenzraum sowie Bestandsertüchtigung: Fassadensanierung und Neuerrichtung Dachstuhl - TEILBAUGENEHMIGUNG für Baumfällungsarbeiten
+- TOP 4.3.8.: (N) Nederlinger Straße 19 Umbau und Nutzungsänderung eines ehemaligen Schwimmbades im Souterrain eines Mehrfamilienhauses zur Wohnnutzung
+- TOP 5.6.2.: (N) Weitere Planung bzgl. Informationsveranstaltung zu erneuerbaren Energien
+- TOP 6.6.5.: (N) Verschiedenes - Sachstand Mädchentreff Neuhausen wird bei der Stadt nachgefragt - Demokratiebus Einsatz im Viertel (Hr. Lirawi kümmert sich darum) - Vorbereitung Nachtspazierung am 15.2.23 Orte: Radweg von Donnersbergerstr. Richtung Backstage Hirschgarten/Arnulfstr. Grünwaldpark bei den Dixiklos Kugelmüllerstr. Unterführung Dachauer Str./Willi-Gebhardt-Ufer Start am Backstage 17.30 Uhr
+- TOP 8.6.2.: (N) Sonstiges Erledigung der ausstehenden Punkte aus der Sitzung vom Dezember 2022
