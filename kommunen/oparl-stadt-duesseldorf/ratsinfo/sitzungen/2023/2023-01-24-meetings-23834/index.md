@@ -1,0 +1,74 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-01-24T17:00:00+01:00
+- Ende: 2023-01-24T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23834
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23834
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00473248.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00473248.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00473248.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Mitgliedes der Bezirksvertretung 7
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 10.01.2023 eingegangene Fragen
+- TOP 3: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift vom 22.11.2022 - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Ludenberger Straße 21 - Beseitigung eines Gebäudes - - vertagt
+- TOP 5.5: Ludenberger Straße 17a - Beseitigung eines Gebäudes - - vertagt
+- TOP 5.6: Ludenberger Straße 19 - Beseitigung eines Gebäudes - - vertagt
+- TOP 5.7: Informationsvorlage der Verwaltung nach dem Hochwasser am 14.07 und 15.07.2021 - Bericht über den Sachstand zu den im Kapitel 13 identifizierten Maßnahmen und Optimierungsansätzen - - zur Kenntnis genommen
+- TOP 5.8: Kommunale Sozialberichterstattung Düsseldorf. Lebenssituation Kinder, Jugendliche und Familien – Monitoring 2015 bis 2020 - zur Kenntnis genommen
+- TOP 5.9: "Düsseldorf pflanzt Zukunft" - Ein Planungskonzept zur Schaffung neuer Baumstandorte - zur Kenntnis genommen
+- TOP 5.10: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - Empfehlung abweichend beschlossen
+- TOP 5.11: Geibelstraße - Öffnung der Einbahnstraße für den Radverkehr in Gegenrichtung - - vertagt
+- TOP 5.12: Machbarkeitsstudie Veloroute zwischen Düsseldorf und Wuppertal – Abschluss und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 5.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2023 - einstimmig beschlossen
+- TOP 5.14: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5.15: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Jugend) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 6: Anträge
+- TOP 6.1: Neuplanung Provisorium Knotenpunkt Torfbruchstraße/Dreherstraße - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Fahrspuren Ampel Torfbruchstraße / Dreherstraße - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 6.4: Sicherer Übergang an der Sichelstraße in Höhe der Einmündung Glasbläserstraße und Bordsteinabsenkung - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Evaluierung des Verkehrsversuchs “Leipziger Spur” der Kreuzung Torfbruch- / Dreherstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 6.7: Bunte Bänke für Toleranz und Sichtbarkeit - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 6.8: Mündlicher Bericht zum Sachstand der Eintragung des Trinkwasserspeichers „Auf der Hardt“ als Denkmal und um die geplanten Maßnahmen, die zum Erhalt des Denkmals erforderlich sind - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 6.9: Mietzinsfreie Nutzung im Stadtteiltreff „das.Rund“ Grafenberg bis Jahresende 2023 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Grundsätzliche Öffnung der Einbahnstraßen für Radverkehr gegen die vorgeschriebene Fahrtrichtung - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Aktueller Stand des Baugenehmigungsverfahren des Geländes „Villa Sohl“ - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.4: Umgestaltung Grünfläche Torfbruchstraße / Büdingenstraße / Nachtigallstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfragen
+- TOP 8.1: Milieuschutzsatzung im Stadtbezirk 7 - Anfrage der SPD-Fraktion - - vertagt
+- TOP 8.2: Wiederherstellung Dernbuschweg - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 9.2: Bürgersteigbreite an der Bertastraße erweitern - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 9.3: Ergänzung des Straßennamens „Glashüttenstraße“ mit dem italienischen Synonym - Informationsvorlage zum Beschluss der BV 7 vom 22.11.2022 - - zur Kenntnis genommen
+- TOP 9.4: Baumfällungen Winter 2022/2023 - zur Kenntnis genommen
+- TOP 9.5: Instandsetzung des Radwegs in der Verlängerung der Blanckertzstraße - Informationsvorlage zum Beschluss der BV 7 vom 22.11.2022 - - zur Kenntnis genommen
+- TOP 9.6: Spielfläche in der Straße „Am Gartenkamp“ - Informationsvorlage zum Beschluss der BV 7 vom 30.08.2022 - - zur Kenntnis genommen
+- TOP 9.7: Verbesserung des Fahrradweges in der Flieth - Informationsvorlage zum Beschluss der BV 7 vom 22.11.2022 - - zur Kenntnis genommen
+- TOP 9.8: Elektronische Anzeigetafel für Knittkuhl installieren - Informatinsvorlage zum Beschluss der BV 7 vom 22.11.2022 - - zur Kenntnis genommen
+- TOP 9.9: Rheinbahn flexy - On Demand ÖPNV im Düsseldorfer Osten - - zur Kenntnis genommen
+- TOP 9.10: Bunte Bänke für Toleranz und Sichtbarkeit - Informationsvorlage - - zur Kenntnis genommen
+- TOP 9.11: Baustelle Bergische Landstraße / Gräulinger Str. - zur Kenntnis genommen
