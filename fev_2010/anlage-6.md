@@ -169,7 +169,7 @@ Aufgrund der oben angeführten Untersuchung wurden die Anforderungen nach Anlage
 ⃞ nicht erreicht
 Auflagen/Beschränkungen erforderlich:
 ⃞ nein
-⃞ ja
+⃞ ja ______________
 – Rückseite –
 (weggefallen)
 Muster
@@ -196,7 +196,7 @@ Aufgrund der von mir nach Teil 1 erhobenen Befunde wurden die in Anlage 6 Nummer
 ⃞ nicht erreicht
 Auflagen/Beschränkungen erforderlich
 ⃞ nein
-⃞ ja,
+⃞ ja, ______________
 Das Zeugnis ist 2 Jahre gültig.
 Die Identität des Untersuchten wurde geprüft.
 | .......... , den |  | .......... Stempel und Unterschrift des Augenarztes |

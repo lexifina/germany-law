@@ -232,7 +232,7 @@
 - [§ 50a Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve; Verordnungsermächtigung](0050a.md)
 - [§ 50b Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Pflicht zur Betriebsbereitschaft und Brennstoffbevorratung für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve](0050b.md)
 - [§ 50c Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Ende der befristeten Teilnahme am Strommarkt und ergänzende Regelungen zur Kostenerstattung](0050c.md)
-- [§ 50d (zukünftig in Kraft)](0050d.md)
+- [§ 50d Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung](0050d.md)
 - [§ 50e Verordnungsermächtigung zu Maßnahmen zur Ausweitung des Stromerzeugungsangebots und Festlegungskompetenz der Bundesnetzagentur](0050e.md)
 - [§ 50f Verordnungsermächtigung für Maßnahmen zur Reduzierung der Gasverstromung zur reaktiven und befristeten Gaseinsparung](0050f.md)
 - [§ 50g Flexibilisierung der Gasbelieferung](0050g.md)
