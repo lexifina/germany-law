@@ -1,0 +1,7 @@
+# TOP 2.: Bebauungsplan "Am Osterkopf" - Durchführung eines erneuten Offenlegungsverfahrens
+
+- Sitzung: Bauausschuss (8. Sitzung) (2023-01-24)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/2304
+- Ergebnis: (kein Text vorhanden)
