@@ -137,5 +137,3 @@
 ## Teil 6 Schlussvorschriften
 
 - [§ 82 Qualitätsmanagement, Evaluation und Evaluationsordnung](0082.md)
-- [§ 83 (weggefallen)](0083.md)
-- [§ 84 (weggefallen)](0084.md)
