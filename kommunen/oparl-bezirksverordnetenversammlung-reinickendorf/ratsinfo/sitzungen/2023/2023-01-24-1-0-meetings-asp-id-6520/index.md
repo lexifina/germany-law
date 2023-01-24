@@ -1,0 +1,51 @@
+# 11. öffentliche Sitzung des Ausschusses für Verkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2023-01-24T17:00:00+01:00
+- Ende: 2023-01-24T19:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=86
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6520
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6520
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Besprechungspunkte - erledigt
+- TOP 3.1: Verkehrsberuhigung im Waldseeviertel in Hermsdorf – Sanierung der Schildower Straße - erledigt
+- TOP 4: Beratung von Drucksachen - (offen)
+- TOP 4.1: Warenanlieferung in Alt-Tegel neu organisieren - vertagt
+- TOP 4.2: Abordnung des Gehwegparkens auf der Burgfrauenstraße zurückstellen - im Ausschuss abgelehnt
+- TOP 4.3: Kreuzung Waidmannsluster Damm/Ziekowstraße sicherer gestalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.4: Anbindung an die Heidekrautbahn - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.5: Das denkmalgeschützte Alt-Lübars umfahren! - vertagt
+- TOP 4.6: Radweg in der Humboldtstraße sanieren - im Ausschuss abgelehnt
+- TOP 4.7: Elektrokleinbusse für Randortsteile einsetzen - vertagt
+- TOP 4.8: Burgfrauenstraße I - vertagt
+- TOP 4.9: Burgfrauenstraße II - vertagt
+- TOP 4.10: Umsteigepunkt U-Bahnhof Alt-Tegel barrierefrei umgestalten - vertagt
+- TOP 4.11: Verkehrssicherheit in der Schulzendorfer Straße wieder herstellen - vertagt
+- TOP 4.12: Verkehrsberuhigung im Öschelbronner Weg - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.13: Hybrid-Oberleitungsbus zwischen Spandau und dem Schumacher Quartier - vertagt
+- TOP 4.14: SimRa: Sicherheit im Radverkehr - vertagt
+- TOP 4.15: Zebrastreifen für den Waldsee-Spielplatz errichten - vertagt
+- TOP 4.16: Projekt Laternen-Ladesäulen in Reinickendorf etablieren - vertagt
+- TOP 4.17: Geschwindigkeitsanzeige am Waldsee reparieren - vertagt
+- TOP 4.18: Fußgängerzone Gorkistraße - Überdachung und Sitzplätze für die Bushaltestelle Buddestraße - vertagt
+- TOP 4.19: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm / Martin-Luther-Straße - vertagt
+- TOP 4.20: Instandsetzung und Pflege der Reinickendorfer Radwege Nr. 1 - 6 - vertagt
+- TOP 4.21: Anpassung der Parkplatzkapazitäten für PKW im Bereich der Cité Foch - vertagt
+- TOP 4.22: BVG-Haltestellenhäuschen an der Buddestraße - vertagt
+- TOP 4.23: Verkehrsberuhigter Geschäftsbereich Heinsestraße - vertagt
+- TOP 4.24: Verkehrszählgeräte - vertagt
+- TOP 4.25: Anbindung des Schumacher Quartiers an den ÖPNV - vertagt
+- TOP 4.26: Vorratsbauwerk für U6-Abzweig zur UTR bei Neubebauung des Einkaufszentrums Der Clou berücksichtigen - vertagt
+- TOP 4.27: Den Flughafensee als Naherholungsgebiet stärken, Anwohner der Siedlung Waldidyll schützen I - vertagt
+- TOP 4.28: Mehr Parkmöglichkeiten für Dienstleister im Schumacher Quartier - vertagt
+- TOP 4.29: Den Flughafensee als Naherholungsgebiet stärken, Anwohner der Siedlung Waldidyll schützen II - vertagt
+- TOP 4.30: Durchquerungsmöglichkeiten für Flughafengebiet - vertagt
+- TOP 5: Bericht aus dem Bezirksamt - erledigt
+- TOP 6: Verschiedenes - erledigt
