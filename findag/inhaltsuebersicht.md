@@ -14,6 +14,7 @@
 | § 4f | Elektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf |
 | § 4g | Elektronische Zustellung durch Bereitstellung zum Abruf |
 | § 4h | Bekanntgabe und Zustellung im Ausland |
+| § 4i | Absehen von einer Anhörung |
 | Zweiter Abschnitt |
 |  | Organisation |
 | § 5 | Organe, Satzung |
