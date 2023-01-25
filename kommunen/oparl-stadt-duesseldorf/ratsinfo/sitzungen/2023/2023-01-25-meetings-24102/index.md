@@ -1,0 +1,66 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-01-25T17:00:00+01:00
+- Ende: 2023-01-25T18:08:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24102
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24102
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV 6 digitales Sitzungspaket Ö 2023-01-25 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00474121.pdf
+- Ergebnisprotokoll: BV 6 digitales Sitzungspaket Ö 2023-01-25 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00474121.pdf
+- Wortprotokoll: BV 6 digitales Sitzungspaket Ö 2023-01-25 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00474121.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung vom 9. November 2022 (wird nachgereicht) - zurückgestellt
+- TOP 2.1: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP -: Anfragen (alt)
+- TOP 3: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen
+- TOP 6: Anfrage der SPD-Fraktion: Zeitfenster der Umsetzung von beschlossenen Maßnahmen der Bezirksvertretung 6 - beantwortet
+- TOP 7: Anfrage von Florian Ries (Fraktion Bündnis 90/Die Grünen): Ausstehendes Prüfungsergebnis einer Verkehrsberuhigung auf dem Cloppenburger Weg
+- TOP 8: Anfrage der Fraktion BÜ90/Die Grünen: Münsterstraße - mögliche Lösungen für das Zuparken von Geh- und Radweg durch Lieferverkehre - beantwortet
+- TOP 9: Anfrage der FDP-Fraktion: Kosten für die Bearbeitung von Anfragen und Anträgen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Anfrage der SPD-Fraktion: Pollerstandort - beantwortet
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Wiederinstandsetzung des Bolzplatzes Mintarder Weg
+- TOP 13: Anfrage der Fraktion BÜ90/Die Grünen: Einrichtung einer Querung auf dem Kieshecker Weg
+- TOP 14: Anfrage des Ratsherrn Mielczarek (BÜ90/Die Grünen): Rückbau der geschotterten Einbuchtungen Am Bauenhaus - beantwortet
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Anfrage des Ratsherrn Mielczarek (BÜ90/Die Grünen): Fertigstellung der Straße "Zur alten Kaserne" in der Gartenstadt Reitzenstein - beantwortet
+- TOP -: Anfragen
+- TOP 17: Anfrage der SPD-Fraktion: Tempo 30 in sensiblen Bereichen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße
+- TOP 20: Anfrage der Fraktion BÜ90/Die Grünen: Rolle der Bezirksvertretung bei der Genehmigung von Befreiungen von Bebauungsplänen
+- TOP -: Anträge
+- TOP 21: Antrag der CDU-Fraktion: Direkte Wegeverbindung zwischen dem Penny-Parkplatz an der Oberrather Straße und - einstimmig beschlossen
+- TOP 22: Antrag der CDU-Fraktion: Eingangs- und Parkbereich der Grundschulen "An der Golzheimer Heide" - abweichend beschlossen
+- TOP 23: Antrag der SPD-Fraktion: Errichtung von Trinkwasserspendern im Stadtbezirk 6 - abweichend beschlossen
+- TOP 24: Antrag der Fraktion BÜ90/Die Grünen: Verkehrsberuhigter Bereich Lichtenbroich - Spielen zwischen Volkardeyer Weg und Krahnenburgstraße - abweichend beschlossen
+- TOP 25: Antrag der Fraktion BÜ90/Die Grünen: Zebrastreifen auf der Kürtenstraße - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 26: Barrierefreier Umbau der Bushaltestellen "Unterrath-S" Steige 4-7 - abweichend beschlossen
+- TOP 27: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - einstimmig beschlossen
+- TOP 28: Bezirkssportanlage Wilhelm-Unger-Straße (Rather Waldstadion) - Erneuerung des Kunstrasenbelags - einstimmig beschlossen
+- TOP 29: Zuschussvergabe 2023 Antrag der Städtischen Katholischen Grundschule Rather Kreuzweg - Theaterpädagogische Präventionsprogramme "Die große Nein-Tonne" und "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 30: Zuschussvergabe 2023 Antrag des Bürgerverein Mörsenbroich 1928 e.V./Festausschuss Mörsenbroicher Veedelszoch - einstimmig beschlossen
+- TOP 31: Zuschussvergabe 2023 Antrag der GGS Wrangelstraße - Theaterprogramm "Mein Körper gehört mir" und "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 32: Zuschussvergabe 2023 Antrag der Karnevalsgesellschaft "Düsseldorfer Originale" e.V. - Anschaffung eines Kinderprinzenpaarordens - einstimmig beschlossen
+- TOP 33: Zuschussvergabe 2023 Antrag TuS Nord e.V. Fußballabteilung D 2 - Jugendmannschaftsfahrt - einstimmig beschlossen
+- TOP 34: Zuschussvergabe 2023 Antrag der BürgerStiftung Düsseldorf - Förderung Projekt Bolzplatzhelden 2023 im Stadtbezirk 6 - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 35: "Düsseldorf pflanzt Zukunft" - Ein Planungskonzept zur Schaffung neuer Baumstandorte - zur Kenntnis genommen
+- TOP 36: Kommunale Sozialberichterstattung Düsseldorf. Lebenssituation Kinder, Jugendliche und Familien – Monitoring 2015 bis 2020 - zur Kenntnis genommen
+- TOP 37: Sanierung und Wiederherstellung des vorhandenen Radweges Heinrichstraße Stadtauswärts (nördliche Seite) - Vorlage BV6/028/2021 - zur Kenntnis genommen
+- TOP 38: Einrichtung einer Haltezone zum Be- und Entladen vor dem Gebäude Westfalenstraße 99 - Vorlage BV6/068/2022 - zur Kenntnis genommen
+- TOP 39: Prüfantrag zur Neugestaltung des Angstraumes unter der Brücke Borbecker Straße - Vorlage BV6/124/2022 - zur Kenntnis genommen
+- TOP 40: Piktogramm Lichtenbroicher Weg - Vorlage BV6/116/2022 - zur Kenntnis genommen
+- TOP 41: Erschließung des Weges vom Parkplatz Waldstraße zur Haltestelle Oberrath und Aufnahme in den Wegeplan der Stadt Düsseldorf - Vorlage BV6/067/2022 - zur Kenntnis genommen
+- TOP 42: Optische Aufwertung der S-Bahnbrücke am Haltepunkt Rath Mitte - Vorlage BV6/121/2022 - zur Kenntnis genommen
+- TOP 43: Winterfällungen 2022 im Stadtbezirk 6 - zur Kenntnis genommen
