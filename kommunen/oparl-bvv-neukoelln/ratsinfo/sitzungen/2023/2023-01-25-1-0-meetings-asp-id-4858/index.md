@@ -1,0 +1,106 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-01-25T17:00:00+01:00
+- Ende: 2023-01-25T22:45:00+01:00
+- Ort: Bat-Yam-Platz 1, 12353 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4858
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4858
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Schulentwicklungsplanung in Neukölln - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Für Gewaltprävention, Stärkung der Schulen und Jugendsozialarbeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Kein Platz für Krawalle und Angriffe auf Einsatzkräfte in Neukölln! - in der BVV abgelehnt
+- TOP 4.3: Neukölln friedlich und antirassistisch - in der BVV abgelehnt
+- TOP 4.4: Verurteilung der bürgerkriegsähnlichen Zustände an Silvester 2022 - in der BVV abgelehnt
+- TOP 4.5: Als echte Demokratinnen und Demokraten dem Willen der Wählerinnen und Wähler entsprechen. Selbstverpflichtung zum Rücktritt der Mitglieder des Bezirksamts nach der Wahlwiederholung. - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Zielvereinbarung zur Optimierung der Zusammenarbeit im Amtlichen Vermessungswesen und zur Qualitätssicherung von Kernprozessen des Amtlichen Vermessungswesens für das Jahr 2023 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Anmeldung des Bezirks Neukölln zum Investitionsprogramm für die Jahre 2023 bis 2027 - überwiesen
+- TOP 7: Vorlagen zur Wahl - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Emmi bleibt! - beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Sichere Gehwege bei temporären Spielstraßen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Fahrrad-Wartetrittbretter mit Reflektoren kennzeichnen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Standort Alt - Rudow / Neuköllner Straße 333 stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Polyglotte Neuköllner Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Schulträgerschaft im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Beschulung für Kinder und Jugendliche aus dem C&A in bisherigen Schulklassen ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Sicherer Übergang Neuköllner Straße/Kleestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Schulanmeldungen online! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.7: Kiezblock Rollberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.8: Wartetrittbretter für Radfahrer*innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.9: Verfügungsfonds - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.10: Erneuerung der Zebrastreifen in Alt Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.11: Fahrrad-Indoor-Parkplatz am S- und U-Bahnhof Hermannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Zwischenauswertung des Bürger*innenhaushalts 2022/2023 - beantwortet
+- TOP 11.2: Hermannplatz für alle! Karstadtneubau der Signa Gruppe und Herrn R.B. verhindern! - beantwortet
+- TOP 11.3: Ende gut, gar nichts gut: Wie geht es weiter mit dem „Atrium“? - beantwortet
+- TOP 11.4: Maßnahmen gegen das Befahren von Gehwegen mit Fahrrädern und Elektro-Rollern - in der BVV abgelehnt
+- TOP 11.5: Failed State Neukölln: Wahlbeobachtung durch die OSZE - in der BVV zurückgezogen
+- TOP 11.6: Pfortendienst rekommunalisieren - in der BVV abgelehnt
+- TOP 11.7: Öffentliche Iftar-Feier in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Notfallrettung für das Gesundheitsamt Neukölln - vertagt
+- TOP 11.9: Erinnerungs- und Gedenkkultur in Neukölln - vertagt
+- TOP 11.10: Umsetzungsstand des seit August 2019 kostenlosen Schulessens in Neukölln - schriftlich beantwortet
+- TOP 11.11: Datenschutzvergehen durch Stadträtin Blumenthal - vertagt
+- TOP 11.12: Studie belegt Unsinnigkeit der Shisha-Bar-Razzien: Zukunft der Gewerbeüberwachung in Neukölln - vertagt
+- TOP 11.13: Recht auf menschenwürdiges Wohnen für alle Neuköllnerinnen und Neuköllner! - schriftlich beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Recht auf Sprachförderung von Kindern im Vorschulalter sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: RIAS-Gelände Wärmestrategie ohne fossile Verbrennung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: RIAS-Gelände - Photovoltaik auf die Dächer - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Verkehrskonzept für das Umfeld des RIAS-Gelände in Britz - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Mieterstromprojekte fördern! - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Erhaltungsverordnung Krugpfuhlsiedlung - in der BVV abgelehnt
+- TOP 12.7: Kurze Wege am Rixdorfer Brauhaus - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Hermannplatz für alle! Karstadtneubau der Signa Gruppe und Herrn R.B. verhindern! - in der BVV abgelehnt
+- TOP 12.9: Elektronische Bürger*innenterminals für den Bezirk Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Hitzeschutz auf Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Öffentliche Trinkbrunnen für Neuköllner Kinderspielplätze - in der BVV abgelehnt
+- TOP 12.12: "Pfandringe" um Mülleimer - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Gedenkensemble auf dem Garnisionsfriedhof Columbiadamm umgestalten – antikoloniale Gedenkkultur etablieren! - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Klimaschutz lokal: Klimateam für das Neuköllner Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Energetische Sanierung öffentlicher Gebäude – Transparenzliste und Prüfung Abwärmenutzung - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Öffentliche Still- und Wickelmöglichkeiten für Väter und Mütter - vertagt
+- TOP 12.18: Solidarität mit dem Saharauischen Befreiungskampf – saharauische Fahne vor dem Neuköllner Rathaus hissen - vertagt
+- TOP 12.19: Ein Platz für Inge Meysel - vertagt
+- TOP 12.20: Verbundeinsätze weiterhin mit dem Ordnungsamt Neukölln durchführen - vertagt
+- TOP 12.21: Zugang zu sozialen Einrichtungen auf dem Kindl-Gelände erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Pflegestützpunkt für die Gropiusstadt - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Erstellung einer kommunalen Wärmeplanung für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Städtepartnerschaft mit einer Gemeinde in Rojava (Nordsyrien) - in der BVV abgelehnt
+- TOP 12.25: Bürger entlasten: keine Parkgebühren in Neukölln! - vertagt
+- TOP 12.26: Wartungsverträge und Ersatzteilmanagement für öffentliche Gebäude des Bezirksamtes - in der BVV abgelehnt
+- TOP 12.27: Pförtner- und Wachdienst im Rathaus stärken – Verantwortung gegenüber Mitarbeitenden - vertagt
+- TOP 12.28: Hof der Alten Dorfschule Rudow Instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.29: Neukölln braucht das Wasserwerk Johannisthal – Neukölln mit genügend Wasser versorgen und das Grundwasser im Blumenviertel absenken! - vertagt
+- TOP 12.30: Berliner Fahrradverleihsystem auf ganz Neukölln erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Radweg für Alt-Buckow - ohne Änderungen in der BVV beschlossen
+- TOP 12.32: Tempo 30 auf der Waltersdorfer Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.33: Zugang zum Carl-Weder-Park gegen Unfälle absichern - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Ehrendes Gedenken für Kurt Löwenstein am 27.2.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Einrichtung eines "Runden Tisches" zu Rassismus gegen muslimisch (gelesene) Menschen - überwiesen
+- TOP 15.3: Verkehrsberuhigung in der Handwerker-Siedlung sicherstellen - überwiesen
+- TOP 15.4: B-Plan Emmauskirchhof - West - Ausschussberatung vor öffentlicher Auslegung - überwiesen
+- TOP 15.5: Gefährliche Parkhausausfahrt an der Christoph-Ruden-Straße - überwiesen
+- TOP 15.6: Organisierte Kriminalität mit Zivilgesellschaft bekämpfen - überwiesen
+- TOP 15.7: Mehr Sauberkeit in der Franz-Körner-Straße - überwiesen
+- TOP 15.8: Verkehrssituation im Bereich des Wohnparks St. Marien (Mariendorfer Weg) - überwiesen
