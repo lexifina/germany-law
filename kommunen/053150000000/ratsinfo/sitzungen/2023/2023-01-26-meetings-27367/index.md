@@ -1,0 +1,57 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-26T16:00:00+01:00
+- Ende: 2023-01-26T17:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27367
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27367
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Bestellung einer Schriftführerin des Ausschusses Umwelt, Klima und Grün und ihrer Stellvertretung - ungeändert beschlossen
+- TOP -: B Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: C Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der FDP-Fraktion betreffend Klimaschutzkooperation mit der TH Köln - Kenntnis genommen
+- TOP 1.1.1: Beantwortung der Anfrage Klimaschutzkooperation mit der TH Köln - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktion Die Linke betreffend Erzeugung und Einsatz von Biogas durch die RheinEnergie AG - Kenntnis genommen
+- TOP 1.2.1: Beantwortung der Anfrage Erzeugung und Einsatz von Biogas durch die RheinEnergie AG - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Die Linke betreffend „Freiluft-Eishockey-Spiele“ und „Eislaufen für jedermann“ im Rhein-Energie-Stadion - Kenntnis genommen
+- TOP 1.3.1: Beantwortung der Anfrage „Freiluft-Eishockey-Spiele" und „Eislaufen für jedermann“ im Rhein-Energie-Stadion - Kenntnis genommen
+- TOP 1.4: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Diversität auf städtischen Immobilien / Flächen" - zurückgestellt
+- TOP 1.5: Anfrage der Fraktion Die Linke. betr.: "Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz" - zurückgestellt
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Solaranlagen auf Denkmälern" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der FDP-Fraktion betreffend Keine SF6-Gase in der Kölner Energiewende! - zurückgestellt
+- TOP 2.2: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Förderung von Entsiegelungsmaßnahmen in Kleingärten" - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Mittelfreigabe zur Sanierung städtischer Brunnen - ungeändert empfohlen
+- TOP 4.1.2: Förderprojekt 'Dasselbe in Grün' - aus grauer wird grüne Infrastruktur - ungeändert empfohlen
+- TOP 4.1.3: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.1.4: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), Bericht 2023 - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Sachstand zur Umsetzung des Ratsbeschlusses vom 10.12.2020 - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2022 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 7.3: Stadtklima-Stadtverschönerungsprogramm 2022 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.4: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 7.5: Nachhaltigkeitsbericht der Stadt Köln 2022 - Kenntnis genommen
+- TOP 7.6: Gemeinwohlbilanzierung - Kenntnis genommen
+- TOP 7.7: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 7.8: Regionalstudie zur Landwirtschaft - Kenntnis genommen
+- TOP 7.9: Dekarbonisierung bei der RheinEnergie AG und im Stadtwerke-Konzern - Kenntnis genommen
+- TOP 7.10: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 11. Januar 2023 - Kenntnis genommen
+- TOP 7.11: Sachstandsbericht zum Änderungsantrag AN/2693/2021 sowie Beantwortung der Fragen des Finanzausschusses: Neubau Historische Mitte - endgültig zurückgezogen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
