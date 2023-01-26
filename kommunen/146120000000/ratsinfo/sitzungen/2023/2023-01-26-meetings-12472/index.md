@@ -1,0 +1,96 @@
+# 46. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-01-26T16:00:00+01:00
+- Ende: 2023-01-26T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12472
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12472
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00659718.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 3: Fragerunde (2 Runden)
+- TOP 3.1: Neubau Schwimmhalle Klotzsche
+- TOP 3.2: Situation Sachsenbad u.a.
+- TOP 3.3: Realisierungskonzept zum Neubau einer Sport-Schwimmhalle in Pieschen
+- TOP 3.4: Modernisierung der Parkautomaten in Dresden
+- TOP 3.5: Folgen der sogenannten "einrichtungsbezogenen Impfpflicht"
+- TOP 3.6: Dresden als Fair Trade City
+- TOP 3.7: Asylbewerberunterkunft „Am Werk 1“ in Dresden-Sporbitz
+- TOP 3.8: Gestaltung des Köngiswaldplatzes in Klotzsche
+- TOP 3.9: Fehlbeträge in der Sportförderung
+- TOP 3.10: Schulsekretariate
+- TOP 3.11: Mehrjahresförderung freie Träger
+- TOP 3.12: Geschwindigkeitsbegrenzung auf der Langebrücker Straße
+- TOP 3.13: Verwaltungsunterbringung
+- TOP 3.14: Grundstücktausch Alter Leipziger Bahnhof
+- TOP 3.15: Weiternutzungsmöglichkeiten der Schwimmhalle und Sporthalle Klotzsche
+- TOP 3.16: Industriepark Oberelbe
+- TOP 4: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 5: Wahl des/der Beigeordneten für den Geschäftskreis Kultur und Tourismus - gewählt
+- TOP 6: Wahl des/der Beigeordneten für den Geschäftskreis Umwelt und Kommunalwirtschaft - gewählt
+- TOP 7: Wahl des/der Beigeordneten für den Geschäftskreis Ordnung und Sicherheit - gewählt
+- TOP 8: Wahl des/der Beigeordneten für den Geschäftskreis Arbeit, Soziales, Gesundheit und Wohnen - gewählt
+- TOP 9: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden; Änderung der Ausschussgrößen - Vertagung nach 22 Uhr
+- TOP 9.1: Umbesetzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit - Vertagung nach 22 Uhr
+- TOP 9.2: Umbesetzung des Ausschusses für Finanzen - Vertagung nach 22 Uhr
+- TOP 9.3: Umbesetzung des Ausschusses für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Vertagung nach 22 Uhr
+- TOP 9.4: Umbesetzung des Ausschusses für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Vertagung nach 22 Uhr
+- TOP 9.5: Umbesetzung des Ausschusses für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Vertagung nach 22 Uhr
+- TOP 9.6: Umbesetzung des Ausschusses für Soziales und Wohnen - Vertagung nach 22 Uhr
+- TOP 9.7: Umbesetzung des Ausschusses für Gesundheit (Eigenbetrieb Städtisches Klinikum) - Vertagung nach 22 Uhr
+- TOP 9.8: Umbesetzung des Ausschusses für Sport (Eigenbetrieb Sportstätten) - Vertagung nach 22 Uhr
+- TOP 9.9: Umbesetzung des Ausschusses für Umwelt und Kommunalwirtschaft (Eigenbetrieb friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Vertagung nach 22 Uhr
+- TOP 9.10: Umbesetzung des Ausschusses für Petitionen und Bürgerbeteiligung - Vertagung nach 22 Uhr
+- TOP 10: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Klotzsche der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 11: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 12: Umbesetzung im Aufsichtsrat der DREWAG - Stadtwerke Dresden GmbH - Vertagung nach 22 Uhr
+- TOP 13: Umbesetzung im Aufsichtsrat der Dresdner Verkehrsbetriebe AG - Vertagung nach 22 Uhr
+- TOP 14: Besetzung des Aufsichtsrates der SachsenEnergie AG - Vertagung nach 22 Uhr
+- TOP 15: Besetzung des Aufsichtsrates der Messe Dresden GmbH - Vertagung nach 22 Uhr
+- TOP 16: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Vertagung nach 22 Uhr
+- TOP 17: Tagesordnungspunkte ohne Debatte
+- TOP 18: Betriebsbeihilfe für die Stadion Dresden Projektgesellschaft mbH & Co. KG - Vertagung nach 22 Uhr
+- TOP 19: Investive Sportförderung für das Fördervorhaben: Ausbau der Sportanlage Jägerpark, Jägerpark 12 in 01099 Dresden durch den SC Borea Dresden e. V. - Zustimmung mit Ergänzung
+- TOP 20: Errichtung temporärer Erweiterungsbau als mobile Raumeinheit, Erneuerung und Ergänzung naturwissenschaftliche Fachkabinette und Erweiterung Speiseraumbereich im Bestandsgebäude am Zentralen Auslagerungsstandort Berthelsdorfer Weg 2, 01279 Dresden - Zustimmung
+- TOP 21: Gymnasium Linkselbisch Ost (LEO), Bodenbacher Straße 140 in 01277 Dresden - Neubau Schulgebäude mit Dreifeldschulsporthalle, einschließlich Sport- und Pausenfreiflächen - Zustimmung
+- TOP 22: Integriertes Stadtentwicklungskonzept "Zukunft Dresden 2035+" - 2. Fortschreibung 2022 - Vertagung nach 22 Uhr
+- TOP 23: Städtebauförderung: Entwicklung von Dresden Pappritz/Wachwitz – Bestätigung des Gebietsumgriffes und des Integrierten städtebaulichen Entwicklungskonzeptes sowie Auftrag zur Akquirierung von Fördermitteln - Zustimmung
+- TOP 24: Hochwasserschutz Laubegast - Ergebnisse des Beteiligungsprozesses 2021/2022 und weiteres Vorgehen - Zustimmung
+- TOP 25: Entgeltordnung der Landeshauptstadt Dresden für die Benutzung des Krematoriums Dresden-Tolkewitz - Zustimmung
+- TOP 26: Vertagungen aus der Sitzung vom 15./16.12.2022
+- TOP 26.1: Keine Kürzungen bei Bus und Bahn. Gutachterirrsinn beenden. Dresdner Verkehrsbetriebe stärken! - Vertagung durch Einreicher
+- TOP 26.2: Keine Fahrpreiserhöhung 2023 - Vertagung durch Einreicher
+- TOP 26.3: Modellversuch kostenfreies Parken bei Veranstaltungen und an ausgewählten Wochenenden - Vertagung nach 22 Uhr
+- TOP 26.4: Die Subventionierung öffentlicher Parkplätze beenden - Für eine Gleichbehandlung aller Mobilitätsformen sorgen! - Vertagung
+- TOP 26.5: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung durch Einreicher
+- TOP 26.6: Starthilfe für Studierende, Auszubildende und Freiwilligendienstleistende - Vertagung nach 22 Uhr
+- TOP 26.7: Dresden für junge Menschen attraktiver machen: Clubkultur retten - Vertagung nach 22 Uhr
+- TOP 26.8: Einrichtung einer Beratungsstelle für Bürger bei Impfnebenwirkungen und Impffolgeschäden - Vertagung nach 22 Uhr
+- TOP 26.9: Versorgungssicherheit in Dresden - zurückgezogen
+- TOP 26.10: Ein Platz der Kinderrechte für Dresden - Vertagung nach 22 Uhr
+- TOP 26.11: Neuordnung der Fahrspuren auf der Güntzstraße im Kreuzungsbereich zur Pillnitzer Straße und Striesener Straße - Vertagung nach 22 Uhr
+- TOP 26.12: Tempo 30 als Regelhöchstgeschwindigkeit in einem Stadtgebiet erproben – für mehr Sicherheit, weniger Lärm und bessere Luft - Vertagung nach 22 Uhr
+- TOP 26.13: Sicher zur Schule mit dem Fahrrad oder zu Fuß - Vertagung nach 22 Uhr
+- TOP 26.14: Umwandlung Gaußstraße in verkehrsberuhigte Zone - Vertagung nach 22 Uhr
+- TOP 26.15: Umplanung Magdeburger Straße: Zwei MIV-Spuren reichen - Straßen für Alle durch rationale Verkehrsplanung - Vertagung nach 22 Uhr
+- TOP 26.16: Sanierung der Stauffenbergallee West - Vertagung nach 22 Uhr
+- TOP 26.17: Sanierung der Königsbrücker Straße zwischen Albertplatz und Stauffenbergallee – Maßnahmen zur Beschleunigung der Planfeststellung und zur Realisierung - Vertagung nach 22 Uhr
+- TOP 27: E-Petition „Erwerb des Grundstückes und Wiederaufforstung des Waldstückes am Holunderweg" - Vertagung
+- TOP 28: Zweiter Dresdner Gleichstellungs-Aktionsplan der Landeshauptstadt Dresden zur Umsetzung der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene (2021 bis 2026) - Vertagung nach 22 Uhr
+- TOP 29: Implementierung nachhaltiger Entwicklung in Dresdner Kultureinrichtungen - Vertagung nach 22 Uhr
+- TOP 30: Einlage von Grundstücksflächen in die WiD Wohnen in Dresden GmbH & Co. KG - Vertagung nach 22 Uhr
+- TOP 31: Veräußerung und Erwerb von Grundstücken im Wege des vereinbarten, amtlichen Umlegungsverfahrens Nr. 151 „Wiener Platz Ost“ gem. §§ 11, 45 BauGB - Zustimmung
+- TOP 32: Tausch über ein Grundstück an der Marta-Fraenkel-Straße gegen ein Grundstück Am Goldenen Stiefel - Vertagung nach 22 Uhr
+- TOP 33: Zusätzliche Baumreihen westlicher Promenadenring - Vertagung durch Einreicher
+- TOP 34: Fahrradstraße am Kleinzschachwitzer Ufer - Vertagung nach 22 Uhr
+- TOP 35: Luftbad Dölzschen - Vertagung nach 22 Uhr
+- TOP 36: Eilantrag: Einrichtung einer separaten Fahrspur für den Straßenbahnverkehr auf der Tolkewitzer Straße als befristeten Verkehrsversuch gestalten sowie begleitende Maßnahmen - Vertagung nach 22 Uhr
+- TOP 37: Überbrückungsförderung des Projektes für queere Geflüchtete des CSD Dresden e.V. im 1. Quartal 2023 - punktweise Zustimmung
+- TOP 40: Beteiligungsbericht 2021 der Landeshauptstadt Dresden - zur Kenntnis genommen
