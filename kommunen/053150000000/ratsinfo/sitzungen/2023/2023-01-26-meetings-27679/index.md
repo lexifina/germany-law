@@ -1,0 +1,75 @@
+# 17. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-26T16:00:00+01:00
+- Ende: 2023-01-26T21:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27679
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27679
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktuelle Stunde BAN, gem. Antrag Die Linke und CDU - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Einwohnerfragestunde - Radspur Ringe
+- TOP 1.3.1: Beantwortung - Einwohnerfragestunde - Radspur Ringe
+- TOP 1.4: Vortrag - Toilettenkonzept
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Beschluss zur Umsetzung eines Verkehrskonzepts für die Venloer Straße im Abschnitt zwischen Kamekestraße und Hans-Böckler-Platz im Zusammenhang mit der Nachrüstung von zwei Zugangstreppen an der Stadtbahnhaltestelle Hans-Böckler-Platz im Rahmen der B - zurückgestellt
+- TOP 3.2: Baubeschluss für die Durchführung der Brandschutzsanierung der unterirdischen Stadtbahnhaltestelle Hans-Böckler-Platz / Bf. West - ungeändert beschlossen
+- TOP 3.3: 285. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr. 674351/02; Arbeitstitel: "Campus Kartause (Kartäuserwall 24b)" in Köln-Altstadt/Süd - ungeändert beschlossen
+- TOP 3.5: Sportanlage Dr.-Simons-Straße - Kunststoffrasen Belagserneuerung - ungeändert beschlossen
+- TOP 3.6: Ordnungsbehördliche Verordnung für das Jahr 2023 über das Offenhalten von Verkaufsstellen an Sonntagen - geändert beschlossen
+- TOP 3.7: Förderprojekt 'Dasselbe in Grün' - aus grauer wird grüne Infrastruktur - geändert beschlossen
+- TOP 3.8: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2023 - ungeändert beschlossen
+- TOP 3.9: Bedarfsfeststellungsbeschluss Waidmarkt - Vergabe externer Fachbüros zur Unterstützung der Teilprojekte und Fachdienststellen im Projekt Waidmarkt - ungeändert beschlossen
+- TOP 3.10: Aufstellung und Einrichtung des für das Gymnasium Rochusstraße 145 bereits bestellten Modulbaus am Standort Eitorfer Straße zur Nutzung durch das Berufskolleg 10 und entsprechende Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Fahrradrampe Severinsbrücke (Az.: 02-1600-122-22) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigung Mathiasstraße (Az.: 02-1600-131-22) - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO NRW bezüglich der Öffnung eines Weges über die Messedächer für die Öffentlichkeit (Az 205/22 B) - zurückgestellt
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Bushaltestelle Hansaring auf die Krefelder Straße (Az.: 02-1600-167-22) - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Trennung Stadtbahnlinien 7 und 13 (Az.: 02-1600-47-22) - ungeändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Mehr umsteigefreie Busverbindungen zum Hauptbahnhof, Antrag FDP - zurückgestellt
+- TOP 5.1.2: Neues Konzept für den öffentlichen Raum und eine resiliente Stadt in der Altstadt Nord, gem. Antrag Grüne, Die Linke, KlimaFreunde und Die Partei - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Dringlichkeitsantrag - Anpassung des Verkehrsversuchs Deutzer Freiheit, gem. Antrag B90/Grüne, SPD, Die Linke, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP 5.2.1.1: Gemeinsamer Änderungsantrag zu "Dringlichkeitsantrag - Anpassung des Verkehrsversuchs Deutzer Freiheit", gem. Änderungsantrag CDU und FDP - endgültig abgelehnt
+- TOP 5.2.2: Sperrpfosten bei neuen autofreien Zonen / Verkehrsexperimenten, Dringlichkeitsantrag Grüne - geändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Ruhestörung in der Rubensstraße, Anfrage SPD - Sache ist erledigt
+- TOP 6.1.2: Sachstand Verkehrsberuhigende Maßnahmen in der Südstadt: Eburonenstraße / Maternusstraße, Anfrage Grüne - zurückgestellt
+- TOP 6.1.3: Bildungslandschaft Altstadt Nord - Renovierungsarbeiten, Anfrag CDU - Sache ist erledigt
+- TOP 6.1.3.1: Beantwortung der Anfrage - Bildungslandschaft Altstadt Nord, Renovierung der Turnhalle Adolf-Fischer-Straße - zur Anfrage AN/1821/2022 der CDU-Fraktion - Kenntnis genommen
+- TOP 6.1.4: Historische Wasserpumpe auf dem Alter Markt; Anfrage CDU - Sache ist erledigt
+- TOP 6.1.4.1: Beantwortung - Historische Wasserpumpe auf dem Alter Markt - zur Anfrage der CDU-Fraktion AN/1822/2022 - Kenntnis genommen
+- TOP 6.1.5: Regeln für Gehwegbreiten, gem. Anfrage Die Linke und KlimaFreund - zurückgestellt
+- TOP 6.1.6: Ersatzfreiheitsstrafen aufgrund des Fahrens ohne Fahrscheins, Anfrage Grüne - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Beschwerdelage Schaafenstraße, Anfrage Die Linke - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Neubau der Feuer- und Rettungswache 1 (Innenstadt) Hier: Ergebnis des Wettbewerbsverfahrens
+- TOP 9.2: Köln. Gestaltet. Miteinander - Erfolgreicher Auftakt des ersten Konsultationskreises für die Außengastronomie - mit der Stadtverwaltung, der Gastronomie, den Behindertenverbänden und der Politik - zum Sachstand und zur Methodik
+- TOP 9.3: Strategie Klimaneutrales Köln
+- TOP 9.4: Mitteilung "Energetische Ertüchtigung denkmalgeschützter Bauten"
+- TOP 9.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW "Waidmarkt 2.0", AZ.: 191/22
+- TOP 9.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Hunde Freilaufwiese, Steinpark, Ecke Quentelstraße und Buschgasse", AZ.: 210/22
+- TOP 9.7: Sachstandsbericht
+- TOP 9.8: Straßenkarneval 2023
+- TOP 9.9: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien
+- TOP 9.10: Neufassung Mietvertrag
+- TOP 9.11: Welcome-Center für geflüchtete Menschen aus der Ukraine am Hauptbahnhof Köln
+- TOP 9.12: Radverkehrskonzept Innenstadt - Kölner Ringe
+- TOP 9.13: Radverkehrskonzept Innenstadt - Kölner Ringe
+- TOP 9.14: Mitteilung zu DE 4030/2022 - schulrechtliche Änderung mehrerer Gymnasien ab den Schuljahren 2023/24 und 2024/25
