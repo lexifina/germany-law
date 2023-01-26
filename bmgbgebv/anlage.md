@@ -10,8 +10,8 @@ Inhaltsübersicht
 | Abschnitt 6a | Tierarzneimittelgesetz (TAMG) und Verordnung (EU) 2019/6 |
 | Abschnitt 7 | Hämophilieregister-Verordnung |
 | Abschnitt 8 | Verordnung (EU) 2017/745 |
-| Abschnitt 9 | Medizinprodukterecht-Durchführungsgesetz |
-| Abschnitt 10 | Medizinproduktegesetz und Medizinprodukte-Sicherheitsplanverordnung für In-vitro-Diagnostika |
+| Abschnitt 9 | Verordnung (EU) 2017/746 |
+| Abschnitt 10 | Medizinprodukterecht-Durchführungsgesetz |
 | Abschnitt 11 | Infektionsschutzgesetz |
 | Abschnitt 12 | Gendiagnostikgesetz |
 | Abschnitt 13 | Stammzellgesetz |
@@ -86,7 +86,7 @@ Verordnung (EG) Nr. 111/2005 und Delegierte Verordnung (EU) 2015/1011
 | 1 | Erteilung einer Erlaubnis nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EG) Nr. 273/2004 oder nach Artikel 6 Absatz 1 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 111/2005je Grundstoff und je Betriebsstätte | 110 |
 | 2 | Neuerteilung einer Erlaubnis nach Artikel 3 Absatz 9 der Delegierten Verordnung (EU) 2015/1011 je Grundstoff und je Betriebsstätte | 110 |
 | 3 | Registrierung nach Artikel 3 Absatz 6 Satz 1 oder Satz 2 der Verordnung (EG) Nr. 273/2004 oder nach Artikel 7 Absatz 1 Satz 1 der Verordnung (EG) Nr. 111/2005je Grundstoff und je Betriebsstätte | 110 |
-| 4 | a)Erteilung oder Neuerteilung einer Erlaubnis für wissenschaftliche oder analytische Zwecke ohne wirtschaftliche Zwecksetzung oderb)Erteilung einer Registrierung für wissenschaftliche oder analytische Zwecke ohne wirtschaftliche Zwecksetzung | 55 |
+| 4 | a)Erteilung oder Neuerteilung einer Erlaubnis für wissenschaftliche oder analytische Zwecke ohne wirtschaftliche Zwecksetzung je Grundstoff und je Betriebsstätte oderb)Erteilung einer Registrierung für wissenschaftliche oder analytische Zwecke ohne wirtschaftliche Zwecksetzung je Grundstoff und je Betriebsstätte | 55 |
 | 5 | Genehmigung |  |
 | 5.1 | Einfuhrgenehmigung nach Artikel 20 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 111/2005 je Grundstoff | 100 |
 | 5.2 | a)Ausfuhrgenehmigung nach Artikel 12 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 111/2005 oderb)Ausfuhrgenehmigung im vereinfachten Verfahren nach Artikel 12 Absatz 1 Unterabsatz 1 in Verbindung mit Artikel 19 der Verordnung (EG) Nr. 111/2005 und Artikel 12 der Delegierten Verordnung (EU) 2015/1011jeweils je Grundstoff | 100 |
@@ -135,7 +135,9 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 | 1.4 | Zulassung eines parallelimportierten Arzneimittels, das nicht nach § 105 Absatz 1 AMG als zugelassen gilt |  |
 | 1.4.1 | Mit einem Importland | 2 300 |
 | 1.4.2 | Jedes weitere Importland im Zulassungsantrag, zusätzlich zur Nummer 1.4.1 | 250 |
-| 1.5 | Zulassung eines Arzneimittels, auch Dublette, das der Zulassungspflicht nur unterliegt, weil es mit ionisierenden Strahlen behandelt ist, oder Zulassung eines Arzneimittels, auch Dublette, das bereits zugelassen ist oder als zugelassen gilt, soweit eine Zulassung im Hinblick auf die Behandlung mit ionisierenden Strahlen erfolgt | 4 600 |
+| 1.5 | Zulassung eines Arzneimittels, auch Dublette, das der Zulassungspflicht nur unterliegt, weil es mit ionisierenden Strahlen behandelt ist, oder Zulassung eines Arzneimittels, auch Dublette, das bereits zugelassen ist oder als zugelassen gilt, soweit eine Zulassung im Hinblick auf die Behandlung mit ionisierenden Strahlen erfolgt |  |
+| 1.5.1 | Grundgebühr | 4 600 |
+| 1.5.2 | Werden zeitgleich mehrere Anträge desselben Antragstellers für nach dem Wirkstoff identische Arzneimittel des gleichen Herstellers eingereicht, die sich in der Stärke unterscheiden, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung | 2 300 |
 | 1.6 | Erhöhung der jeweiligen Gebühr nach den Nummern 1.1.1 bis 1.2.3, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird | Um jeweils 5 000 |
 | 2 | Zulassung eines Arzneimittels im Verfahren der gegenseitigen Anerkennung (MRP) gemäß § 25b Absatz 2 AMG |  |
 | 2.1 | Mit Deutschland als Referenzmitgliedstaat (RMS), zusätzlich zu den Gebühren gemäß den Nummern 1.1 bis 1.3 |  |
@@ -210,6 +212,7 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 | 5.3 | Verlängerung eines parallelimportierten Arzneimittels |  |
 | 5.3.1 | Grundgebühr | 2 000 |
 | 5.3.2 | Mit Wechsel der Bezugszulassung im Rahmen des Verlängerungsverfahrens | 2 500 |
+| 5.3.3 | Verlängerung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt | 50 Prozent der für die jeweilige Verlängerung nach den Nummern 5.1.1 bis 5.2.2 vorgesehenen Gebühr |
 | 6 | Verlängerung einer Zulassung im MRP oder im dezentralisierten Verfahren (DCP) nach § 31 Absatz 3 AMG |  |
 | 6.1 | Mit Deutschland als RMS |  |
 | 6.1.1 | Arzneimittel mit neuem oder bekanntem Stoff, ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt | 9 600 |
@@ -217,6 +220,7 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 | 6.2 | Mit Deutschland als CMS |  |
 | 6.2.1 | Arzneimittel mit neuem oder bekanntem Stoff, ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt | 4 000 |
 | 6.2.2 | Serie oder gleichartige Serie, zusätzlich zur Gebühr nach Nummer 6.2.1 für die erste Verlängerung, je weitere Verlängerung | 2 000 |
+| 6.2.3 | Verlängerung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt | 50 Prozent der für die jeweilige Verlängerung nach den Nummern 6.1.1 bis 6.2.2 vorgesehenen Gebühr |
 | 7 | Prüfung von Anzeigen nach § 29 AMG und Entscheidung über die Zustimmung zu Anzeigen nach § 29 AMG |  |
 | 7.1 | Änderungen nach § 29 Absatz 2a Satz 1 Nummer 1 bis 4 AMG mit Ausnahme der in den Nummern 7.2, 7.3, 7.4 und 7.12 genannten Änderungen | 2 000 |
 | 7.2 | Änderungen nach § 29 Absatz 1 oder Absatz 2b sowie Absatz 2a Nummer 5 AMG mit Ausnahme der in den Nummern 7.6 und 7.7 genannten Änderungen, sowie die Anzeige jedes weiteren Importlandes bei Parallelimport, sofern die Zulassungen sowohl für das Importarzneimittel im Herkunftsland als auch für die Bezugszulassung im Rahmen eines Verfahrens gemäß Nummer 2 (Verfahren der gegenseitigen Anerkennung) oder Nummer 3 (dezentralisiertes Verfahren) erteilt worden sind | 300 |
@@ -270,6 +274,7 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 | 8.4 | Verlängerung einer Registrierung nach § 39 Absatz 2c AMG |  |
 | 8.4.1 | Verlängerung einer Registrierung, Grundgebühr | 2 700 |
 | 8.4.2 | Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung, je Verlängerung oder Parallelimport | 1 400 |
+| 8.4.3 | Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt | 50 Prozent der für die jeweilige Verlängerung nach den Nummern 8.4.1 und 8.4.2 vorgesehenen Gebühr |
 | 8.5 | Verlängerung einer Registrierung im MRP oder im DCP |  |
 | 8.5.1 | Mit Deutschland als RMS |  |
 | 8.5.1.1 | Verlängerung einer Registrierung | 3 300 |
@@ -277,6 +282,7 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 | 8.5.2 | Mit Deutschland als CMS |  |
 | 8.5.2.1 | Verlängerung einer Registrierung, Grundgebühr | 1 500 |
 | 8.5.2.2 | Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung | 800 |
+| 8.5.3 | Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt | 50 Prozent der für die jeweilige Verlängerung nach den Nummern 8.5.1 bis 8.5.2.2 vorgesehenen Gebühr |
 | 8.6 | Prüfung von Änderungen einer Registrierung nach § 39 Absatz 2b AMG und Entscheidung über die Zustimmung zu Änderungen einer Registrierung nach § 39 Absatz 2b AMG |  |
 | 8.6.1 | Änderungen nach § 39 Absatz 2b AMG in Verbindung mit § 29 Absatz 2a Nummer 1 bis 4 AMG mit Ausnahme der in den Nummern 8.6.2, 8.6.3 und 8.6.4 genannten Änderungen | 2 000 |
 | 8.6.2 | Änderungen nach § 39 Absatz 2b Satz 1 AMG sowie nach § 39 Absatz 2b AMG in Verbindung mit § 29 Absatz 2a Satz 1 Nummer 5 AMG mit Ausnahme der in den Nummern 8.6.5 und 8.6.6 genannten Änderungen, in Verbindung mit § 29 Absatz 2b AMG sowie die Anzeige jedes weiteren Importlandes bei Parallelimport | 300 |
@@ -333,6 +339,7 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 | 9.6 | Verlängerung einer Registrierung nach § 39c Absatz 3 in Verbindung mit § 31 Absatz 3 AMG |  |
 | 9.6.1 | Verlängerung einer Registrierung | 6 200 |
 | 9.6.2 | Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung, je Verlängerung oder Parallelimport | 3 100 |
+| 9.6.3 | Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt | 50 Prozent der für die jeweilige Verlängerung nach den Nummern 9.6.1 und 9.6.2 vorgesehenen Gebühr |
 | 9.7 | Verlängerung einer Registrierung im MRP oder im DCP |  |
 | 9.7.1 | Mit Deutschland als RMS |  |
 | 9.7.1.1 | Verlängerung einer Registrierung | 7 600 |
@@ -340,6 +347,7 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 | 9.7.2 | Mit Deutschland als CMS |  |
 | 9.7.2.1 | Verlängerung einer Registrierung | 3 400 |
 | 9.7.2.2 | Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung, je Verlängerung | 1 700 |
+| 9.7.2.3 | Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt | 50 Prozent der für die jeweilige Verlängerung nach den Nummern 9.7.1.1 bis 9.7.2.2 vorgesehenen Gebühr |
 | 9.8 | Änderungen einer Registrierung nach § 39d Absatz 7 AMG und Entscheidung über die Zustimmung zu Änderungen einer Registrierung nach § 39d Absatz 7 AMG |  |
 | 9.8.1 | Änderungen nach § 39d Absatz 7 AMG in Verbindung mit § 29 Absatz 2a Satz 1 Nummer 1 bis 4 AMG mit Ausnahme der in den Nummern 9.8.2, 9.8.3 und 9.8.4 genannten Änderungen | 2 000 |
 | 9.8.2 | Änderungen nach § 39d Absatz 7 in Verbindung mit § 29 Absatz 2a Satz 1 Nummer 5 AMG mit Ausnahme der in Nummer 9.8.5 genannten Änderungen sowie die Anzeige jedes weiteren Importlandes bei Parallelimport | 300 |
@@ -428,7 +436,7 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 | 18 | Maßnahmen nach § 25c AMG | 30 bis 10 000 |
 | 19 | Maßnahmen nach § 52b Absatz 3d AMG | 900 |
 | 20 | Maßnahmen nach § 30 Absatz 1 Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2, Absatz 2a Satz 1, § 31 Absatz 4 Satz 2, § 42a Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 3 Satz 3 und Absatz 5 AMG |  |
-| 20.1 | Anordnung des befristeten Ruhens einer Zulassung nach § 30 Absatz 1 Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2 AMG sowie Maßnahmen nach § 30 Absatz 2a Satz 1 AMG, mit Ausnahme der in Nummer 19 genannten Maßnahme und Maßnahmen nach § 31 Absatz 4 Satz 2 AMG | 30 bis 15 000 |
+| 20.1 | Anordnung des befristeten Ruhens einer Zulassung nach § 30 Absatz 1 Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2 AMG sowie Maßnahmen nach § 30 Absatz 2a Satz 1 AMG, mit Ausnahme der in Nummer 17 genannten Maßnahme und Maßnahmen nach § 31 Absatz 4 Satz 2 AMG | 30 bis 15 000 |
 | 20.2 | Maßnahmen nach § 42a Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 3 Satz 3 und Absatz 5 AMG | 30 bis 3 700 |
 | 21 | Maßnahmen im Rahmen der Überwachung der Umsetzung von Auflagen und von Ergebnissen aus Pharmakovigilanzverfahren nach § 28 AMG, § 30 Absatz 1 Satz 1 i. V. m. § 25 Absatz 2 Satz 1 Nummer 5 AMG, § 30 Absatz 1a, Absatz 2a und Absatz 3 i. V. m. § 25 Absatz 2 Satz 1 Nummer 5 AMG, § 30 Absatz 1a, Absatz 2a und Absatz 3 i. V. m. § 25 Absatz 2 Satz 1 Nummer 5 AMG und Artikel 107g der Richtlinie 2001/83/EG sowie der Überwachung der eigenverantwortlichen Umsetzung von Ergebnissen von Signaldetektionsverfahren des Ausschusses für Risikobewertung im Bereich der Pharmakovigilanz bei der Europäischen Arzneimittelagentur | 100 bis 4 000 Eine Gebühr wird nicht erhoben, sofern eine fristgerechte Umsetzung erfolgt ist. |
 | 22 | Bewertung von Schulungsmaterial im Rahmen der Überwachung der Erfüllung von Auflagen nach § 28 AMG |  |
@@ -455,7 +463,7 @@ Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlänge
 | 26.2 | Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 6, 8.1 bis 8.5.2.2, 9.1 bis 9.7.2.2 und 25.6, wenn zusätzlich zu den Voraussetzungen nach Nummer 26.1 die Anwendungsfälle selten sind oder die Zielgruppe, für die das Arzneimittel bestimmt ist, klein ist. | Um jeweils 50 Prozent |
 | 26.3 | Ermäßigung der jeweiligen Gebühr nach den Nummern 11 und 15, soweit eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen. | Um 25 jeweils Prozent |
 | 27 | Auslagen |  |
-| 27.1 | Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der Nummern | Jeweils in tatsächlich entstandener Höhe |
+| 27.1 | Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der Nummern | 25 |
 |  | a) 1.1 bis 1.5 |  |
 |  | b) 2.1.1 bis 2.1.2.3, 2.2.1.1 bis 2.2.3.2 |  |
 |  | c) 3.1 und 3.2 |  |
@@ -751,6 +759,7 @@ Tabelle 1
 | 12.1 | Kosten der zuständigen Ethik-Kommission nach Anlage 3 (zu § 12) der Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln vom 12. Juli 2017 (BGBl. I S. 2333) in den Fällen der Nummern 1 bis 10 | In tatsächlich entstandener Höhe |
 | 12.2 | Kosten für Dienstreisen in den Fällen der Nummer 8 | In tatsächlich entstandener Höhe |
 | 12.3 | Kosten für Zustellungen in Widerspruchsverfahren | In tatsächlich entstandener Höhe |
+| 13 | Bewertung eines im EU-Portal nach Artikel 80 der Verordnung (EU) Nr. 536/2014 als Transitional trial gekennzeichneten Antrags auf Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014 | 500 bis 5 700 |
 Tabelle 2
 | Gebührenerhebende Behörde: Paul-Ehrlich-Institut (PEI) |
 | Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
@@ -796,6 +805,7 @@ Tabelle 2
 | 4.1 | Kosten für Dienstreisen in den Fällen der Nummer 1.8 | In tatsächlich entstandener Höhe |
 | 4.2 | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
 | 4.3 | Kosten der zuständigen Ethik-Kommission | In tatsächlich entstandener Höhe |
+| 5 | Bewertung eines im EU-Portal nach Artikel 80 der Verordnung (EU) Nr. 536/2014 als Transitional trial gekennzeichneten Antrags auf Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014 | 500 bis 5 700 |
 Abschnitt 6
 Richtlinie 2001/83/EG
 | Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte |
@@ -1127,78 +1137,208 @@ Hämophilieregister-Verordnung (DHRV)
 Abschnitt 8
 Verordnung (EU) 2017/745
 Tabelle 1
+Vorbemerkung:
+In der nachstehenden Tabelle bedeuten:
+Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegen.
+Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegt.
 | Gebührenerhebende Behörde: Paul-Ehrlich-Institut |
 | Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
 | 1 | Konsultationsverfahren |  |
 | 1.1 | Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 9 in Verbindung mit Anhang IX Abschnitt 5.2 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 |  |
-| 1.1.1 | Bei einem neuen Arzneistoff oder einem bekannten Arzneistoff mit neuer Zweckbestimmung | 5 000 bis 50 000 |
-| 1.1.2 | Bei einem bekannten Arzneistoff, der im herkömmlichen Sinn eingesetzt wird | 5 000 bis 20 000 |
-| 1.2 | Gutachten im Rahmen der Konsultation nach a)Artikel 52 Absatz 10 in Verbindung mit Anhang IX Abschnitt 5.3.1 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 oderb)Artikel 52 Absatz 11 in Verbindung mit Anhang IX Abschnitt 5.4 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 | 5 000 bis 20 000 |
+| 1.1.1 | Bei einem neuen Stoff oder einem bekannten Stoff mit neuer Zweckbestimmung | 5 000 bis 25 000 |
+| 1.1.2 | Bei einem bekannten Stoff, der im herkömmlichen Sinn eingesetzt wird | 2 500 bis 10 000 |
+| 1.2 | Gutachten im Rahmen der Konsultation nach a)Artikel 52 Absatz 10 in Verbindung mit Anhang IX Abschnitt 5.3.1 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 oderb)Artikel 52 Absatz 11 in Verbindung mit Anhang IX Abschnitt 5.4 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 | 2 000 bis 10 000 |
 | 1.3 | Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere Gutachten eingeholt, gilt für das erste Gutachten die Nummer 1.1. Die Gebühr für jedes weitere Gutachten beträgt |  |
-| 1.3.1 | Für das erste Produkte in den Fällen der Nummer 1.1.1 | 1 250 bis 25 000 |
+| 1.3.1 | Für das erste Produkte in den Fällen der Nummer 1.1.1 | 1 250 bis 12 000 |
 | 1.3.2 | In den übrigen Fällen | 1 250 bis 10 000 |
-| 1.4 | Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt, gelten für die Gutachten für das erste Produkt die nach den Nummern 1.1 bis 1.3 einschlägigen Gebühren. Für jedes weitere Gutachten beträgt die Gebühr | 1 250 bis 20 000 |
+| 1.4 | Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt, gelten für die Gutachten für das erste Produkt die nach den Nummern 1.1 bis 1.3 einschlägigen Gebühren. Für jedes weitere Gutachten beträgt die Gebühr | 1 250 bis 10 000 |
+| 1.5 | Ermäßigung der Gebühren für die Durchführung eines Konsultationsverfahren gemäß Nummer 1.1 oder Nummer 1.2 im Fall von Produkten, für die bereits in der Vergangenheit unter der Richtlinie 93/42/EWG oder 90/385/EWG ein Konsultationsverfahren durchgeführt wurde, sofern diese Produkte keine wesentliche Änderung erfahren haben (Bestandsprodukte) | um 70 Prozent |
 | 2 | Gebührenermäßigung oder -befreiung |  |
 |  | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | a)Bis auf 50 oder bei einem Gebührenrahmensatz bisauf die Hälfte des entsprechenden Mindestsatzes |
 |  | b)Wenn unter den in Buchstabe a genannten Voraussetzungen der Aufwand zu vernachlässigen ist | b)Gebührenbefreiung |
 Tabelle 2
+Vorbemerkung:
+In der nachstehenden Tabelle bedeuten:
+Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegen.
+Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegt.
 | Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte |
 | Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
-| 1 | Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 9 in Verbindung mit Anhang IX Abschnitt 5.2 und gegebenenfalls Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 |  |
-| 1.1 | Bei einem neuen Arzneistoff oder einem bekannten Arzneistoff mit neuer Zweckbestimmung | 5 000 bis 50 000 |
-| 1.2 | Bei einem bekannten Arzneistoff, der im herkömmlichen Sinn eingesetzt wird | 5 000 bis 20 000 |
-| 1.3 | Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 11 in Verbindung mit Anhang IX Abschnitt 5.4 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 | 5 000 bis 20 000 |
-| 1.4 | Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere Gutachten eingeholt, gilt für das erste Gutachten die Nummer 1.1 bis 1.3 |  |
-| 1.4.1 | Gebühr für jedes weitere Gutachten bei einem neuen Arzneistoff oder einem bekannten Arzneistoff mit neuer Zweckbestimmung | 1 250 bis 25 000 |
-| 1.4.2 | Gebühr für jedes weitere Gutachten bei einem bekannten Arzneistoff, der im herkömmlichen Sinn eingesetzt wird | 1 250 bis 10 000 |
-| 1.5 | Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt | 1 250 bis 20 000 |
-| 1.5.1 | Für die Gutachten für das erste Produkt | Gebühr nach den Nummern 1.1 oder 1.2 |
-| 1.5.2 | Gebühr für jedes weitere Gutachten | 1 250 bis 20 000 |
+| 1 | Konsultationsverfahren |  |
+| 1.1 | Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 9 in Verbindung mit Anhang IX Abschnitt 5.2 und gegebenenfalls Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 |  |
+| 1.1.1 | Bei einem neuen Stoff oder einem bekannten Stoff mit neuer Zweckbestimmung | 5 000 bis 25 000 |
+| 1.1.2 | Bei einem bekannten Stoff, der im herkömmlichen Sinn eingesetzt wird | 2 500 bis 10 000 |
+| 1.2 | Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 11 in Verbindung mit Anhang IX Abschnitt 5.4 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 | 2 500 bis 10 000 |
+| 1.3 | Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere Gutachten eingeholt, gelten für das erste Gutachten die Nummern 1.1 und 1.2. Die Gebühr für jedes weitere Gutachten beträgt |  |
+| 1.3.1 | Für das erste Produkt in den Fällen der Nummer 1.1.1 | 1 250 bis 12 000 |
+| 1.3.2 | In den übrigen Fällen | 1 250 bis 5 000 |
+| 1.4 | Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt |  |
+| 1.4.1 | Für die Gutachten für das erste Produkt | Gebühr nach Nummer 1.1 oder Nummer 1.2 |
+| 1.4.2 | Gebühr für jedes weitere Gutachten | 1 250 bis 10 000 |
+| 1.5 | Ermäßigung der Gebühren für die Durchführung eines Konsultationsverfahren gemäß Nummer 1.1 oder Nummer 1.2 im Fall von Bestandsprodukten. | um 70 Prozent |
 | 2 | Individuell zurechenbare öffentliche Leistungen im Rahmen klinischer Prüfungen |  |
-| 2.1 | Genehmigung einer klinischen Prüfung nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/745, auch in Verbindung mit § 31 Absatz 2 Nummer 1 des Medizinprodukterecht-Durchführungsgesetzes (MPDG) | 3 000 bis 9 900 |
+| 2.1 | Genehmigung einer klinischen Prüfung nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/745, auch in Verbindung mit § 31 Absatz 2 Nummer 1 des Medizinprodukterecht-Durchführungsgesetzes (MPDG) | 2 000 bis 9 900 |
 | 2.2 | Prüfung einer wesentlichen Änderung an einer klinischen Prüfung nach Artikel 75 der Verordnung (EU) 2017/745 | 600 bis 2 000 |
-| 2.3 | Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer klinischen Prüfung gemäß Artikel 77 der Verordnung (EU) 2017/745 in Verbindung mit § 64 Absatz 2 MPDG und § 69 Absatz 1 MPDG | 600 bis 2 000 |
+| 2.3 | Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer klinischen Prüfung gemäß Artikel 77 Absatz 1 Satz 2 der Verordnung (EU) 2017/745 | 100 bis 400 |
 | 3 | Individuell zurechenbare Leistungen im Rahmen eines koordinierten Bewertungsverfahrens gemäß Artikel 78 der Verordnung (EU) 2017/745 für eine klinische Prüfung |  |
 | 3.1 | Im Falle Deutschlands als koordinierender Mitgliedstaat |  |
-| 3.1.1 | Genehmigung einer klinischen Prüfung nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/745 | 4 000 bis 12 000 |
-| 3.1.2 | Prüfung einer wesentlichen Änderung einer klinischen Prüfung nach Artikel 75 der Verordnung (EU) 2017/745 | 1 100 bis 2 300 |
+| 3.1.1 | Genehmigung einer klinischen Prüfung nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/745 | 2 000 bis 9 900 |
+| 3.1.2 | Prüfung einer wesentlichen Änderung einer klinischen Prüfung nach Artikel 75 der Verordnung (EU) 2017/745 | 600 bis 2 000 |
 | 3.1.3 | Bewertung einer Meldung eines schwerwiegenden unerwünschten Ereignisses durch den Sponsor nach Artikel 80 Absatz 2 und 3 der Verordnung (EU) 2017/745 | 100 bis 400 |
-| 3.1.4 | Prüfung von Informationspflichten des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer klinischen Prüfung gemäß Artikel 77 der Verordnung (EU) 2017/745 | 1 100 bis 2 300 |
-| 4 | Individuell zurechenbare Leistungen im Rahmen der Vigilanz |  |
-| 4.1 | Bewertung von Produkten, die mutmaßlich ein unvertretbares Risiko darstellen gemäß Artikel 94 Buchstabe a der Verordnung (EU) 2017/745 | 200 bis 2 700 |
-| 4.2 | Bewertung von Maßnahmen anderer Mitgliedstaaten nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 einschließlich der Erhebung von Einwänden oder der Verhängung nationaler Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745 | 30 bis 10 000 |
+| 3.1.4 | Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer klinischen Prüfung gemäß Artikel 77 Absatz 1 Satz 2 der Verordnung (EU) 2017/745 | 100 bis 400 |
+| 3.1.5 | Höchstgrenze für die Summe der Gebühren nach Nummer 3.1.3 je klinischer Prüfung pro Jahr | 6 000 |
+| 4 | Sonstige Gebühren |  |
+| 4.1 | Wissenschaftliche Stellungnahmen und Gutachten | 200 bis 1 000 |
+| 4.2 | Nicht einfache schriftliche Auskünfte | 100 bis 500 |
+| 4.3 | Bescheinigungen | 30 |
+| 4.4 | Herstellung von Kopien und Abschriften |  |
+| 4.4.1 | Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt | 25 |
+| 4.4.2 | Jede angefertigte Kopie oder Abschrift je Seite | 0,50 |
+| 4.5 | Die Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig | 50 bis 1 000 |
+| 5 | Auslagen |  |
+|  | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
+| 6 | Gebührenermäßigung oder -befreiung |  |
+| 6.1 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.5, 2.1 bis 2.3, 3.1.1 bis 3.1.4, 4.1 und 4.2, 5.1 und 5.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | a)Bis auf 50 oder bei einem Gebührenrahmensatz bisauf die Hälfte des entsprechenden Mindestsatzes |
+|  | b)Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand zu vernachlässigen ist | b)Gebührenbefreiung |
+| 6.2 | Ermäßigung der nach Nummer 2 und 3 jeweils zu erhebenden Gebühr, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen | Um 25 Prozent |
+Abschnitt 9
+Verordnung (EU) 2017/746
+Tabelle 1
+| Gebührenerhebende Behörde: Paul-Ehrlich-Institut |
+| Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
+| 1 | Individuell zurechenbare öffentliche Leistungen im Rahmen eines Konsultationsverfahrens |  |
+| 1.1 | Gutachten im Rahmen der Konsultation nach a)Artikel 48 Absatz 3 Unterabsatz 3 der Verordnung (EU) 2017/746 in Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746,b)Artikel 48 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU) 2017/746,c)Artikel 48 Absatz 7 Unterabsatz 3 der Verordnung (EU) 2017/746 in Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746 oderd)Artikel 48 Absatz 8 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU) 2017/746,e)Anhang X Abschnitt 5.5 der Verordnung (EU) 2017/746 | a) bis e) jeweils 2 500 bis 20 000 |
+| 1.2 | Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere Gutachten eingeholt, gilt |  |
+| 1.2.1 | Für die Gutachten für das erste Produkt | Gebühr nach Nummer 1.1 |
+| 1.2.2 | Gebühr für jedes weitere Gutachten | 1 250 bis 10 000 |
+| 1.3 | Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt, gilt |  |
+| 1.3.1 | Für die Gutachten für das erste Produkt | Gebühr nach Nummer 1.1 |
+| 1.3.2 | Gebühr für jedes weitere Gutachten | 1 250 bis 10 000 |
+| 2 | Individuell zurechenbare öffentliche Leistungen im Rahmen von Leistungsstudien |  |
+| 2.1 | Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 Buchstabe b oder c, Artikel 66 der Verordnung (EU) 2017/746 in Verbindung mit § 31a Absatz 2 MPDG | 2 000 bis 6 000 |
+| 2.2 | Validierung einer Anzeige einer Leistungsstudie nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/746 | 50 bis 200 |
+| 2.3 | Prüfung einer wesentlichen Änderung einer Leistungsstudie nach Artikel 71 Absatz 2 der Verordnung (EU) 2017/746 | 100 bis 1 200 |
+| 2.4 | Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer Leistungsstudie gemäß Artikel 73 der Verordnung (EU) 2017/746 | 100 bis 400 |
+| 3 | Individuell zurechenbare Leistungen im Rahmen eines koordinierten Bewertungsverfahrens für eine Leistungsstudie gemäß Artikel 74 der Verordnung (EU) 2017/746 |  |
+| 3.1 | Im Fall Deutschlands als koordinierender Mitgliedstaat |  |
+| 3.1.1 | Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 der Verordnung (EU) 2017/746 | 2 000 bis 6 000 |
+| 3.1.2 | Prüfung einer wesentlichen Änderung einer Leistungsstudie nach Artikel 71 der Verordnung (EU) 2017/746 | 400 bis 1 200 |
+| 3.1.3 | Prüfung einer Mitteilung des Sponsors über die vorübergehende Aussetzung oder den Abbruch einer Leistungsstudie nach Artikel 73 Absatz 1 Satz 2 der Verordnung (EU) 2017/746 | 100 bis 400 |
+| 3.2 | Im Fall Deutschlands als betroffener Mitgliedstaat | Gebühr nach Nummer 2.1, 2.3 oder 2.4 |
+| 4 | Sonstige Gebühren |  |
+| 4.1 | Wissenschaftliche Stellungnahmen und Gutachten | 200 bis 1 000 |
+| 4.2 | Nicht einfache schriftliche Auskünfte | 100 bis 500 |
+| 4.3 | Bescheinigungen | 30 |
+| 4.4 | Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein amtliches Siegel nicht erforderlich ist | 25 |
+| 4.5 | Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig | 50 bis 1 000 |
+| 5 | Auslagen |  |
+| 5.1 | Kosten der Dienstfahrten in den Fällen der Nummern 2.1, 2.3, 3.1.1, 3.1.2, 3.2 | In tatsächlich entstandener Höhe |
+| 5.2 | Kosten der Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
+| 5.3 | Kosten für die Hinzuziehung eines Sachverständigen in den Fällen der Nummern 2.1, 2.3, 3.1.1, 3.1.2, 3.2 | In tatsächlich entstandener Höhe |
+| 6 | Gebührenermäßigung oder -befreiung |  |
+| 6.1 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 4, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | a)Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des entsprechenden Mindestsatzes |
+|  | b)Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand zu vernachlässigen ist | b)Gebührenbefreiung |
+| 6.2 | Ermäßigung der nach den Nummern 2 und 3 jeweils zu erhebenden Gebühr, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird und der Antragsteller diese Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt und nachgewiesen hat | Um 50 Prozent |
+Tabelle 2
+| Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte |
+| Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
+| 1 | Individuell zurechenbare öffentliche Leistung im Rahmen eines Konsultationsverfahrens |  |
+| 1.1 | Gutachten im Rahmen der Konsultation nach a)Artikel 48 Absatz 3 Unterabsatz 3 der Verordnung (EU) 2017/746 in Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746,b)Artikel 48 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU) 2017/746,c)Artikel 48 Absatz 7 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746 oderd)Artikel 48 Absatz 8 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU) 2017/746,e)Anhang X Abschnitt 5.5. der Verordnung (EU) 2017/746 | a) bis e) jeweils 2 500 bis 20 000 |
+| 1.2 | Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere Gutachten eingeholt, gilt |  |
+| 1.2.1 | Für die Gutachten für das erste Produkt | Gebühr nach Nummer 1.1 |
+| 1.2.2 | Gebühr für jedes weitere Gutachten | 1 250 bis 10 000 |
+| 1.3 | Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt, gilt |  |
+| 1.3.1 | Für die Gutachten für das erste Produkt | Gebühr nach Nummer 1.1 |
+| 1.3.2 | Gebühr für jedes weitere Gutachten | 1 250 bis 10 000 |
+| 2 | Individuell zurechenbare öffentliche Leistungen im Rahmen von Leistungsstudien |  |
+| 2.1 | Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 Buchstabe b oder c, Artikel 66 der Verordnung (EU) 2017/746 in Verbindung mit § 31a Absatz 2 MPDG | 2 000 bis 6 000 |
+| 2.2 | Prüfung einer wesentlichen Änderung an einer Leistungsstudie nach Artikel 71 der Verordnung (EU) 2017/746 | 400 bis 1 200 |
+| 2.3 | Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer Leistungsstudie gemäß Artikel 73 Absatz 1 Satz 2 der Verordnung (EU) 2017/746 | 100 bis 400 |
+| 3 | Individuell zurechenbare öffentliche Leistungen im Rahmen eines koordinierten Bewertungsverfahrens für eine Leistungsstudie gemäß Artikel 74 der Verordnung (EU) 2017/746 |  |
+| 3.1 | Im Fall Deutschlands als koordinierender Mitgliedstaat |  |
+| 3.1.1 | Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 der Verordnung (EU) 2017/746 | 2 000 bis 6 000 |
+| 3.1.2 | Prüfung einer wesentlichen Änderung einer Leistungsstudie nach Artikel 71 der Verordnung (EU) 2017/746 | 400 bis 1 200 |
+| 3.1.3 | Bewertung einer Meldung eines schwerwiegenden unerwünschten Ereignisses durch den Sponsor nach Artikel 76 Absatz 2 der Verordnung (EU) 2017/746 | 100 bis 400 |
+| 3.1.4 | Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer Leistungsstudie gemäß Artikel 73 Absatz 1 Satz 2 der Verordnung (EU) 2017/746 | 100 bis 400 |
+| 3.1.5 | Höchstgrenze für die Summe der Gebühren nach Nummer 3.1.3 je Leistungsstudie pro Jahr | 24 000 |
+| 3.2 | Im Fall Deutschlands als betroffener Mitgliedstaat | Gebühr nach Nummer 2 |
+| 4 | Sonstige Gebühren |  |
+| 4.1 | Wissenschaftliche Stellungnahmen und Gutachten | 200 bis 1 000 |
+| 4.2 | Nicht einfache schriftliche Auskünfte | 100 bis 500 |
+| 4.3 | Bescheinigungen | 30 |
+| 4.4 | Herstellung von Kopien und Abschriften |  |
+| 4.4.1 | Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt | 25 |
+| 4.4.2 | Jede angefertigte Kopie oder Abschrift je Seite | 0,50 |
+| 4.5 | Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig | 50 bis 1 000 |
+| 5 | Auslagen |  |
+|  | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
+| 6 | Gebührenermäßigung oder -befreiung |  |
+| 6.1 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 4.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | a)Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des entsprechenden Mindestsatzes |
+|  | b)Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand zu vernachlässigen ist | b)Gebührenbefreiung |
+| 6.2 | Ermäßigung der nach den Nummern 2 und 3 jeweils zu erhebenden Gebühr, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird und der Antragsteller diese Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt und nachgewiesen hat | Um 50 Prozent |
+Abschnitt 10
+Medizinprodukterecht-Durchführungsgesetz
+Tabelle 1
+| Gebührenerhebende Behörde: Paul-Ehrlich-Institut |
+| Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
+| 1 | Zulassung, Verlängerung und Änderung einer Sonderzulassung |  |
+| 1.1 | Entscheidung nach § 7 Absatz 1 Satz 1 MPDG über die Sonderzulassung eines Produktes | 250 bis 10 300 |
+| 1.2 | Entscheidung über die Änderung der Sonderzulassung eines nach § 7 Absatz 1 Satz 1 MPDG zugelassenen Produktes | 100 bis 1 100 |
+| 1.3 | Entscheidung über die Verlängerung der Sonderzulassung eines nach § 7 Absatz 1 Satz 1 MPDG zugelassenen Produktes | 100 bis 1 100 |
+| 1.4 | Entscheidung nach den Nummern 1.1 bis 1.3 für mehrere Produkte oder Produktgruppen |  |
+| 1.4.1 | wenn die Gleichartigkeit der Produkte nur zu einem geringeren Prüfungsmehraufwand geführt hat | Erhöhung um 15 Prozent für jedes weitere Produkt |
+| 1.4.2 | in anderen Fällen | Erhöhung um bis zu 50 Prozent für jedes weitere Produkt |
+| 2 | Individuell zurechenbare öffentliche Leistungen im Rahmen von Leistungsstudien |  |
+| 2.1 | Validierung eines Antrags zur Durchführung einer Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746 durchgeführt wird, nach § 39 Absatz 4 MPDG | 50 bis 250 |
+| 2.2 | Widerspruch gegen die Durchführung einer Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746 durchgeführt werden soll, nach § 39 Absatz 4 Satz 2 MPDG, im Falle, dass die Probennahme entgegen der Erklärung des Sponsors ein erhebliches klinisches Risiko für die Prüfungsteilnehmer darstellt | 250 bis 2 000 |
+| 2.3 | Bewertung einer Meldung nach Artikel 76 Absatz 2 oder Absatz 3 der Verordnung (EU) 2017/746, jeweils in Verbindung mit § 44 Absatz 1 MPDG | 25 bis 250 |
+| 2.4 | Höchstgrenze für die Summe der Gebühren nach Nummer 2.3 je Leistungsstudie pro Jahr | 24 000 |
+| 2.5 | a)Befristete Anordnung des Ruhens der Genehmigung einer klinischen Prüfung nach § 45 Absatz 1 Satz 2 oder Absatz 2 Satz 3 MPDG, soweit der Adressat der Genehmigung dies zu vertreten hat,b)Aufforderung zur Änderung von Aspekten der klinischen Prüfung oder Leistungsstudie nach § 45 Absatz 3 Satz 1 MPDG,c)Anordnung der sofortigen Unterbrechung der klinischen Prüfung oder der Leistungsstudie nach § 45 Absatz 3 Satz 2 MPDG | a) bis c) jeweils 30 bis 2 000 |
+| 2.6 | Validierung einer Anzeige einer Leistungsstudie mit therapiebegleitenden Diagnostika mit Restproben nach § 31b MPDG | 50 bis 250 |
+| 3 | Anordnung von Maßnahmen zum Schutz vor Risiken |  |
+| 3.1 | Nach § 74 Absatz 3 in Verbindung mit Absatz 1 Satz 2 und Absatz 2 MPDG | 30 bis 4 000 |
+| 3.2 | Nach § 74 Absatz 4 MPDG in Verbindung mit Artikel 90 Absatz 2 und 4 Unterabsatz 2 der Verordnung (EU) 2017/746 | 30 bis 4 000 |
+| 4 | Beratung des Herstellers, des Bevollmächtigten, von Importeuren, Sponsoren und der Benannten Stellen nach § 84 Satz 1 MPDG | 500 bis 10 000 |
 | 5 | Sonstige Gebühren |  |
 | 5.1 | Wissenschaftliche Stellungnahmen und Gutachten | 200 bis 1 000 |
 | 5.2 | Nicht einfache schriftliche Auskünfte | 100 bis 500 |
 | 5.3 | Bescheinigungen | 30 |
-| 5.4 | Herstellung von Kopien und Abschriften |  |
-| 5.4.1 | Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt | 25 |
-| 5.4.2 | Jede angefertigte Kopie oder Abschrift je Seite | 0,50 |
-| 5.5 | Die Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig | 50 bis 1 000 |
+| 5.4 | Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein amtliches Siegel nicht erforderlich ist | 50 bis 1 000 |
+| 5.5 | Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig | 50 bis 1 000 |
 | 6 | Auslagen |  |
-|  | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
+| 6.1 | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
+| 6.2 | Kosten für Dienstfahrten in den Fällen der Nummern 2.1, 2.5 und 2.6 | In tatsächlich entstandener Höhe |
+| 6.3 | Kosten für die Hinzuziehung eines Sachverständigen in den Fällen der Nummern 2.1, 2.5, 2.6, 3.1 und 3.2 | In tatsächlich entstandener Höhe |
 | 7 | Gebührenermäßigung oder -befreiung |  |
-| 7.1 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.5, 2.1 bis 2.3, 3.1.1 bis 3.1.4, 4.1 und 4.2, 5.1 und 5.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | a)Bis auf 50 oder bei einem Gebührenrahmensatz bisauf die Hälfte des entsprechenden Mindestsatzes |
+| 7.1 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 5.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | a)Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des entsprechenden Mindestsatzes |
 |  | b)Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand zu vernachlässigen ist | b)Gebührenbefreiung |
-| 7.2 | Ermäßigung der nach Nummer 2 jeweils zu erhebenden Gebühr, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen | Um 25 Prozent |
-Abschnitt 9
-Medizinprodukterecht-Durchführungsgesetz (MPDG)
+| 7.2 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4 auf Antrag, wenn aa)der Antragsteller einen diesen Gebühren angemessenen wirtschaftlichen Nutzen nicht erwarten kann oder die Anwendungsfälle selten sind oder die Zielgruppe, für die das Produkt bestimmt ist, klein ist,bb)an der Sonderzulassung ein besonderes Interesse der öffentlichen Gesundheit besteht odercc)Gründe der Billigkeit mit Blick auf die Patientensicherheit und Patientengesundheit ein Herabsetzen der Gebühr erfordern | a)Bis auf ein Viertel der jeweiligen Gebühr |
+|  | b)Wenn unter den im Buchstaben a genannten Voraussetzungen der zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren besonders gering ist | b)Gebührenbefreiung |
+| 7.3 | Ermäßigung der jeweiligen Gebühr nach Nummer 2, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird und der Antragsteller diese Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt und nachgewiesen hat | Um 50 Prozent |
+Tabelle 2
 | Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte |
 | Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
-| 1 | Entscheidung nach § 6 Absatz 1 bis 3 MPDG zur Klassifizierung von Produkten, zur Feststellung des rechtlichen Status eines Produktes als Medizinprodukt, zur Einstufung von Produkten der Klasse I und zur Genehmigungspflicht einer klinischen Prüfung | 400 bis 10 000 |
+| 1 | Entscheidung nach § 6 Absatz 1 bis 3 MPDGa)zur Klassifizierung von Produkten,b)zur Feststellung des rechtlichen Status eines Produktes als Medizinprodukt oder Zubehör zu einem Medizinprodukt oder des rechtlichen Status eines Produktes als ein in Anhang XVI der Verordnung (EU) 2017/745 aufgeführtes Produkt,c)zur Einstufung von Produkten der Klasse I oderd)zur Genehmigungspflicht einer klinischen Prüfung oder einer Leistungsstudie | 400 bis 1 000 |
 | 2 | Zulassung, Verlängerung und Änderung einer Sonderzulassung |  |
-| 2.1 | Entscheidung nach § 7 Absatz 1 Satz 1 MPDG über den Antrag auf Sonderzulassung eines Produktes | 250 bis 10 300 |
+| 2.1 | Entscheidung nach § 7 Absatz 1 Satz 1 MPDG über die Sonderzulassung eines Produktes | 250 bis 10 300 |
 | 2.2 | Entscheidung über die Änderung der Sonderzulassung eines nach § 7 Absatz 1 Satz 1 MPDG zugelassenen Produktes | 100 bis 1 100 |
-| 2.3 | Entscheidung über die Verlängerung der Sonderzulassung eines nach § 7 Absatz 1 Satz 1 MPDG befristet zugelassenen Produktes | 100 bis 1 100 |
-| 3 | Individuell zurechenbare öffentliche Leistungen im Rahmen klinischer Prüfungen |  |
-| 3.1 | Prüfung der Anwendung der Klassifizierungsregeln des Anhangs VIII der Verordnung (EU) 2017/745 für klinische Prüfungen von Produkten der Klasse I oder nicht invasiven Produkten der Klasse IIa nach § 31 Absatz 1 MPDG in Verbindung mit § 39 Absatz 3 des MPDG | 500 bis 2 500 |
-| 3.2 | Bewertung einer Meldung nach Artikel 80 Absatz 2 und 3 der Verordnung (EU) 2017/745 in Verbindung mit § 44 Absatz 1 MPDG | 25 bis 250 |
-| 3.3 | Höchstgrenze für die Summe der Gebühren nach Nummer 3.2 je klinischer Prüfung pro Jahr | 24 000 |
-| 3.4 | Anordnung des befristeten Ruhens der Genehmigung einer klinischen Prüfung nach § 45 Absatz 1 Satz 2 oder Absatz 2 Satz 3 MPDG, Aufforderung zur Änderung von Aspekten der klinischen Prüfung nach § 45 Absatz 3 Satz 1 MPDG, Anordnung der sofortigen Unterbrechung der klinischen Prüfung nach § 45 Absatz 3 Satz 2 MPDG | 200 bis 9 000 |
-| 4 | Individuell zurechenbare Leistung im Rahmen der Überwachung |  |
-| 4.1 | Anordnung von Maßnahmen nach § 74 Absatz 3 in Verbindung mit Absatz 1 Satz 2 und Absatz 2 MPDG | 30 bis 10 000 |
-| 4.2 | Anordnung von Maßnahmen nach § 74 Absatz 4 MPDG in Verbindung mit Artikel 95 der Verordnung (EU) 2017/745 | 30 bis 10 000 |
-| 5 | Beratung des Herstellers, des Bevollmächtigten, von Importeuren, Sponsoren und der Benannten Stellen nach § 84 Satz 1 MPDG | 500 bis 10 000 |
+| 2.3 | Entscheidung über die Verlängerung der Sonderzulassung eines nach § 7 Absatz 1 Satz 1 MPDG zugelassenen Produktes | 100 bis 1 100 |
+| 2.4 | Entscheidung nach den Nummern 2.1 bis 2.3 für mehrere Produkte oder Produktgruppen |  |
+| 2.4.1 | wenn die Gleichartigkeit der Produkte nur zu einem geringeren Prüfungsmehraufwand geführt hat | Erhöhung um 15 Prozent für jedes weitere Produkt |
+| 2.4.2 | in anderen Fällen | Erhöhung um bis zu 50 Prozent für jedes weitere Produkt |
+| 3 | Individuell zurechenbare öffentliche Leistungen im Rahmen von klinischen Prüfungen und Leistungsstudien |  |
+| 3.1 | Validierung eines Antrags zur Durchführung einer klinischen Prüfung von Produkten der Klasse I oder nicht invasiven Produkten der Klasse IIa nach § 39 Absatz 3 MPDG | 50 bis 250 |
+| 3.2 | Validierung eines Antrags zur Durchführung einer Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746 durchgeführt wird, nach § 39 Absatz 4 MPDG | 50 bis 250 |
+| 3.3 | Widerspruch gegen die Durchführung einer Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746 durchgeführt werden soll, nach § 39 Absatz 4 Satz 2 MPDG, im Falle, dass die Probennahme entgegen der Erklärung des Sponsors ein erhebliches klinisches Risiko für die Prüfungsteilnehmer darstellt | 250 bis 2 000 |
+| 3.4 | Widerspruch gegen die Durchführung einer klinischen Prüfung nach § 39 Absatz 3 Satz 2 MPDG im Falle, dass die Angaben des Sponsors zur Risikoklasse des Prüfproduktes oder zur Nichtinvasivität inkorrekt sind | 250 bis 2 000 |
+| 3.5 | Bewertung einer Meldung nach Artikel 80 Absatz 2 oder Absatz 3 der Verordnung (EU) 2017/745 oder nach Artikel 76 Absatz 2 oder Absatz 3 der Verordnung (EU) 2017/746, jeweils in Verbindung mit § 44 Absatz 1 MPDG | 25 bis 250 |
+| 3.6 | Höchstgrenze für die Summe der Gebühren nach Nummer 3.4 je klinischer Prüfung oder Leistungsstudie pro Jahr | 24 000 |
+| 3.7 | a)Befristete Anordnung des Ruhens der Genehmigung einer klinischen Prüfung nach § 45 Absatz 1 Satz 2 oder Absatz 2 Satz 3 MPDG, soweit der Adressat der Genehmigung dies zu vertreten hat,b)Aufforderung zur Änderung von Aspekten der klinischen Prüfung oder Leistungsstudie nach § 45 Absatz 3 Satz 1 MPDG,c)Anordnung der sofortigen Unterbrechung der klinischen Prüfung oder der Leistungsstudie nach § 45 Absatz 3 Satz 2 MPDG | a) bis c) jeweils 30 bis 2 000 |
+| 3.8 | Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer sonstigen klinischen Prüfung aus Sicherheitsgründen gemäß § 64 Absatz 2 Satz 2 MPDG | 100 bis 400 |
+| 3.9 | Anordnung von Korrekturmaßnahmen bei einer sonstigen klinischen Prüfung gemäß § 69 Absatz 2 MPDG | 600 bis 2 000 |
+| 4 | Anordnung von Maßnahmen zum Schutz vor Risiken |  |
+| 4.1 | Nach § 74 Absatz 3 in Verbindung mit Absatz 1 Satz 2 und Absatz 2 MPDG | 30 bis 4 000 |
+| 4.2 | Nach § 74 Absatz 4 MPDG in Verbindung mit Artikel 95 der Verordnung (EU) 2017/745 | 30 bis 4 000 |
+| 5 | Beratung des Herstellers, des Bevollmächtigten, von Importeuren, Sponsoren und der Benannten Stellen nach § 84 Satz 1 MPDG | 250 bis 10000 |
 | 6 | Sonstige Gebühren |  |
 | 6.1 | Wissenschaftliche Stellungnahmen und Gutachten | 200 bis 1 000 |
 | 6.2 | Nicht einfache schriftliche Auskünfte | 100 bis 500 |
@@ -1206,83 +1346,15 @@ Medizinprodukterecht-Durchführungsgesetz (MPDG)
 | 6.4 | Herstellung von Kopien und Abschriften |  |
 | 6.4.1 | Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt | 25 |
 | 6.4.2 | Jede angefertigte Kopie oder Abschrift je Seite | 0,50 |
-| 6.5 | Die Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig | 50 bis 1 000 |
+| 6.5 | Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig | 50 bis 1 000 |
 | 7 | Auslagen |  |
 |  | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
 | 8 | Gebührenermäßigung oder -befreiung |  |
-| 8.1 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 1, 2.1 bis 2.3, 3.1 bis 3.6, 4.1 und 4.2, 5, 6.1 und 6.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | a)Bis auf 50 oder bei einem Gebührenrahmensatz bisauf die Hälfte des entsprechenden Mindestsatzes |
+| 8.1 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 6.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | a)Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des entsprechenden Mindestsatzes |
 |  | b)Wenn unter den in Buchstabe a genannten Voraussetzungen der Aufwand zu vernachlässigen ist | b)Gebührenbefreiung |
-| 8.2 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 2.1 bis 2.3 auf Antrag, wenn aa)der Antragsteller einen diesen Gebühren angemessenen wirtschaftlichen Nutzen nicht erwarten kann oder die Anwendungsfälle selten sind oder die Zielgruppe, für die das Produkt bestimmt ist, klein ist,bb)an der Sonderzulassung ein besonderes Interesse der öffentlichen Gesundheit besteht odercc)Gründe der Billigkeit mit Blick auf die Patientensicherheit und Patientengesundheit ein Herabsetzen der Gebühr erfordern | a)Bis auf ein Viertelder jeweiligenGebühr |
+| 8.2 | a)Ermäßigung der jeweiligen Gebühr nach den Nummern 2.1 bis 2.4 auf Antrag, wenn aa)der Antragsteller einen diesen Gebühren angemessenen wirtschaftlichen Nutzen nicht erwarten kann oder die Anwendungsfälle selten sind oder die Zielgruppe, für die das Produkt bestimmt ist, klein ist,bb)an der Sonderzulassung ein besonderes Interesse der öffentlichen Gesundheit besteht odercc)Gründe der Billigkeit mit Blick auf die Patientensicherheit und Patientengesundheit ein Herabsetzen der Gebühr erfordern | a)Bis auf ein Viertel der jeweiligen Gebühr |
 |  | b)Wenn unter den im Buchstaben a genannten Voraussetzungen der zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren besonders gering ist | b)Gebührenbefreiung |
-| 8.3 | Ermäßigung der nach der jeweiligen Gebühr nach Nummer 3, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen. | Um 25 Prozent |
-Abschnitt 10
-Medizinproduktegesetz (MPG) und
-Medizinprodukte-Sicherheitsplanverordnung (MPSV) für In-vitro-Diagnostika
-in Verbindung mit § 2 Absatz 1 Satz 2 Medizinprodukterecht-Durchführungsgesetz (MPDG)
-und § 1 Satz 2 der Medizinprodukte-Anwendermelde- und Informationsverordnung (MPAMIV)
-Tabelle 1
-| Gebührenerhebende Behörde: Paul-Ehrlich-Institut |
-| Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
-| 1 | Zulassung, Verlängerung und Änderung der Zulassung eines In-vitro-Diagnostikums |  |
-| 1.1 | Entscheidung nach § 11 Absatz 1 Satz 1 des MPG über die Zulassung eines In-vitro-Diagnostikums | 2 500 bis 10 300 |
-| 1.2 | Entscheidung über die Änderung der Zulassung eines nach § 11 Absatz 1 Satz 1 MPG zugelassenen In-vitro-Diagnostikums | 100 bis 1 100 |
-| 1.3 | Entscheidung über die Verlängerung der Zulassung eines nach § 11 Absatz 1 Satz 1 MPG zugelassenen In-vitro-Diagnostikums | 100 bis 1 100 |
-| 1.4 | Entscheidung auf Zulassung nach § 11 Absatz 1 Satz 1 MPG bei Antrag für mehrere gleichartige In-vitro-Diagnostika |  |
-| 1.4.1 | Entscheidung über die Zulassung für das erste geprüfte In-vitro-Diagnostikum | Gebühr nach Nummer 1.1 |
-| 1.4.2 | Ermäßigung der Gebühr nach Nummer 1.1 bei der Entscheidung über die Zulassung jedes weiteren In-vitro-Diagnostikums, wenn die Gleichartigkeit der In-vitro-Diagnostika nur zu einem geringeren Prüfungsmehraufwand geführt hat | Bis auf eine Mindestgebühr von 1 100 |
-| 1.5 | Auf Antrag Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4 in seltene Anwendungsfällen des In-vitro-Diagnostikums oder bei kleinen Zielgruppen, für die das In-vitro-Diagnostikum bestimmt ist oder ein diesen Gebühren angemessener wirtschaftlicher Nutzen nicht zu erwarten ist | Bis auf ein Viertel der jeweiligen Gebühr |
-| 1.6 | Auf Antrag Befreiung von der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4 bei einem im Verhältnis zu den Gebühren zu erwartenden besonders geringen wirtschaftlichen Nutzen | Gebührenbefreiung |
-| 2 | Entscheidung nach § 13 Absatz 2 oder 3 MPG zur Klassifizierung eines In-vitro-Diagnostikums oder zur Abgrenzung von In-vitro-Diagnostika zu anderen Produkten | 400 bis 7 500 |
-| 3 | Leistungsbewertungsprüfungen |  |
-| 3.1 | Genehmigung einer Leistungsbewertungsprüfung nach § 24 in Verbindung mit § 20 Absatz 1 und 22a Absatz 1 MPG | 3 000 bis 9 900 |
-| 3.2 | Genehmigung einer wesentlichen Änderung einer Leistungsbewertungsprüfung nach § 24 MPG in Verbindung mit § 22c Absatz 2 MPG | 600 bis 1 700 |
-| 3.3 | Gebühr, wenn eine wesentliche Änderung keine der in § 20 Absatz 1 Satz 4 Nummer 1, 5, 6 und 8 MPG genannten Aspekte betrifft und keine Einwände durch die zuständige Bundesoberbehörde geäußert werden | 100 |
-| 3.4 | Bearbeitung einer sonstigen Änderung einer Leistungsbewertungsprüfung nach § 24 MPG in Verbindung mit § 22c Absatz 1 MPG | 100 bis 400 |
-| 3.5 | Prüfung einer beantragten Befreiung von der Genehmigungspflicht für Leistungsbewertungsprüfungen von In-vitro-Diagnostika nach § 24 MPG | 500 bis 2 000 |
-| 3.6 | Bearbeitung einer Meldung eines schwerwiegenden unerwünschten Ereignisses durch den Sponsor nach § 3 Absatz 6 der MPSV | 25 bis 250 |
-| 3.7 | Höchstgebühr für die Bearbeitung mehrerer Meldungen von schwerwiegenden unerwünschten Ereignissen durch den Sponsor nach § 3 Absatz 6 der Medizinprodukte-Sicherheitsplanverordnung je Leistungsbewertungsprüfung | 20 000 |
-| 4 | Beratung des Verantwortlichen nach § 5 MPG, von Benannten Stellen und von Sponsoren nach § 32 MPG | 500 bis 2 800 |
-| 5 | Sonstige Gebühren |  |
-|  | Bei den folgenden individuell zurechenbaren öffentlichen Leistungen, die auf Antrag vorgenommen werden, sind an Gebühren zu erheben für |  |
-| 5.1 | Wissenschaftliche Stellungnahmen, Gutachten und nicht einfache schriftliche Auskünfte | 200 bis 1 000 |
-| 5.2 | Bescheinigungen und Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein amtliches Siegel nicht erforderlich ist | 25 |
-| 5.3 | Die Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig | 25 bis 250 |
-| 6 | Auslagen |  |
-| 6.1 | Kosten für Dienstfahrten in den Fällen der Nummern 3.1 und 3.2 | In tatsächlich entstandener Höhe |
-| 6.2 | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
-| 7 | Gebührenermäßigung |  |
-|  | Ermäßigung der Gebühren nach den Nummern 1.1 bis 1.4, 2.3.1 bis 3.6, 4 oder 5.1, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | Auf bis zu 50 |
-Tabelle 2
-| Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte |
-| Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
-| 1 | Zulassung, Verlängerung und Änderung der Zulassung eines In-vitro-Diagnostikums |  |
-| 1.1 | Entscheidung über die Zulassung nach § 11 Absatz 1 Satz 1 MPG | 250 bis 10 300 |
-| 1.2 | Entscheidung über die Änderung der Zulassung eines nach § 11 Absatz 1 Satz 1 MPG zugelassenen In-vitro-Diagnostikums | 100 bis 1 100 |
-| 1.3 | Entscheidung über die Verlängerung der Zulassung eines nach § 11 Absatz 1 Satz 2 MPG befristet zugelassenen In-vitro-Diagnostikums | 100 bis 1 100 |
-| 1.4 | Auf Antrag Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.3 für seltene Anwendungsfälle des In-vitro-Diagnostikums oder kleine Zielgruppen, für die das In-vitro-Diagnostikum bestimmt ist oder ein diesen Gebühren angemessener wirtschaftlicher Nutzen nicht zu erwarten ist | Bis auf ein Viertel der jeweiligen Gebühr |
-| 1.5 | Auf Antrag Befreiung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.3 bei einem im Verhältnis zu den Gebühren zu erwartenden besonders geringen wirtschaftlichen Nutzen | Gebührenbefreiung |
-| 2 | Abgrenzung von In-vitro-Diagnostika zu anderen Produkten | 400 bis 7 500 |
-| 3 | Individuell zurechenbare öffentliche Leistungen im Rahmen von Leistungsbewertungsprüfungen |  |
-| 3.1 | Genehmigung einer Leistungsbewertungsprüfung nach § 24 MPG in Verbindung mit § 20 Absatz 1 MPG und in Verbindung mit § 22a Absatz 1 MPG | 3 000 bis 9 900 |
-| 3.2 | Begutachtung einer wesentlichen Änderung an einer Leistungsbewertungsprüfung nach § 24 MPG in Verbindung mit § 22c Absatz 2 MPG | 600 bis 1 700 |
-| 3.3 | Gebühr, sofern eine wesentliche Änderung keine der in § 20 Absatz 1 Satz 4 Nummer 1, 5, 6 und 8 MPG genannten Aspekte betrifft und keine Einwände durch die zuständige Bundesoberbehörde geäußert werden | 100 |
-| 3.4 | Bearbeitung einer sonstigen Änderung an einer Leistungsbewertungsprüfung nach § 24 MPG in Verbindung mit § 22c Absatz 1 MPG | 100 bis 400 |
-| 3.5 | Prüfung einer beantragten Befreiung von der Genehmigungspflicht für Leistungsbewertungsprüfungen von In-vitro-Diagnostika nach § 24 MPG in Verbindung mit § 20 Absatz 1 Satz 2 MPG | 500 bis 2 000 |
-| 3.6 | Bearbeitung einer Meldung eines schwerwiegenden unerwünschten Ereignisses durch den Sponsor nach § 3 Absatz 6 der MPSV | 25 bis 250 |
-| 3.7 | Höchstgebühr für die Bearbeitung der Meldungen von schwerwiegenden unerwünschten Ereignissen je klinische Prüfung oder Leistungsbewertungsprüfung in einem Kalenderjahr | 24 000 |
-| 4 | Beratung des Verantwortlichen nach § 5 MPG, von Benannten Stellen und von Sponsoren nach § 32 MPG | 500 bis 2 800 |
-| 5 | Sonstige Gebühren |  |
-| 5.1 | Wissenschaftliche Stellungnahmen und Gutachten | 200 bis 1 000 |
-| 5.2 | Nicht einfache schriftliche Auskünfte | 100 bis 500 |
-| 5.3 | Bescheinigungen | 25 |
-| 5.4 | Herstellung von Kopien und Abschriften |  |
-| 5.4.1 | Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt | 20 |
-| 5.4.2 | Jede angefertigte Kopie oder Abschrift je Seite | 0,50 |
-| 5.5 | Die Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig | 25 bis 250 |
-| 6 | Auslagen |  |
-|  | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
-| 7 | Gebührenermäßigung |  |
-|  | Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4, 2.3.1 bis 3.6, 4 oder 5.1, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert | Bis auf 50 |
+| 8.3 | Ermäßigung der nach der jeweiligen Gebühr nach Nummer 3, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird und der Antragsteller diese Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt und nachgewiesen hat. | Um 50 Prozent |
 Abschnitt 11
 Infektionsschutzgesetz (IfSG)
 Tabelle 1

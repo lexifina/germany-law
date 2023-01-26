@@ -28,16 +28,21 @@
 - [§ 14 Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung](0014.md)
 - [§ 15 Verstärkte Sorgfaltspflichten, Verordnungsermächtigung](0015.md)
 - [§ 16 Besondere Vorschriften für das Glücksspiel im Internet](0016.md)
+- [§ 16a Verbot der Barzahlung beim Erwerb von Immobilien](0016a.md)
 - [§ 17 Ausführung der Sorgfaltspflichten durch Dritte, vertragliche Auslagerung](0017.md)
 
 ## Abschnitt 4 Transparenzregister
 
 - [§ 18 Einrichtung des Transparenzregisters und registerführende Stelle](0018.md)
+- [§ 18 Einrichtung des Transparenzregisters und registerführende Stelle](0018-2.md)
 - [§ 19 Angaben zum wirtschaftlich Berechtigten](0019.md)
+- [§ 19a Angaben zu Immobilien](0019a.md)
+- [§ 19b Erfassung und Zuordnung von Immobilien](0019b.md)
 - [§ 20 Transparenzpflichten im Hinblick auf bestimmte Vereinigungen](0020.md)
 - [§ 20a Automatische Eintragung für Vereine](0020a.md)
 - [§ 21 Transparenzpflichten im Hinblick auf bestimmte Rechtsgestaltungen](0021.md)
 - [§ 22 Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung](0022.md)
+- [§ 22 Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung](0022-2.md)
 - [§ 23 Einsichtnahme in das Transparenzregister, Verordnungsermächtigung](0023.md)
 - [§ 23a Meldung von Unstimmigkeiten an die registerführende Stelle](0023a.md)
 - [§ 24 Gebühren und Auslagen, Verordnungsermächtigung](0024.md)
