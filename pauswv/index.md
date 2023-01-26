@@ -44,8 +44,7 @@
 ## Kapitel 6 Elektronischer Identitätsnachweis mit einem mobilen Endgerät
 
 - [§ 22 Einrichtung](0022.md)
-- [§ 23 (weggefallen)](0023.md)
-- [§ 23 Speicherung von personenbezogenen Daten; Zugriffsschutz](0023-2.md)
+- [§ 23 Speicherung von personenbezogenen Daten; Zugriffsschutz](0023.md)
 - [§ 23a Neusetzen und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit einem mobilen Endgerät](0023a.md)
 - [§ 23b Gültigkeitsdauer](0023b.md)
 
