@@ -1,0 +1,108 @@
+# 14. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2023-01-26T16:30:00+01:00
+- Ende: 2023-01-26T19:40:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6696
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6696
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=394566
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Änderung des Sitzungsterminplanes 2023 der BVV Treptow-Köpenick von Berlin - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.2: Parteien helfen dem Bezirksamt - vertagt
+- TOP 2.3: Umgestaltung Bölschestraße – Bürgerbeteiligung ernst nehmen und Geschäftsstraße erhalten - vertagt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - vertagt
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-12 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Sanierung der Volkshochschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Tempo-30-Abschnitt auf der Waltersdorfer Straße in beiden Fahrtrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Beleuchtung Radwege Fürstenwalder Allee Richtung Stadtgrenze - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Zusätzliche Planstellen für das Dokumentationszentrum NS-Zwangsarbeit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Videosprechstunden und kontaktloses Bezahlen anbieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.6: Fußgängerüberweg Altglienicke Kirche - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.7: Beleuchtung der Einmündung Rabindranath-Tagore-Straße in das Adlergestell - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.8: Einbahnstraße Josef-Nawrocki-Straße für den Fahrradverkehr in Gegenrichtung öffnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.9: Aufwertung des Bahnhofs Schöneweide durch FEX-Halt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.10: Verkehrsberuhigung in Oberschönweide umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.11: Kiezblocks in Treptow-Köpenick ausweiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.12: Dauerhafte Geschwindigkeitsüberwachung Am Treptower Park - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Rekonstruktion der ursprünglichen keramischen Fassadenverkleidung am Alexander-von-Humboldt-Gymnasium - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Neuer Fußgängerüberweg für sicheren Fußverkehr zwischen Biesdorf-Süd und dem S-Bahnhof Wuhlheide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Fußgängerüberwege in der Helmholtzstraße instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Begleitbeschluss zum Investitionsprogramm 2019-2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Mehr Sicherheit für Radfahrer: Radwegmarkierungen in Baumschulenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Querungshilfe Wendenschloßstraße Höhe Dregerhoffstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Waldweg zwischen S-Bahnhof Hirschgarten und dem Waldburgweg fahrradfreundlich ertüchtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.8: Runder Tisch "Häusliche Gewalt" im Bezirk Treptow-Köpenick - überwiesen
+- TOP 8.2.9: Kompetenz- und Koordinierungsstelle einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.10: Wir helfen dabei, Blutkrebs zu bekämpfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.11: Neue DLRG-Rettungsstation in Friedrichshagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Realisierung von zwei angeordneten Fußgängerüberwegen - in der BVV zurückgezogen
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Sondermittel für den Verein "Ortsverein Grünau e. V." (SM 23-01) - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Sondermittel für den Verein "MiKaM e. V." (SM 23-03) - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sondermittel für den DLRG Landesverband Berlin e. V. Bezirk Mitte (SM 23-05) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Bezirkshaushaltsrechnung 2020 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Wirtschaftsstandort Treptow-Köpenick stärken – Click and Collect-Konzepte unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Vorrang für Gemeinschaftsschulen beibehalten und Zweiten Bildungsweg weiterhin ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Aufhebung der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung für das Gebiet Niederschöneweide und Neuerlass der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung für das Gebiet Niederschöneweide mit neuem Geltungsbereich - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Aufhebung der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung für das Gebiet Oberschöneweide und Neuerlass der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung für das Gebiet Oberschöneweide mit neuem Geltungsbereich - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Gründung eines Gymnasiums am Standort Kiefholzstr. 274, 12437 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Bezirkliche Schwangerschafts- und Schwangerschaftskonfliktberatung nach § 219 StGB - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Bezirkliche Stillambulanz und Stillhotline - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Einrichtung einer Buslinie in der Kiefholzstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Akkus von Elektroklein- und -kleinstfahrzeugen auch im Bezirksamt laden - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Öffentlichkeitsarbeit des Bezirksamtes bedarfsorientierter gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Umsetzung von Sachmitteln innerhalb des Bezirkshaushaltsplanes gemäß Bezirksamtsvorlage Nr. 226/2022 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Umsetzung von Sachmitteln innerhalb des Bezirkshaushaltsplanes gemäß Bezirksamtvorlage Nr. 229/2022 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Berufung der Jury zur Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Bebauungsplan XV-20-1 ("Köpenicker Straße 48") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Sicherheit am Spielplatz in der Karl-Pokern-Straße in Friedrichshagen erhöhen - überwiesen
+- TOP 13.2: Ehrenhain auf dem Friedhof Adlershof würdig gestalten - überwiesen
+- TOP 13.3: Eichhörnchenbrücke - überwiesen
+- TOP 13.4: Einrichtung einer Bedarfsampel an der Kreuzung Baumschulenstraße Ecke Glanzstraße - überwiesen
+- TOP 13.5: Verbesserung des Nutzerkomforts auf der Buslinie X 11 – Verlegung der Haltestelle - überwiesen
+- TOP 13.6: Behindertenparkplätze transparent machen - überwiesen
+- TOP 13.7: Installation von Infotafeln bezüglich des Fütterns von Wasservögeln und Fischen - überwiesen
+- TOP 13.8: Sichere Querung in der Fürstenwalder Allee auf Höhe "Am Schonungsberg" schaffen - überwiesen
+- TOP 13.9: Spreepark ökologisch und sozial gestalten - überwiesen
+- TOP 13.10: Einrichtung einer Querungshilfe in der Kiefholzstraße - überwiesen
+- TOP 13.11: Angsträume verhindern – Wege im Goldmannpark beleuchten - überwiesen
+- TOP 13.12: "KiezRadar" nutzen - überwiesen
+- TOP 13.13: Beschilderung für getrennten Rad- und Gehweg auf der Bundesstraße 96a - überwiesen
+- TOP 13.14: Vorfahrt für den Radverkehr – den grünen Pfeil für den Radverkehr auch in Treptow-Köpenick einführen - überwiesen
+- TOP 13.15: Freier Zugang zum Spreepark - überwiesen
+- TOP 13.16: Mit der Fähre vom Ostkreuz zum Spreepark - überwiesen
+- TOP 13.17: Nicht genehmigte Plakate von Gebrauchtwagenhändlern konsequent beseitigen und ahnden, Kommunikation mit den Bürgern verbessern - überwiesen
+- TOP 13.18: Grundsteuerhebesatz senken - überwiesen
+- TOP 13.19: Nutzung von Grünanlagen für Angebote und Maßnahmen der Jugendarbeit und Jugendsozialarbeit - überwiesen
+- TOP 13.20: Bargeldzahlung an der Volkshochschule ermöglichen - überwiesen
+- TOP 13.21: Einmündung Siriusstraße sicherer gestalten - überwiesen
+- TOP 13.22: Erhalt der Naturrasenplätze - überwiesen
+- TOP 13.23: Pkw-Stellplätze in der Bölschestraße erhalten – örtliche Gewerbestruktur schützen - überwiesen
+- TOP 13.24: Künstliche Intelligenz gegen Vermüllung nutzen - überwiesen
+- TOP 13.25: Sport im Park - überwiesen
+- TOP 13.26: Pkw-Stellplätze an der Köpenicker Landstraße erhalten – Mobilität gewährleisten - überwiesen
+- TOP 13.27: Einrichtung einer Wasserstofftankstelle - überwiesen
+- TOP 13.28: Kein Gendern in der Verwaltung Treptow-Köpenicks - überwiesen
+- TOP 13.29: Prävention und Sensibilisierung für Kinder und Jugendliche – für ein gewaltfreies Miteinander - überwiesen
+- TOP 13.30: Fachkräftemangel durch Lernmittelbezahlung der Auszubildenden des Bezirksamts entgegenwirken - ohne Änderungen in der BVV beschlossen
+- TOP 13.31: Attraktivitätssteigerung der Arbeitsplätze im Bezirksamt Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Zukunft der Jugendfreizeiteinrichtungen (JFE) "Walter Kroh" und "Horn" - beantwortet
