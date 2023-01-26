@@ -1,0 +1,52 @@
+# 18. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-01-26T17:06:00+01:00
+- Ende: 2023-01-26T19:19:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/92
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12909
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12909
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich_korrigierte Fassung https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00522977.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anhörungen
+- TOP 3.1: 1. Wolbecker Straße – Mühlhäuser Straße bis Laerer Landweg – Vollsignalisierung und barrierefreier Umbau des Knotenpunktes und Barrierefreier Ausbau der Haltestelle „St.-Magareta-Kirche“ (stadteinwärts) und Übernahme des Ausbaus der Wolbecker Straße - bei Stimmengleichheit abgelehnt
+- TOP 3.1.1: 1. Wolbecker Straße – Mühlhäuser Straße bis Laerer Landweg – Vollsignalisierung und barrierefreier Umbau des Knotenpunktes und Barrierefreier Ausbau der Haltestelle „St.-Magareta-Kirche“ (stadteinwärts) und Übernahme des Ausbaus der Wolbecker Straße
+- TOP 3.2: Baumaßnahme - bei Stimmengleichheit abgelehnt
+- TOP 3.3: Bebauungsplan Nr. 633 - Beschluss zur Aufstellung - von der Tagesordnung abgesetzt
+- TOP 3.4: Zusätzlicher Mittelbedarf bei der Sanierung des Umkleidegebäudes der Sportanlage Schifffahrter Damm - einstimmig beschlossen
+- TOP 3.5: Sudmühlenstraße - Planung der DB Netze zur Aufhebung der Bahnübergänge Sudmühlenstraße und Mariendorfer Straße - von der Tagesordnung abgesetzt
+- TOP 4: Entscheidungen
+- TOP 4.1: Straßenbenennungen im Bebauungsplan 562 Handorf - Hobbeltstraße / Kirschgarten - einstimmig geändert beschlossen
+- TOP 4.2: Sanierung von Spielplätzen im Stadtbezirk Münster-Ost — Festlegung der Reihenfolge 2023 - einstimmig beschlossen
+- TOP 5: Fristgerecht eingegangene Anträge
+- TOP 5.1: Gestaltungskonzept Petronillaplatz und Hugo-Pottebaum-Platz - einstimmig beschlossen
+- TOP 5.2: Verkehrszeichen 277.1 auf der Kanalbrücke "Manfred-von-Richthofen-Straße" - zur Kenntnis genommen
+- TOP 6: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 6.1: Müllbehälter an der Wolbecker Straße - eingebracht
+- TOP 6.2: Instandsetzung des Fahrradweges zwischen Kamillusweg und Sudmühlenbrücke - eingebracht
+- TOP 6.3: Solidaritätspartnerschaft mit Winnyzja in der Ukraine im Stadtbezirk Münster-Ost sichtbar machen - eingebracht
+- TOP 6.4: Sanierung des Hugerlandshofweges prüfen - eingebracht
+- TOP 7: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 7.1: Wie wird Münsters Osten wieder sauberer? - zur Kenntnis genommen
+- TOP 7.2: Mehr Fahrradstellflächen für Gelmer (ursprüngliche Nr. A-O/0001/2021) - Zwischenmitteilung zur Kenntnis genommen
+- TOP 7.3: Mehr Sicherheit für Radfahrer:innen und Fußgänger:innen bei der Querung der Warendorfer Straße hinter der Kanalbrücke stadtauswärts - zur Kenntnis genommen
+- TOP 7.4: Car Sharing in Gelmer (ursprüngliche Nummer A-O/0003/2022) - zur Kenntnis genommen
+- TOP 7.5: Änderung der Hinweisschilder von Bürgerbad in Heimathaus - zur Kenntnis genommen
+- TOP 7.6: Baulandprogramm 2020 - 2030 um Grundschule inklusive Zweifachsporthalle sowie Kindertagesstätte in Gelmer ergänzen - zur Kenntnis genommen
+- TOP 7.7: Planungsstand zur baulichen Situation der Grundschule in Gelmer - zur Kenntnis genommen
+- TOP 7.8: Poller auf Auffahrtsrampen der Kanalbrücke Gittruper Straße nur einseitig belassen - zur Kenntnis genommen
+- TOP 7.9: Eigentumsverhältnisse und Ertüchtigung des Weges zwischen Alten Mühlenweg und der Pleistermühle - zur Kenntnis genommen
+- TOP 7.10: Verzögerung des Ausbaus der Nebenanlagen der neuen Kanalbrücke an der Wolbecker Straße - zur Kenntnis genommen
+- TOP 7.11: Fehlende Beschilderung und neue Engstelle nach Sanierung des Feldweges parallel zur Gittruper Straße - zur Kenntnis genommen
+- TOP 7.12: Leitplanken entlang des 1. Abschnitts der Kanalpromenade (Gelmer bis Schleuse) - zur Kenntnis genommen
+- TOP 7.13: Inbetriebnahme der Wegebeleuchtung am 1. Abschnitt der Kanalpromenade (Gelmer bis Schleuse) sowie Dingstiege und Boniburgallee - zur Kenntnis genommen
+- TOP 8: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 9: Verschiedenes
