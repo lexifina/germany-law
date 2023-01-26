@@ -1,0 +1,51 @@
+# 15. (Sonder-) Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin zur Abarbeitung von Drucksachen
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-01-26T18:00:00+01:00
+- Ende: 2023-01-26T20:00:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5255
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5255
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=357782
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Beschlussfassung über die Tagesordnung - vertagt
+- TOP 3: Prioritäten der Fraktionen - (offen)
+- TOP 3.1: Wassersport und Schwimmunterricht sichern - Eine Schnellbauschwimmhalle für Lichtenberg und Hohenschönhausen - vertagt
+- TOP 3.2: Bessere finanzielle Ausstattung für den Bereich "Aufsuchende Lichtenberger Sozialberatung" - vertagt
+- TOP 3.3: Lichtenberger Apotheken stärken - vertagt
+- TOP 3.4: Bezirkliche Wohnungsbörse für obdachlose Menschen - vertagt
+- TOP 3.5: Resolution - Ausschreitungen, Randale und Gewalt zum Jahreswechsel 2022/2023 - vertagt
+- TOP 3.6: Zusätzliches Pilotprojekt für bessere Schulreinigung - vertagt
+- TOP 4: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 4.1: Hybride Ausschusssitzungen - vertagt
+- TOP 4.2: Videostream der BVV im Internet mit Sprungmarken anbieten - vertagt
+- TOP 4.3: Rahmenplan für den Norden Hohenschönhausens - vertagt
+- TOP 4.4: Queeres Beratungszentrum in Lichtenberg einrichten - vertagt
+- TOP 4.5: Informationen und Hilfsangebote in verschiedenen Sprachen - vertagt
+- TOP 4.6: Bezirkliche Position in Stadtentwicklungspläne einbringen - vertagt
+- TOP 4.7: Freie Schulträger stärker unterstützen - vertagt
+- TOP 4.8: Planung zur schrittweisen Nachnutzung des HTW-Geländes konkretisieren - mit echter Bürgerbeteiligung - vertagt
+- TOP 4.9: Geschäftsordnung - vertagt
+- TOP 5: Anträge zur Beschlussfassung - (offen)
+- TOP 5.1: Die Gesundheit von Kindern im Kita-Alter mit einem Kindergesundheitsgipfel in den Fokus rücken - vertagt
+- TOP 5.2: Gesunde Wohn- und Arbeitsverhältnisse im Quartier Gehrensee-/Wollenberger Straße gem. B-Plan 11-165 - vertagt
+- TOP 5.3: Städtepartnerschaften regelmäßig prüfen - vertagt
+- TOP 5.4: Neues Gewerbegebiet für Lichtenberg - vertagt
+- TOP 5.5: Wechselmodell zur Betreuung von Kindern bevorzugen - vertagt
+- TOP 5.6: Schulwegsicherheit an der Hauptstraße verbessern - vertagt
+- TOP 5.7: Safe Spaces in Lichtenberg schaffen - vertagt
+- TOP 5.8: Beratung für Opfer rechter Gewalt - vertagt
+- TOP 5.9: Wohnungssuchende Geflüchtete unterstützen - vertagt
+- TOP 5.10: Schluss mit unproportionaler Verteilung von Asylbewerbern in Berliner Bezirken - Zuweisungs-Moratorium für Lichtenberg - vertagt
+- TOP 5.11: Keine Ausgrenzung von Fraktionen und Parteien - Arbeitsgruppen demokratisch zusammensetzen - vertagt
+- TOP 5.12: Verkehrsberuhigung für den Kiez um die Charlottenstraße - vertagt
+- TOP 5.13: Wohnungsbaupotenziale im Rahmen von B-Planverfahren an verbindlich zugesagte Ressourcen für Schulen und Kitas knüpfen - vertagt
+- TOP 5.14: Stadtplanung und Milieuschutz personell stärken - vertagt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Bebauungsplan 11-158 - Behördenbeteiligung; Arbeitstitel: Zwieseler Straße/Nord - vertagt
