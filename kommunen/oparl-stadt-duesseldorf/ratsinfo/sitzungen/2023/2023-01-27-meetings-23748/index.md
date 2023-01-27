@@ -1,0 +1,65 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-01-27T16:05:00+01:00
+- Ende: 2023-01-27T19:03:00+01:00
+- Ort: Rathaus Benrath, Benrodestraße 46 – Sitzungssaal 1. OG.
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23748
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23748
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung 27.01.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00473068.pdf
+- Ergebnisprotokoll: BV9 Sitzung 27.01.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00473068.pdf
+- Wortprotokoll: BV9 Sitzung 27.01.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00473068.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 09.12.2022 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 4.1: Zulassung von Mitgliedern des Jugendrates - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Qualitätssicherndes Verfahren "Nördlich Wimpfener Straße" - Empfehlung mehrheitlich beschlossen
+- TOP 5.2: Flächennutzungsplanänderung Nr. 210 & Bebauungsplan-Vorentwurf Nr. 09/016 - Ickerswarder Straße - Empfehlung einstimmig abgelehnt
+- TOP 5.3: "Düsseldorf pflanzt Zukunft" - Ein Planungskonzept zur Schaffung neuer Baumstandorte - zur Kenntnis genommen
+- TOP 5.4: Kommunale Sozialberichterstattung Düsseldorf. Lebenssituation Kinder, Jugendliche und Familien – Monitoring 2015 bis 2020 - zur Kenntnis genommen
+- TOP 5.5: Zuschuss an den Verein für Sport und Freizeit von 1975 Düsseldorf-Süd e.V. - einstimmig beschlossen
+- TOP 5.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Listen B+C - beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Nutzung stillgelegter IDR-Gleistrassen - Anfrage der Fraktion Bündnis 90/ Die Grünen - beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Repräsentationen 2023 - einstimmig beschlossen
+- TOP 9.2: VfL Benrath 06 e.V. - zwei Jugend-Fußballtore - einstimmig beschlossen
+- TOP 9.3: KGS Einsiedelstraße - Präventionstheater "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 9.4: Künstlergruppe K1.10 - Gemeinschaftsaustellung 2023 - einstimmig beschlossen
+- TOP 9.5: St-Cäcilia-Schule - Präventionstheater "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 9.6: BürgerStiftung Düsseldorf - Förderung Projekt Bolzplatzhelden Saison 2023 - Bezirk 09 - einstimmig beschlossen
+- TOP 9.7: Grundschule Schloss Benrath - Präventionstheater "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 9.8: Märchenfieber - "Hänsel und Gretel - Märchenfieber ermittelt" fünf Vorstellungen 2023 - einstimmig beschlossen
+- TOP 9.9: Verein Himmelgeist 1100 e.V. - Himmelgeister Jüchtlauf 2023 - einstimmig beschlossen
+- TOP 9.10: Lauftreff Düsseldorf-Süd - 15. Benrather Schlosslauf 2023 - einstimmig beschlossen
+- TOP 9.11: Paulsmühler Jecken e.V. - Veedelszoch 2023 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Fahrradabstellanlage an der Burscheider Straße - Beschluss der Bezirksvertretung 9 vom 26.08.2022; BV9/178/2022 - zur Kenntnis genommen
+- TOP 10.2: „Bänke gegen Einsamkeit“ - Beschluss der Bezirksvertretung 9 vom 26.8.2022; BV9/165/2022 - zur Kenntnis genommen
+- TOP 10.3: Carsharing-Parkplätze Ickerswarder Straße - Beschluss der Bezirksvertretung 9 vom 04.11.2022; BV9/238/2022 - zur Kenntnis genommen
+- TOP 10.4: „Drop-Off“-Zonen für die GGS Selma-Lagerlöf-Schule und der KGS Hermann-Gmeiner-Schule - Beschluss der Bezirksvertretung 9 vom 09.12.2022; BV9/275/2022 - zur Kenntnis genommen
+- TOP 10.5: Fußgängerüberwege Paulsmühlenstraße - Beschluss der Bezirksvertretung 9 vom 04.11.2022; BV9/231/2022 - zur Kenntnis genommen
+- TOP 10.6: Planung "Benrather Schloßufer" - Beschluss der Bezirksvertretung 9 vom 26.08.2022; BV9/181/2022 - zur Kenntnis genommen
+- TOP 10.7: Sachstand Planung "Umfeld Bahnhof Benrath" - Beschluss der Bezirksvertretung 9 vom 26.08.2022; BV9/182/2022 - zur Kenntnis genommen
