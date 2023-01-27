@@ -1,0 +1,95 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-01-27T14:00:00+01:00
+- Ende: 2023-01-27T18:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24144
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24144
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472622.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472622.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00472622.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 18.11.2022 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Sicherheit in der Düsseldorfer Innenstadt (SIDI) – Beleuchtungskonzept Altstadt - Empfehlung einstimmig beschlossen
+- TOP 4.3: Bebauungsplan-Vorentwurf Nr. 01/027 - Kö-Boulevard - Empfehlung einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - Empfehlung mehrheitlich beschlossen
+- TOP 4.6: Einsatz von Vier-Wagen-Zügen auf der Stadtbahnlinie U78 – Errichtung eines besonderen Bahnkörpers auf der Kaiserswerther Straße zwischen den Haltestellen „Kennedydamm“ und „Reeser Platz“ - Empfehlung mehrheitlich abgelehnt
+- TOP 4.7: Fortführung Umsetzung stationsbasierter Sharing-Angebote in der Innenstadt - abweichend beschlossen
+- TOP 4.8: Änderung Öffnungszeiten Schrankenanlage am Mannesmannufer - zur Kenntnis genommen
+- TOP 4.9: Kommunale Sozialberichterstattung Düsseldorf. Lebenssituation Kinder, Jugendliche und Familien – Monitoring 2015 bis 2020 - zur Kenntnis genommen
+- TOP 4.10: Veranstaltungen Burgplatz – Jahresprogramm 2023 - Empfehlung einstimmig beschlossen
+- TOP 4.11: Fischmärkte auf dem Tonhallenufer im Jahre 2023 - Empfehlung einstimmig beschlossen
+- TOP 4.12: Bücherbummel auf der Königsallee im Jahre 2023 - einstimmig beschlossen
+- TOP 4.13: Reisemarkt in den Schadow Arkaden am Sonntag, dem 12.02.2023 - einstimmig beschlossen
+- TOP 4.14: Bezirkssportanlage Hans-Böckler-Straße - Erneuerung des Kunstrasenbelags - einstimmig beschlossen
+- TOP 4.15: Repräsentationsaufwendungen der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 4.16: Berichtswesen Bezirksvertretung 1 - 1. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 4.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.18: Sachstandsinformation zur zukünftigen Verkehrsführung für zu Fuß Gehende und Radfahrende auf der Theodor-Heuss-Brücke - zur Kenntnis genommen
+- TOP 4.19: Goltsteinstraße Wiederherstellung nach Kanalbaumaßnahme - vertagt
+- TOP 4.20: Ausführungs- und Finanzierungsbeschluss Umgestaltung Kinderspielplatz Inselstraße - einstimmig beschlossen
+- TOP 4.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.22: Zulassung einer Vertretung des Jugendrates - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Leerstand Louise-Dumont-Straße 17 - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Sachstandsbericht Erweiterung Kunstakademie - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 6.2: Gebäude Bastionstraße 24 (Luisen-Gymnasium) - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 6.3: Umsetzung der Studie Sicherheit im Bahnhofsviertel (SiBa) der Bergischen Universität Wuppertal - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6.4: Stellensituation in den städtischen Kitas im Stadtbezirk 1 - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6.5: Trinkwasserbrunnen im Stadtbezirk 1 - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.6: Baulücke Oststr. 93 - Anfrage der SPD-Fraktion
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Parkhäuser im Stadtbezirk 1 - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Spielplätze im Maurice-Ravel-Park - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Verkehrssicherheit Wege im Berty-Albrecht-Park - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Nächtliche Ruhestörung im Gebiet der Rather Straße 23c-25 - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.4: Änderung der Parkbuchten entlang des Kolpingplatzes - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.5: Banner für das Goethe-Museum - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.6: Reinigungsplan für die Immermannstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.7: Größere Mülleimer auf der Immermannstr. - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.8: Bessere Ausschilderung öffentlicher Toiletten und City Toiletten im Stadtbezirk 1 - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.9: Sicherstellung einer Fußgängerquerungsmöglichkeit auf der Kaiserswerther Straße vor der St. Adolphus-Kirche zur anderen Seite - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.10: Umgestaltung des Platzes vor der St. Adolphus-Kirche (Kaiserswerther Straße) - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.11: Aufstellung von Fahradabstellanlagen auf dem Gehweg vor der St. Adolphus-Kirche (Kaiserswerther Straße) - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 7.12: Zusätzliche Fußgängerampel an der Ulmenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.13: Begrünung von Rheinbahn Haltestellenhäuschen - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.14: Nutzung von Parkflächen ansässiger Gewerbebetriebe für Anwohner - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen der Bezirksverwaltungsstelle 1
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Weniger Lärm, mehr Verkehrssicherheit und mehr Lebensqualität auf der Kaiserswerther Straße: Einführung von Tempo 30 km/h; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/074/2022 - zur Kenntnis genommen
+- TOP 8.3: Öffnung des Spielplatzzaunes an der Essener Straße zur Verbesserung der Schulwegsicherheit; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/077/2022 - zur Kenntnis genommen
+- TOP 8.4: Kirschbäume auf der Immermannstraße; Beschluss der Bezirksvertretung 1 vom 13.05.2022; BV1/112/2022 - zur Kenntnis genommen
+- TOP 8.5: Versetzung der Fahrradständer an der Hafenstraße 4; Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/189/2022 - zur Kenntnis genommen
+- TOP 8.6: Neugestaltung und Aufwertung des Parkplatzes Ecke Ulmenstraße / Collenbachstraße am Spichernplatz; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/080/2022 - zur Kenntnis genommen
+- TOP 8.7: Kennzeichnung Elektroladesäulen; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/255/2022 - zur Kenntnis genommen
+- TOP 8.8: Ausstattung der Bolzplätze mit Basketballkörben; Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/163/2022 - zur Kenntnis genommen
+- TOP 8.9: Verkehrsführung Nordstraße, Ecke Venloer Straße und Duisburger Straße; Beschluss der Bezirksvertretung 1 vom 10.06.2022; BV1/143/2022 - zur Kenntnis genommen
+- TOP 8.10: Schutz vor Vogelkot der unter einer Platane stehenden Sitzbank an der Ecke Immermannstraße/Oststr. 78; Beschluss der Bezirksvertretung 1 vom 30.09.2022; BV1/225/2022 - zur Kenntnis genommen
+- TOP 8.11: Mülleimeraufstellung Kreuzung Marienstraße/Kreuzstraße; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/266/2022 - zur Kenntnis genommen
+- TOP 8.12: Partyszene unterhalb der Franklinbrücke; Beschluss der Bezirksvertretung 1 vom 30.09.2022; BV1/229/2022 - zur Kenntnis genommen
+- TOP 8.13: Ausschaltung der Ampel der Querstraßen zwischen 01:00-05:00 Uhr, Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/273/2022 - zur Kenntnis genommen
+- TOP 8.14: Ampelphase Fußgänger Oststraße/Immermannstraße; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/265/2022 - zur Kenntnis genommen
+- TOP 8.15: Sportanlage am Frankenplatz; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/272/2022 - zur Kenntnis genommen
+- TOP 8.16: Erneuerung des Altstadtpflasters; Beschluss der Bezirksvertretung 1 vom 30.09.2022; BV1/221/2022 - zur Kenntnis genommen
+- TOP 8.17: Behinderungen auf dem Gehweg Ulmenstraße; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/264/2022 - zur Kenntnis genommen
+- TOP 8.18: Bauarbeiten im Stadtbezirk 1; Beschluss der Bezirksvertretung 1 vom 30.09.2022; BV1/228/2022 - zur Kenntnis genommen
+- TOP 8.19: Sonnenschutz für den Spielplatz Klosterstraße, Bezug: Stellungnahme der Verwaltung vom 04.09.2020 (BV1/208/2020); Beschluss der Bezirksvertretung 1 vom 30.09.2022; BV1/224/2022 - zur Kenntnis genommen
+- TOP 8.20: Vervollständigung der Parkraumbewirtschaftung in der Bendemannstraße; Beschluss der Bezirksvertretung 1 vom 28.01.2022; BV1/006/2022 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Rinde am Rhein - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Städtische Gemeinschaftsgrundschule Lennéstraße - einstimmig beschlossen
