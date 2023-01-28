@@ -62,4 +62,3 @@
 - [Anlage 1 (zu § 11 Absatz 2)Mindestsätze für die Einzelkostenansätze für die Ermittlung der Bewirtschaftungskosten](anlage-1.md)
 - [Anlage 2 (zu § 12 Absatz 2)Maximalsätze für die Nutzungsdauer in Deutschland belegener baulicher Anlagen](anlage-2.md)
 - [Anlage 3 (zu § 12 Absatz 4)Bei den Mindestkapitalisierungszinssätzen nach § 12 Absatz 4 für einzelne Nutzungsarten zu berücksichtigende Aufschläge](anlage-3.md)
-- [Anlage 4 (weggefallen)](anlage-4.md)
