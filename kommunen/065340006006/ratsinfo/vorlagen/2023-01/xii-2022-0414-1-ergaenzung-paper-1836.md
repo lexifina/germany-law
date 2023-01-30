@@ -1,0 +1,28 @@
+# Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2023, Investitionsprogramm 2022-2026
+
+- Körperschaft: Gemeinde Cölbe
+- Drucksache/Vorlage: XII-2022-0414 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-01-30
+- Ratsinformationssystem: https://rim.ekom21.de/coelbe/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQ7cU-clrEzziu1-fHv_Xo0
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/paper/1836
+- Quelle: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2023, Investitionsprogramm 2022-2026) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRXGxL0ByhVueHxGUaF0Ab8DgQv8cTxkngBNsdfjH9kB/Beschlussvorlage_XII-2022-0414_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Titelseite HPE 2023 nach Korrektur.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb_M_nlzrLieQ4hoUIccg_t089UM2yRCEcuE3PHZouSE/Titelseite_HPE_2023_nach_Korrektur.pdf.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushaltssatzung 2023.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRayrHvevq1yAfvOwtgG_jIEtSiDJLZK-NvmKRMRJIRB/Entwurf_Haushaltssatzung_2023.pdf.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushalt 2023_Stand 15.12.2022) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcndc7j9VUgN-uzqX0yTQ7DyGl9G5u3EF0kbDYJBtmsa/Entwurf_Haushalt_2023_Stand_15.12.2022.pdf
+- Anlage: Beschlussvorlage (Investitionsprogramm 2022-2026.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZnusDjHp3NkscrOCgsHaD4uuQt3oSu00lTeEJBS2XSu/Investitionsprogramm_2022-2026.pdf.pdf
+- Anlage: Beschlussvorlage (Stellenplan Teil A Beamtinnen und Beamte.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSwTTL45Omw_kdGfZL0QN8_W74Uif6DBVHBx_slvJssv/Stellenplan_Teil_A_Beamtinnen_und_Beamte.pdf.pdf
+- Anlage: Beschlussvorlage (Stellenplan Teil B Arbeitnehmerinnen und Arbeitnehmer.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe1EcV0DDE2hJtl7M1E9GQLs3wDJQZIoVgLkgT8qUig1/Stellenplan_Teil_B_Arbeitnehmerinnen_und_Arbeitnehmer.pdf.pdf
+- Anlage: Beschlussvorlage (Stellenplan Teil C Arbeitnehmerinnen und Arbeitnehmer S.u.E.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTtMmlF-BoK15P9EmhTIbWN5bb1ovA6jhHTtWCl_6z-F/Stellenplan_Teil_C_Arbeitnehmerinnen_und_Arbeitnehmer_S.u.E.pdf.pdf
+- Anlage: Beschlussvorlage (Stellenplan Teil D Zusammenstellung.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUXumnX3dRUfJ2c0JvUaIYtLcYoLP25A-dHj4Fho3wB6/Stellenplan_Teil_D_Zusammenstellung.pdf.pdf
+- Anlage: Beschlussvorlage (Stellenplan Erläuterungen.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYNeGvpYz2fJo9h8npIlyqOJUM0uDZw3Mv5xA0MosKwK/Stellenplan_Erlaeuterungen.pdf.pdf
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1533 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1531 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1532 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1530 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1541 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1542 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1543 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1540 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/3-10
