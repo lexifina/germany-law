@@ -1,0 +1,21 @@
+# Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2023, Investitionsprogramm 2022-2026
+
+- Körperschaft: Gemeinde Cölbe
+- Drucksache/Vorlage: XII-2022-0414 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-01-30
+- Ratsinformationssystem: https://rim.ekom21.de/coelbe/vorgang/?__=UGhVM0hpd2NXNFdFcExjZU6-rPHOx_fwzZbjYe-C2kc
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/paper/1856
+- Quelle: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2023, Investitionsprogramm 2022-2026) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVM9lfn2Dwx4YLYOkAB8ZwaezRqFAWkuGBAvE6vHhvZN/Beschlussvorlage_XII-2022-0414_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Zusammenstellung Änderungsanträge_Haushalt 2023.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfT-VLubipcboOBfxvzMzcK6ghCzkg_DPWU6BH8Z1M4g/Zusammenstellung_Aenderungsantraege_Haushalt_2023.pdf.pdf
+- Anlage: Beschlussvorlage (Zusammenstellung Stellungnahmen Ortsbeiräte_Kita.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbkyMW37rAq_2EWsuvHJblDhKvz6Sjr1xoiMBZ5ORJE5/Zusammenstellung_Stellungnahmen_Ortsbeiraete_Kita.pdf.pdf
+- Anlage: Beschlussvorlage (fortgeschriebene Haushaltssatzung 2023.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdZUULzau1odh47w-JIQMmFNSCAfc7MVXILpSB8TEAcV/fortgeschriebene_Haushaltssatzung_2023.pdf.pdf
+- Anlage: Beschlussvorlage (fortgeschriebener Ergebnis- und Finanzhaushalt.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX1aK3fsGVAxx6A9oAaGe4rr8vH7_FTf0NLjpzZz5w9c/fortgeschriebener_Ergebnis-_und_Finanzhaushalt.pdf.pdf
+- Anlage: Beschlussvorlage (fortgeschriebenes Investitionsprogramm 2022-2026.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZayNgpSEFlO41fApkcrkMloms1e6egkOdW1LZneE-B3e/fortgeschriebenes_Investitionsprogramm_2022-2026.pdf.pdf
+- Anlage: Beschlussvorlage (Haushaltsvorbericht.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW6q2swjG1CNAhZiviklqyUvFkfCJljEm16KbBdD3T7N/Haushaltsvorbericht.pdf.pdf
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1541 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1542 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1543 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1540 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/3-10
