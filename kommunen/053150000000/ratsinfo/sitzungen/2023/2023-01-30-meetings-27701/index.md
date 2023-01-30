@@ -1,0 +1,82 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-30T16:00:00+01:00
+- Ende: 2023-01-30T17:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27701
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27701
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO NRW - Velogleise im Stadtbezirk Lindenthal, Aktenzeichen 109/22 S - Kenntnis genommen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: ÖPNV für Klettenberg- Busse-On-Demand (Az.: 02-1600- 49-22) - ungeändert beschlossen
+- TOP 5.3: Bürgereingabe gem. § 24 GO, betr.: Trennung Stadtbahnlinien 7 und 13 (Az.: 02-1600-47-22) - ungeändert beschlossen
+- TOP 5.4: Bürgereingabe nach § 24 GO NRW – Fahrradweg/Radfahrschutzstreifen Luxemburger Straße, Aktenzeichen 152/22 - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Grünstreifen Gleueler Bach - endgültig zurückgezogen
+- TOP 8.1.1.1: Ersetzungsantrag zu 8.1.1 - ungeändert beschlossen
+- TOP 8.1.2: Einrichtung einer Lichtsignalanlage Eupener Straße / Widdersdorfer Straße - geändert beschlossen
+- TOP 8.1.3: Erhalt der pädagogisch Sonnenuhr auf dem Gelände des APG - geändert beschlossen
+- TOP 8.1.4: Sicherung zweier Geh- und Radwege in Lövenich (Zaunstraße und Mittelweg) - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Aufwertung Platz der Kinderrechte in Köln-Sülz - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld und über die Empfehlungen zur Überarbeitung des Ergebnisses des städtebaulichen und freiraumplanerischen Wettbewerbs Max Becker-Areal - geändert beschlossen
+- TOP 9.2.1.1: Ergänzungsantrag zu 9.2.1 - ungeändert beschlossen
+- TOP 9.2.2: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Gebäudes zur Erweiterung des Berufskolleg Ehrenfeld einschließlich 3-fach Sporthalle in Köln Ehrenfeld - ungeändert beschlossen
+- TOP 9.2.3: Förderprojekt 'Dasselbe in Grün' - aus grauer wird grüne Infrastruktur - geändert beschlossen
+- TOP 9.2.4: 285. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.5: Ordnungsbehördliche Verordnung für das Jahr 2023 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9.2.6: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - geändert beschlossen
+- TOP 9.2.6.1: Ergänzungsantrag zu 9.2.6 - ungeändert beschlossen
+- TOP 9.2.7: Bedarfsfeststellung zur Errichtung von Unterrichtsräumen durch Umbau des B-Traktes und zur Ausstattung der Räume am Hildegard-von-Bingen-Gymnasium, Leybergstraße 1, 50939 Köln-Sülz - ungeändert beschlossen
+- TOP 9.2.8: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 63454/02 - geändert beschlossen
+- TOP 9.2.8.1: Ergänzungsantrag zu 9.2.8 - ungeändert beschlossen
+- TOP 9.2.9: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung des Neubaus und der Einfachturnhalle für die Grundschule Alfons-Nowak-Str. 2, 50859 Köln-Junkersdorf im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Unterbinden des Parkens sowie Wiederherstellung des Grünstreifens am Gleueler Bach - Kenntnis genommen
+- TOP 11.2.2: Benennung eines Weges nach Helmut Lüßem in Köln-Müngersdorf - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Mitteilung "Energetische Ertüchtigung denkmalgeschützter Bauten" - Kenntnis genommen
+- TOP 11.3.2: Köln. Gestaltet. Miteinander - Erfolgreicher Auftakt des ersten Konsultationskreises für die Außengastronomie - mit der Stadtverwaltung, der Gastronomie, den Behindertenverbänden und der Politik - zum Sachstand und zur Methodik - Kenntnis genommen
+- TOP 11.3.3: Straßenkarneval 2023 - Kenntnis genommen
+- TOP 11.3.4: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 11.3.5: Neufassung Mietvertrag - Kenntnis genommen
+- TOP 11.3.6: Mitteilung zu DE 4030/2022 - schulrechtliche Änderung mehrerer Gymnasien ab den Schuljahren 2023/24 und 2024/25 - Kenntnis genommen
+- TOP 11.3.7: Durchführung einer europaweiten Markterkundung - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen
+- TOP 12.1: Linien 7 und 1 - zurückgestellt
+- TOP 12.2: Projekte zur Wasserwende - zurückgestellt
+- TOP 12.3: Zuständigkeiten bei der Reinigung und dem Einhalten der Verkehrssicherungspflicht des öffentlichen Raumes - zurückgestellt
+- TOP 12.4: Masterplan Grüngürtel Impuls 2012 - Infrastruktur - zurückgestellt
+- TOP 12.5: Barrierefreie Umgestaltung von Fuß- und Radwegbrücken - zurückgestellt
+- TOP 12.6: Anfrage Gymnasium Zusestraße - zurückgestellt
+- TOP 12.7: Parksituation Einsatzfahrzeuge Franz-Kremer-Stadion - zurückgestellt
+- TOP 12.8: Anfrage Erhaltungssatzung Müngersdorf - zurückgestellt
+- TOP 12.9: Baumfällungen - zurückgestellt
+- TOP 12.10: Lindenburger Allee - zurückgestellt
+- TOP 12.11: Barrierefreie WBS-Wohnungen - zurückgestellt
+- TOP 12.12: Liegehalle Freiluga - zurückgestellt
+- TOP 12.13: Anfrage Saarstraße - zurückgestellt
+- TOP 12.14: Planungsstand Skatepark Widdersdorf - zurückgestellt
