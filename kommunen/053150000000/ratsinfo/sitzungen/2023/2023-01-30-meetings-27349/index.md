@@ -1,0 +1,67 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-30T17:00:00+01:00
+- Ende: 2023-01-30T18:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27349
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27349
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Total E-Quality Prädikat - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - zurückgestellt
+- TOP 2.2: Tätigkeitsbericht 2022 des Büros für Europa und Internationales - zurückgestellt
+- TOP 2.3: Information zum weiteren Vorgehen bei der Unterstützung der Stadt Dnipro - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen und Volt (AN/1815/2022) betreffend "Qualifizierungsangebote Diskriminierungsfreies Handeln im Schulungsprogramm der Stadt Köln" - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage der SPD Fraktion (AN/1839/2022) betreffend "Ausbau und Sicherstellung der Betreuung in der Bildungskette" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage der FDP Fraktion (AN/2165/2022) betreffend "Antikorruptionsrichtlinien der Stadt Köln" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer Anfrage der SPD Fraktion (AN/2190/2022) betreffend "Maßnahme des Ordnungsdienstes der Stadt Köln im Cinenova"am 20.11.2022 - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Anfrage der AfD Fraktion (AN/2187/2022) betreffend "Kontrollen durch Polizei, Ordnungsamt und weitere Behörden" - Kenntnis genommen
+- TOP 3.6: Beantwortung einer Anfrage der FDP Fraktion (AN/2182/2022) betreffend "Multifunktionales Kundenzentrum" - Kenntnis genommen
+- TOP 3.7: Beantwortung einer Anfrage der Fraktion DIE FRAKTION (AN/0905/2022) betreffend "Reversible Haarnadeln" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: - - Kenntnis genommen
+- TOP 4.2: Sponsoringrichtlinie - zurückgestellt
+- TOP 4.3: Projekt Personalrisikomanagement - Fazit - Kenntnis genommen
+- TOP 4.4: Straßenkarneval 2023 - Kenntnis genommen
+- TOP 4.5: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 4.6: Mitteilung zu DE 4030/2022 - schulrechtliche Änderung mehrerer Gymnasien ab den Schuljahren 2023/24 und 2024/25 - Kenntnis genommen
+- TOP 4.7: Erhöhung der Ausbildungsquote von Menschen mit Behinderung - Kenntnis genommen
+- TOP 4.8: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 17. Januar 2023 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfragen aus vorherigen Sitzungen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage der FDP-Fraktion betreffend "Synergieeffekte zum Schutz der Mitarbeiterinnen und Mitarbeiter nutzen" - zurückgestellt
+- TOP 6.2.2: Anfrage der SPD-Fraktion betreffend "Kostenentwicklung externe Beauftragungen" - zurückgestellt
+- TOP 6.3: Abgeschlossene Anfragen
+- TOP 6.3.1: Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - Sache ist erledigt
+- TOP 6.3.2: Gruppenbezogene Menschenfeindlichkeit in Köln – Politisch motivierte Kriminalität - rechts (PMK-rechts) - Sache ist erledigt
+- TOP 6.3.3: Antragsstau bei den Ausländerämtern in Köln: Werden nun endlich Stellen zugesetzt? - Sache ist erledigt
+- TOP 6.3.4: Umsetzung der EU-Whistleblower-Richtlinie in Köln - Sache ist erledigt
+- TOP 6.3.5: Arbeitskräftemangel bei der Stadt: Aktuelle Personalsituation - Sache ist erledigt
+- TOP 6.3.6: Qualifizierungsangebote Diskriminierungsfreies Handeln im Schulungsprogramm der Stadt Köln - Sache ist erledigt
+- TOP 6.3.7: Antikorruptionsrichtlinien der Stadt Köln - Sache ist erledigt
+- TOP 6.3.8: Multifunktionales Kundenzentrum - Sache ist erledigt
+- TOP 6.3.9: Kontrollen durch Polizei, Ordnungsamt und weitere städtische Behörden - Sache ist erledigt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Anfrage der StadtAG LST betreffend: "Qualifizierungsangebote Diskriminierungsfreies Handeln im Schulungsprogramm der Stadt Köln"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Fraktionen: Bündnis 90//Die Grünen, CDU, SPD, Die Linke, FDP, Volt betreffend "Beitritt zur Kampagne der Menschenrechtsstädte" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2023 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Mitgliedschaft der Gebäudewirtschaft der Stadt Köln beim Deutschen Institut für Interne Revision e.V. (DIIR), Theodor-Heuss-Allee 108, 60486 Frankfurt am Main - ungeändert beschlossen
+- TOP 10.2: Ordnungsbehördliche Verordnung für das Jahr 2023 über das Offenhalten von Verkaufsstellen an Sonntagen - ohne Votum in nachfolgende Gremien
+- TOP 10.3: 'Integrationsbudget' - Verteilung der Finanzmittel in den Haushaltsjahren 2023 und 2024 - ungeändert beschlossen
+- TOP 10.4: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 11.1: Bedarfsfeststellungsbeschluss zur Vergabe von Leistungen für den Themenbereich Sicherheit im Rahmen der Vorbereitung und Durchführung der Fußball EM 2024
+- TOP 11.2: ECAS/Afrika-Festival "African Futures"
