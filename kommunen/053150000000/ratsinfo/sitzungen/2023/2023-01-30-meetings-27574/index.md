@@ -1,0 +1,72 @@
+# 20. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-30T17:00:00+01:00
+- Ende: 2023-01-30T20:40:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal Nebeneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27574
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27574
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Sachstand/Austausch zum Verkehrsversuch Venloer Straße
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe nach § 24 GO "Zigarettenkippensammler und Sensibilisierung Bürger*innen über Schadstoffe, Lenauplatz Aktenzeichen 123/22 B" - geändert beschlossen
+- TOP 3.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Coty-Areal in Köln-Bickendorf - Partizipativer Leitbildprozess und Beteiligungsformate, AZ.: - Kenntnis genommen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Gefährliche Verkehrssituation an der Weinsbergstraße - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion; Sachstand B-Plan Heliosgelände - Sache ist erledigt
+- TOP 6.4.1: Beantwortung der Anfrage der SPD-Fraktion in der Bezirksvertretung Ehrenfeld vom 31. Oktober 2022, betr. Sachstand B-Plan Heliosgelände - Kenntnis genommen
+- TOP 6.5: Anfrage der SPD-Fraktion, betr.: Aufstockpotenziale für bezahlbares Wohnen im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.6: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.7: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Gemeinsame Anfrage der Fraktionen Bündnis 90/Die Grünen, der SPD-Fraktion, der Fraktion die Linke/die Partei, - zurückgestellt
+- TOP 7.1.1: Beantwortung der gemeinsamen Anfrage der Fraktionen Bündnis 90/Die Grünen, der SPD, Die Linke/ Die Partei und der Einzelmandatsträger Elke Schroeder (KlimaFreunde) und Marlis Poettgen (FDP) betr. Sachstand Bebauungsplan "Sicherung der Clubkultur" - zurückgestellt
+- TOP 7.2: Gemeinsame Anfrage der Fraktionen Bündnis 90/Die Grünen, der SPD-Fraktion, der Fraktion die Linke/die Partei, der Einzelmandatsträgerin Elke Schroeder (KlimaFreunde) und der Einzelmandatsträgerin Marlies Pöttgen (FDP): - Sache ist erledigt
+- TOP 7.2.1: Beantwortung der gemeinsamen Anfrage der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/Die Partei, Einzelmandatsträger Elke Schroeder (KlimaFreunde) und Marlis Poettgen (FDP) betr. Sachstand Bauvorhaben Aldi Grüner Weg 2 - Kenntnis genommen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktionen Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARETI, CDU-Fraktion, Fr. Schroeder (KF), Fr. Pöttgen und Hr. Scholz: Instandsetzung des Bolzplatzes auf dem Spielplatz Schönsteinstraße - Sache ist erledigt
+- TOP 8.2: Antrag von Elke Schroeder (KLIMA FREUNDE) betr.: Hinweisschilder „Parken und Halten auf Radschutzstreifen und Radwegen“ - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrssicherheit für Fußgänger*innen Herkulesstraße - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion, betr.: Verkehrsversuch Venloer Straße - geändert beschlossen
+- TOP 8.5: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion, betr.: : Radverkehrskonzept und Straßenerhaltungsmaßnahmen bündeln - geändert beschlossen
+- TOP 8.5.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 8.5 - Sache ist erledigt
+- TOP 9: Entscheidungen
+- TOP 9.1: Beschaffung Straßenzusatzschilder "Nordschleswig-Viertel" Neuehrenfeld - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Venloer Straße / Nördlich Arnoldshof in Köln-Bocklemünd/Mengenich - geändert beschlossen
+- TOP 10.1.1: Ergänzungsantrag der SPD-Fraktion zu TOP 10.1 - endgültig zurückgezogen
+- TOP 10.1.2: Gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion zu TOP10.1 - geändert beschlossen
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld und über die Empfehlungen zur Überarbeitung des Ergebnisses des städtebaulichen und freiraumplanerischen Wettbewerbs Max Becker-Areal - geändert beschlossen
+- TOP 10.2.1: Änderungsantrag der CDU-Fraktion zum TOP 10.2 - endgültig zurückgezogen
+- TOP 10.2.2: Mitteilung der Verwaltung zur Stellungnahme des LVR zum Ehrenfelder Kugelgasbehälter - Kenntnis genommen
+- TOP 10.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Gebäudes zur Erweiterung des Berufskolleg Ehrenfeld einschließlich 3-fach Sporthalle in Köln Ehrenfeld - ungeändert beschlossen
+- TOP 10.4: Städtebauliches Planungskonzept (VEP) Lerchenweg/Schaffrathsgasse Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes (VEP) - zurückgestellt
+- TOP 10.5: 285. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.6: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Widdersdorfer Straße 158 und 188a in Köln-Ehrenfeld - zurückgestellt
+- TOP 10.7: Ordnungsbehördliche Verordnung für das Jahr 2023 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 10.8: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - zurückgestellt
+- TOP 10.9: Aufstellung und Einrichtung des für das Gymnasium Rochusstraße 145 bereits bestellten Modulbaus am Standort Eitorfer Straße zur Nutzung durch das Berufskolleg 10 und entsprechende Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Mitteilung "Energetische Ertüchtigung denkmalgeschützter Bauten" - Kenntnis genommen
+- TOP 12.2: Köln. Gestaltet. Miteinander - Erfolgreicher Auftakt des ersten Konsultationskreises für die Außengastronomie - mit der Stadtverwaltung, der Gastronomie, den Behindertenverbänden und der Politik - zum Sachstand und zur Methodik - Kenntnis genommen
+- TOP 12.3: Anmietung von Räumlichkeiten für die Förderschulen Auguststr. 1, 50733 Köln, und Rochusstr. 80, 50827 Köln (derzeit aufgrund Überflutung ausgelagert in die Paul-Humburg-Str. 13, 50737 Köln) - Kenntnis genommen
+- TOP 12.4: Neufassung Mietvertrag - Kenntnis genommen
+- TOP 12.5: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 12.6: Mitteilung zu DE 4030/2022 - schulrechtliche Änderung mehrerer Gymnasien ab den Schuljahren 2023/24 und 2024/25 - Kenntnis genommen
+- TOP 12.7: Bauvorhaben Vogelsanger Str. 406 - Kenntnis genommen
+- TOP 12.8: Photovoltaikanlage auf dem Ossendorfbad - Kenntnis genommen
+- TOP 13: mündliche Anfragen
