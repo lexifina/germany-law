@@ -1,0 +1,113 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-30T17:00:00+01:00
+- Ende: 2023-01-30T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27796
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27796
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Wahl einer zweiten stellvertretenden Bezirksbürgermeisterin/ eines zweiten stellvertretenden Bezirksbürgermeisters §§ 36 Abs. 3 Satz 2, § 67 Abs. 2 i.V.m § 50 Abs. 2 GO NRW
+- TOP -: B Einführung und Verpflichtung der zweiten stellvertretenden Bezirksbürgermeisterin/des zweiten stellvertretenden Bezirksbürgermeisters gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 der Hauptsatzung der Stadt Köln
+- TOP -: C Auswertung der "Hallo Nachbar"- Mitmach-Ausstellung "Erkunde die Stadt mit all Deinen Sinnen"
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Dienst- und Geschäftsordnung des Verkehrsdienstes Köln
+- TOP 1.2: Neubau der Brücke der Frankfurter Straße (B 8) über die Stadtautobahn (B 55a)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO – Einrichtung einer wassergebundenen Wegedecke im Geschützten Landschaftsbestandteil LB 9.09 - Mutzbach am Gut Klosterhof sowie am Seniorenzentrum Herz-Jesu- Stift, Köln-Dünnwald - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Geänderte Vorfahrtregelung Kreuzung Maria-Himmelfahrt-Str./Isenburger Str./Schweinheimer Str. (Az.: 02-1600-161-22) - endgültig zurückgezogen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigung Leuchterstraße, Köln-Dünnwald (Az.: 02-1600-163-22) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Mögliches Taubenhaus Im Bereich Sonderburger Str./Arnsberger Str.; Beantwortung der Anfrage DIE LINKE - Kenntnis genommen
+- TOP 7.1.2: Sperrung der östlichen Steyler Straße in Holweide - Kenntnis genommen
+- TOP 7.1.3: Beantwortung der Anfrage AN/1181/2022 der Fraktion DIE LINKE vom 02.06.2022 zum Otto-Langen-Quartier - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer gemeinsamen Anfrage der SPD-Fraktion, der CDU-Fraktion und des Einzelmandsträgers Tücks (FDP) in der Bezirksvertretung Mülheim (AN/1757/2022) zur Versorgungsinfrastruktur für Senior*innen - Kenntnis genommen
+- TOP 7.1.5: Anfrage der Fraktionen BÜNDNIS 90/DIE GRÜNEN, DIE LINKE sowie der Einzelmandatsträger der PARTEI in der Bezirksvertretung Mülheim - Kenntnis genommen
+- TOP 7.1.6: Umsetzung des Beschlusses des Betriebsausschusses der Gebäudewirtschaft vom 02.12.2019 zu Photovoltaikanlagen - zu AN/1640/2022 - Kenntnis genommen
+- TOP 7.1.7: Zustand des Rad- und Fußgängerweges B8 zwischen Köln-Stammheim & -Flittard - Kenntnis genommen
+- TOP 7.1.8: Beantwortung der Anfrage AN/1143/2022: BV-Beschlüsse umsetzen, Wettbüros einschränken - Kenntnis genommen
+- TOP 7.1.9: Beantwortung der Anfrage AN/2521/2021 der Fraktion Die Linke in der Bezirksvertretung Köln-Mülheim, Anschaffung von Luftfiltergeräten für Schulen im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.1.10: Baubeginn Baumwollbleicherei in Köln-Holweide - Kenntnis genommen
+- TOP 7.1.11: Beantwortung einer Anfrage der BV Mülheim zur Aufwertung des Wiener Platzes (AN/1155/2022) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Geschwindigkeitsmessanlagen und Rotlichtüberprüfungsanlagen an der Kreuzung B8 Dünnwalder Kommunalweg/Stammmheimer Hauptstraße - Kenntnis genommen
+- TOP 7.2.2: Kita Züricher Weg Bruder-Klaus-Siedlung - Kenntnis genommen
+- TOP 7.2.2.1: Beantwortung AN/2314/2022 Kita Züricher Weg Bruder-Klaus-Siedlung - Kenntnis genommen
+- TOP 7.2.3: Baumaßnahmen / Sanierungsstand an der Gesamtschule Holweide - Kenntnis genommen
+- TOP 7.2.3.1: Baumaßnahmen / Sanierungsstau an der Gesamtschule Holweide - zur Anfrage der SPD-Fraktion, der CDU-Fraktion und der FDP-Fraktion AN/0058/2023 - Kenntnis genommen
+- TOP 7.2.4: Blitzerbilanz im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.2.5: Landflächen im Besitz der Stadt - Kenntnis genommen
+- TOP 7.2.6: Erbbaurecht Rückabwicklung - Kenntnis genommen
+- TOP 7.2.7: Internationales Gold-Wing Treffen - Kenntnis genommen
+- TOP 7.2.8: Sanktionierung des illegalen Gehwegparkens - Kenntnis genommen
+- TOP 7.2.9: Planung neuer Straßenbahntrassen - Kenntnis genommen
+- TOP 7.2.10: Carsharing in Mülheim - Kenntnis genommen
+- TOP 7.2.11: Schwammstadt Mülheim – Örtliche Versickerung - Kenntnis genommen
+- TOP 7.2.12: Schulsport im Bezirk Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.13: Sport- und Schwimmvereine in Zeiten der Energiekrise - Kenntnis genommen
+- TOP 7.2.14: Personalsituation in Kindertagesstätten - Kenntnis genommen
+- TOP 7.2.15: Sachstand des Lehrschwimmbeckens an der Tiefentalstraße - Kenntnis genommen
+- TOP 7.2.15.1: Sachstand des Lehrschwimmbeckens an der Tiefentalstraße - zu AN/0159/2023 - Kenntnis genommen
+- TOP 7.2.16: KVB-Fahrplananpassungen zum 01.03.2023 - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Überquerungshilfen an der Bergisch Gladbacher Straße in Köln-Dellbrück - geändert beschlossen
+- TOP 8.1.2: Verkehrssicherung Wasserwerkstraße - endgültig abgelehnt
+- TOP 8.1.3: MIV-Verkehrsaufkommen auf der Dünnwalder Str. senken - ungeändert beschlossen
+- TOP 8.1.4: Die Kliniken der Stadt Köln gGmbH vor Privatisierung schützen - zurückgestellt
+- TOP 8.1.5: Hindernisfreie Durchfahrt für Fahrradfahrende von der Bachstraße zur Mülheimer Freiheit bzw. Deutz-Mülheimer Straße - ungeändert beschlossen
+- TOP 8.1.6: Aufstellen mehrerer Sitzbänke unweit des Faulbachs im Bereich einer Grünfläche in Köln- Buchheim - ungeändert beschlossen
+- TOP 8.1.7: Überprüfung von Barrierefreiheit bzw. Verkehrssicherheit der Übergänge zu den kleinen Stichstraßen entlang des Elisabeth Schäfer- Weges - ungeändert beschlossen
+- TOP 8.1.8: Rechtsstaatliche Urteile akzeptieren & Gesundheit schützen - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Benennung eines Weges im Bebauungsplan Sigwinstraße in Köln-Höhenhaus
+- TOP 9.1.2: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Mülheim gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen - zurückgestellt
+- TOP 9.1.3: Sportanlage Burgwiesenstraße - Kunststoffrasen Belagserneuerung - ungeändert beschlossen
+- TOP 9.1.4: Container Wuppertaler Straße 15 - zurückgestellt
+- TOP 9.1.5: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2023; Vorzeitige Vergabe von bereits vorliegenden Anträgen - ungeändert beschlossen
+- TOP 9.1.6: Sportanlage Roggendorfstraße - Kunststoffrasen Belagserneuerung - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ungeändert beschlossen
+- TOP 9.2.2: Baubeschluss für den Ersatzneubau der Brücke Frankfurter Straße (B 8) über die B 55a - ungeändert beschlossen
+- TOP 9.2.3: Ordnungsbehördliche Verordnung für das Jahr 2023 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9.2.4: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - zurückgestellt
+- TOP 9.2.5: Sportentwicklungsplanung - Modellprojekt Sanierung Rendsburger Platz - ungeändert beschlossen
+- TOP 9.2.6: Schulrechtliche Änderung der Schule Thymianweg (FSL) in Köln-Höhenhaus durch Schließung des Teilstandortes Berliner Str. 36, 51149 Köln bei gleichzeitiger Errichtung einer neuen Förderschule Lernen am Standort Berliner Straße in Köln- Westhoven - ungeändert beschlossen
+- TOP 9.2.7: verschoben nach 9.1.4
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Verkehrskonzept für die Sanierung der Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.4: Elternbefragung "von4nach5" 2022 - Kenntnis genommen
+- TOP 10.2.5: Ausführungsplanung Platz an der Herler Straße - Kenntnis genommen
+- TOP 10.2.6: Zeisbuschweg in Köln-Höhenhaus - Kenntnis genommen
+- TOP 10.2.7: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 10.2.8: Strategie Klimaneutrales Köln - Kenntnis genommen
+- TOP 10.2.9: Mitteilung "Energetische Ertüchtigung denkmalgeschützter Bauten" - Kenntnis genommen
+- TOP 10.2.10: Anfrage der SPD-Fraktion aus der Sitzung des Stadtentwicklungsausschusses am zu Altlasten im Lindgens-Areal, Mülheimer Süden vom 02.12.2022 - Kenntnis genommen
+- TOP 10.2.11: 9. Runder Tisch Radverkehr Mülheim, Niederschrift - Kenntnis genommen
+- TOP 10.2.12: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Trinkwasserbrunnen Wiener Platz, Az.: 127/22 S - Kenntnis genommen
+- TOP 10.2.13: Öffentlichkeitsveranstaltung Mülheimer Süden am 21.05.2022 - Kenntnis genommen
+- TOP 10.2.14: Köln. Gestaltet. Miteinander - Erfolgreicher Auftakt des ersten Konsultationskreises für die Außengastronomie - mit der Stadtverwaltung, der Gastronomie, den Behindertenverbänden und der Politik - zum Sachstand und zur Methodik - Kenntnis genommen
+- TOP 10.2.15: Neufassung Mietvertrag - Kenntnis genommen
+- TOP 10.2.16: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 10.2.17: Sachstandsbericht zum Beschluss der Bezirksvertretung Mülheim bürgerfreundliche Gestaltung Zugang zum Mülheimer Bezirksrathaus - Kenntnis genommen
+- TOP 10.2.18: Mitteilung zu DE 4030/2022 - schulrechtliche Änderung mehrerer Gymnasien ab den Schuljahren 2023/24 und 2024/25 - Kenntnis genommen
+- TOP 10.2.19: Antrag auf Errichtung eines Wohn- und Geschäftshaus und Tiefgarage Schanzenstraße 1 - Kenntnis genommen
+- TOP 10.2.20: Vorbereitende Maßnahmen für den Haltestellenausbau Birkenweg im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
