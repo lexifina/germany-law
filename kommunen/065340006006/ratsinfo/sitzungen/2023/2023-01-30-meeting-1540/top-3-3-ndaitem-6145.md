@@ -1,0 +1,6 @@
+# TOP 3.3: Leistung über- und außerplanmäßiger Aufwendungen im Ergebnishaushalt sowie über- und außerplanmäßiger Auszahlungen im Finanzhaushalt im Haushaltsjahr 2022
+
+- Sitzung: Gemeindevertretung (16. Sitzung) (2023-01-30)
+- Körperschaft: Gemeinde Cölbe
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/agendaitem/6145
