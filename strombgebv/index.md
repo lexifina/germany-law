@@ -3,4 +3,5 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gebührenerhebung](0001.md)
 - [§ 2 Auslagenerhebung](0002.md)
+- [§ 3 Übergangsregelungen und Verhältnis zu weiteren Gebührenverordnungen](0003.md)
 - [Anlage (zu § 1)Gebührenverzeichnis](anlage.md)

@@ -8,8 +8,7 @@
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Geltungsbereich](0003.md)
 - [§ 4 Anwendung des Rechts des Sitzstaats](0004.md)
-- [§ 5 Anwendung der Regelungen über die Mitbestimmung der Arbeitnehmer kraft
-Vereinbarung oder kraft Gesetzes](0005.md)
+- [§ 5 Anwendung der Regelungen über die Mitbestimmung der Arbeitnehmer kraft Vereinbarung oder kraft Gesetzes](0005.md)
 
 ## Teil 2 Besonderes Verhandlungsgremium
 
@@ -18,8 +17,7 @@ Vereinbarung oder kraft Gesetzes](0005.md)
 
 - [§ 6 Information der Leitungen](0006.md)
 - [§ 7 Zusammensetzung des besonderen Verhandlungsgremiums](0007.md)
-- [§ 8 Persönliche Voraussetzungen der auf das Inland entfallenden Mitglieder
-des besonderen Verhandlungsgremiums](0008.md)
+- [§ 8 Persönliche Voraussetzungen der auf das Inland entfallenden Mitglieder des besonderen Verhandlungsgremiums](0008.md)
 - [§ 9 Verteilung der auf das Inland entfallenden Sitze des besonderen
 Verhandlungsgremiums](0009.md)
 
@@ -34,11 +32,11 @@ Verhandlungsgremiums](0009.md)
 - [§ 13 Information über die Mitglieder des besonderen Verhandlungsgremiums](0013.md)
 - [§ 14 Sitzungen; Geschäftsordnung](0014.md)
 - [§ 15 Zusammenarbeit zwischen besonderem Verhandlungsgremium und Leitungen](0015.md)
-- [§ 16 Sachverständige und Vertreter von geeigneten außenstehenden
-Organisationen](0016.md)
+- [§ 16 Sachverständige und Vertreter von geeigneten außenstehenden Organisationen](0016.md)
 - [§ 17 Beschlussfassung im besonderen Verhandlungsgremium](0017.md)
 - [§ 18 Nichtaufnahme oder Abbruch der Verhandlungen](0018.md)
 - [§ 19 Niederschrift](0019.md)
+- [§ 19a Information über das Verhandlungsergebnis](0019a.md)
 - [§ 20 Kosten des besonderen Verhandlungsgremiums](0020.md)
 - [§ 21 Dauer der Verhandlungen](0021.md)
 
@@ -58,10 +56,11 @@ Organisationen](0016.md)
 - [§ 27 Rechtsstellung; Innere Ordnung](0027.md)
 - [§ 28 Tendenzunternehmen](0028.md)
 
-### Kapitel 3 Verhältnis zum nationalen Recht
+### Kapitel 3 Ergänzende Vorschriften
 
 - [§ 29 Fortbestehen nationaler Arbeitnehmervertretungsstrukturen](0029.md)
-- [§ 30 Nachfolgende innerstaatliche Verschmelzungen](0030.md)
+- [§ 30 Nachfolgende innerstaatliche Umwandlungen](0030.md)
+- [§ 30a Nachfolgende grenzüberschreitende Umwandlungen](0030a.md)
 
 ## Teil 4 Schutzbestimmungen
 
@@ -69,7 +68,8 @@ Organisationen](0016.md)
 - [§ 32 Schutz der Arbeitnehmervertreter](0032.md)
 - [§ 33 Errichtungs- und Tätigkeitsschutz](0033.md)
 
-## Teil 5 Straf - und Bußgeldvorschriften
+## Teil 5 Straf- und Bußgeldvorschriften, Übergangsvorschrift
 
 - [§ 34 Strafvorschriften](0034.md)
 - [§ 35 Bußgeldvorschriften](0035.md)
+- [§ 36 Übergangsvorschrift](0036.md)

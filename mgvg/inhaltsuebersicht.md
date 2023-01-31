@@ -37,6 +37,7 @@
 | § 17 | Beschlussfassung im besonderen Verhandlungsgremium |
 | § 18 | Nichtaufnahme oder Abbruch der Verhandlungen |
 | § 19 | Niederschrift |
+| § 19a | Information über das Verhandlungsergebnis |
 | § 20 | Kosten des besonderen Verhandlungsgremiums |
 | § 21 | Dauer der Verhandlungen |
 |  |
@@ -59,10 +60,11 @@
 | § 28 | Tendenzunternehmen |
 |  |
 | Kapitel 3 |
-| Verhältnis zum nationalen Recht |
+| Ergänzende Vorschriften |
 |  |
 | § 29 | Fortbestehen nationaler Arbeitnehmervertretungsstrukturen |
-| § 30 | Nachfolgende innerstaatliche Verschmelzungen |
+| § 30 | Nachfolgende innerstaatliche Umwandlungen |
+| § 30a | Nachfolgende grenzüberschreitende Umwandlungen |
 |  |
 | Teil 4 |
 | Schutzbestimmungen |
@@ -72,7 +74,8 @@
 | § 33 | Errichtungs- und Tätigkeitsschutz |
 |  |
 | Teil 5 |
-| Straf- und Bußgeldvorschriften |
+| Straf- und Bußgeldvorschriften, Übergangsvorschrift |
 |  |
 | § 34 | Strafvorschriften |
 | § 35 | Bußgeldvorschriften |
+| § 36 | Übergangsvorschrift |

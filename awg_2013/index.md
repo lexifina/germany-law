@@ -43,7 +43,7 @@
 
 ## Teil 4 Schlussvorschriften
 
-- [§ 29 Verkündung von Rechtsverordnungen](0029.md)
+- [§ 29 (weggefallen)](0029.md)
 - [§ 30 Anwendung unmittelbar geltender Vorschriften der Europäischen Union](0030.md)
 - [§ 31 Übergangsbestimmungen](0031.md)
 - [§ 32 Evaluierung der Änderungen durch das Erste Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze](0032.md)
