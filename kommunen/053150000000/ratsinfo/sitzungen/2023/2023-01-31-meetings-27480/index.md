@@ -1,0 +1,70 @@
+# 15. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-31T15:38:00+01:00
+- Ende: 2023-01-31T20:04:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27480
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27480
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde Otto-und-Langen-Quartier von zerstörerischem Vandalismus betroffen: Kölner Kulturerbe in Gefahr! - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Kulturgut für Köln erhalten – die vier historischen Rathausteppiche retten! - endgültig zurückgezogen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Generalinstandsetzung Kindertagesstätte Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven - Weiterplanungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Bestellung von Mitgliedern zur Jury des Holger Czukay Preises für Popmusik - ungeändert beschlossen
+- TOP 4.3: Freigabe von Finanzmitteln aus der Verteilung der Kulturförderabgabe 2023/2024 „Strukturförderung (Fortsetzung) Jazzfestival" - ungeändert beschlossen
+- TOP 4.4: Freigabe von Finanzmitteln aus dem polit. VN 2023/2024, Sparte Musik, Strukturförderung freie Musik: Kleinstförderung und unterjährige Förderung - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU, Volt - ungeändert beschlossen
+- TOP 4.5: Bedarfsfeststellungsbeschluss Waidmarkt - Vergabe externer Fachbüros zur Unterstützung der Teilprojekte und Fachdienststellen im Projekt Waidmarkt - zurückgestellt
+- TOP 4.6: Ergänzung von Konzeption und Geschäftsordnung der Jury des Holger Czukay Preises für Popmusik der Stadt Köln - ungeändert beschlossen
+- TOP 4.7: Bedarfsanerkennung für die Pilotierung der softwareunterstützten Formierung Kölner Fragmente (SUFKF) - ungeändert beschlossen
+- TOP 4.8: Mittelfreigabe Reallabor Westspitze - ungeändert beschlossen
+- TOP 4.9: Zuschuss für den Rosenmontagszug und die Straßendekoration an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 4.10: Strukturförderfonds 2023/2024 - Förderprogramm für Zuwendungen des Dezernates VII – Kunst und Kultur und des Kulturamtes zur Abmilderung der steigenden Personal- und Energiekosten in Folge des Ukraine-Krieges im Jahr 2023 - ungeändert beschlossen
+- TOP 4.11: Delmenhorster Straße 20, Mittel für den Umbau - ungeändert beschlossen
+- TOP 4.12: Vergabe der Konzeptionsförderung in der Sparte Kulturelle Teilhabe, Haushaltsjahre 2023-2026 - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Verwendung der Mittel aus dem Sonderausstellungsetat 2023 - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme der Schenkung „Sammlung Fotobücher von Hans Meyer-Veden" an die Kunst- und Museumsbibliothek der Stadt Köln - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 8.2: Mitteilung "Energetische Ertüchtigung denkmalgeschützter Bauten" - zurückgestellt
+- TOP 8.3: Sponsoringrichtlinie - Kenntnis genommen
+- TOP 8.4: Zwischenbilanzierung der Gesamtstrategie „Kölner Kinder stärken!“ zur Prävention von Kinder-, Jugend- und Familienarmut und Ausblick auf die strategische Weiterentwicklung in 2023 - Kenntnis genommen
+- TOP 8.5: Mitteilung der Verwaltung zur Stellungnahme des LVR zum Ehrenfelder Kugelgasbehälter - Kenntnis genommen
+- TOP 8.6: Jahresübersicht der Stadtbibliothek Köln 2022/2023 - Kenntnis genommen
+- TOP 8.7: Sachstand zum ehemaligen SA-Lager Am Hochkreuz - Kenntnis genommen
+- TOP 8.8: Aktueller Sachstand des Fachgespräches Haus Fühlingen - Kenntnis genommen
+- TOP 8.9: Geschäftsbericht 2020/2021 Kulturamt - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 4. Januar 2023 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM)
+- TOP -: Sachstand: Konzeption Römisch-Germanisches Museum - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Sachstand "Simultanhalle" - Kenntnis genommen
+- TOP 10.2: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU, Volt: Diversität in den städtischen kulturellen Institutionen - Kenntnis genommen
+- TOP 10.3: Beantwortung einer mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Optimierung der musealen Depots, Fortschreibung - zurückgestellt
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktion der SPD: Veräußerung historischer Gegenstände - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Fraktionen Bündnis90/Die Grünene, CDU, VOLT: Mittelvergabe Kulturentwicklungsplanung (KEP) - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der Fraktion der SPD: studiobühneköln - Kenntnis genommen
+- TOP 11.4: Schriftliche Anfrage der Fraktion der CDU: Werbemaßnahmen für (Sonder-) Ausstellungen - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien
+- TOP 12.2: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Ateliersituation & Atelierförderkonzept
+- TOP 12.3: Mündliche Anfrage der Fraktion der SPD: Art Factory
+- TOP 12.4: Mündliche Anfragen der Fraktion der CDU: Denkmalpflegeplan, Reparatur Marmorplatten, Historische Pumpe
+- TOP 12.5: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Zamus
