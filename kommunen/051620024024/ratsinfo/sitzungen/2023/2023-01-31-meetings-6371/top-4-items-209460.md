@@ -1,0 +1,7 @@
+# TOP 4: Akademisierung der Gesundheitsberufe in der medicoreha Dr. Welsink Akademie Neuss GmbH
+
+- Sitzung: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung (2023-01-31)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/209460
+- Ergebnis: zur Kenntnis genommen
