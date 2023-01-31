@@ -1,0 +1,71 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2023-01-31T17:00:00+01:00
+- Ende: 2023-01-31T00:00:00+01:00
+- Ort: Alte Synagoge
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1449
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1449
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00055961.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00057214.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der öffentlichen Niederschrift des Stadtrates vom 20.12.2022 - beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Verwaltungshaushalt
+- TOP 3.1: Beratung des Verwaltungshaushaltes 2023 mit Finanzplanung 2022 - 2026
+- TOP 3.1.1: Unterabschnitt 3400 - Anfrage von Stadträtin Schmidt
+- TOP 3.1.2: HHST 4341.7039 - Obdachlosenunterkünfte - Zuschuss Caritas und Diakonie zur sozialen Betreuung
+- TOP 3.1.3: HHST 5931.5161 - Unterhalt Skateplatz Bleichwasen
+- TOP 3.1.4: HHST 6300.6550 - Baumuntersuchungen
+- TOP 3.1.5: HHST 7901.6321 - Tourist-Info, Öffentlichkeitsarbeit
+- TOP 3.1.6: HHST 8801.6361 - Bebauter Grundbesitz - Verwaltungsvergütung Bau GmbH
+- TOP 3.2: Budgetfestlegungen
+- TOP 3.2.1: Budgetfestlegung für das Haushaltsjahr 2023; Budgets "Sachkosten Schulen" - UA 2111, 2112, 2131, 2132 und 2431 - beschlossen
+- TOP 3.2.2: Budgetfestlegung für das Haushaltsjahr 2023;Budget Musikschule - UA 3331 - - beschlossen
+- TOP 3.2.3: Budgetfestlegung für das Haushaltsjahr 2023; Budget der Alten Synagoge – UA 3420 - beschlossen
+- TOP 3.2.4: Budgetfestlegung für das Haushaltsjahr 2023; Budget der Volkshochschule - UA 3501 - - beschlossen
+- TOP 3.2.5: Budgetfestlegung für das Haushaltsjahr 2023 ; Budget Stadtbücherei - UA 3521 - beschlossen
+- TOP 3.2.6: Budget; SG 14 jungStil - Jugendarbeit der Stadt Kitzingen - beschlossen
+- TOP 3.2.7: Budgetfestlegung für das Haushaltsjahr 2023; Budget Gärtnerei - UA 5821 - - beschlossen
+- TOP 3.2.8: Budgetfestlegung für das Haushaltsjahr 2023; Budget Bauhof - UA 7711 - - beschlossen
+- TOP 3.2.9: Budgetfestlegung für das Haushaltsjahr 2023; Budget Touristinfo - UA 7901 - beschlossen
+- TOP 3.3: Anträge der Fraktionen zum Verwaltungshaushalt
+- TOP 3.3.1: Antrag des Beirates für Senioren und Menschen mit Behinderung zum Verwaltungshaushalt 2023 - beschlossen
+- TOP 4: Vermögenshaushalt
+- TOP 4.1: Beratung des Vermögenshaushaltes 2023 mit Finanzplanung 2022 - 2026
+- TOP 4.1.1: HHST 1400.9590 - Durchführung Schwachstellenanalyse zum Hochwasserschutz
+- TOP 4.1.2: HHST 2431.9452 - Generalinstandsetzung Friedrich-Bernbeck-Schule Anfrage von Stadtrat Sanzenbacher
+- TOP 4.1.3: HHST 3420.9631 - Konferenz-Mikrofontechnik Alte Synagoge für Stadtratssitzungen Anfrage von Stadtrat Sanzenbacher
+- TOP 4.1.4: HHST 3601.9580 - Renaturierung Rödelbach HHST 3601.9581 Renaturierung Sickerbach, Planungskosten Antrag von Stadtrat Sanzenbacher - beschlossen
+- TOP 4.1.5: HHST 4605.9420 - Neubau Haus für Jugend und Familie Anfrage von Stadtrat Sanzenbacher
+- TOP 4.1.6: HHST 5652.9450 - Generalsanierung Sportzentrum Sickergrund, Anfrage von Stadtrat Moser
+- TOP 4.1.7: HHST 5800.9550 - Realisierung Naherholungsbereich Sickergrund HHST 5931.9590 - Sickerpark Wettbewerb Anfrage von Stadträtin Schmidt
+- TOP 4.1.8: HHST 6101.9590 Allgemeine Gutachten, B-Plan und FNP-Änderung HHST 6101.9591 - Fortschreibung des Flächennutzungsplanes und des Landschaftsplanes Anfrage von Stadtrat Sanzenbacher
+- TOP 4.1.9: HHST 6300.9351 - Abstellmöglichkeiten f. E-Bikes und Lastenfahrräder Anfrage von Stadträtin Dr. Kramer-Grünwald
+- TOP 4.1.10: HHST 6300.9560 - Spurrillenbeseitigung Süd-/Westtangente Antrag von Stadträtin Dr. Kramer-Grünwald - abgelehnt
+- TOP 4.1.11: HHST 6315.9501 - Signalanlage Kreuzungspunkt ST2271/Panzerstraße Antrag von Stadträtin Dr. Kramer-Grünwald - beschlossen
+- TOP 4.1.12: HHST 6482.9560/9590 - Wettbewerb bzw. Bau- und Nebenkosten Alte Mainbrücke Anfrage von Stadtrat Paul
+- TOP 4.1.13: Anfrage von Stadtrat Pauluhn Mittel für eCar-Sharing
+- TOP 4.1.14: HHST 6306.9592 - Bahnhofsvorplatz Baunebenkosten Anfrage von Stadtrat Sanzenbacher
+- TOP 4.1.15: HHST 6309.9810 - Rückforderungen aus den Feststellungen des Obersten Rechnungshofes zum Bau der Nordtangente Anfrage von Stadtrat Sanzenbacher
+- TOP 4.1.16: HHST 6403.9560 - Neugestaltung Sickershäuser Straße im Bereich KiGa St. Vinzenz Antrag von Stadträtin Schmidt
+- TOP 4.1.17: HHST 7070.9030 - Zuführung zum Verwaltungshaushalt aus Sonderrücklagen Abwasserbeseitigung Anfrage von Stadtrat Paul
+- TOP 4.1.18: HHST 7711.9350 - Möbel Eingangsbereich und Treppenhaus Bauhof Anfrage von Stadtrat Sanzenbacher
+- TOP 4.1.19: HHST 8802.9410 - Abbruchkosten Alte Poststraße 30 Anfrage von Stadtrat Sanzenbacher
+- TOP 4.1.20: HHST 8802.9580 - Ertüchtigung Warehouse Anfrage von Stadtrat Paul
+- TOP 4.1.21: HHST 8810.9321 - Erwerb von Flächen u. a. für künftige Bau- und Gewerbegebiete Anfrage von Stadträtin Dr. Kramer-Grünwald
+- TOP 4.1.22: Anfrage von Stadtrat Paul Beschaffung einer Kehrmaschine auf verschiedenen Haushaltsstellen
+- TOP 4.2: Anträge der Fraktionen zum Vermögenshaushalt
+- TOP 4.2.1: Gemeinsamer Antrag der Fraktionen: FW - FBW Kitzingen, USW Kitzingen, Pro Kitzingen, Bayernpartei und Bürgermeisterin Astrid Glos zum Vermögenshaushalt 2023 - Ohne Abstimmung
+- TOP 4.2.1.1: HHST 3420.9631 - Konferenz-Mikrofon-Technik mit Videoübertragung u.a. für Stadtratssitzungen - beschlossen
+- TOP 4.2.1.2: HHST 5931.9580 - Errichtung eines Biberlehrpfades inkl. Biber-Rucksack - beschlossen
+- TOP 4.2.1.3: UA 6151 - Städtebauliche Sanierungs- und Entwicklungsmaßnahmen - abgelehnt
+- TOP 4.2.1.4: HHST 6709.9582 - Erneuerung und Erweiterung Straßenbeleuchtung auf LED
+- TOP 4.2.1.5: HHST 7622.9450 - PV Anlage Stadtteilzentrum Siedlung
+- TOP 4.2.1.6: HHST 6453.9502 - Verbreiterung Radweg Mainstockheim HST 8802.9452 - Sanierungskosten Herrnstraße 18 - abgelehnt
+- TOP 5: Beratung des Verwaltungs- und Vermögenshaushaltes 2023 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2022 - 2026
