@@ -1,0 +1,186 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-01-31T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7368288
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7368288
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Hansastr. 9
+- TOP 6.2.: Parkplatz Nestroystr./Hansastr./30erZone
+- TOP 6.3.: Parken Martin-Behaim-Straße
+- TOP 6.4.: Ampel Albert-Roßhaupter-Str. unter der S-Bahn-Unterführung
+- TOP 6.5.: Fußgängerunterführung Bahngleise Höhe Steinerstraße
+- TOP 6.6.: Kindersprechstunde BA 21
+- TOP 6.7.: Radarkontrolle Garmischer Str.
+- TOP 6.8.: Radwege Sendling-Westpark
+- TOP 6.9.: Glascontainer Schochenbergstr/Pfrontener Platz
+- TOP 6.10.: Weitere E-Ladestationen
+- TOP 6.11.: Abfallcontainer
+- TOP 6.12.: Dixie-Toilette Spielplatz an der Adunistr.
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) Energiesparen im öffentlichen Raum
+- TOP 8.2.: (E) Passauerstraße - Geschwindigkeitskontrollen mit Radargeräten
+- TOP 8.3.: (E) Margaretenstraße - Verbesserung der Verkehrssicherheit
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Freischankfläche Waldfriedhofstr.
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Projekt SüdpART “SüdpART – Die Münchner Naturkunst-Biennale vom 27.05-14.10.2023“ 2.000,00 € / AZ: 0262.0-7-0404
+- TOP 10.2.: (E) Stadtbezirksbudget Initiative SC Armin 2014er-Kinder “Fußball-Cup am Bodensee zum Ausgleich pandemiebedingter Benachteiligung vom 30.06.2023 – 02.07.2023“ 4.919,00 € / AZ: 0262.0-7-0405
+- TOP 10.3.: (E) Stadtbezirksbudget Hidalgo gGmbH “Street Art Song (im Rahmen des Kunstlied – Festivals HIDALGO) am 02.09.2023“ 1.500,00 € / AZ: 0262.0-7-0406
+- TOP 10.4.: (E) Stadtbezirksbudget Isarlust e.V. “Kulturlieferdienst vom 06.02.2023 – 31.12.2023“ 4.760,00 € / AZ: 0262.0-7-0409
+- TOP 10.5.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße “Robotik-Workshop für die 4. Klasse vom 01.01.2023 – 31.07.2023“ 800,00 € / AZ: 0262.0-7-0408
+- TOP 10.6.: (E) Stadtbezirksbudget SV 1880 München e.V. “Faschingsfeier SV 1880 Kinder und Jugend am 11.02.2023“ 1.587,50 € / AZ: 0262.0-7-0407
+- TOP 11.: Anträge
+- TOP 11.1.: Anfrage zur barrierefreien Erschließung der S-Bahn-Anlage als Gemeinschaftsprojekt von DB AG und LHM
+- TOP 11.2.: Beschilderung-Radroute-Baderseestraße
+- TOP 11.3.: Gehwegabsenkung-Fernpassstraße
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Ehrwalder Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 18.: Baureferat
+- TOP 18.1.: Ersatzneubau der Kreuzhofbrücken
+- TOP 18.2.: Fernpaßstr., Fahrbahnsanierung im Eigenbetrieb
+- TOP 18.3.: Hirnerstr.,Fahrbahnsanierung und Bauschadenbehebung
+- TOP 18.4.: Parkscheinautomaten-Standorte für die Parklizenzgebiete Eichendorffplatz, Nördliche Passauerstraße, Partnachplatz und Südliche Hansastraße
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Abschluss Sommerstraße 2022 und Aufruf für 2023
+- TOP 25.2.: Lermooser Weg/Alfred-Ludwig-Weg/Unterführung Ammerseestr.
+- TOP 25.3.: Mobilitätspunkte im Bezirk 07
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: Anhörung Beschlussvorlage Hochhausstudie 2023
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Antw. Baumlehrpfad heckenstallerpark
+- TOP 33.2.: Radabstellanlagen für Sendling-Westpark
+- TOP 33.3.: Bearbeitungsstand Nachtspaziergang
+- TOP 33.4.: Fahrbahnbelag Fernpaßstraße
+- TOP 33.5.: Radabstellanlage Ecke Drachensee/Albert-Roßhaupter.
+- TOP 33.6.: Abfallbehälter für Westpark und Sendlinger Wald
+- TOP 33.7.: Austausch von Sitzbänken im Westpark
+- TOP 33.8.: Radabstellanlage - Abstand zur Kreuzung
+- TOP 33.9.: Radabstellanlagen U-Bahn Station Westendstraße
+- TOP 33.10.: Antwortschreiben BSL:Dialogdisplay in Sendling-Westpark.
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 34.1.: Umgestaltung der Kreuzung Johann-Clanze-Str./ Luise-Kiesselbach-Platz
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Einmündung der Drachenseestr in die Albert-Roßhaupter-Straße
+- TOP 40.2.: BA-Antrag Radwegmarkierungen Zillertalstraße
+- TOP 40.3.: Workshop Mobilität mit dem Unterausschuss MuW des BA 07
+- TOP 40.4.: Antwortschreiben GarmischerStr_Radwegbeschilderung
+- TOP 40.5.: Mobilitätspunkte und Lastenräder
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Antwort. Ausbau Fernwärme
+- TOP 41.2.: Zwischennachtrag Windkraftanlagen
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Raumsituation Fernpaßschule
+- TOP 42.2.: Antw. Perioden-Hygiene-Artikel kostenfrei weiterführenden Schulen
+- TOP 42.3.: Gemeinsamer Termin in der GS Fernpaßstraße
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Luftreinhalteplan München
+- TOP 44.2.: Bau einer PV-Anlage
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Tram Westtankente
+- TOP 45.2.: Parkmeile Südpark-Warnberger Riedel-Terminanfrage Projektvorstellung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: STANDPUNKTE
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Baumentfernungen
+- TOP 49.2.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Haushaltsbeschluss 2023_Stadtbezirksbudget in 2023
+- TOP 51.2.: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP 51.3.: Kein Geldregen aus dem Morgenland - jetzt das Islamzentrum (ZIE-M) stoppen! Antrag Nr. 08-14 / A 02741 der BIA vom 31.08.2011
+- TOP 51.4.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen / Hybridsitzungen / Livestream / Konferenztechnik / Hybridkoffer
+- TOP 51.5.: Treffen mit Frau Bürgermeisterin Dietl am 11.01.2023
+- TOP 51.6.: Mieten Räumlichkeiten BA Sitzungen
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Mehrjahresinvestitionen
+- TOP 52.2.: Info Auswahlverfahren Kiosk
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: unveränderte Fortführung Celtis
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Anordnung Haltverbot Ecke Säuling-/Kreuzeckstraße
+- TOP 56.2.: Gefahrenstelle für Radler Unterführung Garmischer Straße
+- TOP 56.3.: Drehgenehmigung Westpark - Der Alte.
+- TOP 56.4.: Containerburg Hansastr.
+- TOP 56.5.: Konrad-Celtis-Str- Hol und Bringsituation Kita
+- TOP 56.6.: Ohlstadter Str. 24-36 Vollsperre
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 58.1.: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 58.2.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Ausnahmezulassungen
+- TOP 60.2.: Information Dieselfahrverbot
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 61.2.: Ergänzungsbeschluss zum Eckdatenbeschluss 2022 für den Haushalt 2023 1.) Dringende Personal- und Sachmittelbedarfe aus nicht anerkannten Anmeldungen des Eckdatenbeschlusses für den Haushalt 2023 1. Interkommunaler Flächenerwerb - Gründung eines Zweckverbandes 2. Klimaneutrales München 2035 3. Besondere informelle und förmliche Planungen / instrumente 4. Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 5. PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung Baumschule Gotthardstraße / Willibaldstraße 6. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 7. Senior*innenwohnen der Zukunft - Förderprogramm 8. Wohnen in München - Verlängerung der externen Beratungsstelle 9. Umsetzung Bestandssanierung städtische Wohnungsbaugesellschaften 10. Task Force Wohnungsbau 2.) Ausweitung des Zuschussprogramms "Barrierefreies Wohnen in München" 3.) Anträge
+- TOP 61.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 61.4.: Stärkung des Baumschutzes in München - Baumschutzbehörde PLAN IV/5 Personal- und Sachmittelbedarf
+- TOP 61.5.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 61.6.: Dringende Bedarfe LBK - Untere Bauaufsichtsbehörde - Untere Denkmalschutzbehörde Personal- und Sachmittelbedarf
+- TOP 61.7.: Urbanes Gärtnern in München StR-Anträge
+- TOP 61.8.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Zweckentfremdung-Hirsch-Gereuth-Str.
+- TOP 62.2.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2022 - 2026, Einzelplan 4 / Sozialbereich
+- TOP 62.3.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2022 - 2026 Einzelplan 4 / Jugendamtsbereich
+- TOP 62.4.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 62.5.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 62.6.: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 62.7.: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 62.8.: (U) Platz da für Mädchen* und junge Frauen* - Sicherheitsgefühl stärken „Platz da für Mädchen* und junge Frauen*“ Antrag Nr. 20-26 / A 03295 ... 3. Stadtbezirk Maxvorstadt 6. Stadtbezirk Sendling 7. Stadtbezirk Sendling-Westpark 10. Stadtbezirk Moosach 13. Stadtbezirk Bogenhausen 15. Stadtbezirk Trudering-Riem 17. Stadtbezirk Obergiesing–Fasangarten 20. Stadtbezirk Hadern 22. Stadtbezirk Aubing-Lochhausen-Langwied
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: RosaParkt stellt sich vor
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Abgeschlossenheitsbescheinigungen
