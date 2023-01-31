@@ -1,0 +1,82 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-01-31T14:05:00+01:00
+- Ende: 2023-01-31T15:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27351
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27351
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation von der Stadt AG Queerpolitik "Coming out...und so"
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Zusätzliche Zuschüsse zu den Betriebskosten von Kindertageseinrichtungen ab 01.08.2022 - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Fortsetzung des Live-Streams des öffentlichen Teils der Sitzungen des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 2.3.2: Jugendhilfeplanung der Kindertagesbetreuung 2023/24 als Grundlage für die Beantragung von Landeszuschüssen nach § 24 KiBiz (Kinderbildungsgesetz) - ungeändert beschlossen
+- TOP 2.3.3: Strukturförderfonds 2023 / 2024 - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung Bolzplatz Katharinenstraße in Köln-Godorf - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - zurückgestellt
+- TOP 4.2: Generalinstandsetzung Kindertagesstätte Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven - Weiterplanungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Sportentwicklungsplanung - Modellprojekt Sanierung Rendsburger Platz - ungeändert beschlossen
+- TOP 4.4: 'Integrationsbudget' - Verteilung der Finanzmittel in den Haushaltsjahren 2023 und 2024 - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Fördermittel für Kinder und Jugendliche aus Zuwanderer- und Flüchtlingsfamilien - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/2188/2022 "Fördermittel für Kinder und Jugendliche aus Zuwanderer- Flüchtlingsfamilien" - Kenntnis genommen
+- TOP 6.1.2: Ausbau und Sachstand Spielplätze Bocklemünd-Mengenich - Kenntnis genommen
+- TOP -: Ausbau und Sachstand Spielplätze Bocklemünd-Mengenich - Kenntnis genommen
+- TOP 6.1.3: Umsetzung des Landeskinderschutzgesetzes - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/2198/2022 Umsetzung des Landeskinderschutzgesetzes - Kenntnis genommen
+- TOP 6.1.4: Städtepartnerschaften und Jugendaustausch - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/2203/2022 "Städtepartnerschaften und Jugendaustausch" - zurückgestellt
+- TOP 6.1.5: Beantwortung der Anfrage der Falken zu Schüler*innen-Protesten - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Schutz und Angebote für Kinder und Jugendliche im Karneval - Kenntnis genommen
+- TOP -: Angebote der Jugendhilfe an Karneval 2023 - Kenntnis genommen
+- TOP 6.2.2: Fachkräftemangel und Strukturen in den städtischen Kitas Kölns - Kenntnis genommen
+- TOP -: Beantwortung der SPD Anfrage AN/0196/2023 Fachkräftemangel und Strukturen in den städtischen Kitas Kölns - Kenntnis genommen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Barrierefreiheit von Schulschwimmbädern - mündliche Nachfrage zu 3096/2022 aus der Sitzung des Jugendhilfeausschusses vom 25. Oktober 2022 - Kenntnis genommen
+- TOP 7.1.2: Kampagne der Landesmedienanstalt zu „safer-sexting“ - Kenntnis genommen
+- TOP 7.1.3: Bildungsmonitoring, Inklusionsentwicklung an Kölner Schulen: Förderquote im 1. Schulbesuchsjahr - Kenntnis genommen
+- TOP 7.1.4: Beantwortung zur Frage zur Auswertung Beschwerden über die Arbeit des ASD, des PKD, des GSD und im Bereich BE - Kenntnis genommen
+- TOP 7.1.5: Umgestaltung des Spielplatzes Am Rolshover Hof in Köln-Poll hier: Anfrage aus dem Jugendhilfeausschuss - Kenntnis genommen
+- TOP 7.1.6: Sachkostenerstattung in der Kindertagespflege - Kenntnis genommen
+- TOP 7.1.7: Beantwortung einer mündlichen Nachfrage zu AN/1685/2022 Sachstand Kostenheranziehung für Pflege- und Heimkinder - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Mündliche Anfrage des JAEB für JHA am 31.01.2023 - Kenntnis genommen
+- TOP -: Anfrage des JAEB zu Kita-Betreuungszeiten - Kenntnis genommen
+- TOP 7.2.2: Weitere mündliche Anfragen in der JHA-Sitzung am 31.01.2023
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Resümee zum Bundesprogramm Kita-Einstieg in Köln - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Jahresbericht 2021 Kölner Haus des Jugendrechts - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Sponsoringrichtlinie - Kenntnis genommen
+- TOP 8.5.2: Weiteres Bevölkerungswachstum in Köln bis zum Jahr 2050 - Kenntnis genommen
+- TOP 8.5.3: Berichte zur Situation Geflüchteter - Kenntnis genommen
+- TOP 8.5.4: Zwischenbilanzierung der Gesamtstrategie „Kölner Kinder stärken!“ zur Prävention von Kinder-, Jugend- und Familienarmut und Ausblick auf die strategische Weiterentwicklung in 2023 - Kenntnis genommen
+- TOP 8.5.5: Rahmenkonzept Familiengrundschulzentren und Entwicklungsperspektiven - Kenntnis genommen
+- TOP 8.5.6: "Weichenstellung Gaming-Standort", AN /1795/2021 - Kenntnis genommen
+- TOP 8.5.7: Jugendschöffenwahl 2023 - Kenntnis genommen
+- TOP 8.5.8: Beantwortung einer Anfrage zum Thema Schulrelevante Fähigkeiten: Beratungen und Untersuchungen in Kindertagesstätten AN/2101/2022 - Kenntnis genommen
