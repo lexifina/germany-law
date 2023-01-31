@@ -1,0 +1,57 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-01-31T17:00:00+01:00
+- Ende: 2023-01-31T18:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24147
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24147
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00473065.pdf
+- Ergebnisprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00473065.pdf
+- Wortprotokoll: Sitzungsunterlagen http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00473065.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitglieds der Bezirksvertretung 5
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 25. Oktober 2022 - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift vom 29. November 2022* - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Jugend checkt Düsseldorf -mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen aus vorherigen Sitzungen**
+- TOP 9: Noch transparentere und bürgernähere Sitzungen der Bezirksvertretung 5 - beantwortet
+- TOP 10: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 11: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 12: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 13: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr?
+- TOP 14: Geschwindigkeitsmessung Kreuzung Nagelsweg/Neusser Weg
+- TOP 15: Wird das Klimaschutz Projekt mit einer Kübel Bepflanzung am Kaiserswerther Markt verlängert? - beantwortet
+- TOP 16: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie
+- TOP 17: Verkehrskonzept für den Düsseldorfer Norden
+- TOP 18: Rheinuferweg Kaiserswerth - Alternativen für einen konfliktreduzierten Rad- und Fußweg
+- TOP 19: Erhalt der Hecken in der Kleingartenanlage am Leuchtenberger Kirchweg 86 - beantwortet
+- TOP 20: Bücherschrank Toni-Turek-Realschule - beantwortet
+- TOP 21: Beleuchtung auf der Straße Am Schwarzbach - beantwortet
+- TOP -: Neue Anfragen
+- TOP 22: Plangebiet "Östlich Zur Lindung"
+- TOP 23: Mängel Pflasterung Kaiserswerther Markt - beantwortet
+- TOP 24: Rattenbefall in Kaiserswerth
+- TOP 25: Fehlende Infrastruktur öffentlicher E-Ladepunkte im Düsseldorfer Norden
+- TOP -: Anträge
+- TOP 26: Sonnenschutz auf Spielplätzen - einstimmig beschlossen
+- TOP 27: Arnheimer Straße für alle Verkehrsteilnehmer! - mehrheitlich beschlossen
+- TOP 28: Entschärfung Gefahrenzone Querungshilfe Angermunder Straße/Brücke - einstimmig beschlossen
+- TOP 29: Verbesserungen am Zebrastreifen Niederrheinstraße 166 - einstimmig beschlossen
+- TOP 30: Eine Boulebahn für Kaiserswerth – Finanzierung gewährleisten! - mehrheitlich beschlossen
+- TOP 31: Verkehrssicherheit Kaiserswerther Markt - abweichend beschlossen
+- TOP 32: Einzelhandelsversorgung parallel zum Bevölkerungswachstum sicherstellen! - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 33: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 34: Kommunale Sozialberichterstattung Düsseldorf. Lebenssituation Kinder, Jugendliche und Familien – Monitoring 2015 bis 2020 - zur Kenntnis genommen
+- TOP 35: Verschiedenes
