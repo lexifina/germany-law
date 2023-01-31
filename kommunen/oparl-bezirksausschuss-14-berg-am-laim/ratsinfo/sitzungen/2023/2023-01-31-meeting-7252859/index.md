@@ -1,0 +1,114 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-01-31T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7252859
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7252859
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 20.12.2022
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Sonnwendjochstr. 76 - Neubau eines Mehrfamilienhauses mit 5 WE und 5 TG-Parker
+- TOP 3.1.2.: Anzinger Str. 23 - Neubau eines Büro- und Verwaltungsgebäudes mit Tiefgarage (1. UG) und Nebenräumen (2. UG) - TEKTUR zu 1.1-2019-10964-32
+- TOP 3.1.3.: Anzinger Str. 1 - Sanierung und Umbau von Bestandsgebäuden, Errichtung dreier Gebäude mit Tiefgarage jeweils mit Büronutzung, Kreativwirtschaft und Gastronomie mit Mobilitätskonzept (Anzinger Str. 1/ Rosenheimer Str. 145, 145 a-c, 145 e-i) - Unterlagen befinden sich auf Alfresco, da Datenmenge zu groß
+- TOP 3.1.4.: Anzinger Str. 1 - Teilabriss zweier 6-geschossiger Gebäudeteile mit Gewerbenutzung, Errichtung eines temporären Erschließungsbauwerks (Anzinger Str. 1-17, Rosenheimer Str. 145, 145 a-c, 145 e-i)
+- TOP 3.1.5.: Gisela-Stein-Str. - WV-MK7: Neubau eines Bürogebäudes mit Tiefgarage im Werksviertel - ÄNDERUNGSANTRAG zu 1.1-2020-25219-32
+- TOP 3.1.6.: Entsiegelung des ehemaligen Fahrradwegs Hansjakobstraße - Antrag der Fraktion Bündnis90/DIE GRÜNEN -
+- TOP 3.1.7.: St.-Michaels-Park: Mangelnde Beleuchtungen; Anliegen aus der Bürgerschaft
+- TOP 3.1.8.: Versetzung von Hundepollern im Behrpark - Antrag der CSU-Fraktion -
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Hanne-Hiob-Str. 10 (öff. Tiefgarage): Hinweisbeschilderung zur Tiefgarage - Anhörung des Mobilitätsreferats -
+- TOP 3.2.2.: Staudachstr. 10: Einrichtung einseitiges Haltverbot - Anhörung des Mobilitätsreferats -
+- TOP 3.2.3.: Prüfung des automatischen Öffnens aller Türen in der U-Bahn und Tram - Antrag der Fraktion Bündnis90/DIE GRÜNEN -
+- TOP 3.2.4.: Prüfung des automatischen Öffnens aller Türen in den S-Bahnen - Antrag der Fraktion Bündnis90/DIE GRÜNEN -
+- TOP 3.2.5.: Mehr Wohnraum im Werksviertel: Folgen für die Planung der Infrastruktur? - Antrag der CSU-Fraktion -
+- TOP 3.2.6.: Parksituation Josephsburgstrasse/Baumkirchner Straße - Einrichtung von Haltverboten; Anliegen aus der Bürgerschaft
+- TOP 3.2.7.: Hochhausstudie 2023 - Beschlussentwurf - - Anhörung des Referats für Stadtplanung und Bauordnung -
+- TOP 3.2.8.: Hochhausstudie an örtliche Gegebenheiten anpassen – Teil 2 (Stellungnahme zum überarbeiteten Entwurf) - Antrag der CSU-Fraktion -
+- TOP 3.2.9.: Berg-am-Laim-Str. 45-53: Erinnerungsverfahren zum Spakoo-Projekt - Anhörung des Baureferats -
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung im Freien in einer städtischen Grünanlage: Grünanlage an der St.-Veit-Straße (siehe Lageplan) – „Rio Artistik (Zirkus-Musical-Theater) am 21./22./23./28./29./30.04.2023 - Anhörung des Kreisverwaltungsreferats -
+- TOP 3.3.2.: Vorschläge für das Projekt "Sommerstraße 2023" - Anhörung des Mobilitätsreferats -
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Termin für den Nachtspaziergang im BA 14 - Anhörung des Baureferats -
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song (im Rahmen des Kunstliedfestivals HIDALGO) am 02.09.2023 1.500,00 € / Az. 0262.0-14-0349
+- TOP 3.5.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 € / Az. 0262.0-14-0350
+- TOP 3.5.3.: Erklärung des Bezirksausschusses zu Aktionen selbsternannter „Klima-Aktivisten“ in Berg am Laim - Antrag der CSU-Fraktion -
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Josephsburgstr. 81
+- TOP 3.6.2.: Sonnwendjochstr. 76
+- TOP 3.6.3.: Anzinger Str. 1 - Sanierung und Umbau von Bestandsgebäuden, Errichtung dreier Gebäude mit Tiefgarage jeweils mit Büronutzung, Kreativwirtschaft und Gastronomie mit Mobilitätskonzept (Anzinger Str. 1/ Rosenheimer Str. 145, 145 a-c, 145 e-i)
+- TOP 3.6.4.: Sonnwendjochstr. 116a
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Grundstücksvereinbarungen für den Hachinger Bach voranbringen
+- TOP 4.1.2.: (E) Beschleunigung zum Verfahren der Freilegung des Hachinger Bachs (1) Flugblatt mit einem Planauszug zur Freilegung des Hachinger Bachs herausgeben (2) Presseerklärung rechtzeitig vor einer Bürgerversammlung zum Fortschritt des Hachinger Bachs herausgegeben (3)
+- TOP 4.1.3.: Sanierung der Rechenanlage an der Versickerungsanlage Kampenwandstraße - Unterrichtung des Baureferats -
+- TOP 4.1.4.: Urbanes Gärtnern in München StR-Anträge
+- TOP 4.1.5.: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 4.1.6.: Vollzug der Zweckentfremdungssatzung: - Traunstr. 1a
+- TOP 4.1.7.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen - Unterrichtung des Baureferats -
+- TOP 4.1.8.: Krautgärten für Berg am Laim - Antwortschreiben -
+- TOP 4.1.9.: Erhalt der Krautgärten in Berg am Laim - Unterrichtung des Kommunalreferats -
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Ausnahmezulassungen: a) Betrieb von Müllsammelfahrzeugen
+- TOP 4.2.2.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 4.2.3.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 4.2.4.: Helmut-Dietl-Straße – nördlicher Ring: Verkehrsbeschilderung nach Straßenneubau - Unterrichtung des Mobilitätsreferats -
+- TOP 4.2.5.: Gerlosstraße: Einrichtung einer Anfahrtszone eines absoluten Haltverbots für den Hol- und Bringverkehr (Grundschule St.-Veit-Straße) nachträgliche Änderung vom 14.11.2022 - Unterrichtung des Mobilitätsreferats -
+- TOP 4.2.6.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Sturmiusweg 18 - Unterrichtung des Mobilitätsreferats -
+- TOP 4.2.7.: E-Scooter in Berg-am-Laim - Antwort des Mobilitätsreferats auf ein Anliegen aus der Bürgerschaft -
+- TOP 4.2.8.: St.-Veit-Straße: Ausweisung eines Zweirichtungsradwegs auf der Ostseite südlich der Waldstraße - Unterrichtung des Mobilitätsreferats -
+- TOP 4.2.9.: Verkehrssicherheit an der neuen Grundschule an der St.-Veit-Straße: - Maßnahmen gegen Pfützenbildung und Verschlammung des Weges - Schließen von Lücken in der Beleuchtung - Sicherstellen, dass eine Schneeräumung stattfindet und gestreut wird; Anliegen aus der Bürgerschaft - Antwort des Baureferats -
+- TOP 4.2.10.: Erika-Köth-Str. („Ring“): Verkehrsbeschilderung wegen Straßenneubau - Unterrichtung des Mobilitätsreferats
+- TOP 4.2.11.: Rechtsfahrverbot von der Heinrich-Wieland-Straße in die Sonnwendjochstraße - Antwortschreiben -
+- TOP 4.2.12.: Schlüsselbergstraße/Isareckstraße: Problematische Parksituation - Rückmeldung der PI 24 auf ein Anliegen aus der Bürgerschaft -
+- TOP 4.2.13.: Hanne-Hiob-Straße: Aufstellung weiterer Fahrradabstellanlagen - Rückmeldung des Baureferats auf ein Anliegen aus der Bürgerschaft -
+- TOP 4.2.14.: Fahrradabstellsituation im Bereich des neu gebauten PLAZA (Grafinger Straße) - Rückmeldung des Baureferats auf ein Anliegen aus der Bürgerschaft -
+- TOP 4.2.15.: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 4.2.16.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 4.2.17.: (U) Allgemeine Zuwendungsrichtlinien der Stadtentwicklungsplanung
+- TOP 4.2.18.: (U) Bebauungsplan mit Grünordnung Nr. 2127 Truderinger Straße (südlich), Westlich der Roßsteinstraße, Östlich des Schwanhildenwegs - Satzungsbeschluss - Stadtbezirk 14 – Berg am Laim
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Sportbauprogramm - Zwischenbericht Das Sportbauprogramm weiter vorantreiben Antrag Nr. 20-26 / A 03204 von der Fraktion Die Grünen - Rosa Liste, SPD / Volt-Fraktion vom 28.19.2022 A Ausgangslage B Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. 2. Maßnahmenpaket, Standort Siegenburger Str. 51 2. 4. Maßnahmenpaket C Umsetzung des Leitfadens zum inklusionsorientierten Schulsportstättenbau bei den Projekten des Sportbauprogramms 1. Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 2. Teil 2 "Sportgroß- und Sonderprojekte" 3. Teil 3 "Förderung von Vereinsbaumaßnahmen" D Personal- und Sachmittelbedarf für die Umsetzung des Sportbauprogramms - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Personal- und Sachmittelbedarf im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarf im Baureferat E Beteiligungen und Anhörungen
+- TOP 4.3.2.: Mehr Spielmöglichkeiten für Kinder und Jugendliche in Berg am Laim - Antwortschreiben -
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Problemen durch wohnungslose Personen in der Unterführung der S-Bahn- / Tramstation Berg am Laim - Antwort des Sozialreferats -
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Digitalisierung heißt Teilhabe - München geht den nächsten Schritt und Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen Hybridsitzungen und Live-Stream
+- TOP 4.5.2.: Mehrjahresinvestitionsprogramm 2022 - 2026 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 4.5.3.: Informationsschreiben BA 08 / 2022: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen / Hybridsitzungen / Livestream / Konferenztechnik / Hybridkoffer hier: Beschluss der Sitzungsvorlage Nr. 20-26 / V 07926 durch den Stadtrat am 21.12.2022
+- TOP 4.5.4.: Haushaltsbeschluss 2023; Stadtbezirksbudgets in 2023 - Informationsschreiben des Direktoriums -
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Virgilstr. 21; Fällbescheid vom 20.12.2022
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.4.1.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 5.3.1.: Weiteres Vorgehen zur Maskenpflicht in den BA-Sitzungen
+- TOP 5.3.2.: Festlegung der Sitzungsorte für BA-Sitzungen
+- TOP 3.1.9.: Sonnwendjochstr. 24 - Neubau eines Einfamilienhauses
+- TOP 2.1.: (E) + (U) Rolltreppe/Lift für den S-Bahnhof Leuchtenbergring Empfehlung Nr. 20-26 / E 00686 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 07.07.2022
+- TOP 4.4.2.: Bürger für Münchner Stadtklinikum: Vorschläge zum neuen Medizinkonzept der Münchner-Klinik und zur Notversorgung
