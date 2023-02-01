@@ -1,0 +1,19 @@
+# Anlage 1 (zu § 3 Absatz 1)Flächenbeitragswerte
+
+| Bundesland | Spalte 1: Flächenbeitragswert, derbis zum 31. Dezember 2027zu erreichen ist (Anteil derLandesfläche in Prozent) | Spalte 2: Flächenbeitragswert, derbis zum 31. Dezember 2032zu erreichen ist (Anteil derLandesfläche in Prozent) | Spalte 3: Landesflächen(in km2) |
+| Baden-Württemberg | 1,1 | 1,8 | 35 747,82 |
+| Bayern | 1,1 | 1,8 | 70 541,57 |
+| Berlin | 0,25 | 0,50 | 891,12 |
+| Brandenburg | 1,8 | 2,2 | 29 654,35 |
+| Bremen | 0,25 | 0,50 | 419,62 |
+| Hamburg | 0,25 | 0,50 | 755,09 |
+| Hessen | 1,8 | 2,2 | 21 115,64 |
+| Mecklenburg-Vorpommern | 1,4 | 2,1 | 23 295,45 |
+| Niedersachsen | 1,7 | 2,2 | 47 709,82 |
+| Nordrhein-Westfalen | 1,1 | 1,8 | 34 112,44 |
+| Rheinland-Pfalz | 1,4 | 2,2 | 19 858,00 |
+| Saarland | 1,1 | 1,8 | 2 571,11 |
+| Sachsen | 1,3 | 2,0 | 18 449,93 |
+| Sachsen-Anhalt | 1,8 | 2,2 | 20 459,12 |
+| Schleswig-Holstein | 1,3 | 2,0 | 15 804,30 |
+| Thüringen | 1,8 | 2,2 | 16 202,39 |
