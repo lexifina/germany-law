@@ -1,0 +1,61 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2023-02-01T17:00:00+01:00
+- Ende: 2023-02-01T20:33:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4945
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4945
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 09.11.2022 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Haushaltsplanberatungen einschließlich Stellenplan:
+- TOP 5.1: Haushaltsreden
+- TOP 5.2: Stellenplan 2023 und Entwicklung der Personal- und Versorgungsaufwendungen 2023 - ungeändert beschlossen
+- TOP 5.3: Haushaltsplanberatungen 2023 - ungeändert beschlossen
+- TOP 6: Interimsfeuerwache - Standortentscheidung - ungeändert beschlossen
+- TOP 7: Städtebauliche Entwicklungsmaßnahme Rothe Erde | Einleitung von Vorbereitenden Untersuchungen - ungeändert beschlossen
+- TOP 8: Digitale Strategie für die Stadt Aachen - ungeändert beschlossen
+- TOP 9: Bewohnerparken Ost-Viertel (Stolberger Straße); hier: Einrichtung der Zonen "Ost 1" und "Ost 3" sowie der Zonenerweiterung "V" - geändert beschlossen
+- TOP 10: Bilanz städtische Energiesparmaßnahmen
+- TOP 10.1: Ergänzungsvorlage/Korrektur - Bilanz städtische Energiesparmaßnahmen - zur Kenntnis genommen
+- TOP 11: Bebauungsplan - Philipsstraße / Lilienthalweg -hier: 1. Aufstellungsbeschluss2. Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich Philipsstraße / Lilienthalweg - zurückgezogen
+- TOP 12: Aufhebung der Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB am Dreiländereck - ungeändert beschlossen
+- TOP 13: Bebauungsplan Nr. 1001 - Sonnenscheinstraße / Neue Dauerkleingartenanlage -hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 14: Entgeltordnung für die Benutzung der Sportstätten und Schwimmbäder der Stadt AachenNeufassung zum 01.03.2023 - ungeändert beschlossen
+- TOP 15: Übergang Depot zum Fachbereich FB 56: Neue Entgeltstruktur für die tageweise Anmietung von Räumlichkeiten im Depot - ungeändert beschlossen
+- TOP 16: Umgang mit Sitzungsunterlagen zu nicht öffentlichen Tagesordnungspunkten des Rechnungsprüfungsausschusses, Antrag der CDU-Fraktion vom 30.11.2022 - zur Kenntnis genommen
+- TOP 17: Änderung der Rechnungsprüfungsordnung - ungeändert beschlossen
+- TOP 18: Benennung von 2 stimmberechtigten Delegierten für die 42. ordentliche Hauptversammlung des Deutschen Städtetages vom 23.05. bis 25.05.2023 in Köln - ungeändert beschlossen
+- TOP 19: Bestellung einer kommissarischen Betriebsleitung für die eigenbetriebsähnliche Einrichtung Aachener Stadtbetrieb (E 18) - Genehmigung der Dringlichkeitsentscheidung vom 22.12.2022 - ungeändert beschlossen
+- TOP 20: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 20.1: Besetzung des Ausschusses für Schule und Weiterbildung – Vertretung der evangelischen Kirche - zur Kenntnis genommen
+- TOP 20.2: Umbesetzungsantrag der CDU-Fraktion vom 14.12.2022 - ungeändert beschlossen
+- TOP 20.3: Umbesetzungsantrag der Fraktion DIE Zukunft vom 10.01.2023 - ungeändert beschlossen
+- TOP 20.4: Umbesetzungsantrag der FDP-Fraktion vom 24.01.2023 - ungeändert beschlossen
+- TOP 20.5: Umbesetzungsantrag der Fraktion DIE LINKE vom 24.01.2023 - ungeändert beschlossen
+- TOP 20.6: Umbesetzungsantrag der SPD-Fraktion vom 31.01.2023 - ungeändert beschlossen
+- TOP 21: Anfragen:
+- TOP 21.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 21.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 22: Ratsanträge - zur Kenntnis genommen
+- TOP 23: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
