@@ -12,7 +12,7 @@
 Datenverarbeitung und Kursgebühren
 
 - [§ 4 Teilnahmeberechtigung](0004.md)
-- [§ 4a Fahrtkostenerstattung, Kinderbetreuung](0004a.md)
+- [§ 4a Fahrtkostenerstattung, Kinderbetreuung, kursbegleitende Maßnahmen](0004a.md)
 - [§ 5 Zulassung zum Integrationskurs](0005.md)
 - [§ 6 Bestätigung der Teilnahmeberechtigung](0006.md)
 - [§ 7 Anmeldung zum Integrationskurs](0007.md)
@@ -27,6 +27,7 @@ Datenverarbeitung und Kursgebühren
 - [§ 13 Integrationskurse für spezielle Zielgruppen, Intensivkurs](0013.md)
 - [§ 14 Organisation der Integrationskurse, Ordnungsmäßigkeit der Teilnahme](0014.md)
 - [§ 15 Lehrkräfte und Prüfer](0015.md)
+- [§ 15a Widerruf und Erlöschen der Zulassung als Lehrkraft](0015a.md)
 - [§ 16 Zulassung der Lehr- und Lernmittel](0016.md)
 - [§ 17 Abschlusstest, Zertifikat Integrationskurs](0017.md)
 
@@ -41,5 +42,5 @@ Datenverarbeitung und Kursgebühren
 
 ## Abschnitt 5 Übergangsregelung
 
-- [§ 22 Übergangsregelung](0022.md)
+- [§ 22 Übergangsregelungen](0022.md)
 - [§ 23 (weggefallen)](0023.md)

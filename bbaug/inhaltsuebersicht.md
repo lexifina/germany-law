@@ -392,6 +392,7 @@ Erster Teil
 | § 245b | Überleitungsvorschriften für Vorhaben im Außenbereich |
 | § 245c | Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt |
 | § 245d | Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland |
+| § 245e | Überleitungsvorschriften aus Anlass des Gesetzes zur Erhöhung und Beschleunigung des Ausbaus von Windenergieanlagen an Land |
 Zweiter Teil
 Schlussvorschriften
 | § 246 | Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte |
@@ -401,7 +402,7 @@ Schlussvorschriften
 | § 246d | Sonderregelung für Biogasanlagen |
 | § 247 | Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland |
 | § 248 | Sonderregelung zur sparsamen und effizienten Nutzung von Energie |
-| § 249 | Sonderregelungen zur Windenergie |
+| § 249 | Sonderregelungen für Windenergieanlagen an Land |
 | § 249a | Sonderregelung für Vorhaben zur Herstellung oder Speicherung von Wasserstoff aus erneuerbaren Energien |
 | § 249b | Verordnungsermächtigungen zum Ausbau der erneuerbaren Energien in Abbaubereichen des Braunkohletagebaus |
 | § 250 | Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten |
