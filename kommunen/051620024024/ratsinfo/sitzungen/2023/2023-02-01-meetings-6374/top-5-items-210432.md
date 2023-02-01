@@ -1,0 +1,8 @@
+# TOP 5: Städtepartnerschaftsaktivitäten zwischen Neuss und Nevsehir
+
+- Sitzung: Komitee für Partnerschaften und internationale Beziehungen (2023-02-01)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/210432
+- Ergebnis: einstimmig zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/33048
