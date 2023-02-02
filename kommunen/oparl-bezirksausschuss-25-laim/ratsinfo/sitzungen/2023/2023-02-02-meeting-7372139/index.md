@@ -1,0 +1,70 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-02-02T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372139
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372139
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A): Vorstellung Projekt Zero Waste
+- TOP B): Green City: Photovoltaik-Anlagen auf (privaten) Dächern
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Bäume für Laim
+- TOP 2: Anträge
+- TOP 2.1.: Fraktion Die Grünen: Begrünung der Tram- und Bus-Wartehäuschen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Bauvorhaben Eckgrundstück Camerloherstraße / Stroblstraße Empfehlung Nr. 20-26 / E 00885 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 18.10.2022
+- TOP 3.2.: (E) Konsequentes Umsetzen der StVO im Bezug dauerhaft abgestellter Anhänger im Stadtbezirk Laim
+- TOP 3.3.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 02.09.2023 1.500,00 Euro, Az.: 0262.0-25-0285
+- TOP 3.4.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 Euro, Az.: 0262.0-25-0286
+- TOP 3.5.: (E) Stadtbezirksbudget Förderverein der Grundschule Von-der-Pfordten-Straße in München-Laim e.V. Schulprojekt zur Prävention von Gewalt: Gewaltfrei Lernen vom 08. - 12.05.2023 4.025,28 Euro, Az.: 0262.0-25-0282
+- TOP 3.6.: (E) Stadtbezirksbudget Musicians for a better Life e.V. Chor- und Instrumentalunterricht für Kinder vom 03.01. - 31.12.2023 3.720,00 Euro, Az.: 0262.0-25-0287
+- TOP 3.7.: Entscheidung über Sperrzeitänderung gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 Beschluss des Bezirksausschusses des Stadtbezirkes 25 - Laim vom 02.02.2023
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Mobilitätsreferat vom 09.12.22: Abschlussbericht Sommerstraße 2022 und Aufruf für 2023
+- TOP 4.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.12.22: Hochhausstudie 2023 (Gesamte Unterlagen in Alfresco unter Ordner Hochhausstudie zu finden)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Camerloherstr. 119 Neubau eines Mehrparteienhauses und eines Einfamilienhauses mit Tiefgarage
+- TOP 5.2.: Camerloherstr. Neubau eines Mehrfamilienhauses (16 WE) mit Tiefgarage (Camerloherstr. Fl.Nr. 171/3 / Stroblstr. Fl.Nr. 171/3)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 12.01.23
+- TOP 7.2.: Protokoll Kinder-Bürgersprechstunde vom 25.11.22
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 22.12.2022: Informationsschreiben BA 08 / 2022: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen/Hybridsitzungen/Livestream/Konferenztechnik/Hybridkoffer
+- TOP 8.2.: Schreiben Direktorium vom 10.01.23: Haushaltsbeschluss 2023; Stadtbezirksbudgets in 2023
+- TOP 8.3.: Schreiben Direktorium: Verwendungsnachweise
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.12.22: Hans-Thonauer-Str. 5, Fl.Nr. 8487/11, Gemarkung Sektion V Abgrabung der künstlichen Bodenverfüllung zur Altlastensanierung
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.12.22: Planfeststellungsverfahren Tram-Westtangente Tektur A PFA 1
+- TOP 8.7.: Bautenliste 26.12.22-01.01.23 A) Erstantragsverfahren 1. Schedelstr. 14
+- TOP 8.8.: Bautenliste 02.01.-08.01.23 A) Änderungsverfahren zu genehmigten Bauvorhaben 1. Aindorferstr. 181
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.01.23: Geyerspergerstr. 58, Fl.Nr. 203/54, Gemarkung Laim Neubau eines Wohnhauses (10 WE) mit Tiefgarage
+- TOP 8.10.: Schreiben Sozialreferat vom 21.12.22: Antrag auf Zweckentfremdung von Wohnraum, Camerloherstr.
+- TOP 8.11.: Schreiben Baureferat vom 19.12.22: Mangelnde Straßenbeleuchtung Aindorfer-/Maxstadtstraße
+- TOP 8.12.: Schreiben Baureferat vom 27.12.22: Weißen Begrenzungsstreifen zwischen Rad- und Gehweg erneuern und neu aufbringen
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 22.12.22: U5 Gotthardstraße Antrag Phase 200.1
+- TOP 8.14.: Schreiben Mobilitätsreferrat vom 05.01.23: Information über Fahrschienenwechsel auf diversen Abschnitten der Linien U4/U5 zwischen 16.01.23-16.02.23
+- TOP 8.15.: Schreiben Referat für Arbeit und Wirtschaft vom 12.12.22: Schließung Edeka Express-Filiale Agens-Bernauer-Str. 51
+- TOP 8.16.: Schreiben Kreisverwaltungsreferat vom 03.01.23: Antrag auf unveränderte Fortführung der Gaststätte Pewa, vormals Republic
+- TOP 8.17.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.22: (U) "Wohnen ohne Lärm" Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen Fortführung und Ausweitung des Förderprogramms "Wohnen am Ring"
+- TOP 8.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.23: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 8.19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.23: Urbanes Gärtnern in München StR-Anträge
+- TOP 8.20.: Beschluss der Vollversammlung vom 30.11.22: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 8.21.: Beschluss des Mobilitätsausschusses vom 14.12.22: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 8.22.: Beschluss des Mobilitätsausschusses vom 14.12.22: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 8.23.: Beschluss des Mobilitätsausschusses vom 14.12.22: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 8.24.: Beschluss des gemeinsamen Ausschuss des Mobilitätsausschusses mit dem RAW vom 14.12.22: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 8.25.: Beschluss des Mobilitätsausschusses vom 18.01.23: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 8.26.: Beschluss des Sozialausschusses vom 17.11.22: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Massive Reduktion unserer Vogelpopulation nach Silvesterfeuerwerk (Weiterleitung an Stadtverwaltung)
+- TOP 9.2.: Nutzung öffentlicher Raum - Abstellen von Anhängern (Weitergabe an Polizeiinspektion)
+- TOP 1.2: Bürgerpost an den BA
+- TOP 8.6.: Bautenliste 19.12.-25.12.22: A) Erstantragsverfahren 1. Fürstenrieder Str. 27 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Heigenmooserstr. 2
