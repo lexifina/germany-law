@@ -1,0 +1,8 @@
+# TOP -: Nutzung des Schrottplatzes, Causemannstr Ecke Emdener Str.
+
+- Sitzung: Sitzung der Bezirksvertretung Chorweiler (2023-02-02)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/366531
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/169879
