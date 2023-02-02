@@ -1,0 +1,105 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-02-02T17:00:00+01:00
+- Ende: 2023-02-02T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27825
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27825
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vereidigung eines neuen Mitgliedes der Bezirksvertretung Chorweiler
+- TOP -: Antrag auf Aktuelle Stunde zum Thema Sporthalle der Heinrich-Böll-Gesamtschule - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Antrag auf Aktuelle Stunde zum Thema Ford gehört zu Köln Chorweiler - endgültig abgelehnt
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sachstand Prüfung weiterer Fahrradverleihstationen
+- TOP -: Sachstand Prüfung weiterer Fahrradverleihstationen - Kenntnis genommen
+- TOP 7.1.2: Durchfahrverbot Neusser Landstraße
+- TOP -: Durchfahrverbot Neusser Landstraße - Kenntnis genommen
+- TOP 7.1.3: Eröffnung Grundschule Volkhoven/Weiler
+- TOP -: Beantwortung einer Anfrage der Grünen vom 16.09.2021 (AN/1991/2021) - Kenntnis genommen
+- TOP 7.1.4: Nutzung des Schrottplatzes, Causemannstr Ecke Emdener Str.
+- TOP -: Nutzung des Schrottplatzes, Causemannstr Ecke Emdener Str. - Kenntnis genommen
+- TOP 7.1.5: Wochenmarkt Chorweiler
+- TOP -: Wochenmarkt auf dem Liverpooler Platz - Kenntnis genommen
+- TOP 7.1.6: Anhäufungen von Sperrmüll auf öffentlichen Straßen im Kölner Norden
+- TOP -: AN/1590/2021 Anhäufung von Sperrmüll auf öffentlichen Straßen im Kölner Norden - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Streichung von Buslinien der KVB durch Krankheitsfälle
+- TOP 7.2.2: Schulversorgung in den Stadtteilen Worringen und Roggendorf/Thenhoven
+- TOP 7.2.3: Messungen zu einer evtl. PCB- und Asbestbelastung in der Heinrich-Böll-Gesamtschule
+- TOP 7.2.4: Unterstützung des Strukturwandels für Betriebe im Kölner Norden
+- TOP 7.2.5: Vermeidung von Strom- und Gassperren im Stadtbezirk Chorweiler
+- TOP 7.2.6: Fehlende Lehrmittel an weiterführenden Schulen im Bezirk Chorweiler
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: Parkgelände Volkhoven/Weiler
+- TOP 7.3.2: Sicherheit der Brücken auf der Fritz-Wacker-Straße
+- TOP 7.3.3: Alte Neusser Landstrasse 273 „Haus Worringen“ und zugehörige Liegenschaften in der Elkemannstrasse.
+- TOP 7.3.4: Fahrradwege im Stadtbezirk Chorweiler
+- TOP 7.3.5: Insel im Pescher See
+- TOP 7.3.6: Dächer des Einkaufszentrums Heimersdorf
+- TOP 7.3.7: Fehlende Schulbau-Baumaßnahmen im Bezirk Chorweiler in der Haushaltsplanung 2023/24
+- TOP 7.3.8: Installierung eines Wasser- und Stromanschlusses auf dem Platz in Auweiler
+- TOP 7.3.9: Regenerative Energie-Erzeugung im Bezirk Chorweiler
+- TOP 7.3.10: Absicherung des Brückenendes Toni-Welter-Straße / Volkhovener-Weg
+- TOP 7.3.11: Einrichtung eines Grillplatzes bzw. einer Grillhütte in Köln-Langel
+- TOP 7.3.12: Raser auf der Brücke Mercatorstr/ Zubringer nach Pesch
+- TOP 7.3.13: Verwahrloste Grünfläche an der Johannes-Albers-Straße
+- TOP 7.3.14: Veranstaltungsprogramm 2022 Fühlinger See
+- TOP 7.3.15: Grünstreifen zwischen Liller Straße und Oxforder Passage / Eingang Hallenbad Chorweiler
+- TOP 7.3.16: Sachstand Blumenbergsweg
+- TOP 7.3.17: Nutzung öffentlicher Flächen im Stadtbezirk Chorweiler
+- TOP 7.3.18: Kataster für Ausgleichsflächen
+- TOP 7.3.19: Energiesicherheit für Fernwärme im Bezirk Chorweiler
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Öffentliche Toilettenanlage im Zentrum Chorweiler - geändert beschlossen
+- TOP 8.2.2: Trinkwasserbrunnen - geändert beschlossen
+- TOP 8.2.3: Teilnahme der Marktamtsleitung an der Sitzung der Bezirksvertretung Chorweiler am 16.03.2023 - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Chorweiler 2022/2023 - Förderprogramm - ungeändert beschlossen
+- TOP 9.1.2: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Chorweiler 2022/2023 - Mittelvergabe - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - geändert beschlossen
+- TOP -: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ungeändert beschlossen
+- TOP -: Fortschreibung EHZK Sonderstandort Pesch - ungeändert beschlossen
+- TOP -: Ergänzungsantrag zum EHZK - ungeändert beschlossen
+- TOP 9.2.2: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - ungeändert beschlossen
+- TOP 9.2.3: Änderung der Entgeltordnung für das Erheben von Parkentgelten am Fühlinger See - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Überarbeitung Busnetz Chorweiler - Kenntnis genommen
+- TOP 10.2.2: Pressemitteilung "Energetische Ertüchtigung denkmalgeschützter Bauten" - Kenntnis genommen
+- TOP 10.2.3: Strategie Klimaneutrales Köln - zurückgestellt
+- TOP 10.2.4: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 10.2.5: Köln. Gestaltet. Miteinander - Erfolgreicher Auftakt des ersten Konsultationskreises für die Außengastronomie - mit der Stadtverwaltung, der Gastronomie, den Behindertenverbänden und der Politik - zum Sachstand und zur Methodik - Kenntnis genommen
+- TOP 10.2.6: Neufassung Mietvertrag - Kenntnis genommen
+- TOP 10.2.7: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 10.2.8: Mitteilung zu DE 4030/2022 - schulrechtliche Änderung mehrerer Gymnasien ab den Schuljahren 2023/24 und 2024/25 - Kenntnis genommen
+- TOP 10.2.9: Fällung von zwei Bäumen aufgrund unmittelbar drohender Gefahr - Kenntnis genommen
+- TOP 10.2.10: Aktueller Sachstand des Fachgespräches Haus Fühlingen - Kenntnis genommen
+- TOP 10.2.11: Planungsschritte im städtebaulichen Großprojekt Köln-Kreuzfeld im Jahr 2023 - Kenntnis genommen
+- TOP 10.2.12: Temporäre Fahrplananpassungen beim Stadtbahnangebot der KVB AG - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: mündliche Anfrage der SPD-Fraktion zum Weiterbetrieb des blauen Containergebäudes an der KGS Lebensbaumweg in Köln-Heimersdorf
+- TOP 11.2.2: mündliche Anfrage der Fraktion Die Linke und Lilo Heinrich zum Fühlinger See Veranstaltungsübersicht 2023
+- TOP 11.2.3: mündliche Anfrage der AfD-Fraktion zu Trinkwasserbrunnen
+- TOP 11.2.4: mündliche Anfrage der AfD-Fraktion zu Ford
+- TOP 11.3: Anfragen der Seniorenvertretung
