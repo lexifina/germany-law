@@ -1,0 +1,72 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-02-02T17:09:00+01:00
+- Ende: 2023-02-02T18:11:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26923
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26923
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohneranfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Zukunft des Strandbad Marie - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: 285. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.2: Ordnungsbehördliche Verordnung für das Jahr 2023 über das Offenhalten von Verkaufsstellen an Sonntagen - mit Änderungen empfohlen
+- TOP 7.3: Beschluss zur Weiterführung des Verfahrens zum Bebauungplan Nr. 76370/03 mit dem Arbeitstitel: Nachtigallenstraße in Köln-Porz - ungeändert empfohlen
+- TOP 7.4: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen"Satzung zum Schutz des Baumbestandes" - ungeändert beschlossen
+- TOP 7.5: Schulrechtliche Änderung der Schule Thymianweg (FSL) in Köln-Höhenhaus durch Schließung des Teilstandortes Berliner Str. 36, 51149 Köln bei gleichzeitiger Errichtung einer neuen Förderschule Lernen am Standort Berliner Straße in Köln- Westhoven - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Hohe Str. 1 von Kölner Str. bis Rhein in Porz Ensen, Planrechtsschaffung, Bebauung Chipperfield realisieren" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Hohe Str. 1 von Kölner Str. bis Rhein in Porz Ensen, Planrechtsschaffung, Bebauung Chipperfield" - endgültig abgelehnt
+- TOP 8.2: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Temporäre sichere Straße mit Zeichen 274.51 Begrenzung auf Tempo 10 km/h Begegnungszone" - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion "Modernisierung der Fahrradschienen an den Treppenwerken der Südbrücke" - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Modernisierung der Fahrradschienen an den Treppenwerken der Südbrücke" - geändert beschlossen
+- TOP 8.4: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Bewirtschaftung des Parkplatzes Rosenhügel in Zündorf" - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion "Zwischenwerk IXa in Westhoven sichern" - zurückgestellt
+- TOP 8.6: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Straßenbaumpflanzkonzept" - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Prüfbeschluss zur Beseitigung des Rückstaues und der damit verbundenen Wartezeiten für Busse des ÖPNV und Rettungsdienste an der Einmündung der Wahner Straße in die Liburer Landstraße" - ungeändert beschlossen
+- TOP 8.8: Dringlichkeitsantrag der SPD-Fraktion "Sanierung des Mühlenwegs in Elsdorf" - ungeändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag der SPD-Fraktion "Anmeldeüberhang Eingangsklassen GGS Hohe Straße/Ensen - ungeändert beschlossen
+- TOP 8.10: Dringlichkeitsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Interimslösungen Umzug Berufskolleg 10 Porz zur Tischvorlage 4155/2022" - geändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Baustellen Humboldtstr./Steinstr. - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Baustellen Humboldtstr./Steinstr." - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen "Verbesserung der Verkehrsführung Wahner Str. - Skt. Sebastianusstr. - Liburer Landstr.“ - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Pachtverhältnis ehemalige Schießsportanlage Hubertusweg, Poll" - zurückgestellt
+- TOP 9.2.3: Anfrage der Fraktion Bündnis 90/Die Grünen "Verbesserung der Verkehrssituation entlang der Poststr. in 51143 Köln-Porz" - zurückgestellt
+- TOP 9.2.4: Anfrage der SPD-Fraktion "ÖPNV-Förderbescheid zur Linie 17" - zurückgestellt
+- TOP 9.2.5: Anfrage der Fraktionen CDU und Bündnis 90/Die Grünen"Erinnerung an das SA-Lager Hochkreuz" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Einhaltung des LKW-Nachtfahrverbot Auf dem Sandberg/Poll - Kenntnis genommen
+- TOP 10.2.2: Mitteilung zur Kostenerhöhung gem. § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 bei der Generalsanierung der Sportanlage Humboldtstraße (südlicher Platz) in Köln-Porz - Kenntnis genommen
+- TOP 10.2.3: Strategie Klimaneutrales Köln - Kenntnis genommen
+- TOP 10.2.4: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 10.2.5: Ausweitung der Bewirtschaftung auf dem Parkplatz Heidestraße - Kenntnis genommen
+- TOP 10.2.6: Verbesserung der Parkmöglichkeiten für Bewohnende durch die Freigabe des Parkplatzes Philipp-Reis-Straße im Bewohnerparkgebiet Porz-City - Kenntnis genommen
+- TOP 10.2.7: Mitteilung "Energetische Ertüchtigung denkmalgeschützter Bauten" - Kenntnis genommen
+- TOP 10.2.8: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Kreuzungsumwandlung Humboldtstraße/Theodor-Heuss-Straße als alternative Betriebsform zur Ampelanlage in einem Kreisverkehr, Az.: 84/22 S - Kenntnis genommen
+- TOP 10.2.9: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 10.2.10: Köln. Gestaltet. Miteinander - Erfolgreicher Auftakt des ersten Konsultationskreises für die Außengastronomie - mit der Stadtverwaltung, der Gastronomie, den Behindertenverbänden und der Politik - zum Sachstand und zur Methodik - Kenntnis genommen
+- TOP 10.2.11: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 10.2.12: Neufassung Mietvertrag - Kenntnis genommen
+- TOP 10.2.13: Mitteilung zu DE 4030/2022 - schulrechtliche Änderung mehrerer Gymnasien ab den Schuljahren 2023/24 und 2024/25 - Kenntnis genommen
+- TOP 10.2.14: Sachstand zum ehemaligen SA-Lager Am Hochkreuz - Kenntnis genommen
+- TOP 10.2.15: Temporäre Fahrplananpassungen beim Stadtbahnangebot der KVB AG - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
