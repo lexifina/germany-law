@@ -1,0 +1,8 @@
+# TOP -: Ersetzungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Modernisierung der Fahrradschienen an den Treppenwerken der Südbrücke"
+
+- Sitzung: Sitzung der Bezirksvertretung Porz (2023-02-02)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/368164
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/171197
