@@ -1,0 +1,77 @@
+# Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-02-02T15:06:00+01:00
+- Ende: 2023-02-02T19:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27352
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27352
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung Nachfrage zu Bevölkerungsprognose für Köln 2022 bis 2050 – mit kleinräumigen Berechnungen bis 2035" -- 3926/2022 - Kenntnis genommen
+- TOP 1.2: Anfrage der SPD-Fraktion aus der Sitzung des Stadtentwicklungsausschusses am zu Altlasten im Lindgens-Areal, Mülheimer Süden vom 02.12.2022 - Kenntnis genommen
+- TOP 1.3: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 1.4: Baubeschluss für den Neubau von Verschlusseinrichtungen für den Hochwasserschutz - Mündliche Anfragen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.5: Beantwortung einer mündlichen Anfrage aus der Sitzung des Stadtentwicklunsausschusses vom 01.12.2022 unter TOP 1.3 betreffend der Vorlagennummer 3803/2022 - Kenntnis genommen
+- TOP 1.6: Beantwortung der gemeinsamen Anfrage der Fraktionen Bündnis 90/Die Grünen, der SPD, Die Linke/ Die Partei und der Einzelmandatsträger Elke Schroeder (KlimaFreunde) und Marlis Poettgen (FDP) betr. Sachstand Bebauungsplan "Sicherung der Clubkultur" - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Energiekonzept für den Deutzer Hafen - zurückgestellt
+- TOP 2.2: Zustand der Zentralbibliothek - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3: Anträge
+- TOP 3.1: Baugenehmigungs- und Wohnungsfertigstellungbericht - Sache ist erledigt
+- TOP 3.1.1: Baugenehmigungs- und Wohnungsfertigstellungsbericht - ungeändert beschlossen
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden Vorlagen-Nummer AN/0648/2022 - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 5.2: Beschluss zur Weiterführung des Verfahrens zum Bebauungsplan Nr. 76370/03 mit dem Arbeitstitel: Nachtigallenstraße in Köln-Porz - ungeändert beschlossen
+- TOP 5.3: Bedarfsfeststellungsbeschluss für die Veranstaltungsreihe „Köln. Gestaltet.“ im Jahr 2023 zur Erarbeitung von Regeln für die Außengastronomie und anschließender Vorstellung im Konsultationskreis - ungeändert beschlossen
+- TOP 5.3.1: Präsentation - Kenntnis genommen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Fortschreibung Einzelhandels- und Zentrenkonzept Köln (EHZK) - ungeändert empfohlen
+- TOP 6.2: Masterplan Stadtgrün - zurückgestellt
+- TOP 6.2.1: Änderungsantrag zu 2279/2022 Masterplan Stadtgrün - Grünflächen rechtssicher schützen - zurückgestellt
+- TOP 6.2.2: Änderungsantrag zum Masterplan Stadtgrün (2279/2022) – TOP 6.2 - zurückgestellt
+- TOP 6.2.3: Änderungsantrag zur Vorlage Masterplan Stadtgrün - 2279/2022 - zurückgestellt
+- TOP 6.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nr. 674351/02; Arbeitstitel: "Campus Kartause (Kartäuserwall 24b)" in Köln-Altstadt/Süd - ungeändert empfohlen
+- TOP 6.4: Bedarfsfeststellungsbeschluss Waidmarkt - Vergabe externer Fachbüros zur Unterstützung der Teilprojekte und Fachdienststellen im Projekt Waidmarkt - ungeändert empfohlen
+- TOP 6.4.1: Präsentation - Kenntnis genommen
+- TOP 6.5: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 63454/02 - ungeändert empfohlen
+- TOP 6.6: Köln Katalog – Typologien für kompakte, nachhaltige und lebenswerte Quartiere - ungeändert empfohlen
+- TOP 6.6.1: Präsentation - Kenntnis genommen
+- TOP 6.7: Gestaltungsbeirat der Stadt Köln; Berufung der neuen Mitglieder des Gestaltungsbeirates - mit Änderungen empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld und über die Empfehlungen zur Überarbeitung des Ergebnisses des städtebaulichen und freiraumplanerischen Wettbewerbs Max Becker-Areal - geändert beschlossen
+- TOP 10.1.1: Präsentation - Kenntnis genommen
+- TOP 10.2: Städtebauliches Planungskonzept (VEP) Lerchenweg/Schaffrathsgasse Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes (VEP) - unter Vorbehalt beschlossen
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Venloer Straße / Nördlich Arnoldshof in Köln-Bocklemünd/Mengenich - zurückgestellt
+- TOP 10.4: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Friedrich-Engels-Straße in Köln-Sülz - ungeändert beschlossen
+- TOP 10.5: Erweiterung DEVK-Zentrale in Köln-Riehl - geändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 18: Mitteilungen
+- TOP 18.1: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 18.2: Leitbild für die Handelslagen Hohe Str./Schildergasse und Umfeld in der Innenstadt - Kenntnis genommen
+- TOP 18.3: Öffentlichkeitsveranstaltung Mülheimer Süden am 21.05.2022 - Kenntnis genommen
+- TOP 18.4: Köln. Gestaltet. Miteinander - Erfolgreicher Auftakt des ersten Konsultationskreises für die Außengastronomie - mit der Stadtverwaltung, der Gastronomie, den Behindertenverbänden und der Politik - zum Sachstand und zur Methodik - Kenntnis genommen
+- TOP 18.5: Zwischenbilanzierung der Gesamtstrategie „Kölner Kinder stärken!“ zur Prävention von Kinder-, Jugend- und Familienarmut und Ausblick auf die strategische Weiterentwicklung in 2023 - Kenntnis genommen
+- TOP 18.6: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 18.7: Mitteilung der Verwaltung zur Stellungnahme des LVR zum Ehrenfelder Kugelgasbehälter - Kenntnis genommen
+- TOP 18.8: Information zum Städtebauförderprogramm NRW für das Jahr 2023 und zu den im Jahr 2022 bewilligten Förderprojekten - Kenntnis genommen
+- TOP 18.9: Aktueller Sachstand des Fachgespräches Haus Fühlingen - Kenntnis genommen
+- TOP 18.10: Bericht aus der Geschäftsstelle Kooperatives Baulandmodell - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.11: Planungsschritte im städtebaulichen Großprojekt Köln-Kreuzfeld im Jahr 2023 - Kenntnis genommen
+- TOP 19: Mündliche Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 20: Gleichstellungsrelevante Themen
