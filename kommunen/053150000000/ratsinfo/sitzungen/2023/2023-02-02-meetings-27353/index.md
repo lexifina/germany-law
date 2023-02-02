@@ -1,0 +1,56 @@
+# Sitzung des Sportausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-02-02T17:00:00+01:00
+- Ende: 2023-02-02T18:50:00+01:00
+- Ort: RHEINSTARS-Basketball-GmbH (Wilhelm-Mauser-Str. 57, 50827 Köln)
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/14
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27353
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27353
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Tischtennis - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 3.2: Hundesport in Köln - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 3.3: Zustand Sportplatz Langeler Lido - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 3.4: Bezirkssportanlage Köln-Poll Alfred-Schütte-Allee - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung - zurückgestellt
+- TOP 3.5: Zustand der Turnhalle der Heinrich Böll Gesamtschule - zurückgestellt
+- TOP 4: Ausschuss-Empfehlungen an den Rat/andere Ausschüsse/Bezirksvertretungen
+- TOP 4.1: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Gebäudes zur Erweiterung des Berufskolleg Ehrenfeld einschließlich 3-fach Sporthalle in Köln Ehrenfeld - ungeändert beschlossen
+- TOP 4.3: Sportanlage Dr.-Simons-Straße - Kunststoffrasen Belagserneuerung - ungeändert beschlossen
+- TOP 4.4: Sportanlage Burgwiesenstraße - Kunststoffrasen Belagserneuerung - ungeändert beschlossen
+- TOP 4.5: Sportentwicklungsplanung - Modellprojekt Sanierung Rendsburger Platz - ungeändert beschlossen
+- TOP 4.6: Container Wuppertaler Straße 15 - ungeändert beschlossen
+- TOP 4.7: Sportentwicklungsplanung - Richtlinie der Stadt Köln zur Förderung von Sport und Bewegung - ungeändert beschlossen
+- TOP 4.8: Sportanlage Roggendorfstraße - Kunststoffrasen Belagserneuerung - ungeändert beschlossen
+- TOP 4.9: Änderung der Entgeltordnung für das Erheben von Parkentgelten am Fühlinger See - ohne Votum in nachfolgende Gremien
+- TOP 5: Entscheidungen
+- TOP 5.1: Bestellung eines stellvertretenden Schriftführers für den Sportausschuss - ungeändert beschlossen
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Mitteilung zur Kostenerhöhung gem. § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 bei der Generalsanierung der Sportanlage Humboldtstraße (südlicher Platz) in Köln-Porz - Kenntnis genommen
+- TOP 6.2: Sponsoringrichtlinie - Kenntnis genommen
+- TOP 6.3: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 6.4: Neufassung Mietvertrag - Kenntnis genommen
+- TOP 6.5: Zwischenbilanzierung der Gesamtstrategie „Kölner Kinder stärken!“ zur Prävention von Kinder-, Jugend- und Familienarmut und Ausblick auf die strategische Weiterentwicklung in 2023 - Kenntnis genommen
+- TOP 6.6: Sportentwicklungsplanung - Sportprojekt: "Mehr als ein Ball" - Rio-Reise vom 18.11. - 28.11.2022 - Kenntnis genommen
+- TOP 6.7: Fehlende Turnhalle/Ausfall von Sportunterricht der Schüler*innen der Freinet- Schule-Köln, Gereonswall 57, 50670 Köln - Kenntnis genommen
+- TOP 6.8: "Weichenstellung Gaming-Standort", AN /1795/2021 - Kenntnis genommen
+- TOP 6.9: Gewährte Baubeihilfen an Kölner Sportvereine im Jahr 2022 - Kenntnis genommen
+- TOP 6.10: Strukturförderfonds steigende Personal- und Energiekosten - Kenntnis genommen
+- TOP 7: Beantwortung von Anfragen
+- TOP 7.1: Sanierung und Neubau der Turnhalle an der Gesamtschule Chorweiler - Anfrage von RM Aengenvoort aus der Sitzung vom 26.09.2022 - Kenntnis genommen
+- TOP 7.2: Baulicher Zustand der Lehrschwimmbecken in Köln - Nachfrage von RM Hölzing aus der Sitzung vom 21.11.2022 - Kenntnis genommen
+- TOP 7.3: UEFA EURO 2024 - Kenntnis genommen
+- TOP 7.4: Förderprogramm "Moderne Sportstätte 2022": Beschluss zur Sanierung des NIKE-Courts im Inneren Grüngürtel - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
