@@ -1,0 +1,6 @@
+# TOP B.: Nichtöffentliche Sitzung
+
+- Sitzung: Bauausschuss (20. Sitzung) (2023-02-02)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/20221
