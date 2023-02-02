@@ -1,0 +1,84 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-02-02T14:11:00+01:00
+- Ende: 2023-02-02T19:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23998
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23998
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 02.02.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00474946.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 02.02.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00474946.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 02.02.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00474946.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von Ratsmitgliedern
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Verkehrsunfall in Stockum - beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: überraschende Konsequenzen für die Südbrücke, die Verkehrsteilnehmenden und Belange Dritter, wie z.B. Belange Anwohnende, Klimaschutz, Co2, etc. - beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass der Ratsfraktion DIE LINKE: Absagen für die Aufnahme Düsseldorfer Schüler:innen an weiterführenden Schulen in der 4. Kalenderwoche - beantwortet
+- TOP 3.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Brandstiftung in einer kommunalen Unterbringungseinrichtung an der Grünewaldstraße am 29.01.2023 - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Handelt der Oberbürgermeister zu spät - "Reichsbürger" in Düsseldorf bzw. innerhalb der Stadtverwaltung? - beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Sitzungen und Aufwendungen der Fraktionen und Gruppen des Rates sowie an die Fraktionen der Bezirksvertretungen im Zeitraum 1.1.2022 bis 31.12.2022 - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion DIE LINKE: Abschiebungen der Düsseldorfer Ausländerbehörde 2022 - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: "Alten Hafen" attraktiver machen - beantwortet
+- TOP 4.5: Anfrage der SPD-Ratsfraktion: Sachstand Vallourec-Gelände - beantwortet
+- TOP 4.6: Anfrage der SPD-Ratsfraktion: Kommunale Umsetzung der Wohngeldreform - schriftlich beantwortet
+- TOP 4.7: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Forschungsprojekt „Sicherheit im Bahnhofsviertel“ – Entwicklung eines Werkzeugkastens - schriftlich beantwortet
+- TOP 4.8: Anfrage der FDP-Ratsfraktion: Handhabung des denkmalschutzrechtlichen Vorkaufsrechtes, das sich aus dem neugefassten Denkmalschutzgesetzes NRW (§ 31 DSchG NRW) ergibt - schriftlich beantwortet
+- TOP 4.9: Anfrage des Ratsherrn Lemmer: Personalausweise, Reisepässe und Ummeldungen bei den Bürgern vor Ort, z.B. in Filialen der Stadtsparkasse Düsseldorf - schriftlich beantwortet
+- TOP 4.10: Anfrage der Ratsfrau Krüger: Entscheidung am 18.12.2022 21:45 Uhr, Schulen und Kitas am 19.12.2022 zu schließen und Schlechtinformation der Schulen, Lehrer, Eltern und Schüler - schriftlich beantwortet
+- TOP 4.11: Anfrage der Ratsfrau Krüger: Sterblichkeit in Düsseldorf im Zeitraum 1.1.2018 bis 31.12.2022 - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Lemmer: extrem angespannte Situation der Apotheken in Düsseldorf - schriftlich beantwortet
+- TOP 4.13: Anfrage der Ratsfrau Opelt: Laubbläser und Laubsauger: die schädlichen Alternativen für Mensch, Tier und Umwelt - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Marmulla: Intransparenter Umgang mit der Machbarkeitsstudie zum Hafen Reisholz - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 8: Bericht zur Energieversorgung (mündlicher Bericht) - zur Kenntnis genommen
+- TOP 9: Bildung und Besetzung der Kleinen Kommission "Neuzuschnitt der Kommunalwahlbezirke" - einstimmig beschlossen
+- TOP 10: Bürgerbegehren "Keine 5,8 Mio. € für den Kirchentag 2027" zur Aufhebung des Ratsbeschlusses vom 23. Juni 2022 - einstimmig beschlossen
+- TOP 11: Spende an die BürgerStiftung Düsseldorf (Härtefallfonds) - einstimmig beschlossen
+- TOP 12: Bereitstellung von überplanmäßigen Haushaltsmitteln zur Bekämpfung der COVID-19 Pandemie - mehrheitlich beschlossen
+- TOP 13: Bebauungsplan-Entwurf Nr. 02/005 - Grafental Ost - mehrheitlich beschlossen
+- TOP 14: Konzeptionierung eines Controlling-Tools - Pfad zur Klimaneutralität 2035 - zur Kenntnis genommen
+- TOP 15: Masterplan Handwerk zwischen der Landeshauptstadt Düsseldorf, der Handwerkskammer Düsseldorf und der Kreishandwerkerschaft - mehrheitlich beschlossen
+- TOP 15.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage AWIR/037/2022 - mehrheitlich abgelehnt
+- TOP 15.2: Änderungsantrag der SPD-Ratsfraktion zur Vorlage AWIR/037/2022 - mehrheitlich abgelehnt
+- TOP 15.3: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu AWIR/037/2022 - mehrheitlich beschlossen
+- TOP 16: Zweckverband Verkehrsverbund Rhein Ruhr; Abwicklung der ÖPNV-Pauschale nach § 11 Absatz 2 des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG-NRW) für das Jahr 2023 - einstimmig beschlossen
+- TOP 17: Überarbeitung der Beteiligungsrichtlinien der Landeshauptstadt Düsseldorf (LHD) und des Public Corporate Governance Kodex für die Beteiligungen der LHD (Düsseldorfer Kodex) - vertagt
+- TOP 18: Einführung eines Artenschutz-Euros für das Aquazoo Löbbecke Museum - mehrheitlich beschlossen
+- TOP 19: Sondernutzung öffentlicher Straßen für Zwecke der Außengastronomie - hier: teilweiser Verzicht auf die Erhebung von Benutzungsgebühren - mehrheitlich beschlossen
+- TOP 19.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/564/2022 - mehrheitlich abgelehnt
+- TOP 19.2: mündlicher Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/564/2022 - mehrheitlich abgelehnt
+- TOP 20: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - mehrheitlich beschlossen
+- TOP 20.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage OVA/084/2022 - zurückgezogen
+- TOP 20.2: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage OVA/084/2022 - mehrheitlich beschlossen
+- TOP 20.2.1: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage RAT/045/2023 - mehrheitlich abgelehnt
+- TOP 21: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses das Projekt "Karl-Müller-Straße 25 – Brehmschule – Errichtung von zwei Klassencontainern und Neubau einer Mensa" - einstimmig beschlossen
+- TOP 21.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage SCHUA/085/2022 - zurückgezogen
+- TOP 22: Einrichtung eines befristeten Teilstandortes des Leibniz-Montessori-Gymnasiums am Standort Gneisenaustraße 60 - einstimmig beschlossen
+- TOP 23: Beschaffung eines mobilen Hochwasserschutzsystems zum Einsatz bei drohenden Überflutungen durch innerstädtische Gewässer - Beschluss - - einstimmig beschlossen
+- TOP 24: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 25: Aufsichtsrat der Jugendberufshilfe Düsseldorf gemeinnützige Gesellschaft mit beschränkter Haftung - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 26: Aufsichtsrat der Düsseldorfer Innovations- und Technologiezentrum GmbH GmbH - Ersatzwahlen - mehrheitlich beschlossen
+- TOP 27: Aufsichtsrat der Digital Innovation Hub Düsseldorf/Rheinland GmbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 28: Aufsichtsrat der D.LIVE GmbH & Co. KG - Ersatzwahl - mehrheitlich beschlossen
+- TOP 29: Aufsichtsrat der Deutschen Oper am Rhein Theatergemeinschaft Düsseldorf - Duisburg gGmbH - Wahl Stellvertreterin - mehrheitlich beschlossen
+- TOP 30: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland -Ersatzbestellung- - mehrheitlich beschlossen
+- TOP 31: Aufsichtsrat Rheinbahn AG - Wahl eines städtischen Vertreters - mehrheitlich beschlossen
+- TOP 32: Nachwahl von Schulausschussmitgliedern in das Kuratorium der Volkshochschule - mehrheitlich beschlossen
+- TOP 33: Umbesetzung von Ausschüssen und sonstigen Gremien - mehrheitlich beschlossen
+- TOP 34: Anträge
+- TOP 34.1: Antrag der Ratsfraktion DIE LINKE: Private Auslandsreisen mit dem Zug oder Fernbus durch zusätzliche Urlaubstage fördern - mehrheitlich abgelehnt
+- TOP 34.2: Antrag der AfD-Ratsfraktion: Bereitstellung ausreichender Sitz- und Rastmöglichkeiten für Trauernde auf den Düsseldorfer Friedhöfen - mehrheitlich abgelehnt
+- TOP 34.3: Antrag der AfD-Ratsfraktion: Errichtung eines Betonpollers („Legostein“) zur Verhinderung von LKW-Terroranschlägen an der nördlichen Rheinuferpromenade zwischen Rheinterrassen und Fortuna-Büdchen am Ulanen-Denkmal - mehrheitlich abgelehnt
+- TOP 34.4: Antrag der Ratsfraktion DIE LINKE: Düsseldorf macht sich stark für den Erhalt aller Filialen von Galeria Karstadt Kaufhof - mehrheitlich abgelehnt
+- TOP 34.5: Antrag der Ratsfraktion DIE LINKE: Autofreier Tag für Düsseldorf - mehrheitlich abgelehnt
+- TOP 34.6: Antrag der FDP-Ratsfraktion: Strategische Planung zur klimaneutralen Stadt - mehrheitlich abgelehnt
