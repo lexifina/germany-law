@@ -1,0 +1,60 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2023-02-02T18:30:00+01:00
+- Ende: 2023-02-02T19:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3113
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3113
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00137227.pdf
+- Ergebnisprotokoll: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00137227.pdf
+- Wortprotokoll: 1. Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00137227.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Bestellung Schriftführer - einstimmig beschlossen
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Mittelbereitstellungen
+- TOP 4.1: Bekanntmachung über- und außerplanmäßiger Mittelbereitbestellung im November und Dezember 2022 - Kenntnisnahme
+- TOP 5: Vertreter Gesellschaftsversammlung NUKE NRW.Urban - einstimmig beschlossen
+- TOP 6: Vertretung Stadt in Verbandsversammlung und Lenkungsausschuss Landfolge Garzweiler - einstimmig beschlossen
+- TOP 7: Delegiertenversammlung Erftverband - einstimmig beschlossen
+- TOP 8: Änderung der Hauptsatzung - Kostenübernahmevereinbarungen - einstimmig beschlossen
+- TOP 9: Umbesetzung im Jugendhilfeausschuss - einstimmig beschlossen
+- TOP 10: Bericht zum 31.12.2022 ukrainische Flüchtlinge - Kenntnisnahme
+- TOP 11: Beratungspunkte Ausschüsse
+- TOP 11.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 11.1.1: 36. FNP Änd. An der Heckstraße - Beschluss n. § 6 BauGB - einstimmig beschlossen
+- TOP 11.1.2: 37. FNP Änd. Gewerbegebiet Buchholzer Straße - mehrheitlich beschlossen
+- TOP 12: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 12.1: Bekanntmachung über- und außerplanmäßige Leistungen bis Oktober 2022 - Kenntnisnahme
+- TOP 12.2: Auswirkungen des Wegfalls der Telefon-Stelen in Grevenbroich (Anfrage Nr.:79/2022) - Kenntnisnahme
+- TOP 13: Schriftliche Anträge
+- TOP 13.1: Anträge der SPD-Fraktion
+- TOP 13.2: Anträge der CDU-Fraktion
+- TOP 13.2.1: Ausschussumbesetzung (Antrag Nr.:06/2023) - einstimmig beschlossen
+- TOP 13.2.2: Überplanung der Karl-Oberbach-Straße (Antrag Nr.:07/2023) - einstimmig beschlossen
+- TOP 13.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 13.4: Anträge der FDP-Fraktion
+- TOP 13.4.1: Bürgerfreundlichere Abholung des Reisepasses ermöglichen (Antrag Nr.:02/2023) - einstimmig beschlossen
+- TOP 13.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 13.5.1: Ausschussumbesetzungen (Antrag 8/2023) - einstimmig beschlossen
+- TOP 13.6: Anträge der UWG-Fraktion
+- TOP 14: Gemeinschaftsanträge
+- TOP 14.1: Leerstandsmanagement und Immobilienplattform (Antrag Nr.:05/2022) - einstimmig beschlossen
+- TOP 15: Schriftliche Anfragen
+- TOP 15.1: Anfragen der SPD-Fraktion
+- TOP 15.2: Anfragen der CDU-Fraktion
+- TOP 15.2.1: Umwandlung der RB 39 zur S-Bahn (Anfrage Nr.: 33/2022) - Kenntnisnahme
+- TOP 15.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 15.4: Anfragen der FDP-Fraktion
+- TOP 15.4.1: Wie steht es um Carsharing-Angebote in der Stadt Grevenbroich? (Anfrage Nr.:01/2023)
+- TOP 15.4.2: Wann kommen Telepräsenzroboter (Avatare) an Grevenbroicher Schulen zum Einsatz? (Anfrage Nr. 03/2023)
+- TOP 15.4.3: Hat sich die Versteigerung von Fundsachen im Internet bewährt? (Anfrage Nr. 04/2023)
+- TOP 15.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 15.6: Anfragen der UWG-Fraktion
+- TOP 16: Mitteilungen des Bürgermeisters
