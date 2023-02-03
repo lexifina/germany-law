@@ -1,0 +1,51 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2023-02-03T17:00:00+01:00
+- Ende: 2023-02-03T19:27:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdcVPX1owjtTFSBc6x_8R2s
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4517
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeEfYZzPB3KSncl--FkNmI3AgZ_0lPX8M02ylm_1UZAo/Einladung_Rat_03.02.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZrUbms2Hcs8z7zURGl7Jy2QdH863TtwpXR26TZ2_6a/Oeffentliche_Niederschrift_Rat_03.02.2023.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.0: Verabschiedung / Vereidigung von Ratsmitgliedern
+- TOP A.0a: Verabschiedung eines Ratsmitglieds
+- TOP A.0b: Vereidigung eines neuen Ratsmtiglieds
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 16.12.2022
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Anregungen gemäß § 24 GO NRW
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: Klärschlammverwertung OWL GmbH: Entsendung eines Aufsichtsratsmitglieds - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6: Gremienbesetzungen
+- TOP A.6a: Antrag der Fraktion Bündnis'90/DIE Grünen: Gremienumbesetzung
+- TOP zuA.6a1): Antrag der Fraktion Bündnis'90/DIE Grünen: Gremienumbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP zuA.6a2): Antrag der Fraktion Bündnis'90/DIE Grünen: Gremienumbesetzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6b: Gremienbesetzung Kulturbeirat - Bei einer Enthaltung wird folgender Beschluss einstimmig gefasst:
+- TOP A.6c: Benennung von vier Vertrauenspersonen für den Ausschuss zur Wahl der Schöffinnen und Schöffen am Amtsgericht
+- TOP zuA.6c: Benennung von vier Vertrauenspersonen für den Ausschuss zur Wahl der Schöffinnen und Schöffen am Amtsgericht - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6d: Antrag der Fraktion DIE LINKE: Gremienumbesetzung JHA - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7: Gesamtkonzeption Gestaltung des Weihnachtsmarktes
+- TOP zuA.7: Gesamtkonzeption Gestaltung des Weihnachtsmarktes - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP zuA.7a: Änderungsantrag der Fraktionen Bündnis'90/Die Grünen, BfH, DIE LINKE, FDP, Liste 2004 sowie dem fraktionslosen Ratsmitglied Andreas Jotzo zu den Vorlagen "Gestaltung des Weihnachtsmarktes" und "Stärkung des Standorts Markthalle Herford"
+- TOP A.8: Stärkung des Standorts Markthalle Herford
+- TOP A.9: Antrag der FDP-Fraktion: Live-Streaming der Sitzungen des Rates, des Haupt- und Finanzausschusses und des Bau- und Umweltausschusses
+- TOP zuA.9: Antrag der FDP-Fraktion: Live-Streaming der Sitzungen des Rates, des Haupt- und Finanzausschusses und des Bau- und Umweltausschusses - Somit wird mehrheitlich folgender Beschluss gefasst:
+- TOP zuA.9a): Kostenbeispiel "Live-Streaming" vom Ratsmitglied Heinz-Günther Scheffer / Liste 2004
+- TOP A.10: Überörtliche Prüfung durch die Gemeindeprüfungsanstalt Nordrhein-Westfalen ( gpaNRW) hier: Beratung über die Ergebnisse der Prüfung der Haushaltsjahre 2016-2021 und Beschlussfassung über die Stellungnahmen der Verwaltung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Prüfung und Feststellung des Jahresabschlusses 2021, Ergebnisverwendung und Entlastung des Bürgermeisters - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12: Entwurf der Haushaltssatzung 2023 sowie mittelfristige Ergebnis- und Finanzplanung 2024 - 2026 hier: Einbringung des Entwurfs der Haushaltssatzung 2023 mit ihren Anlagen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: Stellenplan für den Haushalt 2023 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Energieeinsparmaßnahmen des Konzern Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Neubau des Feuerwehrhauses Elverdissen der freiwilligen Feuerwehr der Hansestadt Herford nach den Vorgaben der Raumplanung und Beauftragung des Immobilien- und Abwasserbetriebes (IAB) mit der Planung und dem Kauf eines geeigneten Grundstücks. - Bei einer Enthaltung wird folgender Beschluss einstimmig gefasst:
+- TOP A.16: Antrag der Fraktion DIE LINKE: Nominierung des Vereins Kulturbeutel für den Westfalen Weser Kulturpreis 2023 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Antrag der Fraktion "Bürger für Herford": Änderung der Vergaberichtlinien der Hansestadt Herford
+- TOP zuA.17: Antrag der Fraktion "Bürger für Herford": Änderung der Vergaberichtlinien der Hansestadt Herford
+- TOP A.18: Mitteilungen
