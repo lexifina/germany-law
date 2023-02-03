@@ -348,6 +348,8 @@ und Vertragsärzten
 - [§ 115b Ambulantes Operieren im Krankenhaus](0115b.md)
 - [§ 115c Fortsetzung der Arzneimitteltherapie nach Krankenhausbehandlung](0115c.md)
 - [§ 115d Stationsäquivalente psychiatrische Behandlung](0115d.md)
+- [§ 115e Tagesstationäre Behandlung](0115e.md)
+- [§ 115f Spezielle sektorengleiche Vergütung; Verordnungsermächtigung](0115f.md)
 - [§ 116 Ambulante Behandlung durch Krankenhausärzte](0116.md)
 - [§ 116a Ambulante Behandlung durch Krankenhäuser bei Unterversorgung](0116a.md)
 - [§ 116b Ambulante spezialfachärztliche Versorgung](0116b.md)
@@ -368,9 +370,9 @@ und Vertragsärzten
 von Heilmitteln
 
 - [§ 124 Zulassung](0124.md)
-- [§ 125 Verträge](0125.md)
+- [§ 125 Verträge zur Heilmittelversorgung](0125.md)
 - [§ 125a Heilmittelversorgung mit erweiterter Versorgungsverantwortung](0125a.md)
-- [§ 125b Bundesweit geltende Preise, Verordnungsermächtigung](0125b.md)
+- [§ 125b Verordnungsermächtigung](0125b.md)
 
 ### Sechster Abschnitt Beziehungen zu Leistungserbringern
 von Hilfsmitteln
@@ -437,7 +439,8 @@ Leistungserbringung
 - [§ 137h Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse](0137h.md)
 - [§ 137i Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern; Verordnungsermächtigung](0137i.md)
 - [§ 137j Pflegepersonalquotienten, Verordnungsermächtigung](0137j.md)
-- [§ 137k Personalbemessung in der Pflege im Krankenhaus](0137k.md)
+- [§ 137k Personalbemessung in der Pflege im Krankenhaus; Verordnungsermächtigung](0137k.md)
+- [§ 137l Wissenschaftliche Weiterentwicklung der Personalbemessung in der Pflege im Krankenhaus](0137l.md)
 - [§ 138 Neue Heilmittel](0138.md)
 - [§ 139 Hilfsmittelverzeichnis, Qualitätssicherung bei Hilfsmitteln](0139.md)
 - [§ 139a Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen](0139a.md)
@@ -470,7 +473,7 @@ der Bundesregierung für die Belange der Patientinnen und Patienten
 Entwicklung im Gesundheitswesen
 
 - [§ 141](0141.md)
-- [§ 142 Sachverständigenrat](0142.md)
+- [§ 142 Sachverständigenrat Gesundheit und Pflege](0142.md)
 
 ## Sechstes Kapitel Organisation der Krankenkassen
 
@@ -872,6 +875,8 @@ von Leistungsdaten, Datentransparenz
 - [§ 330 Vermeidung von Störungen der informationstechnischen Systeme, Komponenten und Prozesse der Telematikinfrastruktur](0330.md)
 - [§ 331 Maßnahmen zur Überwachung des Betriebs zur Gewährleistung der Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur](0331.md)
 - [§ 332 Anforderungen an die Wartung von Diensten](0332.md)
+- [§ 332a Unzulässige Beschränkungen durch Anbieter und Hersteller informationstechnischer Systeme für die vertragsärztliche Versorgung, die vertragszahnärztliche Versorgung, die pflegerische Versorgung, für Krankenhäuser und Apotheken sowie für Vorsorgeeinrichtungen und Rehabilitationseinrichtungen](0332a.md)
+- [§ 332b Rahmenvereinbarungen mit Anbietern und Herstellern informationstechnischer Systeme](0332b.md)
 - [§ 333 Überprüfung durch das Bundesamt für Sicherheit in der Informationstechnik](0333.md)
 
 ### Fünfter Abschnitt Anwendungen der Telematikinfrastruktur
@@ -934,6 +939,7 @@ von Leistungsdaten, Datentransparenz
 
 - [§ 360 Elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen](0360.md)
 - [§ 361 Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur](0361.md)
+- [§ 361a Einwilligungsbasierte Übermittlung von Daten aus vertragsärztlichen elektronischen Verordnungen; Verordnungsermächtigung](0361a.md)
 
 #### Siebter Titel Nutzung der Telematikinfrastruktur durch weitere Kostenträger und durch das Zentrale Vorsorgeregister
 
@@ -968,7 +974,7 @@ von Leistungsdaten, Datentransparenz
 
 ### Achter Abschnitt Finanzierung und Kostenerstattung
 
-- [§ 376 Finanzierungsvereinbarung](0376.md)
+- [§ 376 Finanzierung](0376.md)
 - [§ 377 Finanzierung der den Krankenhäusern entstehenden Ausstattungs- und Betriebskosten](0377.md)
 - [§ 378 Finanzierung der den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern entstehenden Ausstattungs- und Betriebskosten](0378.md)
 - [§ 379 Finanzierung der den Apotheken entstehenden Ausstattungs- und Betriebskosten](0379.md)
@@ -1024,6 +1030,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 416 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung](0416.md)
 - [§ 417 Versicherung nach § 9 für Ausländerinnen und Ausländer mit Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes oder mit entsprechender Fiktionsbescheinigung](0417.md)
 - [§ 418 Übergangsregelung zum Antragsverfahren zur Ausnahme vom Preismoratorium](0418.md)
+- [§ 419 Übergangsregelung zur Besetzung der Vorstände der Kassenärztlichen Vereinigungen und Kassenärztlichen Bundesvereinigungen](0419.md)
 - [§ 420 Übergangsregelung zur Novellierung der vermögensrechtlichen Vorschriften](0420.md)
 - [§ 421 Übergangsregelung zur Vergütung von pharmazeutischem Großhandel und von Apotheken für die Abgabe von COVID-19-Impfstoff](0421.md)
 - [Anlage (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung](anlage.md)
