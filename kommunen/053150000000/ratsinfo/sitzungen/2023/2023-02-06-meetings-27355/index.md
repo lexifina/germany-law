@@ -1,0 +1,90 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-02-06T14:35:00+01:00
+- Ende: 2023-02-06T15:49:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27355
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27355
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Liste der Großbauprojekte - Kenntnis genommen
+- TOP 2.2.1: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 2.3: Nachhaltigkeitsbericht der Stadt Köln 2022 - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30. November 2022 - Kenntnis genommen
+- TOP 2.5: Bedarfsfeststellungsbeschluss zur Vergabe von Leistungen für den Themenbereich Sicherheit im Rahmen der Vorbereitung und Durchführung der Fußball EM 2024 - Kenntnis genommen
+- TOP 2.6: Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 - Kenntnis genommen
+- TOP 2.7: Sponsoringrichtlinie - zurückgestellt
+- TOP 2.8: Öffentlich geförderter Mietwohnungsbau - Kenntnis genommen
+- TOP 2.9: Kölner Verkehrs-Betriebe AG: Bürgschaftserklärung Anschlussfinanzierung Nord-Süd-Stadtbahn-Darlehen - Kenntnis genommen
+- TOP 2.10: Gemeinwohlbilanzierung - Kenntnis genommen
+- TOP 2.11: Strukturförderfonds 2023 / 2024 - Kenntnis genommen
+- TOP 2.12: ÖPNV-Gesamtbericht der Stadt Köln gemäß Art. 7 Abs. 1 Verordnung (EG) 1370/2007, geändert durch Verordnung (EU) 2016/2338 - Kenntnis genommen
+- TOP 2.13: Risikokategorien für das Risikomanagement von Großbauprojekten bei der Gebäudewirtschaft der Stadt Köln - Kenntnis genommen
+- TOP 2.14: Berichte zur Situation Geflüchteter - Kenntnis genommen
+- TOP 2.15: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.12.2022 - Kenntnis genommen
+- TOP 2.16: Zuweisung zur weiteren Unterstützung der Kommunen bei der Bewältigung Corona-bedingter Haushaltsbelastungen im Jahr 2022 - Kenntnis genommen
+- TOP 2.17: Dekarbonisierung bei der RheinEnergie AG und im Stadtwerke-Konzern - Kenntnis genommen
+- TOP 2.18: Mitteilung zu DE 4030/2022 - schulrechtliche Änderung mehrerer Gymnasien ab den Schuljahren 2023/24 und 2024/25 - Kenntnis genommen
+- TOP 2.19: Strukturförderfonds steigende Personal- und Energiekosten - Kenntnis genommen
+- TOP 2.20: Refinanzierung der Kosten zur Unterbringung und Betreuung von aus der Ukraine Geflüchteten - Kenntnis genommen
+- TOP 2.21: Beantwortung der Anfrage des RM Joisten betr. der überplanmäßigen Bereitstellung von 3,5 Mio. € für den Rettungsdienst (3878/2022) - Kenntnis genommen
+- TOP 2.22: Strukturförderfonds 2023/2024 - Förderprogramm für Zuwendungen aus dem Strukturförderfonds des Kulturamtes zur Abmilderung der steigenden Personal- und Energiekosten in Folge des Ukraine-Krieges im Jahr 2023 - Kenntnis genommen
+- TOP 2.23: Strukturförderfonds 2023/2024 - Teilbereich Jugendverwaltung - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.1.2: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 6.2.2: Mitteilung zur Kostenerhöhung gem. § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 bei der Generalsanierung der Sportanlage Humboldtstraße (südlicher Platz) in Köln-Porz - Kenntnis genommen
+- TOP 6.3: Belastungen des städtischen Haushaltes im Zusammenhang mit Maßnahmen zur Aufnahme und Unterbringung von anlässlich des Krieges in der Ukraine eingereisten Personen - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Bedarfsfeststellungsbeschluss zur Aufstellung von 10 weiteren Variotafeln sowie Freigabe einer Auszahlungsermächtigung für das Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 7.2: Umgestaltung Bolzplatz Katharinenstraße in Köln-Godorf - unter Vorbehalt beschlossen
+- TOP 7.3: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung des Neubaus und der Einfachturnhalle für die Grundschule Alfons-Nowak-Str. 2, 50859 Köln-Junkersdorf im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Planungs- und Bedarfsfeststellungsbeschluss für die Vergabe der weiteren externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme „Vierspuriger Ausbau der Frankfurter Straße zwischen der Theodor-Heuss-Str - zurückgestellt
+- TOP 10.2: Generalinstandsetzung Kindertagesstätte Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven - Weiterplanungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.3: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - zurückgestellt
+- TOP 10.4: Mittelfreigabe zur Sanierung städtischer Brunnen - ungeändert beschlossen
+- TOP 10.5: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Gebäudes zur Erweiterung des Berufskolleg Ehrenfeld einschließlich 3-fach Sporthalle in Köln Ehrenfeld - ungeändert beschlossen
+- TOP 10.6: Stadtklima-/Stadtverschönerungsprogramm 2022 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.7: Baubeschluss für die Durchführung der Brandschutzsanierung der unterirdischen Stadtbahnhaltestelle Hans-Böckler-Platz / Bf. West - ungeändert beschlossen
+- TOP 10.8: Förderprojekt 'Dasselbe in Grün' - aus grauer wird grüne Infrastruktur - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Baubeschluss für den Ersatzneubau der Brücke Frankfurter Straße (B 8) über die B 55a - zurückgestellt
+- TOP 10.10: Weitere Förderung des Vereins zur Förderung abschlussbezogener Jugend- und Erwachsenenbildung e.V. (VfJ e.V.) im Rahmen einer Festbetragsfinanzierung für die Jahre 2023 und 2024 - ungeändert beschlossen
+- TOP 10.11: AchtBrücken GmbH - Betriebskostenzuschüsse für die Jahre 2025-2027 - zurückgestellt
+- TOP 10.12: Änderung der Richtlinie für die Anerkennung und Förderung der Interkulturellen Zentren – hier: Anlage 4 (Förderungshöhe) - ungeändert beschlossen
+- TOP 10.13: GAG Immobilien AG: Satzungsänderung GAG - endgültig zurückgezogen
+- TOP 10.14: Bedarfsfeststellungsbeschluss Waidmarkt - Vergabe externer Fachbüros zur Unterstützung der Teilprojekte und Fachdienststellen im Projekt Waidmarkt - ohne Votum in nachfolgende Gremien
+- TOP 10.15: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - zurückgestellt
+- TOP 10.16: 'Integrationsbudget' - Verteilung der Finanzmittel in den Haushaltsjahren 2023 und 2024 - ungeändert beschlossen
+- TOP 10.17: Bedarfsfeststellung zur Errichtung von Unterrichtsräumen durch Umbau des B-Traktes und zur Ausstattung der Räume am Hildegard-von-Bingen-Gymnasium, Leybergstraße 1, 50939 Köln-Sülz - ungeändert beschlossen
+- TOP 10.18: Sportentwicklungsplanung - Modellprojekt Sanierung Rendsburger Platz - ungeändert beschlossen
+- TOP 10.19: Bedarfsanerkennung für die Pilotierung der softwareunterstützten Formierung Kölner Fragmente (SUFKF) - ungeändert beschlossen
+- TOP 10.20: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), Bericht 2023 - ungeändert beschlossen
+- TOP 10.21: Aufstellung und Einrichtung des für das Gymnasium Rochusstraße 145 bereits bestellten Modulbaus am Standort Eitorfer Straße zur Nutzung durch das Berufskolleg 10 und entsprechende Freigabe von investiven Auszahlungsermächtigungen - ohne Votum in nachfolgende Gremien
+- TOP 10.22: Zuschuss für den Rosenmontagszug und die Straßendekoration an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 10.23: Schulrechtliche Änderung der Schule Thymianweg (FSL) in Köln-Höhenhaus durch Schließung des Teilstandortes Berliner Str. 36, 51149 Köln bei gleichzeitiger Errichtung einer neuen Förderschule Lernen am Standort Berliner Straße in Köln- Westhoven - ungeändert beschlossen
+- TOP 10.24: Drogenhilfeangebote am Neumarkt - ohne Votum in nachfolgende Gremien
+- TOP 10.25: Baubeschluss für den Neubau von vier stationären Verschlusseinrichtungen für den Hochwasserschutz von Stadtbahnanlagen in der Kölner Innenstadt - ungeändert beschlossen
+- TOP 10.26: Delmenhorster Straße 20, Mittel für den Umbau - ungeändert beschlossen
+- TOP 10.27: Neu-Festsetzung Kartenpreise für Konzerte des Gürzenich-Orchesters in der Kölner Philharmonie ab 2023/24 - zurückgestellt
+- TOP 10.28: Vergabe der Konzeptionsförderung in der Sparte Kulturelle Teilhabe, Haushaltsjahre 2023-2026 - ungeändert beschlossen
+- TOP 10.29: Änderung der Entgeltordnung für das Erheben von Parkentgelten am Fühlinger See - geändert beschlossen
+- TOP 10.30: GAG Immobilien AG: Satzungsänderung GAG - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
