@@ -1,0 +1,94 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-02-06T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7446467
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7446467
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Müll in der Hans-Klein- und Lipowskystraße
+- TOP 2.2.: Radweg-Situation in der Tumblinger Straße
+- TOP 2.3.: Container auf dem Parkplatz am Gotzinger Platz für Sendlinger Künstler*innen als bezahlbare Ateliers aufstellen
+- TOP 2.4.: Ladensäulen für Elektroautos im Bereich Wink-/ Pfeufer-/ Baumgartnerstraße
+- TOP 2.5.: Raumanfrage anlässlich der Neugründung eines Blasorchesters in Sendling
+- TOP 2.6.: Verparkung durch Wohnmobile in der Durchfahrt Flössergasse trotz Parkverbot
+- TOP 2.7.: Sondernutzung des Gehwegs vor Gebäude Danklstraße 32
+- TOP 2.8.: Beschädigung von Leih-E-Scootern und E-Fahrrädern und Entsorgung auf dem Parkplatz des Quartiersplatz Theresienhöhe
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) Förderverfahren bei energetischer Sanierung beschleunigen
+- TOP 4.1.2.: (E) + (U) Abriss der Wohnanlage an der Fallstraße / Zechstraße ablehnen Empfehlung Nr. 20-26 / E 00999 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 25.10.2022
+- TOP 4.1.3.: (E) Toilette und Fahrradstellplätze am Spielplatz am Flaucher
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Bavariastraße 36
+- TOP 4.2.2.: Anhörung Beschlussvorlage "Hochhausstudie 2023"
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Baumfällung Daiserstraße 52-58 Bescheid
+- TOP 4.3.3.: Baumpflegearbeiten in Sendling
+- TOP 4.3.4.: Bank am Sendlinger Kirchplatz renovieren
+- TOP 4.3.5.: REWE-Park entmüllen und endlich in eine Grünanlage umwandeln
+- TOP 4.3.6.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Neue Sitzbank in der Karwendelstraße am Eingang des Sendlinger Friedhofes [Seniorenvertretung]
+- TOP 4.4.2.: Anfrage Altbau Maria Probst Realschule
+- TOP 4.4.3.: Planungen des Neubaus der Maria-Probst-Realschule am Gotzinger Platz [SPD + Die Grünen]
+- TOP 4.4.4.: Erhaltungssatzung Sendling für das südliche Brudermühlviertel [SPD + Die Grünen]
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Umwandlung von Parkplätzen in Grünstreifen mit Baumpflanzung an der Schanzenbachstraße
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Mehr Sicherheit an Bushaltestellen
+- TOP 5.3.2.: Urbanstraße 3-5 eingeschränktes Haltverbot mit Zeitzusatz
+- TOP 5.3.3.: Elektroroller vermüllen die Stadt Antwort
+- TOP 5.3.4.: Gotzinger Platz – Errichtung einer Interimsfläche zum Boulespielen Protokoll des Ortstermins am 15.12.2022
+- TOP 5.3.5.: Parksituation Brudermühlviertel Antwort
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Lückenschluss Radwegenetz Radfahrstreifen entlang der Plinganserstraße auf Höhe der Dudenstraße [Die Grünen]
+- TOP 5.4.2.: Planungen des Neubaus der Maria-Probst-Realschule am Gotzinger Platz und die damit verbundene Verkehrssituation [SPD + Die Grünen]
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Einladung zur Online-Veranstaltung „Perspektiven der Fahrradmobilität in ländlich geprägten Regionen“ am 6. März 2023
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Hidalgo gGmbH “Street Art Song (im Rahmen des Kunstlied – Festivals HIDALGO) am 02.09.2023“ 1.500,00 € / AZ: 0262.0-6-0409
+- TOP 6.1.2.: (E) Stadtbezirksbudget Isarlust e.V. “Kulturlieferdienst vom 06.02.2023 – 31.12.2023“ 4.760,00 € / AZ: 0262.0-6-0410
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Haushaltsbeschluss 2023; Stadtbezirksbudgets in 2023
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Unfallanalyse im Grundschulsprengel [Die Grünen]
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Erweiterung einer Freischankfläche Implerstraße 12a
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Isarflimmern
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Teilhabe fördern [Die Grünen]
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.1.1.: Durchführung von Hybridsitzungen durch den Sendlinger Bezirksausschuss
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
