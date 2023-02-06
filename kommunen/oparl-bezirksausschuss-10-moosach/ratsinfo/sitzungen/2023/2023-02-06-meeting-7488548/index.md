@@ -1,0 +1,57 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-02-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488548
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488548
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Gefährliche Verkehrssituation am Kindergarten und Kinderkrippe Dillinger Str. 14 und 15
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: N_Ehrenbreitsteiner Str. 32
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: N_Großbeerenstr. 4
+- TOP 3.3.2.2.: N_Haselwurzweg 10
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Prüfung einer möglichen Änderung der Ampelschaltung Georg-Brauchle-Ring und Hanauer Straße (Radverkehr)
+- TOP 4.1.2.: Prüfung der Möglichkeit Bus-Wartehäuschen in Moosach zu begrünen (z.B. durch Versuch in der Hanauer Straße)
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Sexualpädagogisches MfM-Projekt vom 15.-30.03.2023 1.750,00 € / Az. 0262.0-10-0319
+- TOP 5.2.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song (im Rahmen des Kunstliedfestivals HIDALGO) am 02.09.2023 1.500,00 € / Az. 0262.0-10-0318
+- TOP 5.3.: (E) Stadtbezirksbudget Das aserbaidschanische Kulturzentrum in München e.V. Verbesserung des allgemeinen Zustandes des Vereins 6.000,00 € / Az. 0262.0-10-0323
+- TOP 5.4.: (E) Stadtbezirksbudget Initiative „Agathendämmerung“ Agathendämmerung vom 02.01. - 15.10.2023 3.000,00 € / Az. 0262.0-10-0317
+- TOP 5.5.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 € / Az. 0262.0-10-0321
+- TOP 5.6.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Freischankfläche Bunzlauer Str. 25
+- TOP 6.: Anhörungen
+- TOP 6.1.: Standortbestimmung der künftigen Parkscheinautomaten für das Parklizenz-Gebiet "Seydlitzplatz" (-> vertagt aus Sitzung am 16.01.2023)
+- TOP 6.2.: Entwurf Beschlussvorlage: Perspektive München - Hochhausstudie 2023 (-> vertagt aus Sitzung am 16.01.2023)
+- TOP 6.3.: N_Veranstaltung auf öffentlichem Verkehrsgrund: St.-Martins-Platz „Moosacher Maifest“ vom 26.04. - 01.05.2023
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Verparkung der Einfahrten zum Kirchenparkplatz von St. Mauritius in der Templestraße [Schreiben BA10 vom 23.11.2022; weder Haltverbote, noch Beschilderung der Feuerwehrzufahrt, da nicht amtliche Zufahrt.]
+- TOP 7.2.: Versetzung der Wertstoffinsel in der Naumburgerstraße/ Ecke Görlitzer Straße [Schreiben BA10 vom 16.03.2022; Absiedelung aus straßenverkehrsrechtlichen Gründen nicht veranlasst; Rücksetzung und nur einseitiger Einwurf wurde veranlasst.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 8.2.: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 8.3.: Urbanes Gärtnern in München StR-Anträge
+- TOP 8.4.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 8.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: - nicht-öfentlich - Aufhebung eines personenbezogenen Behindertenparkplatzes Naumburger Straße
+- TOP 8.6.: Erweiterung Mobilfunksendeanlage: Pelkovenstraße - nicht-öffentlich -
+- TOP 8.7.: Vollzug der Erhaltungssatzung Moosach: - nicht-öffentlich - Genehmigung nicht baugenehmigungspflichtiger Modernisierungsmaßnahmen: Ehrenbreitsteiner Straße
+- TOP 8.8.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - Zittauer Straße
+- TOP 4.: Anträge
