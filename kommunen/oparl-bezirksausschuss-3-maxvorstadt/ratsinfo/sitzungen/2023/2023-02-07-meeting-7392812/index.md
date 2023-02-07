@@ -1,0 +1,135 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-02-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7392812
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7392812
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 5.2.1.: Zamanand Festival 2023 - Ludwigstraße
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Antrag Grüne vom 26.09.2022 Leerstand in der Maxvorstadt: Nutzung ARRI Gebäude in der Türkenstraße
+- TOP 6.2.: Antrag Wertstoff- und Giftmobil
+- TOP 6.3.: Fahrbahnverengung Baustelle Türkenstraße 2022
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Verbannung von fossil betriebenen Laubbläsern
+- TOP 1.2.2.: Klimaschutz in der Maxvorstadt – Fassadenbegrünung Grundschule an der Schwindstraße
+- TOP 1.2.3.: Was unternimmt die LH München gegen die jahrelangen Wohnungsleerstände infolge von Bauanträgen?
+- TOP 1.2.4.: Antrag SPD vom 03.02.2023 Informationsveranstaltung zu „Superblocks“
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 51-52 und KW 2-3 von 2023
+- TOP 2.1.2.: WEB-Listen der LBK: KW 50-52
+- TOP 2.1.3.: Theresienstraße 35, Nutzungsänderung Ladeneinheit zu Café
+- TOP 2.1.4.: Neureutherstr. 11, Abbruch und Neuerrichtung eines Daches mit zusätzlichen Wohneinheiten (2 Varianten) – VORBESCHEID
+- TOP 2.1.5.: Amalienstraße 18, Umbau und Sanierung eines Wohngebäudes; Abbruch Dach, Neuerrichtung Tonnendach mit Firsterhöhung, Neuerrichtung Balkone, Neuerrichtung Aufzug, Nutzungsänderung Gewerbe zu Wohnen, Entfall von 3 Garagenplätzen und 4 Stellplätzen im Hof, Neuerrichtung Lichtschacht
+- TOP 2.1.6.: Schwindstraße 1 a, Neubau eines Vereinsgebäudes mit Studenten- und Gästezimmern, Wohnungen für Vereinsmitglieder – VORBESCHEID
+- TOP 2.1.7.: Schönfeldstr. 14, TEKTUR zu 1.2-2022-6273-22 / Abbruch und Neubau einer Wohnanlage (59 WE) mit 2 Gewerbeeinheiten und einer Tiefgarage - mit Mobilitätskonzept
+- TOP 2.1.8.: Augustenstr. 95, Dachgeschossausbau zu zwei Wohnungen mit Balkon sowie Dachanhebung um 70 cm - VORBESCHEID
+- TOP 2.2: Anhörung
+- TOP 2.2.1.: Anhörung zur Beschlussvorlage Hochhausstudie (vertagt aus 01/23)
+- TOP 2.3: BV Empfehlung
+- TOP 2.3.1.: Mehr Grün für die Maxvorstadt – Straßenbäume für München BV Empfehlung Nr. 20-26 / E Sitzungsvorlage Nr. 20-26 / V 08810
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Baumfällung Karlstr. 6
+- TOP 3.1.2.: Kaulbachstraße 16
+- TOP 3.1.3.: Barerstr. 66
+- TOP 3.1.4.: Rambergstraße 6, zwei Ahornbäume
+- TOP 3.1.5.: Dachauer Str.98 b, eine Weide
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Unterrichtung über bevorstehende Fällung von Gefahrenbäumen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Anfrage Gebäude Luisenstr. 20 a, Antwort des Baureferats
+- TOP 5.2.: Adalbertstr. 55, ungenehmigte Baumaßnahme im Kellergeschoss
+- TOP 5.3.: Heßstr. 49 Vorbescheid Stellungnahmen des BA 3
+- TOP 5.4.: Urbanes Gärtnern in München StR-Anträge
+- TOP 5.5.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Marlene-Dietrich-Straße 25
+- TOP 1.1.2.: Ruhestörung durch Gastronomie
+- TOP 1.1.3.: Reklamation Straßenbelag
+- TOP 1.1.4.: Radentscheid München: Radabsteller Stachus
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Alter Botanischer Garten 1 – Bänke im Garten versetzen
+- TOP 1.2.2.: Alter Botanischer Garten 2 – Lösung für den Zaun und das angrenzende Grün
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Tempo 30 in der Schleißheimer Straße - Stadtbezirke 3 und 4
+- TOP 2.1.2.: (E) Unterbindung verkehrswidrigen Verhaltens der Fahrradlieferdienste
+- TOP 2.1.3.: Theresienstraße zwischen Türkenstraße und Barerstraße Errichtung eines Radfahrstreifens mit Freigabe für den Linienverkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Theresienstraße zwischen Türkenstraße und Barerstraße Errichtung eines Radfahrstreifens mit Freigabe für den Linienverkehr
+- TOP 2.2.2.: Spielplatz Tengstraße – Untergrund für Seilbahn aufschütten BV Empfehlung Nr. 20-26 / E 01080 Sitzungsvorlage Nr. 20-26 / V 08790
+- TOP 2.2.3.: Instandsetzung Grünanlage an der Augustenstraße nach Baumaßnahme BV-Empfehlung Nr. 20-26 / E 01069 Sitzungsvorlage Nr. 20-26 / V 08736
+- TOP 2.2.4.: entfällt
+- TOP 2.2.5.: TO 01/2023 C 2.1.3. Ladezone Theresienstr. 60, Eingeschränktes Haltverbot als Ladezone für Kunstauktionshaus von 10 – 13 Uhr
+- TOP 2.2.6.: TO 01/2023 C 2.1.2. Theresienstr. 71, Einrichtung eines eingeschränkten Haltverbots als Hol- und Bringzone für KiTa Am Sternenwinkel
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Gaststätte "Shiva", Augustenstr. 96
+- TOP 2.3.2.: Gabelsbergerstr. 97, Gaststätte: "Casa Nostra"; Erweiterung einer bestehenden FSF
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung: Parade zum St. Patricksday (Start: Feilitzschstraße) am 12.03.2023 und Veranstal-tung auf dem Odeonsplatz am 11./12.03.2023
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tengstraße - Haltverbote in den Kurvenbereichen zur Kenntnisnahme - Bezirke 3, 4
+- TOP 3.2.: Loristraße_Z283
+- TOP 3.3.: 20-26 Q 00227 Antwortschreiben Abdruck an BA 3
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Blutenburgstraße e.V. Selbstbehauptungskurs am 21./22. und 27./28.03.2023 1.428,00 Euro, Az.: 0262.0-3-0440
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Platz da für Mädchen* und junge Frauen* - Sicherheitsgefühl stärken „Platz da für Mädchen* und junge Frauen*“ Antrag Nr. 20-26 / A 03295 ... 3. Stadtbezirk Maxvorstadt 6. Stadtbezirk Sendling 7. Stadtbezirk Sendling-Westpark 10. Stadtbezirk Moosach 13. Stadtbezirk Bogenhausen 15. Stadtbezirk Trudering-Riem 17. Stadtbezirk Obergiesing–Fasangarten 20. Stadtbezirk Hadern 22. Stadtbezirk Aubing-Lochhausen-Langwied
+- TOP 4.2.: (U) „Ratschbankerl“ für München Antrag Nr. 20-26 / V 02340 ...................
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Kulturelle Zwischennutzung in der Karlstraße 20-22 ermöglichen
+- TOP 1.2.2.: 10 Jahre Bürgergutachten, 5 Jahre Masterplan – Wann passiert endlich etwas im Kunstareal?
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 02.09.2023 1.500,00 Euro, Az.: 0262.0-3-0437
+- TOP 2.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 Euro, Az.: 0262.0-3-0438
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative "Performanceprojekt" "Was soll der olle Schinken 2.0" - Performanceprojekt in der Alten Pinakothek von Ende Februar - Ende März 2023 2.150,90 Euro, Az.: 0262.0-3-0439
+- TOP 2.4.: (E) Stadtbezirksbudget dungeon dragon Soundsystem GbR KlangKunst-Konzert und Vernissage im Kunstlabor 2 am 28.02.2023 835,70 Euro, Az.: 0262.0-3-0442
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Neuregelung der Bürger*innensprechstunde des BA 3
+- TOP 1.2.: Kinder- und Bürger*innenfest: Stand der Planung
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.2.3.: Eilantrag Grüne vom 07.02.2023 Antrag zu Wiederbelebung von leerstehenden Kiosk-Flächen in den U-Bahnhöfen der Maxvorstadt
+- TOP 2.1.9.: Gabelsbergerstr. 87, 1.1-24224-2022-22, Großtagespflege für Kinder
+- TOP 2.1.10.: Maximilianspl. 9, 1.7-24288-2022-22, VORBESCHEID – GENEHMIGUNGS-VERLÄNGERUNG,
+- TOP 3.: Aktuelle Sachstandsberichte
