@@ -1,0 +1,80 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-02-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7354755
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7354755
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 10.01.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.2.1: Virtuelle Tagungsmöglichkeiten für Unterausschüsse weiter ermöglichen
+- TOP 2.3.: Umstellung der Dokumentenverwaltung von Alfresco auf RIS-Extranet
+- TOP 2.4.: Anpassung der Sitzverteilung in den Unterausschüssen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Eigenheimsiedlung München-Fürstenried, Graubündener Straße, Tessiner Straße und Thurgaustraße: “Sondervorhaben Spielplatzmöbelierung Spielgerät „Kleiner Drache“ vom 01.03.2023 bis 31.03.2023“ 8.122,20 € / AZ: 0262.0-19-0435
+- TOP 3.3.: (E) Stadtbezirksbudget Hidalgo gGmbH: “Street Art Song (im Rahmen des Kunstlied – Festivals HIDALGO) am 02.09.2023“ 1.500,00 € / AZ: 0262.0-19-0444
+- TOP 3.4.: (E) Stadtbezirksbudget Isarlust e.V.: “Kulturlieferdienst vom 06.02.2023 bis 31.12.2023“ 4.760,00 € / AZ: 0262.0-19-0445
+- TOP 3.5.: (E) Stadtbezirksbudget Initiative „Pumpkin Machine“: “The Pumpkin Machine – Folk Rave – Sie kamen, sie tanzten, sie blieben am 01.04.2023“ 2.000,00 € / AZ: 0262.0-19-0446
+- TOP 3.6.: Stadtteilwoche Forstenried-Fürstenried-Solln
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (BV) Zustand des Sollner Weihers verbessern und Anbringung eines Hinweisschildes zum Thema Fütterung
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Aufhebung Radwegbenutzungspflicht Kistlerhofstraße
+- TOP 5.2.: (Antrag) LH München tritt der Initiative "Lebenswerte Städte und Gemeinden" bei
+- TOP 5.3.: (BV) Zustand Fahrradweg Herterichstraße verbessern
+- TOP 5.4.: (BV) Ziff. 2: Erneuerung des Asphalts in der Sollner Straße
+- TOP 5.5.: (A) Beschlussentwurf: Ersatzneubau der Kreuzhofbrücken BW 40/45 und BW 40/46 im 7. Stadtbezirk Sendling - Westpark, im 19. Stadtbezirk Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln und im 20. Stadtbezirk Hadern Vorprojektgenehmigung; Sitzungsvorlage Nr. 20-26 / V 08586
+- TOP 5.6.: (Antrag) Schulwegsicherheit Grundschule Forstenrieder Allee
+- TOP 5.7.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Kurzzeitparken Aidenbachstraße 140
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Umstrukturierung beim Straßenreinigungsstützpunkt in der Gmunder Straße 32
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.2: Fürstenackerstraße 9
+- TOP 6.2.3: Diemendorfer Straße 14
+- TOP 6.2.5: Bellinzonastraße 30
+- TOP 6.2.6: Barmseestraße 10 (VB)
+- TOP 6.2.7: Königswieser Straße 5 (T)
+- TOP 6.2.8: Maxhofstraße 23
+- TOP 6.2.9: Kurzbauerstraße 7a
+- TOP 6.2.10: Bellinzonastraße 22
+- TOP 6.2.11: Hatzelweg 21
+- TOP 6.2.12: Appenzeller Straße 121
+- TOP 6.2.13: Bellinzonastraße 12
+- TOP 6.2.14: Bichler Straße 17
+- TOP 6.2.15: Forstenrieder Allee 107
+- TOP 6.2.16: Rupert-Mayer-Straße 46 (VB)
+- TOP 6.2.17: - NACHTRAG - Feldafinger Straße 10
+- TOP 6.3.: (A) Hochhausstudie 2023
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (BV) Aktueller Planungsstand Hermann-von-Siemens-Sportpark und aktive Beteiligung von Senior*innen
+- TOP 7.3.: (BV) Spielplätze für Kleinkinder
+- TOP 7.4.: (A) Neuerrichtung Biathlonanlage Zielstattstraße
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Erklärende Zusatzschilder an Straßennamen im Stadtbezirk 19
+- TOP 8.3.: (U) Gaststättenfortführung: Graubündener Straße
+- TOP 8.4.: - NACHTRAG - (A) Veranstaltung: Temporäre Kunstaktion Südpark/Sendlinger Wald vom 27.05. bis 14.10.2023
+- TOP 8.5.: - NACHTRAG - (U) Gaststättenfortführung: Boschetsrieder Straße
+- TOP 9: Verschiedenes
+- TOP 6.2.1: Boschetsrieder Straße 123 (VB)
+- TOP 6.2.4: Bleibtreustraße Flurnummer 94/6
