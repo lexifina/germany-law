@@ -1,0 +1,194 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2023-02-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7459945
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7459945
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA 21
+- TOP 2.2.1.: Wertstoffinseln Paosostraße und Maria-Eich-Straße – Aufsichtspflicht des Referates für Klima- und Umweltschutz (Vertagung aus der BA-Sitzung vom 10.01.23)
+- TOP 2.2.2.: Bebauungsplan 2175 - Dreilingsweg (Vertagung aus der BA-Sitzung vom 10.01.23)
+- TOP 2.2.3.: Einrichtung einer Spielstraße; Betzenweg, Zehentstadelweg (Vertagung aus der BA-Sitzung vom 10.01.23)
+- TOP 2.2.4.: Probleme mit Jugendlichen rund um den Pasinger Bahnhof (Vertagung aus der BA-Sitzung vom 10.01.23)
+- TOP 2.2.5.: "Straße für alle" zur Weiterentwicklung von öffentlichen Straßenräumen im Österreicherviertel
+- TOP 2.2.6.: Offenbachstraße - smart speed bump
+- TOP 2.2.7.: Sanierung Tiefgarage Fischer-von-Erlach-Straße
+- TOP 2.2.8.: Baustelle Verdistraße Ecke Meyerbeerstraße
+- TOP 2.2.9.: Veranstaltung am 21.01.23 in der Pasinger Fabrik zu Bahnflächen Hauptbahnhof-Laim-Pasing; Anregungen
+- TOP 2.2.10.: Umbenennung Hildachstraße; Aktualisierung Stadtplan der LH München
+- TOP 2.2.11.: Grundschule Peslmüllerstraße
+- TOP 2.2.12.: Vermüllung von Wertstoffinseln
+- TOP 2.2.13.: Unterstützung für die Kindertagesstätte Lucia-Popp-Bogen
+- TOP 2.2.14.: Neuer S-Bahnhof Berduxstrasse
+- TOP 2.2.15.: Wensauerplatz; überfüllte Mülleimer
+- TOP 2.2.16.: Vorschläge zum neuen Medizinkonzept der München-Klinik und zur Notfallversorgung
+- TOP 2.2.17.: (N) - Donizettiweg; Lkw-Anhängerfriedhof
+- TOP 2.2.18.: (N) - Ehem. Containerwohnheim Neufeldstraße / Ecke Richard-Tauber-Straße; Rückbau Stromkabel
+- TOP 2.2.19.: (N) - Pilotprojekt „Gelbe Tonne“; Lkw-Verkehr in der Grandlstraße
+- TOP 2.2.20.: (N) - Gefahr und Lärmbelästigung durch Geschwindigkeitsüberschreitungen in der Amalienburgstraße
+- TOP 2.2.21.: (N) - neue Schranke am Lehrerparkplatz des Karlsgymnasiums
+- TOP 2.2.22.: (N) - Vorschlag für die Peter-Vischer-Straße, nördlich des Pasinger Bahnhofs
+- TOP 2.2.23.: (N) - Grundschule Peslmüllerstr. 8; Antrag auf Untersuchung des Gebäudes nach Asbest
+- TOP 3.: Bericht des UA Umwelt, Natur und Klimaschutz + Beschlussfassung über Empfehlungen
+- TOP 3.1.: Protokoll des Workshops „Pack ma´s - Verpackungsmüll vermeiden!" am 28.10.22
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Marschnerstr. 44: Baumbestandsplan
+- TOP 3.1.2.: Sedelhofstr. 11: 1 Birke
+- TOP 3.1.3.: Landschaftsschutzgebiet Würmniederung: ca. 60 Bäume
+- TOP 3.1.4.: Fischer-von-Erlach-Str. 9: Baumbestandsplan
+- TOP 3.1.5.: Betzenweg 11: 2 Robinien
+- TOP 3.1.6.: August-Exter-Str. 26: 1 Wacholder
+- TOP 3.1.7.: Agnes-Bernauer-Str. 162: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.8.: Am Krautgarten 17: 3 Fichten
+- TOP 3.1.9.: Paul-Hösch-Str. 16: 1 Scheinzypresse, 1 Thuja, 3 Fichten
+- TOP 3.1.10.: Leharstr. 18: 1 Fichte
+- TOP 3.1.11.: Adelsbergstr. 13: 1 Kiefer
+- TOP 3.1.12.: Faistenlohestr. 15: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.13.: Mitterfeldstr. 4: 1 Traubenkirsche
+- TOP 3.1.14.: August-Exter-Str. 36: 1 Zypresse
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 4.1.: Sitzung vom 17.01.23 (Workshops Pasing Zentrum)
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1.: Protokoll des Ortstermins vom 26,10,22 (Betzenweg)
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: Anwesen in der Georg-Jais-Straße, Benedikterstraße, Zacharias-Werner-Straße
+- TOP 5.1.2.: Anwesen in der Stahlstraße
+- TOP 6.: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beirät*innen
+- TOP 9.1.: Beauftragte Jugendhilfezentrum Scapinellistraße: Protokoll der Besichtigung vom 19.01.23
+- TOP 9.2.: (N) - Kinderbeauftragte: Protokoll des Ortstermins vom 30.01.23 (Dirtpark Silberdistelstraße)
+- TOP 10.: Entscheidungen
+- TOP 10.1.: (E) Stadtbezirksbudget Mittagsbetreuung der Grandlschule e.V. Anschaffung von Spielgeräten 22.491,00 Euro, Az.: 0262.0-21-0357 (Vertagung aus der BA-Sitzung vom 10.01.23)
+- TOP 10.2.: (E) Stadtbezirksbudget Förderverein der Grundschule Peslmüllerstraße e.V. Daumenkino / Bücher / Morf / Warnwesten 5.284,05 Euro, Az.: 0262.0-21-0362 (Vertagung aus der BA-Sitzung vom 10.01.23)
+- TOP 10.3.: (E) Stadtbezirksbudget Elternbeirat des Kindergartens St. Hildegard Anschaffung von Fahrzeugen und eines Spielhauses 4.031,25 Euro, Az.: 0262.0-21-0366 (Vertagung aus der BA-Sitzung vom 10.01.23)
+- TOP 10.4.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 02.09.2023 1.500,00 Euro, Az.: 0262.0-21-0370
+- TOP 10.5.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 Euro, Az.: 0262.0-21-0371
+- TOP 10.6.: (E) Stadtbezirksbudget Arbeitsgemeinschaft der Pasinger Vereine e.V. Pasing Narrisch am 19.02.2023 7.260,00 Euro, Az.: 0262.0-21-0373
+- TOP 10.7.: (E) Stadtbezirksbudget Krautgarten am Westkreuz Brunnenbau 6.580,86 Euro, Az.: 0262.0-21-0372
+- TOP 10.8.: (E) Stadtbezirksbudget Initiative "The Pumpkin Machine" The Pumpkin Machine - Folk Rave am 04.04.2023 1.080,00 Euro, Az.: 0262.0-21-0374
+- TOP 10.9.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.18; Pasinger Bahnhofsplatz 2
+- TOP 11.: Anhörungen
+- TOP 11.1.: Marschnerstr. 44: Modernisierung, Umbau und Anbau einer Einfamilienwohnhausvilla mit Neubau einer Garage und Abbruch zweier Gauben
+- TOP 11.2.: Fischer-von-Erlach-Str. 9: Statische Instandsetzung mit Brandschutzertüchtigung und Instandsetzung der Dachabdichtung im Bereich der Dehnungsfugen bei der Tiefgarage zwischen den Wohngebäuden (Fischer-von-Erlach-Str. 9-19 / Mitterfeldstr. 3-9 / Mitterfeldstr. 15-19 / Kapruner Str. 22)
+- TOP 11.3.: Hochhausstudie 2023; Einladung zum Infotermin am 16.01.23 sowie Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung (Vertagung aus der BA-Sitzung vom 10.01.23)
+- TOP 11.4.: Agnes-Bernauer-Str. 162: Neubau einer Wohnanlage mit 4 Wohneinheiten - 4 Stellplätze in Parksystem
+- TOP 11.5.: Murtalstr. 15: Anbau im Erdgeschoss und zur Teilaufstockung im Obergeschoss, sowie Aufstockung des bestehenden Dachgeschosses des Einfamilienhauses
+- TOP 11.6.: Verdistr. 134: Neubau eines Wohn- und Geschäftshauses mit Einzelhandel und Tiefgarage - VORBESCHEID
+- TOP 11.7.: Erinnerungsverfahren Haberlandstraße; Fahrbahnsanierung, Vollausbau
+- TOP 11.8.: Erdmannsdörferstr. 1a: Errichtung eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 11.9.: Faistenlohestr. 15: Sanierung, Umbau und Erweiterung eines Wohngebäudes
+- TOP 11.10.: (N) - Mobilitätspunkte im Stadtbezirk 21
+- TOP 11.11.: (N) - Planfeststellung nach dem Personenbeförderungsgesetz für das Vorhaben Verlängerung der U5 West vom Laimer Platz bis Pasing - Abschnitt PA 79 - U-Bahnhof Am Knie bis U-Bahnhof Pasing; Tektur b
+- TOP 12.: Anträge und Anfragen
+- TOP 12.1.: Interfraktioneller Antrag: Möglichkeit einer Vertretung eines Mieterbeiratsmitglieds schaffen
+- TOP 12.2.: Bündnis 90 / Die Grünen, Antrag: Verbesserung der Wegesicherheit für Kinder und ältere Menschen durch Schaffung einer barrierefreien Rampe von der Steffanistraße zur Verdistraße
+- TOP 12.3.: Bündnis 90 / Die Grünen und FW / ÖDP, Antrag: Rad-Service-Station bei den Pasing Arcaden
+- TOP 12.4.: CSU, Antrag: Bahnhaltepunkt Berduxstraße: Verhandlungen beschleunigen – Planungen durchführen – Haltepunkt errichten
+- TOP 12.5.: CSU, Antrag: Unterstützung der evangelischen Himmelfahrtskirche in Pasing beim Neubau des Kindergartens
+- TOP 12.6.: CSU, Anfrage: Bürgerinformation zu U-Bahn-Baumaßnahmen
+- TOP 13.: Unterrichtungen
+- TOP 13.1.: Unveränderte Fortführung von Gaststätten - "Koukou Café Sport Bar", Landsberger Str. 460
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.1.: Kinder- und Jugendhilfeausschuss vom 20.09.22: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Kindergarten an der Puccinistraße 10 im 21. Stadtbezirk Pasing-Obermenzing Leistung eines Baukostenzuschusses
+- TOP 14.2.: Bildungsausschuss vom 21.09.22: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 14.3.: Vollversammlung vom 30.11.22: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2023
+- TOP 14.4.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 06.12.22: (U) Entwurf des Mehrjahresinvestitionsprogramms 2022 - 2026 Einzelplan 4 / Jugendamtsbereich
+- TOP 14.5.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 06.12.22: (U) Haushaltsplan 2023 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 14.6.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 06.12.22: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 14.7.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 06.12.22: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 14.8.: Kinder- und Jugendhilfeausschuss vom 06.12.22: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 14.9.: Ausschuss für Stadtplanung und Bauordnung vom 07.12.22: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 – 2026 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 14.10.: Ausschuss für Stadtplanung und Bauordnung, Sozialausschuss, Kommunalausschuss und Ausschuss für Klima- und Umweltschutz vom 07.12.22: (U) Wohnungsmarkt München - Expert*innenbefragung 2022
+- TOP 14.11.: Mobilitätsausschuss vom 14.12.22: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2022 bis 2026 mit verbindlicher Planung für das Jahr 2027 Maßnahmen des Mobilitätsreferats Programmentwurf (Variante 630)
+- TOP 14.12.: Mobilitätsausschuss vom 14.12.22: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Fußverkehr
+- TOP 14.13.: Mobilitätsausschuss vom 14.12.22: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 14.14.: Mobilitätsausschuss und Ausschuss für Arbeit und Wirtschaft vom 14.12.22: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 14.15.: Vollversammlung vom 21.12.22: (U) Haushaltsplan 2023 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2023 Vollzug des Haushaltsplanes 2023 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 14.16.: Ausschuss für Stadtplanung und Bauordnung vom 11.01.23: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 14.17.: Ausschuss für Stadtplanung und Bauordnung vom 11.01.23: Urbanes Gärtnern in München StR-Anträge
+- TOP 14.18.: Mobilitätsausschuss vom 18.01.23: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 14.19.: Bauausschuss vom 07.02.23: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 15.: Post an den BA
+- TOP 15.1: von der Stadtverwaltung
+- TOP 1.: Direktorium
+- TOP 1.1.: Haushaltsbeschluss 2023; Stadtbezirksbudget in 2023
+- TOP 1.2.: Stadtbezirksbudget; Verwendungsnachweise für die Aktionen - Sanierung der Jugendtrainingsplätze; Tennisclub Blutenburg e.V. - Radln ohne Alter - Kinderbudget; Kultur und Spielraum e.V. - Filmworkshop für Kinder und Jugendliche; Münchner Filmwerkstatt e.V. - Ferienbetreuung; Hilfe von Mensch zu Mensch e.V. - Mädchen an den Ball; Biku e.V.
+- TOP 1.3.: Treffen BA-Vorsitzende mit Frau Bürgermeisterin Dietl am 11.01.23
+- TOP 1.4.: Anita Augspurg Preis 2023
+- TOP 1.5.: Ratsinformationssystem (RIS) – „Papierlose Bezirksausschussarbeit“; Terminankündigung sowie Informationen zum RIS-Extranet
+- TOP 1.6.: Teilwiderruf eines aus dem Stadtbezirksbudget gewährten Zuschusses für das Projekt „Installation im öffentlichen Raum von Juni bis August 2021“; Antrag des Vereins Momentbühne e.V. vom 23.02.2021
+- TOP 2.: Baureferat
+- TOP 2.1.: Bauprogramm Straßenunterhalt 2023 im Bereich BA 21 Pasing-Obermenzing (Vertagung aus der BA-Sitzung vom 10.01.23)
+- TOP 2.2.: Übermäßiger Müllanfall am Straßeneck August-Exter-Straße / Peter-Vischer-Straße (am Bismarck-Denkmal)
+- TOP 2.3.: Reinigung Pasinger Promenade
+- TOP 2.4.: Grünanlage Mergenthalerstraße; Wunsch nach Wiederherstellung eines Weges
+- TOP 2.5.: Entfernung von Müll vor dem Mähen von Langgraswiesen
+- TOP 2.6.: Kindersprechstunde vom 18.11.22; Dirktpark an der Silberdistelstraße
+- TOP 2.7.: Neuer Belag für die Stockschiess-Bahn im Pasinger Stadtpark
+- TOP 2.8.: Kronenrückschnitt an Bäumen; Bäckerstraße, Landsberger Straße
+- TOP 2.9.: Durchgang Mallnitzer Straße – Landsberger Straße für Radfahrer*innen freigeben (Antrag Nr. 20-26 / B 03371 vom 07.12.21)
+- TOP 2.10.: (N) - Grünflächen im Österreicherviertel; Terminvorschläge für Ortstermin
+- TOP 3.: Mobilitätsreferat
+- TOP 3.1.: Verbesserung der Verkehrssituation in der Planegger Straße IV: Schaffung einer Ortseingangssituation mit Mittelinsel als Geschwindigkeitsbremse und Querungshilfe in der Planegger Straße
+- TOP 3.2.: Paul-Gerhardt-Allee 24; Errichtung eines eingeschränkten Haltverbots
+- TOP 3.3.: Arbeiten im Straßenraum; Paosostr. 77, Umsetzung Wasserleitung - Vollsperre vom 06.02. - 31.03.23
+- TOP 3.4.: Arbeiten im Straßenraum; Am Knie, Baumfällungsarbeiten, Vollsperre vom 23.01. - 27.01.23
+- TOP 3.5.: Berduxstraße (Nordseite), absolutes Haltverbot im Haltestellenbereich Buslinien 161, 180 und N 77; verkehrsrechtliche Anordnung
+- TOP 3.6.: Workshop Pasing Zentrum vom 17.01.23; Präsentation Gleichmannstraße
+- TOP 3.7.: Marsopstraße 17-31, gemeinsamer Geh- und Radweg; verkehrsrechtliche Anordnung
+- TOP 3.8.: Agnes-Bernauer-Str. 181; Parkbereich nur für Pkw
+- TOP 3.9.: Zebrastreifen Hermine-von-Parish-Straße
+- TOP 3.10.: Parklizenzgebiet Österreicherviertel
+- TOP 3.11.: Den Schulweg Ecke Karl-Hromadnik-Straße und Haidelweg verkehrssicherer gestalten
+- TOP 3.12.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA), Standort Georg-Habel- Straße / Anton-Pichler-Straße
+- TOP 3.13.: Verkehrsplanung im Bereich Paul-Gerhardt-Allee – Bahnhof Berduxstraße unverzüglich planen und realisieren
+- TOP 4.: Referat für Stadtplanung und Bauordnung
+- TOP 4.1.: Vollzug der Baumschutzverordnung - Betzenweg 11 - Faistenlohestr. 15 - Franz-Hauser-Weg 3 - Peslmüllerstr. 7 - Hofheimerstr. 2-10 - Thuillestr. 45 - Pembaurstr. 13 a - Julius-Kreis-Str. 19
+- TOP 4.2.: Bauvorhaben Alte Allee 54 / 4 a; Bedenken wegen geplanter massiver Bebauung
+- TOP 4.3.: Bauvorhaben Dr.-Blaich-Str. 6; Nichteinhalten von Baustelleneinstellungsauflagen
+- TOP 4.4.: Bauvorhaben Lichtinger Str. 12; Schutz des Baumbestandes
+- TOP 4.5.: Veranstaltungen im Zehentstadel
+- TOP 4.6.: Verlängerung Projektzeitraum „Bürger*innendialog zukunftsfähige Gestaltung Österreicherviertel Pasing-Obermenzing“; Programm „Bürgerinnen und Bürger gestalten ihre Stadt“
+- TOP 5.: Kommunalreferat, Abfallwirtschaftsbetrieb München
+- TOP 5.1.: Vermüllung Wertstoffinseln
+- TOP 5.2.: Erläuterungsschild Pippinger Straße
+- TOP 5.3.: Pilotversuch "Gelbe Tonne" auch im Stadtbezirk 21
+- TOP 6.: Kreisverwaltungsreferat
+- TOP 6.1.: Versammlungsanzeige "Kulturlieferdienst" am 19.01.23, August-Exter-Straße
+- TOP 6.2.: Versammlungsanzeige für 17.06.23, Pasinger Bahnhofsplatz 5; Thema "Aufnahme von Dyskalkulie im bayerischen Schulrecht"
+- TOP 6.3.: Freie Meinungsäußerung in München Pasing
+- TOP 7.: Referat für Bildung und Sport
+- TOP 7.1.: Grundschule Hermine-von-Parish-Str. 15; Inbetriebnahme und weitere Teilnutzung
+- TOP 7.2.: Grund- und Mittelschule Peslmüllerstraße; Machbarkeitsstudie, Energiekosten
+- TOP 8.: Sozialreferat
+- TOP 8.1.: Angebot "Nachtspaziergänge"
+- TOP 8.2.: Situation am Irmonherplatz; aktueller Sachstand
+- TOP 8.3.: "Ratschbankerl" für München
+- TOP 8.4.: Biku e.V. - Verein für Kultur und Bildung; Projekt Mädchen an den Ball
+- TOP 15.2: Sonstige
+- TOP 15.2.1.: Angela-Molitoris-Platz; Vorstellung der Planung (N) - => dazu Präsentation
+- TOP 15.2.2.: Nachbarschaftstreff Pasing: Brachfläche an der Offenbachstraße
+- TOP 15.2.3.: Pasing Arcaden: Reinigung Promenade
+- TOP 15.2.4.: DB: Bahnhofsuhr Vorplatz Bahnhof
+- TOP 15.2.5.: Deutsche Stiftung Denkmalschutz: Ausschreibung Bundespreis für Handwerk in der Denkmalpflege Bayern
+- TOP 15.2.6.: Die Mitterfelder: Concierge-Büro Mitterfeldstraße
+- TOP 15.2.7.: (N) - Himmelfahrtskirche Pasing: Neugestaltung Kirchplatz
+- TOP 16.: Verschiedenes
+- TOP 1.: Termine
+- TOP 1.1.: - BA-Sitzung 07.03.23, 19.00 Uhr, Grundschule an der Grandlstr. 5 - BA-Sitzung 28.03.23, 19.00 Uhr, Grundschule an der Grandlstr. 5 - Faschingsempfang 08.02.23: Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal
+- TOP 1.2.: (N) - Bürgerversammlung Bezirksteil Pasing, 15.03.23, 19.00 Uhr, Aula Bertolt-Brecht-Gymnasium, Peslmüllerstr. 6 - Bürgerversammlung Bezirksteil Obermenzing, 25.04.23, 19.00 Uhr, Aula Grandlschule, Grandslstr. 5
+- TOP 2.: Bereits weitergeleitete Anfragen, Anliegen etc.
