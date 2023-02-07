@@ -1,0 +1,6 @@
+# TOP 14.6: Entwicklung des Schleidpark-Areals; hier: Abschluss eines Letters of Intent (LOI)
+
+- Sitzung: Rat (20. Sitzung) (2023-02-07)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/40096
