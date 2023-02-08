@@ -1,0 +1,55 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-02-08T17:00:00+01:00
+- Ende: 2023-02-08T20:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23990
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23990
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: OVA 08.02.2023 - Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00474999.pdf
+- Ergebnisprotokoll: OVA 08.02.2023 - Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00474999.pdf
+- Wortprotokoll: OVA 08.02.2023 - Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00474999.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 4: Anfragen
+- TOP 4.1: Von einem Fahrer der Linie 730 verursachter Unfall am 04.01.2023 -Anfrage der Ratsgruppe Tierschutz/Freie Wähler- - zur Kenntnis genommen
+- TOP 4.2: Stau-Stunden in Düsseldorf -Anfrage der Ratsgruppe Tierschutz/Freie Wähler- - zur Kenntnis genommen
+- TOP 4.3: Mindestpreise und –tarife für Taxi-/Mietwagengewerbe -Anfrage der FDP-Ratsfraktion- - vertagt
+- TOP 4.4: Sachstand Nachbarschaftszonen -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.5: Kreuzung Dorotheenstraße / Birkenstraße auf dem Radhauptnetzt -Anfrage der Ratsfraktion Die Partei/Klima- - zur Kenntnis genommen
+- TOP 4.6: Investitionen in den Radverkehr 2020 - 2025 -Anfrage der Ratsfraktion Die Partei/Klima- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Prüfauftrag Quartiersgaragen -Antrag der FDP-Ratsfraktion- - mehrheitlich abgelehnt
+- TOP 5.2: Verkehrsberuhigung rund um den Stiftsplatz -Antrag der Ratsfraktionen von CDU und Bündnis 90/Die Grünen- - einstimmig beschlossen
+- TOP 5.3: Tunnelmünder des Kö-Bogentunnels schöner und grüner gestalten -Antrag der Ratsfraktion Die Partei/Klima- - mehrheitlich abgelehnt
+- TOP 5.4: Düsseldorfer Rechteck als Problemlösung für Engstellen auf Gehwegen -Antrag der Ratsfraktion Die Partei/Klima- - abweichend beschlossen
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Karneval 2023 --mündlicher Bericht von Herrn Beigeordneten Zaum- - zur Kenntnis genommen
+- TOP 8: Offenes Wettbewerbsverfahren "stadt.raum.experimente" - Auftragsvergabe zum Stichtag 15.10.2022 - passieren lassen
+- TOP 9: Veranstaltungen Burgplatz – Jahresprogramm 2023 - einstimmig beschlossen
+- TOP 10: Fischmärkte auf dem Tonhallenufer im Jahre 2023 - einstimmig beschlossen
+- TOP 11: Jahresbericht der Verkehrsüberwachung 2022 - zur Kenntnis genommen
+- TOP 12: Zwischenbericht - Projekt "Sicherheit in der Innenstadt" - zur Kenntnis genommen
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Projekt "Prävention, Ordnung und Sicherheit in Düsseldorf 2021+" -mündlicher Bericht von Herrn Beigeordneten Zaum- - zur Kenntnis genommen
+- TOP 13: Sicherheit in der Düsseldorfer Innenstadt (SIDI) – Beleuchtungskonzept Altstadt - mehrheitlich beschlossen
+- TOP 14: Sachstandsinformation zur zukünftigen Verkehrsführung für zu Fuß Gehende und Radfahrende auf der Theodor-Heuss-Brücke - zur Kenntnis genommen
+- TOP 15: Mindener Straße – Abbindung von der Werdener Straße, endgültige Entscheidung - vertagt
+- TOP 16: Errichtung von acht mietbaren Fahrradsammelschließanlagen in urbanen Wohnquartieren in Bilk, Friedrichstadt, Flingern-Nord, Düsseltal und Oberkassel - einstimmig beschlossen
+- TOP 17: Machbarkeitsstudie Veloroute zwischen Düsseldorf und Wuppertal – Abschluss und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 18: Barrierefreier Umbau der Bushaltestellen "Unterrath-S" Steige 4-7 - Empfehlung einstimmig beschlossen
+- TOP 18.1: Änderungsantrag der Ratsfraktion Die Linke zu TOP 18, Barrierefreier Umbau der Bushaltestellen "Unterrath-S" Steige 4-7 (OVA/014/2023) - mehrheitlich abgelehnt
+- TOP 19: Umbau des Kreuzungsbereiches Hütten- / Gustav-Poensgen- / Kirchfeldstraße - Empfehlung mehrheitlich beschlossen
+- TOP 20: Einsatz von Vier-Wagen-Zügen auf der Stadtbahnlinie U78 – Errichtung eines besonderen Bahnkörpers auf der Kaiserswerther Straße zwischen den Haltestellen „Kennedydamm“ und „Reeser Platz“ - vertagt
+- TOP 21: Kurzfristige Optimierung des ÖPNV-Angebots (Projekt "RheinTakt") - hier: Ergänzungsvorschläge aus der Ratssitzung am 15.12.2022 - einstimmig beschlossen
+- TOP 22: Beschluss der Bezirksvertretung 7 - Neuplanung Provisorium Knotenpunkt Torfbruchstraße/Dreherstraße - mehrheitlich beschlossen
+- TOP 23: U79 - Szenarien zur Wiedereinführung des 10-Minuten-Taktes auf dem gesamten Linienweg hier: Verfügbarkeit und Einsatzplanung der Düsseldorfer Stadtbahnflotte bei Umsetzung der Variante A - mehrheitlich beschlossen
