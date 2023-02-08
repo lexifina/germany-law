@@ -1,0 +1,7 @@
+# TOP c): Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Ortschaftsrat Reichenbach (1. Sitzung) (2023-02-08)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/56549
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
