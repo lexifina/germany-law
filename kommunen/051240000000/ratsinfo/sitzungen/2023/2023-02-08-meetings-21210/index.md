@@ -1,0 +1,54 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-02-08T19:04:00+01:00
+- Ende: 2023-02-08T21:43:00+01:00
+- Ort: Geänderter Veranstaltungsort: Sparkassenfiliale Döppersberg, Eventraum im 1. OG, Alte Freiheit 26, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21210
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21210
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00305752.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00306387.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Jugendrates
+- TOP 2: Bericht des Beirats für Menschen mit Behinderung
+- TOP 3: Bürgerantrag gem. § 24 GO NRW - Zugänglichkeit Radabstellanlage Neumarkt, Fragen zur Außengastronomie - zurückgezogen
+- TOP 4: Bürgerantrag gem. § 24 GO NRW - Beleuchtung für die Aue (zwischen Obergrünewalder- und Auer Schulstraße) - ungeändert beschlossen
+- TOP 5: Neue Nordstr. zwischen Markomannenstr. und Lederstr.: Drehung der Einbahnstraßenrichtung - ungeändert beschlossen
+- TOP 6: Aufstellung von Radabstellanlagen im Bereich Ostersbaum - geändert beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Elektromobilitätskonzept für die Stadt Wuppertal, Lieferverkehr mit Elektrofahrzeugen in den beiden Innenstadtbereichen, Verlängerung der Pilotphase
+- TOP 9: Fortschreibung des Wuppertaler Nahverkehrsplans - Festlegung der weiteren Ausrichtung des Plans - ungeändert beschlossen
+- TOP 10: ISG-Poststraße – Aufhebungssatzung - ungeändert beschlossen
+- TOP 11: Einbringung des Haushaltsplanentwurfes 2023
+- TOP 12: Radabstellanlage Neumarktstraße Höhe Hausnummer 36 - geändert beschlossen
+- TOP 13: Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2023/2024 - ungeändert beschlossen
+- TOP 14: Schaffung einer Abbiegemöglichkeit für den Radverkehr Briller Straße/Platzhoffstraße - ungeändert beschlossen
+- TOP 15: Wiederaufbauplan Stadt Wuppertal - ungeändert beschlossen
+- TOP 16: Umsetzungsbeginn des Förderprojekts "InnenBandStadt" im Förderprogramm Zukunftsfähige Innenstädte und Zentren des Bundesministeriums für Wohnen, Stadtentwicklung und Bauswesen - Entgegennahme ohne Beschluss
+- TOP 17: Einführung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 18: Weiterentwicklung des Projekts "Verbesserung der Aufenthaltsqualität auf dem Laurentiusplatz"
+- TOP 18.1: Prüfauftrag Parken auf dem Laurentiusplatz - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 18.2: Prüfauftrag ,,Poller-Entfernung“ Friedrich-Ebert-Straße/ Laurentiusplatz - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 18.3: Prüfauftrag Instandsetzung Pflasterung Friedrich-Ebert-Straße/ Laurentiusplatz - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 19: Anregungen Bürgerverein Elberfelder Südstadt e.V.
+- TOP 20: Vorschläge Elektromibilität Innenstädte
+- TOP 21: Anträge
+- TOP 21.1: Attraktivitätssteigerung Karlsplatz - Antrag der CDU Fraktion - zurückgezogen
+- TOP 21.1.1: Karlsplatz - Sachstand der Verwaltung
+- TOP 21.2: Entfernung Graffitis und Initiierung eines Kunstprojektes Treppe Jugendring Wuppertal - Antrag der CDU Fraktion - abgelehnt
+- TOP 21.3: Schaffung von zusätzlichem Parkraum im Quartier Mirke - Antrag der CDU Fraktion - abgelehnt
+- TOP 21.4: Verkehrsberuhigung Elberfeld > Fußgängerzone Neumarktstraße - Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90/ Die Grünen und Die Linke - geändert beschlossen
+- TOP 22: Anfragen
+- TOP 22.1: Zustand und Erhaltung der Brücke vom Bahnhof in die Südstadt - Große Anfrage der Fraktion Bündnis90
+- TOP 22.2: Antwort auf die Große Anfrage der Fraktion Bündnis 90/ Die Grünen: Zustand und Erhaltung der Brücke vom Bahnhof in die Südstadt - Entgegennahme ohne Beschluss
+- TOP 22.3: Große Anfrage der SPD Fraktion zur Fahrradstraße Neue Friedrichstraße
+- TOP 23: Freie Mittel
+- TOP 23.1: Mitgliedsbeiträge der BV Elberfeld
+- TOP 23.2: Antrag des Nachbarschaftsheim Wuppertal e.V. - Förderanfrage Lichterwege 2023
+- TOP 23.3: Fahrrad-Abstellanlage beim Inside:out auf der Hochstraße finanziert durch die freien Mittel - Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90/ Die Grünen
+- TOP 23.4: Antrag der Bürgervereins der Elberfelder Südstadt e.V.
