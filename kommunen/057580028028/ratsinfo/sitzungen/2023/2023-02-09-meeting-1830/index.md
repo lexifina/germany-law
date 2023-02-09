@@ -1,0 +1,57 @@
+# Gemeinderat (15. Sitzung)
+
+- Körperschaft: Gemeinde Rödinghausen
+- Beginn: 2023-02-09T19:00:00+01:00
+- Ende: 2023-02-09T22:30:00+01:00
+- Ort: Gesamtschule, An der Stertwelle 34-38, 32289 Rödinghausen, Aula
+- Status: 
+- Gremium: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://roedinghausen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQSvfy7tV2VaS4OPiC9Qi_s
+- OParl: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1830
+- Quelle: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbkmj_pNj2UpFwJfIa1ALTDwtPyJ-ouTpVFjiToIUsQb/Bekanntmachung_Gemeinderat_09.02.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRtEidhUUrwbCqKuuundiebULiO8GjDplTA8HKs5RvRX/Oeffentliche_Niederschrift_Gemeinderat_09.02.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Bericht des Bürgermeisters
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Christoph Steinmeier
+- TOP 2.2: Klaus-Hermann Pörtner
+- TOP 2.3: Klaus-Hermann Pörtner
+- TOP 2.4: Daniel Seckfort
+- TOP 2.5: Kai Oestreich
+- TOP 3.: Finanzbedarf in den Linienbündeln B1/B2 (Regionalverkehr Bünde und Umgebung)
+- TOP 4.: Einbringung des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2023
+- TOP 5.: 14. Änderung der Hauptsatzung -Öffentliche Bekanntmachungen- - Beratungsergebnis:Einstimmig
+- TOP 6.: Anzeige der Nebentätigkeiten und Funktionen des Bürgermeisters im Jahr 2022
+- TOP 7.: Anregung nach § 24 GO NRW Durchführung einer Einwohnerversammlung bezüglich des Regionalplanes OWL - Beratungsergebnis:15 Ja-Stimme(n), 8 Gegenstimme(n), 5 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD1111CDU77B90/Grüne156FDP33Bürgermeister11Summe158528
+- TOP 8.: Antrag der FDP-Fraktion; Umbesetzung im Ausschuss für Feuerwehr, Sicherheit und Ordnung - Beratungsergebnis:Einstimmig
+- TOP 9.: Mitteilungen der Verwaltung
+- TOP 9.1: Aufruf zur humanitären Hilfe
+- TOP 9.2: Installation zusätzlicher Sirenen
+- TOP 9.3: stationäres Geschwindigkeitsmessgerät an der Hansastraße
+- TOP 9.4: neue Website der Gemeinde
+- TOP 9.5: Onlinebeteiligung Radwegekonzept
+- TOP 9.6: Häckselservice 2023
+- TOP 9.7: Müllsammelaktion
+- TOP 9.8: Klärschlammentsorgung
+- TOP 10.: Anfragen von Ratsmitgliedern
+- TOP 10.1: Ratsmitglied Andrea Haack
+- TOP 10.2: Ratsmitglied Dirk Kleineweber
+- TOP 10.3: Ratsmitglied Diana Heinrich
+- TOP 10.4: Ratsmitglied Dirk Blank
+- TOP 10.5: Ratsmitglied Dirk Blank
+- TOP 10.6: Ratsmitglied Bernd Sacher
+- TOP 10.7: Ratsmitglied Andrea Marten
+- TOP 10.8: Ratsmitglied Werner Stenke
+- TOP 10.9: Ratsmitglied Andreas Schäfer
+- TOP 10.10: Ratsmitglied Horst Maschmeier
+- TOP 10.11: Ratsmitglied Janina Vogelsang-Sprinke
+- TOP 10.12: Ratsmitglied Andrea Haack
+- TOP 10.13: Ratsmitglied Thomas Lübeck
+- TOP 10.14: Ratsmitglied Janina Vogelsang-Sprinke
+- TOP 10.15: Ratsmitglied Marco Möhle
+- TOP 10.16: Ratsmitglied Reinhard Uthoff
+- TOP 10.17: Ratsmitglied Reinhard Uthoff
