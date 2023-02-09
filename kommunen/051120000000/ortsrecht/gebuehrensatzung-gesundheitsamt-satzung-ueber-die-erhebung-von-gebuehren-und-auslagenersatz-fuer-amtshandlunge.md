@@ -1,8 +1,8 @@
-# Gebührensatzung Gesundheitsamt Satzung über die Erhebung von Gebühren und Auslagenersatz für Amtshandlungen der Stadt Duisburg nach dem Gesetz über den öffentlichen Gesundheitsdienst des Landes Nordrhein-Westfalen (Gebührensatzung Gesundheitsamt)
+# Gebührensatzung Gesundheitsamt Satzung über die Erhebung von Gebühren und Auslagenersatz für Amtshandlungen der Stadt Duisburg nach dem Gesetz über den öffentlichen Gesundheitsdienst des Landes Nordrhein-Westfalen (Gebührensatzung Gesundheitsamt)1
 
 - Gemeinde: Stadt Duisburg (ARS 051120000000)
-- Datum: 1998-12-16 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.duisburg.de/rathaus/rathausundpolitik/ortsrecht/S53.01-Gebuehrensatzung-Gesundheitsamt_16.11.2022.pdf
+- Datum: 2023-02-09 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.duisburg.de/rathaus/rathausundpolitik/ortsrecht/S53.01-Gebuehrensatzung-Gesundheitsamt_01.04.2023.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -12,45 +12,26 @@
 
 Gebührensatzung Gesundheitsamt
 
-Satzung über die Erhebung von Gebühren und Auslagenersatz für Amtshandlungen der Stadt Duisburg nach dem Gesetz über den öffentlichen Gesundheitsdienst des Landes Nordrhein-Westfalen (Gebührensatzung Gesundheitsamt) vom 16. Dezember 1998¹
-
-Der Rat der Stadt Duisburg hat in seiner Sitzung am 14.12.1998 die nachfolgende Satzung beschlossen.
-
+Satzung über die Erhebung von Gebühren und Auslagenersatz für Amtshandlungen der Stadt Duisburg nach dem Gesetz über den öffentlichen Gesundheitsdienst des Landes Nordrhein-Westfalen (Gebührensatzung Gesundheitsamt)1
+Der Rat der Stadt Duisburg hat in seiner Sitzung am 09.02.2023 die nachfolgende Satzung beschlossen.
 Die Satzung beruht auf:
-
--
-
-§ 7 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NW) in der Fassung der Bekannt-
-
-machung vom 14.7.1994 (GV. NW. 1994, S. 666/SGV 2023), geändert durch Gesetz vom
-
-17.12.1997 (GV. NW. S. 467)
-
--
-
-§§ 2, 4 und 5 des Kommunalabgabengesetzes (KAG) für das Land Nordrhein-Westfalen vom
-
-21.10.1969 (GV. NW. 1969, S. 712), zuletzt geändert durch Gesetz vom 12.5.1998
-
-(GV. NW. 1998 S. 384)
-
-§ 1 Gegenstand der Gebühren4
+- § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NW) in der Fassung der Bekanntmachung vom 14.7.1994 (GV. NW. 1994, S. 666/SGV 2023)
+- §§ 2, 4 und 5 des Kommunalabgabengesetzes (KAG) für das Land Nordrhein-Westfalen vom 21.10.1969 (GV. NW. 1969, S. 712)
+in der jeweils gültigen Fassung.
+§ 1 Gegenstand der Gebühren
 (1) Bei Amtshandlungen nach dem ÖGDG werden die in anliegendem Gebührentarif festgelegten Gebühren für besondere Verwaltungsleistungen erhoben, soweit die nicht bereits nach der Allgemeinen Verwaltungsgebührenordnung NRW in der jeweils gültigen Fassung gebührenpflichtig sind.
-(2) Die Amtshandlung muß von dem/der Beteiligten beantragt worden sein oder ihn/sie unmittelbar begünstigen.
-
-§ 2 Gebührenbemessung3
+(2) Die Amtshandlung muss von dem/der Beteiligten beantragt worden sein oder ihn/sie unmittelbar begünstigen.
+§ 2 Gebührenbemessung
 (1) Die Höhe der Verwaltungsgebühr richtet sich nach dem anliegenden Gebührentarif, der Bestandteil dieser Satzung ist.
+Bei den genannten Gebührensätzen handelt es sich um Nettobeträge. Die jeweils gesetzlich geschuldete Umsatzsteuer ist zusätzlich zu entrichten.
 (2) Werden mehrere gebührenpflichtige Amtshandlungen gleichzeitig vorgenommen, so ist für jede Leistung die entsprechende Gebühr zu entrichten.
-
 § 3 Gebührenschuldner
 (1) Zur Zahlung der Gebühr ist verpflichtet, wer die Amtshandlung oder sonstige Tätigkeit beantragt hat oder wer durch sie unmittelbar begünstigt wird.
 (2) Von mehreren an einer Angelegenheit Beteiligten ist jeder Gebührenschuldner, soweit die Amtshandlung ihn betrifft.
 (3) Mehrere Gebührenschuldner haften als Gesamtschuldner.
-
-§ 4 Entstehung und Fälligkeit3
-(1) Die Gebührenpflicht entsteht, soweit ein Antrag notwendig ist, mit dessen Eingang, im übrigen mit Beendigung der gebührenpflichtigen Amtshandlung.
+§ 4 Entstehung und Fälligkeit
+(1) Die Gebührenpflicht entsteht, soweit ein Antrag notwendig ist, mit dessen Eingang, im Übrigen mit Beendigung der gebührenpflichtigen Amtshandlung.
 (2) Die Gebühr wird regelmäßig formlos festgesetzt. Auf Antrag des Gebührenschuldners wird diesem ein schriftlicher, mit Rechtsbehelfsbelehrung versehener Bescheid erteilt.
-
 1
 
 53.01
@@ -59,20 +40,22 @@ Gebührensatzung Gesundheitsamt
 
 (3) Die Gebühr wird mit der mündlichen oder schriftlichen Bekanntgabe der Gebührenentscheidung an den Gebührenschuldner fällig, sofern kein späterer Zeitpunkt bestimmt wird.
 (4) Die die Amtshandlung durchführende Stelle entscheidet, ob die Gebühr bar oder unbar zu entrichten ist.
-§ 5 Gebührenfreiheit3, 4
+§ 5 Gebührenfreiheit
 (1) Für die Gebührenfreiheit gilt § 5 Abs. 5 und 6 des Kommunalabgabengesetzes in der jeweils gültigen Fassung.
 (2) Aus Gründen der Billigkeit, insbesondere zur Vermeidung sozialer Härten, kann Gebührenermäßigung sowie Gebührenbefreiung und Auslagenbefreiung vorgesehen werden. Dasselbe gilt für Amtshandlungen, die einem von der handelnden Behörde wahrzunehmenden öffentlichen Interesse dienen.
-§ 6 Ersatz von Auslagen3
+§ 6 Ersatz von Auslagen
 (1) Entstehen im Zusammenhang mit der Leistung besondere bare Auslagen, so sind diese mit Ausnahme der hierbei erwachsenden Postgebühren zu ersetzen, auch wenn die Amtshandlung selbst gebührenfrei bleibt. In den Fällen des § 5 kann aus Gründen der Billigkeit Auslagenermäßigung oder Auslagenbefreiung gewährt werden.
 (2) Die Vornahme der Amtshandlung oder sonstigen Tätigkeit kann von der Entrichtung eines Auslagevorschusses abhängig gemacht werden. Auslagen können auch demjenigen auferlegt werden, der sie durch unbegründete Einwendungen verursacht hat. Die §§ 3 und 4, Abs. 2 bis 4, gelten entsprechend.
 (3) Zu ersetzen sind insbesondere:
-1. Telefax- und Fernsprechgebühren sowie Zustellkosten, soweit sie über das normale Maß hinausgehen, 2. Kosten für Zeugen und Sachverständige sowie für externe Gutachten und Untersuchungen 3. die bei Dienstgeschäften den beteiligten Verwaltungsangehörigen zustehenden Reisekostenvergütungen, 4. Kosten der Beförderung oder Verwahrung von Sachen. 5. Kosten für Arzneimittel und Verbrauchsmaterialien 6. Kosten für erforderliche Zusatzuntersuchungen und Fremdgutachten nach der Gebührenordnung für Ärz-
-te (GOÄ) und der Gebührenordnung für Zahnärzte (GOZ).
+1. Telefax- und Fernsprechgebühren sowie Zustellkosten, soweit sie über das normale Maß hinausgehen,
+2. Kosten für Zeugen und Sachverständige sowie für externe Gutachten und Untersuchungen, 3. die bei Dienstgeschäften den beteiligten Verwaltungsangehörigen zustehenden Reisekostenver-
+gütungen, 4. Kosten der Beförderung oder Verwahrung von Sachen, 5. Kosten für Arzneimittel und Verbrauchsmaterialien, 6. Kosten für erforderliche Zusatzuntersuchungen und Fremdgutachten nach der Gebührenordnung für
+Ärzte (GOÄ) und der Gebührenordnung für Zahnärzte (GOZ).
 § 7 Gebühren bei Ablehnung oder Zurücknahme von Anträgen
 Wird ein Antrag auf eine gebührenpflichtige Amtshandlung abgelehnt oder vor ihrer Beendigung zurückgenommen, so sind 10 bis 75 vom Hundert der Gebühr zu erheben, die bei ihrer Vornahme zu erheben wäre. Die Gebühr wird nicht erhoben, wenn der Antrag lediglich wegen Unzuständigkeit abgelehnt wird.
-§ 8 Gebühren für Widerspruchsbescheide3
-Wird gegen eine gebührenpflichtige Amtshandlung oder sonstige Tätigkeit Widerspruch erhoben, so ist auch der Erlaß des Widerspruchsbescheides gebührenpflichtig, soweit der Widerspruch zurückgewiesen wird. Die Gebühr beträgt höchstens die Hälfte der Gebühr, die für den angefochtenen Verwaltungsakt nach dieser Satzung festgesetzt worden ist.
-
+§ 8 Gebühren für Widerspruchsbescheide
+Wird gegen eine gebührenpflichtige Amtshandlung oder sonstige Tätigkeit Widerspruch erhoben, so ist auch der Erlass des Widerspruchsbescheides gebührenpflichtig, soweit der Widerspruch zurückgewiesen wird.
+Die Gebühr beträgt höchstens die Hälfte der Gebühr, die für den angefochtenen Verwaltungsakt nach dieser Satzung festgesetzt worden ist.
 2
 
 53.01
@@ -80,98 +63,79 @@ Wird gegen eine gebührenpflichtige Amtshandlung oder sonstige Tätigkeit Widers
 Gebührensatzung Gesundheitsamt
 
 Richtet sich in einer gebührenpflichtigen Angelegenheit der Widerspruch ausschließlich gegen die Gebührenerhebung, so gilt Abs.1 sinngemäß. In diesem Fall beträgt die Gebühr ein Viertel der Gebühr für die Sachentscheidung.
-Der Gebührentarif zur Satzung über die Erhebung von Gebühren und Auslagenersatz für Amtshandlungen Duisburg nach dem Gesetz über den öffentlichen Gesundheitsdienst des Landes Nordrhein-Westfalen (Gebührensatzung Gesundheitsamt) vom 16. Dezember 1988 (zuletzt geändert durch Satzung vom 06.08.2001, öffentlich bekannt gemacht im Amtsblatt für die Stadt Duisburg Nr. 27, von 2001, Seite 324-326), öffentlich bekannt gemacht im Amtsblatt für die Stadt Duisburg Nr. 42, von 1998, Seite 327-328, wird wie folgt geändert und erhält folgende Fassung:
-Gebührentarif zur Gebührensatzung Gesundheitsamt der Stadt Duisburg
 
-Tarifstelle Gebührengegenstand
+§ 9 Inkrafttreten
+Diese Satzung tritt mit dem Tage nach der Bekanntmachung in Kraft.
+Hinsichtlich der Amtshandlungen, die zu diesem Zeitpunkt bereits beendet sind oder hinsichtlich derer zu diesem Zeitpunkt bereits der erforderliche Antrag vorliegt, bleibt die Satzung in der bisherigen Fassung weiterhin gültig.
 
-Gebührenmaßstab Gebührensatz in Euro
+Gebührentarif zur Satzung über die Erhebung von Gebühren und Auslagenersatz für Amtshandlungen des Gesundheitsamtes der Stadt Duisburg
 
-anteiliger Stundensatz der
+Tarifstelle
 
-1.
+Gebührengegenstand
 
-Amtliche Bescheinigungen, nach Zeitaufwand in Laufbahngruppe 2 ab dem
+Gebühr in EURO
 
-Zeugnisse und Gutachten
+1
 
-Minuten
+Amtliche Bescheinigung, Zeugnisse und
 
-2. Einstiegsamt (ehemals
+Gutachten gemäß § 6 Absatz 1 Satz 1
 
-gemäß § 19 des Gesetzes über
+Nummer 4 und 5 und § 19 des Gesetzes
 
-höherer Dienst) zzgl. antei-
+über den öffentlichen Gesundheitsdienst
 
-den öffentlichen Gesundheits-
+(ÖGDG)
 
-liger Stundensatz der Lauf-
+1.1
 
-dienst des Landes Nordrhein-
+Amtliche Bescheinigungen ohne nähere gut-
 
-bahngruppe 1 ab dem 2.
+achtliche Stellungnahme
 
-Westfalen (ÖGDG NRW)
+1.2
 
-Einstiegsamt (ehemals
+Zeugnis über ärztlichen/zahnärztlichen Be-
 
-mittlerer Dienst) nach Maß-
+fund mit gutachtlicher Stellungnahme
 
-gabe der vom Ministerium
+1.3
 
-für Inneres und Kommuna-
+Ausführliches ärztliches/zahnärztliches Gut-
 
-les mit Erlass veröffentlich-
+achten
 
-ten Richtwerte für die Be-
+2
 
-rücksichtigung des Verwal-
+Amtshandlungen, die nicht einem von der
 
-tungsaufwandes in der
+handelnden Behörde wahrzunehmenden
 
-jeweils gültigen Fassung
+besonderen öffentlichen Interesse dienen
 
-2.
+3
 
-Amtshandlungen in sonstigen nach Zeitaufwand in anteiliger Stundensatz der
+Amtshandlungen oder Leistungen ärztli-
 
-Angelegenheiten, die nicht Minuten
+cher, psychologisch-psychotherapeuti-
 
-Laufbahngruppe 2 ab dem
+scher, kinder- und jugendlichenpsycho-
 
-einem von der handelnden
+therapeutischer oder zahnärztlicher Natur,
 
-2. Einstiegsamt (ehemals
+die nach den amtlichen Gebührenordnun-
 
-Behörde wahrzunehmenden
+gen gebührenpflichtig sind.
 
-höherer Dienst) zzgl. antei-
+Die nachstehenden Gebühren sind ggf.
 
-besonderen öffentlichen
+zusätzlich zu den Gebühren der Tarifstel-
 
-liger Stundensatz der Lauf-
+len 1.1 - 1.3 zu erheben.
 
-Interesse dienen
-
-bahngruppe 1 ab dem 2.
-
-Einstiegsamt (ehemals
-
-mittlerer Dienst) nach Maß-
-
-gabe der vom Ministerium
-
-für Inneres und Kommuna-
-
-les mit Erlass veröffentlich-
-
-ten Richtwerte für die Be-
-
-rücksichtigung des Verwal-
-
-tungsaufwandes in der
-
-jeweils gültigen Fassung
+31,00 € - 63,00 € 103,00 € - 145,00 € 145,00 € - 4.000,00 €
+31,00 € - 313,00 €
 
 3
 
@@ -179,13 +143,92 @@ jeweils gültigen Fassung
 
 Gebührensatzung Gesundheitsamt
 
-§ 9 Inkrafttreten
-(1) Diese Satzung tritt rückwirkend zum 1. Januar 1998 in Kraft.
-(2) Gleichzeitig treten die für Amtshandlungen des Gesundheitsamtes geltenden Gebührentarife Nr. 2.6.1. und 2.6.2. der Satzung zur Erhebung von Verwaltungsgebühren der Stadt Duisburg (Allgemeine Verwaltungsgebührensatzung vom 12.12.1990 in der Fassung vom 20.7.1996 - Amtsblatt für die Stadt Duisburg Nr. 24, Seite 153) außer Kraft.
+3.1
 
-1Amtsblatt für die Stadt Duisburg 42/1998, S. 327-328
-2Amtsblatt für die Stadt Duisburg 27/2001, S. 324-326 1. Änderung vom 06.08.2001 Änderung Gebührentarif
-3Amtsblatt für die Stadt Duisburg 3/2019, S. 37-39 2. Änderung vom 23.01.2019 in Kraft getreten am 16.02.2019 § 2 Abs. 3 wird ersatzlos gestrichen § 4 In Abs. 4 wird S. 2 ersatzlos gestrichen § 5 Ziffern 3 und 4 werden ersatzlos gestrichen § 6 Überschrift geändert, in Abs. 3 werden Ziffern 5 und 6 angefügt § 8 Absatz 2 einschl. Gebührentabelle werden eingefügt
-4Amtsblatt für die Stadt Duisburg 40/2022, S. 715 3. Änderung vom 19.10.2022 in Kraft getreten am 16.11.2022 § 1 Abs. 1 wird geändert § 5 wird geändert
+Amtshandlungen oder Leistungen ärztlicher 1,0-1,8-fache Sätze für Son-
+
+Natur, die nach der Gebührenordnung für
+
+derleistungen gemäß den
+
+Ärzte (GOÄ) in der Fassung der Bekanntma- Abschnitten A, E und O,
+
+chung vom 9.2.1996 (BGBl. I S. 210) in der 1,0-1,15-fache Sätze für
+
+jeweils geltenden Fassung gebührenpflichtig Sonderleistungen gemäß
+
+sind.
+
+Abschnitt M,
+
+1,0-2,3-fache Sätze für Son-
+
+derleistungen gemäß den
+
+übrigen Abschnitten des Ge-
+
+bührenverzeichnisses zur
+
+GOÄ
+
+3.2
+
+Amtshandlung oder Leistungen psycholo-
+
+1,0-2,3-fache Sätze für Son-
+
+gisch-psychotherapeutischer Natur, die nach derleistungen nach der Ge-
+
+der Gebührenordnung für Psychologische
+
+bührenordnung
+
+Psychotherapeuten und Kinder- und Jugend-
+
+lichenpsychotherapeuten (GOP) vom
+
+8.6.2000 (BGBl. I S. 818) in der jeweils gel-
+
+tenden Fassung gebührenpflichtig sind.
+
+3.3
+
+Amtshandlungen oder Leistungen zahnärztli- 1,0-2,3-fache Sätze für Son-
+
+cher Natur, die nach der Gebührenordnung derleistungen nach der Ge-
+
+für Zahnärzte (GOZ) vom 22.10.1987 (BGBL. bührenordnung
+
+I S. 2316) in der jeweils geltenden Fassung
+
+gebührenpflichtig sind.
+
+3.4
+
+Amtshandlungen oder Leistungen ärztlicher, Einfache Sätze für Sonder-
+
+psychologisch-psychotherapeutischer, kin- leistungen nach der entspre-
+
+der - und jugendlichenpsychotherapeutischer chenden Gebührenordnung
+
+oder zahnärztlicher Natur, die nach den amt-
+
+lichen Gebührenordnungen (GOÄ, GOP oder
+
+GOZ) gebührenpflichtig sind und bei denen
+
+ein Leistungsträger im Sinne des § 12 des
+
+Ersten Buches des Sozialgesetzbuchs oder
+
+ein sonstiger öffentlich-rechtlicher Kostenträ-
+
+ger die Zahlung leistet (§ 11 GOÄ/ § 1 GOP /
+
+§ 3 GOZ).
+
+Vorstehende Satzung über die Erhebung von Gebühren und Auslagenersatz für Amtshandlungen der Stadt Duisburg nach dem Gesetz über den öffentlichen Gesundheitsdienst des Landes Nordrhein-Westfalen (Gebührensatzung Gesundheitsamt) vom 09.02.2023 wird hiermit öffentlich bekannt gemacht.
+
+1Amtsblatt für die Stadt Duisburg 10/2023 vom 31.03.2023, S. 134
 
 4
