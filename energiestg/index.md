@@ -33,19 +33,24 @@ und Erdgas
 - [§ 13 Ausfuhr](0013.md)
 - [§ 14 Unregelmäßigkeiten während der Beförderung](0014.md)
 
-### Abschnitt 2 Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs
+### Abschnitt 2 Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
 
-- [§ 15 Verbringen zu gewerblichen Zwecken](0015.md)
+- [§ 15 Lieferung zu gewerblichen Zwecken](0015.md)
+- [§ 15a Zertifizierte Empfänger](0015a.md)
+- [§ 15b Zertifizierte Versender](0015b.md)
+- [§ 15c Beförderungen](0015c.md)
 - [§ 16 Verbringen zu privaten Zwecken](0016.md)
 - [§ 17 Entnahme aus Hauptbehältern](0017.md)
 - [§ 18 Versandhandel](0018.md)
 - [§ 18a Unregelmäßigkeiten während der Beförderung im steuerrechtlich freien Verkehr](0018a.md)
+- [§ 18b Steuerentstehung, Steuerschuldner](0018b.md)
+- [§ 18c Steueranmeldung, Fälligkeit](0018c.md)
 
-### Abschnitt 2a Einfuhr von Energieerzeugnissen aus Drittländern oder Drittgebieten
+### Abschnitt 2a Einfuhr oder unrechtmäßiger Eingang von Energieerzeugnissen aus Drittländern oder Drittgebieten
 
-- [§ 19 Einfuhr](0019.md)
-- [§ 19a Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren](0019a.md)
-- [§ 19b Steuerentstehung, Steuerschuldner](0019b.md)
+- [§ 19 (weggefallen)](0019.md)
+- [§ 19a (weggefallen)](0019a.md)
+- [§ 19b Steuerentstehung, Steuerschuldner bei der Einfuhr](0019b.md)
 
 ### Abschnitt 3 Steuerrechtlich freier Verkehr in sonstigen Fällen
 
@@ -119,6 +124,6 @@ Gasöl](0048.md)
 - [§ 66a (weggefallen)](0066a.md)
 - [§ 66b Ermächtigung zu § 55 Absatz 4, 5 und 8](0066b.md)
 - [§ 66c Bußgeldvorschriften](0066c.md)
-- [§ 67 (weggefallen)](0067.md)
+- [§ 67 Übergangsvorschriften](0067.md)
 - [§ 68 Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften](0068.md)
 - [Anlage (zu § 55) Zielwerte für die zu erreichende Reduzierung der Energieintensität](anlage.md)

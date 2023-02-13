@@ -28,17 +28,27 @@ Steueraussetzung
 | § 13 | Ausfuhr |
 | § 14 | Unregelmäßigkeiten während der Beförderung |
 Abschnitt 2
-Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs
-| § 15 | Verbringen zu gewerblichen Zwecken |
+Verbringen von
+Energieerzeugnissen des
+steuerrechtlich freien Verkehrs aus anderen,
+in andere oder über andere Mitgliedstaaten
+| § 15 | Lieferung zu gewerblichen Zwecken |
+| § 15a | Zertifizierte Empfänger |
+| § 15b | Zertifizierte Versender |
+| § 15c | Beförderungen |
 | § 16 | Verbringen zu privaten Zwecken |
 | § 17 | Entnahme aus Hauptbehältern |
 | § 18 | Versandhandel |
 | § 18a | Unregelmäßigkeiten während der Beförderung im steuerrechtlich freien Verkehr |
+| § 18b | Steuerentstehung, Steuerschuldner |
+| § 18c | Steueranmeldung, Fälligkeit |
 Abschnitt 2a
-Einfuhr von Energieerzeugnissen aus Drittländern oder Drittgebieten
-| § 19 | Einfuhr |
-| § 19a | Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren |
-| § 19b | Steuerentstehung, Steuerschuldner |
+Einfuhr oder unrechtmäßiger
+Eingang von Energieerzeugnissen
+aus Drittländern oder Drittgebieten
+| § 19 | (weggefallen) |
+| § 19a | (weggefallen) |
+| § 19b | Steuerentstehung, Steuerschuldner bei der Einfuhr |
 Abschnitt 3
 Steuerrechtlich freier Verkehr in sonstigen Fällen
 | § 20 | Differenzversteuerung |
@@ -105,6 +115,6 @@ Schlussbestimmungen
 | § 66a | (weggefallen) |
 | § 66b | Ermächtigung zu § 55 Absatz 4, 5 und 8 |
 | § 66c | Bußgeldvorschriften |
-| § 67 | (weggefallen) |
+| § 67 | Übergangsvorschriften |
 | § 68 | Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften |
 | Anlage | (zu § 55) Zielwerte für die zu erreichende Reduzierung der Energieintensität |

@@ -28,16 +28,23 @@
 - [§ 17 Verwendung von Steuerzeichen, Steueranmeldung, Steuererklärung](0017.md)
 - [§ 18 Fälligkeit](0018.md)
 
-## Abschnitt 3 Einfuhr von Tabakwaren aus Drittländern oder Drittgebieten
+## Abschnitt 3 Einfuhr oder unrechtmäßiger Eingang von Tabakwaren aus Drittländern oder Drittgebieten
 
-- [§ 19 Einfuhr](0019.md)
-- [§ 20 Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren](0020.md)
+- [§ 19 (weggefallen)](0019.md)
+- [§ 20 (weggefallen)](0020.md)
 - [§ 21 Steuerentstehung, Steuerschuldner](0021.md)
 
-## Abschnitt 4 Beförderung und Besteuerung von Tabakwaren des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
+## Abschnitt 4 Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
 
 - [§ 22 Erwerb durch Privatpersonen](0022.md)
-- [§ 23 Tabakwaren des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten, Versandhandel](0023.md)
+- [§ 23 Lieferung zu gewerblichen Zwecken](0023.md)
+- [§ 23a Zertifizierte Empfänger](0023a.md)
+- [§ 23b Zertifizierte Versender](0023b.md)
+- [§ 23c Beförderungen](0023c.md)
+- [§ 23d Versandhandel](0023d.md)
+- [§ 23e Unregelmäßigkeiten während der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs](0023e.md)
+- [§ 23f Steuerentstehung, Steuerschuldner](0023f.md)
+- [§ 23g Steuererklärung, Fälligkeit](0023g.md)
 
 ## Abschnitt 5 Bestimmungen zu den Kleinverkaufspackungen und zu den Kleinverkaufspreisen
 

@@ -66,7 +66,7 @@
 
 - [§ 23 Entfernung und Entnahme von Energieerzeugnissen](0023.md)
 
-## - Zu den §§ 8, 9, 9a, 14, 15, 16, 22 und 23 des Gesetzes
+## - Zu den §§ 8, 9, 9a, 14, 16, 18c, 22 und 23 des Gesetzes
 
 - [§ 23a Steueranmeldung](0023a.md)
 
@@ -97,18 +97,18 @@
 ## - Zu den §§ 9d bis 13 des Gesetzes
 
 - [§ 28a Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem](0028a.md)
-- [§ 28b Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks](0028b.md)
+- [§ 28b Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes](0028b.md)
 - [§ 28c Unbestimmter Empfänger](0028c.md)
 - [§ 29 Art und Höhe der Sicherheitsleistung](0029.md)
 - [§ 30 Annullierung des elektronischen Verwaltungsdokuments](0030.md)
-- [§ 31 Änderung des Bestimmungsorts bei Verwendung des elektronischen Verwaltungsdokuments](0031.md)
+- [§ 31 Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse bei Verwendung des elektronischen Verwaltungsdokuments](0031.md)
 - [§ 32 Aufteilung von Warensendungen während der Beförderung](0032.md)
 - [§ 33 Beförderung aus anderen Mitgliedstaaten und Beendigung von Beförderungen unter Steueraussetzung](0033.md)
 - [§ 34 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments](0034.md)
 - [§ 35 Beförderung im Steuergebiet ohne elektronisches Verwaltungsdokument](0035.md)
 - [§ 36 Beginn der Beförderung im Ausfallverfahren](0036.md)
 - [§ 36a Annullierung im Ausfallverfahren](0036a.md)
-- [§ 36b Änderung des Bestimmungsorts im Ausfallverfahren](0036b.md)
+- [§ 36b Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse im Ausfallverfahren](0036b.md)
 - [§ 36c Aufteilung im Ausfallverfahren](0036c.md)
 - [§ 36d Eingangs- und Ausfuhrmeldung im Ausfallverfahren](0036d.md)
 - [§ 37 Ersatznachweise für die Beendigung der Beförderung](0037.md)
@@ -117,32 +117,39 @@
 
 - [§ 37a Unregelmäßigkeiten während der Beförderung unter Steueraussetzung](0037a.md)
 
-## - Zu § 15 des Gesetzes
+## - Zu den §§ 15, 15a, 15b und 15c des Gesetzes
 
-- [§ 38 Anzeige und Zulassung](0038.md)
-- [§ 39 Beförderung](0039.md)
-- [§ 40 Pflichten des Anzeigepflichtigen, Steueraufsicht](0040.md)
+- [§ 38 Zertifizierter Empfänger](0038.md)
+- [§ 38a Zertifizierter Versender](0038a.md)
+- [§ 38b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren](0038b.md)
+- [§ 38c Erstellen des vereinfachten elektronischen Verwaltungsdokuments](0038c.md)
+- [§ 38d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments](0038d.md)
+- [§ 38e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments](0038e.md)
+- [§ 38f Beförderung im Ausfallverfahren](0038f.md)
+- [§ 38g Ersatznachweise für die Beendigung der Beförderung](0038g.md)
+- [§ 39 (weggefallen)](0039.md)
+- [§ 40 (weggefallen)](0040.md)
 
-## - Zu den §§ 15, 17, 21 und 46 des Gesetzes
+## - Zu den §§ 17, 18b, 21 und 46 des Gesetzes
 
 - [§ 41 Hauptbehälter](0041.md)
 
 ## - Zu § 18 des Gesetzes
 
-- [§ 42 Versandhandel, Beauftragter](0042.md)
+- [§ 42 Versandhandel](0042.md)
 
-## - Zu § 18a des Gesetzes
+## - Zu § 18c des Gesetzes
 
-- [§ 42a Unregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten](0042a.md)
+- [§ 42a Unregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs](0042a.md)
 
 ## - Zu den §§ 19 bis 19b des Gesetzes
 
 - [§ 43 Einfuhr von Energieerzeugnissen aus Drittländern und Drittgebieten](0043.md)
 
-## - Zu § 66 Abs. 1 Nr. 16 des Gesetzes
+## - (weggefallen)
 
-- [§ 44 Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken in andere Mitgliedstaaten](0044.md)
-- [§ 45 Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat](0045.md)
+- [§ 44 (weggefallen)](0044.md)
+- [§ 45 (weggefallen)](0045.md)
 
 ## - Zu den §§ 21, 65 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes
 

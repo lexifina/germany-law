@@ -63,14 +63,14 @@
 |  |  |
 | § 23 | Entfernung und Entnahme von Energieerzeugnissen |
 |  |
-| Zu den §§ 8, 9, 9a, 14, 15, 16, 22 und 23 des Gesetzes |
+| Zu den §§ 8, 9, 9a, 14, 16, 18c, 22 und 23 des Gesetzes |
 |  |  |
 | § 23a | Steueranmeldung |
-|  |  |
+|  |
 | Zu den §§ 8, 9, 9a, 14, 15, 16, 17, 18, 18a, 20, 21, 22, 23, 30, 33, 34, 36, 37, 39, 40, 42, 43 und 44 des Gesetzes und § 61 Absatz 4 |
 |  |  |
 | § 23b | Überprüfung der Steueranmeldung |
-|  |
+|  |  |
 | Zu § 9 des Gesetzes |
 |  |  |
 | § 24 | Herstellung außerhalb eines Herstellungsbetriebs |
@@ -94,18 +94,18 @@
 | Zu den §§ 9d bis 13 des Gesetzes |
 |  |  |
 | § 28a | Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem |
-| § 28b | Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks |
+| § 28b | Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes |
 | § 28c | Unbestimmter Empfänger |
 | § 29 | Art und Höhe der Sicherheitsleistung |
 | § 30 | Annullierung des elektronischen Verwaltungsdokuments |
-| § 31 | Änderung des Bestimmungsorts bei Verwendung des elektronischen Verwaltungsdokuments |
+| § 31 | Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse bei Verwendung des elektronischen Verwaltungsdokuments |
 | § 32 | Aufteilung von Warensendungen während der Beförderung |
 | § 33 | Beförderung aus anderen Mitgliedstaaten und Beendigung von Beförderungen unter Steueraussetzung |
 | § 34 | Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments |
 | § 35 | Beförderung im Steuergebiet ohne elektronisches Verwaltungsdokument |
 | § 36 | Beginn der Beförderung im Ausfallverfahren |
 | § 36a | Annullierung im Ausfallverfahren |
-| § 36b | Änderung des Bestimmungsorts im Ausfallverfahren |
+| § 36b | Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse im Ausfallverfahren |
 | § 36c | Aufteilung im Ausfallverfahren |
 | § 36d | Eingangs- und Ausfuhrmeldung im Ausfallverfahren |
 | § 37 | Ersatznachweise für die Beendigung der Beförderung |
@@ -114,32 +114,36 @@
 |  |  |
 | § 37a | Unregelmäßigkeiten während der Beförderung unter Steueraussetzung |
 |  |
-| Zu § 15 des Gesetzes |
+| Zu den §§ 15, 15a, 15b und 15c des Gesetzes |
 |  |  |
-| § 38 | Anzeige und Zulassung |
-| § 39 | Beförderung |
-| § 40 | Pflichten des Anzeigepflichtigen, Steueraufsicht |
+| § 38 | Zertifizierter Empfänger |
+| § 38a | Zertifizierter Versender |
+| § 38b | Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren |
+| § 38c | Erstellen des vereinfachten elektronischen Verwaltungsdokuments |
+| § 38d | Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments |
+| § 38e | Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments |
+| § 38f | Beförderung im Ausfallverfahren |
+| § 38g | Ersatznachweise für die Beendigung der Beförderung |
+| § 39 | (weggefallen) |
+| § 40 | (weggefallen) |
 |  |
-| Zu den §§ 15, 17, 21 und 46 des Gesetzes |
+| Zu den §§ 17, 18b, 21 und 46 des Gesetzes |
 |  |  |
 | § 41 | Hauptbehälter |
 |  |
 | Zu § 18 des Gesetzes |
 |  |  |
-| § 42 | Versandhandel, Beauftragter |
+| § 42 | Versandhandel |
 |  |  |
-| Zu § 18a des Gesetzes |
+| Zu § 18c des Gesetzes |
 |  |  |
 | § 42a | Unregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten |
 |  |
-| Zu den §§ 19 bis 19b des Gesetzes |
+| Zu § 19b des Gesetzes |
 |  |  |
 | § 43 | Einfuhr von Energieerzeugnissen aus Drittländern und Drittgebieten |
-|  |
-| Zu § 66 Abs. 1 Nr. 16 des Gesetzes |
-|  |  |
-| § 44 | Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken in andere Mitgliedstaaten |
-| § 45 | Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat |
+| § 44 | (weggefallen) |
+| § 45 | (weggefallen) |
 |  |
 | Zu den §§ 21, 65 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes |
 |  |  |
@@ -147,11 +151,12 @@
 | § 47 | Vermischungen in Kennzeichnungs- und anderen Betrieben |
 | § 48 | Vermischungen bei der Abgabe aus Transportmitteln |
 | § 49 | Spülvorgänge und sonstige Vermischungen, Steueranmeldung |
+| § 49a | Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung |
+| § 49b | Nachweise für die Vorversteuerung |
 |  |
 | Zu § 23 des Gesetzes |
 |  |  |
-| § 49a | Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung |
-| § 49b | Nachweise für die Vorversteuerung |
+| § 49a | Abgabe von sonstigen Energieerzeugnissen |
 | § 50 | Anzeige |
 | § 51 | Pflichten, Steueraufsicht |
 |  |

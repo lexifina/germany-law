@@ -24,27 +24,32 @@
 - [§ 16 Ausfuhr](0016.md)
 - [§ 17 Unregelmäßigkeiten während der Beförderung](0017.md)
 - [§ 18 Steuerentstehung, Steuerschuldner](0018.md)
-- [§ 19 Steueranmeldung, Steuerbescheid, Fälligkeit](0019.md)
+- [§ 19 Steueranmeldung, Fälligkeit](0019.md)
 
-## Abschnitt 3 Einfuhr von Alkoholerzeugnissen aus Drittländern oder Drittgebieten
+## Abschnitt 3 Einfuhr oder unrechtmäßiger Eingang von Alkoholerzeugnissen aus Drittländern oder Drittgebieten
 
-- [§ 20 Einfuhr](0020.md)
-- [§ 21 Unregelmäßigkeiten in zollrechtlichen Nichterhebungsverfahren](0021.md)
+- [§ 20 (weggefallen)](0020.md)
+- [§ 21 (weggefallen)](0021.md)
 - [§ 22 Steuerentstehung, Steuerschuldner](0022.md)
 
-## Abschnitt 4 Beförderung und Besteuerung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
+## Abschnitt 4 Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
 
 - [§ 23 Erwerb durch Privatpersonen](0023.md)
-- [§ 24 Bezug und Besitz zu gewerblichen Zwecken](0024.md)
+- [§ 24 Lieferung zu gewerblichen Zwecken](0024.md)
+- [§ 24a Zertifizierte Empfänger](0024a.md)
+- [§ 24b Zertifizierte Versender](0024b.md)
+- [§ 24c Beförderungen](0024c.md)
 - [§ 25 Versandhandel](0025.md)
-- [§ 26 Unregelmäßigkeiten während der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten](0026.md)
+- [§ 26 Unregelmäßigkeiten während der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs](0026.md)
+- [§ 26a Steuerentstehung, Steuerschuldner](0026a.md)
+- [§ 26b Steueranmeldung, Fälligkeit](0026b.md)
 
 ## Abschnitt 5 Steuervergünstigungen
 
 - [§ 27 Steuerbefreiungen](0027.md)
 - [§ 28 Verwender](0028.md)
 - [§ 29 Steuerentlastung im Steuergebiet](0029.md)
-- [§ 30 Steuerentlastung bei der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten](0030.md)
+- [§ 30 Steuerentlastung bei der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs](0030.md)
 
 ## Abschnitt 6 Steueraufsicht, Überwachung, Berechnung bei Verkürzung der Alkoholsteuer, Sicherstellung
 

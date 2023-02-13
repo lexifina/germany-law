@@ -12,7 +12,7 @@
 - [§ 2 Stückgewicht](0002.md)
 - [§ 3 Steuerzeichen](0003.md)
 
-## Abschnitt 3 Zu den §§ 5 und 6 des Gesetzes
+## Abschnitt 3 Zu den §§ 5, 6 und 15 Absatz 3 des Gesetzes
 
 - [§ 4 Steuerlager, Anforderungen an die Einrichtung](0004.md)
 - [§ 5 Antrag auf Erlaubnis als Steuerlagerinhaber](0005.md)
@@ -22,7 +22,7 @@
 - [§ 8 Änderung von Verhältnissen](0008.md)
 - [§ 9 Erlöschen und Fortbestand der Erlaubnis](0009.md)
 - [§ 10 Belegheft, Buchführung](0010.md)
-- [§ 11 Vollständige Zerstörung und unwiederbringlicher Verlust](0011.md)
+- [§ 11 Vollständige Zerstörung und unwiederbringlicher Gesamt- oder Teilverlust](0011.md)
 - [§ 12 Bestandsaufnahme im Steuerlager](0012.md)
 
 ## Abschnitt 4 Zu § 7 des Gesetzes
@@ -39,22 +39,22 @@
 
 ## Abschnitt 7 Zu den §§ 10 bis 13 des Gesetzes
 
-- [§ 16 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem](0016.md)
-- [§ 17 Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks](0017.md)
+- [§ 16 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren](0016.md)
+- [§ 17 Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes](0017.md)
 - [§ 18 Mitführen der Freistellungsbescheinigung](0018.md)
 - [§ 19 Art und Höhe der Sicherheitsleistung](0019.md)
 - [§ 20 Annullierung des elektronischen Verwaltungsdokuments](0020.md)
-- [§ 21 Änderung des Bestimmungsorts bei Verwendung des elektronischen Verwaltungsdokuments](0021.md)
+- [§ 21 Änderung des Bestimmungsorts oder des Empfängers von Tabakwaren bei Verwendung des elektronischen Verwaltungsdokuments](0021.md)
 - [§ 22 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft](0022.md)
 - [§ 23 Beförderungen im Steuergebiet in Sonderfällen](0023.md)
 - [§ 24 Beförderungen im Steuergebiet in Betriebe von Verwendern](0024.md)
 - [§ 25 Beginn der Beförderung im Ausfallverfahren](0025.md)
 - [§ 26 Annullierung im Ausfallverfahren](0026.md)
-- [§ 27 Änderung des Bestimmungsorts im Ausfallverfahren](0027.md)
+- [§ 27 Änderung des Bestimmungsorts oder des Empfängers von Tabakwaren im Ausfallverfahren](0027.md)
 - [§ 28 Eingangs- und Ausfuhrmeldung im Ausfallverfahren](0028.md)
 - [§ 29 Ersatznachweise für die Beendigung der Beförderung](0029.md)
 
-## Abschnitt 8 Zu den §§ 14 und 15 Absatz 3 Nummer 1 des Gesetzes
+## Abschnitt 8 Zu den §§ 14 und 15 Absatz 3 des Gesetzes
 
 - [§ 30 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung](0030.md)
 
@@ -81,7 +81,19 @@
 
 ## Abschnitt 13 Zu den §§ 23 und 35 Absatz 1 Nummer 3 Buchstabe a des Gesetzes
 
-- [§ 40 Beförderungen von Tabakwaren des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat oder durch das Steuergebiet](0040.md)
+- [§ 40 Zertifizierter Empfänger](0040.md)
+- [§ 40a Zertifizierter Versender](0040a.md)
+- [§ 40b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren](0040b.md)
+- [§ 40c Erstellen des vereinfachten elektronischen Verwaltungsdokuments](0040c.md)
+- [§ 40d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments](0040d.md)
+- [§ 40e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments](0040e.md)
+- [§ 40f Beförderung im Ausfallverfahren](0040f.md)
+- [§ 40g Ersatznachweise für die Beendigung der Beförderung](0040g.md)
+- [§ 40h Unregelmäßigkeiten während der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs](0040h.md)
+
+## Abschnitt 13a Zu § 23g des Gesetzes
+
+- [§ 40i Steuererklärung; Kleinbetragsregelung](0040i.md)
 
 ## Abschnitt 14 Zu § 24 des Gesetzes
 
