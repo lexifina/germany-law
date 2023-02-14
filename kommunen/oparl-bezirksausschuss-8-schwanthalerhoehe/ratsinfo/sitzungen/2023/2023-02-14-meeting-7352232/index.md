@@ -1,0 +1,85 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352232
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352232
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Nachbesetzung der Unterausschüsse Soziales, Bildung, Wohnungspolitik sowie Kultur und Integration durch die Fraktionsgemeinschaft CSU & FDP
+- TOP 2.3.: Benennung einer / eines stellvertretenden UA-Vorsitzenden im Unterausschuss Soziales, Bildung, Wohnungspolitik
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Vorstellung Initiative Allianz für München
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Errichtung eines PopUp-Biergartens
+- TOP 5: Bericht aus dem Vorstand
+- TOP 5.1.: Handout Treffen der BA-Vorsitzenden mit Frau Bürgermeisterin Dietl am 11.01.2023
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Erweiterung Freischankfläche Schwanthalerstraße 146
+- TOP 6.1.2.: Freischankfläche Schwanthalerstraße 148
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Kazmairstraße 66
+- TOP 6.2.2.: Bauvorhaben Ganghoferstraße 27a - 29a
+- TOP 6.2.3.: Bauvorhaben Schwanthalerstraße 142
+- TOP 6.2.4.: Zweite S-Bahn-Stammstrecke; Planänderung
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: 30tes Jubiläum / Sommerfest Elterninitiative Westenddrachen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Umzug der Kinderkrippe Schrenkstraße 2
+- TOP 7.3.2.: Nachtspaziergänge mit der Fachstelle MoNa
+- TOP 7.3.3.: Projekt „Vom Weltspieltag zum Weltkindertag 2023“ im Stadtbezirk 8
+- TOP 7.3.4.: Stabübergabe im Förderverein der Grundschule an der Bergmannstraße
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Nachtflohmärkte Georg-Frezundorfer-Platz am 29.04., 27.05., 24.06., 22.07., 26.08., 16.09. und 28.10.2023
+- TOP 8.2.2.: Nachtflohmärkte Gollierplatz am 15.04., 13.05., 10.06., 08.07., 12.08., 09.09. und 14.10.2023
+- TOP 8.2.3.: Planungen zum zweiten Westend-Tischtennis-Cup
+- TOP 8.2.4.: Voranfrage; Veranstaltung des Bundesministeriums für Bildung & Forschung auf dem Georg-Freundorfer-Platz für den Zeitraum 03.07. bis 09.07.2023
+- TOP 8.2.5.: Festumzug Frühlingsfest inkl. Freibierausschank am 21.04.2023
+- TOP 8.3: Unterrichtungen
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) + (U) Anordnung von Tempo 30 auf der Ganghoferstraße Empfehlung Nr. 20-26 / E 00235 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 21.07.2021
+- TOP 9.1.2.: (E) Sinnvolle Radwegeverbindung Westend – Innenstadt; Ausstattung der Schwanthalerstraße mit beidseitigem Radweg Empfehlung Nr. 14-20 / E 02574 der Bürgerversammlung des 08. Stadtbezirkes Schwanthalerhöhe am 04.04.2019
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Westendstraße 36
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Informationsblatt Dieselfahrverbot im Rahmen der 8. Fortschreibung des Luftreinhalteplans München
+- TOP 9.3.2.: Fernwärmebauarbeiten Schwanthalerstraße / Holzapfelstraße vom 06.03.2023 – 28.04.2023
+- TOP 9.3.3.: Änderung der Parkregelung in der Gollierstraße
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Auferstehungsgemeinde München Westend “Westend Vibes“ vom 01.01.2023 - 31.12.2023“ 24.680,00 € / AZ: 0262.0-8-0333
+- TOP 10.1.2.: (E) Stadtbezirksbudget Isarlust e.V. “Kulturlieferdienst vom 06.02.2023 – 31.12.2023“ 4.760,00 € / AZ: 0262.0-8-0338
+- TOP 10.1.3.: (E) Stadtbezirksbudget Initiative „Zeitgenössische Kunstausstellung“ “Was gehört uns?“ Zeitgenössische Kunstausstellung vom 10.03.2023 – 19.03.2023 3.200,00 € / AZ: 0262.0-8-0340
+- TOP 10.1.4.: (E) Stadtbezirksbudget West an Hell e.V. West and Hell e.V. Strassenfest am 22.07.2023 von 11:30 – 23:00 Uhr Ausweichtermin am 29.07.2023 von 11:30 – 23:00 Uhr 2.520,00 € / Az.: 0262.0-8-0341
+- TOP 10.1.5.: (E) Stadtbezirksbudget Initiative „open Westend“ “open Westend vom 24.03.2023 – 26.03.2023“ 1.280,00 € / AZ: 0262.0-8-0339
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Dezentrale Fußgängerzonen auf der Schwanthalerhöhe
+- TOP 11.2.: Ein Superblock für die Schwanthalerhöhe
+- TOP 11.3.: Neubau des Kindermuseums auf der Schwanthalerhöhe zeitnah umsetzen!
+- TOP 11.4.: Erneuerung der Großschach-Spielfiguren am Georg-Freundorfer-Platz
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
