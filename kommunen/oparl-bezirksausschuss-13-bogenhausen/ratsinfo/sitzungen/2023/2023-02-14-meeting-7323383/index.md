@@ -1,0 +1,180 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2023-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7323383
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7323383
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 17.01.2023
+- TOP 1.3.2.: Amtsniederlegung von Xaver Finkenzeller
+- TOP 1.3.3.: Amtseinführung von Peggy Schön
+- TOP 1.3.4.: Umbesetzung in den Unterausschüssen
+- TOP 1.3.5.: Unterausschüsse - Anpassung der Sitzverteilung
+- TOP 1.3.6.: Wahl der / des Vorsitzenden des UA Stadtplanung und Bauordnung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: (E) Mängel an Wohnhaus in der Ruth-Drexel-Straße
+- TOP 2.2.2.: Hochhausstudie 2023 - Beschlussentwurf - Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.3.: Kunihohstr. 7 - Abbruch Betriebsgebäude, Neubau von drei Mehrfamilienhäusern mit Tiefgarage
+- TOP 2.2.4.: Adalbert-Stifter-Str. 15 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 2.2.5.: Hompeschstr. 5 - Neubau eines Wohn- und Geschäftshauses (4 WE ) mit TG (40 Stpl.) - GENEHMIGUNGSVERLÄNGERUNG >>Hompeschstr. 5 / Möhlstr.<<
+- TOP 2.2.6.: Montgelasstr. 6 - Neubau zweier Einfamilienhäusern
+- TOP 2.2.7.: Ennemoserstr. 8 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2.8.: Kunihohstraße 7: Denkmalschutz / Baumschutz in Gefahr; Anliegen aus der Bürgerschaft
+- TOP 2.2.9.: Entwicklungsmaßnahme Münchner Nordosten Blickachsen Visualisierung Wettbewerbsergebnis (Plan liegt dem UA bereits vor); Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.10.: Friedrich-Eckart-Str. 2 - Neubau einer Wohnanlage mit Tiefgarage: Variante 1 - VORBESCHEID
+- TOP 2.2.11.: Friedrich-Eckart-Str. 2 - Neubau einer Wohnanlage mit Tiefgarage: Variante 2 - VORBESCHEID
+- TOP 2.2.12.: Osserstr. 28 - Neubau eines Mehrgenerationeneinfamilienhauses mit integriertem Büro sowie Tiefgarage und Einliegerwohnung (Frist 27.01.2023; keine Verlängerung möglich)
+- TOP 2.2.13.: Höslstr. 7 - Neubau eines Mehrfamilienhauses mit 5 Wohneinheiten und Tiefgarage
+- TOP 2.2.14.: Flemingstr. 38 - Neubau eines Mehrfamilienhauses mit Tiefgarage - TEKTUR zu 1.23-2022-4772-31 (Frist 27.01.2023; keine Verlängerung möglich)
+- TOP 2.2.15.: Maria-Theresia-Str. 19 - Anbau eines Aufzugs an der Rückseite eines Hauses
+- TOP 2.2.16.: Zoppoter Str. - Neubau einer Doppelhaushälfte (2 WE) mit Doppelgarage
+- TOP 2.2.17.: Zoppoter Str. 26 - Neubau einer Doppelhaushälfte (2 WE) mit Doppelgarage
+- TOP 2.2.18.: Hoyerweg 32 - Abbruch der vorh. Gebäude und Errichtung eines Doppelhauses mit Garagen - VORBESCHEID
+- TOP 2.2.19.: Preziosastr. 43 - Neubau eines Wohnhauses (12 WE), externe Abstellräume im EG sowie 12 Fahrrad- und 12 KFZ-Stellplätze - VORBESCHEID
+- TOP 2.2.20.: Ortnitstr. 25 - Errichtung eines Mehrfamilienhauses mit 3 (WE) und Tiefgarage
+- TOP 2.2.21.: Gotenstr. 3 - Neubau eines Mehrfamilienhauses mit 5 WE und Carlift
+- TOP 2.2.22.: König-Heinrich-Str. 25 - TEKTUR zu 1.2-2021-24483-31 - Neubau eines Wohngebäudes mit Doppelparkergarage und Stellplatz - Jetzt: Entfall Stellplatz, Errichten einer Doppelgarage
+- TOP 2.2.23.: Mauerkircherstr. 17 - Rückbau eines teilausgebauten Daches mit Speicher (4WE) und Neubau eines zweigeschossigen Mansarddaches mit Gauben, Loggien und Dachterrassen (Gesamt 8WE), Errichtung zweier Außenaufzüge, Rückbau von oberirdischen Garagenanteilen und Umbau Zufahrtsrampe im EG mit Verkleinerung Wohnung 0.3
+- TOP 2.2.24.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.25.: Verschiedenes, Termine
+- TOP -: Baumfällungen lt. Plan
+- TOP 1.: Kunihohstr. 7 - Abbruch Betriebsgebäude, Neubau von drei Mehrfamilienhäusern mit Tiefgarage (Vertagt aus Januar-Sitzung)
+- TOP 2.: Adalbert-Stifter-Str. 15 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 3.: Oberföhringer Str. 28 - TEKTUR zu 1.2-2022-9040-31 - Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage (11 Stpl.)
+- TOP 4.: Elbestr. 5 - Neubau eines Doppelhauses (Haus 1 + 2 / je 2 WE) mit 4 Carports
+- TOP 5.: Hompeschstr. 5 - Neubau eines Wohn- und Geschäftshauses (4 WE ) mit TG (40 Stpl.) - GENEHMIGUNGSVERLÄNGERUNG >>Hompeschstr. 5 / Möhlstr.<<
+- TOP 6.: Ennemoserstr. 8 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.: Pienzenauerstr. 103
+- TOP 8.: Gotenstr. 3 (vertagt aus Januar-Sitzung)
+- TOP 9.: Höslstr. 7 - Neubau eines Mehrfamilienhauses mit 5 Wohneinheiten und Tiefgarage
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: (E) Anbringung eines Verkehrsspiegels für die Ausfahrt von der Klosestraße auf die Weltenburger Straße
+- TOP 2.3.2.: (E) Anbringung eines Verkehrsspiegels bei der Ausfahrt von der Gleimstraße in die Weltenburger Straße
+- TOP 2.3.3.: Kreuzung Stegmühlstr./ Savitstr.: Änderung Vorfahrt; Anhörung des Mobilitätsreferats
+- TOP 2.3.4.: Denninger Straße: Fahrbahnsanierung (Straßenunterhaltsmaßnahme); Anhörung des Baureferats
+- TOP 2.3.5.: Mauerkircherstraße: Fahrbahnsanierung (Straßenunterhaltsmaßnahme); Anhörung des Baureferats
+- TOP 2.3.6.: Zamilastraße: Fahrbahnsanierung (Straßenunterhaltsmaßnahme); Anhörung des Baureferats
+- TOP 2.3.7.: Querungsinsel in der Freischützstraße Höhe Flaschenträgerstraße; Anhörung des Mobilitätsreferats
+- TOP 2.3.8.: Brodersenstraße: angekündigte Änderung der Tempo 30-Zonen; Anhörung des Mobilitätsreferats
+- TOP 2.3.9.: Cosimastraße: Straßenunterhaltsmaßnahme - Radwegsanierung; Anhörung des Baureferats
+- TOP 2.3.10.: Denninger Straße : Straßenunterhaltsmaßnahme - Radwegsanierung; Anhörung des Baureferats
+- TOP 2.3.11.: Wimmerstr.: Errichtung eines Wertstoffcontainerstandortes; Anhörung des AWM (vertagt aus der Sitzung 01/23)
+- TOP 2.3.12.: Denninger Str. 189: Kurzzeitparkplatz für Kinderkrippe; Anhörung des Moblilitätsreferats
+- TOP 2.3.13.: Erhöhung der Verkehrssicherheit für den Radverkehr in der Mauerkircherstraße; Anhörung des Mobilitätsreferats
+- TOP 2.3.14.: Nachgefragt: Auswertung „Blue Lane“-Erkenntnisse IAA 2021; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.15.: Nachgefragt: Querungshilfe in der Weltenburger/Ecke Revaler Straße deutlich sichtbar machen; Antrag der SPD-Fraktion
+- TOP 2.3.16.: Trennung des gemeinsam genutzten Fußgänger-und Fahrradweges an der östlichen Seite der Bülowstraße; Antrag der SPD-Fraktion
+- TOP 2.3.17.: Rotmarkierung des Fahrradweges Denninger-/Delpstraße; Antrag der CSU-Fraktion
+- TOP 2.3.18.: (Prüf-)Antrag: Entschärfung Sensburger Straße – Einrichtung einer Sperre an der Einmündung zur Daglfinger Straße; Antrag der SPD-Fraktion
+- TOP 2.3.19.: Beschilderung Zaubzerstraße und Pfistermeisterstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.20.: Verkehrssituation am Rosenkavalierplatz; Anliegen aus der Bürgerschaft
+- TOP 2.3.21.: Ausbau der U4 bis zur S-Bahn-Haltestelle Johanneskirchen; Anliegen aus der Bürgerschaft
+- TOP 2.3.22.: Eugen-Jochum-Straße 1 - 3: Antrag auf Fahrrad- oder Lastenradabstellplätze; Anliegen aus der Bürgerschaft (vertagt aus der Sitzung 12/22)
+- TOP 2.3.23.: Beschwerde über den Zustand des Daglfinger Bahnhofs; Anliegen aus der Bürgerschaft
+- TOP 2.3.24.: Suche nach Fahrrad-Abstellflächen an der Ismaninger Str. 136 sowie gegenüber der Wehrlestraße 8; Bürgeranliegen
+- TOP 2.3.25.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.26.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song (im Rahmen des Kunstliedfestivals HIDALGO) am 02.09.2023 1.500,00 € / Az. 0262.0-13-0352
+- TOP 2.4.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 € / Az. 0262.0-13-0353
+- TOP 2.4.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.4.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Planungen für die Modernisierung und weitere Nutzung des aktuellen Gebäudes des WHG vertagt aus der Sitzung 01/23 Antrag der CSU-Fraktion Drittelantrag der SPD-Fraktion und Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.5.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.3.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: (E) Bauminseln für Schatten in der Ostpreußenstraße
+- TOP 2.6.2.: (E) Probleme beim Kleingartenverein in Bogenhausen
+- TOP 2.6.3.: Klären und ggf. ergänzen weiterer Sitzbankstandorte im Bezirk 13 (vertagt aus der Sitzung 01/23)
+- TOP 2.6.4.: Installation von Sitzbänken an verschiedenen Standorten; Antrag der CSU-Fraktion vom 19.09.2018 (vertagt aus der Sitzung 01/23)
+- TOP 2.6.5.: Eichhörnchen schützen durch kostengünstige, einfache Maßnahmen (vertagt aus der Sitzung 01/23)
+- TOP 2.6.6.: Deutliche Erhöhung der Baumnachpflanzungen bei Einzelfällanträgen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.7.: Erneuerbare Energie für Bogenhausen: Planungsstand für den Ausbau der Geothermie; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.8.: Vorschläge zum neuen Medizinkonzept der München-Klinik und zur Notfallversorgung in München; Anliegen aus der Bürgerschaft
+- TOP 2.6.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.10.: Verschiedenes, Termine
+- TOP -: Baumfällungen (Anhörungen)
+- TOP 1.: Ismaninger Str. 154
+- TOP 2.: Normannenstr. 34
+- TOP 3.: Steubstr.
+- TOP 4.: Steubstr. - Az.: 9.41-2023-1028-5
+- TOP 5.: Denninger Str. 194
+- TOP 6.: Denninger Str. 198
+- TOP 7.: Denninger Str. 200
+- TOP 8.: Pienzenauerstr. 2
+- TOP 9.: Flemingstr. 46
+- TOP 10.: Daphnestr. 27
+- TOP 11.: Neckarstr. 14
+- TOP 12.: Steubstr. 10 - Az.: 9.41-2023-1026-5
+- TOP 13.: Buschingstr. 12
+- TOP 14.: Oberföhringer Str. 214
+- TOP 15.: Ida-Pfeiffer-Str. 11
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Anregung zur Gestaltung des Werdegangs des Prinz-Eugen-Parks; Anliegen aus der Bürgerschaft
+- TOP 2.7.2.: Erhalt der Dienstbarkeit für die Aufbahrungsräume am Friedhof St. Lorenz in Oberföhring; hier: Antrag zur Bestellung einer städtischen Leistung des BA 13 aus der Sitzung am 13.12.2022; Schreiben des Direktoriums
+- TOP 2.7.3.: Beschleunigung des Verfahrens zur Umbenennung von hochbelasteten Straßennamen; Antrag der Fraktion Bündnis90/DIE GRÜNEN (vertagt aus der Sitzung 01/23)
+- TOP 2.7.4.: Vorschläge zum neuen Medizinkonzept der München-Klinik und zur Notfallversorgung in München; Anliegen aus der Bürgerschaft
+- TOP 2.7.5.: Containerunterkünfte zur Unterbringung Geflüchteter aus der Ukraine - Beschlussentwurf für den Sozialausschuss am 16.03.2023; Anhörung des Sozialreferats
+- TOP 2.7.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.7.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Optimierung der Ampelschaltung Denninger Straße / Weltenburger Straße und Vollmannstraße Hier: längere Grünphase für die Denninger Straße
+- TOP 6.2.: Erweiterung des Spielplatzes in der Alten Ziegelei um Outdoor Workout bzw. Crosstraining-Station
+- TOP 6.3.: Antrag abgesenkte Bordsteine abrunden - Mobilitätsfreiheit fördern
+- TOP 6.4.: Huuezziplatz - Schneeräumung und Räumpflicht
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Englschalkinger Straße: Sanierung des südlichen Radwegs zwischen der Englschalkinger Str. 164 und der Westpreußenstraße
+- TOP 7.2.2.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 7.3.2.: Steinhauser Straße (Ostseite südlich Stuntzstraße): Widerruf eingeschränktes Haltverbot mit Zeitzusatz, Anordnung Absolutes Haltverbot
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Ennemoserstr. 3
+- TOP 7.7.2.: Röntgenstr. 1
+- TOP 7.7.3.: Normannenstr. 34 a
+- TOP 7.7.4.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2020-2021
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Nachtspaziergänge: Angebot der Fachstelle MoNa
+- TOP 7.9.2.: Vollzug der Zweckentfremdungssatzung: - Revaler Str. 6 - Asgardstr. 10
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.13.1.: Bessere Koordination der Busverbindungen an der Titurelstraße; Rückmeldung der MVG zu einem Anliegen aus der Bürgerschaft
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
