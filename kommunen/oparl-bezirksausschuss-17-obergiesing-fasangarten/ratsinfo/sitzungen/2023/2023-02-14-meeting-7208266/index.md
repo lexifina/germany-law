@@ -1,0 +1,151 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2023-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7208266
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7208266
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 1.3.1.: 1.3.1 Protokoll der Sitzung vom 17.01.2023 1.4 Bildung eines Wahlgremiums 1.5 Wahl der / des Vorsitzenden des UA Familie, Soziales, Ausbildung (zuletzt vertagt aus der Sitzung vom 17.01.2023)
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Raumsuche für neues Pfadfinderheim; Bürgeranliegen vom 24.01.2023 (FF: UA FSA)
+- TOP 2.1.2.2.: Es brennt: Missstände an den Grundschulen (hier: Grundschule an der St.-Martin-Straße) (FF FSA)
+- TOP 2.1.2.3.: Bürgeranliegen; Flaschencontainer in München Ecke Alpenrosenstr. /Am Bergsteig (FF UA Umwelt und Gesundheit)
+- TOP 2.1.2.4.: Betreuungssituation; Grundschule Weißenseestr. (FF UA FSA)
+- TOP 2.1.2.5.: Bürger für unser Münchner Stadtklinikum; Vorschläge zum neuen Medizinkonzept der München-Klinik und zur Notfallversorgung in München (FF UA Umwelt und Gesundheit)
+- TOP 2.1.2.6.: Bürgeranliegen; Fahrradstellplätze Untere Gras/Gietlstr. (FF UA MuV) siehe auch Top 6.3.1.2 Vertagung vom 17.01.2023
+- TOP 2.1.2.7.: Neu errichtete Baustelle am Zebrastreifen Severinstr. (FF UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Seniorenbeauftragte*r
+- TOP 3.8.: Mieterbeirat
+- TOP 3.8.1.: Protokoll der öffentlichen Sitzung des Mieterbeirates der Landeshauptstadt München am 23.01.2023
+- TOP 3.9.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.9.1.: Eslarner Str. 12 - Neubau eines Quadrohauses mit 3 Garagen und einem PKW-Stellplatz -FF UA BPW - betrifft Baufall -
+- TOP 3.9.2.: Alzstr. 16
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA Kultur) Initiative „Was soll der olle Schinken“ Performanceprojekt „Was soll der olle Schinken 2.0“ von Ende Februar bis Ende März 2023 2.000,00 € / Az. 0262.0-17-0374
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) Hidalgo gGmbH Street Art Song (im Rahmen des Kunstliedfestivals HIDALGO) am 02.09.2023 1.500,00 € / Az. 0262.0-17-0373
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA Kultur) Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 € / Az. 0262.0-17-0375
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA Kultur) Ensemble La Vie e.V. “Ich und meine Tochter“ szenische Lesung zum internationalen Frauentag vom 27.02. - 31.03.2023 3.247,50 € / Az. 0262.0-17-0376
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Verwendungsnachweis; "OpenQ-22"
+- TOP 5.4.2.: Verwendungsnachweis; "Faces for the Names"
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Anhörung Hochhausstudie 2023 (verwiesen aus der Sitzung vom 17.01.2023, Frist: 10.02.2023 - Eil-Entscheidung der BA-Vorsitzenden)
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Eslarner Str. 12 - Neubau eines Quadrohauses mit 3 Garagen und einem PKW-Stellplatz -betrifft auch Baumschutz-
+- TOP 6.1.3.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.02.2023 Sektoraler Bebauungsplan Nr. 2186 Kistlerstr. (südlich), Weinbauernstr. (nördlich), Martin-Luther-Str. (östlich) Sitzungsvorlage Nr. 20-26 / V 08902
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung; Warngauer-Str.
+- TOP 6.1.4.2.: Schwanseestraße 89, Großtagespflege in München, Bürgeranfrage vom 08.01.2023; Antwortschreiben der Lokalbaukommission zur Kenntnis
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Multimedia Reportage neue Schulen auf muenchen.de
+- TOP 6.2.4.2.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 6.2.4.3.: Dienststellenverständigung KITZ Rosenheimerstr.
+- TOP 6.2.4.4.: Haus und Hof Kindergarten Larifari sucht Räumlichkeiten
+- TOP 6.2.4.5.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2020-2021
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.2.6.1.: Angebot "Nachtspaziergänge"
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Verlagerung Parkplätze Aignerstraße 26 / 45; Bürgeranliegen vom 23.11.2022 (zuletzt verwiesen aus der Sitzung vom 17.01.2023)
+- TOP 2.: Einrichtung von Fahrradstellplätzen in der Gietlstraße und Untere Gras Straße; Bürgeranliegen vom 20.12.2022 (FF: UA MuV - zuletzt verwiesen aus der Sitzung vom 17.01.2023 - Ortstermin)
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Erinnerungsverfahren ; Chiemgaustraße zw. Aschauer- und Balanstr. 1 Teilabschnitt - Deckensanierung Fahrbahn Rückäußerung bis zum 24.02.2023
+- TOP 6.3.3.2.: Einrichtung einer Tempo 30-Zone Herzogstandstr. u.a.; Zuleitung des MOR mit der Bitte um Stellungnahme bis 10.03.2023
+- TOP 6.3.3.3.: Erinnerungsverfahren Walchenseeplatz; Spakoo Projekt Nr.: 23 00621 MT205; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme bis 23.02.2023
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO; Stadelheimerstr. 24 Kurzparken zum Eingang Friedhof
+- TOP 6.3.4.2.: Anbindung des AWO-Föhrenparks an den Öffentlichen Personennahverkehr – Unterstützung der MVG durch die Landeshauptstadt München
+- TOP 6.3.4.3.: Straßenmarkierung Parkplätze - Arzberger Str. 2-4; Information des MOR vom 18.01.2024
+- TOP 6.3.4.4.: Parksituation auf Höhe Werner-Schlierf-Str. 23 bgzl. Feuerwehrzufahrten BA-Sitzung vom 12.10.2021
+- TOP 6.3.4.5.: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 6.3.4.6.: General-Kalb-Weg – beidseitige Pfosten (demontierbar) um ein missbräuchliches Befahren des Weges zu vermeiden
+- TOP 6.3.4.7.: Die folgenden Strassen (abschnitte) werden in die sie umgebenden vorhandenen 30km-Zonen aufgenommen bzw. komplettieren diese – auch ggfs. aufgrund einer Einzelanordnung, wenn lt. StVO nicht anders möglich: Herzogstandstrasse zwischen Werinher- und Deisenhofener Strasse (ca. 50 m), Spixstrasse (ca 200 m), Wirtstrasse (ca. 150 m) Wo immer baulich möglich, wird der Eintritt in den 30km/h-Bereich durch eine sog. Torbogenbeschilderung signalisiert
+- TOP 6.3.4.8.: Parkscheinautomaten Warngauer Straße Ost; Antwortschreiben des Baureferates-Tiefbau zu einer Bürgeranfrage
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Nachfrage zu Zerr-Eichen am Zugspitzplatz; Anfrage des BA 17 aus der Sitzung vom 13.12.2022; Antwortschreiben Bau-G mit der Bitte um Rückmeldung zum Ergebnis der Abstimmung; Verwiesen aus der Sitzung vom 17.01.2023
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Schwansseestr. 22; Fl.Nr. 16201/0 Gemarkung Sektion VIII ungenehmigte Baumfällung auf dem Grundstück
+- TOP 6.4.4.2.: Baumentfernung und Gehölzpflegemaßnahmen in den Außenanlagen städt. Immobilien, in Friedhöfen oder auf anderen städt. Grundstücken
+- TOP 6.4.4.3.: Erhalt aller Straßen mit Kopfsteinpflasterbelag zur Vermeidung von Oberflächenversiegelung
+- TOP 6.4.4.4.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 6.4.4.5.: (U) Mikroklimaökologisches Gutachten Hachinger Tal Teil A: Ergebnisvorstellung Teil B: Bürgerversammlungsempfehlungen und Bezirksausschussanträge
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeister v. 22.02.2017 Aufstellung; Zeitungsentnahmegerät Herzogstandstr. 9
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Haushaltsbeschluss 2023; Stadtbezirksbudgets in 2023 - Informationsschreiben des Direktoriums -
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.1.: Vorstellung der geplanten Winterinterventionen im Rahmen von MCube aqt (verwiesen aus der Sitzung vom 08.11.2022)
