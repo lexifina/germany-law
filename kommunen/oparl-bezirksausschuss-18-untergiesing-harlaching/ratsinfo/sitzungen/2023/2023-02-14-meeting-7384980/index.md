@@ -1,0 +1,172 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2023-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7384980
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7384980
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.1.1.1.: Vorstellung des „Kirchplatzes Giesing“
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Bürgervereinigung Maibaum e.V. “Aufstellen eines neuen Maibaums am Hans-Mielich-Platz Untergiesing am 01.05.2023“ 8.850,00 € / AZ: 0262.0-18-0324
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Familienkreis Hl. Familie “Kinderfasching am 11.02.2023“ 1.420,00 € / AZ: 0262.0-18-0325
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Elternbeirat Grundschule Fromundstraße 5 “buntkicktgut vom 30.01.2023 - 31.07.2023“ 3.646,00 € / AZ: 0262.0-18-0320
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Münchner Konzertchor e.V. Passionskonzert Palmsonntag: J. S. Bach Johannespassion am 02.04.2023 1.820,00 € / Az.: 0262.0-18-0326
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise
+- TOP 3.1.6.2.: Haushaltsbeschluss 2023: Information zum Stadtbezirksbudget in 2023
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Geeignete Räume für die Kinder- und Jugendarbeit des Pfadfinderstammes "Pegasus"; Bürgeranliegen
+- TOP 3.2.3.2.: Kinder-Schwimmkurs im Bad Giesing-Harlaching (Klausener-Bad); Bürgeranliegen
+- TOP 3.2.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Angebot "Nachtspaziergänge"
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2.1.: (E) Reichenhaller Str.: Errichtung eines Fuß-/Radwegs zwischen Schorerstr. und Reichardtweg Empfehlung Nr. 20-26 / E 00387 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 13.10.2021
+- TOP 3.3.2.2.: Parkscheinautomaten-Standorte im Parklizenzgebiet Schönstraße Nord
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Situation in der Naupliastraße seit der Eröffnung des Edeka/ DM und Kita; Bürgeranliegen
+- TOP 3.3.3.2.: Verkehrsführung Thalkirchner Brücke und Harlachinger Berg; Bürgeranliegen
+- TOP 3.3.3.3.: Wartehäuschen und elektronische Abfahrtszeiten an den Haltestellen der Tramlinie 25 wieder montieren; CSU-Antrag
+- TOP 3.3.3.4.: Sichere Schulwege! Halteverbot in der Rotbuchenstraße; Grünen-Antrag
+- TOP 3.3.3.5.: Kurzzeitparkplätze, Fahrrad- und Lastenrad-Abstellplätze vor Naupliastr. 108 sowie Bodenmarkierung vor Naupliastraße 106; Grünen-Antrag
+- TOP 3.3.3.6.: Öffnung der Braunauer Eisenbahnbrücke für Fußgänger (und Radfahrer); Bürgeranliegen
+- TOP 3.3.3.7.: Sofortige Öffnung bzgl. Möglichkeiten der Zugänge zu Parkplätzen im Harlachinger Krankenhaus für dort beschäftige Handwerker; CSU-Antrag
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Aufhebung der Radwegbenutzungspflicht in der Kupferhammerstraße zwischen Pilgersheimerstraße und Plattnerstraße
+- TOP 3.3.4.2.: Fahrbahnsanierung Thalkirchner Brücke
+- TOP 3.3.4.3.: Fahrbahn- und Radwegsanierung in der Geiselgasteigstraße
+- TOP 3.3.4.4.: Vorbereitung für Asphaltverlegung in der Säckingenstraße
+- TOP 3.3.4.5.: Gehwegsanierung in der Terhallestraße (zwischen Laurinplatz und Griechenstraße)
+- TOP 3.3.4.6.: Fahrbahnsanierung (Asphaltverlegung) in der Hertlingstraße
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Gehwegparken an der Kreuzung Hans-Mielich-Straße/Konradinstraße und Hans-Mielich-Straße/Jamnitzerstraße verhindern – Gehwegnasen umbauen
+- TOP 3.3.5.2.: Sanierung Straßenbelag Lohstraße zwischen Lohstr. 52 und Lohstr. 72
+- TOP 3.3.5.3.: Montage Zusatzschilder Paula-Herzog-Weg
+- TOP 3.3.5.4.: Tramwendeschleife vor der Harlachinger S-Bahn-Brücke
+- TOP 3.3.5.5.: Schaffung von Fahrradstellplätzen im Kreuzungsbereich Naupliastraße / Ecke St.-Magnus-Straße 34 vor dem Biomarkt Naturkind (ehemals EDEKA)
+- TOP 3.3.5.6.: Blockierung des Verkehrs beim Tierpark
+- TOP 3.3.5.7.: Fußgängergefährdung auf Radwegen vor Supermärkten
+- TOP 3.3.5.8.: Ergebnisse der Topo-Box-Erhebung in der Geiselgasteigstraße
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Genehmigung der Vollsperre Am Perlacher Forst bis 20.01.2023
+- TOP 3.3.6.2.: Zeitänderung der Ladezone in der Lohstraße für die Kinderkrippe in der Mondstr. 32
+- TOP 3.3.6.3.: Ergänzende Halteverbotszone in der Reinekestraße
+- TOP 3.3.6.4.: Änderung im Lizenzgebiet Schönstraße Nord
+- TOP 3.3.6.5.: Wettersteinplatz 3: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Entfernung der Container in der Reichenhaller Straße/Schorerstraße; Bürgeranliegen
+- TOP 3.4.3.2.: Vermüllung der Stadt; Bürgeranliegen
+- TOP 3.4.3.3.: Pflanzung von Bäumen in der Oefelestraße für mehr Grünfläche und Naturbezug in der Stadt; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Anhörungen zu Baumfällungen: - Aretinstr. 27 - Bozzarisstr. 21 - Salierstr. 4 - Tierparkstr. 30
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Zusätzlicher Abfalleimer am Halt 58
+- TOP 3.4.5.2.: Anwohner-Müllproblem in der Reichenhallerstraße
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Harthauser Str. 92 - 92b
+- TOP 3.4.6.2.: Baumfällung in der Naupliastr. 25
+- TOP 3.4.6.3.: Baumfällung in der Meichelbeckstr. 26
+- TOP 3.4.6.4.: Urbanes Gärtnern in München StR-Anträge
+- TOP 3.4.6.5.: Baumfällung im Kreuzdornweg 18-20
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Kindergarten Wetterstein (Elterninitiative) sucht neue Räume in Untergiesing-Harlaching; Bürgeranliegen
+- TOP 3.5.3.2.: Medizinkonzept der Münchenklinik und Notfallversorgung; Bürgeranliegen
+- TOP 3.5.3.3.: Hundepoller am Wettersteinplatz; Bürgeranliegen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Antwortschreiben des Bayerischen Staatsministeriums für Unterricht und Kultus zu Klassenfahrten
+- TOP 3.5.5.2.: Erhaltung und Weiterführung des Bunte Blätter Waldkindergartens
+- TOP 3.5.5.3.: Errichtung einer zweiten gespendeten Bank am Athener Platz
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Rabenkopfstr. 42: Abbruch Bestandseinfamilienhaus und Neubau Einfamilienhaus mit Garage
+- TOP 3.6.4.1.2.: Autharistr. 31: Neubau einer Mehrfamilienwohnanlage mit Tiefgarage - Vorbescheid
+- TOP 3.6.4.1.3.: Schmorellplatz 8: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6.4.1.4.: Reinekestr. 54: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6.4.1.5.: Lindenstr. 28a: Erweiterung eines Zweifamilienhauses in ein Dreifamilienhaus durch Anbau und Dachaufbau
+- TOP 3.6.4.1.6.: Grünwalder Str. 145: Abbruch Werkstattgebäude und Garagen, Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Baugenehmigung für die Modernisierung und den Umbau des Gutshofs Menterschweige als Gastronomie- und Beherbergungsstätte sowie für die Errichtung eines Neubaus für die Nutzung als Biergartenservice
+- TOP 3.6.6.2.: Antrag auf unveränderte Fortführung des Gaststättenbetriebes "Joy-R"
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Behandlung von Bürgeranträgen durch den BA; Bürgeranliegen
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Ratsinformationssystem (RIS) – „Papierlose Bezirksausschussarbeit“ Terminankündigung Informationen zum RIS-Extranet
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.1.: Antrag auf Änderung des Protokolls vom 15.11.2022; Bürgeranliegen
+- TOP 3.3.4.7.: Entscheidungsvorschlag zur künftigen Raumaufteilung Martin-Luther-Straße und Giesinger Berg (Stadtbezirke 5,17 und 18); Sitzungsvorlage Nr. 20-26/V07398
+- TOP 3.3.4.8.: Neubau einer Lichtsignalanlage (LSA) - Standort Karolingerallee/Harlachinger Straße
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
