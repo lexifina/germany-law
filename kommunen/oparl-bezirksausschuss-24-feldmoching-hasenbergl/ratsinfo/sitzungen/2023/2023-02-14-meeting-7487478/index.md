@@ -1,0 +1,81 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2023-02-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7487478
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7487478
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 1.1.: Die Festlegung der Regelungen für Hybridsitzungen: -> Ergebnisse aus der Vorstandssitzung am 26.01.2023
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Stadtbezirksbudget Fasanerie Aktiv e.V. Ramadama am 04.03.2023 800,00 Euro, Az.: 0262.0-24-0434
+- TOP 2.2.: Stadtbezirksbudget Heideflächenverein Münchener Norden e.V. - Gebietsbetreuung Info-Postwurfsendung: Beginn der sensiblen Jahreszeit in den Naturschutzgebieten vom 15.03. bis 25.03.2023 980,00 Euro; Az. 0262.0-24-0438
+- TOP 2.3.: Stadtbezirksbudget Liedertafel Fasanerie München e.V. 90-jähriges Vereinsjubiläum, Jubiläumskonzert in der Pfarrkirche St. Christoph am 24.06.2023 4.850,00 Euro; Az. 0262.0-24-0437
+- TOP 2.4.: Sachstand Umbau Bahnübergang S-Bahn-Station "Fasanerie"
+- TOP 2.5.: 1. Aktueller Sachstand zum Umbau des Walter- Sedlmayr-Platzes, 80995 München (Antrag 1) 2. Vermüllung des Walter-Sedlmayr-Platzes: Aufstellen von mehr Mülleimern und Erhöhung der Leerungsfrequenz (Antrag 2)
+- TOP 3.1.: Einwohnerversammlung am 01.02.2023: Ergebnisse und Anträge
+- TOP 3.2.: Tempo-30-Beschränkung in Abschnitten der Blodigstraße und Dülferstraße
+- TOP 3.3.: Behindertengerechte Absenkung von Fußwegbordsteinen an Süd- und Nordseite östlich der Johann-Emmer-Straße/ Dülferstraße
+- TOP 3.4.: Hinweisschilder "Bei geschlossener Schranke bitte Motor abstellen" an den Bahnübergängen im 24. Stadtbezirk
+- TOP 3.5.: Ersatzpflanzungen für gefällte Bäume an der Grünanlage Ecke Herberg-/Paul-Preuß-Straße bzw. entlang der Herbergstraße
+- TOP 3.6.: Leichtbauhalle mit Fußballfeld und Erweiterung des Interimsgymnasiums München-Feldmoching
+- TOP 3.7.: Vergabe von mindestens 56 der 600 geplanten Carsharing Plätze im 24. Stadtbezirk
+- TOP 3.8.: Einrichtung eines Behindertenparkplatzes vor dem Ärztehaus in der Ittlinger Str. 53
+- TOP 3.9.: Installierung einer Geschwindigkeitsanzeigeanlage (GAA) in der Lassallestraße
+- TOP 3.10.: Zustand Verkehrsstation Feldmoching
+- TOP 3.11.: N_Berücksichtigung des U- und S-Bahnhofes Feldmoching bei der Planung der 64 Mobilitätspunkte im Jahr 2023
+- TOP 3.12.: N_Schaffung eines sicheren Schulweges: Herstellung der Karlsfelder Straße in der Siedlung Ludwigsfeld westlich des Schwabenbächls mit Gehweg
+- TOP 3.13.: N_Anfrage: Nennung Zeitpunkt, zu dem die Höhenfreimachung des Bahnübergangs in der Lerchenstraße und die Herstellung der Lerchenstraße verkehrssicher für den Rad- und Fußverkehr realisiert wird
+- TOP 4.: Die Bürger*innen haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben (inkl. Baumfällungen)
+- TOP 5.1.1.: Waldvögeleinstr. 5
+- TOP 5.1.2.: Rudbeckiastr. 7
+- TOP 5.1.3.: Heppstr. 8
+- TOP 5.1.4.: Am Pfaffensteig 6
+- TOP 5.1.5.: Waldmeisterstr. 75
+- TOP 5.1.6.: Grashofstr. 14
+- TOP 5.1.7.: Ferchenbachstr. 214
+- TOP 5.1.8.: Schätzweg 1
+- TOP 5.1.9.: Linkstr. 53
+- TOP 5.1.10.: Ebereschenstraße
+- TOP 5.1.11.: Auf den Schrederwiesen 37
+- TOP 5.1.12.: Glockenbecherstr. 45
+- TOP 5.1.13.: N_ Aronstabstr. 29
+- TOP 5.2.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichem Grund
+- TOP 5.3.: Sonstige Anhörungen
+- TOP 5.3.1.: Erinnerungsverfahren (§ 6.1 AufgrO): Baustelle 1. Hardenstr. 1-39 (Fahrbahnsanierung) 2.Glockenbecherstr. 11-45 (Fahrbahnsanierung)
+- TOP 5.3.2.: Anordnung einer Reihe von Haltverboten in der Toni-Pfülf-Straße (-> Antwort auf Bürgeranliegen "Maßnahmen gegen das Zuparken der Toni-Pfülf-Straße" (TOP 3.2 / 16.11.2022))
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP -: Antwortschreiben
+- TOP 1.: Virginia-Depot; Bebauungsplan Nr. 1939a - Änderung
+- TOP 2.: Forderung nach sicheren Straßenüberquerungen in Feldmoching; hier: Ecke Karlsfelder Straße/ Schwarzhölzlstraße; Überleitung Radverkehr auf Fahrbahn
+- TOP 3.: Errichtung eines Fußgängerüberweges über die südliche Gundermannstraße in Verlängerung zur Eduard-Spranger-Straße
+- TOP -: Sonstige Unterrichtungen
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 4.: Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 5.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 6.: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 7.: Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 8.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2020-2021
+- TOP 9.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 10.: Urbanes Gärtnern in München StR-Anträge
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzende*r
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 5.3.3.: N_ Verkehrsrechtliche Anordnung nach § 45 StVO: Rainfahrnstraße/Weitlstraße; Einrichtung einer Schulbushaltestelle
+- TOP 5.3.4.: N_ Entwurf SV: Containerunterkünfte zur Unterbringung Geflüchteter aus der Ukraine
+- TOP 3.: Anträge
