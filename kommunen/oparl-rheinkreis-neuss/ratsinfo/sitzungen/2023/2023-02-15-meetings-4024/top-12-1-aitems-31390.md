@@ -1,0 +1,7 @@
+# TOP 12.1: Anfrage der Kreistagsfraktion Bündnis 90/Die Grünen vom 07.12.2023 zum Thema "Wo steht der Rhein-Kreis Neuss bei der Energiewende"
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kreisausschusses (2023-02-15)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/31390
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/consultations/11822
