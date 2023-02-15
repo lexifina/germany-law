@@ -1,0 +1,8 @@
+# TOP 4: Sachstandsbericht zur weiteren Entwicklung der Verkehrsachse Weseler Straße
+
+- Sitzung: 17. Sitzung (2023-02-15)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/237330
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/80894
