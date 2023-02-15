@@ -1,0 +1,135 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2023-02-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7380769
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7380769
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Vorstellung der neu gewählten Seniorenvertretung für Au-Haidhausen
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Schließfächer am Ostbahnhof defekt
+- TOP 5.2.: Anbieteroffene Paketboxen für Au-Haidhausen
+- TOP 5.3.: Fuß- und Radwegbrücke Haidenauplatz
+- TOP 5.4.: Dialogdisplays für die Orleansstraße
+- TOP 5.5.: Warum wird der Stadtbalkon verparkt ? (Anfrage)
+- TOP 5.6.: Ein verkehrsberuhigter Bereich für die Drächslstraße
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 € / Az. 0262.0-5-0449
+- TOP II.2.: (E) Stadtbezirksbudget Caritasverband München und Freising e.V. - Caritas Ost, ASZ Au Die kleine Kunstbühne 810,00 € / Az. 0262.0-5-0446
+- TOP II.3.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song (im Rahmen des Kunstliedfestivals HIDALGO) am 02.09.2023 1.500,00 € / Az. 0262.0-5-0445
+- TOP II.4.: Zwischennutzung des Gasteig Kulturzentrums
+- TOP II.5.: Detailauskünfte zu den Budgetanträgen TOP 2 und 3
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Vorstellung des Prinzips Kreislaufschrank durch Kreislaufschränke München e.V.
+- TOP 0.2.: Vorstellung der neu gewählten Seniorenvertretung für Au-Haidhausen
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Caritas ASZ Au Herrenfrühstück vom 01.01. - 31.12.2023 685,00 € / Az. 0262.0-5-0447
+- TOP 1.2.: (E) Stadtbezirksbudget Caritas ASZ Au Tanzcafé vom 01.01. - 31.12.2023 672,00 € / Az. 0262.0-5-0448
+- TOP 1.3.: Ergebnis Ortstermin mit dem Baureferat am 30.01.2023 zu den Themen - Lösung der Konflikte an der Isar nähe Reichenbachbrücke - Errichtung von weiteren Tischtennisplatten zwischen Reichenbachbrücke und dem Gartenbauamt in der Eduard-Schmid-Str. 36
+- TOP 1.4.: Detailauskünfte zu den Budgetanträgen TOP 1 und 2
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Angebot "Nachtspaziergänge" durch das Sozialreferat
+- TOP 3.2.: Toiletten für geplante Spielstraße in der Schneckenburger-Kuglerstraße (Ziffer 3)
+- TOP 3.3.: Umgestaltung des Parks zwischen Neher- und Nigerstraße als attraktiver Außenbereich für Jugendliche
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Freigabe eines Teils des Bordeauxplatzes für Hundebesitzer*innen
+- TOP 4.2.: Öffentliche Hundetoiletten am Weißenburger Platz und Bordeauxplatz
+- TOP 4.3.: Bolzen verbieten auf dem Kegelhof Spielplatz
+- TOP 4.4.: Bürger für unser Münchner Stadtklinikum: Vorschläge zum neuen Medizinkonzept der München-Klinik und zur Notversorgung in München
+- TOP 5.: Sonstiges, nächste Termine
+- TOP 5.1.: Pfadfinderstamm Pegasus sucht Räume
+- TOP 5.2.: Aktuelles zum Bücherschrank am Kolumbusplatz
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Fahrradsicherheitscheck auf dem Bordeauxplatz am 23.03.2023, Frist: 03.03.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Übertragung der Verfügungsrechte über die Nutzung des Mariahilfplatzes auf den BA 05
+- TOP 3.2.: Mitteilung über 2 Märkte auf dem Orleansplatz in 2023
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Mariahilfpl. 18 - Schulbauoffensive - Abbruch und Neubau eines Gebäudes mit zwei Sporthallen, Ganztagesbetreuung und Kantine - ÄNDERUNGSANTRAG zu 1.1-2019-20762-21 -
+- TOP 2.2.: Breisacher Str. 5 - Dachausbau (3 WE), Abbruch eines Bestandsdaches sowie Ersatzneubau Dach mit verändertem Profil
+- TOP 2.3.: Metzgerstr. 5a - Neubau eines inklusiven Gemeinschaftswohnhauses als Großcluster mit semi-öffentlichem Erdgeschoss
+- TOP 2.4.: Oefelestr. 4 - Sanierung und Erweiterung eines Mehrfamilienwohnhauses, Nutzungsänderung von Laden und Lagern zu 3 Wohneinheiten (EG), Aufstockung zur Errichtung von 4 Wohneinheiten (4. OG, DG), Anbau von Balkonen, Überdachung des Lichthofs im EG und eines Außenaufzugs - TEKTUR zu 1.201-11098-21 / HIER: Reduzierung der Wohnungsanzahl auf 16 WE, Änderung Hauseingang und Fassade, Einbau Terrasse DG, ÄNDERUNGSANTRAG zu 1.202-2021-3440-21 hier: Nutzungsänderung der WE 1+2 von Wohnen zu gewerbliches Wohnen und WE 3 Teilbereich von Wohnen zu gewerbliches Arbeiten, Änderung Keller
+- TOP 2.5.: Innere Wiener Str. 57 - Nutzungsänderung EG von Laden mit 34,9qm Gastraumfläche in Gaststätte
+- TOP 2.6.: Lilienstr. 83 - Abbruch eines Hotelgebäudes mit Betriebswohnung (DG) und Neubau eines Hotelgebäudes (30 Zimmer / 60 Betten) - VORBESCHEID
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Vertreibung der MieterInnen Preysingplatz 3-7 verhindern
+- TOP 3.2.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.3.: „Instandsetzung der Treppenanlagen TH 01 und Einbau einer zusätzlichen Fahrtreppe am Rosenheimer Platz in München Station 4242“; Stellungnahme Planungsreferat
+- TOP 3.4.: Baugenehmigung Eggernstr. 6 Antwort der LBK zur Stellungnahme BA 5
+- TOP 3.5.: Angepasste Betriebsbeschreibung zum Baugenehmigungsverfahren Mariahilfplatz 18_Abriss-Neubau Sporttrakt (Tektur)
+- TOP 3.6.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2020-2021
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Umbau zu sicheren Kreuzungen im Nebenstraßennetz in Au-Haidhausen
+- TOP 1.2.: (E) + (U) Freigabe Zugang S-Bahnhof Rosenheimer Platz Empfehlung Nr. 20-26 / E 00655 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 31.05.2022
+- TOP 1.3.: Wertstoffcontainer an der Ecke Spicheren-/Elsässerstraße vertagt in der Sitzung am 14.12.2022 und 25.01.2023 dazu: Dringlich: Schulweg sichern an der Spicherenstraße
+- TOP 2.: Anhörungen
+- TOP 2.1.: Hochstraße, Parklizenzgebiet „Regerplatz“; Aufhebung des angeordneten Gehwegparkens, Ausweichstellen im Begegnungsverkehr
+- TOP 2.2.: Erinnerungsverfahren a) Mariahilfstr. 20-24, Zeppelinstr. 9-27: Fahrbahn/Parkbucht/Gehweg und Einfahrtssanierung b) Gravelottestraße: Deckensanierung Fahrbahn c) Eduard-Schmid-Str.1: Gehbahnsanierung
+- TOP 2.3.: Baustelle Genoveva-Schauer-Platz und Franziskanerstr./Regerplatz – 2 Varianten für den Bodenbelag
+- TOP 2.4.: Dauerhafte Mobilitätspunkte im 5. Stadtbezirk
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Pariser Platz: Fit machen für die Fußgängerzone
+- TOP 3.2.: Rotmarkierung des Fahrradweges Ecke Regerstraße /Welfenstraße
+- TOP 3.3.: Baustelleneinrichtung im Hypopark; Verlängerung der Ausnahmegenehmigung vom 01.11.2022-31.10.2024 Antwort Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.4.: (U) Ausgewiesener Radweg beidseitig Am Nockherberg Für BA 5 zur Kenntnis
+- TOP 3.5.: Verkehrsrechtliche Anordnungen a) Orleansstraße und Orleansplatz- Beschränkung der zulässigen Höchstgeschwindigkeit auf durchgehend 30 km/h aus Lärmschutzgründen zwischen dem Knoten Balanstraße/Auerfeldstraße im Südwesten einschließlich der Querung des Orleansplatzes bis zum Haidenauplatz im Nord-Osten b) Projekte zur Verkehrswende Projekte 2023 – sog. Entenbachplatz (Schlotthauerstraße Ecke Entenbachstraße), Sperrung vom 01.02.-31.10.2023 c) Boosstraße 4 und Boosstraße 9; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze d) Chorherrstraße 4 auf gegenüber; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze e) Steinstraße 57 Seite Sedanstraße; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 3.6.: Genehmigung für die Straßenbaumaßnahme Reger-/Welfenstraße
+- TOP 3.7.: Gefährdung von Radfahrern in der Hochstraße Antwort PI 21 zum Schreiben BA 5
+- TOP 3.8.: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 3.9.: Baustelle Regerstraße
+- TOP 3.10.: Regerstraße bis Wörthstraße, Gleisbau und Fernwärmeverlegung; verkehrsrechtliche Anordnung vom 13.02.-11.06.2023
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Situation "Spielstraße" Lothringer Straße
+- TOP 4.2.: Verkehr in der Falkenstraße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Schneckenburgerstr. 35: Fällung eines "Sorbus intermedia"
+- TOP 2.2.: Wolfgangstr. 5; Fällung einer Robinie
+- TOP 2.3.: LSG Isarauen, München Ost: Fällung mehrerer Bäume (vertagt aus der Januar-Sitzung)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen im 5. Stadtbezirk im Januar/Februar 2023
+- TOP 3.2.: Dächer des Bus- und Trambetriebshofs für PV nutzen
+- TOP 3.3.: Baumfällung Walter-Heerde-Weg und Baumentwicklungskonzept
+- TOP 3.4.: Verbesserung des Baumbestands und der Baumauswahl im öffentlichen Raum! Antrag Nr. 14-20 / A 05473 von Frau Stadträtin Dr. Constanze Söllner-Schaar vom 07.06.2019 Baumpflanzaktionen für München Antrag Nr. 14-20 / A 06330 von Herrn Bürgermeister Manuel Pretzl vom 04.12.2019 Baumpflanzaktion "Einheitsbuddeln" - mehr Bäume für München! Antrag Nr. 14-20 / A 06381 der SPD-Stadtratsfraktion vom 11.12.2019
+- TOP 3.5.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 3.6.: Bessere Kennzeichnung der Grillverbotszone im Bereich zwischen: Cornelius und Wittelsbacherbrücke hier: Zwischenmitteilung vom 31.01.2023
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: 2 Beschwerden zu Baumfällungen und mangelnder Nachpflanzung in der Regerstraße und Umgebung
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 06.03.2023, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 06.03.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Wirtschaft, 07.03.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 08.03.2023, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 08.03.2023, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 09.03.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Hybridsitzung statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 15.03.2023, 19.00 Uhr, Cafeteria der AWO, Gravelottestr. 6-8 BA-Vorstand, Dienstag, 28.02.2023, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 3.7.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - UA Kultur, TOP 5: Detailauskünfte zu den Budgetanträgen - UA Soziales, TOP 1.4: Detailauskünfte zu den Budgetanträgen - UA Soziales, TOP 5.1: Pfadfinderstamm Pegasus sucht Räume - UA Soziales, TOP 5.2: Aktuelles zum Bücherschrank am Kolumbusplatz - UA Wirtschaft, TOP 2.1: Fahrradsicherheitscheck auf dem Bordeauxplatz am 23.03.2023, Frist: 03.03.2023 - UA Mobilität, TOP 2.3: Baustelle Genoveva-Schauer-Platz und Franziskanerstr./Regerplatz – 2 Varianten für den Bodenbelag - UA Mobilität, TOP 2.4: Dauerhafte Mobilitätspunkte im 5. Stadtbezirk - UA Mobilität, TOP 3.9: Baustelle Regerstraße - UA Mobilität, TOP 3.10: Regerstraße bis Wörthstraße, Gleisbau und Fernwärmeverlegung; verkehrsrechtliche Anordnung vom 13.02.-11.06.2023
