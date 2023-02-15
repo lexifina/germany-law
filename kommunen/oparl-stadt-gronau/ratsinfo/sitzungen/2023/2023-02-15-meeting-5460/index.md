@@ -1,0 +1,64 @@
+# Rat (25. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2023-02-15T18:00:00+01:00
+- Ende: 2023-02-15T22:16:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYjpisI9afB7ascjqPoH18Q
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5460
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf4WfnXszW61d6V9VLRiJ2SWpyLJSKUrhmeV7mVKkWH-/Bekanntmachung_Rat_15.02.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTDDSqY_rIVmAOqSMLcadawzTObatXn8mF2jvFa-Q9uE/Oeffentliche_Niederschrift_Rat_15.02.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Planung eines Euregio-Quartiers (Fragen des Einwohners Jan Willem Lemmens aus Gronau)
+- TOP 2.2: Nutzungsentschädigungen (Frage der Einwohnerin Angela Rost)
+- TOP 3.: Niederschrift vom 14.12.2022
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der WEG-Fraktion vom 19.01.2023 auf erneute Beschlußfassung "Durchführung eines Grundstückskaufvertrages zur Ansiedlung einer neuen Gastronomie am Dreiländersee"
+- TOP 4.2: Antrag der Fraktion GAL/LINKE vom 01.02.2023; Probemöglichkeiten für Chöre und Kapellen - Einstimmig, 0 Enthaltungen
+- TOP 4.3: Antrag der UWG-Fraktion vom 03.02.2023; Niederländischer Sprachkurs für Mitglieder des Rates - Einstimmig, 2 Enthaltungen
+- TOP 5.: Systempartner der Genossenschaft "Kommunale Genossenschaft Gronauer Innenstadt eG sowie 1. Änderung der Genossenschaftssatzung - 18 Jastimmen, 23 Neinstimmen, 1 Enthaltungen
+- TOP 6.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften (hier: Kommunale Genossenschaft Gronauer Innenstadt, Quartiersentwicklungsgesell-schaft für die Innenstadt)
+- TOP 7.: Proberäume der Chöre, Kapellen und Musikvereine in Gronau und Epe
+- TOP 8.: Weiteres Vorgehen Euregio-Quartier und EUREGIO-Geschäftsstelle - 41 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 8.1: Weiteres Vorgehen Euregio-Quartier und EUREGIO-Geschäftsstelle
+- TOP 9.: Bedarfsplanung Schulsozialarbeit an allen Schulstandorten in der Stadt Gronau 2023 bis 2026 - Teil II - Einstimmig, 0 Enthaltungen
+- TOP 10.: Investitionskosten für provisorische Container-Gruppen - Verpflichtung zur Übernahme einer Rückerstattungsverpflichtung gegenüber dem Landesjugendamt - 39 Jastimmen, 1 Neinstimmen, 2 Enthaltungen
+- TOP 11.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 6/2022; Bürgerantrag vom 23.05.2022 "Ein starkes Jugend(schüler)parlament" - Einstimmig, 0 Enthaltungen
+- TOP 12.: 111. Änderung des Flächennutzungsplan Vorhabenbezogener Bebauungsplan „Lebensmitteldiscounter Ochtruper Straße“, Stadtteil Gronau Aufstellungsbeschluss - 18 Jastimmen, 18 Neinstimmen, 5 Enthaltungen
+- TOP 12.1: 111. Änderung des Flächennutzungsplan Vorhabenbezogener Bebauungsplan „Lebensmitteldiscounter Ochtruper Straße“, Stadtteil Gronau Prüfauftrag des Ausschusses für Planen, Bauen und Denkmalschutz aus der Sitzung am 25.01.2023 hier: Zugang zum erweiterten Markt im Bereich der Zu- und Abfahrt
+- TOP 13.: Bebauungsplan Nr. 172 "Kurzer Weg", Stadtteil Gronau Aufstellungsbeschluss zur Aufhebung und Neufassung des Ursprungsplans - 41 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 14.: Übernahme einer Bürgschaftsverpflichtung zugunsten der Stadwerke Gronau GmbH - Einstimmig, 2 Enthaltungen
+- TOP 15.: Jahresabschluss 2021 der Forstdienstleistungen Gronau GbR - Einstimmig, 1 Enthaltungen
+- TOP 16.: Budgetbericht für das IV. Quartal 2022
+- TOP 17.: Aktuelles zur Corona-Pandemie (Stand 08.02.2023) - Einstimmig, 3 Enthaltungen
+- TOP 18.: Sachstand zur Ukraine-Flüchtlingssituation (Stand 08.02.2023)
+- TOP 19.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften
+- TOP 19.1: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP III.: Öffentlicher Teil
+- TOP 21.: Abberufung eines Prüfers sowie Bestellung eines Prüfers im Fachdienst 14 – Rechnungsprüfung - Einstimmig, 0 Enthaltungen
+- TOP 22.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 22.1: Gewerbeschau 2023 (AR-Vors. Wirtschaftsförderung RM Buß)
+- TOP 23.: Mitteilungen der Verwaltung
+- TOP 23.1: Termin „Politische Begleitgruppe Neubau Rathäuser“ am 28.03.2023
+- TOP 23.2: Stadtjubiläum
+- TOP 23.3: Integrationspreis
+- TOP 23.4: „Allee des Friedens und der Freiheit“
+- TOP 23.5: Baumfäll-Liste
+- TOP 24.: Anfragen
+- TOP 24.1: Container-Anlage Jöbkesweg (Anfrage von RM Doetkotte)
+- TOP 24.2: Bogenbrücke (Anfrage von RM von Borczyskowski)
+- TOP 24.3: Gemeinnützigkeit der Chance und Jahresabschluss Chance (Anfrage von RM von Borczyskowski)
+- TOP 24.4: Nutzungsentschädigungen (Anfragen von RM Schwartze, Reinhoffer und Drees)
+- TOP 24.5: Radwege-Säuberung (Anfrage von RM Buchholz)
+- TOP 24.6: Sicherung und Beschilderung von Baustellen (Anfrage von RM Buchholz)
+- TOP 24.7: Wäldchen Schwartenkamp/Nachtigallenstraße (Anfrage vom 2. Stellv. d. BM Bajorath)
+- TOP 24.8: Hundewald (Anfrage von RM Reinhoffer)
+- TOP 24.9: Gastronomie am Driland (Anfrage von RM Doetkotte)
