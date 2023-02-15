@@ -1,0 +1,65 @@
+# 15. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-02-15T16:35:00+01:00
+- Ende: 2023-02-15T19:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12873
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12873
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00523758.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Spielplatz Kurneystraße - verwiesen
+- TOP 7.2: Umbenennung der Ostmarkstraße - verwiesen
+- TOP 7.3: Umbenennung der Manfred-von-Richthofen-Straße und Andreas-Hofer-Straße - verwiesen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 10: Anregungen des Jugendrates
+- TOP 11: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 12: Feststellung des Jahresabschlusses 2021 der Stadt Münster - einstimmig beschlossen
+- TOP 13: Wiederwahl der Beigeordneten Cornelia Wilkens - mehrheitlich beschlossen
+- TOP 14: Änderung der Straßen-, Anlagen- und Aaseeordnung - mehrheitlich geändert beschlossen
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen im Jahr 2022 - zur Kenntnis genommen
+- TOP 16: Bericht über die Beteiligungen der Stadt Münster im Jahr 2021 (Beteiligungsbericht 2021) - zur Kenntnis genommen
+- TOP 17: Anpassung des Gesellschaftsvertrages der Bädermanagement Münster GmbH und Übertragung des Ausbaus des städtischen Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP 18: Entwurf des NKF-Gesamtabschlusses der Stadt Münster zum 31.12.2020 - einstimmig beschlossen
+- TOP 19: Messe und Congress Centrum Halle Münsterland GmbH: Novellierung des Gesellschaftsvertrages - mehrheitlich beschlossen
+- TOP 20: Innenstadt stärken: Integriertes städtebauliches Entwicklungskonzept Münster-Innenstadt (2023) - Vorlage eingebracht
+- TOP 21: Sudmühlenstraße - Planung der DB Netze zur Aufhebung der Bahnübergänge Sudmühlenstraße und Mariendorfer Straße - von der Tagesordnung abgesetzt
+- TOP 22: Erstellung einer Bewohnerparkausweis-Gebührenordnung in Münster - mehrheitlich geändert beschlossen
+- TOP 23: Weiteres Vorgehen zur 3. städtischen Gesamtschule am Standort Roxel - einstimmig beschlossen
+- TOP 24: Gesamtkonzept Schulabsentismus - einstimmig beschlossen
+- TOP 25: Überleitung von außerschulischen Angeboten
+- TOP 25.1: Überleitung der außerschulischen Angebote (OGS) der Kreuzschule - einstimmig beschlossen
+- TOP 25.2: Überleitung der außerschulischen Angebote (OGS) der Bodelschwinghschule - einstimmig beschlossen
+- TOP 25.3: Überleitung der außerunterrichtlichen Angebote (OGS) der Aegidii-Ludgeri-Schule - einstimmig beschlossen
+- TOP 25.4: Überleitung der außerunterrichtlichen Angebote (OGS) der Martinischule - einstimmig beschlossen
+- TOP 25.5: Überleitung der außerunterrichtlichen Angebote (OGS) in der Marienschule Hiltrup - einstimmig beschlossen
+- TOP 26: Zusätzlicher Mittelbedarf bei der Sanierung des Umkleidegebäudes der Sportanlage Schifffahrter Damm - einstimmig beschlossen
+- TOP 27: Geschlechtergerechte Bezeichnung für den Historikerpreis der Stadt Münster - mehrheitlich beschlossen
+- TOP 28: Maßnahmenprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2020/2021 - von der Tagesordnung abgesetzt
+- TOP 29: Anpassung der Satzung für die Benutzung der städtischen Übergangseinrichtungen für Flüchtlinge und Wohnungslose der Stadt Münster und der Benutzungsgebühren - einstimmig beschlossen
+- TOP 30: Bauleitplanung
+- TOP 30.1: Stadtbezirk Münster-Ost
+- TOP 30.1.1: Bebauungsplan Nr. 633 - Beschluss zur Aufstellung - von der Tagesordnung abgesetzt
+- TOP 31: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 31.1: Münster bekommt eine kommunale Wärmeplanung - mehrheitlich beschlossen
+- TOP 31.2: Stadtwerke sichern, die unbezahlte O¨PNV-Rechnung begleichen - verwiesen
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 32.1: Umweltpreis erweitern um einen „Sonderpreis Wirtschaft“ - verwiesen
+- TOP 32.2: Korruptionsprävention bei der Stadt stärken - verwiesen
+- TOP 33: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 34: Verschiedenes
