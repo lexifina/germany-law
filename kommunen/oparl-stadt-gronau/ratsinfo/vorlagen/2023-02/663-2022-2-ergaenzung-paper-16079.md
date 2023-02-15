@@ -1,0 +1,21 @@
+# Systempartner der Genossenschaft "Kommunale Genossenschaft Gronauer Innenstadt eG sowie 1. Änderung der Genossenschaftssatzung
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 663/2022 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-02-15
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTNHUbdzTWOIOClpwUthPkI
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/16079
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Systempartner der Genossenschaft "Kommunale Genossenschaft Gronauer Innenstadt eG sowie 1. Änderung der Genossenschaftssatzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZyn7aLSOEF41gXgGNJg065KM5dqKP17Ksx66DOWtC_b/Beschlussvorlage_663-2022_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antworten zu den Fragen der UWG-Fraktion) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeiXVocshNU6Ws40J-nXEpi0b53025BZeoqHyv3pImXi/Antworten_zu_den_Fragen_der_UWG-Fraktion.pdf
+- Anlage: Beschlussvorlage (2023-01-13_ERGÄNZENDE_STELLUNGNAHME_Genossenschaft) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeqBo-s6jVHX9U3JEgzYi3iks-myxXV-3pae6lQTiPAr/2023-01-13_ERGAeNZENDE_STELLUNGNAHME_Genossenschaft.pdf
+- Anlage: Beschlussvorlage (Auszug aus der Niederschrift des Rates vom 14.12.2022) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVp9fSadGS_V_1XylA14nq4o9vQImu9bYanMcZgtWYao/Auszug_aus_der_Niederschrift_des_Rates_vom_14.12.2022.pdf
+- Anlage: Beschlussvorlage (Entwurf Satzung Kommunale Genossenschaft Gronauer Innenstadt eG_20230118_Gesundheitstentrum_mit Markups) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYddNebNyHRKkYgo4AXMHcbDXd6BSN0w8PMzBaTBov4U/Entwurf_Satzung_Kommunale_Genossenschaft_Gronauer_Innenstadt_eG_20230118_Gesundheitstentrum_mit_Markups.pdf
+- Anlage: Beschlussvorlage (Memorandum zur Stellungnahme der Kommunalaufsicht vom_06.12.2022) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaF4MMWp_8GFFAO1S9knkOeZ86dWaHbmLFn_lSfzCuwB/Memorandum_zur_Stellungnahme_der_Kommunalaufsicht_vom_06.12.2022.pdf
+- Anlage: Beschlussvorlage (Synopse der Anpassungen der Genossenschaftssatzung Stand_20230118) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZavs7acerUm4omH5kVjuttSLL4nSmfaKMxFcC0J-B1nu/Synopse_der_Anpassungen_der_Genossenschaftssatzung_Stand_20230118.pdf
+- Anlage: Beschlussvorlage (2022-12-06_ANTWORTSCHREIBEN_Genossenschaft_Gronauer_Innenstadt_und_QEG_GmbH) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdp5uKbUCaqiKXiSxa7hROQB8aM0E4dSYiFaLXw8z8Ce/2022-12-06_ANTWORTSCHREIBEN_Genossenschaft_Gronauer_Innenstadt_und_QEG_GmbH.pdf
+- Anlage: Beschlussvorlage (Anfragen der UWG-Stadtratsfraktion) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQrJbBmfk7MdZ22cNjaCKJPpoNwA9GiLpyFzteVTTp6v/Anfragen_der_UWG-Stadtratsfraktion.pdf
+- Anlage: Beschlussvorlage (Fagestellungen Rat_v1_01.02.2023 - 14.39.02) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXu1k-alWoNoN7L5rY5aicwCE8FRooEbii7SAiHub60g/Fagestellungen_Rat_v1_01.02.2023_-_14.39.02.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5460 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-83
