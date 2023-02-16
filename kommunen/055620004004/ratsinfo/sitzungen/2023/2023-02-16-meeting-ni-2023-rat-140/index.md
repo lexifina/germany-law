@@ -1,0 +1,51 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2023-02-16T16:00:00+01:00
+- Ende: 2023-02-16T20:02:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2023-RAT-140
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2023-RAT-140
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-RAT-140
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-RAT-140
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-RAT-140
+
+## Tagesordnung
+
+- TOP 1: Bestellung eines Schriftführers für den Rat der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Haushaltssatzung und Haushaltsplan sowie Haushaltssicherungskonzept für das Jahr 2023 nebst Anlagen - mehrheitlich angenommen
+- TOP 3.1: Haushaltssatzung und Haushaltsplan sowie Haushaltssicherungskonzept für das Jahr 2023 nebst Anlagen - mehrheitlich angenommen
+- TOP 4: Stellenplan 2023 - mehrheitlich angenommen
+- TOP 5: Aufhebung der Satzung über die Erhebung einer Wettbürosteuer in der Stadt Castrop-Rauxel (Wettbürosteuersatzung) - einstimmig angenommen
+- TOP 6: Bericht über die finanziellen Auswirkungen der Maßnahmen zur Aufnahme und Unterbringung von anlässlich des Krieges in der Ukraine eingereisten Personen zum Stichtag 31.12.2022 (§ 6 KommunalhaushaltsrechtsanwendungsVO UA-Schutzsuchendenaufnahme)
+- TOP 7: Zustimmung zum Wirtschaftsplan des EUV für a) Teilbetrieb VII - Dienstleistungen b) Teilbetrieb IX - Straßeninfrastruktur - einstimmig angenommen
+- TOP 8: Bericht der Verwaltung zur möglichen Nutzung von Self-Service-Terminals im Bürgerbüro
+- TOP 9: Antrag CDU Fraktion vom 27.01.2023_Einrichtung eines Service-Büros des Ordnungsamtes auf der Lange Straße - mehrheitlich angenommen
+- TOP 10: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2023 - mehrheitlich angenommen
+- TOP 11: Beantragung eines Teilstandortes der Cottenburgschule - einstimmig angenommen
+- TOP 12: Prüfauftrag der CDU-Fraktion zur Einführung eines Projektes "Mädchen gegen den Fachkräftemangel im Handwerk" vom 16.01.2023 - einstimmig angenommen
+- TOP 13: Umsetzungskonzept zum Klimaanpassungskonzept - mehrheitlich angenommen
+- TOP 14: 12. Änderung des Flächennutzungsplans "Sport-, Spiel- und Bewegungspark am Hallenbad" hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Feststellungsbeschluss des Plans und Billigung der Begründung mit Umweltbericht c) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde - mehrheitlich angenommen
+- TOP 15: Antrag der CDU-Fraktion vom 16.01.2023_Änderung Nahmobilitätskonzept - mehrheitlich abgelehnt
+- TOP 16: Bereitstellen von Fördergeldern aus dem Energiefonds zur Umstellung auf LED-Beleuchtung in der Stadtbibliothek und Anschubfinanzierung des Projektes Gießkannenheld:innen im Stadtgebiet von Castrop-Rauxel - einstimmig angenommen
+- TOP 17: Antrag CDU Fraktion vom 16.01.2023_Bürgerbudget
+- TOP 18: Antrag der CDU-Fraktion vom 15.01.2023 _ Sachstand zur Umsetzung der Nutzung von Wasserstoff
+- TOP 19: Prioritätensetzung bei der weiteren OZG-Umsetzung in Castrop-Rauxel - mehrheitlich angenommen
+- TOP 20: Gemeinsamer Antrag der Fraktionen SPD, CDU, Bündnis 90/ Die GRÜNEN, FDP, Die LINKE vom 18.01.2023_ Prüfung der Einrichtung und des Betriebs von 3 - 5 Radservicestationen im Stadtgebiet - einstimmig angenommen
+- TOP 21: Hauptsatzung (3. Änderung) der Stadt Castrop-Rauxel - einstimmig angenommen
+- TOP 22: 42. Hauptversammlung des Deutsches Städtetages; Benennung von Delegierten - einstimmig angenommen
+- TOP 23: Halbjahresbericht Städtepartnerschaften 2. HJ 2022
+- TOP 24: Zusätzlicher investiver Mittelbedarf Co2 Messgeräte hier: Genehmigung der Dringlichkeitsentscheidung vom 30.01.2023 - einstimmig angenommen
+- TOP 25: Umbesetzung im Ausschuss für Generationen und Inklusion (AGI) - einstimmig angenommen
+- TOP 26: Antrag FWI Fraktion vom 10.01.2023_Nachbenennung für den Aufsichtrat der Stadtwerke Castrop-Rauxel - einstimmig angenommen
+- TOP 27: Antrag Bündnis 90/ Die Grünen vom 01.02.2023_Ausschussumbesetzung - einstimmig angenommen
+- TOP 28: Kompensationsleistungen für kommunale Klimaschutzinvestitionen (Gewährung einer Billigkeitsleistung für das Haushaltsjahr 2022 für Investitionen des EUV), außerplanmäßige Mittelbereitstellung gem. § 83 GO NRW - einstimmig angenommen
+- TOP 29: Energieeinsparmaßnahmen - einstimmig angenommen
+- TOP 30: Anfragen der Ratsmitglieder
+- TOP 31: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
