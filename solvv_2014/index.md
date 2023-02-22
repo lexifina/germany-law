@@ -95,6 +95,10 @@
 
 - [§ 37 Maximal ausschüttungsfähiger Betrag](0037.md)
 
+### Kapitel 4 Puffer der Verschuldungsquote
+
+- [§ 37a Maximal ausschüttungsfähiger Betrag in Bezug auf die Verschuldungsquote](0037a.md)
+
 ## Teil 5 Übergangs- und Schlussbestimmungen
 
 - [§ 38 Übergangsvorschriften](0038.md)
