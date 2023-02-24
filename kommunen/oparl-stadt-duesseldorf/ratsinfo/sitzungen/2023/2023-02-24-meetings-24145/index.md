@@ -1,0 +1,62 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-02-24T14:00:00+01:00
+- Ende: 2023-02-24T17:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24145
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24145
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00476550.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00476550.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00476550.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 27.01.2023 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vortrag zum Konzept PONG - Popkultur und Gastro - zur Kenntnis genommen
+- TOP 4.2: Vortrag zum Konzept Spielplatzpat*innen - zur Kenntnis genommen
+- TOP 4.3: Goltsteinstraße Wiederherstellung nach Kanalbaumaßnahme - einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Umbenennung Stadtbahnhaltestelle Victoriaplatz/Klever Straße in ERGO-Platz/Klever Straße - zur Kenntnis genommen
+- TOP 4.7: Förderprojekt Multi-Mo-DUS, 1. Sachstandsbericht - zur Kenntnis genommen
+- TOP 4.8: Aktualisierung von beschlossenen schulorganisatorischen Maßnahmen an den städtischen Gymnasien - Empfehlung einstimmig beschlossen
+- TOP 4.9: Büchermeile auf der Rheinuferpromenade im Jahre 2023 - einstimmig beschlossen
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2023 - einstimmig beschlossen
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Wegeführung für Fußgänger*innen im Bereich Immermannstraße Ecke Berliner Allee - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - schriftlich beantwortet
+- TOP 5.2: Straßenlaternen auf der Sternstraße - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 5.3: Baugerüst am Parkhaus Am Wehrhahn - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 5.4: Baulücke Oststr. 93 - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Sanierung Außenbereich Kunsthalle - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.3: Außenbereich Kunstsammlung am Grabbeplatz - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Umwidmung der Verkehrsfläche auf der Klosterstraße in eine Fahrradstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.2: Information über den Planungsstand des Radweges auf der Königsallee - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Planungsstand untere Oststraße/Schadowstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.4: Bebauungsplan Rather Straße, Spichernstraße, Geistenstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.5: Einrichtung eines Radwegs auf der Duisburger Straße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.6: Veranstaltung anlässlich des 90. Jahrestages der Bücherverbrennung in Düsseldorf am 11.4.2023 - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.7: Schädlingsbekämpfung am Münsterplatz - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.8: Künftige Gestaltung der Kasernenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Geländer an der Düssel an der Prinz-Georg-Straße; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/277/2022 - zur Kenntnis genommen
+- TOP 8.3: Umgestaltung des kleinen Platzes zwischen Nordstraße, Venloer Straße und Kaiserswerther Straße vom 18.11.2022, BV1/280/2022 - zur Kenntnis genommen
+- TOP 8.4: Wiederaufstellung der Uhr an der Nordstraße, Ecke Venloer Straße; Beschluss der Bezirksvertretung 1 am 18.11.2022 , BV1/279/2022 - zur Kenntnis genommen
+- TOP 8.5: Pultstele zur Erläuterung der Geschichte des 39ziger Füsilier-Denkmals auf dem Reeser Platz; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/270/2022 - zur Kenntnis genommen
+- TOP 8.6: Nutzung von Parkflächen ansässiger Gewerbebetriebe für Anwohner; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/035/2023 - zur Kenntnis genommen
+- TOP 8.7: Bessere Ausschilderung öffentlicher Toiletten und City Toiletten im Stadtbezirk 1; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/007/2023 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an das Georg-Büchner-Gymnasium - einstimmig beschlossen
