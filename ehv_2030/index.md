@@ -10,8 +10,9 @@
 
 ## Abschnitt 2 Emissionsberichterstattung
 
-- [§ 3 Emissionsfaktor beim Einsatz flüssiger Biobrennstoffe](0003.md)
-- [§ 4 Emissionsfaktor beim Einsatz von Biokraftstoffen im Luftverkehr](0004.md)
+- [§ 3 Nachweis der Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen an die Treibhausgaseinsparung im stationären Bereich](0003.md)
+- [§ 3a Ausnahmen für den Nachweis der Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen an die Treibhausgaseinsparung im stationären Bereich](0003a.md)
+- [§ 4 Nachweis der Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen an die Treibhausgaseinsparung im Luftverkehr](0004.md)
 - [§ 5 Nachweisanforderungen für angewendete Analysemethoden](0005.md)
 
 ## Abschnitt 3 Überwachung
@@ -25,6 +26,13 @@
 ## Abschnitt 5 Zuteilung von Berechtigungen
 
 - [§ 8 Erhebung von Bezugsdaten](0008.md)
+- [§ 8a Mitteilung der nicht wesentlichen Änderungen am Plan zur Überwachungsmethodik](0008a.md)
+- [§ 8b Mitteilung zur Einstellung des Betriebs einer Anlage](0008b.md)
+
+## Abschnitt 5a Einzelheiten zur Überwachung, Berichterstattung und Prüfung (Zu § 18 des Gesetzes)
+
+- [§ 8c Berichterstattung über Emissionen von Flügen zwischen zwei Drittstaaten](0008c.md)
+- [§ 8d Einreichung eines Überwachungsplans](0008d.md)
 
 ## Abschnitt 6 Zertifizierung von Prüfstellen
 
