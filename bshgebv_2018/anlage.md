@@ -19,6 +19,7 @@
 | 2004 | Verlängerung der Zulassung von Lehrgängen nach Gebührentatbestand 2003 | 300 bis 1 300 |
 | 2005 | Erteilung des Seeleute-Ausweises nach § 62 Seeleute-Befähigungsverordnung | 12,50 bis 37,50 |
 | 2006 | Erteilung des Bescheids über die Voraussetzungen nach § 30 Absatz 3 Seeleute-Befähigungsverordnung | 54 |
+| 2007 | Gleichwertigkeitsbescheinigung nach § 9 Absatz 5 Seelotsgesetz | 137 bis 1 099 |
 |  | III. Schiffsvermessung |  |
 | 3001 | Vermessung nach den London-Regeln (entsprechend Internationalem Schiffsvermessungs-Übereinkommen von 1969) für Erstbauten | Grundgebühr 1 000 zuzüglich 0,7 je BRZ/BRT, (höchstens 12 000) |
 | 3002 | Nachbauten (erster Nachbau) | 50 Prozent der Gebühr nach Nummer 3001 |
@@ -107,7 +108,7 @@
 | 6024 | Vollziehung der Übertragung des Planfeststellungsbeschlusses, der Plangenehmigung oder der erteilten Genehmigung auf einen anderen Inhaber/Betreiber | 510 bis 850 |
 | 6025 | Zielabweichung bei Raumordnungsplänen des Bundes | 900 bis 2 400 |
 |  | VII.Haftungsbescheinigungen |  |
-| 7001 | Ausstellung von Haftungsbescheinigungen je Bescheinigung | 118 |
+| 7001 | Ausstellung von Haftungs- und Pflichtversicherungsbescheinigungen je Bescheinigung | 118 |
 |  | VIII.Gefahrenabwehr auf dem Schiff |  |
 | 8001 | Genehmigung der Aufstellung eines Alarmsystems zur Gefahrenabwehr auf dem Schiff | 200 bis 600 |
 | 8002 | Bescheinigung der Konformität eines Alarmsystems zur Gefahrenabwehr auf dem Schiff | 1 011 |
