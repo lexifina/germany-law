@@ -1,0 +1,82 @@
+# Anlage 4 (zu § 9)Inhalte für die Schulung der anleitenden Lotsen, Basis-Schulung
+
+Abschnitt 1 Inhalte für die Schulung der anleitenden Lotsen, Basis-Schulung
+| Name des Lehrganges | Train the Trainer basic (TtT Basic) |
+| Lehrgangsverantwortliche Institution | Bundeslotsenkammer |
+| Thema | Anleitende Seelotsinnen und Seelotsen, Lernbegleitung von Seelotsenanwärterinnen und Seelotsenanwärtern |
+| Ziele | Die Teilnehmerinnen und Teilnehmer besitzen durch ihre neue Funktion als Ausbilderin/Ausbilder/Lernbegleitung erweiterte Kompetenzen zu ihrem Beruf als Seelotsin und Seelotse. Sie begleiten aktivierend und motivierend die praktischen Ausbildungsanteile der Seelotsenanwärterinnen und Seelotsenanwärter. Die Lernbegleitung bedeutet, einen Rahmen für deren individuelle Lernprozesse in der Einzelbetreuung zu gestalten. Die Teilnehmerinnen und Teilnehmer erkennen Wirkungszusammenhänge bei Betrachtung von Lernzielen und Unterrichtsmethoden. Den zukünftigen anleitenden Seelotsinnen und Seelotsen ist bewusst, dass sie bei der Lernbegleitung auch eigene pädagogische Entscheidungen im Umgang mit der Seelotsenanwärterin und dem Seelotsenanwärter treffen müssen. Sie wissen zudem, dass sie bei der Lernbegleitung die in dieser Verordnung festgelegten Ausbildungsziele mit der Seelotsenanwärterin und dem Seelotsenanwärter erreichen müssen. Die Teilnehmerinnen und Teilnehmer planen Lern-Lehr-Arrangements unter Berücksichtigung von Lerntheorien insbesondere unter Anwendung aktivierender Methoden. Die Teilnehmerinnen und Teilnehmer wenden die Modelle aus der Kommunikationstheorie praxisorientiert in Form von Übungen an. Dadurch erfahren sie die Mehrdimensionalität von Kommunikation und erkennen, dass bewusstes Kommunizieren Informationsverluste und Missverständnisse reduziert. Die anleitenden Seelotsinnen und Seelotsen lernen und lehren entsprechend den Vorschriften dieser Verordnung und ihren Anlagen, entwickeln eigenständig realitätsnahe Übungen in unterschiedlichen Lernumgebungen und Arbeitsbezügen. Die Lernbegleitung während einer „Mitfahrt“ ermöglicht den Teilnehmerinnen und Teilnehmern später für die Seelotsenanwärterinnen und Seelotsenanwärter eigene Übungen zur Lotstätigkeit zu entwickeln, Lehr- und Lernziele festzulegen und den Lernerfolg zu überprüfen. |
+| Lehr- und Lernform | Seminaristischer Unterricht, praktische Übungen |
+| Zielgruppe | Seelotsen nach SeeLG ab 12/2022 |
+| Max. Teilnehmerzahl | 6 Personen |
+| Voraussetzung für die Teilnahme | Bestallung als Seelotsin oder Seelotse |
+| Art der Qualifikation | Weiterbildung mit Teilnahmebescheinigung |
+| Dauer/Arbeitsaufwand | 4 Tage (24 Zeitstunden) |
+| Thema | Inhalte | Dauer (à 60 Minuten) |
+| Rolle des Lernbegleiters | Aktueller Stand der Ausbildung zu einer Seelotsin oder einem Seelotsen | 4 |
+| Notwendigkeit neuer Ausbildungswege im lotsenbrüderschaftsübergreifenden Rahmen |
+|  | Rollen aller in der Ausbildung beteiligten Personen |
+|  | Gegenseitige Erwartungen von Seelotsenanwärterinnen und Seelotsenanwärtern/Lernbegleiterinnen und Lernbegleitern/Lotsenbrüderschaften und der daraus resultierenden Aufgaben und Verantwortung an die Lernbegleitung |
+|  | Autorität und innere Haltung |
+|  | Kompetenzen des Lernbegleiters (Werte, soziale Kompetenz, fachliche Kompetenz) |
+| Zielgruppendefinition und das Lernverhalten von Erwachsenen | Überblick über die Charakteristika der unterschiedlichen Generationen | 3 |
+| Biographiearbeit: exemplarische Entwicklung einer potenziellen Kandidatin und eines potenziellen Kandidaten aus LA 1/LA 2 |
+| Lernpyramide |
+|  | Aktivierende Lehr- und Lernmethoden/Gehirngerechtes Lernen |
+|  | Lernen durch Primär- und Sekundärerfahrungen |
+| Kommunikation | Kommunikationsmodell der 4 Ebenen | 3 |
+|  | Axiome der Kommunikation |
+|  | Bewusste Kommunikation zur Vermeidung von Informationsverlusten und Missverständnissen |
+|  | Körpersprache |
+| Grundzüge der Didaktik und Methodik | Situatives Erkennen von Lernzielen (Grob- und Feinlernziele) | 3 |
+| Beurteilen und Bewerten von Lernergebnissen |
+|  | Aktivierendes Lehrgespräch |
+|  | Erkennen von potenziellen Aufgabenstellungen |
+|  | Visualisierung als elementarer Bestandteil der Lernbegleitung |
+| Praktische Übungen zur Wissensweitergabe als Lernbegleiter | Erkennen der Vielschichtigkeit und Komplexität der Lotstätigkeit zur Ableitung von geeigneten Lernzielen und Erstellung von Aufgaben | 11 |
+| Transfer der erlernten Inhalte in die praktische Umsetzung |
+| Entwicklung praxisorientierter Übungen am Simulator |
+|  | Durchführung von Briefing und Debriefing in Form eines Lehrgesprächs |
+Abschnitt 2 Inhalte für die Schulung der anleitenden Seelotsinnen und Seelotsen, Aufbauschulung
+| Name des Lehrganges | Train the Trainer advanced (TtT Advanced) |
+| Lehrgangsverantwortliche Institution | Bundeslotsenkammer |
+| Thema | Ausbildende Seelotsinnen und ausbildende Seelotsen, Lernbegleitung von Gruppen |
+| Ziele | Die Teilnehmerinnen und Teilnehmer besitzen durch ihre neue Funktion als ausbildende Seelotsin/Seelotse/Lernbegleitung erweiterte Kompetenzen zu ihrem Beruf als Seelotsin und Seelotse. Sie begleiten aktivierend und motivierend die vorgegebenen Ausbildungsanteile der Seelotsenanwärterinnen und Seelotsenanwärter. Die Teilnehmerinnen und Teilnehmer haben den Train the Trainer Basic durchlaufen und den Transfer in die Praxis vollzogen. Im Train the Trainer Advanced erweitern sie ihre Erfahrungen aus der Einzelbetreuung um Kompetenzen aus dem Bereich der Wissensvermittlung für Gruppen. Die Teilnehmerinnen und Teilnehmer können die Struktur einer Unterrichtseinheit sowie deren untergeordneten Lerneinheiten entwickeln und diese umsetzen. Sie sind in der Lage, Lernziele zu definieren und methodisch umzusetzen. Dafür legen sie sich auf eine Lernzieltiefe fest und erstellen Lernerfolgskontrollen. Methodenvielfalt, Wahrnehmung der umfänglichen Lernumgebung sowie kreative Denkansätze zur Methodenfindung erkennen sie als hilfreiche Parameter in ihrer Unterrichtsplanung. Sie kennen die typischen Phasen der Gruppendynamik und sind in der Lage, herausfordernde Gruppenmitglieder zu identifizieren und zu begegnen. Die Teilnehmerinnen und Teilnehmer demonstrieren ihren Lernerfolg in einer Lehrprobe. |
+| Lehr- und Lernform | Seminaristischer Unterricht, praktische Übungen |
+| Zielgruppe | Seelotsinnen und Seelotsen |
+| Max. Teilnehmerzahl | 6 Personen |
+| Voraussetzung für die Teilnahme | Bestallung als Seelotsin oder Seelotse und Teilnahme an der Bundeslotsenkammer Schulung Train the Trainer basic |
+| Art der Qualifikation | Weiterbildung mit Teilnahmebescheinigung |
+| Dauer/Arbeitsaufwand | 4 Tage (24 Zeitstunden) |
+| Thema | Inhalte | Dauer (à 60 Minuten) |
+| Wahrnehmungsebenen einer Trainerin/eines Trainers | Erkennen der elementaren Wahrnehmungsebenen als Trainerin/Trainer | 3 |
+| Bedeutung der Wahrnehmungsebenen insbesondere in der Anfangsphase des Seminars |
+| Gestaltung eines passgenauen Seminareinstiegs |
+| Kreisläufigkeit der Kommunikation |
+| Wiederholung der Kernelemente des TtT basic | Aktueller Stand der Ausbildung zur Seelotsin/zum Seelotsen | 2 |
+| Aktivierende Lehr- und Lernmethoden/gehirngerechtes Lernen |
+| Die 7 Elemente des guten Lehrens |
+| Axiome der Kommunikation in Fokussierung auf den Lernenden |
+| Spezifika der unterschiedlichen Generationen |
+| Grundlagen der Didaktik | Definition von Didaktik und Methodik | 2 |
+| Definition der Begriffe Grob- und Feinlernziele |
+| Formulierung von Lernzielen |
+| Taxonomie von Lernzielen |
+| Gestaltung eines Ablaufplanes |
+| Methodik | Übersicht über Methodenvielfalt | 4 |
+| Unterscheidung zwischen lernzentrierten und trainerzentrierten Methoden |
+| Entwicklung eigener aktivierender Methoden |
+| Nutzung der Lernumgebung |
+| Medienauswahl und -nutzung |
+| Wert von Feedbackmethoden |
+| Lernerfolgskontrollen | Sinn und Nutzen von Lernerfolgskontrollen | 2 |
+| Auswahl der Methode zur Lernerfolgskontrolle in Abhängigkeit des Lernziels |
+| Objektivierung von Lernerfolgskontrollen |
+| Zusammenhang von Lernziel und Lernerfolg |
+| Dynamik von Gruppen | Phasen der sozialen Interaktion in Gruppen | 1 |
+| Phasengerechtes Führen einer Gruppe |
+| Die Trainerin/der Trainer als Teamentwicklerin und Teamentwickler |
+| Herausfordernde Gruppenmitglieder | Individuelle Leitsätze zum Umgang mit herausfordernden Teilnehmerinnen und Teilnehmern | 1 |
+| Leitfaden zum Umgang mit Störungen durch Verhalten der Teilnehmerinnen und Teilnehmer |
+| Lehrprobe | Transfer der erlernten Inhalte in die praktische Umsetzung | 9 |
+| Entwicklung einer Lehrprobe anhand des Ausbildungsrahmenplanes |
+| Durchführung einer Lehrprobe und anschließendes Feedback |

@@ -1,0 +1,239 @@
+# Anlage 1 (zu § 1 Absatz 2)Ausbildungsrahmenplan
+
+Der Ausbildungsrahmenplan beschreibt den inhaltlichen Ausbildungsumfang für die umfassende Qualifizierung zum Seelotsen. Die Inhalte sind handlungsorientiert beschrieben und in thematischen Modulen zusammengefasst.
+Die berufliche Handlungsfähigkeit der Seelotsinnen und Seelotsen bedingt neben einer soliden Wissensbasis und kognitiven Fähigkeiten insbesondere das praktisch-anwendungsorientierte Handeln.
+Die Ausbildungsziele werden im Rahmenplan als Kenntnisse, Fähigkeiten und Fertigkeiten beschrieben, ergänzend mit taxonomischen Verben nach BLOOM in ihrer Ausprägung eingestuft. Nur wenn ein taxonomisches Verb in der u. a. Spalte des jeweiligen Ausbildungsabschnitts verwendet wird, wird der jeweilige Inhalt auch vermittelt.
+Der Einsatz taxonomischer Verben dient der Ordnung, sie gliedern sich nach logischen Kriterien und klassifizieren die Ausbildungsinhalte nach Lernzieltiefe in sechs Stufen.
+Die folgende Aufzählung der Lernstufen gibt einen Überblick in die Ordnung taxonomischer Verben.
+Stufe 1
+Wissen Taxonomische Verben im Ausbildungsrahmenplan: benennen
+  Synonym: angeben, aufschreiben, aufzählen, aufzeichnen, ausführen, benennen, beschreiben, bezeichnen, darstellen, reproduzieren, vervollständigen, zeichnen, zeigen, wiedergeben
+Stufe 2
+Verstehen Taxonomische Verben im Ausbildungsrahmenplan: beschreiben, einordnen
+  Synonym: begründen, einordnen, ordnen, unterscheiden, vergleichen, wiedergeben, beschreiben
+Stufe 3
+Anwendung Taxonomische Verben im Ausbildungsrahmenplan: interpretieren, ausführen
+  Synonym: anwenden, aufstellen, ausführen, berechnen, bestimmen, interpretieren, unterscheiden, verdeutlichen
+Stufe 4
+Analyse Taxonomische Verben im Ausbildungsrahmenplan: analysieren, klassifizieren
+  Synonym: ableiten, analysieren, einkreisen, gegenüberstellen, gliedern, isolieren, klassifizieren, zerlegen, zuordnen
+Stufe 5
+Synthese Taxonomische Verben im Ausbildungsrahmenplan: entwickeln, zusammenstellen
+  Synonym: abfassen, aufbauen, entwerfen, entwickeln, gestalten, kombinieren, konstruieren, lösen, organisieren, zusammenstellen
+Stufe 6
+Beurteilung Taxonomische Verben im Ausbildungsrahmenplan: bewerten, beurteilen, differenzieren, auswerten
+  Synonym: auswerten, beurteilen, bewerten, differenzieren, entscheiden, qualifizieren, urteilen, vergleichen, vertreten, widerlegen, folgern, gewichten, vereinfachen
+Im Folgenden bedeuten
+LA 1: Lotsenausbildungsabschnitt 1;
+LA 2: Lotsenausbildungsabschnitt 2;
+LA 3: Lotsenausbildungsabschnitt 3.
+| Lfd. Nr. | Inhalte der theoretischen Ausbildung | Zu vermittelnde Kenntnisse, Fähigkeiten und Fertigkeiten | LA 1 | LA 2 | LA 3 |
+| 1 | Schifffahrtskunde und Manövrieren | Antriebskonzepte sowie Ruderarten und deren Anwendungsbereiche |  |  |  |
+|  |  | Die Vor- und Nachteile sowie Möglichkeiten des Einsatzes von unterschiedlichen Antriebskonzepten sowie Ruderarten | – | beschreiben | bewerten |
+|  |  | Schiffsdynamik |  |  |  |
+|  |  | Hydrodynamische Effekte sowie Einflüsse durch Wind und Strom unter Berücksichtigung unterschiedlicher Schiffstypen und Bauarten | – | beschreiben | beurteilen |
+|  |  | Ankern |  |  |  |
+|  |  | Unterschiedliche Bauarten von Ankern, ihre Wirkweise und Strategien des Ankerns | benennen | – | – |
+|  |  | Praktischer Ablauf beim Ankern, Wahl des Ankers und Kettenlänge in Abhängigkeit von Ankergrund, Wassertiefe und äußeren Einflüssen sowie Kommunikation | benennen | beschreiben | beurteilen |
+|  |  | Ankermanöver zur Positionierung sowie als Hilfsmittel zum Manövrieren | – | – | differenzieren |
+|  |  | Leinen |  |  |  |
+|  |  | Manöverstationen, insbesondere Anordnung und Art der Winden, Klüsen und Poller sowie Bruchlast der verschiedenen Komponenten | beschreiben | – | – |
+|  |  | Konzepte der Leinenführung an Bord | beschreiben | – | – |
+|  |  | Beschaffenheit von Festmacherleinen und -drähten | beschreiben | – | – |
+|  |  | Landseitige Einrichtungen zum Festmachen | – | beschreiben | – |
+|  |  | Auftretende Belastungen an Leinen, Pollern und Klüsen beim Festmachen und am festgemachten Schiff | – | beschreiben | – |
+|  |  | Maritime Automationssysteme |  |  |  |
+|  |  | Art und Weise der Erfassung von schiffs- sowie landseitigen Daten und deren Verarbeitung für ein sicheres und effizientes Verkehrs- und Schiffsbetriebsmanagement | – | – | beschreiben |
+|  |  | Technische Weiterentwicklung in der maritimen Automation | – | – | benennen |
+|  |  | Maritime Automationssysteme | – | – | interpretieren |
+|  |  | Projekte aus der maritimen Forschung und Entwicklung | – | – | benennen |
+|  |  | Technische Navigation |  |  |  |
+|  |  | Nautische Brückenausrüstung und Brückeneinrichtung, insbesondere Radar, ECDIS, GNSS, AIS und UKW, automatische Steueranlagen, deren Handhabung, Funktionsweise, Möglichkeiten und Grenzen | beschreiben | beurteilen | beurteilen |
+|  |  | Nautische Brückenausrüstung und Brückeneinrichtung hinsichtlich ihrer Vollständigkeit, Funktionsfähigkeit und Ergonomie | beurteilen | beurteilen | beurteilen |
+|  |  | Informationen von Radar, ECDIS, GNSS, AIS und UKW | auswerten | auswerten | auswerten |
+|  |  | Reiseplanung |  |  |  |
+|  |  | Nautische Reiseplanung nach internationalen Standards | entwickeln | – | – |
+|  |  | Schlepper und Schlepptechnik |  |  |  |
+|  |  | Antriebskonzepte von Hochsee-, Hafen- und Begleitschleppern sowie deren optimaler Einsatzbereich als Manövrierhilfe in der Seeschiffsassistenz | – | benennen | analysieren |
+|  |  | Besonderheiten in der Verschleppung von Anhängen mit und ohne Antrieb | – | benennen | benennen |
+|  |  | Anzahl und Leistung benötigter Seeschiffsassistenz sowie geeignete Schleppverbindungen | – | analysieren | beurteilen |
+|  |  | Situationsgerechte Seeschiffsassistenz | – | analysieren | beurteilen |
+|  |  | Eindeutige und klare Kommunikation | – | beurteilen | beurteilen |
+|  |  | Manövrierfähigkeit von Schlepp- und Schubverbänden im engen Fahrwasser unter Berücksichtigung von Umwelteinflüssen | – | beurteilen | beurteilen |
+|  |  | Theorie im Simulator |  |  |  |
+|  |  | Selbstständiges Führen von Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Wind und Strom | beurteilen | beurteilen | beurteilen |
+|  |  | Komplexe Verkehrslagen | auswerten | auswerten | auswerten |
+|  |  | Hydrodynamische Effekte sowie Einflüsse durch Wind und Strom in der Manöverplanung | – | analysieren | beurteilen |
+|  |  | Hydrodynamische Effekte sowie Einflüsse durch Wind und Strom während eines Reiseverlaufs | – | analysieren | beurteilen |
+|  |  | Planung, Durchführung und Auswertung von Ankermanövern unter Berücksichtigung der Wahl des Ankers und Kettenlänge in Abhängigkeit von Ankergrund, Wassertiefe und äußeren Einflüssen sowie Kommunikation | – | anwenden | beurteilen |
+|  |  | Planung, Durchführung und Auswertung sicherer An- und Ablegemanöver mit Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Wind und Strom | – | anwenden | beurteilen |
+|  |  | Planung, Durchführung und Auswertung der Querung von Fahrwassern und des Durchfahrens von Stromschnitten mit Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Wind und Strom | – | anwenden | beurteilen |
+|  |  | Planung, Durchführung und Auswertung des Drehens, Traversierens, Aufstoppens und Haltens von Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Wind und Strom | – | anwenden | beurteilen |
+|  |  | Planung, Durchführung und Auswertung des Fahrens im Konvoi, Überholens und Begegnens mit Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Wind und Strom | – | anwenden | beurteilen |
+|  |  | Planung, Durchführung und Auswertung des Ansteuern und Haltens von vorgegebenen Positionen mit Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Wind und Strom | – | anwenden | beurteilen |
+|  |  | Planung, Durchführung und Auswertung des Ein- und Auslaufens aus Schleusen mit Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Wind und Strom mit und ohne Schlepperassistenz | – | anwenden | beurteilen |
+|  |  | Planung, Durchführung und Auswertung des Lotsenwechsels mit Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Verkehrslage, Wetter-, Wind-, Strömungsbedingungen sowie schiffbaulichen Besonderheiten | – | anwenden | beurteilen |
+| 2 | Notfallmanagement | Not- und Störfälle |  |  |  |
+|  |  | Schiffsseitige Notfallpläne im Falle von Grundberührung, Kollision, Feuer etc. | beschreiben | – | – |
+|  |  | Interne und externe Kommunikation in Not- und Störfällen im Simulator | – | unterAnleitungausführen | ausführen |
+|  |  | Strategien bei Not- und Störfällen im Simulator | – | beschreiben ausführen | entwickeln ausführen |
+|  |  | Notfallpläne von Seiten der Behörden | – | – | beschreiben |
+|  |  | Notfallpläne der Lotsenbrüderschaften | – | – | bestimmen |
+|  |  | Aufgaben, Rechte und Pflichten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes im Bereich Notfallmanagement einschließlich Systemkonzept maritime Verkehrssicherheit deutsche Küste | – | – | beschreiben |
+|  |  | Vom Schiff und der Ladung ausgehende Gefahren für die Umwelt | – | – | beurteilen |
+|  |  | Maßnahmen zur Minimierung von möglichem Schaden | – | – | beurteilen |
+|  |  | Notfallpsychologie |  |  |  |
+|  |  | Elemente aus der Notfallpsychologie | – | – | einordnen |
+|  |  | Physische wie psychische Belastbarkeit | – | – | einordnen interpretieren |
+|  |  | Verhalten von Kapitän und Besatzung in Not- und Störfällen | – | – | einordnen interpretieren |
+|  |  | Methoden der persönlichen psychischen Aufarbeitung eines Not- oder Störfalles | – | – | beschreiben |
+|  |  | Methoden und Strategien zur Selbsteinschätzung und Entscheidungsfindung in Notfallsituationen | – | – | bestimmen |
+|  |  | Veränderung der Wahrnehmung in Notfallsituationen | – | – | beschreiben |
+|  |  | Dokumentation |  |  |  |
+|  |  | Relevante Daten bei Eintritt eines Not- oder Störfalles und Dokumentation des Vorfalls | – | – | zusammen-stellen |
+|  |  | Interne und externe Meldeverfahren | – | – | beschreiben |
+|  |  | Not- und Störfälle | – | – | auswerten |
+|  |  | Sicherer Umgang mit Presse und sozialen Medien | – | – | beurteilen |
+|  |  | Berichte nach Not- und Störfällen | – | – | verfassen |
+| 3 | Soziale Kompetenzen und Arbeitspsychologie | Arbeitskonzepte |  |  |  |
+|  | Konzepte und Modelle der Arbeitspsychologie | – | – | benennen |
+|  |  | Konzepte und Modelle zu Denkprozessen, lösungsorientiertem Denken, vorausschauendem Handeln | – | – | benennen |
+|  |  | Volitionale Prozesse | – | – | benennen |
+|  |  | Persönlichkeitsbildung |  |  |  |
+|  |  | Fatigue Management Strategien | – | – | bestimmen |
+|  |  | Lifestyle Management Strategien | – | – | bestimmen |
+|  |  | Aktuelle Erkenntnisse aus den Bereichen Ernährung, Bewegung | – | – | benennen |
+|  |  | Konzepte und Strategien zu Resilienzerhöhung | – | – | benennen |
+|  |  | Methoden zur Selbsteinschätzung, „Information overload“ („frozen Pilot“), Informationsmanagement | – | – | benennen |
+|  |  | Konzepte und Strategien zu Zeit-/Stressmanagement | – | – | bestimmen |
+|  |  | Konzepte und Strategien zu Fehlermanagement | – | – | bestimmen |
+|  |  | Strategien zur Entscheidungsfindung | – | – | bestimmen |
+|  |  | Soziologie |  |  |  |
+|  |  | Methoden und Strategien aus dem Bereich Konfliktmanagement | – | – | benennen |
+|  |  | Kommunikationsmodelle | – | – | benennen |
+|  |  | Konzepte zu Selbstbild/Fremdbild, Relevanz des persönlichen Erscheinungsbildes | – | – | bewerten |
+|  |  | Umgangsformen, Umgang mit Anderen, interkulturelles Bewusstsein | – | – | bewerten |
+|  |  | Konzepte zur sozialen und kooperativen Gruppenarbeit | – | – | beurteilen |
+|  |  | Führungskompetenz und Führungsstile | – | – | bestimmen |
+|  |  | Rollenverteilung im Arbeitsumfeld | – | – | einordnen interpretieren |
+| 4 | Recht | Bundesgesetze |  |  |  |
+|  |  | Die für das Seelotswesen relevanten Artikel des Grundgesetzes | – | – | auswerten |
+|  |  | Gesetz über das Seelotswesen | – | – | auswerten |
+|  |  | Bundeswasserstraßengesetz | – | – | analysieren |
+|  |  | Seeaufgabengesetz | – | – | analysieren |
+|  |  | Seeunfalluntersuchungsgesetz | – | – | analysieren |
+|  |  | Verordnungen |  |  |  |
+|  |  | Seelotsenausbildungsverordnung | – | – | auswerten |
+|  |  | Verordnung über die Seelotsreviere und ihre Grenzen | – | – | auswerten |
+|  |  | Verordnung über die Verwaltung und Ordnung des Seelotsreviers | – | – | auswerten |
+|  |  | Verordnung über die seeärztliche Untersuchung der Seelotsen | – | – | beschreiben |
+|  |  | Verordnung über die Tarifordnung für die Seelotsreviere | – | – | beschreiben |
+|  |  | Verordnung über das Anlaufen der inneren Gewässer der Bundesrepublik Deutschland aus Seengebieten seewärts der Grenze des deutschen Küstenmeeres und das Auslaufen | – | – | beschreiben |
+|  |  | Revierspezifische Verwaltungsanordnungen, Verordnungen, Ordnungen, Vereinbarungen für Verkehrszentralen, Häfen, Schleusenanlagen etc. | – | – | beschreiben |
+|  |  | Revierspezifische bilaterale Verträge | – | – | beschreiben |
+|  |  | Für das Seelotswesen relevante Bereiche weiterer Bundesgesetze und Verordnungen |  |  |  |
+|  |  | Binnenschifffahrtsaufgabengesetz | – | – | benennen |
+|  |  | Verordnung über das Seelotswesen außerhalb der Reviere | – | – | benennen |
+|  |  | Verordnung über die Sicherung der Seefahrt | – | – | benennen |
+|  |  | Verordnung über die Schutz- und Sicherheitshäfen, die Häfen der Deutschen Marine und der Bundespolizei der Bundesrepublik Deutschland an Seeschifffahrtsstraßen | – | – | benennen |
+|  |  | Zollverordnung | – | – | benennen |
+|  |  | Verwaltungsvollstreckungsgesetz | – | – | benennen |
+|  |  | Seeverkehrsrecht |  |  |  |
+|  |  | Kollisionsverhütungsregeln | – | – | anwenden |
+|  |  | Seeschifffahrtsstraßen-Ordnung mit Bekanntmachungen | – | – | auswerten |
+|  |  | Schifffahrtsordnung Emsmündung | – | – | auswerten |
+|  |  | Revierspezifische Hafenverkehrsordnung | – | – | anwenden |
+|  |  | Bekanntmachungen für Seefahrer | – | – | anwenden |
+|  |  | Wasserstraßen- und Schifffahrtsverwaltung |  |  |  |
+|  |  | Aufbauorganisation der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und deren Aufgaben, Zuständigkeiten und rechtliche Grundlagen | – | – | beschreiben |
+| 5 | Selbstverwaltung | Bundeslotsenkammer |  |  |  |
+|  |  | Selbstverwaltung der Bundeslotsenkammer, insbesondere der Rechtsnatur, ihrer Aufgaben und Organisation sowie rechtliche Grundlagen | – | – | beschreiben |
+|  |  | Lotsenbrüderschaft |  |  |  |
+|  |  | Selbstverwaltung der Lotsenbrüderschaft, insbesondere der Rechtsnatur, ihrer Aufgaben und Organisation sowie rechtliche Grundlagen | – | – | beschreiben |
+|  |  | Die Bestimmungen des inneren Dienstbetriebs | – | – | analysieren |
+|  |  | Statuten der Lotsenbrüderschaft | – | – | analysieren |
+|  |  | Internationale Lotsenvereinigungen |  |  |  |
+|  |  | Struktur und Aufgaben der EMPA und IMPA | – | – | benennen |
+|  |  | Lotsbetriebsverein |  |  |  |
+|  |  | Struktur, Aufbau, Verantwortlichkeiten sowie rechtliche Grundlage des Lotsbetriebsvereins | – | – | benennen |
+| 6 | Revierkunde | Alle Reviere |  |  |  |
+|  |  | Wesentliche Merkmale aller deutschen Seelotsreviere | benennen | benennen | – |
+|  |  | Topographie, Hydromorphologie, Hydrographie und Einrichtungen zur Maritimen Verkehrssicherung der angrenzenden Reviere und Seegebiete | – | – | benennen |
+|  |  | Eigenes Revier |  |  |  |
+|  |  | Topographie, Hydromorphologie, Hydrographie, sowie schwimmende und feste Seezeichen und Einrichtungen zur Maritimen Verkehrssicherung, insbesondere: Kurse und Distanzen, Fahrwasser, Reeden, Sperrgebiete, Verkehrstrennungsgebiete, Wassertiefen, Gezeiten, Strömungen, Bezugshorizonte, Häfen, Schleusen, Liegeplätze des jeweiligen Seelotsreviers | – | – | analysieren zusammen-stellen bewerten |
+|  |  | Kommunikation |  |  |  |
+|  |  | Kommunikation mit anderen Verkehrsteilnehmern und Beteiligten der Maritimen Verkehrssicherung | – | – | bestimmen |
+|  |  | Kommunikation mit Diensten wie Festmachern und Schleppern | – | – | bestimmen |
+| 7 | Lotsdienst | Aufgaben, Rechte und Pflichten |  |  |  |
+|  |  | Rechte und Pflichten eines Lotsen im Kontext der Beratung | – | – | beurteilen |
+|  |  | Vollständige Vorbereitung und Planung einer Reise unter Berücksichtigung von Wetter, Verkehr, Tide, Tidefahrplan | – | – | beurteilen |
+|  |  | Master/Pilot Information Exchange MPEX | – | – | bewerten |
+|  |  | Intensität der Beratung des Brückenteams | – | – | analysieren |
+|  |  | Strategien des Lotsenwechsels unter Berücksichtigung von Verkehrslage, Wetter-, Wind-, Strömungsbedingungen, schiffbauliche Besonderheiten | – | – | beurteilen |
+|  |  | Konzept der Landradarberatung nach standardisierter Syntax (ISSUS) „Hamburger Modell“ sowie der Verwaltungsanordnungen über die Benutzung der Radaranlagen der jeweiligen Verkehrszentralen | – | – | beschreiben |
+|  |  | Aufgaben und Ablauf des Wachdienstes auf festen oder schwimmenden Lotseinrichtungen | – | – | beschreiben |
+|  |  | Aufgaben, Rechte und Pflichten aus der administrativen Lotstätigkeit | – | – | beschreiben |
+| 8 | Maritimer Umweltschutz | Internationale Vorschriften |  |  |  |
+|  | MARPOL Anlagen I – VI inkl. Special Areas und PSSA | – | – | benennen |
+|  |  | Ballast Water Management Convention und BWMS Code | – | – | benennen |
+|  |  | Emission Control Areas CO2, SOx, NOx | – | – | benennen |
+|  |  | IMDG Code, International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk IBC, International Code of the Construction and Equipment of Ships carrying Liquefied Gases in Bulk IGC, International Code of Ships using gases or other low-flashpoint fuels IGF International Code for the safe carriage of packaged irradiated nuclear fuel, plutonium and high-level radioactive wastes on board ships INF Code | – | – | benennen |
+|  |  | Alternative Antriebskonzepte und Energieträger (LNG, Methanol, Brennstoffzellen, Batterien etc.) | – | – | benennen |
+|  |  | Kollisionsverhütungsregeln im Kontext des maritimen Umweltschutzes | – | – | beschreiben |
+|  |  | Nationale Vorschriften |  |  |  |
+|  |  | Seeaufgabengesetz, Seeschifffahrtsstraßenordnung, Schifffahrtsordnung Ems, revierspezifische Hafenverkehrs- und Hafenbenutzungsordnung im Kontext des maritimen Umweltschutzes | – | – | beschreiben |
+| 9 | Ausbildungsfahrten und praktischer Lotsdienst | Sicherheit |  |  |  |
+|  | Sicheres Verhalten im Hafengebiet und an Bord | anwenden | anwenden | anwenden |
+|  | Zugänge zu einem Wasserfahrzeug hinsichtlich Sicherheit und korrekter Ausbringung | beurteilen | beurteilen | beurteilen |
+|  |  | Aufmerksames, sicheres Bewegen sowie sichere Orientierung an Bord | anwenden | anwenden | anwenden |
+|  |  | Positive und gezielte Ansprache der Besatzung, umgehendes Austauschen essentieller Informationen | anwenden | anwenden | anwenden |
+|  |  | Analysieren und Einrichten des Arbeitsplatzes |  |  |  |
+|  |  | Nautische Brückenausrüstung und Brückeneinrichtung hinsichtlich ihrer Vollständigkeit, Funktionsfähigkeit und Ergonomie | beurteilen | beurteilen | beurteilen |
+|  |  | Radar, ECDIS, GNSS, AIS und UKW, automatische Steueranlagen | beurteilen | beurteilen | beurteilen |
+|  |  | Informationen von Radar, ECDIS, GNSS, AIS und UKW | auswerten | auswerten | auswerten |
+|  |  | Einsatz und Gebrauch der revierspezifischen PPU | – | – | beurteilen |
+|  |  | Verhalten von Kapitän und Besatzung | einordnen | einordnen | einordnen interpretieren |
+|  |  | Rollenverteilung im Arbeitsumfeld | einordnen | einordnen | einordnen interpretieren |
+|  |  | Handhabung und Einsatz der nautischen Brückenausrüstung und Brückeneinrichtung | ausführen | beurteilen | beurteilen |
+|  |  | Manövriereigenschaften des Schiffes unter Berücksichtigung der vorhandenen Manövriereinrichtungen | – | beurteilen | beurteilen |
+|  |  | Notwendigkeit externer Unterstützung wie z. B. Schlepper, Festmacherboote, Leinenverbindungen | – | analysieren | beurteilen |
+|  |  | Reiseplanung und Reiseverlauf |  |  |  |
+|  |  | Meteorologische und hydrologische Einflüsse sowie deren Veränderungen | analysieren | analysieren | beurteilen |
+|  |  | Nautische Reiseplanung nach internationalen Standards | entwickeln | – | – |
+|  |  | Reiseverlauf und Manöver hinsichtlich möglicher Gefahren | einordnen | analysieren | beurteilen |
+|  |  | Aktuelle Position, Geschwindigkeit und Drehrate eines Fahrzeugs | bewerten | bewerten | bewerten |
+|  |  | Direkte und indirekte Einflüsse auf den Reiseverlauf in der Umgebung des Schiffes | einordnen | analysieren | beurteilen |
+|  |  | Schifffahrtszeichen sowie deren Bedeutung | bestimmen | bestimmen | bestimmen |
+|  |  | Wasserfahrzeuge hinsichtlich ihrer Silhouette | klassifizieren | klassifizieren | klassifizieren |
+|  |  | Verkehrslage | analysieren | analysieren | beurteilen |
+|  |  | Führen eines Fahrzeugs im freien Seeraum und im engen Fahrwasser auf einer vorgesehenen Route innerhalb sicherer Toleranzen und sicherer Geschwindigkeit | beurteilen | beurteilen | beurteilen |
+|  |  | Vorbereitung einer Reise im Hinblick auf lotsspezifische Aspekte wie Wetter, Verkehr, Tide, Tidefahrplan, Bekanntmachungen für Seefahrer, Schifffahrtspolizeiliche Genehmigung, Schifffahrtspolizeiliche Maßnahmen, Schifffahrtspolizeiliche Verfügungen | – | – | auswerten |
+|  |  | Vorbereitung einer Lotsberatung im Hinblick auf Antriebskonzept, Ruderanlage, Tiefgang und Beladungszustand des zu lotsenden Schiffes | – | – | auswerten |
+|  |  | Relevante Informationen zum Revier wie z. B. Informationen zu Liegeplatz, Hafenbetreiber, Anforderungen an Festmachereinrichtungen, Vertäuanforderungen | – | – | zusammen-stellen |
+|  |  | Charakteristika des Reviers |  |  |  |
+|  |  | Topographie, Umweltbedingungen, Verkehrsstruktur aller deutschen Seelotsreviere | benennen | benennen | – |
+|  |  | Topographie, Hydromorphologie, Hydrographie und Einrichtungen zur Maritimen Verkehrssicherung der angrenzenden Reviere und Seegebiete | – | – | beschreiben |
+|  |  | Topographie, Hydromorphologie, Hydrographie, sowie schwimmende und feste Seezeichen und Einrichtungen zur Maritimen Verkehrssicherung, insbesondere: Kurse und Distanzen, Fahrwasser, Reeden, Sperrgebiete, Verkehrstrennungsgebiete, Wassertiefen, Gezeiten, Strömungen, Bezugshorizonte, Häfen, Schleusen, Liegeplätze des jeweiligen Seelotsreviers | – | – | analysieren zusammen-stellen bewerten |
+|  |  | Kommunikation |  |  |  |
+|  |  | Interne Kommunikation mit der Brückenbesatzung | ausführen | analysieren | beurteilen |
+|  |  | Externe Kommunikation mit anderen Verkehrsteilnehmern und Beteiligten der Maritimen Verkehrssicherung | unterAnleitungausführen | unterAnleitungausführen | beurteilen |
+|  |  | Externe Kommunikation mit Diensten wie Festmachern und Schleppern | – | unterAnleitungausführen | beurteilen |
+|  |  | Interne und externe Kommunikation in Not- und Störfällen | – | unterAnleitungausführen | beurteilen |
+|  |  | Manövrieren |  |  |  |
+|  |  | Sichere Leinenführung, Vertäuen, Festmachen von Schleppern, Ankern unter Beachtung der schiffsspezifischen Anordnung der Manöverstation | beschreiben | – | – |
+|  |  | Planen, Durchführen und Auswerten folgender Situationen: Ansteuern und Halten von vorgegebenen Wartepositionen, Liegestellen und Lotsenversetzpositionen, Queren und Durchfahren von Stromschnitten, Drehen, Traversieren, Halten und Aufstoppen im/ohne Strom, Fahren im Konvoi, Überholen und Begegnen mit Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Wind und Strom | – | anwenden | beurteilen |
+|  |  | Planen, Durchführen und Auswerten folgender Situationen: An- und Ablegen unter Berücksichtigung der Leinen als mögliche Manövrierhilfe, Ankern zur Positionierung und als Manövrierhilfe, Ein- und Auslaufen in/aus Schleusen mit Wasserfahrzeugen aller Größen, Verdrängungen, Antriebsformen und Steuerelementen unter Berücksichtigung von Wind und Strom | – | unterAnleitunganwenden | beurteilen |
+|  |  | Antriebskonzepte von Hochsee-, Hafen- und Begleitschleppern | – | bestimmen | beurteilen |
+|  |  | Optimalen Einsatzbereich von Schleppern als Manövrierhilfe in der Seeschiffsassistenz | – | bestimmen | beurteilen |
+|  |  | Besonderheiten in der Verschleppung von Anhängen mit und ohne Antrieb | – | bestimmen | beurteilen |
+|  |  | Hydrodynamische Effekte | – | bestimmen | beurteilen |
+|  |  | Lotsenwechsel |  |  |  |
+|  |  | Master/Pilot Information Exchange MPEX unter Berücksichtigung von kulturellen und sprachlichen Besonderheiten | – | anwenden | beurteilen |
+|  |  | Pilot/Pilot Information Exchange | – | anwenden | beurteilen |
+|  |  | Sicherheitsaspekte beim Versetzen und Ausholen der Bordlotsen | beschreiben | anwenden | beurteilen |
+|  |  | Durchführung des Lotsenwechsels unter Berücksichtigung von Verkehrslage, Wetter-, Wind-, Strömungsbedingungen und schiffbaulichen Besonderheiten | – | – | beurteilen |
+|  |  | Lotsdienst |  |  |  |
+|  |  | Lotsdienste des Reviers: Lotsberatung an Bord, Landradarberatung nach standardisierter Syntax (ISSUS) „Hamburger Modell“, Wachdienst auf festen oder schwimmenden Lotseinrichtungen, Einsatzleitung, Telefonist/in bzw. Betriebsassistent/in und Distanzlotsung | – | – | beurteilen |
+|  |  | Selbstverwaltung |  |  |  |
+|  |  | Führen der Bört- und Schiffslisten | – | – | beurteilen |
+|  |  | Lotsgeld und Lotsabgabe auf Grundlage der Lotstarifverordnung | – | – | bestimmen |
