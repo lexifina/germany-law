@@ -1,0 +1,53 @@
+# Haupt- und Finanzausschuss (11. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2023-02-27T17:30:00+01:00
+- Ende: 2023-02-27T21:22:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWAIWH1Y2rnw7bpX-UwgoZQ
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2614
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Finanzausschuss) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaFvIW3BtKP-hRzVqVzYohwYXIbCv-lMzkVKQv3HnBjW/Bekanntmachung_Haupt-_und_Finanzausschuss_27.02.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQrEqfz_T2Kt4j8CgXg7jTCoyXHMWFz9VlkE28XVdqgt/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_27.02.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Bestellung von Schriftführerinnen - Einstimmig
+- TOP 4: Wahl der Vertreter*innen des Vorsitzenden des Haupt- und Finanzausschusses - Einstimmig
+- TOP 5: Antrag der Fraktion move vom 14.11.2022 zur Verlängerung der Abfuhrzeiten für die Saison-Biotonne - Einstimmig
+- TOP 6: Antrag der Fraktion move vom 18.11.2022 zur Erstellung einer zusammenfassenden Darstellung von Gutachteraufträgen - Einstimmig
+- TOP 7: Antrag der Fraktion Offene Liste vom 14.10.2022 zur Personalsituation in der Verwaltung - 22 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 8: Antrag der Fraktion FREIE-Linke vom 28.10.2022 zur Ermittlung der Fluktuation in der Verwaltung für den Zeitraum der vergangenen fünf Jahre - 13 Ja-Stimme(n), 10 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 9: Ergebnis Organisationsuntersuchung 2021-2022 - Einstimmig
+- TOP 10: Beteiligungsbericht 2020 nach § 117 GO NRW - Einstimmig
+- TOP 11: Übertragung von konsumtiven Ermächtigungen nach § 22 KomHVO - Einstimmig
+- TOP 12: Außerplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 120102 Breitbandausbau 2. Call
+- TOP 12.1: Außerplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 130301 Anschaffung eines E-Radladers - 9 Ja-Stimme(n), 14 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 13: Finanzcontrolling - Managementberichte in 2023 - Kenntnisnahme
+- TOP 14: Aufhebung der Wettbürosteuersatzung der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 15: Freigabe Zuschuss an das Museum Wiedenbrücker Schule - 21 Ja-Stimme(n), 0 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 16: Glasfaserkonzept der städtischen Randbereiche - Einstimmig
+- TOP 17: 15. Änderung der Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Rheda-Wiedenbrück - 21 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 18: Berichterstattung - Kommunaler Ordnungsdienst - Kenntnisnahme
+- TOP 19: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 20: Dringende Anfragen und Anregungen
+- TOP 21: Informationen über den ergebnisoffenen Sondierungsprozess zwischen den Kreissparkassen Halle (Westf.) und Wiedenbrück - mdl. Bericht -
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 22: Erklärung von Ausschließungsgründen
+- TOP 23: Informationen über den ergebnisoffenen Sondierungsprozess zwischen der Kreissparkasse Halle (Westf.) und Wiedenbrück - mdl. Bericht -
+- TOP 24: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 25: Bekanntgabe von Auftragsvergaben - Kenntnisnahme
+- TOP 26: Berichte der Vertreter*innen der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 27: Schöffenwahl 2023 - Aufstellung der Vorschlagsliste von Vertrauenspersonen zur Bildung des Schöffenwahlausschusses für den Amtsgerichtsbezirk Rheda-Wiedenbrück - Einstimmig
+- TOP 28: Jahresabschluss der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für das Wirtschaftsjahr 2021 - Einstimmig
+- TOP 29: Wirtschaftsplan der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für die Wirtschaftsjahre 2023-2027 - Einstimmig
+- TOP 30: Sachstandsbericht Wirtschaftsförderung - Kenntnisnahme
+- TOP 31: Vertragsangelegenheiten - Einstimmig
+- TOP 31.1: Schenkungsangelegenheit
+- TOP 32: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 33: Dringende Anfragen und Anregungen
