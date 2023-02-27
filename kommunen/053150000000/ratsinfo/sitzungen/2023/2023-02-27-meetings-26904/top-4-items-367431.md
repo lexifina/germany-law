@@ -1,0 +1,6 @@
+# TOP 4: Anträge (§ 3 der Geschäftsordnung des Rates und der Bezirksvertretungen)
+
+- Sitzung: 17. Sitzung des Hauptausschusses (2023-02-27)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/367431
