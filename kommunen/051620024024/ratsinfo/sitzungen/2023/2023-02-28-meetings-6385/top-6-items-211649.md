@@ -1,0 +1,8 @@
+# TOP 6: Antrag der Mitglieder von SPD, Bündnis 90/Die Grünen und UWG/Aktiv betr.: Missstände in Mietwohnungen an der Harffer Straße
+
+- Sitzung: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal (2023-02-28)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/211649
+- Ergebnis: beraten ohne Abstimmung
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/33245
