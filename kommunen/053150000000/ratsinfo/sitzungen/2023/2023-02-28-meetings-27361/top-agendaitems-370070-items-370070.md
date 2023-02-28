@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zum Antrag Aufarbeitung Corona Maßnahmen (AN/0275/2023)
+
+- Sitzung: Sitzung des Integrationsrates (2023-02-28)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/370070
+- Ergebnis: endgültig zurückgezogen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/171818
