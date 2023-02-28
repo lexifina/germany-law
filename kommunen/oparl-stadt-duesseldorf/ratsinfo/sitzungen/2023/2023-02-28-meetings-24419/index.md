@@ -1,0 +1,55 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-02-28T17:00:00+01:00
+- Ende: 2023-02-28T18:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24419
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24419
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung vom 31. Januar 2023 - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Trödelmärkte auf dem Messeparkplatz P1 im 1. Halbjahr 2023 - einstimmig beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2023 (Liste B), Pflanz- und Pflegemaßnahmen Rathaus Kaiserswerth - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 9: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker"
+- TOP 10: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße
+- TOP 11: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße
+- TOP 12: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr?
+- TOP 13: Geschwindigkeitsmessung Kreuzung Nagelsweg/Neusser Weg
+- TOP 14: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie
+- TOP 15: Verkehrskonzept für den Düsseldorfer Norden - beantwortet
+- TOP 16: Rheinuferweg Kaiserswerth - Alternativen für einen konfliktreduzierten Rad- und Fußweg
+- TOP 17: Plangebiet "Östlich Zur Lindung" - beantwortet
+- TOP 18: Rattenbefall in Kaiserswerth - beantwortet
+- TOP 19: Fehlende Infrastruktur öffentlicher E-Ladepunkte im Düsseldorfer Norden - beantwortet
+- TOP -: Neue Anfragen
+- TOP 20: Verkehrssicherheit auf der Rahmer Straße
+- TOP 21: Wäre die Beteiligung der Bezirksvertretung 5 beim Neubau des zweiten Untergeschosses Am Mühlenkamp 15 erforderlich gewesen?
+- TOP 22: Weitere Nutzung des Welcome Point Niederrheinstraße 20 - beantwortet
+- TOP 23: Bau von Ladestationen in autofreien Zonen
+- TOP 24: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr? Erneute Anfrage zu den Kreuzungsbereichen Mühlenacker/Klosekamp und Wittgatt/Fritz-Köhler-Weg
+- TOP -: Anträge
+- TOP 25: Aufstellung eines Bücherschrankes BOKS 02 Messing für 450 Bücher vor der Toni-Turek-Realschule - mehrheitlich abgelehnt
+- TOP 26: Wiederherstellung eines Fußwegs auf der Mittelinsel und Beseitigung von Engstellen auf den Bürger*innensteigen am Kaiserswerther Markt! - abweichend beschlossen
+- TOP 27: Angermunder Fahrradweg - abweichend beschlossen
+- TOP 28: "Wir feiern das Leben" - auch in 2024 ff! Erfolgsgeschichte des Karnevalsempfangs der BV 5 fortschreiben! - einstimmig beschlossen
+- TOP 29: Beleuchtung des Kaiserswerther Marktes – Energie sparen und Verkehrssicherheit gewährleisten! - einstimmig beschlossen
+- TOP 30: Ausbesserung der Bankette am Wittgatt verbessern - einstimmig beschlossen
+- TOP 31: Funktionsfähigkeit und Instandsetzung der GAT "Am Litzgraben" - zurückgezogen
+- TOP 32: Graf-Engelbert-Straße 1-5, Angermund, Instandsetzung nördlicher Abschnitt - einstimmig beschlossen
+- TOP 33: Fliednerstraße in Kaiserswerth – Endlich Sicherheit für unsere Kinder gewährleisten! - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 34: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 35: Überarbeitung der Stellplatzsatzung - Antrag der Bezirksvertretung 5 - zur Kenntnis genommen
+- TOP 36: Verschiedenes
