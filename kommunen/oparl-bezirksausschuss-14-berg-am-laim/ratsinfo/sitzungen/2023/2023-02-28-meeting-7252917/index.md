@@ -1,0 +1,93 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-02-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7252917
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7252917
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 31.01.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Atelierstr. 28 - Nutzungsverlängerung / Werk 4 - Nachtkantine inkl. Backstage-Bereich mit Künstlergarderoben, ohne baulichen Änderungen - befristet bis 31.12.2025
+- TOP 3.1.2.: Dingolfinger Str. 1 - Umbau und Erweiterung einer Gewerbeimmobilie - VORBESCHEID
+- TOP 3.1.3.: Sachstand "Mahlerhaus" in der Baumkirchner Straße; Antrag der SPD-Fraktion
+- TOP 3.1.4.: Eisdiele am Grünen Markt im Winter einer sinnvollen Nutzung zuführen; Antrag der SPD-Fraktion
+- TOP 3.1.5.: Sichere Trennung von Fußwegen und Baustellenzufahrten beim Bau des „Campus Ost“; Antrag der FW/ÖDP-Fraktion
+- TOP 3.1.6.: Tierschutzgerechte Lösung für die Tauben im Behrpark; Antrag der FW/ÖDP-Fraktion
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Friedenstraße: Einrichtung einer neuen Haltestellenposition am Ostbahnhof; Frist zur Anhörung: 01.03.2023
+- TOP 3.2.2.: Kreuzung Kreillerstraße / Baumkirchner Straße: Parksituation im Halteverbot; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Birkkarspitzstraße (zw. Bad-Schachener und Oedkarspitzstraße): Einführung eines absoluten Haltverbots; Frist zur Anhörung: 09.03.2023
+- TOP 3.2.4.: Parklizenzgebiet in Berg am Laim endlich realisieren; Antrag der SPD-Fraktion
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Haus für Kinder in der Grafinger Str. 67: Bitte um Unterstützung bei der Renovierung; Anliegen aus der Bürgerschaft
+- TOP 3.3.2.: Bezirksübergreifender Antrag von CultureClouds e.V. - Zirkus Pumpernudl in städt. Grünanlagen vom 31.03.2023 - 02.07.2023; Frist zur Anhörung: 13.03.2023
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Vorschläge zum neuen Medizinkonzept der München-Klinik und zur Notfallversorgung; Anliegen aus der Bürgerschaft
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Gedenkveranstaltung zum 80. Todestag von Sophie Scholl am 22.02.2023 203,50 € / Az. 0262.0-14-0351
+- TOP 3.5.2.: (E) Stadtbezirksbudget democraticArts gGmbH democraticArts-Seminar, Workshops, -Jugendteam vom 01.03. - 31.12.2023 9.787,82 € / Az. 0262.0-14-0352
+- TOP 3.5.3.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 € / Az. 0262.0-14-0350
+- TOP 3.5.4.: Budgetbeschluss zum Kinderfest in der Grünanlage an der St.-Veit-Straße
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Hachinger-Bach-Str. 16
+- TOP 3.6.2.: Halserspitzstr. 25
+- TOP 3.6.3.: Dingolfinger Str. 1 - Umbau und Erweiterung einer Gewerbeimmobilie - VORBESCHEID
+- TOP 3.6.4.: Heinrich-Wieland-Str. 5
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Hochbeete für Berg am Laim
+- TOP 4.1.2.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 4.1.3.: Berg-am-Laim-Straße / Schlüsselbergstraße: Information zum Umgang mit steigender Taubenpopulation
+- TOP 4.1.4.: Umbau der Grünanlage an der Echardinger Straße / Delikte rund um den Edeka an der Bad-Schachener-Straße
+- TOP 4.1.5.: Errichtung eines Trinkwasserbrunnens in der Maikäfersiedlung
+- TOP 4.1.6.: Calisthenics-Anlage am Rahel-Straus-Weg: Beleuchtung in den Abendstunden
+- TOP 4.1.7.: Klimaanpassung vor Ort I: Fassadenbegrünung an städtischen Gebäuden in Berg am Laim – Ergebnis der Potentialanalysen und Umsetzungsfahr
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Zeitlich begrenztes Parkverbot an der Kreuzung St.-Veit-Straße / Kreillerstraße von 7.00 – 9.00 Uhr an Werktagen - Antwortschreiben -
+- TOP 4.2.2.: Rotmarkierung der Radspuren in der Baumkirchner Straße, Antrag des BA 14 auf Bestellung städtischer Leistungen
+- TOP 4.2.3.: Dieselfahrverbot - Auswirkungen auf Berg am Laim?
+- TOP 4.2.4.: Kennzeichnung der Ausfahrt des Radweges in der Pertisaustraße
+- TOP 4.2.5.: Behindertenparkplatz in der Kreillerstraße
+- TOP 4.2.6.: Neumarkter Straße: Fahrbahnsanierung zwischen Baumkirchner Straße und Weihenstephaner Straße
+- TOP 4.2.7.: Arbeiten im Straßenraum: Information über Sperrung der Tunnelkette Mittlerer Ring Ost vom 27.03.23 bis 31.03.23
+- TOP 4.2.8.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2020-2021
+- TOP 4.2.9.: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 4.2.10.: Antrag auf Fahrrad- oder Lastenradabstellplätze in der Hermann-Weinhauser-Straße
+- TOP 4.2.11.: Schlüsselbergstraße: Erweiterung des Fernwärmenetzes
+- TOP 4.2.12.: Wohnortnahe Versorgung von Bioprodukten im Stadtviertel
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 4.3.2.: Erneuerung des Streetball-/Basketball-Platzes im Michaelianger/Mehr Basketballplätze im Stadtviertel
+- TOP 4.3.3.: Regelmäßige Aktualisierung des Dienstleistungsfinders für Sportanlagen der Landeshauptstadt München
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Nachtspaziergänge: Angebot der Fachstelle MoNa
+- TOP 4.4.2.: Aktualisierte Übersicht der Unterkünfte für Geflüchtete und Wohnungslose zum Stand Dezember 2022
+- TOP 4.4.3.: (U) Partizipation 2.0 reloaded
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Sonnwendjochstr. 116 a; Fällgenehmigung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
