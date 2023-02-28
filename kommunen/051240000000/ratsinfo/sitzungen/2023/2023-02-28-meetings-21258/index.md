@@ -1,0 +1,62 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-02-28T16:11:00+01:00
+- Ende: 2023-02-28T17:12:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21258
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21258
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 20.02.2023 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00307841.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00308993.pdf
+
+## Tagesordnung
+
+- TOP 1: Smart-City-Strategie - vertagen
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss 2021 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 2.1.1: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 2.2: Jahresabschluss und Lagebericht 2020 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2.2.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 4: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 5.1: Neuvergabe der Strom- und Gaskonzessionen - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: Mündlicher Bericht: Stärkungspakt - Entgegennahme ohne Beschluss
+- TOP 7.2: Überprüfung der Vergaberegeln und –prozesse - Entgegennahme ohne Beschluss
+- TOP 7.3: Sachstandsbericht zum Projekt SAP S/4HANA - Entgegennahme ohne Beschluss
+- TOP 7.4: Einsatz von Leiharbeitnehmer*innen im Wege der Arbeitnehmerüberlassung bei der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 7.5: Prüfung der Einrichtung einer Begegnungs- und Erinnerungsstätte zu Ehren der Leistungen der Gastarbeiterinnen und Gastarbeiter - Entgegennahme ohne Beschluss
+- TOP 8: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 8.1: Bundesgartenschau Wuppertal 2031 gGmbH - Besetzung des Aufsichtsrates und Bestellung der Geschäftsführung der Gesellschaft - zurückgezogen
+- TOP 8.2: Beitritt CIVITAS CONNECT e. V. - ungeändert beschlossen
+- TOP 8.3: Entgeltordnung des von der Heydt-Museums - ungeändert beschlossen
+- TOP 8.4: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2022 bis 31.12.2023 für das Altenheim Vogelsangstraße - ungeändert beschlossen
+- TOP 8.5: Städtisches Förderprogramm "Energieeffizientes Zuhause" - ungeändert beschlossen
+- TOP 8.6: Sachstand Übergang Bauvorhaben Klingelholl – Antrag der Fraktionen von CDU und FDP vom 20.02.2023 - ungeändert beschlossen
+- TOP 9: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 10: Berichtsvorlagen
+- TOP 10.1: Finco-Bericht zum 30.11.2022 - Entgegennahme ohne Beschluss
+- TOP 10.2: Stand der Investitions- und Kassenkredite zum 31.12.2022 - Entgegennahme ohne Beschluss
+- TOP 10.3: Klage gegen den Festsetzungsbescheid für die Zuweisungen aus dem Gemeindefinanzierungsgesetz 2023 - Entgegennahme ohne Beschluss
+- TOP 10.4: Gemeindeanteil an der Einkommensteuer und an der Umsatzsteuer - aktuelle Entwicklungen - Entgegennahme ohne Beschluss
+- TOP 10.5: Dienstanweisungen des Ressorts Finanzen - Entgegennahme ohne Beschluss
+- TOP 11: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 11.1: Einbringung des Haushaltsplanentwurfes 2023 - vertagen
+- TOP 11.2: Wiederaufbauplan Stadt Wuppertal - ungeändert beschlossen
+- TOP 12: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 13: Berichtsvorlagen
+- TOP 13.1: Informationen zur Verlängerung des Wuppersammlers inkl. neuer Kostenprognose - Entgegennahme ohne Beschluss
+- TOP 13.2: Veröffentlichung des Prüfvermerks der Gemeindeprüfungsanstalt zum Jahresabschluss des Eigenbetriebes WAW für das Jahr 2020 - Entgegennahme ohne Beschluss
+- TOP 14: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 14.1: Wirtschaftsplan 2023 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 14.2: 17. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 15: Berichte und Mitteilungen
