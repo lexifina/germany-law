@@ -1,0 +1,54 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-02-28T15:00:00+01:00
+- Ende: 2023-02-28T16:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27361
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27361
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin für den Integrationsrat - ungeändert beschlossen
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Situation der Ausländerbehörde AN/2015/2022 Beantwortung - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage zur Situation in der Ausländerbehörde: Rückstandsabbau und Vorbereitung Einbürgerung syrischer Geflüchteter - Kenntnis genommen
+- TOP 3.2: Anfrage zu WLAN am Wohnheim für Geflüchtete Poller Holzweg - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Einrichtung von bilingualen Kitas - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage zur Einrichtung bilingualer Kitas (AN/0256/2023) - Kenntnis genommen
+- TOP 4.2: Anfrage zur Unterstützung der Polnischen Schule am Generalkonsulat der Republik Polen in Köln - Kenntnis genommen
+- TOP -: Anfrage zur Unterstützung der Polnischen Schule am Generalkonsulat der Republik Polen in Köln - Kenntnis genommen
+- TOP 4.3: Anfrage: Aktueller Stand DOMID und Halle 71 - zurückgestellt
+- TOP 4.4: Anfrage: Schnelle Bearbeitung von Visaverfahren nach der Erdbebenkatastrophe in der Türkei und in Syrien - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 5.2: Berichte zur Situation Geflüchteter - Kenntnis genommen
+- TOP 5.3: Zwischenbilanzierung der Gesamtstrategie „Kölner Kinder stärken!“ zur Prävention von Kinder-, Jugend- und Familienarmut und Ausblick auf die strategische Weiterentwicklung in 2023 - Kenntnis genommen
+- TOP 5.4: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 5.5: LSBTI-Aktionsplan: erste Zwischenbilanz - Kenntnis genommen
+- TOP 5.6: 3. Quartalsbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.7: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 5.8: Stadt Köln integriert automatischen Übersetzer auf stadt.koeln - Kenntnis genommen
+- TOP 5.9: Diversität in den städtischen kulturellen Institutionen - Kenntnis genommen
+- TOP 5.10: Evaluation der Veranstaltungsreihe zu diversen Gesundheitsthemen durch den Caritasverband der Stadt Köln e.V. (September bis Dezember 2022) - zurückgestellt
+- TOP 5.11: Sachstand Auszugsmanagement – Wohnraumakquise für Geflüchtete aus der Ukraine - Kenntnis genommen
+- TOP 5.12: Sprachen in Köln - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Aufarbeitung Corona Maßnahmen - endgültig abgelehnt
+- TOP -: Änderungsantrag zum Antrag Aufarbeitung Corona Maßnahmen (AN/0275/2023) - endgültig zurückgezogen
+- TOP 6.2: Antrag: Visaerleichterungen für Erdbebenopfer - geändert beschlossen
+- TOP 6.3: Antrag: Unbürokratische Hilfe und Unterstützung der Erdbebenopfer - ungeändert beschlossen
+- TOP 6.4: Antrag zur Erstellung von Informationsmaterialien und Durchführung einer Informationsveranstaltung im Kontext des Erdbebens in der Türkei und Syrien - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Str. 219a, 51063 Köln-Mülheim, Gemarkung Dünnwald, Flur 61, Flurstück 1941 - Baubeschluss - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
