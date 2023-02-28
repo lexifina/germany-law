@@ -1,0 +1,58 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-02-28T16:00:00+01:00
+- Ende: 2023-02-28T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24193
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24193
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/001/2023 vom 24.01.2023 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Vorstellung des Konzeptes eines Suchthilfezentrums in der Flurstraße 45 - mündlicher Bericht zum Beschluss der Bezirksvertretung 2, Vorlage BV2/087/2022 - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktualisierung von beschlossenen schulorganisatorischen Maßnahmen an den städtischen Gymnasien - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 7: Tanz- und Choreographieprojekt „Bewegung schafft Energie“ mit Schülern der Thomas-Edison-Realschule - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 8: Förderung des Tanz- und Choreographieprojekts mit Schülern der Thomas-Edison-Realschule aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 9: Schilder Kinderstadtteilkarten - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 10: Liegebänke Schillerplatz - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 11: Aufstellung eines zweiten Basketballkorbes auf dem Sportgelände im Stadtwerkepark - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 12: Ausstattung des Spielplatzes Eduard-Schloemann-Str. 55 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 13: Verkehrsberuhigter Bereich Eduard-Schloemann-Str. ab Haus Nr. 47 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 14: Instandsetzung der Fahrbahndecke in der Achenbachstraße und Abpollerung der Achenbach- hin zur Schumannstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Radleitroute Ost-West und Umbau Kreuzung Lindemannstraße zusammen planen und umsetzen - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 17: digitales Sitzungspaket weiter bereitstellen - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Zweispurige Führung des Radverkehrs über die Rethelstraße in beide Fahrtrichtungen - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 23: Fahrradweg Graf-Recke-Straße - Anfrage der FDP-Fraktion - beantwortet
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: leerstehender früherer Brauereiausschank Im Tönnchen, Wetterstrasse 2/Ecke Lindenstrasse - Anfrage der CDU-Fraktion
+- TOP 26: Erfahrungswerte Anwohnerparken - Anfrage der CDU-Fraktion
+- TOP 27: Treppenabgang Moschee - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Erneuerung des Brückengeländers entlang der Düssel an der Kühlwetterstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 31: Umsetzbarkeit einer Geschwindigkeitsbegrenzung auf 30 km/h für die gesamte Rethelstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Aufstellung beschlossener Sitzbänke - Anfrage der CDU-Fraktion - beantwortet
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Anwohnerparkgebiete in Flingern-Süd - Anfrage der CDU-Fraktion
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 39: Fuß- und Radweg Heinrichstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/037/2022
