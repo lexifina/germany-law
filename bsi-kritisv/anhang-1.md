@@ -4,49 +4,49 @@ Teil 1
 Grundsätze und Fristen
 1. Für die in Teil 3 Spalte B genannten Anlagenkategorien gelten vorrangig die Begriffsbestimmungen nach § 3 des Energiewirtschaftsgesetzes und nach § 2 des Kraft-Wärme-Kopplungsgesetzes in der jeweils geltenden Fassung.
 2. Im Sinne von Anhang 1 ist oder sind
-  2.1) Erzeugungsanlage
+  2.1 Erzeugungsanlage
     eine Anlage im Sinne des § 3 Nummer 18c des Energiewirtschaftsgesetzes. Diese Kategorie umfasst auch Anlagen zur Speicherung von elektrischer Energie sowie dezentrale Energieerzeugungsanlagen im Sinne des § 3 Nummer 11 des Energiewirtschaftsgesetzes.
-  2.2) Anlage oder System zur Bündelung und Steuerung elektrischer Leistung
+  2.2 Anlage oder System zur Bündelung und Steuerung elektrischer Leistung
     eine Anlage oder ein System zur Bündelung elektrischer Leistung und Steuerung von Erzeugungsanlagen oder dezentraler Energieerzeugungsanlagen, insbesondere zur Anwendung bei Direktvermarktungsunternehmen im Sinne des § 3 Nummer 17 des Erneuerbare-Energien-Gesetzes. Unter den Begriff der Steuerung fallen auch die die Anlagen betreffenden Schalthandlungen.
-  2.3) Übertragungsnetz
+  2.3 Übertragungsnetz
     ein Netz zur Übertragung im Sinne des § 3 Nummer 32 des Energiewirtschaftsgesetzes.
-  2.4) Zentrale Anlage oder System für den Stromhandel
+  2.4 Zentrale Anlage oder System für den Stromhandel
     eine Anlage oder ein elektronisches Handelssystem, das den physischen, kurzfristigen Spothandel sowie den Terminhandel mit Energie für das deutsche Marktgebiet betrifft.
-  2.5) Stromverteilernetz
+  2.5 Stromverteilernetz
     ein Netz zur Verteilung von Elektrizität im Sinne des § 3 Nummer 37 des Energiewirtschaftsgesetzes.
-  2.6) Gasförderanlage
+  2.6 Gasförderanlage
     eine Anlage zur Förderung von Erdgas aus einer Bohrung.
-  2.7) Anlage zur zentralen standortübergreifenden Steuerung
+  2.7 Anlage zur zentralen standortübergreifenden Steuerung
     eine Anlage oder ein IT-System, durch das eine oder mehrere Anlagen standortübergreifend gesteuert oder überwacht werden.
-  2.8) Fernleitungsnetz
+  2.8 Fernleitungsnetz
     ein Netz zur Fernleitung im Sinne des § 3 Nummer 19 des Energiewirtschaftsgesetzes.
-  2.9) Gasgrenzübergabestelle
+  2.9 Gasgrenzübergabestelle
     eine Netzkoppelstelle, die in der Regel zwischen einem deutschen Fernleitungsnetz und dem eines anderen Staates besteht, soweit diese nicht von einem deutschen Fernleitungsnetzbetreiber als Bestandteil dessen Fernleitungsnetzes betrieben wird.
-  2.10) Gasspeicher
+  2.10 Gasspeicher
     eine Speicheranlage im Sinne des § 3 Nummer 31 des Energiewirtschaftsgesetzes.
-  2.11) Gasverteilernetz
+  2.11 Gasverteilernetz
     ein Netz zur Verteilung von Gas im Sinne des § 3 Nummer 37 des Energiewirtschaftsgesetzes.
-  2.12) Gashandelssystem
+  2.12 Gashandelssystem
     eine Anlage oder ein elektronisches Handelssystem für den Handel von Gasmengen oder -kapazitäten.
-  2.13) Ölförderanlage
+  2.13 Ölförderanlage
     eine Anlage zur Förderung von Erdöl aus einer Bohrung.
-  2.14) Raffinerie
+  2.14 Raffinerie
     eine Anlage zur Destillation oder Raffination oder sonstigen Weiterverarbeitung von Erdöl in Mineralölraffinerien im Sinne der Nummer 4.3 der Anlage 1 des Gesetzes über die Umweltverträglichkeitsprüfung.
-  2.15) Mineralölfernleitung
+  2.15 Mineralölfernleitung
     eine Rohrfernleitung im Sinne der Rohrfernleitungsverordnung zum Transport von Erdöl oder Erdölprodukten.
-  2.16) Erdöl- und Erdölproduktenlager
+  2.16 Erdöl- und Erdölproduktenlager
     eine Anlage zur Lagerung von Erdöl oder Mineralölprodukten.
-  2.17) Anlage oder System von Aggregatoren zum Vertrieb von Kraftstoff und Heizöl
+  2.17 Anlage oder System von Aggregatoren zum Vertrieb von Kraftstoff und Heizöl
     eine Anlage oder ein IT-System, das zur Disposition insbesondere von Tankkraftwagen, Kesselwagen oder Binnenschiffen verwendet wird, mit dem Ziel, den Vertrieb von Kraftstoff oder Heizöl abzuwickeln, zu koordinieren oder zu optimieren, unabhängig davon, ob durch die Anlage oder das IT-System Verbraucher beliefert werden.
-  2.18) Tankstellennetz
+  2.18 Tankstellennetz
     eine Anlage oder ein System zur Verbindung voneinander unabhängiger Tankstellen oder Flugfeldbetankungsanlagen mittels zentraler Komponenten (beispielsweise physischer oder datentechnischer Verbindungen). Eine zentrale Komponente dient der zentralen Erbringung wichtiger Aufgaben für den Betrieb der Tankstellen oder Flugfeldbetankungsanlagen eines Tankstellennetzes zur Versorgung mit Kraftstoff.
-  2.19) Anlage oder System zur zentralen kommerziellen Steuerung
+  2.19 Anlage oder System zur zentralen kommerziellen Steuerung
     eine Anlage oder ein System zur zentralen Steuerung oder Koordinierung der Betriebsplanung einer oder mehrerer Anlagen oder zur kommerziellen Abwicklung für eine oder mehrere Anlagen, soweit diese zum Betrieb notwendig sind. Dazu zählen auch Clearing-Instanzen oder Kollaborationslösungen, die als Cloud-Lösung betrieben werden.
-  2.20) Heizwerk
+  2.20 Heizwerk
     eine Anlage zur Erzeugung von Wärme zur Belieferung von Endkunden im Sinne der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme.
-  2.21) Heizkraftwerk
+  2.21 Heizkraftwerk
     eine KWK-Anlage im Sinne des § 2 Nummer 14 des Kraft-Wärme-Kopplungsgesetzes.
-  2.22) Fernwärmenetz
+  2.22 Fernwärmenetz
     ein Netz zur Versorgung der Allgemeinheit mit Wärme.
 3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 4. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.

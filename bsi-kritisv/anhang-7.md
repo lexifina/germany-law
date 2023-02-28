@@ -3,61 +3,61 @@
 Teil 1
 Grundsätze und Fristen
 1. Im Sinne von Anhang 7 ist oder sind
-  1.1) Anlage oder System zur Passagierabfertigung an Flugplätzen
+  1.1 Anlage oder System zur Passagierabfertigung an Flugplätzen
     eine Anlage oder ein System für die Passagier- oder Gepäckabfertigung im Sinne von § 2 Nummer 4 in Verbindung mit Anlage 1 Nummer 2 oder 3 der Bodenabfertigungsdienst-Verordnung.
-  1.2) Anlage oder System zur Frachtabfertigung an Flugplätzen
+  1.2 Anlage oder System zur Frachtabfertigung an Flugplätzen
     eine Anlage oder ein System zur Abfertigung von Fracht im Luftverkehr im Sinne von § 2 Nummer 4 in Verbindung mit Anlage 1 Nummer 4 der Bodenabfertigungsdienst-Verordnung.
-  1.3) Infrastrukturbetrieb eines Flugplatzes
+  1.3 Infrastrukturbetrieb eines Flugplatzes
     die Gesamtheit aller Anlagen oder Systeme zur Erbringung von sonstigen Bodenabfertigungsdiensten nach § 2 Nummer 4 in Verbindung mit Anlage 1 Nummer 5, 7, 9 oder 10 der Bodenabfertigungsdienst-Verordnung.
-  1.4) Anlage zur Erbringung von Flugsicherungsdiensten
+  1.4 Anlage zur Erbringung von Flugsicherungsdiensten
     eine Anlage oder ein System der Flugsicherungsdienste nach der Durchführungsverordnung (EU) 2017/373 der Kommission vom 1. März 2017 zur Festlegung gemeinsamer Anforderungen an Flugverkehrsmanagementanbieter und Anbieter von Flugsicherungsdiensten sowie sonstiger Funktionen des Flugverkehrsmanagementnetzes und die Aufsicht hierüber sowie zur Aufhebung der Verordnung (EG) Nr. 482/2008, der Durchführungsverordnungen (EU) Nr. 1034/2011, (EU) Nr. 1035/2011 und (EU) 2016/1377 und zur Änderung der Verordnung (EU) Nr. 677/2011 (ABl. L 62 vom 8.3.2017, S. 1; L 15 vom 20.1.2020, S. 9), die durch die Durchführungsverordnung (EU) 2020/469 (ABl. L 104 vom 3.4.2020, S. 1) geändert worden ist.
-  1.5) Verkehrszentrale einer Fluggesellschaft
+  1.5 Verkehrszentrale einer Fluggesellschaft
     eine Anlage oder ein System einer Fluggesellschaft zur Planung, Steuerung oder Überwachung des Flugbetriebs, zur Disposition von Personal oder zur Disposition des Wartungsbetriebs.
-  1.6) Flughafenleitungsorgan
+  1.6 Flughafenleitungsorgan
     eine Anlage oder ein System zur Verwaltung oder zum Betrieb der Einrichtungen eines Flughafens oder Flughafennetzes oder zur Koordinierung oder Überwachung der Tätigkeiten der verschiedenen Akteure auf einem Flughafen oder in einem Flughafennetz.
-  1.7) Personenbahnhof der Eisenbahn
+  1.7 Personenbahnhof der Eisenbahn
     ein Bahnhof zur Abwicklung des Reiseverkehrs gemäß § 4 Absatz 1 und 2 der Eisenbahn-Bau- und Betriebsordnung.
-  1.8) Güterbahnhof
+  1.8 Güterbahnhof
     ein Bahnhof zur Abwicklung des Güterverkehrs gemäß § 4 Absatz 1 und 2 der Eisenbahn-Bau- und Betriebsordnung.
-  1.9) Zugbildungsbahnhof
+  1.9 Zugbildungsbahnhof
     ein Bahnhof zur Bildung von Zügen (Einzelwagen, Ganzzüge sowie kombinierter Verkehr).
-  1.10) Schienennetz und Stellwerke der Eisenbahn
+  1.10 Schienennetz und Stellwerke der Eisenbahn
     ein Schienennetz gemäß § 4 Absatz 3 bis 7 und 10 bis 11 der Eisenbahn-Bau- und Betriebsordnung einschließlich der zugehörigen Stellwerke.
-  1.11) Verkehrssteuerungs- und Leitsystem der Eisenbahn
+  1.11 Verkehrssteuerungs- und Leitsystem der Eisenbahn
     die zentrale Einrichtung des Eisenbahninfrastrukturbetreibers, die den Zugbetrieb vorausschauend und bei unerwartet eintretenden Ereignissen disponiert.
-  1.12) Leitzentrale der Eisenbahn
+  1.12 Leitzentrale der Eisenbahn
     eine regionale oder überregionale zentrale Einrichtung des Eisenbahnverkehrsunternehmens zur Überwachung des betrieblichen Ist-Zustandes, zur Einleitung von Maßnahmen bei Verspätungen oder Störungsfällen oder zur Disposition der unternehmenseigenen Züge, des Personals oder der Instandhaltung der Fahrzeuge.
-  1.13) Anlage oder System zum Betrieb von Bundeswasserstraßen
+  1.13 Anlage oder System zum Betrieb von Bundeswasserstraßen
     eine Anlage oder ein System zum sicheren Betrieb einer Wasserstraße nach § 1 Absatz 4 Nummer 1 des Bundeswasserstraßengesetzes.
-  1.14) Verkehrssteuerungs- und Leitsystem der See- und Binnenschifffahrt
+  1.14 Verkehrssteuerungs- und Leitsystem der See- und Binnenschifffahrt
     Revier- und Verkehrszentralen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.
-  1.15) Leitzentrale von Betreibern und Verkehrsunternehmen der Seeschifffahrt
+  1.15 Leitzentrale von Betreibern und Verkehrsunternehmen der Seeschifffahrt
     eine Anlage oder ein System zur operativen Steuerung oder zur Disposition des Schiffsraums von Seeschiffen.
-  1.16) Leitzentrale von Betreibern und Verkehrsunternehmen der Binnenschifffahrt (nur Güterverkehr)
+  1.16 Leitzentrale von Betreibern und Verkehrsunternehmen der Binnenschifffahrt (nur Güterverkehr)
     eine Anlage oder ein System zur operativen Steuerung oder zur Disposition des Schiffsraums der Binnenschifffahrtsflotte.
-  1.17) Umschlaganlage in See- und Binnenhäfen
+  1.17 Umschlaganlage in See- und Binnenhäfen
     eine Umschlaganlage in einem See- oder Binnenhafen, in der Container oder lose, unverpackte Güter zwischen Verkehrsträgern (auch den gleichen) be- und entladen, umgeschlagen, sortiert oder zwischenabgestellt werden.
-  1.18) Hafenleitungsorgan (nur Güterverkehr)
+  1.18 Hafenleitungsorgan (nur Güterverkehr)
     eine Anlage oder ein System zur Koordinierung des Hafenverkehrs, zur Verwaltung des Hafenverkehrs oder zur Koordinierung oder zur Überwachung der Tätigkeiten der Akteure in dem betreffenden Hafen.
-  1.19) Hafeninformationssystem
+  1.19 Hafeninformationssystem
     eine Anlage oder ein System einer übergreifenden IT-Plattform, welches als Port Community System (PCS), Cargo Community System (CCS) oder Single Submission Portal (SSP) oder der Erfüllung der gesetzlichen Anforderungen an die Hafenanmeldungen nach Artikel 4 der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten und zur Aufhebung der Richtlinie 2002/6/EG (ABl. L 283 vom 29.10.2010, S. 1), die zuletzt durch die Richtlinie (EU) 2019/883 (ABl. L 151 vom 7.6.2019, S. 116) geändert worden ist, dient.
-  1.20) Verkehrssteuerungs- und Leitsystem
+  1.20 Verkehrssteuerungs- und Leitsystem
     eine Anlage oder ein System zur Verkehrsbeeinflussung im Straßenverkehr einschließlich der in § 1 Absatz 4 Nummer 1, 3 und 4 des Bundesfernstraßengesetzes genannten Einrichtungen, zum Beispiel Verkehrs-, Betriebs- und Tunnelleitzentralen, Entwässerungsanlagen, intelligente Verkehrssysteme und Fachstellen für Informationstechnik und -sicherheit im Straßenbau, sowie der Telekommunikationsnetze der Bundesautobahnen.
-  1.21) Verkehrssteuerungs- und Leitsystem im kommunalen Straßenverkehr
+  1.21 Verkehrssteuerungs- und Leitsystem im kommunalen Straßenverkehr
     ein System für die kommunale Steuerung und Überwachung von Lichtsignalanlagen, von Verkehrsbeeinflussungsanlagen sowie von Verkehrswarn- und Informationssystemen.
-  1.22) Intelligentes Verkehrssystem
+  1.22 Intelligentes Verkehrssystem
     ein intelligentes Verkehrssystem im Sinne des § 2 Nummer 1 des Intelligente Verkehrssysteme Gesetz.
-  1.23) Schienennetz und Stellwerke des öffentlichen Straßenpersonenverkehrs (ÖSPV)
+  1.23 Schienennetz und Stellwerke des öffentlichen Straßenpersonenverkehrs (ÖSPV)
     das schienengebundene Netz des ÖSPV im Sinne des § 4 Absatz 1 bis 3 des Personenbeförderungsgesetzes einschließlich der zu diesen Strecken und Haltestellen gehörenden Stellwerke und Beeinflussungsanlagen sowie der Fahrstromversorgung.
-  1.24) Leitzentrale des ÖSPV
+  1.24 Leitzentrale des ÖSPV
     eine Anlage oder ein System zur betreiberseitigen Überwachung und Steuerung des Verkehrs einschließlich Systeme für die Fahrgastsicherheit und Fahrgastinformation, zur Personaldisposition und Fahrzeugdisposition, auch zur Fahrzeugbereitstellung im Betriebshof, sowie der Flottentelematik. Systeme für die Fahrgastsicherheit und Fahrgastinformation sowie zur Personaldisposition und Fahrzeugdisposition sind nur insoweit erfasst, als deren Störung das Potenzial aufweist, die kritische Dienstleistung erheblich kapazitiv zu beeinträchtigen, oder sie zur Evakuierung im Notfall kritisch sind, insbesondere in unterirdischen Verkehrsanlagen.
-  1.25) Anlage oder System zur Erbringung operativer Logistikleistungen
+  1.25 Anlage oder System zur Erbringung operativer Logistikleistungen
     eine Anlage oder ein System zur Bereitstellung, Verteilung, Lagerung, Bearbeitung oder zum Transport oder Umschlag von Gütern in den Segmenten Massengut, Ladungsverkehr, Stückgut, Kontraktlogistik sowie See- und Luftfracht.
-  1.26) IT-System zur Logistiksteuerung oder -verwaltung
+  1.26 IT-System zur Logistiksteuerung oder -verwaltung
     ein betreiberseitiges, zentrales IT-System zur Gesamtkoordinierung und -steuerung von Logistikdienstleistungen in den Segmenten Massengut, Ladungsverkehr, Stückgut, Kontraktlogistik sowie See- und Luftfracht.
-  1.27) Anlage zur Wettervorhersage, zur Gezeitenvorhersage oder zur Wasserstandsmeldung
+  1.27 Anlage zur Wettervorhersage, zur Gezeitenvorhersage oder zur Wasserstandsmeldung
     eine Anlage oder ein System zur Erbringung von Wettervorhersagen, insbesondere im Kürzestfristbereich (bis zu 12 Stunden), sowie zur Messung von Gezeiten- und Wasserstand (Pegelstation).
-  1.28) Bodenstation eines europäischen Satellitennavigationssystems
+  1.28 Bodenstation eines europäischen Satellitennavigationssystems
     eine Bodenstation im Sinne des Artikels 28 der Verordnung (EU) Nr. 1285/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 betreffend den Aufbau und den Betrieb der europäischen Satellitennavigationssysteme und zur Aufhebung der Verordnung (EG) Nr. 876/2002 des Rates und der Verordnung (EG) Nr. 683/2008 des Europäischen Parlaments und des Rates (ABl. L 347 vom 20.12.2013, S. 1).
 2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 3. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.

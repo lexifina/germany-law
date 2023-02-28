@@ -3,25 +3,25 @@
 Teil 1
 Grundsätze und Fristen
 1. Im Sinne von Anhang 5 ist oder sind
-  1.1) Krankenhaus
+  1.1 Krankenhaus
     ein zugelassenes Krankenhaus im Sinne des § 108 des Fünften Buches Sozialgesetzbuch.
-  1.2) Produktionsstätte für unmittelbar lebenserhaltende Medizinprodukte, die Verbrauchsgüter sind
+  1.2 Produktionsstätte für unmittelbar lebenserhaltende Medizinprodukte, die Verbrauchsgüter sind
     eine Betriebsstätte, in der Medizinprodukte für Beatmung/Tracheostomie, parenterale Ernährung, enterale Ernährung, ableitende Inkontinenz, Dialyse und Diabetes – Typ 1 hergestellt werden.
-  1.3) Abgabestelle
+  1.3 Abgabestelle
     eine Einrichtung, in der Medizinprodukte für Beatmung/Tracheostomie, parenterale Ernährung, enterale Ernährung, ableitende Inkontinenz und Diabetes – Typ 1 abgegeben werden.
-  1.4) Produktionsstätte für verschreibungspflichtige Arzneimittel zur Anwendung im oder am menschlichen Körper
+  1.4 Produktionsstätte für verschreibungspflichtige Arzneimittel zur Anwendung im oder am menschlichen Körper
     eine Betriebsstätte, die auf der Grundlage einer Herstellungserlaubnis nach § 13 des Arzneimittelgesetzes Hilfsstoffe und Hilfsmaterialien sowie Wirkstoffe zu verschreibungspflichtigen Arzneimitteln zur Anwendung im oder am menschlichen Körper nach § 48 Absatz 1 des Arzneimittelgesetzes verarbeitet.
-  1.5) Blut- oder Plasmaspendensteuerungssystem
+  1.5 Blut- oder Plasmaspendensteuerungssystem
     ein zentrales IT-System in Blutspendeeinrichtungen oder Herstellungseinheiten zur Steuerung und Verwaltung von Entnahme und Weiterverarbeitung von Blut- oder Plasmaspenden zur Anwendung im oder am menschlichen Körper.
-  1.7) Betriebs- und Lagerraum
+  1.7 Betriebs- und Lagerraum
     eine Einrichtung zur kurzzeitigen Lagerung von verschreibungspflichtigen Arzneimitteln, von Blutspenden und Blut- und Plasmaderivaten sowie zur Weiterverarbeitung oder Aufbereitung von Blutspenden und Blut- und Plasmaderivaten zur Anwendung im oder am menschlichen Körper; Teil der Einrichtung sind Anlagen und Systeme für den Wareneingang, die Lagerung und den Warenausgang.
-  1.8) Anlage oder System zum Vertrieb von verschreibungspflichtigen Arzneimitteln
+  1.8 Anlage oder System zum Vertrieb von verschreibungspflichtigen Arzneimitteln
     ein zentrales Logistikmanagementsystem für den Vertrieb und die Disposition von verschreibungspflichtigen Arzneimitteln zur Anwendung im oder am menschlichen Körper.
-  1.9) Apotheke
+  1.9 Apotheke
     eine Einrichtung im Sinne des ersten Abschnitts des Apothekengesetzes zur Bereitstellung verschreibungspflichtiger Arzneimittel für Patienten.
-  1.10) Labor
+  1.10 Labor
     eine Einrichtung, in der medizinische labordiagnostische Verfahren für Diagnose und Therapiekontrolle in der Humanmedizin durchgeführt und deren Ergebnisse fachärztlich befundet werden.
-  1.11) Laborinformationsverbund
+  1.11 Laborinformationsverbund
     ein Verbund von Anlagen oder Systemen, die IT-Dienstleistungen für Diagnose und Therapiekontrolle in der Humanmedizin für mindestens ein Labor zur Verfügung stellen; zu den IT-Dienstleistungen zählen insbesondere die Steuerung des Probentransports, die Kommunikation zum Auftragseingang und zur Befundübermittlung sowie der Betrieb eines Laborinformationssystems.
 2. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 3. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.
