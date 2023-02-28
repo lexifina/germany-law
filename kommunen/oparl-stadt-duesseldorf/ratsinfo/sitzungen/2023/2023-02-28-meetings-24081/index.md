@@ -1,0 +1,54 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-02-28T17:00:00+01:00
+- Ende: 2023-02-28T18:15:00+01:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24081
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24081
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00477067.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00477067.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00477067.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - vertagt
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Verlegung der Sitzung der Bezirksvertretung 10 vom 12.06.2023 auf den 20.06.2023 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.2: Umbenennung des Sonnenplatzes in Garath in „Miep-Gies-Platz“ - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Fahrbahnerneuerung der Frankfurter Straße im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Auswirkungen veränderter Kommunalwahlbezirke - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Fahrstuhl am S-Bahnhof Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.4: Errichtung Taubenhaus - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.5: Informationsportal mit Lotsenfunktion - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Sachstand der Perspektiven der Stadtteilzentren im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.11: Tauben-Vergrämung-Maßnahme in Hellerhof - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Dynamisches Fahrgastinformationssystem am S-Bahnhof Hellerhof - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Fortschreibung der Sozialräumlichen Gliederung - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Raum für die Geschichtswerkstatt Garath/Hellerhof am Schulstandort Emil-Barth-Straße 45 - Gemeinsamer Antrag der Mitglieder der BV 10 - - einstimmig beschlossen
+- TOP 7.5: Schulwegsicherung - Einführung von Tempo 30 auf der Koblenzer Straße Höhe der Kreuzung Koblenzer Straße / Rostocker bzw. Josef-Maria-Olbrich Straße bis mindestens Einmündung Theodor-Litt-Straße - Antrag der Fraktion BÜ90//DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.6: Statistische Daten für die Stadtteile Garath und Hellerhof und Sozialräume - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.7: Umsetzung der in der Informationsvorlage zum 25.01.22 beschriebenen Maßnahmen zur Verkehrssicherheit - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.8: Instandsetzungsmaßnahmen Frankfurter Straße - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Einkaufswagen in Wohngebieten - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Ökologische Ertüchtigung, Klimaanpassung und gestalterische Aufwertung des Platzes vor der Grundschule Hellerhof, BV10/136/2022 - Informationsvorlage zum Beschluss BV10/136/2022 vom 27.09.2022 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
