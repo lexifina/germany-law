@@ -1,0 +1,167 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-02-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7368391
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7368391
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Schul Neubau Gottfried Böhm Ring
+- TOP 6.2.: Böllerei im Westpark
+- TOP 6.3.: Geplanter Fitnessparcours Westpark Ost
+- TOP 6.4.: Behindertenparkplatz innerhalb des öffentlichen Parkplatzes in Höhe Siegenburgerstr.
+- TOP 6.5.: Anfrage Loipe Westpark
+- TOP 6.6.: Zunehmendes Müllproblem im Stadtbezirk
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Wahl des zweiten Vorstand
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) + (U) Windkraftanlagen für den 7. Stadtbezirk Empfehlung Nr. 20-26 / E 00986 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 27.10.2022
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Isarlust e.V. “Kulturlieferdienst vom 06.02.2023 – 31.12.2023“ 4.760,00 € / AZ: 0262.0-7-0409
+- TOP 11.: Anträge
+- TOP 11.1.: Photovoltaik am Kegel der A 96
+- TOP 11.2.: Hundefreilauf Pfrontener Platz
+- TOP 11.3.: Lindauer Autobahn - Zusatzschilder Lärmschutz
+- TOP 11.4.: PRM U-Bahnstation Westpark
+- TOP 11.5.: Anfrage Wirtshaus Rosengarten
+- TOP 11.6.: Trittsteinbiotope auf öffentlichen Flächen
+- TOP 11.7.: Tischtennisplatten-Westpark
+- TOP 11.8.: Antragspaket BSA Surheimer Weg
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1.: 12.01 Präsentation
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1.: 13.05 a BA_Anfrage Beleuchtung Gerty Spiess Str.
+- TOP 13.2.: 13.05 b BA_Antrag Beleuchtung Parkplatz Siegenburgerstr.
+- TOP 13.3.: 13.05 c BA_Antrag Beleuchtung Passauer Str.
+- TOP 13.4.: 13.07 AG der Kinder- und Jugendbeauftragten in den Bezirksausschüssen
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Passauerstr.
+- TOP 15.2.: Bauvorhaben Adi-Maislinger-Str. Sonderbau
+- TOP 15.3.: Bauvorhaben Adi-Maislinger-Str.
+- TOP 15.4.: Bauvorhaben Ebermayerstr.
+- TOP 15.5.: Bauvorhaben Hansastr.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Bezirksübergreifender Antrag CultureClouds e.V.-Zirkus Pumpernudl städt. Grünanlagen
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, Westparklauf
+- TOP 17.2.: Westpark, Organspendelauf
+- TOP 17.3.: Mollsee, 40 Jahre Hafenanlage Westpark
+- TOP 17.4.: Theatron, Gottesdienst Ev-freikl. Gemeinde-Baptisten
+- TOP 17.5.: große Zirkuswiese, Circus Leopoldini
+- TOP 17.6.: Theatron, artist jam open air
+- TOP 17.7.: kleine Zirkuswiese, Circus Sorento
+- TOP 18.: Baureferat
+- TOP 18.1.: Magaretenstr. zw. Hansastr. und S-Bahnunterführung
+- TOP 18.2.: Peter-Schlemihl-Str._Meier-Helmbrecht-Str
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Temporäre Kunstaktion SüdpART-die Münchner Naturkunst Biennale
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 31.1.: München Stift_Zuständigkeit der städtischen Referate ändern
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Radabstellanlage Ecke Daxenberger/Bodenehrstraße
+- TOP 33.2.: Antwortschreiben BSL Trampolin
+- TOP 33.3.: Antwortschreiben BSL Outdoor -Kicker
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Zufahrt Wertstoffhof Tübinger Str für Radfahrerinnen
+- TOP 40.2.: Zebrastreifen Höglwörther Straße-Höhe der Grünstraße
+- TOP 40.3.: Topo-Boxen-Oetztaler Str.
+- TOP 40.4.: Antwortschreiben Verkehrsberuhigung Pfrontener Platz
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Grundschule an der Passauerstraße
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Taubenproblem Unterführung Albert-Roßhaupter-Straße
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Bessere medizinische Versorgung für den Stadtbezirk Sendling-Westpark
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Passauerstraße - Fällarbeiten für neuen Schulstandort
+- TOP 49.2.: Baumentfernung Partnachplatz
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweise
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: unveränderte Fortführung Hinterbärenbadstr.
+- TOP 53.2.: Versammlungsanzeige - Christenverfolgung Partnachpl.
+- TOP 53.3.: unveränderte Fortführung Ehrwalderstraße
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: EIN Südpark
+- TOP 56.2.: Konrad-Peutinger-Str.-Stellplatzumwandlung
+- TOP 56.3.: Ehrwalder Str.-Stellplatzumwandlung
+- TOP 56.4.: Bodenehrstr-Stellplatzumwandlung
+- TOP 56.5.: Erlaubnis Gilmstr.
+- TOP 56.6.: Stromüberspannung Hansastr.
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 61.2.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2020-2021
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Angebot Nachtspaziergänge
+- TOP 62.2.: Aktualisierte Übersicht Unterkünfte Geflüchtete und Wohnungslose Dezember
+- TOP 62.3.: (U) Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Nutzungsänderung des des Anwesens in der Hirsch-Gereuth-Straße 21 in eine heilpädagogisch-therapeutische Tagesstätte 7. Stadtbezirk - Sendling-Westpark
+- TOP 62.4.: (U) Partizipation 2.0 reloaded
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Anita Augspurg Preis
+- TOP 63.2.: Protokoll der öffentlichen Sitzung des Mieterbeirates
+- TOP 63.3.: Kurzbericht POP UPS-mobile Kunst
+- TOP 63.4.: Glückwünsche
+- TOP 63.5.: Bürger für unser Stadtklinikum
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Information über die geplante Errichtung einer Hochfrequenzanlage
+- TOP 16.2.: Nachtrag: VA auf öffentlichem Verkehrsgrund, Straßenfest Halmstraße
+- TOP 17.8.: Nachtrag: Theatron, Vorlesungen der KinderUni München
+- TOP 17.9.: Nachtrag: Nepalpagode, buddhistische Meditationen und Gebete
+- TOP 56.7.: Nachtrag: Leitfaden-Parklets
+- TOP 10.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße “Trommelworkshop „Double Drums“ vom 01.03.2023 – 31.12.2023“ 1.200,00 € / AZ: 0262.0-7-0413
+- TOP 10.3.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße “Trommelworkshop „Double Drums“ vom 01.03.2023 – 31.12.2023“ 1.835,00 € / AZ: 0262.0-7-0412
+- TOP 40.5.: Topo-Boxen BA7 Standorte
+- TOP 10.4.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl, Tanz.Die.Invasion, Stadt.Oase 2023 8.562,00 Euro, Az.: 0262.0-7-0373
+- TOP 12.2.: 12.05-08 Radlstadtplan Korrekturen 01 - Skizze
+- TOP 13.5.: Bericht des Vorsitzenden
+- TOP 25.1.: Standortauswahl E-Lastenradsystem
