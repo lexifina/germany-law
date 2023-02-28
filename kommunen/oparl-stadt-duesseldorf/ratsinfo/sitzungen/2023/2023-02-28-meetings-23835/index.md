@@ -1,0 +1,58 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-02-28T17:00:00+01:00
+- Ende: 2023-02-28T19:11:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23835
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23835
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00477135.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00477135.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00477135.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 14.02.2023 eingegangene Fragen - beantwortet
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der öffentlichen Niederschrift vom 24.01.2023 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Plan Nr. 07/017 - Im Heidewinkel Ost - abweichend beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Ludenberger Straße 21 - Beseitigung eines Gebäudes - - einstimmig beschlossen
+- TOP 4.4: Ludenberger Straße 17a - Beseitigung eines Gebäudes - - einstimmig beschlossen
+- TOP 4.5: Ludenberger Straße 19 - Beseitigung eines Gebäudes - - einstimmig beschlossen
+- TOP 4.6: Kölner Tor 32 - Beseitigung der vorhandenen Bebauung - - einstimmig beschlossen
+- TOP 4.7: Geibelstraße - Öffnung der Einbahnstraße für den Radverkehr in Gegenrichtung - - vertagt
+- TOP 4.8: "Landpartie Grafenberg" auf der Galopprennbahn im Jahre 2023 - Empfehlung einstimmig beschlossen
+- TOP 4.9: Zuschuss an den Tennisclub Rot-Weiss Düsseldorf e.V. - mehrheitlich beschlossen
+- TOP 4.10: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Aufhebung der Parkscheibenregelung entlang der Torfbruchstraße - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 5.5: Baumpflanzungen auf dem Staufenplatz - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Aktueller Stand des Baugenehmigungsverfahren des Geländes „Villa Sohl“ - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 6.3: Umgestaltung Grünfläche Torfbruchstraße / Büdingenstraße / Nachtigallstraße - Anfrage der FDP-Fraktion - - vertagt
+- TOP 6.4: Milieuschutzsatzung im Stadtbezirk 7 - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Verkehrsberuhigung historisches Zentrum Gerresheim - Anfrage der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - vertagt
+- TOP 7.2: Ausbau der Torfbruchstraße zwischen Dreherstraße und Pöhlenweg - Anfrage der CDU-Fraktion - - vertagt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Hydrologische Neubewertung der Bau- und Retentionsflächen Radeberger Straße / Am Quellenbusch - Informationsvorlage zum Beschluss der BV7 vom 22.11.2022 - - zur Kenntnis genommen
+- TOP 8.2: Heckenrückschnitt Bertastraße - Informationsvorlage zum Beschluss der BV7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.3: Bürgersteig auf der Quadenhofstraße - Informationsvorlage zum Beschuss der BV 7 vom 25.01.2022 - - zur Kenntnis genommen
+- TOP 8.4: Verkehrssicherheit Josef-Neuberger-Str./Torfbruchstraße - Informationsvorlage zum Beschluss der BV7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 8.5: Sauerweg/Rotthäuser Bachtal - Informationsvorlage zum Beschluss der BV 7 vom 24.01.2023 - - zur Kenntnis genommen
+- TOP 8.6: Aufstellung eines Bebauungsplans Bergische Landstraße (Flurstück 350 bis 359) - Informationsvorlage zum Beschluss der BV 7 vom 22.11.2022 - - zur Kenntnis genommen
+- TOP 8.7: Sachstandsbericht städtebaulicher Wettbewerb Bergische Kaserne - Informationsvorlage zum Beschluss der BV 7 vom 30.08.2022 - - zur Kenntnis genommen
+- TOP 8.8: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.9: Installation von zwei Bänken auf der Gräulinger Straße - Informationsvorlage zum Beschluss der BV 7 vom 22.11.2022 - - zur Kenntnis genommen
+- TOP 8.10: Mietzinsfreie Nutzung im Stadtteiltreff „das.Rund“ Grafenberg bis Jahresende 2023 - Informationsvorlage zum Beschluss der BV 7 vom 24.01.2023 - - zur Kenntnis genommen
+- TOP 8.11: E-Scooter - Informationsvorlage zu den Beschlüssen der BV 7 vom 14.09.2021 und 25.01.2022 - - zur Kenntnis genommen
