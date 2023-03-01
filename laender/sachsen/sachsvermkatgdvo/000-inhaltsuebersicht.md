@@ -17,6 +17,6 @@
 § 16 Abmarkung
 § 17 Bekanntgabe der Ergebnisse von Grenzbestimmungen und Abmarkungen durch Offenlegung
 § 18 Aufsicht über die unteren Vermessungsbehörden
-§ 19 Übermittlung von Informationen aus den Bestandsdaten des Liegenschaftskatasters durch Gemeinden und Öffentlich bestellte Vermessungsingenieure
+§ 19 Übermittlung von Informationen aus den Bestandsdaten des Liegenschaftskatasters durch Gemeinden sowie Öffentlich bestellte Vermessungsingenieurinnen und -ingenieure
 § 20 Daten des Amtlichen Topographisch-Kartographischen Informationssystems
 § 21 Inkrafttreten und Außerkrafttreten
