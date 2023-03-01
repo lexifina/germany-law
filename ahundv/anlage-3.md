@@ -1,0 +1,13 @@
+# Anlage 3 (zu § 5 Absatz 4 Satz 1)
+
+Attest
+Ein Attest zur Vorlage bei der Ausbildungsstätte nach § 9 Absatz 1 Nummer 1 und dem Prüfer nach § 15 Absatz 2 Nummer 3 muss folgende Angaben enthalten:
+1. Ausstellende Tierärztin/ausstellender Tierarzt,
+2. Angaben zur Hundehalterin/zum Hundehalter: Name, Vorname, Anschrift,
+3. Angaben zum Hund: Name, Rasse, Geschlecht, Mikrochip-Nummer und Wurftag,
+4. Grund der Vorstellung,
+5. eine Bestätigung, dass der Hund am Tag der Untersuchung die zur Ausbildung und zum Einsatz als Assistenzhund erforderliche gesundheitliche Eignung besitzt,
+6. eine Angabe darüber, ob die gesundheitliche Eignung am Tag der Untersuchung auf eine Assistenzhundeart nach § 3 Absatz 1 begrenzt ist,
+7. Ort und Datum der Ausstellung,
+8. Unterschrift der verantwortlichen Tierärztin/des verantwortlichen Tierarztes und
+9. Bestätigung, dass dem Attest der Befunderhebungsbogen sowie ggf. Untersuchungsergebnisse weiterführender Untersuchungen beiliegen.
