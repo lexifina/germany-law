@@ -1,0 +1,6 @@
+# TOP I.: Öffentlicher Teil
+
+- Sitzung: Betriebsausschuss Eigenbetriebe (10. Sitzung) (2023-03-01)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15139
