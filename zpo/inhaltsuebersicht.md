@@ -398,6 +398,7 @@
 | § 304 | Zwischenurteil über den Grund |
 | § 305 | Urteil unter Vorbehalt erbrechtlich beschränkter Haftung |
 | § 305a | Urteil unter Vorbehalt seerechtlich beschränkter Haftung |
+| § 305b | Urteil unter Vorbehalt spaltungsrechtlicher Haftungsbeschränkung |
 | § 306 | Verzicht |
 | § 307 | Anerkenntnis |
 | § 308 | Bindung an die Parteianträge |

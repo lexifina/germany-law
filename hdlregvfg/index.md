@@ -70,6 +70,7 @@
 - [§ 44](0044.md)
 - [§ 45](0045.md)
 - [§ 46](0046.md)
+- [§ 46a](0046a.md)
 
 ## IVa. Vorschriften für das
 elektronisch geführte Handelsregister

@@ -143,7 +143,7 @@ Weitere Geschäfte
 | 5003 | –der Liste der Mitglieder des Aufsichtsrats einschließlich der Bekanntmachung über die Einreichung (§ 52 Abs. 3 Satz 2 GmbHG, § 106 AktG) | 40,00 € |
 | 5004 | –der Mitteilung über den alleinigen Aktionär (§ 42 AktG) | 40,00 € |
 | 5005 | –des Protokolls der Hauptversammlung (§ 130 Abs. 5 AktG) | 50,00 € |
-| 5006 | –von Verträgen, eines Verschmelzungsplans oder von entsprechenden Entwürfen nach dem UmwG | 50,00 € |
+| 5006 | –von Verträgen, Plänen oder entsprechenden Entwürfen nach dem UmwG | 50,00 € |
 | 5007 | Übertragung von Schriftstücken in ein elektronisches Dokument (§ 9 Abs. 2 HGB): für jede angefangene Seite Die Gebühr wird für die Dokumente jedes Registerblatts gesondert erhoben. Mit der Gebühr wird auch die einmalige elektronische Übermittlung der Dokumente an den Antragsteller abgegolten. | 2,00 € – mindestens 25,00 € |
 Teil 6
 Bereitstellung zum Abruf

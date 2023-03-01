@@ -415,6 +415,7 @@ Landgerichten
 - [§ 304 Zwischenurteil über den Grund](0304.md)
 - [§ 305 Urteil unter Vorbehalt erbrechtlich beschränkter Haftung](0305.md)
 - [§ 305a Urteil unter Vorbehalt seerechtlich beschränkter Haftung](0305a.md)
+- [§ 305b Urteil unter Vorbehalt spaltungsrechtlicher Haftungsbeschränkung](0305b.md)
 - [§ 306 Verzicht](0306.md)
 - [§ 307 Anerkenntnis](0307.md)
 - [§ 308 Bindung an die Parteianträge](0308.md)

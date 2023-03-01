@@ -7,4 +7,4 @@
 - [§ 4 Inkrafttreten, Außerkrafttreten](0004.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage 1](anlage-1.md)
-- [Anlage 2](anlage-2.md)
+- [Anlage 2 (zu § 1 Nummer 2) Antrag auf Vergütung](anlage-2.md)
