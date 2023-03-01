@@ -5,6 +5,7 @@ Abschnitt 2 Raumordnungspläne
 § 2 Allgemeine Vorschriften über Raumordnungspläne
 § 3 Landesentwicklungsplan
 § 4 Regionalpläne
+§ 4a Umsetzung des Windenergieflächenbedarfsgesetzes
 § 5 Braunkohlenpläne
 § 6 Aufstellung der Raumordnungspläne
 § 7 Erlass der Raumordnungspläne, Genehmigung der Regionalpläne, Bekanntmachung
@@ -12,7 +13,7 @@ Abschnitt 2 Raumordnungspläne
 Abschnitt 3 Regionale Planungsverbände
 § 9 Planungsregionen, Regionale Planungsverbände
 § 10 Verbandsversammlung
-§ 11 Verbandsvorsitzender
+§ 11 Verbandsvorsitz
 § 12 Aufsicht, Finanzierung
 Abschnitt 4 Umsetzung der Raumordnungspläne
 § 13 Raumordnerische Zusammenarbeit, Abstimmung raumbedeutsamer Planungen und Maßnahmen
