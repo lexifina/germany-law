@@ -1,0 +1,5 @@
+# § 90a Gleichzeitige Durchführung eines Volksentscheids mit der Landtagswahl, Bundestagswahl oder Europawahl
+Wird ein Volksentscheid am Tag der Landtagswahl, der Bundestagswahl oder der Europawahl durchgeführt, gelten für die Durchführung des Volksentscheids die Vorschriften des Landeswahlgesetzes und dieser Verordnung mit folgenden Maßgaben:
+1. Die für die Landtagswahl, Bundestagswahl oder Europawahl gebildeten Wahlorgane nehmen zugleich die Aufgaben der Wahlorgane für den Volksentscheid wahr. Bei der Landtagswahl kann die Gemeinde für den gemeinsamen Wahlvorstand bis zu zwei zusätzliche Beisitzer berufen.
+2. Die Stimmkreisausschüsse bei der Landtagswahl oder die Kreiswahlausschüsse bei der Bundestagswahl stellen jeweils das Abstimmungsergebnis des Volksentscheids abweichend von § 69 Abs. 6 für den Stimmkreis oder den Wahlkreis fest.
+3. Das Staatsministerium des Innern, für Sport und Integration bestimmt, welche Anlagen und Muster dieser Verordnung gemeinsam verwendet werden und legt den Inhalt der Anlagen und Muster fest.

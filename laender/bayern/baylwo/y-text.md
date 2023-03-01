@@ -1,0 +1,1 @@
+Auf Grund des Art. 92 des Landeswahlgesetzes (LWG) in der Fassung der Bekanntmachung vom 5. Juli 2002 (GVBl S. 277, ber. S. 620, Bay RS 111-1-I) erlässt das Bayerische Staatsministerium des Innern folgende Verordnung:
