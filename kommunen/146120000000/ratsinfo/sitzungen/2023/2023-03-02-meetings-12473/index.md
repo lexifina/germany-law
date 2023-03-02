@@ -1,0 +1,91 @@
+# 47. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-03-02T16:00:00+01:00
+- Ende: 2023-03-02T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12473
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12473
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00666079.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 3: Aktuelle Stunde: Aufklärung um die Irritationen bezüglich des Neubaus der Schwimmhalle Klotzsche und Absicherung des Schwimmangebotes im Dresdner Norden - Zukunft der Schwimmhallen und Freibäder in Dresden - erledigt
+- TOP 4: Fragerunde (1 Runde) - erledigt
+- TOP 4.1: Finanzierung des Ukrainischen Begegnungszentrums im Jahr 2023 - erledigt
+- TOP 4.2: Sanierung des alten Feuerwehrgerätehauses in Pappritz - erledigt
+- TOP 4.3: SachsenNetze GmbH - Erreichbarkeit für Bürger - erledigt
+- TOP 4.4: Bisherige Ergebnisse der städtischen Energiesparmaßnahmen - erledigt
+- TOP 4.5: Indexmietverträge bei der Landeshauptstadt Dresden - erledigt
+- TOP 4.6: JugendÖkoHaus - erledigt
+- TOP 4.7: Geschäftsbereich des Oberbürgermeisters - erledigt
+- TOP 4.8: Unfallschwerpunkte - erledigt
+- TOP 5: Ausschreibung der Beigeordnetenstelle für Wirtschaft, Digitales, Personal und Sicherheit - Zustimmung
+- TOP 6: Reihenfolge der Vertretung des Oberbürgermeisters durch die Beigeordneten im Falle der Verhinderung - Vertagung
+- TOP 7: Besetzung der Aufsichtsräte der Beteiligungsgesellschaften der Landeshauptstadt Dresden - Vertagung
+- TOP 8: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden; Änderung der Ausschussgrößen - Vertagung nach 22 Uhr
+- TOP 8.1: Umbesetzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen)
+- TOP 8.2: Umbesetzung des Ausschusses für Finanzen
+- TOP 8.3: Umbesetzung des Ausschusses für Stadtentwicklung, Bau, Verkehr und Liegenschaften
+- TOP 8.4: Umbesetzung des Ausschusses für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium)
+- TOP 8.5: Umbesetzung des Ausschusses für Bildung (Eigenbetrieb Kindertageseinrichtungen)
+- TOP 8.6: Umbesetzung des Ausschusses für Soziales und Wohnen
+- TOP 8.7: Umbesetzung des Ausschusses für Gesundheit (Eigenbetrieb Städtisches Klinikum)
+- TOP 8.8: Umbesetzung des Ausschusses für Sport (Eigenbetrieb Sportstätten)
+- TOP 8.9: Umbesetzung des Ausschusses für Wirtschaftsförderung
+- TOP 8.10: Umbesetzung des Ausschusses für Umwelt und Klima (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung)
+- TOP 8.11: Umbesetzung des Ausschusses für Petitionen und Bürgerbeteiligung
+- TOP 9: Umbesetzung im Aufsichtsrat der DREWAG - Stadtwerke Dresden GmbH - Vertagung nach 22 Uhr
+- TOP 10: Umbesetzung im Aufsichtsrat der Dresdner Verkehrsbetriebe AG - Vertagung nach 22 Uhr
+- TOP 11: Besetzung des Aufsichtsrates der SachsenEnergie AG - Vertagung nach 22 Uhr
+- TOP 12: Besetzung des Aufsichtsrates der Messe Dresden GmbH - Vertagung nach 22 Uhr
+- TOP 13: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Vertagung nach 22 Uhr
+- TOP 14: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Klotzsche der Landeshauptstadt Dresden - Zustimmung
+- TOP 15: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Zustimmung
+- TOP 17: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Neustadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 18: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Cotta der Landeshauptstadt Dresden - Zustimmung
+- TOP 19: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Neustadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 20: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 21: Ausschreibung einer Dienstleistungskonzession für die Organisation und Durchführung einer Thematischen Weihnachtsveranstaltung in den Jahren 2023 bis 2024 einschließlich einer Verlängerungsoption bis 2026 - Zustimmung
+- TOP 22: Betriebsbeihilfe für die Stadion Dresden Projektgesellschaft mbH & Co. KG - Zustimmung
+- TOP 23: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2023 - Zustimmung
+- TOP 24: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus Anlass besonderer regionaler Ereignisse im Jahr 2023 - Zustimmung mit Änderung
+- TOP 25: Eintrittspreise und Kursgebühren am Theaterhaus Rudi - Zustimmung
+- TOP 26: Implementierung nachhaltiger Entwicklung in Dresdner Kultureinrichtungen - Vertagung nach 22 Uhr
+- TOP 27: Abschluss eines Kooperationsvertrages mit dem Universitätsklinikum Carl Gustav Carus Dresden sowie der Medizinischen Fakultät der Technischen Universität Dresden im Bereich der Öffentlichen Gesundheit - Vertagung nach 22 Uhr
+- TOP 28: Revitalisierung Bahnhof Mitte - Vertagung nach 22 Uhr
+- TOP 29: Einlage von Grundstücksflächen in die WiD Wohnen in Dresden GmbH & Co. KG - Vertagung nach 22 Uhr
+- TOP 30: Neufassung des Straßenbenutzungsvertrages zwischen der Landeshauptstadt Dresden und der Dresdner Verkehrsbetriebe AG - Zustimmung
+- TOP 31: Integriertes Stadtentwicklungskonzept "Zukunft Dresden 2035+" - 2. Fortschreibung 2022 - Zustimmung
+- TOP 32: Tausch über ein Grundstück an der Marta-Fraenkel-Straße gegen ein Grundstück Am Goldenen Stiefel - Vertagung nach 22 Uhr
+- TOP 33: Anmietung von Räumlichkeiten zur Unterbringung von Organisationseinheiten der Landeshauptstadt Dresden und zur Unterbringung von asylsuchenden Menschen am Standort Lingnerallee 3 - Zustimmung
+- TOP 34: Vertagungen aus der Sitzung vom 26.01.2023
+- TOP 34.1: Keine Kürzungen bei Bus und Bahn. Gutachterirrsinn beenden. Dresdner Verkehrsbetriebe stärken! - Vertagung durch Einreicher
+- TOP 34.2: Keine Fahrpreiserhöhung 2023 - Vertagung durch Einreicher
+- TOP 34.3: Modellversuch kostenfreies Parken bei Veranstaltungen und an ausgewählten Wochenenden - Vertagung nach 22 Uhr
+- TOP 34.4: Die Subventionierung öffentlicher Parkplätze beenden - Für eine Gleichbehandlung aller Mobilitätsformen sorgen! - Vertagung
+- TOP 34.5: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung durch Einreicher
+- TOP 34.6: Starthilfe für Studierende, Auszubildende und Freiwilligendienstleistende - Vertagung durch Einreicher
+- TOP 34.7: Dresden für junge Menschen attraktiver machen: Clubkultur retten - Zustimmung mit Änderung
+- TOP 34.8: Einrichtung einer Beratungsstelle für Bürger bei Impfnebenwirkungen und Impffolgeschäden - Vertagung nach 22 Uhr
+- TOP 34.9: Ein Platz der Kinderrechte für Dresden - Vertagung nach 22 Uhr
+- TOP 34.10: Neuordnung der Fahrspuren auf der Güntzstraße im Kreuzungsbereich zur Pillnitzer Straße und Striesener Straße - Vertagung nach 22 Uhr
+- TOP 34.11: Tempo 30 als Regelhöchstgeschwindigkeit in einem Stadtgebiet erproben – für mehr Sicherheit, weniger Lärm und bessere Luft - Vertagung nach 22 Uhr
+- TOP 34.12: Sicher zur Schule mit dem Fahrrad oder zu Fuß - Vertagung nach 22 Uhr
+- TOP 34.13: Umwandlung Gaußstraße in verkehrsberuhigte Zone - Vertagung durch Einreicher
+- TOP 34.14: Umplanung Magdeburger Straße: Zwei MIV-Spuren reichen - Straßen für Alle durch rationale Verkehrsplanung - Vertagung nach 22 Uhr
+- TOP 34.15: Sanierung der Stauffenbergallee West - Vertagung nach 22 Uhr
+- TOP 34.16: Sanierung der Königsbrücker Straße zwischen Albertplatz und Stauffenbergallee – Maßnahmen zur Beschleunigung der Planfeststellung und zur Realisierung - Vertagung durch Einreicher
+- TOP 34.17: Zweiter Dresdner Gleichstellungs-Aktionsplan der Landeshauptstadt Dresden zur Umsetzung der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene (2021 bis 2026) - Vertagung nach 22 Uhr
+- TOP 34.18: Zusätzliche Baumreihen westlicher Promenadenring - Vertagung durch Einreicher
+- TOP 34.19: Fahrradstraße am Kleinzschachwitzer Ufer - Vertagung nach 22 Uhr
+- TOP 34.20: Luftbad Dölzschen - Vertagung durch Einreicher
+- TOP 34.21: Eilantrag: Einrichtung einer separaten Fahrspur für den Straßenbahnverkehr auf der Tolkewitzer Straße als befristeten Verkehrsversuch gestalten sowie begleitende Maßnahmen - Vertagung nach 22 Uhr
+- TOP 35: Einrichtung saisonale Fährverbindung zwischen Dresden-Pieschen und dem Ostragehege - Vertagung nach 22 Uhr
+- TOP 36: Gostritzer Straße – kein Ausbau ohne Radweg - Vertagung
