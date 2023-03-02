@@ -1,0 +1,55 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-02T18:00:00+01:00
+- Ende: 2023-03-02T20:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24185
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24185
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö vom 02.03..2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00476966.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö vom 02.03..2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00476966.pdf
+- Wortprotokoll: Sitzungspaket Ö vom 02.03..2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00476966.pdf
+
+## Tagesordnung
+
+- TOP 1: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 16.02.2023 eingegangene Fragen
+- TOP 3: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift vom 19.01.2023 - einstimmig beschlossen
+- TOP 5: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW) - Jugendrat - einstimmig beschlossen
+- TOP 6: Gubener Straße - Radwegplanung (aktueller Stand) - Bericht der Verwaltung - zur Kenntnis genommen
+- TOP 7: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Ersatzneubau der Gemeinschaftsgrundschule Vennhauser Allee 160-162“ - Empfehlung abweichend beschlossen
+- TOP 8: Alt-Eller - Ausweisung einer Einbahnregelung sowie Markierung eines Busfahrstreifens als Verkehrsversuch - zurückgestellt
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Abschluss eines Mietvertrages mit der Vantage Towers AG (Vodafone) über einen Mobilfunk-Funkturmstandort - einstimmig beschlossen
+- TOP 12: Fassadengestaltung Unterführung S-Bahnhof Eller-Mitte/Gumbertstraße - einstimmig beschlossen
+- TOP 13: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 14: Zuschüsse der Bezirksvertretung 8 im Jahre 2023 - einstimmig beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Mülltonnenbrände auf der Bebelstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 18: Außengastronomie auf der Gumbertstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 19: Posing von „Motorradfreunden“ (Anfrage SPD-Fraktion) - beantwortet
+- TOP 20: Überschwemmungen in Unterbach (Anfrage SPD-Fraktion) - beantwortet
+- TOP 21: Verspätungen der Buslinien 735/737 in Unterbach (Anfrage SPD-Fraktion) - beantwortet
+- TOP 22: Düssel-Brücke Reichenbacher Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 23: Parkverbot Bebelstraße und Lassallestraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 24: Sperrfläche Gumbertstraße im Bereich S-Bahnbrücke (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Radverkehrssituation im Knotenpunkt Rothenbergstraße/ Vennhauser Allee/ Glashüttenstraße und auf der Glashüttenstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 26: Kulturbahnhof Eller (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Vennhauser Allee – Herstellung nach Beendigung der Bauarbeiten (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Unterhaltungsmaßnahmen im öffentlichen Straßenraum 2023 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 30: Grundstück Sodener Weg und Sturmstraße 46-50 - zur Kenntnis genommen
+- TOP 31: Unterführung S-Bahnhof Eller-Mitte - zur Kenntnis genommen
+- TOP 32: Vorgarten Rathaus Eller - zur Kenntnis genommen
+- TOP 33: Wassertretanlage im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Grünordnungsrahmenplan für den Stadtbezirk 8- zweite Bürgerbeteiligung - zur Kenntnis genommen
+- TOP 35: E-Ladepunkt in Unterbach - zur Kenntnis genommen
+- TOP 36: Außengastronomie auf der Gumbertstraße - zur Kenntnis genommen
+- TOP 37: Verschattung von Straßen und Plätzen im Stadtbezirk 8 - zur Kenntnis genommen
