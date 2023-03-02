@@ -1,0 +1,82 @@
+# 16. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-02T15:32:00+01:00
+- Ende: 2023-03-02T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27364
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27364
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Köln-Pass automatisch versenden - geändert beschlossen
+- TOP -: A Mündlicher Bericht des Dezernenten - Kenntnis genommen
+- TOP -: B Mündlicher Bericht der Liga der Wohlfahrtsverbände - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.1.1: Sparkasse KölnBonn, hier: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik - Kenntnis genommen
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.2.1: Regelmäßiger Austausch der Behindertenbeauftragten mit den Mitgliedern der Werkstatträte und den Frauenbeauftragten der Werkstätten - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Entwicklung eines kommunalen Wohnungs- und Obdachlosenberichts - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 3.1 „Entwicklung eines kommunalen Wohnungs- und Obdachlosenberichts“ (AN/1627/2022) - zurückgestellt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Antrag des Integrationsrates zur Sicherstellung der Gleichbehandlung von geflüchteten Personen sowie konsequente Umsetzung des Gewaltschutzkonzeptes - zurückgestellt
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Str. 219a, 51063 Köln-Mülheim, Gemarkung Dünnwald, Flur 61, Flurstück 1941 - Baubeschluss - ungeändert empfohlen
+- TOP 5.2: Fortschreibung der Richtlinie zur Förderung von Projekten zur Gewaltprävention und zum Abbau von Diskriminierung im Bereich LSBTI ab dem Haushaltsjahr 2023 - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 7.2: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2022 - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Berichte zur Situation Geflüchteter - Kenntnis genommen
+- TOP 9.2: 3. Quartalsbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1.1: Fördermittel aus dem Stärkungspakt gegen Armut abrufen - Sache ist erledigt
+- TOP -: AN/0241/2023, Fördermittel aus dem Stärkungspakt gegen Armut abrufen - Kenntnis genommen
+- TOP 10.1.2: Wohngeldantragsstau und Abschlagszahlungen - Sache ist erledigt
+- TOP -: Wohngeldantragsstau und Abschlagszahlungen - Kenntnis genommen
+- TOP 10.2: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.2.1: Stadt kassiert einstweilige Anordnung durch das Verwaltungsgericht - Sache ist erledigt
+- TOP -: Stadt kassiert einstweilige Anordnung durch das Verwaltungsgericht - Vorhaben zur Unterbringung von Obdachlosigkeit bedrohter Alleinerziehender mit 5 Kindern unzulässig (Anfrage AN/0050/2023 der AFD-Fraktion) - Kenntnis genommen
+- TOP 10.2.2: Beantwortung der Nachfrage zu TOP 9.4 Gewaltschutzkonzept aus der Sitzung vom 22.09.2022 - Kenntnis genommen
+- TOP 10.2.3: Zeitnahe Ausstellung von Fiktionsbescheinigungen als Voraussetzung für den Grundsicherungsbezug von Geflüchteten aus der Ukraine - zurückgestellt
+- TOP -: Beantwortung einer Anfrage der Fraktion DIE LINKE. zu "Zeitnahe Ausstellung von Fiktionsbescheinigungen als Voraussetzung für den Grundsicherungsbezug von Geflüchteten aus der Ukraine" - zurückgestellt
+- TOP 10.2.4: Räumung eines Obdachlosenlagers in Köln-Kalk am 08.12.2022 - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/0049/2023 der SPD - Kenntnis genommen
+- TOP 10.2.5: Berichtswesen Wohnungslose/Obdachlose Menschen - zurückgestellt
+- TOP 10.2.6: Anfrage des Sachkundigen Einwohners Intveen (Behindertenvertretung) - zurückgestellt
+- TOP 10.3: Aktuelle Anfragen und Beantwortungen
+- TOP 10.3.1: Digitale Teilhabe: Wie viele Offliner*innen leben in Köln? - zurückgestellt
+- TOP 10.3.2: Inklusionsbericht 2021 - Sache ist erledigt
+- TOP -: Anfrage gemäß § 4 der Geschäftsordnung des Rates zum Inklusionsbericht 2021 - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1.1: Anfrage der Seniorenvertreterin Dr. Köhler der Stadt Köln zu Beantwortungen der Verwaltung in der Sitzung der Stadt AG Seniorenpolitik vom 28.10.2022 - Sache ist erledigt
+- TOP -: Anfrage der Seniorenvertretung zur Beantwortung von Fragen in der Stadtarbeitsgemeinschaft Seniorenpolitik am 28.10.2022 - Kenntnis genommen
+- TOP 12: Mitteilungen
+- TOP 12.1: LSBTI-Aktionsplan: erste Zwischenbilanz - Kenntnis genommen
+- TOP 12.2: Zwischenbilanzierung der Gesamtstrategie „Kölner Kinder stärken!“ zur Prävention von Kinder-, Jugend- und Familienarmut und Ausblick auf die strategische Weiterentwicklung in 2023 - Kenntnis genommen
+- TOP 12.3: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 12.4: Bericht aus der Geschäftsstelle Kooperatives Baulandmodell - Kenntnis genommen
+- TOP 12.5: Aktionstag „gesund & mobil im Alter“ in Kooperation mit dem 13. Kölner Vorsorge-Tag am 29.03.2023 - Kenntnis genommen
+- TOP 12.6: Erhöhung der Ausbildungsquote von Menschen mit Behinderung - Kenntnis genommen
+- TOP 12.7: Mitteilung über Verteilung der Mittel Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 12.8: „Aktionstag Senior*innen“ am 25. März 2023 - Kenntnis genommen
+- TOP 12.9: Konzept der Stadt Köln für die Einrichtung von genderneutralen Toiletten an Schulen und in städtischen Gebäuden - Kenntnis genommen
+- TOP 12.10: Ergebnis der Prüfung des automatischen Versands von Köln-Pässen an Wohngeld- und SGB II- Leistungsbeziehende (AN/2060/2022) - Kenntnis genommen
+- TOP 12.11: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 12.12: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 12.13: Stadt Köln integriert automatischen Übersetzer auf stadt.koeln - Kenntnis genommen
+- TOP 12.14: Mietvertrag und Umbau Drogenkonsumraum Kalk - Kenntnis genommen
+- TOP 12.15: Gründung des Forums "Unternehmen engagiert in Köln" und Marktplatz "Gute Geschäfte fürs Klima!" - Kenntnis genommen
+- TOP 12.16: Abschlussbericht und Handlungsempfehlungen zur wissenschaftlichen Begleitung der Umsetzung des Drogenhilfekonzeptes 2022 - zurückgestellt
+- TOP 12.17: Sachstand Auszugsmanagement – Wohnraumakquise für Geflüchtete aus der Ukraine - zurückgestellt
+- TOP 12.18: Sprachen in Köln - Kenntnis genommen
+- TOP 12.19: Bezahlbare Mieten in Köln sichern - GAG bleibt dem Anspruch auf Wohnraum zu sozial angemessenen Bedingungen treu - Kenntnis genommen
