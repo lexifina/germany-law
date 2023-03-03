@@ -3,6 +3,7 @@ Inhaltsübersicht
 § 1 | Lehrämter an öffentlichen Schulen
 § 2 | Befähigung zum Lehramt an öffentlichen Schulen
 § 3 | Ausbildung
+§ 3a | Erweitertes Führungszeugnis
 § 4 | Studium
 § 5 | Praxisbezug des Studiums
 § 5a | (weggefallen)
