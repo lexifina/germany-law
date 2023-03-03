@@ -16,8 +16,9 @@ Kostenverzeichnis der Wissenschaftsverwaltung:
  | Gebührenbefreiung wird nicht erteilt. | 
 102 | Private Hochschulen | 
 102.00 | Bearbeitung und Bescheidung eines Antrages auf Erteilung der staatlichen Anerkennung einer privaten Hochschule sowie der damit im Zusammenhang stehenden Folgegenehmigungen (§ 112 Absatz 1 des Bremischen Hochschulgesetzes) | 1 233,00 Euro bis 12 330,00 Euro
-102.01 | Bearbeitung und Bescheidung eines Antrages einer ausländischen Hochschule auf Genehmigung einer Niederlassung sowie der damit in Zusammenhang stehenden Folgegenehmigungen (§ 112 Absatz 2 des Bremischen Hochschulgesetzes) | 1 233,00 Euro bis 12 330,00 Euro
-102.02 | Widerruf einer Entscheidung nach Nummer 102.00 oder 102.01 (§ 112 Absatz 1 und Absatz 2 des Bremischen Hochschulgesetzes). | 1 233,00 Euro bis 12 330,00 Euro
+102.01 | Bearbeitung und Bescheidung eines Antrages einer ausländischen Hochschule auf Genehmigung einer Niederlassung sowie der damit in Zusammenhang stehenden Folgegenehmigungen (§ 112 Absatz 7 des Bremischen Hochschulgesetzes) | 1 233,00 Euro bis 12 330,00 Euro
+102.02 | Widerruf einer Entscheidung nach Nummer 102.00 oder 102.01 (§ 112 Absatz 1 und Absatz 7 des Bremischen Hochschulgesetzes). | 1 233,00 Euro bis 12 330,00 Euro
+102.03 | Auslagen für gutachterliche Stellungnahmen einer Akkreditierungseinrichtung nach § 112 Absatz 13 des Bremischen Hochschulgesetzes | nach Aufwand
 103 | Vorbeglaubigung von Urkunden | 
 103.00 | Vorbeglaubigung von Urkunden zur Verwendung im Ausland zum Zwecke der Legalisation | 18,00 Euro
 104 | Nachträgliche Verleihung eines Diplomgrades | 
