@@ -1,0 +1,80 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2023-03-03T16:00:00+01:00
+- Ende: 2023-03-03T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6391
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6391
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 03.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00180640.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 03.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00180640.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 03.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00180640.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 1.1: Einführung und Verpflichtung von Ratsmitgliedern
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 5: Bebauungsplan Nr. 505 – Hammfeld, Radschnellweg - Beschluss zur erneuten Aufstellung und öffentlichen Auslegung - einstimmig zugestimmt
+- TOP 6: Ortsmittelpunktkonzept - Priorisierung der Ortsteile - einstimmig zugestimmt
+- TOP 7: Verbesserung des Rad-/Gehweges Eselspfad zwischen Bahnlinie Neuss-Mönchengladbach und Stoffelsweg; Planungsbeschluss - einstimmig zugestimmt
+- TOP 8: Ergänzung des Flächennutzungsplans (Umsetzung Genehmigungsauflagen der BezReg), Beschluss über die Stellungnehmen und die Planergänzung sowie Einholung der Genehmigung - einstimmig zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 9: Hammer Landstraße: Barrierefreier Umbau des Bushaltestellenpaars "An der Hammer Brücke" - einstimmig zugestimmt
+- TOP 10: Memeler Straße - Grundhafte Sanierung - einstimmig zugestimmt
+- TOP 11: Radschnellweg im Bereich der ehemaligen Rennbahn - einstimmig zugestimmt
+- TOP 12: Hammer Landstraße: Barrierefreier Umbau des Bushaltestellenpaars "Hansastraße" - einstimmig zugestimmt
+- TOP -: Integrationsausschuss
+- TOP 13: Antrag der Liste "Ich bin Neuss" - Ächtung des N-Wortes - - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 14: Am Kivitzbusch: Fahrbahnwiederherstellung nach Kanalbau und punktuelle Maßnahmen - einstimmig zugestimmt
+- TOP -: Bezirksausschuss III - Selikum, Reuschenberg, Weckhoven, Hoisten
+- TOP 15: Bebauungsplan Nr. 473/1 - Hoisten/Schluchenhausstraße (Kreisverkehr) - - einstimmig zugestimmt
+- TOP -: Finanzausschuss
+- TOP 16: Konsolidierungspaket für den Haushalt 2023 und die Finanzplanung - mehrheitlich zugestimmt
+- TOP 17: Anpassung der Zuschüsse zum Geschäftsbedarf der im Rat vertretenen Fraktionen - einstimmig zugestimmt
+- TOP 18: Erhöhung der Vergnügungssteuer - einstimmig zugestimmt
+- TOP 19: Erhöhung der Hundesteuer - einstimmig zugestimmt
+- TOP 20: Antrag des Rheinischen Landestheaters Neuss auf Erhöhung der institutionellen Förderung - mehrheitlich zugestimmt
+- TOP 21: Bewilligung einer außerplanmäßigen Ausgabe zur Beschaffung von Stromgeneratoren für die Feuerwehrhäuser - einstimmig zugestimmt
+- TOP 22: Beratung des Haushaltsplan-Entwurfes 2023 - mehrheitlich zugestimmt
+- TOP 23: Beratung der mittelfristigen Ergebnisplanung 2022 - 2026 - mehrheitlich zugestimmt
+- TOP 24: Beratung des Investitionsprogramms (investive Finanzplanung) 2022 - 2026 - mehrheitlich zugestimmt
+- TOP 25: Erlass einer Hebesatzsatzung für das Jahr 2023 - mehrheitlich zugestimmt
+- TOP 26: Erlass einer Haushaltssatzung für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP -: Rechnungsprüfungsausschuss
+- TOP 27: Prüfung des Jahresabschlusses 2021 sowie der Jahresabschlüsse 2021 der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung) - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+- TOP 28: Goldregenweg und Haselweg: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - einstimmig zugestimmt
+- TOP 29: Blindeisenweg - Grundhafte Sanierung - einstimmig zugestimmt
+- TOP -: Kulturausschuss
+- TOP 30: Strategisches Konzept für die Kultur in Neuss - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 31: Anpassung der OGS-Budgets zum 01.08.2023 - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 32: Benennung von Delegierten 42. Hauptversammlung des Deutschen Städtetages vom 23.-25.5.2023 in Köln - einstimmig zugestimmt
+- TOP 33: Personelle Besetzung in Wasser- und Bodenverbänden: hier: Neubesetzung der Delegiertenversammlung des Erftverbandes - einstimmig zugestimmt
+- TOP 34: Wiederwahl eines Beigeordneten - mehrheitlich zugestimmt
+- TOP 35: Wahl einer/eines Beigeordneten - mehrheitlich zugestimmt
+- TOP 36: Genehmigung der Dringlichkeitsentscheidung Nr. 87; Schulorganisatorische Maßnahmen; hier: Errichtung des Bildungsganges Kolleg am Theodor-Schwann-Kolleg - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 37: Antrag der AfD-Fraktion betr.: Migrations-Dashboard für Neuss: Zuwanderung klar und transparent darstellen - mehrheitlich abgelehnt
+- TOP 37.1: Antrag der CDU-Fraktion betr.: Kritik von Anwohnern und Pendlern ernst nehmen - Parkraumbewirtschaftung in der Neusser Innenstadt überarbeiten - verwiesen
+- TOP 37.2: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und UWG/Freie Wähler - Aktiv für Neuss betr.: Weiteres Vorgehen Bauprojekt Augustinusstraße - verwiesen
+- TOP 37.3: Antrag der Fraktionen von CDU, SPD, Bündnis 90/Die Grünen und Die PARTEI/DIE LINKE betr.: Umbenennung des "Komitees für Partnerschaften und internationale Beziehungen" - einstimmig zugestimmt
+- TOP 37.4: Antrag der Fraktion Linke/Tierschutz betr.: Virtuelles Bürgerbüro - verwiesen
+- TOP 37.5: Dringlichkeitsantrag der Fraktion Die PARTEI/DIE LINKE betr.: Sachstand "Kardinal-Frings-Brücke" - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 38: Pendlerportal für den Rhein-Kreis-Neuss und Auslastung der städt. Parkhäuser - zur Kenntnis genommen
+- TOP 39: Resolution des Integrationsausschusses vom 08.02.2023 - einstimmig zugestimmt
+- TOP 40: Unterbringung von Asylbewerbern und Geflüchteten - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
