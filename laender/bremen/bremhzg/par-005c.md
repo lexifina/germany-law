@@ -1,0 +1,4 @@
+# § 5c Internationale Studierende auf der Grundlage einer Kooperationsvereinbarung nach § 44a des Bremischen Hochschulgesetzes
+(1) Internationale Studierende, die auf der Grundlage einer Kooperationsvereinbarung einer bremischen Hochschule mit einer oder mehreren ausländischen Hochschulen nach § 44a des Bremischen Hochschulgesetzes an Lehr- und Prüfungsveranstaltungen teilnehmen, werden abweichend von § 3 aufgenommen. Über die Aufnahme entscheidet eine Auswahlkommission nach § 44a Absatz 1 Satz 2 des Bremischen Hochschulgesetzes.
+(2) Für die Aufnahme der Studierenden nach Absatz 1 wird die Ausbildungskapazität nach § 2 Absatz 6 Nummer 4 berücksichtigt. Das Nähere kann die Hochschule durch Satzung regeln.
+(3) § 5b Satz 1 und 2 finden entsprechende Anwendung mit der Maßgabe, dass an die Stelle der Immatrikulation die Aufnahme als Studierende tritt.
