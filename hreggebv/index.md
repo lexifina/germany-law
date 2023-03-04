@@ -7,6 +7,6 @@
 - [§ 3 Zurücknahme](0003.md)
 - [§ 4 Zurückweisung](0004.md)
 - [§ 5 Zurücknahme oder Zurückweisung in besonderen Fällen](0005.md)
-- [Schlussformel](schlussformel.md)
 - [§ 5a Übergangsvorschrift](0005a.md)
+- [Schlussformel](schlussformel.md)
 - [Anlage (zu § 1)](anlage.md)
