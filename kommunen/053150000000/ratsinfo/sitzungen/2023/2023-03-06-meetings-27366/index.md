@@ -1,0 +1,59 @@
+# 16. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-06T15:20:00+01:00
+- Ende: 2023-03-06T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27366
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27366
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Bericht zur aktuellen Lage der Ukraine-Geflüchteten - Kenntnis genommen
+- TOP -: B. Präsentation zum Neubau an der IGS Merianstr. 11 - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der SPD-Fraktion betreffend Projektgruppe „Startchancen-Programm“ - geändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Verwendung Immobilie Volkhovener Weg 209-211 - zurückgestellt
+- TOP 4.2: Missstände KGS Gutnickstraße - zurückgestellt
+- TOP 4.3: Beantragung von Leistungen aus dem Bildungs- und Teilhabepaket - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion Die Linke betreffend "Kooperation zwischen LVR und Stadt Köln zur Realisierung inklusiver Bildung" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 28.02.2023 Anfrage AN/2064/2022 Kooperation zwischen LVR und Stadt Köln zur Realisierung inklusiver Bildung - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.2: Anfrage der Fraktion Die Fraktion betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 5.3: Anfrage der Fraktion FDP betreffend "Berufskollegs" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 09.02.2023 Beantwortung Anfrage AN/0021/2023: Berufskollegs - Kenntnis genommen
+- TOP 5.4: Anfrage der Fraktion Die Linke betreffend "Schulformwechsel, Ab- und Aufschulen in Köln und seine Folgen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 16.01.2023 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Sanierung der Sporthalle an der Peter-Ustinov-Realschule Neusser Straße 421, 50733 Köln - Kostenfortschreibungsbeschluss - ungeändert empfohlen
+- TOP 6.3: Aufhebung des gebundenen Ganztags an der auslaufend schließenden Ernst-Simons-Realschule, Alter Militärring 96, 50933 Köln-Müngersdorf - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 7.1: Planungsbeschluss für Umbaumaßnahmen in der Borsigstr. 13, 50825 Köln - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2021/22 - Kenntnis genommen
+- TOP 8.2: Zwischenbilanzierung der Gesamtstrategie „Kölner Kinder stärken!“ zur Prävention von Kinder-, Jugend- und Familienarmut und Ausblick auf die strategische Weiterentwicklung in 2023 - Kenntnis genommen
+- TOP 8.3: Rahmenkonzept Familiengrundschulzentren und Entwicklungsperspektiven - Kenntnis genommen
+- TOP 8.4: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 8.5: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 8.6: Beantwortung einer Anfrage zum Thema Schulrelevante Fähigkeiten: Beratungen und Untersuchungen in Kindertagesstätten AN/2101/2022 - Kenntnis genommen
+- TOP 8.7: Beantwortung einer mündl. Anfrage zum Thema Sanierung und Neubau der Turnhalle an der Gesamtschule Chorweiler - Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Schule und Weiterbildung vom 21.11.2022 - Kenntnis genommen
+- TOP 8.8: Beantwortung der mündl. Anfrage von RM Henk-Holstein aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 28.11.2022 zum Thema Renovierung der Turnhalle Adolf-Fischer-Straße - Kenntnis genommen
+- TOP 8.9: Neuer Schulstandort Friedrich-Karl-Straße - verzögerte Errichtung - Kenntnis genommen
+- TOP 8.10: Konzept der Stadt Köln für die Einrichtung von genderneutralen Toiletten an Schulen und in städtischen Gebäuden - Kenntnis genommen
+- TOP 8.11: Anfrage Terminverschiebung Regionale Bildungskonferenz - Kenntnis genommen
+- TOP 8.12: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2022 - Kenntnis genommen
+- TOP 8.13: Überlegungen zur Zusammenführung der beiden Weiterbildungskollegs Gereonsmühlengasse (Abendgymnasium und Abendrealschule) und Dagobertstraße (Abendrealschule) zu Sicherung des bestehenden Angebotes an den aktuellen Schulstandorten - Kenntnis genommen
+- TOP 8.14: Fortschreibung des Musterraumprogramms für Schulneubau- und -erweiterungsbauten 2023 - Kenntnis genommen
+- TOP 8.15: Update zum Begleitgremium zum Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - Kenntnis genommen
+- TOP 8.16: Jugend hackt 2022 in Köln - Kenntnis genommen
+- TOP 8.17: Fachtag „Misch MIT! – Kinder- und Jugendbeteiligung in Köln“ - Kenntnis genommen
+- TOP 8.18: Beantwortung einer Anfrage zur Weiterführung des Projekts Brückenbauer* - Kenntnis genommen
+- TOP 8.19: Anmeldeverfahren für die weiterführenden Schulen - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
